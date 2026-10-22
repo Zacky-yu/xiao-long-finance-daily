@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/22 13:31:52",
+ "generated_at": "2026/10/22 13:52:05",
  "recent_days": 7,
  "industries": [
   {
@@ -606,7 +606,7 @@
      "pubDate": "Tue, 20 Oct 2026 10:37:56 +0000",
      "summary": "Nominations are solicited for the 2027 ACM SIGAI Autonomous Agents Research Award. This award is made for excellence in research in the area of autonomous agents. It is intended to recognize researchers in autonomous agents whose current work is an important influence on the field. The award is an o",
      "source": "Robohub",
-     "zh": "2027 年 ACM SIGAI 自治代理奖开放提名"
+     "zh": "ACM SIGAI Autonomous Agents Award 2027 open for nominations"
     },
     {
      "title": "The Robot I Didn’t Expect to Build",
@@ -662,7 +662,7 @@
      "pubDate": "Thu, 22 Oct 2026 02:54:42 +0000",
      "summary": "An MIIT official said work on the second batch is underway, without disclosing the automakers, models or approval timeline. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "继长安、北汽之后，中国推进第二批三级审批"
+     "zh": "China advances second batch of Level 3 approvals after Changan and BAIC"
     },
     {
      "title": "Tesla says it will start selling Cybercabs by end of year",
@@ -694,7 +694,7 @@
      "pubDate": "Wed, 21 Oct 2026 22:32:50 +0000",
      "summary": "Tesla said today it will sell Cybercab to consumers by the end of this year, raising questions of what end users would do with a vehicle with no steering wheel and no self-driving software. more…",
      "source": "Electrek",
-     "zh": "特斯拉今年想卖给你一辆没有方向盘的无用汽车"
+     "zh": "Tesla wants to sell you a useless car with no steering wheel this year"
     },
     {
      "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
@@ -782,7 +782,7 @@
      "pubDate": "Wed, 21 Oct 2026 18:00:00 +0000",
      "summary": "A fourth-gen EV platform powered by LMR cells is coming soon.",
      "source": "InsideEVs",
-     "zh": "通用汽车高管表示，通用汽车并未“放弃”电动汽车"
+     "zh": "General Motors Isn't 'Walking Away' From EVs, Top Exec Says"
     },
     {
      "title": "GM is giving OnStar an AI makeover",
@@ -849,6 +849,38 @@
    "total": 9,
    "items": [
     {
+     "title": "China outlines new spot market rules supporting renewable energy and storage integration",
+     "link": "https://www.pv-magazine.com/2026/10/22/china-outlines-new-spot-market-rules-supporting-renewable-energy-and-storage-integration/",
+     "pubDate": "Thu, 22 Oct 2026 05:48:25 +0000",
+     "summary": "The revised rules would cover joint bidding, dispatch, settlement and performance assessment, alongside further electricity market reforms. The post China outlines new spot market rules supporting renewable energy and storage integration appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "China outlines new spot market rules supporting renewable energy and storage integration"
+    },
+    {
+     "title": "S-5! challenges metal roof off-purlin solar mounting assumptions",
+     "link": "https://www.pv-magazine.com/2026/10/22/s-5-challenges-metal-roof-off-purlin-solar-mounting-assumptions/",
+     "pubDate": "Thu, 22 Oct 2026 05:41:28 +0000",
+     "summary": "S-5! is challenging assumptions about metal roof off-purlin solar mounting in a new white paper it says conclusively demonstrates metal roof panels possess the structural capacity for mounting solar between purlins. The post S-5! challenges metal roof off-purlin solar mounting assumptions appeared f",
+     "source": "pv magazine",
+     "zh": "S-5! challenges metal roof off-purlin solar mounting assumptions"
+    },
+    {
+     "title": "U.S. distributed solar generation quadrupled over the last decade",
+     "link": "https://www.pv-magazine.com/2026/10/22/u-s-small-scale-solar-generation-quadrupled-over-the-last-decade/",
+     "pubDate": "Thu, 22 Oct 2026 05:37:01 +0000",
+     "summary": "Rooftop solar output expanded from 18.8 TWh to nearly 93 TWh over ten years, led by California, Arizona, Texas, Florida, and New York, according to EIA data. The post U.S. distributed solar generation quadrupled over the last decade appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "U.S. distributed solar generation quadrupled over the last decade"
+    },
+    {
+     "title": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html",
+     "pubDate": "Thu, 22 Oct 2026 00:30:00 -0500",
+     "summary": "Crude oil prices extended their earlier gains today, with Brent crude keeping above $111 per barrel after the latest reports from the Middle East, featuring more Houthi attacks on Saudi targets. An order by the U.S. federal government for non-emergency personnel in the kingdom to leave contributed t",
+     "source": "OilPrice",
+     "zh": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets"
+    },
+    {
      "title": "States Continue to Make Progress on EV Charging Infrastructure",
      "link": "https://cleantechnica.com/2026/10/21/states-continue-to-make-progress-on-ev-charging-infrastructure/",
      "pubDate": "Thu, 22 Oct 2026 03:43:17 +0000",
@@ -910,7 +942,7 @@
      "pubDate": "Thu, 22 Oct 2026 01:12:14 +0000",
      "summary": "Deepway Star semi trailer from China joins the growing number of trucking brands on Australian roads. Information was shared over LinkedIn, Facebook, and through phone interview. Mark Blackburn, Managing Director of VCF Transport Services, is not only proud of the newest acquisition to their logisti",
      "source": "CleanTechnica",
-     "zh": "不是未来，而是现在——Deepway Electric Semi 在澳大利亚投入使用"
+     "zh": "Not the Future, It’s Now — Deepway Electric Semi Put to Work in Australia"
     },
     {
      "title": "Balcony solar bill introduced in Congress for the first time",
@@ -958,7 +990,7 @@
      "pubDate": "Wed, 21 Oct 2026 17:00:00 -0500",
      "summary": "Congress needs to pass the bipartisan bill on permitting reform to accelerate energy infrastructure buildout so that the United States can compete economically and industrially with China, say former economic policy and national security officials who have served six U.S. presidents. The Bipartisan ",
      "source": "OilPrice",
-     "zh": "美国能源繁文缛节给中国带来优势"
+     "zh": "U.S. Energy Red Tape Gives China an Edge"
     },
     {
      "title": "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
@@ -975,14 +1007,6 @@
      "summary": "Back in July, UK oil and gas major BP Plc. (NYSE:BP) announced that it was putting its entire UK North Sea oil and gas business up for sale as part of a broader $20-billion portfolio overhaul, marking the end of a 60-year era as a leading player in Europe's largest oil basin. BP's North Sea operatio",
      "source": "OilPrice",
      "zh": "As BP Leaves the North Sea, These Independents Are Buying In"
-    },
-    {
-     "title": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Russias-Northern-Sea-Route-Workaround-Supplying-Asian-Buyers.html",
-     "pubDate": "Wed, 21 Oct 2026 14:00:00 -0500",
-     "summary": "Asia-bound Russian crude and fuel supplies are being rerouted as the US-Israeli war on Iran and disruptions in the straits of Hormuz and Bab al-Mandab choke off traditional crude flows from the Persian Gulf. Indeed, Russia increased oil and LNG shipments via the Northern Sea Route (NSR) and utilized",
-     "source": "OilPrice",
-     "zh": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers"
     },
     {
      "title": "IDOM to undertake site studies and design for 500MW Shanxi solar project in Oman",
@@ -1054,7 +1078,7 @@
      "pubDate": "Wed, 21 Oct 2026 12:27:00 +0000",
      "summary": "Distributed energy storage company Viridi and developer and financier Good Carbon Co. have announced the deployment of a 3.75MWh energy storage project in Buffalo, New York.",
      "source": "Energy Storage News",
-     "zh": "Viridi 在纽约经济适用房开发项目中部署“故障安全防传播架构”室内 BESS"
+     "zh": "Viridi deploys ‘Fail-Safe Anti-Propagation architecture’ indoor BESS at New York affordable housing development"
     },
     {
      "title": "New financing models needed for agrivoltaics",
@@ -1063,30 +1087,6 @@
      "summary": "Speakers at the AgriVoltaics Industry Forum Europe 2026 say rising interest rates, uncertainty over electricity revenues and the need to ensure the long-term viability of farming are making agrivoltaic projects harder to finance. The post New financing models needed for agrivoltaics appeared first o",
      "source": "pv magazine",
      "zh": "New financing models needed for agrivoltaics"
-    },
-    {
-     "title": "Construction innovations could cut gigawatt-scale solar costs by 22%",
-     "link": "https://www.pv-magazine.com/2026/10/21/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/",
-     "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
-     "summary": "Research from Lightsource bp finds combining automated foundation piling, steel-frame solar panels, bolt-free solar module installations and on-site pre-assembly could also reduce installation time of gigawatt-sized solar farms by up to 30%. The post Construction innovations could cut gigawatt-scale",
-     "source": "pv magazine",
-     "zh": "Construction innovations could cut gigawatt-scale solar costs by 22%"
-    },
-    {
-     "title": "Türkiye allows higher-powered batteries behind existing grid connections",
-     "link": "https://www.pv-magazine.com/2026/10/21/turkiye-allows-higher-powered-batteries-behind-existing-grid-connections/",
-     "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
-     "summary": "New rules boost possibilities for businesses beyond grid-connection allowance for imports, provided controls prevent grid exports and excessive imports. The post Türkiye allows higher-powered batteries behind existing grid connections appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Türkiye allows higher-powered batteries behind existing grid connections"
-    },
-    {
-     "title": "Enertrag and Axpo reach FID, order equipment on French BESS projects totalling 239MWh",
-     "link": "https://www.energy-storage.news/enertrag-and-axpo-reach-fid-order-equipment-on-french-bess-projects-totalling-239mwh/",
-     "pubDate": "Wed, 21 Oct 2026 09:35:04 +0000",
-     "summary": "German IPP Enertrag and Swiss utility Axpo have launched BESS projects in France, including what could be the country’s first 3-hour project.",
-     "source": "Energy Storage News",
-     "zh": "Enertrag and Axpo reach FID, order equipment on French BESS projects totalling 239MWh"
     }
    ]
   },
@@ -1134,7 +1134,7 @@
      "pubDate": "Wed, 21 Oct 2026 19:13:42 +0000",
      "summary": "The results of a preclinical study suggest that the BCG vaccine, which is widely used to prevent tuberculosis and treat bladder cancer, may also have properties that reduce the risk for dementia by inducing trained immunity. The post BCG Vaccine-Induced Trained Immunity May Help Protect Against Deme",
      "source": "GEN",
-     "zh": "卡介苗疫苗诱导的训练有素的免疫力可能有助于预防痴呆症"
+     "zh": "BCG Vaccine-Induced Trained Immunity May Help Protect Against Dementia"
     },
     {
      "title": "Treasury expected to be harder on China biotech deals in new rules",
@@ -1190,7 +1190,7 @@
      "pubDate": "Wed, 21 Oct 2026 12:03:00 -0400",
      "summary": "Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chronic infections and an important part of the British drugmaker&rsquo;s goal of reaching &pound;40 billion in annual revenue by 2031.",
      "source": "BioPharma Dive",
-     "zh": "GSK 和 Ionis 首个乙型肝炎药物获得美国批准"
+     "zh": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug"
     },
     {
      "title": "Researchers Validate Buoyant Mass for Cell Health Testing",
@@ -1262,7 +1262,7 @@
      "pubDate": "Wed, 21 Oct 2026 12:05:54 +0000",
      "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis.",
      "source": "STAT News",
-     "zh": "STAT+：Roivant 表示密切关注的免疫药物成功治疗新眼病"
+     "zh": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease"
     },
     {
      "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
@@ -1310,7 +1310,7 @@
      "pubDate": "Thu, 22 Oct 2026 04:01:00 +0000",
      "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
      "source": "NASA",
-     "zh": "新几内亚火查尔"
+     "zh": "Fires Char New Guinea"
     },
     {
      "title": "Faster to Science: A Letter to the Science Community",
@@ -1342,7 +1342,7 @@
      "pubDate": "Wed, 21 Oct 2026 20:25:50 +0000",
      "summary": "As its launch cadence continues to grow, China is stepping further towards reusable rockets as… The post China readies first commercial resupply craft, first booster reflight, and next landing attempt appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "中国已做好第一艘商业补给艇、首次助推器重新飞行和下一次着陆尝试的准备"
+     "zh": "China readies first commercial resupply craft, first booster reflight, and next landing attempt"
     },
     {
      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
@@ -1366,7 +1366,7 @@
      "pubDate": "Wed, 21 Oct 2026 16:31:11 +0000",
      "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA’s contribution",
      "source": "NASA",
-     "zh": "NASA 将进行 NCAA 飞行表演，吸引阿拉巴马大学球迷"
+     "zh": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama"
     },
     {
      "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
@@ -1382,7 +1382,7 @@
      "pubDate": "Wed, 21 Oct 2026 15:00:22 +0000",
      "summary": "Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity […] The post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "到 2035 年，全球卫星通信服务收入将达到 1450 亿美元"
+     "zh": "Global Satcom Services Revenues to Reach $145 Billion by 2035"
     },
     {
      "title": "\"A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want.\" Viltrox AF 16mm f/1.8 FE lens review",
@@ -1422,7 +1422,7 @@
      "pubDate": "Wed, 21 Oct 2026 12:14:24 +0000",
      "summary": "Hewlett Packard Enterprise ($HPE) is taking remote working to a whole new level. The post Hewlett Packard Enterprise to Send AI Compute Module to the Moon appeared first on Payload .",
      "source": "Payload",
-     "zh": "惠普企业将向月球发送人工智能计算模块"
+     "zh": "Hewlett Packard Enterprise to Send AI Compute Module to the Moon"
     },
     {
      "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
@@ -1430,7 +1430,7 @@
      "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
      "summary": "SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar […] The post Solstar provides Wi-Fi connectivity for NASA proximity operations de",
      "source": "SpaceNews",
-     "zh": "Solstar 为 NASA 邻近操作演示提供 Wi-Fi 连接"
+     "zh": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration"
     },
     {
      "title": "Orionid meteor shower peaks tonight: Here's the best time to spot shooting stars",
@@ -1446,7 +1446,7 @@
      "pubDate": "Wed, 21 Oct 2026 11:54:30 +0000",
      "summary": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […] The post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "量子之夏：为天基 QKD 注入动力"
+     "zh": "Summer of Quantum: Building momentum for space-based QKD"
     },
     {
      "title": "SpaceX’s AI Revenue Leads Q3 Earnings",
@@ -1502,7 +1502,7 @@
      "pubDate": "Tue, 20 Oct 2026 12:32:51 +0000",
      "summary": "In the contest to build up commercial launch capabilities in Canada, Quebec-based startup Reaction Dynamics has entered a new weight class. The post Reaction Dynamics Targets 2031 for Borealis Medium-Lift Launch appeared first on Payload .",
      "source": "Payload",
-     "zh": "反应动力学目标是 2031 年北欧化工中型发射"
+     "zh": "Reaction Dynamics Targets 2031 for Borealis Medium-Lift Launch"
     },
     {
      "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
@@ -1761,6 +1761,38 @@
    "total": 18,
    "items": [
     {
+     "title": "消息称《鬼灭之刃：无限城篇第二章》动画电影 2027 年 9 月上映",
+     "link": "https://www.ithome.com/1/016/360.htm",
+     "pubDate": "Thu, 22 Oct 2026 05:46:43 GMT",
+     "summary": "IT之家 10 月 22 日消息，Polygon 昨日（10 月 21 日）发布博文， 报道称《鬼灭之刃：无限城篇第二章》动画电影可能会在 2027 年 9 月 15 日发行上映。 电影信息网站 The-Numbers.com 近期收录了一部未命名动画电影，由索尼影业与 Crunchyroll 联合发行，定档于 2027 年 9 月 15 日。IT之家附上相关截图如下： 由于索尼及 Crunchyroll 持有《鬼灭之刃》系列的全球发行与流媒体权利，且索尼旗下 Aniplex 也参与该系列制作委员会，不少粉丝推测该神秘电影就是《鬼灭之刃：无限城篇第二章》。 另一个候选者是已宣布将于 2027 ",
+     "source": "IT之家",
+     "zh": "消息称《鬼灭之刃：无限城篇第二章》动画电影 2027 年 9 月上映"
+    },
+    {
+     "title": "特斯拉 App 适配苹果首款折叠 iPhone Duo，引入大屏双栏体验",
+     "link": "https://www.ithome.com/1/016/359.htm",
+     "pubDate": "Thu, 22 Oct 2026 05:36:56 GMT",
+     "summary": "IT之家 10 月 22 日消息，科技媒体 notateslaapp 今天（10 月 22 日）发布博文， 报道称特斯拉面向 iPad、iPhone Duo，推送 4.62.0 版本更新，重点针对大屏幕和折叠手机重新设计界面。 IT之家附上相关演示视频如下： 报道指出 iPad 用户此前只能使用被拉伸放大的 iPhone 版应用，而新版则采用专属大屏布局，左侧为功能菜单，右侧呈现更精细的车辆可视化界面，可同时查看更多车辆信息。 针对苹果折叠屏 iPhone Duo，应用在内屏采用大屏布局，可同时展示充电信息、实时摄像头和行车记录仪片段；合上手机后，外屏自动切换回常规手机界面。 新界面保留了手机",
+     "source": "IT之家",
+     "zh": "特斯拉 App 适配苹果首款折叠 iPhone Duo，引入大屏双栏体验"
+    },
+    {
+     "title": "DeepSeek融资1000亿，距离上市更近一步",
+     "link": "https://www.huxiu.com/article/4899527.html?f=rss",
+     "pubDate": "Thu, 22 Oct 2026 13:31:02 +0800",
+     "summary": "本文来自微信公众号： 动察Beating ，作者：Sleepy 10月22日，据彭博社报道，DeepSeek的第二轮融资正式完成，规模约1000亿元，投前估值5000亿元。 如果算上6月交割的首轮约510亿元，短短半年时间，DeepSeek融了约1500亿元，两轮下来，出钱最多的外部股东都是腾讯和宁德时代。 从7月到10月，这第二轮融资中间停摆过一次，募资目标从最初的至少100亿元，一路改到500亿元、800亿元，最终停在1000亿元。 放在半年前，这几乎是不可想象的事。成立前三年，DeepSeek没拿过外部一分钱，研发和算力的账单全靠梁文锋的量化私募幻方撑着。2024年梁文锋接受采访时还说，",
+     "source": "虎嗅",
+     "zh": "DeepSeek融资1000亿，距离上市更近一步"
+    },
+    {
+     "title": "被卖进电诈园区的“王星们”，永远还不清身上的“贷款”",
+     "link": "https://www.huxiu.com/article/4899525.html?f=rss",
+     "pubDate": "Thu, 22 Oct 2026 13:26:15 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，编辑：贾小凡，作者：Felicia，原文标题：《被卖进电诈园区的“王星们”，永远还不清身上的“贷款” | 专访何袜皮》 包装成海外招聘的诈骗越来越具有迷惑性。公司可能真实存在，但名字被骗子冒用。骗子还有可能将月薪包装成1万块钱，有些人会觉得“我现在找不到工作，1万块听起来很现实，不会是骗子”。 10月初，央视纪录片《缅北电诈覆灭纪实》上线。 观众被纪录片里的一些细节所震撼，如缅北电诈四大家族之一的明家的地底下有一个处决室，墙壁上有很多弹孔，记录着此间曾发生的恐怖。 打击东南亚电诈有几个关键阶段性节点：缅北“四大家族”的抓获及判决、缅东妙瓦底KK园区拆除、柬埔寨太",
+     "source": "虎嗅",
+     "zh": "被卖进电诈园区的“王星们”，永远还不清身上的“贷款”"
+    },
+    {
      "title": "三星心系天下新品发布会定档 10 月 29 日，W27 系列折叠屏手机将至",
      "link": "https://www.ithome.com/1/016/357.htm",
      "pubDate": "Thu, 22 Oct 2026 05:23:34 GMT",
@@ -1849,38 +1881,6 @@
      "zh": "全网呼叫陈广宇"
     },
     {
-     "title": "工信部郭守刚：L3 级自动驾驶产品第二批准入试点工作正在进行",
-     "link": "https://www.ithome.com/1/016/347.htm",
-     "pubDate": "Thu, 22 Oct 2026 04:51:42 GMT",
-     "summary": "IT之家 10 月 22 日消息，工业和信息化部装备工业一司司长郭守刚在今天（22 日）的 2026 世界智能网联汽车大会上指出，全球驾驶辅助已经实现规模化应用，自动驾驶即将进入商业化推广阶段。 郭守刚判断称，全球智能网联汽车进入了 辅助驾驶规模化落地与自动驾驶探索并行 的新阶段，自动驾驶正处于一个从能用向好用跨越的关键时期。 2025 年 12 月，长安和北汽两家车企 L3 级自动驾驶产品获得了附条件准入许可。郭守刚透露，现阶段 第二批准入试点工作也正在进行 。“我们将持续加强车辆运行监测和安全保障，及时总结经验，为智能网联汽车产品安全运行提供支持保障。” 他认为，智能网联汽车正在加快驱动行",
-     "source": "IT之家",
-     "zh": "工信部郭守刚：L3 级自动驾驶产品第二批准入试点工作正在进行"
-    },
-    {
-     "title": "哈利·波特能吃老本，LABUBU为什么不行？",
-     "link": "https://www.huxiu.com/article/4899515.html?f=rss",
-     "pubDate": "Thu, 22 Oct 2026 12:50:39 +0800",
-     "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 最近几年，地铁里不少人的包上都挂着一只LABUBU。有人给它换衣服，有人守着新品发售，还有人为了隐藏款在二手市场加价。这个尖耳朵、九颗牙齿的小怪物，已经从玩具柜走进了日常生活。 消费者还在抢购，资本市场却先开始担心。10月21日，泡泡玛特股价跌至129.80港元，自10月14日起连续五个交易日下跌，累计跌幅超过13%。高盛此前的渠道跟踪显示，三季度公司在天猫、抖音的合计销售额同比下降30%，市场由此担忧LABUBU的热度能持续多久。 一个角色走红时，投资者愿意为它想象很长的未来；销售增长稍有动摇，大家又急着计算它什么时候过气。数据还只是",
-     "source": "虎嗅",
-     "zh": "哈利·波特能吃老本，LABUBU为什么不行？"
-    },
-    {
-     "title": "三星下放跨平台文件传输：Galaxy A56/A57 手机可向苹果 iPhone 18 Pro 等直接传文件",
-     "link": "https://www.ithome.com/1/016/346.htm",
-     "pubDate": "Thu, 22 Oct 2026 04:49:10 GMT",
-     "summary": "IT之家 10 月 22 日消息，科技媒体 Android Police 昨日（10 月 21 日）发布博文，报道称三星下放“快速分享”（Quick Share）跨平台分享功能，Galaxy A56 和 Galaxy A57 两款手机升级 One UI 9 后， 不再需要第三方传输应用，可以直接向 iPhone 18 Pro 系列等 iPhone、iPad 或 Mac 发送照片、文档等文件。 三星于 2026 年 3 月开始在 Galaxy S26 等旗舰机型上，通过升级“快速分享”，兼容支持苹果的“隔空投送”（AirDrop）协议。用户只需在安卓端的“快速分享”设置和苹果设备的“隔空投送”中",
-     "source": "IT之家",
-     "zh": "三星下放跨平台文件传输：Galaxy A56/A57 手机可向苹果 iPhone 18 Pro 等直接传文件"
-    },
-    {
-     "title": "PHP爆雷引发全球紧急“拔网线”，别指望AI 拯救互联网",
-     "link": "https://www.huxiu.com/article/4899519.html?f=rss",
-     "pubDate": "Thu, 22 Oct 2026 12:48:31 +0800",
-     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网》 互联网的惊魂48小时，正在上演。 图｜来源：连线 昨天晚上，欧洲多国的政府网站在同一时间陆续下线。 芬兰交通与通信局把部分在线服务关了；荷兰的电子身份系统DigiD、荷兰政府的个人服务平台MijnOverheid、政务门户全部暂停服务，甚至连荷兰国家网络安全中心自己的网站都一度关闭…… 在日本，多个知名互联网社区平台，日本最大的插画/漫画/小说投稿社区pixiv、日本老牌弹幕视频网站Niconico、pixiv旗下的创作者电商平台BOOTH等平台都宣布了紧急维护。",
-     "source": "虎嗅",
-     "zh": "PHP爆雷引发全球紧急“拔网线”，别指望AI 拯救互联网"
-    },
-    {
      "title": "Muse刚火，小扎就催它挣钱了",
      "link": "https://www.tmtpost.com/8177331.html",
      "pubDate": "Thu, 22 Oct 2026 12:39:21 +0800",
@@ -1932,7 +1932,7 @@
      "title": "I can't believe PowerShell is good",
      "link": "https://www.spacebar.news/powershell-is-actually-good/",
      "pubDate": "Thu, 22 Oct 2026 03:47:37 +0000",
-     "summary": "Article URL: https://www.spacebar.news/powershell-is-actually-good/ Comments URL: https://news.ycombinator.com/item?id=50190959 Points: 33 # Comments: 15",
+     "summary": "Article URL: https://www.spacebar.news/powershell-is-actually-good/ Comments URL: https://news.ycombinator.com/item?id=50190959 Points: 37 # Comments: 17",
      "source": "Hacker News",
      "zh": "I can't believe PowerShell is good"
     },
@@ -1956,7 +1956,7 @@
      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
      "pubDate": "Thu, 22 Oct 2026 02:30:52 +0000",
-     "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 78 # Comments: 49",
+     "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 89 # Comments: 54",
      "source": "Hacker News",
      "zh": "The recently proposed o(n log n) integer multiplication algorithm [pdf]"
     },
@@ -1972,7 +1972,7 @@
      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
      "pubDate": "Thu, 22 Oct 2026 02:18:41 +0000",
-     "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 13 # Comments: 2",
+     "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 33 # Comments: 8",
      "source": "Hacker News",
      "zh": "WorldTUI: I trained a 360M model to pretend to be a terminal"
     },
@@ -1980,7 +1980,7 @@
      "title": "LLM agents play Pokemon showdown",
      "link": "https://olivergrabner.com/research/pokemon/",
      "pubDate": "Thu, 22 Oct 2026 02:13:48 +0000",
-     "summary": "Article URL: https://olivergrabner.com/research/pokemon/ Comments URL: https://news.ycombinator.com/item?id=50190334 Points: 23 # Comments: 11",
+     "summary": "Article URL: https://olivergrabner.com/research/pokemon/ Comments URL: https://news.ycombinator.com/item?id=50190334 Points: 24 # Comments: 11",
      "source": "Hacker News",
      "zh": "LLM agents play Pokemon showdown"
     },
@@ -1996,7 +1996,7 @@
      "title": "mitmproxy adds --emudhra option",
      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
      "pubDate": "Wed, 21 Oct 2026 23:51:37 +0000",
-     "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 361 # Comments: 95",
+     "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 365 # Comments: 95",
      "source": "Hacker News",
      "zh": "mitmproxy adds --emudhra option"
     }
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The winner of Nikon’s Small World competition shows the microscopic, magic world of printers",
+     "link": "https://www.dpreview.com/photography/the-winner-of-nikons-small-world-competition-shows-the-microscopic-magic-world-of-printers/",
+     "pubDate": "Thu, 22 Oct 2026 05:47:09 +0000",
+     "summary": "A look inside an inkjet, a pen, pencil and, of course, plenty of cells.",
+     "source": "DPReview",
+     "zh": "The winner of Nikon’s Small World competition shows the microscopic, magic world of printers"
+    },
     {
      "title": "Oppo Enco X4 unboxing and hands-on",
      "link": "https://www.gsmarena.com/oppo_enco_x4_unboxing_and_handson-news-75155.php",
@@ -2222,7 +2230,7 @@
      "pubDate": "Wed, 21 Oct 2026 20:43:17 +0000",
      "summary": "The case stemmed from the nearly decade-old Cambridge Analytica scandal.",
      "source": "Engadget",
-     "zh": "Meta 在新墨西哥州隐私案中被责令缴纳 250 亿美元"
+     "zh": "Meta ordered to cough up $25 billion in New Mexico privacy case"
     },
     {
      "title": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
@@ -2239,14 +2247,6 @@
      "summary": "Spotify first previewed Memberships at its Investor Day back in May, and today the feature is rolling out in 34 markets. It lets eligible podcast creators charge their biggest fans a monthly fee for exclusive content and perks, and it replaces the podcast subscriptions Spotify introduced in 2021. Cr",
      "source": "GSMArena",
      "zh": "Spotify launches podcast Memberships, creators keep 90% of the revenue"
-    },
-    {
-     "title": "Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet",
-     "link": "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet/",
-     "pubDate": "Wed, 21 Oct 2026 19:39:25 +0000",
-     "summary": "Anthropic is introducing a new AI assistant that can proactively manage tasks across connected apps, keep track of emails and calendars, and continue working even when the app is closed. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet"
     }
    ]
   },
@@ -2257,52 +2257,68 @@
    "total": 13,
    "items": [
     {
-     "title": "森鹰窗业10月22日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610223903908511.html",
-     "pubDate": "Thu, 22 Oct 2026 13:25:55 +0800",
-     "summary": "以下是 森鹰窗业 在北京时间10月22日13:25分盘口异动快照： 10月22日， 森鹰窗业 盘中跌幅达5%，截至13点25分，报31.1元，成交1.63亿元，换手率6.73%。 分笔 13:25:45 31.10 50↓ 13:25:39 31.26 19↓ 13:25:36 31.40 101↑ 13:25:30 31.23 51↓ 13:25:27 31.48 27↑ 13:25:24 31.39 9↓ 13:25:21 31.40 20↓ 13:25:18 31.49 2↑ 13:25:06 31.40 22↓ 13:24:54 31.55 8↑ 报价 卖五 31.4 266 卖四 3",
+     "title": "金鹰重工10月22日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610223903953838.html",
+     "pubDate": "Thu, 22 Oct 2026 13:43:01 +0800",
+     "summary": "以下是 金鹰重工 在北京时间10月22日13:42分盘口异动快照： 10月22日， 金鹰重工 盘中涨幅达5%，截至13点42分，报9.6元，成交1.34亿元，换手率2.65%。 分笔 13:42:51 9.60 3900↑ 13:42:48 9.51 136↑ 13:42:45 9.50 34↓ 13:42:42 9.51 10↑ 13:42:39 9.50 18↓ 13:42:36 9.52 149↑ 13:42:33 9.50 920↑ 13:42:30 9.48 441↑ 13:42:27 9.46 392↑ 13:42:24 9.43 4↑ 报价 卖五 9.64 73 卖四 9.63 ",
      "source": "东方财富股票",
-     "zh": "森鹰窗业10月22日盘中跌幅达5%"
+     "zh": "金鹰重工10月22日盘中涨幅达5%"
     },
     {
-     "title": "亿道信息10月22日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610223903908225.html",
-     "pubDate": "Thu, 22 Oct 2026 13:25:32 +0800",
-     "summary": "以下是 亿道信息 在北京时间10月22日13:25分盘口异动快照： 10月22日， 亿道信息 盘中跌幅达5%，截至13点25分，报42.87元，成交1.10亿元，换手率2.00%。 分笔 13:25:24 42.87 3↑ 13:25:21 42.88 13↓ 13:25:18 42.88 1↓ 13:25:15 42.88 16↓ 13:25:03 42.88 12↓ 13:25:00 42.89 15↓ 13:24:57 42.90 4↑ 13:24:54 42.89 1↓ 13:24:51 42.90 49↓ 13:24:36 42.95 2↑ 报价 卖五 42.96 2 卖四 42.9",
+     "title": "侨源股份10月22日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610223903953356.html",
+     "pubDate": "Thu, 22 Oct 2026 13:42:35 +0800",
+     "summary": "以下是 侨源股份 在北京时间10月22日13:42分盘口异动快照： 10月22日， 侨源股份 盘中跌幅达5%，截至13点42分，报50.21元，成交1.65亿元，换手率1.94%。 分笔 13:42:09 50.21 66↓ 13:42:06 50.87 11↑ 13:42:03 50.87 43↓ 13:41:51 50.95 21↓ 13:41:48 51.00 295↓ 13:41:42 51.04 6↑ 13:41:39 51.03 25↓ 13:41:33 51.04 1↓ 13:41:30 51.07 1↓ 13:41:27 51.07 27↓ 报价 卖五 50.95 8 卖四 5",
      "source": "东方财富股票",
-     "zh": "亿道信息10月22日盘中跌幅达5%"
+     "zh": "侨源股份10月22日盘中跌幅达5%"
     },
     {
-     "title": "中广核技10月22日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610223903907941.html",
-     "pubDate": "Thu, 22 Oct 2026 13:25:08 +0800",
-     "summary": "以下是 中广核技 在北京时间10月22日13:25分盘口异动快照： 10月22日， 中广核技 盘中快速反弹，5分钟内涨幅超过2%，截至13点25分，报6.53元，成交3805.69万元，换手率0.65%。 分笔 13:25:03 6.53 312↑ 13:25:00 6.52 1062↑ 13:24:57 6.45 299↓ 13:24:54 6.46 938↑ 13:24:51 6.43 326↑ 13:24:48 6.43 93↑ 13:24:45 6.42 24↑ 13:24:42 6.42 106↑ 13:24:39 6.40 1199↑ 13:24:36 6.39 135↓ 报价 卖",
+     "title": "德明利10月22日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610223903953466.html",
+     "pubDate": "Thu, 22 Oct 2026 13:42:35 +0800",
+     "summary": "以下是 德明利 在北京时间10月22日13:42分盘口异动快照： 10月22日， 德明利 盘中快速反弹，5分钟内涨幅超过2%，截至13点42分，报235元，成交34.18亿元，换手率6.44%。 分笔 13:42:09 235.00 458↑ 13:42:06 233.88 239↑ 13:42:03 233.60 530↑ 13:42:00 232.23 126↑ 13:41:57 232.16 234↑ 13:41:54 231.54 140↑ 13:41:51 231.54 112↑ 13:41:48 231.45 215↓ 13:41:45 232.09 86↑ 13:41:42 23",
      "source": "东方财富股票",
-     "zh": "中广核技10月22日快速反弹"
+     "zh": "德明利10月22日快速反弹"
     },
     {
-     "title": "宝信Ｂ10月22日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610223903907843.html",
-     "pubDate": "Thu, 22 Oct 2026 13:24:50 +0800",
-     "summary": "以下是宝信Ｂ在北京时间10月22日13:24分盘口异动快照： 10月22日，宝信Ｂ盘中跌幅达5%，截至13点24分，报0.749元，成交121.28万元，换手率0.22%。 分笔 13:24:37 0.749 17↓ 13:24:22 0.750 567↓ 13:24:13 0.751 5↑ 13:24:07 0.751 2↑ 13:23:55 0.751 317↓ 13:22:58 0.752 14↑ 13:22:55 0.752 51↓ 13:22:31 0.752 71↑ 13:22:19 0.751 20↓ 13:22:16 0.752 2↑ 报价 卖五 0.759 50 卖四 0.7",
+     "title": "10月22日其他专业工程板块跌幅达3%",
+     "link": "http://stock.eastmoney.com/news/1944,202610223903952993.html",
+     "pubDate": "Thu, 22 Oct 2026 13:42:18 +0800",
+     "summary": "&emsp;&emsp;10月22日13点42分，其他 专业工程 板块指数报2936.905点，跌幅达3%，成交26.54亿元，换手率0.81%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 深桑达A 报12.01元，跌9.02%； 能辉科技 报27.25元，跌6.84%； 再升科技 报7.90元，跌5.39%； 志特新材 报10.17元，跌4.60%； 罗曼股份 报71.45元，跌4.57%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "宝信Ｂ10月22日盘中跌幅达5%"
+     "zh": "10月22日其他专业工程板块跌幅达3%"
     },
     {
-     "title": "鄂资Ｂ股10月22日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610223903907745.html",
-     "pubDate": "Thu, 22 Oct 2026 13:24:39 +0800",
-     "summary": "以下是鄂资Ｂ股在北京时间10月22日13:24分盘口异动快照： 10月22日，鄂资Ｂ股盘中跌幅达5%，截至13点24分，报1.262元，成交231.87万元，换手率0.22%。 分笔 13:24:31 1.262 75↓ 13:24:19 1.264 1↑ 13:24:13 1.264 3↓ 13:24:07 1.265 8↑ 13:24:04 1.265 413↓ 13:23:52 1.271 1↓ 13:23:49 1.272 20↓ 13:23:31 1.272 1↓ 13:22:43 1.271 20↓ 13:22:40 1.271 1↓ 报价 卖五 1.274 95 卖四 1.272",
+     "title": "雅克科技10月22日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610223903952836.html",
+     "pubDate": "Thu, 22 Oct 2026 13:42:17 +0800",
+     "summary": "以下是 雅克科技 在北京时间10月22日13:41分盘口异动快照： 10月22日， 雅克科技 盘中跌幅达5%，截至13点41分，报91.96元，成交7.01亿元，换手率2.34%。 分笔 13:41:51 91.96 4↓ 13:41:48 91.97 4↓ 13:41:45 91.98 11↑ 13:41:42 91.97 17↓ 13:41:39 91.99 410↓ 13:41:36 92.01 7↓ 13:41:33 92.01 42↓ 13:41:30 92.03 18↓ 13:41:27 92.03 12↓ 13:41:24 92.03 10↓ 报价 卖五 92.02 2 卖四 9",
      "source": "东方财富股票",
-     "zh": "鄂资Ｂ股10月22日盘中跌幅达5%"
+     "zh": "雅克科技10月22日盘中跌幅达5%"
     },
     {
-     "title": "大名城B10月22日加速下跌",
-     "link": "http://stock.eastmoney.com/news/1944,202610223903907633.html",
-     "pubDate": "Thu, 22 Oct 2026 13:24:39 +0800",
-     "summary": "以下是 大名城 B在北京时间10月22日13:24分盘口异动快照： 10月22日， 大名城 B盘中加速下跌，5分钟内跌幅超过2%，截至13点24分，报0.193元，成交4.26万元，换手率0.11%。 分笔 13:24:31 0.193 159↓ 13:24:28 0.197 64↓ 13:24:04 0.197 5↓ 13:21:37 0.197 17↓ 13:19:16 0.197 11↓ 13:15:10 0.198 82↓ 13:09:22 0.198 57↓ 13:04:58 0.198 95↓ 11:03:46 0.198 17↓ 10:51:25 0.199 19↑ 报价 卖五 ",
+     "title": "阳光股份10月22日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610223903952240.html",
+     "pubDate": "Thu, 22 Oct 2026 13:42:09 +0800",
+     "summary": "以下是阳光股份在北京时间10月22日13:41分盘口异动快照： 10月22日，阳光股份盘中跌幅达5%，截至13点41分，报6元，成交7373.04万元，换手率2.07%。 分笔 13:41:48 6.00 2678↓ 13:41:45 6.04 8↑ 13:41:42 6.03 204↓ 13:41:39 6.04 21↑ 13:41:27 6.05 75↑ 13:41:24 6.04 3322↓ 13:41:21 6.06 1↑ 13:41:18 6.06 211↑ 13:41:09 6.06 282↓ 13:41:06 6.06 80↓ 报价 卖五 6.08 300 卖四 6.07 175",
      "source": "东方财富股票",
-     "zh": "大名城B10月22日加速下跌"
+     "zh": "阳光股份10月22日盘中跌幅达5%"
+    },
+    {
+     "title": "Knight-Swift projects Q4 2026 adjusted EPS of $0.78-$0.84 as it expects truckload operating income to meaningfully improve sequentially",
+     "link": "https://seekingalpha.com/news/4655692-knight-swift-projects-q4-2026-adjusted-eps-of-0_78-0_84-as-it-expects-truckload-operating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 01:35:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Knight-Swift projects Q4 2026 adjusted EPS of $0.78-$0.84 as it expects truckload operating income to meaningfully improve sequentially"
+    },
+    {
+     "title": "Ipsen raises 2026 sales growth outlook to 23% after Q3 sales jump 28%",
+     "link": "https://seekingalpha.com/news/4655691-ipsen-raises-2026-sales-growth-outlook-to-23-after-q3-sales-jump-28?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 01:28:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ipsen raises 2026 sales growth outlook to 23% after Q3 sales jump 28%"
     },
     {
      "title": "argenx Q3 revenue and profit rises",
@@ -2334,7 +2350,7 @@
      "pubDate": "Thu, 22 Oct 2026 01:16:11 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Cloudflare 表示 PHP 漏洞引发了数百万次利用尝试"
+     "zh": "PHP vulnerabilities trigger millions of exploit attempts, Cloudflare says"
     },
     {
      "title": "IBM expects 2026 revenue growth of 4% to 5% while raising free cash flow growth view to more than $1B",
@@ -2343,22 +2359,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "IBM expects 2026 revenue growth of 4% to 5% while raising free cash flow growth view to more than $1B"
-    },
-    {
-     "title": "Google, OpenAI, and Amazon respond as critical PHP flaws spark global alarm",
-     "link": "https://seekingalpha.com/news/4655685-google-openai-and-amazon-respond-as-critical-php-flaws-spark-global-alarm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 00:57:36 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Google, OpenAI, and Amazon respond as critical PHP flaws spark global alarm"
-    },
-    {
-     "title": "First Merchants Non-GAAP EPS of $1.10 beats by $0.14, revenue of $199M misses by $6.6M",
-     "link": "https://seekingalpha.com/news/4655686-first-merchants-non-gaap-eps-of-1_10-beats-by-0_14-revenue-of-199m-misses-by-6_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 00:54:35 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "First Merchants Non-GAAP EPS of $1.10 beats by $0.14, revenue of $199M misses by $6.6M"
     },
     {
      "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
@@ -2462,7 +2462,7 @@
      "pubDate": "Thu, 22 Oct 2026 04:00:21 GMT",
      "summary": "Among the group, France and the US are heading into a wall",
      "source": "Financial Times",
-     "zh": "哪个七国集团经济体是挥霍的典范？"
+     "zh": "Which G7 economy is the profligacy poster child?"
     },
     {
      "title": "Politico and Telegraph owner pitched deal to buy European arm of TikTok",
@@ -2478,7 +2478,7 @@
      "pubDate": "Thu, 22 Oct 2026 04:00:11 GMT",
      "summary": "Family of former UAE ambassador Mahdi Al Tajir looks to sell prized UK property assets as lenders seek to recoup unpaid debts",
      "source": "Financial Times",
-     "zh": "高地泉亿万富翁的房地产帝国受到贷款违约和债权人诉讼的打击"
+     "zh": "Highland Spring billionaire’s property empire hit by loan defaults and creditor action"
     },
     {
      "title": "AI and inflation: how worried should central bankers be?",
@@ -2510,7 +2510,7 @@
      "pubDate": "Wed, 21 Oct 2026 21:33:50 +0000",
      "summary": "New observations from the James Webb Space Telescope reveal a concentration of heavy metals near the Milky Way's central black hole. The discovery deepens a mystery about why our black hole behaves the way it does.",
      "source": "Live Science",
-     "zh": "詹姆斯·韦伯望远镜在银河系超大质量黑洞周围发现了令人惊讶的金属宝藏"
+     "zh": "James Webb telescope discovers surprising trove of metals around the Milky Way's supermassive black hole"
     },
     {
      "title": "Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand'",
@@ -2518,7 +2518,7 @@
      "pubDate": "Wed, 21 Oct 2026 21:16:28 +0000",
      "summary": "A massive Viking Age hoard that was discovered in Norway contains a rare silver coin featuring \"Olaf the Holy,\" one of the country's first Christian kings.",
      "source": "Live Science",
-     "zh": "“神圣奥拉夫”统治时期极其罕见的维京时代硬币可能“握在国王自己的手中”"
+     "zh": "Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand'"
     },
     {
      "title": "AI could turn scientific papers into research assistants",
@@ -2526,7 +2526,7 @@
      "pubDate": "Wed, 21 Oct 2026 17:00:00 +0000",
      "summary": "An AI ‘virtual author’ can help scientists use a paper’s methods on new data. But it’s not going to match a human author’s expertise.",
      "source": "Science News",
-     "zh": "人工智能可以将科学论文变成研究助理"
+     "zh": "AI could turn scientific papers into research assistants"
     },
     {
      "title": "Uranium from World War II reveals how close the Nazis were to an atomic bomb",
@@ -2550,7 +2550,7 @@
      "pubDate": "Wed, 21 Oct 2026 15:33:50 +0000",
      "summary": "A possible reason for the overdose deaths drop is more use of naloxone, which reverses opioid overdoses. But while still a key tool, its use fell too.",
      "source": "Science News",
-     "zh": "美国服药过量死亡人数下降的原因并不是救命药物"
+     "zh": "A lifesaving medication is not behind the drop in U.S. overdose deaths"
     },
     {
      "title": "Peek into hidden worlds revealed by the 2026 Nikon Small World contest",
@@ -2558,7 +2558,7 @@
      "pubDate": "Wed, 21 Oct 2026 14:00:31 +0000",
      "summary": "This year’s photomicrography contest captured the wonders of the very small, from flying ink droplets to the most adorable jumping spider you've ever seen.",
      "source": "Science News",
-     "zh": "探索 2026 年尼康小世界大赛揭示的隐藏世界"
+     "zh": "Peek into hidden worlds revealed by the 2026 Nikon Small World contest"
     },
     {
      "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
@@ -2566,7 +2566,7 @@
      "pubDate": "Wed, 21 Oct 2026 14:00:07 +0000",
      "summary": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life. The post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "在这些生动的显微图像中以前所未有的方式观察细胞内部"
+     "zh": "See Inside Cells Like Never Before in These Vivid Microscopic Images"
     },
     {
      "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
@@ -2574,7 +2574,7 @@
      "pubDate": "Wed, 21 Oct 2026 09:22:17 EDT",
      "summary": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processed whole grains and dairy products were as",
      "source": "ScienceDaily",
-     "zh": "460,000 人参与的大规模研究挑战了对超加工食品癌症的恐惧"
+     "zh": "Massive study of 460,000 people challenges ultra-processed food cancer fears"
     },
     {
      "title": "Too much RNA can starve cells of energy, scientists discover",
@@ -2582,7 +2582,7 @@
      "pubDate": "Wed, 21 Oct 2026 09:02:34 EDT",
      "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune syst",
      "source": "ScienceDaily",
-     "zh": "科学家发现过多的RNA会使细胞缺乏能量"
+     "zh": "Too much RNA can starve cells of energy, scientists discover"
     },
     {
      "title": "A train was delayed by a solar storm. But something didn't add up.",
@@ -2598,7 +2598,7 @@
      "pubDate": "Wed, 21 Oct 2026 07:59:14 EDT",
      "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
      "source": "ScienceDaily",
-     "zh": "宇航员的心脏刚刚通过了火星的惊人考验"
+     "zh": "Astronauts’ hearts just passed a surprising test for Mars"
     },
     {
      "title": "Lightest known pair of neutron stars proves Einstein right yet again",
@@ -2622,7 +2622,7 @@
      "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
      "summary": "A fighter pilot suddenly began experiencing intense headaches, and doctors' initial diagnoses of the problem were wrong.",
      "source": "Live Science",
-     "zh": "一名战斗机飞行员一年多来一直患有不明原因的头痛。原因就隐藏在众目睽睽之下。"
+     "zh": "A fighter pilot had unexplained headaches for over a year. The cause was hiding in plain sight."
     },
     {
      "title": "Just 4 minutes a day can dramatically improve strength after 65",
@@ -2630,7 +2630,7 @@
      "pubDate": "Wed, 21 Oct 2026 05:52:28 EDT",
      "summary": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningful gains in balance, leg strength, and their ability to stand up from a chair, all important factors",
      "source": "ScienceDaily",
-     "zh": "65岁后每天只需4分钟即可显着提高力量"
+     "zh": "Just 4 minutes a day can dramatically improve strength after 65"
     },
     {
      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
@@ -2670,7 +2670,7 @@
      "pubDate": "Tue, 20 Oct 2026 13:00:00 +0000",
      "summary": "Error correction creates qubits that glitch only 5 out of a million times, the first step toward a new phase for quantum computing.",
      "source": "Science News",
-     "zh": "量子计算的壮举让“megaquops”时代又近了一步"
+     "zh": "A quantum computing feat brings the ‘megaquops’ era a step closer"
     },
     {
      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
@@ -2702,7 +2702,7 @@
      "pubDate": "Mon, 19 Oct 2026 20:03:55 +0000",
      "summary": "One way to make batteries cleaner is to make fewer of them.",
      "source": "Ars Technica Science",
-     "zh": "电池有助于减少排放，但我们如何减少排放呢？"
+     "zh": "Batteries help reduce emissions, but how do we reduce their emissions?"
     },
     {
      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",

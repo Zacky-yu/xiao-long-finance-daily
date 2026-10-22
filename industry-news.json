@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/23 06:29:58",
+ "generated_at": "2026/10/23 06:40:12",
  "recent_days": 7,
  "industries": [
   {
@@ -49,20 +49,20 @@
      "zh": "Build more responsive apps with the Decisions API"
     },
     {
-     "title": "Canva releases its first image generation model",
-     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-     "source": "TechCrunch AI",
-     "zh": "Canva releases its first image generation model"
-    },
-    {
      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
      "source": "TechCrunch AI",
      "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
+    },
+    {
+     "title": "Canva releases its first image generation model",
+     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+     "source": "TechCrunch AI",
+     "zh": "Canva releases its first image generation model"
     },
     {
      "title": "The Foundations of Scalable AI",
@@ -209,6 +209,30 @@
      "zh": "Ensemble forecasting with IBM Granite time-series models"
     },
     {
+     "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+     "link": "https://www.qbitai.com/2026/10/504841.html",
+     "pubDate": "Thu, 22 Oct 2026 07:14:48 +0000",
+     "summary": "FSD一年增长70万付费用户",
+     "source": "量子位",
+     "zh": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先"
+    },
+    {
+     "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+     "link": "https://www.qbitai.com/2026/10/504832.html",
+     "pubDate": "Thu, 22 Oct 2026 07:11:14 +0000",
+     "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+     "source": "量子位",
+     "zh": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布"
+    },
+    {
+     "title": "谁在给OpenAI供应具身数据？",
+     "link": "https://www.qbitai.com/2026/10/504800.html",
+     "pubDate": "Thu, 22 Oct 2026 07:05:59 +0000",
+     "summary": "挤进全球Physical AI核心供应链",
+     "source": "量子位",
+     "zh": "谁在给OpenAI供应具身数据？"
+    },
+    {
      "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
      "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
      "pubDate": "Thu, 22 Oct 2026 07:00:56 +0000",
@@ -223,30 +247,6 @@
      "summary": "What forward deployed engineering means at OpenAI",
      "source": "OpenAI",
      "zh": "What FDE means at OpenAI"
-    },
-    {
-     "title": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
-     "link": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
-     "pubDate": "Thu, 22 Oct 2026 04:56:31 +0000",
-     "summary": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens. The post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Met",
-     "source": "MarkTechPost",
-     "zh": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method"
-    },
-    {
-     "title": "RSI，田渊栋交卷了！40B本地编程模型开源，MacBook Pro可跑",
-     "link": "https://zhidx.com/p/603419.html",
-     "pubDate": "Thu, 22 Oct 2026 12:30:50 +0800",
-     "summary": "智东西 作者 | 黄菲 编辑 | 江宇 智东西10月22日报道，昨夜，前Meta FAIR研究总监田渊栋参与创办的AI初创公司Recursive Superintelligence（以下简称Recursive）推出首款本地编程模型Flint，该模型主打高速推理，在英伟达RTX Spark上的生成速度超过 150 Token/秒 ，在搭载苹果M4 Pro芯片的MacBook Pro上超过 125 Token/秒 ，最高可达同类模型的 2倍 。 ▲Recursive官宣推出Flint模型，图源：X 田渊栋随后在X平台转发了这一消息，并介绍了Flint的四大亮点。 ▲田渊栋发文Flint亮相，图源：",
-     "source": "智东西",
-     "zh": "RSI，田渊栋交卷了！40B本地编程模型开源，MacBook Pro可跑"
-    },
-    {
-     "title": "1000亿！曝DeepSeek拿下中国AI最大融资",
-     "link": "https://zhidx.com/p/603434.html",
-     "pubDate": "Thu, 22 Oct 2026 12:30:14 +0800",
-     "summary": "智东西（公众号： zhidxcom ） 编译 | 杨京丽 编辑 | 云鹏 智东西10月22日消息，刚刚，据彭博社报道，DeepSeek在最新一轮融资中已筹集约 1000亿元（约合150亿美元） ，创下 中国AI行业规模最大的融资纪录 ， 宁德时代和腾讯 位列本轮融资规模最大的投资者之列。 据知情人士透露，DeepSeek在与投资者接洽期间至少两次上调融资目标，最初目标为500亿元， 后提高至800亿元 ，最终达到 1000亿元 。由于相关细节尚未公开，知情人士要求匿名。 彭博社称，DeepSeek已开始加大投入，推进AI数据中心基础设施建设，并开发更多面向中国及海外市场的开源模型。 这轮融资将",
-     "source": "智东西",
-     "zh": "1000亿！曝DeepSeek拿下中国AI最大融资"
     }
    ]
   },
@@ -289,6 +289,14 @@
      "zh": "SEMICON West’s Autonomous Fab Vision Needs a Decision-Escalation Design"
     },
     {
+     "title": "Fable: The CEO Who Cut The Cr*p",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-ceo-who-cut-the-crp-2026-10/",
+     "pubDate": "Thu, 22 Oct 2026 13:25:18 +0000",
+     "summary": "There was once a company expecting to lose $17 billion one year who bought in a new CEO. He mortgaged all the assets of the company to raise a $23.5 […] The post Fable: The CEO Who Cut The Cr*p appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Fable: The CEO Who Cut The Cr*p"
+    },
+    {
      "title": "Teradyne Targets Edge AI Test Costs With UltraFLEXplus S Series",
      "link": "https://semiwiki.com/semiconductor-manufacturers/teradyne/374905-teradyne-targets-edge-ai-test-costs-with-ultraflexplus-s-series/",
      "pubDate": "Thu, 22 Oct 2026 13:00:37 +0000",
@@ -311,6 +319,14 @@
      "summary": "Micron is overhauling how it pays employees, promising quarterly profit-sharing bonuses and better pay and benefits for its Taiwan staff. The changes follow a labor dispute with the company's unions in Taiwan.",
      "source": "DIGITIMES",
      "zh": "Micron overhauls pay in Taiwan as unions push for profit sharing"
+    },
+    {
+     "title": "Why embedded engineering is becoming a bottleneck for industrial automation",
+     "link": "https://www.electronicsweekly.com/news/why-embedded-engineering-is-becoming-a-bottleneck-for-industrial-automation-2026-10/",
+     "pubDate": "Thu, 22 Oct 2026 11:00:40 +0000",
+     "summary": "Industrial automation is increasingly becoming a strategic priority for manufacturers, with robotics, AI and connected production systems promising productivity, flexibility and resilience, writes Payam Pajoohi of PHYTEC. Despite this, adopting […] The post Why embedded engineering is becoming a bot",
+     "source": "Electronics Weekly",
+     "zh": "Why embedded engineering is becoming a bottleneck for industrial automation"
     },
     {
      "title": "PSMC raises mature-node prices again, targets 20% increase in 2027",
@@ -409,6 +425,38 @@
      "zh": "What Breaks When Packaging Moves From Wafer To Panel?"
     },
     {
+     "title": "Hydrogen truck for Dakar Rally",
+     "link": "https://www.electronicsweekly.com/news/business/hydrogen-truck-for-dakar-rally-2026-10/",
+     "pubDate": "Thu, 22 Oct 2026 05:15:41 +0000",
+     "summary": "Toyota is to enter a hydrogen-powered truck (pictured with driver Dania Akeel) in the January 2027 Dakar Rally. The truck is a hydrogen fuel cell version of the ICE Hilux […] The post Hydrogen truck for Dakar Rally appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Hydrogen truck for Dakar Rally"
+    },
+    {
+     "title": "Flapping Airplanes raises $1bn",
+     "link": "https://www.electronicsweekly.com/news/business/flapping-airplanes-raises-1bn-2026-10/",
+     "pubDate": "Thu, 22 Oct 2026 05:14:58 +0000",
+     "summary": "Flapping Airplanes, a one year-old San Francisco AI neolab, has raised $1 billion at a $6 billion valuation before it has put a product on the market. ‘Neolab’ denotes an […] The post Flapping Airplanes raises $1bn appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Flapping Airplanes raises $1bn"
+    },
+    {
+     "title": "Photon Bridge raises €10m",
+     "link": "https://www.electronicsweekly.com/news/business/photon-bridge-raises-e10m-2026-10/",
+     "pubDate": "Thu, 22 Oct 2026 05:11:49 +0000",
+     "summary": "Photon Bridge, the Dutch photonics specialist, has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly […] The post Photon Bridge raises €10m appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Photon Bridge raises €10m"
+    },
+    {
+     "title": "Q3 phone market sinks 22% YoY",
+     "link": "https://www.electronicsweekly.com/news/business/q3-phone-market-sinks-22-yoy-2026-10/",
+     "pubDate": "Thu, 22 Oct 2026 05:07:23 +0000",
+     "summary": "The global smartphone market shrank 22.0% YoY to 255.3 million, according to IDC., Shipments marking the highest YoY decline to date of any quarter.. “The sharp downturn the industry has […] The post Q3 phone market sinks 22% YoY appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Q3 phone market sinks 22% YoY"
+    },
+    {
      "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
      "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
      "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
@@ -447,54 +495,6 @@
      "summary": "At SEMICON West 2026 I sat down with John O’Donnell, founder and CEO, and Gillian O’Donnell, Director of Growth , to talk about how yieldHUB Live is transforming the semiconductor test floor from a blind spot into a real-time command center. For decades, semiconductor test floors have operated as hi",
      "source": "SemiWiki",
      "zh": "Beyond the Post-Mortem: How yieldHUB Live Turns the Test Floor Into an Open Window"
-    },
-    {
-     "title": "Why America’s Semiconductor Manufacturing Capacity Matters",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/375206-why-americas-semiconductor-manufacturing-capacity-matters/",
-     "pubDate": "Wed, 21 Oct 2026 15:00:07 +0000",
-     "summary": "America’s semiconductor future will be shaped by its ability to turn scientific discoveries into chips manufactured at scale. That is why the investments outlined in Intel Foundry’s recent editorial matter beyond the company’s own business. They address a fundamental question: whether the United Sta",
-     "source": "SemiWiki",
-     "zh": "Why America’s Semiconductor Manufacturing Capacity Matters"
-    },
-    {
-     "title": "India’s OSAT Buildout Puts Semiconductor Testing in Focus",
-     "link": "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/",
-     "pubDate": "Wed, 21 Oct 2026 13:39:13 +0000",
-     "summary": "NI said Kaynes Semicon has selected its semiconductor test systems, while other Indian OSATs continue to evaluate equipment as manufacturers prepare for production. The post India’s OSAT Buildout Puts Semiconductor Testing in Focus appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "India’s OSAT Buildout Puts Semiconductor Testing in Focus"
-    },
-    {
-     "title": "Guerrilla RF expands GaN design support and begins sampling new high-power devices",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/guerrillarf-201026.shtml",
-     "pubDate": "Tue, 20 Oct 2026 20:59:52 +0100",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that new nonlinear simulation models for its GRF0005 and GRF0012 gallium nitride (GaN) power transistors ar",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF expands GaN design support and begins sampling new high-power devices"
-    },
-    {
-     "title": "Ascent partners with Darley to expand thin-film solar product access across defense and government markets",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/ascent-solar-201026.shtml",
-     "pubDate": "Tue, 20 Oct 2026 16:49:56 +0100",
-     "summary": "Ascent Solar Technologies Inc of Thornton, CO, USA – which designs and makes lightweight, flexible copper indium gallium diselenide (CIGS) thin-film photovoltaic (PV) panels that can be integrated into consumer products, off-grid applications and aerospace applications – has announced a new partners",
-     "source": "Semiconductor Today",
-     "zh": "Ascent partners with Darley to expand thin-film solar product access across defense and government markets"
-    },
-    {
-     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
-     "link": "https://spectrum.ieee.org/community-college-semiconductors",
-     "pubDate": "Tue, 20 Oct 2026 13:00:02 +0000",
-     "summary": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared. By 2030, investments in manufacturing, design, materials, and packaging facilities in the United States will create demand for 189,000 new full-time semiconductor jobs. But the supply of such",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Community Colleges Put New Workers Into Semiconductor Jobs Fast"
-    },
-    {
-     "title": "NUBURU receives NYSE American warning letter regarding disclosure requirements",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/nuburu-201026.shtml",
-     "pubDate": "Tue, 20 Oct 2026 13:07:22 +0100",
-     "summary": "NUBURU Inc of Centennial, CO, USA (a dual-use defense & security integrated platform company) has received a public warning letter from NYSE Regulation on behalf of NYSE American LLC...",
-     "source": "Semiconductor Today",
-     "zh": "NUBURU receives NYSE American warning letter regarding disclosure requirements"
     }
    ]
   },
@@ -921,28 +921,12 @@
      "zh": "The All New,  Never Seen Anything Like It, Fourth Generation EV Platform From GM"
     },
     {
-     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
-     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
-     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
-     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
-     "source": "Utility Dive",
-     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
-    },
-    {
      "title": "Jigar Shah blames the wrong target for rising electricity bills",
      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
      "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
      "source": "Utility Dive",
      "zh": "Jigar Shah blames the wrong target for rising electricity bills"
-    },
-    {
-     "title": "Google supersizes PJM virtual power plant to more than 1 GW",
-     "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
-     "pubDate": "Thu, 22 Oct 2026 10:42:49 -0400",
-     "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
-     "source": "Utility Dive",
-     "zh": "Google supersizes PJM virtual power plant to more than 1 GW"
     },
     {
      "title": "Britain’s Buses Became More “Productive” While Running Less Service",
@@ -1087,6 +1071,22 @@
      "summary": "Kendall Sustainable Infrastructure (KSI) has started operating three community solar projects totalling 15.8MWdc across New York and Oregon.",
      "source": "PV Tech",
      "zh": "Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon"
+    },
+    {
+     "title": "Massachusetts bill could hinder push to weatherize lower-income homes",
+     "link": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-weatherize-lower-income-homes",
+     "pubDate": "Thu, 22 Oct 2026 03:30:00 -0400",
+     "summary": "Massachusetts has made meaningful strides in recent years to get its robust energy-efficiency incentives into the hands of lower-income households who need them most. Now, a provision tucked into a pending energy bill could undermine that progress, environmental justice advocates say, by making cert",
+     "source": "Canary Media",
+     "zh": "Massachusetts bill could hinder push to weatherize lower-income homes"
+    },
+    {
+     "title": "States Continue to Make Progress on EV Charging Infrastructure",
+     "link": "https://cleantechnica.com/2026/10/21/states-continue-to-make-progress-on-ev-charging-infrastructure/",
+     "pubDate": "Thu, 22 Oct 2026 03:43:17 +0000",
+     "summary": "Sierra Club Urges Congress to Reauthorize EV Charging Program in Upcoming Funding Deal WASHINGTON, D.C. — The national electric vehicle (EV) charging network is making tangible progress: Texas recently awarded $226 million for 321 new charging stations funded through the National Electric Vehicle In",
+     "source": "CleanTechnica",
+     "zh": "States Continue to Make Progress on EV Charging Infrastructure"
     }
    ]
   },
@@ -1761,6 +1761,30 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)",
+     "link": "https://www.techmeme.com/261022/p55#a261022p55",
+     "pubDate": "Thu, 22 Oct 2026 18:35:33 -0400",
+     "summary": "Financial Times : Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors &nbsp; &mdash;&nbsp; AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT&nbsp; &mda",
+     "source": "Techmeme",
+     "zh": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)"
+    },
+    {
+     "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+     "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+     "pubDate": "Thu, 22 Oct 2026 22:34:54 +0000",
+     "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+     "source": "TechCrunch",
+     "zh": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier"
+    },
+    {
+     "title": "What to Know About Shamonda Virus Following the First Reported Human Infection",
+     "link": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
+     "pubDate": "Thu, 22 Oct 2026 22:26:57 +0000",
+     "summary": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
+     "source": "WIRED",
+     "zh": "What to Know About Shamonda Virus Following the First Reported Human Infection"
+    },
+    {
      "title": "Sources: SpaceX is in talks with at least one major cellular infrastructure firm to secure a minimum of 80K US cell sites, as it eyes a wireless carrier launch (Kelcee Griffis/Bloomberg)",
      "link": "https://www.techmeme.com/261022/p54#a261022p54",
      "pubDate": "Thu, 22 Oct 2026 18:25:01 -0400",
@@ -1772,17 +1796,17 @@
      "title": "Railpass",
      "link": "https://train.samismith.com/",
      "pubDate": "Thu, 22 Oct 2026 21:38:32 +0000",
-     "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 7 # Comments: 3",
+     "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 8 # Comments: 3",
      "source": "Hacker News",
      "zh": "Railpass"
     },
     {
-     "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-     "link": "https://news.ycombinator.com/item?id=50200997",
-     "pubDate": "Thu, 22 Oct 2026 21:03:55 +0000",
-     "summary": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products? Is sellin",
+     "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+     "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+     "pubDate": "Thu, 22 Oct 2026 21:24:41 +0000",
+     "summary": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news.ycombinator.com/item?id=50201259 Points: 62 # Comments: 14",
      "source": "Hacker News",
-     "zh": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?"
+     "zh": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions"
     },
     {
      "title": "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 (Anthropic)",
@@ -1916,23 +1940,15 @@
      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
      "pubDate": "Thu, 22 Oct 2026 18:44:36 +0000",
-     "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 84 # Comments: 18",
+     "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 88 # Comments: 20",
      "source": "Hacker News",
      "zh": "Hedra is a 3D open world game I wrote from scratch while in highschool"
-    },
-    {
-     "title": "Amazon issues refunds from a 2025 settlement, crediting \"President Trump&apos;s Federal Trade Commission,\" the first time an FTC refund has been tied to a president (Alfred Ng/Politico)",
-     "link": "https://www.techmeme.com/261022/p49#a261022p49",
-     "pubDate": "Thu, 22 Oct 2026 14:40:02 -0400",
-     "summary": "Alfred Ng / Politico : Amazon issues refunds from a 2025 settlement, crediting &ldquo;President Trump's Federal Trade Commission,&rdquo; the first time an FTC refund has been tied to a president &nbsp; &mdash;&nbsp; Millions of Americans are expected to receive a settlement check from Amazon credite",
-     "source": "Techmeme",
-     "zh": "Amazon issues refunds from a 2025 settlement, crediting \"President Trump&apos;s Federal Trade Commission,\" the first time an FTC refund has been tied to a president (Alfred Ng/Politico)"
     },
     {
      "title": "Show HN: UI micro interactions prompts for AI",
      "link": "https://www.typeui.sh/micro-interactions",
      "pubDate": "Thu, 22 Oct 2026 18:32:57 +0000",
-     "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 61 # Comments: 30",
+     "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 62 # Comments: 32",
      "source": "Hacker News",
      "zh": "Show HN: UI micro interactions prompts for AI"
     },
@@ -1940,7 +1956,7 @@
      "title": "Award-winning AI literature",
      "link": "https://jamesyu.org/award-winning-ai-literature/",
      "pubDate": "Thu, 22 Oct 2026 18:28:26 +0000",
-     "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 50 # Comments: 55",
+     "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 53 # Comments: 55",
      "source": "Hacker News",
      "zh": "Award-winning AI literature"
     },
@@ -1948,7 +1964,7 @@
      "title": "AI and the Enclosure of the Scientific Commons",
      "link": "https://arxiv.org/abs/2610.27251",
      "pubDate": "Thu, 22 Oct 2026 18:28:16 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 81 # Comments: 44",
+     "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 83 # Comments: 45",
      "source": "Hacker News",
      "zh": "AI and the Enclosure of the Scientific Commons"
     },
@@ -1983,22 +1999,6 @@
      "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜当竞争对手成为客户，生意该怎么做？》 一家汽车公司的“服务及其他”业务，毛利率达到75.1%，而同期整车业务毛利率只有12.1%。 这家公司是小鹏汽车。2026年8月24日，小鹏公布第二季度业绩，当季实现营收197.44亿元，其中“服务及其他”业务收入26.97亿元，同比增长93.9%。 这项业务并非只有技术授权，还包括零部件、配件等收入。小鹏披露，相关增长来自技术研发服务、合作项目里程碑及零部件销售增加，不能将75.1%的毛利率直接视为技术授权业务的盈利水平。 9月17日，路透社报道，小鹏计划向大众之外的海外汽车制造商提",
      "source": "虎嗅",
      "zh": "战魔田默｜当竞争对手成为客户，生意该怎么做？"
-    },
-    {
-     "title": "战魔田默｜大众牵手小鹏，首款合作车月均只卖267辆，技术合作为什么没变成销量？",
-     "link": "https://www.huxiu.com/article/4899750.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 01:02:43 +0800",
-     "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜大众牵手小鹏，首款合作车月均只卖267辆，技术合作为什么没变成销量？》 大众与小鹏联合开发的第一款车，2026年4月至8月月均只卖出267辆。 10月20日，路透社援引汽车咨询机构ThinkerCar的数据披露，双方联合开发的纯电SUV与众08，在上述五个月的月均销量为267辆。 路透社获得的大众内部规划文件显示，该车型的月均销量目标曾为3622辆，实际表现仅相当于目标的7.4%。 三年前，大众牵手小鹏，希望借助中国智能汽车企业的技术和开发速度，加快自身转型。今年3月，首款合作车型正式量产，从签署联合开发技术合作协议到量产",
-     "source": "虎嗅",
-     "zh": "战魔田默｜大众牵手小鹏，首款合作车月均只卖267辆，技术合作为什么没变成销量？"
-    },
-    {
-     "title": "贫穷限制了创造力？还是其他？从诺奖谈起",
-     "link": "https://www.huxiu.com/article/4899748.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 00:09:43 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：悟00000空 每年“诺贝尔奖开奖周”，大家就忍不住比较各国获得诺奖的人数、讨论背后的原因。 人类跨入科技时代后，创造力成为一个国家的终极竞争力。从心理学、脑科学的角度来讲，影响创造力最重要的因素有哪些？我们一起来看一下，或许对孩子教育、个人发展、企业管理也有启发。 心理距离 1998年，以色列特拉维夫大学利伯曼（Nira Liberman）与特罗普（Yaacov Trope）提出“解释水平理论”（Construal Level Theory,CLT），核心论点是：时间、空间、社会关系、假设性等方面的心理距离越远，人们越倾向于抽象思考，探求本质，即“高",
-     "source": "虎嗅",
-     "zh": "贫穷限制了创造力？还是其他？从诺奖谈起"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
+     "link": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
+     "pubDate": "Thu, 22 Oct 2026 22:35:38 +0000",
+     "summary": "A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of declining demand. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report"
+    },
     {
      "title": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand",
      "link": "https://9to5mac.com/2026/10/22/daily-october-22-2026/",
@@ -2217,14 +2225,6 @@
      "zh": "Samsung's Galaxy Z Fold8 duo beats Fold7 sales by 45% in Europe, with a catch"
     },
     {
-     "title": "Amazon unveils Kindle+ subscription, a rebrand with more audiobooks",
-     "link": "https://9to5mac.com/2026/10/22/amazon-unveils-kindle-subscription-a-rebrand-with-more-audiobooks/",
-     "pubDate": "Thu, 22 Oct 2026 18:46:45 +0000",
-     "summary": "Today Amazon announced that its Kindle Unlimited subscription has been rebranded ‘Kindle+’ and includes more audiobooks than before. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Amazon unveils Kindle+ subscription, a rebrand with more audiobooks"
-    },
-    {
      "title": "Today’s Android app deals and freebies: Pixel Golf, Lantern Mail, Through the Darkest of Times, more",
      "link": "https://9to5toys.com/2026/10/22/todays-highlight-google-play-deals-34/",
      "pubDate": "Thu, 22 Oct 2026 18:46:17 +0000",
@@ -2257,6 +2257,54 @@
    "total": 13,
    "items": [
     {
+     "title": "【环球财经】伦敦股市22日下跌",
+     "link": "http://stock.eastmoney.com/news/1438,202610233904675748.html",
+     "pubDate": "Fri, 23 Oct 2026 06:30:28 +0800",
+     "summary": "新华财经伦敦10月22日电（记者赵小娜）英国伦敦股市《金融时报》100种股票平均价格指数22日报收于10725.03点，较前一交易日下跌27.85点，跌幅为0.26%。欧洲三大股指当天全线下跌。 当天伦敦股市成分股中位于涨幅前五位的个股分别为：商业服务公司 能多洁 公司股价上涨8.61%，伦敦证交所集团股价上涨7.69%， 医疗器械 供应商 施乐辉公司 股价上涨4.18%，金融衍生品交易服务商IG集团股价上涨3.60%，市场征信服务商益博睿股价上涨3.28%。 当天伦敦股市成分股中位于跌幅前五位的个股分别为： 贵金属 生产商 弗雷斯尼洛 股价下跌6.46%，矿业公司安托法加斯塔股价下跌6.17",
+     "source": "东方财富股票",
+     "zh": "【环球财经】伦敦股市22日下跌"
+    },
+    {
+     "title": "IMF：预计今年中东地区经济将萎缩1.3%",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904675478.html",
+     "pubDate": "Fri, 23 Oct 2026 06:28:47 +0800",
+     "summary": "国际货币基金组织（IMF）于阿联酋迪拜发布《区域经济展望》。报告指出，受美以伊冲突影响，能源生产、 航运 、贸易和旅游等领域受到冲击，预计2026年中东、北非、阿富汗和巴基斯坦的经济将萎缩1.3%。 国际货币基金组织中东和中亚部主任吉哈德·阿祖尔预测，海湾阿拉伯国家合作委员会成员国中，除阿曼外，其余成员国经济今年均将出现萎缩。 （文章来源：华尔街见闻）",
+     "source": "东方财富股票",
+     "zh": "IMF：预计今年中东地区经济将萎缩1.3%"
+    },
+    {
+     "title": "西藏那曲巴青7.0级地震已造成16人遇难 32人受伤",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904675518.html",
+     "pubDate": "Fri, 23 Oct 2026 06:28:33 +0800",
+     "summary": "记者从那曲市应急管理局获悉，截至10月23日2时25分，经初步排查统计，西藏那曲巴青7.0级地震已造成16人遇难，32人受伤，其中重伤11人、轻伤21人；房屋倒塌339户。目前灾情仍在进一步核查，抢险搜救、伤员救治等各项抗震救灾工作正在持续推进。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "西藏那曲巴青7.0级地震已造成16人遇难 32人受伤"
+    },
+    {
+     "title": "救援物资运抵巴青灾区 1600余人投入抗震救灾一线",
+     "link": "http://finance.eastmoney.com/news/1350,202610233904675342.html",
+     "pubDate": "Fri, 23 Oct 2026 06:27:40 +0800",
+     "summary": "据中国地震台网正式测定，10月22日22时33分在西藏那曲市巴青县（北纬32.40度，东经93.79度）发生7.0级地震，震源深度10千米。地震发生后，那曲市各级各部门紧急调拨救援物资、集结救援力量，抗震救灾工作迅速展开。 截至23日4时30分，中央、自治区、市、县四级调配的救灾物资已陆续运抵灾区，板房1000套、帐篷3239顶、折叠床2821张、棉被4280床、炉子200个、褥子100床、棉衣裤2000套、军大衣1760件、发电机4台、手摇式 太阳能 两用照明电筒1000个、头戴式户外照明灯1000个、藏袍694件。 救援力量同步向灾区集结。巴青县共组织1600余人投入抗震救灾一线；市消防救",
+     "source": "东方财富股票",
+     "zh": "救援物资运抵巴青灾区 1600余人投入抗震救灾一线"
+    },
+    {
+     "title": "周五你需要知道的隔夜全球要闻：纳指大跌2.6% 热门科技股纷纷下挫；普京称重启俄美乌三方会谈不是仅为短暂停火；OpenAI接近完成一轮至高达300亿美元的融资",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904675184.html",
+     "pubDate": "Fri, 23 Oct 2026 06:25:56 +0800",
+     "summary": "1、俄罗斯总统普京当地时间22日晚表示，俄美就重启三方会谈达成一致。三方会谈的目标是讨论在和平协议最终达成后如何确保俄罗斯和乌克兰的安全，而不是仅仅为了短暂的停火。 2、房地美周四在一份声明中表示，30年期固定利率抵押贷款的平均利率从7.4%降至7.32%。这一利率仍接近2023年11月份以来的最高水平。 3、美国国债 期货 收益率盘中持续走低，美国五年期国债收益率跌15个基点至4.8%；30年期国债收益率下跌10个基点至5.30%。 4、据美国投资公司协会（ICI），美国货币市场资产增加至7.94万亿美元。 5、OpenAI正式全面开放决策API，决策API输入定价为每百万Tokens报0.",
+     "source": "东方财富股票",
+     "zh": "周五你需要知道的隔夜全球要闻：纳指大跌2.6% 热门科技股纷纷下挫；普京称重启俄美乌三方会谈不是仅为短暂停火；OpenAI接近完成一轮至高达300亿美元的融资"
+    },
+    {
+     "title": "美媒：特朗普要求马斯克解除对乌克兰“星链”限制",
+     "link": "http://finance.eastmoney.com/news/1354,202610233904675061.html",
+     "pubDate": "Fri, 23 Oct 2026 06:22:52 +0800",
+     "summary": "新华财经华盛顿10月22日电（记者黄强徐剑梅）据美国《华尔街日报》22日报道，美国总统特朗普21日致电美国太空探索技术公司首席执行官埃隆·马斯克，要求他解除对乌克兰境内“星链”卫星 通信 系统军事化版本的相关限制。 报道援引美国官员的话说，特朗普向马斯克表示，他对“星链”系统的使用速度受限感到不满。据美国和乌克兰官员透露，在两人通话后，“星链”系统22日恢复较为正常的运行。不过，有乌克兰官员称，该系统尚未完全恢复到正常状态，但运行速度已高于限速期间的水平。 乌克兰总统泽连斯基16日在比利时布鲁塞尔举行的欧盟峰会上说，美国“星链”使用限制影响乌军拦截俄罗斯 无人机 的能力。同日，特朗普强调，他没",
+     "source": "东方财富股票",
+     "zh": "美媒：特朗普要求马斯克解除对乌克兰“星链”限制"
+    },
+    {
      "title": "Rio Tinto commits to develop $1.9B Kangwinan bauxite project in Australia",
      "link": "https://seekingalpha.com/news/4656358-rio-tinto-commits-to-develop-1_9b-kangwinan-bauxite-project-in-australia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 22 Oct 2026 18:21:40 -0400",
@@ -2271,6 +2319,14 @@
      "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
      "source": "CNBC",
      "zh": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election"
+    },
+    {
+     "title": "央行购金提速！黄金配置价值凸显 3股业绩倍增可期(名单)",
+     "link": "http://stock.eastmoney.com/news/11791,202610233904674853.html",
+     "pubDate": "Fri, 23 Oct 2026 06:20:54 +0800",
+     "summary": "高盛 报告显示，全球央行8月购金79吨，是2022年前月均水平的四倍多。央行持续增持正为金价提供中长期底部支撑。 高盛 ：8月全球央行购金79吨达常态四倍 高盛 本周发布的报告显示，全球央行8月共购入79吨 黄金 ，远高于2022年俄乌冲突爆发前每月17吨的平均水平；按季节性因素调整后的近三个月数据计算，全球央行月均购金量达85吨。其中，中国是目前能够明确识别的最大 黄金 买家，高盛估算其8月购金量约为25吨。 储备管理思路也在同步变化。荷兰央行9月披露，过去六个月已将86吨 黄金 从纽约和渥太华转移至伦敦，以提高黄金的可交易性；法国央行今年3月出售了存放在纽约的129吨黄金，相当于其黄金总储",
+     "source": "东方财富资讯",
+     "zh": "央行购金提速！黄金配置价值凸显 3股业绩倍增可期(名单)"
     },
     {
      "title": "Enterprise Financial projects mid- to high single-digit loan growth through 2026 while working to monetize Laguna OREO in Q1 2027",
@@ -2303,6 +2359,14 @@
      "summary": "Meta财报引爆AI资本开支恐慌，美股科技板块重挫，避险情绪推动美债大涨，原油则在中东局势升温下飙升。 Meta 三季度营收超出预期，却因资本开支继续上调、未来支出承诺升至8250亿美元而令自由现金流转负， 五年期信用违约互换报价 创下有记录以来新高。融资担忧沿着AI产业链扩散。 周四 标普500指数 收于7662.54点，跌1.22%，终结三连涨； 纳斯达克综合指数 跌2.60%， 道琼斯工业平均指数 涨0.02%， 罗素2000指数 涨0.11%， 费城半导体指数 跌6.72%。板块上，美股 日用消费品 、 医疗保健 与 公用事业 领涨， 半导体 、 存储芯片 与 光通信 领跌。 恐慌情绪",
      "source": "华尔街见闻",
      "zh": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨"
+    },
+    {
+     "title": "全球市场：美股三大指数涨跌不一 纳指跌超2% 费城半导体指数跌超6%",
+     "link": "http://stock.eastmoney.com/news/11784,202610233904666253.html",
+     "pubDate": "Fri, 23 Oct 2026 06:15:30 +0800",
+     "summary": "美股市场： 美股三大指数10月22日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨11.89点，收于52867.98点，涨幅为0.02%； 标准普尔 500种股票指数下跌93.74点，收于7663.43点，跌幅为1.21%； 纳斯达克 综合 指数下跌694.0点，收于26008.86点，跌幅为2.6%。 “科技七巨头”多数下跌。Meta跌6.98%，三季度自由现金流为负21.2亿美元、为十多年来首次季度净流出； 亚马逊 跌4.57%，三季度营收不及预期并下调资本开支目标； 特斯拉 跌3.08%，公司下调全年资本开支预测； 英伟达 跌4.40%、谷歌跌3.15%、 微软 跌2.23%",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数涨跌不一 纳指跌超2% 费城半导体指数跌超6%"
     },
     {
      "title": "SpaceX says Tesla merger needs Musk’s approval, discloses megapack purchases",
@@ -2343,6 +2407,22 @@
      "summary": "10月22日周四，中东局势升级引发的避险情绪席卷美股，AI产业链成为重灾区。市场重新审视AI巨额资本开支的回报前景，加码AI投资的Meta也遭抛售。散户此前一周集中买入AI行业股，令热门科技股在风险偏好骤降时更容易受冲击。同时，避险资金涌入美国国债，10年期美债收益率下破5%，显示市场压力已从AI概念股扩散至宏观利率市场。 芯片股成为重灾区。周三反弹约2%的费城半导体指数（SOX）和半导体行业ETF SOXX周四收跌将近7%。个股中，英伟达（NVDA）收跌4.4%，AMD（AMD）收跌8.1%，Lam Research（LRCX）收跌约11.8%，科磊（KLAC）收跌近9.6%；存储芯片、光通",
      "source": "华尔街见闻",
      "zh": "AI交易连遭暴击！避险升温，芯片指数收跌近7%，AI产业链全线溃败前、散户抢筹创纪录"
+    },
+    {
+     "title": "10月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11158,202610233904663980.html",
+     "pubDate": "Fri, 23 Oct 2026 06:03:00 +0800",
+     "summary": "10月23日(星期五)，今日报刊头条主要内容精华如下： 中国证券报 利好！多家上市公司出手增持回购 10月22日晚，A股公司密集披露增持、回购相关公告。从内容看，当晚公告集中于三类：多起回购明确用于注销减少注册资本；股东增持密集落地，国资股东成为主力；首次回购大额开启。 今日集体开售 多家基金公司大手笔自购 10月22日，易方达基金、富国基金、华夏基金等头部基金公司发布公告，宣布将以固有资金自购旗下首批主动ETF产品。易方达基金公告称，基于对中国资本市场长期健康稳定发展的信心，易方达基金将于10月23日运用固有资金2亿元，认购易方达品质均衡主动管理交易型开放式股票证券投资基金（扩位证券简称：品",
+     "source": "东方财富资讯",
+     "zh": "10月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "东方财富财经早餐 10月23日周五",
+     "link": "http://finance.eastmoney.com/news/11158,202610223904547512.html",
+     "pubDate": "Fri, 23 Oct 2026 06:00:43 +0800",
+     "summary": "每日精选 多只宽基ETF尾盘再度爆量： 据媒体报道，与21日尾盘情况类似，昨日收盘前10分钟，多只宽基ETF再度集中放量，大资金借道ETF逆向布局的信号愈发清晰。其中， 沪深300ETF华泰柏瑞成交额146亿元，21日全天为59.43亿元；沪深300ETF嘉实成交额达106亿元，21日全天成交仅18.90亿元 。科创50ETF华夏、创业板ETF易方达成交额均近140亿元，二者21日全天分别成交73.21亿元、104.10亿元。 多只基金加入自购行列 ： 首批主动ETF即将集中发行，基金公司自购力度再加码。22日，易方达基金、华夏基金、富国基金、汇添富基金等多家基金公司陆续公告， 分别以固有资金",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 10月23日周五"
     },
     {
      "title": "沙特遇袭推油价破110美元，黄金失守4050美元进入“投降阶段”",
@@ -2415,86 +2495,6 @@
      "summary": "OpenAI正接近完成一轮规模最高达300亿美元的融资，估值定格于1.25万亿美元，阿联酋投资者与Coatue联合领投。 10月22日，据CNBC援引知情人士透露， 本轮融资由阿联酋投资者领衔，Coatue联合参与 。上述估值为投前估值，不包含本轮新募集资金。 报道指出，OpenAI已于周四通知投资者， 目标在下周末前完成融资 ，最终融资规模仍在确定之中。 据知情人士透露，伴随融资推进，OpenAI还在同步谈判一项配套商业协议，旨在从阿联酋获取额外算力供给 。该安排有望在资金之外为OpenAI提供基础设施层面的实质支撑，进一步扩大其AI业务的运营规模。 此次融资被定位为潜在IPO前的“机会性”",
      "source": "华尔街见闻",
      "zh": "OpenAI拟以1.25万亿美元估值完成300亿美元融资，阿联酋领投"
-    },
-    {
-     "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
-     "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
-     "pubDate": "Thu, 22 Oct 2026 20:46:00 GMT",
-     "summary": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.",
-     "source": "MarketWatch",
-     "zh": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze"
-    },
-    {
-     "title": "莫德纳一度大跌26%，创单日跌幅纪录！黑色素瘤疫苗数据提前泄露，结果不及预期",
-     "link": "https://wallstreetcn.com/articles/3784254",
-     "pubDate": "Fri, 23 Oct 2026 04:41:44 +0800",
-     "summary": "莫德纳与默克联合研发的个性化黑色素瘤疫苗三期临床试验数据意外提前泄露，结果未达市场预期 ，引发莫德纳股价大幅下挫。此次数据披露事件不仅打压了投资者情绪，也对外界长期以来对mRNA癌症疗法的乐观预期构成考验。 周四，莫德纳股价盘中一度暴跌26%，创下单日跌幅历史纪录，后股价有所反弹，最终收跌17.6%；默克股价收跌1.8%。截至周四收盘，莫德纳股价年内依然上涨655%。 数据显示， 该疫苗可将癌症复发风险降低42%，并将远处转移（即肿瘤扩散至远端器官）风险降低38%。 这一结果低于部分投资者的预期，市场此前已对该疗法寄予厚望。 据悉，上述数据原定于本周六在马德里举行的欧洲肿瘤学会（ESMO）年会",
-     "source": "华尔街见闻",
-     "zh": "莫德纳一度大跌26%，创单日跌幅纪录！黑色素瘤疫苗数据提前泄露，结果不及预期"
-    },
-    {
-     "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
-     "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
-     "pubDate": "Thu, 22 Oct 2026 20:41:37 GMT",
-     "summary": "OpenAI is close to finalizing a new funding round that is meant to be a bridge to its 2027 IPO, sources familiar with the matter tell CNBC.",
-     "source": "CNBC",
-     "zh": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors"
-    },
-    {
-     "title": "Trump defends Ramaswamy ad with Acton&apos;s estranged mom after bipartisan criticism",
-     "link": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
-     "pubDate": "Thu, 22 Oct 2026 20:26:48 GMT",
-     "summary": "Ohio Gov. Mike DeWine said GOP gubernatorial nominee Vivek Ramaswamy should remove the ad featuring the mother of Democratic nominee Amy Acton.",
-     "source": "CNBC",
-     "zh": "Trump defends Ramaswamy ad with Acton&apos;s estranged mom after bipartisan criticism"
-    },
-    {
-     "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
-     "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
-     "pubDate": "Thu, 22 Oct 2026 20:14:00 GMT",
-     "summary": "A ‘sell-the-news reaction’? The experimental treatment helped prevent the return of cancer or death in melanoma patients by 42% after two years.",
-     "source": "MarketWatch",
-     "zh": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled"
-    },
-    {
-     "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
-     "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-     "pubDate": "Thu, 22 Oct 2026 20:05:42 GMT",
-     "summary": "Social media group’s market value sinks by $124bn after it says it will raise ‘hundreds of billions of dollars’ in coming years",
-     "source": "Financial Times",
-     "zh": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears"
-    },
-    {
-     "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-     "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-     "pubDate": "Thu, 22 Oct 2026 17:53:08 GMT",
-     "summary": "\"We're going to have an amazing 2027,\" he said.",
-     "source": "CNBC",
-     "zh": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease"
-    },
-    {
-     "title": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa",
-     "link": "https://www.finextra.com/newsarticle/48636/fireblocks-pours-cold-water-on-reports-of-25bn-acquisition-talks-with-visa?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 22 Oct 2026 15:46:00 GMT",
-     "summary": "Digital asset and stablecoin infrastructure provider Fireblocks says that reports that it is in talks to be acquired by Visa for $2.5 billion are \"news to us\".",
-     "source": "Finextra",
-     "zh": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa"
-    },
-    {
-     "title": "‘Know Your Agent’ will be the new rule of the AI age",
-     "link": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
-     "pubDate": "Thu, 22 Oct 2026 14:38:28 GMT",
-     "summary": "As autonomous software does more, we need to focus on how to control its behaviour and establish accountability",
-     "source": "Financial Times",
-     "zh": "‘Know Your Agent’ will be the new rule of the AI age"
-    },
-    {
-     "title": "Banks move to limit agents' access to customer accounts",
-     "link": "https://www.finextra.com/newsarticle/48634/banks-move-to-limit-agents-access-to-customer-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 22 Oct 2026 14:26:00 GMT",
-     "summary": "The CEOs of Canada's RBC and BMO are the latest bank chiefs to warn customers about the dangers of linking their accounts to AI agents.",
-     "source": "Finextra",
-     "zh": "Banks move to limit agents' access to customer accounts"
     }
    ]
   },

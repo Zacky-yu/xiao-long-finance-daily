@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/22 23:24:49",
+ "generated_at": "2026/10/22 23:30:29",
  "recent_days": 7,
  "industries": [
   {
@@ -103,7 +103,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 08:41:18 +0000",
      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
      "source": "MIT Tech Review AI",
-     "zh": "人工智能的隐藏存储费用：推理留下了什么"
+     "zh": "人工智能隐藏的存储费用：推理留下了什么"
     },
     {
      "title": "PHP差点被远程“开门”？OpenAI先发现，官方紧急补墙",
@@ -295,7 +295,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 12:59:37 GMT",
      "summary": "Micron is overhauling how it pays employees, promising quarterly profit-sharing bonuses and better pay and benefits for its Taiwan staff. The changes follow a labor dispute with the company's unions in Taiwan.",
      "source": "DIGITIMES",
-     "zh": "随着工会推动利润分享，美光在台湾彻底改革薪酬"
+     "zh": "随着工会推动利润分享，美光在台湾进行薪酬改革"
     },
     {
      "title": "Why embedded engineering is becoming a bottleneck for industrial automation",
@@ -1087,7 +1087,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 03:10:56 +0000",
      "summary": "New Zealand solar PV generator Lodestone Energy has started trading on the NZX Main Board after raising NZ$75 million (US$43 million).",
      "source": "PV Tech",
-     "zh": "Lodestone Energy 完成了 NZX 的首次上市，完全围绕新西兰公用事业规模太阳能"
+     "zh": "Lodestone Energy 完成了 NZX 的首次上市，完全围绕新西兰公用事业规模的太阳能"
     }
    ]
   },
@@ -1367,7 +1367,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 21:41:37 +0000",
      "summary": "On Oct. 21, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 2008 年 10 月 21 日：印度利用月船一号 (Chandrayaan-1) 发射其第一次月球任务"
+     "zh": "在太空的这一天！ 2008 年 10 月 21 日：印度利用月船一号 (Chandrayaan-1) 启动其第一次月球任务"
     },
     {
      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
@@ -1687,7 +1687,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 18:16:26 -0400",
      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "Google Chrome 增加了 Gemini 支持的诈骗检测功能，警告用户 ClickFix 攻击"
+     "zh": "Google Chrome 添加了 Gemini 支持的诈骗检测功能，警告用户 ClickFix 攻击"
     },
     {
      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
@@ -1761,6 +1761,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+     "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+     "pubDate": "Thu, 22 Oct 2026 15:24:32 +0000",
+     "summary": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+     "source": "TechCrunch",
+     "zh": "Spotify 确认打击家庭计划，但称其为“常规改进”"
+    },
     {
      "title": "中国一汽 — 广汽集团联合工作组成立启动会召开",
      "link": "https://www.ithome.com/1/016/748.htm",
@@ -1882,14 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nirva 计划推出一款可提供恋爱建议等功能的可穿戴人工智能个人伴侣，筹集了 2500 万美元，使其总资金达到 3300 万美元（Will Maddox/Axios）"
     },
     {
-     "title": "Quad9 (DNS Resolver) to Exit France",
-     "link": "https://quad9.net/news/blog/au-revoir-france/",
-     "pubDate": "Thu, 22 Oct 2026 14:32:38 +0000",
-     "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 36 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Quad9（DNS 解析器）退出法国"
-    },
-    {
      "title": "“宁王”的规模与利润，遭遇第一次分岔",
      "link": "https://www.huxiu.com/article/4899726.html?f=rss",
      "pubDate": "Thu, 22 Oct 2026 22:30:38 +0800",
@@ -1904,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 乐鉴笔记 ，作者：乐鉴 “我只是没认真。” 这句话给一次失败留了余地。事情没做好，仍然可以相信，认真起来的自己应该不止这样。 可下一次开始前，认真也可能变成一件有风险的事。准备得越充分，结果不理想时，就越难继续用“没准备”解释。 你想赢，也舍不得那种还没被检验过的可能：真拿出本事，自己未必会输。 于是，临到要练的时候，又先把准备放下了。 有时，少练也能让人暂时安心 2009年，Ntoumanis和同事让138名几乎没玩过飞镖的大学生参加了一项实验。先示范，再试投，之后留出十分钟休息，稍后重新计分。休息时可以继续练，也可以聊天、看杂志或离开。 区别在于，研究者给各组的目标说",
      "source": "虎嗅",
      "zh": "有一种自我耽误，叫“我只是还没认真”"
-    },
-    {
-     "title": "What's Getting Pwned",
-     "link": "https://pwn.watch/",
-     "pubDate": "Thu, 22 Oct 2026 14:08:12 +0000",
-     "summary": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 68 # Comments: 35",
-     "source": "Hacker News",
-     "zh": "什么正在被 Pwned"
     },
     {
      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
@@ -1962,30 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple 在 App Store 中推出了新的“Made for iPhone Duo”徽章，并在发布时将 Netflix、Prime Video、Zoom、Word 和 Outlook 宣传为 Duo 优化的应用程序（Emma Roth/The Verge）"
     },
     {
-     "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
-     "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-     "pubDate": "Thu, 22 Oct 2026 13:33:39 +0000",
-     "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 262 # Comments: 154",
-     "source": "Hacker News",
-     "zh": "eMudhra 退出全球 SSL/TLS 证书业务"
-    },
-    {
-     "title": "Crystal 1.22.0 Is Released",
-     "link": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
-     "pubDate": "Thu, 22 Oct 2026 13:20:13 +0000",
-     "summary": "Article URL: https://crystal-lang.org/2026/10/12/1.22.0-released/ Comments URL: https://news.ycombinator.com/item?id=50194938 Points: 69 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "水晶1.22.0发布"
-    },
-    {
-     "title": "SBD: We Have a Filesystem at Home",
-     "link": "https://fly.io/blog/sprites-block-device/",
-     "pubDate": "Thu, 22 Oct 2026 13:09:33 +0000",
-     "summary": "Article URL: https://fly.io/blog/sprites-block-device/ Comments URL: https://news.ycombinator.com/item?id=50194824 Points: 12 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "SBD：我们家里有一个文件系统"
-    },
-    {
      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
      "link": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
      "pubDate": "Thu, 22 Oct 2026 13:04:32 +0000",
@@ -2000,6 +1968,38 @@ window.INDUSTRY_DATA = {
      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
      "source": "WIRED",
      "zh": "来认识一下森，一个可爱的机器人蘑菇，它不会说（或做）任何事情"
+    },
+    {
+     "title": "亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身",
+     "link": "https://www.tmtpost.com/8177096.html",
+     "pubDate": "Thu, 22 Oct 2026 20:06:46 +0800",
+     "summary": "大量企业的AI项目停留在概念验证阶段，没有真正走向量产与工业化落地。",
+     "source": "钛媒体",
+     "zh": "亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身"
+    },
+    {
+     "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+     "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+     "pubDate": "Thu, 22 Oct 2026 11:30:33 +0000",
+     "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+     "source": "Ars Technica",
+     "zh": "333 个 Tor 出口节点被劫持以拦截 SSH 流量并检索纯文本电子邮件"
+    },
+    {
+     "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+     "link": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+     "pubDate": "Thu, 22 Oct 2026 11:15:36 +0000",
+     "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+     "source": "Ars Technica",
+     "zh": "联合国称我们的升温幅度将超过 1.5 度，并提出“现在怎么办？”回答"
+    },
+    {
+     "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
+     "link": "https://www.wired.com/story/microsoft-surface-buying-guide/",
+     "pubDate": "Thu, 22 Oct 2026 11:00:00 +0000",
+     "summary": "With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.",
+     "source": "WIRED",
+     "zh": "最佳 Microsoft Surface 笔记本电脑（2026 年）：应购买和避免哪些型号"
     }
    ]
   },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "GoPro’s new filters bring closer focus and softer backgrounds to Mission 1 cameras",
+     "link": "https://www.dpreview.com/news/gopros-new-filters-bring-closer-focus-and-softer-backgrounds-to-mission-1-cameras/",
+     "pubDate": "Thu, 22 Oct 2026 15:20:26 +0000",
+     "summary": "Made by PolarPro, the three close-up filters promise to help visually separate subjects from their surroundings.",
+     "source": "DPReview",
+     "zh": "GoPro 的新滤镜为 Mission 1 相机带来更近的焦点和更柔和的背景"
+    },
+    {
+     "title": "Throwback Thursday: why the Sony a7R II’s biggest improvement went under the radar",
+     "link": "https://www.dpreview.com/articles/throwback-thursday-why-the-sony-a7r-iis-biggest-improvement-went-under-the-radar/",
+     "pubDate": "Thu, 22 Oct 2026 15:03:36 +0000",
+     "summary": "The arrival of BSI CMOS technology in Sony's high-res full-framer didn't necessarily mean what people expected.",
+     "source": "DPReview",
+     "zh": "星期四回顾：为什么索尼 a7R II 最大的改进没有引起人们的注意"
+    },
     {
      "title": "Save $279 on this highly-rated 1080p smart projector (52% off)",
      "link": "https://www.androidauthority.com/jimveo-j62-pro-projector-deal-3726779/",
@@ -2047,7 +2063,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 14:49:17 +0000",
      "summary": "iOS 27.2 launches next week with a variety of new features , and also design changes for select Apple apps. Here’s what’s coming. more…",
      "source": "9to5Mac",
-     "zh": "iOS 27.2 为这些 Apple 应用引入了设计变更"
+     "zh": "iOS 27.2 引入了这些 Apple 应用程序的设计更改"
     },
     {
      "title": "1Password will let AI agents use your passwords without seeing them",
@@ -2194,6 +2210,14 @@ window.INDUSTRY_DATA = {
      "zh": "Insta360 为其新型电子墨水无线麦克风添加了可扩展存储空间"
     },
     {
+     "title": "Insta360’s new mic keeps the customizable screen and cuts the price",
+     "link": "https://www.dpreview.com/news/insta360s-new-mic-keeps-the-customizable-screen-and-cuts-the-price/",
+     "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
+     "summary": "The $250 two-mic kit adds microSD storage, with support for 32-bit float recording.",
+     "source": "DPReview",
+     "zh": "Insta360的新麦克风保留了可定制的屏幕并降低了价格"
+    },
+    {
      "title": "vivo Y600 to debut next week with a 10,000mAh battery",
      "link": "https://www.gsmarena.com/vivo_y600_to_debut_next_week_with_a_10000mah_battery-news-75161.php",
      "pubDate": "Thu, 22 Oct 2026 14:31:02 +0200",
@@ -2224,30 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "When Apple unveiled the iPhone Duo back in September, it said Apple Pencil support would arrive \"later this year\". With the foldable only going on sale this Friday, and Apple usually releasing its bigger software updates in December, it looked like Duo owners were in for a bit of a wait. Thankfully,",
      "source": "GSMArena",
      "zh": "iPhone Duo 很快就会获得 Apple Pencil 的支持，还有可达性"
-    },
-    {
-     "title": "Bose acquires Skullcandy",
-     "link": "https://www.gsmarena.com/bose_acquires_skullcandy-news-75162.php",
-     "pubDate": "Thu, 22 Oct 2026 12:24:03 +0200",
-     "summary": "Bose Corporation is acquiring lifestyle audio brand Skullcandy. A joint press release reveals that the two companies will combine Bose’s audio expertise with Skullcandy’s design and community connections for their future products. As such, Skullcandy will remain a separate brand within Bose’s Premiu",
-     "source": "GSMArena",
-     "zh": "Bose 收购 Skullcandy"
-    },
-    {
-     "title": "New evidence points to the vivo X500 E being a rebranded vivo V80",
-     "link": "https://www.gsmarena.com/evidence_points_to_the_vivo_x500_e_being_a_rebranded_vivo_v80-news-75163.php",
-     "pubDate": "Thu, 22 Oct 2026 11:23:03 +0200",
-     "summary": "Earlier this year, vivo launched the X300 E, which was an upgraded version of the V70 – it had a similar 6.59” display, the same 50+50+8MP camera setup and a nearly identical design. However, the X-series phone had a premium chipset (Snapdragon 8 Gen 5 vs. Snapdragon 7 Gen 4) and a bigger battery (7",
-     "source": "GSMArena",
-     "zh": "新证据表明vivo X500 E是更名后的vivo V80"
-    },
-    {
-     "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
-     "link": "https://sspai.com/post/115437",
-     "pubDate": "Thu, 22 Oct 2026 17:10:03 +0800",
-     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-     "source": "少数派",
-     "zh": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长"
     }
    ]
   },
@@ -2266,6 +2266,62 @@ window.INDUSTRY_DATA = {
      "zh": "Fireblocks 对与 Visa 进行 25 亿美元收购谈判的报道泼了一盆冷水"
     },
     {
+     "title": "Nasdaq plunges more than 2%, and these 10 names have fanned the flames",
+     "link": "https://seekingalpha.com/news/4656036-nasdaq-plunges-more-than-2-percent-and-these-10-names-have-fanned-the-flames?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 11:24:44 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "纳斯达克暴跌超2%，这10个名字煽风点火"
+    },
+    {
+     "title": "光模块龙头天孚通信回应六大关切：进出口政策暂无影响，明年扩产双线布局 CPO和NPO；股价较年内高点回撤48%",
+     "link": "http://finance.eastmoney.com/news/1354,202610223904599552.html",
+     "pubDate": "Thu, 22 Oct 2026 23:24:14 +0800",
+     "summary": "10月22日盘后， 天孚通信 （SZ300394，股价197.00元，市值2148.93亿元）披露《投资者关系活动记录表》公告。公告显示，公司就CPO（共封装光学）/NPO（近封装光学）技术路线、产能与物料、进出口政策、明年扩产重点及利润率趋势等六个问题作出回应。 以最新收盘价（前复权）计算，公司股价较年内高点（373.7元）回撤幅度达47.3%，年内累计涨幅尚余约37%。 CPO配套产品已具提产基础，NPO仍处样品阶段 公告显示，本次交流的核心议题集中在下一代光互连技术路线的推进节奏上。公司表示，就目前掌握的信息看，CPO/NPO的提产节奏近期未出现明显变化；为CPO技术路线配套的FAU、E",
+     "source": "东方财富股票",
+     "zh": "光模块龙头天孚通信回应六大关切：进出口政策暂无影响，明年扩产双线布局 CPO和NPO；股价较年内高点回撤48%"
+    },
+    {
+     "title": "巴克莱将裁员5000人 借助人工智能削减成本",
+     "link": "http://finance.eastmoney.com/news/1351,202610223904597452.html",
+     "pubDate": "Thu, 22 Oct 2026 23:21:58 +0800",
+     "summary": "巴克莱 将裁减5000个岗位，以借助 人工智能 降低成本，成为又一家因新技术逐渐渗透整个 银行 业而缩减员工规模的大型 银行 。此次裁员相当于这家总部位于伦敦的 银行 总员工人数的约5%，其中约60%的削减来自支持职能，包括开发人员。5000个岗位中包括该行上半年已削减的1000个职位。此前 巴克莱 今年早些时候公布的费用高于预期，此次裁员是其控制成本举措的一部分。这家英国银行加入 汇丰控股 和 渣打集团 的行列，转向使用 人工智能 和自动化，也更加清楚地显示出新技术正在如何重塑传统银行业工作。汇丰正考虑未来几年最多裁减2万个岗位，渣打则计划到2030年将企业职能岗位削减逾15%。越来越多迹象",
+     "source": "东方财富股票",
+     "zh": "巴克莱将裁员5000人 借助人工智能削减成本"
+    },
+    {
+     "title": "METR称OpenAI高权限试点演练发现智能体可利用漏洞 或致数百个近期操作无法被监控",
+     "link": "http://finance.eastmoney.com/news/1351,202610223904596793.html",
+     "pubDate": "Thu, 22 Oct 2026 23:20:38 +0800",
+     "summary": "模型评估与威胁研究所（METR）：OPENAI 高权限试点演练发现了一种智能体可利用的漏洞，该漏洞可导致数百个近期操作无法被监控。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "METR称OpenAI高权限试点演练发现智能体可利用漏洞 或致数百个近期操作无法被监控"
+    },
+    {
+     "title": "METR称OpenAI表示 演练发现的影响生产安全防护体系漏洞均已修复",
+     "link": "http://finance.eastmoney.com/news/1351,202610223904596968.html",
+     "pubDate": "Thu, 22 Oct 2026 23:20:35 +0800",
+     "summary": "模型评估与威胁研究所（METR）：自完成演练以来，OpenAI 表示，我们发现的所有影响其生产安全防护体系的漏洞均已修复。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "METR称OpenAI表示 演练发现的影响生产安全防护体系漏洞均已修复"
+    },
+    {
+     "title": "8天5板“大牛股”冰山冷热，最新提醒！前三季度净利同比下滑超30%",
+     "link": "http://finance.eastmoney.com/news/1354,202610223904596523.html",
+     "pubDate": "Thu, 22 Oct 2026 23:20:13 +0800",
+     "summary": "10月22日， 冰山冷热 （SZ000530，股价9.49元，市值80.02亿元）再度涨停，收获8天5板。 当晚， 冰山冷热 发布《股票交易异常波动公告》。公告显示，公司股票在2026年10月20日、10月21日、10月22日连续三个交易日内，日收盘价格涨幅偏离值累计超过20%，根据深圳证券交易所的有关规定，属于股票交易异常波动情形。公司同时提示，其股票交易价格近期已多次触发异常波动情形，若后续涨幅继续扩大，可能触发严重异常波动情形。 连续三日涨幅超20% 公司提示估值与业务风险 针对股价异动， 冰山冷热 董事会就有关重要事项进行了核实。公告显示，公司前期披露的信息不存在需要更正、补充之处；近",
+     "source": "东方财富股票",
+     "zh": "8天5板“大牛股”冰山冷热，最新提醒！前三季度净利同比下滑超30%"
+    },
+    {
+     "title": "利比亚东部议会接受央行行长辞职",
+     "link": "http://finance.eastmoney.com/news/1351,202610223904597058.html",
+     "pubDate": "Thu, 22 Oct 2026 23:19:27 +0800",
+     "summary": "利比亚东部议会发言人周四表示，东部议会已在原则上批准中央 银行 行长纳吉·伊萨（Naji Issa）的辞职，并任命央行董事会成员福齐·穆斯巴赫·阿布胡扎姆（Fowzi Musbah Abukhzam）担任该职务。有文件显示，伊萨今年8月向利比亚两个立法机构提交了辞呈，并表示自己无法继续任职，但未说明原因。 （文章来源：华尔街见闻）",
+     "source": "东方财富股票",
+     "zh": "利比亚东部议会接受央行行长辞职"
+    },
+    {
      "title": "BASF CEO says no Evonik jobs would be lost in potential deal",
      "link": "https://seekingalpha.com/news/4655986-basf-ceo-says-no-evonik-jobs-would-be-lost-in-potential-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 22 Oct 2026 11:18:33 -0400",
@@ -2279,7 +2335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 11:18:22 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Gentherm 概述了 Modine 交易后到 2030 年实现 3.5 亿美元收入和 5 亿美元调整后 EBITDA 的路径"
+     "zh": "Gentherm 概述了在 Modine 交易后到 2030 年实现 3.5 亿美元收入和 5 亿美元调整后 EBITDA 的路径"
     },
     {
      "title": "DEA opposes additional briefings for marijuana rescheduling hearing",
@@ -2288,6 +2344,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "DEA 反对为大麻重新安排听证会提供额外简报"
+    },
+    {
+     "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
+     "link": "https://wallstreetcn.com/articles/3784189",
+     "pubDate": "Thu, 22 Oct 2026 23:14:58 +0800",
+     "summary": "科技股财报喜忧参半，叠加中东局势升温，全球市场风险情绪降温。 周四，美股盘初，道指跌0.5%，标普500指数跌0.9%，纳指跌1.5%。 美股半导体板块持续走低，费城半导体指数下跌5.67％，创7月29日以来新低。个股中，AMD跌7.21％，英特尔跌6.57％，应用材料跌6.57％，Arm跌6.75％，希捷科技跌7.81％。CoreWeave大跌8%，Lumentum跌9.24%，Coherent跌11.81%，三倍做多半导体ETF跌17.09%。 特斯拉跌约3%，公司三季度营收不及预期，并下调资本开支目标。Meta跌超6%，公司未来支出承诺飙至8250亿美元。 欧洲斯托克50指数开盘跌1.2",
+     "source": "华尔街见闻",
+     "zh": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%"
     },
     {
      "title": "美国上周首申人数降至19.4万，创三个月新低，逼近60年来最低水平",
@@ -2322,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "投资者近期的资金走势表明，标普 500 指数中投资者更看重质量而非动量"
     },
     {
+     "title": "美股三大指数集体下跌 纳指跌超2% 美股科技巨头普遍下挫",
+     "link": "http://finance.eastmoney.com/news/1345,202610223904421328.html",
+     "pubDate": "Thu, 22 Oct 2026 23:09:48 +0800",
+     "summary": "美东时间周四，美股三大指数集体下跌，截至发稿，标普500指数跌1.33%， 纳斯达克 综合 指数跌2.25%，道琼斯指数跌0.44%。 美股科技巨头普遍下跌，Meta跌6.35%， SpaceX 跌6.05%， 亚马逊 、 博通 跌4.17%， 台积电 跌4.11%， 英伟达 跌3.86%， 谷歌-A 跌2.35%， 微软 跌1.31%， 特斯拉 跌0.50%， 苹果 涨0.20%。 必需消费与医药龙头上涨。个股方面， 宝洁 涨5.78%， 高露洁 涨3.54%， 强生 涨2.48%， 百事 可乐涨2.28%， 安进 涨2.27%， 默沙东 涨2.14%， 可口可乐 涨1.95%，盘中股价创 ",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体下跌 纳指跌超2% 美股科技巨头普遍下挫"
+    },
+    {
      "title": "Musk&apos;s clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
      "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
      "pubDate": "Thu, 22 Oct 2026 15:08:47 GMT",
@@ -2344,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "现在你看到了它们，但现在你还看不到：2025 年百万就业岗位的海市蜃楼"
-    },
-    {
-     "title": "Kansas City Fed Manufacturing Index's pace of growth eases in October",
-     "link": "https://seekingalpha.com/news/4655985-kansas-city-fed-manufacturing-index-slips-in-october?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 11:04:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "堪萨斯城联储制造业指数 10 月份增速放缓"
     },
     {
      "title": "Moderna has a plan to revolutionize how certain cancers are treated. We’re about to find out its potential in melanoma.",
@@ -2394,6 +2458,14 @@ window.INDUSTRY_DATA = {
      "zh": "由于人工智能支出担忧加剧，元抛售拖累美国科技股走低"
     },
     {
+     "title": "西藏那曲市巴青县发生7.0级地震 震源深度10千米",
+     "link": "http://finance.eastmoney.com/news/1345,202610223904561218.html",
+     "pubDate": "Thu, 22 Oct 2026 22:46:52 +0800",
+     "summary": "中国地震台网正式测定：10月22日22时33分在西藏那曲市巴青县（北纬32.40度，东经93.79度）发生7.0级地震，震源深度10千米。 （文章来源：央视新闻）",
+     "source": "东方财富资讯",
+     "zh": "西藏那曲市巴青县发生7.0级地震 震源深度10千米"
+    },
+    {
      "title": "‘Know Your Agent’ will be the new rule of the AI age",
      "link": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
      "pubDate": "Thu, 22 Oct 2026 14:38:28 GMT",
@@ -2424,78 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "The CEOs of Canada's RBC and BMO are the latest bank chiefs to warn customers about the dangers of linking their accounts to AI agents.",
      "source": "Finextra",
      "zh": "银行采取措施限制代理人访问客户账户"
-    },
-    {
-     "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-     "pubDate": "Thu, 22 Oct 2026 14:15:00 GMT",
-     "summary": "“Nothing has been set aside for his needs.”",
-     "source": "MarketWatch",
-     "zh": "我 81 岁的岳父卖掉了价值 75,000 美元的房子来偿还女儿 50,000 美元的债务。怎样才能让他不至于陷入贫困呢？"
-    },
-    {
-     "title": "Blackstone&apos;s Jon Gray says CoreWeave can &apos;find a way through&apos; financing pressure",
-     "link": "https://www.cnbc.com/2026/10/22/blackstone-jon-gray-coreweave-financing.html",
-     "pubDate": "Thu, 22 Oct 2026 14:11:14 GMT",
-     "summary": "Blackstone COO Jon Gray says CoreWeave's underlying business is strong despite concerns over its mounting debt.",
-     "source": "CNBC",
-     "zh": "Blackstone 的 Jon Gray 表示 CoreWeave 可以“找到解决”融资压力的方法"
-    },
-    {
-     "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
-     "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
-     "pubDate": "Thu, 22 Oct 2026 14:00:00 GMT",
-     "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
-     "source": "MarketWatch",
-     "zh": "我今年 58 岁，讨厌年金。退休后怎样才能获得可靠的收入？"
-    },
-    {
-     "title": "字节撑起近七成生意，数据中心DayOne 赴美上市遇冷？",
-     "link": "https://wallstreetcn.com/articles/3784236",
-     "pubDate": "Thu, 22 Oct 2026 21:48:41 +0800",
-     "summary": "全球数据中心企业的IPO之路，开始出现波折。 10月21日，市场消息称总部位于新加坡的数据中心运营商DayOne Data Centers（下称“DayOne”）正考虑调整赴美IPO计划，或将募资规模从最高50亿美元缩减至25亿至30亿美元，也不排除推迟上市的可能。 就在10月5日，DayOne才刚刚向美国SEC公开提交F-1招股书，计划登陆纳斯达克。此前，公司一度寻求约200亿美元的上市估值。 DayOne近年来依靠大型科技客户的需求快速扩张，吸引了Coatue、高瓴等知名投资机构入股。 DayOne主要为大型互联网和云计算企业开发、建设及运营超大规模数据中心，提供机房空间、电力供应和制冷等",
-     "source": "华尔街见闻",
-     "zh": "字节撑起近七成生意，数据中心DayOne 赴美上市遇冷？"
-    },
-    {
-     "title": "“大9”混战，万辆爆款也站不稳了",
-     "link": "https://wallstreetcn.com/articles/3784235",
-     "pubDate": "Thu, 22 Oct 2026 21:48:09 +0800",
-     "summary": "作者 | 周智宇 10月21日，极氪公布9X上市一周年成绩：累计交付突破8.5万辆，单车成交均价超过53万元。 卖得贵，也卖得多，是中国车企争相造“大9”的初衷。2022年的理想L9、2023年底的问界M9先后证明了这种可能，到2025年春季，同行的旗舰开始密集上市。 如今，车企已经能造出配置相近的产品，消费者却多了许多选择，二十多万元就能买到一辆配置齐全的大六座。各家的品牌都想往上走，争夺的买家却越来越接近。 销量过万，也不再足以让一家车企放心。零跑D19在7月冲过万辆，9月又回到三千辆左右。 “大9”的花期越来越短。一次冲高可以证明产品曾经获得认可，却还不足以支撑车企对旗舰的全部期待：提高",
-     "source": "华尔街见闻",
-     "zh": "“大9”混战，万辆爆款也站不稳了"
-    },
-    {
-     "title": "理想汽车推出“自燃赔新车”政策，为自研电池上量清障",
-     "link": "http://www.eeo.com.cn/2026/1022/1073052.shtml",
-     "pubDate": "Thu, 22 Oct 2026 21:40:33 +0800",
-     "summary": "在动力电池领域，把“赔一台车”写进正式保障文件的并不多见。此前多数车企的电池保障停留在三电质保层面，解决的是“坏了修、修不好换”的问题，极少直接承诺整车换新。",
-     "source": "经济观察网",
-     "zh": "理想汽车推出“自燃赔新车”政策，为自研电池上量清障"
-    },
-    {
-     "title": "新芯航途累计获50亿融资 算法公司打响“造芯”生存战",
-     "link": "http://www.eeo.com.cn/2026/1022/1073051.shtml",
-     "pubDate": "Thu, 22 Oct 2026 21:40:04 +0800",
-     "summary": "一家能把算法能力硬件化的芯片公司，在智驾方案走向“软硬一体”的趋势里，有它独特的位置。",
-     "source": "经济观察网",
-     "zh": "新芯航途累计获50亿融资 算法公司打响“造芯”生存战"
-    },
-    {
-     "title": "Trump&apos;s approval rating on economy hits all-time low as midterm looms: CNBC survey",
-     "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-     "pubDate": "Thu, 22 Oct 2026 13:18:36 GMT",
-     "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
-     "source": "CNBC",
-     "zh": "中期选举临近，特朗普对经济的支持率创历史新低：CNBC调查"
-    },
-    {
-     "title": "Coinbase fined €3.25m by Irish central bank",
-     "link": "https://www.finextra.com/newsarticle/48633/coinbase-fined-325m-by-irish-central-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 22 Oct 2026 12:24:00 GMT",
-     "summary": "Crypto exchange Coinbase Ireland has been penalised by the Central Bank of Ireland (CBI) for a series of operational and governance failings over a five-year period.",
-     "source": "Finextra",
-     "zh": "Coinbase 被爱尔兰央行罚款 325 万欧元"
     }
    ]
   },
@@ -2591,7 +2591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 21:33:50 +0000",
      "summary": "New observations from the James Webb Space Telescope reveal a concentration of heavy metals near the Milky Way's central black hole. The discovery deepens a mystery about why our black hole behaves the way it does.",
      "source": "Live Science",
-     "zh": "詹姆斯韦伯望远镜在银河系超大质量黑洞周围发现了令人惊讶的金属宝库"
+     "zh": "詹姆斯·韦伯望远镜在银河系超大质量黑洞周围发现了令人惊讶的金属宝藏"
     },
     {
      "title": "Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand'",
@@ -2599,7 +2599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 21:16:28 +0000",
      "summary": "A massive Viking Age hoard that was discovered in Norway contains a rare silver coin featuring \"Olaf the Holy,\" one of the country's first Christian kings.",
      "source": "Live Science",
-     "zh": "来自“圣奥拉夫”统治时期的极其罕见的维京时代硬币可能“握在国王自己的手中”"
+     "zh": "“神圣奥拉夫”统治时期极其罕见的维京时代硬币可能“握在国王自己的手中”"
     },
     {
      "title": "AI could turn scientific papers into research assistants",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 06:40:12",
+ "generated_at": "2026/10/23 06:50:45",
  "recent_days": 7,
  "industries": [
   {
@@ -639,7 +639,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 11:36:47 +0000",
      "summary": "Claire chatted to Rika Antonova from the University of Cambridge about using artificial intelligence to develop complimentary robot hardware and algorithms. Rika Antonova is an Associate Professor at the University of Cambridge. Her research interests include co-design, automated algorithm discovery",
      "source": "Robohub",
-     "zh": "Robot Talk Episode 166 – Evolving robot bodies and brains, with Rika Antonova"
+     "zh": "机器人谈话第 166 集 – 与 Rika Antonova 一起进化机器人的身体和大脑"
     }
    ]
   },
@@ -703,7 +703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 20:35:10 +0000",
      "summary": "Its next-generation EVs will offer security camera functionality and autonomous driving. But its gas SUVs won’t get left behind.",
      "source": "InsideEVs",
-     "zh": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too"
+     "zh": "“与推进无关”：通用汽车也希望为其燃气 SUV 带来特斯拉式的软件功能"
     },
     {
      "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
@@ -727,7 +727,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 19:01:00 +0000",
      "summary": "For the first time ever, the X5 is going electric. I drove the iX5 to see if it's compelling enough to get BMW buyers into an EV.",
      "source": "InsideEVs",
-     "zh": "I Drove The Electric And Gas-Powered BMW X5. I Know Which One I'd Pick."
+     "zh": "我驾驶的是电动和汽油驱动的 BMW X5。我知道我会选择哪一个。"
     },
     {
      "title": "The Ferrari Luce Officially Starts At $560,800",
@@ -823,7 +823,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 20:33:09 +0000",
      "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
      "source": "TechCrunch Transport",
-     "zh": "Tesla starts Optimus robot production in California as profit falls 43%"
+     "zh": "特斯拉在加州开始生产 Optimus 机器人 利润下降 43%"
     },
     {
      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
@@ -1167,7 +1167,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 18:04:47 +0000",
      "summary": "MAHA allies and nutrition experts want the Trump administration to act on ultra-processed foods before the elections.",
      "source": "STAT News",
-     "zh": "STAT+: Nutrition experts press White House to release ultra-processed food definition"
+     "zh": "STAT+：营养专家敦促白宫发布超加工食品的定义"
     },
     {
      "title": "Top MAHA adviser Calley Means resigns from White House days ahead of midterms",
@@ -1207,7 +1207,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 16:32:24 +0000",
      "summary": "Roche is gearing up for a major launch with its breast cancer pill giredestrant, and according to Teresa Graham, head of the company’s pharma unit, patients are clamoring to get hold of the drug. Giredestrant ...",
      "source": "Endpoints News",
-     "zh": "Roche says it will help patients who are 'anxiously awaiting' its new breast cancer drug"
+     "zh": "罗氏表示，它将帮助“焦急等待”其新乳腺癌药物的患者"
     },
     {
      "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
@@ -1263,7 +1263,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 15:06:28 +0000",
      "summary": "Speaking on the economy, the vice president told a crowd in Ohio that, “You don’t turn the Titanic around overnight.” Send news tips and bad metaphors to John.Wilkerson@statnews.com or John_Wilkerson.07…",
      "source": "STAT News",
-     "zh": "STAT+: Crackdowns loom, from China to New York"
+     "zh": "STAT+：从中国到纽约，镇压迫在眉睫"
     },
     {
      "title": "BCG Vaccine-Induced Trained Immunity May Help Protect Against Dementia",
@@ -1327,7 +1327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 21:35:38 +0000",
      "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 M",
      "source": "NASA",
-     "zh": "Spiral’s Edge"
+     "zh": "螺旋边缘"
     },
     {
      "title": "On this day in space! Oct. 22, 1992: Ashes of 'Star Trek' creator Gene Roddenberry launch into space on NASA shuttle",
@@ -1359,7 +1359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 18:13:38 +0000",
      "summary": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "Rethinking networks in space with Aalyria’s Brian Barritt"
+     "zh": "与 Aalyria 的 Brian Barritt 一起重新思考太空网络"
     },
     {
      "title": "Van Gogh's 'The Starry Night' depicts the sky on July 22, 1889, researchers find",
@@ -1375,7 +1375,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 16:20:37 +0000",
      "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
      "source": "NASA",
-     "zh": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses"
+     "zh": "美国宇航局哈勃望远镜用引力透镜绘制了罗马人的路径"
     },
     {
      "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
@@ -1383,7 +1383,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 16:14:56 +0000",
      "summary": "Victor Glover recalls how a suspected cabin leak warning came just 15 minutes before a crucial engine burn — and why receiving it just five minutes later could have changed everything.",
      "source": "Space.com",
-     "zh": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission"
+     "zh": "“疑似机舱泄漏”：阿耳忒弥斯二号宇航员揭示了一个警告如何差点使美国宇航局史诗般的登月任务脱轨"
     },
     {
      "title": "Xona Raises $250M Series D to Scale Commercial GPS Constellation",
@@ -1551,7 +1551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 17:25:31 -0400",
      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
      "source": "BleepingComputer",
-     "zh": "Railway warns devs to rotate secrets after potential breach"
+     "zh": "铁路警告开发人员在可能发生泄露后轮换机密"
     },
     {
      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
@@ -1663,7 +1663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 14:31:34 +0000",
      "summary": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "Hacker Conversations: Corey Thuen and the Evil Bit"
+     "zh": "黑客对话：Corey Thuen 和邪恶的比特"
     },
     {
      "title": "Machine speed attacks require machine speed detection and response",
@@ -1671,7 +1671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 10:02:12 -0400",
      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.",
      "source": "BleepingComputer",
-     "zh": "Machine speed attacks require machine speed detection and response"
+     "zh": "机器速度攻击需要机器速度检测和响应"
     },
     {
      "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
@@ -1735,7 +1735,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 20:14:42 GMT",
      "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
      "source": "Dark Reading",
-     "zh": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security"
+     "zh": "Marvell、Microsoft 和 Oracle 致力于标准化数据中心硬件安全"
     },
     {
      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -1743,7 +1743,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 15:26:07 +0000",
      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaw",
      "source": "Krebs on Security",
-     "zh": "Widespread PHP Flaw May Cause Many Site Outages Today"
+     "zh": "广泛传播的 PHP 漏洞可能导致许多网站瘫痪"
     },
     {
      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
@@ -1761,6 +1761,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "英特尔 CTO 称前沿晶圆产量最多翻倍，AI 算力扩张遭遇供应链天花板",
+     "link": "https://www.ithome.com/1/016/761.htm",
+     "pubDate": "Thu, 22 Oct 2026 22:48:15 GMT",
+     "summary": "IT之家 10 月 23 日消息，在接受 Dwarkesh 播客时，英特尔首席技术官（CTO）普什卡 · 拉纳德（Pushkar Ranade）表示： 即便资金充足，全球尖端晶圆产量也难以扩大十倍，更现实的增长上限约为两倍。 在播客节目中，拉纳德被问及“世界上是否有足够工具，把前沿晶圆产量提高 10 倍”。对此他回应称“不是 10 倍，但可能达到 2 倍，是的。”他认为这一限制源于整个半导体供应链协同扩产的能力，而非某个单一环节。 IT之家援引博文介绍，拉纳德指出，AI 计算能力过去十年大约以每年三倍的速度增长，但制造先进芯片所需的关键设备、洁净室和晶圆厂规模，正在成为新的产能天花板。 其中，",
+     "source": "IT之家",
+     "zh": "英特尔 CTO 称前沿晶圆产量最多翻倍，AI 算力扩张遭遇供应链天花板"
+    },
     {
      "title": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)",
      "link": "https://www.techmeme.com/261022/p55#a261022p55",
@@ -1783,7 +1791,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 22:26:57 +0000",
      "summary": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
      "source": "WIRED",
-     "zh": "What to Know About Shamonda Virus Following the First Reported Human Infection"
+     "zh": "首次报告人类感染后，关于沙蒙达病毒的了解"
     },
     {
      "title": "Sources: SpaceX is in talks with at least one major cellular infrastructure firm to secure a minimum of 80K US cell sites, as it eyes a wireless carrier launch (Kelcee Griffis/Bloomberg)",
@@ -1791,7 +1799,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 18:25:01 -0400",
      "summary": "Kelcee Griffis / Bloomberg : Sources: SpaceX is in talks with at least one major cellular infrastructure firm to secure a minimum of 80K US cell sites, as it eyes a wireless carrier launch &nbsp; &mdash;&nbsp; SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it's in talks with",
      "source": "Techmeme",
-     "zh": "Sources: SpaceX is in talks with at least one major cellular infrastructure firm to secure a minimum of 80K US cell sites, as it eyes a wireless carrier launch (Kelcee Griffis/Bloomberg)"
+     "zh": "消息来源：SpaceX 正在与至少一家主要蜂窝基础设施公司进行谈判，以获得至少 8 万个美国蜂窝基站，因为它着眼于无线运营商的发射（Kelcee Griffis/彭博社）"
     },
     {
      "title": "Railpass",
@@ -1847,7 +1855,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 20:05:51 +0000",
      "summary": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem.",
      "source": "WIRED",
-     "zh": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data"
+     "zh": "Google Home 音箱偷偷吃掉了我的 Wi-Fi 数据"
     },
     {
      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
@@ -1871,7 +1879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 19:59:37 +0000",
      "summary": "We can't have nice things, but at least we can get trailers for them.",
      "source": "Ars Technica",
-     "zh": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing"
+     "zh": "泄露的《质量效应：宇宙》预告片让我们领略了我们所缺失的东西"
     },
     {
      "title": "The Social Society Helping Women Join the AI Boom",
@@ -1887,7 +1895,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 15:55:01 -0400",
      "summary": "Ivan Mehta / TechCrunch : Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots &nbsp; &mdash;&nbsp; Design platform Canva released its first image generation model, called Canva Craft, develope",
      "source": "Techmeme",
-     "zh": "Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)"
+     "zh": "Canva 推出了 Craft，这是其第一个图像生成模型，经过人工设计的模板训练，可供所有用户使用，并计划支持第三方聊天机器人（Ivan Mehta/TechCrunch）"
     },
     {
      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "How bug bounty sharpens one researcher’s security skills"
-    },
-    {
-     "title": "战魔田默｜当竞争对手成为客户，生意该怎么做？",
-     "link": "https://www.huxiu.com/article/4899751.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 01:03:14 +0800",
-     "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜当竞争对手成为客户，生意该怎么做？》 一家汽车公司的“服务及其他”业务，毛利率达到75.1%，而同期整车业务毛利率只有12.1%。 这家公司是小鹏汽车。2026年8月24日，小鹏公布第二季度业绩，当季实现营收197.44亿元，其中“服务及其他”业务收入26.97亿元，同比增长93.9%。 这项业务并非只有技术授权，还包括零部件、配件等收入。小鹏披露，相关增长来自技术研发服务、合作项目里程碑及零部件销售增加，不能将75.1%的毛利率直接视为技术授权业务的盈利水平。 9月17日，路透社报道，小鹏计划向大众之外的海外汽车制造商提",
-     "source": "虎嗅",
-     "zh": "战魔田默｜当竞争对手成为客户，生意该怎么做？"
     }
    ]
   },
@@ -2215,7 +2215,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 18:59:09 +0000",
      "summary": "A fan-built model of the Alive tour pyramid got the green light to become a real product.",
      "source": "Engadget",
-     "zh": "Daft Punk is getting an official Lego set"
+     "zh": "Daft Punk 即将推出官方乐高套装"
     },
     {
      "title": "Samsung's Galaxy Z Fold8 duo beats Fold7 sales by 45% in Europe, with a catch",
@@ -2258,52 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "【环球财经】伦敦股市22日下跌",
-     "link": "http://stock.eastmoney.com/news/1438,202610233904675748.html",
-     "pubDate": "Fri, 23 Oct 2026 06:30:28 +0800",
-     "summary": "新华财经伦敦10月22日电（记者赵小娜）英国伦敦股市《金融时报》100种股票平均价格指数22日报收于10725.03点，较前一交易日下跌27.85点，跌幅为0.26%。欧洲三大股指当天全线下跌。 当天伦敦股市成分股中位于涨幅前五位的个股分别为：商业服务公司 能多洁 公司股价上涨8.61%，伦敦证交所集团股价上涨7.69%， 医疗器械 供应商 施乐辉公司 股价上涨4.18%，金融衍生品交易服务商IG集团股价上涨3.60%，市场征信服务商益博睿股价上涨3.28%。 当天伦敦股市成分股中位于跌幅前五位的个股分别为： 贵金属 生产商 弗雷斯尼洛 股价下跌6.46%，矿业公司安托法加斯塔股价下跌6.17",
-     "source": "东方财富股票",
-     "zh": "【环球财经】伦敦股市22日下跌"
+     "title": "报道：SK海力士放弃Solidigm美国IPO计划",
+     "link": "https://wallstreetcn.com/articles/3784259",
+     "pubDate": "Fri, 23 Oct 2026 06:47:19 +0800",
+     "summary": "据韩国经济日报周五援引未具名业内人士报道，SK海力士已决定不再寻求旗下子公司Solidigm在美国进行首次公开募股（IPO）。 这一决定正值韩国监管部门加大对母子公司重复上市的审查之际。 韩国金融监督院院长李灿镇本月19日表示，Solidigm赴美上市可能涉及韩国重复上市监管规则；金融委员会主席李亿远22日也表示，Solidigm适用相关指引，SK海力士及其上层母公司需要履行保护股东权益的义务。 监管压力与股东权益争议升温 Solidigm源自SK海力士对英特尔NAND闪存及固态硬盘业务的收购。SK海力士于2021年完成相关业务整合，Solidigm目前重点布局面向人工智能数据中心的企业级固态",
+     "source": "华尔街见闻",
+     "zh": "报道：SK海力士放弃Solidigm美国IPO计划"
     },
     {
-     "title": "IMF：预计今年中东地区经济将萎缩1.3%",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904675478.html",
-     "pubDate": "Fri, 23 Oct 2026 06:28:47 +0800",
-     "summary": "国际货币基金组织（IMF）于阿联酋迪拜发布《区域经济展望》。报告指出，受美以伊冲突影响，能源生产、 航运 、贸易和旅游等领域受到冲击，预计2026年中东、北非、阿富汗和巴基斯坦的经济将萎缩1.3%。 国际货币基金组织中东和中亚部主任吉哈德·阿祖尔预测，海湾阿拉伯国家合作委员会成员国中，除阿曼外，其余成员国经济今年均将出现萎缩。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "IMF：预计今年中东地区经济将萎缩1.3%"
+     "title": "Liberty Energy targets first ~500 MW energy service agreement by December 2026 as 1.2 GW development deal sets phased energization through Q1 2029",
+     "link": "https://seekingalpha.com/news/4656365-liberty-energy-targets-first-500-mw-energy-service-agreement-by-december-2026-as-1_2-gw?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 18:39:22 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Liberty Energy 的目标是在 2026 年 12 月之前签署第一份约 500 兆瓦的能源服务协议，因为 1.2 吉瓦的开发协议规定到 2029 年第一季度分阶段通电"
     },
     {
-     "title": "西藏那曲巴青7.0级地震已造成16人遇难 32人受伤",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904675518.html",
-     "pubDate": "Fri, 23 Oct 2026 06:28:33 +0800",
-     "summary": "记者从那曲市应急管理局获悉，截至10月23日2时25分，经初步排查统计，西藏那曲巴青7.0级地震已造成16人遇难，32人受伤，其中重伤11人、轻伤21人；房屋倒塌339户。目前灾情仍在进一步核查，抢险搜救、伤员救治等各项抗震救灾工作正在持续推进。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "西藏那曲巴青7.0级地震已造成16人遇难 32人受伤"
+     "title": "Old Republic expects auto warranty annual premium to reach $600M-$700M over next few years as ECM and warranty lift continues",
+     "link": "https://seekingalpha.com/news/4656364-old-republic-expects-auto-warranty-annual-premium-to-reach-600m-700m-over-next-few-years-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 18:38:35 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Old Republic expects auto warranty annual premium to reach $600M-$700M over next few years as ECM and warranty lift continues"
     },
     {
-     "title": "救援物资运抵巴青灾区 1600余人投入抗震救灾一线",
-     "link": "http://finance.eastmoney.com/news/1350,202610233904675342.html",
-     "pubDate": "Fri, 23 Oct 2026 06:27:40 +0800",
-     "summary": "据中国地震台网正式测定，10月22日22时33分在西藏那曲市巴青县（北纬32.40度，东经93.79度）发生7.0级地震，震源深度10千米。地震发生后，那曲市各级各部门紧急调拨救援物资、集结救援力量，抗震救灾工作迅速展开。 截至23日4时30分，中央、自治区、市、县四级调配的救灾物资已陆续运抵灾区，板房1000套、帐篷3239顶、折叠床2821张、棉被4280床、炉子200个、褥子100床、棉衣裤2000套、军大衣1760件、发电机4台、手摇式 太阳能 两用照明电筒1000个、头戴式户外照明灯1000个、藏袍694件。 救援力量同步向灾区集结。巴青县共组织1600余人投入抗震救灾一线；市消防救",
+     "title": "俄乌一边释放谈判信号一边互袭不断",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904677752.html",
+     "pubDate": "Fri, 23 Oct 2026 06:36:18 +0800",
+     "summary": "新华财经北京10月23日电 综合 新华社驻外记者报道：近日，围绕俄乌冲突的外交接触密集展开。美国总统特使威特科夫先后与乌克兰总统泽连斯基和俄罗斯总统普京会面；乌方释放出支持“能源停火”和以“冻结现状”为基础达成和平协议的信号；俄方则表示准备重启俄美乌三方会谈。与此同时，俄乌双方互袭不断，乌方称能源设施再遭大范围袭击。 泽连斯基22日接受英国媒体采访时称，乌方愿讨论安全保障和停火问题，停火是目前乌方能作出的最大让步。俄方要求乌方从斯拉维扬斯克、克拉马托尔斯克、德鲁日科夫卡等地撤军，但如果将上述城市移交给俄方，乌方将面临巨大安全风险。 据乌克兰国际文传电讯社21日报道，泽连斯基当天在接受美国媒体直",
      "source": "东方财富股票",
-     "zh": "救援物资运抵巴青灾区 1600余人投入抗震救灾一线"
+     "zh": "俄乌一边释放谈判信号一边互袭不断"
     },
     {
-     "title": "周五你需要知道的隔夜全球要闻：纳指大跌2.6% 热门科技股纷纷下挫；普京称重启俄美乌三方会谈不是仅为短暂停火；OpenAI接近完成一轮至高达300亿美元的融资",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904675184.html",
-     "pubDate": "Fri, 23 Oct 2026 06:25:56 +0800",
-     "summary": "1、俄罗斯总统普京当地时间22日晚表示，俄美就重启三方会谈达成一致。三方会谈的目标是讨论在和平协议最终达成后如何确保俄罗斯和乌克兰的安全，而不是仅仅为了短暂的停火。 2、房地美周四在一份声明中表示，30年期固定利率抵押贷款的平均利率从7.4%降至7.32%。这一利率仍接近2023年11月份以来的最高水平。 3、美国国债 期货 收益率盘中持续走低，美国五年期国债收益率跌15个基点至4.8%；30年期国债收益率下跌10个基点至5.30%。 4、据美国投资公司协会（ICI），美国货币市场资产增加至7.94万亿美元。 5、OpenAI正式全面开放决策API，决策API输入定价为每百万Tokens报0.",
-     "source": "东方财富股票",
-     "zh": "周五你需要知道的隔夜全球要闻：纳指大跌2.6% 热门科技股纷纷下挫；普京称重启俄美乌三方会谈不是仅为短暂停火；OpenAI接近完成一轮至高达300亿美元的融资"
+     "title": "ADNOC's XRG in talks to buy stake in Eni's Libya business - Reuters",
+     "link": "https://seekingalpha.com/news/4656363-adnocs-xrg-in-talks-to-buy-stake-in-enis-libya-business-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 18:36:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ADNOC旗下XRG正在洽谈购买埃尼利比亚业务的股份 - 路透中文网"
     },
     {
-     "title": "美媒：特朗普要求马斯克解除对乌克兰“星链”限制",
-     "link": "http://finance.eastmoney.com/news/1354,202610233904675061.html",
-     "pubDate": "Fri, 23 Oct 2026 06:22:52 +0800",
-     "summary": "新华财经华盛顿10月22日电（记者黄强徐剑梅）据美国《华尔街日报》22日报道，美国总统特朗普21日致电美国太空探索技术公司首席执行官埃隆·马斯克，要求他解除对乌克兰境内“星链”卫星 通信 系统军事化版本的相关限制。 报道援引美国官员的话说，特朗普向马斯克表示，他对“星链”系统的使用速度受限感到不满。据美国和乌克兰官员透露，在两人通话后，“星链”系统22日恢复较为正常的运行。不过，有乌克兰官员称，该系统尚未完全恢复到正常状态，但运行速度已高于限速期间的水平。 乌克兰总统泽连斯基16日在比利时布鲁塞尔举行的欧盟峰会上说，美国“星链”使用限制影响乌军拦截俄罗斯 无人机 的能力。同日，特朗普强调，他没",
+     "title": "SK海力士决定不推进Solidigm美国IPO 已终止审核 增长投入需求不变",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904677253.html",
+     "pubDate": "Fri, 23 Oct 2026 06:35:59 +0800",
+     "summary": "SK海力士 ：决定不推进Solidigm在美国的IPO。基于市场环境与股价走势，已终止 IPO 审核。对 Solidigm 的增长投入需求保持不变，公司将继续探索提升股东价值的其他方案。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "美媒：特朗普要求马斯克解除对乌克兰“星链”限制"
+     "zh": "SK海力士决定不推进Solidigm美国IPO 已终止审核 增长投入需求不变"
+    },
+    {
+     "title": "特朗普与加密公司被诉 遭指从外国政府获利",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904677454.html",
+     "pubDate": "Fri, 23 Oct 2026 06:35:51 +0800",
+     "summary": "一名竞争对手加密公司股东起诉美国总统唐纳德·特朗普及其与儿子共同创办的加密货币企业World Liberty Financial，指控特朗普违反美国宪法，利用其总统职务非法获利。 Circle Internet Group Inc.的股东J. Benjamin Greenberg称，来自World Liberty Financial的非法竞争已对其本人及其他 Circle投资者造成财务损害。 诉状称，特朗普在World Liberty Financial与阿联酋的两笔交易中违反了宪法中的“外国薪酬条款”。该股东J. Benjamin Greenberg请求法院下令禁止特朗普继续违反该条款，并要",
+     "source": "东方财富股票",
+     "zh": "特朗普与加密公司被诉 遭指从外国政府获利"
+    },
+    {
+     "title": "美股收盘：纳指重挫近700点跌2.6%，道指微涨；存储芯片股集体大跌，闪迪、海力士跌超8%；半导体全线大跌，英特尔、超威半导体跌超8%",
+     "link": "http://stock.eastmoney.com/news/1440,202610233904677677.html",
+     "pubDate": "Fri, 23 Oct 2026 06:35:37 +0800",
+     "summary": "美东时间周四，美国三大股指收盘涨跌不一。截至收盘，道指涨0.02%报52867.98点；纳指跌2.6%报26008.86点，跌近700点；标普500指数跌1.21%报7663.43点。 盘面上，大型科技股多数收跌，万得美国科技七巨头指数跌2.80%。个股方面， 苹果 涨1.23%， 微软 跌2.23%， 特斯拉 跌3.08%，谷歌跌3.15%， 英伟达 跌4.40%， 亚马逊 跌4.57%，脸书跌6.98%。 半导体 股全线收跌， 高通 跌2.88%， 博通 跌4.31%， 台积电 跌4.52%， 阿斯麦 跌6.93%，ARM跌7.28%， 英特尔 跌8.04%， 超威半导体 跌8.10%。 ",
+     "source": "东方财富股票",
+     "zh": "美股收盘：纳指重挫近700点跌2.6%，道指微涨；存储芯片股集体大跌，闪迪、海力士跌超8%；半导体全线大跌，英特尔、超威半导体跌超8%"
+    },
+    {
+     "title": "特步国际第三季度主品牌零售销售增长取得中单位数同比下跌",
+     "link": "http://hk.eastmoney.com/news/1535,202610233904678064.html",
+     "pubDate": "Fri, 23 Oct 2026 06:35:36 +0800",
+     "summary": "特步国际 (01368)发布公告，截至2026年9月30日止3个月，特步主品牌零售销售增长(包括 线上线下 渠道)取得中单位数同比下跌;零售折扣水平为七至七五折;渠道库存周转约四个半月至五个月。索康尼零售销售增长(包括 线上线下 渠道)取得中单位数同比增长。 （文章来源：智通财经）",
+     "source": "东方财富股票",
+     "zh": "特步国际第三季度主品牌零售销售增长取得中单位数同比下跌"
+    },
+    {
+     "title": "2亿自购！主动ETF时代启幕，解码质量主动ETF华夏的底色",
+     "link": "http://stock.eastmoney.com/news/11622,202610233904676949.html",
+     "pubDate": "Fri, 23 Oct 2026 06:34:14 +0800",
+     "summary": "2026年9月底，境内全市场ETF总规模约4.9万亿元，ETF正从“基础投资工具”向“资本市场核心基础设施”转型。一个更深层的问题开始浮现：当被动投资的工具属性被充分验证，资金下一步流向哪里？ 答案藏在监管框架的变化里——主动ETF，它将主动管理的投研能力嵌入交易便捷、持仓透明、成本低廉的ETF载体，填补了场内主动权益工具空白。 在这一背景下，质量主动ETF华夏（认购代码：581033，产品代码：581030）10月23日开售。值得一提的是，基于对中国资本市场长期健康稳定发展的信心，华夏基金于募集期首日以固有资金2亿元认购质量主动ETF华夏。与市场上常见的指数增强产品不同，这只产品的定位并非“",
+     "source": "东方财富股票",
+     "zh": "2亿自购！主动ETF时代启幕，解码质量主动ETF华夏的底色"
     },
     {
      "title": "Rio Tinto commits to develop $1.9B Kangwinan bauxite project in Australia",
@@ -2370,30 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "全球市场：美股三大指数涨跌不一 纳指跌超2% 费城半导体指数跌超6%"
     },
     {
-     "title": "SpaceX says Tesla merger needs Musk’s approval, discloses megapack purchases",
-     "link": "https://seekingalpha.com/news/4656357-spacex-says-tesla-merger-needs-musks-approval-discloses-megapack-purchases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 18:14:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SpaceX says Tesla merger needs Musk’s approval, discloses megapack purchases"
-    },
-    {
-     "title": "WesBanco outlines mid-single-digit 2026 loan growth and sees Q4 2026 NIM 1-2 bps below 3.60% while expanding Florida and Tennessee",
-     "link": "https://seekingalpha.com/news/4656359-wesbanco-outlines-mid-single-digit-2026-loan-growth-and-sees-q4-2026-nim-1minus-2-bps-below?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 18:08:35 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "WesBanco outlines mid-single-digit 2026 loan growth and sees Q4 2026 NIM 1-2 bps below 3.60% while expanding Florida and Tennessee"
-    },
-    {
-     "title": "Old Second outlines 14% dividend increase as it targets low single-digit loan growth in Q4 2026",
-     "link": "https://seekingalpha.com/news/4656360-old-second-outlines-14-percent-dividend-increase-as-it-targets-low-single-digit-loan-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 18:08:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Old Second outlines 14% dividend increase as it targets low single-digit loan growth in Q4 2026"
-    },
-    {
      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
      "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
      "pubDate": "Thu, 22 Oct 2026 22:07:00 GMT",
@@ -2455,7 +2463,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 21:50:16 GMT",
      "summary": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
      "source": "Financial Times",
-     "zh": "OpenAI trims valuation target to $1.25tn after pitching higher price"
+     "zh": "OpenAI 在提高价格后将估值目标下调至 1.25 兆美元"
     },
     {
      "title": "Americans are having fewer babies — and pampering them with luxury diapers",
@@ -2471,7 +2479,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 21:19:00 GMT",
      "summary": "Investors are spooked by Tesla’s lower spending target, Lam Research’s weaker-than-expected forecast and a fresh reminder that the AI boom relies on outside funding.",
      "source": "MarketWatch",
-     "zh": "3 big reasons Micron and other chip stocks fell hard on Thursday"
+     "zh": "美光等芯片股周四大幅下跌的三大原因"
     },
     {
      "title": "UK and EU financial regulators seek answers from Google over cloud outage",
@@ -2479,7 +2487,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 21:18:00 GMT",
      "summary": "The European Banking Authority and the UK's Financial Conduct Authority have been in contact with Google over the major cloud outage earlier this week that knocked out several bank websites.",
      "source": "Finextra",
-     "zh": "UK and EU financial regulators seek answers from Google over cloud outage"
+     "zh": "英国和欧盟金融监管机构就云中断问题向谷歌寻求答案"
     },
     {
      "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
@@ -2488,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
      "source": "CNBC",
      "zh": "Trump asked Musk to lift Starlink slowdown, WSJ reports"
-    },
-    {
-     "title": "OpenAI拟以1.25万亿美元估值完成300亿美元融资，阿联酋领投",
-     "link": "https://wallstreetcn.com/articles/3784256",
-     "pubDate": "Fri, 23 Oct 2026 04:56:46 +0800",
-     "summary": "OpenAI正接近完成一轮规模最高达300亿美元的融资，估值定格于1.25万亿美元，阿联酋投资者与Coatue联合领投。 10月22日，据CNBC援引知情人士透露， 本轮融资由阿联酋投资者领衔，Coatue联合参与 。上述估值为投前估值，不包含本轮新募集资金。 报道指出，OpenAI已于周四通知投资者， 目标在下周末前完成融资 ，最终融资规模仍在确定之中。 据知情人士透露，伴随融资推进，OpenAI还在同步谈判一项配套商业协议，旨在从阿联酋获取额外算力供给 。该安排有望在资金之外为OpenAI提供基础设施层面的实质支撑，进一步扩大其AI业务的运营规模。 此次融资被定位为潜在IPO前的“机会性”",
-     "source": "华尔街见闻",
-     "zh": "OpenAI拟以1.25万亿美元估值完成300亿美元融资，阿联酋领投"
     }
    ]
   },
@@ -2519,7 +2519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 20:00:00 +0000",
      "summary": "Artemis II Commander Reid Wiseman felt genuine fear when he saw the Orion spacecraft had gone farther from Earth than anticipated, the astronaut told an audience at the Starmus VIII festival this week.",
      "source": "Live Science",
-     "zh": "'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon"
+     "zh": "“我们永远不会回家”：阿耳忒弥斯二号指挥官回忆他十天绕月之旅中最可怕的时刻"
     },
     {
      "title": "Crows may make lightning-fast decisions, sometimes twice as fast as humans, study hints",
@@ -2559,7 +2559,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 16:46:36 +0000",
      "summary": "The Martian Moons Exploration (MMX) mission, which launched from Japan on Oct. 19, is on its way to Mars. When it arrives, the probe will attempt to land on one of the Red Planet's twin moons and scoop up rocks to bring back to Earth. Experts tell Live Science what these \"transformative\" samples cou",
      "source": "Live Science",
-     "zh": "Japan launches world's first round-trip mission to Mars."
+     "zh": "日本发射了世界上首次火星往返任务。"
     },
     {
      "title": "Will plants survive climate change? The 'Great Dying' reveals clues about their resilience.",
@@ -2591,7 +2591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 08:06:14 EDT",
      "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and re",
      "source": "ScienceDaily",
-     "zh": "Birds are more afraid of women than men. Scientists have no idea why"
+     "zh": "鸟类比男性更害怕女性。科学家们不知道为什么"
     },
     {
      "title": "Oxford scientists discover how viruses build themselves without a blueprint",
@@ -2639,7 +2639,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 06:10:23 EDT",
      "summary": "Scientists have discovered why common marmosets have unusually small, smooth brains despite starting development much like other primates. The secret lies in subtle changes to brain-building cells that slow neuron production, revealing new clues about how the large, folded human brain evolved.",
      "source": "ScienceDaily",
-     "zh": "Scientists discover a surprising secret behind the human brain’s wrinkles"
+     "zh": "科学家发现人脑皱纹背后的惊人秘密"
     },
     {
      "title": "AI could turn scientific papers into research assistants",
@@ -2655,7 +2655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 15:33:50 +0000",
      "summary": "A possible reason for the overdose deaths drop is more use of naloxone, which reverses opioid overdoses. But while still a key tool, its use fell too.",
      "source": "Science News",
-     "zh": "A lifesaving medication is not behind the drop in U.S. overdose deaths"
+     "zh": "美国服药过量死亡人数下降的原因并不是救命药物"
     },
     {
      "title": "Peek into hidden worlds revealed by the 2026 Nikon Small World contest",
@@ -2663,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 14:00:31 +0000",
      "summary": "This year’s photomicrography contest captured the wonders of the very small, from flying ink droplets to the most adorable jumping spider you've ever seen.",
      "source": "Science News",
-     "zh": "Peek into hidden worlds revealed by the 2026 Nikon Small World contest"
+     "zh": "探索 2026 年尼康小世界大赛揭示的隐藏世界"
     },
     {
      "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
@@ -2687,7 +2687,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 20 Oct 2026 18:08:57 +0000",
      "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
      "source": "Ars Technica Science",
-     "zh": "Quantum error correction goes well beyond breakeven"
+     "zh": "量子纠错远远超出了盈亏平衡"
     },
     {
      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
@@ -2695,7 +2695,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 20 Oct 2026 05:59:56 +0000",
      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
      "source": "Ars Technica Science",
-     "zh": "Japan launches mission to bring home a piece of the Martian moon Phobos"
+     "zh": "日本启动任务带回火星卫星火卫一的碎片"
     },
     {
      "title": "Symposium highlights MIT’s wide range of innovations for aging brain health",
@@ -2711,7 +2711,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 19 Oct 2026 20:54:17 +0000",
      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
      "source": "Ars Technica Science",
-     "zh": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine"
+     "zh": "俄罗斯航天器在“极其接近”乌克兰使用的卫星处进行机动"
     },
     {
      "title": "Batteries help reduce emissions, but how do we reduce their emissions?",

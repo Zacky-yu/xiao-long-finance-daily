@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/23 07:41:36",
+ "generated_at": "2026/10/23 07:57:56",
  "recent_days": 7,
  "industries": [
   {
@@ -14,7 +14,7 @@
      "pubDate": "Thu, 22 Oct 2026 22:24:34 GMT",
      "summary": "",
      "source": "Hugging Face",
-     "zh": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体"
+     "zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体"
     },
     {
      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -137,28 +137,12 @@
      "zh": "超越树木覆盖：绘制世界森林类型图"
     },
     {
-     "title": "How to Process Large JSON Files in Python With ijson",
-     "link": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
-     "pubDate": "Thu, 22 Oct 2026 14:00:00 +0000",
-     "summary": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
-     "source": "KDnuggets",
-     "zh": "如何使用 ijson 在 Python 中处理大型 JSON 文件"
-    },
-    {
      "title": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低",
      "link": "https://zhidx.com/p/603664.html",
      "pubDate": "Thu, 22 Oct 2026 21:35:27 +0800",
      "summary": "智东西 作者 | 程茜 编辑 | 心缘 智东西10月22日报道，今日，科大讯飞发布数个大模型及AI应用新成果，包括端云一体大模型讯飞星火X2.6、语音基座模型SparkAudio 1.0、星火具身多模态交互技术、WinWork数字员工平台、超级AI教师助手讯飞星光等。 其 端云一体讯飞星火X2.6基座模型 基于 全国产算力 完成能力升级，包含 云端的293-A30B模型 及端侧的 X2.6-4B模型 ，后一模型已开源。 云端模型293-A30B支持百万token上下文，输入价格为0.9元/百万tokens，输入缓存命中价格为0.08元/百万tokens，输出价格为3.6元/百万tokens。 ",
      "source": "智东西",
      "zh": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低"
-    },
-    {
-     "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
-     "link": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
-     "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
-     "summary": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn more, including how to run the free demo yourself.",
-     "source": "KDnuggets",
-     "zh": "谷歌开源 Harness²：无需再训练即可自我改进的人工智能代理"
     },
     {
      "title": "24小时，从真实问题到落地跑通，安克黑客松让创新成为“有源之水”",
@@ -190,7 +174,7 @@
      "pubDate": "Thu, 22 Oct 2026 08:41:18 +0000",
      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
      "source": "MIT Tech Review AI",
-     "zh": "人工智能隐藏的存储费用：推理留下了什么"
+     "zh": "人工智能的隐藏存储费用：推理留下了什么"
     },
     {
      "title": "PHP差点被远程“开门”？OpenAI先发现，官方紧急补墙",
@@ -207,6 +191,30 @@
      "summary": "",
      "source": "Hugging Face",
      "zh": "使用 IBM Granite 时间序列模型进行集合预测"
+    },
+    {
+     "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+     "link": "https://www.qbitai.com/2026/10/504841.html",
+     "pubDate": "Thu, 22 Oct 2026 07:14:48 +0000",
+     "summary": "FSD一年增长70万付费用户",
+     "source": "量子位",
+     "zh": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先"
+    },
+    {
+     "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+     "link": "https://www.qbitai.com/2026/10/504832.html",
+     "pubDate": "Thu, 22 Oct 2026 07:11:14 +0000",
+     "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+     "source": "量子位",
+     "zh": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布"
+    },
+    {
+     "title": "谁在给OpenAI供应具身数据？",
+     "link": "https://www.qbitai.com/2026/10/504800.html",
+     "pubDate": "Thu, 22 Oct 2026 07:05:59 +0000",
+     "summary": "挤进全球Physical AI核心供应链",
+     "source": "量子位",
+     "zh": "谁在给OpenAI供应具身数据？"
     },
     {
      "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
@@ -239,14 +247,6 @@
      "summary": "智东西（公众号： zhidxcom ） 编译 | 杨京丽 编辑 | 云鹏 智东西10月22日消息，刚刚，据彭博社报道，DeepSeek在最新一轮融资中已筹集约 1000亿元（约合150亿美元） ，创下 中国AI行业规模最大的融资纪录 ， 宁德时代和腾讯 位列本轮融资规模最大的投资者之列。 据知情人士透露，DeepSeek在与投资者接洽期间至少两次上调融资目标，最初目标为500亿元， 后提高至800亿元 ，最终达到 1000亿元 。由于相关细节尚未公开，知情人士要求匿名。 彭博社称，DeepSeek已开始加大投入，推进AI数据中心基础设施建设，并开发更多面向中国及海外市场的开源模型。 这轮融资将",
      "source": "智东西",
      "zh": "1000亿！曝DeepSeek拿下中国AI最大融资"
-    },
-    {
-     "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
-     "link": "https://arxiv.org/abs/2610.26887",
-     "pubDate": "Thu, 22 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and per",
-     "source": "arXiv cs.AI",
-     "zh": "Navalia：通过可验证的任务综合和长期培训后推进协同工作代理"
     }
    ]
   },
@@ -318,7 +318,7 @@
      "pubDate": "Thu, 22 Oct 2026 12:59:37 GMT",
      "summary": "Micron is overhauling how it pays employees, promising quarterly profit-sharing bonuses and better pay and benefits for its Taiwan staff. The changes follow a labor dispute with the company's unions in Taiwan.",
      "source": "DIGITIMES",
-     "zh": "随着工会推动利润分享，美光在台湾进行薪酬改革"
+     "zh": "随着工会推动利润分享，美光在台湾彻底改革薪酬"
     },
     {
      "title": "Why embedded engineering is becoming a bottleneck for industrial automation",
@@ -518,7 +518,7 @@
      "pubDate": "Thu, 22 Oct 2026 20:03:13 +0000",
      "summary": "Warehouses have changed faster in the past decade than in the previous fifty years. Automated vehicles, robotic pickers and conveyors now share the floor with people. Those people still need protecting, and the right high-visibility workwear is central to that. This guide covers the warehouse PPE th",
      "source": "Robotics & Automation",
-     "zh": "自动化时代的仓库个人防护装备和高可见度：确保机器周围人员的安全"
+     "zh": "自动化时代的仓库 PPE 和 Hi Vis：确保机器周围人员的安全"
     },
     {
      "title": "Google DeepMind uses Gemini 4 Argon to teach Apptronik’s Apollo humanoid new skills from video",
@@ -921,12 +921,28 @@
      "zh": "通用汽车推出前所未有的全新第四代电动汽车平台"
     },
     {
+     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
+     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "司法部采取行动撤销海上风电许可证，可能威胁参议院的许可法案"
+    },
+    {
      "title": "Jigar Shah blames the wrong target for rising electricity bills",
      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
      "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
      "source": "Utility Dive",
      "zh": "Jigar Shah将电费上涨归咎于错误的目标"
+    },
+    {
+     "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+     "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+     "pubDate": "Thu, 22 Oct 2026 10:42:49 -0400",
+     "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
+     "source": "Utility Dive",
+     "zh": "Google 将 PJM 虚拟发电厂规模扩大至超过 1 GW"
     },
     {
      "title": "Britain’s Buses Became More “Productive” While Running Less Service",
@@ -1071,22 +1087,6 @@
      "summary": "Kendall Sustainable Infrastructure (KSI) has started operating three community solar projects totalling 15.8MWdc across New York and Oregon.",
      "source": "PV Tech",
      "zh": "肯德尔可持续基础设施在纽约和俄勒冈州推出 16MW 社区太阳能"
-    },
-    {
-     "title": "Massachusetts bill could hinder push to weatherize lower-income homes",
-     "link": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-weatherize-lower-income-homes",
-     "pubDate": "Thu, 22 Oct 2026 03:30:00 -0400",
-     "summary": "Massachusetts has made meaningful strides in recent years to get its robust energy-efficiency incentives into the hands of lower-income households who need them most. Now, a provision tucked into a pending energy bill could undermine that progress, environmental justice advocates say, by making cert",
-     "source": "Canary Media",
-     "zh": "马萨诸塞州的法案可能会阻碍低收入家庭的抵御气候变化的努力"
-    },
-    {
-     "title": "States Continue to Make Progress on EV Charging Infrastructure",
-     "link": "https://cleantechnica.com/2026/10/21/states-continue-to-make-progress-on-ev-charging-infrastructure/",
-     "pubDate": "Thu, 22 Oct 2026 03:43:17 +0000",
-     "summary": "Sierra Club Urges Congress to Reauthorize EV Charging Program in Upcoming Funding Deal WASHINGTON, D.C. — The national electric vehicle (EV) charging network is making tangible progress: Texas recently awarded $226 million for 321 new charging stations funded through the National Electric Vehicle In",
-     "source": "CleanTechnica",
-     "zh": "各州在电动汽车充电基础设施方面继续取得进展"
     }
    ]
   },
@@ -1096,6 +1096,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells",
+     "link": "https://www.genengnews.com/topics/infectious-diseases/cryo-em-and-ai-designed-scaffold-reveal-how-andes-hantavirus-binds-cells/",
+     "pubDate": "Thu, 22 Oct 2026 23:50:03 +0000",
+     "summary": "Using cryo-EM and an AI-designed scaffold, researchers mapped how Andes hantavirus engages a receptor on human cells. The findings explain how antibodies block attachment and may highlight a potential target for antiviral development. The post Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantav",
+     "source": "GEN",
+     "zh": "冷冻电镜和人工智能设计的支架揭示了安第斯汉坦病毒如何结合细胞"
+    },
     {
      "title": "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
      "link": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss",
@@ -1263,14 +1271,6 @@
      "summary": "Plus news about Biohaven, Arcus Biosciences and a Boehringer Ingelheim and Microsoft collaboration. Hold on Arbutus drug lifted: It’s been a long, tough road for Arbutus Biopharma. The company has",
      "source": "Endpoints News",
      "zh": "乙型肝炎搁置解除并搁置药物； Ultomiris 加速获批"
-    },
-    {
-     "title": "BCG Vaccine-Induced Trained Immunity May Help Protect Against Dementia",
-     "link": "https://www.genengnews.com/topics/translational-medicine/bcg-vaccine-induced-trained-immunity-may-help-protect-against-dementia/",
-     "pubDate": "Wed, 21 Oct 2026 19:13:42 +0000",
-     "summary": "The results of a preclinical study suggest that the BCG vaccine, which is widely used to prevent tuberculosis and treat bladder cancer, may also have properties that reduce the risk for dementia by inducing trained immunity. The post BCG Vaccine-Induced Trained Immunity May Help Protect Against Deme",
-     "source": "GEN",
-     "zh": "卡介苗疫苗诱导的训练有素的免疫力可能有助于预防痴呆症"
     },
     {
      "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
@@ -1590,7 +1590,7 @@
      "pubDate": "Thu, 22 Oct 2026 15:12:51 -0400",
      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
      "source": "BleepingComputer",
-     "zh": "LiteLLM 发布管道被黑客攻击以传播信息窃取恶意软件"
+     "zh": "LiteLLM 发布管道遭到黑客攻击，用于传播信息窃取恶意软件"
     },
     {
      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
@@ -1761,6 +1761,54 @@
    "total": 18,
    "items": [
     {
+     "title": "布加迪最新超跑 Tourbillon 诞生始末：大众想要纯电，里马克坚持内燃机",
+     "link": "https://www.ithome.com/1/016/774.htm",
+     "pubDate": "Thu, 22 Oct 2026 23:55:30 GMT",
+     "summary": "IT之家 10 月 23 日消息，大众汽车集团原本计划将布加迪 Chiron 的继任车型改为纯电超跑，布加迪里马克 CEO、里马克集团创始人马特 · 里马克则坚持从零开发新车，采用 V16 自然吸气发动机与电机组成的插混系统。 他从 Nevera 的市场表现中发现， 愿意购买天价纯电超跑的客户并不多 ，因此不赞成让布加迪新一代旗舰车型放弃内燃机。 2021 年，里马克与保时捷共同接手布加迪。当时，大众经历了代价高昂的柴油车排放造假丑闻，正大力推进电动化转型。推出纯电超跑既符合集团战略，也能发挥里马克在高性能电动动力总成领域的技术优势。 但里马克不想走捷径。他在接受《欧洲汽车新闻》采访时解释说，",
+     "source": "IT之家",
+     "zh": "布加迪最新超跑 Tourbillon 诞生始末：大众想要纯电，里马克坚持内燃机"
+    },
+    {
+     "title": "IT早报 1023：神木交警再回应问界碰撞起火事故；武汉通回应苹果免费开卡安卓端收费 15 元；大模型 MiniMax 港股跌破发行价；微软 Win11 给 8GB 内存电脑减负...",
+     "link": "https://www.ithome.com/1/016/773.htm",
+     "pubDate": "Thu, 22 Oct 2026 23:55:07 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 23 日星期五，今天的重要科技资讯有： 1. 陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆 近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。据新京报报道，陕西神木市交管大队回应了“问界汽车撞击交通灯柱后起火”事件。“交通灯柱没断”，该大队工作人员称，当时车辆起火后将交通灯柱里面的线烧短路了，灯柱被烧得变色，目前正喷漆。>> 查看详情 2. 武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高 武汉通近日上线苹果 Apple Pay，用户可使用 iPhone 或 App",
+     "source": "IT之家",
+     "zh": "IT早报 1023：神木交警再回应问界碰撞起火事故；武汉通回应苹果免费开卡安卓端收费 15 元；大模型 MiniMax 港股跌破发行价；微软 Win11 给 8GB 内存电脑减负..."
+    },
+    {
+     "title": "让你安心用 AI 网购 / 订票 / 点外卖：1Password 推出智能体密码授权功能",
+     "link": "https://www.ithome.com/1/016/772.htm",
+     "pubDate": "Thu, 22 Oct 2026 23:54:44 GMT",
+     "summary": "IT之家 10 月 23 日消息，密码管理服务商 1Password 昨日（10 月 22 日）发布博文，宣布推出 1Password for Agents 平台， 让个人 AI 智能体全程不接触、不存储用户的密码或验证码情况下，代用户完成网站登录。 IT之家附上官方介绍视频如下： 该功能面向个人及家庭版用户推出，首批支持 Meta Muse、OpenAI ChatGPT Work 与 Dots、Anthropic Claude Duet、Grok Bot 及 Town 等主流 AI 智能体。 官方表示随着 AI 智能体逐步承担订餐、购物、订票、整理资料等任务，账号登录成为其执行任务的关键环节",
+     "source": "IT之家",
+     "zh": "让你安心用 AI 网购 / 订票 / 点外卖：1Password 推出智能体密码授权功能"
+    },
+    {
+     "title": "希尔顿，为何逃离纽交所？",
+     "link": "https://www.huxiu.com/article/4899757.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 07:53:52 +0800",
+     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 百年纽交所，留不住酒店巨头。 01 本周，全球酒店业市值排头兵希尔顿集团决定搬家。 10月20日，希尔顿宣布，计划将普通股的上市地点从纽约证券交易所迁至纳斯达克全球精选市场。 此番迁移保留原有股票代码HLT，不涉及新股发行或额外募资，股东手里持有的筹码无需任何操作即可完成平稳过渡。 翻开希尔顿历史，纽交所占据着相当重要的位置。 1946年，希尔顿成为纽交所首家上市酒店企业。彼时，纳斯达克尚未诞生，希尔顿也远未建立起今天覆盖全球的酒店网络。 此后，希尔顿的资本历程并非一帆风顺，2007年，黑石将希尔顿私有化，直到2013年12月，才高调护",
+     "source": "虎嗅",
+     "zh": "希尔顿，为何逃离纽交所？"
+    },
+    {
+     "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+     "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+     "pubDate": "Thu, 22 Oct 2026 23:50:41 +0000",
+     "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+     "source": "TechCrunch",
+     "zh": "马克·扎克伯格的创意计划是在不失去 Meta 控制权的情况下缴纳加州拟议的亿万富翁税"
+    },
+    {
+     "title": "OpenAI 宣布全面开放决策 API：基于 GPT‑6 Luna，每百万 token 输入 0.1 美元",
+     "link": "https://www.ithome.com/1/016/771.htm",
+     "pubDate": "Thu, 22 Oct 2026 23:48:13 GMT",
+     "summary": "IT之家 10 月 23 日消息，当地时间 10 月 22 日，OpenAI 宣布全面开放决策 API（Decisions API）。 据介绍， 该 API 基于 GPT‑6 Luna 构建 ，将 Luna 的模型智能聚焦于具有限定答案（bounded answers）的问题，协助应用程序与智能体基于文本、图像及结构化输入做出准实时决策 —— 其响应速度比通过 Responses API 调用 GPT‑6 Luna 提升了高达 10 倍 。 定价方面，决策 API 输入每百万 token 收费 0.1 美元 （IT之家注：现汇率约合 0.67 元人民币） ，命中缓存的输入每百万 token 收",
+     "source": "IT之家",
+     "zh": "OpenAI 宣布全面开放决策 API：基于 GPT‑6 Luna，每百万 token 输入 0.1 美元"
+    },
+    {
      "title": "特斯拉要为 Optimus 建“学校”，马斯克称训练机器人就像育儿",
      "link": "https://www.ithome.com/1/016/769.htm",
      "pubDate": "Thu, 22 Oct 2026 23:38:12 GMT",
@@ -1777,22 +1825,6 @@
      "zh": "充分调动 iPhone Duo 体验：苹果给适配 App 发“身份证”，《绝区零》等首批支持"
     },
     {
-     "title": "因市场波动，SK 海力士宣布取消旗下公司 Solidigm 赴美 IPO 计划",
-     "link": "https://www.ithome.com/1/016/767.htm",
-     "pubDate": "Thu, 22 Oct 2026 23:35:17 GMT",
-     "summary": "IT之家 10 月 23 日消息，据路透社报道，SK 海力士表示，受金融市场波动和近期股价走势影响， 已决定取消其子公司 Solidigm 的美国首次公开募股 （IPO）。 SK 海力士在一份声明中表示，将继续探索为 Solidigm 的扩张提供资金并提升股东价值的途径，包括评估未来投资的时机、规模和融资方式。 该公司称：“这一决定不代表 Solidigm 的增长前景或投资需求发生了任何改变。” 尽管 SK 海力士与 Solidigm 的经营业绩均表现强劲，但鉴于资本市场波动加剧以及半导体板块出现广泛回调，公司决定重新审视上市安排。此前仅数周，SK 海力士曾表示正在权衡强化 Solidigm ",
-     "source": "IT之家",
-     "zh": "因市场波动，SK 海力士宣布取消旗下公司 Solidigm 赴美 IPO 计划"
-    },
-    {
-     "title": "OpenAI 奥尔特曼：面对 AI，数学家们起初会觉得“我们完蛋了”，最终却还是接受现实",
-     "link": "https://www.ithome.com/1/016/766.htm",
-     "pubDate": "Thu, 22 Oct 2026 23:25:40 GMT",
-     "summary": "IT之家 10 月 23 日消息，据《商业内幕》今天（23 日）报道，近日，在斯坦福大学，OpenAI CEO 萨姆 · 奥尔特曼面向台下数百名担忧未来职业前景的学生发表演讲。 奥尔特曼认为，面对 AI 大举进军数学研究领域，数学家经历了类似“哀悼”的几个阶段。起初是难以置信，随后陷入痛苦。“第一天，大家的反应大概是：‘ 我们完蛋了，数学这个领域也完了 。’‘还是去 劝研究生转专业吧 。’” 接着，痛苦转化成了愤怒。“到了第三天，大家可能开始觉得：‘ OpenAI 这么干实在太过分了 。’” 按照奥尔特曼的描述，到了第五天，数学家 开始接受现实 ：在数学研究和证明工作中，AI 正成为不可或缺的",
-     "source": "IT之家",
-     "zh": "OpenAI 奥尔特曼：面对 AI，数学家们起初会觉得“我们完蛋了”，最终却还是接受现实"
-    },
-    {
      "title": "AI短剧火疯了，赢家却没几个",
      "link": "https://www.huxiu.com/article/4899741.html?f=rss",
      "pubDate": "Fri, 23 Oct 2026 07:24:17 +0800",
@@ -1806,23 +1838,7 @@
      "pubDate": "Fri, 23 Oct 2026 07:24:04 +0800",
      "summary": "Two months after warning that home robots were still years away, Unitree’s founder said physical AI already shows cracks of a breakthrough. The company is pre-researching a self-evolving model, talking up scale manufacturing and launching a multi-track competition with millions in annual prizes.",
      "source": "钛媒体",
-     "zh": "Unitree 缩短了其嵌入式人工智能时钟并开启了全球竞赛"
-    },
-    {
-     "title": "微软推出 AI 医疗诊断系统 MAI-DxO：复杂病例准确率达 83%，成果登《科学》",
-     "link": "https://www.ithome.com/1/016/765.htm",
-     "pubDate": "Thu, 22 Oct 2026 23:23:36 GMT",
-     "summary": "IT之家 10 月 23 日消息，当地时间 10 月 22 日，微软宣布，在基于 MIMIC-IV-ED 数据集评估美国急诊科 常见就诊病例 时，其研发的 AI 诊断系统 MAI-DxO 的诊断准确率达到了人类医生的 1.7 倍。 该系统命名为 Microsoft AI Diagnostic Orchestrator，简称 DxO，通过统一编排多个 AI 智能体来模拟医生专家联合会诊的过程 —— 各智能体协同向患者问诊、开具化验检查，并对潜在诊断展开深入研判与辩论。 而在基于《新英格兰医学杂志》（NEJM） 复杂病例 展开的模拟评估中， MAI-DxO 的诊断准确率高达 83% 。相比之下，可",
-     "source": "IT之家",
-     "zh": "微软推出 AI 医疗诊断系统 MAI-DxO：复杂病例准确率达 83%，成果登《科学》"
-    },
-    {
-     "title": "允许员工“不务正业”的车库项目谢幕，微软调整运营 17 年的 Garage 创意孵化平台",
-     "link": "https://www.ithome.com/1/016/764.htm",
-     "pubDate": "Thu, 22 Oct 2026 23:23:13 GMT",
-     "summary": "IT之家 10 月 23 日消息，科技媒体 GeekWire 昨日（10 月 22 日）发布博文，报道称微软正陆续关停内部创新“车库”项目 The Garage， 取消其作为公司级统一创新平台的职能，并陆续关闭或调整全球相关创客空间。 IT之家查询公开资料，The Garage 是微软内部的创意孵化平台，曾为微软员工提供原型开发、硬件制作、跨部门协作和业余创新实验的空间与工具，也是微软全球黑客马拉松的重要组织平台。 对于微软员工而言，该项目的一个亮点是，在经过团队、经理或相关活动批准后，员工可以在工作时间展开自己喜欢的创意项目。 业务团队可以自行安排若干工作日，让成员做与现有或潜在微软产品相关",
-     "source": "IT之家",
-     "zh": "允许员工“不务正业”的车库项目谢幕，微软调整运营 17 年的 Garage 创意孵化平台"
+     "zh": "Unitree 缩短其嵌入式人工智能时钟并开启全球竞赛"
     },
     {
      "title": "【钛晨报】《对外投资管理办法》12月1日起施行，投资者范围明确含居民个人；DeepSeek据称完成1000亿元融资，宁德时代和腾讯参投；宁德时代董秘被打？知情人士回应",
@@ -1852,7 +1868,7 @@
      "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
      "link": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
      "pubDate": "Thu, 22 Oct 2026 23:15:00 +0000",
-     "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create \"elite working dogs\" equipped with \"advanced body armor.\"",
+     "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
      "source": "WIRED",
      "zh": "Palmer Luckey 创办了一家转基因军犬初创公司"
     },
@@ -1863,6 +1879,14 @@
      "summary": "Camila Grigera Na&oacute;n / Fortune : a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies &nbsp; &mdash;&nbsp; In 2018, Andreessen Horowitz made a splash in the venture capital world by launching a spin-of",
      "source": "Techmeme",
      "zh": "a16z 将 a16z Crypto 更名为 a16z Frontier，并扩大基金范围，以支持开发人工智能、机器人和其他新兴技术的初创公司（Camila Grigera Naón/财富）"
+    },
+    {
+     "title": "LLMs are making formal software verification feasible at a much larger scale",
+     "link": "https://www.anthropic.com/research/formal-verification",
+     "pubDate": "Thu, 22 Oct 2026 22:54:43 +0000",
+     "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "法学硕士正在使正式软件验证在更大范围内变得可行"
     },
     {
      "title": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)",
@@ -1908,7 +1932,7 @@
      "title": "Railpass",
      "link": "https://train.samismith.com/",
      "pubDate": "Thu, 22 Oct 2026 21:38:32 +0000",
-     "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 28 # Comments: 7",
+     "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 30 # Comments: 7",
      "source": "Hacker News",
      "zh": "铁路通票"
     },
@@ -1916,7 +1940,7 @@
      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
      "pubDate": "Thu, 22 Oct 2026 21:24:41 +0000",
-     "summary": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news.ycombinator.com/item?id=50201259 Points: 178 # Comments: 66",
+     "summary": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news.ycombinator.com/item?id=50201259 Points: 199 # Comments: 80",
      "source": "Hacker News",
      "zh": "贾里德·库什纳 (Jared Kushner) 手机被黑，揭露秘密谈判和数百万笔交易"
     },
@@ -1961,14 +1985,6 @@
      "zh": "随着浏览器公司加大力度开发 Dia，Arc 浏览器将于 12 月 22 日停产"
     },
     {
-     "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-     "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-     "pubDate": "Thu, 22 Oct 2026 20:00:00 +0000",
-     "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
-     "source": "TechCrunch",
-     "zh": "科技界顶尖人士表示，初创公司快速增长的秘诀不是早期销售"
-    },
-    {
      "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
      "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
      "pubDate": "Thu, 22 Oct 2026 19:59:37 +0000",
@@ -1983,22 +1999,6 @@
      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
      "source": "WIRED",
      "zh": "社会协会帮助女性加入人工智能热潮"
-    },
-    {
-     "title": "Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)",
-     "link": "https://www.techmeme.com/261022/p51#a261022p51",
-     "pubDate": "Thu, 22 Oct 2026 15:55:01 -0400",
-     "summary": "Ivan Mehta / TechCrunch : Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots &nbsp; &mdash;&nbsp; Design platform Canva released its first image generation model, called Canva Craft, develope",
-     "source": "Techmeme",
-     "zh": "Canva 推出了 Craft，这是其第一个图像生成模型，经过人工设计的模板训练，可供所有用户使用，并计划支持第三方聊天机器人（Ivan Mehta/TechCrunch）"
-    },
-    {
-     "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-     "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-     "pubDate": "Thu, 22 Oct 2026 19:34:40 +0000",
-     "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
-     "source": "Ars Technica",
-     "zh": "运动中的墨滴荣获尼康小世界大赛最高奖"
     }
    ]
   },
@@ -2265,12 +2265,60 @@
      "zh": "Cognitive Credit 融资 4000 万美元，用于扩展信贷市场的专业数据和人工智能"
     },
     {
+     "title": "Great Southern Bancorp outlines $4.4M-$4.8M expense savings beginning in Q4 2026 following 9-branch consolidation",
+     "link": "https://seekingalpha.com/news/4656378-great-southern-bancorp-outlines-4_4m-4_8m-expense-savings-beginning-in-q4-2026-following-9?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 19:48:46 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Great Southern Bancorp 概述了在 9 家分行整合后从 2026 年第四季度开始节省 440 万至 480 万美元的费用"
+    },
+    {
+     "title": "超2300亿净流入 资金持续扫货它们！高股息成亮点",
+     "link": "http://finance.eastmoney.com/news/1345,202610233904809857.html",
+     "pubDate": "Fri, 23 Oct 2026 07:48:45 +0800",
+     "summary": "10月份以来，A股市场震荡下行，硬科技遭遇重挫。截至10月22日，10月份以来的11个交易日中，上证指数仅有5个交易日上涨，月内累计下跌4.79%。 不过，部分资金正通过ETF持续流入市场，申赎资金数据显示，股票型ETF已连续16个交易日获得净流入，其中10月15日净流入规模达到469.12亿元，单日流入规模创8月19日以来新高，16个交易日累计净流入超2300亿元。 15只股票型ETF连续11个交易日净流入 在市场整体持续承压的背景下，大资金逆向布局、逢低吸纳脉络清晰，部分指数基金获得越跌越买。据证券时报数据宝统计，10月8日至10月22日，合计15只股票型ETF获主力资金连续11个交易日净",
+     "source": "东方财富资讯",
+     "zh": "超2300亿净流入 资金持续扫货它们！高股息成亮点"
+    },
+    {
+     "title": "Columbia Banking System forecasts Q4 NIM around 4.05% while launching a new $1.2B buyback program",
+     "link": "https://seekingalpha.com/news/4656377-columbia-banking-system-forecasts-q4-nim-around-4_05-percent-while-launching-a-new-1_2b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 19:48:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "哥伦比亚银行系统预测第四季度净息差约为 4.05%，同时推出新的 1.2B 美元回购计划"
+    },
+    {
      "title": "Japan core inflation in September surges to its highest this year at 2.1%",
      "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-     "pubDate": "Thu, 22 Oct 2026 23:37:13 GMT",
+     "pubDate": "Thu, 22 Oct 2026 23:43:51 GMT",
      "summary": "Core inflation, which strips out prices of fresh food, was in line with than the 2.1% forecast by economists polled by Reuters.",
      "source": "CNBC",
      "zh": "日本9月核心通胀率飙升至今年最高水平2.1%"
+    },
+    {
+     "title": "JAKKS outlines 2027 slate with Sonic the Hedgehog 4 in March as Toys 'R' Us opens 120 stores",
+     "link": "https://seekingalpha.com/news/4656376-jakks-outlines-2027-slate-with-sonic-the-hedgehog-4-in-march-as-toys-r-us-opens-120-stores?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 19:41:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "随着玩具反斗城开设 120 家门店，JAKKS 将于 3 月份推出《刺猬索尼克 4》，概述 2027 年计划"
+    },
+    {
+     "title": "Mullen outlines 25% EBITDA margin threshold for new capital as it positions for 2027 project ramp",
+     "link": "https://seekingalpha.com/news/4656375-mullen-outlines-25-percent-ebitda-margin-threshold-for-new-capital-as-it-positions-for-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 19:39:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mullen 概述了新资本 25% 的 EBITDA 利润率门槛，为 2027 年项目爬坡做准备"
+    },
+    {
+     "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
+     "link": "https://wallstreetcn.com/articles/3784256",
+     "pubDate": "Fri, 23 Oct 2026 07:36:16 +0800",
+     "summary": "OpenAI正将本轮融资估值从此前的1.4万亿美元下调至1.25万亿美元，以应对部分投资者的抵触情绪，同时力争在IPO前完成最高300亿美元的融资。 10月22日，据CNBC援引知情人士透露， 本轮融资由美国投资集团Coatue与阿联酋主权基金联合领投 ，OpenAI已通知潜在投资者须于 10月30日前 作出认购决定。 此次融资估值为投前估值，较OpenAI当前852亿美元估值上涨约47%，但低于本月早些时候向市场抛出的1.4万亿美元定价。 融资推进的同时，OpenAI还在洽谈一项配套商业协议，以换取来自阿联酋合作伙伴新建算力的优先采购权，这将为其AI业务扩张提供基础设施层面的实质支撑。 此次",
+     "source": "华尔街见闻",
+     "zh": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资"
     },
     {
      "title": "FirstService projects mid- to high single-digit Q4 restoration growth while maintaining full-year mid-single-digit EBITDA growth target",
@@ -2278,7 +2326,7 @@
      "pubDate": "Thu, 22 Oct 2026 19:30:37 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "FirstService 预计第四季度将实现中高个位数恢复增长，同时维持全年中个位数 EBITDA 增长目标"
+     "zh": "FirstService 预计第四季度将实现中个位数恢复增长，同时维持全年 EBITDA 中个位数增长目标"
     },
     {
      "title": "VeriSign targets 6.5%-7% 2026 domain base growth as .web launch plans take shape",
@@ -2287,22 +2335,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "随着 .web 推出计划的形成，VeriSign 的目标是 2026 年域名基数增长 6.5%-7%"
-    },
-    {
-     "title": "SS&C signals $6.736B-$6.776B 2026 revenue outlook while targeting 41% EBITDA margins exit rate",
-     "link": "https://seekingalpha.com/news/4656373-ss-and-c-signals-6_736b-6_776b-2026-revenue-outlook-while-targeting-41-percent-ebitda-margins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 19:28:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SS&C 表示 2026 年收入前景为 $6.736B-$6.776B，同时目标 EBITDA 利润率退出率为 41%"
-    },
-    {
-     "title": "Knowles projects Q4 2026 EPS of $0.39-$0.43 as it plans 2027 capex at 5%-7% of revenue to add Precision Devices capacity",
-     "link": "https://seekingalpha.com/news/4656371-knowles-projects-q4-2026-eps-of-0_39-0_43-as-it-plans-2027-capex-at-5-percentminus-7-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 19:28:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Knowles 预计 2026 年第四季度每股收益为 0.39-0.43 美元，因为它计划 2027 年资本支出占收入的 5%-7%，以增加精密设备产能"
     },
     {
      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
@@ -2327,14 +2359,6 @@
      "summary": "也门胡塞武装对沙特核心石油基础设施的持续打击正将中东能源安全风险推向新高度。沙特阿美下令疏散其总部全体员工，国际原油周四盘中跳涨，市场对海湾地区供应中断的担忧骤然升温。 上周，一枚胡塞武装弹道导弹袭击了沙特阿美总部所在地区达曼（Dammam）。据当地时间22日周四的媒体报道，沙特阿美已要求公司位于达兰（Dhahran）的总部剩余员工撤离，并转为无限期居家办公。知情人士透露，总部一栋大楼的\"顶部三层已被摧毁\"。 沙特方面尚未就上述袭击作出官方确认。据央视援引也门胡塞武装发言人22日发表的视频声明，胡塞武装在过去48小时内对沙特实施了4次军事行动，使用了数枚弹道导弹和无人机，分别打击了沙特首都利雅",
      "source": "华尔街见闻",
      "zh": "胡塞武装导弹据称命中沙特阿美决策中枢、公司总部紧急疏散，布油盘中涨超4%"
-    },
-    {
-     "title": "AppFolio anticipates $1.122B-$1.127B 2026 revenue while guiding 26.5%-27.5% non-GAAP operating margin",
-     "link": "https://seekingalpha.com/news/4656370-appfolio-anticipates-1_122b-1_127b-2026-revenue-while-guiding-26_5-percentminus-27_5-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 19:08:22 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AppFolio 预计 2026 年收入为 $1.122B-$1.127B，同时指导非 GAAP 运营利润率为 26.5%-27.5%"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年10月23日",
@@ -2377,14 +2401,6 @@
      "zh": "Meta从盘后大涨到股债双杀：未来支出承诺飙至8250亿美元，信用风险指标创历史新高"
     },
     {
-     "title": "SB Financial signals 8%–8.5% 2027 loan growth as it targets a $2B-plus balance sheet",
-     "link": "https://seekingalpha.com/news/4656366-sb-financial-signals-8-percent-8_5-percent-2027-loan-growth-as-it-targets-a-2b-plus-balance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 18:48:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SB Financial 预计 2027 年贷款增长 8%–8.5%，目标是实现 20 亿美元以上的资产负债表"
-    },
-    {
      "title": "科技资本大举杀入好莱坞！马斯克被曝10亿美元入股Skydance，财务救援还是战略布局？",
      "link": "https://wallstreetcn.com/articles/3784260",
      "pubDate": "Fri, 23 Oct 2026 06:47:35 +0800",
@@ -2425,18 +2441,10 @@
      "zh": "美国股市正在分裂成两个阵营，这给投资者带来了残酷的打击"
     },
     {
-     "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-     "link": "https://wallstreetcn.com/articles/3784189",
-     "pubDate": "Fri, 23 Oct 2026 06:16:36 +0800",
-     "summary": "Meta财报引爆AI资本开支恐慌，美股科技板块重挫，避险情绪推动美债大涨，原油则在中东局势升温下飙升。 Meta 三季度营收超出预期，却因资本开支继续上调、未来支出承诺升至8250亿美元而令自由现金流转负， 五年期信用违约互换报价 创下有记录以来新高。融资担忧沿着AI产业链扩散。 周四 标普500指数 收于7662.54点，跌1.22%，终结三连涨； 纳斯达克综合指数 跌2.60%， 道琼斯工业平均指数 涨0.02%， 罗素2000指数 涨0.11%， 费城半导体指数 跌6.72%。板块上，美股 日用消费品 、 医疗保健 与 公用事业 领涨， 半导体 、 存储芯片 与 光通信 领跌。 恐慌情绪",
-     "source": "华尔街见闻",
-     "zh": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨"
-    },
-    {
      "title": "全球市场：美股三大指数涨跌不一 纳指跌超2% 费城半导体指数跌超6%",
      "link": "http://stock.eastmoney.com/news/11784,202610233904666253.html",
      "pubDate": "Fri, 23 Oct 2026 06:15:30 +0800",
-     "summary": "美股市场： 美股三大指数10月22日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨11.89点，收于52867.98点，涨幅为0.02%； 标准普尔 500种股票指数下跌93.74点，收于7663.43点，跌幅为1.21%； 纳斯达克 综合 指数下跌694.0点，收于26008.86点，跌幅为2.6%。 “科技七巨头”多数下跌。Meta跌6.98%，三季度自由现金流为负21.2亿美元、为十多年来首次季度净流出； 亚马逊 跌4.57%，三季度营收不及预期并下调资本开支目标； 特斯拉 跌3.08%，公司下调全年资本开支预测； 英伟达 跌4.40%、谷歌跌3.15%、 微软 跌2.23%",
+     "summary": "美股市场： 美股三大指数10月22日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨11.89点，收于52867.98点，涨幅为0.02%； 标准普尔 500种股票指数下跌93.74点，收于7663.43点，跌幅为1.21%； 纳斯达克 综合 指数下跌694.0点，收于26008.86点，跌幅为2.6%。 “科技七巨头”多数下跌。Meta跌6.98%，三季度自由现金流为负21.2亿美元、为十多年来首次季度净流出； 特斯拉 跌3.08%，公司下调全年资本开支预测； 英伟达 跌4.40%、谷歌跌3.15%、 微软 跌2.23%； 苹果 涨1.23%。 半导体 、存储、芯片跌幅居前，费城 ",
      "source": "东方财富资讯",
      "zh": "全球市场：美股三大指数涨跌不一 纳指跌超2% 费城半导体指数跌超6%"
     },
@@ -2487,14 +2495,6 @@
      "summary": "“Fewer babies in each household means parents spend more per baby,” Procter & Gamble’s CFO says.",
      "source": "MarketWatch",
      "zh": "美国人的婴儿数量正在减少，并且用奢侈尿布来宠爱他们"
-    },
-    {
-     "title": "UK and EU financial regulators seek answers from Google over cloud outage",
-     "link": "https://www.finextra.com/newsarticle/48637/uk-and-eu-financial-regulators-seek-answers-from-google-over-cloud-outage?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 22 Oct 2026 21:18:00 GMT",
-     "summary": "The European Banking Authority and the UK's Financial Conduct Authority have been in contact with Google over the major cloud outage earlier this week that knocked out several bank websites.",
-     "source": "Finextra",
-     "zh": "英国和欧盟金融监管机构就云中断问题向谷歌寻求答案"
     }
    ]
   },

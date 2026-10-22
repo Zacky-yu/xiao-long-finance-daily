@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/22 18:26:49",
+ "generated_at": "2026/10/22 18:29:42",
  "recent_days": 7,
  "industries": [
   {
@@ -23,7 +23,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 08:41:18 +0000",
      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
      "source": "MIT Tech Review AI",
-     "zh": "人工智能隐藏的存储费用：推理留下了什么"
+     "zh": "人工智能的隐藏存储费用：推理留下了什么"
     },
     {
      "title": "Ensemble forecasting with IBM Granite time-series models",
@@ -207,7 +207,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
      "source": "TechCrunch AI",
-     "zh": "Meta 称 Muse 拥有超过 1000 万用户，其中购物是首要活动"
+     "zh": "Meta 表示 Muse 拥有超过 1000 万用户，其中购物是首要活动"
     },
     {
      "title": "Broad access through consistent standards",
@@ -650,6 +650,30 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "VW's Jetta launches first electric sedan M6 in China's entry-level EV market",
+     "link": "https://cnevpost.com/2026/10/22/vw-jetta-launches-m6-china/",
+     "pubDate": "Thu, 22 Oct 2026 10:18:07 +0000",
+     "summary": "The Jetta M6 starts at 79,800 yuan ($11,880) and offers a CLTC range of up to 555 km. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "大众捷达在中国入门级电动汽车市场推出首款电动轿车M6"
+    },
+    {
+     "title": "BYD shares interior images of third-gen Qin Plus as teaser campaign for key family sedan continues",
+     "link": "https://cnevpost.com/2026/10/22/byd-interior-images-third-gen-qin-plus/",
+     "pubDate": "Thu, 22 Oct 2026 08:59:40 +0000",
+     "summary": "The third-generation Qin Plus adopts the new-generation design language of BYD's Dynasty lineup, with lines simplified as much as possible. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "比亚迪分享第三代秦Plus的内饰图片，关键家庭轿车的预告片活动仍在继续"
+    },
+    {
+     "title": "Audi reshuffles China leadership amid pressure from local EV brands",
+     "link": "https://cnevpost.com/2026/10/22/audi-reshuffles-china-leadership/",
+     "pubDate": "Thu, 22 Oct 2026 08:03:38 +0000",
+     "summary": "Former Chery brand CEO Jeff Zhang will take over as president of Audi China on November 1. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "奥迪在本土电动汽车品牌压力下重组中国领导层"
+    },
+    {
      "title": "Seattle Is Installing Hundreds Of Curbside EV Chargers",
      "link": "https://insideevs.com/news/812869/seattle-curbside-ev-chargers-2030/",
      "pubDate": "Thu, 22 Oct 2026 07:58:05 +0000",
@@ -664,6 +688,22 @@ window.INDUSTRY_DATA = {
      "summary": "Built without Google’s design restrictions, the new app will go live on the Audi A6 e-tron and Q6 e-tron around the world.",
      "source": "InsideEVs",
      "zh": "Spotify 的首款原生车载应用程序首先登陆奥迪电动汽车"
+    },
+    {
+     "title": "Xpeng GX deliveries top 30,000 as Middle East orders near 4,000",
+     "link": "https://cnevpost.com/2026/10/22/xpeng-gx-deliveries-30000/",
+     "pubDate": "Thu, 22 Oct 2026 05:15:59 +0000",
+     "summary": "Xpeng says the GX became its fastest model to surpass 10 billion yuan in revenue. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "小鹏GX交付量突破3万辆 中东订单接近4000辆"
+    },
+    {
+     "title": "China advances second batch of Level 3 approvals after Changan and BAIC",
+     "link": "https://cnevpost.com/2026/10/22/china-advances-2nd-batch-level-3-approvals/",
+     "pubDate": "Thu, 22 Oct 2026 02:54:42 +0000",
+     "summary": "An MIIT official said work on the second batch is underway, without disclosing the automakers, models or approval timeline. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "继长安、北汽之后，中国推进第二批三级审批"
     },
     {
      "title": "Tesla says it will start selling Cybercabs by end of year",
@@ -786,6 +826,14 @@ window.INDUSTRY_DATA = {
      "zh": "Waymo 开始在拉斯维加斯机场提供乘车服务"
     },
     {
+     "title": "BYD Yangwang to unveil ultra-luxury executive sedan 'HU' in UAE",
+     "link": "https://cnevpost.com/2026/10/21/byd-yangwang-unveil-sedan-hu-uae/",
+     "pubDate": "Wed, 21 Oct 2026 12:53:23 +0000",
+     "summary": "Yangwang confirmed that the new model, internally codenamed \"HU,\" will be unveiled in the UAE, but has yet to announce a date or venue. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "比亚迪阳光将在阿联酋推出超豪华行政轿车“HU”"
+    },
+    {
      "title": "SpaceX and Tesla boards form special committees to review merger",
      "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
      "pubDate": "Tue, 20 Oct 2026 22:57:57 +0000",
@@ -807,7 +855,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 10:15:00 +0000",
      "summary": "Engie has begun construction of its first co-located solar and battery project in France, combining 29.8 MW of solar capacity with a 20 MWh battery system to shift electricity delivery to periods of higher grid demand. The post Engie starts building first co-located solar and battery project in Fran",
      "source": "pv magazine",
-     "zh": "Engie 开始在法国建设首个共建太阳能和电池项目"
+     "zh": "Engie开始在法国建设第一个共建太阳能和电池项目"
     },
     {
      "title": "Solar-assisted CO₂ heat pump achieves 18.7% COP increase as irradiance rises",
@@ -935,7 +983,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 03:10:56 +0000",
      "summary": "New Zealand solar PV generator Lodestone Energy has started trading on the NZX Main Board after raising NZ$75 million (US$43 million).",
      "source": "PV Tech",
-     "zh": "Lodestone Energy 完成了 NZX 的首次上市，完全围绕新西兰公用事业规模的太阳能"
+     "zh": "Lodestone Energy 完成了 NZX 的首次上市，完全围绕新西兰公用事业规模太阳能"
     },
     {
      "title": "Sierra Club Iowa Responds: Local Officials Reject Re-zoning Request for Alliant’s Morgan Valley Gas Plant",
@@ -959,7 +1007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 01:35:31 +0000",
      "summary": "I haven’t covered a Tesla earnings release and call in a while, but I thought I’d give a quick summary since this quarter was pretty interesting. Last quarter I wrote this after the delivery release, but I didn’t write up the earnings call. Observations From The Shareholder Deck: Gross margin ... [c",
      "source": "CleanTechnica",
-     "zh": "特斯拉报告第三季度表现出色，Robotaxi 和 FSD 终于腾飞"
+     "zh": "特斯拉报告第三季度表现出色，Robotaxi 和 FSD 终于起飞"
     },
     {
      "title": "Not the Future, It’s Now — Deepway Electric Semi Put to Work in Australia",
@@ -1029,7 +1077,7 @@ window.INDUSTRY_DATA = {
      "title": "Solar PPA prices jump 5% in Q3, mainly on new trade tariffs: LevelTen",
      "link": "https://www.utilitydive.com/news/tariffs-solar-wind-ppa-prices-levelten/833598/",
      "pubDate": "Wed, 21 Oct 2026 11:17:31 -0400",
-     "summary": "Wind power purchase agreements held relatively steady in Q3, but could begin to rise anew with solar as the latest round of tariffs take effect later this year.",
+     "summary": "Wind power purchase agreements held relatively steady in Q3 but could begin to rise again as the latest round of tariffs takes effect later this year.",
      "source": "Utility Dive",
      "zh": "第三季度太阳能购电协议价格上涨 5%，主要是由于新的贸易关税：LevelTen"
     },
@@ -1055,7 +1103,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 10:21:48 +0000",
      "summary": "Where other European pharmas — notably Novartis, Novo and AstraZeneca — have suffered huge late-stage clinical failures this summer, Roche is feeling rather smug. CEO Thomas Schinecker said ...",
      "source": "Endpoints News",
-     "zh": "罗氏在宣布削减管道时谈到了第三阶段的成功率"
+     "zh": "罗氏在宣布削减管道时谈论了第三阶段的成功率"
     },
     {
      "title": "STAT+: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past",
@@ -1287,7 +1335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 21:41:37 +0000",
      "summary": "On Oct. 21, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 2008 年 10 月 21 日：印度利用月船一号 (Chandrayaan-1) 启动其第一次月球任务"
+     "zh": "在太空的这一天！ 2008 年 10 月 21 日：印度利用月船一号 (Chandrayaan-1) 发射其第一次月球任务"
     },
     {
      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
@@ -1591,7 +1639,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 18:16:26 -0400",
      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "Google Chrome 添加了 Gemini 支持的诈骗检测功能，警告用户 ClickFix 攻击"
+     "zh": "Google Chrome 增加了 Gemini 支持的诈骗检测功能，警告用户 ClickFix 攻击"
     },
     {
      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
@@ -1725,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "3899 → 2399 元：石头 P20 Ultra 活水版扫拖机器人官方新低",
      "link": "https://www.ithome.com/1/016/636.htm",
      "pubDate": "Thu, 22 Oct 2026 10:22:09 GMT",
-     "summary": "石头扫地机器人 P20 Ultra 活水版（水箱版）上市价 3899 元，今日官方仅需 2399 元 11.11 破冰新低。 270mm 滚筒超宽覆地，高效刮洗 一步一净 。 本次需 88VIP 与 279 元淘金币，如果淘金币不够（11.11 期间淘宝加补 300 元额度），下附借币方法。 点击下方卡片领券后 → 点击 宝贝右上角“ … ” → 点击弹出页面 右下角“ 淘金币 ” 下单即可： 天猫 石头 P20 Ultra 活水版 扫地机器人 水箱版 淘金币抵扣后 2399 元 直达链接 借淘金币 如果价格不对，大概率是淘金币不够，目前可向官方借 300 元淘金币（后续如果还不上，不会扣现金",
+     "summary": "石头扫地机器人 P20 Ultra 活水版今年 1 月 20 日开售，水箱版上市价 3899 元，上下水版 4299 元。 今日官方仅需 2399 元与 2699 元 11.11 破冰新低，270mm 滚筒超宽覆地，高效刮洗 一步一净 。 本次需 88VIP 与 279 元淘金币，如果淘金币不够，下附借币方法。 点击下方卡片领券后 → 点击 宝贝右上角“ … ” → 点击弹出页面 右下角“ 淘金币 ” 下单即可： 天猫 石头 P20 Ultra 活水版 上下水版 2690 元 水箱版 2399 元 直达链接 借淘金币 如果价格不对，大概率是淘金币不够，目前可向官方借 300 元淘金币（后续如果",
      "source": "IT之家",
      "zh": "3899 → 2399 元：石头 P20 Ultra 活水版扫拖机器人官方新低"
     },
@@ -1962,6 +2010,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Bose acquires Skullcandy",
+     "link": "https://www.gsmarena.com/bose_acquires_skullcandy-news-75162.php",
+     "pubDate": "Thu, 22 Oct 2026 12:24:03 +0200",
+     "summary": "Bose Corporation is acquiring lifestyle audio brand Skullcandy. A joint press release reveals that the two companies will combine Bose’s audio expertise with Skullcandy’s design and community connections for their future products. As such, Skullcandy will remain a separate brand within Bose’s Premiu",
+     "source": "GSMArena",
+     "zh": "Bose 收购 Skullcandy"
+    },
+    {
      "title": "I vibe-coded a Pebble Time 2 app, and I learned some tough lessons",
      "link": "https://www.androidauthority.com/i-vibe-coded-pebble-time-2-app-learned-lessons-3724028/",
      "pubDate": "Thu, 22 Oct 2026 10:00:33 +0000",
@@ -2106,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "Oppo Enco X4 拆箱和上手"
     },
     {
-     "title": "iQOO 16R receives its first certification ahead of release",
-     "link": "https://www.gsmarena.com/iqoo_16r_receives_its_first_certification_ahead_of_release-news-75147.php",
-     "pubDate": "Thu, 22 Oct 2026 06:02:02 +0200",
-     "summary": "Last week we told you that the iQOO Z12 Turbo's chipset leaked along with its screen size, and that it will very likely be sold outside of China as the iQOO 16R, just like the Z11 Turbo became the iQOO 15R. Today, the iQOO 16R has received its first certification, showing up in Indonesia's TKDN data",
-     "source": "GSMArena",
-     "zh": "iQOO 16R发布前获得首个认证"
-    },
-    {
      "title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
      "link": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
      "pubDate": "Thu, 22 Oct 2026 03:57:58 +0000",
@@ -2151,7 +2199,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 23:16:18 +0000",
      "summary": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "周五发布之前，苹果第五大道上出现了巨大的 iPhone Duo 安装"
+     "zh": "周五发布会前夕，苹果第五大道上出现了巨型 iPhone Duo 装置"
     },
     {
      "title": "INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy",
@@ -2210,6 +2258,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nvidia CEO Jensen Huang says neocloud demand is &apos;off the charts&apos; but capital is scarce",
+     "link": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+     "pubDate": "Thu, 22 Oct 2026 10:28:24 GMT",
+     "summary": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
+     "source": "CNBC",
+     "zh": "英伟达首席执行官黄仁勋表示，新云需求“超出预期”，但资金稀缺"
+    },
+    {
+     "title": "TriCo Bancshares declares $0.36 dividend",
+     "link": "https://seekingalpha.com/news/4655774-trico-bancshares-declares-0_36-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 06:24:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TriCo Bancshares 宣布派息 0.36 美元"
+    },
+    {
+     "title": "Lockheed Martin beats Q3 estimates, lifts 2026 sales and earnings outlook",
+     "link": "https://seekingalpha.com/news/4655775-lockheed-martin-beats-q3-estimates-lifts-2026-sales-and-earnings-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 06:24:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "洛克希德·马丁公司第三季度业绩超出预期，上调 2026 年销售额和盈利预期"
+    },
+    {
      "title": "图解财报：思特奇前三季归母净利润-1.61亿元，上年同期-1.77亿元",
      "link": "http://stock.eastmoney.com/news/11802,202610223904233224.html",
      "pubDate": "Thu, 22 Oct 2026 18:22:22 +0800",
@@ -2264,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "南京港 10月23日发布2026年 三季报显示，公司前三季 实现营业收入7.93亿元 ，同比增长2.64% ；归母净利润1.44亿元 ，同比增长2.45% ；扣非归母净利润1.40亿元 ，同比增长3.24% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
      "source": "东方财富股票",
      "zh": "图解财报：南京港前三季归母净利润1.44亿元，同比增长2.45%"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang says neocloud demand is &apos;off the charts&apos; but capital is scarce",
-     "link": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
-     "pubDate": "Thu, 22 Oct 2026 10:19:05 GMT",
-     "summary": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
-     "source": "CNBC",
-     "zh": "英伟达首席执行官黄仁勋表示，新云需求“超出预期”，但资金稀缺"
     },
     {
      "title": "FirstCash raises dividend by 10% to $0.46",
@@ -2354,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "高利率压垮美国楼市：销售暴跌、开工下滑，华尔街却浑然不觉"
     },
     {
-     "title": "PG&E  misses Q3 street views, maintains outlook",
-     "link": "https://seekingalpha.com/news/4655770-pge-misses-q3-street-views-maintains-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 06:12:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PG&E 错过第三季度街景，维持展望"
-    },
-    {
      "title": "奥迪中国迎来首位中国籍总裁，前奇瑞高管接棒",
      "link": "https://wallstreetcn.com/articles/3784216",
      "pubDate": "Thu, 22 Oct 2026 18:11:44 +0800",
@@ -2378,12 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "金缕牵起城与年：十月珠宝展里的东方日常诗"
     },
     {
-     "title": "Earnings Snapshot: Dow reports $11.3B net sales in Q3, up 13% year-over-year driven by growth across all segments",
-     "link": "https://seekingalpha.com/news/4655769-earnings-snapshot-dow-reports-113b-net-sales-in-q3-up-13-year-over-year-driven-by-growth-across-all-segments?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 06:10:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "收益快照：陶氏报告第三季度净销售额为 11.3B 美元，在所有细分市场增长的推动下同比增长 13%"
+     "title": "Europe’s bracing reality on US bond yields",
+     "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+     "pubDate": "Thu, 22 Oct 2026 10:07:31 GMT",
+     "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+     "source": "Financial Times",
+     "zh": "欧洲对美国债券收益率的严峻现实"
     },
     {
      "title": "新石器余恩源：明年盈利，海外收入将超过国内",
@@ -2440,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "国家发展改革委10月22日公布新版《对外投资管理办法》，在制度上更好保障对外投资发展和安全。 管理办法共76条，分为总则、对外投资指导和服务、对外投资监管、对外投资保护、法律责任、附则等六章。管理办法自2026年12月1日起施行，届时2017年出台的《企业境外投资管理办法》同步废止。 对外投资管理办法 第一章 总则 第一条 为了推进高水平对外开放，促进对外投资高质量发展，有效实施对外投资管理，保护投资者及其对外投资合法权益，维护国家主权、安全、发展利益，根据《中华人民共和国行政许可法》《国务院关于对外投资的规定》《国务院对确需保留的行政审批项目设定行政许可的决定》《国务院关于投资体制改革的决定",
      "source": "东方财富资讯",
      "zh": "《对外投资管理办法》发布 自12月1日起施行"
-    },
-    {
-     "title": "10月22日北向资金最新动向（附十大成交股）",
-     "link": "http://stock.eastmoney.com/news/11780,202610223904190066.html",
-     "pubDate": "Thu, 22 Oct 2026 17:36:30 +0800",
-     "summary": "交易所最新数据显示，10月22日北向资金共成交2326.22亿元，占两市总成交额的15.22%。 紫金矿业 、 药明康德 、 贵州茅台 位列 沪股通 成交前三，成交额分别为30.29亿、28.64亿、17.18亿； 宁德时代 、 中际旭创 、 新易盛 位列 深股通 成交前三，成交额分别为66.99亿、51.46亿、32.55亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
-     "source": "东方财富资讯",
-     "zh": "10月22日北向资金最新动向（附十大成交股）"
     }
    ]
   },
@@ -2479,7 +2527,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 21:33:50 +0000",
      "summary": "New observations from the James Webb Space Telescope reveal a concentration of heavy metals near the Milky Way's central black hole. The discovery deepens a mystery about why our black hole behaves the way it does.",
      "source": "Live Science",
-     "zh": "詹姆斯·韦伯望远镜在银河系超大质量黑洞周围发现了令人惊讶的金属宝藏"
+     "zh": "詹姆斯韦伯望远镜在银河系超大质量黑洞周围发现了令人惊讶的金属宝库"
     },
     {
      "title": "Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand'",
@@ -2487,7 +2535,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 21:16:28 +0000",
      "summary": "A massive Viking Age hoard that was discovered in Norway contains a rare silver coin featuring \"Olaf the Holy,\" one of the country's first Christian kings.",
      "source": "Live Science",
-     "zh": "“神圣奥拉夫”统治时期极其罕见的维京时代硬币可能“握在国王自己的手中”"
+     "zh": "来自“圣奥拉夫”统治时期的极其罕见的维京时代硬币可能“握在国王自己的手中”"
     },
     {
      "title": "AI could turn scientific papers into research assistants",
@@ -2599,7 +2647,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 20 Oct 2026 23:01:00 +0000",
      "summary": "People are more likely to mimic — or even surpass — rule breakers than rule followers, a study finds. But real-world consequences may keep people in line.",
      "source": "Science News",
-     "zh": "少数人的违规行为可能具有传染性"
+     "zh": "少数人违反规则可能会传染"
     },
     {
      "title": "The ocean’s most abundant “loner” microbe has a sticky second life",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/22 14:32:01",
+ "generated_at": "2026/10/22 14:35:26",
  "recent_days": 7,
  "industries": [
   {
@@ -140,7 +140,7 @@
      "title": "Meta says Muse has over 10M users, with shopping a top activity",
      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
      "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
-     "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+     "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
      "source": "TechCrunch AI",
      "zh": "Meta says Muse has over 10M users, with shopping a top activity"
     },
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "French lawmakers move to scrap proposed changes to solar contracts",
+     "link": "https://www.pv-magazine.com/2026/10/22/french-lawmakers-move-to-scrap-proposed-changes-to-solar-contracts/",
+     "pubDate": "Thu, 22 Oct 2026 06:30:00 +0000",
+     "summary": "France’s economic affairs committee has voted to remove proposed budget measures that would allow early termination of some solar contracts and reduce compensation for curtailment during negative electricity prices. The post French lawmakers move to scrap proposed changes to solar contracts appeared",
+     "source": "pv magazine",
+     "zh": "French lawmakers move to scrap proposed changes to solar contracts"
+    },
+    {
      "title": "China outlines new spot market rules supporting renewable energy and storage integration",
      "link": "https://www.pv-magazine.com/2026/10/22/china-outlines-new-spot-market-rules-supporting-renewable-energy-and-storage-integration/",
      "pubDate": "Thu, 22 Oct 2026 05:48:25 +0000",
@@ -1079,14 +1087,6 @@
      "summary": "Distributed energy storage company Viridi and developer and financier Good Carbon Co. have announced the deployment of a 3.75MWh energy storage project in Buffalo, New York.",
      "source": "Energy Storage News",
      "zh": "Viridi deploys ‘Fail-Safe Anti-Propagation architecture’ indoor BESS at New York affordable housing development"
-    },
-    {
-     "title": "New financing models needed for agrivoltaics",
-     "link": "https://www.pv-magazine.com/2026/10/21/new-financing-models-needed-for-agrivoltaics/",
-     "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
-     "summary": "Speakers at the AgriVoltaics Industry Forum Europe 2026 say rising interest rates, uncertainty over electricity revenues and the need to ensure the long-term viability of farming are making agrivoltaic projects harder to finance. The post New financing models needed for agrivoltaics appeared first o",
-     "source": "pv magazine",
-     "zh": "New financing models needed for agrivoltaics"
     }
    ]
   },
@@ -1761,20 +1761,12 @@
    "total": 18,
    "items": [
     {
-     "title": "撬开万亿 AI 硬件市场，一副普通眼镜刚刚好",
-     "link": "https://www.tmtpost.com/8177459.html",
-     "pubDate": "Thu, 22 Oct 2026 14:27:22 +0800",
-     "summary": "算力可以租，模型可以开源，芯片可以买——AI 产业里，第一次出现了钱买不到的东西。",
-     "source": "钛媒体",
-     "zh": "撬开万亿 AI 硬件市场，一副普通眼镜刚刚好"
-    },
-    {
-     "title": "利润腰斩的特斯拉，要靠火箭救命？",
-     "link": "https://www.tmtpost.com/8177426.html",
-     "pubDate": "Thu, 22 Oct 2026 14:27:20 +0800",
-     "summary": "马斯克的心思在Robotaxi、Optimus和太空。",
-     "source": "钛媒体",
-     "zh": "利润腰斩的特斯拉，要靠火箭救命？"
+     "title": "软银股价较 6 月高点接近腰斩，AI 投资烧钱模式遭市场质疑",
+     "link": "https://www.ithome.com/1/016/383.htm",
+     "pubDate": "Thu, 22 Oct 2026 06:32:28 GMT",
+     "summary": "IT之家 10 月 22 日消息，据彭博社报道，随着融资成本不断上升，投资者开始质疑软银集团能否持续投入巨额资金发展人工智能，软银市值可能较 6 月高点腰斩。 当地时间 22 日，软银股价盘中一度下跌 6.7%，较 6 月 2 日创下的历史最高点 累计跌幅达到 50% 。美国超大市值企业的财报表现，也未能打消市场疑虑。 市场对 AI 投资的担忧此前因 美国云计算服务商 CoreWeave 陷入债务困境 而加剧。CoreWeave 的债券价格跌至困境债券水平，暴露出整个行业面临的融资风险。 Nagomi Capital 投资管理主管村松一之指出，投资者越来越关注 AI 企业的财务健康状况。软银高",
+     "source": "IT之家",
+     "zh": "软银股价较 6 月高点接近腰斩，AI 投资烧钱模式遭市场质疑"
     },
     {
      "title": "富士通客户端计算推出电影《哥斯拉-0.0》联名 FMV Zero Note U 笔电",
@@ -1799,6 +1791,14 @@
      "summary": "IT之家 10 月 22 日消息，近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现，PHP 存在两个远程代码执行超危漏洞，危害严重。 PHP 是一款广泛用于 Web 开发的开源服务器端脚本语言。由于其存在两个超危远程代码执行漏洞，未经身份验证的攻击者可利用其远程执行任意代码，造成服务器受控、敏感信息泄露、业务中断等危害。受影响的 PHP 范围包括：8.5 系列＜8.5.12、8.4 系列＜8.4.27、8.3 系列＜8.3.36、8.2 系列＜8.2.35、8.1 系列及更早版本。 目前，PHP 安全团队已修复漏洞并发布安全公告（URL 链接： https://www.p",
      "source": "IT之家",
      "zh": "工信部 NVDB 发布关于防范 PHP 远程代码执行超危漏洞的风险提示"
+    },
+    {
+     "title": "保时捷法拉利接连变招，重写电动化剧本",
+     "link": "https://www.huxiu.com/article/4899520.html?f=rss",
+     "pubDate": "Thu, 22 Oct 2026 14:21:21 +0800",
+     "summary": "保时捷重新加码燃油与插混，法拉利把2030年纯电车型占比目标下调至20%&hellip;&hellip;前几年还在着急All in纯电的豪车巨头，怎么集体踩刹车了？",
+     "source": "虎嗅",
+     "zh": "保时捷法拉利接连变招，重写电动化剧本"
     },
     {
      "title": "消息称索尼 PS6 物料成本比微软 XBOX Helix 游戏主机低约 200 美元",
@@ -1897,20 +1897,12 @@
      "zh": "AI时代的劳动力市场，还能正常运转吗？"
     },
     {
-     "title": "谷歌 Google Cloud 计划部署至多 96 万块 GPU 的英伟达 Vera Rubin 平台",
-     "link": "https://www.ithome.com/1/016/367.htm",
-     "pubDate": "Thu, 22 Oct 2026 06:03:24 GMT",
-     "summary": "IT之家 10 月 22 日消息，Google（谷歌）云服务业务 Google Cloud 当地时间 21 日宣布，其计划将基于 NVIDIA（英伟达）Vera Rubin 平台的基础设施扩展到多个算力站点， 最多可部署 96 万个 Rubin GPU 。 Google Cloud 同日表示，其基于 NVIDIA Vera Rubin NVL72 机架级系统的 A5X 实例正式上线。该实例采用了 NVIDIA ConnectX-9 SuperNIC 以及 Google Cloud 的 Virgo 网络和第四代先进液冷技术，将于下个月正式推出。 其它方面，Google Cloud 将成为首批在裸",
-     "source": "IT之家",
-     "zh": "谷歌 Google Cloud 计划部署至多 96 万块 GPU 的英伟达 Vera Rubin 平台"
-    },
-    {
-     "title": "关于新成立的国家数据集团，我来说几句实在话",
-     "link": "https://www.huxiu.com/article/4899528.html?f=rss",
-     "pubDate": "Thu, 22 Oct 2026 13:42:53 +0800",
-     "summary": "本文来自微信公众号： 鲜枣课堂 ，作者：小枣君 这两天，国家数据集团成立的消息在全网刷屏。 其实，关于这个新央企，行业内早就有了风声。至少在2025年年初，就传出相关传闻。 小枣君并不惊讶它的成立，只是疑惑为啥成立过程这么漫长。看来，搭班子、组队伍、定职责、算资产的过程，比想象中要复杂。 国家数据局，早在2023年就成立了。这两年，地方政府的动作也很快。截止目前，全国各地市已经成立了100多家地方数据集团，早已形成了规模，也上了轨道。 关于这个国家数据集团，管理层名单、股东背景、央企排名什么的，网上都有很多信息，小枣君不再赘述。我感觉，关于这个企业的真正定位和职能，还有对行业的影响，网上现有文",
+     "title": "撬开万亿 AI 硬件市场，一副普通眼镜刚刚好",
+     "link": "https://www.huxiu.com/article/4899533.html?f=rss",
+     "pubDate": "Thu, 22 Oct 2026 13:52:02 +0800",
+     "summary": "本文来自微信公众号： 偏科声 ，作者：李小年，原文标题：《撬开万亿 AI 硬件市场，一副普通眼镜刚刚好》 导读 算力可以租，模型可以开源，芯片可以买——AI产业里，第一次出现了钱买不到的东西。 刚刚过去的一周，AI硬件的发布节奏密得反常。 10月13日下午，阿里千问在杭州发布AI眼镜N1、N1 Pro和一款与Bose联名的耳夹式耳机，国补后眼镜到手价2218元起、耳机1099元起；晚上，阶跃星辰在上海推出智能体手机STEPX Neo，先行版3999元，21点开启预售。 两场发布会隔了几个小时，一个卖穿戴，一个卖口袋里的终端，讲的却是同一件事：让智能体有个随身的身子。 往前推，9月下旬Rokid",
      "source": "虎嗅",
-     "zh": "关于新成立的国家数据集团，我来说几句实在话"
+     "zh": "撬开万亿 AI 硬件市场，一副普通眼镜刚刚好"
     },
     {
      "title": "OpenAI CLI",
@@ -1943,6 +1935,22 @@
      "summary": "Marcus Mendes / 9to5Mac : An Australian federal judge rules Apple must let Australian iPhone users install apps from third-party app stores starting March 1, 2027; Apple plans to appeal &nbsp; &mdash;&nbsp; An Australian federal judge has ordered Apple to make sweeping changes to its App Store rules",
      "source": "Techmeme",
      "zh": "An Australian federal judge rules Apple must let Australian iPhone users install apps from third-party app stores starting March 1, 2027; Apple plans to appeal (Marcus Mendes/9to5Mac)"
+    },
+    {
+     "title": "Muse刚火，小扎就催它挣钱了",
+     "link": "https://www.tmtpost.com/8177331.html",
+     "pubDate": "Thu, 22 Oct 2026 12:39:21 +0800",
+     "summary": "营收创纪录，自由现金流转负，Muse需要更早贡献收入",
+     "source": "钛媒体",
+     "zh": "Muse刚火，小扎就催它挣钱了"
+    },
+    {
+     "title": "瑞士生物科技企业Apricot Therapeutics研发多重药物反应分析技术，辅助个性化肿瘤用药",
+     "link": "https://www.tmtpost.com/8177203.html",
+     "pubDate": "Thu, 22 Oct 2026 12:13:02 +0800",
+     "summary": "5-7天内即可生成个体化药物反应分析报告。",
+     "source": "钛媒体",
+     "zh": "瑞士生物科技企业Apricot Therapeutics研发多重药物反应分析技术，辅助个性化肿瘤用药"
     },
     {
      "title": "Walmart unveils Agent Gateway, an MCP server for AI agents to shop its site, and Agent Profiles to authorize agents and track their purchases separately (Sarah Perez/TechCrunch)",
@@ -1991,14 +1999,6 @@
      "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 402 # Comments: 190",
      "source": "Hacker News",
      "zh": "There isn't an easy exploit for this PHP vulnerability"
-    },
-    {
-     "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-     "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-     "pubDate": "Wed, 21 Oct 2026 22:45:34 +0000",
-     "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-     "source": "TechCrunch",
-     "zh": "Meta wants to pay for its broad AI buildout with a newly created class of stock"
     }
    ]
   },
@@ -2257,6 +2257,14 @@
    "total": 13,
    "items": [
     {
+     "title": "New Mexico judge orders Meta to pay $25B over Facebook privacy claims",
+     "link": "https://seekingalpha.com/news/4655683-new-mexico-judge-orders-meta-to-pay-25b-over-facebook-privacy-claims?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 02:28:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "New Mexico judge orders Meta to pay $25B over Facebook privacy claims"
+    },
+    {
      "title": "华联控股10月22日盘中跌幅达5%",
      "link": "http://stock.eastmoney.com/news/1944,202610223903990640.html",
      "pubDate": "Thu, 22 Oct 2026 14:25:13 +0800",
@@ -2329,6 +2337,14 @@
      "zh": "NVE expects 14%-16% effective tax rate while forecasting second-half revenue consistent with first half"
     },
     {
+     "title": "数据中心建设延期潮，谁会受伤、谁将受益？",
+     "link": "https://wallstreetcn.com/articles/3784188",
+     "pubDate": "Thu, 22 Oct 2026 13:53:31 +0800",
+     "summary": "算力供需缺口持续扩大之际，数据中心建设一旦放缓，将在整个AI产业链上引发截然不同的赢家与输家格局。 阿波罗全球管理公司首席经济学家Torsten Slok最新分析表示，当前算力需求远超供给，建设进度的快慢具有决定性意义： 若建设周期拖延，已掌握稀缺物理容量的资产——包括在运数据中心、电力供应商及长周期设备制造商——将获得定价权和租金溢价；而押注准时交付的高估值AI股票以及高杠杆开发商债务，则将面临盈利下修和估值压缩的双重压力。 稀缺容量持有者坐享红利 Slok认为， 在建设延期情景下，最直接的受益方是已拥有在运产能的各类主体。 已上线运营的数据中心可借供给紧张之机提升租金，并将每一兆瓦容量填满",
+     "source": "华尔街见闻",
+     "zh": "数据中心建设延期潮，谁会受伤、谁将受益？"
+    },
+    {
      "title": "Alibaba shares tumble as China presses e-commerce platforms on quality standards",
      "link": "https://seekingalpha.com/news/4655687-alibaba-shares-tumble-as-china-presses-e-commerce-platforms-on-quality-standards?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 22 Oct 2026 01:49:09 -0400",
@@ -2343,14 +2359,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Pharming reports Q3 revenue"
-    },
-    {
-     "title": "Knight-Swift projects Q4 2026 adjusted EPS of $0.78-$0.84 as it expects truckload operating income to meaningfully improve sequentially",
-     "link": "https://seekingalpha.com/news/4655692-knight-swift-projects-q4-2026-adjusted-eps-of-0_78-0_84-as-it-expects-truckload-operating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 01:35:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Knight-Swift projects Q4 2026 adjusted EPS of $0.78-$0.84 as it expects truckload operating income to meaningfully improve sequentially"
     },
     {
      "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
@@ -2487,14 +2495,6 @@
      "summary": "Family of former UAE ambassador Mahdi Al Tajir looks to sell prized UK property assets as lenders seek to recoup unpaid debts",
      "source": "Financial Times",
      "zh": "Highland Spring billionaire’s property empire hit by loan defaults and creditor action"
-    },
-    {
-     "title": "The battle for Israel’s future",
-     "link": "https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98?syn-25a6b1a6=1",
-     "pubDate": "Thu, 22 Oct 2026 04:00:11 GMT",
-     "summary": "The election result could shape the country’s destiny for a generation",
-     "source": "Financial Times",
-     "zh": "The battle for Israel’s future"
     }
    ]
   },

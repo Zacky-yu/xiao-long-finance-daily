@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 19:58:34",
+ "generated_at": "2026/10/23 20:12:03",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "5 Free AI Coding Agents You Should Try in 2026",
+     "link": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
+     "pubDate": "Fri, 23 Oct 2026 12:00:00 +0000",
+     "summary": "Access powerful open-source and proprietary models through OpenCode Zen, Gemini’s free quota, Kilo Gateway, Cline Provider, and Charm Hyper without paying for API access upfront.",
+     "source": "KDnuggets",
+     "zh": "5 Free AI Coding Agents You Should Try in 2026"
+    },
     {
      "title": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准",
      "link": "https://zhidx.com/p/603939.html",
@@ -226,14 +234,6 @@ window.INDUSTRY_DATA = {
      "zh": "Build more responsive apps with the Decisions API"
     },
     {
-     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-     "source": "TechCrunch AI",
-     "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
-    },
-    {
      "title": "Canva releases its first image generation model",
      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
@@ -242,12 +242,12 @@ window.INDUSTRY_DATA = {
      "zh": "Canva releases its first image generation model"
     },
     {
-     "title": "The Foundations of Scalable AI",
-     "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-     "pubDate": "Thu, 22 Oct 2026 18:48:04 +0000",
-     "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how",
-     "source": "MIT Tech Review AI",
-     "zh": "The Foundations of Scalable AI"
+     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
     }
    ]
   },
@@ -1061,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "What kind of virtual power plant would you choose?",
      "link": "https://www.canarymedia.com/articles/virtual-power-plants/what-virtual-power-plant-would-you-choose",
      "pubDate": "Thu, 22 Oct 2026 12:30:00 -0400",
-     "summary": "Hello, everybody! Welcome back to California Wire. This week, I’m going to be talking about virtual power plants again — but not the ones set up by utilities and tech giants or run by solar-battery vendors like Sunrun and Tesla. Instead, I want to dive into a pretty radical new concept: letting part",
+     "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack. Hello, everybody! Welcome back to California Wire. This week, I’m going to be talking about virtual power plants again — but not the ones set up ",
      "source": "Canary Media",
      "zh": "What kind of virtual power plant would you choose?"
     },
@@ -1074,12 +1074,12 @@ window.INDUSTRY_DATA = {
      "zh": "Utilities turn to AI to manage rising power demand — from AI"
     },
     {
-     "title": "Jigar Shah blames the wrong target for rising electricity bills",
-     "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
-     "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
+     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
+     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
      "source": "Utility Dive",
-     "zh": "Jigar Shah blames the wrong target for rising electricity bills"
+     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
     }
    ]
   },
@@ -1290,6 +1290,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "'Stupendously large black holes' aren't a major component of dark matter, study finds",
+     "link": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds",
+     "pubDate": "Fri, 23 Oct 2026 12:00:00 +0000",
+     "summary": "Black holes more massive than entire galaxies are not a major component of dark matter, the mysterious stuff that's thought to make up most of the matter in the cosmos, a new study finds.",
+     "source": "Space.com",
+     "zh": "'Stupendously large black holes' aren't a major component of dark matter, study finds"
+    },
+    {
      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
      "pubDate": "Fri, 23 Oct 2026 10:57:51 +0000",
@@ -1376,14 +1384,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ukraine's military just signed a letter of intent with Nokia and the Finnish satellite maker ICEYE to look into developing a sovereign satellite-communication system for the war-torn nation.",
      "source": "Space.com",
      "zh": "After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia"
-    },
-    {
-     "title": "The 2027 total solar eclipse will plunge these 10 ancient Egyptian temples and monuments into darkness",
-     "link": "https://www.space.com/stargazing/solar-eclipses/the-2027-total-solar-eclipse-will-plunge-these-10-ancient-egyptian-temples-and-monuments-into-darkness",
-     "pubDate": "Thu, 22 Oct 2026 20:08:33 +0000",
-     "summary": "The \"eclipse of the century\" will plunge some of ancient Egypt's most spectacular sites into darkness on Aug. 2, 2027. These temples, tombs and monuments are inside the path of totality.",
-     "source": "Space.com",
-     "zh": "The 2027 total solar eclipse will plunge these 10 ancient Egyptian temples and monuments into darkness"
     },
     {
      "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
@@ -1537,6 +1537,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
+     "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+     "pubDate": "Fri, 23 Oct 2026 11:38:28 GMT",
+     "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+     "source": "Dark Reading",
+     "zh": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack"
+    },
     {
      "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
@@ -1722,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "UAE Transitions 50% of Government Services to Agentic AI"
     },
     {
-     "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
-     "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
-     "pubDate": "Wed, 21 Oct 2026 21:15:39 GMT",
-     "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
-     "source": "Dark Reading",
-     "zh": "TiDB Breach Exposes Flawed Cloud Security Assumptions"
-    },
-    {
      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
      "pubDate": "Wed, 21 Oct 2026 15:26:07 +0000",
@@ -1754,12 +1754,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "巴西机场被盗索泰 RTX 5090 显卡被挂二手网站，序列号成关键线索",
+     "link": "https://www.ithome.com/1/017/245.htm",
+     "pubDate": "Fri, 23 Oct 2026 12:07:23 GMT",
+     "summary": "IT之家 10 月 23 日消息，一批价值约 250 万巴西雷亚尔 （IT之家注：现汇率约合 330.43 万元人民币） 的英伟达 GeForce RTX 5090 显卡上周在巴西圣保罗瓜鲁柳斯国际机场不翼而飞，如今其中一张显卡被发现出现在二手交易平台 OLX 上。 该显卡的序列号与上述失踪货物相符，相关商品页面随后被下架。这张显卡为索泰 GeForce RTX 5090 SOLID OC 32GB，卖家最初标价 3.4 万巴西雷亚尔，之后降至 3.2 万巴西雷亚尔 （现汇率约合 4.23 万元人民币） 。 这批显卡属于巴西科技产品经销商 Oderço 从美国进口的货物。该公司总部位于巴西马林",
+     "source": "IT之家",
+     "zh": "巴西机场被盗索泰 RTX 5090 显卡被挂二手网站，序列号成关键线索"
+    },
+    {
+     "title": "首发 1499 元，小米米家净水器 3 1200G 上架预售",
+     "link": "https://www.ithome.com/1/017/241.htm",
+     "pubDate": "Fri, 23 Oct 2026 11:58:30 GMT",
+     "summary": "IT之家 10 月 23 日消息，小米米家净水器 3 1200G 上架预售，10 月 30 日 20 点开抢，首发价 1499 元。 IT之家从商品页面获悉，该产品采用纯物理过滤技术，滤材不添加阻垢剂。配合滤芯自净化技术，主动冲洗管路陈水，确保每杯水都新鲜纯净。通过母婴级净水认证，出水水质 0 双酚 A，累计总净水量高达 50 吨。 新品搭载 13 级鲜活净水过滤系统，过滤精度达 0.0001 微米，从过滤、冲洗到出水全链路层层拦截，高效滤除自来水中杂质、余氯、重金属、细菌、病毒等 145 种污染物 。针对净水器久置不用易滋生细菌的问题，后置抗菌滤芯配合出水管路内置长效抗菌材质，有效阻断后端细",
+     "source": "IT之家",
+     "zh": "首发 1499 元，小米米家净水器 3 1200G 上架预售"
+    },
+    {
      "title": "沃尔沃 CEO 塞缪尔森：中国市场变化太快，欧洲开发的车型已难满足当地消费者需求",
      "link": "https://www.ithome.com/1/017/240.htm",
      "pubDate": "Fri, 23 Oct 2026 11:55:47 GMT",
      "summary": "IT之家 10 月 23 日消息，沃尔沃汽车 CEO 哈坎 · 塞缪尔森（Håkan Samuelsson）表示，中国汽车市场的变化速度超出公司此前预期，过去依靠欧洲研发、面向全球市场销售的车型策略，已难以满足中国消费者的需求。 据汽车媒体 AutoTech Plus 报道，塞缪尔森在谈及全球车型战略时表示：“以前我们可以全球开发车型，直接引进中国销售，享受相当强的品牌溢价，消费者也很喜欢。但情况已经变了。” 他指出，中国本土汽车品牌的竞争力持续提升，市场需求也在快速变化，单纯依靠欧洲开发的全球车型已难以维持过去的竞争优势。 塞缪尔森认为，汽车制造商需要更加贴近不同地区的消费者，针对当地市场调",
      "source": "IT之家",
      "zh": "沃尔沃 CEO 塞缪尔森：中国市场变化太快，欧洲开发的车型已难满足当地消费者需求"
+    },
+    {
+     "title": "谷歌前CEO与斯坦福学者联合撰文：AI是“帝国技术”，中美将重演帝国兴衰？",
+     "link": "https://www.huxiu.com/article/4900007.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 19:47:20 +0800",
+     "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《谷歌前CEO与斯坦福学者联合撰文：AI是“帝国技术”，中美将重演帝国兴衰？｜IPP编译》 导语：纵观历史，大国的兴衰与版图的扩张，往往离不开关键工程与技术的支撑。公元1至2世纪，罗马帝国依靠四通八达的道路与引水工程，支撑起横跨地中海的统治体系；公元7世纪，隋唐王朝借助贯通南北的大运河，将江南的粮食与财富输送至北方政治中心；15世纪以后，欧洲国家则凭借远洋航海技术与火炮，将商业网络、军事力量和政治影响延伸至遥远大陆。这些技术使国家将原本分散的地区纳入以自身为中心的政治经济秩序，因而具有某种“帝国属性”。 如今，人工智能的影响已深入",
+     "source": "虎嗅",
+     "zh": "谷歌前CEO与斯坦福学者联合撰文：AI是“帝国技术”，中美将重演帝国兴衰？"
     },
     {
      "title": "An interview with Intel&apos;s leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more (Dwarkesh Patel/Dwarkesh Podcast)",
@@ -1792,6 +1816,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 23 日消息，比亚迪今日发布腾势 Z 答网友问第三期，对大尾翼选装、2 座版规划、国内上市节点、碳纤维配置等进行解答。 据介绍，腾势 Z Coupe 硬顶版可以 选装尾翼 ，满足对空气动力学有更高要求的用户。大尾翼采用简约而富有力量感的设计语言，不仅视觉强化运动美学特征，更能根据不同驾驶场景手动调节。Racing 赛道版则直接标配大尾翼。 腾势 Z 采用 2+2 双门四座布局，兼顾性能与日常实用性。 目前官方暂无推出纯 2 座版本的计划 。如有新的产品规划，腾势将第一时间通过官方渠道告知用户。 腾势 Z 已于 2026 年 7 月 13 日正式开启国内预售， 计划于 202",
      "source": "IT之家",
      "zh": "比亚迪腾势 Z 电动智能超跑四季度上市，预售 68 万元起"
+    },
+    {
+     "title": "Swedish government offices to ban ChatGPT and Claude",
+     "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+     "pubDate": "Fri, 23 Oct 2026 11:39:54 +0000",
+     "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Swedish government offices to ban ChatGPT and Claude"
     },
     {
      "title": "流感季将至，一半中国人却对流感疫苗“不感冒”",
@@ -1842,22 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "瓦尔基里 VK 99 V2 键盘发售：首发预估到手价 329.8 / 429.25 元"
     },
     {
-     "title": "如果AI吸走了一切，该怎么办？",
-     "link": "https://www.huxiu.com/article/4899996.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 19:27:27 +0800",
-     "summary": "本文由虎嗅旗下健康与抗衰公众号&ldquo;九叶刀研究&rdquo;首发，全文约2300字。封面图为现场拍摄，经AI重新设计。 2026年，所有行业都在担心同一件事情：如果AI吸走了一切，包括资源、金钱、人才，那该怎么办？ 10月22日，适逢哈佛终身教授、生物医药连续成功创业者格雷戈里&middot;维丁 （Gregory L. Verdine） 访问中国，并接受清华大学客座教授职位后，他与清华大学药学院院长钱锋，与虎嗅在内的媒体，就AI、中美医药创新、出海合规等话题进行了长谈。 以下，是这次谈话的关键内容，在一些细节问题上，我们会进行背景信息补充，如果有不同见解，也会表明我们的观点。 &ld",
-     "source": "虎嗅",
-     "zh": "如果AI吸走了一切，该怎么办？"
-    },
-    {
-     "title": "YUNZII（键设宇宙）C21 数字小键盘国行发售，到手价 296 元起",
-     "link": "https://www.ithome.com/1/017/234.htm",
-     "pubDate": "Fri, 23 Oct 2026 11:14:06 GMT",
-     "summary": "IT之家 10 月 23 日消息，YUNZII（键设宇宙）即将于今晚 20:00 发售 C21 数字小键盘。该产品可选桃气猫 / 加啡猫 / 芋见猫 / 米妮猫 4 种外观， 青雾轴版本 296 元 、 糖果轴版本 305 元 。 天猫 YUNZII C21 小键盘 296 元起 直达链接 C21 延续了 YUNZII“蛋糕猫咪”系列的 硅胶猫耳 ARGB 灯带设计 ，集成 428×142 屏幕，支持计算器模式，内置本地小游戏。 其支持三模连接，内部为 Gasket 结构，允许轴体热插拔，集成南向 RGB 背光，搭配 MOA 高度 PBT 材质染料热升华工艺键帽，集成 2500mAh 电池，底",
-     "source": "IT之家",
-     "zh": "YUNZII（键设宇宙）C21 数字小键盘国行发售，到手价 296 元起"
-    },
-    {
      "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
      "link": "https://www.solidot.org/story?sid=85696",
      "pubDate": "Fri, 23 Oct 2026 19:07:11 +0800",
@@ -1866,18 +1882,10 @@ window.INDUSTRY_DATA = {
      "zh": "希腊通过法案禁止 15 岁以下儿童使用社媒"
     },
     {
-     "title": "雷蛇幻影战狼 V4 系列手柄国行发布：专业版 1599 元，竞技版 799 元",
-     "link": "https://www.ithome.com/1/017/231.htm",
-     "pubDate": "Fri, 23 Oct 2026 11:06:26 GMT",
-     "summary": "IT之家 10 月 23 日消息，雷蛇今日宣布推出全新幻影战狼 V4 专业版（对比 V3 升级了传感器、面板和按键），售价 1599 元。除此之外，雷蛇还推出了一款 799 元的竞技版，少了可拆卸面板。 据介绍，雷蛇幻影战狼 V4 专业版采用了高分辨率电容式摇杆，配备 4 个可拆卸鼠标点击式背键、2 个抓握式宏肩键，搭载可调式 Razer Pro HyperTriggers 扳机，支持双模式适应不同需求。 该系列手柄采用非对称式摇杆布局，拥有全新电容式摇杆，相比 TMR 和霍尔摇杆可提供更高抗干扰能力，以及更强的抗漂移性能。可识别 3000 级运动变化，提供更加平滑的追踪、更高精度，适合各种竞",
-     "source": "IT之家",
-     "zh": "雷蛇幻影战狼 V4 系列手柄国行发布：专业版 1599 元，竞技版 799 元"
-    },
-    {
      "title": "Is this the new cyber normal?",
      "link": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
      "pubDate": "Fri, 23 Oct 2026 11:04:53 +0000",
-     "summary": "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 30 # Comments: 6",
      "source": "Hacker News",
      "zh": "Is this the new cyber normal?"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Dutch government had hacked into Jared Kushner's phone",
      "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
      "pubDate": "Fri, 23 Oct 2026 10:41:32 +0000",
-     "summary": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767 Comments URL: https://news.ycombinator.com/item?id=50206914 Points: 53 # Comments: 15",
+     "summary": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767 Comments URL: https://news.ycombinator.com/item?id=50206914 Points: 76 # Comments: 23",
      "source": "Hacker News",
      "zh": "Dutch government had hacked into Jared Kushner's phone"
     },
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Job Loss and Cortisone Mania",
      "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
      "pubDate": "Fri, 23 Oct 2026 10:31:24 +0000",
-     "summary": "Article URL: https://tilschuenemann.de/job-loss-cortisone-mania Comments URL: https://news.ycombinator.com/item?id=50206840 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://tilschuenemann.de/job-loss-cortisone-mania Comments URL: https://news.ycombinator.com/item?id=50206840 Points: 14 # Comments: 0",
      "source": "Hacker News",
      "zh": "Job Loss and Cortisone Mania"
     },
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
      "source": "WIRED",
      "zh": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married"
-    },
-    {
-     "title": "What Type of Mattress Is Right for You? (2026)",
-     "link": "https://www.wired.com/story/mattress-types-explained-2026/",
-     "pubDate": "Fri, 23 Oct 2026 10:08:00 +0000",
-     "summary": "Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.",
-     "source": "WIRED",
-     "zh": "What Type of Mattress Is Right for You? (2026)"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark",
+     "link": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
+     "pubDate": "Fri, 23 Oct 2026 12:00:00 +0000",
+     "summary": "NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.",
+     "source": "Engadget",
+     "zh": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark"
+    },
     {
      "title": "Goodbye Oxygen OS, hello Color OS: OnePlus 15 is now getting stable Android 17",
      "link": "https://www.androidauthority.com/oneplus-15-pad-4-coloros-17-update-3727160/",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "Strava revamps route discovery with smarter search, offline improvements, more"
-    },
-    {
-     "title": "Retro game emulator Delta looks great on the iPhone Duo",
-     "link": "https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo/",
-     "pubDate": "Thu, 22 Oct 2026 23:23:32 +0000",
-     "summary": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo. The app now has specially-designed controller skins that are optimized for all the different iPhone Duo poses, including some beau",
-     "source": "9to5Mac",
-     "zh": "Retro game emulator Delta looks great on the iPhone Duo"
     }
    ]
   },
@@ -2256,6 +2256,62 @@ window.INDUSTRY_DATA = {
      "summary": "New York-based startup Coast has raised $35m for the launch of a payment platform designed to support companies working in the physical economy.",
      "source": "Finextra",
      "zh": "US fintech Coast secures $35m for physical economy payments platform"
+    },
+    {
+     "title": "First Hawaiian GAAP EPS of $0.52 misses by $0.06, revenue of $230.2M beats by $1.28M",
+     "link": "https://seekingalpha.com/news/4656532-first-hawaiian-gaap-eps-of-0_52-misses-by-0_06-revenue-of-230_2m-beats-by-1_28m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:07:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "First Hawaiian GAAP EPS of $0.52 misses by $0.06, revenue of $230.2M beats by $1.28M"
+    },
+    {
+     "title": "Nike is bringing back a retro favorite lifestyle shoe next year",
+     "link": "https://seekingalpha.com/news/4656529-nike-is-bringing-back-a-retro-favorite-lifestyle-shoe-next-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:06:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nike is bringing back a retro favorite lifestyle shoe next year"
+    },
+    {
+     "title": "Gentex Non-GAAP EPS of $0.47 misses by $0.03, revenue of $647.7M misses by $21.94M",
+     "link": "https://seekingalpha.com/news/4656528-gentex-non-gaap-eps-of-0_47-misses-by-0_03-revenue-of-647_7m-misses-by-21_94m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:05:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gentex Non-GAAP EPS of $0.47 misses by $0.03, revenue of $647.7M misses by $21.94M"
+    },
+    {
+     "title": "MaxLinear's optical DSP growth draws Street attention",
+     "link": "https://seekingalpha.com/news/4656521-maxlinears-optical-dsp-growth-draws-street-attention?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:58:42 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MaxLinear's optical DSP growth draws Street attention"
+    },
+    {
+     "title": "Volvo Cars plunges 26% as CEO says China sales slump came &apos;faster than we thought&apos;",
+     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+     "pubDate": "Fri, 23 Oct 2026 11:58:40 GMT",
+     "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
+     "source": "CNBC",
+     "zh": "Volvo Cars plunges 26% as CEO says China sales slump came &apos;faster than we thought&apos;"
+    },
+    {
+     "title": "Edible Garden partners with Tennessee farm to boost margins",
+     "link": "https://seekingalpha.com/news/4656525-edible-garden-partners-with-tennessee-farm-to-boost-margins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:57:21 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Edible Garden partners with Tennessee farm to boost margins"
+    },
+    {
+     "title": "Apple in focus as Wedbush sees 'strong' demand for iPhone Duo",
+     "link": "https://seekingalpha.com/news/4656524-apple-in-focus-as-wedbush-sees-strong-demand-for-iphone-duo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:55:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple in focus as Wedbush sees 'strong' demand for iPhone Duo"
     },
     {
      "title": "美国版“我不是药神”：一个美国儿子的上海买药之旅",
@@ -2282,132 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare"
     },
     {
-     "title": "Howard Hughes, Millrose Properties lead list of undervalued real estate stocks",
-     "link": "https://seekingalpha.com/news/4656523-howard-hughes-millrose-properties-lead-list-of-undervalued-real-estate-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:50:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Howard Hughes, Millrose Properties lead list of undervalued real estate stocks"
-    },
-    {
-     "title": "Pharvaris rises after BofA upgrades to Buy",
-     "link": "https://seekingalpha.com/news/4656516-pharvaris-rises-after-bofa-upgrades-to-buy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:48:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pharvaris rises after BofA upgrades to Buy"
-    },
-    {
-     "title": "【图解财报】金风科技三季报盈利28.75亿人民币，同比增加11.25%",
-     "link": "http://stock.eastmoney.com/news/11837,202610233906504438.html",
-     "pubDate": "Fri, 23 Oct 2026 19:48:20 +0800",
-     "summary": "金风科技 10月23日发布 三季报 业绩，截至2026年9月30日的 9 个月内，该公司营业收入520.23亿人民币，同比 增长8.05%； 公司权益持有人应占溢利（归母净利润）28.75亿人民币， 同比增长11.25% 。 金风科技 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人",
-     "source": "东方财富股票",
-     "zh": "【图解财报】金风科技三季报盈利28.75亿人民币，同比增加11.25%"
-    },
-    {
      "title": "智界明年加速出海，不用华为智驾",
      "link": "https://wallstreetcn.com/articles/3784333",
      "pubDate": "Fri, 23 Oct 2026 19:47:51 +0800",
      "summary": "作者 | 周智宇 智界准备把与华为共同打造的高端车卖到海外，出口车型却不会搭载华为的智驾和座舱方案。 华尔街见闻从知情人士处获悉，智界拟从2027年起加速出海。另有接近项目人士透露，右舵车型属于海外定制产品，“非鸿蒙智行定义的产品”。换而言之，国内与华为的合作继续，海外另做产品。 据悉，智界V9的出口版本名为智界 LLounge，优先开发右舵，计划2027年初进入泰国，年中进入澳大利亚、新西兰。智界RX也有出海计划，海外名字为智界Stormax。 智界V9这款在国内售价38.98万至51.98万元的MPV，出海后仍要做高端。但智界选中的泰国，已经有腾势D9、极氪009在与丰田豪华MPV竞争；奇",
      "source": "华尔街见闻",
      "zh": "智界明年加速出海，不用华为智驾"
-    },
-    {
-     "title": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906504644.html",
-     "pubDate": "Fri, 23 Oct 2026 19:47:23 +0800",
-     "summary": "境内首批主动ETF中，已出现多个爆款基金。 10月23日，首批主动ETF发售首日，即有多只产品触及20亿元募集规模上限，宣布结束募集，并将采取比例配售。 主动ETF首日发售火爆 10月23日下午，摩根 资产管理 （中国）、易方达基金、富国基金均发布公告称，旗下主动ETF募集截止日提前至10月23日，即10月23日为最后一个募集日，10月24日起不再接受认购申请。 公告显示，上述产品均自10月23日开始募集，易方达品质均衡主动管理ETF原定募集截止日为10月29日，摩根 大盘成长 主动股票ETF、富国价值优选量化选股主动管理ETF原定募集截止日为10月30日。三只产品首次募集规模上限均为20亿元",
-     "source": "东方财富股票",
-     "zh": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售"
-    },
-    {
-     "title": "图解财报：永鼎股份前三季归母净利润7.43亿元，同比增长125.75%",
-     "link": "http://stock.eastmoney.com/news/11802,202610233906503936.html",
-     "pubDate": "Fri, 23 Oct 2026 19:47:18 +0800",
-     "summary": "永鼎股份 10月24日发布2026年 三季报显示，公司前三季 实现营业收入54.30亿元 ，同比增长49.57% ；归母净利润7.43亿元 ，同比增长125.75% ；扣非归母净利润7.40亿元 ，同比增长130.32% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：永鼎股份前三季归母净利润7.43亿元，同比增长125.75%"
-    },
-    {
-     "title": "深深房Ａ：第三季度归母净利润314.46万元 同比下降92.53%",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906504788.html",
-     "pubDate": "Fri, 23 Oct 2026 19:47:06 +0800",
-     "summary": "深深房Ａ10月23日公告，2026年第三季度实现营业收入9564.73万元，同比下降63.42%；归母净利润314.46万元，同比下降92.53%；基本每股收益0.0031元。前三季度实现营业收入2.45亿元，同比下降72.75%；归母净利润亏损541.55万元，上年同期净利润1.45亿元；基本每股收益亏损0.0054元。报告期内，公司业绩主要受到 房地产 结转同比减少的影响。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "深深房Ａ：第三季度归母净利润314.46万元 同比下降92.53%"
-    },
-    {
-     "title": "永鼎股份：第三季度归母净利润2.39亿元 同比增长2165.42%",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906504529.html",
-     "pubDate": "Fri, 23 Oct 2026 19:47:06 +0800",
-     "summary": "永鼎股份 10月23日公告，2026年第三季度实现营业收入20.91亿元，同比增长52.56%；归母净利润2.39亿元，同比增长2165.42%；基本每股收益0.164元。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "永鼎股份：第三季度归母净利润2.39亿元 同比增长2165.42%"
-    },
-    {
-     "title": "电科思仪：第三季度归母净利润1.11亿元 同比增长23.6%",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906504243.html",
-     "pubDate": "Fri, 23 Oct 2026 19:47:06 +0800",
-     "summary": "电科思仪 10月23日公告，2026年第三季度实现营业收入6.23亿元，同比增长2.67%；归母净利润1.11亿元，同比增长23.6%；基本每股收益0.1344元。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "电科思仪：第三季度归母净利润1.11亿元 同比增长23.6%"
-    },
-    {
-     "title": "Evonik gains on report BASF increased offer for Evonik to over €11B",
-     "link": "https://seekingalpha.com/news/4656515-evonik-gains-on-report-basf-increased-offer-for-evonik-to-over-11b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:46:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Evonik gains on report BASF increased offer for Evonik to over €11B"
-    },
-    {
-     "title": "Western Digital in focus as Wall Street defends amid capex concerns",
-     "link": "https://seekingalpha.com/news/4656513-western-digital-in-focus-as-wall-street-defends-amid-capex-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:46:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Western Digital in focus as Wall Street defends amid capex concerns"
-    },
-    {
-     "title": "Flagstar Bank stock drops as Q3 provisions, net interest income hit earnings",
-     "link": "https://seekingalpha.com/news/4656501-flagstar-bank-stock-drops-as-q3-provisions-net-interest-income-hit-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:45:53 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Flagstar Bank stock drops as Q3 provisions, net interest income hit earnings"
-    },
-    {
-     "title": "光模块龙头拟回购股份并注销",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906503898.html",
-     "pubDate": "Fri, 23 Oct 2026 19:45:16 +0800",
-     "summary": "10月23日晚，光模块龙头 天孚通信 公告称，公司董事会审议通过回购方案，拟使用自有资金以集中竞价方式回购股份，回购资金总额不低于1亿元且不超过1.5亿元，回购价格不超过350元/股。回购股份将全部注销并减少注册资本，实施期限为股东会审议通过后6个月内。该议案尚需提交股东会审议。 图片来源：公司公告 10月15日晚， 天孚通信 公告称，公司当日收到控股股东苏州天孚仁和投资管理有限公司出具的《关于提议苏州天孚光 通信 股份有限公司回购公司股份的函》，天孚仁和提议公司通过集中竞价交易方式，以自有或自筹资金回购股份，回购资金总额不低于1亿元（含）且不超过1.5亿元（含），回购价格上限为350元/股（",
-     "source": "东方财富资讯",
-     "zh": "光模块龙头拟回购股份并注销"
-    },
-    {
-     "title": "福建前首富林秀成被批捕",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906502737.html",
-     "pubDate": "Fri, 23 Oct 2026 19:40:12 +0800",
-     "summary": "【导读】 三安光电 实控人林秀成被检察机关批准逮捕 10月23日晚间， 三安光电 发布公告称，公司实际控制人林秀成此前因涉嫌职务侵占、挪用资金罪被公安机关刑事拘留，近日收到其家属通知，林秀成被检察机关批准逮捕。 三安光电 表示，目前公司生产经营管理正常。林秀成自2017年7月10日以来未在公司担任任何职务，该事项与公司无关，不会对公司生产经营产生重大影响。 三安光电中报显示，林秀成系福建三安集团有限公司的控股股东，是公司的实际控制人。 公开资料显示，林秀成，1956年生于福建省安溪县。2000年成立三安 光电股份 有限公司，并在2002年成功研制出第一片外延片。2008年7月，三安光电在上海证",
-     "source": "东方财富资讯",
-     "zh": "福建前首富林秀成被批捕"
-    },
-    {
-     "title": "American Express Q3 earnings beat as network volume disappoints",
-     "link": "https://seekingalpha.com/news/4656496-american-express-q3-earnings-beat-as-network-volume-disappoints?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:34:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "American Express Q3 earnings beat as network volume disappoints"
-    },
-    {
-     "title": "10月23日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906498144.html",
-     "pubDate": "Fri, 23 Oct 2026 19:32:43 +0800",
-     "summary": "沪深两市多家上市公司10月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 协和电子 ：控股股东筹划公司控制权变更事项 26日起停牌 协和电子 (605258)10月23日公告，公司控股股东张南国、张敏金、张南星、张建荣正在筹划重大事项，该事项可能导致公司控制权发生变更，公司股票自10月26日开市起停牌，预计停牌不超过2个交易日。 中国神华 ：全资子公司拟约6.18亿元购买煤制气公司50%股权 中国神华 (601088)10月23日公告，公司全资子公司新疆能源拟以非公开协议方式，购买西部能源所持国能新疆煤制气有限公司（简称“煤制气公司”）50%股权，交易对价约6.18亿元。交易完成后，",
-     "source": "东方财富资讯",
-     "zh": "10月23日晚间沪深上市公司重大事项公告最新快递"
     },
     {
      "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
@@ -2424,22 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tech stocks are slumping — even as more than 300 S&P 500 constituents rose Thursday — and Treasurys are rallying. Here’s what may be changing.",
      "source": "MarketWatch",
      "zh": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?"
-    },
-    {
-     "title": "突发利好！物理AI概念股集体爆发 多股业绩有望大增",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906455840.html",
-     "pubDate": "Fri, 23 Oct 2026 19:16:48 +0800",
-     "summary": "物理AI概念股今日大涨。 10月23日，A股市场尾盘拉升，沪指收涨0.89%，最新报3690.48点。多只物理AI概念股上涨， 凡拓数创 、 风语筑 、 能科科技 、 埃斯顿 等多股午后拉升涨停； 奥比中光-W 、 赛意信息 、索辰科技、 阿尔特 、 福赛科技 、 摩尔线程-U 等多股涨逾10%。 消息面上，上海市经济和信息化委员会印发《上海市加快推动 人工智能 赋能工业服务业高质量发展行动方案（2027—2028年）》，明确提出，鼓励企业前瞻布局物理AI，重点突破世界模型构建、多模态物理感知、虚实交互与自主决策等核心技术。 到2028年，工业服务业中 人工智能 应用普及率达到85%以上，力争",
-     "source": "东方财富资讯",
-     "zh": "突发利好！物理AI概念股集体爆发 多股业绩有望大增"
-    },
-    {
-     "title": "国常会：优化面向家庭的财税、社保、住房等支持举措 努力稳定新出生人口规模",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906441021.html",
-     "pubDate": "Fri, 23 Oct 2026 19:13:40 +0800",
-     "summary": "国务院总理李强10月23日主持召开国务院常务会议，研究统筹人口与经济社会发展有关工作，听取推进全国服务业大会部署落实情况汇报。 会议指出，人口是经济社会发展的基础条件，要更好统筹人口与经济社会、资源环境的关系，进一步完善相关政策，持续积累和释放人口 综合 红利，以人口高质量发展更好支撑经济社会高质量发展。要更加突出人的全面发展，提高人口科学文化、职业技能、身心健康等水平，加快完善全民终身学习机制，广泛开展技能培训，强化 教育 、培训与产业发展协同联动，促进高质量充分就业。要加强区域人口发展分类指导，引导城乡人口有序流动，稳步推进基本公共服务均等化，根据人口分布情况优化基础设施布局，推动公共服务",
-     "source": "东方财富资讯",
-     "zh": "国常会：优化面向家庭的财税、社保、住房等支持举措 努力稳定新出生人口规模"
     },
     {
      "title": "France is flashing euro crisis signals. This time, the fault lines are different",
@@ -2488,6 +2408,86 @@ window.INDUSTRY_DATA = {
      "summary": "贝森特正将美国国债融资推向短期化，而这恰恰是他曾经警告过的危险策略。 10月23日，据英国《金融时报》报道，美国财政部将于11月4日公布下一季度发债计划， 市场预计，计划可能进一步提高短期国债的发行占比，包括削减甚至停止发行20年期国债，并加大长期国债回购力度。 目前，美国国债的加权平均到期期限已不足6年，明显短于英国的13年，以及德国、法国和日本的约8年。若进一步转向短债，美国政府将需要更频繁地为到期债务再融资。 颇具讽刺意味的是，贝森特曾公开批评前任财政部长耶伦缩短国债期限，警告此举会使美国“危险地暴露于利率波动之下”。 如今，他却准备进一步推进短债融资，使自己曾经指出的风险再次成为政策争",
      "source": "华尔街见闻",
      "zh": "贝森特曾批评耶伦借短债危险，现在自己做得更过分"
+    },
+    {
+     "title": "车企激辩自动驾驶“下半场”：究竟要不要跳过L3？",
+     "link": "http://www.eeo.com.cn/2026/1023/1073941.shtml",
+     "pubDate": "Fri, 23 Oct 2026 18:47:52 +0800",
+     "summary": "从各方表态来看，2028年是车企L3/L4量产预期的时间节点，但路线分歧并未消解：比亚迪选择从限定场景L3逐步向更广泛场景迭代，小鹏试图以L4架构覆盖L3阶段，蔚来则把硬件、技术和运营体系准备到“监管允许即可跟进”。",
+     "source": "经济观察网",
+     "zh": "车企激辩自动驾驶“下半场”：究竟要不要跳过L3？"
+    },
+    {
+     "title": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?",
+     "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 10:45:00 GMT",
+     "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
+     "source": "MarketWatch",
+     "zh": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?"
+    },
+    {
+     "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
+     "link": "https://wallstreetcn.com/articles/3784326",
+     "pubDate": "Fri, 23 Oct 2026 18:40:45 +0800",
+     "summary": "寒武纪三季度营收、净利润继续保持高速增长，人工智能应用落地带动业务规模进一步扩大。10月23日，寒武纪披露2026年第三季度报告， 第三季度实现营业收入35.31亿元，同比增长104.47%；归属于上市公司股东的净利润为14.04亿元，同比增长147.74%。 前三季度，公司累计实现营业收入95.26亿元，同比增长106.76%；归母净利润37.15亿元，同比增长131.49%。营收和利润增速均超过100%，净利润增速高于营收增速，盈利规模进一步扩大。 寒武纪在财报中表示，营收增长主要得益于持续拓展市场、积极助力人工智能应用落地。 随着AI算力需求增长及相关应用逐步推进，公司业务规模持续扩张。",
+     "source": "华尔街见闻",
+     "zh": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻"
+    },
+    {
+     "title": "中文在线撤回港股IPO背后：“腾讯系”的光环、业绩亏损和短剧出海",
+     "link": "http://www.eeo.com.cn/2026/1023/1073965.shtml",
+     "pubDate": "Fri, 23 Oct 2026 18:33:00 +0800",
+     "summary": "10月8日，中文在线撤回港股IPO并且终止国内A股的定增募资后，市场有声音称公司股东之间可能存在分歧。10月22日上午，经济观察报记者以投资者身份致电中文在线证券部，询问这个问题，工作人员称股东之间没有分歧；撤回港股IPO和终止定增募资的原因，已在深交所问询函里回复。",
+     "source": "经济观察网",
+     "zh": "中文在线撤回港股IPO背后：“腾讯系”的光环、业绩亏损和短剧出海"
+    },
+    {
+     "title": "Democratic socialist set to become D.C. mayor — and face Trump&apos;s pushback",
+     "link": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
+     "pubDate": "Fri, 23 Oct 2026 10:30:01 GMT",
+     "summary": "Following Zohran Mamdani's election as New York City mayor, another democratic socialist is set to become mayor of Washington, D.C.",
+     "source": "CNBC",
+     "zh": "Democratic socialist set to become D.C. mayor — and face Trump&apos;s pushback"
+    },
+    {
+     "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+     "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 10:29:00 GMT",
+     "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
+     "source": "MarketWatch",
+     "zh": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 10:15:00 GMT",
+     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+     "source": "MarketWatch",
+     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+    },
+    {
+     "title": "Corruption is voters&apos; top issue ahead of midterm election, CNBC survey shows",
+     "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+     "pubDate": "Fri, 23 Oct 2026 10:00:01 GMT",
+     "summary": "Democrats have worked to contrast economic hardship with President Trump's surging net worth and his family's lucrative business dealings.",
+     "source": "CNBC",
+     "zh": "Corruption is voters&apos; top issue ahead of midterm election, CNBC survey shows"
+    },
+    {
+     "title": "Nvidia&apos;s Huang heads to Kazakhstan for the first time — and he&apos;s not the only one with big plans",
+     "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+     "pubDate": "Fri, 23 Oct 2026 09:21:59 GMT",
+     "summary": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.",
+     "source": "CNBC",
+     "zh": "Nvidia&apos;s Huang heads to Kazakhstan for the first time — and he&apos;s not the only one with big plans"
+    },
+    {
+     "title": "Winter arrives in markets",
+     "link": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 05:30:08 GMT",
+     "summary": "Bonds and stocks tell the same chilly story",
+     "source": "Financial Times",
+     "zh": "Winter arrives in markets"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 15:45:54",
+ "generated_at": "2026/10/23 15:52:01",
  "recent_days": 7,
  "industries": [
   {
@@ -314,54 +314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Commentary: How long can the humanoid robot bubble last? Unitree's valuation correction puts physical AI to the test"
     },
     {
-     "title": "Electronics production growth accelerating, says SI",
-     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
-     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Electronics production growth accelerating, says SI"
-    },
-    {
-     "title": "The AI Race, by imec",
-     "link": "https://www.electronicsweekly.com/news/business/the-ai-race-by-imec-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:15:48 +0000",
-     "summary": "“The AI race is often framed as a race for bigger models, faster chips and larger datacentres, – that framing is outdated,” says Patrick Vandenameele (pictured), CEO of imec, “the […] The post The AI Race, by imec appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The AI Race, by imec"
-    },
-    {
-     "title": "Washington takes stake in fusion company",
-     "link": "https://www.electronicsweekly.com/news/business/washington-takes-stake-in-fusion-company-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:13:35 +0000",
-     "summary": "The US government has taken a share in fusion energy company Helios in return for a $175 million Chips Act grant. The grant comes with an additional private investment of […] The post Washington takes stake in fusion company appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Washington takes stake in fusion company"
-    },
-    {
-     "title": "Mouser signs ControlByWeb",
-     "link": "https://www.electronicsweekly.com/news/business/mouser-signs-controlbyweb-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:02:14 +0000",
-     "summary": "Mouser has signed a new global distribution agreement with ControlByWeb, a manufacturer of industrial IoT controllers for remote monitoring, control and data acquisition. The platform has optional cloud and cellular […] The post Mouser signs ControlByWeb appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Mouser signs ControlByWeb"
-    },
-    {
-     "title": "China Q3 phone market down 10% YoY",
-     "link": "https://www.electronicsweekly.com/news/business/china-q3-phone-market-down-10-yoy-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:01:41 +0000",
-     "summary": "China’s smartphone shipments fell 10% YoY in Q3 2026, marking the lowest Q3 level since 2012, according to Counterpoint Research. Huawei and Apple captured 40% of shipments, widening their lead […] The post China Q3 phone market down 10% YoY appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "China Q3 phone market down 10% YoY"
-    },
-    {
-     "title": "Apple To Take 25% Of 2026 Foldables Market",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/apple-to-take-25-of-foldables-market-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 00:01:07 +0000",
-     "summary": "Apple is expected to take a 25% share of the 2026 foldables market despite shipping its first foldable this week, says Counterpoint Research. Nonetheless Samsung is expected to remain […] The post Apple To Take 25% Of 2026 Foldables Market appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Apple To Take 25% Of 2026 Foldables Market"
-    },
-    {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
      "link": "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/",
      "pubDate": "Thu, 22 Oct 2026 18:24:39 +0000",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "GPS jamming is rising. Learn how 4G, 5G, and NTN positioning give mission-critical devices a trusted fallback when GNSS fails. The post When GPS Isn’t Enough: Building a Second Layer of Positioning appeared first on EE Times .",
      "source": "EE Times",
      "zh": "When GPS Isn’t Enough: Building a Second Layer of Positioning"
+    },
+    {
+     "title": "Beyond the Post-Mortem: How yieldHUB Live Turns the Test Floor Into an Open Window",
+     "link": "https://semiwiki.com/eda/yieldhub/375137-beyond-the-post-mortem-how-yieldhub-live-turns-the-test-floor-into-an-open-window/",
+     "pubDate": "Wed, 21 Oct 2026 17:00:16 +0000",
+     "summary": "At SEMICON West 2026 I sat down with John O’Donnell, founder and CEO, and Gillian O’Donnell, Director of Growth , to talk about how yieldHUB Live is transforming the semiconductor test floor from a blind spot into a real-time command center. For decades, semiconductor test floors have operated as hi",
+     "source": "SemiWiki",
+     "zh": "Beyond the Post-Mortem: How yieldHUB Live Turns the Test Floor Into an Open Window"
+    },
+    {
+     "title": "India’s OSAT Buildout Puts Semiconductor Testing in Focus",
+     "link": "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/",
+     "pubDate": "Wed, 21 Oct 2026 13:39:13 +0000",
+     "summary": "NI said Kaynes Semicon has selected its semiconductor test systems, while other Indian OSATs continue to evaluate equipment as manufacturers prepare for production. The post India’s OSAT Buildout Puts Semiconductor Testing in Focus appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "India’s OSAT Buildout Puts Semiconductor Testing in Focus"
+    },
+    {
+     "title": "Guerrilla RF expands GaN design support and begins sampling new high-power devices",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/guerrillarf-201026.shtml",
+     "pubDate": "Tue, 20 Oct 2026 20:59:52 +0100",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that new nonlinear simulation models for its GRF0005 and GRF0012 gallium nitride (GaN) power transistors ar",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF expands GaN design support and begins sampling new high-power devices"
+    },
+    {
+     "title": "Ascent partners with Darley to expand thin-film solar product access across defense and government markets",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/ascent-solar-201026.shtml",
+     "pubDate": "Tue, 20 Oct 2026 16:49:56 +0100",
+     "summary": "Ascent Solar Technologies Inc of Thornton, CO, USA – which designs and makes lightweight, flexible copper indium gallium diselenide (CIGS) thin-film photovoltaic (PV) panels that can be integrated into consumer products, off-grid applications and aerospace applications – has announced a new partners",
+     "source": "Semiconductor Today",
+     "zh": "Ascent partners with Darley to expand thin-film solar product access across defense and government markets"
+    },
+    {
+     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
+     "link": "https://spectrum.ieee.org/community-college-semiconductors",
+     "pubDate": "Tue, 20 Oct 2026 13:00:02 +0000",
+     "summary": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared. By 2030, investments in manufacturing, design, materials, and packaging facilities in the United States will create demand for 189,000 new full-time semiconductor jobs. But the supply of such",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Community Colleges Put New Workers Into Semiconductor Jobs Fast"
+    },
+    {
+     "title": "NUBURU receives NYSE American warning letter regarding disclosure requirements",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/nuburu-201026.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:07:22 +0100",
+     "summary": "NUBURU Inc of Centennial, CO, USA (a dual-use defense & security integrated platform company) has received a public warning letter from NYSE Regulation on behalf of NYSE American LLC...",
+     "source": "Semiconductor Today",
+     "zh": "NUBURU receives NYSE American warning letter regarding disclosure requirements"
     }
    ]
   },
@@ -1010,12 +1010,28 @@ window.INDUSTRY_DATA = {
      "zh": "Utilities turn to AI to manage rising power demand — from AI"
     },
     {
+     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
+     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
+    },
+    {
      "title": "Jigar Shah blames the wrong target for rising electricity bills",
      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
      "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
      "source": "Utility Dive",
      "zh": "Jigar Shah blames the wrong target for rising electricity bills"
+    },
+    {
+     "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+     "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+     "pubDate": "Thu, 22 Oct 2026 10:42:49 -0400",
+     "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
+     "source": "Utility Dive",
+     "zh": "Google supersizes PJM virtual power plant to more than 1 GW"
     },
     {
      "title": "Global energy storage deployments will see 45% year-on-year ‘growth surge’ in 2026: BloombergNEF",
@@ -1064,22 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google just upped the ante on its plans to leverage the energy use of thousands of homes and businesses to free up space on the grid for data centers. The tech giant and the California-based firm Voltus announced Thursday that they are going after a gigawatt of virtual-power-plant capacity in PJM In",
      "source": "Canary Media",
      "zh": "Google plans big virtual power plant in energy-strapped PJM grid"
-    },
-    {
-     "title": "France’s storage market moves to higher durations with secondary reserve saturation ‘cliff-edge’ approaching",
-     "link": "https://www.energy-storage.news/frances-storage-market-moves-to-higher-durations-with-secondary-reserve-saturation-cliff-edge-approaching/",
-     "pubDate": "Thu, 22 Oct 2026 10:51:49 +0000",
-     "summary": "BESS investments in the French market are moving to longer durations with saturation expected to hit the secondary reserve market, currently the main way operational projects make their money.",
-     "source": "Energy Storage News",
-     "zh": "France’s storage market moves to higher durations with secondary reserve saturation ‘cliff-edge’ approaching"
-    },
-    {
-     "title": "Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon",
-     "link": "https://www.pv-tech.org/kendall-sustainable-infrastructure-brings-16mw-of-community-solar-online-in-new-york-and-oregon/",
-     "pubDate": "Thu, 22 Oct 2026 09:01:51 +0000",
-     "summary": "Kendall Sustainable Infrastructure (KSI) has started operating three community solar projects totalling 15.8MWdc across New York and Oregon.",
-     "source": "PV Tech",
-     "zh": "Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon"
     }
    ]
   },
@@ -1089,6 +1089,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Alnylam plans bigger study of RNA drug for Huntington’s disease",
+     "link": "https://endpoints.news/alnylam-plans-bigger-study-of-rna-drug-for-huntingtons-disease/",
+     "pubDate": "Fri, 23 Oct 2026 07:45:51 +0000",
+     "summary": "As with many of the most feared neurological conditions, Huntington’s disease has proven to be a minefield for drug developers. Promising biomarker data didn’t translate into clinical benefits in Roche’s recent study ...",
+     "source": "Endpoints News",
+     "zh": "Alnylam plans bigger study of RNA drug for Huntington’s disease"
+    },
+    {
+     "title": "STAT+: Alnylam says Huntington’s drug shows promise in early study",
+     "link": "https://www.statnews.com/2026/10/23/huntingtons-alnylam-gene-silencing-brezosiran/?utm_campaign=rss",
+     "pubDate": "Fri, 23 Oct 2026 07:45:00 +0000",
+     "summary": "It’s yet to be seen whether Alnylam’s drug will actually slow progression of Huntington’s, but the field is lively.",
+     "source": "STAT News",
+     "zh": "STAT+: Alnylam says Huntington’s drug shows promise in early study"
+    },
     {
      "title": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
      "link": "https://endpoints.news/gilead-strikes-1-3b-upfront-china-deal-for-oral-il-23-drug/",
@@ -1240,22 +1256,6 @@ window.INDUSTRY_DATA = {
      "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
      "source": "BioPharma Dive",
      "zh": "Biohaven’s previously rejected rare disease drug to get fresh FDA review"
-    },
-    {
-     "title": "STAT+: Will the Treasury restrict U.S. investment in the Chinese biotech sector?",
-     "link": "https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/?utm_campaign=rss",
-     "pubDate": "Thu, 22 Oct 2026 16:17:03 +0000",
-     "summary": "Rumors are swirling that the Treasury Department this week is going to propose a rule that restricts U.S. investment in the Chinese biotech sector.",
-     "source": "STAT News",
-     "zh": "STAT+: Will the Treasury restrict U.S. investment in the Chinese biotech sector?"
-    },
-    {
-     "title": "American Medical Association CEO talks regulating AI care",
-     "link": "https://endpoints.news/american-medical-association-ceo-talks-regulating-ai-care/",
-     "pubDate": "Thu, 22 Oct 2026 15:51:50 +0000",
-     "summary": "As we get closer to autonomous, AI-driven medical care becoming a reality, regulators are racing to catch up. The FDA in August released a discussion paper with ideas about how ...",
-     "source": "Endpoints News",
-     "zh": "American Medical Association CEO talks regulating AI care"
     },
     {
      "title": "GLP-1 compounder issues recall for copycat Zepbound",
@@ -1754,6 +1754,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "比亚迪腾势 N8 四大内饰配色亮相：月满空山、朝雾米、破晓红、晚原棕",
+     "link": "https://www.ithome.com/1/017/073.htm",
+     "pubDate": "Fri, 23 Oct 2026 07:46:55 GMT",
+     "summary": "IT之家 10 月 23 日消息，比亚迪腾势 N8 四大内饰配色正式亮相，分别为月满空山、朝雾米、破晓红、晚原棕。 IT之家注意到，腾势 N8“科技新境宽五座 SUV”将于 10 月 26 日开启小订， 11 月正式上市 。比亚迪腾势汽车在 10 月 10 日公布了腾势 N8 三大全新车色 ——“极光绿”、“深空蓝”和“日光橙”。 腾势 N8 是一款大五座纯电 SUV，新车长 5150mm、宽 1999mm、高 1820mm，轴距 3075mm；搭载第二代刀片电池及闪充技术，纯电续航可达 1003km。 工信部申报信息显示 ，腾势 N8 有单电机版（320kw）、高性能单电机版（370kw）和",
+     "source": "IT之家",
+     "zh": "比亚迪腾势 N8 四大内饰配色亮相：月满空山、朝雾米、破晓红、晚原棕"
+    },
+    {
+     "title": "曜越推出钢影揽月海景房机箱：支持背插 ATX 主板，黑白双色均售 479 元",
+     "link": "https://www.ithome.com/1/017/072.htm",
+     "pubDate": "Fri, 23 Oct 2026 07:46:09 GMT",
+     "summary": "IT之家 10 月 23 日消息，曜越现已在京东上架一款钢影揽月海景房机箱，黑白双色定价均为 479 元。 京东 曜越钢影 揽月 海景房机箱 479 元 直达链接 该机箱尺寸为 535.6 x 239 x &nbsp;484mm。支持安装 ITX、M-ATX、ATX 主板，同时兼容背插式 ATX 主板。前置 I/O 面板包含 1 个 USB-C 接口、2 个 USB-A 3.0 接口以及 3.5mm 音频接口。 该机箱采用无立柱设计，使用 4mm 曲面钢化玻璃侧板。机箱底部配备实木质感底座与 ARGB 发光灯条。前方设有专属藏品展示台以放置个人物品，并附赠一块可直接使用螺丝固定于机箱内部风扇上",
+     "source": "IT之家",
+     "zh": "曜越推出钢影揽月海景房机箱：支持背插 ATX 主板，黑白双色均售 479 元"
+    },
+    {
+     "title": "中国网球的商业价值，是如何在两年内大幅提升的",
+     "link": "https://www.huxiu.com/article/4899895.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 15:42:11 +0800",
+     "summary": "本文来自微信公众号： 窄播 ，作者：窄播 本土超巨、顶级赛事与生活方式。 「国内一大半网球受众，是2024年之后出现的」，有资深网球爱好者曾对我们说道。 中国网球公开赛和上海大师赛是国内最有号召力的两项本土赛事。2023年，中网的入园人次为20余万，到2026年已翻倍，超过45万，今年决赛前，票房已达1.32亿元。 球馆面积更小的上海大师赛，观赛人数不至于翻倍，但也在明显增加，2023年总人次为19万，2026年为24.8万。今年赛事总营收约5亿元，其中票房占20%，达1亿元。 无论怎么对比，整个消费市场都比较少见这样的增长力度。这个10月，中网和上海大师赛联手跨越国庆假期，也贡献了从关注度到",
+     "source": "虎嗅",
+     "zh": "中国网球的商业价值，是如何在两年内大幅提升的"
+    },
+    {
+     "title": "AI短剧出海记：跑得更快了，钱却没多赚？",
+     "link": "https://www.huxiu.com/article/4899896.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 15:40:21 +0800",
+     "summary": "本文来自微信公众号： 科创板日报 ，作者：王耐 “今年的海外AI短剧，像是复刻了去年的国内短剧跑马圈地的市场。”一位AI短剧从业者感慨道。 “今年的海外AI短剧，像是复刻了去年的国内短剧跑马圈地的市场。”一位AI短剧从业者的感慨，几乎成了2026年行业的注脚。 吕茜尔的感受很具体。她的公司Magic World从2024年开始做海外短剧，第一站选了韩国。“2024年刚进去的时候，韩国市场短剧声量不大，做短剧是少数派。到了2025年，大量老牌传统影视公司入场，韩国市场已经有八十多款短剧APP了，今年应该会超过上百家，整体市场比较蓬勃。” 但蓬勃的另一面是拥挤。行业里各种转行跨界，做游戏的、做AP",
+     "source": "虎嗅",
+     "zh": "AI短剧出海记：跑得更快了，钱却没多赚？"
+    },
+    {
      "title": "量贩多卖5410万、梅干收入却在下降，溜溜梅为何还要投1.1亿港元建厂？",
      "link": "https://www.tmtpost.com/8178937.html",
      "pubDate": "Fri, 23 Oct 2026 15:40:00 +0800",
@@ -1834,22 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "中国车企在欧洲，为什么有人卖得动，有人卖不动"
     },
     {
-     "title": "《地铁 2033：重制版》次世代更新发布：新增支持 4K 分辨率、DLSS 5 等特性",
-     "link": "https://www.ithome.com/1/017/063.htm",
-     "pubDate": "Fri, 23 Oct 2026 07:24:33 GMT",
-     "summary": "IT之家 10 月 23 日消息，开发商 4A Games 宣布为旗下《地铁 2033：重制版》推出次世代更新，带来了 4K 分辨率支持、帧率解锁、DLSS 5、FSR 等功能，同时还为游戏修复了一系列 Bug。 4A Games 强调，开发团队并非简单地将通用功能套用到旧游戏中，而是对游戏场景进行了进行适配调整，从而兼顾游戏画面表现和性能水平。 需要注意的是，启用 DLSS 5 会明显增加硬件负载。在外媒 TweakTown 测试中，使用 GeForce RTX 5090 Founders Edition 启用 DLSS 5 后，游戏使用 DLSS“质量”档位的超分辨率功能时，帧率仍能保持在",
-     "source": "IT之家",
-     "zh": "《地铁 2033：重制版》次世代更新发布：新增支持 4K 分辨率、DLSS 5 等特性"
-    },
-    {
-     "title": "驰援西藏那曲地震灾区，阿里巴巴首批物资已发出",
-     "link": "https://www.ithome.com/1/017/059.htm",
-     "pubDate": "Fri, 23 Oct 2026 07:19:40 GMT",
-     "summary": "IT之家 10 月 23 日消息，10 月 22 日 22 时 33 分，西藏那曲市巴青县发生 7.0 级地震，造成重大人员伤亡。 阿里巴巴今日宣布紧急启动应急响应， 协同菜鸟发出首批 3700 箱食品与饮用水 。首批物资已于上午 11 时发出，预计今日 18 时送达巴青县。 考虑到震中处于高海拔高寒地区， 阿里巴巴第一时间筹集到 50 吨新鲜蔬菜和保暖物资 ，今天将同步送出。 阿里巴巴公益平台同时启动响应，支持中国乡村发展基金会、新疆红石慈善基金会等开展救灾项目筹款。 阿里巴巴公益联合中国乡村发展基金会、公益宝贝爱心商家支持的首批「 人道救援应急箱 」将于今日下午从拉萨发出。「人道救援应急箱",
-     "source": "IT之家",
-     "zh": "驰援西藏那曲地震灾区，阿里巴巴首批物资已发出"
-    },
-    {
      "title": "中国对欧洲企业的吸引力，正在从市场红利转向供应链红利",
      "link": "https://www.huxiu.com/article/4899890.html?f=rss",
      "pubDate": "Fri, 23 Oct 2026 15:15:20 +0800",
@@ -1872,22 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《Claude 偷砍额度被抓包！AI 会员正在集体变成「鬼秤」》 最近有不少用户吐槽，Claude的额度消耗速度突然变得极不正常。 就在大家怀疑自己是不是出现集体幻觉的时候，知名半导体与AI研究机构SemiAnalysis刚刚直接甩出了一份实锤。 他们发推拉响警报，证实用户根本没有感觉错，Anthropic确实正在后台对Claude的订阅额度悄悄搞A/B灰测。 SemiAnalysis在同一天拿两个完全相同的200美元Max 20x账号跑了Opus 5.5的Agent工作负载测试，结果抓出了非常清晰的差异。 测试组账号B的5小",
      "source": "虎嗅",
      "zh": "Claude 偷砍额度被抓包，AI 会员正在集体变成“鬼秤”"
-    },
-    {
-     "title": "银价疯涨，亏损500亿的光伏行业要拆“定时炸弹”",
-     "link": "https://www.huxiu.com/article/4899879.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 14:51:07 +0800",
-     "summary": "本文来自微信公众号： 正解局 ，作者：正解局 2024年以来，超过150家光伏企业破产清算，这不是洗牌，是清场。 但活下来的，也没好到哪去。 2025年，通威年度亏损95.53亿，隆基绿能亏损64.20亿，TCL中环亏92.64亿，12家主产业链企业有11家陷入亏损，全行业去年合计亏损上限突破500亿元。 这些不是无名小厂，是过去十年光伏狂飙里最风光的名字。隆基市值一度站上5000亿，通威巅峰超过3000亿。 现在，隆基跌去九成，通威跌去七成，天合、中环无一幸免。 产能过剩在杀利润。 就在这个节骨眼上，另一个成本项正在悄悄失控。 2026年初，伦敦现货白银一度冲破120美元/盎司，创下历史极值",
-     "source": "虎嗅",
-     "zh": "银价疯涨，亏损500亿的光伏行业要拆“定时炸弹”"
-    },
-    {
-     "title": "大厂芯片融资神话：今年理想、商汤等拆分的芯片公司狂揽112亿",
-     "link": "https://www.huxiu.com/article/4899881.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 14:45:35 +0800",
-     "summary": "本文来自微信公众号： IT桔子 ，作者：吴梅梅，原文标题：《大厂芯片融资神话：今年理想、商汤等拆分的芯片公司狂揽112亿！》 2026年10月16日，理想汽车以港交所公告与美国证券交易委员会6-K文件同步披露：旗下芯片子公司马赫心科技完成首轮融资，认购总额16.25亿元。其中，理想汽车自身出资10亿元，外部机构合计出资6.25亿元，投后估值166.3亿元，理想仍持股74.01%。 这使得马赫心科技跻身百亿估值芯片独角兽行列，而公司仅成立两个多月。 值得注意的是，不止理想，过去几年来，百度、阿里、商汤、蔚来、比亚迪等大厂的芯片部门，正成批地从集团内部走出来，成为独立融资、估值，甚至独立上市的公司",
-     "source": "虎嗅",
-     "zh": "大厂芯片融资神话：今年理想、商汤等拆分的芯片公司狂揽112亿"
     },
     {
      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
@@ -2250,68 +2250,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts",
+     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+     "pubDate": "Fri, 23 Oct 2026 07:47:27 GMT",
+     "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
+     "source": "CNBC",
+     "zh": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts"
+    },
+    {
+     "title": "财政部：将抓紧做好提前下达2027年部分新增地方政府债务有关工作",
+     "link": "http://finance.eastmoney.com/news/1350,202610233906237125.html",
+     "pubDate": "Fri, 23 Oct 2026 15:42:10 +0800",
+     "summary": "10月23日，财政部债务管理司副司长赵则永在财政部新闻发布会上表示，近年来根据全国人大常委会授权，经国务院同意，财政部每年四季度在当年新增地方政府债务限额的60%以内，提前下达下一年度新增地方政府债务额度。财政部将抓紧做好提前下达2027年部分新增地方政府债务有关工作。 （文章来源：证券时报）",
+     "source": "东方财富股票",
+     "zh": "财政部：将抓紧做好提前下达2027年部分新增地方政府债务有关工作"
+    },
+    {
+     "title": "中国化学：1—9月签订合同金额合计2853.66亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906237492.html",
+     "pubDate": "Fri, 23 Oct 2026 15:41:00 +0800",
+     "summary": "中国化学 (601117)10月23日公告，公司2026年1—9月签订合同金额合计2853.66亿元。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "中国化学：1—9月签订合同金额合计2853.66亿元"
+    },
+    {
+     "title": "金鹰重工10月23日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610233906235910.html",
+     "pubDate": "Fri, 23 Oct 2026 15:40:40 +0800",
+     "summary": "以下是 金鹰重工 在北京时间10月23日10:03分盘口异动快照： 10月23日， 金鹰重工 盘中跌幅达5%，截至10点03分，报9.12元，成交7767.45万元，换手率1.57%。 分笔 10:03:00 9.12 190↓ 10:02:57 9.14 17↑ 10:02:54 9.13 41↓ 10:02:51 9.14 100↑ 10:02:48 9.13 76↓ 10:02:45 9.13 216↓ 10:02:42 9.13 67↓ 10:02:39 9.13 233↓ 10:02:36 9.13 70↓ 10:02:33 9.13 106↓ 报价 卖五 9.18 63 卖四 9.",
+     "source": "东方财富股票",
+     "zh": "金鹰重工10月23日盘中跌幅达5%"
+    },
+    {
+     "title": "涛涛车业10月23日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610233906235837.html",
+     "pubDate": "Fri, 23 Oct 2026 15:40:36 +0800",
+     "summary": "以下是 涛涛车业 在北京时间10月23日10:03分盘口异动快照： 10月23日， 涛涛车业 盘中跌幅达5%，截至10点03分，报134.05元，成交7964.19万元，换手率1.66%。 分笔 10:03:00 134.05 10↓ 10:02:57 134.32 13↓ 10:02:54 134.33 18↓ 10:02:51 134.60 13↓ 10:02:48 134.70 26↑ 10:02:45 134.70 2↓ 10:02:42 134.76 4↑ 10:02:36 134.70 3↓ 10:02:33 134.75 5↓ 10:02:30 134.76 7↓ 报价 卖五 1",
+     "source": "东方财富股票",
+     "zh": "涛涛车业10月23日盘中跌幅达5%"
+    },
+    {
+     "title": "图解财报：北方稀土前三季归母净利润36.46亿元，同比增长136.55%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906235461.html",
+     "pubDate": "Fri, 23 Oct 2026 15:40:05 +0800",
+     "summary": "北方稀土 10月24日发布2026年 三季报显示，公司前三季 实现营业收入413.33亿元 ，同比增长36.45% ；归母净利润36.46亿元 ，同比增长136.55% ；扣非归母净利润36.56亿元 ，同比增长168.34% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：北方稀土前三季归母净利润36.46亿元，同比增长136.55%"
+    },
+    {
+     "title": "云意电气：第三季度归母净利润1.09亿元 同比下降0.93%",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906237030.html",
+     "pubDate": "Fri, 23 Oct 2026 15:39:07 +0800",
+     "summary": "云意电气 10月22日公告，2026年第三季度实现营业收入7.34亿元，同比增长29.19%；归母净利润1.09亿元，同比下降0.93%；基本每股收益0.13元。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "云意电气：第三季度归母净利润1.09亿元 同比下降0.93%"
+    },
+    {
      "title": "Germany's composite PMI hits two-month low as services growth eases",
      "link": "https://seekingalpha.com/news/4656440-germanys-composite-pmi-hits-two-month-low-as-services-growth-eases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 03:36:50 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Germany's composite PMI hits two-month low as services growth eases"
-    },
-    {
-     "title": "贝瑞基因10月23日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610233906231238.html",
-     "pubDate": "Fri, 23 Oct 2026 15:35:37 +0800",
-     "summary": "以下是 贝瑞基因 在北京时间10月23日09:35分盘口异动快照： 10月23日， 贝瑞基因 盘中跌幅达5%，截至9点35分，报9.46元，成交5175.99万元，换手率1.62%。 分笔 09:35:27 9.46 203↓ 09:35:24 9.47 28↓ 09:35:21 9.48 553↓ 09:35:18 9.48 35↓ 09:35:15 9.50 805↓ 09:35:12 9.50 175↓ 09:35:09 9.50 220↓ 09:35:06 9.50 60↓ 09:35:03 9.51 210↓ 09:35:00 9.52 301↓ 报价 卖五 9.51 714 卖四 ",
-     "source": "东方财富股票",
-     "zh": "贝瑞基因10月23日盘中跌幅达5%"
-    },
-    {
-     "title": "华达科技10月23日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610233906230858.html",
-     "pubDate": "Fri, 23 Oct 2026 15:35:23 +0800",
-     "summary": "以下是 华达科技 在北京时间10月23日09:35分盘口异动快照： 10月23日， 华达科技 盘中跌幅达5%，截至9点35分，报35.66元，成交3919.23万元，换手率0.23%。 分笔 09:35:27 35.66 1105↓ 09:35:24 35.87 355↑ 09:35:21 35.72 91↓ 09:35:18 35.80 91↓ 09:35:15 35.90 159↓ 09:35:12 35.95 8↓ 09:35:09 35.97 24↓ 09:35:06 35.98 86↑ 09:35:03 35.95 64↓ 09:35:00 36.05 21↓ 报价 卖五 35.71",
-     "source": "东方财富股票",
-     "zh": "华达科技10月23日盘中跌幅达5%"
-    },
-    {
-     "title": "尤洛卡10月23日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610233906230790.html",
-     "pubDate": "Fri, 23 Oct 2026 15:35:21 +0800",
-     "summary": "以下是 尤洛卡 在北京时间10月23日09:35分盘口异动快照： 10月23日， 尤洛卡 盘中跌幅达5%，截至9点35分，报5.66元，成交1185.05万元，换手率0.38%。 分笔 09:35:27 5.66 170↓ 09:35:24 5.67 269↓ 09:35:21 5.68 112↑ 09:35:18 5.68 698↓ 09:35:15 5.70 186↑ 09:35:12 5.70 21↑ 09:35:06 5.70 431↑ 09:35:03 5.69 37↓ 09:35:00 5.71 260↑ 09:34:54 5.70 100↓ 报价 卖五 5.7 588 卖四 5.",
-     "source": "东方财富股票",
-     "zh": "尤洛卡10月23日盘中跌幅达5%"
-    },
-    {
-     "title": "喜悦智行10月23日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610233906230683.html",
-     "pubDate": "Fri, 23 Oct 2026 15:35:20 +0800",
-     "summary": "以下是喜悦智行在北京时间10月23日09:35分盘口异动快照： 10月23日，喜悦智行盘中跌幅达5%，截至9点35分，报11.12元，成交834.25万元，换手率0.45%。 分笔 09:35:27 11.12 33↓ 09:35:21 11.14 86↓ 09:35:18 11.18 107↓ 09:35:15 11.22 13↓ 09:35:09 11.27 21↑ 09:35:06 11.24 37↑ 09:35:03 11.22 50↑ 09:35:00 11.22 14↑ 09:34:57 11.21 4↓ 09:34:51 11.22 23↓ 报价 卖五 11.22 15 卖四 1",
-     "source": "东方财富股票",
-     "zh": "喜悦智行10月23日盘中跌幅达5%"
-    },
-    {
-     "title": "豫光金铅：豫光集团质押5500万股用于生产经营",
-     "link": "http://stock.eastmoney.com/news/11215,202610233906233433.html",
-     "pubDate": "Fri, 23 Oct 2026 15:34:00 +0800",
-     "summary": "南财智讯10月23日电， 豫光金铅 公告，公司控股股东豫光集团将其持有的5500万股公司股份质押给 国泰海通 ，占其所持股份比例的17.04%，占公司总股本的4.55%，质押用途为生产经营。同时，豫光集团将原质押给 国泰海通 的5800万股股份办理了解除质押手续，占其所持股份比例的17.97%，占公司总股本的4.80%。本次解除质押及再质押后，豫光集团累计质押公司股票数量为5500万股，占其持股总数的17.04%，占公司总股本的4.55%。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "豫光金铅：豫光集团质押5500万股用于生产经营"
-    },
-    {
-     "title": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖 美股空头挤压风险上升",
-     "link": "http://stock.eastmoney.com/news/1436,202610233906230913.html",
-     "pubDate": "Fri, 23 Oct 2026 15:33:02 +0800",
-     "summary": "亚洲股市技术面已接近极度超卖区间，而美股空头仓位的快速累积正令市场从\"下跌缺口\"风险转向\"空头挤压\"风险。瑞银建议投资者将策略重心从防御转向进攻，逢低买入，并重点关注 半导体 板块相对软件板块的结构性机会。 瑞银策略师Zain Nizami在最新报告中指出，过去两三天防御性仓位和激进做空策略均已获利，但多项价格行动和仓位指标显示相关交易已明显拉伸。 恒生科技指数目前较200日均线低23%，RSI跌至27；沪深300的RSI同样跌至23.9，触及历史低位，同时测试周线200日均线支撑。 Nizami表示， 考虑到当前情绪、仓位状况以及已被市场消化的宏观逆风，\"继续维持彻底看跌和防御立场已越来越不",
-     "source": "东方财富股票",
-     "zh": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖 美股空头挤压风险上升"
-    },
-    {
-     "title": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts",
-     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-     "pubDate": "Fri, 23 Oct 2026 07:29:28 GMT",
-     "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-     "source": "CNBC",
-     "zh": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts"
     },
     {
      "title": "France business activity deteriorates in October, missing consensus",
@@ -2394,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "E.ON unit PreussenElektra taps Nvidia to assess nuclear sites for AI data centers"
     },
     {
-     "title": "经济观察研究院院长余政：中国品牌走向世界，靠的是什么？",
-     "link": "http://www.eeo.com.cn/2026/1023/1073548.shtml",
-     "pubDate": "Fri, 23 Oct 2026 14:39:04 +0800",
-     "summary": "余政强调，品牌是国家的脸面，文化是品牌的灵魂；品牌强则产业兴，文化厚则底气足。在这个充满不确定性的时代，科技力让我们拥有力量，经济力让我们拥有舞台，文化力让我们拥有方向。中国文化与世界品牌的相遇，不是简单的物理叠加，而是一场深刻的化学反应。",
-     "source": "经济观察网",
-     "zh": "经济观察研究院院长余政：中国品牌走向世界，靠的是什么？"
-    },
-    {
      "title": "全球科技股跌势暂歇，日韩股市深V反弹，韩股收涨0.3%，SK海力士涨4%，黄金盘中跌破4000",
      "link": "https://wallstreetcn.com/articles/3784279",
      "pubDate": "Fri, 23 Oct 2026 14:37:48 +0800",
@@ -2426,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "Zai Lab announces $250M private placement"
     },
     {
-     "title": "加快建设国际消费中心城市，国际名品高管齐聚武汉",
-     "link": "http://www.eeo.com.cn/2026/1023/1073525.shtml",
-     "pubDate": "Fri, 23 Oct 2026 14:16:29 +0800",
-     "summary": "从全球时尚资源集聚到国际美食消费体验，勾勒出武汉加快建设国际消费中心城市的生动图景。",
-     "source": "经济观察网",
-     "zh": "加快建设国际消费中心城市，国际名品高管齐聚武汉"
-    },
-    {
      "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
      "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
      "pubDate": "Fri, 23 Oct 2026 06:15:54 GMT",
@@ -2448,14 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
      "source": "MarketWatch",
      "zh": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
-    },
-    {
-     "title": "北京市“十五五”时期金融业发展规划编制完成",
-     "link": "http://www.eeo.com.cn/2026/1023/1073488.shtml",
-     "pubDate": "Fri, 23 Oct 2026 13:47:49 +0800",
-     "summary": "《规划》明确发展目标：到2030年，北京国家金融管理中心基础功能全面加强，逐步建立健全与首都地位、与金融强国建设需要相匹配的现代金融体系。到2035年，北京国家金融管理中心综合实力显著增强，成为打造全球金融治理网络的重要枢纽，在构建具有高度适应性、竞争力、普惠性的中国特色现代金融体系中走在前、作表率。",
-     "source": "经济观察网",
-     "zh": "北京市“十五五”时期金融业发展规划编制完成"
     },
     {
      "title": "Winter arrives in markets",
@@ -2474,20 +2450,44 @@ window.INDUSTRY_DATA = {
      "zh": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens"
     },
     {
-     "title": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著",
-     "link": "http://www.eeo.com.cn/2026/1023/1073384.shtml",
-     "pubDate": "Fri, 23 Oct 2026 12:35:18 +0800",
-     "summary": "多位首席经济学家表示，现金流是判断AI泡沫争议的核心指标，当前AI产业链上中下游企业现金流分化显著。",
-     "source": "经济观察网",
-     "zh": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著"
+     "title": "Beware Bessent’s tilt towards short-term debt",
+     "link": "https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 04:00:28 GMT",
+     "summary": "If inflation and debt rise and AI optimism falls, then the danger of reducing Treasury maturities grows",
+     "source": "Financial Times",
+     "zh": "Beware Bessent’s tilt towards short-term debt"
     },
     {
-     "title": "第二十四届杰出品牌营销案例正式揭晓！",
-     "link": "http://www.eeo.com.cn/2026/1023/1073363.shtml",
-     "pubDate": "Fri, 23 Oct 2026 12:21:12 +0800",
-     "summary": "第二十四届杰出品牌营销案例正式揭晓！",
-     "source": "经济观察网",
-     "zh": "第二十四届杰出品牌营销案例正式揭晓！"
+     "title": "Calpers retreats from Big Tech as AI rally falters",
+     "link": "https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+     "summary": "California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending",
+     "source": "Financial Times",
+     "zh": "Calpers retreats from Big Tech as AI rally falters"
+    },
+    {
+     "title": "The limits of Trump’s trade war",
+     "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+     "summary": "Economies like Mexico are being forced to choose sides on trade",
+     "source": "Financial Times",
+     "zh": "The limits of Trump’s trade war"
+    },
+    {
+     "title": "AI oversight needs a different model to banking",
+     "link": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
+     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+     "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
+     "source": "Financial Times",
+     "zh": "AI oversight needs a different model to banking"
+    },
+    {
+     "title": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets",
+     "link": "https://www.finextra.com/newsarticle/48635/cognitive-credit-raises-40m-to-scale-specialist-data-and-ai-for-credit-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 23 Oct 2026 00:01:00 GMT",
+     "summary": "Corporate credit data, analytics, and AI technology provider Cognitive Credit has closed a $40 million strategic growth investment led by Summit Partners with participation from ETFS Capital.",
+     "source": "Finextra",
+     "zh": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets"
     }
    ]
   },

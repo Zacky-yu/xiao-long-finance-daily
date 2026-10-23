@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/23 14:07:46",
+ "generated_at": "2026/10/23 14:12:03",
  "recent_days": 7,
  "industries": [
   {
@@ -1881,14 +1881,6 @@
      "zh": "观点｜别不承认，你肯定也想做个“纯过日子人”"
     },
     {
-     "title": "Move Slow and Fix Things",
-     "link": "https://endler.dev/2024/move-slow-and-fix-things/",
-     "pubDate": "Fri, 23 Oct 2026 05:12:39 +0000",
-     "summary": "Article URL: https://endler.dev/2024/move-slow-and-fix-things/ Comments URL: https://news.ycombinator.com/item?id=50204754 Points: 79 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Move Slow and Fix Things"
-    },
-    {
      "title": "Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)",
      "link": "https://www.techmeme.com/261023/p3#a261023p3",
      "pubDate": "Fri, 23 Oct 2026 01:01:04 -0400",
@@ -1991,6 +1983,14 @@
      "summary": "毅力号火星车创下新的世界纪录——它在地外天体表面的行驶里程，超过了此前所有探测器。10月11日，它的里程表读数达到28.10英里（45.22公里），超越了此前由机遇号保持的28.06英里（45.16公里）纪录。机遇号于2004至2018年间在火星开展探测。机遇号耗费近15年才跑完该里程，而毅力号仅用时5年半。这一里程碑事件发生在它的第2006个火星日。毅力号能长途行进，一大核心原因是搭载了先进的自主行驶系统。这套系统名为 AutoNav。依靠它火星车大多时候不需要等待地球发来详细行驶指令，就能自主在火星地表认路。行进过程中，毅力号持续拍摄周边影像，绘制包含障碍物信息的三维地图，在地面操控人员选",
      "source": "Solidot",
      "zh": "毅力号行使距离超机遇号刷新历史记录"
+    },
+    {
+     "title": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261022/p61#a261022p61",
+     "pubDate": "Thu, 22 Oct 2026 22:50:50 -0400",
+     "summary": "Wall Street Journal : OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats &nbsp; &mdash;&nbsp; The company fired three safety researchers for mishandling sensitive information.&nbsp; They had ",
+     "source": "Techmeme",
+     "zh": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats (Wall Street Journal)"
     }
    ]
   },
@@ -2369,36 +2369,12 @@
      "zh": "Boyd targets $150M quarterly share repurchases while Norfolk resort stays on track for November 2027 opening"
     },
     {
-     "title": "创业板指午后翻红涨逾2% 此前一度跌逾3% “易中天”集体拉升",
-     "link": "http://finance.eastmoney.com/news/1345,202610233905888948.html",
-     "pubDate": "Fri, 23 Oct 2026 13:23:47 +0800",
-     "summary": "创业板指午后翻红，此前一度跌逾3%，“易中天”集体拉升。盘面上，保险、 白酒 、 券商概念 、 医疗美容 、 一般零售 涨幅居前。截至发稿，沪指下跌0.17%，创业板指上涨2.15%。 10月23日午间， 中际旭创 、 新易盛 、 天孚通信 齐发公告，披露近期生产经营情况。 中际旭创 称，公司目前生产经营一切正常，供应链稳定，产能利用率充足，客户订单需求强劲。下游需求保持高景气，公司在手订单饱满。产品价格体系健康，行业竞争有序。光互连技术持续迭代，行业技术壁垒有望进一步提升。 新易盛 称，公司生产经营活动有序开展，在手订单充足，800G和1.6T是今年交付的主力产品，订单交付及产能扩充正按业务",
-     "source": "东方财富资讯",
-     "zh": "创业板指午后翻红涨逾2% 此前一度跌逾3% “易中天”集体拉升"
-    },
-    {
      "title": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%",
      "link": "https://wallstreetcn.com/articles/3784272",
      "pubDate": "Fri, 23 Oct 2026 13:11:52 +0800",
      "summary": "算力硬件、芯片半导体等早盘下挫，覆铜板、光模块、光通信、电路板等概念股集体下跌，隔夜 Meta财报引爆AI资本开支恐慌 ，美股科技板块重挫，光通信、存储芯片等纷纷大跌。宁德时代A股和H股均反弹，其中A股涨超3%，H股涨4%，此前，北汽集团与宁德时代在北京签署百万换电战略合作协议。 10月23日，A股午后拉升，沪指收窄跌幅至0.5%，深成指转涨，创业板指涨幅扩大至2%，深成指涨逾1%，早盘一度跌超3%、盘中失守2500点整数关口。贵金属、算力硬件、半导体芯片等方向跌幅居前。机器人再度活跃，保险、白酒等板块走强。微盘股跌幅收窄至3%以内，早盘一度跌近5%。 港股高开高走，恒科指盘初一度涨近2%，盘",
      "source": "华尔街见闻",
      "zh": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%"
-    },
-    {
-     "title": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
-     "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-     "pubDate": "Fri, 23 Oct 2026 05:01:31 GMT",
-     "summary": "SK Hynix shares rebound after an inital drop in early trading, following halted review of Solidigm IPO plans in the U.S.",
-     "source": "CNBC",
-     "zh": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans"
-    },
-    {
-     "title": "中际旭创、新易盛、天孚通信齐发公告：在手订单充足",
-     "link": "http://finance.eastmoney.com/news/1349,202610233905849268.html",
-     "pubDate": "Fri, 23 Oct 2026 12:56:36 +0800",
-     "summary": "10月23日午间， 中际旭创 、 新易盛 、 天孚通信 齐发公告，披露近期生产经营情况。 中际旭创 称，公司目前生产经营一切正常，供应链稳定，产能利用率充足，客户订单需求强劲。下游需求保持高景气，公司在手订单饱满。产品价格体系健康，行业竞争有序。光互连技术持续迭代，行业技术壁垒有望进一步提升。 新易盛 称，公司生产经营活动有序开展，在手订单充足，800G和1.6T是今年交付的主力产品，订单交付及产能扩充正按业务需求推进，其中1.6T光模块已进入持续放量阶段，预计出货节奏将持续加快。结合客户需求指引及订单情况，公司产品交付规模有望稳步提升。随着市场需求持续释放，公司对今明两年的业务发展持积极预期",
-     "source": "东方财富资讯",
-     "zh": "中际旭创、新易盛、天孚通信齐发公告：在手订单充足"
     },
     {
      "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
@@ -2409,14 +2385,6 @@
      "zh": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens"
     },
     {
-     "title": "突然超11亿元抢筹！“旗手”封死涨停 发生了什么？",
-     "link": "http://stock.eastmoney.com/news/11622,202610233905993316.html",
-     "pubDate": "Fri, 23 Oct 2026 12:51:00 +0800",
-     "summary": "市场异动频频！ 10月23日早盘，券商股突然异动， 华林证券 直线封板，最大封单超过11亿元。与此同时， 长鑫科技 翻红， 宁德时代 A股盘中涨超3%，市值重回1万亿元上方。 值得注意的是，多只宽基ETF成交再度放量。截至午盘，沪深300ETF易方达（510310）目前成交已超昨日全天，沪深300ETF华泰柏瑞（510300）、沪深300ETF华夏（510330）、上证50ETF华夏（510050）等成交均明显放量。 近期，A股市场持续走弱。分析人士认为，其主因可能来自三个方面：一是AI交易显著退潮；二是通胀带来的加息压力在全球蔓延，全球流动性收缩预期于近期显著增强；三是地缘失控风险依然存在。",
-     "source": "东方财富资讯",
-     "zh": "突然超11亿元抢筹！“旗手”封死涨停 发生了什么？"
-    },
-    {
      "title": "Global tech sell-off sparks flight to safety",
      "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
      "pubDate": "Fri, 23 Oct 2026 04:42:02 GMT",
@@ -2425,36 +2393,12 @@
      "zh": "Global tech sell-off sparks flight to safety"
     },
     {
-     "title": "哪些变量能改变当下市场？券商首席最新研判",
-     "link": "http://finance.eastmoney.com/news/1344,202610233905848647.html",
-     "pubDate": "Fri, 23 Oct 2026 12:39:28 +0800",
-     "summary": "近期A股市场的持续震荡调整牵动着投资者的神经。如何看待后市？基本面有何变化？宏观经济如何影响资本市场？其中有哪些关键的信息值得关注？财联社最新采访并梳理了9家券商首席经济学家、首席分析师团队的观点。 从得到的反馈来看，可以从四条线索看待后市作为参考： 一是外部层面，海外动荡的溢出影响需要理性看待，中国资产的配置价值反而更加凸显，资本市场走势与之存在一定错位； 二是政策层面，科创融合与资本市场改革持续发力； 三是基本面层面，出口高景气延续、微观盈利持续改善，叠加财政增量资金落地，经济内生修复的力量正在积蓄； 四是估值层面，A股在持续调整后进入合理区间，盈利增长构成估值修复的内在动力。 扰动也是存",
-     "source": "东方财富资讯",
-     "zh": "哪些变量能改变当下市场？券商首席最新研判"
-    },
-    {
-     "title": "中际旭创公告披露近期生产经营情况：在手订单饱满 产品价格体系健康",
-     "link": "http://finance.eastmoney.com/news/1345,202610233905848274.html",
-     "pubDate": "Fri, 23 Oct 2026 12:35:35 +0800",
-     "summary": "中际旭创 今日午间发布关于公司近期生产经营情况的公告，公司目前生产经营一切正常，供应链稳定，产能利用率充足，客户订单需求强劲。2017 年-2025 年，公司营业收入从23.57亿元增长至382.40亿元，年均复合增长率为41.67%；归属于上市公司股东的净利润从1.62亿元增长至107.97亿元，年均复合增长率69.03%。2026年上半年营业收入417.78亿元，同比增长182.49%；归属于上市公司股东的净利润136.51亿元，同比增长241.70%。在未来的经营发展中，公司将利用现有优势资源持续拓展光互连解决方案，紧抓行业快速发展的契机，持续强化技术创新、快速量产、规模优势、质量保障等",
-     "source": "东方财富资讯",
-     "zh": "中际旭创公告披露近期生产经营情况：在手订单饱满 产品价格体系健康"
-    },
-    {
      "title": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著",
      "link": "http://www.eeo.com.cn/2026/1023/1073384.shtml",
      "pubDate": "Fri, 23 Oct 2026 12:35:18 +0800",
      "summary": "多位首席经济学家表示，现金流是判断AI泡沫争议的核心指标，当前AI产业链上中下游企业现金流分化显著。",
      "source": "经济观察网",
      "zh": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著"
-    },
-    {
-     "title": "消费股抗跌 高股息概念股出炉（附名单）",
-     "link": "http://finance.eastmoney.com/news/1344,202610233905847414.html",
-     "pubDate": "Fri, 23 Oct 2026 12:32:09 +0800",
-     "summary": "消费板块整体表现抗跌，高股息标的获机构看好。 粤芯半导-U 一度“20cm”涨停 10月23日早盘，A股市场震荡走低，沪指午间收盘跌1.2%，深证成指跌1.6%，创业板指跌2.14%。算力硬件、CPO、 贵金属 、 医药生物 等方向跌幅居前。 部分 半导体 个股走强， 粤芯半导-U （301660）早盘从跌超3%，一度直线拉升至“20cm”涨停，午间收盘前打开涨停，上午成交额超33亿元，换手率超44%。 大港股份 、 好上好 涨停， 大普微-UW 涨超5%， 华天科技 涨超4%， 长鑫科技 保持红盘。 粤芯半导-U 是广东省自主培育、首家实现量产的12英寸晶圆制造企业，有着“广州第一芯”之称。",
-     "source": "东方财富资讯",
-     "zh": "消费股抗跌 高股息概念股出炉（附名单）"
     },
     {
      "title": "高端美妆回暖，欧莱雅三季度销售超预期",
@@ -2487,6 +2431,62 @@
      "summary": "日本9月通胀数据全面超越日本央行政策目标，深层价格压力加速扩散，市场对年内加息的预期进一步升温。 10月23日， 日本总务省公布的数据显示， 日本9月核心CPI同比上涨2.1%，九个月来首次突破日本央行2%的目标 ，数据符合经济学家预期中值，较8月的1.7%明显加速。 更受日本央行关注的剔除生鲜食品和能源的深层通胀指标同比上涨2.4%，大幅高于8月的1.9%，显示需求驱动型价格压力正在持续积聚。 据彭博调查， 超过80%的经济学家预计日本央行将在12月加息，无一人预计下周会议将采取行动 。据路透援引知情人士称，日本央行下周预计维持政策不变，但可能上调通胀预测，并暗示准备继续推高仍处低位的借贷成",
      "source": "华尔街见闻",
      "zh": "日本核心CPI年内首破2%，超过80%经济学家预计12月加息"
+    },
+    {
+     "title": "卢比反弹遭遇“避险+油价”双杀，印度央行的防线还能撑多久？",
+     "link": "https://wallstreetcn.com/articles/3784284",
+     "pubDate": "Fri, 23 Oct 2026 12:09:13 +0800",
+     "summary": "印度卢比刚刚创下六周新高，转眼间就面临一场压力测试。全球资金涌向美债和日元等避险资产，叠加布伦特原油逼近每桶115美元，正在从两个方向同时挤压这个高度依赖能源进口的经济体。 周五开盘，交易员预计美元兑印度卢比将在94.84-94.88区间波动，此前一交易日收于94.8175。就在前一个交易日，卢比还一度升至94.30附近的逾六周高点，随后迅速回吐涨幅。 银行人士表示，此番逆转的速度之快及其与大盘走势的背离令市场感到意外，进一步加大了卢比前景的不确定性。在避险资金加速流动与油价持续走高的双重夹击下，卢比所承受的压力正在累积。 避险交易回归，美债收益率与股市同步转向 触发这轮避险情绪的直接导火索，",
+     "source": "华尔街见闻",
+     "zh": "卢比反弹遭遇“避险+油价”双杀，印度央行的防线还能撑多久？"
+    },
+    {
+     "title": "Beware Bessent’s tilt towards short-term debt",
+     "link": "https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 04:00:28 GMT",
+     "summary": "If inflation and debt rise and AI optimism falls, then the danger of reducing Treasury maturities grows",
+     "source": "Financial Times",
+     "zh": "Beware Bessent’s tilt towards short-term debt"
+    },
+    {
+     "title": "Calpers retreats from Big Tech as AI rally falters",
+     "link": "https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+     "summary": "California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending",
+     "source": "Financial Times",
+     "zh": "Calpers retreats from Big Tech as AI rally falters"
+    },
+    {
+     "title": "The limits of Trump’s trade power",
+     "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+     "summary": "Economies like Mexico are being forced to choose sides on trade",
+     "source": "Financial Times",
+     "zh": "The limits of Trump’s trade power"
+    },
+    {
+     "title": "AI oversight needs a different model to banking",
+     "link": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
+     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+     "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
+     "source": "Financial Times",
+     "zh": "AI oversight needs a different model to banking"
+    },
+    {
+     "title": "马斯克为何认为算力会长期短缺？",
+     "link": "http://www.eeo.com.cn/2026/1023/1073239.shtml",
+     "pubDate": "Fri, 23 Oct 2026 10:49:43 +0800",
+     "summary": "在马斯克看来，算力需求会长期大于供给，而眼下制约供给的，更多是电力、冷却和基础设施，芯片还在其次。",
+     "source": "经济观察网",
+     "zh": "马斯克为何认为算力会长期短缺？"
+    },
+    {
+     "title": "AI投资回报受质疑，黄仁勋详解Token需求场景",
+     "link": "http://www.eeo.com.cn/2026/1023/1073234.shtml",
+     "pubDate": "Fri, 23 Oct 2026 10:46:56 +0800",
+     "summary": "按照黄仁勋讲的制造业逻辑，AI工厂的投资能否收回，一要看工厂能否建得快、用电省，二要看建成以后，生产出来的Token有没有足够的买家。",
+     "source": "经济观察网",
+     "zh": "AI投资回报受质疑，黄仁勋详解Token需求场景"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/23 15:32:29",
+ "generated_at": "2026/10/23 15:45:54",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Chip Industry Week In Review",
+     "link": "https://semiengineering.com/chip-industry-week-in-review-161/",
+     "pubDate": "Fri, 23 Oct 2026 07:01:23 +0000",
+     "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
+     "source": "Semiconductor Engineering",
+     "zh": "芯片行业周回顾"
+    },
+    {
      "title": "Samsung reportedly orders final tools for first Taylor fab as Texas site nears 2nm output cap",
      "link": "https://www.digitimes.com/news/a20261023VL219/samsung-texas-2nm-fab.html",
      "pubDate": "Fri, 23 Oct 2026 06:55:14 GMT",
@@ -455,14 +463,6 @@
      "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
-    },
-    {
-     "title": "What Breaks When Packaging Moves From Wafer To Panel?",
-     "link": "https://semiengineering.com/what-breaks-when-packaging-moves-from-wafer-to-panel/",
-     "pubDate": "Thu, 22 Oct 2026 07:01:11 +0000",
-     "summary": "Engineers are discovering many things they thought were process assumptions were actually wafer assumptions. The post What Breaks When Packaging Moves From Wafer To Panel? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Breaks When Packaging Moves From Wafer To Panel?"
     },
     {
      "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "China solar module prices steady as proposed price floors meet skepticism",
+     "link": "https://www.pv-magazine.com/2026/10/23/china-solar-module-prices-steady-as-proposed-price-floors-meet-skepticism/",
+     "pubDate": "Fri, 23 Oct 2026 07:43:10 +0000",
+     "summary": "In a new weekly update for pv magazine , OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry. The post China solar module prices steady as proposed price floors meet skepticism appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "China solar module prices steady as proposed price floors meet skepticism"
+    },
+    {
      "title": "Bangladesh issues special ordinance to accelerate distributed solar deployment",
      "link": "https://www.pv-magazine.com/2026/10/23/bangladesh-issues-special-ordinance-to-accelerate-distributed-solar-deployment/",
      "pubDate": "Fri, 23 Oct 2026 07:23:24 +0000",
@@ -1039,14 +1047,6 @@
      "summary": "PV Hardware USA (PVH USA) is expanding its original manufacturing facility in Houston, Texas, adding 34,200 square feet of production space to scale its pre-assembly manufacturing strategy and address labor and supply chain constraints on utility-scale solar project sites. The post PVH expands Houst",
      "source": "pv magazine",
      "zh": "PVH expands Houston footprint to scale pre-assembled solar trackers"
-    },
-    {
-     "title": "TCL Sunpower launches hybrid energy storage cabinet for C&I applications",
-     "link": "https://www.pv-magazine.com/2026/10/22/tcl-sunpower-launches-hybrid-energy-storage-cabinet-for-ci-applications/",
-     "pubDate": "Thu, 22 Oct 2026 13:28:39 +0000",
-     "summary": "The Chinese manufacturer has unveiled a 100 kWh scalable energy storage cabinet for the European market. The company plans to bring a full portfolio of commercial and industrial (C&I) energy storage to the continent soon. The post TCL Sunpower launches hybrid energy storage cabinet for C&I applicati",
-     "source": "pv magazine",
-     "zh": "TCL Sunpower launches hybrid energy storage cabinet for C&I applications"
     },
     {
      "title": "European Union battery supply chain policies show mixed results so far",
@@ -1753,6 +1753,86 @@
    "total": 18,
    "items": [
     {
+     "title": "量贩多卖5410万、梅干收入却在下降，溜溜梅为何还要投1.1亿港元建厂？",
+     "link": "https://www.tmtpost.com/8178937.html",
+     "pubDate": "Fri, 23 Oct 2026 15:40:00 +0800",
+     "summary": "梅干现有产能尚有余量，福建新厂是否值得建，取决于它能否解决生产瓶颈并收回投资。",
+     "source": "钛媒体",
+     "zh": "量贩多卖5410万、梅干收入却在下降，溜溜梅为何还要投1.1亿港元建厂？"
+    },
+    {
+     "title": "联想第二代 Yoga PC 无线耳机曝光，充电盒现“Sound by Bose”标识",
+     "link": "https://www.ithome.com/1/017/068.htm",
+     "pubDate": "Fri, 23 Oct 2026 07:37:01 GMT",
+     "summary": "IT之家 10 月 23 日消息，科技媒体 MIXED 昨日（10 月 22 日）发布博文， 分享了一组渲染图，展示了联想 Yoga PC Edition Gen 2 真无线耳机。 颜色方面，本次曝光的渲染图共有浅色“海贝色”和深色“雷霆灰”两种配色，其中深色充电盒背面在联想 Logo 下方印有“Sound by Bose”字样（浅色版预估也有，但没有相关渲染图出现），正面则带有“Designed For Lenovo YOGA PC”圆形徽标。 从曝光图看，耳机采用入耳式设计，配备细长耳柄、圆形耳罩和深色网状格栅。充电盒为圆角矩形，采用铰链式开盖结构，底部设有 USB-C 充电接口和一个未标",
+     "source": "IT之家",
+     "zh": "联想第二代 Yoga PC 无线耳机曝光，充电盒现“Sound by Bose”标识"
+    },
+    {
+     "title": "一撤一补，字节腾讯反向操作背后，短剧赛道正在分叉",
+     "link": "https://www.tmtpost.com/8179037.html",
+     "pubDate": "Fri, 23 Oct 2026 15:36:06 +0800",
+     "summary": "微信绿泡泡短剧抛出限时100%收入激励，字节红果却宣布分阶段下线金币任务体系。一进一退，舆论读作\"腾讯进攻、字节退守\"，但补贴只是表象。两家真正押注的，是完全不同的用户底盘、成本结构和变现路线——这是短剧行业从流量红利期切入效率红利期的标志性分叉。",
+     "source": "钛媒体",
+     "zh": "一撤一补，字节腾讯反向操作背后，短剧赛道正在分叉"
+    },
+    {
+     "title": "从数据缺失到风险量化：机器人保险定价难在哪？",
+     "link": "https://www.tmtpost.com/8178174.html",
+     "pubDate": "Fri, 23 Oct 2026 15:35:34 +0800",
+     "summary": "机器人是第一个出厂就自带行车记录仪的被保险标的，而保险公司是唯一不能撒谎的第三方。",
+     "source": "钛媒体",
+     "zh": "从数据缺失到风险量化：机器人保险定价难在哪？"
+    },
+    {
+     "title": "长鑫科技、新易盛等出手，10月A股掀起回购潮",
+     "link": "https://www.huxiu.com/article/4899893.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 15:33:02 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：陈慧东 孙艺真 近日，包括长鑫科技（688825.SH）、澜起科技（688008.SH）、生益科技（600183.SH）等科技巨头在内的上市公司公告了回购计划。 从10月8日科创板首批10家，到10月15日深市接棒，10月16日长鑫科技单独加码，10月18日沪市5家科技龙头同日公告，再到10月19日晚12家——回购名单上的行业从AI硬件产业链，扩散到包装、化工、低压电器、液压件、锂电设备等多个行业。 根据界面新闻不完全统计，10月，长鑫科技、新易盛（300502.SZ）、海光信息（688041.SH）等就宣布拟回购金额居前，其中长鑫科技回购资金总额不低于",
+     "source": "虎嗅",
+     "zh": "长鑫科技、新易盛等出手，10月A股掀起回购潮"
+    },
+    {
+     "title": "沃尔沃、奔驰、大众等纷纷拥抱英伟达，推动欧洲自动驾驶业务发展",
+     "link": "https://www.ithome.com/1/017/067.htm",
+     "pubDate": "Fri, 23 Oct 2026 07:32:51 GMT",
+     "summary": "IT之家 10 月 23 日消息，据外媒 motor1 今天（23 日）下午报道，英伟达在柏林 GTC 大会上公布了自动驾驶业务在欧洲的最新布局。 Bolt、Lucid、奔驰、大众汽车商用车、沃尔沃汽车和 Einride 均计划采用英伟达 Hyperion 计算平台，开发无人驾驶出租车、厢式货车和货运卡车。 目前，上述项目均未在公共道路上实现全面商业化运营，仍处于研发、测试或准备部署阶段，其中多数尚待监管部门批准。 据IT之家了解，Hyperion 为车企提供 统一的计算机和传感器架构 ，既能搭配英伟达 Alpamayo Stack 自动驾驶软件， 也支持车企自主开发的软件 。通过共用硬件、灵",
+     "source": "IT之家",
+     "zh": "沃尔沃、奔驰、大众等纷纷拥抱英伟达，推动欧洲自动驾驶业务发展"
+    },
+    {
+     "title": "AI艺人扎堆出道，赚钱的却没几个？",
+     "link": "https://www.tmtpost.com/8178914.html",
+     "pubDate": "Fri, 23 Oct 2026 15:32:06 +0800",
+     "summary": "商业化卡在了哪一步？",
+     "source": "钛媒体",
+     "zh": "AI艺人扎堆出道，赚钱的却没几个？"
+    },
+    {
+     "title": "马斯克把 SpaceX 做成了收租生意",
+     "link": "https://www.tmtpost.com/8178913.html",
+     "pubDate": "Fri, 23 Oct 2026 15:32:01 +0800",
+     "summary": "当同行还在按“年”规划 AI 数据中心时，马斯克已经在按“天”交付了，还把竞争对手变成了客户。",
+     "source": "钛媒体",
+     "zh": "马斯克把 SpaceX 做成了收租生意"
+    },
+    {
+     "title": "华为 nova Flip / 畅享 70X / MatePad Pro 等机型开启鸿蒙 HarmonyOS 7 花粉 Beta 测试",
+     "link": "https://www.ithome.com/1/017/066.htm",
+     "pubDate": "Fri, 23 Oct 2026 07:30:27 GMT",
+     "summary": "IT之家 10 月 23 日消息，今日，华为 nova13、nova Flip、畅享 70X、MatePad Pro 等机型开启鸿蒙 7 花粉 Beta 测试。 IT之家整理如下： HUAWEI nova 13 HUAWEI nova 13 Pro HUAWEI nova 12 HUAWEI nova 12 Pro HUAWEI nova 12 Ultra HUAWEI nova 12 Ultra 星耀版 HUAWEI nova Flip S HUAWEI nova Flip 华为畅享 70X 华为畅享 70X 尊享版 HUAWEI MatePad Pro 13.2 英寸 2023 HUAWE",
+     "source": "IT之家",
+     "zh": "华为 nova Flip / 畅享 70X / MatePad Pro 等机型开启鸿蒙 HarmonyOS 7 花粉 Beta 测试"
+    },
+    {
+     "title": "中国车企在欧洲，为什么有人卖得动，有人卖不动",
+     "link": "https://www.tmtpost.com/8178939.html",
+     "pubDate": "Fri, 23 Oct 2026 15:27:54 +0800",
+     "summary": "中国车企加速进入欧洲，为何有人销量领先，有人难以突围？产品、渠道与利润，正在拉开差距。",
+     "source": "钛媒体",
+     "zh": "中国车企在欧洲，为什么有人卖得动，有人卖不动"
+    },
+    {
      "title": "《地铁 2033：重制版》次世代更新发布：新增支持 4K 分辨率、DLSS 5 等特性",
      "link": "https://www.ithome.com/1/017/063.htm",
      "pubDate": "Fri, 23 Oct 2026 07:24:33 GMT",
@@ -1777,44 +1857,12 @@
      "zh": "中国对欧洲企业的吸引力，正在从市场红利转向供应链红利"
     },
     {
-     "title": "《质量效应：宇宙》游戏预告片泄露：系列首位男性奎利人角色出现",
-     "link": "https://www.ithome.com/1/017/047.htm",
-     "pubDate": "Fri, 23 Oct 2026 07:15:06 GMT",
-     "summary": "IT之家 10 月 23 日消息，媒体 Polygon 昨日（10 月 22 日）发布博文，报道称一段预告视频在网络上流出， 展示了 BioWare 已被取消的《质量效应：宇宙》（Mass Effect Universe）游戏。 IT之家附上相关视频如下： 在这段预告片中，最值得关注的变化是出现了男性奎利人（Quarian）角色。《质量效应》系列此前可招募的奎利人角色仅有女性角色塔莉 · 佐拉（Tali'Zorah），而玩家多年来一直希望见到男性奎利人队友。泄露画面显示，这名戴头盔的奎利人很可能原本会成为系列首位男性奎利人主要角色。 BioWare 早期内部设计文件显示，制作组早在《质量效应 ",
-     "source": "IT之家",
-     "zh": "《质量效应：宇宙》游戏预告片泄露：系列首位男性奎利人角色出现"
-    },
-    {
-     "title": "全球首个“返老还童针”ER-100 公布首批人体数据：3 名青光眼患者接受治疗，2 人出现改善信号",
-     "link": "https://www.ithome.com/1/017/043.htm",
-     "pubDate": "Fri, 23 Oct 2026 07:13:53 GMT",
-     "summary": "IT之家 10 月 23 日消息，美国生物科技公司 Life Biosciences 在本月初举行的美国眼科学会（AAO）2026 年年会上公布了其 ER-100 疗法 Ⅰ 期临床试验的首批人体数据。这是该公司首次公布 ER-100 的人体临床数据。 该疗法采用细胞部分表观遗传重编程技术，试图恢复受损视网膜神经节细胞的功能 。这也是全球首个细胞部分重编程（表观遗传逆龄）人体临床试验，被被外界形象地称为“返老还童针”。 本次公布的数据显示，3 名开角型青光眼患者接受了 ER-100 治疗，随访至第 56 天时，所有受试者均表现出良好的耐受性，未报告严重不良事件、剂量限制性毒性或特别关注的不良事件",
-     "source": "IT之家",
-     "zh": "全球首个“返老还童针”ER-100 公布首批人体数据：3 名青光眼患者接受治疗，2 人出现改善信号"
-    },
-    {
-     "title": "选购需谨慎：消息称苹果 iPhone Duo 手机官方门店在售保护壳 / 钢化膜存在相互适配问题",
-     "link": "https://www.ithome.com/1/017/037.htm",
-     "pubDate": "Fri, 23 Oct 2026 07:09:02 GMT",
-     "summary": "IT之家 10 月 23 日消息，苹果首款折叠屏手机 iPhone Duo 于今天正式发售，由于该机维修成本较高、同时边框采用抛光设计，不少消费者会去选购壳膜来保护这款设备。 不过综合各大平台博主消息，目前苹果 iPhone Duo 存在壳膜之间不适配的情况，以苹果 Apple Store 在售外设产品为例， 官方门店在售的 599 元保护壳便无法和贝尔金的钢化膜匹配，出现“前盖盖不上”等情况 。同时也有不少用户吐槽官方 599 元保护壳前壳“影响手感”、999 元双面夹“没有保护作用”。 同时，也有博主晒出了“壳膜一体”产品，不过有消息指出相应产品难以定期清灰，“在长期使用可能导致抛光边框因",
-     "source": "IT之家",
-     "zh": "选购需谨慎：消息称苹果 iPhone Duo 手机官方门店在售保护壳 / 钢化膜存在相互适配问题"
-    },
-    {
      "title": "“溃败”之后，“大伟哥”再投1000亿",
      "link": "https://www.huxiu.com/article/4899886.html?f=rss",
      "pubDate": "Fri, 23 Oct 2026 15:06:08 +0800",
      "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：李晓天 离“十年之约”，还有四年，他押上了全部身家。 米哈游的AI“大幕”又悄悄拉起了一角。 近期爆出，它围绕着“无用”两个字，一口气提交了30多件商标申请——中文、英文、拼音全不放过；类别也从软件服务，延伸到了化学原料、医药…… 粉丝坚信这就是米哈游自研大模型的名字。因为“大伟哥”、公司联合创始人兼总裁刘伟此前解释过，他们想做的模型，不仅要智商在线，还要有很高的情商，能够回答很多“无用”的问题。没过多久，主攻RRAM（阻变存储器）和存算一体的铭芯启睿宣布完成超4亿元A轮融资，米哈游是跟投方之一。 这件事似乎正在从一个“野望”变为现实。5月，当刘伟",
      "source": "虎嗅",
      "zh": "“溃败”之后，“大伟哥”再投1000亿"
-    },
-    {
-     "title": "红果短剧上线防沉迷提醒视频，正逐步覆盖更多用户",
-     "link": "https://www.ithome.com/1/017/031.htm",
-     "pubDate": "Fri, 23 Oct 2026 07:00:27 GMT",
-     "summary": "IT之家 10 月 23 日消息，据界面新闻今日报道，红果短剧上线 “休息提醒”和“睡眠提醒” 两项机制。用户看剧超过一定时长，或在深夜时段打开红果短剧时，可能会在推荐页刷到一条特别的视频：熟悉的短剧角色对着镜头，提醒用户放下手机，休息一下。 据介绍，“休息提醒”在用户看剧超过一定时长后触发：在剧集播放页，屏幕上方会出现“是时候休息下啦”的提示；在推荐页，用户则会刷到一条提醒视频。“睡眠提醒”则面向深夜时段仍在看剧的用户。目前， 提醒机制正逐步覆盖更多用户 。 IT之家注意到， 红果短剧此前已经宣布计划年底下线金币功能 ：预计自 2026 年 11 月 1 日起，不再向新用户提供金币功能；20",
-     "source": "IT之家",
-     "zh": "红果短剧上线防沉迷提醒视频，正逐步覆盖更多用户"
     },
     {
      "title": "Claude 偷砍额度被抓包，AI 会员正在集体变成“鬼秤”",
@@ -1844,17 +1892,9 @@
      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
      "link": "https://berget.ai/en/blog/per-request-co2-press-release",
      "pubDate": "Fri, 23 Oct 2026 06:41:11 +0000",
-     "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 30 # Comments: 6",
+     "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 50 # Comments: 23",
      "source": "Hacker News",
      "zh": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden"
-    },
-    {
-     "title": "花10亿欧元请人走：宝马这笔账，起点在中国",
-     "link": "https://www.huxiu.com/article/4899872.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 14:24:28 +0800",
-     "summary": "本文来自微信公众号： 商业对角线 ，作者：小明同学 10月8日，宝马给德国约4万名员工发去一个链接。点开后每个人都能看到一个数字：如果你愿意离开，公司准备给你多少钱。 几个小时后，系统崩了。 数万人同时登录，查询页面直接瘫痪，第二天修好之后申请量还在往上涨，宝马不得不暂停接收新申请，先处理已经提交的意向。 据德国《商报》报道，部分员工看到的数字超过65万欧元，约合人民币487万元。 一边是员工抢着走，一边是公司抢着给钱。 这件事乍看像个“德国职场福利”的段子。但只要把账算一遍就会发现：这不是一份慷慨，而是一笔精明的买卖。 而这笔买卖的起点，在中国。 01 487万，是怎么算出来的 首先需要明确",
-     "source": "虎嗅",
-     "zh": "花10亿欧元请人走：宝马这笔账，起点在中国"
     },
     {
      "title": "KeePassXC 2.8.0 释出",
@@ -1873,30 +1913,6 @@
      "zh": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B (Bloomberg)"
     },
     {
-     "title": "普莱医药：累计亏损近9亿，巨额赎回负债如影随形｜IPO观察",
-     "link": "https://www.tmtpost.com/8173243.html",
-     "pubDate": "Fri, 23 Oct 2026 13:46:37 +0800",
-     "summary": "普莱医药聚焦抗感染、代谢疾病两大赛道，布局四款候选药物，但核心新药均尚未实现商业化落地，当前营收几乎全部依靠日用护理产品。",
-     "source": "钛媒体",
-     "zh": "普莱医药：累计亏损近9亿，巨额赎回负债如影随形｜IPO观察"
-    },
-    {
-     "title": "信得科技：增收不增利叠加偿债风险，多笔股权转让引争议｜IPO观察",
-     "link": "https://www.tmtpost.com/8174474.html",
-     "pubDate": "Fri, 23 Oct 2026 13:37:54 +0800",
-     "summary": "信得科技2023至2025年营收稳步抬升，却陷入增收不增利困境，营收年均复合增长10.13%，净利润持续下行，年均复合增速为-44.16%。",
-     "source": "钛媒体",
-     "zh": "信得科技：增收不增利叠加偿债风险，多笔股权转让引争议｜IPO观察"
-    },
-    {
-     "title": "网络攻击愈发猖獗，防御方能否用AI扳回一城？",
-     "link": "https://www.tmtpost.com/8178797.html",
-     "pubDate": "Fri, 23 Oct 2026 13:35:10 +0800",
-     "summary": "在最新研究中， Claude模型找到了一些曾历经数万亿次测试仍未被发现的bug，还首次在生产软件中跑通了大规模的形式化验证。",
-     "source": "钛媒体",
-     "zh": "网络攻击愈发猖獗，防御方能否用AI扳回一城？"
-    },
-    {
      "title": "Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)",
      "link": "https://www.techmeme.com/261023/p3#a261023p3",
      "pubDate": "Fri, 23 Oct 2026 01:01:04 -0400",
@@ -1913,14 +1929,6 @@
      "zh": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)"
     },
     {
-     "title": "1元甩卖内地业务，快狗打车为何输掉同城货运生意？",
-     "link": "https://www.tmtpost.com/8178816.html",
-     "pubDate": "Fri, 23 Oct 2026 12:41:00 +0800",
-     "summary": "竞争激烈，快狗打车也跟不动补贴战了。",
-     "source": "钛媒体",
-     "zh": "1元甩卖内地业务，快狗打车为何输掉同城货运生意？"
-    },
-    {
      "title": "SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing \"market conditions and share price trends\" (P.R. Venkat/Wall Street Journal)",
      "link": "https://www.techmeme.com/261023/p1#a261023p1",
      "pubDate": "Fri, 23 Oct 2026 00:40:02 -0400",
@@ -1929,28 +1937,20 @@
      "zh": "SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing \"market conditions and share price trends\" (P.R. Venkat/Wall Street Journal)"
     },
     {
-     "title": "Token被摆上天猫的那一刻，离拼多多已经不远了",
-     "link": "https://www.tmtpost.com/8178812.html",
-     "pubDate": "Fri, 23 Oct 2026 12:34:00 +0800",
-     "summary": "大模型厂商急于破圈。",
-     "source": "钛媒体",
-     "zh": "Token被摆上天猫的那一刻，离拼多多已经不远了"
-    },
-    {
-     "title": "跑步上岗的具身智能：谁在赚吆喝，谁在算细账",
-     "link": "https://www.tmtpost.com/8178732.html",
-     "pubDate": "Fri, 23 Oct 2026 12:30:00 +0800",
-     "summary": "热闹的钱好赚，普通日子的钱难赚。",
-     "source": "钛媒体",
-     "zh": "跑步上岗的具身智能：谁在赚吆喝，谁在算细账"
-    },
-    {
      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
      "pubDate": "Fri, 23 Oct 2026 04:22:57 +0000",
      "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
      "source": "TechCrunch",
      "zh": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback"
+    },
+    {
+     "title": "和辉光电 2026Q3 营业收入同比下降 19.82%，亏损 4.96 亿元",
+     "link": "https://www.ithome.com/1/016/878.htm",
+     "pubDate": "Fri, 23 Oct 2026 03:56:37 GMT",
+     "summary": "IT之家 10 月 23 日消息，和辉光电 (EDO) 今日发布 2026 年三季度（2026 年 7 月～2026 年 9 月）报告： 营业收入 ：10.68 亿元，同比下降 19.82% 归母净利润 ：-4.96 亿元 扣非净利润 ：-5.07 亿元 加权平均净资产收益率 ：-7.16% 基本 / 稀释每股收益 ：-0.04 元 AI 解读 本次财报业绩未达市场预期。 公司主营业务 和辉光电专注于高解析 AMOLED 半导体显示面板的研发、生产及销售，是最早实现 AMOLED 量产的境内厂商之一，已建成第 4.5 代和第 6 代两条现代化 AMOLED 生产线，目前为国际领先的 AMOLE",
+     "source": "IT之家",
+     "zh": "和辉光电 2026Q3 营业收入同比下降 19.82%，亏损 4.96 亿元"
     },
     {
      "title": "eMudhra 退出全球 CA 业务",
@@ -2249,12 +2249,68 @@
    "total": 13,
    "items": [
     {
-     "title": "Volvo Cars shares plunge 25% amid China sales slump and fresh job cuts",
-     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-     "pubDate": "Fri, 23 Oct 2026 07:28:12 GMT",
+     "title": "Germany's composite PMI hits two-month low as services growth eases",
+     "link": "https://seekingalpha.com/news/4656440-germanys-composite-pmi-hits-two-month-low-as-services-growth-eases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 03:36:50 -0400",
      "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Germany's composite PMI hits two-month low as services growth eases"
+    },
+    {
+     "title": "贝瑞基因10月23日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610233906231238.html",
+     "pubDate": "Fri, 23 Oct 2026 15:35:37 +0800",
+     "summary": "以下是 贝瑞基因 在北京时间10月23日09:35分盘口异动快照： 10月23日， 贝瑞基因 盘中跌幅达5%，截至9点35分，报9.46元，成交5175.99万元，换手率1.62%。 分笔 09:35:27 9.46 203↓ 09:35:24 9.47 28↓ 09:35:21 9.48 553↓ 09:35:18 9.48 35↓ 09:35:15 9.50 805↓ 09:35:12 9.50 175↓ 09:35:09 9.50 220↓ 09:35:06 9.50 60↓ 09:35:03 9.51 210↓ 09:35:00 9.52 301↓ 报价 卖五 9.51 714 卖四 ",
+     "source": "东方财富股票",
+     "zh": "贝瑞基因10月23日盘中跌幅达5%"
+    },
+    {
+     "title": "华达科技10月23日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610233906230858.html",
+     "pubDate": "Fri, 23 Oct 2026 15:35:23 +0800",
+     "summary": "以下是 华达科技 在北京时间10月23日09:35分盘口异动快照： 10月23日， 华达科技 盘中跌幅达5%，截至9点35分，报35.66元，成交3919.23万元，换手率0.23%。 分笔 09:35:27 35.66 1105↓ 09:35:24 35.87 355↑ 09:35:21 35.72 91↓ 09:35:18 35.80 91↓ 09:35:15 35.90 159↓ 09:35:12 35.95 8↓ 09:35:09 35.97 24↓ 09:35:06 35.98 86↑ 09:35:03 35.95 64↓ 09:35:00 36.05 21↓ 报价 卖五 35.71",
+     "source": "东方财富股票",
+     "zh": "华达科技10月23日盘中跌幅达5%"
+    },
+    {
+     "title": "尤洛卡10月23日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610233906230790.html",
+     "pubDate": "Fri, 23 Oct 2026 15:35:21 +0800",
+     "summary": "以下是 尤洛卡 在北京时间10月23日09:35分盘口异动快照： 10月23日， 尤洛卡 盘中跌幅达5%，截至9点35分，报5.66元，成交1185.05万元，换手率0.38%。 分笔 09:35:27 5.66 170↓ 09:35:24 5.67 269↓ 09:35:21 5.68 112↑ 09:35:18 5.68 698↓ 09:35:15 5.70 186↑ 09:35:12 5.70 21↑ 09:35:06 5.70 431↑ 09:35:03 5.69 37↓ 09:35:00 5.71 260↑ 09:34:54 5.70 100↓ 报价 卖五 5.7 588 卖四 5.",
+     "source": "东方财富股票",
+     "zh": "尤洛卡10月23日盘中跌幅达5%"
+    },
+    {
+     "title": "喜悦智行10月23日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610233906230683.html",
+     "pubDate": "Fri, 23 Oct 2026 15:35:20 +0800",
+     "summary": "以下是喜悦智行在北京时间10月23日09:35分盘口异动快照： 10月23日，喜悦智行盘中跌幅达5%，截至9点35分，报11.12元，成交834.25万元，换手率0.45%。 分笔 09:35:27 11.12 33↓ 09:35:21 11.14 86↓ 09:35:18 11.18 107↓ 09:35:15 11.22 13↓ 09:35:09 11.27 21↑ 09:35:06 11.24 37↑ 09:35:03 11.22 50↑ 09:35:00 11.22 14↑ 09:34:57 11.21 4↓ 09:34:51 11.22 23↓ 报价 卖五 11.22 15 卖四 1",
+     "source": "东方财富股票",
+     "zh": "喜悦智行10月23日盘中跌幅达5%"
+    },
+    {
+     "title": "豫光金铅：豫光集团质押5500万股用于生产经营",
+     "link": "http://stock.eastmoney.com/news/11215,202610233906233433.html",
+     "pubDate": "Fri, 23 Oct 2026 15:34:00 +0800",
+     "summary": "南财智讯10月23日电， 豫光金铅 公告，公司控股股东豫光集团将其持有的5500万股公司股份质押给 国泰海通 ，占其所持股份比例的17.04%，占公司总股本的4.55%，质押用途为生产经营。同时，豫光集团将原质押给 国泰海通 的5800万股股份办理了解除质押手续，占其所持股份比例的17.97%，占公司总股本的4.80%。本次解除质押及再质押后，豫光集团累计质押公司股票数量为5500万股，占其持股总数的17.04%，占公司总股本的4.55%。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "豫光金铅：豫光集团质押5500万股用于生产经营"
+    },
+    {
+     "title": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖 美股空头挤压风险上升",
+     "link": "http://stock.eastmoney.com/news/1436,202610233906230913.html",
+     "pubDate": "Fri, 23 Oct 2026 15:33:02 +0800",
+     "summary": "亚洲股市技术面已接近极度超卖区间，而美股空头仓位的快速累积正令市场从\"下跌缺口\"风险转向\"空头挤压\"风险。瑞银建议投资者将策略重心从防御转向进攻，逢低买入，并重点关注 半导体 板块相对软件板块的结构性机会。 瑞银策略师Zain Nizami在最新报告中指出，过去两三天防御性仓位和激进做空策略均已获利，但多项价格行动和仓位指标显示相关交易已明显拉伸。 恒生科技指数目前较200日均线低23%，RSI跌至27；沪深300的RSI同样跌至23.9，触及历史低位，同时测试周线200日均线支撑。 Nizami表示， 考虑到当前情绪、仓位状况以及已被市场消化的宏观逆风，\"继续维持彻底看跌和防御立场已越来越不",
+     "source": "东方财富股票",
+     "zh": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖 美股空头挤压风险上升"
+    },
+    {
+     "title": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts",
+     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+     "pubDate": "Fri, 23 Oct 2026 07:29:28 GMT",
+     "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
      "source": "CNBC",
-     "zh": "Volvo Cars shares plunge 25% amid China sales slump and fresh job cuts"
+     "zh": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts"
     },
     {
      "title": "France business activity deteriorates in October, missing consensus",
@@ -2289,54 +2345,6 @@
      "zh": "爱马仕与LVMH估值降至十年最低仍无人抄底，法国乱局再添客流之忧"
     },
     {
-     "title": "法国10月综合PMI初值为48.4，低于9月的51.1",
-     "link": "http://finance.eastmoney.com/news/1351,202610233906221850.html",
-     "pubDate": "Fri, 23 Oct 2026 15:19:41 +0800",
-     "summary": "法国10月 综合 PMI初值为48.4，低于9月的51.1，创4个月新低；法国10月制造业PMI初值为49.3，低于9月的50.6，创11个月新低。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "法国10月综合PMI初值为48.4，低于9月的51.1"
-    },
-    {
-     "title": "今日涨跌停股分析：84只涨停股、7只跌停股，机器人概念爆发",
-     "link": "http://stock.eastmoney.com/news/11134,202610233906219625.html",
-     "pubDate": "Fri, 23 Oct 2026 15:16:37 +0800",
-     "summary": "10月23日，A股全天下来共有84只涨停股、7只跌停股。 机器人 概念爆发， 大业股份 6连板， 福莱新材 5天3板， 华阳智能 、 正裕工业 、 襄阳轴承 2连板，宇树科技20CM涨停， 万向钱潮 、 派斯林 、 大丰实业 涨停；物理AI概念走强， 凡拓数创 5天3板， 天娱数科 涨停。 连板股方面， 海洋王 6连板， 华瓷股份 8天4板， 兆威机电 5天3板， 上海九百 3连板， 龙旗科技 、 豪鹏科技 4天2板， 中广天择 3天2板， 多伦科技 等2连板， 粤芯半导-U 等涨停。 *ST卓然 、 通达创智 等连续2日跌停， 哈空调 、 闽发铝业 等跌停。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "今日涨跌停股分析：84只涨停股、7只跌停股，机器人概念爆发"
-    },
-    {
-     "title": "法国10月份服务业PMI报48.4",
-     "link": "http://stock.eastmoney.com/news/1438,202610233906220138.html",
-     "pubDate": "Fri, 23 Oct 2026 15:16:27 +0800",
-     "summary": "法国10月份服务业PMI报48.4， 综合 PMI报48.4。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "法国10月份服务业PMI报48.4"
-    },
-    {
-     "title": "法国10月制造业PMI初值为49.3",
-     "link": "http://finance.eastmoney.com/news/1346,202610233906220479.html",
-     "pubDate": "Fri, 23 Oct 2026 15:15:53 +0800",
-     "summary": "法国10月制造业PMI初值为49.3，预期50.5，前值50.6；10月服务业PMI初值为48.4，预期50.7，前值51.2。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "法国10月制造业PMI初值为49.3"
-    },
-    {
-     "title": "科技股抛售重创韩国股市，预期市盈率降至印尼股市的一半",
-     "link": "http://finance.eastmoney.com/news/1351,202610233906221293.html",
-     "pubDate": "Fri, 23 Oct 2026 15:15:42 +0800",
-     "summary": "机构数据显示，韩国KOSPI指数的未来12个月预期市盈率已降至约4倍。在今年年初市值超过1万亿美元的18个市场中，这一估值水平是自2006年以来从未出现过的低位。相比之下，印尼雅加达 综合 指数的预期市盈率为8倍。与此同时，印尼股市正面临 明晟 公司（MSCI）发出的警告，可能分两阶段下调其市场分类，市场是否具备足够的可投资性也受到质疑。ACG Management Pte.董事总经理Hui Ling Loh表示：“市场对迄今为止大举投入AI领域的担忧进一步加深，其影响已足以抵消稳健的盈利表现和业绩指引。除了避险资产需求外，投资者也在评估融资成本上升对AI相关股票的影响。” （文章来源：金十数",
-     "source": "东方财富股票",
-     "zh": "科技股抛售重创韩国股市，预期市盈率降至印尼股市的一半"
-    },
-    {
-     "title": "法国10月制造业PMI初值 49.3，预期50.5，前值50.6",
-     "link": "http://finance.eastmoney.com/news/1351,202610233906219719.html",
-     "pubDate": "Fri, 23 Oct 2026 15:15:42 +0800",
-     "summary": "法国10月制造业PMI初值 49.3，预期50.5，前值50.6。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "法国10月制造业PMI初值 49.3，预期50.5，前值50.6"
-    },
-    {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
      "pubDate": "Fri, 23 Oct 2026 07:15:00 GMT",
@@ -2353,28 +2361,12 @@
      "zh": "叠纸低调搞起了机器人，七个月前已开始招兵买马"
     },
     {
-     "title": "美财政部提议将生物技术列入对外投资禁止清单 外交部回应",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906218079.html",
-     "pubDate": "Fri, 23 Oct 2026 15:12:51 +0800",
-     "summary": "10月23日，外交部发言人毛宁主持例行记者会。路透社记者提问，美国财政部提议将生物技术列入美国对外投资安全计划的禁止投资清单，这可能会限制美国对中国生物技术公司的投资，请问外交部对此有何看法？ 毛宁表示，泛化国家安全概念，对特定国家采取歧视性措施，对经贸投资活动人为设限，不符合任何一方的利益。美方应当遵守市场经济原则，停止干扰企业之间的正常经贸合作，切实维护全球产供链稳定。中方将密切关注有关动向，采取必要措施维护自身的正当合法权益。 （文章来源：澎湃新闻）",
-     "source": "东方财富资讯",
-     "zh": "美财政部提议将生物技术列入对外投资禁止清单 外交部回应"
-    },
-    {
-     "title": "【风口研报】海内外多重利好共振 人形机器人景气度有望加速向上",
-     "link": "http://stock.eastmoney.com/news/1405,202610233906219487.html",
-     "pubDate": "Fri, 23 Oct 2026 15:10:00 +0800",
-     "summary": "A股三大指数今日探底回升，截止收盘，沪指涨0.89%，深证成指涨2.79%，创业板指涨4.16%。沪深京三市成交额接近2万亿，较昨日大幅放量逾4000亿。行业板块多数收涨， 机器人 、 软件开发 、影视 院线 、IT服务、 半导体 、 电池 、游戏、 工程机械 、 计算机设备 、 能源金属 板块涨幅居前， 银行 板块跌幅居前。个股方面，上涨股票数量超过4500只，逾80只股票涨停。 近期人形 机器人 板块迎来多重消息催化。近日，2026世界物理AI大会暨宇树合作伙伴生态大会在杭州举行。宇树科技董事长王兴兴在大会上表示，随着GPT-6的发布，目前物理AI已经看到被击穿的苗头，很可能最近1-2年或",
-     "source": "东方财富资讯",
-     "zh": "【风口研报】海内外多重利好共振 人形机器人景气度有望加速向上"
-    },
-    {
-     "title": "财政部：前三季度证券交易印花税2391亿元 同比增长65.1%",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906216082.html",
-     "pubDate": "Fri, 23 Oct 2026 15:09:24 +0800",
-     "summary": "一、全国一般公共预算收支情况 （一）一般公共预算收入情况。 前三季度，全国一般公共预算收入172292亿元，同比增长5.1%。其中，全国税收收入140706亿元，同比增长6.1%；非税收入31586亿元，同比增长1.2%。分中央和地方看，中央一般公共预算收入76699亿元，同比增长8.3%；地方一般公共预算本级收入95593亿元，同比增长2.7%。 主要税收收入项目情况如下： 1.国内增值税55416亿元，同比增长6%。 2.国内消费税12402亿元，同比下降4.1%。 3.企业所得税34832亿元，同比增长7.1%。 4.个人所得税13464亿元，同比增长14.1%。 5.进口货物增值税、消",
-     "source": "东方财富资讯",
-     "zh": "财政部：前三季度证券交易印花税2391亿元 同比增长65.1%"
+     "title": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖，美股空头挤压风险上升",
+     "link": "https://wallstreetcn.com/articles/3784302",
+     "pubDate": "Fri, 23 Oct 2026 15:11:22 +0800",
+     "summary": "亚洲股市技术面已接近极度超卖区间，而美股空头仓位的快速累积正令市场从\"下跌缺口\"风险转向\"空头挤压\"风险。瑞银建议投资者将策略重心从防御转向进攻，逢低买入，并重点关注半导体板块相对软件板块的结构性机会。 据追风交易台消息，瑞银策略师Zain Nizami在最新报告中指出，过去两三天防御性仓位和激进做空策略均已获利，但多项价格行动和仓位指标显示相关交易已明显拉伸。 恒生科技指数目前较200日均线低23%，RSI跌至27；沪深300的RSI同样跌至23.9，触及历史低位，同时测试周线200日均线支撑。 Nizami表示， 考虑到当前情绪、仓位状况以及已被市场消化的宏观逆风，\"继续维持彻底看跌和防御",
+     "source": "华尔街见闻",
+     "zh": "是时候抄底了？瑞银高喊“进攻”：亚洲股市严重超卖，美股空头挤压风险上升"
     },
     {
      "title": "Oil hits $114 for first time since May as global stocks hit by AI fears",
@@ -2393,22 +2385,6 @@
      "zh": "Namib Minerals proposes $30M loan for Redwing Mine development"
     },
     {
-     "title": "A股三大指数探底回升 创业板指大涨超4% 逾4500只股上涨",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906208954.html",
-     "pubDate": "Fri, 23 Oct 2026 15:00:26 +0800",
-     "summary": "A股三大指数今日探底回升，截止收盘，沪指涨0.89%，收报3690.48点；深证成指涨2.79%，收报11673.83点；创业板指涨4.16%，收报2684.10点。沪深京三市成交额达到1.97万亿，较昨日大幅放量逾4300亿。 行业板块多数收涨，机器人、软件开发、影视院线、IT服务、半导体、电池、游戏、工程机械、计算机设备、能源金属板块涨幅居前，银行板块跌幅居前。 个股方面，上涨股票数量超过4500只，逾80只股票涨停。机器人概念爆发，大业股份6连板，福莱新材5天3板，华阳智能、正裕工业、襄阳轴承2连板，宇树科技20CM涨停，万向钱潮、山东威达、派斯林、大丰实业涨停；物理AI凡拓数创5天3板",
-     "source": "东方财富资讯",
-     "zh": "A股三大指数探底回升 创业板指大涨超4% 逾4500只股上涨"
-    },
-    {
-     "title": "溢价从五千跌到一两千！iPhone Duo行情降温",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906207665.html",
-     "pubDate": "Fri, 23 Oct 2026 14:56:02 +0800",
-     "summary": "10月23日， 苹果 首款折叠屏手机iPhone Duo在国内正式发售。上海证券报记者当日走访上海 苹果 门店发现，首发日多家门店无现货，前期被爆炒的二手溢价则迎来快速回落。 在上海国金中心 苹果 门店，不少完成预售的消费者排队到店提货。门店工作人员透露，发售当日线下门店没有现货对外零售。受初期产能限制，按照以往新品发售规律，普通消费者预计需要等待一个月左右，才能到店直接买到现货。 苹果的中国官网信息显示，iPhone Duo实行限购政策，每位顾客最多只能购买两台，目前该机型已无法直接下单选购。苹果淘宝官方旗舰店当前下单，商品配送时间已顺延至2027年1月23日。 门店现场，不少到店体验的消费",
-     "source": "东方财富资讯",
-     "zh": "溢价从五千跌到一两千！iPhone Duo行情降温"
-    },
-    {
      "title": "E.ON unit PreussenElektra taps Nvidia to assess nuclear sites for AI data centers",
      "link": "https://seekingalpha.com/news/4656442-eon-unit-preussenelektra-taps-nvidia-to-assess-nuclear-sites-for-ai-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 02:43:20 -0400",
@@ -2423,14 +2399,6 @@
      "summary": "余政强调，品牌是国家的脸面，文化是品牌的灵魂；品牌强则产业兴，文化厚则底气足。在这个充满不确定性的时代，科技力让我们拥有力量，经济力让我们拥有舞台，文化力让我们拥有方向。中国文化与世界品牌的相遇，不是简单的物理叠加，而是一场深刻的化学反应。",
      "source": "经济观察网",
      "zh": "经济观察研究院院长余政：中国品牌走向世界，靠的是什么？"
-    },
-    {
-     "title": "创业板指拉升涨超4% 机器人、物理AI、白酒、保险涨幅居前",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906071131.html",
-     "pubDate": "Fri, 23 Oct 2026 14:38:56 +0800",
-     "summary": "市场午后情绪回暖，创业板指拉升涨超4%，早盘曾一度跌超3%。 机器人 、物理AI、 白酒 、保险等方向涨幅居前，沪深京三市上涨个股超4400只。 10月23日午间， 中际旭创 、 新易盛 、 天孚通信 齐发公告，披露近期生产经营情况。 中际旭创 称，公司目前生产经营一切正常，供应链稳定，产能利用率充足，客户订单需求强劲。下游需求保持高景气，公司在手订单饱满。产品价格体系健康，行业竞争有序。光互连技术持续迭代，行业技术壁垒有望进一步提升。 新易盛 称，公司生产经营活动有序开展，在手订单充足，800G和1.6T是今年交付的主力产品，订单交付及产能扩充正按业务需求推进，其中1.6T光模块已进入持续放",
-     "source": "东方财富资讯",
-     "zh": "创业板指拉升涨超4% 机器人、物理AI、白酒、保险涨幅居前"
     },
     {
      "title": "全球科技股跌势暂歇，日韩股市深V反弹，韩股收涨0.3%，SK海力士涨4%，黄金盘中跌破4000",
@@ -2457,22 +2425,6 @@
      "zh": "Zai Lab announces $250M private placement"
     },
     {
-     "title": "奇迹日再现！创业板深V暴涨4%，“易中天”集体拉升，长鑫大涨6%、宇树涨停，恒科指午后涨超2%",
-     "link": "https://wallstreetcn.com/articles/3784272",
-     "pubDate": "Fri, 23 Oct 2026 14:24:12 +0800",
-     "summary": "宁德时代A股和H股均反弹，其中A股涨超3%，H股涨4%，此前，北汽集团与宁德时代在北京签署百万换电战略合作协议。算力硬件、芯片半导体等午后反弹，光模块、存储芯片等概念股集体拉升，长鑫科技大涨6%，摩尔线程、沐曦股份均涨9%。午间中际旭创、天孚通信密集发布公告称，在手订单充足，经营正常。 10月23日，A股午后拉升，沪指一度转涨，深成指涨超1%，创业板指涨幅扩大至3%，早盘一度跌超3%、盘中失守2500点整数关口。存储芯片、算力硬件股等反弹，机器人再度活跃，宇树科技涨停，保险、白酒等板块走强。微盘股跌幅收窄至1%以内，早盘一度跌近5%。 港股午后扩大涨幅，恒科指涨超2%，恒指涨近1%，权重科网股",
-     "source": "华尔街见闻",
-     "zh": "奇迹日再现！创业板深V暴涨4%，“易中天”集体拉升，长鑫大涨6%、宇树涨停，恒科指午后涨超2%"
-    },
-    {
-     "title": "Lunai Bioworks plans Nasdaq delisting",
-     "link": "https://seekingalpha.com/news/4656435-lunai-bioworks-plans-nasdaq-delisting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 02:21:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lunai Bioworks plans Nasdaq delisting"
-    },
-    {
      "title": "加快建设国际消费中心城市，国际名品高管齐聚武汉",
      "link": "http://www.eeo.com.cn/2026/1023/1073525.shtml",
      "pubDate": "Fri, 23 Oct 2026 14:16:29 +0800",
@@ -2487,6 +2439,54 @@
      "summary": "European governments race to turn defense spending pledges into military capability, boosting companies' order books.",
      "source": "CNBC",
      "zh": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine"
+    },
+    {
+     "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+     "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 06:15:00 GMT",
+     "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+     "source": "MarketWatch",
+     "zh": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
+    },
+    {
+     "title": "北京市“十五五”时期金融业发展规划编制完成",
+     "link": "http://www.eeo.com.cn/2026/1023/1073488.shtml",
+     "pubDate": "Fri, 23 Oct 2026 13:47:49 +0800",
+     "summary": "《规划》明确发展目标：到2030年，北京国家金融管理中心基础功能全面加强，逐步建立健全与首都地位、与金融强国建设需要相匹配的现代金融体系。到2035年，北京国家金融管理中心综合实力显著增强，成为打造全球金融治理网络的重要枢纽，在构建具有高度适应性、竞争力、普惠性的中国特色现代金融体系中走在前、作表率。",
+     "source": "经济观察网",
+     "zh": "北京市“十五五”时期金融业发展规划编制完成"
+    },
+    {
+     "title": "Winter arrives in markets",
+     "link": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 05:30:08 GMT",
+     "summary": "Bonds and stocks tell the same chilly story",
+     "source": "Financial Times",
+     "zh": "Winter arrives in markets"
+    },
+    {
+     "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+     "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+     "pubDate": "Fri, 23 Oct 2026 04:55:59 GMT",
+     "summary": "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
+     "source": "CNBC",
+     "zh": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens"
+    },
+    {
+     "title": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著",
+     "link": "http://www.eeo.com.cn/2026/1023/1073384.shtml",
+     "pubDate": "Fri, 23 Oct 2026 12:35:18 +0800",
+     "summary": "多位首席经济学家表示，现金流是判断AI泡沫争议的核心指标，当前AI产业链上中下游企业现金流分化显著。",
+     "source": "经济观察网",
+     "zh": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著"
+    },
+    {
+     "title": "第二十四届杰出品牌营销案例正式揭晓！",
+     "link": "http://www.eeo.com.cn/2026/1023/1073363.shtml",
+     "pubDate": "Fri, 23 Oct 2026 12:21:12 +0800",
+     "summary": "第二十四届杰出品牌营销案例正式揭晓！",
+     "source": "经济观察网",
+     "zh": "第二十四届杰出品牌营销案例正式揭晓！"
     }
    ]
   },

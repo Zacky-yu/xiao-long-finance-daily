@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 01:18:27",
+ "generated_at": "2026/10/24 01:34:08",
  "recent_days": 7,
  "industries": [
   {
@@ -274,28 +274,12 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
-     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
-     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
-    },
-    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
-    },
-    {
-     "title": "Space Tech Expo Europe to say farewell to Bremen",
-     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
-     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -320,30 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
      "source": "Semiconductor Today",
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
-    },
-    {
-     "title": "Soft Switching Or Hard?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
-     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Soft Switching Or Hard?"
-    },
-    {
-     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
-     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
-     "source": "Electronics Weekly",
-     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
-    },
-    {
-     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
-     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
     },
     {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
@@ -408,14 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Electronics production growth accelerating, says SI",
-     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
-     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
+    },
+    {
+     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
+     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
+     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
+     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
+    },
+    {
+     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
+     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
+     "source": "Semiconductor Today",
+     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
+    },
+    {
+     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
+     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
+     "source": "Semiconductor Today",
+     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
+    },
+    {
+     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
+     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
+    },
+    {
+     "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+     "link": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/",
+     "pubDate": "Wed, 21 Oct 2026 19:00:00 +0000",
+     "summary": "GPS jamming is rising. Learn how 4G, 5G, and NTN positioning give mission-critical devices a trusted fallback when GNSS fails. The post When GPS Isn’t Enough: Building a Second Layer of Positioning appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "When GPS Isn’t Enough: Building a Second Layer of Positioning"
+    },
+    {
+     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
+     "link": "https://spectrum.ieee.org/community-college-semiconductors",
+     "pubDate": "Tue, 20 Oct 2026 13:00:02 +0000",
+     "summary": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared. By 2030, investments in manufacturing, design, materials, and packaging facilities in the United States will create demand for 189,000 new full-time semiconductor jobs. But the supply of such",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Community Colleges Put New Workers Into Semiconductor Jobs Fast"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
+     "link": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
+     "pubDate": "Fri, 23 Oct 2026 17:13:54 +0000",
+     "summary": "The company has been taking deposits for seven years. But it just told reservation holders that plans have changed.",
+     "source": "InsideEVs",
+     "zh": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming"
+    },
+    {
      "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
      "link": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
      "pubDate": "Fri, 23 Oct 2026 16:56:23 +0000",
@@ -794,14 +802,6 @@ window.INDUSTRY_DATA = {
      "zh": "Want The Best Range Rover? Get The Electric One: First Drive"
     },
     {
-     "title": "I Drove The Electric BMW X5. It Makes The Gas Version A Tough Sell.",
-     "link": "https://insideevs.com/reviews/812963/bmw-ix5-electric-x5-first-drive-review-2027/",
-     "pubDate": "Thu, 22 Oct 2026 19:01:00 +0000",
-     "summary": "For the first time ever, the X5 is going electric. I drove the iX5 to see if it's compelling enough to get BMW buyers into an EV.",
-     "source": "InsideEVs",
-     "zh": "I Drove The Electric BMW X5. It Makes The Gas Version A Tough Sell."
-    },
-    {
      "title": "Tesla is prepping a Cybercab onslaught",
      "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
      "pubDate": "Thu, 22 Oct 2026 15:44:39 +0000",
@@ -841,6 +841,22 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html",
+     "pubDate": "Fri, 23 Oct 2026 12:20:00 -0500",
+     "summary": "Oil traders sold futures equivalent to at least 6 million barrels of crude in just two minutes on March 23, shortly before President Donald Trump backed away from threats to strike Iranian power plants. Now, the federal regulator overseeing those trades says it has been looking into the activity. Co",
+     "source": "OilPrice",
+     "zh": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny"
+    },
+    {
+     "title": "U.S. Rig Count Holds Steady as Oil Prices Surge",
+     "link": "https://oilprice.com/Energy/Energy-General/US-Rig-Count-Holds-Steady-as-Oil-Prices-Surge.html",
+     "pubDate": "Fri, 23 Oct 2026 12:16:20 -0500",
+     "summary": "The total number of active drilling rigs for oil and gas in the United States remained unchanged for the second week in a row this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US staying at 603, up 53 from this same time last year. The number of ",
+     "source": "OilPrice",
+     "zh": "U.S. Rig Count Holds Steady as Oil Prices Surge"
+    },
     {
      "title": "The permitting deal collides with Trump’s war on offshore wind",
      "link": "https://www.canarymedia.com/articles/politics/permitting-bill-offshore-wind",
@@ -906,14 +922,6 @@ window.INDUSTRY_DATA = {
      "zh": "Oil India Strikes Natural Gas in Shallow Offshore Basin"
     },
     {
-     "title": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
-     "link": "https://oilprice.com/Energy/Energy-General/The-Hidden-40-Per-Barrel-Cost-Driving-Oil-Prices-Higher.html",
-     "pubDate": "Fri, 23 Oct 2026 09:00:00 -0500",
-     "summary": "When Americans think about the price of oil, they usually focus on the number quoted every day in financial markets. If Brent crude is trading above $100 a barrel or West Texas Intermediate is near $100, those numbers become shorthand for whether oil is expensive or cheap. But that market price is o",
-     "source": "OilPrice",
-     "zh": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher"
-    },
-    {
      "title": "Scatec and EBRD establish US$221 million renewable energy investment platform for Egypt",
      "link": "https://www.pv-tech.org/scatec-ebrd-establish-us221-million-renewable-energy-investment-platform-egypt/",
      "pubDate": "Fri, 23 Oct 2026 13:56:40 +0000",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Voltalia's latest results include a turnover of €177.4 million (US$198.6 million) and a 29% increase in electricity generation to 4.1TWh.",
      "source": "PV Tech",
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
-    },
-    {
-     "title": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html",
-     "pubDate": "Fri, 23 Oct 2026 08:30:00 -0500",
-     "summary": "The first tanker shipping diesel out of Russia to the U.S. departed from the Russian Baltic Sea port of Primorsk early on Friday local time and is en route to New York where it is expected to arrive on November 7, shipping data show. The medium-sized oil tanker Agioi Fanendes, flying the flag of Mal",
-     "source": "OilPrice",
-     "zh": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York"
     },
     {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
@@ -1778,20 +1778,12 @@ window.INDUSTRY_DATA = {
      "zh": "2026.43: A New Era"
     },
     {
-     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-     "link": "https://www.kimi.com/code/docs/en/kimi-code/models.html",
-     "pubDate": "Fri, 23 Oct 2026 16:59:08 +0000",
-     "summary": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models.html Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 19 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Kimi K3.1 Pro and K3.1 Pro Highspeed"
-    },
-    {
-     "title": "UK&apos;s AISI finds Mythos 5 kept targeting real people in a July cyber eval despite evidence they were uninvolved, and other models make such attacks in simulation (AI Security Institute)",
+     "title": "AISI finds Mythos 5 pushed a GitHub maintainer to accept malicious code in a July eval despite evidence he was real; other models behaved the same in simulation (AI Security Institute)",
      "link": "https://www.techmeme.com/261023/p13#a261023p13",
      "pubDate": "Fri, 23 Oct 2026 12:55:01 -0400",
-     "summary": "AI Security Institute : UK's AISI finds Mythos 5 kept targeting real people in a July cyber eval despite evidence they were uninvolved, and other models make such attacks in simulation &nbsp; &mdash;&nbsp; We examine why Mythos 5 pursued an unsanctioned supply-chain attack and identify broader learn",
+     "summary": "AI Security Institute : AISI finds Mythos 5 pushed a GitHub maintainer to accept malicious code in a July eval despite evidence he was real; other models behaved the same in simulation &nbsp; &mdash;&nbsp; We examine why Mythos 5 pursued an unsanctioned supply-chain attack and identify broader learn",
      "source": "Techmeme",
-     "zh": "UK&apos;s AISI finds Mythos 5 kept targeting real people in a July cyber eval despite evidence they were uninvolved, and other models make such attacks in simulation (AI Security Institute)"
+     "zh": "AISI finds Mythos 5 pushed a GitHub maintainer to accept malicious code in a July eval despite evidence he was real; other models behaved the same in simulation (AI Security Institute)"
     },
     {
      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
@@ -1800,22 +1792,6 @@ window.INDUSTRY_DATA = {
      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
      "source": "TechCrunch",
      "zh": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels"
-    },
-    {
-     "title": "Total Historian",
-     "link": "https://www.theideasletter.org/essay/total-historian/",
-     "pubDate": "Fri, 23 Oct 2026 16:23:29 +0000",
-     "summary": "Article URL: https://www.theideasletter.org/essay/total-historian/ Comments URL: https://news.ycombinator.com/item?id=50211504 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Total Historian"
-    },
-    {
-     "title": "Today, we hacked what we'd set out to hack: the iPhone",
-     "link": "https://blog.calif.io/p/iphone",
-     "pubDate": "Fri, 23 Oct 2026 16:21:50 +0000",
-     "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 199 # Comments: 87",
-     "source": "Hacker News",
-     "zh": "Today, we hacked what we'd set out to hack: the iPhone"
     },
     {
      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
@@ -1906,36 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "How Many Billions Would It Take to Hold Meta Accountable?"
     },
     {
-     "title": "Pentagon grants DHS permission to test heat ray weapon for use at border",
-     "link": "https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon",
-     "pubDate": "Fri, 23 Oct 2026 14:52:47 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon Comments URL: https://news.ycombinator.com/item?id=50210075 Points: 50 # Comments: 44",
-     "source": "Hacker News",
-     "zh": "Pentagon grants DHS permission to test heat ray weapon for use at border"
-    },
-    {
-     "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
-     "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
-     "pubDate": "Fri, 23 Oct 2026 14:52:08 +0000",
-     "summary": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50210067 Points: 155 # Comments: 81",
-     "source": "Hacker News",
-     "zh": "eMudhra ignored Mozilla Root investigation deadline; blames social media"
-    },
-    {
      "title": "国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作",
      "link": "https://www.ithome.com/1/017/275.htm",
      "pubDate": "Fri, 23 Oct 2026 14:46:42 GMT",
      "summary": "IT之家 10 月 23 日消息，据国家邮政局，10 月 22 日至 23 日，国家邮政局在河南洛阳召开邮政快递业安全治理规范化座谈会。 会议要求，各级邮政管理部门要强化行业监管核心职能，大力加强行业安全监管，维护快递市场秩序。各企业要把安全责任牢牢扛在肩上，统筹发展和安全，进一步抓实抓细行业安全各项工作。 会议强调，要聚焦突出问题和关键环节，以更大力度更实举措做好行业安全工作： 一是大力整治生产安全突出隐患 。要强化重大事故隐患排查整治，深入整治消防隐患，严格规范外包管理，持续完善企业安全管理体系。 二是突出抓好寄递渠道风险防范 。要抓好寄递安全“三项制度”落实，抓实抓细行业反诈工作，加强寄",
      "source": "IT之家",
      "zh": "国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作"
-    },
-    {
-     "title": "An alignment assessment of the UK AISI cybertesting incident",
-     "link": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-     "pubDate": "Fri, 23 Oct 2026 14:44:50 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/alignment-assessment-ukaisi Comments URL: https://news.ycombinator.com/item?id=50209939 Points: 4 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "An alignment assessment of the UK AISI cybertesting incident"
     },
     {
      "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
@@ -1992,6 +1944,54 @@ window.INDUSTRY_DATA = {
      "summary": "Tim Fernholz / TechCrunch : OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges &nbsp; &mdash;&nbsp; OpenAI made its Decisions API model widely available to users for the first time, entering t",
      "source": "Techmeme",
      "zh": "OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges (Tim Fernholz/TechCrunch)"
+    },
+    {
+     "title": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025 (Katherine Davis/Axios)",
+     "link": "https://www.techmeme.com/261023/p9#a261023p9",
+     "pubDate": "Fri, 23 Oct 2026 08:40:01 -0400",
+     "summary": "Katherine Davis / Axios : Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025 &nbsp; &mdash;&nbsp; Precision oncology biotech Pathos AI said Friday it raised a $237 million Series E round at a $",
+     "source": "Techmeme",
+     "zh": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025 (Katherine Davis/Axios)"
+    },
+    {
+     "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
+     "link": "https://www.solidot.org/story?sid=85697",
+     "pubDate": "Fri, 23 Oct 2026 20:01:50 +0800",
+     "summary": "梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空。《The Starry Night》被普遍认为风格化地呈现了梵高在法国普罗旺斯圣雷米的窗外看到的景象。争议在于这片夜空究竟是这位后印象派画家自己的幻想，即象征性表达，还是真实的天文观察结果。此外这幅画的具体创作日期也无法确定。为解决这一问题，韩国庆熙大学的研究人员开发了一个框架，将天文学模拟结果与星象位置测量数据、历史天气记录，以及梵高的信件结合起来。研究人员根据描绘这片景色的早期素描重建了画中的窄视场。他们发现，下蛾眉月、金星，以及金牛座的毕星团或许肉眼可见于 188",
+     "source": "Solidot",
+     "zh": "梵高名画《The Starry Night》可能描绘的是真实的夜空"
+    },
+    {
+     "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+     "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+     "pubDate": "Fri, 23 Oct 2026 11:30:22 +0000",
+     "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+     "source": "Ars Technica",
+     "zh": "Ukraine learns to fight without Starlink as Musk plays politics with satellites"
+    },
+    {
+     "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
+     "link": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+     "pubDate": "Fri, 23 Oct 2026 11:30:00 +0000",
+     "summary": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
+     "source": "WIRED",
+     "zh": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could"
+    },
+    {
+     "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+     "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+     "pubDate": "Fri, 23 Oct 2026 11:15:03 +0000",
+     "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+     "source": "Ars Technica",
+     "zh": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees"
+    },
+    {
+     "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
+     "link": "https://www.solidot.org/story?sid=85696",
+     "pubDate": "Fri, 23 Oct 2026 19:07:11 +0800",
+     "summary": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户年龄并保护其隐私。希腊政府表示，将支持家长共同遏制“无限滚动”现象——这种行为会导致儿童睡眠不足、注意力难以集中，挤占与朋友相处的时间。",
+     "source": "Solidot",
+     "zh": "希腊通过法案禁止 15 岁以下儿童使用社媒"
     }
    ]
   },
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Fitbit Versa 4 bundle hits its lowest price since February",
+     "link": "https://www.androidauthority.com/fitbit-versa-4-bundle-deal-3727430/",
+     "pubDate": "Fri, 23 Oct 2026 17:23:04 +0000",
+     "summary": "The Fitbit Versa 4 bundle drops to $159.99 on Amazon, with GPS, heart-rate tracking, and useful extras included.",
+     "source": "Android Authority",
+     "zh": "Fitbit Versa 4 bundle hits its lowest price since February"
+    },
+    {
+     "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
+     "link": "https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
+     "pubDate": "Fri, 23 Oct 2026 17:16:26 +0000",
+     "summary": "iPhone Duo has arrived, and if you managed to snag Apple’s new foldable on launch day, here are our top recommendations for accessories. more…",
+     "source": "9to5Mac",
+     "zh": "iPhone Duo accessories: Here are five top picks for Apple’s foldable"
+    },
     {
      "title": "Save over $360 on Klipsch Flexus CORE 300 5.1.2 Dolby Atmos soundbar",
      "link": "https://www.androidauthority.com/klipsch-flexus-core-300-deal-3727409/",
@@ -2090,14 +2106,6 @@ window.INDUSTRY_DATA = {
      "zh": "Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring’s 2026 Doorbell at $45, more"
     },
     {
-     "title": "Garmin quatix 7 Pro drops to record low on Amazon",
-     "link": "https://www.androidauthority.com/garmin-quatix-7-pro-deal-3727359/",
-     "pubDate": "Fri, 23 Oct 2026 15:51:16 +0000",
-     "summary": "Save $300 on the quatix 7 Pro at a record low with autopilot controls, chartplotter data, and up to 16 days of battery.",
-     "source": "Android Authority",
-     "zh": "Garmin quatix 7 Pro drops to record low on Amazon"
-    },
-    {
      "title": "Apple Music has a fun Easter egg for the iPod's 25th anniversary",
      "link": "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/",
      "pubDate": "Fri, 23 Oct 2026 15:47:03 +0000",
@@ -2160,14 +2168,6 @@ window.INDUSTRY_DATA = {
      "summary": "OnePlus is now rolling out stable Android 17 updates to OnePlus 15 and OnePlus Pad 4, marking the end of OxygenOS as these devices are just the first to transition to ColorOS. more…",
      "source": "9to5Google",
      "zh": "OnePlus starts rolling out stable Android 17 updates early, marking the end of OxygenOS"
-    },
-    {
-     "title": "Here’s how to get fastest iPhone Duo charging",
-     "link": "https://9to5mac.com/2026/10/23/heres-how-to-get-fastest-iphone-duo-charging/",
-     "pubDate": "Fri, 23 Oct 2026 13:56:33 +0000",
-     "summary": "iPhone Duo supports fast charging in both wired and wireless setups, but only with the right accessories. Here’s what Apple says you’ll need. more…",
-     "source": "9to5Mac",
-     "zh": "Here’s how to get fastest iPhone Duo charging"
     },
     {
      "title": "vivo Y600 carrier listing reveals key specs ahead of launch",
@@ -2250,6 +2250,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Amerant anticipates $7.3B loans and $8.5B deposits by Q4 2026, while targeting 3.65%-3.70% net interest margin",
+     "link": "https://seekingalpha.com/news/4656690-amerant-anticipates-7_3b-loans-and-8_5b-deposits-by-q4-2026-while-targeting-3_65-percentminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 13:28:31 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amerant anticipates $7.3B loans and $8.5B deposits by Q4 2026, while targeting 3.65%-3.70% net interest margin"
+    },
+    {
+     "title": "美股三大指数下跌 国际油价继续走高",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906603626.html",
+     "pubDate": "Sat, 24 Oct 2026 01:23:30 +0800",
+     "summary": "美东时间周五，美股三大指数下跌，截至发稿，道指跌1.24%，纳指跌0.13%，标普500指数跌0.49%。 商品市场方面，国际油价继续走高 ，截至发稿，WTI原油 期货 涨3.57%，报103.02美元/桶。 全球要闻 多个票仓转为摇摆州！特朗普再承诺拨款1.5亿美元提高燃料产量 周四，美国总统特朗普援引《国防生产法》，宣布政府将拨款1.5亿美元用于提高国内汽油和柴油产量，希望借此缓解美国国内的燃料短缺。《国防生产法》是美国在冷战时期颁布的一项法律，赋予美国总统广泛的权力，以增加美国国内资源的生产，用于国防目的。 美国能源部在一份新闻稿中指出，这笔资金预计将使美国炼油产量每天增加数百万加仑（一",
+     "source": "东方财富股票",
+     "zh": "美股三大指数下跌 国际油价继续走高"
+    },
+    {
+     "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+     "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+     "pubDate": "Fri, 23 Oct 2026 17:23:08 GMT",
+     "summary": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
+     "source": "CNBC",
+     "zh": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses"
+    },
+    {
+     "title": "月之暗面发布Kimi K3.1 Pro和K3.1 Pro Highspeed",
+     "link": "http://finance.eastmoney.com/news/1360,202610243906814532.html",
+     "pubDate": "Sat, 24 Oct 2026 01:21:38 +0800",
+     "summary": "月之暗面发布Kimi K3.1 Pro和K3.1 Pro Highspeed。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "月之暗面发布Kimi K3.1 Pro和K3.1 Pro Highspeed"
+    },
+    {
+     "title": "American Express is cutting 5% of its workforce to &apos;prepare for AI&apos;",
+     "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+     "pubDate": "Fri, 23 Oct 2026 17:21:10 GMT",
+     "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
+     "source": "CNBC",
+     "zh": "American Express is cutting 5% of its workforce to &apos;prepare for AI&apos;"
+    },
+    {
+     "title": "SLB surges on strong Q3 results, upbeat 2027 outlook as Middle East rebounds",
+     "link": "https://seekingalpha.com/news/4656683-slb-surges-on-strong-q3-results-upbeat-2027-outlook-as-middle-east-rebounds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 13:18:44 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SLB surges on strong Q3 results, upbeat 2027 outlook as Middle East rebounds"
+    },
+    {
      "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
      "link": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
      "pubDate": "Fri, 23 Oct 2026 17:15:08 GMT",
@@ -2298,20 +2346,20 @@ window.INDUSTRY_DATA = {
      "zh": "Musk&apos;s SpaceX is still restricting Starlink in Ukraine and the toll is rising"
     },
     {
-     "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-     "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-     "pubDate": "Fri, 23 Oct 2026 17:04:10 GMT",
-     "summary": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
-     "source": "CNBC",
-     "zh": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses"
-    },
-    {
      "title": "美国至10月23日当周石油钻井总数报460口",
      "link": "http://finance.eastmoney.com/news/1356,202610243906814211.html",
      "pubDate": "Sat, 24 Oct 2026 01:01:33 +0800",
      "summary": "美国至10月23日当周石油钻井总数报460口，前值459口。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "美国至10月23日当周石油钻井总数报460口"
+    },
+    {
+     "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+     "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 17:01:00 GMT",
+     "summary": "Rise in energy prices pushes US inflation expectations higher",
+     "source": "Financial Times",
+     "zh": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities"
     },
     {
      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
@@ -2338,36 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI&apos;s &apos;Black October&apos;: Critical PHP flaws set off global security scramble"
     },
     {
-     "title": "Odds of oil reaching $110 by October-end rise to 34%",
-     "link": "https://seekingalpha.com/news/4656685-odds-of-oil-reaching-110-by-october-end-rise-to-34-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 12:54:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Odds of oil reaching $110 by October-end rise to 34%"
-    },
-    {
-     "title": "美股三大指数表现分化 国际油价继续走高",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906603626.html",
-     "pubDate": "Sat, 24 Oct 2026 00:54:28 +0800",
-     "summary": "美东时间周五，美股三大指数表现分化，截至发稿，道指跌1.01%，纳指涨0.03%，标普500指数跌0.29%。 商品市场方面，国际油价继续走高 ，截至发稿，WTI原油 期货 涨3.57%，报103.02美元/桶。 全球要闻 多个票仓转为摇摆州！特朗普再承诺拨款1.5亿美元提高燃料产量 周四，美国总统特朗普援引《国防生产法》，宣布政府将拨款1.5亿美元用于提高国内汽油和柴油产量，希望借此缓解美国国内的燃料短缺。《国防生产法》是美国在冷战时期颁布的一项法律，赋予美国总统广泛的权力，以增加美国国内资源的生产，用于国防目的。 美国能源部在一份新闻稿中指出，这笔资金预计将使美国炼油产量每天增加数百万加仑",
-     "source": "东方财富股票",
-     "zh": "美股三大指数表现分化 国际油价继续走高"
-    },
-    {
      "title": "默沙东与莫德纳合作开发mRNA肿瘤疫苗三期临床达标 市场为何不买账？",
      "link": "http://finance.eastmoney.com/news/1354,202610233906797766.html",
      "pubDate": "Sat, 24 Oct 2026 00:50:32 +0800",
      "summary": "当地时间10月22日，美国药企 默沙东 与 疫苗 公司莫德纳（Moderna）合作开发的个性化mRNA（信使核糖核酸）肿瘤 疫苗 Intismeran Autogene（以下简称“Intismeran”）三期临床数据截图在社交平台传播。相关完整数据原计划于10月24日在欧洲肿瘤内科学会（ESMO）年会上首次公布。欧洲肿瘤内科学会随后确认禁发令违规，两家企业随即提前对外公开该药物的完整试验结果。 试验数据显示，研究主要终点、次要终点均达到统计学阳性标准，具备临床获益。不过，《每日经济新闻》记者注意到，二级市场反应剧烈，10月22日莫德纳股价下跌17.57%，10月23日盘中跌幅一度超过9%； 默",
      "source": "东方财富股票",
      "zh": "默沙东与莫德纳合作开发mRNA肿瘤疫苗三期临床达标 市场为何不买账？"
-    },
-    {
-     "title": "First Bank targets $300m annual loan growth for 2027 as it launches $24m buyback",
-     "link": "https://seekingalpha.com/news/4656682-first-bank-targets-300m-annual-loan-growth-for-2027-as-it-launches-24m-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 12:48:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "First Bank targets $300m annual loan growth for 2027 as it launches $24m buyback"
     },
     {
      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
@@ -2394,28 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "一艘油轮在霍尔木兹海峡被不明抛射物击中"
     },
     {
-     "title": "芝加哥期权交易所旗下Cboe Clear U.S.获准扩大清算业务范围",
-     "link": "http://finance.eastmoney.com/news/1354,202610243906812461.html",
-     "pubDate": "Sat, 24 Oct 2026 00:33:52 +0800",
-     "summary": "芝加哥期权交易所 旗下Cboe Clear U.S.获美国证券交易委员会（SEC）批准，扩大其清算业务范围。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "芝加哥期权交易所旗下Cboe Clear U.S.获准扩大清算业务范围"
-    },
-    {
      "title": "从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场",
      "link": "https://wallstreetcn.com/articles/3784352",
      "pubDate": "Sat, 24 Oct 2026 00:07:49 +0800",
      "summary": "以芯片为抵押物的结构性融资，正在成为全球AI扩张的核心资金引擎，并迅速发展为一个规模可能突破万亿美元的全新资产类别。 这一市场的雏形始于2023年黑石向CoreWeave提供的一笔23亿美元私募信贷，成为芯片抵押债务的首单标志性交易。 如今，博通正与华尔街机构磋商为Anthropic安排600亿美元芯片融资，SpaceX据报正寻求为英伟达芯片融资400亿美元，英伟达本身亦宣布与六大贷款机构达成5000亿美元合作框架。 摩根大通分析师预计，2030年前芯片支出总额或超3万亿美元，其中大部分将依赖举债融资。 然而，这场债务扩张也带来不容忽视的风险。由于交易多为私募性质，投资者缺乏便捷的退出渠道；芯",
      "source": "华尔街见闻",
      "zh": "从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场"
-    },
-    {
-     "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
-     "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-     "pubDate": "Fri, 23 Oct 2026 16:06:43 GMT",
-     "summary": "Rise in energy prices pushes US inflation expectations higher",
-     "source": "Financial Times",
-     "zh": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities"
     },
     {
      "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
      "source": "MarketWatch",
      "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
-    },
-    {
-     "title": "American Express is cutting 5% of its workforce to &apos;prepare for AI&apos;",
-     "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-     "pubDate": "Fri, 23 Oct 2026 15:04:33 GMT",
-     "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
-     "source": "CNBC",
-     "zh": "American Express is cutting 5% of its workforce to &apos;prepare for AI&apos;"
     },
     {
      "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",

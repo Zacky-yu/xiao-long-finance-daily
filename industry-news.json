@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/23 12:29:58",
+ "generated_at": "2026/10/23 12:37:52",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+     "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
+     "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+     "source": "TechCrunch AI",
+     "zh": "Uber 竞争对手 inDrive 计划与 Pony.ai 和 Nvidia 合作，于 2027 年在中亚进行机器人出租车测试"
+    },
     {
      "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
      "link": "https://arxiv.org/abs/2610.28686",
@@ -78,7 +86,7 @@
      "pubDate": "Thu, 22 Oct 2026 22:24:34 GMT",
      "summary": "",
      "source": "Hugging Face",
-     "zh": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体"
+     "zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体"
     },
     {
      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -113,14 +121,6 @@
      "zh": "使用 Decisions API 构建响应速度更快的应用程序"
     },
     {
-     "title": "Canva releases its first image generation model",
-     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-     "source": "TechCrunch AI",
-     "zh": "Canva 发布首个图像生成模型"
-    },
-    {
      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
@@ -129,20 +129,20 @@
      "zh": "随着决策模型竞争的升温，OpenAI 使其 Jev 竞争对手得到广泛应用"
     },
     {
+     "title": "Canva releases its first image generation model",
+     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+     "source": "TechCrunch AI",
+     "zh": "Canva 发布首个图像生成模型"
+    },
+    {
      "title": "The Foundations of Scalable AI",
      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
      "pubDate": "Thu, 22 Oct 2026 18:48:04 +0000",
      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how",
      "source": "MIT Tech Review AI",
      "zh": "可扩展人工智能的基础"
-    },
-    {
-     "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-     "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-     "pubDate": "Thu, 22 Oct 2026 18:43:53 +0000",
-     "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-     "source": "TechCrunch AI",
-     "zh": "微软的穆斯塔法·苏莱曼（Mustafa Suleyman）表示，在他追求“医疗超级智能”时，其人工智能在疑难病例上的表现优于医生"
     },
     {
      "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
@@ -278,7 +278,7 @@
      "pubDate": "Fri, 23 Oct 2026 03:58:39 GMT",
      "summary": "Nvidia has won a CPU supply order from AI startup Modal, challenging Intel and AMD in the server CPU market as it expands beyond GPUs into general-purpose computing. Although Modal's annual revenue is below US$1 billion, and neither the order's value nor its deployment scale has been disclosed, the ",
      "source": "DIGITIMES",
-     "zh": "分析：Nvidia 的 Vera CPU 通过平台竞争与英特尔和 AMD 展开竞争"
+     "zh": "分析：Nvidia 的 Vera CPU 通过平台挑战英特尔和 AMD"
     },
     {
      "title": "JCET's AI profit surge sets up US$2.73 billion advanced packaging expansion",
@@ -649,14 +649,6 @@
    "total": 5,
    "items": [
     {
-     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-     "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
-     "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-     "source": "TechCrunch Transport",
-     "zh": "Uber 竞争对手 inDrive 计划与 Pony.ai 和 Nvidia 合作，于 2027 年在中亚进行机器人出租车测试"
-    },
-    {
      "title": "Nio Firefly launches larger 60-kWh battery pack, extending range to 560 km",
      "link": "https://cnevpost.com/2026/10/23/nio-firefly-launches-60-kwh-battery-pack/",
      "pubDate": "Fri, 23 Oct 2026 02:31:36 +0000",
@@ -686,7 +678,7 @@
      "pubDate": "Fri, 23 Oct 2026 00:06:23 +0000",
      "summary": "Chery has announced a 1.44 megawatt charging system, able to deliver 500km (311 miles) in 5 minutes. And it’s not even the fastest system available in China. more…",
      "source": "Electrek",
-     "zh": "又一兆瓦级充电器进入中国：5分钟行驶300英里"
+     "zh": "又一兆瓦级充电器进入中国：5分钟300英里"
     },
     {
      "title": "sonnen files for insolvency in Germany as US sales double",
@@ -855,6 +847,14 @@
      "summary": "ACME Solar has signed a 300MW/1,200MWh PPA with the Solar Energy Corporation of India (SECI) for a solar-plus-storage portfolio.",
      "source": "Energy Storage News",
      "zh": "ACME Solar 与 SECI 签署 1.2GWh PPA，用于印度可再生能源资产在非太阳能时段供应清洁能源"
+    },
+    {
+     "title": "Hyundai Motor Delivers Bali’s First Electric Buses for Public Transport",
+     "link": "https://cleantechnica.com/2026/10/22/hyundai-motor-delivers-balis-first-electric-buses-for-public-transport/",
+     "pubDate": "Fri, 23 Oct 2026 03:53:54 +0000",
+     "summary": "Hyundai Motor partners with Laksana to deliver 11 COUNTY EV buses to GGGI for the first electric bus public transportation pilot project in Bali, Indonesia Field quality assurance program to monitor vehicle quality and driving performance for project success Hyundai Motor aims to expand electrified ",
+     "source": "CleanTechnica",
+     "zh": "现代汽车交付巴厘岛首辆公共交通电动巴士"
     },
     {
      "title": "Hyundai Motor Group & Rhode Island School of Design Collaborate on Regenerative Biodesign Strategies and the Future of Mobility",
@@ -1039,14 +1039,6 @@
      "summary": "The Chinese company says it will convert the manufacturing capacity at its base in Tianjin into its proprietary all-back-contact (ABC) technology as the efficiency of passivated emitter and rear contact (PERC) solar cells reaches “a bottleneck”. The post Aiko to convert PERC factory into 6 GW of ABC",
      "source": "pv magazine",
      "zh": "Aiko 将 PERC 工厂改造为 6 GW ABC 电池产能"
-    },
-    {
-     "title": "Solar Power Keeps Insisting Upon Itself, Red State Or Blue",
-     "link": "https://cleantechnica.com/2026/10/22/solar-power-reduces-electricity-costs-texas-california/",
-     "pubDate": "Thu, 22 Oct 2026 12:29:56 +0000",
-     "summary": "Solar power has helped keep wholesale electricity rates down in Texas and California over the past five years, regardless of partisan politics and heat waves, too. The post Solar Power Keeps Insisting Upon Itself, Red State Or Blue appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "太阳能不断坚持自己，红州还是蓝州"
     },
     {
      "title": "Iraq removes import tariffs on solar systems",
@@ -1374,7 +1366,7 @@
      "pubDate": "Thu, 22 Oct 2026 16:20:37 +0000",
      "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
      "source": "NASA",
-     "zh": "美国宇航局哈勃望远镜用引力透镜绘制了罗曼的路径"
+     "zh": "美国宇航局哈勃望远镜用引力透镜绘制了罗马人的路径"
     },
     {
      "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
@@ -1598,7 +1590,7 @@
      "pubDate": "Thu, 22 Oct 2026 15:12:51 -0400",
      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
      "source": "BleepingComputer",
-     "zh": "LiteLLM 发布管道遭到黑客攻击，用于传播信息窃取恶意软件"
+     "zh": "LiteLLM 发布管道被黑客攻击以传播信息窃取恶意软件"
     },
     {
      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
@@ -1761,6 +1753,38 @@
    "total": 18,
    "items": [
     {
+     "title": "为什么人类不会陷入死循环？",
+     "link": "https://www.huxiu.com/article/4899847.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 12:33:27 +0800",
+     "summary": "本文来自微信公众号： 神经现实 ，作者：Anil Seth，编译：EY 我们准时降落在马德里巴拉哈斯机场，却迟迟无法下机。原来，这里的登机廊桥由一套新的人工智能系统操控。无需人类介入——直到非介入不可。我透过舷窗，看见AI操控的廊桥反复靠近飞机，在清晨的空气中轻轻晃动，徒劳地尝试对接，然后又退回去。如此往复，陷入了无限循环。最后，一名工作人员赶来解围，一眼就看出了问题，并立刻解决了它。 人类不会无休止地重复同一种行为，AI却有时会如此：它可能卡在停机坪上，也可能困在自动化呼叫中心的炼狱里。这些例子看似只是智能不足，但我认为，它们指向更深层的问题：一种根本性局限，可能让最聪明的AI也永远无法摆脱",
+     "source": "虎嗅",
+     "zh": "为什么人类不会陷入死循环？"
+    },
+    {
+     "title": "破风而行淬火而生：一加 Ace 7 系列设计IT之家实拍图赏",
+     "link": "https://www.ithome.com/1/016/959.htm",
+     "pubDate": "Fri, 23 Oct 2026 04:32:14 GMT",
+     "summary": "IT之家 10 月 23 日消息，今天上午， 一加 Ace 7 系列外观已经正式公布 ，冷暖两套全新配色，将力量感与工业美学融于机身。 其中，一加 Ace 7 Pro 主打浅蓝色的「破风」配色，玻璃后盖采用图形化蚀刻与多层纹理复合工艺，将 ACE 标识与层层扩散的风暴气流纹路融为一体，定格“破开风暴”的凌厉视觉；而一加 Ace 7 则带来红色的「淬火」配色，呈现出更具张力的性能质感。 IT之家拿到了一加 Ace 7 Pro「破风」，以及一加 Ace 7 「淬火」配色，接下来就为大家带来实拍图赏。 整机延续家族旗舰设计语言，金属魔方 Deco、金属中框与黄金大 R 角勾勒出规整统一的轮廓，兼顾一",
+     "source": "IT之家",
+     "zh": "破风而行淬火而生：一加 Ace 7 系列设计IT之家实拍图赏"
+    },
+    {
+     "title": "跑步上岗的具身智能：谁在赚吆喝，谁在算细账",
+     "link": "https://www.tmtpost.com/8178732.html",
+     "pubDate": "Fri, 23 Oct 2026 12:30:00 +0800",
+     "summary": "热闹的钱好赚，普通日子的钱难赚。",
+     "source": "钛媒体",
+     "zh": "跑步上岗的具身智能：谁在赚吆喝，谁在算细账"
+    },
+    {
+     "title": "梁文锋雪中送炭曾毓群",
+     "link": "https://www.huxiu.com/article/4899846.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 12:29:23 +0800",
+     "summary": "本文来自微信公众号： 字母榜 ，作者：思博 梁文锋出手，替宁德时代给资本市场递下一颗定心丸。 10月22日，据外媒报道，DeepSeek新一轮融资约1000亿元，宁德时代是主要投资方之一。此前，据媒体报道，宁德体系已在DeepSeek首轮融资中投入约50亿元，成为仅次于腾讯的主要外部投资方。 表面上看，宁德时代给DeepSeek投了钱，利好的是DeepSeek，但这条消息其实是DeepSeek给宁德时代雪中送炭，因为现在宁德时代才是需要帮助的那一方。眼下正是宁德时代跟资本市场最紧张的时刻，它急需一个能让投资者安心的理由。 几天前，它刚交出一份让市场担忧的三季报：营收1652亿元虽然创历史新高，",
+     "source": "虎嗅",
+     "zh": "梁文锋雪中送炭曾毓群"
+    },
+    {
      "title": "西藏那曲市巴青县发生 7.0 级地震，中国移动、联通、电信紧急驰援",
      "link": "https://www.ithome.com/1/016/957.htm",
      "pubDate": "Fri, 23 Oct 2026 04:26:51 GMT",
@@ -1873,14 +1897,6 @@
      "zh": "华为阔折叠手机出货量破 321 万台：消息称 iPhone Duo 预售 6 天，Pura X Max 销量环比提升 38%"
     },
     {
-     "title": "红魔 RedMagicOS 12 适配机型公布：11 Pro / 11S Pro 系列手机 12 月升级",
-     "link": "https://www.ithome.com/1/016/905.htm",
-     "pubDate": "Fri, 23 Oct 2026 04:06:50 GMT",
-     "summary": "IT之家 10 月 23 日消息，红魔游戏手机官方今日发布了 RedMagicOS 12 版本升级公告。计划陆续适配的机型如下： 2026 年 12 月：红魔 11 Pro / 11S Pro 系列 2027 年 1 月：红魔游戏平板 5 Pro 2027 年 3 月：红魔 10 Pro / 10S Pro 系列、红魔 11 Air、红魔电竞平板 3 Pro 2027 年 4 月：红魔 10 Air 官方表示， 版本推送机制为分批推送 ，未检测到更新的用户请耐心等待。 IT之家附 RedMagicOS 12 主要升级内容如下： 全新视觉体验：超未来主义美学 | 巨幕时钟； 全场景 AI：更懂你",
-     "source": "IT之家",
-     "zh": "红魔 RedMagicOS 12 适配机型公布：11 Pro / 11S Pro 系列手机 12 月升级"
-    },
-    {
      "title": "是什么研究要科学家踩四万多次毒蛇，而且最终论文还被撤稿？",
      "link": "https://www.huxiu.com/article/4899841.html?f=rss",
      "pubDate": "Fri, 23 Oct 2026 12:06:42 +0800",
@@ -1889,28 +1905,12 @@
      "zh": "是什么研究要科学家踩四万多次毒蛇，而且最终论文还被撤稿？"
     },
     {
-     "title": "给麻六记做了三年酸辣粉的阿宽，把自己做“没”了",
-     "link": "https://www.huxiu.com/article/4899840.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 12:01:13 +0800",
-     "summary": "出品｜虎嗅商业消费组 作者｜李佳琪 编辑｜苗正卿 题图｜阿宽食品 10月21日，新三板挂牌刚满720天的阿宽食品，停牌了。 官方理由是：集中精力投入经营发展，降低运营成本。但第二天冲上热搜的另一条消息，打破了这份体面：阿宽食品2026年半年报显示，它曾经最大的客户麻六记，如今以442.8万元应收账款，位列其第一大欠款方。 麻六记的反应也很快，当天下午即发布情况说明：应收账款不等于&ldquo;欠款&rdquo;，都是正常账期内的阶段性账款。 这话挑不出毛病。但真正值得琢磨的是另一个问题：三年前，麻六记一年从阿宽采购2个亿；三年后，它&ldquo;欠&rdquo;着阿宽442万，就已经是阿宽最大",
-     "source": "虎嗅",
-     "zh": "给麻六记做了三年酸辣粉的阿宽，把自己做“没”了"
-    },
-    {
-     "title": "从乌镇叙事到水乡新貌，桐乡AI产业进化样本",
-     "link": "https://www.tmtpost.com/8178456.html",
-     "pubDate": "Fri, 23 Oct 2026 11:59:17 +0800",
-     "summary": "桐乡不仅有在全国县市一级最完整的智能汽车产业链及“车路云一体化”试点加持，它正从乌镇峰会的“AI叙事”转变成一个工业水乡的产业进化样本。",
-     "source": "钛媒体",
-     "zh": "从乌镇叙事到水乡新貌，桐乡AI产业进化样本"
-    },
-    {
-     "title": "“谁提问题谁解决”的原则如何导致失败",
-     "link": "https://www.huxiu.com/article/4899821.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 11:50:38 +0800",
-     "summary": "本文来自微信公众号： 倒立的Saber ，作者：魏焕春 一、一个原则的诞生 季度评审会上，一位新同事提出了一个所有人都看见的问题：排期不合理，测试周期被压到三天，上线日期却提前了两周。 会议室安静了两秒。（idle） 一位老同事抬起头，语气很温和：\"提这个有什么用呢？你有能力解决吗？解决不了的话，就不要提出来。说出来，人家只会觉得你在抱怨。\" 新同事坐下了。会议继续。 先做一个提醒：在这篇文章里，我们不打算把这位老同事当成坏人。他说的这句话，甚至不是哪个人发明的恶习——它听起来更像一条原则，一条很务实的原则：反对空谈，反对养闲人，要求责任到人。谁提问题，谁解决；解决不了，就别提。 在很小的圈子",
-     "source": "虎嗅",
-     "zh": "“谁提问题谁解决”的原则如何导致失败"
+     "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
+     "link": "https://news.ycombinator.com/item?id=50204125",
+     "pubDate": "Fri, 23 Oct 2026 03:20:38 +0000",
+     "summary": "The \"product graveyard\" of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It's been hovering around 4y for quite some time. However, there's a sharp decline in 2026 leading to about 1.5y these days. https://www.saashub.com/product-graveyard That's a huge dr",
+     "source": "Hacker News",
+     "zh": "产品“寿命”中位数已从约 4 年降至约 1.5 年"
     },
     {
      "title": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats (Wall Street Journal)",
@@ -1919,6 +1919,14 @@
      "summary": "Wall Street Journal : OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats &nbsp; &mdash;&nbsp; The company fired three safety researchers for mishandling sensitive information.&nbsp; They had ",
      "source": "Techmeme",
      "zh": "OpenAI 怀疑这三名被解雇的研究人员向人工智能安全研究员 Ryan Greenblatt 泄露了内部模型设计，包括通过消失的 Signal 聊天记录（《华尔街日报》）"
+    },
+    {
+     "title": "This I Believe",
+     "link": "https://www.awakin.org/v2/read/view.php?tid=468",
+     "pubDate": "Fri, 23 Oct 2026 02:19:38 +0000",
+     "summary": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468 Comments URL: https://news.ycombinator.com/item?id=50203759 Points: 9 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "我相信这一点"
     },
     {
      "title": "Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers&apos; phones within seven days of notice (Sarah Perez/TechCrunch)",
@@ -1937,6 +1945,14 @@
      "zh": "美国财政部提议加强对美国在中国、俄罗斯和其他“受关注国家”的人工智能和超级计算等领域投资的限制（美联社）"
     },
     {
+     "title": "The foolishness of \"natural language programming\" (1978)",
+     "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+     "pubDate": "Fri, 23 Oct 2026 00:52:01 +0000",
+     "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 67 # Comments: 57",
+     "source": "Hacker News",
+     "zh": "“自然语言编程”的愚蠢（1978）"
+    },
+    {
      "title": "An interview with Ondřej Surý, a volunteer who maintains PHP and automates its patches, about his role in fixing two critical PHP security vulnerabilities (Charlie Warzel/The Atlantic)",
      "link": "https://www.techmeme.com/261022/p58#a261022p58",
      "pubDate": "Thu, 22 Oct 2026 20:30:02 -0400",
@@ -1953,52 +1969,28 @@
      "zh": "德国能源公司 PreussenElektra 表示正在与 Nvidia 合作评估该国闲置核电站是否可以转变为数据中心（Eva Brendel/彭博社）"
     },
     {
+     "title": "Mapping the Northern Sky",
+     "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+     "pubDate": "Thu, 22 Oct 2026 23:56:39 +0000",
+     "summary": "Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/ Comments URL: https://news.ycombinator.com/item?id=50202766 Points: 23 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "绘制北方天空图"
+    },
+    {
+     "title": "Jank – The native Clojure dialect with seamless C++ interop",
+     "link": "https://jank-lang.org/",
+     "pubDate": "Thu, 22 Oct 2026 23:56:36 +0000",
+     "summary": "Article URL: https://jank-lang.org/ Comments URL: https://news.ycombinator.com/item?id=50202762 Points: 42 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Jank – 具有无缝 C++ 互操作的本机 Clojure 方言"
+    },
+    {
      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
      "pubDate": "Thu, 22 Oct 2026 23:50:41 +0000",
      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
      "source": "TechCrunch",
      "zh": "马克·扎克伯格的创意计划是在不失去 Meta 控制权的情况下缴纳加州拟议的亿万富翁税"
-    },
-    {
-     "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-     "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-     "pubDate": "Thu, 22 Oct 2026 23:15:00 +0000",
-     "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-     "source": "TechCrunch",
-     "zh": "Warhound 筹集了 2 亿美元来设计战犬并为它们配备 Anduril 装备"
-    },
-    {
-     "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
-     "link": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
-     "pubDate": "Thu, 22 Oct 2026 23:15:00 +0000",
-     "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-     "source": "WIRED",
-     "zh": "Palmer Luckey 创办了一家转基因军犬初创公司"
-    },
-    {
-     "title": "a16z rebrands a16z Crypto as a16z Frontier and expands the fund&apos;s scope to back startups developing AI, robotics, and other emerging technologies (Camila Grigera Naón/Fortune)",
-     "link": "https://www.techmeme.com/261022/p56#a261022p56",
-     "pubDate": "Thu, 22 Oct 2026 19:05:43 -0400",
-     "summary": "Camila Grigera Na&oacute;n / Fortune : a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies &nbsp; &mdash;&nbsp; In 2018, Andreessen Horowitz made a splash in the venture capital world by launching a spin-of",
-     "source": "Techmeme",
-     "zh": "a16z 将 a16z Crypto 更名为 a16z Frontier，并扩大基金范围，以支持开发人工智能、机器人和其他新兴技术的初创公司（Camila Grigera Naón/财富）"
-    },
-    {
-     "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-     "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-     "pubDate": "Thu, 22 Oct 2026 22:34:54 +0000",
-     "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-     "source": "TechCrunch",
-     "zh": "随着区块链投资不再流行，a16z Crypto 更名为 a16z Frontier"
-    },
-    {
-     "title": "What to Know About Shamonda Virus Following the First Reported Human Infection",
-     "link": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
-     "pubDate": "Thu, 22 Oct 2026 22:26:57 +0000",
-     "summary": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
-     "source": "WIRED",
-     "zh": "首次报告人类感染后，关于沙蒙达病毒的了解"
     }
    ]
   },
@@ -2014,7 +2006,7 @@
      "pubDate": "Fri, 23 Oct 2026 05:31:02 +0200",
      "summary": "Back in late August, Nothing unveiled Nothing OS 5.0 based on Android 17 and opened its beta to the Phone (3). The program has since expanded to more devices, and the Phone (3) is already receiving the stable version. Today the open beta is becoming available for the Nothing Phone (2a) and Phone (2a",
      "source": "GSMArena",
-     "zh": "另外两款 Nothing 手机获得 Nothing OS 5.0 测试版"
+     "zh": "另外两款Nothing手机获得Nothing OS 5.0测试版"
     },
     {
      "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
@@ -2257,6 +2249,14 @@
    "total": 13,
    "items": [
     {
+     "title": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著",
+     "link": "http://www.eeo.com.cn/2026/1023/1073384.shtml",
+     "pubDate": "Fri, 23 Oct 2026 12:35:18 +0800",
+     "summary": "多位首席经济学家表示，现金流是判断AI泡沫争议的核心指标，当前AI产业链上中下游企业现金流分化显著。",
+     "source": "经济观察网",
+     "zh": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著"
+    },
+    {
      "title": "S&P Global declares $0.45 dividend",
      "link": "https://seekingalpha.com/news/4656421-s-and-p-global-declares-0_45-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 00:26:31 -0400",
@@ -2265,12 +2265,36 @@
      "zh": "S&P Global 宣布派息 0.45 美元"
     },
     {
+     "title": "上海多区发布台风蓝色预警 今傍晚至明天暴雨 局部大暴雨",
+     "link": "http://finance.eastmoney.com/news/11790,202610233905844872.html",
+     "pubDate": "Fri, 23 Oct 2026 12:24:18 +0800",
+     "summary": "01.台风动态 今年第30号台风“蔷琵”(强台风级)，今天（10月23日）10点钟中心位置位于距离我国台湾台北市东南方向约325公里的海面上。预计，“蔷琵”将以每小时20公里左右的速度继续向西北方向移动，逐渐向台湾东北部沿海靠近，强度缓慢减弱，不排除23日夜间到24日早晨擦过台湾岛东北部的可能；24日上午移入东海南部后，将向偏北或北偏西方向移动，将于25日前后沿浙江东部近海北上，之后转向东北方向，趋向日本西南部沿海，尚不排除25日擦过浙江沿海的可能。 今天9时浦东新区、奉贤区、崇明区、金山区、宝山区和青浦区气象台已发布台风蓝色预警信号。 （截至11:40，上海分区预警图如下） 02.今明天气 ",
+     "source": "东方财富股票",
+     "zh": "上海多区发布台风蓝色预警 今傍晚至明天暴雨 局部大暴雨"
+    },
+    {
      "title": "新易盛：对今明两年业务发展持积极预期 拟8亿元—10亿元回购公司股份",
      "link": "http://finance.eastmoney.com/news/1345,202610233905843442.html",
      "pubDate": "Fri, 23 Oct 2026 12:23:22 +0800",
      "summary": "新易盛 10月23日午间公布回购公司股份方案，本次回购股份资金不低于8亿元且不超过10亿元。本次回购股份价格不超过500元/股，用于 股权激励 或员工持股计划，本次具体回购资金总额以实际使用的资金总额为准。 另外，公司公告，随着 人工智能 应用不断发展，全球云服务厂商持续加 大数据 中心及算力基础设施投入，由此催生了爆发式增长的AI算力需求。目前，AI基础设施建设及光互联技术升级作为产业链的重要增长支撑，行业基本面未发生变化，整体发展趋势向好。 截至公告披露日，公司生产经营活动有序开展，在手订单充足，800G和1.6T是今年交付的主力产品，订单交付及产能扩充正按业务需求推进，其中1.6T光模块",
      "source": "东方财富股票",
      "zh": "新易盛：对今明两年业务发展持积极预期 拟8亿元—10亿元回购公司股份"
+    },
+    {
+     "title": "随着人工智能涨势放缓 美国养老金巨头CalPERS减持大型科技股",
+     "link": "http://stock.eastmoney.com/news/1440,202610233905844488.html",
+     "pubDate": "Fri, 23 Oct 2026 12:23:14 +0800",
+     "summary": "据报道，美国最大的公共养老基金——加州公共雇员退休系统（Calpers）已在2026年上半年大幅削减了对科技巨头的持仓，将其直接持有的“科技七巨头（Magnificent 7）”股票数量减少了26%。这一举动表明，随着全球对 人工智能 （AI）投资可持续性的担忧加剧，大型机构投资者正在积极降低市场集中度风险。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "随着人工智能涨势放缓 美国养老金巨头CalPERS减持大型科技股"
+    },
+    {
+     "title": "iPhone Duo沪广两地二手回收价高开低走 版本分化明显",
+     "link": "http://finance.eastmoney.com/news/1354,202610233905844577.html",
+     "pubDate": "Fri, 23 Oct 2026 12:22:16 +0800",
+     "summary": "苹果 首款折叠屏手机iPhone Duo发售。财联社记者实探上海、广州线下门店了解到，两地二手回收行情相近，当日溢价呈现高开回落、版本分化特征。上午9：50分，上海有黄牛表示，各版本普遍可加价1000元以上回收，溢价上限在2000元以内。10：30左右，多名在广州的“黄牛”称iPhone Duo 1TB存储版本热度最高，早上溢价达2200元，现已回落至1600—1800元区间；512GB版本溢价从1100—1400元不等。有黄牛直言，“256G撑死卖1000元，赶紧卖”，目前报价普遍在800-900元，部分黄牛则直接拒收；2TB版本方面有黄牛称暂无报价，亦有加价几百元回收。 （文章来源：财联社",
+     "source": "东方财富股票",
+     "zh": "iPhone Duo沪广两地二手回收价高开低走 版本分化明显"
     },
     {
      "title": "高端美妆回暖，欧莱雅三季度销售超预期",
@@ -2319,30 +2343,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "特朗普：庞巴迪将在美国投资2.7亿美元，为3个州创造就业机会"
-    },
-    {
-     "title": "刘海星会见法国驻华大使白玉堂",
-     "link": "http://finance.eastmoney.com/news/11790,202610233905843046.html",
-     "pubDate": "Fri, 23 Oct 2026 12:16:18 +0800",
-     "summary": "10月22日，中共中央对外联络部部长刘海星在北京会见法国驻华大使白玉堂。双方就中法关系、中欧关系以及共同关心的国际和地区问题交换了看法。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "刘海星会见法国驻华大使白玉堂"
-    },
-    {
-     "title": "新易盛摩根大通将纳斯达克目标价从120美元上调至122美元",
-     "link": "http://finance.eastmoney.com/news/1354,202610233905843159.html",
-     "pubDate": "Fri, 23 Oct 2026 12:14:07 +0800",
-     "summary": "新易盛 摩根大通 将 纳斯达克 目标价从120美元上调至122美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "新易盛摩根大通将纳斯达克目标价从120美元上调至122美元"
-    },
-    {
-     "title": "光迅科技：生产交付秩序正常 在手订单储备充足",
-     "link": "http://finance.eastmoney.com/news/1354,202610233905842891.html",
-     "pubDate": "Fri, 23 Oct 2026 12:14:00 +0800",
-     "summary": "光迅科技 发布关于公司近期生产经营情况的公告，截至目前，行业整体发展趋势与公司前期在定期报告中公开披露的行业判断保持一致，不存在发生重大不利变化的情况。截至本公告披露日，公司各项日常生产经营活动严格按照既定经营计划有序开展，整体运行状态平稳，未发生对公司经营产生重大不利影响的事项。公司生产交付秩序正常，研发与业务合作进展正常，公司围绕光传输、光互连等方向的在研项目有序推进，与主要客户的业务沟通与合作保持稳定。依托公司在全产业链布局的核心优势，公司目前高速光互联及光传输等主要产品的市场需求旺盛，在手订单储备充足，业务基本面发展势头良好。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "光迅科技：生产交付秩序正常 在手订单储备充足"
     },
     {
      "title": "日本核心CPI年内首破2%，超过80%经济学家预计12月加息",
@@ -2487,14 +2487,6 @@
      "summary": "近段时间，随着市场对AI热潮的担忧愈发浓烈，全球科技股遭受到不小的抛售压力。 摩根大通 在最新研报中向客户表示，AI相关个股近期的抛售行情或已接近尾声。 摩根大通 指出，自9月中旬以来，全球股票持仓结构已经出现显著重置。小摩策略师尼古劳斯·帕尼吉尔佐格鲁（Nikolaos Panigirtzoglou）称， 摩根大通 的整体股票持仓指标显示，当前股票持仓水平较前期高点大幅回落， 尽管短期仍存在一些不利因素，但仓位调整情况或将开始限制行情进一步下探。 近期市场持续担忧新兴云厂商（neoclouds）的资金链稳定性，市场观点认为，一旦这类主体融资遇阻，或将拖累整个 AI 资本扩张周期。 而摩根大通",
      "source": "东方财富资讯",
      "zh": "全球AI股惨遭拋售？摩根大通：不要慌！本轮抛售可能已近尾声"
-    },
-    {
-     "title": "直逼欧债危机时！法国债务风险开始外溢？",
-     "link": "http://bond.eastmoney.com/news/1326,202610233905599130.html",
-     "pubDate": "Fri, 23 Oct 2026 10:51:07 +0800",
-     "summary": "周四，由于市场对法国财政状况紧张及本周末再度进行街头抗议活动的担忧打压了市场情绪，法国国债与区域内避险资产德国国债的溢价，进一步扩大至了15年来的最高水平。 行情数据显示，法国基准10年期国债收益率周四尾盘报5.06%，上涨6.5个基点，此前曾一度触及5.1415%，创下自2002年7月以来的最高水平。 其与10年期德国国债的利差一度扩大至逾180个基点，创下自2011年11月欧元区债务危机以来的最大值，凸显了投资者对法国财政前景的深层担忧。 法国5年期信用违约互换(CDS)利差目前已突破100个基点，这是自2012年以来的首次…… 事实上，当法国国债收益率比意大利国债收益率高出50个基点时，",
-     "source": "东方财富资讯",
-     "zh": "直逼欧债危机时！法国债务风险开始外溢？"
     }
    ]
   },

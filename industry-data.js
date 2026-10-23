@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 14:32:09",
+ "generated_at": "2026/10/23 14:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -378,6 +378,14 @@ window.INDUSTRY_DATA = {
      "zh": "From Sequential R&D to Trusted Co-Innovation: The EPIC Model for Semiconductor Innovation"
     },
     {
+     "title": "Strong Electronics Growth 2026",
+     "link": "https://semiwiki.com/semiconductor-services/semiconductor-intelligence/375321-strong-electronics-growth-2026/",
+     "pubDate": "Thu, 22 Oct 2026 16:00:55 +0000",
+     "summary": "Growth in electronics production has been accelerating in 2026. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing an accelerating growth trend since October 2025. Japan and the 27 countries of the European Union (EU 27) showed muc",
+     "source": "SemiWiki",
+     "zh": "Strong Electronics Growth 2026"
+    },
+    {
      "title": "SEMICON West’s Autonomous Fab Vision Needs a Decision-Escalation Design",
      "link": "https://semiwiki.com/semiconductor-manufacturers/375039-semicon-wests-autonomous-fab-vision-needs-a-decision-escalation-design/",
      "pubDate": "Thu, 22 Oct 2026 15:00:59 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "GPS jamming is rising. Learn how 4G, 5G, and NTN positioning give mission-critical devices a trusted fallback when GNSS fails. The post When GPS Isn’t Enough: Building a Second Layer of Positioning appeared first on EE Times .",
      "source": "EE Times",
      "zh": "When GPS Isn’t Enough: Building a Second Layer of Positioning"
-    },
-    {
-     "title": "Beyond the Post-Mortem: How yieldHUB Live Turns the Test Floor Into an Open Window",
-     "link": "https://semiwiki.com/eda/yieldhub/375137-beyond-the-post-mortem-how-yieldhub-live-turns-the-test-floor-into-an-open-window/",
-     "pubDate": "Wed, 21 Oct 2026 17:00:16 +0000",
-     "summary": "At SEMICON West 2026 I sat down with John O’Donnell, founder and CEO, and Gillian O’Donnell, Director of Growth , to talk about how yieldHUB Live is transforming the semiconductor test floor from a blind spot into a real-time command center. For decades, semiconductor test floors have operated as hi",
-     "source": "SemiWiki",
-     "zh": "Beyond the Post-Mortem: How yieldHUB Live Turns the Test Floor Into an Open Window"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Pony AI enters Central Asia with inDrive robotaxi pilot in Kazakhstan",
+     "link": "https://cnevpost.com/2026/10/23/pony-ai-enters-central-asia-robotaxi-pilot-kazakhstan/",
+     "pubDate": "Fri, 23 Oct 2026 06:46:56 +0000",
+     "summary": "The partnership will use Kazakhstan as its initial pilot market, with robotaxis to be deployed first in the capital, Astana. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Pony AI enters Central Asia with inDrive robotaxi pilot in Kazakhstan"
+    },
+    {
      "title": "BYD steps up teasers for second-gen Seal 07 sedan, turns focus to cabin",
      "link": "https://cnevpost.com/2026/10/23/byd-steps-up-teasers-2nd-gen-seal-07/",
      "pubDate": "Fri, 23 Oct 2026 05:02:51 +0000",
@@ -802,14 +810,6 @@ window.INDUSTRY_DATA = {
      "zh": "BMW’s Electric M3 Had To First Win Over One Of Its Own"
     },
     {
-     "title": "BYD Denza to begin pre-sales of refreshed N8 SUV on October 26 with flash charging",
-     "link": "https://cnevpost.com/2026/10/22/byd-denza-pre-sales-refreshed-n8-oct-26/",
-     "pubDate": "Thu, 22 Oct 2026 11:23:15 +0000",
-     "summary": "The new Denza N8 is a large 5-seat SUV and will officially hit the market in November. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD Denza to begin pre-sales of refreshed N8 SUV on October 26 with flash charging"
-    },
-    {
      "title": "Tesla says it will start selling Cybercabs by end of year",
      "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
      "pubDate": "Thu, 22 Oct 2026 00:17:54 +0000",
@@ -841,6 +841,22 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Australian solar drives renewables to record 80.4% share of NEM generation",
+     "link": "https://www.pv-magazine.com/2026/10/23/solar-drives-all-time-peak-of-80-4-in-september-quarter/",
+     "pubDate": "Fri, 23 Oct 2026 06:34:46 +0000",
+     "summary": "Solar power drove renewables and storage to a record 80.4% share of Australia’s National Electricity Market generation in Q3 2026, with rooftop solar leading the surge. Distributed and grid-scale solar set new output records, while rapid battery growth helped shift renewable energy into evening peak",
+     "source": "pv magazine",
+     "zh": "Australian solar drives renewables to record 80.4% share of NEM generation"
+    },
+    {
+     "title": "U.S. module maker announces Department of Commerce waiver allowing cell imports",
+     "link": "https://www.pv-magazine.com/2026/10/23/u-s-module-maker-announces-department-of-commerce-waiver-allowing-cell-imports/",
+     "pubDate": "Fri, 23 Oct 2026 06:30:12 +0000",
+     "summary": "T1 Energy says it has secured federal approval to import up to 1.725 GW of solar cells for its Texas module assembly plant ahead of the Section 232 polysilicon tariffs and minimum import prices set to take effect on Dec. 4. The post U.S. module maker announces Department of Commerce waiver allowing ",
+     "source": "pv magazine",
+     "zh": "U.S. module maker announces Department of Commerce waiver allowing cell imports"
+    },
     {
      "title": "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-114-as-Houthi-Attacks-Threaten-Saudi-Energy-Infrastructure.html",
@@ -1058,28 +1074,12 @@ window.INDUSTRY_DATA = {
      "zh": "Aiko to convert PERC factory into 6 GW of ABC cell capacity"
     },
     {
-     "title": "Iraq removes import tariffs on solar systems",
-     "link": "https://www.pv-magazine.com/2026/10/22/iraq-removes-import-tariffs-on-solar-systems/",
-     "pubDate": "Thu, 22 Oct 2026 11:30:00 +0000",
-     "summary": "The measure coincides with the completion of a draft set of regulations set to govern the connection of solar energy systems to Iraq’s national grid. The post Iraq removes import tariffs on solar systems appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Iraq removes import tariffs on solar systems"
-    },
-    {
      "title": "Google plans big virtual power plant in energy-strapped PJM grid",
      "link": "https://www.canarymedia.com/articles/virtual-power-plants/google-plans-big-virtual-power-plant-in-energy-strapped-pjm-grid",
      "pubDate": "Thu, 22 Oct 2026 07:30:00 -0400",
      "summary": "Google just upped the ante on its plans to leverage the energy use of thousands of homes and businesses to free up space on the grid for data centers. The tech giant and the California-based firm Voltus announced Thursday that they are going after a gigawatt of virtual-power-plant capacity in PJM In",
      "source": "Canary Media",
      "zh": "Google plans big virtual power plant in energy-strapped PJM grid"
-    },
-    {
-     "title": "France’s storage market moves to higher durations with secondary reserve saturation ‘cliff-edge’ approaching",
-     "link": "https://www.energy-storage.news/frances-storage-market-moves-to-higher-durations-with-secondary-reserve-saturation-cliff-edge-approaching/",
-     "pubDate": "Thu, 22 Oct 2026 10:51:49 +0000",
-     "summary": "BESS investments in the French market are moving to longer durations with saturation expected to hit the secondary reserve market, currently the main way operational projects make their money.",
-     "source": "Energy Storage News",
-     "zh": "France’s storage market moves to higher durations with secondary reserve saturation ‘cliff-edge’ approaching"
     }
    ]
   },
@@ -1538,6 +1538,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+     "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+     "pubDate": "Fri, 23 Oct 2026 06:39:29 +0000",
+     "summary": "After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016. The post Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016 appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016"
+    },
+    {
      "title": "State Bank of India Suffers a Customer PII Data Leak",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
      "pubDate": "Fri, 23 Oct 2026 03:30:00 GMT",
@@ -1706,14 +1714,6 @@ window.INDUSTRY_DATA = {
      "zh": "Splunk, SolarWinds Release Fresh Security Updates"
     },
     {
-     "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-     "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-     "pubDate": "Thu, 22 Oct 2026 10:05:21 +0000",
-     "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Cisco Patches 34 Vulnerabilities Across Multiple Products"
-    },
-    {
      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
      "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
      "pubDate": "Thu, 22 Oct 2026 05:00:00 GMT",
@@ -1754,12 +1754,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "惠普战 99 Ultra \"Gorgon Halo\" 移动工作站上架，标价 59999 元",
-     "link": "https://www.ithome.com/1/017/003.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:26:23 GMT",
-     "summary": "IT之家 10 月 23 日消息，HP（惠普）现已在电商平台上架新款的战 99 Ultra (ZHAN99 Ultra 16 G3a AI) 移动工作站。 该型号基于 AMD 锐龙 AI Max+ PRO 495 处理器， 配备 128GB 内存、1TB 存储 ，标价 59,999 元，10 月 30 日 20:00 开售。 IT之家注意到，这款机型很有可能就是全球市场的 ZBook Ultra G3a 16\" ，支持 100W 性能释放，可选 5G 蜂窝网络连接，集成 96Whr 电池，起始质量 1.9kg。 该产品在描述中提到了 2 种屏幕规格，分别 \" 4K\"（这里应指 3840×240",
+     "title": "长安猎手 K70 皮卡正式上市：具备 30kW 超级外放电功能，24.98 万元",
+     "link": "https://www.ithome.com/1/017/013.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:45:50 GMT",
+     "summary": "IT之家 10 月 23 日消息，长安汽车宣布旗下猎手 K70 皮卡正式上市，新车采用家族化外观，搭载 2.0T 增程系统，拥有 33 英寸越野 AT 胎，售价 24.98 万元。 长安猎手 K70 前脸延续家族设计，配备黑色的无边界式格栅，两侧是 T 型大灯，前包围预留绞盘安装位，支持用户按需选装，营造越野气场。车辆搭配 33 英寸越野轮胎，配套 17 英寸轮圈。车辆货箱支持分段开启，后包围拥有拖车方口，拥有合法拖拽资质。车辆离地间隙 245mm，接近角 38 度，离去角 28 度。 IT之家注意到，该车搭载增程动力系统，搭载 2.0T 发动机，最大功率 140kW，前后电机最大功率分别为 ",
      "source": "IT之家",
-     "zh": "惠普战 99 Ultra \"Gorgon Halo\" 移动工作站上架，标价 59999 元"
+     "zh": "长安猎手 K70 皮卡正式上市：具备 30kW 超级外放电功能，24.98 万元"
+    },
+    {
+     "title": "消息称三星电子为美国泰勒首座晶圆厂追加设备采购，目标 2027H2 达产",
+     "link": "https://www.ithome.com/1/017/008.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:43:09 GMT",
+     "summary": "IT之家 10 月 23 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子晶圆代工业务近期为美国得克萨斯州泰勒市生产基地的首座晶圆厂追加采购对应每月 6000 片晶圆产能的制造设备。 泰勒首座晶圆厂的设计产能为每月 2 万片晶圆，当前并未达到这一目标。随着新设备从今年底开始的逐步引进， 该晶圆厂有望在 2027 年下半年达到设计目标 。 而在首座晶圆厂日趋完善的同时， 三星晶圆代工也将于 11 月启动泰勒第二晶圆厂的施工 。该项目预计将于 2030 年投产，进一步提升三星电子在美先进制程产能。 参考 https://zdnet.co.kr/view/?no=202610231",
+     "source": "IT之家",
+     "zh": "消息称三星电子为美国泰勒首座晶圆厂追加设备采购，目标 2027H2 达产"
+    },
+    {
+     "title": "限时权益价 11.98 万元起，上汽荣威家越 07 汽车上市",
+     "link": "https://www.ithome.com/1/017/007.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:43:06 GMT",
+     "summary": "IT之家 10 月 23 日消息，荣威宣布旗下家越 07 汽车正式上市， 限时权益价 11.98 万元起 。官方同步推出多项权益，全系免费赠送豆包座舱助手智能礼、激光雷达版与激光雷达智尊版免费赠送 Momenta R7 世界模型高阶功能包，同时还提供“AI 极速制冰冷暖两用冰箱”、“后排 AI 陪看护眼娱乐屏”等配件。 荣威家越 07 车型 指导价（万元） 限时权益价（万元） 220 智享版 12.78 11.98 220 激光雷达版 13.78 12.98 320 激光雷达版 14.58 13.78 320 激光雷达至尊版 15.28 14.48 该车提供玳瑁棕、云锦白两款内饰配色与专属纹理",
+     "source": "IT之家",
+     "zh": "限时权益价 11.98 万元起，上汽荣威家越 07 汽车上市"
+    },
+    {
+     "title": "今年安卓旗舰激活量 TOP1：消息称荣耀 Magic9 系列 3 款手机累计激活超 39 万台",
+     "link": "https://www.ithome.com/1/017/006.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:37:30 GMT",
+     "summary": "IT之家 10 月 23 日消息，博主 @数码闲聊站 今日透露， 荣耀 Magic9 系列 3 款机型，W42（此处指 2026 年的第 42 个自然周，即 10 月 12 日至 10 月 18 日）累计激活 39W 完成反超， 成为今年安卓旗舰激活量 TOP1 。 博主还表示，太励志了，去年 Magic8 系列一直垫底来着。 据IT之家此前报道，荣耀 Magic9 系列于 9 月 28 日正式发布，包含 荣耀 Magic9 Pro Max 、 荣耀 Magic9 、 荣耀 Magic9 超能版 ， 售价 4499 元起。 荣耀手机此前宣布，荣耀 Magic9 系列开售一小时，全平台销量同比上",
+     "source": "IT之家",
+     "zh": "今年安卓旗舰激活量 TOP1：消息称荣耀 Magic9 系列 3 款手机累计激活超 39 万台"
+    },
+    {
+     "title": "Epic 喜加一：太空生存策略游戏《Terraspace》免费领",
+     "link": "https://www.ithome.com/1/017/005.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:36:32 GMT",
+     "summary": "IT之家 10 月 23 日消息，开发商 Black Apple 宣布旗下太空生存策略游戏《Terraspace》即日起在 Epic 游戏商城开启限时免费“喜加一”活动，玩家可以在北京时间 10 月 28 日凌晨 4 点前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/dimond-hunt-03a766 ?utm_source= chatgpt.com ）。 《Terraspace》以尚未开发的星球为舞台，玩家需要收集资源、建造生产设施，满足太空团队的基本生存需求",
+     "source": "IT之家",
+     "zh": "Epic 喜加一：太空生存策略游戏《Terraspace》免费领"
+    },
+    {
+     "title": "增幅约 14%：消息称三星 Galaxy S27 Ultra 手机配 5700mAh 电池",
+     "link": "https://www.ithome.com/1/017/004.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:36:19 GMT",
+     "summary": "IT之家 10 月 23 日消息，科技媒体 Android Authority 今天（10 月 23 日）发布博文， 报道称三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款手机所用电池现身韩国 Safety Korea 安全认证数据库。 相关电池型号分别为 EB-BS958DBY 和 EB-BS957CBY，均由中国珠海冠宇电池金湾子公司生产。 三星 Galaxy S27 Pro 手机电池认证图片 三星 Galaxy S27 Ultra 手机电池认证图片 IT之家查询公开资料，珠海冠宇成立于 2007 年，是一家从事聚合物锂离子电池研发、制造与销售的国家高新技术企",
+     "source": "IT之家",
+     "zh": "增幅约 14%：消息称三星 Galaxy S27 Ultra 手机配 5700mAh 电池"
     },
     {
      "title": "花10亿欧元请人走：宝马这笔账，起点在中国",
@@ -1768,46 +1808,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 商业对角线 ，作者：小明同学 10月8日，宝马给德国约4万名员工发去一个链接。点开后每个人都能看到一个数字：如果你愿意离开，公司准备给你多少钱。 几个小时后，系统崩了。 数万人同时登录，查询页面直接瘫痪，第二天修好之后申请量还在往上涨，宝马不得不暂停接收新申请，先处理已经提交的意向。 据德国《商报》报道，部分员工看到的数字超过65万欧元，约合人民币487万元。 一边是员工抢着走，一边是公司抢着给钱。 这件事乍看像个“德国职场福利”的段子。但只要把账算一遍就会发现：这不是一份慷慨，而是一笔精明的买卖。 而这笔买卖的起点，在中国。 01 487万，是怎么算出来的 首先需要明确",
      "source": "虎嗅",
      "zh": "花10亿欧元请人走：宝马这笔账，起点在中国"
-    },
-    {
-     "title": "V10 声浪：2028 款雷克萨斯 LFA 电动超跑路测图曝光",
-     "link": "https://www.ithome.com/1/017/001.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:24:00 GMT",
-     "summary": "IT之家 10 月 23 日消息，消息源 mr.grey_4k 昨日（10 月 22 日）在 Instagram 平台发帖，分享了一组在德国抓拍的路测图， 展示了 2028 款雷克萨斯 LFA 电动超跑。 外观方面，新车身披迷彩伪装，造型低趴修长，后尾翼处于展开状态，整体姿态比前代更具攻击性。 动力方面，与初代 LFA 标志性的 4.8 升 V10 自然吸气发动机不同，新一代车型预计采用纯电动力，并与丰田 GR GT、GR GT3 共享铝制底盘架构。IT之家附上相关路测图如下： 技术层面，新车可能成为丰田集团首款搭载固态电池的量产车型，以获得更高能量密度、更轻的电池重量以及更长的续航表现。不过",
-     "source": "IT之家",
-     "zh": "V10 声浪：2028 款雷克萨斯 LFA 电动超跑路测图曝光"
-    },
-    {
-     "title": "一汽-大众纯电轿车 ID.AURA L5 六种车色官图公布",
-     "link": "https://www.ithome.com/1/017/000.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:23:25 GMT",
-     "summary": "IT之家 10 月 23 日消息，一汽-大众今日公布了全新纯电轿车 ID.AURA L5 的六种车色。 据介绍，作为 ID. AURA 序列第二款纯电车型、首款纯电家轿，新车定位“智能大掀背、超级家轿”，将与 ID. AURA T6 共同组成一汽-大众“新能源双子星”。 该车由中德设计团队联合打造，立足中国家庭核心出行诉求。智能化方面，ID. AURA L5 部分车型将配备激光雷达。 尺寸方面，新车长宽高分别为 4883×1881×1506mm，轴距 2820mm，“得房率”达 84.4%；电动掀背尾门开启角度超 70°、开口宽度超 1000mm，号称 打破传统三厢轿车的装载能力局限 。 据I",
-     "source": "IT之家",
-     "zh": "一汽-大众纯电轿车 ID.AURA L5 六种车色官图公布"
-    },
-    {
-     "title": "首发价 3299 → 2171 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力 + 蒸汽热水混洗",
-     "link": "https://www.ithome.com/1/016/999.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:18:56 GMT",
-     "summary": "【京东活动可能随时变更，需以实付款为准】 石头 A30 Pro Steam 3.0 洗地机 2026 年 8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 2171.75 元： 领 2000-235 元券：点击下方卡片跳转详情页后，系统自动发放。 下单时选择“以旧换新 → 个护健康 → 电动牙刷 （无需回收）”补贴 150 元。 京东 石头 A30 Pro Steam 3.0 洗地机 180° 蒸汽 + 90° 热水 以旧换新后 2171.75 ",
-     "source": "IT之家",
-     "zh": "首发价 3299 → 2171 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力 + 蒸汽热水混洗"
-    },
-    {
-     "title": "“AI 教父”辛顿再抛悲观论：AI 已经拥有意识，人类必须与其友好相处",
-     "link": "https://www.ithome.com/1/016/998.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:18:33 GMT",
-     "summary": "IT之家 10 月 23 日消息，被誉为“AI 教父”之一的英国计算机科学家杰弗里 · 辛顿，再次对人类的未来发出悲观警告。 辛顿接受英国《每日电讯报》采访时坚称，AI 已经具备意识，人类必须与 AI 友好相处， 否则“我们就完了” 。 在他看来，即便是当下的 AI 模型，也拥有自己的意识。“AI 拥有与人类同等程度的主观体验。最近有篇论文发现， AI 如果认为自己在接受测试，就会改变行为。它知道自己在接受测试 。通常来说，如果一个事物能够觉察到这种情况，就意味着它有意识。意识和觉察能力基本是一回事。” 辛顿是 2018 年图灵奖的三名得主之一，并于 2024 年获得诺贝尔物理学奖。图灵奖素有",
-     "source": "IT之家",
-     "zh": "“AI 教父”辛顿再抛悲观论：AI 已经拥有意识，人类必须与其友好相处"
-    },
-    {
-     "title": "VGN 推出蜻蜓 3 mini 系列鼠标：约 52g、适合中小手，249 元起",
-     "link": "https://www.ithome.com/1/016/994.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:13:36 GMT",
-     "summary": "IT之家 10 月 23 日消息，VGN 推出蜻蜓 3 mini 系列鼠标，现已开始预售， 售价 249 元起 ： 蜻蜓 3 mini Turbo：PAW3950 Extreme，249 元 蜻蜓 3 mini Turbo+：PAW3955 Extreme，299 元 这款鼠标适合中小手，尺寸为 118×61×38mm，重量约 52g；整体经过重新设计，专为中小手用户优化，长度缩小 6% 、宽度缩小 3% 、最高点降低 5% 、背坡弧度调整 7%。 这款鼠标采用双 Nordic 54LM20 主控方案，实现了双 8K 原生回报率，按键延迟低至 0.175ms；采用 PAW3950 Extrem",
-     "source": "IT之家",
-     "zh": "VGN 推出蜻蜓 3 mini 系列鼠标：约 52g、适合中小手，249 元起"
     },
     {
      "title": "法国债务风险，开始外溢了？",
@@ -2002,6 +2002,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Sigma FP2: everything is better for the second-gen modular mirrorless camera",
+     "link": "https://www.dpreview.com/reviews/sigma-fp2-everything-is-better-for-the-second-gen-modular-mirrorless-camera/",
+     "pubDate": "Fri, 23 Oct 2026 06:30:00 +0000",
+     "summary": "The Sigma FP2 is the company’s second-generation ultra-compact full-frame mirrorless camera, and one that brings substantial improvements over the original. It’s also the world’s smallest full-frame interchangable lens camera. Sigma talks about preserving all the things that made the original fp spe",
+     "source": "DPReview",
+     "zh": "Sigma FP2: everything is better for the second-gen modular mirrorless camera"
+    },
+    {
+     "title": "Sigma launches a new line of compact, vintage-style lenses focused on character over sharpness",
+     "link": "https://www.dpreview.com/news/sigma-launches-a-new-line-of-compact-vintage-style-lenses-focused-on-character-over-sharpness/",
+     "pubDate": "Fri, 23 Oct 2026 06:30:00 +0000",
+     "summary": "The first entry is the full-frame 50mm F1.4 CL DG Contemporary",
+     "source": "DPReview",
+     "zh": "Sigma launches a new line of compact, vintage-style lenses focused on character over sharpness"
+    },
+    {
+     "title": "It’s official: Samsung’s next foldable phone is coming soon",
+     "link": "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/",
+     "pubDate": "Fri, 23 Oct 2026 06:28:59 +0000",
+     "summary": "You almost certainly won't be able to buy it in your market, though.",
+     "source": "Android Authority",
+     "zh": "It’s official: Samsung’s next foldable phone is coming soon"
+    },
+    {
      "title": "Samsung Galaxy S27 Ultra and S27 Pro batteries pictured in a new certification",
      "link": "https://www.gsmarena.com/samsung_galaxy_s27_ultra_and_s27_pro_batteries_pictured_in_a_new_certification-news-75177.php",
      "pubDate": "Fri, 23 Oct 2026 07:51:02 +0200",
@@ -2194,14 +2218,6 @@ window.INDUSTRY_DATA = {
      "zh": "Spotify's Family plan QR code could cost you Premium access"
     },
     {
-     "title": "Google Meet expands real-time translation across 63 languages",
-     "link": "https://www.androidauthority.com/google-meet-real-time-translation-3726963/",
-     "pubDate": "Thu, 22 Oct 2026 20:09:20 +0000",
-     "summary": "The feature detects and translates 63 languages.",
-     "source": "Android Authority",
-     "zh": "Google Meet expands real-time translation across 63 languages"
-    },
-    {
      "title": "Rhode Island sues Meta over its approach to scam ads",
      "link": "https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/",
      "pubDate": "Thu, 22 Oct 2026 20:05:26 +0000",
@@ -2224,22 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni.",
      "source": "Engadget",
      "zh": "The trailer for Mass Effect 5 has leaked and unfortunately it looks good"
-    },
-    {
-     "title": "Some Galaxy S24, S25 owners say Samsung’s latest update is wrecking battery life",
-     "link": "https://9to5google.com/2026/10/22/samsung-galaxy-s24-battery-life-one-ui-9/",
-     "pubDate": "Thu, 22 Oct 2026 19:40:00 +0000",
-     "summary": "Samsung’s latest Android 17-based One UI 9 update seems to be causing headaches for some Galaxy S24 and S25 owners, as battery life has gotten considerably worse following the “upgrade.” more…",
-     "source": "9to5Google",
-     "zh": "Some Galaxy S24, S25 owners say Samsung’s latest update is wrecking battery life"
-    },
-    {
-     "title": "Gemini app expands Google Maps Personal Intelligence, replacing Deep Think",
-     "link": "https://9to5google.com/2026/10/22/gemini-personal-intelligence-maps/",
-     "pubDate": "Thu, 22 Oct 2026 19:28:41 +0000",
-     "summary": "Besides coming to Android Auto this week , Personal Intelligence in the Gemini app is also expanding its Google Maps integration. more…",
-     "source": "9to5Google",
-     "zh": "Gemini app expands Google Maps Personal Intelligence, replacing Deep Think"
     }
    ]
   },
@@ -2249,6 +2249,62 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "E.ON unit PreussenElektra taps Nvidia to assess nuclear sites for AI data centers",
+     "link": "https://seekingalpha.com/news/4656442-eon-unit-preussenelektra-taps-nvidia-to-assess-nuclear-sites-for-ai-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 02:43:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "E.ON unit PreussenElektra taps Nvidia to assess nuclear sites for AI data centers"
+    },
+    {
+     "title": "经济观察研究院院长余政：中国品牌走向世界，靠的是什么？",
+     "link": "http://www.eeo.com.cn/2026/1023/1073548.shtml",
+     "pubDate": "Fri, 23 Oct 2026 14:39:04 +0800",
+     "summary": "余政强调，品牌是国家的脸面，文化是品牌的灵魂；品牌强则产业兴，文化厚则底气足。在这个充满不确定性的时代，科技力让我们拥有力量，经济力让我们拥有舞台，文化力让我们拥有方向。中国文化与世界品牌的相遇，不是简单的物理叠加，而是一场深刻的化学反应。",
+     "source": "经济观察网",
+     "zh": "经济观察研究院院长余政：中国品牌走向世界，靠的是什么？"
+    },
+    {
+     "title": "创业板指拉升涨超4% 机器人、物理AI、白酒、保险涨幅居前",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906071131.html",
+     "pubDate": "Fri, 23 Oct 2026 14:38:56 +0800",
+     "summary": "市场午后情绪回暖，创业板指拉升涨超4%，早盘曾一度跌超3%。 机器人 、物理AI、 白酒 、保险等方向涨幅居前，沪深京三市上涨个股超4400只。 10月23日午间， 中际旭创 、 新易盛 、 天孚通信 齐发公告，披露近期生产经营情况。 中际旭创 称，公司目前生产经营一切正常，供应链稳定，产能利用率充足，客户订单需求强劲。下游需求保持高景气，公司在手订单饱满。产品价格体系健康，行业竞争有序。光互连技术持续迭代，行业技术壁垒有望进一步提升。 新易盛 称，公司生产经营活动有序开展，在手订单充足，800G和1.6T是今年交付的主力产品，订单交付及产能扩充正按业务需求推进，其中1.6T光模块已进入持续放",
+     "source": "东方财富资讯",
+     "zh": "创业板指拉升涨超4% 机器人、物理AI、白酒、保险涨幅居前"
+    },
+    {
+     "title": "全球科技股跌势暂歇，日韩股市深V反弹，韩股收涨0.3%，SK海力士涨4%，黄金盘中跌破4000",
+     "link": "https://wallstreetcn.com/articles/3784279",
+     "pubDate": "Fri, 23 Oct 2026 14:37:48 +0800",
+     "summary": "人工智能交易承压引发的科技股抛售潮出现缓和迹象，但市场仍处于高度警惕状态。 芯片股领跌后触底反弹，韩国SK海力士此前一度大跌逾4%，最终收涨4.41%，带动韩国KOSPI指数收涨0.3%。摩根士丹利资本国际亚太指数跌幅也由盘中最深1.1%收窄至0.2%。与此同时，纳斯达克100指数期货抹去早盘跌幅，小幅翻正，欧股亦有望低开后企稳。 此轮科技股波动对资产配置产生明显的轮动效应：投资者将资金转移至美国国债等避险资产，10年期美债收益率周四单日骤降17个基点，创逾两年最大单日涨幅；油价则延续强势，布伦特原油进一步上扬1%至每桶114.35美元，受沙特阿拉伯袭击事件加剧中东供应中断风险影响，原油连续第",
+     "source": "华尔街见闻",
+     "zh": "全球科技股跌势暂歇，日韩股市深V反弹，韩股收涨0.3%，SK海力士涨4%，黄金盘中跌破4000"
+    },
+    {
+     "title": "长鑫科技大涨6%！黄仁勋：对与长鑫合作持开放态度 没有谁在制造业方面比中国更强",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906167271.html",
+     "pubDate": "Fri, 23 Oct 2026 14:36:19 +0800",
+     "summary": "长鑫科技 午后强力反弹，涨幅超过6%。截至发稿，报42.12元/股，涨幅6.10%。 据央视新闻报道，当地时间10月22日， 英伟达 CEO黄仁勋在德国柏林举办的 英伟达 GPU技术大会期间表示， 到2029年内存供应过剩的可能性不大 ，“内存的一个真正好处是，你总是可以用得更多”。近期，有专家在韩国媒体上刊文提到，存储超级周期可能已经结束，到2029年，该行业可能进入下行周期。受此影响，全球存储概念股遭到抛售。 内存是 英伟达 芯片的核心组件，供应过剩可能压低价格并打击 SK海力士 、三星和美光等制造商的利润率。 黄仁勋表示，英伟达将继续大量使用LPDDR和HBM等 存储芯片 。 当被问及是",
+     "source": "东方财富资讯",
+     "zh": "长鑫科技大涨6%！黄仁勋：对与长鑫合作持开放态度 没有谁在制造业方面比中国更强"
+    },
+    {
+     "title": "标普诡异分化！隔夜三分之二成分股上涨仍跌1.5%，对冲基金遭遇2011年以来最惨一日",
+     "link": "https://wallstreetcn.com/articles/3784292",
+     "pubDate": "Fri, 23 Oct 2026 14:32:20 +0800",
+     "summary": "美股市场周四上演罕见分裂行情：标普500指数下跌1.5%，纳斯达克100指数重挫逾3%，但同时有三分之二的标普成分股收涨——两组数据同时为真，折射出AI交易高度集中所引发的结构性撕裂。 高盛交易员Matthew Kaplan在报告中将这一天定性为\"值得记录的异常日\"。根据高盛Prime经纪数据，旗下跟踪对冲基金多空表现的指标组合GSTHVIPP当日下跌约4.2%，创下2011年8月美国失去AAA评级以来的最大单日跌幅，月内累计跌幅已扩大至10.4%。基本面多空基金、系统性基金、多策略基金当日无一幸免，全线亏损。 与此同时，美债大幅上涨，10年期美债收益率单日下行约15个基点，创逾一年最大单日降",
+     "source": "华尔街见闻",
+     "zh": "标普诡异分化！隔夜三分之二成分股上涨仍跌1.5%，对冲基金遭遇2011年以来最惨一日"
+    },
+    {
+     "title": "Zai Lab announces $250M private placement",
+     "link": "https://seekingalpha.com/news/4656434-zai-lab-announces-250m-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 02:26:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Zai Lab announces $250M private placement"
+    },
     {
      "title": "奇迹日再现！创业板深V暴涨4%，“易中天”集体拉升，长鑫大涨6%、宇树涨停，恒科指午后涨超2%",
      "link": "https://wallstreetcn.com/articles/3784272",
@@ -2274,6 +2330,14 @@ window.INDUSTRY_DATA = {
      "zh": "Saab Q3 order backlog reaches SEK 364.2B as sales grow 30%"
     },
     {
+     "title": "大奇迹日！“易中天”午后直线拉升 多只宽基ETF同步爆量！市场底已经确认？",
+     "link": "http://stock.eastmoney.com/news/1411,202610233906143455.html",
+     "pubDate": "Fri, 23 Oct 2026 14:20:32 +0800",
+     "summary": "午后，A股风云突变。截至发稿，早盘一度跌超3%的创业板指转涨4%，深证成指转涨3%，沪指成功翻红涨0.9%。 焦点股方面，“易中天”午后快速拉升悉数翻红；近日连续大跌的 宁德时代 大涨近8%，其与 中际旭创 、 新易盛 的成交额均超200亿元；宇树科技20cm封板， 长鑫科技 等硬科技龙头以及大金融板块多股亦携手走强。 “易中天”罕见午间集体发声 消息面上，继昨日晚间， 新易盛 、 中际旭创 、 天孚通信 、 东山精密 、 源杰科技 、 联讯仪器 等光 通信 及算力硬件公司相继表态“生产经营活动正常有序，订单交付工作正常开展”后，午间“易中天”等公司齐发公告，披露近期生产经营情况。 其中， 新",
+     "source": "东方财富资讯",
+     "zh": "大奇迹日！“易中天”午后直线拉升 多只宽基ETF同步爆量！市场底已经确认？"
+    },
+    {
      "title": "加快建设国际消费中心城市，国际名品高管齐聚武汉",
      "link": "http://www.eeo.com.cn/2026/1023/1073525.shtml",
      "pubDate": "Fri, 23 Oct 2026 14:16:29 +0800",
@@ -2290,6 +2354,14 @@ window.INDUSTRY_DATA = {
      "zh": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine"
     },
     {
+     "title": "宇树科技涨停 本周累计涨超46% 市值重返2500亿",
+     "link": "http://simujigou.eastmoney.com/news/11065,202610233906109617.html",
+     "pubDate": "Fri, 23 Oct 2026 14:15:27 +0800",
+     "summary": "人形 机器人 板块持续拉升，宇树科技、 利亚德 、 海天瑞声 等多股“20cm”涨停， 众诚科技 “30cm”涨停， 凌云光 、摩尔线程、 上纬新材 等跟涨。 宇树科技总市值重返2500亿上方， 本周累计涨超46%， 最近6个交易日累计上涨超54%。",
+     "source": "东方财富资讯",
+     "zh": "宇树科技涨停 本周累计涨超46% 市值重返2500亿"
+    },
+    {
      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
      "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
      "pubDate": "Fri, 23 Oct 2026 06:15:00 GMT",
@@ -2304,6 +2376,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Evolution Q3 profit falls despite revenue growth"
+    },
+    {
+     "title": "午后翻红、再放量！宽基ETF连续6日“吸金”超百亿元",
+     "link": "http://stock.eastmoney.com/news/11215,202610233906122156.html",
+     "pubDate": "Fri, 23 Oct 2026 14:12:05 +0800",
+     "summary": "10月23日午后，创业板指翻红，三只热门宽基ETF成交突破百亿元。 宽基ETF已连续6个交易日净流入超百亿元，累计净流入超1600亿元。总量持续增长之下，部分产品连续获净申购，部分产品则出现申赎方向切换。业内人士表示，国内经济有望延续稳中向好态势，AI产业发展和内需政策落地有望增强增长动能，但仍需关注外部环境不确定性。 午后翻红 连续6日“吸金”超百亿元 创业板指午后翻红，截至发稿，涨超2%，早盘一度跌超3%。多只创业板相关ETF强势拉升。 午后开盘半小时，创业板ETF易方达成交超40亿元。截至13时36分，创业板ETF易方达、沪深300ETF华泰柏瑞、科创50ETF华夏成交超百亿元，中证10",
+     "source": "东方财富资讯",
+     "zh": "午后翻红、再放量！宽基ETF连续6日“吸金”超百亿元"
     },
     {
      "title": "同行IPO集体退潮，Anthropic独闯11月中旬窗口：1.5万亿美元估值直面流动性大考",
@@ -2330,12 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "UK retail sales rise 0.8% Y/Y in September, below expectations"
     },
     {
-     "title": "Provident Financial authorizes new 5% stock repurchase plan",
-     "link": "https://seekingalpha.com/news/4656433-provident-financial-authorizes-new-5-stock-repurchase-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 01:55:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Provident Financial authorizes new 5% stock repurchase plan"
+     "title": "长鑫科技两大利好奔袭！高盛将长鑫目标价上调至130元/股",
+     "link": "http://stock.eastmoney.com/news/11134,202610233906059746.html",
+     "pubDate": "Fri, 23 Oct 2026 14:02:20 +0800",
+     "summary": "大反弹！ 10月23日午后， 长鑫科技 直线拉升，股价由早上的最低价38.75元升至42元以上，涨超6%。分析人士认为，一方面黄仁勋力挺内存，另一方面 高盛 将长鑫目标价上调至130元/股，对应总市值约8.825万亿元人民币。按今天的最低价算，上涨空间高达235.5%。 消息面上， 英伟达 首席执行官黄仁勋周四在柏林GTC大会期间接受采访时明确表示，到2029年出现内存供应过剩的可能性不大。HBM（ 高带宽内存 ）未来数年会持续得到应用， 英伟达 还是全球首家将LPDDR内存引入 数据中心 的公司，能效达到目前全球任何方案的两倍。 高盛 最新研报指出， 长鑫科技 今年第三季营收指引达1150亿",
+     "source": "东方财富资讯",
+     "zh": "长鑫科技两大利好奔袭！高盛将长鑫目标价上调至130元/股"
     },
     {
      "title": "北京市“十五五”时期金融业发展规划编制完成",
@@ -2344,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "《规划》明确发展目标：到2030年，北京国家金融管理中心基础功能全面加强，逐步建立健全与首都地位、与金融强国建设需要相匹配的现代金融体系。到2035年，北京国家金融管理中心综合实力显著增强，成为打造全球金融治理网络的重要枢纽，在构建具有高度适应性、竞争力、普惠性的中国特色现代金融体系中走在前、作表率。",
      "source": "经济观察网",
      "zh": "北京市“十五五”时期金融业发展规划编制完成"
-    },
-    {
-     "title": "Volvo Cars swings to Q3 loss as revenue falls 22.6% Y/Y",
-     "link": "https://seekingalpha.com/news/4656432-volvo-cars-swings-to-q3-loss-as-revenue-falls-226-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 01:47:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Volvo Cars swings to Q3 loss as revenue falls 22.6% Y/Y"
     },
     {
      "title": "CPO概念午后拉升，“易中天”再密集回应：在手订单充足、经营正常",
@@ -2394,28 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著"
     },
     {
-     "title": "高端美妆回暖，欧莱雅三季度销售超预期",
-     "link": "https://wallstreetcn.com/articles/3784286",
-     "pubDate": "Fri, 23 Oct 2026 12:21:25 +0800",
-     "summary": "欧莱雅的增长正在加快。 10月22日，欧莱雅公布2026年前三季度销售业绩。其中，第三季度销售额115.61亿欧元，同比增长11.9%，超过市场预计的112.3亿欧元；剔除汇率、合并范围及IT系统切换节奏影响后，调整后可比增长7.7%。 市场此前已对复苏有所期待。瑞银在10月12日的研报摘要中，将三季度视为检验欧莱雅能否持续实现约6%增长的关键季度。实际表现超过这一水平，也让增长恢复的判断获得了更多支撑。 高档化妆品是这次超预期的重要来源。该部门三季度调整后可比增长7%，高于市场预计的4.5%。路透社指出，香水需求和中国销售改善共同推动了增长。 这意味着，欧莱雅正在获得香水之外的更多增长动力。",
-     "source": "华尔街见闻",
-     "zh": "高端美妆回暖，欧莱雅三季度销售超预期"
-    },
-    {
      "title": "第二十四届杰出品牌营销案例正式揭晓！",
      "link": "http://www.eeo.com.cn/2026/1023/1073363.shtml",
      "pubDate": "Fri, 23 Oct 2026 12:21:12 +0800",
      "summary": "第二十四届杰出品牌营销案例正式揭晓！",
      "source": "经济观察网",
      "zh": "第二十四届杰出品牌营销案例正式揭晓！"
-    },
-    {
-     "title": "CoreWeave融资缺口有多大？高盛：只有230亿，买入！伯恩斯坦：760亿，危险！",
-     "link": "https://wallstreetcn.com/articles/3784281",
-     "pubDate": "Fri, 23 Oct 2026 12:18:49 +0800",
-     "summary": "围绕同一家公司的融资缺口，华尔街两大机构给出了相差逾三倍的答案，将AI算力租赁商CoreWeave再度推至市场争议的风口浪尖。 伯恩斯坦分析师Madison Rezaei周四（10月22日）发布报告，将CoreWeave目标价从74美元下调至51美元，并估算该公司 仅为履行现有合同承诺就需筹集850亿美元，扣除已有融资安排后，净融资缺口高达760亿美元 。这与高盛三天前给出的230亿美元估算相差超过三倍。 CoreWeave股价周四再跌约10%至55.70美元，抹去高盛升级评级后的全部涨幅。 高盛分析师Gabriela Borges周一将CoreWeave评级上调至“买入”，并于周三发布后续报",
-     "source": "华尔街见闻",
-     "zh": "CoreWeave融资缺口有多大？高盛：只有230亿，买入！伯恩斯坦：760亿，危险！"
     },
     {
      "title": "Beware Bessent’s tilt towards short-term debt",
@@ -2432,62 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending",
      "source": "Financial Times",
      "zh": "Calpers retreats from Big Tech as AI rally falters"
-    },
-    {
-     "title": "The limits of Trump’s trade war",
-     "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
-     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
-     "summary": "Economies like Mexico are being forced to choose sides on trade",
-     "source": "Financial Times",
-     "zh": "The limits of Trump’s trade war"
-    },
-    {
-     "title": "AI oversight needs a different model to banking",
-     "link": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
-     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
-     "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
-     "source": "Financial Times",
-     "zh": "AI oversight needs a different model to banking"
-    },
-    {
-     "title": "马斯克为何认为算力会长期短缺？",
-     "link": "http://www.eeo.com.cn/2026/1023/1073239.shtml",
-     "pubDate": "Fri, 23 Oct 2026 10:49:43 +0800",
-     "summary": "在马斯克看来，算力需求会长期大于供给，而眼下制约供给的，更多是电力、冷却和基础设施，芯片还在其次。",
-     "source": "经济观察网",
-     "zh": "马斯克为何认为算力会长期短缺？"
-    },
-    {
-     "title": "AI投资回报受质疑，黄仁勋详解Token需求场景",
-     "link": "http://www.eeo.com.cn/2026/1023/1073234.shtml",
-     "pubDate": "Fri, 23 Oct 2026 10:46:56 +0800",
-     "summary": "按照黄仁勋讲的制造业逻辑，AI工厂的投资能否收回，一要看工厂能否建得快、用电省，二要看建成以后，生产出来的Token有没有足够的买家。",
-     "source": "经济观察网",
-     "zh": "AI投资回报受质疑，黄仁勋详解Token需求场景"
-    },
-    {
-     "title": "SpaceX records $561 million investment gain from stake in Elon Musk&apos;s Boring Co.",
-     "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-     "pubDate": "Fri, 23 Oct 2026 00:46:09 GMT",
-     "summary": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
-     "source": "CNBC",
-     "zh": "SpaceX records $561 million investment gain from stake in Elon Musk&apos;s Boring Co."
-    },
-    {
-     "title": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets",
-     "link": "https://www.finextra.com/newsarticle/48635/cognitive-credit-raises-40m-to-scale-specialist-data-and-ai-for-credit-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 23 Oct 2026 00:01:00 GMT",
-     "summary": "Corporate credit data, analytics, and AI technology provider Cognitive Credit has closed a $40 million strategic growth investment led by Summit Partners with participation from ETFS Capital.",
-     "source": "Finextra",
-     "zh": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets"
-    },
-    {
-     "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 22 Oct 2026 23:15:00 GMT",
-     "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-     "source": "MarketWatch",
-     "zh": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?"
     }
    ]
   },

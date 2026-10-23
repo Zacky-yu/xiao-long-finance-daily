@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 20:12:03",
+ "generated_at": "2026/10/23 20:32:00",
  "recent_days": 7,
  "industries": [
   {
@@ -234,20 +234,20 @@ window.INDUSTRY_DATA = {
      "zh": "Build more responsive apps with the Decisions API"
     },
     {
-     "title": "Canva releases its first image generation model",
-     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-     "source": "TechCrunch AI",
-     "zh": "Canva releases its first image generation model"
-    },
-    {
      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
      "source": "TechCrunch AI",
      "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
+    },
+    {
+     "title": "Canva releases its first image generation model",
+     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+     "source": "TechCrunch AI",
+     "zh": "Canva releases its first image generation model"
     }
    ]
   },
@@ -1074,12 +1074,12 @@ window.INDUSTRY_DATA = {
      "zh": "Utilities turn to AI to manage rising power demand — from AI"
     },
     {
-     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
-     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
-     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
-     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
+     "title": "Jigar Shah blames the wrong target for rising electricity bills",
+     "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
+     "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
      "source": "Utility Dive",
-     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
+     "zh": "Jigar Shah blames the wrong target for rising electricity bills"
     }
    ]
   },
@@ -1714,20 +1714,20 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft shares how to fix broken Exchange Online EWS apps"
     },
     {
+     "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
+     "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
+     "pubDate": "Thu, 22 Oct 2026 14:21:22 GMT",
+     "summary": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
+     "source": "Dark Reading",
+     "zh": "As AI Risks Grow, Insurers Split on Covering the Damage"
+    },
+    {
      "title": "Machine speed attacks require machine speed detection and response",
      "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
      "pubDate": "Thu, 22 Oct 2026 10:02:12 -0400",
      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.",
      "source": "BleepingComputer",
      "zh": "Machine speed attacks require machine speed detection and response"
-    },
-    {
-     "title": "UAE Transitions 50% of Government Services to Agentic AI",
-     "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
-     "pubDate": "Thu, 22 Oct 2026 05:00:00 GMT",
-     "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
-     "source": "Dark Reading",
-     "zh": "UAE Transitions 50% of Government Services to Agentic AI"
     },
     {
      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -1754,10 +1754,50 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "8.59 万元起吉利 2027 款博越车型上市，升级新一代 GEEA3.0 电子电气架构",
+     "link": "https://www.ithome.com/1/017/247.htm",
+     "pubDate": "Fri, 23 Oct 2026 12:28:07 GMT",
+     "summary": "IT之家 10 月 23 日消息，吉利 2027 款博越车型今晚正式上市，官方指导价 8.59 万元起。 该车将升级为新一代 GEEA3.0 电子电气架构，同时针对外观、舒适、智能、品质和安全五大维度改进。 据官方透露，新款车型其前脸将采用新中式“四水归堂”格栅与“飞檐斗拱”贯穿灯组，车身使用传统造型门把手，车尾引入“长卷流霞”贯穿尾灯，同时还拥有 585L+75L 双层后备厢。 该车采用环抱式座舱设计并配备 14.6 英寸中控屏，内置 Flyme Auto 2.5 系统，并支持星睿 AI 大模型。车辆提供前排座椅加热、通风、按摩功能，另外还有 50W 无线快充、方向盘加热、全新定制版高德 8",
+     "source": "IT之家",
+     "zh": "8.59 万元起吉利 2027 款博越车型上市，升级新一代 GEEA3.0 电子电气架构"
+    },
+    {
+     "title": "中国联通开放 iPhone Duo 现货预约购买，无需验证“尊享挚友”2009 年老用户身份",
+     "link": "https://www.ithome.com/1/017/246.htm",
+     "pubDate": "Fri, 23 Oct 2026 12:23:26 GMT",
+     "summary": "IT之家 10 月 23 日消息，苹果首款折叠屏手机 iPhone Duo 于今天发售，国行定价 15999 元起。 IT之家获悉，目前中国联通已全面开放 iPhone Duo 手机现货预约购买， 非“尊享挚友” 2009 年首批 iPhone 用户也可预约登记 ，有意向的联通用户目前可以在联通活动页面（IT之家附地址： https://go.10010.com:32001/apple-booking/ ）登记自己的联通手机号码，预约购买手机，在登记后会有专员联系。 除此之外，用户在中国联通办理 iPhone Duo 购机合约，可享终端最高直降 3240 元优惠，同步开通联通 eSIM，可获以",
+     "source": "IT之家",
+     "zh": "中国联通开放 iPhone Duo 现货预约购买，无需验证“尊享挚友”2009 年老用户身份"
+    },
+    {
+     "title": "为什么很多机构不要国资的钱了",
+     "link": "https://www.huxiu.com/article/4900009.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 20:23:06 +0800",
+     "summary": "本文来自微信公众号： 叫小宋 别叫总 ，作者：叫小宋，题图来自：AI生成 大概9月开始，多家知名机构官宣新基金的设立：经纬创投，君联资本，砺思资本，高榕资本，朝希资本等。 上述几家机构里，君联、高榕、砺思的新基金有一个共同特点：出资人里面都没有地方国资。他们的出资人主要是产业背景、上市公司等。 然后应该是从去年开始，市场当中有一种声音：地方国资的钱越来越不好拿了。 不好拿的原因有：地方政府的要求也越来越高，风控越来越严格；招商返投越来越难； 以及...地方国资的很多要求和流程，天然跟创投这件事就有点不太匹配。 我来分享几个例子。 以下例子不仅限于拿了地方国资的市场化机构，还包括直接就是国资背景",
+     "source": "虎嗅",
+     "zh": "为什么很多机构不要国资的钱了"
+    },
+    {
+     "title": "债市破裂，CDS飙升，美股AI的第一张骨牌要倒了？",
+     "link": "https://www.huxiu.com/article/4900014.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 20:20:11 +0800",
+     "summary": "本文来自微信公众号： 格隆 ，作者：弗雷迪 过去这一周，美股AI算力赛道经历了一场针对高杠杆模式的集中清算。 这场风暴在10月14号那天推向了高潮。NeoCloud领航者CoreWeave单日暴跌15%，同阵营的Nebius与IREN也应声遭遇双位数重挫。 短短几个交易日，这几家靠高举高打借钱买显卡、建数据中心的新兴算力公司，市值几乎被连根拔起。整条算力租赁板块的走势图拉出来看，跌幅惨烈得就像是一场泥石流。 但这趟惨烈行情的震源并非股市，而是藏在幕后的债券与信用违约互换（CDS）市场。 随着借贷风险数据异常飙升，不少投资者瞬间联想到了2023年硅谷银行倒闭，甚至2008年次贷危机前夕时的惨烈场",
+     "source": "虎嗅",
+     "zh": "债市破裂，CDS飙升，美股AI的第一张骨牌要倒了？"
+    },
+    {
+     "title": "家庭主妇靠做饭当上百万网红后，没过上爽文人生",
+     "link": "https://www.huxiu.com/article/4900011.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 20:07:56 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：贾小凡，编辑：|陆一鸣 将家庭掌勺的日常拍成视频，可能是中年女性距离成为网红最近的一次尝试，但成名后的她们往往也被困在这个身份里。 当一个普通的中年妇女想尝试自媒体创业，拿起手机拍摄，她会将镜头对准哪里？答案可能是家庭生活中最日常的地方：厨房。 短视频的日常厨艺赛道，活跃着一群令人感到亲切的女性。四五十岁的她们，做得一手好菜，用视频记录自己如何打点一家人的饮食起居。看似平凡的日常，却造就了拥有几百万名甚至千万名粉丝的大博主。 然而，当这些厨艺博主被互联网选中后，她们却不能只做成功的自媒体创业者。在观众的期待中，她们仍是贤惠的母亲、妻子，是照顾全家生活的人。",
+     "source": "虎嗅",
+     "zh": "家庭主妇靠做饭当上百万网红后，没过上爽文人生"
+    },
+    {
      "title": "巴西机场被盗索泰 RTX 5090 显卡被挂二手网站，序列号成关键线索",
      "link": "https://www.ithome.com/1/017/245.htm",
      "pubDate": "Fri, 23 Oct 2026 12:07:23 GMT",
-     "summary": "IT之家 10 月 23 日消息，一批价值约 250 万巴西雷亚尔 （IT之家注：现汇率约合 330.43 万元人民币） 的英伟达 GeForce RTX 5090 显卡上周在巴西圣保罗瓜鲁柳斯国际机场不翼而飞，如今其中一张显卡被发现出现在二手交易平台 OLX 上。 该显卡的序列号与上述失踪货物相符，相关商品页面随后被下架。这张显卡为索泰 GeForce RTX 5090 SOLID OC 32GB，卖家最初标价 3.4 万巴西雷亚尔，之后降至 3.2 万巴西雷亚尔 （现汇率约合 4.23 万元人民币） 。 这批显卡属于巴西科技产品经销商 Oderço 从美国进口的货物。该公司总部位于巴西马林",
+     "summary": "IT之家 10 月 23 日消息，一批价值约 250 万巴西雷亚尔 （IT之家注：现汇率约合 330.43 万元人民币） 的英伟达 GeForce RTX 5090 显卡在巴西圣保罗瓜鲁柳斯国际机场不翼而飞，如今其中一张显卡被发现出现在二手交易平台 OLX 上。 该显卡的序列号与上述失踪货物相符，相关商品页面随后被下架。这张显卡为索泰 GeForce RTX 5090 SOLID OC 32GB，卖家最初标价 3.4 万巴西雷亚尔，之后降至 3.2 万巴西雷亚尔 （现汇率约合 4.23 万元人民币） 。 这批显卡属于巴西科技产品经销商 Oderço 从美国进口的货物。该公司总部位于巴西马林加，",
      "source": "IT之家",
      "zh": "巴西机场被盗索泰 RTX 5090 显卡被挂二手网站，序列号成关键线索"
     },
@@ -1818,36 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "比亚迪腾势 Z 电动智能超跑四季度上市，预售 68 万元起"
     },
     {
-     "title": "Swedish government offices to ban ChatGPT and Claude",
-     "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-     "pubDate": "Fri, 23 Oct 2026 11:39:54 +0000",
-     "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Swedish government offices to ban ChatGPT and Claude"
-    },
-    {
-     "title": "流感季将至，一半中国人却对流感疫苗“不感冒”",
-     "link": "https://www.huxiu.com/article/4899224.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 19:37:14 +0800",
-     "summary": "本文由虎嗅旗下健康与抗衰公众号&ldquo;九叶刀研究&rdquo;首发，全文约2600字。 如果你每年都接种流感疫苗，那么恭喜成为少数派，因为在国内，每年接种流感疫苗的比例仅为 2%-4% 。 没错，过去许多年，绝大多数中国人没把流感疫苗当回事儿。 中国人为什么对流感疫苗&ldquo;不感冒&rdquo;？ 很多人完全有条件打疫苗，但就是不当回事儿，导致迟迟没有接种或者拒绝接种。世界卫生组织用一个新词来概括这种心态和现象： 疫苗犹豫 （vaccine hesitancy） 。 [1] 不打流感疫苗的原因有很多，比如工作太忙，疫苗紧缺，忘了，对疫苗不信任，宁可吃药也不打疫苗，甚至觉得自己身体不",
-     "source": "虎嗅",
-     "zh": "流感季将至，一半中国人却对流感疫苗“不感冒”"
-    },
-    {
-     "title": "Token扎堆上架电商双11，最多只便宜3块钱？",
-     "link": "https://www.huxiu.com/article/4899999.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 19:34:17 +0800",
-     "summary": "本文来自微信公众号： 疯狂科技厅 ，作者：孔艺霖，编辑：张猛 今年双11，智谱、MiniMax、千问办公、阿里云、Kimi、DeepSeek等大模型公司扎堆电商卖Token。 不少消费者说，“双11五折买Token”“AI年货可以囤了”。 但疯狂科技厅问了京东云、天猫MiniMax、阿里云旗舰店等多家店客服，多数店铺暂无Token商品参与双11优惠；智谱是少数真打折的，GLM Coding Plan Lite月卡从118元降到115元，也只便宜了3块钱。 （智谱京东旗舰店铺） （智谱官网） 既然不打算靠降价抢销量，大模型公司为什么还要赶在双11集体开店？ 01>买Token到底值不值？先看看消",
-     "source": "虎嗅",
-     "zh": "Token扎堆上架电商双11，最多只便宜3块钱？"
-    },
-    {
-     "title": "索尼 PlayStation PULSE Elevate 无线音箱国行预售，1748 元",
-     "link": "https://www.ithome.com/1/017/236.htm",
-     "pubDate": "Fri, 23 Oct 2026 11:31:09 GMT",
-     "summary": "IT之家 10 月 23 日消息，索尼 PULSE Elevate 无线音箱今日开启预售，定价 1,748 元，将于 2026 年 11 月 12 日正式上市，适合 PS5、PC 或 Mac 使用。 作为参考，这款音箱美国售价为 219.99 美元 （IT之家注：现汇率约合 1,471 元人民币） ，日本售价 37,980 日元 （现汇率约合 1,617 元人民币） 。 索尼表示，这款音箱主打沉浸式桌面音效，它搭载两个喇叭，每个喇叭内置平面振膜单元和低音扬声器，平面振膜单元受录音室启发，能以高精度呈现广阔频响动态范围内的所有声音；内置低音扬声器提供层次丰富的低音音色。 它支持 Tempest ",
-     "source": "IT之家",
-     "zh": "索尼 PlayStation PULSE Elevate 无线音箱国行预售，1748 元"
+     "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+     "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+     "pubDate": "Fri, 23 Oct 2026 11:30:22 +0000",
+     "summary": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.",
+     "source": "Ars Technica",
+     "zh": "Ukraine learns to fight without Starlink as Musk plays politics with satellites"
     },
     {
      "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
@@ -1858,20 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could"
     },
     {
-     "title": "大A上演大奇迹日，牛来？",
-     "link": "https://www.huxiu.com/article/4899993.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 19:29:09 +0800",
-     "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | 电影《牛来》 今天A股上演大奇迹日，三大指数集体拉升。 截至10月23日收盘，上证指数涨0.89%，深证成指涨2.79%，创业板指涨4.16%，科创50指数涨3.04%。全市场成交额19728亿元，较上日放量4310亿元，全市场超4500只个股上涨。 （图片来源：AI制图） 收盘后，群里又恢复往日的欢声笑语。 那么，牛回来了吗？ 一、神秘资金入场 妙投资深研究员张博认为，当下指数属于阶段性底部的可能性较大。 此前，阶段性底部 （2025年4月） ，也出现了上证50ETF华夏 （510050） 等多只宽基ETF放量的情形，随后指数",
-     "source": "虎嗅",
-     "zh": "大A上演大奇迹日，牛来？"
-    },
-    {
-     "title": "瓦尔基里 VK 99 V2 键盘发售：首发预估到手价 329.8 / 429.25 元",
-     "link": "https://www.ithome.com/1/017/235.htm",
-     "pubDate": "Fri, 23 Oct 2026 11:29:07 GMT",
-     "summary": "IT之家 10 月 23 日消息，瓦尔基里 (Valkyrie, Vk) 即将于今晚 20:00 发售 VK 99 V2 系列三模机械键盘。其中 标准版预估到手价 329.8 元 、 MAX 版预估到手价 429.25 元 。 天猫 瓦尔基里 VK 99 V2 键盘 9 月 23 日 20:00 开售 329.8 元起 直达链接 VK 99 V2 整体采用 2U0 的 98 配列， 集成天际光廊贯穿式灯柱与下灯位 RGB 背光 ，支持人工智能驱动的 AI 创想灯效、音乐律动，内部包含竖向音量旋钮。 其内部采用 Gasket 结构，搭配全键热插拔 PCB、横向开槽 PC 定位板，配套原厂 (CH",
-     "source": "IT之家",
-     "zh": "瓦尔基里 VK 99 V2 键盘发售：首发预估到手价 329.8 / 429.25 元"
+     "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+     "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+     "pubDate": "Fri, 23 Oct 2026 11:15:03 +0000",
+     "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+     "source": "Ars Technica",
+     "zh": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees"
     },
     {
      "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
@@ -1882,12 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "希腊通过法案禁止 15 岁以下儿童使用社媒"
     },
     {
-     "title": "Is this the new cyber normal?",
-     "link": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-     "pubDate": "Fri, 23 Oct 2026 11:04:53 +0000",
-     "summary": "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 30 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Is this the new cyber normal?"
+     "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+     "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+     "pubDate": "Fri, 23 Oct 2026 11:00:57 +0000",
+     "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
+     "source": "Ars Technica",
+     "zh": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready"
     },
     {
      "title": "Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It",
@@ -1914,28 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "Turtle Beach Vulcan II XP Review: Clicky Compromise"
     },
     {
-     "title": "Dutch government had hacked into Jared Kushner's phone",
-     "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
-     "pubDate": "Fri, 23 Oct 2026 10:41:32 +0000",
-     "summary": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767 Comments URL: https://news.ycombinator.com/item?id=50206914 Points: 76 # Comments: 23",
-     "source": "Hacker News",
-     "zh": "Dutch government had hacked into Jared Kushner's phone"
-    },
-    {
      "title": "Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses (Financial Times)",
      "link": "https://www.techmeme.com/261023/p7#a261023p7",
      "pubDate": "Fri, 23 Oct 2026 06:40:01 -0400",
      "summary": "Financial Times : Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses &nbsp; &mdash;&nbsp; New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI",
      "source": "Techmeme",
      "zh": "Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses (Financial Times)"
-    },
-    {
-     "title": "Job Loss and Cortisone Mania",
-     "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
-     "pubDate": "Fri, 23 Oct 2026 10:31:24 +0000",
-     "summary": "Article URL: https://tilschuenemann.de/job-loss-cortisone-mania Comments URL: https://news.ycombinator.com/item?id=50206840 Points: 14 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Job Loss and Cortisone Mania"
     },
     {
      "title": "AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
@@ -1992,6 +1984,14 @@ window.INDUSTRY_DATA = {
      "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
      "source": "WIRED",
      "zh": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married"
+    },
+    {
+     "title": "What Type of Mattress Is Right for You? (2026)",
+     "link": "https://www.wired.com/story/mattress-types-explained-2026/",
+     "pubDate": "Fri, 23 Oct 2026 10:08:00 +0000",
+     "summary": "Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.",
+     "source": "WIRED",
+     "zh": "What Type of Mattress Is Right for You? (2026)"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "New iPhone Duo cases available for purchase: Fabric, leather, aramid fiber, metal, more [Updated]",
+     "link": "https://9to5mac.com/2026/10/23/best-iphone-duo-cases-now-available-purchase/",
+     "pubDate": "Fri, 23 Oct 2026 12:17:00 +0000",
+     "summary": "Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take orders for their latest full-grain covers. Those, of course, join some ultra-affordable models starting from $27 or less and you can ",
+     "source": "9to5Mac",
+     "zh": "New iPhone Duo cases available for purchase: Fabric, leather, aramid fiber, metal, more [Updated]"
+    },
     {
      "title": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark",
      "link": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ... 查看全文",
      "source": "少数派",
      "zh": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等"
-    },
-    {
-     "title": "Strava revamps route discovery with smarter search, offline improvements, more",
-     "link": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
-     "pubDate": "Thu, 22 Oct 2026 23:29:15 +0000",
-     "summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Strava revamps route discovery with smarter search, offline improvements, more"
     }
    ]
   },
@@ -2250,6 +2250,134 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Quant salaries on the rise amid AI revolution",
+     "link": "https://www.finextra.com/newsarticle/48640/quant-salaries-on-the-rise-amid-ai-revolution?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 23 Oct 2026 12:40:00 GMT",
+     "summary": "Remuneration for quantitative finance professionals has continued to rise despite the increased use of AI, according to recently published research.",
+     "source": "Finextra",
+     "zh": "Quant salaries on the rise amid AI revolution"
+    },
+    {
+     "title": "Robinhood plans expansion in Middle East via retail investing platform in Dubai",
+     "link": "https://seekingalpha.com/news/4656534-robinhood-plans-expansion-in-middle-east-via-retail-investing-platform-in-dubai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:27:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Robinhood plans expansion in Middle East via retail investing platform in Dubai"
+    },
+    {
+     "title": "It’s been a painful month for hedge funds. To turn it around, they are shorting U.S. stocks.",
+     "link": "https://www.marketwatch.com/story/its-been-a-painful-month-for-hedge-funds-to-turn-it-around-they-are-shorting-u-s-stocks-d36ee922?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 12:23:00 GMT",
+     "summary": "In response to losses on popular trades, hedge funds are now shorting U.S. stocks aggressively to try and win back some performance.",
+     "source": "MarketWatch",
+     "zh": "It’s been a painful month for hedge funds. To turn it around, they are shorting U.S. stocks."
+    },
+    {
+     "title": "Heineken tells UK pubs to adapt as GLP-1s to put a dent in beer sales",
+     "link": "https://seekingalpha.com/news/4656520-heineken-tells-uk-pubs-to-adapt-as-glp-1s-to-put-a-dent-in-beer-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:22:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Heineken tells UK pubs to adapt as GLP-1s to put a dent in beer sales"
+    },
+    {
+     "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+     "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+     "pubDate": "Fri, 23 Oct 2026 12:22:10 GMT",
+     "summary": "A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.",
+     "source": "CNBC",
+     "zh": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine"
+    },
+    {
+     "title": "Stock index futures fall after Nasdaq takes a hit on AI spending fears",
+     "link": "https://seekingalpha.com/news/4656452-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:19:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stock index futures fall after Nasdaq takes a hit on AI spending fears"
+    },
+    {
+     "title": "HEXPOL AB (publ) Non-GAAP EPS of SEK 1.46, revenue of SEK 5.3B",
+     "link": "https://seekingalpha.com/news/4656536-hexpol-ab-publ-non-gaap-eps-of-sek-146-revenue-of-sek-53b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:19:45 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HEXPOL AB (publ) Non-GAAP EPS of SEK 1.46, revenue of SEK 5.3B"
+    },
+    {
+     "title": "当前A股如何形成新合力？六大券商首席发声",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906524492.html",
+     "pubDate": "Fri, 23 Oct 2026 20:18:06 +0800",
+     "summary": "步入10月以来，A股震荡调整，科技成长板块回调明显，投资者情绪一度偏弱。市场缘何调整，又该如何看待？财联社记者最新采访了 长城证券 、方正证券、 中泰证券 、大同证券、 中信建投 、 招商证券 等券商多位首席经济学家与策略分析师，从他们的视角带来对市场的研判。 综合 来看，一是盘面，本轮调整更多是情绪面与交易结构的短期扰动，而非基本面的系统性恶化；二是性价比，随着经济韧性显现、估值性价比修复、政策与资金形成合力，A股中长期配置价值正在显现。 基本面与资金面仍是重点 “当前市场短期波动主要受恐慌情绪主导，投资者对利空消息的敏感度上升，放大了部分利空因素的影响。”大同证券景剑文以“不畏浮云遮望眼，",
+     "source": "东方财富股票",
+     "zh": "当前A股如何形成新合力？六大券商首席发声"
+    },
+    {
+     "title": "中国建材：前三季度亏损7.28亿元 营收同比降2.59%",
+     "link": "http://hk.eastmoney.com/news/11223,202610233906526043.html",
+     "pubDate": "Fri, 23 Oct 2026 20:18:00 +0800",
+     "summary": "10月23日， 中国建材 （03323）发布公告，2026年第三季度财务报告显示，合并总资产为5101.02亿元，较2025年12月31日的4896.08亿元增长4.19%。 在营收方面，2026年1-9月的营业总收入为1299.85亿元，同比减少2.59%。营业总成本为1282.85亿元，同比增长0.42%。净利润为8亿元，同比下降87.83%，其中归属于母公司所有者的净利润为-7.28亿元，显示出公司面临的盈利压力。 （文章来源：财中社）",
+     "source": "东方财富股票",
+     "zh": "中国建材：前三季度亏损7.28亿元 营收同比降2.59%"
+    },
+    {
+     "title": "伊朗温和与发展党副主席瓦埃齐：敌人最关注伊朗国内释放的信号，如果察觉民众之间存在分裂，就会更加大胆地谋求更多让步",
+     "link": "http://hk.eastmoney.com/news/1533,202610233906522121.html",
+     "pubDate": "Fri, 23 Oct 2026 20:17:07 +0800",
+     "summary": "伊朗温和与发展党副主席瓦埃齐：敌人最关注伊朗国内释放的信号，如果察觉民众之间存在分裂，就会更加大胆地谋求更多让步。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗温和与发展党副主席瓦埃齐：敌人最关注伊朗国内释放的信号，如果察觉民众之间存在分裂，就会更加大胆地谋求更多让步"
+    },
+    {
+     "title": "伊朗官员：内部分歧将促使敌方谋求更多让步",
+     "link": "http://finance.eastmoney.com/news/1351,202610233906524971.html",
+     "pubDate": "Fri, 23 Oct 2026 20:16:51 +0800",
+     "summary": "据伊朗媒体Fars News报道，伊朗温和与发展党副主席瓦埃齐： 敌方最关注伊朗国内释放的信号，如果察觉民众之间存在分裂，就会更加大胆地谋求更多让步。 他强调，既不应将保卫国家视为好战，也不应将谈判视为屈服或背叛。瓦埃齐表示，敌方因误判伊朗社会凝聚力而发动袭击，原以为能在24至48小时内实现目标，但伊朗武装部队的抵抗和民众的支持改变了其判断。他指出，伊朗的威慑力建立在军事人员的实力与作战能力、民众的参与和支持以及政府提供的服务三大支柱之上，这三者共同增强了国家防御和维护国家利益的能力。他还警告，有时试图解决分歧，如果操之过急或草率判断，反而可能引发新的分歧。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗官员：内部分歧将促使敌方谋求更多让步"
+    },
+    {
+     "title": "【调研快报】中集集团接待花旗银行等32家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610233906521516.html",
+     "pubDate": "Fri, 23 Oct 2026 20:16:22 +0800",
+     "summary": "中集集团 10月23日公告称， 10月22日 接待花旗 银行 等32家机构 调研。 接待人员包括 中集集团 董事会秘书 吴三强,中集来福士副总裁 赵晖,中集来福士烟台基地 综合 管理部总监 陈有孝,中集来福士中集海投市场、 资产管理 部高级经理 高莹钰,中集来福士战略研发中心高级战略经理 张月峰,中集来福士市场营销中心市场经理 祝恺。 公司就以下问题进行了回复： 此次现场调研主要交流内容包括: 1、对海工板块的接单规模与全年业绩如何展望? 答:从订单储备看,今年上半年,海工业务新增订单32 亿美元,截至6月底累计在手订单76.2 亿美元,创历史最高订单记录。其中,油气/非油气订单占比约为6:4",
+     "source": "东方财富股票",
+     "zh": "【调研快报】中集集团接待花旗银行等32家机构调研"
+    },
+    {
+     "title": "又一家外商独资券商来了 花旗回应获得批复",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906524613.html",
+     "pubDate": "Fri, 23 Oct 2026 20:16:12 +0800",
+     "summary": "10月23日，证监会发布《关于核准设立花旗证券（中国）有限公司的批复》。此前，已有多家外商独资券商，分别是 摩根大通 证券（中国）、 高盛 （中国）证券、渣打证券（中国）、法巴证券（中国）、瑞穗证券（中国），以及由控股转为独资的瑞银证券。 证监会批复显示，证监会核准设立花旗证券（中国）有限公司（以下简称“花旗证券”）。据悉，花旗证券注册地为上海市，注册资本为人民币12亿元，业务范围为证券经纪、证券投资咨询、证券承销与保荐、证券自营。公司股东为花旗环球 金融控股 有限公司，出资额12亿元，出资比例100%。 花旗方面表示，花旗证券注册地为上海，这是花旗持续加大在华投入、推进本土化布局的有力见证；",
+     "source": "东方财富股票",
+     "zh": "又一家外商独资券商来了 花旗回应获得批复"
+    },
+    {
+     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 12:16:00 GMT",
+     "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+     "source": "MarketWatch",
+     "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
+    },
+    {
+     "title": "Intel in spotlight as Wedbush says tool installation at Az. fab should aid revenue growth",
+     "link": "https://seekingalpha.com/news/4656527-intel-in-spotlight-as-wedbush-says-tool-installation-at-az-fab-should-aid-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:15:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Intel in spotlight as Wedbush says tool installation at Az. fab should aid revenue growth"
+    },
+    {
+     "title": "Oracle commits $1 billion to partner ecosystem to support AI-driven customer modernization",
+     "link": "https://seekingalpha.com/news/4656530-oracle-commits-1-billion-to-partner-ecosystem-to-support-ai-driven-customer-modernization?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:14:21 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Oracle commits $1 billion to partner ecosystem to support AI-driven customer modernization"
+    },
+    {
      "title": "US fintech Coast secures $35m for physical economy payments platform",
      "link": "https://www.finextra.com/newsarticle/48639/us-fintech-coast-secures-35m-for-physical-economy-payments-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Fri, 23 Oct 2026 12:13:00 GMT",
@@ -2258,60 +2386,44 @@ window.INDUSTRY_DATA = {
      "zh": "US fintech Coast secures $35m for physical economy payments platform"
     },
     {
-     "title": "First Hawaiian GAAP EPS of $0.52 misses by $0.06, revenue of $230.2M beats by $1.28M",
-     "link": "https://seekingalpha.com/news/4656532-first-hawaiian-gaap-eps-of-0_52-misses-by-0_06-revenue-of-230_2m-beats-by-1_28m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 08:07:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "First Hawaiian GAAP EPS of $0.52 misses by $0.06, revenue of $230.2M beats by $1.28M"
-    },
-    {
-     "title": "Nike is bringing back a retro favorite lifestyle shoe next year",
-     "link": "https://seekingalpha.com/news/4656529-nike-is-bringing-back-a-retro-favorite-lifestyle-shoe-next-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 08:06:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nike is bringing back a retro favorite lifestyle shoe next year"
-    },
-    {
-     "title": "Gentex Non-GAAP EPS of $0.47 misses by $0.03, revenue of $647.7M misses by $21.94M",
-     "link": "https://seekingalpha.com/news/4656528-gentex-non-gaap-eps-of-0_47-misses-by-0_03-revenue-of-647_7m-misses-by-21_94m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 08:05:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gentex Non-GAAP EPS of $0.47 misses by $0.03, revenue of $647.7M misses by $21.94M"
-    },
-    {
-     "title": "MaxLinear's optical DSP growth draws Street attention",
-     "link": "https://seekingalpha.com/news/4656521-maxlinears-optical-dsp-growth-draws-street-attention?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:58:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MaxLinear's optical DSP growth draws Street attention"
-    },
-    {
-     "title": "Volvo Cars plunges 26% as CEO says China sales slump came &apos;faster than we thought&apos;",
-     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-     "pubDate": "Fri, 23 Oct 2026 11:58:40 GMT",
-     "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
+     "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+     "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+     "pubDate": "Fri, 23 Oct 2026 12:12:18 GMT",
+     "summary": "U.S. Treasury yields edged higher on Friday following a sharp reversal on Thursday.",
      "source": "CNBC",
-     "zh": "Volvo Cars plunges 26% as CEO says China sales slump came &apos;faster than we thought&apos;"
+     "zh": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries"
     },
     {
-     "title": "Edible Garden partners with Tennessee farm to boost margins",
-     "link": "https://seekingalpha.com/news/4656525-edible-garden-partners-with-tennessee-farm-to-boost-margins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:57:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Edible Garden partners with Tennessee farm to boost margins"
+     "title": "Fewer people are flying as airfare soars. Here&apos;s why airlines aren&apos;t worried",
+     "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+     "pubDate": "Fri, 23 Oct 2026 12:11:48 GMT",
+     "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
+     "source": "CNBC",
+     "zh": "Fewer people are flying as airfare soars. Here&apos;s why airlines aren&apos;t worried"
     },
     {
-     "title": "Apple in focus as Wedbush sees 'strong' demand for iPhone Duo",
-     "link": "https://seekingalpha.com/news/4656524-apple-in-focus-as-wedbush-sees-strong-demand-for-iphone-duo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:55:52 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple in focus as Wedbush sees 'strong' demand for iPhone Duo"
+     "title": "AI加速“挖漏洞”！网络安全专家警告：未来数月网络安全事件恐频发",
+     "link": "https://wallstreetcn.com/articles/3784335",
+     "pubDate": "Fri, 23 Oct 2026 20:09:43 +0800",
+     "summary": "人工智能正在以前所未有的速度挖掘软件漏洞，网络安全行业正面临一场结构性冲击。多位业内专家警告，未来数月内，类似本周席卷全球政府网站的大规模宕机事件将接连上演。 本周， 编程语言PHP被曝存在严重安全漏洞，欧洲及其他地区多个政府网站相继中断服务，部分运营商因无法在黑客抢先利用前完成修复，被迫直接将网站下线 。Cloudflare首席执行官Matthew Prince向路透社表示，他已知悉\"其他关键软件中存在大量额外的严重漏洞\"正在修补之中，并预言未来将迎来一段持续数年、\"每周都感觉天要塌下来\"的动荡期。 据路透社报道，七位网络安全专业人士一致认为，AI驱动的漏洞发现浪潮几乎必然引发更多类似本周的",
+     "source": "华尔街见闻",
+     "zh": "AI加速“挖漏洞”！网络安全专家警告：未来数月网络安全事件恐频发"
+    },
+    {
+     "title": "AI神曲《过来人》出圈 作者揭秘创作过程",
+     "link": "http://www.eeo.com.cn/2026/1023/1074000.shtml",
+     "pubDate": "Fri, 23 Oct 2026 20:09:00 +0800",
+     "summary": "这些古人不再是令人羡慕的诗仙、诗圣、皇帝、丞相，而是40岁还在长安“租房”或者“累死”在“工位”上的中年人，他们用说唱的形式对观众说：“我1000年前揣着跟你一样的心”。",
+     "source": "经济观察网",
+     "zh": "AI神曲《过来人》出圈 作者揭秘创作过程"
+    },
+    {
+     "title": "美国三大电信股盘前齐跌！SpaceX洽商接入8万基站，剑指全美\"第四大运营商\"",
+     "link": "https://wallstreetcn.com/articles/3784334",
+     "pubDate": "Fri, 23 Oct 2026 20:05:53 +0800",
+     "summary": "SpaceX正寻求与蜂窝基础设施公司洽谈，计划借助现有卫星网络与地面基站资源切入美国移动通信市场，这一消息在盘前引发电信板块剧烈震荡——传统运营商股价重挫，基站运营商却逆势大涨，市场对美国电信竞争格局的重新定价由此展开。 据路透报道，AT&T、Verizon和T-Mobile盘前跌幅均超过4% ，投资者担忧SpaceX一旦成功推出全国性无线运营商计划，将对三大运营商的用户基础与定价权构成直接冲击。 与此同时，SpaceX股价上涨1.5%，市场对其新业务前景持乐观态度。 基站运营商则走出截然相反的行情。Crown Castle盘前涨8.6%，American Tower涨6.1%，市场逻辑在于：",
+     "source": "华尔街见闻",
+     "zh": "美国三大电信股盘前齐跌！SpaceX洽商接入8万基站，剑指全美\"第四大运营商\""
     },
     {
      "title": "美国版“我不是药神”：一个美国儿子的上海买药之旅",
@@ -2346,148 +2458,36 @@ window.INDUSTRY_DATA = {
      "zh": "智界明年加速出海，不用华为智驾"
     },
     {
-     "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
-     "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 11:32:00 GMT",
-     "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
-     "source": "MarketWatch",
-     "zh": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean."
+     "title": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906504644.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:23 +0800",
+     "summary": "境内首批主动ETF中，已出现多个爆款基金。 10月23日，首批主动ETF发售首日，即有多只产品触及20亿元募集规模上限，宣布结束募集，并将采取比例配售。 主动ETF首日发售火爆 10月23日下午，摩根 资产管理 （中国）、易方达基金、富国基金均发布公告称，旗下主动ETF募集截止日提前至10月23日，即10月23日为最后一个募集日，10月24日起不再接受认购申请。 公告显示，上述产品均自10月23日开始募集，易方达品质均衡主动管理ETF原定募集截止日为10月29日，摩根 大盘成长 主动股票ETF、富国价值优选量化选股主动管理ETF原定募集截止日为10月30日。三只产品首次募集规模上限均为20亿元",
+     "source": "东方财富资讯",
+     "zh": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售"
     },
     {
-     "title": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?",
-     "link": "https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 11:24:00 GMT",
-     "summary": "Tech stocks are slumping — even as more than 300 S&P 500 constituents rose Thursday — and Treasurys are rallying. Here’s what may be changing.",
-     "source": "MarketWatch",
-     "zh": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?"
+     "title": "光模块龙头拟回购股份并注销",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906503898.html",
+     "pubDate": "Fri, 23 Oct 2026 19:45:16 +0800",
+     "summary": "10月23日晚，光模块龙头 天孚通信 公告称，公司董事会审议通过回购方案，拟使用自有资金以集中竞价方式回购股份，回购资金总额不低于1亿元且不超过1.5亿元，回购价格不超过350元/股。回购股份将全部注销并减少注册资本，实施期限为股东会审议通过后6个月内。该议案尚需提交股东会审议。 图片来源：公司公告 10月15日晚， 天孚通信 公告称，公司当日收到控股股东苏州天孚仁和投资管理有限公司出具的《关于提议苏州天孚光 通信 股份有限公司回购公司股份的函》，天孚仁和提议公司通过集中竞价交易方式，以自有或自筹资金回购股份，回购资金总额不低于1亿元（含）且不超过1.5亿元（含），回购价格上限为350元/股（",
+     "source": "东方财富资讯",
+     "zh": "光模块龙头拟回购股份并注销"
     },
     {
-     "title": "France is flashing euro crisis signals. This time, the fault lines are different",
-     "link": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
-     "pubDate": "Fri, 23 Oct 2026 11:12:38 GMT",
-     "summary": "French borrowing costs have surged as debt and political risks mount, raising questions over whether the stress could spread across the euro zone.",
-     "source": "CNBC",
-     "zh": "France is flashing euro crisis signals. This time, the fault lines are different"
+     "title": "福建前首富林秀成被批捕",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906502737.html",
+     "pubDate": "Fri, 23 Oct 2026 19:40:12 +0800",
+     "summary": "【导读】 三安光电 实控人林秀成被检察机关批准逮捕 10月23日晚间， 三安光电 发布公告称，公司实际控制人林秀成此前因涉嫌职务侵占、挪用资金罪被公安机关刑事拘留，近日收到其家属通知，林秀成被检察机关批准逮捕。 三安光电 表示，目前公司生产经营管理正常。林秀成自2017年7月10日以来未在公司担任任何职务，该事项与公司无关，不会对公司生产经营产生重大影响。 三安光电中报显示，林秀成系福建三安集团有限公司的控股股东，是公司的实际控制人。 公开资料显示，林秀成，1956年生于福建省安溪县。2000年成立三安 光电股份 有限公司，并在2002年成功研制出第一片外延片。2008年7月，三安光电在上海证",
+     "source": "东方财富资讯",
+     "zh": "福建前首富林秀成被批捕"
     },
     {
-     "title": "HSBC launches first stablecoin",
-     "link": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 23 Oct 2026 11:09:00 GMT",
-     "summary": "Global bank HSBC has launched RedCoin, its first stablecoin, for public use.",
-     "source": "Finextra",
-     "zh": "HSBC launches first stablecoin"
-    },
-    {
-     "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-     "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 11:01:00 GMT",
-     "summary": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’",
-     "source": "MarketWatch",
-     "zh": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on."
-    },
-    {
-     "title": "金属价格上涨驱动，紫金矿业Q3归母净利润同比增长25.97% | 财报见闻",
-     "link": "https://wallstreetcn.com/articles/3784327",
-     "pubDate": "Fri, 23 Oct 2026 18:56:20 +0800",
-     "summary": "益于黄金、铜等主营金属价格大幅上涨，叠加产量稳步释放与成本管控成效显现，紫金矿业2026年前三季度核心财务指标全面创历史新高，盈利能力大幅跃升。 紫金矿业周五披露2026年三季报， 前三季度归母净利润达575.26亿元，同比增长51.93%；扣非净利润558.42亿元，同比增长63.63%。 营业收入为2834.53亿元，同比增长11.51%。经营活动现金流净额843亿元，同比增长约62%，现金生成能力显著增强。 单季度来看， 第三季度归母净利润183.56亿元，同比增长25.97%；扣非净利润178.08亿元，同比增长42.43%；营业收入892.74亿元，同比增长3.22%。 公司表示，业",
-     "source": "华尔街见闻",
-     "zh": "金属价格上涨驱动，紫金矿业Q3归母净利润同比增长25.97% | 财报见闻"
-    },
-    {
-     "title": "Oil hits $114 for first time since May as global stocks knocked by AI fears",
-     "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-     "pubDate": "Fri, 23 Oct 2026 10:55:08 GMT",
-     "summary": "Markets face twin threats of surging crude prices and concern over durability of AI boom",
-     "source": "Financial Times",
-     "zh": "Oil hits $114 for first time since May as global stocks knocked by AI fears"
-    },
-    {
-     "title": "贝森特曾批评耶伦借短债危险，现在自己做得更过分",
-     "link": "https://wallstreetcn.com/articles/3784311",
-     "pubDate": "Fri, 23 Oct 2026 18:48:05 +0800",
-     "summary": "贝森特正将美国国债融资推向短期化，而这恰恰是他曾经警告过的危险策略。 10月23日，据英国《金融时报》报道，美国财政部将于11月4日公布下一季度发债计划， 市场预计，计划可能进一步提高短期国债的发行占比，包括削减甚至停止发行20年期国债，并加大长期国债回购力度。 目前，美国国债的加权平均到期期限已不足6年，明显短于英国的13年，以及德国、法国和日本的约8年。若进一步转向短债，美国政府将需要更频繁地为到期债务再融资。 颇具讽刺意味的是，贝森特曾公开批评前任财政部长耶伦缩短国债期限，警告此举会使美国“危险地暴露于利率波动之下”。 如今，他却准备进一步推进短债融资，使自己曾经指出的风险再次成为政策争",
-     "source": "华尔街见闻",
-     "zh": "贝森特曾批评耶伦借短债危险，现在自己做得更过分"
-    },
-    {
-     "title": "车企激辩自动驾驶“下半场”：究竟要不要跳过L3？",
-     "link": "http://www.eeo.com.cn/2026/1023/1073941.shtml",
-     "pubDate": "Fri, 23 Oct 2026 18:47:52 +0800",
-     "summary": "从各方表态来看，2028年是车企L3/L4量产预期的时间节点，但路线分歧并未消解：比亚迪选择从限定场景L3逐步向更广泛场景迭代，小鹏试图以L4架构覆盖L3阶段，蔚来则把硬件、技术和运营体系准备到“监管允许即可跟进”。",
-     "source": "经济观察网",
-     "zh": "车企激辩自动驾驶“下半场”：究竟要不要跳过L3？"
-    },
-    {
-     "title": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?",
-     "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 10:45:00 GMT",
-     "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
-     "source": "MarketWatch",
-     "zh": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?"
-    },
-    {
-     "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3784326",
-     "pubDate": "Fri, 23 Oct 2026 18:40:45 +0800",
-     "summary": "寒武纪三季度营收、净利润继续保持高速增长，人工智能应用落地带动业务规模进一步扩大。10月23日，寒武纪披露2026年第三季度报告， 第三季度实现营业收入35.31亿元，同比增长104.47%；归属于上市公司股东的净利润为14.04亿元，同比增长147.74%。 前三季度，公司累计实现营业收入95.26亿元，同比增长106.76%；归母净利润37.15亿元，同比增长131.49%。营收和利润增速均超过100%，净利润增速高于营收增速，盈利规模进一步扩大。 寒武纪在财报中表示，营收增长主要得益于持续拓展市场、积极助力人工智能应用落地。 随着AI算力需求增长及相关应用逐步推进，公司业务规模持续扩张。",
-     "source": "华尔街见闻",
-     "zh": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻"
-    },
-    {
-     "title": "中文在线撤回港股IPO背后：“腾讯系”的光环、业绩亏损和短剧出海",
-     "link": "http://www.eeo.com.cn/2026/1023/1073965.shtml",
-     "pubDate": "Fri, 23 Oct 2026 18:33:00 +0800",
-     "summary": "10月8日，中文在线撤回港股IPO并且终止国内A股的定增募资后，市场有声音称公司股东之间可能存在分歧。10月22日上午，经济观察报记者以投资者身份致电中文在线证券部，询问这个问题，工作人员称股东之间没有分歧；撤回港股IPO和终止定增募资的原因，已在深交所问询函里回复。",
-     "source": "经济观察网",
-     "zh": "中文在线撤回港股IPO背后：“腾讯系”的光环、业绩亏损和短剧出海"
-    },
-    {
-     "title": "Democratic socialist set to become D.C. mayor — and face Trump&apos;s pushback",
-     "link": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
-     "pubDate": "Fri, 23 Oct 2026 10:30:01 GMT",
-     "summary": "Following Zohran Mamdani's election as New York City mayor, another democratic socialist is set to become mayor of Washington, D.C.",
-     "source": "CNBC",
-     "zh": "Democratic socialist set to become D.C. mayor — and face Trump&apos;s pushback"
-    },
-    {
-     "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
-     "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 10:29:00 GMT",
-     "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
-     "source": "MarketWatch",
-     "zh": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash"
-    },
-    {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 10:15:00 GMT",
-     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-     "source": "MarketWatch",
-     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-    },
-    {
-     "title": "Corruption is voters&apos; top issue ahead of midterm election, CNBC survey shows",
-     "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
-     "pubDate": "Fri, 23 Oct 2026 10:00:01 GMT",
-     "summary": "Democrats have worked to contrast economic hardship with President Trump's surging net worth and his family's lucrative business dealings.",
-     "source": "CNBC",
-     "zh": "Corruption is voters&apos; top issue ahead of midterm election, CNBC survey shows"
-    },
-    {
-     "title": "Nvidia&apos;s Huang heads to Kazakhstan for the first time — and he&apos;s not the only one with big plans",
-     "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-     "pubDate": "Fri, 23 Oct 2026 09:21:59 GMT",
-     "summary": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.",
-     "source": "CNBC",
-     "zh": "Nvidia&apos;s Huang heads to Kazakhstan for the first time — and he&apos;s not the only one with big plans"
-    },
-    {
-     "title": "Winter arrives in markets",
-     "link": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
-     "pubDate": "Fri, 23 Oct 2026 05:30:08 GMT",
-     "summary": "Bonds and stocks tell the same chilly story",
-     "source": "Financial Times",
-     "zh": "Winter arrives in markets"
+     "title": "10月23日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906498144.html",
+     "pubDate": "Fri, 23 Oct 2026 19:32:43 +0800",
+     "summary": "沪深两市多家上市公司10月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 协和电子 ：控股股东筹划公司控制权变更事项 26日起停牌 协和电子 (605258)10月23日公告，公司控股股东张南国、张敏金、张南星、张建荣正在筹划重大事项，该事项可能导致公司控制权发生变更，公司股票自10月26日开市起停牌，预计停牌不超过2个交易日。 中国神华 ：全资子公司拟约6.18亿元购买煤制气公司50%股权 中国神华 (601088)10月23日公告，公司全资子公司新疆能源拟以非公开协议方式，购买西部能源所持国能新疆煤制气有限公司（简称“煤制气公司”）50%股权，交易对价约6.18亿元。交易完成后，",
+     "source": "东方财富资讯",
+     "zh": "10月23日晚间沪深上市公司重大事项公告最新快递"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 14:12:03",
+ "generated_at": "2026/10/23 14:21:27",
  "recent_days": 7,
  "industries": [
   {
@@ -138,20 +138,20 @@ window.INDUSTRY_DATA = {
      "zh": "Build more responsive apps with the Decisions API"
     },
     {
-     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-     "source": "TechCrunch AI",
-     "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
-    },
-    {
      "title": "Canva releases its first image generation model",
      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
      "source": "TechCrunch AI",
      "zh": "Canva releases its first image generation model"
+    },
+    {
+     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
     },
     {
      "title": "The Foundations of Scalable AI",
@@ -218,14 +218,6 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋又投一家AI创企，成立一年估值超400亿，要给GPU提效"
     },
     {
-     "title": "How to Process Large JSON Files in Python With ijson",
-     "link": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
-     "pubDate": "Thu, 22 Oct 2026 14:00:00 +0000",
-     "summary": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
-     "source": "KDnuggets",
-     "zh": "How to Process Large JSON Files in Python With ijson"
-    },
-    {
      "title": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低",
      "link": "https://zhidx.com/p/603664.html",
      "pubDate": "Thu, 22 Oct 2026 21:35:27 +0800",
@@ -242,12 +234,20 @@ window.INDUSTRY_DATA = {
      "zh": "蚂蚁版Jev模型来了！27B版本综合评分第一，Token省90%"
     },
     {
-     "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
-     "link": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
-     "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
-     "summary": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn more, including how to run the free demo yourself.",
-     "source": "KDnuggets",
-     "zh": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining"
+     "title": "24小时，从真实问题到落地跑通，安克黑客松让创新成为“有源之水”",
+     "link": "https://zhidx.com/p/603876.html",
+     "pubDate": "Thu, 22 Oct 2026 19:40:09 +0800",
+     "summary": "智东西 作者 | 云鹏 编辑｜漠影 现在，试想这样一些场景： 当你上课时遇到没听懂的地方，轻点两下夹在领口上的录音豆，课后AI就会从你点击的那一刻讲起，为你细心答疑，不需要举手、不需要打断任何人； 当快递件丢失时，AI系统直接通过摄像头逐帧分析，智能锁定可疑人员，快速定位，输出一条拼接完整的视频，省去大量人工复查时间、大幅降低沟通成本； 在大洋彼岸的欧洲用户家中，家庭储能智能调度系统通过AI优化光储经济，减少太阳能浪费，一年为用户省下数百欧元的电费； 今天，这些场景绝非空谈，而是选手们在为期24小时的安克AI黑客松大赛中做出的优秀作品。这些作品有着成熟的方案构想，甚至基于真实的安克智能硬件产品",
+     "source": "智东西",
+     "zh": "24小时，从真实问题到落地跑通，安克黑客松让创新成为“有源之水”"
+    },
+    {
+     "title": "Making the case for context-aware AI",
+     "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+     "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
+     "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies",
+     "source": "MIT Tech Review AI",
+     "zh": "Making the case for context-aware AI"
     }
    ]
   },
@@ -970,12 +970,28 @@ window.INDUSTRY_DATA = {
      "zh": "Utilities turn to AI to manage rising power demand — from AI"
     },
     {
+     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
+     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
+    },
+    {
      "title": "Jigar Shah blames the wrong target for rising electricity bills",
      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
      "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
      "source": "Utility Dive",
      "zh": "Jigar Shah blames the wrong target for rising electricity bills"
+    },
+    {
+     "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+     "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+     "pubDate": "Thu, 22 Oct 2026 10:42:49 -0400",
+     "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
+     "source": "Utility Dive",
+     "zh": "Google supersizes PJM virtual power plant to more than 1 GW"
     },
     {
      "title": "Global energy storage deployments will see 45% year-on-year ‘growth surge’ in 2026: BloombergNEF",
@@ -1064,22 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "BESS investments in the French market are moving to longer durations with saturation expected to hit the secondary reserve market, currently the main way operational projects make their money.",
      "source": "Energy Storage News",
      "zh": "France’s storage market moves to higher durations with secondary reserve saturation ‘cliff-edge’ approaching"
-    },
-    {
-     "title": "Rwanda tenders 200 MW floating PV, 800 MWh BESS project",
-     "link": "https://www.pv-magazine.com/2026/10/22/rwanda-tenders-200-mw-floating-pv-800-mwh-bess-project/",
-     "pubDate": "Thu, 22 Oct 2026 10:45:00 +0000",
-     "summary": "A tender is open in Rwanda for a 200 MW floating solar plant to be tied to 800 MWh of battery storage. The deadline to submit pre-qualification bids is November 12. The post Rwanda tenders 200 MW floating PV, 800 MWh BESS project appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Rwanda tenders 200 MW floating PV, 800 MWh BESS project"
-    },
-    {
-     "title": "Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon",
-     "link": "https://www.pv-tech.org/kendall-sustainable-infrastructure-brings-16mw-of-community-solar-online-in-new-york-and-oregon/",
-     "pubDate": "Thu, 22 Oct 2026 09:01:51 +0000",
-     "summary": "Kendall Sustainable Infrastructure (KSI) has started operating three community solar projects totalling 15.8MWdc across New York and Oregon.",
-     "source": "PV Tech",
-     "zh": "Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon"
     }
    ]
   },
@@ -1289,6 +1289,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "European MNOs Join Forces to Explore Joint MSS Spectrum Bid",
+     "link": "https://payloadspace.com/european-mnos-join-forces-to-explore-joint-mss-spectrum-bid/",
+     "pubDate": "Fri, 23 Oct 2026 06:16:00 +0000",
+     "summary": "Deutsche Telekom, Telefónica, Orange, and Vodafone plan to establish ground network infrastructure across Europe, and partner with an as-yet undetermined satellite operator for the D2D connection. The post European MNOs Join Forces to Explore Joint MSS Spectrum Bid appeared first on Payload .",
+     "source": "Payload",
+     "zh": "European MNOs Join Forces to Explore Joint MSS Spectrum Bid"
+    },
     {
      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
      "link": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
@@ -1504,14 +1512,6 @@ window.INDUSTRY_DATA = {
      "summary": "“The United States government has a fundamental obligation to protect American personnel serving overseas,” the senators wrote. “The possibility that American personnel were endangered by preventable disruptions, inadequate coordination, or decisions made by their own government demands immediate sc",
      "source": "Payload",
      "zh": "Congress Seeks Answers On Starlink Disruptions in Ukraine"
-    },
-    {
-     "title": "State Department Taps Trio for $5M Space Diplomacy Push",
-     "link": "https://payloadspace.com/state-department-taps-trio-for-5m-space-diplomacy-push/",
-     "pubDate": "Tue, 20 Oct 2026 12:45:00 +0000",
-     "summary": "At last week’s second annual US Space Forum, the US Mission to the International Organizations in Vienna launched Project Constellation, a $5M effort to build international space partnerships. The post State Department Taps Trio for $5M Space Diplomacy Push appeared first on Payload .",
-     "source": "Payload",
-     "zh": "State Department Taps Trio for $5M Space Diplomacy Push"
     },
     {
      "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
@@ -1754,6 +1754,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "首发价 3299 → 2171 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力 + 蒸汽热水混洗",
+     "link": "https://www.ithome.com/1/016/999.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:18:56 GMT",
+     "summary": "【京东活动可能随时变更，需以实付款为准】 石头 A30 Pro Steam 3.0 洗地机 2026 年 8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 2171.75 元： 领 2000-235 元券：点击下方卡片跳转详情页后，系统自动发放。 下单时选择“以旧换新 → 个护健康 → 电动牙刷 （无需回收）”补贴 150 元。 京东 石头 A30 Pro Steam 3.0 洗地机 180° 蒸汽 + 90° 热水 以旧换新后 2171.75 ",
+     "source": "IT之家",
+     "zh": "首发价 3299 → 2171 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力 + 蒸汽热水混洗"
+    },
+    {
+     "title": "“AI 教父”辛顿再抛悲观论：AI 已经拥有意识，人类必须与其友好相处",
+     "link": "https://www.ithome.com/1/016/998.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:18:33 GMT",
+     "summary": "IT之家 10 月 23 日消息，被誉为“AI 教父”之一的英国计算机科学家杰弗里 · 辛顿，再次对人类的未来发出悲观警告。 辛顿接受英国《每日电讯报》采访时坚称，AI 已经具备意识，人类必须与 AI 友好相处， 否则“我们就完了” 。 在他看来，即便是当下的 AI 模型，也拥有自己的意识。“AI 拥有与人类同等程度的主观体验。最近有篇论文发现， AI 如果认为自己在接受测试，就会改变行为。它知道自己在接受测试 。通常来说，如果一个事物能够觉察到这种情况，就意味着它有意识。意识和觉察能力基本是一回事。” 辛顿是 2018 年图灵奖的三名得主之一，并于 2024 年获得诺贝尔物理学奖。图灵奖素有",
+     "source": "IT之家",
+     "zh": "“AI 教父”辛顿再抛悲观论：AI 已经拥有意识，人类必须与其友好相处"
+    },
+    {
+     "title": "VGN 推出蜻蜓 3 mini 系列鼠标：约 52g、适合中小手，249 元起",
+     "link": "https://www.ithome.com/1/016/994.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:13:36 GMT",
+     "summary": "IT之家 10 月 23 日消息，VGN 推出蜻蜓 3 mini 系列鼠标，现已开始预售， 售价 249 元起 ： 蜻蜓 3 mini Turbo：PAW3950 Extreme，249 元 蜻蜓 3 mini Turbo+：PAW3955 Extreme，299 元 这款鼠标适合中小手，尺寸为 118×61×38mm，重量约 52g；整体经过重新设计，专为中小手用户优化，长度缩小 6% 、宽度缩小 3% 、最高点降低 5% 、背坡弧度调整 7%。 这款鼠标采用双 Nordic 54LM20 主控方案，实现了双 8K 原生回报率，按键延迟低至 0.175ms；采用 PAW3950 Extrem",
+     "source": "IT之家",
+     "zh": "VGN 推出蜻蜓 3 mini 系列鼠标：约 52g、适合中小手，249 元起"
+    },
+    {
+     "title": "2399 → 1223 元国补直降：石头 A30 Pro 2.0 洗地机 5 折新低，25kPa 大吸力、95℃ 高温自清洁",
+     "link": "https://www.ithome.com/1/016/993.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:11:50 GMT",
+     "summary": "【京东活动可能随时变更，需以实付款为准】 石头 A30 Pro 2.0 洗地机发售于 2026 年 3 月，该产品提供 25000Pa 吸力，首发价 2399 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1223.93 元： 领 1000-120 元券：点击下方卡片跳转详情页后，系统自动发放。 下单时选择“以旧换新 → 个护健康 → 电动牙刷 （无需回收）”补贴 80 元。 参与多买多返满 500 返 5 元。 京东 石头 A30 Pro 2.0 洗地机 AI 全向助力 25kPa 吸力 以旧换新后 1223.93 元 直达链接 京东 11.11 无门槛红包至高",
+     "source": "IT之家",
+     "zh": "2399 → 1223 元国补直降：石头 A30 Pro 2.0 洗地机 5 折新低，25kPa 大吸力、95℃ 高温自清洁"
+    },
+    {
+     "title": "法国债务风险，开始外溢了？",
+     "link": "https://www.huxiu.com/article/4899869.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 14:11:26 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 周四，由于市场对法国财政状况紧张及本周末再度进行街头抗议活动的担忧打压了市场情绪，法国国债与区域内避险资产德国国债的溢价，进一步扩大至了15年来的最高水平。 行情数据显示，法国基准10年期国债收益率周四尾盘报5.06%，上涨6.5个基点，此前曾一度触及5.1415%，创下自2002年7月以来的最高水平。 其与10年期德国国债的利差一度扩大至逾180个基点，创下自2011年11月欧元区债务危机以来的最大值，凸显了投资者对法国财政前景的深层担忧。 法国5年期信用违约互换(CDS)利差目前已突破100个基点，这是自2012年以来的首次…… 事实上，当法国国",
+     "source": "虎嗅",
+     "zh": "法国债务风险，开始外溢了？"
+    },
+    {
      "title": "沃尔沃汽车宣布全球再裁约 2500 人，2026Q3 在中国交付量同比降 40%",
      "link": "https://www.ithome.com/1/016/976.htm",
      "pubDate": "Fri, 23 Oct 2026 06:02:55 GMT",
@@ -1778,44 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "微星 MPG COREFROZR AP15 双塔风冷散热器体验：磁吸数显屏 + 内存全避让设计"
     },
     {
-     "title": "微星首款带屏风冷 MPG COREFROZR AP15 上市：三路数显，549 元",
-     "link": "https://www.ithome.com/1/016/974.htm",
-     "pubDate": "Fri, 23 Oct 2026 05:59:25 GMT",
-     "summary": "IT之家 10 月 23 日消息，微星 (MSI) 首款带屏处理器风冷散热器 MPG COREFROZR AP15 现已上市。其支持三路数显， 可同时监控 CPU、GPU、DRAM 温度 ，售价 549 元。 MPG COREFROZR AP15 整体为双塔双风扇 6 热管铜底结构 ，塔体采取避让内存模组的非对称偏移设计，支持免拆风扇安装，兼容微星 EZ Conn 一线连。其两颗风扇均为 12025 规格，采用 FDB 轴承，前置最大转速 2000RPM、中置最大转速 1600RPM。 该散热器高度 168mm，兼容英特尔 Socket V (FCLGA1851 / FCLGA1700)、AM",
-     "source": "IT之家",
-     "zh": "微星首款带屏风冷 MPG COREFROZR AP15 上市：三路数显，549 元"
-    },
-    {
-     "title": "乘联分会崔东树：1-9 月中国汽车出口 863 万辆同比增长 52%，全年预计 1200 万辆",
-     "link": "https://www.ithome.com/1/016/972.htm",
-     "pubDate": "Fri, 23 Oct 2026 05:50:21 GMT",
-     "summary": "IT之家 10 月 23 日消息，乘联分会秘书长崔东树今日发文，2026 年 1-9 月中国汽车实现出口 863 万辆，同比 2025 年同期增速 52%，9 月中国汽车实现出口 118 万辆，同比增长 55%，环比增长 13%，总体走势总体较强。 崔东树表示，今年的主要动力仍是高油价和中国产品竞争力提升和全球南方国家市场的持续增长。 IT之家获悉，中国汽车出口自 2021 年突破百万量级后持续高增长（2021 年同比增长 102%，2022-2023 年同比增长 50%+，2024-2025 年增速回落至 30% 左右），2026 年 1-9 月出口 863 万辆（同比 2025 年增长 5",
-     "source": "IT之家",
-     "zh": "乘联分会崔东树：1-9 月中国汽车出口 863 万辆同比增长 52%，全年预计 1200 万辆"
-    },
-    {
-     "title": "复古游戏模拟器 Delta 2.0 上线：苹果 iPhone Duo 变身“掌上双屏游戏机”",
-     "link": "https://www.ithome.com/1/016/971.htm",
-     "pubDate": "Fri, 23 Oct 2026 05:47:11 GMT",
-     "summary": "IT之家 10 月 23 日消息，科技媒体 9to5Mac 昨日（10 月 22 日）发布博文，报道称复古游戏模拟器 Delta 更新至 2.0 版本， 在适配苹果首款折叠 iPhone Duo 之外，在界面上融入了液态玻璃（Liquid Glass）设计。 在游戏体验方面，Delta 针对 iPhone Duo 的多种使用姿势，设计了专属虚拟手柄皮肤，其中最值得关注的是任天堂 DS 布局。应用可充分利用内屏尺寸，在竖向“书本模式”下跨越折叠铰链，把上半屏作为游戏画面、下半屏作为触控操作区，还原真实 DS 的双屏体验。IT之家附上相关图片如下： 在横屏分屏场景中，Delta 也做了一个巧妙设计",
-     "source": "IT之家",
-     "zh": "复古游戏模拟器 Delta 2.0 上线：苹果 iPhone Duo 变身“掌上双屏游戏机”"
-    },
-    {
      "title": "普莱医药：累计亏损近9亿，巨额赎回负债如影随形｜IPO观察",
      "link": "https://www.tmtpost.com/8173243.html",
      "pubDate": "Fri, 23 Oct 2026 13:46:37 +0800",
      "summary": "普莱医药聚焦抗感染、代谢疾病两大赛道，布局四款候选药物，但核心新药均尚未实现商业化落地，当前营收几乎全部依靠日用护理产品。",
      "source": "钛媒体",
      "zh": "普莱医药：累计亏损近9亿，巨额赎回负债如影随形｜IPO观察"
-    },
-    {
-     "title": "受 PHP 漏洞影响，Sonos 音响官方 App 暂停国内网易云音乐、QQ 音乐、酷狗音乐、酷我音乐服务",
-     "link": "https://www.ithome.com/1/016/970.htm",
-     "pubDate": "Fri, 23 Oct 2026 05:42:58 GMT",
-     "summary": "IT之家 10 月 23 日消息，近日， PHP 曝出存在 CVE-2026-109618 和 CVE-2026-109619 两个远程代码执行超危漏洞 ，危害严重。此次漏洞可能允许未经身份验证的攻击者远程执行代码，进而篡改网站内容、读取敏感数据或入侵服务器。PHP 基金会已于 10 月 21 日发布紧急安全更新，修复版本包括 PHP 8.5.12、8.4.27、8.3.36 和 8.2.35。 美国音响品牌 Sonos 中国团队今日（10 月 23 日）发布公告，受 PHP 全球安全漏洞影响，为保障用户的数据安全，Sonos 正在推送安全更新， 在 Sonos App 内暂停使用网易云音乐、",
-     "source": "IT之家",
-     "zh": "受 PHP 漏洞影响，Sonos 音响官方 App 暂停国内网易云音乐、QQ 音乐、酷狗音乐、酷我音乐服务"
     },
     {
      "title": "是什么阻止了这代人开心起来",
@@ -1872,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 看理想 ，作者：看理想编辑部 不久前，小红书上流行起一句话：“全网进入大辞职时代。”很多困在格子间里的打工人，看到后都心里一动。 在就业环境愈发动荡的当下，大部分职场人都有这样的切身体会：自己不得不付出更多时间、精力，乃至尊严，去交换五险一金所代表的“稳定”。每到这种时候，辞职就变成了一个充满诱惑的按钮，似乎一键按下，就能终结全部焦虑。 在打工人的想象中，与上班相对的自由职业就像一个乌托邦，承载着无限向往。然而，公众的认知常常添加了太多滤镜。 在社交媒体上，自由职业者的形象总是被描绘为两个极端。要么是打扮光鲜的博主，在五光十色的特效里环游世界；要么是颓丧、低精力、昼夜颠倒",
      "source": "虎嗅",
      "zh": "“全网进入大辞职时代”"
-    },
-    {
-     "title": "观点｜别不承认，你肯定也想做个“纯过日子人”",
-     "link": "https://www.huxiu.com/article/4899856.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 13:17:46 +0800",
-     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《观点｜别不承认，你肯定也想做个“纯过日子人”》 前几天刷到一个词，叫“纯过日子人”。 它形容的是当下年轻人一种很微妙的状态：不追求高频、大额的物质刺激，不再硬卷，也不彻底躺平；主动切断那些让自己内耗的宏大叙事，把精力收回到吃饭、睡觉、上班这些日常小事上。 我审视了一下自己，又看了看身边的朋友，发现这个词的穿透力极强。它不像“躺平”那样带着点破罐子破摔的颓丧，也不像“精英主义”那样时刻紧绷。 它其实在回答一个问题：当年轻人不再硬撑着去证明什么，他们究竟在过一种怎样的生活？ 从“面子溢价”到“里子自由” 先看几个肉眼可见的变化。 LVMH",
-     "source": "虎嗅",
-     "zh": "观点｜别不承认，你肯定也想做个“纯过日子人”"
     },
     {
      "title": "Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)",
@@ -2250,6 +2250,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+     "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+     "pubDate": "Fri, 23 Oct 2026 06:15:54 GMT",
+     "summary": "European governments race to turn defense spending pledges into military capability, boosting companies' order books.",
+     "source": "CNBC",
+     "zh": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine"
+    },
+    {
+     "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+     "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 06:15:00 GMT",
+     "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+     "source": "MarketWatch",
+     "zh": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
+    },
+    {
+     "title": "Evolution Q3 profit falls despite revenue growth",
+     "link": "https://seekingalpha.com/news/4656437-evolution-q3-profit-falls-despite-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 02:13:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Evolution Q3 profit falls despite revenue growth"
+    },
+    {
+     "title": "同行IPO集体退潮，Anthropic独闯11月中旬窗口：1.5万亿美元估值直面流动性大考",
+     "link": "https://wallstreetcn.com/articles/3784294",
+     "pubDate": "Fri, 23 Oct 2026 14:10:14 +0800",
+     "summary": "原本热闹的秋季科技IPO档期已几近清空，仅剩Anthropic一家独撑局面。在AI基础设施板块遭遇利率冲击、估值承压、同类公司纷纷延期或撤单的背景下，这家AI实验室仍坚持按计划推进上市，以高达1.5万亿美元的潜在估值，直面当前市场的流动性考验。 据路透援引知情人士消息， Anthropic计划最快于10月底公开招股说明书，并于11月中旬完成IPO，预计将于11月9日当周启动面向机构投资者的路演。 知情人士同时提示，上述计划及时间节点仍可能发生变化。 与此同时，AI基础设施及数据中心领域的多家同类公司已相继推迟上市。 传数据中心运营商Switch、Nscale、软银旗下SB Energy，以及黑",
+     "source": "华尔街见闻",
+     "zh": "同行IPO集体退潮，Anthropic独闯11月中旬窗口：1.5万亿美元估值直面流动性大考"
+    },
+    {
+     "title": "美国最大养老金撤退！Calpers大幅砍仓“Mag 7”转投私募",
+     "link": "https://wallstreetcn.com/articles/3784296",
+     "pubDate": "Fri, 23 Oct 2026 14:09:46 +0800",
+     "summary": "美国最大公共养老金正在重新布局。加州公务员退休系统（Calpers）大幅削减对\"科技七巨头\"的持仓，转而加码私募股权，这一动向折射出机构投资者对美股科技板块高估值与集中度风险的深层忧虑。 据英国《金融时报》报道，Calpers副首席投资官Anton Orlich在采访中证实了这一战略转向。 该基金在2026年上半年将直接持有的\"Mag 7\"股票总数削减了26%，转而分散布局数百家公司以降低权益端集中风险。与此同时，Calpers正提升私募股权敞口，理由是私募市场估值相对更具吸引力。 此次调仓发生于美股科技板块承压之前。本周多家科技巨头财报公布后，市场对人工智能支出能否转化为实际回报的疑虑升温，",
+     "source": "华尔街见闻",
+     "zh": "美国最大养老金撤退！Calpers大幅砍仓“Mag 7”转投私募"
+    },
+    {
+     "title": "UK retail sales rise 0.8% Y/Y in September, below expectations",
+     "link": "https://seekingalpha.com/news/4656436-uk-retail-sales-rise-08-yy-in-september-below-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 02:09:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "UK retail sales rise 0.8% Y/Y in September, below expectations"
+    },
+    {
      "title": "贝斯特10月23日快速上涨",
      "link": "http://stock.eastmoney.com/news/1944,202610233906042575.html",
      "pubDate": "Fri, 23 Oct 2026 13:58:15 +0800",
@@ -2354,22 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Winter arrives in markets"
     },
     {
-     "title": "Norsk Hydro reports Q3 results",
-     "link": "https://seekingalpha.com/news/4656428-norsk-hydro-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 01:29:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Norsk Hydro reports Q3 results"
-    },
-    {
-     "title": "Boyd targets $150M quarterly share repurchases while Norfolk resort stays on track for November 2027 opening",
-     "link": "https://seekingalpha.com/news/4656429-boyd-targets-150m-quarterly-share-repurchases-while-norfolk-resort-stays-on-track-for?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 01:28:11 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Boyd targets $150M quarterly share repurchases while Norfolk resort stays on track for November 2027 opening"
-    },
-    {
      "title": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%",
      "link": "https://wallstreetcn.com/articles/3784272",
      "pubDate": "Fri, 23 Oct 2026 13:11:52 +0800",
@@ -2426,22 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "CoreWeave融资缺口有多大？高盛：只有230亿，买入！伯恩斯坦：760亿，危险！"
     },
     {
-     "title": "日本核心CPI年内首破2%，超过80%经济学家预计12月加息",
-     "link": "https://wallstreetcn.com/articles/3784280",
-     "pubDate": "Fri, 23 Oct 2026 12:11:18 +0800",
-     "summary": "日本9月通胀数据全面超越日本央行政策目标，深层价格压力加速扩散，市场对年内加息的预期进一步升温。 10月23日， 日本总务省公布的数据显示， 日本9月核心CPI同比上涨2.1%，九个月来首次突破日本央行2%的目标 ，数据符合经济学家预期中值，较8月的1.7%明显加速。 更受日本央行关注的剔除生鲜食品和能源的深层通胀指标同比上涨2.4%，大幅高于8月的1.9%，显示需求驱动型价格压力正在持续积聚。 据彭博调查， 超过80%的经济学家预计日本央行将在12月加息，无一人预计下周会议将采取行动 。据路透援引知情人士称，日本央行下周预计维持政策不变，但可能上调通胀预测，并暗示准备继续推高仍处低位的借贷成",
-     "source": "华尔街见闻",
-     "zh": "日本核心CPI年内首破2%，超过80%经济学家预计12月加息"
-    },
-    {
-     "title": "卢比反弹遭遇“避险+油价”双杀，印度央行的防线还能撑多久？",
-     "link": "https://wallstreetcn.com/articles/3784284",
-     "pubDate": "Fri, 23 Oct 2026 12:09:13 +0800",
-     "summary": "印度卢比刚刚创下六周新高，转眼间就面临一场压力测试。全球资金涌向美债和日元等避险资产，叠加布伦特原油逼近每桶115美元，正在从两个方向同时挤压这个高度依赖能源进口的经济体。 周五开盘，交易员预计美元兑印度卢比将在94.84-94.88区间波动，此前一交易日收于94.8175。就在前一个交易日，卢比还一度升至94.30附近的逾六周高点，随后迅速回吐涨幅。 银行人士表示，此番逆转的速度之快及其与大盘走势的背离令市场感到意外，进一步加大了卢比前景的不确定性。在避险资金加速流动与油价持续走高的双重夹击下，卢比所承受的压力正在累积。 避险交易回归，美债收益率与股市同步转向 触发这轮避险情绪的直接导火索，",
-     "source": "华尔街见闻",
-     "zh": "卢比反弹遭遇“避险+油价”双杀，印度央行的防线还能撑多久？"
-    },
-    {
      "title": "Beware Bessent’s tilt towards short-term debt",
      "link": "https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1",
      "pubDate": "Fri, 23 Oct 2026 04:00:28 GMT",
@@ -2472,22 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
      "source": "Financial Times",
      "zh": "AI oversight needs a different model to banking"
-    },
-    {
-     "title": "马斯克为何认为算力会长期短缺？",
-     "link": "http://www.eeo.com.cn/2026/1023/1073239.shtml",
-     "pubDate": "Fri, 23 Oct 2026 10:49:43 +0800",
-     "summary": "在马斯克看来，算力需求会长期大于供给，而眼下制约供给的，更多是电力、冷却和基础设施，芯片还在其次。",
-     "source": "经济观察网",
-     "zh": "马斯克为何认为算力会长期短缺？"
-    },
-    {
-     "title": "AI投资回报受质疑，黄仁勋详解Token需求场景",
-     "link": "http://www.eeo.com.cn/2026/1023/1073234.shtml",
-     "pubDate": "Fri, 23 Oct 2026 10:46:56 +0800",
-     "summary": "按照黄仁勋讲的制造业逻辑，AI工厂的投资能否收回，一要看工厂能否建得快、用电省，二要看建成以后，生产出来的Token有没有足够的买家。",
-     "source": "经济观察网",
-     "zh": "AI投资回报受质疑，黄仁勋详解Token需求场景"
     }
    ]
   },

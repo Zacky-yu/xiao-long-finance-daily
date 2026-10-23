@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 20:49:53",
+ "generated_at": "2026/10/23 20:53:43",
  "recent_days": 7,
  "industries": [
   {
@@ -56,6 +56,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 黄菲 编辑 | 江宇 智东西10月23日消息，据TechCrunch昨日报道，OpenAI已面向所有客户开放决策接口Decisions API，该接口基于推理模型GPT-6 Luna优化了推理速度与成本，部分场景下响应时间可由1至3秒缩短到100至180毫秒。 Decisions API主要面向答案范围明确的任务。开发者可以预先设定问题和可选答案，由该模型输出概率、选项或评分，用于内容分类、请求分流，以及决定AI智能体下一步采取什么行动。 这一产品瞄准的是快速、低成本的AI决策市场。 9月15日，AI初创公司TypeSafe推出的Jev决策模型，该模型可专门根据预设选项快速作",
      "source": "智东西",
      "zh": "OpenAI给GPT-6装上“快脑”！100毫秒做决策，API全面开放"
+    },
+    {
+     "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+     "link": "https://www.qbitai.com/2026/10/504901.html",
+     "pubDate": "Fri, 23 Oct 2026 07:35:51 +0000",
+     "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+     "source": "量子位",
+     "zh": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径"
     },
     {
      "title": "宁德时代投的北京机器人创企，秘密递表港交所",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
      "source": "TechCrunch AI",
      "zh": "Canva 发布首个图像生成模型"
-    },
-    {
-     "title": "The Foundations of Scalable AI",
-     "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-     "pubDate": "Thu, 22 Oct 2026 18:48:04 +0000",
-     "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how",
-     "source": "MIT Tech Review AI",
-     "zh": "可扩展人工智能的基础"
     }
    ]
   },
@@ -1562,12 +1562,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI 代理作为内部威胁：微软押注统一安全堆栈的内部"
     },
     {
-     "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+     "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
      "pubDate": "Fri, 23 Oct 2026 16:55:43 +0530",
-     "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk. The projec",
+     "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project",
      "source": "The Hacker News",
-     "zh": "紧急 - PHP 在紧急 PHP2Shell 补丁两天后发出另一个未修补的 RCE 警告"
+     "zh": "PHP 在紧急 PHP2Shell 补丁两天后发出另一个未修补的 RCE 警告"
     },
     {
      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "消息称苹果正在推进大折叠 iPad 平板，整体设计有望参考华为 MateBook Fold 非凡大师",
+     "link": "https://www.ithome.com/1/017/252.htm",
+     "pubDate": "Fri, 23 Oct 2026 12:52:10 GMT",
+     "summary": "IT之家 10 月 23 日消息，博主 @Kang 发文，透露苹果公司目前正在测试“折叠巨大平板”，相应机型“参考华为那个、真粉丝来的”，预计这里指的是华为 MateBook Fold 非凡大师。 IT之家注意到，此前郭明錤透露苹果计划在 2028 年跟进发布可折叠 iPad，该机在展开状态下将提供 18 至 20 英寸的显示面积，折叠后则保持便携形态。其将使用超薄玻璃盖板解决方案，由康宁公司独家供应玻璃材料，通用接口解决方案公司（GIS）则负责后续的切割加工、边角处理、质量检测和封装运输等关键工序。 公开信息显示，华为鸿蒙折叠电脑 MateBook Fold 非凡大师目前最新的麒麟 X90 ",
+     "source": "IT之家",
+     "zh": "消息称苹果正在推进大折叠 iPad 平板，整体设计有望参考华为 MateBook Fold 非凡大师"
+    },
+    {
      "title": "17999 元开放购买：苹果 iPhone Duo 5 年不限次换电池套装三方开售",
      "link": "https://www.ithome.com/1/017/251.htm",
      "pubDate": "Fri, 23 Oct 2026 12:45:26 GMT",
@@ -1840,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 23 日消息，一批价值约 250 万巴西雷亚尔 （IT之家注：现汇率约合 330.43 万元人民币） 的英伟达 GeForce RTX 5090 显卡在巴西圣保罗瓜鲁柳斯国际机场不翼而飞，如今其中一张显卡被发现出现在二手交易平台 OLX 上。 该显卡的序列号与上述失踪货物相符，相关商品页面随后被下架。这张显卡为索泰 GeForce RTX 5090 SOLID OC 32GB，卖家最初标价 3.4 万巴西雷亚尔，之后降至 3.2 万巴西雷亚尔 （现汇率约合 4.23 万元人民币） 。 这批显卡属于巴西科技产品经销商 Oderço 从美国进口的货物。该公司总部位于巴西马林加，",
      "source": "IT之家",
      "zh": "巴西机场被盗索泰 RTX 5090 显卡被挂二手网站，序列号成关键线索"
-    },
-    {
-     "title": "首发 1499 元，小米米家净水器 3 1200G 上架预售",
-     "link": "https://www.ithome.com/1/017/241.htm",
-     "pubDate": "Fri, 23 Oct 2026 11:58:30 GMT",
-     "summary": "IT之家 10 月 23 日消息，小米米家净水器 3 1200G 上架预售，10 月 30 日 20 点开抢，首发价 1499 元。 IT之家从商品页面获悉，该产品采用纯物理过滤技术，滤材不添加阻垢剂。配合滤芯自净化技术，主动冲洗管路陈水，确保每杯水都新鲜纯净。通过母婴级净水认证，出水水质 0 双酚 A，累计总净水量高达 50 吨。 新品搭载 13 级鲜活净水过滤系统，过滤精度达 0.0001 微米，从过滤、冲洗到出水全链路层层拦截，高效滤除自来水中杂质、余氯、重金属、细菌、病毒等 145 种污染物 。针对净水器久置不用易滋生细菌的问题，后置抗菌滤芯配合出水管路内置长效抗菌材质，有效阻断后端细",
-     "source": "IT之家",
-     "zh": "首发 1499 元，小米米家净水器 3 1200G 上架预售"
     },
     {
      "title": "谷歌前CEO与斯坦福学者联合撰文：AI是“帝国技术”，中美将重演帝国兴衰？",
@@ -2002,6 +2002,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "SpaceX is getting more serious about becoming the fourth carrier the US needs",
+     "link": "https://www.androidauthority.com/spacex-starlink-mobile-more-serious-att-t-mobile-verizon-3727170/",
+     "pubDate": "Fri, 23 Oct 2026 12:51:42 +0000",
+     "summary": "SpaceX apparently wants 80,000 cell sites, and it's in talks with at least one major provider.",
+     "source": "Android Authority",
+     "zh": "SpaceX 正在更加认真地考虑成为美国需要的第四家运营商"
+    },
+    {
      "title": "New iPhone Duo cases available for purchase: Fabric, leather, aramid fiber, metal, more [Updated]",
      "link": "https://9to5mac.com/2026/10/23/best-iphone-duo-cases-now-available-purchase/",
      "pubDate": "Fri, 23 Oct 2026 12:17:00 +0000",
@@ -2130,14 +2138,6 @@ window.INDUSTRY_DATA = {
      "zh": "想为你的安卓手机制作人工智能铃声吗？这是我最喜欢的提示和技巧"
     },
     {
-     "title": "Delta emulator now lets you turn your iPhone Duo into a Nintendo DS",
-     "link": "https://www.androidauthority.com/delta-emulator-iphone-duo-nintendo-ds-3727110/",
-     "pubDate": "Fri, 23 Oct 2026 09:21:16 +0000",
-     "summary": "The latest Delta 2.0 update leverages Apple's foldable hinge for dual-screen gaming, alongside new Sega Genesis support.",
-     "source": "Android Authority",
-     "zh": "Delta 模拟器现在可让您将 iPhone Duo 变成 Nintendo DS"
-    },
-    {
      "title": "A startup called Warhound is genetically engineering dogs for the military",
      "link": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
      "pubDate": "Fri, 23 Oct 2026 09:01:01 +0000",
@@ -2168,22 +2168,6 @@ window.INDUSTRY_DATA = {
      "summary": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题…… 查看全文",
      "source": "少数派",
      "zh": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验"
-    },
-    {
-     "title": "Sigma FP2: everything is better for the second-gen modular mirrorless camera",
-     "link": "https://www.dpreview.com/reviews/sigma-fp2-everything-is-better-for-the-second-gen-modular-mirrorless-camera/",
-     "pubDate": "Fri, 23 Oct 2026 06:30:00 +0000",
-     "summary": "The Sigma FP2 is the company’s second-generation ultra-compact full-frame mirrorless camera, and one that brings substantial improvements over the original. It’s also the world’s smallest full-frame interchangable lens camera. Sigma talks about preserving all the things that made the original fp spe",
-     "source": "DPReview",
-     "zh": "Sigma FP2：第二代模块化无反相机一切都变得更好"
-    },
-    {
-     "title": "Sigma launches a new line of compact, vintage-style lenses focused on character over sharpness",
-     "link": "https://www.dpreview.com/news/sigma-launches-a-new-line-of-compact-vintage-style-lenses-focused-on-character-over-sharpness/",
-     "pubDate": "Fri, 23 Oct 2026 06:30:00 +0000",
-     "summary": "The first entry is the full-frame 50mm F1.4 CL DG Contemporary",
-     "source": "DPReview",
-     "zh": "西格玛推出了一系列紧凑、复古风格的镜头，注重特性而不是清晰度"
     },
     {
      "title": "Samsung Galaxy S27 Ultra and S27 Pro batteries pictured in a new certification",
@@ -2240,6 +2224,22 @@ window.INDUSTRY_DATA = {
      "summary": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller series was copied from an independent film. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "苹果在 Apple TV 惊悚剧版权侵权诉讼中再次获胜"
+    },
+    {
+     "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+     "link": "https://sspai.com/post/117104",
+     "pubDate": "Fri, 23 Oct 2026 08:20:32 +0800",
+     "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ... 查看全文",
+     "source": "少数派",
+     "zh": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等"
+    },
+    {
+     "title": "Strava revamps route discovery with smarter search, offline improvements, more",
+     "link": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
+     "pubDate": "Thu, 22 Oct 2026 23:29:15 +0000",
+     "summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Strava 通过更智能的搜索、离线改进等改进路线发现"
     }
    ]
   },
@@ -2249,6 +2249,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "First Citizens BancShare stock climbs on impressive Q3 beat, $1.2B buyback plan",
+     "link": "https://seekingalpha.com/news/4656535-first-citizens-bancshare-stock-climbs-on-impressive-q3-beat-12b-buyback-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:52:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "First Citizens BancShare 股票因第三季度令人印象深刻的业绩和 1.2B 美元的回购计划而攀升"
+    },
+    {
+     "title": "AMTD International GAAP EPS of $0.04, revenue of $67.1M",
+     "link": "https://seekingalpha.com/news/4656558-amtd-international-gaap-eps-of-0_04-revenue-of-67_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 08:50:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "尚乘国际 GAAP 每股收益为 0.04 美元，营收为 6,710 万美元"
+    },
     {
      "title": "BV Financial GAAP EPS of $0.42, revenue of $9.78M",
      "link": "https://seekingalpha.com/news/4656557-bv-financial-gaap-eps-of-0_42-revenue-of-9_78m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2280,6 +2296,14 @@ window.INDUSTRY_DATA = {
      "summary": "2026国资国企高质量发展创新大会正在北京举办。今天会上发布了《国资国企高质量发展观察报告（2026）》，从实力跃升、结构优化、产业带动等维度，系统评估国资国企改革发展成效。 数据显示，国资央企规模实力实现了历史性跃升。中央企业资产总额从“十三五”末68.8万亿元增长至95万亿元， “十四五”累计实现利润总额12.7万亿元，比“十三五”增长56.2% ；全员劳动生产率提升至每人每年83.6万元，年均增长7.1%。 创新成为鲜明主线。中央企业研发投入累计超过5万亿元，一批大国重器、重大科技成果竞相涌现；战略性新兴产业投资占比提升至41.8%，布局结构持续向新。 功能担当更加有力。中央企业保障国内",
      "source": "东方财富股票",
      "zh": "央企资产总额突破95万亿元"
+    },
+    {
+     "title": "工信部：加快推进“人工智能+软件”专项行动 支持智能体软件发展",
+     "link": "http://finance.eastmoney.com/news/1355,202610233906544596.html",
+     "pubDate": "Fri, 23 Oct 2026 20:42:06 +0800",
+     "summary": "工业和信息化部在浙江省杭州市召开大力发展信息技术产业增强先进制造业发展动力推进会，研究部署下一阶段重点工作。会议强调，要深刻把握信息技术对发展先进制造业的带动作用，牢牢掌握数智赋能先进制造业高质量发展的战略主动，以信息技术新动能开创先进制造业高质量发展新局面。强化高端自主，深入实施重点产业链高质量发展行动，坚持软件、硬件、标准、专利协同部署、统筹推进，高质量建设中国开源体系，建强开源基础设施，加强首版次软件体系建设。强化数智赋能，加快推进“ 人工智能 +软件”专项行动，支持智能体软件发展，实施工业数据筑基行动，加快建设可流通的高质量行业数据集，做优国家级 人工智能 开源社区，提高智能算力供给质",
+     "source": "东方财富股票",
+     "zh": "工信部：加快推进“人工智能+软件”专项行动 支持智能体软件发展"
     },
     {
      "title": "Micron pivots from 4F² to 3D DRAM, differing from rivals Samsung, SK Hynix: Wedbush",
@@ -2322,28 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "意大利油企埃尼集团高管：意大利燃油价格上限的影响估计为每季度数亿欧元"
     },
     {
-     "title": "ServiceNow target bumped to $175 at Guggenheim on expected earnings upside",
-     "link": "https://seekingalpha.com/news/4656546-servicenow-target-bumped-to-175-at-guggenheim-on-expected-earnings-upside?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 08:40:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于预期盈利上涨，古根海姆的 ServiceNow 目标升至 175 美元"
-    },
-    {
      "title": "Quant salaries on the rise amid AI revolution",
      "link": "https://www.finextra.com/newsarticle/48640/quant-salaries-on-the-rise-amid-ai-revolution?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Fri, 23 Oct 2026 12:40:00 GMT",
      "summary": "Remuneration for quantitative finance professionals has continued to rise despite the increased use of AI, according to recently published research.",
      "source": "Finextra",
      "zh": "人工智能革命期间量化薪资上涨"
-    },
-    {
-     "title": "Infosys GAAP EPS of $0.20 misses by $0.01, revenue of $5.14B misses by $40M",
-     "link": "https://seekingalpha.com/news/4656554-infosys-gaap-eps-of-0_20-misses-by-0_01-revenue-of-5_14b-misses-by-40m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 08:39:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Infosys GAAP 每股收益为 0.20 美元，低于 0.01 美元，收入为 5.14B 美元，低于 4000 万美元"
     },
     {
      "title": "市场消息：约旦安全部队已封锁卡拉克地区，并展开搜查行动，追捕袭击者",
@@ -2354,12 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "市场消息：约旦安全部队已封锁卡拉克地区，并展开搜查行动，追捕袭击者"
     },
     {
-     "title": "美国运通将裁减5%的岗位，约3500名员工",
-     "link": "http://stock.eastmoney.com/news/1611,202610233906536837.html",
-     "pubDate": "Fri, 23 Oct 2026 20:38:53 +0800",
-     "summary": "美国运通 将裁减5%的岗位，约3500名员工。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国运通将裁减5%的岗位，约3500名员工"
+     "title": "10月23日晚间上市公司利好消息一览(附名单)",
+     "link": "http://finance.eastmoney.com/news/1353,202610233906539544.html",
+     "pubDate": "Fri, 23 Oct 2026 20:35:02 +0800",
+     "summary": "沪深两市多家上市公司10月23日晚间发布重要公告，以下为利好的消息汇总： 中国神华 ：全资子公司拟约6.18亿元购买煤制气公司50%股权 中国神华 (601088)10月23日公告，公司全资子公司新疆能源拟以非公开协议方式，购买西部能源所持国能新疆煤制气有限公司（简称“煤制气公司”）50%股权，交易对价约6.18亿元。交易完成后，煤制气公司将成为新疆能源持股100%的子公司。煤制气公司主要负责准东20亿立方米/年煤制 天然气 项目的投资、开发、建设、运营。西部能源为公司控股股东国家能源集团公司的全资子公司。 协和电子 ：控股股东筹划公司控制权变更事项 26日起停牌 协和电子 (605258)1",
+     "source": "东方财富资讯",
+     "zh": "10月23日晚间上市公司利好消息一览(附名单)"
     },
     {
      "title": "Smart financial advisers are dropping ROI, NAV and QCD for plain English when talking to clients",
@@ -2480,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "作者 | 周智宇 智界准备把与华为共同打造的高端车卖到海外，出口车型却不会搭载华为的智驾和座舱方案。 华尔街见闻从知情人士处获悉，智界拟从2027年起加速出海。另有接近项目人士透露，右舵车型属于海外定制产品，“非鸿蒙智行定义的产品”。换而言之，国内与华为的合作继续，海外另做产品。 据悉，智界V9的出口版本名为智界 LLounge，优先开发右舵，计划2027年初进入泰国，年中进入澳大利亚、新西兰。智界RX也有出海计划，海外名字为智界Stormax。 智界V9这款在国内售价38.98万至51.98万元的MPV，出海后仍要做高端。但智界选中的泰国，已经有腾势D9、极氪009在与丰田豪华MPV竞争；奇",
      "source": "华尔街见闻",
      "zh": "智界明年加速出海，不用华为智驾"
-    },
-    {
-     "title": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906504644.html",
-     "pubDate": "Fri, 23 Oct 2026 19:47:23 +0800",
-     "summary": "境内首批主动ETF中，已出现多个爆款基金。 10月23日，首批主动ETF发售首日，即有多只产品触及20亿元募集规模上限，宣布结束募集，并将采取比例配售。 主动ETF首日发售火爆 10月23日下午，摩根 资产管理 （中国）、易方达基金、富国基金均发布公告称，旗下主动ETF募集截止日提前至10月23日，即10月23日为最后一个募集日，10月24日起不再接受认购申请。 公告显示，上述产品均自10月23日开始募集，易方达品质均衡主动管理ETF原定募集截止日为10月29日，摩根 大盘成长 主动股票ETF、富国价值优选量化选股主动管理ETF原定募集截止日为10月30日。三只产品首次募集规模上限均为20亿元",
-     "source": "东方财富资讯",
-     "zh": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售"
     }
    ]
   },

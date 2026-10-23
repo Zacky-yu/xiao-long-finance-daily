@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/23 14:21:27",
+ "generated_at": "2026/10/23 14:32:09",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,22 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+     "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+     "pubDate": "Fri, 23 Oct 2026 06:05:10 +0000",
+     "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent ap",
+     "source": "MarkTechPost",
+     "zh": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent"
+    },
+    {
+     "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+     "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+     "pubDate": "Fri, 23 Oct 2026 05:28:21 +0000",
+     "summary": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on M",
+     "source": "MarkTechPost",
+     "zh": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA"
+    },
     {
      "title": "OpenAI估值目标缩水万亿！IPO前再募资2016亿元",
      "link": "https://zhidx.com/p/603946.html",
@@ -217,36 +233,20 @@
      "zh": "黄仁勋又投一家AI创企，成立一年估值超400亿，要给GPU提效"
     },
     {
+     "title": "How to Process Large JSON Files in Python With ijson",
+     "link": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
+     "pubDate": "Thu, 22 Oct 2026 14:00:00 +0000",
+     "summary": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
+     "source": "KDnuggets",
+     "zh": "How to Process Large JSON Files in Python With ijson"
+    },
+    {
      "title": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低",
      "link": "https://zhidx.com/p/603664.html",
      "pubDate": "Thu, 22 Oct 2026 21:35:27 +0800",
      "summary": "智东西 作者 | 程茜 编辑 | 心缘 智东西10月22日报道，今日，科大讯飞发布数个大模型及AI应用新成果，包括端云一体大模型讯飞星火X2.6、语音基座模型SparkAudio 1.0、星火具身多模态交互技术、WinWork数字员工平台、超级AI教师助手讯飞星光等。 其 端云一体讯飞星火X2.6基座模型 基于 全国产算力 完成能力升级，包含 云端的293-A30B模型 及端侧的 X2.6-4B模型 ，后一模型已开源。 云端模型293-A30B支持百万token上下文，输入价格为0.9元/百万tokens，输入缓存命中价格为0.08元/百万tokens，输出价格为3.6元/百万tokens。 ",
      "source": "智东西",
      "zh": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低"
-    },
-    {
-     "title": "蚂蚁版Jev模型来了！27B版本综合评分第一，Token省90%",
-     "link": "https://zhidx.com/p/603604.html",
-     "pubDate": "Thu, 22 Oct 2026 21:15:10 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西10月22日报道，今日，蚂蚁数科发布决策模型LingDT-Decision-1.0。该模型提供 4B和27B 两个版本，专为 客服、风控、金融 等产业AI场景中的高频决策任务打造，首创推出 原生多选与按序决策（DAG） 功能。 目前，该模型已上线蚂蚁数科DTMaaS平台，开发者可限时免费体验。 决策模型不生成长篇文本，直接返回选项、分数或判断结果，可用于 意图识别、工单路由、工具选择、模型路由和风险判断 等。这类模型近期因Jev走红而受到持续关注。继Jev之后，微软、Perplexity等厂商也相继推出了自己的决策模型。 LingDT-Deci",
-     "source": "智东西",
-     "zh": "蚂蚁版Jev模型来了！27B版本综合评分第一，Token省90%"
-    },
-    {
-     "title": "24小时，从真实问题到落地跑通，安克黑客松让创新成为“有源之水”",
-     "link": "https://zhidx.com/p/603876.html",
-     "pubDate": "Thu, 22 Oct 2026 19:40:09 +0800",
-     "summary": "智东西 作者 | 云鹏 编辑｜漠影 现在，试想这样一些场景： 当你上课时遇到没听懂的地方，轻点两下夹在领口上的录音豆，课后AI就会从你点击的那一刻讲起，为你细心答疑，不需要举手、不需要打断任何人； 当快递件丢失时，AI系统直接通过摄像头逐帧分析，智能锁定可疑人员，快速定位，输出一条拼接完整的视频，省去大量人工复查时间、大幅降低沟通成本； 在大洋彼岸的欧洲用户家中，家庭储能智能调度系统通过AI优化光储经济，减少太阳能浪费，一年为用户省下数百欧元的电费； 今天，这些场景绝非空谈，而是选手们在为期24小时的安克AI黑客松大赛中做出的优秀作品。这些作品有着成熟的方案构想，甚至基于真实的安克智能硬件产品",
-     "source": "智东西",
-     "zh": "24小时，从真实问题到落地跑通，安克黑客松让创新成为“有源之水”"
-    },
-    {
-     "title": "Making the case for context-aware AI",
-     "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-     "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
-     "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies",
-     "source": "MIT Tech Review AI",
-     "zh": "Making the case for context-aware AI"
     }
    ]
   },
@@ -1753,6 +1753,38 @@
    "total": 18,
    "items": [
     {
+     "title": "惠普战 99 Ultra \"Gorgon Halo\" 移动工作站上架，标价 59999 元",
+     "link": "https://www.ithome.com/1/017/003.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:26:23 GMT",
+     "summary": "IT之家 10 月 23 日消息，HP（惠普）现已在电商平台上架新款的战 99 Ultra (ZHAN99 Ultra 16 G3a AI) 移动工作站。 该型号基于 AMD 锐龙 AI Max+ PRO 495 处理器， 配备 128GB 内存、1TB 存储 ，标价 59,999 元，10 月 30 日 20:00 开售。 IT之家注意到，这款机型很有可能就是全球市场的 ZBook Ultra G3a 16\" ，支持 100W 性能释放，可选 5G 蜂窝网络连接，集成 96Whr 电池，起始质量 1.9kg。 该产品在描述中提到了 2 种屏幕规格，分别 \" 4K\"（这里应指 3840×240",
+     "source": "IT之家",
+     "zh": "惠普战 99 Ultra \"Gorgon Halo\" 移动工作站上架，标价 59999 元"
+    },
+    {
+     "title": "花10亿欧元请人走：宝马这笔账，起点在中国",
+     "link": "https://www.huxiu.com/article/4899872.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 14:24:28 +0800",
+     "summary": "本文来自微信公众号： 商业对角线 ，作者：小明同学 10月8日，宝马给德国约4万名员工发去一个链接。点开后每个人都能看到一个数字：如果你愿意离开，公司准备给你多少钱。 几个小时后，系统崩了。 数万人同时登录，查询页面直接瘫痪，第二天修好之后申请量还在往上涨，宝马不得不暂停接收新申请，先处理已经提交的意向。 据德国《商报》报道，部分员工看到的数字超过65万欧元，约合人民币487万元。 一边是员工抢着走，一边是公司抢着给钱。 这件事乍看像个“德国职场福利”的段子。但只要把账算一遍就会发现：这不是一份慷慨，而是一笔精明的买卖。 而这笔买卖的起点，在中国。 01 487万，是怎么算出来的 首先需要明确",
+     "source": "虎嗅",
+     "zh": "花10亿欧元请人走：宝马这笔账，起点在中国"
+    },
+    {
+     "title": "V10 声浪：2028 款雷克萨斯 LFA 电动超跑路测图曝光",
+     "link": "https://www.ithome.com/1/017/001.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:24:00 GMT",
+     "summary": "IT之家 10 月 23 日消息，消息源 mr.grey_4k 昨日（10 月 22 日）在 Instagram 平台发帖，分享了一组在德国抓拍的路测图， 展示了 2028 款雷克萨斯 LFA 电动超跑。 外观方面，新车身披迷彩伪装，造型低趴修长，后尾翼处于展开状态，整体姿态比前代更具攻击性。 动力方面，与初代 LFA 标志性的 4.8 升 V10 自然吸气发动机不同，新一代车型预计采用纯电动力，并与丰田 GR GT、GR GT3 共享铝制底盘架构。IT之家附上相关路测图如下： 技术层面，新车可能成为丰田集团首款搭载固态电池的量产车型，以获得更高能量密度、更轻的电池重量以及更长的续航表现。不过",
+     "source": "IT之家",
+     "zh": "V10 声浪：2028 款雷克萨斯 LFA 电动超跑路测图曝光"
+    },
+    {
+     "title": "一汽-大众纯电轿车 ID.AURA L5 六种车色官图公布",
+     "link": "https://www.ithome.com/1/017/000.htm",
+     "pubDate": "Fri, 23 Oct 2026 06:23:25 GMT",
+     "summary": "IT之家 10 月 23 日消息，一汽-大众今日公布了全新纯电轿车 ID.AURA L5 的六种车色。 据介绍，作为 ID. AURA 序列第二款纯电车型、首款纯电家轿，新车定位“智能大掀背、超级家轿”，将与 ID. AURA T6 共同组成一汽-大众“新能源双子星”。 该车由中德设计团队联合打造，立足中国家庭核心出行诉求。智能化方面，ID. AURA L5 部分车型将配备激光雷达。 尺寸方面，新车长宽高分别为 4883×1881×1506mm，轴距 2820mm，“得房率”达 84.4%；电动掀背尾门开启角度超 70°、开口宽度超 1000mm，号称 打破传统三厢轿车的装载能力局限 。 据I",
+     "source": "IT之家",
+     "zh": "一汽-大众纯电轿车 ID.AURA L5 六种车色官图公布"
+    },
+    {
      "title": "首发价 3299 → 2171 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力 + 蒸汽热水混洗",
      "link": "https://www.ithome.com/1/016/999.htm",
      "pubDate": "Fri, 23 Oct 2026 06:18:56 GMT",
@@ -1777,14 +1809,6 @@
      "zh": "VGN 推出蜻蜓 3 mini 系列鼠标：约 52g、适合中小手，249 元起"
     },
     {
-     "title": "2399 → 1223 元国补直降：石头 A30 Pro 2.0 洗地机 5 折新低，25kPa 大吸力、95℃ 高温自清洁",
-     "link": "https://www.ithome.com/1/016/993.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:11:50 GMT",
-     "summary": "【京东活动可能随时变更，需以实付款为准】 石头 A30 Pro 2.0 洗地机发售于 2026 年 3 月，该产品提供 25000Pa 吸力，首发价 2399 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1223.93 元： 领 1000-120 元券：点击下方卡片跳转详情页后，系统自动发放。 下单时选择“以旧换新 → 个护健康 → 电动牙刷 （无需回收）”补贴 80 元。 参与多买多返满 500 返 5 元。 京东 石头 A30 Pro 2.0 洗地机 AI 全向助力 25kPa 吸力 以旧换新后 1223.93 元 直达链接 京东 11.11 无门槛红包至高",
-     "source": "IT之家",
-     "zh": "2399 → 1223 元国补直降：石头 A30 Pro 2.0 洗地机 5 折新低，25kPa 大吸力、95℃ 高温自清洁"
-    },
-    {
      "title": "法国债务风险，开始外溢了？",
      "link": "https://www.huxiu.com/article/4899869.html?f=rss",
      "pubDate": "Fri, 23 Oct 2026 14:11:26 +0800",
@@ -1793,28 +1817,12 @@
      "zh": "法国债务风险，开始外溢了？"
     },
     {
-     "title": "沃尔沃汽车宣布全球再裁约 2500 人，2026Q3 在中国交付量同比降 40%",
-     "link": "https://www.ithome.com/1/016/976.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:02:55 GMT",
-     "summary": "IT之家 10 月 23 日消息，彭博社今天（10 月 23 日）发布博文，报道称在发布 2026 年第三季度财报时， 沃尔沃汽车宣布将在全球范围内结构性裁减约 2,500 个岗位，约占其全球员工总数的 6%。 报道指出沃尔沃于 2025 年 5 月宣布全球裁减约 3,000 个岗位，其中包括约 1,000 个顾问岗位（主要在瑞典）、约 1,200 个瑞典正式员工岗位，其余分布在全球其他市场；裁员以白领和办公室岗位为主，约占办公室员工的 15%。 而在此基础上， 沃尔沃宣布再次裁员约 2,500 人，其中约 2,000 人在瑞典，预计每年再节省 50 亿瑞典克朗（IT之家注：当前汇率约为 33",
-     "source": "IT之家",
-     "zh": "沃尔沃汽车宣布全球再裁约 2500 人，2026Q3 在中国交付量同比降 40%"
-    },
-    {
      "title": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B (Bloomberg)",
      "link": "https://www.techmeme.com/261023/p4#a261023p4",
      "pubDate": "Fri, 23 Oct 2026 02:00:56 -0400",
      "summary": "Bloomberg : SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B &nbsp; &mdash;&nbsp; SK Hyper Co. is in talks with big tech firms and financial investors to secure funding for an envisioned $",
      "source": "Techmeme",
      "zh": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B (Bloomberg)"
-    },
-    {
-     "title": "微星 MPG COREFROZR AP15 双塔风冷散热器体验：磁吸数显屏 + 内存全避让设计",
-     "link": "https://www.ithome.com/1/016/975.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:00:33 GMT",
-     "summary": "今年 CES 2026 上，微星推出了 2 款风冷散热器新品：MPG COREFROZR AP15 和 AP17，其核心卖点就是搭载了 DIGI-DISPLAY 数显屏以及双塔多热管设计，并针对内存兼容性、线材以及安装便利性都做了专门优化。 IT之家最近拿到了其中一款 MPG COREFROZR AP15 双塔风冷散热器并进行了实际体验，接下来就给大家分享一下，这款风冷的散热实力如何。 一、外观设计 微星 MPG COREFROZR AP15 双塔风冷散热器采用了一个非常方正简约的造型设计，纯黑配色非常有质感。 散热器右侧是一把外露的 12cm 白色风扇，为了支持 RGB 灯效扇叶采用了略微有",
-     "source": "IT之家",
-     "zh": "微星 MPG COREFROZR AP15 双塔风冷散热器体验：磁吸数显屏 + 内存全避让设计"
     },
     {
      "title": "普莱医药：累计亏损近9亿，巨额赎回负债如影随形｜IPO观察",
@@ -1871,14 +1879,6 @@
      "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜视觉中国 欧莱雅交出了一份超出预期的成绩单。 北京时间 10 月 23 日凌晨，欧莱雅发布 2026 年前三季度销售数据。前 9 个月销售额达到 353.3 亿欧元（约合人民币 2646.11 亿元），按可比口径和相同汇率（like for like，即LFL）增长 6.9%，成为自2021年以来的连续第 6 年正增长。第三季度销售额达到 115.61 亿欧元（约合人民币 864.11 亿元），同比增长 11.9%；剔除汇率、并购及 IT 系统切换等因素后，调整后可比增速为 7.7%，超过市场预期的 5.9%。 经历 2024 年至 20",
      "source": "虎嗅",
      "zh": "单季卖出864亿元，欧莱雅猛踩油门"
-    },
-    {
-     "title": "“全网进入大辞职时代”",
-     "link": "https://www.huxiu.com/article/4899860.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 13:33:32 +0800",
-     "summary": "本文来自微信公众号： 看理想 ，作者：看理想编辑部 不久前，小红书上流行起一句话：“全网进入大辞职时代。”很多困在格子间里的打工人，看到后都心里一动。 在就业环境愈发动荡的当下，大部分职场人都有这样的切身体会：自己不得不付出更多时间、精力，乃至尊严，去交换五险一金所代表的“稳定”。每到这种时候，辞职就变成了一个充满诱惑的按钮，似乎一键按下，就能终结全部焦虑。 在打工人的想象中，与上班相对的自由职业就像一个乌托邦，承载着无限向往。然而，公众的认知常常添加了太多滤镜。 在社交媒体上，自由职业者的形象总是被描绘为两个极端。要么是打扮光鲜的博主，在五光十色的特效里环游世界；要么是颓丧、低精力、昼夜颠倒",
-     "source": "虎嗅",
-     "zh": "“全网进入大辞职时代”"
     },
     {
      "title": "Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)",
@@ -2249,6 +2249,38 @@
    "total": 13,
    "items": [
     {
+     "title": "奇迹日再现！创业板深V暴涨4%，“易中天”集体拉升，长鑫大涨6%、宇树涨停，恒科指午后涨超2%",
+     "link": "https://wallstreetcn.com/articles/3784272",
+     "pubDate": "Fri, 23 Oct 2026 14:24:12 +0800",
+     "summary": "宁德时代A股和H股均反弹，其中A股涨超3%，H股涨4%，此前，北汽集团与宁德时代在北京签署百万换电战略合作协议。算力硬件、芯片半导体等午后反弹，光模块、存储芯片等概念股集体拉升，长鑫科技大涨6%，摩尔线程、沐曦股份均涨9%。午间中际旭创、天孚通信密集发布公告称，在手订单充足，经营正常。 10月23日，A股午后拉升，沪指一度转涨，深成指涨超1%，创业板指涨幅扩大至3%，早盘一度跌超3%、盘中失守2500点整数关口。存储芯片、算力硬件股等反弹，机器人再度活跃，宇树科技涨停，保险、白酒等板块走强。微盘股跌幅收窄至1%以内，早盘一度跌近5%。 港股午后扩大涨幅，恒科指涨超2%，恒指涨近1%，权重科网股",
+     "source": "华尔街见闻",
+     "zh": "奇迹日再现！创业板深V暴涨4%，“易中天”集体拉升，长鑫大涨6%、宇树涨停，恒科指午后涨超2%"
+    },
+    {
+     "title": "Lunai Bioworks plans Nasdaq delisting",
+     "link": "https://seekingalpha.com/news/4656435-lunai-bioworks-plans-nasdaq-delisting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 02:21:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lunai Bioworks plans Nasdaq delisting"
+    },
+    {
+     "title": "Saab Q3 order backlog reaches SEK 364.2B as sales grow 30%",
+     "link": "https://seekingalpha.com/news/4656438-saab-q3-order-backlog-reaches-sek-3642b-as-sales-grow-30?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 02:21:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Saab Q3 order backlog reaches SEK 364.2B as sales grow 30%"
+    },
+    {
+     "title": "加快建设国际消费中心城市，国际名品高管齐聚武汉",
+     "link": "http://www.eeo.com.cn/2026/1023/1073525.shtml",
+     "pubDate": "Fri, 23 Oct 2026 14:16:29 +0800",
+     "summary": "从全球时尚资源集聚到国际美食消费体验，勾勒出武汉加快建设国际消费中心城市的生动图景。",
+     "source": "经济观察网",
+     "zh": "加快建设国际消费中心城市，国际名品高管齐聚武汉"
+    },
+    {
      "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
      "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
      "pubDate": "Fri, 23 Oct 2026 06:15:54 GMT",
@@ -2297,54 +2329,6 @@
      "zh": "UK retail sales rise 0.8% Y/Y in September, below expectations"
     },
     {
-     "title": "贝斯特10月23日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610233906042575.html",
-     "pubDate": "Fri, 23 Oct 2026 13:58:15 +0800",
-     "summary": "以下是 贝斯特 在北京时间10月23日13:58分盘口异动快照： 10月23日， 贝斯特 盘中快速上涨，5分钟内涨幅超过2%，截至13点58分，报17.43元，成交2.03亿元，换手率2.60%。 分笔 13:58:09 17.43 45↑ 13:58:06 17.40 451↑ 13:58:03 17.38 16↑ 13:58:00 17.35 95↓ 13:57:57 17.36 65↓ 13:57:54 17.36 237↑ 13:57:51 17.33 1937↑ 13:57:48 17.28 23↑ 13:57:45 17.28 278↑ 13:57:42 17.25 39↓ 报价 ",
-     "source": "东方财富股票",
-     "zh": "贝斯特10月23日快速上涨"
-    },
-    {
-     "title": "贝斯特10月23日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610233906042479.html",
-     "pubDate": "Fri, 23 Oct 2026 13:58:15 +0800",
-     "summary": "以下是 贝斯特 在北京时间10月23日13:58分盘口异动快照： 10月23日， 贝斯特 盘中涨幅达5%，截至13点58分，报17.4元，成交2.03亿元，换手率2.59%。 分笔 13:58:06 17.40 451↑ 13:58:03 17.38 16↑ 13:58:00 17.35 95↓ 13:57:57 17.36 65↓ 13:57:54 17.36 237↑ 13:57:51 17.33 1937↑ 13:57:48 17.28 23↑ 13:57:45 17.28 278↑ 13:57:42 17.25 39↓ 13:57:39 17.26 7↑ 报价 卖五 17.46 17 ",
-     "source": "东方财富股票",
-     "zh": "贝斯特10月23日盘中涨幅达5%"
-    },
-    {
-     "title": "10月23日其他数字媒体板块涨幅达15%",
-     "link": "http://stock.eastmoney.com/news/1944,202610233906042374.html",
-     "pubDate": "Fri, 23 Oct 2026 13:58:15 +0800",
-     "summary": "&emsp;&emsp;10月23日13点58分， 其他数字媒体 板块指数报1417.656点，涨幅达15%，成交29.32亿元，换手率18.69%。 &emsp;&emsp;板块个股中，涨幅最大的前2个股为： 凡拓数创 报61.44元，涨20.00%； 风语筑 报14.69元，涨10.04%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月23日其他数字媒体板块涨幅达15%"
-    },
-    {
-     "title": "风语筑10月23日盘中涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202610233906042245.html",
-     "pubDate": "Fri, 23 Oct 2026 13:58:07 +0800",
-     "summary": "以下是 风语筑 在北京时间10月23日13:58分盘口异动快照： 10月23日13点58分， 风语筑 盘中涨停，报14.69元，目前封单221541手，折合3.25亿元。截至目前，成交12.80亿元，换手率16.02%。 分笔 13:58:01 14.69 27915↑ 13:57:58 14.62 935↑ 13:57:55 14.62 507↑ 13:57:52 14.62 463↓ 13:57:49 14.64 511↑ 13:57:46 14.63 1166↑ 13:57:43 14.61 2076↓ 13:57:40 14.62 319↑ 13:57:37 14.58 270↓ 13",
-     "source": "东方财富股票",
-     "zh": "风语筑10月23日盘中涨停"
-    },
-    {
-     "title": "长盈精密10月23日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610233906041652.html",
-     "pubDate": "Fri, 23 Oct 2026 13:57:13 +0800",
-     "summary": "以下是 长盈精密 在北京时间10月23日13:57分盘口异动快照： 10月23日， 长盈精密 盘中快速回调，5分钟内跌幅超过2%，截至13点57分，报28.57元，成交33.17亿元，换手率9.23%。 分笔 13:57:03 28.57 219↑ 13:57:00 28.57 242↑ 13:56:57 28.55 337↑ 13:56:54 28.55 121↑ 13:56:51 28.53 310↑ 13:56:48 28.51 245↓ 13:56:45 28.49 268↑ 13:56:42 28.47 202↓ 13:56:39 28.47 278↑ 13:56:36 28.46 ",
-     "source": "东方财富股票",
-     "zh": "长盈精密10月23日快速回调"
-    },
-    {
-     "title": "创业板ETF易方达深V反转涨2.24%",
-     "link": "http://finance.eastmoney.com/news/1353,202610233906041855.html",
-     "pubDate": "Fri, 23 Oct 2026 13:56:51 +0800",
-     "summary": "截至2026年10月23日13时48分，创业板ETF易方达涨2.24%，最新价报2.65元，较昨日收盘价2.592元上涨0.058元；今日以2.549元低开，盘中最低下探至2.511元后持续回升，最高上探至2.661元，区间振幅约5.79%，成交额约151.35亿元。 创业板板块今日集体走强，驱动因素主要有以下几方面。首先，从事件层面看，午后CPO概念、光刻机板块冲高，白酒、保险、券商、零售等方向领涨，相关热点快速扩散，带动市场情绪回暖。其次，从产业基本面看，估值优势凸显，Wind数据显示创业板指最新市盈率（PE-TTM）为29.75倍，处于近一年0.00%分位，即低于近一年100%的时间，估",
-     "source": "东方财富股票",
-     "zh": "创业板ETF易方达深V反转涨2.24%"
-    },
-    {
      "title": "Provident Financial authorizes new 5% stock repurchase plan",
      "link": "https://seekingalpha.com/news/4656433-provident-financial-authorizes-new-5-stock-repurchase-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 01:55:23 -0400",
@@ -2377,36 +2361,12 @@
      "zh": "CPO概念午后拉升，“易中天”再密集回应：在手订单充足、经营正常"
     },
     {
-     "title": "Volvo Group Q3 earnings rise as truck deliveries increase 11%, lifts India and China estimates",
-     "link": "https://seekingalpha.com/news/4656431-ab-volvo-publ-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 01:35:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Volvo Group Q3 earnings rise as truck deliveries increase 11%, lifts India and China estimates"
-    },
-    {
-     "title": "Sodexo reports FY results",
-     "link": "https://seekingalpha.com/news/4656430-sodexo-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 01:32:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sodexo reports FY results"
-    },
-    {
      "title": "Winter arrives in markets",
      "link": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
      "pubDate": "Fri, 23 Oct 2026 05:30:08 GMT",
      "summary": "Bonds and stocks tell the same chilly story",
      "source": "Financial Times",
      "zh": "Winter arrives in markets"
-    },
-    {
-     "title": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%",
-     "link": "https://wallstreetcn.com/articles/3784272",
-     "pubDate": "Fri, 23 Oct 2026 13:11:52 +0800",
-     "summary": "算力硬件、芯片半导体等早盘下挫，覆铜板、光模块、光通信、电路板等概念股集体下跌，隔夜 Meta财报引爆AI资本开支恐慌 ，美股科技板块重挫，光通信、存储芯片等纷纷大跌。宁德时代A股和H股均反弹，其中A股涨超3%，H股涨4%，此前，北汽集团与宁德时代在北京签署百万换电战略合作协议。 10月23日，A股午后拉升，沪指收窄跌幅至0.5%，深成指转涨，创业板指涨幅扩大至2%，深成指涨逾1%，早盘一度跌超3%、盘中失守2500点整数关口。贵金属、算力硬件、半导体芯片等方向跌幅居前。机器人再度活跃，保险、白酒等板块走强。微盘股跌幅收窄至3%以内，早盘一度跌近5%。 港股高开高走，恒科指盘初一度涨近2%，盘",
-     "source": "华尔街见闻",
-     "zh": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%"
     },
     {
      "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
@@ -2473,12 +2433,12 @@
      "zh": "Calpers retreats from Big Tech as AI rally falters"
     },
     {
-     "title": "The limits of Trump’s trade power",
+     "title": "The limits of Trump’s trade war",
      "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
      "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
      "summary": "Economies like Mexico are being forced to choose sides on trade",
      "source": "Financial Times",
-     "zh": "The limits of Trump’s trade power"
+     "zh": "The limits of Trump’s trade war"
     },
     {
      "title": "AI oversight needs a different model to banking",
@@ -2487,6 +2447,46 @@
      "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
      "source": "Financial Times",
      "zh": "AI oversight needs a different model to banking"
+    },
+    {
+     "title": "马斯克为何认为算力会长期短缺？",
+     "link": "http://www.eeo.com.cn/2026/1023/1073239.shtml",
+     "pubDate": "Fri, 23 Oct 2026 10:49:43 +0800",
+     "summary": "在马斯克看来，算力需求会长期大于供给，而眼下制约供给的，更多是电力、冷却和基础设施，芯片还在其次。",
+     "source": "经济观察网",
+     "zh": "马斯克为何认为算力会长期短缺？"
+    },
+    {
+     "title": "AI投资回报受质疑，黄仁勋详解Token需求场景",
+     "link": "http://www.eeo.com.cn/2026/1023/1073234.shtml",
+     "pubDate": "Fri, 23 Oct 2026 10:46:56 +0800",
+     "summary": "按照黄仁勋讲的制造业逻辑，AI工厂的投资能否收回，一要看工厂能否建得快、用电省，二要看建成以后，生产出来的Token有没有足够的买家。",
+     "source": "经济观察网",
+     "zh": "AI投资回报受质疑，黄仁勋详解Token需求场景"
+    },
+    {
+     "title": "SpaceX records $561 million investment gain from stake in Elon Musk&apos;s Boring Co.",
+     "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+     "pubDate": "Fri, 23 Oct 2026 00:46:09 GMT",
+     "summary": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
+     "source": "CNBC",
+     "zh": "SpaceX records $561 million investment gain from stake in Elon Musk&apos;s Boring Co."
+    },
+    {
+     "title": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets",
+     "link": "https://www.finextra.com/newsarticle/48635/cognitive-credit-raises-40m-to-scale-specialist-data-and-ai-for-credit-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 23 Oct 2026 00:01:00 GMT",
+     "summary": "Corporate credit data, analytics, and AI technology provider Cognitive Credit has closed a $40 million strategic growth investment led by Summit Partners with participation from ETFS Capital.",
+     "source": "Finextra",
+     "zh": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets"
+    },
+    {
+     "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+     "pubDate": "Thu, 22 Oct 2026 23:15:00 GMT",
+     "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+     "source": "MarketWatch",
+     "zh": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?"
     }
    ]
   },

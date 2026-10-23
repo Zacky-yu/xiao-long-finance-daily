@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/23 19:54:11",
+ "generated_at": "2026/10/23 19:58:34",
  "recent_days": 7,
  "industries": [
   {
@@ -1073,10 +1073,10 @@
      "zh": "Utilities turn to AI to manage rising power demand — from AI"
     },
     {
-     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
-     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
-     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
-     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
+     "title": "Jigar Shah blames the wrong target for rising electricity bills",
+     "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
+     "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
      "source": "Utility Dive",
      "zh": "Jigar Shah blames the wrong target for rising electricity bills"
     }
@@ -1753,6 +1753,14 @@
    "total": 18,
    "items": [
     {
+     "title": "沃尔沃 CEO 塞缪尔森：中国市场变化太快，欧洲开发的车型已难满足当地消费者需求",
+     "link": "https://www.ithome.com/1/017/240.htm",
+     "pubDate": "Fri, 23 Oct 2026 11:55:47 GMT",
+     "summary": "IT之家 10 月 23 日消息，沃尔沃汽车 CEO 哈坎 · 塞缪尔森（Håkan Samuelsson）表示，中国汽车市场的变化速度超出公司此前预期，过去依靠欧洲研发、面向全球市场销售的车型策略，已难以满足中国消费者的需求。 据汽车媒体 AutoTech Plus 报道，塞缪尔森在谈及全球车型战略时表示：“以前我们可以全球开发车型，直接引进中国销售，享受相当强的品牌溢价，消费者也很喜欢。但情况已经变了。” 他指出，中国本土汽车品牌的竞争力持续提升，市场需求也在快速变化，单纯依靠欧洲开发的全球车型已难以维持过去的竞争优势。 塞缪尔森认为，汽车制造商需要更加贴近不同地区的消费者，针对当地市场调",
+     "source": "IT之家",
+     "zh": "沃尔沃 CEO 塞缪尔森：中国市场变化太快，欧洲开发的车型已难满足当地消费者需求"
+    },
+    {
      "title": "An interview with Intel&apos;s leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more (Dwarkesh Patel/Dwarkesh Podcast)",
      "link": "https://www.techmeme.com/261023/p8#a261023p8",
      "pubDate": "Fri, 23 Oct 2026 07:45:14 -0400",
@@ -1871,14 +1879,6 @@
      "summary": "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 14 # Comments: 0",
      "source": "Hacker News",
      "zh": "Is this the new cyber normal?"
-    },
-    {
-     "title": "亿纬锂能 2026 年第三季度归母净利润 19.39 亿元，同比增长 60.18%",
-     "link": "https://www.ithome.com/1/017/212.htm",
-     "pubDate": "Fri, 23 Oct 2026 11:04:01 GMT",
-     "summary": "IT之家 10 月 23 日消息，亿纬锂能今日发布 2026 年第三季度（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：276.98 亿元，同比增长 64.56% 归母净利润 ：19.39 亿元，同比增长 60.18% 扣非净利润 ：16.44 亿元，同比增长 110.64% 加权平均净资产收益率 ：3.8% 基本每股收益 ：0.89 元，同比增长 50.85% 稀释每股收益 ：0.88 元，同比增长 57.14% AI 解读 本次业绩符合市场增长预期，营收和净利润均实现较高同比增长。 公司主营业务说明 亿纬锂能聚焦全场景能源应用需求，拥有储能电池、动力电池、圆柱电池三大成",
-     "source": "IT之家",
-     "zh": "亿纬锂能 2026 年第三季度归母净利润 19.39 亿元，同比增长 60.18%"
     },
     {
      "title": "Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It",
@@ -2001,6 +2001,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Goodbye Oxygen OS, hello Color OS: OnePlus 15 is now getting stable Android 17",
+     "link": "https://www.androidauthority.com/oneplus-15-pad-4-coloros-17-update-3727160/",
+     "pubDate": "Fri, 23 Oct 2026 11:54:35 +0000",
+     "summary": "OnePlus is rolling out the milestone update for the OnePlus 15 and Pad 4 earlier than its own schedule.",
+     "source": "Android Authority",
+     "zh": "Goodbye Oxygen OS, hello Color OS: OnePlus 15 is now getting stable Android 17"
+    },
+    {
      "title": "GuliKit TT Pro review: The ideal Switch 2 controller for players on the go",
      "link": "https://www.engadget.com/2294411/gulikit-tt-pro-review/",
      "pubDate": "Fri, 23 Oct 2026 11:30:00 +0000",
@@ -2111,14 +2119,6 @@
      "summary": "Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.",
      "source": "Engadget",
      "zh": "A startup called Warhound is genetically engineering dogs for the military"
-    },
-    {
-     "title": "These 6 Pixel features prove Samsung still has room to improve",
-     "link": "https://www.androidauthority.com/pixel-features-samsung-should-copy-2026-3723692/",
-     "pubDate": "Fri, 23 Oct 2026 09:00:08 +0000",
-     "summary": "Dear Samsung, please take notes.",
-     "source": "Android Authority",
-     "zh": "These 6 Pixel features prove Samsung still has room to improve"
     },
     {
      "title": "Huawei Pura 90 Plus to launch next week, design and color options revealed",
@@ -2257,12 +2257,116 @@
      "zh": "US fintech Coast secures $35m for physical economy payments platform"
     },
     {
+     "title": "美国版“我不是药神”：一个美国儿子的上海买药之旅",
+     "link": "https://wallstreetcn.com/articles/3784330",
+     "pubDate": "Fri, 23 Oct 2026 19:54:56 +0800",
+     "summary": "还记得徐峥主演的《我不是药神》吗？电影里，经营印度神油生意的程勇，意外踏上了从印度代购白血病仿制药的道路，帮助许多买不起正版药的患者“续命”。 现实中，一场相似的故事正在反方向上演。 一名住在曼哈顿的60岁女性，确诊了一种罕见肺癌，癌细胞已经扩散到大脑，长出了10个微小肿瘤。纽约顶尖癌症中心给不出令她满意的治疗方案，临床试验也将她拒之门外。 就在这时，有医生对她的儿子说了一句话： “要是她是中国人就好了，去中国药店就能买到。” 于是，这名30岁的美国儿子订下飞往上海的机票，最终带回26盒抗癌药，花费约1万美元。 这不是电影情节，而是美国健康新闻媒体KFF Health News近日披露的一桩真",
+     "source": "华尔街见闻",
+     "zh": "美国版“我不是药神”：一个美国儿子的上海买药之旅"
+    },
+    {
+     "title": "伊朗向中东国家发出最后通牒：一旦美伊重燃战火，必须停止对美方的一切支持，否则将被列为“敌对国家”",
+     "link": "https://wallstreetcn.com/articles/3784332",
+     "pubDate": "Fri, 23 Oct 2026 19:54:32 +0800",
+     "summary": "伊朗对中东地区国家发出强硬警告，将美伊潜在冲突的外溢风险直接推向整个地区，地缘政治紧张态势显著升级。 综合央视新闻和新华社报道，23日有消息称，伊朗议会国家安全和外交政策委员会成员费达-侯赛因·马利基说， 伊朗已向中东地区国家发出最后通牒，要求一旦伊朗与美国重燃战火，这些国家必须停止对美方的一切支持，否则将被伊朗列为\"敌对国家\"，面临的后果将远超单纯的军事基地打击。 上述表态的背景是，据美国《纽约时报》21日报道， 美国和以色列军方已制订具体计划，准备在11月美国中期选举结束后再次打击伊朗，但特朗普是否批准该计划尚存不确定性。 伊朗此番强硬表态，被外界普遍视为对上述报道的直接回应，其意图在于向",
+     "source": "华尔街见闻",
+     "zh": "伊朗向中东国家发出最后通牒：一旦美伊重燃战火，必须停止对美方的一切支持，否则将被列为“敌对国家”"
+    },
+    {
      "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
      "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-     "pubDate": "Fri, 23 Oct 2026 11:51:39 GMT",
+     "pubDate": "Fri, 23 Oct 2026 11:51:59 GMT",
      "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
      "source": "CNBC",
      "zh": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare"
+    },
+    {
+     "title": "Howard Hughes, Millrose Properties lead list of undervalued real estate stocks",
+     "link": "https://seekingalpha.com/news/4656523-howard-hughes-millrose-properties-lead-list-of-undervalued-real-estate-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:50:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Howard Hughes, Millrose Properties lead list of undervalued real estate stocks"
+    },
+    {
+     "title": "Pharvaris rises after BofA upgrades to Buy",
+     "link": "https://seekingalpha.com/news/4656516-pharvaris-rises-after-bofa-upgrades-to-buy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:48:43 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pharvaris rises after BofA upgrades to Buy"
+    },
+    {
+     "title": "【图解财报】金风科技三季报盈利28.75亿人民币，同比增加11.25%",
+     "link": "http://stock.eastmoney.com/news/11837,202610233906504438.html",
+     "pubDate": "Fri, 23 Oct 2026 19:48:20 +0800",
+     "summary": "金风科技 10月23日发布 三季报 业绩，截至2026年9月30日的 9 个月内，该公司营业收入520.23亿人民币，同比 增长8.05%； 公司权益持有人应占溢利（归母净利润）28.75亿人民币， 同比增长11.25% 。 金风科技 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人",
+     "source": "东方财富股票",
+     "zh": "【图解财报】金风科技三季报盈利28.75亿人民币，同比增加11.25%"
+    },
+    {
+     "title": "智界明年加速出海，不用华为智驾",
+     "link": "https://wallstreetcn.com/articles/3784333",
+     "pubDate": "Fri, 23 Oct 2026 19:47:51 +0800",
+     "summary": "作者 | 周智宇 智界准备把与华为共同打造的高端车卖到海外，出口车型却不会搭载华为的智驾和座舱方案。 华尔街见闻从知情人士处获悉，智界拟从2027年起加速出海。另有接近项目人士透露，右舵车型属于海外定制产品，“非鸿蒙智行定义的产品”。换而言之，国内与华为的合作继续，海外另做产品。 据悉，智界V9的出口版本名为智界 LLounge，优先开发右舵，计划2027年初进入泰国，年中进入澳大利亚、新西兰。智界RX也有出海计划，海外名字为智界Stormax。 智界V9这款在国内售价38.98万至51.98万元的MPV，出海后仍要做高端。但智界选中的泰国，已经有腾势D9、极氪009在与丰田豪华MPV竞争；奇",
+     "source": "华尔街见闻",
+     "zh": "智界明年加速出海，不用华为智驾"
+    },
+    {
+     "title": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906504644.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:23 +0800",
+     "summary": "境内首批主动ETF中，已出现多个爆款基金。 10月23日，首批主动ETF发售首日，即有多只产品触及20亿元募集规模上限，宣布结束募集，并将采取比例配售。 主动ETF首日发售火爆 10月23日下午，摩根 资产管理 （中国）、易方达基金、富国基金均发布公告称，旗下主动ETF募集截止日提前至10月23日，即10月23日为最后一个募集日，10月24日起不再接受认购申请。 公告显示，上述产品均自10月23日开始募集，易方达品质均衡主动管理ETF原定募集截止日为10月29日，摩根 大盘成长 主动股票ETF、富国价值优选量化选股主动管理ETF原定募集截止日为10月30日。三只产品首次募集规模上限均为20亿元",
+     "source": "东方财富股票",
+     "zh": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售"
+    },
+    {
+     "title": "图解财报：永鼎股份前三季归母净利润7.43亿元，同比增长125.75%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906503936.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:18 +0800",
+     "summary": "永鼎股份 10月24日发布2026年 三季报显示，公司前三季 实现营业收入54.30亿元 ，同比增长49.57% ；归母净利润7.43亿元 ，同比增长125.75% ；扣非归母净利润7.40亿元 ，同比增长130.32% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：永鼎股份前三季归母净利润7.43亿元，同比增长125.75%"
+    },
+    {
+     "title": "深深房Ａ：第三季度归母净利润314.46万元 同比下降92.53%",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906504788.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:06 +0800",
+     "summary": "深深房Ａ10月23日公告，2026年第三季度实现营业收入9564.73万元，同比下降63.42%；归母净利润314.46万元，同比下降92.53%；基本每股收益0.0031元。前三季度实现营业收入2.45亿元，同比下降72.75%；归母净利润亏损541.55万元，上年同期净利润1.45亿元；基本每股收益亏损0.0054元。报告期内，公司业绩主要受到 房地产 结转同比减少的影响。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "深深房Ａ：第三季度归母净利润314.46万元 同比下降92.53%"
+    },
+    {
+     "title": "永鼎股份：第三季度归母净利润2.39亿元 同比增长2165.42%",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906504529.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:06 +0800",
+     "summary": "永鼎股份 10月23日公告，2026年第三季度实现营业收入20.91亿元，同比增长52.56%；归母净利润2.39亿元，同比增长2165.42%；基本每股收益0.164元。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "永鼎股份：第三季度归母净利润2.39亿元 同比增长2165.42%"
+    },
+    {
+     "title": "电科思仪：第三季度归母净利润1.11亿元 同比增长23.6%",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906504243.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:06 +0800",
+     "summary": "电科思仪 10月23日公告，2026年第三季度实现营业收入6.23亿元，同比增长2.67%；归母净利润1.11亿元，同比增长23.6%；基本每股收益0.1344元。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "电科思仪：第三季度归母净利润1.11亿元 同比增长23.6%"
+    },
+    {
+     "title": "Evonik gains on report BASF increased offer for Evonik to over €11B",
+     "link": "https://seekingalpha.com/news/4656515-evonik-gains-on-report-basf-increased-offer-for-evonik-to-over-11b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:46:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Evonik gains on report BASF increased offer for Evonik to over €11B"
+    },
+    {
+     "title": "Western Digital in focus as Wall Street defends amid capex concerns",
+     "link": "https://seekingalpha.com/news/4656513-western-digital-in-focus-as-wall-street-defends-amid-capex-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:46:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Western Digital in focus as Wall Street defends amid capex concerns"
     },
     {
      "title": "Flagstar Bank stock drops as Q3 provisions, net interest income hit earnings",
@@ -2273,52 +2377,20 @@
      "zh": "Flagstar Bank stock drops as Q3 provisions, net interest income hit earnings"
     },
     {
-     "title": "图解财报：新兴铸管前三季归母净利润4.44亿元，同比减少36.49%",
-     "link": "http://stock.eastmoney.com/news/11802,202610233906503173.html",
-     "pubDate": "Fri, 23 Oct 2026 19:44:20 +0800",
-     "summary": "新兴铸管 10月24日发布2026年 三季报显示，公司前三季 实现营业收入317.53亿元 ，同比增长16.81% ；归母净利润4.44亿元 ，同比下滑36.49% ；扣非归母净利润3.51亿元 ，同比下滑44.48% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：新兴铸管前三季归母净利润4.44亿元，同比减少36.49%"
+     "title": "光模块龙头拟回购股份并注销",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906503898.html",
+     "pubDate": "Fri, 23 Oct 2026 19:45:16 +0800",
+     "summary": "10月23日晚，光模块龙头 天孚通信 公告称，公司董事会审议通过回购方案，拟使用自有资金以集中竞价方式回购股份，回购资金总额不低于1亿元且不超过1.5亿元，回购价格不超过350元/股。回购股份将全部注销并减少注册资本，实施期限为股东会审议通过后6个月内。该议案尚需提交股东会审议。 图片来源：公司公告 10月15日晚， 天孚通信 公告称，公司当日收到控股股东苏州天孚仁和投资管理有限公司出具的《关于提议苏州天孚光 通信 股份有限公司回购公司股份的函》，天孚仁和提议公司通过集中竞价交易方式，以自有或自筹资金回购股份，回购资金总额不低于1亿元（含）且不超过1.5亿元（含），回购价格上限为350元/股（",
+     "source": "东方财富资讯",
+     "zh": "光模块龙头拟回购股份并注销"
     },
     {
-     "title": "【调研快报】富信科技接待广州基金业协会等19家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610233906502663.html",
-     "pubDate": "Fri, 23 Oct 2026 19:43:21 +0800",
-     "summary": "富信科技 10月23日公告称， 10月22日至10月23日 接待广州基金业协会 等19家机构 调研。 接待人员包括董事会秘书 霍莹敏,证券事务代表 胡雨航。 公司就以下问题进行了回复： 机构与高管问答交流 问 1:请问公司 2026 年第三季度经营情况如何? 答:2026 年第三季度,公司实现营业收入 21,274.27 万元,同比增长 42.47%;归属于上市公司股东的净利润 2,701.72 万元,同比增长 118.32%,主要系应用于高速率光模块的热电器件销售收入... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容",
-     "source": "东方财富股票",
-     "zh": "【调研快报】富信科技接待广州基金业协会等19家机构调研"
-    },
-    {
-     "title": "金风科技前三季度归母净利润约28.75亿元 同比增长11.25%",
-     "link": "http://hk.eastmoney.com/news/1535,202610233906503771.html",
-     "pubDate": "Fri, 23 Oct 2026 19:41:37 +0800",
-     "summary": "金风科技 (02208)公布2026年前三季度业绩，营业收入约520.23亿元，同比增长8.05%;归属于上市公司股东的净利润约28.75亿元，同比增长11.25%;基本每股收益0.6594元。 截至2026年9月30日，公司外部待执行订单总量为39,877.57MW，分别为：6MW以下机组4,112.35MW， 6MW( 含 )-10MW 机组 27,604.52MW ， 10MW 及以上机组 8,160.70MW ;公司外部中标未签订单为 15,227.35MW，包括6MW以下机组753.00MW，6MW(含)-10MW机组9,063.35MW，10MW及以上机组 5,411.00MW;公",
-     "source": "东方财富股票",
-     "zh": "金风科技前三季度归母净利润约28.75亿元 同比增长11.25%"
-    },
-    {
-     "title": "图解财报：柳钢股份前三季归母净利润3201.73万元，同比减少95.14%",
-     "link": "http://stock.eastmoney.com/news/11802,202610233906500236.html",
-     "pubDate": "Fri, 23 Oct 2026 19:41:27 +0800",
-     "summary": "柳钢股份 10月24日发布2026年 三季报显示，公司前三季 实现营业收入494.30亿元 ，同比下滑2.69% ；归母净利润3201.73万元 ，同比下滑95.14% ；扣非归母净利润903.07万元 ，同比下滑98.57% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：柳钢股份前三季归母净利润3201.73万元，同比减少95.14%"
-    },
-    {
-     "title": "福建前首富，林秀成被批捕",
+     "title": "福建前首富林秀成被批捕",
      "link": "http://finance.eastmoney.com/news/1354,202610233906502737.html",
      "pubDate": "Fri, 23 Oct 2026 19:40:12 +0800",
      "summary": "【导读】 三安光电 实控人林秀成被检察机关批准逮捕 10月23日晚间， 三安光电 发布公告称，公司实际控制人林秀成此前因涉嫌职务侵占、挪用资金罪被公安机关刑事拘留，近日收到其家属通知，林秀成被检察机关批准逮捕。 三安光电 表示，目前公司生产经营管理正常。林秀成自2017年7月10日以来未在公司担任任何职务，该事项与公司无关，不会对公司生产经营产生重大影响。 三安光电中报显示，林秀成系福建三安集团有限公司的控股股东，是公司的实际控制人。 公开资料显示，林秀成，1956年生于福建省安溪县。2000年成立三安 光电股份 有限公司，并在2002年成功研制出第一片外延片。2008年7月，三安光电在上海证",
-     "source": "东方财富股票",
-     "zh": "福建前首富，林秀成被批捕"
-    },
-    {
-     "title": "东阳光前三季利润降29%、资产翻倍，一家老牌制造企业的算力豪赌",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906503023.html",
-     "pubDate": "Fri, 23 Oct 2026 19:39:50 +0800",
-     "summary": "10月22日晚， 东阳光 （600673.SH）披露了2026年第三季度报告。 前三季度，公司营业收入146.72亿元，同比增长33.74%；归属于上市公司股东的净利润6.38亿元，同比下降29.57%。收入大幅上涨，利润却在下滑，这组数字放在一起，初看有些矛盾。 翻开资产负债表，矛盾更明显：总资产从年初的299.91亿元涨到597.60亿元，九个月里几乎翻了一倍。这家以 铝 箔、制冷剂和 电子 元器件起家的老牌制造企业，资产规模和经营现金流都出现了跨越式变化。 读懂这份季报，需要把利润表、资产负债表和公司正在推进的重组放在一起看。 ▲来源：企业财报 利润的“减法” 被拉低的是会计口径，不是经",
-     "source": "东方财富股票",
-     "zh": "东阳光前三季利润降29%、资产翻倍，一家老牌制造企业的算力豪赌"
+     "source": "东方财富资讯",
+     "zh": "福建前首富林秀成被批捕"
     },
     {
      "title": "American Express Q3 earnings beat as network volume disappoints",
@@ -2327,30 +2399,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "American Express Q3 earnings beat as network volume disappoints"
-    },
-    {
-     "title": "Undervalued utilities stocks to watch as Q3 earnings season unfolds",
-     "link": "https://seekingalpha.com/news/4656514-undervalued-utilities-stocks-to-watch-as-q3-earnings-season-unfolds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:34:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Undervalued utilities stocks to watch as Q3 earnings season unfolds"
-    },
-    {
-     "title": "Volkswagen slows down its EV investment plan in India as it eyes options",
-     "link": "https://seekingalpha.com/news/4656511-volkswagen-slows-down-its-ev-investment-plan-in-india-as-it-eyes-options?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:32:52 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Volkswagen slows down its EV investment plan in India as it eyes options"
-    },
-    {
-     "title": "World Acceptance GAAP EPS of $1.92 beats by $1.14, revenue of $139.2M misses by $1.5M",
-     "link": "https://seekingalpha.com/news/4656518-world-acceptance-gaap-eps-of-1_92-beats-by-1_14-revenue-of-139_2m-misses-by-1_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:32:51 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "World Acceptance GAAP EPS of $1.92 beats by $1.14, revenue of $139.2M misses by $1.5M"
     },
     {
      "title": "10月23日晚间沪深上市公司重大事项公告最新快递",
@@ -2367,14 +2415,6 @@
      "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
      "source": "MarketWatch",
      "zh": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean."
-    },
-    {
-     "title": "Rithm Capital Non-GAAP EPS of $0.55 beats by $0.05, revenue of $1.76B beats by $300M",
-     "link": "https://seekingalpha.com/news/4656517-rithm-capital-non-gaap-eps-of-0_55-beats-by-0_05-revenue-of-1_76b-beats-by-300m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:31:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rithm Capital Non-GAAP EPS of $0.55 beats by $0.05, revenue of $1.76B beats by $300M"
     },
     {
      "title": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?",
@@ -2447,30 +2487,6 @@
      "summary": "贝森特正将美国国债融资推向短期化，而这恰恰是他曾经警告过的危险策略。 10月23日，据英国《金融时报》报道，美国财政部将于11月4日公布下一季度发债计划， 市场预计，计划可能进一步提高短期国债的发行占比，包括削减甚至停止发行20年期国债，并加大长期国债回购力度。 目前，美国国债的加权平均到期期限已不足6年，明显短于英国的13年，以及德国、法国和日本的约8年。若进一步转向短债，美国政府将需要更频繁地为到期债务再融资。 颇具讽刺意味的是，贝森特曾公开批评前任财政部长耶伦缩短国债期限，警告此举会使美国“危险地暴露于利率波动之下”。 如今，他却准备进一步推进短债融资，使自己曾经指出的风险再次成为政策争",
      "source": "华尔街见闻",
      "zh": "贝森特曾批评耶伦借短债危险，现在自己做得更过分"
-    },
-    {
-     "title": "车企激辩自动驾驶“下半场”：究竟要不要跳过L3？",
-     "link": "http://www.eeo.com.cn/2026/1023/1073941.shtml",
-     "pubDate": "Fri, 23 Oct 2026 18:47:52 +0800",
-     "summary": "从各方表态来看，2028年是车企L3/L4量产预期的时间节点，但路线分歧并未消解：比亚迪选择从限定场景L3逐步向更广泛场景迭代，小鹏试图以L4架构覆盖L3阶段，蔚来则把硬件、技术和运营体系准备到“监管允许即可跟进”。",
-     "source": "经济观察网",
-     "zh": "车企激辩自动驾驶“下半场”：究竟要不要跳过L3？"
-    },
-    {
-     "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
-     "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 10:45:00 GMT",
-     "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
-     "source": "MarketWatch",
-     "zh": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around."
-    },
-    {
-     "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3784326",
-     "pubDate": "Fri, 23 Oct 2026 18:40:45 +0800",
-     "summary": "寒武纪三季度营收、净利润继续保持高速增长，人工智能应用落地带动业务规模进一步扩大。10月23日，寒武纪披露2026年第三季度报告， 第三季度实现营业收入35.31亿元，同比增长104.47%；归属于上市公司股东的净利润为14.04亿元，同比增长147.74%。 前三季度，公司累计实现营业收入95.26亿元，同比增长106.76%；归母净利润37.15亿元，同比增长131.49%。营收和利润增速均超过100%，净利润增速高于营收增速，盈利规模进一步扩大。 寒武纪在财报中表示，营收增长主要得益于持续拓展市场、积极助力人工智能应用落地。 随着AI算力需求增长及相关应用逐步推进，公司业务规模持续扩张。",
-     "source": "华尔街见闻",
-     "zh": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻"
     }
    ]
   },

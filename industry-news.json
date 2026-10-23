@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/23 17:32:03",
+ "generated_at": "2026/10/23 17:36:19",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "刚刚，何刚升职！成华为第17位董事",
+     "link": "https://zhidx.com/p/604116.html",
+     "pubDate": "Fri, 23 Oct 2026 17:20:37 +0800",
+     "summary": "智东西 作者 | 云鹏 编辑｜心缘 智东西10月23日消息，根据华为官网管理层信息， 华为终端BG CEO何刚升任华为董事， 这位在华为工作了28年的老将，正式进入华为董事会。 何刚和余承东也是华为终端业务线“唯二”进入董事会的成员。 根据官网信息，何刚出生于1973年，毕业于西安电子科技大学，硕士。1998年加入华为，历任 无线GSM&UMTS产品线总裁、全球无线解决方案销售部部长、终端BG手机产品线总裁、终端BG CEO 等职务。 何刚比余承东小4岁，晚5年入职华为，同样为技术出身。 目前何刚微博信息已经更新。 2024年4月，余承东卸任终端BG CEO，何刚接任。据PChome报道， 接",
+     "source": "智东西",
+     "zh": "刚刚，何刚升职！成华为第17位董事"
+    },
     {
      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
@@ -239,14 +247,6 @@
      "summary": "智东西 编译 | 栗子 编辑 | 云鹏 智东西10月23日消息，昨日彭博社报道，一家成立约一年的AI初创公司，还没推出商业产品，就拿到了10亿美元融资，公司估值达到60亿美元，约合426亿元人民币。这家公司叫Flapping Airplanes，想做的事是用更少的数据和算力训练AI模型。 这轮A轮融资由Index Ventures和Lux Capital共同领投，红杉资本、Alphabet旗下GV、凯鹏华盈、Valor、Atreides和英伟达等参投。此前的种子轮，公司估值还是15亿美元，如今已变成原来的四倍。 Flapping Airplanes总部位于旧金山，属于先做研究、再谈产品的“AI",
      "source": "智东西",
      "zh": "黄仁勋又投一家AI创企，成立一年估值超400亿，要给GPU提效"
-    },
-    {
-     "title": "How to Process Large JSON Files in Python With ijson",
-     "link": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
-     "pubDate": "Thu, 22 Oct 2026 14:00:00 +0000",
-     "summary": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
-     "source": "KDnuggets",
-     "zh": "How to Process Large JSON Files in Python With ijson"
     }
    ]
   },
@@ -1833,6 +1833,14 @@
      "zh": "国务院办公厅：积极增强人工智能创造就业机会等正面效应，有效减缓人工智能应用就业替代影响"
     },
     {
+     "title": "虚拟电厂的“规模化元年”：项目上马忙，干活躲一旁",
+     "link": "https://www.tmtpost.com/8179169.html",
+     "pubDate": "Fri, 23 Oct 2026 17:15:51 +0800",
+     "summary": "政策扶持、AI加持下，虚拟电厂成为能源领域的热门赛道，但其技术实力、调节能力、商业模式上的缺陷也随之暴露。",
+     "source": "钛媒体",
+     "zh": "虚拟电厂的“规模化元年”：项目上马忙，干活躲一旁"
+    },
+    {
      "title": "Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)",
      "link": "https://www.techmeme.com/261023/p5#a261023p5",
      "pubDate": "Fri, 23 Oct 2026 05:15:03 -0400",
@@ -1873,6 +1881,14 @@
      "zh": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars"
     },
     {
+     "title": "mRNA 癌症疫苗将死亡复发风险减少 42%",
+     "link": "https://www.solidot.org/story?sid=85693",
+     "pubDate": "Fri, 23 Oct 2026 16:48:00 +0800",
+     "summary": "制药公司 Merck 和 Moderna 宣布，在 III 期黑色素瘤临床试验中，基于 mRNA 技术的个性化癌症疫苗相比标准治疗，将死亡或复发风险减少 42%。黑色素瘤是最致命的皮肤癌。两家公司正与监管机构接洽争取该疫苗早日获批。有 1,137 名患者参加了 III 期临床试验，他们此前均患有 IIB-IV 期黑色素瘤，已通过手术切除肿瘤。患者被以 2:1 的比例随机分配至两组：一组接受个性化 mRNA 疫苗联合标准治疗，另一组仅接受标准治疗。标准治疗采用 Merck 已上市的单克隆抗体抗癌药物 Keytruda。定制 mRNA 疫苗名为 intismeran 或 mRNA-4157，编码了",
+     "source": "Solidot",
+     "zh": "mRNA 癌症疫苗将死亡复发风险减少 42%"
+    },
+    {
      "title": "Europe Is Sorting China’s Car Brands by Showroom, Not by Factory",
      "link": "https://www.tmtpost.com/8179206.html",
      "pubDate": "Fri, 23 Oct 2026 16:13:04 +0800",
@@ -1911,14 +1927,6 @@
      "summary": "微信绿泡泡短剧抛出限时100%收入激励，字节红果却宣布分阶段下线金币任务体系。一进一退，舆论读作\"腾讯进攻、字节退守\"，但补贴只是表象。两家真正押注的，是完全不同的用户底盘、成本结构和变现路线——这是短剧行业从流量红利期切入效率红利期的标志性分叉。",
      "source": "钛媒体",
      "zh": "一撤一补，字节腾讯反向操作背后，短剧赛道正在分叉"
-    },
-    {
-     "title": "从数据缺失到风险量化：机器人保险定价难在哪？",
-     "link": "https://www.tmtpost.com/8178174.html",
-     "pubDate": "Fri, 23 Oct 2026 15:35:34 +0800",
-     "summary": "机器人是第一个出厂就自带行车记录仪的被保险标的，而保险公司是唯一不能撒谎的第三方。",
-     "source": "钛媒体",
-     "zh": "从数据缺失到风险量化：机器人保险定价难在哪？"
     },
     {
      "title": "浏览器 Arc 将于 12 月关闭",
@@ -1983,14 +1991,6 @@
      "summary": "P.R. Venkat / Wall Street Journal : SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing &ldquo;market conditions and share price trends&rdquo; &nbsp; &mdash;&nbsp; SK Hynix's shares fell as much as 4.2% in early trade in Seoul&nbsp; &",
      "source": "Techmeme",
      "zh": "SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing \"market conditions and share price trends\" (P.R. Venkat/Wall Street Journal)"
-    },
-    {
-     "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-     "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-     "pubDate": "Fri, 23 Oct 2026 04:22:57 +0000",
-     "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-     "source": "TechCrunch",
-     "zh": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback"
     }
    ]
   },
@@ -2249,52 +2249,68 @@
    "total": 13,
    "items": [
     {
-     "title": "大宗交易：晨丰科技成交5980.00万元，折价7.60%（10-23）",
-     "link": "http://stock.eastmoney.com/news/11264,202610233906356671.html",
-     "pubDate": "Fri, 23 Oct 2026 17:22:42 +0800",
-     "summary": "2026年10月23日， 晨丰科技 发生1笔大宗交易，共成交230.00万股，成交金额5980.00万元 ，占其流通市值比例为1.05% 。 该笔大宗交易成交均价26.00元， 较该股当日收盘价28.14元折价7.60%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "大宗交易：晨丰科技成交5980.00万元，折价7.60%（10-23）"
+     "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
+     "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+     "pubDate": "Fri, 23 Oct 2026 09:28:29 GMT",
+     "summary": "Both Putin and Zelenskyy said Thursday they were open for peace negotiations, even as they continued strikes overnight.",
+     "source": "CNBC",
+     "zh": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks"
     },
     {
-     "title": "大宗交易：瑞松科技成交305.50万元，折价13.68%（10-23）",
-     "link": "http://stock.eastmoney.com/news/11264,202610233906356440.html",
-     "pubDate": "Fri, 23 Oct 2026 17:22:32 +0800",
-     "summary": "2026年10月23日，瑞松科技发生1笔大宗交易，共成交6.50万股，成交金额305.50万元 ，占其流通市值比例为0.04% 。 该笔大宗交易成交均价47.00元， 较该股当日收盘价54.45元折价13.68%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "大宗交易：瑞松科技成交305.50万元，折价13.68%（10-23）"
+     "title": "France is getting its credit rating reviewed by Moody’s. What to expect as French debt turmoil spills overseas.",
+     "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 09:28:00 GMT",
+     "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
+     "source": "MarketWatch",
+     "zh": "France is getting its credit rating reviewed by Moody’s. What to expect as French debt turmoil spills overseas."
     },
     {
-     "title": "大宗交易：天和磁材成交3248.36万元，折价11.13%（10-23）",
-     "link": "http://stock.eastmoney.com/news/11264,202610233906356392.html",
-     "pubDate": "Fri, 23 Oct 2026 17:22:32 +0800",
-     "summary": "2026年10月23日，天和磁材发生2笔大宗交易，共成交128.75万股，成交金额3248.36万元 ，占其流通市值比例为0.91% 。 2笔大宗交易成交均价25.23元， 较该股当日收盘价28.39元折价11.13%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "图解财报：力佳科技前三季归母净利润787.24万元，同比减少74.60%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906358619.html",
+     "pubDate": "Fri, 23 Oct 2026 17:27:18 +0800",
+     "summary": "力佳科技 10月23日发布2026年 三季报显示，公司前三季 实现营业收入2.17亿元 ，同比下滑18.62% ；归母净利润787.24万元 ，同比下滑74.60% ；扣非归母净利润441.16万元 ，同比下滑84.22% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
      "source": "东方财富股票",
-     "zh": "大宗交易：天和磁材成交3248.36万元，折价11.13%（10-23）"
+     "zh": "图解财报：力佳科技前三季归母净利润787.24万元，同比减少74.60%"
     },
     {
-     "title": "大宗交易：寒武纪成交1900.38万元（10-23）",
-     "link": "http://stock.eastmoney.com/news/11264,202610233906356249.html",
-     "pubDate": "Fri, 23 Oct 2026 17:22:32 +0800",
-     "summary": "2026年10月23日，寒武纪发生1笔大宗交易，共成交2.04万股，成交金额1900.38万元 。 该笔大宗交易成交均价932.20元， 较该股当日收盘价932.20元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "长龄液压：拟7000万元-1.3亿元回购公司股份 回购价不超92.47元/股",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906359197.html",
+     "pubDate": "Fri, 23 Oct 2026 17:26:38 +0800",
+     "summary": "长龄液压 10月23日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于7000万元且不超过1.3亿元。回购价格不超过92.47元/股。回购股份将用于员工 股权激励 /员工持股计划。回购期限为自董事会审议通过回购股份方案之日起12个月内。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "大宗交易：寒武纪成交1900.38万元（10-23）"
+     "zh": "长龄液压：拟7000万元-1.3亿元回购公司股份 回购价不超92.47元/股"
     },
     {
-     "title": "大宗交易：天宸股份成交400.99万元（10-23）",
-     "link": "http://stock.eastmoney.com/news/11264,202610233906356162.html",
-     "pubDate": "Fri, 23 Oct 2026 17:22:32 +0800",
-     "summary": "2026年10月23日， 天宸股份 发生1笔大宗交易，共成交100.75万股，成交金额400.99万元 ，占其流通市值比例为0.15% 。 该笔大宗交易成交均价3.98元， 较该股当日收盘价3.98元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "图解财报：宁波能源前三季归母净利润2.20亿元，同比减少9.15%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906358378.html",
+     "pubDate": "Fri, 23 Oct 2026 17:26:16 +0800",
+     "summary": "宁波能源 10月24日发布2026年 三季报显示，公司前三季 实现营业收入31.15亿元 ，同比增长15.56% ；归母净利润2.20亿元 ，同比下滑9.15% ；扣非归母净利润2.49亿元 ，同比增长5.48% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
      "source": "东方财富股票",
-     "zh": "大宗交易：天宸股份成交400.99万元（10-23）"
+     "zh": "图解财报：宁波能源前三季归母净利润2.20亿元，同比减少9.15%"
     },
     {
-     "title": "大宗交易：宁水集团成交1026.90万元，折价11.09%（10-23）",
-     "link": "http://stock.eastmoney.com/news/11264,202610233906356025.html",
-     "pubDate": "Fri, 23 Oct 2026 17:22:32 +0800",
-     "summary": "2026年10月23日，宁水集团发生1笔大宗交易，共成交105.00万股，成交金额1026.90万元 ，占其流通市值比例为0.47% 。 该笔大宗交易成交均价9.78元， 较该股当日收盘价11.00元折价11.09%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "图解财报：明泰铝业前三季归母净利润19.17亿元，同比增长36.50%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906358168.html",
+     "pubDate": "Fri, 23 Oct 2026 17:25:12 +0800",
+     "summary": "明泰铝业 10月24日发布2026年 三季报显示，公司前三季 实现营业收入318.59亿元 ，同比增长23.13% ；归母净利润19.17亿元 ，同比增长36.50% ；扣非归母净利润18.48亿元 ，同比增长56.81% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
      "source": "东方财富股票",
-     "zh": "大宗交易：宁水集团成交1026.90万元，折价11.09%（10-23）"
+     "zh": "图解财报：明泰铝业前三季归母净利润19.17亿元，同比增长36.50%"
+    },
+    {
+     "title": "图解财报：东百集团前三季归母净利润1.33亿元，同比增长51.13%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906358071.html",
+     "pubDate": "Fri, 23 Oct 2026 17:25:12 +0800",
+     "summary": "东百集团 10月24日发布2026年 三季报显示，公司前三季 实现营业收入13.49亿元 ，同比下滑0.70% ；归母净利润1.33亿元 ，同比增长51.13% ；扣非归母净利润9245.25万元 ，同比增长19.45% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：东百集团前三季归母净利润1.33亿元，同比增长51.13%"
+    },
+    {
+     "title": "TCL智家：第三季度归母净利润2.64亿元 同比下降22.15%",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906358873.html",
+     "pubDate": "Fri, 23 Oct 2026 17:24:38 +0800",
+     "summary": "TCL智家 10月23日公告，2026年第三季度实现营业收入53.71亿元，同比增长10.32%；归母净利润2.64亿元，同比下降22.15%；基本每股收益0.24元。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "TCL智家：第三季度归母净利润2.64亿元 同比下降22.15%"
     },
     {
      "title": "Nvidia&apos;s Huang heads to Kazakhstan for the first time — and he&apos;s not the only one with big plans",
@@ -2343,6 +2359,14 @@
      "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
      "source": "MarketWatch",
      "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
+    },
+    {
+     "title": "Oil hits $114 for first time since May as global stocks knocked by AI fears",
+     "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 09:14:36 GMT",
+     "summary": "Markets face twin threats of surging crude prices and concern over durability of AI boom",
+     "source": "Financial Times",
+     "zh": "Oil hits $114 for first time since May as global stocks knocked by AI fears"
     },
     {
      "title": "央行：10月26日将开展7000亿元MLF操作",
@@ -2463,30 +2487,6 @@
      "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
      "source": "CNBC",
      "zh": "Volvo Cars plunges 27% as CEO says China sales slump came &apos;faster than we thought&apos;"
-    },
-    {
-     "title": "在OpenAI当FDE是什么体验？",
-     "link": "https://wallstreetcn.com/articles/3784313",
-     "pubDate": "Fri, 23 Oct 2026 16:32:25 +0800",
-     "summary": "入职没几天，就被“逼着”去学怎么设计芯片？辛辛苦苦干了几个月写出来的代码，AI一升级，直接给你删掉了90%？最奇葩的是，在这个岗位上，你干得越好，你可能就越快“失业”？ 这是目前全球最顶尖的AI公司——OpenAI里，做一名FDE工程师的真实经历。 如果说OpenAI的研究员是在实验室里造核武器的人，那FDE团队就是把这些武器带到前线，手把手教企业怎么打赢战争的“特种兵”。他们的任务只有一个：解决客户最棘手的业务问题，把AI真正落地到生产环境里。 在最新发布的一篇博客中，负责人Colin Jarvis 分享了 OpenAI FDE 团队的工作方式，还附上了一张团队全员大合照。 这份工作远没有听",
-     "source": "华尔街见闻",
-     "zh": "在OpenAI当FDE是什么体验？"
-    },
-    {
-     "title": "第七家外资独资券商来了 花旗证券获批设立",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906294674.html",
-     "pubDate": "Fri, 23 Oct 2026 16:29:46 +0800",
-     "summary": "中国资本市场对外开放进程再度迈出重要一步。 10月23日，中国证监会正式发布批复，核准设立花旗证券（中国）（以下简称“花旗中国”）。这家由花旗环球 金融控股 有限公司的外资独资券商，成为国内第七家外资独资证券公司，标志着中国资本市场对外开放进程再迈重要一步。 据批复，花旗中国注册地为上海，注册资本为人民币12亿元，业务范围为证券经纪、证券投资咨询、证券承销与保荐、证券自营。近年来，中国金融开放政策密集落地，推动 摩根大通 、 高盛 、渣打、法巴、瑞银、瑞穗等外资券商先后实现独资运营。随着花旗中国的加入，外资机构对中国市场的长期信心与布局热情持续升温。 证监会核准设立花旗中国 根据证监会批复文件",
-     "source": "东方财富资讯",
-     "zh": "第七家外资独资券商来了 花旗证券获批设立"
-    },
-    {
-     "title": "高盛下调西部数据目标价：HDD扩产隐忧压制估值，更看好HAMR进展顺利的希捷",
-     "link": "https://wallstreetcn.com/articles/3784310",
-     "pubDate": "Fri, 23 Oct 2026 16:28:26 +0800",
-     "summary": "西部数据（Western Digital，WDC）交出一份强劲的季度成绩单，收入、毛利率与每股盈利均大幅超越市场预期，下季度指引更是远超华尔街预估。然而，高盛认为，竞争对手潜在的产能扩张将对硬盘（HDD）板块的估值倍数构成长期压制，股价短期内料将小幅承压。 据追风交易台消息，据高盛于10月22日发布的研究报告，西部数据管理层对行业需求前景表达了强烈信心，并透露其七大客户已将需求预测延伸至2030年及以后。与此同时， 管理层隐晦承认竞争对手（高盛认为系东芝）存在扩产可能，尽管公司认为该扩产幅度不足以打破行业供需平衡。 基于上述判断，高盛维持对西部数据的\"中性\"评级，并将12个月目标价从615美元",
-     "source": "华尔街见闻",
-     "zh": "高盛下调西部数据目标价：HDD扩产隐忧压制估值，更看好HAMR进展顺利的希捷"
     }
    ]
   },

@@ -1074,10 +1074,10 @@ window.INDUSTRY_DATA = {
      "zh": "Utilities turn to AI to manage rising power demand — from AI"
     },
     {
-     "title": "Jigar Shah blames the wrong target for rising electricity bills",
-     "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
-     "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
+     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
+     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
      "source": "Utility Dive",
      "zh": "Jigar Shah blames the wrong target for rising electricity bills"
     }
@@ -2464,22 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
      "source": "MarketWatch",
      "zh": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around."
-    },
-    {
-     "title": "单日150亿！18只“新品”今日开售 一图看懂主动ETF",
-     "link": "http://finance.eastmoney.com/news/11137,202610233906416884.html",
-     "pubDate": "Fri, 23 Oct 2026 18:44:37 +0800",
-     "summary": "10月23日，境内首批主动ETF正式进入募集阶段。这18只创新产品分属18家基金管理人，在沪深交易所分别上市9只。每只产品募集上限为20亿元，后续如果顺利完成募集和建仓，预计将为A股市场带来 360亿元的增量资金 。 据媒体报道，易方达、富国、摩根基金的募集规模已触及20亿元的首募上限。除3只“日光”ETF外，还有2只 募集规模上限超过10亿元 ，4家超5亿元，截至发稿，首批主动ETF 合计募集规模或已超过150亿元 。 发行前夕，管理人密集自购：易方达、华夏、富国、汇添富各以2亿元固有资金自购旗下产品，华安自购1亿元，叠加摩根股东方约5亿元投资，这一轮来自ETF管理人及其股东的自有资金投资额",
-     "source": "东方财富资讯",
-     "zh": "单日150亿！18只“新品”今日开售 一图看懂主动ETF"
-    },
-    {
-     "title": "寒武纪：前三季度净利润同比增长131.49%",
-     "link": "http://finance.eastmoney.com/news/1345,202610233906408118.html",
-     "pubDate": "Fri, 23 Oct 2026 18:41:03 +0800",
-     "summary": "寒武纪 (688256.SH)公告称，第三季度营业收入为35.31亿元，同比增长104.47%；归属于上市公司股东的净利润为14.04亿元，同比增长147.74%。前三季度营业收入为95.26亿元，同比增长106.76%；归属于上市公司股东的净利润为37.15亿元，同比增长131.49%。业绩变动主要系公司持续拓展市场，积极助力 人工智能 应用落地。注：公司Q3净利润14.04亿，Q2净利润12.98亿，据此计算，Q3净利润环比增长8%。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "寒武纪：前三季度净利润同比增长131.49%"
     },
     {
      "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",

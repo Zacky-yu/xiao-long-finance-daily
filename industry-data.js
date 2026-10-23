@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 13:12:11",
+ "generated_at": "2026/10/23 13:32:03",
  "recent_days": 7,
  "industries": [
   {
@@ -122,20 +122,20 @@ window.INDUSTRY_DATA = {
      "zh": "Build more responsive apps with the Decisions API"
     },
     {
-     "title": "Canva releases its first image generation model",
-     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-     "source": "TechCrunch AI",
-     "zh": "Canva releases its first image generation model"
-    },
-    {
      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
      "source": "TechCrunch AI",
      "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
+    },
+    {
+     "title": "Canva releases its first image generation model",
+     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+     "source": "TechCrunch AI",
+     "zh": "Canva releases its first image generation model"
     },
     {
      "title": "The Foundations of Scalable AI",
@@ -306,14 +306,6 @@ window.INDUSTRY_DATA = {
      "zh": "US signs up to US$389 million in CHIPS R&D deals for power chips and fusion"
     },
     {
-     "title": "Apple To Take 25% Of 2026 Foldables Market",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/apple-to-take-25-of-foldables-market-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 00:01:07 +0000",
-     "summary": "Apple is expected to take a 25% share of the 2026 foldables market despite shipping its first foldable this week, says Counterpoint Research. Nonetheless Samsung is expected to remain […] The post Apple To Take 25% Of 2026 Foldables Market appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Apple To Take 25% Of 2026 Foldables Market"
-    },
-    {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
      "link": "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/",
      "pubDate": "Thu, 22 Oct 2026 18:24:39 +0000",
@@ -346,14 +338,6 @@ window.INDUSTRY_DATA = {
      "zh": "SEMICON West’s Autonomous Fab Vision Needs a Decision-Escalation Design"
     },
     {
-     "title": "Fable: The CEO Who Cut The Cr*p",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-ceo-who-cut-the-crp-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 13:25:18 +0000",
-     "summary": "There was once a company expecting to lose $17 billion one year who bought in a new CEO. He mortgaged all the assets of the company to raise a $23.5 […] The post Fable: The CEO Who Cut The Cr*p appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The CEO Who Cut The Cr*p"
-    },
-    {
      "title": "Teradyne Targets Edge AI Test Costs With UltraFLEXplus S Series",
      "link": "https://semiwiki.com/semiconductor-manufacturers/teradyne/374905-teradyne-targets-edge-ai-test-costs-with-ultraflexplus-s-series/",
      "pubDate": "Thu, 22 Oct 2026 13:00:37 +0000",
@@ -368,14 +352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems. The post How Goodram Validates DRAM and SSD Reliability in Europe appeared first on EE Times .",
      "source": "EE Times",
      "zh": "How Goodram Validates DRAM and SSD Reliability in Europe"
-    },
-    {
-     "title": "Why embedded engineering is becoming a bottleneck for industrial automation",
-     "link": "https://www.electronicsweekly.com/news/why-embedded-engineering-is-becoming-a-bottleneck-for-industrial-automation-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 11:00:40 +0000",
-     "summary": "Industrial automation is increasingly becoming a strategic priority for manufacturers, with robotics, AI and connected production systems promising productivity, flexibility and resilience, writes Payam Pajoohi of PHYTEC. Despite this, adopting […] The post Why embedded engineering is becoming a bot",
-     "source": "Electronics Weekly",
-     "zh": "Why embedded engineering is becoming a bottleneck for industrial automation"
     },
     {
      "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
@@ -434,30 +410,6 @@ window.INDUSTRY_DATA = {
      "zh": "What Breaks When Packaging Moves From Wafer To Panel?"
     },
     {
-     "title": "Hydrogen truck for Dakar Rally",
-     "link": "https://www.electronicsweekly.com/news/business/hydrogen-truck-for-dakar-rally-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 05:15:41 +0000",
-     "summary": "Toyota is to enter a hydrogen-powered truck (pictured with driver Dania Akeel) in the January 2027 Dakar Rally. The truck is a hydrogen fuel cell version of the ICE Hilux […] The post Hydrogen truck for Dakar Rally appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Hydrogen truck for Dakar Rally"
-    },
-    {
-     "title": "Flapping Airplanes raises $1bn",
-     "link": "https://www.electronicsweekly.com/news/business/flapping-airplanes-raises-1bn-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 05:14:58 +0000",
-     "summary": "Flapping Airplanes, a one year-old San Francisco AI neolab, has raised $1 billion at a $6 billion valuation before it has put a product on the market. ‘Neolab’ denotes an […] The post Flapping Airplanes raises $1bn appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Flapping Airplanes raises $1bn"
-    },
-    {
-     "title": "Photon Bridge raises €10m",
-     "link": "https://www.electronicsweekly.com/news/business/photon-bridge-raises-e10m-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 05:11:49 +0000",
-     "summary": "Photon Bridge, the Dutch photonics specialist, has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly […] The post Photon Bridge raises €10m appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Photon Bridge raises €10m"
-    },
-    {
      "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
      "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
      "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "At SEMICON West 2026 I sat down with John O’Donnell, founder and CEO, and Gillian O’Donnell, Director of Growth , to talk about how yieldHUB Live is transforming the semiconductor test floor from a blind spot into a real-time command center. For decades, semiconductor test floors have operated as hi",
      "source": "SemiWiki",
      "zh": "Beyond the Post-Mortem: How yieldHUB Live Turns the Test Floor Into an Open Window"
+    },
+    {
+     "title": "Why America’s Semiconductor Manufacturing Capacity Matters",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/375206-why-americas-semiconductor-manufacturing-capacity-matters/",
+     "pubDate": "Wed, 21 Oct 2026 15:00:07 +0000",
+     "summary": "America’s semiconductor future will be shaped by its ability to turn scientific discoveries into chips manufactured at scale. That is why the investments outlined in Intel Foundry’s recent editorial matter beyond the company’s own business. They address a fundamental question: whether the United Sta",
+     "source": "SemiWiki",
+     "zh": "Why America’s Semiconductor Manufacturing Capacity Matters"
+    },
+    {
+     "title": "India’s OSAT Buildout Puts Semiconductor Testing in Focus",
+     "link": "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/",
+     "pubDate": "Wed, 21 Oct 2026 13:39:13 +0000",
+     "summary": "NI said Kaynes Semicon has selected its semiconductor test systems, while other Indian OSATs continue to evaluate equipment as manufacturers prepare for production. The post India’s OSAT Buildout Puts Semiconductor Testing in Focus appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "India’s OSAT Buildout Puts Semiconductor Testing in Focus"
+    },
+    {
+     "title": "Guerrilla RF expands GaN design support and begins sampling new high-power devices",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/guerrillarf-201026.shtml",
+     "pubDate": "Tue, 20 Oct 2026 20:59:52 +0100",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that new nonlinear simulation models for its GRF0005 and GRF0012 gallium nitride (GaN) power transistors ar",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF expands GaN design support and begins sampling new high-power devices"
+    },
+    {
+     "title": "Ascent partners with Darley to expand thin-film solar product access across defense and government markets",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/ascent-solar-201026.shtml",
+     "pubDate": "Tue, 20 Oct 2026 16:49:56 +0100",
+     "summary": "Ascent Solar Technologies Inc of Thornton, CO, USA – which designs and makes lightweight, flexible copper indium gallium diselenide (CIGS) thin-film photovoltaic (PV) panels that can be integrated into consumer products, off-grid applications and aerospace applications – has announced a new partners",
+     "source": "Semiconductor Today",
+     "zh": "Ascent partners with Darley to expand thin-film solar product access across defense and government markets"
+    },
+    {
+     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
+     "link": "https://spectrum.ieee.org/community-college-semiconductors",
+     "pubDate": "Tue, 20 Oct 2026 13:00:02 +0000",
+     "summary": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared. By 2030, investments in manufacturing, design, materials, and packaging facilities in the United States will create demand for 189,000 new full-time semiconductor jobs. But the supply of such",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Community Colleges Put New Workers Into Semiconductor Jobs Fast"
+    },
+    {
+     "title": "NUBURU receives NYSE American warning letter regarding disclosure requirements",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/nuburu-201026.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:07:22 +0100",
+     "summary": "NUBURU Inc of Centennial, CO, USA (a dual-use defense & security integrated platform company) has received a public warning letter from NYSE Regulation on behalf of NYSE American LLC...",
+     "source": "Semiconductor Today",
+     "zh": "NUBURU receives NYSE American warning letter regarding disclosure requirements"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
      "zh": "ACME Solar signs 1.2GWh PPA with SECI for clean energy supply during non-solar hours from Indian renewables assets"
     },
     {
+     "title": "Optivolt Raises $32M to Build the Brain for Solar Panels of the Future",
+     "link": "https://cleantechnica.com/2026/10/22/optivolt-raises-32m-to-build-the-brain-for-solar-panels-of-the-future/",
+     "pubDate": "Fri, 23 Oct 2026 03:58:54 +0000",
+     "summary": "Series A led by VXI Capital, with backing from the people who built modern solar, including founding Enphase CEO Paul Nahi, former SunPower CEO Tom Werner and former New York energy czar Richard Kauffman Nine years in the making, Optivolt’s energy intelligence turns passive solar hardware into adapt",
+     "source": "CleanTechnica",
+     "zh": "Optivolt Raises $32M to Build the Brain for Solar Panels of the Future"
+    },
+    {
      "title": "What The Battery Show Told Us About the Next Chapter of Electrification",
      "link": "https://cleantechnica.com/2026/10/22/what-the-battery-show-told-us-about-the-next-chapter-of-electrification/",
      "pubDate": "Fri, 23 Oct 2026 03:57:17 +0000",
@@ -962,20 +970,28 @@ window.INDUSTRY_DATA = {
      "zh": "Utilities turn to AI to manage rising power demand — from AI"
     },
     {
-     "title": "The All New,  Never Seen Anything Like It, Fourth Generation EV Platform From GM",
-     "link": "https://cleantechnica.com/2026/10/22/the-all-new-never-seen-anything-like-it-fourth-generation-ev-platform-from-gm/",
-     "pubDate": "Thu, 22 Oct 2026 15:39:31 +0000",
-     "summary": "At a splashy GM Forward event in New York City on October 21, General Motors laid out its plans to remain relevant in the auto manufacturing business. (Never mind that the industry enjoys a walled garden status in the US, which has chosen to erect trade barriers that exclude sales ... [continued] Th",
-     "source": "CleanTechnica",
-     "zh": "The All New,  Never Seen Anything Like It, Fourth Generation EV Platform From GM"
+     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
+     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
     },
     {
      "title": "Jigar Shah blames the wrong target for rising electricity bills",
      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
      "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
      "source": "Utility Dive",
      "zh": "Jigar Shah blames the wrong target for rising electricity bills"
+    },
+    {
+     "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+     "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+     "pubDate": "Thu, 22 Oct 2026 10:42:49 -0400",
+     "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
+     "source": "Utility Dive",
+     "zh": "Google supersizes PJM virtual power plant to more than 1 GW"
     },
     {
      "title": "Global energy storage deployments will see 45% year-on-year ‘growth surge’ in 2026: BloombergNEF",
@@ -1064,22 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "BESS investments in the French market are moving to longer durations with saturation expected to hit the secondary reserve market, currently the main way operational projects make their money.",
      "source": "Energy Storage News",
      "zh": "France’s storage market moves to higher durations with secondary reserve saturation ‘cliff-edge’ approaching"
-    },
-    {
-     "title": "Rwanda tenders 200 MW floating PV, 800 MWh BESS project",
-     "link": "https://www.pv-magazine.com/2026/10/22/rwanda-tenders-200-mw-floating-pv-800-mwh-bess-project/",
-     "pubDate": "Thu, 22 Oct 2026 10:45:00 +0000",
-     "summary": "A tender is open in Rwanda for a 200 MW floating solar plant to be tied to 800 MWh of battery storage. The deadline to submit pre-qualification bids is November 12. The post Rwanda tenders 200 MW floating PV, 800 MWh BESS project appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Rwanda tenders 200 MW floating PV, 800 MWh BESS project"
-    },
-    {
-     "title": "Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon",
-     "link": "https://www.pv-tech.org/kendall-sustainable-infrastructure-brings-16mw-of-community-solar-online-in-new-york-and-oregon/",
-     "pubDate": "Thu, 22 Oct 2026 09:01:51 +0000",
-     "summary": "Kendall Sustainable Infrastructure (KSI) has started operating three community solar projects totalling 15.8MWdc across New York and Oregon.",
-     "source": "PV Tech",
-     "zh": "Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon"
     }
    ]
   },
@@ -1754,6 +1754,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "2027 款极狐阿尔法 S5 纯电宽体轿跑预售：标配激光雷达，12.18 万元起",
+     "link": "https://www.ithome.com/1/016/969.htm",
+     "pubDate": "Fri, 23 Oct 2026 05:29:10 GMT",
+     "summary": "IT之家 10 月 23 日消息，2027 款极狐阿尔法 S5 车型今日宣布开启预售，定位“AI 高性能宽体轿跑”可选三个版本， 预售价 12.18 万元起 。 650 PLUS 激光版 12.18 万元 650 MAX 激光版 13.18 万元 750 MAX 激光神行版 14.48 万元 该车限时赠送价值 5000 元特殊外观颜色，可享三电终身质保、电池自燃烧一赔一、8 年 / 16 万公里电池衰减超限值只换不修。 2027 款极狐阿尔法 S5 尺寸为 4886x1930x1480mm，轴距 2900mm， 升级无边框后视镜，新增 148L 前备箱 ，可选 7 款外观配色、3 款内饰配色。",
+     "source": "IT之家",
+     "zh": "2027 款极狐阿尔法 S5 纯电宽体轿跑预售：标配激光雷达，12.18 万元起"
+    },
+    {
+     "title": "古尔曼爆料苹果 iPhone Duo 3 折叠手机：配长焦镜头，8 英寸出头内屏",
+     "link": "https://www.ithome.com/1/016/968.htm",
+     "pubDate": "Fri, 23 Oct 2026 05:26:41 GMT",
+     "summary": "IT之家 10 月 23 日消息，在第四期 Power On 播客节目中，彭博社的马克 · 古尔曼（Mark Gurman）透露， 苹果公司正在规划更大尺寸的 iPhone Duo，并考虑在未来机型中加入长焦摄像头。 IT之家附上相关播客视频如下： 古尔曼在播客节目中表示，这些规划有望在第三代 iPhone Duo 上实现，该产品预估 2028 年推出，其内屏尺寸可能比现款（7.6 英寸）增加约 0.5 英寸， 达到“8 英寸出头”的水平。 古尔曼表示， 苹果 iPhone Duo 屏幕尺寸的升级路线，不会推出 8.5 英寸或者 9 英寸的大型折叠屏幕，会采用类似 Pro 系列的渐进式扩屏策略",
+     "source": "IT之家",
+     "zh": "古尔曼爆料苹果 iPhone Duo 3 折叠手机：配长焦镜头，8 英寸出头内屏"
+    },
+    {
+     "title": "小米王晓雁：友商近日发布新机后，REDMI K100 手机的预约量猛增",
+     "link": "https://www.ithome.com/1/016/967.htm",
+     "pubDate": "Fri, 23 Oct 2026 05:24:30 GMT",
+     "summary": "IT之家 10 月 23 日消息，小米 REDMI K100 手机将于 10 月 27 日晚 7 点发布。 小米集团高级副总裁、中国区总裁王晓雁今日表示，详细看了一下目前 REDMI K100 标准版的预约数据，分享两个很有意思的点： 第一个是： 友商近日发布新机后，REDMI K100 的预约量猛增 ； 另一个是：REDMI K100 预约用户中， 30 岁以下人群占比接近 7 成 ，是历代 K 系列标准版中最高的。 王晓雁表示，今年双十一，一个强烈的体感是：年轻人更聪明了，开始选择“错峰消费”， 更愿意选择被验证过的、更成熟的产品 。 IT之家整理小米 REDMI K100 标准版手机已公",
+     "source": "IT之家",
+     "zh": "小米王晓雁：友商近日发布新机后，REDMI K100 手机的预约量猛增"
+    },
+    {
+     "title": "观点｜别不承认，你肯定也想做个“纯过日子人”",
+     "link": "https://www.huxiu.com/article/4899856.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 13:17:46 +0800",
+     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《观点｜别不承认，你肯定也想做个“纯过日子人”》 前几天刷到一个词，叫“纯过日子人”。 它形容的是当下年轻人一种很微妙的状态：不追求高频、大额的物质刺激，不再硬卷，也不彻底躺平；主动切断那些让自己内耗的宏大叙事，把精力收回到吃饭、睡觉、上班这些日常小事上。 我审视了一下自己，又看了看身边的朋友，发现这个词的穿透力极强。它不像“躺平”那样带着点破罐子破摔的颓丧，也不像“精英主义”那样时刻紧绷。 它其实在回答一个问题：当年轻人不再硬撑着去证明什么，他们究竟在过一种怎样的生活？ 从“面子溢价”到“里子自由” 先看几个肉眼可见的变化。 LVMH",
+     "source": "虎嗅",
+     "zh": "观点｜别不承认，你肯定也想做个“纯过日子人”"
+    },
+    {
+     "title": "消息称三星电子计划借印度手机制造补贴政策扩大出口，考虑追加投资",
+     "link": "https://www.ithome.com/1/016/966.htm",
+     "pubDate": "Fri, 23 Oct 2026 05:14:38 GMT",
+     "summary": "IT之家 10 月 23 日消息，据印度经济时报消息，知情人士透露，三星电子计划借助印度政府新推出的“手机制造计划（Mobile Phone Manufacturing Scheme）”，扩大从印度出口手机的规模。 据悉，该计划针对增量出货提供了更高比例的补贴激励。三星电子正考虑扩大在印度的生产规模，包括通过追加投资来拉动当地出口。 知情人士透露，三星可能会将部分产能从越南等国转移至印度，以充分享受该项补贴政策的红利。 一位不愿透露姓名的官员表示：“在新计划的磋商过程中，三星已承诺扩大出口规模并采取全面举措 —— 包括扩充本地产能、调整其全球生产布局， 使印度成为手机制造的重要中心 。” 按照",
+     "source": "IT之家",
+     "zh": "消息称三星电子计划借印度手机制造补贴政策扩大出口，考虑追加投资"
+    },
+    {
+     "title": "马斯克把 SpaceX 做成了收租生意",
+     "link": "https://www.huxiu.com/article/4899853.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 13:09:34 +0800",
+     "summary": "本文来自微信公众号： 偏科声 ，作者：李小年，原文标题：《马斯克把 SpaceX 做成了收租生意》 “ 当同行还在按“年”规划AI数据中心时，马斯克已经在按“天”交付了，还把竞争对手变成了客户。 一家造火箭的公司交出了上市以来最凶的一份财报。 10月20日盘后，SpaceX发布2026年第三季度业绩：营收145.75亿美元，同比增长161%；净利润44亿美元，去年同期还亏约10.5亿。这是公司今年6月上市以来的第二份季报，也是第一次单季盈利。 真正的炸点在收入结构里。 SpaceX的AI业务“超级智能”（Super Intelligence，SI）单季度收入75.6亿美元，同比增长830%，占",
+     "source": "虎嗅",
+     "zh": "马斯克把 SpaceX 做成了收租生意"
+    },
+    {
+     "title": "特步三季度销售下滑，为何“马拉松统治力”没能撑住业绩？",
+     "link": "https://www.huxiu.com/article/4899852.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 13:06:15 +0800",
+     "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 今日（10月23日），特步国际（01368.HK）发布公告，2026年第三季度，特步主品牌中国内地零售销售同比中单位数下滑。对比去年同期，特步主品牌零售销售为低单位数同比增长。 特步主品牌库存周期有所拉长，由去年同期的4-4.5个月增至4.5-5个月。 但在赛道上，特步的统治力几乎看不到松动的迹象。 10月18日，2026年北京马拉松（下文简称“北马”）在天安门广场鸣枪。特步不仅以34.2%的全局穿着率连续第四年拿下第一，破三跑者穿着率更是达到37.7%，同样位居榜首。 具象来看这一数据，平均每3位破三跑者中，就有1人穿着特步，领先第二名",
+     "source": "虎嗅",
+     "zh": "特步三季度销售下滑，为何“马拉松统治力”没能撑住业绩？"
+    },
+    {
      "title": "苹果首款折叠 iPhone Duo 今日开售，高管称门店有限量现货",
      "link": "https://www.ithome.com/1/016/964.htm",
      "pubDate": "Fri, 23 Oct 2026 05:04:04 GMT",
@@ -1786,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "日本电信运营商 KDDI 就子公司莫比康引发蒙古国大火道歉"
     },
     {
-     "title": "Counterpoint：2026 年 Q3 印度智能手机出货量跌至十年来最低水平，印度国产品牌 Ai+ 异军突起销量飙升 306%",
-     "link": "https://www.ithome.com/1/016/961.htm",
-     "pubDate": "Fri, 23 Oct 2026 04:55:45 GMT",
-     "summary": "IT之家 10 月 23 日消息，根据 Counterpoint Research 月度印度智能手机追踪报告， 2026 年第三季度（7-9 月）印度智能手机出货量同比下降 20%，跌至十年来最低水平 。 报告称，创纪录的内存价格推高了设备成本，导致大多数品牌出货量下滑。在需求持续疲软的情况下，即便在节日季之前，原始设备制造商（OEM）也控制了渠道库存。 研究分析师 Shubham Singh 表示，第三季度是印度智能手机市场的调整期，内存带动的成本挤压加剧了消费者需求疲软。元器件成本上涨推高了设备价格，削弱了传统大众市场的销量引擎，尤其是 15,000 印度卢比 （IT之家注：现汇率约合 1",
-     "source": "IT之家",
-     "zh": "Counterpoint：2026 年 Q3 印度智能手机出货量跌至十年来最低水平，印度国产品牌 Ai+ 异军突起销量飙升 306%"
-    },
-    {
      "title": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)",
      "link": "https://www.techmeme.com/261023/p2#a261023p2",
      "pubDate": "Fri, 23 Oct 2026 00:50:55 -0400",
@@ -1818,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "记性变差，别慌，大脑可能在用记忆换智慧"
     },
     {
-     "title": "黄仁勋：对英伟达与长鑫存储合作持开放态度，没有哪个国家在制造业方面比中国更强",
-     "link": "https://www.ithome.com/1/016/962.htm",
-     "pubDate": "Fri, 23 Oct 2026 04:45:06 GMT",
-     "summary": "IT之家 10 月 23 日消息，据 CNBC 当地时间 22 日报道，在英伟达 GTC 柏林大会期间，英伟达 CEO 黄仁勋接受了该媒体的专访。 在被问及英伟达是否计划与长鑫存储展开合作并采购其内存产品时，黄仁勋表示：“ 我们持开放态度 。我们与中国企业合作；整个世界都在供应链的某个地方与中国公司合作。” 黄仁勋还表示，“中国在基础设施技术方面令人难以置信， 没有哪个国家在制造业方面比中国更 强 ，因此我们必须非常认真地对待他们的能力。” 据IT之家今日早些时候报道，就近期热议的“内存过剩”一事，黄仁勋表示， 到 2029 年，内存芯片行业不太可能出现过剩的情况 。 相关阅读： 《 黄仁勋称",
-     "source": "IT之家",
-     "zh": "黄仁勋：对英伟达与长鑫存储合作持开放态度，没有哪个国家在制造业方面比中国更强"
-    },
-    {
      "title": "1元甩卖内地业务，快狗打车为何输掉同城货运生意？",
      "link": "https://www.tmtpost.com/8178816.html",
      "pubDate": "Fri, 23 Oct 2026 12:41:00 +0800",
@@ -1842,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing \"market conditions and share price trends\" (P.R. Venkat/Wall Street Journal)"
     },
     {
-     "title": "奇瑞海外发布全新瑞虎 X 系列首车：硬派方盒子 SUV 瑞虎 X7",
-     "link": "https://www.ithome.com/1/016/960.htm",
-     "pubDate": "Fri, 23 Oct 2026 04:39:19 GMT",
-     "summary": "IT之家 10 月 23 日消息，当地时间 22 日，据英媒 Autocar 报道，奇瑞推出了全新瑞虎 X 系列的首款车型：主打硬派风格的瑞虎 X7。 与现有瑞虎车系相比，瑞虎 X 系列将带来不同的驾驶体验，主要面向 热衷户外休闲活动、希望车辆具备一定轻度越野能力 的消费者。 瑞虎 X7 采用更加方正硬朗的造型，与奇瑞目前在英国销售的其他车型形成明显区别。新车的保险杠和轮拱周围增加了大面积塑料防护饰板，搭配胎壁较高的全地形轮胎，进一步强化了越野风格。 IT之家获悉，奇瑞表示，新车专为家庭舒适而设计，同时也适合“全球探索”。 奇瑞还同步发布了新一代瑞虎 7。新车外观与现款瑞虎 7 十分相似，据称",
-     "source": "IT之家",
-     "zh": "奇瑞海外发布全新瑞虎 X 系列首车：硬派方盒子 SUV 瑞虎 X7"
-    },
-    {
      "title": "Token被摆上天猫的那一刻，离拼多多已经不远了",
      "link": "https://www.tmtpost.com/8178812.html",
      "pubDate": "Fri, 23 Oct 2026 12:34:00 +0800",
@@ -1858,36 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "Token被摆上天猫的那一刻，离拼多多已经不远了"
     },
     {
-     "title": "为什么人类不会陷入死循环？",
-     "link": "https://www.huxiu.com/article/4899847.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 12:33:27 +0800",
-     "summary": "本文来自微信公众号： 神经现实 ，作者：Anil Seth，编译：EY 我们准时降落在马德里巴拉哈斯机场，却迟迟无法下机。原来，这里的登机廊桥由一套新的人工智能系统操控。无需人类介入——直到非介入不可。我透过舷窗，看见AI操控的廊桥反复靠近飞机，在清晨的空气中轻轻晃动，徒劳地尝试对接，然后又退回去。如此往复，陷入了无限循环。最后，一名工作人员赶来解围，一眼就看出了问题，并立刻解决了它。 人类不会无休止地重复同一种行为，AI却有时会如此：它可能卡在停机坪上，也可能困在自动化呼叫中心的炼狱里。这些例子看似只是智能不足，但我认为，它们指向更深层的问题：一种根本性局限，可能让最聪明的AI也永远无法摆脱",
-     "source": "虎嗅",
-     "zh": "为什么人类不会陷入死循环？"
-    },
-    {
-     "title": "破风而行淬火而生：一加 Ace 7 系列设计IT之家实拍图赏",
-     "link": "https://www.ithome.com/1/016/959.htm",
-     "pubDate": "Fri, 23 Oct 2026 04:32:14 GMT",
-     "summary": "IT之家 10 月 23 日消息，今天上午， 一加 Ace 7 系列外观已经正式公布 ，冷暖两套全新配色，将力量感与工业美学融于机身。 其中，一加 Ace 7 Pro 主打浅蓝色的「破风」配色，玻璃后盖采用图形化蚀刻与多层纹理复合工艺，将 ACE 标识与层层扩散的风暴气流纹路融为一体，定格“破开风暴”的凌厉视觉；而一加 Ace 7 则带来红色的「淬火」配色，呈现出更具张力的性能质感。 IT之家拿到了一加 Ace 7 Pro「破风」，以及一加 Ace 7 「淬火」配色，接下来就为大家带来实拍图赏。 整机延续家族旗舰设计语言，金属魔方 Deco、金属中框与黄金大 R 角勾勒出规整统一的轮廓，兼顾一",
-     "source": "IT之家",
-     "zh": "破风而行淬火而生：一加 Ace 7 系列设计IT之家实拍图赏"
-    },
-    {
      "title": "跑步上岗的具身智能：谁在赚吆喝，谁在算细账",
      "link": "https://www.tmtpost.com/8178732.html",
      "pubDate": "Fri, 23 Oct 2026 12:30:00 +0800",
      "summary": "热闹的钱好赚，普通日子的钱难赚。",
      "source": "钛媒体",
      "zh": "跑步上岗的具身智能：谁在赚吆喝，谁在算细账"
-    },
-    {
-     "title": "梁文锋雪中送炭曾毓群",
-     "link": "https://www.huxiu.com/article/4899846.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 12:29:23 +0800",
-     "summary": "本文来自微信公众号： 字母榜 ，作者：思博 梁文锋出手，替宁德时代给资本市场递下一颗定心丸。 10月22日，据外媒报道，DeepSeek新一轮融资约1000亿元，宁德时代是主要投资方之一。此前，据媒体报道，宁德体系已在DeepSeek首轮融资中投入约50亿元，成为仅次于腾讯的主要外部投资方。 表面上看，宁德时代给DeepSeek投了钱，利好的是DeepSeek，但这条消息其实是DeepSeek给宁德时代雪中送炭，因为现在宁德时代才是需要帮助的那一方。眼下正是宁德时代跟资本市场最紧张的时刻，它急需一个能让投资者安心的理由。 几天前，它刚交出一份让市场担忧的三季报：营收1652亿元虽然创历史新高，",
-     "source": "虎嗅",
-     "zh": "梁文锋雪中送炭曾毓群"
     },
     {
      "title": "三抗缓解率0%，中外制药的意外“走红”",
@@ -1920,14 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "硅谷AI创投圈造假成风，劣币驱逐良币泡沫隐现。",
      "source": "钛媒体",
      "zh": "旧金山AI数据包装游戏：6美分买GitHub星标，两周订单吹成全年ARR"
-    },
-    {
-     "title": "再见小兴安岭，再见故人",
-     "link": "https://www.huxiu.com/article/4899839.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 12:16:59 +0800",
-     "summary": "本文来自微信公众号： 孤独图书馆 ，作者：张伟仁，题图来自：张伟仁 几十年林场生活，上一代的人吃了很多苦，能走就走，留下的寥寥无几。 而我的同代及更年轻的人，像是走进了林中深处，看不明方向。 1、 我出生在小兴安岭的林场，位置较为偏远，距最近的县城也需6个小时车程。但家门口便是一条运输木材的铁轨，同时串联着其他林场。 我从小长大的林场，直到2002年才通了电。为了更好的教育机会，家里将我送出林场。在外求学时的很长一段时间，我羞于承认自己的身份，也很少回东北。 2020年春节前夕，外婆诊断为肺癌晚期，我们都回去了。 时隔近20年，一眼望去，这里的一切停滞着，没有什么变化，只是人老了。遇到的人认出",
-     "source": "虎嗅",
-     "zh": "再见小兴安岭，再见故人"
     },
     {
      "title": "eMudhra 退出全球 CA 业务",
@@ -2250,52 +2250,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "麦格米特展示800伏直流液冷供电方案 两款新品于2026 OCP全球峰会首发",
-     "link": "http://finance.eastmoney.com/news/1354,202610233905875526.html",
-     "pubDate": "Fri, 23 Oct 2026 13:04:00 +0800",
-     "summary": "近日，2026OCP全球峰会（OpenComputeProjectGlobalSummit2026）举办，深圳 麦格米特 电气股份有限公司（以下简称“ 麦格米特 ”）以DiamondSponsor（钻石赞助商）身份参会。 展会期间，公司携手NVIDIA（ 英伟达 ）展示液冷800VDC（800伏直流）供电平台相关方案，并首发LiquidCooledPowerShelf（液冷电源插框）、SolidStateTransformer（SST，固态变压器）Module（模块），补齐AI（ 人工智能 ） 数据中心 全栈供电与冷却协同方案，深度融入NVIDIAMGX（ 英伟达 模块化算力加速架构）生态。 ",
+     "title": "MiniMax开源M3.1 Flash，“Flash”模型为何成为AI新潮流？",
+     "link": "http://hk.eastmoney.com/news/11362,202610233905949688.html",
+     "pubDate": "Fri, 23 Oct 2026 13:25:35 +0800",
+     "summary": "国产大模型又卷起来了——在DeepSeek官宣上新后，大模型企业MiniMax也紧随其后宣布更新。 10月23日，澎湃新闻记者获悉，MiniMax（稀宇科技）宣布开源M3.1 Flash模型，该模型上线72小时处理超过100万亿Token。 相较于上一代M3模型，M3.1 Flash模型能力实现全面提升，使用成本降低70%。通过全模型稀疏注意力、量化感知训练，和Power-aware scheduling等优化工作，模型线上推理速度提升了近3倍。 MiniMax表示，将携手 华为昇腾 、平头哥、昆仑芯、摩尔线程、NVIDIA、AMD等海内外芯片厂商，以及Together AI、Firework",
      "source": "东方财富股票",
-     "zh": "麦格米特展示800伏直流液冷供电方案 两款新品于2026 OCP全球峰会首发"
+     "zh": "MiniMax开源M3.1 Flash，“Flash”模型为何成为AI新潮流？"
     },
     {
-     "title": "博通股份10月23日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610233905868733.html",
-     "pubDate": "Fri, 23 Oct 2026 13:03:44 +0800",
-     "summary": "以下是 博通股份 在北京时间10月23日13:01分盘口异动快照： 10月23日， 博通股份 盘中快速反弹，5分钟内涨幅超过2%，截至13点01分，报21.36元，成交2664.03万元，换手率2.00%。 分笔 13:01:28 21.36 3↑ 13:01:25 21.35 10↑ 13:01:19 21.32 4↑ 13:01:13 21.31 2↑ 13:01:10 21.30 8↓ 13:01:04 21.30 2↑ 13:01:01 21.30 1↓ 13:00:55 21.29 9↓ 13:00:52 21.30 3↑ 13:00:49 21.29 6↑ 报价 卖五 21.48 ",
+     "title": "创业板指午后翻红涨逾2% 此前一度跌逾3% “易中天”集体拉升",
+     "link": "http://finance.eastmoney.com/news/1345,202610233905888948.html",
+     "pubDate": "Fri, 23 Oct 2026 13:23:47 +0800",
+     "summary": "创业板指午后翻红，此前一度跌逾3%，“易中天”集体拉升。盘面上，保险、 白酒 、 券商概念 、 医疗美容 、 一般零售 涨幅居前。截至发稿，沪指下跌0.17%，创业板指上涨2.15%。 10月23日午间， 中际旭创 、 新易盛 、 天孚通信 齐发公告，披露近期生产经营情况。 中际旭创 称，公司目前生产经营一切正常，供应链稳定，产能利用率充足，客户订单需求强劲。下游需求保持高景气，公司在手订单饱满。产品价格体系健康，行业竞争有序。光互连技术持续迭代，行业技术壁垒有望进一步提升。 新易盛 称，公司生产经营活动有序开展，在手订单充足，800G和1.6T是今年交付的主力产品，订单交付及产能扩充正按业务",
      "source": "东方财富股票",
-     "zh": "博通股份10月23日快速反弹"
+     "zh": "创业板指午后翻红涨逾2% 此前一度跌逾3% “易中天”集体拉升"
     },
     {
-     "title": "长青科技10月23日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610233905868623.html",
-     "pubDate": "Fri, 23 Oct 2026 13:03:43 +0800",
-     "summary": "以下是 长青科技 在北京时间10月23日13:01分盘口异动快照： 10月23日， 长青科技 盘中快速反弹，5分钟内涨幅超过2%，截至13点01分，报18.18元，成交4730.83万元，换手率1.90%。 分笔 13:01:24 18.18 23↑ 13:01:21 18.12 34↑ 13:01:18 18.06 12↓ 13:01:15 18.09 36↑ 13:01:12 18.06 5↓ 13:01:09 18.07 16↑ 13:01:06 18.06 7↑ 13:01:03 18.05 20↑ 13:01:00 18.05 94↓ 13:00:48 18.05 7↑ 报价 卖五 ",
+     "title": "中文在线10月23日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610233905980876.html",
+     "pubDate": "Fri, 23 Oct 2026 13:23:12 +0800",
+     "summary": "以下是 中文在线 在北京时间10月23日13:23分盘口异动快照： 10月23日， 中文在线 盘中快速反弹，5分钟内涨幅超过2%，截至13点23分，报23.16元，成交10.35亿元，换手率6.96%。 分笔 13:23:03 23.28 3108↑ 13:23:00 23.16 433↑ 13:22:57 23.15 169↑ 13:22:54 23.12 35↓ 13:22:51 23.12 157↑ 13:22:48 23.10 369↑ 13:22:45 23.08 515↓ 13:22:42 23.09 110↑ 13:22:39 23.08 321↑ 13:22:36 23.06 ",
      "source": "东方财富股票",
-     "zh": "长青科技10月23日快速反弹"
+     "zh": "中文在线10月23日快速反弹"
     },
     {
-     "title": "华安鑫创10月23日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610233905868546.html",
-     "pubDate": "Fri, 23 Oct 2026 13:03:43 +0800",
-     "summary": "以下是 华安鑫创 在北京时间10月23日13:01分盘口异动快照： 10月23日， 华安鑫创 盘中快速反弹，5分钟内涨幅超过2%，截至13点01分，报20.74元，成交3216.68万元，换手率2.85%。 分笔 13:01:24 20.74 88↑ 13:01:21 20.69 3↑ 13:01:18 20.69 1↑ 13:01:15 20.69 14↑ 13:01:12 20.67 2↓ 13:01:09 20.68 28↑ 13:01:03 20.62 5↑ 13:01:00 20.62 14↑ 13:00:57 20.61 23↓ 13:00:54 20.61 3↑ 报价 卖五 20",
+     "title": "10月23日钾肥板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610233905980064.html",
+     "pubDate": "Fri, 23 Oct 2026 13:22:59 +0800",
+     "summary": "&emsp;&emsp;10月23日13点22分，钾肥板块指数报1870.575点，涨幅达2%，成交18.73亿元，换手率0.76%。 &emsp;&emsp;板块个股中，涨幅最大的前4个股为：亚钾国际报35.98元，涨2.86%；藏格矿业报68.63元，涨2.10%；盐湖股份报22.05元，涨1.75%；东方铁塔报12.48元，涨1.22%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "华安鑫创10月23日快速反弹"
+     "zh": "10月23日钾肥板块涨幅达2%"
     },
     {
-     "title": "江西长运10月23日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610233905868321.html",
-     "pubDate": "Fri, 23 Oct 2026 13:03:41 +0800",
-     "summary": "以下是 江西长运 在北京时间10月23日13:01分盘口异动快照： 10月23日， 江西长运 盘中快速反弹，5分钟内涨幅超过2%，截至13点01分，报5.33元，成交2128.70万元，换手率1.40%。 分笔 13:01:25 5.33 36↑ 13:01:22 5.32 30↑ 13:01:19 5.29 11↓ 13:01:16 5.31 31↑ 13:01:01 5.31 52↑ 13:00:49 5.30 3↑ 13:00:46 5.30 12↑ 13:00:43 5.29 1↑ 13:00:37 5.29 2↑ 13:00:31 5.29 31↑ 报价 卖五 5.37 50 卖四 ",
+     "title": "奕帆传动10月23日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610233905980217.html",
+     "pubDate": "Fri, 23 Oct 2026 13:22:59 +0800",
+     "summary": "以下是 奕帆传动 在北京时间10月23日13:22分盘口异动快照： 10月23日， 奕帆传动 盘中快速上涨，5分钟内涨幅超过2%，截至13点22分，报34.17元，成交3.96亿元，换手率18.70%。 分笔 13:22:42 34.17 7↑ 13:22:39 34.02 58↑ 13:22:36 34.00 186↑ 13:22:33 34.00 143↑ 13:22:30 33.98 43↑ 13:22:27 33.96 19↑ 13:22:24 33.94 145↑ 13:22:21 33.92 102↑ 13:22:18 33.92 65↑ 13:22:15 33.90 62↑ 报价",
      "source": "东方财富股票",
-     "zh": "江西长运10月23日快速反弹"
+     "zh": "奕帆传动10月23日快速上涨"
     },
     {
-     "title": "蒙泰高新10月23日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610233905868475.html",
-     "pubDate": "Fri, 23 Oct 2026 13:03:41 +0800",
-     "summary": "以下是 蒙泰高新 在北京时间10月23日13:01分盘口异动快照： 10月23日， 蒙泰高新 盘中快速反弹，5分钟内涨幅超过2%，截至13点01分，报13.05元，成交3439.29万元，换手率2.33%。 分笔 13:01:24 13.05 45↑ 13:01:15 12.99 5↓ 13:01:12 12.99 5↓ 13:01:06 13.00 6↑ 13:01:03 12.99 11↑ 13:01:00 12.97 5↓ 13:00:45 12.97 2↓ 13:00:42 12.99 10↑ 13:00:39 12.99 45↑ 13:00:36 12.95 10↑ 报价 卖五 13",
+     "title": "10月23日昨日首板板块涨幅达4%",
+     "link": "http://stock.eastmoney.com/news/1944,202610233905979587.html",
+     "pubDate": "Fri, 23 Oct 2026 13:22:59 +0800",
+     "summary": "&emsp;&emsp;10月23日13点22分， 昨日首板 板块指数报8412.8点，涨幅达4%，成交121.27亿元，换手率11.19%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 华阳智能 报64.80元，涨20.00%； 林州重机 报3.03元，涨10.18%； 赛福天 报8.54元，涨10.05%； 南方路机 报31.97元，涨10.01%； 多伦科技 报8.14元，涨10.00%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "蒙泰高新10月23日快速反弹"
+     "zh": "10月23日昨日首板板块涨幅达4%"
+    },
+    {
+     "title": "MSG Rangers and Huron Consulting Group to join S&P SmallCap 600",
+     "link": "https://seekingalpha.com/news/4656427-msg-rangers-and-huron-consulting-group-to-join-s-and-p-smallcap-600?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 01:19:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MSG Rangers and Huron Consulting Group to join S&P SmallCap 600"
+    },
+    {
+     "title": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%",
+     "link": "https://wallstreetcn.com/articles/3784272",
+     "pubDate": "Fri, 23 Oct 2026 13:11:52 +0800",
+     "summary": "算力硬件、芯片半导体等早盘下挫，覆铜板、光模块、光通信、电路板等概念股集体下跌，隔夜 Meta财报引爆AI资本开支恐慌 ，美股科技板块重挫，光通信、存储芯片等纷纷大跌。宁德时代A股和H股均反弹，其中A股涨超3%，H股涨4%，此前，北汽集团与宁德时代在北京签署百万换电战略合作协议。 10月23日，A股午后拉升，沪指收窄跌幅至0.5%，深成指转涨，创业板指涨幅扩大至2%，深成指涨逾1%，早盘一度跌超3%、盘中失守2500点整数关口。贵金属、算力硬件、半导体芯片等方向跌幅居前。机器人再度活跃，保险、白酒等板块走强。微盘股跌幅收窄至3%以内，早盘一度跌近5%。 港股高开高走，恒科指盘初一度涨近2%，盘",
+     "source": "华尔街见闻",
+     "zh": "股市大逆转！创业板午后涨2%，算力硬件反弹、“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨超1%，小米一度涨6%"
+    },
+    {
+     "title": "SK Hynix trims losses after suspending chip unit Solidigm's IPO plans",
+     "link": "https://seekingalpha.com/news/4656416-sk-hynix-trims-losses-after-suspending-chip-unit-solidigms-ipo-plans?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 01:09:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SK Hynix trims losses after suspending chip unit Solidigm's IPO plans"
     },
     {
      "title": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
@@ -2306,20 +2330,20 @@ window.INDUSTRY_DATA = {
      "zh": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans"
     },
     {
+     "title": "How nervous are bond markets about France?",
+     "link": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
+     "pubDate": "Fri, 23 Oct 2026 05:00:08 GMT",
+     "summary": "Dusting off our apples-for-apples spreadsheet",
+     "source": "Financial Times",
+     "zh": "How nervous are bond markets about France?"
+    },
+    {
      "title": "Five Point expects about $20M 2026 net income while deferring land sales into 2027",
      "link": "https://seekingalpha.com/news/4656426-five-point-expects-about-20m-2026-net-income-while-deferring-land-sales-into-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 00:58:20 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Five Point expects about $20M 2026 net income while deferring land sales into 2027"
-    },
-    {
-     "title": "中际旭创、新易盛、天孚通信齐发公告：在手订单充足",
-     "link": "http://finance.eastmoney.com/news/1349,202610233905849268.html",
-     "pubDate": "Fri, 23 Oct 2026 12:56:36 +0800",
-     "summary": "10月23日午间， 中际旭创 、 新易盛 、 天孚通信 齐发公告，披露近期生产经营情况。 中际旭创 称，公司目前生产经营一切正常，供应链稳定，产能利用率充足，客户订单需求强劲。下游需求保持高景气，公司在手订单饱满。产品价格体系健康，行业竞争有序。光互连技术持续迭代，行业技术壁垒有望进一步提升。 新易盛 称，公司生产经营活动有序开展，在手订单充足，800G和1.6T是今年交付的主力产品，订单交付及产能扩充正按业务需求推进，其中1.6T光模块已进入持续放量阶段，预计出货节奏将持续加快。结合客户需求指引及订单情况，公司产品交付规模有望稳步提升。随着市场需求持续释放，公司对今明两年的业务发展持积极预期",
-     "source": "东方财富资讯",
-     "zh": "中际旭创、新易盛、天孚通信齐发公告：在手订单充足"
     },
     {
      "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
@@ -2354,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Newmont targets Red Chris commercial production in 2033 while lifting full-year 2026 gold AISC outlook to about $1,520/oz"
     },
     {
-     "title": "Japan inflation reaches highest level since December 2025",
-     "link": "https://seekingalpha.com/news/4656422-japan-inflation-reaches-highest-level-since-december-2025?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 00:44:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Japan inflation reaches highest level since December 2025"
-    },
-    {
      "title": "Global tech sell-off sparks flight to safety",
      "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
      "pubDate": "Fri, 23 Oct 2026 04:42:02 GMT",
@@ -2370,44 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Global tech sell-off sparks flight to safety"
     },
     {
-     "title": "哪些变量能改变当下市场？券商首席最新研判",
-     "link": "http://finance.eastmoney.com/news/1344,202610233905848647.html",
-     "pubDate": "Fri, 23 Oct 2026 12:39:28 +0800",
-     "summary": "近期A股市场的持续震荡调整牵动着投资者的神经。如何看待后市？基本面有何变化？宏观经济如何影响资本市场？其中有哪些关键的信息值得关注？财联社最新采访并梳理了9家券商首席经济学家、首席分析师团队的观点。 从得到的反馈来看，可以从四条线索看待后市作为参考： 一是外部层面，海外动荡的溢出影响需要理性看待，中国资产的配置价值反而更加凸显，资本市场走势与之存在一定错位； 二是政策层面，科创融合与资本市场改革持续发力； 三是基本面层面，出口高景气延续、微观盈利持续改善，叠加财政增量资金落地，经济内生修复的力量正在积蓄； 四是估值层面，A股在持续调整后进入合理区间，盈利增长构成估值修复的内在动力。 扰动也是存",
-     "source": "东方财富资讯",
-     "zh": "哪些变量能改变当下市场？券商首席最新研判"
-    },
-    {
-     "title": "Asian markets mixed as tech sell-off on Wall Street weighs on sentiment",
-     "link": "https://seekingalpha.com/news/4656418-asian-markets-mixed-as-tech-sell-off-on-wall-street-weighs-on-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 00:37:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Asian markets mixed as tech sell-off on Wall Street weighs on sentiment"
-    },
-    {
-     "title": "中际旭创公告披露近期生产经营情况：在手订单饱满 产品价格体系健康",
-     "link": "http://finance.eastmoney.com/news/1345,202610233905848274.html",
-     "pubDate": "Fri, 23 Oct 2026 12:35:35 +0800",
-     "summary": "中际旭创 今日午间发布关于公司近期生产经营情况的公告，公司目前生产经营一切正常，供应链稳定，产能利用率充足，客户订单需求强劲。2017 年-2025 年，公司营业收入从23.57亿元增长至382.40亿元，年均复合增长率为41.67%；归属于上市公司股东的净利润从1.62亿元增长至107.97亿元，年均复合增长率69.03%。2026年上半年营业收入417.78亿元，同比增长182.49%；归属于上市公司股东的净利润136.51亿元，同比增长241.70%。在未来的经营发展中，公司将利用现有优势资源持续拓展光互连解决方案，紧抓行业快速发展的契机，持续强化技术创新、快速量产、规模优势、质量保障等",
-     "source": "东方财富资讯",
-     "zh": "中际旭创公告披露近期生产经营情况：在手订单饱满 产品价格体系健康"
-    },
-    {
-     "title": "消费股抗跌 高股息概念股出炉（附名单）",
-     "link": "http://finance.eastmoney.com/news/1344,202610233905847414.html",
-     "pubDate": "Fri, 23 Oct 2026 12:32:09 +0800",
-     "summary": "消费板块整体表现抗跌，高股息标的获机构看好。 粤芯半导-U 一度“20cm”涨停 10月23日早盘，A股市场震荡走低，沪指午间收盘跌1.2%，深证成指跌1.6%，创业板指跌2.14%。算力硬件、CPO、 贵金属 、 医药生物 等方向跌幅居前。 部分 半导体 个股走强， 粤芯半导-U （301660）早盘从跌超3%，一度直线拉升至“20cm”涨停，午间收盘前打开涨停，上午成交额超33亿元，换手率超44%。 大港股份 、 好上好 涨停， 大普微-UW 涨超5%， 华天科技 涨超4%， 长鑫科技 保持红盘。 粤芯半导-U 是广东省自主培育、首家实现量产的12英寸晶圆制造企业，有着“广州第一芯”之称。",
-     "source": "东方财富资讯",
-     "zh": "消费股抗跌 高股息概念股出炉（附名单）"
-    },
-    {
-     "title": "新易盛：对今明两年业务发展持积极预期 拟8亿元—10亿元回购公司股份",
-     "link": "http://finance.eastmoney.com/news/1345,202610233905843442.html",
-     "pubDate": "Fri, 23 Oct 2026 12:23:22 +0800",
-     "summary": "新易盛 10月23日午间公布回购公司股份方案，本次回购股份资金不低于8亿元且不超过10亿元。本次回购股份价格不超过500元/股，用于 股权激励 或员工持股计划，本次具体回购资金总额以实际使用的资金总额为准。 另外，公司公告，随着 人工智能 应用不断发展，全球云服务厂商持续加 大数据 中心及算力基础设施投入，由此催生了爆发式增长的AI算力需求。目前，AI基础设施建设及光互联技术升级作为产业链的重要增长支撑，行业基本面未发生变化，整体发展趋势向好。 截至公告披露日，公司生产经营活动有序开展，在手订单充足，800G和1.6T是今年交付的主力产品，订单交付及产能扩充正按业务需求推进，其中1.6T光模块",
-     "source": "东方财富资讯",
-     "zh": "新易盛：对今明两年业务发展持积极预期 拟8亿元—10亿元回购公司股份"
+     "title": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著",
+     "link": "http://www.eeo.com.cn/2026/1023/1073384.shtml",
+     "pubDate": "Fri, 23 Oct 2026 12:35:18 +0800",
+     "summary": "多位首席经济学家表示，现金流是判断AI泡沫争议的核心指标，当前AI产业链上中下游企业现金流分化显著。",
+     "source": "经济观察网",
+     "zh": "多位首席经济学家：当前AI产业链上中下游企业现金流分化显著"
     },
     {
      "title": "高端美妆回暖，欧莱雅三季度销售超预期",
@@ -2416,6 +2400,14 @@ window.INDUSTRY_DATA = {
      "summary": "欧莱雅的增长正在加快。 10月22日，欧莱雅公布2026年前三季度销售业绩。其中，第三季度销售额115.61亿欧元，同比增长11.9%，超过市场预计的112.3亿欧元；剔除汇率、合并范围及IT系统切换节奏影响后，调整后可比增长7.7%。 市场此前已对复苏有所期待。瑞银在10月12日的研报摘要中，将三季度视为检验欧莱雅能否持续实现约6%增长的关键季度。实际表现超过这一水平，也让增长恢复的判断获得了更多支撑。 高档化妆品是这次超预期的重要来源。该部门三季度调整后可比增长7%，高于市场预计的4.5%。路透社指出，香水需求和中国销售改善共同推动了增长。 这意味着，欧莱雅正在获得香水之外的更多增长动力。",
      "source": "华尔街见闻",
      "zh": "高端美妆回暖，欧莱雅三季度销售超预期"
+    },
+    {
+     "title": "第二十四届杰出品牌营销案例正式揭晓！",
+     "link": "http://www.eeo.com.cn/2026/1023/1073363.shtml",
+     "pubDate": "Fri, 23 Oct 2026 12:21:12 +0800",
+     "summary": "第二十四届杰出品牌营销案例正式揭晓！",
+     "source": "经济观察网",
+     "zh": "第二十四届杰出品牌营销案例正式揭晓！"
     },
     {
      "title": "CoreWeave融资缺口有多大？高盛：只有230亿，买入！伯恩斯坦：760亿，危险！",
@@ -2434,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "日本核心CPI年内首破2%，超过80%经济学家预计12月加息"
     },
     {
-     "title": "创业板跌超2%，微盘股跌5%回吐年内涨幅，“易中天”再跌，宁德时代AH股反弹，恒科指震荡上涨0.8%，小米一度涨6%",
-     "link": "https://wallstreetcn.com/articles/3784272",
-     "pubDate": "Fri, 23 Oct 2026 12:10:37 +0800",
-     "summary": "算力硬件、芯片半导体等再度下挫，覆铜板、光模块、光通信、电路板等概念股集体下跌，隔夜 Meta财报引爆AI资本开支恐慌 ，美股科技板块重挫，光通信、存储芯片等纷纷大跌。宁德时代A股和H股均反弹，其中A股涨超3%，H股涨4%，此前，北汽集团与宁德时代在北京签署百万换电战略合作协议。 10月23日，A股三大股指集体低开，早盘沪指一度跌超2.2%，深成指一度跌超2.6%，创业板指更是跌超3.2%、盘中失守2500点整数关口。此后迎来回升，三大股指跌幅明显收窄。贵金属、算力硬件、半导体芯片等方向跌幅居前。机器人再度活跃，保险、白酒等板块走强。微盘股跌近5%，目前已经回吐年内所有涨幅。 港股高开高走，恒",
-     "source": "华尔街见闻",
-     "zh": "创业板跌超2%，微盘股跌5%回吐年内涨幅，“易中天”再跌，宁德时代AH股反弹，恒科指震荡上涨0.8%，小米一度涨6%"
-    },
-    {
      "title": "卢比反弹遭遇“避险+油价”双杀，印度央行的防线还能撑多久？",
      "link": "https://wallstreetcn.com/articles/3784284",
      "pubDate": "Fri, 23 Oct 2026 12:09:13 +0800",
@@ -2450,28 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "卢比反弹遭遇“避险+油价”双杀，印度央行的防线还能撑多久？"
     },
     {
-     "title": "政策利好+数据边际改善！龙头股3连板 零售板块修复正当时？",
-     "link": "http://finance.eastmoney.com/news/11139,202610233905840567.html",
-     "pubDate": "Fri, 23 Oct 2026 12:06:43 +0800",
-     "summary": "零售板块10月23日早盘相对强势，板块中 上海九百 涨停（已3连板）， 新华百货 、 小商品城 、 汇嘉时代 、 新世界 、 百大集团 、 重百集团 等也明显上涨。 消费数据稳中向好 消息面上，2026年10月22日国新办新闻发布会上，商务部表示，今年前三季度，服务零售额同比增长5%，比商品零售额高出4个百分点，预计未来一段时期，商品消费增速将保持平稳增长，服务消费增速仍将快于商品消费。 事实上，国家统计局数据显示，2026年前三季度社会消费品零售总额37万亿元，同比增长1.1%，在去年同期高基数情况下实现平稳增长。限额以上单位16大类商品中，9类商品保持增长，其中6类商品增速在5%以上。 单",
-     "source": "东方财富资讯",
-     "zh": "政策利好+数据边际改善！龙头股3连板 零售板块修复正当时？"
-    },
-    {
      "title": "5年消失25%岗位，照片冲洗员、文员等面临淘汰！高盛量化“新技术冲击就业”速度",
      "link": "https://wallstreetcn.com/articles/3784278",
      "pubDate": "Fri, 23 Oct 2026 12:04:13 +0800",
      "summary": "今年春天，AI取代人类工作的恐慌情绪一度达到顶峰。但随着美国经济展现出超预期的韧性，这股焦虑已明显降温——AI相关裁员公告数量从高点大幅回落，媒体关于AI导致失业的报道也退潮至年初水平。然而，高盛提醒市场：冷静不等于安全，AI对劳动力市场的冲击远未结束，只是在等待一个更合适的时机爆发。 据追风交易台，高盛全球投资研究在10月22日发布的报告中给出结论： 如果AI最终带来15%的生产率提升，历史经验显示，过渡期内最多约9%的员工可能暂时离开现有岗位；在技术让劳动岗位变得冗余的职业中，就业人数五年平均下降约25%。 当前影响仍可见，但范围较窄。高盛称， AI暴露度最高行业过去三个月就业增长较长期趋",
      "source": "华尔街见闻",
      "zh": "5年消失25%岗位，照片冲洗员、文员等面临淘汰！高盛量化“新技术冲击就业”速度"
-    },
-    {
-     "title": "US is prepared for long stand-off with Iran, says Trump envoy",
-     "link": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
-     "pubDate": "Fri, 23 Oct 2026 04:00:37 GMT",
-     "summary": "Mike Waltz warns Tehran it must reach a ‘meaningful agreement’ on its nuclear programme",
-     "source": "Financial Times",
-     "zh": "US is prepared for long stand-off with Iran, says Trump envoy"
     },
     {
      "title": "Beware Bessent’s tilt towards short-term debt",
@@ -2488,6 +2456,38 @@ window.INDUSTRY_DATA = {
      "summary": "California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending",
      "source": "Financial Times",
      "zh": "Calpers retreats from Big Tech as AI rally falters"
+    },
+    {
+     "title": "Caught between the US and China",
+     "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
+     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+     "summary": "Economies like Mexico are being forced to choose sides on trade",
+     "source": "Financial Times",
+     "zh": "Caught between the US and China"
+    },
+    {
+     "title": "AI oversight needs a different model to banking",
+     "link": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
+     "pubDate": "Fri, 23 Oct 2026 04:00:18 GMT",
+     "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
+     "source": "Financial Times",
+     "zh": "AI oversight needs a different model to banking"
+    },
+    {
+     "title": "马斯克为何认为算力会长期短缺？",
+     "link": "http://www.eeo.com.cn/2026/1023/1073239.shtml",
+     "pubDate": "Fri, 23 Oct 2026 10:49:43 +0800",
+     "summary": "在马斯克看来，算力需求会长期大于供给，而眼下制约供给的，更多是电力、冷却和基础设施，芯片还在其次。",
+     "source": "经济观察网",
+     "zh": "马斯克为何认为算力会长期短缺？"
+    },
+    {
+     "title": "AI投资回报受质疑，黄仁勋详解Token需求场景",
+     "link": "http://www.eeo.com.cn/2026/1023/1073234.shtml",
+     "pubDate": "Fri, 23 Oct 2026 10:46:56 +0800",
+     "summary": "按照黄仁勋讲的制造业逻辑，AI工厂的投资能否收回，一要看工厂能否建得快、用电省，二要看建成以后，生产出来的Token有没有足够的买家。",
+     "source": "经济观察网",
+     "zh": "AI投资回报受质疑，黄仁勋详解Token需求场景"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 17:36:19",
+ "generated_at": "2026/10/23 17:52:02",
  "recent_days": 7,
  "industries": [
   {
@@ -178,20 +178,20 @@ window.INDUSTRY_DATA = {
      "zh": "Build more responsive apps with the Decisions API"
     },
     {
-     "title": "Canva releases its first image generation model",
-     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-     "source": "TechCrunch AI",
-     "zh": "Canva releases its first image generation model"
-    },
-    {
      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
      "source": "TechCrunch AI",
      "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
+    },
+    {
+     "title": "Canva releases its first image generation model",
+     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+     "source": "TechCrunch AI",
+     "zh": "Canva releases its first image generation model"
     },
     {
      "title": "The Foundations of Scalable AI",
@@ -842,6 +842,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Chinese PV Industry Brief: Polysilicon inventories remain high",
+     "link": "https://www.pv-magazine.com/2026/10/23/chinese-pv-industry-brief-polysilicon-inventories-remain-high/",
+     "pubDate": "Fri, 23 Oct 2026 09:43:59 +0000",
+     "summary": "TrendForce said China’s polysilicon inventories remained above 560,000 metric tons despite expected production cuts in October. Persistent oversupply and weak downstream demand continued to weigh on prices. The post Chinese PV Industry Brief: Polysilicon inventories remain high appeared first on pv ",
+     "source": "pv magazine",
+     "zh": "Chinese PV Industry Brief: Polysilicon inventories remain high"
+    },
+    {
+     "title": "European solar PPA prices up 0.4% in Europe and 4.9% in the US",
+     "link": "https://www.pv-tech.org/european-solar-ppa-prices-up-0-4-europe-4-9-us/",
+     "pubDate": "Fri, 23 Oct 2026 09:43:11 +0000",
+     "summary": "The average price of a solar PPA in Europe increased 0.4% between the second and third quarters of 2026, according to LevelTen Energy.",
+     "source": "PV Tech",
+     "zh": "European solar PPA prices up 0.4% in Europe and 4.9% in the US"
+    },
+    {
      "title": "Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Enis-Profits-Soar-125-as-Refining-Boom-Fuels-Massive-Investor-Payouts.html",
      "pubDate": "Fri, 23 Oct 2026 04:29:00 -0500",
@@ -904,14 +920,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese researchers have designed a hemispherical perovskite solar cell with a textured surface to improve light absorption and reduce sensitivity to sunlight incidence angles. Simulations showed absorption exceeding 95% and an average maximum power output of 28.25 mW/cm² across incidence angles of ",
      "source": "pv magazine",
      "zh": "Hemispherical perovskite solar cell design reduces sensitivity to sunlight angle"
-    },
-    {
-     "title": "Panasonic begins sales of glass-based perovskite solar panels",
-     "link": "https://www.pv-magazine.com/2026/10/23/panasonic-begins-sales-of-glass-based-perovskite-solar-panels/",
-     "pubDate": "Fri, 23 Oct 2026 08:21:09 +0000",
-     "summary": "Panasonic began commercial sales of its glass-based perovskite solar panels in September 2026, ahead of the planned launch of full-scale mass production in April 2029. The initial products are manufactured at the company's development facility in Moriguchi, Osaka Prefecture. The post Panasonic begin",
-     "source": "pv magazine",
-     "zh": "Panasonic begins sales of glass-based perovskite solar panels"
     },
     {
      "title": "Sonnen files for insolvency in Germany two months after Shell offloading",
@@ -1042,12 +1050,28 @@ window.INDUSTRY_DATA = {
      "zh": "Utilities turn to AI to manage rising power demand — from AI"
     },
     {
+     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
+     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
+    },
+    {
      "title": "Jigar Shah blames the wrong target for rising electricity bills",
      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
      "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
      "source": "Utility Dive",
      "zh": "Jigar Shah blames the wrong target for rising electricity bills"
+    },
+    {
+     "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+     "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+     "pubDate": "Thu, 22 Oct 2026 10:42:49 -0400",
+     "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
+     "source": "Utility Dive",
+     "zh": "Google supersizes PJM virtual power plant to more than 1 GW"
     },
     {
      "title": "Global energy storage deployments will see 45% year-on-year ‘growth surge’ in 2026: BloombergNEF",
@@ -1056,30 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "The global energy storage market will see a decade of sustained, rapid growth and reach 3.1TW cumulative capacity by 2036, according to BloombergNEF (BNEF).",
      "source": "Energy Storage News",
      "zh": "Global energy storage deployments will see 45% year-on-year ‘growth surge’ in 2026: BloombergNEF"
-    },
-    {
-     "title": "Sodium-ion BESS: Hithium enters Canadian market, Peak Energy closes Series B with GM-led funding",
-     "link": "https://www.energy-storage.news/sodium-ion-bess-hithium-enters-canadian-market-peak-energy-closes-series-b-with-gm-led-funding/",
-     "pubDate": "Thu, 22 Oct 2026 13:46:44 +0000",
-     "summary": "In recent North American sodium-ion news, Hithium is entering the Canadian market with two BESS solutions, while Peak Energy has closed a Series B financing round led by GM.",
-     "source": "Energy Storage News",
-     "zh": "Sodium-ion BESS: Hithium enters Canadian market, Peak Energy closes Series B with GM-led funding"
-    },
-    {
-     "title": "NextEra Q3 2026 earnings rise 9.7% as shareholders approve Dominion merger",
-     "link": "https://www.pv-tech.org/nextera-q3-2026-earnings-rise-9-7-shareholders-approve-dominion-merger/",
-     "pubDate": "Thu, 22 Oct 2026 13:44:24 +0000",
-     "summary": "NextEra Energy recorded a 9.7% increase in its net earnings in Q3 2026, with earnings up 9.5% in the nine months to date this year.",
-     "source": "PV Tech",
-     "zh": "NextEra Q3 2026 earnings rise 9.7% as shareholders approve Dominion merger"
-    },
-    {
-     "title": "European Union battery supply chain policies show mixed results so far",
-     "link": "https://www.energy-storage.news/european-union-battery-supply-chain-policies-show-mixed-results-so-far/",
-     "pubDate": "Thu, 22 Oct 2026 13:01:25 +0000",
-     "summary": "As demand for battery storage soars, the European Union (EU) has tried to grow its local battery supply chain with mixed success so far, writes PV ESS analyst Charlotte Gisbourne.",
-     "source": "Energy Storage News",
-     "zh": "European Union battery supply chain policies show mixed results so far"
     }
    ]
   },
@@ -1754,20 +1754,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "索尼推出 IMX742 图像传感器：面向一次性内窥镜，支持图像信号本地数字化",
-     "link": "https://www.ithome.com/1/017/132.htm",
-     "pubDate": "Fri, 23 Oct 2026 09:26:01 GMT",
-     "summary": "IT之家 10 月 23 日消息，索尼半导体日本当地时间昨日宣布推出 IMX742 图像传感器。这一型号面向医疗场景， 适用于一次性细径内窥镜 。 IMX742 的长宽均仅有 1.0mm，分辨率 720×720。其拥有精简的模数转换单元，可在本地实现图像信号的数字化，从而 能在 5m 的距离下以单一线材同时传输 60fps 的低噪声画面和控制信号 。 相较模拟信号，数字信号技术可在低照度环境下实现噪声更低的成像， 适配采用紧凑型低亮度 LED 光源的细径内窥镜 ，能够提高人体内暗部区域的可视性。而小巧的体型也使得 IMX742 能更好满足支气管镜、输尿管镜等场景的需求 。 左：与传统模拟输出相",
+     "title": "LG Display：大尺寸 OLED 需求增长，折叠屏智能手机对平板电脑需求影响有限",
+     "link": "https://www.ithome.com/1/017/174.htm",
+     "pubDate": "Fri, 23 Oct 2026 09:48:51 GMT",
+     "summary": "IT之家 10 月 23 日消息，LG Display 昨日举行了 2026Q3 财报电话会议，这家头部光电显示企业就分析师提出的一系列问题进行了解答。 LG Display 大尺寸 OLED 产能利用率随市场需求的增长而回升。该企业 预计 2026 年可出货超 700 万片大尺寸 OLED 面板 （其中约 20% 为显示器面板），总量增长超两成。其计划拓展 TV OLED 之外的大尺寸业务，利用 WOLED 技术拓宽显示器市场，并通过最大限度地利用现有基础设施和资源持续发展业务。 该企业 预计可折叠显示的需求将持续增长 ，因为此类面板以全新的形态为消费者提供了差异化价值，也适应 AI 普及推",
      "source": "IT之家",
-     "zh": "索尼推出 IMX742 图像传感器：面向一次性内窥镜，支持图像信号本地数字化"
+     "zh": "LG Display：大尺寸 OLED 需求增长，折叠屏智能手机对平板电脑需求影响有限"
     },
     {
-     "title": "字节跳动公益基金会驰援西藏那曲，首批应急物资已发往灾区",
-     "link": "https://www.ithome.com/1/017/130.htm",
-     "pubDate": "Fri, 23 Oct 2026 09:25:29 GMT",
-     "summary": "IT之家 10 月 23 日消息，据北京字节跳动公益基金会，10 月 22 日 22 时 33 分，西藏那曲市巴青县发生 7.0 级地震，造成重大人员伤亡。地震发生后，国家防灾减灾救灾委员会、应急管理部启动国家自然灾害救助四级应急响应。 IT之家从官方公告获悉，字节跳动公益基金会迅速响应应急管理部政社协同机制，第一时间启动备灾响应，联合中国红十字基金会捐赠家庭应急箱 150 只，联合壹基金捐赠取暖炉 50 套 。首批物资已发往灾区，将重点支持受灾群众的应急安置与御寒保暖需求。 与此同时，字节跳动公益平台已在抖音、今日头条上线“紧急援驰西藏地震”专题，支持各公益组织开展筹款。 字节跳动公益基金会",
+     "title": "美国拟向 4 家企业提供最高 3.89 亿美元半导体研发资金，核聚变与 AI 数据中心成重点",
+     "link": "https://www.ithome.com/1/017/171.htm",
+     "pubDate": "Fri, 23 Oct 2026 09:46:17 GMT",
+     "summary": "IT之家 10 月 23 日消息，美国商务部昨日宣布，计划通过美国《芯片与科学法案》框架下的半导体研发项目，向 4 家企业提供最高 3.89 亿美元 （IT之家注：现汇率约合 26.02 亿元人民币） 的研发资金，用于支持功率半导体器件及关键材料研发，相关技术将应用于核聚变发电、AI 数据中心和电力基础设施等领域。 根据美国国家标准与技术研究院（NIST）公布的信息，商务部已与 4 家企业签署资助意向书，最终资助仍需完成后续程序。 此次计划中，核聚变能源企业 Helion 获得的拟资助金额最高，达 1.75 亿美元 （现汇率约合 11.7 亿元人民币） ，将用于研发高压功率半导体和先进能源功率",
      "source": "IT之家",
-     "zh": "字节跳动公益基金会驰援西藏那曲，首批应急物资已发往灾区"
+     "zh": "美国拟向 4 家企业提供最高 3.89 亿美元半导体研发资金，核聚变与 AI 数据中心成重点"
+    },
+    {
+     "title": "深圳将发布海洋标准体系建设指南、水下机器人标准体系",
+     "link": "https://www.ithome.com/1/017/169.htm",
+     "pubDate": "Fri, 23 Oct 2026 09:44:04 GMT",
+     "summary": "IT之家 10 月 23 日消息，10 月 22 日至 24 日，由自然资源部和广东省人民政府共同主办的中国海洋经济博览会（以下简称“海博会”）在深圳举办。 据财联社今日报道，大会期间相关活动将发布《 深圳市海洋标准体系建设指南 》《 深圳市水下机器人标准体系 》及深圳海洋科技“首发首试首用”产品清单，19 个海洋科技“首发首试首用”产品覆盖高性能新能源船艇、水下机器人、海洋能源装备、海洋探通导测设备与数字技术、海洋新材料、深海资源开发装备等前沿领域，可应用于船舶电动化和智能化等多元海洋场景，清晰释放海洋领域应用场景需求，打通新技术从研发、试验到市场落地的通道。 《 深圳市机器人产业发展白皮书",
+     "source": "IT之家",
+     "zh": "深圳将发布海洋标准体系建设指南、水下机器人标准体系"
+    },
+    {
+     "title": "国内首艘分布式特大型耙吸挖泥船“新海鲸 1”轮交付，最大挖深可达 120 米",
+     "link": "https://www.ithome.com/1/017/167.htm",
+     "pubDate": "Fri, 23 Oct 2026 09:42:18 GMT",
+     "summary": "IT之家 10 月 23 日消息，据央视新闻报道，今天（10 月 23 日），国内首艘采用分布式舱内泥泵设计的 25000 立方米舱容等级特大型自航耙吸挖泥船“新海鲸 1”轮，在江苏启东正式交付。 “新海鲸 1”轮总长 180 米，最大舱容约 27580 立方米， 最大挖深可达 120 米 。单次满载泥沙的容量足以填满 10 多个标准游泳池，120 米的深度相当于 40 层楼之高，能从容应对深海复杂工况。该船舶具备作业范围广、挖掘深度足、续航能力强等优势，可在全海域实现高效施工，领跑国内同类船舶。 “新海鲸 1”轮在 国内首创分布式舱内泥泵设计 ，将两台舱内泥泵分别布置于泥舱前后的艏泵舱与艉泵",
+     "source": "IT之家",
+     "zh": "国内首艘分布式特大型耙吸挖泥船“新海鲸 1”轮交付，最大挖深可达 120 米"
+    },
+    {
+     "title": "华为手环 11《无职转生》联名款在日本发售：主角四人主题，10890 日元",
+     "link": "https://www.ithome.com/1/017/165.htm",
+     "pubDate": "Fri, 23 Oct 2026 09:41:10 GMT",
+     "summary": "IT之家 10 月 23 日消息，日本 GARRACK 上架了一款基于华为手环 11 打造的《无职转生～到了异世界就拿出真本事～》联名智能手表，包括鲁迪乌斯、希露菲叶特、洛琪希和艾莉丝 4 款角色主题，售价均为 10,890 日元 （IT之家注：现汇率约合 463.6 元人民币） ，今日开售。 这款手表采用白色表盘，并通过专属表带和定制表盘融入角色元素。商品页面显示，该手表支持根据每日步数切换对应主题角色在动画第 1 季至第 3 季中的不同形象，让用户在日常活动中解锁不同角色状态。 这款手表还加入了多项与角色相关的交互设计：收到通知时，表盘会显示对应角色的吊坠（或艾莉丝写给鲁迪乌斯的信）图标；",
+     "source": "IT之家",
+     "zh": "华为手环 11《无职转生》联名款在日本发售：主角四人主题，10890 日元"
+    },
+    {
+     "title": "超 5 万张证书被撤销，市场监管总局对 CCC 认证各环节持续开展清理整顿",
+     "link": "https://www.ithome.com/1/017/160.htm",
+     "pubDate": "Fri, 23 Oct 2026 09:36:41 GMT",
+     "summary": "IT之家 10 月 23 日消息，据央视新闻今日报道，市场监管总局今年对 CCC 认证各环节持续开展清理整顿。今年以来， 认证机构已累计撤销 CCC 认证证书 5.08 万张 ，有效防止不合格产品流入市场。 市场监管总局今年首次组织对 CCC 认证指定实验室能力开展了同行评议，目前已分 2 批，对电动自行车、玩具、电线电缆等 14 个产品领域的全部 149 家指定实验室、328 项指定资质开展能力核查， 第一批已注销 16 家实验室的 17 项指定资质 ；第二批能力核查目前已基本完成，将根据核查结果督促指定实验室完成整改，对整改后仍不符合指定条件的，注销相关指定资质。 市场监管总局同时对 CC",
+     "source": "IT之家",
+     "zh": "超 5 万张证书被撤销，市场监管总局对 CCC 认证各环节持续开展清理整顿"
+    },
+    {
+     "title": "绿泡泡和短国有时差",
+     "link": "https://www.huxiu.com/article/4899948.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 17:36:37 +0800",
+     "summary": "本文来自微信公众号： 娱乐硬糖 ，作者：顾韩，编辑：李春晖 长剧好不容易热度回暖，短剧又占据了话题热点。随着腾讯微信官方推出免费短剧小程序“绿泡泡短剧”，红果果与绿泡泡，这组潜藏在多少人回忆中的名字，突然有了全新含义。 网友直觉拒绝绿泡泡。“朋友在看”的功能，直接戳中了短剧时代人们最日常的“社死”想象。“把我看的短剧推给认识的人，跟当街扒我底裤有什么区别”、“开玩笑，被爹妈看到我看兄弟情漫剧还得了？” 科技财经媒体的着眼点则在于“头腾大战”再起，一口一个“短剧大战”“撼动红果”不嫌事大。一看就非短剧中人，但互联网思维倒也宏观视野头头是道。 而仔细研究过后，很难不觉得两边都有点言过其实——所谓的",
+     "source": "虎嗅",
+     "zh": "绿泡泡和短国有时差"
+    },
+    {
+     "title": "“Z世代彻底完蛋了”",
+     "link": "https://www.huxiu.com/article/4899947.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 17:35:19 +0800",
+     "summary": "本文来自微信公众号： 雷叔写故事 ，作者：乌卡 最近有一条法语推特很火，相信很多人都刷到了。 底下来自不同大洲、不同国家，说着不同语言的年轻人，表示“这真的是法国吗，这难道不是我们国家吗？” 而博主回复说“这情况几乎无处不在。” 确实。 文凭 2024年，苏州中学一次录用了13名高校毕业生，8个博士、5个硕士，都不是师范生。 当时大家还觉得这是大材小用、向下兼容，一不小心搞上热搜、搞出舆情。 结果到了今年，看到深圳中学公示的几份教师拟聘名单里，清一色的几乎都是剑桥、清华之类的名校毕业博士，已经见怪不怪了。 2024年教育部做过统计，中小学专任教师里已经有博士5900多人，硕士超过85万。 如今",
+     "source": "虎嗅",
+     "zh": "“Z世代彻底完蛋了”"
+    },
+    {
+     "title": "什么？奥迪A8要国产，还和华为一起造",
+     "link": "https://www.huxiu.com/article/4899945.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 17:33:15 +0800",
+     "summary": "本文来自微信公众号： 超电实验室 ，作者：王磊，编辑：秦章勇 2026年的汽车行业，什么都有可能发生。 那个“6横12纵，圆你初恋梦”的奥迪A8L，可能要交给华为合作开发了。 这是来自德国老牌媒体《经理人》的一则爆料，核心大意可以总结为一句话： 在奥迪全球CEO高德诺推动下，奥迪正在与华为谈判，下一代奥迪A8L会有中国版，在中国投产，而且核心的技术开发要交给华为，首批车将计划在2028年底前造出来。 同时，原来的全球版本则换了个路线，将换装保时捷Panamera同款的MSB平台，放在保时捷莱比锡工厂造。 当然，爆料中也提到这一方案还未谈妥，而且奥迪官方和华为层面也都尚未证实这一消息，据说这一计",
+     "source": "虎嗅",
+     "zh": "什么？奥迪A8要国产，还和华为一起造"
+    },
+    {
+     "title": "深度讨论Personal Agent：“最互联网”的AI 命题",
+     "link": "https://www.huxiu.com/article/4899942.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 17:29:08 +0800",
+     "summary": "本文来自微信公众号： 海外独角兽 ，作者：Best Ideas 社群，原文标题：《深度讨论 Personal Agent：“最互联网”的 AI 命题》 Personal Agent是今年Q4最热闹的AI领域：Meta的Muse、OpenAI的dots、Instinct，以及Anthropic新推出的Claude Duet，让大厂、AI Labs和创业公司同台竞争。 它也是最像互联网的AI命题：如果用户开始把需求交给agent，那么从用户入口、流量分配，以及交易闭环，都会被被重新组织。 不过，考虑到Personal Agent的单用户服务成本远高于传统互联网产品，产品或商业模式角度的也有可能会失",
+     "source": "虎嗅",
+     "zh": "深度讨论Personal Agent：“最互联网”的AI 命题"
     },
     {
      "title": "支付宝拿下特斯拉",
@@ -1780,58 +1844,10 @@ window.INDUSTRY_DATA = {
     {
      "title": "法国年轻人，为什么爱拿动漫搞政治？",
      "link": "https://www.huxiu.com/article/4899678.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 17:21:00 +0800",
+     "pubDate": "Fri, 23 Oct 2026 17:21:01 +0800",
      "summary": "出品 | 虎嗅青年文化组 作者 | 渣渣郡 本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 全球正在进入政治的季节。 在新闻上，那些为了抗议师资短缺、教育不公以及日益恶化的教育环境，而走向街头的法国中学生，只是被人们注意到的第一个信号。 起初，这看起来只是一场普通的学生抗议。但很快，人们发现法国街头的骚动，不过是这个秋天飘落的第一片树叶。 而如果你把视角拉大，会发现Z世代革命正席卷全球。 看看吧： 在亚洲，印度年轻人发起了一场颇具抽象色彩的运动，他们抗议选举委员会大规模清理选民名册，担心数以千万计",
      "source": "虎嗅",
      "zh": "法国年轻人，为什么爱拿动漫搞政治？"
-    },
-    {
-     "title": "老鼠明明还在，鼠疫却很少再大规模流行，我们的城市里，究竟多了哪些看不见的防线？",
-     "link": "https://www.huxiu.com/article/4899888.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 17:20:58 +0800",
-     "summary": "人心惶惶的鼠疫重回热搜，它还有一个更有名的名字叫黑死病......",
-     "source": "虎嗅",
-     "zh": "老鼠明明还在，鼠疫却很少再大规模流行，我们的城市里，究竟多了哪些看不见的防线？"
-    },
-    {
-     "title": "国内首部 AI 院线长片《三星堆：未来往事》上映：千万元成本，首日票房超 12.5 万元",
-     "link": "https://www.ithome.com/1/017/123.htm",
-     "pubDate": "Fri, 23 Oct 2026 09:20:48 GMT",
-     "summary": "IT之家 10 月 23 日消息，国内首部获得国家电影局公映许可证的 AI 全流程院线长片《三星堆：未来往事》今日正式上映。截至IT之家发稿，猫眼专业版显示其首日票房超 12.5 万元，累计票房 14.2 万元。 这部影片由博越星纪蓝图（成都）与博越星际蓝图（上海）出品，生数科技 Vidu 提供首席技术支持，片长 100 分钟，备案类别为动画影片，所有角色均为原创数字形象，不含对真实演员的数字复制。 故事设定在未来人类将一切决策交给算法而引发全球危机，破解困局的线索指向三星堆七个古老刻符，形成“答案在过去，危机在未来”的叙事结构。 这部影片的制作方式决定了它“首部”标签的实质含义。全片依托博纳",
-     "source": "IT之家",
-     "zh": "国内首部 AI 院线长片《三星堆：未来往事》上映：千万元成本，首日票房超 12.5 万元"
-    },
-    {
-     "title": "李晶：互联网增长的红利、代价与一个人的十年自我重建",
-     "link": "https://www.huxiu.com/article/4899939.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 17:20:42 +0800",
-     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《李晶：互联网增长的红利、代价与一个人的十年自我重建 | 十周年特别节目》 本期节目是声东击西「十周年」特别系列的第四期。在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾们，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 过去十多年，互联网大厂是推动中国经济强劲增长的发动机之一。它创造了大量新的就业机会和职业路径，也塑造了一套关于效率、成长和成功的标准；但这套标准也逐渐越过了公司的边界，成了我们今天所说的「内卷」的一部分。 2009年，李晶加入阿里。跨境电商和",
-     "source": "虎嗅",
-     "zh": "李晶：互联网增长的红利、代价与一个人的十年自我重建"
-    },
-    {
-     "title": "加价10元、20元找人代买，开心果为何这么抢手？",
-     "link": "https://www.huxiu.com/article/4899937.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 17:18:54 +0800",
-     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《加价10元、20元找人代买，开心果为何这么抢手？| 声动早咖啡》 我们的听友「DEE」发现，自己经常从山姆买的开心果零食，现在总是断货，每个月还只能买一袋。在商品评论区，还有留言提到「买了两袋直接给黄牛了，小赚50元」。开心果怎么突然变得这么紧俏了？ 根据食品行业媒体小食代的报道，目前，不仅是山姆对开心果有限购措施，另外一家会员制超市Costco，也在收紧顾客的购买数量。我们询问的Costco京东官方旗舰店客服表示，他们旗下自有品牌KIRKLAND的两款开心果，都设置了每周只能购买一件。小食代指出，在全球开心果涨价的背景下",
-     "source": "虎嗅",
-     "zh": "加价10元、20元找人代买，开心果为何这么抢手？"
-    },
-    {
-     "title": "一款4小时做出来的游戏火了，为什么年轻人开始热衷于重新投胎？",
-     "link": "https://www.huxiu.com/article/4899936.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 17:18:45 +0800",
-     "summary": "本文来自微信公众号： 寻空的营销启示录 ，作者：寻空2009 有人出生在巴基斯坦的乡村，活到94岁，拥有一个大家庭；有人出生后只活了三年，便因肺炎离世。 最近，社交平台上出现了不少这样的人生记录。它们来自同一款游戏，《80亿分之1》。玩家把自己经历的一生晒出来，讨论出身、选择和结局，也有人玩后，重新打量起自己的生活。 这是一款免费网页人生模拟游戏，于10月5日发布。 打开网页，你会随机成为世界某个角落刚出生的婴儿。在哪里出生，成为谁的孩子，家庭条件怎样，都无法选择。此后，你需要面对升学、工作、恋爱、结婚、疾病等人生关口，还有另外四个与你同秒出生的人，在旁边各自度过一生。 它很快变成一个跨语言传",
-     "source": "虎嗅",
-     "zh": "一款4小时做出来的游戏火了，为什么年轻人开始热衷于重新投胎？"
-    },
-    {
-     "title": "国务院办公厅：积极增强人工智能创造就业机会等正面效应，有效减缓人工智能应用就业替代影响",
-     "link": "https://www.ithome.com/1/017/113.htm",
-     "pubDate": "Fri, 23 Oct 2026 09:17:16 GMT",
-     "summary": "IT之家 10 月 23 日消息，国务院办公厅今日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》。以人工智能赋能高质量发展为契机，以适应技术发展促进高质量充分就业为目标，以构建就业友好型发展方式为方向，积极增强人工智能创造就业机会、赋能传统岗位、提升就业质量、激发创业活力的正面效应， 有效减缓人工智能应用就业替代影响 ，努力实现技术进步、产业升级与就业促进、民生改善相协调的包容性发展。 IT之家注意到，《意见》提出 创造人工智能领域就业创业新模式 。发挥好国家创业投资引导基金、国家人工智能产业投资基金等政府投资基金作用，按照市场化方式支持人工智能领域企业创新发展。建设高水平人",
-     "source": "IT之家",
-     "zh": "国务院办公厅：积极增强人工智能创造就业机会等正面效应，有效减缓人工智能应用就业替代影响"
     },
     {
      "title": "虚拟电厂的“规模化元年”：项目上马忙，干活躲一旁",
@@ -1856,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
      "source": "WIRED",
      "zh": "8 Things to Know About the iPhone Duo"
-    },
-    {
-     "title": "Keychron 推出 Carbon 60 HE 8K 磁轴键盘：从内到外复合碳纤维",
-     "link": "https://www.ithome.com/1/017/112.htm",
-     "pubDate": "Fri, 23 Oct 2026 09:13:35 GMT",
-     "summary": "IT之家 10 月 23 日消息，Keychron（渴创）昨日推出了 Carbon 60 HE 8K 磁轴键盘。这一型号 外壳采用含碳量 60% 的碳纤维复合材料 ， 键帽、定位板同样也是复合碳纤维 。 Carbon 60 HE 8K 支持 USB-C 有线单模连接，回报率可达 8kHz， Rapid Trigger 精度在部分行程可达 0.005mm 。其搭载青柠磁轴，支持开关热插拔，配备原厂 (CHERRY) 高度侧刻键帽，集成 3 层阻尼填充和南向 RGB LED 背光。 IT之家了解到，Keychron Carbon 60 HE 8K 键盘 标价 234.99 美元 （IT之家注：现汇",
-     "source": "IT之家",
-     "zh": "Keychron 推出 Carbon 60 HE 8K 磁轴键盘：从内到外复合碳纤维"
     },
     {
      "title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "I Did This Without Your Knowledge",
      "link": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
      "pubDate": "Fri, 23 Oct 2026 05:51:45 +0000",
-     "summary": "Article URL: https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge Comments URL: https://news.ycombinator.com/item?id=50204926 Points: 17 # Comments: 7",
+     "summary": "Article URL: https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge Comments URL: https://news.ycombinator.com/item?id=50204926 Points: 25 # Comments: 10",
      "source": "Hacker News",
      "zh": "I Did This Without Your Knowledge"
     },
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls &nbsp; &mdash;&nbsp; DeepSeek and MiniMax Group Inc. have won approval to deploy models overseas, part of a wave of homegrown AI t",
      "source": "Techmeme",
      "zh": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)"
-    },
-    {
-     "title": "SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing \"market conditions and share price trends\" (P.R. Venkat/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261023/p1#a261023p1",
-     "pubDate": "Fri, 23 Oct 2026 00:40:02 -0400",
-     "summary": "P.R. Venkat / Wall Street Journal : SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing &ldquo;market conditions and share price trends&rdquo; &nbsp; &mdash;&nbsp; SK Hynix's shares fell as much as 4.2% in early trade in Seoul&nbsp; &",
-     "source": "Techmeme",
-     "zh": "SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing \"market conditions and share price trends\" (P.R. Venkat/Wall Street Journal)"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Want to make AI ringtones for your Android phone? Here are my favorite prompts and tips",
+     "link": "https://www.androidauthority.com/ai-ringtone-prompts-3721546/",
+     "pubDate": "Fri, 23 Oct 2026 09:30:32 +0000",
+     "summary": "There's no perfect prompt, but these strategies help improve your results.",
+     "source": "Android Authority",
+     "zh": "Want to make AI ringtones for your Android phone? Here are my favorite prompts and tips"
+    },
     {
      "title": "Delta emulator now lets you turn your iPhone Duo into a Nintendo DS",
      "link": "https://www.androidauthority.com/delta-emulator-iphone-duo-nintendo-ds-3727110/",
@@ -2088,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "The first entry is the full-frame 50mm F1.4 CL DG Contemporary",
      "source": "DPReview",
      "zh": "Sigma launches a new line of compact, vintage-style lenses focused on character over sharpness"
-    },
-    {
-     "title": "It’s official: Samsung’s next foldable phone is coming soon",
-     "link": "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/",
-     "pubDate": "Fri, 23 Oct 2026 06:28:59 +0000",
-     "summary": "You almost certainly won't be able to buy it in your market, though.",
-     "source": "Android Authority",
-     "zh": "It’s official: Samsung’s next foldable phone is coming soon"
     },
     {
      "title": "Samsung Galaxy S27 Ultra and S27 Pro batteries pictured in a new certification",
@@ -2250,12 +2250,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-     "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
-     "pubDate": "Fri, 23 Oct 2026 09:28:29 GMT",
-     "summary": "Both Putin and Zelenskyy said Thursday they were open for peace negotiations, even as they continued strikes overnight.",
+     "title": "俄罗斯柴油重返美国！首批4万吨货物驶向纽约，俄方计划年底恢复常规出口规模",
+     "link": "https://wallstreetcn.com/articles/3784318",
+     "pubDate": "Fri, 23 Oct 2026 17:47:18 +0800",
+     "summary": "一艘装载俄罗斯柴油的油轮正驶往纽约港，预计11月7日抵达。据CCTV国际时讯，俄罗斯总统新闻秘书佩斯科夫今天（10月23日）确认，俄方已派出首艘装载柴油的油轮前往美国。他称，根据俄美达成的协议，俄对美国的柴油供应已经启动，后续将按节奏持续进行。 10月23日，据路透社报道， LSEG航运数据显示，马耳他籍油轮Agioi Fanendes于10月22日在俄罗斯波罗的海港口普里莫尔斯克装载4万吨超低硫柴油，目的地为美国。 此次运输正值特朗普政府推动俄罗斯增加柴油出口之际。 特朗普希望借此缓解美国国内燃料价格压力，并在11月3日中期选举前争取选民支持。 特朗普10月9日宣布，俄罗斯将立即出口30万吨",
+     "source": "华尔街见闻",
+     "zh": "俄罗斯柴油重返美国！首批4万吨货物驶向纽约，俄方计划年底恢复常规出口规模"
+    },
+    {
+     "title": "图解财报：ST思科瑞前三季归母净利润999.82万元，同比增长1128.60%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906372756.html",
+     "pubDate": "Fri, 23 Oct 2026 17:44:17 +0800",
+     "summary": "ST思科瑞 10月24日发布2026年 三季报显示，公司前三季 实现营业收入1.57亿元 ，同比增长7.13% ；归母净利润999.82万元 ，同比增长1128.60% ；扣非归母净利润622.36万元 ，同比增长400.99% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：ST思科瑞前三季归母净利润999.82万元，同比增长1128.60%"
+    },
+    {
+     "title": "AI抛售潮引爆增长恐慌，美联储加息预期推迟至明年1月",
+     "link": "https://wallstreetcn.com/articles/3784314",
+     "pubDate": "Fri, 23 Oct 2026 17:43:40 +0800",
+     "summary": "AI科技股的集中抛售、法国主权债务危机加剧与中东油价冲击三重压力同步引爆，美国国债市场迎来三年来最猛烈的单日反弹，避险逻辑重回主导。 周四，10年期美债收益率单日下行19.3个基点至4.952%，重回5%下方，创2023年3月硅谷银行危机以来最大单日跌幅。数据显示，过去十年仅有15个交易日出现过如此幅度的单日波动。与此同时，市场对美联储加息的预期随之后移—— 联邦基金利率期货目前完全定价于明年1月加息25个基点，此前市场预期的时间节点为12月。 这轮行情的深层信号在于： 油价飙升之际，美债同步被抢购，市场将高油价解读为增长威胁而非通胀威胁。 野村跨资产策略师Charlie McElligott",
+     "source": "华尔街见闻",
+     "zh": "AI抛售潮引爆增长恐慌，美联储加息预期推迟至明年1月"
+    },
+    {
+     "title": "五大公募9亿自购力挺A股 3只主动ETF“一日售罄”",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906372016.html",
+     "pubDate": "Fri, 23 Oct 2026 17:42:25 +0800",
+     "summary": "经历了一段时间调整后，10月23日，A股三大指数集体强劲反弹，截至收盘，上证指数涨0.89%，深证成指涨2.79%，创业板指大涨4.16%，全市场超4500只个股上涨。 同时，公募发行市场亦传来积极信号。10月23日，首批主动ETF启动发行，募集目标高达360亿元。在业内人士看来，主动ETF集中发行，有望为权益市场再添“一把火”，为A股市场带来更多“活水”，进一步壮大买方力量。 “主动ETF是引导长期资金入市的重要载体。”质量主动ETF华夏拟任基金经理王君正向时代财经表示，主动ETF融合了主动管理的专业投研能力与ETF的标准化运作优势，具备持仓透明、风格清晰、交易高效等特点，是丰富资本市场工具",
+     "source": "东方财富股票",
+     "zh": "五大公募9亿自购力挺A股 3只主动ETF“一日售罄”"
+    },
+    {
+     "title": "图解财报：小方制药前三季归母净利润1.56亿元，同比减少8.44%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906371647.html",
+     "pubDate": "Fri, 23 Oct 2026 17:42:18 +0800",
+     "summary": "小方制药 10月24日发布2026年 三季报显示，公司前三季 实现营业收入4.26亿元 ，同比增长7.22% ；归母净利润1.56亿元 ，同比下滑8.44% ；扣非归母净利润1.54亿元 ，同比下滑9.06% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：小方制药前三季归母净利润1.56亿元，同比减少8.44%"
+    },
+    {
+     "title": "图解财报：鑫汇科前三季归母净利润-119.17万元，上年同期131.64万元",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906370268.html",
+     "pubDate": "Fri, 23 Oct 2026 17:41:21 +0800",
+     "summary": "鑫汇科 10月23日发布2026年 三季报显示，公司前三季 实现营业收入4.06亿元 ，同比增长13.18% ；归母净利润-119.17万元 ；扣非归母净利润-114.07万元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：鑫汇科前三季归母净利润-119.17万元，上年同期131.64万元"
+    },
+    {
+     "title": "图解财报：上海能源前三季归母净利润3.37亿元，同比增长31.92%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906370081.html",
+     "pubDate": "Fri, 23 Oct 2026 17:41:14 +0800",
+     "summary": "上海能源 10月24日发布2026年 三季报显示，公司前三季 实现营业收入70.64亿元 ，同比增长25.26% ；归母净利润3.37亿元 ，同比增长31.92% ；扣非归母净利润3.21亿元 ，同比增长29.93% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：上海能源前三季归母净利润3.37亿元，同比增长31.92%"
+    },
+    {
+     "title": "图解财报：东威科技前三季归母净利润1.63亿元，同比增长90.88%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906369946.html",
+     "pubDate": "Fri, 23 Oct 2026 17:41:14 +0800",
+     "summary": "东威科技 10月24日发布2026年 三季报显示，公司前三季 实现营业收入11.03亿元 ，同比增长45.76% ；归母净利润1.63亿元 ，同比增长90.88% ；扣非归母净利润1.58亿元 ，同比增长94.13% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：东威科技前三季归母净利润1.63亿元，同比增长90.88%"
+    },
+    {
+     "title": "Volvo Cars plunges 27% as CEO says China sales slump came &apos;faster than we thought&apos;",
+     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+     "pubDate": "Fri, 23 Oct 2026 09:41:01 GMT",
+     "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
      "source": "CNBC",
-     "zh": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks"
+     "zh": "Volvo Cars plunges 27% as CEO says China sales slump came &apos;faster than we thought&apos;"
+    },
+    {
+     "title": "沃尔沃在华季度营收近乎腰斩 CEO：传统豪华车丧失盈利空间",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906369094.html",
+     "pubDate": "Fri, 23 Oct 2026 17:38:23 +0800",
+     "summary": "10月23日，沃尔沃 汽车 对外披露了2026年第三季度未经审计中期财报。整个集团三季度由盈转亏，而中国市场近乎腰斩的营收，成为拖累业绩最核心的变量之一。 财报显示，沃尔沃三季度营收为669亿瑞典克朗，上年同期为864亿瑞典克朗；营业利润为负56亿瑞典克朗，上年同期为64亿瑞典克朗，经营层面出现明显恶化；基本每股收益为负1.63瑞典克朗，上年同期为1.75瑞典克朗。该季度沃尔沃全球零售销量为14.13万辆，同比下滑11%。 沃尔沃三季度财报核心业绩数据 该公司还计划在先前成功完成的成本计划基础上，进一步削减50亿瑞典克朗的间接支出和可变成本。这些措施将通过终止咨询合同、自然减员和有针对性的员工",
+     "source": "东方财富资讯",
+     "zh": "沃尔沃在华季度营收近乎腰斩 CEO：传统豪华车丧失盈利空间"
+    },
+    {
+     "title": "This market signal just occurred for only the second time since 1999. Here’s what happened and what it means.",
+     "link": "https://www.marketwatch.com/story/this-market-signal-just-occurred-for-only-the-second-time-since-1999-heres-what-happened-and-what-it-means-a126cf31?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 09:35:00 GMT",
+     "summary": "An unusual occurrence with breadth and the stock market just occurred.",
+     "source": "MarketWatch",
+     "zh": "This market signal just occurred for only the second time since 1999. Here’s what happened and what it means."
+    },
+    {
+     "title": "Phillip double-upgrades SpaceX to Buy, triples price target to $250 on AI upside",
+     "link": "https://seekingalpha.com/news/4656450-phillip-double-upgrades-spacex-to-buy-triples-price-target-to-250-on-ai-upside?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 05:32:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Phillip double-upgrades SpaceX to Buy, triples price target to $250 on AI upside"
     },
     {
      "title": "France is getting its credit rating reviewed by Moody’s. What to expect as French debt turmoil spills overseas.",
@@ -2264,54 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
      "source": "MarketWatch",
      "zh": "France is getting its credit rating reviewed by Moody’s. What to expect as French debt turmoil spills overseas."
-    },
-    {
-     "title": "图解财报：力佳科技前三季归母净利润787.24万元，同比减少74.60%",
-     "link": "http://stock.eastmoney.com/news/11802,202610233906358619.html",
-     "pubDate": "Fri, 23 Oct 2026 17:27:18 +0800",
-     "summary": "力佳科技 10月23日发布2026年 三季报显示，公司前三季 实现营业收入2.17亿元 ，同比下滑18.62% ；归母净利润787.24万元 ，同比下滑74.60% ；扣非归母净利润441.16万元 ，同比下滑84.22% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：力佳科技前三季归母净利润787.24万元，同比减少74.60%"
-    },
-    {
-     "title": "长龄液压：拟7000万元-1.3亿元回购公司股份 回购价不超92.47元/股",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906359197.html",
-     "pubDate": "Fri, 23 Oct 2026 17:26:38 +0800",
-     "summary": "长龄液压 10月23日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于7000万元且不超过1.3亿元。回购价格不超过92.47元/股。回购股份将用于员工 股权激励 /员工持股计划。回购期限为自董事会审议通过回购股份方案之日起12个月内。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "长龄液压：拟7000万元-1.3亿元回购公司股份 回购价不超92.47元/股"
-    },
-    {
-     "title": "图解财报：宁波能源前三季归母净利润2.20亿元，同比减少9.15%",
-     "link": "http://stock.eastmoney.com/news/11802,202610233906358378.html",
-     "pubDate": "Fri, 23 Oct 2026 17:26:16 +0800",
-     "summary": "宁波能源 10月24日发布2026年 三季报显示，公司前三季 实现营业收入31.15亿元 ，同比增长15.56% ；归母净利润2.20亿元 ，同比下滑9.15% ；扣非归母净利润2.49亿元 ，同比增长5.48% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：宁波能源前三季归母净利润2.20亿元，同比减少9.15%"
-    },
-    {
-     "title": "图解财报：明泰铝业前三季归母净利润19.17亿元，同比增长36.50%",
-     "link": "http://stock.eastmoney.com/news/11802,202610233906358168.html",
-     "pubDate": "Fri, 23 Oct 2026 17:25:12 +0800",
-     "summary": "明泰铝业 10月24日发布2026年 三季报显示，公司前三季 实现营业收入318.59亿元 ，同比增长23.13% ；归母净利润19.17亿元 ，同比增长36.50% ；扣非归母净利润18.48亿元 ，同比增长56.81% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：明泰铝业前三季归母净利润19.17亿元，同比增长36.50%"
-    },
-    {
-     "title": "图解财报：东百集团前三季归母净利润1.33亿元，同比增长51.13%",
-     "link": "http://stock.eastmoney.com/news/11802,202610233906358071.html",
-     "pubDate": "Fri, 23 Oct 2026 17:25:12 +0800",
-     "summary": "东百集团 10月24日发布2026年 三季报显示，公司前三季 实现营业收入13.49亿元 ，同比下滑0.70% ；归母净利润1.33亿元 ，同比增长51.13% ；扣非归母净利润9245.25万元 ，同比增长19.45% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：东百集团前三季归母净利润1.33亿元，同比增长51.13%"
-    },
-    {
-     "title": "TCL智家：第三季度归母净利润2.64亿元 同比下降22.15%",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906358873.html",
-     "pubDate": "Fri, 23 Oct 2026 17:24:38 +0800",
-     "summary": "TCL智家 10月23日公告，2026年第三季度实现营业收入53.71亿元，同比增长10.32%；归母净利润2.64亿元，同比下降22.15%；基本每股收益0.24元。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "TCL智家：第三季度归母净利润2.64亿元 同比下降22.15%"
     },
     {
      "title": "Nvidia&apos;s Huang heads to Kazakhstan for the first time — and he&apos;s not the only one with big plans",
@@ -2402,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "多个票仓转为摇摆州！特朗普再承诺拨款1.5亿美元提高燃料产量"
     },
     {
-     "title": "This market signal just occurred for only the second time since 1999. Here’s what happened and what it means.",
-     "link": "https://www.marketwatch.com/story/this-market-signal-just-occurred-for-only-the-second-time-since-1999-heres-what-happened-and-what-it-means-a126cf31?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 09:06:00 GMT",
-     "summary": "An unusual occurrence with breadth and the stock market just occurred.",
-     "source": "MarketWatch",
-     "zh": "This market signal just occurred for only the second time since 1999. Here’s what happened and what it means."
-    },
-    {
      "title": "France is flashing euro crisis signals. This time, the fault lines are different",
      "link": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
      "pubDate": "Fri, 23 Oct 2026 09:03:26 GMT",
@@ -2456,38 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sacramento Kings forward Precious Achiuwa has signed for a $1.84M condo inside a lavish Miami development that has already attracted several high-profile athletes.",
      "source": "MarketWatch",
      "zh": "NBA star Precious Achiuwa signs on for $1.8 million condo in luxury Miami tower"
-    },
-    {
-     "title": "Rocket Lab launches 98th Electron mission",
-     "link": "https://seekingalpha.com/news/4656460-rocket-lab-launches-98th-electron-mission?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 04:55:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rocket Lab launches 98th Electron mission"
-    },
-    {
-     "title": "Woori Financial reports nine-month results",
-     "link": "https://seekingalpha.com/news/4656459-woori-financial-reports-nine-month-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 04:48:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Woori Financial reports nine-month results"
-    },
-    {
-     "title": "一度失守4000美元，黄金为何跟着美股一起跌？汇丰：别把它当成“万能灵药”",
-     "link": "https://wallstreetcn.com/articles/3784308",
-     "pubDate": "Fri, 23 Oct 2026 16:34:22 +0800",
-     "summary": "黄金的避险属性正在接受考验。尽管债务与通胀担忧仍为金价提供长期支撑，但在股市下跌、债券收益率上行的市场环境下，黄金也可能因投资者急于筹集现金而遭到抛售，难以发挥短期避险作用。 10月23日，现货黄金一度跌破4000美元/盎司关口。此前，金价今年曾突破5000美元/盎司，创下历史新高，但随后涨势放缓、价格回落，市场波动加剧。 汇丰资产管理策略师在最新报告中指出，高油价、利率上行及债券收益率飙升，正对黄金构成压力。不过，地缘政治格局碎片化、央行储备多元化等因素仍在支撑黄金需求，长期配置价值并未因此消失。 黄金近期与美股同步下跌，关键在于市场流动性压力，而非避险需求彻底消失。 汇丰警告，杠杆资金集中",
-     "source": "华尔街见闻",
-     "zh": "一度失守4000美元，黄金为何跟着美股一起跌？汇丰：别把它当成“万能灵药”"
-    },
-    {
-     "title": "Volvo Cars plunges 27% as CEO says China sales slump came &apos;faster than we thought&apos;",
-     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-     "pubDate": "Fri, 23 Oct 2026 08:33:13 GMT",
-     "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-     "source": "CNBC",
-     "zh": "Volvo Cars plunges 27% as CEO says China sales slump came &apos;faster than we thought&apos;"
     }
    ]
   },
@@ -2497,6 +2497,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work?",
+     "link": "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work",
+     "pubDate": "Fri, 23 Oct 2026 09:44:19 +0000",
+     "summary": "A new technology encodes an invisible mark into the structure of AI-generated proteins, but experts said the system's guardrails can still be bypassed.",
+     "source": "Live Science",
+     "zh": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work?"
+    },
     {
      "title": "Q&A: How AI came to model the “messy” human mind",
      "link": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
@@ -2592,14 +2600,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Martian Moons Exploration (MMX) mission, which launched from Japan on Oct. 19, is on its way to Mars. When it arrives, the probe will attempt to land on one of the Red Planet's twin moons and scoop up rocks to bring back to Earth. Experts tell Live Science what these \"transformative\" samples cou",
      "source": "Live Science",
      "zh": "Japan launches world's first round-trip mission to Mars."
-    },
-    {
-     "title": "Will plants survive climate change? The 'Great Dying' reveals clues about their resilience.",
-     "link": "https://www.livescience.com/planet-earth/plants/can-plants-survive-climate-change-an-armory-of-unique-adaptations-could-see-some-grow-with-the-flow",
-     "pubDate": "Thu, 22 Oct 2026 16:00:00 +0000",
-     "summary": "Plants can't easily pick up and move when environmental conditions get rough, so they've evolved strategies to weather harsh conditions in place. That could help some plants survive in the face of a warming climate.",
-     "source": "Live Science",
-     "zh": "Will plants survive climate change? The 'Great Dying' reveals clues about their resilience."
     },
     {
      "title": "Was van Gogh’s ‘The Starry Night’ a flight of fancy or a real sky?",

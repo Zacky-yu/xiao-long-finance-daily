@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 19:54:53",
+ "generated_at": "2026/10/24 20:09:44",
  "recent_days": 7,
  "industries": [
   {
@@ -330,12 +330,28 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
+     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
+     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
+    },
+    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
+    },
+    {
+     "title": "Space Tech Expo Europe to say farewell to Bremen",
+     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
+     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -362,6 +378,30 @@ window.INDUSTRY_DATA = {
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
+     "title": "Soft Switching Or Hard?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
+     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Soft Switching Or Hard?"
+    },
+    {
+     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
+     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
+     "source": "Electronics Weekly",
+     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
+    },
+    {
+     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
+     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
+     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
+    },
+    {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
      "link": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html",
      "pubDate": "Fri, 23 Oct 2026 08:59:00 GMT",
@@ -384,6 +424,14 @@ window.INDUSTRY_DATA = {
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "Electronics production growth accelerating, says SI",
+     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
+     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
-    },
-    {
-     "title": "Chip Scaling Moves Beyond The Transistor",
-     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
-     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Chip Scaling Moves Beyond The Transistor"
-    },
-    {
-     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
-     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
-     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
-    },
-    {
-     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
-     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
-     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
-    },
-    {
-     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
-     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
-     "source": "Semiconductor Today",
-     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
-    },
-    {
-     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
-     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
-    },
-    {
-     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
-     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -650,6 +650,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "GM's Future Cars Will Be Very Different. Here's Everything We Learned",
+     "link": "https://insideevs.com/news/813137/general-motors-ev-ai-battery-strategy/",
+     "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+     "summary": "Here's everything you need to know about General Motors' big tech event this week, from LMR batteries to a new AI assistant.",
+     "source": "InsideEVs",
+     "zh": "GM's Future Cars Will Be Very Different. Here's Everything We Learned"
+    },
+    {
+     "title": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers",
+     "link": "https://electrek.co/2026/10/24/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/",
+     "pubDate": "Sat, 24 Oct 2026 11:59:07 +0000",
+     "summary": "EGO Power’s commercial group showed up at this week’s EQUIP Expo with a trio of new zero-turn riding mowers, a commercial-grade 780 CFM leaf blower , and a heavy-duty 16.5″ trimmer built for the 56V PGX battery system. And, with incentive programs designed to help landscapers make the switch to elec",
+     "source": "Electrek",
+     "zh": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers"
+    },
+    {
      "title": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
      "link": "https://cnevpost.com/2026/10/24/catl-qilin-battery-nio-firefly-60-kwh/",
      "pubDate": "Sat, 24 Oct 2026 11:46:57 +0000",
@@ -722,14 +738,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming"
     },
     {
-     "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
-     "link": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
-     "pubDate": "Fri, 23 Oct 2026 16:56:23 +0000",
-     "summary": "Rivian wants to rebuild the roads its customers drive as 3D test worlds for its self-driving system, and it just bought a 15-person UK startup called Third Dimension to do it, as first reported by TechCrunch . The startup was founded in 2024 by a former Tesla Autopilot simulation engineer and a vete",
-     "source": "Electrek",
-     "zh": "Rivian buys startup to turn 400,000 daily clips into 3D sims"
-    },
-    {
      "title": "Why Did The Electric Range Rover Take So Long? A Lot Of Reasons",
      "link": "https://insideevs.com/features/813093/why-did-the-electric-range-rover-take-so-long/",
      "pubDate": "Fri, 23 Oct 2026 15:13:55 +0000",
@@ -792,14 +800,6 @@ window.INDUSTRY_DATA = {
      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
      "source": "TechCrunch Transport",
      "zh": "Rivian buys world model startup to accelerate self-driving ambitions"
-    },
-    {
-     "title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too",
-     "link": "https://insideevs.com/features/812982/gm-software-platform-powertrain-agnostic/",
-     "pubDate": "Thu, 22 Oct 2026 20:35:10 +0000",
-     "summary": "Its next-generation EVs will offer security camera functionality and autonomous driving. But its gas SUVs won’t get left behind.",
-     "source": "InsideEVs",
-     "zh": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too"
     },
     {
      "title": "Tesla is prepping a Cybercab onslaught",
@@ -1018,14 +1018,6 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1080,6 +1072,14 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1290,6 +1290,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "'Star Trek: Strange New Worlds' was afraid to say anything in season of gimmicks",
+     "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-of-gimmicks-was-afraid-to-say-anything",
+     "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+     "summary": "The fourth season of \"Star Trek: Strange New Worlds\" was one giant gimmick: shoving \"Trek\" into as many genres as possible and often directly adapting classic films from those genres.",
+     "source": "Space.com",
+     "zh": "'Star Trek: Strange New Worlds' was afraid to say anything in season of gimmicks"
+    },
+    {
      "title": "Medusa's eye, Halloween fireballs and more: 5 skywatching targets to look out for this spooky season",
      "link": "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season",
      "pubDate": "Sat, 24 Oct 2026 10:00:00 +0000",
@@ -1400,14 +1408,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future we",
      "source": "NASA",
      "zh": "NASA, Virginia Launch Power Partnership for Energy Security"
-    },
-    {
-     "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
-     "link": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
-     "pubDate": "Fri, 23 Oct 2026 16:00:00 +0000",
-     "summary": "After a failed soft reboot and a remake of the original, the Halo universe is facing yet another major creative shift. But has Xbox learned any lessons this time?",
-     "source": "Space.com",
-     "zh": "Never finishing the fight: Where did Xbox go wrong with Halo?"
     },
     {
      "title": "Exclusive: DoD Taps Orbital Operations for Cryogenic Spacecraft Demo",
@@ -1754,6 +1754,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "中国信通院：截至 8 月，国内约 1500 万辆乘用车具备领航驾驶辅助（NOA）功能",
+     "link": "https://www.ithome.com/1/017/494.htm",
+     "pubDate": "Sat, 24 Oct 2026 12:02:31 GMT",
+     "summary": "IT之家 10 月 24 日消息，据中国信通院，2026 世界智能网联汽车大会已于 10 月 21 日至 23 日在北京亦庄举办。在全体大会成果发布环节，工业和信息化部装备工业一司司长郭守刚介绍了国家车联网技术标准体系与 跨标委 合作机制，发布《国家车联网技术标准体系建设指南（2026 版）》（征求意见稿），并主持车联网标准跨标委合作协议签署仪式。 会上介绍，中国先后制定发布组合驾驶辅助系统、自动驾驶系统、自动紧急制动系统、整车信息安全等多项重要国家标准。截至今年 8 月，国内约 6100 万辆乘用车搭载组合驾驶辅助（L2）功能， 其中约 1500 万辆乘用车具备领航驾驶辅助（ NOA ）功能",
+     "source": "IT之家",
+     "zh": "中国信通院：截至 8 月，国内约 1500 万辆乘用车具备领航驾驶辅助（NOA）功能"
+    },
+    {
+     "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+     "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+     "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+     "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+     "source": "WIRED",
+     "zh": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable"
+    },
+    {
+     "title": "倍思为苹果 iPhone Duo 推出卡片磁吸 Air 移动电源：7.5W 无线 +25W 有线，5000mAh 售 374 元",
+     "link": "https://www.ithome.com/1/017/492.htm",
+     "pubDate": "Sat, 24 Oct 2026 11:56:34 GMT",
+     "summary": "IT之家 10 月 24 日消息，倍思现已在京东上架一款卡片磁吸 Air 移动电源，该产品最大的特点是适配了苹果 iPhone Duo 尺寸，其内置 5000mAh 电芯，定价为 374 元。 京东 倍思卡片磁吸 Air 移动电源 券后 374 元 点此访问 该机尺寸为 85x81x7.9mm，整体重量 120g，支持 7.5W 无线输出和 25W USB-C 有线输出，电芯通过新国标认证，可通过手机 NFC 查看电芯健康度信息。 IT之家附产品参数： 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 ",
+     "source": "IT之家",
+     "zh": "倍思为苹果 iPhone Duo 推出卡片磁吸 Air 移动电源：7.5W 无线 +25W 有线，5000mAh 售 374 元"
+    },
+    {
+     "title": "比亚迪方程豹钛 9 车型 11 月 15 日后上市，SHARK 鲨鱼皮卡紧随其后",
+     "link": "https://www.ithome.com/1/017/491.htm",
+     "pubDate": "Sat, 24 Oct 2026 11:53:21 GMT",
+     "summary": "IT之家 10 月 24 日消息，10 月 22 日，比亚迪集团-方程豹事业部总经理熊甜波公布新车的进度。 据其透露，方程豹钛 9 车型会在 11 月 15 日后正式上市。团队会提前备好现车，让用户提车不用长时间等待。同时展车、试驾车会在 10 月底陆续到。此外，SHARK 鲨鱼皮卡，在钛 9 发布之后，计划 11 月底 —12 月初上市同步交付。 方程豹钛 9 据此前官方介绍，钛 9 是方程豹品牌旗下钛系列的第三款车型，定位科技新奢旗舰 SUV。采用 2+2+2 大六座布局，车身尺寸为 5270x1999x1880mm，达到全尺寸级别，依托 3130mm 超长轴距和方盒子造型带来的高空间利用",
+     "source": "IT之家",
+     "zh": "比亚迪方程豹钛 9 车型 11 月 15 日后上市，SHARK 鲨鱼皮卡紧随其后"
+    },
+    {
      "title": "李建杰：三季度经济“U型”回升，但传导机制仍待疏通",
      "link": "https://www.huxiu.com/article/4900176.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 19:39:52 +0800",
@@ -1805,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 13 # Comments: 0",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 20 # Comments: 0",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
@@ -1834,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "万象城的餐饮为什么这么火"
     },
     {
-     "title": "Node.js Vulnerability Blog",
-     "link": "https://nodejs.org/en/blog/vulnerability",
-     "pubDate": "Sat, 24 Oct 2026 11:08:47 +0000",
-     "summary": "Article URL: https://nodejs.org/en/blog/vulnerability Comments URL: https://news.ycombinator.com/item?id=50220145 Points: 6 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Node.js Vulnerability Blog"
-    },
-    {
      "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
      "link": "https://www.wired.com/gallery/best-pet-cameras/",
      "pubDate": "Sat, 24 Oct 2026 11:03:00 +0000",
@@ -1850,12 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot"
     },
     {
-     "title": "消息称字节跳动 AI 短剧产品内部整合：小云雀并入即梦，仍保留独立入口",
-     "link": "https://www.ithome.com/1/017/480.htm",
-     "pubDate": "Sat, 24 Oct 2026 10:59:27 GMT",
-     "summary": "IT之家 10 月 24 日消息，据 36 氪今日报道，字节跳动内部近期完成了一次业务整合，AI 短剧创作平台小云雀并入智能创作平台即梦，产品仍保留独立入口。 此次调整以资源整合为主，即梦已经接入小云雀的短剧相关能力。调整后，小云雀的运营由即梦运营和市场负责人陈欣然负责，产品团队没有变化。 小云雀和即梦均出自字节剪映团队。小云雀定位为一站式 AI 内容创作平台，今年 3 月上线短剧 Agent，支持上传最多 10 万字剧本、一键生成视频成片，搭载了字节自研的 Seedance 2.0 模型，在短剧、漫剧的标准化生产场景中具备从剧本解析到分镜生成的完整流程能力。 即梦 AI 于 2024 年 5",
-     "source": "IT之家",
-     "zh": "消息称字节跳动 AI 短剧产品内部整合：小云雀并入即梦，仍保留独立入口"
+     "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+     "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
+     "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
+     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706"
     },
     {
      "title": "9 Unique Apps to Try on the iPhone Duo",
@@ -1864,22 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
      "source": "WIRED",
      "zh": "9 Unique Apps to Try on the iPhone Duo"
-    },
-    {
-     "title": "英伟达承认 GeForce 621.01 驱动存在问题：播放视频时可能卡住或黑屏",
-     "link": "https://www.ithome.com/1/017/453.htm",
-     "pubDate": "Sat, 24 Oct 2026 10:43:43 GMT",
-     "summary": "IT之家 10 月 24 日消息，英伟达已确认，最新发布的 GeForce Game Ready Driver 621.01 显卡驱动存在一项 Bug。 部分用户反馈，在 Chrome、Edge 等浏览器或 VLC 媒体播放器中播放视频时，屏幕会突然冻结或短暂黑屏，数秒后才恢复正常。目前，英伟达已确认存在该问题，并向受影响用户收集崩溃转储文件，以进一步调查原因。 相关用户表示，异常主要出现在视频播放期间，部分情况下，在浏览器播放视频的同时启动游戏也会触发故障。出现问题后，显示画面通常会在数秒内自行恢复，无需重启电脑。 目前，已有多名 RTX 5080 用户反馈遇到这一问题，也有 RTX 409",
-     "source": "IT之家",
-     "zh": "英伟达承认 GeForce 621.01 驱动存在问题：播放视频时可能卡住或黑屏"
-    },
-    {
-     "title": "科学家从秦始皇兵马俑指纹里读出女性与少年，制作者群体首次有了量化生物学证据",
-     "link": "https://www.ithome.com/1/017/448.htm",
-     "pubDate": "Sat, 24 Oct 2026 10:37:09 GMT",
-     "summary": "IT之家 10 月 24 日消息，据新华社昨日报道，秦始皇帝陵博物院与山东大学考古学院合作的一项研究，为“谁制作了兵马俑”提供了来自陶俑本身的生物学证据。 研究团队从一号坑 T23 探方 23 件陶俑上提取了 79 枚独立指纹，通过贝叶斯混合模型进行群体层面的年龄与性别推测，结果显示成年男性约占 45.0%，成年女性约占 32.7%，15 岁以下少年约占 22.3%。这是学界首次以量化的生物学证据表明，秦俑生产以成年男性为主，但并非由成年男性单独完成。 长期以来，学界对秦俑制作者的认知主要来自文献记载与器物铭文，陶俑本身并未提供过直接的人口学证据。此次研究之所以能“读出”指纹，靠的是指纹脊线宽",
-     "source": "IT之家",
-     "zh": "科学家从秦始皇兵马俑指纹里读出女性与少年，制作者群体首次有了量化生物学证据"
     },
     {
      "title": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
@@ -1962,18 +1970,10 @@ window.INDUSTRY_DATA = {
      "zh": "苏超的背后的经济意义"
     },
     {
-     "title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
-     "link": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
-     "pubDate": "Sat, 24 Oct 2026 10:00:00 +0000",
-     "summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
-     "source": "WIRED",
-     "zh": "The Qubitunes Soundstage Toy Is a Great Gift for Kids"
-    },
-    {
      "title": "I Don't Understand Quantum Physics (2018)",
      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 87 # Comments: 46",
+     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 91 # Comments: 55",
      "source": "Hacker News",
      "zh": "I Don't Understand Quantum Physics (2018)"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
      "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
-     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 27 # Comments: 12",
+     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 33 # Comments: 17",
      "source": "Hacker News",
      "zh": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps"
     },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "I spent two weeks using Googlebooks, and I have 5 big concerns",
+     "link": "https://www.androidauthority.com/acer-googlebook-weeks-later-3724787/",
+     "pubDate": "Sat, 24 Oct 2026 12:00:48 +0000",
+     "summary": "Googlebooks aren't ready for primetime, and software is only part of the problem.",
+     "source": "Android Authority",
+     "zh": "I spent two weeks using Googlebooks, and I have 5 big concerns"
+    },
     {
      "title": "vivo S70 tipped to launch soon with teleconverter support",
      "link": "https://www.gsmarena.com/vivo_s70_tipped_to_launch_soon_with_teleconverter_support-news-75195.php",
@@ -2138,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Deal: the Samsung Galaxy Z Fold8 is $300 cheaper than the iPhone Duo"
     },
     {
-     "title": "Some iPhone Duo screens aren’t making it through day one",
-     "link": "https://www.androidauthority.com/iphone-duo-cracked-screens-first-day-3727498/",
-     "pubDate": "Fri, 23 Oct 2026 21:26:00 +0000",
-     "summary": "Unlucky early buyers say their iPhone Duo screens are cracking after just a few unfolds.",
-     "source": "Android Authority",
-     "zh": "Some iPhone Duo screens aren’t making it through day one"
-    },
-    {
      "title": "Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, & more",
      "link": "https://9to5google.com/2026/10/23/google-health-5-11-release-notes/",
      "pubDate": "Fri, 23 Oct 2026 21:00:10 +0000",
@@ -2250,6 +2250,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
+     "link": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 12:00:00 GMT",
+     "summary": "The runaway success of the artificial-intelligence trade has left investors hungry for the next big market theme. Wall Street fund managers are happily obliging with a flurry of new targeted products, helping investors invest in everything from the rise of robotics to the incipient space economy.",
+     "source": "MarketWatch",
+     "zh": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit"
+    },
+    {
+     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 12:00:00 GMT",
+     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+     "source": "MarketWatch",
+     "zh": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
+    },
+    {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
      "link": "https://wallstreetcn.com/articles/3784398",
      "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
@@ -2282,12 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘Non-answers’ aren’t working. This is what investors really need from the Fed."
     },
     {
-     "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
-     "link": "https://wallstreetcn.com/articles/3784381",
-     "pubDate": "Sat, 24 Oct 2026 19:38:17 +0800",
-     "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
-     "source": "华尔街见闻",
-     "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
+     "title": "折叠屏供应链“等来”苹果之后",
+     "link": "http://www.eeo.com.cn/2026/1024/1074909.shtml",
+     "pubDate": "Sat, 24 Oct 2026 19:18:51 +0800",
+     "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
+     "source": "经济观察网",
+     "zh": "折叠屏供应链“等来”苹果之后"
     },
     {
      "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
@@ -2472,22 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "The reassuringly bourgeois values behind a rebellious generation",
      "source": "Financial Times",
      "zh": "The young are conformists in denial"
-    },
-    {
-     "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
-     "link": "https://seekingalpha.com/news/4656924-global-x-equal-weight-can-insurance-idx-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:32:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend"
-    },
-    {
-     "title": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend",
-     "link": "https://seekingalpha.com/news/4656923-global-x-russell-2000-covered-cll-etf-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:32:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend"
     }
    ]
   },
@@ -2497,6 +2497,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "AI giants are one big mistake away from catastrophe. They could learn a lot from the nuclear industry.",
+     "link": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
+     "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+     "summary": "AI companies know they are being held hostage by each other, and that they need to take action to self-regulate before they suffer major reputational and legal consequences. There is a blueprint on how they can do it, says associate professor Akhil Bhardwaj .",
+     "source": "Live Science",
+     "zh": "AI giants are one big mistake away from catastrophe. They could learn a lot from the nuclear industry."
+    },
     {
      "title": "Watch the full 'Hunter's Moon' rise next to Saturn this weekend",
      "link": "https://www.livescience.com/space/the-moon/you-have-2-superb-chances-to-watch-the-hunters-moon-rise-this-week",
@@ -2640,14 +2648,6 @@ window.INDUSTRY_DATA = {
      "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
      "source": "MIT News",
      "zh": "This design software reimagines everyday objects as self-aware devices"
-    },
-    {
-     "title": "'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon",
-     "link": "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon",
-     "pubDate": "Thu, 22 Oct 2026 20:00:00 +0000",
-     "summary": "Artemis II Commander Reid Wiseman felt genuine fear when he saw the Orion spacecraft had gone farther from Earth than anticipated, the astronaut told an audience at the Starmus VIII festival this week.",
-     "source": "Live Science",
-     "zh": "'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon"
     },
     {
      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",

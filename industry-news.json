@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 22:12:03",
+ "generated_at": "2026/10/24 22:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Trump’s War on Iran Has Broken the Oil Market",
+     "link": "https://cleantechnica.com/2026/10/24/trumps-war-on-iran-has-broken-the-oil-market/",
+     "pubDate": "Sat, 24 Oct 2026 14:21:46 +0000",
+     "summary": "Almost 8 months into Trump’s war on Iran, we can see more clearly the consequences of this quagmire. Some have been quite unexpected, like the surprising resilience of the oil market, the emergence of multiple failure points outside of Hormuz (including Bab-al Mandeb, the East-West pipeline, and glo",
+     "source": "CleanTechnica",
+     "zh": "Trump’s War on Iran Has Broken the Oil Market"
+    },
+    {
      "title": "Renewable Energy India Expo 2026: Three key takeaways",
      "link": "https://www.pv-magazine.com/2026/10/24/renewable-energy-india-expo-2026-three-key-takeaways/",
      "pubDate": "Sat, 24 Oct 2026 12:43:58 +0000",
@@ -959,14 +967,6 @@
      "summary": "The United States’ National Aeronautics and Space Administration (NASA) has developed a revolutionary new battery that could power the country’s return to the moon while potentially also revolutionizing the way that we power electric vehicles here on Earth. The new technology can function at extreme",
      "source": "OilPrice",
      "zh": "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs"
-    },
-    {
-     "title": "New EV Battery Gives Gasmobiles The Deep Freeze",
-     "link": "https://cleantechnica.com/2026/10/23/ev-battery-mystery-donut-labs-performance-extreme-cold/",
-     "pubDate": "Fri, 23 Oct 2026 18:20:42 +0000",
-     "summary": "Mystery swirls around a new EV battery from the Finnish startup Donut Lab, which has just passed an extreme cold-weather performance test. The post New EV Battery Gives Gasmobiles The Deep Freeze appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "New EV Battery Gives Gasmobiles The Deep Freeze"
     },
     {
      "title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+     "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+     "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400",
+     "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+     "source": "BleepingComputer",
+     "zh": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot"
+    },
+    {
      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
      "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530",
@@ -1657,14 +1665,6 @@
      "zh": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware"
     },
     {
-     "title": "You gave your AI agent access, but who is giving it orders?",
-     "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-     "pubDate": "Fri, 23 Oct 2026 10:00:10 -0400",
-     "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime co",
-     "source": "BleepingComputer",
-     "zh": "You gave your AI agent access, but who is giving it orders?"
-    },
-    {
      "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
      "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
      "pubDate": "Fri, 23 Oct 2026 14:00:00 GMT",
@@ -1753,6 +1753,46 @@
    "total": 18,
    "items": [
     {
+     "title": "拼多多紧急捐赠 1000 万元，驰援西藏那曲抗震救灾",
+     "link": "https://www.ithome.com/1/017/512.htm",
+     "pubDate": "Sat, 24 Oct 2026 14:28:50 GMT",
+     "summary": "IT之家 10 月 24 日消息，据中华慈善总会官微，10 月 22 日，西藏那曲市巴青县发生 7.0 级地震，造成重大人员伤亡及房屋受损。国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应由四级提升至三级，各项救援工作正全力推进。 公告称，为全力支援一线救灾工作，拼多多紧急通过中华慈善总会向灾区 捐赠现金 1000 万元 ，用于采购救灾物资和设备、安置受灾群众及支持灾后重建。拼多多已成立救援响应专项小组，将持续关注灾情动态，全力配合和支援后续救灾工作。 IT之家注意到，小米、美团、字节跳动、阿里巴巴、中国移动、中国联通、中国电信、苹果等均宣布支持西藏那曲抗震救灾。 相关阅读： 《 ",
+     "source": "IT之家",
+     "zh": "拼多多紧急捐赠 1000 万元，驰援西藏那曲抗震救灾"
+    },
+    {
+     "title": "Keychron C3 Pro Trackball 8K 键盘公布：分裂空格 + 中置轨迹球",
+     "link": "https://www.ithome.com/1/017/511.htm",
+     "pubDate": "Sat, 24 Oct 2026 14:27:14 GMT",
+     "summary": "IT之家 10 月 24 日消息，日本企业 Mediagene 当地时间昨日宣布，旗下电商平台 GIZMART 即将于 28 日启动 Keychron C3 Pro Trackball 8K 键盘的预售。 C3 Pro Trackball 8K 整体上属于 80% 配列，但其 空格键被拆分为左右两部分和中间的 14mm 轨迹球 。这意味着该设备集成了光标输入功能， 用户无需在键盘和鼠标间切换 。此外，这款键盘支持鼠标输入层，可将按键动作转换为光标的点击或滚动。 IT之家了解到，Keychron C3 Pro Trackball 8K 采用塑料机身，支持 USB-C 有线单模连接，配备 ZMK ",
+     "source": "IT之家",
+     "zh": "Keychron C3 Pro Trackball 8K 键盘公布：分裂空格 + 中置轨迹球"
+    },
+    {
+     "title": "惠普星 Book Air 14 上架预约：酷睿 5 320、薯条标，国补价 4504.15 元",
+     "link": "https://www.ithome.com/1/017/510.htm",
+     "pubDate": "Sat, 24 Oct 2026 14:19:00 GMT",
+     "summary": "IT之家 10 月 24 日消息，惠普京东自营店新上架了一款星 Book Air 14 轻薄本电脑，提供星空蓝、烟灰银、牡丹粉、哈密瓜绿四种配色，京东首发价 5299 元，叠加国补后约为 4504.15 元。 京东 惠普 HP 星 Book Air 14 轻薄笔记本电脑 酷睿 5 16G 512G OLED 触屏 烟灰银 券后 5298 元 领 500 元券 这款机型貌似对应海外的 OmniBook 5 14，搭载英特尔酷睿 5 320 处理器，配备 16GB 内存 + 512GB 固态硬盘，海外版起售价 699.99 美元 （IT之家注：现汇率约合 4,679 元人民币） 。 该机采用铝合金",
+     "source": "IT之家",
+     "zh": "惠普星 Book Air 14 上架预约：酷睿 5 320、薯条标，国补价 4504.15 元"
+    },
+    {
+     "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+     "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+     "pubDate": "Sat, 24 Oct 2026 14:15:00 +0000",
+     "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+     "source": "TechCrunch",
+     "zh": "The Boox Palma 2 Pro finally got me to stop reading on my phone"
+    },
+    {
+     "title": "五轴机床被中国人搬上桌面？老外想买还得看资格",
+     "link": "https://www.huxiu.com/article/4900200.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 22:10:24 +0800",
+     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 最近，一台中国团队研发的数控机床在海外众筹平台上火了。 这台叫做WM-100的机器上线Kickstarter 40分钟，筹款便突破100万美元；12小时后，数字涨到220万美元。这台机器并不便宜，想把它带回家，最低也要花费5899美元，折合人民币约4万元，但高价并没有挡住买家的热情。 类似的场景在这两年频繁出现。今年夏天，三款来自中国团队的桌面五轴机床先后登上Kickstarter：深圳无限工坊的K1、上海IFMAKER的M5，以及上海拓璞数控旗下TOPFAB的TF500。K1最终筹得超过3000万元人民币，M5众筹约105万美元，TF50",
+     "source": "虎嗅",
+     "zh": "五轴机床被中国人搬上桌面？老外想买还得看资格"
+    },
+    {
      "title": "Here are the top AI agents that can live in your text messages",
      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
      "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
@@ -1783,6 +1823,14 @@
      "summary": "本文来自微信公众号： 山农下山 ，作者：肖海格 PART01 在国内退场 多年之后再回看，2026年这届“双11”或许是国内电商的重要节点。 它似乎正在回撤到多年前的版本。从目前各家公布的促销规则来看，电商平台们都在强调单件直降、立减折扣和现货销售，消费者不必再通过复杂的凑单计算，才能知道一件商品究竟便宜了多少。经历多年促销玩法的迭代之后，电商平台开始重新审视价格的透明度和优惠的确定性。 这种回归背后有多重因素：消费结构巨变，用户对理解促销规则的耐心越来越有限；行业逐渐成熟，平台之间的竞争从粗放的流量争夺，转向对商品、服务和经营效率的比拼。 而曾经让无数商家闻风丧胆的“全网最低价”和“二选一”",
      "source": "虎嗅",
      "zh": "“二选一”被赶出了双11，但平台们还在海外重演旧戏"
+    },
+    {
+     "title": "One Must Fall 2097 Remastered",
+     "link": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
+     "pubDate": "Sat, 24 Oct 2026 13:47:07 +0000",
+     "summary": "Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/ Comments URL: https://news.ycombinator.com/item?id=50221179 Points: 9 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "One Must Fall 2097 Remastered"
     },
     {
      "title": "金饰便宜了，金店靠什么赚钱？",
@@ -1825,34 +1873,10 @@
      "zh": "罗技 Pebble Up 鼠标上市：平卧 + 35° 斜卧双形态，到手价 251.1 元"
     },
     {
-     "title": "比亚迪在香港成立智慧交通子公司，计划引进云巴等方案",
-     "link": "https://www.ithome.com/1/017/506.htm",
-     "pubDate": "Sat, 24 Oct 2026 13:22:00 GMT",
-     "summary": "IT之家 10 月 24 日消息，比亚迪股份 10 月 23 日宣布在香港成立比亚迪智慧交通（香港）有限公司，落户大埔白石角科学园，由任林出任董事、李亮亮担任总经理。 新公司的直接目标，是响应香港推动智慧绿色集体运输系统的方向，计划将比亚迪自主研发的“云巴”（SkyShuttle）等轨道交通方案引进香港。 比亚迪云巴的定位是低运量、高架、无人驾驶的立体轨道交通系统，设计上针对的恰好是香港的几处“难处”。 据比亚迪介绍，云巴采用纯电驱动、胶轮行走和减振降噪设计，车体较轻、转弯半径小，爬坡能力达到每 100 米爬升 12 米，远高于重型铁路每 100 米约 4 米的水平，可适应香港山多、地势陡斜的",
-     "source": "IT之家",
-     "zh": "比亚迪在香港成立智慧交通子公司，计划引进云巴等方案"
-    },
-    {
-     "title": "消息称部分手机产品线或平板线迎来停更，成本兜不住",
-     "link": "https://www.ithome.com/1/017/505.htm",
-     "pubDate": "Sat, 24 Oct 2026 13:16:59 GMT",
-     "summary": "IT之家 10 月 24 日消息，据博主 @数码闲聊站 今日爆料，接下来会有几个大家熟悉的手机产品线或平板线迎来停更，原因是成本兜不住， 越发新机越亏 。 IT之家注意到，今年以来已经多部分手机厂商或品牌 宣布停更 。今年 2 月 27 日，魅族发布战略转型公告，宣布暂停国内手机新产品自研硬件项目，并在积极接洽第三方硬件合作伙伴，同时原有业务不受任何影响。 OPPO 在 7 月 16 日官宣了子品牌全球产品策略：realme 新品将聚焦海外市场，在中国市场暂停产品更新；一加则将在保持印度市场产品更新不变的情况下，主力发展中国市场，并暂停在欧洲和北美发布新品。 此外，今年还有部分手机厂商也通过涨",
-     "source": "IT之家",
-     "zh": "消息称部分手机产品线或平板线迎来停更，成本兜不住"
-    },
-    {
-     "title": "北通盘古手柄新增三款模块化配件：触觉反馈方向盘、拟真滚轮方向盘、触觉反馈触控板",
-     "link": "https://www.ithome.com/1/017/504.htm",
-     "pubDate": "Sat, 24 Oct 2026 13:10:53 GMT",
-     "summary": "IT之家 10 月 24 日消息，北通 (BEITONG) 本周正式为其 模块化手柄控制器盘古 推出了 3 款配件： 触觉反馈方向盘 、 拟真滚轮方向盘 、 触觉反馈触控板 。 触觉反馈方向盘（上图红框）占据盘古正面的 2 个模块安装位，可提供过弯阻尼、松手回弹的拟真驾驶体验，定价 109 元。 拟真滚轮方向盘（上图黄框）拥有 3 倍广域转向，可实现精准的细微过弯，定价 79 元。 触觉反馈触控板（上图蓝框）可模拟鼠标操控，转向更迅速、点选更便捷，定价 89 元。 北通同时还提供盘古手柄的方向盘套装、触控板套装、全模块套装，此外老用户可享受赠品活动和优惠价。",
-     "source": "IT之家",
-     "zh": "北通盘古手柄新增三款模块化配件：触觉反馈方向盘、拟真滚轮方向盘、触觉反馈触控板"
-    },
-    {
      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
      "pubDate": "Sat, 24 Oct 2026 13:09:28 +0000",
-     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 156 # Comments: 114",
+     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 188 # Comments: 164",
      "source": "Hacker News",
      "zh": "Elon Musk Just Gave Europe a Reason to Replace American Technology"
     },
@@ -1871,14 +1895,6 @@
      "summary": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬盘、Gmail 和 Google 相册中的内容向您展示个性化广告，除非您选择允许其他支持个性化广告的 Google 服务使用这些服务中的数据。”也就是如果用户不希望 Gmail 和 Google 相册",
      "source": "Solidot",
      "zh": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告"
-    },
-    {
-     "title": "Kimi最大迷思是，它什么都想要，但卡是有限的",
-     "link": "https://www.huxiu.com/article/4900185.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 20:41:58 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜视觉中国 10月24日凌晨，Kimi K3.1 Pro发布了。月之暗面官方公众号写道，&ldquo;我们正式推出Kimi K3.1 Pro，这是K3.1系列的第一个模型，也是我们迄今能力最强的3万亿级参数模型。&rdquo;距离上一次Kimi发布K3旗舰模型已经过去了99天。 值得注意的是，这里的&ldquo;3万亿级参数&rdquo;并不意味着模型又扩了参数。K3.1 Pro依然维持K3的2.8T，即2.8万亿总参数规模。这次升级并没有重新进行预训练，重点则是在既有底座上进一步增强后训练。官方也明确解释，K3.1 Pro是K3的后训练版本，",
-     "source": "虎嗅",
-     "zh": "Kimi最大迷思是，它什么都想要，但卡是有限的"
     },
     {
      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
@@ -1908,7 +1924,7 @@
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 51 # Comments: 13",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 54 # Comments: 13",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
@@ -1972,25 +1988,9 @@
      "title": "I Don't Understand Quantum Physics (2018)",
      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 146 # Comments: 95",
+     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 153 # Comments: 99",
      "source": "Hacker News",
      "zh": "I Don't Understand Quantum Physics (2018)"
-    },
-    {
-     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-     "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-     "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
-     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 83 # Comments: 38",
-     "source": "Hacker News",
-     "zh": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps"
-    },
-    {
-     "title": "A look at OpenAI&apos;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)",
-     "link": "https://www.techmeme.com/261024/p2#a261024p2",
-     "pubDate": "Sat, 24 Oct 2026 02:35:01 -0400",
-     "summary": "Thomas Brewster / Forbes : A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more.&nbsp; &mdash;&nbsp; Using the l",
-     "source": "Techmeme",
-     "zh": "A look at OpenAI&apos;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)"
     }
    ]
   },
@@ -2249,12 +2249,100 @@
    "total": 13,
    "items": [
     {
+     "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
+     "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 14:24:00 GMT",
+     "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
+     "source": "MarketWatch",
+     "zh": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it"
+    },
+    {
+     "title": "5 out of 5 communications services stocks deliver EPS wins this week: Earnings Scorecard",
+     "link": "https://seekingalpha.com/news/4656541-5-out-of-5-communications-services-stocks-deliver-eps-wins-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 10:23:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "5 out of 5 communications services stocks deliver EPS wins this week: Earnings Scorecard"
+    },
+    {
+     "title": "301563 三季度净利最高预增613%！股价近期大涨",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907127895.html",
+     "pubDate": "Sat, 24 Oct 2026 22:16:09 +0800",
+     "summary": "云汉芯城 预计第三季度业绩大增。 10月23日晚间， 云汉芯城 （301563）同步披露股票交易异常波动公告及2026年前三季度业绩预增公告，回应市场对公司近期股价大幅异动的关注。公告显示，公司股票在10月22日、10月23日连续两个交易日内收盘价格涨幅偏离值累计超过30%，根据深交所交易规则，已触发股票交易异常波动情形。 公告称，经公司董事会确认，公司目前没有任何根据有关规定应予以披露而未披露的事项或与该事项有关的筹划、商谈、意向、协议等。 与此同时公司披露的业绩预告显示，公司前三季度业绩实现爆发式增长：预计2026年前三季度归母净利润为3.35亿元—3.71亿元，同比增幅为312%—355",
+     "source": "东方财富股票",
+     "zh": "301563 三季度净利最高预增613%！股价近期大涨"
+    },
+    {
+     "title": "也门官员称亚丁遭导弹袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907127561.html",
+     "pubDate": "Sat, 24 Oct 2026 22:16:07 +0800",
+     "summary": "亚丁消息：一名也门安全官员24日告诉新华社记者，南部 港口 城市亚丁当天遭导弹袭击，传出剧烈爆炸声。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "也门官员称亚丁遭导弹袭击"
+    },
+    {
+     "title": "Earnings Scorecard: Financials log 80% EPS beat rate vs. revenue this week",
+     "link": "https://seekingalpha.com/news/4656570-earnings-scorecard-financials-log-80-eps-beat-rate-vs-revenue-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 10:15:14 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Earnings Scorecard: Financials log 80% EPS beat rate vs. revenue this week"
+    },
+    {
+     "title": "胡塞武装称沙特袭击也门一水泥厂 已致8死10伤",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907126834.html",
+     "pubDate": "Sat, 24 Oct 2026 22:13:33 +0800",
+     "summary": "据也门胡塞武装卫生部门24日消息，沙特阿拉伯主导的多国联军当天对位于也门首都萨那西北部哈姆丹地区的一座 水泥 厂发动空袭，袭击已造成8人死亡、10人受伤，死伤者中大部分为妇女儿童。 截至目前，沙特主导的联军尚未就空袭及人员伤亡情况作出回应。 当天早些时候，联军发言人图尔基·马利基在社交媒体上说，联军当天拦截并摧毁胡塞武装射向沙特首都利雅得的一枚弹道导弹。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "胡塞武装称沙特袭击也门一水泥厂 已致8死10伤"
+    },
+    {
+     "title": "法国新一轮示威活动中135人被逮捕",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907126634.html",
+     "pubDate": "Sat, 24 Oct 2026 22:12:50 +0800",
+     "summary": "当地时间24日，法国内政部长努内兹表示，截至当地时间13时，警方在当天的新一轮全国性抗议示威活动中已逮捕135人。 努内兹表示，警方同时查获了可能被用作武器的物品。据初步统计，截至当地时间24日13时，全法公共场所约有3.5万名示威者。 努内兹23日表示，法国政府将部署7万名警察和宪兵，以应对预计在24日举行的大规模示威活动可能引发的暴力行为。 法国17日爆发全国性示威。法国政府估计，全国约55万人参加示威，组织方则称人数达到80万。部分城市的示威活动伴有暴力冲突。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "法国新一轮示威活动中135人被逮捕"
+    },
+    {
+     "title": "Eli Lilly releases promising early-stage data on ADC for ovarian cancer",
+     "link": "https://seekingalpha.com/news/4656928-eli-lilly-releases-promising-early-stage-data-adc-ovarian-cancer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 10:10:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Eli Lilly releases promising early-stage data on ADC for ovarian cancer"
+    },
+    {
+     "title": "泽连斯基称“星链”和“星盾”在乌运行速度已恢复",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907127340.html",
+     "pubDate": "Sat, 24 Oct 2026 22:08:14 +0800",
+     "summary": "当地时间10月24日，乌克兰总统泽连斯基在社交媒体上称，“星链”和“星盾”卫星 通信 系统运行已恢复至受限前的水平，目前支持的运行速度能够满足乌方实战需求。 泽连斯基称， 通信 恢复工作于当日凌晨启动，上午经乌防长赫马拉汇报并测试确认，系统已恢复运行。该进展对前线、后勤保障以及防御 无人机 袭击至关重要。（央视新闻） （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "泽连斯基称“星链”和“星盾”在乌运行速度已恢复"
+    },
+    {
      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 14:06:00 GMT",
      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
      "source": "MarketWatch",
      "zh": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some."
+    },
+    {
+     "title": "美财政部发布新版对外投资限制拟议规则 商务部：中方严重关切、坚决反对；美方限制对华投资 也会损害美企自身利益",
+     "link": "http://finance.eastmoney.com/news/1350,202610243907125944.html",
+     "pubDate": "Sat, 24 Oct 2026 22:04:00 +0800",
+     "summary": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问。 问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概",
+     "source": "东方财富股票",
+     "zh": "美财政部发布新版对外投资限制拟议规则 商务部：中方严重关切、坚决反对；美方限制对华投资 也会损害美企自身利益"
+    },
+    {
+     "title": "花胶产业如何在困境中挖掘新机遇？",
+     "link": "http://www.eeo.com.cn/2026/1024/1074914.shtml",
+     "pubDate": "Sat, 24 Oct 2026 22:00:31 +0800",
+     "summary": "中国工程院院士薛长湖认为，在花胶产业发展路径中，科技创新、产品创新、产业创新三者环环相扣，缺一不可。",
+     "source": "经济观察网",
+     "zh": "花胶产业如何在困境中挖掘新机遇？"
     },
     {
      "title": "Berkshire Hathaway, Blackstone in gainers; HSBC, Globe Life among losers: week's financials wrap",
@@ -2337,14 +2425,6 @@
      "zh": "Berkshire shares shake the Buffett blues with new all-time highs"
     },
     {
-     "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907118542.html",
-     "pubDate": "Sat, 24 Oct 2026 20:40:04 +0800",
-     "summary": "在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完",
-     "source": "东方财富资讯",
-     "zh": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？"
-    },
-    {
      "title": "Iran in 'advanced stages' of plans to target US officials in Middle East",
      "link": "https://seekingalpha.com/news/4656927-iran-advanced-stages-plans-target-us-officials-middle-east?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 08:36:31 -0400",
@@ -2353,36 +2433,12 @@
      "zh": "Iran in 'advanced stages' of plans to target US officials in Middle East"
     },
     {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 12:30:00 GMT",
-     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-     "source": "MarketWatch",
-     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-    },
-    {
-     "title": "10月24日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907118119.html",
-     "pubDate": "Sat, 24 Oct 2026 20:29:05 +0800",
-     "summary": "今日摘要 习近平向2026全球治理论坛（雄安）致信。 党的十八大以来，以习近平同志为核心的党中央从巩固党的执政地位、实现中华民族伟大复兴的战略高度，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面，团结带领全党在新的长征路上奋力创造新的辉煌。 习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话引发全军官兵热烈反响。 王沪宁陪同朝鲜最高领导人访问丹东。 李希出席二十届中央第八轮巡视工作动员部署会。 全国秋粮收获进度已过八成。 国际人士积极评价习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话。 内容速览 习近平向2026全球治理论坛（雄安）致信 10月23日，",
-     "source": "东方财富资讯",
-     "zh": "10月24日晚间央视新闻联播要闻集锦"
-    },
-    {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
      "link": "https://wallstreetcn.com/articles/3784398",
      "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
      "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
      "source": "华尔街见闻",
      "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
-    },
-    {
-     "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907116474.html",
-     "pubDate": "Sat, 24 Oct 2026 19:44:44 +0800",
-     "summary": "问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境",
-     "source": "东方财富资讯",
-     "zh": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问"
     },
     {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -2425,68 +2481,12 @@
      "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
     },
     {
-     "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
-     "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
-     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只ETF份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
-     "source": "东方财富资讯",
-     "zh": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！"
-    },
-    {
-     "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907105225.html",
-     "pubDate": "Sat, 24 Oct 2026 18:38:36 +0800",
-     "summary": "10月24日， 小鹏集团 副总裁于涛在社交平台账号“托马斯电火车”上发布长文，回应小鹏MONA产品经理恩塔发布会“老登”用词事件全过程。他表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户，“几位‘老登’没一个不悦，反而在内部反复表扬”。 “真正的互联网同学文化，可能不是其它企业上下有别等级森严，而是年轻人敢开老板玩笑的松弛， 后来的致歉视频，是恩塔主动提的。她看到有没完整看直播的朋友产生误解，觉得是自己措辞有疏漏，才主动拍了视频解释原委。”他写道。 “老登并不让人反感，老登并不让人反感，有些人的登味儿才让人厌恶，少一些对00后的口诛笔伐。”他表示",
-     "source": "东方财富资讯",
-     "zh": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应"
-    },
-    {
-     "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade",
-     "link": "https://seekingalpha.com/news/4656653-vibe-theft-auto-anthropic-opus-gta-6-and-a-potential-fade-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 06:30:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade"
-    },
-    {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Sat, 24 Oct 2026 18:02:27 +0800",
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
-    },
-    {
-     "title": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”",
-     "link": "https://wallstreetcn.com/articles/3784395",
-     "pubDate": "Sat, 24 Oct 2026 17:34:18 +0800",
-     "summary": "马斯克与民主党之间的政治对决正在急剧升温。随着美国国会中期选举临近，民主党人已公开放话，一旦夺回国会控制权，将对马斯克发起全面国会调查，并祭出被外界称为“史上最大规模传票”的法律手段。马斯克则以强硬姿态回击，誓言反击到底，并正斥资数亿美元力保共和党守住国会席位。 据媒体报道，民主党正筹备对马斯克旗下企业及其政府活动展开大规模国会调查，调查范围涵盖其联邦政府合同、领导\"政府效率部\"（DOGE）期间的相关行为，以及涉嫌干预乌克兰军事通信等多项指控。 纽约大学教授Scott Galloway在其播客节目中预言：\"11月4日之后，你将看到史上最大规模的传票和国会听证要求砸向他。\"资深科技记者、马斯克批",
-     "source": "华尔街见闻",
-     "zh": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”"
-    },
-    {
-     "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907101111.html",
-     "pubDate": "Sat, 24 Oct 2026 17:18:26 +0800",
-     "summary": "当地时间本周五(10月23日)，美国能源部宣布，已根据《2020年能源法》将氦气认定为关键材料，以加强美国制造业和供应链安全。 美国能源部作出的这一决定，使氦气成为了该机构指定的第20种关键材料，并将这种 工业气体 纳入《2020年能源法》的关键材料框架，包括接受更严格的政府监管。 (美国能源部关键材料清单) 美国能源部长克里斯·赖特在一份声明中写道：“特朗普总统正在重振美国的制造业，这意味着我们要确保拥有再次在美国本土制造产品所需的材料。” 赖特称，“ 氦气对于生产推动美国经济发展的 半导体 和先进技术至关重要 。通过将氦气指定为关键材料，我们朝着保障供应链安全、创造美国就业岗位以及确保美国",
-     "source": "东方财富资讯",
-     "zh": "攸关半导体生产！美国能源部将氦气认定为关键材料"
-    },
-    {
-     "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
-     "link": "https://wallstreetcn.com/articles/3784391",
-     "pubDate": "Sat, 24 Oct 2026 17:00:00 +0800",
-     "summary": "近日，亚马逊CEO安迪·贾西（Andy Jassy）作客知名风投a16z的播客节目，与a16z联合创始人Ben Horowitz进行了一场深度对谈。在这场访谈中，贾西全面揭示了亚马逊在生成式AI浪潮下的战略全景。 面对华尔街对科技巨头无底洞般资本支出的担忧，贾西给出了最直接的市场反馈：需求不仅没有放缓，反而正在极速透支未来的产能。同时，他详细拆解了目前AI市场的“杠铃型”需求结构，并明确指出，要真正解锁企业级的AI应用，算力推理成本还必须再降一个数量级。 “即使砸下2200亿美元，我们仍把大量需求留在了桌面上” 市场当前最关注的核心问题，是巨头们动辄千亿的资本支出是否会变成过剩的沉没成本。贾西",
-     "source": "华尔街见闻",
-     "zh": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求"
-    },
-    {
-     "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-     "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
-     "pubDate": "Sat, 24 Oct 2026 06:23:02 GMT",
-     "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
-     "source": "CNBC",
-     "zh": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests"
     }
    ]
   },

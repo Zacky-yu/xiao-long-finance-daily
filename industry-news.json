@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 20:31:55",
+ "generated_at": "2026/10/24 20:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -225,14 +225,6 @@
      "zh": "Securing our frontier model training environment"
     },
     {
-     "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
-     "link": "https://www.qbitai.com/2026/10/505083.html",
-     "pubDate": "Fri, 23 Oct 2026 09:21:41 +0000",
-     "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
-     "source": "量子位",
-     "zh": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力"
-    },
-    {
      "title": "刚刚，何刚升职！成华为第17位董事",
      "link": "https://zhidx.com/p/604116.html",
      "pubDate": "Fri, 23 Oct 2026 17:20:37 +0800",
@@ -241,12 +233,20 @@
      "zh": "刚刚，何刚升职！成华为第17位董事"
     },
     {
-     "title": "企业AI需要两个世界模型",
-     "link": "https://www.qbitai.com/2026/10/505032.html",
-     "pubDate": "Fri, 23 Oct 2026 09:07:25 +0000",
-     "summary": "特赞想让企业Agent真正懂业务",
+     "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+     "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+     "pubDate": "Fri, 23 Oct 2026 08:58:47 +0000",
+     "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic",
+     "source": "MarkTechPost",
+     "zh": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents"
+    },
+    {
+     "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+     "link": "https://www.qbitai.com/2026/10/504901.html",
+     "pubDate": "Fri, 23 Oct 2026 07:35:51 +0000",
+     "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
      "source": "量子位",
-     "zh": "企业AI需要两个世界模型"
+     "zh": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径"
     }
    ]
   },
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+     "link": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+     "pubDate": "Sat, 24 Oct 2026 12:34:27 +0000",
+     "summary": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale. The post Eka Robotics raises $150M to scale its vision-force-action model for robots appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Eka Robotics raises $150M to scale its vision-force-action model for robots"
+    },
+    {
      "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
      "link": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
      "pubDate": "Fri, 23 Oct 2026 20:06:28 +0000",
@@ -609,14 +617,6 @@
      "zh": "A guide to Day 2 of RoboBusiness 2026"
     },
     {
-     "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
-     "link": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
-     "pubDate": "Tue, 20 Oct 2026 19:40:05 +0000",
-     "summary": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers. The post Reservoir launches new agricultural robotics incubator for Washington growers appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Reservoir launches new agricultural robotics incubator for Washington growers"
-    },
-    {
      "title": "ACM SIGAI Autonomous Agents Award 2027 open for nominations",
      "link": "https://robohub.org/acm-sigai-autonomous-agents-award-2027-open-for-nominations/",
      "pubDate": "Tue, 20 Oct 2026 10:37:56 +0000",
@@ -648,6 +648,14 @@
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "China has about 15 million passenger cars with NOA as driver assistance adoption expands",
+     "link": "https://cnevpost.com/2026/10/24/china-15-million-cars-with-noa/",
+     "pubDate": "Sat, 24 Oct 2026 12:29:35 +0000",
+     "summary": "About 61 million passenger cars in China had L2 driver assistance features as of August, including about 15 million equipped with NOA. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "China has about 15 million passenger cars with NOA as driver assistance adoption expands"
+    },
     {
      "title": "GM's Future Cars Will Be Very Different. Here's Everything We Learned",
      "link": "https://insideevs.com/news/813137/general-motors-ev-ai-battery-strategy/",
@@ -785,14 +793,6 @@
      "zh": "Chery considers local production in Canada, plans sales launch in 2027"
     },
     {
-     "title": "Arcfox opens pre-sales for 2027 Alpha S5 with standard LiDAR, starting at about $18,130",
-     "link": "https://cnevpost.com/2026/10/23/arcfox-pre-sales-2027-alpha-s5/",
-     "pubDate": "Fri, 23 Oct 2026 08:41:25 +0000",
-     "summary": "The 2027 Arcfox Alpha S5 sedan starts at 121,800 yuan ($18,130) in pre-sales and offers a CLTC range of up to 750 km. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Arcfox opens pre-sales for 2027 Alpha S5 with standard LiDAR, starting at about $18,130"
-    },
-    {
      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
      "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
      "pubDate": "Thu, 22 Oct 2026 21:05:05 +0000",
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Renewable Energy India Expo 2026: Three key takeaways",
+     "link": "https://www.pv-magazine.com/2026/10/24/renewable-energy-india-expo-2026-three-key-takeaways/",
+     "pubDate": "Sat, 24 Oct 2026 12:43:58 +0000",
+     "summary": "India’s largest renewable energy trade show returned to Greater Noida, outside of Delhi, this week. At the three day event, pv magazine took in a national solar industry that has reached enormous proportions, and continues to grow with huge investments still going into building new solar installatio",
+     "source": "pv magazine",
+     "zh": "Renewable Energy India Expo 2026: Three key takeaways"
+    },
+    {
      "title": "Gritt Robotics brings AI-assisted robotics to bolster shrinking solar workforce",
      "link": "https://www.pv-magazine.com/2026/10/24/gritt-robotics-brings-ai-assisted-robotics-to-bolster-shrinking-solar-workforce/",
      "pubDate": "Sat, 24 Oct 2026 09:30:00 +0000",
@@ -879,14 +887,6 @@
      "summary": "A European research consortium is developing glass-free photovoltaic modules using fiber-reinforced polymer composites. The technology could enable lighter solar modules for curved and complex surfaces, including vehicles, ships and infrastructure. The project aims to demonstrate industrial feasibil",
      "source": "pv magazine",
      "zh": "Glass-free European photovoltaic modules for vehicles, noise barriers and boats"
-    },
-    {
-     "title": "Vietnam orders provinces to introduce rooftop solar incentives by December 2026",
-     "link": "https://www.pv-magazine.com/2026/10/24/vietnam-orders-provinces-to-introduce-rooftop-solar-incentives-by-december-2026/",
-     "pubDate": "Sat, 24 Oct 2026 07:30:00 +0000",
-     "summary": "Vietnam has instructed provincial and municipal authorities to introduce support policies for residential rooftop solar installations by the end of December 2026, as part of efforts to secure electricity supplies between 2027 and 2030. The government is also pushing for faster deployment of battery ",
-     "source": "pv magazine",
-     "zh": "Vietnam orders provinces to introduce rooftop solar incentives by December 2026"
     },
     {
      "title": "US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them",
@@ -1753,12 +1753,60 @@
    "total": 18,
    "items": [
     {
+     "title": "爱国者推出星璨大岚智能中控机箱：配 6.5 英寸触摸屏，黑白双色均售 599 元",
+     "link": "https://www.ithome.com/1/017/499.htm",
+     "pubDate": "Sat, 24 Oct 2026 12:45:22 GMT",
+     "summary": "IT之家 10 月 24 日消息，爱国者现已在京东上架星璨大岚智能中控机箱，该产品提供黑白双色可选，定价为 599 元。 京东 爱国者 星璨大岚 智能中控机箱 599 元 直达链接 该机箱尺寸为 470x235x503mm，兼容 ATX、M-ATX 以及 ITX 主板，整体采用机械金属风 ATX 海景房设计，具备 270° 全景展示视角。机箱配备一块 6.5 英寸触摸屏，该屏幕可作为桌面调控台，支持桌面与机箱灯光一键全局切换。用户能通过屏幕进行软件联动操作与音乐可视化，自定义显示图片、视频或动态壁纸，并支持多主题软件生态拓展。 该机箱 CPU 散热器限高 172mm、显卡限长达到 430mm，",
+     "source": "IT之家",
+     "zh": "爱国者推出星璨大岚智能中控机箱：配 6.5 英寸触摸屏，黑白双色均售 599 元"
+    },
+    {
+     "title": "Meta：主业“松了口气”，Muse 的细账还悬着？",
+     "link": "https://www.huxiu.com/article/4900189.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 20:41:01 +0800",
+     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《Meta：主业 “松了口气”，Muse 的细账还悬着？》 大家好，我是海豚君！ 和上季度的尴尬答卷相比，这次Meta交出了一份让资金松了口气的成绩单：主业收入、剔除一次性费用后的利润、四季度指引全面超预期；短期支出上也没有因为Muse给出夸张的指引。 不过这次对市场同样非常关心的27年指引问题，定量数字说得不多。同时股权融资预期也会让多头资金在乐观预期下保持一份清醒。 Meta一般在电话会之后还会做一个call back小会，海豚君稍后看看是否有增量的重要信息，纪要也会整理出来，感兴趣可以关注我们的社区动态。 具体来看核心要点： 1.",
+     "source": "虎嗅",
+     "zh": "Meta：主业“松了口气”，Muse 的细账还悬着？"
+    },
+    {
+     "title": "亚马逊CEO 深度访谈：一年砸下2200亿美元，为什么算力依然不够用？",
+     "link": "https://www.huxiu.com/article/4900187.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 20:33:23 +0800",
+     "summary": "本文来自微信公众号： AGI 2050 ，作者：AGI 2050，原文标题：《亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？》 全球科技产业正在经历一场前所未有的基础设施扩建。当资本市场还在争论算力投资是否过热时，全球最大云计算平台AWS的母公司亚马逊给出了一个明确的指引：2026年单年资本支出预计将达2200亿美元。 这个体量已经超过了绝大多数跨国巨头的资产规模。然而在亚马逊现任CEO安迪·贾西眼中，即便投入如此庞大的资金，算力供给依然跟不上需求——2026年与2027年的产能已基本售罄，甚至2028年的很大一部分配额也已被锁定。 贾西是AWS的实际缔造者，也是",
+     "source": "虎嗅",
+     "zh": "亚马逊CEO 深度访谈：一年砸下2200亿美元，为什么算力依然不够用？"
+    },
+    {
+     "title": "Kimi 发布K3.1 Pro，加量降价挑战Opus5.5",
+     "link": "https://www.huxiu.com/article/4900186.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 20:31:26 +0800",
+     "summary": "本文来自微信公众号： 极客公园 ，作者：宇航猿，编辑：靖宇，原文标题：《Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5》 K3.1 Pro的版本号只往前挪了0.1，月之暗面想回答的问题却大得多。 10月23日上午，Kimi官方在X和视频号上发了一段24秒的视频。 画面里是一台复古风格的老式电脑，屏幕上开着Kimi Code，终端里一行行地写着Three.js代码，在生成一个复杂的3D场景。眼尖的网友很快在左上角的模型栏里找到了答案——「Model:Kimi K3.1」。 Kimi官方发布的K3.1预热视频｜图片来源：X@Kimi_Moonshot 用一台老古董般的机器，跑一段",
+     "source": "虎嗅",
+     "zh": "Kimi 发布K3.1 Pro，加量降价挑战Opus5.5"
+    },
+    {
+     "title": "小米推出 24.5 英寸 REDMI 显示器 G25 2027：1080p 300Hz，799 元",
+     "link": "https://www.ithome.com/1/017/498.htm",
+     "pubDate": "Sat, 24 Oct 2026 12:30:11 GMT",
+     "summary": "IT之家 10 月 24 日消息，小米 REDMI 显示器 G25 300Hz 2027 已经上架京东并开售，售价显示为 799 元。 京东 小米 REDMI 显示器 G25 2027 原生 280Hz 高刷 1ms Fast IPS HDR400 硬件低蓝光 799 元 直达链接 IT之家从商品页面获悉，这款显示器采用了 24.5 英寸 1080P IPS 快速液晶屏，支持原生 300Hz 高刷、1ms GTG 响应时间，支持 FreeSync Premium 自适应刷新率，典型亮度 400nits，覆盖 100% sRGB、93% DCI-P3 色域，支持硬件级低蓝光，通过 Display",
+     "source": "IT之家",
+     "zh": "小米推出 24.5 英寸 REDMI 显示器 G25 2027：1080p 300Hz，799 元"
+    },
+    {
      "title": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元",
      "link": "https://www.ithome.com/1/017/497.htm",
      "pubDate": "Sat, 24 Oct 2026 12:23:19 GMT",
      "summary": "IT之家 10 月 24 日消息，小米米家钛保温杯茶水分离版 500ml 现已在京东发售，新品主打茶水分离设计，可选月光银、深空灰两种配色，定价 219 元。 京东 米家钛保温杯 茶水分离版 219 元 直达链接 据介绍，该产品的杯体、滤网和杯盖内衬片均为纯钛材质。用户倒置杯体即可让水流入茶仓；回正杯体茶水随即分离，随心掌控浓淡。 IT之家注意到，该产品配备可拆卸滤网，杯体不含双酚 A，拆下即可清洗。茶仓可拆下作为日常保温杯使用。可选深空灰、月光银两种配色，搭配 500ml 实用容量，兼顾泡茶和日常饮水。 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。",
      "source": "IT之家",
      "zh": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元"
+    },
+    {
+     "title": "mRNA肿瘤疫苗大分歧",
+     "link": "https://www.huxiu.com/article/4900182.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 20:22:03 +0800",
+     "summary": "本文来自微信公众号： 氨基观察 ，作者：氨基君 mRNA肿瘤疫苗可能改写秩序。在ESMO数据公布之前，一位医药圈资深从业人士这样告诉氨基君。 某种程度上，这是mRNA肿瘤疫苗狂热的缩影。随着V940联用K药治疗黑色素瘤三期阳性临床结果的公布，市场预期被迅速打高。 不只是国内，华尔街也是如此，Moderna的市值，也在短期内冲击千亿美元。但目前来看，可能没有那么乐观。至少，分歧客观存在。 10月23日，原定于2026年ESMO大会上以oral形式公布的INTerpath-001研究结果，被提前泄露。这直接导致Moderna一度暴跌超20%，蒸发了200多亿美金。 当然，目前的数据还不足以为INT",
+     "source": "虎嗅",
+     "zh": "mRNA肿瘤疫苗大分歧"
     },
     {
      "title": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元",
@@ -1801,20 +1849,12 @@
      "zh": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable"
     },
     {
-     "title": "倍思为苹果 iPhone Duo 推出卡片磁吸 Air 移动电源：7.5W 无线 +25W 有线，5000mAh 售 374 元",
-     "link": "https://www.ithome.com/1/017/492.htm",
-     "pubDate": "Sat, 24 Oct 2026 11:56:34 GMT",
-     "summary": "IT之家 10 月 24 日消息，倍思现已在京东上架一款卡片磁吸 Air 移动电源，该产品最大的特点是适配了苹果 iPhone Duo 尺寸，其内置 5000mAh 电芯，定价为 374 元。 京东 倍思卡片磁吸 Air 移动电源 券后 374 元 点此访问 该机尺寸为 85x81x7.9mm，整体重量 120g，支持 7.5W 无线输出和 25W USB-C 有线输出，电芯通过新国标认证，可通过手机 NFC 查看电芯健康度信息。 IT之家附产品参数： 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 ",
-     "source": "IT之家",
-     "zh": "倍思为苹果 iPhone Duo 推出卡片磁吸 Air 移动电源：7.5W 无线 +25W 有线，5000mAh 售 374 元"
-    },
-    {
-     "title": "比亚迪方程豹钛 9 车型 11 月 15 日后上市，SHARK 鲨鱼皮卡紧随其后",
-     "link": "https://www.ithome.com/1/017/491.htm",
-     "pubDate": "Sat, 24 Oct 2026 11:53:21 GMT",
-     "summary": "IT之家 10 月 24 日消息，10 月 22 日，比亚迪集团-方程豹事业部总经理熊甜波公布新车的进度。 据其透露，方程豹钛 9 车型会在 11 月 15 日后正式上市。团队会提前备好现车，让用户提车不用长时间等待。同时展车、试驾车会在 10 月底陆续到。此外，SHARK 鲨鱼皮卡，在钛 9 发布之后，计划 11 月底 —12 月初上市同步交付。 方程豹钛 9 据此前官方介绍，钛 9 是方程豹品牌旗下钛系列的第三款车型，定位科技新奢旗舰 SUV。采用 2+2+2 大六座布局，车身尺寸为 5270x1999x1880mm，达到全尺寸级别，依托 3130mm 超长轴距和方盒子造型带来的高空间利用",
-     "source": "IT之家",
-     "zh": "比亚迪方程豹钛 9 车型 11 月 15 日后上市，SHARK 鲨鱼皮卡紧随其后"
+     "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+     "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+     "pubDate": "Sat, 24 Oct 2026 11:50:28 +0000",
+     "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+     "source": "Ars Technica",
+     "zh": "A 1,000-mile cloud on Mars may reveal physics never seen in nature"
     },
     {
      "title": "李建杰：三季度经济“U型”回升，但传导机制仍待疏通",
@@ -1823,14 +1863,6 @@
      "summary": "本文来自微信公众号： IPP评论 ，作者：李建杰 导语：10月19日，国家统计局公布2026年前三季度国民经济运行数据。初步核算，前三季度国内生产总值（GDP）达107.1万亿元，按不变价格计算，同比增长4.6%。其中，三季度当季增长4.5%，较二季度回升0.2个百分点，季调环比增长1.2%，年内走出一条“U型”曲线。9月单月，出口、工业、消费、投资四大口径同步改善，实现全年增长目标已基本无虞。 然而，总量企稳的背面，是生产与需求、盈利与投资、收入与信心之间依然存在的三重结构性“温差”。本轮回升的内生动力是否稳固？内需（尤其是投资）的疲弱症结何在？价格信号的“冷热不均”折射出怎样的供求矛盾？科",
      "source": "虎嗅",
      "zh": "李建杰：三季度经济“U型”回升，但传导机制仍待疏通"
-    },
-    {
-     "title": "小酒馆走到分岔口，留下来的玩家靠什么走得更远？",
-     "link": "https://www.huxiu.com/article/4900175.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 19:37:19 +0800",
-     "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：倩君 越难做，越要先想清楚自己是谁。 前段时间，茶颜悦色旗下小酒馆“昼夜诗酒茶”宣布闭店消息，引发不少关注，而这也再次将小酒馆这门生意拉回大众视野。 小酒馆一度被视为年轻消费市场的新风口，围绕它展开的“微醺”、“情绪价值”等新消费表达，契合了年轻人对理想生活方式的向往，也让这门生意充满想象空间，吸引一批餐饮巨头和个人创业者纷纷入局。 但随着热潮退去，小酒馆的另一面开始显现。这门生意高度依赖熟人关系，需要持续的圈层运营和情感维系来支撑复购，而新入局者往往既没有现成的熟客基本盘，又缺乏长期运营的耐心，单靠装修风格和概念包装，很难持续地做下去。",
-     "source": "虎嗅",
-     "zh": "小酒馆走到分岔口，留下来的玩家靠什么走得更远？"
     },
     {
      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
@@ -1844,33 +1876,9 @@
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 30 # Comments: 0",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 36 # Comments: 3",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
-    },
-    {
-     "title": "美国版“我不是药神”：一个美国儿子的上海买药之旅",
-     "link": "https://www.huxiu.com/article/4900173.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 19:15:18 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：李佳 还记得徐峥主演的《我不是药神》吗？电影里，经营印度神油生意的程勇，意外踏上了从印度代购白血病仿制药的道路，帮助许多买不起正版药的患者“续命”。 现实中，一场相似的故事正在反方向上演。 一名住在曼哈顿的60岁女性，确诊了一种罕见肺癌，癌细胞已经扩散到大脑，长出了10个微小肿瘤。纽约顶尖癌症中心给不出令她满意的治疗方案，临床试验也将她拒之门外。 就在这时，有医生对她的儿子说了一句话：“要是她是中国人就好了，去中国药店就能买到。” 于是，这名30岁的美国儿子订下飞往上海的机票，最终带回26盒抗癌药，花费约1万美元。 这不是电影情节，而是美国健康新闻媒体",
-     "source": "虎嗅",
-     "zh": "美国版“我不是药神”：一个美国儿子的上海买药之旅"
-    },
-    {
-     "title": "70.1%，深圳在买什么",
-     "link": "https://www.huxiu.com/article/4900171.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 19:11:21 +0800",
-     "summary": "本文来自微信公众号： 格隆 ，作者：独行侠，原文标题：《70.1%！深圳在买什么》 数据支持|勾股大数据（www.gogudata.com） 最近，深圳海关刚放出来的前三季度外贸成绩单，在产业和财经圈悄悄刷了屏。 前三季度，进出口总额4.65万亿元，同比大增38.8%，直接超过2025年全年水平，创历史新高。 其中，出口2.41万亿元，同比增长18.5%；进口2.24万亿元，同比大增70.1%。 （2026年经深圳海关申报进出口月度统计图，来源：深圳海关官网） 4.65万亿，这个总额在内地城市第一的位置继续坐稳，本来就在市场预期之内，但真正让不少人意外的，是进口端70.1%的同比增速，几乎是出",
-     "source": "虎嗅",
-     "zh": "70.1%，深圳在买什么"
-    },
-    {
-     "title": "万象城的餐饮为什么这么火",
-     "link": "https://www.huxiu.com/article/4900170.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 19:10:27 +0800",
-     "summary": "本文来自微信公众号： 餐企老板内参 ，作者：罗欣 平均排队2小时以上 餐饮先“爆”了 白鹅潭万象城，自开业来就成为了广州的话题中心。 国庆七天，涌进近170万人次。10月1日单日28.7万人次，逼近这座商场30万人次的设计上限。芳村地铁站进站客流排到广州全网第二，仅次于广州南站，站方一度启动飞站限流。 10月的周末，内参君来到白鹅潭万象城探店，发现这里的餐饮店摩肩接踵，非常火爆。大部分餐厅都要排队2小时以上，中午1点左右很多餐厅都已经取不到号了。其中最火爆的喜茶cake lab+店，排队上百号人，店员表示要排队约4小时。广西菜品牌嬷冉的店员告诉内参君，周六下午4点才放号，三点门口就已经排满长队",
-     "source": "虎嗅",
-     "zh": "万象城的餐饮为什么这么火"
     },
     {
      "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
@@ -1881,10 +1889,18 @@
      "zh": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot"
     },
     {
+     "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+     "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+     "pubDate": "Sat, 24 Oct 2026 11:00:09 +0000",
+     "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+     "source": "Ars Technica",
+     "zh": "Ice sheet expansion may have started 2,000 years ago, but we canceled that"
+    },
+    {
      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
      "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
-     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 7 # Comments: 0",
      "source": "Hacker News",
      "zh": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706"
     },
@@ -1972,25 +1988,9 @@
      "title": "I Don't Understand Quantum Physics (2018)",
      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 97 # Comments: 60",
+     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 110 # Comments: 75",
      "source": "Hacker News",
      "zh": "I Don't Understand Quantum Physics (2018)"
-    },
-    {
-     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-     "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-     "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
-     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 36 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps"
-    },
-    {
-     "title": "A look at OpenAI&apos;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)",
-     "link": "https://www.techmeme.com/261024/p2#a261024p2",
-     "pubDate": "Sat, 24 Oct 2026 02:35:01 -0400",
-     "summary": "Thomas Brewster / Forbes : A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more.&nbsp; &mdash;&nbsp; Using the l",
-     "source": "Techmeme",
-     "zh": "A look at OpenAI&apos;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)"
     }
    ]
   },
@@ -2000,6 +2000,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How to improve your PC's airflow for better cooling",
+     "link": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
+     "pubDate": "Sat, 24 Oct 2026 12:45:00 +0000",
+     "summary": "Here's how to think about your PC's fans.",
+     "source": "Engadget",
+     "zh": "How to improve your PC's airflow for better cooling"
+    },
+    {
+     "title": "How long is too long for an HDMI cable?",
+     "link": "https://www.engadget.com/2290438/how-long-should-hdmi-cable-be-maximum-length/",
+     "pubDate": "Sat, 24 Oct 2026 12:30:00 +0000",
+     "summary": "An HDMI cable doesn't have an exact usable length, but shorter is always better for more complex uses.",
+     "source": "Engadget",
+     "zh": "How long is too long for an HDMI cable?"
+    },
     {
      "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
      "link": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
@@ -2145,14 +2161,6 @@
      "zh": "Apple’s official DIY repair guides for the iPhone Duo now available"
     },
     {
-     "title": "OpenAI says it's cutting off internet access for frontier model training",
-     "link": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
-     "pubDate": "Fri, 23 Oct 2026 22:37:02 +0000",
-     "summary": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
-     "source": "Engadget",
-     "zh": "OpenAI says it's cutting off internet access for frontier model training"
-    },
-    {
      "title": "Gemini for Android rolls out side panel and settings redesign",
      "link": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
      "pubDate": "Fri, 23 Oct 2026 22:02:00 +0000",
@@ -2231,14 +2239,6 @@
      "summary": "Rising memory prices continue to weigh on the global smartphone market, with shipments in China alone falling 10% year over year in Q3. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3"
-    },
-    {
-     "title": "Samsung extends its Certified Re-Newed program to Amazon US",
-     "link": "https://www.gsmarena.com/samsung_extends_its_certified_renewed_program_to_amazon_us-news-75189.php",
-     "pubDate": "Fri, 23 Oct 2026 21:21:02 +0200",
-     "summary": "Samsung has put a new twist on its Certified Re-Newed program – the refurbished phones are now also available on Amazon.com in the US. Previously, you could only get them from Samsung itself. This is the store page on Amazon where you can browse all models (well, not all – see below). We’ve also pre",
-     "source": "GSMArena",
-     "zh": "Samsung extends its Certified Re-Newed program to Amazon US"
     }
    ]
   },
@@ -2248,6 +2248,22 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Iran in 'advanced stages' of plans to target US officials in Middle East",
+     "link": "https://seekingalpha.com/news/4656927-iran-advanced-stages-plans-target-us-officials-middle-east?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 08:36:31 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Iran in 'advanced stages' of plans to target US officials in Middle East"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 12:30:00 GMT",
+     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+     "source": "MarketWatch",
+     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+    },
     {
      "title": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
      "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
@@ -2263,22 +2279,6 @@
      "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
      "source": "CNBC",
      "zh": "Why popular airplanes are getting scrapped years early"
-    },
-    {
-     "title": "中国驻欧盟使团介绍中国绿色发展及中欧绿色合作",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907117270.html",
-     "pubDate": "Sat, 24 Oct 2026 20:13:14 +0800",
-     "summary": "中国驻欧盟使团近日在法国斯特拉斯堡举办“中国大讲堂”系列讲座第四讲，特邀原中国气候变化事务特使解振华围绕“中国的绿色发展及中欧绿色合作”举行专题讲座。 活动由中国驻欧盟使团团长蔡润主持，中国驻斯特拉斯堡总领事潘昱旻出席。欧洲议会议员、欧盟有关机构官员，有关国家驻欧盟及法国外交官、地方政府官员、 教育 机构、企业及媒体智库代表等120余人参加。 解振华系统介绍了当前全球面临的气候变化与环境挑战，深入解读了中国绿色转型成就及气候、能源等领域治理实践，展望了中欧绿色合作的广阔前景，并现场回答了与会人员的提问。 蔡润表示，绿色是中欧合作的鲜明底色。中方希望同欧方相向而行，坚持伙伴关系定位，坚持合作主基",
-     "source": "东方财富股票",
-     "zh": "中国驻欧盟使团介绍中国绿色发展及中欧绿色合作"
-    },
-    {
-     "title": "财报透视｜永鼎股份Q3归母净利大增逾21倍，光纤市场量价齐升",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907117419.html",
-     "pubDate": "Sat, 24 Oct 2026 20:00:18 +0800",
-     "summary": "10月23日，江苏 永鼎股份 有限公司（600105.SH，简称“ 永鼎股份 ”）披露2026年第三季度报告。 公司第三季度实现归属于上市公司股东的净利润2.39亿元，同比增长2165.42%。 财报显示， 永鼎股份 第三季度实现营业收入20.91亿元，同比增长52.56%；利润总额2.78亿元，同比增长1386.49%； 归属于上市公司股东的净利润2.39亿元，同比增长2165.42%；扣除非经常性损益的净利润2.37亿元，同比增长3744.36%； 基本每股收益0.164元。 前三季度，公司实现营业收入54.30亿元，同比增长49.57%；归属于上市公司股东的净利润7.43亿元，同比增长1",
-     "source": "东方财富股票",
-     "zh": "财报透视｜永鼎股份Q3归母净利大增逾21倍，光纤市场量价齐升"
     },
     {
      "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
@@ -2297,44 +2297,12 @@
      "zh": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
     },
     {
-     "title": "俄军打击乌能源等设施 击落1297架固定翼无人机",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907117187.html",
-     "pubDate": "Sat, 24 Oct 2026 19:57:22 +0800",
-     "summary": "俄罗斯国防部24日发布通报说，过去24小时内，俄军对乌军使用的能源和交通基础设施等目标实施打击，并击落1297架固定翼 无人机 。 通报说，俄军战役战术航空兵、攻击型 无人机 、导弹部队和炮兵对乌军使用的能源和交通基础设施、远程 无人机 存储和发射地点，以及乌克兰武装部队和外国雇佣兵临时部署点实施打击。俄防空系统击落1枚法国“斯卡普”巡航导弹、4枚“海王星”远程导弹和1297架固定翼无人机。 此外，俄军23日夜间继续使用无人机打击乌克兰 港口 基础设施和为乌军服务的船只，击中敖德萨州切尔诺莫斯克港内一处无人艇生产车间，并在海上击中一艘运送乌军保障物资的干货船。 通报称，自特别军事行动开始以来，",
-     "source": "东方财富股票",
-     "zh": "俄军打击乌能源等设施 击落1297架固定翼无人机"
-    },
-    {
-     "title": "蔚来两项AI成果入选“汽车人工智能应用十大案例”",
-     "link": "http://stock.eastmoney.com/news/11231,202610243907117572.html",
-     "pubDate": "Sat, 24 Oct 2026 19:56:56 +0800",
-     "summary": "10月23日，2026世界智能网联 汽车 大会正式发布了“2026 汽车 人工智能 应用十大案例”。“ 蔚来 世界模型 NWM”与“ 蔚来 车边云协同的天瞳天探整车AI质检平台”双双入选，分别成为AI赋能 汽车 驾驶自动化与汽车研发生产智能化的代表性实践。 “ 蔚来 世界模型 NWM”依托“世界模型+监督微调+闭环强化学习”三层训练框架，在选路准确性及误刹车、风险干预等指标上做到行业领先，并支持园区、地下停车场、潮汐车道、可变车道等多元场景通行，已实现在多品牌、多平台车型上的规模化量产落地。 蔚来“天瞳天探”整车AI质检平台创新采用车端自主执行、边端实时感知、云端统筹调度的协同架构，并将车辆自",
-     "source": "东方财富股票",
-     "zh": "蔚来两项AI成果入选“汽车人工智能应用十大案例”"
-    },
-    {
-     "title": "灵基落地“跑出”实效 AI正驶入企业经营管理深水区",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907117358.html",
-     "pubDate": "Sat, 24 Oct 2026 19:56:02 +0800",
-     "summary": "新华财经北京10月24日电（记者沈寅飞） 当前， 人工智能 正在从通用工具走向企业经营管理的“深水区”。如何跳出单点提效，实现业务全链路价值释放，成为实体经济数字化转型的重要命题。 10月23日，2026全球创见者大会在北京举行，大会以AI原生组织为核心议题，发布企业智能体操作系统灵基新一轮能力，以规模化客户实践，为国内实体企业AI转型提供可参考路径。 业内人士指出，国内大中型企业AI采纳率已处于高位，但绝大多数项目仍停留在试点探索，真正完成业务闭环、深度融入核心经营流程的企业占比仍然有限，AI转型正从“谈技术”转向“看实效”的新阶段。 灵基付费用户已达3706家 AI落地走向业务深水区 “真",
-     "source": "东方财富股票",
-     "zh": "灵基落地“跑出”实效 AI正驶入企业经营管理深水区"
-    },
-    {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
      "link": "https://wallstreetcn.com/articles/3784398",
      "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
      "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
      "source": "华尔街见闻",
      "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
-    },
-    {
-     "title": "六连板！002724，紧急提示：股价随时有快速回落风险",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907117623.html",
-     "pubDate": "Sat, 24 Oct 2026 19:45:00 +0800",
-     "summary": "股价连续涨停， 海洋王 紧急公告。 10月23日晚间， 海洋王 (002724)披露股票交易异常波动公告，提示股价短期涨幅过大、存在非理性炒作风险，并分别澄清与核电、深海科技等热点概念的关系。 自10月16日以来， 海洋王 已连续6个交易日涨停，累计涨幅达77.41%。 海洋王所处行业最新滚动市盈率为18.05倍，而公司最新滚动市盈率达到179.49倍，近期已3次触发股票交易异常波动情形。 “公司股票短期波动较大，已严重偏离公司基本面，存在市场情绪过热、非理性炒作风险。”海洋王提示投资者，“公司股票10月16日至10月23日换手率分别为8.30%、1.17%、10.85%、0.82%、20.1",
-     "source": "东方财富股票",
-     "zh": "六连板！002724，紧急提示：股价随时有快速回落风险"
     },
     {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -2433,14 +2401,6 @@
      "zh": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求"
     },
     {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 08:00:00 GMT",
-     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-     "source": "MarketWatch",
-     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-    },
-    {
      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
      "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
      "pubDate": "Sat, 24 Oct 2026 06:23:02 GMT",
@@ -2487,6 +2447,46 @@
      "summary": "The reassuringly bourgeois values behind a rebellious generation",
      "source": "Financial Times",
      "zh": "The young are conformists in denial"
+    },
+    {
+     "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
+     "link": "https://seekingalpha.com/news/4656924-global-x-equal-weight-can-insurance-idx-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:32:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend"
+    },
+    {
+     "title": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend",
+     "link": "https://seekingalpha.com/news/4656923-global-x-russell-2000-covered-cll-etf-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:32:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend"
+    },
+    {
+     "title": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend",
+     "link": "https://seekingalpha.com/news/4656922-global-x-20-plusyr-us-treasury-bd-idx-etf-hdgd-unts-declares-cad-0_193-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:31:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend"
+    },
+    {
+     "title": "Global X 3-10 Year U.S. Treas Bd Idx ETF CAD Hdg declares CAD 0.20 dividend",
+     "link": "https://seekingalpha.com/news/4656921-global-x-3minus-10-year-u-s-treas-bd-idx-etf-cad-hdg-declares-cad-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:31:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X 3-10 Year U.S. Treas Bd Idx ETF CAD Hdg declares CAD 0.20 dividend"
+    },
+    {
+     "title": "存储扩产带动薄膜沉积设备放量",
+     "link": "http://www.eeo.com.cn/2026/1024/1074302.shtml",
+     "pubDate": "Sat, 24 Oct 2026 11:21:36 +0800",
+     "summary": "随着存储芯片堆叠层数增加，产线对薄膜沉积设备的需求已经大幅增长。一般而言，堆叠层数翻倍，对应的薄膜沉积设备需求量也会翻倍甚至更多。",
+     "source": "经济观察网",
+     "zh": "存储扩产带动薄膜沉积设备放量"
     }
    ]
   },
@@ -2543,6 +2543,14 @@
      "summary": "A viral infection from millions of years ago may have influenced chimp brain evolution through DNA leftovers in the genome.",
      "source": "Science News",
      "zh": "Why did humans’ brains surpass chimps’? A tiny foe might help explain it"
+    },
+    {
+     "title": "Crows can evaluate visual info twice as fast as mammals",
+     "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+     "pubDate": "Fri, 23 Oct 2026 17:32:58 +0000",
+     "summary": "Birds' compact nervous system seems to help them handle tasks very quickly.",
+     "source": "Ars Technica Science",
+     "zh": "Crows can evaluate visual info twice as fast as mammals"
     },
     {
      "title": "'Most people can't handle driving in 2 dimensions let alone 3': Readers respond to our poll about flying cars",
@@ -2697,22 +2705,6 @@
      "zh": "The ocean’s most abundant “loner” microbe has a sticky second life"
     },
     {
-     "title": "Quantum error correction goes well beyond breakeven",
-     "link": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
-     "pubDate": "Tue, 20 Oct 2026 18:08:57 +0000",
-     "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
-     "source": "Ars Technica Science",
-     "zh": "Quantum error correction goes well beyond breakeven"
-    },
-    {
-     "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-     "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-     "pubDate": "Tue, 20 Oct 2026 05:59:56 +0000",
-     "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-     "source": "Ars Technica Science",
-     "zh": "Japan launches mission to bring home a piece of the Martian moon Phobos"
-    },
-    {
      "title": "Symposium highlights MIT’s wide range of innovations for aging brain health",
      "link": "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019",
      "pubDate": "Mon, 19 Oct 2026 17:15:00 -0400",
@@ -2735,6 +2727,14 @@
      "summary": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
      "zh": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?"
+    },
+    {
+     "title": "Giving AI a “crystal clear” view of the materials world",
+     "link": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+     "pubDate": "Sun, 18 Oct 2026 00:00:00 -0400",
+     "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+     "source": "MIT News",
+     "zh": "Giving AI a “crystal clear” view of the materials world"
     }
    ]
   }

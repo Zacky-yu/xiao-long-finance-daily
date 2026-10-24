@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 15:32:49",
+ "generated_at": "2026/10/24 15:51:55",
  "recent_days": 7,
  "industries": [
   {
@@ -1538,6 +1538,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+     "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+     "pubDate": "Sat, 24 Oct 2026 11:55:57 +0530",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-s",
+     "source": "The Hacker News",
+     "zh": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud"
+    },
+    {
      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
      "pubDate": "Fri, 23 Oct 2026 20:57:56 GMT",
@@ -1690,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches"
     },
     {
-     "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-     "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-     "pubDate": "Fri, 23 Oct 2026 16:41:23 +0530",
-     "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 20",
-     "source": "The Hacker News",
-     "zh": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack"
-    },
-    {
      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
      "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
      "pubDate": "Fri, 23 Oct 2026 10:31:16 +0000",
@@ -1754,12 +1754,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "独特形态全键盘手机 Brax Wink 亮相：主打一键保护隐私和模块化设计",
-     "link": "https://www.ithome.com/1/017/400.htm",
-     "pubDate": "Sat, 24 Oct 2026 07:27:44 GMT",
-     "summary": "IT之家 10 月 24 日消息，现如今的模块化手机大多主打硬件可更换、维修方便，Brax 则为即将推出的新机选择了另一条路线：将隐私保护放在首位。 Brax Wink 采用类似黑莓手机的直板设计， 上方是一块 4 英寸 OLED 屏幕，下方配备实体全键盘 。键盘模块可以拆卸，用户也能将其替换为额外的电池模块。 Wink 搭载基于 Android 开发的 BraxOS 操作系统，移除了谷歌服务。用户无需谷歌账号即可使用，系统也不会为了收集分析数据或投放广告而追踪使用行为。BraxOS 完全开源 ，任何人都可以通过 GitHub 审查源代码。 机身侧面还设有实体隐私开关， 可以关闭整部手机的移动",
+     "title": "OPPO / 一加手机 ColorOS“优行卡”新增支持“琴岛通”交通卡，可在山东青岛享公交地铁乘车优惠",
+     "link": "https://www.ithome.com/1/017/409.htm",
+     "pubDate": "Sat, 24 Oct 2026 07:47:13 GMT",
+     "summary": "IT之家 10 月 24 日消息，OPPO / 一加手机旗下 ColorOS“优行卡”现已支持山东青岛“琴岛通”，可与琴岛通 NFC 卡共存，相应“优行卡”支持 0 元开卡、先乘后付特性，用户无需充值，乘车后车费将从指定账户中代扣。 IT之家获悉，ColorOS“优行卡”在青岛优惠等同“琴岛通”交通卡，刷公共交通可享公交 8 折、地铁阶梯折扣优惠；乘坐公交汽 (电) 车可按标准享受票价的 8 折优惠（莱西 85 折，平度无优惠）；1 小时内在市南、市北、李沧、崂山、城阳、黄岛、即墨范围内以及延伸至其他区市的公共汽 (电) 车线路之间换乘可享受优惠。",
      "source": "IT之家",
-     "zh": "独特形态全键盘手机 Brax Wink 亮相：主打一键保护隐私和模块化设计"
+     "zh": "OPPO / 一加手机 ColorOS“优行卡”新增支持“琴岛通”交通卡，可在山东青岛享公交地铁乘车优惠"
+    },
+    {
+     "title": "三星首款耳夹式耳机：Galaxy Buds On 动图曝光，透明盒盖抢眼",
+     "link": "https://www.ithome.com/1/017/408.htm",
+     "pubDate": "Sat, 24 Oct 2026 07:46:05 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 Android Authority 昨日（10 月 23 日）发布博文，分享了一组动图， 展示了三星首款耳夹式耳机 Galaxy Buds On。三星此前已确认该产品， 计划于 10 月 27 日在韩国上市 。 外观方面，The Cipher Project 挖掘出的动画展示了耳机及充电盒的完整造型。耳机采用弧形连接结构，可环绕耳部佩戴；充电盒则采用圆角方盒设计，整体风格接近 Galaxy Buds 4 系列。用户透过烟熏色透明盒盖，可以看到内部耳机及其弧形结构。 针对传统耳夹式耳机低频表现较弱的问题，Galaxy Buds On 配备 TwinBo",
+     "source": "IT之家",
+     "zh": "三星首款耳夹式耳机：Galaxy Buds On 动图曝光，透明盒盖抢眼"
+    },
+    {
+     "title": "出任 XBOX 首任首席运营官仅 3 个月，微软 21 年“老将”海伦 · 蒋被曝离职",
+     "link": "https://www.ithome.com/1/017/407.htm",
+     "pubDate": "Sat, 24 Oct 2026 07:41:40 GMT",
+     "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据外媒 The Verge 报道，XBOX 首任首席运营官海伦 · 蒋（Helen Chiang）即将离开微软，距离这一职位设立仅过去 3 个月。 备忘录显示，海伦 · 蒋将于 23 日当天离职。其在微软工作了 21 年，此前负责《我的世界》业务， 今年 7 月晋升为 XBOX 首位首席运营官 。 XBOX CEO 阿莎 · 夏尔马通过一份简短的内部备忘录宣布了这一消息。“海伦 · 蒋今天将离开微软。感谢她多年来的贡献，祝她一切顺利。” 海伦 · 蒋原本负责的工作将暂时交由其他 XBOX 高管分担。至于首席运营官职位的后续安排，备忘录仅称仍",
+     "source": "IT之家",
+     "zh": "出任 XBOX 首任首席运营官仅 3 个月，微软 21 年“老将”海伦 · 蒋被曝离职"
+    },
+    {
+     "title": "鸿蒙智行智界 RX 明日开启首批车主交付，预计交付周期为 4-6 周",
+     "link": "https://www.ithome.com/1/017/406.htm",
+     "pubDate": "Sat, 24 Oct 2026 07:41:15 GMT",
+     "summary": "IT之家 10 月 24 日消息，智界汽车宣布，10 月 25 日，智界 RX 将在上海国际赛车场举办首批车主交付仪式，全国大规模交付也将同步开启。 官方透露，后续车辆将按照锁单顺序陆续推进排产和交付， 预计交付周期为 4-6 周 ，具体时间会根据所选配置及所在地区有所不同，最终以鸿蒙智行 App 或交付顾问通知为准。 鸿蒙智行智界 RX 于 9 月 28 日上市，推出六款车型， 售价区间 25.98-38.98 万元 。 智界 RX 定位中大型纯电轿跑 SUV，基于华为途灵平台打造，提供单电机后驱与双电机四驱两种布局，车身尺寸为 5020×2007×1585mm，轴距 3000mm，首发华为",
+     "source": "IT之家",
+     "zh": "鸿蒙智行智界 RX 明日开启首批车主交付，预计交付周期为 4-6 周"
+    },
+    {
+     "title": "小米米家恒温淋浴花洒 S1 新增枪灰色版本，首发价 1199.35 元",
+     "link": "https://www.ithome.com/1/017/404.htm",
+     "pubDate": "Sat, 24 Oct 2026 07:39:07 GMT",
+     "summary": "IT之家 10 月 24 日消息，小米现已在有品为旗下米家恒温淋浴花洒 S1 新增枪灰色版本（ 点此访问 ），该款花洒配备 LED 温度数显、防烫置物台，支持智能出水等功能， 首发价 1199.35 元 。 据介绍，米家恒温淋浴花洒 S1 支持智能恒温出水，温度可调节范围为常温至 49℃，预防高温烫伤；出水默认 38℃，高温调节需要按压童锁，避免误操作烫伤风险。 该花洒配备 LED 实时数显，可通过水流感应实时显示水温变化；采用隐藏式电池供电（附赠 4 节 5 号电池），具备 IPX5 级防水、270 天续航。 这款花洒还配备 371mm 防烫置物台、钢化玻璃面板及分控式钢琴按键，支持增压手持",
+     "source": "IT之家",
+     "zh": "小米米家恒温淋浴花洒 S1 新增枪灰色版本，首发价 1199.35 元"
+    },
+    {
+     "title": "英伟达发布 RTX Remix 1.6:《我的世界》Java 版游戏迎来路径追踪，A 卡性能提升约 20%",
+     "link": "https://www.ithome.com/1/017/403.htm",
+     "pubDate": "Sat, 24 Oct 2026 07:38:56 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 Wccftech 昨日（10 月 23 日）发布博文，报道称英伟达更新 RTX Remix，升级到最新 1.6 版本（GitHub 页面显示为 1.6.1），主要升级 DLSS 和 ComfyUI 2.0 资源管线，并实验性支持 Java 版《我的世界》游戏。 IT之家注：RTX Remix 是英伟达推出的开源 PC 游戏重制与模组平台，目标是让社区开发者和玩家把老游戏升级为现代光追画面：加入路径追踪光照、物理材质（PBR）、高分辨率贴图、反射、阴影和全局光照等效果。 在最新 1.6 版本中，英伟达重点引入 DLSS 5 的 3D 引导神经渲染、最高",
+     "source": "IT之家",
+     "zh": "英伟达发布 RTX Remix 1.6:《我的世界》Java 版游戏迎来路径追踪，A 卡性能提升约 20%"
     },
     {
      "title": "Meta迎来“分裂季”",
@@ -1770,22 +1810,6 @@ window.INDUSTRY_DATA = {
      "zh": "Meta迎来“分裂季”"
     },
     {
-     "title": "手办制造商 Good Smile Company 官网在线商店遭黑客入侵，用户部分隐私信息外泄",
-     "link": "https://www.ithome.com/1/017/399.htm",
-     "pubDate": "Sat, 24 Oct 2026 07:24:19 GMT",
-     "summary": "IT之家 10 月 24 日消息，知名手办制造商 Good Smile Company（GSC）昨日发布公告称，旗下官网线上商店遭黑客入侵，导致平台用户个人信息遭到外泄，涉及姓名、住址、电子邮箱、购买记录及信用卡部分信息等。 根据官方分析系统日志的结果，GSC 网站管理信息于日本时间 10 月 19 日下午 3 时至 10 月 22 日晚上 10 时左右多次遭到黑客未经授权访问。 GSC 在发现异常后立即关闭官方线上商店，目前官方仍在调查事件原因及影响范围，商店恢复运营的时间尚未确 定。 GSC 确认，可能遭到外泄的信息主要包含用户个人信息（包括姓名、姓名读音、性别、住址、电话号码及电子邮箱）",
-     "source": "IT之家",
-     "zh": "手办制造商 Good Smile Company 官网在线商店遭黑客入侵，用户部分隐私信息外泄"
-    },
-    {
-     "title": "中国联通：已在苹果直营店 / 授权店安排千余名驻店员，协助 iPhone Duo 购机用户现场开通 eSIM",
-     "link": "https://www.ithome.com/1/017/397.htm",
-     "pubDate": "Sat, 24 Oct 2026 07:14:58 GMT",
-     "summary": "IT之家 10 月 24 日消息，中国联通发文，称目前联通已在苹果 Apple Store 直营店、APR 苹果授权店等多家门店安排千余名驻店员，协助用户现场开通 eSIM，全程仅需约 3 分钟。 除了联通以外，参考IT之家昨日报道，有消息称移动、电信工作人员也在苹果 Apple Store 直营店内驻守，为现场取货的顾客现场办理 eSIM 激活业务，免去以往购机后再单独前往运营商营业厅开通的环节。 而对于新上市的 Apple Watch Series 12、Apple Watch Ultra 4 等机型，用户可以通过手机上的 Watch App 线上自助办理一号双终端业务，让手表与手机共享同",
-     "source": "IT之家",
-     "zh": "中国联通：已在苹果直营店 / 授权店安排千余名驻店员，协助 iPhone Duo 购机用户现场开通 eSIM"
-    },
-    {
      "title": "病急乱投医",
      "link": "https://www.huxiu.com/article/4900134.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 15:13:16 +0800",
@@ -1794,36 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "病急乱投医"
     },
     {
-     "title": "比亚迪公布第三代秦 PLUS DM-i 更多信息：综合续航 2290 公里，百公里亏电油耗 2.58 升",
-     "link": "https://www.ithome.com/1/017/396.htm",
-     "pubDate": "Sat, 24 Oct 2026 07:12:15 GMT",
-     "summary": "IT之家 10 月 24 日消息，今天（24 日）下午，比亚迪王朝网销售事业部总经理路天在微博发文宣布，第三代秦 PLUS 将于 10 月 27 日正式上市 。根据网友的提问，官方开设了“快问快答”栏目，并于今天公布第一期。 IT之家汇总如下： 第三代秦 PLUS DM-i 大了很多，具体尺寸是多少？ 第三代秦 PLUS DM-i 的 长宽高分别是：4840×1900×1498mm，轴距更是达到 2800mm ，达到中级车的水准，为用户日常通勤、多人出游提供了更宽适的驾乘空间。 第三代秦 PLUS DM-i 有几款外观颜色和内饰配色？ 第三代秦 PLUS DM-i 有 9 款外观颜色供大家选择",
-     "source": "IT之家",
-     "zh": "比亚迪公布第三代秦 PLUS DM-i 更多信息：综合续航 2290 公里，百公里亏电油耗 2.58 升"
-    },
-    {
      "title": "英国“梁文锋”，怒赚640亿",
      "link": "https://www.huxiu.com/article/4900133.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 15:08:55 +0800",
      "summary": "本文来自微信公众号： 投中网 ，作者：李馨婷 手下300名员工，人均营收1个亿。 AI造富的名单上，又添了一位千亿富豪。 《星期日泰晤士报》近期发布的2026年英国富豪榜中，被称为\"数学家\"的亚历克斯·格尔科（Alex Gerko），以160.06亿英镑（约合1417亿元人民币）的身家，位列第八。 根据榜单估算，这位英国富豪，身家在一年内涨了72.61亿英镑（约643亿元）。算下来，格尔科的资产，平均每天增值1989万英镑（约1.76亿元）。 撑起这份身家的，是格尔科创办的量化交易公司XTX。目前，XTX已经跻身全球头部做市商之列，也是英国最赚钱的私营公司之一，一组人效数据可以证明它的赚钱效率",
      "source": "虎嗅",
      "zh": "英国“梁文锋”，怒赚640亿"
-    },
-    {
-     "title": "少量账号发送疑似色情引流信息，企业微信安全团队公告确认为某第三方外挂软件服务被攻破所致",
-     "link": "https://www.ithome.com/1/017/395.htm",
-     "pubDate": "Sat, 24 Oct 2026 07:08:41 GMT",
-     "summary": "IT之家 10 月 24 日消息，针对少量企业微信账号向客户发送疑似色情引流信息一事，企业微信安全团队今日发布公告，称经安全团队排查， 确认为某第三方外挂软件服务被攻破，导致使用该外挂服务的账号受到影响 。我们已将受影响的账号强制下线，并封禁相关引流链接。 企业微信安全团队表示，以“账号多开”、“群控”等为噱头的外挂软件， 存在巨大的安全隐患和隐私风险 。使用此类服务，可能导致账号被他人操控、企业数据和客户信息泄露，危及企业正常经营，损害客户权益。企业微信还将进一步加大对外挂软件的打击力度： 一、持续排查和清理外挂软件。 加强对篡改客户端、绕过平台安全机制及使用限制等外挂行为的识别和处置，持续",
-     "source": "IT之家",
-     "zh": "少量账号发送疑似色情引流信息，企业微信安全团队公告确认为某第三方外挂软件服务被攻破所致"
-    },
-    {
-     "title": "父亲突发脑梗后儿子用豆包 AI 抢出救命时间，话题登顶微博热搜",
-     "link": "https://www.ithome.com/1/017/394.htm",
-     "pubDate": "Sat, 24 Oct 2026 07:08:33 GMT",
-     "summary": "IT之家 10 月 24 日消息，今日一则“耳机用 AI 为父亲抢出救命时间”的话题在社交平台引发关注，并且一度登上微博热搜榜第一。 据青岛广播电视台《先锋新闻》等多个媒体报道，山东聊城 90 后小伙于建进的父亲在遛弯回家后突然出现双腿无力、吞咽不畅的症状。于建进没有选择“再观察看看”，而是把症状和父亲的“三高”病史一起发给了豆包。 豆包的回复没有停留在分诊建议层面。据于先生描述，AI 给出的第一句话就是“脑梗征兆，建议立即就医”。在他补充老人既往病史后，豆包再次发出警示：“这是高危信号，不能拖”。两次警示之后，于先生连夜驱车带父亲赶往医院，经医院确诊为急性脑梗。由于送医及时，老人抓住了脑梗静",
-     "source": "IT之家",
-     "zh": "父亲突发脑梗后儿子用豆包 AI 抢出救命时间，话题登顶微博热搜"
     },
     {
      "title": "在非洲干活的中国人少了七成，活只少了两成多 | 长颈鹿笔记",
@@ -1858,6 +1858,14 @@ window.INDUSTRY_DATA = {
      "zh": "超级运动巨头的时代要消失了？"
     },
     {
+     "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+     "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+     "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
+     "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 28 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended"
+    },
+    {
      "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)",
      "link": "https://www.techmeme.com/261024/p1#a261024p1",
      "pubDate": "Sat, 24 Oct 2026 01:45:00 -0400",
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "OBS Studio 33",
      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
      "pubDate": "Sat, 24 Oct 2026 04:49:58 +0000",
-     "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 58 # Comments: 1",
+     "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 72 # Comments: 8",
      "source": "Hacker News",
      "zh": "OBS Studio 33"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "How close can pure functional programming get to C?",
      "link": "https://rtfeldman.com/fp-vs-c",
      "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
-     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 70 # Comments: 7",
+     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 75 # Comments: 7",
      "source": "Hacker News",
      "zh": "How close can pure functional programming get to C?"
     },
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "How Block Blast harvests its players for ad money",
      "link": "https://ayoships.com/breakdowns/block-blast",
      "pubDate": "Sat, 24 Oct 2026 02:43:43 +0000",
-     "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 26 # Comments: 3",
+     "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 31 # Comments: 3",
      "source": "Hacker News",
      "zh": "How Block Blast harvests its players for ad money"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Apple Security Research Device",
      "link": "https://security.apple.com/research-device/",
      "pubDate": "Sat, 24 Oct 2026 02:36:38 +0000",
-     "summary": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 33 # Comments: 1",
+     "summary": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 34 # Comments: 2",
      "source": "Hacker News",
      "zh": "Apple Security Research Device"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
      "pubDate": "Sat, 24 Oct 2026 01:53:10 +0000",
-     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 85 # Comments: 22",
+     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 91 # Comments: 22",
      "source": "Hacker News",
      "zh": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques"
     },
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Liv McMahon / BBC : The UK plans to invest &pound;100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &nbsp; &mdash;&nbsp; The UK says it will establish a national AI Biosecurity Lab (AIBL) to help strengthen its def",
      "source": "Techmeme",
      "zh": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)"
-    },
-    {
-     "title": "Twelve years of distributed SQLite",
-     "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-     "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
-     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 147 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "Twelve years of distributed SQLite"
     },
     {
      "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
@@ -2250,54 +2250,6 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "福特在美国召回3376辆汽车",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907091417.html",
-     "pubDate": "Sat, 24 Oct 2026 15:16:28 +0800",
-     "summary": "据美国国家公路交通安全管理局消息，福特在美国召回3376辆 汽车 。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "福特在美国召回3376辆汽车"
-    },
-    {
-     "title": "《2026新消费产业发展报告》发布",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907091098.html",
-     "pubDate": "Sat, 24 Oct 2026 15:14:42 +0800",
-     "summary": "在10月22日举行的“2026 新消费 产业大会”上，由《证券日报》社与中银国际证券有限公司联合发布的《2026 新消费 产业发展报告》显示，酒类、乳制品、连锁茶饮与连锁 餐饮 、预制菜四大产业虽处不同周期，但都在经历消费从“场合驱动”转向“个体驱动”。消费者没有停止消费，而是把预算转向低度、健康、悦己与即时的日常场景。 报告指出，酒类是四大产业中收缩最深、分化最强的板块。2025年， 白酒 产量降至354.9万千升、连续第九年下滑，较峰值累计降幅接近74%；葡萄酒产量较2012年高位跌落逾九成、退回三十年前，但结构性亮点清晰。白葡萄酒市场规模五年累计增长28.6%，成为葡萄酒中唯一正增长的品",
-     "source": "东方财富股票",
-     "zh": "《2026新消费产业发展报告》发布"
-    },
-    {
-     "title": "海航控股与零重空间将在飞机通信服务领域开展战略合作",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907090937.html",
-     "pubDate": "Sat, 24 Oct 2026 15:13:31 +0800",
-     "summary": "据海南航空消息，10月23日，海南航空控股股份有限公司与北京零重空间技术有限公司签署战略合作协议。据悉，双方将在飞机 通信服务 领域开展战略合作，共同推动飞机 通信服务 相关业务的探索与落地。本次合作也将推动 海航控股 进一步探索卫星 通信 领域的业务机会。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "海航控股与零重空间将在飞机通信服务领域开展战略合作"
-    },
-    {
-     "title": "安踏集团捐赠1000万支援西藏那曲巴青地震灾区",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907091198.html",
-     "pubDate": "Sat, 24 Oct 2026 15:09:22 +0800",
-     "summary": "10月23日，安踏集团宣布向西藏那曲巴青地震灾区捐赠1000万，包括900万御寒装备及100万现金，用于响应受灾地区救助需求，并帮助受灾地区灾后重建。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "安踏集团捐赠1000万支援西藏那曲巴青地震灾区"
-    },
-    {
-     "title": "丰田在美国召回68,356辆汽车",
-     "link": "http://finance.eastmoney.com/news/1358,202610243907090775.html",
-     "pubDate": "Sat, 24 Oct 2026 15:08:20 +0800",
-     "summary": "据美国国家公路交通安全管理局消息，丰田在美国召回68,356辆 汽车 。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "丰田在美国召回68,356辆汽车"
-    },
-    {
-     "title": "美国一核聚变技术初创公司宣称实现“汞变稳定黄金” 产出水平是欧洲十倍",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907064165.html",
-     "pubDate": "Sat, 24 Oct 2026 15:03:29 +0800",
-     "summary": "美国核聚变技术初创公司Marathon Fusion当地时间周四宣布，上个月已成功将汞嬗变为稳定的 黄金 ，相关成果的产出水平是欧洲核子研究中心(CERN)此前纪录的10倍。2025年，CERN曾表示，其大型强子对撞机(LHC)在2015年至2018年的运行期间，总共产生了约29皮克 黄金 ，即29万亿分之一克。 Marathon Fusion成立于2023年，由Kyle Schiller和曾任职于 SpaceX 的工程师Adam Rutkowski共同创立。该公司致力于开发未来聚变电站所需的燃料系统。聚变发电旨在通过原子核聚合释放能量来产生 电力 ，其原理与太阳内部的核反应类似。 Marat",
-     "source": "东方财富股票",
-     "zh": "美国一核聚变技术初创公司宣称实现“汞变稳定黄金” 产出水平是欧洲十倍"
-    },
-    {
      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 07:00:00 GMT",
@@ -2314,6 +2266,14 @@ window.INDUSTRY_DATA = {
      "zh": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
     },
     {
+     "title": "周鸿祎大动作！拟转让这家公司股权",
+     "link": "http://stock.eastmoney.com/news/11219,202610243907086580.html",
+     "pubDate": "Sat, 24 Oct 2026 14:28:26 +0800",
+     "summary": "证券时报记者注意到，“红衣教主”周鸿祎正在酝酿大动作。 据北京产权交易所，周鸿祎拟转让北京奇飞翔艺商务咨询有限公司（下称“奇飞翔艺”）12.9%股权，转让底价为2.19亿元，披露期为2026年10月26日至11月20日。若交易完成，他将不再直接持有奇飞翔艺股权。 据悉，奇飞翔艺已于3月13日形成利润分配股东决议，周鸿祎获得分红0.54亿元，转让底价已考虑该分红。按周鸿祎持股对应底价倒推，奇飞翔艺全部股权对应价格约17亿元。 同期挂牌的还有其他股东。截至10月24日，记者统计发现，本轮共有28个奇飞翔艺 股权转让 项目，披露期均为10月26日至11月20日，涉及奇飞翔艺87.75%股权，转让底价",
+     "source": "东方财富资讯",
+     "zh": "周鸿祎大动作！拟转让这家公司股权"
+    },
+    {
      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
      "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
      "pubDate": "Sat, 24 Oct 2026 06:23:02 GMT",
@@ -2328,6 +2288,14 @@ window.INDUSTRY_DATA = {
      "summary": "此前市场极度拥挤的“做多AI，做空其他一切”交易正在经历痛苦的解构，创纪录抛售下，超大规模云厂商迎“变现大考”。 10月22日，高盛欧洲固定收益与股票（FICC & Equities）交易主管Rich Privorotsky在位于伦敦的高盛交易室接受了播客栏目《The Markets》的访谈。Privorotsky透露了一个极具冲击力的数据： “上周我们的主经纪商业务账簿（Prime book）上，出现了有史以来最大规模的科技股抛售。” 面对这波抛售潮，正在进行中的三季度财报季显得尤为关键。市场的焦点已从单纯的“讲故事”转向了严苛的业绩兑现。Privorotsky指出，市场预计明年AI的资本支",
      "source": "华尔街见闻",
      "zh": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI"
+    },
+    {
+     "title": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！",
+     "link": "http://stock.eastmoney.com/news/11228,202610243907083341.html",
+     "pubDate": "Sat, 24 Oct 2026 13:51:01 +0800",
+     "summary": "亚马逊 首席执行官安迪·贾西（Andy Jassy）周五表示，受 人工智能 （AI）基础设施需求不断增长的影响， 亚马逊 网络服务（AWS）的 云计算 容量在2027年底前已基本售罄，且大量订单已排至2028年。 在与安德森·霍洛维茨（Andreessen Horowitz）联合创始人本·霍洛维茨（Ben Horowitz）及普通合伙人埃里克·托伦伯格（Erik Torenberg）的视频播客中，贾西表示， 亚马逊 AWS正在努力快速扩展基础设施，以满足 人工智能 实验室和企业源源不断的需求。 当前， 人工智能 开发人员和企业客户对计算资源的需求日益增长，以训练、部署和运行人工智能模型，这给可",
+     "source": "东方财富资讯",
+     "zh": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！"
     },
     {
      "title": "远期需求旺盛！亚马逊AWS今明年产能都已被抢空，连2028年的算力都快没了",
@@ -2354,12 +2322,28 @@ window.INDUSTRY_DATA = {
      "zh": "AI造电影"
     },
     {
+     "title": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发",
+     "link": "http://stock.eastmoney.com/news/11134,202610243907074028.html",
+     "pubDate": "Sat, 24 Oct 2026 12:14:12 +0800",
+     "summary": "10月23日盘后，A股上市公司集中披露2026年三季报。 横跨 半导体 、 电子 元器件、 新材料 、高端制造等多个高景气赛道的十余家企业交出了超预期的业绩答卷，多家公司今年前三季度归母净利润同比增幅突破400%，亦有多家公司第三季度单季增幅超过400%。 本轮披露的三季报中， 东岳硅材 （300821）2026年前三季度实现营业收入39.71亿元，同比增长31.21%，归母净利润达5.57亿元，同比大增19413.54%；第三季度单季实现营收13.06亿元，归母净利润1.29亿元，同比增长427.06%。 公司表示，业绩高增核心来自行业供需格局改善带动主营 有机硅 产品价格同比上涨，同时原材",
+     "source": "东方财富资讯",
+     "zh": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发"
+    },
+    {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Sat, 24 Oct 2026 12:07:56 +0800",
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
+    },
+    {
+     "title": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907071928.html",
+     "pubDate": "Sat, 24 Oct 2026 12:07:35 +0800",
+     "summary": "随着A股2026年三季报进入密集披露期，社保基金的最新调仓路径也逐渐浮出水面。 与市场惯常追逐短期热点的资金不同，以社保基金为代表的机构投资者持仓通常被市场看作“耐心资本”的重要风向。 Wind数据显示，截至10月23日，社保基金共在68家A股公司股东中现身。从社保基金调仓动向看，三季度末社保基金新进17家A股上市公司，资源类、周期板块在新进公司中占据重要比重。其中，14家公司前三季度归母净利润同比增长， 赣锋锂业 （002460.SZ）净利润增幅达19540.50%。 按照社保基金持股占流通股比例从高到低排序依次为 高凯技术 （688835.SH）、 新雷能 （300593.SZ）、 中富电",
+     "source": "东方财富资讯",
+     "zh": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%"
     },
     {
      "title": "乐享从容岁月：江苏银行以金融之力守护金色年华",
@@ -2400,6 +2384,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
      "source": "华尔街见闻",
      "zh": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守"
+    },
+    {
+     "title": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波",
+     "link": "http://finance.eastmoney.com/news/1344,202610243907070566.html",
+     "pubDate": "Sat, 24 Oct 2026 11:34:49 +0800",
+     "summary": "红星资本局10月24日消息，红星资本局发现，10月24日， 网红经济 学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。 从发布历史来看，10月23日下午，该账号推送一篇《市场见底，反弹行情展开》的笔记文章，阅读量6.6万，点赞量396。 10月24日，红星资本局就此咨询“泽平宏观”账号的橱窗客服。该客服告诉红星资本局，是账号异常，至于具体涉及什么违规，并不清楚。 当天，红星资本局尝试关注任泽平的个人 微博 账号，可以正常关注。 红星资本局注意到，早前，任泽平曾卷入“泽平宏观VIP群”学员亏损超千万风波。 据媒体报道，今年7月，一张“泽平宏观VIP群”学员亏损超千万",
+     "source": "东方财富资讯",
+     "zh": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波"
     },
     {
      "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
@@ -2464,6 +2456,14 @@ window.INDUSTRY_DATA = {
      "summary": "水资源正日益成为制约数据中心发展的瓶颈之一。",
      "source": "经济观察网",
      "zh": "“算水协同”如何改变数据中心"
+    },
+    {
+     "title": "伊朗总统将于下周访俄并与普京会谈",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907068582.html",
+     "pubDate": "Sat, 24 Oct 2026 11:19:59 +0800",
+     "summary": "据伊朗方面23日消息，伊朗总统佩泽希齐扬将于下周访问俄罗斯，出席10月27日在莫斯科举行的 天然气 出口国论坛第八次峰会。另据卡塔尔方面消息，峰会期间，佩泽希齐扬将与俄罗斯总统普京举行会谈。 （文章来源：央视新闻）",
+     "source": "东方财富资讯",
+     "zh": "伊朗总统将于下周访俄并与普京会谈"
     },
     {
      "title": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了",

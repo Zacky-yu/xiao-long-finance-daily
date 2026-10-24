@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 13:32:04",
+ "generated_at": "2026/10/24 13:52:12",
  "recent_days": 7,
  "industries": [
   {
@@ -970,14 +970,6 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1080,6 +1072,14 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1754,6 +1754,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "微软 Win11 25H2 26220.9757 预览版发布：重新设计文件管理器右键菜单",
+     "link": "https://www.ithome.com/1/017/369.htm",
+     "pubDate": "Sat, 24 Oct 2026 05:47:03 GMT",
+     "summary": "IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布博文，邀请 Beta 频道的 Windows Insider 项目成员， 测试适用于 Windows 11 系统的预览版更新，25H2 版本升至 Build 26220.9757；而 26H1 版本升至 28020.3292。 Windows 11 Build 26220.9757 预览版更新内容： 一、文件管理器重新设计右键菜单 微软正在文件资源管理器中逐步推出重新设计的右键菜单，目标是让菜单更快、更清爽，也更容易按照个人使用习惯进行自定义。 新设计减少了菜单顶层的杂乱内容，同时保留常用操作的便捷访问；用户还可以通过新的“设",
+     "source": "IT之家",
+     "zh": "微软 Win11 25H2 26220.9757 预览版发布：重新设计文件管理器右键菜单"
+    },
+    {
+     "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)",
+     "link": "https://www.techmeme.com/261024/p1#a261024p1",
+     "pubDate": "Sat, 24 Oct 2026 01:45:00 -0400",
+     "summary": "Toby Sterling / Reuters : The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors &nbsp; &mdash;&nbsp; The discovery of two serious flaws in PHP this week set off a global scramble to keep websites saf",
+     "source": "Techmeme",
+     "zh": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)"
+    },
+    {
+     "title": "微软 Win11 26H1 推送 28120.3302 预览版：开始菜单可调大小等",
+     "link": "https://www.ithome.com/1/017/368.htm",
+     "pubDate": "Sat, 24 Oct 2026 05:37:32 GMT",
+     "summary": "IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布公告， 邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。 IT之家援引博文介绍，本次更新适用于 Experimental 频道 3 个版本： 26H2 版本更新后版本号升至 Build 26340.9767 26H1 版本更新后版本号升至 Build 28120.3302 未来平台版本更新后版本号升至 Build 29695.1001 在更新内容方面，本次更新带来开始菜单个性化、桌面应用隐私权限、放大镜多显示器体验、云重建入口、文件资源管理器缩略",
+     "source": "IT之家",
+     "zh": "微软 Win11 26H1 推送 28120.3302 预览版：开始菜单可调大小等"
+    },
+    {
+     "title": "娃哈哈集团董事长，谁来当？",
+     "link": "https://www.huxiu.com/article/4900119.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 13:35:30 +0800",
+     "summary": "本文来自微信公众号： 正和岛 ，作者：谭长春 2026年10月22日，杭州。 一位娃哈哈前员工接到法院电话。他起诉娃哈哈集团的劳动争议案，原定下月开庭，法院通知他：日期可能要变。 原因只有一句话：“娃哈哈集团法定代表人辞职了。” 辞职的人叫许思敏，1994年出生，法务出身，2025年11月接任杭州娃哈哈集团有限公司法定代表人、董事长兼总经理。 不到一年，他走了。 如果只把这件事看成“一个90后职业经理人的离开”，那它只是一条人事新闻。但把它放进娃哈哈过去三年的轨迹里——宗庆后去世、宗馥莉两度辞职、许思敏接任又离开、董事长位置至今“尚未明确”——你会发现，它追问的是一个比“谁辞职”沉重得多的问题",
+     "source": "虎嗅",
+     "zh": "娃哈哈集团董事长，谁来当？"
+    },
+    {
      "title": "微软 Win11 26H2 发布 26340.9767 预览版：增强实验性功能体验、升级网络测速",
      "link": "https://www.ithome.com/1/017/367.htm",
      "pubDate": "Sat, 24 Oct 2026 05:26:41 GMT",
@@ -1818,22 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "斜杠青年和工牌，谁能给AI时代打工人一份“体面”？"
     },
     {
-     "title": "史诗级更新：微信远程升级支持在 iPhone Duo 上和其他设备同时登录",
-     "link": "https://www.ithome.com/1/017/345.htm",
-     "pubDate": "Sat, 24 Oct 2026 04:35:46 GMT",
-     "summary": "IT之家 10 月 24 日消息，据多位博主及用户反馈，微信远程升级， 已支持在 iPhone Duo 上和其他设备同时登录 。 虽然在 iPhone Duo 上，微信显示的是“和其他设备同时登录”这一功能项，但实际操作过程中，在点击该按钮并扫描弹出的二维码后，主设备会提示“登录 iPad 微信”。 这意味着该功能还并不是完全体， 预计后续还有继续优化的空间 。 另外，IT之家实测，部分 iPhone Duo 还未开放该功能，预计属于灰度开放名额体验阶段。目前已拿到 iPhone Duo 且微信还不支持该功能的用户可以尝试如下步骤开启该功能： 退出微信账号 关闭微信后台 关机重启 再开机打开微",
-     "source": "IT之家",
-     "zh": "史诗级更新：微信远程升级支持在 iPhone Duo 上和其他设备同时登录"
-    },
-    {
-     "title": "宫本茂：即使 AI 最终什么都能做，人类设计师也始终会有用武之地",
-     "link": "https://www.ithome.com/1/017/344.htm",
-     "pubDate": "Sat, 24 Oct 2026 04:34:38 GMT",
-     "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据外媒 VGC 报道，曾参与打造《超级马力欧》和《塞尔达传说》等经典游戏系列的任天堂知名设计师、创意顾问宫本茂认为， 生成式 AI 的发展不会取代人类的创造力 。 任天堂尚未公开确认是否在游戏开发中使用 AI。宫本茂获选日本文化勋章后，在记者会上被问及这项技术对游戏创作的影响。他认为，AI 承担的制作工作越多，创作者自身的想法就越重要。 IT之家附上其观点大意如下： 我们这一代人正好经历了计算机技术飞速发展的年代，各种工具不断更新换代，从打字机发展到文字处理机。 以前，设计师在学校学习如何为海报写出漂亮的美术字。只要掌握这门手艺，就能被称为",
-     "source": "IT之家",
-     "zh": "宫本茂：即使 AI 最终什么都能做，人类设计师也始终会有用武之地"
-    },
-    {
      "title": "“浙江大二学生AI 创业两个月赚60万”背后的真相",
      "link": "https://www.huxiu.com/article/4900116.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 12:33:31 +0800",
@@ -1864,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "不会用AI不要紧，别让老板觉得你不会。",
      "source": "钛媒体",
      "zh": "打工人，开始“表演”AI提效"
-    },
-    {
-     "title": "被年轻人抛弃的农家乐，杀回来了",
-     "link": "https://www.huxiu.com/article/4900110.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 12:14:05 +0800",
-     "summary": "本文来自微信公众号： 深氪新消费 ，作者：夏不绿 这是深氪新消费第2300期分享： 为什么胡闹厨房一夜爆火？ 周末，重庆南山的进村路口，车排得跟贪吃蛇似的，一动不动。 远远听见哪个院子里传来一阵阵嬉笑打闹，夹杂着“快快快！”“糊了糊了！”“你倒是切啊！”的嚎叫。 原以为是哪家公司团建。走近一看，发现这群人年龄各异，围裙系得歪歪扭扭，围着案板和面、捏面、擀面，面粉糊了一脸，案板上的面团长得像抽象派雕塑。这哪是做饭，简直是《胡闹厨房》真人版。 其实，他们不是店里的面点师傅，而是花钱来这儿消费的客人。 现在流行花钱自己做饭了？ 《胡闹厨房》是一款多人合作的烹饪游戏，由英国独立游戏开发商Ghost T",
-     "source": "虎嗅",
-     "zh": "被年轻人抛弃的农家乐，杀回来了"
     },
     {
      "title": "寒武纪Q3：利润翻倍，市值降温",
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "How close can pure functional programming get to C?",
      "link": "https://rtfeldman.com/fp-vs-c",
      "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
-     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 19 # Comments: 1",
+     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 26 # Comments: 1",
      "source": "Hacker News",
      "zh": "How close can pure functional programming get to C?"
     },
@@ -1922,10 +1930,18 @@ window.INDUSTRY_DATA = {
      "zh": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)"
     },
     {
+     "title": "How Block Blast harvests its players for ad money",
+     "link": "https://ayoships.com/breakdowns/block-blast",
+     "pubDate": "Sat, 24 Oct 2026 02:43:43 +0000",
+     "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "How Block Blast harvests its players for ad money"
+    },
+    {
      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
      "pubDate": "Sat, 24 Oct 2026 01:53:10 +0000",
-     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 57 # Comments: 15",
+     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 59 # Comments: 16",
      "source": "Hacker News",
      "zh": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques"
     },
@@ -1941,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Twelve years of distributed SQLite",
      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
      "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
-     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 98 # Comments: 10",
+     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 105 # Comments: 10",
      "source": "Hacker News",
      "zh": "Twelve years of distributed SQLite"
     },
@@ -1976,22 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
      "source": "TechCrunch",
      "zh": "Startups don’t need to go viral to win customers"
-    },
-    {
-     "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-     "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-     "pubDate": "Fri, 23 Oct 2026 22:48:25 +0000",
-     "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
-     "source": "Ars Technica",
-     "zh": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue"
-    },
-    {
-     "title": "Memo: Helen Chiang, Xbox&apos;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
-     "link": "https://www.techmeme.com/261023/p23#a261023p23",
-     "pubDate": "Fri, 23 Oct 2026 17:55:01 -0400",
-     "summary": "Tom Warren / The Verge : Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &nbsp; &mdash;&nbsp; Helen Chiang is leaving Microsoft after 21 years. &hellip; Xbox is losing its first chief operating office",
-     "source": "Techmeme",
-     "zh": "Memo: Helen Chiang, Xbox&apos;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)"
     }
    ]
   },

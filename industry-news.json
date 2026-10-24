@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 09:51:49",
+ "generated_at": "2026/10/24 10:07:00",
  "recent_days": 7,
  "industries": [
   {
@@ -39,6 +39,14 @@
      "summary": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model ",
      "source": "MarkTechPost",
      "zh": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context"
+    },
+    {
+     "title": "3万亿级参数！Kimi K3.1空降国产第一，1/5价格狙击Astra，实测跑通3D建模",
+     "link": "https://zhidx.com/p/604320.html",
+     "pubDate": "Sat, 24 Oct 2026 06:14:08 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 心缘 智东西10月24日报道，今天，月之暗面发布了其最新一代旗舰模型 Kimi K3.1 Pro ，并宣布将在11月4日前完成模型开源。这是一款 3万亿参数量级 的模型，由Kimi K3后训练而来，拥有100万个token的上下文窗口。 在Artificial Analysis榜单上，Kimi K3.1 Pro的得分比Kimi K3高了11分，目前排名为 总榜第四、国产第一 ，超过Claude Fable 5.1、GPT-6 Astra等模型，仅次于Claude Opus 5.5、Claude Sonnet 5.5和Muse Wonder。 编程、3D创作、",
+     "source": "智东西",
+     "zh": "3万亿级参数！Kimi K3.1空降国产第一，1/5价格狙击Astra，实测跑通3D建模"
     },
     {
      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -81,28 +89,12 @@
      "zh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
     },
     {
-     "title": "What Companies Actually Mean When They Say They Want “AI Experience”",
-     "link": "https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience",
-     "pubDate": "Fri, 23 Oct 2026 14:00:00 +0000",
-     "summary": "What employers actually mean when job postings list \"AI experience\" as a requirement.",
-     "source": "KDnuggets",
-     "zh": "What Companies Actually Mean When They Say They Want “AI Experience”"
-    },
-    {
      "title": "全球互联网经历“黑色十月”，这个中国AI在风暴来临前留了后手",
      "link": "https://zhidx.com/p/604178.html",
      "pubDate": "Fri, 23 Oct 2026 20:00:02 +0800",
      "summary": "智东西 作者 | Saul 编辑 | 漠影 过去48小时，全球互联网经历“黑色十月”：支撑七成网站的PHP代码，被AI挖出存在两个CVSS9.2分的严重漏洞。 更棘手的是，漏洞细节在补丁发布前就遭泄露：据The Register报道，亚马逊的威胁情报团队在公开前四天就捕获了利用尝试； Cloudflare 的监测数据显示，攻击尝试在公开后两小时内从数千次涨到数百万次。荷兰鹿特丹港、比利时外交部、芬兰公共网络服务相继预防性下线。 用AI作恶的人，已经进化到以小时计；守门的人，还在按月更新规则。 眼看风暴越刮越猛，一个问题悬在了所有人心里：这场蔓延，到底有没有办法制止？ 下面这个案例，让我们看到了",
      "source": "智东西",
      "zh": "全球互联网经历“黑色十月”，这个中国AI在风暴来临前留了后手"
-    },
-    {
-     "title": "5 Free AI Coding Agents You Should Try in 2026",
-     "link": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
-     "pubDate": "Fri, 23 Oct 2026 12:00:00 +0000",
-     "summary": "Access powerful open-source and proprietary models through OpenCode Zen, Gemini’s free quota, Kilo Gateway, Cline Provider, and Charm Hyper without paying for API access upfront.",
-     "source": "KDnuggets",
-     "zh": "5 Free AI Coding Agents You Should Try in 2026"
     },
     {
      "title": "DeepSeek之后，StartLux再来：开源首个决策模型推理引擎，推理快至5.3倍",
@@ -143,14 +135,6 @@
      "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic",
      "source": "MarkTechPost",
      "zh": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents"
-    },
-    {
-     "title": "OpenAI给GPT-6装上“快脑”！100毫秒做决策，API全面开放",
-     "link": "https://zhidx.com/p/604023.html",
-     "pubDate": "Fri, 23 Oct 2026 16:21:34 +0800",
-     "summary": "智东西 作者 | 黄菲 编辑 | 江宇 智东西10月23日消息，据TechCrunch昨日报道，OpenAI已面向所有客户开放决策接口Decisions API，该接口基于推理模型GPT-6 Luna优化了推理速度与成本，部分场景下响应时间可由1至3秒缩短到100至180毫秒。 Decisions API主要面向答案范围明确的任务。开发者可以预先设定问题和可选答案，由该模型输出概率、选项或评分，用于内容分类、请求分流，以及决定AI智能体下一步采取什么行动。 这一产品瞄准的是快速、低成本的AI决策市场。 9月15日，AI初创公司TypeSafe推出的Jev决策模型，该模型可专门根据预设选项快速作",
-     "source": "智东西",
-     "zh": "OpenAI给GPT-6装上“快脑”！100毫秒做决策，API全面开放"
     },
     {
      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
@@ -247,6 +231,22 @@
      "summary": "",
      "source": "新智元",
      "zh": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕"
+    },
+    {
+     "title": "NeurIPS'26 | 注意力也能弃权！改善长上下文、低比特鲁棒性",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737212&idx=3&sn=7142b34e5331746fe654dfb765b726f5",
+     "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "NeurIPS'26 | 注意力也能弃权！改善长上下文、低比特鲁棒性"
+    },
+    {
+     "title": "Left alone with nothing to do, AI agents started playing",
+     "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+     "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+     "source": "TechCrunch AI",
+     "zh": "Left alone with nothing to do, AI agents started playing"
     }
    ]
   },
@@ -1753,12 +1753,60 @@
    "total": 18,
    "items": [
     {
+     "title": "消息称荣耀 700 系列手机有“3 杯”：Pro 工程机配 1.72 英寸原生背屏，暂定 11 月发布",
+     "link": "https://www.ithome.com/1/017/316.htm",
+     "pubDate": "Sat, 24 Oct 2026 02:01:50 GMT",
+     "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 刚刚发文透露，荣耀 700 系列手机有“3 杯”（即三个型号，分别对应不同价格配置档位），内部代号 Flora，配色有冷白 / 晴空 / 蓝调 / 粉雾， 暂定 11 月发布 。 博主称，工程机配备 6.57 英寸 1.5K 中屏，极窄四等边， 1.72 英寸原生背屏（Pro 版本） ，200Mp 常规大底影像，Pro 有一颗 50Mp 潜望长焦，系列最大电池 9000mAh±。 关于这一代荣耀 700 的处理器是否会搭载骁龙 8s Gen4 或者骁龙 8 Gen5，博主直言：“ 没有，这种产品线不要对 Soc 有期待。 ” 据IT之家此前",
+     "source": "IT之家",
+     "zh": "消息称荣耀 700 系列手机有“3 杯”：Pro 工程机配 1.72 英寸原生背屏，暂定 11 月发布"
+    },
+    {
+     "title": "苹果首款折叠 iPhone Duo 开放到店自提预约服务，报道称名额少到“几乎抢不到”",
+     "link": "https://www.ithome.com/1/017/314.htm",
+     "pubDate": "Sat, 24 Oct 2026 01:59:57 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 MacRumors 今天（10 月 24 日）发布博文，报道称苹果在线商店已重新开放 iPhone Duo 的“到店自提”预约服务， 中国、澳大利亚、日本和韩国等市场率先恢复。 该媒体指出在澳大利亚，在该媒体发稿前，曾出现一台可自提的 iPhone Duo， 但很快便被抢空，名额少到“几乎抢不到”。 而美国、加拿大、英国和新加坡等市场的苹果官网提示用户在当地时间 10 月 24 日再次查看，预计自提预约会随各地时间推进陆续恢复。 IT之家查询苹果中国官网，分别查询青岛、上海和北京地区的供货情况，发现均为“不可取货”状态，且送货上门时间已预估排到 20",
+     "source": "IT之家",
+     "zh": "苹果首款折叠 iPhone Duo 开放到店自提预约服务，报道称名额少到“几乎抢不到”"
+    },
+    {
+     "title": "博纳花两年、投千万，趟出第一部AI院线长片",
+     "link": "https://www.tmtpost.com/8179389.html",
+     "pubDate": "Sat, 24 Oct 2026 09:53:00 +0800",
+     "summary": "国内首部AI院线电影诞生记。",
+     "source": "钛媒体",
+     "zh": "博纳花两年、投千万，趟出第一部AI院线长片"
+    },
+    {
+     "title": "亚马逊 CEO 贾西：要让 AI 广泛应用于企业软件，成本需降至目前十分之一",
+     "link": "https://www.ithome.com/1/017/313.htm",
+     "pubDate": "Sat, 24 Oct 2026 01:51:20 GMT",
+     "summary": "IT之家 10 月 24 日消息，亚马逊 CEO 安迪 · 贾西认为，AI 推理成本仍然太高， 要让 AI 广泛应用于企业软件，成本还需要降至目前的约十分之一 ，而亚马逊自研芯片有望帮助降低成本。 贾西在风险投资机构 a16z 当地时间 23 日发布的采访中透露：“在我看来，要让 AI 得到尽可能广泛的应用，推理成本仍然高了一个数量级。” 亚马逊今年计划投入 2,200 亿美元 （IT之家注：现汇率约合 1.47 万亿元人民币） 资本开支，却依然无法建成足够的基础设施来满足 AI 需求。贾西透露，2026 年的主要算力供应额度基本订满，2027 年的大部分也已被客户预订，2028 年也有相当一",
+     "source": "IT之家",
+     "zh": "亚马逊 CEO 贾西：要让 AI 广泛应用于企业软件，成本需降至目前十分之一"
+    },
+    {
+     "title": "苹果 iPhone Duo 被曝严重安全隐患：手机上锁可能失效，目前最新版本系统还没有修复",
+     "link": "https://www.ithome.com/1/017/312.htm",
+     "pubDate": "Sat, 24 Oct 2026 01:50:58 GMT",
+     "summary": "IT之家 10 月 24 日消息，据博主 @胜利文绉绉 分享，iPhone Duo 严重安全隐患 —— 手机上锁可能失效，且在目前最新版本系统还没有修复 （博主视频中显示系统版本号为 iOS 27.1）。 博主反馈称，他发现 iPhone Duo 的指纹解锁响应速度特别慢， 所以可以一直压力测试它 ，让它“confuse”（IT之家注：该单词基本含义包括使困惑、混淆及使复杂化），反应不过来。 在这种情况下，不用长按指纹、也不用上滑屏幕，轻点屏幕可以直接解锁手机 （锁屏图标会正常显示上锁）。 博主建议大家在问题修复之前， 尽量少使用指纹解锁 。 另据IT之家今日早些时候报道，安全公司 Calif",
+     "source": "IT之家",
+     "zh": "苹果 iPhone Duo 被曝严重安全隐患：手机上锁可能失效，目前最新版本系统还没有修复"
+    },
+    {
      "title": "苹果 iPhone Duo 隐藏交互曝光：为左撇子优化，控制中心一点就开",
      "link": "https://www.ithome.com/1/017/311.htm",
      "pubDate": "Sat, 24 Oct 2026 01:48:03 GMT",
      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在 苹果首款折叠 iPhone Duo 上，苹果公司针对“左撇子”用户，引入了新的控制中心打开方式。 在 iPhone X 以及后续没有配备 Home 按钮的机型上，用户从屏幕右上角向下滑动即可打开控制中心。但在 iPhone Duo 折叠手机上，单手尤其是左手使用时，从屏幕右上角下滑打开控制中心较为吃力。 苹果公司为此引入了新的打开方式，用户可直接点击状态栏中新增的电池、Wi-Fi 与蜂窝网络组合图标，即可调出控制中心。相比从右上角下滑，这一图标位置更靠近拇指自然活动区域，操作明显更轻松。 ",
      "source": "IT之家",
      "zh": "苹果 iPhone Duo 隐藏交互曝光：为左撇子优化，控制中心一点就开"
+    },
+    {
+     "title": "10亿估值的明星机器狗公司，欠薪800万",
+     "link": "https://www.tmtpost.com/8179895.html",
+     "pubDate": "Sat, 24 Oct 2026 09:45:00 +0800",
+     "summary": "成立八个月，拿到10亿订单，故事太“励志”了点。",
+     "source": "钛媒体",
+     "zh": "10亿估值的明星机器狗公司，欠薪800万"
     },
     {
      "title": "Edge AI Daily 早报（10月24日）",
@@ -1785,14 +1833,6 @@
      "zh": "车企造人形机器人，究竟图什么？"
     },
     {
-     "title": "苹果 iPhone Duo 影像细节曝光：主摄最高可读取 5100 万像素",
-     "link": "https://www.ithome.com/1/017/309.htm",
-     "pubDate": "Sat, 24 Oct 2026 01:34:05 GMT",
-     "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）发布博文， 通过挖掘 iOS 27.1 和 iOS 27.2 RC 版本代码，进一步披露了苹果首款折叠 iPhone Duo 的影像规格参数。 图源：iPhone Duo 苹果官网 主摄方面，iPhone Duo 的主摄采用 IMX954 传感器，配备“四像素”结构与 1.0µm 子像素， 最大配置读出尺寸为 8448 × 6048，约合 5100 万像素 ；系统可输出 1200 万（四个子像素合并成一个像素）、2400 万及 4800 万像素照片。 IT之家注：子像素（sub-pixels）是衡量手机相机传",
-     "source": "IT之家",
-     "zh": "苹果 iPhone Duo 影像细节曝光：主摄最高可读取 5100 万像素"
-    },
-    {
      "title": "阿里云与火山重分汽车云",
      "link": "https://www.tmtpost.com/8179879.html",
      "pubDate": "Sat, 24 Oct 2026 09:30:00 +0800",
@@ -1807,14 +1847,6 @@
      "summary": "本文来自微信公众号： 王骁Albert ，作者：王骁Albert，原文标题：《\"非洲新加坡\"成功代价是什么？三面环敌，接班成最大的挑战【东非05|卢旺达】》 一说非洲就是贫穷落后脏乱差，但是有一个国家，没有出海口，人均土地极少，国内市场极小。曾经发生过人类历史上最惨烈的种族灭绝之一。可现在经济快速发展，首都干净安全，军队海外作战。自己物产贫瘠，却成为重要的黄金和3T矿产出口地。 2019年，我在老东家观察者网制作了关于卢旺达的视频，那是我第一个过百万的爆款，是后来电子地图册想法的滥觞。 这个小国逆袭的故事后来被许多自媒体和营销号当成了起号的好节目，就连标题都是同样的格式换个词接着用，卢旺达领导",
      "source": "虎嗅",
      "zh": "\"非洲新加坡\"成功代价是什么？三面环敌，接班成最大的挑战【东非05"
-    },
-    {
-     "title": "利用核聚变技术，美初创公司 Marathon Fusion 宣称实现“水银变黄金”",
-     "link": "https://www.ithome.com/1/017/307.htm",
-     "pubDate": "Sat, 24 Oct 2026 01:24:10 GMT",
-     "summary": "IT之家 10 月 24 日消息，据外媒 Interesting Engineering 报道，美国旧金山核聚变初创企业 Marathon Fusion 宣称，利用核聚变产生的高能中子实现了“点汞成金”。 该公司于当地时间 21 日宣布，其黄金生产速率 达到欧洲核子研究组织（CERN）2025 年纪录的 10 倍 。然而，实验成果尚未得到公开的独立验证，Marathon 也没有透露究竟制造了多少黄金。 根据 Marathon 介绍的技术原理，氘氚聚变产生的 14MeV 中子撞击汞-198 后，会使其转化为 具有放射性的汞-197 。汞-197 的半衰期据称约为 64 小时， 随后衰变成金-19",
-     "source": "IT之家",
-     "zh": "利用核聚变技术，美初创公司 Marathon Fusion 宣称实现“水银变黄金”"
     },
     {
      "title": "一辆车最极致的智能，是让里面的人安全走出来",
@@ -1833,44 +1865,12 @@
      "zh": "《令人心动的offer》引医疗圈众怒，只因“真人”而不真实"
     },
     {
-     "title": "iOS 27.2 剧透：苹果首款折叠 iPhone Duo 恐不支持 Apple Pencil 悬停功能",
-     "link": "https://www.ithome.com/1/017/306.htm",
-     "pubDate": "Sat, 24 Oct 2026 01:20:32 GMT",
-     "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）在 X 平台发布推文，通过挖掘 iOS 27.2 RC 内部代码， 推测苹果首款折叠 iPhone Duo 可能不支持 Apple Pencil 的悬停（Hover）功能。 在兼容支持的 iPad 设备上，用户将 Apple Pencil 悬浮在屏幕上方（最高约 12 毫米）后，iPad 能识别笔的位置并给出实时预览，让你在真正落笔前看到效果，从而更精准地书写、绘画和操作。 IT之家此前报道，消息源 Max Weinbach 此前测试，安装 iOS 27.2 RC（候选版）后， iPhone Duo 已可正常",
-     "source": "IT之家",
-     "zh": "iOS 27.2 剧透：苹果首款折叠 iPhone Duo 恐不支持 Apple Pencil 悬停功能"
-    },
-    {
      "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
      "link": "https://www.techmeme.com/261023/p26#a261023p26",
      "pubDate": "Fri, 23 Oct 2026 21:20:01 -0400",
      "summary": "Liv McMahon / BBC : The UK plans to invest &pound;100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &nbsp; &mdash;&nbsp; The UK says it will establish a national AI Biosecurity Lab (AIBL) to help strengthen its def",
      "source": "Techmeme",
      "zh": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)"
-    },
-    {
-     "title": "机器人领域的OpenAI，来了？",
-     "link": "https://www.tmtpost.com/8179875.html",
-     "pubDate": "Sat, 24 Oct 2026 09:15:00 +0800",
-     "summary": "PI开始卖「机器人大脑」。",
-     "source": "钛媒体",
-     "zh": "机器人领域的OpenAI，来了？"
-    },
-    {
-     "title": "押宝IP，正在“惯坏”晨光们",
-     "link": "https://www.tmtpost.com/8179854.html",
-     "pubDate": "Sat, 24 Oct 2026 09:08:00 +0800",
-     "summary": "依赖IP联名，似乎让晨光们在创新上更加懒惰。",
-     "source": "钛媒体",
-     "zh": "押宝IP，正在“惯坏”晨光们"
-    },
-    {
-     "title": "苹果推送 watchOS 27.2 第二个候选版更新，正式版预估下周到来",
-     "link": "https://www.ithome.com/1/017/305.htm",
-     "pubDate": "Sat, 24 Oct 2026 01:05:23 GMT",
-     "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 发布博文，报道称苹果昨日（10 月 23 日）面向开发者和公开测试用户， 推送了第二个 watchOS 27.2 候选（RC）版本更新，版本号为 24S118。 IT之家此前报道， 苹果公司于 10 月 19 日推送 watchOS 27.2 RC 候选版本 ，内部版本号为 24S116，本次更新相隔约 4 天时间。 苹果尚未公布新 RC 的具体变更说明，该媒体推测其重点在于提升系统稳定性、修复已知问题，并为正式版发布做最后准备。苹果公司有望下周推送 watchOS 27.2 正式版，并同步推送 iOS 27.2、iPadOS 27.",
-     "source": "IT之家",
-     "zh": "苹果推送 watchOS 27.2 第二个候选版更新，正式版预估下周到来"
     },
     {
      "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
@@ -1948,7 +1948,7 @@
      "title": "German court calls Google aerial imagery 'spying'",
      "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
      "pubDate": "Fri, 23 Oct 2026 22:18:49 +0000",
-     "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 34 # Comments: 11",
+     "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 34 # Comments: 13",
      "source": "Hacker News",
      "zh": "German court calls Google aerial imagery 'spying'"
     },
@@ -1964,7 +1964,7 @@
      "title": "CVE Tracker",
      "link": "https://cve.0xosprey.com/",
      "pubDate": "Fri, 23 Oct 2026 21:21:47 +0000",
-     "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 100 # Comments: 38",
+     "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 103 # Comments: 39",
      "source": "Hacker News",
      "zh": "CVE Tracker"
     },
@@ -1988,7 +1988,7 @@
      "title": "No Source Code? No Problem",
      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
      "pubDate": "Fri, 23 Oct 2026 20:38:06 +0000",
-     "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 33 # Comments: 26",
+     "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 33 # Comments: 29",
      "source": "Hacker News",
      "zh": "No Source Code? No Problem"
     }
@@ -2249,52 +2249,84 @@
    "total": 13,
    "items": [
     {
-     "title": "湖南省委主要负责同志职务调整",
-     "link": "http://finance.eastmoney.com/news/1350,202610243907059981.html",
-     "pubDate": "Sat, 24 Oct 2026 09:40:36 +0800",
-     "summary": "日前，中共中央决定：王志军同志任湖南省委委员、常委、书记，沈晓明同志不再担任湖南省委书记、常委、委员职务。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "湖南省委主要负责同志职务调整"
+     "title": "近乎垄断“霍尔木兹油运”！这家韩国船东“一夜暴富”，此前60亿美元囤积73艘二手超级油轮",
+     "link": "https://wallstreetcn.com/articles/3784377",
+     "pubDate": "Sat, 24 Oct 2026 09:59:56 +0800",
+     "summary": "一家此前鲜为人知的韩国船东，正在全球最敏感的石油运输通道上书写一段财富神话。凭借一场豪掷近60亿美元、囤积73艘二手超大型油轮（VLCC）的疯狂押注，韩国兴亚海运集团（Sinokor Group）已在霍尔木兹海峡油运市场确立近乎垄断的地位——其船队单月运油量超过排名其后三家国家级船东的总和。 据彭博援引Vortexa、Equasis及Signal Group等航运情报机构的船舶追踪数据， 今年9月，Sinokor旗下船舶共通过霍尔木兹海峡运输原油1.056亿桶，占当月该海峡石油过境总量的近40% 。紧随其后的三家船东——沙特国家航运公司（Bahri）、科威特石油运输公司及阿布扎比国家石油公司旗",
+     "source": "华尔街见闻",
+     "zh": "近乎垄断“霍尔木兹油运”！这家韩国船东“一夜暴富”，此前60亿美元囤积73艘二手超级油轮"
     },
     {
-     "title": "半导体封测设备行业需求增长，海外布局成效显现，金海通三季度净利润增超2倍",
-     "link": "http://stock.eastmoney.com/news/11219,202610243907060351.html",
-     "pubDate": "Sat, 24 Oct 2026 09:38:04 +0800",
-     "summary": "10月23日， 金海通 (603061)公布2026年三季报，公司营业收入为10.0亿元，同比上升107.8%；归母净利润为3.24亿元，同比上升159.0%；扣非归母净利润为3.2亿元，同比上升163.7%；经营现金流净额为2.46亿元，同比增长392.0%；EPS(全面摊薄)为3.7212元。 其中第三季度，公司营业收入为4.0亿元，同比上升129.6%；归母净利润为1.53亿元，同比上升211.5%；扣非归母净利润为1.52亿元，同比上升218.5%；EPS为1.7537元。 截至三季度末，公司总资产28.77亿元，较上年度末增长33.8%；归母净资产为19.61亿元，较上年度末增长21",
+     "title": "暴跌、腰斩！国际巨头跌穿信仰！发生了什么？",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907060684.html",
+     "pubDate": "Sat, 24 Oct 2026 09:57:31 +0800",
+     "summary": "爱马仕也卖不动了？ 10月23日，法国奢侈品巨头开 云集 团在巴黎市场收跌16.57%，创2025年4月以来最大单日跌幅。核心品牌Gucci第三季度可比营收下降6%，远逊于市场预期的3.29%，彻底击穿了投资者对这家集团“最坏时候已过”的期待。 爱马仕也延续跌势。爱马仕在财报后两个交易日分别下跌4.94%、3.96%，最新股价较2025年初2957欧元的历史高点已跌去约58%，年内累计跌幅扩大至约41.5%。此外，瑞士历峰集团同日跌6.38%，欧洲奢侈品板块全线溃退。 爱马仕年内下跌41.5% 股价跳水源于不及预期的三季报。爱马仕国际于10月22日公布的第三季度业绩低于市场预期，该集团第三季度",
      "source": "东方财富股票",
-     "zh": "半导体封测设备行业需求增长，海外布局成效显现，金海通三季度净利润增超2倍"
+     "zh": "暴跌、腰斩！国际巨头跌穿信仰！发生了什么？"
     },
     {
-     "title": "国家统计局：10月中旬22种产品价格上涨，生猪价格环比下降4.9%",
-     "link": "http://finance.eastmoney.com/news/1346,202610243907058257.html",
-     "pubDate": "Sat, 24 Oct 2026 09:36:46 +0800",
-     "summary": "国家统计局消息，据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年10月中旬与9月下旬相比，22种产品价格上涨，25种下降，3种持平。其中，液化 天然气 价格为6749.4元/吨，环比增长9.1%；生猪（外三元）价格为9.8元/千克，环比下降4.9%。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "国家统计局：10月中旬22种产品价格上涨，生猪价格环比下降4.9%"
+     "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+     "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+     "pubDate": "Sat, 24 Oct 2026 01:57:24 GMT",
+     "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+     "source": "CNBC",
+     "zh": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
     },
     {
-     "title": "亚马逊CEO：公司云计算容量在2027年底前已基本售罄",
-     "link": "http://stock.eastmoney.com/news/11228,202610243907060491.html",
-     "pubDate": "Sat, 24 Oct 2026 09:36:46 +0800",
-     "summary": "据报道， 亚马逊 CEO安迪·贾西表示，受AI基础设施需求不断增长影响 ， 亚马逊 云科技的 云计算 容量在2027年底前已基本售罄，且大量订单已排至2028年。贾西称， 亚马逊 正竭力满足AI实验室和企业源源不断的需求。 （文章来源：界面新闻）",
+     "title": "2026年海洋产业投融资路演（深圳站）活动举办",
+     "link": "http://finance.eastmoney.com/news/1355,202610243907061448.html",
+     "pubDate": "Sat, 24 Oct 2026 09:52:00 +0800",
+     "summary": "10月22日至23日，由自然资源部海洋战略规划与经济司主办的海洋产业投融资路演活动在深圳如期举办。来自政研企银的1400余人次 线上线下 参加活动，对接融资需求超15亿元。其中，内陆企业加速布局海洋产业，成为本次活动传递的新信号。截至目前，海洋产业投融资路演系列活动已连续举办11年，服务超260家涉海企业和科创团队，融资需求超410亿元。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "亚马逊CEO：公司云计算容量在2027年底前已基本售罄"
+     "zh": "2026年海洋产业投融资路演（深圳站）活动举办"
     },
     {
-     "title": "南方区域电力市场今起正式运行",
-     "link": "http://finance.eastmoney.com/news/1350,202610243907058112.html",
-     "pubDate": "Sat, 24 Oct 2026 09:35:05 +0800",
-     "summary": "今天上午，南方区域 电力 市场将正式运行，标志着全国统一 电力 市场建设迎来重大里程碑式节点。它打通了广东、广西、云南、贵州、海南五个省区的市场，把煤电、水电、核电、风电、光伏等都放到一个市场里买卖，按同一套规则竞价交易。 （文章来源：央视新闻）",
+     "title": "操纵股价 香港证监会出手！严查三高管",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907060757.html",
+     "pubDate": "Sat, 24 Oct 2026 09:50:23 +0800",
+     "summary": "10月22日，香港证监会在市场失当行为审裁处，对尝·高美集团有限公司（以下简称“尝·高美”）三名高层人员，以及其五名亲属、雇员和紧密联系人展开研讯程序。 上述人员涉嫌计划操纵尝·高美股价，以便从香港联交所GEM转往主板上市。 公开信息显示，尝·高美是一家于香港经营餐厅的投资控股公司，经营品牌涉及越式料理、日式料理、中式餐厅及西餐厅。截至10月22日收盘，该公司港股股价报2.05港元/股，当日下跌0.49%，总市值约7.8亿港元。其股价曾在不久前的9月17日，一度触及2.215港元/股的 历史新高 。 上述三名尝·高美高层人员分别为：主席兼共同创办人黄毅山，行政总裁兼共同创办人陈慧珍，时任首席财",
      "source": "东方财富股票",
-     "zh": "南方区域电力市场今起正式运行"
+     "zh": "操纵股价 香港证监会出手！严查三高管"
     },
     {
-     "title": "汽车早报【10月24日】",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907060074.html",
-     "pubDate": "Sat, 24 Oct 2026 09:35:00 +0800",
-     "summary": "工信部陈彦丞：坚定不移强化智能网联 汽车 企业科技创新和国际合作 10月23日，在2026世界智能网联 汽车 大会关键技术论坛上，工业和信息化部高新技术司副司长陈彦丞表示，下一步，工业和信息化部将立足自身职能，会同有关方面共同加强智能网联 新能源 汽车 关键核心技术，特别是前沿技术研发创新，为产业高质量发展注入强劲新动能。具体分为三方面，一是持之以恒推动关键核心技术研发，持续攻关智能网联相关的新一代通用 人工智能 与智驾大模型、车用协同感知决策等关键技术，有组织体系化地推动技术前沿、产业共性基础支撑攻关技术；二是进一步深化跨领域交叉融合，以 新能源 汽车为载体，推动 人工智能 、 新材料 、 ",
+     "title": "公募、外资密集出手！持续布局港股创新药",
+     "link": "http://stock.eastmoney.com/news/11134,202610243907060554.html",
+     "pubDate": "Sat, 24 Oct 2026 09:49:12 +0800",
+     "summary": "在基本面与估值吸引力显著抬升的背景下，公募近期开始在港股频频增持 创新药 。 近期资金风险偏好下降，市场波动显著加剧， 创新药 等成长赛道出现较大调整。在此背景下，多家公募基金和外资机构密集南下，持续布局 创新药 龙头股。 多位基金经理在近期的三季报中也强调，未来几年可能是中国创新药关键临床数据读出、海外授权推进及商业化价值兑现的重要阶段。 机构资金密集出手 港股创新药近一个月持续杀跌，估值被快速压缩，公募和外资的应对却是逆向流入、锁定筹码。 香港联交所最新权益披露数据显示，近期公募和外资等机构持续增持港股医药行业，主要覆盖创新药、医药服务、AI医药等多个方向，此外，根据刚刚披露的三季报信息，",
      "source": "东方财富股票",
-     "zh": "汽车早报【10月24日】"
+     "zh": "公募、外资密集出手！持续布局港股创新药"
+    },
+    {
+     "title": "欧盟前9个月新车注册量同比增长5.7%",
+     "link": "http://finance.eastmoney.com/news/1358,202610243907060846.html",
+     "pubDate": "Sat, 24 Oct 2026 09:48:18 +0800",
+     "summary": "欧洲 汽车 制造商协会（ACEA）最新数据显示，2026年1月至9月，欧盟新 乘用车 注册量同比增长5.7%，电动 汽车 市场份额持续扩大，传统燃油 汽车 市场份额进一步下降。 从动力类型看，混合动力汽车仍是欧盟市场最受欢迎的动力类型，前9个月注册量约309万辆，占新车注册总量的36.3%；纯电动汽车注册量约193万辆，占22.7%；插电式混合动力汽车注册量约86万辆，占10.1%。 与此同时，汽油车和柴油车注册量同比分别下降19.1%和19.5%，两者占欧盟新车注册量的比重由去年同期的36.9%降至28.2%。 （文章来源：新华财经）",
+     "source": "东方财富股票",
+     "zh": "欧盟前9个月新车注册量同比增长5.7%"
+    },
+    {
+     "title": "“为什么我的孩子，让我越来越陌生了？”",
+     "link": "http://www.eeo.com.cn/2026/1024/1071527.shtml",
+     "pubDate": "Sat, 24 Oct 2026 09:48:01 +0800",
+     "summary": "“为什么我的孩子，让我越来越陌生了？” 这句话经常有来访者对我说。以前明明是爱笑、阳光的孩子，怎么现在变得越来越沉默、暴躁，也不肯去学校了。一跟父母说话就炸，说什么话都听不进去。 为什么会这样？想起了沈华清教授说过的一句话“现在的孩子，从幼儿园到大学，都是关在笼子里养大的。幼儿园是笼子，小学初中是笼子，高中更是...",
+     "source": "经济观察网",
+     "zh": "“为什么我的孩子，让我越来越陌生了？”"
+    },
+    {
+     "title": "【金融头条】股价“腰斩”了宁德时代估值逻辑怎么变",
+     "link": "http://www.eeo.com.cn/2026/1024/1074199.shtml",
+     "pubDate": "Sat, 24 Oct 2026 09:48:00 +0800",
+     "summary": "随着行业从高速扩张逐步转向存量竞争，过去支撑宁德时代高估值的成长逻辑，也面临考验。",
+     "source": "经济观察网",
+     "zh": "【金融头条】股价“腰斩”了宁德时代估值逻辑怎么变"
+    },
+    {
+     "title": "方正证券燕翔：五大积极因素共振，中国资本市场配置价值将持续凸显",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907061513.html",
+     "pubDate": "Sat, 24 Oct 2026 09:46:12 +0800",
+     "summary": "方正证券首席经济学家燕翔近日在接受中国证券报·中证金牛座记者采访时表示， 尽管近期A股市场震荡加剧，但短期波动并未改变A股市场长期向好的趋势，宏观经济向新向优发展、企业盈利回升向上、市场估值处于相对底部区域、股东回报显著增强以及制度改革持续推进等五大积极因素有望共同支撑中国资本市场配置价值持续凸显。 从宏观经济增长情况看， 今年前三季度国内生产总值超过107万亿元，同比增长4.6%，符合全年经济增长预期目标，以高端制造、数智经济、现代服务等为代表的新动能，对前三季度经济增长的贡献率继续保持在40%以上。在燕翔看来，中国经济具有强大的韧性和增长潜力，新质生产力加速培育、经济结构持续优化升级，都为",
+     "source": "东方财富股票",
+     "zh": "方正证券燕翔：五大积极因素共振，中国资本市场配置价值将持续凸显"
     },
     {
      "title": "美伊“一触即发”，这个周末“草木皆兵”！油价4月以来首次触及117美元，单月涨超10%",
@@ -2361,30 +2393,6 @@
      "zh": "千亿分红到账 银行股成色等待三季报检验"
     },
     {
-     "title": "年内IPO终止企业超70家 严把准入关 从源头提升上市公司质量",
-     "link": "http://stock.eastmoney.com/news/11215,202610243906821543.html",
-     "pubDate": "Sat, 24 Oct 2026 08:02:00 +0800",
-     "summary": "日前，武汉中科创新技术股份有限公司向上海证券交易所提交申请，撤回科创板发行上市申请文件。万得数据显示，截至10月23日，年内A股IPO（首次公开募股）终止企业已达71家。从终止情况来看，3家企业被终止注册，68家企业为主动撤单。 中国首席经济学家论坛理事陈雳对《证券日报》记者表示，年内71家企业IPO项目终止，是注册制下审核导向深刻转变的体现。通过优化资本市场入口筛选机制，落实从源头提升上市公司质量的改革目标，维护资本市场投融资生态平衡，更好保护投资者合法权益。 年内终止上市申请的71家公司中，上海证券交易所16家（主板6家，科创板10家），深圳证券交易所15家（主板5家，创业板10家），北京",
-     "source": "东方财富资讯",
-     "zh": "年内IPO终止企业超70家 严把准入关 从源头提升上市公司质量"
-    },
-    {
-     "title": "资金借道宽基ETF逆势布局 近20个交易日净流入超2300亿元",
-     "link": "http://stock.eastmoney.com/news/11215,202610243906821644.html",
-     "pubDate": "Sat, 24 Oct 2026 07:59:00 +0800",
-     "summary": "近期，资金借道宽基ETF（交易型开放式指数基金）积极布局A股市场。 万得数据显示，10月22日，全市场宽基ETF单日净流入516.55亿元。将时间拉长至近20个交易日（9月17日至10月22日）来看，股票型ETF累计净流入2496.59亿元，其中宽基ETF净流入2361.41亿元，占比达94.59%。 从具体产品来看，资金主要流向沪深300、科创50、创业板等指数相关ETF。 万得数据显示，9月17日至10月22日，沪深300ETF华泰柏瑞、科创50ETF华夏、创业板ETF易方达分别净流入377.03亿元、354.26亿元和310.07亿元；沪深300ETF易方达、上证50ETF华夏、沪深30",
-     "source": "东方财富资讯",
-     "zh": "资金借道宽基ETF逆势布局 近20个交易日净流入超2300亿元"
-    },
-    {
-     "title": "智能体等应用普及率超90% 适时启动6G商用 国家信息化“十五五”规划释放了哪些信号",
-     "link": "http://finance.eastmoney.com/news/1344,202610243907012127.html",
-     "pubDate": "Sat, 24 Oct 2026 07:55:11 +0800",
-     "summary": "《国家信息化“十五五”规划》印发，系统谋划了“十五五”时期信息化发展的任务书、时间表、路线图。 近日，中央 网络安全 和信息化委员会印发《国家信息化“十五五”规划》（以下简称《规划》），《规划》紧扣《中华人民共和国国民经济和社会发展第十五个五年规划纲要》和网络强国建设有关部署，提出到2030年，我国信息化取得重大进展，在推进中国式现代化中的作用更加凸显。信息基础设施巩固拓展领先优势，陆海空天立体化网络体系基本形成，新一代 通信 网全面建成，适时启动第六代移动 通信 （6G）商用，国家 区块链 网络基本建成，智能互联网加快布局发展。网信科技创新能力显著增强，科技创新体系更加健全，重点领域关键核心",
-     "source": "东方财富资讯",
-     "zh": "智能体等应用普及率超90% 适时启动6G商用 国家信息化“十五五”规划释放了哪些信号"
-    },
-    {
      "title": "Instacart gains on report it's in talks to sell itself (update)",
      "link": "https://seekingalpha.com/news/4656752-instacart-gains-on-report-its-in-talks-to-sell-itself?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 19:47:34 -0400",
@@ -2433,28 +2441,12 @@
      "zh": "Moody&apos;s holds steady on France&apos;s credit rating as country grapples with turmoil and higher yields"
     },
     {
-     "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-     "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-     "pubDate": "Fri, 23 Oct 2026 22:49:04 GMT",
-     "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
-     "source": "CNBC",
-     "zh": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
-    },
-    {
      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
      "pubDate": "Fri, 23 Oct 2026 22:49:00 GMT",
      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
      "source": "MarketWatch",
      "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
-    },
-    {
-     "title": "SK海力士放弃Solidigm美国IPO计划，分析师称NAND未来供应减少，利好美光和闪迪",
-     "link": "https://wallstreetcn.com/articles/3784367",
-     "pubDate": "Sat, 24 Oct 2026 06:44:20 +0800",
-     "summary": "SK海力士放弃旗下Solidigm赴美IPO ，消除了NAND闪存市场一个潜在的供应扩张来源，美光科技与闪迪有望受益，但实际股价弹性仍受当前市场环境制约。 据LYNX Equity Strategies分析师团队10月23日发布的研究报告，若Solidigm顺利完成IPO，募集资金将用于在美国扩建NAND产能，可能在三年或更长时间后推升全球供应量，进而压制行业定价。如今这一融资渠道关闭，该风险已随之消散。 LYNX在报告中明确表示， 此次计划告吹对美光和闪迪\"均属实质性利好\"，两家公司同为NAND供应商，产能增长风险的降低有助于支撑行业定价与估值水平。 不过，分析师团队同时提示，当前市场环境可",
-     "source": "华尔街见闻",
-     "zh": "SK海力士放弃Solidigm美国IPO计划，分析师称NAND未来供应减少，利好美光和闪迪"
     },
     {
      "title": "WSFS outlines 45%-50% deposit beta in current hiking cycle while targeting double-digit Walton Trust growth",
@@ -2487,6 +2479,14 @@
      "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
      "source": "MarketWatch",
      "zh": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork."
+    },
+    {
+     "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+     "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 21:46:00 GMT",
+     "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
+     "source": "MarketWatch",
+     "zh": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out."
     }
    ]
   },

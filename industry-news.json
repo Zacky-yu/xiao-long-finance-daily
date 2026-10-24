@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/25 05:18:40",
+ "generated_at": "2026/10/25 05:42:50",
  "recent_days": 7,
  "industries": [
   {
@@ -329,12 +329,28 @@
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
+     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
+     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
+    },
+    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
+    },
+    {
+     "title": "Space Tech Expo Europe to say farewell to Bremen",
+     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
+     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -361,6 +377,30 @@
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
+     "title": "Soft Switching Or Hard?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
+     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Soft Switching Or Hard?"
+    },
+    {
+     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
+     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
+     "source": "Electronics Weekly",
+     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
+    },
+    {
+     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
+     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
+     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
+    },
+    {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
      "link": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html",
      "pubDate": "Fri, 23 Oct 2026 08:59:00 GMT",
@@ -383,6 +423,14 @@
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "Electronics production growth accelerating, says SI",
+     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
+     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -447,54 +495,6 @@
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
-    },
-    {
-     "title": "Chip Scaling Moves Beyond The Transistor",
-     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
-     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Chip Scaling Moves Beyond The Transistor"
-    },
-    {
-     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
-     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
-     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
-    },
-    {
-     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
-     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
-     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
-    },
-    {
-     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
-     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
-     "source": "Semiconductor Today",
-     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
-    },
-    {
-     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
-     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
-    },
-    {
-     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
-     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -1025,6 +1025,14 @@
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1079,14 +1087,6 @@
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
+     "link": "https://www.techmeme.com/261024/p9#a261024p9",
+     "pubDate": "Sat, 24 Oct 2026 17:30:01 -0400",
+     "summary": "Torsten Slok / Apollo Global Management : Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &nbsp; &mdash;&nbsp; Despite massive investments and widespread hype around artificial intelligen",
+     "source": "Techmeme",
+     "zh": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)"
+    },
+    {
      "title": "KIMI之殇",
      "link": "https://www.huxiu.com/article/4900212.html?f=rss",
      "pubDate": "Sun, 25 Oct 2026 05:04:34 +0800",
@@ -1780,7 +1788,7 @@
      "title": "Steal My Bitcoin",
      "link": "https://stealmybitcoin.com/",
      "pubDate": "Sat, 24 Oct 2026 20:30:31 +0000",
-     "summary": "Article URL: https://stealmybitcoin.com/ Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 68 # Comments: 11",
+     "summary": "Article URL: https://stealmybitcoin.com/ Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 98 # Comments: 21",
      "source": "Hacker News",
      "zh": "Steal My Bitcoin"
     },
@@ -1796,7 +1804,7 @@
      "title": "No Signs of AI Payoff Outside the Tech Sector",
      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
      "pubDate": "Sat, 24 Oct 2026 19:47:19 +0000",
-     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 233 # Comments: 194",
+     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 272 # Comments: 232",
      "source": "Hacker News",
      "zh": "No Signs of AI Payoff Outside the Tech Sector"
     },
@@ -1812,7 +1820,7 @@
      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
      "link": "https://missileer.watch",
      "pubDate": "Sat, 24 Oct 2026 19:43:27 +0000",
-     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 52 # Comments: 23",
+     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 57 # Comments: 24",
      "source": "Hacker News",
      "zh": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz"
     },
@@ -1820,7 +1828,7 @@
      "title": "The Goose Programming Language",
      "link": "https://aardappel.github.io/goose/",
      "pubDate": "Sat, 24 Oct 2026 19:27:41 +0000",
-     "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 102 # Comments: 40",
+     "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 113 # Comments: 46",
      "source": "Hacker News",
      "zh": "The Goose Programming Language"
     },
@@ -1828,7 +1836,7 @@
      "title": "SpeedCrunch 1.1",
      "link": "https://www.speedcrunch.org/",
      "pubDate": "Sat, 24 Oct 2026 19:19:43 +0000",
-     "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 9 # Comments: 1",
      "source": "Hacker News",
      "zh": "SpeedCrunch 1.1"
     },
@@ -1836,7 +1844,7 @@
      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
      "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
      "pubDate": "Sat, 24 Oct 2026 19:06:55 +0000",
-     "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 87 # Comments: 40",
+     "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 94 # Comments: 43",
      "source": "Hacker News",
      "zh": "John Carmack on the Goose Language: multiple data stacks and relative references"
     },
@@ -1991,14 +1999,6 @@
      "summary": "Wall Street Journal : Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service &nbsp; &mdash;&nbsp; Speed restrictions imposed by Elon Musk's SpaceX have hampered Ukraine's drone forces since Oct. 14&nbsp; &mdash;&nbsp; KY",
      "source": "Techmeme",
      "zh": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)"
-    },
-    {
-     "title": "美光桃园厂工会否决奖金方案",
-     "link": "https://www.solidot.org/story?sid=85699",
-     "pubDate": "Sat, 24 Oct 2026 21:14:51 +0800",
-     "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1 万 2000 人。两个工会此前均要求，公司发放相当于 83 个月薪资的一次性奖金，并建立长期利润分享制度，将营业利润的 15% 用于员工奖金，按季而非按年发放。美光与规模较大的台中厂工会星期三（10月21日）达成协议。根据薪酬和福利改革方案，公司将从 2027 财年起，为全球员工增设季度利润分享奖金，与原有激励奖金计划（IPP）并行，新增奖金以现金和股票各",
-     "source": "Solidot",
-     "zh": "美光桃园厂工会否决奖金方案"
     }
    ]
   },
@@ -2257,6 +2257,30 @@
    "total": 13,
    "items": [
     {
+     "title": "Musk says Ukraine violated Starlink terms with offensive drone strikes",
+     "link": "https://seekingalpha.com/news/4656938-musk-says-ukraine-violated-starlink-terms-offensive-drone-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 17:30:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Musk says Ukraine violated Starlink terms with offensive drone strikes"
+    },
+    {
+     "title": "伊拉克北部一处伊朗库尔德反对派营地遭无人机袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907135052.html",
+     "pubDate": "Sun, 25 Oct 2026 05:20:02 +0800",
+     "summary": "当地时间24日晚，伊拉克北部库尔德自治区（库区）安全部门消息人士称，一架 无人机 当晚袭击了伊库区首府埃尔比勒东北部的一处伊朗库尔德反对派组织营地。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊拉克北部一处伊朗库尔德反对派营地遭无人机袭击"
+    },
+    {
+     "title": "也门胡塞武装称沙特一天内发动百次空袭",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134930.html",
+     "pubDate": "Sun, 25 Oct 2026 05:18:06 +0800",
+     "summary": "当地时间24日晚，也门胡塞武装发表声明称， 过去24小时，沙特方面发动100次空袭，袭击了也门首都萨那及其他地区的民用目标，造成数十人死伤。 声明称，自局势升级以来，沙特方面发动的空袭和导弹袭击总数已达3123次。 声明还表示，胡塞武装当天使用弹道导弹和 无人机 ，对沙特境内多个目标进行了七次袭击。目标包括：沙特首都利雅得的哈立德国王 机场 、达曼的法赫德国王国际 机场 、纳季兰 机场 、海米斯穆谢特空军基地，以及沙特国家石油公司（沙特阿美）的炼油厂、原油泵站以及连接沙特东部和西部的原油输送管道。 此外，也门胡塞武装还否认了沙特方面关于其袭击麦加和麦地那两地的指控，并表示胡塞武装的行动目标是沙",
+     "source": "东方财富股票",
+     "zh": "也门胡塞武装称沙特一天内发动百次空袭"
+    },
+    {
      "title": "美司法部要求加州官员核查选民身份 不配合者或将遭审查",
      "link": "http://finance.eastmoney.com/news/1351,202610253907134874.html",
      "pubDate": "Sun, 25 Oct 2026 05:11:03 +0800",
@@ -2297,14 +2321,6 @@
      "zh": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空"
     },
     {
-     "title": "大买家与大卖家：39.94万亿中的双向机遇",
-     "link": "http://finance.eastmoney.com/news/1346,202610243907123487.html",
-     "pubDate": "Sun, 25 Oct 2026 04:18:17 +0800",
-     "summary": "中国在世界经济版图中扮演的角色，越来越重要。 随着2026年前三季度经济数据出炉，中国外贸交出了一份“沉甸甸”的阶段性答卷。最新国际数据显示，我国继续稳居全球货物贸易第一大国地位。 当前，地缘政治冲突持续扰动全球经贸秩序，贸易保护主义、单边主义抬头，而中国正在以“大买家”和“大卖家”双重身份，深度参与全球经济版图建设，成为全球产供链的“稳定锚”。 前三季度外贸数据，增了 最新数据显示，前三季度我国货物进出口总额39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%；进口16.74万亿元，增长22.3%。 分季度看，三季度出口规模首次突破8万亿元，增长22%。从月度看，连",
-     "source": "东方财富股票",
-     "zh": "大买家与大卖家：39.94万亿中的双向机遇"
-    },
-    {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 20:15:00 GMT",
@@ -2327,14 +2343,6 @@
      "summary": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
      "source": "CNBC",
      "zh": "Democrats, voting-rights groups challenge Trump&apos;s bid to block Alaska Senate certification"
-    },
-    {
-     "title": "爱奇艺AIGC（大湾区）创意中心正式落地广州",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907130995.html",
-     "pubDate": "Sun, 25 Oct 2026 03:50:40 +0800",
-     "summary": "10月24日， 爱奇艺 与广州市人民政府签署战略合作框架协议。在当天举办的广州市AIGC视听产业系列发布活动上，广东广播电视台与 爱奇艺 签署纪录片战略合作协议， 爱奇艺 AIGC（大湾区）创意中心正式落地广州。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "爱奇艺AIGC（大湾区）创意中心正式落地广州"
     },
     {
      "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
@@ -2415,14 +2423,6 @@
      "summary": "“I’m 32 years old and feel like I should know how to do this stuff by now.”",
      "source": "MarketWatch",
      "zh": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?"
-    },
-    {
-     "title": "Couche-Tard makes bid for Cumberland Farms: report",
-     "link": "https://seekingalpha.com/news/4656933-couche-tard-makes-bid-cumberland-farms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 12:30:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Couche-Tard makes bid for Cumberland Farms: report"
     },
     {
      "title": "Why popular airplanes are getting scrapped years early",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 18:12:01",
+ "generated_at": "2026/10/24 18:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -193,36 +193,12 @@
      "zh": "Securing our frontier model training environment"
     },
     {
-     "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
-     "link": "https://www.qbitai.com/2026/10/505083.html",
-     "pubDate": "Fri, 23 Oct 2026 09:21:41 +0000",
-     "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
-     "source": "量子位",
-     "zh": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力"
-    },
-    {
      "title": "刚刚，何刚升职！成华为第17位董事",
      "link": "https://zhidx.com/p/604116.html",
      "pubDate": "Fri, 23 Oct 2026 17:20:37 +0800",
      "summary": "智东西 作者 | 云鹏 编辑｜心缘 智东西10月23日消息，根据华为官网管理层信息， 华为终端BG CEO何刚升任华为董事， 这位在华为工作了28年的老将，正式进入华为董事会。 何刚和余承东也是华为终端业务线“唯二”进入董事会的成员。 根据官网信息，何刚出生于1973年，毕业于西安电子科技大学，硕士。1998年加入华为，历任 无线GSM&UMTS产品线总裁、全球无线解决方案销售部部长、终端BG手机产品线总裁、终端BG CEO 等职务。 何刚比余承东小4岁，晚5年入职华为，同样为技术出身。 目前何刚微博信息已经更新。 2024年4月，余承东卸任终端BG CEO，何刚接任。据PChome报道， 接",
      "source": "智东西",
      "zh": "刚刚，何刚升职！成华为第17位董事"
-    },
-    {
-     "title": "企业AI需要两个世界模型",
-     "link": "https://www.qbitai.com/2026/10/505032.html",
-     "pubDate": "Fri, 23 Oct 2026 09:07:25 +0000",
-     "summary": "特赞想让企业Agent真正懂业务",
-     "source": "量子位",
-     "zh": "企业AI需要两个世界模型"
-    },
-    {
-     "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
-     "link": "https://www.qbitai.com/2026/10/504931.html",
-     "pubDate": "Fri, 23 Oct 2026 09:03:37 +0000",
-     "summary": "房间秒变草原，抬手就能下雪",
-     "source": "量子位",
-     "zh": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！"
     },
     {
      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
@@ -233,20 +209,44 @@
      "zh": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents"
     },
     {
-     "title": "国产5B生图模型海外突然爆火，4天超百万下载",
-     "link": "https://www.qbitai.com/2026/10/504930.html",
-     "pubDate": "Fri, 23 Oct 2026 08:50:16 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "国产5B生图模型海外突然爆火，4天超百万下载"
+     "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+     "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+     "pubDate": "Fri, 23 Oct 2026 06:05:10 +0000",
+     "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent ap",
+     "source": "MarkTechPost",
+     "zh": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent"
     },
     {
-     "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
-     "link": "https://www.qbitai.com/2026/10/504915.html",
-     "pubDate": "Fri, 23 Oct 2026 08:45:43 +0000",
-     "summary": "让AI真正走进真实世界",
-     "source": "量子位",
-     "zh": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相"
+     "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+     "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+     "pubDate": "Fri, 23 Oct 2026 05:28:21 +0000",
+     "summary": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on M",
+     "source": "MarkTechPost",
+     "zh": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA"
+    },
+    {
+     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+     "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
+     "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+     "source": "TechCrunch AI",
+     "zh": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia"
+    },
+    {
+     "title": "Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737212&idx=1&sn=5a1bfdf04ac60667d4b36bd67a30c371",
+     "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端"
+    },
+    {
+     "title": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737212&idx=2&sn=3b29e6d852a2e0037da5d4a18e268e75",
+     "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕"
     }
    ]
   },
@@ -1537,6 +1537,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+     "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+     "pubDate": "Sat, 24 Oct 2026 14:34:24 +0530",
+     "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of",
+     "source": "The Hacker News",
+     "zh": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet"
+    },
+    {
+     "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+     "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+     "pubDate": "Sat, 24 Oct 2026 14:15:56 +0530",
+     "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli. Tracked as&nbsp;CVE-2026-111497, the flaw allows crafted compres",
+     "source": "The Hacker News",
+     "zh": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software"
+    },
+    {
      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
      "pubDate": "Sat, 24 Oct 2026 11:55:57 +0530",
@@ -1657,14 +1673,6 @@
      "zh": "Why Caribbean Threats Cascade Into Global Cyber-Risk"
     },
     {
-     "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-     "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-     "pubDate": "Fri, 23 Oct 2026 19:20:56 +0530",
-     "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access t",
-     "source": "The Hacker News",
-     "zh": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials"
-    },
-    {
      "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
      "link": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
      "pubDate": "Fri, 23 Oct 2026 13:30:00 GMT",
@@ -1687,14 +1695,6 @@
      "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
      "source": "Dark Reading",
      "zh": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack"
-    },
-    {
-     "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-     "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-     "pubDate": "Fri, 23 Oct 2026 16:55:43 +0530",
-     "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project",
-     "source": "The Hacker News",
-     "zh": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches"
     },
     {
      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
@@ -1753,12 +1753,124 @@
    "total": 18,
    "items": [
     {
+     "title": "重力星球 MH1 PRO 头戴式耳机上架：53mm 动圈、ANC 降噪，799 元",
+     "link": "https://www.ithome.com/1/017/447.htm",
+     "pubDate": "Sat, 24 Oct 2026 10:20:54 GMT",
+     "summary": "IT之家 10 月 24 日消息，重力星球现已在京东上架 MH1 PRO 头戴式耳机，该产品配备 53mm 动圈、支持 ANC 降噪， 定价为 799 元 ，将于 10 月 31 日发售。 京东 重力星球 MH1 PRO 头戴式游戏耳机 799 元 直达链接 该耳机外观采用仿生骨骼形态流线结构，并结合精工抛光倒角处理。头梁部分支持 13 档步进阻尼调节，配合支臂倾角调校与 90 度自适应调整设计，以提升佩戴贴合度。耳机外壳还带有 4 种 RGB 灯光模式。 该耳机搭载 53mm 动圈单元，频响范围为 20-20kHz，单元灵敏度达 114±3dB。内部采用雷达式环形声腔以减少谐振。耳机支持 T",
+     "source": "IT之家",
+     "zh": "重力星球 MH1 PRO 头戴式耳机上架：53mm 动圈、ANC 降噪，799 元"
+    },
+    {
+     "title": "耐克就微信客服账号“异常消息”致歉，警方已介入调查",
+     "link": "https://www.ithome.com/1/017/446.htm",
+     "pubDate": "Sat, 24 Oct 2026 10:19:11 GMT",
+     "summary": "IT之家 10 月 24 日消息，多名网友今日在社交平台反映，带有安克创新、耐克、盒马、CATLINK 等品牌认证标识的企业微信客服账号在今日凌晨向客户发送了多种疑似色情引流信息，引发关注。 当日下午，企业微信安全团队发布公告，对事件原因作出说明。公告称，经排查，少量企业微信账号向客户发送疑似色情引流信息，确认为某第三方外挂软件服务被攻破，导致使用该外挂服务的账号受到影响。企业微信已将受影响的账号强制下线，并封禁了相关引流链接。微信官方暗指这部分企业用户使用了“账号多开”“群控”类外挂工具。 微信官方公告同时警告，此类外挂软件存在“账号被他人操控、企业数据和客户信息泄露”的风险，企业微信将加大",
+     "source": "IT之家",
+     "zh": "耐克就微信客服账号“异常消息”致歉，警方已介入调查"
+    },
+    {
+     "title": "今年的1024，可能是最后一个程序员节",
+     "link": "https://www.huxiu.com/article/4900164.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 18:17:35 +0800",
+     "summary": "本文来自微信公众号： 极客公园 ，作者：Wildcard，编辑：靖宇，原文标题：《今年的 1024，可能是最后一个程序员节》 程序员可能会消失，但人人都变成了「程序员」。 今天一整天，X上都有人在讨论，「1024程序员节日快乐，今年会不会是最后一个程序员节了」。 这一天恰好是周六。微博上的话题叫「今年程序员节自带休息日」，配文说AI工具分担了重复编码，程序员终于能过一个不被紧急需求打断的节。 影石连续第五年给优秀程序员发黄金键帽，今年新增了一颗「F5」键，寓意不断刷新迭代。颁奖现场，一位年轻同事说了句玩笑话，「今年的黄金键帽，应该发给AI」。 一家机构的节日推文写得更直白，「今年的程序员节，我",
+     "source": "虎嗅",
+     "zh": "今年的1024，可能是最后一个程序员节"
+    },
+    {
+     "title": "12 Absolutely Banging Proper Watches Under $400",
+     "link": "https://www.wired.com/story/best-watches-under-400-chosen-by-experts/",
+     "pubDate": "Sat, 24 Oct 2026 10:15:00 +0000",
+     "summary": "WIRED and its panel of watch experts hunted for real mechanical timepieces at rock-bottom prices and found a wealth of options. Here are our favorites.",
+     "source": "WIRED",
+     "zh": "12 Absolutely Banging Proper Watches Under $400"
+    },
+    {
+     "title": "年轻人，不愿意干快消业务了",
+     "link": "https://www.huxiu.com/article/4900162.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 18:14:06 +0800",
+     "summary": "本文来自微信公众号： 新经销 ，作者：金名 近些年，快消公司都在搞年轻化战略，业务员也要求年轻化，说是要激发业务队伍的活力，要招年轻人。于是，基层业务员的年龄要求越来越严，最开始，不超过35岁，慢慢的不超过32岁、30岁、28岁…… 尤其是大厂，对年轻人表现得很“友好”。厂家认为年轻人有活力、有干劲，甚至花大力气搞“管培生”项目，现实是招进来一批走一批，市场越折腾越乱。 某头部啤酒大厂华南市场HR分享：“我们校招了几十个年轻大学生，补充到业务员队伍，但一年内的离职率超过了60%。” 据了解，这家公司给刚入职的年轻业务员设置了半年的保护期，这种情况下，还有这么高的流失率，对那些一上来就要打硬仗、",
+     "source": "虎嗅",
+     "zh": "年轻人，不愿意干快消业务了"
+    },
+    {
+     "title": "致敬《GTA6》：游戏《僵尸世界大战》将于 11 月 12 日推出“Viral State”更新，带来迈阿密地图",
+     "link": "https://www.ithome.com/1/017/444.htm",
+     "pubDate": "Sat, 24 Oct 2026 10:10:03 GMT",
+     "summary": "IT之家 10 月 24 日消息，开发商 Saber Interactive 宣布将于 11 月 12 日为旗下《僵尸世界大战（World War Z）》推出“Viral State”更新，为游戏带来迈阿密地图，参考官方预热海报及视频，可以看到整体风格致敬了《GTA6》。 霓虹闪烁，阳光倾洒，棕榈树摇曳通向海滩天堂…… 可惜还有成群的僵尸来袭！欢迎来到佛罗里达州迈阿密！ 公开信息显示，《僵尸世界大战（World War Z）》于 2021 年 9 月 21 日首度发售，游戏的灵感源自于派拉蒙影业公司拍摄的热门影片，最多支持 4 名玩家共同游玩，可以在主机和 PC 平台上跨平台联机游玩，目前在 ",
+     "source": "IT之家",
+     "zh": "致敬《GTA6》：游戏《僵尸世界大战》将于 11 月 12 日推出“Viral State”更新，带来迈阿密地图"
+    },
+    {
+     "title": "祭出 Kosmo，禾赛要成为机器人的博世？",
+     "link": "https://www.tmtpost.com/8179870.html",
+     "pubDate": "Sat, 24 Oct 2026 18:08:34 +0800",
+     "summary": "做时间的朋友。",
+     "source": "钛媒体",
+     "zh": "祭出 Kosmo，禾赛要成为机器人的博世？"
+    },
+    {
+     "title": "一位开发者让电视服用了Claude，这是它系统发生的变化",
+     "link": "https://www.huxiu.com/article/4900161.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 18:08:06 +0800",
+     "summary": "本文来自微信公众号： 爱范儿 ，作者：关注明日产品的，编辑：肖钦鹏，原文标题：《一位开发者让电视服用了 Claude，这是它系统发生的变化》 曾几何时，电视在人们心目中，还是个开机就能看、按两下遥控器就能换台的物种。 现在，打开电视准备看部电影，首先映入眼帘的却是一段开机广告。好不容易进了主页，扑面而来的又是满屏的海报推荐、会员充值弹窗，中途按个暂停还会跳出一整张促销贴片。 图｜北京商报 最近，有一群人终于不打算再忍下去了。他们找来了一个意料之外的帮手——AI，试着把电视给「改回去」。 给电视做一场「大扫除」 上周，开发者Gathin在社交平台上发了一组给父母改电视的照片。按他的描述，家里的小",
+     "source": "虎嗅",
+     "zh": "一位开发者让电视服用了Claude，这是它系统发生的变化"
+    },
+    {
+     "title": "深度｜康佳退市：同一代彩电巨头，为什么活成了完全不同的样子",
+     "link": "https://www.huxiu.com/article/4900160.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 18:08:03 +0800",
+     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜康佳退市：同一代彩电巨头，为什么活成了完全不同的样子》 2026年10月23日，股票代码000016正式从深交所消失。 康佳集团，这家1992年上市的“彩电第一股”，在走过34年之后黯然摘牌。四年累计亏损超200亿元，2025年末归母净资产已跌至-60.83亿元，到今年年中进一步扩大至-62.27亿元，资产负债率133%。今年1月以来，至少9名前高管因涉嫌严重违纪违法被纪委监委通报调查，其中包括原党委书记、董事局副主席周彬。 但康佳的故事不是一个简单的“企业失败”故事。它是一个关于“同一代人在同一个行业里，为什么走出了完全不同的",
+     "source": "虎嗅",
+     "zh": "深度｜康佳退市：同一代彩电巨头，为什么活成了完全不同的样子"
+    },
+    {
+     "title": "手握10亿资金，分红不手软，百普赛斯为何执意二闯港交所？",
+     "link": "https://www.tmtpost.com/8180266.html",
+     "pubDate": "Sat, 24 Oct 2026 18:08:00 +0800",
+     "summary": "重金押注瑞士为哪般？",
+     "source": "钛媒体",
+     "zh": "手握10亿资金，分红不手软，百普赛斯为何执意二闯港交所？"
+    },
+    {
+     "title": "月活3.68亿的红果，不再需要“羊毛用户”？",
+     "link": "https://www.tmtpost.com/8179804.html",
+     "pubDate": "Sat, 24 Oct 2026 18:07:54 +0800",
+     "summary": "用户在红果“看剧赚钱”，即将成为历史。",
+     "source": "钛媒体",
+     "zh": "月活3.68亿的红果，不再需要“羊毛用户”？"
+    },
+    {
+     "title": "百度搭子的阶段性大考来了",
+     "link": "https://www.tmtpost.com/8179558.html",
+     "pubDate": "Sat, 24 Oct 2026 18:07:17 +0800",
+     "summary": "侧翼战的胜负，并不取决于百度的决心有多大，而在于搭子如何避开自身的软肋。",
+     "source": "钛媒体",
+     "zh": "百度搭子的阶段性大考来了"
+    },
+    {
+     "title": "年轻人还在买金，只是不再为“牌子”付费",
+     "link": "https://www.tmtpost.com/8180486.html",
+     "pubDate": "Sat, 24 Oct 2026 18:03:37 +0800",
+     "summary": "爸妈买金为婚礼，年轻人买金为“发工资”。",
+     "source": "钛媒体",
+     "zh": "年轻人还在买金，只是不再为“牌子”付费"
+    },
+    {
      "title": "张雪时隔 17 年再战“水上漂”：张雪机车明日挑战吉尼斯世界纪录，目标 40 公里起步",
      "link": "https://www.ithome.com/1/017/443.htm",
      "pubDate": "Sat, 24 Oct 2026 10:03:29 GMT",
      "summary": "IT之家 10 月 24 日消息“张雪机车”创始人张雪宣布将于 10 月 25 日驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村挑战“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录。 此次挑战拟定挑战距离为 40 公里；张雪机车技术负责人邓连松表示，目前该项目现存世界纪录为 31 公里左右（IT之家注：澳大利亚车手 Robbie Maddison 曾创下约 31.9 公里的水面滑行纪录），团队将冲击 41 公里，这一数字是综合考虑直播时长和航道时间后确定的，并非团队实测的最好成绩。 此次挑战将于 10 月 25 日 10 时至 13 时进行全网多平台直播，全员仅有一次",
      "source": "IT之家",
      "zh": "张雪时隔 17 年再战“水上漂”：张雪机车明日挑战吉尼斯世界纪录，目标 40 公里起步"
+    },
+    {
+     "title": "苏超的背后的经济意义",
+     "link": "https://www.tmtpost.com/8180366.html",
+     "pubDate": "Sat, 24 Oct 2026 18:03:20 +0800",
+     "summary": "“挑大梁”的担当。",
+     "source": "钛媒体",
+     "zh": "苏超的背后的经济意义"
     },
     {
      "title": "渝昆高铁全线铺轨完成：重庆到昆明将压缩至两个半小时",
@@ -1777,14 +1889,6 @@
      "zh": "《赛博朋克：边缘行者 2》设计师：动画时间线设定在 2078 年，即游戏剧情一年以后"
     },
     {
-     "title": "显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090 被炒至 6 万元",
-     "link": "https://www.ithome.com/1/017/440.htm",
-     "pubDate": "Sat, 24 Oct 2026 10:00:25 GMT",
-     "summary": "IT之家 10 月 24 日消息，虽然英伟达予以否认，但关于“RTX 5090 停产”的传闻正在华强北引发一轮价格异动。 据 21 财经今日报道，RTX 50 系列高端型号渠道报价“一日一价”，旗舰 RTX 5090 从官方初始零售价约 1.5 万至 1.6 万元，被炒至 5.5 万至 6 万元；RTX 5080 从初始售价约 8000 元涨至 1.7 万元。 在华强北从业 16 年的金硕利电脑经理熊容容表示，半个月前 RTX 5080 渠道价还在 1.2 万元左右，短期上涨了 4000 至 5000 元；RTX 5090 此前约 3 万元，随后直接攀升至 5 万元级别。与此同时，走货主力型号",
-     "source": "IT之家",
-     "zh": "显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090 被炒至 6 万元"
-    },
-    {
      "title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
      "link": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
      "pubDate": "Sat, 24 Oct 2026 10:00:00 +0000",
@@ -1801,28 +1905,12 @@
      "zh": "Best Laptops (2026): My Top Recommendations After Testing Hundreds"
     },
     {
-     "title": "XREAL 1 Pro+ 智能眼镜国行上架：峰值亮度提升至 1200 尼特、鼻托结构重新设计，3499 元",
-     "link": "https://www.ithome.com/1/017/439.htm",
-     "pubDate": "Sat, 24 Oct 2026 09:53:39 GMT",
-     "summary": "IT之家 10 月 24 日消息，XREAL 10 月 16 日在海外发布了新款 AR 眼镜 XREAL 1 Pro+，主要提升面板亮度，同时调整人体工程学设计，目前该机国行版本已在京东上架， 定价 3499 元 ，10 月 27 日发售。 京东 XREAL 1 Pro+ 智能眼镜 3499 元 直达链接 XREAL 1 Pro+ 采用重新设计的鼻托结构，旨在改善眼镜与面部的贴合度，提升长时间观看时的舒适性。其搭载双 0.55 英寸索尼 Micro-OLED 面板，峰值亮度最高可达 1200 尼特，较前代产品的 700 尼特明显提升。 除了更高的峰值亮度，新品还加入 AI HDR 功能，借助 ",
-     "source": "IT之家",
-     "zh": "XREAL 1 Pro+ 智能眼镜国行上架：峰值亮度提升至 1200 尼特、鼻托结构重新设计，3499 元"
-    },
-    {
      "title": "I Don't Understand Quantum Physics",
      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 17 # Comments: 7",
      "source": "Hacker News",
      "zh": "I Don't Understand Quantum Physics"
-    },
-    {
-     "title": "比亚迪腾势 N8 八款外观车色公布，11 月上市",
-     "link": "https://www.ithome.com/1/017/438.htm",
-     "pubDate": "Sat, 24 Oct 2026 09:53:21 GMT",
-     "summary": "IT之家 10 月 24 日消息，比亚迪腾势 N8 八款外观车色今日公布，将于 10 月 26 日开启小订，11 月正式上市。 4 款拼色： 深空蓝、极光绿、日光橙、星暮灰 4 款纯色： 天霁青、流光银、暗夜黑、舒云灰 IT之家注意到，在此之前，比亚迪腾势 N8 四大内饰配色正式亮相，分别为 月满空山、朝雾米、破晓红、晚原棕。 腾势 N8 是一款大五座纯电 SUV，新车长 5150mm、宽 1999mm、高 1820mm，轴距 3075mm；搭载第二代刀片电池及闪充技术，纯电续航可达 1003km。 工信部申报信息显示 ，腾势 N8 有单电机版（320kw）、高性能单电机版（370kw）和三电",
-     "source": "IT之家",
-     "zh": "比亚迪腾势 N8 八款外观车色公布，11 月上市"
     },
     {
      "title": "综艺失火，殃及阿福？",
@@ -1839,14 +1927,6 @@
      "summary": "本文来自微信公众号： 底线思维 ，作者：史派克特 10月25日，巴西大选将进行第二轮投票。首轮投票中，小博索纳罗以47.03%对卢拉45.16%意外领先，第二轮投票前，两人支持度各为50%，被媒体称为巴西“史上最胶着的大选”。 这场选举不仅决定拉美第一大经济体未来四年的内政外交走向，也牵动中美在拉丁美洲的战略平衡。在此背景下，圣保罗瓦加斯基金会国际关系学院院长马蒂亚斯·史派克特于10月15日做客人大重阳“全球名家”论坛，发表题为“中美竞争背景下巴西的对冲策略”的演讲。 史派克特从“对冲”概念切入，指出巴西面临安全上依赖美国、经济上深度合作中国的特殊格局，进而分析巴西大选中的两条外交路线。他强调",
      "source": "虎嗅",
      "zh": "巴西大选胶着，谁上台都绕不开的“对冲”难题"
-    },
-    {
-     "title": "欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？",
-     "link": "https://www.huxiu.com/article/4900157.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 17:37:23 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：程亚文 2026年，中国企业出海正面临前所未有的“双向夹击”。 在欧盟，继对中国电动汽车加征最高35.3%反补贴税后，欧盟依据《外国补贴条例》（FSR）对中国风电龙头金风科技启动深入调查，安检设备企业同遭波及。 在大西洋彼岸，美国国防部将比亚迪、蔚来、宁德时代等中国汽车产业链企业纳入1260H“中国军事企业清单”，实质性关闭了相关企业的政府采购通道。与此同时，美国商务部发布新指引，将先进AI芯片的出口许可要求延伸至中国企业的海外子公司，堵住了“绕道出海”获取高端技术的通道。 当外部限制层层加码，中国出海企业不再只是遭遇关税壁垒，而是面对一整套从贸易、技术",
-     "source": "虎嗅",
-     "zh": "欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？"
     },
     {
      "title": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
@@ -1873,84 +1953,20 @@
      "zh": "Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’"
     },
     {
-     "title": "Deepseek招天才，Kimi找老兵",
-     "link": "https://www.tmtpost.com/8180419.html",
-     "pubDate": "Sat, 24 Oct 2026 16:58:00 +0800",
-     "summary": "算力霸权与智力密度的双重较量。",
-     "source": "钛媒体",
-     "zh": "Deepseek招天才，Kimi找老兵"
-    },
-    {
-     "title": "Meta迎来“分裂季”",
-     "link": "https://www.tmtpost.com/8180397.html",
-     "pubDate": "Sat, 24 Oct 2026 16:54:00 +0800",
-     "summary": "自由现金流上市以来首次转负。",
-     "source": "钛媒体",
-     "zh": "Meta迎来“分裂季”"
-    },
-    {
-     "title": "AI破解数学难题，顶尖数学家怎么想？",
-     "link": "https://www.huxiu.com/article/4900153.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 16:52:49 +0800",
-     "summary": "本文来自微信公众号： 复旦青年 ，作者：关注科学的，原文标题：《学者访谈 | AI破解数学难题，顶尖数学家怎么想？》 “ 可以说，数学是一个有机整体吧。有关它的重大问题的解决，会吸引更多人来投身；投身其中的人，又创造更多可能性。人类就是在一个个可能性里面创造奇迹。要是把这些可能性都扼杀掉了，那奇迹可能就被扼杀了。 ” 复旦青年记者吴浩然主笔 复旦青年记者刘书铭叶静茹蒋奕铭拍摄 复旦青年记者刘书铭剪辑 复旦青年记者余秋瞳编辑 ▲点击观看《复旦青年》访谈复旦大学上海数学中心与数学科学学院长聘教授李志远 2026年10月6日，OpenAI一次性公开了722篇由内部模型生成的数学研究手稿，分为372组",
-     "source": "虎嗅",
-     "zh": "AI破解数学难题，顶尖数学家怎么想？"
-    },
-    {
-     "title": "大厂减配员工福利，纷纷进入“纯过日子”时代？",
-     "link": "https://www.tmtpost.com/8180346.html",
-     "pubDate": "Sat, 24 Oct 2026 16:49:00 +0800",
-     "summary": "节流有上限，大厂仍要四处找钱。",
-     "source": "钛媒体",
-     "zh": "大厂减配员工福利，纷纷进入“纯过日子”时代？"
-    },
-    {
-     "title": "跌透了？",
-     "link": "https://www.huxiu.com/article/4900151.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 16:48:32 +0800",
-     "summary": "本文来自微信公众号： 叶檀财经 ，作者：叶檀财经团队 人和人之间能共情吗？ 非常难，难到几乎不可能。 共情更形象的说法是神入，一种通过想象体验别人内心情感的过程。这个世界上，没有两个人的经历完全一致，所以这样的想象，是一种幻想，也是一种理想。 清华大学副教授蒙克在一篇文章中写道，现代人最大的精神困境，源于彼此之间巨大的时差。 蒙克举了一个例子，拍摄于1998年的一幅摄影作品《关上街子天》，当时摄影师吴家林走在昆明机场附近，突然发现一位农民赶着骡车从身边经过，旁边是一辆满载的蒙布卡车，与此同时，天上一架飞机呼啸而过。 取景器中，好几个时代的景象一瞬间同时出现。 蒙克说，这时候如果问农民、卡车司机",
-     "source": "虎嗅",
-     "zh": "跌透了？"
-    },
-    {
-     "title": "三安光电实控人被批捕，但股价却涨了？真正的雷埋在控股股东那张破产重整申请书上",
-     "link": "https://www.tmtpost.com/8179970.html",
-     "pubDate": "Sat, 24 Oct 2026 16:43:00 +0800",
-     "summary": "三安光电实控人被刑拘，核心风险在控股股东破产重整。",
-     "source": "钛媒体",
-     "zh": "三安光电实控人被批捕，但股价却涨了？真正的雷埋在控股股东那张破产重整申请书上"
-    },
-    {
-     "title": "印度在电芯上卡死，系统上对对中国放行？ 蜂巢能源在印度100天跑通743MWh",
-     "link": "https://www.tmtpost.com/8179969.html",
-     "pubDate": "Sat, 24 Oct 2026 16:40:01 +0800",
-     "summary": "蜂巢能源借印度政策缝隙落地743MWh储能项目。",
-     "source": "钛媒体",
-     "zh": "印度在电芯上卡死，系统上对对中国放行？ 蜂巢能源在印度100天跑通743MWh"
-    },
-    {
-     "title": "斜杠青年和工牌，谁能给AI时代打工人一份“体面”？",
-     "link": "https://www.tmtpost.com/8180352.html",
-     "pubDate": "Sat, 24 Oct 2026 16:39:13 +0800",
-     "summary": "AI时代，一个人的尊严，能否不再紧紧系于他的职位、收入和工作表现？",
-     "source": "钛媒体",
-     "zh": "斜杠青年和工牌，谁能给AI时代打工人一份“体面”？"
-    },
-    {
-     "title": "精神病院改名求生，但想吃“心理医生”这碗饭的太多了",
-     "link": "https://www.huxiu.com/article/4900147.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 16:38:35 +0800",
-     "summary": "本文来自微信公众号： 道总有理 ，作者：道总 10月10日，是第35个世界精神卫生日。 有媒体报道，国内不少精神病医院正在去掉“精神病”这一刺耳的前缀，代之以更中性的名词，例如心理康复医院、第N医院、脑科医院……有些医院还挂上了“睡眠焦虑门诊”“青少年心理门诊”的牌子。 为什么改名？除了卸下大众的心理包袱，更兼科普价值。 社会对精神障碍至今仍存有大量刻板印象。提起精神病院，不少人的印象还停留在影视剧里高墙、电网、铁窗的画面。 事实上，临床上常见的精神疾病以焦虑障碍、心境障碍为主。数据显示，我国精神障碍终生患病率为16.6%，其中焦虑障碍占7.6%，心境障碍占7.4%，而骇人听闻的精神分裂症，患",
-     "source": "虎嗅",
-     "zh": "精神病院改名求生，但想吃“心理医生”这碗饭的太多了"
-    },
-    {
      "title": "ThinkRail from JetBrains",
      "link": "https://thinkrail.ai/",
      "pubDate": "Sat, 24 Oct 2026 08:08:42 +0000",
-     "summary": "Article URL: https://thinkrail.ai/ Comments URL: https://news.ycombinator.com/item?id=50219186 Points: 17 # Comments: 1",
+     "summary": "Article URL: https://thinkrail.ai/ Comments URL: https://news.ycombinator.com/item?id=50219186 Points: 20 # Comments: 10",
      "source": "Hacker News",
      "zh": "ThinkRail from JetBrains"
+    },
+    {
+     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+     "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+     "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
+     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps"
     },
     {
      "title": "A look at OpenAI&apos;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)",
@@ -1964,7 +1980,7 @@
      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
      "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 132 # Comments: 23",
+     "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 141 # Comments: 26",
      "source": "Hacker News",
      "zh": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended"
     },
@@ -1975,22 +1991,6 @@
      "summary": "Toby Sterling / Reuters : The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors &nbsp; &mdash;&nbsp; The discovery of two serious flaws in PHP this week set off a global scramble to keep websites saf",
      "source": "Techmeme",
      "zh": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)"
-    },
-    {
-     "title": "OBS Studio 33",
-     "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-     "pubDate": "Sat, 24 Oct 2026 04:49:58 +0000",
-     "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 153 # Comments: 41",
-     "source": "Hacker News",
-     "zh": "OBS Studio 33"
-    },
-    {
-     "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
-     "link": "https://www.techmeme.com/261023/p28#a261023p28",
-     "pubDate": "Fri, 23 Oct 2026 23:45:01 -0400",
-     "summary": "Shimul Sood / Android Authority : Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads &nbsp; &mdash;&nbsp; Your inbox has secrets, and Google's ads might want in.&nbsp; &mdash;&nbsp; &bull; &he",
-     "source": "Techmeme",
-     "zh": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Meta is delaying its controversial new business terms amid scraping concerns",
+     "link": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
+     "pubDate": "Sat, 24 Oct 2026 10:18:15 +0000",
+     "summary": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
+     "source": "Engadget",
+     "zh": "Meta is delaying its controversial new business terms amid scraping concerns"
+    },
     {
      "title": "5 streaming boxes you should buy instead of the new Apple TV 4K",
      "link": "https://www.androidauthority.com/best-apple-tv-4k-alternatives-3724871/",
@@ -2231,14 +2239,6 @@
      "summary": "Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year.",
      "source": "Engadget",
      "zh": "Greece enacts social media ban for kids under 15"
-    },
-    {
-     "title": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark",
-     "link": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
-     "pubDate": "Fri, 23 Oct 2026 12:00:00 +0000",
-     "summary": "NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.",
-     "source": "Engadget",
-     "zh": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark"
     }
    ]
   },
@@ -2248,6 +2248,54 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "从 “建不建” 到 “赚不赚” 民航数智化投入转向刚性开支",
+     "link": "http://stock.eastmoney.com/news/11219,202610243907104767.html",
+     "pubDate": "Sat, 24 Oct 2026 18:16:46 +0800",
+     "summary": "上证报中国证券网讯（记者邹传科）客流与效益的背离，正在把民航数智化转型从“选择题”推向“必答题”。10月23日，2026年度中国航信 机场 数智创新与分享大会在浙江嘉兴举行。上证报记者在现场发现，行业讨论焦点已从“建不建智慧 机场 ”，转向“靠数智化怎么把客流变成效益”。 客流承压，转型紧迫性上升 据中国民航局统计数据，今年前三季度全行业完成旅客运输量59318.6万人次，同比增长2%。另据中国 航空运输 协会数据，今年三季度航班客座率87.2%、飞机日利用率9.7小时，均创历史同期新高；货邮运输量772.1万吨，同比增长4.4%，其中国际航线增长12.1%。 “需求端热闹，经营端却吃力。”中",
+     "source": "东方财富股票",
+     "zh": "从 “建不建” 到 “赚不赚” 民航数智化投入转向刚性开支"
+    },
+    {
+     "title": "亿纬锂能：公司持续推进盈利修复，后续公司将继续推进相关优化工作",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907104330.html",
+     "pubDate": "Sat, 24 Oct 2026 18:15:00 +0800",
+     "summary": "亿纬锂能 在投资者关系活动中表示，公司三季度单季毛利率环比有所提升，主要来自两方面：一是公司持续推进盈利修复，通过加强成本管控，同时新工厂稳定生产后对成本的拖累逐步消除，推动毛利率环比改善；二是客户结构、出货结构的调整，后续公司将继续推进相关优化工作。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "亿纬锂能：公司持续推进盈利修复，后续公司将继续推进相关优化工作"
+    },
+    {
+     "title": "陕西有色碳陶复材与中复神鹰签署合作协议",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907104286.html",
+     "pubDate": "Sat, 24 Oct 2026 18:14:00 +0800",
+     "summary": "据 中复神鹰 消息，10月23日，陕西 有色金属 集团与 中复神鹰 开展座谈交流，其旗下碳陶复材与 中复神鹰 签署合作协议，双方将围绕产品研发、应用开拓、市场深化等方向开展多维度合作。双方将以技术协作推动迭代升级，以场景开发带动应用落地，共同推动碳陶复材走向产业化应用。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "陕西有色碳陶复材与中复神鹰签署合作协议"
+    },
+    {
+     "title": "亿纬锂能：公司大圆柱电池已量产的工厂均处于满产状态",
+     "link": "http://stock.eastmoney.com/news/11219,202610243907104678.html",
+     "pubDate": "Sat, 24 Oct 2026 18:14:00 +0800",
+     "summary": "南财智讯10月24日电， 亿纬锂能 在投资者关系活动中表示，公司大圆柱 电池 已量产的工厂均处于满产状态。国际客户需求远超预期，国内客户也陆续实现交付。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "亿纬锂能：公司大圆柱电池已量产的工厂均处于满产状态"
+    },
+    {
+     "title": "亿纬锂能：目前已确定2027年交付量约16GWh",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907104588.html",
+     "pubDate": "Sat, 24 Oct 2026 18:14:00 +0800",
+     "summary": "南财智讯10月24日电， 亿纬锂能 在投资者关系活动中表示，公司与该客户签订的是长周期框架合同，目前已有交付。新框架合同的交付期为2027-2031年。目前已确定2027年交付量约16GWh，剩余容量在2028-2031年间的分配待定。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "亿纬锂能：目前已确定2027年交付量约16GWh"
+    },
+    {
+     "title": "6连板牛股，紧急发声！",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907104433.html",
+     "pubDate": "Sat, 24 Oct 2026 18:12:47 +0800",
+     "summary": "股价连续涨停， 海洋王 紧急公告。 10月23日晚间， 海洋王 （002724）披露股票交易异常波动公告，提示股价短期涨幅过大、存在非理性炒作风险，并分别澄清与核电、深海科技等热点概念的关系。 自10月16日以来， 海洋王 已连续6个交易日涨停，累计涨幅达77.41%。 海洋王所处行业最新滚动市盈率为18.05倍，而公司最新滚动市盈率达到179.49倍，近期已3次触发股票交易异常波动情形。 “公司股票短期波动较大，已严重偏离公司基本面，存在市场情绪过热、非理性炒作风险。”海洋王提示投资者，“公司股票10月16日至10月23日换手率分别为8.30%、1.17%、10.85%、0.82%、20.1",
+     "source": "东方财富股票",
+     "zh": "6连板牛股，紧急发声！"
+    },
     {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
      "link": "https://wallstreetcn.com/articles/3782813",
@@ -2263,54 +2311,6 @@
      "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
      "source": "CNBC",
      "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
-    },
-    {
-     "title": "智元挑战110台远征A3全尺寸人形机器人同时协同跳舞",
-     "link": "http://finance.eastmoney.com/news/1360,202610243907103167.html",
-     "pubDate": "Sat, 24 Oct 2026 17:55:00 +0800",
-     "summary": "记者获悉，今日，智元远征A3在山东济南发起吉尼斯世界纪录挑战，创下“最多人形 机器人 同时跳舞”纪录。110台智元远征A3全尺寸人形 机器人 同一时间协同起舞，根据指示进行协同舞蹈、波浪状、倒计时数字等。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "智元挑战110台远征A3全尺寸人形机器人同时协同跳舞"
-    },
-    {
-     "title": "横店影视大会打出“数智+精品+出海”组合拳",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907103050.html",
-     "pubDate": "Sat, 24 Oct 2026 17:42:35 +0800",
-     "summary": "10月23日，2026 横店影视 文化产业发展大会在浙江东阳横店启幕。大会以“数智赋能光影匠心深耕精品”为主题，汇聚国家及省市主管部门、国内头部影视企业、行业专家学者，共探新质生产力背景下影视产业转型升级之路，为行业高质量发展凝聚共识、汇聚力量。 作为国内影视行业一年一度的重要产业盛会，历经多年积淀， 横店影视 文化产业发展大会早已成为观察中国影视产业风向的重要窗口。不同于往年，本届大会更加突出科技与内容双向驱动，把 人工智能 深度融入影视全链条摆在突出位置，在数智转型、精品创作、政策供给、国际传播四个维度打出组合拳，推动横店从传统实景拍摄基地，向着集科技创新、内容孵化、全球传播于一体的现代化",
-     "source": "东方财富股票",
-     "zh": "横店影视大会打出“数智+精品+出海”组合拳"
-    },
-    {
-     "title": "美国寻求加大参与打击墨西哥贩毒集团的行动",
-     "link": "http://finance.eastmoney.com/news/11790,202610243907102258.html",
-     "pubDate": "Sat, 24 Oct 2026 17:39:35 +0800",
-     "summary": "美国寻求加大参与打击墨西哥贩毒集团的行动。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国寻求加大参与打击墨西哥贩毒集团的行动"
-    },
-    {
-     "title": "周鸿祎拟转让奇飞翔艺12.9%股权 转让底价约2.19亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907102327.html",
-     "pubDate": "Sat, 24 Oct 2026 17:39:34 +0800",
-     "summary": "10月24日，据北京产权交易所网站，周鸿祎拟转让北京奇飞翔艺商务咨询有限公司12.89929％股权，转让底价约为2.19亿元，披露期为2026年10月26日至11月20日。标的资产已于2026年3月13日形成关于公司利润分配的股东决议，转让方获得分红金额为约5417.7032万元。本次资产转让底价已在评估价值基础上对前述分红金额进行扣除。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "周鸿祎拟转让奇飞翔艺12.9%股权 转让底价约2.19亿元"
-    },
-    {
-     "title": "ESG成为“必答题” 行业巨头加速抢滩“绿金时代”",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907102450.html",
-     "pubDate": "Sat, 24 Oct 2026 17:37:49 +0800",
-     "summary": "不同于传统认知中仅被视为“合规性要求”，如今，ESG日益成为衡量企业竞争力的重要标准之一，愈来愈多的企业加速抢滩“绿金时代”。 “从收益端来看，ESG投资能够帮助企业增强品牌吸引度和认可度，这也是近两年调研中，企业认为最直接的ESG投资回报。”毕马威在一份报告中指出，“41%的受访企业认为ESG投资可以帮助企业优化资源配置，降本增效。” 《中国经营报》记者注意到，在“双碳”战略纵深推进的大背景下，作为ESG实践重点领域的 汽车 、航空等行业，其绿色转型进程备受外界关注，以国际民航业为例，国际民航组织曾设定2050年净零碳排放的长期理想目标。 “绿色可持续发展理念已成为全球民航业共识，但也面临着",
-     "source": "东方财富股票",
-     "zh": "ESG成为“必答题” 行业巨头加速抢滩“绿金时代”"
-    },
-    {
-     "title": "新华财经晚报：我国首个区域电力市场正式运行",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907102538.html",
-     "pubDate": "Sat, 24 Oct 2026 17:36:37 +0800",
-     "summary": "我国首个区域 电力 市场正式运行 渝昆高铁全线铺轨完成 八国外长呼吁重开霍尔木兹海峡反对对伊朗采取新的军事行动 24日，记者从在广州举行的南方区域 电力 市场转入正式运行暨高质量发展推进会上了解到，我国首个区域 电力 市场——南方区域电力市场从试运行转入正式运行。 记者从京昆高铁西昆公司获悉，10月24日下午，随着最后一对500米长钢轨在渝昆高铁筠连隧道口铺设就位，渝昆高铁全线铺轨完成，为线路开通运营奠定坚实基础。 据云南发布，近日，云南省发展和改革委员会作出批复，同意建设500千伏 铜 都变扩建工程项目、500千伏乐业变扩建工程项目、500千伏武定输变电工程项目。 受国际金价下跌影响，10月",
-     "source": "东方财富股票",
-     "zh": "新华财经晚报：我国首个区域电力市场正式运行"
     },
     {
      "title": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 22:51:56",
+ "generated_at": "2026/10/24 23:12:07",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
+     "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
+     "pubDate": "Sat, 24 Oct 2026 10:00:00 -0500",
+     "summary": "United States President Donald Trump has repeatedly targeted offshore wind since coming into office last year, as he strives to expand the country’s fossil fuel sector and shift the focus away from renewable energy. Trump has sought to halt the development of several offshore wind projects and has e",
+     "source": "OilPrice",
+     "zh": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion"
+    },
+    {
      "title": "Trump’s War on Iran Has Broken the Oil Market",
      "link": "https://cleantechnica.com/2026/10/24/trumps-war-on-iran-has-broken-the-oil-market/",
      "pubDate": "Sat, 24 Oct 2026 14:21:46 +0000",
@@ -976,14 +984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Oil traders sold futures equivalent to at least 6 million barrels of crude in just two minutes on March 23, shortly before President Donald Trump backed away from threats to strike Iranian power plants. Now, the federal regulator overseeing those trades says it has been looking into the activity. Co",
      "source": "OilPrice",
      "zh": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny"
-    },
-    {
-     "title": "U.S. Rig Count Holds Steady as Oil Prices Surge",
-     "link": "https://oilprice.com/Energy/Energy-General/US-Rig-Count-Holds-Steady-as-Oil-Prices-Surge.html",
-     "pubDate": "Fri, 23 Oct 2026 12:16:20 -0500",
-     "summary": "The total number of active drilling rigs for oil and gas in the United States remained unchanged for the second week in a row this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US staying at 603, up 53 from this same time last year. The number of ",
-     "source": "OilPrice",
-     "zh": "U.S. Rig Count Holds Steady as Oil Prices Surge"
     },
     {
      "title": "The permitting deal collides with Trump’s war on offshore wind",
@@ -1754,6 +1754,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元",
+     "link": "https://www.ithome.com/1/017/521.htm",
+     "pubDate": "Sat, 24 Oct 2026 15:07:38 GMT",
+     "summary": "IT之家 10 月 24 日消息，戴尔京东自营店新上了两款 UltraSharp“焕新版”显示器，但本质上是一次渠道型号的调整。 其中，32 英寸的 U3226QER 定价 5199 元，IT之家此前已有报道；27 英寸的 U2726QER 到手价 3999 元。Chiphell 论坛上有用户挖掘发现，两款型号分别对应此前的 U3225QE 和 U2725QE，新旧型号被列为衍生关系，共用相同的面板与光学测试数据，功耗指标也完全一致。两者最直观的区别在边框颜色：U3226QER 和 U2726QER 改为银色支架与银色背板，前代则为黑色。 两款显示器均采用进阶版 IPS Black 面板，对比",
+     "source": "IT之家",
+     "zh": "戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元"
+    },
+    {
+     "title": "JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元",
+     "link": "https://www.ithome.com/1/017/520.htm",
+     "pubDate": "Sat, 24 Oct 2026 15:04:17 GMT",
+     "summary": "IT之家 10 月 24 日消息，JBL 现已为旗下 JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，首发价 1346 元，部分地区国补后低至 949 元。 京东 JBL CLIPS 琉璃扣“碧玺红色特别版” 1346 元 点此访问 这款耳机的充电盒、本体均采用半透明设计；搭载 11mm 动圈单元，定制驱动单元加载镀钛双层振膜；支持 SonicArc 定向投送技术，可减少漏音现象，保护用户隐私。 这款耳机支持 IP54 级防尘防水；单体重量 6.5g，采用 C 形桥设计，外部为柔性 TPU 材质，适配多种耳形；内置 4 个麦克风，支持 AI 通话降噪及 ENC 算法，支持使用 App",
+     "source": "IT之家",
+     "zh": "JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元"
+    },
+    {
+     "title": "These clever apps show off the iPhone Duo’s potential",
+     "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+     "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+     "source": "TechCrunch",
+     "zh": "These clever apps show off the iPhone Duo’s potential"
+    },
+    {
+     "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+     "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+     "source": "TechCrunch",
+     "zh": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
+    },
+    {
+     "title": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘",
+     "link": "https://www.ithome.com/1/017/519.htm",
+     "pubDate": "Sat, 24 Oct 2026 14:53:44 GMT",
+     "summary": "IT之家 10 月 24 日消息，小米 REDMI Book 2027 系列笔记本已经官宣将于 10 月 27 日发布。这款笔记本搭载第三代英特尔酷睿平台，内置 72Wh 电池，提供多彩配色，质感全面升级，主打移动办公。 小米产品行销总监、数码博主马志宇表示，REDMI Book 16 2027 在外观焕新的同时，还将加入用户长期反复提及的诉求 —— 数字小键盘。 当然，对于 16 英寸笔记本而言，数字小键盘并非技术难题，也不能严格称为优点或缺点，更多是产品定义上的取舍。 结合此前爆料，REDMI Book 16 2027 将搭载酷睿 5 320 处理器，并配备可自主更换的 DDR5 内存，不",
+     "source": "IT之家",
+     "zh": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘"
+    },
+    {
      "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
      "link": "https://www.ithome.com/1/017/518.htm",
      "pubDate": "Sat, 24 Oct 2026 14:41:49 GMT",
@@ -1770,12 +1810,20 @@ window.INDUSTRY_DATA = {
      "zh": "研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复"
     },
     {
-     "title": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)",
+     "title": "Google illegally cut down 250K trees in Finland for data center",
+     "link": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+     "pubDate": "Sat, 24 Oct 2026 14:38:34 +0000",
+     "summary": "Article URL: https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/ Comments URL: https://news.ycombinator.com/item?id=50221676 Points: 31 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Google illegally cut down 250K trees in Finland for data center"
+    },
+    {
+     "title": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or newer (Jay Peters/The Verge)",
      "link": "https://www.techmeme.com/261024/p5#a261024p5",
      "pubDate": "Sat, 24 Oct 2026 10:30:01 -0400",
-     "summary": "Jay Peters / The Verge : Block unveils Dessa, a &ldquo;true speech-to-speech&rdquo; AI model trained on &ldquo;nothing but human conversation&rdquo; that it says runs locally on a MacBook Pro M4 Max or better &nbsp; &mdash;&nbsp; You have got to listen to these conversations with Block's new Dessa A",
+     "summary": "Jay Peters / The Verge : Block unveils Dessa, a &ldquo;true speech-to-speech&rdquo; AI model trained on &ldquo;nothing but human conversation&rdquo; that it says runs locally on a MacBook Pro M4 Max or newer &nbsp; &mdash;&nbsp; You have got to listen to these conversations with Block's new Dessa AI",
      "source": "Techmeme",
-     "zh": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)"
+     "zh": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or newer (Jay Peters/The Verge)"
     },
     {
      "title": "拼多多紧急捐赠 1000 万元，驰援西藏那曲抗震救灾",
@@ -1784,22 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 24 日消息，据中华慈善总会官微，10 月 22 日，西藏那曲市巴青县发生 7.0 级地震，造成重大人员伤亡及房屋受损。国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应由四级提升至三级，各项救援工作正全力推进。 公告称，为全力支援一线救灾工作，拼多多紧急通过中华慈善总会向灾区 捐赠现金 1000 万元 ，用于采购救灾物资和设备、安置受灾群众及支持灾后重建。拼多多已成立救援响应专项小组，将持续关注灾情动态，全力配合和支援后续救灾工作。 IT之家注意到，小米、美团、字节跳动、阿里巴巴、中国移动、中国联通、中国电信、苹果等均宣布支持西藏那曲抗震救灾。 相关阅读： 《 ",
      "source": "IT之家",
      "zh": "拼多多紧急捐赠 1000 万元，驰援西藏那曲抗震救灾"
-    },
-    {
-     "title": "Keychron C3 Pro Trackball 8K 键盘公布：分裂空格 + 中置轨迹球",
-     "link": "https://www.ithome.com/1/017/511.htm",
-     "pubDate": "Sat, 24 Oct 2026 14:27:14 GMT",
-     "summary": "IT之家 10 月 24 日消息，日本企业 Mediagene 当地时间昨日宣布，旗下电商平台 GIZMART 即将于 28 日启动 Keychron C3 Pro Trackball 8K 键盘的预售。 C3 Pro Trackball 8K 整体上属于 80% 配列，但其 空格键被拆分为左右两部分和中间的 14mm 轨迹球 。这意味着该设备集成了光标输入功能， 用户无需在键盘和鼠标间切换 。此外，这款键盘支持鼠标输入层，可将按键动作转换为光标的点击或滚动。 IT之家了解到，Keychron C3 Pro Trackball 8K 采用塑料机身，支持 USB-C 有线单模连接，配备 ZMK ",
-     "source": "IT之家",
-     "zh": "Keychron C3 Pro Trackball 8K 键盘公布：分裂空格 + 中置轨迹球"
-    },
-    {
-     "title": "惠普星 Book Air 14 上架预约：酷睿 5 320、薯条标，国补价 4504.15 元",
-     "link": "https://www.ithome.com/1/017/510.htm",
-     "pubDate": "Sat, 24 Oct 2026 14:19:00 GMT",
-     "summary": "IT之家 10 月 24 日消息，惠普京东自营店新上架了一款星 Book Air 14 轻薄本电脑，提供星空蓝、烟灰银、牡丹粉、哈密瓜绿四种配色，京东首发价 5299 元，叠加国补后约为 4504.15 元。 京东 惠普 HP 星 Book Air 14 轻薄笔记本电脑 酷睿 5 16G 512G OLED 触屏 烟灰银 券后 5298 元 领 500 元券 这款机型貌似对应海外的 OmniBook 5 14，搭载英特尔酷睿 5 320 处理器，配备 16GB 内存 + 512GB 固态硬盘，海外版起售价 699.99 美元 （IT之家注：现汇率约合 4,679 元人民币） 。 该机采用铝合金",
-     "source": "IT之家",
-     "zh": "惠普星 Book Air 14 上架预约：酷睿 5 320、薯条标，国补价 4504.15 元"
     },
     {
      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
@@ -1816,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 最近，一台中国团队研发的数控机床在海外众筹平台上火了。 这台叫做WM-100的机器上线Kickstarter 40分钟，筹款便突破100万美元；12小时后，数字涨到220万美元。这台机器并不便宜，想把它带回家，最低也要花费5899美元，折合人民币约4万元，但高价并没有挡住买家的热情。 类似的场景在这两年频繁出现。今年夏天，三款来自中国团队的桌面五轴机床先后登上Kickstarter：深圳无限工坊的K1、上海IFMAKER的M5，以及上海拓璞数控旗下TOPFAB的TF500。K1最终筹得超过3000万元人民币，M5众筹约105万美元，TF50",
      "source": "虎嗅",
      "zh": "五轴机床被中国人搬上桌面？老外想买还得看资格"
-    },
-    {
-     "title": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元",
-     "link": "https://www.ithome.com/1/017/509.htm",
-     "pubDate": "Sat, 24 Oct 2026 13:54:41 GMT",
-     "summary": "IT之家 10 月 24 日消息，MINSFORUM（铭凡）现已在中国大陆电商平台销售搭载 AMD 锐龙 5 7640HS 处理器的 N5 Air。这款 NAS 主机除处理器降级外与基于锐龙 7 255 的原版几乎一致。 N5 Air 7640HS 拥有 2 个 DDR5-5600 SO-DIMM 内存插槽； 拥有 5 个 3.5\" / 2.5\" 兼容 SATA III (6Gbps) 盘位 、 3 个 M.2 (PCIe Gen4) SSD 盘位 （分别支持 ×1、×2、×4），支持 RAID &nbsp;0 / 1 / 5 / 6。 其机身采用高性能 PC 塑料，三维 199×202×25",
-     "source": "IT之家",
-     "zh": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元"
     },
     {
      "title": "“黑色十月”席卷全球互联网，AI正彻底掀翻网络安全牌桌？",
@@ -1848,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 山农下山 ，作者：肖海格 PART01 在国内退场 多年之后再回看，2026年这届“双11”或许是国内电商的重要节点。 它似乎正在回撤到多年前的版本。从目前各家公布的促销规则来看，电商平台们都在强调单件直降、立减折扣和现货销售，消费者不必再通过复杂的凑单计算，才能知道一件商品究竟便宜了多少。经历多年促销玩法的迭代之后，电商平台开始重新审视价格的透明度和优惠的确定性。 这种回归背后有多重因素：消费结构巨变，用户对理解促销规则的耐心越来越有限；行业逐渐成熟，平台之间的竞争从粗放的流量争夺，转向对商品、服务和经营效率的比拼。 而曾经让无数商家闻风丧胆的“全网最低价”和“二选一”",
      "source": "虎嗅",
      "zh": "“二选一”被赶出了双11，但平台们还在海外重演旧戏"
-    },
-    {
-     "title": "One Must Fall 2097 Remastered",
-     "link": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
-     "pubDate": "Sat, 24 Oct 2026 13:47:07 +0000",
-     "summary": "Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/ Comments URL: https://news.ycombinator.com/item?id=50221179 Points: 27 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "One Must Fall 2097 Remastered"
     },
     {
      "title": "金饰便宜了，金店靠什么赚钱？",
@@ -1901,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
      "pubDate": "Sat, 24 Oct 2026 13:09:28 +0000",
-     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 219 # Comments: 205",
+     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 265 # Comments: 267",
      "source": "Hacker News",
      "zh": "Elon Musk Just Gave Europe a Reason to Replace American Technology"
     },
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 56 # Comments: 15",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 63 # Comments: 20",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
@@ -1973,25 +1989,9 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
      "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
-     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 13 # Comments: 1",
+     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 17 # Comments: 2",
      "source": "Hacker News",
      "zh": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706"
-    },
-    {
-     "title": "9 Unique Apps to Try on the iPhone Duo",
-     "link": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-     "pubDate": "Sat, 24 Oct 2026 10:45:00 +0000",
-     "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
-     "source": "WIRED",
-     "zh": "9 Unique Apps to Try on the iPhone Duo"
-    },
-    {
-     "title": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
-     "link": "https://www.techmeme.com/261024/p3#a261024p3",
-     "pubDate": "Sat, 24 Oct 2026 06:35:01 -0400",
-     "summary": "Rachel Monroe / New Yorker : Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings &nbsp; &mdash;&nbsp; Algorithmic social media, which has helped create the conditions for the spread of such viol",
-     "source": "Techmeme",
-     "zh": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)"
     }
    ]
   },
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "OnePlus shows the Ace 7 and Ace 7 Pro in all colors",
+     "link": "https://www.gsmarena.com/oneplus_shows_the_ace_7_and_ace_7_pro_in_all_colors-news-75200.php",
+     "pubDate": "Sat, 24 Oct 2026 17:01:02 +0200",
+     "summary": "OnePlus is launching the Ace 7 and Ace 7 Pro in China on October 29. Ahead of that, today the company has shown both of them in all the colors in which they will be available to purchase - and that's three each. The OnePlus Ace 7 will be offered in black, white, and a gradient colorway. OnePlus Ace ",
+     "source": "GSMArena",
+     "zh": "OnePlus shows the Ace 7 and Ace 7 Pro in all colors"
+    },
+    {
+     "title": "Here's how to test a CR2032 battery to see if it's good",
+     "link": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/",
+     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+     "summary": "CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices.",
+     "source": "Engadget",
+     "zh": "Here's how to test a CR2032 battery to see if it's good"
+    },
     {
      "title": "Why your Ring camera is still useful without a subscription",
      "link": "https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription/",
@@ -2064,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Many can use the free version without any issue, but if you can't, it might be the time to upgrade.",
      "source": "DPReview",
      "zh": "PSA: Davinci Resolve is on sale, letting you unlock the powerful tool for less"
-    },
-    {
-     "title": "How to improve your PC's airflow for better cooling",
-     "link": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
-     "pubDate": "Sat, 24 Oct 2026 12:45:00 +0000",
-     "summary": "Here's how to think about your PC's fans.",
-     "source": "Engadget",
-     "zh": "How to improve your PC's airflow for better cooling"
     },
     {
      "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s United States Grand Prix. Here’s the schedule. more…",
      "source": "9to5Mac",
      "zh": "Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today"
-    },
-    {
-     "title": "Gemini Notebook now available as Connected App for deeper integration",
-     "link": "https://9to5google.com/2026/10/23/gemini-notebook-connected-app/",
-     "pubDate": "Fri, 23 Oct 2026 20:21:15 +0000",
-     "summary": "Gemini Notebooks are already available in the Gemini app side panel, but Google is now adding deeper Connected App integration. more…",
-     "source": "9to5Google",
-     "zh": "Gemini Notebook now available as Connected App for deeper integration"
     }
    ]
   },
@@ -2250,12 +2250,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "SA Asks: How can General Motors get back on track?",
+     "link": "https://seekingalpha.com/news/4656814-sa-asks-how-can-general-motors-get-back-on-track?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 11:00:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How can General Motors get back on track?"
+    },
+    {
+     "title": "大秦铁路秋季集中修提前2天完成 日均运量将回升至120万吨以上",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907131023.html",
+     "pubDate": "Sat, 24 Oct 2026 22:54:27 +0800",
+     "summary": "我国重要能源通道 大秦铁路 完成秋季集中修施工，这次集中修施工历时18天，较原计划提前2天完成。 大秦铁路 运能将充分释放，日均运量将快速回升至120万吨以上，为今冬明春电煤保供提供运输支撑。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "大秦铁路秋季集中修提前2天完成 日均运量将回升至120万吨以上"
+    },
+    {
      "title": "Earnings scorecard: 17 out of 20 industrial companies beat EPS estimates this week",
      "link": "https://seekingalpha.com/news/4656678-earnings-scorecard-17-out-of-20-industrial-companies-beat-eps-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 10:45:01 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Earnings scorecard: 17 out of 20 industrial companies beat EPS estimates this week"
+    },
+    {
+     "title": "千台机器人上海实景竞技 具身智能加速走向产线 | 直击2026GDPS",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907130621.html",
+     "pubDate": "Sat, 24 Oct 2026 22:44:10 +0800",
+     "summary": "《科创板日报》10月24日讯（记者黄心怡） 2026全球开发者先锋大会(GDPS)暨国际具身智能技能大赛正在上海如火如荼举行。 《科创板日报》记者从现场获悉，本次大会汇聚300余家 机器人 本体企业、超200家上下游供应链企业，走进展厅即可配齐一台 机器人 。 与此同时，大会同步举办国际具身智能技能大赛，设置9大赛道、23个赛项，重点打造能源巡检、质检检测、商超零售、应急救援、文旅导览、医疗康养等真实场景。800余支竞赛队伍的千台人形 机器人 同台亮相，集中呈现具身智能从实验室原型加速走向真实生产与生活场景。 ▍建设具身智能产业创新引领高地 工业和信息化部科技司副司长甘小斌指出，具身智能是 人",
+     "source": "东方财富股票",
+     "zh": "千台机器人上海实景竞技 具身智能加速走向产线 | 直击2026GDPS"
+    },
+    {
+     "title": "煤市“淡季不淡”！中国神华第三季度营收超千亿 创同期新高",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907130868.html",
+     "pubDate": "Sat, 24 Oct 2026 22:42:12 +0800",
+     "summary": "中国神华 （601088）第三季度营收创历史同期新高。 10月23日， 中国神华 披露最新业绩报告。2026年前三季度公司实现营收2960.31亿元，同比增长9%；归母净利润444.03亿元，同比增长3.8%。 单季度看，公司第三季度实现营收1066.93亿元，同比增长10.9%，创同期新高；归母净利润156.88亿元，同比增长3.2%。今年三季度 煤炭 市场“淡季不淡”，供给端收紧、进口煤补充减弱，叠加需求整体平稳，推动煤价中枢抬升。 分业务看，报告期内，公司 煤炭 主业呈现“量减价增、成本改善”格局。前三季度商品煤产量3.819亿吨，同比下降2.3%； 煤炭 销售量4.606亿吨，同比微增",
+     "source": "东方财富股票",
+     "zh": "煤市“淡季不淡”！中国神华第三季度营收超千亿 创同期新高"
+    },
+    {
+     "title": "爱奇艺AIGC（大湾区）创意中心正式落地广州",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907130995.html",
+     "pubDate": "Sat, 24 Oct 2026 22:41:40 +0800",
+     "summary": "10月24日， 爱奇艺 与广州市人民政府签署战略合作框架协议。在当天举办的广州市AIGC视听产业系列发布活动上，广东广播电视台与 爱奇艺 签署纪录片战略合作协议， 爱奇艺 AIGC（大湾区）创意中心正式落地广州。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "爱奇艺AIGC（大湾区）创意中心正式落地广州"
     },
     {
      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
@@ -2266,20 +2306,20 @@ window.INDUSTRY_DATA = {
      "zh": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks."
     },
     {
+     "title": "这一国股市 竟成了“避风港”",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907130733.html",
+     "pubDate": "Sat, 24 Oct 2026 22:40:00 +0800",
+     "summary": "【导读】瑞士股市对冲AI恐慌 近期，AI科技股交易降温，全球市场起起落落，而瑞士股市正成为“避风港”，抵御着AI恐慌引发的市场动荡。 追踪瑞士20家规模最大、流动性最好的上市公司的瑞士市场指数（SMI）本月以来上涨了4.6%，而欧元区基准指数欧洲斯托克50指数（Euro Stoxx 50）则下跌了3.2%。两者之间近8个百分点的表现差距，是瑞士基准指数自2020年3月以来最大的——当时新冠疫情冲击全球市场，投资者纷纷寻求避险资产。 这一涨势表明，面对融资成本上升、市场对 人工智能 投资交易的疑虑加深，以及法国、西班牙等国政局动荡，投资者正在降低欧洲市场的投资风险敞口。 瑞士股市表现主要由市值最",
+     "source": "东方财富股票",
+     "zh": "这一国股市 竟成了“避风港”"
+    },
+    {
      "title": "但斌美股三季度调仓曝光！对于A股调整 其发文称：还是要“高抛低吸”",
      "link": "http://finance.eastmoney.com/news/1354,202610243907129759.html",
      "pubDate": "Sat, 24 Oct 2026 22:37:24 +0800",
      "summary": "近期，在多种因素影响下，全球科技股板块分歧加剧，出现急速调整，私募大佬的持仓动向格外受市场关注。据私募排排网最新数据，但斌三季度持仓总市值近100亿元，谷歌仍为第一大重仓股，并新进 苹果 、 SpaceX 两只股票。 面对市场调整，但斌10月以来多次发声。如10月18日发文表示：“调整经常有。回头看指数依然是向上的，关键是能不能熬过去。”10月22日回复投资者时表示：“还在坚持，否则我们国内只能买A股与港股的基金就不会回撤了。但现在看起来，A股还是要‘高抛低吸’灵活处理。” 三季度新进 苹果 、 SpaceX 两只股票 在全球科技股走势分歧加剧的背景下，私募大佬的持仓动向格外受市场关注。据私募",
      "source": "东方财富股票",
      "zh": "但斌美股三季度调仓曝光！对于A股调整 其发文称：还是要“高抛低吸”"
-    },
-    {
-     "title": "中铝集团与南京大学签署战略合作协议",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907129270.html",
-     "pubDate": "Sat, 24 Oct 2026 22:36:57 +0800",
-     "summary": "10月23日，中 铝 集团与南京大学在南京签署战略合作协议。根据协议，双方将在重大科研任务联合攻关、人才交流培养、科技成果转化等方面加强校企协同。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "中铝集团与南京大学签署战略合作协议"
     },
     {
      "title": "Zelenskyy says Starlink restored to full speed",
@@ -2306,14 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Consumer Discretionary Earnings: EPS beats outpace revenue"
     },
     {
-     "title": "301563 三季度净利最高预增613%！股价近期大涨",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907127895.html",
-     "pubDate": "Sat, 24 Oct 2026 22:30:03 +0800",
-     "summary": "云汉芯城 预计第三季度业绩大增。 10月23日晚间， 云汉芯城 （301563）同步披露股票交易异常波动公告及2026年前三季度业绩预增公告，回应市场对公司近期股价大幅异动的关注。公告显示，公司股票在10月22日、10月23日连续两个交易日内收盘价格涨幅偏离值累计超过30%，根据深交所交易规则，已触发股票交易异常波动情形。 公告称，经公司董事会确认，公司目前没有任何根据有关规定应予以披露而未披露的事项或与该事项有关的筹划、商谈、意向、协议等。 与此同时公司披露的业绩预告显示，公司前三季度业绩实现爆发式增长：预计2026年前三季度归母净利润为3.35亿元—3.71亿元，同比增幅为312%—355",
-     "source": "东方财富股票",
-     "zh": "301563 三季度净利最高预增613%！股价近期大涨"
-    },
-    {
      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
      "link": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
      "pubDate": "Sat, 24 Oct 2026 14:30:01 GMT",
@@ -2330,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it"
     },
     {
-     "title": "多主线共振 一文拆解人形机器人板块上行逻辑",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907128885.html",
-     "pubDate": "Sat, 24 Oct 2026 22:24:00 +0800",
-     "summary": "本周（10月19日—10月23日），人形 机器人 成为市场硬科技赛道最受瞩目的板块之一。 Wind数据显示，本周，人形 机器人 指数涨11.48%，宇树 机器人 指数涨13.65%，具身智能指数涨10.65%。 10月23日，人形 机器人概念 股领涨。其中，宇树科技“20CM”涨停，股价报624元/股，总市值超2500亿元，本周股价涨幅达46.14%； 兆威机电 5天3板， 大业股份 收获6连板，奥比中光、 长盈精密 、 格灵深瞳 、绿的 谐波 等 人形机器人 部组件供应链企业涨幅显著。 从产业链视角来看，本周 人形机器人 板块多点开花，覆盖从 机器人 “身体” 到 “大脑” 的各个环节。行情",
-     "source": "东方财富股票",
-     "zh": "多主线共振 一文拆解人形机器人板块上行逻辑"
-    },
-    {
      "title": "5 out of 5 communications services stocks deliver EPS wins this week: Earnings Scorecard",
      "link": "https://seekingalpha.com/news/4656541-5-out-of-5-communications-services-stocks-deliver-eps-wins-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 10:23:36 -0400",
@@ -2346,44 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "5 out of 5 communications services stocks deliver EPS wins this week: Earnings Scorecard"
     },
     {
-     "title": "泽连斯基说“星链”在乌运行速度已恢复",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907129431.html",
-     "pubDate": "Sat, 24 Oct 2026 22:23:33 +0800",
-     "summary": "乌克兰总统泽连斯基24日说，“星链”卫星 通信 系统在乌克兰的运行速度已恢复至“受限之前”的水平。 泽连斯基当天在社交媒体上说，目前，“星链”运行速度已达到乌方所需水平。其运行速度于23日晚开始恢复，24日上午，速度已足以支持正常使用。这对乌方前线、后勤保障以及免受 无人机 袭击有重要意义。（新华社） （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "泽连斯基说“星链”在乌运行速度已恢复"
-    },
-    {
-     "title": "订单上行、营收利润同步走弱 南方路机押注海外与绿色装备突围",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907129984.html",
-     "pubDate": "Sat, 24 Oct 2026 22:23:13 +0800",
-     "summary": "2026年上半年（报告期），福建南方路面机械股份有限公司（下称“ 南方路机 ”）（603280.SH）在手订单同比增长17.01%，但受海外大型项目交付周期拉长、收入确认延后叠加海外市场前置投入影响，当期营收与利润双双下滑，归母净利润同比降幅达44.37%。 10月21日下午，在 南方路机 2026年中期业绩说明会上，围绕公司净利润改善路径、海外布局潜在风险、行业后市展望等议题，《华夏时报》记者向 南方路机 董事长方庆熙展开提问。 方庆熙回复记者称，报告期内，公司在手订单同比增17.01%，营收确认延后属阶段性波动；海外市场投入增加拖累利润，属于战略性前置布局。其进一步强调， 工程机械 行业正",
-     "source": "东方财富股票",
-     "zh": "订单上行、营收利润同步走弱 南方路机押注海外与绿色装备突围"
-    },
-    {
-     "title": "Earnings Scorecard: Financials log 80% EPS beat rate vs. revenue this week",
-     "link": "https://seekingalpha.com/news/4656570-earnings-scorecard-financials-log-80-eps-beat-rate-vs-revenue-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 10:15:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Earnings Scorecard: Financials log 80% EPS beat rate vs. revenue this week"
-    },
-    {
      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 14:06:00 GMT",
      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
      "source": "MarketWatch",
      "zh": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some."
-    },
-    {
-     "title": "花胶产业如何在困境中挖掘新机遇？",
-     "link": "http://www.eeo.com.cn/2026/1024/1074914.shtml",
-     "pubDate": "Sat, 24 Oct 2026 22:00:31 +0800",
-     "summary": "中国工程院院士薛长湖认为，在花胶产业发展路径中，科技创新、产品创新、产业创新三者环环相扣，缺一不可。",
-     "source": "经济观察网",
-     "zh": "花胶产业如何在困境中挖掘新机遇？"
     },
     {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
@@ -2450,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
     },
     {
-     "title": "折叠屏供应链“等来”苹果之后",
-     "link": "http://www.eeo.com.cn/2026/1024/1074909.shtml",
-     "pubDate": "Sat, 24 Oct 2026 19:18:51 +0800",
-     "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
-     "source": "经济观察网",
-     "zh": "折叠屏供应链“等来”苹果之后"
-    },
-    {
      "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
      "link": "https://wallstreetcn.com/articles/3784397",
      "pubDate": "Sat, 24 Oct 2026 19:03:44 +0800",
@@ -2488,6 +2472,22 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
+    },
+    {
+     "title": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”",
+     "link": "https://wallstreetcn.com/articles/3784395",
+     "pubDate": "Sat, 24 Oct 2026 17:34:18 +0800",
+     "summary": "马斯克与民主党之间的政治对决正在急剧升温。随着美国国会中期选举临近，民主党人已公开放话，一旦夺回国会控制权，将对马斯克发起全面国会调查，并祭出被外界称为“史上最大规模传票”的法律手段。马斯克则以强硬姿态回击，誓言反击到底，并正斥资数亿美元力保共和党守住国会席位。 据媒体报道，民主党正筹备对马斯克旗下企业及其政府活动展开大规模国会调查，调查范围涵盖其联邦政府合同、领导\"政府效率部\"（DOGE）期间的相关行为，以及涉嫌干预乌克兰军事通信等多项指控。 纽约大学教授Scott Galloway在其播客节目中预言：\"11月4日之后，你将看到史上最大规模的传票和国会听证要求砸向他。\"资深科技记者、马斯克批",
+     "source": "华尔街见闻",
+     "zh": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”"
+    },
+    {
+     "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
+     "link": "https://wallstreetcn.com/articles/3784391",
+     "pubDate": "Sat, 24 Oct 2026 17:00:00 +0800",
+     "summary": "近日，亚马逊CEO安迪·贾西（Andy Jassy）作客知名风投a16z的播客节目，与a16z联合创始人Ben Horowitz进行了一场深度对谈。在这场访谈中，贾西全面揭示了亚马逊在生成式AI浪潮下的战略全景。 面对华尔街对科技巨头无底洞般资本支出的担忧，贾西给出了最直接的市场反馈：需求不仅没有放缓，反而正在极速透支未来的产能。同时，他详细拆解了目前AI市场的“杠铃型”需求结构，并明确指出，要真正解锁企业级的AI应用，算力推理成本还必须再降一个数量级。 “即使砸下2200亿美元，我们仍把大量需求留在了桌面上” 市场当前最关注的核心问题，是巨头们动辄千亿的资本支出是否会变成过剩的沉没成本。贾西",
+     "source": "华尔街见闻",
+     "zh": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求"
     }
    ]
   },

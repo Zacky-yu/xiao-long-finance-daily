@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 20:51:59",
+ "generated_at": "2026/10/24 21:12:02",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+     "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+     "pubDate": "Sat, 24 Oct 2026 11:12:27 +0000",
+     "summary": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for",
+     "source": "MarkTechPost",
+     "zh": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers"
+    },
     {
      "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
      "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic",
      "source": "MarkTechPost",
      "zh": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents"
-    },
-    {
-     "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-     "link": "https://www.qbitai.com/2026/10/504901.html",
-     "pubDate": "Fri, 23 Oct 2026 07:35:51 +0000",
-     "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-     "source": "量子位",
-     "zh": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径"
     }
    ]
   },
@@ -650,6 +650,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
+     "link": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+     "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
+     "summary": "The NHTSA has proposed using cyan-colored lights to identify vehicles operating autonomously, along with other additions to get ready for autonomous vehicles. more…",
+     "source": "Electrek",
+     "zh": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China"
+    },
+    {
+     "title": "VW's First Car Made With Xpeng Isn't Popular. Here's Why It Matters",
+     "link": "https://insideevs.com/news/813123/vw-xpeng-flop-unyx-08/",
+     "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
+     "summary": "The ID. Unyx 08 was supposed to help turn around Volkswagen in China. Instead, it struggles to move more than 250 units per month.",
+     "source": "InsideEVs",
+     "zh": "VW's First Car Made With Xpeng Isn't Popular. Here's Why It Matters"
+    },
+    {
      "title": "China has about 15 million passenger cars with NOA as driver assistance adoption expands",
      "link": "https://cnevpost.com/2026/10/24/china-15-million-cars-with-noa/",
      "pubDate": "Sat, 24 Oct 2026 12:29:35 +0000",
@@ -730,14 +746,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anker SOLIX 4,096Wh expanded C2000 Gen 2 power station $1,519, 150-mile L16 utility e-bike lows from $649, Snow blower low, more"
     },
     {
-     "title": "BYD’s Rolls-Royce-like flagship EV is heading overseas",
-     "link": "https://electrek.co/2026/10/23/byd-taking-rolls-royce-like-flagship-ev-overseas/",
-     "pubDate": "Fri, 23 Oct 2026 17:41:33 +0000",
-     "summary": "The new model will be BYD’s largest and most luxurious electric sedan, with coach doors and a shape similar to the Rolls-Royce Phantom. more…",
-     "source": "Electrek",
-     "zh": "BYD’s Rolls-Royce-like flagship EV is heading overseas"
-    },
-    {
      "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
      "link": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
      "pubDate": "Fri, 23 Oct 2026 17:13:54 +0000",
@@ -760,14 +768,6 @@ window.INDUSTRY_DATA = {
      "summary": "The plug-in ES is refined, comfortable, and takes the stress out of long roadtrips.",
      "source": "InsideEVs",
      "zh": "2026 Lexus ES 350e Review: Why This Is Toyota’s Best EV Yet"
-    },
-    {
-     "title": "Kia Plans To Take On Affordable Chinese EVs In Canada With Its Sub-$40K EV3",
-     "link": "https://insideevs.com/news/812978/kia-ev3-chinese-evs-canada/",
-     "pubDate": "Fri, 23 Oct 2026 14:19:38 +0000",
-     "summary": "Will a sub $40,000 electric hatchback be able to compete with Chinese offerings?",
-     "source": "InsideEVs",
-     "zh": "Kia Plans To Take On Affordable Chinese EVs In Canada With Its Sub-$40K EV3"
     },
     {
      "title": "GWM launches 2027 Tank 500 with driver-assistance and cabin upgrades",
@@ -1754,12 +1754,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "实测Kimi K3.1：更擅长塑造“第一印象”了，接下来真正考验在后端",
+     "link": "https://www.huxiu.com/article/4900190.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 21:00:01 +0800",
+     "summary": "本文来自微信公众号： 硅星人Pro ，作者：董道力 10月24日，Kimi发布了K3.1系列的首款模型K3.1 Pro。 按照官方介绍，这是一款三万亿级参数、最高支持百万token上下文的模型，在K3的基础上加大后训练投入，重点强化编码、3D创作和金融研究。目前模型已接入Kimi、Kimi Work、Kimi Code和API。 根据评测，K3.1 Pro亮点集中在长程编程和工具辅助任务上。它在不同任务上的表现也有明显分化，具体的榜单分数可以见下图。 最近的国产模型都在卷量大管饱的Flash模型，K3.1 Pro没有选这条路，它继续冲击前沿。 因此，作为3.1系列，看看它在K3基础上的进步究竟",
+     "source": "虎嗅",
+     "zh": "实测Kimi K3.1：更擅长塑造“第一印象”了，接下来真正考验在后端"
+    },
+    {
+     "title": "利民推出 LEVITA VISION 360 ARGB V2 悠浮视界水冷散热器：磁吸悬浮裸眼 3D 曲面屏，949 元起",
+     "link": "https://www.ithome.com/1/017/503.htm",
+     "pubDate": "Sat, 24 Oct 2026 12:55:11 GMT",
+     "summary": "IT之家 10 月 24 日消息，利民 LEVITA VISION 360 ARGB BLACK V2 悠浮视界水冷上架京东，黑色版本显示为 949 元，白色版本 959 元。 这款水冷采用了 6.67 英寸 AMOLED 的 2400*1080 分辨率 60Hz 刷新率曲面屏（11:9 比例），支持自定义 3D 动图、3D 视频显示，主题全自定义不设限，配备磁吸冷头，支持 COREV1.0 独立水泵框架。 水冷排搭配 TL-M12QWV2 无线材拼接风扇（带无限镜框 ARGB 光效），而且是预装风扇，到手即用，新手小白也能轻松装机。 IT之家附参数如下： 京东 利民 LEVITA VISIO",
+     "source": "IT之家",
+     "zh": "利民推出 LEVITA VISION 360 ARGB V2 悠浮视界水冷散热器：磁吸悬浮裸眼 3D 曲面屏，949 元起"
+    },
+    {
+     "title": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
+     "link": "https://www.solidot.org/story?sid=85698",
+     "pubDate": "Sat, 24 Oct 2026 20:53:21 +0800",
+     "summary": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬盘、Gmail 和 Google 相册中的内容向您展示个性化广告，除非您选择允许其他支持个性化广告的 Google 服务使用这些服务中的数据。”也就是如果用户不希望 Gmail 和 Google 相册",
+     "source": "Solidot",
+     "zh": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告"
+    },
+    {
+     "title": "小米 REDMI 首款耳夹耳机 Clip Neo 预热：支持澎湃智联、端侧语音助手",
+     "link": "https://www.ithome.com/1/017/501.htm",
+     "pubDate": "Sat, 24 Oct 2026 12:50:44 GMT",
+     "summary": "IT之家 10 月 24 日消息，小米 REDMI 首款耳夹耳机 Clip Neo 将于 10 月 27 日上市，官方现已公布部分配置信息。 IT之家从官方介绍获悉，新品采用 12mm 高性能双磁设计 ，类金刚石镀膜，支持低音增强算法、动态补偿、EQ 自定义调节、动态 AI 通话降噪等。 此外，该产品还支持小米澎湃智联多功能实体按键， 长按唤醒端侧语音助手 ，支持沉浸聊天、连续对话、智能控车控家等。 该产品单耳轻至 5.3g，佩戴回仓不区分左右耳；亲肤液态硅胶，0.6mm 耐弯记忆钛丝；仿生曲面设计，3.4mm 黄金夹距。 目前尚不清楚这款新品的具体价格信息， 而小米首款耳夹式耳机于今年 5 ",
+     "source": "IT之家",
+     "zh": "小米 REDMI 首款耳夹耳机 Clip Neo 预热：支持澎湃智联、端侧语音助手"
+    },
+    {
+     "title": "致态公布《影之刃零》联名礼盒，内含 TiPlus9100 固态硬盘",
+     "link": "https://www.ithome.com/1/017/500.htm",
+     "pubDate": "Sat, 24 Oct 2026 12:49:56 GMT",
+     "summary": "IT之家 10 月 24 日消息，长江存储 (YMTC) 旗下零售存储品牌致态 (ZHITAI) 今日宣布与《影之刃零》达成深度战略合作，公布了致态 | 《影之刃零》联名礼盒。该产品具体发售时间将于后续公布。 该礼盒整体采用暗黑武侠视觉设计，以“进入、陪伴、装饰、收藏”为线索，内含致态 TiPlus9100 固态硬盘（含定制封套）以及 联名定制收纳盒、定制黑伤螺丝刀、定制鹤形铃铛机箱贴、光栅海报 。 TiPlus9100 采用 M.2 2280 单面 PCB 外形规格，基于 Xtacking 4.0 TLC NAND 闪存与 DRAM-less 方案，支持 PCIe Gen5 协议，顺序读取速",
+     "source": "IT之家",
+     "zh": "致态公布《影之刃零》联名礼盒，内含 TiPlus9100 固态硬盘"
+    },
+    {
      "title": "爱国者推出星璨大岚智能中控机箱：配 6.5 英寸触摸屏，黑白双色均售 599 元",
      "link": "https://www.ithome.com/1/017/499.htm",
      "pubDate": "Sat, 24 Oct 2026 12:45:22 GMT",
      "summary": "IT之家 10 月 24 日消息，爱国者现已在京东上架星璨大岚智能中控机箱，该产品提供黑白双色可选，定价为 599 元。 京东 爱国者 星璨大岚 智能中控机箱 599 元 直达链接 该机箱尺寸为 470x235x503mm，兼容 ATX、M-ATX 以及 ITX 主板，整体采用机械金属风 ATX 海景房设计，具备 270° 全景展示视角。机箱配备一块 6.5 英寸触摸屏，该屏幕可作为桌面调控台，支持桌面与机箱灯光一键全局切换。用户能通过屏幕进行软件联动操作与音乐可视化，自定义显示图片、视频或动态壁纸，并支持多主题软件生态拓展。 该机箱 CPU 散热器限高 172mm、显卡限长达到 430mm，",
      "source": "IT之家",
      "zh": "爱国者推出星璨大岚智能中控机箱：配 6.5 英寸触摸屏，黑白双色均售 599 元"
+    },
+    {
+     "title": "Kimi最大迷思是，它什么都想要，但卡是有限的",
+     "link": "https://www.huxiu.com/article/4900185.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 20:41:58 +0800",
+     "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜视觉中国 10月24日凌晨，Kimi K3.1 Pro发布了。月之暗面官方公众号写道，&ldquo;我们正式推出Kimi K3.1 Pro，这是K3.1系列的第一个模型，也是我们迄今能力最强的3万亿级参数模型。&rdquo;距离上一次Kimi发布K3旗舰模型已经过去了99天。 值得注意的是，这里的&ldquo;3万亿级参数&rdquo;并不意味着模型又扩了参数。K3.1 Pro依然维持K3的2.8T，即2.8万亿总参数规模。这次升级并没有重新进行预训练，重点则是在既有底座上进一步增强后训练。官方也明确解释，K3.1 Pro是K3的后训练版本，",
+     "source": "虎嗅",
+     "zh": "Kimi最大迷思是，它什么都想要，但卡是有限的"
     },
     {
      "title": "Meta：主业“松了口气”，Muse 的细账还悬着？",
@@ -1810,36 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "mRNA肿瘤疫苗大分歧"
     },
     {
-     "title": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元",
-     "link": "https://www.ithome.com/1/017/496.htm",
-     "pubDate": "Sat, 24 Oct 2026 12:20:24 GMT",
-     "summary": "IT之家 10 月 24 日消息，达音科现已在京东上架 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，定价为 999 元。 京东 达音科 PRS5 耳机 999 元 点此访问 该耳机采用复合层压熔彩纹理面板，机腔体采用高精度人体工学 3D 打印树脂材质，单侧净重约 8g，腔体曲线根据耳部结构优化以保证佩戴舒适度与稳定性。 该耳机搭载四分频五单元混合架构，包含一枚 10mm 定制动圈单元、三枚定制动铁单元及一枚极高频微型平板单元。耳机内部采用物理与电子双系统四分频，标配 4 股单晶铜及单晶铜镀银混编线材，采用凹陷式 0.78 2pin 插针，搭载 Q-Lock Mini 可换插头",
-     "source": "IT之家",
-     "zh": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元"
-    },
-    {
-     "title": "胡二妹离世后，被避雷的店主：“文字真的能杀死人”",
-     "link": "https://www.huxiu.com/article/4900183.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 20:19:13 +0800",
-     "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 四川宜宾炸洋芋摊主胡二妹去世已半个月，互联网上关于消费评价的生态，仍在被持续搅动。 作为“压死骆驼的最后一根稻草”，曾长久处在争议之中的“避雷帖”，并没有在这场悲剧后消失，反而陷入前所未有的尴尬： 在柳州经营火锅鸡小店的阿光，在被“避雷”后的短短两天里，从积极解释转为深深的无力，她在自己发布的反避雷帖标题里写下：“想紫砂了”。 与此同时，300多公里外的贵州凯里，开酸笋火锅店的小刘再度想起四个月前的经历：一条针对她小店的避雷帖，逐渐演变为对她个人的诋毁谩骂。她花费数月才慢慢走出来，但仍困惑，究竟怎样做才能平息对方的怒火？ 在“反避雷”帖里，她表",
-     "source": "虎嗅",
-     "zh": "胡二妹离世后，被避雷的店主：“文字真的能杀死人”"
-    },
-    {
-     "title": "卫星发射升空出现“火箭云”奇观，揭秘宇宙级浪漫形成过程",
-     "link": "https://www.ithome.com/1/017/495.htm",
-     "pubDate": "Sat, 24 Oct 2026 12:18:32 GMT",
-     "summary": "IT之家 10 月 24 日消息，暮色四合，天幕上一朵巨大的“夜光水母”缓缓舒展。10 月 23 日傍晚，山西、北京、山东、河北等地的不少人在夜空中看到了这一幕：橘红色尾焰划过之后，一条泛着淡白柔光的尾迹在高空铺开，边缘绵长弥散，形似水母的触须。相关画面很快在社交平台刷屏。 这朵“水母”来自一次常规航天发射。10 月 23 日 18 时 15 分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号 03 星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。发射本身按计划完成，真正引发公众注意的是火箭升空后在高层大气留下的尾迹。 央视新闻在解读中把这种现象称为“暮光效应”，俗称“",
-     "source": "IT之家",
-     "zh": "卫星发射升空出现“火箭云”奇观，揭秘宇宙级浪漫形成过程"
-    },
-    {
-     "title": "中国信通院：截至 8 月，国内约 1500 万辆乘用车具备领航驾驶辅助（NOA）功能",
-     "link": "https://www.ithome.com/1/017/494.htm",
-     "pubDate": "Sat, 24 Oct 2026 12:02:31 GMT",
-     "summary": "IT之家 10 月 24 日消息，据中国信通院，2026 世界智能网联汽车大会已于 10 月 21 日至 23 日在北京亦庄举办。在全体大会成果发布环节，工业和信息化部装备工业一司司长郭守刚介绍了国家车联网技术标准体系与 跨标委 合作机制，发布《国家车联网技术标准体系建设指南（2026 版）》（征求意见稿），并主持车联网标准跨标委合作协议签署仪式。 会上介绍，中国先后制定发布组合驾驶辅助系统、自动驾驶系统、自动紧急制动系统、整车信息安全等多项重要国家标准。截至今年 8 月，国内约 6100 万辆乘用车搭载组合驾驶辅助（L2）功能， 其中约 1500 万辆乘用车具备领航驾驶辅助（ NOA ）功能",
-     "source": "IT之家",
-     "zh": "中国信通院：截至 8 月，国内约 1500 万辆乘用车具备领航驾驶辅助（NOA）功能"
+     "title": "I can't believe we're still arguing over whether X is for jerks",
+     "link": "https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks",
+     "pubDate": "Sat, 24 Oct 2026 12:14:34 +0000",
+     "summary": "Article URL: https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks Comments URL: https://news.ycombinator.com/item?id=50220540 Points: 21 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "I can't believe we're still arguing over whether X is for jerks"
     },
     {
      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
@@ -1858,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "A 1,000-mile cloud on Mars may reveal physics never seen in nature"
     },
     {
-     "title": "李建杰：三季度经济“U型”回升，但传导机制仍待疏通",
-     "link": "https://www.huxiu.com/article/4900176.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 19:39:52 +0800",
-     "summary": "本文来自微信公众号： IPP评论 ，作者：李建杰 导语：10月19日，国家统计局公布2026年前三季度国民经济运行数据。初步核算，前三季度国内生产总值（GDP）达107.1万亿元，按不变价格计算，同比增长4.6%。其中，三季度当季增长4.5%，较二季度回升0.2个百分点，季调环比增长1.2%，年内走出一条“U型”曲线。9月单月，出口、工业、消费、投资四大口径同步改善，实现全年增长目标已基本无虞。 然而，总量企稳的背面，是生产与需求、盈利与投资、收入与信心之间依然存在的三重结构性“温差”。本轮回升的内生动力是否稳固？内需（尤其是投资）的疲弱症结何在？价格信号的“冷热不均”折射出怎样的供求矛盾？科",
-     "source": "虎嗅",
-     "zh": "李建杰：三季度经济“U型”回升，但传导机制仍待疏通"
-    },
-    {
      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
      "link": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
      "pubDate": "Sat, 24 Oct 2026 11:30:00 +0000",
@@ -1877,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 36 # Comments: 3",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 40 # Comments: 6",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
@@ -1901,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
      "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
-     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 10 # Comments: 0",
      "source": "Hacker News",
      "zh": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706"
     },
@@ -1976,22 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "爸妈买金为婚礼，年轻人买金为“发工资”。",
      "source": "钛媒体",
      "zh": "年轻人还在买金，只是不再为“牌子”付费"
-    },
-    {
-     "title": "苏超的背后的经济意义",
-     "link": "https://www.tmtpost.com/8180366.html",
-     "pubDate": "Sat, 24 Oct 2026 18:03:20 +0800",
-     "summary": "“挑大梁”的担当。",
-     "source": "钛媒体",
-     "zh": "苏超的背后的经济意义"
-    },
-    {
-     "title": "I Don't Understand Quantum Physics (2018)",
-     "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-     "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 110 # Comments: 75",
-     "source": "Hacker News",
-     "zh": "I Don't Understand Quantum Physics (2018)"
     }
    ]
   },
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Which services can you safely disable to improve PC gaming?",
+     "link": "https://www.engadget.com/2290638/which-windows-background-services-safely-disable-improve-pc-gaming/",
+     "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
+     "summary": "A lot of what Windows does out of the box isn't essential, and can waste your computer's power when you're trying to game.",
+     "source": "Engadget",
+     "zh": "Which services can you safely disable to improve PC gaming?"
+    },
+    {
+     "title": "PSA: Davinci Resolve is on sale, letting you unlock the powerful tool for less",
+     "link": "https://www.dpreview.com/news/davinci-resolve-ai-sale-october-2026/",
+     "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
+     "summary": "Many can use the free version without any issue, but if you can't, it might be the time to upgrade.",
+     "source": "DPReview",
+     "zh": "PSA: Davinci Resolve is on sale, letting you unlock the powerful tool for less"
+    },
     {
      "title": "How to improve your PC's airflow for better cooling",
      "link": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
@@ -2080,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Dear Google, I just want to see my photos.",
      "source": "Android Authority",
      "zh": "I finally made Google Photos less annoying with these tweaks"
-    },
-    {
-     "title": "Meta is delaying its controversial new business terms amid scraping concerns",
-     "link": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
-     "pubDate": "Sat, 24 Oct 2026 10:18:15 +0000",
-     "summary": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
-     "source": "Engadget",
-     "zh": "Meta is delaying its controversial new business terms amid scraping concerns"
     },
     {
      "title": "5 streaming boxes you should buy instead of the new Apple TV 4K",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Friday’s best Google Play app and game deals are ready, including DREDGE, Slaps And Beans, Argo’s Choice: Offline Game, The Ancestral Legacy, Ticket to Ride, Thronefall, Demon Castle Story, Lumino City, and more. Just be sure to dive into Pixel Watch 5 at up to $150 off , the most affordable Galaxy ",
      "source": "9to5Google",
      "zh": "Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more"
-    },
-    {
-     "title": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3",
-     "link": "https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/",
-     "pubDate": "Fri, 23 Oct 2026 19:50:23 +0000",
-     "summary": "Rising memory prices continue to weigh on the global smartphone market, with shipments in China alone falling 10% year over year in Q3. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3"
     }
    ]
   },
@@ -2249,6 +2249,38 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+     "pubDate": "Sat, 24 Oct 2026 13:00:35 GMT",
+     "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+     "source": "CNBC",
+     "zh": "Ukraine says Starlink and Starshield high speed restrictions have been lifted"
+    },
+    {
+     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 13:00:00 GMT",
+     "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+     "source": "MarketWatch",
+     "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
+    },
+    {
+     "title": "Why popular airplanes are getting scrapped years early",
+     "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+     "pubDate": "Sat, 24 Oct 2026 12:59:59 GMT",
+     "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+     "source": "CNBC",
+     "zh": "Why popular airplanes are getting scrapped years early"
+    },
+    {
+     "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907118542.html",
+     "pubDate": "Sat, 24 Oct 2026 20:40:04 +0800",
+     "summary": "在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完",
+     "source": "东方财富资讯",
+     "zh": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？"
+    },
     {
      "title": "Iran in 'advanced stages' of plans to target US officials in Middle East",
      "link": "https://seekingalpha.com/news/4656927-iran-advanced-stages-plans-target-us-officials-middle-east?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2266,20 +2298,20 @@ window.INDUSTRY_DATA = {
      "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
     },
     {
+     "title": "10月24日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907118119.html",
+     "pubDate": "Sat, 24 Oct 2026 20:29:05 +0800",
+     "summary": "今日摘要 习近平向2026全球治理论坛（雄安）致信。 党的十八大以来，以习近平同志为核心的党中央从巩固党的执政地位、实现中华民族伟大复兴的战略高度，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面，团结带领全党在新的长征路上奋力创造新的辉煌。 习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话引发全军官兵热烈反响。 王沪宁陪同朝鲜最高领导人访问丹东。 李希出席二十届中央第八轮巡视工作动员部署会。 全国秋粮收获进度已过八成。 国际人士积极评价习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话。 内容速览 习近平向2026全球治理论坛（雄安）致信 10月23日，",
+     "source": "东方财富资讯",
+     "zh": "10月24日晚间央视新闻联播要闻集锦"
+    },
+    {
      "title": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
      "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 12:25:00 GMT",
      "summary": "The first Phase 3 data for a custom cancer vaccine has raised questions about whether the potential new treatment is needed.",
      "source": "MarketWatch",
      "zh": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option."
-    },
-    {
-     "title": "Why popular airplanes are getting scrapped years early",
-     "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-     "pubDate": "Sat, 24 Oct 2026 12:20:22 GMT",
-     "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
-     "source": "CNBC",
-     "zh": "Why popular airplanes are getting scrapped years early"
     },
     {
      "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
@@ -2304,6 +2336,14 @@ window.INDUSTRY_DATA = {
      "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
      "source": "华尔街见闻",
      "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
+    },
+    {
+     "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907116474.html",
+     "pubDate": "Sat, 24 Oct 2026 19:44:44 +0800",
+     "summary": "问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境",
+     "source": "东方财富资讯",
+     "zh": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问"
     },
     {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -2346,20 +2386,28 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit"
     },
     {
-     "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
-     "link": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 11:00:00 GMT",
-     "summary": "As AI models become more advanced, tech leaders and philosophers are mulling the relationship between humanity and technology.",
-     "source": "MarketWatch",
-     "zh": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness."
-    },
-    {
      "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
      "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
      "pubDate": "Sat, 24 Oct 2026 10:59:16 GMT",
      "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
      "source": "CNBC",
      "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
+    },
+    {
+     "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
+     "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
+     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只ETF份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
+     "source": "东方财富资讯",
+     "zh": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！"
+    },
+    {
+     "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907105225.html",
+     "pubDate": "Sat, 24 Oct 2026 18:38:36 +0800",
+     "summary": "10月24日， 小鹏集团 副总裁于涛在社交平台账号“托马斯电火车”上发布长文，回应小鹏MONA产品经理恩塔发布会“老登”用词事件全过程。他表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户，“几位‘老登’没一个不悦，反而在内部反复表扬”。 “真正的互联网同学文化，可能不是其它企业上下有别等级森严，而是年轻人敢开老板玩笑的松弛， 后来的致歉视频，是恩塔主动提的。她看到有没完整看直播的朋友产生误解，觉得是自己措辞有疏漏，才主动拍了视频解释原委。”他写道。 “老登并不让人反感，老登并不让人反感，有些人的登味儿才让人厌恶，少一些对00后的口诛笔伐。”他表示",
+     "source": "东方财富资讯",
+     "zh": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应"
     },
     {
      "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade",
@@ -2392,6 +2440,14 @@ window.INDUSTRY_DATA = {
      "summary": "马斯克与民主党之间的政治对决正在急剧升温。随着美国国会中期选举临近，民主党人已公开放话，一旦夺回国会控制权，将对马斯克发起全面国会调查，并祭出被外界称为“史上最大规模传票”的法律手段。马斯克则以强硬姿态回击，誓言反击到底，并正斥资数亿美元力保共和党守住国会席位。 据媒体报道，民主党正筹备对马斯克旗下企业及其政府活动展开大规模国会调查，调查范围涵盖其联邦政府合同、领导\"政府效率部\"（DOGE）期间的相关行为，以及涉嫌干预乌克兰军事通信等多项指控。 纽约大学教授Scott Galloway在其播客节目中预言：\"11月4日之后，你将看到史上最大规模的传票和国会听证要求砸向他。\"资深科技记者、马斯克批",
      "source": "华尔街见闻",
      "zh": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”"
+    },
+    {
+     "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907101111.html",
+     "pubDate": "Sat, 24 Oct 2026 17:18:26 +0800",
+     "summary": "当地时间本周五(10月23日)，美国能源部宣布，已根据《2020年能源法》将氦气认定为关键材料，以加强美国制造业和供应链安全。 美国能源部作出的这一决定，使氦气成为了该机构指定的第20种关键材料，并将这种 工业气体 纳入《2020年能源法》的关键材料框架，包括接受更严格的政府监管。 (美国能源部关键材料清单) 美国能源部长克里斯·赖特在一份声明中写道：“特朗普总统正在重振美国的制造业，这意味着我们要确保拥有再次在美国本土制造产品所需的材料。” 赖特称，“ 氦气对于生产推动美国经济发展的 半导体 和先进技术至关重要 。通过将氦气指定为关键材料，我们朝着保障供应链安全、创造美国就业岗位以及确保美国",
+     "source": "东方财富资讯",
+     "zh": "攸关半导体生产！美国能源部将氦气认定为关键材料"
     },
     {
      "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -2432,62 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
      "source": "Financial Times",
      "zh": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu"
-    },
-    {
-     "title": "France is looking ungovernable. And it’s going to get worse",
-     "link": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
-     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
-     "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
-     "source": "Financial Times",
-     "zh": "France is looking ungovernable. And it’s going to get worse"
-    },
-    {
-     "title": "The young are conformists in denial",
-     "link": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
-     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
-     "summary": "The reassuringly bourgeois values behind a rebellious generation",
-     "source": "Financial Times",
-     "zh": "The young are conformists in denial"
-    },
-    {
-     "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
-     "link": "https://seekingalpha.com/news/4656924-global-x-equal-weight-can-insurance-idx-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:32:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend"
-    },
-    {
-     "title": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend",
-     "link": "https://seekingalpha.com/news/4656923-global-x-russell-2000-covered-cll-etf-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:32:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend"
-    },
-    {
-     "title": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend",
-     "link": "https://seekingalpha.com/news/4656922-global-x-20-plusyr-us-treasury-bd-idx-etf-hdgd-unts-declares-cad-0_193-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:31:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend"
-    },
-    {
-     "title": "Global X 3-10 Year U.S. Treas Bd Idx ETF CAD Hdg declares CAD 0.20 dividend",
-     "link": "https://seekingalpha.com/news/4656921-global-x-3minus-10-year-u-s-treas-bd-idx-etf-cad-hdg-declares-cad-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:31:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X 3-10 Year U.S. Treas Bd Idx ETF CAD Hdg declares CAD 0.20 dividend"
-    },
-    {
-     "title": "存储扩产带动薄膜沉积设备放量",
-     "link": "http://www.eeo.com.cn/2026/1024/1074302.shtml",
-     "pubDate": "Sat, 24 Oct 2026 11:21:36 +0800",
-     "summary": "随着存储芯片堆叠层数增加，产线对薄膜沉积设备的需求已经大幅增长。一般而言，堆叠层数翻倍，对应的薄膜沉积设备需求量也会翻倍甚至更多。",
-     "source": "经济观察网",
-     "zh": "存储扩产带动薄膜沉积设备放量"
     }
    ]
   },

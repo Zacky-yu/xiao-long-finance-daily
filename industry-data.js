@@ -1992,6 +1992,22 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 21 # Comments: 2",
      "source": "Hacker News",
      "zh": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706"
+    },
+    {
+     "title": "9 Unique Apps to Try on the iPhone Duo",
+     "link": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+     "pubDate": "Sat, 24 Oct 2026 10:45:00 +0000",
+     "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
+     "source": "WIRED",
+     "zh": "9 Unique Apps to Try on the iPhone Duo"
+    },
+    {
+     "title": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
+     "link": "https://www.techmeme.com/261024/p3#a261024p3",
+     "pubDate": "Sat, 24 Oct 2026 06:35:01 -0400",
+     "summary": "Rachel Monroe / New Yorker : Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings &nbsp; &mdash;&nbsp; Algorithmic social media, which has helped create the conditions for the spread of such viol",
+     "source": "Techmeme",
+     "zh": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)"
     }
    ]
   },

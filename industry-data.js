@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 17:32:53",
+ "generated_at": "2026/10/24 17:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -98,28 +98,12 @@ window.INDUSTRY_DATA = {
      "zh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
     },
     {
-     "title": "What Companies Actually Mean When They Say They Want “AI Experience”",
-     "link": "https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience",
-     "pubDate": "Fri, 23 Oct 2026 14:00:00 +0000",
-     "summary": "What employers actually mean when job postings list \"AI experience\" as a requirement.",
-     "source": "KDnuggets",
-     "zh": "What Companies Actually Mean When They Say They Want “AI Experience”"
-    },
-    {
      "title": "全球互联网经历“黑色十月”，这个中国AI在风暴来临前留了后手",
      "link": "https://zhidx.com/p/604178.html",
      "pubDate": "Fri, 23 Oct 2026 20:00:02 +0800",
      "summary": "智东西 作者 | Saul 编辑 | 漠影 过去48小时，全球互联网经历“黑色十月”：支撑七成网站的PHP代码，被AI挖出存在两个CVSS9.2分的严重漏洞。 更棘手的是，漏洞细节在补丁发布前就遭泄露：据The Register报道，亚马逊的威胁情报团队在公开前四天就捕获了利用尝试； Cloudflare 的监测数据显示，攻击尝试在公开后两小时内从数千次涨到数百万次。荷兰鹿特丹港、比利时外交部、芬兰公共网络服务相继预防性下线。 用AI作恶的人，已经进化到以小时计；守门的人，还在按月更新规则。 眼看风暴越刮越猛，一个问题悬在了所有人心里：这场蔓延，到底有没有办法制止？ 下面这个案例，让我们看到了",
      "source": "智东西",
      "zh": "全球互联网经历“黑色十月”，这个中国AI在风暴来临前留了后手"
-    },
-    {
-     "title": "5 Free AI Coding Agents You Should Try in 2026",
-     "link": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
-     "pubDate": "Fri, 23 Oct 2026 12:00:00 +0000",
-     "summary": "Access powerful open-source and proprietary models through OpenCode Zen, Gemini’s free quota, Kilo Gateway, Cline Provider, and Charm Hyper without paying for API access upfront.",
-     "source": "KDnuggets",
-     "zh": "5 Free AI Coding Agents You Should Try in 2026"
     },
     {
      "title": "DeepSeek之后，StartLux再来：开源首个决策模型推理引擎，推理快至5.3倍",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
+    },
+    {
+     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+     "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
+     "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
+    },
+    {
+     "title": "Designing an AI serving harness built to last",
+     "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+     "pubDate": "Thu, 22 Oct 2026 21:17:29 +0000",
+     "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
+     "source": "MIT Tech Review AI",
+     "zh": "Designing an AI serving harness built to last"
     }
    ]
   },
@@ -1754,10 +1754,42 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Steam 喜加一：2D 平台冒险游戏《Depths Unseen》转付费前限时免费领",
+     "link": "https://www.ithome.com/1/017/435.htm",
+     "pubDate": "Sat, 24 Oct 2026 09:46:38 GMT",
+     "summary": "IT之家 10 月 24 日消息，由独立开发者 DoodleCorp 打造的 2D 平台冒险游戏《Depths Unseen》目前正以免费形式在 Steam 开启抢先体验。 随着第 3 章内容推出，开发者宣布，为筹集后续开发资金，计划自 10 月 25 日起将游戏改为付费制。玩家可趁游戏尚未调整价格前，前往 Steam 商店页面免费领取并添加至游戏库，IT之家附游戏地址（ https://store.steampowered.com/app/3897890/Depths_Unseen/ ）。 《Depths Unseen》计划推出共 5 个章节，目前已有 3 个章节开放游玩。开发者选择在第 3",
+     "source": "IT之家",
+     "zh": "Steam 喜加一：2D 平台冒险游戏《Depths Unseen》转付费前限时免费领"
+    },
+    {
+     "title": "巴西大选胶着，谁上台都绕不开的“对冲”难题",
+     "link": "https://www.huxiu.com/article/4900158.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 17:38:48 +0800",
+     "summary": "本文来自微信公众号： 底线思维 ，作者：史派克特 10月25日，巴西大选将进行第二轮投票。首轮投票中，小博索纳罗以47.03%对卢拉45.16%意外领先，第二轮投票前，两人支持度各为50%，被媒体称为巴西“史上最胶着的大选”。 这场选举不仅决定拉美第一大经济体未来四年的内政外交走向，也牵动中美在拉丁美洲的战略平衡。在此背景下，圣保罗瓦加斯基金会国际关系学院院长马蒂亚斯·史派克特于10月15日做客人大重阳“全球名家”论坛，发表题为“中美竞争背景下巴西的对冲策略”的演讲。 史派克特从“对冲”概念切入，指出巴西面临安全上依赖美国、经济上深度合作中国的特殊格局，进而分析巴西大选中的两条外交路线。他强调",
+     "source": "虎嗅",
+     "zh": "巴西大选胶着，谁上台都绕不开的“对冲”难题"
+    },
+    {
+     "title": "欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？",
+     "link": "https://www.huxiu.com/article/4900157.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 17:37:23 +0800",
+     "summary": "本文来自微信公众号： 底线思维 ，作者：程亚文 2026年，中国企业出海正面临前所未有的“双向夹击”。 在欧盟，继对中国电动汽车加征最高35.3%反补贴税后，欧盟依据《外国补贴条例》（FSR）对中国风电龙头金风科技启动深入调查，安检设备企业同遭波及。 在大西洋彼岸，美国国防部将比亚迪、蔚来、宁德时代等中国汽车产业链企业纳入1260H“中国军事企业清单”，实质性关闭了相关企业的政府采购通道。与此同时，美国商务部发布新指引，将先进AI芯片的出口许可要求延伸至中国企业的海外子公司，堵住了“绕道出海”获取高端技术的通道。 当外部限制层层加码，中国出海企业不再只是遭遇关税壁垒，而是面对一整套从贸易、技术",
+     "source": "虎嗅",
+     "zh": "欧美围堵，当地提防，中国企业出海如何做到“你好我也好”？"
+    },
+    {
+     "title": "14.99 万元起，捷途山海 L7 PLUS 1.5L C-DM 智驾版新增“智享精英版”“激光雷达豪华版”上市",
+     "link": "https://www.ithome.com/1/017/431.htm",
+     "pubDate": "Sat, 24 Oct 2026 09:31:05 GMT",
+     "summary": "IT之家 10 月 24 日消息，捷途汽车宣布为旗下捷途山海 L7 PLUS 1.5L C-DM 智驾版新增“220KM 五座智享精英版”和“220KM 五座激光雷达豪华版”， 指导价分别为 14.99 万元和 15.99 万元 ，超级置换政策后售价分别为 13.99 万元和 14.99 万元。 系列车型继续延续现款车型的设计风格，星环式贯穿灯组搭配两侧 J 字形造型勾勒，封闭式前格栅搭配下方梯形进气口。车身采用半隐藏式车门把手搭配密辐式轮圈，提升车辆精致感。车尾采用贯穿式尾灯组，与车头形成视觉呼应。 该车采用 10.25 英寸全液晶仪表 +15.6 英寸可左右 10° 旋转向日葵中控屏，搭载",
+     "source": "IT之家",
+     "zh": "14.99 万元起，捷途山海 L7 PLUS 1.5L C-DM 智驾版新增“智享精英版”“激光雷达豪华版”上市"
+    },
+    {
      "title": "华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新：支持 iPhone 互联，实现消息相互流转",
      "link": "https://www.ithome.com/1/017/430.htm",
      "pubDate": "Sat, 24 Oct 2026 09:23:32 GMT",
-     "summary": "IT之家 10 月 24 日消息，华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新，安装包体积为 7.31GB。 IT之家附主要更新内容如下（以华为 Mate X7 为例）： 华为分享 隔空传送新玩法，握拳抓取内容后，旋转拳头背对屏幕可触发“仅一次查看”功能，分享内容接收方仅可查看一次。 通信共享 通信共享功能再升级，手机与搭载 HarmonyOS7 的手机、平板、鸿蒙电脑之间支持多人互助通信共享，通过碰一碰或者登录同一华为账号共享网络建立互助网络，在移动网络信号弱或网络负载大等场景下可获得更快、更稳的网",
+     "summary": "IT之家 10 月 24 日消息，今日，华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新。以华为 Mate X7，安装包体积为 7.31GB。 IT之家附主要更新内容如下（以华为 Mate X7 为例）： 华为分享 隔空传送新玩法，握拳抓取内容后，旋转拳头背对屏幕可触发“仅一次查看”功能，分享内容接收方仅可查看一次。 通信共享 通信共享功能再升级，手机与搭载 HarmonyOS7 的手机、平板、鸿蒙电脑之间支持多人互助通信共享，通过碰一碰或者登录同一华为账号共享网络建立互助网络，在移动网络信号弱或网络负载",
      "source": "IT之家",
      "zh": "华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新：支持 iPhone 互联，实现消息相互流转"
     },
@@ -1818,28 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "32 英寸 AOC OLED 雾面 4K 120Hz 显示器 U32U4D 发售，国补价 5249 元"
     },
     {
-     "title": "苹果 iPhone Duo 手机刚开售，第三方维修师傅已成功将存储扩容至 2TB",
-     "link": "https://www.ithome.com/1/017/426.htm",
-     "pubDate": "Sat, 24 Oct 2026 08:54:05 GMT",
-     "summary": "IT之家 10 月 24 日消息，苹果 iPhone Duo 手机昨日正式开售，其中 256GB 版本定价 15999 元、512GB 版本 17999 元，1TB 版本 21499 元，2TB 版本 26499 元。 而昨晚，博主“万维创芯-老罗”便晒出视频，称自己成功将该机扩容至 2TB，IT之家附视频如下： 参考IT之家先前报道，还有博主直播测试撕下了 iPhone Duo 的内屏磨砂膜，令其“屏幕秒变亮面屏”，引发网络热议。",
-     "source": "IT之家",
-     "zh": "苹果 iPhone Duo 手机刚开售，第三方维修师傅已成功将存储扩容至 2TB"
-    },
-    {
      "title": "Meta迎来“分裂季”",
      "link": "https://www.tmtpost.com/8180397.html",
      "pubDate": "Sat, 24 Oct 2026 16:54:00 +0800",
      "summary": "自由现金流上市以来首次转负。",
      "source": "钛媒体",
      "zh": "Meta迎来“分裂季”"
-    },
-    {
-     "title": "华为 Pura90 Plus 手机配置曝光：2.6GHz 麒麟 9025 芯片，6.8 英寸四曲屏",
-     "link": "https://www.ithome.com/1/017/425.htm",
-     "pubDate": "Sat, 24 Oct 2026 08:53:48 GMT",
-     "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 今日曝光华为 Pura90 Plus 手机配置，目前这款新机已经开启预订。 根据爆料，该机搭载的麒麟 9025 芯片是 9020 提频至 2.6GHz ，正面配备 6.8 英寸 1.5K+120Hz LTPO 等深四曲屏，后置 50Mp 1 英寸 F1.6-F4.0 可变光圈主摄、40Mp 超广角镜头、48Mp F2.1 超微距潜望长焦镜头。此外，该机还内置 5700mAh 电池，支持 100W 有线充 +80W 无线充。 IT之家注意到，目前，这款新机已登陆官网，提供曜石黑、雪域白、霞光紫、晨曦金四款配色，可选 12GB+256GB、12",
-     "source": "IT之家",
-     "zh": "华为 Pura90 Plus 手机配置曝光：2.6GHz 麒麟 9025 芯片，6.8 英寸四曲屏"
     },
     {
      "title": "AI破解数学难题，顶尖数学家怎么想？",
@@ -1906,20 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI：断网训练前沿模型"
     },
     {
-     "title": "我最喜欢的浏览器没了，我找到了四种方式“复活”它",
-     "link": "https://www.huxiu.com/article/4900145.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 16:25:09 +0800",
-     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《我最喜欢的浏览器没了，我找到了四种方式「复活」它》 一代网红浏览器Arc就此落幕：The Browser Company发布公告，12月22日，Arc的桌面版将彻底停止工作，届时macOS和Windows版都将无法继续登录和使用。新账号停止注册且立即生效，11月起移动端的登录、标签同步及Browse for Me等AI功能会停止。 The Browser Company给出的去处是Dia，这样密码、历史、扩展和标签页都可以直接迁移，AI可用可不用。但对仍在使用Arc的人来说，换浏览器并不只是把书签导出来这么简单。 作为红极一",
-     "source": "虎嗅",
-     "zh": "我最喜欢的浏览器没了，我找到了四种方式“复活”它"
-    },
-    {
-     "title": "AI时代，真正危险的不是不会用AI，而是仍在做“传统企业＋AI”",
-     "link": "https://www.huxiu.com/article/4900142.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 16:18:11 +0800",
-     "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 深度观察 从工具叠加到组织重构：一场围绕企业边界、利益结构与产业权力的深层变革 席 席春迎博士深度长文·阅读约15分钟 当“AI原生企业”成为新的商业流行语，一种颇具诱惑力的未来图景也随之出现：一家只有几十名员工的公司，借助模型、智能体和自动化系统，便能创造过去几千人乃至几万人才能完成的产出。 这样的判断并非夸张。人工智能正在迅速压低知识处理、内容生产、客户服务和管理协同的边际成本，并第一次让“企业收入增长是否必然伴随人员扩张”成为一个可以被重新讨论的问题。 然而，对绝大多数已经存在十年、二十年甚至更久的企业而言，真正棘手的问题",
-     "source": "虎嗅",
-     "zh": "AI时代，真正危险的不是不会用AI，而是仍在做“传统企业＋AI”"
+     "title": "ThinkRail from JetBrains",
+     "link": "https://thinkrail.ai/",
+     "pubDate": "Sat, 24 Oct 2026 08:08:42 +0000",
+     "summary": "Article URL: https://thinkrail.ai/ Comments URL: https://news.ycombinator.com/item?id=50219186 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "ThinkRail from JetBrains"
     },
     {
      "title": "A look at OpenAI&apos;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)",
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
      "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 112 # Comments: 19",
+     "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 123 # Comments: 22",
      "source": "Hacker News",
      "zh": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended"
     },
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "OBS Studio 33",
      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
      "pubDate": "Sat, 24 Oct 2026 04:49:58 +0000",
-     "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 133 # Comments: 37",
+     "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 146 # Comments: 37",
      "source": "Hacker News",
      "zh": "OBS Studio 33"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "How close can pure functional programming get to C?",
      "link": "https://rtfeldman.com/fp-vs-c",
      "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
-     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 113 # Comments: 11",
+     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 116 # Comments: 11",
      "source": "Hacker News",
      "zh": "How close can pure functional programming get to C?"
     },
@@ -1981,17 +1989,9 @@ window.INDUSTRY_DATA = {
      "title": "How Block Blast harvests its players for ad money",
      "link": "https://ayoships.com/breakdowns/block-blast",
      "pubDate": "Sat, 24 Oct 2026 02:43:43 +0000",
-     "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 51 # Comments: 12",
+     "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 53 # Comments: 13",
      "source": "Hacker News",
      "zh": "How Block Blast harvests its players for ad money"
-    },
-    {
-     "title": "Apple Security Research Device",
-     "link": "https://security.apple.com/research-device/",
-     "pubDate": "Sat, 24 Oct 2026 02:36:38 +0000",
-     "summary": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 61 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "Apple Security Research Device"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "I compared this year’s two best camera phones to crown an ultimate champion",
+     "link": "https://www.androidauthority.com/pixel-11-pro-xl-vs-oppo-find-x10-pro-max-camera-shootout-3723085/",
+     "pubDate": "Sat, 24 Oct 2026 09:30:02 +0000",
+     "summary": "Google's best Pixel takes on a rising star — the OPPO Find X10 Pro Max.",
+     "source": "Android Authority",
+     "zh": "I compared this year’s two best camera phones to crown an ultimate champion"
+    },
     {
      "title": "I got Gemini and ChatGPT to argue about which is the best phone, and the results are in",
      "link": "https://www.androidauthority.com/ai-debate-best-smartphone-3721987/",
@@ -2186,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "iPhone Duo has hidden trick that solves a common complaint"
     },
     {
-     "title": "Not a fan of full-screen Calling Cards? Keep an eye out for this update",
-     "link": "https://www.androidauthority.com/google-phone-calling-cards-compact-photo-option-3727421/",
-     "pubDate": "Fri, 23 Oct 2026 19:41:19 +0000",
-     "summary": "Google's working on a 'compact' option for Calling Card images.",
-     "source": "Android Authority",
-     "zh": "Not a fan of full-screen Calling Cards? Keep an eye out for this update"
-    },
-    {
      "title": "Samsung extends its Certified Re-Newed program to Amazon US",
      "link": "https://www.gsmarena.com/samsung_extends_its_certified_renewed_program_to_amazon_us-news-75189.php",
      "pubDate": "Fri, 23 Oct 2026 21:21:02 +0200",
@@ -2250,52 +2250,12 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "美航空航天局公布“阿耳忒弥斯3号”任务最新安排",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907101480.html",
-     "pubDate": "Sat, 24 Oct 2026 17:25:04 +0800",
-     "summary": "美国航空 航天局23日公布“阿耳忒弥斯3号”任务最新安排。按计划，该任务将于2027年把4名宇航员送入近地轨道，先后与美国蓝色起源公司和太空探索技术公司研制的登月系统测试飞行器开展交会对接等测试，为后续“阿耳忒弥斯4号”载人登月任务做准备。 据介绍，“阿耳忒弥斯3号”任务计划持续14天，将使用3枚不同的运载火箭，分别将蓝色起源公司研发的“蓝月Mark 2”号月球着陆器测试版、“猎户座”载人飞船和“星舰”测试飞行器送入太空。任务旨在验证不同航天器在轨协同工作的能力，演练交会、对接、舱内操作等关键程序，降低未来载人登月的风险。 按计划，“蓝月Mark 2”号着陆器测试版将率先发射，进入近地轨道并在",
-     "source": "东方财富股票",
-     "zh": "美航空航天局公布“阿耳忒弥斯3号”任务最新安排"
-    },
-    {
-     "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907101111.html",
-     "pubDate": "Sat, 24 Oct 2026 17:18:26 +0800",
-     "summary": "当地时间本周五(10月23日)，美国能源部宣布，已根据《2020年能源法》将氦气认定为关键材料，以加强美国制造业和供应链安全。 美国能源部作出的这一决定，使氦气成为了该机构指定的第20种关键材料，并将这种 工业气体 纳入《2020年能源法》的关键材料框架，包括接受更严格的政府监管。 (美国能源部关键材料清单) 美国能源部长克里斯·赖特在一份声明中写道：“特朗普总统正在重振美国的制造业，这意味着我们要确保拥有再次在美国本土制造产品所需的材料。” 赖特称，“ 氦气对于生产推动美国经济发展的 半导体 和先进技术至关重要 。通过将氦气指定为关键材料，我们朝着保障供应链安全、创造美国就业岗位以及确保美国",
-     "source": "东方财富股票",
-     "zh": "攸关半导体生产！美国能源部将氦气认定为关键材料"
-    },
-    {
-     "title": "美今年已报告麻疹病例超4500例 实际可能更多",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907100978.html",
-     "pubDate": "Sat, 24 Oct 2026 17:12:50 +0800",
-     "summary": "美国疾病控制和预防中心23日公布的最新数据显示，截至22日，美国2026年已累计报告4588例麻疹确诊病例，已超过2025年全年病例总数的2倍。一些公共卫生专家认为，由于存在病例漏报，美国实际感染人数可能远高于官方统计。 数据显示，最近一周美国新增麻疹确诊病例178例。今年以来，美国47个州和地区共报告4570例麻疹病例，另有18例病例涉及国际旅行。5至19岁年龄段病例数占比最高，占确诊病例总数的约42%，共1914例。已有479名患者住院治疗，占确诊病例总数的约10%。约96%的确诊病例未接种过麻疹 疫苗 或接种情况不明。 其中宾夕法尼亚州卫生部门23日公布的数据显示，今年以来，该州已有44",
-     "source": "东方财富股票",
-     "zh": "美今年已报告麻疹病例超4500例 实际可能更多"
-    },
-    {
-     "title": "实探｜iPhone Duo一机难求，加价空间却已大幅缩水",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907100622.html",
-     "pubDate": "Sat, 24 Oct 2026 17:08:25 +0800",
-     "summary": "10月23日， 苹果 首款折叠屏手机iPhone Duo正式发售。10月16日晚8点开启预购后，首批货源很快售罄，目前 苹果 中国网站部分订单的预计交付时间，已经排到2027年1月下旬。 苹果 此前表示，每位顾客最多购买2台iPhone Duo，不同国家和地区的首销现货供应情况有所不同。中国大陆Apple Store首销当天主要向此前已经在线上下单的消费者提供到店取货服务，没有提前抢到订单的消费者，当天较难直接在门店买到现货。 10月23日早上8点，Apple Store较往常提前开门营业。有拿到512GB版本的消费者对中国证券报记者表示，他在店外被黄牛拦下询价，但犹豫片刻后并未出手，“想先自",
-     "source": "东方财富股票",
-     "zh": "实探｜iPhone Duo一机难求，加价空间却已大幅缩水"
-    },
-    {
-     "title": "紫光股份：算力基础设施建设带动公司网络、服务器、超节点产品需求持续向好",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907101383.html",
-     "pubDate": "Sat, 24 Oct 2026 17:05:25 +0800",
-     "summary": "紫光股份 10月24日在互动平台表示，算力基础设施建设带动公司网络、服务器、超节点产品需求持续向好，公司将充分发挥自身优势，与产业链上下游高效协同，依托多元、稳健、可持续的供应链体系，保障交付的稳定与连续。具体经营数据请以公司定期报告为准。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "紫光股份：算力基础设施建设带动公司网络、服务器、超节点产品需求持续向好"
-    },
-    {
-     "title": "紫光股份：算力基础设施建设带动公司网络、服务器等产品需求持续向好",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907100423.html",
-     "pubDate": "Sat, 24 Oct 2026 17:03:44 +0800",
-     "summary": "紫光股份 (000938)10月24日在互动平台回复投资者称，算力基础设施建设带动公司网络、服务器、超节点产品需求持续向好，公司将与产业链上下游高效协同，依托多元、稳健、可持续的供应链体系，保障交付的稳定与连续。海外业务拓展方面，年初至今，已落地多个海外标杆项目。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "紫光股份：算力基础设施建设带动公司网络、服务器等产品需求持续向好"
+     "title": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”",
+     "link": "https://wallstreetcn.com/articles/3784395",
+     "pubDate": "Sat, 24 Oct 2026 17:34:18 +0800",
+     "summary": "马斯克与民主党之间的政治对决正在急剧升温。随着美国国会中期选举临近，民主党人已公开放话，一旦夺回国会控制权，将对马斯克发起全面国会调查，并祭出被外界称为“史上最大规模传票”的法律手段。马斯克则以强硬姿态回击，誓言反击到底，并正斥资数亿美元力保共和党守住国会席位。 据媒体报道，民主党正筹备对马斯克旗下企业及其政府活动展开大规模国会调查，调查范围涵盖其联邦政府合同、领导\"政府效率部\"（DOGE）期间的相关行为，以及涉嫌干预乌克兰军事通信等多项指控。 纽约大学教授Scott Galloway在其播客节目中预言：\"11月4日之后，你将看到史上最大规模的传票和国会听证要求砸向他。\"资深科技记者、马斯克批",
+     "source": "华尔街见闻",
+     "zh": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”"
     },
     {
      "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -2322,14 +2282,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
     },
     {
-     "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907093091.html",
-     "pubDate": "Sat, 24 Oct 2026 15:47:18 +0800",
-     "summary": "英国内阁办公厅周六发布公告表示，英国将设立一个国家级 人工智能 (AI)生物安全实验室，以帮助加强其应对新出现生物威胁的防御能力。该实验室将由OpenAI、Anthropic与Google DeepMind共同支持，这是英国为提升理解并化解AI技术潜在风险而推出的一揽子关键举措之一。 据悉，作为周三预算案的一部分，英国政府将在领先的AI企业的支持下，斥资1亿英镑打造这一“全球首创”的机构。 官方声明称，该实验室将成为全球首个专门从事 人工智能 生物安全工作的机构，利用AI技术侦测并监控生物安全威胁。 除政府直接拨款外，实验室还将获得OpenAI和Anthropic提供的价值最高达2亿英镑的AI",
-     "source": "东方财富资讯",
-     "zh": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世"
-    },
-    {
      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 07:00:00 GMT",
@@ -2346,14 +2298,6 @@ window.INDUSTRY_DATA = {
      "zh": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
     },
     {
-     "title": "周鸿祎大动作！拟转让这家公司股权",
-     "link": "http://stock.eastmoney.com/news/11219,202610243907086580.html",
-     "pubDate": "Sat, 24 Oct 2026 14:28:26 +0800",
-     "summary": "证券时报记者注意到，“红衣教主”周鸿祎正在酝酿大动作。 据北京产权交易所，周鸿祎拟转让北京奇飞翔艺商务咨询有限公司（下称“奇飞翔艺”）12.9%股权，转让底价为2.19亿元，披露期为2026年10月26日至11月20日。若交易完成，他将不再直接持有奇飞翔艺股权。 据悉，奇飞翔艺已于3月13日形成利润分配股东决议，周鸿祎获得分红0.54亿元，转让底价已考虑该分红。按周鸿祎持股对应底价倒推，奇飞翔艺全部股权对应价格约17亿元。 同期挂牌的还有其他股东。截至10月24日，记者统计发现，本轮共有28个奇飞翔艺 股权转让 项目，披露期均为10月26日至11月20日，涉及奇飞翔艺87.75%股权，转让底价",
-     "source": "东方财富资讯",
-     "zh": "周鸿祎大动作！拟转让这家公司股权"
-    },
-    {
      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
      "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
      "pubDate": "Sat, 24 Oct 2026 06:23:02 GMT",
@@ -2368,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "此前市场极度拥挤的“做多AI，做空其他一切”交易正在经历痛苦的解构，创纪录抛售下，超大规模云厂商迎“变现大考”。 10月22日，高盛欧洲固定收益与股票（FICC & Equities）交易主管Rich Privorotsky在位于伦敦的高盛交易室接受了播客栏目《The Markets》的访谈。Privorotsky透露了一个极具冲击力的数据： “上周我们的主经纪商业务账簿（Prime book）上，出现了有史以来最大规模的科技股抛售。” 面对这波抛售潮，正在进行中的三季度财报季显得尤为关键。市场的焦点已从单纯的“讲故事”转向了严苛的业绩兑现。Privorotsky指出，市场预计明年AI的资本支",
      "source": "华尔街见闻",
      "zh": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI"
-    },
-    {
-     "title": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！",
-     "link": "http://stock.eastmoney.com/news/11228,202610243907083341.html",
-     "pubDate": "Sat, 24 Oct 2026 13:51:01 +0800",
-     "summary": "亚马逊 首席执行官安迪·贾西（Andy Jassy）周五表示，受 人工智能 （AI）基础设施需求不断增长的影响， 亚马逊 网络服务（AWS）的 云计算 容量在2027年底前已基本售罄，且大量订单已排至2028年。 在与安德森·霍洛维茨（Andreessen Horowitz）联合创始人本·霍洛维茨（Ben Horowitz）及普通合伙人埃里克·托伦伯格（Erik Torenberg）的视频播客中，贾西表示， 亚马逊 AWS正在努力快速扩展基础设施，以满足 人工智能 实验室和企业源源不断的需求。 当前， 人工智能 开发人员和企业客户对计算资源的需求日益增长，以训练、部署和运行人工智能模型，这给可",
-     "source": "东方财富资讯",
-     "zh": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！"
     },
     {
      "title": "远期需求旺盛！亚马逊AWS今明年产能都已被抢空，连2028年的算力都快没了",
@@ -2402,28 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI造电影"
     },
     {
-     "title": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发",
-     "link": "http://stock.eastmoney.com/news/11134,202610243907074028.html",
-     "pubDate": "Sat, 24 Oct 2026 12:14:12 +0800",
-     "summary": "10月23日盘后，A股上市公司集中披露2026年三季报。 横跨 半导体 、 电子 元器件、 新材料 、高端制造等多个高景气赛道的十余家企业交出了超预期的业绩答卷，多家公司今年前三季度归母净利润同比增幅突破400%，亦有多家公司第三季度单季增幅超过400%。 本轮披露的三季报中， 东岳硅材 （300821）2026年前三季度实现营业收入39.71亿元，同比增长31.21%，归母净利润达5.57亿元，同比大增19413.54%；第三季度单季实现营收13.06亿元，归母净利润1.29亿元，同比增长427.06%。 公司表示，业绩高增核心来自行业供需格局改善带动主营 有机硅 产品价格同比上涨，同时原材",
-     "source": "东方财富资讯",
-     "zh": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发"
-    },
-    {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Sat, 24 Oct 2026 12:07:56 +0800",
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
-    },
-    {
-     "title": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907071928.html",
-     "pubDate": "Sat, 24 Oct 2026 12:07:35 +0800",
-     "summary": "随着A股2026年三季报进入密集披露期，社保基金的最新调仓路径也逐渐浮出水面。 与市场惯常追逐短期热点的资金不同，以社保基金为代表的机构投资者持仓通常被市场看作“耐心资本”的重要风向。 Wind数据显示，截至10月23日，社保基金共在68家A股公司股东中现身。从社保基金调仓动向看，三季度末社保基金新进17家A股上市公司，资源类、周期板块在新进公司中占据重要比重。其中，14家公司前三季度归母净利润同比增长， 赣锋锂业 （002460.SZ）净利润增幅达19540.50%。 按照社保基金持股占流通股比例从高到低排序依次为 高凯技术 （688835.SH）、 新雷能 （300593.SZ）、 中富电",
-     "source": "东方财富资讯",
-     "zh": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%"
     },
     {
      "title": "乐享从容岁月：江苏银行以金融之力守护金色年华",
@@ -2458,22 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "The young are conformists in denial"
     },
     {
-     "title": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守",
-     "link": "https://wallstreetcn.com/articles/3784381",
-     "pubDate": "Sat, 24 Oct 2026 11:48:36 +0800",
-     "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
-     "source": "华尔街见闻",
-     "zh": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守"
-    },
-    {
-     "title": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波",
-     "link": "http://finance.eastmoney.com/news/1344,202610243907070566.html",
-     "pubDate": "Sat, 24 Oct 2026 11:34:49 +0800",
-     "summary": "红星资本局10月24日消息，红星资本局发现，10月24日， 网红经济 学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。 从发布历史来看，10月23日下午，该账号推送一篇《市场见底，反弹行情展开》的笔记文章，阅读量6.6万，点赞量396。 10月24日，红星资本局就此咨询“泽平宏观”账号的橱窗客服。该客服告诉红星资本局，是账号异常，至于具体涉及什么违规，并不清楚。 当天，红星资本局尝试关注任泽平的个人 微博 账号，可以正常关注。 红星资本局注意到，早前，任泽平曾卷入“泽平宏观VIP群”学员亏损超千万风波。 据媒体报道，今年7月，一张“泽平宏观VIP群”学员亏损超千万",
-     "source": "东方财富资讯",
-     "zh": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波"
-    },
-    {
      "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
      "link": "https://seekingalpha.com/news/4656924-global-x-equal-weight-can-insurance-idx-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 23:32:59 -0400",
@@ -2488,6 +2392,102 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend"
+    },
+    {
+     "title": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend",
+     "link": "https://seekingalpha.com/news/4656922-global-x-20-plusyr-us-treasury-bd-idx-etf-hdgd-unts-declares-cad-0_193-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:31:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend"
+    },
+    {
+     "title": "Global X 3-10 Year U.S. Treas Bd Idx ETF CAD Hdg declares CAD 0.20 dividend",
+     "link": "https://seekingalpha.com/news/4656921-global-x-3minus-10-year-u-s-treas-bd-idx-etf-cad-hdg-declares-cad-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:31:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X 3-10 Year U.S. Treas Bd Idx ETF CAD Hdg declares CAD 0.20 dividend"
+    },
+    {
+     "title": "Global X 3-10 Year U.S. Treasury Bond Index ETF declares CAD 0.201 dividend",
+     "link": "https://seekingalpha.com/news/4656920-global-x-3minus-10-year-u-s-treasury-bond-index-etf-declares-cad-0_201-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:29:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X 3-10 Year U.S. Treasury Bond Index ETF declares CAD 0.201 dividend"
+    },
+    {
+     "title": "Global X 3-10 Year U.S. Treasury Bond Idx ETF US$ declares $0.20 dividend",
+     "link": "https://seekingalpha.com/news/4656919-global-x-3minus-10-year-u-s-treasury-bond-idx-etf-us-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:29:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X 3-10 Year U.S. Treasury Bond Idx ETF US$ declares $0.20 dividend"
+    },
+    {
+     "title": "存储扩产带动薄膜沉积设备放量",
+     "link": "http://www.eeo.com.cn/2026/1024/1074302.shtml",
+     "pubDate": "Sat, 24 Oct 2026 11:21:36 +0800",
+     "summary": "随着存储芯片堆叠层数增加，产线对薄膜沉积设备的需求已经大幅增长。一般而言，堆叠层数翻倍，对应的薄膜沉积设备需求量也会翻倍甚至更多。",
+     "source": "经济观察网",
+     "zh": "存储扩产带动薄膜沉积设备放量"
+    },
+    {
+     "title": "“算水协同”如何改变数据中心",
+     "link": "http://www.eeo.com.cn/2026/1024/1074301.shtml",
+     "pubDate": "Sat, 24 Oct 2026 11:20:06 +0800",
+     "summary": "水资源正日益成为制约数据中心发展的瓶颈之一。",
+     "source": "经济观察网",
+     "zh": "“算水协同”如何改变数据中心"
+    },
+    {
+     "title": "Intelligence memo warns Iran plotting to kill Americans in Middle East",
+     "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 02:47:05 GMT",
+     "summary": "Document says plans against US citizens have reached ‘advanced stages’ as tensions rise again in region",
+     "source": "Financial Times",
+     "zh": "Intelligence memo warns Iran plotting to kill Americans in Middle East"
+    },
+    {
+     "title": "王老吉市场与品牌中心高级经理冀美旭：用世界愿意参与的方式讲好中国品牌的故事",
+     "link": "http://www.eeo.com.cn/2026/1024/1074227.shtml",
+     "pubDate": "Sat, 24 Oct 2026 10:13:03 +0800",
+     "summary": "10月23日，由《经济观察报》联合香港管理专业协会主办的“2026杰出品牌营销分享会”在北京举行。王老吉市场与品牌中心高级经理冀美旭在会上表示，当王老吉要走向世界，要思考的不只是如何让世界看见它，更是如何去创造一个全球消费者都愿意了解、愿意参与、愿意分享的品牌心智。不只是把产品卖到全球，更加让中国品牌走进全球生活，用世界愿意参与的方式讲好中国品牌的故事。",
+     "source": "经济观察网",
+     "zh": "王老吉市场与品牌中心高级经理冀美旭：用世界愿意参与的方式讲好中国品牌的故事"
+    },
+    {
+     "title": "“中国文化 世界品牌”——2026杰出品牌营销分享会在京举行",
+     "link": "http://www.eeo.com.cn/2026/1024/1074206.shtml",
+     "pubDate": "Sat, 24 Oct 2026 09:58:14 +0800",
+     "summary": "2026杰出品牌营销分享会圆满落幕，但中国品牌走向世界的征途才刚刚开始。",
+     "source": "经济观察网",
+     "zh": "“中国文化 世界品牌”——2026杰出品牌营销分享会在京举行"
+    },
+    {
+     "title": "US executives quit $25bn gas venture over claims of secret Russian control",
+     "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 00:22:20 GMT",
+     "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
+     "source": "Financial Times",
+     "zh": "US executives quit $25bn gas venture over claims of secret Russian control"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 22:49:00 GMT",
+     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+     "source": "MarketWatch",
+     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
+    },
+    {
+     "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+     "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 22:00:00 GMT",
+     "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
+     "source": "MarketWatch",
+     "zh": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork."
     }
    ]
   },

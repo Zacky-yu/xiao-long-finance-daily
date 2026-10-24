@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 18:32:05",
+ "generated_at": "2026/10/24 18:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -194,12 +194,36 @@ window.INDUSTRY_DATA = {
      "zh": "Securing our frontier model training environment"
     },
     {
+     "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+     "link": "https://www.qbitai.com/2026/10/505083.html",
+     "pubDate": "Fri, 23 Oct 2026 09:21:41 +0000",
+     "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+     "source": "量子位",
+     "zh": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力"
+    },
+    {
      "title": "刚刚，何刚升职！成华为第17位董事",
      "link": "https://zhidx.com/p/604116.html",
      "pubDate": "Fri, 23 Oct 2026 17:20:37 +0800",
      "summary": "智东西 作者 | 云鹏 编辑｜心缘 智东西10月23日消息，根据华为官网管理层信息， 华为终端BG CEO何刚升任华为董事， 这位在华为工作了28年的老将，正式进入华为董事会。 何刚和余承东也是华为终端业务线“唯二”进入董事会的成员。 根据官网信息，何刚出生于1973年，毕业于西安电子科技大学，硕士。1998年加入华为，历任 无线GSM&UMTS产品线总裁、全球无线解决方案销售部部长、终端BG手机产品线总裁、终端BG CEO 等职务。 何刚比余承东小4岁，晚5年入职华为，同样为技术出身。 目前何刚微博信息已经更新。 2024年4月，余承东卸任终端BG CEO，何刚接任。据PChome报道， 接",
      "source": "智东西",
      "zh": "刚刚，何刚升职！成华为第17位董事"
+    },
+    {
+     "title": "企业AI需要两个世界模型",
+     "link": "https://www.qbitai.com/2026/10/505032.html",
+     "pubDate": "Fri, 23 Oct 2026 09:07:25 +0000",
+     "summary": "特赞想让企业Agent真正懂业务",
+     "source": "量子位",
+     "zh": "企业AI需要两个世界模型"
+    },
+    {
+     "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+     "link": "https://www.qbitai.com/2026/10/504931.html",
+     "pubDate": "Fri, 23 Oct 2026 09:03:37 +0000",
+     "summary": "房间秒变草原，抬手就能下雪",
+     "source": "量子位",
+     "zh": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！"
     },
     {
      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
@@ -210,44 +234,20 @@ window.INDUSTRY_DATA = {
      "zh": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents"
     },
     {
-     "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
-     "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
-     "pubDate": "Fri, 23 Oct 2026 06:05:10 +0000",
-     "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent ap",
-     "source": "MarkTechPost",
-     "zh": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent"
-    },
-    {
-     "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
-     "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
-     "pubDate": "Fri, 23 Oct 2026 05:28:21 +0000",
-     "summary": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on M",
-     "source": "MarkTechPost",
-     "zh": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA"
-    },
-    {
-     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-     "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
-     "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-     "source": "TechCrunch AI",
-     "zh": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia"
-    },
-    {
-     "title": "Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737212&idx=1&sn=5a1bfdf04ac60667d4b36bd67a30c371",
-     "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
+     "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+     "link": "https://www.qbitai.com/2026/10/504930.html",
+     "pubDate": "Fri, 23 Oct 2026 08:50:16 +0000",
      "summary": "",
-     "source": "新智元",
-     "zh": "Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端"
+     "source": "量子位",
+     "zh": "国产5B生图模型海外突然爆火，4天超百万下载"
     },
     {
-     "title": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737212&idx=2&sn=3b29e6d852a2e0037da5d4a18e268e75",
-     "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕"
+     "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+     "link": "https://www.qbitai.com/2026/10/504915.html",
+     "pubDate": "Fri, 23 Oct 2026 08:45:43 +0000",
+     "summary": "让AI真正走进真实世界",
+     "source": "量子位",
+     "zh": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相"
     }
    ]
   },
@@ -330,28 +330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
-     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
-     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
-    },
-    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
-    },
-    {
-     "title": "Space Tech Expo Europe to say farewell to Bremen",
-     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
-     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -378,30 +362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
-     "title": "Soft Switching Or Hard?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
-     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Soft Switching Or Hard?"
-    },
-    {
-     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
-     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
-     "source": "Electronics Weekly",
-     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
-    },
-    {
-     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
-     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
-    },
-    {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
      "link": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html",
      "pubDate": "Fri, 23 Oct 2026 08:59:00 GMT",
@@ -424,14 +384,6 @@ window.INDUSTRY_DATA = {
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Electronics production growth accelerating, says SI",
-     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
-     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
+    },
+    {
+     "title": "Chip Scaling Moves Beyond The Transistor",
+     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
+     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
+     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Chip Scaling Moves Beyond The Transistor"
+    },
+    {
+     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
+     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
+     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
+     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
+    },
+    {
+     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
+     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
+     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
+     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
+    },
+    {
+     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
+     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
+     "source": "Semiconductor Today",
+     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
+    },
+    {
+     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
+     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
+     "source": "Semiconductor Today",
+     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
+    },
+    {
+     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
+     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -1754,6 +1754,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "9 Unique Apps to Try on the iPhone Duo",
+     "link": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+     "pubDate": "Sat, 24 Oct 2026 10:45:00 +0000",
+     "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
+     "source": "WIRED",
+     "zh": "9 Unique Apps to Try on the iPhone Duo"
+    },
+    {
+     "title": "英伟达承认 GeForce 621.01 驱动存在问题：播放视频时可能卡住或黑屏",
+     "link": "https://www.ithome.com/1/017/453.htm",
+     "pubDate": "Sat, 24 Oct 2026 10:43:43 GMT",
+     "summary": "IT之家 10 月 24 日消息，英伟达已确认，最新发布的 GeForce Game Ready Driver 621.01 显卡驱动存在一项 Bug。 部分用户反馈，在 Chrome、Edge 等浏览器或 VLC 媒体播放器中播放视频时，屏幕会突然冻结或短暂黑屏，数秒后才恢复正常。目前，英伟达已确认存在该问题，并向受影响用户收集崩溃转储文件，以进一步调查原因。 相关用户表示，异常主要出现在视频播放期间，部分情况下，在浏览器播放视频的同时启动游戏也会触发故障。出现问题后，显示画面通常会在数秒内自行恢复，无需重启电脑。 目前，已有多名 RTX 5080 用户反馈遇到这一问题，也有 RTX 409",
+     "source": "IT之家",
+     "zh": "英伟达承认 GeForce 621.01 驱动存在问题：播放视频时可能卡住或黑屏"
+    },
+    {
+     "title": "科学家从秦始皇兵马俑指纹里读出女性与少年，制作者群体首次有了量化生物学证据",
+     "link": "https://www.ithome.com/1/017/448.htm",
+     "pubDate": "Sat, 24 Oct 2026 10:37:09 GMT",
+     "summary": "IT之家 10 月 24 日消息，据新华社昨日报道，秦始皇帝陵博物院与山东大学考古学院合作的一项研究，为“谁制作了兵马俑”提供了来自陶俑本身的生物学证据。 研究团队从一号坑 T23 探方 23 件陶俑上提取了 79 枚独立指纹，通过贝叶斯混合模型进行群体层面的年龄与性别推测，结果显示成年男性约占 45.0%，成年女性约占 32.7%，15 岁以下少年约占 22.3%。这是学界首次以量化的生物学证据表明，秦俑生产以成年男性为主，但并非由成年男性单独完成。 长期以来，学界对秦俑制作者的认知主要来自文献记载与器物铭文，陶俑本身并未提供过直接的人口学证据。此次研究之所以能“读出”指纹，靠的是指纹脊线宽",
+     "source": "IT之家",
+     "zh": "科学家从秦始皇兵马俑指纹里读出女性与少年，制作者群体首次有了量化生物学证据"
+    },
+    {
+     "title": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
+     "link": "https://www.techmeme.com/261024/p3#a261024p3",
+     "pubDate": "Sat, 24 Oct 2026 06:35:01 -0400",
+     "summary": "Rachel Monroe / New Yorker : Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings &nbsp; &mdash;&nbsp; Algorithmic social media, which has helped create the conditions for the spread of such viol",
+     "source": "Techmeme",
+     "zh": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)"
+    },
+    {
+     "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
+     "link": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
+     "pubDate": "Sat, 24 Oct 2026 10:30:00 +0000",
+     "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
+     "source": "WIRED",
+     "zh": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale"
+    },
+    {
      "title": "重力星球 MH1 PRO 头戴式耳机上架：53mm 动圈、ANC 降噪，799 元",
      "link": "https://www.ithome.com/1/017/447.htm",
      "pubDate": "Sat, 24 Oct 2026 10:20:54 GMT",
@@ -1874,22 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "苏超的背后的经济意义"
     },
     {
-     "title": "渝昆高铁全线铺轨完成：重庆到昆明将压缩至两个半小时",
-     "link": "https://www.ithome.com/1/017/442.htm",
-     "pubDate": "Sat, 24 Oct 2026 10:02:55 GMT",
-     "summary": "IT之家 10 月 24 日消息，据新华社今日报道，记者从京昆高铁西昆公司获悉，10 月 24 日下午，随着最后一对 500 米长钢轨在渝昆高铁筠连隧道口铺设就位，渝昆高铁全线铺轨完成，为线路开通运营奠定坚实基础。 渝昆高铁是我国“八纵八横”高铁网京昆通道的重要组成部分，线路起自重庆西站，途经重庆市、四川省、贵州省和云南省，接入昆明南站， 全长约 700 公里 ，设计时速 350 公里。全线分段建设，其中，重庆至宜宾段已于 2024 年 9 月 29 日开通运营，宜宾至昆明段正有序推进建设。 宜宾至昆明段线路地质情况复杂，施工难度大，安全风险高。中铁十六局渝昆高铁铺轨施工技术负责人张延说，为顺",
-     "source": "IT之家",
-     "zh": "渝昆高铁全线铺轨完成：重庆到昆明将压缩至两个半小时"
-    },
-    {
-     "title": "《赛博朋克：边缘行者 2》设计师：动画时间线设定在 2078 年，即游戏剧情一年以后",
-     "link": "https://www.ithome.com/1/017/441.htm",
-     "pubDate": "Sat, 24 Oct 2026 10:01:39 GMT",
-     "summary": "IT之家 10 月 24 日消息，《赛博朋克 2077》设计师 Patrick Mills 确认，动画《赛博朋克：边缘行者 2（Cyberpunk：Edgerunners Season 2）》的故事发生于 2078 年，也就是《赛博朋克 2077》剧情事件结束后的次年。 Patrick Mills 表示，其看到不少玩家误以为《边缘行者 2》的故事发生在《赛博朋克 2077》游戏之前，因此他特意澄清了时间线，并强调《赛博朋克》的世界不会停滞不前。 这一时间设定引发了玩家对游戏官方结局的讨论，部分粉丝猜测，动画的剧情可能暗示游戏某些结局具有更高的正史地位 。 截至IT之家发稿，《赛博朋克：边缘行者",
-     "source": "IT之家",
-     "zh": "《赛博朋克：边缘行者 2》设计师：动画时间线设定在 2078 年，即游戏剧情一年以后"
-    },
-    {
      "title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
      "link": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
      "pubDate": "Sat, 24 Oct 2026 10:00:00 +0000",
@@ -1909,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "I Don't Understand Quantum Physics",
      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 17 # Comments: 7",
+     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 49 # Comments: 17",
      "source": "Hacker News",
      "zh": "I Don't Understand Quantum Physics"
     },
@@ -1938,26 +1962,10 @@ window.INDUSTRY_DATA = {
      "zh": "Ray-Ban Meta Audio Review: The Best Smart Glasses"
     },
     {
-     "title": "Garmin Vivoactive 5 and Forerunner 165 Are up to 30 Percent Off (2026)",
-     "link": "https://www.wired.com/story/garmin-deals-october-2026/",
-     "pubDate": "Sat, 24 Oct 2026 09:06:00 +0000",
-     "summary": "I’ve tested almost every Garmin watch—these entry-level favorites are steeply discounted right now.",
-     "source": "WIRED",
-     "zh": "Garmin Vivoactive 5 and Forerunner 165 Are up to 30 Percent Off (2026)"
-    },
-    {
-     "title": "Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’",
-     "link": "https://www.wired.com/story/inside-the-supermassive-debate-over-the-james-webb-telescopes-little-red-dots/",
-     "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
-     "summary": "The Webb telescope sees tiny red dots everywhere. Astronomers can’t agree on what they are, but some believe they may be enormous stars with black holes inside.",
-     "source": "WIRED",
-     "zh": "Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’"
-    },
-    {
      "title": "ThinkRail from JetBrains",
      "link": "https://thinkrail.ai/",
      "pubDate": "Sat, 24 Oct 2026 08:08:42 +0000",
-     "summary": "Article URL: https://thinkrail.ai/ Comments URL: https://news.ycombinator.com/item?id=50219186 Points: 20 # Comments: 10",
+     "summary": "Article URL: https://thinkrail.ai/ Comments URL: https://news.ycombinator.com/item?id=50219186 Points: 35 # Comments: 32",
      "source": "Hacker News",
      "zh": "ThinkRail from JetBrains"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
      "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
-     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 10 # Comments: 1",
      "source": "Hacker News",
      "zh": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps"
     },
@@ -1981,17 +1989,9 @@ window.INDUSTRY_DATA = {
      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
      "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 141 # Comments: 26",
+     "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 162 # Comments: 37",
      "source": "Hacker News",
      "zh": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended"
-    },
-    {
-     "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)",
-     "link": "https://www.techmeme.com/261024/p1#a261024p1",
-     "pubDate": "Sat, 24 Oct 2026 01:45:00 -0400",
-     "summary": "Toby Sterling / Reuters : The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors &nbsp; &mdash;&nbsp; The discovery of two serious flaws in PHP this week set off a global scramble to keep websites saf",
-     "source": "Techmeme",
-     "zh": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "I finally made Google Photos less annoying with these tweaks",
+     "link": "https://www.androidauthority.com/make-google-photos-less-annoying-3724727/",
+     "pubDate": "Sat, 24 Oct 2026 10:30:48 +0000",
+     "summary": "Dear Google, I just want to see my photos.",
+     "source": "Android Authority",
+     "zh": "I finally made Google Photos less annoying with these tweaks"
+    },
     {
      "title": "Meta is delaying its controversial new business terms amid scraping concerns",
      "link": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
@@ -2130,14 +2138,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, & more"
     },
     {
-     "title": "OnePlus Nord Buds 3 Pro hit their lowest price in months",
-     "link": "https://www.androidauthority.com/oneplus-nord-buds-3-pro-deal-amazon-3727521/",
-     "pubDate": "Fri, 23 Oct 2026 20:54:49 +0000",
-     "summary": "Get 20% off the OnePlus Nord Buds 3 Pro, with 49dB ANC, Bluetooth 5.4, dual-device pairing, and fast charging.",
-     "source": "Android Authority",
-     "zh": "OnePlus Nord Buds 3 Pro hit their lowest price in months"
-    },
-    {
      "title": "Google Messages rolling out Enhanced Protection mode against spam and scams",
      "link": "https://9to5google.com/2026/10/23/google-messages-enhanced-protection/",
      "pubDate": "Fri, 23 Oct 2026 20:47:00 +0000",
@@ -2250,6 +2250,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "中东及欧洲多国外长发表联合声明 呼吁开展对话促进和平",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907105353.html",
+     "pubDate": "Sat, 24 Oct 2026 18:40:48 +0800",
+     "summary": "当地时间23日，土耳其、埃及、巴基斯坦、沙特阿拉伯与英国、法国、德国、意大利八国外长在伊斯坦布尔举行会议后发表联合声明，各方同意继续以这一形式开展对话，以预防冲突、促进地区和平与稳定。 声明称，会议讨论了美以伊冲突、巴以冲突及落实“两国方案”等议题，并就海上航行安全与自由以及霍尔木兹海峡、曼德海峡、黑海的紧张局势交换意见。 声明表示，当前迫切需要通过对话和外交途径缓和地区紧张局势，应根据联合国相关决议，通过谈判推动各项冲突得到持久解决。八国将继续参与相关外交努力，共同应对地区局势对安全、经济和贸易带来的影响。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "中东及欧洲多国外长发表联合声明 呼吁开展对话促进和平"
+    },
+    {
+     "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907105225.html",
+     "pubDate": "Sat, 24 Oct 2026 18:38:36 +0800",
+     "summary": "10月24日， 小鹏集团 副总裁于涛在社交平台账号“托马斯电火车”上发布长文，回应小鹏MONA产品经理恩塔发布会“老登”用词事件全过程。他表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户，“几位‘老登’没一个不悦，反而在内部反复表扬”。 “真正的互联网同学文化，可能不是其它企业上下有别等级森严，而是年轻人敢开老板玩笑的松弛， 后来的致歉视频，是恩塔主动提的。她看到有没完整看直播的朋友产生误解，觉得是自己措辞有疏漏，才主动拍了视频解释原委。”他写道。 “老登并不让人反感，老登并不让人反感，有些人的登味儿才让人厌恶，少一些对00后的口诛笔伐。”他表示",
+     "source": "东方财富股票",
+     "zh": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应"
+    },
+    {
+     "title": "脑机接口高质量数据集建设项目在武汉启动",
+     "link": "http://finance.eastmoney.com/news/1350,202610243907104915.html",
+     "pubDate": "Sat, 24 Oct 2026 18:31:46 +0800",
+     "summary": "由华中科技大学同济医学院附属同济 医院 牵头的 脑机接口 高质量数据集建设项目，24日在武汉启动。 脑机接口 横跨神经科学、 电子 信息、材料、机械、 人工智能 等学科，数据是产业发展及竞争的基础。当前，数据不够用、不好用成为产业发展制约，研究团队普遍陷入“有算法、无高质量数据”的窘境。 “没有高质量数据，再锋利的算法也只是无米之炊。”华中科技大学同济医学院附属同济 医院 院长胡俊波表示，为此，该院联合国内头部 医院 、骨干企业正式启动高质量数据集建设项目。 根据建设方案，该项目拟于2027年建成投用，聚焦脑卒中康复、脊髓损伤、帕金森病、癫痫、意识障碍、顽固性疼痛、面瘫、言语功能障碍、运动障碍",
+     "source": "东方财富股票",
+     "zh": "脑机接口高质量数据集建设项目在武汉启动"
+    },
+    {
+     "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade",
+     "link": "https://seekingalpha.com/news/4656653-vibe-theft-auto-anthropic-opus-gta-6-and-a-potential-fade-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 06:30:48 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade"
+    },
+    {
+     "title": "甘肃白银靖远东湾黄河特大桥主桥顺利合龙",
+     "link": "http://finance.eastmoney.com/news/1350,202610243907104881.html",
+     "pubDate": "Sat, 24 Oct 2026 18:26:58 +0800",
+     "summary": "今天（10月24日）， 国内公路首座钢 桁 加劲预应力混凝土连续梁——G341线 辘 白公路靖远东湾黄河特大桥主桥顺利合龙。 该桥填补了国内大跨公路桥梁钢桁加劲体系工程应用空白， 为黄河流域、高地震烈度区域桥梁建设探索出全新技术路径。 这座跨黄河特大桥全长1022米，桥址位于Ⅷ（8）度高地震烈度区，河谷温差大、黄河水文条件复杂。项目创新应用钢桁加劲预应力混凝土连续梁组合结构体系，如同给混凝土主梁配上一副 “ 钢铁 骨架”，实现钢材抗拉、混凝土抗压协同受力， 使主梁自重降低约15%，桥梁结构更轻盈、刚度更强、抗震稳定性显著提升。 据介绍，施工人员采用“梁桁同步”施工工艺，把433吨重的单榀钢桁梁",
+     "source": "东方财富股票",
+     "zh": "甘肃白银靖远东湾黄河特大桥主桥顺利合龙"
+    },
+    {
+     "title": "Ukraine military says Starlink service restrictions have been removed",
+     "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+     "pubDate": "Sat, 24 Oct 2026 10:20:39 GMT",
+     "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
+     "source": "Financial Times",
+     "zh": "Ukraine military says Starlink service restrictions have been removed"
+    },
+    {
      "title": "从 “建不建” 到 “赚不赚” 民航数智化投入转向刚性开支",
      "link": "http://stock.eastmoney.com/news/11219,202610243907104767.html",
      "pubDate": "Sat, 24 Oct 2026 18:16:46 +0800",
@@ -2264,38 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "亿纬锂能 在投资者关系活动中表示，公司三季度单季毛利率环比有所提升，主要来自两方面：一是公司持续推进盈利修复，通过加强成本管控，同时新工厂稳定生产后对成本的拖累逐步消除，推动毛利率环比改善；二是客户结构、出货结构的调整，后续公司将继续推进相关优化工作。 （文章来源：南方财经网）",
      "source": "东方财富股票",
      "zh": "亿纬锂能：公司持续推进盈利修复，后续公司将继续推进相关优化工作"
-    },
-    {
-     "title": "陕西有色碳陶复材与中复神鹰签署合作协议",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907104286.html",
-     "pubDate": "Sat, 24 Oct 2026 18:14:00 +0800",
-     "summary": "据 中复神鹰 消息，10月23日，陕西 有色金属 集团与 中复神鹰 开展座谈交流，其旗下碳陶复材与 中复神鹰 签署合作协议，双方将围绕产品研发、应用开拓、市场深化等方向开展多维度合作。双方将以技术协作推动迭代升级，以场景开发带动应用落地，共同推动碳陶复材走向产业化应用。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "陕西有色碳陶复材与中复神鹰签署合作协议"
-    },
-    {
-     "title": "亿纬锂能：公司大圆柱电池已量产的工厂均处于满产状态",
-     "link": "http://stock.eastmoney.com/news/11219,202610243907104678.html",
-     "pubDate": "Sat, 24 Oct 2026 18:14:00 +0800",
-     "summary": "南财智讯10月24日电， 亿纬锂能 在投资者关系活动中表示，公司大圆柱 电池 已量产的工厂均处于满产状态。国际客户需求远超预期，国内客户也陆续实现交付。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "亿纬锂能：公司大圆柱电池已量产的工厂均处于满产状态"
-    },
-    {
-     "title": "亿纬锂能：目前已确定2027年交付量约16GWh",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907104588.html",
-     "pubDate": "Sat, 24 Oct 2026 18:14:00 +0800",
-     "summary": "南财智讯10月24日电， 亿纬锂能 在投资者关系活动中表示，公司与该客户签订的是长周期框架合同，目前已有交付。新框架合同的交付期为2027-2031年。目前已确定2027年交付量约16GWh，剩余容量在2028-2031年间的分配待定。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "亿纬锂能：目前已确定2027年交付量约16GWh"
-    },
-    {
-     "title": "6连板牛股，紧急发声！",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907104433.html",
-     "pubDate": "Sat, 24 Oct 2026 18:12:47 +0800",
-     "summary": "股价连续涨停， 海洋王 紧急公告。 10月23日晚间， 海洋王 （002724）披露股票交易异常波动公告，提示股价短期涨幅过大、存在非理性炒作风险，并分别澄清与核电、深海科技等热点概念的关系。 自10月16日以来， 海洋王 已连续6个交易日涨停，累计涨幅达77.41%。 海洋王所处行业最新滚动市盈率为18.05倍，而公司最新滚动市盈率达到179.49倍，近期已3次触发股票交易异常波动情形。 “公司股票短期波动较大，已严重偏离公司基本面，存在市场情绪过热、非理性炒作风险。”海洋王提示投资者，“公司股票10月16日至10月23日换手率分别为8.30%、1.17%、10.85%、0.82%、20.1",
-     "source": "东方财富股票",
-     "zh": "6连板牛股，紧急发声！"
     },
     {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
@@ -2418,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "远期需求旺盛！亚马逊AWS今明年产能都已被抢空，连2028年的算力都快没了"
     },
     {
-     "title": "What a day in customer service looks like — as AI changes everything",
-     "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
-     "pubDate": "Sat, 24 Oct 2026 05:00:01 GMT",
-     "summary": "Customer service can be a \"really, really difficult job.\" Will AI make it easier — or cause even more headaches?",
-     "source": "CNBC",
-     "zh": "What a day in customer service looks like — as AI changes everything"
-    },
-    {
      "title": "AI造电影",
      "link": "http://www.eeo.com.cn/2026/1024/1074364.shtml",
      "pubDate": "Sat, 24 Oct 2026 12:29:42 +0800",
@@ -2440,14 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月23日盘后，A股上市公司集中披露2026年三季报。 横跨 半导体 、 电子 元器件、 新材料 、高端制造等多个高景气赛道的十余家企业交出了超预期的业绩答卷，多家公司今年前三季度归母净利润同比增幅突破400%，亦有多家公司第三季度单季增幅超过400%。 本轮披露的三季报中， 东岳硅材 （300821）2026年前三季度实现营业收入39.71亿元，同比增长31.21%，归母净利润达5.57亿元，同比大增19413.54%；第三季度单季实现营收13.06亿元，归母净利润1.29亿元，同比增长427.06%。 公司表示，业绩高增核心来自行业供需格局改善带动主营 有机硅 产品价格同比上涨，同时原材",
      "source": "东方财富资讯",
      "zh": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发"
-    },
-    {
-     "title": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907071928.html",
-     "pubDate": "Sat, 24 Oct 2026 12:07:35 +0800",
-     "summary": "随着A股2026年三季报进入密集披露期，社保基金的最新调仓路径也逐渐浮出水面。 与市场惯常追逐短期热点的资金不同，以社保基金为代表的机构投资者持仓通常被市场看作“耐心资本”的重要风向。 Wind数据显示，截至10月23日，社保基金共在68家A股公司股东中现身。从社保基金调仓动向看，三季度末社保基金新进17家A股上市公司，资源类、周期板块在新进公司中占据重要比重。其中，14家公司前三季度归母净利润同比增长， 赣锋锂业 （002460.SZ）净利润增幅达19540.50%。 按照社保基金持股占流通股比例从高到低排序依次为 高凯技术 （688835.SH）、 新雷能 （300593.SZ）、 中富电",
-     "source": "东方财富资讯",
-     "zh": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%"
     },
     {
      "title": "乐享从容岁月：江苏银行以金融之力守护金色年华",

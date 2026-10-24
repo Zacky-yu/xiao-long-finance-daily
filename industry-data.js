@@ -1786,6 +1786,14 @@ window.INDUSTRY_DATA = {
      "zh": "iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片"
     },
     {
+     "title": "FreeDNS",
+     "link": "https://freedns.afraid.org/",
+     "pubDate": "Sat, 24 Oct 2026 15:20:01 +0000",
+     "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 12 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "FreeDNS"
+    },
+    {
      "title": "刘慈欣监制《三体·大史》年内开机，导演杨磊称演员都已“众神归位”",
      "link": "https://www.ithome.com/1/017/522.htm",
      "pubDate": "Sat, 24 Oct 2026 15:16:59 GMT",

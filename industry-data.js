@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/25 02:22:07",
+ "generated_at": "2026/10/25 02:56:22",
  "recent_days": 7,
  "industries": [
   {
@@ -330,12 +330,28 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
+     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
+     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
+    },
+    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
+    },
+    {
+     "title": "Space Tech Expo Europe to say farewell to Bremen",
+     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
+     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -362,6 +378,30 @@ window.INDUSTRY_DATA = {
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
+     "title": "Soft Switching Or Hard?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
+     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Soft Switching Or Hard?"
+    },
+    {
+     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
+     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
+     "source": "Electronics Weekly",
+     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
+    },
+    {
+     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
+     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
+     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
+    },
+    {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
      "link": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html",
      "pubDate": "Fri, 23 Oct 2026 08:59:00 GMT",
@@ -384,6 +424,14 @@ window.INDUSTRY_DATA = {
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "Electronics production growth accelerating, says SI",
+     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
+     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
-    },
-    {
-     "title": "Chip Scaling Moves Beyond The Transistor",
-     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
-     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Chip Scaling Moves Beyond The Transistor"
-    },
-    {
-     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
-     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
-     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
-    },
-    {
-     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
-     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
-     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
-    },
-    {
-     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
-     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
-     "source": "Semiconductor Today",
-     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
-    },
-    {
-     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
-     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
-    },
-    {
-     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
-     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000",
+     "link": "https://cleantechnica.com/2026/10/24/volkswagen-unleashes-wicked-id-unyx-09-in-china-for-27000/",
+     "pubDate": "Sat, 24 Oct 2026 18:23:19 +0000",
+     "summary": "Volkswagen, like pretty much all foreign brands, has really been struggling in China in recent years. The whole German auto industry is basically in crisis because their cash cow in China has shifted and now prefers buying cool new EVs from Chinese companies. Well, Volkswagen decided to team up with",
+     "source": "CleanTechnica",
+     "zh": "Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000"
+    },
+    {
      "title": "Zayed Sustainability Prize Picks Finalists from 10,233 Submissions",
      "link": "https://cleantechnica.com/2026/10/24/zayed-sustainability-prize-picks-finalists-from-10233-submissions/",
      "pubDate": "Sat, 24 Oct 2026 17:13:44 +0000",
@@ -952,14 +960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Starting this week, Las Vegas travelers can catch their next flight at Harry Reid International Airport (LAS) via safe, reliable, and magical Waymo rides. Current Waymo riders in Las Vegas now have airport access, and we’ll gradually welcome more riders over time before opening to everyone. Pickups ",
      "source": "CleanTechnica",
      "zh": "Waymo — Now Arriving At Harry Reid International Airport"
-    },
-    {
-     "title": "US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them",
-     "link": "https://cleantechnica.com/2026/10/23/us-tech-leaders-are-urgently-calling-for-rules-on-ai-china-already-has-them/",
-     "pubDate": "Sat, 24 Oct 2026 02:44:58 +0000",
-     "summary": "Recent warnings from American AI leaders have created the impression that the world is only beginning to confront the dangers of advanced artificial intelligence. Dario Amodei, chief executive of tech company Anthropic, has called for governments to intervene to slow the development of increasingly ",
-     "source": "CleanTechnica",
-     "zh": "US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them"
     },
     {
      "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
@@ -1789,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
      "link": "https://de.numista.com/9866",
      "pubDate": "Sat, 24 Oct 2026 16:41:55 +0000",
-     "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 38 # Comments: 3",
+     "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 50 # Comments: 8",
      "source": "Hacker News",
      "zh": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise"
     },
@@ -1821,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Roku developer repositories moved from GitHub to GitLab",
      "link": "https://blog.roku.com/developer/gitlab-move",
      "pubDate": "Sat, 24 Oct 2026 16:06:26 +0000",
-     "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 121 # Comments: 69",
+     "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 144 # Comments: 89",
      "source": "Hacker News",
      "zh": "Roku developer repositories moved from GitHub to GitLab"
     },
@@ -1829,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Neural chip decodes interactions between brain regions",
      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
      "pubDate": "Sat, 24 Oct 2026 15:57:17 +0000",
-     "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 42 # Comments: 6",
+     "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 50 # Comments: 7",
      "source": "Hacker News",
      "zh": "Neural chip decodes interactions between brain regions"
     },
@@ -1845,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
      "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
      "pubDate": "Sat, 24 Oct 2026 15:35:17 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 11 # Comments: 4",
      "source": "Hacker News",
      "zh": "Oai-math-revised: a community hub for revising OpenAI's math write-ups"
     },
@@ -1869,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "FreeDNS",
      "link": "https://freedns.afraid.org/",
      "pubDate": "Sat, 24 Oct 2026 15:20:01 +0000",
-     "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 151 # Comments: 36",
+     "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 163 # Comments: 39",
      "source": "Hacker News",
      "zh": "FreeDNS"
     },
@@ -2010,6 +2010,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Google is quietly linking your phone number to other Android accounts",
+     "link": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
+     "pubDate": "Sat, 24 Oct 2026 18:45:00 +0000",
+     "summary": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inherit your phone number.",
+     "source": "Engadget",
+     "zh": "Google is quietly linking your phone number to other Android accounts"
+    },
+    {
+     "title": "Deals: iPhone Duo launches, faces off against Galaxy Z Fold8, Motorola Razr Fold and others",
+     "link": "https://www.gsmarena.com/deals_iphone_duo_launches_faces_off_against_galaxy_z_fold8_motorola_razr_fold_and_others-news-75184.php",
+     "pubDate": "Sat, 24 Oct 2026 20:31:02 +0200",
+     "summary": "The iPhone Duo officially started shipping this Friday. Apple has warned that there will be limited in-store inventory and online purchases are facing long waiting times. Apple is working on building more units, but that will take some time. Here’s a look at Apple’s first foldable – it starts at $2,",
+     "source": "GSMArena",
+     "zh": "Deals: iPhone Duo launches, faces off against Galaxy Z Fold8, Motorola Razr Fold and others"
+    },
+    {
+     "title": "Why the wires in your ethernet cables are twisted",
+     "link": "https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/",
+     "pubDate": "Sat, 24 Oct 2026 18:30:00 +0000",
+     "summary": "There's a good reason for that arrangement.",
+     "source": "Engadget",
+     "zh": "Why the wires in your ethernet cables are twisted"
+    },
+    {
      "title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
      "link": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
      "pubDate": "Sat, 24 Oct 2026 18:09:54 +0000",
@@ -2058,28 +2082,12 @@ window.INDUSTRY_DATA = {
      "zh": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port"
     },
     {
-     "title": "The UK is investing $134 million into an AI Biosecurity Lab",
-     "link": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
-     "pubDate": "Sat, 24 Oct 2026 16:11:53 +0000",
-     "summary": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.",
-     "source": "Engadget",
-     "zh": "The UK is investing $134 million into an AI Biosecurity Lab"
-    },
-    {
      "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
      "link": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
      "pubDate": "Sat, 24 Oct 2026 16:00:39 +0000",
      "summary": "Now you can access your notebooks from your Gemini chat.",
      "source": "Android Authority",
      "zh": "You can now manage Gemini Notebooks directly from your Gemini chats"
-    },
-    {
-     "title": "Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything",
-     "link": "https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything/",
-     "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
-     "summary": "You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for.",
-     "source": "Engadget",
-     "zh": "Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything"
     },
     {
      "title": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17"
     },
     {
-     "title": "Upcoming Realme 17 Pro series phone's key specs leak",
-     "link": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php",
-     "pubDate": "Sat, 24 Oct 2026 03:01:02 +0200",
-     "summary": "Realme launched the Realme 16 Pro+ and the 16 Pro back in January, and now the first details about their successors are starting to show up. Today, a tipster on X has shared the key specs of an upcoming Realme handset that's said to be either the Realme 17 Pro or the 17 Pro+. The device allegedly ha",
-     "source": "GSMArena",
-     "zh": "Upcoming Realme 17 Pro series phone's key specs leak"
-    },
-    {
      "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
      "link": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
      "pubDate": "Fri, 23 Oct 2026 23:50:49 +0000",
@@ -2257,6 +2257,54 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+     "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 18:45:00 GMT",
+     "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+     "source": "MarketWatch",
+     "zh": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some."
+    },
+    {
+     "title": "俄乌将为奥列什基人道主义行动同步停火",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134491.html",
+     "pubDate": "Sun, 25 Oct 2026 02:40:41 +0800",
+     "summary": "据塔斯社24日报道，俄罗斯人权事务专员兰特拉托娃当天说，俄罗斯和乌克兰正按照已达成的约定，推进在赫尔松地区奥列什基开展人道主义行动的计划，双方将为此在当地同步停火。 报道说，兰特拉托娃当天与乌方停火谈判首席代表、乌克兰最高拉达（议会）人权专员德米特罗·卢比涅茨举行线上会谈，讨论在奥列什基开展人道主义行动的细节。 兰特拉托娃在社交媒体上援引卢比涅茨的话称，乌军将从基辅时间10月27日4时起停火，与俄军停火时间一致。 俄新社24日报道，俄罗斯联邦武装力量总参谋长瓦列里·格拉西莫夫23日宣布，俄军将在赫尔松方向停火，并从莫斯科时间10月27日4时起进入“静默”状态，以配合将在奥列什基开展的人道主义行",
+     "source": "东方财富股票",
+     "zh": "俄乌将为奥列什基人道主义行动同步停火"
+    },
+    {
+     "title": "尼日利亚一社区遭武装分子袭击 至少37人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134370.html",
+     "pubDate": "Sun, 25 Oct 2026 02:35:59 +0800",
+     "summary": "当地时间10月24日，尼日利亚塔拉巴州警方对外披露，该州卡里姆-拉米多地方政府区的一个社区于23日下午遭到武装分子大规模越境袭击。目前，该事件已造成至少37名平民丧生。 塔拉巴州警察指挥部发言人证实，武装分子闯入社区后进行了无差别射击，并大肆洗劫、纵火焚烧大量房屋与商铺。目前，当地警方已启动红色预警，并联合尼日利亚陆军及其他安全机构部署战术增援部队，全面接管事发现场。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "尼日利亚一社区遭武装分子袭击 至少37人死亡"
+    },
+    {
+     "title": "法国内政部长：警方在示威活动中逮捕近千人",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134237.html",
+     "pubDate": "Sun, 25 Oct 2026 02:30:21 +0800",
+     "summary": "当地时间24日晚，法国内政部长努内兹表示，警方在当天的全国性抗议示威活动中逮捕了近一千人。 努内兹表示，当天，执法人员面临持续的投掷物袭击和烟火装置攻击，部分示威现场暴力程度较高。警方对相关违法行为进行了干预。 法国17日爆发全国性示威。法国政府估计，全国约55万人参加示威，组织方则称人数达到80万。部分城市的示威活动伴有暴力冲突。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "法国内政部长：警方在示威活动中逮捕近千人"
+    },
+    {
+     "title": "Insider trades: Blackberry, Accenture and Cleveland-Cliffs among notable names",
+     "link": "https://seekingalpha.com/news/4656936-insider-trades-blackberry-accenture-and-cleveland-cliffs-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 14:29:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Insider trades: Blackberry, Accenture and Cleveland-Cliffs among notable names"
+    },
+    {
+     "title": "OpenAI批量生成数学研究手稿引发争议 AI抢了数学家饭碗？国内校企这样“接招”",
+     "link": "http://finance.eastmoney.com/news/1354,202610253907133292.html",
+     "pubDate": "Sun, 25 Oct 2026 02:10:34 +0800",
+     "summary": "10月，全球数学界遭遇一场颠覆性震荡。美国OpenAI集中放出722篇AI生成的数学研究手稿，覆盖372个前沿开放难题，当中不乏悬置数十年经典猜想的论证结果。 这场突如其来的“突袭”，直接搅动全球数学科研格局：不少高校学者、博士生耗费数年深耕的课题被AI抢先产出相关结果，许多原创研究陷入“成果被抢占、研究价值归零”的困境。一时间，“AI究竟是科研的助推器，还是基础学科的破坏者”成为学界热议焦点。 事件 AI公司公布数百篇论文 被指“抢了数学家饭碗” 今年9月，纽约大学数学家特里斯坦·巴克马斯特团队耗时一年攻坚千禧年难题——纳维-斯托克斯方程。但就在团队对外公布阶段性研究成果次日，OpenAI便",
+     "source": "东方财富股票",
+     "zh": "OpenAI批量生成数学研究手稿引发争议 AI抢了数学家饭碗？国内校企这样“接招”"
+    },
     {
      "title": "Zymeworks early-stage results on ADC show anti-tumor activity in ovarian cancer",
      "link": "https://seekingalpha.com/news/4656935-zymeworks-early-stage-results-adc-show-anti-tumor-activity-ovarian-cancer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2306,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "俄称打击乌能源等设施 乌称打击俄集结区"
     },
     {
-     "title": "葡萄牙多个城市举行示威游行和民众集会",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907133940.html",
-     "pubDate": "Sun, 25 Oct 2026 01:30:55 +0800",
-     "summary": "当地时间10月24日，葡萄牙多个城市继续举行示威游行和民众集会，要求政府采取措施应对住房危机。里斯本、波尔图、科英布拉等葡萄牙主要城市均爆发了大规模示威活动。抗议的民众要求葡萄牙政府采取一系列住房相关措施，例如停止在没有替代方案的情况下强行拆除房屋或驱逐住客，增加公共住房，实施租金上限，以及将空置房产用作住房等。 葡萄牙多地住房相关的抗议活动已经进行了约两周，部分主要城市的居民还计划在广场设立营地，或进行守夜等行动。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "葡萄牙多个城市举行示威游行和民众集会"
-    },
-    {
      "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
      "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 17:23:00 GMT",
@@ -2322,28 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan"
     },
     {
-     "title": "巴勒斯坦谴责以军强驱希伯伦平民 呼吁国际社会采取威慑措施",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907133889.html",
-     "pubDate": "Sun, 25 Oct 2026 01:22:48 +0800",
-     "summary": "当地时间24日，巴勒斯坦外交和侨民事务部发表声明称，以军近期在约旦河西岸希伯伦地区强行驱逐大批平民等行为，属于系统性的蓄意侵略，以方试图通过撤空和摧毁整个街区来迫使更多平民离开家园。 声明强调，为应对以方的军事升级和日益严重的强制驱逐威胁，国际社会必须采取具体的威慑措施，切实保护巴勒斯坦人民、土地及国家机构，结束以色列对巴勒斯坦的长期军事占领。 据巴勒斯坦方面24日消息，截至当天白天，以色列军队自23日起在希伯伦地区展开的强制驱逐行动已导致约1500名当地居民被迫离开家园，另有约2500人被要求限期撤离。据悉，以军还使用土坝、 水泥 块等封锁了希伯伦通往周边村镇、难民营的主要通道。以军称这是对",
-     "source": "东方财富股票",
-     "zh": "巴勒斯坦谴责以军强驱希伯伦平民 呼吁国际社会采取威慑措施"
-    },
-    {
-     "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907133788.html",
-     "pubDate": "Sun, 25 Oct 2026 01:09:08 +0800",
-     "summary": "也门胡塞武装24日表示，该组织使用导弹和 无人机 对沙特境内多处 机场 、石油设施及一处军事基地发动了7次袭击，以回应沙特过去24小时内对胡塞武装控制区的袭击。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击"
-    },
-    {
-     "title": "对于A股调整 但斌发文：还是要“高抛低吸”；其美股三季度调仓曝光",
-     "link": "http://finance.eastmoney.com/news/1354,202610253907133621.html",
-     "pubDate": "Sun, 25 Oct 2026 01:05:15 +0800",
-     "summary": "近期，在多种因素影响下，全球科技股板块分歧加剧，出现急速调整，私募大佬的持仓动向格外受市场关注。据私募排排网最新数据，但斌三季度持仓总市值近100亿元，谷歌仍为第一大重仓股，并新进 苹果 、 SpaceX 两只股票。 面对市场调整，但斌10月以来多次发声。如10月18日发文表示：“调整经常有。回头看指数依然是向上的，关键是能不能熬过去。”10月22日回复投资者时表示：“还在坚持，否则我们国内只能买A股与港股的基金就不会回撤了。但现在看起来，A股还是要‘高抛低吸’灵活处理。” 三季度新进 苹果 、 SpaceX 两只股票 在全球科技股走势分歧加剧的背景下，私募大佬的持仓动向格外受市场关注。据私募",
-     "source": "东方财富股票",
-     "zh": "对于A股调整 但斌发文：还是要“高抛低吸”；其美股三季度调仓曝光"
+     "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
+     "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 17:13:23 GMT",
+     "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
+     "source": "Financial Times",
+     "zh": "Hundreds of thousands protest in France in second weekend of mass demonstrations"
     },
     {
      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
@@ -2370,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Couche-Tard makes bid for Cumberland Farms: report"
     },
     {
-     "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-     "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 16:18:00 GMT",
-     "summary": "Store aisles are getting a digital makeover.",
-     "source": "MarketWatch",
-     "zh": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers."
-    },
-    {
      "title": "Real estate stocks trade mixed as earnings releases pick pace",
      "link": "https://seekingalpha.com/news/4656716-real-estate-stocks-trade-mixed-as-earnings-releases-pick-pace?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 12:00:35 -0400",
@@ -2392,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Earnings Scoreboard: 82% firms beat EPS estimates, 79% post Y/Y earnings growth"
-    },
-    {
-     "title": "Six Flags adding seat belts to roller coasters following Georgia park death",
-     "link": "https://seekingalpha.com/news/4656931-six-flags-adding-seat-belts-roller-coasters-following-georgia-park-death?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 11:37:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Six Flags adding seat belts to roller coasters following Georgia park death"
     },
     {
      "title": "Why popular airplanes are getting scrapped years early",
@@ -2424,14 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
      "source": "CNBC",
      "zh": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer"
-    },
-    {
-     "title": "花胶产业如何在困境中挖掘新机遇？",
-     "link": "http://www.eeo.com.cn/2026/1024/1074914.shtml",
-     "pubDate": "Sat, 24 Oct 2026 22:00:31 +0800",
-     "summary": "中国工程院院士薛长湖认为，在花胶产业发展路径中，科技创新、产品创新、产业创新三者环环相扣，缺一不可。",
-     "source": "经济观察网",
-     "zh": "花胶产业如何在困境中挖掘新机遇？"
     },
     {
      "title": "Ukraine military says Starlink service restrictions have been lifted",
@@ -2482,20 +2482,20 @@ window.INDUSTRY_DATA = {
      "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
     },
     {
-     "title": "折叠屏供应链“等来”苹果之后",
-     "link": "http://www.eeo.com.cn/2026/1024/1074909.shtml",
-     "pubDate": "Sat, 24 Oct 2026 19:18:51 +0800",
-     "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
-     "source": "经济观察网",
-     "zh": "折叠屏供应链“等来”苹果之后"
-    },
-    {
      "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
      "link": "https://wallstreetcn.com/articles/3784397",
      "pubDate": "Sat, 24 Oct 2026 19:03:44 +0800",
      "summary": "据台湾《经济日报》报道，英伟达、英特尔、AMD三大科技巨头为抢占AI供应链关键产能，已向中国台湾高阶IC载板厂合计预付逾新台币千亿元（约50亿美元）订金，锁定长期产能供应。 受此驱动，台湾载板三强欣兴、景硕与南电今年累计宣布投资建厂规模达1612亿元新台币，创下历史新高。 英特尔执行长陈立武（Lip-Bu Tan）此前公开表示，AI需求带动先进封装与芯片需求，上游IC载板及材料供应持续吃紧，已有多家客户主动提前支付预付款，以协助英特尔锁定载板与产能。法人据此推估，英特尔长期预购载板产能金额约30亿美元。 AMD此前宣布投资台湾百亿美元，业界普遍解读为锁定供应链产能，其中载板相关投资估计约10亿",
      "source": "华尔街见闻",
      "zh": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能"
+    },
+    {
+     "title": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit",
+     "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+     "pubDate": "Sat, 24 Oct 2026 11:00:01 GMT",
+     "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+     "source": "CNBC",
+     "zh": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit"
     }
    ]
   },

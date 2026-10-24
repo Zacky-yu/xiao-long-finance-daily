@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 13:52:12",
+ "generated_at": "2026/10/24 14:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "U.S. residential solar prices rise 3.2% as third-party ownership gains ground",
+     "link": "https://www.pv-magazine.com/2026/10/24/residential-solar-prices-rise-3-2-as-third-party-ownership-gains-ground/",
+     "pubDate": "Sat, 24 Oct 2026 06:00:00 +0000",
+     "summary": "Residential solar prices climbed 3.2% in the first half of 2026 as installers adjusted to the expiration of the federal residential solar tax credit. EnergySage's latest marketplace report highlights a surge in third-party ownership financing, rising installation costs, and shifting equipment market",
+     "source": "pv magazine",
+     "zh": "U.S. residential solar prices rise 3.2% as third-party ownership gains ground"
+    },
+    {
      "title": "US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them",
      "link": "https://cleantechnica.com/2026/10/23/us-tech-leaders-are-urgently-calling-for-rules-on-ai-china-already-has-them/",
      "pubDate": "Sat, 24 Oct 2026 02:44:58 +0000",
@@ -970,6 +978,14 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1058,28 +1074,12 @@ window.INDUSTRY_DATA = {
      "zh": "Deriva secures US$540 million for largest solar PV project to date"
     },
     {
-     "title": "Sodium-ion storage maker Peak Energy raises $108 million in GM-led round",
-     "link": "https://www.pv-magazine.com/2026/10/23/sodium-ion-storage-maker-peak-energy-raises-108-million-in-gm-led-round/",
-     "pubDate": "Fri, 23 Oct 2026 08:54:39 +0000",
-     "summary": "A US sodium-ion battery storage company has closed a $108 million Series B round led by General Motors’ venture arm, as it prepares to start production at a 4 GWh factory in California and launch its systems in the data center market. The post Sodium-ion storage maker Peak Energy raises $108 million",
-     "source": "pv magazine",
-     "zh": "Sodium-ion storage maker Peak Energy raises $108 million in GM-led round"
-    },
-    {
      "title": "Sonnen files for insolvency in Germany two months after Shell offloading",
      "link": "https://www.energy-storage.news/sonnen-files-for-insolvency-in-germany-two-months-after-shell-offloading/",
      "pubDate": "Fri, 23 Oct 2026 08:18:51 +0000",
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1754,6 +1754,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "不再需要键盘：微软新 XBOX 模式新增一键返回 Win11 桌面",
+     "link": "https://www.ithome.com/1/017/373.htm",
+     "pubDate": "Sat, 24 Oct 2026 06:00:21 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 今天（10 月 24 日）发布博文，报道称 在 Windows 11 Build 26340.9750 预览版上 ，测试全新的 XBOX 模式， 新的“游戏任务视图”加入了一条底部导航栏，玩家仅凭手柄即可退出到 Windows 桌面。 IT之家援引博文介绍，用户此前要从 XBOX 模式切换返回桌面，通常需要按 Windows 键加 Tab 键，再选择“Windows 桌面”。对于连接电视的 PC、掌机或主要依赖手柄的设备而言，用户需要临时借助键盘才能执行相关操作。 在新界面中，打开的应用会以大卡片形式呈现，用户可通过手柄",
+     "source": "IT之家",
+     "zh": "不再需要键盘：微软新 XBOX 模式新增一键返回 Win11 桌面"
+    },
+    {
+     "title": "连续 5 年，今年 1024 程序员节影石 Insta360 再送员工黄金键帽",
+     "link": "https://www.ithome.com/1/017/372.htm",
+     "pubDate": "Sat, 24 Oct 2026 05:58:43 GMT",
+     "summary": "IT之家 10 月 24 日消息，今天是 1024 程序员节，影石 Insta360 官方宣布，奖励优秀员工黄金键帽作为节日礼物。其中， 黄金空格键重约 35 克，价值超 4 万元 。 据悉，影石已 连续五年发放 这一特殊奖励，累计送出 75 枚黄金键帽。 今年新增了“F5”键，象征不断迭代和突破创新 。 根据介绍，影石研发技术人员占比近六成，是推动产品创新的核心力量。 AI 也成为今年程序员节的热议话题。现场一位年轻同事提出“今年的黄金键帽，应该发给 AI”对此，公司创始人刘靖康给出了不同的看法。 刘靖康表示，AI 虽然能够极大提升编程效率， 但只有人才能完成原生的创造 ，人的价值不可替代。",
+     "source": "IT之家",
+     "zh": "连续 5 年，今年 1024 程序员节影石 Insta360 再送员工黄金键帽"
+    },
+    {
+     "title": "史无前例的万亿投资，赢家只有英伟达？",
+     "link": "https://www.huxiu.com/article/4900111.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 13:52:53 +0800",
+     "summary": "出品｜虎嗅科技组 作者｜陈伊凡 编辑｜苗正卿 头图｜视觉中国 全球正在经历一场史无前例的数据中心建设潮。 英伟达已经开始替客户考虑，如何帮他们更快建设AI工厂。10月的柏林&nbsp;GTC&nbsp;上，黄仁勋不再强调CUDA，英伟达发布&nbsp;DSX POD：由合作伙伴将&nbsp;Vera Rubin&nbsp;系统及其配套设施预先集成进模块化集装箱，完成验证后运往现场，把部署时间从六个月压到最快十四天。当然，这个14天有两个限定，站点的供电、冷却、网络等设施必须提前就绪；这套方案计划于2027年初交付，目前仍是一项交付承诺。不管怎么说，一部分程度上解决了数据中心的部署难题。 同样是",
+     "source": "虎嗅",
+     "zh": "史无前例的万亿投资，赢家只有英伟达？"
+    },
+    {
+     "title": "所谓新鲜零食，是保质期的文字游戏",
+     "link": "https://www.huxiu.com/article/4900120.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 13:48:03 +0800",
+     "summary": "本文来自微信公众号： 半佛仙人 ，作者：半佛仙人 1 周末不卷，随便写点。 最近一段时间杭州多了很多新鲜零食店，排队很多很多很多很多，我都去逛了。 逛之前，我很困惑，卤味店+烘焙店+奶茶店，这里面没看到任何新东西，只是聚合在一起的话，这东西有啥搞头？ 逛完之后，尤其是看完了他们的配料表和保质期之后，我突然有些想笑。 因为确实什么都没变，只是保质期故意写短，玩了个文字游戏。 消费者以为的新鲜和健康，厂家说的短保质期，都是文字游戏。 真的，如果卤味，烘焙，RTD饮料，短保零食放在一个店里就叫创新，那新鲜零食最大的玩家应该是大润发，毕竟他们20年前就这么干了。 这个赛道应该十分拥挤，袁记云饺，周黑鸭",
+     "source": "虎嗅",
+     "zh": "所谓新鲜零食，是保质期的文字游戏"
+    },
+    {
      "title": "微软 Win11 25H2 26220.9757 预览版发布：重新设计文件管理器右键菜单",
      "link": "https://www.ithome.com/1/017/369.htm",
      "pubDate": "Sat, 24 Oct 2026 05:47:03 GMT",
@@ -1768,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "Toby Sterling / Reuters : The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors &nbsp; &mdash;&nbsp; The discovery of two serious flaws in PHP this week set off a global scramble to keep websites saf",
      "source": "Techmeme",
      "zh": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)"
+    },
+    {
+     "title": "AI考场榜拆解（AA榜）：分数不是模型跑出来的，是版本算出来的",
+     "link": "https://www.huxiu.com/article/4900118.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 13:40:38 +0800",
+     "summary": "本文来自微信公众号： 穷奇商业 ，作者：穷奇观察 9月22日，小米开源MiMo-V2.6-Pro，46分，登顶Artificial Analysis开源榜。一个月后，Kimi K3.1 Pro发布，55分——等权重一放，将成为新的开源第一。 一个月，两个\"开源第一\"。 这不是中国模型突然行了，也不是突然不行了。是尺子又动了。 AA这张榜，问题不在中国模型分低，在尺子握在别人手里，刻度还随时在动。 同款Kimi K3，今年7月发布时的榜单上是57分，全球第三；等权重一放，又是开源之首。今天的AA模型页上只剩44分。13分差在哪里？AA只解释了版本变了，没给出这13分怎么摊到每个科目上。同款Dee",
+     "source": "虎嗅",
+     "zh": "AI考场榜拆解（AA榜）：分数不是模型跑出来的，是版本算出来的"
     },
     {
      "title": "微软 Win11 26H1 推送 28120.3302 预览版：开始菜单可调大小等",
@@ -1810,22 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果首款折叠屏没能养肥黄牛"
     },
     {
-     "title": "亿万富翁投资人马克 · 库班：抵御失控智能体就像防蟑螂，可以用 AI“喷药”",
-     "link": "https://www.ithome.com/1/017/347.htm",
-     "pubDate": "Sat, 24 Oct 2026 04:56:41 GMT",
-     "summary": "IT之家 10 月 24 日消息，对于 AI 时代的网络安全问题，亿万富翁、企业家兼投资人马克 · 库班提出了一套颇有意思的“灭虫”思路。 据《商业内幕》今天（24 日）报道，库班将大量 AI 智能体发动的网络攻击比作蟑螂入侵：即使房屋刚刚喷过杀虫剂，蟑螂仍能找到钻进去的办法。“我经常问网络安全专家，听到各种黑客攻击、技术突破和安全问题时，AI 究竟有没有发明什么新招数？答案是没有。 AI 并没有创造新的攻击手段，只是能够发动海量攻击，本质上还是暴力破解 。” 在库班看来，防范 AI 网络攻击与防止蟑螂入侵房屋有着相似之处。“ 道理和防蟑螂一样 。只要有人制造出足够多的 AI 智能体，总有办法",
-     "source": "IT之家",
-     "zh": "亿万富翁投资人马克 · 库班：抵御失控智能体就像防蟑螂，可以用 AI“喷药”"
-    },
-    {
-     "title": "英国地方议会怒斥微软“敲诈”：软件授权费飙升 15% 引发反垄断争议",
-     "link": "https://www.ithome.com/1/017/346.htm",
-     "pubDate": "Sat, 24 Oct 2026 04:55:48 GMT",
-     "summary": "IT之家 10 月 24 日消息，科技媒体 NeoWin 昨日（10 月 23 日）发布博文，报道称英国德比郡议会（Derby City Council）近日公开指责微软公司，称其定价策略形同“敲诈”（Blackmail）， 主要争议在最新的拟定合约谈判中，微软将其软件授权费用大幅上调了 15%。 IT之家援引博文介绍，根据双方拟定的合同条款，微软将年度服务费上调 15%，达到 37.5 万英镑 （IT之家注：现汇率约合 335 万元人民币） ，让该议会每年的软件账单升至约 300 万英镑 （现汇率约合 2,679.9 万元人民币） ，授权将延续至 2030 年 5 月，覆盖该议会视为“业务关",
-     "source": "IT之家",
-     "zh": "英国地方议会怒斥微软“敲诈”：软件授权费飙升 15% 引发反垄断争议"
-    },
-    {
      "title": "1元/Wh这道坎，把储能行业劈成了两半",
      "link": "https://www.huxiu.com/article/4900113.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 12:50:38 +0800",
@@ -1840,30 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "挤泡沫的时候到了？",
      "source": "钛媒体",
      "zh": "数采会成为具身智能的“牺牲品”吗？"
-    },
-    {
-     "title": "斜杠青年和工牌，谁能给AI时代打工人一份“体面”？",
-     "link": "https://www.huxiu.com/article/4900115.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 12:36:07 +0800",
-     "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 设想一下，一位分析师正在赶一份报告。写到一半，他把搜集好的资料交给AI。几分钟后，数据归类、图表建议和初步结论都摆在屏幕上。他删去几处不准确的表述，补上自己的判断，原本要忙上一天的工作很快完成了。 结果看起来不错，交付也比过去轻松。但如果问他，这份报告里最让自己得意的部分是什么，回答可能没有以前那么容易。类似的犹豫，如今正在越来越多的知识工作中出现。 2026年3月15日，《Scientific Reports》发表了一项AI与工作体验的研究。参与者分别自己完成写作、直接采用AI内容，或者先写初稿再用AI修改。同样是完成任务，他们的感受",
-     "source": "虎嗅",
-     "zh": "斜杠青年和工牌，谁能给AI时代打工人一份“体面”？"
-    },
-    {
-     "title": "“浙江大二学生AI 创业两个月赚60万”背后的真相",
-     "link": "https://www.huxiu.com/article/4900116.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 12:33:31 +0800",
-     "summary": "本文来自微信公众号： 杉森楠 ，作者：杉森楠，原文标题：《「浙江大二学生AI 创业两个月赚60万」背后的真相》 杭州电视台这次，可能被一个大二学生给上了一课。 这几天，我疯狂刷到一条短视频，堪称新一代「优绩主义」宣传片。视频里，浙江一名大二学生接受杭州电视台采访，声称自己靠AI创业，仅用两个月就赚了60万元。 更厉害的是，据他本人介绍，整个项目几乎都是自己独立完成的，一个人创办公司，甚至还有米兰设计周二等奖的获奖作品使用了他们的软件。 这段采访在11月21日发布后，很快登上微博热搜，引发大量关注。我相信，全国可能有上百万父母看到这条新闻后，都忍不住对自己的孩子说：「看看人家大学生在干什么，再看",
-     "source": "虎嗅",
-     "zh": "“浙江大二学生AI 创业两个月赚60万”背后的真相"
-    },
-    {
-     "title": "大厂减配员工福利，纷纷进入“纯过日子”时代？",
-     "link": "https://www.huxiu.com/article/4900109.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 12:30:38 +0800",
-     "summary": "本文来自微信公众号： 深观商业 ，作者：陈辰 最近，全民进入大“过日子”时代的话题在网络上走红，字节跳动的一纸采购信息引起热议。 据悉，字节计划从今年8月至明年二季度，在北京、上海等工区分批更换办公椅。被换掉的Humanscale W orld，一把零售价约8000元的椅子，因字节标配而被称为“字节椅”。如今，它被换成了一把售价2549元的清闲智能S1。 在此之前，大疆也将办公椅从零售价过万元的赫曼米勒Aeron换成了清闲智能。 这不是一向有钱的科技大厂第一次主动在细节方面“省钱”。 去年，字节就曾发布内部信，通知将于2026年起停发春节红包，下午茶的供应也发生了微妙的变化。大疆曾发文称，自2",
-     "source": "虎嗅",
-     "zh": "大厂减配员工福利，纷纷进入“纯过日子”时代？"
     },
     {
      "title": "全线扩产仍供不应求，光刻机被抢疯了",
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "How close can pure functional programming get to C?",
      "link": "https://rtfeldman.com/fp-vs-c",
      "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
-     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 26 # Comments: 1",
+     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 35 # Comments: 2",
      "source": "Hacker News",
      "zh": "How close can pure functional programming get to C?"
     },
@@ -1930,20 +1930,20 @@ window.INDUSTRY_DATA = {
      "zh": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)"
     },
     {
-     "title": "How Block Blast harvests its players for ad money",
-     "link": "https://ayoships.com/breakdowns/block-blast",
-     "pubDate": "Sat, 24 Oct 2026 02:43:43 +0000",
-     "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "How Block Blast harvests its players for ad money"
-    },
-    {
      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
      "pubDate": "Sat, 24 Oct 2026 01:53:10 +0000",
-     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 59 # Comments: 16",
+     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 64 # Comments: 18",
      "source": "Hacker News",
      "zh": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques"
+    },
+    {
+     "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+     "link": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
+     "pubDate": "Sat, 24 Oct 2026 01:37:28 +0000",
+     "summary": "Article URL: https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213 Comments URL: https://news.ycombinator.com/item?id=50217600 Points: 27 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year"
     },
     {
      "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Twelve years of distributed SQLite",
      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
      "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
-     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 105 # Comments: 10",
+     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 109 # Comments: 12",
      "source": "Hacker News",
      "zh": "Twelve years of distributed SQLite"
     },

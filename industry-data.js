@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 21:12:02",
+ "generated_at": "2026/10/24 21:32:00",
  "recent_days": 7,
  "industries": [
   {
@@ -890,6 +890,14 @@ window.INDUSTRY_DATA = {
      "zh": "Glass-free European photovoltaic modules for vehicles, noise barriers and boats"
     },
     {
+     "title": "Waymo — Now Arriving At Harry Reid International Airport",
+     "link": "https://cleantechnica.com/2026/10/23/waymo-now-arriving-at-harry-reid-international-airport/",
+     "pubDate": "Sat, 24 Oct 2026 03:50:26 +0000",
+     "summary": "Starting this week, Las Vegas travelers can catch their next flight at Harry Reid International Airport (LAS) via safe, reliable, and magical Waymo rides. Current Waymo riders in Las Vegas now have airport access, and we’ll gradually welcome more riders over time before opening to everyone. Pickups ",
+     "source": "CleanTechnica",
+     "zh": "Waymo — Now Arriving At Harry Reid International Airport"
+    },
+    {
      "title": "US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them",
      "link": "https://cleantechnica.com/2026/10/23/us-tech-leaders-are-urgently-calling-for-rules-on-ai-china-already-has-them/",
      "pubDate": "Sat, 24 Oct 2026 02:44:58 +0000",
@@ -960,14 +968,6 @@ window.INDUSTRY_DATA = {
      "summary": "What I don’t know about Finland would fill a small library. As a fan of Formula One, I know that many Finnish surnames have multiple k’s — Mika Hakkinen, and Kimi Raikkonen, for example, not to mention World Rally driver Tommi Makkinen. In the world of motorsports, some like to ... [continued] The p",
      "source": "CleanTechnica",
      "zh": "If Google Fells 250,000 Trees In Finland, Does It Make A Sound?"
-    },
-    {
-     "title": "What Can Grid Flexibility Actually Do Here?",
-     "link": "https://cleantechnica.com/2026/10/23/what-can-grid-flexibility-do-here/",
-     "pubDate": "Fri, 23 Oct 2026 17:28:29 +0000",
-     "summary": "Grid flexibility is not one resource or one number. A new open TFIE Strategy report maps how batteries, demand, networks, interconnection and other resources change value with location, duration and operating conditions. The post What Can Grid Flexibility Actually Do Here? appeared first on CleanTec",
-     "source": "CleanTechnica",
-     "zh": "What Can Grid Flexibility Actually Do Here?"
     },
     {
      "title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
@@ -1322,12 +1322,12 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths"
     },
     {
-     "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)",
+     "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
      "pubDate": "Fri, 23 Oct 2026 23:26:41 +0000",
      "summary": "SpaceX sent 27 more of its Starlink broadband satellites to orbit today (Oct. 23), in its first Starlink launch in 11 days.",
      "source": "Space.com",
-     "zh": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)"
+     "zh": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)"
     },
     {
      "title": "NASA lays out plan for Artemis 3 moon-lander test flight —but when will it launch?",
@@ -1754,6 +1754,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "罗技 Pebble Up 鼠标上市：平卧 + 35° 斜卧双形态，到手价 251.1 元",
+     "link": "https://www.ithome.com/1/017/507.htm",
+     "pubDate": "Sat, 24 Oct 2026 13:22:37 GMT",
+     "summary": "IT之家 10 月 24 日消息，Logitech（罗技）此前推出的双形态鼠标 Pebble Up 现已上市。其 支持便于携带的平卧和提供 35° 人体工学倾角的斜卧双形态 ，到手价 251.1 元。 IT之家了解到，Pebble Up 三维 105.8 × 59.6 × 30 (mm)，质量 79g，传感器分辨率可达 4,000 cpi，按键采用轻音点击设计，支持 2.4GHz、三设备蓝牙连接，内置 90 天续航的 290mAh 可充电锂聚合物电池。 京东 罗技 Pebble Up 双形态鼠标 251.1 元 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：",
+     "source": "IT之家",
+     "zh": "罗技 Pebble Up 鼠标上市：平卧 + 35° 斜卧双形态，到手价 251.1 元"
+    },
+    {
+     "title": "比亚迪在香港成立智慧交通子公司，计划引进云巴等方案",
+     "link": "https://www.ithome.com/1/017/506.htm",
+     "pubDate": "Sat, 24 Oct 2026 13:22:00 GMT",
+     "summary": "IT之家 10 月 24 日消息，比亚迪股份 10 月 23 日宣布在香港成立比亚迪智慧交通（香港）有限公司，落户大埔白石角科学园，由任林出任董事、李亮亮担任总经理。 新公司的直接目标，是响应香港推动智慧绿色集体运输系统的方向，计划将比亚迪自主研发的“云巴”（SkyShuttle）等轨道交通方案引进香港。 比亚迪云巴的定位是低运量、高架、无人驾驶的立体轨道交通系统，设计上针对的恰好是香港的几处“难处”。 据比亚迪介绍，云巴采用纯电驱动、胶轮行走和减振降噪设计，车体较轻、转弯半径小，爬坡能力达到每 100 米爬升 12 米，远高于重型铁路每 100 米约 4 米的水平，可适应香港山多、地势陡斜的",
+     "source": "IT之家",
+     "zh": "比亚迪在香港成立智慧交通子公司，计划引进云巴等方案"
+    },
+    {
+     "title": "消息称部分手机产品线或平板线迎来停更，成本兜不住",
+     "link": "https://www.ithome.com/1/017/505.htm",
+     "pubDate": "Sat, 24 Oct 2026 13:16:59 GMT",
+     "summary": "IT之家 10 月 24 日消息，据博主 @数码闲聊站 今日爆料，接下来会有几个大家熟悉的手机产品线或平板线迎来停更，原因是成本兜不住， 越发新机越亏 。 IT之家注意到，今年以来已经多部分手机厂商或品牌 宣布停更 。今年 2 月 27 日，魅族发布战略转型公告，宣布暂停国内手机新产品自研硬件项目，并在积极接洽第三方硬件合作伙伴，同时原有业务不受任何影响。 OPPO 在 7 月 16 日官宣了子品牌全球产品策略：realme 新品将聚焦海外市场，在中国市场暂停产品更新；一加则将在保持印度市场产品更新不变的情况下，主力发展中国市场，并暂停在欧洲和北美发布新品。 此外，今年还有部分手机厂商也通过涨",
+     "source": "IT之家",
+     "zh": "消息称部分手机产品线或平板线迎来停更，成本兜不住"
+    },
+    {
+     "title": "北通盘古手柄新增三款模块化配件：触觉反馈方向盘、拟真滚轮方向盘、触觉反馈触控板",
+     "link": "https://www.ithome.com/1/017/504.htm",
+     "pubDate": "Sat, 24 Oct 2026 13:10:53 GMT",
+     "summary": "IT之家 10 月 24 日消息，北通 (BEITONG) 本周正式为其 模块化手柄控制器盘古 推出了 3 款配件： 触觉反馈方向盘 、 拟真滚轮方向盘 、 触觉反馈触控板 。 触觉反馈方向盘（上图红框）占据盘古正面的 2 个模块安装位，可提供过弯阻尼、松手回弹的拟真驾驶体验，定价 109 元。 拟真滚轮方向盘（上图黄框）拥有 3 倍广域转向，可实现精准的细微过弯，定价 79 元。 触觉反馈触控板（上图蓝框）可模拟鼠标操控，转向更迅速、点选更便捷，定价 89 元。 北通同时还提供盘古手柄的方向盘套装、触控板套装、全模块套装，此外老用户可享受赠品活动和优惠价。",
+     "source": "IT之家",
+     "zh": "北通盘古手柄新增三款模块化配件：触觉反馈方向盘、拟真滚轮方向盘、触觉反馈触控板"
+    },
+    {
+     "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+     "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+     "pubDate": "Sat, 24 Oct 2026 13:09:28 +0000",
+     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Elon Musk Just Gave Europe a Reason to Replace American Technology"
+    },
+    {
      "title": "实测Kimi K3.1：更擅长塑造“第一印象”了，接下来真正考验在后端",
      "link": "https://www.huxiu.com/article/4900190.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 21:00:01 +0800",
@@ -1784,22 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 24 日消息，小米 REDMI 首款耳夹耳机 Clip Neo 将于 10 月 27 日上市，官方现已公布部分配置信息。 IT之家从官方介绍获悉，新品采用 12mm 高性能双磁设计 ，类金刚石镀膜，支持低音增强算法、动态补偿、EQ 自定义调节、动态 AI 通话降噪等。 此外，该产品还支持小米澎湃智联多功能实体按键， 长按唤醒端侧语音助手 ，支持沉浸聊天、连续对话、智能控车控家等。 该产品单耳轻至 5.3g，佩戴回仓不区分左右耳；亲肤液态硅胶，0.6mm 耐弯记忆钛丝；仿生曲面设计，3.4mm 黄金夹距。 目前尚不清楚这款新品的具体价格信息， 而小米首款耳夹式耳机于今年 5 ",
      "source": "IT之家",
      "zh": "小米 REDMI 首款耳夹耳机 Clip Neo 预热：支持澎湃智联、端侧语音助手"
-    },
-    {
-     "title": "致态公布《影之刃零》联名礼盒，内含 TiPlus9100 固态硬盘",
-     "link": "https://www.ithome.com/1/017/500.htm",
-     "pubDate": "Sat, 24 Oct 2026 12:49:56 GMT",
-     "summary": "IT之家 10 月 24 日消息，长江存储 (YMTC) 旗下零售存储品牌致态 (ZHITAI) 今日宣布与《影之刃零》达成深度战略合作，公布了致态 | 《影之刃零》联名礼盒。该产品具体发售时间将于后续公布。 该礼盒整体采用暗黑武侠视觉设计，以“进入、陪伴、装饰、收藏”为线索，内含致态 TiPlus9100 固态硬盘（含定制封套）以及 联名定制收纳盒、定制黑伤螺丝刀、定制鹤形铃铛机箱贴、光栅海报 。 TiPlus9100 采用 M.2 2280 单面 PCB 外形规格，基于 Xtacking 4.0 TLC NAND 闪存与 DRAM-less 方案，支持 PCIe Gen5 协议，顺序读取速",
-     "source": "IT之家",
-     "zh": "致态公布《影之刃零》联名礼盒，内含 TiPlus9100 固态硬盘"
-    },
-    {
-     "title": "爱国者推出星璨大岚智能中控机箱：配 6.5 英寸触摸屏，黑白双色均售 599 元",
-     "link": "https://www.ithome.com/1/017/499.htm",
-     "pubDate": "Sat, 24 Oct 2026 12:45:22 GMT",
-     "summary": "IT之家 10 月 24 日消息，爱国者现已在京东上架星璨大岚智能中控机箱，该产品提供黑白双色可选，定价为 599 元。 京东 爱国者 星璨大岚 智能中控机箱 599 元 直达链接 该机箱尺寸为 470x235x503mm，兼容 ATX、M-ATX 以及 ITX 主板，整体采用机械金属风 ATX 海景房设计，具备 270° 全景展示视角。机箱配备一块 6.5 英寸触摸屏，该屏幕可作为桌面调控台，支持桌面与机箱灯光一键全局切换。用户能通过屏幕进行软件联动操作与音乐可视化，自定义显示图片、视频或动态壁纸，并支持多主题软件生态拓展。 该机箱 CPU 散热器限高 172mm、显卡限长达到 430mm，",
-     "source": "IT之家",
-     "zh": "爱国者推出星璨大岚智能中控机箱：配 6.5 英寸触摸屏，黑白双色均售 599 元"
     },
     {
      "title": "Kimi最大迷思是，它什么都想要，但卡是有限的",
@@ -1834,36 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "Kimi 发布K3.1 Pro，加量降价挑战Opus5.5"
     },
     {
-     "title": "小米推出 24.5 英寸 REDMI 显示器 G25 2027：1080p 300Hz，799 元",
-     "link": "https://www.ithome.com/1/017/498.htm",
-     "pubDate": "Sat, 24 Oct 2026 12:30:11 GMT",
-     "summary": "IT之家 10 月 24 日消息，小米 REDMI 显示器 G25 300Hz 2027 已经上架京东并开售，售价显示为 799 元。 京东 小米 REDMI 显示器 G25 2027 原生 280Hz 高刷 1ms Fast IPS HDR400 硬件低蓝光 799 元 直达链接 IT之家从商品页面获悉，这款显示器采用了 24.5 英寸 1080P IPS 快速液晶屏，支持原生 300Hz 高刷、1ms GTG 响应时间，支持 FreeSync Premium 自适应刷新率，典型亮度 400nits，覆盖 100% sRGB、93% DCI-P3 色域，支持硬件级低蓝光，通过 Display",
-     "source": "IT之家",
-     "zh": "小米推出 24.5 英寸 REDMI 显示器 G25 2027：1080p 300Hz，799 元"
-    },
-    {
-     "title": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元",
-     "link": "https://www.ithome.com/1/017/497.htm",
-     "pubDate": "Sat, 24 Oct 2026 12:23:19 GMT",
-     "summary": "IT之家 10 月 24 日消息，小米米家钛保温杯茶水分离版 500ml 现已在京东发售，新品主打茶水分离设计，可选月光银、深空灰两种配色，定价 219 元。 京东 米家钛保温杯 茶水分离版 219 元 直达链接 据介绍，该产品的杯体、滤网和杯盖内衬片均为纯钛材质。用户倒置杯体即可让水流入茶仓；回正杯体茶水随即分离，随心掌控浓淡。 IT之家注意到，该产品配备可拆卸滤网，杯体不含双酚 A，拆下即可清洗。茶仓可拆下作为日常保温杯使用。可选深空灰、月光银两种配色，搭配 500ml 实用容量，兼顾泡茶和日常饮水。 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。",
-     "source": "IT之家",
-     "zh": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元"
-    },
-    {
      "title": "mRNA肿瘤疫苗大分歧",
      "link": "https://www.huxiu.com/article/4900182.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 20:22:03 +0800",
      "summary": "本文来自微信公众号： 氨基观察 ，作者：氨基君 mRNA肿瘤疫苗可能改写秩序。在ESMO数据公布之前，一位医药圈资深从业人士这样告诉氨基君。 某种程度上，这是mRNA肿瘤疫苗狂热的缩影。随着V940联用K药治疗黑色素瘤三期阳性临床结果的公布，市场预期被迅速打高。 不只是国内，华尔街也是如此，Moderna的市值，也在短期内冲击千亿美元。但目前来看，可能没有那么乐观。至少，分歧客观存在。 10月23日，原定于2026年ESMO大会上以oral形式公布的INTerpath-001研究结果，被提前泄露。这直接导致Moderna一度暴跌超20%，蒸发了200多亿美金。 当然，目前的数据还不足以为INT",
      "source": "虎嗅",
      "zh": "mRNA肿瘤疫苗大分歧"
-    },
-    {
-     "title": "I can't believe we're still arguing over whether X is for jerks",
-     "link": "https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks",
-     "pubDate": "Sat, 24 Oct 2026 12:14:34 +0000",
-     "summary": "Article URL: https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks Comments URL: https://news.ycombinator.com/item?id=50220540 Points: 21 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "I can't believe we're still arguing over whether X is for jerks"
     },
     {
      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
@@ -1893,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 40 # Comments: 6",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 45 # Comments: 8",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
      "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
-     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 11 # Comments: 0",
      "source": "Hacker News",
      "zh": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706"
     },
@@ -2250,12 +2250,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
-     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-     "pubDate": "Sat, 24 Oct 2026 13:00:35 GMT",
-     "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+     "title": "Ukraine military says Starlink service restrictions have been lifted",
+     "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+     "pubDate": "Sat, 24 Oct 2026 13:16:04 GMT",
+     "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
+     "source": "Financial Times",
+     "zh": "Ukraine military says Starlink service restrictions have been lifted"
+    },
+    {
+     "title": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+     "link": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
+     "pubDate": "Sat, 24 Oct 2026 13:05:01 GMT",
+     "summary": "As peptides gain popularity among some wellness influencers and federal government officials, doctors share what you need to know.",
      "source": "CNBC",
-     "zh": "Ukraine says Starlink and Starshield high speed restrictions have been lifted"
+     "zh": "Fact vs. fiction: Doctors share whether peptides are safe and effective"
     },
     {
      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
@@ -2274,12 +2282,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why popular airplanes are getting scrapped years early"
     },
     {
-     "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907118542.html",
-     "pubDate": "Sat, 24 Oct 2026 20:40:04 +0800",
-     "summary": "在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完",
-     "source": "东方财富资讯",
-     "zh": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？"
+     "title": "Berkshire shares shake the Buffett blues with new all-time highs",
+     "link": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
+     "pubDate": "Sat, 24 Oct 2026 12:48:32 GMT",
+     "summary": "After almost 18 months, Berkshire Hathaway shares have entirely erased all the ground they lost in the wake of Warren Buffett's surprise announcement at the 2025 shareholders meeting that he would step down as CEO.",
+     "source": "CNBC",
+     "zh": "Berkshire shares shake the Buffett blues with new all-time highs"
     },
     {
      "title": "Iran in 'advanced stages' of plans to target US officials in Middle East",
@@ -2296,14 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
      "source": "MarketWatch",
      "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-    },
-    {
-     "title": "10月24日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907118119.html",
-     "pubDate": "Sat, 24 Oct 2026 20:29:05 +0800",
-     "summary": "今日摘要 习近平向2026全球治理论坛（雄安）致信。 党的十八大以来，以习近平同志为核心的党中央从巩固党的执政地位、实现中华民族伟大复兴的战略高度，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面，团结带领全党在新的长征路上奋力创造新的辉煌。 习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话引发全军官兵热烈反响。 王沪宁陪同朝鲜最高领导人访问丹东。 李希出席二十届中央第八轮巡视工作动员部署会。 全国秋粮收获进度已过八成。 国际人士积极评价习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话。 内容速览 习近平向2026全球治理论坛（雄安）致信 10月23日，",
-     "source": "东方财富资讯",
-     "zh": "10月24日晚间央视新闻联播要闻集锦"
     },
     {
      "title": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
@@ -2336,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
      "source": "华尔街见闻",
      "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
-    },
-    {
-     "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907116474.html",
-     "pubDate": "Sat, 24 Oct 2026 19:44:44 +0800",
-     "summary": "问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境",
-     "source": "东方财富资讯",
-     "zh": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问"
     },
     {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -2394,36 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
     },
     {
-     "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
-     "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
-     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只ETF份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
-     "source": "东方财富资讯",
-     "zh": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！"
-    },
-    {
-     "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907105225.html",
-     "pubDate": "Sat, 24 Oct 2026 18:38:36 +0800",
-     "summary": "10月24日， 小鹏集团 副总裁于涛在社交平台账号“托马斯电火车”上发布长文，回应小鹏MONA产品经理恩塔发布会“老登”用词事件全过程。他表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户，“几位‘老登’没一个不悦，反而在内部反复表扬”。 “真正的互联网同学文化，可能不是其它企业上下有别等级森严，而是年轻人敢开老板玩笑的松弛， 后来的致歉视频，是恩塔主动提的。她看到有没完整看直播的朋友产生误解，觉得是自己措辞有疏漏，才主动拍了视频解释原委。”他写道。 “老登并不让人反感，老登并不让人反感，有些人的登味儿才让人厌恶，少一些对00后的口诛笔伐。”他表示",
-     "source": "东方财富资讯",
-     "zh": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应"
-    },
-    {
      "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade",
      "link": "https://seekingalpha.com/news/4656653-vibe-theft-auto-anthropic-opus-gta-6-and-a-potential-fade-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 06:30:48 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade"
-    },
-    {
-     "title": "Ukraine military says Starlink service restrictions have been removed",
-     "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-     "pubDate": "Sat, 24 Oct 2026 10:20:39 GMT",
-     "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
-     "source": "Financial Times",
-     "zh": "Ukraine military says Starlink service restrictions have been removed"
     },
     {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
@@ -2440,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "马斯克与民主党之间的政治对决正在急剧升温。随着美国国会中期选举临近，民主党人已公开放话，一旦夺回国会控制权，将对马斯克发起全面国会调查，并祭出被外界称为“史上最大规模传票”的法律手段。马斯克则以强硬姿态回击，誓言反击到底，并正斥资数亿美元力保共和党守住国会席位。 据媒体报道，民主党正筹备对马斯克旗下企业及其政府活动展开大规模国会调查，调查范围涵盖其联邦政府合同、领导\"政府效率部\"（DOGE）期间的相关行为，以及涉嫌干预乌克兰军事通信等多项指控。 纽约大学教授Scott Galloway在其播客节目中预言：\"11月4日之后，你将看到史上最大规模的传票和国会听证要求砸向他。\"资深科技记者、马斯克批",
      "source": "华尔街见闻",
      "zh": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”"
-    },
-    {
-     "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907101111.html",
-     "pubDate": "Sat, 24 Oct 2026 17:18:26 +0800",
-     "summary": "当地时间本周五(10月23日)，美国能源部宣布，已根据《2020年能源法》将氦气认定为关键材料，以加强美国制造业和供应链安全。 美国能源部作出的这一决定，使氦气成为了该机构指定的第20种关键材料，并将这种 工业气体 纳入《2020年能源法》的关键材料框架，包括接受更严格的政府监管。 (美国能源部关键材料清单) 美国能源部长克里斯·赖特在一份声明中写道：“特朗普总统正在重振美国的制造业，这意味着我们要确保拥有再次在美国本土制造产品所需的材料。” 赖特称，“ 氦气对于生产推动美国经济发展的 半导体 和先进技术至关重要 。通过将氦气指定为关键材料，我们朝着保障供应链安全、创造美国就业岗位以及确保美国",
-     "source": "东方财富资讯",
-     "zh": "攸关半导体生产！美国能源部将氦气认定为关键材料"
     },
     {
      "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -2488,6 +2448,46 @@ window.INDUSTRY_DATA = {
      "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
      "source": "Financial Times",
      "zh": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu"
+    },
+    {
+     "title": "France is looking ungovernable. And it’s going to get worse",
+     "link": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
+     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
+     "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
+     "source": "Financial Times",
+     "zh": "France is looking ungovernable. And it’s going to get worse"
+    },
+    {
+     "title": "The young are conformists in denial",
+     "link": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
+     "summary": "The reassuringly bourgeois values behind a rebellious generation",
+     "source": "Financial Times",
+     "zh": "The young are conformists in denial"
+    },
+    {
+     "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
+     "link": "https://seekingalpha.com/news/4656924-global-x-equal-weight-can-insurance-idx-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:32:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend"
+    },
+    {
+     "title": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend",
+     "link": "https://seekingalpha.com/news/4656923-global-x-russell-2000-covered-cll-etf-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:32:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend"
+    },
+    {
+     "title": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend",
+     "link": "https://seekingalpha.com/news/4656922-global-x-20-plusyr-us-treasury-bd-idx-etf-hdgd-unts-declares-cad-0_193-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 23:31:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend"
     }
    ]
   },
@@ -2497,6 +2497,54 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
+     "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
+     "pubDate": "Sat, 24 Oct 2026 09:15:00 EDT",
+     "summary": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a ",
+     "source": "ScienceDaily",
+     "zh": "Could lowering high blood pressure be as simple as stimulating your ear?"
+    },
+    {
+     "title": "A hidden bias in human language challenges 70 years of science",
+     "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+     "pubDate": "Sat, 24 Oct 2026 09:01:22 EDT",
+     "summary": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even more surprisingly, human language shows a powerful hidden pref",
+     "source": "ScienceDaily",
+     "zh": "A hidden bias in human language challenges 70 years of science"
+    },
+    {
+     "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
+     "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+     "pubDate": "Sat, 24 Oct 2026 08:50:06 EDT",
+     "summary": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
+     "source": "ScienceDaily",
+     "zh": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret"
+    },
+    {
+     "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
+     "link": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
+     "pubDate": "Sat, 24 Oct 2026 08:39:16 EDT",
+     "summary": "Scientists have proposed a way to detect “mirror life,” a hypothetical form of life that could pose serious risks to humans, animals, and ecosystems if artificially created. Using special fluorescent molecules and a type of polarized light also used in 3D movie technology, researchers believe they c",
+     "source": "ScienceDaily",
+     "zh": "Scientists propose a way to detect dangerous “mirror life” before it exists"
+    },
+    {
+     "title": "Astronomers uncover a mysterious magnetic web above the Sun",
+     "link": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
+     "pubDate": "Sat, 24 Oct 2026 08:23:38 EDT",
+     "summary": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface. The",
+     "source": "ScienceDaily",
+     "zh": "Astronomers uncover a mysterious magnetic web above the Sun"
+    },
+    {
+     "title": "These tiny snakes roll four times faster than they slither",
+     "link": "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
+     "pubDate": "Sat, 24 Oct 2026 08:12:03 EDT",
+     "summary": "Tiny snakes in Southeast Asia have mastered an extraordinary escape technique: rolling across the ground at speeds up to four times faster than ordinary slithering. Scientists discovered that dwarf reedsnakes accomplish this feat through precisely coordinated body movements that allow their bodies t",
+     "source": "ScienceDaily",
+     "zh": "These tiny snakes roll four times faster than they slither"
+    },
     {
      "title": "AI giants are one big mistake away from catastrophe. They could learn a lot from the nuclear industry.",
      "link": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
@@ -2586,38 +2634,6 @@ window.INDUSTRY_DATA = {
      "zh": "Electric stoves could help people with asthma breathe easier"
     },
     {
-     "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
-     "pubDate": "Fri, 23 Oct 2026 07:23:19 EDT",
-     "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient",
-     "source": "ScienceDaily",
-     "zh": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma"
-    },
-    {
-     "title": "Dental implants can hijack your immune system, scientists discover",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
-     "pubDate": "Fri, 23 Oct 2026 07:12:28 EDT",
-     "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jaw",
-     "source": "ScienceDaily",
-     "zh": "Dental implants can hijack your immune system, scientists discover"
-    },
-    {
-     "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
-     "pubDate": "Fri, 23 Oct 2026 07:02:25 EDT",
-     "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise",
-     "source": "ScienceDaily",
-     "zh": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial"
-    },
-    {
-     "title": "MIT scientists build a tiny robot that swims using living muscle cells",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
-     "pubDate": "Fri, 23 Oct 2026 06:33:56 EDT",
-     "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary mach",
-     "source": "ScienceDaily",
-     "zh": "MIT scientists build a tiny robot that swims using living muscle cells"
-    },
-    {
      "title": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work?",
      "link": "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work",
      "pubDate": "Fri, 23 Oct 2026 09:44:19 +0000",
@@ -2626,28 +2642,12 @@ window.INDUSTRY_DATA = {
      "zh": "Scientists can now 'watermark' AI-generated proteins to deter bioweapon creation. But will it really work?"
     },
     {
-     "title": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
-     "pubDate": "Fri, 23 Oct 2026 05:42:58 EDT",
-     "summary": "Switzerland’s glaciers are disappearing at an alarming rate, losing more than 5% of their ice volume in 2026 alone. Some of the country’s most famous glaciers experienced their worst melting on record, while several smaller glaciers vanished completely. Nearly 20% of Switzerland’s glacier ice has di",
-     "source": "ScienceDaily",
-     "zh": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years"
-    },
-    {
      "title": "Q&A: How AI came to model the “messy” human mind",
      "link": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
      "pubDate": "Fri, 23 Oct 2026 00:00:00 -0400",
      "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
      "source": "MIT News",
      "zh": "Q&A: How AI came to model the “messy” human mind"
-    },
-    {
-     "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
-     "pubDate": "Thu, 22 Oct 2026 21:21:47 EDT",
-     "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose,",
-     "source": "ScienceDaily",
-     "zh": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist"
     },
     {
      "title": "This design software reimagines everyday objects as self-aware devices",

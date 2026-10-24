@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 07:40:09",
+ "generated_at": "2026/10/24 08:36:13",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "首部！国产AI超写实电影上院线了",
+     "link": "https://zhidx.com/p/604215.html",
+     "pubDate": "Sat, 24 Oct 2026 08:25:05 +0800",
+     "summary": "智东西 作者｜王涵 编辑｜心缘 智东西10月24日报道，昨天，国内首部AI超写实电影《三星堆：未来往事》正式登陆院线。据猫眼专业版App数据，上映首日，该影片首日票房 30.15万元 ，累计综合票房 40.1万元 。据灯塔专业版app数据，期预测总票房为 207.8万元 。 对比来看，2026年8月5日上映的纯手搓黑马动画电影《牛来》，其首日票房为3420万元，最终累计综合票房为6426.5万元，市场表现较为悬殊。不过二者上映环境不同，《牛来》在暑期档上映，大盘基础更强。 《三星堆：未来往事》是 中国首部获得国家电影局公映许可证的AI超写实院线电影 。整部影片 时长100分钟 ，所有角色均为原",
+     "source": "智东西",
+     "zh": "首部！国产AI超写实电影上院线了"
+    },
     {
      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -146,14 +154,6 @@ window.INDUSTRY_DATA = {
      "zh": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径"
     },
     {
-     "title": "宁德时代投的北京机器人创企，秘密递表港交所",
-     "link": "https://zhidx.com/p/603944.html",
-     "pubDate": "Fri, 23 Oct 2026 14:06:36 +0800",
-     "summary": "机器人前瞻（公众号：robot_pro） 作者 | 钟宸 编辑 | 漠影 机器人前瞻10月23日报道，据彭博社昨日报道，知情人士透露，北京机器人公司 松延动力已秘密递交香港首次公开募股（IPO）申请 ，计划募资数亿美元。由于涉及未公开信息，这些人士要求匿名。 知情人士称，该公司 最早可能于明年上市 。不过，相关讨论仍在进行中，IPO规模和时间等细节都可能发生变化。松延动力未回应彭博社置评请求。 据媒体报道，今年三月， 松延动力 宣布完成B轮融资，规模累计近10亿元。 至此，该公司已完成9轮融资并已完成股份制改革。该公司B轮融资领投方为 宁德时代系产业投资平台晨道资本 ，国科投资、京国盛基金、九",
-     "source": "智东西",
-     "zh": "宁德时代投的北京机器人创企，秘密递表港交所"
-    },
-    {
      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
      "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
      "pubDate": "Fri, 23 Oct 2026 06:05:10 +0000",
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+     "link": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+     "pubDate": "Sat, 24 Oct 2026 00:00:00 +0000",
+     "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Arm Comments on Jury Decision in Qualcomm Trial"
+    },
     {
      "title": "From Chip Lab to Center Stage",
      "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
-    },
-    {
-     "title": "Chip Scaling Moves Beyond The Transistor",
-     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
-     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Chip Scaling Moves Beyond The Transistor"
     }
    ]
   },
@@ -1754,52 +1754,116 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走",
-     "link": "https://www.ithome.com/1/017/290.htm",
-     "pubDate": "Fri, 23 Oct 2026 23:37:18 GMT",
-     "summary": "IT之家 10 月 24 日消息，据《商业内幕》报道，谷歌 CEO 桑达尔 · 皮查伊认为， 距离 AI 能够完全自主地改进自身，还有很长的路要走 。 皮查伊透露，谷歌研究人员开始使用 AI 智能体辅助开发模型，但技术仍处于起步阶段。“我们距离递归自我改进（RSI）的最终形态还很远。准确地说，在模型研发的各个环节，AI 研究人员已经开始与自我改进循环协同工作。可以说，AI 智能体正以一定程度的自动化方式协助研究人员，共同开发模型。” 皮查伊预计，明年还将看到进一步进展。 谷歌联合创始人谢尔盖 · 布林本月早些时候曾谈到，公司的 Flash 系列模型和 Gemini 4 已展现出 AI 参与自身",
+     "title": "苹果首款折叠 iPhone Duo 开售首日，部分用户反馈屏幕问题",
+     "link": "https://www.ithome.com/1/017/299.htm",
+     "pubDate": "Sat, 24 Oct 2026 00:32:35 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 Cult of Mac 今天（10 月 24 日）发布博文，报道称苹果首款折叠 iPhone Duo 开售首日（昨日 10 月 23 日） ，在社交媒体上就开始流传多张内屏出现裂纹的照片。 据报道，裂纹多沿折叠线向屏幕中心延伸，并向右侧边缘出现一排疑似坏点，损坏形态较为相似。 一名澳大利亚用户称，手机在折叠不到 20 次后，内屏沿铰链处发出“咔嚓”声并出现裂纹；其表示屏幕表面和外部铰链均未见明显撞击或异物损伤痕迹。另有用户称，部分演示机也在同一位置出现损坏。 网友 u/Bitter_Offer7123 昨日在 Reddit 社区发帖，分享了一张图片，",
      "source": "IT之家",
-     "zh": "谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走"
+     "zh": "苹果首款折叠 iPhone Duo 开售首日，部分用户反馈屏幕问题"
     },
     {
-     "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
-     "link": "https://www.ithome.com/1/017/289.htm",
-     "pubDate": "Fri, 23 Oct 2026 23:33:53 GMT",
-     "summary": "IT之家 10 月 24 日消息，OpenAI 昨日（10 月 23 日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境， 已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网。 该公司称出于对 AI 安全的负责任要求，基于当前对齐研究、监测能力和互联网基础设施安全状况做出的决策，相关限制将持续到安全防护取得足够进展为止。 OpenAI 的一款内部研究模型于 9 月 20 日利用 DNS 配置漏洞，在训练过程中短暂获得有限的互联网访问权限，因此该公司于 9 月还一度暂停训练与评估前沿模型。 OpenAI 随后加强了研究环境隔离、缩小智能体可利用的攻击面，并改进了异常行为检",
-     "source": "IT之家",
-     "zh": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击"
+     "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
+     "link": "https://www.techmeme.com/261023/p25#a261023p25",
+     "pubDate": "Fri, 23 Oct 2026 20:30:01 -0400",
+     "summary": "OpenAI : OpenAI says it built an &ldquo;offline world&rdquo; from cached web content to train isolated frontier models to browse, search for information, and use web apps &nbsp; &mdash;&nbsp; In order to work with software, AI models need computing environments: digital workspaces where they can wri",
+     "source": "Techmeme",
+     "zh": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)"
     },
     {
-     "title": "支付宝官宣适配 iPhone Duo 全场景，支持页面布局自动调整等特性",
-     "link": "https://www.ithome.com/1/017/288.htm",
-     "pubDate": "Fri, 23 Oct 2026 23:33:19 GMT",
-     "summary": "IT之家 10 月 24 日消息，支付宝官方昨晚发文宣布， 已适配 iPhone Duo 。 据介绍，在 iPhone Duo 上升级支付宝 App 至最新 12.12.38 版本支持如下功能： 1、 底部栏： 液态玻璃效果，界面通透，展示新体验。 2、 适配全场景： 内屏外屏、横屏竖屏等各种使用方式，页面布局自动调整。 支付宝官方表示：“支付宝适配 iPhone Duo 的每一种生活姿态：展开，生活尽收眼底；折起，钱包随身而行。” 关于更多 iPhone Duo 的最新消息，小伙伴们可以参考IT之家的首发上手体验视频了解更多。 点击关注IT之家B站账号 延伸阅读 iPhone Duo 是苹果",
-     "source": "IT之家",
-     "zh": "支付宝官宣适配 iPhone Duo 全场景，支持页面布局自动调整等特性"
+     "title": "188天就退场，大厂AI 产品正在加速洗牌",
+     "link": "https://www.tmtpost.com/8179714.html",
+     "pubDate": "Sat, 24 Oct 2026 08:26:00 +0800",
+     "summary": "八家公司、十条赛道，一边密集上新，一边整合与退场。",
+     "source": "钛媒体",
+     "zh": "188天就退场，大厂AI 产品正在加速洗牌"
     },
     {
-     "title": "“行为难以预测”存在安全隐患，OpenAI 将不再在实时互联网上训练模型",
-     "link": "https://www.ithome.com/1/017/287.htm",
-     "pubDate": "Fri, 23 Oct 2026 23:25:11 GMT",
-     "summary": "IT之家 10 月 24 日消息，当地时间 23 日，OpenAI 宣布，今后将使用 缓存的网页内容和模拟互联网环境 训练模型，不再让模型直接接入真实互联网。公司认为，模型的行为仍然难以预测，直接赋予联网权限 存在安全隐患 。 竞争对手 Anthropic 两周前也开始限制旗下最新、理论上能力最强的模型直接联网。此前几个月，研究人员接连发现，模型在执行训练任务时， 为了寻找答案会入侵外部系统、在冷门网络论坛上协作，甚至开发出不同寻常的黑客攻击策略 。接连发生的事件促使两家实验室收紧模型的联网权限。 OpenAI 在博客文章中写道，根据目前 AI 对齐研究、监控系统和互联网基础设施的安全状况，公",
+     "title": "央视新闻谈 AI 魔改视频和二创区别：问题关键在“魔”，消解经典的同时也伤害文化根本",
+     "link": "https://www.ithome.com/1/017/298.htm",
+     "pubDate": "Sat, 24 Oct 2026 00:24:31 GMT",
+     "summary": "IT之家 10 月 24 日消息，据央视新闻今早报道，日前，部分重点网络视听平台公布了“AI 魔改”视频专项治理工作 9 月的处置情况， 共清理违规视频近 13000 条、处置违规账号 30 余个 。 央视新闻在报道中谈及了 AI 魔改视频和二创区别，称“AI 魔改”问题不在 AI 也不在二创，关键在“魔”： 优秀的“二创”作品基于对原著的了解与喜爱。经过观众和时间检验，融入大众文化，拥有忠实拥趸，既映射特定时代的精神面貌，也承载读者和观众的集体记忆。 “AI 魔改”视频则是“辣眼睛”“毁童年”，消解经典的同时，经典承载的精神也会被人渐渐轻视，伤害文化根本。在法律层面，“AI 魔改”视频还可能",
      "source": "IT之家",
-     "zh": "“行为难以预测”存在安全隐患，OpenAI 将不再在实时互联网上训练模型"
+     "zh": "央视新闻谈 AI 魔改视频和二创区别：问题关键在“魔”，消解经典的同时也伤害文化根本"
     },
     {
-     "title": "雷军官宣小米纽北 Workshop 启用，胡峥楠现场实拍曝光全新一代 SU7 Ultra",
-     "link": "https://www.ithome.com/1/017/286.htm",
-     "pubDate": "Fri, 23 Oct 2026 23:21:16 GMT",
-     "summary": "IT之家 10 月 24 日消息，小米创办人、董事长兼 CEO 雷军昨日转发了小米集团副总裁、汽车部 CTO 胡峥楠的微博， 并宣布小米纽北 Workshop 已经启用 。 据胡峥楠介绍，小米在纽北刚启用不久的 Workshop 位于 GT 赛道旁，比之前租用附近的 Workshop 面积大了不少，设施也完全鸟枪换炮，员工的办公工作条件也大为改善，有了自己的停车场、快充站、进入赛道的专用入口、给车手的浴室等， 最意外的是还有专属的观赛 VIP Lounge 。 IT之家注意到，在胡峥楠分享的照片中，还出现了一款与 SU7 Ultra 外观相似的神秘新车，目前还贴有伪装车衣， 预计就是全新一代的",
-     "source": "IT之家",
-     "zh": "雷军官宣小米纽北 Workshop 启用，胡峥楠现场实拍曝光全新一代 SU7 Ultra"
+     "title": "华人天才，霸榜硅谷科技圈",
+     "link": "https://www.tmtpost.com/8179706.html",
+     "pubDate": "Sat, 24 Oct 2026 08:20:00 +0800",
+     "summary": "十年前挤在HRT实习，如今这群华人天才坐上了硅谷牌桌。",
+     "source": "钛媒体",
+     "zh": "华人天才，霸榜硅谷科技圈"
     },
     {
-     "title": "美国宇航局调整载人登月方案：SpaceX 星舰改在地球附近对接，蓝色起源减少加注环节",
-     "link": "https://www.ithome.com/1/017/285.htm",
-     "pubDate": "Fri, 23 Oct 2026 23:20:17 GMT",
-     "summary": "IT之家 10 月 24 日消息，科技媒体 Ars Technica 今天（10 月 24 日）发布博文，报道称在当地时间 23 日周五举办的新闻发布会上，美国国家航空航天局（NASA）公布“阿耳忒弥斯”（Artemis）登月计划调整方案， 仍争取于 2027 年夏季开展近地对接演示，并在 2028 年通过“阿耳忒弥斯 4 号”（Artemis 4）任务实现载人登月。 IT之家援引博文介绍，本次“阿耳忒弥斯”登月计划任务调整的核心是“减负”，美国宇航局不再要求 SpaceX 和蓝色起源两家登月器供应商严格遵循同一套会合路线，通过分别修改两家供应商的任务流程，争取让“阿耳忒弥斯 3 号”在 20",
+     "title": "苹果回应 iPhone Duo 外屏“ Safari 控件抢地盘”问题：正研究修复方案",
+     "link": "https://www.ithome.com/1/017/297.htm",
+     "pubDate": "Sat, 24 Oct 2026 00:19:42 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在最新 WebKit 博文中，苹果公司已着手针对其首款折叠 iPhone Duo 机型， 解决外屏 Safari 控件太占地方，导致网页内容“太挤”的问题。 在 iPhone Duo 发售之后，部分用户发现在外屏上，Safari 浏览器的网页可用空间明显偏小。原因在于 Safari 将刷新、地址栏等控件右对齐放置，占用了外屏的较大区域，导致网页正文和图片被压缩，浏览体验不如展开后的内屏。多家媒体在评测中也指出，现有网页尚未针对这种特殊屏幕形态充分优化。IT之家附上相关图片如下： 在介绍 Saf",
      "source": "IT之家",
-     "zh": "美国宇航局调整载人登月方案：SpaceX 星舰改在地球附近对接，蓝色起源减少加注环节"
+     "zh": "苹果回应 iPhone Duo 外屏“ Safari 控件抢地盘”问题：正研究修复方案"
+    },
+    {
+     "title": "阿尔法 · 罗密欧首席设计师罗马诺斯：车载大屏几年后就会过时",
+     "link": "https://www.ithome.com/1/017/296.htm",
+     "pubDate": "Sat, 24 Oct 2026 00:17:03 GMT",
+     "summary": "IT之家 10 月 24 日消息，当地时间 23 日，据英媒 Autocar 报道，阿尔法 · 罗密欧希望通过 Cuorerosso 概念车，摆脱汽车行业不断比拼屏幕大小的风气。该车首席设计师认为，车企没有必要为了更大的屏幕而牺牲内饰设计。 Cuorerosso 于上周的巴黎车展首次亮相，采用溜背式车身设计，展示了家族下一代车型的设计思路。其中一项重要变化，就是简化座舱布局，减少屏幕在内饰中的占比。 在接受采访时，阿尔法 · 罗密欧首席设计师亚历杭德罗 · 梅索内罗-罗马诺斯直言不讳。“ 不如把屏幕都去掉 。我们追求的是留白，坐在车里看看屏幕还不错， 但开车时有没有必要看那么多屏幕，我是怀疑的",
+     "source": "IT之家",
+     "zh": "阿尔法 · 罗密欧首席设计师罗马诺斯：车载大屏几年后就会过时"
+    },
+    {
+     "title": "华为官宣 Mate 90 系列手机上线全新睿影 XMAGE 影像服务，图库升级支持 AI 一键成片等功能",
+     "link": "https://www.ithome.com/1/017/295.htm",
+     "pubDate": "Sat, 24 Oct 2026 00:14:26 GMT",
+     "summary": "IT之家 10 月 24 日消息，华为官方昨日宣布， Mate 90 系列手机上线全新睿影 XMAGE 影像服务 ，宣称“人像柔光更出彩”。另外，新机图库升级，小艺 · 图库助手 新增支持智慧修图、AI 一键成片及 3D 动态照片等功能 。 据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）； 逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050 Pro（M",
+     "source": "IT之家",
+     "zh": "华为官宣 Mate 90 系列手机上线全新睿影 XMAGE 影像服务，图库升级支持 AI 一键成片等功能"
+    },
+    {
+     "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+     "link": "https://www.tmtpost.com/8179692.html",
+     "pubDate": "Sat, 24 Oct 2026 08:14:00 +0800",
+     "summary": "当模型进化到普通人难以感受到它的进化。",
+     "source": "钛媒体",
+     "zh": "Agent、机器人与制药，谁先被GPT-6 Astra改写？"
+    },
+    {
+     "title": "三年连亏、投资为零，“PE第一股”为何熄火了？",
+     "link": "https://www.tmtpost.com/8179691.html",
+     "pubDate": "Sat, 24 Oct 2026 08:09:00 +0800",
+     "summary": "九鼎投资正在经历最漫长的退潮。",
+     "source": "钛媒体",
+     "zh": "三年连亏、投资为零，“PE第一股”为何熄火了？"
+    },
+    {
+     "title": "扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单",
+     "link": "https://www.ithome.com/1/017/294.htm",
+     "pubDate": "Sat, 24 Oct 2026 00:08:21 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 axios 昨日（10 月 23 日）发布博文，报道称马克 · 扎克伯格的 Meta Platforms 公司已收购 AI 数据分析平台 Sundial，而该平台由两名前 Meta 员工创立。 值得注意的是，Sundial 的两位联合创始人均是 Meta（前 Facebook）的资深旧部：首席执行官 Julie Zhuo 曾任 Meta 产品设计副总裁，Chandra Narayanan 则曾担任 Instagram 及红杉资本的数据分析主管。 Sundial 的核心能力，是让企业通过聊天机器人插件，用自然语言向复杂数据提问，并快速获得可执行的分析结",
+     "source": "IT之家",
+     "zh": "扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单"
+    },
+    {
+     "title": "学历这场庞氏游戏，走到了最后一棒",
+     "link": "https://www.huxiu.com/article/4900074.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 08:03:54 +0800",
+     "summary": "本文来自微信公众号： 格致君 ，作者：格致君的后花园 最近看到一张截图，是上海中学今年的一则拟聘人员公示。其中清北博士赫然在列，让很多网友大呼学历贬值。 不过单看这件事，其实不足为奇。上海中学本来就是上海的顶尖名校，位列“四校”之首，竞赛成绩全国领先。 只是在经济上行期，清北博士或许会选择更“进击”一些的职业道路，比如外企、大厂这类收入上限更高的机会。而在稳定性压倒一切的当下，顶尖中学的一份“铁饭碗”显然更具竞争力。 同样是在10月，国家统计局发布了《2026年前三季度居民收入和消费支出情况》。前三季度，全国居民人均可支配收入34230元，全国居民人均可支配收入中位数28388元，增长4.6%",
+     "source": "虎嗅",
+     "zh": "学历这场庞氏游戏，走到了最后一棒"
+    },
+    {
+     "title": "上海公立大三甲医院也缺患者了",
+     "link": "https://www.huxiu.com/article/4900072.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 07:43:03 +0800",
+     "summary": "本文来自微信公众号： 林掌柜 ，作者：林掌柜 大家好，我是林掌柜。 公立大三甲医院，似乎从来不缺患者，更何况是在医疗高地的上海。 然而，自新冠疫情发生以来，上海公立大三甲医院甚至头部医院也开始缺患者了。 这与绝大多数人的传统认知和现实体验都不契合。上海大多数公立三甲医院一直不都是人满为患吗？ 相关部门每年统计的门诊量、住院量乃至营业收入也多数都是增长的，怎么可能会缺患者？ 这年头，地主家也没余粮啊！ 且不说曙光、岳阳、国妇婴等公立三甲医院近年确实收入下降了。 头部公立三甲医院即便业务收入仍保持上升态势，但收入增速已开始放缓，收入结构都不太乐观。 他们的共性痛点是缺高质量的患者。何为高质量？ 能",
+     "source": "虎嗅",
+     "zh": "上海公立大三甲医院也缺患者了"
+    },
+    {
+     "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+     "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+     "pubDate": "Fri, 23 Oct 2026 23:30:17 +0000",
+     "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8 Comments",
+     "source": "Hacker News",
+     "zh": "Evolving Threat: http2shell is an RCE in node, Python, and more"
     },
     {
      "title": "巨头们的新战役：抬高AI制药，抢占AI4S",
@@ -1853,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "German court calls Google aerial imagery 'spying'",
      "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
      "pubDate": "Fri, 23 Oct 2026 22:18:49 +0000",
-     "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 8 # Comments: 1",
+     "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 23 # Comments: 7",
      "source": "Hacker News",
      "zh": "German court calls Google aerial imagery 'spying'"
     },
@@ -1869,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "CVE Tracker",
      "link": "https://cve.0xosprey.com/",
      "pubDate": "Fri, 23 Oct 2026 21:21:47 +0000",
-     "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 59 # Comments: 6",
+     "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 82 # Comments: 23",
      "source": "Hacker News",
      "zh": "CVE Tracker"
     },
@@ -1893,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "No Source Code? No Problem",
      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
      "pubDate": "Fri, 23 Oct 2026 20:38:06 +0000",
-     "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 22 # Comments: 12",
+     "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 28 # Comments: 20",
      "source": "Hacker News",
      "zh": "No Source Code? No Problem"
     },
@@ -1901,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "A whirlwind tour of systemd-nspawn containers",
      "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
      "pubDate": "Fri, 23 Oct 2026 20:37:12 +0000",
-     "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 19 # Comments: 3",
+     "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 28 # Comments: 6",
      "source": "Hacker News",
      "zh": "A whirlwind tour of systemd-nspawn containers"
     },
@@ -1928,70 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Rachel Metz / Bloomberg : OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established &nbsp; &mdash;&nbsp; OpenAI has begun cutting off internet access for its most capable artificial intelligence mode",
      "source": "Techmeme",
      "zh": "OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)"
-    },
-    {
-     "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-     "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-     "pubDate": "Fri, 23 Oct 2026 20:19:55 +0000",
-     "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-     "source": "Ars Technica",
-     "zh": "Updated Google privacy policy says your Gmail might be used for advertising"
-    },
-    {
-     "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-     "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-     "pubDate": "Fri, 23 Oct 2026 20:03:14 +0000",
-     "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
-     "source": "TechCrunch",
-     "zh": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now"
-    },
-    {
-     "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-     "link": "https://corgi.computer/",
-     "pubDate": "Fri, 23 Oct 2026 19:46:38 +0000",
-     "summary": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their ac",
-     "source": "Hacker News",
-     "zh": "Show HN: Corgi, a helpful {agent, terminal} multiplexer"
-    },
-    {
-     "title": "Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro \"to reduce potential misuse risk while preserving general usefulness\" (Matthias Bastian/The Decoder)",
-     "link": "https://www.techmeme.com/261023/p19#a261023p19",
-     "pubDate": "Fri, 23 Oct 2026 15:35:02 -0400",
-     "summary": "Matthias Bastian / The Decoder : Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro &ldquo;to reduce potential misuse risk while preserving general usefulness&rdquo; &nbsp; &mdash;&nbsp; Key Points &hellip; Ask about this article...&nbsp; The model scores 55 points on",
-     "source": "Techmeme",
-     "zh": "Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro \"to reduce potential misuse risk while preserving general usefulness\" (Matthias Bastian/The Decoder)"
-    },
-    {
-     "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
-     "link": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
-     "pubDate": "Fri, 23 Oct 2026 19:33:58 +0000",
-     "summary": "Space Force considering options: public-private, federal installation, state land.",
-     "source": "Ars Technica",
-     "zh": "Inside the Pentagon, the pressure is on to find a home for a new spaceport"
-    },
-    {
-     "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-     "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-     "pubDate": "Fri, 23 Oct 2026 19:25:13 +0000",
-     "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-     "source": "TechCrunch",
-     "zh": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early"
-    },
-    {
-     "title": "Spotify ramps up policy enforcement on family plans",
-     "link": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
-     "pubDate": "Fri, 23 Oct 2026 19:20:27 +0000",
-     "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
-     "source": "Ars Technica",
-     "zh": "Spotify ramps up policy enforcement on family plans"
-    },
-    {
-     "title": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
-     "link": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/",
-     "pubDate": "Fri, 23 Oct 2026 18:27:32 +0000",
-     "summary": "The brand’s lovely selection of hand-knotted and handwoven wool rugs at reasonable prices make it a WIRED-staff favorite.",
-     "source": "WIRED",
-     "zh": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
+     "link": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
+     "pubDate": "Fri, 23 Oct 2026 23:50:49 +0000",
+     "summary": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display"
+    },
     {
      "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
      "link": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
@@ -2162,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung extends its Certified Re-Newed program to Amazon US"
     },
     {
-     "title": "watchOS 27.2 gets new RC ahead of next week’s launch",
-     "link": "https://9to5mac.com/2026/10/23/watchos-27-2-gets-new-rc-ahead-of-next-weeks-launch/",
-     "pubDate": "Fri, 23 Oct 2026 19:19:09 +0000",
-     "summary": "Apple has just released a second RC (release candidate) build of watchOS 27.2 for testing. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "watchOS 27.2 gets new RC ahead of next week’s launch"
-    },
-    {
      "title": "Counterpoint: Global PC shipments were down 21% in Q3",
      "link": "https://www.gsmarena.com/counterpoint_global_pc_shipments_were_down_21_in_q3-news-75193.php",
      "pubDate": "Fri, 23 Oct 2026 19:49:03 +0200",
@@ -2250,52 +2250,116 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "美军“钢铁之墙”满百日，布油冲破115美元，石油石化景气成色如何（附股）",
-     "link": "http://finance.eastmoney.com/news/1354,202610243906861723.html",
-     "pubDate": "Sat, 24 Oct 2026 07:30:13 +0800",
-     "summary": "美军\" 钢铁 之墙\"满百日，布油冲破115美元， 石油石化 景气成色如何（附股） 中东局势持续紧张，美国中央司令部10月23日表示对伊朗\" 钢铁 之墙\"海上封锁已满100天，累计阻止伊朗出口至少250亿美元原油。供应中断担忧推动国际油价走高，布伦特原油主力合约10月23日升至每桶117.38美元，纽约WTI原油主力合约升至每桶103.44美元。海外能源龙头率先反应——美东时间周五， 埃克森美孚 涨2.79%、 雪佛龙 涨2.88%，股价双双创 历史新高 。 事件驱动：地缘溢价叠加低库存 本轮油价上涨的核心逻辑是\"地缘溢价＋低库存\"的双重支撑。 供应端扰动持续升级：也门胡塞武装称过去48小时袭击",
+     "title": "霍尔木兹海峡突发！两艘超级油轮，起火爆炸",
+     "link": "http://finance.eastmoney.com/news/1356,202610243907033872.html",
+     "pubDate": "Sat, 24 Oct 2026 08:21:18 +0800",
+     "summary": "当地时间23日，伊朗伊斯兰革命卫队海军宣布，当天早些时候，两艘试图非法穿越霍尔木兹海峡南部的超级油轮触雷。爆炸和大火导致其机舱瘫痪，并停泊在原地。这两艘油轮共载有超过450万桶原油，触雷后被遗弃在霍尔木兹海峡南部，船员弃船逃生。 （文章来源：央视财经）",
      "source": "东方财富股票",
-     "zh": "美军“钢铁之墙”满百日，布油冲破115美元，石油石化景气成色如何（附股）"
+     "zh": "霍尔木兹海峡突发！两艘超级油轮，起火爆炸"
     },
     {
-     "title": "AI算力需求驱动 PCB产业链盈利弹性释放",
-     "link": "http://finance.eastmoney.com/news/1354,202610243906814932.html",
-     "pubDate": "Sat, 24 Oct 2026 07:29:03 +0800",
-     "summary": "AI算力基础设施投资持续升温， PCB （ 印制电路板 ）产业链迎来业绩兑现期。 据Wind数据统计，已披露三季报的11家 PCB 及上游材料企业，前三季度合计实现营业收入616.74亿元，同比增长38.50%；归母净利润66.90亿元，同比增长88.83%；其中9家利润增速超过营收。 中富电路 、 四会富仕 等公司盈利加速释放。 从服务器主板到电源板，从 PCB 制造到覆 铜 板材 料，AI算力需求正沿产业链传导。产品结构优化与高端产品占比提升、产能爬坡，成为盈利增长的重要支撑。 利润增速普遍跑赢营收 随着三季报陆续披露，PCB产业链企业的盈利弹性逐步显现。 中富电路 今年前三季度实现营业收",
+     "title": "美国调整对加拿大商品加征关税适用范围",
+     "link": "http://global.eastmoney.com/news/1959,202610243907034027.html",
+     "pubDate": "Sat, 24 Oct 2026 08:17:33 +0800",
+     "summary": "白宫23日发布公告说，美国总统特朗普当日签署文件，调整对加拿大商品加征关税适用范围，相关调整将从美东时间10月30日开始生效。 根据白宫发布的信息，相关调整依据《斯穆特-霍利关税法》第338条款作出，胶合板、漂白纸、纸板、 塑料 箱盒等商品将不再被额外征收50%的从价关税，而阀门、地毯等商品将被加征50%的从价关税。 多家外媒分析，豁免加征关税的加拿大商品对美国缅因州至关重要，特朗普在国会中期选举压力下作出上述调整，旨在帮助共和党参议员苏珊·柯林斯在缅因州激烈的连任选战中争取支持。 特朗普7月20日签署多个公告，依据《斯穆特-霍利关税法》第338条款对从加拿大进口的红酒、曲棍球棒和 水泥 等数",
      "source": "东方财富股票",
-     "zh": "AI算力需求驱动 PCB产业链盈利弹性释放"
+     "zh": "美国调整对加拿大商品加征关税适用范围"
     },
     {
-     "title": "QFII三季度持股动向曝光 业绩报喜股受追捧",
-     "link": "http://finance.eastmoney.com/news/1354,202610243906815078.html",
-     "pubDate": "Sat, 24 Oct 2026 07:28:06 +0800",
-     "summary": "随着2026年三季报的陆续披露，被视为A股市场外资重要组成部分之一的QFII（合格境外机构投资者）三季度的持仓动向也部分浮出水面。 根据Wind数据，截至发稿，已披露2026年三季报的公司中，三季度末前十大股东或前十大流通股东中存在QFII持股的A股上市公司数量已超过160家。随着三季报进入更密集披露期，相关名单预计会进一步拉长。 作为A股市场重要的QFII机构之一， 高盛 三季度对一些A股上市公司股票的增持尤为明显。比如 集泰股份 近日披露的2026年三季报显示，截至三季度末， 高盛 持有 集泰股份 约896.78万股，而在二季度末， 高盛 持有 集泰股份 约169.65万股，这意味着在今年",
+     "title": "国际油价飙涨近4%，布油创7个月新高；现货黄金跌穿4000美元；比特币跌破81000美元；特朗普：可能对伊发动小规模“史诗怒火”行动",
+     "link": "http://finance.eastmoney.com/news/1356,202610243907033012.html",
+     "pubDate": "Sat, 24 Oct 2026 08:17:00 +0800",
+     "summary": "10月23日，国际油价飙涨，纽约期油结算价为103.27美元/桶，涨幅3.82%，本周累计上涨超过4.3%。布伦特原油 期货 结算价为116.72美元/每桶，上涨3.55美元，涨幅3.14%，创7个月来新高，本周累计上涨超过6.2%。 黄金 白银 下挫，现货 黄金 收盘再度跌穿4000美元关口，最新报3997.79美元/盎司，现货 白银 跌超1%，最新报53.91美元/盎司。 COMEX 黄金 期货 收跌1.24%，报4010美元/盎司，本周累计下跌4.22%；COMEX 白银 期货 下跌1.9%，报53.96美元/盎司，本周累计下跌5.56%。 加密货币主要币种下跌，比特币跌0.44%跌破8",
      "source": "东方财富股票",
-     "zh": "QFII三季度持股动向曝光 业绩报喜股受追捧"
+     "zh": "国际油价飙涨近4%，布油创7个月新高；现货黄金跌穿4000美元；比特币跌破81000美元；特朗普：可能对伊发动小规模“史诗怒火”行动"
     },
     {
-     "title": "产业资本积极布局 北交所上市公司增持回购升温",
-     "link": "http://finance.eastmoney.com/news/1354,202610243906815341.html",
-     "pubDate": "Sat, 24 Oct 2026 07:27:08 +0800",
-     "summary": "近期产业资本频频出手，北交所上市公司增持回购明显升温。 日前， 锦波生物 公告，战略投资人养生堂通过集中竞价首次增持公司股份。此前其已承诺18个月内累计增持不低于10亿元，成为北交所年内规模最大的增持承诺之一。养生堂的实控人为 农夫山泉 创始人钟睒睒，其持有养生堂98.38%股权。与此同时，多家北交所公司回购公告同步出炉，回购预案金额与实际回购规模双双创出近年新高，形成股东增持、公司回购双向发力的格局。 作为北交所人源化胶原蛋白龙头， 锦波生物 是本轮增持中最具代表性的案例，该股股价本周累计涨幅达18%。 10月20日， 锦波生物 公告披露，养生堂已于10月19日完成首次二级市场增持，成交价格",
+     "title": "谋划158个重大水网项目 “荆楚安澜”现代水网骨架2030年基本形成",
+     "link": "http://finance.eastmoney.com/news/1355,202610243907032728.html",
+     "pubDate": "Sat, 24 Oct 2026 08:17:00 +0800",
+     "summary": "据湖北日报，10月23日，省政府新闻办“十五五”省级专项规划解读系列新闻发布会首场活动举行，解读《湖北省水安全保障“十五五”规划》。这份规划勾勒出未来五年治水的路线图、施工图：全省谋划重大水网项目158个，总投资7800亿元，“十五五”时期计划完成投资3500亿元。分“十五五”“十六五”两个阶段，构建“三江多支贯通、百库千湖联调”的现代水网，到2030年，“荆楚安澜”现代水网主骨架基本形成，力争2035年基本建成安全韧性现代水网。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "产业资本积极布局 北交所上市公司增持回购升温"
+     "zh": "谋划158个重大水网项目 “荆楚安澜”现代水网骨架2030年基本形成"
     },
     {
-     "title": "三季报密集披露 医药企业获机构扎堆调研",
-     "link": "http://finance.eastmoney.com/news/1354,202610243906815218.html",
-     "pubDate": "Sat, 24 Oct 2026 07:26:09 +0800",
-     "summary": "随着三季报密集发布，机构集中调研热情显著升温。本周（10月19日—23日）A股共有148家上市公司接受机构投资者调研，从赚钱效应来看，约四成机构调研股实现正收益。其中 润建股份 、 乐鑫科技 涨超30%， 移远通信 涨超20%， 南方路机 、 密尔克卫 、 国机精工 、 三一重能 、 石头科技 涨超10%。 热门调研标的方面，本周共有9家上市公司接受百家以上机构调研， 华盛昌 接受243家机构调研， 普洛药业 、 国际医学 接受150家以上机构调研， 迈普医学 、 锐捷网络 、 华测检测 、 艾迪精密 、 金田股份 等公司接受100家以上机构调研。 华盛昌 ：光 通信 子公司产能 与交付效率快",
+     "title": "美股三大指数全线收跌，存储芯片股走势分化，SK海力士涨超4%，希捷科技、闪迪跌近2%；半导体多数收涨，高通、英特尔涨超1%",
+     "link": "http://stock.eastmoney.com/news/11228,202610243907034326.html",
+     "pubDate": "Sat, 24 Oct 2026 08:12:57 +0800",
+     "summary": "美东时间10月23日，美股三大指数全线收跌。截至收盘，道指下跌652.82点收于52215.16点，跌幅为1.23%，纳指跌0.21%报25955.34点，标普500指数跌0.52%报7623.68点。 大型科技股多数收跌， 微软 涨0.66%， 苹果 跌0.14%， 英伟达 跌0.59%， 特斯拉 跌0.63%， 亚马逊 跌0.95%，脸书跌0.96%，谷歌跌1.24%。 存储芯片 股走势分化， SK海力士 涨超4%， 美光科技 涨超2%， 西部数据 跌近3%， 希捷科技 、 闪迪 跌近2%。 半导体 股多数收涨， 高通 涨1.78%， 超威半导体 涨1.74%， 英特尔 涨1.72%， 台",
      "source": "东方财富股票",
-     "zh": "三季报密集披露 医药企业获机构扎堆调研"
+     "zh": "美股三大指数全线收跌，存储芯片股走势分化，SK海力士涨超4%，希捷科技、闪迪跌近2%；半导体多数收涨，高通、英特尔涨超1%"
     },
     {
-     "title": "多家知名私募产品回撤",
-     "link": "http://fund.eastmoney.com/news/1623,202610243906861184.html",
-     "pubDate": "Sat, 24 Oct 2026 07:25:53 +0800",
-     "summary": "近期，前期炙手可热的科技赛道迎来调整，重仓科技股的股票私募随之陷入净值阵痛。 券商中国记者 综合 多方信息发现，在板块加速调整行情下，部分押注AI、 半导体 产业链的私募产品深度回撤，有些自高点下跌已超40%。 不少管理人坦言，本轮调整来得迅猛，持仓集中、风格押注的产品受冲击最甚，私募圈围绕“是短期交易出清还是主线逻辑动摇”的讨论持续升温。 知名私募产品回撤 7月以来，受外部输入性风险影响，国内股市震荡调整，科技板块显著回撤。一些专注科技成长类风格的股票私募，业绩遭遇滑铁卢，年内收益转负。 渠道数据显示，上周（10月12—10月16日），不少知名主观私募产品再度出现较大回撤。其中，上海领久私募",
+     "title": "JetBlue creditors hire restructuring advisors as bonds, stock drops - WSJ",
+     "link": "https://seekingalpha.com/news/4656894-jetblue-creditors-hire-restructuring-advisors-as-bonds-stock-drops---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 20:12:42 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "JetBlue creditors hire restructuring advisors as bonds, stock drops - WSJ"
+    },
+    {
+     "title": "三季报落地日，中期分红扎堆推出，隆鑫通用等多家公司拟派现",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907032568.html",
+     "pubDate": "Sat, 24 Oct 2026 08:12:27 +0800",
+     "summary": "10月23日盘后，多家上市公司披露2026年中期分红方案或预案。 其中， 隆鑫通用 （603766.SH）拟每10股派2.5元，合计5.13亿元，占前三季度归母净利润的33.27%， 博隆技术 （603325.SH）拟每10股派2元。 九州通 首启中期分红 九州通 （600998.SH）拟每10股派现1元（含税），按扣除回购专户后的股本测算合计分配4.99亿元，占前三季度归母净利润的29.64%。这是公司首次推出中期分红。 公司前三季度营业收入1294.45亿元，同比增长8.48%，归母净利润16.82亿元，同比下降14.85%。 昊帆生物 派现比例较去年中期提高 昊帆生物 （301393.S",
      "source": "东方财富股票",
-     "zh": "多家知名私募产品回撤"
+     "zh": "三季报落地日，中期分红扎堆推出，隆鑫通用等多家公司拟派现"
+    },
+    {
+     "title": "美伊“风向”生变？特朗普暗示或再打击伊朗 美方已做好长期对峙准备！",
+     "link": "http://futures.eastmoney.com/news/1765,202610243907032279.html",
+     "pubDate": "Sat, 24 Oct 2026 08:11:09 +0800",
+     "summary": "尽管美国总统特朗普此前表示，在中期选举前不会对伊朗发动袭击，但双方火药味浓重，这场旷日持久的战争仍存重大不确定性。 综合 央视新闻等媒体报道，特朗普当地时间周五（23日）表示，随着战争接近第八个月，且燃料价格上涨对美国中期选举造成影响，华盛顿可能再次对伊朗发动军事行动。 “我们可能会再进行一次小小的‘史诗怒火’行动，” 特朗普在佛罗里达州的一场集会上谈及战争时表示，但他未作进一步说明。“史诗怒火行动”是美国军方对伊朗战争的名称。 他进一步补充称，又或者伊朗会选择妥协。如果伊朗足够聪明，就会直接说：“咱们来谈正事吧。” 特朗普此前曾多次调整战争目标和时间表，本月早些时候他表示，在国会中期选举前，",
+     "source": "东方财富资讯",
+     "zh": "美伊“风向”生变？特朗普暗示或再打击伊朗 美方已做好长期对峙准备！"
+    },
+    {
+     "title": "千亿分红到账 银行股成色等待三季报检验",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906751488.html",
+     "pubDate": "Sat, 24 Oct 2026 08:09:19 +0800",
+     "summary": "本周， 工商银行 、 农业银行 同步完成中期现金红利发放，合计派现992.5亿元，其中A股股东对应红利约821亿元，成为下半年A股规模最大的单次 银行 派息。 此前，区域 银行 已先行“暖场”， 江阴银行 、 苏农银行 分别于10月16日、10月22日完成中期派息；随着 平安银行 三季报于10月24日率先亮相， 银行 板块进入“分红兑现”与“业绩验证”叠加的时间窗口。 10月31日，包含六大国有银行在内的18家银行将集中披露三季报。从真金 白银 落袋到基本面数据接棒，银行股正经历从高股息防御资产向高确定性权益资产的重估切换。7月以来板块累计上涨17.7%，10月已有 交通银行 、 工商银行 、",
+     "source": "东方财富资讯",
+     "zh": "千亿分红到账 银行股成色等待三季报检验"
+    },
+    {
+     "title": "年内IPO终止企业超70家 严把准入关 从源头提升上市公司质量",
+     "link": "http://stock.eastmoney.com/news/11215,202610243906821543.html",
+     "pubDate": "Sat, 24 Oct 2026 08:02:00 +0800",
+     "summary": "日前，武汉中科创新技术股份有限公司向上海证券交易所提交申请，撤回科创板发行上市申请文件。万得数据显示，截至10月23日，年内A股IPO（首次公开募股）终止企业已达71家。从终止情况来看，3家企业被终止注册，68家企业为主动撤单。 中国首席经济学家论坛理事陈雳对《证券日报》记者表示，年内71家企业IPO项目终止，是注册制下审核导向深刻转变的体现。通过优化资本市场入口筛选机制，落实从源头提升上市公司质量的改革目标，维护资本市场投融资生态平衡，更好保护投资者合法权益。 年内终止上市申请的71家公司中，上海证券交易所16家（主板6家，科创板10家），深圳证券交易所15家（主板5家，创业板10家），北京",
+     "source": "东方财富资讯",
+     "zh": "年内IPO终止企业超70家 严把准入关 从源头提升上市公司质量"
+    },
+    {
+     "title": "资金借道宽基ETF逆势布局 近20个交易日净流入超2300亿元",
+     "link": "http://stock.eastmoney.com/news/11215,202610243906821644.html",
+     "pubDate": "Sat, 24 Oct 2026 07:59:00 +0800",
+     "summary": "近期，资金借道宽基ETF（交易型开放式指数基金）积极布局A股市场。 万得数据显示，10月22日，全市场宽基ETF单日净流入516.55亿元。将时间拉长至近20个交易日（9月17日至10月22日）来看，股票型ETF累计净流入2496.59亿元，其中宽基ETF净流入2361.41亿元，占比达94.59%。 从具体产品来看，资金主要流向沪深300、科创50、创业板等指数相关ETF。 万得数据显示，9月17日至10月22日，沪深300ETF华泰柏瑞、科创50ETF华夏、创业板ETF易方达分别净流入377.03亿元、354.26亿元和310.07亿元；沪深300ETF易方达、上证50ETF华夏、沪深30",
+     "source": "东方财富资讯",
+     "zh": "资金借道宽基ETF逆势布局 近20个交易日净流入超2300亿元"
+    },
+    {
+     "title": "智能体等应用普及率超90% 适时启动6G商用 国家信息化“十五五”规划释放了哪些信号",
+     "link": "http://finance.eastmoney.com/news/1344,202610243907012127.html",
+     "pubDate": "Sat, 24 Oct 2026 07:55:11 +0800",
+     "summary": "《国家信息化“十五五”规划》印发，系统谋划了“十五五”时期信息化发展的任务书、时间表、路线图。 近日，中央 网络安全 和信息化委员会印发《国家信息化“十五五”规划》（以下简称《规划》），《规划》紧扣《中华人民共和国国民经济和社会发展第十五个五年规划纲要》和网络强国建设有关部署，提出到2030年，我国信息化取得重大进展，在推进中国式现代化中的作用更加凸显。信息基础设施巩固拓展领先优势，陆海空天立体化网络体系基本形成，新一代 通信 网全面建成，适时启动第六代移动 通信 （6G）商用，国家 区块链 网络基本建成，智能互联网加快布局发展。网信科技创新能力显著增强，科技创新体系更加健全，重点领域关键核心",
+     "source": "东方财富资讯",
+     "zh": "智能体等应用普及率超90% 适时启动6G商用 国家信息化“十五五”规划释放了哪些信号"
+    },
+    {
+     "title": "董事长一句话 股票20%涨停！5.5万亿板块迎多重利好",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907031417.html",
+     "pubDate": "Sat, 24 Oct 2026 07:54:08 +0800",
+     "summary": "物理AI已经看到被击穿的苗头， 机器人 板块大幅上涨。 本周五（10月23日），人形 机器人 板块强势反攻，截至收盘，万得人形 机器人 指数涨幅超过6%，位居A股概念板块前列。 板块内多家公司批量涨停， 众诚科技 30%涨停， 宇树科技-W 、 慈星股份 20%涨停，另外， 奥普特 、 豪鹏科技 、 兆威机电 等公司也强势涨停。 多重利好催生反弹 受益于多重利好催化， 人形机器人 板块迎来大幅反弹。 10月22日，在2026世界物理AI大会暨宇树合作伙伴生态大会上，宇树科技董事长、总经理兼首席技术官王兴兴在大会主旨演讲中表示，物理AI目前已经看到被击穿的苗头，很可能就在最近1—2年或者2—3年",
+     "source": "东方财富资讯",
+     "zh": "董事长一句话 股票20%涨停！5.5万亿板块迎多重利好"
+    },
+    {
+     "title": "Instacart gains on report it's in talks to sell itself (update)",
+     "link": "https://seekingalpha.com/news/4656752-instacart-gains-on-report-its-in-talks-to-sell-itself?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 19:47:34 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Instacart gains on report it's in talks to sell itself (update)"
     },
     {
      "title": "Middle East physical oil prices are falling while Brent crude soars to six-month highs",
@@ -2394,30 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Autoliv signals $1.2b operating cash flow and ~10.5% adjusted operating margin for 2026 while cutting CapEx to ~4% of sales"
     },
     {
-     "title": "Primis signals 8%–8.5% year-end balance sheet growth as it targets TCE north of 8.5% in a few quarters",
-     "link": "https://seekingalpha.com/news/4656890-primis-signals-8-percent-8_5-percent-year-end-balance-sheet-growth-as-it-targets-tce-north-of?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 18:18:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Primis signals 8%–8.5% year-end balance sheet growth as it targets TCE north of 8.5% in a few quarters"
-    },
-    {
-     "title": "全球市场：美股三大指数收跌 道指跌超1% 国际油价涨近4%",
-     "link": "http://stock.eastmoney.com/news/11784,202610243906835344.html",
-     "pubDate": "Sat, 24 Oct 2026 06:15:23 +0800",
-     "summary": "美股市场： 美股三大指数10月23日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌652.82点，收于52215.16点，跌幅为1.23%； 标准普尔 500种股票指数下跌39.75点，收于7623.68点，跌幅为0.52%； 纳斯达克 综合 指数下跌53.52点，收于25955.34点，跌幅为0.21%。 本周，道指累涨0.41%，纳指累跌0.71%，标普500指数累跌0.47%。 大型科技股涨跌互现， 微软 涨0.66%，AI云业务持续获资金关注； 苹果 跌0.14%，盘中市值一度超越 英伟达 重回全球第一，收盘回落；谷歌跌1.24%， 亚马逊 跌0.95%，Meta跌0.96",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数收跌 道指跌超1% 国际油价涨近4%"
-    },
-    {
-     "title": "Comfort Systems targets mid-20% same-store revenue growth in 2027 as backlog reaches $17.8B",
-     "link": "https://seekingalpha.com/news/4656888-comfort-systems-targets-midminus-20-percent-same-store-revenue-growth-in-2027-as-backlog?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 18:08:29 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Comfort Systems targets mid-20% same-store revenue growth in 2027 as backlog reaches $17.8B"
-    },
-    {
      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
      "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
      "pubDate": "Fri, 23 Oct 2026 22:00:00 GMT",
@@ -2448,46 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "全球信用市场正在发出逾一年来最强烈的避险信号。科技公司为人工智能建设大举举债的前景，叠加油价上涨与法国政局动荡，共同推动全球企业债利差急剧走阔。 彭博指数数据显示， 全球投资级企业债利差周四飙升至129个基点，创2025年5月以来最宽水平。 与此同时， 追踪美国蓝筹企业债违约保护成本的CDX投资级指数周五升至64个基点，触及3月以来高点。亚洲高评级美元债利差也扩至2025年7月以来最高，波动加剧迫使韩国进出口银行推迟一笔日元债券发行。 市场担忧的核心在于：以Meta为代表的科技巨头正在酝酿史无前例的融资规模， 而AI投资能否及时转化为盈利，仍是未知数。 PGIM Credit美国投资级企业债联",
      "source": "华尔街见闻",
      "zh": "全球投资级企业债利差创一年半新高，AI融资潮冲击信用市场"
-    },
-    {
-     "title": "Trump dropping some Canada tariffs but &apos;replacing&apos; them with other products",
-     "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-     "pubDate": "Fri, 23 Oct 2026 21:26:59 GMT",
-     "summary": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
-     "source": "CNBC",
-     "zh": "Trump dropping some Canada tariffs but &apos;replacing&apos; them with other products"
-    },
-    {
-     "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-     "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 21:13:00 GMT",
-     "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
-     "source": "MarketWatch",
-     "zh": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%."
-    },
-    {
-     "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
-     "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 21:11:00 GMT",
-     "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
-     "source": "MarketWatch",
-     "zh": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean."
-    },
-    {
-     "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-     "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 21:06:00 GMT",
-     "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
-     "source": "MarketWatch",
-     "zh": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term."
-    },
-    {
-     "title": "Xi gathers China’s top cadres with focus on discipline",
-     "link": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1",
-     "pubDate": "Fri, 23 Oct 2026 21:00:09 GMT",
-     "summary": "Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term",
-     "source": "Financial Times",
-     "zh": "Xi gathers China’s top cadres with focus on discipline"
     }
    ]
   },

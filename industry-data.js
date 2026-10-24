@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 19:11:59",
+ "generated_at": "2026/10/24 19:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+     "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+     "pubDate": "Sat, 24 Oct 2026 10:29:31 +0000",
+     "summary": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering ",
+     "source": "MarkTechPost",
+     "zh": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows"
+    },
     {
      "title": "RoboTwin第一、RoboDojo领跑：Physical AI的下一轮Scaling，为什么是Physics？",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069794&idx=1&sn=27a6d06d4f43e6c032d7f79db1222815",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
      "source": "量子位",
      "zh": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径"
-    },
-    {
-     "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
-     "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
-     "pubDate": "Fri, 23 Oct 2026 06:05:10 +0000",
-     "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent ap",
-     "source": "MarkTechPost",
-     "zh": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent"
     }
    ]
   },
@@ -1018,14 +1018,6 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1080,6 +1072,14 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1754,6 +1754,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "戴尔推出“U3226QER”31.5 英寸显示器：4K 120Hz IPS Black 面板、双雷电 4 接口，5199 元",
+     "link": "https://www.ithome.com/1/017/488.htm",
+     "pubDate": "Sat, 24 Oct 2026 11:25:28 GMT",
+     "summary": "IT之家 10 月 24 日消息，戴尔现已在京东上架“U3226QER”31.5 英寸显示器，该机主打 4K 120Hz，定价为 5199 元。 京东 戴尔 U3226QER 显示器 券后 5199 元 领 500 元券 该机配备一块 3840x2160 分辨率 120Hz IPS Black 面板，对比度 3000:1，典型亮度 450 尼特，峰值亮度 600 尼特，显示器在快速模式下响应速度约 5ms，显示器支持 10-Bit 色彩。 该机采用银色支架、银色背板，支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供 1 个 HDMI 2.1、2 个 DP1.4、4 个 U",
+     "source": "IT之家",
+     "zh": "戴尔推出“U3226QER”31.5 英寸显示器：4K 120Hz IPS Black 面板、双雷电 4 接口，5199 元"
+    },
+    {
+     "title": "美国版“我不是药神”：一个美国儿子的上海买药之旅",
+     "link": "https://www.huxiu.com/article/4900173.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 19:15:18 +0800",
+     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：李佳 还记得徐峥主演的《我不是药神》吗？电影里，经营印度神油生意的程勇，意外踏上了从印度代购白血病仿制药的道路，帮助许多买不起正版药的患者“续命”。 现实中，一场相似的故事正在反方向上演。 一名住在曼哈顿的60岁女性，确诊了一种罕见肺癌，癌细胞已经扩散到大脑，长出了10个微小肿瘤。纽约顶尖癌症中心给不出令她满意的治疗方案，临床试验也将她拒之门外。 就在这时，有医生对她的儿子说了一句话：“要是她是中国人就好了，去中国药店就能买到。” 于是，这名30岁的美国儿子订下飞往上海的机票，最终带回26盒抗癌药，花费约1万美元。 这不是电影情节，而是美国健康新闻媒体",
+     "source": "虎嗅",
+     "zh": "美国版“我不是药神”：一个美国儿子的上海买药之旅"
+    },
+    {
+     "title": "70.1%，深圳在买什么",
+     "link": "https://www.huxiu.com/article/4900171.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 19:11:21 +0800",
+     "summary": "本文来自微信公众号： 格隆 ，作者：独行侠，原文标题：《70.1%！深圳在买什么》 数据支持|勾股大数据（www.gogudata.com） 最近，深圳海关刚放出来的前三季度外贸成绩单，在产业和财经圈悄悄刷了屏。 前三季度，进出口总额4.65万亿元，同比大增38.8%，直接超过2025年全年水平，创历史新高。 其中，出口2.41万亿元，同比增长18.5%；进口2.24万亿元，同比大增70.1%。 （2026年经深圳海关申报进出口月度统计图，来源：深圳海关官网） 4.65万亿，这个总额在内地城市第一的位置继续坐稳，本来就在市场预期之内，但真正让不少人意外的，是进口端70.1%的同比增速，几乎是出",
+     "source": "虎嗅",
+     "zh": "70.1%，深圳在买什么"
+    },
+    {
+     "title": "万象城的餐饮为什么这么火",
+     "link": "https://www.huxiu.com/article/4900170.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 19:10:27 +0800",
+     "summary": "本文来自微信公众号： 餐企老板内参 ，作者：罗欣 平均排队2小时以上 餐饮先“爆”了 白鹅潭万象城，自开业来就成为了广州的话题中心。 国庆七天，涌进近170万人次。10月1日单日28.7万人次，逼近这座商场30万人次的设计上限。芳村地铁站进站客流排到广州全网第二，仅次于广州南站，站方一度启动飞站限流。 10月的周末，内参君来到白鹅潭万象城探店，发现这里的餐饮店摩肩接踵，非常火爆。大部分餐厅都要排队2小时以上，中午1点左右很多餐厅都已经取不到号了。其中最火爆的喜茶cake lab+店，排队上百号人，店员表示要排队约4小时。广西菜品牌嬷冉的店员告诉内参君，周六下午4点才放号，三点门口就已经排满长队",
+     "source": "虎嗅",
+     "zh": "万象城的餐饮为什么这么火"
+    },
+    {
+     "title": "Node.js Vulnerability Blog",
+     "link": "https://nodejs.org/en/blog/vulnerability",
+     "pubDate": "Sat, 24 Oct 2026 11:08:47 +0000",
+     "summary": "Article URL: https://nodejs.org/en/blog/vulnerability Comments URL: https://news.ycombinator.com/item?id=50220145 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Node.js Vulnerability Blog"
+    },
+    {
      "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
      "link": "https://www.wired.com/gallery/best-pet-cameras/",
      "pubDate": "Sat, 24 Oct 2026 11:03:00 +0000",
@@ -1828,7 +1868,7 @@ window.INDUSTRY_DATA = {
     {
      "title": "今年的1024，可能是最后一个程序员节",
      "link": "https://www.huxiu.com/article/4900164.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 18:17:35 +0800",
+     "pubDate": "Sat, 24 Oct 2026 18:17:36 +0800",
      "summary": "本文来自微信公众号： 极客公园 ，作者：Wildcard，编辑：靖宇，原文标题：《今年的 1024，可能是最后一个程序员节》 程序员可能会消失，但人人都变成了「程序员」。 今天一整天，X上都有人在讨论，「1024程序员节日快乐，今年会不会是最后一个程序员节了」。 这一天恰好是周六。微博上的话题叫「今年程序员节自带休息日」，配文说AI工具分担了重复编码，程序员终于能过一个不被紧急需求打断的节。 影石连续第五年给优秀程序员发黄金键帽，今年新增了一颗「F5」键，寓意不断刷新迭代。颁奖现场，一位年轻同事说了句玩笑话，「今年的黄金键帽，应该发给AI」。 一家机构的节日推文写得更直白，「今年的程序员节，我",
      "source": "虎嗅",
      "zh": "今年的1024，可能是最后一个程序员节"
@@ -1850,14 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "年轻人，不愿意干快消业务了"
     },
     {
-     "title": "致敬《GTA6》：游戏《僵尸世界大战》将于 11 月 12 日推出“Viral State”更新，带来迈阿密地图",
-     "link": "https://www.ithome.com/1/017/444.htm",
-     "pubDate": "Sat, 24 Oct 2026 10:10:03 GMT",
-     "summary": "IT之家 10 月 24 日消息，开发商 Saber Interactive 宣布将于 11 月 12 日为旗下《僵尸世界大战（World War Z）》推出“Viral State”更新，为游戏带来迈阿密地图，参考官方预热海报及视频，可以看到整体风格致敬了《GTA6》。 霓虹闪烁，阳光倾洒，棕榈树摇曳通向海滩天堂…… 可惜还有成群的僵尸来袭！欢迎来到佛罗里达州迈阿密！ 公开信息显示，《僵尸世界大战（World War Z）》于 2021 年 9 月 21 日首度发售，游戏的灵感源自于派拉蒙影业公司拍摄的热门影片，最多支持 4 名玩家共同游玩，可以在主机和 PC 平台上跨平台联机游玩，目前在 ",
-     "source": "IT之家",
-     "zh": "致敬《GTA6》：游戏《僵尸世界大战》将于 11 月 12 日推出“Viral State”更新，带来迈阿密地图"
-    },
-    {
      "title": "祭出 Kosmo，禾赛要成为机器人的博世？",
      "link": "https://www.tmtpost.com/8179870.html",
      "pubDate": "Sat, 24 Oct 2026 18:08:34 +0800",
@@ -1872,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 爱范儿 ，作者：关注明日产品的，编辑：肖钦鹏，原文标题：《一位开发者让电视服用了 Claude，这是它系统发生的变化》 曾几何时，电视在人们心目中，还是个开机就能看、按两下遥控器就能换台的物种。 现在，打开电视准备看部电影，首先映入眼帘的却是一段开机广告。好不容易进了主页，扑面而来的又是满屏的海报推荐、会员充值弹窗，中途按个暂停还会跳出一整张促销贴片。 图｜北京商报 最近，有一群人终于不打算再忍下去了。他们找来了一个意料之外的帮手——AI，试着把电视给「改回去」。 给电视做一场「大扫除」 上周，开发者Gathin在社交平台上发了一组给父母改电视的照片。按他的描述，家里的小",
      "source": "虎嗅",
      "zh": "一位开发者让电视服用了Claude，这是它系统发生的变化"
-    },
-    {
-     "title": "深度｜康佳退市：同一代彩电巨头，为什么活成了完全不同的样子",
-     "link": "https://www.huxiu.com/article/4900160.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 18:08:03 +0800",
-     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜康佳退市：同一代彩电巨头，为什么活成了完全不同的样子》 2026年10月23日，股票代码000016正式从深交所消失。 康佳集团，这家1992年上市的“彩电第一股”，在走过34年之后黯然摘牌。四年累计亏损超200亿元，2025年末归母净资产已跌至-60.83亿元，到今年年中进一步扩大至-62.27亿元，资产负债率133%。今年1月以来，至少9名前高管因涉嫌严重违纪违法被纪委监委通报调查，其中包括原党委书记、董事局副主席周彬。 但康佳的故事不是一个简单的“企业失败”故事。它是一个关于“同一代人在同一个行业里，为什么走出了完全不同的",
-     "source": "虎嗅",
-     "zh": "深度｜康佳退市：同一代彩电巨头，为什么活成了完全不同的样子"
     },
     {
      "title": "手握10亿资金，分红不手软，百普赛斯为何执意二闯港交所？",
@@ -1938,34 +1962,18 @@ window.INDUSTRY_DATA = {
      "zh": "Best Laptops (2026): My Top Recommendations After Testing Hundreds"
     },
     {
-     "title": "I Don't Understand Quantum Physics",
+     "title": "I Don't Understand Quantum Physics (2018)",
      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 64 # Comments: 27",
+     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 75 # Comments: 35",
      "source": "Hacker News",
-     "zh": "I Don't Understand Quantum Physics"
-    },
-    {
-     "title": "综艺失火，殃及阿福？",
-     "link": "https://www.huxiu.com/article/4900159.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 17:43:41 +0800",
-     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 10月21日，蚂蚁阿福花钱冠名的《令人心动的offer8·医学生季》开播。 同一天，蚂蚁阿福向全球医生和医学生发出招聘邀请，希望更多医学专业人士加入，一起训练医疗AI。 这本来是一次挺漂亮的营销。 医学综艺自带流量，医生和医学生是主角，蚂蚁阿福又恰好需要医学人才。冠名、招聘、品牌宣传，三件事一起办了。 没想到，节目刚播出，医学圈先炸了。 一位拥有10篇SCI论文、参与过四级手术的博士生，在读片考核中说出“盲猜是颅咽管瘤”，还称写病历“只是套路，一天就能学会”。 另有选手提出愿意为经济困难的患者垫付医药费，也引来不少医务人员批评。 10月22日",
-     "source": "虎嗅",
-     "zh": "综艺失火，殃及阿福？"
-    },
-    {
-     "title": "巴西大选胶着，谁上台都绕不开的“对冲”难题",
-     "link": "https://www.huxiu.com/article/4900158.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 17:38:48 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：史派克特 10月25日，巴西大选将进行第二轮投票。首轮投票中，小博索纳罗以47.03%对卢拉45.16%意外领先，第二轮投票前，两人支持度各为50%，被媒体称为巴西“史上最胶着的大选”。 这场选举不仅决定拉美第一大经济体未来四年的内政外交走向，也牵动中美在拉丁美洲的战略平衡。在此背景下，圣保罗瓦加斯基金会国际关系学院院长马蒂亚斯·史派克特于10月15日做客人大重阳“全球名家”论坛，发表题为“中美竞争背景下巴西的对冲策略”的演讲。 史派克特从“对冲”概念切入，指出巴西面临安全上依赖美国、经济上深度合作中国的特殊格局，进而分析巴西大选中的两条外交路线。他强调",
-     "source": "虎嗅",
-     "zh": "巴西大选胶着，谁上台都绕不开的“对冲”难题"
+     "zh": "I Don't Understand Quantum Physics (2018)"
     },
     {
      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
      "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
-     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 16 # Comments: 3",
      "source": "Hacker News",
      "zh": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps"
     },
@@ -1981,17 +1989,9 @@ window.INDUSTRY_DATA = {
      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
      "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 169 # Comments: 38",
+     "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 186 # Comments: 46",
      "source": "Hacker News",
      "zh": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended"
-    },
-    {
-     "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)",
-     "link": "https://www.techmeme.com/261024/p1#a261024p1",
-     "pubDate": "Sat, 24 Oct 2026 01:45:00 -0400",
-     "summary": "Toby Sterling / Reuters : The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors &nbsp; &mdash;&nbsp; The discovery of two serious flaws in PHP this week set off a global scramble to keep websites saf",
-     "source": "Techmeme",
-     "zh": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)"
     }
    ]
   },
@@ -2250,6 +2250,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "金价大幅回调！市场出现新信号→",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907108549.html",
+     "pubDate": "Sat, 24 Oct 2026 19:18:56 +0800",
+     "summary": "昨日，现货 黄金 价格盘中跳水，失守4000美元/盎司关口。纽约期金价格盘中一度触及3989.10美元/盎司，创近3个月低点。沪金近五日跌幅为4.42%，沪银近五日跌幅为6.02%。 国内品牌金饰价格也随之下调。23日，老庙 黄金 报价1208元/克，较前一日跌28元/克； 周生生 报价1206元/克，较前一日跌32元/克； 周大福 报价1208元/克，较前一日跌29元/克； 老凤祥 报价1212元/克，较前一日跌24元/克。相比今年最高点的1700元/克，每克最多已跌近500元。 一名金店的消费者告诉 期货 日报记者，往年每逢过节就会买一些 黄金 饰品 ，现在只会在价格合适时考虑购买。“金价",
+     "source": "东方财富股票",
+     "zh": "金价大幅回调！市场出现新信号→"
+    },
+    {
+     "title": "折叠屏供应链“等来”苹果之后",
+     "link": "http://www.eeo.com.cn/2026/1024/1074909.shtml",
+     "pubDate": "Sat, 24 Oct 2026 19:18:51 +0800",
+     "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
+     "source": "经济观察网",
+     "zh": "折叠屏供应链“等来”苹果之后"
+    },
+    {
+     "title": "璞泰来毛利率持续承压，券商下调全年盈利预期",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907108448.html",
+     "pubDate": "Sat, 24 Oct 2026 19:15:29 +0800",
+     "summary": "上海 璞泰来 新能源 科技集团股份有限公司（下称“ 璞泰来 ”，603659.SH）最新三季报出炉。2026年前三季度，公司营收158.58亿元，同比增长46.43%；净利润22.76亿元，同比增长33.87%。前三季度整体毛利率27.43%，同比减少5.02个百分点。第三季度毛利率为29.39%，环比回升5.68个百分点，同比仍降3.72个百分点。 这意味着， 璞泰来 的毛利率在第三季度有所修复，但是整体仍低于去年同期水平。从两大核心业务来看，一方面，公司负极业务仍处于盈利修复期，今年上半年，其负极业务受到原材料成本上涨及产能爬坡影响较大，相关子公司一度处于盈亏边缘。另一方面，据 华泰证券 ",
+     "source": "东方财富股票",
+     "zh": "璞泰来毛利率持续承压，券商下调全年盈利预期"
+    },
+    {
+     "title": "前三季度净利润增超11倍！688053：申请“摘帽”",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907108695.html",
+     "pubDate": "Sat, 24 Oct 2026 19:15:09 +0800",
+     "summary": "10月23日晚间， ST思科瑞 （688053）公告称，公司于当日召开第三届董事会第三次会议，审议通过《关于申请撤销对公司股票实施其他风险警示的议案》，向上交所申请撤销其他风险警示（ST）。 ST思科瑞 的“戴帽”源于财务造假。经四川证监局查明，2022年， ST思科瑞 通过三种方式虚增收入和利润：一是虚构销售业务。当年12月，公司在未收到待检货物且未真实开展检测业务的情况下，虚构一笔与赛狄信息336.65万元的检测业务，安排人员生成对账单，并利用与赛狄信息相关工作人员的私人关系加盖对方公章；二是提前确认收入。在尚未向客户佳缘科技交付检测货物且未经其确认对账单的情况下，确认收入246.93万元",
+     "source": "东方财富股票",
+     "zh": "前三季度净利润增超11倍！688053：申请“摘帽”"
+    },
+    {
+     "title": "莱宝高科：公司2026年车载触摸屏业务板块整体销售收入可能同比下降",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907107454.html",
+     "pubDate": "Sat, 24 Oct 2026 19:13:45 +0800",
+     "summary": "10月24日， 莱宝高科 在最新披露的投资者关系活动记录表中表示，车载盖板玻璃和车载触摸屏2026年一方面仍然面临产品价格持续下降的压力，国内 汽车 市场内卷式降价对相关供应链的传导作用对公司车载触摸屏产品板块营收和盈利能力的不利影响日益显现，2026年上半年车载盖板玻璃销量和销售收入同比去年同期已发生一定程度的下降，2026年下半年目前来看仍面临价格下降的压力；一方面还面临已占据主流市场地位的In Cell结构触控显示一体化带来日益增加的替代竞争压力，公司2026年车载触摸屏业务板块的整体销售收入可能同比下降，且对该业务板块的盈利能力造成一定的不利影响，敬请包括您在内的各位投资者予以客观理性",
+     "source": "东方财富股票",
+     "zh": "莱宝高科：公司2026年车载触摸屏业务板块整体销售收入可能同比下降"
+    },
+    {
+     "title": "日本防相再称讨论引进核潜艇",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907106981.html",
+     "pubDate": "Sat, 24 Oct 2026 19:11:24 +0800",
+     "summary": "据日本共同社等多家媒体报道，日本防卫大臣小泉进次郎10月23日再次表态，支持就“自卫队引进核潜艇”展开讨论。本月早些时候，日本《读卖新闻》曾援引消息人士的话报道说，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。小泉进次郎此前也曾多次声称，对于日本是否要拥有核动力潜艇，“不排除任何选项”。分析人士指出，相关言论暴露了日本执政当局不断膨胀的拥核野心，严重威胁亚洲乃至全球和平稳定。 （文章来源：CCTV国际时讯）",
+     "source": "东方财富股票",
+     "zh": "日本防相再称讨论引进核潜艇"
+    },
+    {
+     "title": "*ST卓然提前锁定退市，或成科创板首家市值退市公司",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907107393.html",
+     "pubDate": "Sat, 24 Oct 2026 19:10:28 +0800",
+     "summary": "10月23日， *ST卓然 （688121.SH）发布公告称，公司股票收盘价格0.43元/股，总市值1.00亿元，公司股票已连续17个交易日每日股票收盘市值均低于3亿元，已连续10个交易日每日股票收盘价格低于1元。即使后续3个交易日连续涨停，公司股票也将因市值连续20个交易日低于3亿元而触及交易类强制退市。 这意味着， *ST卓然 提前锁定交易类强制退市，且根据上交所规则，交易类强制退市不进入退市整理期。若最终落定， *ST卓然 或成为科创板首家市值退市公司。 *ST卓然还存在其他退市风险，公司公告显示，公司因涉嫌信息披露违法违规等事项，被证监会立案调查。 2026年9月11日，上海证监局下发",
+     "source": "东方财富股票",
+     "zh": "*ST卓然提前锁定退市，或成科创板首家市值退市公司"
+    },
+    {
      "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
      "link": "https://wallstreetcn.com/articles/3784397",
      "pubDate": "Sat, 24 Oct 2026 19:03:44 +0800",
@@ -2274,14 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness."
     },
     {
-     "title": "伊朗武装部队：任何情况下都不允许美军船只进入波斯湾",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907106659.html",
-     "pubDate": "Sat, 24 Oct 2026 18:59:17 +0800",
-     "summary": "据伊朗方面24日消息，伊朗武装部队总参谋长阿里·阿卜杜拉希表示，伊朗武装部队已经成功遏制了美国海军，使其再无能力靠近波斯湾附近海域或伊朗领海。在任何情况之下，伊朗都不会允许美军船只进入波斯湾，美方希望让军事力量重返波斯湾的想法只是幻梦。阿卜杜拉希还指出，美国和以色列及其军队，将一天比一天更深地陷入其自身制造的泥潭，对抗持续越久就越是如此。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗武装部队：任何情况下都不允许美军船只进入波斯湾"
-    },
-    {
      "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
      "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
      "pubDate": "Sat, 24 Oct 2026 10:59:16 GMT",
@@ -2290,44 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
     },
     {
-     "title": "蓝牙、Wi-Fi之外，星闪不想只做“配角”，打开华为生态之外的市场才是关键",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907106540.html",
-     "pubDate": "Sat, 24 Oct 2026 18:54:45 +0800",
-     "summary": "过去几年，依靠华为手机、耳机、电脑等产品的带动，“星闪”逐渐进入消费者视野。但要想真正成为与蓝牙、Wi-Fi并存的主流无线连接技术，星闪显然还需要获得更多终端厂商及芯片企业的支持。 10月23日，在“2026 消费电子 创新大会（CEIC2026）”上，国际星闪联盟秘书长曾国松在接受包括《每日经济新闻》记者在内的媒体采访时透露，目前，已有多家国内外手机厂商正在探索星闪技术的适配方案，联盟也在推动包括联发科、 意法半导体 、恩智浦在内的芯片企业参与星闪生态建设。 “现在的进展应该说是一个突破阶段。”曾国松说。随着星闪技术逐渐成熟，越来越多终端厂商开始关注其在无线音频、设备互联等领域的应用机会。不",
-     "source": "东方财富股票",
-     "zh": "蓝牙、Wi-Fi之外，星闪不想只做“配角”，打开华为生态之外的市场才是关键"
-    },
-    {
      "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
      "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
      "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
-     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只EFT份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
-     "source": "东方财富股票",
+     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只ETF份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
+     "source": "东方财富资讯",
      "zh": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！"
-    },
-    {
-     "title": "亿纬锂能：公司四季度排产预计环比增长 产能已确定订满",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907105891.html",
-     "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
-     "summary": "亿纬锂能 (300014)10月23日在电话会议中表示，公司四季度排产预计环比增长。目前公司存货周转天数约56天，仍处于正常的生产及电芯储存、交付周期。考虑到原材料价格处于震荡阶段，四季度公司将尽可能加快存货周转，控制安全库存总量。此外，公司表示，四季度产能已确定订满。2027年一季度的情况目前尚未完全确认，公司还在细化2027年分月出货安排。公司将力争实现较好的同比增长。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "亿纬锂能：公司四季度排产预计环比增长 产能已确定订满"
-    },
-    {
-     "title": "亿纬锂能：公司大圆柱电池已量产工厂均处于满产状态",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907105991.html",
-     "pubDate": "Sat, 24 Oct 2026 18:53:00 +0800",
-     "summary": "人民财讯10月24日电， 亿纬锂能 (300014)10月23日在电话会议中表示，公司大圆柱 电池 已量产的工厂均处于满产状态。国际客户需求远超预期，国内客户也陆续实现交付。此外，公司高度重视消费税和出口退税调整对经营业绩的影响，自2026年上半年起即提前与客户开展沟通，与绝大多数客户已达成共识，确定方案。 （文章来源：证券时报网）",
-     "source": "东方财富股票",
-     "zh": "亿纬锂能：公司大圆柱电池已量产工厂均处于满产状态"
-    },
-    {
-     "title": "巴方谴责以军升级约旦河西岸局势",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907105757.html",
-     "pubDate": "Sat, 24 Oct 2026 18:52:46 +0800",
-     "summary": "巴勒斯坦政府发表声明，强烈谴责以色列军队在约旦河西岸持续升级的军事行动，以及针对巴勒斯坦民众实施的集体惩罚措施，同时紧急呼吁国际社会立即采取行动介入干预。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "巴方谴责以军升级约旦河西岸局势"
     },
     {
      "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
@@ -2472,22 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "金秋十月，丹桂飘香。江苏银行的网点里升腾起一份份“敬老温度”：徐州分行邀请退休客户登高游园，在秋日里共赏山水；苏州分行在厅堂煮一壶重阳茶，走进社区与老年朋友共话防诈骗、聊养老理财规划；杭州分行14家支行走进合作社区，把“安康礼”和一堂金融防诈知识送到家门口……这是江苏银行18城“重阳有礼”活动的温暖剪影，也是该行养老金融从“安养”迈向“乐享”的生动缩影。 <p class=\"ql-ali...",
      "source": "经济观察网",
      "zh": "乐享从容岁月：江苏银行以金融之力守护金色年华"
-    },
-    {
-     "title": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu",
-     "link": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
-     "pubDate": "Sat, 24 Oct 2026 04:00:33 GMT",
-     "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
-     "source": "Financial Times",
-     "zh": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu"
-    },
-    {
-     "title": "France is looking ungovernable. And it’s going to get worse",
-     "link": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
-     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
-     "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
-     "source": "Financial Times",
-     "zh": "France is looking ungovernable. And it’s going to get worse"
     }
    ]
   },

@@ -318,10 +318,10 @@ function renderRateCutExpectation(data) {
     html+='<div class="fomc-type">'+m.type+'</div>';
     html+='<span class="fomc-status status-'+(up?'waiting':'done')+'">'+m.status+'</span>';
     if (up) {
-      const p=m.cutProb||'--', pv=parseInt((String(p).match(/\d+/)||['0'])[0],10)||0;
+      const p=m.prob||m.cutProb||'--', pv=parseInt((String(p).match(/\d+/)||['0'])[0],10)||0;
       const pc=pv>50?'#2EC4B6':pv>30?'#E8D48B':'#7C8AAA';
       html+='<div class="fomc-prob"><div class="fomc-prob-value" style="color:'+pc+'">'+p+'</div>';
-      html+='<div class="fomc-prob-label">降息概率(隐含)</div></div>';
+      html+='<div class="fomc-prob-label">'+(m.probLabel||'降息概率(隐含)')+'</div></div>';
     }
     html+='</div>';
   }

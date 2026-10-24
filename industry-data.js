@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/25 03:28:30",
+ "generated_at": "2026/10/25 05:06:43",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
+     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+     "source": "TechCrunch AI",
+     "zh": "The AI graveyard: a running list of projects and startups that didn’t make it"
+    },
     {
      "title": "Block’s new voice model sounds eerily human",
      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
@@ -152,14 +160,6 @@ window.INDUSTRY_DATA = {
      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
      "source": "TechCrunch AI",
      "zh": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell"
-    },
-    {
-     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-     "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-     "pubDate": "Fri, 23 Oct 2026 19:06:23 +0000",
-     "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
-     "source": "TechCrunch AI",
-     "zh": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026"
     },
     {
      "title": "Bringing foundational models to the front lines of TB screening",
@@ -850,12 +850,44 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
+     "pubDate": "Sat, 24 Oct 2026 16:00:00 -0500",
+     "summary": "Singapore’s shipping-fuel market is adding another layer of cost to Asian trade. Disrupted supplies from the Middle East and Russia, resilient bunker demand and prohibitive freight rates have pushed high-sulphur fuel oil above the price of the crude used to produce it. Seasonal relief from Gulf prod",
+     "source": "OilPrice",
+     "zh": "Fuel Oil Becomes Asia’s Next Cost Shock"
+    },
+    {
+     "title": "If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast",
+     "link": "https://cleantechnica.com/2026/10/24/if-teslas-robotaxi-miles-keep-compounding-at-20-a-week-the-math-gets-interesting-fast/",
+     "pubDate": "Sat, 24 Oct 2026 19:47:23 +0000",
+     "summary": "Tesla just passed Waymo in Austin in weekly driverless miles. If its recent 20% weekly growth holds, it passes Waymo nationally in roughly 11 weeks and is doing the volume of Uber + Lyft across three Texas metros by mid-February. The accumulating unsupervised miles are already large enough to start ",
+     "source": "CleanTechnica",
+     "zh": "If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast"
+    },
+    {
      "title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
      "link": "https://oilprice.com/Energy/Energy-General/Syrias-Energy-Comeback-Could-Reshape-Middle-East-Oil-and-Gas.html",
      "pubDate": "Sat, 24 Oct 2026 14:00:00 -0500",
      "summary": "Syria is undergoing countrywide reconstruction after more than a decade of conflict, which caused extensive infrastructure damage and led to millions of people being displaced. As Syrians rebuild their lives, the government has big plans for economic diversification and growth to support long-term r",
      "source": "OilPrice",
      "zh": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas"
+    },
+    {
+     "title": "Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000",
+     "link": "https://cleantechnica.com/2026/10/24/volkswagen-unleashes-wicked-id-unyx-09-in-china-for-27000/",
+     "pubDate": "Sat, 24 Oct 2026 18:23:19 +0000",
+     "summary": "Volkswagen, like pretty much all foreign brands, has really been struggling in China in recent years. The whole German auto industry is basically in crisis because their cash cow in China has shifted and now prefers buying cool new EVs from Chinese companies. Well, Volkswagen decided to team up with",
+     "source": "CleanTechnica",
+     "zh": "Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000"
+    },
+    {
+     "title": "Zayed Sustainability Prize Picks Finalists from 10,233 Submissions",
+     "link": "https://cleantechnica.com/2026/10/24/zayed-sustainability-prize-picks-finalists-from-10233-submissions/",
+     "pubDate": "Sat, 24 Oct 2026 17:13:44 +0000",
+     "summary": "The Zayed Sustainability Prize recently made its final cuts to determine the finalists for the 2027 edition. I used to cover the prize very closely and thoroughly, back when it was called the Zayed Future Energy Prize. I think the name was changed in large part because they wanted to ... [continued]",
+     "source": "CleanTechnica",
+     "zh": "Zayed Sustainability Prize Picks Finalists from 10,233 Submissions"
     },
     {
      "title": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
@@ -866,12 +898,28 @@ window.INDUSTRY_DATA = {
      "zh": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step"
     },
     {
+     "title": "Energy Transition Plans Keep Freezing Today’s Demand Into Tomorrow",
+     "link": "https://cleantechnica.com/2026/10/24/energy-transition-assumptions-future-demand/",
+     "pubDate": "Sat, 24 Oct 2026 16:53:18 +0000",
+     "summary": "Before choosing the replacement technology, forecast the future market. Bad assumptions about demand can make weak solutions and oversized investment opportunities look compelling. The post Energy Transition Plans Keep Freezing Today’s Demand Into Tomorrow appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "Energy Transition Plans Keep Freezing Today’s Demand Into Tomorrow"
+    },
+    {
      "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
      "pubDate": "Sat, 24 Oct 2026 10:00:00 -0500",
      "summary": "United States President Donald Trump has repeatedly targeted offshore wind since coming into office last year, as he strives to expand the country’s fossil fuel sector and shift the focus away from renewable energy. Trump has sought to halt the development of several offshore wind projects and has e",
      "source": "OilPrice",
      "zh": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion"
+    },
+    {
+     "title": "Trump’s War on Iran Has Broken the Oil Market",
+     "link": "https://cleantechnica.com/2026/10/24/trumps-war-on-iran-has-broken-the-oil-market/",
+     "pubDate": "Sat, 24 Oct 2026 14:21:46 +0000",
+     "summary": "Almost 8 months into Trump’s war on Iran, we can see more clearly the consequences of this quagmire. Some have been quite unexpected, like the surprising resilience of the oil market, the emergence of multiple failure points outside of Hormuz (including Bab-al Mandeb, the East-West pipeline, and glo",
+     "source": "CleanTechnica",
+     "zh": "Trump’s War on Iran Has Broken the Oil Market"
     },
     {
      "title": "Renewable Energy India Expo 2026: Three key takeaways",
@@ -922,6 +970,14 @@ window.INDUSTRY_DATA = {
      "zh": "Glass-free European photovoltaic modules for vehicles, noise barriers and boats"
     },
     {
+     "title": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals",
+     "link": "https://cleantechnica.com/2026/10/23/logitech-launches-chain-reaction-to-accelerate-supply-chain-decarbonization-towards-2030-climate-goals/",
+     "pubDate": "Sat, 24 Oct 2026 03:55:00 +0000",
+     "summary": "Initiative enables suppliers through renewable energy aggregation and supplier capability building. LAUSANNE, Switzerland & SAN JOSE, California — Logitech International (SIX: LOGN) (Nasdaq: LOGI) today announced the launch of Chain Reaction, a global supply chain decarbonization program designed to",
+     "source": "CleanTechnica",
+     "zh": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals"
+    },
+    {
      "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
      "pubDate": "Fri, 23 Oct 2026 18:00:00 -0500",
@@ -936,14 +992,6 @@ window.INDUSTRY_DATA = {
      "summary": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel. The reserve, meanwhile, is already at its lowest level since 1982. The Department of Energy on Friday authorized an emergency",
      "source": "OilPrice",
      "zh": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions"
-    },
-    {
-     "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
-     "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
-     "pubDate": "Fri, 23 Oct 2026 17:00:00 -0500",
-     "summary": "The United States and Canada are locked in an energy trade war – sort of. Although United States President Donald Trump and Canadian Prime Minister Mark Carney have lobbed plenty of blisteringly high tariffs, not to mention threats and insults, at each other over the course of their respective tenur",
-     "source": "OilPrice",
-     "zh": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War"
     },
     {
      "title": "The permitting deal collides with Trump’s war on offshore wind",
@@ -1040,54 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
      "source": "Canary Media",
      "zh": "As US grid batteries surge, risk of fires plummets"
-    },
-    {
-     "title": "ACME Solar signs 1.2GWh PPA with SECI for clean energy supply during non-solar hours from Indian renewables assets",
-     "link": "https://www.energy-storage.news/acme-solar-ppa-seci-clean-energy-solar-india-renewables-assets/",
-     "pubDate": "Fri, 23 Oct 2026 04:09:42 +0000",
-     "summary": "ACME Solar has signed a 300MW/1,200MWh PPA with the Solar Energy Corporation of India (SECI) for a solar-plus-storage portfolio.",
-     "source": "Energy Storage News",
-     "zh": "ACME Solar signs 1.2GWh PPA with SECI for clean energy supply during non-solar hours from Indian renewables assets"
-    },
-    {
-     "title": "Alinta Energy abandons ‘critical’ pumped hydro energy storage project in Australia",
-     "link": "https://www.energy-storage.news/alinta-energy-abandons-critical-pumped-hydro-energy-storage-project-in-australia/",
-     "pubDate": "Fri, 23 Oct 2026 02:55:53 +0000",
-     "summary": "Alinta Energy has discontinued work on the 7.2GWh Oven Mountain pumped hydro energy storage (PHES) project in New South Wales (NSW), Australia.",
-     "source": "Energy Storage News",
-     "zh": "Alinta Energy abandons ‘critical’ pumped hydro energy storage project in Australia"
-    },
-    {
-     "title": "What kind of virtual power plant would you choose?",
-     "link": "https://www.canarymedia.com/articles/virtual-power-plants/what-virtual-power-plant-would-you-choose",
-     "pubDate": "Thu, 22 Oct 2026 12:30:00 -0400",
-     "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Thursday via Substack. Hello, everybody! Welcome back to California Wire. This week, I’m going to be talking about virtual power plants again — but not the ones set up b",
-     "source": "Canary Media",
-     "zh": "What kind of virtual power plant would you choose?"
-    },
-    {
-     "title": "Utilities turn to AI to manage rising power demand — from AI",
-     "link": "https://www.utilitydive.com/news/utilities-turn-to-ai-to-manage-rising-power-demand-from-ai/833627/",
-     "pubDate": "Thu, 22 Oct 2026 12:15:17 -0400",
-     "summary": "Applications include maintenance prioritization and demand forecasting, but&nbsp;AI outputs that are uneven, or those that can&rsquo;t be audited, constrain broader deployment. &ldquo;Most utilities could not reconstruct what an AI system read, what it did and why,&rdquo; one expert told Utility Div",
-     "source": "Utility Dive",
-     "zh": "Utilities turn to AI to manage rising power demand — from AI"
-    },
-    {
-     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
-     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
-     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
-     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;This is how you blow up a permitting deal.&rdquo;",
-     "source": "Utility Dive",
-     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
-    },
-    {
-     "title": "Jigar Shah blames the wrong target for rising electricity bills",
-     "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
-     "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
-     "source": "Utility Dive",
-     "zh": "Jigar Shah blames the wrong target for rising electricity bills"
     }
    ]
   },
@@ -1762,52 +1762,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-     "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-     "pubDate": "Sat, 24 Oct 2026 19:03:59 +0000",
-     "summary": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50224074 Points: 4 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "PHP Foundation 'under-funded' with one full-time staff member, director says"
-    },
-    {
-     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-     "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
-     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+     "title": "Starlink seems to be working normally again in Ukraine",
+     "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+     "pubDate": "Sat, 24 Oct 2026 20:46:34 +0000",
+     "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
      "source": "TechCrunch",
-     "zh": "The AI graveyard: a running list of projects and startups that didn’t make it"
+     "zh": "Starlink seems to be working normally again in Ukraine"
     },
     {
-     "title": "Danish Government silently drops plan to dump MS Office",
-     "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-     "pubDate": "Sat, 24 Oct 2026 18:31:48 +0000",
-     "summary": "Article URL: https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft Comments URL: https://news.ycombinator.com/item?id=50223844 Points: 28 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Danish Government silently drops plan to dump MS Office"
+     "title": "Will AI expose the rickety infrastructure of the internet?",
+     "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+     "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
+     "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+     "source": "TechCrunch",
+     "zh": "Will AI expose the rickety infrastructure of the internet?"
     },
     {
-     "title": "Dream-1",
-     "link": "https://dreamlabs.ai/research/dream-1/",
-     "pubDate": "Sat, 24 Oct 2026 18:23:24 +0000",
-     "summary": "Article URL: https://dreamlabs.ai/research/dream-1/ Comments URL: https://news.ycombinator.com/item?id=50223785 Points: 37 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "Dream-1"
-    },
-    {
-     "title": "Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
-     "link": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-     "pubDate": "Sat, 24 Oct 2026 18:19:05 +0000",
-     "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeh8870 Comments URL: https://news.ycombinator.com/item?id=50223752 Points: 14 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology"
-    },
-    {
-     "title": "Why is AI generated language so hard to understand?",
-     "link": "https://arxiv.org/abs/2610.29162",
-     "pubDate": "Sat, 24 Oct 2026 18:04:57 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 6 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Why is AI generated language so hard to understand?"
+     "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
+     "link": "https://www.techmeme.com/261024/p8#a261024p8",
+     "pubDate": "Sat, 24 Oct 2026 15:45:01 -0400",
+     "summary": "The Information : Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &nbsp; &mdash;&nbsp; OpenAI's efforts to undercut Anthropic on price are producing some results.&nbsp; &mdash;&nbsp; For ",
+     "source": "Techmeme",
+     "zh": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)"
     },
     {
      "title": "品牌没有自嘲的资格",
@@ -1832,14 +1808,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 镁联社 ，作者：镁联社 一场本该用来讲产品、抢订单的新车发布会，最后栽在一句轻飘飘的圈层黑话里。 小鹏MONA L05发布会上，一名00后产品经理临场抛出“老登怎么会懂年轻人想要什么”。事发之后，道歉、解释接踵而至：这只是内部吐槽管理层保守的玩笑，本意针对固化的设计思路，并非面向消费者。 但公共传播没有自带注释，也不接受“我不是那个意思”的事后补证。 一句圈内自嘲，脱离封闭会议室，扔进全网直播的公域流量池，语义立刻失控。这件事最刺眼的讽刺就摆在眼前：车企拼尽全力做年轻化、追Z世代流量，却当众用年龄标签，刺伤了汽车市场真正掏钱买单的底盘——35–50岁的中年人。 小鹏这次翻",
      "source": "虎嗅",
      "zh": "一句“老登”撕开假象：品牌伪年轻化，总在冒犯付费主力"
-    },
-    {
-     "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-     "link": "https://de.numista.com/9866",
-     "pubDate": "Sat, 24 Oct 2026 16:41:55 +0000",
-     "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 58 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise"
     },
     {
      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
@@ -1912,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 24 日消息，JBL 现已为旗下 JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，首发价 1346 元，部分地区国补后低至 949 元。 京东 JBL CLIPS 琉璃扣“碧玺红色特别版” 1346 元 点此访问 这款耳机的充电盒、本体均采用半透明设计；搭载 11mm 动圈单元，定制驱动单元加载镀钛双层振膜；支持 SonicArc 定向投送技术，可减少漏音现象，保护用户隐私。 这款耳机支持 IP54 级防尘防水；单体重量 6.5g，采用 C 形桥设计，外部为柔性 TPU 材质，适配多种耳形；内置 4 个麦克风，支持 AI 通话降噪及 ENC 算法，支持使用 App",
      "source": "IT之家",
      "zh": "JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元"
-    },
-    {
-     "title": "These clever apps show off the iPhone Duo’s potential",
-     "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-     "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-     "source": "TechCrunch",
-     "zh": "These clever apps show off the iPhone Duo’s potential"
     },
     {
      "title": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘",
@@ -2000,6 +1960,46 @@ window.INDUSTRY_DATA = {
      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
      "source": "WIRED",
      "zh": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable"
+    },
+    {
+     "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+     "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+     "pubDate": "Sat, 24 Oct 2026 11:50:28 +0000",
+     "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+     "source": "Ars Technica",
+     "zh": "A 1,000-mile cloud on Mars may reveal physics never seen in nature"
+    },
+    {
+     "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+     "link": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+     "pubDate": "Sat, 24 Oct 2026 11:30:00 +0000",
+     "summary": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
+     "source": "WIRED",
+     "zh": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent"
+    },
+    {
+     "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
+     "link": "https://www.wired.com/gallery/best-pet-cameras/",
+     "pubDate": "Sat, 24 Oct 2026 11:03:00 +0000",
+     "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+     "source": "WIRED",
+     "zh": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot"
+    },
+    {
+     "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+     "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+     "pubDate": "Sat, 24 Oct 2026 11:00:09 +0000",
+     "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+     "source": "Ars Technica",
+     "zh": "Ice sheet expansion may have started 2,000 years ago, but we canceled that"
+    },
+    {
+     "title": "9 Unique Apps to Try on the iPhone Duo",
+     "link": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+     "pubDate": "Sat, 24 Oct 2026 10:45:00 +0000",
+     "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
+     "source": "WIRED",
+     "zh": "9 Unique Apps to Try on the iPhone Duo"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
+     "link": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
+     "pubDate": "Sat, 24 Oct 2026 19:30:00 +0000",
+     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you want more of a nostalgic video feel from your iPhone footage, Flipcorder is a great app to check ",
+     "source": "9to5Mac",
+     "zh": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo"
+    },
     {
      "title": "Google is quietly linking your phone number to other Android accounts",
      "link": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display"
     },
     {
-     "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
-     "link": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-     "pubDate": "Fri, 23 Oct 2026 23:12:21 +0000",
-     "summary": "Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple’s official DIY repair guides for the iPhone Duo now available"
-    },
-    {
      "title": "Gemini for Android rolls out side panel and settings redesign",
      "link": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
      "pubDate": "Fri, 23 Oct 2026 22:02:00 +0000",
@@ -2258,36 +2258,116 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134745.html",
+     "pubDate": "Sun, 25 Oct 2026 04:56:45 +0800",
+     "summary": "据美国媒体24日报道，因也门胡塞武装和伊朗的袭击威胁增加，美国国务院针对13个中东国家更新了旅行警告。 报道说，此次更新涉及的国家和地区包括巴林、伊朗、伊拉克、以色列、约旦、科威特、黎巴嫩、阿曼、卡塔尔、沙特阿拉伯、叙利亚、阿联酋和也门。美驻上述国家的大使馆日前在其官网上发布最新旅行警告称，预警级别及风险指标均未发生变化，但预警摘要已更新。其中，美驻沙特大使馆发布旅行警告称，“伊朗支持的胡塞武装发动潜在武装袭击的可能性有所增加，同时伊朗正试图针对该地区的美国政府官员采取行动”。美驻其他国家大使馆的旅行警告则只提到胡塞武装袭击威胁增加。 据美国阿克西奥斯新闻网站23日报道，美情报部门认为伊朗已“",
+     "source": "东方财富股票",
+     "zh": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加"
+    },
+    {
+     "title": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907128777.html",
+     "pubDate": "Sun, 25 Oct 2026 04:45:46 +0800",
+     "summary": "10月23日，中欧协会智能网联 汽车 分会与 北京汽车 博物馆联合发布的2026年前三季度 汽车 企业影响力指数报告（以下简称“报告”）显示， 汽车 企业格局延续“ 乘用车 主导竞争烈度、 商用车 细分格局分化”的特征：在 乘用车 领域， 比亚迪 以912.28分位居榜首，企业网络声量达1.01亿条、销量134.4万辆，均居第一。在 商用车 领域，东风汽车、 长城汽车 、 福田汽车 、上汽大通分获重卡、皮卡、轻卡、轻客品类企业影响力榜首。 在 乘用车 榜单中， 比亚迪 、 吉利汽车 、 赛力斯 包揽前三； 零跑汽车 、上汽大众、 特斯拉 中国、广汽丰田、 长安汽车 、一汽-大众、 蔚来 汽车分",
+     "source": "东方财富股票",
+     "zh": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首"
+    },
+    {
+     "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+     "pubDate": "Sat, 24 Oct 2026 20:38:30 GMT",
+     "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+     "source": "CNBC",
+     "zh": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement"
+    },
+    {
+     "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134684.html",
+     "pubDate": "Sun, 25 Oct 2026 04:31:12 +0800",
+     "summary": "伊拉克民兵武装“伊斯兰抵抗组织”24日发表声明称，9月30日至10月23日，共监测到美国战斗机和侦察机171次侵犯伊拉克领空。 声明说美国持续侵犯伊拉克主权，指责美军机近期频繁侵犯伊拉克领空。声明还提到，伊拉克关闭与伊朗的航线及边境口岸是基于美国意愿并按其指令行事。 伊拉克政府发言人海德尔·阿布迪21日说，伊拉克出于技术原因关闭位于南部米桑省与伊朗的谢卜边境口岸。此外，受美国对伊朗制裁影响，伊拉克多个 机场 9月一度暂停所有往返伊朗的航班。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空"
+    },
+    {
+     "title": "大买家与大卖家：39.94万亿中的双向机遇",
+     "link": "http://finance.eastmoney.com/news/1346,202610243907123487.html",
+     "pubDate": "Sun, 25 Oct 2026 04:18:17 +0800",
+     "summary": "中国在世界经济版图中扮演的角色，越来越重要。 随着2026年前三季度经济数据出炉，中国外贸交出了一份“沉甸甸”的阶段性答卷。最新国际数据显示，我国继续稳居全球货物贸易第一大国地位。 当前，地缘政治冲突持续扰动全球经贸秩序，贸易保护主义、单边主义抬头，而中国正在以“大买家”和“大卖家”双重身份，深度参与全球经济版图建设，成为全球产供链的“稳定锚”。 前三季度外贸数据，增了 最新数据显示，前三季度我国货物进出口总额39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%；进口16.74万亿元，增长22.3%。 分季度看，三季度出口规模首次突破8万亿元，增长22%。从月度看，连",
+     "source": "东方财富股票",
+     "zh": "大买家与大卖家：39.94万亿中的双向机遇"
+    },
+    {
+     "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 20:15:00 GMT",
+     "summary": "“Nothing has been set aside for his needs.”",
+     "source": "MarketWatch",
+     "zh": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 20:00:00 GMT",
+     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+     "source": "MarketWatch",
+     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+    },
+    {
+     "title": "Democrats, voting-rights groups challenge Trump&apos;s bid to block Alaska Senate certification",
+     "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+     "pubDate": "Sat, 24 Oct 2026 19:57:24 GMT",
+     "summary": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
+     "source": "CNBC",
+     "zh": "Democrats, voting-rights groups challenge Trump&apos;s bid to block Alaska Senate certification"
+    },
+    {
+     "title": "爱奇艺AIGC（大湾区）创意中心正式落地广州",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907130995.html",
+     "pubDate": "Sun, 25 Oct 2026 03:50:40 +0800",
+     "summary": "10月24日， 爱奇艺 与广州市人民政府签署战略合作框架协议。在当天举办的广州市AIGC视听产业系列发布活动上，广东广播电视台与 爱奇艺 签署纪录片战略合作协议， 爱奇艺 AIGC（大湾区）创意中心正式落地广州。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "爱奇艺AIGC（大湾区）创意中心正式落地广州"
+    },
+    {
+     "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
+     "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 19:48:27 GMT",
+     "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
+     "source": "Financial Times",
+     "zh": "Hundreds of thousands protest in France in second weekend of mass demonstrations"
+    },
+    {
+     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 19:45:00 GMT",
+     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+     "source": "MarketWatch",
+     "zh": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
+    },
+    {
+     "title": "SA Asks: How much could Tesla be worth in a merger deal?",
+     "link": "https://seekingalpha.com/news/4656937-sa-asks-how-much-could-tesla-be-worth-in-a-merger-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 15:40:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How much could Tesla be worth in a merger deal?"
+    },
+    {
+     "title": "实控人出借5000万“输血”华神科技",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907131314.html",
+     "pubDate": "Sun, 25 Oct 2026 03:35:14 +0800",
+     "summary": "华神科技 （000790.SZ）来自关联方包揽定增的注资还未落袋，实控人对其新一轮的“输血”已经在路上。 近日， 华神科技 公告间接控股股东四川星慧 酒店 管理集团有限公司（以下简称“星慧集团”）拟向其提供不超过5000万元（含）的无息借款。 与此同时，星慧集团全资子公司成都远泓生物科技有限公司（以下简称“远泓生物”）全额认购 华神科技 定增的事项仍在推进中。根据募集说明书，远泓生物拟认购金额3亿—3.5亿元。 经过股权穿透，远泓生物、星慧集团均由华神科技实际控制人黄明良、欧阳萍夫妇控制。 根据募集说明书，远泓生物此次参与华神科技定增，其认购资金来源包括金融机构借款、星慧集团及其子公司借款。 ",
+     "source": "东方财富股票",
+     "zh": "实控人出借5000万“输血”华神科技"
+    },
+    {
      "title": "Key deals this week: Visa, London Stock Exchange, Tradeweb Markets, Salesforce, and more",
      "link": "https://seekingalpha.com/news/4656932-key-deals-this-week-visa-london-stock-exchange-tradeweb-markets-salesforce-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 15:15:10 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Key deals this week: Visa, London Stock Exchange, Tradeweb Markets, Salesforce, and more"
-    },
-    {
-     "title": "加速新品研发节奏 茶百道秋季新品累计销量超3000万杯",
-     "link": "http://finance.eastmoney.com/news/1354,202610253907133591.html",
-     "pubDate": "Sun, 25 Oct 2026 03:05:58 +0800",
-     "summary": "10月25日，北京商报记者从 茶百道 了解到，秋季以来，新品累计销量超3000万杯。前不久， 茶百道 秋冬饮品固体杨枝甘露回归时，首周登顶全国近八成门店销量榜首，有门店单日售出超300杯。 茶百道 相关负责人介绍，秋冬是“情绪消费”旺季，公司加速新品研发节奏、业绩表现整体向好。“随着天气转凉，饮品消费正从以解渴为主，转向更注重甜品口感的情绪体验，在新品研发时我们会格外注重原料与口感，近期推出的半熟芝士球新品第一天就卖了近30万杯。” （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "加速新品研发节奏 茶百道秋季新品累计销量超3000万杯"
-    },
-    {
-     "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-     "link": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
-     "pubDate": "Sat, 24 Oct 2026 18:56:29 GMT",
-     "summary": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
-     "source": "CNBC",
-     "zh": "Biotech stocks are surging. How investors can play the new drug innovation boom"
-    },
-    {
-     "title": "煤市“淡季不淡”！中国神华第三季度营收超千亿 创同期新高",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907130868.html",
-     "pubDate": "Sun, 25 Oct 2026 02:51:21 +0800",
-     "summary": "中国神华 （601088）第三季度营收创历史同期新高。 10月23日， 中国神华 披露最新业绩报告。2026年前三季度公司实现营收2960.31亿元，同比增长9%；归母净利润444.03亿元，同比增长3.8%。 单季度看，公司第三季度实现营收1066.93亿元，同比增长10.9%，创同期新高；归母净利润156.88亿元，同比增长3.2%。今年三季度 煤炭 市场“淡季不淡”，供给端收紧、进口煤补充减弱，叠加需求整体平稳，推动煤价中枢抬升。 分业务看，报告期内，公司 煤炭 主业呈现“量减价增、成本改善”格局。前三季度商品煤产量3.819亿吨，同比下降2.3%； 煤炭 销售量4.606亿吨，同比微增",
-     "source": "东方财富股票",
-     "zh": "煤市“淡季不淡”！中国神华第三季度营收超千亿 创同期新高"
     },
     {
      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
@@ -2298,44 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some."
     },
     {
-     "title": "俄乌将为奥列什基人道主义行动同步停火",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907134491.html",
-     "pubDate": "Sun, 25 Oct 2026 02:40:41 +0800",
-     "summary": "据塔斯社24日报道，俄罗斯人权事务专员兰特拉托娃当天说，俄罗斯和乌克兰正按照已达成的约定，推进在赫尔松地区奥列什基开展人道主义行动的计划，双方将为此在当地同步停火。 报道说，兰特拉托娃当天与乌方停火谈判首席代表、乌克兰最高拉达（议会）人权专员德米特罗·卢比涅茨举行线上会谈，讨论在奥列什基开展人道主义行动的细节。 兰特拉托娃在社交媒体上援引卢比涅茨的话称，乌军将从基辅时间10月27日4时起停火，与俄军停火时间一致。 俄新社24日报道，俄罗斯联邦武装力量总参谋长瓦列里·格拉西莫夫23日宣布，俄军将在赫尔松方向停火，并从莫斯科时间10月27日4时起进入“静默”状态，以配合将在奥列什基开展的人道主义行",
-     "source": "东方财富股票",
-     "zh": "俄乌将为奥列什基人道主义行动同步停火"
-    },
-    {
-     "title": "尼日利亚一社区遭武装分子袭击 至少37人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907134370.html",
-     "pubDate": "Sun, 25 Oct 2026 02:35:59 +0800",
-     "summary": "当地时间10月24日，尼日利亚塔拉巴州警方对外披露，该州卡里姆-拉米多地方政府区的一个社区于23日下午遭到武装分子大规模越境袭击。目前，该事件已造成至少37名平民丧生。 塔拉巴州警察指挥部发言人证实，武装分子闯入社区后进行了无差别射击，并大肆洗劫、纵火焚烧大量房屋与商铺。目前，当地警方已启动红色预警，并联合尼日利亚陆军及其他安全机构部署战术增援部队，全面接管事发现场。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "尼日利亚一社区遭武装分子袭击 至少37人死亡"
-    },
-    {
-     "title": "法国内政部长：警方在示威活动中逮捕近千人",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907134237.html",
-     "pubDate": "Sun, 25 Oct 2026 02:30:21 +0800",
-     "summary": "当地时间24日晚，法国内政部长努内兹表示，警方在当天的全国性抗议示威活动中逮捕了近一千人。 努内兹表示，当天，执法人员面临持续的投掷物袭击和烟火装置攻击，部分示威现场暴力程度较高。警方对相关违法行为进行了干预。 法国17日爆发全国性示威。法国政府估计，全国约55万人参加示威，组织方则称人数达到80万。部分城市的示威活动伴有暴力冲突。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "法国内政部长：警方在示威活动中逮捕近千人"
-    },
-    {
      "title": "Insider trades: Blackberry, Accenture and Cleveland-Cliffs among notable names",
      "link": "https://seekingalpha.com/news/4656936-insider-trades-blackberry-accenture-and-cleveland-cliffs-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 14:29:24 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Insider trades: Blackberry, Accenture and Cleveland-Cliffs among notable names"
-    },
-    {
-     "title": "OpenAI批量生成数学研究手稿引发争议 AI抢了数学家饭碗？国内校企这样“接招”",
-     "link": "http://finance.eastmoney.com/news/1354,202610253907133292.html",
-     "pubDate": "Sun, 25 Oct 2026 02:10:34 +0800",
-     "summary": "10月，全球数学界遭遇一场颠覆性震荡。美国OpenAI集中放出722篇AI生成的数学研究手稿，覆盖372个前沿开放难题，当中不乏悬置数十年经典猜想的论证结果。 这场突如其来的“突袭”，直接搅动全球数学科研格局：不少高校学者、博士生耗费数年深耕的课题被AI抢先产出相关结果，许多原创研究陷入“成果被抢占、研究价值归零”的困境。一时间，“AI究竟是科研的助推器，还是基础学科的破坏者”成为学界热议焦点。 事件 AI公司公布数百篇论文 被指“抢了数学家饭碗” 今年9月，纽约大学数学家特里斯坦·巴克马斯特团队耗时一年攻坚千禧年难题——纳维-斯托克斯方程。但就在团队对外公布阶段性研究成果次日，OpenAI便",
-     "source": "东方财富股票",
-     "zh": "OpenAI批量生成数学研究手稿引发争议 AI抢了数学家饭碗？国内校企这样“接招”"
     },
     {
      "title": "Zymeworks early-stage results on ADC show anti-tumor activity in ovarian cancer",
@@ -2370,52 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?"
     },
     {
-     "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-     "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 17:23:00 GMT",
-     "summary": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
-     "source": "MarketWatch",
-     "zh": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan"
-    },
-    {
-     "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
-     "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-     "pubDate": "Sat, 24 Oct 2026 17:13:23 GMT",
-     "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
-     "source": "Financial Times",
-     "zh": "Hundreds of thousands protest in France in second weekend of mass demonstrations"
-    },
-    {
-     "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-     "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 16:59:00 GMT",
-     "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
-     "source": "MarketWatch",
-     "zh": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath"
-    },
-    {
-     "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-     "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 16:46:00 GMT",
-     "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
-     "source": "MarketWatch",
-     "zh": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch."
-    },
-    {
      "title": "Couche-Tard makes bid for Cumberland Farms: report",
      "link": "https://seekingalpha.com/news/4656933-couche-tard-makes-bid-cumberland-farms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 12:30:05 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Couche-Tard makes bid for Cumberland Farms: report"
-    },
-    {
-     "title": "Real estate stocks trade mixed as earnings releases pick pace",
-     "link": "https://seekingalpha.com/news/4656716-real-estate-stocks-trade-mixed-as-earnings-releases-pick-pace?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 12:00:35 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Real estate stocks trade mixed as earnings releases pick pace"
     },
     {
      "title": "Why popular airplanes are getting scrapped years early",
@@ -2426,28 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why popular airplanes are getting scrapped years early"
     },
     {
-     "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-     "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-     "pubDate": "Sat, 24 Oct 2026 15:00:01 GMT",
-     "summary": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds.",
-     "source": "CNBC",
-     "zh": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager"
-    },
-    {
      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
      "link": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
      "pubDate": "Sat, 24 Oct 2026 14:30:01 GMT",
      "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
      "source": "CNBC",
      "zh": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer"
-    },
-    {
-     "title": "花胶产业如何在困境中挖掘新机遇？",
-     "link": "http://www.eeo.com.cn/2026/1024/1074914.shtml",
-     "pubDate": "Sat, 24 Oct 2026 22:00:31 +0800",
-     "summary": "中国工程院院士薛长湖认为，在花胶产业发展路径中，科技创新、产品创新、产业创新三者环环相扣，缺一不可。",
-     "source": "经济观察网",
-     "zh": "花胶产业如何在困境中挖掘新机遇？"
     },
     {
      "title": "Ukraine military says Starlink service restrictions have been lifted",
@@ -2496,6 +2488,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
      "source": "华尔街见闻",
      "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
+    },
+    {
+     "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
+     "link": "https://wallstreetcn.com/articles/3784397",
+     "pubDate": "Sat, 24 Oct 2026 19:03:44 +0800",
+     "summary": "据台湾《经济日报》报道，英伟达、英特尔、AMD三大科技巨头为抢占AI供应链关键产能，已向中国台湾高阶IC载板厂合计预付逾新台币千亿元（约50亿美元）订金，锁定长期产能供应。 受此驱动，台湾载板三强欣兴、景硕与南电今年累计宣布投资建厂规模达1612亿元新台币，创下历史新高。 英特尔执行长陈立武（Lip-Bu Tan）此前公开表示，AI需求带动先进封装与芯片需求，上游IC载板及材料供应持续吃紧，已有多家客户主动提前支付预付款，以协助英特尔锁定载板与产能。法人据此推估，英特尔长期预购载板产能金额约30亿美元。 AMD此前宣布投资台湾百亿美元，业界普遍解读为锁定供应链产能，其中载板相关投资估计约10亿",
+     "source": "华尔街见闻",
+     "zh": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能"
     }
    ]
   },

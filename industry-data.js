@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 15:26:41",
+ "generated_at": "2026/10/24 15:32:49",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Vietnam orders provinces to introduce rooftop solar incentives by December 2026",
+     "link": "https://www.pv-magazine.com/2026/10/24/vietnam-orders-provinces-to-introduce-rooftop-solar-incentives-by-december-2026/",
+     "pubDate": "Sat, 24 Oct 2026 07:30:00 +0000",
+     "summary": "Vietnam has instructed provincial and municipal authorities to introduce support policies for residential rooftop solar installations by the end of December 2026, as part of efforts to secure electricity supplies between 2027 and 2030. The government is also pushing for faster deployment of battery ",
+     "source": "pv magazine",
+     "zh": "Vietnam orders provinces to introduce rooftop solar incentives by December 2026"
+    },
+    {
      "title": "Couple travels through 10 African countries in solar-powered motorhome with battery storage",
      "link": "https://www.pv-magazine.com/2026/10/24/couple-travels-through-10-african-countries-in-solar-powered-motorhome-with-battery-storage/",
      "pubDate": "Sat, 24 Oct 2026 07:00:00 +0000",
@@ -1040,14 +1048,6 @@ window.INDUSTRY_DATA = {
      "summary": "Italy’s second FER2 auction for floating solar projects on inland waters has allocated its entire 30 MW quota, following weak participation in the first round. Eight projects secured capacity, while two were excluded despite offering a 2% discount on the reference tariff. The post Italy awards full ",
      "source": "pv magazine",
      "zh": "Italy awards full 30 MW quota in second floating PV tender"
-    },
-    {
-     "title": "The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use",
-     "link": "https://www.pv-magazine.com/2026/10/23/the-hydrogen-stream-italian-company-unveils-seven-layer-pem-electrolyzer-assembly-to-reduce-iridium-use/",
-     "pubDate": "Fri, 23 Oct 2026 10:07:42 +0000",
-     "summary": "Another 100 companies wrote the European executive body to preserve EU green hydrogen targets. Meanwhile, the European Commission selected 77 net-zero projects, including several hydrogen projects. The post The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce ",
-     "source": "pv magazine",
-     "zh": "The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use"
     },
     {
      "title": "European solar PPA prices up 0.4% in Europe and 4.9% in the US",
@@ -1754,6 +1754,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "独特形态全键盘手机 Brax Wink 亮相：主打一键保护隐私和模块化设计",
+     "link": "https://www.ithome.com/1/017/400.htm",
+     "pubDate": "Sat, 24 Oct 2026 07:27:44 GMT",
+     "summary": "IT之家 10 月 24 日消息，现如今的模块化手机大多主打硬件可更换、维修方便，Brax 则为即将推出的新机选择了另一条路线：将隐私保护放在首位。 Brax Wink 采用类似黑莓手机的直板设计， 上方是一块 4 英寸 OLED 屏幕，下方配备实体全键盘 。键盘模块可以拆卸，用户也能将其替换为额外的电池模块。 Wink 搭载基于 Android 开发的 BraxOS 操作系统，移除了谷歌服务。用户无需谷歌账号即可使用，系统也不会为了收集分析数据或投放广告而追踪使用行为。BraxOS 完全开源 ，任何人都可以通过 GitHub 审查源代码。 机身侧面还设有实体隐私开关， 可以关闭整部手机的移动",
+     "source": "IT之家",
+     "zh": "独特形态全键盘手机 Brax Wink 亮相：主打一键保护隐私和模块化设计"
+    },
+    {
+     "title": "Meta迎来“分裂季”",
+     "link": "https://www.huxiu.com/article/4900135.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 15:26:29 +0800",
+     "summary": "本文来自微信公众号： 听筒Tech ，作者：听筒Tech工作室 自由现金流上市以来首次转负。 听筒Tech（ID:tingtongtech）原创 Meta刚刚经历了一个魔幻的季度。 美东时间2026年10月21日盘后，Meta发布了三季度财报（截至9月30日），营收646亿美元、同比增长26%，广告收入631亿美元，四季度指引中值745亿美元，全线超出华尔街预期。 但几乎同一时间，新墨西哥州法官签下对Meta的250亿美元罚单，外加15%年息，成为美国任何一个州对科技公司开出的最重罚单。 和罚单同样刺眼的，还有现金流表。三季度，Meta自由现金流自2012年上市以来首次转负，长期债务从587亿",
+     "source": "虎嗅",
+     "zh": "Meta迎来“分裂季”"
+    },
+    {
+     "title": "手办制造商 Good Smile Company 官网在线商店遭黑客入侵，用户部分隐私信息外泄",
+     "link": "https://www.ithome.com/1/017/399.htm",
+     "pubDate": "Sat, 24 Oct 2026 07:24:19 GMT",
+     "summary": "IT之家 10 月 24 日消息，知名手办制造商 Good Smile Company（GSC）昨日发布公告称，旗下官网线上商店遭黑客入侵，导致平台用户个人信息遭到外泄，涉及姓名、住址、电子邮箱、购买记录及信用卡部分信息等。 根据官方分析系统日志的结果，GSC 网站管理信息于日本时间 10 月 19 日下午 3 时至 10 月 22 日晚上 10 时左右多次遭到黑客未经授权访问。 GSC 在发现异常后立即关闭官方线上商店，目前官方仍在调查事件原因及影响范围，商店恢复运营的时间尚未确 定。 GSC 确认，可能遭到外泄的信息主要包含用户个人信息（包括姓名、姓名读音、性别、住址、电话号码及电子邮箱）",
+     "source": "IT之家",
+     "zh": "手办制造商 Good Smile Company 官网在线商店遭黑客入侵，用户部分隐私信息外泄"
+    },
+    {
      "title": "中国联通：已在苹果直营店 / 授权店安排千余名驻店员，协助 iPhone Duo 购机用户现场开通 eSIM",
      "link": "https://www.ithome.com/1/017/397.htm",
      "pubDate": "Sat, 24 Oct 2026 07:14:58 GMT",
@@ -1802,28 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "父亲突发脑梗后儿子用豆包 AI 抢出救命时间，话题登顶微博热搜"
     },
     {
-     "title": "大众安徽与众 09 上市：5 米长纯电轿跑，双十一惊喜价 16.99 万元起",
-     "link": "https://www.ithome.com/1/017/393.htm",
-     "pubDate": "Sat, 24 Oct 2026 07:07:18 GMT",
-     "summary": "IT之家 10 月 24 日消息，大众安徽旗下与众 09 今日上市，定位“智能美学纯电轿跑”，共推出 3 款车型，双十一惊喜价 16.99 万元起。 IT之家附价格如下： Ultra 官方指导价 17.99 万元，双十一惊喜价 16.99 万元 满配版官方指导价 21.99 万元 Max 版官方指导价 24.99 万元 新车长宽高分别为 5081mm*1980mm*1509mm， 轴距 3030mm ，共推出耀夜黑、晨光白、暮光紫、晴海蓝等 4 种漆色；还有三种内饰，包括暖居米、云雾紫、隐夜黑三款颜色选择。 内饰方面，与众 09 采用较为科技感的方案，配备贯穿式空调出风口，中控带有大尺寸悬浮屏",
-     "source": "IT之家",
-     "zh": "大众安徽与众 09 上市：5 米长纯电轿跑，双十一惊喜价 16.99 万元起"
-    },
-    {
      "title": "在非洲干活的中国人少了七成，活只少了两成多 | 长颈鹿笔记",
      "link": "https://www.huxiu.com/article/4900131.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 15:05:52 +0800",
      "summary": "本文来自微信公众号： 南瞻 ，作者：南瞻，原文标题：《在非洲干活的中国人少了七成，活只少了两成多 | 长颈鹿笔记》 全篇阅读时间约2-3分钟 南瞻： “ 非洲承包工程的营业额降了20%+，同时外派中国员工数降了60%+ ” 如果只说一句：“降(Juan)本(Qi)增(Lai)效(Le)” 想必大家在各种新闻和社交媒体上已经无数次看到中国大批量企业商人涌向非洲的消息，以及也有拍摄从国内直飞内罗毕的航班上坐满了中国旅客的照片。这与我们在非洲实际体验是相符的，做贸易的、开工厂的、做电商的、开餐馆的一年比一年多 于是我们就好奇了，到底非洲涌进了多少中国人？然而这个数据实际上是没有官方统计的（至少我们没",
      "source": "虎嗅",
      "zh": "在非洲干活的中国人少了七成，活只少了两成多 | 长颈鹿笔记"
-    },
-    {
-     "title": "消息称小米 18T / Pro 系列手机继续开案：配备天玑芯片、测试 2 亿徕卡影像",
-     "link": "https://www.ithome.com/1/017/391.htm",
-     "pubDate": "Sat, 24 Oct 2026 07:05:41 GMT",
-     "summary": "IT之家 10 月 24 日消息，博主 @智慧皮卡丘发文，透露小米 T 系列继续开案，相应机型采用中大屏方案、配备天玑芯片、测试 2 亿徕卡影像。系列预计为小米 18T / Pro，有望于明年 618 大促前上市。相应手机主打“影调”，比例“没有太阔”。 作为参考，小米 T 系列从去年 17T/Pro 开始登陆国内市场，系列手机中标准版 17T 机型配备一块 6.59 英寸 2756 x 1268 分辨率 120Hz OLED 面板，使用天玑 8500-Ultra，搭配 LPDDR5X 内存与 UFS 4.1 闪存。 ▲ 小米 17T Pro 而 17T Pro 机型采用一块 6.83 英寸 ",
-     "source": "IT之家",
-     "zh": "消息称小米 18T / Pro 系列手机继续开案：配备天玑芯片、测试 2 亿徕卡影像"
     },
     {
      "title": "解密西部最大“安全岛”：成都为何逆势上涨？又为何补跌？",
@@ -1850,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "超级运动巨头的时代要消失了？"
     },
     {
-     "title": "肯尼亚在建18层楼房倒塌中的人治之祸",
-     "link": "https://www.huxiu.com/article/4900125.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 14:15:20 +0800",
-     "summary": "本文来自微信公众号： 小聂说非洲 ，作者：聂少锐 10月23日，内罗毕（Eastleigh）一栋正在施工的高层建筑轰然倒塌。楼层像叠起来的纸片一样压在一起，街道瞬间被灰尘和碎石吞没。事发时，楼房底层和地下室已有商铺营业，附近又是人流密集的商业区。到目前为止，官方确认有人员失踪，救援仍在继续；建筑究竟有多少层、为何倒塌，也还没有最终调查结论。 在调查结果出来之前，不能替调查机构宣布谁该负责。但有一点已经不需要等待调查：这不是肯尼亚第一次看到在建楼房倒下，也不是一场可以用“意外”两个字轻轻带过的事故。 过去一年多，类似警讯一再出现。2025年4月，基西一栋四层建筑倒塌，造成多人死亡；同月，蒙巴萨一",
-     "source": "虎嗅",
-     "zh": "肯尼亚在建18层楼房倒塌中的人治之祸"
-    },
-    {
      "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)",
      "link": "https://www.techmeme.com/261024/p1#a261024p1",
      "pubDate": "Sat, 24 Oct 2026 01:45:00 -0400",
@@ -1869,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "OBS Studio 33",
      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
      "pubDate": "Sat, 24 Oct 2026 04:49:58 +0000",
-     "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 37 # Comments: 0",
+     "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 58 # Comments: 1",
      "source": "Hacker News",
      "zh": "OBS Studio 33"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "How close can pure functional programming get to C?",
      "link": "https://rtfeldman.com/fp-vs-c",
      "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
-     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 63 # Comments: 6",
+     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 70 # Comments: 7",
      "source": "Hacker News",
      "zh": "How close can pure functional programming get to C?"
     },
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "How Block Blast harvests its players for ad money",
      "link": "https://ayoships.com/breakdowns/block-blast",
      "pubDate": "Sat, 24 Oct 2026 02:43:43 +0000",
-     "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 20 # Comments: 3",
+     "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 26 # Comments: 3",
      "source": "Hacker News",
      "zh": "How Block Blast harvests its players for ad money"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Apple Security Research Device",
      "link": "https://security.apple.com/research-device/",
      "pubDate": "Sat, 24 Oct 2026 02:36:38 +0000",
-     "summary": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 27 # Comments: 1",
+     "summary": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 33 # Comments: 1",
      "source": "Hacker News",
      "zh": "Apple Security Research Device"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
      "pubDate": "Sat, 24 Oct 2026 01:53:10 +0000",
-     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 84 # Comments: 22",
+     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 85 # Comments: 22",
      "source": "Hacker News",
      "zh": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Twelve years of distributed SQLite",
      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
      "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
-     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 140 # Comments: 16",
+     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 147 # Comments: 16",
      "source": "Hacker News",
      "zh": "Twelve years of distributed SQLite"
     },
@@ -2250,6 +2250,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "福特在美国召回3376辆汽车",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907091417.html",
+     "pubDate": "Sat, 24 Oct 2026 15:16:28 +0800",
+     "summary": "据美国国家公路交通安全管理局消息，福特在美国召回3376辆 汽车 。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "福特在美国召回3376辆汽车"
+    },
+    {
      "title": "《2026新消费产业发展报告》发布",
      "link": "http://finance.eastmoney.com/news/1354,202610243907091098.html",
      "pubDate": "Sat, 24 Oct 2026 15:14:42 +0800",
@@ -2290,14 +2298,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国一核聚变技术初创公司宣称实现“汞变稳定黄金” 产出水平是欧洲十倍"
     },
     {
-     "title": "东方钽业第三季度营收同比增长119.38%，单季归母净利润翻倍创历史新高",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907091387.html",
-     "pubDate": "Sat, 24 Oct 2026 15:01:00 +0800",
-     "summary": "中国有色集团旗下 东方钽业 （000962.SZ）披露2026年第三季度报告，公司前三季度实现营业收入19.21亿元，同比增长60.29%；归母净利润2.51亿元，同比增长20.38%；扣非后归母净利润2.44亿元，同比增长24.84%。公告指出，报告期内公司积极拓展市场空间，募投项目产能持续释放，在手订单增加、产品销量同比增加，同时钽铌原料价格上行带动产品售价上升共同推动营业收入同比增长。 作为国内最大的钽、铌产品生产基地、科技先导型钽铌研究中心，这家科技金属龙头在三季度迎来盈利突破：单季营业收入8.81亿元，同比增长119.38%；归母净利润1.28亿元，同比增长102.18%；扣非后归母",
-     "source": "东方财富股票",
-     "zh": "东方钽业第三季度营收同比增长119.38%，单季归母净利润翻倍创历史新高"
-    },
-    {
      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 07:00:00 GMT",
@@ -2314,14 +2314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
     },
     {
-     "title": "周鸿祎大动作！拟转让这家公司股权",
-     "link": "http://stock.eastmoney.com/news/11219,202610243907086580.html",
-     "pubDate": "Sat, 24 Oct 2026 14:28:26 +0800",
-     "summary": "证券时报记者注意到，“红衣教主”周鸿祎正在酝酿大动作。 据北京产权交易所，周鸿祎拟转让北京奇飞翔艺商务咨询有限公司（下称“奇飞翔艺”）12.9%股权，转让底价为2.19亿元，披露期为2026年10月26日至11月20日。若交易完成，他将不再直接持有奇飞翔艺股权。 据悉，奇飞翔艺已于3月13日形成利润分配股东决议，周鸿祎获得分红0.54亿元，转让底价已考虑该分红。按周鸿祎持股对应底价倒推，奇飞翔艺全部股权对应价格约17亿元。 同期挂牌的还有其他股东。截至10月24日，记者统计发现，本轮共有28个奇飞翔艺 股权转让 项目，披露期均为10月26日至11月20日，涉及奇飞翔艺87.75%股权，转让底价",
-     "source": "东方财富资讯",
-     "zh": "周鸿祎大动作！拟转让这家公司股权"
-    },
-    {
      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
      "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
      "pubDate": "Sat, 24 Oct 2026 06:23:02 GMT",
@@ -2336,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "此前市场极度拥挤的“做多AI，做空其他一切”交易正在经历痛苦的解构，创纪录抛售下，超大规模云厂商迎“变现大考”。 10月22日，高盛欧洲固定收益与股票（FICC & Equities）交易主管Rich Privorotsky在位于伦敦的高盛交易室接受了播客栏目《The Markets》的访谈。Privorotsky透露了一个极具冲击力的数据： “上周我们的主经纪商业务账簿（Prime book）上，出现了有史以来最大规模的科技股抛售。” 面对这波抛售潮，正在进行中的三季度财报季显得尤为关键。市场的焦点已从单纯的“讲故事”转向了严苛的业绩兑现。Privorotsky指出，市场预计明年AI的资本支",
      "source": "华尔街见闻",
      "zh": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI"
-    },
-    {
-     "title": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！",
-     "link": "http://stock.eastmoney.com/news/11228,202610243907083341.html",
-     "pubDate": "Sat, 24 Oct 2026 13:51:01 +0800",
-     "summary": "亚马逊 首席执行官安迪·贾西（Andy Jassy）周五表示，受 人工智能 （AI）基础设施需求不断增长的影响， 亚马逊 网络服务（AWS）的 云计算 容量在2027年底前已基本售罄，且大量订单已排至2028年。 在与安德森·霍洛维茨（Andreessen Horowitz）联合创始人本·霍洛维茨（Ben Horowitz）及普通合伙人埃里克·托伦伯格（Erik Torenberg）的视频播客中，贾西表示， 亚马逊 AWS正在努力快速扩展基础设施，以满足 人工智能 实验室和企业源源不断的需求。 当前， 人工智能 开发人员和企业客户对计算资源的需求日益增长，以训练、部署和运行人工智能模型，这给可",
-     "source": "东方财富资讯",
-     "zh": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！"
     },
     {
      "title": "远期需求旺盛！亚马逊AWS今明年产能都已被抢空，连2028年的算力都快没了",
@@ -2370,28 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI造电影"
     },
     {
-     "title": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发",
-     "link": "http://stock.eastmoney.com/news/11134,202610243907074028.html",
-     "pubDate": "Sat, 24 Oct 2026 12:14:12 +0800",
-     "summary": "10月23日盘后，A股上市公司集中披露2026年三季报。 横跨 半导体 、 电子 元器件、 新材料 、高端制造等多个高景气赛道的十余家企业交出了超预期的业绩答卷，多家公司今年前三季度归母净利润同比增幅突破400%，亦有多家公司第三季度单季增幅超过400%。 本轮披露的三季报中， 东岳硅材 （300821）2026年前三季度实现营业收入39.71亿元，同比增长31.21%，归母净利润达5.57亿元，同比大增19413.54%；第三季度单季实现营收13.06亿元，归母净利润1.29亿元，同比增长427.06%。 公司表示，业绩高增核心来自行业供需格局改善带动主营 有机硅 产品价格同比上涨，同时原材",
-     "source": "东方财富资讯",
-     "zh": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发"
-    },
-    {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Sat, 24 Oct 2026 12:07:56 +0800",
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
-    },
-    {
-     "title": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907071928.html",
-     "pubDate": "Sat, 24 Oct 2026 12:07:35 +0800",
-     "summary": "随着A股2026年三季报进入密集披露期，社保基金的最新调仓路径也逐渐浮出水面。 与市场惯常追逐短期热点的资金不同，以社保基金为代表的机构投资者持仓通常被市场看作“耐心资本”的重要风向。 Wind数据显示，截至10月23日，社保基金共在68家A股公司股东中现身。从社保基金调仓动向看，三季度末社保基金新进17家A股上市公司，资源类、周期板块在新进公司中占据重要比重。其中，14家公司前三季度归母净利润同比增长， 赣锋锂业 （002460.SZ）净利润增幅达19540.50%。 按照社保基金持股占流通股比例从高到低排序依次为 高凯技术 （688835.SH）、 新雷能 （300593.SZ）、 中富电",
-     "source": "东方财富资讯",
-     "zh": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%"
     },
     {
      "title": "乐享从容岁月：江苏银行以金融之力守护金色年华",
@@ -2432,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
      "source": "华尔街见闻",
      "zh": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守"
-    },
-    {
-     "title": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波",
-     "link": "http://finance.eastmoney.com/news/1344,202610243907070566.html",
-     "pubDate": "Sat, 24 Oct 2026 11:34:49 +0800",
-     "summary": "红星资本局10月24日消息，红星资本局发现，10月24日， 网红经济 学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。 从发布历史来看，10月23日下午，该账号推送一篇《市场见底，反弹行情展开》的笔记文章，阅读量6.6万，点赞量396。 10月24日，红星资本局就此咨询“泽平宏观”账号的橱窗客服。该客服告诉红星资本局，是账号异常，至于具体涉及什么违规，并不清楚。 当天，红星资本局尝试关注任泽平的个人 微博 账号，可以正常关注。 红星资本局注意到，早前，任泽平曾卷入“泽平宏观VIP群”学员亏损超千万风波。 据媒体报道，今年7月，一张“泽平宏观VIP群”学员亏损超千万",
-     "source": "东方财富资讯",
-     "zh": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波"
     },
     {
      "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
@@ -2488,6 +2448,46 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Global X 3-10 Year U.S. Treasury Bond Idx ETF US$ declares $0.20 dividend"
+    },
+    {
+     "title": "存储扩产带动薄膜沉积设备放量",
+     "link": "http://www.eeo.com.cn/2026/1024/1074302.shtml",
+     "pubDate": "Sat, 24 Oct 2026 11:21:36 +0800",
+     "summary": "随着存储芯片堆叠层数增加，产线对薄膜沉积设备的需求已经大幅增长。一般而言，堆叠层数翻倍，对应的薄膜沉积设备需求量也会翻倍甚至更多。",
+     "source": "经济观察网",
+     "zh": "存储扩产带动薄膜沉积设备放量"
+    },
+    {
+     "title": "“算水协同”如何改变数据中心",
+     "link": "http://www.eeo.com.cn/2026/1024/1074301.shtml",
+     "pubDate": "Sat, 24 Oct 2026 11:20:06 +0800",
+     "summary": "水资源正日益成为制约数据中心发展的瓶颈之一。",
+     "source": "经济观察网",
+     "zh": "“算水协同”如何改变数据中心"
+    },
+    {
+     "title": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了",
+     "link": "https://wallstreetcn.com/articles/3784382",
+     "pubDate": "Sat, 24 Oct 2026 11:13:27 +0800",
+     "summary": "散户押注芯片股反弹的豪赌，以惨败收场。 上周，投资者向一只高风险半导体杠杆ETF单周注入创纪录的61亿美元，试图抄底持续下跌的芯片股。然而，这笔赌注几乎在入场的同时便开始亏损——本周芯片股非但没有反弹，跌势反而进一步加剧。 Direxion Daily Semiconductor Bull 3X ETF（SOXL）本周再跌10.8%，创下连续第三周下跌，10月以来累计跌幅已超过43%。 市场的核心压力来自人工智能投资回报的不确定性。 投资者开始质疑，科技巨头在AI基础设施上的激进支出能否持续兑现盈利预期，这一情绪令半导体板块承压。 周四，SOXL单日暴跌20.5%，创下自6月23日以来最大单日",
+     "source": "华尔街见闻",
+     "zh": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了"
+    },
+    {
+     "title": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
+     "link": "https://wallstreetcn.com/articles/3784380",
+     "pubDate": "Sat, 24 Oct 2026 10:41:22 +0800",
+     "summary": "AI独角兽Anthropic正站在上市的历史关口，但市场逆风正在加剧不确定性。 据路透社报道，Claude聊天机器人的开发商Anthropic计划于 11月中旬 完成IPO，目标估值高达 2万亿美元 ，有望超越SpaceX今年早些时候1.77万亿美元的上市规模，成为史上最大科技IPO之一。然而，美国证券交易委员会（SEC）要求公司在启动路演前至少15天公开提交招股说明书，这意味着Anthropic 留给自己的窗口期正在迅速收窄 。 与此同时， AI板块近期遭遇明显抛售 ——CoreWeave股价两周内暴跌约30%，美光过去一个月下跌17%——市场对AI支出可持续性的疑虑持续升温。多位市场人士表",
+     "source": "华尔街见闻",
+     "zh": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了"
+    },
+    {
+     "title": "王老吉市场与品牌中心高级经理冀美旭：用世界愿意参与的方式讲好中国品牌的故事",
+     "link": "http://www.eeo.com.cn/2026/1024/1074227.shtml",
+     "pubDate": "Sat, 24 Oct 2026 10:13:03 +0800",
+     "summary": "10月23日，由《经济观察报》联合香港管理专业协会主办的“2026杰出品牌营销分享会”在北京举行。王老吉市场与品牌中心高级经理冀美旭在会上表示，当王老吉要走向世界，要思考的不只是如何让世界看见它，更是如何去创造一个全球消费者都愿意了解、愿意参与、愿意分享的品牌心智。不只是把产品卖到全球，更加让中国品牌走进全球生活，用世界愿意参与的方式讲好中国品牌的故事。",
+     "source": "经济观察网",
+     "zh": "王老吉市场与品牌中心高级经理冀美旭：用世界愿意参与的方式讲好中国品牌的故事"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 22:32:04",
+ "generated_at": "2026/10/24 22:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Here are the top AI agents that can live in your text messages",
+     "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+     "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
+     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+     "source": "TechCrunch AI",
+     "zh": "Here are the top AI agents that can live in your text messages"
+    },
     {
      "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
      "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
@@ -239,14 +247,6 @@
      "summary": "智东西 作者 | 云鹏 编辑｜心缘 智东西10月23日消息，根据华为官网管理层信息， 华为终端BG CEO何刚升任华为董事， 这位在华为工作了28年的老将，正式进入华为董事会。 何刚和余承东也是华为终端业务线“唯二”进入董事会的成员。 根据官网信息，何刚出生于1973年，毕业于西安电子科技大学，硕士。1998年加入华为，历任 无线GSM&UMTS产品线总裁、全球无线解决方案销售部部长、终端BG手机产品线总裁、终端BG CEO 等职务。 何刚比余承东小4岁，晚5年入职华为，同样为技术出身。 目前何刚微博信息已经更新。 2024年4月，余承东卸任终端BG CEO，何刚接任。据PChome报道， 接",
      "source": "智东西",
      "zh": "刚刚，何刚升职！成华为第17位董事"
-    },
-    {
-     "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
-     "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
-     "pubDate": "Fri, 23 Oct 2026 08:58:47 +0000",
-     "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic",
-     "source": "MarkTechPost",
-     "zh": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents"
     }
    ]
   },
@@ -1089,6 +1089,14 @@
    "total": 7,
    "items": [
     {
+     "title": "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial",
+     "link": "https://endpoints.news/esmo26-amgens-imdelltra-regimen-more-than-halves-risk-of-death-in-phase-3-lung-cancer-trial/",
+     "pubDate": "Sat, 24 Oct 2026 14:30:56 +0000",
+     "summary": "MADRID — Amgen’s Imdelltra combined with AstraZeneca’s Imfinzi slashed the chances of dying by 58% versus Imfinzi alone in the first-line maintenance setting in certain small cell lung cancer patients, breezing past the benchmark set by ...",
+     "source": "Endpoints News",
+     "zh": "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial"
+    },
+    {
      "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
      "link": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
      "pubDate": "Sat, 24 Oct 2026 11:00:00 +0000",
@@ -1199,14 +1207,6 @@
      "summary": "Another day, another Roche deal. The Swiss pharma is teaming up with Zymeworks, paying $55 million upfront for worldwide rights to a trispecific T cell engager (TCE) that could go head-to-head with Amgen’s Imdelltra. Zymeworks ...",
      "source": "Endpoints News",
      "zh": "Roche taps Zymeworks in up to $813M deal for preclinical T cell engager"
-    },
-    {
-     "title": "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial",
-     "link": "https://endpoints.news/bristol-myers-reveals-autoimmune-car-t-trial-death-explains-summertime-pause/",
-     "pubDate": "Fri, 23 Oct 2026 14:33:54 +0000",
-     "summary": "A patient has died in a Bristol Myers Squibb study of autoimmune CAR-T, the same technology that was called into question this summer when both Bristol Myers and Novartis paused similar programs. The patient, who ...",
-     "source": "Endpoints News",
-     "zh": "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial"
     },
     {
      "title": "Star adds $200M after spinout successes",
@@ -1753,6 +1753,30 @@
    "total": 18,
    "items": [
     {
+     "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
+     "link": "https://www.ithome.com/1/017/518.htm",
+     "pubDate": "Sat, 24 Oct 2026 14:41:49 GMT",
+     "summary": "IT之家 10 月 24 日消息，据中国信通院，随着大模型技术的迅速迭代，词元（Token）服务成为从技术走向应用的关键点，我国日均词元调用量持续攀升，2026 年 6 月， 国内词元日均消耗量约 500 万亿 ，是 2025 年 12 月的近 4 倍。产业中越来越多的 MaaS（Model as a Service，模型即服务）平台厂商通过公有云 API 方式供给大模型词元服务。然而用户对词元服务性能缺乏直观的判断依据，且面临选型困难等各类问题。 为有效衡量服务性能，中国信息通信研究院（简称“中国信通院”）人工智能研究所、人工智能大模型及软硬件评测工业和信息化部重点实验室和中国人工智能产业发",
+     "source": "IT之家",
+     "zh": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍"
+    },
+    {
+     "title": "研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复",
+     "link": "https://www.ithome.com/1/017/517.htm",
+     "pubDate": "Sat, 24 Oct 2026 14:39:18 GMT",
+     "summary": "IT之家 10 月 24 日消息，Meta 旗下个人 AI 助手 Muse 的对话分享功能被曝存在隐私风险。 网络安全研究团队 Claroc 于 10 月 18 日发布报告称，研究人员通过被动 DNS（Passive DNS）查询发现，超过 6800 个 Muse 分享页面的域名可以被检索到，部分页面包含个人财务资料、企业内部文件及机密会议准备信息。Meta 随后暂停了该功能，并表示正在调查问题及评估改进方案。 Claroc 研究团队发现，Muse 会根据用户分享的对话标题生成网页地址，并将其部署在 cf.metaaiusercontent.com 域名下。由于对话标题被写入子域名，当用户或接",
+     "source": "IT之家",
+     "zh": "研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复"
+    },
+    {
+     "title": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)",
+     "link": "https://www.techmeme.com/261024/p5#a261024p5",
+     "pubDate": "Sat, 24 Oct 2026 10:30:01 -0400",
+     "summary": "Jay Peters / The Verge : Block unveils Dessa, a &ldquo;true speech-to-speech&rdquo; AI model trained on &ldquo;nothing but human conversation&rdquo; that it says runs locally on a MacBook Pro M4 Max or better &nbsp; &mdash;&nbsp; You have got to listen to these conversations with Block's new Dessa A",
+     "source": "Techmeme",
+     "zh": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)"
+    },
+    {
      "title": "拼多多紧急捐赠 1000 万元，驰援西藏那曲抗震救灾",
      "link": "https://www.ithome.com/1/017/512.htm",
      "pubDate": "Sat, 24 Oct 2026 14:28:50 GMT",
@@ -1793,14 +1817,6 @@
      "zh": "五轴机床被中国人搬上桌面？老外想买还得看资格"
     },
     {
-     "title": "Here are the top AI agents that can live in your text messages",
-     "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-     "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
-     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-     "source": "TechCrunch",
-     "zh": "Here are the top AI agents that can live in your text messages"
-    },
-    {
      "title": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元",
      "link": "https://www.ithome.com/1/017/509.htm",
      "pubDate": "Sat, 24 Oct 2026 13:54:41 GMT",
@@ -1817,6 +1833,14 @@
      "zh": "“黑色十月”席卷全球互联网，AI正彻底掀翻网络安全牌桌？"
     },
     {
+     "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
+     "link": "https://www.solidot.org/story?sid=85701",
+     "pubDate": "Sat, 24 Oct 2026 21:50:21 +0800",
+     "summary": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一座大型核反应堆的输出电力。很多削减用电量措施能自动执行，如利用智能恒温器在夏季用电高峰期调低空调运行强度，或者通过电池系统提供临时电力。与 Google 合作的能源服务公司 Voltus 表示，通过聚合成千上万家企业和家庭的用电，该项目能在最需要用电的时候可靠提供大量额外电力容量，而且能在几年内实现。尽管科技公司若想持续建设大型数据中心，最终仍需建造传统的发",
+     "source": "Solidot",
+     "zh": "为让数据中心有充足电力 Google 将付钱给其他人少用电"
+    },
+    {
      "title": "“二选一”被赶出了双11，但平台们还在海外重演旧戏",
      "link": "https://www.huxiu.com/article/4900197.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 21:48:22 +0800",
@@ -1828,7 +1852,7 @@
      "title": "One Must Fall 2097 Remastered",
      "link": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
      "pubDate": "Sat, 24 Oct 2026 13:47:07 +0000",
-     "summary": "Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/ Comments URL: https://news.ycombinator.com/item?id=50221179 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/ Comments URL: https://news.ycombinator.com/item?id=50221179 Points: 27 # Comments: 12",
      "source": "Hacker News",
      "zh": "One Must Fall 2097 Remastered"
     },
@@ -1841,12 +1865,12 @@
      "zh": "金饰便宜了，金店靠什么赚钱？"
     },
     {
-     "title": "Counterpoint 报告：2026 年第三季度全球 PC 出货量 5700 万台，同比下降 21%",
-     "link": "https://www.ithome.com/1/017/508.htm",
-     "pubDate": "Sat, 24 Oct 2026 13:44:33 GMT",
-     "summary": "IT之家 10 月 24 日消息，根据 Counterpoint Research 初步数据 ，2026 年第三季度全球 PC 出货量同比下降 21% 至 5700 万台，环比下降 13.8%。主要由于存储及其他零部件成本持续高企，推动 PC 价格上涨，并对市场需求形成压力。 报告提到，随着价格上涨，消费者更难为换机找到充分理由，消费市场需求持续疲软。受企业设备持续更新与 Windows 系统迁移持续推进支撑，商用需求相对稳健，但仍不足以抵消整体市场的收缩。 本季度同比降幅亦源于去年同期基数较高 。2025 年第三季度，Windows 10 支持终止期限前的集中采购以及关税相关的库存调整曾共同",
-     "source": "IT之家",
-     "zh": "Counterpoint 报告：2026 年第三季度全球 PC 出货量 5700 万台，同比下降 21%"
+     "title": "研究揭示丹尼索瓦人的长相",
+     "link": "https://www.solidot.org/story?sid=85700",
+     "pubDate": "Sat, 24 Oct 2026 21:35:31 +0800",
+     "summary": "中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30 万年至 4.5 万年前。但他们究竟长什么样？位于河北阳原的许家窑遗址 1976—1979 年共发掘出土包括头骨、下颌骨、牙齿在内的 20 件人类化石，至少代表 16 个不同年龄阶段的个体。许家窑人化石历经十余万年的埋藏，古 DNA 提取近乎无望，研究团队转向古蛋白质组学这一相对新兴的技术路径，从许家窑地点保存的 20 件标本中，无损获取内源性蛋白质开展系统",
+     "source": "Solidot",
+     "zh": "研究揭示丹尼索瓦人的长相"
     },
     {
      "title": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)",
@@ -1865,18 +1889,18 @@
      "zh": "马斯克的跑车“飞”起来了，但国产飞行汽车是另一回事"
     },
     {
-     "title": "罗技 Pebble Up 鼠标上市：平卧 + 35° 斜卧双形态，到手价 251.1 元",
-     "link": "https://www.ithome.com/1/017/507.htm",
-     "pubDate": "Sat, 24 Oct 2026 13:22:37 GMT",
-     "summary": "IT之家 10 月 24 日消息，Logitech（罗技）此前推出的双形态鼠标 Pebble Up 现已上市。其 支持便于携带的平卧和提供 35° 人体工学倾角的斜卧双形态 ，到手价 251.1 元。 IT之家了解到，Pebble Up 三维 105.8 × 59.6 × 30 (mm)，质量 79g，传感器分辨率可达 4,000 cpi，按键采用轻音点击设计，支持 2.4GHz、三设备蓝牙连接，内置 90 天续航的 290mAh 可充电锂聚合物电池。 京东 罗技 Pebble Up 双形态鼠标 251.1 元 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：",
-     "source": "IT之家",
-     "zh": "罗技 Pebble Up 鼠标上市：平卧 + 35° 斜卧双形态，到手价 251.1 元"
+     "title": "美光桃园厂工会否决奖金方案",
+     "link": "https://www.solidot.org/story?sid=85699",
+     "pubDate": "Sat, 24 Oct 2026 21:14:51 +0800",
+     "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1 万 2000 人。两个工会此前均要求，公司发放相当于 83 个月薪资的一次性奖金，并建立长期利润分享制度，将营业利润的 15% 用于员工奖金，按季而非按年发放。美光与规模较大的台中厂工会星期三（10月21日）达成协议。根据薪酬和福利改革方案，公司将从 2027 财年起，为全球员工增设季度利润分享奖金，与原有激励奖金计划（IPP）并行，新增奖金以现金和股票各",
+     "source": "Solidot",
+     "zh": "美光桃园厂工会否决奖金方案"
     },
     {
      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
      "pubDate": "Sat, 24 Oct 2026 13:09:28 +0000",
-     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 188 # Comments: 164",
+     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 219 # Comments: 205",
      "source": "Hacker News",
      "zh": "Elon Musk Just Gave Europe a Reason to Replace American Technology"
     },
@@ -1924,7 +1948,7 @@
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 54 # Comments: 13",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 56 # Comments: 15",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
@@ -1967,30 +1991,6 @@
      "summary": "Rachel Monroe / New Yorker : Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings &nbsp; &mdash;&nbsp; Algorithmic social media, which has helped create the conditions for the spread of such viol",
      "source": "Techmeme",
      "zh": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)"
-    },
-    {
-     "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
-     "link": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
-     "pubDate": "Sat, 24 Oct 2026 10:30:00 +0000",
-     "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
-     "source": "WIRED",
-     "zh": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale"
-    },
-    {
-     "title": "12 Absolutely Banging Proper Watches Under $400",
-     "link": "https://www.wired.com/story/best-watches-under-400-chosen-by-experts/",
-     "pubDate": "Sat, 24 Oct 2026 10:15:00 +0000",
-     "summary": "WIRED and its panel of watch experts hunted for real mechanical timepieces at rock-bottom prices and found a wealth of options. Here are our favorites.",
-     "source": "WIRED",
-     "zh": "12 Absolutely Banging Proper Watches Under $400"
-    },
-    {
-     "title": "I Don't Understand Quantum Physics (2018)",
-     "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-     "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 153 # Comments: 99",
-     "source": "Hacker News",
-     "zh": "I Don't Understand Quantum Physics (2018)"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Why your Ring camera is still useful without a subscription",
+     "link": "https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription/",
+     "pubDate": "Sat, 24 Oct 2026 14:30:00 +0000",
+     "summary": "Modern smart home cameras and security systems put a lot of features behind a subscription. Here are a few reasons why you don't always need to pay.",
+     "source": "Engadget",
+     "zh": "Why your Ring camera is still useful without a subscription"
+    },
     {
      "title": "The MacBook Neo uses an iPhone chip, and it's just good enough",
      "link": "https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/",
@@ -2063,14 +2071,6 @@
      "summary": "Here's how to think about your PC's fans.",
      "source": "Engadget",
      "zh": "How to improve your PC's airflow for better cooling"
-    },
-    {
-     "title": "How long is too long for an HDMI cable?",
-     "link": "https://www.engadget.com/2290438/how-long-should-hdmi-cable-be-maximum-length/",
-     "pubDate": "Sat, 24 Oct 2026 12:30:00 +0000",
-     "summary": "An HDMI cable doesn't have an exact usable length, but shorter is always better for more complex uses.",
-     "source": "Engadget",
-     "zh": "How long is too long for an HDMI cable?"
     },
     {
      "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
@@ -2249,12 +2249,92 @@
    "total": 13,
    "items": [
     {
+     "title": "Earnings scorecard: 17 out of 20 industrial companies beat EPS estimates this week",
+     "link": "https://seekingalpha.com/news/4656678-earnings-scorecard-17-out-of-20-industrial-companies-beat-eps-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 10:45:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Earnings scorecard: 17 out of 20 industrial companies beat EPS estimates this week"
+    },
+    {
+     "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+     "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 14:40:00 GMT",
+     "summary": "Simon King of Saturna Capital names two stocks tied to base metals, for investors who want to look beyond the beaten path for AI-related trades.",
+     "source": "MarketWatch",
+     "zh": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks."
+    },
+    {
+     "title": "但斌美股三季度调仓曝光！对于A股调整 其发文称：还是要“高抛低吸”",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907129759.html",
+     "pubDate": "Sat, 24 Oct 2026 22:37:24 +0800",
+     "summary": "近期，在多种因素影响下，全球科技股板块分歧加剧，出现急速调整，私募大佬的持仓动向格外受市场关注。据私募排排网最新数据，但斌三季度持仓总市值近100亿元，谷歌仍为第一大重仓股，并新进 苹果 、 SpaceX 两只股票。 面对市场调整，但斌10月以来多次发声。如10月18日发文表示：“调整经常有。回头看指数依然是向上的，关键是能不能熬过去。”10月22日回复投资者时表示：“还在坚持，否则我们国内只能买A股与港股的基金就不会回撤了。但现在看起来，A股还是要‘高抛低吸’灵活处理。” 三季度新进 苹果 、 SpaceX 两只股票 在全球科技股走势分歧加剧的背景下，私募大佬的持仓动向格外受市场关注。据私募",
+     "source": "东方财富股票",
+     "zh": "但斌美股三季度调仓曝光！对于A股调整 其发文称：还是要“高抛低吸”"
+    },
+    {
+     "title": "中铝集团与南京大学签署战略合作协议",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907129270.html",
+     "pubDate": "Sat, 24 Oct 2026 22:36:57 +0800",
+     "summary": "10月23日，中 铝 集团与南京大学在南京签署战略合作协议。根据协议，双方将在重大科研任务联合攻关、人才交流培养、科技成果转化等方面加强校企协同。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "中铝集团与南京大学签署战略合作协议"
+    },
+    {
+     "title": "Zelenskyy says Starlink restored to full speed",
+     "link": "https://seekingalpha.com/news/4656930-zelenskyy-says-starlink-restored-full-speed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 10:35:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Zelenskyy says Starlink restored to full speed"
+    },
+    {
+     "title": "Notable analyst calls this week: Intel, Apple and Zoom among top picks",
+     "link": "https://seekingalpha.com/news/4656701-notable-analyst-calls-this-week-intel-apple-and-zoom-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 10:30:48 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Notable analyst calls this week: Intel, Apple and Zoom among top picks"
+    },
+    {
+     "title": "Consumer Discretionary Earnings: EPS beats outpace revenue",
+     "link": "https://seekingalpha.com/news/4656539-consumer-discretionary-earnings-eps-beats-outpace-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 10:30:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Consumer Discretionary Earnings: EPS beats outpace revenue"
+    },
+    {
+     "title": "301563 三季度净利最高预增613%！股价近期大涨",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907127895.html",
+     "pubDate": "Sat, 24 Oct 2026 22:30:03 +0800",
+     "summary": "云汉芯城 预计第三季度业绩大增。 10月23日晚间， 云汉芯城 （301563）同步披露股票交易异常波动公告及2026年前三季度业绩预增公告，回应市场对公司近期股价大幅异动的关注。公告显示，公司股票在10月22日、10月23日连续两个交易日内收盘价格涨幅偏离值累计超过30%，根据深交所交易规则，已触发股票交易异常波动情形。 公告称，经公司董事会确认，公司目前没有任何根据有关规定应予以披露而未披露的事项或与该事项有关的筹划、商谈、意向、协议等。 与此同时公司披露的业绩预告显示，公司前三季度业绩实现爆发式增长：预计2026年前三季度归母净利润为3.35亿元—3.71亿元，同比增幅为312%—355",
+     "source": "东方财富股票",
+     "zh": "301563 三季度净利最高预增613%！股价近期大涨"
+    },
+    {
+     "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+     "link": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
+     "pubDate": "Sat, 24 Oct 2026 14:30:01 GMT",
+     "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
+     "source": "CNBC",
+     "zh": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer"
+    },
+    {
      "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
      "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 14:24:00 GMT",
      "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
      "source": "MarketWatch",
      "zh": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it"
+    },
+    {
+     "title": "多主线共振 一文拆解人形机器人板块上行逻辑",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907128885.html",
+     "pubDate": "Sat, 24 Oct 2026 22:24:00 +0800",
+     "summary": "本周（10月19日—10月23日），人形 机器人 成为市场硬科技赛道最受瞩目的板块之一。 Wind数据显示，本周，人形 机器人 指数涨11.48%，宇树 机器人 指数涨13.65%，具身智能指数涨10.65%。 10月23日，人形 机器人概念 股领涨。其中，宇树科技“20CM”涨停，股价报624元/股，总市值超2500亿元，本周股价涨幅达46.14%； 兆威机电 5天3板， 大业股份 收获6连板，奥比中光、 长盈精密 、 格灵深瞳 、绿的 谐波 等 人形机器人 部组件供应链企业涨幅显著。 从产业链视角来看，本周 人形机器人 板块多点开花，覆盖从 机器人 “身体” 到 “大脑” 的各个环节。行情",
+     "source": "东方财富股票",
+     "zh": "多主线共振 一文拆解人形机器人板块上行逻辑"
     },
     {
      "title": "5 out of 5 communications services stocks deliver EPS wins this week: Earnings Scorecard",
@@ -2265,20 +2345,20 @@
      "zh": "5 out of 5 communications services stocks deliver EPS wins this week: Earnings Scorecard"
     },
     {
-     "title": "301563 三季度净利最高预增613%！股价近期大涨",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907127895.html",
-     "pubDate": "Sat, 24 Oct 2026 22:16:09 +0800",
-     "summary": "云汉芯城 预计第三季度业绩大增。 10月23日晚间， 云汉芯城 （301563）同步披露股票交易异常波动公告及2026年前三季度业绩预增公告，回应市场对公司近期股价大幅异动的关注。公告显示，公司股票在10月22日、10月23日连续两个交易日内收盘价格涨幅偏离值累计超过30%，根据深交所交易规则，已触发股票交易异常波动情形。 公告称，经公司董事会确认，公司目前没有任何根据有关规定应予以披露而未披露的事项或与该事项有关的筹划、商谈、意向、协议等。 与此同时公司披露的业绩预告显示，公司前三季度业绩实现爆发式增长：预计2026年前三季度归母净利润为3.35亿元—3.71亿元，同比增幅为312%—355",
+     "title": "泽连斯基说“星链”在乌运行速度已恢复",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907129431.html",
+     "pubDate": "Sat, 24 Oct 2026 22:23:33 +0800",
+     "summary": "乌克兰总统泽连斯基24日说，“星链”卫星 通信 系统在乌克兰的运行速度已恢复至“受限之前”的水平。 泽连斯基当天在社交媒体上说，目前，“星链”运行速度已达到乌方所需水平。其运行速度于23日晚开始恢复，24日上午，速度已足以支持正常使用。这对乌方前线、后勤保障以及免受 无人机 袭击有重要意义。（新华社） （文章来源：新华社）",
      "source": "东方财富股票",
-     "zh": "301563 三季度净利最高预增613%！股价近期大涨"
+     "zh": "泽连斯基说“星链”在乌运行速度已恢复"
     },
     {
-     "title": "也门官员称亚丁遭导弹袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907127561.html",
-     "pubDate": "Sat, 24 Oct 2026 22:16:07 +0800",
-     "summary": "亚丁消息：一名也门安全官员24日告诉新华社记者，南部 港口 城市亚丁当天遭导弹袭击，传出剧烈爆炸声。 （文章来源：新华社）",
+     "title": "订单上行、营收利润同步走弱 南方路机押注海外与绿色装备突围",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907129984.html",
+     "pubDate": "Sat, 24 Oct 2026 22:23:13 +0800",
+     "summary": "2026年上半年（报告期），福建南方路面机械股份有限公司（下称“ 南方路机 ”）（603280.SH）在手订单同比增长17.01%，但受海外大型项目交付周期拉长、收入确认延后叠加海外市场前置投入影响，当期营收与利润双双下滑，归母净利润同比降幅达44.37%。 10月21日下午，在 南方路机 2026年中期业绩说明会上，围绕公司净利润改善路径、海外布局潜在风险、行业后市展望等议题，《华夏时报》记者向 南方路机 董事长方庆熙展开提问。 方庆熙回复记者称，报告期内，公司在手订单同比增17.01%，营收确认延后属阶段性波动；海外市场投入增加拖累利润，属于战略性前置布局。其进一步强调， 工程机械 行业正",
      "source": "东方财富股票",
-     "zh": "也门官员称亚丁遭导弹袭击"
+     "zh": "订单上行、营收利润同步走弱 南方路机押注海外与绿色装备突围"
     },
     {
      "title": "Earnings Scorecard: Financials log 80% EPS beat rate vs. revenue this week",
@@ -2289,52 +2369,12 @@
      "zh": "Earnings Scorecard: Financials log 80% EPS beat rate vs. revenue this week"
     },
     {
-     "title": "胡塞武装称沙特袭击也门一水泥厂 已致8死10伤",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907126834.html",
-     "pubDate": "Sat, 24 Oct 2026 22:13:33 +0800",
-     "summary": "据也门胡塞武装卫生部门24日消息，沙特阿拉伯主导的多国联军当天对位于也门首都萨那西北部哈姆丹地区的一座 水泥 厂发动空袭，袭击已造成8人死亡、10人受伤，死伤者中大部分为妇女儿童。 截至目前，沙特主导的联军尚未就空袭及人员伤亡情况作出回应。 当天早些时候，联军发言人图尔基·马利基在社交媒体上说，联军当天拦截并摧毁胡塞武装射向沙特首都利雅得的一枚弹道导弹。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "胡塞武装称沙特袭击也门一水泥厂 已致8死10伤"
-    },
-    {
-     "title": "法国新一轮示威活动中135人被逮捕",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907126634.html",
-     "pubDate": "Sat, 24 Oct 2026 22:12:50 +0800",
-     "summary": "当地时间24日，法国内政部长努内兹表示，截至当地时间13时，警方在当天的新一轮全国性抗议示威活动中已逮捕135人。 努内兹表示，警方同时查获了可能被用作武器的物品。据初步统计，截至当地时间24日13时，全法公共场所约有3.5万名示威者。 努内兹23日表示，法国政府将部署7万名警察和宪兵，以应对预计在24日举行的大规模示威活动可能引发的暴力行为。 法国17日爆发全国性示威。法国政府估计，全国约55万人参加示威，组织方则称人数达到80万。部分城市的示威活动伴有暴力冲突。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "法国新一轮示威活动中135人被逮捕"
-    },
-    {
-     "title": "Eli Lilly releases promising early-stage data on ADC for ovarian cancer",
-     "link": "https://seekingalpha.com/news/4656928-eli-lilly-releases-promising-early-stage-data-adc-ovarian-cancer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 10:10:51 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Eli Lilly releases promising early-stage data on ADC for ovarian cancer"
-    },
-    {
-     "title": "泽连斯基称“星链”和“星盾”在乌运行速度已恢复",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907127340.html",
-     "pubDate": "Sat, 24 Oct 2026 22:08:14 +0800",
-     "summary": "当地时间10月24日，乌克兰总统泽连斯基在社交媒体上称，“星链”和“星盾”卫星 通信 系统运行已恢复至受限前的水平，目前支持的运行速度能够满足乌方实战需求。 泽连斯基称， 通信 恢复工作于当日凌晨启动，上午经乌防长赫马拉汇报并测试确认，系统已恢复运行。该进展对前线、后勤保障以及防御 无人机 袭击至关重要。（央视新闻） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "泽连斯基称“星链”和“星盾”在乌运行速度已恢复"
-    },
-    {
      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 14:06:00 GMT",
      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
      "source": "MarketWatch",
      "zh": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some."
-    },
-    {
-     "title": "美财政部发布新版对外投资限制拟议规则 商务部：中方严重关切、坚决反对；美方限制对华投资 也会损害美企自身利益",
-     "link": "http://finance.eastmoney.com/news/1350,202610243907125944.html",
-     "pubDate": "Sat, 24 Oct 2026 22:04:00 +0800",
-     "summary": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问。 问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概",
-     "source": "东方财富股票",
-     "zh": "美财政部发布新版对外投资限制拟议规则 商务部：中方严重关切、坚决反对；美方限制对华投资 也会损害美企自身利益"
     },
     {
      "title": "花胶产业如何在困境中挖掘新机遇？",
@@ -2345,28 +2385,12 @@
      "zh": "花胶产业如何在困境中挖掘新机遇？"
     },
     {
-     "title": "Berkshire Hathaway, Blackstone in gainers; HSBC, Globe Life among losers: week's financials wrap",
-     "link": "https://seekingalpha.com/news/4656691-berkshire-hathaway-blackstone-in-gainers-hsbc-globe-life-among-losers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 10:00:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Berkshire Hathaway, Blackstone in gainers; HSBC, Globe Life among losers: week's financials wrap"
-    },
-    {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 14:00:00 GMT",
      "summary": "“Nothing has been set aside for his needs.”",
      "source": "MarketWatch",
      "zh": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
-    },
-    {
-     "title": "Revenge of the consumer: Walmart's $120 bundle takes at Amazon and Costco",
-     "link": "https://seekingalpha.com/news/4656929-revenge-of-the-consumer-walmarts-120-bundle-takes-on-amazon-and-costco?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 09:54:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Revenge of the consumer: Walmart's $120 bundle takes at Amazon and Costco"
     },
     {
      "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
@@ -2393,22 +2417,6 @@
      "zh": "Ukraine military says Starlink service restrictions have been lifted"
     },
     {
-     "title": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
-     "link": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
-     "pubDate": "Sat, 24 Oct 2026 13:05:01 GMT",
-     "summary": "As peptides gain popularity among some wellness influencers and federal government officials, doctors share what you need to know.",
-     "source": "CNBC",
-     "zh": "Fact vs. fiction: Doctors share whether peptides are safe and effective"
-    },
-    {
-     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 13:00:00 GMT",
-     "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-     "source": "MarketWatch",
-     "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
-    },
-    {
      "title": "Why popular airplanes are getting scrapped years early",
      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
      "pubDate": "Sat, 24 Oct 2026 12:59:59 GMT",
@@ -2423,14 +2431,6 @@
      "summary": "After almost 18 months, Berkshire Hathaway shares have entirely erased all the ground they lost in the wake of Warren Buffett's surprise announcement at the 2025 shareholders meeting that he would step down as CEO.",
      "source": "CNBC",
      "zh": "Berkshire shares shake the Buffett blues with new all-time highs"
-    },
-    {
-     "title": "Iran in 'advanced stages' of plans to target US officials in Middle East",
-     "link": "https://seekingalpha.com/news/4656927-iran-advanced-stages-plans-target-us-officials-middle-east?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 08:36:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Iran in 'advanced stages' of plans to target US officials in Middle East"
     },
     {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",

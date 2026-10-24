@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 21:36:23",
+ "generated_at": "2026/10/24 21:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -329,28 +329,12 @@
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
-     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
-     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
-    },
-    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
-    },
-    {
-     "title": "Space Tech Expo Europe to say farewell to Bremen",
-     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
-     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -377,30 +361,6 @@
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
-     "title": "Soft Switching Or Hard?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
-     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Soft Switching Or Hard?"
-    },
-    {
-     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
-     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
-     "source": "Electronics Weekly",
-     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
-    },
-    {
-     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
-     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
-    },
-    {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
      "link": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html",
      "pubDate": "Fri, 23 Oct 2026 08:59:00 GMT",
@@ -423,14 +383,6 @@
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Electronics production growth accelerating, says SI",
-     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
-     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -495,6 +447,54 @@
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
+    },
+    {
+     "title": "Chip Scaling Moves Beyond The Transistor",
+     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
+     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
+     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Chip Scaling Moves Beyond The Transistor"
+    },
+    {
+     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
+     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
+     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
+     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
+    },
+    {
+     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
+     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
+     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
+     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
+    },
+    {
+     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
+     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
+     "source": "Semiconductor Today",
+     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
+    },
+    {
+     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
+     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
+     "source": "Semiconductor Today",
+     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
+    },
+    {
+     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
+     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -889,6 +889,14 @@
      "zh": "Glass-free European photovoltaic modules for vehicles, noise barriers and boats"
     },
     {
+     "title": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals",
+     "link": "https://cleantechnica.com/2026/10/23/logitech-launches-chain-reaction-to-accelerate-supply-chain-decarbonization-towards-2030-climate-goals/",
+     "pubDate": "Sat, 24 Oct 2026 03:55:00 +0000",
+     "summary": "Initiative enables suppliers through renewable energy aggregation and supplier capability building. LAUSANNE, Switzerland & SAN JOSE, California — Logitech International (SIX: LOGN) (Nasdaq: LOGI) today announced the launch of Chain Reaction, a global supply chain decarbonization program designed to",
+     "source": "CleanTechnica",
+     "zh": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals"
+    },
+    {
      "title": "Waymo — Now Arriving At Harry Reid International Airport",
      "link": "https://cleantechnica.com/2026/10/23/waymo-now-arriving-at-harry-reid-international-airport/",
      "pubDate": "Sat, 24 Oct 2026 03:50:26 +0000",
@@ -961,14 +969,6 @@
      "zh": "New EV Battery Gives Gasmobiles The Deep Freeze"
     },
     {
-     "title": "If Google Fells 250,000 Trees In Finland, Does It Make A Sound?",
-     "link": "https://cleantechnica.com/2026/10/23/if-google-fells-250000-trees-in-finland-does-it-make-a-sound/",
-     "pubDate": "Fri, 23 Oct 2026 17:50:32 +0000",
-     "summary": "What I don’t know about Finland would fill a small library. As a fan of Formula One, I know that many Finnish surnames have multiple k’s — Mika Hakkinen, and Kimi Raikkonen, for example, not to mention World Rally driver Tommi Makkinen. In the world of motorsports, some like to ... [continued] The p",
-     "source": "CleanTechnica",
-     "zh": "If Google Fells 250,000 Trees In Finland, Does It Make A Sound?"
-    },
-    {
      "title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html",
      "pubDate": "Fri, 23 Oct 2026 12:20:00 -0500",
@@ -1015,14 +1015,6 @@
      "summary": "Voltalia's latest results include a turnover of €177.4 million (US$198.6 million) and a 29% increase in electricity generation to 4.1TWh.",
      "source": "PV Tech",
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
-    },
-    {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
     },
     {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
@@ -1079,6 +1071,14 @@
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1753,6 +1753,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Counterpoint 报告：2026 年第三季度全球 PC 出货量 5700 万台，同比下降 21%",
+     "link": "https://www.ithome.com/1/017/508.htm",
+     "pubDate": "Sat, 24 Oct 2026 13:44:33 GMT",
+     "summary": "IT之家 10 月 24 日消息，根据 Counterpoint Research 初步数据 ，2026 年第三季度全球 PC 出货量同比下降 21% 至 5700 万台，环比下降 13.8%。主要由于存储及其他零部件成本持续高企，推动 PC 价格上涨，并对市场需求形成压力。 报告提到，随着价格上涨，消费者更难为换机找到充分理由，消费市场需求持续疲软。受企业设备持续更新与 Windows 系统迁移持续推进支撑，商用需求相对稳健，但仍不足以抵消整体市场的收缩。 本季度同比降幅亦源于去年同期基数较高 。2025 年第三季度，Windows 10 支持终止期限前的集中采购以及关税相关的库存调整曾共同",
+     "source": "IT之家",
+     "zh": "Counterpoint 报告：2026 年第三季度全球 PC 出货量 5700 万台，同比下降 21%"
+    },
+    {
+     "title": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261024/p4#a261024p4",
+     "pubDate": "Sat, 24 Oct 2026 09:35:02 -0400",
+     "summary": "Wall Street Journal : Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service &nbsp; &mdash;&nbsp; Speed restrictions imposed by Elon Musk's SpaceX have hampered Ukraine's drone forces since Oct. 14&nbsp; &mdash;&nbsp; KY",
+     "source": "Techmeme",
+     "zh": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)"
+    },
+    {
      "title": "马斯克的跑车“飞”起来了，但国产飞行汽车是另一回事",
      "link": "https://www.huxiu.com/article/4900194.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 21:30:57 +0800",
@@ -1796,7 +1812,7 @@
      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
      "pubDate": "Sat, 24 Oct 2026 13:09:28 +0000",
-     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 43 # Comments: 9",
      "source": "Hacker News",
      "zh": "Elon Musk Just Gave Europe a Reason to Replace American Technology"
     },
@@ -1823,14 +1839,6 @@
      "summary": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬盘、Gmail 和 Google 相册中的内容向您展示个性化广告，除非您选择允许其他支持个性化广告的 Google 服务使用这些服务中的数据。”也就是如果用户不希望 Gmail 和 Google 相册",
      "source": "Solidot",
      "zh": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告"
-    },
-    {
-     "title": "小米 REDMI 首款耳夹耳机 Clip Neo 预热：支持澎湃智联、端侧语音助手",
-     "link": "https://www.ithome.com/1/017/501.htm",
-     "pubDate": "Sat, 24 Oct 2026 12:50:44 GMT",
-     "summary": "IT之家 10 月 24 日消息，小米 REDMI 首款耳夹耳机 Clip Neo 将于 10 月 27 日上市，官方现已公布部分配置信息。 IT之家从官方介绍获悉，新品采用 12mm 高性能双磁设计 ，类金刚石镀膜，支持低音增强算法、动态补偿、EQ 自定义调节、动态 AI 通话降噪等。 此外，该产品还支持小米澎湃智联多功能实体按键， 长按唤醒端侧语音助手 ，支持沉浸聊天、连续对话、智能控车控家等。 该产品单耳轻至 5.3g，佩戴回仓不区分左右耳；亲肤液态硅胶，0.6mm 耐弯记忆钛丝；仿生曲面设计，3.4mm 黄金夹距。 目前尚不清楚这款新品的具体价格信息， 而小米首款耳夹式耳机于今年 5 ",
-     "source": "IT之家",
-     "zh": "小米 REDMI 首款耳夹耳机 Clip Neo 预热：支持澎湃智联、端侧语音助手"
     },
     {
      "title": "Kimi最大迷思是，它什么都想要，但卡是有限的",
@@ -1892,7 +1900,7 @@
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 45 # Comments: 8",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 46 # Comments: 9",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
@@ -1916,7 +1924,7 @@
      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
      "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
-     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 11 # Comments: 0",
+     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 12 # Comments: 1",
      "source": "Hacker News",
      "zh": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706"
     },
@@ -1983,14 +1991,6 @@
      "summary": "侧翼战的胜负，并不取决于百度的决心有多大，而在于搭子如何避开自身的软肋。",
      "source": "钛媒体",
      "zh": "百度搭子的阶段性大考来了"
-    },
-    {
-     "title": "年轻人还在买金，只是不再为“牌子”付费",
-     "link": "https://www.tmtpost.com/8180486.html",
-     "pubDate": "Sat, 24 Oct 2026 18:03:37 +0800",
-     "summary": "爸妈买金为婚礼，年轻人买金为“发工资”。",
-     "source": "钛媒体",
-     "zh": "年轻人还在买金，只是不再为“牌子”付费"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How to get better iPhone battery life without closing any apps",
+     "link": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/",
+     "pubDate": "Sat, 24 Oct 2026 13:45:00 +0000",
+     "summary": "Apple has added a host of battery-management features to the iPhone over the years.",
+     "source": "Engadget",
+     "zh": "How to get better iPhone battery life without closing any apps"
+    },
     {
      "title": "The beneficial purpose of 'IQ' on your Anker chargers",
      "link": "https://www.engadget.com/2290640/anker-charger-iq-meaning-purpose/",
@@ -2079,14 +2087,6 @@
      "summary": "Googlebooks aren't ready for primetime, and software is only part of the problem.",
      "source": "Android Authority",
      "zh": "I spent two weeks using Googlebooks, and I have 5 big concerns"
-    },
-    {
-     "title": "Engadget review recap: iPhone Duo, Rivian R2 and more",
-     "link": "https://www.engadget.com/2295366/engadget-review-recap-iphone-duo-rivian-r2-and-more/",
-     "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
-     "summary": "A roundup of recent reviews from Engadget.",
-     "source": "Engadget",
-     "zh": "Engadget review recap: iPhone Duo, Rivian R2 and more"
     },
     {
      "title": "vivo S70 tipped to launch soon with teleconverter support",
@@ -2249,6 +2249,38 @@
    "total": 13,
    "items": [
     {
+     "title": "泽连斯基称星链限制已全面解除",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907120458.html",
+     "pubDate": "Sat, 24 Oct 2026 21:38:55 +0800",
+     "summary": "乌克兰总统泽连斯基今天（10月24日）通过社交媒体表示，乌军使用的军用版本“星链”卫星 通信 系统已完全恢复运行，服务水准回复到一周多前遭限制之前的水平。 泽连斯基称：“目前网速已达到我们需要的水平。恢复工作从昨天夜间开始，到今天早上，网速已经足以正常使用了。” （文章来源：CCTV国际时讯）",
+     "source": "东方财富股票",
+     "zh": "泽连斯基称星链限制已全面解除"
+    },
+    {
+     "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
+     "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 13:37:00 GMT",
+     "summary": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
+     "source": "MarketWatch",
+     "zh": "Investors’ recent money moves show a preference for lowering risks over boosting rewards"
+    },
+    {
+     "title": "西藏那曲市巴青县发生3.9级地震，震源深度10千米",
+     "link": "http://finance.eastmoney.com/news/11790,202610243907120357.html",
+     "pubDate": "Sat, 24 Oct 2026 21:32:39 +0800",
+     "summary": "中国地震台网正式测定：10月24日21时26分在西藏那曲市巴青县（北纬32.45度，东经93.89度）发生3.9级地震，震源深度10千米。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "西藏那曲市巴青县发生3.9级地震，震源深度10千米"
+    },
+    {
+     "title": "也门胡塞武装：沙特空袭萨那和穆哈造成多人伤亡",
+     "link": "http://finance.eastmoney.com/news/11790,202610243907120268.html",
+     "pubDate": "Sat, 24 Oct 2026 21:30:24 +0800",
+     "summary": "萨那消息：也门胡塞武装24日说，也门首都萨那和塔伊兹省的红海 港口 城市穆哈当天遭到猛烈空袭，造成多人死伤。 胡塞武装控制的马西拉电视台24日说，沙特阿拉伯主导的多国联军连续对萨那发动空袭，现场发生剧烈爆炸。当地居民表示，战机持续在萨那上空盘旋，爆炸声不断。 截至目前，沙特主导的联军尚未就空袭及人员伤亡情况作出回应。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "也门胡塞武装：沙特空袭萨那和穆哈造成多人伤亡"
+    },
+    {
      "title": "My niece’s college rent is covered by a 529 plan. What else can I pay for tax-free?",
      "link": "https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 13:28:00 GMT",
@@ -2297,22 +2329,6 @@
      "zh": "Fact vs. fiction: Doctors share whether peptides are safe and effective"
     },
     {
-     "title": "苏州出台商品住房销售实施意见：新出让土地项目优先现房销售",
-     "link": "http://finance.eastmoney.com/news/1359,202610243907119474.html",
-     "pubDate": "Sat, 24 Oct 2026 21:02:30 +0800",
-     "summary": "10月24日，苏州市住房和城乡建设局、苏州市自然资源和规划局、国家金融监督管理总局苏州监管分局联合印发实施意见，落实《住房城乡建设部自然资源部金融监管总局关于完善商品住房销售制度的通知》（建房规〔2026〕3号）要求。文件明确，2026年8月28日起新出让土地的商品住房项目“优先选择现房销售”，现房销售定金原则上不超过购房总价款的3%。这是江苏首个关于“828新政”的实施意见。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "苏州出台商品住房销售实施意见：新出让土地项目优先现房销售"
-    },
-    {
-     "title": "新加坡能源管理局：新加坡能源供应充足",
-     "link": "http://global.eastmoney.com/news/11798,202610243907119759.html",
-     "pubDate": "Sat, 24 Oct 2026 21:02:05 +0800",
-     "summary": "新加坡能源管理局（EMA）表示，在印尼削减 天然气 供应后，新加坡能源供应充足。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "新加坡能源管理局：新加坡能源供应充足"
-    },
-    {
      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 13:00:00 GMT",
@@ -2327,14 +2343,6 @@
      "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
      "source": "CNBC",
      "zh": "Why popular airplanes are getting scrapped years early"
-    },
-    {
-     "title": "强生公司宣布手术前后使用阿帕他胺可降低62%的复发或死亡风险",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907119297.html",
-     "pubDate": "Sat, 24 Oct 2026 20:57:49 +0800",
-     "summary": "强生 公司宣布，在高危前列腺癌治疗中，手术前后使用ERLEADA&reg;（阿帕他胺）可降低62%的复发或死亡风险。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "强生公司宣布手术前后使用阿帕他胺可降低62%的复发或死亡风险"
     },
     {
      "title": "Berkshire shares shake the Buffett blues with new all-time highs",
@@ -2391,14 +2399,6 @@
      "summary": "The runaway success of the artificial-intelligence trade has left investors hungry for the next big market theme. Wall Street fund managers are happily obliging with a flurry of new targeted products, helping investors invest in everything from the rise of robotics to the incipient space economy.",
      "source": "MarketWatch",
      "zh": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit"
-    },
-    {
-     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 12:00:00 GMT",
-     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-     "source": "MarketWatch",
-     "zh": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
     },
     {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",

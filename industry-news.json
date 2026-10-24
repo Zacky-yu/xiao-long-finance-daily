@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 11:52:10",
+ "generated_at": "2026/10/24 12:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -185,54 +185,6 @@
      "zh": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia"
     },
     {
-     "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-     "link": "https://arxiv.org/abs/2610.28686",
-     "pubDate": "Fri, 23 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.28686v1 Announce Type: new Abstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider multi-turn grounded conversational scenarios where a user query is either ill-formed or ambiguous in the context of the prio",
-     "source": "arXiv cs.AI",
-     "zh": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation"
-    },
-    {
-     "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-     "link": "https://arxiv.org/abs/2610.28698",
-     "pubDate": "Fri, 23 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, ",
-     "source": "arXiv cs.AI",
-     "zh": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds"
-    },
-    {
-     "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-     "link": "https://arxiv.org/abs/2610.28706",
-     "pubDate": "Fri, 23 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.28706v1 Announce Type: new Abstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning uniformly while underusing evidence from failed, redundant, and saturated trials. We introd",
-     "source": "arXiv cs.AI",
-     "zh": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery"
-    },
-    {
-     "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-     "link": "https://arxiv.org/abs/2610.28763",
-     "pubDate": "Fri, 23 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insight beyond routine ML engineering. We introduce Agent",
-     "source": "arXiv cs.AI",
-     "zh": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?"
-    },
-    {
-     "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
-     "link": "https://arxiv.org/abs/2610.28815",
-     "pubDate": "Fri, 23 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.28815v1 Announce Type: new Abstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence. While more evolution tasks should intuitively improve performance, our preliminary study reveals a parado",
-     "source": "arXiv cs.AI",
-     "zh": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing"
-    },
-    {
-     "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-     "link": "https://arxiv.org/abs/2610.28826",
-     "pubDate": "Fri, 23 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.28826v1 Announce Type: new Abstract: Automated judges of clinical artificial intelligence (AI) outputs are necessary, but large language model (LLM) judges are costly and slow at scale. We compared Jev, a decision language model that returns structured judgments, with frontier and open-we",
-     "source": "arXiv cs.AI",
-     "zh": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI"
-    },
-    {
      "title": "Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737212&idx=1&sn=5a1bfdf04ac60667d4b36bd67a30c371",
      "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
@@ -247,6 +199,54 @@
      "summary": "",
      "source": "新智元",
      "zh": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕"
+    },
+    {
+     "title": "NeurIPS'26 | 注意力也能弃权！改善长上下文、低比特鲁棒性",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737212&idx=3&sn=7142b34e5331746fe654dfb765b726f5",
+     "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "NeurIPS'26 | 注意力也能弃权！改善长上下文、低比特鲁棒性"
+    },
+    {
+     "title": "Left alone with nothing to do, AI agents started playing",
+     "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+     "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+     "source": "TechCrunch AI",
+     "zh": "Left alone with nothing to do, AI agents started playing"
+    },
+    {
+     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+     "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+     "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+     "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+     "source": "OpenAI",
+     "zh": "OpenAI and Poland’s NASK partner to advance AI safety and security"
+    },
+    {
+     "title": "Does Your Model Run on AWS Trainium? Look It Up",
+     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+     "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Does Your Model Run on AWS Trainium? Look It Up"
+    },
+    {
+     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+     "pubDate": "Thu, 22 Oct 2026 22:24:34 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
+    },
+    {
+     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+     "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
+     "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
     }
    ]
   },
@@ -1753,6 +1753,78 @@
    "total": 18,
    "items": [
     {
+     "title": "华硕 ROG：枪神 7 / 魔霸新锐 (2023) 质量符合国标，仍会为主板边缘受损笔电提供免费保修",
+     "link": "https://www.ithome.com/1/017/339.htm",
+     "pubDate": "Sat, 24 Oct 2026 04:06:51 GMT",
+     "summary": "IT之家 10 月 24 日消息，华硕 (ASUS) 玩家国度 (ROG) 本月 19 日发布公告，表示旗下 ROG 枪神 7 / 魔霸新锐 (2023) 游戏笔记本电脑 (ROG Strix G16 2023 Series) 均符合国家标准中的有关环境适应性的相关标准 。 ▲ 受影响机型 出于服务用户考量， 华硕仍会为已经发生主板边缘损坏现象的相关机器提供免费保修 ，截止到 2026 年 12 月 31 日或保修期满（二者取其中较长时间者）。 对于未发生此损坏现象的机器，建议用户尽快扫描如下二维码进行预约，根据提示将机器送修到合适的官方服务站， 免费加装隔离贴 。",
+     "source": "IT之家",
+     "zh": "华硕 ROG：枪神 7 / 魔霸新锐 (2023) 质量符合国标，仍会为主板边缘受损笔电提供免费保修"
+    },
+    {
+     "title": "双11购物车里的AI暗战",
+     "link": "https://www.tmtpost.com/8180252.html",
+     "pubDate": "Sat, 24 Oct 2026 12:00:38 +0800",
+     "summary": "淘天抖音造入口，京东多多促交易。",
+     "source": "钛媒体",
+     "zh": "双11购物车里的AI暗战"
+    },
+    {
+     "title": "定位“年轻人的智能零压 SUV”，东风日产 NX7 公布 5 款外观配色",
+     "link": "https://www.ithome.com/1/017/338.htm",
+     "pubDate": "Sat, 24 Oct 2026 04:00:38 GMT",
+     "summary": "IT之家 10 月 24 日消息，东风日产官微今天（24 日）上午公布了新车 NX7 的 5 款外观配色：紫藤花、四叶草、曜石黑、珠玉白、岩山灰。 官方将该车称为“年轻人的智能零压 SUV”，此前宣布“即将登场”。 该车 已在今年 8 月完成申报 ，尺寸为 4785×1932×1665mm，轴距 2815mm；搭载 40.9 度宁德时代电池； 配备激光雷达，支持城市 NOA 功能 。 据IT之家了解，该车为插电式混合动力车型，搭载型号为 NR15 的发动机，排量 1497 ml，功率 73 kW，发动机最大净功率为 69 kW；驱动电机额定功率 34 kW，峰值功率 170 kW，储能装置为 ",
+     "source": "IT之家",
+     "zh": "定位“年轻人的智能零压 SUV”，东风日产 NX7 公布 5 款外观配色"
+    },
+    {
+     "title": "微软 Win11 预览版优化原生测速体验，不再开浏览器跳转 Bing",
+     "link": "https://www.ithome.com/1/017/337.htm",
+     "pubDate": "Sat, 24 Oct 2026 04:00:37 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 今天（10 月 24 日）发布博文，报道称在 Windows 11 Build 26340.9767 预览版更新中，微软调整系统内置测速功能，不再跳转 Bing，改为系统原生界面。 IT之家援引博文介绍，在此前 Windows 11 版本中，用户点击任务栏或网络菜单中的“测速”选项后，系统会跳转到默认浏览器并打开 Bing 的测速页面。 Windows 11 此前版本中速度测试快捷方式会打开浏览器；现在它会以弹出窗口的形式显示。 而在最新 Windows 11 预览版中，微软将其改为“快速设置”内的原生弹出窗口，用户无需",
+     "source": "IT之家",
+     "zh": "微软 Win11 预览版优化原生测速体验，不再开浏览器跳转 Bing"
+    },
+    {
+     "title": "靠“多功效”祛斑霜撬动10亿GMV后，卡唯朵拿什么重建信任？",
+     "link": "https://www.tmtpost.com/8180261.html",
+     "pubDate": "Sat, 24 Oct 2026 12:00:35 +0800",
+     "summary": "一个2025年才注册的美妆品牌，如何年销10亿元？",
+     "source": "钛媒体",
+     "zh": "靠“多功效”祛斑霜撬动10亿GMV后，卡唯朵拿什么重建信任？"
+    },
+    {
+     "title": "博纳闯AI赛道，失败了三次",
+     "link": "https://www.tmtpost.com/8180263.html",
+     "pubDate": "Sat, 24 Oct 2026 12:00:30 +0800",
+     "summary": "令人羡慕的勇气。",
+     "source": "钛媒体",
+     "zh": "博纳闯AI赛道，失败了三次"
+    },
+    {
+     "title": "技嘉展示 B850 AORUS ELITE-P 主板：延续“雕妹”主题，黑色外观",
+     "link": "https://www.ithome.com/1/017/335.htm",
+     "pubDate": "Sat, 24 Oct 2026 03:55:30 GMT",
+     "summary": "IT之家 10 月 24 日消息，技嘉 (GIGABYTE) 官方社媒账户近期展示了尚未上线官网的 B850 AORUS ELITE-P 主板。 这一型号与此前推出的 B850 AORUS ELITE-P ICE（上图右侧）一样属于技嘉的“雕妹”产品线， 两者整体外观一致 ， 拥有相同的 IP 元素装饰以及 LCD Edge View 动态显示区域。 不过，无 \"ICE\" 后缀的版本为黑色外观，这 让部分灰色的装饰元素在更强烈的对比下更为显著 。 B850 AORUS ELITE-P ICE 搭载 16+2+2 项供电，支持 DDR5-8200 内存超频，提供 4 个 M.2 插槽，具备 5G",
+     "source": "IT之家",
+     "zh": "技嘉展示 B850 AORUS ELITE-P 主板：延续“雕妹”主题，黑色外观"
+    },
+    {
+     "title": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”",
+     "link": "https://www.ithome.com/1/017/334.htm",
+     "pubDate": "Sat, 24 Oct 2026 03:48:36 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 The Verge 昨日（10 月 23 日）发布博文，报道称美国国家公路交通安全管理局（NHTSA）正推动新提案， 为自动驾驶汽车引入统一的青绿色（蓝绿色）外部标识灯，让行人、其他驾驶员和执法人员能一眼识别“车辆正由自动驾驶系统操控”。 美国国家公路交通安全管理局最新发布联邦机动车安全标准第 108 号（FMVSS 108）的修订提案，目前处于征求意见阶段，公众可在《联邦公报》正式发布后 30 天内提交意见。 IT之家援引博文介绍，青色自动驾驶标识灯并非强制安装，但一旦车企选择配备，其颜色、亮度、数量、安装位置和激活方式都须遵循统一标准，以避免不同",
+     "source": "IT之家",
+     "zh": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”"
+    },
+    {
+     "title": "上海警方大数据精准打击“职业碰瓷大户”：一年多制造交通事故 200 余起，涉案金额达 60 余万元",
+     "link": "https://www.ithome.com/1/017/333.htm",
+     "pubDate": "Sat, 24 Oct 2026 03:46:19 GMT",
+     "summary": "IT之家 10 月 24 日消息，据上海市公安局交通警察总队披露，看似寻常的车辆碰擦，背后可能是精心策划的“碰瓷”骗局。针对手法隐蔽、取证难度大的交通事故“碰瓷”诈骗，上海警方依托大数据精准研判，多警种协同攻坚，在全市开展专项打击行动， 已成功抓获 6 名涉嫌“碰瓷”诈骗的犯罪嫌疑人 。 在此次行动中，交管总队专案组成功抓获了一名高频作案的“碰瓷大户”。据调查，朱某堪称“职业碰瓷人”，他日常驾车在黄浦、徐汇、浦东等各区域道路四处巡游，专门瞄准其他车辆变道时制造轻微碰擦， 单日最高连续作案 5 起 。 IT之家注意到， 朱某单次索赔金额仅数百元至一千元 ，靠频繁作案累积非法所得。由于事故形态常见",
+     "source": "IT之家",
+     "zh": "上海警方大数据精准打击“职业碰瓷大户”：一年多制造交通事故 200 余起，涉案金额达 60 余万元"
+    },
+    {
      "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
      "link": "https://www.techmeme.com/261023/p28#a261023p28",
      "pubDate": "Fri, 23 Oct 2026 23:45:01 -0400",
@@ -1783,6 +1855,14 @@
      "summary": "本文来自微信公众号： 财联社 ，作者：郑远方 AI投资正在持续虹吸市场上的流动性，而产业巨头仍在加速这一进程。 黄仁勋前脚在GTC柏林大会宣布将联合一众供应链伙伴开启产业链大扩产，涵盖CPO、基板、先进封装等多个环节，并向京元电子提供11亿美元的产能预留预付款。后脚SpaceX公布Q3财报，超智能业务单季营收约76亿美元，对应资本开支高达164亿美元；Meta同日将全年资本开支计划提升至1350亿至1450亿美元，还新设无投票权C类股票，铺垫未来大规模融资。 而在C类股票相关文件中Meta明确指出，“时机至关重要”，其直接点名Alphabet、SpaceX、Anthropic和OpenAI并表",
      "source": "虎嗅",
      "zh": "“AI缺钱”，重构产业叙事"
+    },
+    {
+     "title": "The Anger Machine (Joan Kirner Social Justice Oration 2026)",
+     "link": "https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026",
+     "pubDate": "Sat, 24 Oct 2026 03:28:23 +0000",
+     "summary": "Article URL: https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026 Comments URL: https://news.ycombinator.com/item?id=50218126 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "The Anger Machine (Joan Kirner Social Justice Oration 2026)"
     },
     {
      "title": "孙正义的保险丝快断了",
@@ -1841,34 +1921,10 @@
      "zh": "降价换不来增长，沃尔沃在中国卖不动了"
     },
     {
-     "title": "泡泡玛特六连跌，“亏麻了”的段永平仍想加仓",
-     "link": "https://www.tmtpost.com/8179790.html",
-     "pubDate": "Sat, 24 Oct 2026 10:14:00 +0800",
-     "summary": "顶流潮玩公司泡泡玛特，近期在资本市场上频遭“冷眼”。",
-     "source": "钛媒体",
-     "zh": "泡泡玛特六连跌，“亏麻了”的段永平仍想加仓"
-    },
-    {
-     "title": "国产具身智能出海开启“减重计划”",
-     "link": "https://www.tmtpost.com/8179676.html",
-     "pubDate": "Sat, 24 Oct 2026 10:06:00 +0800",
-     "summary": "出口爆单，售后拖垮。",
-     "source": "钛媒体",
-     "zh": "国产具身智能出海开启“减重计划”"
-    },
-    {
-     "title": "L3将至，华地魔三巨头同台：自动驾驶下半场的生存哲学",
-     "link": "https://www.tmtpost.com/8179664.html",
-     "pubDate": "Sat, 24 Oct 2026 10:01:00 +0800",
-     "summary": "智驾供应商下半场的三种答案。",
-     "source": "钛媒体",
-     "zh": "L3将至，华地魔三巨头同台：自动驾驶下半场的生存哲学"
-    },
-    {
      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
      "pubDate": "Sat, 24 Oct 2026 01:53:10 +0000",
-     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 34 # Comments: 5",
+     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 40 # Comments: 6",
      "source": "Hacker News",
      "zh": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques"
     },
@@ -1881,12 +1937,12 @@
      "zh": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)"
     },
     {
-     "title": "Twelve Years of Distributed SQLite",
+     "title": "Twelve years of distributed SQLite",
      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
      "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
-     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 32 # Comments: 1",
+     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 49 # Comments: 3",
      "source": "Hacker News",
-     "zh": "Twelve Years of Distributed SQLite"
+     "zh": "Twelve years of distributed SQLite"
     },
     {
      "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
@@ -1897,12 +1953,12 @@
      "zh": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)"
     },
     {
-     "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+     "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
      "pubDate": "Fri, 23 Oct 2026 23:30:17 +0000",
      "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8 Comments",
      "source": "Hacker News",
-     "zh": "Evolving Threat: http2shell is an RCE in node, Python, and more"
+     "zh": "Evolving Threat: http2shell is an RCE in Node, Python, and more"
     },
     {
      "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)",
@@ -1935,62 +1991,6 @@
      "summary": "Tom Warren / The Verge : Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &nbsp; &mdash;&nbsp; Helen Chiang is leaving Microsoft after 21 years. &hellip; Xbox is losing its first chief operating office",
      "source": "Techmeme",
      "zh": "Memo: Helen Chiang, Xbox&apos;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)"
-    },
-    {
-     "title": "CVE Tracker",
-     "link": "https://cve.0xosprey.com/",
-     "pubDate": "Fri, 23 Oct 2026 21:21:47 +0000",
-     "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 124 # Comments: 53",
-     "source": "Hacker News",
-     "zh": "CVE Tracker"
-    },
-    {
-     "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-     "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-     "pubDate": "Fri, 23 Oct 2026 20:57:13 +0000",
-     "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
-     "source": "TechCrunch",
-     "zh": "VCs, Superhuman Mail founder share red flags about product-market fit"
-    },
-    {
-     "title": "No Source Code? No Problem",
-     "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-     "pubDate": "Fri, 23 Oct 2026 20:38:06 +0000",
-     "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 39 # Comments: 31",
-     "source": "Hacker News",
-     "zh": "No Source Code? No Problem"
-    },
-    {
-     "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-     "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-     "pubDate": "Fri, 23 Oct 2026 20:37:12 +0000",
-     "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 36 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "A whirlwind tour of systemd-nspawn containers (2025)"
-    },
-    {
-     "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-     "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-     "pubDate": "Fri, 23 Oct 2026 20:28:43 +0000",
-     "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
-     "source": "Ars Technica",
-     "zh": "Hegseth warns prediction market bets warp military judgment, endanger troops"
-    },
-    {
-     "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-     "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-     "pubDate": "Fri, 23 Oct 2026 20:19:55 +0000",
-     "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-     "source": "Ars Technica",
-     "zh": "Updated Google privacy policy says your Gmail might be used for advertising"
-    },
-    {
-     "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-     "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-     "pubDate": "Fri, 23 Oct 2026 20:03:14 +0000",
-     "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
-     "source": "TechCrunch",
-     "zh": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now"
     }
    ]
   },
@@ -2249,6 +2249,62 @@
    "total": 13,
    "items": [
     {
+     "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Sat, 24 Oct 2026 12:07:56 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
+    },
+    {
+     "title": "乐享从容岁月：江苏银行以金融之力守护金色年华",
+     "link": "http://www.eeo.com.cn/2026/1024/1072771.shtml",
+     "pubDate": "Sat, 24 Oct 2026 12:01:01 +0800",
+     "summary": "金秋十月，丹桂飘香。江苏银行的网点里升腾起一份份“敬老温度”：徐州分行邀请退休客户登高游园，在秋日里共赏山水；苏州分行在厅堂煮一壶重阳茶，走进社区与老年朋友共话防诈骗、聊养老理财规划；杭州分行14家支行走进合作社区，把“安康礼”和一堂金融防诈知识送到家门口……这是江苏银行18城“重阳有礼”活动的温暖剪影，也是该行养老金融从“安养”迈向“乐享”的生动缩影。 <p class=\"ql-ali...",
+     "source": "经济观察网",
+     "zh": "乐享从容岁月：江苏银行以金融之力守护金色年华"
+    },
+    {
+     "title": "Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?",
+     "link": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 04:00:33 GMT",
+     "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
+     "source": "Financial Times",
+     "zh": "Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?"
+    },
+    {
+     "title": "France is in revolt. But the real storm is yet to come",
+     "link": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
+     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
+     "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
+     "source": "Financial Times",
+     "zh": "France is in revolt. But the real storm is yet to come"
+    },
+    {
+     "title": "The young are conformists in denial",
+     "link": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
+     "summary": "The reassuringly bourgeois values behind a rebellious generation",
+     "source": "Financial Times",
+     "zh": "The young are conformists in denial"
+    },
+    {
+     "title": "国内金饰克价跌穿1200元 1个月猛跌100元",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907071636.html",
+     "pubDate": "Sat, 24 Oct 2026 11:54:54 +0800",
+     "summary": "美东时间周五，现货 黄金 价格跌破每盎司4000美元关口，国内品牌金饰价格随之下调。记者查询发现，老庙 黄金 足金 饰品 报1196元/克，较前一日跌了12元； 周生生 足金 饰品 报1200元/克，较前一日跌了6元； 周大福 足金 饰品 报1202元/克，较前一日跌了6元； 老凤祥 足金饰品报1206元/克，较前一日跌了6元。此前9月24日，国内品牌金饰克价普遍在1300元/克附近。一个月内，金饰价格已下跌约100元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "国内金饰克价跌穿1200元 1个月猛跌100元"
+    },
+    {
+     "title": "信通院报告：大模型价格回升明显 词元价格较去年下半年翻倍 日均消耗量增长3倍",
+     "link": "http://finance.eastmoney.com/news/11158,202610243907071551.html",
+     "pubDate": "Sat, 24 Oct 2026 11:53:37 +0800",
+     "summary": "随着大模型技术迅速迭代，词元（Token）服务已成为技术走向应用的关键节点。10月23日，中国信息 通信 研究院 人工智能 研究所、 人工智能 大模型及软硬件评测工业和信息化部重点实验室与中国 人工智能 产业发展联盟联合发布《大模型词元服务性能监测报告（2026年）》（下称报告）。 报告显示，词元服务呈现量价齐升态势，其中国内的词元价格较去年下半年翻倍，但量的增长达到3倍。2026年6月，国内词元日均消耗量约500万亿，是2025年12月的近4倍。越来越多模型即服务（MaaS）平台厂商通过公有云API方式供给大模型词元服务，而用户对词元服务性能缺乏直观判断依据、面临选型困难，是该报告开展的背景",
+     "source": "东方财富股票",
+     "zh": "信通院报告：大模型价格回升明显 词元价格较去年下半年翻倍 日均消耗量增长3倍"
+    },
+    {
      "title": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守",
      "link": "https://wallstreetcn.com/articles/3784381",
      "pubDate": "Sat, 24 Oct 2026 11:48:36 +0800",
@@ -2337,20 +2393,20 @@
      "zh": "Global X 3-10 Year U.S. Treasury Bond Idx ETF US$ declares $0.20 dividend"
     },
     {
-     "title": "紫金矿业三季报：赚得更多了，但最好的那一段可能已经过去",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907070887.html",
-     "pubDate": "Sat, 24 Oct 2026 11:28:04 +0800",
-     "summary": "10月23日晚， 紫金矿业 （601899.SH）发布了2026年三季报。 前三季度， 紫金矿业 营收2835亿元，归母净利润575亿元，同比增长52%，经营现金流843亿元。这份成绩单足够漂亮。 把575亿元拆回三个季度，画面就不同了。一季度归母净利润为200.79亿元，上半年累计392亿元，倒推二季度约191亿元，三季度约183亿元。这是连续两个季度的环比回落。 紫金矿业 是少数同时押中金、 铜 、 锂 的中国资源公司，过去两年三种金属轮番上涨，它几乎每一轮都在场。它的财报常被当作有色板块的体温计。这一次，体温计显示的是：热度还在，但可能已不再往上走。 利润率在抬升，利润来自主业 先看累计",
-     "source": "东方财富股票",
-     "zh": "紫金矿业三季报：赚得更多了，但最好的那一段可能已经过去"
+     "title": "存储扩产带动薄膜沉积设备放量",
+     "link": "http://www.eeo.com.cn/2026/1024/1074302.shtml",
+     "pubDate": "Sat, 24 Oct 2026 11:21:36 +0800",
+     "summary": "随着存储芯片堆叠层数增加，产线对薄膜沉积设备的需求已经大幅增长。一般而言，堆叠层数翻倍，对应的薄膜沉积设备需求量也会翻倍甚至更多。",
+     "source": "经济观察网",
+     "zh": "存储扩产带动薄膜沉积设备放量"
     },
     {
-     "title": "拼多多捐赠1000万元 驰援西藏那曲抗震救灾",
-     "link": "http://stock.eastmoney.com/news/11231,202610243907071048.html",
-     "pubDate": "Sat, 24 Oct 2026 11:27:02 +0800",
-     "summary": "10月22日，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡及房屋受损。国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应由四级提升至三级，各项救援工作正全力推进。 为全力支援一线救灾工作， 拼多多 通过中华慈善总会向灾区捐赠现金1000万元，用于采购救灾物资和设备、安置受灾群众及支持灾后重建。 拼多多 已成立救援响应专项小组，将持续关注灾情动态，全力配合和支援后续救灾工作。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "拼多多捐赠1000万元 驰援西藏那曲抗震救灾"
+     "title": "“算水协同”如何改变数据中心",
+     "link": "http://www.eeo.com.cn/2026/1024/1074301.shtml",
+     "pubDate": "Sat, 24 Oct 2026 11:20:06 +0800",
+     "summary": "水资源正日益成为制约数据中心发展的瓶颈之一。",
+     "source": "经济观察网",
+     "zh": "“算水协同”如何改变数据中心"
     },
     {
      "title": "伊朗总统将于下周访俄并与普京会谈",
@@ -2409,6 +2465,14 @@
      "zh": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”"
     },
     {
+     "title": "王老吉市场与品牌中心高级经理冀美旭：用世界愿意参与的方式讲好中国品牌的故事",
+     "link": "http://www.eeo.com.cn/2026/1024/1074227.shtml",
+     "pubDate": "Sat, 24 Oct 2026 10:13:03 +0800",
+     "summary": "10月23日，由《经济观察报》联合香港管理专业协会主办的“2026杰出品牌营销分享会”在北京举行。王老吉市场与品牌中心高级经理冀美旭在会上表示，当王老吉要走向世界，要思考的不只是如何让世界看见它，更是如何去创造一个全球消费者都愿意了解、愿意参与、愿意分享的品牌心智。不只是把产品卖到全球，更加让中国品牌走进全球生活，用世界愿意参与的方式讲好中国品牌的故事。",
+     "source": "经济观察网",
+     "zh": "王老吉市场与品牌中心高级经理冀美旭：用世界愿意参与的方式讲好中国品牌的故事"
+    },
+    {
      "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
      "link": "https://wallstreetcn.com/articles/3784376",
      "pubDate": "Sat, 24 Oct 2026 10:12:02 +0800",
@@ -2417,76 +2481,12 @@
      "zh": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案"
     },
     {
-     "title": "三季度巨亏、再裁员6%！沃尔沃股价暴跌30%",
-     "link": "https://wallstreetcn.com/articles/3784378",
-     "pubDate": "Sat, 24 Oct 2026 10:11:30 +0800",
-     "summary": "沃尔沃汽车正面临上市以来最严峻的经营危机。受中国市场销售崩塌拖累，这家瑞典汽车制造商三季度录得巨额亏损，股价单日暴跌逾30%至历史低位，并宣布新一轮大规模裁员与成本削减计划。 沃尔沃汽车周五公布，三季度净亏损57亿瑞典克朗（约合5.75亿美元），而去年同期净利润为45亿瑞典克朗，同比由盈转亏。 季度营收同比下滑23%至669亿瑞典克朗，现金净流出近90亿瑞典克朗。消息公布后，公司股价盘中一度跌逾30%，创历史新低。 在业绩重压之下，沃尔沃汽车宣布需额外削减50亿瑞典克朗成本，其中包括 再裁减约6%的员工 ，叠加此前已宣布的约3000人裁员计划。首席执行官Håkan Samuelsson警告，不",
-     "source": "华尔街见闻",
-     "zh": "三季度巨亏、再裁员6%！沃尔沃股价暴跌30%"
-    },
-    {
      "title": "A股“换挡” 资金在等什么？多位知名首席研判",
      "link": "http://stock.eastmoney.com/news/11215,202610243907061891.html",
      "pubDate": "Sat, 24 Oct 2026 10:01:00 +0800",
      "summary": "近期A股加速回调，市场防御情绪一度升至高位。进入10月，三季报密集披露与增量政策落地交织，市场仍在寻找方向。 如何看待当前调整？财联社近期采访了平安证券首席经济学家钟正生、华创证券首席经济学家张瑜、 广发证券 首席经济学家郭磊、 国联民生 证券首席经济学家陶川、华福证券研究所所长助理兼宏观首席分析师陈兴，以及华源证券研究所所长助理、金融工程首席分析师杨怡玲。 在他们看来，本轮调整主要源于外部定价冲击与短期情绪释放，国内基本面并未转向，估值的安全边际与盈利的修复正在形成合力。 具体而言，外部冲击完成了估值端的快速出清，名义增长回升与新动能扩张提供盈利端支撑，增量政策与稳市机制守住下行风险底线，三",
      "source": "东方财富资讯",
      "zh": "A股“换挡” 资金在等什么？多位知名首席研判"
-    },
-    {
-     "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-     "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-     "pubDate": "Sat, 24 Oct 2026 01:57:24 GMT",
-     "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
-     "source": "CNBC",
-     "zh": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
-    },
-    {
-     "title": "US executives quit $25bn gas venture over claims of secret Russian control",
-     "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
-     "pubDate": "Sat, 24 Oct 2026 00:22:20 GMT",
-     "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
-     "source": "Financial Times",
-     "zh": "US executives quit $25bn gas venture over claims of secret Russian control"
-    },
-    {
-     "title": "Moody&apos;s holds steady on France&apos;s credit rating as country grapples with turmoil and higher yields",
-     "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-     "pubDate": "Fri, 23 Oct 2026 22:49:42 GMT",
-     "summary": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
-     "source": "CNBC",
-     "zh": "Moody&apos;s holds steady on France&apos;s credit rating as country grapples with turmoil and higher yields"
-    },
-    {
-     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 22:49:00 GMT",
-     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-     "source": "MarketWatch",
-     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
-    },
-    {
-     "title": "Trump&apos;s executive order targets mortgage insurance, refinance costs. What it means for borrowers",
-     "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
-     "pubDate": "Fri, 23 Oct 2026 22:27:06 GMT",
-     "summary": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
-     "source": "CNBC",
-     "zh": "Trump&apos;s executive order targets mortgage insurance, refinance costs. What it means for borrowers"
-    },
-    {
-     "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-     "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 22:00:00 GMT",
-     "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
-     "source": "MarketWatch",
-     "zh": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork."
-    },
-    {
-     "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-     "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 21:46:00 GMT",
-     "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
-     "source": "MarketWatch",
-     "zh": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out."
     }
    ]
   },

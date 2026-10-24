@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 12:12:00",
+ "generated_at": "2026/10/24 12:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -330,28 +330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
-     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
-     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
-    },
-    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
-    },
-    {
-     "title": "Space Tech Expo Europe to say farewell to Bremen",
-     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
-     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -378,30 +362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
-     "title": "Soft Switching Or Hard?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
-     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Soft Switching Or Hard?"
-    },
-    {
-     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
-     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
-     "source": "Electronics Weekly",
-     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
-    },
-    {
-     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
-     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
-    },
-    {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
      "link": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html",
      "pubDate": "Fri, 23 Oct 2026 08:59:00 GMT",
@@ -424,14 +384,6 @@ window.INDUSTRY_DATA = {
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Electronics production growth accelerating, says SI",
-     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
-     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
+    },
+    {
+     "title": "Chip Scaling Moves Beyond The Transistor",
+     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
+     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
+     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Chip Scaling Moves Beyond The Transistor"
+    },
+    {
+     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
+     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
+     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
+     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
+    },
+    {
+     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
+     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
+     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
+     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
+    },
+    {
+     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
+     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
+     "source": "Semiconductor Today",
+     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
+    },
+    {
+     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
+     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
+     "source": "Semiconductor Today",
+     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
+    },
+    {
+     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
+     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -970,6 +970,14 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1754,6 +1754,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "一加 Ace 7 系列手机全系 9000mAh 冰川电池、100W 超级闪充，能连续看视频 24 小时",
+     "link": "https://www.ithome.com/1/017/341.htm",
+     "pubDate": "Sat, 24 Oct 2026 04:20:02 GMT",
+     "summary": "IT之家 10 月 24 日消息，一加中国区总裁 @李杰Louis 今天上午继续发文预热一加 Ace 7 系列：“这次把续航体验也拉满了！” 根据介绍，新机 全系搭载 9000mAh 超大冰川电池 + 100W 超级闪充 ，185 帧游戏可以连续玩 7 小时，视频能连续看 24 小时，号称能日常用一天，出门不用再惦记着带充电宝。 该系列机型还配备了冰川电池聚能芯片， 让同样的电池容量发挥更持久的续航 。李杰表示，该芯片的加持，可使手机在低电量时，性能依然稳定；长期使用，也能帮助延缓电池老化，让电池 5 年依然耐用。 新机还将配备游戏玩家特别喜欢的“旁路供电”，边充电边玩游戏，减少电池充放电带来",
+     "source": "IT之家",
+     "zh": "一加 Ace 7 系列手机全系 9000mAh 冰川电池、100W 超级闪充，能连续看视频 24 小时"
+    },
+    {
+     "title": "八位堂古墓丽影 30 周年纪念款手柄上市，双版本 549 / 349 元",
+     "link": "https://www.ithome.com/1/017/340.htm",
+     "pubDate": "Sat, 24 Oct 2026 04:19:42 GMT",
+     "summary": "IT之家 10 月 24 日消息，八位堂 (8BitDo) 早前公布的《古墓丽影》30 周年纪念款手柄控制器现已上市。联名猎户座 3 代 XBOX 版售价 549 元、联名 Pro 3 蓝牙手柄售价 399 元。 猎户座 3 代 XBOX 版古墓丽影 30 周年纪念款展示了从系列伊始到当前的一系列劳拉 · 克劳馥形象，让不同时代的主角在同一设计中交汇。 京东 猎户座 3 代 XBOX 版 古墓丽影 30 周年纪念款 549 元 直达链接 Pro 3 蓝牙手柄古墓丽影 30 周年纪念款则回归《古墓丽影》早期经典场景“失落山谷”，将古老遗迹的纹理与丛林元素融入设计，向 IP 经典篇章致敬。 京东 ",
+     "source": "IT之家",
+     "zh": "八位堂古墓丽影 30 周年纪念款手柄上市，双版本 549 / 349 元"
+    },
+    {
+     "title": "被年轻人抛弃的农家乐，杀回来了",
+     "link": "https://www.huxiu.com/article/4900110.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 12:14:05 +0800",
+     "summary": "本文来自微信公众号： 深氪新消费 ，作者：夏不绿 这是深氪新消费第2300期分享： 为什么胡闹厨房一夜爆火？ 周末，重庆南山的进村路口，车排得跟贪吃蛇似的，一动不动。 远远听见哪个院子里传来一阵阵嬉笑打闹，夹杂着“快快快！”“糊了糊了！”“你倒是切啊！”的嚎叫。 原以为是哪家公司团建。走近一看，发现这群人年龄各异，围裙系得歪歪扭扭，围着案板和面、捏面、擀面，面粉糊了一脸，案板上的面团长得像抽象派雕塑。这哪是做饭，简直是《胡闹厨房》真人版。 其实，他们不是店里的面点师傅，而是花钱来这儿消费的客人。 现在流行花钱自己做饭了？ 《胡闹厨房》是一款多人合作的烹饪游戏，由英国独立游戏开发商Ghost T",
+     "source": "虎嗅",
+     "zh": "被年轻人抛弃的农家乐，杀回来了"
+    },
+    {
+     "title": "寒武纪Q3：利润翻倍，市值降温",
+     "link": "https://www.tmtpost.com/8180272.html",
+     "pubDate": "Sat, 24 Oct 2026 12:14:00 +0800",
+     "summary": "前三季度赚了37亿，但万亿市值已成往事。",
+     "source": "钛媒体",
+     "zh": "寒武纪Q3：利润翻倍，市值降温"
+    },
+    {
+     "title": "AI到底有多烧钱，Meta用8250亿美元的“账单”回答了",
+     "link": "https://www.tmtpost.com/8179972.html",
+     "pubDate": "Sat, 24 Oct 2026 12:09:00 +0800",
+     "summary": "AI算力天量投资资金缺口及全球市场成本分化显现。",
+     "source": "钛媒体",
+     "zh": "AI到底有多烧钱，Meta用8250亿美元的“账单”回答了"
+    },
+    {
      "title": "华硕 ROG：枪神 7 / 魔霸新锐 (2023) 质量符合国标，仍会为主板边缘受损笔电提供免费保修",
      "link": "https://www.ithome.com/1/017/339.htm",
      "pubDate": "Sat, 24 Oct 2026 04:06:51 GMT",
@@ -1805,25 +1845,9 @@ window.INDUSTRY_DATA = {
      "title": "技嘉展示 B850 AORUS ELITE-P 主板：延续“雕妹”主题，黑色外观",
      "link": "https://www.ithome.com/1/017/335.htm",
      "pubDate": "Sat, 24 Oct 2026 03:55:30 GMT",
-     "summary": "IT之家 10 月 24 日消息，技嘉 (GIGABYTE) 官方社媒账户近期展示了尚未上线官网的 B850 AORUS ELITE-P 主板。 这一型号与此前推出的 B850 AORUS ELITE-P ICE（上图右侧）一样属于技嘉的“雕妹”产品线， 两者整体外观一致 ， 拥有相同的 IP 元素装饰以及 LCD Edge View 动态显示区域。 不过，无 \"ICE\" 后缀的版本为黑色外观，这 让部分灰色的装饰元素在更强烈的对比下更为显著 。 B850 AORUS ELITE-P ICE 搭载 16+2+2 项供电，支持 DDR5-8200 内存超频，提供 4 个 M.2 插槽，具备 5G",
+     "summary": "IT之家 10 月 24 日消息，技嘉 (GIGABYTE) 官方社媒账户近期展示了尚未上线官网的 B850 AORUS ELITE-P 主板。 这一型号与此前推出的 B850 AORUS ELITE-P ICE（上图右侧）一样属于技嘉的“雕妹”产品线， 两者整体外观一致 ， 拥有相同的 IP 元素装饰以及 LCD Edge View 动态显示区域。 不过，无 \"ICE\" 后缀的版本为黑色外观，这 让部分灰色的装饰元素在更强烈的明暗对比下更为显著 。 B850 AORUS ELITE-P ICE 搭载 16+2+2 项供电，支持 DDR5-8200 内存超频，提供 4 个 M.2 插槽，具备 ",
      "source": "IT之家",
      "zh": "技嘉展示 B850 AORUS ELITE-P 主板：延续“雕妹”主题，黑色外观"
-    },
-    {
-     "title": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”",
-     "link": "https://www.ithome.com/1/017/334.htm",
-     "pubDate": "Sat, 24 Oct 2026 03:48:36 GMT",
-     "summary": "IT之家 10 月 24 日消息，科技媒体 The Verge 昨日（10 月 23 日）发布博文，报道称美国国家公路交通安全管理局（NHTSA）正推动新提案， 为自动驾驶汽车引入统一的青绿色（蓝绿色）外部标识灯，让行人、其他驾驶员和执法人员能一眼识别“车辆正由自动驾驶系统操控”。 美国国家公路交通安全管理局最新发布联邦机动车安全标准第 108 号（FMVSS 108）的修订提案，目前处于征求意见阶段，公众可在《联邦公报》正式发布后 30 天内提交意见。 IT之家援引博文介绍，青色自动驾驶标识灯并非强制安装，但一旦车企选择配备，其颜色、亮度、数量、安装位置和激活方式都须遵循统一标准，以避免不同",
-     "source": "IT之家",
-     "zh": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”"
-    },
-    {
-     "title": "上海警方大数据精准打击“职业碰瓷大户”：一年多制造交通事故 200 余起，涉案金额达 60 余万元",
-     "link": "https://www.ithome.com/1/017/333.htm",
-     "pubDate": "Sat, 24 Oct 2026 03:46:19 GMT",
-     "summary": "IT之家 10 月 24 日消息，据上海市公安局交通警察总队披露，看似寻常的车辆碰擦，背后可能是精心策划的“碰瓷”骗局。针对手法隐蔽、取证难度大的交通事故“碰瓷”诈骗，上海警方依托大数据精准研判，多警种协同攻坚，在全市开展专项打击行动， 已成功抓获 6 名涉嫌“碰瓷”诈骗的犯罪嫌疑人 。 在此次行动中，交管总队专案组成功抓获了一名高频作案的“碰瓷大户”。据调查，朱某堪称“职业碰瓷人”，他日常驾车在黄浦、徐汇、浦东等各区域道路四处巡游，专门瞄准其他车辆变道时制造轻微碰擦， 单日最高连续作案 5 起 。 IT之家注意到， 朱某单次索赔金额仅数百元至一千元 ，靠频繁作案累积非法所得。由于事故形态常见",
-     "source": "IT之家",
-     "zh": "上海警方大数据精准打击“职业碰瓷大户”：一年多制造交通事故 200 余起，涉案金额达 60 余万元"
     },
     {
      "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
@@ -1858,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "“AI缺钱”，重构产业叙事"
     },
     {
-     "title": "The Anger Machine (Joan Kirner Social Justice Oration 2026)",
-     "link": "https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026",
-     "pubDate": "Sat, 24 Oct 2026 03:28:23 +0000",
-     "summary": "Article URL: https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026 Comments URL: https://news.ycombinator.com/item?id=50218126 Points: 5 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "The Anger Machine (Joan Kirner Social Justice Oration 2026)"
-    },
-    {
      "title": "孙正义的保险丝快断了",
      "link": "https://www.huxiu.com/article/4900105.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 11:27:29 +0800",
@@ -1880,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 海外独角兽 ，作者：Best Ideas 社群，题图来自：AI生成 Personal Agent 是今年 Q4 最热闹的 AI 领域：Meta 的 Muse、OpenAI 的 dots、Instinct，以及 Anthropic 新推出的 Claude Duet，让大厂、AI Labs 和创业公司同台竞争。 它也是最像互联网的 AI 命题：如果用户开始把需求交给 agent，那么从用户入口、流量分配，以及交易闭环，都会被重新组织。 不过，考虑到 Personal Agent 的单用户服务成本远高于传统互联网产品，产品或商业模式角度看也有可能会失效。 今天对 Persona",
      "source": "虎嗅",
      "zh": "深度讨论Personal Agent：“最互联网”的AI命题"
-    },
-    {
-     "title": "装备大佬高云峰押中AI，“大族系”两家上市公司业绩狂飙，股价较高点腰斩",
-     "link": "https://www.huxiu.com/article/4900102.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 11:12:04 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：韩迅，作者：黄嘉祥 深圳装备大佬高云峰，旗下“大族系”上市公司赚翻了。 10月22日晚间，大族激光（002008.SZ）发布2026年三季报，公司前三季度实现营收214.74亿元，同比增长68.92%；归母净利润为21.77亿元，同比增长152.19%。 “大族系”商业版图中，业绩增幅最大的是大族数控（301200‌.SZ;‌03200.HK‌），其为大族激光旗下PCB业务平台，靠做PCB设备赚得盆满钵满，该公司前三季度实现归母净利润15.44亿元，同比增长214.03%。 30多年前，高云峰从大学辞职创业，白手起家，经过多年打拼，打造了大族激光、大族数",
-     "source": "虎嗅",
-     "zh": "装备大佬高云峰押中AI，“大族系”两家上市公司业绩狂飙，股价较高点腰斩"
     },
     {
      "title": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)",
@@ -1906,26 +1914,10 @@ window.INDUSTRY_DATA = {
      "zh": "A Sabotaged Model Run, a Fired Intern, and a $30 Million Second Act"
     },
     {
-     "title": "走访一线商场，我发现了三大消费趋势",
-     "link": "https://www.tmtpost.com/8179951.html",
-     "pubDate": "Sat, 24 Oct 2026 10:30:00 +0800",
-     "summary": "深处的潮水已经转向。",
-     "source": "钛媒体",
-     "zh": "走访一线商场，我发现了三大消费趋势"
-    },
-    {
-     "title": "降价换不来增长，沃尔沃在中国卖不动了",
-     "link": "https://www.tmtpost.com/8179937.html",
-     "pubDate": "Sat, 24 Oct 2026 10:20:00 +0800",
-     "summary": "大中华区新帅开局不利。",
-     "source": "钛媒体",
-     "zh": "降价换不来增长，沃尔沃在中国卖不动了"
-    },
-    {
      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
      "pubDate": "Sat, 24 Oct 2026 01:53:10 +0000",
-     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 40 # Comments: 6",
+     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 41 # Comments: 10",
      "source": "Hacker News",
      "zh": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques"
     },
@@ -1941,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Twelve years of distributed SQLite",
      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
      "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
-     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 49 # Comments: 3",
+     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 55 # Comments: 5",
      "source": "Hacker News",
      "zh": "Twelve years of distributed SQLite"
     },
@@ -1992,6 +1984,14 @@ window.INDUSTRY_DATA = {
      "summary": "Tom Warren / The Verge : Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &nbsp; &mdash;&nbsp; Helen Chiang is leaving Microsoft after 21 years. &hellip; Xbox is losing its first chief operating office",
      "source": "Techmeme",
      "zh": "Memo: Helen Chiang, Xbox&apos;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)"
+    },
+    {
+     "title": "One Man's Pan Am 747 Replica [video]",
+     "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+     "pubDate": "Fri, 23 Oct 2026 21:46:51 +0000",
+     "summary": "Article URL: https://www.youtube.com/watch?v=vAFwHGGfPz4 Comments URL: https://news.ycombinator.com/item?id=50215828 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "One Man's Pan Am 747 Replica [video]"
     }
    ]
   },
@@ -2290,60 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "The young are conformists in denial"
     },
     {
-     "title": "国内金饰克价跌穿1200元 1个月猛跌100元",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907071636.html",
-     "pubDate": "Sat, 24 Oct 2026 11:54:54 +0800",
-     "summary": "美东时间周五，现货 黄金 价格跌破每盎司4000美元关口，国内品牌金饰价格随之下调。记者查询发现，老庙 黄金 足金 饰品 报1196元/克，较前一日跌了12元； 周生生 足金 饰品 报1200元/克，较前一日跌了6元； 周大福 足金 饰品 报1202元/克，较前一日跌了6元； 老凤祥 足金饰品报1206元/克，较前一日跌了6元。此前9月24日，国内品牌金饰克价普遍在1300元/克附近。一个月内，金饰价格已下跌约100元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "国内金饰克价跌穿1200元 1个月猛跌100元"
-    },
-    {
-     "title": "信通院报告：大模型价格回升明显 词元价格较去年下半年翻倍 日均消耗量增长3倍",
-     "link": "http://finance.eastmoney.com/news/11158,202610243907071551.html",
-     "pubDate": "Sat, 24 Oct 2026 11:53:37 +0800",
-     "summary": "随着大模型技术迅速迭代，词元（Token）服务已成为技术走向应用的关键节点。10月23日，中国信息 通信 研究院 人工智能 研究所、 人工智能 大模型及软硬件评测工业和信息化部重点实验室与中国 人工智能 产业发展联盟联合发布《大模型词元服务性能监测报告（2026年）》（下称报告）。 报告显示，词元服务呈现量价齐升态势，其中国内的词元价格较去年下半年翻倍，但量的增长达到3倍。2026年6月，国内词元日均消耗量约500万亿，是2025年12月的近4倍。越来越多模型即服务（MaaS）平台厂商通过公有云API方式供给大模型词元服务，而用户对词元服务性能缺乏直观判断依据、面临选型困难，是该报告开展的背景",
-     "source": "东方财富股票",
-     "zh": "信通院报告：大模型价格回升明显 词元价格较去年下半年翻倍 日均消耗量增长3倍"
-    },
-    {
      "title": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守",
      "link": "https://wallstreetcn.com/articles/3784381",
      "pubDate": "Sat, 24 Oct 2026 11:48:36 +0800",
      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
      "source": "华尔街见闻",
      "zh": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守"
-    },
-    {
-     "title": "首个汽车行业AI基座发布 面向全行业开放共享",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907070471.html",
-     "pubDate": "Sat, 24 Oct 2026 11:41:00 +0800",
-     "summary": "据“首都建设报”微信公众号，10月23日，在2026世界智能网联 汽车 大会现场，由 中国移动 牵头建设的国家 人工智能 应用中试基地（制造领域 汽车 方向，以下简称“ 汽车 基地”）正式发布业内首个汽车行业AI基座及建设成果。该AI基座能力即日起面向全行业开放共享。 汽车行业AI基座面向全行业一体化输出“算力—数据—模型”三大能力，车企无需自建即可按需取用。目前基座已纳管112.7EFLOPS算力，能力覆盖研发、制造、智驾、测评四大领域，打造了汽车造型设计、工艺规划、视觉质检、智能运维、智驾数据生成及智驾模型训练六大智能体，相关成果已在10余家央国车企落地应用。 （文章来源：证券时报网）",
-     "source": "东方财富股票",
-     "zh": "首个汽车行业AI基座发布 面向全行业开放共享"
-    },
-    {
-     "title": "台风“蔷琵”已致台湾1人死亡350人受伤",
-     "link": "http://finance.eastmoney.com/news/11790,202610243907070628.html",
-     "pubDate": "Sat, 24 Oct 2026 11:37:42 +0800",
-     "summary": "@看台海消息，台风“蔷琵”持续影响台湾。台湾地区灾害应变中心表示，截至23日晚，台风共造成全台1人死亡、350人受伤。此外，受台风影响，全台共发生3671件灾情。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "台风“蔷琵”已致台湾1人死亡350人受伤"
-    },
-    {
-     "title": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波",
-     "link": "http://finance.eastmoney.com/news/1344,202610243907070566.html",
-     "pubDate": "Sat, 24 Oct 2026 11:34:49 +0800",
-     "summary": "红星资本局10月24日消息，红星资本局发现，10月24日， 网红经济 学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。 从发布历史来看，10月23日下午，该账号推送一篇《市场见底，反弹行情展开》的笔记文章，阅读量6.6万，点赞量396。 10月24日，红星资本局就此咨询“泽平宏观”账号的橱窗客服。该客服告诉红星资本局，是账号异常，至于具体涉及什么违规，并不清楚。 当天，红星资本局尝试关注任泽平的个人 微博 账号，可以正常关注。 红星资本局注意到，早前，任泽平曾卷入“泽平宏观VIP群”学员亏损超千万风波。 据媒体报道，今年7月，一张“泽平宏观VIP群”学员亏损超千万",
-     "source": "东方财富股票",
-     "zh": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波"
-    },
-    {
-     "title": "风华高科：第三季度归母净利润3.51亿元 同比增长470%",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907069195.html",
-     "pubDate": "Sat, 24 Oct 2026 11:34:00 +0800",
-     "summary": "风华高科 公告，2026年第三季度营业收入22.99亿元，同比增长71.97%；归母净利润3.51亿元，同比增长470.17%；扣非净利润3.49亿元，同比增长464.27%。2026年前三季度营业收入57.99亿元，同比增长41.15%；归母净利润6.42亿元，同比增长180.90%；扣非净利润6.36亿元，同比增长174.14%。 （文章来源：新京报）",
-     "source": "东方财富股票",
-     "zh": "风华高科：第三季度归母净利润3.51亿元 同比增长470%"
     },
     {
      "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
@@ -2410,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "“算水协同”如何改变数据中心"
     },
     {
-     "title": "伊朗总统将于下周访俄并与普京会谈",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907068582.html",
-     "pubDate": "Sat, 24 Oct 2026 11:19:59 +0800",
-     "summary": "据伊朗方面23日消息，伊朗总统佩泽希齐扬将于下周访问俄罗斯，出席10月27日在莫斯科举行的 天然气 出口国论坛第八次峰会。另据卡塔尔方面消息，峰会期间，佩泽希齐扬将与俄罗斯总统普京举行会谈。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "伊朗总统将于下周访俄并与普京会谈"
-    },
-    {
      "title": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了",
      "link": "https://wallstreetcn.com/articles/3784382",
      "pubDate": "Sat, 24 Oct 2026 11:13:27 +0800",
@@ -2426,36 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了"
     },
     {
-     "title": "爆单了！“订单排到2031年” 超八成新订单在中国 三大指标稳居全球首位",
-     "link": "http://finance.eastmoney.com/news/1355,202610243907066263.html",
-     "pubDate": "Sat, 24 Oct 2026 11:01:00 +0800",
-     "summary": "三大造船指标中，今年1至9月新接订单163.2%的同比增速格外亮眼。有企业负责人表示，现在基本上可以做到每个月交付一条17万立方米LNG（液化 天然气 ）运输船，订单最晚的交期已经排到了2031年。 10月23日，工业和信息化部发布今年1至9月全国船舶工业统计数据显示， 造船业三大指标持续全球领跑，中国造船继续占据全球市场主导地位 。 超八成新船订单花落中国 三大指标稳居全球首位 2026年1月至9月，我国造船完工量5805万载重吨，同比增长50.7%；新接订单量17529万载重吨，同比增长163.2%；截至9月底，手持订单量39913万载重吨，同比增长64.8%。 我国造船完工量、新接订单量",
-     "source": "东方财富资讯",
-     "zh": "爆单了！“订单排到2031年” 超八成新订单在中国 三大指标稳居全球首位"
-    },
-    {
-     "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907066891.html",
-     "pubDate": "Sat, 24 Oct 2026 10:51:50 +0800",
-     "summary": "本周，全球科学服务巨头赛默飞世尔发布第三季度业绩报告：单季度营收121.4亿美元，同比增长9%。同期，公司GAAP营业利润达到22.63亿美元，同比增长17%；调整后营业利润达到29.68亿美元，同比增长15%。 受业绩催化驱动，该股于当地时间10月21日低开后迅速走高，股价一度站上705.79美元，创下 历史新高 。与此同时， 高盛 、罗斯柴尔德等国际投行一致上调公司目标价，目前平均目标价高达736.17美元。 关于业绩增长原因，董事长兼首席执行官Marc Casper表示，本季度，公司推进了行之有效的增长战略，并推出了一系列具有重大影响的创新产品。具体而言，包括： 在质谱领域，公司推出Or",
-     "source": "东方财富资讯",
-     "zh": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题"
-    },
-    {
      "title": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
      "link": "https://wallstreetcn.com/articles/3784380",
      "pubDate": "Sat, 24 Oct 2026 10:41:22 +0800",
      "summary": "AI独角兽Anthropic正站在上市的历史关口，但市场逆风正在加剧不确定性。 据路透社报道，Claude聊天机器人的开发商Anthropic计划于 11月中旬 完成IPO，目标估值高达 2万亿美元 ，有望超越SpaceX今年早些时候1.77万亿美元的上市规模，成为史上最大科技IPO之一。然而，美国证券交易委员会（SEC）要求公司在启动路演前至少15天公开提交招股说明书，这意味着Anthropic 留给自己的窗口期正在迅速收窄 。 与此同时， AI板块近期遭遇明显抛售 ——CoreWeave股价两周内暴跌约30%，美光过去一个月下跌17%——市场对AI支出可持续性的疑虑持续升温。多位市场人士表",
      "source": "华尔街见闻",
      "zh": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了"
-    },
-    {
-     "title": "前沿AI模型安全引爆担忧？OpenAI“表决心”：将完全断网训练！",
-     "link": "http://finance.eastmoney.com/news/1344,202610243907064672.html",
-     "pubDate": "Sat, 24 Oct 2026 10:24:18 +0800",
-     "summary": "OpenAI周五表示，它将在一个更安全的环境中训练其前沿 人工智能 （AI）模型，将其置于一个没有互联网访问权限的封闭系统中。 OpenAI在官方声明中确认， 目前正在一套完全不接入互联网的封闭系统中开展前沿模型训练工作。 公司已专门搭建了一套名为“离线世界”的完全隔离环境用于模型训练。 该公司在声明中写道：“我们预判未来的模型将具备自主识别、利用人类目前尚未发现的漏洞的能力”。 “我们与云服务提供商紧密合作，在整个基础设施中增加了新的控制措施，缩小了攻击者可利用的攻击面，并改进了检测异常行为和试图越过安全边界的方法。这些保护措施相互重叠，即使单个控制措施失效，也能有效遏制攻击——这种策略被称",
-     "source": "东方财富资讯",
-     "zh": "前沿AI模型安全引爆担忧？OpenAI“表决心”：将完全断网训练！"
     },
     {
      "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
@@ -2482,12 +2402,92 @@ window.INDUSTRY_DATA = {
      "zh": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案"
     },
     {
-     "title": "A股“换挡” 资金在等什么？多位知名首席研判",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907061891.html",
-     "pubDate": "Sat, 24 Oct 2026 10:01:00 +0800",
-     "summary": "近期A股加速回调，市场防御情绪一度升至高位。进入10月，三季报密集披露与增量政策落地交织，市场仍在寻找方向。 如何看待当前调整？财联社近期采访了平安证券首席经济学家钟正生、华创证券首席经济学家张瑜、 广发证券 首席经济学家郭磊、 国联民生 证券首席经济学家陶川、华福证券研究所所长助理兼宏观首席分析师陈兴，以及华源证券研究所所长助理、金融工程首席分析师杨怡玲。 在他们看来，本轮调整主要源于外部定价冲击与短期情绪释放，国内基本面并未转向，估值的安全边际与盈利的修复正在形成合力。 具体而言，外部冲击完成了估值端的快速出清，名义增长回升与新动能扩张提供盈利端支撑，增量政策与稳市机制守住下行风险底线，三",
-     "source": "东方财富资讯",
-     "zh": "A股“换挡” 资金在等什么？多位知名首席研判"
+     "title": "“中国文化 世界品牌”——2026杰出品牌营销分享会在京举行",
+     "link": "http://www.eeo.com.cn/2026/1024/1074206.shtml",
+     "pubDate": "Sat, 24 Oct 2026 09:58:14 +0800",
+     "summary": "2026杰出品牌营销分享会圆满落幕，但中国品牌走向世界的征途才刚刚开始。",
+     "source": "经济观察网",
+     "zh": "“中国文化 世界品牌”——2026杰出品牌营销分享会在京举行"
+    },
+    {
+     "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+     "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+     "pubDate": "Sat, 24 Oct 2026 01:57:24 GMT",
+     "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+     "source": "CNBC",
+     "zh": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
+    },
+    {
+     "title": "“为什么我的孩子，让我越来越陌生了？”",
+     "link": "http://www.eeo.com.cn/2026/1024/1071527.shtml",
+     "pubDate": "Sat, 24 Oct 2026 09:48:01 +0800",
+     "summary": "“为什么我的孩子，让我越来越陌生了？” 这句话经常有来访者对我说。以前明明是爱笑、阳光的孩子，怎么现在变得越来越沉默、暴躁，也不肯去学校了。一跟父母说话就炸，说什么话都听不进去。 为什么会这样？想起了沈华清教授说过的一句话“现在的孩子，从幼儿园到大学，都是关在笼子里养大的。幼儿园是笼子，小学初中是笼子，高中更是...",
+     "source": "经济观察网",
+     "zh": "“为什么我的孩子，让我越来越陌生了？”"
+    },
+    {
+     "title": "US executives quit $25bn gas venture over claims of secret Russian control",
+     "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 00:22:20 GMT",
+     "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
+     "source": "Financial Times",
+     "zh": "US executives quit $25bn gas venture over claims of secret Russian control"
+    },
+    {
+     "title": "Moody&apos;s holds steady on France&apos;s credit rating as country grapples with turmoil and higher yields",
+     "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
+     "pubDate": "Fri, 23 Oct 2026 22:49:42 GMT",
+     "summary": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
+     "source": "CNBC",
+     "zh": "Moody&apos;s holds steady on France&apos;s credit rating as country grapples with turmoil and higher yields"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 22:49:00 GMT",
+     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+     "source": "MarketWatch",
+     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
+    },
+    {
+     "title": "Trump&apos;s executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+     "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
+     "pubDate": "Fri, 23 Oct 2026 22:27:06 GMT",
+     "summary": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
+     "source": "CNBC",
+     "zh": "Trump&apos;s executive order targets mortgage insurance, refinance costs. What it means for borrowers"
+    },
+    {
+     "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+     "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 22:00:00 GMT",
+     "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
+     "source": "MarketWatch",
+     "zh": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork."
+    },
+    {
+     "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+     "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 21:46:00 GMT",
+     "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
+     "source": "MarketWatch",
+     "zh": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out."
+    },
+    {
+     "title": "Trump dropping some Canada tariffs but &apos;replacing&apos; them with other products",
+     "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+     "pubDate": "Fri, 23 Oct 2026 21:26:59 GMT",
+     "summary": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+     "source": "CNBC",
+     "zh": "Trump dropping some Canada tariffs but &apos;replacing&apos; them with other products"
+    },
+    {
+     "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+     "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 21:13:00 GMT",
+     "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
+     "source": "MarketWatch",
+     "zh": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%."
     }
    ]
   },

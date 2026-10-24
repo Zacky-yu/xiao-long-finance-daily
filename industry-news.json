@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 20:17:54",
+ "generated_at": "2026/10/24 20:31:55",
  "recent_days": 7,
  "industries": [
   {
@@ -225,6 +225,14 @@
      "zh": "Securing our frontier model training environment"
     },
     {
+     "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+     "link": "https://www.qbitai.com/2026/10/505083.html",
+     "pubDate": "Fri, 23 Oct 2026 09:21:41 +0000",
+     "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+     "source": "量子位",
+     "zh": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力"
+    },
+    {
      "title": "刚刚，何刚升职！成华为第17位董事",
      "link": "https://zhidx.com/p/604116.html",
      "pubDate": "Fri, 23 Oct 2026 17:20:37 +0800",
@@ -233,20 +241,12 @@
      "zh": "刚刚，何刚升职！成华为第17位董事"
     },
     {
-     "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
-     "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
-     "pubDate": "Fri, 23 Oct 2026 08:58:47 +0000",
-     "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic",
-     "source": "MarkTechPost",
-     "zh": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents"
-    },
-    {
-     "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-     "link": "https://www.qbitai.com/2026/10/504901.html",
-     "pubDate": "Fri, 23 Oct 2026 07:35:51 +0000",
-     "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+     "title": "企业AI需要两个世界模型",
+     "link": "https://www.qbitai.com/2026/10/505032.html",
+     "pubDate": "Fri, 23 Oct 2026 09:07:25 +0000",
+     "summary": "特赞想让企业Agent真正懂业务",
      "source": "量子位",
-     "zh": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径"
+     "zh": "企业AI需要两个世界模型"
     }
    ]
   },
@@ -1753,6 +1753,38 @@
    "total": 18,
    "items": [
     {
+     "title": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元",
+     "link": "https://www.ithome.com/1/017/497.htm",
+     "pubDate": "Sat, 24 Oct 2026 12:23:19 GMT",
+     "summary": "IT之家 10 月 24 日消息，小米米家钛保温杯茶水分离版 500ml 现已在京东发售，新品主打茶水分离设计，可选月光银、深空灰两种配色，定价 219 元。 京东 米家钛保温杯 茶水分离版 219 元 直达链接 据介绍，该产品的杯体、滤网和杯盖内衬片均为纯钛材质。用户倒置杯体即可让水流入茶仓；回正杯体茶水随即分离，随心掌控浓淡。 IT之家注意到，该产品配备可拆卸滤网，杯体不含双酚 A，拆下即可清洗。茶仓可拆下作为日常保温杯使用。可选深空灰、月光银两种配色，搭配 500ml 实用容量，兼顾泡茶和日常饮水。 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。",
+     "source": "IT之家",
+     "zh": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元"
+    },
+    {
+     "title": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元",
+     "link": "https://www.ithome.com/1/017/496.htm",
+     "pubDate": "Sat, 24 Oct 2026 12:20:24 GMT",
+     "summary": "IT之家 10 月 24 日消息，达音科现已在京东上架 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，定价为 999 元。 京东 达音科 PRS5 耳机 999 元 点此访问 该耳机采用复合层压熔彩纹理面板，机腔体采用高精度人体工学 3D 打印树脂材质，单侧净重约 8g，腔体曲线根据耳部结构优化以保证佩戴舒适度与稳定性。 该耳机搭载四分频五单元混合架构，包含一枚 10mm 定制动圈单元、三枚定制动铁单元及一枚极高频微型平板单元。耳机内部采用物理与电子双系统四分频，标配 4 股单晶铜及单晶铜镀银混编线材，采用凹陷式 0.78 2pin 插针，搭载 Q-Lock Mini 可换插头",
+     "source": "IT之家",
+     "zh": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元"
+    },
+    {
+     "title": "胡二妹离世后，被避雷的店主：“文字真的能杀死人”",
+     "link": "https://www.huxiu.com/article/4900183.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 20:19:13 +0800",
+     "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 四川宜宾炸洋芋摊主胡二妹去世已半个月，互联网上关于消费评价的生态，仍在被持续搅动。 作为“压死骆驼的最后一根稻草”，曾长久处在争议之中的“避雷帖”，并没有在这场悲剧后消失，反而陷入前所未有的尴尬： 在柳州经营火锅鸡小店的阿光，在被“避雷”后的短短两天里，从积极解释转为深深的无力，她在自己发布的反避雷帖标题里写下：“想紫砂了”。 与此同时，300多公里外的贵州凯里，开酸笋火锅店的小刘再度想起四个月前的经历：一条针对她小店的避雷帖，逐渐演变为对她个人的诋毁谩骂。她花费数月才慢慢走出来，但仍困惑，究竟怎样做才能平息对方的怒火？ 在“反避雷”帖里，她表",
+     "source": "虎嗅",
+     "zh": "胡二妹离世后，被避雷的店主：“文字真的能杀死人”"
+    },
+    {
+     "title": "卫星发射升空出现“火箭云”奇观，揭秘宇宙级浪漫形成过程",
+     "link": "https://www.ithome.com/1/017/495.htm",
+     "pubDate": "Sat, 24 Oct 2026 12:18:32 GMT",
+     "summary": "IT之家 10 月 24 日消息，暮色四合，天幕上一朵巨大的“夜光水母”缓缓舒展。10 月 23 日傍晚，山西、北京、山东、河北等地的不少人在夜空中看到了这一幕：橘红色尾焰划过之后，一条泛着淡白柔光的尾迹在高空铺开，边缘绵长弥散，形似水母的触须。相关画面很快在社交平台刷屏。 这朵“水母”来自一次常规航天发射。10 月 23 日 18 时 15 分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号 03 星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。发射本身按计划完成，真正引发公众注意的是火箭升空后在高层大气留下的尾迹。 央视新闻在解读中把这种现象称为“暮光效应”，俗称“",
+     "source": "IT之家",
+     "zh": "卫星发射升空出现“火箭云”奇观，揭秘宇宙级浪漫形成过程"
+    },
+    {
      "title": "中国信通院：截至 8 月，国内约 1500 万辆乘用车具备领航驾驶辅助（NOA）功能",
      "link": "https://www.ithome.com/1/017/494.htm",
      "pubDate": "Sat, 24 Oct 2026 12:02:31 GMT",
@@ -1793,28 +1825,12 @@
      "zh": "李建杰：三季度经济“U型”回升，但传导机制仍待疏通"
     },
     {
-     "title": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付",
-     "link": "https://www.ithome.com/1/017/490.htm",
-     "pubDate": "Sat, 24 Oct 2026 11:39:49 GMT",
-     "summary": "IT之家 10 月 24 日消息，近日有用户反馈称 Anthropic 旗下 Claude 的升级支付页面出现了新的地区选项变化。 IT之家实测发现，中国大陆及港澳台地区已出现在付款页面中，支付入口也已支持绑定中国银联卡。 与此同时，社交平台和开发者社区有用户称，此前被永久封禁的 Claude 账号可以提交申诉，且已有个别用户反馈申诉成功。关于这一点，IT之家暂无法核实。 值得一提的是，Claude 支付页面出现中国地区选项，并不等于 Anthropic 已全面开放相关地区的服务。截至目前，Anthropic 官方帮助中心仍要求用户位于其支持的地区才能使用 Claude。 本月初，Anthro",
-     "source": "IT之家",
-     "zh": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付"
-    },
-    {
      "title": "小酒馆走到分岔口，留下来的玩家靠什么走得更远？",
      "link": "https://www.huxiu.com/article/4900175.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 19:37:19 +0800",
      "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：倩君 越难做，越要先想清楚自己是谁。 前段时间，茶颜悦色旗下小酒馆“昼夜诗酒茶”宣布闭店消息，引发不少关注，而这也再次将小酒馆这门生意拉回大众视野。 小酒馆一度被视为年轻消费市场的新风口，围绕它展开的“微醺”、“情绪价值”等新消费表达，契合了年轻人对理想生活方式的向往，也让这门生意充满想象空间，吸引一批餐饮巨头和个人创业者纷纷入局。 但随着热潮退去，小酒馆的另一面开始显现。这门生意高度依赖熟人关系，需要持续的圈层运营和情感维系来支撑复购，而新入局者往往既没有现成的熟客基本盘，又缺乏长期运营的耐心，单靠装修风格和概念包装，很难持续地做下去。",
      "source": "虎嗅",
      "zh": "小酒馆走到分岔口，留下来的玩家靠什么走得更远？"
-    },
-    {
-     "title": "PITAKA 为苹果 iPhone Duo 推出“壳膜一体”外屏保护壳，374 元起",
-     "link": "https://www.ithome.com/1/017/489.htm",
-     "pubDate": "Sat, 24 Oct 2026 11:35:16 GMT",
-     "summary": "IT之家 10 月 24 日消息，随着苹果首款折叠屏手机 iPhone Duo 上市，许多产品制造商陆续为该机推出各种外设。例如 PITAKA 便为相应机型推出了一款“壳膜一体”外屏保护壳， 单外屏保护壳首发价为 374 元，套装定价为 749 元 。 京东 PITAKA iPhone Duo 外屏保护壳 券后 374 元起 领 25 元券 IT之家获悉，相应“壳膜一体”外屏保护壳结合了 9H+ 钢化玻璃膜和芳纶纤维外框，前盖整体厚度约 1mm，其中钢化膜约 0.6mm，整体重量约 17 克，提供日落、加州旧梦 1 号、阑夜、黑灰配色可选。 不过也有消息指出，这种“壳膜一体”外屏保护壳存在清灰",
-     "source": "IT之家",
-     "zh": "PITAKA 为苹果 iPhone Duo 推出“壳膜一体”外屏保护壳，374 元起"
     },
     {
      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
@@ -1825,12 +1841,12 @@
      "zh": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent"
     },
     {
-     "title": "戴尔推出“U3226QER”31.5 英寸显示器：4K 120Hz IPS Black 面板、双雷电 4 接口，5199 元",
-     "link": "https://www.ithome.com/1/017/488.htm",
-     "pubDate": "Sat, 24 Oct 2026 11:25:28 GMT",
-     "summary": "IT之家 10 月 24 日消息，戴尔现已在京东上架“U3226QER”31.5 英寸显示器，该机主打 4K 120Hz，定价为 5199 元。 京东 戴尔 U3226QER 显示器 券后 5199 元 领 500 元券 该机配备一块 3840x2160 分辨率 120Hz IPS Black 面板，对比度 3000:1，典型亮度 450 尼特，峰值亮度 600 尼特，显示器在快速模式下响应速度约 5ms，显示器支持 10-Bit 色彩。 该机采用银色支架、银色背板，支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供 1 个 HDMI 2.1、2 个 DP1.4、4 个 U",
-     "source": "IT之家",
-     "zh": "戴尔推出“U3226QER”31.5 英寸显示器：4K 120Hz IPS Black 面板、双雷电 4 接口，5199 元"
+     "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+     "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+     "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 30 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
     {
      "title": "美国版“我不是药神”：一个美国儿子的上海买药之旅",
@@ -1865,6 +1881,14 @@
      "zh": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot"
     },
     {
+     "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+     "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
+     "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
+     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706"
+    },
+    {
      "title": "9 Unique Apps to Try on the iPhone Duo",
      "link": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
      "pubDate": "Sat, 24 Oct 2026 10:45:00 +0000",
@@ -1887,14 +1911,6 @@
      "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
      "source": "WIRED",
      "zh": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale"
-    },
-    {
-     "title": "今年的1024，可能是最后一个程序员节",
-     "link": "https://www.huxiu.com/article/4900164.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 18:17:36 +0800",
-     "summary": "本文来自微信公众号： 极客公园 ，作者：Wildcard，编辑：靖宇，题图来自：AI生成 今天一整天， X 上都有人在讨论，&ldquo;1024 程序员节日快乐，今年会不会是最后一个程序员节了&rdquo;。 这一天恰好是周六。微博上的话题叫&ldquo;今年程序员节自带休息日&rdquo;，配文说 AI 工具分担了重复编码，程序员终于能过一个不被紧急需求打断的节。 影石连续第五年给优秀程序员发黄金键帽，今年新增了一颗&ldquo;F5&rdquo;键，寓意不断刷新迭代。颁奖现场，一位年轻同事说了句玩笑话，&ldquo;今年的黄金键帽，应该发给 AI&rdquo;。 一家机构的节日推文写得更",
-     "source": "虎嗅",
-     "zh": "今年的1024，可能是最后一个程序员节"
     },
     {
      "title": "12 Absolutely Banging Proper Watches Under $400",
@@ -1953,44 +1969,28 @@
      "zh": "苏超的背后的经济意义"
     },
     {
+     "title": "I Don't Understand Quantum Physics (2018)",
+     "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+     "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
+     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 97 # Comments: 60",
+     "source": "Hacker News",
+     "zh": "I Don't Understand Quantum Physics (2018)"
+    },
+    {
+     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+     "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+     "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
+     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 36 # Comments: 19",
+     "source": "Hacker News",
+     "zh": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps"
+    },
+    {
      "title": "A look at OpenAI&apos;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)",
      "link": "https://www.techmeme.com/261024/p2#a261024p2",
      "pubDate": "Sat, 24 Oct 2026 02:35:01 -0400",
      "summary": "Thomas Brewster / Forbes : A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more.&nbsp; &mdash;&nbsp; Using the l",
      "source": "Techmeme",
      "zh": "A look at OpenAI&apos;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)"
-    },
-    {
-     "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)",
-     "link": "https://www.techmeme.com/261024/p1#a261024p1",
-     "pubDate": "Sat, 24 Oct 2026 01:45:00 -0400",
-     "summary": "Toby Sterling / Reuters : The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors &nbsp; &mdash;&nbsp; The discovery of two serious flaws in PHP this week set off a global scramble to keep websites saf",
-     "source": "Techmeme",
-     "zh": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)"
-    },
-    {
-     "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
-     "link": "https://www.techmeme.com/261023/p28#a261023p28",
-     "pubDate": "Fri, 23 Oct 2026 23:45:01 -0400",
-     "summary": "Shimul Sood / Android Authority : Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads &nbsp; &mdash;&nbsp; Your inbox has secrets, and Google's ads might want in.&nbsp; &mdash;&nbsp; &bull; &he",
-     "source": "Techmeme",
-     "zh": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)"
-    },
-    {
-     "title": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)",
-     "link": "https://www.techmeme.com/261023/p27#a261023p27",
-     "pubDate": "Fri, 23 Oct 2026 22:55:01 -0400",
-     "summary": "Catherine Perloff / The Information : Andy Jassy says AWS capacity for 2027 is &ldquo;largely sold out&rdquo; and a &ldquo;good chunk&rdquo; of 2028 capacity is also sold, though AWS reserves some capacity for on-demand &nbsp; &mdash;&nbsp; Amazon Web Services capacity is mostly booked up through at",
-     "source": "Techmeme",
-     "zh": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)"
-    },
-    {
-     "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
-     "link": "https://www.techmeme.com/261023/p26#a261023p26",
-     "pubDate": "Fri, 23 Oct 2026 21:20:01 -0400",
-     "summary": "Liv McMahon / BBC : The UK plans to invest &pound;100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &nbsp; &mdash;&nbsp; The UK says it will establish a national AI Biosecurity Lab (AIBL) to help strengthen its def",
-     "source": "Techmeme",
-     "zh": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)"
     }
    ]
   },
@@ -2001,12 +2001,36 @@
    "total": 7,
    "items": [
     {
+     "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
+     "link": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
+     "pubDate": "Sat, 24 Oct 2026 12:15:32 +0000",
+     "summary": "The early discount on the new Apple Pencil (USB-C) for your new Duo, not to mention an ongoing all-time low on AirTag 2. On the Mac side of things we have a gigantic $900 price drop on this high-end MacBook Pro config , $200 off M5 MacBook Air models, and ongoing all-time lows at as much as $200 off",
+     "source": "9to5Mac",
+     "zh": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more"
+    },
+    {
+     "title": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate",
+     "link": "https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/",
+     "pubDate": "Sat, 24 Oct 2026 12:15:00 +0000",
+     "summary": "The debate about Sony's plan to stop making physical PS5 discs has raged since this summer.",
+     "source": "Engadget",
+     "zh": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate"
+    },
+    {
      "title": "I spent two weeks using Googlebooks, and I have 5 big concerns",
      "link": "https://www.androidauthority.com/acer-googlebook-weeks-later-3724787/",
      "pubDate": "Sat, 24 Oct 2026 12:00:48 +0000",
      "summary": "Googlebooks aren't ready for primetime, and software is only part of the problem.",
      "source": "Android Authority",
      "zh": "I spent two weeks using Googlebooks, and I have 5 big concerns"
+    },
+    {
+     "title": "Engadget review recap: iPhone Duo, Rivian R2 and more",
+     "link": "https://www.engadget.com/2295366/engadget-review-recap-iphone-duo-rivian-r2-and-more/",
+     "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+     "summary": "A roundup of recent reviews from Engadget.",
+     "source": "Engadget",
+     "zh": "Engadget review recap: iPhone Duo, Rivian R2 and more"
     },
     {
      "title": "vivo S70 tipped to launch soon with teleconverter support",
@@ -2209,36 +2233,12 @@
      "zh": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3"
     },
     {
-     "title": "iPhone Duo has hidden trick that solves a common complaint",
-     "link": "https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint/",
-     "pubDate": "Fri, 23 Oct 2026 19:43:08 +0000",
-     "summary": "iPhone Duo is officially out in the wild, and users keep discovering new details about the device. The latest: there’s a hidden trick that makes opening Control Center significantly easier. more…",
-     "source": "9to5Mac",
-     "zh": "iPhone Duo has hidden trick that solves a common complaint"
-    },
-    {
      "title": "Samsung extends its Certified Re-Newed program to Amazon US",
      "link": "https://www.gsmarena.com/samsung_extends_its_certified_renewed_program_to_amazon_us-news-75189.php",
      "pubDate": "Fri, 23 Oct 2026 21:21:02 +0200",
      "summary": "Samsung has put a new twist on its Certified Re-Newed program – the refurbished phones are now also available on Amazon.com in the US. Previously, you could only get them from Samsung itself. This is the store page on Amazon where you can browse all models (well, not all – see below). We’ve also pre",
      "source": "GSMArena",
      "zh": "Samsung extends its Certified Re-Newed program to Amazon US"
-    },
-    {
-     "title": "Meta is charging government and nonprofit pages to post links on Facebook",
-     "link": "https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/",
-     "pubDate": "Fri, 23 Oct 2026 16:09:39 +0000",
-     "summary": "The new restrictions are a test which is explicitly not supposed to impact these entities.",
-     "source": "Engadget",
-     "zh": "Meta is charging government and nonprofit pages to post links on Facebook"
-    },
-    {
-     "title": "Apple Music has a fun Easter egg for the iPod's 25th anniversary",
-     "link": "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/",
-     "pubDate": "Fri, 23 Oct 2026 15:47:03 +0000",
-     "summary": "Time to dust off the click wheel.",
-     "source": "Engadget",
-     "zh": "Apple Music has a fun Easter egg for the iPod's 25th anniversary"
     }
    ]
   },
@@ -2249,12 +2249,36 @@
    "total": 13,
    "items": [
     {
+     "title": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
+     "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 12:25:00 GMT",
+     "summary": "The first Phase 3 data for a custom cancer vaccine has raised questions about whether the potential new treatment is needed.",
+     "source": "MarketWatch",
+     "zh": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option."
+    },
+    {
      "title": "Why popular airplanes are getting scrapped years early",
      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-     "pubDate": "Sat, 24 Oct 2026 12:00:01 GMT",
+     "pubDate": "Sat, 24 Oct 2026 12:20:22 GMT",
      "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
      "source": "CNBC",
      "zh": "Why popular airplanes are getting scrapped years early"
+    },
+    {
+     "title": "中国驻欧盟使团介绍中国绿色发展及中欧绿色合作",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907117270.html",
+     "pubDate": "Sat, 24 Oct 2026 20:13:14 +0800",
+     "summary": "中国驻欧盟使团近日在法国斯特拉斯堡举办“中国大讲堂”系列讲座第四讲，特邀原中国气候变化事务特使解振华围绕“中国的绿色发展及中欧绿色合作”举行专题讲座。 活动由中国驻欧盟使团团长蔡润主持，中国驻斯特拉斯堡总领事潘昱旻出席。欧洲议会议员、欧盟有关机构官员，有关国家驻欧盟及法国外交官、地方政府官员、 教育 机构、企业及媒体智库代表等120余人参加。 解振华系统介绍了当前全球面临的气候变化与环境挑战，深入解读了中国绿色转型成就及气候、能源等领域治理实践，展望了中欧绿色合作的广阔前景，并现场回答了与会人员的提问。 蔡润表示，绿色是中欧合作的鲜明底色。中方希望同欧方相向而行，坚持伙伴关系定位，坚持合作主基",
+     "source": "东方财富股票",
+     "zh": "中国驻欧盟使团介绍中国绿色发展及中欧绿色合作"
+    },
+    {
+     "title": "财报透视｜永鼎股份Q3归母净利大增逾21倍，光纤市场量价齐升",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907117419.html",
+     "pubDate": "Sat, 24 Oct 2026 20:00:18 +0800",
+     "summary": "10月23日，江苏 永鼎股份 有限公司（600105.SH，简称“ 永鼎股份 ”）披露2026年第三季度报告。 公司第三季度实现归属于上市公司股东的净利润2.39亿元，同比增长2165.42%。 财报显示， 永鼎股份 第三季度实现营业收入20.91亿元，同比增长52.56%；利润总额2.78亿元，同比增长1386.49%； 归属于上市公司股东的净利润2.39亿元，同比增长2165.42%；扣除非经常性损益的净利润2.37亿元，同比增长3744.36%； 基本每股收益0.164元。 前三季度，公司实现营业收入54.30亿元，同比增长49.57%；归属于上市公司股东的净利润7.43亿元，同比增长1",
+     "source": "东方财富股票",
+     "zh": "财报透视｜永鼎股份Q3归母净利大增逾21倍，光纤市场量价齐升"
     },
     {
      "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
@@ -2273,12 +2297,44 @@
      "zh": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
     },
     {
+     "title": "俄军打击乌能源等设施 击落1297架固定翼无人机",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907117187.html",
+     "pubDate": "Sat, 24 Oct 2026 19:57:22 +0800",
+     "summary": "俄罗斯国防部24日发布通报说，过去24小时内，俄军对乌军使用的能源和交通基础设施等目标实施打击，并击落1297架固定翼 无人机 。 通报说，俄军战役战术航空兵、攻击型 无人机 、导弹部队和炮兵对乌军使用的能源和交通基础设施、远程 无人机 存储和发射地点，以及乌克兰武装部队和外国雇佣兵临时部署点实施打击。俄防空系统击落1枚法国“斯卡普”巡航导弹、4枚“海王星”远程导弹和1297架固定翼无人机。 此外，俄军23日夜间继续使用无人机打击乌克兰 港口 基础设施和为乌军服务的船只，击中敖德萨州切尔诺莫斯克港内一处无人艇生产车间，并在海上击中一艘运送乌军保障物资的干货船。 通报称，自特别军事行动开始以来，",
+     "source": "东方财富股票",
+     "zh": "俄军打击乌能源等设施 击落1297架固定翼无人机"
+    },
+    {
+     "title": "蔚来两项AI成果入选“汽车人工智能应用十大案例”",
+     "link": "http://stock.eastmoney.com/news/11231,202610243907117572.html",
+     "pubDate": "Sat, 24 Oct 2026 19:56:56 +0800",
+     "summary": "10月23日，2026世界智能网联 汽车 大会正式发布了“2026 汽车 人工智能 应用十大案例”。“ 蔚来 世界模型 NWM”与“ 蔚来 车边云协同的天瞳天探整车AI质检平台”双双入选，分别成为AI赋能 汽车 驾驶自动化与汽车研发生产智能化的代表性实践。 “ 蔚来 世界模型 NWM”依托“世界模型+监督微调+闭环强化学习”三层训练框架，在选路准确性及误刹车、风险干预等指标上做到行业领先，并支持园区、地下停车场、潮汐车道、可变车道等多元场景通行，已实现在多品牌、多平台车型上的规模化量产落地。 蔚来“天瞳天探”整车AI质检平台创新采用车端自主执行、边端实时感知、云端统筹调度的协同架构，并将车辆自",
+     "source": "东方财富股票",
+     "zh": "蔚来两项AI成果入选“汽车人工智能应用十大案例”"
+    },
+    {
+     "title": "灵基落地“跑出”实效 AI正驶入企业经营管理深水区",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907117358.html",
+     "pubDate": "Sat, 24 Oct 2026 19:56:02 +0800",
+     "summary": "新华财经北京10月24日电（记者沈寅飞） 当前， 人工智能 正在从通用工具走向企业经营管理的“深水区”。如何跳出单点提效，实现业务全链路价值释放，成为实体经济数字化转型的重要命题。 10月23日，2026全球创见者大会在北京举行，大会以AI原生组织为核心议题，发布企业智能体操作系统灵基新一轮能力，以规模化客户实践，为国内实体企业AI转型提供可参考路径。 业内人士指出，国内大中型企业AI采纳率已处于高位，但绝大多数项目仍停留在试点探索，真正完成业务闭环、深度融入核心经营流程的企业占比仍然有限，AI转型正从“谈技术”转向“看实效”的新阶段。 灵基付费用户已达3706家 AI落地走向业务深水区 “真",
+     "source": "东方财富股票",
+     "zh": "灵基落地“跑出”实效 AI正驶入企业经营管理深水区"
+    },
+    {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
      "link": "https://wallstreetcn.com/articles/3784398",
      "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
      "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
      "source": "华尔街见闻",
      "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
+    },
+    {
+     "title": "六连板！002724，紧急提示：股价随时有快速回落风险",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907117623.html",
+     "pubDate": "Sat, 24 Oct 2026 19:45:00 +0800",
+     "summary": "股价连续涨停， 海洋王 紧急公告。 10月23日晚间， 海洋王 (002724)披露股票交易异常波动公告，提示股价短期涨幅过大、存在非理性炒作风险，并分别澄清与核电、深海科技等热点概念的关系。 自10月16日以来， 海洋王 已连续6个交易日涨停，累计涨幅达77.41%。 海洋王所处行业最新滚动市盈率为18.05倍，而公司最新滚动市盈率达到179.49倍，近期已3次触发股票交易异常波动情形。 “公司股票短期波动较大，已严重偏离公司基本面，存在市场情绪过热、非理性炒作风险。”海洋王提示投资者，“公司股票10月16日至10月23日换手率分别为8.30%、1.17%、10.85%、0.82%、20.1",
+     "source": "东方财富股票",
+     "zh": "六连板！002724，紧急提示：股价随时有快速回落风险"
     },
     {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -2385,14 +2441,6 @@
      "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
     },
     {
-     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 07:00:00 GMT",
-     "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-     "source": "MarketWatch",
-     "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
-    },
-    {
      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
      "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
      "pubDate": "Sat, 24 Oct 2026 06:23:02 GMT",
@@ -2439,54 +2487,6 @@
      "summary": "The reassuringly bourgeois values behind a rebellious generation",
      "source": "Financial Times",
      "zh": "The young are conformists in denial"
-    },
-    {
-     "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
-     "link": "https://seekingalpha.com/news/4656924-global-x-equal-weight-can-insurance-idx-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:32:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend"
-    },
-    {
-     "title": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend",
-     "link": "https://seekingalpha.com/news/4656923-global-x-russell-2000-covered-cll-etf-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:32:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X Russell 2000 Covered Cll ETF declares $0.21 dividend"
-    },
-    {
-     "title": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend",
-     "link": "https://seekingalpha.com/news/4656922-global-x-20-plusyr-us-treasury-bd-idx-etf-hdgd-unts-declares-cad-0_193-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:31:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X 20+Yr US Treasury Bd Idx ETF Hdgd Unts declares CAD 0.193 dividend"
-    },
-    {
-     "title": "Global X 3-10 Year U.S. Treas Bd Idx ETF CAD Hdg declares CAD 0.20 dividend",
-     "link": "https://seekingalpha.com/news/4656921-global-x-3minus-10-year-u-s-treas-bd-idx-etf-cad-hdg-declares-cad-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:31:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X 3-10 Year U.S. Treas Bd Idx ETF CAD Hdg declares CAD 0.20 dividend"
-    },
-    {
-     "title": "Global X 3-10 Year U.S. Treasury Bond Index ETF declares CAD 0.201 dividend",
-     "link": "https://seekingalpha.com/news/4656920-global-x-3minus-10-year-u-s-treasury-bond-index-etf-declares-cad-0_201-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 23:29:37 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X 3-10 Year U.S. Treasury Bond Index ETF declares CAD 0.201 dividend"
-    },
-    {
-     "title": "存储扩产带动薄膜沉积设备放量",
-     "link": "http://www.eeo.com.cn/2026/1024/1074302.shtml",
-     "pubDate": "Sat, 24 Oct 2026 11:21:36 +0800",
-     "summary": "随着存储芯片堆叠层数增加，产线对薄膜沉积设备的需求已经大幅增长。一般而言，堆叠层数翻倍，对应的薄膜沉积设备需求量也会翻倍甚至更多。",
-     "source": "经济观察网",
-     "zh": "存储扩产带动薄膜沉积设备放量"
     }
    ]
   },

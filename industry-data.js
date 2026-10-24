@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 13:11:59",
+ "generated_at": "2026/10/24 13:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -146,36 +146,12 @@ window.INDUSTRY_DATA = {
      "zh": "Securing our frontier model training environment"
     },
     {
-     "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
-     "link": "https://www.qbitai.com/2026/10/505083.html",
-     "pubDate": "Fri, 23 Oct 2026 09:21:41 +0000",
-     "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
-     "source": "量子位",
-     "zh": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力"
-    },
-    {
      "title": "刚刚，何刚升职！成华为第17位董事",
      "link": "https://zhidx.com/p/604116.html",
      "pubDate": "Fri, 23 Oct 2026 17:20:37 +0800",
      "summary": "智东西 作者 | 云鹏 编辑｜心缘 智东西10月23日消息，根据华为官网管理层信息， 华为终端BG CEO何刚升任华为董事， 这位在华为工作了28年的老将，正式进入华为董事会。 何刚和余承东也是华为终端业务线“唯二”进入董事会的成员。 根据官网信息，何刚出生于1973年，毕业于西安电子科技大学，硕士。1998年加入华为，历任 无线GSM&UMTS产品线总裁、全球无线解决方案销售部部长、终端BG手机产品线总裁、终端BG CEO 等职务。 何刚比余承东小4岁，晚5年入职华为，同样为技术出身。 目前何刚微博信息已经更新。 2024年4月，余承东卸任终端BG CEO，何刚接任。据PChome报道， 接",
      "source": "智东西",
      "zh": "刚刚，何刚升职！成华为第17位董事"
-    },
-    {
-     "title": "企业AI需要两个世界模型",
-     "link": "https://www.qbitai.com/2026/10/505032.html",
-     "pubDate": "Fri, 23 Oct 2026 09:07:25 +0000",
-     "summary": "特赞想让企业Agent真正懂业务",
-     "source": "量子位",
-     "zh": "企业AI需要两个世界模型"
-    },
-    {
-     "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
-     "link": "https://www.qbitai.com/2026/10/504931.html",
-     "pubDate": "Fri, 23 Oct 2026 09:03:37 +0000",
-     "summary": "房间秒变草原，抬手就能下雪",
-     "source": "量子位",
-     "zh": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！"
     },
     {
      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
@@ -186,28 +162,12 @@ window.INDUSTRY_DATA = {
      "zh": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents"
     },
     {
-     "title": "国产5B生图模型海外突然爆火，4天超百万下载",
-     "link": "https://www.qbitai.com/2026/10/504930.html",
-     "pubDate": "Fri, 23 Oct 2026 08:50:16 +0000",
-     "summary": "",
+     "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+     "link": "https://www.qbitai.com/2026/10/504901.html",
+     "pubDate": "Fri, 23 Oct 2026 07:35:51 +0000",
+     "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
      "source": "量子位",
-     "zh": "国产5B生图模型海外突然爆火，4天超百万下载"
-    },
-    {
-     "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
-     "link": "https://www.qbitai.com/2026/10/504915.html",
-     "pubDate": "Fri, 23 Oct 2026 08:45:43 +0000",
-     "summary": "让AI真正走进真实世界",
-     "source": "量子位",
-     "zh": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相"
-    },
-    {
-     "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
-     "link": "https://www.qbitai.com/2026/10/504913.html",
-     "pubDate": "Fri, 23 Oct 2026 08:45:30 +0000",
-     "summary": "10月23日，iRTE2026实时智能大会在北京举行。",
-     "source": "量子位",
-     "zh": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代"
+     "zh": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径"
     },
     {
      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
@@ -248,6 +208,46 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "新智元",
      "zh": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕"
+    },
+    {
+     "title": "NeurIPS'26 | 注意力也能弃权！改善长上下文、低比特鲁棒性",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737212&idx=3&sn=7142b34e5331746fe654dfb765b726f5",
+     "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "NeurIPS'26 | 注意力也能弃权！改善长上下文、低比特鲁棒性"
+    },
+    {
+     "title": "Left alone with nothing to do, AI agents started playing",
+     "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+     "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+     "source": "TechCrunch AI",
+     "zh": "Left alone with nothing to do, AI agents started playing"
+    },
+    {
+     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+     "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+     "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+     "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+     "source": "OpenAI",
+     "zh": "OpenAI and Poland’s NASK partner to advance AI safety and security"
+    },
+    {
+     "title": "Does Your Model Run on AWS Trainium? Look It Up",
+     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+     "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Does Your Model Run on AWS Trainium? Look It Up"
+    },
+    {
+     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+     "pubDate": "Thu, 22 Oct 2026 22:24:34 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
     }
    ]
   },
@@ -1754,12 +1754,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "微软 Win11 26H2 发布 26340.9767 预览版：增强实验性功能体验、升级网络测速",
+     "link": "https://www.ithome.com/1/017/367.htm",
+     "pubDate": "Sat, 24 Oct 2026 05:26:41 GMT",
+     "summary": "IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布公告，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。 IT之家援引博文介绍，本次更新适用于 Experimental 频道 3 个版本： 26H2 版本更新后版本号升至 Build 26340.9767 26H1 版本更新后版本号升至 Build 28120.3302 未来平台版本更新后版本号升至 Build 29695.1001 在更新内容方面，以下是适用于 Windows 11 Build 26340.9767 的更新日志： 一、Windo",
+     "source": "IT之家",
+     "zh": "微软 Win11 26H2 发布 26340.9767 预览版：增强实验性功能体验、升级网络测速"
+    },
+    {
      "title": "微软“邮件革命”仅一年就退场：Outlook 收件箱 AI 整理 Prioritize My Inbox 功能下周起停用",
      "link": "https://www.ithome.com/1/017/362.htm",
      "pubDate": "Sat, 24 Oct 2026 05:07:40 GMT",
      "summary": "IT之家 10 月 24 日消息，科技媒体 Windows Central 昨日（10 月 23 日）发布博文，报道称微软已宣布将于 2026 年 10 月 26 日开始， 退役 Outlook 中的“优先处理我的收件箱”（Prioritize My Inbox）功能。 IT之家援引博文介绍，该功能于 2025 年上线，主要通过调用 Copilot &nbsp;AI 帮助 Outlook 用户整理邮件，从而在大量邮件中，帮助用户更快找到真正需要优先处理的内容。该功能在上线初期，被微软称之为“电子邮件革命”。 时任微软数字部门首席产品经理的马修 · 马尔津斯基（Matthew Marzynski",
      "source": "IT之家",
      "zh": "微软“邮件革命”仅一年就退场：Outlook 收件箱 AI 整理 Prioritize My Inbox 功能下周起停用"
+    },
+    {
+     "title": "苹果首款折叠屏没能养肥黄牛",
+     "link": "https://www.huxiu.com/article/4900045.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 13:07:22 +0800",
+     "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 虎嗅拍摄 比股票涨跌更直接拉动心跳的，是苹果新品上市首日门外的黄牛报价。 临近中午12点，北京苹果华贸中心店外，老刘（ 化名 ）拎着四个白色的苹果纸袋，在秋风里来回踱步。 &ldquo;早上加3000收的，现在只加2500都卖不出去&rdquo;。 不远处，一名路人劝同行的朋友：&ldquo;没必要买，价格已经下来了，说不定下午就没人加价了。&rdquo; 老刘听完叹了口气：&ldquo;就赚个辛苦钱。&rdquo; 10月23日，苹果首款折叠屏iPhone Duo开始线下提货销售。虎嗅当天走访了北京朝阳大悦城、三里屯和华贸中",
+     "source": "虎嗅",
+     "zh": "苹果首款折叠屏没能养肥黄牛"
     },
     {
      "title": "亿万富翁投资人马克 · 库班：抵御失控智能体就像防蟑螂，可以用 AI“喷药”",
@@ -1784,14 +1800,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 硅碳变量 ，作者：沈浪 9月储能采招22.0GW/73.7GWh(同比+88%/+121.3%)，但碳酸锂期货探至11.73万元/吨创年内新低，而2小时储能EPC均价环比降15%、年内首次低于1元/Wh。 市场很容易由此得出简单判断：上游价格传导失效，储能集成环节利润已被吃干。 但真实的行业图景，正被1元/Wh这条门槛割裂：一部分玩家仍依托旧逻辑争夺收益，另一部分早已切换了生存方式。 01 1元/Wh的报价，是怎么炼成的？ 2小时储能EPC中标均价跌到0.971元/Wh、首次跌破1元/Wh之后，最流行的解读是：集成商集体亏本抢单，行业进入全行业亏损。 这个1元/Wh关口被",
      "source": "虎嗅",
      "zh": "1元/Wh这道坎，把储能行业劈成了两半"
-    },
-    {
-     "title": "Elon Musk Acquires $1B Stake in CNN's Parent Company",
-     "link": "https://symby.com/news?_cid=101605177&preferredLanguage=en",
-     "pubDate": "Sat, 24 Oct 2026 04:42:10 +0000",
-     "summary": "Article URL: https://symby.com/news?_cid=101605177&preferredLanguage=en Comments URL: https://news.ycombinator.com/item?id=50218404 Points: 7 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Elon Musk Acquires $1B Stake in CNN's Parent Company"
     },
     {
      "title": "数采会成为具身智能的“牺牲品”吗？",
@@ -1840,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 深观商业 ，作者：陈辰 最近，全民进入大“过日子”时代的话题在网络上走红，字节跳动的一纸采购信息引起热议。 据悉，字节计划从今年8月至明年二季度，在北京、上海等工区分批更换办公椅。被换掉的Humanscale W orld，一把零售价约8000元的椅子，因字节标配而被称为“字节椅”。如今，它被换成了一把售价2549元的清闲智能S1。 在此之前，大疆也将办公椅从零售价过万元的赫曼米勒Aeron换成了清闲智能。 这不是一向有钱的科技大厂第一次主动在细节方面“省钱”。 去年，字节就曾发布内部信，通知将于2026年起停发春节红包，下午茶的供应也发生了微妙的变化。大疆曾发文称，自2",
      "source": "虎嗅",
      "zh": "大厂减配员工福利，纷纷进入“纯过日子”时代？"
-    },
-    {
-     "title": "全败：LPL 四队皆落入 2026《英雄联盟》全球总决赛瑞士轮 0-1 组别",
-     "link": "https://www.ithome.com/1/017/342.htm",
-     "pubDate": "Sat, 24 Oct 2026 04:30:25 GMT",
-     "summary": "IT之家 10 月 24 日消息， LPL 联赛在 2026《英雄联盟》全球总决赛遭遇开门黑 ：4 支参赛队伍均负于各自对手，跌入 0-1 组别。 种子顺位最低的 IG 首先负于 GEN，然后临时换人的 TES 不敌 HLE，赛前相对看好的 BLG 和 AL 也各自输给 MKOI 和 KC。 其它比赛方面，DK 战胜 G2、CFO 战胜 TLAW、T1 战胜 LOS、LYON 战胜 TSW。 根据赛后抽签， 第二轮 0-1 组将出现 TES vs AL 的内战，以及 IG vs TSW、BLG vs TLAW 两场外战 ，另一场则是 G2 vs LOS；1-0 组方面，四支 LCK 战队将捉对",
-     "source": "IT之家",
-     "zh": "全败：LPL 四队皆落入 2026《英雄联盟》全球总决赛瑞士轮 0-1 组别"
     },
     {
      "title": "全线扩产仍供不应求，光刻机被抢疯了",
@@ -1906,6 +1906,14 @@ window.INDUSTRY_DATA = {
      "zh": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)"
     },
     {
+     "title": "How close can pure functional programming get to C?",
+     "link": "https://rtfeldman.com/fp-vs-c",
+     "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
+     "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 19 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "How close can pure functional programming get to C?"
+    },
+    {
      "title": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)",
      "link": "https://www.techmeme.com/261023/p27#a261023p27",
      "pubDate": "Fri, 23 Oct 2026 22:55:01 -0400",
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
      "pubDate": "Sat, 24 Oct 2026 01:53:10 +0000",
-     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 52 # Comments: 12",
+     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 57 # Comments: 15",
      "source": "Hacker News",
      "zh": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Twelve years of distributed SQLite",
      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
      "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
-     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 81 # Comments: 8",
+     "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 98 # Comments: 10",
      "source": "Hacker News",
      "zh": "Twelve years of distributed SQLite"
     },
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tom Warren / The Verge : Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &nbsp; &mdash;&nbsp; Helen Chiang is leaving Microsoft after 21 years. &hellip; Xbox is losing its first chief operating office",
      "source": "Techmeme",
      "zh": "Memo: Helen Chiang, Xbox&apos;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)"
-    },
-    {
-     "title": "One Man's Pan Am 747 Replica [video]",
-     "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-     "pubDate": "Fri, 23 Oct 2026 21:46:51 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=vAFwHGGfPz4 Comments URL: https://news.ycombinator.com/item?id=50215828 Points: 10 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "One Man's Pan Am 747 Replica [video]"
     }
    ]
   },
@@ -2258,60 +2258,20 @@ window.INDUSTRY_DATA = {
      "zh": "远期需求旺盛！亚马逊AWS今明年产能都已被抢空，连2028年的算力都快没了"
     },
     {
-     "title": "唐登杰当选中共山西省委书记",
-     "link": "http://finance.eastmoney.com/news/11790,202610243907075921.html",
-     "pubDate": "Sat, 24 Oct 2026 12:55:37 +0800",
-     "summary": "中共山西省第十三届委员会第一次全体会议10月24日选举唐登杰为省委书记，卢东亮、李金科（满族）为省委副书记，当选为省委常委的还有董晓宇、张碧涌、赵红严（女）、林红玉、张韶华、尤丽霞（女）、朱晓东、常书铭、王帅红。中共山西省第十三届纪委第一次全体会议选举尤丽霞（女）为省纪委书记，王晓鹏、徐德峰、刘东光、陈云鹏为省纪委副书记。 （文章来源：山西日报）",
-     "source": "东方财富股票",
-     "zh": "唐登杰当选中共山西省委书记"
-    },
-    {
-     "title": "堤丰已运至冲绳嘉手纳基地",
-     "link": "http://global.eastmoney.com/news/1959,202610243907076073.html",
-     "pubDate": "Sat, 24 Oct 2026 12:52:57 +0800",
-     "summary": "据日本共同社10月23日报道，日本防卫省冲绳防卫局当天透露，此前临时部署在鹿儿岛县鹿屋航空基地的美国“堤丰”中程导弹系统已运抵美军位于冲绳县的嘉手纳基地。不过，有关运抵日期及装备数量等细节，冲绳防卫局表示，“这涉及美军使用有关事宜，不便回答”。“堤丰”中程导弹系统可发射“战斧”巡航导弹，为配合日本和美国等国参加的联合演习被部署在鹿屋航空基地，未来预计将存放在美军嘉手纳基地。不过此举引发日本多地民众及周边国家强烈抗议。俄罗斯外交部发言人扎哈罗娃9月曾表态，要求日方撤出在日本部署的“堤丰”中程导弹系统。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "堤丰已运至冲绳嘉手纳基地"
-    },
-    {
-     "title": "微信回应耐克等账号发色情链接：系第三方外挂服务被攻破",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907075898.html",
-     "pubDate": "Sat, 24 Oct 2026 12:51:37 +0800",
-     "summary": "10月24日，针对多个公司企业微信客服账号向客户发送疑似色情引流信息一事，企业微信官方回应新黄河大鱼财经记者称，当日有少量企业微信账号出现上述情况，经安全团队第一时间排查，确认为某第三方外挂软件服务被攻破，导致使用该外挂服务的账号受到影响。企业微信表示，已将受影响的企微账号强制下线，并封禁相关引流链接。 （文章来源：新黄河）",
-     "source": "东方财富股票",
-     "zh": "微信回应耐克等账号发色情链接：系第三方外挂服务被攻破"
-    },
-    {
-     "title": "华源证券：三大条件推动A股市场风险收益结构更趋有利",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907076383.html",
-     "pubDate": "Sat, 24 Oct 2026 12:50:00 +0800",
-     "summary": "上证报中国证券网讯（记者荆淮侨）近期，A股市场出现调整。华源证券研究所所长助理、金融工程首席分析师杨怡玲认为，站在2026年10月下旬这一时点，A股市场的风险收益结构较一个月前更趋有利。推动这一变化的三个条件正在同步显现：一是A股上市公司盈利增速延续上行，二是主要宽基指数估值分位数回落至历史中位数附近，三是市场资金结构由杠杆资金向配置型资金切换。三者共振，构成一个风险收益比改善、但尚未被市场充分定价的组合。 从内外部环境看，市场在逐步定价“盈利波动+估值扩张空间压缩”。若三季度业绩印证盈利仍处上行通道，市场对盈利持续性的定价有待上修；即便该趋势被证伪，当前估值仍处合理区间，下行空间有限。整体来",
-     "source": "东方财富股票",
-     "zh": "华源证券：三大条件推动A股市场风险收益结构更趋有利"
-    },
-    {
-     "title": "歌尔股份前三季度毛利率13.68% 营收净利齐升 垂直整合能力持续兑现",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907075597.html",
-     "pubDate": "Sat, 24 Oct 2026 12:42:00 +0800",
-     "summary": "10月23日晚间， 歌尔股份 （002241.SZ）披露2026年三季度报告。报告显示，前三季度公司累计实现营业收入682.20亿元，同比增长0.17%；归母净利润26.19亿元，同比增长1.21%；扣非归母净利润21.12亿元，同比增长2.20%，利润增速跑赢营收增速，盈利能力持续修复。 三季度作为 消费电子 传统出货旺季，公司单季度经营表现进一步提升，第三季度实现营业收入281.74亿元，环比增长31.73%；归母净利润11.53亿元，环比增长19.74%；扣非归母净利润9.97亿元，环比增长30.09%。盈利端释放积极信号，前三季度公司毛利率13.68%，较去年同期提升0.49个百分点。",
-     "source": "东方财富股票",
-     "zh": "歌尔股份前三季度毛利率13.68% 营收净利齐升 垂直整合能力持续兑现"
-    },
-    {
-     "title": "这家公司2年涨7倍，光伏产业还有哪些“金贝”待捡？",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907075678.html",
-     "pubDate": "Sat, 24 Oct 2026 12:41:20 +0800",
-     "summary": "光伏行业上半年深度调整，营收利润双降，但部分绩优企业逆势增长，基本面改善，估值处于洼地。 今年上半年，光伏产业不论是整体增长情况，还是二级市场表现，均面临着不小的压力。 统计数据显示，A股50只光伏产业成分股的合计收入和合计利润出现下滑，与此同时，多数公司今年以来的股价表现也不尽如人意。不过，在产业整体承压的大背景下，依然有优绩生的存在，比如有的公司营收增速可观，盈利能力大幅改善；有的公司业绩大幅增长，成长优势显现，还有一些公司则通过跨界融合，开辟了新的业绩增长曲线。这些绩优生已成为一些投资人眼中的香饽饽。 50只成分股上半年营收下降5.98% 据国家能源局数据，2026年上半年国内光伏新增装",
-     "source": "东方财富股票",
-     "zh": "这家公司2年涨7倍，光伏产业还有哪些“金贝”待捡？"
-    },
-    {
      "title": "AI造电影",
      "link": "http://www.eeo.com.cn/2026/1024/1074364.shtml",
      "pubDate": "Sat, 24 Oct 2026 12:29:42 +0800",
      "summary": "蒋德富向经济观察报透露，这部电影投入在千万级以上，而同样规模的题材若真人实拍，至少需要三亿元。特别是大场面的特效镜头，以前一个镜头就要几百万元，部分还要送到国外制作，成本更高。",
      "source": "经济观察网",
      "zh": "AI造电影"
+    },
+    {
+     "title": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发",
+     "link": "http://stock.eastmoney.com/news/11134,202610243907074028.html",
+     "pubDate": "Sat, 24 Oct 2026 12:14:12 +0800",
+     "summary": "10月23日盘后，A股上市公司集中披露2026年三季报。 横跨 半导体 、 电子 元器件、 新材料 、高端制造等多个高景气赛道的十余家企业交出了超预期的业绩答卷，多家公司今年前三季度归母净利润同比增幅突破400%，亦有多家公司第三季度单季增幅超过400%。 本轮披露的三季报中， 东岳硅材 （300821）2026年前三季度实现营业收入39.71亿元，同比增长31.21%，归母净利润达5.57亿元，同比大增19413.54%；第三季度单季实现营收13.06亿元，归母净利润1.29亿元，同比增长427.06%。 公司表示，业绩高增核心来自行业供需格局改善带动主营 有机硅 产品价格同比上涨，同时原材",
+     "source": "东方财富资讯",
+     "zh": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发"
     },
     {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
@@ -2360,6 +2320,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
      "source": "华尔街见闻",
      "zh": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守"
+    },
+    {
+     "title": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波",
+     "link": "http://finance.eastmoney.com/news/1344,202610243907070566.html",
+     "pubDate": "Sat, 24 Oct 2026 11:34:49 +0800",
+     "summary": "红星资本局10月24日消息，红星资本局发现，10月24日， 网红经济 学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。 从发布历史来看，10月23日下午，该账号推送一篇《市场见底，反弹行情展开》的笔记文章，阅读量6.6万，点赞量396。 10月24日，红星资本局就此咨询“泽平宏观”账号的橱窗客服。该客服告诉红星资本局，是账号异常，至于具体涉及什么违规，并不清楚。 当天，红星资本局尝试关注任泽平的个人 微博 账号，可以正常关注。 红星资本局注意到，早前，任泽平曾卷入“泽平宏观VIP群”学员亏损超千万风波。 据媒体报道，今年7月，一张“泽平宏观VIP群”学员亏损超千万",
+     "source": "东方财富资讯",
+     "zh": "任泽平公众号违规！已被禁止关注 此前曾卷入“VIP会员群学员亏损超千万”风波"
     },
     {
      "title": "Global X Equal Weight Can Insurance Idx ETF declares CAD 0.06 dividend",
@@ -2426,6 +2394,14 @@ window.INDUSTRY_DATA = {
      "zh": "“算水协同”如何改变数据中心"
     },
     {
+     "title": "伊朗总统将于下周访俄并与普京会谈",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907068582.html",
+     "pubDate": "Sat, 24 Oct 2026 11:19:59 +0800",
+     "summary": "据伊朗方面23日消息，伊朗总统佩泽希齐扬将于下周访问俄罗斯，出席10月27日在莫斯科举行的 天然气 出口国论坛第八次峰会。另据卡塔尔方面消息，峰会期间，佩泽希齐扬将与俄罗斯总统普京举行会谈。 （文章来源：央视新闻）",
+     "source": "东方财富资讯",
+     "zh": "伊朗总统将于下周访俄并与普京会谈"
+    },
+    {
      "title": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了",
      "link": "https://wallstreetcn.com/articles/3784382",
      "pubDate": "Sat, 24 Oct 2026 11:13:27 +0800",
@@ -2434,12 +2410,36 @@ window.INDUSTRY_DATA = {
      "zh": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了"
     },
     {
+     "title": "爆单了！“订单排到2031年” 超八成新订单在中国 三大指标稳居全球首位",
+     "link": "http://finance.eastmoney.com/news/1355,202610243907066263.html",
+     "pubDate": "Sat, 24 Oct 2026 11:01:00 +0800",
+     "summary": "三大造船指标中，今年1至9月新接订单163.2%的同比增速格外亮眼。有企业负责人表示，现在基本上可以做到每个月交付一条17万立方米LNG（液化 天然气 ）运输船，订单最晚的交期已经排到了2031年。 10月23日，工业和信息化部发布今年1至9月全国船舶工业统计数据显示， 造船业三大指标持续全球领跑，中国造船继续占据全球市场主导地位 。 超八成新船订单花落中国 三大指标稳居全球首位 2026年1月至9月，我国造船完工量5805万载重吨，同比增长50.7%；新接订单量17529万载重吨，同比增长163.2%；截至9月底，手持订单量39913万载重吨，同比增长64.8%。 我国造船完工量、新接订单量",
+     "source": "东方财富资讯",
+     "zh": "爆单了！“订单排到2031年” 超八成新订单在中国 三大指标稳居全球首位"
+    },
+    {
+     "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907066891.html",
+     "pubDate": "Sat, 24 Oct 2026 10:51:50 +0800",
+     "summary": "本周，全球科学服务巨头赛默飞世尔发布第三季度业绩报告：单季度营收121.4亿美元，同比增长9%。同期，公司GAAP营业利润达到22.63亿美元，同比增长17%；调整后营业利润达到29.68亿美元，同比增长15%。 受业绩催化驱动，该股于当地时间10月21日低开后迅速走高，股价一度站上705.79美元，创下 历史新高 。与此同时， 高盛 、罗斯柴尔德等国际投行一致上调公司目标价，目前平均目标价高达736.17美元。 关于业绩增长原因，董事长兼首席执行官Marc Casper表示，本季度，公司推进了行之有效的增长战略，并推出了一系列具有重大影响的创新产品。具体而言，包括： 在质谱领域，公司推出Or",
+     "source": "东方财富资讯",
+     "zh": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题"
+    },
+    {
      "title": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
      "link": "https://wallstreetcn.com/articles/3784380",
      "pubDate": "Sat, 24 Oct 2026 10:41:22 +0800",
      "summary": "AI独角兽Anthropic正站在上市的历史关口，但市场逆风正在加剧不确定性。 据路透社报道，Claude聊天机器人的开发商Anthropic计划于 11月中旬 完成IPO，目标估值高达 2万亿美元 ，有望超越SpaceX今年早些时候1.77万亿美元的上市规模，成为史上最大科技IPO之一。然而，美国证券交易委员会（SEC）要求公司在启动路演前至少15天公开提交招股说明书，这意味着Anthropic 留给自己的窗口期正在迅速收窄 。 与此同时， AI板块近期遭遇明显抛售 ——CoreWeave股价两周内暴跌约30%，美光过去一个月下跌17%——市场对AI支出可持续性的疑虑持续升温。多位市场人士表",
      "source": "华尔街见闻",
      "zh": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了"
+    },
+    {
+     "title": "前沿AI模型安全引爆担忧？OpenAI“表决心”：将完全断网训练！",
+     "link": "http://finance.eastmoney.com/news/1344,202610243907064672.html",
+     "pubDate": "Sat, 24 Oct 2026 10:24:18 +0800",
+     "summary": "OpenAI周五表示，它将在一个更安全的环境中训练其前沿 人工智能 （AI）模型，将其置于一个没有互联网访问权限的封闭系统中。 OpenAI在官方声明中确认， 目前正在一套完全不接入互联网的封闭系统中开展前沿模型训练工作。 公司已专门搭建了一套名为“离线世界”的完全隔离环境用于模型训练。 该公司在声明中写道：“我们预判未来的模型将具备自主识别、利用人类目前尚未发现的漏洞的能力”。 “我们与云服务提供商紧密合作，在整个基础设施中增加了新的控制措施，缩小了攻击者可利用的攻击面，并改进了检测异常行为和试图越过安全边界的方法。这些保护措施相互重叠，即使单个控制措施失效，也能有效遏制攻击——这种策略被称",
+     "source": "东方财富资讯",
+     "zh": "前沿AI模型安全引爆担忧？OpenAI“表决心”：将完全断网训练！"
     },
     {
      "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",

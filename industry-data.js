@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 03:55:33",
+ "generated_at": "2026/10/26 04:47:54",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
+     "link": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
+     "pubDate": "Sun, 25 Oct 2026 20:30:42 +0000",
+     "summary": "Researchers at Arizona State University and University of Maryland published “SEAL: Multitenant Security-Aware Layer Mapping for Heterogeneous 3-D CiM Accelerators.” Abstract: “Heterogeneous 3-D compute-in-memory architectures can combine different memory technologies across stacked tiers to acceler",
+     "source": "Semiconductor Engineering",
+     "zh": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)"
+    },
+    {
+     "title": "Neural Networks Speed 3nm Nanosheet SPICE Simulation (TU Munich)",
+     "link": "https://semiengineering.com/neural-networks-speed-3nm-nanosheet-spice-simulation-tu-munich/",
+     "pubDate": "Sun, 25 Oct 2026 20:14:26 +0000",
+     "summary": "Researchers at Technical University of Munich published “NN-Based Transistor Modeling for Ultra-Fast SPICE Simulation and Standard Cell Library Characterization.” Abstract: “Neural network (NN)-based transistor models have proven to be a promising solution to accelerate device modeling. Although the",
+     "source": "Semiconductor Engineering",
+     "zh": "Neural Networks Speed 3nm Nanosheet SPICE Simulation (TU Munich)"
+    },
+    {
      "title": "CEO Interview with Eric Tsai of Mivium",
      "link": "https://semiwiki.com/ceo-interviews/374522-ceo-interview-with-eric-tsai-of-mivium/",
      "pubDate": "Sun, 25 Oct 2026 18:00:01 +0000",
@@ -370,22 +386,6 @@ window.INDUSTRY_DATA = {
      "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
     },
     {
-     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
-     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
-    },
-    {
-     "title": "Space Tech Expo Europe to say farewell to Bremen",
-     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
-     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Space Tech Expo Europe to say farewell to Bremen"
-    },
-    {
      "title": "ST extends MasterGaN integrated transistor/driver family",
      "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
      "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
@@ -402,30 +402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
-     "title": "Soft Switching Or Hard?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
-     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Soft Switching Or Hard?"
-    },
-    {
-     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
-     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
-     "source": "Electronics Weekly",
-     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
-    },
-    {
-     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
-     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
-    },
-    {
      "title": "Two Dollars and a Test Suite",
      "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
      "pubDate": "Fri, 23 Oct 2026 08:03:27 +0000",
@@ -440,14 +416,6 @@ window.INDUSTRY_DATA = {
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Electronics production growth accelerating, says SI",
-     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
-     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -496,6 +464,38 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
+    },
+    {
+     "title": "Chip Scaling Moves Beyond The Transistor",
+     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
+     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
+     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Chip Scaling Moves Beyond The Transistor"
+    },
+    {
+     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
+     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
+     "source": "Semiconductor Today",
+     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
+    },
+    {
+     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
+     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
+     "source": "Semiconductor Today",
+     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
+    },
+    {
+     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
+     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -1762,6 +1762,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+     "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+     "pubDate": "Sun, 25 Oct 2026 20:20:08 +0000",
+     "summary": "\"That's a 12-year-old view of the world.\"",
+     "source": "TechCrunch",
+     "zh": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead"
+    },
+    {
+     "title": "Eunice is almost here (William Gibson, Agency)",
+     "link": "https://armincat.com/articles/eunice-is-almost-here",
+     "pubDate": "Sun, 25 Oct 2026 19:40:27 +0000",
+     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 20 # Comments: 13",
+     "source": "Hacker News",
+     "zh": "Eunice is almost here (William Gibson, Agency)"
+    },
+    {
+     "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+     "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+     "pubDate": "Sun, 25 Oct 2026 19:29:16 +0000",
+     "summary": "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/ Comments URL: https://news.ycombinator.com/item?id=50235217 Points: 58 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%"
+    },
+    {
+     "title": "Why I Am a Programmer",
+     "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+     "pubDate": "Sun, 25 Oct 2026 19:11:31 +0000",
+     "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 18 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Why I Am a Programmer"
+    },
+    {
+     "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+     "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+     "pubDate": "Sun, 25 Oct 2026 19:10:36 +0000",
+     "summary": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens"
+    },
+    {
      "title": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)",
      "link": "https://www.techmeme.com/261025/p10#a261025p10",
      "pubDate": "Sun, 25 Oct 2026 15:10:13 -0400",
@@ -1781,41 +1821,9 @@ window.INDUSTRY_DATA = {
      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
      "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
      "pubDate": "Sun, 25 Oct 2026 18:11:38 +0000",
-     "summary": "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 23 # Comments: 4",
+     "summary": "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 40 # Comments: 9",
      "source": "Hacker News",
      "zh": "All you need is Wide Events, not \"Metrics, Logs and Traces\""
-    },
-    {
-     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-     "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-     "pubDate": "Sun, 25 Oct 2026 18:04:11 +0000",
-     "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 147 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop"
-    },
-    {
-     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-     "link": "https://talkweb.eu/openweb/4558/",
-     "pubDate": "Sun, 25 Oct 2026 17:30:55 +0000",
-     "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 202 # Comments: 93",
-     "source": "Hacker News",
-     "zh": "I refuse to accept a censored Internet. Join Me at FOSDEM 27"
-    },
-    {
-     "title": "Fuck Nuance (2015)",
-     "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-     "pubDate": "Sun, 25 Oct 2026 17:26:08 +0000",
-     "summary": "Article URL: https://crookedtimber.org/2015/08/31/fuck-nuance/ Comments URL: https://news.ycombinator.com/item?id=50233883 Points: 21 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Fuck Nuance (2015)"
-    },
-    {
-     "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
-     "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-     "pubDate": "Sun, 25 Oct 2026 17:20:22 +0000",
-     "summary": "Article URL: https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass Comments URL: https://news.ycombinator.com/item?id=50233828 Points: 23 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Scientists rediscover how to make ancient Roman colour-changing glass"
     },
     {
      "title": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "自古以来，人类就从抚摸狗中获得慰藉。大量研究承认养宠物对福祉的益处，但驱动这些益处的机制仍不清楚。在一项研究中，研究人员邀请了 64 名狗主人及其宠物来到实验室，研究抚摸狗是否能帮助人们更好地应对压力，以及身体接触是否是这种对大脑和身体产生影响的关键。研究人员设计了实验，以分离触摸狗如何影响人在压力期间和之后的大脑、心脏和情绪状态。51 名女性和 13 名男性，平均年龄 34 岁，带着自己的宠物狗参加了研究。狗必须至少 2 岁、健康，并在新环境中感到舒适。团队追踪了参与者的大脑活动，并使用心电图监测测试前、测试中和测试后的心脏活动。他们还询问参与者在关键时间点的感受，从平静到兴奋、从负面到正面",
      "source": "Solidot",
      "zh": "撸狗有助于抵抗下一次压力"
-    },
-    {
-     "title": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)",
-     "link": "https://www.techmeme.com/261025/p7#a261025p7",
-     "pubDate": "Sun, 25 Oct 2026 07:00:54 -0400",
-     "summary": "Maria Curi / Axios : Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers &nbsp; &mdash;&nbsp; Washington has always viewed Silicon Valley as culturally strange.&nbsp; But the current crop of ",
-     "source": "Techmeme",
-     "zh": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17",
+     "link": "https://www.gsmarena.com/oneplus_15_starts_receiving_the_stable_coloros_17_update_based_on_android_17-news-75197.php",
+     "pubDate": "Sun, 25 Oct 2026 21:02:02 +0100",
+     "summary": "Back in July, OnePlus confirmed that all eligible OnePlus devices will switch from OxygenOS to ColorOS with the Android 17 update, in all regions. Now, that switch is starting to happen for the OnePlus 15, which is getting the stable ColorOS 17 update starting today, carrying the build number CPH274",
+     "source": "GSMArena",
+     "zh": "OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17"
+    },
     {
      "title": "What does the bell icon mean on your CarPlay screen?",
      "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed"
     },
     {
-     "title": "CMF Speaker S unboxing and hands-on",
-     "link": "https://www.gsmarena.com/cmf_speaker_s_unboxing_and_handson-news-75117.php",
-     "pubDate": "Sat, 24 Oct 2026 23:59:01 +0200",
-     "summary": "Portable Bluetooth speakers are among the most diverse product groups nowadays. They come in all shapes and sizes, materials, colors, and pack different features. But CMF makes possibly the most interesting of them all. Meet the CMF Speaker S, a compact Bluetooth speaker that's just €69 and well wor",
-     "source": "GSMArena",
-     "zh": "CMF Speaker S unboxing and hands-on"
-    },
-    {
      "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
      "link": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
      "pubDate": "Sat, 24 Oct 2026 21:46:33 +0000",
@@ -2258,52 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "以色列总理内塔尼亚胡表示，欧洲正流失宝贵劳动力",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386573.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:48 +0800",
-     "summary": "以色列总理内塔尼亚胡表示，欧洲正流失宝贵劳动力，民众从封闭经济体出走，投向以色列这类开放的经济体。他认为以色列应当成为这些投资者与企业家的主要目的地。 （文章来源：新浪财经快讯）",
+     "title": "塞尔维亚领导人武契奇：学生名单阵营获得超过200万张选票",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907390460.html",
+     "pubDate": "Mon, 26 Oct 2026 04:37:04 +0800",
+     "summary": "塞尔维亚领导人武契奇：学生名单阵营获得超过200万张选票。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "以色列总理内塔尼亚胡表示，欧洲正流失宝贵劳动力"
+     "zh": "塞尔维亚领导人武契奇：学生名单阵营获得超过200万张选票"
     },
     {
-     "title": "以色列总理内塔尼亚胡表示，欧洲左翼势力抬头，致使大量企业家、商界人士以及企业向外迁移",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386476.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:47 +0800",
-     "summary": "以色列总理内塔尼亚胡表示，欧洲左翼势力抬头，致使大量企业家、商界人士以及企业向外迁移，前往营商环境更友好的国家。 （文章来源：新浪财经快讯）",
+     "title": "塞尔维亚领导人武契奇承认在提前选举中落败",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907390336.html",
+     "pubDate": "Mon, 26 Oct 2026 04:37:03 +0800",
+     "summary": "塞尔维亚领导人武契奇承认在提前选举中落败。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "以色列总理内塔尼亚胡表示，欧洲左翼势力抬头，致使大量企业家、商界人士以及企业向外迁移"
+     "zh": "塞尔维亚领导人武契奇承认在提前选举中落败"
     },
     {
-     "title": "以色列总理内塔尼亚胡表示，他在以色列看到许多欧洲所不具备的景象",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386371.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:46 +0800",
-     "summary": "以色列总理内塔尼亚胡表示，他在以色列看到许多欧洲所不具备的景象。他称欧洲发展日渐落后，以色列随处可见现代化基础设施与工程吊机。 （文章来源：新浪财经快讯）",
+     "title": "巴西总统选举第二轮投票结束时间将延后两小时",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907390230.html",
+     "pubDate": "Mon, 26 Oct 2026 04:35:59 +0800",
+     "summary": "巴西联邦最高法院25日作出裁定，将当天巴西总统选举第二轮投票结束时间由巴西利亚时间17时（北京时间26日4时）延长至19时（北京时间26日6时），以应对多地公共交通停摆和强降雨对选民投票造成的影响。 （文章来源：新华社）",
      "source": "东方财富股票",
-     "zh": "以色列总理内塔尼亚胡表示，他在以色列看到许多欧洲所不具备的景象"
+     "zh": "巴西总统选举第二轮投票结束时间将延后两小时"
     },
     {
-     "title": "巴西总统卢拉竞选团队请求最高法院在全国范围内延长投票时间",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386240.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:19 +0800",
-     "summary": "巴西总统卢拉竞选团队请求最高法院在全国范围内延长投票时间。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "巴西总统卢拉竞选团队请求最高法院在全国范围内延长投票时间"
+     "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+     "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+     "pubDate": "Sun, 25 Oct 2026 20:28:55 GMT",
+     "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
+     "source": "CNBC",
+     "zh": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification"
     },
     {
-     "title": "英国媒体：英国不会加入加拿大牵头的防务银行",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386161.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:18 +0800",
-     "summary": "英国媒体：英国不会加入加拿大牵头的防务 银行 。 （文章来源：新浪财经快讯）",
+     "title": "巴西选举管理机构表示，在最高法院裁定延长投票时间后，计票工作已暂停",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907390011.html",
+     "pubDate": "Mon, 26 Oct 2026 04:24:27 +0800",
+     "summary": "巴西选举管理机构表示，在最高法院裁定延长投票时间后，计票工作已暂停。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "英国媒体：英国不会加入加拿大牵头的防务银行"
+     "zh": "巴西选举管理机构表示，在最高法院裁定延长投票时间后，计票工作已暂停"
     },
     {
-     "title": "马斯克：SpaceX 为购买 GPU 完成了 400 亿美元的债务融资",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386095.html",
-     "pubDate": "Mon, 26 Oct 2026 03:41:42 +0800",
-     "summary": "马斯克： SpaceX 为购买 GPU 完成了 400 亿美元的债务融资。 （文章来源：新浪财经快讯）",
+     "title": "特朗普：任何希望从丹麦进入美国的人，都全力支持；但对于索马里人，“我已经受够他们了”",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907389928.html",
+     "pubDate": "Mon, 26 Oct 2026 04:24:26 +0800",
+     "summary": "特朗普：任何希望从丹麦进入美国的人，都全力支持；但对于索马里人，“我已经受够他们了”；更青睐丹麦。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "马斯克：SpaceX 为购买 GPU 完成了 400 亿美元的债务融资"
+     "zh": "特朗普：任何希望从丹麦进入美国的人，都全力支持；但对于索马里人，“我已经受够他们了”"
+    },
+    {
+     "title": "美国总统特朗普：我没拿到诺贝尔奖，所以我不想要任何挪威人 挪威烂透了！",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907390193.html",
+     "pubDate": "Mon, 26 Oct 2026 04:23:02 +0800",
+     "summary": "美国总统特朗普：我没拿到诺贝尔奖，所以我不想要任何挪威人。挪威烂透了！ （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普：我没拿到诺贝尔奖，所以我不想要任何挪威人 挪威烂透了！"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 20:15:00 GMT",
+     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+     "source": "MarketWatch",
+     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+    },
+    {
+     "title": "Xencor reports promising kidney cancer drug results, plans late-stage trial",
+     "link": "https://seekingalpha.com/news/4657005-xencor-reports-promising-kidney-cancer-drug-results-plans-late-stage-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 16:06:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Xencor reports promising kidney cancer drug results, plans late-stage trial"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 20:00:00 GMT",
+     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+     "source": "MarketWatch",
+     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
     },
     {
      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
@@ -2370,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations"
     },
     {
-     "title": "Republican lawmakers challenge Musk over Starlink restrictions in Ukraine",
-     "link": "https://seekingalpha.com/news/4656999-republican-lawmakers-challenge-musk-over-starlink-restrictions-in-ukraine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 14:08:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Republican lawmakers challenge Musk over Starlink restrictions in Ukraine"
-    },
-    {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
      "pubDate": "Sun, 25 Oct 2026 18:00:00 GMT",
@@ -2400,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
      "source": "MarketWatch",
      "zh": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
-    },
-    {
-     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 16:45:00 GMT",
-     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-     "source": "MarketWatch",
-     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
     },
     {
      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
@@ -2450,28 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "启用首位华人总裁、中国研发中心落地 奥迪中国迎破局契机"
     },
     {
-     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 14:30:00 GMT",
-     "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-     "source": "MarketWatch",
-     "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
-    },
-    {
      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
      "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
      "pubDate": "Sun, 25 Oct 2026 14:14:23 GMT",
      "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
      "source": "CNBC",
      "zh": "In pictures: Initially peaceful protests across France over inequality again descend into violence"
-    },
-    {
-     "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-     "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-     "pubDate": "Sun, 25 Oct 2026 13:41:37 GMT",
-     "summary": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
-     "source": "CNBC",
-     "zh": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis"
     },
     {
      "title": "情系高原 东方财富向西藏那曲地震灾区捐赠600万元",

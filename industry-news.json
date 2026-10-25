@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/26 05:19:25",
+ "generated_at": "2026/10/26 06:08:49",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,22 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+     "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+     "pubDate": "Sun, 25 Oct 2026 21:31:16 +0000",
+     "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+     "source": "TechCrunch AI",
+     "zh": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’"
+    },
+    {
+     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+     "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+     "pubDate": "Sun, 25 Oct 2026 21:15:21 +0000",
+     "summary": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model"
+    },
     {
      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
@@ -113,14 +129,6 @@
      "zh": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats"
     },
     {
-     "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
-     "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
-     "pubDate": "Sun, 25 Oct 2026 02:30:18 +0000",
-     "summary": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide"
-    },
-    {
      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
      "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
@@ -143,14 +151,6 @@
      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
      "source": "TechCrunch AI",
      "zh": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
-    },
-    {
-     "title": "Here are the top AI agents that can live in your text messages",
-     "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-     "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
-     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-     "source": "TechCrunch AI",
-     "zh": "Here are the top AI agents that can live in your text messages"
     },
     {
      "title": "RoboTwin第一、RoboDojo领跑：Physical AI的下一轮Scaling，为什么是Physics？",
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Pt-W Alloy Shows Potential For Thinner High-NA EUV Mask Absorbers (Chinese Academy of Sciences et al.)",
+     "link": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al/",
+     "pubDate": "Sun, 25 Oct 2026 21:17:41 +0000",
+     "summary": "Researchers at Chinese Academy of Sciences, Jilin University, State Key Laboratory of Advanced Manufacturing for Optical Systems, and University of Chinese Academy of Sciences published a technical paper titled “Evaluating an alternative Pt-W alloy as a low-n EUV mask absorber: Film properties and i",
+     "source": "Semiconductor Engineering",
+     "zh": "Pt-W Alloy Shows Potential For Thinner High-NA EUV Mask Absorbers (Chinese Academy of Sciences et al.)"
+    },
     {
      "title": "Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)",
      "link": "https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/",
@@ -487,14 +495,6 @@
      "summary": "See how BIWIN’s SSD, embedded storage, and memory portfolio supports faster, efficient AI from cloud data centers to edge wearables. The post From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions appeared first on EE Times .",
      "source": "EE Times",
      "zh": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions"
-    },
-    {
-     "title": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center",
-     "link": "https://www.eetimes.com/deepx-building-open-software-ecosystem-to-scale-physical-ai-beyond-the-data-center/",
-     "pubDate": "Thu, 22 Oct 2026 18:14:49 +0000",
-     "summary": "Deepx is combining low-power AI accelerators and portable software with industry partnerships to bring physical AI into production. The post Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center"
     }
    ]
   },
@@ -681,12 +681,12 @@
      "zh": "Chinese Auto Giant Chery Wants To Crack The U.S. Market. It Thinks Detroit Could Help"
     },
     {
-     "title": "The Entegra Coach Embark Is An Electric RV Without The Range Anxiety",
+     "title": "This $400,000 RV Delivers EV Camping Without The Range Anxiety",
      "link": "https://insideevs.com/features/813127/entegra-coach-electric-rv-range-extender/",
      "pubDate": "Sun, 25 Oct 2026 13:00:00 +0000",
      "summary": "The $400,000 mobile home brings electrification to the RV space in a whole new way.",
      "source": "InsideEVs",
-     "zh": "The Entegra Coach Embark Is An Electric RV Without The Range Anxiety"
+     "zh": "This $400,000 RV Delivers EV Camping Without The Range Anxiety"
     },
     {
      "title": "Slate’s Bare-Bones Electric Truck Surprised This Early Reviewer",
@@ -1025,14 +1025,6 @@
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1087,6 +1079,14 @@
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1096,6 +1096,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons",
+     "link": "https://endpoints.news/esmo26-akeso-details-ivonescimabs-biliary-cancer-success-drawing-keytruda-comparisons/",
+     "pubDate": "Sun, 25 Oct 2026 21:43:13 +0000",
+     "summary": "MADRID — Akeso on Sunday spelled out by how much its Summit Therapeutics-partnered PD-1xVEGF bispecific improved survival in a late-stage, China-only biliary tract cancer study, in one of its early moves to find success beyond ...",
+     "source": "Endpoints News",
+     "zh": "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons"
+    },
     {
      "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
      "link": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
@@ -1159,14 +1167,6 @@
      "summary": "MADRID — It's been estimated that almost 40,000 delegates will be attending this year's ESMO congress over five days in Madrid. And on Saturday, they have new data to review from AstraZeneca, Eli Lilly and Bayer. ...",
      "source": "Endpoints News",
      "zh": "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer"
-    },
-    {
-     "title": "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial",
-     "link": "https://endpoints.news/esmo26-amgens-imdelltra-regimen-more-than-halves-risk-of-death-in-phase-3-lung-cancer-trial/",
-     "pubDate": "Sat, 24 Oct 2026 14:30:56 +0000",
-     "summary": "MADRID — Amgen’s Imdelltra combined with AstraZeneca’s Imfinzi slashed the chances of dying by 58% versus Imfinzi alone in the first-line maintenance setting in certain small cell lung cancer patients, breezing past the benchmark set by ...",
-     "source": "Endpoints News",
-     "zh": "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial"
     },
     {
      "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
@@ -1761,52 +1761,68 @@
    "total": 18,
    "items": [
     {
+     "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
+     "link": "https://www.techmeme.com/261025/p11#a261025p11",
+     "pubDate": "Sun, 25 Oct 2026 17:35:01 -0400",
+     "summary": "Elon Musk / @elonmusk : Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face &ldquo;death and consolidation&rdquo; &nbsp; &mdash;&nbsp; Pretty much. As of the past few weeks, debt markets have almost entirely shut off acce",
+     "source": "Techmeme",
+     "zh": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)"
+    },
+    {
+     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "link": "https://minimaxir.com/2026/10/cheap-llms/",
+     "pubDate": "Sun, 25 Oct 2026 21:11:31 +0000",
+     "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 14 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?"
+    },
+    {
+     "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+     "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+     "pubDate": "Sun, 25 Oct 2026 21:08:28 +0000",
+     "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 49 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Serbia's Vucic concedes election defeat in historic win for student movement"
+    },
+    {
+     "title": "The State of Context Engineering",
+     "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+     "pubDate": "Sun, 25 Oct 2026 20:32:31 +0000",
+     "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The State of Context Engineering"
+    },
+    {
      "title": "What goes into making an animated film?",
      "link": "https://www.disneyanimation.com/process/",
      "pubDate": "Sun, 25 Oct 2026 20:27:09 +0000",
-     "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 14 # Comments: 3",
+     "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 26 # Comments: 11",
      "source": "Hacker News",
      "zh": "What goes into making an animated film?"
     },
     {
-     "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+     "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
      "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
      "pubDate": "Sun, 25 Oct 2026 20:20:08 +0000",
      "summary": "\"That's a 12-year-old view of the world.\"",
      "source": "TechCrunch",
-     "zh": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead"
+     "zh": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead"
+    },
+    {
+     "title": "Focused Company Operating Principles",
+     "link": "https://focused.io/operating-principles",
+     "pubDate": "Sun, 25 Oct 2026 20:16:51 +0000",
+     "summary": "Article URL: https://focused.io/operating-principles Comments URL: https://news.ycombinator.com/item?id=50235639 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Focused Company Operating Principles"
     },
     {
      "title": "Eunice is almost here",
      "link": "https://armincat.com/articles/eunice-is-almost-here",
      "pubDate": "Sun, 25 Oct 2026 19:40:27 +0000",
-     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 29 # Comments: 22",
+     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 48 # Comments: 36",
      "source": "Hacker News",
      "zh": "Eunice is almost here"
-    },
-    {
-     "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-     "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-     "pubDate": "Sun, 25 Oct 2026 19:29:16 +0000",
-     "summary": "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/ Comments URL: https://news.ycombinator.com/item?id=50235217 Points: 84 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%"
-    },
-    {
-     "title": "Why I Am a Programmer",
-     "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-     "pubDate": "Sun, 25 Oct 2026 19:11:31 +0000",
-     "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 33 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Why I Am a Programmer"
-    },
-    {
-     "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-     "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-     "pubDate": "Sun, 25 Oct 2026 19:10:36 +0000",
-     "summary": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 21 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens"
     },
     {
      "title": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)",
@@ -1815,14 +1831,6 @@
      "summary": "Ann Davis Vaughan / The Information : Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new &ldquo;delay-in-delivery&rdquo; coverage from brokers like Marsh &nbsp; &mdash;&nbsp; This spring, Mike Mathews, who leads the global digital infrastructure pr",
      "source": "Techmeme",
      "zh": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)"
-    },
-    {
-     "title": "Where the Romans Fought (interactive map)",
-     "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-     "pubDate": "Sun, 25 Oct 2026 18:58:14 +0000",
-     "summary": "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 4 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Where the Romans Fought (interactive map)"
     },
     {
      "title": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)",
@@ -1991,14 +1999,6 @@
      "summary": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.",
      "source": "WIRED",
      "zh": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola"
-    },
-    {
-     "title": "撸狗有助于抵抗下一次压力",
-     "link": "https://www.solidot.org/story?sid=85703",
-     "pubDate": "Sun, 25 Oct 2026 19:07:50 +0800",
-     "summary": "自古以来，人类就从抚摸狗中获得慰藉。大量研究承认养宠物对福祉的益处，但驱动这些益处的机制仍不清楚。在一项研究中，研究人员邀请了 64 名狗主人及其宠物来到实验室，研究抚摸狗是否能帮助人们更好地应对压力，以及身体接触是否是这种对大脑和身体产生影响的关键。研究人员设计了实验，以分离触摸狗如何影响人在压力期间和之后的大脑、心脏和情绪状态。51 名女性和 13 名男性，平均年龄 34 岁，带着自己的宠物狗参加了研究。狗必须至少 2 岁、健康，并在新环境中感到舒适。团队追踪了参与者的大脑活动，并使用心电图监测测试前、测试中和测试后的心脏活动。他们还询问参与者在关键时间点的感受，从平静到兴奋、从负面到正面",
-     "source": "Solidot",
-     "zh": "撸狗有助于抵抗下一次压力"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+     "link": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+     "pubDate": "Sun, 25 Oct 2026 22:00:00 +0000",
+     "summary": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance.",
+     "source": "Engadget",
+     "zh": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down"
+    },
+    {
+     "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
+     "link": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
+     "pubDate": "Sun, 25 Oct 2026 21:36:58 +0000",
+     "summary": "iFixit’s teardown of the iPhone Duo is up, revealing some interesting (and some worrisome) details about what it calls the most repairable foldable phone yet. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "iFixit tears down iPhone Duo, finds possible causes of early screen failures"
+    },
     {
      "title": "OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17",
      "link": "https://www.gsmarena.com/oneplus_15_starts_receiving_the_stable_coloros_17_update_based_on_android_17-news-75197.php",
@@ -2063,14 +2079,6 @@
      "summary": "The Arcade Controller Pro starts at $119.99 and will start shipping in late November.",
      "source": "Engadget",
      "zh": "8BitDo's latest button-only arcade controller is now up for pre-order"
-    },
-    {
-     "title": "The internet needs IPv6 and so does your home network",
-     "link": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
-     "pubDate": "Sun, 25 Oct 2026 16:15:00 +0000",
-     "summary": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.",
-     "source": "Engadget",
-     "zh": "The internet needs IPv6 and so does your home network"
     },
     {
      "title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
@@ -2225,14 +2233,6 @@
      "zh": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo"
     },
     {
-     "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
-     "link": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
-     "pubDate": "Sat, 24 Oct 2026 17:47:49 +0000",
-     "summary": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue , and it’s been a wonder to use. Of course, the phone isn’t perfect, but after my first day of usage, I’m looking forward to daily driving it – even if it has a couple quirks. more…",
-     "source": "9to5Mac",
-     "zh": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible"
-    },
-    {
      "title": "This clever USB-C cable doubles as a stand for your phone [Gallery]",
      "link": "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
      "pubDate": "Sat, 24 Oct 2026 13:30:00 +0000",
@@ -2257,68 +2257,132 @@
    "total": 13,
    "items": [
     {
-     "title": "马斯克表示 SpaceX不会收购任何新型云服务商",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907391840.html",
-     "pubDate": "Mon, 26 Oct 2026 05:08:56 +0800",
-     "summary": "马斯克表示， SpaceX 不会收购任何新型云服务商。 （文章来源：财联社）",
+     "title": "东京燃气公司因成本问题放弃福岛风电项目",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907400248.html",
+     "pubDate": "Mon, 26 Oct 2026 05:56:20 +0800",
+     "summary": "东京燃气公司因成本问题放弃福岛风电项目。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "马斯克表示 SpaceX不会收购任何新型云服务商"
+     "zh": "东京燃气公司因成本问题放弃福岛风电项目"
     },
     {
-     "title": "Agenus reports response rate in colon cancer trial",
-     "link": "https://seekingalpha.com/news/4657006-agenus-reports-response-rate-in-colon-cancer-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 17:05:11 -0400",
+     "title": "十大券商策略：急跌有望结束！关注短期超跌反弹",
+     "link": "http://finance.eastmoney.com/news/1349,202610253907366489.html",
+     "pubDate": "Mon, 26 Oct 2026 05:54:26 +0800",
+     "summary": "中信证券 ：AI势头回落并非牛熊分界 AI趋势回落并非熊市开端，非AI可能反而会面临更为有利的环境，核心是AI产业在短期内并不像过往的产业趋势对经济体的其他部门产生广泛的拉动作用，反而对其他经济部门产生了不少负外部性（物料和资源价格暴涨、利率飙升、就业挤出）。这也意味着，过往“产业趋势行情结束=牛转熊”的经验可能不再适用，非AI的不少板块早已步入下行趋势。 目前，无论是AI板块的二阶导估值修正还是非AI板块的估值收缩，主要估值收缩进程都有望在今年完成，往未来看，经历深度调整后，分化逐步收敛、行情宽度拓展的概率更高。唯一的问题是资金面的出清需要时间，在这个阶段以PB-ROE为代表的稳健回报型策略",
+     "source": "东方财富股票",
+     "zh": "十大券商策略：急跌有望结束！关注短期超跌反弹"
+    },
+    {
+     "title": "Johnson & Johnson reports response rate for head, neck cancer treatment",
+     "link": "https://seekingalpha.com/news/4657010-johnson-and-johnson-reports-response-rate-for-head-neck-cancer-treatment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:53:21 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Agenus reports response rate in colon cancer trial"
+     "zh": "Johnson & Johnson reports response rate for head, neck cancer treatment"
     },
     {
-     "title": "Musk warns of AI lending crunch after SpaceX closes $40B GPU financing",
-     "link": "https://seekingalpha.com/news/4657008-musk-warns-of-ai-lending-crunch-after-spacex-closes-40b-gpu-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 17:02:05 -0400",
+     "title": "欧洲天然气价格升至2022年以来的最高水平",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907398529.html",
+     "pubDate": "Mon, 26 Oct 2026 05:53:09 +0800",
+     "summary": "欧洲 天然气 价格升至2022年以来的最高水平。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "欧洲天然气价格升至2022年以来的最高水平"
+    },
+    {
+     "title": "东方财富财经早餐 10月26日周一",
+     "link": "http://finance.eastmoney.com/news/1344,202610253907344435.html",
+     "pubDate": "Mon, 26 Oct 2026 05:52:04 +0800",
+     "summary": "每日精选 A股重要指数将调整： 上交所网站9月24日发布《关于修订上证系列 综合 指数编制方案的公告》。拟修订指数包括上证指数、上证A股指数、上证流通指数、科创综指，上述指数及衍生指数的编制方案修订将于2026年10月26日实施。根据《公告》，上海证券交易所和中证指数有限公司决定修订部分上证系列 综合 指数编制方案，修订内容包括：（1） 增加单个样本权重不超过15%的权重上限规则 ；（2）将风险警示证券的剔除时间从“风险警示实施日次月第二个星期五的下一交易日”调整为“风险警示公告日次月第二个星期五的下一交易日”。指数编制方案其余部分保持不变。 美伊局势 ： 美国总统特朗普当地时间10月24日在",
+     "source": "东方财富股票",
+     "zh": "东方财富财经早餐 10月26日周一"
+    },
+    {
+     "title": "最新发票数据显示：前三季度新动能行业发展加快",
+     "link": "http://finance.eastmoney.com/news/1355,202610263907400191.html",
+     "pubDate": "Mon, 26 Oct 2026 05:50:15 +0800",
+     "summary": "国家税务总局近日公布的发票数据显示，前三季度， 数字经济 核心产业、 知识产权 （专利）密集型产业销售收入同比分别增长9.1%和13.1%，其中三季度增速分别为9.9%和14.4%，较二季度增速分别提高2.9个和1.8个百分点，反映新动能行业发展加快。 先进制造业支撑作用增强。以高技术制造业、装备制造业等为代表的先进制造业季度增速持续提高，三季度同比增长12.3%，较二季度提高3.4个百分点。 人工智能 相关产业提速。与 人工智能 相关的集成电路、 半导体 器件 专用设备 等制造业三季度同比分别增长77.9%和35.9%，较二季度增速分别提高6.4个和9.3个百分点。 制造业设备更新动力较足。",
+     "source": "东方财富股票",
+     "zh": "最新发票数据显示：前三季度新动能行业发展加快"
+    },
+    {
+     "title": "“四个坚持”促科技和产业双向奔赴",
+     "link": "http://finance.eastmoney.com/news/1352,202610263907399578.html",
+     "pubDate": "Mon, 26 Oct 2026 05:50:15 +0800",
+     "summary": "推动科技创新与产业创新深度融合，是激活高质量发展新动能、建设现代化产业体系的关键抓手。近日，中共中央办公厅、国务院办公厅印发《关于推动科技创新和产业创新深度融合的意见》，精准把握新一轮科技革命和产业变革规律，直击产学研融合堵点难点，明确提出“四个坚持”工作要求，为打通从科技强到产业强、经济强、国家强的通道指明了方向。 坚持准确把握科技革命和产业变革新趋势新特点，加强系统谋划和一体推进，是深度融合的根本前提。随着科技迭代持续加快，产业变革呈现跨界融合、全域渗透新特征，分散式单点攻关模式已难以适配现代化产业体系建设需求。部分领域还存在科研力量布局分散、创新与产业发展脱节、短期项目扎堆等问题，导致创",
+     "source": "东方财富股票",
+     "zh": "“四个坚持”促科技和产业双向奔赴"
+    },
+    {
+     "title": "10月26日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202610253907344918.html",
+     "pubDate": "Mon, 26 Oct 2026 05:45:42 +0800",
+     "summary": "10月26日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 债市震荡偏强运行 超长债仍具备结构性机会 10月23日，债市呈现“长端回调、短端平稳”的分化走势，各期限国债 期货 涨跌不一。Wind数据显示，截至当日收盘，30年期国债 期货 主力合约、10年期国债 期货 主力合约分别下跌0.11%、0.01%，5年期国债期货主力合约上涨0.01%，2年期国债期货主力合约基本持平。 超千家上市公司披露三季报 176家净利润翻倍 A股上市公司三季报加速披露。Wind数据显示，截至10月25日18时，A股共有1028家上市公司披露三季报，其中548家公司归属于上市公司股东的净利润实现同比增长，占",
+     "source": "东方财富资讯",
+     "zh": "10月26日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
+     "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
+     "pubDate": "Sun, 25 Oct 2026 21:40:04 GMT",
+     "summary": "Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm",
+     "source": "Financial Times",
+     "zh": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis"
+    },
+    {
+     "title": "TPG RE Finance Trust Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4656686-tpg-re-finance-trust-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:35:00 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Musk warns of AI lending crunch after SpaceX closes $40B GPU financing"
+     "zh": "TPG RE Finance Trust Q3 2026 Earnings Preview"
     },
     {
-     "title": "特朗普：为塞尔弗里奇空军国民警卫队基地争取到21架全新F-15EX鹰II战斗机",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907391774.html",
-     "pubDate": "Mon, 26 Oct 2026 05:01:14 +0800",
-     "summary": "特朗普：为塞尔弗里奇空军国民警卫队基地争取到21架全新F-15EX鹰II战斗机，民主党原本打算关闭塞尔弗里奇基地，而我保住了数千个工作岗位，以及这座基地所承载的崇高声望。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：为塞尔弗里奇空军国民警卫队基地争取到21架全新F-15EX鹰II战斗机"
+     "title": "H2O Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4656687-h2o-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "H2O Q3 2026 Earnings Preview"
     },
     {
-     "title": "武契奇承认前进党在塞议会选举中败选",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907391664.html",
-     "pubDate": "Mon, 26 Oct 2026 05:00:58 +0800",
-     "summary": "塞尔维亚前总统武契奇当地时间25日承认，由塞尔维亚前进党主导的“ 亚历山大 ·武契奇-团结的塞尔维亚”选举联盟在当天举行的议会选举中败选。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "武契奇承认前进党在塞议会选举中败选"
+     "title": "Piedmont Office Q3 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4656689-piedmont-office-q3-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Piedmont Office Q3 Earnings Preview"
     },
     {
-     "title": "美国总统特朗普表示 5000美元红利将在中期选举后不久发放",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907391548.html",
-     "pubDate": "Mon, 26 Oct 2026 05:00:30 +0800",
-     "summary": "美国总统特朗普表示，5000美元红利将在中期选举后不久发放。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普表示 5000美元红利将在中期选举后不久发放"
+     "title": "AudioEye Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4656711-audioeye-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AudioEye Q3 2026 Earnings Preview"
     },
     {
-     "title": "特朗普：5000美元红利将在选举后不久发放",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907391417.html",
-     "pubDate": "Mon, 26 Oct 2026 04:57:21 +0800",
-     "summary": "特朗普：5000美元红利将在选举后不久发放。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：5000美元红利将在选举后不久发放"
+     "title": "Northwest Bancshares Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4656712-northwest-bancshares-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Northwest Bancshares Q3 2026 Earnings Preview"
     },
     {
-     "title": "特朗普声称：美国人的收入处于历史最高水平 今天就业的美国人数量超过历史上任何时期",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907391327.html",
-     "pubDate": "Mon, 26 Oct 2026 04:55:45 +0800",
-     "summary": "特朗普声称：美国人的收入处于历史最高水平。今天就业的美国人数量超过历史上任何时期。贫困率处于历史最佳、最低水平。出口飙升至美国历史最高水平。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普声称：美国人的收入处于历史最高水平 今天就业的美国人数量超过历史上任何时期"
+     "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
+     "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
+     "pubDate": "Sun, 25 Oct 2026 21:34:21 GMT",
+     "summary": "Election loss marks a dramatic fall from power for strongman nationalist leader as near-record turnout buoys grassroots party",
+     "source": "Financial Times",
+     "zh": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll"
+    },
+    {
+     "title": "Brazil’s Supreme Court extends voting as transport complaints mar election",
+     "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
+     "pubDate": "Sun, 25 Oct 2026 21:13:36 GMT",
+     "summary": "Lack of buses and ferries adds to tense contest as rightwing challenger seeks to oust leftist president and bring country closer to Trump",
+     "source": "Financial Times",
+     "zh": "Brazil’s Supreme Court extends voting as transport complaints mar election"
     },
     {
      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
@@ -2337,14 +2401,6 @@
      "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
     },
     {
-     "title": "Xencor reports promising kidney cancer drug results, plans late-stage trial",
-     "link": "https://seekingalpha.com/news/4657005-xencor-reports-promising-kidney-cancer-drug-results-plans-late-stage-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 16:06:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Xencor reports promising kidney cancer drug results, plans late-stage trial"
-    },
-    {
      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
      "pubDate": "Sun, 25 Oct 2026 20:00:00 GMT",
@@ -2361,36 +2417,12 @@
      "zh": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
     },
     {
-     "title": "Bon Secours nears $6B takeover of Surgery Partners, FT reports",
-     "link": "https://seekingalpha.com/news/4657004-bon-secours-nears-6b-takeover-of-surgery-partners-ft-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 15:16:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bon Secours nears $6B takeover of Surgery Partners, FT reports"
-    },
-    {
-     "title": "Frontier Medicines reports promising lung cancer drug results in early trial",
-     "link": "https://seekingalpha.com/news/4657003-frontier-medicines-reports-promising-lung-cancer-drug-results-in-early-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 15:09:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Frontier Medicines reports promising lung cancer drug results in early trial"
-    },
-    {
-     "title": "Genmab, Incyte team up to develop experimental colorectal cancer treatment",
-     "link": "https://seekingalpha.com/news/4657002-genmab-incyte-team-up-to-develop-experimental-colorectal-cancer-treatment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 14:56:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Genmab, Incyte team up to develop experimental colorectal cancer treatment"
-    },
-    {
-     "title": "France’s Le Pen vows national ‘renewal’ in campaign launch",
-     "link": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
-     "pubDate": "Sun, 25 Oct 2026 18:37:17 GMT",
-     "summary": "Far-right leader casts herself as only presidential candidate able to restore order and unity",
-     "source": "Financial Times",
-     "zh": "France’s Le Pen vows national ‘renewal’ in campaign launch"
+     "title": "上证系列综合指数新规今起实施",
+     "link": "http://stock.eastmoney.com/news/1426,202610263907393790.html",
+     "pubDate": "Mon, 26 Oct 2026 02:31:00 +0800",
+     "summary": "10月26日，上证指数、科创综指等上证系列 综合 指数开始实施修订后的编制方案，相关指数基金的投资运作也迎来新的管理要求。 根据上海证券交易所和中证指数有限公司此前发布的公告，此次修订涉及上证指数、上证A股指数、上证流通指数、科创综指及相关衍生指数，主要包括增加单个样本权重不超过15%的限制，以及调整风险警示证券剔除时间。 业内人士认为，此次修订有助于完善指数风险管理机制，优化指数化投资生态。对于相关指数基金而言，新方案实施并不意味着必须集中调仓，但需要更加重视成份股权重变化及指数调整安排。 “此次修订新增单个样本权重不超过15%的规定，旨在防止个别成份股权重过度集中，进一步完善指数风险分散机",
+     "source": "东方财富资讯",
+     "zh": "上证系列综合指数新规今起实施"
     },
     {
      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
@@ -2409,6 +2441,14 @@
      "zh": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
     },
     {
+     "title": "Venezuelan opposition leader Machado returns from exile",
+     "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
+     "pubDate": "Sun, 25 Oct 2026 17:37:08 GMT",
+     "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
+     "source": "Financial Times",
+     "zh": "Venezuelan opposition leader Machado returns from exile"
+    },
+    {
      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
      "pubDate": "Sun, 25 Oct 2026 17:00:00 GMT",
@@ -2425,6 +2465,14 @@
      "zh": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
     },
     {
+     "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+     "link": "http://finance.eastmoney.com/news/11790,202610263907372220.html",
+     "pubDate": "Mon, 26 Oct 2026 00:43:54 +0800",
+     "summary": "当地时间10月25日，美国总统特朗普表示，有关乌克兰问题的美俄乌三方会谈“很快”就会举行，但未透露具体时间安排。特朗普称，他认为俄乌双方都有意达成协议。 此前，俄罗斯与乌克兰23日分别证实，双方已同意27日起在赫尔松地区的阿列什基停火。一名美国官员透露，美俄乌可能于两周内在阿联酋阿布扎比或瑞士举行三方会谈。俄总统普京说，任何三边会谈都将聚焦和平协议达成后如何确保俄乌安全。乌总统泽连斯基说，他希望随后能举行三国领导人会晤。 （文章来源：央视新闻客户端）",
+     "source": "东方财富资讯",
+     "zh": "特朗普：美俄乌三方会谈“很快”就会举行"
+    },
+    {
      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
      "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
      "pubDate": "Sun, 25 Oct 2026 16:42:42 GMT",
@@ -2433,68 +2481,20 @@
      "zh": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs"
     },
     {
+     "title": "美驻沙特大使馆发布安全警报 要求非紧急政府人员撤离",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907375365.html",
+     "pubDate": "Mon, 26 Oct 2026 00:24:23 +0800",
+     "summary": "当地时间10月25日，美国驻沙特阿拉伯大使馆发布安全警报称，美国国务院已下令非紧急政府雇员及其家属撤离沙特阿拉伯，原因是当地安全风险上升。 公告称，胡塞武装近期袭击沙特阿拉伯的民用 机场 及其他关键基础设施，造成平民伤亡和严重交通中断，相关敌对行动可能迅速升级。 公告提醒美国公民，沙特阿拉伯 机场 可能遭到袭击，并可能出现空域关闭、航班取消等情况，建议旅客直接向航空公司和 机场 确认航班状态。 （文章来源：央视新闻客户端）",
+     "source": "东方财富资讯",
+     "zh": "美驻沙特大使馆发布安全警报 要求非紧急政府人员撤离"
+    },
+    {
      "title": "Marco Rubio still owes Europe answers about America’s intentions",
      "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
      "pubDate": "Sun, 25 Oct 2026 16:00:05 GMT",
      "summary": "The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future",
      "source": "Financial Times",
      "zh": "Marco Rubio still owes Europe answers about America’s intentions"
-    },
-    {
-     "title": "红旗近700台官方用车交付APEC，新能源车型首次入列国宾车队",
-     "link": "http://www.eeo.com.cn/2026/1025/1075699.shtml",
-     "pubDate": "Sun, 25 Oct 2026 23:00:01 +0800",
-     "summary": "与2014年北京APEC会议相比，本次交付车队首次纳入新能源车型。",
-     "source": "经济观察网",
-     "zh": "红旗近700台官方用车交付APEC，新能源车型首次入列国宾车队"
-    },
-    {
-     "title": "捷达电动化“第一枪”： M6冲击8—10万元纯电家轿市场",
-     "link": "http://www.eeo.com.cn/2026/1025/1075698.shtml",
-     "pubDate": "Sun, 25 Oct 2026 22:59:36 +0800",
-     "summary": "M6作为捷达品牌的电动化先锋，其市场竞争力将在接下来的交付数据中得到检验，也直接关系到捷达能否实现谷底回升。",
-     "source": "经济观察网",
-     "zh": "捷达电动化“第一枪”： M6冲击8—10万元纯电家轿市场"
-    },
-    {
-     "title": "启用首位华人总裁、中国研发中心落地 奥迪中国迎破局契机",
-     "link": "http://www.eeo.com.cn/2026/1025/1075697.shtml",
-     "pubDate": "Sun, 25 Oct 2026 22:58:23 +0800",
-     "summary": "多措并举、南北联动，业界预测，静默许久的奥迪双品牌“南北分治”战略或将迈出下一步。",
-     "source": "经济观察网",
-     "zh": "启用首位华人总裁、中国研发中心落地 奥迪中国迎破局契机"
-    },
-    {
-     "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-     "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-     "pubDate": "Sun, 25 Oct 2026 14:14:23 GMT",
-     "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
-     "source": "CNBC",
-     "zh": "In pictures: Initially peaceful protests across France over inequality again descend into violence"
-    },
-    {
-     "title": "情系高原 东方财富向西藏那曲地震灾区捐赠600万元",
-     "link": "http://finance.eastmoney.com/news/1355,202610253907304279.html",
-     "pubDate": "Sun, 25 Oct 2026 21:35:57 +0800",
-     "summary": "10月22日，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。 高原灾情牵动人心。地震发生后，东方财富信息股份有限公司（以下简称“东方财富”）迅速启动响应机制，决定向西藏那曲地震灾区捐赠600万元，全力驰援灾区抢险救援、群众安置及灾后重建等相关工作。同时，公司已第一时间协调东方财富证券那曲营业部，紧急筹措捐赠防寒被褥等物资，就近支援一线救灾。 情系高原，雪域同心。东方财富将持续关注灾情动态，支持当地抗震救灾工作，助力灾区群众早日渡过难关、重建家园。",
-     "source": "东方财富资讯",
-     "zh": "情系高原 东方财富向西藏那曲地震灾区捐赠600万元"
-    },
-    {
-     "title": "10月25日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610253907268149.html",
-     "pubDate": "Sun, 25 Oct 2026 21:00:08 +0800",
-     "summary": "今日摘要 习近平同比利时国王就中比建交55周年互致贺信。 党的十八大以来，以习近平同志为核心的党中央始终把思想建设作为党的基础性建设，坚持用习近平新时代中国特色社会主义思想凝心铸魂，全党思想上更加统一、政治上更加团结、行动上更加一致，为强国建设、民族复兴伟业筑牢坚实思想根基。 习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话在广大青年中引发热烈反响。 二十届中央第七轮巡视完成反馈。 我国造船业三大指标持续领跑全球。 西藏那曲市巴青县7.0级地震抢险救援有序进行。 内容速览 习近平同比利时国王就中比建交55周年互致贺信 10月25日，国家主席习近平同比利时国王菲利普互致贺信，庆祝两",
-     "source": "东方财富资讯",
-     "zh": "10月25日晚间央视新闻联播要闻集锦"
-    },
-    {
-     "title": "又一个国家股市“崩”了 埃及股市一度暴跌5%",
-     "link": "http://finance.eastmoney.com/news/1345,202610253907261736.html",
-     "pubDate": "Sun, 25 Oct 2026 20:30:34 +0800",
-     "summary": "大家好啊，周末不平静，刚刚，又一个国家股市崩了。 10月25日，埃及股市跌幅一度扩大至5%，截至发稿，跌幅收窄至3.3%。 与此同时，沙特股市也在暴跌，跌超3%。 此前，随着沙特与也门胡塞武装的冲突升级，由沙特主导的联军表示，已在利雅得及沙特南部地区拦截 无人机 和导弹。也门胡塞武装被认为与伊朗关系密切。 沙特基准股指暴跌，有望创下自2025年4月以来最差的盘中表现。在市场普遍抛售压力下走低。投资者正在评估，也门冲突是否可能进一步扩大，成为当前地区战争中的另一条主要战线。 海湾地区以外，埃及蓝筹股指数（EGX30）一度暴跌5%，正逼近近七个月来的最低水平，指数所有成份股均处于下跌状态。 埃及议",
-     "source": "东方财富资讯",
-     "zh": "又一个国家股市“崩”了 埃及股市一度暴跌5%"
     }
    ]
   },

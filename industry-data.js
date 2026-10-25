@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 00:55:18",
+ "generated_at": "2026/10/26 01:28:50",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+     "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+     "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
+     "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+     "source": "TechCrunch AI",
+     "zh": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
+    },
     {
      "title": "The hottest AI wearables and gadgets you should know about",
      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
@@ -202,14 +210,6 @@ window.INDUSTRY_DATA = {
      "zh": "首部！国产AI超写实电影上院线了"
     },
     {
-     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-     "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-     "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
-     "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-     "source": "TechCrunch AI",
-     "zh": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”"
-    },
-    {
      "title": "3万亿级参数！Kimi K3.1空降国产第一，1/5价格狙击Astra，实测跑通3D建模",
      "link": "https://zhidx.com/p/604320.html",
      "pubDate": "Sat, 24 Oct 2026 06:14:08 +0800",
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "CEO Interview with Dr. Gleb Tsipursky of Disaster Avoidance Experts",
+     "link": "https://semiwiki.com/ceo-interviews/375036-ceo-interview-with-dr-gleb-tsipursky-of-disaster-avoidance-experts/",
+     "pubDate": "Sun, 25 Oct 2026 17:00:53 +0000",
+     "summary": "Gleb Tsipursky, PhD, is the CEO and co-founder of Disaster Avoidance Experts , a consulting and training firm focused on helping organizations adopt AI through employee engagement and practical workflow redesign. He is a behavioral scientist and the author of The Psychology of AI Adoption at Work: F",
+     "source": "SemiWiki",
+     "zh": "CEO Interview with Dr. Gleb Tsipursky of Disaster Avoidance Experts"
+    },
     {
      "title": "AJ Cooper is the Co-Founder and CEO of Itera",
      "link": "https://semiwiki.com/ceo-interviews/374969-aj-cooper-is-the-co-founder-and-ceo-of-itera/",
@@ -354,12 +362,12 @@ window.INDUSTRY_DATA = {
      "zh": "From Chip Lab to Center Stage"
     },
     {
-     "title": "Inside the Silicon: Analog Bits N2P2 Test Chip",
-     "link": "https://semiwiki.com/ip/analog-bits/375172-inside-the-silicon-analog-bits-n2p2-test-chip/",
-     "pubDate": "Fri, 23 Oct 2026 16:00:51 +0000",
-     "summary": "The future of intelligent computing depends on silicon that delivers more performance within tighter power and thermal limits. Combining TSMC’s advanced process technology with Analog Bits’ analog and mixed-signal expertise, we help designers address those demands through local power regulation, sup",
-     "source": "SemiWiki",
-     "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
+     "title": "Vertical Semiconductor gains $73m in US CHIPS Act funding",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/vertical-semiconductor-231026.shtml",
+     "pubDate": "Fri, 23 Oct 2026 17:34:53 +0100",
+     "summary": "Power semiconductor start-up Vertical Semiconductor of Cambridge, MA, USA — which was spun out of Massachusetts Institute of Technology (MIT) in 2024 — has signed a letter of intent with the US Department of Commerce’s CHIPS Research and Development Office (CRDO) to receive up to $73m in federal inc",
+     "source": "Semiconductor Today",
+     "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
     },
     {
      "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
@@ -376,6 +384,22 @@ window.INDUSTRY_DATA = {
      "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Space Tech Expo Europe to say farewell to Bremen"
+    },
+    {
+     "title": "ST extends MasterGaN integrated transistor/driver family",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
+     "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
+     "summary": "STMicroelectronics of Geneva, Switzerland has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode gallium nitride (GaN) transistors with 6A maximum current rating. The new series helps designers to boost efficiency and power densi",
+     "source": "Semiconductor Today",
+     "zh": "ST extends MasterGaN integrated transistor/driver family"
+    },
+    {
+     "title": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/atomera-iqe-231026.shtml",
+     "pubDate": "Fri, 23 Oct 2026 14:21:48 +0100",
+     "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
+     "source": "Semiconductor Today",
+     "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
      "title": "Soft Switching Or Hard?",
@@ -472,30 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
-    },
-    {
-     "title": "Chip Scaling Moves Beyond The Transistor",
-     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
-     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Chip Scaling Moves Beyond The Transistor"
-    },
-    {
-     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
-     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
-     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
-    },
-    {
-     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
-     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
-     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
     }
    ]
   },
@@ -850,6 +850,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together",
+     "link": "https://cleantechnica.com/2026/10/25/trump-doe-budget-cuts-energy-research/",
+     "pubDate": "Sun, 25 Oct 2026 17:17:07 +0000",
+     "summary": "Some DOE programs deserve to end. The problem is a budget request that cuts weak hydrogen bets while stripping support from technologies already delivering electrification. The post Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together"
+    },
+    {
+     "title": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One",
+     "link": "https://cleantechnica.com/2026/10/25/elon-musk-the-movie-blackout-billionaires/",
+     "pubDate": "Sun, 25 Oct 2026 17:07:52 +0000",
+     "summary": "Billionaire blackout or bad timing: \"Musk\" the documentary by Alex Gibney closes after just one week in theaters across the US. The post Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One"
+    },
+    {
+     "title": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom",
+     "link": "https://oilprice.com/Energy/Energy-General/World-Is-on-Track-for-Up-to-28-Degrees-of-Warming-Despite-Clean-Energy-Boom.html",
+     "pubDate": "Sun, 25 Oct 2026 12:00:00 -0500",
+     "summary": "The United Nations says that it is now an inevitability that the world will fail to meet the legally binding goals set forth by the Paris climate accord as a result of “decades of insufficient climate action”. The Paris Agreement, ratified in 2015, targeted limiting global warming to 1.5 degrees Cel",
+     "source": "OilPrice",
+     "zh": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom"
+    },
+    {
      "title": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
      "link": "https://oilprice.com/Energy/Energy-General/COP31-Host-Urges-NATO-Nations-to-Spend-More-on-Climate-Than-Defense.html",
      "pubDate": "Sun, 25 Oct 2026 10:00:00 -0500",
@@ -914,36 +938,12 @@ window.INDUSTRY_DATA = {
      "zh": "Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000"
     },
     {
-     "title": "Zayed Sustainability Prize Picks Finalists from 10,233 Submissions",
-     "link": "https://cleantechnica.com/2026/10/24/zayed-sustainability-prize-picks-finalists-from-10233-submissions/",
-     "pubDate": "Sat, 24 Oct 2026 17:13:44 +0000",
-     "summary": "The Zayed Sustainability Prize recently made its final cuts to determine the finalists for the 2027 edition. I used to cover the prize very closely and thoroughly, back when it was called the Zayed Future Energy Prize. I think the name was changed in large part because they wanted to ... [continued]",
-     "source": "CleanTechnica",
-     "zh": "Zayed Sustainability Prize Picks Finalists from 10,233 Submissions"
-    },
-    {
      "title": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
      "link": "https://oilprice.com/Energy/Energy-General/Can-Undersea-Volcanoes-Power-Cities-A-Seattle-Startup-Just-Took-the-First-Step.html",
      "pubDate": "Sat, 24 Oct 2026 12:00:00 -0500",
      "summary": "A geothermal startup aiming to source energy directly from undersea volcanoes just hit a major milestone that could bring round-the-clock clean energy to cities on the northwest coast of the United States and serve as a critical proof of concept for other regions, with particular relevance for the o",
      "source": "OilPrice",
      "zh": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step"
-    },
-    {
-     "title": "Energy Transition Plans Keep Freezing Today’s Demand Into Tomorrow",
-     "link": "https://cleantechnica.com/2026/10/24/energy-transition-assumptions-future-demand/",
-     "pubDate": "Sat, 24 Oct 2026 16:53:18 +0000",
-     "summary": "Before choosing the replacement technology, forecast the future market. Bad assumptions about demand can make weak solutions and oversized investment opportunities look compelling. The post Energy Transition Plans Keep Freezing Today’s Demand Into Tomorrow appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Energy Transition Plans Keep Freezing Today’s Demand Into Tomorrow"
-    },
-    {
-     "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
-     "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
-     "pubDate": "Sat, 24 Oct 2026 10:00:00 -0500",
-     "summary": "United States President Donald Trump has repeatedly targeted offshore wind since coming into office last year, as he strives to expand the country’s fossil fuel sector and shift the focus away from renewable energy. Trump has sought to halt the development of several offshore wind projects and has e",
-     "source": "OilPrice",
-     "zh": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion"
     },
     {
      "title": "Renewable Energy India Expo 2026: Three key takeaways",
@@ -1026,6 +1026,14 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1097,6 +1097,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+     "link": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+     "pubDate": "Sun, 25 Oct 2026 16:58:45 +0000",
+     "summary": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.",
+     "source": "STAT News",
+     "zh": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase"
+    },
     {
      "title": "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins",
      "link": "https://endpoints.news/esmo26-merck-and-modernas-cancer-vaccine-data-were-a-triumph-of-science-and-now-the-work-begins/",
@@ -1184,14 +1192,6 @@ window.INDUSTRY_DATA = {
      "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred.",
      "source": "STAT News",
      "zh": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early"
-    },
-    {
-     "title": "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
-     "link": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss",
-     "pubDate": "Fri, 23 Oct 2026 19:16:37 +0000",
-     "summary": "The American Diabetes Association has issued two explanations, two reviews and an apology over its June convention. A Friday report adds new twists.",
-     "source": "STAT News",
-     "zh": "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear"
     },
     {
      "title": "This week in charts: a big year for RNAi developers",
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)",
+     "link": "https://www.techmeme.com/261025/p9#a261025p9",
+     "pubDate": "Sun, 25 Oct 2026 13:00:45 -0400",
+     "summary": "Tom Matsuda / Financial Times : The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions &nbsp; &mdash;&nbsp; Record labels and artists including Taylor Swift and Ariana Grande are using the throwback mu",
+     "source": "Techmeme",
+     "zh": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)"
+    },
+    {
      "title": "安克、耐克客服失守，腾讯封不完的外挂生意",
      "link": "https://www.huxiu.com/article/4900336.html?f=rss",
      "pubDate": "Mon, 26 Oct 2026 00:40:31 +0800",
@@ -1770,12 +1778,20 @@ window.INDUSTRY_DATA = {
      "zh": "安克、耐克客服失守，腾讯封不完的外挂生意"
     },
     {
-     "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-     "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-     "pubDate": "Sun, 25 Oct 2026 16:28:26 +0000",
-     "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 15 # Comments: 17",
+     "title": "A Mathematician Reads the AI Future",
+     "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+     "pubDate": "Sun, 25 Oct 2026 16:31:21 +0000",
+     "summary": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 18 # Comments: 3",
      "source": "Hacker News",
-     "zh": "AI use leads UC Berkeley math professor to see 'no point' in grading homework"
+     "zh": "A Mathematician Reads the AI Future"
+    },
+    {
+     "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+     "link": "https://www.solidot.org/story?sid=85706",
+     "pubDate": "Mon, 26 Oct 2026 00:16:11 +0800",
+     "summary": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物全都离开了，狼进村了。Google 还在另一个数据中心选址砍伐了 15 万棵树。芬兰不是唯一一个为建造数据中心而生态系统遭到破坏的地方。美国西弗吉尼亚州的栗子树林以及印第安纳州的一处湿地都面临为数据中心让路。",
+     "source": "Solidot",
+     "zh": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄"
     },
     {
      "title": "可怕的红果与中国互联网的字节时间|| 大视野",
@@ -1794,26 +1810,26 @@ window.INDUSTRY_DATA = {
      "zh": "国内首部 AI 院线长片《三星堆：未来往事》，票房过百万"
     },
     {
+     "title": "Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers",
+     "link": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+     "pubDate": "Sun, 25 Oct 2026 15:34:44 +0000",
+     "summary": "Article URL: https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace Comments URL: https://news.ycombinator.com/item?id=50232682 Points: 29 # Comments: 14",
+     "source": "Hacker News",
+     "zh": "Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers"
+    },
+    {
      "title": "深水地平线漏油事件 16 年后海洋仍未恢复",
      "link": "https://www.solidot.org/story?sid=85705",
      "pubDate": "Sun, 25 Oct 2026 23:22:33 +0800",
-     "summary": "2010 年英国石油公司的深水地平线（Deepwater Horizon）深海钻油平台发生井喷并爆炸，引发了史上规模最大的石油泄漏事故。在封堵油井的 87 天内，有约 1.34 亿加仑原油和 77 亿标准立方英尺的天然气泄漏到墨西哥湾。16 年后，墨西哥湾的深海生态系统仍未从灾难中恢复。研究人员在 2011 年，2015-2023 年收集了样本，发现深海中上层物种的数量急剧下降。数据显示，鱼类数量下降了 63.5%，甲壳类动物下降了 62%，头足类动物（主要指鱿鱼）下降了 59.7%。小型鱼类磷虾数量下降了 72.8%，灯笼鱼下降了 62.9%，圆罩鱼下降了 69%。这些微型鱼类是海洋生态系统",
+     "summary": "2010 年英国石油公司的深水地平线（Deepwater Horizon）深海钻油平台发生井喷并爆炸，引发了史上规模最大的石油泄漏事故。在封堵油井的 87 天内，有约 1.34 亿加仑原油和 77 亿标准立方英尺的天然气泄漏到墨西哥湾。16 年后，墨西哥湾的深海生态系统仍未从灾难中恢复。研究人员在 2011 年，2015-2023 年收集了样本，发现深海中上层物种的数量急剧下降。数据显示，鱼类数量下降了 63.5%，甲壳类动物下降了 62%，头足类动物（主要指鱿鱼）下降了 59.7%。小型鱼类磷虾数量下降了 72.8%，灯笼鱼下降了 62.9%，圆罩鱼下降了 69%。作为大鱼的食物，这些小鱼是",
      "source": "Solidot",
      "zh": "深水地平线漏油事件 16 年后海洋仍未恢复"
-    },
-    {
-     "title": "Ask HN: Can we do something about this impending AI dystopia",
-     "link": "https://news.ycombinator.com/item?id=50232407",
-     "pubDate": "Sun, 25 Oct 2026 15:12:10 +0000",
-     "summary": "There have been, increasingly, a large number of posts [1] on HN in the past few weeks, where developers are slowly coming to terms with the breakneck speed with which Agentic Coding has advanced in the past few months. We all agree that an average software developer today is closely resembling the ",
-     "source": "Hacker News",
-     "zh": "Ask HN: Can we do something about this impending AI dystopia"
     },
     {
      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
      "link": "https://bigwhalehunting.com/workforce/",
      "pubDate": "Sun, 25 Oct 2026 15:05:39 +0000",
-     "summary": "Article URL: https://bigwhalehunting.com/workforce/ Comments URL: https://news.ycombinator.com/item?id=50232312 Points: 93 # Comments: 27",
+     "summary": "I was playing around with visualising the S&P 500 by market cap and decided to add employees to each company's bubble. What surprised me was how empty some of the biggest companies looked. Nvidia is worth $5.2 trillion but employs only 42,000 people. That's around $124 million in market cap per empl",
      "source": "Hacker News",
      "zh": "Show HN: I put employees inside S&P 500 market-cap bubbles"
     },
@@ -1866,28 +1882,28 @@ window.INDUSTRY_DATA = {
      "zh": "古尔曼：苹果正为 iPhone Duo 开发全新“便捷访问”模式，方便左撇子用户根据持机习惯调整界面"
     },
     {
-     "title": "A few thoughts on intensity",
+     "title": "A few thoughts on intensity (2024)",
      "link": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
      "pubDate": "Sun, 25 Oct 2026 14:37:49 +0000",
-     "summary": "Article URL: https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/ Comments URL: https://news.ycombinator.com/item?id=50232035 Points: 39 # Comments: 24",
+     "summary": "Article URL: https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/ Comments URL: https://news.ycombinator.com/item?id=50232035 Points: 47 # Comments: 39",
      "source": "Hacker News",
-     "zh": "A few thoughts on intensity"
+     "zh": "A few thoughts on intensity (2024)"
     },
     {
-     "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-     "link": "https://github.com/winnin/farol",
-     "pubDate": "Sun, 25 Oct 2026 13:28:06 +0000",
-     "summary": "Article URL: https://github.com/winnin/farol Comments URL: https://news.ycombinator.com/item?id=50231349 Points: 48 # Comments: 28",
+     "title": "Active incident at Dreamhost forcing password reset",
+     "link": "https://www.dreamhoststatus.com/",
+     "pubDate": "Sun, 25 Oct 2026 13:09:16 +0000",
+     "summary": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 9 # Comments: 0",
      "source": "Hacker News",
-     "zh": "Show HN: Farol – a risk map of a pull request for the person who approves it"
+     "zh": "Active incident at Dreamhost forcing password reset"
     },
     {
-     "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
-     "link": "https://twitter.com/freddier/status/2114042326758867453",
-     "pubDate": "Sun, 25 Oct 2026 13:11:22 +0000",
-     "summary": "Article URL: https://twitter.com/freddier/status/2114042326758867453 Comments URL: https://news.ycombinator.com/item?id=50231189 Points: 114 # Comments: 41",
-     "source": "Hacker News",
-     "zh": "Samsung TVs look for microphones in your house via Bluetooth and then spy events"
+     "title": "何伟文：AI投资勃兴驱动中国和世界贸易剧增 | 巴伦独家",
+     "link": "https://www.tmtpost.com/8181271.html",
+     "pubDate": "Sun, 25 Oct 2026 21:02:03 +0800",
+     "summary": "全球 AI 相关产品贸易的爆发式扩张推高中国外贸增速，这套新的产业分工图景，推翻了外界对中国贸易顺差的 “产能过剩” 单一叙事。",
+     "source": "钛媒体",
+     "zh": "何伟文：AI投资勃兴驱动中国和世界贸易剧增 | 巴伦独家"
     },
     {
      "title": "A股行业估值分化：科技软件PB居前，金融与地产链偏低",
@@ -1930,12 +1946,12 @@ window.INDUSTRY_DATA = {
      "zh": "价值判断：涨停板的投资机会和风险提示（10月23日）｜上市公司观察"
     },
     {
-     "title": "首批主动ETF落地：主动管理能力迎来“透明化”检验",
-     "link": "https://www.tmtpost.com/8181233.html",
-     "pubDate": "Sun, 25 Oct 2026 20:50:24 +0800",
-     "summary": "从政策支持到产品落地，主动ETF为我国公募基金市场增添了新的权益投资工具。与传统指数ETF不同，主动ETF不以跟踪特定指数为投资目标，而是将基金管理人的主动投资能力与ETF场内交易机制相结合。",
-     "source": "钛媒体",
-     "zh": "首批主动ETF落地：主动管理能力迎来“透明化”检验"
+     "title": "Tool book of a Nuremberg knight from 1505",
+     "link": "https://loeffelholz-codex.org/en/",
+     "pubDate": "Sun, 25 Oct 2026 12:37:54 +0000",
+     "summary": "Article URL: https://loeffelholz-codex.org/en/ Comments URL: https://news.ycombinator.com/item?id=50230917 Points: 137 # Comments: 70",
+     "source": "Hacker News",
+     "zh": "Tool book of a Nuremberg knight from 1505"
     },
     {
      "title": "Wallhack M-001 Review: When Fun Overrides Specs",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple will reportedly launch an innovative new MacBook next week, which means existing options have their largest discount yet.",
      "source": "WIRED",
      "zh": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever"
-    },
-    {
-     "title": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later",
-     "link": "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/",
-     "pubDate": "Sun, 25 Oct 2026 10:30:00 +0000",
-     "summary": "While oil is known to float, new research finds that over time it can permeate even extremely deep marine habitats, with animal populations declining by as much as 80 percent.",
-     "source": "WIRED",
-     "zh": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later"
-    },
-    {
-     "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
-     "link": "https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/",
-     "pubDate": "Sun, 25 Oct 2026 10:15:00 +0000",
-     "summary": "Powering a car dashboard is more demanding on your handset than you might think. These tips will save battery life and help your phone chill out.",
-     "source": "WIRED",
-     "zh": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool"
     }
    ]
   },
@@ -2258,52 +2258,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Hamilton U.S. T-Bill YIELD MAXIMIZER™ ETF declares CAD 0.053 dividend",
-     "link": "https://seekingalpha.com/news/4656987-hamilton-u-s-t-bill-yield-maximizer-etf-declares-cad-0_053-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 12:50:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hamilton U.S. T-Bill YIELD MAXIMIZER™ ETF declares CAD 0.053 dividend"
+     "title": "阿斯利康试验数据：Tagrisso联合疗法将特定肺癌进展或死亡风险降低45%",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907375724.html",
+     "pubDate": "Mon, 26 Oct 2026 01:10:01 +0800",
+     "summary": "阿斯利康 公布了其Tagrisso（奥希替尼）联合savolitinib治疗特定类型肺癌的3期SAFFRON试验数据。结果显示，在EGFR突变且伴有高水平MET过表达或扩增的非小细胞肺癌患者中（这些患者此前接受Tagrisso治疗后出现进展），该联合疗法相比双药铂类化疗，将疾病进展或死亡风险降低了45%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "阿斯利康试验数据：Tagrisso联合疗法将特定肺癌进展或死亡风险降低45%"
     },
     {
-     "title": "Hamilton REITs YIELD MAXIMIZER™ ETF declares CAD 0.142 dividend",
-     "link": "https://seekingalpha.com/news/4656986-hamilton-reits-yield-maximizer-etf-declares-cad-0_142-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 12:50:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hamilton REITs YIELD MAXIMIZER™ ETF declares CAD 0.142 dividend"
+     "title": "沙特称拦截胡塞武装导弹 碎片坠落致2人受伤",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907375628.html",
+     "pubDate": "Mon, 26 Oct 2026 01:06:03 +0800",
+     "summary": "当地时间25日下午，沙特阿拉伯民防总局发表声明说，也门胡塞武装当天发射的两枚弹道导弹被拦截，导弹碎片坠落在沙特南部阿西尔省，造成2人受伤。 声明说，导弹碎片还造成一些住宅和车辆受损。 沙特主导的多国联军发言人图尔基·马利基当天早些时候说，联军当天已在沙特境内多地拦截12枚导弹和2架 无人机 。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "沙特称拦截胡塞武装导弹 碎片坠落致2人受伤"
     },
     {
-     "title": "Hamilton Healthcare Yield Maximizer ETF declares CAD 0.143 dividend",
-     "link": "https://seekingalpha.com/news/4656985-hamilton-healthcare-yield-maximizer-etf-declares-cad-0_143-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 12:50:09 -0400",
+     "title": "SA Asks: What sort of sector rotations are we seeing right now in equities?",
+     "link": "https://seekingalpha.com/news/4656954-sa-asks-what-sort-of-sector-rotations-are-we-seeing-right-now-in-equities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 13:04:21 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Hamilton Healthcare Yield Maximizer ETF declares CAD 0.143 dividend"
+     "zh": "SA Asks: What sort of sector rotations are we seeing right now in equities?"
     },
     {
-     "title": "Hamilton U.S. Financials Yield Maximizer ETF declares CAD 0.175 dividend",
-     "link": "https://seekingalpha.com/news/4656984-hamilton-u-s-financials-yield-maximizer-etf-declares-cad-0_175-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 12:49:55 -0400",
+     "title": "Trending stocks this week as markets navigate AI concerns, geopolitical tensions",
+     "link": "https://seekingalpha.com/news/4656504-trending-stocks-this-week-as-markets-navigate-ai-concerns-geopolitical-tensions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 13:00:56 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Hamilton U.S. Financials Yield Maximizer ETF declares CAD 0.175 dividend"
+     "zh": "Trending stocks this week as markets navigate AI concerns, geopolitical tensions"
     },
     {
-     "title": "Hamilton Energy Yield Maximizer ETF declares CAD 0.149 dividend",
-     "link": "https://seekingalpha.com/news/4656983-hamilton-energy-yield-maximizer-etf-declares-cad-0_149-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 12:49:41 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hamilton Energy Yield Maximizer ETF declares CAD 0.149 dividend"
+     "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 17:00:00 GMT",
+     "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+     "source": "MarketWatch",
+     "zh": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?"
     },
     {
-     "title": "Hamilton Gold Producer Yield Maximizer ETF declares CAD 0.295 dividend",
-     "link": "https://seekingalpha.com/news/4656982-hamilton-gold-producer-yield-maximizer-etf-declares-cad-0_295-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 12:49:23 -0400",
+     "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+     "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 17:00:00 GMT",
+     "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+     "source": "MarketWatch",
+     "zh": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
+    },
+    {
+     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 17:00:00 GMT",
+     "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+     "source": "MarketWatch",
+     "zh": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
+    },
+    {
+     "title": "BTIG warns stocks may fall after midterms as credit risks mount",
+     "link": "https://seekingalpha.com/news/4656990-btig-warns-stocks-may-fall-after-midterms-as-credit-risks-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 12:59:46 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Hamilton Gold Producer Yield Maximizer ETF declares CAD 0.295 dividend"
+     "zh": "BTIG warns stocks may fall after midterms as credit risks mount"
+    },
+    {
+     "title": "Hamilton Canadian Bank Equal-Weight Index ETFp declares CAD 0.08 dividend",
+     "link": "https://seekingalpha.com/news/4656996-hamilton-canadian-bank-equal-weight-index-etfp-declares-cad-0_08-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 12:56:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hamilton Canadian Bank Equal-Weight Index ETFp declares CAD 0.08 dividend"
+    },
+    {
+     "title": "Hamilton Canadian Equity YIELD MAXIMIZER™ ETF declares CAD 0.15 dividend",
+     "link": "https://seekingalpha.com/news/4656995-hamilton-canadian-equity-yield-maximizer-etf-declares-cad-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 12:56:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hamilton Canadian Equity YIELD MAXIMIZER™ ETF declares CAD 0.15 dividend"
+    },
+    {
+     "title": "Hamilton Technology Yield Maximizer ETF declares CAD 0.163 dividend",
+     "link": "https://seekingalpha.com/news/4656994-hamilton-technology-yield-maximizer-etf-declares-cad-0_163-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 12:56:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hamilton Technology Yield Maximizer ETF declares CAD 0.163 dividend"
+    },
+    {
+     "title": "美国中央司令部表示 霍尔木兹海峡的过境航线已清除伊朗水雷",
+     "link": "http://finance.eastmoney.com/news/1356,202610263907375519.html",
+     "pubDate": "Mon, 26 Oct 2026 00:46:45 +0800",
+     "summary": "美国中央司令部表示，霍尔木兹海峡的过境航线已清除伊朗水雷。过去6个月内，已有超过3000艘商船通过霍尔木兹海峡。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国中央司令部表示 霍尔木兹海峡的过境航线已清除伊朗水雷"
     },
     {
      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -2312,6 +2360,14 @@ window.INDUSTRY_DATA = {
      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
      "source": "MarketWatch",
      "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
+    },
+    {
+     "title": "“泡泡玛特”让段永平亏了20亿港元！",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907375448.html",
+     "pubDate": "Mon, 26 Oct 2026 00:44:57 +0800",
+     "summary": "被称为“中国巴菲特”的段永平坐了一趟“过山车”，车票是 泡泡玛特 。 10月14日起， 泡泡玛特 （9992.HK）股价连续6个交易日下跌。10月21日，面对网友“是否还会加仓”的追问，知名投资人段永平（雪球ID：大道无形我有型）在投资者社区雪球回复：“我应该还会再买一些，但不会超过公司的10%，不然公司该有意见了哈。”还说，“以后不想再回答这种问题了，对错过几年就知道了。” 图源：雪球 对于为何把持股红线设在10%，他解释：超过10%便不再是“被动接受公司决策的普通股民”，而是能改变公司权力格局的重要股东。 段永平与 泡泡玛特 的结缘，始于一次“真香”。2025年12月，他在与万科创始人王石",
+     "source": "东方财富股票",
+     "zh": "“泡泡玛特”让段永平亏了20亿港元！"
     },
     {
      "title": "特朗普：美俄乌三方会谈“很快”就会举行",
@@ -2336,38 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "风暴博埃洛（Boelo）和风暴奥斯汀（Austen）相隔不到24小时先后席卷欧洲多国。英国能源网络协会说，两场风暴期间，累计超过40万户家庭一度停电。截至星期天，仍有逾8万户断电。法国 电力 公司Enedis说，24日风暴奥斯汀最猛烈时，全国28万多户家庭停电。截至星期天中午，仍有约5.9万户未恢复供电，主要集中在诺曼底和布列塔尼地区。当局已调派2600名人员抢修。德国西南部弗赖堡一带星期天也有约1万户停电。由于停电还导致手机网络中断，当地主要 医院 被迫限制服务，仅处理紧急病例。恶劣天气严重扰乱欧洲航空交通。荷兰阿姆斯特丹斯希普霍尔 机场 星期天取消约90趟出发航班，另有数十趟抵达航班取消。",
      "source": "东方财富股票",
      "zh": "两场风暴接连袭击欧洲北部 多国电力中断"
-    },
-    {
-     "title": "美驻沙特大使馆发布安全警报 要求非紧急政府人员撤离",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907375365.html",
-     "pubDate": "Mon, 26 Oct 2026 00:24:23 +0800",
-     "summary": "当地时间10月25日，美国驻沙特阿拉伯大使馆发布安全警报称，美国国务院已下令非紧急政府雇员及其家属撤离沙特阿拉伯，原因是当地安全风险上升。 公告称，胡塞武装近期袭击沙特阿拉伯的民用 机场 及其他关键基础设施，造成平民伤亡和严重交通中断，相关敌对行动可能迅速升级。 公告提醒美国公民，沙特阿拉伯 机场 可能遭到袭击，并可能出现空域关闭、航班取消等情况，建议旅客直接向航空公司和 机场 确认航班状态。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "美驻沙特大使馆发布安全警报 要求非紧急政府人员撤离"
-    },
-    {
-     "title": "社保基金加仓！002281 第三季度净利翻倍 大赚7亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907371026.html",
-     "pubDate": "Mon, 26 Oct 2026 00:10:29 +0800",
-     "summary": "10月25日， 光迅科技 （002281.SZ，股价128.63元，市值1064.69亿元）披露《2026年第三季度报告》。 单看第三季度，公司营业收入50.73亿元，同比增长54.27%，归母净利润为7.02亿元，同比增长102.62%，环比第二季度（3.42亿元）增长105.20%。 前三季度扣非净利接近13亿元接近预告上限 前三季度，公司实现营业收入116.83亿元，同比增长36.94%；归母净利润为12.84亿元，同比增长78.65%，扣非净利润为12.72亿元，同比增长87.48%。 此外，公司第三季度扣非净利润为7.04亿元，同比增长121.06%，环比增长106.91%。 业绩说",
-     "source": "东方财富股票",
-     "zh": "社保基金加仓！002281 第三季度净利翻倍 大赚7亿元"
-    },
-    {
-     "title": "韩国股市 利空突袭",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907370948.html",
-     "pubDate": "Mon, 26 Oct 2026 00:05:42 +0800",
-     "summary": "【导读】 高盛 下调韩国股指目标价 大家好，简单关注一下韩国股市的消息。 10月25日， 高盛 集团策略师将韩国 综合 股价指数（KOSPI）的目标点位大幅下调25%。此前， 高盛 今年曾多次上调该指数目标，但随着市场对 人工智能 （AI）投资热潮的担忧不断加剧，高盛如今转变了态度。 包括Timothy Moe在内的高盛分析师，将韩国股市未来12个月的目标点位从12000点下调至9000点。分析师表示，在韩国股市基准指数较6月高点暴跌超过35%之后，他们采用了更加保守的估值假设。 不过，高盛策略师认为，经过这一轮抛售，韩国股票的估值已经被严重低估。即使下调目标，最新预测仍意味着韩国股市较当前水",
-     "source": "东方财富股票",
-     "zh": "韩国股市 利空突袭"
-    },
-    {
-     "title": "特朗普谈伊朗时表示 “今天”不会发动袭击",
-     "link": "http://global.eastmoney.com/news/1959,202610263907370880.html",
-     "pubDate": "Mon, 26 Oct 2026 00:04:24 +0800",
-     "summary": "特朗普谈伊朗时表示，“今天”不会发动袭击。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "特朗普谈伊朗时表示 “今天”不会发动袭击"
     },
     {
      "title": "Marco Rubio still owes Europe answers about America’s intentions",
@@ -2426,60 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
     },
     {
-     "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-     "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 14:00:00 GMT",
-     "summary": "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.",
-     "source": "MarketWatch",
-     "zh": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks"
-    },
-    {
-     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 13:45:00 GMT",
-     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-     "source": "MarketWatch",
-     "zh": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
-    },
-    {
      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
      "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
      "pubDate": "Sun, 25 Oct 2026 13:41:37 GMT",
      "summary": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
      "source": "CNBC",
      "zh": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis"
-    },
-    {
-     "title": "情系高原 东方财富向西藏那曲地震灾区捐赠600万元",
-     "link": "http://finance.eastmoney.com/news/1355,202610253907304279.html",
-     "pubDate": "Sun, 25 Oct 2026 21:35:57 +0800",
-     "summary": "10月22日，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。 高原灾情牵动人心。地震发生后，东方财富信息股份有限公司（以下简称“东方财富”）迅速启动响应机制，决定向西藏那曲地震灾区捐赠600万元，全力驰援灾区抢险救援、群众安置及灾后重建等相关工作。同时，公司已第一时间协调东方财富证券那曲营业部，紧急筹措捐赠防寒被褥等物资，就近支援一线救灾。 情系高原，雪域同心。东方财富将持续关注灾情动态，支持当地抗震救灾工作，助力灾区群众早日渡过难关、重建家园。",
-     "source": "东方财富资讯",
-     "zh": "情系高原 东方财富向西藏那曲地震灾区捐赠600万元"
-    },
-    {
-     "title": "10月25日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610253907268149.html",
-     "pubDate": "Sun, 25 Oct 2026 21:00:08 +0800",
-     "summary": "今日摘要 习近平同比利时国王就中比建交55周年互致贺信。 党的十八大以来，以习近平同志为核心的党中央始终把思想建设作为党的基础性建设，坚持用习近平新时代中国特色社会主义思想凝心铸魂，全党思想上更加统一、政治上更加团结、行动上更加一致，为强国建设、民族复兴伟业筑牢坚实思想根基。 习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话在广大青年中引发热烈反响。 二十届中央第七轮巡视完成反馈。 我国造船业三大指标持续领跑全球。 西藏那曲市巴青县7.0级地震抢险救援有序进行。 内容速览 习近平同比利时国王就中比建交55周年互致贺信 10月25日，国家主席习近平同比利时国王菲利普互致贺信，庆祝两",
-     "source": "东方财富资讯",
-     "zh": "10月25日晚间央视新闻联播要闻集锦"
-    },
-    {
-     "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-     "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 13:00:00 GMT",
-     "summary": "The nine months between Election Day and June 30 have seen the S&P 500 deliver an average return of 15.5% going back to 1950.",
-     "source": "MarketWatch",
-     "zh": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins."
-    },
-    {
-     "title": "又一个国家股市“崩”了 埃及股市一度暴跌5%",
-     "link": "http://finance.eastmoney.com/news/1345,202610253907261736.html",
-     "pubDate": "Sun, 25 Oct 2026 20:30:34 +0800",
-     "summary": "大家好啊，周末不平静，刚刚，又一个国家股市崩了。 10月25日，埃及股市跌幅一度扩大至5%，截至发稿，跌幅收窄至3.3%。 与此同时，沙特股市也在暴跌，跌超3%。 此前，随着沙特与也门胡塞武装的冲突升级，由沙特主导的联军表示，已在利雅得及沙特南部地区拦截 无人机 和导弹。也门胡塞武装被认为与伊朗关系密切。 沙特基准股指暴跌，有望创下自2025年4月以来最差的盘中表现。在市场普遍抛售压力下走低。投资者正在评估，也门冲突是否可能进一步扩大，成为当前地区战争中的另一条主要战线。 海湾地区以外，埃及蓝筹股指数（EGX30）一度暴跌5%，正逼近近七个月来的最低水平，指数所有成份股均处于下跌状态。 埃及议",
-     "source": "东方财富资讯",
-     "zh": "又一个国家股市“崩”了 埃及股市一度暴跌5%"
     },
     {
      "title": "London’s most famous shopping street bans cars in bid to revive its fortunes",
@@ -2496,6 +2472,30 @@ window.INDUSTRY_DATA = {
      "summary": "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.",
      "source": "CNBC",
      "zh": "What Democrats and Republicans fear most about each other: CNBC survey has the answers"
+    },
+    {
+     "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+     "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+     "pubDate": "Sun, 25 Oct 2026 12:00:01 GMT",
+     "summary": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
+     "source": "CNBC",
+     "zh": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO"
+    },
+    {
+     "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+     "link": "https://wallstreetcn.com/articles/3784282",
+     "pubDate": "Sun, 25 Oct 2026 19:48:06 +0800",
+     "summary": "10月26日 - 11月01日当周重磅财经事件一览，以下均为北京时间： 首要主线是“超级央行周”。 美联储10月29日凌晨公布决议，94%经济学家预计维持3.75%-4%不变，但沃什发布会的措辞将成关键——彭博提示市场紧盯12月加息线索，鹰派信号或直接推升美债收益率、压制风险资产。日本央行同周出牌，预计维持1.25%不变，但植田和男若释放鹰派信号，将触发日元反弹、冲击全球套息交易；欧央行亦料按兵不动，拉加德指引12月路径。 近日，美债近期剧烈波动、10年期收益率一度逼近5.3%后回落，法国政治僵局与能源高价交织，令利率路径与科技股估值成为全球资产定价的核心变量。 其次是“超级财报周”。 在本周",
+     "source": "华尔街见闻",
+     "zh": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？"
+    },
+    {
+     "title": "Why students in a midterm battleground fear AI will ruin their future",
+     "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
+     "pubDate": "Sun, 25 Oct 2026 11:00:02 GMT",
+     "summary": "Young people are increasingly anxious — and angry — about the Big Tech revolution and what it means for their job prospects",
+     "source": "Financial Times",
+     "zh": "Why students in a midterm battleground fear AI will ruin their future"
     }
    ]
   },

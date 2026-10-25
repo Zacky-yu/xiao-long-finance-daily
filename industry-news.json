@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/26 04:47:54",
+ "generated_at": "2026/10/26 05:19:25",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)",
+     "link": "https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/",
+     "pubDate": "Sun, 25 Oct 2026 21:08:26 +0000",
+     "summary": "Researchers at KU Leuven, Kunsan National University, Vrije Universiteit Brussel, imec, et al. published “Irradiation-Source-Dependent Tone Conversion in Dry-Deposited Halogenated Amorphous Zeolitic Imidazolate Framework Resists for Electron-Beam and Extreme Ultraviolet Lithography.” Abstract Excerp",
+     "source": "Semiconductor Engineering",
+     "zh": "Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)"
+    },
+    {
+     "title": "Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA)",
+     "link": "https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/",
+     "pubDate": "Sun, 25 Oct 2026 20:49:45 +0000",
+     "summary": "Researchers from Institute of Science Tokyo, Yokohama National University, AIST, and Photonics Electronics Technology Research Association (PETRA) published a technical paper titled “Reduced-DSP 200G/λ Low-Voltage Slow-Light Silicon Modulator Enabled by Built-In EO Equalizer.” Abstract Excerpt: “Mul",
+     "source": "Semiconductor Engineering",
+     "zh": "Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA)"
+    },
+    {
      "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
      "link": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
      "pubDate": "Sun, 25 Oct 2026 20:30:42 +0000",
@@ -385,6 +401,22 @@
      "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
     },
     {
+     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
+     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
+    },
+    {
+     "title": "Space Tech Expo Europe to say farewell to Bremen",
+     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
+     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Space Tech Expo Europe to say farewell to Bremen"
+    },
+    {
      "title": "ST extends MasterGaN integrated transistor/driver family",
      "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
      "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
@@ -399,6 +431,30 @@
      "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
      "source": "Semiconductor Today",
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
+    },
+    {
+     "title": "Soft Switching Or Hard?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
+     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Soft Switching Or Hard?"
+    },
+    {
+     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
+     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
+     "source": "Electronics Weekly",
+     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
+    },
+    {
+     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
+     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
+     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
     },
     {
      "title": "Two Dollars and a Test Suite",
@@ -417,6 +473,14 @@
      "zh": "芯片行业周回顾"
     },
     {
+     "title": "Electronics production growth accelerating, says SI",
+     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
+     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Electronics production growth accelerating, says SI"
+    },
+    {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
      "link": "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/",
      "pubDate": "Thu, 22 Oct 2026 18:24:39 +0000",
@@ -431,70 +495,6 @@
      "summary": "Deepx is combining low-power AI accelerators and portable software with industry partnerships to bring physical AI into production. The post Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center"
-    },
-    {
-     "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
-     "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
-     "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
-     "summary": "Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems. The post How Goodram Validates DRAM and SSD Reliability in Europe appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "How Goodram Validates DRAM and SSD Reliability in Europe"
-    },
-    {
-     "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
-     "link": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
-     "pubDate": "Thu, 22 Oct 2026 09:58:39 +0000",
-     "summary": "In an exclusive interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems"
-    },
-    {
-     "title": "Beyond The EPE Budget: Building The Next Generation Of Computational Lithography",
-     "link": "https://semiengineering.com/beyond-the-epe-budget-building-the-next-generation-of-computational-lithography/",
-     "pubDate": "Thu, 22 Oct 2026 07:08:02 +0000",
-     "summary": "Why better models, richer metrology, explainable AI, and cross-industry collaboration must come together to extend semiconductor scaling. The post Beyond The EPE Budget: Building The Next Generation Of Computational Lithography appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Beyond The EPE Budget: Building The Next Generation Of Computational Lithography"
-    },
-    {
-     "title": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload",
-     "link": "https://semiengineering.com/pvtw-extending-silicon-characterization-from-pvt-to-real-world-workload/",
-     "pubDate": "Thu, 22 Oct 2026 07:07:27 +0000",
-     "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
-    },
-    {
-     "title": "Chip Scaling Moves Beyond The Transistor",
-     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
-     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Chip Scaling Moves Beyond The Transistor"
-    },
-    {
-     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
-     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
-     "source": "Semiconductor Today",
-     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
-    },
-    {
-     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
-     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
-    },
-    {
-     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
-     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -504,6 +504,14 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "How Advanced Shockwave Therapy Technology is Expanding the Possibilities of Non-Invasive Healthcare",
+     "link": "https://roboticsandautomationnews.com/2026/10/25/how-advanced-shockwave-therapy-technology-expanding-possibilities-non-invasive-healthcare/106287/",
+     "pubDate": "Sun, 25 Oct 2026 20:56:28 +0000",
+     "summary": "Traditional musculoskeletal care generates over $300 billion in costs each year, and often forces patients to choose between invasive surgical interventions and endless cycles of symptom-masking medication. Advanced shockwave technology breaks this paradigm by delivering high-energy acoustic pulses ",
+     "source": "Robotics & Automation",
+     "zh": "How Advanced Shockwave Therapy Technology is Expanding the Possibilities of Non-Invasive Healthcare"
+    },
     {
      "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
      "link": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
@@ -591,14 +599,6 @@
      "summary": "Claire chatted to Jan Petrš from École Polytechnique Fédérale de Lausanne (EPFL) and Déploya Robotics about novel robot designs for construction and architecture. Jan Petrš is a roboticist, architect, and entrepreneur working at the intersection of robotics and construction. He is currently the co-f",
      "source": "Robohub",
      "zh": "Robot Talk Episode 167 – Automating construction, with Jan Petrš"
-    },
-    {
-     "title": "Why Automated Cutting Lines Are Winning Over Small Furniture Workshops",
-     "link": "https://roboticsandautomationnews.com/2026/10/23/why-automated-cutting-lines-are-winning-over-small-furniture-workshops/106260/",
-     "pubDate": "Fri, 23 Oct 2026 10:42:27 +0000",
-     "summary": "Walk into a furniture workshop with fewer than fifteen staff and you’ll probably still find a panel saw from the 1990s. It works. It’s paid for. The guy who runs it has been doing so since before the apprentices were born. So why are so many of these shops suddenly writing cheques for automated beam",
-     "source": "Robotics & Automation",
-     "zh": "Why Automated Cutting Lines Are Winning Over Small Furniture Workshops"
     },
     {
      "title": "Dream Labs raises $90M and launches Dream API",
@@ -1025,6 +1025,14 @@
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1079,14 +1087,6 @@
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "What goes into making an animated film?",
+     "link": "https://www.disneyanimation.com/process/",
+     "pubDate": "Sun, 25 Oct 2026 20:27:09 +0000",
+     "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 14 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "What goes into making an animated film?"
+    },
+    {
      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
      "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
      "pubDate": "Sun, 25 Oct 2026 20:20:08 +0000",
@@ -1769,18 +1777,18 @@
      "zh": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead"
     },
     {
-     "title": "Eunice is almost here (William Gibson, Agency)",
+     "title": "Eunice is almost here",
      "link": "https://armincat.com/articles/eunice-is-almost-here",
      "pubDate": "Sun, 25 Oct 2026 19:40:27 +0000",
-     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 20 # Comments: 13",
+     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 29 # Comments: 22",
      "source": "Hacker News",
-     "zh": "Eunice is almost here (William Gibson, Agency)"
+     "zh": "Eunice is almost here"
     },
     {
      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
      "pubDate": "Sun, 25 Oct 2026 19:29:16 +0000",
-     "summary": "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/ Comments URL: https://news.ycombinator.com/item?id=50235217 Points: 58 # Comments: 10",
+     "summary": "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/ Comments URL: https://news.ycombinator.com/item?id=50235217 Points: 84 # Comments: 14",
      "source": "Hacker News",
      "zh": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%"
     },
@@ -1788,7 +1796,7 @@
      "title": "Why I Am a Programmer",
      "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
      "pubDate": "Sun, 25 Oct 2026 19:11:31 +0000",
-     "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 18 # Comments: 5",
+     "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 33 # Comments: 5",
      "source": "Hacker News",
      "zh": "Why I Am a Programmer"
     },
@@ -1796,7 +1804,7 @@
      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
      "pubDate": "Sun, 25 Oct 2026 19:10:36 +0000",
-     "summary": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 21 # Comments: 0",
      "source": "Hacker News",
      "zh": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens"
     },
@@ -1809,20 +1817,12 @@
      "zh": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)"
     },
     {
-     "title": "Dolly Parton's Imagination Library",
-     "link": "https://imaginationlibrary.com/",
-     "pubDate": "Sun, 25 Oct 2026 18:23:54 +0000",
-     "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there ",
+     "title": "Where the Romans Fought (interactive map)",
+     "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+     "pubDate": "Sun, 25 Oct 2026 18:58:14 +0000",
+     "summary": "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 4 # Comments: 0",
      "source": "Hacker News",
-     "zh": "Dolly Parton's Imagination Library"
-    },
-    {
-     "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
-     "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
-     "pubDate": "Sun, 25 Oct 2026 18:11:38 +0000",
-     "summary": "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 40 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "All you need is Wide Events, not \"Metrics, Logs and Traces\""
+     "zh": "Where the Romans Fought (interactive map)"
     },
     {
      "title": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)",
@@ -2257,28 +2257,68 @@
    "total": 13,
    "items": [
     {
-     "title": "塞尔维亚领导人武契奇：学生名单阵营获得超过200万张选票",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907390460.html",
-     "pubDate": "Mon, 26 Oct 2026 04:37:04 +0800",
-     "summary": "塞尔维亚领导人武契奇：学生名单阵营获得超过200万张选票。 （文章来源：新浪财经快讯）",
+     "title": "马斯克表示 SpaceX不会收购任何新型云服务商",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391840.html",
+     "pubDate": "Mon, 26 Oct 2026 05:08:56 +0800",
+     "summary": "马斯克表示， SpaceX 不会收购任何新型云服务商。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "塞尔维亚领导人武契奇：学生名单阵营获得超过200万张选票"
+     "zh": "马斯克表示 SpaceX不会收购任何新型云服务商"
     },
     {
-     "title": "塞尔维亚领导人武契奇承认在提前选举中落败",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907390336.html",
-     "pubDate": "Mon, 26 Oct 2026 04:37:03 +0800",
-     "summary": "塞尔维亚领导人武契奇承认在提前选举中落败。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "塞尔维亚领导人武契奇承认在提前选举中落败"
+     "title": "Agenus reports response rate in colon cancer trial",
+     "link": "https://seekingalpha.com/news/4657006-agenus-reports-response-rate-in-colon-cancer-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:05:11 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Agenus reports response rate in colon cancer trial"
     },
     {
-     "title": "巴西总统选举第二轮投票结束时间将延后两小时",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907390230.html",
-     "pubDate": "Mon, 26 Oct 2026 04:35:59 +0800",
-     "summary": "巴西联邦最高法院25日作出裁定，将当天巴西总统选举第二轮投票结束时间由巴西利亚时间17时（北京时间26日4时）延长至19时（北京时间26日6时），以应对多地公共交通停摆和强降雨对选民投票造成的影响。 （文章来源：新华社）",
+     "title": "Musk warns of AI lending crunch after SpaceX closes $40B GPU financing",
+     "link": "https://seekingalpha.com/news/4657008-musk-warns-of-ai-lending-crunch-after-spacex-closes-40b-gpu-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:02:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Musk warns of AI lending crunch after SpaceX closes $40B GPU financing"
+    },
+    {
+     "title": "特朗普：为塞尔弗里奇空军国民警卫队基地争取到21架全新F-15EX鹰II战斗机",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391774.html",
+     "pubDate": "Mon, 26 Oct 2026 05:01:14 +0800",
+     "summary": "特朗普：为塞尔弗里奇空军国民警卫队基地争取到21架全新F-15EX鹰II战斗机，民主党原本打算关闭塞尔弗里奇基地，而我保住了数千个工作岗位，以及这座基地所承载的崇高声望。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "巴西总统选举第二轮投票结束时间将延后两小时"
+     "zh": "特朗普：为塞尔弗里奇空军国民警卫队基地争取到21架全新F-15EX鹰II战斗机"
+    },
+    {
+     "title": "武契奇承认前进党在塞议会选举中败选",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391664.html",
+     "pubDate": "Mon, 26 Oct 2026 05:00:58 +0800",
+     "summary": "塞尔维亚前总统武契奇当地时间25日承认，由塞尔维亚前进党主导的“ 亚历山大 ·武契奇-团结的塞尔维亚”选举联盟在当天举行的议会选举中败选。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "武契奇承认前进党在塞议会选举中败选"
+    },
+    {
+     "title": "美国总统特朗普表示 5000美元红利将在中期选举后不久发放",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391548.html",
+     "pubDate": "Mon, 26 Oct 2026 05:00:30 +0800",
+     "summary": "美国总统特朗普表示，5000美元红利将在中期选举后不久发放。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普表示 5000美元红利将在中期选举后不久发放"
+    },
+    {
+     "title": "特朗普：5000美元红利将在选举后不久发放",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391417.html",
+     "pubDate": "Mon, 26 Oct 2026 04:57:21 +0800",
+     "summary": "特朗普：5000美元红利将在选举后不久发放。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普：5000美元红利将在选举后不久发放"
+    },
+    {
+     "title": "特朗普声称：美国人的收入处于历史最高水平 今天就业的美国人数量超过历史上任何时期",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391327.html",
+     "pubDate": "Mon, 26 Oct 2026 04:55:45 +0800",
+     "summary": "特朗普声称：美国人的收入处于历史最高水平。今天就业的美国人数量超过历史上任何时期。贫困率处于历史最佳、最低水平。出口飙升至美国历史最高水平。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普声称：美国人的收入处于历史最高水平 今天就业的美国人数量超过历史上任何时期"
     },
     {
      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
@@ -2287,30 +2327,6 @@
      "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
      "source": "CNBC",
      "zh": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification"
-    },
-    {
-     "title": "巴西选举管理机构表示，在最高法院裁定延长投票时间后，计票工作已暂停",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907390011.html",
-     "pubDate": "Mon, 26 Oct 2026 04:24:27 +0800",
-     "summary": "巴西选举管理机构表示，在最高法院裁定延长投票时间后，计票工作已暂停。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "巴西选举管理机构表示，在最高法院裁定延长投票时间后，计票工作已暂停"
-    },
-    {
-     "title": "特朗普：任何希望从丹麦进入美国的人，都全力支持；但对于索马里人，“我已经受够他们了”",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907389928.html",
-     "pubDate": "Mon, 26 Oct 2026 04:24:26 +0800",
-     "summary": "特朗普：任何希望从丹麦进入美国的人，都全力支持；但对于索马里人，“我已经受够他们了”；更青睐丹麦。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：任何希望从丹麦进入美国的人，都全力支持；但对于索马里人，“我已经受够他们了”"
-    },
-    {
-     "title": "美国总统特朗普：我没拿到诺贝尔奖，所以我不想要任何挪威人 挪威烂透了！",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907390193.html",
-     "pubDate": "Mon, 26 Oct 2026 04:23:02 +0800",
-     "summary": "美国总统特朗普：我没拿到诺贝尔奖，所以我不想要任何挪威人。挪威烂透了！ （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普：我没拿到诺贝尔奖，所以我不想要任何挪威人 挪威烂透了！"
     },
     {
      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -2375,22 +2391,6 @@
      "summary": "Far-right leader casts herself as only presidential candidate able to restore order and unity",
      "source": "Financial Times",
      "zh": "France’s Le Pen vows national ‘renewal’ in campaign launch"
-    },
-    {
-     "title": "Summit Therapeutics reports survival benefit for cancer drug in trial",
-     "link": "https://seekingalpha.com/news/4657001-summit-therapeutics-reports-survival-benefit-for-cancer-drug-in-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 14:31:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Summit Therapeutics reports survival benefit for cancer drug in trial"
-    },
-    {
-     "title": "Top global stories this week: Nestlé, Rolls-Royce, Barclays among others",
-     "link": "https://seekingalpha.com/news/4657000-top-global-stories-this-week-nestl-rolls-royce-barclays-among-others?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 14:20:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Top global stories this week: Nestlé, Rolls-Royce, Barclays among others"
     },
     {
      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",

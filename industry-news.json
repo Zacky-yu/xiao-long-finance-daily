@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/26 06:08:49",
+ "generated_at": "2026/10/26 06:22:16",
  "recent_days": 7,
  "industries": [
   {
@@ -1025,6 +1025,14 @@
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1079,14 +1087,6 @@
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "家族企业声誉风险与治理：从洁丽雅舆情事件看国货家族企业的治理升级",
+     "link": "https://www.huxiu.com/article/4900338.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 06:09:25 +0800",
+     "summary": "本文来自微信公众号： 清华管理评论 ，责编：高菁阳，作者：陈士慧 等，原文标题：《家族企业声誉风险与治理——从洁丽雅舆情事件看国货家族企业的治理升级》 家族企业声誉风险的根源，不是单一传播失误，而是家族逻辑、企业逻辑与媒介逻辑之间发生错位后，家族治理结构被外部社会重新解释的结果。家族治理本身既是组织优势，但也可能因权责边界、传播身份和制度表达不足而被外部社会另作解读。本文以洁丽雅舆情事件为案例，分析新媒体环境下家族治理、品牌叙事与公众认知错位生成声誉风险的过程，并进一步提出，国货家族企业应通过角色边界清晰化、治理信息适度透明化、重大传播治理化和全周期声誉风控，实现从家族默契到制度信任的治理升级",
+     "source": "虎嗅",
+     "zh": "家族企业声誉风险与治理：从洁丽雅舆情事件看国货家族企业的治理升级"
+    },
+    {
      "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
      "link": "https://www.techmeme.com/261025/p11#a261025p11",
      "pubDate": "Sun, 25 Oct 2026 17:35:01 -0400",
@@ -1772,7 +1780,7 @@
      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
      "link": "https://minimaxir.com/2026/10/cheap-llms/",
      "pubDate": "Sun, 25 Oct 2026 21:11:31 +0000",
-     "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 14 # Comments: 12",
+     "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 17 # Comments: 22",
      "source": "Hacker News",
      "zh": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?"
     },
@@ -1780,7 +1788,7 @@
      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
      "pubDate": "Sun, 25 Oct 2026 21:08:28 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 49 # Comments: 2",
+     "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 66 # Comments: 21",
      "source": "Hacker News",
      "zh": "Serbia's Vucic concedes election defeat in historic win for student movement"
     },
@@ -1788,7 +1796,7 @@
      "title": "The State of Context Engineering",
      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
      "pubDate": "Sun, 25 Oct 2026 20:32:31 +0000",
-     "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 15 # Comments: 0",
      "source": "Hacker News",
      "zh": "The State of Context Engineering"
     },
@@ -1796,7 +1804,7 @@
      "title": "What goes into making an animated film?",
      "link": "https://www.disneyanimation.com/process/",
      "pubDate": "Sun, 25 Oct 2026 20:27:09 +0000",
-     "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 26 # Comments: 11",
+     "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 31 # Comments: 13",
      "source": "Hacker News",
      "zh": "What goes into making an animated film?"
     },
@@ -1820,7 +1828,7 @@
      "title": "Eunice is almost here",
      "link": "https://armincat.com/articles/eunice-is-almost-here",
      "pubDate": "Sun, 25 Oct 2026 19:40:27 +0000",
-     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 48 # Comments: 36",
+     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 49 # Comments: 39",
      "source": "Hacker News",
      "zh": "Eunice is almost here"
     },
@@ -1929,14 +1937,6 @@
      "zh": "古尔曼：苹果正为 iPhone Duo 开发全新“便捷访问”模式，方便左撇子用户根据持机习惯调整界面"
     },
     {
-     "title": "何伟文：AI投资勃兴驱动中国和世界贸易剧增 | 巴伦独家",
-     "link": "https://www.tmtpost.com/8181271.html",
-     "pubDate": "Sun, 25 Oct 2026 21:02:03 +0800",
-     "summary": "全球 AI 相关产品贸易的爆发式扩张推高中国外贸增速，这套新的产业分工图景，推翻了外界对中国贸易顺差的 “产能过剩” 单一叙事。",
-     "source": "钛媒体",
-     "zh": "何伟文：AI投资勃兴驱动中国和世界贸易剧增 | 巴伦独家"
-    },
-    {
      "title": "A股行业估值分化：科技软件PB居前，金融与地产链偏低",
      "link": "https://www.tmtpost.com/8181261.html",
      "pubDate": "Sun, 25 Oct 2026 21:00:41 +0800",
@@ -1977,6 +1977,14 @@
      "zh": "价值判断：涨停板的投资机会和风险提示（10月23日）｜上市公司观察"
     },
     {
+     "title": "首批主动ETF落地：主动管理能力迎来“透明化”检验",
+     "link": "https://www.tmtpost.com/8181233.html",
+     "pubDate": "Sun, 25 Oct 2026 20:50:24 +0800",
+     "summary": "从政策支持到产品落地，主动ETF为我国公募基金市场增添了新的权益投资工具。与传统指数ETF不同，主动ETF不以跟踪特定指数为投资目标，而是将基金管理人的主动投资能力与ETF场内交易机制相结合。",
+     "source": "钛媒体",
+     "zh": "首批主动ETF落地：主动管理能力迎来“透明化”检验"
+    },
+    {
      "title": "Wallhack M-001 Review: When Fun Overrides Specs",
      "link": "https://www.wired.com/review/wallhack-m-001/",
      "pubDate": "Sun, 25 Oct 2026 12:30:00 +0000",
@@ -1991,14 +1999,6 @@
      "summary": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.",
      "source": "WIRED",
      "zh": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets"
-    },
-    {
-     "title": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
-     "link": "https://www.wired.com/gallery/best-folding-phones/",
-     "pubDate": "Sun, 25 Oct 2026 11:30:00 +0000",
-     "summary": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.",
-     "source": "WIRED",
-     "zh": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola"
     }
    ]
   },
@@ -2257,12 +2257,28 @@
    "total": 13,
    "items": [
     {
+     "title": "Roche lung cancer drug extends survival by nearly six months in late-stage trial",
+     "link": "https://seekingalpha.com/news/4657007-roche-lung-cancer-drug-extends-survival-by-nearly-six-months-in-late-stage-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 18:02:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Roche lung cancer drug extends survival by nearly six months in late-stage trial"
+    },
+    {
      "title": "东京燃气公司因成本问题放弃福岛风电项目",
      "link": "http://finance.eastmoney.com/news/1351,202610263907400248.html",
      "pubDate": "Mon, 26 Oct 2026 05:56:20 +0800",
      "summary": "东京燃气公司因成本问题放弃福岛风电项目。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
      "zh": "东京燃气公司因成本问题放弃福岛风电项目"
+    },
+    {
+     "title": "Venezuelan opposition leader Machado returns from exile",
+     "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
+     "pubDate": "Sun, 25 Oct 2026 21:55:32 GMT",
+     "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
+     "source": "Financial Times",
+     "zh": "Venezuelan opposition leader Machado returns from exile"
     },
     {
      "title": "十大券商策略：急跌有望结束！关注短期超跌反弹",
@@ -2361,14 +2377,6 @@
      "zh": "AudioEye Q3 2026 Earnings Preview"
     },
     {
-     "title": "Northwest Bancshares Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4656712-northwest-bancshares-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 17:35:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Northwest Bancshares Q3 2026 Earnings Preview"
-    },
-    {
      "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
      "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
      "pubDate": "Sun, 25 Oct 2026 21:34:21 GMT",
@@ -2439,14 +2447,6 @@
      "summary": "“Nothing has been set aside for his needs.”",
      "source": "MarketWatch",
      "zh": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
-    },
-    {
-     "title": "Venezuelan opposition leader Machado returns from exile",
-     "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
-     "pubDate": "Sun, 25 Oct 2026 17:37:08 GMT",
-     "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
-     "source": "Financial Times",
-     "zh": "Venezuelan opposition leader Machado returns from exile"
     },
     {
      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",

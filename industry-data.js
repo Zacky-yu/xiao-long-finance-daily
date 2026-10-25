@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 02:30:33",
+ "generated_at": "2026/10/26 03:46:36",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+     "link": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/",
+     "pubDate": "Sun, 25 Oct 2026 18:34:53 +0000",
+     "summary": "The new XCMG SDA411 concept terminal truck is fully electric, has no cabin, and an L4 autonomous tech stack that’s purpose-built for unmanned logistics – and, if XCMG get their way, it looks like the future of drayage truck operations. more…",
+     "source": "Electrek",
+     "zh": "XCMG debuts new, fully autonomous electric terminal tractor [video]"
+    },
+    {
      "title": "Battery electric, solar-powered reefer units reach their first customers",
      "link": "https://electrek.co/2026/10/25/battery-electric-solar-powered-reefer-units-reach-their-first-customers/",
      "pubDate": "Sun, 25 Oct 2026 17:28:39 +0000",
@@ -728,14 +736,6 @@ window.INDUSTRY_DATA = {
      "summary": "The deal could allow Rivian to simluate edge cases before they occur in the real world.",
      "source": "InsideEVs",
      "zh": "Rivian Buys Synthetic Data Startup To Boost Its Autonomy Ambitions"
-    },
-    {
-     "title": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
-     "link": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
-     "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
-     "summary": "The NHTSA has proposed using cyan-colored lights to identify vehicles operating autonomously, along with other additions to get ready for autonomous vehicles. more…",
-     "source": "Electrek",
-     "zh": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China"
     },
     {
      "title": "VW's First Car Made With Xpeng Isn't Popular. Here's Why It Matters",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
+     "link": "https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html",
+     "pubDate": "Sun, 25 Oct 2026 14:00:00 -0500",
+     "summary": "The United Kingdom has invested heavily in expanding its renewable energy capacity in recent years to reduce its dependence on fossil fuels and support a green transition. However, one major problem stands in the way of it achieving this goal – its unprepared transmission infrastructure. Despite sev",
+     "source": "OilPrice",
+     "zh": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck"
+    },
+    {
      "title": "New Li Auto i6 Goes 811 km (504 Miles)",
      "link": "https://cleantechnica.com/2026/10/25/new-li-auto-i6-goes-811-km-504-miles/",
      "pubDate": "Sun, 25 Oct 2026 17:57:54 +0000",
@@ -936,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "Syria is undergoing countrywide reconstruction after more than a decade of conflict, which caused extensive infrastructure damage and led to millions of people being displaced. As Syrians rebuild their lives, the government has big plans for economic diversification and growth to support long-term r",
      "source": "OilPrice",
      "zh": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas"
-    },
-    {
-     "title": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
-     "link": "https://oilprice.com/Energy/Energy-General/Can-Undersea-Volcanoes-Power-Cities-A-Seattle-Startup-Just-Took-the-First-Step.html",
-     "pubDate": "Sat, 24 Oct 2026 12:00:00 -0500",
-     "summary": "A geothermal startup aiming to source energy directly from undersea volcanoes just hit a major milestone that could bring round-the-clock clean energy to cities on the northwest coast of the United States and serve as a critical proof of concept for other regions, with particular relevance for the o",
-     "source": "OilPrice",
-     "zh": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step"
     },
     {
      "title": "Renewable Energy India Expo 2026: Three key takeaways",
@@ -1762,26 +1762,42 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)",
+     "link": "https://www.techmeme.com/261025/p10#a261025p10",
+     "pubDate": "Sun, 25 Oct 2026 15:10:13 -0400",
+     "summary": "Ann Davis Vaughan / The Information : Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new &ldquo;delay-in-delivery&rdquo; coverage from brokers like Marsh &nbsp; &mdash;&nbsp; This spring, Mike Mathews, who leads the global digital infrastructure pr",
+     "source": "Techmeme",
+     "zh": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)"
+    },
+    {
+     "title": "Dolly Parton's Imagination Library",
+     "link": "https://imaginationlibrary.com/",
+     "pubDate": "Sun, 25 Oct 2026 18:23:54 +0000",
+     "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there ",
+     "source": "Hacker News",
+     "zh": "Dolly Parton's Imagination Library"
+    },
+    {
+     "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+     "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+     "pubDate": "Sun, 25 Oct 2026 18:11:38 +0000",
+     "summary": "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 23 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "All you need is Wide Events, not \"Metrics, Logs and Traces\""
+    },
+    {
      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
      "pubDate": "Sun, 25 Oct 2026 18:04:11 +0000",
-     "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 28 # Comments: 3",
+     "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 147 # Comments: 29",
      "source": "Hacker News",
      "zh": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop"
-    },
-    {
-     "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
-     "link": "https://news.ycombinator.com/item?id=50234108",
-     "pubDate": "Sun, 25 Oct 2026 17:52:28 +0000",
-     "summary": "Hey guys, today I read a statistic that showed that Agentic traffic surpassed human traffic on the internet and that statistic was very shocking to me. At the same time I saw another statistic that showed only 10% of agents built, actually get into production. These two statistics seemed ironic to m",
-     "source": "Hacker News",
-     "zh": "Ask HN: What is the main bottleneck facing Agentic AI today?"
     },
     {
      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
      "link": "https://talkweb.eu/openweb/4558/",
      "pubDate": "Sun, 25 Oct 2026 17:30:55 +0000",
-     "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 97 # Comments: 20",
+     "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 202 # Comments: 93",
      "source": "Hacker News",
      "zh": "I refuse to accept a censored Internet. Join Me at FOSDEM 27"
     },
@@ -1789,25 +1805,17 @@ window.INDUSTRY_DATA = {
      "title": "Fuck Nuance (2015)",
      "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
      "pubDate": "Sun, 25 Oct 2026 17:26:08 +0000",
-     "summary": "Article URL: https://crookedtimber.org/2015/08/31/fuck-nuance/ Comments URL: https://news.ycombinator.com/item?id=50233883 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://crookedtimber.org/2015/08/31/fuck-nuance/ Comments URL: https://news.ycombinator.com/item?id=50233883 Points: 21 # Comments: 2",
      "source": "Hacker News",
      "zh": "Fuck Nuance (2015)"
     },
     {
-     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-     "link": "https://lynchlab.net/llm-skin-cancer",
-     "pubDate": "Sun, 25 Oct 2026 17:15:38 +0000",
-     "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 95 # Comments: 45",
+     "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+     "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+     "pubDate": "Sun, 25 Oct 2026 17:20:22 +0000",
+     "summary": "Article URL: https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass Comments URL: https://news.ycombinator.com/item?id=50233828 Points: 23 # Comments: 2",
      "source": "Hacker News",
-     "zh": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis"
-    },
-    {
-     "title": "Sabre Wulf Remastered",
-     "link": "https://gp-64.com/swr/",
-     "pubDate": "Sun, 25 Oct 2026 17:15:16 +0000",
-     "summary": "Article URL: https://gp-64.com/swr/ Comments URL: https://news.ycombinator.com/item?id=50233775 Points: 33 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Sabre Wulf Remastered"
+     "zh": "Scientists rediscover how to make ancient Roman colour-changing glass"
     },
     {
      "title": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Maria Curi / Axios : Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers &nbsp; &mdash;&nbsp; Washington has always viewed Silicon Valley as culturally strange.&nbsp; But the current crop of ",
      "source": "Techmeme",
      "zh": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)"
-    },
-    {
-     "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
-     "link": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
-     "pubDate": "Sun, 25 Oct 2026 11:00:00 +0000",
-     "summary": "Apple will reportedly launch an innovative new MacBook next week, which means existing options have their largest discount yet.",
-     "source": "WIRED",
-     "zh": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever"
     }
    ]
   },
@@ -2009,6 +2009,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What does the bell icon mean on your CarPlay screen?",
+     "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
+     "pubDate": "Sun, 25 Oct 2026 18:45:00 +0000",
+     "summary": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.",
+     "source": "Engadget",
+     "zh": "What does the bell icon mean on your CarPlay screen?"
+    },
+    {
+     "title": "Early iPhone Duo buyers report inner display damage caused by a potential hinge defect",
+     "link": "https://www.gsmarena.com/early_iphone_duo_buyers_report_inner_display_damage_caused_by_a_potential_hinge_defect-news-75201.php",
+     "pubDate": "Sun, 25 Oct 2026 19:42:50 +0100",
+     "summary": "Buyers of Apple's first foldable, the iPhone Duo, are reporting a serious issue online with their purchase. All reports demonstrate a common pattern of a vertical and a horizontal line appearing on the inner display as a result of a potential hinge malfunction. Image source: scary_duck23 (Reddit) Ac",
+     "source": "GSMArena",
+     "zh": "Early iPhone Duo buyers report inner display damage caused by a potential hinge defect"
+    },
+    {
+     "title": "The most unexpected everyday tool can be found on your phone",
+     "link": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+     "pubDate": "Sun, 25 Oct 2026 18:30:00 +0000",
+     "summary": "If you have an iPhone, that is.",
+     "source": "Engadget",
+     "zh": "The most unexpected everyday tool can be found on your phone"
+    },
     {
      "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
      "link": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
@@ -2048,22 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "For the first time since 2021, Apple will be overhauling the iPad mini with new display technology. It also marks the first chip refresh since 2024. Here’s what Apple has in store for this all-new iPad mini . more…",
      "source": "9to5Mac",
      "zh": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost"
-    },
-    {
-     "title": "Here's how much PlayStation Plus cost in 2010 vs. 2026",
-     "link": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
-     "pubDate": "Sun, 25 Oct 2026 15:45:00 +0000",
-     "summary": "Sony's gaming service has changed a lot in recent years, and the price reflects that.",
-     "source": "Engadget",
-     "zh": "Here's how much PlayStation Plus cost in 2010 vs. 2026"
-    },
-    {
-     "title": "4 Ray-Ban Meta privacy settings you should change before wearing them",
-     "link": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
-     "pubDate": "Sun, 25 Oct 2026 15:15:00 +0000",
-     "summary": "Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.",
-     "source": "Engadget",
-     "zh": "4 Ray-Ban Meta privacy settings you should change before wearing them"
     },
     {
      "title": "Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo"
     },
     {
-     "title": "Deals: iPhone Duo launches, faces off against Galaxy Z Fold8, Motorola Razr Fold and others",
-     "link": "https://www.gsmarena.com/deals_iphone_duo_launches_faces_off_against_galaxy_z_fold8_motorola_razr_fold_and_others-news-75184.php",
-     "pubDate": "Sat, 24 Oct 2026 20:31:02 +0200",
-     "summary": "The iPhone Duo officially started shipping this Friday. Apple has warned that there will be limited in-store inventory and online purchases are facing long waiting times. Apple is working on building more units, but that will take some time. Here’s a look at Apple’s first foldable – it starts at $2,",
-     "source": "GSMArena",
-     "zh": "Deals: iPhone Duo launches, faces off against Galaxy Z Fold8, Motorola Razr Fold and others"
-    },
-    {
      "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
      "link": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
      "pubDate": "Sat, 24 Oct 2026 17:47:49 +0000",
@@ -2258,6 +2258,102 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "巴西大选候选人博索纳罗团队申请巴西两个州延长投票时间",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907384777.html",
+     "pubDate": "Mon, 26 Oct 2026 03:37:25 +0800",
+     "summary": "巴西大选候选人博索纳罗团队申请巴西两个州延长投票时间。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "巴西大选候选人博索纳罗团队申请巴西两个州延长投票时间"
+    },
+    {
+     "title": "市场资讯：英国财政大臣希利支持在罗斯班克进行石油钻探，此举可能引发内阁分裂",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907384652.html",
+     "pubDate": "Mon, 26 Oct 2026 03:35:43 +0800",
+     "summary": "市场资讯：英国财政大臣希利支持在罗斯班克进行石油钻探，此举可能引发内阁分裂。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场资讯：英国财政大臣希利支持在罗斯班克进行石油钻探，此举可能引发内阁分裂"
+    },
+    {
+     "title": "特朗普：不担心伊朗会在数月内重建铀浓缩能力",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907384580.html",
+     "pubDate": "Mon, 26 Oct 2026 03:34:08 +0800",
+     "summary": "特朗普：不担心伊朗会在数月内重建铀浓缩能力。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普：不担心伊朗会在数月内重建铀浓缩能力"
+    },
+    {
+     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 19:30:00 GMT",
+     "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+     "source": "MarketWatch",
+     "zh": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
+    },
+    {
+     "title": "特朗普谈及新建汽车工厂事宜：今日将宣布一项建厂计划",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907384418.html",
+     "pubDate": "Mon, 26 Oct 2026 03:28:57 +0800",
+     "summary": "特朗普谈及新建 汽车 工厂事宜：今日将宣布一项建厂计划。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普谈及新建汽车工厂事宜：今日将宣布一项建厂计划"
+    },
+    {
+     "title": "阿尔及利亚表决通过，将派遣军队保护尼日尔的石油设施",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907384340.html",
+     "pubDate": "Mon, 26 Oct 2026 03:28:46 +0800",
+     "summary": "阿尔及利亚表决通过，将派遣军队保护尼日尔的石油设施。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "阿尔及利亚表决通过，将派遣军队保护尼日尔的石油设施"
+    },
+    {
+     "title": "特朗普：加美协议可能在中期选举前达成",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907384282.html",
+     "pubDate": "Mon, 26 Oct 2026 03:27:04 +0800",
+     "summary": "特朗普：加美协议可能在中期选举前达成。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普：加美协议可能在中期选举前达成"
+    },
+    {
+     "title": "Bon Secours nears $6B takeover of Surgery Partners, FT reports",
+     "link": "https://seekingalpha.com/news/4657004-bon-secours-nears-6b-takeover-of-surgery-partners-ft-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 15:16:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bon Secours nears $6B takeover of Surgery Partners, FT reports"
+    },
+    {
+     "title": "Frontier Medicines reports promising lung cancer drug results in early trial",
+     "link": "https://seekingalpha.com/news/4657003-frontier-medicines-reports-promising-lung-cancer-drug-results-in-early-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 15:09:43 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Frontier Medicines reports promising lung cancer drug results in early trial"
+    },
+    {
+     "title": "Genmab, Incyte team up to develop experimental colorectal cancer treatment",
+     "link": "https://seekingalpha.com/news/4657002-genmab-incyte-team-up-to-develop-experimental-colorectal-cancer-treatment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 14:56:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Genmab, Incyte team up to develop experimental colorectal cancer treatment"
+    },
+    {
+     "title": "France’s Le Pen vows national ‘renewal’ in campaign launch",
+     "link": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
+     "pubDate": "Sun, 25 Oct 2026 18:37:17 GMT",
+     "summary": "Far-right leader casts herself as only presidential candidate able to restore order and unity",
+     "source": "Financial Times",
+     "zh": "France’s Le Pen vows national ‘renewal’ in campaign launch"
+    },
+    {
+     "title": "Summit Therapeutics reports survival benefit for cancer drug in trial",
+     "link": "https://seekingalpha.com/news/4657001-summit-therapeutics-reports-survival-benefit-for-cancer-drug-in-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 14:31:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Summit Therapeutics reports survival benefit for cancer drug in trial"
+    },
+    {
      "title": "Top global stories this week: Nestlé, Rolls-Royce, Barclays among others",
      "link": "https://seekingalpha.com/news/4657000-top-global-stories-this-week-nestl-rolls-royce-barclays-among-others?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 25 Oct 2026 14:20:16 -0400",
@@ -2274,14 +2370,6 @@ window.INDUSTRY_DATA = {
      "zh": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations"
     },
     {
-     "title": "日本鹿儿岛县火山喷发 烟雾最高至1800米",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907380918.html",
-     "pubDate": "Mon, 26 Oct 2026 02:17:23 +0800",
-     "summary": "日本气象部门25日发布的信息显示，位于日本九州地区鹿儿岛县的樱岛南岳山顶火山口当天多次喷发，火山烟雾最高达到1800米。目前暂无人员伤亡报告。 气象观测数据显示，当地时间25日7时22分左右，樱岛南岳山顶火山口喷发，火山烟雾高度达到1800米。第二次喷发发生于当地时间15时54分左右，火山烟雾高度达到1000米。当地时间17时45分和18时08分，该火山又发生喷发。当地气象部门提醒周边地区注意火山灰掉落。 目前，日本气象厅把樱岛火山警戒级别维持在3级，即限制入山。日本的火山喷发共有5个警戒级别，5级为最高，即须从危险的居住地区离开避难。 樱岛是位于日本九州南部鹿儿岛湾内的一座活火山岛，由北岳、",
-     "source": "东方财富股票",
-     "zh": "日本鹿儿岛县火山喷发 烟雾最高至1800米"
-    },
-    {
      "title": "Republican lawmakers challenge Musk over Starlink restrictions in Ukraine",
      "link": "https://seekingalpha.com/news/4656999-republican-lawmakers-challenge-musk-over-starlink-restrictions-in-ukraine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 25 Oct 2026 14:08:58 -0400",
@@ -2290,92 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "Republican lawmakers challenge Musk over Starlink restrictions in Ukraine"
     },
     {
-     "title": "两日净流入逾千亿元 资金借道股票型ETF入市",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907380127.html",
-     "pubDate": "Mon, 26 Oct 2026 02:07:07 +0800",
-     "summary": "资金借道ETF入市。近两个交易日，股票型ETF获得资金净流入超过一千亿元。拉长期限来看，从9月28日至10月23日，15个交易日净流入近3200亿元。从具体流向看，宽基ETF成为“吸金”主力，沪深300ETF、科创50ETF和创业板ETF等成为吸金主力。 呈现大资金流入特征 从近期资金流向看，据Wind测算，自9月28日以来，截至10月23日，股票型ETF已连续15个交易日获得资金净流入，合计净流入3198.08亿元。 宽基ETF成为资金重点加仓方向，多只ETF资金净流入逾百亿元。其中，沪深300ETF华泰柏瑞净流入475.02亿元，科创50ETF华夏净流入398.39亿元，创业板ETF易方达",
-     "source": "东方财富股票",
-     "zh": "两日净流入逾千亿元 资金借道股票型ETF入市"
-    },
-    {
-     "title": "多位券商首席最新研判：调整不改基本面 多重数据印证A股长期价值",
-     "link": "http://finance.eastmoney.com/news/1378,202610263907380265.html",
-     "pubDate": "Mon, 26 Oct 2026 02:07:02 +0800",
-     "summary": "证监会主席吴清日前在2026 金融街 论坛年会上表示，中国经济向新向优、长期向好的支撑条件和基本趋势依然强劲，资本市场运行底层逻辑已悄然发生深刻变化，中国资产的配置价值更加凸显。 近日，多位券商首席经济学家和首席分析师接受上海证券报记者采访时表示：A股市场出现短期调整更多反映海外冲击与市场情绪波动，风险已得到较大程度释放；中长期看，中国经济基本面、企业盈利修复与产业创新，正在重构A股的估值锚。 调整更多源于外部扰动与预期摆动 针对近期市场波动，多位券商首席提到，市场调整更多源于外部扰动与预期摆动。 华福证券首席经济学家管涛表示，受地缘冲突紧张局势升级、海外科技股行情演进分歧加大的影响，近期国内",
-     "source": "东方财富股票",
-     "zh": "多位券商首席最新研判：调整不改基本面 多重数据印证A股长期价值"
-    },
-    {
-     "title": "兴证全球基金隋毅：锚定基本面 挖掘多元成长机会",
-     "link": "http://fund.eastmoney.com/news/1623,202610263907380385.html",
-     "pubDate": "Mon, 26 Oct 2026 02:07:00 +0800",
-     "summary": "在隋毅看来，基于基本面的定价是主观投资的长期收益根源。他的投资框架以均衡成长风格为底色，以企业基本面为锚，在不同行业、不同公司之间比较，依据估值性价比的差异构建组合，并持续动态评估。 上述框架的形成，要对众多行业有深入研究并做价值比较。近年来，他不断扩大能力圈，从医药研究拓展到科技、消费、周期等领域。隋毅表示，虽然行业基础知识并不相同，但投资方法论是相通的。 能力圈的持续拓展，来自隋毅深耕医药研究打下的基础。他表示，医药行业资产类型丰富， 创新药 偏科技成长，CXO（医药外包服务）有制造业属性， 医疗服务 偏消费行业，部分公司还有周期特征，所以“各种类型的资产都有，各种范式的投资方法论都简单接",
-     "source": "东方财富股票",
-     "zh": "兴证全球基金隋毅：锚定基本面 挖掘多元成长机会"
-    },
-    {
-     "title": "产品创新引领公募投资生态蝶变",
-     "link": "http://stock.eastmoney.com/news/1426,202610263907380410.html",
-     "pubDate": "Mon, 26 Oct 2026 02:06:58 +0800",
-     "summary": "产品创新正引领公募行业蝶变。 今年以来，公募基金产品的创新备受瞩目。主动ETF实现突破性落地，指数工具向细分行业持续下沉，新模式浮动管理费基金从试点探索走向常态化供给。在业内人士看来，以产品创新为抓手，以费率改革理顺利益机制，公募行业正告别规模扩张的模式，迎来投资生态的系统性蝶变。 从最新监管动向看，近日，中国证监会就新修订形成的《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见。重点内容包括优化权益类基金产品供给，将权益类基金、FOF等的成立门槛降低，要求混合基金明确约定各类资产的配置比例，并分类别提出针对性监管要求，促进混合基金风险评级与实际风险特征相匹配等。多措并举",
-     "source": "东方财富股票",
-     "zh": "产品创新引领公募投资生态蝶变"
-    },
-    {
-     "title": "机构：关注三季报预期向好的超跌方向",
-     "link": "http://stock.eastmoney.com/news/1405,202610263907380077.html",
-     "pubDate": "Mon, 26 Oct 2026 02:06:57 +0800",
-     "summary": "上周，A股市场探底回升，资金显著加大流入ETF力度。结合估值回落、筹码出清与情绪触底等多项指标，部分机构策略展望研报认为，当前市场底部信号密集释放，自9月下旬以来的市场流动性负反馈显著缓解，短期市场超跌反弹具备基本面与政策面的双重支撑。具体配置上，机构建议“攻守兼备”：进攻端关注三季报预期向好、产业趋势明确且基本面坚挺的超跌方向；防守端则可逢低布局红利资产以应对市场波动。 市场短期情绪已充分释放 从多项数据指标来看，机构认为当前A股市场短期情绪已充分释放。 广发证券 估算，A股2026年归母净利润整体有望实现15%以上增长。该机构称，考虑到这一盈利预期，短期内市场对非业绩因素（贴现率、风险偏好",
-     "source": "东方财富股票",
-     "zh": "机构：关注三季报预期向好的超跌方向"
-    },
-    {
-     "title": "‘Clayface’ leads box office with $24 million as ticket sales surge 22%",
-     "link": "https://seekingalpha.com/news/4656998-clayface-leads-box-office-with-24-million-as-ticket-sales-surge-22-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 14:01:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "‘Clayface’ leads box office with $24 million as ticket sales surge 22%"
-    },
-    {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
      "pubDate": "Sun, 25 Oct 2026 18:00:00 GMT",
      "summary": "“Nothing has been set aside for his needs.”",
      "source": "MarketWatch",
      "zh": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
-    },
-    {
-     "title": "Trump touts Audi factory, promises more before midterms",
-     "link": "https://seekingalpha.com/news/4656997-trump-touts-audi-factory-promises-more-before-midterms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 13:50:02 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump touts Audi factory, promises more before midterms"
-    },
-    {
-     "title": "France’s Le Pen vows national ‘renewal’ in campaign launch",
-     "link": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
-     "pubDate": "Sun, 25 Oct 2026 17:47:48 GMT",
-     "summary": "Far-right leader casts herself as only presidential candidate able to restore order and unity",
-     "source": "Financial Times",
-     "zh": "France’s Le Pen vows national ‘renewal’ in campaign launch"
-    },
-    {
-     "title": "SA Asks: What sort of sector rotations are we seeing right now in equities?",
-     "link": "https://seekingalpha.com/news/4656954-sa-asks-what-sort-of-sector-rotations-are-we-seeing-right-now-in-equities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 13:04:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What sort of sector rotations are we seeing right now in equities?"
-    },
-    {
-     "title": "Trending stocks this week as markets navigate AI concerns, geopolitical tensions",
-     "link": "https://seekingalpha.com/news/4656504-trending-stocks-this-week-as-markets-navigate-ai-concerns-geopolitical-tensions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 13:00:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trending stocks this week as markets navigate AI concerns, geopolitical tensions"
     },
     {
      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
@@ -2392,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
      "source": "MarketWatch",
      "zh": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
-    },
-    {
-     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 17:00:00 GMT",
-     "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-     "source": "MarketWatch",
-     "zh": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
     },
     {
      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",

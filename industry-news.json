@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/26 19:32:05",
+ "generated_at": "2026/10/26 19:37:17",
  "recent_days": 7,
  "industries": [
   {
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Houthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Attacks-on-Saudi-Arabias-East-West-Oil-Pipeline.html",
+     "pubDate": "Mon, 26 Oct 2026 06:30:00 -0500",
+     "summary": "The Iran-backed Houthis on Monday claimed they attacked pumping stations along Saudi Arabia’s East-West onshore oil pipeline, the Kingdom’s key crude export route bypassing the Strait of Hormuz. The Houthis also said they attacked the Riyadh airport amid escalating hostilities between the Iran-align",
+     "source": "OilPrice",
+     "zh": "Houthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline"
+    },
+    {
      "title": "Samsung SDI signs 1 GWh supply agreement for US-made NCA battery storage",
      "link": "https://www.pv-magazine.com/2026/10/26/samsung-sdi-signs-1-gwh-supply-agreement-for-us-made-nca-battery-storage/",
      "pubDate": "Mon, 26 Oct 2026 11:06:34 +0000",
@@ -927,30 +935,6 @@
      "summary": "For energy companies, the assumptions behind a BI value can change materially during the policy period.",
      "source": "Utility Dive",
      "zh": "When does a BI value stop being the right number?"
-    },
-    {
-     "title": "More capability, less equipment: the future of capacitor bank control",
-     "link": "https://www.utilitydive.com/spons/more-capability-less-equipment-the-future-of-capacitor-bank-control/833143/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Utilities can now gain capacity and reliability without adding equipment or substation space.",
-     "source": "Utility Dive",
-     "zh": "More capability, less equipment: the future of capacitor bank control"
-    },
-    {
-     "title": "The push to DC: Why data centers are rethinking power architecture",
-     "link": "https://www.utilitydive.com/spons/the-push-to-dc-why-data-centers-are-rethinking-power-architecture/833783/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Explore how 800 VDC can reduce power losses, free up data center space and reshape power architecture.",
-     "source": "Utility Dive",
-     "zh": "The push to DC: Why data centers are rethinking power architecture"
-    },
-    {
-     "title": "Inside the resilience gap",
-     "link": "https://www.utilitydive.com/spons/inside-the-resilience-gap/832932/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "The 2026 State of Grid Resilience report puts data behind the pressures utility leaders face as they strengthen resilience while balancing affordability and performance.",
-     "source": "Utility Dive",
-     "zh": "Inside the resilience gap"
     },
     {
      "title": "New multi-modeling approach can predict rice yield in agrivoltaics",
@@ -1041,14 +1025,6 @@
      "zh": "1GW data centre with 5,000MWh battery storage system submitted to Australia’s EPBC Act for approval"
     },
     {
-     "title": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?",
-     "link": "https://oilprice.com/Energy/Energy-General/The-Pentagons-Rare-Earth-Deadline-Is-Almost-Here-Is-Anyone-Ready.html",
-     "pubDate": "Sun, 25 Oct 2026 19:00:00 -0500",
-     "summary": "For years, the rare earth industry has been talking about January 1, 2027 as the date that changes everything. That date is now less than 75 days away. On January 1, new Pentagon procurement rules take effect that will restrict the use of Chinese-origin rare earth materials in American weapons syste",
-     "source": "OilPrice",
-     "zh": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?"
-    },
-    {
      "title": "Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored",
      "link": "https://cleantechnica.com/2026/10/25/volkswagen-negotiations-with-ig-metall-to-begin-november-24-audi-factory-in-us-rumored/",
      "pubDate": "Sun, 25 Oct 2026 22:24:58 +0000",
@@ -1087,6 +1063,30 @@
      "summary": "Driven by the rapid growth of artificial intelligence, data centers, electric vehicles, and industrial electrification, global electricity demand continues to rise, making solar power a focal point for investment in energy infrastructure. For investors aiming for a daily return of $3,000, what scale",
      "source": "CleanTechnica",
      "zh": "Invest in Solar and Earn $3,000 a Day?"
+    },
+    {
+     "title": "Canada And EU Are Slip Sliding Away On Vehicle Emissions",
+     "link": "https://cleantechnica.com/2026/10/24/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/",
+     "pubDate": "Sat, 24 Oct 2026 22:00:17 +0000",
+     "summary": "J. Wellington Wimpy, of Popeye comics fame, had a favorite expression. It went like this: “I will gladly pay you Tuesday for a cheeseburger today.” As the Earth gets hotter and hotter, most countries have made commitments to reduce their climate warming emissions by 2030, or 2050, or 2077, or ... [c",
+     "source": "CleanTechnica",
+     "zh": "Canada And EU Are Slip Sliding Away On Vehicle Emissions"
+    },
+    {
+     "title": "The permitting deal collides with Trump’s war on offshore wind",
+     "link": "https://www.canarymedia.com/articles/politics/permitting-bill-offshore-wind",
+     "pubDate": "Fri, 23 Oct 2026 12:37:00 -0400",
+     "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. It’s been years in the making, but the U.S. Senate finally has a bipartisan permitting bill on the table that could speed up the construction of much-needed energy and grid projects. That is,",
+     "source": "Canary Media",
+     "zh": "The permitting deal collides with Trump’s war on offshore wind"
+    },
+    {
+     "title": "PG&E needs wildfire policy reform to manage tail risk, CEO says",
+     "link": "https://www.utilitydive.com/news/pge-needs-wildfire-policy-reform-to-manage-tail-risk-ceo-says/833845/",
+     "pubDate": "Fri, 23 Oct 2026 10:43:56 -0400",
+     "summary": "CEO Patti Poppe said the company&rsquo;s credit rating &ldquo;is a major issue that must be solved ... [legislative]&nbsp;inaction will continue to get increasingly expensive for our customers.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "PG&E needs wildfire policy reform to manage tail risk, CEO says"
     }
    ]
   },
@@ -1119,14 +1119,6 @@
      "summary": "Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.",
      "source": "BioPharma Dive",
      "zh": "The molecule was fine. The moment wasn’t."
-    },
-    {
-     "title": "Novel protein and peptide therapeutics",
-     "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
-     "source": "BioPharma Dive",
-     "zh": "Novel protein and peptide therapeutics"
     },
     {
      "title": "STAT+: Moderna CEO on what’s next after success in cancer vaccine",
@@ -1287,6 +1279,14 @@
      "summary": "The results of a large prospective proteomic study have associated proteins linked with the immune system, cell adhesion, blood vessel formation, and known prostate cancer genes, to future risk of developing prostate cancer, including aggressive disease. The post Proteins Circulating in Blood Linked",
      "source": "GEN",
      "zh": "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer"
+    },
+    {
+     "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
+     "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
+     "pubDate": "Thu, 22 Oct 2026 12:24:00 -0400",
+     "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
+     "source": "BioPharma Dive",
+     "zh": "Biohaven’s previously rejected rare disease drug to get fresh FDA review"
     }
    ]
   },
@@ -2257,6 +2257,78 @@
    "total": 13,
    "items": [
     {
+     "title": "Block downgraded at Morgan Stanley over credit risks, competition, reinvestment needs",
+     "link": "https://seekingalpha.com/news/4657090-block-downgraded-at-morgan-stanley-over-credit-risks-competition-reinvestment-needs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 07:34:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Block downgraded at Morgan Stanley over credit risks, competition, reinvestment needs"
+    },
+    {
+     "title": "City Holding GAAP EPS of $2.43 beats by $0.07, revenue of $84.04M beats by $0.97M",
+     "link": "https://seekingalpha.com/news/4657096-city-holding-gaap-eps-of-2_43-beats-by-0_07-revenue-of-84_04m-beats-by-0_97m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 07:34:14 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "City Holding GAAP EPS of $2.43 beats by $0.07, revenue of $84.04M beats by $0.97M"
+    },
+    {
+     "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+     "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
+     "pubDate": "Mon, 26 Oct 2026 11:31:16 GMT",
+     "summary": "The deal further advances Apollo Global's ambitions in Abu Dhabi, often called the \"capital of capital.\"",
+     "source": "CNBC",
+     "zh": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital"
+    },
+    {
+     "title": "Walmart sets holiday shopping event plans",
+     "link": "https://seekingalpha.com/news/4657082-walmart-sets-holiday-shopping-event-plans?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 07:31:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Walmart sets holiday shopping event plans"
+    },
+    {
+     "title": "High Liner Foods to be acquired by Umios for C$27.00 per share in cash",
+     "link": "https://seekingalpha.com/news/4657087-high-liner-foods-to-be-acquired-by-umios-for-c2700-per-share-in-cash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 07:29:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "High Liner Foods to be acquired by Umios for C$27.00 per share in cash"
+    },
+    {
+     "title": "广脉科技：截至9月30日最新股东户数6339户，较上期增加3.61%",
+     "link": "http://stock.eastmoney.com/news/11111,202610263908277828.html",
+     "pubDate": "Mon, 26 Oct 2026 19:27:26 +0800",
+     "summary": "广脉科技 最新披露数据显示，截至9月30日公司股东户数为6339户，较上期(2026年6月30日) 增加221户，增幅为3.61% 。户均持有流通股数量 由上期的1.07万股下降至1.03万股， 户均持股金额 由上期的15.30万元减少至14.54万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
+     "source": "东方财富股票",
+     "zh": "广脉科技：截至9月30日最新股东户数6339户，较上期增加3.61%"
+    },
+    {
+     "title": "图解财报：江苏神通前三季归母净利润2.19亿元，同比减少6.66%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263908277728.html",
+     "pubDate": "Mon, 26 Oct 2026 19:27:26 +0800",
+     "summary": "江苏神通 10月27日发布2026年 三季报显示，公司前三季 实现营业收入15.46亿元 ，同比下滑5.57% ；归母净利润2.19亿元 ，同比下滑6.66% ；扣非归母净利润2.13亿元 ，同比下滑3.25% 。 江苏神通 三季度 分红方案为 对全体股东 10 派1元 ， 上年同期为 对全体股东 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任",
+     "source": "东方财富股票",
+     "zh": "图解财报：江苏神通前三季归母净利润2.19亿元，同比减少6.66%"
+    },
+    {
+     "title": "图解财报：长虹美菱前三季归母净利润844.87万元，同比减少98.27%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263908276650.html",
+     "pubDate": "Mon, 26 Oct 2026 19:26:24 +0800",
+     "summary": "长虹美菱 10月27日发布2026年 三季报显示，公司前三季 实现营业收入227.68亿元 ，同比下滑10.34% ；归母净利润844.87万元 ，同比下滑98.27% ；扣非归母净利润-8248.10万元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：长虹美菱前三季归母净利润844.87万元，同比减少98.27%"
+    },
+    {
+     "title": "台基股份：拟3亿元投建新型高功率半导体器件研发及产业化基地",
+     "link": "http://finance.eastmoney.com/news/1354,202610263908278425.html",
+     "pubDate": "Mon, 26 Oct 2026 19:25:49 +0800",
+     "summary": "台基股份 (300046.SZ)公告称，为扩充高端封测产能，公司与武汉临空港经济技术开发区管委会签署项目投资协议，投资建设新型高功率 半导体 器件研发及产业化基地项目，计划总投资约3亿元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "台基股份：拟3亿元投建新型高功率半导体器件研发及产业化基地"
+    },
+    {
      "title": "必贝特：截至9月30日最新股东户数1.17万户，较上期增加4.77%",
      "link": "http://stock.eastmoney.com/news/11111,202610263908275173.html",
      "pubDate": "Mon, 26 Oct 2026 19:25:26 +0800",
@@ -2265,12 +2337,12 @@
      "zh": "必贝特：截至9月30日最新股东户数1.17万户，较上期增加4.77%"
     },
     {
-     "title": "江苏神通：截至9月30日最新股东户数2.69万户，较上期减少2.09%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908274833.html",
-     "pubDate": "Mon, 26 Oct 2026 19:24:25 +0800",
-     "summary": "江苏神通 最新披露数据显示，截至9月30日公司股东户数为2.69万户，较上期(2026年9月18日) 减少576户，降幅为2.09% 。户均持有流通股数量 由上期的1.70万股上升至1.74万股， 户均持股金额 由上期的22.94万元增加至23.82万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "title": "图解财报：兰花科创前三季归母净利润1.44亿元，同比增长1268.84%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263908275063.html",
+     "pubDate": "Mon, 26 Oct 2026 19:25:26 +0800",
+     "summary": "兰花科创 10月27日发布2026年 三季报显示，公司前三季 实现营业收入73.80亿元 ，同比增长25.39% ；归母净利润1.44亿元 ，同比增长1268.84% ；扣非归母净利润1.97亿元 ，同比增长190.13% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
      "source": "东方财富股票",
-     "zh": "江苏神通：截至9月30日最新股东户数2.69万户，较上期减少2.09%"
+     "zh": "图解财报：兰花科创前三季归母净利润1.44亿元，同比增长1268.84%"
     },
     {
      "title": "TenX Protocols appoints Michael Frankel as CFO",
@@ -2281,68 +2353,12 @@
      "zh": "TenX Protocols appoints Michael Frankel as CFO"
     },
     {
-     "title": "长虹美菱：截至9月30日最新股东户数6.08万户，较上期减少4.02%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908272854.html",
-     "pubDate": "Mon, 26 Oct 2026 19:23:30 +0800",
-     "summary": "长虹美菱 最新披露数据显示，截至9月30日公司股东户数为6.08万户，较上期(2026年6月30日) 减少2548户，降幅为4.02% 。户均持有流通股数量 由上期的1.61万股上升至1.68万股， 户均持股金额 由上期的8.77万元减少至7.32万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "长虹美菱：截至9月30日最新股东户数6.08万户，较上期减少4.02%"
-    },
-    {
-     "title": "图解财报：拓日新能前三季归母净利润-9966.95万元，上年同期-1.09亿元",
-     "link": "http://stock.eastmoney.com/news/11802,202610263908272765.html",
-     "pubDate": "Mon, 26 Oct 2026 19:23:30 +0800",
-     "summary": "拓日新能 10月27日发布2026年 三季报显示，公司前三季 实现营业收入7.17亿元 ，同比下滑11.74% ；归母净利润-9966.95万元 ；扣非归母净利润-1.03亿元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：拓日新能前三季归母净利润-9966.95万元，上年同期-1.09亿元"
-    },
-    {
-     "title": "图解财报：河钢资源前三季归母净利润-2595.68万元，上年同期5.38亿元",
-     "link": "http://stock.eastmoney.com/news/11802,202610263908271193.html",
-     "pubDate": "Mon, 26 Oct 2026 19:22:47 +0800",
-     "summary": "河钢资源 10月27日发布2026年 三季报显示，公司前三季 实现营业收入34.54亿元 ，同比下滑19.75% ；归母净利润-2595.68万元 ；扣非归母净利润1405.14万元 ，同比下滑97.39% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：河钢资源前三季归母净利润-2595.68万元，上年同期5.38亿元"
-    },
-    {
-     "title": "图解财报：ST龙大前三季归母净利润-2.79亿元，上年同期-3.47亿元",
-     "link": "http://stock.eastmoney.com/news/11802,202610263908271069.html",
-     "pubDate": "Mon, 26 Oct 2026 19:22:37 +0800",
-     "summary": "ST龙大 10月27日发布2026年 三季报显示，公司前三季 实现营业收入55.32亿元 ，同比下滑27.45% ；归母净利润-2.79亿元 ；扣非归母净利润-3.18亿元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：ST龙大前三季归母净利润-2.79亿元，上年同期-3.47亿元"
-    },
-    {
      "title": "EQT to buy Range Resources in $50B all-stock deal, creating largest U.S. gas producer",
      "link": "https://seekingalpha.com/news/4657081-eqt-to-buy-range-resources-in-50b-all-stock-deal-creating-largest-us-gas-producer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 26 Oct 2026 07:19:10 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "EQT to buy Range Resources in $50B all-stock deal, creating largest U.S. gas producer"
-    },
-    {
-     "title": "Moonshot AI resets Kimi K3.1 Pro quotas after user complaints",
-     "link": "https://seekingalpha.com/news/4657086-moonshot-ai-resets-kimi-k3_1-pro-quotas-after-user-complaints?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 07:17:37 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Moonshot AI resets Kimi K3.1 Pro quotas after user complaints"
-    },
-    {
-     "title": "Global X Bitcoin Covered Call ETF declares $0.0755 weekly dividend",
-     "link": "https://seekingalpha.com/news/4657089-global-x-bitcoin-covered-call-etf-declares-00755-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 07:16:53 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X Bitcoin Covered Call ETF declares $0.0755 weekly dividend"
-    },
-    {
-     "title": "IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF declares $0.074 weekly dividend",
-     "link": "https://seekingalpha.com/news/4657088-incomestkd-1x-us-stocks-1x-bitcoin-premium-etf-declares-0074-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 07:16:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF declares $0.074 weekly dividend"
     },
     {
      "title": "Meta预计2026年资本开支最高1450亿美元 计划通过股权融资等方式支持AI投资",
@@ -2359,14 +2375,6 @@
      "summary": "百亿级私募三季度调仓动作陆续出炉。 紫金矿业 最新发布的三季报显示，今年三季度，高毅资产基金经理邓晓峰管理的产品减持该公司近1500万股，期末位列 紫金矿业 第十大流通股东。同步减持的还有知名外资机构——阿布达比投资局，三季度减持数量超过了500万股。 记者采访获悉，面对科技板块的市场预期变化与宏观环境复杂性的提高，今年三季度不少头部私募进行了调仓换股。用业内人士的话来说，美联储加息与油价高企的背景下，持仓组合结构的再平衡愈发重要。 紫金矿业 三季报出炉 紫金矿业 最新发布的三季报显示，截至三季度末，邓晓峰管理的高毅晓峰2号致信基金持有该公司7800万股，相较于今年二季度末减持1478万股。与",
      "source": "东方财富资讯",
      "zh": "邓晓峰、中东资本同步减持矿业巨头！头部私募调仓换股"
-    },
-    {
-     "title": "IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF declares $0.046 weekly dividend",
-     "link": "https://seekingalpha.com/news/4657085-incomestkd-1x-bitcoin-1x-gold-premium-etf-declares-0046-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 07:11:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF declares $0.046 weekly dividend"
     },
     {
      "title": "Verizon’s stock rises as subscriber surge impresses Wall Street",
@@ -2487,14 +2495,6 @@
      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
      "source": "MarketWatch",
      "zh": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?"
-    },
-    {
-     "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;",
-     "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-     "pubDate": "Mon, 26 Oct 2026 10:13:01 GMT",
-     "summary": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
-     "source": "CNBC",
-     "zh": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 13:31:59",
+ "generated_at": "2026/10/26 13:50:36",
  "recent_days": 7,
  "industries": [
   {
@@ -1298,22 +1298,6 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
-     "title": "2026 October 26 – M42: The Great Nebula in Orion",
-     "link": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
-     "pubDate": "Mon, 26 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
-     "source": "NASA",
-     "zh": "2026 October 26 – M42: The Great Nebula in Orion"
-    },
-    {
-     "title": "Hunting Red Leaves with Satellites",
-     "link": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-     "pubDate": "Mon, 26 Oct 2026 04:01:00 +0000",
-     "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
-     "source": "NASA",
-     "zh": "Hunting Red Leaves with Satellites"
-    },
-    {
      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
      "link": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
      "pubDate": "Sun, 25 Oct 2026 18:21:44 +0000",
@@ -1336,14 +1320,6 @@ window.INDUSTRY_DATA = {
      "summary": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone.",
      "source": "Space.com",
      "zh": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know"
-    },
-    {
-     "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
-     "pubDate": "Sun, 25 Oct 2026 08:19:48 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w",
-     "source": "NASA",
-     "zh": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe"
     },
     {
      "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
@@ -1378,36 +1354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Medusa's eye, Halloween fireballs and more: 5 skywatching targets to look out for this spooky season"
     },
     {
-     "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-     "pubDate": "Sat, 24 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
-     "source": "NASA",
-     "zh": "APOD: 2026 October 24 – Rosetta’s Selfie"
-    },
-    {
      "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
      "link": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
      "pubDate": "Sat, 24 Oct 2026 03:25:36 +0000",
      "summary": "NASA released its October Artemis Update on Friday, covering the near-term status of the Space… The post NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths"
-    },
-    {
-     "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-     "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-     "pubDate": "Fri, 23 Oct 2026 22:39:39 +0000",
-     "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Sinc",
-     "source": "NASA",
-     "zh": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions"
-    },
-    {
-     "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-     "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-     "pubDate": "Fri, 23 Oct 2026 22:37:53 +0000",
-     "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmi",
-     "source": "NASA",
-     "zh": "NASA’s Artemis III Mission to Test Future Moon Lander Operations"
     },
     {
      "title": "NASA Outlines the Details of Artemis III and IV Missions",
@@ -1536,6 +1488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and… The post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week"
+    },
+    {
+     "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
+     "link": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
+     "pubDate": "Tue, 20 Oct 2026 05:01:48 +0000",
+     "summary": "Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s… The post Falcon 9 launches Bandwagon-5 rideshare mission from Florida appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida"
     }
    ]
   },
@@ -1762,6 +1722,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "乌克兰来信：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”",
+     "link": "https://www.huxiu.com/article/4900455.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 13:47:21 +0800",
+     "summary": "本文来自微信公众号： 底线思维 ，作者：安东·尼尔曼 近期，有关乌克兰战争的各种外交场合再次频繁出现“停火”“冻结战线”和“重启谈判”等字眼，持续四年多的俄乌冲突似乎终于显露出一丝转机。 10月下旬，美国总统特使威特科夫接连与俄乌领导人接触，俄罗斯原则上同意在11月10日后恢复俄美乌三方会谈，乌克兰则表示支持尽快启动谈判，并提出以冻结当前战线推动冲突降温。与此同时，特朗普宣称，结束冲突的目标“从未如此接近”。 这些表态为已经陷入僵局太久的和谈注入了新的想象空间。然而，谈判信号的增强并不等于和平条件已经成熟。就在各方讨论重启会谈之际，俄乌之间的相互袭击仍在持续，领土归属、安全保障等根源性问题也没",
+     "source": "虎嗅",
+     "zh": "乌克兰来信：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”"
+    },
+    {
+     "title": "卢拉逆势胜选：这是一场捍卫国家主权的“人民反击战”",
+     "link": "https://www.huxiu.com/article/4900454.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 13:46:45 +0800",
+     "summary": "本文来自微信公众号： 底线思维 ，作者：蒂亚戈·诺加拉 巴西总统大选第二轮投票上演了一场胶着的巅峰对决，最终以卢拉所领导的劳工党实现历史性逆转而告终，卢拉也由此第四次问鼎国家最高权力宝座。 自第一轮投票起，选战便围绕阻击极右翼候选人弗拉维奥·博索纳罗而陷入剧烈的两极分化，而后者的背后则是唐纳德·特朗普与美帝国主义利益集团的公开背书，外界对选战前夕及整个选举进程中剑拔弩张的政治紧张局势有目共睹。 而在第二轮投票期间，交通运输领域的部分资产阶级势力更是明目张胆地制造障碍，蓄意阻挠贫困选民前往投票站投票。这一伎俩精准针对的是卢拉大幅领先于博索纳罗的选民群体，尤其是巴西东北部地区以及各大中心城市外围边",
+     "source": "虎嗅",
+     "zh": "卢拉逆势胜选：这是一场捍卫国家主权的“人民反击战”"
+    },
+    {
+     "title": "如何讲述一个中国女性数学家的成功?：王虹获菲尔兹奖复盘",
+     "link": "https://www.huxiu.com/article/4900452.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 13:41:05 +0800",
+     "summary": "本文来自微信公众号： 深度训练营 ，编辑：黄子睿，作者：深度营，原文标题：《如何讲述一个中国女性数学家的成功?——王虹获菲尔兹奖复盘》 2026年7月23日，第21届菲尔兹奖在美国费城宾夕法尼亚州会展中心举行的国际数学家大会开幕式上揭晓。35岁的王虹、37岁的邓煜与另外两位数学家获奖。这是中国籍数学家首次获得菲尔兹奖，也是首次有两名中国籍数学家在同一届大会获奖。 获奖消息传入中文互联网后，各大媒体争相报道。与此同时，人们开始争论在新闻标题中该不该称王虹为“广西姑娘”，也借着她在颁奖视频中提及的“discouraged”一词重新谈起自己的教育经历。甚至她领奖时的配饰也成为讨论的焦点。 在下文中，",
+     "source": "虎嗅",
+     "zh": "如何讲述一个中国女性数学家的成功?：王虹获菲尔兹奖复盘"
+    },
+    {
+     "title": "全国多所财经高校布局“AI + 财经”",
+     "link": "https://www.ithome.com/1/017/877.htm",
+     "pubDate": "Mon, 26 Oct 2026 05:38:51 GMT",
+     "summary": "IT之家 10 月 26 日消息，据央视新闻今日报道，为推动财经教育数智化转型， 全国多所财经高校积极布局“AI+ 财经” ，探索 AI 赋能财经教育和研究转型升级。 在首都经济贸易大学，新成立的智能经济研究院正在对“融创智谷”平台进行升级。这是学校重点打造的“算力 — 算法 — 数据”一体化底座，通过统筹全校算力、共享数据资源，面向全校人才培养、科学研究和智库服务三类场景开放。 依托这一底座，学校持续推动教学方式和课程设置调整。 各学院可开发自己的垂类大模型和智能体，给不同专业配备不同的“智能助手” 。在人工智能学院的“词元经济”课堂，教学不再主要依托教材案例和历史数据，而是引入实时数据和智",
+     "source": "IT之家",
+     "zh": "全国多所财经高校布局“AI + 财经”"
+    },
+    {
+     "title": "比亚迪第二代海豹 07 盲订开启：定位 C 级全享家轿，轴距 2960mm",
+     "link": "https://www.ithome.com/1/017/876.htm",
+     "pubDate": "Mon, 26 Oct 2026 05:38:40 GMT",
+     "summary": "IT之家 10 月 26 日消息，比亚迪汽车海洋网销售事业部总经理张卓今日宣布，第二代海豹 07 盲订开启。 据介绍，盲订权益包含盲订臻享礼遇、优先排产提车以及自由选配三项内容。 IT之家获悉，新车提供帕拉青、极光粉、海雾紫、琉光银、雪域白以及曜石黑六款车色；云汐白、幻影灰、凝夜紫三种内饰配色可供选择；新车长宽高分别为 5080/1960/1495mm，轴距 2960mm。 内饰方面，第二代海豹 07 采用最新设计语言，搭载大尺寸悬浮中控屏，并配备液晶仪表；搭载全新三辐式方向盘，还搭载了 20 扬帝瓦雷音响。 座椅方面，第二代海豹 07 前排配备了零重力座椅，并提供按摩、通风及加热功能。其余配",
+     "source": "IT之家",
+     "zh": "比亚迪第二代海豹 07 盲订开启：定位 C 级全享家轿，轴距 2960mm"
+    },
+    {
+     "title": "从20米到41公里，张雪还是那个少年",
+     "link": "https://www.tmtpost.com/8181311.html",
+     "pubDate": "Mon, 26 Oct 2026 13:38:00 +0800",
+     "summary": "那份炙热，燃烧至今。",
+     "source": "钛媒体",
+     "zh": "从20米到41公里，张雪还是那个少年"
+    },
+    {
+     "title": "FCC阴影下，中国光芯片的生死竞速",
+     "link": "https://www.tmtpost.com/8181538.html",
+     "pubDate": "Mon, 26 Oct 2026 13:37:00 +0800",
+     "summary": "光芯片的难，和你想的不一样。",
+     "source": "钛媒体",
+     "zh": "FCC阴影下，中国光芯片的生死竞速"
+    },
+    {
+     "title": "从任泽平被取消“经济学家”认证说起",
+     "link": "https://www.huxiu.com/article/4900431.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 13:34:18 +0800",
+     "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培，题图来自：视觉中国 10月24日，任泽平的公众号&ldquo;泽平宏观&rdquo;因为违规而暂时被禁止新增关注。这不是什么新鲜事了，任泽平被封不是第一次，微博、微信、抖音都被封过，每次都很快放出来了。但是这一次， 他在微博等多个平台的&ldquo;经济学家&rdquo;认证被取消了，其账号处于不加V的&ldquo;裸奔&rdquo;状态 ，这可是头一次。问题比较严重。 任泽平这一次到底是为什么出事？原因无非两条之一： 要么是在没有投资咨询资格的情况下违规荐股 ，这是当前主管部门严查的行为，虽然任泽平此前解散了多个付费群，但恐怕尚未完",
+     "source": "虎嗅",
+     "zh": "从任泽平被取消“经济学家”认证说起"
+    },
+    {
+     "title": "安克、耐克客服失守，外挂生意为什么屡禁不止",
+     "link": "https://www.tmtpost.com/8181338.html",
+     "pubDate": "Mon, 26 Oct 2026 13:31:00 +0800",
+     "summary": "安克、耐克客服集体失守，背后是腾讯屡禁不止的外挂生意。谁在为效率买单，又是谁在承担风险？",
+     "source": "钛媒体",
+     "zh": "安克、耐克客服失守，外挂生意为什么屡禁不止"
+    },
+    {
+     "title": "从“拼模型”到“抢入口”：国产大模型进军消费硬件",
+     "link": "https://www.tmtpost.com/8181343.html",
+     "pubDate": "Mon, 26 Oct 2026 13:28:00 +0800",
+     "summary": "国产大模型开始转向。",
+     "source": "钛媒体",
+     "zh": "从“拼模型”到“抢入口”：国产大模型进军消费硬件"
+    },
+    {
      "title": "大学老师工资将通过数字人民币钱包发放，江苏多所高校收到通知",
      "link": "https://www.ithome.com/1/017/848.htm",
      "pubDate": "Mon, 26 Oct 2026 05:24:03 GMT",
@@ -1802,36 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "国航又多飞一段"
     },
     {
-     "title": "一天换一个身份，年轻人的“角色体验”生意火了",
-     "link": "https://www.tmtpost.com/8181678.html",
-     "pubDate": "Mon, 26 Oct 2026 13:13:00 +0800",
-     "summary": "为精彩人生付费。",
-     "source": "钛媒体",
-     "zh": "一天换一个身份，年轻人的“角色体验”生意火了"
-    },
-    {
-     "title": "绿泡泡阻击红果，障碍是不是微信？",
-     "link": "https://www.tmtpost.com/8181551.html",
-     "pubDate": "Mon, 26 Oct 2026 13:09:26 +0800",
-     "summary": "你最爱看哪部短剧？",
-     "source": "钛媒体",
-     "zh": "绿泡泡阻击红果，障碍是不是微信？"
-    },
-    {
      "title": "年轻人找工作不去大厂投简历，开始去夜市了。",
      "link": "https://www.huxiu.com/article/4900444.html?f=rss",
      "pubDate": "Mon, 26 Oct 2026 13:07:29 +0800",
      "summary": "本文来自微信公众号： 猎聘 ，作者：草木灰 晚上七点，夜市刚热闹起来。 有人拎着奶茶找小吃，有人站在招聘摊位前，低头看岗位信息。摊位旁没有面试间，也没有一连串复杂的线上测评。更多时候，年轻人只是先问一句：“这个岗位具体做什么？”“到手能有多少？”“周末能休吗？” 近日，云南丽江举办“夜市送岗·职遇丽江”招聘会。官方公告写道，活动创新采用“逛夜市、找岗位”模式，并设置企业招聘、政策咨询、简历指导等区域，方便求职者“白天务工、晚上求职”。 江苏泰州也在10月招聘计划中连续安排了多场“人才夜市”，地点设在商业街区、商场周边等夜间场景。 夜市里找工作，听起来像一个很新鲜的场景。年轻人不再执着于去大厂了",
      "source": "虎嗅",
      "zh": "年轻人找工作不去大厂投简历，开始去夜市了。"
-    },
-    {
-     "title": "如何成为一个有想法的人？",
-     "link": "https://www.huxiu.com/article/4900443.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 13:06:03 +0800",
-     "summary": "本文来自微信公众号： 乐鉴笔记 ，作者：乐鉴 最让人心虚的，有时不是没有想过。 是认真想了，拿出来的却还是几句熟话。 想写一段自己的看法，开头几条列得很快，回头一看，这个别人说过了，那个换谁都能写。再往下想，隔了半天，才勉强添上一句。 你原本只是对这几条不满意，后来却开始怀疑，自己是不是根本没有什么值得说的。 看别人谈起一个问题，总有新的角度。轮到自己，越想越慢，最后还是把文档关掉了。 可前面几条普通，后面又想得费劲，真的足够说明，你的想法就到这里了吗？ 先想到的，常常是最熟悉的 一个问题刚摆到面前，脑子里最容易出现的，通常是听过的话、用过的办法。 它们来得快，并不奇怪。真正要往下找时，原来的",
-     "source": "虎嗅",
-     "zh": "如何成为一个有想法的人？"
     },
     {
      "title": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)",
@@ -1842,36 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)"
     },
     {
-     "title": "Kimi认错，杨植麟还是得学梁文锋",
-     "link": "https://www.tmtpost.com/8181728.html",
-     "pubDate": "Mon, 26 Oct 2026 13:03:31 +0800",
-     "summary": "月之暗面发公告称返还25%额度，但K3.1 Pro的额度还是太少。",
-     "source": "钛媒体",
-     "zh": "Kimi认错，杨植麟还是得学梁文锋"
-    },
-    {
      "title": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起",
      "link": "https://www.ithome.com/1/017/845.htm",
      "pubDate": "Mon, 26 Oct 2026 05:00:50 GMT",
      "summary": "IT之家 10 月 26 日消息，魏牌高山 8 HEV 今日正式上市，号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起。 舒享版：统一零售价 26.58 万元，限时权益价 25.98 万元 甄享版：统一零售价 28.58 万元，限时权益价 27.98 万元 设计上，新车延续高山家族“高山流水”的设计语言，前脸采用横贯式格栅，前后灯组呈环抱式布局，分别寓意“步步高升”“家业圆满”。 车身尺寸方面，新车长宽高分别为 5280mm、1960mm、1900mm，轴距 3145mm；外观提供鎏光墨绿、丹宸紫、深空黑、云锦白、墨夜绿、流光金、雨空灰七种配色。 IT之家获悉，高山 8 ",
      "source": "IT之家",
      "zh": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起"
-    },
-    {
-     "title": "奈飞估值已经低于可口可乐，“爱优腾芒”们的天塌了",
-     "link": "https://www.tmtpost.com/8181693.html",
-     "pubDate": "Mon, 26 Oct 2026 12:59:52 +0800",
-     "summary": "订阅制流媒体增长撞上天花板。",
-     "source": "钛媒体",
-     "zh": "奈飞估值已经低于可口可乐，“爱优腾芒”们的天塌了"
-    },
-    {
-     "title": "Qwen4推理内核代码现身GitHub：27B架构细节引热议，新一代模型路线浮出水面？",
-     "link": "https://www.huxiu.com/article/4900440.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 12:59:17 +0800",
-     "summary": "本文来自微信公众号： AI前线 ，作者：四月 Qwen4尚未发布，但一份已合并的开源推理内核代码Pull Request（PR），却率先“透露”了架构线索。 这份PR来自阿里云重要芯片供应商英特尔GPU（XPU）推理加速仓库analytics-zoo/vllm-xpu-kernels，主要涉及英特尔GPU（XPU）的底层推理算子开发与优化。 在这条名为“Enable Qwen3.8-flash-next 8 cards fp8&int4 and optimize qwen4-27b”的PR里，开发者hzjane不仅将“qwen4-27b”直接挂在了标题上，还公开了与模型张量尺寸、注意力计算、残",
-     "source": "虎嗅",
-     "zh": "Qwen4推理内核代码现身GitHub：27B架构细节引热议，新一代模型路线浮出水面？"
     },
     {
      "title": "Gartner 调研显示：44% 的 CEO 难以证明 AI 的财务回报",
@@ -1882,30 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "Gartner 调研显示：44% 的 CEO 难以证明 AI 的财务回报"
     },
     {
-     "title": "小鹏“老登”风波：讨好年轻人，何必践踏中年人",
-     "link": "https://www.huxiu.com/article/4900439.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 12:53:05 +0800",
-     "summary": "本文来自微信公众号： 冰川思享号 ，作者：关不羽 “年轻人敢开老板玩笑的松弛”没问题，人际关系可以松弛，但企业经营管理不可以松懈。否则就成了拿投资人和消费者开玩笑了。 10月15日小鹏MONA L05预售发布会。00后产品经理恩塔（Etta）在演讲中多次使用“老登”一词，“拒绝登味审美”等贬义用语，引发舆论反感。 有网友问：想挣我钱，又喊我“老登”，你又算“老几”呢？ 话糙理不糙，问得有理。 01 整场发布会由95后、00后产品团队全权操盘，主打“年轻人的车自己定义”。但是，结果很让人失望。 得罪“老登”，即便从最接地气的商业角度讲也是莫名其妙的翻车。且不说SUV的主要消费群体以家庭用户，尤其",
-     "source": "虎嗅",
-     "zh": "小鹏“老登”风波：讨好年轻人，何必践踏中年人"
-    },
-    {
-     "title": "小米开源硬件 HachimoDock 亮相，150 元就能复刻万能 AI 桌宠",
-     "link": "https://www.ithome.com/1/017/842.htm",
-     "pubDate": "Mon, 26 Oct 2026 04:53:01 GMT",
-     "summary": "10 月 26 日中午消息，2026 观猹大会期间，由小米技术委创新产品团队孵化的开源 AI 硬件 HachimoDock 亮相 —— 这是一台可由用户按个人喜好自由改造的桌面 AI 设备，小巧机身集成了个性化桌宠、语音操控电脑端 Agent、智能家居联动、自定义组件创作等能力。 据介绍， HachimoDock 硬件自制成本约 150 元 。团队希望以此降低 AI 硬件的体验门槛，让它成为大众入门 Vibe Coding 的第一台 AI 硬件，体验用自然语言去“创造”一台万能桌面搭子的乐趣。 这台设备的功能不止于此： 用户说出想法，即可与 AI 协作，现场生成并运行新的组件 。基于这一开放机",
-     "source": "IT之家",
-     "zh": "小米开源硬件 HachimoDock 亮相，150 元就能复刻万能 AI 桌宠"
-    },
-    {
-     "title": "1 秒下载两万部 4K 电影：3.2Pb/s，我国团队创下单纤双向实时光传输容量的世界纪录",
-     "link": "https://www.ithome.com/1/017/841.htm",
-     "pubDate": "Mon, 26 Oct 2026 04:48:46 GMT",
-     "summary": "IT之家 10 月 26 日消息，据科技日报从中国信科集团光通信技术和网络全国重点实验室获悉，该实验室日前联合鹏城实验室、烽火藤仓光纤科技有限公司，成功完成 3.2Pb/s（拍比特每秒）多芯光纤实时双向传输试验， 创下单纤双向实时光传输容量的世界纪录 。 “3.2Pb/s 的传输速率， 意味着可在一秒内下载两万余部 4K 电影 。”中国信科集团光通信技术和网络全国重点实验室光系统高级工程师杨超表示，该方案验证了多芯光纤超宽带扩容路线产业化潜力，为大型算力枢纽互联、骨干传输及 6G 承载提供下一代高速光通信核心技术支撑。 随着人工智能、大模型计算及数据中心规模化发展，网络流量呈爆发式增长，传统单",
-     "source": "IT之家",
-     "zh": "1 秒下载两万部 4K 电影：3.2Pb/s，我国团队创下单纤双向实时光传输容量的世界纪录"
-    },
-    {
      "title": "A look at Toyota&apos;s robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)",
      "link": "https://www.techmeme.com/261026/p1#a261026p1",
      "pubDate": "Mon, 26 Oct 2026 00:40:01 -0400",
@@ -1914,26 +1882,18 @@ window.INDUSTRY_DATA = {
      "zh": "A look at Toyota&apos;s robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)"
     },
     {
-     "title": "生育支持政策越来越多，年轻人为什么还是不愿意生？",
-     "link": "https://www.huxiu.com/article/4900437.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 12:35:20 +0800",
-     "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 要不要生孩子的讨论，常常从一笔具体开支开始：托育每月多少钱，幼儿园离家多远，孩子生病时谁能请假。聊到后来，问题往往从花多少钱转向怎么安排生活：工作由谁调整，父母能帮多少忙，未来几年日子会变成什么样。 2025年，中国出生人口降至792万人，首次跌破800万。与此同时，育儿补贴、产假和育儿假、托育服务等支持措施陆续推出，生育支持正在从单一补贴走向多种制度安排。 然而，出生人口仍在下降。要理解这组反差，需要先拆开看：有多少女性处于适龄生育阶段，有多少人进入婚姻，进入婚姻后又有多少人选择生育。 出生人口下降，先把这道题拆开 人口学上，可以用一",
-     "source": "虎嗅",
-     "zh": "生育支持政策越来越多，年轻人为什么还是不愿意生？"
-    },
-    {
-     "title": "US Wages Share of GDI at 75 Year Low",
-     "link": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
-     "pubDate": "Mon, 26 Oct 2026 03:51:10 +0000",
-     "summary": "Article URL: https://fred.stlouisfed.org/series/W270RE1A156NBEA Comments URL: https://news.ycombinator.com/item?id=50238884 Points: 83 # Comments: 33",
+     "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+     "link": "https://proc-cli.com/",
+     "pubDate": "Mon, 26 Oct 2026 04:14:35 +0000",
+     "summary": "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 3 # Comments: 0",
      "source": "Hacker News",
-     "zh": "US Wages Share of GDI at 75 Year Low"
+     "zh": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management"
     },
     {
      "title": "Behind the scenes at the NeXT Computer office",
      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
      "pubDate": "Mon, 26 Oct 2026 03:31:11 +0000",
-     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 31 # Comments: 16",
+     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 35 # Comments: 17",
      "source": "Hacker News",
      "zh": "Behind the scenes at the NeXT Computer office"
     },
@@ -1941,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
      "pubDate": "Mon, 26 Oct 2026 03:29:05 +0000",
-     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 32 # Comments: 3",
+     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 39 # Comments: 5",
      "source": "Hacker News",
      "zh": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP"
     },
@@ -1957,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: TitleArt – Make text like it's 1997",
      "link": "https://titleart.dvy.io/",
      "pubDate": "Mon, 26 Oct 2026 03:23:57 +0000",
-     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 60 # Comments: 10",
+     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 64 # Comments: 11",
      "source": "Hacker News",
      "zh": "Show HN: TitleArt – Make text like it's 1997"
     },
@@ -1965,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
      "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
      "pubDate": "Mon, 26 Oct 2026 03:12:05 +0000",
-     "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 16 # Comments: 4",
+     "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 23 # Comments: 6",
      "source": "Hacker News",
      "zh": "Microsoft Decision-1: 9B Qwen Model Launch Explained"
     },
@@ -1989,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "IBM CEO says open weight models are now good and cheap on-prem",
      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
      "pubDate": "Mon, 26 Oct 2026 01:47:46 +0000",
-     "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 114 # Comments: 74",
+     "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 123 # Comments: 77",
      "source": "Hacker News",
      "zh": "IBM CEO says open weight models are now good and cheap on-prem"
     },
@@ -2009,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung’s first clip-on Galaxy Buds launch tomorrow, and there’s good news for global buyers",
+     "link": "https://www.androidauthority.com/samsung-galaxy-buds-on-launch-3727745/",
+     "pubDate": "Mon, 26 Oct 2026 05:40:39 +0000",
+     "summary": "Samsung's new Buds are all ears, and the world might be next.",
+     "source": "Android Authority",
+     "zh": "Samsung’s first clip-on Galaxy Buds launch tomorrow, and there’s good news for global buyers"
+    },
     {
      "title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
      "link": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
@@ -2048,6 +2016,14 @@ window.INDUSTRY_DATA = {
      "summary": "It looks like the iPhone Duo's screen problems may be just the beginning.",
      "source": "Android Authority",
      "zh": "After day-one screen failures, the iPhone Duo is facing more durability questions"
+    },
+    {
+     "title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+     "link": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+     "pubDate": "Mon, 26 Oct 2026 00:30:00 +0000",
+     "summary": "How locked in do you want to be?",
+     "source": "Engadget",
+     "zh": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?"
     },
     {
      "title": "Can you run regular Ethernet cables outside?",
@@ -2096,14 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?",
      "source": "Engadget",
      "zh": "Does TSA actually allow AirTags in your luggage? Here's what the rules say"
-    },
-    {
-     "title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
-     "link": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
-     "pubDate": "Sun, 25 Oct 2026 22:30:00 +0000",
-     "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
-     "source": "Engadget",
-     "zh": "Don't throw away your old, unsupported Nest gadgets — Do this instead"
     },
     {
      "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
@@ -2202,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Fitbit Edge vs Fitbit Air: Which health features do you actually get?"
     },
     {
-     "title": "The 7 tech products that truly improved my life",
-     "link": "https://www.androidauthority.com/tech-products-that-improved-my-life-3721701/",
-     "pubDate": "Sun, 25 Oct 2026 11:00:09 +0000",
-     "summary": "From my Sony headphones to Synology NAS, these are the 7 tech products that have genuinely improved my everyday life.",
-     "source": "Android Authority",
-     "zh": "The 7 tech products that truly improved my life"
-    },
-    {
      "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
      "link": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
      "pubDate": "Sun, 25 Oct 2026 10:45:33 +0000",
@@ -2258,52 +2218,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "海洋王10月26日加速下跌",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907865823.html",
-     "pubDate": "Mon, 26 Oct 2026 13:24:57 +0800",
-     "summary": "以下是 海洋王 在北京时间10月26日13:24分盘口异动快照： 10月26日， 海洋王 盘中加速下跌，5分钟内跌幅超过2%，截至13点24分，报11.15元，成交11.14亿元，换手率17.15%。 分笔 13:24:51 11.15 245↓ 13:24:48 11.16 192↓ 13:24:45 11.17 123↓ 13:24:42 11.19 189↓ 13:24:39 11.20 1498↓ 13:24:36 11.21 913↓ 13:24:33 11.23 205↑ 13:24:30 11.22 113↓ 13:24:27 11.23 21↑ 13:24:24 11.23 1",
+     "title": "兆威机电10月26日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907876345.html",
+     "pubDate": "Mon, 26 Oct 2026 13:42:42 +0800",
+     "summary": "以下是 兆威机电 在北京时间10月26日13:42分盘口异动快照： 10月26日， 兆威机电 盘中涨幅达5%，截至13点42分，报96.38元，成交20.73亿元，换手率10.64%。 分笔 13:42:33 96.38 59↑ 13:42:30 96.21 245↑ 13:42:27 96.21 75↑ 13:42:24 96.16 576↑ 13:42:21 95.99 218↑ 13:42:18 95.95 60↑ 13:42:15 95.93 18↑ 13:42:12 95.90 67↑ 13:42:09 95.89 29↑ 13:42:06 95.86 65↓ 报价 卖五 96.46",
      "source": "东方财富股票",
-     "zh": "海洋王10月26日加速下跌"
+     "zh": "兆威机电10月26日盘中涨幅达5%"
     },
     {
-     "title": "万马科技10月26日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907865643.html",
-     "pubDate": "Mon, 26 Oct 2026 13:24:38 +0800",
-     "summary": "以下是 万马科技 在北京时间10月26日13:24分盘口异动快照： 10月26日， 万马科技 盘中涨幅达5%，截至13点24分，报26.96元，成交4981.24万元，换手率1.61%。 分笔 13:24:24 26.96 64↑ 13:24:21 26.80 204↑ 13:24:18 26.66 119↑ 13:24:15 26.57 263↑ 13:24:12 26.44 147↑ 13:24:09 26.42 20↑ 13:24:06 26.41 6↓ 13:24:03 26.41 67↑ 13:24:00 26.33 5↓ 13:23:57 26.34 2↑ 报价 卖五 27 63 ",
+     "title": "安德利10月26日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907876230.html",
+     "pubDate": "Mon, 26 Oct 2026 13:42:22 +0800",
+     "summary": "以下是 安德利 在北京时间10月26日13:42分盘口异动快照： 10月26日， 安德利 盘中跌幅达5%，截至13点42分，报55.02元，成交8088.57万元，换手率0.53%。 分笔 13:42:16 55.02 9↓ 13:42:13 55.03 8↑ 13:42:10 55.03 9↑ 13:42:04 55.03 16↓ 13:41:46 55.05 7↓ 13:41:43 55.06 5↓ 13:41:40 55.07 3↓ 13:41:34 55.10 6↑ 13:41:16 55.06 1↓ 13:41:13 55.06 1↓ 报价 卖五 55.14 8 卖四 55.11 2",
      "source": "东方财富股票",
-     "zh": "万马科技10月26日盘中涨幅达5%"
+     "zh": "安德利10月26日盘中跌幅达5%"
     },
     {
-     "title": "依依股份10月26日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907865333.html",
-     "pubDate": "Mon, 26 Oct 2026 13:24:26 +0800",
-     "summary": "以下是 依依股份 在北京时间10月26日13:24分盘口异动快照： 10月26日， 依依股份 盘中快速上涨，5分钟内涨幅超过2%，截至13点24分，报17.27元，成交5390.46万元，换手率3.04%。 分笔 13:24:18 17.27 1333↑ 13:24:15 17.05 2↑ 13:24:12 17.02 24↑ 13:24:09 17.02 232↑ 13:24:06 16.99 40↑ 13:24:03 16.97 57↑ 13:24:00 16.95 2↑ 13:23:57 16.95 5↓ 13:23:54 16.95 20↑ 13:23:51 16.95 68↑ 报价 ",
+     "title": "天音控股10月26日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907876174.html",
+     "pubDate": "Mon, 26 Oct 2026 13:42:22 +0800",
+     "summary": "以下是 天音控股 在北京时间10月26日13:42分盘口异动快照： 10月26日13点42分， 天音控股 盘中打开涨停，现报9.26元，成交3.04亿元，换手率3.32%。该股之前于13点34分涨停。 分笔 13:42:15 9.26 5769↓ 13:42:12 9.38 17015↓ 13:42:09 9.38 372↓ 13:42:06 9.38 399↓ 13:42:03 9.38 312↓ 13:42:00 9.38 297↓ 13:41:57 9.38 198↓ 13:41:54 9.38 159↓ 13:41:51 9.38 15↓ 13:41:48 9.38 224↓ 报价 卖",
      "source": "东方财富股票",
-     "zh": "依依股份10月26日快速上涨"
+     "zh": "天音控股10月26日打开涨停"
     },
     {
-     "title": "万马科技10月26日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907865440.html",
-     "pubDate": "Mon, 26 Oct 2026 13:24:26 +0800",
-     "summary": "以下是 万马科技 在北京时间10月26日13:24分盘口异动快照： 10月26日， 万马科技 盘中快速上涨，5分钟内涨幅超过2%，截至13点24分，报26.44元，成交4808.11万元，换手率1.56%。 分笔 13:24:12 26.44 147↑ 13:24:09 26.42 20↑ 13:24:06 26.41 6↓ 13:24:03 26.41 67↑ 13:24:00 26.33 5↓ 13:23:57 26.34 2↑ 13:23:54 26.33 46↓ 13:23:51 26.33 141↑ 13:23:48 26.28 30↑ 13:23:45 26.27 10↓ 报价 卖",
+     "title": "宇树科技股价重回700元 本月累计涨幅超56%",
+     "link": "http://finance.eastmoney.com/news/1345,202610263907876018.html",
+     "pubDate": "Mon, 26 Oct 2026 13:41:56 +0800",
+     "summary": "宇树科技股价重回700元，本月累计涨幅超56%，总市值突破2850亿元。 消息面上，在2026世界物理AI大会暨宇树合作伙伴生态大会上，宇树科技创始人王兴兴表示全世界几乎所有人，对AI的重视程度和信仰都还不够，包括他自己。 随着GPT-6的发布，目前物理AI已经看到被击穿的苗头，很可能最近1-2年或2-3年，目前具身智能迈过ChatGPT时刻的最核心挑战是AI模型的输入输出和真实 机器人 的对齐。 他认为，在商业服务的落地会比家庭、工业领域更快些。",
      "source": "东方财富股票",
-     "zh": "万马科技10月26日快速上涨"
+     "zh": "宇树科技股价重回700元 本月累计涨幅超56%"
     },
     {
-     "title": "依依股份10月26日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907865257.html",
-     "pubDate": "Mon, 26 Oct 2026 13:24:26 +0800",
-     "summary": "以下是 依依股份 在北京时间10月26日13:24分盘口异动快照： 10月26日， 依依股份 盘中涨幅达5%，截至13点24分，报17.27元，成交5390.46万元，换手率3.04%。 分笔 13:24:18 17.27 1333↑ 13:24:15 17.05 2↑ 13:24:12 17.02 24↑ 13:24:09 17.02 232↑ 13:24:06 16.99 40↑ 13:24:03 16.97 57↑ 13:24:00 16.95 2↑ 13:23:57 16.95 5↓ 13:23:54 16.95 20↑ 13:23:51 16.95 68↑ 报价 卖五 17.32 5",
-     "source": "东方财富股票",
-     "zh": "依依股份10月26日盘中涨幅达5%"
+     "title": "宇树科技股价重回700元 本月累计涨幅超56% 总市值突破2850亿",
+     "link": "http://finance.eastmoney.com/news/1345,202610263907876018.html",
+     "pubDate": "Mon, 26 Oct 2026 13:41:56 +0800",
+     "summary": "宇树科技股价重回700元，本月累计涨幅超56%，总市值突破2850亿元。 消息面上，在2026世界物理AI大会暨宇树合作伙伴生态大会上，宇树科技创始人王兴兴表示全世界几乎所有人，对AI的重视程度和信仰都还不够，包括他自己。 随着GPT-6的发布，目前物理AI已经看到被击穿的苗头，很可能最近1-2年或2-3年，目前具身智能迈过ChatGPT时刻的最核心挑战是AI模型的输入输出和真实 机器人 的对齐。 他认为，在商业服务的落地会比家庭、工业领域更快些。",
+     "source": "东方财富资讯",
+     "zh": "宇树科技股价重回700元 本月累计涨幅超56% 总市值突破2850亿"
     },
     {
-     "title": "10月26日专业连锁Ⅲ板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907865190.html",
-     "pubDate": "Mon, 26 Oct 2026 13:24:17 +0800",
-     "summary": "&emsp;&emsp;10月26日13点24分， 专业连锁Ⅲ 板块指数报1257.986点，涨幅达2%，成交7.67亿元，换手率1.77%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 天音控股 报9.23元，涨8.21%； 爱施德 报8.02元，涨3.35%； 爱婴室 报13.24元，涨3.20%； 华致酒行 报10.67元，涨1.04%； 孩子王 报6.74元，涨0.30%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "title": "抄底资金又来了！近600亿元资金驰援股票ETF",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907871435.html",
+     "pubDate": "Mon, 26 Oct 2026 13:41:46 +0800",
+     "summary": "【导读】抄底资金又来了！股票ETF“吸金”近600亿元 10月23日，A股在低迷时刻超跌反弹，全天大幅收涨，可谓迎来“大奇迹日”。最新数据显示，背后神秘资金大举流入宽基ETF，为市场托底。 银河证券基金研究中心数据显示，10月23日，超587亿元资金流入股票ETF（含跨境ETF），这也是自7月21日以来，股票ETF单日最大资金净流入，其中，A股ETF资金净流入超594亿元，宽基ETF净流入超560亿元。 拉长时间看，自9月22日A股市场调整以来，股票ETF市场累计净流入资金已接近3400亿元，体现了监管层全力维护资本市场安全稳定的决心。 股票ETF单日“吸金”近600亿元 过去一周净流入近16",
      "source": "东方财富股票",
-     "zh": "10月26日专业连锁Ⅲ板块涨幅达2%"
+     "zh": "抄底资金又来了！近600亿元资金驰援股票ETF"
+    },
+    {
+     "title": "ST美克10月26日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907875775.html",
+     "pubDate": "Mon, 26 Oct 2026 13:41:29 +0800",
+     "summary": "以下是 ST美克 在北京时间10月26日13:41分盘口异动快照： 10月26日， ST美克 盘中跌幅达5%，截至13点41分，报3.38元，成交4569.27万元，换手率0.93%。 分笔 13:41:21 3.38 2↓ 13:41:18 3.39 4170↓ 13:41:15 3.39 9↓ 13:41:12 3.39 6↓ 13:41:03 3.39 1↓ 13:40:42 3.39 1↓ 13:40:33 3.39 10↓ 13:40:13 3.39 1↓ 13:40:04 3.39 1↓ 13:39:52 3.39 1↓ 报价 卖五 3.43 330 卖四 3.42 35 卖三 3",
+     "source": "东方财富股票",
+     "zh": "ST美克10月26日盘中跌幅达5%"
+    },
+    {
+     "title": "Quant snapshot: HF Sinclair, Intel lead top-rated names; Community Financial System, AXIS Capital Holdings lag",
+     "link": "https://seekingalpha.com/news/4656415-quant-snapshot-hf-sinclair-intel-lead-top-rated-names-community-financial-system-axis-capital-holdings-lag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 01:31:25 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Quant snapshot: HF Sinclair, Intel lead top-rated names; Community Financial System, AXIS Capital Holdings lag"
     },
     {
      "title": "‘Ticking time bomb’: The world&apos;s pension funds face an ageing crisis",
@@ -2312,6 +2288,22 @@ window.INDUSTRY_DATA = {
      "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
      "source": "CNBC",
      "zh": "‘Ticking time bomb’: The world&apos;s pension funds face an ageing crisis"
+    },
+    {
+     "title": "油气板块震荡回升 中国石油涨近4%创18年新高",
+     "link": "http://finance.eastmoney.com/news/1345,202610263907863746.html",
+     "pubDate": "Mon, 26 Oct 2026 13:22:28 +0800",
+     "summary": "油气板块日内震荡回升， 中国石油 涨近4%，创2008年5月以来新高，A+H股总市值站上2.3万亿， 中海油服 、 海油工程 、 海油发展 、 中国海油 均涨超3%。消息面上，欧洲 天然气 价格升至2022年以来的最高水平。此前挪威 天然气 运输系统运营商Gassco宣布，Troll气田在10月25日至26日期间发生非计划停运，影响规模为610万立方米/日。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "油气板块震荡回升 中国石油涨近4%创18年新高"
+    },
+    {
+     "title": "SK海力士周三即将官宣“大礼包”：或将派发超800亿元股息",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907862167.html",
+     "pubDate": "Mon, 26 Oct 2026 13:22:00 +0800",
+     "summary": "本周三，韩国存储巨头 SK海力士 即将对外发布第三季度财报。而该公司最近透露， SK海力士 届时还将同步对外公布股东回报相关举措。此前媒体报道称，公司正考虑派发规模约16万亿韩元（约合人民币808.47亿元）的特别股息。 SK海力士 将派发超800亿元股息？ 据韩媒周一报道，这笔特别股息的资金来源，或将是SK海力士出售日本存储厂商铠侠股权所获得的投资收益。 回溯至2018年，SK海力士曾通过贝恩资本牵头、汇集美、日、韩多方投资者的财团，向铠侠投入约4万亿韩元（约合人民币202.12亿元）。 今年早些时候，SK海力士完成了这笔股权的出售，但当时公司并未公开交易细节。分析师普遍预计，本次出售带来了",
+     "source": "东方财富资讯",
+     "zh": "SK海力士周三即将官宣“大礼包”：或将派发超800亿元股息"
     },
     {
      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
@@ -2410,6 +2402,22 @@ window.INDUSTRY_DATA = {
      "zh": "Venezuelan opposition leader Machado returns from exile"
     },
     {
+     "title": "直线拉升！3分钟 20%涨停！抄底资金涌入机器人赛道",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907816765.html",
+     "pubDate": "Mon, 26 Oct 2026 12:14:01 +0800",
+     "summary": "机器人 概念股再度异动！ 今日（10月26日）盘中，部分 机器人 概念股逆市上涨。开盘仅3分钟， 朗特智能 直线拉升至20%涨停；紧随其后， 中邮科技 也封死20%涨停。此外， 襄阳轴承 、 春光科技 、 北矿科技 、 光洋股份 、 万向钱潮 等10%涨停， 上纬新材 涨18%， 江苏北人 涨超15%， 模塑科技 涨超9%，宇树科技涨超8%。 东方财富 数据显示，截至中午收盘，A股人形 机器人 板块获得主力资金净流入近15亿元，位居两市第一。 消息面上，据央视财经报道，深圳海关最新数据显示，2026年1至9月，深圳市 机器人 合计出口134.49亿元，同比增长12.9倍。深圳海关所属深圳湾海关",
+     "source": "东方财富资讯",
+     "zh": "直线拉升！3分钟 20%涨停！抄底资金涌入机器人赛道"
+    },
+    {
+     "title": "打破18年来纪录，601857，逆市走高！算电协同重磅大会今日启幕，5只低PE+高股息概念股浮出水面",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907818279.html",
+     "pubDate": "Mon, 26 Oct 2026 12:14:00 +0800",
+     "summary": "在“双碳”目标与“ 东数西算 ”战略的驱动下，算电协同在全国范围内催生出一条横跨 新能源 与 数字经济 的万亿元级新赛道。 油气巨头股价创阶段新高 10月26日早盘，上证指数在3700点下方运行，创业板指、科创50指数盘中下探。科技类题材遭受重创， MLCC 、CPO、 PCB 、 玻璃基板 、 先进封装 等指数跌幅靠前。 MLCC 题材跌幅最大，概念股 华瓷股份 跌停， 三环集团 、 昀冢科技 、 洁美科技 、 双星新材 、 国瓷材料 、 东材科技 等跌逾5%。 传统类行业逆市走强，石油板块多股飘红，其中 中海油服 、 海油工程 、 中国海油 、 中国石油 、 中油工程 、 中国石化 等涨超",
+     "source": "东方财富资讯",
+     "zh": "打破18年来纪录，601857，逆市走高！算电协同重磅大会今日启幕，5只低PE+高股息概念股浮出水面"
+    },
+    {
      "title": "为何原油供应增加，油价缺降不下来？",
      "link": "https://wallstreetcn.com/articles/3784448",
      "pubDate": "Mon, 26 Oct 2026 12:12:16 +0800",
@@ -2448,54 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Innovent reports cancer drug results in breast, lung, pancreatic tumors"
-    },
-    {
-     "title": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Mon, 26 Oct 2026 11:47:15 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻"
-    },
-    {
-     "title": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施",
-     "link": "https://wallstreetcn.com/articles/3784447",
-     "pubDate": "Mon, 26 Oct 2026 11:42:47 +0800",
-     "summary": "SK海力士正站在一次重大股东回报决策的节点上。这家全球领先的内存芯片制造商周一确认，将于周三发布第三季度财报时，同步公布股东回报措施，外界普遍预期这将包括一笔规模高达 16万亿韩元（约121亿美元）的特别股息 。 华尔街见闻文章 写道，据韩国《东亚日报》援引投资银行业知情人士报道，上述特别股息资金来源为SK海力士出售日本存储芯片制造商铠侠（Kioxia）股权所获收益。据估计，SK海力士在今年第一季度及第二季度陆续清仓铠侠持股，扣除原始投资成本后，合计净利约达 20万亿韩元（约151亿美元） ，拟派发的16万亿韩元特别股息约相当于上述净利的八成。据路透社报道，当被证券交易所运营商问及相关报道时，",
-     "source": "华尔街见闻",
-     "zh": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施"
-    },
-    {
-     "title": "营收承压，削减9亿美元成本：宏盟收购IPG后的整合大考",
-     "link": "http://www.eeo.com.cn/2026/1026/1075784.shtml",
-     "pubDate": "Mon, 26 Oct 2026 11:40:31 +0800",
-     "summary": "财报解读 对于完成世纪并购的宏盟集团（Omnicom）而言，如何将规模优势转化为实际增长，正在成为一道现实考题。 近日，宏盟发布2026年第三季度财报。数据显示，集团当季总营收约64亿美元，核心业务营收约60亿美元，有机增长率达到7.2%，调整后EBITDA约11亿美元，利润率为18.2%。 表面上看，这是一份表现尚可的成绩单。但在完成对埃培智...",
-     "source": "经济观察网",
-     "zh": "营收承压，削减9亿美元成本：宏盟收购IPG后的整合大考"
-    },
-    {
-     "title": "2149家A股公司总资产三连增，谁在把规模变成价值？",
-     "link": "http://www.eeo.com.cn/2026/1026/1075776.shtml",
-     "pubDate": "Mon, 26 Oct 2026 11:15:09 +0800",
-     "summary": "2149家A股公司总资产连续三年增长，但“做大”只是开始，资产流向哪里、能否转化为真实价值，才是更值得关注的答案。",
-     "source": "经济观察网",
-     "zh": "2149家A股公司总资产三连增，谁在把规模变成价值？"
-    },
-    {
-     "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
-     "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-     "pubDate": "Mon, 26 Oct 2026 01:50:00 GMT",
-     "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
-     "source": "MarketWatch",
-     "zh": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals"
-    },
-    {
-     "title": "After stunning victory, Lula will face a deep hangover",
-     "link": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1",
-     "pubDate": "Mon, 26 Oct 2026 01:15:16 GMT",
-     "summary": "Veteran leader will be challenged by battles with congress and high debt levels after rightward shift of centre of political gravity",
-     "source": "Financial Times",
-     "zh": "After stunning victory, Lula will face a deep hangover"
     }
    ]
   },

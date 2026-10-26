@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/27 07:15:35",
+ "generated_at": "2026/10/27 07:52:33",
  "recent_days": 7,
  "industries": [
   {
@@ -1090,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib",
+     "link": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss",
+     "pubDate": "Mon, 26 Oct 2026 23:17:13 +0000",
+     "summary": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer.",
+     "source": "STAT News",
+     "zh": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib"
+    },
+    {
      "title": "STAT+: Nonprofit Bon Secours Mercy Health strikes $5.7 billion deal for surgery center chain",
      "link": "https://www.statnews.com/2026/10/26/bon-secours-mercy-health-surgery-partners-deal-ambulatory-surgery-centers-bain-capital/?utm_campaign=rss",
      "pubDate": "Mon, 26 Oct 2026 21:54:24 +0000",
@@ -1250,14 +1258,6 @@ window.INDUSTRY_DATA = {
      "zh": "Aspen, Bambusa target $135M IPOs; AstraZeneca vs. Takeda in gastric cancer ADCs"
     },
     {
-     "title": "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown",
-     "link": "https://www.statnews.com/2026/10/26/health-insurance-costs-medicaid-challenges-cms-fraud-crackdown-dc-diagnosis/?utm_campaign=rss",
-     "pubDate": "Mon, 26 Oct 2026 14:38:28 +0000",
-     "summary": "The cost of health insurance is surging, and CMS presses ahead with a new fraud crackdown.",
-     "source": "STAT News",
-     "zh": "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown"
-    },
-    {
      "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
      "link": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
      "pubDate": "Mon, 26 Oct 2026 09:59:35 -0400",
@@ -1289,6 +1289,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+     "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+     "pubDate": "Mon, 26 Oct 2026 22:48:12 +0000",
+     "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a ",
+     "source": "NASA",
+     "zh": "NASA’s Perseverance Views Dust at Neretva Vallis"
+    },
     {
      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
      "link": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
@@ -1392,14 +1400,6 @@ window.INDUSTRY_DATA = {
      "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
      "source": "NASA",
      "zh": "NASA Invites Media to Moon Landing Simulation Experience in California"
-    },
-    {
-     "title": "NASA’s X-59 Aircraft and Test Pilot",
-     "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
-     "pubDate": "Mon, 26 Oct 2026 15:25:47 +0000",
-     "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from N",
-     "source": "NASA",
-     "zh": "NASA’s X-59 Aircraft and Test Pilot"
     },
     {
      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
@@ -1746,6 +1746,102 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Instagram 测试 90 分钟横屏长视频，叫板 YouTube",
+     "link": "https://www.ithome.com/1/018/204.htm",
+     "pubDate": "Mon, 26 Oct 2026 23:40:34 GMT",
+     "summary": "IT之家 10 月 27 日消息，Instagram 已经联合美国部分创作者，开始测试名为 Features 的全新横版视频格式，用于平台上的长内容创作。 据《好莱坞报道》消息，这类长视频最长可达 90 分钟，主要面向喜剧博主、播客主播这类创作者。Instagram 还借鉴了 YouTube 的相关视频功能：创作者可以把播客里的短视频片段发布到 Reels，再把片段链接指向这条主 Features 视频。 至于和创作者的广告分成机制（这也是 YouTube 业务很核心的一环），Instagram 目前还没有推出类似的官方合作计划。不过产品副总裁泰莎 · 莱昂斯（Tessa Lyons）表示，创",
+     "source": "IT之家",
+     "zh": "Instagram 测试 90 分钟横屏长视频，叫板 YouTube"
+    },
+    {
+     "title": "单日再涨7.69%，宇树科技股价反弹后的估值拷问",
+     "link": "https://www.huxiu.com/article/4900649.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 07:38:49 +0800",
+     "summary": "本文来自微信公众号： 科创板日报 ，作者：黄心怡，原文标题：《单日再涨7.69%！宇树科技股价反弹后的估值拷问》 单日再涨7.69%，市值重返2700亿元……宇树科技用一轮股价上涨，把“人形机器人第一股”的估值争议再次推到聚光灯下。 截至10月26日收盘，宇树科技报672元/股。总市值2718亿元。10月16日以来的7个交易日累计反弹幅度达到65.89%。 就在盘后，公司发布股票交易异常波动公告，直言滚动市盈率已达465.22倍，显著高于通用设备制造业平均的38.54倍，并提示人形机器人行业尚处于商业化早期，技术成熟度、下游市场需求培育、产业链配套能力均存在不确定性。物理AI技术从实验室演示走",
+     "source": "虎嗅",
+     "zh": "单日再涨7.69%，宇树科技股价反弹后的估值拷问"
+    },
+    {
+     "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
+     "link": "https://www.ithome.com/1/018/203.htm",
+     "pubDate": "Mon, 26 Oct 2026 23:37:17 GMT",
+     "summary": "IT之家 10 月 27 日消息，OpenAI 宣布，其 AI 模型在数学、计算机科学和物理学领域取得三项重大突破，展现出 AI 独立发现并证明复杂科学理论的能力，而不只是回答问题或辅助研究。 在数学领域，AI 证明了适用于所有维度的局部光滑猜想，并由此解决 局部光滑猜想与挂谷猜想 。 在计算机科学领域，AI 推翻了 长期被广泛接受的指数时间假设 ，意味着未来可能找到速度更快的算法。 在物理学领域，AI 提出 量子色动力学及杨–米尔斯理论的严格数学存在性证明 ，涉及世界七大千禧年数学难题之一。 OpenAI 表示，数学和计算机科学成果已通过 Lean 数学验证工具进行形式化验证，并公开证明材料",
+     "source": "IT之家",
+     "zh": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题"
+    },
+    {
+     "title": "微软 Win11 测试新功能：可在设置、开始菜单里直接开启 Microsoft 365 自动续费",
+     "link": "https://www.ithome.com/1/018/202.htm",
+     "pubDate": "Mon, 26 Oct 2026 23:34:09 GMT",
+     "summary": "IT之家 10 月 27 日消息，微软于当地时间上周五推送了最新的 Windows 11 预览版系统。除新增内置网速测试等值得关注的改动之外，微软还在测试一项新的内嵌功能，允许订阅用户直接在 Windows 的设置应用里重新开启自动续费。 微软表示，这项新功能面向已经拥有 Microsoft 365 订阅、但关闭了自动续费的用户。系统不再跳转至独立网页，现在可以直接在设置主页、账户页面，甚至开始菜单中展示“开启自动续费”或“设置自动续费”选项。 微软称该功能是为了简化订阅管理，这点确实成立。与此同时，这也让微软多了一个在 Windows 11 内部向用户展示 Microsoft 365 的渠道",
+     "source": "IT之家",
+     "zh": "微软 Win11 测试新功能：可在设置、开始菜单里直接开启 Microsoft 365 自动续费"
+    },
+    {
+     "title": "好工作为什么难找-从豆豉鲮鱼说起",
+     "link": "https://www.huxiu.com/article/4900648.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 07:33:28 +0800",
+     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 创新艰难 之前唐僧在文章里写过一句：好的东西都是不流通的，好工作也是不流通的。 大致意思就是这么多年下来，好的岗位早就被固化了。在当前这个岗位上的人再干30年退休之前，好的岗位不会被释放出来做招聘，即便释放出来，那也一定是“内部人”优先获得，不会大路货到市场上到处去“抢人”。 为了再说清楚一点，唐僧今天讲我爱吃的豆豉鲮鱼油麦菜中的豆豉鲮鱼罐头： 鲮鱼这种品类基本上就只在珠三角养殖，鲜鲮鱼在粤菜里面也不是没有别的做法，比如：煎酿鲮鱼、鲮鱼球或者豉汁蒸鲮鱼，但是你只要吃的足够多就会发现这几种做法跟豆豉鲮鱼这种本来不该上台面的“罐头做法”味道上都有",
+     "source": "虎嗅",
+     "zh": "好工作为什么难找-从豆豉鲮鱼说起"
+    },
+    {
+     "title": "Anthropic 招股书披露：曾因安全顾虑暂停旗舰 AI 模型训练一个多月",
+     "link": "https://www.ithome.com/1/018/201.htm",
+     "pubDate": "Mon, 26 Oct 2026 23:28:31 GMT",
+     "summary": "IT之家 10 月 27 日消息，Anthropic 在当地时间周一公布的 IPO 招股文件中披露，出于安全方面的顾虑，该公司曾暂停下一代旗舰 AI 模型的训练长达一个多月；另外还有四个 AI 智能体在测试期间突破限制，接入了真实的外部计算机系统。 IT之家注意到，这家 Claude 开发企业在文件的风险提示章节中表示，其推迟了一款全新前沿基础模型的预训练工作，目的是强化防护机制，防止模型权重与知识产权被盗。 这份披露内容展现出，研发能力越来越强的 AI 模型会伴随各类安全难题，部分从业者已经发出警示，这类技术未来有可能脱离人类管控。竞争对手 OpenAI 今年早些时候也曾因为安全问题暂停部分",
+     "source": "IT之家",
+     "zh": "Anthropic 招股书披露：曾因安全顾虑暂停旗舰 AI 模型训练一个多月"
+    },
+    {
+     "title": "OpenAI 低成本新模型 GPT-6.1 Terra 深夜炸场：每项任务成本仅 Claude Opus 5.5 九分之一，更快更准确",
+     "link": "https://www.ithome.com/1/018/200.htm",
+     "pubDate": "Mon, 26 Oct 2026 23:26:19 GMT",
+     "summary": "IT之家 10 月 27 日消息，OpenAI 今天（27 日）凌晨宣布推出新模型 GPT-6.1 Terra，主打以更低成本完成复杂的电脑操作任务，尤其擅长需要视觉推理和操作桌面软件的工作。与 GPT-5.6 Terra 相比，新模型在事实准确性和编程能力方面也有大幅提升。 Terra 主要面向希望降低自动化成本的企业，可用于处理发票、解读技术图纸等工作。OpenAI 称，面对难度较高的专业任务，Terra 也能以远低于高价模型的成本完成。 在考察复杂专业工作的 Agents’ Last Exam 基准测试中，Terra 的成绩明显提高。测试项目包括根据建筑图纸建立三维模型，以及逐一记录电影",
+     "source": "IT之家",
+     "zh": "OpenAI 低成本新模型 GPT-6.1 Terra 深夜炸场：每项任务成本仅 Claude Opus 5.5 九分之一，更快更准确"
+    },
+    {
+     "title": "AI大厂不相信明星员工",
+     "link": "https://www.huxiu.com/article/4900398.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 07:25:47 +0800",
+     "summary": "本文来自微信公众号： AI故事计划 ，作者：田密，编辑：张霞，题图来自：视觉中国 天才们有个规律，一出名，就离走人不远了。 前脚姚顺宇被曝离职创业，后脚陈广宇奔赴旧金山湾区。再往前，林俊旸凌晨一句&ldquo;bye my beloved qwen&rdquo;，单方面宣告与老东家通义千问解除关系。 那些进入到媒体视野的AI天才，总是组织里最不稳定的因素。一出名就走，是这场抢人大战里最鲜亮热闹的一环。 出名，个人的一次上市 &ldquo;感谢一切！尤其是当年相信并聘用一个16岁的我。&rdquo;10月15日，陈广宇在社交媒体上发帖，宣布离开Kimi。 评论区很快变成招聘现场。Anthropi",
+     "source": "虎嗅",
+     "zh": "AI大厂不相信明星员工"
+    },
+    {
+     "title": "China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them",
+     "link": "https://www.tmtpost.com/8182953.html",
+     "pubDate": "Tue, 27 Oct 2026 07:23:04 +0800",
+     "summary": "Tencent’s QClaw will shut after 188 days in public test. Across eight major AI firms and ten product lanes, launches arrive in weeks and independent brands exit through renames, mergers, or shutdowns. Capability is migrating into general assistants as the next fight shifts to personal agents.",
+     "source": "钛媒体",
+     "zh": "China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them"
+    },
+    {
+     "title": "630 亿美元！华尔街银行与黑石为 Anthropic 采购博通 AI 芯片提供融资",
+     "link": "https://www.ithome.com/1/018/199.htm",
+     "pubDate": "Mon, 26 Oct 2026 23:20:26 GMT",
+     "summary": "IT之家 10 月 27 日消息，据路透社报道，美国银行（Bank of America）、黑石（Blackstone）、花旗（Citi）和摩根士丹利（Morgan Stanley）将提供 630 亿美元 （IT之家注：现汇率约合 4,206.79 亿元人民币） 融资，用于为 Anthropic 采购博通（Broadcom）的人工智能芯片与网络设备，这是和人工智能算力建设相关的规模最大的一笔债务交易之一。 人工智能需求持续走高，各大科技企业争相储备算力，支撑复杂度不断提升的业务负载，由此催生了对计算基础设施的巨额投入。 相关企业当地时间周一表示，这笔交易将通过一家新设立的特殊目的实体实施，由该",
+     "source": "IT之家",
+     "zh": "630 亿美元！华尔街银行与黑石为 Anthropic 采购博通 AI 芯片提供融资"
+    },
+    {
+     "title": "【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通",
+     "link": "https://www.tmtpost.com/8182711.html",
+     "pubDate": "Tue, 27 Oct 2026 07:20:00 +0800",
+     "summary": "上纬新材、宇树科技连续3日涨幅偏离值累超30%，紧急提示风险；寒武纪董事长辟谣“明年芯片出货超100万颗”传闻；药明康德Q3净利润同比增长137%，上调全年收入指引；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市；苹果据称测试折叠屏大尺寸iPad；全球首创，香港首批合规公募数字基金7*24实时交易获批。",
+     "source": "钛媒体",
+     "zh": "【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通"
+    },
+    {
+     "title": "小鹏产品经理争议性发言及其后续的观感",
+     "link": "https://www.huxiu.com/article/4900616.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 07:15:38 +0800",
+     "summary": "本文来自微信公众号： 扯氮集 ，作者：魏武挥二世，题图来自：视觉中国 一 1.1、很多年前，有个大厂做了一款社交产品，定位是它主力app的一个辅助。不过，这款产品的90后产品经理 （当时当然也是刚踏上社会的年轻小姑娘） 在发布会上q了张小龙，口称龙叔。宣讲时调侃了龙叔，虽然其实作为现场观众的我，总体感觉还是善意的，但我后来还是和朋友们 （也包括该厂的朋友） 说，一个小年轻哪里晓得人际沟通里微妙但绝不可忽视的弯弯绕。可以这么说，微信是中国甚至是全球对人性洞察最深的社交产品，没有之一。这份洞察，年轻不是资本，反倒是劣势。所以，我对那个发布会主题&ldquo;年轻so young&rdquo;是不怎",
+     "source": "虎嗅",
+     "zh": "小鹏产品经理争议性发言及其后续的观感"
+    },
+    {
      "title": "贾可对话许敏：中国汽车还需要第二本《十万个为什么》",
      "link": "https://www.huxiu.com/article/4900647.html?f=rss",
      "pubDate": "Tue, 27 Oct 2026 07:10:40 +0800",
@@ -1762,34 +1858,18 @@ window.INDUSTRY_DATA = {
      "zh": "Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments (Ray Maker/DC Rainmaker)"
     },
     {
-     "title": "Anthropic 招股书披露生态打法：打造高粘性企业客户体系",
-     "link": "https://www.ithome.com/1/018/198.htm",
-     "pubDate": "Mon, 26 Oct 2026 23:08:58 GMT",
-     "summary": "IT之家 10 月 27 日消息，Anthropic 正在打造一套跨产品生态，正是这类生态让亚马逊、优步等科技企业拥有极强的用户粘性，其 S-1 招股文件显示这套策略已经初见成效。目前，年消费至少十万美元的客户里，超过一半会同时使用 Claude 平台以及 Claude Code、Cowork 这类第一方应用；去年年底这一比例大约只有三成。 这份当地时间周一提交给美国证券交易委员会的 S-1 文件写道：“企业客户的采纳速度与深度，有力证明 Claude 处在人工智能领域的前沿位置。” 截至 9 月 30 日，Anthropic 有超过 11900 家客户年消费不低于 10 美元 （IT之家注：",
-     "source": "IT之家",
-     "zh": "Anthropic 招股书披露生态打法：打造高粘性企业客户体系"
-    },
-    {
-     "title": "微软向约 6 万名员工推出自愿离职买断方案，适配 AI 时代人员结构调整",
-     "link": "https://www.ithome.com/1/018/197.htm",
-     "pubDate": "Mon, 26 Oct 2026 22:57:21 GMT",
-     "summary": "IT之家 10 月 27 日消息，微软于当地时间周一向科技媒体 TechCrunch 证实，公司正向约 6 万名员工提供自愿离职买断方案。此举是微软为削减成本、适配人工智能时代调整人员结构的最新举措。 微软首席人力官埃米 · 科尔曼（Amy Coleman）向员工发送了关于本次买断方案的通知，IT之家注意到，这份通知也同步发布在微软官网。 通知显示，美国、加拿大、印度和英国部分团队中副总裁级别及以下的员工符合申请资格。据彭博社报道，参与本次买断计划的部门包括 Xbox、Windows、Copilot 以及财务部门。数据中心、销售和市场营销等岗位的部分员工不在此次范围内。 发给员工的通知写道：“",
-     "source": "IT之家",
-     "zh": "微软向约 6 万名员工推出自愿离职买断方案，适配 AI 时代人员结构调整"
-    },
-    {
-     "title": "苹果回应 iPhone Duo 内屏开裂问题：仅少量设备受影响，可申请换机",
-     "link": "https://www.ithome.com/1/018/196.htm",
-     "pubDate": "Mon, 26 Oct 2026 22:48:11 GMT",
-     "summary": "IT之家 10 月 27 日消息，iPhone Duo 上市不久，就有部分用户反馈铰链故障，导致内屏出现裂纹。苹果现已在给 MacRumors 的一份声明中回应了相关消息，称受影响的设备数量很少。 苹果回应如下： 首批用户对 iPhone Duo 的反馈整体非常好，开发者也在快速更新应用，适配这款产品独特的形态，带来了不少亮眼的成果。我们留意到有少量 iPhone Duo 设备存在内屏故障问题。如果用户遇到 iPhone Duo 屏幕相关故障，可以联系苹果官方客服 AppleCare 申请更换。 苹果没有说明裂痕产生的原因，也没有透露是否会推出修复方案。受影响的用户可以到线下门店更换新机，但由",
-     "source": "IT之家",
-     "zh": "苹果回应 iPhone Duo 内屏开裂问题：仅少量设备受影响，可申请换机"
+     "title": "Just Imagining a Workout Can Make You Stronger",
+     "link": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
+     "pubDate": "Mon, 26 Oct 2026 23:08:27 +0000",
+     "summary": "Article URL: https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068 Comments URL: https://news.ycombinator.com/item?id=50252457 Points: 20 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Just Imagining a Workout Can Make You Stronger"
     },
     {
      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
      "pubDate": "Mon, 26 Oct 2026 22:41:48 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 18 # Comments: 6",
+     "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 26 # Comments: 6",
      "source": "Hacker News",
      "zh": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)"
     },
@@ -1802,10 +1882,18 @@ window.INDUSTRY_DATA = {
      "zh": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’"
     },
     {
+     "title": "Microsoft offers to buy out a quarter of its workforce",
+     "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+     "pubDate": "Mon, 26 Oct 2026 22:36:06 +0000",
+     "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+     "source": "Ars Technica",
+     "zh": "Microsoft offers to buy out a quarter of its workforce"
+    },
+    {
      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
      "pubDate": "Mon, 26 Oct 2026 22:27:17 +0000",
-     "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 7 # Comments: 5",
      "source": "Hacker News",
      "zh": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It"
     },
@@ -1818,18 +1906,18 @@ window.INDUSTRY_DATA = {
      "zh": "当知识不再稀缺：大模型时代企业知识管理的四重风险"
     },
     {
-     "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+     "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
      "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
      "pubDate": "Mon, 26 Oct 2026 22:00:00 +0000",
-     "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+     "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
      "source": "TechCrunch",
-     "zh": "Databricks co-founder shares his secrets for winning big enterprises customers"
+     "zh": "Databricks co-founder shares his secrets for winning big enterprise customers"
     },
     {
      "title": "The Exponential Time Hypothesis Is False [pdf]",
      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
      "pubDate": "Mon, 26 Oct 2026 21:59:15 +0000",
-     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 26 # Comments: 3",
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 86 # Comments: 26",
      "source": "Hacker News",
      "zh": "The Exponential Time Hypothesis Is False [pdf]"
     },
@@ -1861,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "CorridorKey 2.0",
      "link": "https://corridorkey.com/",
      "pubDate": "Mon, 26 Oct 2026 21:18:05 +0000",
-     "summary": "Article URL: https://corridorkey.com/ Comments URL: https://news.ycombinator.com/item?id=50251127 Points: 111 # Comments: 30",
+     "summary": "Article URL: https://corridorkey.com/ Comments URL: https://news.ycombinator.com/item?id=50251127 Points: 141 # Comments: 44",
      "source": "Hacker News",
      "zh": "CorridorKey 2.0"
     },
@@ -1896,94 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Case study gives a whole new meaning to \"bedroom eyes.\"",
      "source": "Ars Technica",
      "zh": "Worms mate in man's eyes, get plucked out right before larvae burst out"
-    },
-    {
-     "title": "Anthropic&apos;s IPO outlines an unusual succession plan: confidential, ranked lists of up to 10 successors per co-founder, subject to approval from five co-founders (Anna Tong/Forbes)",
-     "link": "https://www.techmeme.com/261026/p45#a261026p45",
-     "pubDate": "Mon, 26 Oct 2026 16:25:00 -0400",
-     "summary": "Anna Tong / Forbes : Anthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to 10 successors per co-founder, subject to approval from five co-founders &nbsp; &mdash;&nbsp; Anthropic's IPO includes a private line of succession: confidential lists of would-be heirs to it",
-     "source": "Techmeme",
-     "zh": "Anthropic&apos;s IPO outlines an unusual succession plan: confidential, ranked lists of up to 10 successors per co-founder, subject to approval from five co-founders (Anna Tong/Forbes)"
-    },
-    {
-     "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
-     "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
-     "pubDate": "Mon, 26 Oct 2026 20:15:07 +0000",
-     "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes .",
-     "source": "Ars Technica",
-     "zh": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes"
-    },
-    {
-     "title": "Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks",
-     "link": "https://www.wired.com/story/anker-halloween-sale-oct-2026/",
-     "pubDate": "Mon, 26 Oct 2026 20:13:46 +0000",
-     "summary": "Avoid the scariest thing this Halloween (your phone at 1 percent) with Anker's 20 percent off sale on all charging gear.",
-     "source": "WIRED",
-     "zh": "Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks"
-    },
-    {
-     "title": "Cadence 2026 财年第三财季归母净利润 2.9 亿美元，同比增长 0.91%",
-     "link": "https://www.ithome.com/1/018/193.htm",
-     "pubDate": "Mon, 26 Oct 2026 20:06:48 GMT",
-     "summary": "IT之家 10 月 27 日消息，Cadence今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：16.33 亿美元 （IT之家注：现汇率约合 109.06 亿元人民币） ，同比增长 22% 毛利润 ：13.98 亿美元 （现汇率约合 93.33 亿元人民币） ，同比增长 20.84% 毛利率 ：85.57%，同比下降 0.82 个百分点 归母净利润 ：2.9 亿美元 （现汇率约合 19.35 亿元人民币） ，同比增长 0.91% 基本每股收益 ：1.06 美元 （现汇率约合 7.08 元人民币）",
-     "source": "IT之家",
-     "zh": "Cadence 2026 财年第三财季归母净利润 2.9 亿美元，同比增长 0.91%"
-    },
-    {
-     "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-     "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-     "pubDate": "Mon, 26 Oct 2026 20:04:16 +0000",
-     "summary": "Included is the ability to limit which applications Siri can directly access.",
-     "source": "Ars Technica",
-     "zh": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo"
-    },
-    {
-     "title": "Sources: Hong Kong-based stablecoin payments startup RedotPay plans a US IPO filing by year-end and is in talks for a pre-IPO round at a $4B to $5B valuation (Olga Kharif/Bloomberg)",
-     "link": "https://www.techmeme.com/261026/p44#a261026p44",
-     "pubDate": "Mon, 26 Oct 2026 15:55:02 -0400",
-     "summary": "Olga Kharif / Bloomberg : Sources: Hong Kong-based stablecoin payments startup RedotPay plans a US IPO filing by year-end and is in talks for a pre-IPO round at a $4B to $5B valuation &nbsp; &mdash;&nbsp; Crypto firm Redotpay is considering filing confidentially for a US initial public offering by y",
-     "source": "Techmeme",
-     "zh": "Sources: Hong Kong-based stablecoin payments startup RedotPay plans a US IPO filing by year-end and is in talks for a pre-IPO round at a $4B to $5B valuation (Olga Kharif/Bloomberg)"
-    },
-    {
-     "title": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now",
-     "link": "https://www.wired.com/story/apple-airtag-deal-october-2026/",
-     "pubDate": "Mon, 26 Oct 2026 19:40:31 +0000",
-     "summary": "Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker.",
-     "source": "WIRED",
-     "zh": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now"
-    },
-    {
-     "title": "Magic state cultivation on a superconducting quantum processor",
-     "link": "https://arxiv.org/abs/2512.13908",
-     "pubDate": "Mon, 26 Oct 2026 19:37:59 +0000",
-     "summary": "Abstract: \"Fault-tolerant quantum computing requires a universal gate set, but the necessary non-Clifford gates represent a significant resource cost for most quantum error correction architectures. Magic state cultivation offers an efficient alternative to resource-intensive distillation protocols;",
-     "source": "Hacker News",
-     "zh": "Magic state cultivation on a superconducting quantum processor"
-    },
-    {
-     "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-     "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-     "pubDate": "Mon, 26 Oct 2026 19:22:40 +0000",
-     "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
-     "source": "TechCrunch",
-     "zh": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it"
-    },
-    {
-     "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-     "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
-     "pubDate": "Mon, 26 Oct 2026 19:04:40 +0000",
-     "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
-     "source": "Ars Technica",
-     "zh": "Apple reveals updated iPad mini with a bigger OLED screen for $700"
-    },
-    {
-     "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-     "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-     "pubDate": "Mon, 26 Oct 2026 18:59:52 +0000",
-     "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-     "source": "TechCrunch",
-     "zh": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?"
     }
    ]
   },
@@ -1993,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The most popular streaming platforms in the US might not be what you think",
+     "link": "https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/",
+     "pubDate": "Mon, 26 Oct 2026 23:30:00 +0000",
+     "summary": "You might be surprised at the rankings of some streaming services when it comes to what Americans watch on their TVs.",
+     "source": "Engadget",
+     "zh": "The most popular streaming platforms in the US might not be what you think"
+    },
+    {
+     "title": "Samsung's Exynos 2700 reportedly outpaces the Xiaomi 18 Pro Max's Snapdragon by up to 20%",
+     "link": "https://www.gsmarena.com/exynos_2700_reportedly_beats_the_snapdragon_8_elite_extreme_gen_6_in_internal_tests-news-75217.php",
+     "pubDate": "Tue, 27 Oct 2026 00:11:03 +0100",
+     "summary": "Back in August, insiders claimed that the Exynos 2700 beat Qualcomm's next flagship chips in internal testing. Those Snapdragons have since become official, and Samsung has reportedly put its upcoming chip up against them once again. The Exynos 2700 is expected to power at least some models in the G",
+     "source": "GSMArena",
+     "zh": "Samsung's Exynos 2700 reportedly outpaces the Xiaomi 18 Pro Max's Snapdragon by up to 20%"
+    },
     {
      "title": "6+ ways you can use your PlayStation 5's USB ports",
      "link": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
@@ -2186,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "I’ve been using Android’s iPad Mini OLED for months, and it’s the better tiny tablet"
     },
     {
-     "title": "Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers",
-     "link": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/",
-     "pubDate": "Mon, 26 Oct 2026 19:15:34 +0000",
-     "summary": "Developer Sucker Punch just released a well-received expansion for Ghost of Yōtei a few weeks ago.",
-     "source": "Engadget",
-     "zh": "Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers"
-    },
-    {
      "title": "Gemini Live redesign makes it easier to add context to chats",
      "link": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
      "pubDate": "Mon, 26 Oct 2026 19:00:50 +0000",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple unveiled its updated iPad mini model, which brings the first OLED display to the mini line. Alongside the expected display upgrade, Apple outfitted the new mini model with its latest Apple A20 Pro chip, though there is a catch. The 128GB and 256GB storage versions get a binned CPU featuring fi",
      "source": "GSMArena",
      "zh": "The OLED iPad mini is here with A20 Pro chip and acoustic display speakers"
-    },
-    {
-     "title": "Oppo Find X10 Ultra's full camera setup leaks",
-     "link": "https://www.gsmarena.com/oppo_find_x10_ultras_full_camera_setup_leaks-news-75206.php",
-     "pubDate": "Mon, 26 Oct 2026 16:11:02 +0100",
-     "summary": "Oppo's Find X10 and Find X10 Pro Max went global recently, but the brand's top camera flagship for this generation is still a few months away. Today, Digital Chat Station posted what's allegedly the full camera setup of the Find X10 Ultra. The phone reportedly has a 200MP main camera with a 1/1.12-i",
-     "source": "GSMArena",
-     "zh": "Oppo Find X10 Ultra's full camera setup leaks"
     }
    ]
   },
@@ -2242,12 +2242,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "韩国央行估测 韩国第三季经季节调整出口较前季增长2.3%",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908737923.html",
-     "pubDate": "Tue, 27 Oct 2026 07:04:43 +0800",
-     "summary": "韩国央行估测：韩国第三季经季节调整出口较前季增长2.3%，韩国第三季经季节调整出口较前季增长2.3%。 （文章来源：新浪财经快讯）",
+     "title": "宝钢股份：融资净偿还1945.59万元，融资余额14.22亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610273908781028.html",
+     "pubDate": "Tue, 27 Oct 2026 07:38:01 +0800",
+     "summary": "交易所最新数据显示， 宝钢股份 于2026年10月26日获融资买入3803.89万元，融资偿还5749.47万元， 当日融资净偿还1945.59万元。 目前，该股融资余额14.22亿，占流通市值比例为1.11%。 该股当日融券卖出17.09万股，融券偿还8.36万股， 融券净卖出8.73万股。 目前，该股融券余量1189.92万股，融券余额7139.54万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富",
      "source": "东方财富股票",
-     "zh": "韩国央行估测 韩国第三季经季节调整出口较前季增长2.3%"
+     "zh": "宝钢股份：融资净偿还1945.59万元，融资余额14.22亿元"
+    },
+    {
+     "title": "国电南瑞：融资净偿还5706.94万元，融资余额23.25亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610273908780925.html",
+     "pubDate": "Tue, 27 Oct 2026 07:38:00 +0800",
+     "summary": "交易所最新数据显示， 国电南瑞 于2026年10月26日获融资买入4837.57万元，融资偿还1.05亿元， 当日融资净偿还5706.94万元。 目前，该股融资余额23.25亿，占流通市值比例为1.21%。 该股当日融券卖出6.04万股，融券偿还3.25万股， 融券净卖出2.79万股。 目前，该股融券余量96.98万股，融券余额2325.57万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资",
+     "source": "东方财富股票",
+     "zh": "国电南瑞：融资净偿还5706.94万元，融资余额23.25亿元"
+    },
+    {
+     "title": "和邦生物：融资净买入202.43万元，融资余额5.61亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610273908780869.html",
+     "pubDate": "Tue, 27 Oct 2026 07:38:00 +0800",
+     "summary": "交易所最新数据显示， 和邦生物 于2026年10月26日获融资买入955.83万元，融资偿还753.40万元， 当日融资净买入202.43万元。 目前，该股融资余额5.61亿，占流通市值比例为3.05%。 该股当日融券卖出2.89万股，融券偿还4.76万股， 融券净偿还1.87万股。 目前，该股融券余量339.81万股，融券余额706.8万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全",
+     "source": "东方财富股票",
+     "zh": "和邦生物：融资净买入202.43万元，融资余额5.61亿元"
+    },
+    {
+     "title": "鸿远电子：融资净买入310.99万元，融资余额6.06亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610273908780710.html",
+     "pubDate": "Tue, 27 Oct 2026 07:37:58 +0800",
+     "summary": "交易所最新数据显示， 鸿远电子 于2026年10月26日获融资买入1878.83万元，融资偿还1567.84万元， 当日融资净买入310.99万元。 目前，该股融资余额6.06亿，占流通市值比例为6.39%。 该股当日融券卖出100股，融券偿还5200股， 融券净偿还5100股。 目前，该股融券余量9.7万股，融券余额398.28万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
+     "source": "东方财富股票",
+     "zh": "鸿远电子：融资净买入310.99万元，融资余额6.06亿元"
+    },
+    {
+     "title": "青岛港：融资净买入42.55万元，融资余额4131.45万元",
+     "link": "http://stock.eastmoney.com/news/1697,202610273908780630.html",
+     "pubDate": "Tue, 27 Oct 2026 07:37:58 +0800",
+     "summary": "交易所最新数据显示， 青岛港 于2026年10月26日获融资买入594.46万元，融资偿还551.91万元， 当日融资净买入42.55万元。 目前，该股融资余额4131.45万，占流通市值比例为0.08%。 该股当日融券卖出1.34万股，融券偿还2200股， 融券净卖出1.12万股。 目前，该股融券余量118.12万股，融券余额1116.23万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资",
+     "source": "东方财富股票",
+     "zh": "青岛港：融资净买入42.55万元，融资余额4131.45万元"
+    },
+    {
+     "title": "沐曦股份：融资净买入6756.98万元，融资余额11.53亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610273908780560.html",
+     "pubDate": "Tue, 27 Oct 2026 07:37:58 +0800",
+     "summary": "交易所最新数据显示，沐曦股份于2026年10月26日获融资买入2.99亿元，融资偿还2.32亿元， 当日融资净买入6756.98万元。 目前，该股融资余额11.53亿，占流通市值比例为7.10%。 该股当日无融券交易，融券余额为0。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "沐曦股份：融资净买入6756.98万元，融资余额11.53亿元"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年10月27日",
@@ -2256,46 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "华见早安之声 要闻精选 Anthropic 正式提交IPO申请 ，拟以代码ANT在纳斯达克挂牌，上半年营收163亿美元、净亏损807亿美元， 公司称未来可能无法实现盈利，警示人类“生存危机” 。Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据。 震惊市场！ 巴西总统卢拉 在二轮选举中 意外逆袭，创纪录赢得第四任期 。 巴西股市创近三十年最惨日跌，雷亚尔跌幅二十年最大 ，60亿美元股权融资搁浅。 乌克兰 战时状态再延90天至明年1月底 ， 俄方 称恢复三方谈判不意味着限制军事行动。 马斯克 称债务市场已对缺少独立收入的 AI云厂商 关闭融资渠道， 200多家neocl",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年10月27日"
-    },
-    {
-     "title": "韩国三季度GDP同比初值3.4% 超预期 环比初值1% 亦高于预期",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908737113.html",
-     "pubDate": "Tue, 27 Oct 2026 07:02:34 +0800",
-     "summary": "韩国三季度GDP同比初值 3.4%，预期 3.2%，前值 3.7%。韩国三季度GDP环比初值 1%，预期 0.8%，前值 0.6%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "韩国三季度GDP同比初值3.4% 超预期 环比初值1% 亦高于预期"
-    },
-    {
-     "title": "伊武装部队总参谋长视察部队备战情况",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908737528.html",
-     "pubDate": "Tue, 27 Oct 2026 07:02:25 +0800",
-     "summary": "当地时间26日，伊朗武装部队总参谋长阿卜杜拉希视察该国南部沿海地区的部队备战情况。阿卜杜拉希表示，伊朗伊斯兰革命卫队海军和陆军完全控制着霍尔木兹海峡，该地区的任何船只往来都受到严密监控。他指出，与美国宣称霍尔木兹海峡自由通航的说法相反，这条战略水道处于完全封闭，并由革命卫队海军控制和监督，任何未经伊朗安排的船只均无法经此通航。他强调，伊朗武装部队在保持高度戒备的同时，还在监控该地区所有敌方动向，并阻止任何非法船只通过。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊武装部队总参谋长视察部队备战情况"
-    },
-    {
-     "title": "超强台风级 “烟花”将向偏西方向移动 强度增强",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908737896.html",
-     "pubDate": "Tue, 27 Oct 2026 07:02:19 +0800",
-     "summary": "今年第31号台风“烟花”已于26日晚上由超强台风级减弱为强台风级，今天（27日）早晨再次加强为超强台风级，早晨5点钟其中心位于美国关岛塞班以东大约1820公里的西北 太平洋 洋面上，就是北纬14.3度、东经162.5度，中心附近最大风力有16级（52米/秒），中心最低气压为935百帕，七级风圈半径220-320公里，十级风圈半径80-100公里，十二级风圈半径30-40公里。 预计，“烟花”将以每小时5-10公里的速度向偏西方向缓慢移动，强度逐渐增强，未来“烟花”对我国近海无影响。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "超强台风级 “烟花”将向偏西方向移动 强度增强"
-    },
-    {
-     "title": "美国上诉法院驳回美政府阻止加州统计部分邮寄选票的申请",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908737312.html",
-     "pubDate": "Tue, 27 Oct 2026 07:02:16 +0800",
-     "summary": "美国第九巡回上诉法院当天驳回美政府提出的申请。该申请要求禁止加利福尼亚州统计一份涉及2万多名登记选民名单上的人员所投的邮寄选票。联邦政府声称，这些人可能不具备美国公民身份。 美国司法部此前表示，名单上的人员中有28人因涉嫌非法投票受到刑事指控，但美政府并未说明名单上的人员实际提交了多少张邮寄选票。 24日，央视记者获悉，美国司法部已向加利福尼亚州全部58个县的选举官员发函，要求其在48小时内协助核实联邦政府名单上相关人员的美国公民身份，并将身份尚未确认者的邮寄选票暂时单独存放，直至完成核查。 司法部认为，名单上的部分人员可能不具备合法选民登记资格。这些人员属于司法部上周在加州识别出的约2万名疑",
-     "source": "东方财富股票",
-     "zh": "美国上诉法院驳回美政府阻止加州统计部分邮寄选票的申请"
-    },
-    {
-     "title": "韩国第三季度GDP年率初值为3.4% 预期3%",
-     "link": "http://finance.eastmoney.com/news/1346,202610273908737625.html",
-     "pubDate": "Tue, 27 Oct 2026 07:01:39 +0800",
-     "summary": "韩国第三季度GDP年率初值为3.4%，预期3%，前值3.70%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "韩国第三季度GDP年率初值为3.4% 预期3%"
     },
     {
      "title": "AudioEye expects Q4 adjusted EBITDA run rate over $17M, supported by AI efficiencies and new products",
@@ -2328,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
      "source": "CNBC",
      "zh": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive &apos;trickle-down effect&apos;"
-    },
-    {
-     "title": "Israeli election draws tens of thousands of citizens flying back to vote",
-     "link": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
-     "pubDate": "Mon, 26 Oct 2026 22:46:35 GMT",
-     "summary": "Tens of thousands of Israelis are returning home to vote in a tight election.",
-     "source": "CNBC",
-     "zh": "Israeli election draws tens of thousands of citizens flying back to vote"
     },
     {
      "title": "英特尔宣布收购以色列独角兽Classiq，CEO陈立武：将打造全栈量子计算业务",
@@ -2448,6 +2440,14 @@ window.INDUSTRY_DATA = {
      "summary": "The Wall Street Journal reports that DoorDash was in ‘advanced talks’ to buy Instacart in a deal that would value Instacart at roughly $17 billion",
      "source": "MarketWatch",
      "zh": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say"
+    },
+    {
+     "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+     "link": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+     "pubDate": "Mon, 26 Oct 2026 21:38:17 GMT",
+     "summary": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+     "source": "CNBC",
+     "zh": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke"
     },
     {
      "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",

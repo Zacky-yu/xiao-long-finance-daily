@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/27 07:05:08",
+ "generated_at": "2026/10/27 07:15:35",
  "recent_days": 7,
  "industries": [
   {
@@ -274,6 +274,14 @@ window.INDUSTRY_DATA = {
      "zh": "Infineon supplying world’s first 900V GaN monolithic BDS devices to Enphase"
     },
     {
+     "title": "Tearing down the Apple iPhone Duo",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/consumer-electronics/tearing-down-the-apple-iphone-duo-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 18:00:12 +0000",
+     "summary": "Apple will take 25% of the Foldable Smartphone market in 2026, according to Counterpoint Research. But how repairable will the iPhone Duo prove to be? The post Tearing down the Apple iPhone Duo appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Tearing down the Apple iPhone Duo"
+    },
+    {
      "title": "Accellera’s FSL 1.0 Gives Functional Safety Data a Common Language",
      "link": "https://semiwiki.com/semiconductor-services/accellera/375280-accelleras-fsl-1-0-gives-functional-safety-data-a-common-language/",
      "pubDate": "Mon, 26 Oct 2026 17:00:32 +0000",
@@ -298,6 +306,14 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Package Powering Modern AI"
     },
     {
+     "title": "The Elusive AI Killer App",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-elusive-ai-killer-app-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 13:07:49 +0000",
+     "summary": "A note from a partner in Apollo Global Management who is also the company’s Chief Economist, Torsten Slok (pictured) reinforces the flaw in the AI proposition: Where’s the killer app? […] The post The Elusive AI Killer App appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Elusive AI Killer App"
+    },
+    {
      "title": "SEMICON West 2026: After the Toast, the Hard Questions",
      "link": "https://semiwiki.com/semiconductor-services/375275-semicon-west-2026-after-the-toast-the-hard-questions/",
      "pubDate": "Mon, 26 Oct 2026 13:00:04 +0000",
@@ -320,6 +336,30 @@ window.INDUSTRY_DATA = {
      "summary": "As AI pushes chip packages beyond traditional wafer limits, panel-level processing is emerging as a critical path to scale advanced packaging. The post The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum appeared first on EE Times .",
      "source": "EE Times",
      "zh": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum"
+    },
+    {
+     "title": "KOA Speer heat shock resistors feature metal glaze resistance film",
+     "link": "https://www.electronicsweekly.com/news/products/passives/koa-speer-heat-shock-resistors-feature-metal-glaze-resistance-film-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 11:51:22 +0000",
+     "summary": "A new family of heat shock resistors from KOA Speer Electronics feature a metal glaze resistance film to provide improved high heat and weather resistance. The RK73B-AT resistors also feature […] The post KOA Speer heat shock resistors feature metal glaze resistance film appeared first on Electronic",
+     "source": "Electronics Weekly",
+     "zh": "KOA Speer heat shock resistors feature metal glaze resistance film"
+    },
+    {
+     "title": "CScale exits stealth mode with $145m funding for gigawatt-scale AI",
+     "link": "https://www.electronicsweekly.com/news/products/connectors/cscale-exits-stealth-with-145m-funding-for-gigawatt-scale-ai-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 10:26:57 +0000",
+     "summary": "CScale, a Palo Alto startup for optical interconnects, has exited stealth mode with the announcement of $145 million in Series C funding. Nvidia and Intel Capital were among the investors. […] The post CScale exits stealth mode with $145m funding for gigawatt-scale AI appeared first on Electronics W",
+     "source": "Electronics Weekly",
+     "zh": "CScale exits stealth mode with $145m funding for gigawatt-scale AI"
+    },
+    {
+     "title": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-apprenticeships-flapping-airplanes-sar-satellites-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 10:04:00 +0000",
+     "summary": "What caught our eye this last week? The launch of the Apprenticeship Talent Bridge, the Flapping Airplanes startup story, and Iceye continuing to expand its SAR satellite constellation... The post What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites"
     },
     {
      "title": "University of Illinois at Urbana-Champaign (UIUC) has achieved a record modulation bandwidth of 2.75GHz in a gallium nitride (GaN) blue micro-LED (Abdelghany Abouelnagga et a",
@@ -386,6 +426,14 @@ window.INDUSTRY_DATA = {
      "zh": "Self-Heating And Parasitics Challenge Multi-Tier CFET Scaling (TU Munich, IIT Kanpur)"
     },
     {
+     "title": "Government to set up Biosecurity Lab for biological AI threats",
+     "link": "https://www.electronicsweekly.com/news/business/government-to-set-up-biosecurity-lab-for-ai-threats-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 06:16:23 +0000",
+     "summary": "The government is to invest £100m in an AI Biosecurity Lab (AIBL) to counter biological risks posed by AI. Anthropic and OpenAI will contribute £200m in compute and model credits. […] The post Government to set up Biosecurity Lab for biological AI threats appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Government to set up Biosecurity Lab for biological AI threats"
+    },
+    {
      "title": "Interview: From afterthought to bottleneck, circuit boards move to the heart of AI hardware",
      "link": "https://www.digitimes.com/news/a20261023PD234/taiwan-packaging-pcb-manufacturing.html",
      "pubDate": "Mon, 26 Oct 2026 02:59:13 GMT",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Gleb Tsipursky, PhD, is the CEO and co-founder of Disaster Avoidance Experts , a consulting and training firm focused on helping organizations adopt AI through employee engagement and practical workflow redesign. He is a behavioral scientist and the author of The Psychology of AI Adoption at Work: F",
      "source": "SemiWiki",
      "zh": "CEO Interview with Dr. Gleb Tsipursky of Disaster Avoidance Experts"
-    },
-    {
-     "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
-     "link": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html",
-     "pubDate": "Sun, 25 Oct 2026 00:45:44 GMT",
-     "summary": "Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying the compute chips, increasing bandwidth d",
-     "source": "DIGITIMES",
-     "zh": "Nvidia unveils OOI CPO prototype for post-2028 AI needs"
-    },
-    {
-     "title": "Arm Comments on Jury Decision in Qualcomm Trial",
-     "link": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
-     "pubDate": "Sat, 24 Oct 2026 00:00:00 +0000",
-     "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Arm Comments on Jury Decision in Qualcomm Trial"
-    },
-    {
-     "title": "From Chip Lab to Center Stage",
-     "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-     "pubDate": "Fri, 23 Oct 2026 18:00:03 +0000",
-     "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "From Chip Lab to Center Stage"
-    },
-    {
-     "title": "Vertical Semiconductor gains $73m in US CHIPS Act funding",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/vertical-semiconductor-231026.shtml",
-     "pubDate": "Fri, 23 Oct 2026 17:34:53 +0100",
-     "summary": "Power semiconductor start-up Vertical Semiconductor of Cambridge, MA, USA — which was spun out of Massachusetts Institute of Technology (MIT) in 2024 — has signed a letter of intent with the US Department of Commerce’s CHIPS Research and Development Office (CRDO) to receive up to $73m in federal inc",
-     "source": "Semiconductor Today",
-     "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
-    },
-    {
-     "title": "ST extends MasterGaN integrated transistor/driver family",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
-     "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
-     "summary": "STMicroelectronics of Geneva, Switzerland has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode gallium nitride (GaN) transistors with 6A maximum current rating. The new series helps designers to boost efficiency and power densi",
-     "source": "Semiconductor Today",
-     "zh": "ST extends MasterGaN integrated transistor/driver family"
-    },
-    {
-     "title": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/atomera-iqe-231026.shtml",
-     "pubDate": "Fri, 23 Oct 2026 14:21:48 +0100",
-     "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
-     "source": "Semiconductor Today",
-     "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     }
    ]
   },
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Comau integrates Nvidia technology to accelerate development of AI-powered robots",
+     "link": "https://roboticsandautomationnews.com/2026/10/26/comau-integrates-nvidia-technology-to-accelerate-development-of-ai-powered-robots/106373/",
+     "pubDate": "Mon, 26 Oct 2026 23:06:30 +0000",
+     "summary": "Comau is boosting the development of AI-enabled robotics and automation solutions for industrial applications with Nvidia technologies. By combining Comau’s deep experience in robotics with Nvidia physical AI simulation libraries and accelerated computing, the companies are paving the way for the de",
+     "source": "Robotics & Automation",
+     "zh": "Comau integrates Nvidia technology to accelerate development of AI-powered robots"
+    },
     {
      "title": "Edeka adds Knapp robots to automate meat picking at German distribution center",
      "link": "https://roboticsandautomationnews.com/2026/10/26/edeka-adds-knapp-robots-to-automate-meat-picking-at-german-distribution-center/106368/",
@@ -560,14 +568,6 @@ window.INDUSTRY_DATA = {
      "summary": "Traditional commercial agriculture has always depended heavily on predictable weather patterns, seasonal rainfall, and vast tracts of arable land. Yet, as communities look for innovative ways to secure steady food supplies closer to home, food production is expanding into entirely new territory. Inl",
      "source": "Robotics & Automation",
      "zh": "Growing Locally: How Modern Aquaculture Technology is Reshaping Regional Food Security"
-    },
-    {
-     "title": "Orbbec Gemini 330 series: Active stereo cameras built on proprietary MX6800 ASIC depth processing",
-     "link": "https://roboticsandautomationnews.com/2026/10/26/orbbec-gemini-330-series-active-stereo-cameras-built-on-proprietary-mx6800-asic-depth-processing/106349/",
-     "pubDate": "Mon, 26 Oct 2026 19:09:27 +0000",
-     "summary": "Engineers evaluating active stereo cameras usually compare baseline, accuracy at range, and field of view first. Where the depth map gets computed tends to come later, often after the host computer has already been specified. That order is backwards for many robotics and automation builds. The Orbbe",
-     "source": "Robotics & Automation",
-     "zh": "Orbbec Gemini 330 series: Active stereo cameras built on proprietary MX6800 ASIC depth processing"
     },
     {
      "title": "Agility and GXO Logistics plan expanded deployment of Digit humanoid",
@@ -1746,6 +1746,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "贾可对话许敏：中国汽车还需要第二本《十万个为什么》",
+     "link": "https://www.huxiu.com/article/4900647.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 07:10:40 +0800",
+     "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 许敏，上海交通大学教授、汽车工程研究院院长，轩辕奖评审委员会主席，中国汽车动力技术领域的重要推动者，也是《汽车商业评论》长期关注的代表性汽车海归，被称为“中国汽车海归第一人”。 2006年，《汽车商业评论》创刊第二期推出封面故事《汽车海归志》，记录了一批放弃海外稳定生活、回到中国汽车产业一线的技术人才。许敏是其中的代表人物。他曾参与推动奇瑞建立正向开发能力，随后进入上海交通大学，将研究重点转向原始创新，并持续参与中国汽车动力技术的产业实践。 2026年10月11日，在《汽车商业评论》20周年JackTok特别对话第11",
+     "source": "虎嗅",
+     "zh": "贾可对话许敏：中国汽车还需要第二本《十万个为什么》"
+    },
+    {
+     "title": "Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments (Ray Maker/DC Rainmaker)",
+     "link": "https://www.techmeme.com/261026/p49#a261026p49",
+     "pubDate": "Mon, 26 Oct 2026 19:10:02 -0400",
+     "summary": "Ray Maker / DC Rainmaker : Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments &nbsp; &mdash;&nbsp; The Fitbit Edge could most easily be called the Fitbit Charge 7, but sometimes switching thing",
+     "source": "Techmeme",
+     "zh": "Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments (Ray Maker/DC Rainmaker)"
+    },
+    {
+     "title": "Anthropic 招股书披露生态打法：打造高粘性企业客户体系",
+     "link": "https://www.ithome.com/1/018/198.htm",
+     "pubDate": "Mon, 26 Oct 2026 23:08:58 GMT",
+     "summary": "IT之家 10 月 27 日消息，Anthropic 正在打造一套跨产品生态，正是这类生态让亚马逊、优步等科技企业拥有极强的用户粘性，其 S-1 招股文件显示这套策略已经初见成效。目前，年消费至少十万美元的客户里，超过一半会同时使用 Claude 平台以及 Claude Code、Cowork 这类第一方应用；去年年底这一比例大约只有三成。 这份当地时间周一提交给美国证券交易委员会的 S-1 文件写道：“企业客户的采纳速度与深度，有力证明 Claude 处在人工智能领域的前沿位置。” 截至 9 月 30 日，Anthropic 有超过 11900 家客户年消费不低于 10 美元 （IT之家注：",
+     "source": "IT之家",
+     "zh": "Anthropic 招股书披露生态打法：打造高粘性企业客户体系"
+    },
+    {
      "title": "微软向约 6 万名员工推出自愿离职买断方案，适配 AI 时代人员结构调整",
      "link": "https://www.ithome.com/1/018/197.htm",
      "pubDate": "Mon, 26 Oct 2026 22:57:21 GMT",
@@ -1765,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
      "pubDate": "Mon, 26 Oct 2026 22:41:48 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 18 # Comments: 6",
      "source": "Hacker News",
      "zh": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)"
     },
@@ -1776,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
      "source": "WIRED",
      "zh": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’"
+    },
+    {
+     "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+     "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+     "pubDate": "Mon, 26 Oct 2026 22:27:17 +0000",
+     "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It"
     },
     {
      "title": "当知识不再稀缺：大模型时代企业知识管理的四重风险",
@@ -1792,6 +1824,14 @@ window.INDUSTRY_DATA = {
      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
      "source": "TechCrunch",
      "zh": "Databricks co-founder shares his secrets for winning big enterprises customers"
+    },
+    {
+     "title": "The Exponential Time Hypothesis Is False [pdf]",
+     "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+     "pubDate": "Mon, 26 Oct 2026 21:59:15 +0000",
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 26 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "The Exponential Time Hypothesis Is False [pdf]"
     },
     {
      "title": "OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false (OpenAI)",
@@ -1821,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "CorridorKey 2.0",
      "link": "https://corridorkey.com/",
      "pubDate": "Mon, 26 Oct 2026 21:18:05 +0000",
-     "summary": "Article URL: https://corridorkey.com/ Comments URL: https://news.ycombinator.com/item?id=50251127 Points: 89 # Comments: 19",
+     "summary": "Article URL: https://corridorkey.com/ Comments URL: https://news.ycombinator.com/item?id=50251127 Points: 111 # Comments: 30",
      "source": "Hacker News",
      "zh": "CorridorKey 2.0"
     },
@@ -1922,28 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Magic state cultivation on a superconducting quantum processor"
     },
     {
-     "title": "Sources: DoorDash is in advanced talks to acquire Instacart, and the deal could be finalized as soon as this week and could value Instacart at ~$17B (Heather Haddon/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261026/p43#a261026p43",
-     "pubDate": "Mon, 26 Oct 2026 15:35:00 -0400",
-     "summary": "Heather Haddon / Wall Street Journal : Sources: DoorDash is in advanced talks to acquire Instacart, and the deal could be finalized as soon as this week and could value Instacart at ~$17B &nbsp; &mdash;&nbsp; Deal could be completed as soon as this week, people familiar with the matter say&nbsp; &md",
-     "source": "Techmeme",
-     "zh": "Sources: DoorDash is in advanced talks to acquire Instacart, and the deal could be finalized as soon as this week and could value Instacart at ~$17B (Heather Haddon/Wall Street Journal)"
-    },
-    {
      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
      "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
      "pubDate": "Mon, 26 Oct 2026 19:22:40 +0000",
      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
      "source": "TechCrunch",
      "zh": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it"
-    },
-    {
-     "title": "The EPA Is Quietly Killing Its Web Archive",
-     "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-     "pubDate": "Mon, 26 Oct 2026 19:05:41 +0000",
-     "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 186 # Comments: 30",
-     "source": "Hacker News",
-     "zh": "The EPA Is Quietly Killing Its Web Archive"
     },
     {
      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
@@ -1960,30 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
      "source": "TechCrunch",
      "zh": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?"
-    },
-    {
-     "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-     "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-     "pubDate": "Mon, 26 Oct 2026 18:50:41 +0000",
-     "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-     "source": "Ars Technica",
-     "zh": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees"
-    },
-    {
-     "title": "Google Fitbit Edge Review: I Still Prefer the Air (2026)",
-     "link": "https://www.wired.com/review/google-fitbit-edge/",
-     "pubDate": "Mon, 26 Oct 2026 18:49:49 +0000",
-     "summary": "The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression.",
-     "source": "WIRED",
-     "zh": "Google Fitbit Edge Review: I Still Prefer the Air (2026)"
-    },
-    {
-     "title": "苹果 iOS/iPadOS 18.7.11 正式版发布",
-     "link": "https://www.ithome.com/1/018/192.htm",
-     "pubDate": "Mon, 26 Oct 2026 18:44:04 GMT",
-     "summary": "IT之家 10 月 27 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.11 更新（内部版本号：22H384），本次更新距离上次发布正式版间隔 77 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 18 发布历史： 2026-08-11：iOS 18.7.10 (22H373) 2026-05-05：iOS 18.7.9 (22H355) 2026-04-23：iOS 18.7.8 (22H",
-     "source": "IT之家",
-     "zh": "苹果 iOS/iPadOS 18.7.11 正式版发布"
     }
    ]
   },
@@ -2242,6 +2242,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "韩国央行估测 韩国第三季经季节调整出口较前季增长2.3%",
+     "link": "http://finance.eastmoney.com/news/1351,202610273908737923.html",
+     "pubDate": "Tue, 27 Oct 2026 07:04:43 +0800",
+     "summary": "韩国央行估测：韩国第三季经季节调整出口较前季增长2.3%，韩国第三季经季节调整出口较前季增长2.3%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "韩国央行估测 韩国第三季经季节调整出口较前季增长2.3%"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年10月27日",
+     "link": "https://wallstreetcn.com/articles/3784513",
+     "pubDate": "Tue, 27 Oct 2026 07:03:56 +0800",
+     "summary": "华见早安之声 要闻精选 Anthropic 正式提交IPO申请 ，拟以代码ANT在纳斯达克挂牌，上半年营收163亿美元、净亏损807亿美元， 公司称未来可能无法实现盈利，警示人类“生存危机” 。Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据。 震惊市场！ 巴西总统卢拉 在二轮选举中 意外逆袭，创纪录赢得第四任期 。 巴西股市创近三十年最惨日跌，雷亚尔跌幅二十年最大 ，60亿美元股权融资搁浅。 乌克兰 战时状态再延90天至明年1月底 ， 俄方 称恢复三方谈判不意味着限制军事行动。 马斯克 称债务市场已对缺少独立收入的 AI云厂商 关闭融资渠道， 200多家neocl",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年10月27日"
+    },
+    {
+     "title": "韩国三季度GDP同比初值3.4% 超预期 环比初值1% 亦高于预期",
+     "link": "http://finance.eastmoney.com/news/1351,202610273908737113.html",
+     "pubDate": "Tue, 27 Oct 2026 07:02:34 +0800",
+     "summary": "韩国三季度GDP同比初值 3.4%，预期 3.2%，前值 3.7%。韩国三季度GDP环比初值 1%，预期 0.8%，前值 0.6%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "韩国三季度GDP同比初值3.4% 超预期 环比初值1% 亦高于预期"
+    },
+    {
+     "title": "伊武装部队总参谋长视察部队备战情况",
+     "link": "http://finance.eastmoney.com/news/1351,202610273908737528.html",
+     "pubDate": "Tue, 27 Oct 2026 07:02:25 +0800",
+     "summary": "当地时间26日，伊朗武装部队总参谋长阿卜杜拉希视察该国南部沿海地区的部队备战情况。阿卜杜拉希表示，伊朗伊斯兰革命卫队海军和陆军完全控制着霍尔木兹海峡，该地区的任何船只往来都受到严密监控。他指出，与美国宣称霍尔木兹海峡自由通航的说法相反，这条战略水道处于完全封闭，并由革命卫队海军控制和监督，任何未经伊朗安排的船只均无法经此通航。他强调，伊朗武装部队在保持高度戒备的同时，还在监控该地区所有敌方动向，并阻止任何非法船只通过。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊武装部队总参谋长视察部队备战情况"
+    },
+    {
+     "title": "超强台风级 “烟花”将向偏西方向移动 强度增强",
+     "link": "http://finance.eastmoney.com/news/1351,202610273908737896.html",
+     "pubDate": "Tue, 27 Oct 2026 07:02:19 +0800",
+     "summary": "今年第31号台风“烟花”已于26日晚上由超强台风级减弱为强台风级，今天（27日）早晨再次加强为超强台风级，早晨5点钟其中心位于美国关岛塞班以东大约1820公里的西北 太平洋 洋面上，就是北纬14.3度、东经162.5度，中心附近最大风力有16级（52米/秒），中心最低气压为935百帕，七级风圈半径220-320公里，十级风圈半径80-100公里，十二级风圈半径30-40公里。 预计，“烟花”将以每小时5-10公里的速度向偏西方向缓慢移动，强度逐渐增强，未来“烟花”对我国近海无影响。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "超强台风级 “烟花”将向偏西方向移动 强度增强"
+    },
+    {
+     "title": "美国上诉法院驳回美政府阻止加州统计部分邮寄选票的申请",
+     "link": "http://finance.eastmoney.com/news/1351,202610273908737312.html",
+     "pubDate": "Tue, 27 Oct 2026 07:02:16 +0800",
+     "summary": "美国第九巡回上诉法院当天驳回美政府提出的申请。该申请要求禁止加利福尼亚州统计一份涉及2万多名登记选民名单上的人员所投的邮寄选票。联邦政府声称，这些人可能不具备美国公民身份。 美国司法部此前表示，名单上的人员中有28人因涉嫌非法投票受到刑事指控，但美政府并未说明名单上的人员实际提交了多少张邮寄选票。 24日，央视记者获悉，美国司法部已向加利福尼亚州全部58个县的选举官员发函，要求其在48小时内协助核实联邦政府名单上相关人员的美国公民身份，并将身份尚未确认者的邮寄选票暂时单独存放，直至完成核查。 司法部认为，名单上的部分人员可能不具备合法选民登记资格。这些人员属于司法部上周在加州识别出的约2万名疑",
+     "source": "东方财富股票",
+     "zh": "美国上诉法院驳回美政府阻止加州统计部分邮寄选票的申请"
+    },
+    {
+     "title": "韩国第三季度GDP年率初值为3.4% 预期3%",
+     "link": "http://finance.eastmoney.com/news/1346,202610273908737625.html",
+     "pubDate": "Tue, 27 Oct 2026 07:01:39 +0800",
+     "summary": "韩国第三季度GDP年率初值为3.4%，预期3%，前值3.70%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "韩国第三季度GDP年率初值为3.4% 预期3%"
+    },
+    {
+     "title": "AudioEye expects Q4 adjusted EBITDA run rate over $17M, supported by AI efficiencies and new products",
+     "link": "https://seekingalpha.com/news/4657636-audioeye-expects-q4-adjusted-ebitda-run-rate-over-17m-supported-by-ai-efficiencies-and-new?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 19:01:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AudioEye expects Q4 adjusted EBITDA run rate over $17M, supported by AI efficiencies and new products"
+    },
+    {
      "title": "Virgin Galactic delays commercial spaceflight restart to Q2 2027",
      "link": "https://seekingalpha.com/news/4657635-virgin-galactic-delays-commercial-spaceflight-restart-to-q2-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 26 Oct 2026 18:56:22 -0400",
@@ -2250,60 +2314,20 @@ window.INDUSTRY_DATA = {
      "zh": "Virgin Galactic delays commercial spaceflight restart to Q2 2027"
     },
     {
-     "title": "AI能提前预测癌症对免疫疗法反应",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908736231.html",
-     "pubDate": "Tue, 27 Oct 2026 06:53:54 +0800",
-     "summary": "同样接受 免疫治疗 ，有的患者获益明显，有的却反应微弱甚至无效。韩国浦项科技大学科学家开发了一种 人工智能 （AI）方法，可通过分析癌症患者的基因信息，提前预测其对免疫疗法的反应，从而帮助判断哪些患者更可从中受益。相关论文发表于最新一期《数字医学》杂志。 与传统直接杀伤肿瘤细胞的疗法不同，免疫疗法旨在激活患者自身免疫系统来对抗癌症，其优势在于能带来更持久的疗效，但并非所有患者都会响应。若无法提前识别受益人群，患者不仅可能承担高昂治疗费用，还可能延误其他更合适的治疗方案。因此，准确预测免疫疗法是否有效，成为临床亟须解决的难题。 难点之一在于，肿瘤微环境因人而异。其中，衰老细胞会抑制免疫细胞活性，",
-     "source": "东方财富股票",
-     "zh": "AI能提前预测癌症对免疫疗法反应"
-    },
-    {
-     "title": "报告显示全球气候快速失稳已成现实",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908736115.html",
-     "pubDate": "Tue, 27 Oct 2026 06:53:15 +0800",
-     "summary": "由美国俄勒冈州立大学科学家牵头的国际联盟近日发布第七份年度全球气候状况报告。报告指出，地球气候系统正迅速失稳，虽然社会层面出现了一些积极变化迹象，但仍需采取更大力度、更快速的行动。相关报告发表于最新一期《生物科学》杂志。 报告作者表示，气候快速失稳是对现状的诊断，而非对未来的警告。可再生能源加速扩张和 电池 储能技术进步令人鼓舞，但这只是所需转型的一部分，可持续的未来仍有赖于大幅削减温室气体排放、有效适应和生态系统保护。 这份题为《2026年全球气候状况报告：挑战与机遇》的报告显示，该团队追踪的16项气候指标中，7项处于有记录以来的极端水平，另有多项也在恶化，多种反馈机制相互作用、跨越关键临界",
-     "source": "东方财富股票",
-     "zh": "报告显示全球气候快速失稳已成现实"
-    },
-    {
-     "title": "代谢通路或可解释适度低温为何能延寿",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908736048.html",
-     "pubDate": "Tue, 27 Oct 2026 06:52:32 +0800",
-     "summary": "适度低温已被证实能够延长动物寿命、延缓与年龄相关的机能衰退，但其背后的分子机制却长期未被完全阐明。德国科隆大学科学家在最新一期《自然》杂志发表论文称，他们发现了代谢物在不同组织间传递并调控信号的一条通路，可能为这一现象提供解释。 团队以秀丽隐杆线虫为模型，揭示了低温、寿命延长与蛋白质稳态之间的联系。他们发现肌肉在其中扮演“代谢枢纽”的角色：低温会促使肌肉大量生成代谢物二氢生物蝶呤（BH2），随后BH2被转运至其他组织，并进一步参与促进氨基酸酪氨酸的合成。这一过程有助于增强细胞维持蛋白质稳态的能力，即帮助机体更好地清理错误折叠或受损蛋白。 团队还在 亨廷 顿病和肌萎缩侧索硬化症的人类细胞模型中验",
-     "source": "东方财富股票",
-     "zh": "代谢通路或可解释适度低温为何能延寿"
-    },
-    {
-     "title": "卢拉胜选后转变立场 大摩下调巴西股票评级",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908735964.html",
-     "pubDate": "Tue, 27 Oct 2026 06:51:36 +0800",
-     "summary": "在巴西总统卢拉意外获得连任后， 摩根士丹利 将巴西股票的评级从“超配”（Overweight）下调至“平配”（Equal-weight）。由于该行认为这一拉美国家发生经济政策转变的前景有所减弱，这翻转了其在仅三周前做出的上调决定。 包括尼古拉·利普曼（Nikolaj Lippmann）在内的策略师在周一的一份报告中写道：“巴西可能面临日益严峻的宏观经济环境：货币走弱、利率上升，以及需要实现不大可能的财政重新平衡但经济正在放缓。” 相较于更多暴露于国内经济的企业，该行更看好包括 巴西石油 （Petrobras）、 巴西航空工业 （Embraer）、JBS 和 Suzano 在内的出口商。 在10",
-     "source": "东方财富股票",
-     "zh": "卢拉胜选后转变立场 大摩下调巴西股票评级"
-    },
-    {
-     "title": "卢拉胜选导致投行改弦易辙 摩根士丹利下调巴西股市评级",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908735734.html",
-     "pubDate": "Tue, 27 Oct 2026 06:51:33 +0800",
-     "summary": "巴西总统卢拉出人意料赢得连任后， 摩根士丹利 将该国股市的评级从“高配”下调至“平配”，认为经济政策转向的前景渺茫。“巴西可能面临日益严峻的宏观经济形势：货币贬值、利率上升、经济放缓且亟需财政再平衡却不得，” Nikolaj Lippmann等策略师在周一的研报中写道。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "卢拉胜选导致投行改弦易辙 摩根士丹利下调巴西股市评级"
-    },
-    {
-     "title": "铿腾电子分析师电话会议：核心EDA营收同比增长20%",
-     "link": "http://finance.eastmoney.com/news/1351,202610273908735697.html",
-     "pubDate": "Tue, 27 Oct 2026 06:51:25 +0800",
-     "summary": "一、整体业绩表现。 1、 铿腾电子 /楷登 电子 第三季度业绩表现出色，所有关键指标均远高于业绩指导。 2、积压订单达到创纪录的82亿美元。 3、鉴于强劲的业务势头、技术领先地位及 人工智能 （AI）增长机遇，公司将全年营收增长预期上调至21%，每股收益（EPS）预期上调0.30美元至8.40美元。 4、第三季度总营收为16.33亿美元。GAAP营业利润率为26.2%，Non-GAAP营业利润率为44.1%。GAAP每股收益为1.05 美元，Non-GAAP每股收益为2.11美元。 5、现金余额为14.52亿美元，未偿还债务本金为26.50亿美元，经营活动现金流为4.24亿美元。 6、经常性收",
-     "source": "东方财富股票",
-     "zh": "铿腾电子分析师电话会议：核心EDA营收同比增长20%"
-    },
-    {
      "title": "Cumberland announces ifetroban NDA filing plan after shares plummet",
      "link": "https://seekingalpha.com/news/4657634-cumberland-announces-ifetroban-nda-filing-plan-after-shares-plummet?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 26 Oct 2026 18:50:50 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Cumberland announces ifetroban NDA filing plan after shares plummet"
+    },
+    {
+     "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive &apos;trickle-down effect&apos;",
+     "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+     "pubDate": "Mon, 26 Oct 2026 22:50:07 GMT",
+     "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+     "source": "CNBC",
+     "zh": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive &apos;trickle-down effect&apos;"
     },
     {
      "title": "Israeli election draws tens of thousands of citizens flying back to vote",
@@ -2402,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Options traders are seizing control of the S&P 500"
     },
     {
-     "title": "Western Copper President/CEO Singh to step down; Chairman Smith becomes interim CEO",
-     "link": "https://seekingalpha.com/news/4657625-western-copper-president-ceo-singh-to-step-down-chairman-smith-becomes-interim-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 18:02:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Western Copper President/CEO Singh to step down; Chairman Smith becomes interim CEO"
-    },
-    {
      "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
      "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
      "pubDate": "Mon, 26 Oct 2026 22:00:00 GMT",
@@ -2464,22 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "São Paulo stock bourse also sustains heavy sell-off after leftwing politician’s win against Flávio Bolsonaro",
      "source": "Financial Times",
      "zh": "Brazil’s currency plunges most since 1999 after Lula’s surprise victory"
-    },
-    {
-     "title": "Anthropic正式提交IPO申请！上半年净亏807亿美元，公司称未来可能无法实现盈利，警示人类“生存危机”",
-     "link": "https://wallstreetcn.com/articles/3784495",
-     "pubDate": "Tue, 27 Oct 2026 05:01:41 +0800",
-     "summary": "全球AI行业最受瞩目的IPO之一，正式进入公开申报阶段。 根据10月26日披露的申报信息，Anthropic正式向美国证券交易委员会（SEC）提交首次公开募股（IPO）申请，计划以股票代码“ANT”在纳斯达克全球精选市场挂牌交易。 同日，据《华尔街日报》报道， Anthropic计划于11月16日当周进行IPO。 此前彭博社报道称，市场传出的目标估值高达2万亿美元，有望超过SpaceX此前创纪录的1.77万亿美元上市规模。路透社报道，在Anthropic于近期一场投资者活动披露部分财务细节后， 部分投资者目前对其估值约为1.5万亿美元，较一周前的约2万亿美元明显下调。 申报文件显示， Anth",
-     "source": "华尔街见闻",
-     "zh": "Anthropic正式提交IPO申请！上半年净亏807亿美元，公司称未来可能无法实现盈利，警示人类“生存危机”"
-    },
-    {
-     "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-     "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-     "pubDate": "Mon, 26 Oct 2026 20:44:50 GMT",
-     "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-     "source": "CNBC",
-     "zh": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push"
     }
    ]
   },
@@ -2489,6 +2489,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "J-PAL North America launches Homelessness Evaluation Resource Hub to drive evidence-informed approaches to housing stability",
+     "link": "https://news.mit.edu/2026/j-pal-north-america-launches-homelessness-evaluation-resource-hub-1026",
+     "pubDate": "Mon, 26 Oct 2026 19:00:00 -0400",
+     "summary": "The hub serves as a free, online repository of essential content for policymakers, practitioners, and researchers seeking to leverage rigorous research to inform their approaches to homelessness.",
+     "source": "MIT News",
+     "zh": "J-PAL North America launches Homelessness Evaluation Resource Hub to drive evidence-informed approaches to housing stability"
+    },
     {
      "title": "NASA's Swift observatory ends 22-year mission, will crash to Earth 'in the next few weeks'",
      "link": "https://www.livescience.com/space/space-exploration/nasas-swift-observatory-ends-22-year-mission-to-study-the-most-powerful-explosions-since-the-big-bang",
@@ -2720,14 +2728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
      "source": "Ars Technica Science",
      "zh": "Ink droplets in motion snag top prize in Nikon Small World contest"
-    },
-    {
-     "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
-     "link": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
-     "pubDate": "Wed, 21 Oct 2026 14:00:07 +0000",
-     "summary": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life. The post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta Magazine",
-     "source": "Quanta Magazine",
-     "zh": "See Inside Cells Like Never Before in These Vivid Microscopic Images"
     }
    ]
   }

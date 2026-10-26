@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-26T11:34:27.120Z",
+  "generatedAt": "2026-10-26T11:49:22.312Z",
   "count": 40,
   "items": [
+    {
+      "title": "The stock market’s biggest test in weeks is here",
+      "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
+      "pubDate": "Mon, 26 Oct 2026 11:37:00 GMT",
+      "content": "Here’s what’s I’m watching this morning: A week chockablock with enough catalysts that we might finally get some answers about the direction of the market by the end of it.",
+      "source": "US",
+      "category": "美股市场"
+    },
     {
       "title": "Verizon’s stock rises as subscriber surge impresses Wall Street",
       "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories",
@@ -73,14 +81,6 @@
       "content": "Tyler Perry has slashed $3.5 million from the asking price of his Wyoming mansion—days after picking up a $30 million home in Puerto Rico.",
       "source": "US",
       "category": "全球综合"
-    },
-    {
-      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
-      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-      "pubDate": "Mon, 26 Oct 2026 01:50:00 GMT",
-      "content": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
-      "source": "US",
-      "category": "半导体"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

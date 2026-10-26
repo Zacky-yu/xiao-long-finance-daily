@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 15:12:02",
+ "generated_at": "2026/10/26 15:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "TCL SunPower launches 505 W back-contact solar panel with 24.7% efficiency",
+     "link": "https://www.pv-magazine.com/2026/10/26/tcl-sunpower-launches-505-w-back-contact-solar-panel-with-24-7-efficiency/",
+     "pubDate": "Mon, 26 Oct 2026 07:20:39 +0000",
+     "summary": "The manufacturer backs the panels with a 40-year warranty covering the product, power output and service, with a reported maximum annual degradation rate of 0.25%. The post TCL SunPower launches 505 W back-contact solar panel with 24.7% efficiency appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "TCL SunPower launches 505 W back-contact solar panel with 24.7% efficiency"
+    },
+    {
+     "title": "Saudi Arabia Turns to Singapore for Oil Storage",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Turns-to-Singapore-for-Oil-Storage.html",
+     "pubDate": "Mon, 26 Oct 2026 02:15:00 -0500",
+     "summary": "Saudi Arabia has struck a deal with the Singaporean government to store crude oil in underground caverns in the city-state, Bloomberg reported today. The report follows the latest Houthi attacks on Saudi infrastructure over the weekend, which included oil facilities among their targets. The Saudi cr",
+     "source": "OilPrice",
+     "zh": "Saudi Arabia Turns to Singapore for Oil Storage"
+    },
+    {
+     "title": "Singapore targets 1GWh of energy storage in Energy Infrastructure Plan to meet rising demand for electricity",
+     "link": "https://www.energy-storage.news/singapore-targets-1gwh-of-energy-storage-in-energy-infrastructure-plan-to-meet-rising-demand-for-electricity/",
+     "pubDate": "Mon, 26 Oct 2026 07:14:43 +0000",
+     "summary": "Faced with unprecedented growth in demand, Singapore’s Energy Market Authority has launched plan that includes a gigawatt-hour energy storage target.",
+     "source": "Energy Storage News",
+     "zh": "Singapore targets 1GWh of energy storage in Energy Infrastructure Plan to meet rising demand for electricity"
+    },
+    {
      "title": "5B pre-fab solar tech gets nod for 70 MW project in Australia",
      "link": "https://www.pv-magazine.com/2026/10/26/5b-pre-fab-solar-tech-gets-nod-for-1414-degrees-aurora-energy-precinct/",
      "pubDate": "Mon, 26 Oct 2026 06:48:52 +0000",
@@ -954,14 +978,6 @@ window.INDUSTRY_DATA = {
      "zh": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One"
     },
     {
-     "title": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom",
-     "link": "https://oilprice.com/Energy/Energy-General/World-Is-on-Track-for-Up-to-28-Degrees-of-Warming-Despite-Clean-Energy-Boom.html",
-     "pubDate": "Sun, 25 Oct 2026 12:00:00 -0500",
-     "summary": "The United Nations says that it is now an inevitability that the world will fail to meet the legally binding goals set forth by the Paris climate accord as a result of “decades of insufficient climate action”. The Paris Agreement, ratified in 2015, targeted limiting global warming to 1.5 degrees Cel",
-     "source": "OilPrice",
-     "zh": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom"
-    },
-    {
      "title": "Invest in Solar and Earn $3,000 a Day?",
      "link": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
      "pubDate": "Sun, 25 Oct 2026 08:20:44 +0000",
@@ -1002,14 +1018,6 @@ window.INDUSTRY_DATA = {
      "zh": "Italy deploys 4.83 GW of PV in January-September"
     },
     {
-     "title": "Mozambique entrusts small solar panel factory to UAE’s Jampur Group",
-     "link": "https://www.pv-magazine.com/2026/10/24/mozambique-entrusts-solar-panel-factory-to-uaes-jampur-group/",
-     "pubDate": "Sat, 24 Oct 2026 08:45:00 +0000",
-     "summary": "UAE-based Jampur Group has been selected to manage and modernize Mozambique’s Beluluane Solar Panel Factory, which suspended production around 2022 due to technological limitations and market competition. The initiative aims to revive domestic solar panel manufacturing, improve competitiveness and c",
-     "source": "pv magazine",
-     "zh": "Mozambique entrusts small solar panel factory to UAE’s Jampur Group"
-    },
-    {
      "title": "The permitting deal collides with Trump’s war on offshore wind",
      "link": "https://www.canarymedia.com/articles/politics/permitting-bill-offshore-wind",
      "pubDate": "Fri, 23 Oct 2026 12:37:00 -0400",
@@ -1042,6 +1050,14 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1064,22 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla’s energy storage business deployed 13.7GWh in Q3 2026, its second-highest quarterly figure to date, but saw a 16% year-on-year decline in revenues for the division.",
      "source": "Energy Storage News",
      "zh": "Tesla Q3 2026 energy storage revenues fall despite second-highest quarterly deployments"
-    },
-    {
-     "title": "Google and Voltus expand PJM virtual power plant agreement to 1GW",
-     "link": "https://www.energy-storage.news/google-and-voltus-expand-pjm-virtual-power-plant-agreement-to-1gw/",
-     "pubDate": "Fri, 23 Oct 2026 11:12:53 +0000",
-     "summary": "Tech giant Google and distributed energy resource (DER) platform Voltus have announced an expanded agreement to build a 1GW virtual power plant (VPP) in the US.",
-     "source": "Energy Storage News",
-     "zh": "Google and Voltus expand PJM virtual power plant agreement to 1GW"
-    },
-    {
-     "title": "European solar PPA prices up 0.4% in Europe and 4.9% in the US",
-     "link": "https://www.pv-tech.org/european-solar-ppa-prices-up-0-4-europe-4-9-us/",
-     "pubDate": "Fri, 23 Oct 2026 09:43:11 +0000",
-     "summary": "The average price of a solar PPA in Europe increased 0.4% between the second and third quarters of 2026, according to LevelTen Energy.",
-     "source": "PV Tech",
-     "zh": "European solar PPA prices up 0.4% in Europe and 4.9% in the US"
     }
    ]
   },
@@ -1754,12 +1754,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "国家能源局：截至 9 月底全国累计发电装机容量 41.3 亿千瓦，同比增长 11.2%",
-     "link": "https://www.ithome.com/1/017/918.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:07:01 GMT",
-     "summary": "IT之家 10 月 26 日消息，10 月 26 日，国家能源局发布 1-9 月份全国电力统计数据。 截至 9 月底，全国累计发电装机容量 41.3 亿千瓦， 同比增长 11.2% 。其中，太阳能发电装机容量 13.1 亿千瓦，同比增长 16.5%；风电装机容量 7.0 亿千瓦，同比增长 20.4%。 1-9 月份，全国发电设备累计平均利用 2174 小时，比上年同期降低 194 小时。 IT之家注意到，国家能源局此前发布数据显示，今年 9 月份， 全社会用电量 8997 亿千瓦时，同比增长 1.2% 。 第一产业用电量 135 亿千瓦时，同比增长 4.1%。 第二产业用电量 5800 亿千瓦",
+     "title": "新一代小米 SU7 Ultra 伪装车路测视频曝光，超大尾翼设计巨吸睛",
+     "link": "https://www.ithome.com/1/017/925.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:26:52 GMT",
+     "summary": "IT之家 10 月 26 日消息，博主 @毒特Dot 发布了新一代小米 SU7 Ultra 伪装车的路测视频，视频画面显示，该车整体延续了前代外观设计， 但拥有全新的超大尾翼设计 。博主感叹，新 Ultra 的空力看着太暴力。 博主还分享了新一代 SU7 Ultra 的高清谍照。 据IT之家此前报道，今年 9 月，多位博主分享了小米新款 SU7 Ultra 国内测试车谍照。画面显示，新车采用了超大尾翼设计。另外，侧视图揭露了车门设计的一角，新车或采用双门方案。 还有消息称这款车型将采用限量版形式推出， 或命名为 SU7 Ultra Extreme ，并配备多项醒目的空气动力学部件，拥有巨大的后",
      "source": "IT之家",
-     "zh": "国家能源局：截至 9 月底全国累计发电装机容量 41.3 亿千瓦，同比增长 11.2%"
+     "zh": "新一代小米 SU7 Ultra 伪装车路测视频曝光，超大尾翼设计巨吸睛"
+    },
+    {
+     "title": "医疗AI分野：大厂抢医生，垂类抢院长",
+     "link": "https://www.huxiu.com/article/4900484.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 15:26:49 +0800",
+     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 9月，京东健康推出医生AI工作台MedWork。 医学检索、病历处理、科研辅助……京东想把医生每天要做的更多工作装进自己的AI产品。 往前数几个月，阿里健康推出了医学AI“氢离子”，蚂蚁集团则将好大夫医生版升级为“蚂蚁阿福医生版”。 三家互联网大厂，不约而同地盯上了医生。 几乎同时，联影、数坤等垂直医疗AI企业，却在把更多精力放到医院、医联体、医共体以及地方卫健部门身上。 双方都在做医疗AI，却越来越像在做两门不同的生意。 大厂忙着抢医生，垂类公司忙着抢院长。 准确地说，前者争夺医生的使用习惯，后者争夺医院和政府的采购预算。 这可能是当下中国",
+     "source": "虎嗅",
+     "zh": "医疗AI分野：大厂抢医生，垂类抢院长"
+    },
+    {
+     "title": "世嘉《索尼克 × 夏特世代重启》游戏销量突破 300 万份，距发售 2 年",
+     "link": "https://www.ithome.com/1/017/924.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:22:01 GMT",
+     "summary": "IT之家 10 月 26 日消息，世嘉今天宣布《索尼克 × 夏特世代重启》全球累计销量已突破 300 万份， 距游戏发售 2 年 。本次统计范围涵盖实体版本、数字版和所有登陆平台的合计销量。 作为参考，《索尼克 × 夏特世代重启》发售于 2024 年 10 月 25 日，登陆 PC、Switch、PS4、PS5、Xbox One 和 Xbox Series X|S 平台，支持 13 种语言， Steam 国区的定价 229 元 ，IGN 打出 9 分评价：本作将一款已经非常出色的游戏赋予了又一个春天，通过富有创意的战斗和可观的图像升级将其提升到新的高度。 IT之家附本作简介如下： 由于神秘怪物",
+     "source": "IT之家",
+     "zh": "世嘉《索尼克 × 夏特世代重启》游戏销量突破 300 万份，距发售 2 年"
+    },
+    {
+     "title": "首页壁纸被替换为游戏海报：微软 XBOX 游戏机强推《使命召唤：现代战争 4》广告引发玩家不满",
+     "link": "https://www.ithome.com/1/017/923.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:19:58 GMT",
+     "summary": "IT之家 10 月 26 日消息，微软此前在 XBOX 平台推出大型第一方游戏时偶尔会在主界面投放宣传广告，然而随着《使命召唤：现代战争 4（Call of Duty：Modern Warfare 4）》于 10 月 23 日发售，微软本次营销更加猛烈， 将用户游戏机首页背景直接替换为了游戏广告 ，引发用户不满。 综合 Windows Central 报道，微软在本次营销活动中，擅自替换了用户本身为 XBOX 设置的自定义壁纸。许多用户表示，即使理解微软需要为新游戏进行宣传，也不希望广告未经同意便覆盖自己的个性化设置。 目前，用户只能手动关闭这一广告。具体办法为依次进入“设置”>“常规”>“个",
+     "source": "IT之家",
+     "zh": "首页壁纸被替换为游戏海报：微软 XBOX 游戏机强推《使命召唤：现代战争 4》广告引发玩家不满"
+    },
+    {
+     "title": "我国风光累计装机容量突破 20 亿千瓦",
+     "link": "https://www.ithome.com/1/017/922.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:18:46 GMT",
+     "summary": "IT之家 10 月 26 日消息，国家能源局今日宣布，今年 1-9 月，风电和太阳能发电新增装机容量约 1.7 亿千瓦，截至 2026 年 9 月底， 风电和太阳能发电累计装机容量达到 20.1 亿千瓦 。 IT之家从国家能源局发布的数据获悉，太阳能发电装机容量 13.1 亿千瓦，同比增长 16.5%；风电装机容量 7.0 亿千瓦，同比增长 20.4%。国家能源局还提到，新能源快速发展，在能源领域发挥了不可取代的作用： 一是成为推进能源转型的主要力量。今年 1-9 月，风光发电量 19333 亿千瓦时， 比去年同期增加 1937 亿千瓦时 ，风光发电增量占全社会新增用电量的 64%，新能源大规",
+     "source": "IT之家",
+     "zh": "我国风光累计装机容量突破 20 亿千瓦"
+    },
+    {
+     "title": "保时捷正打造 15 辆独一无二的定制车型，最高售价达 1500 万美元",
+     "link": "https://www.ithome.com/1/017/921.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:13:33 GMT",
+     "summary": "IT之家 10 月 26 日消息，保时捷计划把盈亏平衡点压低至年销量 20 万辆以内，这显然不能靠大量推出入门版 Macan 来冲量。这家德国车企选择向更高端的方向发力：高度定制车型、独一台的专属定制车、报价六位数起的原厂复原翻新项目，不用追求走量，就能创造丰厚利润。 这一战略，是保时捷在盈利承压阶段修复盈利能力的重要一环。近期该公司面临利润下滑、关税压力、中国市场激烈竞争，以及电动化投入高昂等难题。保时捷的思路不是单纯多卖车，而是提升单车利润，尤其拉高顶配产品线的收益。 这套打法，就是给高净值客户提供定制独一份座驾的渠道。个性化与经典车业务副总裁亚历山大 · 法比希（Alexander Fa",
+     "source": "IT之家",
+     "zh": "保时捷正打造 15 辆独一无二的定制车型，最高售价达 1500 万美元"
+    },
+    {
+     "title": "小米商城推出“黑钻通行证”：每天 10 点先到先得，购买赠手机挂绳盲盒 / 大额尊享券包等权益",
+     "link": "https://www.ithome.com/1/017/920.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:12:39 GMT",
+     "summary": "IT之家 10 月 26 日消息，小米卢伟冰发文，宣布为小米商城带来“黑钻通行证”，用户可以在 App 搜索框中直接搜索跳转，相应权益每天 10 点先到先得，其中非黑钻会员定价为 9.9 元，黑钻会员定价为 0.01 元。 根据小米介绍，用户购买“黑钻通行证”可解锁三大专属权益：价值 69 元的手机挂绳盲盒、30 天的黑钻体验（享 26 项专属特权），以及最高减 200 元的大额尊享券包。见面礼总限量 11,111 份，于卡期内分日发售。 此外，11 月 2 日至 10 日每日皆有不同好礼，奖项涵盖星巴克兑换券、腾讯视频 VIP、米家全能扫拖机器人、Xiaomi Pad 9 Pro、Xiaom",
+     "source": "IT之家",
+     "zh": "小米商城推出“黑钻通行证”：每天 10 点先到先得，购买赠手机挂绳盲盒 / 大额尊享券包等权益"
+    },
+    {
+     "title": "网络效应是一种习惯：那一个习惯是如何结束的？",
+     "link": "https://www.huxiu.com/article/4900481.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 15:08:44 +0800",
+     "summary": "本文来自微信公众号： 肖小跑 ，作者：肖小跑 01 其实学经济的人惯性很大。比如，在解释为什么美元至今还无法替代的时候，除了强大的美军，另一个经常会提到的词就是：网络效应。 意思是：我自己换另一种货币用没什么难的，但只要大家都认美元，只要别人都在用，只要我还想和别人做生意，我就得继续用。不管对美国有多少意见，甚至就算美国政权结束了，它留下的交易习惯也未必跟着一起结束。 历史上的例子太多了。比如我曾经写过的在土库曼斯坦看到的帕提亚（安息）银币（在这里写到过）。一个国家是独立的，并不代表它的钱包和货币也想独立。 今年外滩年会上，我有机会和Barry Eichengreen录了一期播客，他简直就是行",
+     "source": "虎嗅",
+     "zh": "网络效应是一种习惯：那一个习惯是如何结束的？"
     },
     {
      "title": "一只螃蟹不养，一张卡净赚100：蟹卡是怎么变成金融产品的？",
@@ -1770,52 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "一只螃蟹不养，一张卡净赚100：蟹卡是怎么变成金融产品的？"
     },
     {
-     "title": "小米“米家洗鞋机 3KG”11 月 2 日开启众筹：可洗运动鞋 / 帆布鞋、支持除菌，799 元起",
-     "link": "https://www.ithome.com/1/017/916.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:04:18 GMT",
-     "summary": "IT之家 10 月 26 日消息，小米宣布将推出一款“米家洗鞋机 3KG”，该产品将于 11 月 2 日 10 点在有品开启众筹，建议零售价 1299 元，众筹价 799 元起。 该产品整体采用米家白色家族式外观，整机占地 0.18m2，阳台柜、洗衣房均可摆放。其号称能够通过波轮高速旋转带动 3D 立体水流全方位冲刷鞋面、鞋底纹路及鞋内衬，能够显著清除泥渍、草渍、汗渍等常见污渍。 该产品适配运动鞋、休闲鞋、童鞋、帆布鞋、板鞋、运动拖鞋等，单次可批量清洗 2-4 双，无需复杂操作，开盖一键开启清洗。提供标准洗、强力洗、快速洗、除菌洗、多用洗、漂 + 脱、单脱水、筒清洁共 8 种程序，支持 24 ",
-     "source": "IT之家",
-     "zh": "小米“米家洗鞋机 3KG”11 月 2 日开启众筹：可洗运动鞋 / 帆布鞋、支持除菌，799 元起"
-    },
-    {
-     "title": "蜂巢能源首批 100kWh 混合固液超充电池包量产下线，称混合固液将长期存在并成主流路线",
-     "link": "https://www.ithome.com/1/017/915.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:03:14 GMT",
-     "summary": "IT之家 10 月 26 日消息，蜂巢能源官方今日宣布， 首批 100kWh 龙鳞甲混合固液超充电池包在常州正式下线 。 蜂巢能源判断，混合固液在纯电、特别是三元领域不是简单过渡方案， 而将成为长期存在的主流路线 。 IT之家注：混合固液电池是指同时由液体电解质和固体电解质在正负极之间传递离子的电池，而固态电池是指由固体电解质在正负极之间传递离子的电池。 今年 5 月，蜂巢能源表示，目前全固态电池还有非常长的路要走，没有大规模量产之前，混合固液电池就是一条主流技术路线。蜂巢能源认为， 今年是混合固液电池爆发的元年，将会大规模推广 。 另外，在去年 12 月，《电动汽车用固态电池第 1 部分：术",
-     "source": "IT之家",
-     "zh": "蜂巢能源首批 100kWh 混合固液超充电池包量产下线，称混合固液将长期存在并成主流路线"
-    },
-    {
-     "title": "微星推出 PRO SN 系列非模组 PC 电源，PPLP 银牌转换效率认证",
-     "link": "https://www.ithome.com/1/017/914.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:03:08 GMT",
-     "summary": "IT之家 10 月 26 日消息，微星 (MSI) 现已推出 PRO SN 系列 PC 电源。其采用标准 ATX 外形规格， 配套非模组压纹线材 ，获得 PPLP 银牌转换效率认证，包含 650W / 750W / 850W 三档额定功率的产品。 PRO SN 系列统一选用 105℃ 耐温主电容器，采用 APFC 和 DC-DC 电路拓扑，内置 120mm 的 HYB 轴承风扇，具备 OCP、OTP、OPP、OVP、UVP、SCP 安全防护机制。 IT之家了解到，微星 PRO SN 电源 650W 款遵循 ATX12V 2.XX 规范， 750W 和 850W 则支持 ATX12V 3.1、P",
-     "source": "IT之家",
-     "zh": "微星推出 PRO SN 系列非模组 PC 电源，PPLP 银牌转换效率认证"
-    },
-    {
-     "title": "光荣特库摩 2027 财年年报预计归母净利润 370 亿日元，同比预降 13.61%",
-     "link": "https://www.ithome.com/1/017/913.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:01:56 GMT",
-     "summary": "IT之家 10 月 26 日消息，光荣特库摩今日发布 2027 财年（2026 年 4 月 1 日～2027 年 3 月 31 日）年报业绩预告报告： 营业总收入 ：910 亿日元 （IT之家注：现汇率约合 38.71 亿元人民币） ，同比预增 2.95% 归母净利润 ：370 亿日元 （现汇率约合 15.74 亿元人民币） ，同比预降 13.61% 基本每股收益 ：110.73 日元 （现汇率约合 4.71 元人民币） ，同比预降 15.97% AI 解读 本次光荣特库摩令和9年3月期（2027年3月期）全年业绩预告修正后，营收与归母净利润预期均较前回预测上调，但低于部分市场分析师此前的全年",
-     "source": "IT之家",
-     "zh": "光荣特库摩 2027 财年年报预计归母净利润 370 亿日元，同比预降 13.61%"
-    },
-    {
      "title": "2026世界智能网联汽车大会：从比参数到比安全，行业进入规则约束期",
      "link": "https://www.huxiu.com/article/4900478.html?f=rss",
      "pubDate": "Mon, 26 Oct 2026 15:00:26 +0800",
      "summary": "本文来自微信公众号： 车市睿见 ，编辑：杨果，作者：杨朔 2026年10月21日，由工业和信息化部、交通运输部和北京市人民政府共同主办的2026世界智能网联汽车大会在北京亦庄开幕。智能网联汽车正在告别“单点突破”叙事。安全从上市前的一道检测关口，变成了准入与迭代的前置条件。 而智能化则正在从配置清单的延长，变成了车、路、云协同系统的重构。这两件事共同指向一个结果：行业的竞争要素正在从参数和功能，转向合规能力、体系协同与商业可持续。 ▍安全成为前置条件：从检测到全生命周期约束 安全被摆在这届大会最靠前的位置，这一点从监管方的表态中能明显看出。工业和信息化部副部长辛国斌在开幕式上表示，智能网联汽车",
      "source": "虎嗅",
      "zh": "2026世界智能网联汽车大会：从比参数到比安全，行业进入规则约束期"
-    },
-    {
-     "title": "极摩客推出 NucBox M3S 迷你主机：酷睿 3 304 处理器、12GB 内存",
-     "link": "https://www.ithome.com/1/017/911.htm",
-     "pubDate": "Mon, 26 Oct 2026 06:59:22 GMT",
-     "summary": "IT之家 10 月 26 日消息，极摩客现已在海外市场推出 NucBox M3S 迷你主机，新品采用英特尔 Wildcat Lake 平台，支持 USB4、三屏 4K 输出，提供 12GB 板载内存，定价 389.99 美元。 据介绍， 这款迷你主机搭载英特尔酷睿 3 304 处理器 ，带有 1 个性能核心及 4 个能效核心，最高睿频可达 4.3GHz，最高功耗为 25W。 同时， 该迷你主机配备 12GB LPDDR5-5600 板载内存 ，SSD 可选 256GB 或 512GB。机内提供第二个 M.2 2280 插槽，支持 PCIe 4.0，用户可自行扩展存储空间。接口方面， 该机提供 ",
-     "source": "IT之家",
-     "zh": "极摩客推出 NucBox M3S 迷你主机：酷睿 3 304 处理器、12GB 内存"
     },
     {
      "title": "从欧盟MRN到美国IOR：全球海关监管大转向",
@@ -1832,22 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 具身商业前哨 ，作者：温特斯 “水下算的是一整套系统的价格，而不是一个人的人工替代价格。” 这是卫澜深海创始人张大禹在今年10月接受采访时说的一句话。它几乎解释了这条冷门赛道为什么突然有了订单，也解释了资本为什么跟着涌入。 10月22日，2026中国海洋经济博览会在深圳开幕，船体清洗、河道保洁、海底管缆和深海勘探机器人集中亮相。 （欧卡智舶海面具身产业图谱） 展馆外，钱已先一步下水：6月，世航智能完成超10亿元A轮系列融资；8月，深海智人完成超5亿元A轮；9月，欧卡智舶完成C轮融资，年内累计融资近3亿元；10月，卫澜深海披露9个月完成5轮融资。 比融资更能说明需求的，是订",
      "source": "虎嗅",
      "zh": "水下机器人订单爆发，为什么这门生意还只算清了半本账？"
-    },
-    {
-     "title": "五折捡漏，也会“破发”",
-     "link": "https://www.huxiu.com/article/4900474.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 14:43:15 +0800",
-     "summary": "本文来自微信公众号： 投中网 ，作者：陶辉东 投资人盯上了ST股重整标的。 作者陶辉东 本文字数2244 手搓量丨90%AI含量丨10% 10月15日晚，ST春兴贴出重整投资协议公告。产业投资人南京聚星微以1.23元/股受让3.85亿股、出资4.74亿元，拿下控制权；七家财务投资人以1.28元/股接下8.19亿股、出资10.48亿元。 这个接盘价格，该价格约为定价基准日前60个交易日均价5折定的，产业投资人是5.02折，财务投资人是5.22折。协议一签，浮盈一倍。 破产重整在A股一直是个小众活儿。标的烂、周期长、不确定性大。但今年它突然成了热门赛道。数据显示，今年截至9月底有超过20家上市公司",
-     "source": "虎嗅",
-     "zh": "五折捡漏，也会“破发”"
-    },
-    {
-     "title": "199杯奶茶、5.2米的辣条，过日子人开始给婚礼拉邪门赞助",
-     "link": "https://www.huxiu.com/article/4900473.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 14:42:57 +0800",
-     "summary": "本文来自微信公众号： 惊蛰青年 ，作者：阿瑞 你大概率没参加过这样一场婚礼。 迎宾立牌上除了新郎新娘的卡通形象，还印着某交友APP的logo；签到区整整齐齐地摆放着红色包装的现制奶茶，每位宾客都可以领取；婚宴上，每一桌都少不了一包金红配色的定制款辣条，上面写着祝福语。 当仪式结束，大屏上打出致谢名单，一串熟悉的品牌名字也随之出现，你才恍然大悟：原来这些，居然是品牌赞助的。 愿意这么办婚礼的人还不多，但正在变多。在小红书上，“婚礼赞助”词条浏览量超过千万次，讨论量35万。备婚的新人们涌进品牌官方账号相关招募活动的评论区报名，甚至有人直接发笔记@多个品牌请求赞助。当然，后者也有概率遭到路人的不解和",
-     "source": "虎嗅",
-     "zh": "199杯奶茶、5.2米的辣条，过日子人开始给婚礼拉邪门赞助"
     },
     {
      "title": "2025 年老年抚养比首次超过少儿抚养比",
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
      "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
      "pubDate": "Mon, 26 Oct 2026 04:11:40 +0000",
-     "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 44 # Comments: 22",
+     "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 55 # Comments: 42",
      "source": "Hacker News",
      "zh": "Cognitive Mercantilism: AI panic resembles fears of early capitalism"
     },
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Behind the scenes at the NeXT Computer office",
      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
      "pubDate": "Mon, 26 Oct 2026 03:31:11 +0000",
-     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 63 # Comments: 28",
+     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 69 # Comments: 30",
      "source": "Hacker News",
      "zh": "Behind the scenes at the NeXT Computer office"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
      "pubDate": "Mon, 26 Oct 2026 03:29:05 +0000",
-     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 74 # Comments: 14",
+     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 84 # Comments: 20",
      "source": "Hacker News",
      "zh": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: TitleArt – Make text like it's 1997",
      "link": "https://titleart.dvy.io/",
      "pubDate": "Mon, 26 Oct 2026 03:23:57 +0000",
-     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 114 # Comments: 18",
+     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 141 # Comments: 19",
      "source": "Hacker News",
      "zh": "Show HN: TitleArt – Make text like it's 1997"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
      "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
      "pubDate": "Mon, 26 Oct 2026 03:12:05 +0000",
-     "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 33 # Comments: 12",
+     "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 34 # Comments: 13",
      "source": "Hacker News",
      "zh": "Microsoft Decision-1: 9B Qwen Model Launch Explained"
     },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Galaxy S27’s Exynos chip reportedly beats Snapdragon in tests, but we have many questions",
+     "link": "https://www.androidauthority.com/samsung-galaxy-s27-exynos-snapdragon-benchmark-comparison-leak-3727752/",
+     "pubDate": "Mon, 26 Oct 2026 07:22:03 +0000",
+     "summary": "What about single-core performance and GPU stress tests? What about battery life? Take this report with some salt.",
+     "source": "Android Authority",
+     "zh": "Galaxy S27’s Exynos chip reportedly beats Snapdragon in tests, but we have many questions"
+    },
     {
      "title": "vivo Y600 is official with a 10,000mAh battery and 6.83-inch display",
      "link": "https://www.gsmarena.com/vivo_y600_is_official_with_a_10000mah_battery_and_683inch_display-news-75202.php",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "I canceled Google AI Plus after the downgrade, but I’m still using Gemini"
     },
     {
-     "title": "Fitbit Edge vs Fitbit Air: Which health features do you actually get?",
-     "link": "https://www.androidauthority.com/google-fitbit-edge-vs-fitbit-air-3727053/",
-     "pubDate": "Sun, 25 Oct 2026 11:00:48 +0000",
-     "summary": "All that Edge, yet Air wins?",
-     "source": "Android Authority",
-     "zh": "Fitbit Edge vs Fitbit Air: Which health features do you actually get?"
-    },
-    {
      "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
      "link": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
      "pubDate": "Sun, 25 Oct 2026 10:45:33 +0000",
@@ -2250,12 +2250,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "沙特阿拉伯股指早盘上涨1.3%",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907923542.html",
-     "pubDate": "Mon, 26 Oct 2026 15:02:27 +0800",
-     "summary": "沙特阿拉伯股指早盘上涨1.3%。 （文章来源：金十数据快讯）",
+     "title": "PE仅3倍、估值已跌至金融危机水平！三星、SK海力士财报将近，能否逆转股价颓势？",
+     "link": "https://wallstreetcn.com/articles/3784460",
+     "pubDate": "Mon, 26 Oct 2026 15:23:55 +0800",
+     "summary": "三星电子与SK海力士的股价正深陷\"盈利创纪录、估值跌谷底\"的罕见背离困局。随着两家公司本周相继发布三季度完整财报——SK海力士定于28日、三星电子定于29日——市场正屏息以待，寻找股价止跌回升的催化剂。 韩国本地券商KB证券在10月26日发布的研报中指出， 三星电子与SK海力士的市盈率已双双跌至约3倍，外资持股比例降至2008年金融危机以来最低水平。 KB证券研究部门负责人Kim Dong-won表示， \"两家公司已进入堪比历史金融危机的低估值区间，盈利与股价之间出现了极端背离。\" 与此同时， 高盛亦于 10月25日将KOSPI 12个月目标价从12000点大幅下调至9000点，但同步警告市场",
+     "source": "华尔街见闻",
+     "zh": "PE仅3倍、估值已跌至金融危机水平！三星、SK海力士财报将近，能否逆转股价颓势？"
+    },
+    {
+     "title": "东华软件在北京成立慧景科技公司 注册资本2亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907933797.html",
+     "pubDate": "Mon, 26 Oct 2026 15:23:02 +0800",
+     "summary": "天眼查App显示，近日，东华慧景科技（北京）有限公司成立，法定代表人为宋梦龙，注册资本2亿元人民币，经营范围包括 人工智能 基础 软件开发 、 人工智能 应用 软件开发 、 人工智能 行业应用系统集成服务等。股东信息显示，该公司由 东华软件 股份公司全资持股。 （文章来源：每日经济新闻）",
      "source": "东方财富股票",
-     "zh": "沙特阿拉伯股指早盘上涨1.3%"
+     "zh": "东华软件在北京成立慧景科技公司 注册资本2亿元"
+    },
+    {
+     "title": "“院士四川科技行”到访旭光电子 共探核聚变能源装备配套创新发展",
+     "link": "http://stock.eastmoney.com/news/11219,202610263907933632.html",
+     "pubDate": "Mon, 26 Oct 2026 15:23:00 +0800",
+     "summary": "上证报中国证券网讯（记者李少鹏 ）记者从 旭光电子 获悉，四川省聚变能源发展“院士四川科技行”专题调研组近日到访公司。本次调研组由中国工程物理研究院彭先觉院士、胡晓棉院士、吴强院士领衔，聚焦大功率 电子 管（兆瓦级四级管）与电真空装备研制联合实验室项目开展专题调研指导。公司董事长刘卫东、总经理张纯、总工程师陈军平及核心技术团队陪同调研并作专项成果汇报，与调研组开展深度技术研讨。 调研组一行实地参观了 旭光电子 核聚变配套产品展区，现场考察兆瓦级射频四级发射管（DB967）、长脉冲百千瓦级金属陶瓷四级管（DB968）、252kV真空灭弧室、电气贯穿件、铠装电缆组件等面向聚变能源场景的系列核心配套",
+     "source": "东方财富股票",
+     "zh": "“院士四川科技行”到访旭光电子 共探核聚变能源装备配套创新发展"
+    },
+    {
+     "title": "苏泊尔：公司实现营业收入169.92亿元，外销业务营业收入环比改善",
+     "link": "http://stock.eastmoney.com/news/11215,202610263907933315.html",
+     "pubDate": "Mon, 26 Oct 2026 15:22:37 +0800",
+     "summary": "南财智讯10月26日电， 苏泊尔 在投资者关系活动中表示，2026年前三季度，公司实现营业收入169.92亿元，同比增长0.56%；实现归属于上市公司股东的净利润12.73亿元，同比下降6.84%。内销方面，公司通过产品创新及渠道运营优势，营业收入保持平稳增长，且 小家电 及炊具核心品类的线上市占率均有所提升，线下市占率持续保持行业领先地位。外销业务营业收入环比改善，单季收入恢复增长。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "苏泊尔：公司实现营业收入169.92亿元，外销业务营业收入环比改善"
+    },
+    {
+     "title": "苏泊尔：公司近年来全面推广钛系列产品并持续推动钛材质在更多品类中进行应用",
+     "link": "http://stock.eastmoney.com/news/11215,202610263907933445.html",
+     "pubDate": "Mon, 26 Oct 2026 15:21:00 +0800",
+     "summary": "南财智讯10月26日电， 苏泊尔 在投资者关系活动中表示，第三季度内销业务整体保持稳健。公司近年来全面推广钛系列产品并持续推动钛材质在更多品类中进行应用，零涂层、健康材质等产品升级也得到越来越多消费者的认可。展望未来，公司将继续坚持产品创新的根本战略，聚焦炊具、 小家电 等核心品类，通过材质升级、工艺改进和功能迭代提升产品竞争力，并稳步培育有潜力的新品类；同时发挥渠道运营优势，巩固传统电商、拓展新兴渠道，并持续提升供应链效率和成本竞争力。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "苏泊尔：公司近年来全面推广钛系列产品并持续推动钛材质在更多品类中进行应用"
+    },
+    {
+     "title": "Caldwell divests IQTalent to WinMil in $4.7M deal",
+     "link": "https://seekingalpha.com/news/4657020-caldwell-divests-iqtalent-to-winmil-in-47m-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 03:20:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Caldwell divests IQTalent to WinMil in $4.7M deal"
+    },
+    {
+     "title": "武汉：前三季度集成电路圆片、平板电脑、智能电视产量同比分别增长36.8%、33.0%、16.8%",
+     "link": "http://finance.eastmoney.com/news/1346,202610263907933237.html",
+     "pubDate": "Mon, 26 Oct 2026 15:20:46 +0800",
+     "summary": "武汉市统计局发布数据，前三季度，全市规模以上工业增加值同比增长17.5%，增速比上半年加快2.1个百分点。从主要行业看， 计算机 、 通信 和其他 电子 设备制造业增长98.2%， 金属制品 业增长6.6%。规模以上高技术制造业增加值增长72.1%，占规模以上工业增加值比重为40.8%，对规模以上工业增长贡献率达107.8%。分产品看，集成电路圆片、平板电脑、 智能电视 产量同比分别增长36.8%、33.0%、16.8%。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "武汉：前三季度集成电路圆片、平板电脑、智能电视产量同比分别增长36.8%、33.0%、16.8%"
+    },
+    {
+     "title": "【风口研报】海外机构密集发声！业绩端验证行业景气  存储芯片或迎估值修复窗口",
+     "link": "http://stock.eastmoney.com/news/1405,202610263907932969.html",
+     "pubDate": "Mon, 26 Oct 2026 15:20:00 +0800",
+     "summary": "A股三大指数今日涨跌不一，截止收盘，沪指涨0.19%，收报3697.52点；深证成指跌1.19%，收报11534.38点；创业板指跌1.71%，收报2638.23点。沪深京三市成交额1.62万亿，较上一交易日大幅缩量3500亿。行业板块涨少跌多，游戏、 医药商业 、 白酒 板块涨幅居前， 元件 、 贵金属 、 半导体 、 电子 化学品、 玻璃玻纤 、地面兵装、 稀土 板块跌幅居前。个股方面，上涨股票数量超过2200只，近60只股票涨停。 据报道，10月25日，野村证券发布研报，针对近期全球存储板块遭遇的剧烈抛售进行点评。研报认为，市场对 人工智能 投资前景的担忧属于“反应过度”， 存储芯片 短",
+     "source": "东方财富股票",
+     "zh": "【风口研报】海外机构密集发声！业绩端验证行业景气  存储芯片或迎估值修复窗口"
+    },
+    {
+     "title": "中国人民大学新闻学院教授王菲：品牌叙事如何创造品牌价值",
+     "link": "http://www.eeo.com.cn/2026/1026/1075832.shtml",
+     "pubDate": "Mon, 26 Oct 2026 15:12:36 +0800",
+     "summary": "10月23日，由《经济观察报》联合香港管理专业协会主办的“2026杰出品牌营销分享会”在北京举行。中国人民大学新闻学院教授、现代广告研究中心主任王菲在发表主旨演讲时表示，品牌叙事不是单向“讲好一个故事”，而是围绕核心价值观组织用户叙事与企业叙事，为企业世界和用户世界提供双方共同沟通的价值平台。",
+     "source": "经济观察网",
+     "zh": "中国人民大学新闻学院教授王菲：品牌叙事如何创造品牌价值"
     },
     {
      "title": "Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据",
@@ -2266,44 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据"
     },
     {
-     "title": "ESG典型案例丨从车间能效到全球订单：海亮股份绿色智造的价值闭环",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907923687.html",
-     "pubDate": "Mon, 26 Oct 2026 15:01:24 +0800",
-     "summary": "从“清晨站在杭坞山上，根本看不见店口的屋顶”，到如今“空气中闻不到一丝异味”；从原来的“小 铜 炉”作坊变成一台三层楼高的 天然气 熔铸炉；从老工人“烟熏火燎”的劳作到车间里机械臂精准完成切割焊接，AGV无人搬运车沿设定路线穿梭……这一幕现代化生产场景正是位于浙江诸暨店口镇的 海亮股份 浙江 铜 管事业部盘管线车间。 这一场景的切换是 海亮股份 在ESG领域实践的一个小小缩影。回顾2025年ESG报告， 海亮股份 实现营业总收入833.10亿元，归母净利润9.43亿元，研发投入8.99亿元；国内 铜 管材 单位产品 综合 能耗降至142.94kgce/t，远低于国标1级指标；再生铜使用比例提升",
-     "source": "东方财富股票",
-     "zh": "ESG典型案例丨从车间能效到全球订单：海亮股份绿色智造的价值闭环"
-    },
-    {
      "title": "A股三大指数涨跌不一 游戏、医药商业、白酒板块涨幅居前",
      "link": "http://finance.eastmoney.com/news/1345,202610263907922657.html",
      "pubDate": "Mon, 26 Oct 2026 15:00:15 +0800",
      "summary": "A股三大指数今日涨跌不一，截止收盘，沪指涨0.19%，收报3697.52点；深证成指跌1.19%，收报11534.38点；创业板指跌1.71%，收报2638.23点。沪深京三市成交额1.62万亿，较上一交易日大幅缩量3500亿。 行业板块涨少跌多，游戏、医药商业、白酒板块涨幅居前，元件、贵金属、半导体、电子化学品、玻璃玻纤、地面兵装、稀土板块跌幅居前。 个股方面，上涨股票数量超过2200只，近60只股票涨停。机器人板块持续走强，赛福天、正裕工业、多伦科技、襄阳轴承3连板，万向钱潮、锋龙股份、永创智能2连板；数据要素概念股表现强势，海量数据、生意宝、延华智能涨停；消费板块表现活跃，桂发祥、青岛食",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "A股三大指数涨跌不一 游戏、医药商业、白酒板块涨幅居前"
-    },
-    {
-     "title": "中国量子计算企业向海外高校捐赠量子计算机机时",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907922894.html",
-     "pubDate": "Mon, 26 Oct 2026 14:59:20 +0800",
-     "summary": "记者26日从安徽省量子计算芯片重点实验室获悉，本源量子计算科技(合肥)股份有限公司(以下简称“本源量子”)已向巴基斯坦、英国、哈萨克斯坦的3所高校捐赠“本源悟空”自主超导量子 计算机 机时。 据本源量子营销总监汪波介绍，“本源悟空”自主超导量子 计算机 由本源量子研制，现已上线本源量子计算云平台，用户获取机时后可以通过该平台自主选用“本源悟空”系列超导量子 计算机 。目前，“本源悟空”系列量子计算设备已面向192个国家和地区提供云端量子算力服务，累计完成130万个量子计算任务。 资料图为本源量子多台量子计算机真机。 中新社发孙超摄 汪波表示，本次面向海外高校捐赠机时，旨在为海外青年科研人员与学",
-     "source": "东方财富股票",
-     "zh": "中国量子计算企业向海外高校捐赠量子计算机机时"
-    },
-    {
-     "title": "文远知行增资至50亿",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907923283.html",
-     "pubDate": "Mon, 26 Oct 2026 14:58:35 +0800",
-     "summary": "天眼查App显示，近日，广州 文远知行 科技有限公司发生工商变更，注册资本由45亿元人民币增至50亿元人民币，增幅约11%。该公司成立于2018年1月，法定代表人为韩旭，经营范围包括 人工智能 基础 软件开发 、 人工智能 应用 软件开发 、 人工智能 硬件销售等，由WeRideHongKongLimited全资持股。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "文远知行增资至50亿"
-    },
-    {
-     "title": "据半岛电视台：以色列国防部长称有关以色列政治领导层与军方在伊朗问题上存在分歧的报道毫无根据",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907922579.html",
-     "pubDate": "Mon, 26 Oct 2026 14:58:25 +0800",
-     "summary": "据半岛电视台：以色列国防部长称有关以色列政治领导层与军方在伊朗问题上存在分歧的报道毫无根据。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "据半岛电视台：以色列国防部长称有关以色列政治领导层与军方在伊朗问题上存在分歧的报道毫无根据"
     },
     {
      "title": "知名基金经理调仓大曝光！李晓星：对AI产业长期发展保持乐观",
@@ -2456,38 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tech sell-off pressures Asian stocks ahead of central bank policy week"
-    },
-    {
-     "title": "Oxford Street’s pedestrian revolution is finally here",
-     "link": "https://www.ft.com/content/e14c2beb-cbcd-4e47-9f30-604b766f88e1?syn-25a6b1a6=1",
-     "pubDate": "Mon, 26 Oct 2026 05:00:21 GMT",
-     "summary": "UK’s leading shopping parade embarks on a controversial transformation project",
-     "source": "Financial Times",
-     "zh": "Oxford Street’s pedestrian revolution is finally here"
-    },
-    {
-     "title": "A day in Benjamin Netanyahu’s heartland",
-     "link": "https://www.ft.com/content/470fbc3a-fd2e-4ad3-8999-25d71e53d173",
-     "pubDate": "Mon, 26 Oct 2026 05:00:20 GMT",
-     "summary": "Many in Sderot, a city hit by Hamas’s October 7 2023 attack, remain firmly behind the prime minister ahead of the election",
-     "source": "Financial Times",
-     "zh": "A day in Benjamin Netanyahu’s heartland"
-    },
-    {
-     "title": "The reclusive quant billionaire coming into the light",
-     "link": "https://www.ft.com/content/bc6bba42-0b33-4825-a2c5-cff9b8f5c591?syn-25a6b1a6=1",
-     "pubDate": "Mon, 26 Oct 2026 05:00:12 GMT",
-     "summary": "Peter de Putron has spent decades maintaining a low profile. But the scale of his interests is commanding new attention",
-     "source": "Financial Times",
-     "zh": "The reclusive quant billionaire coming into the light"
-    },
-    {
-     "title": "SoftBank reportedly plans $50 billion tech investment in aspiring &apos;AI nation&apos; Malaysia",
-     "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-     "pubDate": "Mon, 26 Oct 2026 04:56:16 GMT",
-     "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
-     "source": "CNBC",
-     "zh": "SoftBank reportedly plans $50 billion tech investment in aspiring &apos;AI nation&apos; Malaysia"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 21:25:43",
+ "generated_at": "2026/10/26 21:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -986,6 +986,30 @@ window.INDUSTRY_DATA = {
      "zh": "When does a BI value stop being the right number?"
     },
     {
+     "title": "More capability, less equipment: the future of capacitor bank control",
+     "link": "https://www.utilitydive.com/spons/more-capability-less-equipment-the-future-of-capacitor-bank-control/833143/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "Utilities can now gain capacity and reliability without adding equipment or substation space.",
+     "source": "Utility Dive",
+     "zh": "More capability, less equipment: the future of capacitor bank control"
+    },
+    {
+     "title": "The push to DC: Why data centers are rethinking power architecture",
+     "link": "https://www.utilitydive.com/spons/the-push-to-dc-why-data-centers-are-rethinking-power-architecture/833783/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "Explore how 800 VDC can reduce power losses, free up data center space and reshape power architecture.",
+     "source": "Utility Dive",
+     "zh": "The push to DC: Why data centers are rethinking power architecture"
+    },
+    {
+     "title": "Inside the resilience gap",
+     "link": "https://www.utilitydive.com/spons/inside-the-resilience-gap/832932/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "The 2026 State of Grid Resilience report puts data behind the pressures utility leaders face as they strengthen resilience while balancing affordability and performance.",
+     "source": "Utility Dive",
+     "zh": "Inside the resilience gap"
+    },
+    {
      "title": "India's Stock Market Feels the Heat From High Oil Prices",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Stock-Market-Feels-the-Heat-From-High-Oil-Prices.html",
      "pubDate": "Mon, 26 Oct 2026 03:30:00 -0500",
@@ -1056,30 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Li Auto’s new i6 electric vehicle has a very interesting look. It makes me think of something out of some futuristic movie or The Jetsons. It certainly has an MPV (multipurpose vehicle) design that is current in China but not really anywhere else. Anyway, aside from the futuristic, cool styling, ...",
      "source": "CleanTechnica",
      "zh": "New Li Auto i6 Goes 811 km (504 Miles)"
-    },
-    {
-     "title": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together",
-     "link": "https://cleantechnica.com/2026/10/25/trump-doe-budget-cuts-energy-research/",
-     "pubDate": "Sun, 25 Oct 2026 17:17:07 +0000",
-     "summary": "Some DOE programs deserve to end. The problem is a budget request that cuts weak hydrogen bets while stripping support from technologies already delivering electrification. The post Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together"
-    },
-    {
-     "title": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One",
-     "link": "https://cleantechnica.com/2026/10/25/elon-musk-the-movie-blackout-billionaires/",
-     "pubDate": "Sun, 25 Oct 2026 17:07:52 +0000",
-     "summary": "Billionaire blackout or bad timing: \"Musk\" the documentary by Alex Gibney closes after just one week in theaters across the US. The post Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One"
-    },
-    {
-     "title": "Invest in Solar and Earn $3,000 a Day?",
-     "link": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
-     "pubDate": "Sun, 25 Oct 2026 08:20:44 +0000",
-     "summary": "Driven by the rapid growth of artificial intelligence, data centers, electric vehicles, and industrial electrification, global electricity demand continues to rise, making solar power a focal point for investment in energy infrastructure. For investors aiming for a daily return of $3,000, what scale",
-     "source": "CleanTechnica",
-     "zh": "Invest in Solar and Earn $3,000 a Day?"
     }
    ]
   },
@@ -1089,6 +1089,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "A virus that afflicts cows makes the jump to a human",
+     "link": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/?utm_campaign=rss",
+     "pubDate": "Mon, 26 Oct 2026 13:26:15 +0000",
+     "summary": "For the first time, a human has been infected with the Shamonda virus, according to French officials. The World Health Organization says broader transmission is unlikely.",
+     "source": "STAT News",
+     "zh": "A virus that afflicts cows makes the jump to a human"
+    },
     {
      "title": "Corxel to take oral GLP-1 public in the US via SPAC",
      "link": "https://endpoints.news/corxel-to-take-oral-glp-1-public-in-the-us-via-spac/",
@@ -1120,6 +1128,14 @@ window.INDUSTRY_DATA = {
      "summary": "Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.",
      "source": "BioPharma Dive",
      "zh": "The molecule was fine. The moment wasn’t."
+    },
+    {
+     "title": "Novel protein and peptide therapeutics",
+     "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
+     "source": "BioPharma Dive",
+     "zh": "Novel protein and peptide therapeutics"
     },
     {
      "title": "STAT+: Moderna CEO on what’s next after success in cancer vaccine",
@@ -1168,14 +1184,6 @@ window.INDUSTRY_DATA = {
      "summary": "MADRID — Akeso on Sunday spelled out just how much its Summit Therapeutics-partnered PD-1xVEGF bispecific improved survival in a late-stage, China-only biliary tract cancer study, in one of its early moves to find success beyond ...",
      "source": "Endpoints News",
      "zh": "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons"
-    },
-    {
-     "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
-     "link": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
-     "pubDate": "Sun, 25 Oct 2026 16:58:45 +0000",
-     "summary": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.",
-     "source": "STAT News",
-     "zh": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase"
     },
     {
      "title": "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins",
@@ -1272,14 +1280,6 @@ window.INDUSTRY_DATA = {
      "summary": "The results of a large prospective proteomic study have associated proteins linked with the immune system, cell adhesion, blood vessel formation, and known prostate cancer genes, to future risk of developing prostate cancer, including aggressive disease. The post Proteins Circulating in Blood Linked",
      "source": "GEN",
      "zh": "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer"
-    },
-    {
-     "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
-     "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
-     "pubDate": "Thu, 22 Oct 2026 12:24:00 -0400",
-     "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
-     "source": "BioPharma Dive",
-     "zh": "Biohaven’s previously rejected rare disease drug to get fresh FDA review"
     }
    ]
   },
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "苹果详解 iPad mini（A20 Pro）全新 Acoustic Display 声学显示屏：低音扬声器可通过屏幕协同发声",
+     "link": "https://www.ithome.com/1/018/161.htm",
+     "pubDate": "Mon, 26 Oct 2026 13:25:00 GMT",
+     "summary": "IT之家 10 月 26 日消息，苹果今天发布了 iPad mini（A20 Pro），也就是俗称的“iPad mini 8”，该机采用 A20 Pro 芯片，10 月 29 日凌晨 1 点 10 分接受预购，11 月 6 日发售，定价 5499 元起。 据苹果介绍，新款 iPad mini 配备创新的 Acoustic Display（声学显示屏），其采用密封式结构，帮助 iPad mini 达到 IP67 级防尘防水能力，同时还能为游戏、视频播放和内容编辑带来更出色的音频体验。 该机配备专门设计的低音扬声器，能够通过显示屏协同发声，呈现更强劲的低音和更大的音量；定制高音扬声器则隐藏在玻璃面",
+     "source": "IT之家",
+     "zh": "苹果详解 iPad mini（A20 Pro）全新 Acoustic Display 声学显示屏：低音扬声器可通过屏幕协同发声"
+    },
+    {
      "title": "铰链制造商 Fine M-Tec：客户近期部分产品质量问题非本企业零部件质量导致",
      "link": "https://www.ithome.com/1/018/160.htm",
      "pubDate": "Mon, 26 Oct 2026 13:21:09 GMT",
@@ -1786,12 +1794,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined (Anthropic)"
     },
     {
-     "title": "苹果新款 OLED iPad mini 仍配备 60Hz 刷新率面板",
+     "title": "苹果 iPad mini（A20 Pro）升级 OLED 面板，但仍为 60Hz 刷新率",
      "link": "https://www.ithome.com/1/018/159.htm",
      "pubDate": "Mon, 26 Oct 2026 13:10:08 GMT",
      "summary": "IT之家 10 月 26 日消息，苹果今天发布了 iPad mini（A20 Pro），也就是俗称的“iPad mini 8”，该机采用 A20 Pro 芯片，10 月 29 日凌晨 1 点 10 分接受预购，11 月 6 日发售， 定价 5499 元起 。 IT之家参考设备详情获悉，这款产品搭载 8.5 英寸 2316 x 1512 分辨率 OLED 屏幕，但屏幕刷新率仍为 60Hz。其中 256GB 和 512GB 机型可选配纳米纹理显示屏玻璃。",
      "source": "IT之家",
-     "zh": "苹果新款 OLED iPad mini 仍配备 60Hz 刷新率面板"
+     "zh": "苹果 iPad mini（A20 Pro）升级 OLED 面板，但仍为 60Hz 刷新率"
     },
     {
      "title": "任天堂 Switch 2 首个越狱方案公开不久，已现非官方 YouTube 运行演示",
@@ -1813,17 +1821,17 @@ window.INDUSTRY_DATA = {
      "title": "Anthropic S-1",
      "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
      "pubDate": "Mon, 26 Oct 2026 13:04:50 +0000",
-     "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 16 # Comments: 3",
+     "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 134 # Comments: 63",
      "source": "Hacker News",
      "zh": "Anthropic S-1"
     },
     {
-     "title": "5499 元起：苹果发布 iPad mini 8，8.5 英寸 OLED 屏、A20 Pro 芯片",
+     "title": "5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水",
      "link": "https://www.ithome.com/1/018/156.htm",
      "pubDate": "Mon, 26 Oct 2026 13:04:13 GMT",
-     "summary": "IT之家 10 月 26 日闪讯速报，苹果发布 iPad mini 8 平板电脑。这款产品搭载 8.5 英寸 OLED 屏幕，比上一代薄了 14%，采用 A20 Pro 芯片，10 月 29 日凌晨 1 点 10 分接受预购，11 月 6 日发售， 定价 5499 元起 。 IT之家从苹果官网获悉，iPad mini 8 提供午夜色、星光色两种配色。其机身相比 iPad mini 7 薄了 14%，轻了 13%。该机配备超视网膜 XDR 显示屏，采用 OLED 技术，峰值亮度可达 1200 nits，支持 P3 广色域，对比度可达 2000000:1， 刷新率官网未注明 ，256GB 和 51",
+     "summary": "IT之家 10 月 26 日闪讯速报，苹果发布 iPad mini 8 平板电脑。这款产品搭载 8.5 英寸 OLED 屏幕，比上一代薄了 14%，采用 A20 Pro 芯片，10 月 29 日凌晨 1 点 10 分接受预购，11 月 6 日发售， 定价 5,499 元起 。 IT之家附 iPad mini 8 各版本定价如下： 128GB：Wi-Fi 版 5,499 元，Wi-Fi+ 蜂窝版 6,799 元 256GB：Wi-Fi 版 6,299 元，Wi-Fi+ 蜂窝版 7,599 元 512GB：Wi-Fi 版本 7,999 元，Wi-Fi+ 蜂窝版 9,299 元 据介绍，iPad m",
      "source": "IT之家",
-     "zh": "5499 元起：苹果发布 iPad mini 8，8.5 英寸 OLED 屏、A20 Pro 芯片"
+     "zh": "5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水"
     },
     {
      "title": "苦心经营多年，印度海外形象为啥突然崩了？",
@@ -1834,20 +1842,20 @@ window.INDUSTRY_DATA = {
      "zh": "苦心经营多年，印度海外形象为啥突然崩了？"
     },
     {
-     "title": "英特尔 CEO 陈立武：已经和 AMD CEO 苏姿丰就潜在合作展开对话",
-     "link": "https://www.ithome.com/1/018/155.htm",
-     "pubDate": "Mon, 26 Oct 2026 13:02:11 GMT",
-     "summary": "IT之家 10 月 26 日消息，据科技媒体 Wccftech 今天报道，英特尔首席执行官陈立武近期在华美半导体协会（CASPA）炉边谈话中透露，他已经和 AMD 首席执行官苏姿丰对话，探讨潜在合作方向。 陈立武在谈话中表示，英特尔过去过于骄傲，从不愿意根据客户需求做出调整。公司如今正在加倍投入定制芯片业务，尤其是在至强产品线方面。 谈到先进制程时陈立武表示：“18A 已经进入量产阶段，14A 正在取得非常强劲的进展。我们已经推出了 0.5 版 PDK，请继续关注，未来很快就会有 0.9 版 PDK，明年年初到来的则是量产 1.0 版 PDK。我们有多家客户，我们确实希望帮他们扩大规模。” I",
-     "source": "IT之家",
-     "zh": "英特尔 CEO 陈立武：已经和 AMD CEO 苏姿丰就潜在合作展开对话"
-    },
-    {
      "title": "Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why",
      "link": "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/",
      "pubDate": "Mon, 26 Oct 2026 13:00:00 +0000",
      "summary": "The repair company iFixit released its repairability rating for Apple’s very first foldable iPhone. It comes as users report a wave of cracked-screen issues.",
      "source": "WIRED",
      "zh": "Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why"
+    },
+    {
+     "title": "Fixing Tool-Call Accuracy in vLLM",
+     "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+     "pubDate": "Mon, 26 Oct 2026 12:59:48 +0000",
+     "summary": "Article URL: https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm Comments URL: https://news.ycombinator.com/item?id=50242870 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Fixing Tool-Call Accuracy in vLLM"
     },
     {
      "title": "分享下我用AI 生成HTML 动画的提示词。",
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Peter Thiel, the tech oligarch who believes in the Antichrist",
      "link": "https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html",
      "pubDate": "Mon, 26 Oct 2026 12:49:31 +0000",
-     "summary": "Article URL: https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html Comments URL: https://news.ycombinator.com/item?id=50242734 Points: 16 # Comments: 1",
+     "summary": "Article URL: https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html Comments URL: https://news.ycombinator.com/item?id=50242734 Points: 43 # Comments: 10",
      "source": "Hacker News",
      "zh": "Peter Thiel, the tech oligarch who believes in the Antichrist"
     },
@@ -1893,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Writing Is Closer to Thought Than Code",
      "link": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
      "pubDate": "Mon, 26 Oct 2026 12:32:15 +0000",
-     "summary": "Article URL: https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code Comments URL: https://news.ycombinator.com/item?id=50242555 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code Comments URL: https://news.ycombinator.com/item?id=50242555 Points: 10 # Comments: 2",
      "source": "Hacker News",
      "zh": "Writing Is Closer to Thought Than Code"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Tasks as Code: Move Your Tickets into the Repository",
      "link": "https://typemill.net/knowledge-hub/tasks-as-code",
      "pubDate": "Mon, 26 Oct 2026 11:15:43 +0000",
-     "summary": "Article URL: https://typemill.net/knowledge-hub/tasks-as-code Comments URL: https://news.ycombinator.com/item?id=50241924 Points: 14 # Comments: 13",
+     "summary": "Article URL: https://typemill.net/knowledge-hub/tasks-as-code Comments URL: https://news.ycombinator.com/item?id=50241924 Points: 18 # Comments: 19",
      "source": "Hacker News",
      "zh": "Tasks as Code: Move Your Tickets into the Repository"
     },
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Copper prices are at record highs, but for TikTok creators, the real money may be in teaching others how to strip wire—and selling them the tools to do it.",
      "source": "WIRED",
      "zh": "The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It"
-    },
-    {
-     "title": "武汉和长江存储等了二十年，A股却散席了",
-     "link": "https://www.tmtpost.com/8181223.html",
-     "pubDate": "Mon, 26 Oct 2026 18:33:16 +0800",
-     "summary": "芯片贵，周期短，武汉难。",
-     "source": "钛媒体",
-     "zh": "武汉和长江存储等了二十年，A股却散席了"
     }
    ]
   },
@@ -2250,6 +2250,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "ZenaTech reports Q2 results",
+     "link": "https://seekingalpha.com/news/4657157-zenatech-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 09:25:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ZenaTech reports Q2 results"
+    },
+    {
+     "title": "Coca-Cola FEMSA reports Q3 results",
+     "link": "https://seekingalpha.com/news/4657156-coca-cola-femsa-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 09:22:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Coca-Cola FEMSA reports Q3 results"
+    },
+    {
+     "title": "Anthropic：即使业绩改善，净现金使用量也可能上升",
+     "link": "http://hk.eastmoney.com/news/1533,202610263908514624.html",
+     "pubDate": "Mon, 26 Oct 2026 21:22:44 +0800",
+     "summary": "Anthropic：即使业绩改善，净现金使用量也可能上升。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Anthropic：即使业绩改善，净现金使用量也可能上升"
+    },
+    {
+     "title": "Anthropic预计资本支出将大幅增加",
+     "link": "http://hk.eastmoney.com/news/1533,202610263908513729.html",
+     "pubDate": "Mon, 26 Oct 2026 21:22:27 +0800",
+     "summary": "Anthropic预计资本支出将大幅增加。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Anthropic预计资本支出将大幅增加"
+    },
+    {
+     "title": "Apple launches new iPad mini with OLED display, A20 pro chip",
+     "link": "https://seekingalpha.com/news/4657150-apple-launches-new-ipad-mini-with-oled-display-a20-pro-chip?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 09:21:58 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple launches new iPad mini with OLED display, A20 pro chip"
+    },
+    {
+     "title": "Verizon(VZ.N)首席执行官：SpaceX(SPCX.O)至少需要四到六年时间和数千亿美元才能建成移动网络",
+     "link": "http://hk.eastmoney.com/news/1533,202610263908513516.html",
+     "pubDate": "Mon, 26 Oct 2026 21:21:57 +0800",
+     "summary": "Verizon(VZ.N)首席执行官： SpaceX (SPCX.O)至少需要四到六年时间和数千亿美元才能建成移动网络。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Verizon(VZ.N)首席执行官：SpaceX(SPCX.O)至少需要四到六年时间和数千亿美元才能建成移动网络"
+    },
+    {
+     "title": "同兴达：前三季度归母净利润2125万元 同比增238.15%",
+     "link": "http://stock.eastmoney.com/news/11215,202610263908516714.html",
+     "pubDate": "Mon, 26 Oct 2026 21:21:00 +0800",
+     "summary": "10月26日， 同兴达 (002845)公布2026年三季报，公司营业收入为75.24亿元，同比下降1.1%；归母净利润2125万元，同比增238.15%；扣非归母净利润882万元，同比增134.37%；经营现金流净额为-4.78亿元，同比下降228.2%；EPS(全面摊薄)为0.06元。 其中第三季度，公司营业收入为24.4亿元，同比下降13.2%；归母净利润为1077万元，同比下降20.9%；扣非归母净利润为666万元，同比下降26.5%；EPS为0.03元。 截至三季度末，公司总资产99.82亿元，较上年度末增长4.5%；归母净资产为25.56亿元，较上年度末增长4.0%。 报告指出，公",
+     "source": "东方财富股票",
+     "zh": "同兴达：前三季度归母净利润2125万元 同比增238.15%"
+    },
+    {
+     "title": "天地数码：第三季度归母净利润同比降50.6%至1408万元",
+     "link": "http://stock.eastmoney.com/news/11215,202610263908516510.html",
+     "pubDate": "Mon, 26 Oct 2026 21:21:00 +0800",
+     "summary": "10月26日， 天地数码 (300743)公布2026年三季报，公司营业收入为7.21亿元，同比上升8.9%；归母净利润为8139万元，同比下降10.6%；扣非归母净利润为5842万元，同比下降31.0%；经营现金流净额为5406万元，同比下降27.0%；EPS(全面摊薄)为0.5383元。 其中第三季度，公司营业收入为2.43亿元，同比上升5.1%；归母净利润为1408万元，同比下降50.6%；扣非归母净利润为1419万元，同比下降45.0%；EPS为0.0931元。 截至三季度末，公司总资产10.23亿元，较上年度末下降6.0%；归母净资产为6.21亿元，较上年度末下降3.0%。 公司主要",
+     "source": "东方财富股票",
+     "zh": "天地数码：第三季度归母净利润同比降50.6%至1408万元"
+    },
+    {
+     "title": "天邑股份第三季度归母净利润4309万元，同比扭亏为盈",
+     "link": "http://stock.eastmoney.com/news/11215,202610263908516314.html",
+     "pubDate": "Mon, 26 Oct 2026 21:21:00 +0800",
+     "summary": "10月26日， 天邑股份 (300504)公布2026年三季报，公司营业收入为12.8亿元，同比上升30.4%；归母净利润自去年同期亏损5524万元成功扭亏，实现归母净利润9798万元；扣非归母净利润自去年同期亏损6403万元成功扭亏，实现扣非归母净利润9011万元；经营现金流净额为-4.71亿元，同比下降537.9%；EPS(全面摊薄)为0.3615元。 其中第三季度，公司营业收入为4.78亿元，同比上升52.2%；归母净利润自去年同期亏损1353万元成功扭亏，实现归母净利润4309万元；扣非归母净利润自去年同期亏损1640万元成功扭亏，实现扣非归母净利润4234万元；EPS为0.159元。",
+     "source": "东方财富股票",
+     "zh": "天邑股份第三季度归母净利润4309万元，同比扭亏为盈"
+    },
+    {
      "title": "YieldMax MSTR Performance & Distribution Tg 25 ETF declares $0.1419 dividend",
      "link": "https://seekingalpha.com/news/4657154-yieldmax-mstr-performance-and-distribution-tg-25-etf-declares-0_1419-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 26 Oct 2026 09:19:16 -0400",
@@ -2274,60 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "YieldMax TSLA Performance & Distribution Target 25 ETF declares $0.1807 dividend"
     },
     {
-     "title": "Anthropic：随着AI系统实现AI研发自动化，风险将会增加",
-     "link": "http://finance.eastmoney.com/news/1351,202610263908509651.html",
-     "pubDate": "Mon, 26 Oct 2026 21:16:28 +0800",
-     "summary": "Anthropic：随着AI系统实现AI研发自动化，风险将会增加。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "Anthropic：随着AI系统实现AI研发自动化，风险将会增加"
-    },
-    {
-     "title": "Anthropic：预计计算和基础设施费用按绝对金额计算将增加，并在可预见的未来仍将是其最大的运营支出",
-     "link": "http://finance.eastmoney.com/news/1351,202610263908509473.html",
-     "pubDate": "Mon, 26 Oct 2026 21:16:28 +0800",
-     "summary": "Anthropic：预计计算和基础设施费用按绝对金额计算将增加，并在可预见的未来仍将是其最大的运营支出。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "Anthropic：预计计算和基础设施费用按绝对金额计算将增加，并在可预见的未来仍将是其最大的运营支出"
-    },
-    {
-     "title": "Anthropic：联合创始人已各自承诺将他们在Anthropic中80%的个人股权用于慈善事业",
-     "link": "http://finance.eastmoney.com/news/1351,202610263908508993.html",
-     "pubDate": "Mon, 26 Oct 2026 21:16:27 +0800",
-     "summary": "Anthropic：联合创始人已各自承诺将他们在Anthropic中80%的个人股权用于慈善事业。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "Anthropic：联合创始人已各自承诺将他们在Anthropic中80%的个人股权用于慈善事业"
-    },
-    {
-     "title": "Anthropic：截至2025年12月31日止年度，与我们的捐赠配捐计划相关的费用为5.41亿美元",
-     "link": "http://finance.eastmoney.com/news/1351,202610263908508720.html",
-     "pubDate": "Mon, 26 Oct 2026 21:16:27 +0800",
-     "summary": "Anthropic：截至2025年12月31日止年度，与我们的捐赠配捐计划相关的费用为5.41亿美元。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "Anthropic：截至2025年12月31日止年度，与我们的捐赠配捐计划相关的费用为5.41亿美元"
-    },
-    {
-     "title": "Anthropic：根据博通租赁安排，我们在租赁期内支付的租金总额（不含利息）约为1612亿美元",
-     "link": "http://stock.eastmoney.com/news/1611,202610263908509281.html",
-     "pubDate": "Mon, 26 Oct 2026 21:16:27 +0800",
-     "summary": "Anthropic：根据 博通 租赁 安排，我们在 租赁 期内支付的租金总额（不含利息）约为1612亿美元。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "Anthropic：根据博通租赁安排，我们在租赁期内支付的租金总额（不含利息）约为1612亿美元"
-    },
-    {
-     "title": "万泰生物前三季度归属净利润约-2.31亿元，同比增亏",
-     "link": "http://stock.eastmoney.com/news/11215,202610263908504362.html",
-     "pubDate": "Mon, 26 Oct 2026 21:14:27 +0800",
-     "summary": "10月26日晚间， 万泰生物 （603392）发布2026年三季报显示，公司前三季度归属净利润约-2.31亿元，同比增亏。 具体来看，2026年前三季度， 万泰生物 营业收入约16.23亿元，同比增长8.29%，归属净利润约-2.31亿元，同比增亏。财务数据显示，2025年前三季度， 万泰生物 归属净利润约-1.73亿元。 对于归属净利润变化的原因，万泰生物在三季报中表示，主要是营销投入增加、美元汇兑损失及部分近效期 疫苗 计提存货跌价准备等因素共同影响所致。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "万泰生物前三季度归属净利润约-2.31亿元，同比增亏"
-    },
-    {
-     "title": "Fair Isaac stock slumps after holding pricing for preferred lenders",
-     "link": "https://seekingalpha.com/news/4657132-fair-isaac-stock-slumps-after-holding-pricing-for-preferred-lenders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 09:12:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Fair Isaac stock slumps after holding pricing for preferred lenders"
+     "title": "突然集体跳水！全球首富罕见“唱空”",
+     "link": "http://finance.eastmoney.com/news/1354,202610263908508611.html",
+     "pubDate": "Mon, 26 Oct 2026 21:10:00 +0800",
+     "summary": "北京时间26日晚间，美股盘前交易时段，新云（Neocloud）厂商股价集体跳水。CoreWeave一度跌5.50%，Iren、Nebius跌超4%。截至发稿，上述股票跌幅有所收窄。 消息面上，全球首富马斯克日前在X平台发帖警告称，200多家新云企业将遭遇“孔雀鱼式消亡”，行业将迎来整合浪潮。他写道：过去几周，债务市场几乎完全切断了对任何没有独立于AI 数据中心 的可观收入的公司提供资金。 这番言论是马斯克在回复Social Capital创始人查马斯·帕里哈皮蒂亚的X帖子时发表的。帕里哈皮蒂亚在帖中阐述了对 数据中心 建设现状的看法，提出2027年将有大量部分搁浅的算力和积压在库存中的算力，规",
+     "source": "东方财富资讯",
+     "zh": "突然集体跳水！全球首富罕见“唱空”"
     },
     {
      "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
@@ -2346,20 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "Breaking down Anthropic’s 335-page S-1"
     },
     {
-     "title": "Anthropic files for IPO amid jittery season for AI-related stocks",
-     "link": "https://seekingalpha.com/news/4657131-anthropic-files-for-ipo-amid-jittery-season-for-ai-related-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 09:08:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic files for IPO amid jittery season for AI-related stocks"
-    },
-    {
-     "title": "Berkshire Hathaway hits all-time high as RSI flashes its most overbought signal since 2024",
-     "link": "https://seekingalpha.com/news/4657139-berkshire-hathaway-hits-all-time-high-as-rsi-flashes-most-overbought-signal-since-2024?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 09:07:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Berkshire Hathaway hits all-time high as RSI flashes its most overbought signal since 2024"
+     "title": "Anthropic公开提交纳斯达克IPO申请",
+     "link": "http://finance.eastmoney.com/news/1345,202610263908477843.html",
+     "pubDate": "Mon, 26 Oct 2026 21:04:43 +0800",
+     "summary": "Anthropic公开提交 纳斯达克 IPO申请，股票代码为“ANT”。Anthropic将拥有A类、F类、E类、T类和N类股票。 Anthropic上半年营收163亿美元，去年同期为12亿美元；上半年净亏损807亿美元。 Anthropic称，营收增长可能难以持续，预计在可预见的未来不会支付任何股息。 Anthropic表示，截至9月30日的九个月内，没有任何单一客户占公司营收的10%以上。 Anthropic表示，根据AI工厂建设商NScale服务协议，同意在延伸至2033年的期限内合计支出最高约446亿美元。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "Anthropic公开提交纳斯达克IPO申请"
     },
     {
      "title": "Anthropic publishes long-awaited IPO prospectus",
@@ -2370,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic publishes long-awaited IPO prospectus"
     },
     {
+     "title": "巴西股市下跌10% 触发熔断机制",
+     "link": "http://finance.eastmoney.com/news/1345,202610263908476175.html",
+     "pubDate": "Mon, 26 Oct 2026 21:02:40 +0800",
+     "summary": "巴西股市开盘下跌10%，触发熔断机制而暂停交易。",
+     "source": "东方财富资讯",
+     "zh": "巴西股市下跌10% 触发熔断机制"
+    },
+    {
      "title": "四环向北，AUDI向南：奥迪在中国重新落子",
      "link": "https://wallstreetcn.com/articles/3784494",
      "pubDate": "Mon, 26 Oct 2026 21:02:35 +0800",
@@ -2378,12 +2402,28 @@ window.INDUSTRY_DATA = {
      "zh": "四环向北，AUDI向南：奥迪在中国重新落子"
     },
     {
+     "title": "10月26日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202610263908330067.html",
+     "pubDate": "Mon, 26 Oct 2026 21:00:26 +0800",
+     "summary": "热点聚焦 债市非银大额赎回互换便利设立 ： 为维护债券市场稳定，中国人民 银行 决定设立债市非银大额赎回互换便利。在资管机构面临群体性流动性风险、债券市场出现系统性压力的特定情景下， 支持具有系统性影响的 银行 理财子公司、公募基金管理人，从中国人民 银行 借入央行票据用于市场回购融资 ，以购买本公司（或资管子公司）遭赎回公募产品的符合条件的债券或产品份额，并向中国人民银行抵押。 尾盘宽基ETF再度放量 ： 10月26日午后，A股再度出现熟悉的一幕，多只宽基ETF集中放量。数据显示， A500ETF华泰柏瑞、沪深300ETF易方达午后成交均超60亿元 ，沪深300ETF华夏午后成交近30亿元；",
+     "source": "东方财富资讯",
+     "zh": "10月26日东方财富财经晚报（附新闻联播）"
+    },
+    {
      "title": "SpaceX签下400亿美元AI算力融资租赁协议，押注英伟达下一代芯片",
      "link": "https://wallstreetcn.com/articles/3784493",
      "pubDate": "Mon, 26 Oct 2026 21:00:11 +0800",
      "summary": "SpaceX豪掷400亿美元押注AI算力基础设施建设，这笔由阿波罗全球管理牵头的融资租赁交易将为其引入英伟达最新Vera Rubin芯片，彰显商业航天巨头向人工智能领域大举扩张的战略雄心。 据彭博报道， SpaceX已与阿波罗全球管理签署GPU及相关设备融资租赁协议，SpaceX估计租赁总支付金额约为400亿美元。 该协议旨在为SpaceX算力扩张计划提供硬件支撑，公司将其定位为迈向\"超级智能未来\"的关键布局。 此次交易规模庞大，多家顶级金融机构参与其中。高盛担任独家结构设计顾问，贝莱德、高盛资产管理及KKR旗下账户作为交易的主要承诺方参与融资，交易预计于今年年底前完成交割。 交易结构：分批交",
      "source": "华尔街见闻",
      "zh": "SpaceX签下400亿美元AI算力融资租赁协议，押注英伟达下一代芯片"
+    },
+    {
+     "title": "央行设立新工具 一文读懂债市非银大额赎回互换便利",
+     "link": "http://finance.eastmoney.com/news/1345,202610263908466563.html",
+     "pubDate": "Mon, 26 Oct 2026 20:52:39 +0800",
+     "summary": "中国人民 银行 10月26日发布消息， 决定设立债市非银大额赎回互换便利（ Bond Market NBFI Swap Facility，简称BNSF） 。在资管机构面临群体性流动性风险、债券市场出现系统性压力的特定情景下，支持具有系统性影响的 银行 理财子公司、公募基金管理人（或对应母行、证券母公司等），从中国人民 银行 借入央行票据用于市场回购融资，以购买本公司（或资管子公司）遭赎回公募产品的符合条件的债券或产品份额，并向中国人民银行抵押。参与机构应持续满足金融市场审慎管理要求，维护市场纪律。 此前，中国人民银行潘功胜在 金融街 论坛表示， 将会同金融监管总局、中国证监会设立应对非银机构大",
+     "source": "东方财富资讯",
+     "zh": "央行设立新工具 一文读懂债市非银大额赎回互换便利"
     },
     {
      "title": "大摩中国机器人调研：企业愿意尝试但严格算账，要求10万元以内，三年内回本",
@@ -2408,6 +2448,14 @@ window.INDUSTRY_DATA = {
      "summary": "SpaceX just landed a $40 billion debt deal, but Musk says lenders won’t be so hospitable to less-diversified competitors.",
      "source": "MarketWatch",
      "zh": "Musk says SpaceX’s AI rivals are in trouble, sending their stocks lower"
+    },
+    {
+     "title": "格力电器：第三季度净利润同比下降43% 环比下降44%",
+     "link": "http://finance.eastmoney.com/news/1345,202610263908398642.html",
+     "pubDate": "Mon, 26 Oct 2026 20:35:39 +0800",
+     "summary": "格力电器 (000651.SZ)公告称，第三季度营业收入为366.77亿元，同比下降7.97%；归属于上市公司股东的净利润为39.96亿元，同比下降43.31%。前三季度营业收入为1260.75亿元，同比下降8.10%；归属于上市公司股东的净利润为172.74亿元，同比下降19.51%。净利下降主要受消费电器业务同比下降影响。注：公司Q3净利润39.96亿，Q2净利润71.95亿，据此计算，Q3净利润环比下降44%。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "格力电器：第三季度净利润同比下降43% 环比下降44%"
     },
     {
      "title": "卢拉逆袭吓坏市场：巴西股指期货暴跌20%触及跌停，雷亚尔期货大跌",
@@ -2440,54 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
      "source": "CNBC",
      "zh": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;"
-    },
-    {
-     "title": "A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’",
-     "link": "https://www.marketwatch.com/story/a-dot-com-survivor-warns-retail-investors-against-buying-the-tech-dip-youre-taking-a-knife-to-a-gunfight-6c940361?mod=mw_rss_topstories",
-     "pubDate": "Mon, 26 Oct 2026 12:10:00 GMT",
-     "summary": "Technology-portfolio mangers are treading carefully with tech these days, retail investors should be just as cautious, says industry veteran Ted Mortonson.",
-     "source": "MarketWatch",
-     "zh": "A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’"
-    },
-    {
-     "title": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
-     "link": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
-     "pubDate": "Mon, 26 Oct 2026 12:08:13 GMT",
-     "summary": "Jasper Zhang runs Hyperbolic, a GPU exchange building a software for \"physical\" AI futures",
-     "source": "CNBC",
-     "zh": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer"
-    },
-    {
-     "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-     "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-     "pubDate": "Mon, 26 Oct 2026 12:08:00 GMT",
-     "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-     "source": "MarketWatch",
-     "zh": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering"
-    },
-    {
-     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-     "pubDate": "Mon, 26 Oct 2026 12:00:00 GMT",
-     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-     "source": "MarketWatch",
-     "zh": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
-    },
-    {
-     "title": "AI悄然入场：华尔街债券交易员部分工作或将被机器接手",
-     "link": "https://wallstreetcn.com/articles/3784486",
-     "pubDate": "Mon, 26 Oct 2026 19:54:50 +0800",
-     "summary": "债券交易员对人工智能的担忧并非多余，但颠覆不会一蜂而至。 AI智能体在数年内有望承接部分华尔街债券交易工作，但鉴于此前机器人在市场动荡期间的失灵前车之鉴，有经验的人类交易员仍将参与监督。巴克莱银行主题固定收益货币与大宗商品研究主管Zornitsa Todorova表示： \"基于我们与客户的所有交流，每个人都在为此做准备。这是一个缓慢演进的过程，但它肯定会发生。\" 对于日均成交量约620亿美元的美国公司债市场而言，这场变革的影响不容小觑。 据巴克莱估计，未来几年美国投资级债券的电子交易占比或从目前的45%升至65%，高收益债券的电子交易占比则有望从约25%翻倍至50%。 现阶段：AI更多用于辅助",
-     "source": "华尔街见闻",
-     "zh": "AI悄然入场：华尔街债券交易员部分工作或将被机器接手"
-    },
-    {
-     "title": "Trump says he&apos;ll soon decide whether to ‘make a deal’ with Iran or ‘finish it off&apos;",
-     "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-     "pubDate": "Mon, 26 Oct 2026 11:49:17 GMT",
-     "summary": "Trump said he is weighing a deal with Iran against renewed military action as tensions escalate across the Middle East.",
-     "source": "CNBC",
-     "zh": "Trump says he&apos;ll soon decide whether to ‘make a deal’ with Iran or ‘finish it off&apos;"
     }
    ]
   },

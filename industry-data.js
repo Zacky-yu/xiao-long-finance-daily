@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 11:52:07",
+ "generated_at": "2026/10/26 12:12:04",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,62 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+     "link": "https://arxiv.org/abs/2610.31701",
+     "pubDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, wh",
+     "source": "arXiv cs.AI",
+     "zh": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation"
+    },
+    {
+     "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+     "link": "https://arxiv.org/abs/2610.31789",
+     "pubDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typi",
+     "source": "arXiv cs.AI",
+     "zh": "Phronix: The Capability-Centric Learning Paradigm for Agents"
+    },
+    {
+     "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+     "link": "https://arxiv.org/abs/2610.31808",
+     "pubDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for hu",
+     "source": "arXiv cs.AI",
+     "zh": "Patronizing and Condescending Language Detection in English and Mandarin"
+    },
+    {
+     "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+     "link": "https://arxiv.org/abs/2610.31810",
+     "pubDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-v",
+     "source": "arXiv cs.AI",
+     "zh": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean"
+    },
+    {
+     "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+     "link": "https://arxiv.org/abs/2610.31846",
+     "pubDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited cont",
+     "source": "arXiv cs.AI",
+     "zh": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons"
+    },
+    {
+     "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+     "link": "https://arxiv.org/abs/2610.31882",
+     "pubDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) ",
+     "source": "arXiv cs.AI",
+     "zh": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules"
+    },
+    {
+     "title": "13亿！北京Token工厂拿下新融资",
+     "link": "https://zhidx.com/p/604516.html",
+     "pubDate": "Mon, 26 Oct 2026 11:41:35 +0800",
+     "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西10月26日消息，近日，北京AI Token生产服务商 趋境科技 （Approaching.AI）完成B轮融资，本轮融资金额超 13亿元 人民币；今年内已累计募得 24亿元 人民币。 本轮融资由浙财资本、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年7月完成A轮融资后，趋境科技短期内再获大额融资。据悉，过去半年，趋境科技多项核心经营指标在半年内实现",
+     "source": "智东西",
+     "zh": "13亿！北京Token工厂拿下新融资"
+    },
     {
      "title": "三步告别“屎山代码”？网易发布CodeWave SDD，瞄准L4级别软件开发",
      "link": "https://zhidx.com/p/604393.html",
@@ -192,62 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "将共情语音对话建模为包含感知、心理状态推理和回复生成的结构化认知过程。",
      "source": "机器之心",
      "zh": "NeurIPS 26 | 从声音到回应，AI如何理解并表达共情？"
-    },
-    {
-     "title": "苹果首款折叠屏开卖！没AI也抢疯了，发货排到明年1月",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737586&idx=1&sn=7c1ed0465c2e66b87bd931dbc04b0f55",
-     "pubDate": "Sat, 24 Oct 2026 11:42:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "苹果首款折叠屏开卖！没AI也抢疯了，发货排到明年1月"
-    },
-    {
-     "title": "常青藤名校光环褪色！华尔街失宠，学霸扎堆硅谷疯狂搞AI",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737586&idx=2&sn=43003ca8d2f97fd590486e64a3884e68",
-     "pubDate": "Sat, 24 Oct 2026 11:42:00 +0800",
-     "summary": "最聪明的年轻人，正在车库里赌未来",
-     "source": "新智元",
-     "zh": "常青藤名校光环褪色！华尔街失宠，学霸扎堆硅谷疯狂搞AI"
-    },
-    {
-     "title": "港科广新基准：只给截图，AI能把App交互做出来吗？",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737586&idx=3&sn=c381f1250a66caf597b4a1994ee99be0",
-     "pubDate": "Sat, 24 Oct 2026 11:42:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "港科广新基准：只给截图，AI能把App交互做出来吗？"
-    },
-    {
-     "title": "首部！国产AI超写实电影上院线了",
-     "link": "https://zhidx.com/p/604215.html",
-     "pubDate": "Sat, 24 Oct 2026 08:25:05 +0800",
-     "summary": "智东西 作者｜王涵 编辑｜心缘 智东西10月24日报道，昨天，国内首部AI超写实电影《三星堆：未来往事》正式登陆院线。据猫眼专业版App数据，上映首日，该影片首日票房 30.15万元 ，累计综合票房 40.1万元 。据灯塔专业版app数据，期预测总票房为 207.8万元 。 对比来看，2026年8月5日上映的纯手搓黑马动画电影《牛来》，其首日票房为3420万元，最终累计综合票房为6426.5万元，市场表现较为悬殊。不过二者上映环境不同，《牛来》在暑期档上映，大盘基础更强。 《三星堆：未来往事》是 中国首部获得国家电影局公映许可证的AI超写实院线电影 。整部影片 时长100分钟 ，所有角色均为原",
-     "source": "智东西",
-     "zh": "首部！国产AI超写实电影上院线了"
-    },
-    {
-     "title": "3万亿级参数！Kimi K3.1空降国产第一，1/5价格狙击Astra，实测跑通3D建模",
-     "link": "https://zhidx.com/p/604320.html",
-     "pubDate": "Sat, 24 Oct 2026 06:14:08 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 心缘 智东西10月24日报道，今天，月之暗面发布了其最新一代旗舰模型 Kimi K3.1 Pro ，并宣布将在11月4日前完成模型开源。这是一款 3万亿参数量级 的模型，由Kimi K3后训练而来，拥有100万个token的上下文窗口。 在Artificial Analysis榜单上，Kimi K3.1 Pro的得分比Kimi K3高了11分，目前排名为 总榜第四、国产第一 ，超过Claude Fable 5.1、GPT-6 Astra等模型，仅次于Claude Opus 5.5、Claude Sonnet 5.5和Muse Wonder。 编程、3D创作、",
-     "source": "智东西",
-     "zh": "3万亿级参数！Kimi K3.1空降国产第一，1/5价格狙击Astra，实测跑通3D建模"
-    },
-    {
-     "title": "Bringing foundational models to the front lines of TB screening",
-     "link": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-     "pubDate": "Fri, 23 Oct 2026 18:51:33 +0000",
-     "summary": "Generative AI",
-     "source": "Google Research",
-     "zh": "Bringing foundational models to the front lines of TB screening"
-    },
-    {
-     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-     "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-     "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-     "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-     "source": "OpenAI",
-     "zh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
     }
    ]
   },
@@ -1050,6 +1050,14 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tech giant Google and distributed energy resource (DER) platform Voltus have announced an expanded agreement to build a 1GW virtual power plant (VPP) in the US.",
      "source": "Energy Storage News",
      "zh": "Google and Voltus expand PJM virtual power plant agreement to 1GW"
-    },
-    {
-     "title": "European solar PPA prices up 0.4% in Europe and 4.9% in the US",
-     "link": "https://www.pv-tech.org/european-solar-ppa-prices-up-0-4-europe-4-9-us/",
-     "pubDate": "Fri, 23 Oct 2026 09:43:11 +0000",
-     "summary": "The average price of a solar PPA in Europe increased 0.4% between the second and third quarters of 2026, according to LevelTen Energy.",
-     "source": "PV Tech",
-     "zh": "European solar PPA prices up 0.4% in Europe and 4.9% in the US"
     }
    ]
   },
@@ -1762,12 +1762,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Acoustune 推出 XHS1400 耳机：发声单元与连接器为独立模块",
+     "title": "智界预计还有四款 SUV 出海，消息称后续开发都是按照全球车型（标准）",
+     "link": "https://www.ithome.com/1/017/831.htm",
+     "pubDate": "Mon, 26 Oct 2026 04:06:34 GMT",
+     "summary": "IT之家 10 月 26 日消息，博主 @未来的学习笔记 今日发文称，智界出海除了前两天公布的 V9 和 RX 的海外版本， 预计还有四款 SUV 车型 。 博主表示，从智界 V9 和 RX 可以看出， 智界后续开发的车型都是按照全球车型（标准）来的 。他还透露，后面的四款 SUV 预计会在明年登场。 据IT之家此前报道，本月早些时候，智界 V9 和智界 RX 的全球车型曝光。其中，智界 V9 的海外版采用全新外观方案，前脸更换为大尺寸直瀑式格栅，大灯组造型也进行了调整，变为格栅两侧纵置布局；智界 RX 外观与国内版本区别不大，但沿用的是 LUXEED 字母车标设计。 延伸阅读 智界是华为与奇",
+     "source": "IT之家",
+     "zh": "智界预计还有四款 SUV 出海，消息称后续开发都是按照全球车型（标准）"
+    },
+    {
+     "title": "“人活着就是对抗熵增”，真的吗？",
+     "link": "https://www.huxiu.com/article/4900429.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 12:04:11 +0800",
+     "summary": "本文来自微信公众号： 印客美学 ，作者：小印 不知道你最近刷到没，“熵增”已经变成全网万能生活注解。 收拾房间、维系感情、好好过日子，全都能用它解释。 “人存在本身，就是对抗世界衰败的力量”，这话听着很带劲，但真是这样吗？ 人活着就是对抗熵增？ 最近刷到有网友说：为什么人睡在床上，被子不容易发霉，人搬走空置之后，被子很快受潮长霉？一桌酒菜，一群人边吃边聊到天亮，菜品没那么容易变质，一旦无人过问，放一夜就腐败？老屋看着破旧，有人常住就能稳稳撑住，一旦空置无人打理，很快迅速破败。 这就是熵增定律。万物天然的趋势，就是走向混乱、耗散与衰败。 而人类是这个程序里最大的bug。 我们每天起床、叠被、做饭",
+     "source": "虎嗅",
+     "zh": "“人活着就是对抗熵增”，真的吗？"
+    },
+    {
+     "title": "遭网络攻击后，多家日本企业开始向用户支付补偿金",
+     "link": "https://www.ithome.com/1/017/817.htm",
+     "pubDate": "Mon, 26 Oct 2026 03:52:34 GMT",
+     "summary": "IT之家 10 月 26 日消息，据路透社报道，接连多轮网络攻击扰乱网络服务、引发市场对经济稳定的担忧后，多家日本企业开始向用户支付补偿金。 GMO 互联网集团宣布，将对旗下外汇交易服务遭非法入侵给客户造成的损失予以赔付。董事长熊谷正寿（Masatoshi Kumagai）周日在博客中表示，所有客户都将收到 5,000 日元 （IT之家注：现汇率约合 212.7 元人民币） 的“初步诚意补偿金”。 日本政府上周五宣布，将组建专项团队，借助 AI 模拟网络攻击，排查各类技术系统的漏洞。当下大量互联网服务依托 PHP 编程语言，业内机构正紧急应对 PHP 重大漏洞带来的安全风险。 截至上周五收盘，",
+     "source": "IT之家",
+     "zh": "遭网络攻击后，多家日本企业开始向用户支付补偿金"
+    },
+    {
+     "title": "暴跌73%，1年少喝17亿瓶，葡萄酒，为啥在中国火不起来？",
+     "link": "https://www.huxiu.com/article/4898970.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 11:50:01 +0800",
+     "summary": "葡萄酒在中国曾经风光无限，82年拉菲一瓶能顶北京六平米厕所，但如今一年少喝17亿瓶，暴跌73%",
+     "source": "虎嗅",
+     "zh": "暴跌73%，1年少喝17亿瓶，葡萄酒，为啥在中国火不起来？"
+    },
+    {
+     "title": "Acoustune 发布 XHS1400 耳机：发声单元与连接器为独立模块",
      "link": "https://www.ithome.com/1/017/816.htm",
      "pubDate": "Mon, 26 Oct 2026 03:49:15 GMT",
-     "summary": "IT之家 10 月 26 日消息，日本音频设备品牌 Acoustune 当地时间 23 日推出了 XHS1400 耳机。这一产品也是其 \"XHS\" 系列的首发型号，可选黑 /金 2 种配色。 XHS1400 的 发声单元与连接器均为可拆卸独立模块 ，用户可将其发声单元与兼容的无线连接器组合为无线耳机。 其外壳和声腔均采用铝合金，振膜为医用级 Myrinx 树脂，搭配锂镁合金圆顶镀膜， 提供浑厚深沉的低音和清晰锐利的中高频 。该耳机线原装连接器模块采用 Pentaconn Ear 接口，配合原装线材 ARC83 无氧铜线材实现 4.4mm 平衡口输入。",
+     "summary": "IT之家 10 月 26 日消息，日本音频设备品牌 Acoustune 当地时间 23 日发布 XHS1400 耳机。这一产品也是其 \"XHS\" 系列的首发型号，可选黑 /金 2 种配色， 售价为 5.83 万日元 （IT之家注：现汇率约合 2,480 元人民币） 。 XHS1400 的 发声单元与连接器均为可拆卸独立模块 ，用户可将其发声单元与兼容的无线连接器组合为无线耳机。 其外壳和声腔均采用铝合金，振膜为医用级 Myrinx 树脂，搭配锂镁合金圆顶镀膜， 提供浑厚深沉的低音和清晰锐利的中高频 。该耳机线原装连接器模块采用 Pentaconn Ear 接口，配合原装线材 ARC83 无氧铜",
      "source": "IT之家",
-     "zh": "Acoustune 推出 XHS1400 耳机：发声单元与连接器为独立模块"
+     "zh": "Acoustune 发布 XHS1400 耳机：发声单元与连接器为独立模块"
     },
     {
      "title": "千亿All in，AI回报却为零",
@@ -1802,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "一声“喂”的定价：3秒克隆声纹，与一场被转嫁的恐慌"
     },
     {
-     "title": "中央定调沪苏同城：“最强地级市”书记开会推进，官员3个月4赴上海对接",
-     "link": "https://www.huxiu.com/article/4900421.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 11:39:45 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：李巍巍，作者：黎广 沪苏同城正在从纸面变成现实。 10月16日，苏州市委常委、副市长沈志栋率队拜访上海国际港务集团，与上港集团党委副书记、总裁宋晓东围绕深化“沪苏同港”、强化战略合作、加快融入“沪苏（州）同城化”发展等议题举行座谈交流。 而在此前的一周，苏州刚刚召开了“上海与苏州重点领域同城化发展工作推进会议”。 事实上，三个多月来，苏州区一级领导密集拜访上海，对接的方向也很明确：学习上海标准，承接上海资源。 时代周报记者梳理发现，尽管沪苏同城的提出已有多年，但这一进程今年开始提速，正从地方自发的区域协作，加速上升为政策与制度层面的合作。 这背后，是“最",
-     "source": "虎嗅",
-     "zh": "中央定调沪苏同城：“最强地级市”书记开会推进，官员3个月4赴上海对接"
-    },
-    {
      "title": "原生桌面级应用 WPS  for Pad 正式上线小米应用商城，支持 18 Fold、平板设备下载使用",
      "link": "https://www.ithome.com/1/017/815.htm",
      "pubDate": "Mon, 26 Oct 2026 03:37:59 GMT",
@@ -1818,12 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "原生桌面级应用 WPS  for Pad 正式上线小米应用商城，支持 18 Fold、平板设备下载使用"
     },
     {
-     "title": "AI编程冲击下SaaS要死了？",
-     "link": "https://www.huxiu.com/article/4900419.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 11:35:02 +0800",
-     "summary": "本文来自微信公众号： ToB产品创新研习社 ，作者：大D 最近，国内SaaS行业有一种越来越强烈的悲观情绪： SaaS要死了。 一边是客户越来越不愿意购买标准化软件，觉得“和业务不完全匹配”；另一边是AI编程工具不断降低开发门槛，企业似乎只要组建一个小团队，就能把过去需要采购的系统自己做出来。 甚至还有不少老炮提出：逆向编程的想法。 许多匪夷所思的言论，令人百思不得其解的词汇，开始在圈子里面传开了。 于是，很多人得出结论：以后企业不买SaaS了，大家都去自研。 这个判断，有一半是对的。 企业确实会增加自研，尤其是那些贴近自身业务差异化的系统。但另一半是错的：AI编程并没有让软件变得不值钱，它只",
-     "source": "虎嗅",
-     "zh": "AI编程冲击下SaaS要死了？"
+     "title": "Behind the scenes at the NeXT Computer office",
+     "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+     "pubDate": "Mon, 26 Oct 2026 03:31:11 +0000",
+     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Behind the scenes at the NeXT Computer office"
     },
     {
      "title": "报告：微软 XBOX 高管过去六年有五年未达成绩效目标",
@@ -1832,6 +1856,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 26 日消息，微软 XBOX 正在大刀阔斧重组，试图扭转业务下滑的颓势。按照计划，到 2027 财年末，游戏业务将裁撤近 3200 名开发人员；目前已有数百人被解雇，多家工作室完成重组，后续还规划了多轮裁员。 一份新报道披露，微软首席执行官以及 XBOX 一众高层，过去六年里有五年没能完成年度绩效目标，而这些绩效指标直接和他们的薪酬挂钩。 IT之家注意到，GameFile 近期报道提到，XBOX 高管没能达成 Game Pass 订阅增长、XBOX 内容与服务板块的相关考核节点。 单看刚结束的这个财年，XBOX 原定目标是在 6 月底前实现内容与服务收入增长 4.3%，最终",
      "source": "IT之家",
      "zh": "报告：微软 XBOX 高管过去六年有五年未达成绩效目标"
+    },
+    {
+     "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+     "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+     "pubDate": "Mon, 26 Oct 2026 03:29:05 +0000",
+     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP"
     },
     {
      "title": "英伟达下调 Rubin GPU 系统 HBM 与 NVLink 带宽，网络带宽提升",
@@ -1853,17 +1885,9 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: TitleArt – Make text like it's 1997",
      "link": "https://titleart.dvy.io/",
      "pubDate": "Mon, 26 Oct 2026 03:23:57 +0000",
-     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 23 # Comments: 7",
      "source": "Hacker News",
      "zh": "Show HN: TitleArt – Make text like it's 1997"
-    },
-    {
-     "title": "小鹏汽车回应车撞报废安全气囊未弹出：未达到传感器触发条件，尊重客户第三方鉴定诉求",
-     "link": "https://www.ithome.com/1/017/811.htm",
-     "pubDate": "Mon, 26 Oct 2026 03:20:24 GMT",
-     "summary": "IT之家 10 月 26 日消息，据南京晨报报道，10 月 15 日，刘先生驾驶小鹏 X9 过程中撞上了路牙，然后车辆失控接连撞上行道树和电线杆，随后车辆发生侧翻，车头被撞稀巴烂，所幸没有发生人员伤亡。保险公司勘察后认为，这辆车毁损严重，已经没有维修的必要，建议直接报废。 面对这种情况，刘先生多次找到小鹏汽车 4S 店，询问汽车被撞报废了，车辆的安全气囊为何都没有打开。4S 店给刘先生的回复是 该车发生碰撞时不符合气囊点爆的场景 。 10 月 22 日，南京晨报记者接到了小鹏汽车发来的邮件。在这封邮件中，小鹏汽车对于刘先生车辆发生严重损毁事故为何安全气囊没有打开一事进行了回应。 小鹏汽车在回应",
-     "source": "IT之家",
-     "zh": "小鹏汽车回应车撞报废安全气囊未弹出：未达到传感器触发条件，尊重客户第三方鉴定诉求"
     },
     {
      "title": "恭喜星巴克，终于被文明了",
@@ -1872,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "规矩立住了，就能不烧心。",
      "source": "钛媒体",
      "zh": "恭喜星巴克，终于被文明了"
-    },
-    {
-     "title": "vivo Y600 手机开启预售：搭载 10000mAh 大电池，国补到手价 1699 元起",
-     "link": "https://www.ithome.com/1/017/810.htm",
-     "pubDate": "Mon, 26 Oct 2026 03:19:20 GMT",
-     "summary": "IT之家 10 月 26 日消息，vivo 旗下主打长续航与户外可靠性的 Y 系列新机 vivo Y600 已开启预售，该机以“万级长续航”为核心卖点，搭载标称 10000mAh 超大容量电池，并围绕低温、跌落、防水、信号、护眼与家庭适老场景做了系统级强化，试图把千元档手机的耐用性与全场景能力进一步上探。 IT之家附新机售价如下： 6GB+128GB：零售价 1999 元，国补到手价 1699.15 元； 8GB+128GB：零售价 2099 元，特惠立减 100 元，国补到手价 1699.15 元； 6GB+256GB：零售价 2199 元，国补到手价 1869.15 元； 8GB+256G",
-     "source": "IT之家",
-     "zh": "vivo Y600 手机开启预售：搭载 10000mAh 大电池，国补到手价 1699 元起"
     },
     {
      "title": "China’s Overseas Short-Drama Trade Shifts From Sets to Platforms",
@@ -1901,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
      "link": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
      "pubDate": "Mon, 26 Oct 2026 03:04:08 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cmvg7p001qj9o Comments URL: https://news.ycombinator.com/item?id=50238557 Points: 13 # Comments: 1",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cmvg7p001qj9o Comments URL: https://news.ycombinator.com/item?id=50238557 Points: 32 # Comments: 1",
      "source": "Hacker News",
      "zh": "Brazil elections: Lula secures fourth term after dramatic comeback"
     },
@@ -1941,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "If AI displaces human workers, they will lose more than just pay",
      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
      "pubDate": "Mon, 26 Oct 2026 02:22:38 +0000",
-     "summary": "Article URL: https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay Comments URL: https://news.ycombinator.com/item?id=50238351 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay Comments URL: https://news.ycombinator.com/item?id=50238351 Points: 12 # Comments: 7",
      "source": "Hacker News",
      "zh": "If AI displaces human workers, they will lose more than just pay"
     },
@@ -1957,17 +1973,9 @@ window.INDUSTRY_DATA = {
      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
      "pubDate": "Mon, 26 Oct 2026 01:47:46 +0000",
-     "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 57 # Comments: 18",
+     "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 76 # Comments: 35",
      "source": "Hacker News",
      "zh": "IBM CEO says open weight models are now irresistibly good and cheap on-prem"
-    },
-    {
-     "title": "iPhone Duo Teardown",
-     "link": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
-     "pubDate": "Mon, 26 Oct 2026 01:23:24 +0000",
-     "summary": "Article URL: https://www.ifixit.com/News/119895/iphone-duo-teardown Comments URL: https://news.ycombinator.com/item?id=50237896 Points: 59 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "iPhone Duo Teardown"
     },
     {
      "title": "The best apps for tracking your reading and discovering new books",
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
      "source": "TechCrunch",
      "zh": "The best apps for tracking your reading and discovering new books"
-    },
-    {
-     "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-     "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-     "pubDate": "Mon, 26 Oct 2026 01:03:39 +0000",
-     "summary": "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Points: 58 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category"
     },
     {
      "title": "iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough (Elizabeth Chamberlain/iFixit News)",
@@ -2018,20 +2018,20 @@ window.INDUSTRY_DATA = {
      "zh": "Long-time Pixel users reveal why they’re still loyal to Google and what keeps them from switching"
     },
     {
+     "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
+     "link": "https://sspai.com/post/117180",
+     "pubDate": "Mon, 26 Oct 2026 11:00:13 +0800",
+     "summary": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ... 查看全文",
+     "source": "少数派",
+     "zh": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地"
+    },
+    {
      "title": "After day-one screen failures, the iPhone Duo is facing more durability questions",
      "link": "https://www.androidauthority.com/iphone-duo-durability-3727717/",
      "pubDate": "Mon, 26 Oct 2026 01:28:34 +0000",
      "summary": "It looks like the iPhone Duo's screen problems may be just the beginning.",
      "source": "Android Authority",
      "zh": "After day-one screen failures, the iPhone Duo is facing more durability questions"
-    },
-    {
-     "title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
-     "link": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
-     "pubDate": "Mon, 26 Oct 2026 00:30:00 +0000",
-     "summary": "How locked in do you want to be?",
-     "source": "Engadget",
-     "zh": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?"
     },
     {
      "title": "Can you run regular Ethernet cables outside?",
@@ -2080,6 +2080,14 @@ window.INDUSTRY_DATA = {
      "summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?",
      "source": "Engadget",
      "zh": "Does TSA actually allow AirTags in your luggage? Here's what the rules say"
+    },
+    {
+     "title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
+     "link": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+     "pubDate": "Sun, 25 Oct 2026 22:30:00 +0000",
+     "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
+     "source": "Engadget",
+     "zh": "Don't throw away your old, unsupported Nest gadgets — Do this instead"
     },
     {
      "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you want more of a nostalgic video feel from your iPhone footage, Flipcorder is a great app to check ",
      "source": "9to5Mac",
      "zh": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo"
-    },
-    {
-     "title": "This clever USB-C cable doubles as a stand for your phone [Gallery]",
-     "link": "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
-     "pubDate": "Sat, 24 Oct 2026 13:30:00 +0000",
-     "summary": "One of my favorite things about the rise of magnetic wireless charging has been the prevalence of chargers that hold my phone upright on my nightstand. But, when travelling, that tends to be a bit more cumbersome, or at least a little more expensive. The folks over at Statik have come up with a clev",
-     "source": "9to5Google",
-     "zh": "This clever USB-C cable doubles as a stand for your phone [Gallery]"
     }
    ]
   },
@@ -2258,20 +2258,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+     "pubDate": "Mon, 26 Oct 2026 04:09:19 GMT",
+     "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+     "source": "CNBC",
+     "zh": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede"
+    },
+    {
+     "title": "趋境科技获13亿元B轮融资 “高质Token”的吸引力靠谱吗",
+     "link": "https://wallstreetcn.com/articles/3784449",
+     "pubDate": "Mon, 26 Oct 2026 11:56:41 +0800",
+     "summary": "近日，高品质 AI Token 生产服务商趋境科技（ Approaching.AI ）完成 B 轮融资，融资金额超 13 亿元人民币；今年内已累计募得 24 亿元人民币。公司称，多项核心经营指标在半年内实现超十倍速增长。 本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年 7 月完成 A 轮融资后，趋境科技短期内再获大额融资。截至今年 10 月，公司已在 2026 年连续完成多轮",
+     "source": "华尔街见闻",
+     "zh": "趋境科技获13亿元B轮融资 “高质Token”的吸引力靠谱吗"
+    },
+    {
+     "title": "Innovent reports cancer drug results in breast, lung, pancreatic tumors",
+     "link": "https://seekingalpha.com/news/4657012-innovent-reports-cancer-drug-results-in-breast-lung-pancreatic-tumors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 23:56:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innovent reports cancer drug results in breast, lung, pancreatic tumors"
+    },
+    {
      "title": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Mon, 26 Oct 2026 11:47:15 +0800",
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻"
-    },
-    {
-     "title": "版号放量叠加新游爆款，游戏ETF华泰柏瑞涨超2.08%",
-     "link": "http://finance.eastmoney.com/news/1353,202610263907808592.html",
-     "pubDate": "Mon, 26 Oct 2026 11:43:32 +0800",
-     "summary": "今日多数板块承压下探，食品饮料、房地产勉强收红，半导体方向跌幅领先。动漫游戏板块却逆势拉升，截至今日11:30，游戏ETF华泰柏瑞（516770）上涨2.08%，跟踪的动漫游戏指数同步走强。指数传媒行业权重高达96.73%，高度聚焦于游戏及泛娱乐内容端。 9月单月209款游戏版号获批，延续了8月215款的年内高位供给节奏，热门新品《影之刃零》开启预售半日就拿下Steam全球热销榜首，10月29日正式发售的预期也提前在盘面发酵。 从业绩端看，2026年上半年游戏板块营收653.57亿元，同比增长超20%，归母净利润133.40亿元，增幅超过65%，毛利率稳定在70%以上。8月国内游戏市场实际销售",
-     "source": "东方财富股票",
-     "zh": "版号放量叠加新游爆款，游戏ETF华泰柏瑞涨超2.08%"
     },
     {
      "title": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施",
@@ -2282,22 +2298,6 @@ window.INDUSTRY_DATA = {
      "zh": "海力士回应\"16万亿韩元特别股息报道\"：将于周三公布股东回报措施"
     },
     {
-     "title": "半年预亏超5亿，大润发母公司股价盘中大跌6%",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907808026.html",
-     "pubDate": "Mon, 26 Oct 2026 11:41:15 +0800",
-     "summary": "26日，大润发母公司 高鑫零售 股价大跌，盘中一度跌超6%，截至发稿报1.08港元/股，跌幅达5.68%。 消息面上，25日晚， 高鑫零售 发布盈利预警公告，预计2026年4月至9月录得净亏损5亿元至5.5亿元，较上年同期亏损金额大幅增加。数据显示，2025年同期， 高鑫零售 净亏损1.27亿元。 至于亏损原因，高鑫零售提到了三方面：一是报告期内客单价下滑趋势收窄，但客流受市场竞争分流影响有所回落，导致收入下降；二是商品及供应链调整、门店与商店街调改尚处于转型调整阶段；三是部分拟关闭门店持续产生亏损，对公司利润形成短期压力。 高鑫零售同时提到，费用节约部分对冲了营收下滑带来的利润减损。 同期，",
-     "source": "东方财富股票",
-     "zh": "半年预亏超5亿，大润发母公司股价盘中大跌6%"
-    },
-    {
-     "title": "乘联分会崔东树：2027年国内车市零售预计增2% 车市探底回暖",
-     "link": "http://finance.eastmoney.com/news/1358,202610263907808247.html",
-     "pubDate": "Mon, 26 Oct 2026 11:41:01 +0800",
-     "summary": "10月26日，乘联分会秘书长崔东树发文称，2025年末乘联厂家预测团队对2026年的车市还是比较中性的判断，但2026年国内车市在多重短期因素叠加冲击下超预期低迷，预计全年零售预计仅1850万台，不仅低于2025年2374万台的峰值，更大幅低于2020年1929万台的前期谷底。这一位置已明显偏离近十年车市箱体震荡的长期运行区间，属于多重不利因素干扰下的\"不正常\"状态。展望2027年，乘联厂家预测团队认为：随着短期冲击因素反向修复、成本压力缓解、供给端产品力提升，如果政策与环境不发生超预期变化，国内车市有望探底回暖，预计国内零售增长区间在0%-5%，均值在2%、车市分化仍将加剧。 （文章来源：界",
-     "source": "东方财富股票",
-     "zh": "乘联分会崔东树：2027年国内车市零售预计增2% 车市探底回暖"
-    },
-    {
      "title": "营收承压，削减9亿美元成本：宏盟收购IPG后的整合大考",
      "link": "http://www.eeo.com.cn/2026/1026/1075784.shtml",
      "pubDate": "Mon, 26 Oct 2026 11:40:31 +0800",
@@ -2306,28 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "营收承压，削减9亿美元成本：宏盟收购IPG后的整合大考"
     },
     {
-     "title": "688228，20cm涨停！",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907806921.html",
-     "pubDate": "Mon, 26 Oct 2026 11:40:03 +0800",
-     "summary": "【导读】 数据要素 概念股走强， 开普云 实现20cm涨停 中国基金报记者晨曦 10月26日上午， 开普云 高开高走，盘中实现20cm涨停，报91.2元/股。 消息面上，此前 开普云 发文称，其全资子公司北京开普云信息科技有限公司与北京航空航天大学合作共建“北航—开普云 人工智能 新型基础设施联合实验室”。另外，近期开普云亮相2026物理AI与世界模型大会，并在展会上集中展示了具身智能领域的业务实践成果，以及AI一体机等 人工智能 基础设施产品。 10月26日上午， 数据要素 概念股逆市走强， 奥雅股份 涨超15%， 世纪恒通 涨超13%， 海量数据 、 延华智能 等涨停。 长江证券 近期研报",
-     "source": "东方财富股票",
-     "zh": "688228，20cm涨停！"
-    },
-    {
-     "title": "小红书全资入股圆周旅迹关联公司",
-     "link": "http://stock.eastmoney.com/news/1416,202610263907804071.html",
-     "pubDate": "Mon, 26 Oct 2026 11:40:00 +0800",
-     "summary": "天眼查App显示，近日，超超世世科技（上海）有限公司发生工商变更，原股东郑逸凡退出，新增小红书科技有限公司为全资股东。同时，公司类型由有限责任公司（自然人独资）变更为有限责任公司（外商投资企业法人独资）。该公司成立于2021年8月，法定代表人为郑逸凡，注册资本100万元人民币，经营范围含网络技术服务、旅游开发项目策划咨询、票务代理服务等。天眼查 知识产权 信息显示，该公司旗下产品包括智能旅行规划工具“圆周旅迹”。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "小红书全资入股圆周旅迹关联公司"
-    },
-    {
-     "title": "“追光者”+1！300916，“20CM”涨停",
-     "link": "http://stock.eastmoney.com/news/11215,202610263907803637.html",
-     "pubDate": "Mon, 26 Oct 2026 11:39:00 +0800",
-     "summary": "宣布拟“追光”的消息后， 朗特智能 （300916）10月26日开盘约3分钟就冲至“20CM”涨停板。 10月23日晚间， 朗特智能 披露了一项股权收购事项。公司拟以现金方式收购成都奥捷 通信 技术有限公司（以下简称“成都奥捷”）51%股权，收购完成后，成都奥捷将成为 朗特智能 控股子公司。此次交易对价初步预估价值为6.63亿元。 成都奥捷聚焦于光 通信 领域无源光器件产品的研发、制造与销售。据成都奥捷官网披露的信息，公司年光纤跳线产量达30KK，主要产品涉及光纤AOC跳线、微连接组件、光纤跳线等各种光连接产品。 此次交易中，业绩承诺方将对成都奥捷2026年至2028年的业绩作出承诺，其间累积",
-     "source": "东方财富股票",
-     "zh": "“追光者”+1！300916，“20CM”涨停"
+     "title": "Lula is re-elected Brazil’s president in knife-edge vote",
+     "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+     "pubDate": "Mon, 26 Oct 2026 03:38:50 GMT",
+     "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
+     "source": "Financial Times",
+     "zh": "Lula is re-elected Brazil’s president in knife-edge vote"
     },
     {
      "title": "卢拉逆转胜选，但第四任期可能更难",
@@ -2354,84 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "“崩溃”！美国企业债市场“异常悲观”，高盛承认“或许还没到位”"
     },
     {
-     "title": "创业板指下跌1.65% 休闲食品板块走强 科技股跌幅居前",
-     "link": "http://finance.eastmoney.com/news/1345,202610263907801822.html",
-     "pubDate": "Mon, 26 Oct 2026 11:30:35 +0800",
-     "summary": "A股三大指数集体下跌，创业板指跌逾1.6%。盘面上， 休闲食品 、 医药商业 、 游戏、 乳业 、 房地产服务 、 快递概念 走强， 元件 、 CPO概念 、 MLCC 、 地面兵装、 贵金属 、 复合集流体 表现不佳，领跌市场。 截至午间收盘，沪指下跌0.18%，报3683.92点；深成指下跌1.05%，报11551.72点；创业板指下跌1.65%，报2639.85点；科创50指数下跌1.90%，报1319.97点；北证50指数下跌0.52%，报979.81点。全市场上涨个股有2446家，下跌个股有2950家，45只股涨停。两市半日合计成交10061亿。 今日要闻 “超级央行周”来临：美欧日",
-     "source": "东方财富资讯",
-     "zh": "创业板指下跌1.65% 休闲食品板块走强 科技股跌幅居前"
-    },
-    {
-     "title": "医药商业景气修复！融资客加仓这些股(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202610263907792764.html",
-     "pubDate": "Mon, 26 Oct 2026 11:22:21 +0800",
-     "summary": "三季报业绩兑现叠加政策红利， 医药商业 板块景气持续修复。融资客上周逆势加仓， 迪安诊断 获 融资净买入逾5000万元 居首。 三季报业绩兑现，政策红利持续落地 医药商业 板块今日显著走强，是多重利好共振的结果，其中最直接的催化来自三季报业绩的密集兑现。 迪安诊断 前三季度实现归母净利润4.82亿元，同比大幅增长750.28%，其中第三季度单季净利2.50亿元、同比增长438.03%； 英特集团 单三季度归母净利润同比增长超四成。 医药流通 与零售龙头三季报普遍释放盈利修复信号，直接点燃了板块对业绩超预期个股的定价热情。 政策层面， 医药商业 的利好同样密集落地。 新版《国家基本药物目录（20",
-     "source": "东方财富资讯",
-     "zh": "医药商业景气修复！融资客加仓这些股(名单)"
-    },
-    {
-     "title": "“反内卷”与双11共振 快递概念逆势走强 多股获融资客押注(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202610263907788732.html",
-     "pubDate": "Mon, 26 Oct 2026 11:17:19 +0800",
-     "summary": "10月26日早盘，三大股指震荡走低，创业板指大跌3%， 快递概念 逆势活跃， 中邮科技 20cm封板， 百洋医药 涨逾10%， 申通快递 、 科捷智能 、 中国外运 等多股跟涨。 消息面上，国家邮政局近日召开邮政 快递 业安全治理规范化座谈会，要求持续深入推进“反内卷”工作。与此同时，双11大促开启， 快递 行业旺季来临。有机构指出，多家 快递 公司收入增速持续高于业务量增速，行业盈利与估值或迎来“双修复”。 双11旺季开启，“反内卷”政策持续深化 10月22日至23日，国家邮政局在河南洛阳召开邮政快递业安全治理规范化座谈会，要求持续深入推进“反内卷”工作，确保末端派费稳定，深化成本核算指导，",
-     "source": "东方财富资讯",
-     "zh": "“反内卷”与双11共振 快递概念逆势走强 多股获融资客押注(名单)"
-    },
-    {
      "title": "2149家A股公司总资产三连增，谁在把规模变成价值？",
      "link": "http://www.eeo.com.cn/2026/1026/1075776.shtml",
      "pubDate": "Mon, 26 Oct 2026 11:15:09 +0800",
      "summary": "2149家A股公司总资产连续三年增长，但“做大”只是开始，资产流向哪里、能否转化为真实价值，才是更值得关注的答案。",
      "source": "经济观察网",
      "zh": "2149家A股公司总资产三连增，谁在把规模变成价值？"
-    },
-    {
-     "title": "马斯克称SpaceX已完成400亿美元GPU债务融资，以可赎回债为主",
-     "link": "https://wallstreetcn.com/articles/3784441",
-     "pubDate": "Mon, 26 Oct 2026 11:11:54 +0800",
-     "summary": "马斯克宣布SpaceX完成史上最大规模AI芯片融资，但据报道，知情人士透露定价谈判仍在进行，交易细节尚存悬念。 当地时间10月25日，知名科技博主Sawyer Merritt在X平台发文称，马斯克确认SpaceX已完成一轮400亿美元的新债务融资，用于资助GPU采购和计算基础设施建设。 随后，马斯克回复称，“差不多。”SpaceX已完成约 400亿美元债务融资 ，资金将用于采购英伟达GPU，以支撑其人工智能业务扩张。他将此次融资的成功归因于SpaceX的 投资级信用评级 ，以及星链卫星互联网与火箭发射业务所提供的多元化收入来源。马斯克同时警告，债务市场\"近几周来几乎对所有缺乏独立于AI数据中心",
-     "source": "华尔街见闻",
-     "zh": "马斯克称SpaceX已完成400亿美元GPU债务融资，以可赎回债为主"
-    },
-    {
-     "title": "宇树科技大涨超8% 近7日股价飙升超6成",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907765924.html",
-     "pubDate": "Mon, 26 Oct 2026 10:47:58 +0800",
-     "summary": "今日，A股人形 机器人 龙头宇树科技开盘后快速拉升，盘中涨幅一度突破8%；截至发稿，该股涨8.49%，报677元/股，总市值重回2700亿元。 值得一提的是，自10月16日起的7个交易日，该股累计涨幅已超60%。 消息面上，在2026世界物理AI大会暨宇树合作伙伴生态大会上，宇树科技创始人王兴兴表示全世界几乎所有人，对AI的重视程度和信仰都还不够，包括他自己。 随着GPT-6的发布，目前物理AI已经看到被击穿的苗头，很可能最近1-2年或2-3年，目前具身智能迈过ChatGPT时刻的最核心挑战是AI模型的输入输出和真实 机器人 的对齐。 他认为，在商业服务的落地会比家庭、工业领域更快些。 （文章",
-     "source": "东方财富资讯",
-     "zh": "宇树科技大涨超8% 近7日股价飙升超6成"
-    },
-    {
-     "title": "AI基建又有新账要算？硅谷大佬集体唱衰“新云” 算力闲置成最大隐患",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907722043.html",
-     "pubDate": "Mon, 26 Oct 2026 10:19:24 +0800",
-     "summary": "近日，埃隆·马斯克在社交平台上回复硅谷知名风险投资人查马斯·帕里哈皮蒂亚（Chamath Palihapitiya）时表示，过去几周，对于营业收入完全依赖AI 数据中心 的新云厂商，债务市场几乎已经切断了他们的融资渠道。 在他看来，这意味着200多家新云（Neocloud，新型云服务商）将面临小鱼般的（guppy-level）死亡和整合。“有些（新云）能挺过难关，但数量寥寥无几。”他说道。 帕里哈皮蒂亚则指出，作为拥有大量已开发土地资产的投资者，他观察到新云平台存在组织混乱、资本化不足等问题。 他强调，与超大规模云服务商签署一份保密协议需要3个月时间，还要求18个月的托管期。 2027年将出现",
-     "source": "东方财富资讯",
-     "zh": "AI基建又有新账要算？硅谷大佬集体唱衰“新云” 算力闲置成最大隐患"
-    },
-    {
-     "title": "Lula is re-elected Brazil’s president in knife-edge vote",
-     "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
-     "pubDate": "Mon, 26 Oct 2026 02:19:07 GMT",
-     "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
-     "source": "Financial Times",
-     "zh": "Lula is re-elected Brazil’s president in knife-edge vote"
-    },
-    {
-     "title": "AI火热下分化显现？阿波罗首席揭“扎心真相”：只有科技公司吃到了红利！",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907712676.html",
-     "pubDate": "Mon, 26 Oct 2026 10:19:00 +0800",
-     "summary": "阿波罗首席经济学家Torsten Slok在最新报告中指出， 人工智能 （AI）并没有给科技行业以外的任何大型企业的盈利带来好处。 他指出，尽管包括 英伟达 和Meta在内的“科技七巨头”在AI热潮中实现了营收增长，但其他行业并未分享到这一增长红利。也就是说，现在只有科技巨头吃到了AI热潮的红利。 Slok重点关注他所谓的标普493指数——即标普500指数剔除Alphabet、 亚马逊 、 苹果 、Meta、 微软 、 英伟达 和 特斯拉 之后的成分股——他发现利润率和每位员工的收入似乎都持平，没有证据表明 人工智能 正在提高生产力。 “尽管 人工智能 领域投入巨大，也备受追捧，但除了科技行业",
-     "source": "东方财富资讯",
-     "zh": "AI火热下分化显现？阿波罗首席揭“扎心真相”：只有科技公司吃到了红利！"
-    },
-    {
-     "title": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-     "pubDate": "Mon, 26 Oct 2026 02:18:09 GMT",
-     "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
-     "source": "CNBC",
-     "zh": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede"
     },
     {
      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
@@ -2496,6 +2408,94 @@ window.INDUSTRY_DATA = {
      "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
      "source": "CNBC",
      "zh": "‘Ticking time bomb’: The world&apos;s pension funds face an ageing crisis"
+    },
+    {
+     "title": "Riksbank reignites e-krona debate",
+     "link": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 26 Oct 2026 00:01:00 GMT",
+     "summary": "With cash usage down, a digital euro on the horizon and stablecoins gathering momentum, Sweden's central bank has reignited a debate on whether the country should roll out its own e-krona.",
+     "source": "Finextra",
+     "zh": "Riksbank reignites e-krona debate"
+    },
+    {
+     "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
+     "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
+     "pubDate": "Sun, 25 Oct 2026 23:19:41 GMT",
+     "summary": "Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm",
+     "source": "Financial Times",
+     "zh": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis"
+    },
+    {
+     "title": "Eli Lilly reports promising lung cancer drug results",
+     "link": "https://seekingalpha.com/news/4657011-eli-lilly-reports-promising-lung-cancer-drug-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 18:57:44 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Eli Lilly reports promising lung cancer drug results"
+    },
+    {
+     "title": "Glass Lewis backs activist's bid to replace entire Ethan Allen board",
+     "link": "https://seekingalpha.com/news/4657013-glass-lewis-backs-activists-bid-to-replace-entire-ethan-allen-board?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 18:23:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Glass Lewis backs activist's bid to replace entire Ethan Allen board"
+    },
+    {
+     "title": "Venezuelan opposition leader Machado returns from exile",
+     "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
+     "pubDate": "Sun, 25 Oct 2026 21:55:32 GMT",
+     "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
+     "source": "Financial Times",
+     "zh": "Venezuelan opposition leader Machado returns from exile"
+    },
+    {
+     "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+     "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+     "pubDate": "Sun, 25 Oct 2026 20:28:55 GMT",
+     "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
+     "source": "CNBC",
+     "zh": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 20:15:00 GMT",
+     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+     "source": "MarketWatch",
+     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 20:00:00 GMT",
+     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+     "source": "MarketWatch",
+     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
+    },
+    {
+     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 19:30:00 GMT",
+     "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+     "source": "MarketWatch",
+     "zh": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
+    },
+    {
+     "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+     "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+     "pubDate": "Sun, 25 Oct 2026 18:18:49 GMT",
+     "summary": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
+     "source": "CNBC",
+     "zh": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations"
+    },
+    {
+     "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 18:00:00 GMT",
+     "summary": "“Nothing has been set aside for his needs.”",
+     "source": "MarketWatch",
+     "zh": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
     }
    ]
   },
@@ -2505,6 +2505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Watch the universe emerge from the dark ages, with Lumina",
+     "link": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
+     "pubDate": "Mon, 26 Oct 2026 00:00:00 -0400",
+     "summary": "The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first 2 billion years, in greater detail and volume than ever before.",
+     "source": "MIT News",
+     "zh": "Watch the universe emerge from the dark ages, with Lumina"
+    },
     {
      "title": "A simple liquid can stop cavities without drilling, major study confirms",
      "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",

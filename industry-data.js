@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 20:24:42",
+ "generated_at": "2026/10/26 20:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "KOA Speer heat shock resistors feature metal glaze resistance film",
+     "link": "https://www.electronicsweekly.com/news/products/passives/koa-speer-heat-shock-resistors-feature-metal-glaze-resistance-film-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 11:51:22 +0000",
+     "summary": "A new family of heat shock resistors from KOA Speer Electronics feature a metal glaze resistance film to provide improved high heat and weather resistance. The RK73B-AT resistors also feature […] The post KOA Speer heat shock resistors feature metal glaze resistance film appeared first on Electronic",
+     "source": "Electronics Weekly",
+     "zh": "KOA Speer heat shock resistors feature metal glaze resistance film"
+    },
+    {
      "title": "CScale exits stealth mode with $145m funding for gigawatt-scale AI",
      "link": "https://www.electronicsweekly.com/news/products/connectors/cscale-exits-stealth-with-145m-funding-for-gigawatt-scale-ai-2026-10/",
      "pubDate": "Mon, 26 Oct 2026 10:26:57 +0000",
@@ -360,14 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "Atomera, a semiconductor transistor materials and technology licensing company, has entered into a Joint Development Agreement (JDA) with IQE to bring high-performance, cost-effective RF GaN to market. The collaboration leverages […] The post Atomera and IQE hook up to advance RF GaN appeared first ",
      "source": "Electronics Weekly",
      "zh": "Atomera and IQE hook up to advance RF GaN"
-    },
-    {
-     "title": "Lab-grown muscles power robots",
-     "link": "https://www.electronicsweekly.com/news/business/lab-grown-muscles-power-robots-2026-10/",
-     "pubDate": "Mon, 26 Oct 2026 06:14:33 +0000",
-     "summary": "Lab-grown skeletal muscle tissue can contract, but the movement is often so slight that it is barely visible. This poses a problem for biohybrid robots designed to move using living […] The post Lab-grown muscles power robots appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Lab-grown muscles power robots"
     },
     {
      "title": "Interview: From afterthought to bottleneck, circuit boards move to the heart of AI hardware",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Heron Power and NiSource announce US data centre and BESS-focused deals with Vantage, Microsoft",
+     "link": "https://www.energy-storage.news/heron-power-and-nisource-announce-us-data-centre-and-bess-focused-deals-with-vantage-microsoft/",
+     "pubDate": "Mon, 26 Oct 2026 12:26:39 +0000",
+     "summary": "Heron Power and NiSource have separately announced US data centre-focused deals involving battery energy storage systems (BESS) in recent days.",
+     "source": "Energy Storage News",
+     "zh": "Heron Power and NiSource announce US data centre and BESS-focused deals with Vantage, Microsoft"
+    },
+    {
      "title": "Shakti Pumps releases 620 W TOPCon solar module",
      "link": "https://www.pv-magazine.com/2026/10/26/shakti-pumps-unveils-620-wp-topcon-solar-module-at-rei-expo-2026/",
      "pubDate": "Mon, 26 Oct 2026 11:57:40 +0000",
@@ -970,6 +978,30 @@ window.INDUSTRY_DATA = {
      "zh": "When does a BI value stop being the right number?"
     },
     {
+     "title": "More capability, less equipment: the future of capacitor bank control",
+     "link": "https://www.utilitydive.com/spons/more-capability-less-equipment-the-future-of-capacitor-bank-control/833143/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "Utilities can now gain capacity and reliability without adding equipment or substation space.",
+     "source": "Utility Dive",
+     "zh": "More capability, less equipment: the future of capacitor bank control"
+    },
+    {
+     "title": "The push to DC: Why data centers are rethinking power architecture",
+     "link": "https://www.utilitydive.com/spons/the-push-to-dc-why-data-centers-are-rethinking-power-architecture/833783/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "Explore how 800 VDC can reduce power losses, free up data center space and reshape power architecture.",
+     "source": "Utility Dive",
+     "zh": "The push to DC: Why data centers are rethinking power architecture"
+    },
+    {
+     "title": "Inside the resilience gap",
+     "link": "https://www.utilitydive.com/spons/inside-the-resilience-gap/832932/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "The 2026 State of Grid Resilience report puts data behind the pressures utility leaders face as they strengthen resilience while balancing affordability and performance.",
+     "source": "Utility Dive",
+     "zh": "Inside the resilience gap"
+    },
+    {
      "title": "India's Stock Market Feels the Heat From High Oil Prices",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Stock-Market-Feels-the-Heat-From-High-Oil-Prices.html",
      "pubDate": "Mon, 26 Oct 2026 03:30:00 -0500",
@@ -1056,38 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Li Auto’s new i6 electric vehicle has a very interesting look. It makes me think of something out of some futuristic movie or The Jetsons. It certainly has an MPV (multipurpose vehicle) design that is current in China but not really anywhere else. Anyway, aside from the futuristic, cool styling, ...",
      "source": "CleanTechnica",
      "zh": "New Li Auto i6 Goes 811 km (504 Miles)"
-    },
-    {
-     "title": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together",
-     "link": "https://cleantechnica.com/2026/10/25/trump-doe-budget-cuts-energy-research/",
-     "pubDate": "Sun, 25 Oct 2026 17:17:07 +0000",
-     "summary": "Some DOE programs deserve to end. The problem is a budget request that cuts weak hydrogen bets while stripping support from technologies already delivering electrification. The post Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together"
-    },
-    {
-     "title": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One",
-     "link": "https://cleantechnica.com/2026/10/25/elon-musk-the-movie-blackout-billionaires/",
-     "pubDate": "Sun, 25 Oct 2026 17:07:52 +0000",
-     "summary": "Billionaire blackout or bad timing: \"Musk\" the documentary by Alex Gibney closes after just one week in theaters across the US. The post Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One"
-    },
-    {
-     "title": "Invest in Solar and Earn $3,000 a Day?",
-     "link": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
-     "pubDate": "Sun, 25 Oct 2026 08:20:44 +0000",
-     "summary": "Driven by the rapid growth of artificial intelligence, data centers, electric vehicles, and industrial electrification, global electricity demand continues to rise, making solar power a focal point for investment in energy infrastructure. For investors aiming for a daily return of $3,000, what scale",
-     "source": "CleanTechnica",
-     "zh": "Invest in Solar and Earn $3,000 a Day?"
-    },
-    {
-     "title": "Canada And EU Are Slip Sliding Away On Vehicle Emissions",
-     "link": "https://cleantechnica.com/2026/10/24/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/",
-     "pubDate": "Sat, 24 Oct 2026 22:00:17 +0000",
-     "summary": "J. Wellington Wimpy, of Popeye comics fame, had a favorite expression. It went like this: “I will gladly pay you Tuesday for a cheeseburger today.” As the Earth gets hotter and hotter, most countries have made commitments to reduce their climate warming emissions by 2030, or 2050, or 2077, or ... [c",
-     "source": "CleanTechnica",
-     "zh": "Canada And EU Are Slip Sliding Away On Vehicle Emissions"
     }
    ]
   },
@@ -1120,6 +1120,14 @@ window.INDUSTRY_DATA = {
      "summary": "Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.",
      "source": "BioPharma Dive",
      "zh": "The molecule was fine. The moment wasn’t."
+    },
+    {
+     "title": "Novel protein and peptide therapeutics",
+     "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
+     "source": "BioPharma Dive",
+     "zh": "Novel protein and peptide therapeutics"
     },
     {
      "title": "STAT+: Moderna CEO on what’s next after success in cancer vaccine",
@@ -1280,14 +1288,6 @@ window.INDUSTRY_DATA = {
      "summary": "The results of a large prospective proteomic study have associated proteins linked with the immune system, cell adhesion, blood vessel formation, and known prostate cancer genes, to future risk of developing prostate cancer, including aggressive disease. The post Proteins Circulating in Blood Linked",
      "source": "GEN",
      "zh": "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer"
-    },
-    {
-     "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
-     "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
-     "pubDate": "Thu, 22 Oct 2026 12:24:00 -0400",
-     "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
-     "source": "BioPharma Dive",
-     "zh": "Biohaven’s previously rejected rare disease drug to get fresh FDA review"
     }
    ]
   },
@@ -1297,6 +1297,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform",
+     "link": "https://payloadspace.com/colare-raises-2-5m-to-expand-its-hardware-focused-hiring-platform/",
+     "pubDate": "Mon, 26 Oct 2026 12:23:48 +0000",
+     "summary": "Colare’s technical-assessment platform maps the requirements of a role, and recreates decisions future engineers could face on the job. The post Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Colare Raises $2.5M to Expand its Hardware-Focused Hiring Platform"
+    },
     {
      "title": "Rubin telescope should find more of Earth's mysterious 'mini-moons' — including some we can study up close",
      "link": "https://www.space.com/space-exploration/rubin-telescope-should-find-more-of-earths-mysterious-mini-moons-including-some-we-can-study-up-close",
@@ -1472,14 +1480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Xona’s long-term plan is to build a ~258-sat constellation to offer an upgraded commercial alternative to government GPS networks. The post Xona Raises $250M Series D to Scale Commercial GPS Constellation appeared first on Payload .",
      "source": "Payload",
      "zh": "Xona Raises $250M Series D to Scale Commercial GPS Constellation"
-    },
-    {
-     "title": "National Academies Rank Nonpolar Moon Sites",
-     "link": "https://payloadspace.com/national-academies-rank-ideal-nonpolar-moon-sites/",
-     "pubDate": "Thu, 22 Oct 2026 12:30:00 +0000",
-     "summary": "A new report from the National Academies ranks the top four non-polar sites for future crewed lunar missions. The post National Academies Rank Nonpolar Moon Sites appeared first on Payload .",
-     "source": "Payload",
-     "zh": "National Academies Rank Nonpolar Moon Sites"
     },
     {
      "title": "China readies first commercial resupply craft, first booster reflight, and next landing attempt",
@@ -1762,6 +1762,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金",
+     "link": "https://www.ithome.com/1/018/144.htm",
+     "pubDate": "Mon, 26 Oct 2026 12:26:21 GMT",
+     "summary": "IT之家 10 月 26 日消息，Meta 美国当地时间今日宣布了 总额至多 950 亿美元 （IT之家注：现汇率约合 6,343.57 亿元人民币） 的重大融资计划，为企业核心业务和新兴人工智能领域的持续发展提供资金支持。 这 950 亿美元分为多个部分，包括 225 亿美元的 A 类普通股远期出售、125 亿美元的强制可转换优先股、后续至多 600 亿美元的潜在 C 类普通股按市价发行。 NVIDIA（英伟达）、AMD（超威）、Broadcom（博通）均有意购买至多 50 亿美元的 Meta 的 A 类普通股。 Meta 在新闻稿中表示，其在人工智能方面的投资已通过提升用户参与度、改善广告",
+     "source": "IT之家",
+     "zh": "Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金"
+    },
+    {
+     "title": "699 → 305 元：罗技 MX Master 3S Lite 鼠标京东 11.11 破冰新低",
+     "link": "https://www.ithome.com/1/018/143.htm",
+     "pubDate": "Mon, 26 Oct 2026 12:25:24 GMT",
+     "summary": "罗技 Logitech MX Master 3s &nbsp;Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。 今日京东 PLUS 低至 305 元，支持 PLUS 180 天只换不修 + 官方 1 年质保： 京东 罗技 MX Master 3S 菁英版 大师系列 补贴后 305 元 直达链接 活动随时结束，手慢无。 2022 年上市的标准版 ：包装盒内含 Logi Bolt 2.4G 接收器 + Type-C 充电线 ，支持蓝牙 + Bolt 双无线连接，Bolt 抗干扰、加密稳定，适合多设备拥挤办公环境 Logitech 2025 年上市的菁英版 ： 不含 Logi ",
+     "source": "IT之家",
+     "zh": "699 → 305 元：罗技 MX Master 3S Lite 鼠标京东 11.11 破冰新低"
+    },
+    {
+     "title": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径",
+     "link": "https://www.tmtpost.com/8181692.html",
+     "pubDate": "Mon, 26 Oct 2026 20:19:13 +0800",
+     "summary": "京东广告面临生成式推荐带来的千倍算力需求与300毫秒时延红线之间的尖锐矛盾，真正的瓶颈在通算侧而非GPU。为此，京东与华为鲲鹏合作，通过灵衢互联将四级缓存压成两级，建成300TB共享内存池，并重构RPC通信，使端到端推理时延降低15%，KV Cache和RPC性能大幅提升，经618大促核心场景5%流量验证。双方合作正从广告向搜推等场景外溢，并布局SuperCache、Agent沙箱等方向，以应对Agentic AI时代的算力挑战。",
+     "source": "钛媒体",
+     "zh": "端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径"
+    },
+    {
      "title": "Google DeepMind&apos;s AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)",
      "link": "https://www.techmeme.com/261026/p18#a261026p18",
      "pubDate": "Mon, 26 Oct 2026 08:15:01 -0400",
@@ -1858,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "大模型时代，谁会成为那部不肯换掉的“iPhone”？"
     },
     {
-     "title": "寒武纪陈天石回应明年芯片出货超百万颗传闻：公司从未进行相关沟通",
-     "link": "https://www.ithome.com/1/018/135.htm",
-     "pubDate": "Mon, 26 Oct 2026 11:42:22 GMT",
-     "summary": "IT之家 10 月 26 日消息，据每日经济新闻今日报道，针对百万颗芯片出货量的市场讨论，有投资者询问，公司是否曾在机构调研或其他投资者交流中提及这一数字。 对此，寒武纪董事长、总经理陈天石表示， 公司从未进行过相关沟通 。市场信息繁杂，公司公告是所有投资者平等获取公司信息的有效途径，如涉及法规要求的应当披露的重大事项，公司会依法履行信息披露义务。敬请投资者提高信息辨别能力，不传播、不采信来源不明或未经核实的信息，以公司发布在上交所官网的公告或公司官方网站披露的信息为准。 IT之家注意到，寒武纪是本土人工智能算力芯片主要供应商，深耕人工智能芯片产品的研发与技术创新，聚焦于云端推理芯片、边缘芯片",
-     "source": "IT之家",
-     "zh": "寒武纪陈天石回应明年芯片出货超百万颗传闻：公司从未进行相关沟通"
-    },
-    {
      "title": "大水取代了大蓝桶，中国的“大家庭”时代结束了",
      "link": "https://www.huxiu.com/article/4900571.html?f=rss",
      "pubDate": "Mon, 26 Oct 2026 19:36:50 +0800",
@@ -1888,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "普通人也能用自然语言亲手创造专属的AI硬件。",
      "source": "钛媒体",
      "zh": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding"
-    },
-    {
-     "title": "紫光国微 2026 年前三季度归母净利润 10.45 亿元，同比下降 17.23%",
-     "link": "https://www.ithome.com/1/018/131.htm",
-     "pubDate": "Mon, 26 Oct 2026 11:26:52 GMT",
-     "summary": "IT之家 10 月 26 日消息，紫光国微今日发布 2026 年三季度（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：48.58 亿元，同比下降 0.95% 归母净利润 ：10.45 亿元，同比下降 17.23% 扣非净利润 ：9.22 亿元，同比下降 20.69% 经营现金流 ：6.92 亿元，同比增长 142.29% 加权平均净资产收益率 ：7.37% 基本每股收益 ：1.2442 元，同比下降 17% 稀释每股收益 ：1.2417 元，同比下降 17.16% AI 解读 前三季度业绩整体低于机构此前全年预期节奏，第三季度单季营收与净利润同比明显回落，未延续上半年的增长",
-     "source": "IT之家",
-     "zh": "紫光国微 2026 年前三季度归母净利润 10.45 亿元，同比下降 17.23%"
     },
     {
      "title": "Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom (Tim Bradshaw/Financial Times)",
@@ -1965,17 +1973,9 @@ window.INDUSTRY_DATA = {
      "title": "Websites Should Be Printable",
      "link": "https://brennenputh.me/blog/printable-websites/",
      "pubDate": "Mon, 26 Oct 2026 10:32:14 +0000",
-     "summary": "Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 10 # Comments: 4",
+     "summary": "Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 22 # Comments: 14",
      "source": "Hacker News",
      "zh": "Websites Should Be Printable"
-    },
-    {
-     "title": "一人投出四家上市公司，“教父”李泽湘的投资方法论",
-     "link": "https://www.tmtpost.com/8182335.html",
-     "pubDate": "Mon, 26 Oct 2026 18:30:50 +0800",
-     "summary": "耐心资金+产学联动技术+地方政府政策扶持，最后加一点灵感和运气，这或许就是李泽湘的成功方法论。",
-     "source": "钛媒体",
-     "zh": "一人投出四家上市公司，“教父”李泽湘的投资方法论"
     },
     {
      "title": "LG B6 OLED TV Review (2026)",
@@ -2258,6 +2258,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Franklin Electric declares $0.28 dividend",
+     "link": "https://seekingalpha.com/news/4657118-franklin-electric-declares-0_28-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:24:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Franklin Electric declares $0.28 dividend"
+    },
+    {
+     "title": "Meta announces $95 billion stock offering to fund AI expansion",
+     "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+     "pubDate": "Mon, 26 Oct 2026 12:22:43 GMT",
+     "summary": "Meta plans to raise $95 billion to fund AI infrastructure and superintelligence, as Nvidia, AMD and Broadcom eye up to $5 billion in shares.",
+     "source": "CNBC",
+     "zh": "Meta announces $95 billion stock offering to fund AI expansion"
+    },
+    {
+     "title": "AutoZone and O'Reilly better positioned to capitalize on do-it-for-me trends—BofA Securities",
+     "link": "https://seekingalpha.com/news/4657091-autozone-and-oreilly-better-positioned-to-capitalize-on-do-it-for-me-trends---bofa-securities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:20:30 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AutoZone and O'Reilly better positioned to capitalize on do-it-for-me trends—BofA Securities"
+    },
+    {
      "title": "Lumentum, Coherent in focus as StoneX starts with Buy ratings",
      "link": "https://seekingalpha.com/news/4657106-lumentum-coherent-in-focus-as-stonex-starts-with-buy-ratings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 26 Oct 2026 08:18:23 -0400",
@@ -2298,28 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "Stem weighs sale, merger, and other options ahead of Q3 earnings"
     },
     {
-     "title": "Adial Pharmaceuticals to appoint Celia Economides as CFO",
-     "link": "https://seekingalpha.com/news/4657109-adial-pharmaceuticals-to-appoint-celia-economides-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:12:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Adial Pharmaceuticals to appoint Celia Economides as CFO"
-    },
-    {
      "title": "拉加德或提前离场，欧洲央行接班之争聚焦谁更能对抗\"债券义警\"",
      "link": "https://wallstreetcn.com/articles/3784488",
      "pubDate": "Mon, 26 Oct 2026 20:11:13 +0800",
      "summary": "法国债市动荡正在深刻重塑欧洲央行的权力交接格局。 法国国债收益率上周触及24年高位，此后虽在穆迪维持评级后短暂企稳，但财政失衡与政治僵局的深层矛盾仍未化解。与此同时，欧洲央行行长拉加德的任期可能提前于明年1月结束，远早于原定的明年10月届满，继任者或将在金融市场动荡尚未平息之际便仓促接棒。 在此背景下， 荷兰人诺特（Klaas Knot）与西班牙人德克斯（Pablo Hernandez de Cos）之间的接班人之争，正日益演变为一场关于\"谁能更有效应对债券义警\"的能力角逐。 前欧洲央行首席经济学家Peter Praet指出，一旦金融市场出现剧烈动荡，央行必须介入，但问题的关键在于\"如何介入，",
      "source": "华尔街见闻",
      "zh": "拉加德或提前离场，欧洲央行接班之争聚焦谁更能对抗\"债券义警\""
-    },
-    {
-     "title": "SEALSQ plans $15M acquisition of capacity across 12 WISeSat.Space satellites",
-     "link": "https://seekingalpha.com/news/4657110-sealsq-plans-15m-acquisition-of-capacity-across-12-wisesatspace-satellites?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:10:51 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SEALSQ plans $15M acquisition of capacity across 12 WISeSat.Space satellites"
     },
     {
      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;",
@@ -2357,7 +2365,7 @@ window.INDUSTRY_DATA = {
      "title": "巴西股指期货暴跌15% 触及跌停",
      "link": "http://finance.eastmoney.com/news/1345,202610263908324658.html",
      "pubDate": "Mon, 26 Oct 2026 20:07:25 +0800",
-     "summary": "巴西股指 期货 暴跌15%，触及跌停。 相关报道 巴西B3交易所调整交易波动限制 巴西B3交易所将伊博维斯帕指数（Ibovespa）交易区间下限调整至-20%，外汇交易区间限制调整至12%。（来源：财联社）",
+     "summary": "截至今日晚间发稿，巴西股指 期货 暴跌15%，触及跌停。 摩根士丹利 表示，预计巴西股市将下跌20%-30%。 巴西B3交易所将伊博维斯帕指数（Ibovespa）交易区间下限调整至-20%，外汇交易区间限制调整至12%。 此外，在美上市的 巴西石油 盘前跌超20%，伊塔乌 联合银行 跌超27%，PAGSEGURO DIGITAL跌超28%。 （文章来源：财联社）",
      "source": "东方财富资讯",
      "zh": "巴西股指期货暴跌15% 触及跌停"
     },
@@ -2378,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI悄然入场：华尔街债券交易员部分工作或将被机器接手"
     },
     {
-     "title": "Meta announces $95 billion stock offering to fund AI expansion",
-     "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-     "pubDate": "Mon, 26 Oct 2026 11:52:06 GMT",
-     "summary": "Meta said Monday it is planning to raise a total of $95 billion to support itsi nvestments in AI infrastructure and super intelligence.",
-     "source": "CNBC",
-     "zh": "Meta announces $95 billion stock offering to fund AI expansion"
-    },
-    {
      "title": "Trump says he&apos;ll soon decide whether to ‘make a deal’ with Iran or ‘finish it off&apos;",
      "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
      "pubDate": "Mon, 26 Oct 2026 11:49:17 GMT",
@@ -2402,12 +2402,28 @@ window.INDUSTRY_DATA = {
      "zh": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital"
     },
     {
+     "title": "Brazil’s markets set to tumble as investors bet Lula will add to fiscal pain",
+     "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
+     "pubDate": "Mon, 26 Oct 2026 11:41:31 GMT",
+     "summary": "Investors had been positioned for victory by rightwing Bolsonaro, seen as more willing to tackle budget deficit",
+     "source": "Financial Times",
+     "zh": "Brazil’s markets set to tumble as investors bet Lula will add to fiscal pain"
+    },
+    {
      "title": "马斯克的AI电影《奥德赛》首秀：画面有了 叙事不足",
      "link": "http://finance.eastmoney.com/news/1345,202610263908301612.html",
      "pubDate": "Mon, 26 Oct 2026 19:40:22 +0800",
      "summary": "3个月前，世界首富马斯克曾向知名导演诺兰发出挑战：2026年底前用AI重做一部《奥德赛》，现在第一批成品来了。 当地时间23日，马斯克旗下的AI图像工具Grok Imagine在社交媒体平台上放出长约7分钟的视频，并将其称为 《奥德赛》第一集 。帖子特别指出，与AI电影制作团队Wonder Studios和导演Dev Walker进行了“创意合作”。 毫无意外，即便现阶段的AI能够生成具备电影质感的画面，但用AI挑战诺兰，目前看来差距相当大。 诺兰版的《奥德赛》虽然也大量运用视觉特效，但主要依靠实景拍摄完成，拍摄横跨六个国家，演职人员规模达数千人。影片7月上映后大获成功，全球票房接近18亿美元",
      "source": "东方财富资讯",
      "zh": "马斯克的AI电影《奥德赛》首秀：画面有了 叙事不足"
+    },
+    {
+     "title": "Trump, Netanyahu and the politics of escalation against Iran",
+     "link": "https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5?syn-25a6b1a6=1",
+     "pubDate": "Mon, 26 Oct 2026 11:37:21 GMT",
+     "summary": "Electoral defeat for the leaders of Israel and the US may not stand in the way of plans for a renewed assault",
+     "source": "Financial Times",
+     "zh": "Trump, Netanyahu and the politics of escalation against Iran"
     },
     {
      "title": "The stock market’s biggest test in weeks is here",
@@ -2480,22 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
      "source": "MarketWatch",
      "zh": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
-    },
-    {
-     "title": "NextGen Nordics 2027: Who controls the future of payments?",
-     "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Mon, 26 Oct 2026 11:00:00 GMT",
-     "summary": "Registration is officially open for NextGen Nordics 2027, as the leading banking and payments event returns to Stockholm for its 10th anniversary.",
-     "source": "Finextra",
-     "zh": "NextGen Nordics 2027: Who controls the future of payments?"
-    },
-    {
-     "title": "韩国7900名富豪净卖三星海力士1483亿韩元，转买杠杆芯片ETF",
-     "link": "https://wallstreetcn.com/articles/3784480",
-     "pubDate": "Mon, 26 Oct 2026 18:36:00 +0800",
-     "summary": "韩国高净值投资者正在重构其半导体仓位——从直接持有龙头个股转向杠杆化ETF产品，这一结构性切换折射出该群体对芯片板块短期波动的审慎态度，以及对更广泛市场反弹的定向押注。 据首尔经济日报委托一家大型券商对约7900名高净值投资者（金融资产超过30亿韩元，约合210万美元）的持仓进行分析， 10月1日至20日期间，该群体对三星电子和SK海力士的净卖出额分别达到55.9亿韩元和92.4亿韩元，合计约148.3亿韩元。 与此同时， KODEX半导体杠杆ETF以332亿韩元的净买入额跃居本月最大净买入标的。 这一切换信号对两只芯片巨头的股价构成潜在压力。高净值群体的持续减持意味着大盘权重股面临来自\"聪明",
-     "source": "华尔街见闻",
-     "zh": "韩国7900名富豪净卖三星海力士1483亿韩元，转买杠杆芯片ETF"
     }
    ]
   },

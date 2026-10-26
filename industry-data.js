@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 15:51:59",
+ "generated_at": "2026/10/26 16:11:59",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+     "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+     "pubDate": "Mon, 26 Oct 2026 07:56:45 +0000",
+     "summary": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on S",
+     "source": "MarkTechPost",
+     "zh": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang"
+    },
     {
      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
      "link": "https://arxiv.org/abs/2610.31701",
@@ -200,14 +208,6 @@ window.INDUSTRY_DATA = {
      "summary": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. The post Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,0",
      "source": "MarkTechPost",
      "zh": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents"
-    },
-    {
-     "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
-     "link": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
-     "pubDate": "Sun, 25 Oct 2026 02:59:08 +0000",
-     "summary": "Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Syste",
-     "source": "MarkTechPost",
-     "zh": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats"
     },
     {
      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -642,6 +642,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Amflow launches two powerful new electric bikes, including its first SUV-style e-bike",
+     "link": "https://electrek.co/2026/10/26/amflow-launches-two-powerful-new-electric-bikes-including-its-first-suv-style-e-bike/",
+     "pubDate": "Mon, 26 Oct 2026 08:01:59 +0000",
+     "summary": "Amflow, the electric bicycle brand that burst onto the scene with some of the most powerful and lightweight electric mountain bikes on the market, is expanding its lineup with two major releases. The company has announced global availability of its new Amflow TL Carbon, while also bringing its remov",
+     "source": "Electrek",
+     "zh": "Amflow launches two powerful new electric bikes, including its first SUV-style e-bike"
+    },
+    {
+     "title": "Svolt begins mass production of 100-kWh semi-solid fast-charging battery packs",
+     "link": "https://cnevpost.com/2026/10/26/svolt-begins-mass-production-100-kwh-semi-solid-packs/",
+     "pubDate": "Mon, 26 Oct 2026 08:00:10 +0000",
+     "summary": "Svolt says the new battery supports 900-volt, 6C fast charging, adding 500 km of range in 12 minutes. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Svolt begins mass production of 100-kWh semi-solid fast-charging battery packs"
+    },
+    {
      "title": "Xpeng starts global shipments of Mona L05, targeting 65 countries and regions",
      "link": "https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/",
      "pubDate": "Mon, 26 Oct 2026 07:08:58 +0000",
@@ -680,14 +696,6 @@ window.INDUSTRY_DATA = {
      "summary": "The revamped N8 switches from 3 rows of seats to a 5-seat layout and will officially launch in November. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "BYD Denza opens reservations for revamped N8 SUV with up to 1,003 km of electric range"
-    },
-    {
-     "title": "Nio presses ahead with in-house cylindrical cells, with limited output reported by year-end",
-     "link": "https://cnevpost.com/2026/10/26/nio-presses-ahead-cylindrical-cells-limited-output-year-end/",
-     "pubDate": "Mon, 26 Oct 2026 00:54:46 +0000",
-     "summary": "Eve Energy and Gotion will reportedly handle contract manufacturing, but mass production remains challenging in the near term. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Nio presses ahead with in-house cylindrical cells, with limited output reported by year-end"
     },
     {
      "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
@@ -762,14 +770,6 @@ window.INDUSTRY_DATA = {
      "zh": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K"
     },
     {
-     "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
-     "link": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
-     "pubDate": "Sat, 24 Oct 2026 14:04:51 +0000",
-     "summary": "The dumb oil war in Iran is driving up the cost of just about everything , including new cars. That’s giving Chinese EVs a huge advantage over Western “legacy” car brands already lagging in tech and struggling with affordability – and those legacy brands about to have a whole new to them problem on ",
-     "source": "Electrek",
-     "zh": "Chinese EVs found back door into Western car markets – at 40% off MSRP"
-    },
-    {
      "title": "Rivian Buys Synthetic Data Startup To Boost Its Autonomy Ambitions",
      "link": "https://insideevs.com/news/813110/rivian-third-dimension-aquisition-autonomous-driving/",
      "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
@@ -841,6 +841,30 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Servotech launches single-phase hybrid solar inverters for residential applications",
+     "link": "https://www.pv-magazine.com/2026/10/26/servotech-launches-single-phase-hybrid-solar-inverters-for-residential-applications-2/",
+     "pubDate": "Mon, 26 Oct 2026 08:00:56 +0000",
+     "summary": "Servotech Renewable Power System has unveiled its Sparkle Pro IP54 single-phase hybrid solar inverters for residential applications. The range comprises 3 kW, 4.2 kW and 6 kW models. The post Servotech launches single-phase hybrid solar inverters for residential applications appeared first on pv mag",
+     "source": "pv magazine",
+     "zh": "Servotech launches single-phase hybrid solar inverters for residential applications"
+    },
+    {
+     "title": "Researchers develop photovoltaic-thermal collector with wavy copper cooling tubes",
+     "link": "https://www.pv-magazine.com/2026/10/26/researchers-develop-photovoltaic-thermal-collector-with-wavy-copper-cooling-tubes/",
+     "pubDate": "Mon, 26 Oct 2026 08:00:00 +0000",
+     "summary": "Researchers in Iran have found that wavy copper cooling tubes can improve the electrical and thermal efficiency of photovoltaic-thermal collectors. The best-performing configuration achieved an electrical efficiency of 13.65% and a thermal efficiency of approximately 24%. The post Researchers develo",
+     "source": "pv magazine",
+     "zh": "Researchers develop photovoltaic-thermal collector with wavy copper cooling tubes"
+    },
+    {
+     "title": "INA Solar, Caelux target perovskite-silicon tandem module production by 2028",
+     "link": "https://www.pv-magazine.com/2026/10/26/ina-solar-caelux-target-perovskite-silicon-tandem-module-production-by-2028/",
+     "pubDate": "Mon, 26 Oct 2026 07:55:14 +0000",
+     "summary": "INA Solar and US-based Caelux have signed a five-year agreement to commercialize 3 GW of perovskite-TOPCon hybrid-tandem solar modules in India, targeting efficiencies of up to 29% by 2028. The deal expands Caelux’s partnerships with Indian module manufacturers to scale next-generation solar technol",
+     "source": "pv magazine",
+     "zh": "INA Solar, Caelux target perovskite-silicon tandem module production by 2028"
+    },
     {
      "title": "TCL SunPower launches 505 W back-contact solar panel with 24.7% efficiency",
      "link": "https://www.pv-magazine.com/2026/10/26/tcl-sunpower-launches-505-w-back-contact-solar-panel-with-24-7-efficiency/",
@@ -992,30 +1016,6 @@ window.INDUSTRY_DATA = {
      "summary": "J. Wellington Wimpy, of Popeye comics fame, had a favorite expression. It went like this: “I will gladly pay you Tuesday for a cheeseburger today.” As the Earth gets hotter and hotter, most countries have made commitments to reduce their climate warming emissions by 2030, or 2050, or 2077, or ... [c",
      "source": "CleanTechnica",
      "zh": "Canada And EU Are Slip Sliding Away On Vehicle Emissions"
-    },
-    {
-     "title": "Renewable Energy India Expo 2026: Three key takeaways",
-     "link": "https://www.pv-magazine.com/2026/10/24/renewable-energy-india-expo-2026-three-key-takeaways/",
-     "pubDate": "Sat, 24 Oct 2026 12:43:58 +0000",
-     "summary": "India’s largest renewable energy trade show returned to Greater Noida, outside of Delhi, this week. At the three day event, pv magazine took in a national solar industry that has reached enormous proportions, and continues to grow with huge investments still going into building new solar installatio",
-     "source": "pv magazine",
-     "zh": "Renewable Energy India Expo 2026: Three key takeaways"
-    },
-    {
-     "title": "Gritt Robotics brings AI-assisted robotics to bolster shrinking solar workforce",
-     "link": "https://www.pv-magazine.com/2026/10/24/gritt-robotics-brings-ai-assisted-robotics-to-bolster-shrinking-solar-workforce/",
-     "pubDate": "Sat, 24 Oct 2026 09:30:00 +0000",
-     "summary": "California firm working with top EPCs to install six million solar panels in the next two years. The post Gritt Robotics brings AI-assisted robotics to bolster shrinking solar workforce appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Gritt Robotics brings AI-assisted robotics to bolster shrinking solar workforce"
-    },
-    {
-     "title": "Italy deploys 4.83 GW of PV in January-September",
-     "link": "https://www.pv-magazine.com/2026/10/24/italy-deploys-4-83-gw-of-pv-in-january-september/",
-     "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
-     "summary": "Italy connected 4.83 GW of new solar capacity in the first nine months of 2026, bringing cumulative installed capacity to 48.35 GW at the end of September. Utility-scale projects accounted for 46% of new additions, while the country's cumulative battery storage capacity approached 20 GWh, according ",
-     "source": "pv magazine",
-     "zh": "Italy deploys 4.83 GW of PV in January-September"
     },
     {
      "title": "The permitting deal collides with Trump’s war on offshore wind",
@@ -1754,6 +1754,94 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "英伟达为开发者更新路径追踪工具：性能提升 20%，支持 Windows on Arm",
+     "link": "https://www.ithome.com/1/017/945.htm",
+     "pubDate": "Mon, 26 Oct 2026 08:08:54 GMT",
+     "summary": "IT之家 10 月 26 日消息，英伟达面向开发者的 RTX Path Tracing 路径追踪开发工具已更新至 1.9.0 版本，性能最高提升 20%，并支持 WoA（Windows on Arm）平台。 可用于 RTX Spark 笔记本 。 据介绍，RTX Path Tracing 是一款免费的开发工具和技术演示程序，整合英伟达最新 RTX SDK 光追技术和 DLSS，旨在展示一种适用于 DirectX 12 和 Vulkan 的纯路径追踪光照方案，无需依赖光栅化技术。 英伟达表示，RTX Path Tracing 1.9.0 相比 1.8.1 版本， 在画质相当或更好的情况下性能提升",
+     "source": "IT之家",
+     "zh": "英伟达为开发者更新路径追踪工具：性能提升 20%，支持 Windows on Arm"
+    },
+    {
+     "title": "倍思飓风 3 号 160W 屏显充电头首销：3C 设计、支持 PD AVS / MiPPS 协议，带主动散热，399 元",
+     "link": "https://www.ithome.com/1/017/944.htm",
+     "pubDate": "Mon, 26 Oct 2026 08:08:46 GMT",
+     "summary": "IT之家 10 月 26 日消息，倍思飓风 3 号 160W 全协议氮化镓屏显充电头现已在京东发售，该机采用 3C 设计，支持 PD AVS 协议，配备主动散热能力， 定价为 399 元 。 京东 倍思飓风 3 号 160W 充电头 399 元 直达链接 据官方介绍，该充电头搭载 1.8 英寸 TFT 屏幕，可实时显示功率、预估充电时长、温控等充电状态，行业首创智能充电总结报告，充电结束自动生成专属报告，方便用户掌握充电情况；还支持双击翻转屏幕、趣味屏保，兼具实用性与可玩性。 该充电头任意 USB-C 单口都支持最大 140W Max 输出，三口总功率可达 160W Max，支持三口同时充电，",
+     "source": "IT之家",
+     "zh": "倍思飓风 3 号 160W 屏显充电头首销：3C 设计、支持 PD AVS / MiPPS 协议，带主动散热，399 元"
+    },
+    {
+     "title": "人口少了339万，我们的孩子会更轻松吗？",
+     "link": "https://www.huxiu.com/article/4900495.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 16:07:44 +0800",
+     "summary": "本文来自微信公众号： 商业对角线 ，作者：小明同学 10月下旬，“全国总人口面临跌破14亿”冲上了微博热搜第一。 翻开数据：2025年末，全国人口140489万，一年少了339万；全年出生792万人，去世1131万人，人口自然增长率已连续第四年为负。 评论区里焦虑和庆幸几乎各占一半。有人担心以后谁来养老，也有人松了口气：孩子少了，以后考大学、找工作总该容易些。 问题在于这笔账没那么简单。 2016年，全国出生了1883万个孩子，是全面二孩放开后出生最多的一年。这批孩子今年10岁左右，大多在读五年级，2034年前后走进高考考场；而2025年出生的孩子只有792万，还不到他们的一半。 换句话说，人",
+     "source": "虎嗅",
+     "zh": "人口少了339万，我们的孩子会更轻松吗？"
+    },
+    {
+     "title": "荣耀MagicOS 11 一碰传新增支持分享高德地图驾车路线、百度网盘文件等",
+     "link": "https://www.ithome.com/1/017/942.htm",
+     "pubDate": "Mon, 26 Oct 2026 08:07:00 GMT",
+     "summary": "IT之家 10 月 26 日消息，据荣耀产品维护与升级 @荣耀小芳哥 今日透露，MagicOS 11 一碰传功能本月又打通了几个常用场景，现在支持一碰传分享的应用更多了： 高德地图：一碰传分享驾车路线 两步路户外助手：一碰传分享归轨迹 / 线路 / 活动 百度网盘：一碰传分享网盘文件 喜马拉雅：一碰传分享音频 目前，荣耀的一碰传功能已支持抖音、酷狗音乐、美团、支付宝、WPS 文档、三国杀、哔哩哔哩（B站）、快手、小红书和淘宝等 App，支持两台手机碰一碰分享视频、音乐、优惠券和转账等。 同时，该功能还可连接苹果 iPhone 手机，在荣耀、iPhone 和 Mac 设备之间（IT之家注：苹果设",
+     "source": "IT之家",
+     "zh": "荣耀MagicOS 11 一碰传新增支持分享高德地图驾车路线、百度网盘文件等"
+    },
+    {
+     "title": "首部AI电影进院线：一次“手搓”出来的投石问路",
+     "link": "https://www.tmtpost.com/8181904.html",
+     "pubDate": "Mon, 26 Oct 2026 16:04:57 +0800",
+     "summary": "《三星堆：未来往事》处在了一个尴尬的位置：它不够好到让人忽略票价，也不是差到毫无观看价值。第一部作品有技术里程碑意义，而多数观众目前没有为里程碑买单。",
+     "source": "钛媒体",
+     "zh": "首部AI电影进院线：一次“手搓”出来的投石问路"
+    },
+    {
+     "title": "iPhone Duo，你这不是在给特努斯上眼药么",
+     "link": "https://www.tmtpost.com/8181952.html",
+     "pubDate": "Mon, 26 Oct 2026 16:02:26 +0800",
+     "summary": "后来者并不往往总有机会，特努斯踩了一颗雷？",
+     "source": "钛媒体",
+     "zh": "iPhone Duo，你这不是在给特努斯上眼药么"
+    },
+    {
+     "title": "迈从 R9 轻量化零压电竞头戴耳机 10 月 29 日发售：235g 重量、150 小时续航，首发价 249.2 元",
+     "link": "https://www.ithome.com/1/017/941.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:57:18 GMT",
+     "summary": "IT之家 10 月 26 日消息，迈从宣布旗下 R9 轻量化零压电竞头戴耳机将于 10 月 29 日发售，该耳机主打“迈从全自研苍穹方案”“THX 空间音效”，定价为 299 元， 首发价 249.2 元 。 该耳机提供白紫、黑金、黑色、粉色和白蓝多种配色，整体重量约 235 g。其搭载天羽悬浮工学头梁，内置航空级琴钢线骨架，配合柔韧头带提升贴合度。耳罩部分采用太空透气记忆棉与蛋白皮层，并结合透气网布材质。耳机骨轴采用 90° 旋翼设计，机身支持多维无极调节，可直接通过实体按键进行控制。 该耳机配备 53 mm 三层高分子复合振膜单元与独立腔体，支持 THX 空间音效与迈从自研苍穹方案，搭配可",
+     "source": "IT之家",
+     "zh": "迈从 R9 轻量化零压电竞头戴耳机 10 月 29 日发售：235g 重量、150 小时续航，首发价 249.2 元"
+    },
+    {
+     "title": "A profile of former Google VP and Yahoo CEO Marissa Mayer, whose startup Dazzle is building an AI assistant to help non-tech enthusiasts with mundane tasks (Alexandra Alter/New York Times)",
+     "link": "https://www.techmeme.com/261026/p4#a261026p4",
+     "pubDate": "Mon, 26 Oct 2026 03:55:08 -0400",
+     "summary": "Alexandra Alter / New York Times : A profile of former Google VP and Yahoo CEO Marissa Mayer, whose startup Dazzle is building an AI assistant to help non-tech enthusiasts with mundane tasks &nbsp; &mdash;&nbsp; Marissa Mayer has reinvented herself as a start-up founder, with a team of 10 engineers ",
+     "source": "Techmeme",
+     "zh": "A profile of former Google VP and Yahoo CEO Marissa Mayer, whose startup Dazzle is building an AI assistant to help non-tech enthusiasts with mundane tasks (Alexandra Alter/New York Times)"
+    },
+    {
+     "title": "VGN 联名腾讯天美工作室 V98Pro V4 TiMi 限定款机械键盘发售：带有小云仔发声键帽按钮，首发价 419 元",
+     "link": "https://www.ithome.com/1/017/939.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:54:18 GMT",
+     "summary": "IT之家 10 月 26 日消息，VGN 联合腾讯天美工作室推出的 V98Pro V4 TiMi 限定款机械键盘现已在京东发售，该键盘采用云朵轴，使用天蓝色外观，首发价 419 元。 京东 VGN V98Pro V4 TiMi 限定款机械键盘 419 元 直达链接 该键盘主体采用了清新的天蓝色外壳，搭配定制云朵图案印花键帽及一颗联名小云仔发声键帽按钮，按下时会发出“TiMi”的声音。该键盘还配备了 V-Display 情绪屏，支持输入交互模式和用户自定义图案。 性能和规格方面，该键盘采用了 98 配列（100 键）设计，重量约 1132g±50g。键盘采用了 Gasket 结构，并进行了消音填",
+     "source": "IT之家",
+     "zh": "VGN 联名腾讯天美工作室 V98Pro V4 TiMi 限定款机械键盘发售：带有小云仔发声键帽按钮，首发价 419 元"
+    },
+    {
+     "title": "冷冻烘焙卖3块，精品面包卖30块，谁在硬撑？",
+     "link": "https://www.huxiu.com/article/4900493.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 15:53:29 +0800",
+     "summary": "本文来自微信公众号： 红餐供应链 ，作者：专注餐饮供应链的 哪一种经营方式更有前景，市场从来不止有一个答案。 本文由红餐供应链（ID：cygylzn）原创 题图来源：图虫创意 烘焙行业从来不缺新故事。 一边是精品烘焙店里动辄二三十元的面包，另一边，兴起的冷冻烘焙工厂店，卖起了2.9元的贝果、3.9元的恰巴塔、9.9元的蛋糕切片，以低价吸引消费者。 同一个货架品类，价格差了数倍，背后所需要的投入和供应链体系，也完全不同。 但如果将这组价差解读成“价格战”，或者“消费降级”，都不对。价差的本质是：烘焙行业正在分化——一头偏餐饮，一头偏零售。它们的生产逻辑、成本结构、竞争壁垒完全不同，只是恰好都在卖",
+     "source": "虎嗅",
+     "zh": "冷冻烘焙卖3块，精品面包卖30块，谁在硬撑？"
+    },
+    {
+     "title": "Seedance 核心研发负责人周畅被曝离职？接近字节人士否认",
+     "link": "https://www.ithome.com/1/017/938.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:52:24 GMT",
+     "summary": "IT之家 10 月 26 日消息，据澎湃新闻消息，近日有传闻称，字节 Seed AI 研发核心负责人之一周畅已经提出离职。消息人士称，周畅将会开启创业，或为具身智能相关，并已获各知名基金、大厂战投、头部大模型独角兽积极接触。 接近字节人士今日回应称， 周畅没有离职 。 IT之家查询互联网公开资料获悉，周畅 2012 年本科毕业于复旦大学计算机科学与技术专业，2017 年博士毕业于北京大学计算机软件与理论专业，随后加入阿里巴巴，花名“钟煌”，曾任通义千问大模型的技术负责人，曾和团队推出一系列语言模型、多模态模型。 2024 年 8 月，周畅加入字节跳动，从事 AI 大模型相关工作，现任字节跳动豆",
+     "source": "IT之家",
+     "zh": "Seedance 核心研发负责人周畅被曝离职？接近字节人士否认"
+    },
+    {
      "title": "银行间债券发行迎重大调整",
      "link": "https://www.huxiu.com/article/4900491.html?f=rss",
      "pubDate": "Mon, 26 Oct 2026 15:47:19 +0800",
@@ -1762,52 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "银行间债券发行迎重大调整"
     },
     {
-     "title": "研究：人类更喜好拟人形象 AI 智能体，但也存在“性别”偏见",
-     "link": "https://www.ithome.com/1/017/937.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:46:55 GMT",
-     "summary": "IT之家 10 月 26 日消息，爱尔兰利默里克大学研究人员在本月初发布的一篇研究论文中指出，在一项涉及 189 位知识工作者的实验中， 人类更喜好拟人形象 AI 智能体 ， 但也存在“性别”偏见 。 参测者在一个虚拟办公室中同 3 个基于相同底层模型的智能体同事协同完成工作。三位虚拟同事分别以文本聊天窗口、虚拟小机器人、拟人形象出现，其中拟人形象分为女性的 \"Johanna\" 和男性的 \"Johan\" 两个版本。受测者在智能体协同办公后对每位 AI 助理进行评分，并根据其表现分配后续开发资源。 图源：Pexels 结果显示，拟人形象比那些更像机器人的智能体获得了更高的信任、信用和“薪酬”；\"",
-     "source": "IT之家",
-     "zh": "研究：人类更喜好拟人形象 AI 智能体，但也存在“性别”偏见"
-    },
-    {
-     "title": "大众中国在合肥获得 L3 级自动驾驶道路测试牌照",
-     "link": "https://www.ithome.com/1/017/935.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:42:25 GMT",
-     "summary": "IT之家 10 月 26 日消息，大众汽车集团（中国）已在合肥正式获得 L3 级自动驾驶道路测试牌照，并已在合肥启动 L3 级技术的真实道路测试与数据采集。 本次获牌是集团推进高阶自动驾驶落地的关键节点，标志着集团向 2027 年实现 L3 级自动驾驶技术就绪迈进的又一重要进展。2026 年 10 月 28 日，首届大众汽车集团（中国）技术日将在合肥举行，集中展示最新技术进展。 IT之家注意到，4 月 11 日，智能电动汽车发展高层论坛在北京举办，大众汽车集团执行副总裁、CARIAD 中国首席执行官韩三楚表示：智能化是用户选择要素，大众汽车围绕中国用户核心诉求，快速构建开发和迭代的能力。 大众",
-     "source": "IT之家",
-     "zh": "大众中国在合肥获得 L3 级自动驾驶道路测试牌照"
-    },
-    {
-     "title": "理想汽车 CEO 李想预告 i6 今日直播拆车，称造车不能造“速成车”",
-     "link": "https://www.ithome.com/1/017/933.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:39:07 GMT",
-     "summary": "IT之家 10 月 26 日消息，理想汽车 CEO 李想刚刚发文，谈及了造车这一话题。他认为， 造车不是造黑盒子，更不能造“速成车” 。 李想介绍称，即将发布的 2026 款理想 i6 用的连山电池，从材料、电芯到电池包都是理想设计的，和整车数据全部打通。 安全、质量、性能、寿命，都由理想汽车全权负责 。 根据规划， 理想汽车今日还将直播把 2026 款理想 i6 的用料拆开给大家看 ：用的什么材料，为什么这么设计，每个部位都讲清楚。 据IT之家此前报道，2026 款理想 i6 已定档 10 月 28 日上市，11 月初开启交付。该车号称拥有六大升级： 更好的灯：ADB 矩阵大灯，照得更亮。智",
-     "source": "IT之家",
-     "zh": "理想汽车 CEO 李想预告 i6 今日直播拆车，称造车不能造“速成车”"
-    },
-    {
-     "title": "49 元：小米门窗传感器 3 开售，升级隧道磁阻传感器",
-     "link": "https://www.ithome.com/1/017/932.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:38:52 GMT",
-     "summary": "IT之家 10 月 26 日消息，小米门窗传感器 3 现已在京东开售，新品主打 3 年长续航， 相比旧款升级隧道磁阻传感器 ，但少了光照传感器， 定价 49 元 。 据介绍， 这款产品需搭配蓝牙 Mesh 网关使用 。主打“一次安装、3 年省心长续航”，围绕门窗、抽屉、柜门等开合状态感知，进一步强化家庭安防与智能联动体验。 与前代相比，小米门窗传感器 3 将传感方案升级为隧道磁阻传感器，官方称其较传统霍尔传感器响应更快、功耗更低；续航标称可达 3 年，采用 CR2032 纽扣电池与低功耗设计，电量不足时可通过米家 App 推送低电提醒。 功能上，新品支持开合状态查看、感应记录、当日开合次数统计",
-     "source": "IT之家",
-     "zh": "49 元：小米门窗传感器 3 开售，升级隧道磁阻传感器"
-    },
-    {
-     "title": "狼蛛 SC180 磁吸充电三模游戏鼠标 10 月 29 日开售，补贴价 119 元起",
-     "link": "https://www.ithome.com/1/017/931.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:37:18 GMT",
-     "summary": "IT之家 10 月 26 日消息，狼蛛 SC180 磁吸充电三模游戏鼠标今日正式开启预约，10 月 29 日 20:00 全平台开售，补贴价 119 元起。 据官方介绍， 磁吸触点充电 ，一放即充，自动吸附归位，告别频繁插线充电的麻烦；炫彩 RGB 充电底座，触控切换灯效，兼顾充电便利与电竞桌搭氛围。 目前，官方暂未公布这款新品的更多配置信息，感兴趣的朋友可以关注IT之家后续报道。",
-     "source": "IT之家",
-     "zh": "狼蛛 SC180 磁吸充电三模游戏鼠标 10 月 29 日开售，补贴价 119 元起"
-    },
-    {
-     "title": "消息称苹果首款触控 MacBook Pro 笔记本有望支持 5G 蜂窝网络功能",
-     "link": "https://www.ithome.com/1/017/930.htm",
-     "pubDate": "Mon, 26 Oct 2026 07:33:20 GMT",
-     "summary": "IT之家 10 月 26 日消息，外媒 9to5Mac 援引消息源 Filipe Esposito，相应消息源称苹果正在测试搭载 M5 Pro 芯片和 C1 调制解调器的 MacBook Pro 配置。同时考虑到本周苹果发布的首款触控屏 MacBook Pro 将搭载 M5 Pro 和 M5 Max 芯片，因此这一情况便显得有些耐人寻味。 如果苹果为 MacBook Pro 引入 5G 蜂窝通信，预计相应机型会使用 eSIM 方案，本身体验和苹果蜂窝版 iPad 规格一致，以国行为例，届时用户预计需要联系运营商开通“一号双终端”等类似套餐使用网络服务。",
-     "source": "IT之家",
-     "zh": "消息称苹果首款触控 MacBook Pro 笔记本有望支持 5G 蜂窝网络功能"
+     "title": "Chinese Retailers Pay for AI Tools While Shoppers Still Chase Subsidies",
+     "link": "https://www.tmtpost.com/8181993.html",
+     "pubDate": "Mon, 26 Oct 2026 15:45:05 +0800",
+     "summary": "During Singles’ Day, chat assistants can steer orders with coupons, while merchant software already bills for design and operations work. Platforms are monetizing existing budgets faster than they are monetizing consumer trust.",
+     "source": "钛媒体",
+     "zh": "Chinese Retailers Pay for AI Tools While Shoppers Still Chase Subsidies"
     },
     {
      "title": "全球关键材料，争夺战“白热化”",
@@ -1842,20 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "网络效应是一种习惯：那一个习惯是如何结束的？"
     },
     {
-     "title": "一只螃蟹不养，一张卡净赚100：蟹卡是怎么变成金融产品的？",
-     "link": "https://www.huxiu.com/article/4899963.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 15:06:41 +0800",
-     "summary": "一张面值2688的蟹卡，从印刷到作废，可能全程没见过一只螃蟹。商家净赚100，黄牛净赚50，整门生意里唯一没戏份的，是螃蟹本身。今年买蟹记住一句话：少看型号，多看斤两。你手里那张蟹卡，提货成功了吗？评论区聊聊。",
-     "source": "虎嗅",
-     "zh": "一只螃蟹不养，一张卡净赚100：蟹卡是怎么变成金融产品的？"
-    },
-    {
-     "title": "2026世界智能网联汽车大会：从比参数到比安全，行业进入规则约束期",
-     "link": "https://www.huxiu.com/article/4900478.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 15:00:26 +0800",
-     "summary": "本文来自微信公众号： 车市睿见 ，编辑：杨果，作者：杨朔 2026年10月21日，由工业和信息化部、交通运输部和北京市人民政府共同主办的2026世界智能网联汽车大会在北京亦庄开幕。智能网联汽车正在告别“单点突破”叙事。安全从上市前的一道检测关口，变成了准入与迭代的前置条件。 而智能化则正在从配置清单的延长，变成了车、路、云协同系统的重构。这两件事共同指向一个结果：行业的竞争要素正在从参数和功能，转向合规能力、体系协同与商业可持续。 ▍安全成为前置条件：从检测到全生命周期约束 安全被摆在这届大会最靠前的位置，这一点从监管方的表态中能明显看出。工业和信息化部副部长辛国斌在开幕式上表示，智能网联汽车",
-     "source": "虎嗅",
-     "zh": "2026世界智能网联汽车大会：从比参数到比安全，行业进入规则约束期"
+     "title": "The result of the C++26 DIS ballot",
+     "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+     "pubDate": "Mon, 26 Oct 2026 06:11:52 +0000",
+     "summary": "Article URL: https://train-it.eu/blog/cpp26-contracts-the-ballot-result/ Comments URL: https://news.ycombinator.com/item?id=50239748 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The result of the C++26 DIS ballot"
     },
     {
      "title": "2025 年老年抚养比首次超过少儿抚养比",
@@ -1898,30 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "从20米到41公里，张雪还是那个少年"
     },
     {
-     "title": "FCC阴影下，中国光芯片的生死竞速",
-     "link": "https://www.tmtpost.com/8181538.html",
-     "pubDate": "Mon, 26 Oct 2026 13:37:00 +0800",
-     "summary": "光芯片的难，和你想的不一样。",
-     "source": "钛媒体",
-     "zh": "FCC阴影下，中国光芯片的生死竞速"
-    },
-    {
-     "title": "安克、耐克客服失守，外挂生意为什么屡禁不止",
-     "link": "https://www.tmtpost.com/8181338.html",
-     "pubDate": "Mon, 26 Oct 2026 13:31:00 +0800",
-     "summary": "安克、耐克客服集体失守，背后是腾讯屡禁不止的外挂生意。谁在为效率买单，又是谁在承担风险？",
-     "source": "钛媒体",
-     "zh": "安克、耐克客服失守，外挂生意为什么屡禁不止"
-    },
-    {
-     "title": "从“拼模型”到“抢入口”：国产大模型进军消费硬件",
-     "link": "https://www.tmtpost.com/8181343.html",
-     "pubDate": "Mon, 26 Oct 2026 13:28:00 +0800",
-     "summary": "国产大模型开始转向。",
-     "source": "钛媒体",
-     "zh": "从“拼模型”到“抢入口”：国产大模型进军消费硬件"
-    },
-    {
      "title": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)",
      "link": "https://www.techmeme.com/261026/p2#a261026p2",
      "pubDate": "Mon, 26 Oct 2026 01:05:00 -0400",
@@ -1938,18 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "A look at Toyota&apos;s robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)"
     },
     {
-     "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-     "link": "https://proc-cli.com/",
-     "pubDate": "Mon, 26 Oct 2026 04:14:35 +0000",
-     "summary": "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 8 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management"
-    },
-    {
      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
      "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
      "pubDate": "Mon, 26 Oct 2026 04:11:40 +0000",
-     "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 55 # Comments: 47",
+     "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 58 # Comments: 55",
      "source": "Hacker News",
      "zh": "Cognitive Mercantilism: AI panic resembles fears of early capitalism"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Behind the scenes at the NeXT Computer office",
      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
      "pubDate": "Mon, 26 Oct 2026 03:31:11 +0000",
-     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 74 # Comments: 32",
+     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 79 # Comments: 33",
      "source": "Hacker News",
      "zh": "Behind the scenes at the NeXT Computer office"
     },
@@ -1965,33 +1973,25 @@ window.INDUSTRY_DATA = {
      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
      "pubDate": "Mon, 26 Oct 2026 03:29:05 +0000",
-     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 89 # Comments: 21",
+     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 100 # Comments: 23",
      "source": "Hacker News",
      "zh": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP"
     },
     {
-     "title": "Report: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend (Bloomberg)",
+     "title": "DongA Ilbo: SK Hynix gained ~$15B on its Kioxia stake earlier in 2026, and plans to return ~$12B to shareholders via a special dividend (Bloomberg)",
      "link": "https://www.techmeme.com/261025/p16#a261025p16",
      "pubDate": "Sun, 25 Oct 2026 23:25:01 -0400",
-     "summary": "Bloomberg : Report: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend &nbsp; &mdash;&nbsp; SK Hynix Inc.'s shares bucked a broad selloff in AI-related stocks thanks to the prospect of a hefty dividend payout r",
+     "summary": "Bloomberg : DongA Ilbo: SK Hynix gained ~$15B on its Kioxia stake earlier in 2026, and plans to return ~$12B to shareholders via a special dividend &nbsp; &mdash;&nbsp; SK Hynix Inc.'s shares bucked a broad selloff in AI-related stocks thanks to the prospect of a hefty dividend payout related to the",
      "source": "Techmeme",
-     "zh": "Report: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend (Bloomberg)"
+     "zh": "DongA Ilbo: SK Hynix gained ~$15B on its Kioxia stake earlier in 2026, and plans to return ~$12B to shareholders via a special dividend (Bloomberg)"
     },
     {
      "title": "Show HN: TitleArt – Make text like it's 1997",
      "link": "https://titleart.dvy.io/",
      "pubDate": "Mon, 26 Oct 2026 03:23:57 +0000",
-     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 156 # Comments: 19",
+     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 165 # Comments: 22",
      "source": "Hacker News",
      "zh": "Show HN: TitleArt – Make text like it's 1997"
-    },
-    {
-     "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-     "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-     "pubDate": "Mon, 26 Oct 2026 03:12:05 +0000",
-     "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 35 # Comments: 15",
-     "source": "Hacker News",
-     "zh": "Microsoft Decision-1: 9B Qwen Model Launch Explained"
     }
    ]
   },
@@ -2016,6 +2016,14 @@ window.INDUSTRY_DATA = {
      "summary": "The vivo Y600 is now available for pre-order in China, as promised, with open sales set to begin on October 30. The phone packs a massive 10,000mAh battery and has also earned a Guinness World Record for battery endurance. As per the Guinness World Records test, the phone lasted for 32 hours and 37 ",
      "source": "GSMArena",
      "zh": "vivo Y600 is official with a 10,000mAh battery and 6.83-inch display"
+    },
+    {
+     "title": "秋冬换季护肤买什么，双 11 选购推荐",
+     "link": "https://sspai.com/post/117414",
+     "pubDate": "Mon, 26 Oct 2026 15:00:00 +0800",
+     "summary": "一场秋雨一场寒，转眼间，已经到了秋冬季节。秋冬在护肤品的选择上和夏季略有不同，无论你是哪种肤质，通常情况下都需要使用润度更高、保湿力更强的产品。应读者的热情邀请，在双十一到来之际，我加更一期秋冬护肤品 ... 查看全文",
+     "source": "少数派",
+     "zh": "秋冬换季护肤买什么，双 11 选购推荐"
     },
     {
      "title": "Samsung’s first clip-on Galaxy Buds launch tomorrow, and there’s good news for global buyers",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
      "source": "少数派",
      "zh": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro"
-    },
-    {
-     "title": "Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?",
-     "link": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_oppo_find_x10_or_the_oppo_find_x10_pro_max-news-75168.php",
-     "pubDate": "Sun, 25 Oct 2026 07:01:02 +0100",
-     "summary": "Oppo is working on faster launches for its new models in Europe – the Find X10 series launched in China a month ago and it arrived in Europe and in India earlier this week. Are you interested in one of the Find X10 phones? Did your answer remain the same after you saw the prices? If you haven’t alre",
-     "source": "GSMArena",
-     "zh": "Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?"
     }
    ]
   },
@@ -2250,6 +2250,94 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Therma Bright announces up to $420K non-brokered private placement",
+     "link": "https://seekingalpha.com/news/4657025-therma-bright-announces-up-to-420k-non-brokered-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 04:05:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Therma Bright announces up to $420K non-brokered private placement"
+    },
+    {
+     "title": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+     "pubDate": "Mon, 26 Oct 2026 08:05:28 GMT",
+     "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+     "source": "CNBC",
+     "zh": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede"
+    },
+    {
+     "title": "市场“瑟瑟发抖”！“资本开支”高度敏感之际，美国云三巨头本周一起“交财报”",
+     "link": "https://wallstreetcn.com/articles/3784424",
+     "pubDate": "Mon, 26 Oct 2026 16:03:58 +0800",
+     "summary": "本周，Alphabet、微软、亚马逊三大科技巨头将集中发布财报。在AI资本开支引发市场高度警惕的当下，强劲的营收增长或许不再足以安抚投资者—— 真正左右市场情绪的，是这些公司在AI上烧了多少钱、又何时能烧出回报。 据彭博10月25日报道，上述三家公司均预计将录得两位数的季度营收增长，合计市值逾10万亿美元。然而，Meta上周财报引发的市场剧烈反应已为本周定下基调——Meta宣布未来资本开支计划上调1250亿美元至8250亿美元后，自由现金流历史上首次转负为负21.2亿美元（去年同期为正106亿美元）。股价次日重挫6.1%， 创7月以来最大单日跌幅 ，五年期信用违约互换价格亦随之跳升至历史新高。",
+     "source": "华尔街见闻",
+     "zh": "市场“瑟瑟发抖”！“资本开支”高度敏感之际，美国云三巨头本周一起“交财报”"
+    },
+    {
+     "title": "图解财报：北斗星通前三季归母净利润2103.25万元，同比增长16.16%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263907959845.html",
+     "pubDate": "Mon, 26 Oct 2026 16:02:10 +0800",
+     "summary": "北斗星通 10月27日发布2026年 三季报显示，公司前三季 实现营业收入19.08亿元 ，同比增长26.64% ；归母净利润2103.25万元 ，同比增长16.16% ；扣非归母净利润-648.95万元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：北斗星通前三季归母净利润2103.25万元，同比增长16.16%"
+    },
+    {
+     "title": "图解财报：新亚电缆前三季归母净利润5880.02万元，同比减少23.82%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263907959755.html",
+     "pubDate": "Mon, 26 Oct 2026 16:02:10 +0800",
+     "summary": "新亚电缆 10月27日发布2026年 三季报显示，公司前三季 实现营业收入24.75亿元 ，同比增长9.66% ；归母净利润5880.02万元 ，同比下滑23.82% ；扣非归母净利润5905.84万元 ，同比下滑23.86% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：新亚电缆前三季归母净利润5880.02万元，同比减少23.82%"
+    },
+    {
+     "title": "图解财报：锌业股份前三季归母净利润5303.23万元，同比增长3.13%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263907959636.html",
+     "pubDate": "Mon, 26 Oct 2026 16:02:01 +0800",
+     "summary": "锌业股份 10月27日发布2026年 三季报显示，公司前三季 实现营业收入159.42亿元 ，同比增长16.45% ；归母净利润5303.23万元 ，同比增长3.13% ；扣非归母净利润4692.12万元 ，同比增长11.32% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：锌业股份前三季归母净利润5303.23万元，同比增长3.13%"
+    },
+    {
+     "title": "图解财报：恒勃股份前三季归母净利润6844.50万元，同比减少27.32%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263907959536.html",
+     "pubDate": "Mon, 26 Oct 2026 16:02:01 +0800",
+     "summary": "恒勃股份 10月27日发布2026年 三季报显示，公司前三季 实现营业收入12.44亿元 ，同比增长70.06% ；归母净利润6844.50万元 ，同比下滑27.32% ；扣非归母净利润6298.03万元 ，同比下滑27.84% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：恒勃股份前三季归母净利润6844.50万元，同比减少27.32%"
+    },
+    {
+     "title": "图解财报：久立特材前三季归母净利润4.53亿元，同比减少64.06%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263907959048.html",
+     "pubDate": "Mon, 26 Oct 2026 16:01:14 +0800",
+     "summary": "久立特材 10月27日发布2026年 三季报显示，公司前三季 实现营业收入60.89亿元 ，同比下滑37.52% ；归母净利润4.53亿元 ，同比下滑64.06% ；扣非归母净利润1.98亿元 ，同比下滑83.46% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：久立特材前三季归母净利润4.53亿元，同比减少64.06%"
+    },
+    {
+     "title": "图解财报：尤安设计前三季归母净利润1435.17万元，同比增长180.43%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263907958957.html",
+     "pubDate": "Mon, 26 Oct 2026 16:01:14 +0800",
+     "summary": "尤安设计 10月27日发布2026年 三季报显示，公司前三季 实现营业收入1.14亿元 ，同比下滑6.31% ；归母净利润1435.17万元 ，同比增长180.43% ；扣非归母净利润1195.31万元 ，同比增长144.29% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：尤安设计前三季归母净利润1435.17万元，同比增长180.43%"
+    },
+    {
+     "title": "中方陪同朝鲜最高领导人访问丹东 外交部介绍有关情况",
+     "link": "http://finance.eastmoney.com/news/1345,202610263907944960.html",
+     "pubDate": "Mon, 26 Oct 2026 15:51:09 +0800",
+     "summary": "10月26日，外交部发言人郭嘉昆主持例行记者会。有记者就中方陪同朝鲜最高领导人访问丹东提问。 郭嘉昆表示，中朝是友好邻邦，维护好、巩固好、发展好中朝关系，始终是中国党和政府坚定不移的战略方针。中朝传统友好合作关系持续健康稳定发展有助于增进两国人民福祉，也有利于地区的和平稳定与发展繁荣。中方愿继续同朝方一道，落实好两国元首重要共识，推动中朝关系不断向前发展。 （文章来源：中国新闻社）",
+     "source": "东方财富资讯",
+     "zh": "中方陪同朝鲜最高领导人访问丹东 外交部介绍有关情况"
+    },
+    {
+     "title": "午后异动！宇树科技股价一度重新站上700元大关",
+     "link": "http://finance.eastmoney.com/news/1345,202610263907944249.html",
+     "pubDate": "Mon, 26 Oct 2026 15:47:56 +0800",
+     "summary": "10月26日午后， 机器人 概念继续走强。 永创智能 录得2连板， 上纬新材 、 福莱新材 、 模塑科技 、 锋龙股份 、 胜通能源 、 泛亚微透 等个股涨停， 江苏北人 、 华依科技 、 维宏股份 等跟涨。 宇树科技股价午后一度重新站上700元大关，盘中最高触及737.5元/股。截至收盘报672元/股，涨超7%。 宇树科技于今年8月19日登陆科创板，发行价为150.80元/股。上市首日，公司股价开盘报1100元/股，此后持续回落，10月15日盘中最低触及404.03元/股。近期，物理AI、人形 机器人 概念整体走强，宇树科技股价大幅反弹。 在近日的2026世界物理AI大会暨宇树合作伙伴生态大",
+     "source": "东方财富资讯",
+     "zh": "午后异动！宇树科技股价一度重新站上700元大关"
+    },
+    {
      "title": "TikTok电商换将：欧洲负责人陈熙即将离职，由宋琪接棒",
      "link": "https://wallstreetcn.com/articles/3784463",
      "pubDate": "Mon, 26 Oct 2026 15:40:55 +0800",
@@ -2258,44 +2346,20 @@ window.INDUSTRY_DATA = {
      "zh": "TikTok电商换将：欧洲负责人陈熙即将离职，由宋琪接棒"
     },
     {
-     "title": "埃及股指收窄跌幅，现跌约0.8%",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907939457.html",
-     "pubDate": "Mon, 26 Oct 2026 15:35:50 +0800",
-     "summary": "埃及股指收窄跌幅，现跌约0.8%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "埃及股指收窄跌幅，现跌约0.8%"
+     "title": "多所高校将通过数字人民币发放工资",
+     "link": "http://bank.eastmoney.com/news/1174,202610263907942725.html",
+     "pubDate": "Mon, 26 Oct 2026 15:40:55 +0800",
+     "summary": "多所大学发布相关通知，学校在职在编人员工资将通过 数字人 民币钱包发放。扬州大学财务处10月20日发布通知，接省财政厅预通知，自2026年11月起，学校在职在编人员（含人事代理）工资将通过 数字人 民币钱包发放，请相关人员根据自己目前的工资卡情况，于10月23日前完成数币钱包的开立与升级。南通大学财务处发布《关于做好 数字人 民币钱包开通及11月份工资数币发放工作的通知》。江苏师范大学计财处发布《关于统计报送数币钱包信息的通知》：根据上级主管部门统一工作部署，我校将稳步推进在职人员工资数字人民币（以下简称“数币”）发放工作。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "多所高校将通过数字人民币发放工资"
     },
     {
-     "title": "新机制新靶点！国家药监局批准全球首个XI因子抑制剂在中国上市",
-     "link": "http://finance.eastmoney.com/news/1350,202610263907938530.html",
-     "pubDate": "Mon, 26 Oct 2026 15:35:07 +0800",
-     "summary": "今天，国家药监局批准全球首个XI因子抑制剂在中国上市。据了解，该药品属于新机制新靶点药物，能与现有上市的卒中标准治疗联合使用，预防患者卒中复发。对于卒中长期管理具有重要价值。 据了解，该药品也是全球同步研发的首个批准用于非心源性缺血性卒中和高风险短暂性脑缺血发作的二级预防抗凝药物。与已上市的抗凝药物相比，从作用机制角度出血的潜在风险更低。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "新机制新靶点！国家药监局批准全球首个XI因子抑制剂在中国上市"
-    },
-    {
-     "title": "又一只主动ETF提前结束募集 启动比例配售",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907938475.html",
-     "pubDate": "Mon, 26 Oct 2026 15:34:19 +0800",
-     "summary": "10月26日下午，南方基金公告称，旗下南方均衡配置主动管理ETF提前结束募集。该基金于10月23日开始募集，原定募集截止日为10月29日。 公告显示，截至10月26日，南方均衡配置主动管理ETF累计有效认购申请份额总额已超过本次募集规模上限20亿份（折合为金额20亿元人民币），南方基金将对10月26日的有效认购申请采用“末日比例确认”的原则予以部分确认，未确认部分的认购款项将由销售机构退还给投资者。 此前10月23日，摩根 大盘成长 主动股票ETF、易方达品质均衡主动ETF、富国价值优选量化选股主动ETF均“一日售罄”，首募当天便均触及20亿元上限。 （文章来源：澎湃新闻）",
-     "source": "东方财富股票",
-     "zh": "又一只主动ETF提前结束募集 启动比例配售"
-    },
-    {
-     "title": "【调研快报】海伦哲接待南方基金等82家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610263907937219.html",
-     "pubDate": "Mon, 26 Oct 2026 15:33:14 +0800",
-     "summary": "海伦哲 10月26日公告称， 10月25日 接待南方基金 等82家机构 调研。 接待人员包括 海伦哲 董事、副总经理 陈慧源, 海伦哲 副总经理 王俊鹏,海伦哲副总经理、董事会秘书 张延波,海伦哲证券事务代表 徐娜,及安盾销售部部长 佟辉。 公司就以下问题进行了回复： 一、副总经理兼董事会秘书张延波先生介绍公司三季度经营情况。 公司 2026 年前三季度实现营收 17.84 亿元,同比增长 38.32%,扣非后归母净利润2.00 亿元,同比增长 30.17%;其中 2026 年第三季度公司实现营收 6.07 亿元,同比增长24.56%;扣非后归母净利润 0.... 点击查看PDF原文 免责声明",
-     "source": "东方财富股票",
-     "zh": "【调研快报】海伦哲接待南方基金等82家机构调研"
-    },
-    {
-     "title": "嘉立创冲刺港股IPO 加速布局“A+H”",
-     "link": "http://stock.eastmoney.com/news/11215,202610263907938336.html",
-     "pubDate": "Mon, 26 Oct 2026 15:32:36 +0800",
-     "summary": "近日，深圳 嘉立创 科技集团股份有限公司（以下简称“ 嘉立创 ”，001232.SZ）发布公告称，公司正在筹划发行境外上市股份（H股）并申请在香港联交所主板挂牌上市。 这距离 嘉立创 在A股上市还不足3个月。8月4日，嘉立创在A股上市，股价最高达234元/股，市值一度超1300亿元。10月17日，嘉立创发布2026年前三季度业绩预告，预计前三季度归属于上市公司股东的净利润16.79亿元至20.52亿元，同比增长78.76%—118.48%。截至10月26日午间收盘，嘉立创股价报170.68元/股。 中国企业资本联盟副理事长柏文喜认为，嘉立创此举节奏快有合理性，是在抢全球化窗口。他分析道：“公司",
-     "source": "东方财富股票",
-     "zh": "嘉立创冲刺港股IPO 加速布局“A+H”"
+     "title": "iPhone Duo发售3天后 溢价极速跳水 回收价售价双双“破发”",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907939639.html",
+     "pubDate": "Mon, 26 Oct 2026 15:31:11 +0800",
+     "summary": "大量APP不适配、屏幕易碎裂、内膜可徒手撕除……连日来， 苹果 首款折叠屏手机iPhone Duo问题频发，溢价在发售后经历了一波极速跳水。 10月26日，记者在 拼多多 平台看到，官方售价15999元的256GB版本iPhone Duo，补贴后售价为15799元，官方售价17999元的512GB版本，补贴后售价为17799元。 记者注意到，不少消费者抢到了这一补贴，实际支付价格较官方售价低200元。 iPhone Duo于10月23日正式发售，国行256GB、512GB、1TB和2TB版本官方售价分别为15999元、17999元、21499元和26499元。 iPhone Duo从溢价上万元",
+     "source": "东方财富资讯",
+     "zh": "iPhone Duo发售3天后 溢价极速跳水 回收价售价双双“破发”"
     },
     {
      "title": "人形机器人板块掀涨停潮，发生了什么？",
@@ -2330,6 +2394,22 @@ window.INDUSTRY_DATA = {
      "zh": "Caldwell divests IQTalent to WinMil in $4.7M deal"
     },
     {
+     "title": "【风口研报】海外机构密集发声！业绩端验证行业景气  存储芯片或迎估值修复窗口",
+     "link": "http://stock.eastmoney.com/news/1405,202610263907932969.html",
+     "pubDate": "Mon, 26 Oct 2026 15:20:00 +0800",
+     "summary": "A股三大指数今日涨跌不一，截止收盘，沪指涨0.19%，收报3697.52点；深证成指跌1.19%，收报11534.38点；创业板指跌1.71%，收报2638.23点。沪深京三市成交额1.62万亿，较上一交易日大幅缩量3500亿。行业板块涨少跌多，游戏、 医药商业 、 白酒 板块涨幅居前， 元件 、 贵金属 、 半导体 、 电子 化学品、 玻璃玻纤 、地面兵装、 稀土 板块跌幅居前。个股方面，上涨股票数量超过2200只，近60只股票涨停。 据报道，10月25日，野村证券发布研报，针对近期全球存储板块遭遇的剧烈抛售进行点评。研报认为，市场对 人工智能 投资前景的担忧属于“反应过度”， 存储芯片 短",
+     "source": "东方财富资讯",
+     "zh": "【风口研报】海外机构密集发声！业绩端验证行业景气  存储芯片或迎估值修复窗口"
+    },
+    {
+     "title": "中国石油创18年新高！油气景气向好 多股业绩有望翻倍(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202610263907928792.html",
+     "pubDate": "Mon, 26 Oct 2026 15:14:03 +0800",
+     "summary": "10月26日， 中国石油 A股盘中创18年新高，港股\"三桶油\"同步走强。机构认为，地缘风险对国际油价支撑强劲，油气板块业绩有望集中兑现。 布伦特原油突破117美元 三桶油联袂走强 10月26日， 中国石油 A股盘中创2008年5月以来新高。今年下半年以来， 中国石油 股价累计上涨超55%。港股市场上，\"三桶油\"同步走高， 中国石油股份 涨超5%， 中国石油化工股份 涨超4%， 中国海洋石油 涨超3%。 消息面上，布伦特原油突破117美元/桶，创6个月新高。10月23日，布伦特原油主力合约升至117.38美元/桶，WTI原油主力合约升至103.44美元/桶。中东地缘局势持续升温：美国对伊朗\" 钢",
+     "source": "东方财富资讯",
+     "zh": "中国石油创18年新高！油气景气向好 多股业绩有望翻倍(名单)"
+    },
+    {
      "title": "中国人民大学新闻学院教授王菲：品牌叙事如何创造品牌价值",
      "link": "http://www.eeo.com.cn/2026/1026/1075832.shtml",
      "pubDate": "Mon, 26 Oct 2026 15:12:36 +0800",
@@ -2360,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Anthropic’s Claude bypasses paywall to access Georgia voter data without authorization"
-    },
-    {
-     "title": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗",
-     "link": "https://wallstreetcn.com/articles/3784454",
-     "pubDate": "Mon, 26 Oct 2026 14:29:19 +0800",
-     "summary": "在美伊冲突可能重启的高度紧张时刻，一场罕见的地区外交斡旋正在同步展开。 据 新华社 ，路透社26日援引两名消息人士的话报道说， 《麦加共同防务协议》三国沙特阿拉伯、土耳其和巴基斯坦高级官员将于当天晚些时候在德黑兰与伊朗官员举行会晤，讨论地区协作事宜。 报道说，沙特方面将由国防大臣哈立德·本·萨勒曼出席，巴基斯坦则由陆军参谋长赛义德·阿西姆·穆尼尔出席。土耳其情报部门负责人将与会。 这场外交会面的背景极为敏感。特朗普已多次暗示，美军可能在11月3日美国中期选举后恢复对伊打击，并已向波斯湾增派第三支航母打击群及逾万名海军与海军陆战队员。据彭博新闻报道，一名熟悉德黑兰方面想法的人士透露，伊朗正为新一",
-     "source": "华尔街见闻",
-     "zh": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗"
     },
     {
      "title": "How Lula turned his election fortunes around in three weeks",
@@ -2416,78 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
      "source": "CNBC",
      "zh": "‘Ticking time bomb’: The world&apos;s pension funds face an ageing crisis"
-    },
-    {
-     "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-     "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-     "pubDate": "Mon, 26 Oct 2026 05:18:01 GMT",
-     "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
-     "source": "CNBC",
-     "zh": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction"
-    },
-    {
-     "title": "Monday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4657022-mondays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 01:15:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Monday’s Economic Calendar"
-    },
-    {
-     "title": "Tech sell-off pressures Asian stocks ahead of central bank policy week",
-     "link": "https://seekingalpha.com/news/4657017-tech-sell-off-pressures-asian-stocks-ahead-of-central-bank-policy-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 01:11:04 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tech sell-off pressures Asian stocks ahead of central bank policy week"
-    },
-    {
-     "title": "Oxford Street’s pedestrian revolution is finally here",
-     "link": "https://www.ft.com/content/e14c2beb-cbcd-4e47-9f30-604b766f88e1?syn-25a6b1a6=1",
-     "pubDate": "Mon, 26 Oct 2026 05:00:21 GMT",
-     "summary": "UK’s leading shopping parade embarks on a controversial transformation project",
-     "source": "Financial Times",
-     "zh": "Oxford Street’s pedestrian revolution is finally here"
-    },
-    {
-     "title": "A day in Benjamin Netanyahu’s heartland",
-     "link": "https://www.ft.com/content/470fbc3a-fd2e-4ad3-8999-25d71e53d173",
-     "pubDate": "Mon, 26 Oct 2026 05:00:20 GMT",
-     "summary": "Many in Sderot, a city hit by Hamas’s October 7 2023 attack, remain firmly behind the prime minister ahead of the election",
-     "source": "Financial Times",
-     "zh": "A day in Benjamin Netanyahu’s heartland"
-    },
-    {
-     "title": "The reclusive quant billionaire coming into the light",
-     "link": "https://www.ft.com/content/bc6bba42-0b33-4825-a2c5-cff9b8f5c591?syn-25a6b1a6=1",
-     "pubDate": "Mon, 26 Oct 2026 05:00:12 GMT",
-     "summary": "Peter de Putron has spent decades maintaining a low profile. But the scale of his interests is commanding new attention",
-     "source": "Financial Times",
-     "zh": "The reclusive quant billionaire coming into the light"
-    },
-    {
-     "title": "SoftBank reportedly plans $50 billion tech investment in aspiring &apos;AI nation&apos; Malaysia",
-     "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-     "pubDate": "Mon, 26 Oct 2026 04:56:16 GMT",
-     "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
-     "source": "CNBC",
-     "zh": "SoftBank reportedly plans $50 billion tech investment in aspiring &apos;AI nation&apos; Malaysia"
-    },
-    {
-     "title": "Lula is re-elected Brazil’s president in knife-edge vote",
-     "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
-     "pubDate": "Mon, 26 Oct 2026 04:44:49 GMT",
-     "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
-     "source": "Financial Times",
-     "zh": "Lula is re-elected Brazil’s president in knife-edge vote"
-    },
-    {
-     "title": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-     "pubDate": "Mon, 26 Oct 2026 04:09:41 GMT",
-     "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
-     "source": "CNBC",
-     "zh": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede"
     }
    ]
   },

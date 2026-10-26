@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 13:53:31",
+ "generated_at": "2026/10/26 14:12:03",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Dream Labs raises $90 million seed funding to ‘build the brain for everyday robots’",
+     "link": "https://roboticsandautomationnews.com/2026/10/26/dream-labs-raises-90-million-seed-funding-to-build-the-brain-for-everyday-robots/106290/",
+     "pubDate": "Mon, 26 Oct 2026 05:59:06 +0000",
+     "summary": "Dream Labs, an AI company building the brain for everyday robots, has announced $90 million in seed funding led by B Capital along with Kindred Ventures, with participation from A.Capital, Unusual Ventures, SV Angel, Wing VC, Scribble VC, and Adrian Aoun, among others. Alongside the financing, the c",
+     "source": "Robotics & Automation",
+     "zh": "Dream Labs raises $90 million seed funding to ‘build the brain for everyday robots’"
+    },
+    {
      "title": "How Advanced Shockwave Therapy Technology is Expanding the Possibilities of Non-Invasive Healthcare",
      "link": "https://roboticsandautomationnews.com/2026/10/25/how-advanced-shockwave-therapy-technology-expanding-possibilities-non-invasive-healthcare/106287/",
      "pubDate": "Sun, 25 Oct 2026 20:56:28 +0000",
@@ -578,14 +586,6 @@ window.INDUSTRY_DATA = {
      "zh": "How to Clean a G1000 (and Every Other Glass Cockpit) Without Wrecking the Screen"
     },
     {
-     "title": "Canton Fair at 70: Service robots get dedicated zone as buyers demand real-world performance",
-     "link": "https://roboticsandautomationnews.com/2026/10/23/canton-fair-at-70-service-robots-get-dedicated-zone-as-buyers-demand-real-world-performance/106263/",
-     "pubDate": "Fri, 23 Oct 2026 16:21:30 +0000",
-     "summary": "Marking its 70‑year milestone, the 140th Canton Fair has launched a fully dedicated zone for service robots as part of its Phase 1 “Advanced Manufacturing” programme, spanning 520,000 m² and hosting 12,000 exhibitors across 17 emerging‑industry zones. (See video below.) Our on‑site 60‑second field v",
-     "source": "Robotics & Automation",
-     "zh": "Canton Fair at 70: Service robots get dedicated zone as buyers demand real-world performance"
-    },
-    {
      "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
      "link": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
      "pubDate": "Fri, 23 Oct 2026 15:30:02 +0000",
@@ -649,6 +649,14 @@ window.INDUSTRY_DATA = {
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "BYD opens reservations for second-gen Seal 07 with Blade Battery and flash charging",
+     "link": "https://cnevpost.com/2026/10/26/byd-opens-reservations-2nd-gen-seal-07/",
+     "pubDate": "Mon, 26 Oct 2026 05:57:08 +0000",
+     "summary": "The second-generation Seal 07 grows to 5,080 mm in length and will feature the DiSus-M intelligent magnetorheological body control system. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "BYD opens reservations for second-gen Seal 07 with Blade Battery and flash charging"
+    },
     {
      "title": "Xpeng wins Guangzhou robotaxi trial approval in step toward public service",
      "link": "https://cnevpost.com/2026/10/26/xpeng-wins-guangzhou-robotaxi-trial-approval/",
@@ -794,14 +802,6 @@ window.INDUSTRY_DATA = {
      "zh": "GM's Future Cars Will Be Very Different. Here's Everything We Learned"
     },
     {
-     "title": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
-     "link": "https://cnevpost.com/2026/10/24/catl-qilin-battery-nio-firefly-60-kwh/",
-     "pubDate": "Sat, 24 Oct 2026 11:46:57 +0000",
-     "summary": "CATL confirms Firefly uses its Qilin Battery, with the 60-kWh version offering a CLTC range of 560 km. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range"
-    },
-    {
      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
      "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
@@ -849,6 +849,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Oil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Dip-but-Hold-Above-100-as-Middle-East-Supply-Threats-Mount.html",
+     "pubDate": "Mon, 26 Oct 2026 01:03:45 -0500",
+     "summary": "Crude oil prices began trading with a dip this week but remain significantly elevated as hostilities between Yemen’s Houthis and Saudi Arabia, as well as Iranian attacks on tankers in the Persian Gulf, continue. At the time of writing, Brent crude was trading at $114.42 per barrel, down from over $1",
+     "source": "OilPrice",
+     "zh": "Oil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount"
+    },
     {
      "title": "1414 Degrees orders 5B’s Maverick folding panels to enable ‘compact layout’ of 70MW solar PV plant in South Australia",
      "link": "https://www.pv-tech.org/1414-degrees-orders-5bs-maverick-folding-panels-to-enable-compact-layout-of-70mw-solar-pv-plant-in-south-australia/",
@@ -944,14 +952,6 @@ window.INDUSTRY_DATA = {
      "summary": "The United Nations says that it is now an inevitability that the world will fail to meet the legally binding goals set forth by the Paris climate accord as a result of “decades of insufficient climate action”. The Paris Agreement, ratified in 2015, targeted limiting global warming to 1.5 degrees Cel",
      "source": "OilPrice",
      "zh": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom"
-    },
-    {
-     "title": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
-     "link": "https://oilprice.com/Energy/Energy-General/COP31-Host-Urges-NATO-Nations-to-Spend-More-on-Climate-Than-Defense.html",
-     "pubDate": "Sun, 25 Oct 2026 10:00:00 -0500",
-     "summary": "The host of the United Nations’ COP31 climate summit, Turkey, is encouraging wealthy countries participating in the conference to spend more on climate support than on defence. This follows Turkey’s announcement in September that it plans to invest heavily in developing its renewable energy capacity",
-     "source": "OilPrice",
-     "zh": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense"
     },
     {
      "title": "Invest in Solar and Earn $3,000 a Day?",
@@ -1298,6 +1298,22 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "2026 October 26 – M42: The Great Nebula in Orion",
+     "link": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+     "pubDate": "Mon, 26 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
+     "source": "NASA",
+     "zh": "2026 October 26 – M42: The Great Nebula in Orion"
+    },
+    {
+     "title": "Hunting Red Leaves with Satellites",
+     "link": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+     "pubDate": "Mon, 26 Oct 2026 04:01:00 +0000",
+     "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+     "source": "NASA",
+     "zh": "Hunting Red Leaves with Satellites"
+    },
+    {
      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
      "link": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
      "pubDate": "Sun, 25 Oct 2026 18:21:44 +0000",
@@ -1320,6 +1336,14 @@ window.INDUSTRY_DATA = {
      "summary": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone.",
      "source": "Space.com",
      "zh": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know"
+    },
+    {
+     "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+     "pubDate": "Sun, 25 Oct 2026 08:19:48 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe"
     },
     {
      "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
@@ -1354,12 +1378,36 @@ window.INDUSTRY_DATA = {
      "zh": "Medusa's eye, Halloween fireballs and more: 5 skywatching targets to look out for this spooky season"
     },
     {
+     "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+     "pubDate": "Sat, 24 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 24 – Rosetta’s Selfie"
+    },
+    {
      "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
      "link": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
      "pubDate": "Sat, 24 Oct 2026 03:25:36 +0000",
      "summary": "NASA released its October Artemis Update on Friday, covering the near-term status of the Space… The post NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths"
+    },
+    {
+     "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+     "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+     "pubDate": "Fri, 23 Oct 2026 22:39:39 +0000",
+     "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Sinc",
+     "source": "NASA",
+     "zh": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions"
+    },
+    {
+     "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+     "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+     "pubDate": "Fri, 23 Oct 2026 22:37:53 +0000",
+     "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmi",
+     "source": "NASA",
+     "zh": "NASA’s Artemis III Mission to Test Future Moon Lander Operations"
     },
     {
      "title": "NASA Outlines the Details of Artemis III and IV Missions",
@@ -1488,14 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and… The post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week"
-    },
-    {
-     "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
-     "link": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-     "pubDate": "Tue, 20 Oct 2026 05:01:48 +0000",
-     "summary": "Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s… The post Falcon 9 launches Bandwagon-5 rideshare mission from Florida appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida"
     }
    ]
   },
@@ -1722,12 +1762,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "三星 SDI 签署 1GWhr 储能电池合同，将向客户交付高镍 NCA 系统",
+     "link": "https://www.ithome.com/1/017/892.htm",
+     "pubDate": "Mon, 26 Oct 2026 06:02:14 GMT",
+     "summary": "IT之家 10 月 26 日消息，三星 SDI 当地时间今日宣布与美国储能企业 Alpha Omega Power 签署了一份 1GWhr 的储能系统解决方案供应协议。 双方之间的合同总规模随之达到 1.5GWhr 。 三星 SDI 将在其与 Stellantis 合资的美国印第安纳州 StarPlus Energy 工厂生产这批 ESS 电池，并于今年年底前交付。 Alpha Omega Power 订购的是三星 SDI 的 SBB 1.7“电池盒 ”，其基于高镍三元 NCA 化学组分方案，单体能量容量达 6.14MWhr，在相同的集装箱尺寸下较此前的 SBB 1.5 储能量提升 17%，连",
+     "source": "IT之家",
+     "zh": "三星 SDI 签署 1GWhr 储能电池合同，将向客户交付高镍 NCA 系统"
+    },
+    {
+     "title": "转一圈只要 1.63 秒，已知自转最快的近地小行星被确认",
+     "link": "https://www.ithome.com/1/017/891.htm",
+     "pubDate": "Mon, 26 Oct 2026 05:56:39 GMT",
+     "summary": "IT之家 10 月 26 日消息，据央视新闻今日报道，中国科学院云南天文台团队联合国内外合作者，在超快自转近地小行星观测研究方面取得突破性进展， 确认已知自转最快的近地小行星 。相关研究结果已发表在国际天文期刊《天文学杂志》。 近地小行星指近日点距离小于 1.3 AU 的小行星，其中直径大于 140 米、与地球最小轨道交会距离小于 0.05 AU 的近地小行星被定义为 潜在危险小行星 。 近地小行星撞击造成的破坏力越来越引起人们的关注与重视，因此，对近地小行星的监测预警和防御关乎全人类的共同安全。 近地小行星 2024 XA1 图像 北京时间 2024 年 12 月 4 日凌晨，近地小行星 2",
+     "source": "IT之家",
+     "zh": "转一圈只要 1.63 秒，已知自转最快的近地小行星被确认"
+    },
+    {
+     "title": "400名科学家联名要求AI“断网”：这一次，不是建议",
+     "link": "https://www.tmtpost.com/8181298.html",
+     "pubDate": "Mon, 26 Oct 2026 13:52:00 +0800",
+     "summary": "2026 年 406 名顶尖科学家联名发信，强硬要求 AI 默认物理断网、建立国际监管与事故档案。对比 2023 年温和暂停呼吁，态度彻底升级。四起真实 AI 越界入侵事故，让 AI 安全从理论风险变为现实危机，行业也陷入巨大理念分裂。",
+     "source": "钛媒体",
+     "zh": "400名科学家联名要求AI“断网”：这一次，不是建议"
+    },
+    {
      "title": "Windows 11 预览版 29695.1001 提供 APX 指令集启用开关",
      "link": "https://www.ithome.com/1/017/890.htm",
      "pubDate": "Mon, 26 Oct 2026 05:50:49 GMT",
      "summary": "IT之家 10 月 26 日消息，根据 X 平台用户 @ XenoPanther 的发现，Windows 11 预览体验计划实验（未来平台）频道近日发布的预览版 29695.1001 为开发者提供了 APX 指令集的启用开关，开启 APX 需要进行一次重启。 ▲ 图源：@XenoPanther 根据英特尔官方的表述，APX 是对 x86-64 指令集的一项扩展。其 将可访问的通用寄存器的数量从 16 个翻倍到 32 个 ，提升了寄存器的存储容量，可减少内存访问频率；还有一系列其它提升通用性能的新功能也被引入；这些功能不会显著增加 CPU 核心的面积或功耗。 英特尔将于 2027 年发布的 \"N",
      "source": "IT之家",
      "zh": "Windows 11 预览版 29695.1001 提供 APX 指令集启用开关"
+    },
+    {
+     "title": "从“会飞的特斯拉”中能学到什么？",
+     "link": "https://www.huxiu.com/article/4900456.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 13:50:13 +0800",
+     "summary": "本文来自微信公众号： 存量规划前沿 ，作者：研究建议 从“会飞的特斯拉”中能学到什么？ 当地时间2026年10月15日，特斯拉在SpaceX得州测试场发布跳票近9年的第二代Roadster，其中Rocket火箭版完成倒挂爬坡、悬空翻转、平地起跳飞越车队的特技演示。 “会飞的特斯拉”迅速冲上全网热搜，在互联网社区引发巨大争论。 “吹”的一方认为，“会飞的特斯拉，敲打了中国车企”（浙江日报），提出这种“颠覆性创新”带来的不只是视觉冲击，更是认知与价值层面的冲击；还有观点感慨“当我们争论刹车踏板该不该踩断时，马斯克的汽车在飞”（胡锡进）。 “踩”的一方则认为，“这只是一次工程炫技（engineeri",
+     "source": "虎嗅",
+     "zh": "从“会飞的特斯拉”中能学到什么？"
     },
     {
      "title": "India&apos;s chip design startups near production with government support, but low volumes, high fab costs, and supply chain bottlenecks hinder commercialization (Ananta Agarwal/Nikkei Asia)",
@@ -1744,6 +1816,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 底线思维 ，作者：安东·尼尔曼 近期，有关乌克兰战争的各种外交场合再次频繁出现“停火”“冻结战线”和“重启谈判”等字眼，持续四年多的俄乌冲突似乎终于显露出一丝转机。 10月下旬，美国总统特使威特科夫接连与俄乌领导人接触，俄罗斯原则上同意在11月10日后恢复俄美乌三方会谈，乌克兰则表示支持尽快启动谈判，并提出以冻结当前战线推动冲突降温。与此同时，特朗普宣称，结束冲突的目标“从未如此接近”。 这些表态为已经陷入僵局太久的和谈注入了新的想象空间。然而，谈判信号的增强并不等于和平条件已经成熟。就在各方讨论重启会谈之际，俄乌之间的相互袭击仍在持续，领土归属、安全保障等根源性问题也没",
      "source": "虎嗅",
      "zh": "乌克兰来信：俄乌冲突的终点，可能不是和平协议，而是“恐怖平衡”"
+    },
+    {
+     "title": "超充越来越快，车企为何盯上换电？",
+     "link": "https://www.tmtpost.com/8181565.html",
+     "pubDate": "Mon, 26 Oct 2026 13:47:00 +0800",
+     "summary": "换电翻红，车企寻找降价新解。",
+     "source": "钛媒体",
+     "zh": "超充越来越快，车企为何盯上换电？"
     },
     {
      "title": "卢拉逆势胜选：这是一场捍卫国家主权的“人民反击战”",
@@ -1826,30 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "大学老师工资将通过数字人民币钱包发放，江苏多所高校收到通知"
     },
     {
-     "title": "一体化电视，真的来了",
-     "link": "https://www.tmtpost.com/8181750.html",
-     "pubDate": "Mon, 26 Oct 2026 13:22:00 +0800",
-     "summary": "罗永浩不用再操心了。",
-     "source": "钛媒体",
-     "zh": "一体化电视，真的来了"
-    },
-    {
-     "title": "奇瑞风云 A9 增程版上市：标配犀牛电池、CLTC 纯电续航 230km，限时 11.69 万元起",
-     "link": "https://www.ithome.com/1/017/847.htm",
-     "pubDate": "Mon, 26 Oct 2026 05:21:10 GMT",
-     "summary": "IT之家 10 月 26 日消息，奇瑞风云新能源今日宣布，风云 A9 增程版正式上市， 限时 11.69 万元起 ： 230km Max 版：上市指导价 11.99 万元，限时超级置换价 11.69 万元起 230km Max 激光雷达版：上市指导价 12.99 万元，限时超级置换价 12.69 万元起 据IT之家此前报道， 奇瑞风云 A9 纯电版于 7 月 25 日上市 ，上市指导价 10.99 万元起，超级置换价 10.69 万元起： 655km Pro 版：上市指导价 10.99 万元，超级置换价 10.69 万元 655km Max 版：上市指导价 11.99 万元，超级置换价 11.",
-     "source": "IT之家",
-     "zh": "奇瑞风云 A9 增程版上市：标配犀牛电池、CLTC 纯电续航 230km，限时 11.69 万元起"
-    },
-    {
-     "title": "商业航天瓶颈换位：造得快，送不上",
-     "link": "https://www.tmtpost.com/8181729.html",
-     "pubDate": "Mon, 26 Oct 2026 13:19:00 +0800",
-     "summary": "商业航天、发射瓶颈、火箭复用、卫星批产、频轨履约。",
-     "source": "钛媒体",
-     "zh": "商业航天瓶颈换位：造得快，送不上"
-    },
-    {
      "title": "国航又多飞一段",
      "link": "https://www.huxiu.com/article/4900447.html?f=rss",
      "pubDate": "Mon, 26 Oct 2026 13:14:58 +0800",
@@ -1858,28 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "国航又多飞一段"
     },
     {
-     "title": "年轻人找工作不去大厂投简历，开始去夜市了。",
-     "link": "https://www.huxiu.com/article/4900444.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 13:07:29 +0800",
-     "summary": "本文来自微信公众号： 猎聘 ，作者：草木灰 晚上七点，夜市刚热闹起来。 有人拎着奶茶找小吃，有人站在招聘摊位前，低头看岗位信息。摊位旁没有面试间，也没有一连串复杂的线上测评。更多时候，年轻人只是先问一句：“这个岗位具体做什么？”“到手能有多少？”“周末能休吗？” 近日，云南丽江举办“夜市送岗·职遇丽江”招聘会。官方公告写道，活动创新采用“逛夜市、找岗位”模式，并设置企业招聘、政策咨询、简历指导等区域，方便求职者“白天务工、晚上求职”。 江苏泰州也在10月招聘计划中连续安排了多场“人才夜市”，地点设在商业街区、商场周边等夜间场景。 夜市里找工作，听起来像一个很新鲜的场景。年轻人不再执着于去大厂了",
-     "source": "虎嗅",
-     "zh": "年轻人找工作不去大厂投简历，开始去夜市了。"
-    },
-    {
      "title": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)",
      "link": "https://www.techmeme.com/261026/p2#a261026p2",
      "pubDate": "Mon, 26 Oct 2026 01:05:00 -0400",
      "summary": "M.G. Siegler / Spyglass : Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions &nbsp; &mdash;&nbsp; Amazon's quiet, listening AI wearable is also pretty killer?&nbsp; &mdash;&nbsp; I'm not sure people rea",
      "source": "Techmeme",
      "zh": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)"
-    },
-    {
-     "title": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起",
-     "link": "https://www.ithome.com/1/017/845.htm",
-     "pubDate": "Mon, 26 Oct 2026 05:00:50 GMT",
-     "summary": "IT之家 10 月 26 日消息，魏牌高山 8 HEV 今日正式上市，号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起。 舒享版：统一零售价 26.58 万元，限时权益价 25.98 万元 甄享版：统一零售价 28.58 万元，限时权益价 27.98 万元 设计上，新车延续高山家族“高山流水”的设计语言，前脸采用横贯式格栅，前后灯组呈环抱式布局，分别寓意“步步高升”“家业圆满”。 车身尺寸方面，新车长宽高分别为 5280mm、1960mm、1900mm，轴距 3145mm；外观提供鎏光墨绿、丹宸紫、深空黑、云锦白、墨夜绿、流光金、雨空灰七种配色。 IT之家获悉，高山 8 ",
-     "source": "IT之家",
-     "zh": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起"
     },
     {
      "title": "A look at Toyota&apos;s robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)",
@@ -1893,15 +1933,23 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
      "link": "https://proc-cli.com/",
      "pubDate": "Mon, 26 Oct 2026 04:14:35 +0000",
-     "summary": "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 4 # Comments: 0",
      "source": "Hacker News",
      "zh": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management"
+    },
+    {
+     "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+     "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+     "pubDate": "Mon, 26 Oct 2026 04:11:40 +0000",
+     "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Cognitive Mercantilism: AI panic resembles fears of early capitalism"
     },
     {
      "title": "Behind the scenes at the NeXT Computer office",
      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
      "pubDate": "Mon, 26 Oct 2026 03:31:11 +0000",
-     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 35 # Comments: 17",
+     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 46 # Comments: 18",
      "source": "Hacker News",
      "zh": "Behind the scenes at the NeXT Computer office"
     },
@@ -1909,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
      "pubDate": "Mon, 26 Oct 2026 03:29:05 +0000",
-     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 39 # Comments: 5",
+     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 50 # Comments: 7",
      "source": "Hacker News",
      "zh": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP"
     },
@@ -1925,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: TitleArt – Make text like it's 1997",
      "link": "https://titleart.dvy.io/",
      "pubDate": "Mon, 26 Oct 2026 03:23:57 +0000",
-     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 64 # Comments: 11",
+     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 73 # Comments: 14",
      "source": "Hacker News",
      "zh": "Show HN: TitleArt – Make text like it's 1997"
     },
@@ -1933,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
      "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
      "pubDate": "Mon, 26 Oct 2026 03:12:05 +0000",
-     "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 23 # Comments: 6",
+     "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 24 # Comments: 8",
      "source": "Hacker News",
      "zh": "Microsoft Decision-1: 9B Qwen Model Launch Explained"
     },
@@ -1952,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Michael Roddan / The Information : Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex's China ties after Airwallex scrapped a Ramp deal &nbsp; &mdash;&nbsp; In April 2025, Eric Glyman, co-founder and co-CEO of Ramp, received some bad news: A ",
      "source": "Techmeme",
      "zh": "Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex&apos;s China ties after Airwallex scrapped a Ramp deal (Michael Roddan/The Information)"
-    },
-    {
-     "title": "IBM CEO says open weight models are now good and cheap on-prem",
-     "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-     "pubDate": "Mon, 26 Oct 2026 01:47:46 +0000",
-     "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 123 # Comments: 77",
-     "source": "Hacker News",
-     "zh": "IBM CEO says open weight models are now good and cheap on-prem"
     }
    ]
   },
@@ -2218,6 +2258,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "世纪恒通10月26日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907887344.html",
+     "pubDate": "Mon, 26 Oct 2026 13:57:33 +0800",
+     "summary": "以下是 世纪恒通 在北京时间10月26日13:57分盘口异动快照： 10月26日13点57分， 世纪恒通 盘中打开涨停，现报39.16元，成交11.01亿元，换手率43.62%。该股之前于13点31分涨停。 分笔 13:57:24 39.16 722↓ 13:57:21 39.17 998↓ 13:57:18 39.17 3410↓ 13:57:15 39.17 320↓ 13:57:12 39.17 334↓ 13:57:09 39.17 35↓ 13:57:06 39.17 6↓ 13:57:03 39.17 10↓ 13:57:00 39.17 56↓ 13:56:57 39.17 5↓",
+     "source": "东方财富股票",
+     "zh": "世纪恒通10月26日打开涨停"
+    },
+    {
+     "title": "金溢科技10月26日盘中涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907887283.html",
+     "pubDate": "Mon, 26 Oct 2026 13:57:24 +0800",
+     "summary": "以下是 金溢科技 在北京时间10月26日13:57分盘口异动快照： 10月26日13点57分， 金溢科技 盘中涨停，报20.04元，目前封单11124手，折合2229.25万元。截至目前，成交1.28亿元，换手率4.49%。 分笔 13:57:12 20.04 2233↑ 13:57:09 19.78 850↑ 13:57:06 19.58 430↓ 13:57:03 19.60 459↑ 13:57:00 19.59 703↑ 13:56:57 19.47 514↑ 13:56:54 19.26 405↑ 13:56:51 19.23 439↓ 13:56:48 19.43 836↓ 13:",
+     "source": "东方财富股票",
+     "zh": "金溢科技10月26日盘中涨停"
+    },
+    {
+     "title": "卧龙电驱10月26日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907887039.html",
+     "pubDate": "Mon, 26 Oct 2026 13:57:14 +0800",
+     "summary": "以下是 卧龙电驱 在北京时间10月26日13:57分盘口异动快照： 10月26日， 卧龙电驱 盘中快速回调，5分钟内跌幅超过2%，截至13点57分，报26.8元，成交14.56亿元，换手率3.59%。 分笔 13:57:05 26.80 258↓ 13:57:02 26.80 222↓ 13:56:59 26.83 316↑ 13:56:56 26.85 486↑ 13:56:53 26.84 313↓ 13:56:50 26.86 126↓ 13:56:47 26.86 153↓ 13:56:44 26.88 214↓ 13:56:41 26.88 253↓ 13:56:38 26.88 2",
+     "source": "东方财富股票",
+     "zh": "卧龙电驱10月26日快速回调"
+    },
+    {
+     "title": "昆船智能10月26日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907886912.html",
+     "pubDate": "Mon, 26 Oct 2026 13:57:14 +0800",
+     "summary": "以下是 昆船智能 在北京时间10月26日13:57分盘口异动快照： 10月26日， 昆船智能 盘中涨幅达5%，截至13点57分，报21.14元，成交3.16亿元，换手率6.71%。 分笔 13:57:03 21.14 298↑ 13:57:00 21.04 749↑ 13:56:57 20.99 160↑ 13:56:54 20.96 11↓ 13:56:51 20.97 13↑ 13:56:48 20.96 117↑ 13:56:45 20.92 36↑ 13:56:42 20.92 40↑ 13:56:39 20.92 38↑ 13:56:36 20.90 137↑ 报价 卖五 21.2 ",
+     "source": "东方财富股票",
+     "zh": "昆船智能10月26日盘中涨幅达5%"
+    },
+    {
+     "title": "10月26日集成电路制造板块跌幅达4%",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907886812.html",
+     "pubDate": "Mon, 26 Oct 2026 13:57:14 +0800",
+     "summary": "&emsp;&emsp;10月26日13点57分， 集成电路制造 板块指数报2872.231点，跌幅达4%，成交90.11亿元，换手率1.77%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 盛合晶微 报88.27元，跌7.03%； 粤芯半导-U 报31.48元，跌6.42%； 华虹宏力 报158.12元，跌4.46%； 华润微 报50.67元，跌4.36%； 赛微电子 报28.05元，跌4.23%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月26日集成电路制造板块跌幅达4%"
+    },
+    {
+     "title": "中大力德10月26日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907886777.html",
+     "pubDate": "Mon, 26 Oct 2026 13:57:05 +0800",
+     "summary": "以下是 中大力德 在北京时间10月26日13:56分盘口异动快照： 10月26日， 中大力德 盘中快速回调，5分钟内跌幅超过2%，截至13点56分，报61.66元，成交6.15亿元，换手率5.23%。 分笔 13:56:57 61.52 1↓ 13:56:54 61.66 14↓ 13:56:51 61.66 6↓ 13:56:48 61.80 119↓ 13:56:45 61.84 11↓ 13:56:42 61.86 17↓ 13:56:39 61.90 51↑ 13:56:36 61.90 6↓ 13:56:33 61.98 33↑ 13:56:30 61.97 8↓ 报价 卖五 61.",
+     "source": "东方财富股票",
+     "zh": "中大力德10月26日快速回调"
+    },
+    {
      "title": "上市仅约3个月，两只SK海力士杠杆ETF即将在美国退市",
      "link": "https://wallstreetcn.com/articles/3784452",
      "pubDate": "Mon, 26 Oct 2026 13:49:12 +0800",
@@ -2226,52 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "上市仅约3个月，两只SK海力士杠杆ETF即将在美国退市"
     },
     {
-     "title": "弘景光电10月26日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907877355.html",
-     "pubDate": "Mon, 26 Oct 2026 13:46:15 +0800",
-     "summary": "以下是 弘景光电 在北京时间10月26日13:46分盘口异动快照： 10月26日， 弘景光电 盘中快速上涨，5分钟内涨幅超过2%，截至13点46分，报45.2元，成交9622.70万元，换手率3.09%。 分笔 13:46:12 45.20 26↑ 13:46:09 45.19 59↑ 13:46:06 45.19 19↑ 13:46:03 45.17 24↑ 13:46:00 45.16 70↑ 13:45:57 45.01 111↓ 13:45:54 45.06 341↑ 13:45:51 44.93 46↑ 13:45:48 44.89 1↑ 13:45:45 44.88 126↑ 报价",
-     "source": "东方财富股票",
-     "zh": "弘景光电10月26日快速上涨"
-    },
-    {
-     "title": "蚌埠市产业引导基金等成立脑机创投基金",
-     "link": "http://stock.eastmoney.com/news/1426,202610263907877473.html",
-     "pubDate": "Mon, 26 Oct 2026 13:45:04 +0800",
-     "summary": "企查查APP显示，近日，蚌埠科促脑机创业投资基金合伙企业（有限合伙）成立，经营范围包含：创业投资（限投资未上市企业）。企查查股权穿透显示，该企业由蚌埠市产业引导基金有限公司等共同出资。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "蚌埠市产业引导基金等成立脑机创投基金"
-    },
-    {
-     "title": "美股基本面尚稳 华尔街却按“危机模式”交易！AI拥挤交易遭猛烈拆解",
-     "link": "http://stock.eastmoney.com/news/1611,202610263907877014.html",
-     "pubDate": "Mon, 26 Oct 2026 13:44:20 +0800",
-     "summary": "华尔街正在经历一种矛盾局面：美国经济和企业盈利整体尚稳，部分热门交易却遭遇猛烈抛售。 摩根士丹利 的尼克·萨沃内（Nick Savone）在最新一期《全球反思》（Global Reflections）中指出，投资者过度关注拥挤持仓的损失，反而忽略了市场基本面仍有韧性。 科技动量交易遭重创，对冲基金被迫降风险 萨沃内指出， 2026年科技动量交易已出现65个绝对涨跌幅超过5%的交易日 ，而1999年至2001年整个互联网泡沫破裂时期，这类交易日合计为70个。如今市场仅用约十个月，就接近了当年三年的剧烈波动水平。 10月，罗素1000等权重指数上涨约2%， 摩根士丹利 的AI股票组合却下跌18%；",
-     "source": "东方财富股票",
-     "zh": "美股基本面尚稳 华尔街却按“危机模式”交易！AI拥挤交易遭猛烈拆解"
-    },
-    {
-     "title": "力鼎光电10月26日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907876753.html",
-     "pubDate": "Mon, 26 Oct 2026 13:44:09 +0800",
-     "summary": "以下是 力鼎光电 在北京时间10月26日13:44分盘口异动快照： 10月26日， 力鼎光电 盘中快速反弹，5分钟内涨幅超过2%，截至13点44分，报28.73元，成交6809.25万元，换手率0.59%。 分笔 13:44:03 28.73 58↑ 13:44:00 28.67 53↓ 13:43:57 28.70 20↓ 13:43:54 28.75 50↓ 13:43:51 28.79 175↑ 13:43:48 28.71 52↑ 13:43:45 28.87 263↑ 13:43:42 28.74 190↓ 13:43:39 28.75 290↓ 13:43:36 28.85 50↑",
-     "source": "东方财富股票",
-     "zh": "力鼎光电10月26日快速反弹"
-    },
-    {
-     "title": "太力科技10月26日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907876668.html",
-     "pubDate": "Mon, 26 Oct 2026 13:43:36 +0800",
-     "summary": "以下是 太力科技 在北京时间10月26日13:43分盘口异动快照： 10月26日， 太力科技 盘中快速上涨，5分钟内涨幅超过2%，截至13点43分，报39.6元，成交5637.30万元，换手率3.69%。 分笔 13:43:30 39.60 16↑ 13:43:27 39.46 2↑ 13:43:24 39.47 4↓ 13:43:21 39.47 25↑ 13:43:18 39.29 2↓ 13:43:15 39.49 64↑ 13:43:12 39.22 75↓ 13:43:09 39.25 37↑ 13:43:06 39.10 368↑ 13:42:54 38.73 2↓ 报价 卖五 3",
-     "source": "东方财富股票",
-     "zh": "太力科技10月26日快速上涨"
-    },
-    {
-     "title": "太力科技10月26日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907876479.html",
-     "pubDate": "Mon, 26 Oct 2026 13:43:12 +0800",
-     "summary": "以下是 太力科技 在北京时间10月26日13:43分盘口异动快照： 10月26日， 太力科技 盘中涨幅达5%，截至13点43分，报39.1元，成交5548.60万元，换手率3.64%。 分笔 13:43:06 39.10 368↑ 13:42:54 38.73 2↓ 13:42:48 38.74 31↑ 13:42:42 38.73 4↑ 13:42:33 38.72 2↑ 13:42:30 38.72 13↑ 13:42:24 38.66 7↑ 13:42:18 38.63 2↑ 13:42:15 38.63 15↑ 13:42:12 38.61 4↑ 报价 卖五 39.22 10 卖四 3",
-     "source": "东方财富股票",
-     "zh": "太力科技10月26日盘中涨幅达5%"
+     "title": "Anthropic posts $8B operating loss in 2025 as accounting charges drive net loss to $42B",
+     "link": "https://seekingalpha.com/news/4657021-anthropic-posts-8b-operating-loss-in-2025-as-accounting-charges-drive-net-loss-to-42b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 01:47:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic posts $8B operating loss in 2025 as accounting charges drive net loss to $42B"
     },
     {
      "title": "宇树科技股价重回700元 本月累计涨幅超56% 总市值突破2850亿",
@@ -2448,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "经济学家、宏观分析师David Woo指出，中东石油流量已恢复至战前水平以上，但油价依然居高不下，根源在于运输成本飙升与伊朗的地缘政治杠杆—— 供应量的恢复，并不等同于供应成本的下降 。 据《华尔街日报》报道，截至10月18日当周，包括霍尔木兹海峡及替代航线在内的中东石油日均流量已超过2400万桶，高于战前的2330万桶。然而，Woo在10月25日的节目中认为，市场忽视了一个关键事实： 炼油商支付的不仅是原油价格，还包括运费、保险和融资成本 。路透社报道显示，经霍尔木兹海峡至亚洲的运费已高达每桶约34美元，国际能源署（IEA）的数据则显示中东湾至亚洲的运费约为每桶36美元，美国墨西哥湾原油运往",
      "source": "华尔街见闻",
      "zh": "为何原油供应增加，油价缺降不下来？"
-    },
-    {
-     "title": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-     "pubDate": "Mon, 26 Oct 2026 04:09:41 GMT",
-     "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
-     "source": "CNBC",
-     "zh": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede"
     }
    ]
   },

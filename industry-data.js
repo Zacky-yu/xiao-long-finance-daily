@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 14:28:49",
+ "generated_at": "2026/10/26 14:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -1050,6 +1050,14 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tech giant Google and distributed energy resource (DER) platform Voltus have announced an expanded agreement to build a 1GW virtual power plant (VPP) in the US.",
      "source": "Energy Storage News",
      "zh": "Google and Voltus expand PJM virtual power plant agreement to 1GW"
-    },
-    {
-     "title": "European solar PPA prices up 0.4% in Europe and 4.9% in the US",
-     "link": "https://www.pv-tech.org/european-solar-ppa-prices-up-0-4-europe-4-9-us/",
-     "pubDate": "Fri, 23 Oct 2026 09:43:11 +0000",
-     "summary": "The average price of a solar PPA in Europe increased 0.4% between the second and third quarters of 2026, according to LevelTen Energy.",
-     "source": "PV Tech",
-     "zh": "European solar PPA prices up 0.4% in Europe and 4.9% in the US"
     }
    ]
   },
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
      "zh": "一加 Ace 7 系列手机官宣影像配置跨代升级：全系 2 亿像素主摄、Pro 升级 3.5 倍潜望长焦"
     },
     {
+     "title": "盯着老人“起身”，美国养老AI公司Inspiren融资7000万美元",
+     "link": "https://www.huxiu.com/article/4900461.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 14:22:55 +0800",
+     "summary": "本文来自微信公众号： 科技助老新范式 ，编辑：苏锦华，作者：周宇翔 凌晨三点，一名老人坐到床沿，准备起身去洗手间。 在传统养老机构里，只要老人没有主动按下呼叫器，这可能就是一段无人知晓的时间。护理员或许几分钟后巡房时才发现老人，也可能直到一声闷响传来，才知道一次跌倒已经发生。 Inspiren公司想做的，是把介入时间往前挪。它的设备识别离床、离椅等动作，把需要关注的情况推送给护理人员；如果跌倒已经发生，系统又会通知员工，留下可供复盘的记录。 就是这样一家扎进养老院里，关注“老人有没有从床上站起来”的公司，拿到了一张不小的支票。 2026年9月10日，Inspiren宣布完成7000万美元C轮融",
+     "source": "虎嗅",
+     "zh": "盯着老人“起身”，美国养老AI公司Inspiren融资7000万美元"
+    },
+    {
      "title": "三星 9100 PRO 固态硬盘 × 《女神异闻录 4 Revival》联名限定礼盒上市",
      "link": "https://www.ithome.com/1/017/894.htm",
      "pubDate": "Mon, 26 Oct 2026 06:20:50 GMT",
@@ -1888,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "光芯片的难，和你想的不一样。",
      "source": "钛媒体",
      "zh": "FCC阴影下，中国光芯片的生死竞速"
-    },
-    {
-     "title": "从任泽平被取消“经济学家”认证说起",
-     "link": "https://www.huxiu.com/article/4900431.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 13:34:18 +0800",
-     "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培，题图来自：视觉中国 10月24日，任泽平的公众号&ldquo;泽平宏观&rdquo;因为违规而暂时被禁止新增关注。这不是什么新鲜事了，任泽平被封不是第一次，微博、微信、抖音都被封过，每次都很快放出来了。但是这一次， 他在微博等多个平台的&ldquo;经济学家&rdquo;认证被取消了，其账号处于不加V的&ldquo;裸奔&rdquo;状态 ，这可是头一次。问题比较严重。 任泽平这一次到底是为什么出事？原因无非两条之一： 要么是在没有投资咨询资格的情况下违规荐股 ，这是当前主管部门严查的行为，虽然任泽平此前解散了多个付费群，但恐怕尚未完",
-     "source": "虎嗅",
-     "zh": "从任泽平被取消“经济学家”认证说起"
     },
     {
      "title": "安克、耐克客服失守，外挂生意为什么屡禁不止",
@@ -2114,6 +2114,14 @@ window.INDUSTRY_DATA = {
      "zh": "Does TSA actually allow AirTags in your luggage? Here's what the rules say"
     },
     {
+     "title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
+     "link": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+     "pubDate": "Sun, 25 Oct 2026 22:30:00 +0000",
+     "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
+     "source": "Engadget",
+     "zh": "Don't throw away your old, unsupported Nest gadgets — Do this instead"
+    },
+    {
      "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
      "link": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
      "pubDate": "Sun, 25 Oct 2026 21:36:58 +0000",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Oppo is working on faster launches for its new models in Europe – the Find X10 series launched in China a month ago and it arrived in Europe and in India earlier this week. Are you interested in one of the Find X10 phones? Did your answer remain the same after you saw the prices? If you haven’t alre",
      "source": "GSMArena",
      "zh": "Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?"
-    },
-    {
-     "title": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed",
-     "link": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php",
-     "pubDate": "Sun, 25 Oct 2026 03:33:02 +0100",
-     "summary": "Huawei officially confirmed the Pura 90 Plus earlier today and opened pre-orders for it in China ahead of its October 28 launch. The company hasn't revealed any specs yet, but units of the phone are already on display in its retail stores, and the live images that have started showing up online answ",
-     "source": "GSMArena",
-     "zh": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed"
     }
    ]
   },
@@ -2258,52 +2258,12 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "10月26日AI手机板块跌幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907903666.html",
-     "pubDate": "Mon, 26 Oct 2026 14:21:11 +0800",
-     "summary": "&emsp;&emsp;10月26日14点21分， AI手机 板块指数报1687.782点，跌幅达2%，成交170.34亿元，换手率1.71%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 帝奥微 报32.71元，跌7.21%； 中京电子 报12.95元，跌5.95%； 弘信电子 报32.04元，跌5.21%； 温州宏丰 报10.21元，跌4.93%； 江波龙 报232.91元，跌4.81%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月26日AI手机板块跌幅达2%"
-    },
-    {
-     "title": "天通股份10月26日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907903497.html",
-     "pubDate": "Mon, 26 Oct 2026 14:20:47 +0800",
-     "summary": "以下是 天通股份 在北京时间10月26日14:20分盘口异动快照： 10月26日， 天通股份 盘中跌幅达5%，截至14点20分，报21.12元，成交8.37亿元，换手率3.15%。 分笔 14:20:39 21.12 224↓ 14:20:36 21.13 58↓ 14:20:33 21.13 88↓ 14:20:30 21.14 135↓ 14:20:27 21.15 58↑ 14:20:24 21.15 108↑ 14:20:21 21.15 103↓ 14:20:18 21.16 24↑ 14:20:15 21.16 14↑ 14:20:12 21.16 28↑ 报价 卖五 21.18 ",
-     "source": "东方财富股票",
-     "zh": "天通股份10月26日盘中跌幅达5%"
-    },
-    {
-     "title": "民爆光电10月26日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907903347.html",
-     "pubDate": "Mon, 26 Oct 2026 14:20:29 +0800",
-     "summary": "以下是 民爆光电 在北京时间10月26日14:20分盘口异动快照： 10月26日， 民爆光电 盘中跌幅达5%，截至14点20分，报81.13元，成交1.48亿元，换手率4.37%。 分笔 14:20:24 81.13 2↓ 14:20:18 81.16 3↓ 14:20:15 81.21 1↑ 14:20:12 81.20 2↑ 14:20:09 81.16 5↑ 14:20:03 81.18 2↑ 14:20:00 81.17 4↑ 14:19:57 81.16 48↓ 14:19:54 81.21 1↓ 14:19:42 81.21 16↓ 报价 卖五 81.39 1 卖四 81.34 1",
-     "source": "东方财富股票",
-     "zh": "民爆光电10月26日盘中跌幅达5%"
-    },
-    {
-     "title": "润欣科技10月26日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907903087.html",
-     "pubDate": "Mon, 26 Oct 2026 14:20:21 +0800",
-     "summary": "以下是 润欣科技 在北京时间10月26日14:20分盘口异动快照： 10月26日， 润欣科技 盘中跌幅达5%，截至14点20分，报12.28元，成交1.71亿元，换手率2.67%。 分笔 14:20:15 12.28 121↓ 14:20:12 12.29 247↑ 14:20:06 12.29 49↓ 14:20:03 12.30 1↑ 14:19:57 12.29 4↑ 14:19:54 12.29 16↓ 14:19:51 12.30 20↑ 14:19:45 12.29 93↓ 14:19:42 12.29 5↓ 14:19:33 12.29 3↓ 报价 卖五 12.33 99 卖四 ",
-     "source": "东方财富股票",
-     "zh": "润欣科技10月26日盘中跌幅达5%"
-    },
-    {
-     "title": "联亚药业10月26日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907902958.html",
-     "pubDate": "Mon, 26 Oct 2026 14:20:08 +0800",
-     "summary": "以下是 联亚药业 在北京时间10月26日14:20分盘口异动快照： 10月26日， 联亚药业 盘中快速上涨，5分钟内涨幅超过2%，截至14点20分，报19.53元，成交6.64亿元，换手率30.91%。 分笔 14:20:00 19.53 923↑ 14:19:57 19.49 858↑ 14:19:54 19.49 705↑ 14:19:51 19.47 262↑ 14:19:48 19.45 328↑ 14:19:45 19.41 337↑ 14:19:42 19.37 908↑ 14:19:39 19.36 366↑ 14:19:36 19.33 266↑ 14:19:33 19.31 ",
-     "source": "东方财富股票",
-     "zh": "联亚药业10月26日快速上涨"
-    },
-    {
-     "title": "联亚药业10月26日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907902788.html",
-     "pubDate": "Mon, 26 Oct 2026 14:19:49 +0800",
-     "summary": "以下是 联亚药业 在北京时间10月26日14:19分盘口异动快照： 10月26日， 联亚药业 盘中涨幅达5%，截至14点19分，报19.36元，成交6.56亿元，换手率30.54%。 分笔 14:19:39 19.36 366↑ 14:19:36 19.33 266↑ 14:19:33 19.31 1184↑ 14:19:30 19.29 561↑ 14:19:27 19.27 171↑ 14:19:24 19.27 248↑ 14:19:21 19.26 528↑ 14:19:18 19.23 129↑ 14:19:15 19.23 100↑ 14:19:12 19.21 145↑ 报价 卖",
-     "source": "东方财富股票",
-     "zh": "联亚药业10月26日盘中涨幅达5%"
+     "title": "How Lula turned his election fortunes around in 3 weeks",
+     "link": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1",
+     "pubDate": "Mon, 26 Oct 2026 06:14:35 GMT",
+     "summary": "With an energetic online push and social giveaways, Brazil’s president reignited his campaign between the first and second rounds",
+     "source": "Financial Times",
+     "zh": "How Lula turned his election fortunes around in 3 weeks"
     },
     {
      "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
@@ -2482,20 +2442,60 @@ window.INDUSTRY_DATA = {
      "zh": "人形机器人大进化！SuperMimic技术让运动控制训练成本骤降1000倍"
     },
     {
-     "title": "Venezuelan opposition leader Machado returns from exile",
-     "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
-     "pubDate": "Mon, 26 Oct 2026 04:23:02 GMT",
-     "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
-     "source": "Financial Times",
-     "zh": "Venezuelan opposition leader Machado returns from exile"
-    },
-    {
      "title": "直线拉升！3分钟 20%涨停！抄底资金涌入机器人赛道",
      "link": "http://finance.eastmoney.com/news/1354,202610263907816765.html",
      "pubDate": "Mon, 26 Oct 2026 12:14:01 +0800",
      "summary": "机器人 概念股再度异动！ 今日（10月26日）盘中，部分 机器人 概念股逆市上涨。开盘仅3分钟， 朗特智能 直线拉升至20%涨停；紧随其后， 中邮科技 也封死20%涨停。此外， 襄阳轴承 、 春光科技 、 北矿科技 、 光洋股份 、 万向钱潮 等10%涨停， 上纬新材 涨18%， 江苏北人 涨超15%， 模塑科技 涨超9%，宇树科技涨超8%。 东方财富 数据显示，截至中午收盘，A股人形 机器人 板块获得主力资金净流入近15亿元，位居两市第一。 消息面上，据央视财经报道，深圳海关最新数据显示，2026年1至9月，深圳市 机器人 合计出口134.49亿元，同比增长12.9倍。深圳海关所属深圳湾海关",
      "source": "东方财富资讯",
      "zh": "直线拉升！3分钟 20%涨停！抄底资金涌入机器人赛道"
+    },
+    {
+     "title": "打破18年来纪录，601857，逆市走高！算电协同重磅大会今日启幕，5只低PE+高股息概念股浮出水面",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907818279.html",
+     "pubDate": "Mon, 26 Oct 2026 12:14:00 +0800",
+     "summary": "在“双碳”目标与“ 东数西算 ”战略的驱动下，算电协同在全国范围内催生出一条横跨 新能源 与 数字经济 的万亿元级新赛道。 油气巨头股价创阶段新高 10月26日早盘，上证指数在3700点下方运行，创业板指、科创50指数盘中下探。科技类题材遭受重创， MLCC 、CPO、 PCB 、 玻璃基板 、 先进封装 等指数跌幅靠前。 MLCC 题材跌幅最大，概念股 华瓷股份 跌停， 三环集团 、 昀冢科技 、 洁美科技 、 双星新材 、 国瓷材料 、 东材科技 等跌逾5%。 传统类行业逆市走强，石油板块多股飘红，其中 中海油服 、 海油工程 、 中国海油 、 中国石油 、 中油工程 、 中国石化 等涨超",
+     "source": "东方财富资讯",
+     "zh": "打破18年来纪录，601857，逆市走高！算电协同重磅大会今日启幕，5只低PE+高股息概念股浮出水面"
+    },
+    {
+     "title": "为何原油供应增加，油价缺降不下来？",
+     "link": "https://wallstreetcn.com/articles/3784448",
+     "pubDate": "Mon, 26 Oct 2026 12:12:16 +0800",
+     "summary": "经济学家、宏观分析师David Woo指出，中东石油流量已恢复至战前水平以上，但油价依然居高不下，根源在于运输成本飙升与伊朗的地缘政治杠杆—— 供应量的恢复，并不等同于供应成本的下降 。 据《华尔街日报》报道，截至10月18日当周，包括霍尔木兹海峡及替代航线在内的中东石油日均流量已超过2400万桶，高于战前的2330万桶。然而，Woo在10月25日的节目中认为，市场忽视了一个关键事实： 炼油商支付的不仅是原油价格，还包括运费、保险和融资成本 。路透社报道显示，经霍尔木兹海峡至亚洲的运费已高达每桶约34美元，国际能源署（IEA）的数据则显示中东湾至亚洲的运费约为每桶36美元，美国墨西哥湾原油运往",
+     "source": "华尔街见闻",
+     "zh": "为何原油供应增加，油价缺降不下来？"
+    },
+    {
+     "title": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+     "pubDate": "Mon, 26 Oct 2026 04:09:41 GMT",
+     "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+     "source": "CNBC",
+     "zh": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede"
+    },
+    {
+     "title": "趋境科技获13亿元B轮融资 “高质Token”的吸引力靠谱吗",
+     "link": "https://wallstreetcn.com/articles/3784449",
+     "pubDate": "Mon, 26 Oct 2026 11:56:41 +0800",
+     "summary": "近日，高品质 AI Token 生产服务商趋境科技（ Approaching.AI ）完成 B 轮融资，融资金额超 13 亿元人民币；今年内已累计募得 24 亿元人民币。公司称，多项核心经营指标在半年内实现超十倍速增长。 本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年 7 月完成 A 轮融资后，趋境科技短期内再获大额融资。截至今年 10 月，公司已在 2026 年连续完成多轮",
+     "source": "华尔街见闻",
+     "zh": "趋境科技获13亿元B轮融资 “高质Token”的吸引力靠谱吗"
+    },
+    {
+     "title": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Mon, 26 Oct 2026 11:47:15 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻"
+    },
+    {
+     "title": "营收承压，削减9亿美元成本：宏盟收购IPG后的整合大考",
+     "link": "http://www.eeo.com.cn/2026/1026/1075784.shtml",
+     "pubDate": "Mon, 26 Oct 2026 11:40:31 +0800",
+     "summary": "财报解读 对于完成世纪并购的宏盟集团（Omnicom）而言，如何将规模优势转化为实际增长，正在成为一道现实考题。 近日，宏盟发布2026年第三季度财报。数据显示，集团当季总营收约64亿美元，核心业务营收约60亿美元，有机增长率达到7.2%，调整后EBITDA约11亿美元，利润率为18.2%。 表面上看，这是一份表现尚可的成绩单。但在完成对埃培智...",
+     "source": "经济观察网",
+     "zh": "营收承压，削减9亿美元成本：宏盟收购IPG后的整合大考"
     }
    ]
   },

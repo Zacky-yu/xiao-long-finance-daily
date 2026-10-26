@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 17:11:49",
+ "generated_at": "2026/10/26 17:32:42",
  "recent_days": 7,
  "industries": [
   {
@@ -1538,6 +1538,38 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+     "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+     "pubDate": "Mon, 26 Oct 2026 05:19:57 -0400",
+     "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+     "source": "BleepingComputer",
+     "zh": "PHP2Shell security flaws now sucessfully exploited in the wild"
+    },
+    {
+     "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+     "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+     "pubDate": "Mon, 26 Oct 2026 09:10:03 +0000",
+     "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Mythos 5 Ignored Real-World Harm in July Attack"
+    },
+    {
+     "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+     "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+     "pubDate": "Mon, 26 Oct 2026 14:05:51 +0530",
+     "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between Ju",
+     "source": "The Hacker News",
+     "zh": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations"
+    },
+    {
+     "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+     "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+     "pubDate": "Mon, 26 Oct 2026 13:19:46 +0530",
+     "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to&nbsp;",
+     "source": "The Hacker News",
+     "zh": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs"
+    },
+    {
      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
      "pubDate": "Mon, 26 Oct 2026 11:33:48 +0530",
@@ -1594,22 +1626,6 @@ window.INDUSTRY_DATA = {
      "zh": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot"
     },
     {
-     "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-     "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-     "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530",
-     "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli. Tracked as&nbsp;CVE-2026-111497, the flaw allo",
-     "source": "The Hacker News",
-     "zh": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software"
-    },
-    {
-     "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-     "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-     "pubDate": "Sat, 24 Oct 2026 16:33:33 +0530",
-     "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM",
-     "source": "The Hacker News",
-     "zh": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline"
-    },
-    {
      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
      "pubDate": "Fri, 23 Oct 2026 20:57:56 GMT",
@@ -1656,14 +1672,6 @@ window.INDUSTRY_DATA = {
      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
      "source": "BleepingComputer",
      "zh": "Microsoft: Windows Server 2016 reaches end of support in January"
-    },
-    {
-     "title": "Quest Diagnostics confirms data breach exposed patient records",
-     "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-     "pubDate": "Fri, 23 Oct 2026 12:40:07 -0400",
-     "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-     "source": "BleepingComputer",
-     "zh": "Quest Diagnostics confirms data breach exposed patient records"
     },
     {
      "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
@@ -1722,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "Attackers Exploit Third Arista VCO Zero-Day in Four Months"
     },
     {
-     "title": "11 Million Impacted by Capcom Data Breach",
-     "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-     "pubDate": "Fri, 23 Oct 2026 08:34:14 +0000",
-     "summary": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "11 Million Impacted by Capcom Data Breach"
-    },
-    {
      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
      "pubDate": "Wed, 21 Oct 2026 15:26:07 +0000",
@@ -1754,36 +1754,116 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "终破五千大关：苹果 Mac mini M6 国补后京东 4929 元，与 M4 版同价",
+     "link": "https://www.ithome.com/1/018/022.htm",
+     "pubDate": "Mon, 26 Oct 2026 09:28:43 GMT",
+     "summary": "苹果 8 月 25 日发布全新 Mac mini 便携式主机 ，搭载全新 M6 芯片与此前已经推出的 M5 Pro 芯片，6999 元起售。 今日叠加国补后（Mac 国补限地区），京东自营仅需 4929 元起（教育优惠版 4844 元），较上市初期直降千元，终破五千大关： 京东 苹果 Mac mini M6 还有教育优惠版可选 国补后 4929 元起 直达链接 京东 苹果 Mac mini M5 Pro 还有教育优惠版可选 国补后 10699 元起 直达链接 京东 11.11 红包至高 26888 元无门槛可用： 点此抽取 。 老款 M4 版国补后同为 4929 元，小伙伴们可按需选购： 京东",
+     "source": "IT之家",
+     "zh": "终破五千大关：苹果 Mac mini M6 国补后京东 4929 元，与 M4 版同价"
+    },
+    {
+     "title": "商务部：2026 年以来家电以旧换新累计超 10099 万台",
+     "link": "https://www.ithome.com/1/018/017.htm",
+     "pubDate": "Mon, 26 Oct 2026 09:27:48 GMT",
+     "summary": "IT之家 10 月 26 日消息，商务部流通发展司负责人谈 2026 年 1-9 月我国批发和零售业发展情况。据国家统计局数据，1-9 月，我国批发和零售业增加值 11.1 万亿元，同比增长 4.4%，增速较上半年提高 0.7 个百分点，占 GDP 比重为 10.4%。 2026 年以来， 家电以旧换新累计超 10099 万台 ，数码和智能产品购新超 12060 万件。据国家统计局数据，1-9 月，限额以上单位通讯器材类零售额 8123 亿元，同比增长 18.1%，其中 9 月单月同比增长 31.1%，增速在 16 类商品中继续位居第一，为去年 6 月以来最高水平。可穿戴智能设备、高能效等级家",
+     "source": "IT之家",
+     "zh": "商务部：2026 年以来家电以旧换新累计超 10099 万台"
+    },
+    {
+     "title": "腾达首款 AI 路由器泰山 BE3600 Ultra 开启预售，到手价 179 元",
+     "link": "https://www.ithome.com/1/018/016.htm",
+     "pubDate": "Mon, 26 Oct 2026 09:27:03 GMT",
+     "summary": "IT之家 10 月 26 日消息，腾达首款 AI 路由器泰山 BE3600 Ultra 现已在京东开启预售，新品内置 AI 引擎，号称“越用越稳定”， 到手价 179 元 。 IT之家从商品页获悉，这款路由器内置六根天线，集成 AI 智能选路算法，可根据智能设备位置，精准送达强信号。5GHz 频段采用 7dBi 高增益天线，相比传统 5dBi 天线增益提升 58%。 同时，该产品还带有 AI 抗干扰功能，让网络更加稳定。支持网口盲插、NFC 一碰联网，并带有游戏专用网口、UU 游戏加速器，同时支持 MLO、4K-QAM，游戏延迟更低。还支持 AI 网络优化、AI 网络诊断等。 目前该产品已在京",
+     "source": "IT之家",
+     "zh": "腾达首款 AI 路由器泰山 BE3600 Ultra 开启预售，到手价 179 元"
+    },
+    {
+     "title": "北京AI产业地图：61家公司，两拨创业者，两种资本周期",
+     "link": "https://www.huxiu.com/article/4900518.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 17:23:05 +0800",
+     "summary": "本文来自微信公众号： 嗅态 ，作者：嗅态 北京是中国AI产业的重要聚集地。我一直很好奇，北京究竟有多少家AI公司？它们分布在哪里，做着什么生意？那些不断获得大额融资、出现在新闻里的公司，究竟是从哪里长出来的？北京拥有清华、北大、中科院，以及众多互联网大厂和投资机构。这些地方的人才、技术和资本，又是怎样汇集到一家家AI创业公司的？ 带着这些问题，嗅态从公开名单、融资报道和工商信息入手，逐家核对，最终整理出61家核心AI公司和38家观察池企业。把61家公司按照成立时间、业务方向、融资情况和经营数据进行分类，一条清晰的时间分界线逐渐显现出来。 2022年11月30日，OpenAI发布ChatGPT。",
+     "source": "虎嗅",
+     "zh": "北京AI产业地图：61家公司，两拨创业者，两种资本周期"
+    },
+    {
+     "title": "【Fintech 周报】多所高校将通过数字人民币发工资；第三季度银行理财少赚375亿",
+     "link": "https://www.tmtpost.com/8182179.html",
+     "pubDate": "Mon, 26 Oct 2026 17:18:14 +0800",
+     "summary": "金融监管总局：依法将所有金融活动纳入监管；证监会发布《违规转让证券案件行政处罚实施规则》；央行六周开出66张反洗钱罚单；互金协会：4家助贷平台提交审计结果，未发现挪用信贷资金 ；香港存款保障计划明年将再作检讨；网联平台单日处理支付交易46.4亿笔，创历史新高；前三季度银行不良转让规模突破3200亿；上半年港险新单保费大涨58.4%；A股最年轻副行长来了；建设银行完成发行700亿元二级资本债券；新华保险再度举牌中航科工H股；法国拟将加密货币兑换稳定币纳入征税；万事达卡开放Agent Pay早期访问权限。",
+     "source": "钛媒体",
+     "zh": "【Fintech 周报】多所高校将通过数字人民币发工资；第三季度银行理财少赚375亿"
+    },
+    {
+     "title": "Valve Steam Frame Review: Costly and Inconsistent",
+     "link": "https://www.wired.com/review/valve-steam-frame/",
+     "pubDate": "Mon, 26 Oct 2026 09:15:00 +0000",
+     "summary": "The Steam Frame’s promise of greatness for stand-alone and streaming VR gaming doesn’t quite connect.",
+     "source": "WIRED",
+     "zh": "Valve Steam Frame Review: Costly and Inconsistent"
+    },
+    {
+     "title": "大疆针对北京地区消费级无人机推出专属托管服务：最长可免费存储一年，后续每台每年 199 元",
+     "link": "https://www.ithome.com/1/018/015.htm",
+     "pubDate": "Mon, 26 Oct 2026 09:14:51 GMT",
+     "summary": "IT之家 10 月 26 日消息，据 DJI 大疆服务公众号，大疆针对北京地区个人名下的消费级无人机推出了专属托管服务。 申请通道于 10 月 26 日 14:00 至 11 月 14 日 20:00 开放，用户须在 11 月 14 日 24:00 前通过快递将设备寄出 ，已停止服务的旧机型因无法进行检修并不在本次托管的范围内。 据介绍，相应托管服务涵盖了无人机与配件的储存、取用寄还、电池补电、设备检测及常规售后维修。大疆会在收到机器后的 7 天内完成入库检测，业务仅支持对功能正常的机器进行储存，若设备已损坏则需先勾选故障标签完成维修后才能托管。 费用方面，若设备已于规定时间前完成有关部门信息",
+     "source": "IT之家",
+     "zh": "大疆针对北京地区消费级无人机推出专属托管服务：最长可免费存储一年，后续每台每年 199 元"
+    },
+    {
+     "title": "韩国棒球、美国大学橄榄球，都在教我们怎么做体育生意",
+     "link": "https://www.huxiu.com/article/4900515.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 17:14:05 +0800",
+     "summary": "本文来自微信公众号： 有马体育 ，作者：小码哥 在韩国看一场棒球，球迷能把球场变成演唱会。在美国看一场大学橄榄球，支持者愿意跨越3000公里追随球队。这些观赛文化的背后，有一套成熟的体育生意经：赛事如何制造偶像，球队如何凝聚粉丝，又如何把情感转化为消费？ 当韩国职业棒球不断刷新观赛纪录、美国大学球队签下天价赞助合同时，我们或许也该想一想：中国体育商业化的瓶颈，真的只是球迷不够多吗？ 1 韩国人搞粉丝经济确实有一手。 九月初一个寻常的周五，我和同事去韩国看了一场KBO棒球比赛。六点半开赛，我们在下午五点抵达蚕室棒球场。原以为来得足够早，没想到棒球场早已挤满了人，购票窗口也排起了长龙，还不断有身穿",
+     "source": "虎嗅",
+     "zh": "韩国棒球、美国大学橄榄球，都在教我们怎么做体育生意"
+    },
+    {
+     "title": "中国顶流博主，横扫海外社交媒体",
+     "link": "https://www.huxiu.com/article/4900514.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 17:13:54 +0800",
+     "summary": "本文来自微信公众号： 寻空的营销启示录 ，作者：寻空2009 10月22日凌晨，一条23分钟的英文评测出现在X上。一个中国团队把一台iPhone Duo放在常温下开合一万次，又丢进零下20度的环境里折了一千次，然后拆开，看屏幕、看铰链、看那道折痕究竟深了多少微米。整期口播是创始人自己用英文录的。 截至目前，这条视频观看超5700多万，评论7000多条，粉丝从零涨到近300万。这个刚开出来的账号，头四天里一共只发了四条内容。 评论里甚至有人把它的制作规格与《复仇者联盟4》相提并论，有人说YouTube终于有对手了，还有人直接喊话MKBHD，让他趁早提升水平。 何同学这一步布局得更早，英文频道20",
+     "source": "虎嗅",
+     "zh": "中国顶流博主，横扫海外社交媒体"
+    },
+    {
+     "title": "字节跳动旗下即梦 AI 短剧工作室上线，提供自研剧本、图片、分镜模型",
+     "link": "https://www.ithome.com/1/018/013.htm",
+     "pubDate": "Mon, 26 Oct 2026 09:12:03 GMT",
+     "summary": "IT之家 10 月 26 日消息，10 月 26 日，字节跳动旗下即梦 AI 宣布， 即梦短剧工作室正式上线 ，提供自研剧本模型 DreamScript、图片模型 Anycook、分镜模型 DreamShot。 自研剧本模型 DreamScript ：支持多题材剧本生成，覆盖原创、改编、出海、解说等主流题材；剧本爆款诊断，洞察平台热点与爆款逻辑，辅助优化剧情结构；10 万字长篇解析，自动理解、解析长篇文本，大幅提升创作效率。 自研图片模型 Anycook ：支持差异化人物设定，为短剧美术专项调校，生成更真实、辨识度更高的短剧角色；多风格场景搭建，覆盖多元视觉风格，精准匹配剧情场景。 自研分镜模",
+     "source": "IT之家",
+     "zh": "字节跳动旗下即梦 AI 短剧工作室上线，提供自研剧本、图片、分镜模型"
+    },
+    {
+     "title": "卢拉再次当选，巴西人工智能战略及其国际人工智能治理将走向何方？",
+     "link": "https://www.huxiu.com/article/4900512.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 17:10:41 +0800",
+     "summary": "本文来自微信公众号： 世界科学 ，作者：李辉 邓彤，原文标题：《卢拉再次当选，巴西人工智能战略及其国际人工智能治理将走向何方？| 智库观察》 智库观察 OBSERVATION 2026年10月25日，卢拉再度当选巴西总统，其科技创新施政逻辑有望延续，人工智能也将继续作为重点议题。 2026年7月，巴西外交部科技大使尤金尼奥・加西亚（Eugenio Garcia）曾赴上海出席世界人工智能大会，上海市科学学研究所研究团队借此契机对他开展了专访。 作为卢拉政府科技外交领域的关键代表，尤金尼奥・加西亚的视角极具参考价值。本次访谈，有助于我们深入理解巴西国家AI战略、独具特色的数字主权理念、对全球AI治",
+     "source": "虎嗅",
+     "zh": "卢拉再次当选，巴西人工智能战略及其国际人工智能治理将走向何方？"
+    },
+    {
+     "title": "从卖门票到卖体验，中国网球的赚钱逻辑变了",
+     "link": "https://www.huxiu.com/article/4900511.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 17:10:25 +0800",
+     "summary": "本文来自微信公众号： 体坛经济观察 ，作者：月半，原文标题：《从卖门票到卖体验，中国网球的赚钱逻辑变了 | 体育赛事》 一南一北，两项中国最具影响力的职业网球赛事，都在这个秋天证明了自己的吸金能力。 2026年中国网球赛季，两场顶级赛事接连交出了创纪录的商业成绩单。 10月11日，中国网球公开赛在北京国家网球中心收官。赛事整体票房达到1.32亿元，同比增长48%，创下历史新高。仅仅一周后，上海劳力士大师赛也宣布，今年赛事总营收突破5亿元，刷新赛事历史纪录。 当一场网球赛能够卖出上亿元票房，一项赛事能够创造超过5亿元收入，背后凸显了中国网球的商业价值已经进入了一个新的发展周期。透过今年的中网和上",
+     "source": "虎嗅",
+     "zh": "从卖门票到卖体验，中国网球的赚钱逻辑变了"
+    },
+    {
+     "title": "几百元和几千元的衣服，为什么都爱用“聚酯纤维”？",
+     "link": "https://www.huxiu.com/article/4900510.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 17:10:02 +0800",
+     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《几百元和几千元的衣服，为什么都爱用「聚酯纤维」？| 声动早咖啡》 欢迎来到今天的轻解读。今天的主角——聚酯纤维，简单来说，是一大类原料为聚酯的合成纤维的统称。目前，它的生产仍主要依赖石油化工原料。根据国家标准，聚酯纤维包括PET、PTT、PBT等不同种类，日常服装中最常见的是PET聚酯纤维，中文通常会称为「涤纶」。自20世纪50年代以来，涤纶连同着腈纶、氨纶、尼龙和其他化石燃料衍生的合成纤维广泛应用于各种产品中。来自荷兰的时尚研究者安妮克·斯梅利克在《聚酯：一部文化史》这篇论文中提到，二战之后，越来越多的女性开始外出工作，",
+     "source": "虎嗅",
+     "zh": "几百元和几千元的衣服，为什么都爱用“聚酯纤维”？"
+    },
+    {
      "title": "红龙 Light 75 Pro 客制化机械键盘发售：8KHz 回报率、支持三模连接，369 元起",
      "link": "https://www.ithome.com/1/018/012.htm",
      "pubDate": "Mon, 26 Oct 2026 09:06:50 GMT",
      "summary": "IT之家 10 月 26 日消息，红龙旗下 Light 75 Pro 客制化机械键盘现已在京东发售，该产品提供 8KHz 回报率，支持三模连接，樱焰版本定价为 369 元，墨焰版本定价为 399 元。 京东 红龙 Light 75 Pro 客制化机械键盘 369 元 直达链接 该键盘尺寸为 347 x 151 x 44 mm，目前在售墨焰和樱焰两种配色，外观具备星环灯效，提供 RGB 灯效，键盘右上角配有多功能旋钮，方便用户快速进行音量调节。 该键盘内部采用多层减震填充结构，目前仅在售“Speed Pro 轴”，该轴体导通力度 40gf，触底行程 3.2 mm，预行程 1.0 mm。键盘搭载双",
      "source": "IT之家",
      "zh": "红龙 Light 75 Pro 客制化机械键盘发售：8KHz 回报率、支持三模连接，369 元起"
-    },
-    {
-     "title": "九号公司 2026 年第三季度归母净利润 3.43 亿元，同比下降 37.18%",
-     "link": "https://www.ithome.com/1/018/011.htm",
-     "pubDate": "Mon, 26 Oct 2026 09:06:04 GMT",
-     "summary": "IT之家 10 月 26 日消息，九号公司今日发布 2026 年第三季度（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：75.85 亿元，同比增长 14.1% 归母净利润 ：3.43 亿元，同比下降 37.18% 扣非净利润 ：2.47 亿元，同比下降 49.21% 基本每股收益 ：4.72 元，同比下降 37.98% 稀释每股收益 ：4.63 元，同比下降 35.69% AI 解读 九号公司 2026 财年第三财季营业收入同比保持双位数增长，收入端表现优于高盛此前预期的 18% 同比增速中枢，但净利润受汇兑损失与成本压力显著低于机构预期。 公司主营业务与本季亮点 九号公司",
-     "source": "IT之家",
-     "zh": "九号公司 2026 年第三季度归母净利润 3.43 亿元，同比下降 37.18%"
-    },
-    {
-     "title": "中兴通讯 2026 年第三季度归母净利润 40.6 亿元，同比下降 23.71%",
-     "link": "https://www.ithome.com/1/018/008.htm",
-     "pubDate": "Mon, 26 Oct 2026 09:02:05 GMT",
-     "summary": "IT之家 10 月 26 日消息，中兴通讯今日发布 2026 年第三季度（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：1168.38 亿元，同比增长 16.23% 毛利润 ：294.18 亿元，同比下降 4.2% 毛利率 ：25.18%，同比下降 5.37 个百分点 归母净利润 ：40.6 亿元，同比下降 23.71% 扣非净利润 ：28.14 亿元，同比下降 27.46% 经营现金流 ：7.15 亿元，同比下降 59.78% 加权平均净资产收益率 ：5.34% 基本每股收益 ：0.85 元，同比下降 23.42% 稀释每股收益 ：0.83 元，同比下降 25.23% 资",
-     "source": "IT之家",
-     "zh": "中兴通讯 2026 年第三季度归母净利润 40.6 亿元，同比下降 23.71%"
-    },
-    {
-     "title": "越南高铁，想“一女十八嫁”？修了20年，越南人修高铁，怎么比印度还“难产”？",
-     "link": "https://www.huxiu.com/article/4900172.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 17:00:01 +0800",
-     "summary": "修了20年，越南高铁，开了印度buff？把全世界都遛了？",
-     "source": "虎嗅",
-     "zh": "越南高铁，想“一女十八嫁”？修了20年，越南人修高铁，怎么比印度还“难产”？"
     },
     {
      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
@@ -1794,22 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners"
     },
     {
-     "title": "2026 款吉利银河星舰 7 优行版上市，10.58 万元",
-     "link": "https://www.ithome.com/1/018/007.htm",
-     "pubDate": "Mon, 26 Oct 2026 08:59:31 GMT",
-     "summary": "IT之家 10 月 26 日消息，据汽车之家报道，2026 款吉利银河星舰 7 优行版现已上市，定价 10.58 万元。新车采用基于 1.5L 发动机的插电式混合动力系统，CLTC 纯电续航 130km， 带有可开启的全景天窗 。 IT之家从原报道获悉，2026 款吉利银河星舰 7 优行版延续现款车型设计，前脸采用封闭式格栅，上方配备贯穿式日行灯。 新车长宽高分别为 4740*1905*1685mm ，轴距 2755mm。车尾同样带有贯穿式尾灯，点亮后增添辨识度，下方则有隐藏式排气。 内饰方面， 该车配备 14.6 英寸中控屏幕 ，搭载 Flyme Auto 操作系统，提供全液晶仪表、540°",
-     "source": "IT之家",
-     "zh": "2026 款吉利银河星舰 7 优行版上市，10.58 万元"
-    },
-    {
-     "title": "游戏《莎木 3：增强版》跳票至明年初发售，登陆 PS5/XBOX Series / Switch 2 平台",
-     "link": "https://www.ithome.com/1/018/001.htm",
-     "pubDate": "Mon, 26 Oct 2026 08:55:22 GMT",
-     "summary": "IT之家 10 月 26 日消息，发行商 ININ_Games 宣布旗下《莎木 3：增强版》发售时间从原定的 2026 年推迟至 2027 年初，官方表示此次延期旨在为开发团队争取更多打磨时间，具体发售日期及后续详情将在之后公开。 公开信息显示《莎木 3：增强版》将登陆 PS5、XBOX Series X｜S 以及 Switch 2 平台，本作相比原版将提供更优秀的画面、更流畅的游戏体验，增强纹理质量、缩短读盘时间并引入图像升频技术，让游戏体验更加现代的同时不破坏原作理念。注重氛围感、探索体验以及剧情深度。 《莎木 3 增强版》剧情承接上一代结尾，玩家将扮演一名誓要为亡父报仇的 18 岁日本青",
-     "source": "IT之家",
-     "zh": "游戏《莎木 3：增强版》跳票至明年初发售，登陆 PS5/XBOX Series / Switch 2 平台"
-    },
-    {
      "title": "Elvis Presley&apos;s rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself (Derrick Bryson Taylor/New York Times)",
      "link": "https://www.techmeme.com/261026/p7#a261026p7",
      "pubDate": "Mon, 26 Oct 2026 04:55:10 -0400",
@@ -1818,44 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Elvis Presley&apos;s rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself (Derrick Bryson Taylor/New York Times)"
     },
     {
-     "title": "蓝思科技回应苹果 iPhone Duo 加单 30% 传闻：不评价具体比例，产线正加班赶工",
-     "link": "https://www.ithome.com/1/017/981.htm",
-     "pubDate": "Mon, 26 Oct 2026 08:48:59 GMT",
-     "summary": "IT之家 10 月 26 日消息，据财闻今日报道，近日，苹果（ AAPL.US ）首款折叠屏手机 iPhone Duo 开售之后，出现供不应求的情况。有市场消息称，旺盛的市场需求倒逼苹果要求上游供应商加速赶工，甚至向供应链提出订单规模上调 30%。 蓝思科技作为苹果折叠屏手机 UTG（超薄柔性玻璃）核心供应商，其相关动态备受关注。10 月 26 日，财闻以投资者身份联系蓝思科技，询问苹果增加 30% 订单是否属实。 蓝思科技接线工作人员表示， 对市场传闻的比例不做评价 ，公司为折叠屏手机提供高级结构件，相关产品加工难度大，附加值比较高，给公司带来比较显著的业务增量。目前公司相关产线的生产任务饱",
-     "source": "IT之家",
-     "zh": "蓝思科技回应苹果 iPhone Duo 加单 30% 传闻：不评价具体比例，产线正加班赶工"
-    },
-    {
-     "title": "OpenAI“招安”孙宇晨",
-     "link": "https://www.huxiu.com/article/4900507.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 16:46:38 +0800",
-     "summary": "本文来自微信公众号： 字母榜 ，作者：苗正 OpenAI开始给中转站发“经营牌照”，野生中转站们的好日子到头了。 日前，OpenAI发布公告，自11月20日起新版使用规则生效：模型路由、AI网关这类向第三方提供模型直连的服务须先经OpenAI审查批准，自家App内调用不受影响。 这意味着，以转接调用OpenAI大模型为主要商业模式的中转站面临着严峻考验。 其实很早之前就有专业团队通过实测发现，同样是OpenAI的API，进入中转站以后会出现“降智”的情况，中转站API的跑分，要比OpenAI官方API最多低将近一半。 不过OpenAI严格把控API，并不只是为了保证API的质量和用户体验，更重",
-     "source": "虎嗅",
-     "zh": "OpenAI“招安”孙宇晨"
-    },
-    {
-     "title": "增幅居首，中国游客中东旅游过夜量预计增长160%",
-     "link": "https://www.huxiu.com/article/4900506.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 16:45:06 +0800",
-     "summary": "本文来自微信公众号： 环球旅讯 ，作者：赵琳琳，原文标题：《增幅居首！中国游客中东旅游过夜量预计增长160%》 根据国际大会及会议协会（ICCA）与旅游经济学公司（Tourism Economics）联合发布的《2026年阿拉伯旅游展（ATM）旅游趋势报告》，未来五年，亚洲有望成为推动中东旅游业增长的重要引擎。其中，中国游客在中东的休闲旅游过夜量预计将在2025年至2030年间增长160%，增幅在报告重点关注的客源市场中居首。 不过，受地区局势影响，中国赴中东航线的运力恢复并不均衡。如何把长期潜力转化为实际客流，仍是中东目的地和航空公司面临的关键问题。 中国游客增长潜力突出，亚洲客源整体升温 ",
-     "source": "虎嗅",
-     "zh": "增幅居首，中国游客中东旅游过夜量预计增长160%"
-    },
-    {
-     "title": "看·独家 | 与火山合并后，飞书首席战略官史志隽将卸任",
-     "link": "https://www.huxiu.com/article/4900497.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 16:40:38 +0800",
-     "summary": "本文来自微信公众号： 看身手SeeMotion ，作者：身手老师傅，原文标题：《看·独家 | 与火山合并后，飞书首席战略官史志隽将卸任》 “所有飞书员工，都要在字节重新找到自己的位置。” 《看身手》独家获悉，在字节官宣飞书与豆包、火山引擎整合近百日后，原飞书副总裁、首席战略官史志隽即将卸任，后续会先转为顾问。 《看身手》多次尝试联系字节跳动官方求证，但截止目前，没有得到回复。 需要特别说明一下，“转顾问”是字节对曾做出贡献的待离职高管的惯用安排，期间高管会淡出岗位，仅在需要时提供一些业务建议，算是离职前的柔性过渡。 历史上，包括原今日头条/大力教育CEO陈林、原西瓜视频/飞书总裁张楠，都有过“",
-     "source": "虎嗅",
-     "zh": "看·独家 | 与火山合并后，飞书首席战略官史志隽将卸任"
-    },
-    {
-     "title": "小鹏老登事件：被误解是表达者的宿命，回应与否是企业的选择？",
-     "link": "https://www.huxiu.com/article/4900502.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 16:39:23 +0800",
-     "summary": "本文来自微信公众号： 财观二姐 ，作者：金一句 10月22日，小鹏MONA的00后产品经理恩塔Etta在社交平台发布视频，就此前在MONA L05预售发布会上的“老登”相关言论致歉。 她承认，是自己的表达不够周全，才引发部分用户的不适，并对此表示认真、诚恳的歉意。 并解释称，“老登”在团队内部常被用作玩笑话，大家平时并不觉得冒犯，久而久之便默认它只是一个调侃用语。 事实上老登一开始确实主要用来调侃的词汇。 据了解，老登一词源自东北方言，本义多指行为不太正经的中老年男性，带有口语化调侃意味。 但在网络语境扩散后，这个词逐渐衍生出一定攻击色彩，例如有人把房产、白酒一类称为“老登资产”，把科技类股票",
-     "source": "虎嗅",
-     "zh": "小鹏老登事件：被误解是表达者的宿命，回应与否是企业的选择？"
+     "title": "Switzerland. Block by block. At 1:1 scale",
+     "link": "https://blocks.manifold3d.ch/",
+     "pubDate": "Mon, 26 Oct 2026 08:46:09 +0000",
+     "summary": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Switzerland. Block by block. At 1:1 scale"
     },
     {
      "title": "Alphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns (Bloomberg)",
@@ -1864,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Alphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns &nbsp; &mdash;&nbsp; Three of the biggest and most important technology companies in the world are expected to show healthy growth wh",
      "source": "Techmeme",
      "zh": "Alphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns (Bloomberg)"
-    },
-    {
-     "title": "具身智能最危险的幻觉，专坑那些迷信百万小时数的人",
-     "link": "https://www.huxiu.com/article/4900467.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 16:30:26 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜陈伊凡 播客整理｜刘煊琦 编辑｜苗正卿 头图｜AI生成 &ldquo;AI原生100&rdquo;是虎嗅科技组推出针对AI原生创新栏目，这是本系列的第「69」篇文章。点击这段文字或扫描二维码收听&ldquo;虎嗅AI 100&rdquo;完整播客内容。 卢策吾大概是世界上第一个让机器人拿刀片给自己刮胡子的人。 他身上的标签不少：具身智能公司穹彻智能的联合创始人兼&nbsp;CEO，上海交通大学人工智能学院副院长，中文世界&ldquo;无本体采集&rdquo;的提出者。机器人顶会最佳论文的榜上，也常有他的名字。 穹彻智能创始人卢策吾 图片由穹彻智能提供 2014年，他去斯",
-     "source": "虎嗅",
-     "zh": "具身智能最危险的幻觉，专坑那些迷信百万小时数的人"
     },
     {
      "title": "冷冻烘焙卖3块，精品面包卖30块，谁在硬撑？",
@@ -1914,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "小酒馆走到分岔口，留下来的玩家靠什么走得更远？"
     },
     {
-     "title": "7.7亿美元订单落定，下一个OpenEvidence出现了？！",
-     "link": "https://www.tmtpost.com/8182014.html",
-     "pubDate": "Mon, 26 Oct 2026 16:16:02 +0800",
-     "summary": "下一个OE，但换了形态。",
-     "source": "钛媒体",
-     "zh": "7.7亿美元订单落定，下一个OpenEvidence出现了？！"
-    },
-    {
      "title": "Inside Slack&apos;s Salesforce culture clash: Benioff had ~1 hour with CEO Butterfield pre-deal and didn&apos;t use Slack; Butterfield quit after a Davos celebrity panel (Johnny Rodgers/Building Slack)",
      "link": "https://www.techmeme.com/261026/p5#a261026p5",
      "pubDate": "Mon, 26 Oct 2026 04:15:01 -0400",
@@ -1957,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "The result of the C++26 DIS ballot",
      "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
      "pubDate": "Mon, 26 Oct 2026 06:11:52 +0000",
-     "summary": "Article URL: https://train-it.eu/blog/cpp26-contracts-the-ballot-result/ Comments URL: https://news.ycombinator.com/item?id=50239748 Points: 37 # Comments: 23",
+     "summary": "Article URL: https://train-it.eu/blog/cpp26-contracts-the-ballot-result/ Comments URL: https://news.ycombinator.com/item?id=50239748 Points: 40 # Comments: 26",
      "source": "Hacker News",
      "zh": "The result of the C++26 DIS ballot"
     },
@@ -1976,22 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ananta Agarwal / Nikkei Asia : India's chip design startups near production with government support, but low volumes, high fab costs, and supply chain bottlenecks hinder commercialization &nbsp; &mdash;&nbsp; BENGALURU &mdash; Propelled by government support, India's chip design startups are nearing",
      "source": "Techmeme",
      "zh": "India&apos;s chip design startups near production with government support, but low volumes, high fab costs, and supply chain bottlenecks hinder commercialization (Ananta Agarwal/Nikkei Asia)"
-    },
-    {
-     "title": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)",
-     "link": "https://www.techmeme.com/261026/p2#a261026p2",
-     "pubDate": "Mon, 26 Oct 2026 01:05:00 -0400",
-     "summary": "M.G. Siegler / Spyglass : Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions &nbsp; &mdash;&nbsp; Amazon's quiet, listening AI wearable is also pretty killer?&nbsp; &mdash;&nbsp; I'm not sure people rea",
-     "source": "Techmeme",
-     "zh": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)"
-    },
-    {
-     "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-     "link": "https://proc-cli.com/",
-     "pubDate": "Mon, 26 Oct 2026 04:14:35 +0000",
-     "summary": "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 10 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Android Auto could finally remember which number you actually want to call",
+     "link": "https://www.androidauthority.com/android-auto-default-phone-number-dial-pad-redesign-apk-teardown-3727779/",
+     "pubDate": "Mon, 26 Oct 2026 09:08:36 +0000",
+     "summary": "One less decision behind the wheel, plus a refreshed look for your calls.",
+     "source": "Android Authority",
+     "zh": "Android Auto could finally remember which number you actually want to call"
+    },
     {
      "title": "7 features I want next from Google Wallet after the Apple-inspired refresh",
      "link": "https://www.androidauthority.com/google-wallet-wanted-features-3724594/",
@@ -2064,14 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch support, and a significantly lighter design are expected. Another rumor for the new MacBook Pros has been cellular support, though it’s been unclear if that’s actually going to ship. more…",
      "source": "9to5Mac",
      "zh": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?"
-    },
-    {
-     "title": "Long-time Pixel users reveal why they’re still loyal to Google and what keeps them from switching",
-     "link": "https://www.androidauthority.com/google-pixel-loyalty-reasons-3727734/",
-     "pubDate": "Mon, 26 Oct 2026 03:36:40 +0000",
-     "summary": "Pixel fans are sticking around for the software, but Google's AI push is testing their patience.",
-     "source": "Android Authority",
-     "zh": "Long-time Pixel users reveal why they’re still loyal to Google and what keeps them from switching"
     },
     {
      "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
@@ -2250,6 +2250,94 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "报道：SK海力士拟推出50万亿-60万亿韩元股东回报，规模创历史纪录",
+     "link": "https://wallstreetcn.com/articles/3784470",
+     "pubDate": "Mon, 26 Oct 2026 17:28:07 +0800",
+     "summary": "SK海力士正准备发起一轮规模空前的股东回报行动，以回应市场对其AI内存业务高速增长的期待。 据韩国《首尔经济日报》26日报道， SK海力士计划于10月28日三季度业绩发布当日，同步公告50万亿至60万亿韩元（约合380亿至450亿美元）的额外股东回报计划。 叠加近期已完成的40万亿韩元自股回购注销， 该公司今年合计股东回报规模将达到90万亿至100万亿韩元，创下历史最高纪录，约为去年规模的7倍。 此次方案以特别股息为主要形式，同时据悉公司也在考虑进行额外股票回购并注销，以满足机构及外国投资者的诉求。大规模回报计划的背后，是SK海力士受益于AI内存需求爆发所带来的强劲盈利与充裕现金流—— 证券机",
+     "source": "华尔街见闻",
+     "zh": "报道：SK海力士拟推出50万亿-60万亿韩元股东回报，规模创历史纪录"
+    },
+    {
+     "title": "图解财报：海能技术前三季归母净利润3502.58万元，同比增长93.45%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263908106495.html",
+     "pubDate": "Mon, 26 Oct 2026 17:24:25 +0800",
+     "summary": "海能技术 10月26日发布2026年 三季报显示，公司前三季 实现营业收入2.60亿元 ，同比增长14.20% ；归母净利润3502.58万元 ，同比增长93.45% ；扣非归母净利润2698.12万元 ，同比增长112.68% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：海能技术前三季归母净利润3502.58万元，同比增长93.45%"
+    },
+    {
+     "title": "新潮能源：截至9月30日最新股东户数4.93万户，较上期增加6.82%",
+     "link": "http://stock.eastmoney.com/news/11111,202610263908106173.html",
+     "pubDate": "Mon, 26 Oct 2026 17:24:14 +0800",
+     "summary": "新潮能源 最新披露数据显示，截至9月30日公司股东户数为4.93万户，较上期(2026年6月30日) 增加3152户，增幅为6.82% 。户均持有流通股数量 由上期的13.78万股下降至12.90万股， 户均持股金额 由上期的59.67万元减少至51.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作",
+     "source": "东方财富股票",
+     "zh": "新潮能源：截至9月30日最新股东户数4.93万户，较上期增加6.82%"
+    },
+    {
+     "title": "奥比中光：截至9月30日最新股东户数3.99万户，较上期减少17.92%",
+     "link": "http://stock.eastmoney.com/news/11111,202610263908105791.html",
+     "pubDate": "Mon, 26 Oct 2026 17:23:36 +0800",
+     "summary": "奥比中光最新披露数据显示，截至9月30日公司股东户数为3.99万户，较上期(2026年6月30日) 减少8712户，降幅为17.92% 。户均持有流通股数量 由上期的6553股上升至8023股， 户均持股金额 由上期的85.55万元减少至67.72万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
+     "source": "东方财富股票",
+     "zh": "奥比中光：截至9月30日最新股东户数3.99万户，较上期减少17.92%"
+    },
+    {
+     "title": "大宗交易：华通线缆成交2929.40万元（10-26）",
+     "link": "http://stock.eastmoney.com/news/11264,202610263908105696.html",
+     "pubDate": "Mon, 26 Oct 2026 17:23:36 +0800",
+     "summary": "2026年10月26日， 华通线缆 发生1笔大宗交易，共成交97.00万股，成交金额2929.40万元 ，占其流通市值比例为0.19% 。 该笔大宗交易成交均价30.20元， 较该股当日收盘价30.20元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：华通线缆成交2929.40万元（10-26）"
+    },
+    {
+     "title": "大宗交易：三人行成交3587.24万元（10-26）",
+     "link": "http://stock.eastmoney.com/news/11264,202610263908105436.html",
+     "pubDate": "Mon, 26 Oct 2026 17:23:28 +0800",
+     "summary": "2026年10月26日， 三人行 发生1笔大宗交易，共成交85.45万股，成交金额3587.24万元 ，占其流通市值比例为0.41% 。 该笔大宗交易成交均价41.98元， 较该股当日收盘价41.98元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：三人行成交3587.24万元（10-26）"
+    },
+    {
+     "title": "大宗交易：中国人寿成交351.00万元（10-26）",
+     "link": "http://stock.eastmoney.com/news/11264,202610263908105358.html",
+     "pubDate": "Mon, 26 Oct 2026 17:23:28 +0800",
+     "summary": "2026年10月26日， 中国人寿 发生1笔大宗交易，共成交10.00万股，成交金额351.00万元 。 该笔大宗交易成交均价35.10元， 较该股当日收盘价35.10元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：中国人寿成交351.00万元（10-26）"
+    },
+    {
+     "title": "10月26日涨停复盘：59只股涨停 上海九百4连板",
+     "link": "http://stock.eastmoney.com/news/11055,202610263908100955.html",
+     "pubDate": "Mon, 26 Oct 2026 17:21:23 +0800",
+     "summary": "今天沪指涨0.19%，深成指跌1.19%，创业板指跌1.71%，今日大盘成交额1.61万亿，较上个交易日缩量3474.90亿。 涨停个股数量方面，今日共计59股涨停，另有29只个股盘中一度触及涨停，封板率67.05%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富资讯",
+     "zh": "10月26日涨停复盘：59只股涨停 上海九百4连板"
+    },
+    {
+     "title": "药明康德：第三季度净利润同比增长137% 环比增长29%",
+     "link": "http://finance.eastmoney.com/news/1345,202610263908097720.html",
+     "pubDate": "Mon, 26 Oct 2026 17:19:24 +0800",
+     "summary": "药明康德 (603259.SH)公告称，第三季度营业收入为166.40亿元，同比增长38.01%；归属于上市公司股东的净利润为83.18亿元，同比增长136.67%。前三季度实现营业收入455.37亿元，同比增长38.59%；归属于上市公司股东的净利润193.98亿元，同比增长60.64%。业绩增长主要系公司持续聚焦CRDMO业务模式，后期和商业化项目比例提升，早期业务量价提升所带来的毛利提升，叠加精益运营带来的规模效益持续显现。注：公司Q3净利润83.18亿，Q2净利润64.29亿，据此计算，Q3净利润环比增长29%。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "药明康德：第三季度净利润同比增长137% 环比增长29%"
+    },
+    {
+     "title": "Biggest stock movers Monday: XCNR, SGRY, AGEN",
+     "link": "https://seekingalpha.com/news/4657027-biggest-stock-movers-monday-xcnr-sgry-agen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 05:19:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Biggest stock movers Monday: XCNR, SGRY, AGEN"
+    },
+    {
+     "title": "霍尔木兹危机后的新布局：沙特拟在新加坡储存原油 增强供应链韧性",
+     "link": "http://finance.eastmoney.com/news/1345,202610263908086681.html",
+     "pubDate": "Mon, 26 Oct 2026 17:12:10 +0800",
+     "summary": "沙特阿拉伯计划从2027年下半年起在新加坡的裕廊岛地下储油库（Jurong Rock Cavern）储存原油，以加强该地区的能源供应安全。 沙特和新加坡两国的能源部长周一（10月26日）表示，中东战局严重扰乱了霍尔木兹海峡运输至亚洲的能源供应，此举是应对措施。战争正导致各国消耗原油库存，并引发全球对储备水平的担忧。 增强供应链的灵活性 在新加坡国际能源周会议上，新加坡能源、贸易与工业部长陈诗龙表示，“沙特阿拉伯和新加坡宣布，双方将共同建立一项协议，自2027年下半年起，沙特原油将在裕廊岛地下储油库进行储存，这一安排将增强沙特原油供应链在东南亚的韧性，同时也有助于提升新加坡在供应中断时的能源安全",
+     "source": "东方财富资讯",
+     "zh": "霍尔木兹危机后的新布局：沙特拟在新加坡储存原油 增强供应链韧性"
+    },
+    {
      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;",
      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
      "pubDate": "Mon, 26 Oct 2026 09:07:53 GMT",
@@ -2258,20 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;"
     },
     {
-     "title": "图解财报：拾比佰前三季归母净利润5175.77万元，同比增长12.95%",
-     "link": "http://stock.eastmoney.com/news/11802,202610263908070061.html",
-     "pubDate": "Mon, 26 Oct 2026 17:05:11 +0800",
-     "summary": "拾比佰 10月26日发布2026年 三季报显示，公司前三季 实现营业收入15.99亿元 ，同比增长19.79% ；归母净利润5175.77万元 ，同比增长12.95% ；扣非归母净利润4956.50万元 ，同比增长8.29% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：拾比佰前三季归母净利润5175.77万元，同比增长12.95%"
-    },
-    {
-     "title": "永新光学：截至9月30日最新股东户数1.17万户，较上期减少16.69%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908068981.html",
-     "pubDate": "Mon, 26 Oct 2026 17:04:18 +0800",
-     "summary": "永新光学 最新披露数据显示，截至9月30日公司股东户数为1.17万户，较上期(2026年6月30日) 减少2351户，降幅为16.69% 。户均持有流通股数量 由上期的7858股上升至9432股， 户均持股金额 由上期的115.48万元减少至100.85万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "永新光学：截至9月30日最新股东户数1.17万户，较上期减少16.69%"
+     "title": "Neocloud stocks retreat as Musk warns of ‘guppy-level death and consolidation’",
+     "link": "https://seekingalpha.com/news/4657035-neocloud-stocks-retreat-as-musk-warns-of-guppy-level-death-and-consolidation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 05:04:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Neocloud stocks retreat as Musk warns of ‘guppy-level death and consolidation’"
     },
     {
      "title": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami",
@@ -2282,36 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami"
     },
     {
-     "title": "森萱医药：截至9月30日最新股东户数1.07万户，较上期增加2.41%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908067720.html",
-     "pubDate": "Mon, 26 Oct 2026 17:03:17 +0800",
-     "summary": "森萱医药 最新披露数据显示，截至9月30日公司股东户数为1.07万户，较上期(2026年6月30日) 增加251户，增幅为2.41% 。户均持有流通股数量 由上期的4.10万股下降至4.00万股， 户均持股金额 由上期的39.99万元增加至43.13万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "森萱医药：截至9月30日最新股东户数1.07万户，较上期增加2.41%"
-    },
-    {
-     "title": "图解财报：万泰生物前三季归母净利润-2.31亿元，上年同期-1.73亿元",
-     "link": "http://stock.eastmoney.com/news/11802,202610263908067452.html",
-     "pubDate": "Mon, 26 Oct 2026 17:03:17 +0800",
-     "summary": "万泰生物 10月27日发布2026年 三季报显示，公司前三季 实现营业收入16.23亿元 ，同比增长8.29% ；归母净利润-2.31亿元 ；扣非归母净利润-2.86亿元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：万泰生物前三季归母净利润-2.31亿元，上年同期-1.73亿元"
-    },
-    {
-     "title": "兴源环境：截至9月30日最新股东户数2.84万户，较上期减少1.95%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908066549.html",
-     "pubDate": "Mon, 26 Oct 2026 17:03:09 +0800",
-     "summary": "兴源环境 最新披露数据显示，截至9月30日公司股东户数为2.84万户，较上期(2026年9月10日) 减少566户，降幅为1.95% 。户均持有流通股数量 由上期的5.36万股上升至5.46万股， 户均持股金额 由上期的10.82万元减少至10.21万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "兴源环境：截至9月30日最新股东户数2.84万户，较上期减少1.95%"
-    },
-    {
-     "title": "亿通科技：截至9月30日最新股东户数1.35万户，较上期增加65.58%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908065389.html",
-     "pubDate": "Mon, 26 Oct 2026 17:02:10 +0800",
-     "summary": "亿通科技 最新披露数据显示，截至9月30日公司股东户数为1.35万户，较上期(2026年6月30日) 增加5349户，增幅为65.58% 。户均持有流通股数量 由上期的3.66万股下降至2.21万股， 户均持股金额 由上期的26.28万元减少至16.89万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "亿通科技：截至9月30日最新股东户数1.35万户，较上期增加65.58%"
+     "title": "GPU被CPU拖慢？Arm祭出新评测方法论",
+     "link": "https://wallstreetcn.com/articles/3784469",
+     "pubDate": "Mon, 26 Oct 2026 17:03:58 +0800",
+     "summary": "Agent的应用场景正在变得越来越细分。 从Claude Code等AI编程工具，到能够处理文档、操作软件的办公助手，再到帮助用户规划行程、管理日程的个人助理，Agent开始承担越来越多具体任务。 应用场景的不断拓展，也对底层算力提出了新的要求。 在这一背景下，Arm近日推出一套面向Agent的CPU性能评估方法论，试图通过更贴近真实应用场景的测试，帮助企业判断不同CPU在Agent任务中的表现。 这不是孤例。AMD此前已提出针对Agent AI的CPU工作负载评测框架，将工具执行、数据检索和任务编排等环节纳入测试；英特尔也针对Xeon 6处理器开展了相关测试，重点关注Agent任务的吞吐量与",
+     "source": "华尔街见闻",
+     "zh": "GPU被CPU拖慢？Arm祭出新评测方法论"
     },
     {
      "title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
@@ -2354,6 +2410,22 @@ window.INDUSTRY_DATA = {
      "zh": "European stocks edge higher to kick off busy central bank week"
     },
     {
+     "title": "什么信号？在美上市仅3个月后 两只SK海力士杠杆ETF面临清盘",
+     "link": "http://stock.eastmoney.com/news/11228,202610263908039442.html",
+     "pubDate": "Mon, 26 Oct 2026 16:48:26 +0800",
+     "summary": "随着投资者对 人工智能 （AI）交易的热情降温， 两只与 SK海力士 挂钩的杠杆交易所交易基金（ETF）在美国上市仅仅3个月后就将面临清盘 。 ETF提供商Tradr ETFs宣布，旗下两只追踪 SK海力士 美国存托凭证（ADR）的杠杆产品SKHA（2倍做多）与SKHN（2倍做空）将于11月12日前后完成清盘。这两只杠杆ETF分别提供两倍于 SK海力士 ADR每日表现的收益和反向收益。 值得注意的是， 眼下距离上述两只ETF 挂牌上市（7 月28日）仅过去3个月的时间 。 SK海力士于7月10日以ADR形式登陆 纳斯达克 ，随后ProShares、Leverage Shares、Direxio",
+     "source": "东方财富资讯",
+     "zh": "什么信号？在美上市仅3个月后 两只SK海力士杠杆ETF面临清盘"
+    },
+    {
+     "title": "IEA警告：全球能源市场明年难回美伊战争前水平 能源危机加速核电复兴",
+     "link": "http://futures.eastmoney.com/news/11233,202610263908064941.html",
+     "pubDate": "Mon, 26 Oct 2026 16:45:12 +0800",
+     "summary": "国际能源署(IEA)署长法提赫·比罗尔周一表示，他预计到2027年，全球能源市场仍难以恢复至今年2月下旬美伊战争爆发前的水平。 自战争爆发以来，全球能源体系面临严峻的安全挑战，两条能源运输“大动脉”实际上受到扰乱：一是俄罗斯向欧洲输送能源的渠道，二是途经霍尔木兹海峡的能源运输通道。 比罗尔当天在新加坡国际能源周(SIEW)会议上表示：“令人担忧的是，我看不到任何可信的途径，能够让市场在明年恢复到战争爆发前的状态。” 他补充说：“因此，我们都需要做好准备，将能源安全列为各国政府和企业界的首要任务，同时也不能忘记思考在座各国和企业未来的发展方向。” 上周五，也门胡塞武装对沙特发动更多袭击，推动布伦",
+     "source": "东方财富资讯",
+     "zh": "IEA警告：全球能源市场明年难回美伊战争前水平 能源危机加速核电复兴"
+    },
+    {
      "title": "Elbit Systems wins $200M in Asia-Pacific airborne defense contracts",
      "link": "https://seekingalpha.com/news/4657034-elbit-systems-wins-200m-in-asia-pacific-airborne-defense-contracts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 26 Oct 2026 04:45:03 -0400",
@@ -2378,30 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Stock index futures rise as Wall Street looks to rebound after difficult week"
     },
     {
-     "title": "Apollo’s Slok says AI has delivered 'zero payoff' outside tech",
-     "link": "https://seekingalpha.com/news/4657029-apollos-slok-says-ai-has-delivered-zero-payoff-outside-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 04:35:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apollo’s Slok says AI has delivered 'zero payoff' outside tech"
-    },
-    {
-     "title": "增量资金继续加码！首批主动ETF再迎提前结募 或将于11月下旬集中上市",
-     "link": "http://finance.eastmoney.com/news/1345,202610263908008577.html",
-     "pubDate": "Mon, 26 Oct 2026 16:33:51 +0800",
-     "summary": "10月26日，中国证券报·中证金牛座记者从业内了解到，华泰柏瑞基金、平安基金、华夏基金旗下主动ETF均已达到20亿元募集规模上限，将提前结束募集。这也是继摩根 资产管理 （中国）、易方达基金、富国基金旗下主动ETF率先“一日售罄”之后，再度宣布提前结募的主动ETF产品。 境内首批18只主动ETF已于10月23日集体发行。根据资料，华泰柏瑞价值精选主动ETF、平安红利景气主动管理ETF、华夏质量甄选主动股票ETF的业绩比较基准分别为中证800价值、中证红利、中证800质量指数，拟任基金经理分别为杨景涵和尤家妤、刘榕俊和钱晶、王君正。 此外，中国证券报·中证金牛座记者从业内独家获悉，首批主动ETF",
-     "source": "东方财富资讯",
-     "zh": "增量资金继续加码！首批主动ETF再迎提前结募 或将于11月下旬集中上市"
-    },
-    {
-     "title": "机构调研丨电池+储能概念 这家公司扣非净利倍增 Q4产能已订满 大圆柱国际客户需求“远超预期”",
-     "link": "http://finance.eastmoney.com/news/11822,202610263908013332.html",
-     "pubDate": "Mon, 26 Oct 2026 16:33:27 +0800",
-     "summary": "10月26日，多家上市公司发布投资者关系活动记录表公告，披露各自与机构之间的业务交流内容，其中透露出公司业务布局的诸多进展与亮点。 亿纬锂能 ：四季度产能已确定订满 储能 电池 业务海外占比明年将大幅增加 近日， 亿纬锂能 召开电话会议，与223名投资者在线交流公司三季报业绩及经营近况。 财报显示，公司前三季度营收733.90亿元，同比增约63.08%；归母净利润52.40亿元，同比增86.11%；扣非净利润40.95亿元，同比增111.38%。出货端，动力 电池 出货66.17GWh（同比+91.30%），储能 电池 出货67.52GWh（同比+39.46%）。 亿纬锂能 表示，从公司目标看",
-     "source": "东方财富资讯",
-     "zh": "机构调研丨电池+储能概念 这家公司扣非净利倍增 Q4产能已订满 大圆柱国际客户需求“远超预期”"
-    },
-    {
      "title": "科技财报周来袭，美股盘前SK海力士涨超1%，巴西石油跌超20%，油价回落，美债走强",
      "link": "https://wallstreetcn.com/articles/3784464",
      "pubDate": "Mon, 26 Oct 2026 16:30:07 +0800",
@@ -2410,44 +2458,12 @@ window.INDUSTRY_DATA = {
      "zh": "科技财报周来袭，美股盘前SK海力士涨超1%，巴西石油跌超20%，油价回落，美债走强"
     },
     {
-     "title": "宽基ETF放量出现新变化！股基ETF两日吸金超千亿元",
-     "link": "http://finance.eastmoney.com/news/1345,202610263908003882.html",
-     "pubDate": "Mon, 26 Oct 2026 16:26:32 +0800",
-     "summary": "10月26日，收盘前一小时内，四大沪深300ETF放量拉升。其中，华泰柏瑞沪深300ETF最后10分钟成交30亿元，全天成交88.18亿元；沪深300ETF易方达最后一小时成交超132亿元，全天成交141亿元。 值得注意的是，A500ETF华泰柏瑞盘中今日出现多次脉冲式拉升，最后一小时成交53.21亿元，全天成交近85亿元。这是在近期宽基ETF频频放量拉升以来，中证A500相关ETF出现罕见拉升。 A500ETF华泰柏瑞放量 10月26日，午后多只宽基ETF放量，四大沪深300ETF最后半小时内均显著放量。其中，沪深300ETF华泰柏瑞在尾盘大幅拉升，最后10分钟成交近30亿元，全天成交超88",
-     "source": "东方财富资讯",
-     "zh": "宽基ETF放量出现新变化！股基ETF两日吸金超千亿元"
-    },
-    {
-     "title": "Graphano Energy amends $900K private placement terms",
-     "link": "https://seekingalpha.com/news/4657026-graphano-energy-amends-900k-private-placement-terms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 04:26:22 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Graphano Energy amends $900K private placement terms"
-    },
-    {
      "title": "Lula is re-elected Brazil’s president in knife-edge vote",
      "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
      "pubDate": "Mon, 26 Oct 2026 08:25:20 GMT",
      "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
      "source": "Financial Times",
      "zh": "Lula is re-elected Brazil’s president in knife-edge vote"
-    },
-    {
-     "title": "苹果加单30%？蓝思科技回应：对传闻比例不做评价 正加班加点",
-     "link": "http://finance.eastmoney.com/news/1345,202610263907979168.html",
-     "pubDate": "Mon, 26 Oct 2026 16:15:04 +0800",
-     "summary": "近日， 苹果 （AAPL.US） 首款折叠屏手机iPhone Duo开售之后，出现供不应求的情况。有市场消息称，旺盛的市场需求倒逼 苹果 要求上游供应商加速赶工，甚至向供应链提出订单规模上调30%。 蓝思科技 （300433.SZ） 作为 苹果 折叠屏手机UTG（超薄柔性玻璃）核心供应商，其相关动态备受关注。 10月26日，财闻以投资者身份联系 蓝思科技 ，询问苹果增加30%订单是否属实。 蓝思科技 接线工作人员表示，对市场传闻的比例不做评价，公司为折叠屏手机提供高级结构件，相关产品加工难度大，附加值比较高，给公司带来比较显著的业务增量。目前公司相关产线的生产任务饱满，加班加点进行生产发货，同",
-     "source": "东方财富资讯",
-     "zh": "苹果加单30%？蓝思科技回应：对传闻比例不做评价 正加班加点"
-    },
-    {
-     "title": "下午开盘后的拉升像极了上周五 然而双创指数为何又快速回落了？",
-     "link": "http://finance.eastmoney.com/news/1345,202610263907974263.html",
-     "pubDate": "Mon, 26 Oct 2026 16:11:06 +0800",
-     "summary": "10月26日，A股三大指数涨跌不一，沪指收红，创业板指、深成指均跌超1%。 盘面上， 房地产 、石油板块走强，消费板块表现活跃，游戏板块逆势走高；下跌方面， 半导体概念 股走弱。 全市场超3100只个股下跌。沪深两市成交额1.61万亿，较上一个交易日缩量3475亿。 部分宽基ETF持续放量，其中沪深300ETF易方达（510310）成交额突破140亿元。 下午开盘后，市场出现一波强势拉升，沪指率先翻红，一度让投资者认为市场会复制上周五的走势，然而拉升过后，沪指和双创指数走势却出现分化。 截至收盘，沪指维持红盘报收，而创业板指跌1.71%，科创50跌2.23%。 值得注意的是，消息面上，周末A股",
-     "source": "东方财富资讯",
-     "zh": "下午开盘后的拉升像极了上周五 然而双创指数为何又快速回落了？"
     },
     {
      "title": "Brazil&apos;s Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
@@ -2472,22 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "TikTok欧洲电商迎来管理层变动。 10月26日，据行业消息，TikTok 电商欧洲负责人陈熙（Kevin）即将离职，TikTok欧洲、英国区域整体业务后续由宋琪负责。接近字节的人士向华尔街见闻确认了这一消息。 此次换将正值TikTok电商持续拓展欧洲市场。从英国起步，到进入欧洲大陆多个国家，TikTok Shop的经营范围不断扩大。接任者面前的重要任务，是把不同市场的商家、达人和履约体系衔接起来，让市场扩张转化为持续的交易增长。 陈熙此前的职责变化，已经体现出区域运营在TikTok电商中的分量。 2025年12月，TikTok电商调整架构，陈松林统一负责相关产品、中台和用户增长团队；陈熙则",
      "source": "华尔街见闻",
      "zh": "TikTok电商换将：欧洲负责人陈熙即将离职，由宋琪接棒"
-    },
-    {
-     "title": "人形机器人板块掀涨停潮，发生了什么？",
-     "link": "https://wallstreetcn.com/articles/3784459",
-     "pubDate": "Mon, 26 Oct 2026 15:31:05 +0800",
-     "summary": "周末物理AI研报密集涌现、摩根大通大幅上调宇树科技评级、启元机器人量产里程碑接连落地——多重催化剂叠加，令人形机器人板块在10月26日午后掀起一轮涨停潮。 周一午后，人形机器人概念股继续拉升！上纬新材拉升涨停，报151.57元/股，涨幅为20%，总市值突破611亿元；宇树科技盘中涨超18%，股价突破700元大关。 此外，锋龙股份、大丰实业午后封板，模塑科技、杰克科技等多股涨停。港股方面，欢创科技涨超16%，卧安机器人涨近13%，越疆涨约9%，禾赛-W涨逾8%，物理AI概念延续强势。 此轮行情的核心驱动力， 在于市场对物理AI突破时间窗口的预期明显前移。 宇树科技创始人王兴兴公开表示，物理AI“",
-     "source": "华尔街见闻",
-     "zh": "人形机器人板块掀涨停潮，发生了什么？"
-    },
-    {
-     "title": "蓝思科技前三季度净利降五成，汇兑净损失推高财务费用",
-     "link": "https://wallstreetcn.com/articles/3784462",
-     "pubDate": "Mon, 26 Oct 2026 15:30:04 +0800",
-     "summary": "10月25日，蓝思科技（ 300433.SZ ）披露2026年第三季度报告。 前三季度，公司实现归母净利润14.20亿元，同比下降50.06%；营业收入479.02亿元，同比下降10.74%，利润降幅明显大于营收降幅。 第三季度，公司实现归母净利润8.43亿元，同比下降50.42%。前三季度扣非归母净利润为9.98亿元，同比下降63.07%，降幅超过归母净利润。 蓝思科技2026年三季报 主要会计数据和财务指标 从利润表看，财务费用是值得关注的变化。 前三季度，蓝思科技财务费用为7.16亿元，上年同期为-0.74亿元，同比增加约7.90亿元。公司在三季报中将财务费用增加主要归因于汇兑净损失增加",
-     "source": "华尔街见闻",
-     "zh": "蓝思科技前三季度净利降五成，汇兑净损失推高财务费用"
     }
    ]
   },

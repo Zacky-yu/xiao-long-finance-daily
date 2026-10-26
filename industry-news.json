@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/26 20:11:59",
+ "generated_at": "2026/10/26 20:24:42",
  "recent_days": 7,
  "industries": [
   {
@@ -969,30 +969,6 @@
      "zh": "When does a BI value stop being the right number?"
     },
     {
-     "title": "More capability, less equipment: the future of capacitor bank control",
-     "link": "https://www.utilitydive.com/spons/more-capability-less-equipment-the-future-of-capacitor-bank-control/833143/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Utilities can now gain capacity and reliability without adding equipment or substation space.",
-     "source": "Utility Dive",
-     "zh": "More capability, less equipment: the future of capacitor bank control"
-    },
-    {
-     "title": "The push to DC: Why data centers are rethinking power architecture",
-     "link": "https://www.utilitydive.com/spons/the-push-to-dc-why-data-centers-are-rethinking-power-architecture/833783/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Explore how 800 VDC can reduce power losses, free up data center space and reshape power architecture.",
-     "source": "Utility Dive",
-     "zh": "The push to DC: Why data centers are rethinking power architecture"
-    },
-    {
-     "title": "Inside the resilience gap",
-     "link": "https://www.utilitydive.com/spons/inside-the-resilience-gap/832932/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "The 2026 State of Grid Resilience report puts data behind the pressures utility leaders face as they strengthen resilience while balancing affordability and performance.",
-     "source": "Utility Dive",
-     "zh": "Inside the resilience gap"
-    },
-    {
      "title": "India's Stock Market Feels the Heat From High Oil Prices",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Stock-Market-Feels-the-Heat-From-High-Oil-Prices.html",
      "pubDate": "Mon, 26 Oct 2026 03:30:00 -0500",
@@ -1087,6 +1063,30 @@
      "summary": "Some DOE programs deserve to end. The problem is a budget request that cuts weak hydrogen bets while stripping support from technologies already delivering electrification. The post Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together appeared first on CleanTechnica .",
      "source": "CleanTechnica",
      "zh": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together"
+    },
+    {
+     "title": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One",
+     "link": "https://cleantechnica.com/2026/10/25/elon-musk-the-movie-blackout-billionaires/",
+     "pubDate": "Sun, 25 Oct 2026 17:07:52 +0000",
+     "summary": "Billionaire blackout or bad timing: \"Musk\" the documentary by Alex Gibney closes after just one week in theaters across the US. The post Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One"
+    },
+    {
+     "title": "Invest in Solar and Earn $3,000 a Day?",
+     "link": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
+     "pubDate": "Sun, 25 Oct 2026 08:20:44 +0000",
+     "summary": "Driven by the rapid growth of artificial intelligence, data centers, electric vehicles, and industrial electrification, global electricity demand continues to rise, making solar power a focal point for investment in energy infrastructure. For investors aiming for a daily return of $3,000, what scale",
+     "source": "CleanTechnica",
+     "zh": "Invest in Solar and Earn $3,000 a Day?"
+    },
+    {
+     "title": "Canada And EU Are Slip Sliding Away On Vehicle Emissions",
+     "link": "https://cleantechnica.com/2026/10/24/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/",
+     "pubDate": "Sat, 24 Oct 2026 22:00:17 +0000",
+     "summary": "J. Wellington Wimpy, of Popeye comics fame, had a favorite expression. It went like this: “I will gladly pay you Tuesday for a cheeseburger today.” As the Earth gets hotter and hotter, most countries have made commitments to reduce their climate warming emissions by 2030, or 2050, or 2077, or ... [c",
+     "source": "CleanTechnica",
+     "zh": "Canada And EU Are Slip Sliding Away On Vehicle Emissions"
     }
    ]
   },
@@ -1119,14 +1119,6 @@
      "summary": "Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.",
      "source": "BioPharma Dive",
      "zh": "The molecule was fine. The moment wasn’t."
-    },
-    {
-     "title": "Novel protein and peptide therapeutics",
-     "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
-     "source": "BioPharma Dive",
-     "zh": "Novel protein and peptide therapeutics"
     },
     {
      "title": "STAT+: Moderna CEO on what’s next after success in cancer vaccine",
@@ -1287,6 +1279,14 @@
      "summary": "The results of a large prospective proteomic study have associated proteins linked with the immune system, cell adhesion, blood vessel formation, and known prostate cancer genes, to future risk of developing prostate cancer, including aggressive disease. The post Proteins Circulating in Blood Linked",
      "source": "GEN",
      "zh": "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer"
+    },
+    {
+     "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
+     "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
+     "pubDate": "Thu, 22 Oct 2026 12:24:00 -0400",
+     "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
+     "source": "BioPharma Dive",
+     "zh": "Biohaven’s previously rejected rare disease drug to get fresh FDA review"
     }
    ]
   },
@@ -1412,7 +1412,7 @@
      "title": "NASA Outlines the Details of Artemis III and IV Missions",
      "link": "https://payloadspace.com/nasa-outlines-the-details-of-artemis-iii-and-iv-missions/",
      "pubDate": "Fri, 23 Oct 2026 21:13:28 +0000",
-     "summary": "NASA still wants to return US astronauts to the Moon in 2028. Today, officials shared a progress update on their efforts, as well as the finer details of the mission plans for Artemis III and IV, targeting flights in 2027 and 2028, respectively. Long story short: NASA remains confident it can meet t",
+     "summary": "NASA is still on track to return US astronauts to the Moon in 2028. Today, officials shared a progress update on their efforts, as well as the finer details of the mission plans for Artemis III and IV, targeting flights in 2027 and 2028, respectively. Long story short: NASA remains confident it can ",
      "source": "Payload",
      "zh": "NASA Outlines the Details of Artemis III and IV Missions"
     },
@@ -1761,6 +1761,46 @@
    "total": 18,
    "items": [
     {
+     "title": "Google DeepMind&apos;s AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)",
+     "link": "https://www.techmeme.com/261026/p18#a261026p18",
+     "pubDate": "Mon, 26 Oct 2026 08:15:01 -0400",
+     "summary": "Jessica Meszaros / NPR : Google DeepMind's AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida &nbsp; &mdash;&nbsp; Hurricane forecasters are increasingly using artificial intelligence to make predictions &mdas",
+     "source": "Techmeme",
+     "zh": "Google DeepMind&apos;s AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)"
+    },
+    {
+     "title": "微软重新分工 Win11 硬件安全：Pluton 剥离 TPM 2.0 职能",
+     "link": "https://www.ithome.com/1/018/142.htm",
+     "pubDate": "Mon, 26 Oct 2026 12:15:01 GMT",
+     "summary": "IT之家 10 月 26 日消息，科技媒体 NeoWin 今天（10 月 26 日）发布博文，报道称微软更新支持文档，宣布在新一代 AMD、英特尔和高通平台上， Pluton 安全协处理器不再承担 TPM 2.0 功能 ，TPM 将改由厂商固件 TPM 或独立 TPM 提供。 IT之家注：在 Windows 11 系统中，微软提高了硬件门槛，其中一项硬性要求就是设备必须要支持可信平台模块（TPM）2.0 版本。 TPM 通常以独立芯片、CPU 内的固件模块，或 SoC 中的安全协处理器形式存在。它拥有受保护存储区域，可保存密钥、证书、密码哈希和度量值；即使系统被重装或硬盘被拆走，这些受 TPM",
+     "source": "IT之家",
+     "zh": "微软重新分工 Win11 硬件安全：Pluton 剥离 TPM 2.0 职能"
+    },
+    {
+     "title": "前美军特战司令：美国最大的迷思：总以为自己战无不胜",
+     "link": "https://www.huxiu.com/article/4900581.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 20:12:54 +0800",
+     "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《前美军特战司令：美国最大的迷思——总以为自己战无不胜｜IPP编译》 【导读】10月6日，美国总统特朗普在马里兰州出席一项海军造船项目启动活动，面对美军官兵及军工企业代表，再次宣称美国拥有“世界上最强大的军队”和“最先进的军事装备”，其他国家根本无法与之相提并论。他还以委内瑞拉和伊朗的军事行动为例，强调美军“无可匹敌的作战能力”。然而，就在特朗普大力宣扬美军实力之时，美国对伊朗的军事行动已持续七个多月，战争的政治结局仍不明朗。这不禁让人想起美国战后八十年的战争史：从朝鲜战争的僵局、越南战争的失败，再到阿富汗、伊拉克两场旷日持久的泥",
+     "source": "虎嗅",
+     "zh": "前美军特战司令：美国最大的迷思：总以为自己战无不胜"
+    },
+    {
+     "title": "Agent是关不住的：即使互相隔离，仍能隔墙传信",
+     "link": "https://www.huxiu.com/article/4900537.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 20:10:39 +0800",
+     "summary": "本文来自微信公众号： 字母AI ，作者：小金牙，编辑：王靖，题图来自：AI生成 两个AI分开执行任务，不能通过网络传话，也没有可以共同写入的文件，结果还是把消息送到了对方手里。 OpenAI新发布的一份安全报告，披露了这场&ldquo;隔墙传信&rdquo;实验。 有网友看完OpenAI的报告感慨：&ldquo;我永远不会厌倦阅读这些Agent如何创造性地逃脱囚禁以及它们的隐写术技巧。&rdquo; 这次报告披露的案例，来自OpenAI组织的一轮大规模攻防测试，总共耗费数千亿token。 研究人员让AI主动寻找隔离设施的漏洞，结果发现，处理器缓存、共享存储，甚至网页系统里的证书缓存，都可能成为",
+     "source": "虎嗅",
+     "zh": "Agent是关不住的：即使互相隔离，仍能隔墙传信"
+    },
+    {
+     "title": "只看一张脸，AI预测的死亡名单，90天后应验了一半",
+     "link": "https://www.huxiu.com/article/4900579.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 20:07:28 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：Steed 一张脸部照片，能看出一个人的生命还剩多久吗？ 美国的研究人员让一个AI给3820名癌症患者打“死亡风险分”。这些人AI从没见过，它手里的依据，只有每人一张脸部照片。 分数最高的122人，90天后，64人离世。 分数最低的975人，同样90天，去世的只有20人。 这些照片并没有什么特别，大多是病人接受放疗前，医院例行拍下的。 而AI做的这件事，医生其实每天都在做。 雷·麦（Ray Mak）是美国麻省总医院布莱根医疗集团的放射肿瘤科医生，也是这项研究的负责人之一。他说，医学院就是这样训练医生的：走进病房，先看一眼病人，对他的整体状况心里有个数。 这一",
+     "source": "虎嗅",
+     "zh": "只看一张脸，AI预测的死亡名单，90天后应验了一半"
+    },
+    {
      "title": "央视曝光新能源汽车充电桩“电动自行车充电神器”转接头：无安全认证、极易引发火灾",
      "link": "https://www.ithome.com/1/018/138.htm",
      "pubDate": "Mon, 26 Oct 2026 12:04:41 GMT",
@@ -1833,14 +1873,6 @@
      "zh": "大水取代了大蓝桶，中国的“大家庭”时代结束了"
     },
     {
-     "title": "Alpha School现状：“2小时学习模式”被质疑未达承诺效果",
-     "link": "https://www.huxiu.com/article/4900570.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 19:35:12 +0800",
-     "summary": "本文来自微信公众号： 芥末堆 ，作者：昆布 10月23日，基于Alpha School发布的文件及高管声明，以及对9名Alpha School之前及现在的家长和员工的采访，《纽约时报》刊发了《Students at an A.I.School Were Supposed to Learn Faster.Many Aren’t.》一文，让读者了解Alpha学生的表现与Alpha所承诺的效果是否相符，以及Alpha School的学校网络目前对公立学校领域的影响有多大。 2014年，麦肯齐·普莱斯（MacKenzie Price）成立Alpha，创办初衷是她的女儿抱怨在学校感到很无聊。起初，Alp",
-     "source": "虎嗅",
-     "zh": "Alpha School现状：“2小时学习模式”被质疑未达承诺效果"
-    },
-    {
      "title": "Cathedral, a months-old cybersecurity startup founded by ex-DOGE staffers, says it breached Anthropic&apos;s internal systems in under 12 hours using AI agents (Washington Post)",
      "link": "https://www.techmeme.com/261026/p16#a261026p16",
      "pubDate": "Mon, 26 Oct 2026 07:35:03 -0400",
@@ -1857,22 +1889,6 @@
      "zh": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding"
     },
     {
-     "title": "上映3日仅收获百万票房，首部AI院线电影为何遇冷？",
-     "link": "https://www.huxiu.com/article/4900569.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 19:29:37 +0800",
-     "summary": "本文来自微信公众号： 疯狂科技厅 ，作者：孔艺霖，编辑：张猛 上映3日，网友满心期待的国内首部AI院线电影《三星堆：未来往事》仅收获了百万票房。 这部影片制作了2年，生成120多万张底图，动用了近百人，片方披露的制作成本是千万级。 它尝试跑通了AI长片从制作、审查到院线上映的完整流程，也让AI影视从短视频、短剧走到了传统电影工业的门口。 但市场给出的反馈相当冷淡。这中间究竟差了什么？ 01>AI电影，至少有人敢把它送进电影院了 先说值得肯定的地方。 《三星堆：未来往事》并不是把几段AI视频拼在一起就算完事。影片全长100分钟，故事横跨古蜀、古埃及与2045年、2095年的未来世界，还要处理战争",
-     "source": "虎嗅",
-     "zh": "上映3日仅收获百万票房，首部AI院线电影为何遇冷？"
-    },
-    {
-     "title": "宏碁掠夺者 · 战斧 9 Neo 游戏本新增 14650HX + 5070 配置，标价 14499 元",
-     "link": "https://www.ithome.com/1/018/132.htm",
-     "pubDate": "Mon, 26 Oct 2026 11:29:27 GMT",
-     "summary": "IT之家 10 月 26 日消息，宏碁 (Acer) 近日为掠夺者 · 战斧 (Predator Helios) 9 Neo 游戏笔记本电脑新增 英特尔酷睿 i7-14650HX 处理器 + NVIDIA GeForce RTX 5070 笔记本电脑 GPU（12GB 显存） 的新配置。 这一款式 拥有 16GB DDR5 内存和 1TB SSD 存储 ，当前标价 14,499 元，10 月 31 日开售，尚不清楚实际最终到手价格。 掠夺者 · 战斧 9 Neo 搭载 2 风扇 5 热管 4 出风散热系统， 拥有 175W 整机性能释放 ，其中独立显卡支持 115W 满功耗。其屏幕规格则是 1",
-     "source": "IT之家",
-     "zh": "宏碁掠夺者 · 战斧 9 Neo 游戏本新增 14650HX + 5070 配置，标价 14499 元"
-    },
-    {
      "title": "紫光国微 2026 年前三季度归母净利润 10.45 亿元，同比下降 17.23%",
      "link": "https://www.ithome.com/1/018/131.htm",
      "pubDate": "Mon, 26 Oct 2026 11:26:52 GMT",
@@ -1881,20 +1897,12 @@
      "zh": "紫光国微 2026 年前三季度归母净利润 10.45 亿元，同比下降 17.23%"
     },
     {
-     "title": "Meta plans to raise $95B to finance its AI expansion, including a $35B underwritten equity offering, backed by cornerstone investors Nvidia, AMD, and Broadcom (Tim Bradshaw/Financial Times)",
+     "title": "Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom (Tim Bradshaw/Financial Times)",
      "link": "https://www.techmeme.com/261026/p15#a261026p15",
      "pubDate": "Mon, 26 Oct 2026 07:25:13 -0400",
-     "summary": "Tim Bradshaw / Financial Times : Meta plans to raise $95B to finance its AI expansion, including a $35B underwritten equity offering, backed by cornerstone investors Nvidia, AMD, and Broadcom &nbsp; &mdash;&nbsp; Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors&nbsp; &mdash;&nbs",
+     "summary": "Tim Bradshaw / Financial Times : Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom &nbsp; &mdash;&nbsp; Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors&nbsp; &mdash;&nb",
      "source": "Techmeme",
-     "zh": "Meta plans to raise $95B to finance its AI expansion, including a $35B underwritten equity offering, backed by cornerstone investors Nvidia, AMD, and Broadcom (Tim Bradshaw/Financial Times)"
-    },
-    {
-     "title": "奥迪：四环归一汽，上汽只留AUDI",
-     "link": "https://www.huxiu.com/article/4900568.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 19:24:38 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：刘阳 经过半年多的艰难谈判后，奥迪中国“南北分治”方案终于落地。 10月26日，奥迪中国官宣，与中国一汽和上汽集团签署战略协议，进一步明确“双品牌、双合作伙伴”渠道架构。其中，中国一汽负责运营奥迪四环品牌，覆盖燃油、新能源双线市场；上汽奥迪则聚焦AUDI字母标品牌，专注新能源赛道，面向国内市场推出新一代智能网联纯电车型。 按照规划，四环品牌方面，奥迪与一汽将持续完善均衡的产品阵容，包含A6L e-tron、Q6L e-tron等新能源车型，以及全新A5L、A6L等迭代燃油车型；AUDI字母标品牌聚焦纯电智能赛道，奥迪E7X已经上市，依托位于上海的奥迪创新技",
-     "source": "虎嗅",
-     "zh": "奥迪：四环归一汽，上汽只留AUDI"
+     "zh": "Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom (Tim Bradshaw/Financial Times)"
     },
     {
      "title": "The public internet model is effectively dead due to saturation, algorithmic aggregators, and AI security vulnerabilities, and that may open new possibilities (Ben Thompson/Stratechery)",
@@ -1927,14 +1935,6 @@
      "summary": "Copper prices are at record highs, but for TikTok creators, the real money may be in teaching others how to strip wire—and selling them the tools to do it.",
      "source": "WIRED",
      "zh": "The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It"
-    },
-    {
-     "title": "Modern AI panic reflects \"cognitive mercantilism\", a zero-sum worldview where intelligence is hoarded as a scarce supply-side commodity managed by elites (Venkatesh Rao/Contraptions)",
-     "link": "https://www.techmeme.com/261026/p12#a261026p12",
-     "pubDate": "Mon, 26 Oct 2026 06:55:18 -0400",
-     "summary": "Venkatesh Rao / Contraptions : Modern AI panic reflects &ldquo;cognitive mercantilism&rdquo;, a zero-sum worldview where intelligence is hoarded as a scarce supply-side commodity managed by elites &nbsp; &mdash;&nbsp; AI panic weirdly resembles the anxiety that accompanied early capitalism&nbsp; &md",
-     "source": "Techmeme",
-     "zh": "Modern AI panic reflects \"cognitive mercantilism\", a zero-sum worldview where intelligence is hoarded as a scarce supply-side commodity managed by elites (Venkatesh Rao/Contraptions)"
     },
     {
      "title": "武汉和长江存储等了二十年，A股却散席了",
@@ -2257,36 +2257,108 @@
    "total": 13,
    "items": [
     {
+     "title": "Lumentum, Coherent in focus as StoneX starts with Buy ratings",
+     "link": "https://seekingalpha.com/news/4657106-lumentum-coherent-in-focus-as-stonex-starts-with-buy-ratings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:18:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lumentum, Coherent in focus as StoneX starts with Buy ratings"
+    },
+    {
+     "title": "Braemar Hotels nominates slate of mostly new directors",
+     "link": "https://seekingalpha.com/news/4657104-braemar-hotels-nominates-slate-of-mostly-new-directors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:16:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Braemar Hotels nominates slate of mostly new directors"
+    },
+    {
      "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
      "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-     "pubDate": "Mon, 26 Oct 2026 12:09:00 GMT",
+     "pubDate": "Mon, 26 Oct 2026 12:14:55 GMT",
      "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
      "source": "CNBC",
      "zh": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede"
     },
     {
+     "title": "Verizon raises 2026 outlook after strong postpaid subscriber growth, strikes $2B AWS AI deal",
+     "link": "https://seekingalpha.com/news/4657080-verizon-raises-2026-outlook-after-strong-postpaid-subscriber-growth-strikes-2b-aws-ai-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:14:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Verizon raises 2026 outlook after strong postpaid subscriber growth, strikes $2B AWS AI deal"
+    },
+    {
+     "title": "Stem weighs sale, merger, and other options ahead of Q3 earnings",
+     "link": "https://seekingalpha.com/news/4657113-stem-weighs-sale-merger-and-other-options-ahead-of-q3-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:12:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stem weighs sale, merger, and other options ahead of Q3 earnings"
+    },
+    {
+     "title": "Adial Pharmaceuticals to appoint Celia Economides as CFO",
+     "link": "https://seekingalpha.com/news/4657109-adial-pharmaceuticals-to-appoint-celia-economides-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:12:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Adial Pharmaceuticals to appoint Celia Economides as CFO"
+    },
+    {
+     "title": "拉加德或提前离场，欧洲央行接班之争聚焦谁更能对抗\"债券义警\"",
+     "link": "https://wallstreetcn.com/articles/3784488",
+     "pubDate": "Mon, 26 Oct 2026 20:11:13 +0800",
+     "summary": "法国债市动荡正在深刻重塑欧洲央行的权力交接格局。 法国国债收益率上周触及24年高位，此后虽在穆迪维持评级后短暂企稳，但财政失衡与政治僵局的深层矛盾仍未化解。与此同时，欧洲央行行长拉加德的任期可能提前于明年1月结束，远早于原定的明年10月届满，继任者或将在金融市场动荡尚未平息之际便仓促接棒。 在此背景下， 荷兰人诺特（Klaas Knot）与西班牙人德克斯（Pablo Hernandez de Cos）之间的接班人之争，正日益演变为一场关于\"谁能更有效应对债券义警\"的能力角逐。 前欧洲央行首席经济学家Peter Praet指出，一旦金融市场出现剧烈动荡，央行必须介入，但问题的关键在于\"如何介入，",
+     "source": "华尔街见闻",
+     "zh": "拉加德或提前离场，欧洲央行接班之争聚焦谁更能对抗\"债券义警\""
+    },
+    {
+     "title": "SEALSQ plans $15M acquisition of capacity across 12 WISeSat.Space satellites",
+     "link": "https://seekingalpha.com/news/4657110-sealsq-plans-15m-acquisition-of-capacity-across-12-wisesatspace-satellites?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:10:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SEALSQ plans $15M acquisition of capacity across 12 WISeSat.Space satellites"
+    },
+    {
      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;",
      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-     "pubDate": "Mon, 26 Oct 2026 12:08:23 GMT",
+     "pubDate": "Mon, 26 Oct 2026 12:10:07 GMT",
      "summary": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
      "source": "CNBC",
      "zh": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;"
     },
     {
-     "title": "Verizon Communications in charts: Q3 service revenue up 3.5% Y/Y, wireless equipment down 8.9%; broadband adds 314K customers",
-     "link": "https://seekingalpha.com/news/4657028-verizon-communications-in-charts-q3-service-revenue-up-35-yy-wireless-equipment-down-89-broadband-adds-314k-customers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:04:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Verizon Communications in charts: Q3 service revenue up 3.5% Y/Y, wireless equipment down 8.9%; broadband adds 314K customers"
+     "title": "A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’",
+     "link": "https://www.marketwatch.com/story/a-dot-com-survivor-warns-retail-investors-against-buying-the-tech-dip-youre-taking-a-knife-to-a-gunfight-6c940361?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 12:10:00 GMT",
+     "summary": "Technology-portfolio mangers are treading carefully with tech these days, retail investors should be just as cautious, says industry veteran Ted Mortonson.",
+     "source": "MarketWatch",
+     "zh": "A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’"
     },
     {
-     "title": "AST SpaceMobile secures Brazil spectrum, adds four mobile partners",
-     "link": "https://seekingalpha.com/news/4657105-ast-spacemobile-secures-brazil-spectrum-adds-four-mobile-partners?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:03:04 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AST SpaceMobile secures Brazil spectrum, adds four mobile partners"
+     "title": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
+     "link": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
+     "pubDate": "Mon, 26 Oct 2026 12:08:13 GMT",
+     "summary": "Jasper Zhang runs Hyperbolic, a GPU exchange building a software for \"physical\" AI futures",
+     "source": "CNBC",
+     "zh": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer"
+    },
+    {
+     "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+     "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 12:08:00 GMT",
+     "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+     "source": "MarketWatch",
+     "zh": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering"
+    },
+    {
+     "title": "巴西股指期货暴跌15% 触及跌停",
+     "link": "http://finance.eastmoney.com/news/1345,202610263908324658.html",
+     "pubDate": "Mon, 26 Oct 2026 20:07:25 +0800",
+     "summary": "巴西股指 期货 暴跌15%，触及跌停。 相关报道 巴西B3交易所调整交易波动限制 巴西B3交易所将伊博维斯帕指数（Ibovespa）交易区间下限调整至-20%，外汇交易区间限制调整至12%。（来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "巴西股指期货暴跌15% 触及跌停"
     },
     {
      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
@@ -2311,38 +2383,6 @@
      "summary": "Meta said Monday it is planning to raise a total of $95 billion to support itsi nvestments in AI infrastructure and super intelligence.",
      "source": "CNBC",
      "zh": "Meta announces $95 billion stock offering to fund AI expansion"
-    },
-    {
-     "title": "Davion Healthcare acquires Humaskan Medical Technology intellectual property for $25M",
-     "link": "https://seekingalpha.com/news/4657101-davion-healthcare-acquireshumaskan-medical-technology-intellectual-property-for-25m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 07:51:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Davion Healthcare acquires Humaskan Medical Technology intellectual property for $25M"
-    },
-    {
-     "title": "PowerBank cuts solar project debt by 14% in CA$25.4M refinancing",
-     "link": "https://seekingalpha.com/news/4657103-powerbank-cuts-solar-project-debt-by-14-in-ca254m-refinancing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 07:50:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PowerBank cuts solar project debt by 14% in CA$25.4M refinancing"
-    },
-    {
-     "title": "Ovintiv to buy Logan Energy in $890M deal, boosting Montney acreage",
-     "link": "https://seekingalpha.com/news/4657093-ovintiv-to-buy-logan-energy-in-890m-deal-boosting-montney-acreage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 07:49:36 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ovintiv to buy Logan Energy in $890M deal, boosting Montney acreage"
-    },
-    {
-     "title": "From worst to first? These battered S&P 500 stocks bounce back",
-     "link": "https://seekingalpha.com/news/4657102-from-worst-to-first-these-battered-sp-500-stocks-bounce-back?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 07:49:25 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "From worst to first? These battered S&P 500 stocks bounce back"
     },
     {
      "title": "Trump says he&apos;ll soon decide whether to ‘make a deal’ with Iran or ‘finish it off&apos;",
@@ -2449,52 +2489,12 @@
      "zh": "NextGen Nordics 2027: Who controls the future of payments?"
     },
     {
-     "title": "These four shocks could hand investors an unexpected buying window, strategists say",
-     "link": "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories",
-     "pubDate": "Mon, 26 Oct 2026 10:58:00 GMT",
-     "summary": "Yardeni Research said a surprise interest-rate decision by the Federal Reserve or increasing constraints in the artificial-intelligence trade could provide valuable entry points for investors.",
-     "source": "MarketWatch",
-     "zh": "These four shocks could hand investors an unexpected buying window, strategists say"
-    },
-    {
-     "title": "双品牌渠道方案落定、奥迪官宣“南北分治”：四环归一汽、上汽只留AUDI",
-     "link": "http://stock.eastmoney.com/news/11219,202610263908245843.html",
-     "pubDate": "Mon, 26 Oct 2026 18:54:57 +0800",
-     "summary": "经过半年多的艰难谈判后，奥迪中国“南北分治”方案终于落地。 10月26日，奥迪中国官宣，与中国一汽和 上汽集团 签署战略协议，进一步明确“双品牌、双合作伙伴”渠道架构。其中，中国一汽负责运营奥迪四环品牌，覆盖燃油、 新能源 双线市场；上汽奥迪则聚焦AUDI字母标品牌，专注 新能源 赛道，面向国内市场推出新一代智能网联纯电车型。 按照规划，四环品牌方面，奥迪与一汽将持续完善均衡的产品阵容，包含A6L e-tron、Q6L e-tron等 新能源 车型，以及全新A5L、A6L等迭代燃油车型；AUDI字母标品牌聚焦纯电智能赛道，奥迪E7X已经上市，依托位于上海的奥迪创新技术中心，持续落地适配中国用户",
-     "source": "东方财富资讯",
-     "zh": "双品牌渠道方案落定、奥迪官宣“南北分治”：四环归一汽、上汽只留AUDI"
-    },
-    {
-     "title": "The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25%",
-     "link": "https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690?mod=mw_rss_topstories",
-     "pubDate": "Mon, 26 Oct 2026 10:43:00 GMT",
-     "summary": "A reduction in the growth multiple that investors are prepared to pay for AI stocks and a rise in volatility has forced Goldman strategist Tim Moe to take an axe to his Korean market target.",
-     "source": "MarketWatch",
-     "zh": "The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25%"
-    },
-    {
      "title": "韩国7900名富豪净卖三星海力士1483亿韩元，转买杠杆芯片ETF",
      "link": "https://wallstreetcn.com/articles/3784480",
      "pubDate": "Mon, 26 Oct 2026 18:36:00 +0800",
      "summary": "韩国高净值投资者正在重构其半导体仓位——从直接持有龙头个股转向杠杆化ETF产品，这一结构性切换折射出该群体对芯片板块短期波动的审慎态度，以及对更广泛市场反弹的定向押注。 据首尔经济日报委托一家大型券商对约7900名高净值投资者（金融资产超过30亿韩元，约合210万美元）的持仓进行分析， 10月1日至20日期间，该群体对三星电子和SK海力士的净卖出额分别达到55.9亿韩元和92.4亿韩元，合计约148.3亿韩元。 与此同时， KODEX半导体杠杆ETF以332亿韩元的净买入额跃居本月最大净买入标的。 这一切换信号对两只芯片巨头的股价构成潜在压力。高净值群体的持续减持意味着大盘权重股面临来自\"聪明",
      "source": "华尔街见闻",
      "zh": "韩国7900名富豪净卖三星海力士1483亿韩元，转买杠杆芯片ETF"
-    },
-    {
-     "title": "马斯克预警：200多家AI云厂商面临清洗，Nebius、CoreWeave盘前跌超4%",
-     "link": "https://wallstreetcn.com/articles/3784479",
-     "pubDate": "Mon, 26 Oct 2026 18:23:09 +0800",
-     "summary": "马斯克一番\"行业洗牌\"警告，令本已承压的Neocloud板块再遭重挫。 周一盘前，Nebius、CoreWeave和Iren股价均一度跌逾4%，此后跌幅有所收窄，目前在2%至3%区间内波动。导火索是马斯克周日在X平台发文， 直言200多家Neocloud公司将面临\"小鱼级别的死亡与整合\"。 这一表态令市场对该板块债务驱动式扩张能否持续的疑虑进一步加深。 过去一个月，Neocloud板块已遭受重创——CoreWeave和Nebius累计跌幅均超30%，Iren更暴跌逾40%。此轮抛售始于本月早些时候CoreWeave五年期信用违约互换利差攀升至通常被视为财务困境信号的水平，其债券收益率亦同步走高",
-     "source": "华尔街见闻",
-     "zh": "马斯克预警：200多家AI云厂商面临清洗，Nebius、CoreWeave盘前跌超4%"
-    },
-    {
-     "title": "九号公司前三季度营收增长近两成，成本与费用上升冲击盈利",
-     "link": "https://wallstreetcn.com/articles/3784478",
-     "pubDate": "Mon, 26 Oct 2026 18:22:58 +0800",
-     "summary": "九号公司的收入规模继续扩大，成本与费用的上升也对盈利提出了更高要求。 10月26日，九号公司发布2026年第三季度报告。前三季度，公司实现营业收入219.43亿元，同比增长19.32%；归母净利润13.51亿元，同比下降24.40%；扣非净利润12.15亿元，同比下降32.43%。 其中，第三季度实现营业收入75.85亿元，同比增长14.10%；归母净利润3.43亿元，同比下降37.18%；扣非净利润2.47亿元，同比下降49.21%。 对于利润下降，九号公司表示，主要受汇兑损失、原材料价格上涨及研发等期间费用增加影响。收入保持增长，但多项成本和支出增加，使公司当期盈利承压。 收入端仍是这份财",
-     "source": "华尔街见闻",
-     "zh": "九号公司前三季度营收增长近两成，成本与费用上升冲击盈利"
     }
    ]
   },

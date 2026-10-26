@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 18:13:01",
+ "generated_at": "2026/10/26 18:32:08",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,60 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
+     "title": "中国近50%的新云生意，竟被这家公司包揽！",
+     "link": "https://www.qbitai.com/2026/10/505454.html",
+     "pubDate": "Mon, 26 Oct 2026 09:02:44 +0000",
+     "summary": "有点意外，但也不意外",
+     "source": "量子位",
+     "zh": "中国近50%的新云生意，竟被这家公司包揽！"
+    },
+    {
+     "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+     "link": "https://www.qbitai.com/2026/10/505443.html",
+     "pubDate": "Mon, 26 Oct 2026 08:38:49 +0000",
+     "summary": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+     "source": "量子位",
+     "zh": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”"
+    },
+    {
+     "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+     "link": "https://www.qbitai.com/2026/10/505436.html",
+     "pubDate": "Mon, 26 Oct 2026 08:04:10 +0000",
+     "summary": "10月21日，2026世界智能网联汽车大会在北京召开",
+     "source": "量子位",
+     "zh": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会"
+    },
+    {
      "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
      "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
      "pubDate": "Mon, 26 Oct 2026 07:56:45 +0000",
      "summary": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on S",
      "source": "MarkTechPost",
      "zh": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang"
+    },
+    {
+     "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+     "link": "https://www.qbitai.com/2026/10/505429.html",
+     "pubDate": "Mon, 26 Oct 2026 06:50:44 +0000",
+     "summary": "高品质 AI Token 成为行业新风向",
+     "source": "量子位",
+     "zh": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付"
+    },
+    {
+     "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
+     "link": "https://www.qbitai.com/2026/10/505407.html",
+     "pubDate": "Mon, 26 Oct 2026 06:45:25 +0000",
+     "summary": "一张卡，512路长推理同时跑",
+     "source": "量子位",
+     "zh": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型"
+    },
+    {
+     "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
+     "link": "https://www.qbitai.com/2026/10/505365.html",
+     "pubDate": "Mon, 26 Oct 2026 06:42:48 +0000",
+     "summary": "AI同事自带工作记忆上岗",
+     "source": "量子位",
+     "zh": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。"
     },
     {
      "title": "「牛来」将彻底成为过去式！Hi3D重塑三维模型新高度，V1.0正式开源",
@@ -88,38 +136,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) ",
      "source": "arXiv cs.AI",
      "zh": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules"
-    },
-    {
-     "title": "13亿！北京Token工厂拿下新融资",
-     "link": "https://zhidx.com/p/604516.html",
-     "pubDate": "Mon, 26 Oct 2026 11:41:35 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西10月26日消息，近日，北京AI Token生产服务商 趋境科技 （Approaching.AI）完成B轮融资，本轮融资金额超 13亿元 人民币；今年内已累计募得 24亿元 人民币。 本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年7月完成A轮融资后，趋境科技短期内再获大额融资。据悉，过去半年，趋境科技多项核心经营指标在半年内实现",
-     "source": "智东西",
-     "zh": "13亿！北京Token工厂拿下新融资"
-    },
-    {
-     "title": "宇树王兴兴：全世界对AI的信仰都还不够，包括我自己",
-     "link": "https://zhidx.com/p/603527.html",
-     "pubDate": "Mon, 26 Oct 2026 11:13:53 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西10月22日杭州报道，今日，在2026年世界物理AI大会暨宇树合作伙伴生态大会上，宇树科技董事长、创始人兼CEO 王兴兴 发表约30分钟演讲，谈及 AI信仰、物理AI临界点、具身智能ChatGPT时刻、自进化V1.0 与 量产生态 等重要话题。 “ 全世界几乎所有人对AI的重视和信仰都还不够，包括我自己。 ”王兴兴说， 物理AI已看到被击穿的苗头， 很可能在最近 1到2年 发生；产业正迈向“具身智能的ChatGPT时刻”，“在 80% 的陌生场景中，机器人按语音或文字指令可完成约 80% 任务”。 之江实验室主任、阿里云创始人 王坚 也作为重磅嘉",
-     "source": "智东西",
-     "zh": "宇树王兴兴：全世界对AI的信仰都还不够，包括我自己"
-    },
-    {
-     "title": "三步告别“屎山代码”？网易发布CodeWave SDD，瞄准L4级别软件开发",
-     "link": "https://zhidx.com/p/604393.html",
-     "pubDate": "Mon, 26 Oct 2026 10:51:45 +0800",
-     "summary": "智东西 作者 | 毕伟豪 编辑｜心缘 智东西10月26日报道，刚刚，网易智企发布了面向企业的新一代AI Coding产品CodeWave SDD（AI软件交付团队），核心在于通过全自主Agent软件开发，实现企业整体产能提升3到5倍。 网易智企将CodeWave SDD定义为AI Coding的下一代产品形态：从人使用工具，转向Agent调用工具完成软件开发。 按照网易内部《AI落地成熟度标准》，这属于L4级别的自动驾驶，即AI端到端完成任务，人类主要负责需求梳理和交付验收。 为此，网易智企搭建了覆盖软件开发全流程的企业级Harness工程环境，让多个分工不同的Agent协同工作。 据网易智企",
-     "source": "智东西",
-     "zh": "三步告别“屎山代码”？网易发布CodeWave SDD，瞄准L4级别软件开发"
-    },
-    {
-     "title": "三台机器人联手干活，全程零人工！这家具身公司秀出了工业生产力",
-     "link": "https://zhidx.com/p/603898.html",
-     "pubDate": "Mon, 26 Oct 2026 09:01:36 +0800",
-     "summary": "智东西 作者 | 许丽思 编辑 | 漠影 今年工博会现场，真的太卷了。 400多家机器人企业同场竞技，有的秀抓取，有的拼精度，这三台机器人却靠着组队干活，吸引了不少海外观众驻足围观。 拆垛、倒料、接料、码垛……三台 纪灵-L 1轮番上阵，接力完成一整套物料流转流程，整个流程看起来非常丝滑，全程无需人工介入！ 这是第二十六届中国国际工业博览会上，中科第五纪展台颇为吸睛的一幕。机器人各有分工，又环环相扣，将多个工位串成了一条连续作业线。 本届工博会现场，从车间上下料到光模块插拔、内存条插装，越来越多企业开始用具体任务展示机器人“能干活”。 中科第五纪则把展示推向了更高层：让三台机器人自主接力，把多",
-     "source": "智东西",
-     "zh": "三台机器人联手干活，全程零人工！这家具身公司秀出了工业生产力"
     },
     {
      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. The post Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,0",
      "source": "MarkTechPost",
      "zh": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents"
-    },
-    {
-     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-     "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
-     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-     "source": "TechCrunch AI",
-     "zh": "The AI graveyard: a running list of projects and startups that didn’t make it"
-    },
-    {
-     "title": "Block’s new voice model sounds eerily human",
-     "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-     "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
-     "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-     "source": "TechCrunch AI",
-     "zh": "Block’s new voice model sounds eerily human"
     }
    ]
   },
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Robots in Society, Business and Culture: September 2026",
+     "link": "https://robohub.org/robots-in-society-business-and-culture-september-2026/",
+     "pubDate": "Mon, 26 Oct 2026 10:17:34 +0000",
+     "summary": "A walking robotic hand, from Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand, Amirhossein Kazemipour, Hehui Zheng, Robert Katzschmann. By Emmet Cole In our monthly series, we showcase a selection of robotics stories from society, business, research a",
+     "source": "Robohub",
+     "zh": "Robots in Society, Business and Culture: September 2026"
+    },
     {
      "title": "advasolutions automates logistics center of drugstore chain Hebe in Poland",
      "link": "https://roboticsandautomationnews.com/2026/10/26/advasolutions-automates-logistics-center-of-drugstore-chain-hebe-in-poland/106322/",
@@ -898,30 +906,6 @@ window.INDUSTRY_DATA = {
      "zh": "When does a BI value stop being the right number?"
     },
     {
-     "title": "More capability, less equipment: the future of capacitor bank control",
-     "link": "https://www.utilitydive.com/spons/more-capability-less-equipment-the-future-of-capacitor-bank-control/833143/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Utilities can now gain capacity and reliability without adding equipment or substation space.",
-     "source": "Utility Dive",
-     "zh": "More capability, less equipment: the future of capacitor bank control"
-    },
-    {
-     "title": "The push to DC: Why data centers are rethinking power architecture",
-     "link": "https://www.utilitydive.com/spons/the-push-to-dc-why-data-centers-are-rethinking-power-architecture/833783/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Explore how 800 VDC can reduce power losses, free up data center space and reshape power architecture.",
-     "source": "Utility Dive",
-     "zh": "The push to DC: Why data centers are rethinking power architecture"
-    },
-    {
-     "title": "Inside the resilience gap",
-     "link": "https://www.utilitydive.com/spons/inside-the-resilience-gap/832932/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "The 2026 State of Grid Resilience report puts data behind the pressures utility leaders face as they strengthen resilience while balancing affordability and performance.",
-     "source": "Utility Dive",
-     "zh": "Inside the resilience gap"
-    },
-    {
      "title": "New multi-modeling approach can predict rice yield in agrivoltaics",
      "link": "https://www.pv-magazine.com/2026/10/26/new-multi-modeling-approach-can-predict-rice-yield-in-agrivoltaics/",
      "pubDate": "Mon, 26 Oct 2026 09:00:00 +0000",
@@ -1080,6 +1064,30 @@ window.INDUSTRY_DATA = {
      "summary": "J. Wellington Wimpy, of Popeye comics fame, had a favorite expression. It went like this: “I will gladly pay you Tuesday for a cheeseburger today.” As the Earth gets hotter and hotter, most countries have made commitments to reduce their climate warming emissions by 2030, or 2050, or 2077, or ... [c",
      "source": "CleanTechnica",
      "zh": "Canada And EU Are Slip Sliding Away On Vehicle Emissions"
+    },
+    {
+     "title": "The permitting deal collides with Trump’s war on offshore wind",
+     "link": "https://www.canarymedia.com/articles/politics/permitting-bill-offshore-wind",
+     "pubDate": "Fri, 23 Oct 2026 12:37:00 -0400",
+     "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. It’s been years in the making, but the U.S. Senate finally has a bipartisan permitting bill on the table that could speed up the construction of much-needed energy and grid projects. That is,",
+     "source": "Canary Media",
+     "zh": "The permitting deal collides with Trump’s war on offshore wind"
+    },
+    {
+     "title": "PG&E needs wildfire policy reform to manage tail risk, CEO says",
+     "link": "https://www.utilitydive.com/news/pge-needs-wildfire-policy-reform-to-manage-tail-risk-ceo-says/833845/",
+     "pubDate": "Fri, 23 Oct 2026 10:43:56 -0400",
+     "summary": "CEO Patti Poppe said the company&rsquo;s credit rating &ldquo;is a major issue that must be solved ... [legislative]&nbsp;inaction will continue to get increasingly expensive for our customers.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "PG&E needs wildfire policy reform to manage tail risk, CEO says"
+    },
+    {
+     "title": "Scatec and EBRD establish US$221 million renewable energy investment platform for Egypt",
+     "link": "https://www.pv-tech.org/scatec-ebrd-establish-us221-million-renewable-energy-investment-platform-egypt/",
+     "pubDate": "Fri, 23 Oct 2026 13:56:40 +0000",
+     "summary": "Scatec and the EBRD have signed a share purchase agreement establishing a renewable energy investment platform for Egypt.",
+     "source": "PV Tech",
+     "zh": "Scatec and EBRD establish US$221 million renewable energy investment platform for Egypt"
     }
    ]
   },
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.",
      "source": "BioPharma Dive",
      "zh": "The molecule was fine. The moment wasn’t."
-    },
-    {
-     "title": "Novel protein and peptide therapeutics",
-     "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
-     "source": "BioPharma Dive",
-     "zh": "Novel protein and peptide therapeutics"
     },
     {
      "title": "STAT+: Moderna CEO on what’s next after success in cancer vaccine",
@@ -1280,6 +1280,14 @@ window.INDUSTRY_DATA = {
      "summary": "The results of a large prospective proteomic study have associated proteins linked with the immune system, cell adhesion, blood vessel formation, and known prostate cancer genes, to future risk of developing prostate cancer, including aggressive disease. The post Proteins Circulating in Blood Linked",
      "source": "GEN",
      "zh": "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer"
+    },
+    {
+     "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
+     "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
+     "pubDate": "Thu, 22 Oct 2026 12:24:00 -0400",
+     "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
+     "source": "BioPharma Dive",
+     "zh": "Biohaven’s previously rejected rare disease drug to get fresh FDA review"
     }
    ]
   },
@@ -1538,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Node2Shell Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+     "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+     "pubDate": "Mon, 26 Oct 2026 10:21:57 +0000",
+     "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Node2Shell Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages"
+    },
+    {
      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
      "pubDate": "Mon, 26 Oct 2026 05:19:57 -0400",
@@ -1722,14 +1738,6 @@ window.INDUSTRY_DATA = {
      "zh": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks"
     },
     {
-     "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-     "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-     "pubDate": "Fri, 23 Oct 2026 09:58:34 +0000",
-     "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Attackers Exploit Third Arista VCO Zero-Day in Four Months"
-    },
-    {
      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
      "pubDate": "Wed, 21 Oct 2026 15:26:07 +0000",
@@ -1754,20 +1762,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "194亿！创新药的钱都被药明康德赚走了？",
+     "link": "https://www.huxiu.com/article/4900534.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 18:17:11 +0800",
+     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也，原文标题：《194亿！创新药的钱都被药明康德赚走了？》 10月26日盘后，药明康德公布三季报。 前三季度营收455.37亿元，归母净利润193.98亿元，同比增长60.64%。单看第三季度，就赚了83.18亿元，同比增长136.67%。 这个数字放在中国创新药行业，相当扎眼。 不少创新药企至今还在亏损。有的药刚进入临床，有的已经上市，却迟迟填不上多年研发投入留下的窟窿。融资不容易了，研发管线要做取舍，连下一项临床试验的钱，都得反复盘算。 药明康德却已经赚了近194亿元，手里还有767.4亿元在手订单。 一家不直接向患者卖药的公司，为什么这么赚",
+     "source": "虎嗅",
+     "zh": "194亿！创新药的钱都被药明康德赚走了？"
+    },
+    {
+     "title": "RSI 的新闭环：当AI 开始参与芯片设计",
+     "link": "https://www.huxiu.com/article/4900536.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 18:16:25 +0800",
+     "summary": "本文来自微信公众号： 海外独角兽 ，作者：Daniel、Cage，编辑：Cage，原文标题：《RSI 的新闭环：当 AI 开始参与芯片设计》 模型开发的RSI已经得到了初步实现，在芯片设计领域，这条路径也在逐步跑通：AI已经在深度参与电路设计、验证与优化，并根据反馈修改方案。目前AI正在将芯片设计18～24个月的周期压缩至一年之内。 模型公司也在大力发展这个方向，OpenAI与Broadcom合作的推理Jalapeño芯片代表着模型公司正在自己下场打造芯片。除了自研芯片，模型公司还在推动Coding Agent接入EDA工具链，并与EDA巨头联手开发芯片专用模型，从芯片设计与工具两端同时发力。",
+     "source": "虎嗅",
+     "zh": "RSI 的新闭环：当AI 开始参与芯片设计"
+    },
+    {
+     "title": "A look at OpenAI&apos;s and Anthropic&apos;s aggressive price cuts between June and October, driven by low switching costs and heavy competition from open-weight models (Max Woolf&apos;s Blog)",
+     "link": "https://www.techmeme.com/261026/p10#a261026p10",
+     "pubDate": "Mon, 26 Oct 2026 06:15:02 -0400",
+     "summary": "Max Woolf's Blog : A look at OpenAI's and Anthropic's aggressive price cuts between June and October, driven by low switching costs and heavy competition from open-weight models &nbsp; &mdash;&nbsp; Let's look at a quick timeline of the major LLM model announcements from both OpenAI and Anthropic ov",
+     "source": "Techmeme",
+     "zh": "A look at OpenAI&apos;s and Anthropic&apos;s aggressive price cuts between June and October, driven by low switching costs and heavy competition from open-weight models (Max Woolf&apos;s Blog)"
+    },
+    {
+     "title": "欧洲多国陷入抗议浪潮",
+     "link": "https://www.huxiu.com/article/4900535.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 18:14:57 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：刘婷 10月中下旬以来，欧洲多国陷入抗议浪潮。法国、意大利、葡萄牙、比利时等国相继爆发大规模示威，其中，法国与意大利部分城市的抗议活动甚至升级为严重骚乱，不仅导致大量人员受伤，城市公共设施也遭到不同程度的损毁。 分析人士指出，当前欧洲乱局并非简单的治安恶化或孤立的政治事件，而是经济基本面承压、主权债务风险上升与社会阶层撕裂相互交织、逐步演化的结果。 法国是本轮欧洲动荡中最早酝酿、也最具代表性的国家，抗议最初由巴黎远郊高中生发起，随后迅速蔓延至里昂、马赛等主要城市；与此同时，意大利、比利时等国也因相似的生活成本与公共服务压力爆发大规模示威，形成多国共振的局",
+     "source": "虎嗅",
+     "zh": "欧洲多国陷入抗议浪潮"
+    },
+    {
+     "title": "别急着招AI员工，你的团队结构可能根本接不住",
+     "link": "https://www.huxiu.com/article/4900496.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 18:13:31 +0800",
+     "summary": "题图来自：AI生成 一、定义：AI介入后的&ldquo;混合编队&rdquo; 传统管理学语境下的&ldquo;团队&rdquo;，默认成员是自然人。团队被定义为&ldquo;由两个或两个以上相互作用、相互依赖的个体，为实现特定目标而组成的集合&rdquo;。这个时期，强化人的作业能力的要素被定义为&ldquo;工具&rdquo;或&ldquo;机器&rdquo;，它们要么强化了人的脑力 （运算能力） ，要么强化了人的体能 （物理边界） ，但无论它们有多强大，始终都是以人为核心的，是人的附属品。 这种对于团队的定义，在AI智能体大规模进入企业后，开始出现了变化。当AI为工具注入了一定范围内的独",
+     "source": "虎嗅",
+     "zh": "别急着招AI员工，你的团队结构可能根本接不住"
+    },
+    {
+     "title": "消息称明年国产 TOP5 厂商都会上阔直板新机，目前全部立项完成",
+     "link": "https://www.ithome.com/1/018/093.htm",
+     "pubDate": "Mon, 26 Oct 2026 10:13:22 GMT",
+     "summary": "IT之家 10 月 26 日消息，微博博主 @数码闲聊站 今日爆料称， 2027 年国产 TOP5 厂商都会上阔直板新机 ， 目前全都立项完成并加速测试中 ，各种定义都有。 后续有用户在评论区表示：“果子的阔直板大概率舍不得堆料”，博主回复称：“ 苹果目前没有嗷 ，国产 TOP5 都做了。” 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机等。 该博主此前还透露， 华为 Pura X View 阔直板首周激活销量约 28.2 万 ，实销均价约 70",
+     "source": "IT之家",
+     "zh": "消息称明年国产 TOP5 厂商都会上阔直板新机，目前全部立项完成"
+    },
+    {
+     "title": "微创医疗创始人常兆华辞职离场，留下房租疑云未散",
+     "link": "https://www.huxiu.com/article/4900532.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 18:11:04 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：黄华 李科文 微创医疗及“微创系”因高额办公室租金引发的停牌风波有了新进展。 10月23日，界面新闻从微创医疗公告获悉，微创医疗创始人常兆华因其他个人事务辞任董事及相关职位。同期，微创医疗任命Jonathan W.Chen为执行董事、首席执行官及公司授权代表。 常兆华此前担任微创医疗执行董事兼董事会主席，此次辞任也意味着其卸下董事会主席职务。截至目前，微创医疗尚未披露新任董事会主席人选及相关安排。常兆华仍将继续担任微创医疗首席科学官。 10月26日，界面新闻就常兆华辞职与此前的中报和房租事宜，致电并向微创医疗发送了采访提纲。截至发稿时，尚未收到采访回复。",
+     "source": "虎嗅",
+     "zh": "微创医疗创始人常兆华辞职离场，留下房租疑云未散"
+    },
+    {
+     "title": "上海：支持个人用户通过手机直连或便携终端接入卫星互联网",
+     "link": "https://www.ithome.com/1/018/085.htm",
+     "pubDate": "Mon, 26 Oct 2026 10:10:34 GMT",
+     "summary": "IT之家 10 月 26 日消息，今日，上海市经济和信息化委员会等六部门印发《上海市卫星互联网产业创新发展行动方案（2027—2030 年）》。 IT之家注意到，方案提出推进 To C 惠民服务应用。 支持个人用户通过手机直连或便携终端接入卫星互联网 ，为地面通信盲区提供低成本、高速率的互联网接入服务。支持运营商推出卫星互联网业务优惠套餐，降低用户使用成本，持续培育发展潜在用户，促进卫星连接从“特殊装备”变为大众消费级的“普通服务”，实现无处不在的泛在连接。 探索 To B 行业创新应用。远洋航运领域，通过星上链路实现远海、极地全域覆盖，支撑船舶定位、海洋测绘、智慧航道等服务。航天航空领域， ",
+     "source": "IT之家",
+     "zh": "上海：支持个人用户通过手机直连或便携终端接入卫星互联网"
+    },
+    {
+     "title": "Counterpoint：英伟达引领人形机器人 AI 加速器市场，高通、英特尔、特斯拉、小鹏逐步崛起",
+     "link": "https://www.ithome.com/1/018/075.htm",
+     "pubDate": "Mon, 26 Oct 2026 10:06:16 GMT",
+     "summary": "IT之家 10 月 26 日消息，根据 Counterpoint Research 最新发布的全球人形机器人追踪报告，预计到 2030 年 ，全球人形机器人 AI 加速器累计出货量将 突破 100 万台 ，2026 至 2030 年期间的 复合年增长率（CAGR）高达 144% 。 在计算架构方面，由于视觉-语言-行动（VLA）模型与世界模型逐步融合，GPU 在短期内仍将是人形机器人算力的主流架构。与此同时，AI ASIC（专用集成电路）也在快速崛起，特斯拉、小鹏等垂直整合厂商正将汽车领域的自研芯片技术迁移至人形机器人产品线。 英伟达 凭借从算力芯片、模型到仿真工具的完整全栈生态，目前主导人形",
+     "source": "IT之家",
+     "zh": "Counterpoint：英伟达引领人形机器人 AI 加速器市场，高通、英特尔、特斯拉、小鹏逐步崛起"
+    },
+    {
      "title": "河北多地启动农村“煤改气”补贴",
      "link": "https://www.huxiu.com/article/4900528.html?f=rss",
      "pubDate": "Mon, 26 Oct 2026 18:05:20 +0800",
      "summary": "本文来自微信公众号： 界面新闻 ，作者：田鹤琪 随着北方采暖季临近，河北省多地出台农村“煤改气”运行补贴政策。 根据唐山市丰南区小集镇人民政府官微10月中旬发布的《丰南区农村气代煤工作明白纸》，本采暖季补贴由两部分构成：该区农村煤改气用户天然气销售气价由3.13元/立方米降至2.93元/立方米，差额0.2元/立方米由区发改局承担。 同时，按《河北省采暖季农村煤改气煤改电运行补贴方案》，采暖季期间1200立方米以内用气量统一按0.58元/立方米标准补贴。 两项补贴合计0.78元/立方米，农户最终用气价格为2.35元/立方米。两级补贴叠加后，农户实付气价压降约25%。 家住河北省新乐市彭家庄的一位",
      "source": "虎嗅",
      "zh": "河北多地启动农村“煤改气”补贴"
-    },
-    {
-     "title": "星巴克中国：一个座位，两副面孔",
-     "link": "https://www.huxiu.com/article/4900526.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 18:02:47 +0800",
-     "summary": "本文来自微信公众号： 豹变 ，作者：詹方歌，编辑：邢昀 从品牌卖点到经营成本，星巴克的空间之变。 10月23日，北京的门店已经陆续摆上了“请消费入座”的提示牌。《豹变》走访了三家星巴克门店，有店员表示，提示牌是22日开始摆上的。 10月21日，星巴克中国向媒体确认，自22日起在全国施行消费入座的政策。公司表示，员工会遵循“友好、友善的沟通原则”，妥善处理顾客的合理突发需求和特殊情况，孕妇、行动不便者将优先获得帮助，“规则清晰，但执行会保有温度”。同日，星巴克中国还宣布新财年投入超过3亿元，焕新约1000家门店。 进入中国二十多年，星巴克的消费心智一直和充足座位、舒适空间挂钩。某种程度上，一杯美",
-     "source": "虎嗅",
-     "zh": "星巴克中国：一个座位，两副面孔"
     },
     {
      "title": "海南：到 2027 年新增汽车中新能源汽车比例不低于 70%，平稳推进 2030 年禁售燃油车",
@@ -1786,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "A look at TSMC&apos;s initial Phoenix fab, which has achieved chip output rates comparable to its Taiwan facilities, as its Taiwanese engineers teach US workers (New York Times)"
     },
     {
-     "title": "海外排队、国内连跌，霸王茶姬能翻身吗？",
-     "link": "https://www.huxiu.com/article/4900141.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 18:00:01 +0800",
-     "summary": "韩国人把霸王茶姬当冰美式平替，排队5分钟点600杯，价格却比国内贵80%到100%。但在国内销售额连跌8个季度，门店月营收从50万跌到30万，股价跌去75%。最近同店GMV终于转正，股价反弹20%，霸王茶姬能咸鱼翻身吗？",
-     "source": "虎嗅",
-     "zh": "海外排队、国内连跌，霸王茶姬能翻身吗？"
-    },
-    {
      "title": "The Tragedy of Having a Wikipedia Page—and Then Losing It",
      "link": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
      "pubDate": "Mon, 26 Oct 2026 10:00:00 +0000",
@@ -1810,28 +1874,20 @@ window.INDUSTRY_DATA = {
      "zh": "Lykyn Review: A Mushroom Garden Worth Showing Off"
     },
     {
+     "title": "The End of the Internet",
+     "link": "https://stratechery.com/2026/the-end-of-the-internet/",
+     "pubDate": "Mon, 26 Oct 2026 10:00:00 +0000",
+     "summary": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
+     "source": "Stratechery",
+     "zh": "The End of the Internet"
+    },
+    {
      "title": "一加推出品牌首款耳夹式耳机 OnePlus Buds Clip，佩戴无需分左右耳",
      "link": "https://www.ithome.com/1/018/053.htm",
      "pubDate": "Mon, 26 Oct 2026 09:57:37 GMT",
      "summary": "IT之家 10 月 26 日消息，一加现已在海外市场推出品牌首款耳夹式耳机 OnePlus Buds Clip，新品采用自适应镍钛合金 C 形耳桥，支持自动识别左右耳。 IT之家了解到，这款耳机配备丹拿调校的双单元，内含 11mm 低音单元和 9mm 高音单元， 支持 LHDC 3.0 高清音频传输协议 ，采用偶极声场技术减少漏音。 同时，该产品的单只耳机重量仅为 5.2g， 配备自适应镍钛（Ni-Ti）记忆合金 C 形耳桥 ，可根据不同形状的耳廓灵活调整形态，获得 TÜV 莱茵“舒适佩戴”认证。该产品还支持左右耳自动识别，佩戴时无需区分左右耳。 此外，该耳机单次最长续航可达 9.5 小时， ",
      "source": "IT之家",
      "zh": "一加推出品牌首款耳夹式耳机 OnePlus Buds Clip，佩戴无需分左右耳"
-    },
-    {
-     "title": "唱衰新云厂商，马斯克的顶级阳谋",
-     "link": "https://www.huxiu.com/article/4900525.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 17:56:43 +0800",
-     "summary": "本文来自微信公众号： Odaily ，作者：Azuma 老黄希望买家挺住，老马只盼同行早死。 刚刚过去的这个周末，埃隆·马斯克（Elon Musk）在X上连续丢出多条预言，往原本就暗流涌动的AI算力基建市场扔下了一颗深水炸弹。 面对硅谷仍在津津乐道的“囤卡暴富神话”，马斯克先是冷酷地预言大量算力将“搁浅在建了一半的数据中心里”，随后又直接给全球200多家新兴算力云厂商（Neocloud）下达了死刑判决——随着债务市场大门紧闭，这些公司即将迎来一场“孔雀鱼级别的批量死亡与兼并”（guppy-level death and consolidation）。 耐人寻味的是，就在抛出这番“算力看空论”的",
-     "source": "虎嗅",
-     "zh": "唱衰新云厂商，马斯克的顶级阳谋"
-    },
-    {
-     "title": "任富佳接班后的第一笔大买卖：老板电器买什么",
-     "link": "https://www.huxiu.com/article/4900522.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 17:51:35 +0800",
-     "summary": "本文来自微信公众号： 市值水晶 ，作者：编辑部 国内利润连续下滑，老板电器13亿元押注欧美智能厨房硬件。 10月10日，老板电器披露，公司将联合控股股东老板集团，合计出资不超过13亿元，通过海南老板智能科技收购海外智能硬件企业iTronics Holding Limited 60%股权，交易对价为1.7504亿美元。 交易完成后，iTronics将纳入老板电器合并报表范围。 iTronics主营智能温湿度计的研发、设计和销售，产品既用于厨房烹饪过程中的温度采集，也用于居家环境监测。公司已经在欧美市场形成线上为主、线下为辅的销售体系，并积累了一定的厨房温度数据。 这是任富佳接任董事长、总经理后落",
-     "source": "虎嗅",
-     "zh": "任富佳接班后的第一笔大买卖：老板电器买什么"
     },
     {
      "title": "东风日产 NX7 内饰官图首发：大面积软包覆盖、256 色撞色氛围灯",
@@ -1856,14 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Filing: Chinese PCB maker Dongshan raised ~$1.3B in Hong Kong's biggest IPO in nearly two months, pricing shares at ~$11, or 35% below its Friday Shenzhen close &nbsp; &mdash;&nbsp; Suzhou Dongshan Precision Manufacturing Co. a printed circuit board maker, raised about HK$9.9 billion ($1",
      "source": "Techmeme",
      "zh": "Filing: Chinese PCB maker Dongshan raised ~$1.3B in Hong Kong&apos;s biggest IPO in nearly two months, pricing shares at ~$11, or 35% below its Friday Shenzhen close (Bloomberg)"
-    },
-    {
-     "title": "亏损110亿后，晶科开始减亏，但远未到“翻身”时刻！",
-     "link": "https://www.huxiu.com/article/4900521.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 17:43:14 +0800",
-     "summary": "本文来自微信公众号： 华夏能源网 ，作者：www.hxny.com，编辑：|韩成功，原文标题：《亏损110亿后，晶科开始减亏，但远未到“翻身”时刻！》 华夏能源网获悉，10月17日，晶科能源（SH：688223）披露2026年前三季度业绩预告，公司预计前三季度归母净利润亏损29.76亿元至35.76亿元，同比减亏约8.77%至24.08%。 实际上，自2024年第四季度至2026年第二季度，晶科归母净利润已连续7季度出现亏损，累计亏损达110.92亿元。 今年以来，晶科做出了一系列调整。面对光伏越卖越亏的现实，晶科将2026年原本的75-85GW目标下调至‌60-70GW‌，不再只追求规模；管",
-     "source": "虎嗅",
-     "zh": "亏损110亿后，晶科开始减亏，但远未到“翻身”时刻！"
     },
     {
      "title": "头部连锁药房都在主动做“减法”",
@@ -1898,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "前福建首富被批捕，千亿LED龙头陷困局"
     },
     {
-     "title": "上海：重点攻关卫星手机直连、天基算力及空天地一体和通感算智融合等技术",
-     "link": "https://www.ithome.com/1/018/045.htm",
-     "pubDate": "Mon, 26 Oct 2026 09:39:18 GMT",
-     "summary": "IT之家 10 月 26 日消息，上海市经济和信息化委员会等六部门今日印发《上海市卫星互联网产业创新发展行动方案（2027-2030 年）》。 IT之家注意到，该方案提出突破网络架构与协同融合技术， 重点攻关面向应用任务驱动的网络系统架构设计与在轨验证 、 卫星手机直连 、 天基算力及空天地一体和通感算智融合等技术 ，力争实现星间重路由切换时延小于 5ms、切换成功率大于 99.9%，支撑天基信息推理、AI 单星最高算力超 30POPS 等指标，实现地面网络与卫星网络无缝融合，支撑大规模星座高可靠运行与多网络协同。 此外，该方案还提到重点攻关大型低轨卫星星座地面系统、面向消费级卫星直连多模终端",
-     "source": "IT之家",
-     "zh": "上海：重点攻关卫星手机直连、天基算力及空天地一体和通感算智融合等技术"
-    },
-    {
      "title": "小鹏老登事件：被误解是表达者的宿命，回应与否是企业的选择？",
      "link": "https://www.tmtpost.com/8182160.html",
      "pubDate": "Mon, 26 Oct 2026 17:39:14 +0800",
@@ -1914,28 +1954,12 @@ window.INDUSTRY_DATA = {
      "zh": "小鹏老登事件：被误解是表达者的宿命，回应与否是企业的选择？"
     },
     {
-     "title": "首部三体宇宙授权 AI 互动影游《三体：审判前夜》上架 Steam，玩家将深入 ETO 总部",
-     "link": "https://www.ithome.com/1/018/038.htm",
-     "pubDate": "Mon, 26 Oct 2026 09:37:19 GMT",
-     "summary": "IT之家 10 月 26 日消息，首部三体宇宙授权 AI 互动影游《三体：审判前夜》 上架 Steam 商店 ，由 Timeline 开发，发售日期待定，首支预告已公开。 本作取材于国民级科幻小说《三体》，故事发生在“古筝行动”前夕，玩家将登上神秘的“审判日号”， 深入 ETO 的总部，伪装身份，辨别敌友，灵活运用多种手段应对危机，完成危机四伏的营救任务 。“在你上船的那一刻，人类的黄金时代已经接近尾声，未来四百年的艰难岁月即将拉开帷幕；历史与尚未成为历史的，都太过遥远，只有眼前的选择，才是你的命运。” IT之家从 Steam 商店页面了解到， 本作是一款以剧情演出与分支选择为核心的单人剧情冒",
-     "source": "IT之家",
-     "zh": "首部三体宇宙授权 AI 互动影游《三体：审判前夜》上架 Steam，玩家将深入 ETO 总部"
-    },
-    {
      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
      "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
      "pubDate": "Mon, 26 Oct 2026 09:30:00 +0000",
      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
      "source": "WIRED",
      "zh": "Meet the AI Agents Trying to Be Real-Life Journalists"
-    },
-    {
-     "title": "终破五千大关：苹果 Mac mini M6 国补后京东 4929 元，与 M4 版同价",
-     "link": "https://www.ithome.com/1/018/022.htm",
-     "pubDate": "Mon, 26 Oct 2026 09:28:43 GMT",
-     "summary": "苹果 8 月 25 日发布全新 Mac mini 便携式主机 ，搭载全新 M6 芯片与此前已经推出的 M5 Pro 芯片，6999 元起售。 今日叠加国补后（M6 版国补限地区），京东自营仅需 4929 元起（教育优惠版 4844 元），较上市初期直降千元，终破五千大关： 京东 苹果 Mac mini M6 还有教育优惠版可选 国补后 4929 元起 直达链接 京东 苹果 Mac mini M5 Pro 还有教育优惠版可选 国补后 10699 元起 直达链接 京东 11.11 红包至高 26888 元无门槛可用： 点此抽取 。 老款 M4 版国补后同为 4929 元，但支持补贴的地区比 M6 ",
-     "source": "IT之家",
-     "zh": "终破五千大关：苹果 Mac mini M6 国补后京东 4929 元，与 M4 版同价"
     },
     {
      "title": "Valve Steam Frame Review: Costly and Inconsistent",
@@ -1973,25 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Switzerland. Block by block. At 1:1 scale",
      "link": "https://blocks.manifold3d.ch/",
      "pubDate": "Mon, 26 Oct 2026 08:46:09 +0000",
-     "summary": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 77 # Comments: 17",
+     "summary": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 96 # Comments: 31",
      "source": "Hacker News",
      "zh": "Switzerland. Block by block. At 1:1 scale"
-    },
-    {
-     "title": "Alphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns (Bloomberg)",
-     "link": "https://www.techmeme.com/261026/p6#a261026p6",
-     "pubDate": "Mon, 26 Oct 2026 04:35:04 -0400",
-     "summary": "Bloomberg : Alphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns &nbsp; &mdash;&nbsp; Three of the biggest and most important technology companies in the world are expected to show healthy growth wh",
-     "source": "Techmeme",
-     "zh": "Alphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns (Bloomberg)"
-    },
-    {
-     "title": "Inside Slack&apos;s Salesforce culture clash: Benioff had ~1 hour with CEO Butterfield pre-deal and didn&apos;t use Slack; Butterfield quit after a Davos celebrity panel (Johnny Rodgers/Building Slack)",
-     "link": "https://www.techmeme.com/261026/p5#a261026p5",
-     "pubDate": "Mon, 26 Oct 2026 04:15:01 -0400",
-     "summary": "Johnny Rodgers / Building Slack : Inside Slack's Salesforce culture clash: Benioff had ~1 hour with CEO Butterfield pre-deal and didn't use Slack; Butterfield quit after a Davos celebrity panel &nbsp; &mdash;&nbsp; I needed a keyboard.&nbsp; &mdash;&nbsp; I stood at my reserved desk on the 7th floor",
-     "source": "Techmeme",
-     "zh": "Inside Slack&apos;s Salesforce culture clash: Benioff had ~1 hour with CEO Butterfield pre-deal and didn&apos;t use Slack; Butterfield quit after a Davos celebrity panel (Johnny Rodgers/Building Slack)"
     }
    ]
   },
@@ -2250,6 +2258,126 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "图解财报：晶合集成前三季归母净利润4.75亿元，同比减少13.70%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263908174531.html",
+     "pubDate": "Mon, 26 Oct 2026 18:24:24 +0800",
+     "summary": "晶合集成 10月27日发布2026年 三季报显示，公司前三季 实现营业收入93.10亿元 ，同比增长14.52% ；归母净利润4.75亿元 ，同比下滑13.70% ；扣非归母净利润3.22亿元 ，同比增长41.32% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：晶合集成前三季归母净利润4.75亿元，同比减少13.70%"
+    },
+    {
+     "title": "图解财报：国投资本前三季归母净利润30.40亿元，同比增长6.53%",
+     "link": "http://stock.eastmoney.com/news/11802,202610263908174315.html",
+     "pubDate": "Mon, 26 Oct 2026 18:24:18 +0800",
+     "summary": "国投资本 10月27日发布2026年 三季报显示，公司前三季 实现营业收入117.16亿元 ，同比增长20.48% ；归母净利润30.40亿元 ，同比增长6.53% ；扣非归母净利润31.32亿元 ，同比增长10.11% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：国投资本前三季归母净利润30.40亿元，同比增长6.53%"
+    },
+    {
+     "title": "千味央厨：截至9月30日最新股东户数1.05万户，较上期减少1.55%",
+     "link": "http://stock.eastmoney.com/news/11111,202610263908174198.html",
+     "pubDate": "Mon, 26 Oct 2026 18:23:47 +0800",
+     "summary": "千味央厨 最新披露数据显示，截至9月30日公司股东户数为1.05万户，较上期(2026年6月30日) 减少165户，降幅为1.55% 。户均持有流通股数量 由上期的9117股上升至9261股， 户均持股金额 由上期的33.64万元减少至30.04万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "千味央厨：截至9月30日最新股东户数1.05万户，较上期减少1.55%"
+    },
+    {
+     "title": "贝瑞基因：截至9月30日最新股东户数5.36万户，较上期增加2.35%",
+     "link": "http://stock.eastmoney.com/news/11111,202610263908174070.html",
+     "pubDate": "Mon, 26 Oct 2026 18:23:47 +0800",
+     "summary": "贝瑞基因 最新披露数据显示，截至9月30日公司股东户数为5.36万户，较上期(2026年6月30日) 增加1233户，增幅为2.35% 。户均持有流通股数量 由上期的6407股下降至6259股， 户均持股金额 由上期的4.78万元增加至6.80万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担",
+     "source": "东方财富股票",
+     "zh": "贝瑞基因：截至9月30日最新股东户数5.36万户，较上期增加2.35%"
+    },
+    {
+     "title": "奥美医疗：截至9月30日最新股东户数3.81万户，较上期减少1.73%",
+     "link": "http://stock.eastmoney.com/news/11111,202610263908173971.html",
+     "pubDate": "Mon, 26 Oct 2026 18:23:47 +0800",
+     "summary": "奥美医疗 最新披露数据显示，截至9月30日公司股东户数为3.81万户，较上期(2026年6月30日) 减少673户，降幅为1.73% 。户均持有流通股数量 由上期的1.11万股上升至1.13万股， 户均持股金额 由上期的9.84万元减少至9.62万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "奥美医疗：截至9月30日最新股东户数3.81万户，较上期减少1.73%"
+    },
+    {
+     "title": "神思电子：截至9月30日最新股东户数2.33万户，较上期减少0.47%",
+     "link": "http://stock.eastmoney.com/news/11111,202610263908173897.html",
+     "pubDate": "Mon, 26 Oct 2026 18:23:47 +0800",
+     "summary": "神思电子 最新披露数据显示，截至9月30日公司股东户数为2.33万户，较上期(2026年6月30日) 减少110户，降幅为0.47% 。户均持有流通股数量 由上期的8426股上升至8466股， 户均持股金额 由上期的11.41万元增加至12.34万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "神思电子：截至9月30日最新股东户数2.33万户，较上期减少0.47%"
+    },
+    {
+     "title": "九号公司前三季度营收增长近两成，成本与费用上升冲击盈利",
+     "link": "https://wallstreetcn.com/articles/3784478",
+     "pubDate": "Mon, 26 Oct 2026 18:22:58 +0800",
+     "summary": "九号公司的收入规模继续扩大，成本与费用的上升也对盈利提出了更高要求。 10月26日，九号公司发布2026年第三季度报告。前三季度，公司实现营业收入219.43亿元，同比增长19.32%；归母净利润13.51亿元，同比下降24.40%；扣非净利润12.15亿元，同比下降32.43%。 其中，第三季度实现营业收入75.85亿元，同比增长14.10%；归母净利润3.43亿元，同比下降37.18%；扣非净利润2.47亿元，同比下降49.21%。 对于利润下降，九号公司表示，主要受汇兑损失、原材料价格上涨及研发等期间费用增加影响。收入保持增长，但多项成本和支出增加，使公司当期盈利承压。 收入端仍是这份财",
+     "source": "华尔街见闻",
+     "zh": "九号公司前三季度营收增长近两成，成本与费用上升冲击盈利"
+    },
+    {
+     "title": "MakeMyTrip Non-GAAP EPS of $0.47 in-line, revenue of $235.16M misses by $33.93M",
+     "link": "https://seekingalpha.com/news/4657063-makemytrip-non-gaap-eps-of-0_47-in-line-revenue-of-235_16m-misses-by-33_93m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 06:17:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MakeMyTrip Non-GAAP EPS of $0.47 in-line, revenue of $235.16M misses by $33.93M"
+    },
+    {
+     "title": "进口车9月同比腰斩，豪华品牌加码中国制造",
+     "link": "https://wallstreetcn.com/articles/3784477",
+     "pubDate": "Mon, 26 Oct 2026 18:15:49 +0800",
+     "summary": "中国进口车市场的收缩，延续到了“金九”。 10月25日，乘联分会秘书长崔东树公布的数据显示，9月中国汽车进口2.1万辆，同比下降49%；前三季度进口车零售28万辆，同比下降32%。 崔东树称，9月乘用车进口少于需求，库存有所下降。 2014年，中国汽车进口量曾达到143万辆，2025年只剩48万辆。随着海外品牌在中国生产，普通品牌的进口车型逐渐减少，豪华品牌成了进口市场的主要支撑。眼下，这些品牌也开始重新安排中国业务。 雷克萨斯在去年的进口车收缩中守住了规模。按照崔东树披露的保险零售数据，2025年进口车市场整体下滑约三分之一，雷克萨斯仍售出约18.4万辆，同比增长约2%。今年4月，新一代ES",
+     "source": "华尔街见闻",
+     "zh": "进口车9月同比腰斩，豪华品牌加码中国制造"
+    },
+    {
+     "title": "Cemex Non-GAAP EPADS of $0.28 beats by $0.07, revenue of $4.59B beats by $190M",
+     "link": "https://seekingalpha.com/news/4657062-cemex-non-gaap-epads-of-028-beats-by-007-revenue-of-459b-beats-by-190m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 06:15:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cemex Non-GAAP EPADS of $0.28 beats by $0.07, revenue of $4.59B beats by $190M"
+    },
+    {
+     "title": "AI交易迎来关键一周：微软、亚马逊、谷歌财报检验资本开支回报",
+     "link": "https://wallstreetcn.com/articles/3784476",
+     "pubDate": "Mon, 26 Oct 2026 18:15:03 +0800",
+     "summary": "AI融资成本焦虑持续压制市场情绪，防御性轮动加速，超大规模科技公司财报成为检验AI投资回报的关键时刻。 市场对AI融资成本的担忧正从信用市场向股市加速传导，成为美股冲击新高的核心障碍。科技股的抛售并未令投资者全面撤离风险资产，而是触发了一场力度罕见的防御性轮动——标普500等权重指数本月相对市值加权指数的跑赢幅度，创下1990年以来第六大纪录，偏离历史均值近三个标准差。 美国银行策略师Michael Hartnett领衔的团队明确建议 \"在11月中旬前保持战术性避险\"，并警告若超大规模科技公司债券利差突破200基点，可能迫使投资者进一步削减风险敞口。 与此同时，纳斯达克100与10年期美债收益",
+     "source": "华尔街见闻",
+     "zh": "AI交易迎来关键一周：微软、亚马逊、谷歌财报检验资本开支回报"
+    },
+    {
+     "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+     "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 10:15:00 GMT",
+     "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+     "source": "MarketWatch",
+     "zh": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?"
+    },
+    {
+     "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;",
+     "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+     "pubDate": "Mon, 26 Oct 2026 10:13:01 GMT",
+     "summary": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
+     "source": "CNBC",
+     "zh": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;"
+    },
+    {
+     "title": "AM Markets Need to Know: AI's payoff remains elusive, SpaceX raises $40B, and more",
+     "link": "https://seekingalpha.com/news/4657060-am-markets-need-to-know-ais-payoff-remains-elusive-spacex-raises-40b-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 06:10:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AM Markets Need to Know: AI's payoff remains elusive, SpaceX raises $40B, and more"
+    },
+    {
+     "title": "宇树科技：人形机器人行业尚处商业化早期 物理AI技术从实验室演示走向真实场景规模化落地仍面临多重挑战",
+     "link": "http://finance.eastmoney.com/news/1354,202610263908163626.html",
+     "pubDate": "Mon, 26 Oct 2026 18:08:19 +0800",
+     "summary": "宇树科技(688836.SH)公告称，公司股票连续三个交易日收盘价格涨幅偏离值累计超过30%，属于股票交易异常波动情形。截至2026年10月26日，公司滚动市盈率为465.22倍，显著高于 通用设备 制造业行业平均滚动市盈率38.54倍。人形 机器人 行业尚处于商业化早期，技术成熟度、下游市场需求培育、产业链配套能力均存在不确定性。同时，物理AI技术从实验室演示走向真实场景的规模化落地仍面临感知精度、运动控制稳定性、数据积累及软硬件协同等多重挑战，相关技术路径与商业模式的成熟尚需时间验证。若行业大规模商业化落地进度不及预期，公司未来营收扩张及业绩释放可能受到不利影响，存在估值回归的投资风险。 ",
+     "source": "东方财富资讯",
+     "zh": "宇树科技：人形机器人行业尚处商业化早期 物理AI技术从实验室演示走向真实场景规模化落地仍面临多重挑战"
+    },
+    {
      "title": "Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around.",
      "link": "https://www.marketwatch.com/story/cheesecake-factory-was-just-the-subject-of-unflattering-headlines-its-actually-one-of-the-hottest-stocks-around-8435cc63?mod=mw_rss_topstories",
      "pubDate": "Mon, 26 Oct 2026 10:04:00 GMT",
@@ -2258,52 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around."
     },
     {
-     "title": "杰恩股份：截至9月30日最新股东户数1.11万户，较上期减少5.41%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908153165.html",
-     "pubDate": "Mon, 26 Oct 2026 18:00:36 +0800",
-     "summary": "杰恩股份 最新披露数据显示，截至9月30日公司股东户数为1.11万户，较上期(2026年9月10日) 减少633户，降幅为5.41% 。户均持有流通股数量 由上期的8517股上升至9004股， 户均持股金额 由上期的26.68万元增加至26.93万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
-     "source": "东方财富股票",
-     "zh": "杰恩股份：截至9月30日最新股东户数1.11万户，较上期减少5.41%"
-    },
-    {
      "title": "10月26日龙虎榜复盘：万向钱潮净买额居首",
      "link": "http://stock.eastmoney.com/news/11783,202610263908153064.html",
      "pubDate": "Mon, 26 Oct 2026 18:00:36 +0800",
      "summary": "10月26日共有73只个股（含2只可转债）上榜龙虎榜，总上榜成交额263.39亿元。上榜个股中净买入额最高的是 万向钱潮 ，金额为3.74亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "10月26日龙虎榜复盘：万向钱潮净买额居首"
-    },
-    {
-     "title": "天华新能：截至9月30日最新股东户数10.28万户，较上期减少10.21%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908152922.html",
-     "pubDate": "Mon, 26 Oct 2026 18:00:21 +0800",
-     "summary": "天华新能 最新披露数据显示，截至9月30日公司股东户数为10.28万户，较上期(2026年7月31日) 减少1.17万户，降幅为10.21% 。户均持有流通股数量 由上期的6215股上升至6922股， 户均持股金额 由上期的33.71万元增加至33.98万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "天华新能：截至9月30日最新股东户数10.28万户，较上期减少10.21%"
-    },
-    {
-     "title": "丝路视觉：截至9月30日最新股东户数2.04万户，较上期减少1.68%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908152884.html",
-     "pubDate": "Mon, 26 Oct 2026 18:00:21 +0800",
-     "summary": "丝路视觉 最新披露数据显示，截至9月30日公司股东户数为2.04万户，较上期(2026年9月10日) 减少349户，降幅为1.68% 。户均持有流通股数量 由上期的5218股上升至5308股， 户均持股金额 由上期的8.48万元减少至8.47万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保",
-     "source": "东方财富股票",
-     "zh": "丝路视觉：截至9月30日最新股东户数2.04万户，较上期减少1.68%"
-    },
-    {
-     "title": "【图解财报】中兴通讯三季报盈利40.60亿人民币，同比减少23.71%",
-     "link": "http://stock.eastmoney.com/news/11837,202610263908152793.html",
-     "pubDate": "Mon, 26 Oct 2026 18:00:21 +0800",
-     "summary": "中兴通讯 10月26日发布 三季报 业绩，截至2026年9月30日的 9 个月内，该公司营业收入1168.38亿人民币，同比 增长16.23%； 公司权益持有人应占溢利（归母净利润）40.60亿人民币， 同比减少23.71% 。 中兴通讯 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户",
-     "source": "东方财富股票",
-     "zh": "【图解财报】中兴通讯三季报盈利40.60亿人民币，同比减少23.71%"
-    },
-    {
-     "title": "【调研快报】华立股份接待上海证券报-中国证券网调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610263908152659.html",
-     "pubDate": "Mon, 26 Oct 2026 18:00:21 +0800",
-     "summary": "华立股份 10月26日公告称， 10月21日 接待上海证券报-中国证券网 调研。 接待人员包括副总裁、董事会秘书 孙伟。 公司就以下问题进行了回复： 一、问: 华立股份 从饰边条、饰 面板 起家的传统制造企业,为何会跨界进入水厂、 地下管网 和城乡供水系统?公司目前对于自身AI技术的应用有着怎样的战略定位? 答: 华立股份 通过收购苏州尚源智能科技有限公司51%的股权,转型成为一家“装饰建材+智慧水务”双主业的公司。苏州尚源是一家有数字化基因的企业,其基于“滤... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更",
-     "source": "东方财富股票",
-     "zh": "【调研快报】华立股份接待上海证券报-中国证券网调研"
     },
     {
      "title": "Can GOP Rep. Brian Fitzpatrick, a moderate who&apos;s bucked Trump, keep his Pennsylvania swing seat?",
@@ -2354,28 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "平安银行三季报发布：连续三个季度营收利润双增"
     },
     {
-     "title": "How war, security and coalition math are shaping the Israeli election",
-     "link": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
-     "pubDate": "Mon, 26 Oct 2026 09:46:59 GMT",
-     "summary": "Israeli voters will head to the polls to cast their votes in a general election on Tuesday.",
-     "source": "CNBC",
-     "zh": "How war, security and coalition math are shaping the Israeli election"
-    },
-    {
      "title": "科技股不香了？有基金经理止损科技 转身重仓银行股",
      "link": "http://finance.eastmoney.com/news/1345,202610263908137494.html",
      "pubDate": "Mon, 26 Oct 2026 17:46:18 +0800",
      "summary": "资金在买 银行 ，但低估值、高股息、区域景气，似乎缺一不可。随着公募基金三季度陆续披露，部分基金经理的调仓方向浮出水面。 10月下旬的A股， 银行 成为了最拥挤的角落。 在经历上周五短暂回调后，今日（10月26日） 银行 股再度集体走高， 工商银行 （601398.SH） 全天上涨3.13%，截至收盘报8.58元/股，逼近8.65元 历史新高 ， 南京银行 （601009.SH） 、 建设银行 （601939.SH） 全天分别上涨2.98%、2.74%， 交通银行 （601328.SH） 、 上海银行 （601229.SH） 、 苏农银行 （603323.SH） 等跟涨。 以 工商银行 为代表",
      "source": "东方财富资讯",
      "zh": "科技股不香了？有基金经理止损科技 转身重仓银行股"
-    },
-    {
-     "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;",
-     "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-     "pubDate": "Mon, 26 Oct 2026 09:46:06 GMT",
-     "summary": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
-     "source": "CNBC",
-     "zh": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;"
     },
     {
      "title": "Volkswagen, NXP forge strategic pact on software-defined vehicles",
@@ -2394,22 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "中信证券：第三季度净利润同比下降20.19% 环比下降41%"
     },
     {
-     "title": "今日正式落地！北交所大宗交易规则有变",
-     "link": "http://finance.eastmoney.com/news/1345,202610263908117940.html",
-     "pubDate": "Mon, 26 Oct 2026 17:35:59 +0800",
-     "summary": "10月26日，北交所大宗交易申报价格范围的新规正式实施。 “这个就是价格篮子，是为了给无涨跌幅限制的股票加一个报价框，不让他们乱报价来操纵市场，对于退市票、一些异常票等，形成价格管控。历史上的经验在新三板就实行过，效果也比较好，同时也是参考了其他板块市场的经验。”南方某券商分析师向券商中国记者表示。 据悉，10月16日，北京证券交易所发布了《关于实施 相关条款的公告》（北证公告〔2026〕43号），公告内容如下：北交所2026年4月24日发布的《北京证券交易所交易规则》第4.5.1条至第4.5.4条关于风险警示股票及退市整理股票交易事项的规定，已于2026年8月31日起实施。根据市场业务和技术",
-     "source": "东方财富资讯",
-     "zh": "今日正式落地！北交所大宗交易规则有变"
-    },
-    {
-     "title": "突然直线下挫！伊朗突传大消息！特朗普最新表态",
-     "link": "http://finance.eastmoney.com/news/1345,202610263908116724.html",
-     "pubDate": "Mon, 26 Oct 2026 17:33:49 +0800",
-     "summary": "中东局势依然胶着。 今日（10月26日），国际油价开盘直线下挫。截至发稿，布伦特原油回落至110美元/桶以下，跌超2%；WTI原油跌至100美元/桶附近，跌2.4%。 伊朗突传大消息 据CCTV国际时讯报道，伊朗国家电视台今天（10月26日）发布消息称，伊朗最高国家安全委员会副秘书阿里·巴盖里·卡尼证实，沙特阿拉伯、巴基斯坦、土耳其这三个《麦加共同防务协议》成员国的高级官员今天将在德黑兰与伊朗官员会晤，讨论地区问题。 卡尼表示，沙特国防大臣哈立德·本·萨勒曼、巴基斯坦陆军参谋长穆尼尔、土耳其国家情报局局长易卜拉欣·卡林将率团参会。 卡尼重申，“伊朗的战略政策一直并将继续是：本地区安全必须由区域",
-     "source": "东方财富资讯",
-     "zh": "突然直线下挫！伊朗突传大消息！特朗普最新表态"
-    },
-    {
      "title": "中兴通讯Q3净利润增394.46%，前三季度扣非净利仍下滑27.46% | 财报见闻",
      "link": "https://wallstreetcn.com/articles/3784471",
      "pubDate": "Mon, 26 Oct 2026 17:32:22 +0800",
@@ -2426,22 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "报道：SK海力士拟推出50万亿-60万亿韩元股东回报，规模创历史纪录"
     },
     {
-     "title": "Biggest stock movers Monday: XCNR, SGRY, AGEN",
-     "link": "https://seekingalpha.com/news/4657027-biggest-stock-movers-monday-xcnr-sgry-agen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 05:19:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Biggest stock movers Monday: XCNR, SGRY, AGEN"
-    },
-    {
-     "title": "Neocloud stocks retreat as Musk warns of ‘guppy-level death and consolidation’",
-     "link": "https://seekingalpha.com/news/4657035-neocloud-stocks-retreat-as-musk-warns-of-guppy-level-death-and-consolidation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 05:04:55 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Neocloud stocks retreat as Musk warns of ‘guppy-level death and consolidation’"
-    },
-    {
      "title": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami",
      "link": "https://www.marketwatch.com/story/tennis-star-taylor-fritz-is-selling-his-condo-for-860-000with-sweeping-views-of-miami-2db8d086?mod=mw_rss_topstories",
      "pubDate": "Mon, 26 Oct 2026 09:04:00 GMT",
@@ -2450,44 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami"
     },
     {
-     "title": "GPU被CPU拖慢？Arm祭出新评测方法论",
-     "link": "https://wallstreetcn.com/articles/3784469",
-     "pubDate": "Mon, 26 Oct 2026 17:03:58 +0800",
-     "summary": "Agent的应用场景正在变得越来越细分。 从Claude Code等AI编程工具，到能够处理文档、操作软件的办公助手，再到帮助用户规划行程、管理日程的个人助理，Agent开始承担越来越多具体任务。 应用场景的不断拓展，也对底层算力提出了新的要求。 在这一背景下，Arm近日推出一套面向Agent的CPU性能评估方法论，试图通过更贴近真实应用场景的测试，帮助企业判断不同CPU在Agent任务中的表现。 这不是孤例。AMD此前已提出针对Agent AI的CPU工作负载评测框架，将工具执行、数据检索和任务编排等环节纳入测试；英特尔也针对Xeon 6处理器开展了相关测试，重点关注Agent任务的吞吐量与",
-     "source": "华尔街见闻",
-     "zh": "GPU被CPU拖慢？Arm祭出新评测方法论"
-    },
-    {
      "title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
      "link": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories",
      "pubDate": "Mon, 26 Oct 2026 09:02:00 GMT",
      "summary": "The chief stock-market strategist for Morgan Stanley is sticking with a forecast that the S&P 500 will end the year at 8,000, but growing caution is on display as he identified that support for the key semiconductor sector could come considerably lower.",
      "source": "MarketWatch",
      "zh": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley"
-    },
-    {
-     "title": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home",
-     "link": "https://www.marketwatch.com/story/tyler-perry-cuts-price-of-36-million-wyoming-property-on-37-acres-buys-30-million-puerto-rico-home-5eb819be?mod=mw_rss_topstories",
-     "pubDate": "Mon, 26 Oct 2026 09:01:00 GMT",
-     "summary": "Tyler Perry has slashed $3.5 million from the asking price of his Wyoming mansion—days after picking up a $30 million home in Puerto Rico.",
-     "source": "MarketWatch",
-     "zh": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home"
-    },
-    {
-     "title": "S&P 500 profit forecasts sprint ahead of stock prices, leaving shares on sale",
-     "link": "https://seekingalpha.com/news/4657036-sp-500-profit-forecasts-sprint-ahead-of-stock-prices-leaving-shares-on-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 04:58:52 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "S&P 500 profit forecasts sprint ahead of stock prices, leaving shares on sale"
-    },
-    {
-     "title": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Mon, 26 Oct 2026 16:57:33 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻"
     }
    ]
   },

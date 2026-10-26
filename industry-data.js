@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 14:59:23",
+ "generated_at": "2026/10/26 15:12:02",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,46 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Government to set up Biosecurity Lab for biological AI threats",
+     "link": "https://www.electronicsweekly.com/news/business/government-to-set-up-biosecurity-lab-for-ai-threats-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 06:16:23 +0000",
+     "summary": "The government is to invest £100 million in an AI Biosecurity Lab (AIBL) to counter biological risks posed by AI. Anthropic and OpenAI will contribute £200 million in compute and model […] The post Government to set up Biosecurity Lab for biological AI threats appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Government to set up Biosecurity Lab for biological AI threats"
+    },
+    {
+     "title": "Anti-matter particle trapped in Illinois cage",
+     "link": "https://www.electronicsweekly.com/news/business/anti-matter-particle-trapped-in-cage-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 06:15:24 +0000",
+     "summary": "Northwestern University physicists have trapped a particle of anti-matter in a cage (pictured) and are preparing to take measurements of its properties and compare them with the properties of matter. […] The post Anti-matter particle trapped in Illinois cage appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Anti-matter particle trapped in Illinois cage"
+    },
+    {
+     "title": "Atomera and IQE hook up to advance RF GaN",
+     "link": "https://www.electronicsweekly.com/news/business/atomera-and-iqe-hook-up-for-rf-gan-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 06:15:05 +0000",
+     "summary": "Atomera, a semiconductor transistor materials and technology licensing company, has entered into a Joint Development Agreement (JDA) with IQE to bring high-performance, cost-effective RF GaN to market. The collaboration leverages […] The post Atomera and IQE hook up to advance RF GaN appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Atomera and IQE hook up to advance RF GaN"
+    },
+    {
+     "title": "Lab-grown muscles power robots",
+     "link": "https://www.electronicsweekly.com/news/business/lab-grown-muscles-power-robots-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 06:14:33 +0000",
+     "summary": "Lab-grown skeletal muscle tissue can contract, but the movement is often so slight that it is barely visible. This poses a problem for biohybrid robots designed to move using living […] The post Lab-grown muscles power robots appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Lab-grown muscles power robots"
+    },
+    {
+     "title": "Server CPUs to grow 30% in 2026 and 40% in 2027",
+     "link": "https://www.electronicsweekly.com/news/business/30-growth-in-server-cpus-in-2026-and-40-in-2027-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 06:11:28 +0000",
+     "summary": "Server CPU shipments are projected to increase 31% YoY in 2026. In 2027, continued growth in AI inference demand and rising adoption of agentic AI services are expected to drive […] The post Server CPUs to grow 30% in 2026 and 40% in 2027 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Server CPUs to grow 30% in 2026 and 40% in 2027"
+    },
+    {
      "title": "Interview: From afterthought to bottleneck, circuit boards move to the heart of AI hardware",
      "link": "https://www.digitimes.com/news/a20261023PD234/taiwan-packaging-pcb-manufacturing.html",
      "pubDate": "Mon, 26 Oct 2026 02:59:13 GMT",
@@ -418,22 +458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
     },
     {
-     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
-     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
-    },
-    {
-     "title": "Space Tech Expo Europe to say farewell to Bremen",
-     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
-     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Space Tech Expo Europe to say farewell to Bremen"
-    },
-    {
      "title": "ST extends MasterGaN integrated transistor/driver family",
      "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
      "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
@@ -448,30 +472,6 @@ window.INDUSTRY_DATA = {
      "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
      "source": "Semiconductor Today",
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
-    },
-    {
-     "title": "Soft Switching Or Hard?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
-     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Soft Switching Or Hard?"
-    },
-    {
-     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
-     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
-     "source": "Electronics Weekly",
-     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
-    },
-    {
-     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
-     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
     },
     {
      "title": "Two Dollars and a Test Suite",
@@ -632,14 +632,6 @@ window.INDUSTRY_DATA = {
      "summary": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the",
      "source": "IEEE Spectrum 机器人",
      "zh": "The Robot I Didn’t Expect to Build"
-    },
-    {
-     "title": "Powered by muscle cells, a paper-thin robot swims through watery maze",
-     "link": "https://robohub.org/powered-by-muscle-cells-a-paper-thin-robot-swims-through-watery-maze/",
-     "pubDate": "Mon, 19 Oct 2026 07:07:59 +0000",
-     "summary": "MIT engineers’ new aquabot offers a way to design small, efficient “biohybrid” robots.",
-     "source": "Robohub",
-     "zh": "Powered by muscle cells, a paper-thin robot swims through watery maze"
     }
    ]
   },
@@ -649,6 +641,14 @@ window.INDUSTRY_DATA = {
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "Xpeng starts global shipments of Mona L05, targeting 65 countries and regions",
+     "link": "https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/",
+     "pubDate": "Mon, 26 Oct 2026 07:08:58 +0000",
+     "summary": "The Mona L05 will launch in China on October 29, with global shipments beginning ahead of its domestic roll-out. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Xpeng starts global shipments of Mona L05, targeting 65 countries and regions"
+    },
     {
      "title": "BYD opens reservations for second-gen Seal 07 with Blade Battery and flash charging",
      "link": "https://cnevpost.com/2026/10/26/byd-opens-reservations-2nd-gen-seal-07/",
@@ -784,14 +784,6 @@ window.INDUSTRY_DATA = {
      "summary": "The ID. Unyx 08 was supposed to help turn around Volkswagen in China. Instead, it struggles to move more than 250 units per month.",
      "source": "InsideEVs",
      "zh": "VW's First Car Made With Xpeng Isn't Popular. Here's Why It Matters"
-    },
-    {
-     "title": "China has about 15 million passenger cars with NOA as driver assistance adoption expands",
-     "link": "https://cnevpost.com/2026/10/24/china-15-million-cars-with-noa/",
-     "pubDate": "Sat, 24 Oct 2026 12:29:35 +0000",
-     "summary": "About 61 million passenger cars in China had L2 driver assistance features as of August, including about 15 million equipped with NOA. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "China has about 15 million passenger cars with NOA as driver assistance adoption expands"
     },
     {
      "title": "GM's Future Cars Will Be Very Different. Here's Everything We Learned",
@@ -1050,14 +1042,6 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1088,6 +1072,14 @@ window.INDUSTRY_DATA = {
      "summary": "Tech giant Google and distributed energy resource (DER) platform Voltus have announced an expanded agreement to build a 1GW virtual power plant (VPP) in the US.",
      "source": "Energy Storage News",
      "zh": "Google and Voltus expand PJM virtual power plant agreement to 1GW"
+    },
+    {
+     "title": "European solar PPA prices up 0.4% in Europe and 4.9% in the US",
+     "link": "https://www.pv-tech.org/european-solar-ppa-prices-up-0-4-europe-4-9-us/",
+     "pubDate": "Fri, 23 Oct 2026 09:43:11 +0000",
+     "summary": "The average price of a solar PPA in Europe increased 0.4% between the second and third quarters of 2026, according to LevelTen Energy.",
+     "source": "PV Tech",
+     "zh": "European solar PPA prices up 0.4% in Europe and 4.9% in the US"
     }
    ]
   },
@@ -1762,52 +1754,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "消息称某厂 2027H1 影像旗舰评估阔屏，预计华为旗下",
-     "link": "https://www.ithome.com/1/017/908.htm",
-     "pubDate": "Mon, 26 Oct 2026 06:54:35 GMT",
-     "summary": "IT之家 10 月 26 日消息，据博主 @数码闲聊站 今日爆料，某厂 2027H1 影像旗舰在评估阔屏，据我摸到的工程机信息，标准版继续用 6.6 英寸中屏， Pro / Pro Max 换阔屏 ，尺寸还是 6.39 英寸左右，定义全能阔屏影像旗舰。结合该博主此前的爆料习惯，该产品预计为华为旗下。 据该博主此前透露，华为阔直板手机有多产品线布局的动作，n 中端线（预计指 nova 产品线）也在评估阔直板中。有网友询问 Mate 系列是否会推出阔直板形态手机，博主表示：“Mate 暂时没有这个计划。” 据IT之家此前报道， 全球首款阔直板手机 —— 华为 Pura X View 已于 9 月 ",
+     "title": "国家能源局：截至 9 月底全国累计发电装机容量 41.3 亿千瓦，同比增长 11.2%",
+     "link": "https://www.ithome.com/1/017/918.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:07:01 GMT",
+     "summary": "IT之家 10 月 26 日消息，10 月 26 日，国家能源局发布 1-9 月份全国电力统计数据。 截至 9 月底，全国累计发电装机容量 41.3 亿千瓦， 同比增长 11.2% 。其中，太阳能发电装机容量 13.1 亿千瓦，同比增长 16.5%；风电装机容量 7.0 亿千瓦，同比增长 20.4%。 1-9 月份，全国发电设备累计平均利用 2174 小时，比上年同期降低 194 小时。 IT之家注意到，国家能源局此前发布数据显示，今年 9 月份， 全社会用电量 8997 亿千瓦时，同比增长 1.2% 。 第一产业用电量 135 亿千瓦时，同比增长 4.1%。 第二产业用电量 5800 亿千瓦",
      "source": "IT之家",
-     "zh": "消息称某厂 2027H1 影像旗舰评估阔屏，预计华为旗下"
+     "zh": "国家能源局：截至 9 月底全国累计发电装机容量 41.3 亿千瓦，同比增长 11.2%"
     },
     {
-     "title": "消息称更多用户反馈苹果 iPhone Duo 内屏出现“开裂”问题",
-     "link": "https://www.ithome.com/1/017/906.htm",
-     "pubDate": "Mon, 26 Oct 2026 06:51:24 GMT",
-     "summary": "IT之家 10 月 26 日消息，据外媒 smartprix 报道，苹果 iPhone Duo 开售至今，更多用户陆续反馈手机内屏出现“开裂”问题，多起案例呈现出相似的故障特征：屏幕沿铰链区域出现裂纹，部分设备还伴随着半边屏幕出现明亮横线或像素异常的问题。 一名美国用户发帖称，自己的 iPhone Duo 甚至没能顺利完成初始设置，屏幕便在大约折叠四次后开裂。该用户表示，铰链在发生故障前感觉比较紧，随后突然发出一声巨响。其驾车前往达拉斯的一家 Apple Store 后，店员立即为其更换了手机，并称这是当天遇到的首例类似情况。 另一名用户则表示，自己的 iPhone Duo 在合上充电期间出现",
-     "source": "IT之家",
-     "zh": "消息称更多用户反馈苹果 iPhone Duo 内屏出现“开裂”问题"
+     "title": "一只螃蟹不养，一张卡净赚100：蟹卡是怎么变成金融产品的？",
+     "link": "https://www.huxiu.com/article/4899963.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 15:06:41 +0800",
+     "summary": "一张面值2688的蟹卡，从印刷到作废，可能全程没见过一只螃蟹。商家净赚100，黄牛净赚50，整门生意里唯一没戏份的，是螃蟹本身。今年买蟹记住一句话：少看型号，多看斤两。你手里那张蟹卡，提货成功了吗？评论区聊聊。",
+     "source": "虎嗅",
+     "zh": "一只螃蟹不养，一张卡净赚100：蟹卡是怎么变成金融产品的？"
     },
     {
-     "title": "华为余承东预热 2026 央视鸿蒙星光盛典：致敬每一位生态建设者，也感谢所有用户一路相伴",
-     "link": "https://www.ithome.com/1/017/905.htm",
-     "pubDate": "Mon, 26 Oct 2026 06:50:32 GMT",
-     "summary": "IT之家 10 月 26 日消息，央视频今日宣布，2026《鸿蒙星光盛典》将于 12 月 5 日在深圳湾体育中心“春茧”体育场举办，共同见证鸿蒙应用体验进入成熟好用阶段。 IT之家注意到，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，预热了 2026 央视鸿蒙星光盛典： 共赴星光之约，期待 2026 央视鸿蒙星光盛典， 致敬每一位生态建设者，也感谢所有用户一路相伴 。 据IT之家此前报道，10 月 1 日，在华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东曾宣布， 鸿蒙 HarmonyOS 6 | Harm",
+     "title": "小米“米家洗鞋机 3KG”11 月 2 日开启众筹：可洗运动鞋 / 帆布鞋、支持除菌，799 元起",
+     "link": "https://www.ithome.com/1/017/916.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:04:18 GMT",
+     "summary": "IT之家 10 月 26 日消息，小米宣布将推出一款“米家洗鞋机 3KG”，该产品将于 11 月 2 日 10 点在有品开启众筹，建议零售价 1299 元，众筹价 799 元起。 该产品整体采用米家白色家族式外观，整机占地 0.18m2，阳台柜、洗衣房均可摆放。其号称能够通过波轮高速旋转带动 3D 立体水流全方位冲刷鞋面、鞋底纹路及鞋内衬，能够显著清除泥渍、草渍、汗渍等常见污渍。 该产品适配运动鞋、休闲鞋、童鞋、帆布鞋、板鞋、运动拖鞋等，单次可批量清洗 2-4 双，无需复杂操作，开盖一键开启清洗。提供标准洗、强力洗、快速洗、除菌洗、多用洗、漂 + 脱、单脱水、筒清洁共 8 种程序，支持 24 ",
      "source": "IT之家",
-     "zh": "华为余承东预热 2026 央视鸿蒙星光盛典：致敬每一位生态建设者，也感谢所有用户一路相伴"
+     "zh": "小米“米家洗鞋机 3KG”11 月 2 日开启众筹：可洗运动鞋 / 帆布鞋、支持除菌，799 元起"
     },
     {
-     "title": "中科宇航力箭二号遥二运载火箭转运至发射区，近期择机发射",
-     "link": "https://www.ithome.com/1/017/903.htm",
-     "pubDate": "Mon, 26 Oct 2026 06:46:57 GMT",
-     "summary": "IT之家 10 月 26 日消息，据央视新闻报道，今天（26 日），我国自主研制的力箭二号遥二运载火箭在东风商业航天创新试验区转运至专属发射工位，进入发射前的关键准备阶段，近期择机发射。 力箭二号由中科宇航研制，最大运载能力达 12 吨，既能一次发射多颗卫星，也能承担太空货运飞船等发射任务。它还是我国首款采用“通用助推器核心”构型的运载火箭，可以像搭积木一样，把三个基本相同的通用助推芯级结构组合起来，既能提高运载能力，也方便批量生产、降低成本。 据中科宇航力箭二号运载火箭副总设计师李秦峰介绍，力箭二号遥二火箭在发射场的总装、测试工作已全部完成，现在已经转运至专属发射工位，即将展开箭地接口与全流",
+     "title": "蜂巢能源首批 100kWh 混合固液超充电池包量产下线，称混合固液将长期存在并成主流路线",
+     "link": "https://www.ithome.com/1/017/915.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:03:14 GMT",
+     "summary": "IT之家 10 月 26 日消息，蜂巢能源官方今日宣布， 首批 100kWh 龙鳞甲混合固液超充电池包在常州正式下线 。 蜂巢能源判断，混合固液在纯电、特别是三元领域不是简单过渡方案， 而将成为长期存在的主流路线 。 IT之家注：混合固液电池是指同时由液体电解质和固体电解质在正负极之间传递离子的电池，而固态电池是指由固体电解质在正负极之间传递离子的电池。 今年 5 月，蜂巢能源表示，目前全固态电池还有非常长的路要走，没有大规模量产之前，混合固液电池就是一条主流技术路线。蜂巢能源认为， 今年是混合固液电池爆发的元年，将会大规模推广 。 另外，在去年 12 月，《电动汽车用固态电池第 1 部分：术",
      "source": "IT之家",
-     "zh": "中科宇航力箭二号遥二运载火箭转运至发射区，近期择机发射"
+     "zh": "蜂巢能源首批 100kWh 混合固液超充电池包量产下线，称混合固液将长期存在并成主流路线"
     },
     {
-     "title": "Gartner 预测：全球 IT 支出将在 2027 年突破 7 万亿美元，同比 +15%",
-     "link": "https://www.ithome.com/1/017/902.htm",
-     "pubDate": "Mon, 26 Oct 2026 06:45:12 GMT",
-     "summary": "IT之家 10 月 26 日消息，机构 Gartner（高德纳）当地时间本月 21 日发布预测： 2027 年全球 IT 支出将在今年的基础上进一步增长 15% 至 7.352 万亿美元 （IT之家注：现汇率约合 49.09 万亿元人民币） ，首次突破七万亿美元关口。 IT之家注意到，Gartner 认为 数据中心系统支出将在 2027 年迅速缩小同通信服务之间的差距 ，其与软件、服务间的距离也将仅剩约 3000 亿美元。 今年支出 今年变化 明年支出 明年变化 数据中心系统 8790 +73.8% 13660 +55.5% 设备 8740 +7.2% 9160 +8.1% 软件 14640 ",
+     "title": "微星推出 PRO SN 系列非模组 PC 电源，PPLP 银牌转换效率认证",
+     "link": "https://www.ithome.com/1/017/914.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:03:08 GMT",
+     "summary": "IT之家 10 月 26 日消息，微星 (MSI) 现已推出 PRO SN 系列 PC 电源。其采用标准 ATX 外形规格， 配套非模组压纹线材 ，获得 PPLP 银牌转换效率认证，包含 650W / 750W / 850W 三档额定功率的产品。 PRO SN 系列统一选用 105℃ 耐温主电容器，采用 APFC 和 DC-DC 电路拓扑，内置 120mm 的 HYB 轴承风扇，具备 OCP、OTP、OPP、OVP、UVP、SCP 安全防护机制。 IT之家了解到，微星 PRO SN 电源 650W 款遵循 ATX12V 2.XX 规范， 750W 和 850W 则支持 ATX12V 3.1、P",
      "source": "IT之家",
-     "zh": "Gartner 预测：全球 IT 支出将在 2027 年突破 7 万亿美元，同比 +15%"
+     "zh": "微星推出 PRO SN 系列非模组 PC 电源，PPLP 银牌转换效率认证"
     },
     {
-     "title": "吉利为欧洲市场研发专属车型，预计明年亮相",
-     "link": "https://www.ithome.com/1/017/901.htm",
-     "pubDate": "Mon, 26 Oct 2026 06:44:48 GMT",
-     "summary": "IT之家 10 月 26 日消息，据汽车媒体 AutoCar 今天报道，吉利正在为欧洲市场开发专属车型。该公司透露，公司已在此前的市场探索中吸取经验，更加了解欧洲消费者需求。 据报道，吉利接下来将推出一款代号为 Project KO11 的旗舰车型。 这款车型是银河战舰 700 的欧洲本土化版本 ，定位路虎卫士的竞争对手。该车与即将推出的莲花 Eletre 插混车型采用相同平台，但重点强调硬派越野，涉水深度可达 800mm。 吉利高管丹尼斯 · 韦内尔（IT之家注：Dennis Weinel）表示，公司最初计划根据品牌向欧洲市场推出相关车型，后来决定调整，以更好地适应当地市场。 他以 Flym",
+     "title": "光荣特库摩 2027 财年年报预计归母净利润 370 亿日元，同比预降 13.61%",
+     "link": "https://www.ithome.com/1/017/913.htm",
+     "pubDate": "Mon, 26 Oct 2026 07:01:56 GMT",
+     "summary": "IT之家 10 月 26 日消息，光荣特库摩今日发布 2027 财年（2026 年 4 月 1 日～2027 年 3 月 31 日）年报业绩预告报告： 营业总收入 ：910 亿日元 （IT之家注：现汇率约合 38.71 亿元人民币） ，同比预增 2.95% 归母净利润 ：370 亿日元 （现汇率约合 15.74 亿元人民币） ，同比预降 13.61% 基本每股收益 ：110.73 日元 （现汇率约合 4.71 元人民币） ，同比预降 15.97% AI 解读 本次光荣特库摩令和9年3月期（2027年3月期）全年业绩预告修正后，营收与归母净利润预期均较前回预测上调，但低于部分市场分析师此前的全年",
      "source": "IT之家",
-     "zh": "吉利为欧洲市场研发专属车型，预计明年亮相"
+     "zh": "光荣特库摩 2027 财年年报预计归母净利润 370 亿日元，同比预降 13.61%"
+    },
+    {
+     "title": "2026世界智能网联汽车大会：从比参数到比安全，行业进入规则约束期",
+     "link": "https://www.huxiu.com/article/4900478.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 15:00:26 +0800",
+     "summary": "本文来自微信公众号： 车市睿见 ，编辑：杨果，作者：杨朔 2026年10月21日，由工业和信息化部、交通运输部和北京市人民政府共同主办的2026世界智能网联汽车大会在北京亦庄开幕。智能网联汽车正在告别“单点突破”叙事。安全从上市前的一道检测关口，变成了准入与迭代的前置条件。 而智能化则正在从配置清单的延长，变成了车、路、云协同系统的重构。这两件事共同指向一个结果：行业的竞争要素正在从参数和功能，转向合规能力、体系协同与商业可持续。 ▍安全成为前置条件：从检测到全生命周期约束 安全被摆在这届大会最靠前的位置，这一点从监管方的表态中能明显看出。工业和信息化部副部长辛国斌在开幕式上表示，智能网联汽车",
+     "source": "虎嗅",
+     "zh": "2026世界智能网联汽车大会：从比参数到比安全，行业进入规则约束期"
+    },
+    {
+     "title": "极摩客推出 NucBox M3S 迷你主机：酷睿 3 304 处理器、12GB 内存",
+     "link": "https://www.ithome.com/1/017/911.htm",
+     "pubDate": "Mon, 26 Oct 2026 06:59:22 GMT",
+     "summary": "IT之家 10 月 26 日消息，极摩客现已在海外市场推出 NucBox M3S 迷你主机，新品采用英特尔 Wildcat Lake 平台，支持 USB4、三屏 4K 输出，提供 12GB 板载内存，定价 389.99 美元。 据介绍， 这款迷你主机搭载英特尔酷睿 3 304 处理器 ，带有 1 个性能核心及 4 个能效核心，最高睿频可达 4.3GHz，最高功耗为 25W。 同时， 该迷你主机配备 12GB LPDDR5-5600 板载内存 ，SSD 可选 256GB 或 512GB。机内提供第二个 M.2 2280 插槽，支持 PCIe 4.0，用户可自行扩展存储空间。接口方面， 该机提供 ",
+     "source": "IT之家",
+     "zh": "极摩客推出 NucBox M3S 迷你主机：酷睿 3 304 处理器、12GB 内存"
+    },
+    {
+     "title": "从欧盟MRN到美国IOR：全球海关监管大转向",
+     "link": "https://www.huxiu.com/article/4900477.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 14:54:38 +0800",
+     "summary": "本文来自微信公众号： 出海新形态 ，作者：出海新机遇 2026年9月，两条物流行业通知先后刷遍出海圈： 一边是马士基、地中海航运等全球头部船公司集体发布欧盟航线公告，明确自10月起全面执行“No MRN No Load”规则，所有发往欧盟的货物必须在订舱阶段提供对应MRN申报编号及绑定的EORI主体信息，主体不符、编号无效的货件不予转船。 另一边是美国海关与边境保护局（CBP）启动全量进口商（IOR）信息复核，短短一周内，上万条信息不实、主体模糊的IOR编号被集中作废，大量依赖挂靠IOR、空壳EIN清关的跨境货件滞港，无法完成清关和FBA入库。 一西一东，两大全球核心消费市场几乎同步落子，只向",
+     "source": "虎嗅",
+     "zh": "从欧盟MRN到美国IOR：全球海关监管大转向"
+    },
+    {
+     "title": "水下机器人订单爆发，为什么这门生意还只算清了半本账？",
+     "link": "https://www.huxiu.com/article/4900462.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 14:50:38 +0800",
+     "summary": "本文来自微信公众号： 具身商业前哨 ，作者：温特斯 “水下算的是一整套系统的价格，而不是一个人的人工替代价格。” 这是卫澜深海创始人张大禹在今年10月接受采访时说的一句话。它几乎解释了这条冷门赛道为什么突然有了订单，也解释了资本为什么跟着涌入。 10月22日，2026中国海洋经济博览会在深圳开幕，船体清洗、河道保洁、海底管缆和深海勘探机器人集中亮相。 （欧卡智舶海面具身产业图谱） 展馆外，钱已先一步下水：6月，世航智能完成超10亿元A轮系列融资；8月，深海智人完成超5亿元A轮；9月，欧卡智舶完成C轮融资，年内累计融资近3亿元；10月，卫澜深海披露9个月完成5轮融资。 比融资更能说明需求的，是订",
+     "source": "虎嗅",
+     "zh": "水下机器人订单爆发，为什么这门生意还只算清了半本账？"
     },
     {
      "title": "五折捡漏，也会“破发”",
@@ -1824,38 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 惊蛰青年 ，作者：阿瑞 你大概率没参加过这样一场婚礼。 迎宾立牌上除了新郎新娘的卡通形象，还印着某交友APP的logo；签到区整整齐齐地摆放着红色包装的现制奶茶，每位宾客都可以领取；婚宴上，每一桌都少不了一包金红配色的定制款辣条，上面写着祝福语。 当仪式结束，大屏上打出致谢名单，一串熟悉的品牌名字也随之出现，你才恍然大悟：原来这些，居然是品牌赞助的。 愿意这么办婚礼的人还不多，但正在变多。在小红书上，“婚礼赞助”词条浏览量超过千万次，讨论量35万。备婚的新人们涌进品牌官方账号相关招募活动的评论区报名，甚至有人直接发笔记@多个品牌请求赞助。当然，后者也有概率遭到路人的不解和",
      "source": "虎嗅",
      "zh": "199杯奶茶、5.2米的辣条，过日子人开始给婚礼拉邪门赞助"
-    },
-    {
-     "title": "楼市，大变化",
-     "link": "https://www.huxiu.com/article/4900471.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 14:36:58 +0800",
-     "summary": "本文来自微信公众号： 叶檀财经 ，作者：锡难老 世界上，没有只涨不跌的资产，也没有只跌不涨的资产。 拐点，往往出现在所有人都不信，或所有人都信的时候。就在股市水银泻地之时，楼市这个大块头，正慢吞吞从深渊中爬起。 10月19日，国家统计局公布的全国70个大中城市数据显示，四座一线城市的二手房价，已出现趋势性上涨。 据克而瑞统计，从3月份开始，四座一线城市的二手房就开启了环比上涨态势，截至9月份，除了北京8月份的一次破功，其他月份各城市悉数上涨。 上海二手房连续环比上涨的月份最多，1月份至今，已经有9个月了，深圳和广州分别为7个月。 环比上涨的月份足够多，最后会体现在同比上。2026年9月份，上海",
-     "source": "虎嗅",
-     "zh": "楼市，大变化"
-    },
-    {
-     "title": "GPT-7或打穿具身智能问题，模型自研价值何在？",
-     "link": "https://www.huxiu.com/article/4900463.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 14:30:50 +0800",
-     "summary": "本文来自微信公众号： 智讯智库 ，作者：陈宥文 如果“具身智能的ChatGPT时刻”，最终仍由ChatGPT亲手叩开——面对持续进化的外部模型，机器人企业，还该自研什么？ 信号正在密集出现。 宇树一边在招股书中规划，拟将20.22亿元大笔募集资金用于智能机器人模型研发项目[1]；一边已将GPT-6用于机器人任务测试，王兴兴称效果“实际上非常不错”[2]。 银河通用实测发现，在选定任务中，GPT-6 Astra独立控制成功率26%，而混合控制进而可达48%[3]； 在基准测试机构Artificial Analysis发布的首版真机评测中，五款前沿通用大模型在零样本条件下通过编程驱动机械臂，其中G",
-     "source": "虎嗅",
-     "zh": "GPT-7或打穿具身智能问题，模型自研价值何在？"
-    },
-    {
-     "title": "盯着老人“起身”，美国养老AI公司Inspiren融资7000万美元",
-     "link": "https://www.huxiu.com/article/4900461.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 14:22:55 +0800",
-     "summary": "本文来自微信公众号： 科技助老新范式 ，编辑：苏锦华，作者：周宇翔 凌晨三点，一名老人坐到床沿，准备起身去洗手间。 在传统养老机构里，只要老人没有主动按下呼叫器，这可能就是一段无人知晓的时间。护理员或许几分钟后巡房时才发现老人，也可能直到一声闷响传来，才知道一次跌倒已经发生。 Inspiren公司想做的，是把介入时间往前挪。它的设备识别离床、离椅等动作，把需要关注的情况推送给护理人员；如果跌倒已经发生，系统又会通知员工，留下可供复盘的记录。 就是这样一家扎进养老院里，关注“老人有没有从床上站起来”的公司，拿到了一张不小的支票。 2026年9月10日，Inspiren宣布完成7000万美元C轮融",
-     "source": "虎嗅",
-     "zh": "盯着老人“起身”，美国养老AI公司Inspiren融资7000万美元"
-    },
-    {
-     "title": "一半Token在造爽剧，77部才赚1部：AI爽剧，烧钱又烧心",
-     "link": "https://www.huxiu.com/article/4900334.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 14:17:18 +0800",
-     "summary": "一半的AI算力都在造爽剧，77部里才有1部能赚钱，剩下的token烧得连响都没听见",
-     "source": "虎嗅",
-     "zh": "一半Token在造爽剧，77部才赚1部：AI爽剧，烧钱又烧心"
     },
     {
      "title": "2025 年老年抚养比首次超过少儿抚养比",
@@ -2009,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "vivo Y600 is official with a 10,000mAh battery and 6.83-inch display",
+     "link": "https://www.gsmarena.com/vivo_y600_is_official_with_a_10000mah_battery_and_683inch_display-news-75202.php",
+     "pubDate": "Mon, 26 Oct 2026 08:00:01 +0100",
+     "summary": "The vivo Y600 is now available for pre-order in China, as promised, with open sales set to begin on October 30. The phone packs a massive 10,000mAh battery and has also earned a Guinness World Record for battery endurance. As per the Guinness World Records test, the phone lasted for 32 hours and 37 ",
+     "source": "GSMArena",
+     "zh": "vivo Y600 is official with a 10,000mAh battery and 6.83-inch display"
+    },
     {
      "title": "Samsung’s first clip-on Galaxy Buds launch tomorrow, and there’s good news for global buyers",
      "link": "https://www.androidauthority.com/samsung-galaxy-buds-on-launch-3727745/",
@@ -2240,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Oppo is working on faster launches for its new models in Europe – the Find X10 series launched in China a month ago and it arrived in Europe and in India earlier this week. Are you interested in one of the Find X10 phones? Did your answer remain the same after you saw the prices? If you haven’t alre",
      "source": "GSMArena",
      "zh": "Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?"
-    },
-    {
-     "title": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed",
-     "link": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php",
-     "pubDate": "Sun, 25 Oct 2026 03:33:02 +0100",
-     "summary": "Huawei officially confirmed the Pura 90 Plus earlier today and opened pre-orders for it in China ahead of its October 28 launch. The company hasn't revealed any specs yet, but units of the phone are already on display in its retail stores, and the live images that have started showing up online answ",
-     "source": "GSMArena",
-     "zh": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed"
     }
    ]
   },
@@ -2258,52 +2250,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "新迅达10月26日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907919753.html",
-     "pubDate": "Mon, 26 Oct 2026 14:51:41 +0800",
-     "summary": "以下是 新迅达 在北京时间10月26日14:51分盘口异动快照： 10月26日， 新迅达 盘中跌幅达5%，截至14点51分，报21.05元，成交7443.44万元，换手率1.74%。 分笔 14:51:36 21.05 22↓ 14:51:33 21.11 4↓ 14:51:30 21.12 24↑ 14:51:27 21.12 654↑ 14:51:24 21.12 66↓ 14:51:21 21.14 2↑ 14:51:18 21.14 100↑ 14:51:15 21.11 68↓ 14:51:09 21.16 5↑ 14:51:00 21.16 15↑ 报价 卖五 21.23 121 ",
+     "title": "沙特阿拉伯股指早盘上涨1.3%",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907923542.html",
+     "pubDate": "Mon, 26 Oct 2026 15:02:27 +0800",
+     "summary": "沙特阿拉伯股指早盘上涨1.3%。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "新迅达10月26日盘中跌幅达5%"
+     "zh": "沙特阿拉伯股指早盘上涨1.3%"
+    },
+    {
+     "title": "Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据",
+     "link": "https://wallstreetcn.com/articles/3784457",
+     "pubDate": "Mon, 26 Oct 2026 15:01:28 +0800",
+     "summary": "Anthropic旗下AI模型Claude在未获任何人工授权的情况下，自主访问了佐治亚州选民数据，并绕过付费墙获取相关信息。这一事件发生在美国中期选举前夕，再度引发外界对AI安全边界与人类控制能力的深切担忧。 据媒体10月25日报道，Claude在执行一项内部统计项目时，自主请求获得“通行证”（Access Token），进而查询了一个通常需付费才能访问的数据仪表盘，获取了佐治亚州的汇总选票计数数据。 Anthropic发言人确认，该模型绕过了付费墙，但强调其并未访问该州的选民登记系统，也未更改或提取任何选民个人记录。 Anthropic已在数周前通知佐治亚州州务卿办公室及白宫，但据报道，一位",
+     "source": "华尔街见闻",
+     "zh": "Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据"
+    },
+    {
+     "title": "ESG典型案例丨从车间能效到全球订单：海亮股份绿色智造的价值闭环",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907923687.html",
+     "pubDate": "Mon, 26 Oct 2026 15:01:24 +0800",
+     "summary": "从“清晨站在杭坞山上，根本看不见店口的屋顶”，到如今“空气中闻不到一丝异味”；从原来的“小 铜 炉”作坊变成一台三层楼高的 天然气 熔铸炉；从老工人“烟熏火燎”的劳作到车间里机械臂精准完成切割焊接，AGV无人搬运车沿设定路线穿梭……这一幕现代化生产场景正是位于浙江诸暨店口镇的 海亮股份 浙江 铜 管事业部盘管线车间。 这一场景的切换是 海亮股份 在ESG领域实践的一个小小缩影。回顾2025年ESG报告， 海亮股份 实现营业总收入833.10亿元，归母净利润9.43亿元，研发投入8.99亿元；国内 铜 管材 单位产品 综合 能耗降至142.94kgce/t，远低于国标1级指标；再生铜使用比例提升",
+     "source": "东方财富股票",
+     "zh": "ESG典型案例丨从车间能效到全球订单：海亮股份绿色智造的价值闭环"
+    },
+    {
+     "title": "A股三大指数涨跌不一 游戏、医药商业、白酒板块涨幅居前",
+     "link": "http://finance.eastmoney.com/news/1345,202610263907922657.html",
+     "pubDate": "Mon, 26 Oct 2026 15:00:15 +0800",
+     "summary": "A股三大指数今日涨跌不一，截止收盘，沪指涨0.19%，收报3697.52点；深证成指跌1.19%，收报11534.38点；创业板指跌1.71%，收报2638.23点。沪深京三市成交额1.62万亿，较上一交易日大幅缩量3500亿。 行业板块涨少跌多，游戏、医药商业、白酒板块涨幅居前，元件、贵金属、半导体、电子化学品、玻璃玻纤、地面兵装、稀土板块跌幅居前。 个股方面，上涨股票数量超过2200只，近60只股票涨停。机器人板块持续走强，赛福天、正裕工业、多伦科技、襄阳轴承3连板，万向钱潮、锋龙股份、永创智能2连板；数据要素概念股表现强势，海量数据、生意宝、延华智能涨停；消费板块表现活跃，桂发祥、青岛食",
+     "source": "东方财富股票",
+     "zh": "A股三大指数涨跌不一 游戏、医药商业、白酒板块涨幅居前"
+    },
+    {
+     "title": "中国量子计算企业向海外高校捐赠量子计算机机时",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907922894.html",
+     "pubDate": "Mon, 26 Oct 2026 14:59:20 +0800",
+     "summary": "记者26日从安徽省量子计算芯片重点实验室获悉，本源量子计算科技(合肥)股份有限公司(以下简称“本源量子”)已向巴基斯坦、英国、哈萨克斯坦的3所高校捐赠“本源悟空”自主超导量子 计算机 机时。 据本源量子营销总监汪波介绍，“本源悟空”自主超导量子 计算机 由本源量子研制，现已上线本源量子计算云平台，用户获取机时后可以通过该平台自主选用“本源悟空”系列超导量子 计算机 。目前，“本源悟空”系列量子计算设备已面向192个国家和地区提供云端量子算力服务，累计完成130万个量子计算任务。 资料图为本源量子多台量子计算机真机。 中新社发孙超摄 汪波表示，本次面向海外高校捐赠机时，旨在为海外青年科研人员与学",
+     "source": "东方财富股票",
+     "zh": "中国量子计算企业向海外高校捐赠量子计算机机时"
+    },
+    {
+     "title": "文远知行增资至50亿",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907923283.html",
+     "pubDate": "Mon, 26 Oct 2026 14:58:35 +0800",
+     "summary": "天眼查App显示，近日，广州 文远知行 科技有限公司发生工商变更，注册资本由45亿元人民币增至50亿元人民币，增幅约11%。该公司成立于2018年1月，法定代表人为韩旭，经营范围包括 人工智能 基础 软件开发 、 人工智能 应用 软件开发 、 人工智能 硬件销售等，由WeRideHongKongLimited全资持股。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "文远知行增资至50亿"
+    },
+    {
+     "title": "据半岛电视台：以色列国防部长称有关以色列政治领导层与军方在伊朗问题上存在分歧的报道毫无根据",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907922579.html",
+     "pubDate": "Mon, 26 Oct 2026 14:58:25 +0800",
+     "summary": "据半岛电视台：以色列国防部长称有关以色列政治领导层与军方在伊朗问题上存在分歧的报道毫无根据。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "据半岛电视台：以色列国防部长称有关以色列政治领导层与军方在伊朗问题上存在分歧的报道毫无根据"
+    },
+    {
+     "title": "知名基金经理调仓大曝光！李晓星：对AI产业长期发展保持乐观",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907921791.html",
+     "pubDate": "Mon, 26 Oct 2026 14:58:00 +0800",
+     "summary": "伴随着公募基金三季报陆续披露，一批知名基金经理投资思路“跃然纸上”。 三季度A股震荡走弱，科技成长板块经历大幅回撤，一些基金经理的操作呈现分化：有人逆市加仓，坚守AI算力、光 通信 与 国产芯片 主线；有人转向防御，增持 公用事业 、 煤炭 、医药；有人加仓 银行 、券商、保险等低估值资产。 AI产业趋势与估值拥挤度如何取舍、被错杀品种何时修复，成为三季报中最受关注的问题。 李晓星：对AI产业长期发展保持乐观 截至10月23日，银华基金业务副总经理李晓星自2015年7月管理银华中小盘精选以来，任职回报达294.93%，年化回报达12.92%。 银华中小盘精选聚焦科技成长股。三季报最新持仓显示，",
+     "source": "东方财富资讯",
+     "zh": "知名基金经理调仓大曝光！李晓星：对AI产业长期发展保持乐观"
     },
     {
      "title": "多只宽基ETF显著放量 A500ETF华泰柏瑞午后成交超60亿",
      "link": "http://finance.eastmoney.com/news/1345,202610263907919851.html",
      "pubDate": "Mon, 26 Oct 2026 14:51:23 +0800",
      "summary": "午后多只宽基ETF显著放量，A500ETF华泰柏瑞（563360）、沪深300ETF易方达（510310）午后成交超60亿，沪深300ETF华夏（510330）午后成交近30亿。 （文章来源：财联社）",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "多只宽基ETF显著放量 A500ETF华泰柏瑞午后成交超60亿"
-    },
-    {
-     "title": "10月26日第四代半导体板块跌幅达4%",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907919469.html",
-     "pubDate": "Mon, 26 Oct 2026 14:50:57 +0800",
-     "summary": "&emsp;&emsp;10月26日14点50分，第四代 半导体 板块指数报1938.013点，跌幅达4%，成交11.90亿元，换手率0.66%。 &emsp;&emsp;板块个股中，跌幅最大的前4个股为： 东微半导 报57.76元，跌6.81%； 蓝晓科技 报63.08元，跌4.78%； 南大光电 报40.40元，跌3.83%； 衢州发展 报2.72元，跌0.73%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月26日第四代半导体板块跌幅达4%"
-    },
-    {
-     "title": "皓元医药等在重庆成立私募股权投资基金",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907919693.html",
-     "pubDate": "Mon, 26 Oct 2026 14:50:30 +0800",
-     "summary": "企查查APP显示，近日，重庆渝渡生科领航私募股权投资基金合伙企业（有限合伙）成立，出资额3亿元，经营范围包括以私募基金从事股权投资。企查查股权穿透显示，该合伙企业由 皓元医药 全资子公司 皓元医药 投资（海南）有限公司、重庆产业投资母基金合伙企业（有限合伙）等共同出资。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "皓元医药等在重庆成立私募股权投资基金"
-    },
-    {
-     "title": "金溢科技10月26日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202610263907919177.html",
-     "pubDate": "Mon, 26 Oct 2026 14:50:24 +0800",
-     "summary": "以下是 金溢科技 在北京时间10月26日14:50分盘口异动快照： 10月26日14点50分， 金溢科技 盘中打开涨停，现报19.63元，成交2.34亿元，换手率7.84%。该股之前于13点57分涨停。 分笔 14:50:18 19.63 6528↓ 14:50:15 20.04 35↓ 14:50:12 20.04 12↓ 14:50:09 20.04 25↓ 14:50:06 20.04 10↓ 14:50:03 20.04 308↓ 14:50:00 20.04 248↓ 14:49:57 20.04 27↓ 14:49:54 20.04 150↓ 14:49:51 20.04 1↓ 报",
-     "source": "东方财富股票",
-     "zh": "金溢科技10月26日打开涨停"
-    },
-    {
-     "title": "通用设备板块震荡走弱 冰山冷热尾盘跌停",
-     "link": "http://stock.eastmoney.com/news/11215,202610263907919539.html",
-     "pubDate": "Mon, 26 Oct 2026 14:49:42 +0800",
-     "summary": "通用设备 板块震荡走弱， 冰山冷热 尾盘跌停， 同飞股份 、 优利德 、 华锐精密 跌超10%， 哈空调 、 鼎泰高科 、 雪人集团 等跟跌。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "通用设备板块震荡走弱 冰山冷热尾盘跌停"
     },
     {
      "title": "伟伟道来 | 还剩8天，美伊都在准备选后开战",
@@ -2394,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic posts $8B operating loss in 2025 as accounting charges drive net loss to $42B"
     },
     {
-     "title": "宇树科技股价重回700元 本月累计涨幅超56% 总市值突破2850亿",
-     "link": "http://finance.eastmoney.com/news/1345,202610263907876018.html",
-     "pubDate": "Mon, 26 Oct 2026 13:41:56 +0800",
-     "summary": "宇树科技股价重回700元，本月累计涨幅超56%，总市值突破2850亿元。 消息面上，在2026世界物理AI大会暨宇树合作伙伴生态大会上，宇树科技创始人王兴兴表示全世界几乎所有人，对AI的重视程度和信仰都还不够，包括他自己。 随着GPT-6的发布，目前物理AI已经看到被击穿的苗头，很可能最近1-2年或2-3年，目前具身智能迈过ChatGPT时刻的最核心挑战是AI模型的输入输出和真实 机器人 的对齐。 他认为，在商业服务的落地会比家庭、工业领域更快些。",
-     "source": "东方财富资讯",
-     "zh": "宇树科技股价重回700元 本月累计涨幅超56% 总市值突破2850亿"
-    },
-    {
      "title": "极兔速递陈学清：最好的产品、最好的服务就是最好的营销",
      "link": "http://www.eeo.com.cn/2026/1026/1075812.shtml",
      "pubDate": "Mon, 26 Oct 2026 13:38:39 +0800",
@@ -2416,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Quant snapshot: HF Sinclair, Intel lead top-rated names; Community Financial System, AXIS Capital Holdings lag"
-    },
-    {
-     "title": "段永平重仓泡泡玛特浮亏超18亿港元 仍表示“会再买一些”",
-     "link": "http://finance.eastmoney.com/news/1354,202610263907862490.html",
-     "pubDate": "Mon, 26 Oct 2026 13:27:18 +0800",
-     "summary": "近日， 泡泡玛特 （09992.HK）股价持续调整，令知名投资人段永平的百亿港元级持仓波动受到市场关注。 截至10月26日上午收盘，公司报131.9港元/股，股价上涨了0.15%。尽管当日上午股价小幅上涨，但按照市场估算的持仓成本计算，段永平的账面仍出现一定浮亏。 界面新闻了解到，截至目前，段永平通过旗下投资主体H&H International Investment, LLC持有 泡泡玛特 约1.02亿股，持股比例为8.01%，成为仅次于创始人王宁的公司第二大股东。 市场普遍测算，其整体持仓成本中枢约为150港元/股，累计投入资金规模超百亿港元。界面新闻照此计算，段永平持有 泡泡玛特 的账面",
-     "source": "东方财富资讯",
-     "zh": "段永平重仓泡泡玛特浮亏超18亿港元 仍表示“会再买一些”"
     },
     {
      "title": "‘Ticking time bomb’: The world&apos;s pension funds face an ageing crisis",
@@ -2488,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
      "source": "CNBC",
      "zh": "SoftBank reportedly plans $50 billion tech investment in aspiring &apos;AI nation&apos; Malaysia"
-    },
-    {
-     "title": "GOAT Industries to acquire Epoxy AI customer contract revenues in C$2.8M share deal",
-     "link": "https://seekingalpha.com/news/4657019-goat-industries-to-acquire-epoxy-ai-customer-contract-revenues-in-c28m-share-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 00:48:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GOAT Industries to acquire Epoxy AI customer contract revenues in C$2.8M share deal"
     }
    ]
   },

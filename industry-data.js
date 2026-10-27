@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/28 07:03:03",
+ "generated_at": "2026/10/28 07:19:14",
  "recent_days": 7,
  "industries": [
   {
@@ -13,7 +13,7 @@ window.INDUSTRY_DATA = {
      "title": "The data center boom has an upside: innovation for the US grid",
      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
      "pubDate": "Tue, 27 Oct 2026 22:55:41 +0000",
-     "summary": "As the AI boom stresses the existing power grid, all sort of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+     "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
      "source": "TechCrunch AI",
      "zh": "The data center boom has an upside: innovation for the US grid"
     },
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies",
+     "link": "https://www.eetimes.com/transitioning-legacy-aircraft-power-architectures-to-high-density-switching-supplies/",
+     "pubDate": "Tue, 27 Oct 2026 23:00:00 +0000",
+     "summary": "High-density switching supplies help modernize legacy aircraft power systems while addressing obsolescence, efficiency, integration, and compliance challenges. The post Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies"
+    },
+    {
      "title": "SemiQ makes available Gen4 1200V and 750V SiC MOSFETs",
      "link": "https://semiconductor-today.com/news_items/2026/oct/semiq-271026.shtml",
      "pubDate": "Tue, 27 Oct 2026 20:56:04 GMT",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "From lighter wiring to automated assembly, 48V architectures are reshaping vehicle connectivity and laying the groundwork for next generation mobility. The post Framing the Shift to 48V appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Framing the Shift to 48V"
-    },
-    {
-     "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
-     "link": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/",
-     "pubDate": "Mon, 26 Oct 2026 13:00:00 +0000",
-     "summary": "As AI pushes chip packages beyond traditional wafer limits, panel-level processing is emerging as a critical path to scale advanced packaging. The post The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum"
     }
    ]
   },
@@ -650,12 +650,12 @@ window.INDUSTRY_DATA = {
      "zh": "Renewables to reach 40% of total generating capacity, beat gas within a year – EIA"
     },
     {
-     "title": "'A Weird Religious Stance:' GM Won't Be Going Camera-Only For Self-Driving Cars",
+     "title": "'A Weird Religious Stance:' GM Exec Says Ditching Radar For Self-Driving 'Ignores Physics'",
      "link": "https://insideevs.com/news/813467/gm-autonomous-lidar-tesla-criticism/",
      "pubDate": "Tue, 27 Oct 2026 22:08:26 +0000",
      "summary": "Tesla is famous for its camera-only approach to autonomous driving. GM's chief product officer thinks deleting radar \"ignores physics.\"",
      "source": "InsideEVs",
-     "zh": "'A Weird Religious Stance:' GM Won't Be Going Camera-Only For Self-Driving Cars"
+     "zh": "'A Weird Religious Stance:' GM Exec Says Ditching Radar For Self-Driving 'Ignores Physics'"
     },
     {
      "title": "CATL signs deal with Germany's Intilion to deploy 3 GWh of sodium-ion storage over 5 years",
@@ -698,12 +698,12 @@ window.INDUSTRY_DATA = {
      "zh": "Re:Build, which spun out Slate Auto, raises $2.1B"
     },
     {
-     "title": "Tesla's Cybercab Fixes A Big Repairability Problem With Its Structural Batteries",
+     "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That",
      "link": "https://insideevs.com/news/813446/tesla-cybercab-battery-pack-modules-model-y-structural/",
      "pubDate": "Tue, 27 Oct 2026 20:30:45 +0000",
      "summary": "Tesla gave the Model Y's structural battery pack a \"D\" grade. It says the Cybercab's pack is easier to make and more repairable.",
      "source": "InsideEVs",
-     "zh": "Tesla's Cybercab Fixes A Big Repairability Problem With Its Structural Batteries"
+     "zh": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That"
     },
     {
      "title": "Volkswagen’s EV recall spreads to Audi, and owners are told to stop at 80% charge",
@@ -834,6 +834,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Americans Hit Hardest by War-Driven Oil Price Surge",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Americans-Hit-Hardest-by-War-Driven-Oil-Price-Surge.html",
+     "pubDate": "Tue, 27 Oct 2026 18:00:00 -0500",
+     "summary": "Americans are paying the biggest portion of global energy price inflation resulting from the war in the Middle East, a Finnish energy and climate outlet has reported. Estimating the global total in fuel inflation at $468 billion, the Centre for Research on Energy and Clean Air said the U.S. portion ",
+     "source": "OilPrice",
+     "zh": "Americans Hit Hardest by War-Driven Oil Price Surge"
+    },
+    {
      "title": "Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
      "link": "https://oilprice.com/Energy/Energy-General/Will-Rubios-Jamnagar-Move-Permanently-Break-The-Russia-India-Oil-Axis.html",
      "pubDate": "Tue, 27 Oct 2026 17:00:00 -0500",
@@ -880,14 +888,6 @@ window.INDUSTRY_DATA = {
      "summary": "The diesel crunch is set to persist well into 2027 as supply remains limited by the Middle East conflict and the damaged Russian refineries, analysts say. Attempts at transient small supply-side solutions like the Trump-Putin diesel deal are not expected to move the needle in the very tight global m",
      "source": "OilPrice",
      "zh": "The Diesel Crisis Is Here To Stay"
-    },
-    {
-     "title": "Russia’s Crude Exports Set to Fall as Diesel Production Rises",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Crude-Exports-Set-to-Fall-as-Diesel-Production-Rises.html",
-     "pubDate": "Tue, 27 Oct 2026 13:30:00 -0500",
-     "summary": "Russia's crude exports from its western ports could fall by as much as 200,000 barrels per day in November as refiners increase diesel production under Moscow's new agreement with Washington, according to preliminary loading schedules cited by Reuters on Tuesday. Two traders expect shipments from Ru",
-     "source": "OilPrice",
-     "zh": "Russia’s Crude Exports Set to Fall as Diesel Production Rises"
     },
     {
      "title": "World’s Largest Electric Ferry Enters Service In Buenos Aires",
@@ -1738,6 +1738,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "贵约 16%：苹果 14 英寸 OLED 触控屏 MacBook Pro 起售价曝光",
+     "link": "https://www.ithome.com/1/018/713.htm",
+     "pubDate": "Tue, 27 Oct 2026 23:16:09 GMT",
+     "summary": "IT之家 10 月 28 日消息，彭博社昨日（10 月 27 日）发布博文，报道称在 14 英寸 OLED 触控屏 MacBook Pro 起售价上，相比较现款 M5 Pro 机型高出 400 美元 （IT之家注：现汇率约合 2,674 元人民币） ，苹果公司可能会定价 2,899 美元 （现汇率约合 19,376 元人民币） ，贵出 16.01%。 IT之家注：苹果 M5 Pro 芯片的 14 英寸 MacBook Pro 国行起售价为人民币 17,999 元，对应 24GB 统一内存、1TB 固态硬盘的基础配置，教育优惠起售价为 16,799 元。 如果按照 16.01% 增幅计算，14 ",
+     "source": "IT之家",
+     "zh": "贵约 16%：苹果 14 英寸 OLED 触控屏 MacBook Pro 起售价曝光"
+    },
+    {
+     "title": "纯电需求不及预期，通用调转方向发力混动车型",
+     "link": "https://www.ithome.com/1/018/712.htm",
+     "pubDate": "Tue, 27 Oct 2026 23:14:45 GMT",
+     "summary": "IT之家 10 月 28 日消息，通用汽车计划向兰辛德尔塔镇总装工厂投入资金，用于未来生产混动汽车，这是这家美国车企为迎合不断变化的消费者偏好、夺回市场份额采取的最新举措。 该公司于当地时间周二表示，计划在未来数年内向整个兰辛地区投入超过 20 亿美元 （IT之家注：现汇率约合 133.68 亿元人民币） ，其中包含 12.5 亿美元 （现汇率约合 83.55 亿元人民币） ，用于对这座总装工厂进行改造，为“新车生产”做好准备。 通用汽车称，正在和美国能源部协商调整此前获批的本土制造转型补贴，将这笔资金调配至兰辛工厂的混动车型生产项目。在拜登政府时期，通用汽车曾获得 5 亿美元 （现汇率约合 ",
+     "source": "IT之家",
+     "zh": "纯电需求不及预期，通用调转方向发力混动车型"
+    },
+    {
+     "title": "谷歌推出最强世界模型 Genie 4：一句话创造可交互虚拟世界，首次实现音视频同步生成",
+     "link": "https://www.ithome.com/1/018/711.htm",
+     "pubDate": "Tue, 27 Oct 2026 23:04:49 GMT",
+     "summary": "IT之家 10 月 28 日消息，谷歌 DeepMind 于周二推出了最新的世界模型 Genie 4，目前处于研究预览阶段。这款最新模型能够生成迄今为止拟真度最高、可交互的虚拟世界，用户可以在模拟运行的过程中输入提示词来修改场景。该模型还能生成和虚拟世界同步的实时音频，涵盖音乐、环境音以及可交互对话。 IT之家注意到，就在 Genie 4 发布的数月之前，AI 视频初创公司 Runway 推出了自家第二款世界模型 GWM Worlds 2，这是一款可交互运行的模型，能够对用户输入做出动态响应，同时支持音频生成。与此同时，世界模型赛道开始出现整合趋势。李飞飞（Fei-Fei Li）创立的世界实验",
+     "source": "IT之家",
+     "zh": "谷歌推出最强世界模型 Genie 4：一句话创造可交互虚拟世界，首次实现音视频同步生成"
+    },
+    {
      "title": "国产凶猛创历史：2026Q3 中国车在欧洲季度销量首超日本",
      "link": "https://www.ithome.com/1/018/710.htm",
      "pubDate": "Tue, 27 Oct 2026 22:45:55 GMT",
@@ -1757,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
      "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
      "pubDate": "Tue, 27 Oct 2026 22:31:15 +0000",
-     "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 7 # Comments: 4",
      "source": "Hacker News",
      "zh": "Reviewers rarely talk about reliability. Owners bring it up twice as often"
     },
@@ -1853,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "One year of Dioxus fullstack in production: the good, the painful",
      "link": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
      "pubDate": "Tue, 27 Oct 2026 21:19:15 +0000",
-     "summary": "Article URL: https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful Comments URL: https://news.ycombinator.com/item?id=50265960 Points: 15 # Comments: 8",
+     "summary": "Article URL: https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful Comments URL: https://news.ycombinator.com/item?id=50265960 Points: 16 # Comments: 8",
      "source": "Hacker News",
      "zh": "One year of Dioxus fullstack in production: the good, the painful"
     },
@@ -1861,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Early progress on accelerating drug development with Claude",
      "link": "https://www.anthropic.com/research/early-progress-drug-development",
      "pubDate": "Tue, 27 Oct 2026 20:50:42 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 63 # Comments: 51",
+     "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 70 # Comments: 54",
      "source": "Hacker News",
      "zh": "Early progress on accelerating drug development with Claude"
     },
@@ -1869,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
      "pubDate": "Tue, 27 Oct 2026 20:48:49 +0000",
-     "summary": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 45 # Comments: 13",
+     "summary": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 54 # Comments: 15",
      "source": "Hacker News",
      "zh": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees"
     },
@@ -1885,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Hex Raises $100M",
      "link": "https://hex.tech/blog/hex-new-era/",
      "pubDate": "Tue, 27 Oct 2026 20:36:38 +0000",
-     "summary": "Article URL: https://hex.tech/blog/hex-new-era/ Comments URL: https://news.ycombinator.com/item?id=50265413 Points: 18 # Comments: 7",
+     "summary": "Article URL: https://hex.tech/blog/hex-new-era/ Comments URL: https://news.ycombinator.com/item?id=50265413 Points: 19 # Comments: 9",
      "source": "Hacker News",
      "zh": "Hex Raises $100M"
     },
@@ -1914,36 +1938,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026 (Bloomberg)"
     },
     {
-     "title": "希捷 2027 财年第一财季归母净利润 17.61 亿美元，同比增长 220.77%",
-     "link": "https://www.ithome.com/1/018/706.htm",
-     "pubDate": "Tue, 27 Oct 2026 20:16:17 GMT",
-     "summary": "IT之家 10 月 28 日消息，希捷今日发布 2027 财年（2026 年 7 月 4 日～2027 年 7 月 2 日）第一财季（2026 年 7 月 3 日～2026 年 10 月 2 日）报告： 营业总收入 ：42.33 亿美元 （IT之家注：现汇率约合 282.92 亿元人民币） ，同比增长 61.01% 毛利润 ：24.27 亿美元 （现汇率约合 162.21 亿元人民币） ，同比增长 134.04% 毛利率 ：57.3%，同比增长 17.9 个百分点 归母净利润 ：17.61 亿美元 （现汇率约合 117.7 亿元人民币） ，同比增长 220.77% 经营现金流 ：16.9 亿美",
-     "source": "IT之家",
-     "zh": "希捷 2027 财年第一财季归母净利润 17.61 亿美元，同比增长 220.77%"
-    },
-    {
      "title": "Four Months of Zig",
      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
      "pubDate": "Tue, 27 Oct 2026 20:13:27 +0000",
-     "summary": "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 40 # Comments: 15",
+     "summary": "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 43 # Comments: 17",
      "source": "Hacker News",
      "zh": "Four Months of Zig"
-    },
-    {
-     "title": "罗技 2027 财年半年报归母净利润 4.16 亿美元，同比增长 31.28%",
-     "link": "https://www.ithome.com/1/018/705.htm",
-     "pubDate": "Tue, 27 Oct 2026 20:12:21 GMT",
-     "summary": "IT之家 10 月 28 日消息，罗技今日发布 2027 财年（2026 年 4 月 1 日～2027 年 3 月 31 日）半年报（2026 年 4 月 1 日～2026 年 9 月 30 日）及第二财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告： 2027 财年半年报 营业总收入 ：24.46 亿美元 （IT之家注：现汇率约合 163.49 亿元人民币） ，同比增长 5% 毛利润 ：11.55 亿美元 （现汇率约合 77.2 亿元人民币） ，同比增长 16.26% 毛利率 ：47.2% 归母净利润 ：4.16 亿美元 （现汇率约合 27.79 亿元人民币） ，同比",
-     "source": "IT之家",
-     "zh": "罗技 2027 财年半年报归母净利润 4.16 亿美元，同比增长 31.28%"
-    },
-    {
-     "title": "Visa 2026 财年年报归母净利润 235.04 亿美元，同比增长 17%",
-     "link": "https://www.ithome.com/1/018/704.htm",
-     "pubDate": "Tue, 27 Oct 2026 20:09:15 GMT",
-     "summary": "IT之家 10 月 28 日消息，Visa今日发布 2026 财年（2025 年 10 月 1 日～2026 年 9 月 30 日）年报及第四财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告： 2026 财年年报 营业总收入 ：459.03 亿美元 （IT之家注：现汇率约合 3068.04 亿元人民币） ，同比增长 15% 毛利润 ：281.1 亿美元 （现汇率约合 1878.8 亿元人民币） ，同比增长 17.15% 毛利率 ：61.24%，同比增长 1.25 个百分点 归母净利润 ：235.04 亿美元 （现汇率约合 1570.95 亿元人民币） ，同比增长 17%",
-     "source": "IT之家",
-     "zh": "Visa 2026 财年年报归母净利润 235.04 亿美元，同比增长 17%"
     },
     {
      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
@@ -1985,6 +1985,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+     "link": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+     "pubDate": "Tue, 27 Oct 2026 23:04:49 +0000",
+     "summary": "The platform's Discoverable Servers are about to get a lot more discoverable.",
+     "source": "Engadget",
+     "zh": "Discord public server messages may be soon searchable on Google, but you can opt out"
+    },
     {
      "title": "How to change and customize your Android Auto display",
      "link": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
@@ -2090,14 +2098,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google’s working on a new look for Gemini Live, and we have a sneak peek for you"
     },
     {
-     "title": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
-     "link": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
-     "pubDate": "Tue, 27 Oct 2026 21:13:59 +0000",
-     "summary": "You can use the AI assistant to update calendar events and search your inbox, among other things.",
-     "source": "Engadget",
-     "zh": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support"
-    },
-    {
      "title": "Motorola Signature 27 and Razr Flex show up at a European retailer with prices",
      "link": "https://www.gsmarena.com/motorola_signature_27_and_razr_flex_show_up_at_a_european_retailer_with_prices-news-75226.php",
      "pubDate": "Tue, 27 Oct 2026 22:09:02 +0100",
@@ -2170,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple finally gives users a reason to subscribe to Final Cut Pro instead of buying it"
     },
     {
-     "title": "Rockstar workers in the UK will hold a union vote just as GTA 6 is released",
-     "link": "https://www.engadget.com/2298907/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release/",
-     "pubDate": "Tue, 27 Oct 2026 19:55:04 +0000",
-     "summary": "A legal case alleging union-busting at the game developer will also wrap next month.",
-     "source": "Engadget",
-     "zh": "Rockstar workers in the UK will hold a union vote just as GTA 6 is released"
-    },
-    {
      "title": "WhatsApp is bringing its media hub to iPhones",
      "link": "https://www.gsmarena.com/whatsapp_is_bringing_its_media_hub_to_iphones-news-75235.php",
      "pubDate": "Tue, 27 Oct 2026 20:47:02 +0100",
@@ -2224,6 +2216,14 @@ window.INDUSTRY_DATA = {
      "summary": "When Android Auto first debuted, it didn’t require a fancy display in your car. It just worked on your phone screen and, now, someone is bringing that functionality back after Google killed it. more…",
      "source": "9to5Google",
      "zh": "Someone is bringing Android Auto back to your phone’s screen, and it actually works [Gallery]"
+    },
+    {
+     "title": "vivo X500 Pro in for review",
+     "link": "https://www.gsmarena.com/vivo_x500_pro_in_for_review-news-75209.php",
+     "pubDate": "Tue, 27 Oct 2026 18:11:02 +0100",
+     "summary": "The vivo X500 series only just became global, and we've got the X500 Pro, and X500 Pro Max in the office, alongside the X500, which is not coming to Europe for now. The series is oddly lopsided, with the Pro Max towering over the Pro with a 6.85-inch display, and the X500 sitting in the middle with ",
+     "source": "GSMArena",
+     "zh": "vivo X500 Pro in for review"
     }
    ]
   },
@@ -2234,12 +2234,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Meta 250亿美元股票发行获5倍超额认购，超半数分配给长期投资者及现有股东",
+     "link": "https://wallstreetcn.com/articles/3784618",
+     "pubDate": "Wed, 28 Oct 2026 07:14:11 +0800",
+     "summary": "Meta Platforms 创纪录规模的股权融资计划获得机构投资者积极响应，彰显资本市场对其人工智能战略的高度信心。 据彭博援引知情人士透露， Meta 扩大规模后的250亿美元普通股发行吸引了约五倍于供应量的认购需求，超过一半股份被分配给长期持有型投资者及现有股东。 此次发行定价每股625美元，较发行公告前上周五收盘价折让2.7%，但折价发行仍对股价形成短期压力。周二Meta收跌1.64%，报620美元， 已经跌破发行价。 此次250亿美元普通股发行是 Meta总规模达980亿美元股权融资计划 的组成部分，若顺利完成，将跻身史上最大规模股权融资计划之列。公司明确表示，所有募集资金将用于人工",
+     "source": "华尔街见闻",
+     "zh": "Meta 250亿美元股票发行获5倍超额认购，超半数分配给长期投资者及现有股东"
+    },
+    {
+     "title": "比特币为何涨不动了？8.7万以上存在大量卖盘，与美股相关性提升难以独涨",
+     "link": "https://wallstreetcn.com/articles/3784611",
+     "pubDate": "Wed, 28 Oct 2026 07:13:16 +0800",
+     "summary": "比特币今年夏季的反弹势头正在消退。在触及87,000美元高点后，目前已回落至80,000美元附近，通往100,000美元的道路上积聚着大量潜在卖盘。 据预测市场Polymarket的数据， 市场认为比特币年内触及100,000美元的概率仅为17%，突破110,000美元的概率更低至9%。 Glassnode分析师指出，87,000美元以上的套牢盘阻碍价格上涨。每当遭遇上述抛压后，比特币价格随后往往出现25%乃至更大幅度的回落。 宏观因素同样不可忽视。通胀数据以及围绕伊朗局势的地缘政治均对比特币价格形成扰动。 10月中旬，比特币与美股的相关性升至5月底以来最高水平，显示出这一资产对全球宏观市场波",
+     "source": "华尔街见闻",
+     "zh": "比特币为何涨不动了？8.7万以上存在大量卖盘，与美股相关性提升难以独涨"
+    },
+    {
+     "title": "Chart: Anthropic&apos;s cash pile towers over nearly every U.S. company",
+     "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+     "pubDate": "Tue, 27 Oct 2026 23:03:09 GMT",
+     "summary": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+     "source": "CNBC",
+     "zh": "Chart: Anthropic&apos;s cash pile towers over nearly every U.S. company"
+    },
+    {
      "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
      "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-     "pubDate": "Tue, 27 Oct 2026 22:59:39 GMT",
+     "pubDate": "Tue, 27 Oct 2026 23:02:41 GMT",
      "summary": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
      "source": "CNBC",
      "zh": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports"
+    },
+    {
+     "title": "Gerdau outlines Brazil competitiveness plan ahead of Investor Day, sees ~BRL 400M Miguel Burnier benefit in 2027",
+     "link": "https://seekingalpha.com/news/4658548-gerdau-outlines-brazil-competitiveness-plan-ahead-of-investor-day-sees-brl-400m-miguel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 19:02:29 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gerdau outlines Brazil competitiveness plan ahead of Investor Day, sees ~BRL 400M Miguel Burnier benefit in 2027"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年10月28日",
+     "link": "https://wallstreetcn.com/articles/3784617",
+     "pubDate": "Wed, 28 Oct 2026 07:02:01 +0800",
+     "summary": "华见早安之声 要闻精选 中国9月规模以上工业企业利润 同比增长14.4%， 为6月以来最强 ，出厂价格涨幅创2022年以来最快。 2026胡润百富榜 ： 梁文锋 首次上榜位列第七，财富2800亿元 ， 王兴兴 上榜。 泡泡玛特 Q3整体收益同比下降45%-50% ，美洲最深降75%，海外市场全面承压。 电话会 ： 全年正增长“没有太大压力”但毛利率承压，9月底库存明显下降 ，海外回归“慢生意”。 以色列 议会选举出口民调显示， 内塔尼亚胡阵营未能取得议会多数席位，组阁前景增添变数。 博索纳罗 “流亡”？巴西最高法院下令调查竞选海外资助 ，涉万斯关联团体。 胡塞武装 首次袭击沙特最大石油出口终端",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年10月28日"
+    },
+    {
+     "title": "Pricesmart outlines path to 63 clubs as Chile entry targets spring 2027 opening",
+     "link": "https://seekingalpha.com/news/4658547-pricesmart-outlines-path-to-63-clubs-as-chile-entry-targets-spring-2027-opening?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 19:01:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pricesmart outlines path to 63 clubs as Chile entry targets spring 2027 opening"
+    },
+    {
+     "title": "Pulmonx reiterates $90M-$92M 2026 revenue outlook while guiding to $108M-$109M operating expenses",
+     "link": "https://seekingalpha.com/news/4658546-pulmonx-reiterates-90m-92m-2026-revenue-outlook-while-guiding-to-108m-109m-operating-expenses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 19:01:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pulmonx reiterates $90M-$92M 2026 revenue outlook while guiding to $108M-$109M operating expenses"
     },
     {
      "title": "Gas driller EQT pushing into LNG with two huge tankers, exec tells Bloomberg",
@@ -2250,68 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "Gas driller EQT pushing into LNG with two huge tankers, exec tells Bloomberg"
     },
     {
-     "title": "掺硅氧化铝镓薄膜导电带隙刷新纪录",
-     "link": "http://finance.eastmoney.com/news/1351,202610283910678592.html",
-     "pubDate": "Wed, 28 Oct 2026 06:52:02 +0800",
-     "summary": "更宽带隙的 半导体 ，能让 电子 产品更小、更高效，也能承受更高电压。但带隙越宽，材料导电性就越难控制。美国康奈尔大学领导的研究团队证明，在氧化 铝 镓薄膜中掺入硅，可在比以往任何 半导体 带隙都宽的情况下，依然保持稳定的导电调控能力。相关论文发表于新一期《自然》杂志。 半导体 中有两个关键能量区间：较低的“价带”和较高的“导带”。 电子 在价带中被原子牢牢束缚，无法导电；一旦获得足够能量跃入导带，就能自由移动并传导电流。 电子 实现这种跃迁并使半导体在绝缘和导电状态之间切换所需的能量，即为“带隙”。 带隙越宽，材料越能承受强电场。 氮化镓 、 碳化硅 等宽带隙半导体，已广泛用于快充充电器、电",
-     "source": "东方财富股票",
-     "zh": "掺硅氧化铝镓薄膜导电带隙刷新纪录"
-    },
-    {
-     "title": "英国财政大臣将公布预算案 为英国和工党争取喘息空间",
-     "link": "http://finance.eastmoney.com/news/1351,202610283910678366.html",
-     "pubDate": "Wed, 28 Oct 2026 06:51:31 +0800",
-     "summary": "英国财政大臣将公布预算案，为英国和工党争取喘息空间。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "英国财政大臣将公布预算案 为英国和工党争取喘息空间"
-    },
-    {
-     "title": "规模最大、最详细的早期宇宙模拟系统创建",
-     "link": "http://finance.eastmoney.com/news/1351,202610283910678459.html",
-     "pubDate": "Wed, 28 Oct 2026 06:51:09 +0800",
-     "summary": "美国哈佛-史密森天体物理中心的科学家创建了迄今规模最大、最详细的早期宇宙模拟系统——Lumina。该系统重现了宇宙诞生后最初20亿年间普通物质、暗物质与辐射的相互作用，为检验宇宙大爆炸后的演化理论提供了新工具。相关成果25日发表于《皇家天文学会月刊》。 Lumina是迄今规模最大的宇宙学辐射流体动力学模拟项目。这类模拟能够追踪气体、暗物质和光之间的相互作用，帮助科学家研究恒星、星系等宇宙结构的形成与演化。通过将模拟结果与詹姆斯·韦布空间望远镜、南希·格雷斯·罗曼空间望远镜等设备的观测数据进行比较，科学家可以检验现有理论能否准确解释早期宇宙的演化，并从模拟与观测之间的差异中寻找新的发现。 与此前",
-     "source": "东方财富股票",
-     "zh": "规模最大、最详细的早期宇宙模拟系统创建"
-    },
-    {
      "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
      "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
      "pubDate": "Tue, 27 Oct 2026 22:51:00 GMT",
      "summary": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
      "source": "MarketWatch",
      "zh": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market"
-    },
-    {
-     "title": "Chart: Anthropic&apos;s cash pile towers over nearly every U.S. company",
-     "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-     "pubDate": "Tue, 27 Oct 2026 22:49:23 GMT",
-     "summary": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
-     "source": "CNBC",
-     "zh": "Chart: Anthropic&apos;s cash pile towers over nearly every U.S. company"
-    },
-    {
-     "title": "英国财政大臣希利计划恢复现金个人储蓄账户（Cash ISA）限额削减措施",
-     "link": "http://finance.eastmoney.com/news/1351,202610283910677940.html",
-     "pubDate": "Wed, 28 Oct 2026 06:45:30 +0800",
-     "summary": "英国财政大臣希利计划恢复现金个人储蓄账户（Cash ISA）限额削减措施。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "英国财政大臣希利计划恢复现金个人储蓄账户（Cash ISA）限额削减措施"
-    },
-    {
-     "title": "超声电子前三季度归母净利润同比增97.52%",
-     "link": "http://stock.eastmoney.com/news/11215,202610283910677838.html",
-     "pubDate": "Wed, 28 Oct 2026 06:44:49 +0800",
-     "summary": "10月27日盘后，广东汕头 超声电子 股份有限公司（简称“ 超声电子 ”，000823.SZ）发布2026年第三季度报告。数据显示，前三季度，公司实现营业收入53.85亿元，同比增长15.21%；实现归属于上市公司股东的净利润3.52亿元，同比增长97.52%。 公开信息显示， 超声电子 主要从事印制线路板、液晶显示器及触摸屏、覆 铜 板及半固化片、超声 电子 仪器的研制、生产和销售，长期深耕于四大产品领域。 数据显示，第三季度，公司实现营业收入20.34亿元，同比增长24.88%。营业成本方面，超声 电子 前三季度营业成本为43.37亿元，同比增长12.32%，增速低于营业收入增速。 利润方",
-     "source": "东方财富股票",
-     "zh": "超声电子前三季度归母净利润同比增97.52%"
-    },
-    {
-     "title": "思瑞浦前三季度营收同比增长75.87% 净利润同比增长384.33%",
-     "link": "http://stock.eastmoney.com/news/11134,202610283910677787.html",
-     "pubDate": "Wed, 28 Oct 2026 06:44:12 +0800",
-     "summary": "10月27日晚， 思瑞浦 （688536.SH）发布2026年第三季度报告。受益于下游市场业务拓展，公司第三季度营收同比增长86.77%；归属于上市公司股东的净利润同比增长401.54%，单季度营收、净利润均创 历史新高 。前三季度公司营收26.92亿元，同比增长75.87%；归属于上市公司股东的净利润为6.1亿元，同比增长384.33%。 公告显示，营收增长主要得益于光模块、 汽车 、工业等下游市场业务持续拓展，订单与交货规模稳步提升。从 思瑞浦 两大业务板块来看，前三季度信号链芯片产品实现收入18.52亿元，同比增长82.99%；电源管理芯片产品实现收入8.38亿元，同比增长61.93%；",
-     "source": "东方财富股票",
-     "zh": "思瑞浦前三季度营收同比增长75.87% 净利润同比增长384.33%"
     },
     {
      "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
@@ -2338,28 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sherwin-Williams narrows 2026 adjusted EPS to $11.85-$12.15 and expects $75M of 2027 cost savings amid “softer for longer” demand"
     },
     {
-     "title": "Lockheed Martin wins $13.26M contract boost for F135 engine upgrades",
-     "link": "https://seekingalpha.com/news/4658541-lockheed-martin-wins-1326m-contract-boost-for-f135-engine-upgrades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 18:22:53 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lockheed Martin wins $13.26M contract boost for F135 engine upgrades"
-    },
-    {
      "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
      "link": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
      "pubDate": "Tue, 27 Oct 2026 22:18:59 GMT",
      "summary": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
      "source": "CNBC",
      "zh": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC"
-    },
-    {
-     "title": "Accenture wins $151M Air Force missile engineering contract",
-     "link": "https://seekingalpha.com/news/4658540-accenture-wins-151m-air-force-missile-engineering-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 18:18:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Accenture wins $151M Air Force missile engineering contract"
     },
     {
      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -2370,12 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
     },
     {
-     "title": "FX weekly: Dollar slips weekly as Yen leads major currency gains",
-     "link": "https://seekingalpha.com/news/4658529-fx-weekly-dollar-slips-weekly-as-yen-leads-major-currency-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 18:15:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FX weekly: Dollar slips weekly as Yen leads major currency gains"
+     "title": "波音大跌！737产量目标推迟至明年，自由现金流指引大幅低于预期，商业航空承压｜财报见闻",
+     "link": "https://wallstreetcn.com/articles/3784606",
+     "pubDate": "Wed, 28 Oct 2026 06:16:21 +0800",
+     "summary": "波音公司公布季度业绩，因产能爬坡进度落后及自由现金流前景不及预期，拖累股价大幅下跌。 第三季度，波音净亏损1.16亿美元，较上年同期54亿美元的巨额亏损显著改善；总营收增长约4%至241.9亿美元。 商业航空板块营收同比下滑约3%至107.2亿美元， 运营亏损达6.97亿美元，运营利润率为负6.5%，拖累整体复苏表现。 波音将此归因于交付机型组合不理想以及供应链成本上升。季度业绩同时受到约7亿美元司法部和解款项的一次性冲击。 波音首席执行官Kelly Ortberg周二表示， 公司今年将无法完成737飞机的产能和交付目标 ，这是其复苏进程的又一次挫折。 与此同时， 波音将实现100亿美元自由现",
+     "source": "华尔街见闻",
+     "zh": "波音大跌！737产量目标推迟至明年，自由现金流指引大幅低于预期，商业航空承压｜财报见闻"
     },
     {
      "title": "全球市场：美股三大指数收涨 纳指涨超1% 存储、光通信板块走强",
@@ -2458,20 +2442,36 @@ window.INDUSTRY_DATA = {
      "zh": "The rest of the market is leaving Big Tech behind after a historic comeback"
     },
     {
-     "title": "希捷科技Q1财季营收同比增长61%，自由现金流、毛利率齐创纪录新高｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3784610",
-     "pubDate": "Wed, 28 Oct 2026 05:15:43 +0800",
-     "summary": "希捷科技公布第一财季利润大幅增长，人工智能基础设施建设持续推动对公司数据存储组件的需求。 10月27日美股盘后，希捷科技公司公布截至2026年10月2日的2027财年第一季度财报， 公司营收达42.3亿美元，同比增长约61% ，超出分析师平均预期的41.1亿美元； 调整后每股收益为7.68美元，同样超越预期的7.39美元 。公司同时 上调季度股息约3%至每股0.76美元 。 在指引方面， 希捷预计第二财季营收为48亿美元 ，上下浮动1亿美元， 调整后每股收益为9.20美元 ，上下浮动0.20美元， 两项指标均显著高于分析师此前预期的45.5亿美元营收和8.66美元每股收益。 首席执行官Dave",
-     "source": "华尔街见闻",
-     "zh": "希捷科技Q1财季营收同比增长61%，自由现金流、毛利率齐创纪录新高｜财报见闻"
+     "title": "Early third-quarter earnings show a &apos;resilient&apos; U.S. consumer, with signs of strain",
+     "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+     "pubDate": "Tue, 27 Oct 2026 21:12:55 GMT",
+     "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+     "source": "CNBC",
+     "zh": "Early third-quarter earnings show a &apos;resilient&apos; U.S. consumer, with signs of strain"
     },
     {
-     "title": "恩智浦Q3营收增19%超预期，但Q4指引低于预期，股价盘后重挫｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3784612",
-     "pubDate": "Wed, 28 Oct 2026 05:14:04 +0800",
-     "summary": "恩智浦（NXP）半导体发布强劲三季度业绩的同时，给出了略低于市场预期的四季度营收指引，引发投资者对需求复苏势头放缓的担忧，股价盘后大跌约7%。 据该公司周二发布的财报，恩智浦预计四季度营收37.5亿-39.5亿美元， 中值38.5亿美元，较去年同期增长约15%，低于分析师预期38.7亿美元。 预计四季度调整后运营利润13.7亿-15.1亿美元，中值14.4亿美元，同样低于分析师预期的14.5亿美元。 这一看似微小的差距，足以令此前已涨势显著的股价承压——截至收盘恩智浦今年累计涨幅达17%，盘后跌幅近9%。 指引不及预期的背后， 是市场对竞争加剧的持续顾虑，以及围绕人工智能泡沫的更广泛担忧。 恩",
-     "source": "华尔街见闻",
-     "zh": "恩智浦Q3营收增19%超预期，但Q4指引低于预期，股价盘后重挫｜财报见闻"
+     "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
+     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+     "pubDate": "Tue, 27 Oct 2026 21:00:00 GMT",
+     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+     "source": "MarketWatch",
+     "zh": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave."
+    },
+    {
+     "title": "出口民调显示内塔尼亚胡阵营未获议会多数席位",
+     "link": "http://finance.eastmoney.com/news/1351,202610283910647971.html",
+     "pubDate": "Wed, 28 Oct 2026 04:13:40 +0800",
+     "summary": "当地时间27日晚，以色列议会选举出口民调数据显示，以色列总理内塔尼亚胡阵营未获议会多数席位。 当天22点（北京时间28日4点），以色列第26届议会选举投票结束。 根据以色列中央选举委员会公布的数据，截至当天晚间8时，以色列议会选举的投票率已达到74.3%，高于2022年大选同一时段的66.3%。中央选举委员会表示， 这是自1988年以来，该时段录得的全国最高投票率 。预计最终投票率将继续升高。 根据以色列选举法，政党须跨过3.25%的得票门槛方可进入议会，并按比例分配120个席位。初步计票结果预计28日或29日公布，最终结果由中央选举委员会于11月4日正式公布。议会选举结果公布后，各政党将围绕",
+     "source": "东方财富资讯",
+     "zh": "出口民调显示内塔尼亚胡阵营未获议会多数席位"
+    },
+    {
+     "title": "Visa and Mastercard face potential UK suit over card fees",
+     "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 27 Oct 2026 19:14:00 GMT",
+     "summary": "Visa and Mastercard are facing two proposed UK class-action lawsuits seeking billions of pounds for allegedly unlawful consumer card fees.",
+     "source": "Finextra",
+     "zh": "Visa and Mastercard face potential UK suit over card fees"
     }
    ]
   },

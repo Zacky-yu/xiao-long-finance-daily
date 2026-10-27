@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/27 10:14:56",
+ "generated_at": "2026/10/27 10:20:54",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Intel to acquire quantum computing software firm Classiq",
+     "link": "https://www.digitimes.com/news/a20261027VL212/intel-quantum-computing-software-hardware-manufacturing.html",
+     "pubDate": "Tue, 27 Oct 2026 02:09:37 GMT",
+     "summary": "Intel has entered into a definitive agreement to acquire Classiq, a quantum computing software company, in a move aimed at combining Classiq's quantum algorithm synthesis platform with Intel's silicon-based quantum hardware and semiconductor manufacturing capabilities.",
+     "source": "DIGITIMES",
+     "zh": "Intel to acquire quantum computing software firm Classiq"
+    },
+    {
+     "title": "Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk",
+     "link": "https://www.digitimes.com/news/a20261027VL211/ipo-taiwan-anthropic-capacity-chips.html",
+     "pubDate": "Tue, 27 Oct 2026 02:03:36 GMT",
+     "summary": "In its preliminary IPO registration statement filed with the US Securities and Exchange Commission, Anthropic describes how much of its capacity depends on a small group of chip and memory suppliers, most of them in East Asia.",
+     "source": "DIGITIMES",
+     "zh": "Anthropic's IPO filing puts TSMC, HBM, direct leasing at the center of AI compute risk"
+    },
+    {
      "title": "Tamil Nadu adds independent chip subsidy route as Indian states vie for investment",
      "link": "https://www.digitimes.com/news/a20261025VL200/india-semiconductors-incentives-investment-packaging.html",
      "pubDate": "Tue, 27 Oct 2026 01:55:21 GMT",
@@ -290,30 +306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hyundai supplier SL eyes first overseas robot deployment in US"
     },
     {
-     "title": "Tata Communications plans up to US$450 million fibre network linking India's AI hubs",
-     "link": "https://www.digitimes.com/news/a20261027VL209/tata-group-india-data-center-infrastructure-capacity-demand.html",
-     "pubDate": "Tue, 27 Oct 2026 01:33:44 GMT",
-     "summary": "Tata Communications announced on October 26 that it plans to invest US$400-450 million in approximately 10,000 kilometers of long-haul fiber across India, linking data centers and AI hubs as it expands its connectivity business. The network will connect domestic corridors with its global backbone.",
-     "source": "DIGITIMES",
-     "zh": "Tata Communications plans up to US$450 million fibre network linking India's AI hubs"
-    },
-    {
-     "title": "KAR bets on fleet monitoring as South Korea expands robotaxi trials",
-     "link": "https://www.digitimes.com/news/a20261023VL224/vehicle-robotaxi-2026-hyundai-software.html",
-     "pubDate": "Tue, 27 Oct 2026 01:32:41 GMT",
-     "summary": "South Korean vehicle engineering company KAR plans to develop a monitoring system for the electronic controls it installs in autonomous vehicles, seeking recurring maintenance revenue as the country expands robotaxi trials.",
-     "source": "DIGITIMES",
-     "zh": "KAR bets on fleet monitoring as South Korea expands robotaxi trials"
-    },
-    {
-     "title": "Exploiting Piezoelectricity",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/the-inexplicability-of-piezoelectricity-2026-10/",
-     "pubDate": "Tue, 27 Oct 2026 01:01:08 +0000",
-     "summary": "A PROPERTY of many semiconductors which so far has not been exploited is that of piezoelectricity. So, 65 years ago, started a story in the ‘Tomorrow’s Thinking’ column of […] The post Exploiting Piezoelectricity appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Exploiting Piezoelectricity"
-    },
-    {
      "title": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
      "link": "https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/",
      "pubDate": "Mon, 26 Oct 2026 22:00:00 +0000",
@@ -328,14 +320,6 @@ window.INDUSTRY_DATA = {
      "summary": "Infineon Technologies AG of Munich, Germany is to supply what is said to be the world’s first 900V gallium nitride (GaN) monolithic bidirectional switches (BDS) to Enphase Energy Inc of Fremont, CA, USA (which supplies microinverter-based solar and battery systems) for deployment in its solid-state ",
      "source": "Semiconductor Today",
      "zh": "Infineon supplying world’s first 900V GaN monolithic BDS devices to Enphase"
-    },
-    {
-     "title": "Tearing down the Apple iPhone Duo",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/consumer-electronics/tearing-down-the-apple-iphone-duo-2026-10/",
-     "pubDate": "Mon, 26 Oct 2026 18:00:12 +0000",
-     "summary": "Apple will take 25% of the Foldable Smartphone market in 2026, according to Counterpoint Research. But how repairable will the iPhone Duo prove to be? The post Tearing down the Apple iPhone Duo appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Tearing down the Apple iPhone Duo"
     },
     {
      "title": "Accellera’s FSL 1.0 Gives Functional Safety Data a Common Language",
@@ -362,14 +346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Package Powering Modern AI"
     },
     {
-     "title": "The Elusive AI Killer App",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-elusive-ai-killer-app-2026-10/",
-     "pubDate": "Mon, 26 Oct 2026 13:07:49 +0000",
-     "summary": "A note from a partner in Apollo Global Management who is also the company’s Chief Economist, Torsten Slok (pictured) reinforces the flaw in the AI proposition: Where’s the killer app? […] The post The Elusive AI Killer App appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Elusive AI Killer App"
-    },
-    {
      "title": "SEMICON West 2026: After the Toast, the Hard Questions",
      "link": "https://semiwiki.com/semiconductor-services/375275-semicon-west-2026-after-the-toast-the-hard-questions/",
      "pubDate": "Mon, 26 Oct 2026 13:00:04 +0000",
@@ -392,30 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "As AI pushes chip packages beyond traditional wafer limits, panel-level processing is emerging as a critical path to scale advanced packaging. The post The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum appeared first on EE Times .",
      "source": "EE Times",
      "zh": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum"
-    },
-    {
-     "title": "KOA Speer heat shock resistors feature metal glaze resistance film",
-     "link": "https://www.electronicsweekly.com/news/products/passives/koa-speer-heat-shock-resistors-feature-metal-glaze-resistance-film-2026-10/",
-     "pubDate": "Mon, 26 Oct 2026 11:51:22 +0000",
-     "summary": "A new family of heat shock resistors from KOA Speer Electronics feature a metal glaze resistance film to provide improved high heat and weather resistance. The RK73B-AT resistors also feature […] The post KOA Speer heat shock resistors feature metal glaze resistance film appeared first on Electronic",
-     "source": "Electronics Weekly",
-     "zh": "KOA Speer heat shock resistors feature metal glaze resistance film"
-    },
-    {
-     "title": "CScale exits stealth mode with $145m funding for gigawatt-scale AI",
-     "link": "https://www.electronicsweekly.com/news/products/connectors/cscale-exits-stealth-with-145m-funding-for-gigawatt-scale-ai-2026-10/",
-     "pubDate": "Mon, 26 Oct 2026 10:26:57 +0000",
-     "summary": "CScale, a Palo Alto startup for optical interconnects, has exited stealth mode with the announcement of $145 million in Series C funding. Nvidia and Intel Capital were among the investors. […] The post CScale exits stealth mode with $145m funding for gigawatt-scale AI appeared first on Electronics W",
-     "source": "Electronics Weekly",
-     "zh": "CScale exits stealth mode with $145m funding for gigawatt-scale AI"
-    },
-    {
-     "title": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-apprenticeships-flapping-airplanes-sar-satellites-2026-10/",
-     "pubDate": "Mon, 26 Oct 2026 10:04:00 +0000",
-     "summary": "What caught our eye this last week? The launch of the Apprenticeship Talent Bridge, the Flapping Airplanes startup story, and Iceye continuing to expand its SAR satellite constellation... The post What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites appeared first on Electronics",
-     "source": "Electronics Weekly",
-     "zh": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites"
     },
     {
      "title": "University of Illinois at Urbana-Champaign (UIUC) has achieved a record modulation bandwidth of 2.75GHz in a gallium nitride (GaN) blue micro-LED (Abdelghany Abouelnagga et a",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Eric Tsai is Co-Founder and CEO of Mivium, Inc., a US-based materials technology company in Fremont, California developing submicron gallium nitride powder and related wide bandgap materials. He co-founded Mivium in 2022 after a career building and scaling consumer businesses, most recently as Vice ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Eric Tsai of Mivium"
+    },
+    {
+     "title": "CEO Interview with Dr. Gleb Tsipursky of Disaster Avoidance Experts",
+     "link": "https://semiwiki.com/ceo-interviews/375036-ceo-interview-with-dr-gleb-tsipursky-of-disaster-avoidance-experts/",
+     "pubDate": "Sun, 25 Oct 2026 17:00:53 +0000",
+     "summary": "Gleb Tsipursky, PhD, is the CEO and co-founder of Disaster Avoidance Experts , a consulting and training firm focused on helping organizations adopt AI through employee engagement and practical workflow redesign. He is a behavioral scientist and the author of The Psychology of AI Adoption at Work: F",
+     "source": "SemiWiki",
+     "zh": "CEO Interview with Dr. Gleb Tsipursky of Disaster Avoidance Experts"
+    },
+    {
+     "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+     "link": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+     "pubDate": "Sat, 24 Oct 2026 00:00:00 +0000",
+     "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Arm Comments on Jury Decision in Qualcomm Trial"
+    },
+    {
+     "title": "From Chip Lab to Center Stage",
+     "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+     "pubDate": "Fri, 23 Oct 2026 18:00:03 +0000",
+     "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "From Chip Lab to Center Stage"
+    },
+    {
+     "title": "Vertical Semiconductor gains $73m in US CHIPS Act funding",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/vertical-semiconductor-231026.shtml",
+     "pubDate": "Fri, 23 Oct 2026 17:34:53 +0100",
+     "summary": "Power semiconductor start-up Vertical Semiconductor of Cambridge, MA, USA — which was spun out of Massachusetts Institute of Technology (MIT) in 2024 — has signed a letter of intent with the US Department of Commerce’s CHIPS Research and Development Office (CRDO) to receive up to $73m in federal inc",
+     "source": "Semiconductor Today",
+     "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
+    },
+    {
+     "title": "ST extends MasterGaN integrated transistor/driver family",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
+     "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
+     "summary": "STMicroelectronics of Geneva, Switzerland has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode gallium nitride (GaN) transistors with 6A maximum current rating. The new series helps designers to boost efficiency and power densi",
+     "source": "Semiconductor Today",
+     "zh": "ST extends MasterGaN integrated transistor/driver family"
+    },
+    {
+     "title": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/atomera-iqe-231026.shtml",
+     "pubDate": "Fri, 23 Oct 2026 14:21:48 +0100",
+     "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
+     "source": "Semiconductor Today",
+     "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     }
    ]
   },
@@ -973,7 +973,7 @@ window.INDUSTRY_DATA = {
      "title": "Wind turbine orders hit 2.8 GW in Q2 ahead of tax credit deadline: WoodMac",
      "link": "https://www.utilitydive.com/news/wind-turbine-orders-hit-28-gw-in-q2-ahead-of-tax-credit-deadline-woodmac/872757/",
      "pubDate": "Mon, 26 Oct 2026 11:06:46 -0400",
-     "summary": "Overall, &ldquo;the U.S. wind industry remains on course to add 39 GW of onshore new-build capacity by 2030,&rdquo; the report said.",
+     "summary": "Overall, &ldquo;the U.S. wind industry remains on course to add 39 GW of onshore new-build capacity by 2030,&rdquo; the report said. &ldquo;More than half of the project pipeline from 2026 to 2028 is already operating or under construction, limiting near-term risk.&rdquo;",
      "source": "Utility Dive",
      "zh": "Wind turbine orders hit 2.8 GW in Q2 ahead of tax credit deadline: WoodMac"
     },
@@ -986,18 +986,10 @@ window.INDUSTRY_DATA = {
      "zh": "TNO, Perovion and Toyo Seikan agree development roadmap for perovskite solar cells"
     },
     {
-     "title": "CISA promises proactive critical infrastructure defense in new strategic plan",
-     "link": "https://www.utilitydive.com/news/cisa-strategic-plan-2030-infrastructure-partnerships/872762/",
-     "pubDate": "Mon, 26 Oct 2026 10:33:43 -0400",
-     "summary": "Supply-chain security receives special attention in the plan, with CISA promising to &ldquo;develop data-driven guidance and best practices&rdquo; related to third-party dependencies. AI is mentioned only briefly.",
-     "source": "Utility Dive",
-     "zh": "CISA promises proactive critical infrastructure defense in new strategic plan"
-    },
-    {
      "title": "Clean energy groups, states oppose MISO’s large load-generation study plan",
      "link": "https://www.utilitydive.com/news/miso-large-load-lars-ferc-google-oms/849887/",
      "pubDate": "Mon, 26 Oct 2026 09:58:16 -0400",
-     "summary": "The grid operator&rsquo;s proposed fast-track study process for large loads with generation lacks ratepayer protections and favors vertically integrated utilities over independent power producers, critics said.",
+     "summary": "The grid operator&rsquo;s&nbsp;proposed fast-track for colocated load and generation lacks ratepayer protections and favors vertically integrated utilities over independent power producers, critics said. Utilities, including Duke and Entergy subsidiaries, voiced support for it.",
      "source": "Utility Dive",
      "zh": "Clean energy groups, states oppose MISO’s large load-generation study plan"
     },
@@ -1080,6 +1072,14 @@ window.INDUSTRY_DATA = {
      "summary": "The Czech government has proposed changes to its new capacity mechanism, which is open to battery storage, including moving two supplementary auctions from 2026 to 2027, a year later than prospective participants had planned for. The post Czech ministry proposes storage capacity auctions to 2027 app",
      "source": "pv magazine",
      "zh": "Czech ministry proposes storage capacity auctions to 2027"
+    },
+    {
+     "title": "More capability, less equipment: the future of capacitor bank control",
+     "link": "https://www.utilitydive.com/spons/more-capability-less-equipment-the-future-of-capacitor-bank-control/833143/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "Utilities can now gain capacity and reliability without adding equipment or substation space.",
+     "source": "Utility Dive",
+     "zh": "More capability, less equipment: the future of capacitor bank control"
     }
    ]
   },
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "小米米家高速吹风机 Mini 开售：11 万转 / 分钟高速电机，首销 199.7 元",
+     "link": "https://www.ithome.com/1/018/256.htm",
+     "pubDate": "Tue, 27 Oct 2026 02:13:02 GMT",
+     "summary": "IT之家 10 月 27 日消息，今天（27 日）上午，小米米家高速吹风机 Mini 正式开售，建议零售价 299 元，首销到手价 199.7 元。 京东 小米高速吹风机 Mini 券后 199.66 元 领 0.9 元券 这款新品整机重 270g（不含电源线），适配居家日常、差旅出行、健身通勤等多种场景； 搭载 11 万转 / 分钟全新微型高速无刷电机 ，风速可达 62 米 / 秒；升级正负等离子双离子系统，实现护发 + 头皮洁净双重效果。 这款新品支持 2 挡风速可调，支持 4 挡风温可调，此外还有儿童模式；拥有粉色、紫色、米白色三种颜色可选，搭载磁吸进风过滤罩，电源线自带束线带方便收纳。",
+     "source": "IT之家",
+     "zh": "小米米家高速吹风机 Mini 开售：11 万转 / 分钟高速电机，首销 199.7 元"
+    },
+    {
      "title": "《羊蹄山之魂》开发商 Sucker Punch 裁员 26 人",
      "link": "https://www.ithome.com/1/018/253.htm",
      "pubDate": "Tue, 27 Oct 2026 02:09:08 GMT",
@@ -1864,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reuters : China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month &nbsp; &mdash;&nbsp; While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries",
      "source": "Techmeme",
      "zh": "China&apos;s Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)"
-    },
-    {
-     "title": "反向创造历史：2026 英雄联盟全球总决赛 LPL“一号种子”AL 战队一场未胜被淘汰，官方发文致歉",
-     "link": "https://www.ithome.com/1/018/247.htm",
-     "pubDate": "Tue, 27 Oct 2026 01:53:49 GMT",
-     "summary": "IT之家 10 月 27 日消息，2026 英雄联盟全球总决赛于北京时间 10 月 16 日 2:00 开赛，来自六大赛区的顶尖队伍前往美国，争夺 2026 全球总决赛召唤师杯。 今日早间，中国大陆赛区 LPL 的“一号种子”—— AL 战队 0:2 不敌来自北美赛区的 TLAW 战队， 最终在瑞士轮比赛中以四小场全败的战绩被淘汰 ，止步十六强，创造 LPL 战队参加全球总决赛以来的最差战绩。 AL 英雄联盟官方微博随后发文致歉，IT之家附全文如下： 很抱歉，AL 在刚刚结束的瑞士轮比赛中落败，结束了本次 2026 全球总决赛的旅程。 在此，向所有支持 AL 的粉丝们郑重说一句：对不起。 我们",
-     "source": "IT之家",
-     "zh": "反向创造历史：2026 英雄联盟全球总决赛 LPL“一号种子”AL 战队一场未胜被淘汰，官方发文致歉"
     },
     {
      "title": "Ahead of US midterms, ChatGPT draws images \"depicting election interference or that may discourage voting\" in a cartoon style, ignoring photorealism requests (Katelyn Chedraoui/CNET)",
@@ -2242,6 +2242,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+     "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+     "pubDate": "Tue, 27 Oct 2026 02:17:35 GMT",
+     "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+     "source": "CNBC",
+     "zh": "China industrial profits post strongest growth in three months, rising 14.4%"
+    },
+    {
      "title": "10月27日纺织鞋类制造板块涨幅达3%",
      "link": "http://stock.eastmoney.com/news/1944,202610273909371185.html",
      "pubDate": "Tue, 27 Oct 2026 10:00:00 +0800",
@@ -2320,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "Moderna首席执行官对旗下个性化mRNA癌症疫苗的前景展示出强烈信心，声称该技术将在多种肿瘤类型中发挥作用，但分析师对其商业价值的质疑并未消散。 10月26日周一，Moderna CEO Stephane Bancel在彭博电视采访中表示， 该公司与默克联合研发的个性化mRNA癌症疫苗intismeran autogene\"将在黑色素瘤以外更多癌症中奏效\"。 Bancel在采访中明确表达了对其“个性化mRNA肿瘤疫苗技术平台”充满信心，并援引默克明星肿瘤药Keytruda作为类比依据。他说： 只要是类似Keytruda有效的肿瘤类型，该平台理论上都能发挥作用。 Keytruda是默克旗下的",
      "source": "华尔街见闻",
      "zh": "质疑声四起，Moderna CEO安抚市场：个性化癌症疫苗将覆盖更多癌种"
-    },
-    {
-     "title": "China industrial profits post strongest growth in three months, rising 14.4%",
-     "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-     "pubDate": "Tue, 27 Oct 2026 01:45:58 GMT",
-     "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
-     "source": "CNBC",
-     "zh": "China industrial profits post strongest growth in three months, rising 14.4%"
     },
     {
      "title": "Greenbrier anticipates $2.8B-$3.2B revenue and $2.75-$3.75 EPS in fiscal 2027 as leasing expands",

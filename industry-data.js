@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/27 09:34:08",
+ "generated_at": "2026/10/27 09:52:34",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Exploiting Piezoelectricity",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/the-inexplicability-of-piezoelectricity-2026-10/",
+     "pubDate": "Tue, 27 Oct 2026 01:01:08 +0000",
+     "summary": "A PROPERTY of many semiconductors which so far has not been exploited is that of piezoelectricity. So, 65 years ago, started a story in the ‘Tomorrow’s Thinking’ column of […] The post Exploiting Piezoelectricity appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Exploiting Piezoelectricity"
+    },
+    {
      "title": "India sets October 2028 target for homegrown smartphone brand",
      "link": "https://www.digitimes.com/news/a20261027VL206/brand-2028-smartphone-electronics-2026.html",
      "pubDate": "Tue, 27 Oct 2026 00:46:13 GMT",
@@ -448,14 +456,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers at the Technical University of Munich and Indian Institute of Technology Kanpur published “Self-Heating and Parasitic Effects in Multi-Tier CFET Design.” Abstract Excerpt: “We study the impact of self-heating effects (SHEs) and middle of line (MOL) and back-end of line (BEOL) induced par",
      "source": "Semiconductor Engineering",
      "zh": "Self-Heating And Parasitics Challenge Multi-Tier CFET Scaling (TU Munich, IIT Kanpur)"
-    },
-    {
-     "title": "Government to set up Biosecurity Lab for biological AI threats",
-     "link": "https://www.electronicsweekly.com/news/business/government-to-set-up-biosecurity-lab-for-ai-threats-2026-10/",
-     "pubDate": "Mon, 26 Oct 2026 06:16:23 +0000",
-     "summary": "The government is to invest £100m in an AI Biosecurity Lab (AIBL) to counter biological risks posed by AI. Anthropic and OpenAI will contribute £200m in compute and model credits. […] The post Government to set up Biosecurity Lab for biological AI threats appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Government to set up Biosecurity Lab for biological AI threats"
     },
     {
      "title": "Pt-W Alloy Shows Potential For Thinner High-NA EUV Mask Absorbers (Chinese Academy of Sciences et al.)",
@@ -842,6 +842,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Data centres could add AU$40 billion to Australian power costs, warns Smart Energy Council",
+     "link": "https://www.pv-tech.org/data-centres-could-add-au40-billion-to-australian-power-costs-warns-smart-energy-council/",
+     "pubDate": "Tue, 27 Oct 2026 01:39:50 +0000",
+     "summary": "Data centres could add AU$40 billion (US$28 billion) to wholesale electricity costs in Australia's eastern states.",
+     "source": "PV Tech",
+     "zh": "Data centres could add AU$40 billion to Australian power costs, warns Smart Energy Council"
+    },
+    {
+     "title": "Philippines BESS revenue streams will shift to arbitrage after initial reserve market reliance: Aurora Energy Research",
+     "link": "https://www.energy-storage.news/philippines-bess-revenue-streams-will-shift-to-arbitrage-after-initial-reserve-market-reliance-aurora-energy-research/",
+     "pubDate": "Tue, 27 Oct 2026 01:37:32 +0000",
+     "summary": "Aurora Energy Research has launched a forecast service to help investors and developers assess the commercial case for battery storage in the Philippines.",
+     "source": "Energy Storage News",
+     "zh": "Philippines BESS revenue streams will shift to arbitrage after initial reserve market reliance: Aurora Energy Research"
+    },
+    {
      "title": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
      "link": "https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html",
      "pubDate": "Mon, 26 Oct 2026 19:00:00 -0500",
@@ -1050,14 +1066,6 @@ window.INDUSTRY_DATA = {
      "zh": "ARRAY and Aeeris bring automated hail stow to Australian solar PV plants"
     },
     {
-     "title": "Aiko Solar returns to profit in Q3, unveils PERC to ABC upgrade",
-     "link": "https://www.pv-tech.org/aiko-solar-profitability-q3-perc-to-abc-upgrade/",
-     "pubDate": "Mon, 26 Oct 2026 10:07:55 +0000",
-     "summary": "Aiko Solar has revealed a return to profitability in the third quarter of this year and released details of a major technology upgrade to its PERC production line.",
-     "source": "PV Tech",
-     "zh": "Aiko Solar returns to profit in Q3, unveils PERC to ABC upgrade"
-    },
-    {
      "title": "Czech ministry proposes storage capacity auctions to 2027",
      "link": "https://www.pv-magazine.com/2026/10/26/czech-ministry-proposes-storage-capacity-auctions-to-2027/",
      "pubDate": "Mon, 26 Oct 2026 09:45:00 +0000",
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Utilities can now gain capacity and reliability without adding equipment or substation space.",
      "source": "Utility Dive",
      "zh": "More capability, less equipment: the future of capacitor bank control"
-    },
-    {
-     "title": "The push to DC: Why data centers are rethinking power architecture",
-     "link": "https://www.utilitydive.com/spons/the-push-to-dc-why-data-centers-are-rethinking-power-architecture/833783/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Explore how 800 VDC can reduce power losses, free up data center space and reshape power architecture.",
-     "source": "Utility Dive",
-     "zh": "The push to DC: Why data centers are rethinking power architecture"
     }
    ]
   },
@@ -1538,6 +1538,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+     "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+     "pubDate": "Tue, 27 Oct 2026 01:30:00 +0000",
+     "summary": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics"
+    },
+    {
      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
      "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
      "pubDate": "Tue, 27 Oct 2026 00:26:50 GMT",
@@ -1698,14 +1706,6 @@ window.INDUSTRY_DATA = {
      "zh": "PHP2Shell Exploitation Moves From Probes to Working Shells"
     },
     {
-     "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
-     "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
-     "pubDate": "Mon, 26 Oct 2026 12:46:44 +0000",
-     "summary": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection. The post 953 Online Stores Infected in Long-Lasting Malware Campaign appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "953 Online Stores Infected in Long-Lasting Malware Campaign"
-    },
-    {
      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
      "pubDate": "Mon, 26 Oct 2026 17:22:41 +0530",
@@ -1746,6 +1746,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "扩展稳定版微软 Edge 浏览器明年登陆苹果 macOS：最长 8 周延后部署更新",
+     "link": "https://www.ithome.com/1/018/243.htm",
+     "pubDate": "Tue, 27 Oct 2026 01:46:16 GMT",
+     "summary": "IT之家 10 月 27 日消息，科技媒体 Windows Central 昨日（10 月 26 日）发布博文，报道称微软计划明年在苹果 macOS 平台上， 为 Microsoft Edge 浏览器扩展引入“扩展稳定”（Extended Stable）更新通道。 IT之家援引博问你介绍，该通道目前已经在 Windows 10、Windows 11 平台上线，企业和组织可以通过该通道版本，增强控制 Edge 浏览器功能更新节奏。 不同于常规 Edge 浏览器稳定版（每隔 2 周快节奏更迭）， “扩展稳定”版 Edge 浏览器可延后部署版本更新，最长可以达到 8 周。 对于企业而言，这意味着在部",
+     "source": "IT之家",
+     "zh": "扩展稳定版微软 Edge 浏览器明年登陆苹果 macOS：最长 8 周延后部署更新"
+    },
+    {
+     "title": "Ahead of US midterms, ChatGPT draws images \"depicting election interference or that may discourage voting\" in a cartoon style, ignoring photorealism requests (Katelyn Chedraoui/CNET)",
+     "link": "https://www.techmeme.com/261026/p50#a261026p50",
+     "pubDate": "Mon, 26 Oct 2026 21:45:07 -0400",
+     "summary": "Katelyn Chedraoui / CNET : Ahead of US midterms, ChatGPT draws images &ldquo;depicting election interference or that may discourage voting&rdquo; in a cartoon style, ignoring photorealism requests &nbsp; &mdash;&nbsp; ChatGPT is cracking down on photorealistic, political deepfakes ahead of next week",
+     "source": "Techmeme",
+     "zh": "Ahead of US midterms, ChatGPT draws images \"depicting election interference or that may discourage voting\" in a cartoon style, ignoring photorealism requests (Katelyn Chedraoui/CNET)"
+    },
+    {
+     "title": "苹果 iOS 27.2 正式版国行“最重要专属功能”，可禁止 App 摇一摇跳转",
+     "link": "https://www.ithome.com/1/018/241.htm",
+     "pubDate": "Tue, 27 Oct 2026 01:41:37 GMT",
+     "summary": "IT之家 10 月 27 日消息，苹果公司今天面向 iPhone 18 Pro 等机型 推送 iOS 27.2 正式版更新 （内部版本号：24B119），并为其首款折叠 iPhone Duo 推送专属 iOS 27.2 更新（内部版本号：24B91020）。 本次更新带来了增强 Siri AI（国内暂未上线）、更新 Apple Music 品牌视觉等，还有一项对于国内比较重要的细节更新 —— 可禁止 App 摇一摇跳转 。 这项功能名为“ 限制动作数据 ”。用户需进入“设置”>“隐私与安全”>“运动与健身”，找到“限制动作数据”选项，然后点击右上角“编辑”，就可以将需要屏蔽摇一摇跳转的 App",
+     "source": "IT之家",
+     "zh": "苹果 iOS 27.2 正式版国行“最重要专属功能”，可禁止 App 摇一摇跳转"
+    },
+    {
+     "title": "“拯救《质量效应》”请愿书签名人数突破 20 万，粉丝请求延续系列游戏生命",
+     "link": "https://www.ithome.com/1/018/239.htm",
+     "pubDate": "Tue, 27 Oct 2026 01:38:49 GMT",
+     "summary": "IT之家 10 月 27 日消息，当地时间 26 日，据外媒 VGC 报道，EA 宣布关闭 BioWare 并取消《质量效应》系列新作后，玩家发起的挽救该系列联署请愿获得超过 20 万人支持。 当地时间 22 日，EA 宣布关闭曾开发《龙腾世纪》系列的老牌工作室 BioWare，同时取消下一款《质量效应》游戏。这款新作早在 2020 年就对外公布，此后五年多来虽不断有预热消息传出，却 始终缺乏实质性进展 。 去年，EA 缩减了 BioWare 的开发团队，当时称人员调整针对的是参与《龙腾世纪：影障守护者》发售工作的员工。尽管 EA 即将被出售引发外界担忧，《质量效应》系列总监 去年仍向粉丝保证",
+     "source": "IT之家",
+     "zh": "“拯救《质量效应》”请愿书签名人数突破 20 万，粉丝请求延续系列游戏生命"
+    },
+    {
+     "title": "Kimi上线48小时致歉补额度：Token降价了，额度为何更不经用？",
+     "link": "https://www.huxiu.com/article/4900683.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 09:37:34 +0800",
+     "summary": "本文来自微信公众号： 科创板日报 ，作者：李明明 Agent任务越来越重，大模型厂商怎么在成本和体验之间找平衡。 10月26日凌晨，Kimi智能助手官方发布致歉公告，就旗下新模型K3.1 Pro上线后订阅会员遭遇的限流、额度异常消耗等问题公开回应，同步推出补偿方案。 上述事件距离这款3万亿参数级开源模型正式发布，仅过去48小时。 就在两天前的10月24日凌晨，月之暗面刚推出新一代开源大模型Kimi K3.1 Pro。该模型以3万亿级参数规模、100万词元上下文窗口保持全球最大参数开源模型的定位，在多项权威评测中逼近海外头部闭源模型水平，官方公布的API定价仅为同类旗舰产品的五分之一。 致歉公告",
+     "source": "虎嗅",
+     "zh": "Kimi上线48小时致歉补额度：Token降价了，额度为何更不经用？"
+    },
+    {
+     "title": "苹果首款折叠 iPhone Duo 确认缺失 FaceTime“眼神交流”功能",
+     "link": "https://www.ithome.com/1/018/238.htm",
+     "pubDate": "Tue, 27 Oct 2026 01:34:11 GMT",
+     "summary": "IT之家 10 月 27 日消息，科技媒体 MacRumors 昨日（10 月 26 日）发布博文，指出在苹果首款折叠 iPhone Duo 机型上， 其 FaceTime 设置中缺少“眼神交流”（Eye Contact）选项， 用户在视频通话时无法获得该功能带来的视线校正效果。 图源：苹果 IT之家援引博文介绍，“眼神交流”功能最早随 iOS 14 推出，主要针对视频通话场景，依靠机器学习调整用户眼部画面，让对方感觉用户正注视摄像头。 该功能此前已广泛覆盖多款 iPhone，包括 iPhone SE 机型（采用 Touch ID 指纹识别认证、没有面容 ID）。 该媒体最新确认 iPhone",
+     "source": "IT之家",
+     "zh": "苹果首款折叠 iPhone Duo 确认缺失 FaceTime“眼神交流”功能"
+    },
+    {
+     "title": "手握10亿订单却停摆：具身智能的有毒订单陷阱",
+     "link": "https://www.huxiu.com/article/4900679.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 09:29:10 +0800",
+     "summary": "本文来自微信公众号： 青萍见 ，作者：shushuhn 在当下的硬科技创投圈，没有什么比手握大额订单更能让投资人兴奋的了。 但最近，南京无境未来动力科技有限公司被曝陷入停摆危机。这家公司成立于2026年2月11日，曾对外宣称手握近10亿元订单（其中5亿元为央企框架协议，另外5亿元仅为地方市场意向储备，没有形成具备约束力的正式合同）。据媒体报道和员工披露，公司自8月起停发工资，欠薪涉及三四十人，金额接近800万元，实控人崔小飞处于失联状态。 很多人不解：既然有那么多订单，公司怎么会活不下去？ 因为在硬科技的深水区，商业常识往往极其残酷：意向订单不是合同，框架协议不是收入。 订单不是资产，很多订单",
+     "source": "虎嗅",
+     "zh": "手握10亿订单却停摆：具身智能的有毒订单陷阱"
+    },
+    {
      "title": "Anthropic 提交 IPO 招股文件，亚洲芯片股走强",
      "link": "https://www.ithome.com/1/018/237.htm",
      "pubDate": "Tue, 27 Oct 2026 01:28:24 GMT",
@@ -1754,36 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic 提交 IPO 招股文件，亚洲芯片股走强"
     },
     {
-     "title": "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%",
-     "link": "https://www.ithome.com/1/018/236.htm",
-     "pubDate": "Tue, 27 Oct 2026 01:26:29 GMT",
-     "summary": "IT之家 10 月 27 日消息，Applied Materials（应用材料）美国当地时间本月 26 日宣布将追加对荷兰半导体封装设备制造商 Besi 的投资， 使其对后者的持股比例从此前的 9% 约升至 20% 。 应用材料同时表示，该企业当前无意进一步扩大在 Besi 的持股，也无意寻求 Besi 董事会的席位。 两家企业自 2020 年启动联合开发以来一直保持着良好的合作关系， 应用材料目前已是 Besi 的第一大股东 。Besi 在本月伊始加入了应用材料的硅谷 EPIC 中心，将双方合作范围从混合键合拓展到更广泛的新型互连架构和应用上。",
+     "title": "惠科股份 2026Q1~Q3 归母净利润 25.9 亿元，同比 -12.63%",
+     "link": "https://www.ithome.com/1/018/234.htm",
+     "pubDate": "Tue, 27 Oct 2026 01:21:52 GMT",
+     "summary": "IT之家 10 月 27 日消息，惠科股份昨日发布 2026 年第 3 季度报告： 2026Q3 单季 营业总收入 ：105.97 亿元，同比 +3.48% 归母净利润 ：7.32 亿元，同比 -8.76% 扣非净利润 ：5.75 亿元，同比 -0.72% 基本 / 稀释 EPS ：0.11 元，同比 -8.33% 加权平均净资产收益率 ：2.06%，同比减少 1.35 个百分点 2026Q1~Q3 营业总收入 ：311.13 亿元，同比 &nbsp;+6.41% 归母净利润 ：25.90 亿元，同比 -12.63% 扣非净利润 ：19.89 亿元，同比 -7.78% 经营现金流 ：75.63",
      "source": "IT之家",
-     "zh": "应用材料追加对先进封装设备制造商 Besi 投资，持股比例升至 20%"
-    },
-    {
-     "title": "任天堂英国推出新指南，帮助家长“科学指导”子女玩游戏",
-     "link": "https://www.ithome.com/1/018/235.htm",
-     "pubDate": "Tue, 27 Oct 2026 01:26:16 GMT",
-     "summary": "IT之家 10 月 27 日消息，据外媒 VGC 报道，任天堂英国分公司推出了一份新指南，帮助对电子游戏了解不多的家长更好地指导孩子玩游戏。 任天堂委托开展的最新调查显示，超过三分之二（68%）的英国家长承认，在决定孩子玩什么游戏时， 自己并不总能掌握足够的信息 。 71% 的家长需要孩子 为自己解释游戏术语、流行趋势或游戏方面的问题 ；34% 认为，如果能更了解孩子平时玩什么、怎么玩，自己就能 更有把握地决定让孩子玩哪些游戏 。 在孩子的各种兴趣爱好中， 电子游戏也是家长最不熟悉的一项 。28% 的家长称自己最不了解电子游戏，相比之下，最不了解观看网络内容、社交媒体和体育运动的比例分别为 1",
-     "source": "IT之家",
-     "zh": "任天堂英国推出新指南，帮助家长“科学指导”子女玩游戏"
-    },
-    {
-     "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
-     "link": "https://www.ithome.com/1/018/232.htm",
-     "pubDate": "Tue, 27 Oct 2026 01:19:52 GMT",
-     "summary": "今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常红包再来参与： 点此抽取 。 猜拳红包玩法：活动会在不同的时间节点，开启“猜拳抢红包”玩法，请随时关注活动提示。 活动期间用户可参与猜拳玩法，每人最多 3 次机会，单次机会用户选择石头、剪刀、布任意一个，任意获胜 1 局（石头赢剪刀，剪刀赢布，布赢石头）即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。 奖励限量，发完即止，建议用户在活动节点整点，准时参与活动。 蚊子肉也是肉，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11 无门槛红包 面额至高 26888 元，每天抽",
-     "source": "IT之家",
-     "zh": "京东红包今日 10:00 再加码，猜拳至高赢 5 元"
-    },
-    {
-     "title": "AI 造富：Anthropic 七位联合创始人身家均超 130 亿美元",
-     "link": "https://www.ithome.com/1/018/231.htm",
-     "pubDate": "Tue, 27 Oct 2026 01:17:15 GMT",
-     "summary": "IT之家 10 月 27 日消息，Anthropic PBC 当地时间周一披露的 IPO 文件显示，公司七位联合创始人每人大约持有公司 1.4% 的股份，按估值计算，各自身家超过 130 亿美元 （IT之家注：现汇率约合 868.89 亿元人民币） 。 阿莫代伊兄妹 这让包括达里奥 · 阿莫代伊（Dario Amodei）、丹妮拉 · 阿莫代伊（Daniela Amodei）兄妹在内的全部七位创始人跻身彭博亿万富豪指数前 300 名，财富规模超过比尔 · 阿克曼（Bill Ackman）、斯坦 · 德鲁肯米勒（Stan Druckenmiller）等知名金融领域亿万富豪。 该身家是基于 Ant",
-     "source": "IT之家",
-     "zh": "AI 造富：Anthropic 七位联合创始人身家均超 130 亿美元"
+     "zh": "惠科股份 2026Q1~Q3 归母净利润 25.9 亿元，同比 -12.63%"
     },
     {
      "title": "巴西大选翻车后，预测市场还靠谱吗？",
@@ -1797,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
      "link": "https://github.com/otya128/winevdm",
      "pubDate": "Tue, 27 Oct 2026 01:15:04 +0000",
-     "summary": "Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 6 # Comments: 1",
      "source": "Hacker News",
      "zh": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows"
     },
@@ -1808,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 倔牛聊陪伴AI ，作者：倔牛聊陪伴AI 陪伴Agent研究·第二季「银发AI陪伴商业研究」·第03篇 2026年7月，《法治日报》采访了两位使用养老机器人的北京老人。 一位是71岁的周青。 女儿花两万多元给她买了一台陪伴机器人，希望机器人能够提醒母亲按时吃药，并在发生意外时及时联系家属。 另一位是74岁的杨女士。 机器人来到杨女士家以后，夜里她翻身或者起床去卫生间，机器人都会上前查看、提醒。白天坐久了，机器人也会反复提醒她起来活动。原本是为了照顾老人，杨女士却逐渐有了一种被“监视”的感觉。 把两位老人的这两段经历放在一起看，我觉得很有意思： 在子女眼里，机器人能够随时留意",
      "source": "虎嗅",
      "zh": "老人用，子女买，政府也出钱：银发AI陪伴到底卖给谁？"
-    },
-    {
-     "title": "菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏",
-     "link": "https://www.ithome.com/1/018/230.htm",
-     "pubDate": "Tue, 27 Oct 2026 01:11:15 GMT",
-     "summary": "IT之家 10 月 27 日消息，据潮新闻 10 月 26 日报道，菲尔兹奖得主、芝加哥大学数学系教授邓煜在上周末的“知识分子”“赛先生”论坛上发表主旨演讲，系统阐述了他对 AI 时代数学研究的思考。 邓煜表示，AI 相对于人的优势，一方面是 AI 具有无限知识面，另一方面是 AI 具有极低的尝试成本 / 试错成本。但我们要坚持一点，在数学研究中也好，在任何事情中也好， 人总是作为主体 ；AI 是作为一个工具，是我们人利用来进行研究的工具。 邓煜认为，如果把 AI 作为研究者，就应遵守学术规范。如果 AI 证明了一个非常重大的问题，一个非常合理的要求， 是公布 AI 的思维链 。然而 AI 公",
-     "source": "IT之家",
-     "zh": "菲尔兹奖得主邓煜评论 AI 公司反蒸馏：你不能只在你蒸馏全人类知识时支持蒸馏"
     },
     {
      "title": "首部院线AI长片，票房遭遇滑铁卢",
@@ -1840,22 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "今日核心情报聚焦 AI 资本与治理的结构性转折。Anthropic 公开递交 S-1、以代码 ANT 登陆纳斯达克，H1 营收 163 亿美元同比增长约 13.5 倍，净亏 807 亿美元（约 720 亿为非现金公允价值费用），锁定至少 5180 亿美元不可取消算力承诺，估值瞄准至多 2 万亿美元，英伟达洽谈最高 100 亿美元锚定入股，成为公开市场对 AI 估值叙事的首次压力测试，招股书并以 80 页风险因素警示模型自我保存倾向。OpenAI 发布 GPT-6.1 Terra，标准 API 定价砍半、单任务成本降约九倍，将计量单位由 token 转向“完成的任务”，定价权从实验室转向企业 C",
      "source": "钛媒体",
      "zh": "Edge AI Daily 早报（10月27日）"
-    },
-    {
-     "title": "从∞到186，AI推进孪生素数猜想后，人类还能做什么？",
-     "link": "https://www.huxiu.com/article/4899580.html?f=rss",
-     "pubDate": "Tue, 27 Oct 2026 09:00:01 +0800",
-     "summary": "一百多年后，我们仍未知道孪生素数是否无穷&mdash;&mdash;但AI或许更接近答案。 2013年，张益唐证明了素数之间存在有界间隔，给出了7000万这个数字。此后，数学家们接力缩小上界，如今GPT-6 Astra又将它推进到了186（如果LEAN证明没出错的话）。 既然AI能够组合已有定理、寻找参数，甚至贡献新的数学证明，人类研究者的价值会因此消失吗？",
-     "source": "虎嗅",
-     "zh": "从∞到186，AI推进孪生素数猜想后，人类还能做什么？"
-    },
-    {
-     "title": "微软让六万人自愿裁员",
-     "link": "https://www.huxiu.com/article/4900667.html?f=rss",
-     "pubDate": "Tue, 27 Oct 2026 08:53:59 +0800",
-     "summary": "本文来自微信公众号： 橘AI ，作者：橘AI，题图来自：视觉中国 微软昨天给六万员工发了一封信，标题写着 Voluntary Exit Offer，自愿离职邀约。 这些员工占全球 22.3 万员工的 27%。美国、加拿大、印度、英国，level 70 及以下，连 GM 和一部分带 VP 头衔的人都算在内。没有年龄门槛，没有工龄门槛，绩效不作为因素。12 月第一周决定，12 月 31 日走人。 这是今年微软第三次裁员计划 （叫什么其实不重要吧） 。 四月那轮自愿裁员是让快退休的人先走。是微软 51 年来第一次买断，8,750 个美国人符合条件：年龄加工龄 &ge; 70，等于只请快退休的人走。那",
-     "source": "虎嗅",
-     "zh": "微软让六万人自愿裁员"
     },
     {
      "title": "China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them",
@@ -1885,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
      "pubDate": "Mon, 26 Oct 2026 22:41:48 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 62 # Comments: 12",
+     "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 66 # Comments: 12",
      "source": "Hacker News",
      "zh": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
      "pubDate": "Mon, 26 Oct 2026 22:27:17 +0000",
-     "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 18 # Comments: 12",
+     "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 20 # Comments: 13",
      "source": "Hacker News",
      "zh": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It"
     },
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "The Exponential Time Hypothesis Is False [pdf]",
      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
      "pubDate": "Mon, 26 Oct 2026 21:59:15 +0000",
-     "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 256 # Comments: 103",
+     "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 271 # Comments: 106",
      "source": "Hacker News",
      "zh": "The Exponential Time Hypothesis Is False [pdf]"
     },
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Announcing three new discoveries in mathematics, computer science, and physics",
      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
      "pubDate": "Mon, 26 Oct 2026 21:35:28 +0000",
-     "summary": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 409 # Comments: 156",
+     "summary": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 437 # Comments: 167",
      "source": "Hacker News",
      "zh": "Announcing three new discoveries in mathematics, computer science, and physics"
     },
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
      "source": "TechCrunch",
      "zh": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos"
-    },
-    {
-     "title": "Best Dyson Vacuum Deals for Dyson Week 2026",
-     "link": "https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/",
-     "pubDate": "Mon, 26 Oct 2026 20:28:30 +0000",
-     "summary": "The powerful Dyson V16 Piston Animal and other Dyson vacuums and tools are discounted until Halloween.",
-     "source": "WIRED",
-     "zh": "Best Dyson Vacuum Deals for Dyson Week 2026"
     }
    ]
   },
@@ -2242,28 +2242,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "多利科技10月27日开盘涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610273909185413.html",
-     "pubDate": "Tue, 27 Oct 2026 09:26:28 +0800",
-     "summary": "以下是多利科技在北京时间10月27日09:26分盘口异动快照： 10月27日，多利科技开盘涨幅达5%，截至9点26分，报16.19元，成交452.02万元，换手率0.15%。 分笔 09:25:00 16.19 2792↓ 09:24:57 15.99 1613↑ 09:24:48 15.99 1115↑ 09:24:39 16.00 1111↑ 09:24:30 15.97 905↑ 09:24:21 16.00 875↑ 09:24:12 16.00 865↑ 09:24:03 15.99 837↑ 09:23:54 16.00 832↑ 09:23:45 16.00 789↑ 报价 卖五",
-     "source": "东方财富股票",
-     "zh": "多利科技10月27日开盘涨幅达5%"
+     "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+     "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+     "pubDate": "Tue, 27 Oct 2026 01:45:58 GMT",
+     "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+     "source": "CNBC",
+     "zh": "China industrial profits post strongest growth in three months, rising 14.4%"
     },
     {
-     "title": "味知香10月27日开盘跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610273909185317.html",
-     "pubDate": "Tue, 27 Oct 2026 09:26:28 +0800",
-     "summary": "以下是味知香在北京时间10月27日09:26分盘口异动快照： 10月27日，味知香开盘跌幅达5%，截至9点26分，报20.76元，成交647.30万元，换手率0.23%。 分笔 09:25:02 20.76 3118↓ 09:24:59 20.16 3109↑ 09:24:56 19.85 3101↑ 09:24:53 19.85 3051↑ 09:24:50 19.85 3051↑ 09:24:47 19.85 3051↑ 09:24:44 19.84 3051↑ 09:24:41 19.84 3051↑ 09:24:38 19.84 3051↑ 09:24:35 19.83 3001↑ 报",
+     "title": "瑞晨环保10月27日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610273909275885.html",
+     "pubDate": "Tue, 27 Oct 2026 09:43:57 +0800",
+     "summary": "以下是 瑞晨环保 在北京时间10月27日09:35分盘口异动快照： 10月27日， 瑞晨环保 盘中快速反弹，5分钟内涨幅超过2%，截至9点35分，报49.3元，成交1477.87万元，换手率0.40%。 分笔 09:35:03 49.30 87↑ 09:35:00 49.28 63↓ 09:34:57 49.35 46↓ 09:34:54 49.35 16↓ 09:34:51 49.37 62↑ 09:34:48 49.36 72↑ 09:34:45 49.20 19↓ 09:34:42 49.35 59↑ 09:34:39 49.16 22↓ 09:34:36 49.16 76↑ 报价 卖五",
      "source": "东方财富股票",
-     "zh": "味知香10月27日开盘跌幅达5%"
+     "zh": "瑞晨环保10月27日快速反弹"
     },
     {
-     "title": "中广天择10月27日开盘跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610273909183923.html",
-     "pubDate": "Tue, 27 Oct 2026 09:26:10 +0800",
-     "summary": "以下是 中广天择 在北京时间10月27日09:26分盘口异动快照： 10月27日， 中广天择 开盘跌幅达5%，截至9点26分，报20.37元，成交2897.43万元，换手率1.09%。 分笔 09:25:00 20.37 14224↓ 09:24:57 19.77 12579↑ 09:24:54 19.44 11954↑ 09:24:51 19.44 11499↑ 09:24:48 19.44 11429↑ 09:24:45 19.44 11185↑ 09:24:42 19.44 11162↑ 09:24:39 19.44 11146↑ 09:24:36 19.44 11108↑ 09:24:",
+     "title": "凌玮科技10月27日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610273909273947.html",
+     "pubDate": "Tue, 27 Oct 2026 09:43:50 +0800",
+     "summary": "以下是 凌玮科技 在北京时间10月27日09:35分盘口异动快照： 10月27日， 凌玮科技 盘中快速回调，5分钟内跌幅超过2%，截至9点35分，报86.14元，成交3462.53万元，换手率0.57%。 分笔 09:35:03 86.14 38↑ 09:35:00 86.01 16↓ 09:34:57 86.14 44↓ 09:34:54 86.15 10↑ 09:34:51 86.00 7↑ 09:34:48 86.00 50↑ 09:34:45 86.00 15↑ 09:34:42 86.00 23↑ 09:34:39 85.80 17↑ 09:34:36 85.71 2↑ 报价 卖五 ",
      "source": "东方财富股票",
-     "zh": "中广天择10月27日开盘跌幅达5%"
+     "zh": "凌玮科技10月27日快速回调"
+    },
+    {
+     "title": "粤芯半导-U10月27日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610273909273566.html",
+     "pubDate": "Tue, 27 Oct 2026 09:43:46 +0800",
+     "summary": "以下是粤芯半导-U在北京时间10月27日09:35分盘口异动快照： 10月27日，粤芯半导-U盘中快速回调，5分钟内跌幅超过2%，截至9点35分，报31.56元，成交4.05亿元，换手率5.24%。 分笔 09:35:03 31.56 715↓ 09:35:00 31.59 1504↑ 09:34:57 31.56 246↓ 09:34:54 31.60 1250↑ 09:34:51 31.48 276↑ 09:34:48 31.45 274↓ 09:34:45 31.45 110↑ 09:34:42 31.43 539↑ 09:34:39 31.41 521↓ 09:34:36 31.43 ",
+     "source": "东方财富股票",
+     "zh": "粤芯半导-U10月27日快速回调"
+    },
+    {
+     "title": "Greenbrier anticipates $2.8B-$3.2B revenue and $2.75-$3.75 EPS in fiscal 2027 as leasing expands",
+     "link": "https://seekingalpha.com/news/4657646-greenbrier-anticipates-2_8b-3_2b-revenue-and-2_75-3_75-eps-in-fiscal-2027-as-leasing-expands?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 21:40:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Greenbrier anticipates $2.8B-$3.2B revenue and $2.75-$3.75 EPS in fiscal 2027 as leasing expands"
+    },
+    {
+     "title": "统计局：1—9月份全国规模以上工业企业利润增长15.5%",
+     "link": "http://finance.eastmoney.com/news/1345,202610273909195887.html",
+     "pubDate": "Tue, 27 Oct 2026 09:30:30 +0800",
+     "summary": "1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%（按可比口径计算，详见附注二）。 1—9月份，规模以上工业企业中，国有控股企业实现利润总额19395.5亿元，同比增长13.1%；股份制企业实现利润总额46727.6亿元，增长20.8%；外商及港澳台投资企业实现利润总额13371.4亿元，增长0.5%；私营企业实现利润总额15091.3亿元，增长8.7%。 1—9月份，采矿业实现利润总额8813.7亿元，同比增长38.2%；制造业实现利润总额45738.0亿元，增长17.0%； 电力 、热力、燃气及水生产和供应业实现利润总额5785.6亿元，下降14.3%。 1",
+     "source": "东方财富资讯",
+     "zh": "统计局：1—9月份全国规模以上工业企业利润增长15.5%"
     },
     {
      "title": "10月27日集合竞价：赛福天、多伦科技4连板",
@@ -2272,38 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月27日，三大指数集体高开，上证指数高开0.02%，深证成指高开0.49%，创业板指高开0.89%。板块方面， 会展服务 领涨， 兰生股份 涨9.73%，学历 教育 、 锂 等开盘涨幅居前。 个股方面，5股竞价涨停，其中 赛福天 4连板、 多伦科技 4连板、 青岛食品 2连板、 大西洋 2连板、 深赛格 首板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任",
      "source": "东方财富资讯",
      "zh": "10月27日集合竞价：赛福天、多伦科技4连板"
-    },
-    {
-     "title": "A股开盘：三大指数集体高开",
-     "link": "http://finance.eastmoney.com/news/11440,202610273909184417.html",
-     "pubDate": "Tue, 27 Oct 2026 09:25:52 +0800",
-     "summary": "A股开盘，上证指数高开0.02%，深证成指高开0.49%，创业板指高开0.89%。 元件 、CPO、 半导体 板块集体高开。",
-     "source": "东方财富股票",
-     "zh": "A股开盘：三大指数集体高开"
-    },
-    {
-     "title": "2027年AI值得关注的五大趋势",
-     "link": "http://finance.eastmoney.com/news/1351,202610273909182340.html",
-     "pubDate": "Tue, 27 Oct 2026 09:25:04 +0800",
-     "summary": "《福布斯》双周刊网站报道： 2027年AI值得关注的五大趋势 美国《福布斯》双周刊网站在近日的报道中指出，2027年， 人工智能 (AI)会再次成为“主角”，但出彩的不只是聊天 机器人 和生成式AI。智能机器正缓步进入现实世界，人形 机器人 也在学习与人类并肩工作。 与此同时，随着合成内容激增，对AI安全性的担忧将挑战人们对现实的判断，也呼唤新的应对策略。此外，具身智能将更深地融入日常，并带来伦理拷问。人们还将看到，可穿戴设备、智能眼镜和高级语音助理将推动人类迈向“后屏幕时代”。当然，这场革命需要更强的动力，也将加剧对小型模块化反应堆、轨道发电等创新 能源方案 的竞逐。 安全问题侵蚀公众信任 ",
-     "source": "东方财富股票",
-     "zh": "2027年AI值得关注的五大趋势"
-    },
-    {
-     "title": "港股开盘：恒指高开0.21% 联想集团领涨成分股",
-     "link": "http://stock.eastmoney.com/news/11771,202610273909177083.html",
-     "pubDate": "Tue, 27 Oct 2026 09:23:16 +0800",
-     "summary": "&nbsp; 港股10月27日 高开，恒生指数开盘报23260.14点，涨48.33点，涨幅0.21%； 恒生科技指数 开盘报3886.18点，涨28.65点，涨幅0.74%。 恒生指数成分股中 联想集团 、 药明康德 、 华虹宏力 涨幅居前 ， 中通快递-W 、 京东健康 、 长江基建集团 跌幅靠前 。 恒生科技指数成分股中 联想集团 、 华虹宏力 、 智谱 涨幅居前 ， 京东健康 、 零跑汽车 、地平线 机器人 -W跌幅靠前 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据",
-     "source": "东方财富股票",
-     "zh": "港股开盘：恒指高开0.21% 联想集团领涨成分股"
-    },
-    {
-     "title": "Anthropic招股书里最值得看的14个细节",
-     "link": "https://wallstreetcn.com/articles/3784522",
-     "pubDate": "Tue, 27 Oct 2026 09:07:33 +0800",
-     "summary": "10月26日，Anthropic正式向美国证券交易委员会公开提交IPO申请，拟在纳斯达克挂牌，股票代码ANT，目标估值1.5万亿美元至2万亿美元，有望超越SpaceX创下的历史纪录。IPO时间窗口据媒体爆料定于11月16日当周。 当天，美股半导体板块应声上涨——纳指盘中涨超1%，博通、AMD、英伟达各自拉涨近3%。Anthropic还未挂牌，最先涨的是它的供应商们。Anthropic已经签下总额超过8000亿美元的算力合同，最长排到2045年。在市场看来，这些长单或许已经是写进硬件巨头资产负债表里的确定性收入。 这份长达443页、约24万英文单词的S-1，是公众第一次有机会完整审视这家世界顶级",
-     "source": "华尔街见闻",
-     "zh": "Anthropic招股书里最值得看的14个细节"
     },
     {
      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
@@ -2317,7 +2309,7 @@ window.INDUSTRY_DATA = {
      "title": "上映4天票房仅123万 上座率跌至0.2% 首部院线AI长片票房遭遇滑铁卢",
      "link": "http://finance.eastmoney.com/news/1354,202610273909089277.html",
      "pubDate": "Tue, 27 Oct 2026 09:04:19 +0800",
-     "summary": "《科创板日报》10月27日讯（记者李佳怡） 千万成本难回本？首部AI电影上映 院线 遇冷。 近日，国内首部拿到“龙标”的AI全流程 院线 长片《三星堆：未来往事》登陆全国 院线 。截至10月26日晚，该影片累计票房仅为122.9万元。排片场次有8331场，上座率跌至0.2%，场均人次0.3人。对照千万元级的制作成本，片方分账或仅约80万元，通过院线回收的资金不足十分之一。 资本市场的反应同样剧烈， 博纳影业 10月26日盘中跌停，收跌10.06%，报5.54元，总市值76.15亿元。同日，AI漫剧概念集体走弱， 慈文传媒 跌停， 果麦文化 盘内一度跌超10%。 首部院线AI电影遇冷，4天123",
+     "summary": "千万成本难回本？首部AI电影上映 院线 遇冷。 近日，国内首部拿到“龙标”的AI全流程 院线 长片《三星堆：未来往事》登陆全国 院线 。截至10月26日晚，该影片累计票房仅为122.9万元。排片场次有8331场，上座率跌至0.2%，场均人次0.3人。对照千万元级的制作成本，片方分账或仅约80万元，通过院线回收的资金不足十分之一。 资本市场的反应同样剧烈， 博纳影业 10月26日盘中跌停，收跌10.06%，报5.54元，总市值76.15亿元。同日，AI漫剧概念集体走弱， 慈文传媒 跌停， 果麦文化 盘内一度跌超10%。 首部院线AI电影遇冷，4天123万票房 10月23日，首部拿到“龙标”的AI",
      "source": "东方财富资讯",
      "zh": "上映4天票房仅123万 上座率跌至0.2% 首部院线AI长片票房遭遇滑铁卢"
     },
@@ -2346,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "Agilysys raises FY2027 revenue outlook to $374M-$378M with at least 34% subscription growth"
     },
     {
-     "title": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Tue, 27 Oct 2026 09:00:15 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻"
-    },
-    {
      "title": "主动权益“年内翻倍基”怎么清零了？如何看这一现象？",
      "link": "http://stock.eastmoney.com/news/11215,202610273908971538.html",
      "pubDate": "Tue, 27 Oct 2026 08:58:33 +0800",
@@ -2368,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "US President casts doubt on integrity of South American nation’s election result over extension of voting hours",
      "source": "Financial Times",
      "zh": "Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’"
-    },
-    {
-     "title": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的",
-     "link": "https://wallstreetcn.com/articles/3784524",
-     "pubDate": "Tue, 27 Oct 2026 08:52:36 +0800",
-     "summary": "前沿AI模型公司Anthropic正式迈出上市关键一步，这将是AI领域迄今规模最大的IPO。 华尔街见闻提及 ，Anthropic周一向美国证券交易委员会递交S-1招股说明书，318页的文件披露了其商业模式、风险因素及财务状况，消息提振周一AI相关芯片股走势。 招股书在第194页预留了10月年度经常性收入（ARR）的空白占位符，待修订版S-1中补充披露。 资深科技财经作者Tae Kim发表专栏指出，这一安排本身即释放积极信号—— 若10月ARR数据不佳，Anthropic完全没有义务将其纳入修订文件，主动预留意味着公司对该数据有信心 。 9月22日，Anthropic已发布性能大幅提升的Opu",
-     "source": "华尔街见闻",
-     "zh": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的"
     },
     {
      "title": "Rambus expects Q4 revenue of $227M-$233M as it targets continued product ramps into 2027",
@@ -2394,28 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "美联储本周决议将风平浪静？高盛预测：不会加息、也不会释放重大新信号"
     },
     {
-     "title": "欧美避险情绪渐消！全球债市决战“超级央行周”",
-     "link": "http://bond.eastmoney.com/news/1326,202610273908971666.html",
-     "pubDate": "Tue, 27 Oct 2026 08:46:21 +0800",
-     "summary": "周一，在欧美市场避险情绪逐渐消退的背景下，美国国债收益率涨跌不一。 穆迪 评级公司上周五维持了法国信用评级不变，法国国债周一的表现跑赢全球债市。而随着Anthropic招股书重新点燃AI行情，美国三大股指隔夜也集体上涨，令美债避险买盘暂告段落。 分析人士指出，本周投资者的关注焦点将集中在美联储和欧洲央行分别于周三和周四作出的利率决议上。据LSEG数据显示，货币市场预计两大央行本周按兵不动的概率均高达90%，但交易员仍预计未来数月可能再度加息。 行情数据显示，在2年期美债拍卖显示需求略有疲软后，2年期美债收益率尾盘升至了约4.712%。 美国财政部本次完成了690亿美元2年期国债竞标，得标利率定",
-     "source": "东方财富资讯",
-     "zh": "欧美避险情绪渐消！全球债市决战“超级央行周”"
-    },
-    {
      "title": "今日看点｜中国1—9月规模以上工业企业利润将公布",
      "link": "http://www.eeo.com.cn/2026/1027/1076049.shtml",
      "pubDate": "Tue, 27 Oct 2026 08:38:54 +0800",
      "summary": "10月27日，国家统计局将公布1-9月规模以上工业企业利润数据。",
      "source": "经济观察网",
      "zh": "今日看点｜中国1—9月规模以上工业企业利润将公布"
-    },
-    {
-     "title": "今日大选！内塔尼亚胡面临政治大考，曾策划“选前攻击伊朗”被特朗普和军方拒绝",
-     "link": "https://wallstreetcn.com/articles/3784516",
-     "pubDate": "Tue, 27 Oct 2026 08:33:25 +0800",
-     "summary": "以色列定于周二举行议会大选，选情高度胶着，现任总理内塔尼亚胡的政治前途悬而未决。 10月27日， 据央视新闻 ，以色列今日将举行新一届议会选举，选情胶着，内塔尼亚胡拉特朗普“背书”。 与此同时据CNN报道，内塔尼亚胡近期曾游说特朗普支持对伊朗发动联合打击，特朗普最终未予批准，要求以方等待美方就绪后再行行动。 据《纽约时报》及以色列第12频道报道，以军总参谋长扎米尔（Eyal Zamir）在军方层面对内塔尼亚胡的施压进行了明确抵制，认为此举存在重大安全误判风险，并担忧其政治动机。 上述争议令内塔尼亚胡深陷\"以战干政\"的指控漩涡，反对派已要求检察总长就\"叛国\"问题展开刑事调查。 据 央视新闻 ，当",
-     "source": "华尔街见闻",
-     "zh": "今日大选！内塔尼亚胡面临政治大考，曾策划“选前攻击伊朗”被特朗普和军方拒绝"
     },
     {
      "title": "Simpson outlines 2026 operating margin of 20.0% to 20.5% as it readies additional steel-driven pricing actions",
@@ -2434,28 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "Kforce expects Q4 revenue of $352M-$360M and EPS of $0.62-$0.70 as technology demand builds"
     },
     {
-     "title": "AI募资狂潮“最大赢家”：高盛依旧是“华尔街之王”",
-     "link": "https://wallstreetcn.com/articles/3784518",
-     "pubDate": "Tue, 27 Oct 2026 08:24:49 +0800",
-     "summary": "在AI融资热潮席卷华尔街之际，高盛正以压倒性姿态确立其市场主导地位。 周一，三笔总规模至少达2100亿美元的AI巨型融资交易同时落地，高盛的名字出现在每一笔交易之中。这一天，高盛联合主导了Meta Platforms高达950亿美元的股票发行，担任SpaceX 400亿美元芯片融资交易的唯一结构安排行，并出任Anthropic首次公开募股（IPO）的左一账簿管理人——后者的规模预计至少与SpaceX今年6月的上市相当。 这三笔交易将为高盛带来至少数千万美元、甚至可能高达数亿美元的收入。 AI融资热潮正在重塑华尔街的竞争格局。华尔街五大行今年前九个月的承销收入合计已超过190亿美元，其中股权资本",
-     "source": "华尔街见闻",
-     "zh": "AI募资狂潮“最大赢家”：高盛依旧是“华尔街之王”"
-    },
-    {
      "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
      "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
      "pubDate": "Tue, 27 Oct 2026 00:17:44 GMT",
      "summary": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
      "source": "CNBC",
      "zh": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey"
-    },
-    {
-     "title": "Anthropic能拿下“股市最大IPO”，却未必能有“债市投资级”",
-     "link": "https://wallstreetcn.com/articles/3784520",
-     "pubDate": "Tue, 27 Oct 2026 08:17:09 +0800",
-     "summary": "Anthropic在备受瞩目的IPO招股文件中，对外界最关心的投资级信用评级问题几乎只字未提，却同时警告可能比预期更早寻求新一轮融资。这一组合信号，正在让债券市场的潜在买家陷入观望。 招股文件显示，截至今年6月30日，Anthropic已有62亿美元的流动债务，全部以可转换本票形式欠于亚马逊。 与此同时，公司还披露了一笔由摩根士丹利牵头、规模高达150亿美元的五年期循环信贷额度，以及从亚马逊、Broadcom和谷歌母公司Alphabet处再借770亿美元可转换票据的潜在选项。更令市场瞩目的是，截至6月底，Anthropic尚未启动的租赁承诺——主要与算力和基础设施容量相关——已从去年12月底的",
-     "source": "华尔街见闻",
-     "zh": "Anthropic能拿下“股市最大IPO”，却未必能有“债市投资级”"
     },
     {
      "title": "Amkor anticipates Q4 revenue of $1.9B-$2.0B while narrowing 2026 CapEx to around $2.5B",
@@ -2466,20 +2410,76 @@ window.INDUSTRY_DATA = {
      "zh": "Amkor anticipates Q4 revenue of $1.9B-$2.0B while narrowing 2026 CapEx to around $2.5B"
     },
     {
-     "title": "Clearwater Paper expects Q4 adjusted EBITDA of $10M-$20M as it plans a $12M-$15M Augusta outage in Jan 2027",
-     "link": "https://seekingalpha.com/news/4657641-clearwater-paper-expects-q4-adjusted-ebitda-of-10m-20m-as-it-plans-a-12m-15m-augusta-outage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 20:01:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Clearwater Paper expects Q4 adjusted EBITDA of $10M-$20M as it plans a $12M-$15M Augusta outage in Jan 2027"
-    },
-    {
      "title": "Mastercard targets creators via MrBeast partnership",
      "link": "https://www.finextra.com/newsarticle/48650/mastercard-targets-creators-via-mrbeast-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Tue, 27 Oct 2026 00:01:00 GMT",
      "summary": "Mastercard is targeting the creator community through a partnership with Beast Industries, the company founded by YouTube superstar MrBeast.",
      "source": "Finextra",
      "zh": "Mastercard targets creators via MrBeast partnership"
+    },
+    {
+     "title": "CapitalOS raises $21.9m for money orchestration layer for B2B platforms",
+     "link": "https://www.finextra.com/newsarticle/48652/capitalos-raises-219m-for-money-orchestration-layer-for-b2b-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 27 Oct 2026 00:01:00 GMT",
+     "summary": "CapitalOS, a money orchestration layer for B2B platforms, has raised $21.9 million in Series A funding.",
+     "source": "Finextra",
+     "zh": "CapitalOS raises $21.9m for money orchestration layer for B2B platforms"
+    },
+    {
+     "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive &apos;trickle-down effect&apos;",
+     "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+     "pubDate": "Mon, 26 Oct 2026 22:50:07 GMT",
+     "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+     "source": "CNBC",
+     "zh": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive &apos;trickle-down effect&apos;"
+    },
+    {
+     "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+     "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 22:30:00 GMT",
+     "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+     "source": "MarketWatch",
+     "zh": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?"
+    },
+    {
+     "title": "DOJ charges ex-FBI Director James Comey in new case",
+     "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+     "pubDate": "Mon, 26 Oct 2026 22:24:36 GMT",
+     "summary": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
+     "source": "CNBC",
+     "zh": "DOJ charges ex-FBI Director James Comey in new case"
+    },
+    {
+     "title": "Dividend stocks are having an excellent October as tech sector struggles",
+     "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 22:10:00 GMT",
+     "summary": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
+     "source": "MarketWatch",
+     "zh": "Dividend stocks are having an excellent October as tech sector struggles"
+    },
+    {
+     "title": "Options traders are seizing control of the S&P 500",
+     "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 22:03:00 GMT",
+     "summary": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
+     "source": "MarketWatch",
+     "zh": "Options traders are seizing control of the S&P 500"
+    },
+    {
+     "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+     "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 22:00:00 GMT",
+     "summary": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
+     "source": "MarketWatch",
+     "zh": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours."
+    },
+    {
+     "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+     "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 21:55:00 GMT",
+     "summary": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
+     "source": "MarketWatch",
+     "zh": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan"
     }
    ]
   },

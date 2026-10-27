@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/28 07:19:14",
+ "generated_at": "2026/10/28 07:35:05",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
      "source": "TechCrunch AI",
      "zh": "The data center boom has an upside: innovation for the US grid"
+    },
+    {
+     "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
+     "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+     "pubDate": "Tue, 27 Oct 2026 21:54:37 +0000",
+     "summary": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search. The post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to",
+     "source": "MarkTechPost",
+     "zh": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB"
     },
     {
      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
@@ -111,14 +119,6 @@
      "summary": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding. The post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context ",
      "source": "MarkTechPost",
      "zh": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context"
-    },
-    {
-     "title": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares",
-     "link": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
-     "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
-     "summary": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting with video.",
-     "source": "KDnuggets",
-     "zh": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares"
     },
     {
      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
@@ -1737,6 +1737,62 @@
    "total": 18,
    "items": [
     {
+     "title": "SK海力士 2026 财年前三季度报归母净利润 173.68 万亿韩元，同比增长 527%",
+     "link": "https://www.ithome.com/1/018/716.htm",
+     "pubDate": "Tue, 27 Oct 2026 23:32:07 GMT",
+     "summary": "IT之家 10 月 28 日消息，SK海力士今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）业绩快报及第三财季（2026 年 7 月～2026 年 9 月）业绩快报报告： 2026 财年前三季度报 营业总收入 ：236.51 万亿韩元 （IT之家注：现汇率约合 1.19 万亿元人民币） ，同比增长 267.7% 归母净利润 ：173.68 万亿韩元 （现汇率约合 8765.87 亿元人民币） ，同比增长 527% 2026 财年第三财季 营业总收入 ：104.62 万亿韩元 （现汇率约合 5279.94 亿元人民币",
+     "source": "IT之家",
+     "zh": "SK海力士 2026 财年前三季度报归母净利润 173.68 万亿韩元，同比增长 527%"
+    },
+    {
+     "title": "别再证明你有潜力，先交出一个60分的成品",
+     "link": "https://www.huxiu.com/article/4900947.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 07:24:46 +0800",
+     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《很残酷的一个真相，但是你越早知道越好》，题图来自：视觉中国 我不知道你有没有留意过，身边人对你的夸奖，是怎么随时间发生变化的。 二十出头刚进社会的时候，几乎所有人对你的评价，都带着一种温和的期许。那时候你把事情搞砸了，前辈会拍拍你肩膀安慰：没事，看得出你脑子活，很有潜力。 你在饭桌上聊起来自己天马行空的想法，长辈哪怕听不懂，也会笑着点头：这年轻人有灵气，以后肯定有出息。 但不知道从哪一天开始，这些话悄悄消失了。 到了三十岁上下，如果你在会议上，还在讲一个虽然没做出来，但前景特别好的构想，旁边的人不会再顺着",
+     "source": "虎嗅",
+     "zh": "别再证明你有潜力，先交出一个60分的成品"
+    },
+    {
+     "title": "火狐 Firefox 浏览器整合“网页变化雷达”，帮你盯商品降价和补货",
+     "link": "https://www.ithome.com/1/018/715.htm",
+     "pubDate": "Tue, 27 Oct 2026 23:23:42 GMT",
+     "summary": "IT之家 10 月 28 日消息，Mozilla 昨日（10 月 27 日）宣布扩展火狐 Firefox 浏览器的 AI 浏览功能“智能窗口”（Smart Window）， 新增 AI 表单自动填写和网站监控两项能力，目前面向部分桌面版测试用户开放。 在 AI 表单自动填写方面，除了自动填充姓名、地址、联系方式等传统信息外，还可以从用户已打开的其他标签页中提取上下文，例如借助在线作品集或职业档案填写工作经历，甚至根据相关材料起草“请描述一次……”这类开放式问题的回答。IT之家附上相关动图如下： 不过 Mozilla 也明确该功能需要传输部分数据到云端，使用 Google 的 Gemini 3.",
+     "source": "IT之家",
+     "zh": "火狐 Firefox 浏览器整合“网页变化雷达”，帮你盯商品降价和补货"
+    },
+    {
+     "title": "Discord 公共服务器聊天将能被搜索引擎搜到，用户可手动关闭",
+     "link": "https://www.ithome.com/1/018/714.htm",
+     "pubDate": "Tue, 27 Oct 2026 23:23:17 GMT",
+     "summary": "IT之家 10 月 28 日消息，Discord 于当地时间周二宣布，将使其公共服务器中的部分对话可被搜索，且更便于在互联网上查找。这项新更新针对“可发现服务器”里的对话，这类服务器是 Discord 公共服务器，由管理员设置为可在平台的服务器发现功能中显示。 此举旨在帮助更多人找到那些原本会淹没在 Discord 聊天记录里的有用信息。 Discord 称，目前有超过 6.3 万个可发现服务器，讨论内容涵盖游戏攻略、粉丝圈子、语言学习以及各类小众爱好。通过开放部分对话的外网检索能力，Discord 希望把社区内容的影响力延伸到平台之外。 这一做法也借鉴了传统互联网论坛的优势，用户可以通过检索",
+     "source": "IT之家",
+     "zh": "Discord 公共服务器聊天将能被搜索引擎搜到，用户可手动关闭"
+    },
+    {
+     "title": "Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation (Rashi Shrivastava/Forbes)",
+     "link": "https://www.techmeme.com/261027/p35#a261027p35",
+     "pubDate": "Tue, 27 Oct 2026 19:20:01 -0400",
+     "summary": "Rashi Shrivastava / Forbes : Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation &nbsp; &mdash;&nbsp; Infisical is helping companies like Airbus and Volkswagen use agents without handing over their",
+     "source": "Techmeme",
+     "zh": "Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation (Rashi Shrivastava/Forbes)"
+    },
+    {
+     "title": "【钛晨报】多项智能出行国际标准发布；Anthropic降价引爆调用量，知名投资人：1000亿美元级年终ARR再成可能；东山精密：最终发售价为每股86.8港元，国际发售获3.17倍认购",
+     "link": "https://www.tmtpost.com/8183890.html",
+     "pubDate": "Wed, 28 Oct 2026 07:20:00 +0800",
+     "summary": "年收入逼近400亿元？红果短剧回应：不实；并入火山近百日后，飞书首席战略官史志隽将卸任转顾问；马斯克称SpaceX移动网络建设将耗时2至3年；新规出炉：有线电视不得播放开机广告；事关能源保供中长期合同管理，国家发展改革委作出部署；13家科创50公司正在实施回购计划，预计金额上限超50亿元；中国作为首批签约国签署《联合国可转让货物单证公约》；崔东树：2026年1-9月汽车行业利润率3.3%；国家统计局：1—9月份全国规模以上工业企业利润增长15.5%",
+     "source": "钛媒体",
+     "zh": "【钛晨报】多项智能出行国际标准发布；Anthropic降价引爆调用量，知名投资人：1000亿美元级年终ARR再成可能；东山精密：最终发售价为每股86.8港元，国际发售获3.17倍认购"
+    },
+    {
+     "title": "江淮汽车，假如刹车踏板没断",
+     "link": "https://www.huxiu.com/article/4900332.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 07:16:53 +0800",
+     "summary": "作者｜Eastland 头图｜视觉中国 2028年10月8日，懂车帝发布视频称3台尊界V 800在100km/h至0紧急制动测试中，刹车踏板支架断裂。 很快，尊界生产商江淮汽车（ SH：600418 ）公布了第三方检测结果（ 静态） ，制动踏板在纵向力1500N下符合行标，在3000N下也未出现裂纹。 目前，工信部、中央网信办、市场监管总局已成立联合调查组，在前期调查基础上进行核查。 有两点值得关注： 第一，事情并不算复杂且已完成前期调查，大概率没有发现尊界必须立即整改的严重问题。为慎重起见，可以等到核查后再公布结论； 第二，中央网信办参加核查，说明要对媒体相关行为立规矩。 &ldquo;刹车",
+     "source": "虎嗅",
+     "zh": "江淮汽车，假如刹车踏板没断"
+    },
+    {
      "title": "贵约 16%：苹果 14 英寸 OLED 触控屏 MacBook Pro 起售价曝光",
      "link": "https://www.ithome.com/1/018/713.htm",
      "pubDate": "Tue, 27 Oct 2026 23:16:09 GMT",
@@ -1753,20 +1809,20 @@
      "zh": "纯电需求不及预期，通用调转方向发力混动车型"
     },
     {
+     "title": "小鹏之困：挣不到老登的钱，急了骂老登",
+     "link": "https://www.huxiu.com/article/4900946.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 07:10:21 +0800",
+     "summary": "本文来自微信公众号： 穷奇商业 ，作者：穷奇观察 10月15日，小鹏MONA L05预售发布会。00后产品经理恩塔登台，开口就是\"老登怎么会懂年轻人想要什么\"，吐槽老板们喜欢的木纹镀铬\"太老登\"，喊出口号\"拒绝登味审美\"。被点名的，包括何小鹏本人。 十余天过去，这出戏演了四幕：产品经理道歉，副总裁于涛以个人微博下场对线、悬赏一百万征集\"有人炒作\"的证据，何小鹏以自嘲姿态接住\"老登\"这个称呼。被叫老登的人排队护犊子，吃瓜的老登们集体上火。 先把判断砸在桌上：这不是代沟事故，这是一笔算错了的账。登味从来不是笑话，是支付密码。骂老登的人，挣不到老登的钱。 一、钱在谁手里 先把两个词钉死，后文不再解释",
+     "source": "虎嗅",
+     "zh": "小鹏之困：挣不到老登的钱，急了骂老登"
+    },
+    {
      "title": "谷歌推出最强世界模型 Genie 4：一句话创造可交互虚拟世界，首次实现音视频同步生成",
      "link": "https://www.ithome.com/1/018/711.htm",
      "pubDate": "Tue, 27 Oct 2026 23:04:49 GMT",
      "summary": "IT之家 10 月 28 日消息，谷歌 DeepMind 于周二推出了最新的世界模型 Genie 4，目前处于研究预览阶段。这款最新模型能够生成迄今为止拟真度最高、可交互的虚拟世界，用户可以在模拟运行的过程中输入提示词来修改场景。该模型还能生成和虚拟世界同步的实时音频，涵盖音乐、环境音以及可交互对话。 IT之家注意到，就在 Genie 4 发布的数月之前，AI 视频初创公司 Runway 推出了自家第二款世界模型 GWM Worlds 2，这是一款可交互运行的模型，能够对用户输入做出动态响应，同时支持音频生成。与此同时，世界模型赛道开始出现整合趋势。李飞飞（Fei-Fei Li）创立的世界实验",
      "source": "IT之家",
      "zh": "谷歌推出最强世界模型 Genie 4：一句话创造可交互虚拟世界，首次实现音视频同步生成"
-    },
-    {
-     "title": "国产凶猛创历史：2026Q3 中国车在欧洲季度销量首超日本",
-     "link": "https://www.ithome.com/1/018/710.htm",
-     "pubDate": "Tue, 27 Oct 2026 22:45:55 GMT",
-     "summary": "IT之家 10 月 28 日消息，彭博社于 10 月 26 日发布博文，援引市场研究机构 Dataforce 的数据，指出在 2026 年第 3 季度（7~9 月），中国品牌汽车在欧洲的注册量首次超过日本品牌， 占欧洲总销量的 12.7%，而包括丰田在内的日本车企份额为 11.9%。 该机构指出中国汽车在欧洲市场快速崛起，5 年前市场份额还不到 1%，去年已经快速攀升到约 6%，今年更是窜火箭式上涨，今年 9 月更达到创纪录的 14.5%，较 8 月提高近 3 个百分点。IT之家附上相关图表如下： 该机构认为驱动本轮增长的主要因素，是混合动力车型带动。 在车企动态方面，比亚迪、奇瑞、吉利等车企",
-     "source": "IT之家",
-     "zh": "国产凶猛创历史：2026Q3 中国车在欧洲季度销量首超日本"
     },
     {
      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
@@ -1780,7 +1836,7 @@
      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
      "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
      "pubDate": "Tue, 27 Oct 2026 22:31:15 +0000",
-     "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 7 # Comments: 4",
+     "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 12 # Comments: 10",
      "source": "Hacker News",
      "zh": "Reviewers rarely talk about reliability. Owners bring it up twice as often"
     },
@@ -1791,14 +1847,6 @@
      "summary": "Christina Kyriasoglou / Bloomberg : NXP reports Q3 revenue up 19% YoY to $3.79B, vs. $3.76B est., and forecasts Q4 revenue below estimates; NXPI drops 7%+ after hours &nbsp; &mdash;&nbsp; NXP Semiconductors NV, a maker of chips for auto and industrial customers, slid in late trading after delivering",
      "source": "Techmeme",
      "zh": "NXP reports Q3 revenue up 19% YoY to $3.79B, vs. $3.76B est., and forecasts Q4 revenue below estimates; NXPI drops 7%+ after hours (Christina Kyriasoglou/Bloomberg)"
-    },
-    {
-     "title": "别学编程了！Anthropic CEO 直言：代码工作快速消失，人类应该学弹钢琴",
-     "link": "https://www.ithome.com/1/018/708.htm",
-     "pubDate": "Tue, 27 Oct 2026 22:30:30 GMT",
-     "summary": "如果说，当今世界有人能看清人类未来十年的走向，Dario Amodei 绝对是其中之一。 他曾接受了一场非常深入的访谈。在这场对话中，他坦诚分享了自己对未来的预测 —— 「 AI 海啸正向我们扑来，近在咫尺。但整个社会却假装那只是海市蜃楼。 」 未来十年，什么行业会被彻底颠覆？ 25 岁的年轻人今天应该学什么专业？ 编程是不是真的穷途末路？普通人如何在这场大洗牌中保住饭碗？ 「纯写代码」的工作，即将第一个消亡 访谈中，主持人问了一个所有人都无比焦虑的问题： 如果我今天 25 岁，想在未来十年实现财富上的成功，我应该去学什么？编程还有用吗？什么行业还有红利？ Dario 的回答很残酷。 他直言不",
-     "source": "IT之家",
-     "zh": "别学编程了！Anthropic CEO 直言：代码工作快速消失，人类应该学弹钢琴"
     },
     {
      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
@@ -1876,7 +1924,7 @@
      "title": "One year of Dioxus fullstack in production: the good, the painful",
      "link": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
      "pubDate": "Tue, 27 Oct 2026 21:19:15 +0000",
-     "summary": "Article URL: https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful Comments URL: https://news.ycombinator.com/item?id=50265960 Points: 16 # Comments: 8",
+     "summary": "Article URL: https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful Comments URL: https://news.ycombinator.com/item?id=50265960 Points: 17 # Comments: 10",
      "source": "Hacker News",
      "zh": "One year of Dioxus fullstack in production: the good, the painful"
     },
@@ -1884,7 +1932,7 @@
      "title": "Early progress on accelerating drug development with Claude",
      "link": "https://www.anthropic.com/research/early-progress-drug-development",
      "pubDate": "Tue, 27 Oct 2026 20:50:42 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 70 # Comments: 54",
+     "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 73 # Comments: 59",
      "source": "Hacker News",
      "zh": "Early progress on accelerating drug development with Claude"
     },
@@ -1892,7 +1940,7 @@
      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
      "pubDate": "Tue, 27 Oct 2026 20:48:49 +0000",
-     "summary": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 54 # Comments: 15",
+     "summary": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 61 # Comments: 18",
      "source": "Hacker News",
      "zh": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees"
     },
@@ -1908,17 +1956,9 @@
      "title": "Hex Raises $100M",
      "link": "https://hex.tech/blog/hex-new-era/",
      "pubDate": "Tue, 27 Oct 2026 20:36:38 +0000",
-     "summary": "Article URL: https://hex.tech/blog/hex-new-era/ Comments URL: https://news.ycombinator.com/item?id=50265413 Points: 19 # Comments: 9",
+     "summary": "Article URL: https://hex.tech/blog/hex-new-era/ Comments URL: https://news.ycombinator.com/item?id=50265413 Points: 21 # Comments: 10",
      "source": "Hacker News",
      "zh": "Hex Raises $100M"
-    },
-    {
-     "title": "恩智浦 2026 财年第三财季归母净利润 8.84 亿美元，同比增长 40%",
-     "link": "https://www.ithome.com/1/018/707.htm",
-     "pubDate": "Tue, 27 Oct 2026 20:26:54 GMT",
-     "summary": "IT之家 10 月 28 日消息，恩智浦今日发布 2026 财年（2025 年 9 月 29 日～2026 年 9 月 26 日）第三财季（2026 年 6 月 29 日～2026 年 9 月 27 日）报告： 营业总收入 ：37.86 亿美元 （IT之家注：现汇率约合 253.05 亿元人民币） ，同比增长 19%，环比增长 8% 毛利润 ：21.89 亿美元 （现汇率约合 146.31 亿元人民币） ，同比增长 22%，环比增长 9% 毛利率 ：57.8%，同比增长 1.5 个百分点，环比增长 0.5 个百分点 归母净利润 ：8.84 亿美元 （现汇率约合 59.08 亿元人民币） ，同比",
-     "source": "IT之家",
-     "zh": "恩智浦 2026 财年第三财季归母净利润 8.84 亿美元，同比增长 40%"
     },
     {
      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
@@ -1929,52 +1969,12 @@
      "zh": "Code-execution flaw in UEFI firmware affects most servers on planet Earth"
     },
     {
-     "title": "Sources: AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026 (Bloomberg)",
-     "link": "https://www.techmeme.com/261027/p29#a261027p29",
-     "pubDate": "Tue, 27 Oct 2026 16:20:04 -0400",
-     "summary": "Bloomberg : Sources: AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026 &nbsp; &mdash;&nbsp; Physical Intelligence, a startup developing artificial intelligence software to power robots for real-world",
-     "source": "Techmeme",
-     "zh": "Sources: AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026 (Bloomberg)"
-    },
-    {
      "title": "Four Months of Zig",
      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
      "pubDate": "Tue, 27 Oct 2026 20:13:27 +0000",
-     "summary": "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 43 # Comments: 17",
+     "summary": "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 48 # Comments: 21",
      "source": "Hacker News",
      "zh": "Four Months of Zig"
-    },
-    {
-     "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-     "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-     "pubDate": "Tue, 27 Oct 2026 19:39:04 +0000",
-     "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-     "source": "WIRED",
-     "zh": "Anthropic Says It Will Revolutionize Biology—Some Day"
-    },
-    {
-     "title": "Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)",
-     "link": "https://www.wired.com/story/everblog-homecal-deal-october-2026/",
-     "pubDate": "Tue, 27 Oct 2026 18:51:17 +0000",
-     "summary": "The Everblog HomeCal delivers a similar experience, including a digital photo frame and meal planning at no extra cost.",
-     "source": "WIRED",
-     "zh": "Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)"
-    },
-    {
-     "title": "Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr",
-     "link": "https://www.wired.com/story/motorola-razr-deal-october-2026/",
-     "pubDate": "Tue, 27 Oct 2026 18:41:41 +0000",
-     "summary": "The Razr is our favorite budget foldable phone. While it isn’t on sale yet, Motorola is adding extras to sweeten this October deal.",
-     "source": "WIRED",
-     "zh": "Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr"
-    },
-    {
-     "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-     "link": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-     "pubDate": "Tue, 27 Oct 2026 18:20:28 +0000",
-     "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
-     "source": "WIRED",
-     "zh": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks"
     }
    ]
   },
@@ -2233,6 +2233,86 @@
    "total": 13,
    "items": [
     {
+     "title": "三季度净利增速抬升 PCB企业加码高端产能",
+     "link": "http://finance.eastmoney.com/news/1354,202610283910637537.html",
+     "pubDate": "Wed, 28 Oct 2026 07:26:22 +0800",
+     "summary": "PCB （ 印制电路板 ）上市公司三季报密集披露，业绩增长态势进一步显现。10月27日， 沪电股份 、 超声电子 披露三季报，前三季度归母净利润分别同比增长106.87%、97.52%，增速均明显高于前三季度整体水平。 此前， 深南电路 、 景旺电子 已交出营收、净利润双增长的成绩单。从增长动因看，AI服务器、高速交换机等需求持续释放，叠加产品结构优化、新增产能爬坡，推动多家公司盈利提升。不过，企业间业绩仍有分化，原材料价格上涨对成本管控与供应链协同提出了更高要求。 多家公司净利快速增长 沪电股份 三季报显示，公司前三季度实现营业收入232.25亿元，同比增长71.88%；归母净利润56.22",
+     "source": "东方财富股票",
+     "zh": "三季度净利增速抬升 PCB企业加码高端产能"
+    },
+    {
+     "title": "年内七十三家企业终止IPO 超九成为主动撤回",
+     "link": "http://stock.eastmoney.com/news/1448,202610283910637613.html",
+     "pubDate": "Wed, 28 Oct 2026 07:24:25 +0800",
+     "summary": "10月以来，IPO终止审核情况接连出现。 数据显示，10月已有9家拟IPO企业终止上市进程，与9月持平。全年来看，截至10月26日，A股年内已有73家拟IPO企业终止上市进程，其中超九成为发行人或保荐机构主动撤回申请。从节奏上看，今年拟IPO企业终止申报数量逐季走高，仅三季度就有30家企业终止IPO。 IPO终止数量逐季增加 经过两轮问询，距离上市仅临门一脚，兢强科技近日撤回IPO申请，上市进程由此也告一段落。 根据交易所数据，今年以来，合计已有73家拟IPO企业终止上市进程，九成以上为发行人及保荐机构主动撤回申报材料。分市场来看，北交所终止项目最多，共计43家，占比达58.9%；上交所18家",
+     "source": "东方财富股票",
+     "zh": "年内七十三家企业终止IPO 超九成为主动撤回"
+    },
+    {
+     "title": "早新闻 | 最高增长超38倍，新一批业绩暴增股出炉",
+     "link": "http://finance.eastmoney.com/news/1354,202610283910691027.html",
+     "pubDate": "Wed, 28 Oct 2026 07:23:42 +0800",
+     "summary": "宏观热点 国家统计局：1—9月份全国规模以上工业企业利润增长15.5% 国家统计局数据显示，1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。 《上海市加快发展新一代智能制造行动方案》发布 10月27日，上海市经济信息化委印发《上海市加快发展新一代智能制造行动方案》。其中提到，培育语料服务、 数字孪生 、AI Agent等单点实施型服务商；支持将AI技术与装备深度融合，推动智能制造装备升级为装备智能体；支持人形 机器人 、协作 机器人 、高精度重载 机器人 等 机器人 创新突破等。 国开新型政策性金融工具3650亿元投放完成 据国家开发 银行 消息，在国家发展",
+     "source": "东方财富股票",
+     "zh": "早新闻 | 最高增长超38倍，新一批业绩暴增股出炉"
+    },
+    {
+     "title": "以色列反对派领导人艾森科特向国防机构表示 内塔尼亚胡已失去人民的信任",
+     "link": "http://finance.eastmoney.com/news/1351,202610283910690384.html",
+     "pubDate": "Wed, 28 Oct 2026 07:23:37 +0800",
+     "summary": "以色列反对派领导人艾森科特向国防机构表示，内塔尼亚胡已失去人民的信任。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "以色列反对派领导人艾森科特向国防机构表示 内塔尼亚胡已失去人民的信任"
+    },
+    {
+     "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+     "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+     "pubDate": "Tue, 27 Oct 2026 23:23:28 GMT",
+     "summary": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+     "source": "CNBC",
+     "zh": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports"
+    },
+    {
+     "title": "券商资管公募三季报出炉 四家跻身千亿梯队",
+     "link": "http://stock.eastmoney.com/news/11219,202610283910638428.html",
+     "pubDate": "Wed, 28 Oct 2026 07:23:27 +0800",
+     "summary": "近日，券商资管公募产品三季报密集出炉。最新数据显示，截至三季度末，有4家券商资管公募管理规模超千亿元，东方红 资产管理 以2087.35亿元领跑。 从业绩表现来看，三季度医药、红利类产品收益突出。展望四季度，基金经理在持续关注AI（ 人工智能 ）投资机会的同时，同样看好传统行业，特别是传统消费龙头公司的配置机遇。 四家公募管理规模超千亿 跻身公募千亿规模阵营的上述4家券商资管具体为：东方红 资产管理 以2087.35亿元规模居首； 华泰证券 资管1963.29亿元紧随其后； 国泰海通 资管、财通资管分别以1297.81亿元、1071.46亿元位列第三、第四。此外，招商资管公募规模达667.96",
+     "source": "东方财富股票",
+     "zh": "券商资管公募三季报出炉 四家跻身千亿梯队"
+    },
+    {
+     "title": "603986，已花逾11亿元回购，将全部注销！",
+     "link": "http://finance.eastmoney.com/news/1354,202610283910690857.html",
+     "pubDate": "Wed, 28 Oct 2026 07:23:25 +0800",
+     "summary": "又一批A股公司出手增持回购。 兆易创新 （603986）10月27日晚间公告，截至目前，公司通过集中竞价交易方式累计回购股份300.86万股，占公司总股本的比例为0.43%，回购的最高价格为人民币411.95元/股，最低价格为271.43元/股，回购的均价为370.64元/股，已支付的总金额为11.15亿元（不含交易费用）。 根据此前方案，公司拟使用不低于10亿元且不超过20亿元的自有资金及/或自筹资金以集中竞价交易方式回购公司股份，回购价格不超过750元/股（含），回购股份将全部用于注销并减少注册资本。 同日 中科曙光 披露回购股份方案，公司拟不低于3亿元、不超过5亿元回购股份，资金来源为公",
+     "source": "东方财富股票",
+     "zh": "603986，已花逾11亿元回购，将全部注销！"
+    },
+    {
+     "title": "NRC expects further sequential margin improvement in Q4 as rounding phase targets Q3 2027 go-live",
+     "link": "https://seekingalpha.com/news/4658551-nrc-expects-further-sequential-margin-improvement-in-q4-as-rounding-phase-targets-q3-2027-go?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 19:21:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NRC expects further sequential margin improvement in Q4 as rounding phase targets Q3 2027 go-live"
+    },
+    {
+     "title": "DMC Global expects Q4 sales of $154M-$164M amid Arcadia maintenance shutdown and seasonal moderation",
+     "link": "https://seekingalpha.com/news/4658550-dmc-global-expects-q4-sales-of-154m-164m-amid-arcadia-maintenance-shutdown-and-seasonal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 19:21:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "DMC Global expects Q4 sales of $154M-$164M amid Arcadia maintenance shutdown and seasonal moderation"
+    },
+    {
+     "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
+     "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
+     "pubDate": "Tue, 27 Oct 2026 23:18:24 GMT",
+     "summary": "Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys",
+     "source": "Financial Times",
+     "zh": "No clear winner in Israeli parliamentary election, exit polls suggest"
+    },
+    {
      "title": "Meta 250亿美元股票发行获5倍超额认购，超半数分配给长期投资者及现有股东",
      "link": "https://wallstreetcn.com/articles/3784618",
      "pubDate": "Wed, 28 Oct 2026 07:14:11 +0800",
@@ -2255,14 +2335,6 @@
      "summary": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
      "source": "CNBC",
      "zh": "Chart: Anthropic&apos;s cash pile towers over nearly every U.S. company"
-    },
-    {
-     "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-     "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-     "pubDate": "Tue, 27 Oct 2026 23:02:41 GMT",
-     "summary": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
-     "source": "CNBC",
-     "zh": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports"
     },
     {
      "title": "Gerdau outlines Brazil competitiveness plan ahead of Investor Day, sees ~BRL 400M Miguel Burnier benefit in 2027",
@@ -2319,22 +2391,6 @@
      "summary": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
      "source": "CNBC",
      "zh": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’"
-    },
-    {
-     "title": "Alexandria outlines 5.6x–6.2x year-end leverage goal while reaffirming $6.40 2026 FFO per share midpoint",
-     "link": "https://seekingalpha.com/news/4658543-alexandria-outlines-5_6x-6_2x-year-end-leverage-goal-while-reaffirming-6_40-2026-ffo-per?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 18:31:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alexandria outlines 5.6x–6.2x year-end leverage goal while reaffirming $6.40 2026 FFO per share midpoint"
-    },
-    {
-     "title": "Sherwin-Williams narrows 2026 adjusted EPS to $11.85-$12.15 and expects $75M of 2027 cost savings amid “softer for longer” demand",
-     "link": "https://seekingalpha.com/news/4658542-sherwin-williams-narrows-2026-adjusted-eps-to-11_85-12_15-and-expects-75m-of-2027-cost?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 18:31:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sherwin-Williams narrows 2026 adjusted EPS to $11.85-$12.15 and expects $75M of 2027 cost savings amid “softer for longer” demand"
     },
     {
      "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
@@ -2415,62 +2471,6 @@
      "summary": "Now that investors have been able to dive further into Anthropic’s IPO filing, they’re seeing the same sorts of trends that helped buoy AI stocks for much of this year.",
      "source": "MarketWatch",
      "zh": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending"
-    },
-    {
-     "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
-     "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-     "pubDate": "Tue, 27 Oct 2026 21:37:38 GMT",
-     "summary": "Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys",
-     "source": "Financial Times",
-     "zh": "No clear winner in Israeli parliamentary election, exit polls suggest"
-    },
-    {
-     "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
-     "link": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
-     "pubDate": "Tue, 27 Oct 2026 21:29:00 GMT",
-     "summary": "President Donald Trump can’t stop touting the fortunes U.S. energy companies have made during the Iran war, while canvassing the country to support Republican candidates ahead of next week’s midterm elections.",
-     "source": "MarketWatch",
-     "zh": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever"
-    },
-    {
-     "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
-     "link": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
-     "pubDate": "Tue, 27 Oct 2026 21:28:00 GMT",
-     "summary": "The artificial-intelligence trade carried the U.S. stock market in September. But in October, it is being carried out on a stretcher.",
-     "source": "MarketWatch",
-     "zh": "The rest of the market is leaving Big Tech behind after a historic comeback"
-    },
-    {
-     "title": "Early third-quarter earnings show a &apos;resilient&apos; U.S. consumer, with signs of strain",
-     "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-     "pubDate": "Tue, 27 Oct 2026 21:12:55 GMT",
-     "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-     "source": "CNBC",
-     "zh": "Early third-quarter earnings show a &apos;resilient&apos; U.S. consumer, with signs of strain"
-    },
-    {
-     "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
-     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-     "pubDate": "Tue, 27 Oct 2026 21:00:00 GMT",
-     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-     "source": "MarketWatch",
-     "zh": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave."
-    },
-    {
-     "title": "出口民调显示内塔尼亚胡阵营未获议会多数席位",
-     "link": "http://finance.eastmoney.com/news/1351,202610283910647971.html",
-     "pubDate": "Wed, 28 Oct 2026 04:13:40 +0800",
-     "summary": "当地时间27日晚，以色列议会选举出口民调数据显示，以色列总理内塔尼亚胡阵营未获议会多数席位。 当天22点（北京时间28日4点），以色列第26届议会选举投票结束。 根据以色列中央选举委员会公布的数据，截至当天晚间8时，以色列议会选举的投票率已达到74.3%，高于2022年大选同一时段的66.3%。中央选举委员会表示， 这是自1988年以来，该时段录得的全国最高投票率 。预计最终投票率将继续升高。 根据以色列选举法，政党须跨过3.25%的得票门槛方可进入议会，并按比例分配120个席位。初步计票结果预计28日或29日公布，最终结果由中央选举委员会于11月4日正式公布。议会选举结果公布后，各政党将围绕",
-     "source": "东方财富资讯",
-     "zh": "出口民调显示内塔尼亚胡阵营未获议会多数席位"
-    },
-    {
-     "title": "Visa and Mastercard face potential UK suit over card fees",
-     "link": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 27 Oct 2026 19:14:00 GMT",
-     "summary": "Visa and Mastercard are facing two proposed UK class-action lawsuits seeking billions of pounds for allegedly unlawful consumer card fees.",
-     "source": "Finextra",
-     "zh": "Visa and Mastercard face potential UK suit over card fees"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/27 22:43:45",
+ "generated_at": "2026/10/27 22:51:12",
  "recent_days": 7,
  "industries": [
   {
@@ -40,6 +40,14 @@ window.INDUSTRY_DATA = {
      "summary": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding. The post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context ",
      "source": "MarkTechPost",
      "zh": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context"
+    },
+    {
+     "title": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares",
+     "link": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
+     "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
+     "summary": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting with video.",
+     "source": "KDnuggets",
+     "zh": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares"
     },
     {
      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro. The post Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6",
      "source": "MarkTechPost",
      "zh": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls"
-    },
-    {
-     "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-     "link": "https://www.qbitai.com/2026/10/505551.html",
-     "pubDate": "Mon, 26 Oct 2026 16:06:31 +0000",
-     "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
-     "source": "量子位",
-     "zh": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司"
     }
    ]
   },
@@ -834,6 +834,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Bangladesh moves to cut tariffs for long-delayed solar projects",
+     "link": "https://www.pv-magazine.com/2026/10/27/bangladesh-moves-to-cut-tariffs-for-long-delayed-solar-projects/",
+     "pubDate": "Tue, 27 Oct 2026 14:45:00 +0000",
+     "summary": "Bangladesh is seeking lower tariffs on solar power purchase agreements (PPAs) signed years ago for projects that are still not generating, a move investors warn could raise contract risk across the market. The post Bangladesh moves to cut tariffs for long-delayed solar projects appeared first on pv ",
+     "source": "pv magazine",
+     "zh": "Bangladesh moves to cut tariffs for long-delayed solar projects"
+    },
+    {
+     "title": "Everybody Is Finally Talking About The Epstein Files Again",
+     "link": "https://cleantechnica.com/2026/10/27/everybody-is-finally-talking-about-the-epstein-files-again/",
+     "pubDate": "Tue, 27 Oct 2026 14:39:12 +0000",
+     "summary": "The Epstein files have surged back into the headlines, now that the House Committee on the Judiciary has released a staff report detailing US President Donald Trump's relationship with Jeffrey Epstein, complete with names and photographs. The post Everybody Is Finally Talking About The Epstein Files",
+     "source": "CleanTechnica",
+     "zh": "Everybody Is Finally Talking About The Epstein Files Again"
+    },
+    {
      "title": "Trinasolar to supply 580MW of modules and mounting systems for Energix projects",
      "link": "https://www.pv-tech.org/trinasolar-to-supply-580mw-of-modules-and-mounting-systems-for-energix-projects/",
      "pubDate": "Tue, 27 Oct 2026 14:32:21 +0000",
@@ -962,14 +978,6 @@ window.INDUSTRY_DATA = {
      "zh": "Diesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion"
     },
     {
-     "title": "Czech ministry proposes storage capacity auctions to 2027",
-     "link": "https://www.pv-magazine.com/2026/10/27/czech-ministry-proposes-storage-capacity-auctions-to-2027-2/",
-     "pubDate": "Tue, 27 Oct 2026 11:15:00 +0000",
-     "summary": "The Czech government has proposed changes to its new capacity mechanism, which is open to battery storage, including moving two supplementary auctions from 2026 to 2027, a year later than prospective participants had planned for. The post Czech ministry proposes storage capacity auctions to 2027 app",
-     "source": "pv magazine",
-     "zh": "Czech ministry proposes storage capacity auctions to 2027"
-    },
-    {
      "title": "Poland: Greenvolt sells 1.6GWh of projects to A&R, PGE building 800MWh with Fluence tech",
      "link": "https://www.energy-storage.news/poland-greenvolt-sells-1-6gwh-of-projects-to-ar-pge-building-800mwh-with-fluence-tech/",
      "pubDate": "Tue, 27 Oct 2026 11:07:49 +0000",
@@ -1064,14 +1072,6 @@ window.INDUSTRY_DATA = {
      "summary": "Carbon pricing in a global context In April 2025, governments at the International Maritime Organization (IMO) agreed on a historic global regulation, the Net-Zero Framework (NZF). It was designed to set global shipping on a course to net-zero by 2050 in a just and equitable way. Global shipping is ",
      "source": "CleanTechnica",
      "zh": "The EU Is Showing How Regional Maritime Rules Can Support A Global Framework At The IMO"
-    },
-    {
-     "title": "How the Swiss Want to Travel to the UK",
-     "link": "https://cleantechnica.com/2026/10/26/how-the-swiss-want-to-travel-to-the-uk/",
-     "pubDate": "Tue, 27 Oct 2026 02:38:08 +0000",
-     "summary": "New rail services can give Switzerland its first high-speed direct trains to the UK. Polling in Switzerland Total sample size was 1,048 adults. Fieldwork was undertaken between 11th–24th September 2026. Nearly half of Swiss people use rail for other international destinations at least once a year. W",
-     "source": "CleanTechnica",
-     "zh": "How the Swiss Want to Travel to the UK"
     }
    ]
   },
@@ -1081,6 +1081,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Artiva to wind down after two patient deaths in autoimmune cell therapy trials",
+     "link": "https://endpoints.news/artiva-to-wind-down-after-two-patient-deaths-in-autoimmune-cell-therapy-trials/",
+     "pubDate": "Tue, 27 Oct 2026 14:45:41 +0000",
+     "summary": "Cell therapy biotech Artiva Biotherapeutics abruptly announced Tuesday morning that it is effectively shutting down and laying off almost all of its staff after two patients died in its clinical trials. Researchers had been testing ...",
+     "source": "Endpoints News",
+     "zh": "Artiva to wind down after two patient deaths in autoimmune cell therapy trials"
+    },
     {
      "title": "Outpace ends an ovarian cancer trial; Incyte data impresses at ESMO",
      "link": "https://endpoints.news/outpace-ends-an-ovarian-cancer-trial-incyte-data-impresses-at-esmo/",
@@ -1202,14 +1210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic IPO Discloses Plans for Life Sciences Growth"
     },
     {
-     "title": "Employers accuse UnitedHealth of overpaying medical claims",
-     "link": "https://endpoints.news/employers-accuse-unitedhealth-of-overpaying-medical-claims/",
-     "pubDate": "Mon, 26 Oct 2026 20:50:03 +0000",
-     "summary": "Six large US companies sued UnitedHealth Group, accusing the health insurance giant of overpaying for workers’ medical claims and driving up their costs. Aramark, Whirlpool, Grainger, Kraft Heinz Foods, Ralph Lauren and Sterling Jewelers allege ...",
-     "source": "Endpoints News",
-     "zh": "Employers accuse UnitedHealth of overpaying medical claims"
-    },
-    {
      "title": "Spatial Proteomics for Precision Oncology",
      "link": "https://www.genengnews.com/multimedia/webinars/spatial-proteomics-for-precision-oncology/",
      "pubDate": "Mon, 26 Oct 2026 19:57:45 +0000",
@@ -1258,20 +1258,20 @@ window.INDUSTRY_DATA = {
      "zh": "Another autoimmune CAR-T death; Treasury zeroes in on China deals"
     },
     {
-     "title": "The molecule was fine. The moment wasn’t.",
-     "link": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.",
-     "source": "BioPharma Dive",
-     "zh": "The molecule was fine. The moment wasn’t."
-    },
-    {
      "title": "Novel protein and peptide therapeutics",
      "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
      "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
      "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
      "source": "BioPharma Dive",
      "zh": "Novel protein and peptide therapeutics"
+    },
+    {
+     "title": "The molecule was fine. The moment wasn’t.",
+     "link": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
+     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
+     "summary": "Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.",
+     "source": "BioPharma Dive",
+     "zh": "The molecule was fine. The moment wasn’t."
     }
    ]
   },
@@ -1738,6 +1738,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "任天堂明日举办新一期 Indie World 独立游戏直面会，时长约 15 分钟",
+     "link": "https://www.ithome.com/1/018/687.htm",
+     "pubDate": "Tue, 27 Oct 2026 14:44:06 GMT",
+     "summary": "IT之家 10 月 27 日消息，任天堂将于太平洋时间 10 月 28 日 7:00（北京时间 22:00），举办新一期 Indie World 独立游戏直面会， 重点介绍登陆 Switch 和 Switch 2 平台的新游戏 。 据介绍，本次直面会时长约 15 分钟，任天堂将在会上公布即将登陆 Switch 和 Switch 2 的全新独立游戏。不过本次直面会公布的游戏还没有消息，IT之家将持续关注。",
+     "source": "IT之家",
+     "zh": "任天堂明日举办新一期 Indie World 独立游戏直面会，时长约 15 分钟"
+    },
+    {
+     "title": "AI洗牌财富榜：张一鸣6700亿、梁文锋2800亿",
+     "link": "https://www.huxiu.com/article/4900930.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 22:41:24 +0800",
+     "summary": "本文来自微信公众号： AIX财经 ，作者：AIX财经团队，编辑：魏佳 财富榜换代，这一次是AI说了算。 AIX财经（AIXcaijing）原创 AI正在重新排列中国富豪的座次。 10月27日发布的《2026胡润百富榜》（财富计算截止日期为2026年9月1日）显示，字节跳动创始人张一鸣的财富比上年增加2000亿元，达到6700亿元，第二次成为中国首富，并刷新中国首富的财富纪录。DeepSeek创始人梁文锋则以2800亿元首次上榜，直接跻身第七位。 有人身家暴涨，也有人财富缩水。同一份榜单上，小米创始人雷军的财富减少1570亿元，农夫山泉创始人钟睒睒缩水1200亿元，腾讯创始人马化腾缩水1190亿",
+     "source": "虎嗅",
+     "zh": "AI洗牌财富榜：张一鸣6700亿、梁文锋2800亿"
+    },
+    {
      "title": "US government says hackers are now exploiting critical PHP web bugs",
      "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
      "pubDate": "Tue, 27 Oct 2026 14:40:39 +0000",
@@ -1818,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "网红被罚后能不能复出，如何复出？"
     },
     {
-     "title": "联合创新推出“C27Q1”27 英寸显示器：2K 120Hz OLED，1599 元",
-     "link": "https://www.ithome.com/1/018/677.htm",
-     "pubDate": "Tue, 27 Oct 2026 14:10:51 GMT",
-     "summary": "IT之家 10 月 27 日消息，联合创新现已在京东上架一款“C27Q1”27 英寸显示器，该机主打 2K 120Hz OLED，同时拥有“3H 装甲镀膜”，定价为 1599 元。 京东 联合创新“C27Q1”显示器 1599 元 直达链接 该机配备一块 2560x1440 分辨率 120Hz OLED 面板，显示器亮度 400 尼特，静态对比度 150 万:1，响应速度 0.03ms，显示器支持 10-Bit 色彩。官方强调该产品采用了 3H“装甲”抗刮低反射镀膜，以强化表面硬度，提升耐刮能力。 该机采用白色边框、白色支架，显示器支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 1",
-     "source": "IT之家",
-     "zh": "联合创新推出“C27Q1”27 英寸显示器：2K 120Hz OLED，1599 元"
-    },
-    {
      "title": "Apple adds a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)",
      "link": "https://www.techmeme.com/261027/p20#a261027p20",
      "pubDate": "Tue, 27 Oct 2026 10:10:01 -0400",
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
      "pubDate": "Tue, 27 Oct 2026 14:06:42 +0000",
-     "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 40 # Comments: 2",
      "source": "Hacker News",
      "zh": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans"
     },
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Giving chat feedback gives Anthropic your data",
      "link": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
      "pubDate": "Tue, 27 Oct 2026 13:56:15 +0000",
-     "summary": "Article URL: https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training Comments URL: https://news.ycombinator.com/item?id=50259406 Points: 15 # Comments: 5",
+     "summary": "Article URL: https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training Comments URL: https://news.ycombinator.com/item?id=50259406 Points: 39 # Comments: 12",
      "source": "Hacker News",
      "zh": "Giving chat feedback gives Anthropic your data"
     },
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
      "link": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
      "pubDate": "Tue, 27 Oct 2026 13:52:12 +0000",
-     "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 42 # Comments: 9",
+     "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 58 # Comments: 15",
      "source": "Hacker News",
      "zh": "PHP2Shell: Exploitation Attempts and Remediation Trends"
     },
@@ -1896,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 奇点湃 ，作者：李喆 10月24日，45分钟之内，Claude Code最知名的两位成员在X上先后官宣离职。 一位是Thariq Shihipar，Claude Code团队的核心工程师，被开发者社区称作「解释之王」，skills系统和上下文工程都和他有关。另一位是Anthony Morris，Claude Code桌面版的主创，他说自己在Anthropic的最后一天是10月23日。 两人都没说下一站去哪，告别信写得体面。Shihipar还给前东家留了一句好话，说同事是他遇到过最有才华的一群人。 这一天，距离Anthropic计划中的IPO只有三周左右。这家公司的目标估值",
      "source": "虎嗅",
      "zh": "Claude 的账单，金主先看不下去了"
-    },
-    {
-     "title": "姆巴佩向中国道歉，西甲联盟也已致歉，屡陷争议的皇马却“拒绝置评”",
-     "link": "https://www.huxiu.com/article/4900917.html?f=rss",
-     "pubDate": "Tue, 27 Oct 2026 21:46:58 +0800",
-     "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 姆巴佩道歉了，西甲联盟也道歉了，皇家马德里足球俱乐部（以下简称“皇马”）却依然拒绝出自己的正式回应。 10月27日，姆巴佩就此前采访中的涉华不当言论公开致歉，承认自己的评论欠妥，伤害了中国及世界各地华人群体的感情。同一天，西班牙职业足球联盟（以下简称“西甲联盟”）也发表声明，代表联盟及旗下所有俱乐部向中国球迷致歉，并承诺采取措施，防止类似事件再次发生。 然而，当路透社就此事向皇马求证时，得到的回应却是“拒绝置评”。 这就有意思了。球员本人已经认错，联赛管理机构也出面承担责任，甚至代表所有俱乐部表达歉意，作为涉事球员所属的俱乐部，皇马反而没有单独表态",
-     "source": "虎嗅",
-     "zh": "姆巴佩向中国道歉，西甲联盟也已致歉，屡陷争议的皇马却“拒绝置评”"
     },
     {
      "title": "智驾装车越来越多，供应商赚钱却没那么容易",
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Alleged Israeli spy company targeted Starlink users",
      "link": "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/",
      "pubDate": "Tue, 27 Oct 2026 13:33:30 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/ Comments URL: https://news.ycombinator.com/item?id=50259050 Points: 17 # Comments: 1",
+     "summary": "Article URL: https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/ Comments URL: https://news.ycombinator.com/item?id=50259050 Points: 30 # Comments: 1",
      "source": "Hacker News",
      "zh": "Alleged Israeli spy company targeted Starlink users"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
      "link": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
      "pubDate": "Tue, 27 Oct 2026 13:23:22 +0000",
-     "summary": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 20 # Comments: 6",
+     "summary": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 27 # Comments: 8",
      "source": "Hacker News",
      "zh": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?"
     },
@@ -1985,6 +1985,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Amazon cuts Sony WH-CH730N by $51 to a new low",
+     "link": "https://www.androidauthority.com/sony-wh-ch730n-deal-3728547/",
+     "pubDate": "Tue, 27 Oct 2026 14:42:28 +0000",
+     "summary": "Sony WH-CH730N headphones hit a record low $128 on Amazon, with foldable design and up to 75 hours of battery life.",
+     "source": "Android Authority",
+     "zh": "Amazon cuts Sony WH-CH730N by $51 to a new low"
+    },
     {
      "title": "Android Find Hub app reveals how ‘Left Behind’ and ‘Ring your phone’ alerts work on Pixel Tag",
      "link": "https://9to5google.com/2026/10/27/android-find-hub-left-behind-ring-your-phone-alert-details/",
@@ -2162,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Android handhelds just got a massive multitasking upgrade with this launcher"
     },
     {
-     "title": "I tested the Galaxy S26 Ultra and OPPO Find X10 Pro Max cameras — it’s no contest",
-     "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-oppo-find-x10-pro-max-camera-comparison-3727207/",
-     "pubDate": "Tue, 27 Oct 2026 11:30:05 +0000",
-     "summary": "Are three 200MP cameras better than one? OPPO wants you to think so, so we found out.",
-     "source": "Android Authority",
-     "zh": "I tested the Galaxy S26 Ultra and OPPO Find X10 Pro Max cameras — it’s no contest"
-    },
-    {
      "title": "Galaxy Z Fold 8 is still $200 off as iPhone Duo displays crack",
      "link": "https://9to5google.com/2026/10/27/galaxy-z-fold-8-discount-iphone-duo-displays/",
      "pubDate": "Tue, 27 Oct 2026 11:30:00 +0000",
@@ -2234,36 +2234,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "SiteOne Landscape Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4657946-siteone-landscape-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 10:37:56 -0400",
+     "title": "Elemental Altus Royalties Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4657951-elemental-altus-royalties-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 10:43:19 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "SiteOne Landscape Q3 2026 Earnings Preview"
+     "zh": "Elemental Altus Royalties Q3 2026 Earnings Preview"
     },
     {
-     "title": "Robinhood to access Ripple's infrastructure across stablecoins, institutional markets, treasury management",
-     "link": "https://seekingalpha.com/news/4657939-robinhood-to-access-ripples-infrastructure-across-stablecoins-institutional-markets-treasury-management?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 10:37:41 -0400",
+     "title": "PROG Holdings Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4657950-prog-holdings-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 10:42:03 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Robinhood to access Ripple's infrastructure across stablecoins, institutional markets, treasury management"
+     "zh": "PROG Holdings Q3 2026 Earnings Preview"
     },
     {
-     "title": "MGP Ingredients Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4657945-mgp-ingredients-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 10:36:49 -0400",
+     "title": "Banco Santander (Brasil) S.A. Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4657949-banco-santander-brasil-s-a-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 10:41:25 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "MGP Ingredients Q3 2026 Earnings Preview"
+     "zh": "Banco Santander (Brasil) S.A. Q3 2026 Earnings Preview"
     },
     {
-     "title": "Nomura Holdings Q2 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4657944-nomura-holdings-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 10:36:04 -0400",
+     "title": "Three Russian diesel tankers, including two under sanctions, on the way to U.S.",
+     "link": "https://seekingalpha.com/news/4657918-three-russian-diesel-tankers-including-two-under-sanctions-on-the-way-to-us?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 10:40:58 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Nomura Holdings Q2 Earnings Preview"
+     "zh": "Three Russian diesel tankers, including two under sanctions, on the way to U.S."
+    },
+    {
+     "title": "Capitol Federal Financial Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4657948-capitol-federal-financial-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 10:40:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Capitol Federal Financial Q3 2026 Earnings Preview"
+    },
+    {
+     "title": "Franklin Electric Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4657947-franklin-electric-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 10:39:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Franklin Electric Q3 2026 Earnings Preview"
     },
     {
      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
@@ -2272,70 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
      "source": "CNBC",
      "zh": "Fed expected to hold rates steady, but Warsh may point way to more hikes"
-    },
-    {
-     "title": "Mama's Creation attracts a bull rating from Stephens",
-     "link": "https://seekingalpha.com/news/4657943-mamas-creation-attracts-a-bull-rating-from-stephens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 10:33:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mama's Creation attracts a bull rating from Stephens"
-    },
-    {
-     "title": "Netflix hires Apple podcast exec to expand podcast business",
-     "link": "https://seekingalpha.com/news/4657940-netflix-hires-apple-podcast-exec-to-expand-podcast-business?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 10:33:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Netflix hires Apple podcast exec to expand podcast business"
-    },
-    {
-     "title": "【调研快报】东瑞股份接待华创证券等27家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610273910556153.html",
-     "pubDate": "Tue, 27 Oct 2026 22:32:55 +0800",
-     "summary": "东瑞股份 10月27日公告称， 10月27日 接待华创证券 等27家机构 调研。 接待人员包括董事、副总裁、董事会秘书 曾东强,财务总监 童珍,证券投资部总经理、证券事务代表 谢志铭。 公司就以下问题进行了回复： 2026年第三季度业绩情况 2026年前三季度公司销售生猪125.20万头,同比增长15.94%,商品猪销售均价11.70元/公斤,同比下降25.29%。 2026年前三季度,公司实现营业收入15.62亿元,同比下降2.36%,归母净利润为-5.47亿元,归母扣非净利润为-5.44亿元;... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险",
-     "source": "东方财富股票",
-     "zh": "【调研快报】东瑞股份接待华创证券等27家机构调研"
-    },
-    {
-     "title": "东田微：第三季度归母净利润7326.3万元 同比增长149.65%",
-     "link": "http://finance.eastmoney.com/news/1354,202610273910557734.html",
-     "pubDate": "Tue, 27 Oct 2026 22:32:40 +0800",
-     "summary": "东田微 10月27日公告，2026年第三季度实现营业收入3.25亿元，同比增长24.7%；归母净利润7326.3万元，同比增长149.65%；基本每股收益0.91元。前三季度实现营业收入8.26亿元，同比增长29.82%；归母净利润1.6亿元，同比增长100.2%；基本每股收益2元。报告期内，公司业绩主要受到销售额增加带动利润增加的影响。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "东田微：第三季度归母净利润7326.3万元 同比增长149.65%"
-    },
-    {
-     "title": "通宇通讯：第三季度归母净利润532.51万元 同比增长52.64%",
-     "link": "http://finance.eastmoney.com/news/1354,202610273910557558.html",
-     "pubDate": "Tue, 27 Oct 2026 22:32:39 +0800",
-     "summary": "通宇通讯 10月27日公告，2026年第三季度实现营业收入3.04亿元，同比增长7.89%；归母净利润532.51万元，同比增长52.64%；基本每股收益0.0101元。前三季度实现营业收入8.87亿元，同比增长8.82%；归母净利润亏损1700.61万元，上年同期净利润2527.46万元；基本每股收益亏损0.0324元。报告期内，公司业绩主要受到处置厂房产生一次性大额处置收益、应收账款回款情况良好转回坏账准备等因素的影响。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "通宇通讯：第三季度归母净利润532.51万元 同比增长52.64%"
-    },
-    {
-     "title": "以质量强链赋能产业升级 多省区齐聚宁夏共探煤化工绿色转型之路",
-     "link": "http://finance.eastmoney.com/news/1354,202610273910558092.html",
-     "pubDate": "Tue, 27 Oct 2026 22:32:25 +0800",
-     "summary": "中新网银川10月27日电(记者于晶)10月27日，宁夏现代 煤化工 产业链质量强链技术交流活动在宁东能源化工基地举办。活动汇聚国家市场监管总局及山西、山东、陕西、新疆等多地市场监管部门、 煤化工 企业、科研院所专家，搭建跨区域协同对接平台，推动现代 煤化工 产业质量提升与绿色技术创新。 活动现场。中新网记者于晶摄 技术研讨会上，来自中国科学院山西 煤炭 化学研究所等单位的专家聚焦产业前沿议题，围绕质量强国战略下煤化工标准体系构建、“十五五”产业发展导向、“双碳”目标下低碳提质路径、煤基 新材料 延链发展与品牌建设等方向开展主旨分享与研讨交流，为行业破解转型难题提供思路。 活动中，参会代表走进园",
-     "source": "东方财富股票",
-     "zh": "以质量强链赋能产业升级 多省区齐聚宁夏共探煤化工绿色转型之路"
-    },
-    {
-     "title": "极智嘉-W：10月27日斥资63.91万港元回购10万股",
-     "link": "http://hk.eastmoney.com/news/11223,202610273910557289.html",
-     "pubDate": "Tue, 27 Oct 2026 22:32:13 +0800",
-     "summary": "南财智讯10月27日电， 极智嘉-W （02590.HK）发布翌日披露报表，10月27日回购股份10万股，每股最高回购价6.5港元，每股最低回购价6.28港元，付出的总代价为63.91万港元。回购股份拟持作库存股份10万股。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "极智嘉-W：10月27日斥资63.91万港元回购10万股"
-    },
-    {
-     "title": "过半收入靠放贷，OPay冲刺纽交所，“互金之王”周亚辉在非洲复刻“互金帝国”",
-     "link": "http://finance.eastmoney.com/news/1354,202610273910555661.html",
-     "pubDate": "Tue, 27 Oct 2026 22:31:53 +0800",
-     "summary": "尼日利亚的街头巷尾，“非洲支付宝”OPay绿色的品牌招牌，几乎与市井生活融为一体。 经历近十年出海深耕，OPay走向资本市场。10月27日，北京商报记者注意到，美国证券交易委员会（SEC）官网日前更新了非洲金融科技公司OPay的招股书。招股书显示，OPay拟在纽交所挂牌，发行价区间为19—21美元，按发行价上限及发行后股本计算，该公司估值最高达44.2亿美元，约合人民币295亿元。 这家由 昆仑万维 创始人周亚辉主导孵化的公司，2025年刚刚扭亏为盈：营收5.36亿美元、净利7247万美元。2026年上半年，公司净利来到9087万美元，已超去年全年。而招股书揭示的更关键变化在收入结构，作为一家",
-     "source": "东方财富股票",
-     "zh": "过半收入靠放贷，OPay冲刺纽交所，“互金之王”周亚辉在非洲复刻“互金帝国”"
     },
     {
      "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
@@ -2354,14 +2306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America"
     },
     {
-     "title": "美股三大指数震荡整理 存储概念股普涨",
-     "link": "http://finance.eastmoney.com/news/1345,202610273910453496.html",
-     "pubDate": "Tue, 27 Oct 2026 22:22:22 +0800",
-     "summary": "10月27日，美股三大指数震荡整理，截至发稿，道指跌0.17%，纳指涨0.35%，标普500指数涨0.10%。 存储概念股普涨， 西部数据 涨超6%， 闪迪 涨超2%， SK海力士 、 美光科技 涨超1%。 全球要闻 中期选举前夕民调出炉：特朗普支持率脱离低点 民主党大概率赢下众议院 在11月3日中期选举前夕，美国最新民调显示，美国总统特朗普的民众支持率较此前小幅升至32%，较上周创下的历史低点回升1个百分点。不过，民调仍然显示，更多选民倾向于投票给民主党，这意味着民主党在本次选举中有较大希望夺下众议院控制权。 通胀形势不乐观、中期选举临近 美联储本周四或按兵不动：12月再加息？ 北京时间10",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数震荡整理 存储概念股普涨"
-    },
-    {
      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
      "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
      "pubDate": "Tue, 27 Oct 2026 14:19:36 GMT",
@@ -2376,14 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "As crypto evolves past its trading roots, and global markets shift to 24/7 liquidity, stablecoins are becoming essential financial infrastructure.",
      "source": "CNBC",
      "zh": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar"
-    },
-    {
-     "title": "近10万户投资者认购！沪市主动ETF已募资163亿元 机构认购占比逾20%",
-     "link": "http://stock.eastmoney.com/news/11215,202610273910529046.html",
-     "pubDate": "Tue, 27 Oct 2026 22:10:40 +0800",
-     "summary": "首批主动于ETF10月23日启动募集。截至10月27日，沪市9只产品合计募集资金163.3亿元，其中，机构投资者认购占比超20%。证券时报记者获悉，近10万户投资者参与了沪市主动ETF的认购。 值得一提的是，截至10月27日，沪市9只主动ETF 中的7只已募满20亿元。具体来看，10月23日，摩根、易方达两家管理人实现一日结募；10月26日，华夏、华泰柏瑞和平安三家管理人提前结募；10月27日，汇添富和招商两家管理人提前结募。 据记者了解，首日结束募集的两家基金管理人将于10月29日开始建仓。 基于对中国资本市场长期健康稳定发展的信心，摩根、易方达、华夏、汇添富、华安和平安6家沪市管理人通过（",
-     "source": "东方财富资讯",
-     "zh": "近10万户投资者认购！沪市主动ETF已募资163亿元 机构认购占比逾20%"
     },
     {
      "title": "Anthropic and the AI cluster effect in fundraising",
@@ -2472,6 +2408,70 @@ window.INDUSTRY_DATA = {
      "summary": "A divided federal government is expected after the midterms, but the size of the congressional majorities could really matter to markets.",
      "source": "MarketWatch",
      "zh": "A bigger-than-expected win for Democrats in the midterms could deliver ‘short-lived weakness’ for stocks, strategists say"
+    },
+    {
+     "title": "美国9月耐用品订单创五个月最大增幅，AI投资支撑企业设备需求",
+     "link": "https://wallstreetcn.com/articles/3784587",
+     "pubDate": "Tue, 27 Oct 2026 21:08:31 +0800",
+     "summary": "美国制造业需求在9月进一步回暖，飞机、计算机、机械设备及汽车订单普遍增加，企业设备投资也保持强劲，为美国第三季度经济增长提供了新的支撑。 美国商务部周二公布的数据显示， 美国9月耐用品订单环比增长1.8%，创五个月来最大增幅，高于前值上修后的0.1%，但略低于市场预期的1.9%。 耐用品是指预期使用寿命至少为三年的商品。 分项数据显示，9月商用飞机订单环比大增28.4%，波音当月获得的订单也较前一个月增加。此外，计算机、机械设备和机动车订单均有所上升，表明企业设备需求并非仅由飞机订单单独推动。 企业投资的强劲势头今年以来主要受到人工智能相关支出的带动。最新耐用品订单数据表明，这一趋势延续至9月",
+     "source": "华尔街见闻",
+     "zh": "美国9月耐用品订单创五个月最大增幅，AI投资支撑企业设备需求"
+    },
+    {
+     "title": "“价格从未如此糟糕”，白银遭遇史诗级洗盘",
+     "link": "https://wallstreetcn.com/articles/3784585",
+     "pubDate": "Tue, 27 Oct 2026 21:06:20 +0800",
+     "summary": "白银正经历一场自疫情以来最惨烈的技术性崩溃，但技术面超卖并不足以对冲基本面的持续恶化。 白银目前较200日均线折价幅度高达25%，创下2020年3月疫情流动性危机以来最大偏离。与此同时，投机性多头仓位几近清零，美元持续走强进一步压制金属价格。据摩根大通数据，管理资金净多头已跌至2024年第一季度以来最低水平。 更令市场担忧的是，此轮抛售并非单纯的仓位出清。光伏需求——白银最重要的结构性增长驱动力之一——预计今年将下滑约30%，折合约6000万盎司，且疲软态势将延续至2027年。这意味着白银市场可能正从长期结构性短缺转向供应过剩。 技术面：流动性危机级别的极端偏离 白银当前较200日均线折价25",
+     "source": "华尔街见闻",
+     "zh": "“价格从未如此糟糕”，白银遭遇史诗级洗盘"
+    },
+    {
+     "title": "张鹏：拒学呈现低龄化、长期化、复合化趋势",
+     "link": "http://www.eeo.com.cn/2026/1027/1076899.shtml",
+     "pubDate": "Tue, 27 Oct 2026 21:06:00 +0800",
+     "summary": "传统干预方式把孩子的缺陷病理化、只走谈话转介的单一通道、复学即草草结案，还把原因归于孩子意志薄弱。而积极资源视角主张识别优势、给予生态支持、小步回流，并着手改造孩子所处的支持环境。",
+     "source": "经济观察网",
+     "zh": "张鹏：拒学呈现低龄化、长期化、复合化趋势"
+    },
+    {
+     "title": "恒瑞医药Q3净利润同比大增88.9%，称或无法完成全年创新药收入增速目标 | 财报见闻",
+     "link": "https://wallstreetcn.com/articles/3784567",
+     "pubDate": "Tue, 27 Oct 2026 21:02:32 +0800",
+     "summary": "恒瑞医药在三季报中释放了一个不寻常的信号：尽管第三季度利润同比大增近九成，公司仍 提示全年创新药销售增长可能不及年初预期。 10月27日晚间，恒瑞医药披露2026年第三季度报告。前三季度，公司实现营业收入244.09亿元，同比增长5.26%；归母净利润69.23亿元，同比增长20.38%；扣非归母净利润62.43亿元，同比增长11.7%。其中，第三季度营业收入89.53亿元，同比增长20.55%；归母净利润24.58亿元，同比大增88.92%，营收和利润均较第二季度回升。 不过，在利润表现改善的同时，恒瑞也释放了一个值得关注的信号： 公司预计全年创新药销售收入增速与年初设定的目标仍存在一定差距",
+     "source": "华尔街见闻",
+     "zh": "恒瑞医药Q3净利润同比大增88.9%，称或无法完成全年创新药收入增速目标 | 财报见闻"
+    },
+    {
+     "title": "Russia and Ukraine begin local ceasefire in frontline city",
+     "link": "https://www.ft.com/content/9aedc2d9-dc92-4412-bc5a-d5ffecf4d8d9",
+     "pubDate": "Tue, 27 Oct 2026 12:33:28 GMT",
+     "summary": "Humanitarian truce aims to evacuate residents stuck in Oleshky, who have been cut off from food and medicine",
+     "source": "Financial Times",
+     "zh": "Russia and Ukraine begin local ceasefire in frontline city"
+    },
+    {
+     "title": "Putin speaks with Norwegian and Finnish leaders",
+     "link": "https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1",
+     "pubDate": "Tue, 27 Oct 2026 12:13:49 GMT",
+     "summary": "Call is first contact at this level in more than a year as Russia and Ukraine prepare for US-brokered peace talks",
+     "source": "Financial Times",
+     "zh": "Putin speaks with Norwegian and Finnish leaders"
+    },
+    {
+     "title": "研发导盲机器人，这位盲人创业者拿到了数千万元股权融资",
+     "link": "http://www.eeo.com.cn/2026/1027/1076890.shtml",
+     "pubDate": "Tue, 27 Oct 2026 20:07:00 +0800",
+     "summary": "“中国盲人数量超过1730万，全球范围内视障者达到了2.95亿人，如何让盲人自由安全出行，是一个被忽视太久的刚需市场。”朱清毅向经济观察报记者表示。",
+     "source": "经济观察网",
+     "zh": "研发导盲机器人，这位盲人创业者拿到了数千万元股权融资"
+    },
+    {
+     "title": "Three Russian diesel tankers steam for US — including two under sanctions",
+     "link": "https://www.ft.com/content/d847744f-cfa5-4dc5-bdd2-faeee0b584f7?syn-25a6b1a6=1",
+     "pubDate": "Tue, 27 Oct 2026 12:05:32 GMT",
+     "summary": "Trump deal with Putin to ease fuel prices exposes companies to legal threats from Congress",
+     "source": "Financial Times",
+     "zh": "Three Russian diesel tankers steam for US — including two under sanctions"
     }
    ]
   },

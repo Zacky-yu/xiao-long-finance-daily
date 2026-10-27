@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/27 10:20:54",
+ "generated_at": "2026/10/27 10:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -305,6 +305,14 @@
      "zh": "Hyundai supplier SL eyes first overseas robot deployment in US"
     },
     {
+     "title": "Exploiting Piezoelectricity",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/the-inexplicability-of-piezoelectricity-2026-10/",
+     "pubDate": "Tue, 27 Oct 2026 01:01:08 +0000",
+     "summary": "A PROPERTY of many semiconductors which so far has not been exploited is that of piezoelectricity. So, 65 years ago, started a story in the ‘Tomorrow’s Thinking’ column of […] The post Exploiting Piezoelectricity appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Exploiting Piezoelectricity"
+    },
+    {
      "title": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
      "link": "https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/",
      "pubDate": "Mon, 26 Oct 2026 22:00:00 +0000",
@@ -319,6 +327,14 @@
      "summary": "Infineon Technologies AG of Munich, Germany is to supply what is said to be the world’s first 900V gallium nitride (GaN) monolithic bidirectional switches (BDS) to Enphase Energy Inc of Fremont, CA, USA (which supplies microinverter-based solar and battery systems) for deployment in its solid-state ",
      "source": "Semiconductor Today",
      "zh": "Infineon supplying world’s first 900V GaN monolithic BDS devices to Enphase"
+    },
+    {
+     "title": "Tearing down the Apple iPhone Duo",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/consumer-electronics/tearing-down-the-apple-iphone-duo-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 18:00:12 +0000",
+     "summary": "Apple will take 25% of the Foldable Smartphone market in 2026, according to Counterpoint Research. But how repairable will the iPhone Duo prove to be? The post Tearing down the Apple iPhone Duo appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Tearing down the Apple iPhone Duo"
     },
     {
      "title": "Accellera’s FSL 1.0 Gives Functional Safety Data a Common Language",
@@ -345,6 +361,14 @@
      "zh": "Inside the Package Powering Modern AI"
     },
     {
+     "title": "The Elusive AI Killer App",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-elusive-ai-killer-app-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 13:07:49 +0000",
+     "summary": "A note from a partner in Apollo Global Management who is also the company’s Chief Economist, Torsten Slok (pictured) reinforces the flaw in the AI proposition: Where’s the killer app? […] The post The Elusive AI Killer App appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Elusive AI Killer App"
+    },
+    {
      "title": "SEMICON West 2026: After the Toast, the Hard Questions",
      "link": "https://semiwiki.com/semiconductor-services/375275-semicon-west-2026-after-the-toast-the-hard-questions/",
      "pubDate": "Mon, 26 Oct 2026 13:00:04 +0000",
@@ -367,6 +391,30 @@
      "summary": "As AI pushes chip packages beyond traditional wafer limits, panel-level processing is emerging as a critical path to scale advanced packaging. The post The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum appeared first on EE Times .",
      "source": "EE Times",
      "zh": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum"
+    },
+    {
+     "title": "KOA Speer heat shock resistors feature metal glaze resistance film",
+     "link": "https://www.electronicsweekly.com/news/products/passives/koa-speer-heat-shock-resistors-feature-metal-glaze-resistance-film-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 11:51:22 +0000",
+     "summary": "A new family of heat shock resistors from KOA Speer Electronics feature a metal glaze resistance film to provide improved high heat and weather resistance. The RK73B-AT resistors also feature […] The post KOA Speer heat shock resistors feature metal glaze resistance film appeared first on Electronic",
+     "source": "Electronics Weekly",
+     "zh": "KOA Speer heat shock resistors feature metal glaze resistance film"
+    },
+    {
+     "title": "CScale exits stealth mode with $145m funding for gigawatt-scale AI",
+     "link": "https://www.electronicsweekly.com/news/products/connectors/cscale-exits-stealth-with-145m-funding-for-gigawatt-scale-ai-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 10:26:57 +0000",
+     "summary": "CScale, a Palo Alto startup for optical interconnects, has exited stealth mode with the announcement of $145 million in Series C funding. Nvidia and Intel Capital were among the investors. […] The post CScale exits stealth mode with $145m funding for gigawatt-scale AI appeared first on Electronics W",
+     "source": "Electronics Weekly",
+     "zh": "CScale exits stealth mode with $145m funding for gigawatt-scale AI"
+    },
+    {
+     "title": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-apprenticeships-flapping-airplanes-sar-satellites-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 10:04:00 +0000",
+     "summary": "What caught our eye this last week? The launch of the Apprenticeship Talent Bridge, the Flapping Airplanes startup story, and Iceye continuing to expand its SAR satellite constellation... The post What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites"
     },
     {
      "title": "University of Illinois at Urbana-Champaign (UIUC) has achieved a record modulation bandwidth of 2.75GHz in a gallium nitride (GaN) blue micro-LED (Abdelghany Abouelnagga et a",
@@ -447,54 +495,6 @@
      "summary": "Eric Tsai is Co-Founder and CEO of Mivium, Inc., a US-based materials technology company in Fremont, California developing submicron gallium nitride powder and related wide bandgap materials. He co-founded Mivium in 2022 after a career building and scaling consumer businesses, most recently as Vice ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Eric Tsai of Mivium"
-    },
-    {
-     "title": "CEO Interview with Dr. Gleb Tsipursky of Disaster Avoidance Experts",
-     "link": "https://semiwiki.com/ceo-interviews/375036-ceo-interview-with-dr-gleb-tsipursky-of-disaster-avoidance-experts/",
-     "pubDate": "Sun, 25 Oct 2026 17:00:53 +0000",
-     "summary": "Gleb Tsipursky, PhD, is the CEO and co-founder of Disaster Avoidance Experts , a consulting and training firm focused on helping organizations adopt AI through employee engagement and practical workflow redesign. He is a behavioral scientist and the author of The Psychology of AI Adoption at Work: F",
-     "source": "SemiWiki",
-     "zh": "CEO Interview with Dr. Gleb Tsipursky of Disaster Avoidance Experts"
-    },
-    {
-     "title": "Arm Comments on Jury Decision in Qualcomm Trial",
-     "link": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
-     "pubDate": "Sat, 24 Oct 2026 00:00:00 +0000",
-     "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Arm Comments on Jury Decision in Qualcomm Trial"
-    },
-    {
-     "title": "From Chip Lab to Center Stage",
-     "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-     "pubDate": "Fri, 23 Oct 2026 18:00:03 +0000",
-     "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "From Chip Lab to Center Stage"
-    },
-    {
-     "title": "Vertical Semiconductor gains $73m in US CHIPS Act funding",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/vertical-semiconductor-231026.shtml",
-     "pubDate": "Fri, 23 Oct 2026 17:34:53 +0100",
-     "summary": "Power semiconductor start-up Vertical Semiconductor of Cambridge, MA, USA — which was spun out of Massachusetts Institute of Technology (MIT) in 2024 — has signed a letter of intent with the US Department of Commerce’s CHIPS Research and Development Office (CRDO) to receive up to $73m in federal inc",
-     "source": "Semiconductor Today",
-     "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
-    },
-    {
-     "title": "ST extends MasterGaN integrated transistor/driver family",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
-     "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
-     "summary": "STMicroelectronics of Geneva, Switzerland has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode gallium nitride (GaN) transistors with 6A maximum current rating. The new series helps designers to boost efficiency and power densi",
-     "source": "Semiconductor Today",
-     "zh": "ST extends MasterGaN integrated transistor/driver family"
-    },
-    {
-     "title": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/atomera-iqe-231026.shtml",
-     "pubDate": "Fri, 23 Oct 2026 14:21:48 +0100",
-     "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
-     "source": "Semiconductor Today",
-     "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     }
    ]
   },
@@ -1745,6 +1745,78 @@
    "total": 18,
    "items": [
     {
+     "title": "国产武侠游戏《影之刃零》开启预下载，PC 需留足 300GB 空间",
+     "link": "https://www.ithome.com/1/018/260.htm",
+     "pubDate": "Tue, 27 Oct 2026 02:28:37 GMT",
+     "summary": "IT之家 10 月 27 日消息，今日（10 月 27 日）10 点，国产暗黑武侠动作 RPG《影之刃零》正式开启全平台预下载，游戏将于 10 月 29 日正式发售，登陆 PC / PS5 平台，国区数字标准版售价 268 元，数字豪华版售价 328 元。PS5 实体光碟将于 2027 年推出。 对于 PC 玩家来说，官方特意强调了三大注意事项： 1、为保障良好的游戏体验，请将游戏安装在固态硬盘 (SSD) 中； 2、游戏本体约 145G，由于预下载机制，请预留至少 300G 可用磁盘空间； 3、请务必将显卡驱动更新至最新版本。 《影之刃零》由灵游坊自主研发发行，采用虚幻引擎 5 打造，定位黑",
+     "source": "IT之家",
+     "zh": "国产武侠游戏《影之刃零》开启预下载，PC 需留足 300GB 空间"
+    },
+    {
+     "title": "供不应求的，不只有英伟达芯片，还有安琪酵母",
+     "link": "https://www.tmtpost.com/8183045.html",
+     "pubDate": "Tue, 27 Oct 2026 10:23:04 +0800",
+     "summary": "在长坡厚雪的消费赛道里，一些老牌企业并没有停在原地。",
+     "source": "钛媒体",
+     "zh": "供不应求的，不只有英伟达芯片，还有安琪酵母"
+    },
+    {
+     "title": "谁在给PCB充值信仰？",
+     "link": "https://www.tmtpost.com/8183089.html",
+     "pubDate": "Tue, 27 Oct 2026 10:23:03 +0800",
+     "summary": "周期性挥之不去。",
+     "source": "钛媒体",
+     "zh": "谁在给PCB充值信仰？"
+    },
+    {
+     "title": "报告称豆包对抖音的引用权重飙升：每引用 3 条内容，就有 1 条来自抖音",
+     "link": "https://www.ithome.com/1/018/259.htm",
+     "pubDate": "Tue, 27 Oct 2026 02:22:34 GMT",
+     "summary": "IT之家 10 月 27 日消息，据新榜智汇本月发布的报告， 豆包对抖音的引用权重从 5 月的 10.79% 飙升至 8 月的 31.8% ；百度在 6 月首次将B站和好看视频纳入信源库，且二者权重之和达到 12%。 报告称，视频不再是 AI 引用的“边缘补充”，而是正在成为“主力信源”。 IT之家从报告了解到，今年 6 月，抖音首次登顶豆包的引用权重名单，8 月达 31.8%，3 个月翻近 3 倍。 豆包每引用 3 条内容，就有 1 条来自抖音 。 报告提到，对于视频标题，主要看贴不贴合用户提问、有没有踩中关键词、还有最重要的语义相似度。 标题与提问词的语义相似度，和引用次数呈现明确的正相关",
+     "source": "IT之家",
+     "zh": "报告称豆包对抖音的引用权重飙升：每引用 3 条内容，就有 1 条来自抖音"
+    },
+    {
+     "title": "芬兰电子竞技俱乐部 ENCE 经营 13 年后宣布申请破产",
+     "link": "https://www.ithome.com/1/018/258.htm",
+     "pubDate": "Tue, 27 Oct 2026 02:20:49 GMT",
+     "summary": "IT之家 10 月 27 日消息， 芬兰俱乐部 ENCE 当地时间 26 日宣布申请破产 。这家拥有 13 年历史的电竞组织即将落幕。 ENCE 最为知名的是其《反恐精英》分部， 曾收获 2019 年 IEM 卡托维兹 Major 亚军 、 2022 年 PGL 安特卫普 Major 第 3~4 名 ，赢下了 2018 年 SLi 《CS:GO》第 6 赛季、2023 年 IEM 达拉斯等冠军。该战队的应援歌曲《EZ4ENCE》也曾在游戏内风靡一时。 相关阅读： 《 “邪恶天才”27 年后退场：北美知名电子竞技组织 Evil Geniuses 宣布停运 》",
+     "source": "IT之家",
+     "zh": "芬兰电子竞技俱乐部 ENCE 经营 13 年后宣布申请破产"
+    },
+    {
+     "title": "美债大涨，股市下跌，资金大迁移的背后，市场何时止跌？",
+     "link": "https://www.huxiu.com/article/4900077.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 10:20:48 +0800",
+     "summary": "美国财政问题依然悬而未决。真正的流动性拐点还得看美联储是否转向降息，油价和地缘冲突影响巨大。",
+     "source": "虎嗅",
+     "zh": "美债大涨，股市下跌，资金大迁移的背后，市场何时止跌？"
+    },
+    {
+     "title": "63年后，那些富人家的孩子和穷人家的孩子",
+     "link": "https://www.huxiu.com/article/4900700.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 10:20:07 +0800",
+     "summary": "本文来自微信公众号： 青年志Youthology ，编辑：oi，作者：Greye 什么纪录片能拍63年？ 由英国ITV制作的《人生七年》，被认为是史上最长寿的纪录片。 故事始于1964年。纪录片摄制组为了审视英国僵化的阶级制度，找来14名英国各阶层的7岁孩子，采访他们对爱情、金钱、未来的想法。纪录片被命名为《7up》，在电视上播出。 后来，摄制组每隔7年回访他们一次，一坚持就是63年，一直跟拍到他们70岁。 今年9月，《人生七年》推出最终章《70up》。 纪录片的初衷是验证一句格言：“Give me a child until he is seven,and I will give you t",
+     "source": "虎嗅",
+     "zh": "63年后，那些富人家的孩子和穷人家的孩子"
+    },
+    {
+     "title": "为拯救《质量效应》，相关请愿活动登上纽约时代广场大屏广告牌",
+     "link": "https://www.ithome.com/1/018/257.htm",
+     "pubDate": "Tue, 27 Oct 2026 02:18:56 GMT",
+     "summary": "IT之家 10 月 27 日消息，此前报道称#拯救质量效应（#SaveMassEffect）请愿活动为准备在 EA 总部外投放广告牌，签名数已经突破 17 万。今天这份请愿签名不仅超过 21.6 万，相关广告牌也已经正式登陆纽约的大屏。 这次巨型#SaveMassEffect 数字广告牌由 @WeAreMassEffect 团队和内容创作者卡拉 · 伊丽莎白（Kala Elizabeth）统筹，今天全天在时代广场滚动播放。 IT之家注意到，这块电子屏位于百老汇大道 1560 号，就在达菲广场的贝利商店正上方，位置十分醒目。身处当地的粉丝可以在每小时的 35 分看到这条 15 秒的广告。 屏幕上",
+     "source": "IT之家",
+     "zh": "为拯救《质量效应》，相关请愿活动登上纽约时代广场大屏广告牌"
+    },
+    {
+     "title": "具身智能最大的敌人，是“吃灰”",
+     "link": "https://www.huxiu.com/article/4900414.html?f=rss",
+     "pubDate": "Tue, 27 Oct 2026 10:17:05 +0800",
+     "summary": "出品｜虎嗅汽车组 作者｜邢书博 题图｜作者实拍 &nbsp; 在张贵兵看来，具身智能的下半场里，审美与技术同等重要。 这位奇瑞汽车股份有限公司常务副总裁举了个卖车的例子：很多女性客户&ldquo;第一眼看到这个汽车喜欢上了&rdquo;，并不细究技术参数，这是典型的&ldquo;颜值决策&rdquo;。&ldquo;随着大家的技术都已经基本上接近成熟的时候，颜值就会变得越来越重要，因为颜值跟人的审美观、情绪都会产生共鸣。&rdquo; 这些话，出自2026墨甲机器人全球发布会结束后的一场40分钟对话&mdash;&mdash;这是张贵兵接任奇瑞国内事业部后，第一次以墨甲机器人总经理身份面对媒体",
+     "source": "虎嗅",
+     "zh": "具身智能最大的敌人，是“吃灰”"
+    },
+    {
      "title": "小米米家高速吹风机 Mini 开售：11 万转 / 分钟高速电机，首销 199.7 元",
      "link": "https://www.ithome.com/1/018/256.htm",
      "pubDate": "Tue, 27 Oct 2026 02:13:02 GMT",
@@ -1753,12 +1825,12 @@
      "zh": "小米米家高速吹风机 Mini 开售：11 万转 / 分钟高速电机，首销 199.7 元"
     },
     {
-     "title": "《羊蹄山之魂》开发商 Sucker Punch 裁员 26 人",
+     "title": "《羊蹄山之魂》开发商 Sucker Punch 裁员 26 人，正筹备新项目",
      "link": "https://www.ithome.com/1/018/253.htm",
      "pubDate": "Tue, 27 Oct 2026 02:09:08 GMT",
      "summary": "IT之家 10 月 27 日消息，《羊蹄山之魂》（Ghost of Yotei）开发商 Sucker Punch，在其上一款游戏发售仅一年多后就裁员了部分员工。 据游戏媒体 Aftermath 报道，在《羊蹄山之魂》DLC 与完全版登陆 PS5 仅仅几周后，该工作室裁掉了 26 名员工。目前这家工作室总员工大约 200 人。工作室管理层发给全体员工的内部邮件说明，做出裁员决定，是因为市场环境面临挑战，同时新项目的团队规模规划发生了变化。 邮件原文写道：“我们仔细评估了市场遇到的难题，同时复盘新项目的人员需求之后，决定缩减部分人手。Sucker Punch 多个岗位将会被裁撤。” 邮件还透露，下",
      "source": "IT之家",
-     "zh": "《羊蹄山之魂》开发商 Sucker Punch 裁员 26 人"
+     "zh": "《羊蹄山之魂》开发商 Sucker Punch 裁员 26 人，正筹备新项目"
     },
     {
      "title": "650亿美元ARR、800亿美元净亏损，最强AI公司揭开神秘面纱",
@@ -1777,44 +1849,12 @@
      "zh": "非洲工作手记 : 在非洲生活听起来很可怕，实际上很容易"
     },
     {
-     "title": "蚂蚁灵光 2.0 发布：全新升级“能管事的 AI 助理”，突破单次对话限制",
-     "link": "https://www.ithome.com/1/018/252.htm",
-     "pubDate": "Tue, 27 Oct 2026 02:05:24 GMT",
-     "summary": "IT之家 10 月 27 日消息，蚂蚁集团今日发布 灵光 2.0 ，推动 AI 助理从被动响应指令、完成单次任务，向主动发现需求、持续管理事务的演进。 据蚂蚁集团官方介绍，与传统对话式 AI 及任务型 Agent 相比，灵光 2.0 的一大变化， 是将 AI 介入任务的起点进一步前移 。 过去，用户需要先发现问题、提出需求，再由 AI 执行；如今，在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和跟进，并在需要用户关注的节点及时提醒。 AI 不再只是等待指令的工具，而开始成为能够持续管理事务的助手 。 这一变化背后，是灵光 2.0 对跨会话记忆、长程任务调度",
-     "source": "IT之家",
-     "zh": "蚂蚁灵光 2.0 发布：全新升级“能管事的 AI 助理”，突破单次对话限制"
-    },
-    {
      "title": "航空公司是真不懂？",
      "link": "https://www.huxiu.com/article/4900694.html?f=rss",
      "pubDate": "Tue, 27 Oct 2026 10:04:27 +0800",
      "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 最近陆陆续续跟不少航司客舱部、分管服务的公司领导前辈们聊起服务的话题，然后我发现我们之间一直有个误会。 他们始终认为，出现投诉、满意度下降时，只要没有给员工扣分、罚款、降级，就说明公司没有处罚员工。 我相信他们说的是真话。 可我始终认为，一起投诉真正折磨人的，不是他们理解的这些处罚，而是那个投诉到了公司之后的处理过程。 你比如说，一件事要一遍遍回公司谈话，写事情经过，写情况说明，甚至还要写思想认识。 今天这个领导找你，明天那个干部给你打电话，好不容易把事情解释清楚了，接下来可能又是为期一个月的加密包，进培训班、学习班，正常飞航班之外，还得完成",
      "source": "虎嗅",
      "zh": "航空公司是真不懂？"
-    },
-    {
-     "title": "特斯拉为 Cybercab 电池包预留大量空间，未来兼容磷酸铁锂电池",
-     "link": "https://www.ithome.com/1/018/251.htm",
-     "pubDate": "Tue, 27 Oct 2026 02:04:22 GMT",
-     "summary": "IT之家 10 月 27 日消息，磷酸铁锂电池在全球市场迅速普及，去年成为最受欢迎的电池类型。成本更低、耐用性更强的磷酸铁锂电池，未来甚至可能用于特斯拉无人驾驶出租车 Cybercab。 特斯拉电池模组及电池包机械设计工程总监罗伯特 · 桑普夫在接受 YouTube 频道 Munro Live 采访时透露，Cybercab 从设计之初就为采用磷酸铁锂电池做好了准备。新车电池包内 留有大量空间 ，电池模组的侧面和下方都没有完全填满。“我们在设计电池包时特意预留了空间，以便未来扩大生产规模后，能够在这个平台上使用 能量密度更低的磷酸铁锂电池 。” 特斯拉汽车工程副总裁拉斯 · 莫拉维还给出了另一个",
-     "source": "IT之家",
-     "zh": "特斯拉为 Cybercab 电池包预留大量空间，未来兼容磷酸铁锂电池"
-    },
-    {
-     "title": "不再逐个翻邮箱：微软 Win11 新版 Outlook 上线“所有账户”统一收件箱",
-     "link": "https://www.ithome.com/1/018/250.htm",
-     "pubDate": "Tue, 27 Oct 2026 02:03:53 GMT",
-     "summary": "IT之家 10 月 27 日消息，科技媒体 Windows Latest 今天（10 月 27 日）发布博文，报道称在适用于 Windows 11（原文虽未列出，但 Windows 10 版预估同样支持）的新版 Outlook 上， 新增上线“所有账户”统一收件箱。 IT之家援引博文介绍，在此前的 Windows 11 新版 Outlook 应用中，用户若同时使用多个邮箱，必须逐个切换收件箱，或通过“收藏夹”减少点击次数。 此前新版 Outlook 单独列出邮箱账号 而本次新增的“所有账户”统一收件箱让用户在 1 个列表中，直接阅读、删除、搜索、移动、归档和标记不同账户的邮件，无需在多个邮箱之",
-     "source": "IT之家",
-     "zh": "不再逐个翻邮箱：微软 Win11 新版 Outlook 上线“所有账户”统一收件箱"
-    },
-    {
-     "title": "投资人，等不及机器人长大",
-     "link": "https://www.huxiu.com/article/4900691.html?f=rss",
-     "pubDate": "Tue, 27 Oct 2026 10:02:58 +0800",
-     "summary": "本文来自微信公众号： 资本不熬夜 ，作者：不熬夜研究院 今年5月，一位机器人公司的早期投资人，开始催促被投企业推进IPO。 按照他向《资本不熬夜》提供的信息，这是一家估值约数百亿元的灵巧手机器人，在行业内已有知名度，技术团队也具备一定研发能力。按理说，能够投中这样的项目，投资人应当期待更高的回报，但他的心思已经不在下一轮估值上。 “技术是不错，但经营管理、商业化和订单都存在问题。”这位投资人向《资本不熬夜》表达了对被投企业的担忧。他并不否认机器人产业的前景，只是不愿继续等待企业用未来的收入支撑当下的估值。 他开始推动上市，希望尽快为手中的股份寻找出口。 五个月过去，期待中的IPO仍未到来。A股",
-     "source": "虎嗅",
-     "zh": "投资人，等不及机器人长大"
     },
     {
      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -1833,36 +1873,12 @@
      "zh": "“行元智能”杨世琦：不做本体，押注机器人“词元” | 首发"
     },
     {
-     "title": "史上最大IPO却是亏损最多的AI公司：Anthropic正把资本市场拖入算力赌局？",
-     "link": "https://www.huxiu.com/article/4900689.html?f=rss",
-     "pubDate": "Tue, 27 Oct 2026 09:59:43 +0800",
-     "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 导语：收入半年增长14倍，净亏损却超过800亿美元。Anthropic招股书揭开的不只是一家公司的账本，更是AI产业从模型竞赛走向资本效率竞赛的转折。 2026年10月26日，Anthropic向美国证券交易委员会公开提交S-1招股书，拟以“ANT”为代码在纳斯达克上市。这家成立仅五年的AI公司，正冲击史上最大IPO纪录。招股书披露，Anthropic今年上半年收入达162.86亿美元，但净亏损更高达807.48亿美元。收入高速增长与巨额亏损同时出现，让这次上市迅速成为全球资本市场的焦点。 我认为，这份招股书最值得关注的不是80",
-     "source": "虎嗅",
-     "zh": "史上最大IPO却是亏损最多的AI公司：Anthropic正把资本市场拖入算力赌局？"
-    },
-    {
-     "title": "全球首台私人空间望远镜将观测 27 颗系外行星，计划 2029 年前发射",
-     "link": "https://www.ithome.com/1/018/248.htm",
-     "pubDate": "Tue, 27 Oct 2026 01:55:36 GMT",
-     "summary": "IT之家 10 月 27 日消息，拉祖利空间望远镜（Lazuli Space Telescope）将成为全球首台私人空间望远镜，由谷歌前首席执行官埃里克 · 施密特构思发起。该望远镜搭载一面 3 米口径的主镜，大于哈勃望远镜 2.4 米的镜面，计划在 2029 年前发射升空。 据IT之家了解，拉祖利望远镜配备三台仪器：一台宽视场光学成像仪、一台积分场光谱仪，以及系外行星日冕仪（ESC）。 一篇新研究为这台日冕仪拟定了观测目标清单，论文标题为《拉祖利系外行星日冕仪反射星光系外行星观测计划的首批优选目标》，已发布在 arXiv 网站。论文作者是密歇根大学天文系的洛根 · 皮尔斯（Logan Pea",
-     "source": "IT之家",
-     "zh": "全球首台私人空间望远镜将观测 27 颗系外行星，计划 2029 年前发射"
-    },
-    {
      "title": "GPT-6.1 Terra发布，评论区：拉完了",
      "link": "https://www.tmtpost.com/8182987.html",
      "pubDate": "Tue, 27 Oct 2026 09:55:31 +0800",
      "summary": "最大亮点是价格降了一半。",
      "source": "钛媒体",
      "zh": "GPT-6.1 Terra发布，评论区：拉完了"
-    },
-    {
-     "title": "王的猜想，被AI 一夜通关",
-     "link": "https://www.huxiu.com/article/4900690.html?f=rss",
-     "pubDate": "Tue, 27 Oct 2026 09:55:18 +0800",
-     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《王的猜想，被 AI 一夜通关》 困扰人类几十年的世界级难题，AI只用几天就交卷了。 就在刚刚，OpenAI宣布其模型一次性带来三项突破：推翻了计算机科学界坚信近30年的指数时间假设；证明了所有维度的局部平滑化猜想；为量子色动力学和杨-米尔斯理论构造了严格的数学存在性证明。 OpenAI宣告，顺着数学推导链条往回推，这意味着卡凯亚猜想（又名挂谷猜想）在所有维度宣告破解。 而2025年初，中国数学家王虹刚刚因为证明三维卡凯亚猜想（即三维挂谷猜想）震惊世界。仅仅一年半的时间，人类引以为傲的突破就成了AI成果的一个特例。 更有趣的是",
-     "source": "虎嗅",
-     "zh": "王的猜想，被AI 一夜通关"
     },
     {
      "title": "China&apos;s Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)",
@@ -1892,7 +1908,7 @@
      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
      "link": "https://github.com/otya128/winevdm",
      "pubDate": "Tue, 27 Oct 2026 01:15:04 +0000",
-     "summary": "Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 14 # Comments: 1",
+     "summary": "Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 19 # Comments: 1",
      "source": "Hacker News",
      "zh": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows"
     },
@@ -1903,22 +1919,6 @@
      "summary": "今日核心情报聚焦 AI 资本与治理的结构性转折。Anthropic 公开递交 S-1、以代码 ANT 登陆纳斯达克，H1 营收 163 亿美元同比增长约 13.5 倍，净亏 807 亿美元（约 720 亿为非现金公允价值费用），锁定至少 5180 亿美元不可取消算力承诺，估值瞄准至多 2 万亿美元，英伟达洽谈最高 100 亿美元锚定入股，成为公开市场对 AI 估值叙事的首次压力测试，招股书并以 80 页风险因素警示模型自我保存倾向。OpenAI 发布 GPT-6.1 Terra，标准 API 定价砍半、单任务成本降约九倍，将计量单位由 token 转向“完成的任务”，定价权从实验室转向企业 C",
      "source": "钛媒体",
      "zh": "Edge AI Daily 早报（10月27日）"
-    },
-    {
-     "title": "China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them",
-     "link": "https://www.tmtpost.com/8182953.html",
-     "pubDate": "Tue, 27 Oct 2026 07:23:04 +0800",
-     "summary": "Tencent’s QClaw will shut after 188 days in public test. Across eight major AI firms and ten product lanes, launches arrive in weeks and independent brands exit through renames, mergers, or shutdowns. Capability is migrating into general assistants as the next fight shifts to personal agents.",
-     "source": "钛媒体",
-     "zh": "China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them"
-    },
-    {
-     "title": "【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通",
-     "link": "https://www.tmtpost.com/8182711.html",
-     "pubDate": "Tue, 27 Oct 2026 07:20:00 +0800",
-     "summary": "上纬新材、宇树科技连续3日涨幅偏离值累超30%，紧急提示风险；寒武纪董事长辟谣“明年芯片出货超100万颗”传闻；药明康德Q3净利润同比增长137%，上调全年收入指引；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市；苹果据称测试折叠屏大尺寸iPad；全球首创，香港首批合规公募数字基金7*24实时交易获批。",
-     "source": "钛媒体",
-     "zh": "【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通"
     },
     {
      "title": "Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments (Ray Maker/DC Rainmaker)",
@@ -1932,7 +1932,7 @@
      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
      "pubDate": "Mon, 26 Oct 2026 22:41:48 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 77 # Comments: 21",
+     "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 81 # Comments: 22",
      "source": "Hacker News",
      "zh": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)"
     },
@@ -1956,7 +1956,7 @@
      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
      "pubDate": "Mon, 26 Oct 2026 22:27:17 +0000",
-     "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 24 # Comments: 17",
+     "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 28 # Comments: 18",
      "source": "Hacker News",
      "zh": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It"
     },
@@ -1972,7 +1972,7 @@
      "title": "The Exponential Time Hypothesis Is False [pdf]",
      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
      "pubDate": "Mon, 26 Oct 2026 21:59:15 +0000",
-     "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 307 # Comments: 120",
+     "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 321 # Comments: 130",
      "source": "Hacker News",
      "zh": "The Exponential Time Hypothesis Is False [pdf]"
     },
@@ -2241,60 +2241,28 @@
    "total": 13,
    "items": [
     {
+     "title": "黄金避险逻辑变了！大摩：股市暴跌时未必管用，但能对冲美债危机",
+     "link": "https://wallstreetcn.com/articles/3784527",
+     "pubDate": "Tue, 27 Oct 2026 10:27:04 +0800",
+     "summary": "黄金的避险属性正在经历一场深刻的结构性重塑。 据追风交易台，摩根士丹利在最新报告中指出，自2020年以来，黄金已无法有效对冲股市下跌风险，在极端股市抛售中甚至会放大投资组合损失——但与此同时，黄金在美债剧烈抛售期间展现出愈发重要的缓冲价值，正成为对抗财政风险与主权信用风险的核心工具。 在这一逻辑转变的背景下，摩根士丹利维持黄金为金属类资产首选， 并设定2027年第二季度目标价5000美元/盎司。 尽管美联储自2023年以来首次重启加息、10年期美债收益率升至本世纪初以来高位，金价仍较8月高点仅回落约10%，目前维持在4000美元/盎司上方。摩根士丹利将这一韧性归因于央行持续购金与ETF资金大规",
+     "source": "华尔街见闻",
+     "zh": "黄金避险逻辑变了！大摩：股市暴跌时未必管用，但能对冲美债危机"
+    },
+    {
      "title": "China industrial profits post strongest growth in three months, rising 14.4%",
      "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-     "pubDate": "Tue, 27 Oct 2026 02:17:35 GMT",
+     "pubDate": "Tue, 27 Oct 2026 02:23:29 GMT",
      "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
      "source": "CNBC",
      "zh": "China industrial profits post strongest growth in three months, rising 14.4%"
     },
     {
-     "title": "10月27日纺织鞋类制造板块涨幅达3%",
-     "link": "http://stock.eastmoney.com/news/1944,202610273909371185.html",
-     "pubDate": "Tue, 27 Oct 2026 10:00:00 +0800",
-     "summary": "&emsp;&emsp;10月27日9点59分， 纺织鞋类制造 板块指数报437.835点，涨幅达3%，成交4152.43万元，换手率0.10%。 &emsp;&emsp;板块个股中，涨幅最大的前1个股为： 华利集团 报36.11元，涨3.02%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月27日纺织鞋类制造板块涨幅达3%"
-    },
-    {
-     "title": "仁信新材10月27日加速下跌",
-     "link": "http://stock.eastmoney.com/news/1944,202610273909370417.html",
-     "pubDate": "Tue, 27 Oct 2026 09:59:47 +0800",
-     "summary": "以下是 仁信新材 在北京时间10月27日09:59分盘口异动快照： 10月27日， 仁信新材 盘中加速下跌，5分钟内跌幅超过2%，截至9点59分，报12.64元，成交4836.32万元，换手率2.85%。 分笔 09:59:33 12.64 182↓ 09:59:30 12.66 10↓ 09:59:27 12.67 3↓ 09:59:24 12.66 10↓ 09:59:21 12.69 241↑ 09:59:18 12.66 7↓ 09:59:15 12.67 36↓ 09:59:12 12.68 26↓ 09:59:09 12.72 41↑ 09:59:06 12.72 3↑ 报价 卖五",
-     "source": "东方财富股票",
-     "zh": "仁信新材10月27日加速下跌"
-    },
-    {
-     "title": "ST美晨10月27日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610273909370392.html",
-     "pubDate": "Tue, 27 Oct 2026 09:59:46 +0800",
-     "summary": "以下是 ST美晨 在北京时间10月27日09:59分盘口异动快照： 10月27日， ST美晨 盘中快速上涨，5分钟内涨幅超过2%，截至9点59分，报2.28元，成交983.46万元，换手率0.30%。 分笔 09:59:30 2.28 74↑ 09:59:27 2.27 2939↑ 09:59:24 2.27 8↑ 09:59:21 2.27 2679↑ 09:59:18 2.26 134↑ 09:59:15 2.26 2919↑ 09:59:09 2.26 1299↑ 09:59:03 2.26 2↑ 09:59:00 2.26 2280↑ 09:58:57 2.25 2336↑ 报价 卖五",
-     "source": "东方财富股票",
-     "zh": "ST美晨10月27日快速上涨"
-    },
-    {
-     "title": "西点药业10月27日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610273909369956.html",
-     "pubDate": "Tue, 27 Oct 2026 09:59:45 +0800",
-     "summary": "以下是 西点药业 在北京时间10月27日09:59分盘口异动快照： 10月27日， 西点药业 盘中跌幅达5%，截至9点59分，报24.95元，成交5999.93万元，换手率3.98%。 分笔 09:59:21 24.95 59↓ 09:59:15 24.98 322↓ 09:59:12 25.00 42↓ 09:59:09 25.01 3↑ 09:59:06 25.00 38↓ 09:59:03 25.02 181↑ 09:59:00 25.02 18↑ 09:58:57 25.01 24↓ 09:58:45 25.06 39↑ 09:58:42 25.05 348↓ 报价 卖五 25 24 ",
-     "source": "东方财富股票",
-     "zh": "西点药业10月27日盘中跌幅达5%"
-    },
-    {
-     "title": "模塑科技10月27日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610273909369641.html",
-     "pubDate": "Tue, 27 Oct 2026 09:59:40 +0800",
-     "summary": "以下是模塑科技在北京时间10月27日09:59分盘口异动快照： 10月27日，模塑科技盘中涨幅达5%，截至9点59分，报13.74元，成交8.04亿元，换手率6.66%。 分笔 09:59:24 13.74 1092↑ 09:59:21 13.71 925↑ 09:59:18 13.71 3514↑ 09:59:15 13.68 1567↑ 09:59:12 13.68 243↑ 09:59:09 13.66 803↑ 09:59:06 13.63 913↑ 09:59:03 13.60 1978↓ 09:59:00 13.63 1093↑ 09:58:57 13.60 834↓ 报价 卖五 ",
-     "source": "东方财富股票",
-     "zh": "模塑科技10月27日盘中涨幅达5%"
-    },
-    {
-     "title": "*ST东智10月27日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610273909369542.html",
-     "pubDate": "Tue, 27 Oct 2026 09:59:40 +0800",
-     "summary": "以下是 *ST东智 在北京时间10月27日09:59分盘口异动快照： 10月27日， *ST东智 盘中快速上涨，5分钟内涨幅超过2%，截至9点59分，报2.43元，成交1610.12万元，换手率0.53%。 分笔 09:59:24 2.43 67↑ 09:59:21 2.42 306↓ 09:59:12 2.42 40↓ 09:59:06 2.42 1332↑ 09:59:03 2.41 299↓ 09:59:00 2.42 91↑ 09:58:57 2.42 1317↑ 09:58:54 2.41 676↓ 09:58:51 2.42 27↑ 09:58:45 2.42 53↑ 报价 卖五 ",
-     "source": "东方财富股票",
-     "zh": "*ST东智10月27日快速上涨"
+     "title": "东鹏饮料集团：零容忍伤害民族感情行为 终止与姆巴佩全部合作",
+     "link": "http://finance.eastmoney.com/news/1345,202610273909379679.html",
+     "pubDate": "Tue, 27 Oct 2026 10:04:09 +0800",
+     "summary": "@ 东鹏饮料 集团 10月27日发布关于终止与基利安·姆巴佩合作的声明 ： （文章来源：澎湃新闻）",
+     "source": "东方财富资讯",
+     "zh": "东鹏饮料集团：零容忍伤害民族感情行为 终止与姆巴佩全部合作"
     },
     {
      "title": "Q3净利创单季新高！CRO龙头二度上调全年指引 AIDD、AI4S成行业关键词",
@@ -2425,28 +2393,12 @@
      "zh": "见闻历11.11大促开启！放桌角，给明年的桌面添点新见闻"
     },
     {
-     "title": "主动权益“年内翻倍基”怎么清零了？如何看这一现象？",
-     "link": "http://stock.eastmoney.com/news/11215,202610273908971538.html",
-     "pubDate": "Tue, 27 Oct 2026 08:58:33 +0800",
-     "summary": "昨日，主动权益型“年内翻倍基”暂时清零。 截至10月26日，杨宗昌旗下易方达供给改革混合的年内收益已降至99.21%。该产品仍为全市场年内收益最高的主动权益产品，这意味着主动权益型“年内翻倍基”已全部清零。 上半年末，全市场共有203只主动权益基金的年内收益超100%。而随着下半年市场震荡加剧，翻倍基迅速缩减。截至三季度末，全市场仅剩易方达供给改革混合、易方达产业机遇混合两只主动权益型“年内翻倍基”。 但业内人士强调，年内翻倍基暂时清零，只是市场阶段性低点的短期现象，后续若市场回暖，年内翻倍基有望重现。另外也需要注意到，仍有多只昔日“年内翻倍基”的年内收益超过50%，为持有人守住了收益。 主动",
-     "source": "东方财富资讯",
-     "zh": "主动权益“年内翻倍基”怎么清零了？如何看这一现象？"
-    },
-    {
      "title": "Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’",
      "link": "https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1",
      "pubDate": "Tue, 27 Oct 2026 00:54:15 GMT",
      "summary": "US President casts doubt on integrity of South American nation’s election result over extension of voting hours",
      "source": "Financial Times",
      "zh": "Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’"
-    },
-    {
-     "title": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的",
-     "link": "https://wallstreetcn.com/articles/3784524",
-     "pubDate": "Tue, 27 Oct 2026 08:52:36 +0800",
-     "summary": "前沿AI模型公司Anthropic正式迈出上市关键一步，这将是AI领域迄今规模最大的IPO。 华尔街见闻提及 ，Anthropic周一向美国证券交易委员会递交S-1招股说明书，318页的文件披露了其商业模式、风险因素及财务状况，消息提振周一AI相关芯片股走势。 招股书在第194页预留了10月年度经常性收入（ARR）的空白占位符，待修订版S-1中补充披露。 资深科技财经作者Tae Kim发表专栏指出，这一安排本身即释放积极信号—— 若10月ARR数据不佳，Anthropic完全没有义务将其纳入修订文件，主动预留意味着公司对该数据有信心 。 9月22日，Anthropic已发布性能大幅提升的Opu",
-     "source": "华尔街见闻",
-     "zh": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的"
     },
     {
      "title": "Rambus expects Q4 revenue of $227M-$233M as it targets continued product ramps into 2027",
@@ -2479,6 +2431,54 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Kforce expects Q4 revenue of $352M-$360M and EPS of $0.62-$0.70 as technology demand builds"
+    },
+    {
+     "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+     "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+     "pubDate": "Tue, 27 Oct 2026 00:17:44 GMT",
+     "summary": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
+     "source": "CNBC",
+     "zh": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey"
+    },
+    {
+     "title": "Amkor anticipates Q4 revenue of $1.9B-$2.0B while narrowing 2026 CapEx to around $2.5B",
+     "link": "https://seekingalpha.com/news/4657640-amkor-anticipates-q4-revenue-of-1_9b-2_0b-while-narrowing-2026-capex-to-around-2_5b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 20:01:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amkor anticipates Q4 revenue of $1.9B-$2.0B while narrowing 2026 CapEx to around $2.5B"
+    },
+    {
+     "title": "Mastercard targets creators via MrBeast partnership",
+     "link": "https://www.finextra.com/newsarticle/48650/mastercard-targets-creators-via-mrbeast-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 27 Oct 2026 00:01:00 GMT",
+     "summary": "Mastercard is targeting the creator community through a partnership with Beast Industries, the company founded by YouTube superstar MrBeast.",
+     "source": "Finextra",
+     "zh": "Mastercard targets creators via MrBeast partnership"
+    },
+    {
+     "title": "CapitalOS raises $21.9m for money orchestration layer for B2B platforms",
+     "link": "https://www.finextra.com/newsarticle/48652/capitalos-raises-219m-for-money-orchestration-layer-for-b2b-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 27 Oct 2026 00:01:00 GMT",
+     "summary": "CapitalOS, a money orchestration layer for B2B platforms, has raised $21.9 million in Series A funding.",
+     "source": "Finextra",
+     "zh": "CapitalOS raises $21.9m for money orchestration layer for B2B platforms"
+    },
+    {
+     "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive &apos;trickle-down effect&apos;",
+     "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+     "pubDate": "Mon, 26 Oct 2026 22:50:07 GMT",
+     "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+     "source": "CNBC",
+     "zh": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive &apos;trickle-down effect&apos;"
+    },
+    {
+     "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+     "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 22:30:00 GMT",
+     "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+     "source": "MarketWatch",
+     "zh": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?"
     }
    ]
   },

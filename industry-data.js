@@ -2330,14 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar"
     },
     {
-     "title": "近10万户投资者认购！沪市主动ETF已募资163亿元 机构认购占比逾20%",
-     "link": "http://stock.eastmoney.com/news/11215,202610273910529046.html",
-     "pubDate": "Tue, 27 Oct 2026 22:10:40 +0800",
-     "summary": "首批主动于ETF10月23日启动募集。截至10月27日，沪市9只产品合计募集资金163.3亿元，其中，机构投资者认购占比超20%。证券时报记者获悉，近10万户投资者参与了沪市主动ETF的认购。 值得一提的是，截至10月27日，沪市9只主动ETF 中的7只已募满20亿元。具体来看，10月23日，摩根、易方达两家管理人实现一日结募；10月26日，华夏、华泰柏瑞和平安三家管理人提前结募；10月27日，汇添富和招商两家管理人提前结募。 据记者了解，首日结束募集的两家基金管理人将于10月29日开始建仓。 基于对中国资本市场长期健康稳定发展的信心，摩根、易方达、华夏、汇添富、华安和平安6家沪市管理人通过（",
-     "source": "东方财富资讯",
-     "zh": "近10万户投资者认购！沪市主动ETF已募资163亿元 机构认购占比逾20%"
-    },
-    {
      "title": "Anthropic and the AI cluster effect in fundraising",
      "link": "https://www.ft.com/content/689a2114-57c5-4391-a335-dc97e5716610",
      "pubDate": "Tue, 27 Oct 2026 14:02:23 GMT",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/28 03:44:53",
+ "generated_at": "2026/10/28 03:53:22",
  "recent_days": 7,
  "industries": [
   {
@@ -89,6 +89,14 @@
      "zh": "Opera introduces a new web standard to let users deploy AI locally in their browser"
     },
     {
+     "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+     "link": "https://www.qbitai.com/2026/10/505865.html",
+     "pubDate": "Tue, 27 Oct 2026 12:57:51 +0000",
+     "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+     "source": "量子位",
+     "zh": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法"
+    },
+    {
      "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
      "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
      "pubDate": "Tue, 27 Oct 2026 12:57:46 +0000",
@@ -113,12 +121,52 @@
      "zh": "Industrial Intelligence: The next growth opportunity for manufacturing"
     },
     {
+     "title": "印奇把4D雷达也端到端了",
+     "link": "https://www.qbitai.com/2026/10/505852.html",
+     "pubDate": "Tue, 27 Oct 2026 10:40:12 +0000",
+     "summary": "毫米波雷达，AI算力10TOPS",
+     "source": "量子位",
+     "zh": "印奇把4D雷达也端到端了"
+    },
+    {
+     "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+     "link": "https://www.qbitai.com/2026/10/505830.html",
+     "pubDate": "Tue, 27 Oct 2026 09:54:51 +0000",
+     "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+     "source": "量子位",
+     "zh": "乔布斯的皮克斯，狂赞中国物理AI数据终端"
+    },
+    {
      "title": "刚刚，Rokid首款全彩AI眼镜亮相，4999元起",
      "link": "https://zhidx.com/p/604685.html",
      "pubDate": "Tue, 27 Oct 2026 17:18:24 +0800",
      "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西10月27日杭州现场报道，刚刚，乐奇Rokid发布了自家 第二代AI眼镜Rokid Glasses 2， 以及其首款 全彩AI眼镜Rokid Color、 配合眼镜使用的 智能戒指Rokid Ring 三款重磅新品。 相比上代，Rokid Glasses 2 戴着更舒服、续航更长， 搭载 高通AR+ 和 6nm恒玄芯片， 镜片中间“出戏”的 彩虹纹等现象大幅减弱。 核心AI能力方面，乐奇AI的 反应更快、识别的更准，有记忆并且可以主动提醒 你做事。 你还能用AI眼镜调用智能体办公、 写代码、扫码开柜、打车导航、购物比价、找店铺。 基于Rokid ",
      "source": "智东西",
      "zh": "刚刚，Rokid首款全彩AI眼镜亮相，4999元起"
+    },
+    {
+     "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+     "link": "https://www.qbitai.com/2026/10/505799.html",
+     "pubDate": "Tue, 27 Oct 2026 08:46:12 +0000",
+     "summary": "无人在环进店实测啃下长尾场景",
+     "source": "量子位",
+     "zh": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了"
+    },
+    {
+     "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+     "link": "https://www.qbitai.com/2026/10/505773.html",
+     "pubDate": "Tue, 27 Oct 2026 08:35:33 +0000",
+     "summary": "OCR 3.0时代，来了",
+     "source": "量子位",
+     "zh": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%"
+    },
+    {
+     "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+     "link": "https://www.qbitai.com/2026/10/505719.html",
+     "pubDate": "Tue, 27 Oct 2026 08:27:46 +0000",
+     "summary": "同一天，OpenAI还甩出3项AI科学新发现",
+     "source": "量子位",
+     "zh": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力"
     },
     {
      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -199,54 +247,6 @@
      "summary": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engin",
      "source": "arXiv cs.AI",
      "zh": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities"
-    },
-    {
-     "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
-     "link": "https://arxiv.org/abs/2610.33112",
-     "pubDate": "Tue, 27 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded b",
-     "source": "arXiv cs.AI",
-     "zh": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation"
-    },
-    {
-     "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
-     "link": "https://arxiv.org/abs/2610.33138",
-     "pubDate": "Tue, 27 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.33138v1 Announce Type: new Abstract: Constraint-based causal discovery relies on conditional-independence (CI) tests that may conflict in finite samples, leaving no causal graph that satisfies them all. Causal Assumption-based Argumentation (ABA) makes these tests explicit as defeasible c",
-     "source": "arXiv cs.AI",
-     "zh": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery"
-    },
-    {
-     "title": "刚刚，百度开源再拿全球第一！1000万下载神作杀回来了",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652738252&idx=1&sn=cd9635665f1240282aa9d610ebe2dac6",
-     "pubDate": "Tue, 27 Oct 2026 11:48:00 +0800",
-     "summary": "此身为OCR所成",
-     "source": "新智元",
-     "zh": "刚刚，百度开源再拿全球第一！1000万下载神作杀回来了"
-    },
-    {
-     "title": "OpenAI改写人类科学史！「王的猜想」全维度告破，30年铁律ETH塌了",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652738252&idx=2&sn=2ca4bd9a18c41d92c82323a6c9e58813",
-     "pubDate": "Tue, 27 Oct 2026 11:48:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "OpenAI改写人类科学史！「王的猜想」全维度告破，30年铁律ETH塌了"
-    },
-    {
-     "title": "中国数学家攻克世界级数学难题！中国科学多模态大模型立功",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652738252&idx=3&sn=da6fafe36fe204457e8e9e750df86fe9",
-     "pubDate": "Tue, 27 Oct 2026 11:48:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "中国数学家攻克世界级数学难题！中国科学多模态大模型立功"
-    },
-    {
-     "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-     "link": "https://www.qbitai.com/2026/10/505580.html",
-     "pubDate": "Tue, 27 Oct 2026 03:23:55 +0000",
-     "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
-     "source": "量子位",
-     "zh": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会"
     }
    ]
   },
@@ -337,6 +337,14 @@
      "zh": "S2C Targets Faster RISC-V Bring-Up With Prototyping and AI"
     },
     {
+     "title": "Infineon establishing first high-volume fab for GaN power semiconductors on 300mm wafers in Europe",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-271026.shtml",
+     "pubDate": "Tue, 27 Oct 2026 11:34:01 GMT",
+     "summary": "Infineon Technologies AG of Munich, Germany is establishing the world’s first high-volume manufacturing facility for gallium nitride (GaN) power semiconductors on 300mm wafers in Europe. As part of the project, the firm will invest about €1.1bn in its existing cleanroom facilities at the site in Vil",
+     "source": "Semiconductor Today",
+     "zh": "Infineon establishing first high-volume fab for GaN power semiconductors on 300mm wafers in Europe"
+    },
+    {
      "title": "Jensen and Musk both think aging GPUs are worth more than the books show",
      "link": "https://www.digitimes.com/news/a20261027PD237/nvidia-gtc-gpu-tesla-berlin.html",
      "pubDate": "Tue, 27 Oct 2026 09:35:06 GMT",
@@ -417,6 +425,14 @@
      "zh": "Using a Single Image to Optimize Urban Solar-Panel Orientation"
     },
     {
+     "title": "Infineon supplying world’s first 900V GaN monolithic BDS devices to Enphase",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-261026.shtml",
+     "pubDate": "Mon, 26 Oct 2026 19:13:55 GMT",
+     "summary": "Infineon Technologies AG of Munich, Germany is to supply what is said to be the world’s first 900V gallium nitride (GaN) monolithic bidirectional switches (BDS) to Enphase Energy Inc of Fremont, CA, USA (which supplies microinverter-based solar and battery systems) for deployment in its solid-state ",
+     "source": "Semiconductor Today",
+     "zh": "Infineon supplying world’s first 900V GaN monolithic BDS devices to Enphase"
+    },
+    {
      "title": "Accellera’s FSL 1.0 Gives Functional Safety Data a Common Language",
      "link": "https://semiwiki.com/semiconductor-services/accellera/375280-accelleras-fsl-1-0-gives-functional-safety-data-a-common-language/",
      "pubDate": "Mon, 26 Oct 2026 17:00:32 +0000",
@@ -457,44 +473,28 @@
      "zh": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum"
     },
     {
+     "title": "University of Illinois at Urbana-Champaign (UIUC) has achieved a record modulation bandwidth of 2.75GHz in a gallium nitride (GaN) blue micro-LED (Abdelghany Abouelnagga et a",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/uiuc-261026.shtml",
+     "pubDate": "Mon, 26 Oct 2026 09:47:10 GMT",
+     "summary": "University of Illinois at Urbana-Champaign (UIUC) has achieved a record modulation bandwidth of 2.75GHz in a gallium nitride (GaN) blue micro-LED (Abdelghany Abouelnagga et al...",
+     "source": "Semiconductor Today",
+     "zh": "University of Illinois at Urbana-Champaign (UIUC) has achieved a record modulation bandwidth of 2.75GHz in a gallium nitride (GaN) blue micro-LED (Abdelghany Abouelnagga et a"
+    },
+    {
+     "title": "Palomino gains first commercial purchase order from strategic hyperscaler customer",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/palamino-261026.shtml",
+     "pubDate": "Mon, 26 Oct 2026 09:34:18 GMT",
+     "summary": "Artificial intelligence (AI) interconnect technology company Palomino Laboratories Inc of Goleta, CA, USA has received its first purchase order (PO) from a strategic hyperscaler customer. The PO includes a statement of work (SOW) for the delivery of high-performance gallium nitride (GaN) micro-LED c",
+     "source": "Semiconductor Today",
+     "zh": "Palomino gains first commercial purchase order from strategic hyperscaler customer"
+    },
+    {
      "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
      "link": "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/",
      "pubDate": "Mon, 26 Oct 2026 07:02:36 +0000",
      "summary": "Researchers at imec published “Beyond HBM-on-GPU: Thermal Design Envelope for 3D Volumetric DRAM-on-GPU Integration.” Summary: Researchers evaluated a 3D memory architecture that rotates DRAM dies vertically above a GPU and places cooling cavities between them as an alternative to conventional 2.5D ",
      "source": "Semiconductor Engineering",
      "zh": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)"
-    },
-    {
-     "title": "Large-Format Masks Move From Aspiration To Industry Roadmap",
-     "link": "https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/",
-     "pubDate": "Mon, 26 Oct 2026 07:02:08 +0000",
-     "summary": "Expert panel sees a compelling productivity case, but the entire photomask ecosystem must be ready together. The post Large-Format Masks Move From Aspiration To Industry Roadmap appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Large-Format Masks Move From Aspiration To Industry Roadmap"
-    },
-    {
-     "title": "Testing Silicon Photonics At Scale",
-     "link": "https://semiengineering.com/testing-silicon-photonics-at-scale/",
-     "pubDate": "Mon, 26 Oct 2026 07:01:58 +0000",
-     "summary": "New test requirements include fiber alignment, coupling efficiency, polarization management, and optical instrumentation. The post Testing Silicon Photonics At Scale appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Testing Silicon Photonics At Scale"
-    },
-    {
-     "title": "Bringing Down Test Costs For Co-Packaged Optics",
-     "link": "https://semiengineering.com/bringing-down-test-costs-for-co-packaged-optics/",
-     "pubDate": "Mon, 26 Oct 2026 07:01:57 +0000",
-     "summary": "Pinpointing failures, ensuring known-good optical engines, and controlling test costs become increasingly critical as photonics moves into advanced packages. The post Bringing Down Test Costs For Co-Packaged Optics appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Bringing Down Test Costs For Co-Packaged Optics"
-    },
-    {
-     "title": "From Chip Lab to Center Stage",
-     "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-     "pubDate": "Fri, 23 Oct 2026 18:00:03 +0000",
-     "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "From Chip Lab to Center Stage"
     }
    ]
   },
@@ -1745,6 +1745,14 @@
      "zh": "Anthropic Says It Will Revolutionize Biology—Some Day"
     },
     {
+     "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
+     "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+     "pubDate": "Tue, 27 Oct 2026 19:32:07 +0000",
+     "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+     "source": "Ars Technica",
+     "zh": "Google's Android Registered App Stores program launches Dec. 1, applications now open"
+    },
+    {
      "title": "Memo: Amazon says measuring AI adoption solely by token usage or code generation is \"deeply flawed,\" as it discourages staff from tokenmaxxing (Annie Palmer/CNBC)",
      "link": "https://www.techmeme.com/261027/p27#a261027p27",
      "pubDate": "Tue, 27 Oct 2026 15:15:34 -0400",
@@ -1767,6 +1775,14 @@
      "summary": "The Everblog HomeCal delivers a similar experience, including a digital photo frame and meal planning at no extra cost.",
      "source": "WIRED",
      "zh": "Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)"
+    },
+    {
+     "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+     "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+     "pubDate": "Tue, 27 Oct 2026 18:49:08 +0000",
+     "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+     "source": "Ars Technica",
+     "zh": "Vibe genes? Natural(ish) language comes to protein, genome design software"
     },
     {
      "title": "Discord will soon let anyone find public server messages through Google",
@@ -1807,6 +1823,14 @@
      "summary": "Financial Times : GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle &nbsp; &mdash;&nbsp; Move marks another blow for Big Board as tech-focused rival attracts some of world's most valuable co",
      "source": "Techmeme",
      "zh": "GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle (Financial Times)"
+    },
+    {
+     "title": "Warner Bros. drops final trailer for Dune: Part Three",
+     "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+     "pubDate": "Tue, 27 Oct 2026 18:05:55 +0000",
+     "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
+     "source": "Ars Technica",
+     "zh": "Warner Bros. drops final trailer for Dune: Part Three"
     },
     {
      "title": "Early Black Friday Deals 2026",
@@ -1951,30 +1975,6 @@
      "summary": "IT之家 10 月 27 日消息，ATK RS8 Air、RS8 Neo 系列 87 配列高性能电竞键盘今日发布，已开启定金预定，RS8 Air 到手价 349 元起，RS8 Neo 到手价 299 元起，11 月 3 日 21 点尾款支付。 IT之家从官方介绍获悉，该系列产品以 87 大配列 带来完整 F 区与全功能按键，兼顾办公码字的便捷需求与电竞对局的操作自由度，拓展更多使用场景。外观搭载正面顶雾 PC 键帽，搭配侧边机甲翼镜结构。两款机型均采用五层满配填充 +GASKET 结构。 RS8Air 搭载第三代烈风 Ultra 磁轴方案，全链路延迟低至 0.28ms，支持 0.001mmRT",
      "source": "IT之家",
      "zh": "ATK RS8 Air / Neo 电竞键盘发布：87 配列，到手价 299 元起"
-    },
-    {
-     "title": "Meta AI 负责人罗希特 · 帕特尔离职创业，打造微软 Office 替代方案 Ndoc",
-     "link": "https://www.ithome.com/1/018/696.htm",
-     "pubDate": "Tue, 27 Oct 2026 15:27:53 GMT",
-     "summary": "IT之家 10 月 27 日消息，据科技媒体 TechCrunch 今天报道，Meta 人工智能负责人罗希特 · 帕特尔（Rohit Patel）已经离开公司，他曾在 Meta 从事 AI 研发工作八年，并担任 Meta 超级智能实验室负责人。 据报道，帕特尔已创立 Ndoc 公司，他将开发一款原生 AI 办公软件， 旨在取代微软 Office 和谷歌 Workspace 。 这名前 Meta 研究员希望，Ndoc 不能只是叠加在现有工作流的 AI 工具，而是要改变人们使用各种工具的碎片化现状。例如大家经常要来回切换 Excel、Word、PowerPoint 和 Tableau 等软件，还要",
-     "source": "IT之家",
-     "zh": "Meta AI 负责人罗希特 · 帕特尔离职创业，打造微软 Office 替代方案 Ndoc"
-    },
-    {
-     "title": "1099 元雷蛇隐蛛迷你版 65% 磁轴键盘发布，三色键帽混搭设计",
-     "link": "https://www.ithome.com/1/018/695.htm",
-     "pubDate": "Tue, 27 Oct 2026 15:25:47 GMT",
-     "summary": "IT之家 10 月 27 日消息，雷蛇今日宣布推出 Razer Reclusa Mini 65% 雷蛇隐蛛迷你版 65% 电竞磁轴键盘，售价 1099 元。 京东 雷蛇（Razer）隐蛛迷你版 65%【雷蛇磁轴】 有线无线蓝牙三模 RT0.1 热插拔客制化 68 键小键盘 打瓦 CS 1099 元 直达链接 该键盘采用 68 键 65% 紧凑布局，在保留常用按键的同时大幅节省桌面空间，兼顾桌面整洁度与移动使用需求。 核心配置上，该键盘搭载雷蛇霍尔效应磁轴，触发点位精准稳定可控，触发行程支持 0.1-4.0mm 自由自定义，按键敲击寿命约 1 亿次；同时支持快速触发模式，按键抬起仅 0.1mm ",
-     "source": "IT之家",
-     "zh": "1099 元雷蛇隐蛛迷你版 65% 磁轴键盘发布，三色键帽混搭设计"
-    },
-    {
-     "title": "Anthropic&apos;s S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn&apos;t be profitable (Stephanie Palazzolo/The Information)",
-     "link": "https://www.techmeme.com/261027/p22#a261027p22",
-     "pubDate": "Tue, 27 Oct 2026 11:20:00 -0400",
-     "summary": "Stephanie Palazzolo / The Information : Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable &nbsp; &mdash;&nbsp; When Anthropic on Monday dropped its long-awaited initial public offering prosp",
-     "source": "Techmeme",
-     "zh": "Anthropic&apos;s S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn&apos;t be profitable (Stephanie Palazzolo/The Information)"
     }
    ]
   },
@@ -1984,6 +1984,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth",
+     "link": "https://9to5mac.com/2026/10/27/report-iphone-18-pro-sales-down-4-in-the-us-but-china-drives-3-1-global-growth/",
+     "pubDate": "Tue, 27 Oct 2026 19:44:07 +0000",
+     "summary": "Counterpoint Research’s latest report offers a look at global iPhone 18 Pro sales during the first three weeks of availability. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth"
+    },
     {
      "title": "Grand Theft Auto VI reportedly requires a 210GB download",
      "link": "https://www.engadget.com/2298872/gta-6-download-size-reportedly-210-gb/",
@@ -2169,14 +2177,6 @@
      "zh": "Here are the latest Samsung Galaxy phones getting Android 17 updates"
     },
     {
-     "title": "Twelve South launches new Airfly View dongle with built-in screen",
-     "link": "https://9to5mac.com/2026/10/27/twelve-south-launches-new-airfly-view-dongle-with-built-in-screen/",
-     "pubDate": "Tue, 27 Oct 2026 16:34:43 +0000",
-     "summary": "Last month, Twelve South introduced the wildly popular AirFly Drive , its first wireless CarPlay adapter (which is now back in stock after initially selling out). Now, the popular accessory maker is back with Airfly View , which adds a built-in screen to its other popular wireless audio dongle. You ",
-     "source": "9to5Mac",
-     "zh": "Twelve South launches new Airfly View dongle with built-in screen"
-    },
-    {
      "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
      "link": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
      "pubDate": "Tue, 27 Oct 2026 16:21:44 +0000",
@@ -2233,6 +2233,46 @@
    "total": 13,
    "items": [
     {
+     "title": "TappAlpha Cboe Magnificent 10 Growth & Dly Inc ETF declares $0.4402 dividend",
+     "link": "https://seekingalpha.com/news/4658306-tappalpha-cboe-magnificent-10-growth-and-dly-inc-etf-declares-0_4402-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 15:44:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TappAlpha Cboe Magnificent 10 Growth & Dly Inc ETF declares $0.4402 dividend"
+    },
+    {
+     "title": "HF Sinclair started Overweight at Piper as quality refiner with strong return of capital commitment",
+     "link": "https://seekingalpha.com/news/4658290-hf-sinclair-started-overweight-at-piper-as-quality-refiner-with-strong-return-of-capital-commitment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 15:44:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HF Sinclair started Overweight at Piper as quality refiner with strong return of capital commitment"
+    },
+    {
+     "title": "Simplify Intermediate Term Treasury Futures Strategy ETF declares $0.05 dividend",
+     "link": "https://seekingalpha.com/news/4658305-simplify-intermediate-term-treasury-futures-strategy-etf-declares-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 15:43:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Simplify Intermediate Term Treasury Futures Strategy ETF declares $0.05 dividend"
+    },
+    {
+     "title": "Brixmor projects 2026 FFO per share of $2.36 to $2.38 while raising same-property NOI growth to 5.5% to 5.75%",
+     "link": "https://seekingalpha.com/news/4658304-brixmor-projects-2026-ffo-per-share-of-2_36-to-2_38-while-raising-same-property-noi-growth-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 15:41:30 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Brixmor projects 2026 FFO per share of $2.36 to $2.38 while raising same-property NOI growth to 5.5% to 5.75%"
+    },
+    {
+     "title": "Roundhill Weekly T-Bill ETF declares $0.0718 dividend",
+     "link": "https://seekingalpha.com/news/4658303-roundhill-weekly-t-bill-etf-declares-0_0718-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 27 Oct 2026 15:40:53 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Roundhill Weekly T-Bill ETF declares $0.0718 dividend"
+    },
+    {
      "title": "Roundhill Top WeeklyPay ETF declares $0.1556 dividend",
      "link": "https://seekingalpha.com/news/4658301-roundhill-top-weeklypay-etf-declares-0_1556-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 27 Oct 2026 15:40:09 -0400",
@@ -2241,44 +2281,12 @@
      "zh": "Roundhill Top WeeklyPay ETF declares $0.1556 dividend"
     },
     {
-     "title": "American Water Works declares $0.895 dividend",
-     "link": "https://seekingalpha.com/news/4658300-american-water-works-declares-0_895-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 15:34:52 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "American Water Works declares $0.895 dividend"
-    },
-    {
-     "title": "Dominion Energy declares $0.6675 dividend",
-     "link": "https://seekingalpha.com/news/4658299-dominion-energy-declares-0_6675-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 15:34:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dominion Energy declares $0.6675 dividend"
-    },
-    {
-     "title": "REX WMT Growth & Income ETF declares $0.0947 dividend",
-     "link": "https://seekingalpha.com/news/4658298-rex-wmt-growth-and-income-etf-declares-0_0947-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 15:33:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "REX WMT Growth & Income ETF declares $0.0947 dividend"
-    },
-    {
-     "title": "REX TSLA Growth & Income ETF declares $0.1439 dividend",
-     "link": "https://seekingalpha.com/news/4658297-rex-tsla-growth-and-income-etf-declares-0_1439-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 15:32:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "REX TSLA Growth & Income ETF declares $0.1439 dividend"
-    },
-    {
-     "title": "Independent Bank targets 35%-40% deposit beta while anticipating margin expansion into 2027",
-     "link": "https://seekingalpha.com/news/4658296-independent-bank-targets-35-percentminus-40-percent-deposit-beta-while-anticipating-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 27 Oct 2026 15:32:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Independent Bank targets 35%-40% deposit beta while anticipating margin expansion into 2027"
+     "title": "甲骨文表示，计划将多云AI数据库服务扩展至美国政府",
+     "link": "http://finance.eastmoney.com/news/1354,202610283910643373.html",
+     "pubDate": "Wed, 28 Oct 2026 03:33:10 +0800",
+     "summary": "甲骨文 表示，计划将多云AI数据库服务扩展至美国政府。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "甲骨文表示，计划将多云AI数据库服务扩展至美国政府"
     },
     {
      "title": "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
@@ -2383,14 +2391,6 @@
      "summary": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
      "source": "CNBC",
      "zh": "Amazon&apos;s anti-tokenmaxxing memo says engineers should be pickier about using AI"
-    },
-    {
-     "title": "谷歌Genie 4亮相：一句话创造虚拟世界、敲键盘自由探索",
-     "link": "http://finance.eastmoney.com/news/1354,202610283910639274.html",
-     "pubDate": "Wed, 28 Oct 2026 02:53:27 +0800",
-     "summary": "谷歌发布了新版 人工智能 世界模型，能够实时生成更加逼真的虚拟环境，进一步推进这项曾令游戏公司感到不安的技术。 谷歌DeepMind周二在官网发布了Genie 4，可让用户通过文字提示创建可供探索的虚拟世界，并可以使用键盘操控在其中游历。 用户还可以在场景展开过程中输入指令，实时改变天气或添加角色等。谷歌表示，模拟环境最长可运行两分钟，约为上一代Genie 3的两倍。 Genie 4也是该系列首款能够同步生成声音和画面的产品，包括环境声音、音乐，以及能够对用户行为作出反应的对话。 谷歌正以研究预览的形式，向一小批受信任的测试者开放Genie 4。 未来几周，公司计划向付费订阅最高档Google",
-     "source": "东方财富股票",
-     "zh": "谷歌Genie 4亮相：一句话创造虚拟世界、敲键盘自由探索"
     },
     {
      "title": "Putin lectures Nordic leaders on Russian history",
@@ -2543,6 +2543,14 @@
      "summary": "Guidelines for designing coasters don’t reflect the latest science about what types of movement the brain can withstand.",
      "source": "Science News",
      "zh": "Roller coaster safety is a matter of science"
+    },
+    {
+     "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+     "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+     "pubDate": "Tue, 27 Oct 2026 13:32:35 +0000",
+     "summary": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
+     "source": "Ars Technica Science",
+     "zh": "Sculpture re-creates odd optical effects of famed Lycurgus Cup"
     },
     {
      "title": "After the dinosaurs died, the massive ‘D. rex’ fungus ruled the woods",
@@ -2711,14 +2719,6 @@
      "summary": "To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail. The post Malaria Parasite Caught in the Act of Breaking and Entering first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
      "zh": "Malaria Parasite Caught in the Act of Breaking and Entering"
-    },
-    {
-     "title": "Q&A: How AI came to model the “messy” human mind",
-     "link": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-     "pubDate": "Fri, 23 Oct 2026 00:00:00 -0400",
-     "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
-     "source": "MIT News",
-     "zh": "Q&A: How AI came to model the “messy” human mind"
     }
    ]
   }

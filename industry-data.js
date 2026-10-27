@@ -973,7 +973,7 @@ window.INDUSTRY_DATA = {
      "title": "Wind turbine orders hit 2.8 GW in Q2 ahead of tax credit deadline: WoodMac",
      "link": "https://www.utilitydive.com/news/wind-turbine-orders-hit-28-gw-in-q2-ahead-of-tax-credit-deadline-woodmac/872757/",
      "pubDate": "Mon, 26 Oct 2026 11:06:46 -0400",
-     "summary": "Overall, &ldquo;the U.S. wind industry remains on course to add 39 GW of onshore new-build capacity by 2030,&rdquo; the report said. &ldquo;More than half of the project pipeline from 2026 to 2028 is already operating or under construction, limiting near-term risk.&rdquo;",
+     "summary": "Overall, &ldquo;the U.S. wind industry remains on course to add 39 GW of onshore new-build capacity by 2030,&rdquo; the report said.",
      "source": "Utility Dive",
      "zh": "Wind turbine orders hit 2.8 GW in Q2 ahead of tax credit deadline: WoodMac"
     },
@@ -986,10 +986,18 @@ window.INDUSTRY_DATA = {
      "zh": "TNO, Perovion and Toyo Seikan agree development roadmap for perovskite solar cells"
     },
     {
+     "title": "CISA promises proactive critical infrastructure defense in new strategic plan",
+     "link": "https://www.utilitydive.com/news/cisa-strategic-plan-2030-infrastructure-partnerships/872762/",
+     "pubDate": "Mon, 26 Oct 2026 10:33:43 -0400",
+     "summary": "Supply-chain security receives special attention in the plan, with CISA promising to &ldquo;develop data-driven guidance and best practices&rdquo; related to third-party dependencies. AI is mentioned only briefly.",
+     "source": "Utility Dive",
+     "zh": "CISA promises proactive critical infrastructure defense in new strategic plan"
+    },
+    {
      "title": "Clean energy groups, states oppose MISO’s large load-generation study plan",
      "link": "https://www.utilitydive.com/news/miso-large-load-lars-ferc-google-oms/849887/",
      "pubDate": "Mon, 26 Oct 2026 09:58:16 -0400",
-     "summary": "The grid operator&rsquo;s&nbsp;proposed fast-track for colocated load and generation lacks ratepayer protections and favors vertically integrated utilities over independent power producers, critics said. Utilities, including Duke and Entergy subsidiaries, voiced support for it.",
+     "summary": "The grid operator&rsquo;s proposed fast-track study process for large loads with generation lacks ratepayer protections and favors vertically integrated utilities over independent power producers, critics said.",
      "source": "Utility Dive",
      "zh": "Clean energy groups, states oppose MISO’s large load-generation study plan"
     },
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Czech government has proposed changes to its new capacity mechanism, which is open to battery storage, including moving two supplementary auctions from 2026 to 2027, a year later than prospective participants had planned for. The post Czech ministry proposes storage capacity auctions to 2027 app",
      "source": "pv magazine",
      "zh": "Czech ministry proposes storage capacity auctions to 2027"
-    },
-    {
-     "title": "More capability, less equipment: the future of capacitor bank control",
-     "link": "https://www.utilitydive.com/spons/more-capability-less-equipment-the-future-of-capacitor-bank-control/833143/",
-     "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-     "summary": "Utilities can now gain capacity and reliability without adding equipment or substation space.",
-     "source": "Utility Dive",
-     "zh": "More capability, less equipment: the future of capacitor bank control"
     }
    ]
   },

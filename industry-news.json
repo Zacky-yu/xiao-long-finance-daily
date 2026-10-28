@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/28 17:01:47",
+ "generated_at": "2026/10/28 17:09:46",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,22 @@
      "summary": "FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B. The post Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM D",
      "source": "MarkTechPost",
      "zh": "Polymathic AI 和普林斯顿大学研究人员发布了 FlashMap，这是一款流程图起草器，可将 LLM 解码速度加快 6.14 倍"
+    },
+    {
+     "title": "四川最牛便利连锁超市搞机器人售货，黄了",
+     "link": "https://www.qbitai.com/2026/10/505955.html",
+     "pubDate": "Wed, 28 Oct 2026 08:00:43 +0000",
+     "summary": "来到真实的货架前，机器人依然表现得笨拙与无措。",
+     "source": "量子位",
+     "zh": "四川最牛便利连锁超市搞机器人售货，黄了"
+    },
+    {
+     "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一",
+     "link": "https://www.qbitai.com/2026/10/505956.html",
+     "pubDate": "Wed, 28 Oct 2026 08:00:39 +0000",
+     "summary": "Agent开始参与GPU底层算子优化",
+     "source": "量子位",
+     "zh": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一"
     },
     {
      "title": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
@@ -231,22 +247,6 @@
      "summary": "智东西 作者 | 程茜 编辑 | 漠影 如果让你扮演一名刑侦助手，你能从下面数种声源混叠的音频里分析出受害人的所在位置吗？ document.createElement('audio'); https://oss.zhidx.com/0c33ff14052d1fbdf18a5c8d2c597ae0/6ae0ca80/uploads/2026/10/6ae18c1fde699_6ae18c1fd995f_6ae18c1fd992b_%E9%9F%B3%E9%A2%91%E7%89%87%E6%AE%B51.wav 讯飞最新发布的语音基座大模型 SparkAudio 1.0 ，在几秒内就给出了答案",
      "source": "智东西",
      "zh": "数种声源混叠也能精准解析！科大讯飞亮出语音基座大模型SparkAudio 1.0"
-    },
-    {
-     "title": "印奇把4D雷达也端到端了",
-     "link": "https://www.qbitai.com/2026/10/505852.html",
-     "pubDate": "Tue, 27 Oct 2026 10:40:12 +0000",
-     "summary": "毫米波雷达，AI算力10TOPS",
-     "source": "量子位",
-     "zh": "印奇把4D雷达也端到端了"
-    },
-    {
-     "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-     "link": "https://www.qbitai.com/2026/10/505830.html",
-     "pubDate": "Tue, 27 Oct 2026 09:54:51 +0000",
-     "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
-     "source": "量子位",
-     "zh": "乔布斯的皮克斯，狂赞中国物理AI数据终端"
     }
    ]
   },
@@ -256,6 +256,30 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Ex-TSMC CTO says Taiwan's research institutes get too much funding and train too little talent",
+     "link": "https://www.digitimes.com/news/a20261028PD226/taiwan-tsmc-funding-academia-sinica-technology.html",
+     "pubDate": "Wed, 28 Oct 2026 08:51:46 GMT",
+     "summary": "Taiwan directs too much public research and development (R&D) funding to its national research institutes, according to Chenming Hu, a former chief technology officer of Taiwan Semiconductor Manufacturing Company (TSMC). In his new book, Find the Solutions , Hu argues that this funding does not achi",
+     "source": "DIGITIMES",
+     "zh": "台积电前首席技术官称台湾研究机构资金过多培养人才太少"
+    },
+    {
+     "title": "Transformation in focus as display supply chain kicks off investor briefings",
+     "link": "https://www.digitimes.com/news/a20261028PD231/panel-display-supply-chain-auo-revenue.html",
+     "pubDate": "Wed, 28 Oct 2026 08:41:00 GMT",
+     "summary": "The panel display supply chain's transformation marathon continues as companies begin a week of investor briefings centered on new businesses. CoreIntelligence (CiHC), AUO, Radiant, BenQ Materials and E Ink will present in succession, with transformation progress remaining a key market focus.",
+     "source": "DIGITIMES",
+     "zh": "显示器供应链启动投资者简报会，转型成为焦点"
+    },
+    {
+     "title": "Oracle accelerates AI chip diversification with Cerebras, Google, and SambaNova deals",
+     "link": "https://www.digitimes.com/news/a20261028VL226/oracle-cerebras-chips-nvidia-infrastructure.html",
+     "pubDate": "Wed, 28 Oct 2026 08:36:39 GMT",
+     "summary": "Oracle has signed partnerships with Cerebras and other chipmakers to host their chips in its cloud infrastructure. The Cerebras deal gives the chipmaker a new large customer to anchor its post-IPO trajectory, while allowing Oracle to reduce its reliance on Nvidia's expensive chips, even though Oracl",
+     "source": "DIGITIMES",
+     "zh": "Oracle 通过 Cerebras、Google 和 SambaNova 交易加速 AI 芯片多元化"
+    },
     {
      "title": "Intel Wants a Quantum Business, Classiq Could Help Build One",
      "link": "https://www.eetimes.com/intel-wants-a-quantum-business-classiq-could-help-build-one/",
@@ -377,30 +401,6 @@
      "zh": "松下新增 EVP 系列触觉开关"
     },
     {
-     "title": "SK Hynix bets on EUV to extend 6F-squared DRAM as CXMT pushes 4F-squared",
-     "link": "https://www.digitimes.com/news/a20261028VL220/sk-hynix-dram-cxmt-euv-technology.html",
-     "pubDate": "Wed, 28 Oct 2026 04:22:29 GMT",
-     "summary": "SK Hynix plans to extend the life of its existing 6F-squared DRAM cell architecture through extreme ultraviolet (EUV) lithography and process improvements, keeping 4F-squared and three-dimensional (3D) DRAM on its technology roadmap as China's ChangXin Memory Technologies (CXMT) prepares to unveil a",
-     "source": "DIGITIMES",
-     "zh": "长鑫存储推4F平方 SK海力士押注EUV扩展6F平方DRAM"
-    },
-    {
-     "title": "Cloud AI costs drive demand for on-premises computing, squeezing Asus RTX Spark supply",
-     "link": "https://www.digitimes.com/news/a20261028PD203/asus-demand-rtx-intel-commercial.html",
-     "pubDate": "Wed, 28 Oct 2026 03:59:53 GMT",
-     "summary": "Asus and Intel on October 27 unveiled the new commercial laptop Asus ExpertBook A7 in Taiwan, as on-premises AI computing devices gain attention from enterprises and creators alongside traditional business PCs. Asus said products related to Nvidia RTX Spark, particularly models with 64GB and 128GB o",
-     "source": "DIGITIMES",
-     "zh": "云人工智能成本推动本地计算需求，挤压华硕 RTX Spark 供应"
-    },
-    {
-     "title": "AI startups face scrutiny over revenue metrics used to promote rapid growth",
-     "link": "https://www.digitimes.com/news/a20261028PD215/revenue-growth-business-ceo-sales.html",
-     "pubDate": "Wed, 28 Oct 2026 03:50:00 GMT",
-     "summary": "AI startups' revenue figures are under scrutiny as founders and investors question whether companies clearly distinguish active business from contracts that have not yet generated sales. The debate concerns how growth is presented to backers, employees and customers, and whether apparently comparabl",
-     "source": "DIGITIMES",
-     "zh": "人工智能初创公司面临用于促进快速增长的收入指标的审查"
-    },
-    {
      "title": "Top Ten Q2 EV Vendors",
      "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-q2-ev-vendors-2-2026-10/",
      "pubDate": "Wed, 28 Oct 2026 01:01:49 +0000",
@@ -504,6 +504,14 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Competing in RoboCup@Home and winning the 2026 best paper award: an interview with Raphael Memmesheimer",
+     "link": "https://robohub.org/competing-in-robocuphome-and-winning-the-2026-best-paper-award-an-interview-with-raphael-memmesheimer/",
+     "pubDate": "Wed, 28 Oct 2026 09:07:21 +0000",
+     "summary": "Team NimbRo’s robot in action during the RoboCup@Home competition at RoboCup 2026. Raphael leads the team. Raphael Memmesheimer has been successfully competing in the RoboCup@Home league winning the RoboCup@Home competition five times. He and his colleagues won the best paper award at RoboCup 2026 f",
+     "source": "Robohub",
+     "zh": "参加 RoboCup@Home 并获得 2026 年最佳论文奖：Raphael Memmesheimer 专访"
+    },
     {
      "title": "The Three Foundational Material Categories Shaping Robot Manufacturing",
      "link": "https://roboticsandautomationnews.com/2026/10/28/the-three-foundational-material-categories-shaping-robot-manufacturing/106388/",
@@ -1337,20 +1345,20 @@
      "zh": "天文学家发现“珍珠链”超新星遗迹及其核心僵尸星的秘密"
     },
     {
-     "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
-     "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
-     "summary": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
-     "source": "Space.com",
-     "zh": "Cowboy Space推出“Big Iron”火箭发射20,000个人工智能数据中心"
-    },
-    {
      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
      "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
      "summary": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
      "source": "Space.com",
      "zh": "2026 年 11 月满月：何时、何地以及如何观看海狸月"
+    },
+    {
+     "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+     "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
+     "summary": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
+     "source": "Space.com",
+     "zh": "Cowboy Space推出“Big Iron”火箭发射20,000个人工智能数据中心"
     },
     {
      "title": "NASA’s Neo Surveyor Sunshade",
@@ -1737,12 +1745,60 @@
    "total": 18,
    "items": [
     {
+     "title": "Claude封号简史",
+     "link": "https://www.huxiu.com/article/4901115.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 17:08:11 +0800",
+     "summary": "本文来自微信公众号： 字母榜 ，作者：袁心玥 Anthropic公开的IPO招股书里，披露了一笔特别的收入。 2026年前九个月，约5%至7%的营收来自后来被认定违反使用政策或商业条款的客户。 Anthropic前三季度营收约330亿美元。照此计算，这些客户贡献的收入高达约16.5亿至23.1亿美元。 这些“封号”收入，中国网友显然贡献了相当大的一部分。 就在不久前，又有一位网友的Claude账号被封了，而且封得有些莫名其妙。 这位网友的账号已经用了一年多，因为知道中国大陆不在Claude的服务范围内，他一直有所准备。最开始，他甚至只敢用英文和Claude聊天，后来用得久了，胆子也渐渐大起来，",
+     "source": "虎嗅",
+     "zh": "Claude封号简史"
+    },
+    {
+     "title": "GPD 预告 WIN Mini Ultra 掌机，搭载英特尔 Arc G3 Extreme",
+     "link": "https://www.ithome.com/1/019/008.htm",
+     "pubDate": "Wed, 28 Oct 2026 09:07:51 GMT",
+     "summary": "IT之家 10 月 28 日消息，GPD 今日在微博确认，GPD WIN Mini Ultra 掌机即将登场。 新机采用英特尔 Arc G3 Extreme 移动平台 ，具体上市时间暂未公布。 结合此前传闻，该机预计将配备 2GB LPDDR5X 内存，并提供 M.2 2280 固态硬盘插槽。屏幕方面，该机或采用 8 英寸 IPS 面板，分辨率为 1920*1200，支持 120Hz 高刷以及 Adaptive Sync 自适应同步技术。 此外，该掌机预计还将提供两个 USB4 v2 接口，TDP 有可能达到 45W，内置 56Wh 电池，支持 100W PD 快充。 不过截至目前，GPD 暂",
+     "source": "IT之家",
+     "zh": "GPD 预告 WIN Mini Ultra 掌机，搭载英特尔 Arc G3 Extreme"
+    },
+    {
+     "title": "抖音整治 AI 恶意营销号，近一月处置违规账号 50.7 万个",
+     "link": "https://www.ithome.com/1/019/001.htm",
+     "pubDate": "Wed, 28 Oct 2026 09:06:23 GMT",
+     "summary": "IT之家 10 月 28 日消息，据抖音黑板报，AI 工具的普及，使内容创作门槛进一步降低，为广大创作者提供了更多便捷的创作方式与表达可能。然而， 部分以流量变现为唯一目的的“恶意营销号” ，并未将 AI 工具用于正当创作，反而将其当作起号捷径，通过批量生成、复制爆款模板快速变现，持续侵蚀平台生态根基，严重挤压优质创作者生存空间，破坏公平竞争的创作环境。 近期，该平台监测发现，部分恶意营销号通过 AI 工具 快速扩大恶意营销内容 的规模，不仅在内容形式与传播手法上带来新挑战，部分账号背后还存在教学黑产组织运营，违规手段迭代快、隐蔽性强。目前来看，AI 恶意营销号主要存在三类问题：内容层面表现为",
+     "source": "IT之家",
+     "zh": "抖音整治 AI 恶意营销号，近一月处置违规账号 50.7 万个"
+    },
+    {
+     "title": "一个84岁的英国老教授，被中国年轻人追着提问",
+     "link": "https://www.huxiu.com/article/4901118.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 17:04:35 +0800",
+     "summary": "本文来自微信公众号： 猛犸工作室 ，编辑：潘展虹，作者：傅一波 84岁的艾伦·麦克法兰，没想到自己会在中国被年轻人追捧。 10月21日，当他在上海结束活动后走出会场，人们朝他涌来，只为了跟他打招呼：“Hi，Professor Alan。”围观的人太多，工作人员得护在他身旁，为他隔出一条通道。 “（这场景）简直像披头士乐队一样。” 事后，他在接受时代周报记者专访时提到这一幕，不由得感叹道。这位研究人类学的剑桥大学教授，从未想过自己会以这样的方式受到大家欢迎。 2025年5月7日，麦克法兰发布了第一条视频，内容是介绍他的新书《宇宙观与现代世界》中译本，当时并没有收到太多关注。有人在评论区留言，“剑",
+     "source": "虎嗅",
+     "zh": "一个84岁的英国老教授，被中国年轻人追着提问"
+    },
+    {
+     "title": "首发赠 1 年碎屏保：小米 REDMI K100 手机 3299 → 2519 元，骁龙 8 至尊版 + 10000mAh 大电池",
+     "link": "https://www.ithome.com/1/018/991.htm",
+     "pubDate": "Wed, 28 Oct 2026 09:03:14 GMT",
+     "summary": "小米 REDMI K100 手机昨日发布，官方价格如下： 12GB+256GB 版建议零售价 3499 元，双 11 限时特惠 2999 元，国补价 2549 元。 12GB+512GB 版建议零售价 4099 元，双 11 限时特惠 3499 元，国补价 2999 元。 16GB+512GB 版建议零售价 4499 元，双 11 限时特惠 3899 元，国补价 3399 元。 另外首发期内赠一年碎屏保 +365 天只换不修，直播间下单加赠小背包。 晒单返 30 元京豆，折合仅需 2519 元首发好价： 京东 小米 REDMI K100 高通骁龙 8 至尊版旗舰芯 国补后 2549 元起 领 ",
+     "source": "IT之家",
+     "zh": "首发赠 1 年碎屏保：小米 REDMI K100 手机 3299 → 2519 元，骁龙 8 至尊版 + 10000mAh 大电池"
+    },
+    {
      "title": "ASIC 设计企业智原收获 AI 芯片开案：三星 2nm，3D 堆叠 DRAM",
      "link": "https://www.ithome.com/1/018/985.htm",
      "pubDate": "Wed, 28 Oct 2026 09:01:15 GMT",
      "summary": "IT之家 10 月 28 日消息，芯片 IP 与设计服务企业智原科技 (Faraday Technology) 昨日在企业 2026Q3 财报中宣布获得美国客户重要开案， 设计制程、设计复杂度、NRE 金额、先进封装均创下公司记录 。 IT之家获悉，这是一款面向云端的 AI 芯片，同时支持 FP64 计算（应兼顾 HPC 任务）。其基于三星晶圆代工 2nm 先进制程， 将逻辑 SoC 与定制 DRAM 垂直堆叠 ，应用混合键合技术，支持 PCIe Gen6。智原提到，客户原计划使用 4nm 工艺，但在性能和功耗的考虑下选择了该方案。 智原科技 2026Q3 合并营收 36.6 亿新台币 （IT",
      "source": "IT之家",
      "zh": "ASIC 设计企业智原收获 AI 芯片开案：三星 2nm，3D 堆叠 DRAM"
+    },
+    {
+     "title": "换开关2800元，通马桶4700元，补漏水14000元，上门维修，为啥这么多坑？",
+     "link": "https://www.huxiu.com/article/4899940.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 17:00:01 +0800",
+     "summary": "家庭维修市场年交易额超7000亿，市场越做越大，投诉也越来越多，乱收费、小病大修、材料翻百倍，社交平台天天吐槽。",
+     "source": "虎嗅",
+     "zh": "换开关2800元，通马桶4700元，补漏水14000元，上门维修，为啥这么多坑？"
     },
     {
      "title": "豆包公关负责人刘星回应“横店与字节合作将 15 万群演肖像声音喂给大模型”：传言严重失实",
@@ -1777,30 +1833,6 @@
      "zh": "恒辉安防8亿再押UHMWPE，未来价格战成隐患"
     },
     {
-     "title": "何刚官宣华为 Mate 90 系列手机“双十一”三大焕新权益，全系可享至高 24 期分期免息等",
-     "link": "https://www.ithome.com/1/018/979.htm",
-     "pubDate": "Wed, 28 Oct 2026 08:51:10 GMT",
-     "summary": "IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚登台主讲，公布了 Mate 90 系列手机“双十一”三大焕新权益： 分期免息： 至高 24 期，250 元 / 月起； 以旧换新： 至高 800 元补贴； 华为云空间： 华为云空间 200GB 一年期免费。 IT之家附华为 Mate 90 系列手机各版本售价如下： 京东 HUAWEI Mate 90 国补价 5499 元 直达链接 京东 HUAWEI Mate 90 Pro 6999 元起 直达链接 京东 HUAWEI Mate 90 Pro Max 9499 元起 直达链接 ",
-     "source": "IT之家",
-     "zh": "何刚官宣华为 Mate 90 系列手机“双十一”三大焕新权益，全系可享至高 24 期分期免息等"
-    },
-    {
-     "title": "Targus 推出 DOCK402 扩展坞，内置 140W 氮化镓充电器",
-     "link": "https://www.ithome.com/1/018/978.htm",
-     "pubDate": "Wed, 28 Oct 2026 08:44:52 GMT",
-     "summary": "IT之家 10 月 28 日消息，Targus（泰格斯）美国当地时间昨日宣布推出 DOCK402 移动扩展坞。其支持 USB-C 单线全功能上行连接， 内置的氮化镓 (GaN) 充电器可为设备提供 140W 供电 。 DOCK402 长宽均为 3.13 英寸，高度则是 2 英寸；下行 I/O 提供 2 个 USB-A 10Gbps、1 个 USB-C 10Gbps、1 个 1GbE RJ-45、1 个 HDMI；兼容 Windows、macOS、iPadOS、Android、Chrome OS、Linux。 IT之家了解到，Targus DOCK402 扩展坞 定价 139.99 美元 （IT",
-     "source": "IT之家",
-     "zh": "Targus 推出 DOCK402 扩展坞，内置 140W 氮化镓充电器"
-    },
-    {
-     "title": "马来西亚查获价值 4950 万林吉特走私 AI 芯片，30 台服务器被扣",
-     "link": "https://www.ithome.com/1/018/975.htm",
-     "pubDate": "Wed, 28 Oct 2026 08:43:51 GMT",
-     "summary": "IT之家 10 月 28 日消息，马来西亚海关本月在吉隆坡国际机场查获价值约 4,950 万林吉特 （IT之家注：现汇率约合 8,117.5 万元人民币） 的先进 AI 芯片，并正在追查一个涉嫌通过该国主要机场走私高性能半导体的犯罪团伙。 吉隆坡国际机场海关关长阿斯帕丽拉 · 阿格 · 图阿（Aspalila Ag Tuah）透露，10 月 15 日，执法人员在机场自由贸易区检查货物时，发现了 30 台装有先进 AI 芯片的服务器。 初步调查显示，这批服务器来自亚洲某个国家，计划转运至亚洲另一个国家。由于相关转口操作需要取得贸易许可证，执法部门怀疑涉案人员试图通过马来西亚中转，规避出口管制。 ",
-     "source": "IT之家",
-     "zh": "马来西亚查获价值 4950 万林吉特走私 AI 芯片，30 台服务器被扣"
-    },
-    {
      "title": "狂吹飞车却无视星链限速，马斯克的科技帝国有多割裂？",
      "link": "https://www.huxiu.com/article/4900860.html?f=rss",
      "pubDate": "Wed, 28 Oct 2026 16:30:59 +0800",
@@ -1833,36 +1865,12 @@
      "zh": "三千亿美元谁来出？没钱谈个毛线的停战"
     },
     {
-     "title": "4.02亿收益难抵4.09亿渠道费，客商银行入局车抵赛道",
-     "link": "https://www.huxiu.com/article/4901101.html?f=rss",
-     "pubDate": "Wed, 28 Oct 2026 16:14:03 +0800",
-     "summary": "本文来自微信公众号： 消金界 ，作者：夏天 近日，安融信用评级发布公告（安融主跟踪评字〔2026〕0171号），将梅州客商银行主体长期信用等级由AA上调至AA+，评级展望维持稳定。在19家民营银行梯队中，目前仅微众、网商两家拿到AAA评级，AA+梯队共10家。 评级提升之下，该行盈利质量却陷入“增收不增利”的困境。塔牌集团（002233.SZ）披露的2026年半年报显示，其联营企业梅州客商银行上半年实现营业收入7.01亿元，同比增长11.27%；但净利润仅为1.28亿元，同比下降34.36%，营收与盈利增速脱节。 利润表的失衡，是该行业务结构最直观的写照：一边依靠金融市场业务撑起营收，一边被助",
-     "source": "虎嗅",
-     "zh": "4.02亿收益难抵4.09亿渠道费，客商银行入局车抵赛道"
-    },
-    {
      "title": "Bankruptcies Join the Fundraising Boom in China’s Robotics Market",
      "link": "https://www.tmtpost.com/8184697.html",
      "pubDate": "Wed, 28 Oct 2026 16:12:04 +0800",
      "summary": "Robotics fundraising in 2026 has already doubled last year’s full total, and a club of hundred-billion-yuan valuations keeps expanding. Courts and unpaid staff tell another story. Capital is still chasing the category; it is starting to ask harder questions about delivery.",
      "source": "钛媒体",
      "zh": "破产潮加入中国机器人市场融资热潮"
-    },
-    {
-     "title": "每天通电1小时，血糖稳了，体重还轻了10%",
-     "link": "https://www.huxiu.com/article/4901104.html?f=rss",
-     "pubDate": "Wed, 28 Oct 2026 16:11:55 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：见文末，编辑：odette 不用吃药，不用打胰岛素，在皮下植入一个装置就能直接分解多余的血糖；血糖高了自动开机，正常了自动停机。听起来是不是很奇幻？ 苏黎世联邦理工学院的研究团队把这件事在小鼠身上做成了，论文于10月22日发表在《科学》（Science）上。这套系统被命名为“电催化闭环健康优化系统”（ECHO）。 ECHO丨参考文献 系统核心，其实是一套电催化装置 ECHO系统的核心，是一套电催化装置。研究团队以多孔导电的石墨毡做骨架，将金（Au）纳米簇置于其中，再用纳米级铂（Pt）装饰，制成GF_Au@Pt复合电催化剂。两者分工明确，其中金能导电、提供支撑",
-     "source": "虎嗅",
-     "zh": "每天通电1小时，血糖稳了，体重还轻了10%"
-    },
-    {
-     "title": "49岁，中国教授首富诞生",
-     "link": "https://www.huxiu.com/article/4901103.html?f=rss",
-     "pubDate": "Wed, 28 Oct 2026 16:07:47 +0800",
-     "summary": "本文来自微信公众号： 投资界 ，作者：周佳丽 潮水方向。 报道/投资界PEdaily 一个意外名字浮现。 最新胡润百富榜上，49岁的清华大学教授唐杰，以约275亿元身家进入新人财富榜前十，成为少见的教授首富。 在天才叙事遍地的AI圈，唐杰的故事颇为特别：本科燕山大学，博士才入清华，却带出了一批在技术圈执牛耳的得意门生，并一手孵化了智谱，今年市值一度破万亿。 与他一同首次上榜的，还有DeepSeek梁文锋、宇树科技王兴兴、沐曦股份陈维良、MiniMax闫俊杰——清一色的技术创业者。属于技术人才的造富时代，正以前所未有的速度扑面而来。 始于四川，求学生涯逆袭 身家275亿 唐杰，1977年生人，成",
-     "source": "虎嗅",
-     "zh": "49岁，中国教授首富诞生"
     },
     {
      "title": "Swift 天文台预计于 11 月 2 日重返大气层",
@@ -1985,6 +1993,14 @@
    "total": 7,
    "items": [
     {
+     "title": "The ANBERNIC Nintendo clone I would recommend you buy isn’t the one I use the most",
+     "link": "https://www.androidauthority.com/anbernic-rg-55g1-ds-plus-review-3714059/",
+     "pubDate": "Wed, 28 Oct 2026 09:00:53 +0000",
+     "summary": "The RG 55G1 is a great cheap Android handheld for most people, but I'm playing the Nintendo DS Lite clone most of the time.",
+     "source": "Android Authority",
+     "zh": "我建议你购买的 ANBERNIC 任天堂克隆版并不是我最常使用的一款"
+    },
+    {
      "title": "Google’s Genie 4 lets you build worlds that sound and move like real life",
      "link": "https://www.androidauthority.com/google-genie-4-ai-world-model-launched-3728951/",
      "pubDate": "Wed, 28 Oct 2026 08:42:35 +0000",
@@ -2055,14 +2071,6 @@
      "summary": "只扔不买是没有用的，穿衣服时不多费心神才是目的。 查看全文",
      "source": "少数派",
      "zh": "断舍离只是起点：打造能长期经营的实用主义衣柜"
-    },
-    {
-     "title": "This Android brand put a 10,000mAh battery in its latest phone, and Samsung needs to up its game",
-     "link": "https://www.androidauthority.com/redmi-k100-launch-3728861/",
-     "pubDate": "Wed, 28 Oct 2026 06:44:00 +0000",
-     "summary": "Flagship phones from Samsung and Google really ought to have batteries larger than just 5,000mAh.",
-     "source": "Android Authority",
-     "zh": "这个 Android 品牌在其最新手机中配备了 10,000mAh 电池，三星需要加大力度"
     },
     {
      "title": "Samsung Galaxy A08 launched in India with a 6,000mAh battery",
@@ -2233,60 +2241,92 @@
    "total": 13,
    "items": [
     {
-     "title": "图解财报：容知日新前三季归母净利润-5714.13万元，上年同期2689.52万元",
-     "link": "http://stock.eastmoney.com/news/11802,202610283912007948.html",
-     "pubDate": "Wed, 28 Oct 2026 16:57:10 +0800",
-     "summary": "容知日新 10月29日发布2026年 三季报显示，公司前三季 实现营业总收入3.48亿元 ，同比下滑10.70% ；归母净利润-5714.13万元 ；扣非归母净利润-6136.70万元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：容知日新前三季归母净利润-5714.13万元，上年同期2689.52万元"
-    },
-    {
-     "title": "图解财报：海螺水泥前三季归母净利润27.43亿元，同比减少56.89%",
-     "link": "http://stock.eastmoney.com/news/11802,202610283912007867.html",
-     "pubDate": "Wed, 28 Oct 2026 16:57:10 +0800",
-     "summary": "海螺水泥 10月29日发布2026年 三季报显示，公司前三季 实现营业总收入562.22亿元 ，同比下滑8.58% ；归母净利润27.43亿元 ，同比下滑56.89% ；扣非归母净利润20.09亿元 ，同比下滑66.50% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：海螺水泥前三季归母净利润27.43亿元，同比减少56.89%"
-    },
-    {
-     "title": "图解财报：鸿智科技前三季归母净利润604.65万元，同比减少70.97%",
-     "link": "http://stock.eastmoney.com/news/11802,202610283912007634.html",
-     "pubDate": "Wed, 28 Oct 2026 16:57:10 +0800",
-     "summary": "鸿智科技 10月28日发布2026年 三季报显示，公司前三季 实现营业总收入3.70亿元 ，同比增长11.29% ；归母净利润604.65万元 ，同比下滑70.97% ；扣非归母净利润566.92万元 ，同比下滑72.21% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：鸿智科技前三季归母净利润604.65万元，同比减少70.97%"
-    },
-    {
-     "title": "巴比食品：截至9月30日最新股东户数1.35万户，较上期减少3.84%",
-     "link": "http://stock.eastmoney.com/news/11111,202610283912007216.html",
-     "pubDate": "Wed, 28 Oct 2026 16:56:58 +0800",
-     "summary": "巴比食品 最新披露数据显示，截至9月30日公司股东户数为1.35万户，较上期(2026年9月10日) 减少538户，降幅为3.84% 。户均持有流通股数量 由上期的1.71万股上升至1.78万股， 户均持股金额 由上期的31.47万元增加至31.98万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "巴比食品：截至9月30日最新股东户数1.35万户，较上期减少3.84%"
-    },
-    {
-     "title": "博晖创新：截至9月30日最新股东户数3.03万户，较上期增加3.70%",
-     "link": "http://stock.eastmoney.com/news/11111,202610283912007068.html",
-     "pubDate": "Wed, 28 Oct 2026 16:56:58 +0800",
-     "summary": "博晖创新 最新披露数据显示，截至9月30日公司股东户数为3.03万户，较上期(2026年6月30日) 增加1084户，增幅为3.70% 。户均持有流通股数量 由上期的2.73万股下降至2.63万股， 户均持股金额 由上期的11.41万元增加至13.76万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
-     "source": "东方财富股票",
-     "zh": "博晖创新：截至9月30日最新股东户数3.03万户，较上期增加3.70%"
-    },
-    {
-     "title": "翰博高新：截至9月30日最新股东户数1.03万户，较上期减少13.74%",
-     "link": "http://stock.eastmoney.com/news/11111,202610283912005950.html",
-     "pubDate": "Wed, 28 Oct 2026 16:56:18 +0800",
-     "summary": "翰博高新 最新披露数据显示，截至9月30日公司股东户数为1.03万户，较上期(2026年6月30日) 减少1633户，降幅为13.74% 。户均持有流通股数量 由上期的1.24万股上升至1.44万股， 户均持股金额 由上期的54.84万元增加至64.73万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "翰博高新：截至9月30日最新股东户数1.03万户，较上期减少13.74%"
+     "title": "Group 1 Automotive misses Q3 estimates",
+     "link": "https://seekingalpha.com/news/4658660-group-1-automotive-misses-q3-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 05:07:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "第一组汽车行业未达到第三季度预期"
     },
     {
      "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-     "pubDate": "Wed, 28 Oct 2026 08:51:00 GMT",
+     "pubDate": "Wed, 28 Oct 2026 09:05:22 GMT",
      "summary": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
      "source": "CNBC",
      "zh": "以色列债券、谢克尔下跌，因选举使内塔尼亚胡和其他人远未获得多数席位"
+    },
+    {
+     "title": "路畅科技：截至10月20日最新股东户数1.55万户，较上期增加0.37%",
+     "link": "http://stock.eastmoney.com/news/11111,202610283912024849.html",
+     "pubDate": "Wed, 28 Oct 2026 17:03:13 +0800",
+     "summary": "路畅科技 最新披露数据显示，截至10月20日公司股东户数为1.55万户，较上期(2026年9月30日) 增加57户，增幅为0.37% 。户均持有流通股数量 由上期的7751股下降至7723股， 户均持股金额 由上期的20.45万元减少至19.62万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "路畅科技：截至10月20日最新股东户数1.55万户，较上期增加0.37%"
+    },
+    {
+     "title": "图解财报：杭电股份前三季归母净利润6.74亿元，同比增长407.36%",
+     "link": "http://stock.eastmoney.com/news/11802,202610283912024650.html",
+     "pubDate": "Wed, 28 Oct 2026 17:03:13 +0800",
+     "summary": "杭电股份 10月29日发布2026年 三季报显示，公司前三季 实现营业总收入84.22亿元 ，同比增长22.29% ；归母净利润6.74亿元 ，同比增长407.36% ；扣非归母净利润6.67亿元 ，同比增长394.37% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：杭电股份前三季归母净利润6.74亿元，同比增长407.36%"
+    },
+    {
+     "title": "同和药业：截至9月30日最新股东户数1.51万户，较上期增加15.20%",
+     "link": "http://stock.eastmoney.com/news/11111,202610283912023832.html",
+     "pubDate": "Wed, 28 Oct 2026 17:03:01 +0800",
+     "summary": "同和药业 最新披露数据显示，截至9月30日公司股东户数为1.51万户，较上期(2026年6月30日) 增加1989户，增幅为15.20% 。户均持有流通股数量 由上期的2.81万股下降至2.44万股， 户均持股金额 由上期的17.88万元减少至17.28万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
+     "source": "东方财富股票",
+     "zh": "同和药业：截至9月30日最新股东户数1.51万户，较上期增加15.20%"
+    },
+    {
+     "title": "惠达卫浴：截至9月30日最新股东户数1.42万户，较上期增加6.57%",
+     "link": "http://stock.eastmoney.com/news/11111,202610283912023641.html",
+     "pubDate": "Wed, 28 Oct 2026 17:03:01 +0800",
+     "summary": "惠达卫浴 最新披露数据显示，截至9月30日公司股东户数为1.42万户，较上期(2026年6月30日) 增加876户，增幅为6.57% 。户均持有流通股数量 由上期的2.85万股下降至2.68万股， 户均持股金额 由上期的13.93万元增加至15.35万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "惠达卫浴：截至9月30日最新股东户数1.42万户，较上期增加6.57%"
+    },
+    {
+     "title": "图解财报：博士眼镜前三季归母净利润1.31亿元，同比增长49.23%",
+     "link": "http://stock.eastmoney.com/news/11802,202610283912023584.html",
+     "pubDate": "Wed, 28 Oct 2026 17:03:01 +0800",
+     "summary": "博士眼镜 10月29日发布2026年 三季报显示，公司前三季 实现营业总收入11.70亿元 ，同比增长8.30% ；归母净利润1.31亿元 ，同比增长49.23% ；扣非归母净利润1.03亿元 ，同比增长30.19% 。 博士眼镜 三季度 分红方案为 对全体股东 10 派0.8元 ， 上年同期为 对全体股东 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
+     "source": "东方财富股票",
+     "zh": "图解财报：博士眼镜前三季归母净利润1.31亿元，同比增长49.23%"
+    },
+    {
+     "title": "图解财报：六国化工前三季归母净利润-2.72亿元，上年同期-2.07亿元",
+     "link": "http://stock.eastmoney.com/news/11802,202610283912023461.html",
+     "pubDate": "Wed, 28 Oct 2026 17:03:01 +0800",
+     "summary": "六国化工 10月29日发布2026年 三季报显示，公司前三季 实现营业总收入43.48亿元 ，同比下滑13.13% ；归母净利润-2.72亿元 ；扣非归母净利润-2.76亿元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：六国化工前三季归母净利润-2.72亿元，上年同期-2.07亿元"
+    },
+    {
+     "title": "TV’s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million",
+     "link": "https://www.marketwatch.com/story/tvs-nick-and-vanessa-lachey-cut-price-of-southern-california-home-to-7-6-million-24dc3d7a?mod=mw_rss_topstories",
+     "pubDate": "Wed, 28 Oct 2026 09:01:00 GMT",
+     "summary": "TV stars Nick and Vanessa Lachey have trimmed $500,000 off the asking price of their longtime “dream home,” as they prepare to bid farewell to California.",
+     "source": "MarketWatch",
+     "zh": "电视节目尼克和凡妮莎·拉奇 (Nick and Vanessa Lachey) 将南加州房屋价格降至 760 万美元"
+    },
+    {
+     "title": "天孚通信：第三季度净利润同比增长55% 环比增长23%",
+     "link": "http://finance.eastmoney.com/news/1345,202610283912012611.html",
+     "pubDate": "Wed, 28 Oct 2026 16:59:08 +0800",
+     "summary": "天孚通信 (300394.SZ)公告称，第三季度营收为19.23亿元，同比增长31.50%；净利润为8.79亿元，同比增长55.30%。前三季度营收为47.51亿元，同比增长21.25%；净利润为20.83亿元，同比增长42.18%。营收增长主要得益于全球 人工智能 行业加速发展与全球 数据中心 建设，带动了高速光器件产品需求的持续稳定增长。注：公司Q3净利润8.79亿，Q2净利润7.12亿，据此计算，Q3净利润环比增长23%。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "天孚通信：第三季度净利润同比增长55% 环比增长23%"
+    },
+    {
+     "title": "Israeli markets respond as post-election coalition path remains unclear",
+     "link": "https://seekingalpha.com/news/4658648-israeli-markets-respond-as-post-election-coalition-path-remains-unclear?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 04:58:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "以色列市场做出反应，选举后联盟路径仍不明朗"
     },
     {
      "title": "需求暴涨8倍！AI服务器MLCC供不应求 三星电机：涨价持续 扩产赶不上订单",
@@ -2393,14 +2433,6 @@
      "zh": "葛兰素史克 (GSK) 宣布派发 0.4524 美元/ADS 或 17 便士/股股息"
     },
     {
-     "title": "U.S.-aligned countries slash Treasury purchases, led by Asia - report",
-     "link": "https://seekingalpha.com/news/4658638-us-aligned-countries-slash-treasury-purchases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 04:25:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "报告称，与美国结盟的国家削减了美国国债购买量，其中亚洲为首"
-    },
-    {
      "title": "摩根大通私行：加息周期不结束金价难触底，4000美元下方几乎没有支撑",
      "link": "https://wallstreetcn.com/articles/3784657",
      "pubDate": "Wed, 28 Oct 2026 16:24:39 +0800",
@@ -2415,14 +2447,6 @@
      "summary": "据济南海关统计，自2021年至2025年，五年来黄河流域进出口29.95万亿元，今年前三季度，黄河流域进出口突破5万亿元，达5.58万亿元，同比增长17.5%。",
      "source": "经济观察网",
      "zh": "五年累计近30万亿元 黄河流域外贸规模稳步攀升"
-    },
-    {
-     "title": "AI debt boom raises financial stability concerns, BIS says",
-     "link": "https://seekingalpha.com/news/4658657-ai-debt-boom-raises-financial-stability-concerns-bis-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 04:18:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "国际清算银行表示，人工智能债务繁荣引发了金融稳定性担忧"
     },
     {
      "title": "A股全线大反弹 宇树科技10月累计涨幅超过54%！能抄底了吗？",
@@ -2455,22 +2479,6 @@
      "summary": "宇树科技将于今日披露上市以来首份财务报告，这份报告不仅是对这家具身AI领军企业自身商业模式的一次检验，更被市场视为衡量中国机器人板块整体估值逻辑能否成立的关键试金石。 在业绩发布前夕，中国机器人概念股延续多月强势行情。28日，物理AI产业链延续强势行情，宇树科技股价自10月中旬以来7个交易日反弹超过65%。中证机器人指数上涨4.09%，该指数成分股中，博杰股份涨停，伟创电气上涨超19%，瑞松科技上涨近10%，双环传动与华中数控上涨超9%。 摩根大通近日将宇树科技评级由\"低配\"直接跳升两级至\"增持\" ，目标价从300元大幅上调至995元，较10月23日收盘价624元隐含约59%的上行空间，为板块",
      "source": "华尔街见闻",
      "zh": "宇树科技今日将交出上市后首份财报：机器人板块狂飙之际，业绩成色几何？"
-    },
-    {
-     "title": "10月28日港股收盘：恒指涨0.23% 恒生科技指数涨1.4%",
-     "link": "http://stock.eastmoney.com/news/11770,202610283911893242.html",
-     "pubDate": "Wed, 28 Oct 2026 16:11:24 +0800",
-     "summary": "港股10月28日收盘走高，恒生指数收报23094.83点，涨53.51点，涨幅0.23%；恒生科技指数收报3853.72点，涨53.29点，涨幅1.4%。恒生指数成分股中 华虹宏力 、 联想集团 、 中芯国际 涨幅居前， 新东方 -S、 中电控股 、 友邦保险 跌幅靠前。恒生科技指数成分股中 华虹宏力 、 联想集团 、 中芯国际 涨幅居前， 京东 健康、 网易 、 携程 集团-S跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公",
-     "source": "东方财富资讯",
-     "zh": "10月28日港股收盘：恒指涨0.23% 恒生科技指数涨1.4%"
-    },
-    {
-     "title": "Netanyahu ahead but no clear winner in Israeli election",
-     "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-     "pubDate": "Wed, 28 Oct 2026 08:07:17 GMT",
-     "summary": "Prime minister urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority",
-     "source": "Financial Times",
-     "zh": "内塔尼亚胡领先，但以色列选举没有明显赢家"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/28 13:11:59",
+ "generated_at": "2026/10/28 13:31:36",
  "recent_days": 7,
  "industries": [
   {
@@ -169,14 +169,6 @@
      "zh": "Retell uses OpenAI models to help power 100M monthly calls"
     },
     {
-     "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-     "link": "https://www.qbitai.com/2026/10/505865.html",
-     "pubDate": "Tue, 27 Oct 2026 12:57:51 +0000",
-     "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
-     "source": "量子位",
-     "zh": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法"
-    },
-    {
      "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
      "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
      "pubDate": "Tue, 27 Oct 2026 12:57:46 +0000",
@@ -201,22 +193,6 @@
      "zh": "Industrial Intelligence: The next growth opportunity for manufacturing"
     },
     {
-     "title": "印奇把4D雷达也端到端了",
-     "link": "https://www.qbitai.com/2026/10/505852.html",
-     "pubDate": "Tue, 27 Oct 2026 10:40:12 +0000",
-     "summary": "毫米波雷达，AI算力10TOPS",
-     "source": "量子位",
-     "zh": "印奇把4D雷达也端到端了"
-    },
-    {
-     "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-     "link": "https://www.qbitai.com/2026/10/505830.html",
-     "pubDate": "Tue, 27 Oct 2026 09:54:51 +0000",
-     "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
-     "source": "量子位",
-     "zh": "乔布斯的皮克斯，狂赞中国物理AI数据终端"
-    },
-    {
      "title": "黄仁勋砸200亿，押注扎克伯格！",
      "link": "https://zhidx.com/p/604734.html",
      "pubDate": "Tue, 27 Oct 2026 17:20:27 +0800",
@@ -233,20 +209,44 @@
      "zh": "刚刚，Rokid首款全彩AI眼镜亮相，4999元起"
     },
     {
-     "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-     "link": "https://www.qbitai.com/2026/10/505799.html",
-     "pubDate": "Tue, 27 Oct 2026 08:46:12 +0000",
-     "summary": "无人在环进店实测啃下长尾场景",
-     "source": "量子位",
-     "zh": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了"
+     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+     "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+     "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
+     "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+     "source": "OpenAI",
+     "zh": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT"
     },
     {
-     "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
-     "link": "https://www.qbitai.com/2026/10/505773.html",
-     "pubDate": "Tue, 27 Oct 2026 08:35:33 +0000",
-     "summary": "OCR 3.0时代，来了",
-     "source": "量子位",
-     "zh": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%"
+     "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
+     "link": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+     "pubDate": "Tue, 27 Oct 2026 05:50:57 +0000",
+     "summary": "vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring 87.2 on the team’s SR-Text test. The post vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model appea",
+     "source": "MarkTechPost",
+     "zh": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model"
+    },
+    {
+     "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
+     "link": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+     "pubDate": "Tue, 27 Oct 2026 05:26:36 +0000",
+     "summary": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-step decoding cost nearly flat, scoring 77.1 on MarathonDocBench The post Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing appeared f",
+     "source": "MarkTechPost",
+     "zh": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing"
+    },
+    {
+     "title": "人类数据如何变成机器人真实能力？Ropedia重磅发布六项研究成果",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070489&idx=1&sn=979e5eb39baa3b368af94c9c73dd2afc",
+     "pubDate": "Tue, 27 Oct 2026 12:03:00 +0800",
+     "summary": "第一届Ropedia Super Week，每天都有亮点。",
+     "source": "机器之心",
+     "zh": "人类数据如何变成机器人真实能力？Ropedia重磅发布六项研究成果"
+    },
+    {
+     "title": "从单点突破到系统性验证：分子之心MMDesign实现94.7%项目成功率、六大GPCR靶点全获命中",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070489&idx=2&sn=f3e51965ac1b19d0ae372dceaf7db200",
+     "pubDate": "Tue, 27 Oct 2026 12:03:00 +0800",
+     "summary": "分子之心近日发布 AI 从头设计平台 MMDesign 最新技术报告",
+     "source": "机器之心",
+     "zh": "从单点突破到系统性验证：分子之心MMDesign实现94.7%项目成功率、六大GPCR靶点全获命中"
     }
    ]
   },
@@ -1281,6 +1281,22 @@
    "total": 6,
    "items": [
     {
+     "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+     "pubDate": "Wed, 28 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io"
+    },
+    {
+     "title": "The Land of the Standing-Up Rocks",
+     "link": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+     "pubDate": "Wed, 28 Oct 2026 04:01:00 +0000",
+     "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
+     "source": "NASA",
+     "zh": "The Land of the Standing-Up Rocks"
+    },
+    {
      "title": "How 'spacewalking' underwater made me feel like I was really in space",
      "link": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
      "pubDate": "Tue, 27 Oct 2026 21:00:00 +0000",
@@ -1401,14 +1417,6 @@
      "zh": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden"
     },
     {
-     "title": "A-81 Reaches South Georgia",
-     "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-     "pubDate": "Tue, 27 Oct 2026 04:00:00 +0000",
-     "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-     "source": "NASA",
-     "zh": "A-81 Reaches South Georgia"
-    },
-    {
      "title": "Cowboy Space Reveals Big Iron Data Center Rocket",
      "link": "https://payloadspace.com/cowboy-space-reveals-big-iron-data-center-rocket/",
      "pubDate": "Tue, 27 Oct 2026 02:30:00 +0000",
@@ -1423,14 +1431,6 @@
      "summary": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E happened Tuesday, October 27, 2026, at 12:25 a.m. PDT (3:25 a.m. EDT / 0825 UTC).",
      "source": "Spaceflight Now",
      "zh": "West Coast Falcon 9 rocket launches 27 Starlink satellites"
-    },
-    {
-     "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-     "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-     "pubDate": "Mon, 26 Oct 2026 22:48:12 +0000",
-     "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a ",
-     "source": "NASA",
-     "zh": "NASA’s Perseverance Views Dust at Neretva Vallis"
     },
     {
      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
@@ -1737,6 +1737,86 @@
    "total": 18,
    "items": [
     {
+     "title": "Anthropic 也在给云厂商打工",
+     "link": "https://www.tmtpost.com/8183810.html",
+     "pubDate": "Wed, 28 Oct 2026 13:25:59 +0800",
+     "summary": "终于开始赚钱，还不够填补未来。",
+     "source": "钛媒体",
+     "zh": "Anthropic 也在给云厂商打工"
+    },
+    {
+     "title": "499玩偶炒至6万，明星扎堆开网店在收割谁？",
+     "link": "https://www.tmtpost.com/8184330.html",
+     "pubDate": "Wed, 28 Oct 2026 13:25:57 +0800",
+     "summary": "明星副业卷土重来。",
+     "source": "钛媒体",
+     "zh": "499玩偶炒至6万，明星扎堆开网店在收割谁？"
+    },
+    {
+     "title": "具身智能的第一桶金，被车企先挣了",
+     "link": "https://www.tmtpost.com/8184213.html",
+     "pubDate": "Wed, 28 Oct 2026 13:25:55 +0800",
+     "summary": "汽车先蹚路，成为人形具身智能第一考场",
+     "source": "钛媒体",
+     "zh": "具身智能的第一桶金，被车企先挣了"
+    },
+    {
+     "title": "中国版Muse来了，灵光让蚂蚁生态有了新的打开方式",
+     "link": "https://www.tmtpost.com/8183973.html",
+     "pubDate": "Wed, 28 Oct 2026 13:25:53 +0800",
+     "summary": "走出聊天框，下一步是管理生活",
+     "source": "钛媒体",
+     "zh": "中国版Muse来了，灵光让蚂蚁生态有了新的打开方式"
+    },
+    {
+     "title": "绿泡泡反攻，AI办公突围，腾讯被低估了",
+     "link": "https://www.tmtpost.com/8183887.html",
+     "pubDate": "Wed, 28 Oct 2026 13:25:52 +0800",
+     "summary": "腾讯的钱，不在用户时长里。",
+     "source": "钛媒体",
+     "zh": "绿泡泡反攻，AI办公突围，腾讯被低估了"
+    },
+    {
+     "title": "7 美元控住 50.1% 投票权：Anthropic的真实面目",
+     "link": "https://www.tmtpost.com/8183945.html",
+     "pubDate": "Wed, 28 Oct 2026 13:25:50 +0800",
+     "summary": "万亿美元招股书里的五个反常识细节",
+     "source": "钛媒体",
+     "zh": "7 美元控住 50.1% 投票权：Anthropic的真实面目"
+    },
+    {
+     "title": "研究警示电子烟损伤心肺功能，专家称绝非无害替代品",
+     "link": "https://www.ithome.com/1/018/889.htm",
+     "pubDate": "Wed, 28 Oct 2026 05:22:48 GMT",
+     "summary": "IT之家 10 月 28 日消息，据总台环球资讯广播今日报道，英国一项新近发布的研究发现，长期使用含尼古丁电子烟的人群， 血管健康、体能水平明显不及从未接触烟草与电子烟的人 。 研究同时提示：电子烟虽可作为烟民的戒烟辅助手段，但对原本不吸烟的人群而言， 它并非无风险产品 。 由英国曼彻斯特城市大学副教授马克西姆・博伊丹牵头的一项研究专门聚焦原本不吸烟但使用电子烟的人群，以单独评估电子烟带来的健康影响。 研究选取 58 名平均年龄 26 岁的健康受试者，将他们分为三组：仅吸食尼古丁电子烟者、只抽传统卷烟者，以及从未定期接触烟草或尼古丁制品的人群。 研究结果显示， 电子烟使用者与轻度烟民的血管受损",
+     "source": "IT之家",
+     "zh": "研究警示电子烟损伤心肺功能，专家称绝非无害替代品"
+    },
+    {
+     "title": "技术突破 + 满血回归：曝华为今日将再发布 Mate 90 系列手机，盘点韬芯片、四卡三待等十大黑科技",
+     "link": "https://www.ithome.com/1/018/888.htm",
+     "pubDate": "Wed, 28 Oct 2026 05:21:25 GMT",
+     "summary": "IT之家 10 月 28 日消息，博主 @数码闲聊站 刚刚发文透露，今天下午的华为发布会还会再发布 Mate 90 系列手机， 盘点关于韬芯片、灵珑屏、四卡三待等十大黑科技 。 有网友询问 Mate 90 为何要再发布一次？博主回复称：“ 之前有些仓促新技术没讲透，这次要再讲讲。 ”还有网友询问为何现阶段可以讲这么细？博主表示：“ 技术突破了，甚至还会…… 满血回归警告。 ” 据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 Mate 90 标准版搭载麒麟 9030 旗舰 τ ",
+     "source": "IT之家",
+     "zh": "技术突破 + 满血回归：曝华为今日将再发布 Mate 90 系列手机，盘点韬芯片、四卡三待等十大黑科技"
+    },
+    {
+     "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+     "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+     "pubDate": "Wed, 28 Oct 2026 05:20:32 +0000",
+     "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+     "source": "TechCrunch",
+     "zh": "Jio shares surge 21% in market debut after blockbuster India IPO"
+    },
+    {
+     "title": "Jio Platforms, India&apos;s largest telecom and digital services company, rose 21.4% in its trading debut after raising ~$3.2B in the country&apos;s largest IPO (Priyanka Salve/CNBC)",
+     "link": "https://www.techmeme.com/261028/p4#a261028p4",
+     "pubDate": "Wed, 28 Oct 2026 01:10:02 -0400",
+     "summary": "Priyanka Salve / CNBC : Jio Platforms, India's largest telecom and digital services company, rose 21.4% in its trading debut after raising ~$3.2B in the country's largest IPO &nbsp; &mdash;&nbsp; Jio Platforms' shares rose 21.4% on their trading debut Wednesday after a record initial public offering",
+     "source": "Techmeme",
+     "zh": "Jio Platforms, India&apos;s largest telecom and digital services company, rose 21.4% in its trading debut after raising ~$3.2B in the country&apos;s largest IPO (Priyanka Salve/CNBC)"
+    },
+    {
      "title": "前英特尔 CEO 基辛格押注新 AI 内存：Z2RAM 拟绕开 EUV 光刻，4 年内送样",
      "link": "https://www.ithome.com/1/018/887.htm",
      "pubDate": "Wed, 28 Oct 2026 05:07:46 GMT",
@@ -1753,12 +1833,12 @@
      "zh": "2030年之前，我们可能再也买不到便宜的电脑了"
     },
     {
-     "title": "LG电子 2026 财年前三季度报归母净利润 2.15 万亿韩元，同比增长 20%",
+     "title": "LG 电子 2026 财年前三季度归母净利润 2.15 万亿韩元，同比增长 20%",
      "link": "https://www.ithome.com/1/018/886.htm",
      "pubDate": "Wed, 28 Oct 2026 05:04:04 GMT",
-     "summary": "IT之家 10 月 28 日消息，LG电子今日发布 2026 财年（2026年1月～2026年12月）前三季度报（2026年1月～2026年9月）业绩快报及第三财季（2026年7月～2026年9月）业绩快报报告： 2026 财年前三季度报 营业总收入 ：71.38 万亿韩元 （IT之家注：现汇率约合 3599.58 亿元人民币） ，同比增长 9.2% 归母净利润 ：2.15 万亿韩元 （现汇率约合 108.27 亿元人民币） ，同比增长 20% 2026 财年第三财季 营业总收入 ：23.82 万亿韩元 （现汇率约合 1201.45 亿元人民币） ，同比增长 8.9%，环比下降 0.01% 归",
+     "summary": "IT之家 10 月 28 日消息，LG 电子今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）业绩快报及第三财季（2026 年 7 月～2026 年 9 月）业绩快报报告： 2026 财年前三季度 营业总收入：71.38 万亿韩元（IT之家注：现汇率约合 3599.58 亿元人民币），同比增长 9.2% 归母净利润：2.15 万亿韩元（现汇率约合 108.27 亿元人民币），同比增长 20% 2026 财年第三财季 营业总收入：23.82 万亿韩元（现汇率约合 1201.45 亿元人民币），同比增长 8.9%，环比下降",
      "source": "IT之家",
-     "zh": "LG电子 2026 财年前三季度报归母净利润 2.15 万亿韩元，同比增长 20%"
+     "zh": "LG 电子 2026 财年前三季度归母净利润 2.15 万亿韩元，同比增长 20%"
     },
     {
      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
@@ -1857,22 +1937,6 @@
      "zh": "微软要一刀裁掉大半个Meta，Copilot沦为重灾区"
     },
     {
-     "title": "腾讯 WorkBuddy 手机远程控制电脑功能上线，实时显示屏幕内容",
-     "link": "https://www.ithome.com/1/018/882.htm",
-     "pubDate": "Wed, 28 Oct 2026 04:32:32 GMT",
-     "summary": "IT之家 10 月 28 日消息，腾讯 WorkBuddy 今日宣布，由腾讯 Edge One 团队提供技术支持， WorkBuddy 正式上线「远程控制」 。 在手机上打开 App，一键连上电脑，就能看到电脑桌面的实时画面，并直接动手接管。这一次，用户在手机上除了能看到任务过程和结果，还能实时看到并操作电脑桌面。 在远程控制模式下，用户可以像看直播一样，实时看到 Agent 在电脑屏幕上的每一步操作。 而且两端设备连接之后，电脑画面会以小窗形式悬浮在手机 App 首页或会话页顶部，下面的输入框照常使用，发现任务跑偏时依然可以及时纠正。 除了在手机上实时看到电脑屏幕画面，连接成功之后还可以更进",
-     "source": "IT之家",
-     "zh": "腾讯 WorkBuddy 手机远程控制电脑功能上线，实时显示屏幕内容"
-    },
-    {
-     "title": "全球首展：高通 6G 终端原型机将在第九届进博会正式亮相",
-     "link": "https://www.ithome.com/1/018/881.htm",
-     "pubDate": "Wed, 28 Oct 2026 04:31:17 GMT",
-     "summary": "IT之家 10 月 28 日消息，据《科创板日报》今天（28 日）午间报道，第九届中国国际进口博览会开幕在即，高通将连续第九年参展，展示 6G、智能体 AI 与多元智能终端成果。 据悉，高通将于本次进博会进行 6G 终端原型机的 全球首展 。该原型机已用于与中国移动、中兴通讯等中国产业伙伴的联合 6G 技术测试和互操作验证。 此外，展台还将集中呈现智能体 AI 与多元智能终端创新，包括 智能体设备、最新旗舰智能手机、AI PC、智能眼镜、汽车和机器人 等多元智能终端，以及 AI 影像、XR 等互动体验。 据IT之家此前报道，今年 9 月 20 日，中国移动、高通共同宣布，双方在中国移动协同创新",
-     "source": "IT之家",
-     "zh": "全球首展：高通 6G 终端原型机将在第九届进博会正式亮相"
-    },
-    {
      "title": "香港93岁婆婆遭外佣虐待离世，背后细节曝光，我看得心里发凉……",
      "link": "https://www.huxiu.com/article/4901037.html?f=rss",
      "pubDate": "Wed, 28 Oct 2026 12:31:17 +0800",
@@ -1887,22 +1951,6 @@
      "summary": "本文来自微信公众号： 脑极体 ，作者：珊瑚 表妹就读的高中在去年秋天引进了两台人形机器人，一台搁在教学楼大厅做迎宾，一台在科技节上跳过一段舞。学校公众号发过推文，标题里带着“科技感拉满”，照片里机器人披着红色绶带，旁边围了一圈好奇的面孔。三个月后，表妹对这两台铁家伙的评价只剩一句：“笨笨的，动作迟缓还挡路。” 走廊不算宽，课间上百人涌出来，机器人杵在拐角，移动迟缓、避障迟钝。学生们起初还围着看，后来便改成了绕道走。“高峰期是我们避让它，很耽误抢饭的时间。”表妹说，“有一回一个男生跑得太急差点撞上去，机器人也只是僵硬地挪动了一下”。 这件事不免让人感到荒诞，一台被寄予“科技启蒙”厚望的机器在日常",
      "source": "虎嗅",
      "zh": "涌进中小学的机器人草台班子"
-    },
-    {
-     "title": "豆包不如先做老年机",
-     "link": "https://www.tmtpost.com/8183800.html",
-     "pubDate": "Wed, 28 Oct 2026 12:17:17 +0800",
-     "summary": "老年群体是努比亚和豆包重合度相当高的消费群体",
-     "source": "钛媒体",
-     "zh": "豆包不如先做老年机"
-    },
-    {
-     "title": "连续上调指引，药明康德再次惊艳CXO",
-     "link": "https://www.tmtpost.com/8183760.html",
-     "pubDate": "Wed, 28 Oct 2026 12:17:12 +0800",
-     "summary": "连续上调指引，药明康德再次惊艳CXO",
-     "source": "钛媒体",
-     "zh": "连续上调指引，药明康德再次惊艳CXO"
     },
     {
      "title": "Anthropic&apos;s S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX&apos;s $28.5T estimate, without explicitly naming it (Wall Street Journal)",
@@ -1927,54 +1975,6 @@
      "summary": "David Shepardson / Reuters : The US FCC approves Amazon Leo's $11.5B acquisition of Globalstar, giving Amazon access to Globalstar's 24 satellites and mobile satellite spectrum &nbsp; &mdash;&nbsp; The Federal Communications Commission said on Tuesday it approved Amazon (AMZN.O) Leo's $11.5 billion ",
      "source": "Techmeme",
      "zh": "The US FCC approves Amazon Leo&apos;s $11.5B acquisition of Globalstar, giving Amazon access to Globalstar&apos;s 24 satellites and mobile satellite spectrum (David Shepardson/Reuters)"
-    },
-    {
-     "title": "市值缩水近 2 万亿 六大奢侈品巨头都卖不动了？",
-     "link": "https://www.tmtpost.com/8183838.html",
-     "pubDate": "Wed, 28 Oct 2026 11:30:16 +0800",
-     "summary": "奢侈品集团的业绩下滑，可以说是资本市场对奢侈品过去几年高估值、高增长叙事的一次集中修正。",
-     "source": "钛媒体",
-     "zh": "市值缩水近 2 万亿 六大奢侈品巨头都卖不动了？"
-    },
-    {
-     "title": "I built 327 distinct CI/CD workflows in 1 hour. GitHub flagged me as a spammer",
-     "link": "https://github.com/Aissamohammedi88/toolkit",
-     "pubDate": "Wed, 28 Oct 2026 03:15:45 +0000",
-     "summary": "Article URL: https://github.com/Aissamohammedi88/toolkit Comments URL: https://news.ycombinator.com/item?id=50268929 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "I built 327 distinct CI/CD workflows in 1 hour. GitHub flagged me as a spammer"
-    },
-    {
-     "title": "Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 (Valida Pau/The Information)",
-     "link": "https://www.techmeme.com/261027/p44#a261027p44",
-     "pubDate": "Tue, 27 Oct 2026 23:10:02 -0400",
-     "summary": "Valida Pau / The Information : Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 &nbsp; &mdash;&nbsp; Semiconductor component maker Onsemi has been discussing an acquisition of 16-year-old chip ",
-     "source": "Techmeme",
-     "zh": "Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 (Valida Pau/The Information)"
-    },
-    {
-     "title": "红果撼动腾讯游戏？5位玩家的真实故事",
-     "link": "https://www.tmtpost.com/8183959.html",
-     "pubDate": "Wed, 28 Oct 2026 11:08:56 +0800",
-     "summary": "玩游戏的人，基本都会看漫剧。",
-     "source": "钛媒体",
-     "zh": "红果撼动腾讯游戏？5位玩家的真实故事"
-    },
-    {
-     "title": "医疗AI诊断：为什么很难成为一门独立生意？",
-     "link": "https://www.tmtpost.com/8184268.html",
-     "pubDate": "Wed, 28 Oct 2026 11:08:47 +0800",
-     "summary": "医疗AI应用现状、政策与商业卡点、以及破局思考",
-     "source": "钛媒体",
-     "zh": "医疗AI诊断：为什么很难成为一门独立生意？"
-    },
-    {
-     "title": "Claude 的账单，金主先看不下去了",
-     "link": "https://www.tmtpost.com/8183902.html",
-     "pubDate": "Wed, 28 Oct 2026 11:08:42 +0800",
-     "summary": "Anthropic 已经演示了它的天花板在哪",
-     "source": "钛媒体",
-     "zh": "Claude 的账单，金主先看不下去了"
     }
    ]
   },
@@ -2233,6 +2233,94 @@
    "total": 13,
    "items": [
     {
+     "title": "存储芯片涨价致终端需求承压，蓝思科技前三季度净利遭“腰斩”",
+     "link": "http://www.eeo.com.cn/2026/1028/1077374.shtml",
+     "pubDate": "Wed, 28 Oct 2026 13:23:57 +0800",
+     "summary": "展望四季度，汇率的单边不利波动、存储芯片涨价周期导致终端需求下滑、原材料价格波动等因素短期内无法避免，但不利影响有望逐渐减弱。",
+     "source": "经济观察网",
+     "zh": "存储芯片涨价致终端需求承压，蓝思科技前三季度净利遭“腰斩”"
+    },
+    {
+     "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+     "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+     "pubDate": "Wed, 28 Oct 2026 05:16:41 GMT",
+     "summary": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
+     "source": "CNBC",
+     "zh": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO"
+    },
+    {
+     "title": "部分年金、保险、公募基金等机构近日加大买入力度",
+     "link": "http://finance.eastmoney.com/news/1345,202610283911697357.html",
+     "pubDate": "Wed, 28 Oct 2026 13:15:44 +0800",
+     "summary": "记者获悉，当前投资机构普遍认为A股市场出现超调，部分年金、保险、公募基金等机构已加大买入力度。 相关报道 A股超跌了吗？多家券商首席集体研判 A股出现哪些新信号？ 近期，A股在三季度业绩密集披露与外部扰动交织的背景下延续震荡。围绕当前市场是否超跌、能否企稳，多家券商分析师给出各自判断。 有资深机构分析师认为，在情绪宣泄等因素影响下，当前市场明显超调，估值已具备较好的中长期性价比，现在正是合适的布局时机。比如，当前深证成指、创业板指已较6月高点回撤30%和40%，估值降至近十年45%和17%分位的合理甚至偏低水平，具有超跌特征，同时，可以看到正在披露的科技行业三季报业绩总体向好，投资的安全边际较",
+     "source": "东方财富资讯",
+     "zh": "部分年金、保险、公募基金等机构近日加大买入力度"
+    },
+    {
+     "title": "伟伟道来 | 如果美以伊战火重燃，大概是什么时间",
+     "link": "http://www.eeo.com.cn/2026/1028/1077369.shtml",
+     "pubDate": "Wed, 28 Oct 2026 13:11:00 +0800",
+     "summary": "如果美以伊战火重燃，大概率会在以色列组阁成功之后，美国新国会正式启动之前。大致的时间为最晚12月18日至2027年1月3日之间。",
+     "source": "经济观察网",
+     "zh": "伟伟道来 | 如果美以伊战火重燃，大概是什么时间"
+    },
+    {
+     "title": "Standard Chartered GAAP EPS of $0.67, revenue of $5.78B beats by $70M; updates FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4658623-standard-chartered-gaap-eps-of-067-revenue-of-578b-beats-by-70m-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 01:09:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Standard Chartered GAAP EPS of $0.67, revenue of $5.78B beats by $70M; updates FY2026 outlook"
+    },
+    {
+     "title": "OpenAI plans to purchase Google’s AI chips, reports say",
+     "link": "https://seekingalpha.com/news/4658621-openai-plans-to-purchase-googles-ai-chips-reports-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 01:08:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "OpenAI plans to purchase Google’s AI chips, reports say"
+    },
+    {
+     "title": "Edison Lithium plans private placement of up to $1.9M",
+     "link": "https://seekingalpha.com/news/4658619-edison-lithium-plans-private-placement-of-up-to-1_9m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 01:07:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Edison Lithium plans private placement of up to $1.9M"
+    },
+    {
+     "title": "波斯湾突传大消息！",
+     "link": "http://futures.eastmoney.com/news/11233,202610283911687314.html",
+     "pubDate": "Wed, 28 Oct 2026 13:05:00 +0800",
+     "summary": "中东局势新变数！据华尔街日报报道，知情人士透露称，美国已要求几个海湾阿拉伯国家为美国中期选举后可能发生的一场“短暂而猛烈”的军事行动做好准备。在此消息披露之后，国际油价再度直线拉升，纽油已突破101美元，布油再度突破110美元。此前，CNN曾报道，一旦特朗普下令，美军可在96小时内展开行动。部署细节显示，美国正从德州调运一套爱国者防空系统强化导弹防御，同时将部分部队撤出易受攻击基地、补充区域弹药库存。轰炸机与战机进入待命状态。另一个航母打击群与陆战队远征部队预计下月驰援中东，中东地区内已有约20艘军舰执行任务。伊朗海军称，霍尔木兹海峡目前处于危险状态，禁止任何未经协调而擅自通过的船只通行。为确",
+     "source": "东方财富资讯",
+     "zh": "波斯湾突传大消息！"
+    },
+    {
+     "title": "Britain needs a coherent economic strategy — can Healey deliver one?",
+     "link": "https://www.ft.com/content/95dabc01-47da-4f9f-ad0b-19cdc966fed6?syn-25a6b1a6=1",
+     "pubDate": "Wed, 28 Oct 2026 05:00:23 GMT",
+     "summary": "The chancellor’s first priority in the Budget is to make the UK look prudent again",
+     "source": "Financial Times",
+     "zh": "Britain needs a coherent economic strategy — can Healey deliver one?"
+    },
+    {
+     "title": "The Trump sons’ global network: money, influence and the family business",
+     "link": "https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1?syn-25a6b1a6=1",
+     "pubDate": "Wed, 28 Oct 2026 05:00:07 GMT",
+     "summary": "The president’s sons Donald Jr and Eric have met world leaders and foreign officials while building a lucrative web of financial interests",
+     "source": "Financial Times",
+     "zh": "The Trump sons’ global network: money, influence and the family business"
+    },
+    {
+     "title": "Anthropic’s seven founders tighten grip ahead of blockbuster IPO",
+     "link": "https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1",
+     "pubDate": "Wed, 28 Oct 2026 05:00:06 GMT",
+     "summary": "From a rebellion at OpenAI to building the Claude-maker, the new billionaires are betting their future on staying united",
+     "source": "Financial Times",
+     "zh": "Anthropic’s seven founders tighten grip ahead of blockbuster IPO"
+    },
+    {
      "title": "TOP Ships announces 1-for-10 reverse stock split, $5M convertible-note offering",
      "link": "https://seekingalpha.com/news/4658617-top-ships-announces-1-forminus-10-reverse-stock-split-5m-convertible-note-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 28 Oct 2026 00:59:08 -0400",
@@ -2257,84 +2345,12 @@
      "zh": "Asian stocks rise led by Nikkei and Kospi tech rally; RBNZ surprises with rate hold ahead of Fed decision"
     },
     {
-     "title": "奇观！昨日尾盘闪崩 今日8000手大单突袭 301488直封“20CM”涨停",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911668835.html",
-     "pubDate": "Wed, 28 Oct 2026 12:55:30 +0800",
-     "summary": "A股又现奇观，昨日尾盘“闪崩”的 豪恩汽电 （301488）今日开盘直接“20CM”涨停。 10月28日开盘，一个8000手大单， 豪恩汽电 直接封上“20CM”涨停。截至发稿， 豪恩汽电 报97.87元/股，成交额超2亿元，换手率超5%，最新市值为100亿元。 对此，投资者纷纷表示：“奇观啊！”“脑瓜子嗡嗡的！”“乌龙指？”“都说了炒股别用曲面屏！” 豪恩汽电日前发布2026年三季报，公司前三季度实现营业收入19.15亿元，同比增长51.64%；归母净利润为3876.97万元，同比下降39.19%。 公开资料显示，豪恩汽电主要为国内外主流整车厂提供从感知硬件到算法软件的一体化解决方案。主要产",
-     "source": "东方财富股票",
-     "zh": "奇观！昨日尾盘闪崩 今日8000手大单突袭 301488直封“20CM”涨停"
-    },
-    {
-     "title": "年内最冷新股诞生！东山精密港股上市首日盘中破发 有打新投资者最多浮亏318万港元",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911668030.html",
-     "pubDate": "Wed, 28 Oct 2026 12:54:41 +0800",
-     "summary": "今日（10月28日）， PCB 龙头 东山精密 （HK02384）正式登陆港交所主板，开盘即陷入破发，盘中最大跌幅接近6%。截至发稿，股价跌幅明显收窄。 东山精密 不佳的二级市场表现，早已在招股阶段埋下伏笔。根据公司配发公告，尽管引入20名基石投资者强力托底，但公开发售仅录得0.52倍认购，孖展融资认购仅0.39倍，成为自去年2月以来港股公开认购倍数最低的新股，所有参与打新的散户实现100%中签。极端低迷的认购情绪，也让少数大手笔打新的投资者面临最多浮亏318万港元。 散户弃购机构兜底公开认购创近一年多新低 根据 东山精密 披露的全球发售配发结果公告，此次H股全球发售股份总数为11378.32",
-     "source": "东方财富股票",
-     "zh": "年内最冷新股诞生！东山精密港股上市首日盘中破发 有打新投资者最多浮亏318万港元"
-    },
-    {
-     "title": "微软、谷歌、亚马逊即将放榜 市场“紧盯”三大信号",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911667924.html",
-     "pubDate": "Wed, 28 Oct 2026 12:52:00 +0800",
-     "summary": "全球三大云巨头即将迎来新一轮财报大考。 美东时间10月28日盘后， 微软 和谷歌母公司Alphabet将公布最新业绩， 亚马逊 于29日接棒。随着AI投资规模持续扩大，三大云厂商能否延续高增长、资本开支是否进一步上修、AI投资回报等成为市场关注焦点。 本轮财报正值全球AI基础设施投资加速扩张、科技股估值面临重新审视之际。华尔街关注的不仅是云业务增长能否超出预期，还包括新增算力产能的收入转化效率、利润率与自由现金流变化，以及管理层对2027年投资节奏的判断。 资本开支、明年投资规模成焦点 本轮财报最受关注的变量之一，是AI资本开支增长是否放缓。 标普全球 10月26日发布的研究显示，其跟踪的超大",
-     "source": "东方财富股票",
-     "zh": "微软、谷歌、亚马逊即将放榜 市场“紧盯”三大信号"
-    },
-    {
-     "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
-     "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
-     "pubDate": "Wed, 28 Oct 2026 04:51:42 GMT",
-     "summary": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
-     "source": "CNBC",
-     "zh": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO"
-    },
-    {
-     "title": "卫星互联网产学研联合创新计划启动",
-     "link": "http://finance.eastmoney.com/news/1360,202610283911668613.html",
-     "pubDate": "Wed, 28 Oct 2026 12:49:26 +0800",
-     "summary": "在第二十七届卫星应用大会上， 卫星互联网 产学研联合创新计划启动，首批参与单位包括近60家高校、科研院所和企业。该计划围绕 卫星互联网 开展合作，包括共建课程、培养学生工程能力、以实训储备产业人才、开放测试条件支撑企业技术发展等。研究方向包括星算协同与太空算力、手机直连卫星、6G非地面网络、星间激光 通信 等六项。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "卫星互联网产学研联合创新计划启动"
-    },
-    {
-     "title": "腾讯WorkBuddy正式上线“远程控制”功能",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911667757.html",
-     "pubDate": "Wed, 28 Oct 2026 12:47:00 +0800",
-     "summary": "腾讯WorkBuddy宣布正式上线“远程控制”功能。用户可在手机上打开App，一键连上电脑，查看电脑桌面的实时画面，并直接动手接管电脑。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "腾讯WorkBuddy正式上线“远程控制”功能"
-    },
-    {
-     "title": "Franklin Electric to buy Challenge Pumps in $181M deal, eyes EPS accretion in 2027",
-     "link": "https://seekingalpha.com/news/4658616-franklin-electric-to-buy-challenge-pumps-in-181m-deal-eyes-eps-accretion-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 00:45:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Franklin Electric to buy Challenge Pumps in $181M deal, eyes EPS accretion in 2027"
-    },
-    {
-     "title": "中望软件：倾向于通过收并购增强公司研发能力与核心技术储备",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911667624.html",
-     "pubDate": "Wed, 28 Oct 2026 12:44:00 +0800",
-     "summary": "中望软件 (688083)在2026年第三季度业绩说明会上表示，公司目前专注于研发设计类工业软件行业，并始终对国内外优质研发设计类工业软件标的保持密切的关注。现阶段，公司更加倾向于通过收并购增强公司研发能力与核心技术储备，但也并不排斥能够提升公司业务资源储备的并购机会。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "中望软件：倾向于通过收并购增强公司研发能力与核心技术储备"
-    },
-    {
-     "title": "Las Vegas Sands unit prices $1B senior notes to refinance debt",
-     "link": "https://seekingalpha.com/news/4658618-las-vegas-sands-unit-prices-1b-senior-notes-to-refinance-debt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 00:41:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Las Vegas Sands unit prices $1B senior notes to refinance debt"
-    },
-    {
-     "title": "Australia inflation rises to 4.3% in September, exceeding forecasts and RBA target",
-     "link": "https://seekingalpha.com/news/4658612-australia-inflation-rises-to-43-in-september-exceeding-forecasts-and-rba-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 00:40:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Australia inflation rises to 4.3% in September, exceeding forecasts and RBA target"
+     "title": "Shares of Ambani’s Jio rise 21% in India’s biggest IPO",
+     "link": "https://www.ft.com/content/32f2864d-c122-4d83-b0c5-8d2f1fcc63bd?syn-25a6b1a6=1",
+     "pubDate": "Wed, 28 Oct 2026 04:42:17 GMT",
+     "summary": "Telecoms business raises $3.2bn at $108bn valuation in relief to stock market hit by war in Iran",
+     "source": "Financial Times",
+     "zh": "Shares of Ambani’s Jio rise 21% in India’s biggest IPO"
     },
     {
      "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
@@ -2393,14 +2409,6 @@
      "zh": "“易中天”携手大涨 AI硬件全线回暖！错杀机会正在出现？"
     },
     {
-     "title": "China rushes to shore up struggling markets",
-     "link": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1",
-     "pubDate": "Wed, 28 Oct 2026 03:54:50 GMT",
-     "summary": "‘National team’ of funds and brokers buy stocks as investors turn away from AI trade",
-     "source": "Financial Times",
-     "zh": "China rushes to shore up struggling markets"
-    },
-    {
      "title": "三季报集体报喜 PCB产业链板块爆发 龙头警告供需缺口或延续",
      "link": "http://finance.eastmoney.com/news/1354,202610283911637216.html",
      "pubDate": "Wed, 28 Oct 2026 11:46:26 +0800",
@@ -2433,28 +2441,12 @@
      "zh": "Anthropic全面杀入AI制药！收购“一人药企”，联手6大巨头，最新研发进度曝光"
     },
     {
-     "title": "事关算力定价权！英伟达头号梦魇藏在Anthropic招股书中",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911592082.html",
-     "pubDate": "Wed, 28 Oct 2026 11:23:06 +0800",
-     "summary": "美国顶尖AI实验室Anthropic正采用多款芯片来发展其业务—— 这一多元布局策略最终可能削弱 英伟达 在AI算力领域的主导地位 。 Anthropic在周一公布的S-1招股说明书中表示，其将来自多个战略合作伙伴的算力资源“整合为一个统一、可灵活调配的池”，并借助软件技术，根据各芯片在不同场景下的性能优势，灵活调配任务。 Anthropic表示，其用于训练Claude并提供相关服务的芯片共有四类，分别为 亚马逊 Trainium、谷歌TPU、 英伟达 GPU以及AMD GPU。 英伟达 定价权或受削弱 分析师指出， 这种灵活性可能使大型AI企业逐渐降低对英伟达的依赖，并增强其议价能力 。 “",
-     "source": "东方财富资讯",
-     "zh": "事关算力定价权！英伟达头号梦魇藏在Anthropic招股书中"
-    },
-    {
      "title": "我国交通运输经济运行总体平稳",
      "link": "http://www.eeo.com.cn/2026/1028/1077193.shtml",
      "pubDate": "Wed, 28 Oct 2026 11:16:01 +0800",
      "summary": "今年前三季度，我国交通运输经济运行总体平稳，完成交通固定资产投资2.4万亿元，其中公路、水运分别完成投资1.6万亿元、1571亿元，营业性货运量、港口货物吞吐量、跨区域人员流动量均实现同比增长，9月货运主要指标呈现积极回升态势。",
      "source": "经济观察网",
      "zh": "我国交通运输经济运行总体平稳"
-    },
-    {
-     "title": "SK海力士财报会实录：未来三年存储产能几近售罄 预计供需紧张延续至2030年",
-     "link": "http://stock.eastmoney.com/news/11228,202610283911580860.html",
-     "pubDate": "Wed, 28 Oct 2026 11:15:00 +0800",
-     "summary": "本周三， SK海力士 公布2026 年第三季度财报，公司单季营收首次突破100万亿韩元大关，营业利润、利润率双双刷新历史纪录。受益 AI 算力带动 HBM、服务器存储产品价格大涨，公司同时披露了总额100万亿韩元年度股东回报方案。 在问答环节， SK海力士 管理层就AI需求持续性、长期供货协议 (LTA)、产能过剩风险、HBM迭代与堆叠层数下调、下一代DRAM等市场热点问题作出回应。 SK海力士 总裁兼CEO郭鲁正在财报会上透露，截至目前，SK海力士已经和包含全球头部云服务商在内的14家核心客户签署长期协议（LTA）。已经敲定的LTA订单，叠加当前和客户正在磋商的需求，“未来三年直至2029年",
-     "source": "东方财富资讯",
-     "zh": "SK海力士财报会实录：未来三年存储产能几近售罄 预计供需紧张延续至2030年"
     },
     {
      "title": "2026年1—9月全国电力市场交易电量同比增长18.9%",
@@ -2471,6 +2463,14 @@
      "summary": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
      "source": "CNBC",
      "zh": "Trump says Iran war will end &apos;when I want it to&apos; as costs reportedly balloon to $47 billion"
+    },
+    {
+     "title": "Bolsonaro lands in US after fleeing Brazil following election defeat",
+     "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
+     "pubDate": "Wed, 28 Oct 2026 02:58:30 GMT",
+     "summary": "Rightwing politician and son of jailed ex-president Jair Bolsonaro arrived in Florida on Tuesday evening",
+     "source": "Financial Times",
+     "zh": "Bolsonaro lands in US after fleeing Brazil following election defeat"
     }
    ]
   },

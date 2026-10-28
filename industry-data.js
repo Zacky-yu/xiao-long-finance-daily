@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/28 16:47:06",
+ "generated_at": "2026/10/28 16:49:41",
  "recent_days": 7,
  "industries": [
   {
@@ -103,7 +103,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 23:34:27 +0000",
      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
      "source": "TechCrunch AI",
-     "zh": "父母起诉 OpenAI，指控 GPT-4o 指导他们的女儿停止服用癫痫药物"
+     "zh": "父母起诉 OpenAI，指控 GPT-4o 指导他们的女儿戒掉癫痫药物"
     },
     {
      "title": "The data center boom has an upside: innovation for the US grid",
@@ -151,7 +151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 18:55:35 +0000",
      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
      "source": "TechCrunch AI",
-     "zh": "Disruptive 筹集了 10B 美元基金，对至少 10 家公司进行大赌注"
+     "zh": "Disruptive 筹集 10B 美元基金，对至少 10 家公司进行大赌注"
     },
     {
      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
@@ -271,7 +271,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 07:14:25 GMT",
      "summary": "Chunghwa Precision Test Tech (CHPT), a major semiconductor test interface supplier, posted record revenue and profit in the third quarter of 2026 as consolidated net profit reached NT$551 million (US$16.97 million), up 11.5% quarter on quarter and double the figure from a year earlier. The company h",
      "source": "DIGITIMES",
-     "zh": "CHPT 公布创纪录的 2026 年第三季度业绩，九个月利润跃升超过 90%"
+     "zh": "CHPT公布创纪录的第三季度业绩，九个月利润跃升超过90%"
     },
     {
      "title": "HTC launches Vivee AI companion pet in US",
@@ -775,7 +775,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 06:41:23 +0000",
      "summary": "The third-generation Qin Plus DM-i starts at 76,900 yuan ($11,450) for a limited time, offering up to 220 km of electric range. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "比亚迪推出第三代秦Plus DM-i 车身更大续航里程更长"
+     "zh": "比亚迪推出第三代秦Plus DM-i 车身更大、续航里程更长"
     },
     {
      "title": "VW considers bringing Xpeng co-developed architecture to European models, report says",
@@ -1383,7 +1383,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
      "summary": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 1961 年 10 月 27 日：美国宇航局 (NASA) 从佛罗里达州发射土星一号火箭进行第一次试飞，为强大的土星五号月球火箭搭建舞台"
+     "zh": "在太空的这一天！ 1961 年 10 月 27 日：美国宇航局 (NASA) 从佛罗里达州发射土星一号火箭进行第一次试飞，为强大的土星五号月球火箭奠定基础"
     },
     {
      "title": "OSMOS X Tapped to Lead EDF-backed Tactical Capture Consortium",
@@ -1519,7 +1519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 21 Oct 2026 20:25:50 +0000",
      "summary": "As its launch cadence continues to grow, China is stepping further towards reusable rockets as… The post China readies first commercial resupply craft, first booster reflight, and next landing attempt appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "中国已做好第一艘商业补给船、首次助推器重新飞行和下一次着陆尝试的准备"
+     "zh": "中国已做好第一艘商业补给艇、首次助推器重新飞行和下一次着陆尝试的准备"
     }
    ]
   },
@@ -1975,7 +1975,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 05:20:32 +0000",
      "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
      "source": "TechCrunch",
-     "zh": "印度首次公开募股后，Jio 股价首日飙升 21%"
+     "zh": "印度首次公开募股 (IPO) 后，Jio 股价首日飙升 21%"
     }
    ]
   },
@@ -2007,7 +2007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 09:06:02 +0100",
      "summary": "Sony has announced the LYTIA 720, a new 50MP stacked CMOS image sensor designed for mobile devices. The Sony LYTIA 720 measures 1/1.56-inches and features a 1.0μm pixel size. It uses Sony’s proprietary Ultra High Conversion Gain (UHCG) circuit technology, which is claimed to improve low-light perfor",
      "source": "GSMArena",
-     "zh": "索尼推出全新 LYTIA 720 50MP 1/1.56 英寸移动传感器"
+     "zh": "索尼发布新款 LYTIA 720 50MP 1/1.56 英寸移动传感器"
     },
     {
      "title": "PSA: Your Discord messages could soon show up on Google, but here’s how to opt out",
@@ -2079,7 +2079,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 06:02:02 +0100",
      "summary": "After launching in China last month, the vivo X500 series has now debuted in select global markets. A new report has now revealed the expected India launch timeline for the lineup. The vivo X500 series is expected to launch in India towards the end of November, according to the report. The company i",
      "source": "GSMArena",
-     "zh": "这是vivo X500系列可能在印度推出的时间"
+     "zh": "这是vivo X500系列在印度推出的时间"
     },
     {
      "title": "iOS 27.2 brings two new features to Apple's CarPlay",
@@ -2234,12 +2234,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "云天化：第三季度归母净利润同比下降62.2%",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911973618.html",
-     "pubDate": "Wed, 28 Oct 2026 16:39:09 +0800",
-     "summary": "云天化 10月28日公告，2026年第三季度实现营业收入88.9亿元，同比下降29.52%；归母净利润7.44亿元，同比下降62.2%；基本每股收益0.4081元。前三季度实现营业收入317.11亿元，同比下降15.82%；归母净利润36.78亿元，同比下降22.28%；基本每股收益2.0178元。 （文章来源：界面新闻）",
+     "title": "航锦科技：截至9月30日最新股东户数10.27万户，较上期减少7.43%",
+     "link": "http://stock.eastmoney.com/news/11111,202610283911980918.html",
+     "pubDate": "Wed, 28 Oct 2026 16:44:56 +0800",
+     "summary": "航锦科技 最新披露数据显示，截至9月30日公司股东户数为10.27万户，较上期(2026年6月30日) 减少8242户，降幅为7.43% 。户均持有流通股数量 由上期的5933股上升至6410股， 户均持股金额 由上期的8.62万元减少至7.22万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
      "source": "东方财富股票",
-     "zh": "云天化：第三季度归母净利润同比下降62.2%"
+     "zh": "航锦科技：截至9月30日最新股东户数10.27万户，较上期减少7.43%"
+    },
+    {
+     "title": "易实精密：截至9月30日最新股东户数4058户，较上期减少1.31%",
+     "link": "http://stock.eastmoney.com/news/11111,202610283911980560.html",
+     "pubDate": "Wed, 28 Oct 2026 16:44:12 +0800",
+     "summary": "易实精密 最新披露数据显示，截至9月30日公司股东户数为4058户，较上期(2026年6月30日) 减少54户，降幅为1.31% 。户均持有流通股数量 由上期的1.50万股上升至1.53万股， 户均持股金额 由上期的19.12万元减少至18.28万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "易实精密：截至9月30日最新股东户数4058户，较上期减少1.31%"
+    },
+    {
+     "title": "中国广核：截至9月30日最新股东户数19.97万户，较上期减少7.36%",
+     "link": "http://stock.eastmoney.com/news/11111,202610283911980475.html",
+     "pubDate": "Wed, 28 Oct 2026 16:44:12 +0800",
+     "summary": "中国广核 最新披露数据显示，截至9月30日公司股东户数为19.97万户，较上期(2026年6月30日) 减少1.59万户，降幅为7.36% 。户均持有流通股数量 由上期的23.42万股上升至25.28万股， 户均持股金额 由上期的89.48万元增加至106.95万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对",
+     "source": "东方财富股票",
+     "zh": "中国广核：截至9月30日最新股东户数19.97万户，较上期减少7.36%"
+    },
+    {
+     "title": "中瓷电子：截至9月30日最新股东户数5.13万户，较上期增加5.93%",
+     "link": "http://stock.eastmoney.com/news/11111,202610283911980129.html",
+     "pubDate": "Wed, 28 Oct 2026 16:43:59 +0800",
+     "summary": "中瓷电子 最新披露数据显示，截至9月30日公司股东户数为5.13万户，较上期(2026年9月10日) 增加2870户，增幅为5.93% 。户均持有流通股数量 由上期的7030股上升至8800股， 户均持股金额 由上期的84.30万元增加至104.40万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "中瓷电子：截至9月30日最新股东户数5.13万户，较上期增加5.93%"
+    },
+    {
+     "title": "楚江新材：截至9月30日最新股东户数17.27万户，较上期减少8.20%",
+     "link": "http://stock.eastmoney.com/news/11111,202610283911980353.html",
+     "pubDate": "Wed, 28 Oct 2026 16:43:59 +0800",
+     "summary": "楚江新材 最新披露数据显示，截至9月30日公司股东户数为17.27万户，较上期(2026年6月30日) 减少1.54万户，降幅为8.20% 。户均持有流通股数量 由上期的8585股上升至9352股， 户均持股金额 由上期的11.65万元减少至9.17万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "楚江新材：截至9月30日最新股东户数17.27万户，较上期减少8.20%"
+    },
+    {
+     "title": "白云山：截至9月30日最新股东户数11.14万户，较上期增加1.14%",
+     "link": "http://stock.eastmoney.com/news/11111,202610283911980252.html",
+     "pubDate": "Wed, 28 Oct 2026 16:43:59 +0800",
+     "summary": "白云山 最新披露数据显示，截至9月30日公司股东户数为11.14万户，较上期(2026年6月30日) 增加1261户，增幅为1.14% 。户均持有流通股数量 由上期的1.48万股下降至1.46万股， 户均持股金额 由上期的29.13万元减少至28.77万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "source": "东方财富股票",
+     "zh": "白云山：截至9月30日最新股东户数11.14万户，较上期增加1.14%"
     },
     {
      "title": "Apple zigs while Nasdaq zags, correlation turns negative",
@@ -2248,46 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "苹果股价上涨，纳斯达克指数下跌，相关性转为负值"
-    },
-    {
-     "title": "旺成科技(920896)龙虎榜数据(10-28)",
-     "link": "http://stock.eastmoney.com/news/1696,202610283911964274.html",
-     "pubDate": "Wed, 28 Oct 2026 16:37:17 +0800",
-     "summary": "交易所2026年10月28日公布的交易公开信息显示， 旺成科技 因成为 当日收盘价涨幅达到20%的前5只股票、 当日价格振幅达到30%的前5只股票 上榜。 旺成科技 当日收报 16.23元，涨跌幅29.94%， 偏离值29.94%， 换手率19.06%，成交额1.33亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财",
-     "source": "东方财富股票",
-     "zh": "旺成科技(920896)龙虎榜数据(10-28)"
-    },
-    {
-     "title": "西部证券：第三季度归母净利润同比下降71.04%",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911972037.html",
-     "pubDate": "Wed, 28 Oct 2026 16:37:09 +0800",
-     "summary": "西部证券 10月28日公告，2026年第三季度实现营业总收入10.44亿元，同比下降32.46%；归母净利润1.33亿元，同比下降71.04%；基本每股收益0.0298元。前三季度实现营业总收入47.3亿元，同比增长9.12%；归母净利润11.68亿元，同比下降6.07%；基本每股收益0.2617元。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "西部证券：第三季度归母净利润同比下降71.04%"
-    },
-    {
-     "title": "倍加洁：截至9月30日最新股东户数7367户，较上期增加6.83%",
-     "link": "http://stock.eastmoney.com/news/11111,202610283911963942.html",
-     "pubDate": "Wed, 28 Oct 2026 16:37:05 +0800",
-     "summary": "倍加洁 最新披露数据显示，截至9月30日公司股东户数为7367户，较上期(2026年6月30日) 增加471户，增幅为6.83% 。户均持有流通股数量 由上期的1.46万股下降至1.36万股， 户均持股金额 由上期的34.68万元增加至35.49万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
-     "source": "东方财富股票",
-     "zh": "倍加洁：截至9月30日最新股东户数7367户，较上期增加6.83%"
-    },
-    {
-     "title": "汇绿生态：截至9月30日最新股东户数8.64万户，较上期增加5.53%",
-     "link": "http://stock.eastmoney.com/news/11111,202610283911963843.html",
-     "pubDate": "Wed, 28 Oct 2026 16:37:05 +0800",
-     "summary": "汇绿生态 最新披露数据显示，截至9月30日公司股东户数为8.64万户，较上期(2026年8月31日) 增加4526户，增幅为5.53% 。户均持有流通股数量 由上期的7436股下降至7046股， 户均持股金额 由上期的29.19万元减少至23.13万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "汇绿生态：截至9月30日最新股东户数8.64万户，较上期增加5.53%"
-    },
-    {
-     "title": "图解财报：智云股份前三季归母净利润-2797.22万元，上年同期-1.12亿元",
-     "link": "http://stock.eastmoney.com/news/11802,202610283911963440.html",
-     "pubDate": "Wed, 28 Oct 2026 16:37:03 +0800",
-     "summary": "智云股份 10月29日发布2026年 三季报显示，公司前三季 实现营业总收入1.68亿元 ，同比增长27.48% ；归母净利润-2797.22万元 ；扣非归母净利润-3798.43万元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：智云股份前三季归母净利润-2797.22万元，上年同期-1.12亿元"
     },
     {
      "title": "Aena S.M.E., S.A. reports results for the nine-month period ended 30 September 2026",
@@ -2322,6 +2322,14 @@ window.INDUSTRY_DATA = {
      "zh": "Clearstream 采取代币化基金分销举措"
     },
     {
+     "title": "今夜无眠！美联储决议凌晨揭晓：暂停加息渐成共识 真正的博弈在12月",
+     "link": "http://finance.eastmoney.com/news/11139,202610283911947749.html",
+     "pubDate": "Wed, 28 Oct 2026 16:28:20 +0800",
+     "summary": "北京时间10月29日凌晨2点， 美联储将公布10月货币政策决议 。今年9月，美联储刚刚完成自2023年7月以来的 首次加息 ，而这一次，市场普遍预期美联储将“按兵不动”。 不过，真正的看点并不在利率本身——声明措辞、投票结构与美联储主席沃什的新闻发布会，将共同回答市场最关心的问题：12月会否 再度加息 ？本轮紧缩的终点又在哪里？ 值得一提的是，本周正值“超级央行周”，欧洲央行、日本央行、加拿大央行也将密集公布利率决议，全球货币政策走向迎来关键观察窗口。 10月“暂停”已被市场充分定价 据CME“美联储观察”，美联储10月维持利率不变的概率高达 92.8% ， 加息25个基点 的概率仅为7.2%",
+     "source": "东方财富资讯",
+     "zh": "今夜无眠！美联储决议凌晨揭晓：暂停加息渐成共识 真正的博弈在12月"
+    },
+    {
      "title": "GSK declares $0.4524/ADS or 17p/share dividend",
      "link": "https://seekingalpha.com/news/4658654-gsk-declares-04524ads-or-17pshare-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 28 Oct 2026 04:27:53 -0400",
@@ -2335,7 +2343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 04:25:24 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "报告称，与美国结盟的国家削减了美国国债购买量，以亚洲为首"
+     "zh": "报告称，与美国结盟的国家削减了美国国债购买量，其中亚洲为首"
     },
     {
      "title": "摩根大通私行：加息周期不结束金价难触底，4000美元下方几乎没有支撑",
@@ -2426,6 +2434,14 @@ window.INDUSTRY_DATA = {
      "zh": "强劲业绩点燃芯片热情，韩股收涨6%重回6000点，美股盘前SK海力士涨约8%，希捷科技跌约4%，油价止跌"
     },
     {
+     "title": "金价苦守“4000关口”？道富仍逆势看涨至5500美元 但概率下降",
+     "link": "http://gold.eastmoney.com/news/11253,202610283911877298.html",
+     "pubDate": "Wed, 28 Oct 2026 16:05:10 +0800",
+     "summary": "目前， 黄金 价格在每盎司4000美元附近苦苦支撑，考验着投资者对这种 贵金属 的信心。但一家大型投资公司仍然乐观地认为，金价有望在明年初回升至5500美元。 不过需要注意的是，持续的通胀、不断攀升的债券收益率以及美联储更为鹰派的政策，都让这种乐观前景变得越来越不确定。 在最新的《月度 黄金 监测报告》中， 道富 投资管理公司维持了其对2027年第一季度末 黄金 价格将在每盎司4750美元至5500美元之间波动的预测。然而，由于利率上升和美元走强继续对这种无收益的 贵金属 构成压力，该公司将这一情景发生的概率从70%下调至60%。 由 道富 投资管理公司黄金策略主管Aakash Doshi领导",
+     "source": "东方财富资讯",
+     "zh": "金价苦守“4000关口”？道富仍逆势看涨至5500美元 但概率下降"
+    },
+    {
      "title": "机构调研丨人形机器人+3D视觉+数据采集 这家公司面向全球机器人市场 视觉方案收入已超去年同期2倍",
      "link": "http://finance.eastmoney.com/news/11822,202610283911890064.html",
      "pubDate": "Wed, 28 Oct 2026 16:05:08 +0800",
@@ -2440,22 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "Cryptocurrency firm Zumo has joined forces with quantum blockchain platform Quantum Chain in efforts to combat the growing threat of quantum attacks.",
      "source": "Finextra",
      "zh": "Zumo 和 Quantum Chain 合作对抗量子威胁"
-    },
-    {
-     "title": "尾盘“光”集体拉升！五大利好共振引发全球科技板块联动爆发",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911864478.html",
-     "pubDate": "Wed, 28 Oct 2026 15:57:00 +0800",
-     "summary": "28日， CPO概念 尾盘活跃，多股集体拉升。截至收盘， 中际旭创 涨超10%，市值约7495亿元；成交额超235亿元，位居A股第一。 蘅东光 涨超16%， 新易盛 涨超8%， 剑桥科技 、 光库科技 、 汇绿生态 等跟涨。 消息面上，有关AI产业的利好消息不断涌现，多重利好共振引发了全球科技板块联动爆发。 利好一：存储巨头 SK海力士 于北京时间10月28日发布最新业绩，在AI存储需求增加推动主要产品价格上涨的市场环境下，公司营业收入和营业利润双双刷新季度历史最高纪录，营业收入历史上首次突破100万亿韩元，营业收入和营业利润环比分别增长32%和38%。 利好二：据TrendForce援引媒体",
-     "source": "东方财富资讯",
-     "zh": "尾盘“光”集体拉升！五大利好共振引发全球科技板块联动爆发"
-    },
-    {
-     "title": "知情人士：长鑫科技将启动先进AI内存芯片生产 售价或高于海外竞品",
-     "link": "http://finance.eastmoney.com/news/1345,202610283911838186.html",
-     "pubDate": "Wed, 28 Oct 2026 15:53:11 +0800",
-     "summary": "据路透社28日报道，两位知情人士透露， 长鑫科技 计划启动HBM3E小批量生产。HBM3E是一种与AI处理器搭配使用的先进 高带宽内存 芯片。 据知情人士透露， 长鑫科技 已向中国国内多家 AI芯片 设计企业发送HBM3E样品。知情人士称， 长鑫科技 预计将在未来两个月内启动小批量生产。因相关生产计划尚未对外公开，上述知情人士要求匿名。 高带宽内存 （HBM）通过将内存芯片垂直堆叠制造而成，能够与AI处理器实现高速数据交互，是用于训练和运行大语言模型专用芯片的关键元器件。 路透社9月曾报道称，受内存成本制约、扩产受阻影响，华为、 寒武纪 、沐曦股份、 天数智芯 已将现有及下一代 AI芯片 的价",
-     "source": "东方财富资讯",
-     "zh": "知情人士：长鑫科技将启动先进AI内存芯片生产 售价或高于海外竞品"
     },
     {
      "title": "全国消费品以旧换新工作推进电视电话会议在京召开",

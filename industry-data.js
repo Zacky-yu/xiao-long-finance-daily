@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/28 12:23:47",
+ "generated_at": "2026/10/28 12:32:13",
  "recent_days": 7,
  "industries": [
   {
@@ -844,7 +844,7 @@ window.INDUSTRY_DATA = {
     {
      "title": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Houthi-Attacks-Reignite-Saudi-Supply-Fears.html",
-     "pubDate": "Tue, 27 Oct 2026 22:53:19 -0500",
+     "pubDate": "Tue, 27 Oct 2026 22:53:00 -0500",
      "summary": "Oil prices climbed in early Asian trade on Wednesday as renewed Houthi attacks on Saudi Arabia reignited supply fears in the region. Falling inventories and reports that the U.S. is preparing for a new military campaign against Iran after the midterm elections added to the upward momentum. At the ti",
      "source": "OilPrice",
      "zh": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears"
@@ -1314,20 +1314,20 @@ window.INDUSTRY_DATA = {
      "zh": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart"
     },
     {
-     "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
-     "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
-     "summary": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
-     "source": "Space.com",
-     "zh": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers"
-    },
-    {
      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
      "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
      "summary": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
      "source": "Space.com",
      "zh": "November full moon 2026: When, where and how to see the Beaver Moon"
+    },
+    {
+     "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+     "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
+     "summary": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
+     "source": "Space.com",
+     "zh": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers"
     },
     {
      "title": "NASA’s Neo Surveyor Sunshade",
@@ -1738,12 +1738,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "从黄蓉到许兰香：40年中国女人的集体潜意识变化有多大？",
+     "link": "https://www.huxiu.com/article/4901034.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 12:22:47 +0800",
+     "summary": "本文来自微信公众号： 蓝小姐和黄小姐 ，作者：黄佟佟，责任编辑：蕙子，原文标题：《专栏||从黄蓉到许兰香：40年中国女人的集体潜意识变化有多大？》 作为一个现实主义者，我对古偶剧的兴趣不大。 我记得上一部我追得如醉如痴的古偶还是1983年TVB的《射雕英雄传》，我真心爱上了小王爷，喜欢上黄蓉； 没想到人生的第二部让我如醉如痴的古偶居然是40年以后的《兰香如故》，因为我也真心爱上了林大爷，也喜欢上了兰香。 如果说，40年前我是借着《射雕英雄传》的来建构的我的世界观，那40年后，再度追剧的我，有点像一个有点年头的pH试纸，兰香的选择每每让我心里一咯噔的时候，我就对自己说：原来现在的女孩向往的世界是",
+     "source": "虎嗅",
+     "zh": "从黄蓉到许兰香：40年中国女人的集体潜意识变化有多大？"
+    },
+    {
+     "title": "跻身最赚钱游戏之列：微软 XBOX 确认《使命召唤》系列累计营收突破 400 亿美元",
+     "link": "https://www.ithome.com/1/018/880.htm",
+     "pubDate": "Wed, 28 Oct 2026 04:20:52 GMT",
+     "summary": "IT之家 10 月 28 日消息，问世至今近 23 年，《使命召唤》系列现已成长为游戏史上最赚钱的系列之一。 27 日凌晨，XBOX CEO 阿莎 · 夏尔马宣布，系列累计营收 突破 400 亿美元 （IT之家注：现汇率约合 2,672.42 亿元人民币） 。她谈到了《使命召唤：现代战争 4》的成功：“《现代战争 4》是《使命召唤》系列 24 年历史中最受赞誉的作品之一，整个系列的累计营收也达到 400 亿美元。这是一个了不起的里程碑。祝贺动视团队，也感谢一路支持我们的玩家。” 凭借 400 亿美元的累计营收，《使命召唤》正式跻身游戏史上最赚钱的系列之列，排在《马力欧》和《宝可梦》等重量级 I",
+     "source": "IT之家",
+     "zh": "跻身最赚钱游戏之列：微软 XBOX 确认《使命召唤》系列累计营收突破 400 亿美元"
+    },
+    {
      "title": "因非法获取并破解《崩坏：星穹铁道》测试版本内容，泄密人员被判赔偿米哈游 100 万元",
      "link": "https://www.ithome.com/1/018/879.htm",
      "pubDate": "Wed, 28 Oct 2026 04:19:03 GMT",
      "summary": "IT之家 10 月 28 日消息，米哈游法务部今日发文称，近日，米哈游旗下一起因不正当手段破解游戏测试版软件包、披露游戏未公开内容而引发的侵害商业秘密纠纷案件迎来一审判决，法院判决杨某、郭某立即停止侵害商业秘密的行为，在指定范围内发布声明、消除影响，连带赔偿经济损失及维权合理开支 100 万元，目前判决已生效。 本案认定，通过不正当手段获取游戏测试版本软件包、进行“解包”披露及建立平台进行传播的行为，构成商业秘密侵权。 事件回顾 此前米哈游法务部巡查发现，QQ 频道“咖啡森林”的运营者杨某，在社群内长期发布《崩坏：星穹铁道》未公开版本的软件测试包及使用教程，用户根据该教程进行下载搭建即可游玩游",
      "source": "IT之家",
      "zh": "因非法获取并破解《崩坏：星穹铁道》测试版本内容，泄密人员被判赔偿米哈游 100 万元"
+    },
+    {
+     "title": "豆包不如先做老年机",
+     "link": "https://www.tmtpost.com/8183800.html",
+     "pubDate": "Wed, 28 Oct 2026 12:17:17 +0800",
+     "summary": "老年群体是努比亚和豆包重合度相当高的消费群体",
+     "source": "钛媒体",
+     "zh": "豆包不如先做老年机"
+    },
+    {
+     "title": "连续上调指引，药明康德再次惊艳CXO",
+     "link": "https://www.tmtpost.com/8183760.html",
+     "pubDate": "Wed, 28 Oct 2026 12:17:12 +0800",
+     "summary": "连续上调指引，药明康德再次惊艳CXO",
+     "source": "钛媒体",
+     "zh": "连续上调指引，药明康德再次惊艳CXO"
     },
     {
      "title": "美国财长站台Crypto：稳定币是美元霸权的新武器，也是美债的新买家",
@@ -1754,12 +1786,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国财长站台Crypto：稳定币是美元霸权的新武器，也是美债的新买家"
     },
     {
-     "title": "Anthropic&apos;s S-1 implies a $40T+ annual TAM based the economic value of knowledge work in 2025, topping SpaceX&apos;s $28.5T estimate, without explicitly naming it (Wall Street Journal)",
+     "title": "Anthropic&apos;s S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX&apos;s $28.5T estimate, without explicitly naming it (Wall Street Journal)",
      "link": "https://www.techmeme.com/261028/p2#a261028p2",
      "pubDate": "Wed, 28 Oct 2026 00:15:47 -0400",
-     "summary": "Wall Street Journal : Anthropic's S-1 implies a $40T+ annual TAM based the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it &nbsp; &mdash;&nbsp; The company's estimated market opportunity, tied to the economic value of work produced by knowledg",
+     "summary": "Wall Street Journal : Anthropic's S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it &nbsp; &mdash;&nbsp; The company's estimated market opportunity, tied to the economic value of work produced by knowl",
      "source": "Techmeme",
-     "zh": "Anthropic&apos;s S-1 implies a $40T+ annual TAM based the economic value of knowledge work in 2025, topping SpaceX&apos;s $28.5T estimate, without explicitly naming it (Wall Street Journal)"
+     "zh": "Anthropic&apos;s S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX&apos;s $28.5T estimate, without explicitly naming it (Wall Street Journal)"
     },
     {
      "title": "被骂“降智”的AI短剧，靠40亿播放的《持械入宋》扳回一局",
@@ -1818,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move (Nikkei Asia)"
     },
     {
-     "title": "这个赛道融资，卷到天使前",
-     "link": "https://www.huxiu.com/article/4901025.html?f=rss",
-     "pubDate": "Wed, 28 Oct 2026 12:05:01 +0800",
-     "summary": "本文来自微信公众号： 小饭桌 ，作者：关注科技的，编辑：张丽娟 脑机接口早已不再是一个可以“先放着看看”的赛道了。 当下的脑机接口赛道，已经从“要不要看一眼”变成了“投进去没有”。 脑虎科技的7亿元B轮就是在这种氛围里刚刚落地的。不过这个数字放在今天的脑机接口赛道已经不算最炸的那一颗，更值得细看的是融资密度，这个赛道几乎每隔几周就有一个新名字冒出来，金额从数千万到数亿不等，轮次从种子轮到战略轮全线铺开。 过去13年脑机接口赛道总共融了93.7亿，这半年就干了72亿。之前是一年到头数不出几笔像样的交易，现在是项目太多、钱太多、尽调排期太满。 但钱的方向确实在变。2024年之前，出资方以高校背景基",
-     "source": "虎嗅",
-     "zh": "这个赛道融资，卷到天使前"
-    },
-    {
      "title": "豆包工作功能上新：支持将“录制电脑操作”保存为技能",
      "link": "https://www.ithome.com/1/018/860.htm",
      "pubDate": "Wed, 28 Oct 2026 04:00:26 GMT",
@@ -1840,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 28 日消息，索尼半导体解决方案今日宣布将推出面向智能手机主摄像头的 LYTIA 720 图像传感器。该产品 图像尺寸为 1/1.56\" ， 有效像素约为 50MP ，采用堆栈式结构，预计 11 月上旬量产出货。 LYTIA 720 搭载可将电荷高效转换为电压的 UHCG 电路技术， 相较此前的同规格产品 LYTIA 700 减半了暗光环境下产生的随机噪点 。 LYTIA 720 也是 LYTIA 系列中首款支持全像素自动对焦 4K 60fps HDR 视频拍摄的 1/1.56\" 图像尺寸、1μm 像素间距产品 。其通过 AD 转换电路，在降低传感器功耗的同时实现了该效果。",
      "source": "IT之家",
      "zh": "索尼推出手机主摄图像传感器 LYTIA 720，提升暗光及 HDR 视频拍摄表现"
-    },
-    {
-     "title": "多款主流固态硬盘 SSD 单周跌幅超过 10%，渠道报价明显松动",
-     "link": "https://www.ithome.com/1/018/843.htm",
-     "pubDate": "Wed, 28 Oct 2026 03:52:40 GMT",
-     "summary": "IT之家 10 月 28 日消息，“CFM 闪存市场”昨日（10 月 27 日）发布博文，报道称本周（10 月 26 日至 11 月 1 日）国内渠道市场固态硬盘 SSD 报价出现大面积、较大幅度下调， 多款主流容量产品单周跌幅超过 10%。 从最新渠道报价看，SSD 价格几乎全线回落： 120GB SATA SSD 报 15 美元 （IT之家注：现汇率约合 100.2 元人民币） ，本周环比下降 11.76%； 240GB SATA SSD 报 32 美元 （现汇率约合 213.8 元人民币） ，本周环比下降 11.11%； 256GB PCIe 3.0 SSD 报 33 美元 （现汇率约合",
-     "source": "IT之家",
-     "zh": "多款主流固态硬盘 SSD 单周跌幅超过 10%，渠道报价明显松动"
     },
     {
      "title": "The US FCC approves Amazon Leo&apos;s $11.5B acquisition of Globalstar, giving Amazon access to Globalstar&apos;s 24 satellites and mobile satellite spectrum (David Shepardson/Reuters)",
@@ -1906,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "Letter: two Democratic senators allege the Trump administration withheld a secret FISC ruling on search filters that let analysts access Americans&apos; messages (Dell Cameron/Wired)"
     },
     {
-     "title": "元保入选巴伦中国价值榜单：当AI开始接管咨询和理赔服务，保险中介的价值如何重估",
-     "link": "https://www.tmtpost.com/8184296.html",
-     "pubDate": "Wed, 28 Oct 2026 10:44:51 +0800",
-     "summary": "随着线上投保逐渐普及，互联网保险平台需要解决的问题更加具体，如何帮助消费者选择适合的产品，如何降低保险公司的获客和服务成本，如何让投保时承诺的保障在理赔环节得到兑现等问题都需要得到回应。",
-     "source": "钛媒体",
-     "zh": "元保入选巴伦中国价值榜单：当AI开始接管咨询和理赔服务，保险中介的价值如何重估"
-    },
-    {
      "title": "SK Hynix plans to return $22B+ in dividends and ~$15B in buybacks to shareholders, on top of its ~$30B buyback program completed in August (Kwanwoo Jun/Wall Street Journal)",
      "link": "https://www.techmeme.com/261027/p42#a261027p42",
      "pubDate": "Tue, 27 Oct 2026 22:30:47 -0400",
@@ -1922,18 +1930,10 @@ window.INDUSTRY_DATA = {
      "zh": "SK Hynix plans to return $22B+ in dividends and ~$15B in buybacks to shareholders, on top of its ~$30B buyback program completed in August (Kwanwoo Jun/Wall Street Journal)"
     },
     {
-     "title": "“史上最大IPO”来了：斯坦福博士后创立，半年收入1000亿",
-     "link": "https://www.tmtpost.com/8183599.html",
-     "pubDate": "Wed, 28 Oct 2026 10:28:16 +0800",
-     "summary": "这场上市更像一次算力与增长的长期对赌。",
-     "source": "钛媒体",
-     "zh": "“史上最大IPO”来了：斯坦福博士后创立，半年收入1000亿"
-    },
-    {
      "title": "Git for US Legislation",
      "link": "https://lexifina.com/blog/git-for-the-us-code",
      "pubDate": "Wed, 28 Oct 2026 01:47:50 +0000",
-     "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code Comments URL: https://news.ycombinator.com/item?id=50268380 Points: 86 # Comments: 40",
+     "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code Comments URL: https://news.ycombinator.com/item?id=50268380 Points: 100 # Comments: 44",
      "source": "Hacker News",
      "zh": "Git for US Legislation"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
      "link": "https://github.com/maharmstone/moxnox",
      "pubDate": "Tue, 27 Oct 2026 23:53:41 +0000",
-     "summary": "Article URL: https://github.com/maharmstone/moxnox Comments URL: https://news.ycombinator.com/item?id=50267569 Points: 27 # Comments: 3",
+     "summary": "Article URL: https://github.com/maharmstone/moxnox Comments URL: https://news.ycombinator.com/item?id=50267569 Points: 29 # Comments: 4",
      "source": "Hacker News",
      "zh": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
      "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
      "pubDate": "Tue, 27 Oct 2026 22:31:15 +0000",
-     "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 80 # Comments: 73",
+     "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 84 # Comments: 75",
      "source": "Hacker News",
      "zh": "Reviewers rarely talk about reliability. Owners bring it up twice as often"
     },
@@ -2314,12 +2314,44 @@ window.INDUSTRY_DATA = {
      "zh": "摩根大通：若AI驱动盈利持续，美股可承受10年期美债收益率升至5.5%-6.0%"
     },
     {
+     "title": "“易中天”携手大涨 AI硬件全线回暖！错杀机会正在出现？",
+     "link": "http://finance.eastmoney.com/news/11822,202610283911644074.html",
+     "pubDate": "Wed, 28 Oct 2026 11:58:58 +0800",
+     "summary": "10月28日，AI硬件方向显著反弹，CPO、 存储芯片 、 PCB 、 AI芯片 等概念板块齐走高，创业板指大涨3%，全市场近4500股上涨。 具体来看， 金安国纪 、 世运电路 、 光洋股份 、 盈方微 等早盘强势涨停，“易中天”携手大涨，其中， 中际旭创 涨近6.5%，半日成交额破120亿元， 联讯仪器 股价重返1000元上方， 杰普特 、 斯迪克 、 思瑞浦 等多股涨超10%。 多重催化共振 海外层面，今日最大引爆点来自 SK海力士 。最新财报显示，这家存储巨头第三季度营收达104.62万亿韩元， 史上首次单季突破100万亿韩元大关 ；营业利润83.33万亿韩元，同比激增631%；两项指",
+     "source": "东方财富资讯",
+     "zh": "“易中天”携手大涨 AI硬件全线回暖！错杀机会正在出现？"
+    },
+    {
+     "title": "China rushes to shore up struggling markets",
+     "link": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1",
+     "pubDate": "Wed, 28 Oct 2026 03:54:50 GMT",
+     "summary": "‘National team’ of funds and brokers buy stocks as investors turn away from AI trade",
+     "source": "Financial Times",
+     "zh": "China rushes to shore up struggling markets"
+    },
+    {
+     "title": "三季报集体报喜 PCB产业链板块爆发 龙头警告供需缺口或延续",
+     "link": "http://finance.eastmoney.com/news/1354,202610283911637216.html",
+     "pubDate": "Wed, 28 Oct 2026 11:46:26 +0800",
+     "summary": "今日上午， PCB 产业链集体走强。截至发稿， 金安国纪 一字涨停， 方正科技 、 世运电路 涨停， 南亚新材 、 鼎泰高科 等纷纷走高。 消息面上，昨日10只 PCB 产业链上市公司集体发布三季报，其中 南亚新材 、 金安国纪 第三季度净利增长超10倍： 南亚新材 公告称，公告称，第三季度营业收入为35.40亿元，同比增长160.62%；归属于上市公司股东的净利润为9.90亿元，同比增长1295.94%。 金安国纪 (002636.SZ)公告称，第三季度营业收入为31.45亿元，同比增长161.88%；归属于上市公司股东的净利润为11.58亿元，同比增长1030.57%。 此外，一些二线 P",
+     "source": "东方财富资讯",
+     "zh": "三季报集体报喜 PCB产业链板块爆发 龙头警告供需缺口或延续"
+    },
+    {
      "title": "国资联合领投脑虎科技7亿元B轮融资，脑机接口企业加码临床与量产",
      "link": "https://wallstreetcn.com/articles/3784642",
      "pubDate": "Wed, 28 Oct 2026 11:32:27 +0800",
      "summary": "脑机接口企业正加快推进临床注册和量产建设。 10月28日，脑虎科技宣布完成7亿元B轮融资，由国投聚力、深创投、勤智资本联合领投，中芯聚源、黄浦投资、基石资本、IDG资本等机构跟投，盛大、中平资本等机构继续支持。 本轮融资将用于脑虎科技全植入、全无线、全功能脑机接口系统的多中心注册临床试验及审批、超级工厂建设、下一代产品研发，以及脑机接口与AI融合。 脑虎科技已启动建设规划面积1.43万平方米的超级工厂，目标实现万套级产能，并计划在两年内推动产品在医疗市场规模化落地。 已启动多中心注册临床 脑虎科技成立于2021年，主要研发植入式柔性脑机接口系统。公司自主研发的全植入、全无线、全功能脑机接口系统",
      "source": "华尔街见闻",
      "zh": "国资联合领投脑虎科技7亿元B轮融资，脑机接口企业加码临床与量产"
+    },
+    {
+     "title": "创业板指上涨3% 全市场近4500股飘红 机器人产业链爆发",
+     "link": "http://finance.eastmoney.com/news/1345,202610283911629551.html",
+     "pubDate": "Wed, 28 Oct 2026 11:30:15 +0800",
+     "summary": "A股三大指数集体反弹，创业板指涨3%。盘面上， 减速器 、 机器人 执行器、人形 机器人 、 自动化设备 、 工业母机 、 航天装备、 PEEK材料概念 领涨， 白酒 、 银行 、 退税商店 、保险表现不佳，位于跌幅榜前列。 截至午间收盘，沪指上涨0.72%，报3674.44点；深成指上涨1.99%，报11470.03点；创业板指上涨3%，报2624.64点；科创50指数上涨2.51%，报1283.67点；北证50指数上涨1.32%，报943.98点。全市场上涨个股有4498家，下跌个股有916家，80只股涨停。两市半日合计成交10136亿。 今日要闻 上市满三个月！长鑫科技成上证指数和科创综",
+     "source": "东方财富资讯",
+     "zh": "创业板指上涨3% 全市场近4500股飘红 机器人产业链爆发"
     },
     {
      "title": "Anthropic全面杀入AI制药！收购“一人药企”，联手6大巨头，最新研发进度曝光",
@@ -2330,12 +2362,28 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic全面杀入AI制药！收购“一人药企”，联手6大巨头，最新研发进度曝光"
     },
     {
+     "title": "事关算力定价权！英伟达头号梦魇藏在Anthropic招股书中",
+     "link": "http://finance.eastmoney.com/news/1354,202610283911592082.html",
+     "pubDate": "Wed, 28 Oct 2026 11:23:06 +0800",
+     "summary": "美国顶尖AI实验室Anthropic正采用多款芯片来发展其业务—— 这一多元布局策略最终可能削弱 英伟达 在AI算力领域的主导地位 。 Anthropic在周一公布的S-1招股说明书中表示，其将来自多个战略合作伙伴的算力资源“整合为一个统一、可灵活调配的池”，并借助软件技术，根据各芯片在不同场景下的性能优势，灵活调配任务。 Anthropic表示，其用于训练Claude并提供相关服务的芯片共有四类，分别为 亚马逊 Trainium、谷歌TPU、 英伟达 GPU以及AMD GPU。 英伟达 定价权或受削弱 分析师指出， 这种灵活性可能使大型AI企业逐渐降低对英伟达的依赖，并增强其议价能力 。 “",
+     "source": "东方财富资讯",
+     "zh": "事关算力定价权！英伟达头号梦魇藏在Anthropic招股书中"
+    },
+    {
      "title": "我国交通运输经济运行总体平稳",
      "link": "http://www.eeo.com.cn/2026/1028/1077193.shtml",
      "pubDate": "Wed, 28 Oct 2026 11:16:01 +0800",
      "summary": "今年前三季度，我国交通运输经济运行总体平稳，完成交通固定资产投资2.4万亿元，其中公路、水运分别完成投资1.6万亿元、1571亿元，营业性货运量、港口货物吞吐量、跨区域人员流动量均实现同比增长，9月货运主要指标呈现积极回升态势。",
      "source": "经济观察网",
      "zh": "我国交通运输经济运行总体平稳"
+    },
+    {
+     "title": "SK海力士财报会实录：未来三年存储产能几近售罄 预计供需紧张延续至2030年",
+     "link": "http://stock.eastmoney.com/news/11228,202610283911580860.html",
+     "pubDate": "Wed, 28 Oct 2026 11:15:00 +0800",
+     "summary": "本周三， SK海力士 公布2026 年第三季度财报，公司单季营收首次突破100万亿韩元大关，营业利润、利润率双双刷新历史纪录。受益 AI 算力带动 HBM、服务器存储产品价格大涨，公司同时披露了总额100万亿韩元年度股东回报方案。 在问答环节， SK海力士 管理层就AI需求持续性、长期供货协议 (LTA)、产能过剩风险、HBM迭代与堆叠层数下调、下一代DRAM等市场热点问题作出回应。 SK海力士 总裁兼CEO郭鲁正在财报会上透露，截至目前，SK海力士已经和包含全球头部云服务商在内的14家核心客户签署长期协议（LTA）。已经敲定的LTA订单，叠加当前和客户正在磋商的需求，“未来三年直至2029年",
+     "source": "东方财富资讯",
+     "zh": "SK海力士财报会实录：未来三年存储产能几近售罄 预计供需紧张延续至2030年"
     },
     {
      "title": "2026年1—9月全国电力市场交易电量同比增长18.9%",
@@ -2360,6 +2408,14 @@ window.INDUSTRY_DATA = {
      "summary": "Rightwing politician and son of jailed ex-president Jair Bolsonaro arrived in Florida on Tuesday evening",
      "source": "Financial Times",
      "zh": "Bolsonaro lands in US after fleeing Brazil following election defeat"
+    },
+    {
+     "title": "批量涨停！人形机器人赛道全线爆发 宇树科技再上700元大关 背后有何硬逻辑？",
+     "link": "http://finance.eastmoney.com/news/11822,202610283911519786.html",
+     "pubDate": "Wed, 28 Oct 2026 10:58:17 +0800",
+     "summary": "10月28日，具身智能方向重拾强势。 豪恩汽电 、 安培龙 、 当虹科技 、 恒工精密 、 伟创电气 均20cm封板， 振邦智能 、 福莱新材 、 五洲新春 等十余股亦强势涨停， 上纬新材 、乔峰智能、 恒锋工具 等多股涨超10%， 宇树科技快速拉升，一度涨超10%，最高报709元/股 。 政策利好与产业催化共振 近期，人形 机器人 赛道成为市场“最靓的仔”，大脑、数据等细分领域表现尤为抢眼。 在政策端，上海市经信委昨日印发《上海市加快发展新一代智能制造行动方案》，提出研制推广物理AI装备，研制具备自主感知和决策能力的 机器人 、 工业母机 、检测装备等智能制造装备，以智能工厂建设需求推动装备",
+     "source": "东方财富资讯",
+     "zh": "批量涨停！人形机器人赛道全线爆发 宇树科技再上700元大关 背后有何硬逻辑？"
     },
     {
      "title": "Kimi为什么总在道歉？",
@@ -2416,62 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
      "source": "CNBC",
      "zh": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors"
-    },
-    {
-     "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-     "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-     "pubDate": "Wed, 28 Oct 2026 00:14:24 GMT",
-     "summary": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
-     "source": "CNBC",
-     "zh": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks"
-    },
-    {
-     "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
-     "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
-     "pubDate": "Tue, 27 Oct 2026 22:51:00 GMT",
-     "summary": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
-     "source": "MarketWatch",
-     "zh": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market"
-    },
-    {
-     "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-     "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-     "pubDate": "Tue, 27 Oct 2026 22:35:25 GMT",
-     "summary": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
-     "source": "CNBC",
-     "zh": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’"
-    },
-    {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "pubDate": "Tue, 27 Oct 2026 22:18:00 GMT",
-     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-     "source": "MarketWatch",
-     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-    },
-    {
-     "title": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
-     "link": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
-     "pubDate": "Tue, 27 Oct 2026 21:41:00 GMT",
-     "summary": "Now that investors have been able to dive further into Anthropic’s IPO filing, they’re seeing the same sorts of trends that helped buoy AI stocks for much of this year.",
-     "source": "MarketWatch",
-     "zh": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending"
-    },
-    {
-     "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
-     "link": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
-     "pubDate": "Tue, 27 Oct 2026 21:29:00 GMT",
-     "summary": "President Donald Trump can’t stop touting the fortunes U.S. energy companies have made during the Iran war, while canvassing the country to support Republican candidates ahead of next week’s midterm elections.",
-     "source": "MarketWatch",
-     "zh": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever"
-    },
-    {
-     "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
-     "link": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
-     "pubDate": "Tue, 27 Oct 2026 21:28:00 GMT",
-     "summary": "The artificial-intelligence trade carried the U.S. stock market in September. But in October, it is being carried out on a stretcher.",
-     "source": "MarketWatch",
-     "zh": "The rest of the market is leaving Big Tech behind after a historic comeback"
     }
    ]
   },

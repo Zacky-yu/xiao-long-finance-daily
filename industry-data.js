@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/28 13:37:38",
+ "generated_at": "2026/10/28 13:49:45",
  "recent_days": 7,
  "industries": [
   {
@@ -306,6 +306,14 @@ window.INDUSTRY_DATA = {
      "zh": "微软医疗 AI 在复杂病例中的准确率高达 80%"
     },
     {
+     "title": "Top Ten Q2 EV Vendors",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-q2-ev-vendors-2-2026-10/",
+     "pubDate": "Wed, 28 Oct 2026 01:01:49 +0000",
+     "summary": "Thanks to TrendForce for this one – the top ten EV vendors in Q2: The post Top Ten Q2 EV Vendors appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "第二季度电动汽车供应商前十名"
+    },
+    {
      "title": "Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies",
      "link": "https://www.eetimes.com/transitioning-legacy-aircraft-power-architectures-to-high-density-switching-supplies/",
      "pubDate": "Tue, 27 Oct 2026 23:00:00 +0000",
@@ -338,6 +346,14 @@ window.INDUSTRY_DATA = {
      "zh": "模拟叠加提高了有效 PCM 存储密度（IBM 欧洲研究院）"
     },
     {
+     "title": "Raspberry Pi emulates Apollo Command Module and Lunar Module",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/raspberry-pi-emulates-apollo-command-module-and-lunar-module-2026-10/",
+     "pubDate": "Tue, 27 Oct 2026 17:17:51 +0000",
+     "summary": "Thanks to the Raspberry Pi team highlighting this amazing project, which recreates an Apollo Command Module and Lunar Module using a Raspberry Pi. The post Raspberry Pi emulates Apollo Command Module and Lunar Module appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Raspberry Pi 模拟 Apollo 命令模块和登月舱"
+    },
+    {
      "title": "ChipAgents Expands AI Across Chip Design. The Test Is Faster, Verified Results",
      "link": "https://semiwiki.com/eda/chipagents-ai/375026-chipagents-expands-ai-across-chip-design-the-test-is-faster-verified-results/",
      "pubDate": "Tue, 27 Oct 2026 17:00:45 +0000",
@@ -346,12 +362,44 @@ window.INDUSTRY_DATA = {
      "zh": "ChipAgents 将人工智能扩展到芯片设计领域。测试速度更快，结果经过验证"
     },
     {
+     "title": "Announcing the finalists for Elektra Awards 2026",
+     "link": "https://www.electronicsweekly.com/news/elektra-awards-news/announcing-the-finalists-for-elektra-awards-2026-2026-10/",
+     "pubDate": "Tue, 27 Oct 2026 16:13:03 +0000",
+     "summary": "Electronics Weekly is proud to announce the finalists for this year’s Elektra Awards. You can view the full list of finalists across the Elektra categories on the dedicated Elektra website […] The post Announcing the finalists for Elektra Awards 2026 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "宣布 2026 年 Elektra 奖决赛入围者"
+    },
+    {
+     "title": "X-capacitor discharge IC for stringent standby, no-load requirements",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/x-capacitor-discharge-ic-for-stringent-standby-no-load-requirements-2026-10/",
+     "pubDate": "Tue, 27 Oct 2026 15:24:44 +0000",
+     "summary": "Power Integrations is expanding its CAPZero family of X-capacitor discharge ICs with the fourth-gen CAPZero-4 device, for industrial and consumer applications. The latest member of the CAPZero family reduces system […] The post X-capacitor discharge IC for stringent standby, no-load requirements app",
+     "source": "Electronics Weekly",
+     "zh": "X 电容器放电 IC，满足严格的待机、空载要求"
+    },
+    {
      "title": "Why Synopsys’ Role in AMD’s Instinct MI455X Matters for AI Infrastructure",
      "link": "https://semiwiki.com/eda/synopsys/375201-why-synopsys-role-in-amds-instinct-mi455x-matters-for-ai-infrastructure/",
      "pubDate": "Tue, 27 Oct 2026 15:00:14 +0000",
      "summary": "Synopsys’ collaboration with AMD on the Instinct MI455X GPU highlights a shift in how advanced AI processors are developed. Increasing performance depends on coordinating compute dies, memory interfaces, packaging, power delivery, and software. According to Synopsys’ announcement, AMD used its desig",
      "source": "SemiWiki",
      "zh": "为什么 Synopsys 在 AMD Instinct MI455X 中的作用对于人工智能基础设施至关重要"
+    },
+    {
+     "title": "CHIIPS #40 – CHIIPs with Michal Siwinski of Arteris",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-40-chiips-with-michal-siwinski-of-arteris-2026-10/",
+     "pubDate": "Tue, 27 Oct 2026 14:34:50 +0000",
+     "summary": "Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Michal Siwinski, the EVP, Chief Product and Marketing Officer, GM Security Solutions at Arteris. The post CHIIPS #40 – CHIIPs with Michal Siwinski of Arteris appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "CHIIPS #40 – 与 Arteris 的 Michal Siwinski 合作的 CHIIP"
+    },
+    {
+     "title": "Canaries Or Jitters?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/canaries-or-jitters-2026-10/",
+     "pubDate": "Tue, 27 Oct 2026 14:13:22 +0000",
+     "summary": "Canaries in the mine or wobbles in the bubble? Although Jensen remains bullish, Elon is getting bearish. “Debt markets have almost entirely shut off access to money for any company […] The post Canaries Or Jitters? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "金丝雀还是紧张？"
     },
     {
      "title": "CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "From lighter wiring to automated assembly, 48V architectures are reshaping vehicle connectivity and laying the groundwork for next generation mobility. The post Framing the Shift to 48V appeared first on EE Times .",
      "source": "EE Times",
      "zh": "转向 48V"
-    },
-    {
-     "title": "University of Illinois at Urbana-Champaign (UIUC) has achieved a record modulation bandwidth of 2.75GHz in a gallium nitride (GaN) blue micro-LED (Abdelghany Abouelnagga et a",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/uiuc-261026.shtml",
-     "pubDate": "Mon, 26 Oct 2026 09:47:10 GMT",
-     "summary": "University of Illinois at Urbana-Champaign (UIUC) has achieved a record modulation bandwidth of 2.75GHz in a gallium nitride (GaN) blue micro-LED (Abdelghany Abouelnagga et al...",
-     "source": "Semiconductor Today",
-     "zh": "伊利诺伊大学厄巴纳-香槟分校 (UIUC) 在氮化镓 (GaN) 蓝色 micro-LED 中实现了 2.75GHz 的创纪录调制带宽（Abdelghany Abouelnagga 等人）"
-    },
-    {
-     "title": "Palomino gains first commercial purchase order from strategic hyperscaler customer",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/palamino-261026.shtml",
-     "pubDate": "Mon, 26 Oct 2026 09:34:18 GMT",
-     "summary": "Artificial intelligence (AI) interconnect technology company Palomino Laboratories Inc of Goleta, CA, USA has received its first purchase order (PO) from a strategic hyperscaler customer. The PO includes a statement of work (SOW) for the delivery of high-performance gallium nitride (GaN) micro-LED c",
-     "source": "Semiconductor Today",
-     "zh": "Palomino 获得战略超大规模客户的第一份商业采购订单"
-    },
-    {
-     "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
-     "link": "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/",
-     "pubDate": "Mon, 26 Oct 2026 07:02:36 +0000",
-     "summary": "Researchers at imec published “Beyond HBM-on-GPU: Thermal Design Envelope for 3D Volumetric DRAM-on-GPU Integration.” Summary: Researchers evaluated a 3D memory architecture that rotates DRAM dies vertically above a GPU and places cooling cavities between them as an alternative to conventional 2.5D ",
-     "source": "Semiconductor Engineering",
-     "zh": "垂直 DRAM 堆叠将热设计空间扩展到 HBM-on-GPU (imec) 之外"
-    },
-    {
-     "title": "Large-Format Masks Move From Aspiration To Industry Roadmap",
-     "link": "https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/",
-     "pubDate": "Mon, 26 Oct 2026 07:02:08 +0000",
-     "summary": "Expert panel sees a compelling productivity case, but the entire photomask ecosystem must be ready together. The post Large-Format Masks Move From Aspiration To Industry Roadmap appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "大型口罩从愿望转变为行业路线图"
-    },
-    {
-     "title": "Testing Silicon Photonics At Scale",
-     "link": "https://semiengineering.com/testing-silicon-photonics-at-scale/",
-     "pubDate": "Mon, 26 Oct 2026 07:01:58 +0000",
-     "summary": "New test requirements include fiber alignment, coupling efficiency, polarization management, and optical instrumentation. The post Testing Silicon Photonics At Scale appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "大规模测试硅光子学"
-    },
-    {
-     "title": "From Chip Lab to Center Stage",
-     "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-     "pubDate": "Fri, 23 Oct 2026 18:00:03 +0000",
-     "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "从芯片实验室到舞台中央"
     }
    ]
   },
@@ -1282,6 +1282,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+     "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+     "pubDate": "Wed, 28 Oct 2026 05:39:46 +0000",
+     "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itse",
+     "source": "NASA",
+     "zh": "好奇心博客，Sols 5043-5049：准备在“纳斯卡”钻探"
+    },
+    {
      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
      "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
      "pubDate": "Wed, 28 Oct 2026 04:05:00 +0000",
@@ -1408,14 +1416,6 @@ window.INDUSTRY_DATA = {
      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentorin",
      "source": "NASA",
      "zh": "约翰逊导师如何塑造下一代 NASA 人才"
-    },
-    {
-     "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-     "pubDate": "Tue, 27 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
-     "source": "NASA",
-     "zh": "APOD：2026 年 10 月 27 日 – 瑞典上空的夜光云"
     },
     {
      "title": "Cowboy Space Reveals Big Iron Data Center Rocket",
@@ -1738,6 +1738,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "叮咚买菜，盒马鲜生们正在“蒸馏”锅圈食汇",
+     "link": "https://www.huxiu.com/article/4901050.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 13:43:23 +0800",
+     "summary": "本文来自微信公众号： 财观二姐 ，作者：二姐 最近两周，北方天气渐冷，又到了吃火锅的季节。 对喜欢吃火锅们的同志们来说，今年可是有福了，因为今年的火锅，相比往年要“新鲜”了不少。 因为随着线下供应链体系的越发完善，向来不动如山的中国商超们，开始了一场“新鲜风暴”。 尼尔森IQ的调研显示，大卖场超市生鲜占食杂开支超过55%，调改店生鲜占比从36%升至42%，鲜食从5%升至20%以上，在这些鲜食中火锅食材成了重头戏。 吃过火锅的都知道，食材足够“鲜”对吃火锅的体验提升是无与伦比的。 所以，消费者对“鲜”的热情也是肉眼可见的高。 今年三月，火锅食材同比增速达到25.9%，鲜切食材的增速明显快于传统冻",
+     "source": "虎嗅",
+     "zh": "叮咚买菜，盒马鲜生们正在“蒸馏”锅圈食汇"
+    },
+    {
+     "title": "奥斯卡定调：AI 只是工具，人类才是主角",
+     "link": "https://www.ithome.com/1/018/892.htm",
+     "pubDate": "Wed, 28 Oct 2026 05:41:56 GMT",
+     "summary": "IT之家 10 月 28 日消息，美国电影艺术与科学学院负责人明确表示， 即便人工智能（AI）深度进入电影制作流程，奥斯卡奖“始终”奖励由人类主导、体现人类创造力的作品。 在东京国际电影节期间接受 variety 采访时， 学院主席莱内特 · 豪厄尔 · 泰勒（Lynette Howell Taylor）表示 AI 早已进入视觉特效和后期制作，学院也会持续讨论其对评奖资格的影响。 IT之家援引博文介绍，泰勒强调，技术进步可以提升观众体验， 但作品的核心必须是“人类驱动的工作流程” 。她同时指出，版权、透明度和信息披露是学院在制定 AI 相关规则时必须正视的现实问题。该媒体解读认为 AI 可用于",
+     "source": "IT之家",
+     "zh": "奥斯卡定调：AI 只是工具，人类才是主角"
+    },
+    {
+     "title": "Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers as AI demand increasingly eats up production capacity (Nikkei Asia)",
+     "link": "https://www.techmeme.com/261028/p6#a261028p6",
+     "pubDate": "Wed, 28 Oct 2026 01:40:01 -0400",
+     "summary": "Nikkei Asia : Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers as AI demand increasingly eats up production capacity &nbsp; &mdash;&nbsp; TAIPEI &mdash; As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a ",
+     "source": "Techmeme",
+     "zh": "业内人士表示，随着人工智能需求日益消耗产能，PCB和芯片基板成为消费电子产品制造商的主要供应限制（日经亚洲）"
+    },
+    {
+     "title": "“喝大水”爆梗带飞大瓶装",
+     "link": "https://www.huxiu.com/article/4901048.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 13:35:05 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：赵晓娟 “秋天的第一杯奶茶凉了吗？听说年轻人都在喝大水。”一家卖场工作人员如此告诉界面新闻，并表示自家卖场10.1假期曾经策划过喝大水的活动。 “喝大水”一词源于抖音博主“长安二球（孙浩然）”在2026年9月底发布的短视频，其核心口号是“弱者喝饮料，强者喝大水”。10月初，相关二创内容登上抖音热榜，“全网进入大水时代”等话题随后扩散至微博等社交平台。 伴随话题走红，“喝大水、睡大觉、练薄肌”等带有调侃意味的口号也在社交平台流传。不少网友晒出随身携带大瓶水或使用大容量水杯的日常，将喝水变成一种打卡活动，进一步放大传播热度。 一位在上海工作的消费者对界面新闻",
+     "source": "虎嗅",
+     "zh": "“喝大水”爆梗带飞大瓶装"
+    },
+    {
+     "title": "从“T+0.5”到“T+0.25”，银行理财赎回时间“卷”到小时级",
+     "link": "https://www.huxiu.com/article/4901046.html?f=rss",
+     "pubDate": "Wed, 28 Oct 2026 13:34:36 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：冯丽君 各家银行理财子公司（下称“理财子”）在资金赎回上又“卷”出了新高度。 近日，中邮理财上线商户专属理财产品“灵活·鸿运日开23号D（商户专属）”“鸿运日开2号商户专属B”，能够以“T+0.25”倍速模式实现赎回资金于次日8:00前到账，比常规产品早3-5小时。 中邮理财表示，商户面对临时备货、账款结算等突发资金需求，发起赎回，资金快速回笼，可以大幅提升用款与周转效率。理财产品赎回申请提交成功后，赎回款项一般将于次日8:00前到账，受市场资金安排、系统处理节奏等因素影响，季末、节假日前后等少数情形下到账时点可能略有延后。 传统理财赎回，通常“T+1”",
+     "source": "虎嗅",
+     "zh": "从“T+0.5”到“T+0.25”，银行理财赎回时间“卷”到小时级"
+    },
+    {
      "title": "蓝 / 红色三星 W27 心系天下折叠手机渲染图曝光，明日发布",
      "link": "https://www.ithome.com/1/018/891.htm",
      "pubDate": "Wed, 28 Oct 2026 05:31:32 GMT",
@@ -1752,6 +1792,14 @@ window.INDUSTRY_DATA = {
      "summary": "Reuters : Sources: CXMT plans to start HBM3E production despite yields of just 20% to 30%; its HBM3E performance is closer to that of SK Hynix's previous-gen HBM3 chips &nbsp; &mdash;&nbsp; China's CXMT plans to start production of HBM3E, an advanced type of high-bandwidth memory chip used with AI p",
      "source": "Techmeme",
      "zh": "资料来源：长鑫存储计划开始 HBM3E 生产，尽管产量仅为 20% 至 30%；其 HBM3E 性能更接近 SK Hynix 的上一代 HBM3 芯片（路透社）"
+    },
+    {
+     "title": "AI的“时薪”，正在超越“打工人”的身价",
+     "link": "https://www.tmtpost.com/8183987.html",
+     "pubDate": "Wed, 28 Oct 2026 13:26:14 +0800",
+     "summary": "凭“薪”而论，现在国内外的顶级AI，已经战胜了绝大多数的人类员工。",
+     "source": "钛媒体",
+     "zh": "AI的“时薪”，正在超越“打工人”的身价"
     },
     {
      "title": "Anthropic 也在给云厂商打工",
@@ -1792,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "腾讯的钱，不在用户时长里。",
      "source": "钛媒体",
      "zh": "绿泡泡反攻，AI办公突围，腾讯被低估了"
-    },
-    {
-     "title": "7 美元控住 50.1% 投票权：Anthropic的真实面目",
-     "link": "https://www.tmtpost.com/8183945.html",
-     "pubDate": "Wed, 28 Oct 2026 13:25:50 +0800",
-     "summary": "万亿美元招股书里的五个反常识细节",
-     "source": "钛媒体",
-     "zh": "7 美元控住 50.1% 投票权：Anthropic的真实面目"
     },
     {
      "title": "研究警示电子烟损伤心肺功能，专家称绝非无害替代品",
@@ -1858,14 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "LG 电子 2026 财年前三季度归母净利润 2.15 万亿韩元，同比增长 20%"
     },
     {
-     "title": "LG Promo Codes and Coupons for October 2026",
-     "link": "https://www.wired.com/story/lg-promo-code/",
-     "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
-     "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-     "source": "WIRED",
-     "zh": "2026 年 10 月 LG 促销代码和优惠券"
-    },
-    {
      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
      "link": "https://www.wired.com/story/google-workspace-promo-code/",
      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
@@ -1906,20 +1938,20 @@ window.INDUSTRY_DATA = {
      "zh": "NordVPN 优惠券：2026 年 10 月 75% 折扣，另加 3 个月免费"
     },
     {
+     "title": "Disney Plus Discount Codes: 52% Off October 2026",
+     "link": "https://www.wired.com/story/disney-plus-discounts/",
+     "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
+     "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+     "source": "WIRED",
+     "zh": "Disney Plus 折扣代码：2026 年 10 月 52% 折扣"
+    },
+    {
      "title": "大师雕塑家鲜为人知的游乐场遗产",
      "link": "https://www.huxiu.com/article/4901042.html?f=rss",
      "pubDate": "Wed, 28 Oct 2026 12:59:14 +0800",
      "summary": "本文来自微信公众号： CITY来不 ，作者：游乐场里的 乍看之下，亚特兰大的野口勇游乐场显得有些原始，与如今家庭熟悉的滑梯、攀爬架等户外游乐设施相比，尤其如此。远远望去，这位20世纪艺术家野口勇设计的游乐设施似乎不过是一些巨大无比的几何形状和立体方块。但走近细看就会发现，他巧妙地将滑梯、秋千等传统游乐设施融入极简的几何造型之中。 公园中央有一个半球形的半圆体，孩子们可以在上面打滚、弹跳、跳舞，也可以在上面画画。远看像圆柱体的装置，实际上将螺旋楼梯与螺旋滑梯合二为一，形似钻头，也像一座观景塔。野口勇设计的另一种组合则把反向阶梯与滑梯结合起来，看上去就像一个巨大的混凝土肉桂卷。 “这东西真是有点奇",
      "source": "虎嗅",
      "zh": "大师雕塑家鲜为人知的游乐场遗产"
-    },
-    {
-     "title": "小鹏集团副总裁顾捷：IRON 机器人固态电池已小批量量产",
-     "link": "https://www.ithome.com/1/018/884.htm",
-     "pubDate": "Wed, 28 Oct 2026 04:54:30 GMT",
-     "summary": "IT之家 10 月 28 日消息，综合第一财经、新浪汽车报道，小鹏集团副总裁顾捷在今日的 SAECCE 年会上表示， 小鹏 IRON 机器人固态电池已小批量量产下线 ，机器人目前处于 SOP（标准作业程序）前的阶段。 顾捷表示，小鹏已首发机器人专用固态电池，受制于机器人空间要求，小鹏机器人固态电池采用高能量密度设计，并重构电池标准，采用防热失控扩散设计，能经受冲击、针刺贯穿等考验。 9 月 8 日，小鹏机器人生产线正式启用，全球首位高阶通用人形机器人完成自动化总装，自主走下产线亮相，标志着小鹏机器人完成从研发试制到产线制造的关键跨越， 向规模量产迈出重要一步 。 根据计划，小鹏将在 2026 ",
-     "source": "IT之家",
-     "zh": "小鹏集团副总裁顾捷：IRON 机器人固态电池已小批量量产"
     },
     {
      "title": "谁在批量制造“国企”？",
@@ -1938,44 +1970,12 @@ window.INDUSTRY_DATA = {
      "zh": "资料来源：富士胶片计划将磁带产能增加五倍，以满足人工智能驱动的存储需求，这是约 20 年来最大的产能扩张（日经亚洲）"
     },
     {
-     "title": "微软要一刀裁掉大半个Meta，Copilot沦为重灾区",
-     "link": "https://www.huxiu.com/article/4901039.html?f=rss",
-     "pubDate": "Wed, 28 Oct 2026 12:39:27 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 微软开始掏钱请员工主动考虑离职。 约6万人有资格接受这份邀请，超过公司全球员工的四分之一。 这次不用等到临近退休，也不要求绩效不好。符合条件的员工可以拿着补偿，在年底离开公司。颇有点迫不及待想多甩掉一些人的感觉。 连微软寄予厚望的Copilot团队，也在覆盖范围内。遥想今年春天，其他部门暂停招聘的时候，Copilot团队还在招人。 微软仍然很能挣钱，过去一个财年净利润达到1337亿美元。但随着AI投入扩大，公司预计2026年的资本开支将达到约1750亿美元，外界因此把这轮离职计划与控制成本、为AI投资腾挪资金联系起来。 微软掏钱，请你考虑离职 在",
-     "source": "虎嗅",
-     "zh": "微软要一刀裁掉大半个Meta，Copilot沦为重灾区"
-    },
-    {
-     "title": "香港93岁婆婆遭外佣虐待离世，背后细节曝光，我看得心里发凉……",
-     "link": "https://www.huxiu.com/article/4901037.html?f=rss",
-     "pubDate": "Wed, 28 Oct 2026 12:31:17 +0800",
-     "summary": "本文来自微信公众号： 香港体验官 ，作者：编辑部小猪里，原文标题：《香港93岁婆婆遭外佣虐待离世！背后细节曝光，我看得心里发凉……》 前不久，香港发生了一起外佣虐杀老人的恶性案件，相信不少朋友都有所耳闻。 监控里短短几分钟的暴力画面，刺痛了全港市民的心。 案发地 （图：香港01） 大家纷纷谴责施暴外佣冷血残忍，可深挖整件事的来龙去脉，我却看到了悲剧之下被掩盖的现实矛盾： 一边是独居长者无人照料，一边是照护者长期高压、身心濒临崩溃。 （图：香港01） 这场惨剧，不止是人性之殇，更是香港老龄化社会下，居家安老制度的现存问题。 狭小居所内，矛盾日积月累终至爆发 93岁的关阿婆命运孤苦，没有子女陪伴，",
-     "source": "虎嗅",
-     "zh": "香港93岁婆婆遭外佣虐待离世，背后细节曝光，我看得心里发凉……"
-    },
-    {
-     "title": "涌进中小学的机器人草台班子",
-     "link": "https://www.huxiu.com/article/4901035.html?f=rss",
-     "pubDate": "Wed, 28 Oct 2026 12:31:01 +0800",
-     "summary": "本文来自微信公众号： 脑极体 ，作者：珊瑚 表妹就读的高中在去年秋天引进了两台人形机器人，一台搁在教学楼大厅做迎宾，一台在科技节上跳过一段舞。学校公众号发过推文，标题里带着“科技感拉满”，照片里机器人披着红色绶带，旁边围了一圈好奇的面孔。三个月后，表妹对这两台铁家伙的评价只剩一句：“笨笨的，动作迟缓还挡路。” 走廊不算宽，课间上百人涌出来，机器人杵在拐角，移动迟缓、避障迟钝。学生们起初还围着看，后来便改成了绕道走。“高峰期是我们避让它，很耽误抢饭的时间。”表妹说，“有一回一个男生跑得太急差点撞上去，机器人也只是僵硬地挪动了一下”。 这件事不免让人感到荒诞，一台被寄予“科技启蒙”厚望的机器在日常",
-     "source": "虎嗅",
-     "zh": "涌进中小学的机器人草台班子"
-    },
-    {
      "title": "Anthropic&apos;s S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX&apos;s $28.5T estimate, without explicitly naming it (Wall Street Journal)",
      "link": "https://www.techmeme.com/261028/p2#a261028p2",
      "pubDate": "Wed, 28 Oct 2026 00:15:47 -0400",
      "summary": "Wall Street Journal : Anthropic's S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it &nbsp; &mdash;&nbsp; The company's estimated market opportunity, tied to the economic value of work produced by knowl",
      "source": "Techmeme",
      "zh": "Anthropic 的 S-1 意味着基于 2025 年知识工作的经济价值，每年 TAM 超过 40T+，超过 SpaceX 的 28.5T 估计，但没有明确指出（华尔街日报）"
-    },
-    {
-     "title": "Sources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move (Nikkei Asia)",
-     "link": "https://www.techmeme.com/261028/p1#a261028p1",
-     "pubDate": "Wed, 28 Oct 2026 00:10:01 -0400",
-     "summary": "Nikkei Asia : Sources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move &nbsp; &mdash;&nbsp; TAIPEI &mdash; Leading PC makers, including HP of the U.S. and Asus and Acer of Taiwan, are combating soa",
-     "source": "Techmeme",
-     "zh": "资料来源：由于零部件成本上涨，惠普、华硕和宏碁正在将部分个人电脑生产从泰国和越南转移回中国；戴尔正在考虑采取类似举措（日经亚洲）"
     }
    ]
   },
@@ -1985,6 +1985,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola’s big US flagship comeback could come with an even bigger price tag",
+     "link": "https://www.androidauthority.com/motorola-signature-27-razr-flex-27-price-leak-3728825/",
+     "pubDate": "Wed, 28 Oct 2026 05:41:04 +0000",
+     "summary": "One price raises eyebrows. The other raises questions.",
+     "source": "Android Authority",
+     "zh": "摩托罗拉美国旗舰卷土重来可能会带来更高的价格"
+    },
     {
      "title": "Here's when the vivo X500 series could launch in India",
      "link": "https://www.gsmarena.com/heres_when_the_vivo_x500_series_could_launch_in_india-news-75233.php",
@@ -2194,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "摩托罗拉 Signature 27 和 Razr Flex 出现在欧洲零售商并公布价格"
     },
     {
-     "title": "Pixel phones are still missing alarms, turning anxiety dreams into reality",
-     "link": "https://www.androidauthority.com/google-pixel-alarm-bug-3728689/",
-     "pubDate": "Tue, 27 Oct 2026 21:06:43 +0000",
-     "summary": "Users report missed morning wake-ups, Google steps in to investigate.",
-     "source": "Android Authority",
-     "zh": "Pixel 手机仍然缺少闹钟，将焦虑梦想变成现实"
-    },
-    {
      "title": "The Sideload 049: The death of the browser",
      "link": "https://9to5google.com/2026/10/27/the-sideload-049-the-death-of-the-browser/",
      "pubDate": "Tue, 27 Oct 2026 20:30:00 +0000",
@@ -2233,6 +2233,54 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "百纳千成10月28日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610283911744041.html",
+     "pubDate": "Wed, 28 Oct 2026 13:45:33 +0800",
+     "summary": "以下是 百纳千成 在北京时间10月28日13:45分盘口异动快照： 10月28日13点45分， 百纳千成 盘中打开涨停，现报6.18元，成交7.85亿元，换手率14.78%。该股之前于13点45分涨停。 分笔 13:45:24 6.18 6497↓ 13:45:21 6.24 5142↓ 13:45:18 6.24 10098↑ 13:45:15 6.23 3967↑ 13:45:12 6.22 3669↑ 13:45:09 6.24 7441↑ 13:45:06 6.19 315↓ 13:45:03 6.19 1343↑ 13:45:00 6.19 1171↑ 13:44:57 6.18 9",
+     "source": "东方财富股票",
+     "zh": "百纳千成10月28日打开涨停"
+    },
+    {
+     "title": "百纳千成10月28日盘中涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610283911743748.html",
+     "pubDate": "Wed, 28 Oct 2026 13:45:25 +0800",
+     "summary": "以下是 百纳千成 在北京时间10月28日13:45分盘口异动快照： 10月28日13点45分， 百纳千成 盘中涨停，报6.24元，目前封单15361手，折合958.53万元。截至目前，成交7.78亿元，换手率14.65%。 分笔 13:45:18 6.24 10098↑ 13:45:15 6.23 3967↑ 13:45:12 6.22 3669↑ 13:45:09 6.24 7441↑ 13:45:06 6.19 315↓ 13:45:03 6.19 1343↑ 13:45:00 6.19 1171↑ 13:44:57 6.18 94↓ 13:44:54 6.19 1359↓ 13:44:5",
+     "source": "东方财富股票",
+     "zh": "百纳千成10月28日盘中涨停"
+    },
+    {
+     "title": "金奥博10月28日盘中涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610283911743180.html",
+     "pubDate": "Wed, 28 Oct 2026 13:44:47 +0800",
+     "summary": "以下是 金奥博 在北京时间10月28日13:44分盘口异动快照： 10月28日13点44分， 金奥博 盘中涨停，报11.66元，目前封单144508手，折合1.68亿元。截至目前，成交3.02亿元，换手率10.42%。 分笔 13:44:36 11.66 21559↑ 13:44:33 11.61 124↓ 13:44:30 11.62 397↓ 13:44:27 11.63 126↑ 13:44:24 11.60 138↓ 13:44:21 11.62 460↑ 13:44:18 11.61 139↓ 13:44:15 11.62 84↑ 13:44:12 11.62 241↑ 13:44:",
+     "source": "东方财富股票",
+     "zh": "金奥博10月28日盘中涨停"
+    },
+    {
+     "title": "三态股份10月28日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610283911742968.html",
+     "pubDate": "Wed, 28 Oct 2026 13:44:37 +0800",
+     "summary": "以下是 三态股份 在北京时间10月28日13:44分盘口异动快照： 10月28日， 三态股份 盘中涨幅达5%，截至13点44分，报6.84元，成交4707.08万元，换手率0.90%。 分笔 13:44:30 6.84 54↑ 13:44:27 6.83 332↑ 13:44:24 6.82 167↓ 13:44:21 6.82 2828↑ 13:44:18 6.80 30↑ 13:44:15 6.80 34↑ 13:44:12 6.79 123↓ 13:44:09 6.80 105↑ 13:44:06 6.80 10↑ 13:44:03 6.80 418↑ 报价 卖五 6.88 648 卖四",
+     "source": "东方财富股票",
+     "zh": "三态股份10月28日盘中涨幅达5%"
+    },
+    {
+     "title": "*ST香雪10月28日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610283911742869.html",
+     "pubDate": "Wed, 28 Oct 2026 13:44:37 +0800",
+     "summary": "以下是 *ST香雪 在北京时间10月28日13:44分盘口异动快照： 10月28日， *ST香雪 盘中快速上涨，5分钟内涨幅超过2%，截至13点44分，报5.02元，成交1.21亿元，换手率3.90%。 分笔 13:44:27 5.02 189↑ 13:44:24 5.01 375↑ 13:44:21 5.00 458↑ 13:44:18 4.99 343↓ 13:44:15 4.99 308↑ 13:44:12 4.99 180↑ 13:44:09 4.99 83↑ 13:44:06 4.98 236↑ 13:44:03 4.98 334↑ 13:44:00 4.98 35↑ 报价 卖五 5",
+     "source": "东方财富股票",
+     "zh": "*ST香雪10月28日快速上涨"
+    },
+    {
+     "title": "6天翻倍股，外资机构抢筹",
+     "link": "http://finance.eastmoney.com/news/1354,202610283911742210.html",
+     "pubDate": "Wed, 28 Oct 2026 13:44:35 +0800",
+     "summary": "受物理AI概念催化， 凡拓数创 （301313）近期走出一轮强势行情，10月19日至10月26日，短短6个交易日股价翻倍，其间三度“20cm”涨停。 10月27日晚， 凡拓数创 披露的三季报显示， 巴克莱 银行 、 摩根大通 、瑞银、 高盛 国际四家QFII机构于三季度集体新进公司前十大流通股东名单。 具体而言，三季度末， 巴克莱 银行 （BARCLAYS BANK PLC）持有 凡拓数创 203.96万股，占流通股比例为2.59%； 摩根大通 （J.P.Morgan Securities PLC）持有101.75万股，占比1.29%；瑞银（UBS AG）持有100.79万股，占比1.28%；",
+     "source": "东方财富股票",
+     "zh": "6天翻倍股，外资机构抢筹"
+    },
     {
      "title": "JPMorgan to lead Anthropic's U.S. retail IPO offering - report",
      "link": "https://seekingalpha.com/news/4658624-jpmorgan-to-lead-anthropics-us-retail-ipo-offering---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2282,14 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "Meta 和 Google 支持的 Jio Platform 股价在创纪录的 IPO 后首次交易时飙升超过 21%"
     },
     {
-     "title": "部分年金、保险、公募基金等机构近日加大买入力度",
-     "link": "http://finance.eastmoney.com/news/1345,202610283911697357.html",
-     "pubDate": "Wed, 28 Oct 2026 13:15:44 +0800",
-     "summary": "记者获悉，当前投资机构普遍认为A股市场出现超调，部分年金、保险、公募基金等机构已加大买入力度。 相关报道 A股超跌了吗？多家券商首席集体研判 A股出现哪些新信号？ 近期，A股在三季度业绩密集披露与外部扰动交织的背景下延续震荡。围绕当前市场是否超跌、能否企稳，多家券商分析师给出各自判断。 有资深机构分析师认为，在情绪宣泄等因素影响下，当前市场明显超调，估值已具备较好的中长期性价比，现在正是合适的布局时机。比如，当前深证成指、创业板指已较6月高点回撤30%和40%，估值降至近十年45%和17%分位的合理甚至偏低水平，具有超跌特征，同时，可以看到正在披露的科技行业三季报业绩总体向好，投资的安全边际较",
-     "source": "东方财富资讯",
-     "zh": "部分年金、保险、公募基金等机构近日加大买入力度"
-    },
-    {
      "title": "伟伟道来 | 如果美以伊战火重燃，大概是什么时间",
      "link": "http://www.eeo.com.cn/2026/1028/1077369.shtml",
      "pubDate": "Wed, 28 Oct 2026 13:11:00 +0800",
@@ -2320,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Edison Lithium 计划私募高达 190 万美元"
-    },
-    {
-     "title": "波斯湾突传大消息！",
-     "link": "http://futures.eastmoney.com/news/11233,202610283911687314.html",
-     "pubDate": "Wed, 28 Oct 2026 13:05:00 +0800",
-     "summary": "中东局势新变数！ 据华尔街日报报道，知情人士透露称，美国已要求几个海湾阿拉伯国家为美国中期选举后可能发生的一场“短暂而猛烈”的军事行动做好准备。在此消息披露之后，国际油价再度直线拉升，纽油已突破101美元，布油再度突破110美元。 此前，CNN曾报道，一旦特朗普下令，美军可在96小时内展开行动。部署细节显示，美国正从德州调运一套爱国者防空系统强化导弹防御，同时将部分部队撤出易受攻击基地、补充区域弹药库存。轰炸机与战机进入待命状态。另一个航母打击群与陆战队远征部队预计下月驰援中东，中东地区内已有约20艘军舰执行任务。 伊朗海军称，霍尔木兹海峡目前处于危险状态，禁止任何未经协调而擅自通过的船只通行",
-     "source": "东方财富资讯",
-     "zh": "波斯湾突传大消息！"
     },
     {
      "title": "Britain needs a coherent economic strategy — can Healey deliver one?",
@@ -2370,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "芯片制造商 SK Hynix 股价因第三季度利润超预期上涨 8%，并计划支付 25B 美元"
     },
     {
-     "title": "目标上涨空间超100% 23只硬科技股上榜（附名单）",
-     "link": "http://stock.eastmoney.com/news/11134,202610283911662164.html",
-     "pubDate": "Wed, 28 Oct 2026 12:19:04 +0800",
-     "summary": "科技股能否反弹？ 近期科技股出现剧烈调整，两大科创指数7月以来均跌超40%。随着市场调整，科技股估值也进入相对低位阶段。数据显示，创业板指数市盈率已跌破30倍大关，处于历史百分位的8%以下；科创50指数当前滚动市盈率较高，但机构一致预测2027年市盈率已跌至42倍左右。 华金证券指出，短期底部可能已显现，A股可能震荡，长期慢牛趋势不变。该机构建议短期逢低配置：一是政策和产业趋势向上且超跌的 电子 （ 半导体 、AI硬件）、 通信 （AI硬件）、 有色金属 等；二是券商、消费等低估值蓝筹行业。 东方证券 表示，随着宽基ETF持续流入，流动性问题将有好转，因此不必对流动性问题过度恐慌。其次，全球风",
-     "source": "东方财富资讯",
-     "zh": "目标上涨空间超100% 23只硬科技股上榜（附名单）"
-    },
-    {
      "title": "大摩“量化团队”：AI芯片股还没跌完，建议“逢反弹减仓”",
      "link": "https://wallstreetcn.com/articles/3784627",
      "pubDate": "Wed, 28 Oct 2026 12:07:09 +0800",
@@ -2400,30 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "利率环境正在重塑美股格局。但摩根大通认为，只要盈利增长保持强劲，当前利率水平不足以压垮股市。 10月27日，据追风交易台消息，摩根大通发布的主题研究报告，美联储政策预期已从降息转向加息，市场正在为\"更长时间的更高利率\"重新定价。标普500指数年内仍录得约12%的涨幅，背后是远超预期的盈利增长——2026年和2027年EPS预计分别增长约28%和22%。 该行策略师Dubravko Lakos-Bujas等人指出， 10年期美债收益率与标普500市盈率之间存在\"倒U形\"关系：若当前超过20%的远期EPS增长预测得以实现，历史表明市场有能力消化10年期收益率升至约5.5%-6.0%的水平。 股市能",
      "source": "华尔街见闻",
      "zh": "摩根大通：若AI驱动盈利持续，美股可承受10年期美债收益率升至5.5%-6.0%"
-    },
-    {
-     "title": "内外利好共振！商业航天大涨 潜在规模近2万亿",
-     "link": "http://finance.eastmoney.com/news/11139,202610283911649731.html",
-     "pubDate": "Wed, 28 Oct 2026 12:03:06 +0800",
-     "summary": "周三 商业航天 (10月28日) 概念大涨 ，截至午间收盘， 德恩精工 20CM涨停 ， 电科蓝天 、 立中集团 等涨超10%。 海内外利好共振 消息面上，海外卫星直连终端业务迎来新进展。据《每日经济新闻》援引《Via Satellite》10月7日报道，美国联邦 通信 委员会（FCC）已批准 SpaceX 部署 1.5万颗非地球同步轨道卫星 ，为卫星直连终端及移动卫星服务提供支持。卫星 通信 向大众移动连接场景拓展，芯片、模组、终端与星地融合网络等产业环节的关注度提升。 据央视新闻，国内卫星 通信 应用完成极区验证。我国国产卫星系统在中秋节期间 首次实现跨越南北极的视频通话 ，延时不超过1秒",
-     "source": "东方财富资讯",
-     "zh": "内外利好共振！商业航天大涨 潜在规模近2万亿"
-    },
-    {
-     "title": "“易中天”携手大涨 AI硬件全线回暖！错杀机会正在出现？",
-     "link": "http://finance.eastmoney.com/news/11822,202610283911644074.html",
-     "pubDate": "Wed, 28 Oct 2026 11:58:58 +0800",
-     "summary": "10月28日，AI硬件方向显著反弹，CPO、 存储芯片 、 PCB 、 AI芯片 等概念板块齐走高，创业板指大涨3%，全市场近4500股上涨。 具体来看， 金安国纪 、 世运电路 、 光洋股份 、 盈方微 等早盘强势涨停，“易中天”携手大涨，其中， 中际旭创 涨近6.5%，半日成交额破120亿元， 联讯仪器 股价重返1000元上方， 杰普特 、 斯迪克 、 思瑞浦 等多股涨超10%。 多重催化共振 海外层面，今日最大引爆点来自 SK海力士 。最新财报显示，这家存储巨头第三季度营收达104.62万亿韩元， 史上首次单季突破100万亿韩元大关 ；营业利润83.33万亿韩元，同比激增631%；两项指",
-     "source": "东方财富资讯",
-     "zh": "“易中天”携手大涨 AI硬件全线回暖！错杀机会正在出现？"
-    },
-    {
-     "title": "三季报集体报喜 PCB产业链板块爆发 龙头警告供需缺口或延续",
-     "link": "http://finance.eastmoney.com/news/1354,202610283911637216.html",
-     "pubDate": "Wed, 28 Oct 2026 11:46:26 +0800",
-     "summary": "今日上午， PCB 产业链集体走强。截至发稿， 金安国纪 一字涨停， 方正科技 、 世运电路 涨停， 南亚新材 、 鼎泰高科 等纷纷走高。 消息面上，昨日10只 PCB 产业链上市公司集体发布三季报，其中 南亚新材 、 金安国纪 第三季度净利增长超10倍： 南亚新材 公告称，公告称，第三季度营业收入为35.40亿元，同比增长160.62%；归属于上市公司股东的净利润为9.90亿元，同比增长1295.94%。 金安国纪 (002636.SZ)公告称，第三季度营业收入为31.45亿元，同比增长161.88%；归属于上市公司股东的净利润为11.58亿元，同比增长1030.57%。 此外，一些二线 P",
-     "source": "东方财富资讯",
-     "zh": "三季报集体报喜 PCB产业链板块爆发 龙头警告供需缺口或延续"
     },
     {
      "title": "国资联合领投脑虎科技7亿元B轮融资，脑机接口企业加码临床与量产",

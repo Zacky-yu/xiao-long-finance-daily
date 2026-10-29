@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/29 14:34:00",
+ "generated_at": "2026/10/29 14:49:43",
  "recent_days": 7,
  "industries": [
   {
@@ -1737,28 +1737,84 @@
    "total": 18,
    "items": [
     {
-     "title": "Claude Code 2.1.311 上线新环境变量，AI 智能体删文件可以不再问你",
-     "link": "https://www.ithome.com/1/019/476.htm",
-     "pubDate": "Thu, 29 Oct 2026 06:32:52 GMT",
-     "summary": "IT之家 10 月 29 日消息，科技媒体 The Register 昨日（10 月 28 日）发布博文，报道称在 v2.1.311 版 Claude Code 中，Anthropic 加入新的环境变量， 用户启用后 AI 智能体执行删除文件等操作时，可以不再逐次征求用户批准。 该环境变量全称为 CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS ，直译为“更加危险地跳过权限检查”。 Anthropic 技术人员 Daisy Hollman 解释，原有的“危险地跳过权限检查”选项并非放行所有操作，系统仍会拦截某些明显危险的指令，例如递归强制删除",
+     "title": "谷歌向第三方 Android 应用商店开放“一键安装”权限，年审核费 1 万美元",
+     "link": "https://www.ithome.com/1/019/518.htm",
+     "pubDate": "Thu, 29 Oct 2026 06:48:32 GMT",
+     "summary": "IT之家 10 月 29 日消息，谷歌现已允许第三方 Android 应用商店申请“一键安装”权限。启用后可实现点一下安装 App 和后台自动更新。 据介绍，第三方 Android 应用商店开发者若想申请这种权限，必须向谷歌提交完整的应用目录，以及此后发布的每一款应用和更新，以便谷歌持续进行恶意软件扫描。获批的应用商店将从 12 月 1 日起支持这项功能，但只支持 Android 17 QPR2 及更高版本、处于美国以外地区的设备。 同时， 第三方应用商店必须在每次安装前取得用户明确同意 ，且不得在未经用户同意的情况下静默安装应用。对于大型下载和后台安装任务， 商店必须提供明显可见的通知 。如",
      "source": "IT之家",
-     "zh": "Claude Code 2.1.311 上线新环境变量，AI 智能体删文件可以不再问你"
+     "zh": "谷歌向第三方 Android 应用商店开放“一键安装”权限，年审核费 1 万美元"
     },
     {
-     "title": "威刚 2026 财年前三季度报归母净利润 325.46 亿新台币",
-     "link": "https://www.ithome.com/1/019/472.htm",
-     "pubDate": "Thu, 29 Oct 2026 06:31:34 GMT",
-     "summary": "IT之家 10 月 29 日消息，威刚今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：1172.36 亿新台币 （IT之家注：现汇率约合 241.39 亿元人民币） 毛利润 ：496.15 亿新台币 （现汇率约合 102.16 亿元人民币） 毛利率 ：42.32% 归母净利润 ：325.46 亿新台币 （现汇率约合 67.01 亿元人民币） 基本每股收益 ：101.47 新台币 （现汇率约合 20.89 元人民币） 资产负债率 ：65.53% AI 解读 威刚 2026 年前三季累计营收达 1",
+     "title": "AI 冲击初级编程岗位需求，美高校计算机专业入学人数大幅下滑",
+     "link": "https://www.ithome.com/1/019/516.htm",
+     "pubDate": "Thu, 29 Oct 2026 06:46:39 GMT",
+     "summary": "IT之家 10 月 29 日消息，据彭博社报道，今年秋季，美国高校的计算机与信息科学专业出现了学生大量流失的情况，本科项目入学人数下滑超 12%，研究生项目入学人数降幅超过 10%。 美国全国学生信息交换中心当地时间周四发布的秋季入学初步数据显示，这一降幅是去年下跌趋势的延续，此前计算机科学专业多年保持招生增长。 近些年人工智能兴起，企业削减大量初级编程岗位，计算机科学专业毕业生的求职难度有所上升。美国劳工统计局 8 月发布的一份报告认为，计算机与数学相关岗位受到人工智能的冲击最为明显。 仅仅两年时间里，美国计算机科学本科项目的在读学生减少了 18.4%，研究生项目的在读学生减少 27.1%。",
      "source": "IT之家",
-     "zh": "威刚 2026 财年前三季度报归母净利润 325.46 亿新台币"
+     "zh": "AI 冲击初级编程岗位需求，美高校计算机专业入学人数大幅下滑"
     },
     {
-     "title": "南方电网与华为签署全面深化战略合作协议，聚焦电碳算协同、电力鸿蒙等领域",
-     "link": "https://www.ithome.com/1/019/463.htm",
-     "pubDate": "Thu, 29 Oct 2026 06:29:00 GMT",
-     "summary": "IT之家 10 月 29 日消息，华为官方今日宣布，10 月 27 日，南方电网公司与华为在深圳签署全面深化战略合作协议。南方电网公司董事长、党组书记钱朝阳与华为副董事长、轮值董事长汪涛一行举行工作会谈，并共同见证签约。 根据规划，双方将面向新型能源体系、新型电力系统和新型电网建设，以及“六网”（水网、新型电网、算力网、新一代通信网、城市地下管网、物流网）协同发展需求， 围绕电碳算协同、人工智能应用、电力鸿蒙、产业生态构建等领域深化合作 。 参考IT之家此前报道，早在 2023 年，南方电网及开放原子开源基金会共同主办、南方电网数字电网研究院有限公司承办、华为技术有限公司协办的“电鸿物联操作系",
+     "title": "超 10 万次折叠屏幕和铰链仍然完好：CNET 测试苹果首款折叠 iPhone Duo 耐用性",
+     "link": "https://www.ithome.com/1/019/515.htm",
+     "pubDate": "Thu, 29 Oct 2026 06:45:52 GMT",
+     "summary": "IT之家 10 月 29 日消息，科技媒体 CNET 昨日（10 月 28 日）发布博文，宣布在折叠耐用性测试中， 苹果首款折叠 iPhone Duo 累计折叠次数已突破 10 万次，目前该手机折叠功能一切正常。 本次折叠耐用性测试已进入第三天，CNET 团队采用从常规零售渠道购入的 iPhone Duo 测试，测试在美国肯塔基州路易斯维尔的 CNET 实验室进行，使用自制机械装置“Fold-a-Phone”，反复完成手机展开与闭合动作。 测试过程通过 CNET 的 YouTube 频道直播，观众不仅可以观看手机反复开合，还能在聊天室向编辑提问。除铰链能坚持多久外，团队也提出了另一项观察问题：",
      "source": "IT之家",
-     "zh": "南方电网与华为签署全面深化战略合作协议，聚焦电碳算协同、电力鸿蒙等领域"
+     "zh": "超 10 万次折叠屏幕和铰链仍然完好：CNET 测试苹果首款折叠 iPhone Duo 耐用性"
+    },
+    {
+     "title": "How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat&apos;s speed filter, sparked social media&apos;s legal reckoning over user safety (Olivia Carville/Bloomberg)",
+     "link": "https://www.techmeme.com/261029/p11#a261029p11",
+     "pubDate": "Thu, 29 Oct 2026 02:45:01 -0400",
+     "summary": "Olivia Carville / Bloomberg : How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat's speed filter, sparked social media's legal reckoning over user safety &nbsp; &mdash;&nbsp; The rain had only just let up when the night shift ended at the Bay Breeze Seafood Restaurant in",
+     "source": "Techmeme",
+     "zh": "2016 年，梅纳德诉 Snapchat 诉讼案与涉及 Snapchat 速度过滤器的车祸有关，如何引发社交媒体对用户安全的法律反思（Olivia Carville/彭博社）"
+    },
+    {
+     "title": "乐扩推出 PR51RX3 扩展卡：PCIe Gen4 ×1，提供 USB、RJ-45、SATA",
+     "link": "https://www.ithome.com/1/019/514.htm",
+     "pubDate": "Thu, 29 Oct 2026 06:44:49 GMT",
+     "summary": "IT之家 10 月 29 日消息，乐扩 (Lekuo) 现已推出 PCIe AIC 新品 PR51RX3。这一扩展卡基于瑞昱 RTL9151 芯片，上行采用 PCIe Gen4 ×1， 下行则能拓展出 USB、RJ-45 有线网口、SATA 。 该扩展卡长 110mm、高 68mm、宽 1 槽，I/O 面板提供 1 个 2.5GbE RJ-45、2 个 USB-C 10Gbps、1 个 USB-A 5Gbps，尾部则有 1 组 USB-A 5Gbps 一分二接针、4 个 SATA III (6Gbps) 接口，各个下行 I/O 智能分配带宽。 IT之家了解到，乐扩 PR51RX3 扩展卡 售价",
+     "source": "IT之家",
+     "zh": "乐扩推出 PR51RX3 扩展卡：PCIe Gen4 ×1，提供 USB、RJ-45、SATA"
+    },
+    {
+     "title": "小米 MiMo Desktop 会员权益升级：额度加量不加价、新增 DeepSeek 等第三方模型",
+     "link": "https://www.ithome.com/1/019/502.htm",
+     "pubDate": "Thu, 29 Oct 2026 06:41:31 GMT",
+     "summary": "IT之家 10 月 29 日消息，小米 MiMo 官方今日宣布，Xiaomi MiMo Desktop 会员权益升级。 会员额度提升 为提升大家的使用体验，我们 显著上调了会员用户的总体额度 ， 加量不加价 。该调整实时生效，对现有会员及后续新会员订阅均适用。 新增多款第三方模型 会员用户不再只能选择 MiMo 模型。我们 为会员用户优选了一批三方模型 ，例如 DeepSeek 系列。各模型均标注消耗倍率，大家可以按需自行权衡使用。退出桌面客户端后重新进入，即可看到最新模型列表。 此外，小米 MiMo 称也在持续优化基础体验，首 token 延迟和服务稳定性等方面已有显著改善，后续还会继续打磨",
+     "source": "IT之家",
+     "zh": "小米 MiMo Desktop 会员权益升级：额度加量不加价、新增 DeepSeek 等第三方模型"
+    },
+    {
+     "title": "欧盟石油进口账单飙升",
+     "link": "https://www.huxiu.com/article/4901394.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 14:40:47 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：周子意 受到中东紧张局势的影响，欧洲国家今年的石油进口支出大幅增加。消费者已面临汽柴油价格的上涨。如今，欧盟的进口账单显示了成本上升的惊人幅度。 数据显示，2026年第二季度，欧盟每月平均在石油进口上花费276亿欧元，较2025年的每月177亿欧元增长了55.8%。这意味着欧盟每月多支付了99亿欧元。 但是石油进口量几乎保持不变，仅从2025年的每月3630万吨增至3670万吨，增幅为1.2%。 支出不断攀升 其中主要原因在于原油价格上涨。二季度，每吨进口石油的成本从487欧元上升至750欧元，重回2022年的峰值水平。 相比之下，2025年年底每吨成本为",
+     "source": "虎嗅",
+     "zh": "欧盟石油进口账单飙升"
+    },
+    {
+     "title": "STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est. (Reuters)",
+     "link": "https://www.techmeme.com/261029/p10#a261029p10",
+     "pubDate": "Thu, 29 Oct 2026 02:40:01 -0400",
+     "summary": "Reuters : STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est. &nbsp; &mdash;&nbsp; STMicroelectronics (STMPA.PA) reported a third-quarter operating profit above market expectations on Thursday ",
+     "source": "Techmeme",
+     "zh": "STMicro 报告第三季度收入同比增长 17.9% 至 $3.76B，营业收入同比增长 98% 至 $4.29 亿美元，预期为 4.005 亿美元，并预测第四季度收入为 $4.15B，预期为 $4.10B。 (路透社)"
+    },
+    {
+     "title": "张一鸣又造出一个国民级APP",
+     "link": "https://www.huxiu.com/article/4901393.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 14:39:40 +0800",
+     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 谁能想到，曾经被不少人嫌弃“又土又俗”的短剧，如今已经成了互联网大厂争夺用户时间的重要战场。 10月29日，一组关于红果短剧的数据引发关注。 QuestMobile数据显示，2026年5月，红果短剧月活跃用户达到3.56亿；7月日活跃用户达到1.68亿，同比增长107%，甚至超过腾讯视频、爱奇艺、优酷、芒果TV四家长视频平台的日活之和。 ←左右滑动阅读→ 数据来自QuestMobile 2026年短剧营销行业报告 还有一项数据很夸张：按照用户总使用时长计算，红果已经排到中国移动互联网第四位，仅次于抖音、微信和抖音极速版。 前三名是两个短视频",
+     "source": "虎嗅",
+     "zh": "张一鸣又造出一个国民级APP"
+    },
+    {
+     "title": "大众集团 2026 财年前三季度归母亏损 20.74 亿欧元，同比由盈转亏",
+     "link": "https://www.ithome.com/1/019/490.htm",
+     "pubDate": "Thu, 29 Oct 2026 06:37:51 GMT",
+     "summary": "IT之家 10 月 29 日消息，大众集团今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：2333.78 亿欧元 （IT之家注：现汇率约合 1.74 万亿元人民币） ，同比下降 2.22% 毛利润 ：332.94 亿欧元 （现汇率约合 2476.16 亿元人民币） ，同比下降 9.15% 毛利率 ：14.3%，同比下降 1.1 个百分点 归母净利润 ：-20.74 亿欧元 （现汇率约合 -154.25 亿元人民币）",
+     "source": "IT之家",
+     "zh": "大众集团 2026 财年前三季度归母亏损 20.74 亿欧元，同比由盈转亏"
     },
     {
      "title": "时代变了，谁都不想要“中国互联网用户时长第一”这个头衔",
@@ -1767,14 +1823,6 @@
      "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培 字节跳动某副总裁与某自媒体大佬之间的争论，在我的朋友圈刷屏了，并且引发了一系列媒体报道。如果你还没看过来龙去脉，那我试着总结一下： 正方：野村证券发了个报告，说字节系应用占据了中国互联网用户时长的41.8%，实在不可思议，字节跳动太强了！ 反方：不对啊，原报告说的是“在头部应用的用户时长当中占41.8%”，没有考虑大量长尾应用，也没有考虑PC端的时间，高估了字节系的实力。 正方：不管怎么说，字节跳动还是很强，哪怕把你说的那些都考虑起来，还是不折不扣的用户时长老大。 反方：错了，腾讯才是老大！如果把腾讯持股的“腾讯系”应用加起来，用户时",
      "source": "虎嗅",
      "zh": "时代变了，谁都不想要“中国互联网用户时长第一”这个头衔"
-    },
-    {
-     "title": "钞能力？应对数据中心周边扰民投诉，SpaceXAI 直接买下当地住宅",
-     "link": "https://www.ithome.com/1/019/442.htm",
-     "pubDate": "Thu, 29 Oct 2026 06:15:41 GMT",
-     "summary": "IT之家 10 月 29 日消息，据英国《卫报》报道，SpaceXAI 计划收购美国密西西比州绍斯黑文市一座燃气轮机发电厂附近的住宅，但业主必须 同意放弃针对公司的噪音集体诉讼索赔权 ，才能出售房屋。 该发电厂负责为 SpaceXAI 的数据中心供电。SpaceXAI 计划 收购 418 套住宅 ，至少 18 名业主同意出售。公司尚未确认上述数字，也未透露收购后的社区规划。 收购工作由 SpaceXAI 子公司 MZX Tech LLC 负责。2026 年 7 月，马斯克旗下 AI 和航天业务合并至 SpaceX，xAI 随后更名为 SpaceXAI，合并后的企业估值达 2 万亿美元 （IT之",
-     "source": "IT之家",
-     "zh": "钞能力？应对数据中心周边扰民投诉，SpaceXAI 直接买下当地住宅"
     },
     {
      "title": "A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent&apos;s AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy (Bloomberg)",
@@ -1817,22 +1865,6 @@
      "zh": "热点｜道歉算什么，得让他们觉得疼：低成本冒犯的时代，该结束了"
     },
     {
-     "title": "苹果 iPhone Duo 折叠屏手机国内首销期销量曝光，接近 20 万台",
-     "link": "https://www.ithome.com/1/019/439.htm",
-     "pubDate": "Thu, 29 Oct 2026 06:09:46 GMT",
-     "summary": "IT之家 10 月 29 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，iPhone Duo 首销期的 SO（销量） 接近 200K（20 万） 。 首销期：首销日 + 后三天 iPhone Duo 首销期的 SO 接近 200K PS：第三方数据源，仅供参考。 据IT之家此前报道，苹果在 2026 年秋季发布会上 发布了旗下首款折叠屏手机 iPhone Duo ，10 月 23 日正式发售， 售价 15,999 元起 。 iPhone Duo 采用可折叠设计，配备了苹果迄今面积最大的 iPhone 显示屏。展开状态下，它是迄今最薄的 iPhone，内置显示屏面积比 iPho",
-     "source": "IT之家",
-     "zh": "苹果 iPhone Duo 折叠屏手机国内首销期销量曝光，接近 20 万台"
-    },
-    {
-     "title": "大模型全产业链梳理：真正昂贵的部分，才刚刚开始",
-     "link": "https://www.huxiu.com/article/4901384.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 14:07:34 +0800",
-     "summary": "本文来自微信公众号： 正经社 ，作者：智者正叔 大模型行业最容易制造的一种错觉是：模型越来越多，API价格越来越低，AI就应当成为一门轻资产、高毛利的软件生意。 现实恰好相反。模型能力扩散得越快，算力、能源、云渠道、数据治理和组织改造越成为无法绕开的硬成本。 智能正在商品化，但把智能可靠地交付到业务里，依然是一门重生意。 这也是理解大模型全产业链的关键。上游是芯片、服务器、网络、电力和数据中心，中游是云平台与基础模型，下游是应用、智能体和行业服务。 它们并不是简单地依次分享同一块蛋糕，而是在争夺三种不同的权力：稀缺资源的定价权、客户入口的分配权，以及最终工作结果的定义权。 因此，正经社分析师认",
-     "source": "虎嗅",
-     "zh": "大模型全产业链梳理：真正昂贵的部分，才刚刚开始"
-    },
-    {
      "title": "Bluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was \"shared without their authorization\" (Wired)",
      "link": "https://www.techmeme.com/261029/p8#a261029p8",
      "pubDate": "Thu, 29 Oct 2026 02:05:01 -0400",
@@ -1849,28 +1881,12 @@
      "zh": "国家学生信息交换所：由于人工智能减少了编码工作，今年秋季美国计算机科学本科生入学率下降了 12% 以上，研究生入学率下降了 10% 以上（Elizabeth Rembert/Bloomberg）"
     },
     {
-     "title": "谷歌重夺大模型第一，华尔街却不买账",
-     "link": "https://www.huxiu.com/article/4901379.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 14:01:23 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜黄天媛 编辑｜苗正卿 头图｜AI生成 谷歌刚刚拿回大模型排行榜第一，却没能换来华尔街的掌声。 北京时间10月29日凌晨，谷歌发布新一代旗舰模型Gemini 4 Carbon，离曾短暂登顶的上一款旗舰模型Argon向用户发布，仅过去15天。 Carbon主要面向长时间运行的复杂工程任务，重点提升了编程、Agent持续执行任务以及网络安全防御等能力。API价格延续了Argon的首发优惠，输入为每百万Token 2美元，输出为10美元，缓存命中价格低至0.1美元。 在第三方评测机构Artificial Analysis最新公布的Intelligence Index v5.0榜",
-     "source": "虎嗅",
-     "zh": "谷歌重夺大模型第一，华尔街却不买账"
-    },
-    {
      "title": "靠平替干翻大牌，年入超1600亿，“性价比之王”却要抛弃打工人？",
      "link": "https://www.tmtpost.com/8185965.html",
      "pubDate": "Thu, 29 Oct 2026 13:58:01 +0800",
      "summary": "逆势涨价，消费者也在重新算账。",
      "source": "钛媒体",
      "zh": "靠平替干翻大牌，年入超1600亿，“性价比之王”却要抛弃打工人？"
-    },
-    {
-     "title": "友达 2026Q3 出现 25 亿新台币归母净亏损，单季营收同比环比双降",
-     "link": "https://www.ithome.com/1/019/428.htm",
-     "pubDate": "Thu, 29 Oct 2026 05:42:30 GMT",
-     "summary": "IT之家 10 月 29 日消息，友达 (AUO) 今日发布 2026Q3 及 2026Q1~Q3 财务数据： 2026Q3 营业总收入 ：668.8 亿新台币，同比 -4.3%，环比 -5.7% 毛利率 ：10.1% 营业净利润 ：-23.7 亿新台币 营业利润率 ：-3.5% 归母净利润 ：-25 亿新台币，同比扩大 95.31% 基本每股收益 ：-0.33 新台币 2026Q1~Q3 营业总收入 ：2067.98 亿新台币，同比增长 2.1% 毛利润 ：242.13 亿新台币 净利润 ：241.40 亿新台币 归母净利润 ：-22.95 亿新台币，同比由盈转亏 基本每股收益 ：-0.3 ",
-     "source": "IT之家",
-     "zh": "友达 2026Q3 出现 25 亿新台币归母净亏损，单季营收同比环比双降"
     },
     {
      "title": "Google announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows (Lauren Forristal/TechCrunch)",
@@ -1887,22 +1903,6 @@
      "summary": "从一份盈利改善的三季报，到山西路上一个热气腾腾的未来空间，苏宁易购正以主动求变求新的姿态“踏准节奏”更“带动节奏”，在AI驱动的智能消费升级浪潮中打开新的想象空间。",
      "source": "钛媒体",
      "zh": "Suning NEXT首店亮相，新店打造AI消费新入口"
-    },
-    {
-     "title": "Samsung shares fall as much as 6.6% as a lack of a new shareholder return plan, higher capex, and its chip unit&apos;s profit miss weigh on investor sentiment (Bloomberg)",
-     "link": "https://www.techmeme.com/261029/p5#a261029p5",
-     "pubDate": "Thu, 29 Oct 2026 01:25:02 -0400",
-     "summary": "Bloomberg : Samsung shares fall as much as 6.6% as a lack of a new shareholder return plan, higher capex, and its chip unit's profit miss weigh on investor sentiment &nbsp; &mdash;&nbsp; Samsung Electronics Co. shares reversed earlier gains to slide as much as 6.6% as the lack of a new shareholder r",
-     "source": "Techmeme",
-     "zh": "三星股价下跌 6.6%，原因是缺乏新的股东回报计划、资本支出增加以及芯片部门的利润未达标，打压了投资者情绪（彭博社）"
-    },
-    {
-     "title": "Samsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers (Bloomberg)",
-     "link": "https://www.techmeme.com/261029/p4#a261029p4",
-     "pubDate": "Thu, 29 Oct 2026 01:20:01 -0400",
-     "summary": "Bloomberg : Samsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers &nbsp; &mdash;&nbsp; Samsung Electronics Co. plans to hike spending more than 60% this year after selling out of high-end chips for 2027",
-     "source": "Techmeme",
-     "zh": "三星预计今年资本支出将增长约 60% 至约 $63B，HBM 产能将在 2027 年售完，并与主要客户达成 10 项长期供应协议（彭博社）"
     },
     {
      "title": "红杉、弘毅先后押注，这家纳米硅公司把产能做到百吨级",
@@ -1929,6 +1929,22 @@
      "zh": "“喝大水”带火大瓶装，能带着瓶装水突围吗？"
     },
     {
+     "title": "Govee Discount Codes and Deals: 30% Off",
+     "link": "https://www.wired.com/story/govee-discount-code/",
+     "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
+     "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
+     "source": "WIRED",
+     "zh": "Govee 折扣代码和优惠：30% 折扣"
+    },
+    {
+     "title": "NZXT Discount Codes: 50% Off in November 2026",
+     "link": "https://www.wired.com/story/nzxt-discount-code/",
+     "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
+     "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+     "source": "WIRED",
+     "zh": "NZXT 折扣代码：2026 年 11 月 50% 折扣"
+    },
+    {
      "title": "Norton Coupon Codes: Up to 58% Off",
      "link": "https://www.wired.com/story/norton-coupon-code/",
      "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
@@ -1951,22 +1967,6 @@
      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
      "source": "WIRED",
      "zh": "环形耳塞折扣代码：40% 折扣"
-    },
-    {
-     "title": "NZXT Discount Codes: 50% Off in November 2026",
-     "link": "https://www.wired.com/story/nzxt-discount-code/",
-     "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
-     "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
-     "source": "WIRED",
-     "zh": "NZXT 折扣代码：2026 年 11 月 50% 折扣"
-    },
-    {
-     "title": "Govee Discount Codes and Deals: 30% Off",
-     "link": "https://www.wired.com/story/govee-discount-code/",
-     "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
-     "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
-     "source": "WIRED",
-     "zh": "Govee 折扣代码和优惠：30% 折扣"
     },
     {
      "title": "Dermstore Coupons: 25% Off for November 2026",
@@ -2233,52 +2233,100 @@
    "total": 13,
    "items": [
     {
-     "title": "Boot Barn outlines fiscal 2027 outlook with $2.6B sales target and plans to open 75 to 80 new stores",
-     "link": "https://seekingalpha.com/news/4659885-boot-barn-outlines-fiscal-2027-outlook-with-2_6b-sales-target-and-plans-to-open-75-to-80-new?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:30:57 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Boot Barn 概述了 2027 财年展望，销售目标为 2.6B 美元，并计划开设 75 至 80 家新店"
+     "title": "桂发祥10月29日打开跌停",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913901732.html",
+     "pubDate": "Thu, 29 Oct 2026 14:43:21 +0800",
+     "summary": "以下是 桂发祥 在北京时间10月29日14:43分盘口异动快照： 10月29日14点43分， 桂发祥 盘中打开跌停，现报9.33元，成交3.86亿元，换手率19.60%。该股之前于14点42分跌停。 分笔 14:43:15 9.33 189↑ 14:43:12 9.32 225↓ 14:43:09 9.32 130↓ 14:43:06 9.32 102↑ 14:43:03 9.32 191↑ 14:43:00 9.32 268↑ 14:42:57 9.32 88↓ 14:42:54 9.32 636↓ 14:42:51 9.33 1489↑ 14:42:48 9.33 750↑ 报价 卖五 9",
+     "source": "东方财富股票",
+     "zh": "桂发祥10月29日打开跌停"
     },
     {
-     "title": "Gbank Financial outlines fintech roadmap with Terribles going live in early November as Lucky Loads targets Q2 next year launch",
-     "link": "https://seekingalpha.com/news/4659884-gbank-financial-outlines-fintech-roadmap-with-terribles-going-live-in-early-november-as-lucky?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:30:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gbank Financial 概述了金融科技路线图，Terribles 将于 11 月初上线，Lucky Loads 目标于明年第二季度推出"
+     "title": "桂发祥10月29日盘中跌停",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913900949.html",
+     "pubDate": "Thu, 29 Oct 2026 14:43:02 +0800",
+     "summary": "以下是 桂发祥 在北京时间10月29日14:42分盘口异动快照： 10月29日14点42分， 桂发祥 盘中跌停，报9.32元，目前封单70手，折合6.52万元。截至目前，成交3.85亿元，换手率19.55%。 分笔 14:42:57 9.32 88↓ 14:42:54 9.32 636↓ 14:42:51 9.33 1489↑ 14:42:48 9.33 750↑ 14:42:45 9.32 1030↓ 14:42:42 9.32 438↓ 14:42:39 9.32 470↓ 14:42:36 9.32 162↓ 14:42:33 9.32 646↓ 14:42:30 9.33 706↓ 报",
+     "source": "东方财富股票",
+     "zh": "桂发祥10月29日盘中跌停"
     },
     {
-     "title": "ConMed forecasts 2026 adjusted EPS of $4.54 to $4.61 as it tightens organic growth outlook to 5% to 5.5%",
-     "link": "https://seekingalpha.com/news/4659883-conmed-forecasts-2026-adjusted-eps-of-4_54-to-4_61-as-it-tightens-organic-growth-outlook-to-5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:30:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ConMed 预测 2026 年调整后每股收益为 4.54 美元至 4.61 美元，因为它将有机增长前景收紧至 5% 至 5.5%"
+     "title": "宇晶股份10月29日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913900263.html",
+     "pubDate": "Thu, 29 Oct 2026 14:42:39 +0800",
+     "summary": "以下是 宇晶股份 在北京时间10月29日14:42分盘口异动快照： 10月29日14点42分， 宇晶股份 盘中打开涨停，现报27.5元，成交8.29亿元，换手率16.64%。该股之前于13点0分涨停。 分笔 14:42:30 27.50 3823↓ 14:42:27 27.62 1244↓ 14:42:24 27.62 1459↓ 14:42:21 27.62 261↓ 14:42:18 27.62 402↓ 14:42:15 27.62 1259↓ 14:42:12 27.62 2752↓ 14:42:09 27.62 2236↓ 14:42:06 27.62 334↓ 14:42:03 2",
+     "source": "东方财富股票",
+     "zh": "宇晶股份10月29日打开涨停"
     },
     {
-     "title": "Aker BP GAAP EPS of $1.56, revenue of $3.87B; reaffirms FY 2026 outlook",
-     "link": "https://seekingalpha.com/news/4659881-aker-bp-gaap-eps-of-156-revenue-of-387b-reaffirms-fy-2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:24:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Aker BP GAAP EPS 为 $1.56，收入为 $3.87B；重申 2026 财年展望"
+     "title": "东阳光10月29日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913899876.html",
+     "pubDate": "Thu, 29 Oct 2026 14:42:26 +0800",
+     "summary": "以下是 东阳光 在北京时间10月29日14:42分盘口异动快照： 10月29日， 东阳光 盘中快速反弹，5分钟内涨幅超过2%，截至14点42分，报24.99元，成交5.99亿元，换手率0.80%。 分笔 14:42:20 24.99 165↑ 14:42:17 24.96 317↑ 14:42:14 24.93 269↑ 14:42:11 24.92 543↑ 14:42:08 24.91 169↓ 14:42:05 24.91 561↑ 14:42:02 24.90 101↑ 14:41:59 24.89 388↓ 14:41:56 24.90 500↑ 14:41:53 24.86 344",
+     "source": "东方财富股票",
+     "zh": "东阳光10月29日快速反弹"
     },
     {
-     "title": "CoreWeave, neocloud stocks drop after Microsoft capex misses estimates",
-     "link": "https://seekingalpha.com/news/4659874-coreweave-neocloud-stocks-drop-after-microsoft-capex-misses-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:21:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "微软资本支出低于预期后 CoreWeave 和 Neocloud 股价下跌"
+     "title": "10月29日肉制品板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913897516.html",
+     "pubDate": "Thu, 29 Oct 2026 14:41:47 +0800",
+     "summary": "&emsp;&emsp;10月29日14点41分， 肉制品 板块指数报2297.615点，跌幅达2%，成交6.12亿元，换手率1.17%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： ST龙大 报1.73元，跌6.99%； 华统股份 报7.42元，跌2.88%； 金字火腿 报5.82元，跌1.52%； 广弘控股 报4.56元，跌1.51%； 光明肉业 报5.07元，跌1.36%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月29日肉制品板块跌幅达2%"
     },
     {
-     "title": "Komatsu reports 1H results",
-     "link": "https://seekingalpha.com/news/4659880-komatsu-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:19:45 -0400",
+     "title": "*ST发展10月29日盘中跌停",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913896157.html",
+     "pubDate": "Thu, 29 Oct 2026 14:41:14 +0800",
+     "summary": "以下是 *ST发展 在北京时间10月29日14:41分盘口异动快照： 10月29日14点41分， *ST发展 盘中跌停，报1.57元，目前封单5123手，折合80.43万元。截至目前，成交4465.73万元，换手率2.50%。 分笔 14:41:09 1.57 587↓ 14:41:06 1.57 1805↓ 14:40:54 1.57 60↓ 14:40:51 1.57 306↓ 14:40:45 1.57 73↓ 14:40:39 1.57 37↓ 14:40:30 1.57 3000↓ 14:40:24 1.57 5↓ 14:40:21 1.58 1089↑ 14:40:18 1.58 ",
+     "source": "东方财富股票",
+     "zh": "*ST发展10月29日盘中跌停"
+    },
+    {
+     "title": "Takeda Pharmaceutical Non-GAAP EPS of ¥308.00, revenue of ¥2407B; upgrades FY 2026 outlook",
+     "link": "https://seekingalpha.com/news/4659891-takeda-pharmaceutical-non-gaap-eps-of-30800-revenue-of-2407b-upgrades-fy-2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 02:40:55 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "小松公布 1 季度业绩"
+     "zh": "武田药品工业非公认会计准则每股收益为 308.00 日元，收入为 2407B 日元；上调 2026 财年展望"
+    },
+    {
+     "title": "Rush Street Interactive reiterates $1.56B-$1.6B 2026 revenue outlook as October trends point to low end",
+     "link": "https://seekingalpha.com/news/4659890-rush-street-interactive-reiterates-1_56b-1_6b-2026-revenue-outlook-as-october-trends-point-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 02:39:34 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rush Street Interactive 重申 2026 年收入前景 $1.56B-$1.6B，十月趋势指向低端"
+    },
+    {
+     "title": "Ambev Non-GAAP EPS of R$0.28, revenue of R$21.59B; approves R$2.9B share buyback program",
+     "link": "https://seekingalpha.com/news/4659889-ambev-non-gaap-eps-of-r028-revenue-of-r2159b-approves-r29b-share-buyback-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 02:37:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "安贝夫非 GAAP 每股收益为 R$0.28，收入为 R$21.59B；批准 R$2.9B 股票回购计划"
+    },
+    {
+     "title": "Spok declares $0.3125 dividend",
+     "link": "https://seekingalpha.com/news/4659888-spok-declares-0_3125-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 02:34:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Spok 宣布股息 0.3125 美元"
+    },
+    {
+     "title": "eBay declares $0.31 dividend",
+     "link": "https://seekingalpha.com/news/4659886-ebay-declares-0_31-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 02:34:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "eBay 宣布派息 0.31 美元"
+    },
+    {
+     "title": "Bausch Health signals 2026 revenue of $5.525B-$5.625B as it outlines Q4 Xifaxan headwinds",
+     "link": "https://seekingalpha.com/news/4659887-bausch-health-signals-2026-revenue-of-5_525b-5_625b-as-it-outlines-q4-xifaxan-headwinds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 02:32:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bausch Health 概述了 Xifaxan 第四季度的不利因素，预计 2026 年收入为 $5.525B-$5.625B"
     },
     {
      "title": "效率交给AI，价值留给品牌：一场关于AI重构营销全链路的深度对话",
@@ -2287,14 +2335,6 @@
      "summary": "2026互动广告分享会 当AI逐渐进入市场洞察、创意生产、媒介投放和效果评估等营销环节，广告行业正在经历一场从工具应用到价值重构的深层变革。 一方面，AI大幅降低了内容生产和营销执行的门槛，让效率提升成为现实；另一方面，当消费者开始习惯向AI寻求购买建议，品牌被发现、被理解乃至被选择的方式也在发生变化。对于品牌和广告行业而言，真正值得思考的问题，已经不...",
      "source": "经济观察网",
      "zh": "效率交给AI，价值留给品牌：一场关于AI重构营销全链路的深度对话"
-    },
-    {
-     "title": "三星财报“冷风”吹不到光模块？券商拆解：存储与光通信是两码事 “易中天”超跌修复窗口渐近",
-     "link": "http://finance.eastmoney.com/news/1354,202610293913817387.html",
-     "pubDate": "Thu, 29 Oct 2026 14:13:30 +0800",
-     "summary": "10月29日，三星 电子 发布第三季度财报后股价走弱，盘中一度跌超6%。同日，A股 CPO概念 集体重挫， 天孚通信 大跌超18%， 新易盛 跌超9%， 中际旭创 一度跌超7%，“易中天”组合单日跌幅显著放大。 一边是 存储芯片 龙头的盈利预期差，一边是光模块龙头的情绪宣泄，两者在盘面上形成了短暂共振。但多家券商在第一时间给出的判断高度一致：三星的业绩波动与国内光模块产业的基本面逻辑之间，并不存在必然的传导链条。当前更值得关注的，是情绪扰动下国内光模块板块的超跌修复机会。 三星的“存储逻辑”与光模块不在同一传导链条 市场担忧的起点，在于三星与“易中天”同处AI算力大框架之下，容易被误认为同一轮",
-     "source": "东方财富资讯",
-     "zh": "三星财报“冷风”吹不到光模块？券商拆解：存储与光通信是两码事 “易中天”超跌修复窗口渐近"
     },
     {
      "title": "10月品牌营销观察：当增长承压，品牌开始重新计算营销的价值",
@@ -2353,22 +2393,6 @@
      "zh": "上调盈利预期，福特仍要支付转型账单"
     },
     {
-     "title": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问",
-     "link": "http://finance.eastmoney.com/news/1345,202610293913690777.html",
-     "pubDate": "Thu, 29 Oct 2026 13:06:40 +0800",
-     "summary": "问：美东时间10月28日，美国国土安全部宣布将3家中国实体增列至“维吾尔强迫劳动预防法”实体清单，请问中方对此有何评论？ 答：我们注意到有关情况。中国不存在强迫劳动，新疆各族群众劳动就业自由平等，劳动权益依法得到有效保障。美方相关措施毫无事实依据，美方持续操弄“人权”议题，打着“人权”的幌子行单边保护主义和霸凌主义之实。中方对此强烈谴责，坚决反对。 美方不久前已将大量中国实体列入所谓涉疆法案实体清单，中方向美方提出严正交涉，并坚决予以反制。但美方不知悔改，不顾中方坚决反对，继续实施新的制裁措施，将中国生物医药技术企业列入制裁清单。美方列单做法背离两国元首达成的共识，严重破坏中美经贸关系稳定，也",
-     "source": "东方财富资讯",
-     "zh": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问"
-    },
-    {
-     "title": "AI巨头面临全新评价体系：现金流才是当前最关键指标",
-     "link": "http://stock.eastmoney.com/news/11228,202610293913681837.html",
-     "pubDate": "Thu, 29 Oct 2026 13:06:17 +0800",
-     "summary": "人工智能 公司迎来了更为严格的检验。投资者正在关注科技公司能否通过自有资金承担扩张的压力，而不是无休止地向投资者寻求资金。 周三，由于 微软 收入和利润双双增长，且在2027财年投入1700亿美元的情况下仍保持正现金流，其股价盘后上涨超过2.8%。 甲骨文 也因为预期自由现金流在2028财年下半年转正，而重新获得投资者的看好，股价在周三大幅上涨超过10%。 与此同时，Alphabet却报告称上一季度的业务逊于预期，且自由现金流降至-90.7亿美元，导致投资者担忧加剧，股价盘后大跌近10%。 这些公司的股价变化反映出投资者对新标准的日益坚定：能从 人工智能 扩张中获益的公司是值得投资的公司，而不",
-     "source": "东方财富资讯",
-     "zh": "AI巨头面临全新评价体系：现金流才是当前最关键指标"
-    },
-    {
      "title": "How Flávio Bolsonaro fled Brazil",
      "link": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1",
      "pubDate": "Thu, 29 Oct 2026 05:00:30 GMT",
@@ -2415,30 +2439,6 @@
      "summary": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
      "source": "CNBC",
      "zh": "大规模数据泄露后，超过 41,000 名美国国土安全官员的详细信息明显暴露"
-    },
-    {
-     "title": "规模或超3.5万亿？商业航天密集涨停 融资客最新抢筹这些股",
-     "link": "http://finance.eastmoney.com/news/11139,202610293913662696.html",
-     "pubDate": "Thu, 29 Oct 2026 12:16:37 +0800",
-     "summary": "商业航天 板块10月29日早盘相对强势，板块中 阳光照明 、 航天晨光 、 铖昌科技 、 中国卫星 、 上海港湾 等 11股涨停 ； 天力复合 、 飞沃科技 、 电科蓝天 、 西测测试 涨超10%。 国内利好消息频发 消息面上，在日前举行的2026 卫星互联网 产业生态大会上，最新发布的《上海市 卫星互联网 产业创新发展行动方案（2027-2030年）》 说明 ，到2030年，上海力争实现科研成果转化超100项，在轨卫星总数超过3000颗，培育优质市场主体超过100家，打造标杆示范应用超100项， 卫星互联网 核心产业规模突破800亿元。 近期国内多次发射任务的成功，也提振了板块人气。10月2",
-     "source": "东方财富资讯",
-     "zh": "规模或超3.5万亿？商业航天密集涨停 融资客最新抢筹这些股"
-    },
-    {
-     "title": "逆势拉升！风电设备早盘走强 风机毛利逐渐修复",
-     "link": "http://finance.eastmoney.com/news/11139,202610293913662090.html",
-     "pubDate": "Thu, 29 Oct 2026 12:13:48 +0800",
-     "summary": "10月29日早盘，A股三大指数集体下跌， 风电设备 低开高走逆势走强，截至早间收盘，板块上涨1.68%，涨幅居行业板块 最前列 。个股方面， 飞沃科技 涨超15%， 天顺风能 、 海力风电 涨超8%， 振宏股份 涨超6%， 中环海陆 、 大金重工 涨超3%， 泰胜风能 、 金风科技 、 新强联 涨超2%。 风机毛利率逐渐修复 近日， 三一重能 披露2026年三季报：前三季度实现营业收入172.32亿元，同比增长19.24%；归母净利润3.71亿元， 同比增长204.15% 。其中第三季度归母净利润1.37亿元，较二季度的0.54亿元环比增长155%。 毛利率达10.86%，环比提升4.08个百",
-     "source": "东方财富资讯",
-     "zh": "逆势拉升！风电设备早盘走强 风机毛利逐渐修复"
-    },
-    {
-     "title": "业绩爆发，机构称这一板块或戴维斯双击，高成长潜力股来了",
-     "link": "http://finance.eastmoney.com/news/1354,202610293913666126.html",
-     "pubDate": "Thu, 29 Oct 2026 12:04:19 +0800",
-     "summary": "国海证券 建议重视端侧SoC板块的戴维斯双击机遇。 近期科技股出现剧烈波动，科创50指数10月29日上午再创调整新低。华鑫证券表示，止跌企稳信号已现。本轮A股下跌（2026年6月至今）和2015年6月—8月、2021年11月—2022年4月有一定的可比性，都是回撤超过50%、两段式下跌、破位+恐慌加速下跌。目前微观筹码出清进入尾声，政策托底宽基ETF放量，止跌企稳信号已现，但外部核心矛盾AI资本开支和回报仍在验证中，大概率是震荡反弹。 国海证券 建议重视端侧SoC板块的戴维斯双击机遇，近期板块事件催化密集，业绩兑现度高。该机构认为，当前从行业基本面角度而言，尽管存储涨价和HBM缺货对于 消费电",
-     "source": "东方财富资讯",
-     "zh": "业绩爆发，机构称这一板块或戴维斯双击，高成长潜力股来了"
     },
     {
      "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",

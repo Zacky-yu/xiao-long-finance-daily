@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/29 21:47:02",
+ "generated_at": "2026/10/29 21:49:46",
  "recent_days": 7,
  "industries": [
   {
@@ -642,6 +642,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Driving The Cheapest Lucid Air For 40,000 Miles Came With A Few Surprises",
+     "link": "https://insideevs.com/news/813727/lucid-air-pure-ownership-review-video/",
+     "pubDate": "Thu, 29 Oct 2026 13:46:31 +0000",
+     "summary": "The most affordable Lucid doesn’t feel cheap, and it delivers all of the basics that the more expensive trims are known for.",
+     "source": "InsideEVs",
+     "zh": "驾驶最便宜的 Lucid Air 行驶 40,000 英里，带来一些惊喜"
+    },
+    {
      "title": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
      "link": "https://cnevpost.com/2026/10/29/xpeng-launches-mona-l05/",
      "pubDate": "Thu, 29 Oct 2026 13:03:01 +0000",
@@ -736,14 +744,6 @@ window.INDUSTRY_DATA = {
      "summary": "Don’t want to pay full price? Used EVs with low miles, like the Hyundai IONIQ 5 and Ford Mustang Mach-E, are selling on the secondhand market for $25,000 or less. more…",
      "source": "Electrek",
      "zh": "二手电动汽车突然热销——以下是价格低于 25,000 美元的顶级 SUV"
-    },
-    {
-     "title": "The EU Just Hit A Historic Milestone: EVs Outsold Gas And Diesel Cars Combined",
-     "link": "https://insideevs.com/news/813621/ev-beats-ice-europe-sales/",
-     "pubDate": "Wed, 28 Oct 2026 20:40:28 +0000",
-     "summary": "EV sales are up in nearly every EU country. They could surpass hybrids very soon.",
-     "source": "InsideEVs",
-     "zh": "欧盟刚刚达到一个历史性的里程碑：电动汽车销量超过汽油车和柴油车的总和"
     },
     {
      "title": "Dems introduce new $15,000 EV tax credit bill that has no chance — and that’s a problem",
@@ -1290,6 +1290,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+     "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
+     "pubDate": "Thu, 29 Oct 2026 13:27:34 +0000",
+     "summary": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, he gained a firsthand connection to the nation’s space progr",
+     "source": "NASA",
+     "zh": "公务员承包商：美国宇航局欢迎贾里德·斯皮尔斯"
+    },
+    {
      "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
@@ -1416,14 +1424,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a o",
      "source": "NASA",
      "zh": "Artemis III SLS 核心级加入肯尼迪的助推器"
-    },
-    {
-     "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-     "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
-     "pubDate": "Wed, 28 Oct 2026 18:00:28 +0000",
-     "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challen",
-     "source": "NASA",
-     "zh": "NASA 大学挑战点燃无人机企业家的轨迹"
     },
     {
      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
@@ -2234,12 +2234,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Fluidra, S.A. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4660278-fluidra-s-a-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:47:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fluidra, S.A. 报告第三季度业绩"
+    },
+    {
+     "title": "Gas pumps sizzle, groceries fizzle: Inside the September PCE split",
+     "link": "https://seekingalpha.com/news/4660271-gas-pumps-sizzle-groceries-fizzle-inside-the-september-pce-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:47:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "汽油泵嘶嘶作响，食品杂货失败：9月份PCE分裂的内部"
+    },
+    {
+     "title": "Cematrix GAAP EPS of C$0.50, revenue of C$11.9M",
+     "link": "https://seekingalpha.com/news/4660279-cematrix-gaap-eps-of-c050-revenue-of-c119m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:46:17 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cematrix GAAP 每股收益为 0.50 加元，收入为 1,190 万加元"
+    },
+    {
+     "title": "Komercní banka, a.s. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4660276-komercni-banka-a-s-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:44:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "商业银行报告第三季度业绩"
+    },
+    {
      "title": "DoorDash to acquire Instacart for $17 billion",
      "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
      "pubDate": "Thu, 29 Oct 2026 13:44:32 GMT",
      "summary": "The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners.",
      "source": "CNBC",
      "zh": "DoorDash 将以 170 亿美元收购 Instacart"
+    },
+    {
+     "title": "Primaris Real Estate Investment Trust reports Q3 results",
+     "link": "https://seekingalpha.com/news/4660275-primaris-real-estate-investment-trust-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:44:14 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Primaris 房地产投资信托报告第三季度业绩"
     },
     {
      "title": "ServiceNow’s stock is on track for its worst day ever. Here’s what went wrong.",
@@ -2250,12 +2290,20 @@ window.INDUSTRY_DATA = {
      "zh": "ServiceNow 的股价有望迎来有史以来最糟糕的一天。这就是出了问题的地方。"
     },
     {
-     "title": "美股三大指数集体下跌 纳指跌逾1% 谷歌股价重挫逾10%",
+     "title": "美股三大指数集体下跌 纳指跌逾1% 谷歌重挫超10%",
      "link": "http://finance.eastmoney.com/news/1345,202610293914853111.html",
      "pubDate": "Thu, 29 Oct 2026 21:43:02 +0800",
-     "summary": "10月29日，美股三大指数集体下跌，截至发稿，道指跌0.59%，纳指跌1.68%，标普500指数跌0.55%。 个股方面，谷歌股价重挫逾10%，创该公司历史最大单日跌幅。公司第三季度营收1275.8亿美元，同比增长25%，低于市场预期的1279.1亿美元；调整后每股收益2.67美元，低于 市场 预期的2.97美元。 全球要闻 美国第三季度GDP季调后环比折年率初值为3.4% 预估为3.2% 美国第三季度GDP季调后环比折年率初值为3.4%，预估为3.2%，前值为2.2%。美国9月核心个人消费支出价格指数环比增长0.3%，预估为0.3%，前值为0.2%。同比增长3.1%，预估3.1%。 美国9月",
+     "summary": "10月29日，美股三大指数集体下跌，截至发稿，道指跌0.45%，纳指跌1.48%，标普500指数跌0.45%。 个股方面，谷歌股价重挫逾10%，创该公司历史最大单日跌幅。公司第三季度营收1275.8亿美元，同比增长25%，低于市场预期的1279.1亿美元；调整后每股收益2.67美元，低于 市场 预期的2.97美元。 全球要闻 美国第三季度GDP季调后环比折年率初值为3.4% 预估为3.2% 美国第三季度GDP季调后环比折年率初值为3.4%，预估为3.2%，前值为2.2%。美国9月核心个人消费支出价格指数环比增长0.3%，预估为0.3%，前值为0.2%。同比增长3.1%，预估3.1%。 美国9月",
      "source": "东方财富股票",
-     "zh": "美股三大指数集体下跌 纳指跌逾1% 谷歌股价重挫逾10%"
+     "zh": "美股三大指数集体下跌 纳指跌逾1% 谷歌重挫超10%"
+    },
+    {
+     "title": "谷歌股价跌幅扩大至13.7%",
+     "link": "http://finance.eastmoney.com/news/11440,202610293914887071.html",
+     "pubDate": "Thu, 29 Oct 2026 21:42:09 +0800",
+     "summary": "谷歌股价跌幅扩大至13.7%，创最大跌幅纪录。",
+     "source": "东方财富股票",
+     "zh": "谷歌股价跌幅扩大至13.7%"
     },
     {
      "title": "European Central Bank keeps key interest rate on hold at 2.5%",
@@ -2274,28 +2322,28 @@ window.INDUSTRY_DATA = {
      "zh": "华盛顿国家资本银行宣布派息 0.26 美元"
     },
     {
-     "title": "Tiptree declares $0.06 dividend",
-     "link": "https://seekingalpha.com/news/4660272-tiptree-declares-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:39:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tiptree 宣布派息 0.06 美元"
+     "title": "图解财报：中国能建前三季归母净利润26.16亿元，同比减少17.13%",
+     "link": "http://stock.eastmoney.com/news/11802,202610293914884023.html",
+     "pubDate": "Thu, 29 Oct 2026 21:41:11 +0800",
+     "summary": "中国能建 10月30日发布2026年 三季报显示，公司前三季 实现营业总收入3092.37亿元 ，同比下滑4.42% ；归母净利润26.16亿元 ，同比下滑17.13% ；扣非归母净利润19.09亿元 ，同比下滑27.27% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：中国能建前三季归母净利润26.16亿元，同比减少17.13%"
     },
     {
-     "title": "Verizon announces tender offers for five series of notes",
-     "link": "https://seekingalpha.com/news/4660245-verizon-announces-tender-offers-for-five-series-of-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:39:47 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Verizon 宣布对五个系列票据的要约收购"
+     "title": "受整车厂自研自制挤压 汇通控股四调IPO募资用途",
+     "link": "http://www.eeo.com.cn/2026/1029/1079022.shtml",
+     "pubDate": "Thu, 29 Oct 2026 21:40:55 +0800",
+     "summary": "在行业竞争持续白热化、市场进入淘汰赛、价格战长期存在的背景下，汽车行业的利润不断走低，整车厂业务向上游环节延伸以节约成本，已成必然趋势。这在很大程度上将影响包括汇通控股在内的上游零部件供应商对自身业务进行重构和调整。",
+     "source": "经济观察网",
+     "zh": "受整车厂自研自制挤压 汇通控股四调IPO募资用途"
     },
     {
-     "title": "Pitney Bowes declares $0.10 dividend",
-     "link": "https://seekingalpha.com/news/4660270-pitney-bowes-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:38:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pitney Bowes 宣布派息 0.10 美元"
+     "title": "搜索收入承压+自由现金流转负！高盛、摩根大通双双下调谷歌目标价",
+     "link": "http://hk.eastmoney.com/news/11617,202610293914883732.html",
+     "pubDate": "Thu, 29 Oct 2026 21:38:37 +0800",
+     "summary": "谷歌母公司Alphabet第三季度财报公布后，华尔街主要机构随即下调目标价。搜索业务收入低于预期，叠加外汇逆风与资本支出持续高企，令市场对其自由现金流前景的担忧明显升温。 谷歌-A (GOOGL.US)盘初大跌逾13%。 摩根大通 将Alphabet目标价从425美元下调至375美元。 高盛 同样下调12个月目标价，从435美元调降至385美元，降幅约11.5%，但维持买入评级不变。按 高盛 10月28日收盘价324.89美元计算，新目标价对应约18.5%的上行空间。 财报显示，Alphabet第三季度搜索及其他业务收入为633.5亿美元，低于 高盛 预期的642亿美元及市场一致预期的648.",
+     "source": "东方财富股票",
+     "zh": "搜索收入承压+自由现金流转负！高盛、摩根大通双双下调谷歌目标价"
     },
     {
      "title": "谷歌财报重挫市场信心，纳指低开跌1.35%，Alphabet跌幅扩大至13.7%，创历史最大跌幅",
@@ -2306,68 +2354,20 @@ window.INDUSTRY_DATA = {
      "zh": "谷歌财报重挫市场信心，纳指低开跌1.35%，Alphabet跌幅扩大至13.7%，创历史最大跌幅"
     },
     {
-     "title": "PC Connection declares $0.20 dividend",
-     "link": "https://seekingalpha.com/news/4660269-pc-connection-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:38:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PC Connection 宣布派息 0.20 美元"
-    },
-    {
-     "title": "读财报｜无糖饮料越卖越火，代糖巨头们为何“甜”不起来",
-     "link": "http://finance.eastmoney.com/news/1354,202610293914883915.html",
-     "pubDate": "Thu, 29 Oct 2026 21:37:54 +0800",
-     "summary": "截至10月29日，国内代糖行业主要头部上市公司2026年第三季度报告披露完毕。作为 食品饮料 上游核心原料供应商， 金禾实业 、 保龄宝 、 三元生物 、 莱茵生物 四家头部企业的业绩表现，直接反映出当前国内代糖行业的供需格局、成本传导能力以及下游需求变化。从已公开的财报数据来看，行业整体营收规模保持扩张态势，但盈利端却出现明显分化，除 金禾实业 外，其余三家企业三季度扣非净利润均同比下滑，甚至出现亏损，“增收不增利”成为当前代糖行业的普遍特征。 产能释放与需求爬坡 很多人平时点奶茶、买无糖饮料时，已经习惯看“零糖、零脂、零卡”的标签，喝到嘴里的每一口甜味，背后都连着 金禾实业 、 保龄宝 、",
+     "title": "TCL中环第三季度经营净利环比改善超40%，光伏、半导体双主业协同向上",
+     "link": "http://stock.eastmoney.com/news/11216,202610293914886847.html",
+     "pubDate": "Thu, 29 Oct 2026 21:38:11 +0800",
+     "summary": "10月29日晚间， TCL中环 (002129)披露2026年三季报。前三季度，公司实现营业收入235.1亿元，同比增长9.01%，实现归属于上市公司股东的净利润-45.6亿元，同比改善21.1%。单季度来看，第三季度实现营业收入92.0亿元，环比增长18.5%；实现归属于上市公司股东的净利润-13.5亿元，环比改善13.2%；经营性归母净利润环比改善40.4%。 适度一体化与全球化并进，海外出货大幅增长 TCL中环 坚持适度一体化与全球化协同战略，在光伏材料业务的基础上，不断提升下游 电池 及组件能力，产业链协同效应逐步显现。2026年前三季度，公司 新能源 光伏业务实现销售收入186.1亿",
      "source": "东方财富股票",
-     "zh": "读财报｜无糖饮料越卖越火，代糖巨头们为何“甜”不起来"
+     "zh": "TCL中环第三季度经营净利环比改善超40%，光伏、半导体双主业协同向上"
     },
     {
-     "title": "南方乳业前三季度净利约1.63亿元",
-     "link": "http://stock.eastmoney.com/news/11219,202610293914881842.html",
-     "pubDate": "Thu, 29 Oct 2026 21:37:26 +0800",
-     "summary": "10月29日晚间， 南方乳业 （920196）发布2026年三季报显示，公司前三季度实现归属净利润约为1.63亿元。 财报显示，2026年前三季度， 南方乳业 实现营业收入约为13.71亿元；对应实现归属净利润约为1.63亿元。 （文章来源：北京商报）",
+     "title": "迈瑞医疗拟10派13元，2026年累计分红将超47亿元",
+     "link": "http://stock.eastmoney.com/news/11215,202610293914886324.html",
+     "pubDate": "Thu, 29 Oct 2026 21:38:11 +0800",
+     "summary": "10月29日晚， 迈瑞医疗 （300760.SZ）披露2026年第三季度报告。2026年前三季度，公司实现营业收入270.97亿元，同比增长4.89%；实现净利润75.64亿元；经营性现金流量净额82.97亿元，同比增长14.08%。剔除汇兑损益影响后，净利润同比增长6.29%，扣除非经常性损益后的净利润同比增长8.83%。 其中，第三季度公司实现营业收入93.50亿元，同比增长2.85%；净利润25.17亿元；扣除非经常性损益后的净利润26亿元，同比增长0.60%；经营性现金流净额34.20亿元，同比增长2.07%，连续两个季度实现正增长。剔除汇兑损益影响后，净利润同比增长1.79%，扣除非",
      "source": "东方财富股票",
-     "zh": "南方乳业前三季度净利约1.63亿元"
-    },
-    {
-     "title": "ST豆神2026年三季度净利润2568.96万元",
-     "link": "http://stock.eastmoney.com/news/11215,202610293914881923.html",
-     "pubDate": "Thu, 29 Oct 2026 21:37:22 +0800",
-     "summary": "10月29日， ST豆神 发布2026年第三季度报告，报告期内， ST豆神 实现营业收入2.33亿元，同比下降28.78%；归属于上市公司股东的净利润2568.96万元，同比增长312.35%。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "ST豆神2026年三季度净利润2568.96万元"
-    },
-    {
-     "title": "中国能建：截至9月30日最新股东户数76.76万户，较上期减少10.93%",
-     "link": "http://stock.eastmoney.com/news/11111,202610293914866458.html",
-     "pubDate": "Thu, 29 Oct 2026 21:37:05 +0800",
-     "summary": "中国能建 最新披露数据显示，截至9月30日公司股东户数为76.76万户，较上期(2026年6月30日) 减少9.42万户，降幅为10.93% 。户均持有流通股数量 由上期的4.84万股上升至5.43万股， 户均持股金额 由上期的12.76万元增加至12.98万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不",
-     "source": "东方财富股票",
-     "zh": "中国能建：截至9月30日最新股东户数76.76万户，较上期减少10.93%"
-    },
-    {
-     "title": "卡特彼勒股价开盘下跌12%",
-     "link": "http://finance.eastmoney.com/news/11440,202610293914868535.html",
-     "pubDate": "Thu, 29 Oct 2026 21:37:05 +0800",
-     "summary": "卡特彼勒 股价开盘下跌12%，较6月份的历史最高纪录下跌40%。",
-     "source": "东方财富股票",
-     "zh": "卡特彼勒股价开盘下跌12%"
-    },
-    {
-     "title": "Intercontinental Exchange to bring Trade[XYZ]'s perpetual markets onshore in U.S.",
-     "link": "https://seekingalpha.com/news/4660247-intercontinental-exchange-to-bring-tradexyzs-perpetual-markets-onshore-in-us?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:36:18 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "洲际交易所将 Trade[XYZ] 的永久市场引入美国境内"
-    },
-    {
-     "title": "美股三大指数集体下跌 纳指跌近2% 谷歌股价重挫逾10%",
-     "link": "http://finance.eastmoney.com/news/1345,202610293914853111.html",
-     "pubDate": "Thu, 29 Oct 2026 21:36:08 +0800",
-     "summary": "10月29日，美股三大指数集体下跌，截至发稿，道指跌0.59%，纳指跌1.68%，标普500指数跌0.55%。 个股方面，谷歌股价重挫逾10%，创该公司历史最大单日跌幅。公司第三季度营收1275.8亿美元，同比增长25%，低于市场预期的1279.1亿美元；调整后每股收益2.67美元，低于 市场 预期的2.97美元。 全球要闻 美国第三季度GDP季调后环比折年率初值为3.4% 预估为3.2% 美国第三季度GDP季调后环比折年率初值为3.4%，预估为3.2%，前值为2.2%。美国9月核心个人消费支出价格指数环比增长0.3%，预估为0.3%，前值为0.2%。同比增长3.1%，预估3.1%。 美国9月",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体下跌 纳指跌近2% 谷歌股价重挫逾10%"
+     "zh": "迈瑞医疗拟10派13元，2026年累计分红将超47亿元"
     },
     {
      "title": "“易中天”三季报出齐！公募、险资、牛散操作是这样的",
@@ -2376,6 +2376,14 @@ window.INDUSTRY_DATA = {
      "summary": "“易中天”三季报全部出炉。 继 天孚通信 后，A股光 通信 行业巨头 中际旭创 、 新易盛 10月29日披露三季报。受益于全球AI算力基建加速带动高速光模块销售放量，今年前三季度头部上市公司营业收入、归母净利润均实现同比增长，积极布局CPO、NPO等下一代光 通信 技术，不过盈利增速有所分化。 第三季度以来，尽管A股光模块板块回调，但公募、险资纷纷加仓，挺入上市公司前十大流通股东。 布局下一代技术 作为光模块龙头， 中际旭创 2026年前三季度实现营业收入695.47亿元，同比增长178.13%；归母净利润达222.38亿元，同比激增211.81%；其中第三季度公司归母净利润达到85.87亿元",
      "source": "东方财富资讯",
      "zh": "“易中天”三季报出齐！公募、险资、牛散操作是这样的"
+    },
+    {
+     "title": "Crypto exchange HTX to leave UK after FCA lawsuit",
+     "link": "https://www.finextra.com/newsarticle/48667/crypto-exchange-htx-to-leave-uk-after-fca-lawsuit?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 29 Oct 2026 13:19:00 GMT",
+     "summary": "The UK's Financial Conduct Authority has secured a High Court order preventing crypto exchange HTX from ‌knowingly promoting cryptoasset services unlawfully to customers in the country.",
+     "source": "Finextra",
+     "zh": "FCA 诉讼后加密货币交易所 HTX 将离开英国"
     },
     {
      "title": "Christine Lagarde to step down as ECB president in February",
@@ -2464,14 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "热点聚焦 中国共产党第二十届中央委员会第五次全体会议公报： 中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。全会强调，要做好岁末年初各项工作。坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，加快构建新发展格局， 用好用足宏观政策，深入挖掘内需潜力，进一步深化改革开放，推动经济持续向新向优向好发展 ， 确保完成今年经济社会发展主要目标任务，实现“十五五”良好开局。统筹发展和安全，加强普惠性、基础性、兜底性民生建设，做好安全生产、防灾减灾救灾、食品药品安全和社会稳定工作。 多只科技龙头股业绩出炉 ： 今日，包含 中际旭创 ， 胜宏科技 ， 兆易创新 ， ",
      "source": "东方财富资讯",
      "zh": "10月29日东方财富财经晚报（附新闻联播）"
-    },
-    {
-     "title": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
-     "link": "https://www.marketwatch.com/story/doordash-and-instacart-want-to-join-forces-will-the-u-s-government-get-in-their-way-0c065bee?mod=mw_rss_topstories",
-     "pubDate": "Thu, 29 Oct 2026 12:58:00 GMT",
-     "summary": "The companies say their proposed merger will help smaller grocers compete, but analysts wonder if regulators will conduct an “extended review” of antitrust risks.",
-     "source": "MarketWatch",
-     "zh": "DoorDash 和 Instacart 想要联手。美国政府会阻止他们吗？"
     }
    ]
   },

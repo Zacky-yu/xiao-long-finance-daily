@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/29 21:29:55",
+ "generated_at": "2026/10/29 21:47:02",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,30 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Granite Switch 4.1.1 — Update models like you update software",
+     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+     "pubDate": "Thu, 29 Oct 2026 13:37:07 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Granite Switch 4.1.1 — 像更新软件一样更新模型"
+    },
+    {
+     "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+     "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+     "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+     "summary": "Deepgram said that it is committed to keep Pipecat open source.",
+     "source": "TechCrunch AI",
+     "zh": "Deepgram 收购 Pipecat 制造商 Daily 以加强其语音人工智能基础设施"
+    },
+    {
+     "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+     "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+     "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+     "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
+     "source": "TechCrunch AI",
+     "zh": "亚马逊更新 Alexa 以帮助您管理购物清单、订阅并更新送货说明"
+    },
     {
      "title": "5 Docker Containers You Need for a Home AI Lab",
      "link": "https://www.kdnuggets.com/5-docker-containers-you-need-for-a-home-ai-lab",
@@ -223,30 +247,6 @@
      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
      "source": "TechCrunch AI",
      "zh": "微软连续 10 个季度营收破纪录"
-    },
-    {
-     "title": "Creating AI value with enterprise context",
-     "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-     "pubDate": "Wed, 28 Oct 2026 20:32:02 +0000",
-     "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
-     "source": "MIT Tech Review AI",
-     "zh": "结合企业场景创造人工智能价值"
-    },
-    {
-     "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-     "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-     "pubDate": "Wed, 28 Oct 2026 19:19:58 +0000",
-     "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-     "source": "TechCrunch AI",
-     "zh": "Anthropic 刚刚推出了工具，向公司展示他们的人工智能支出正在购买什么"
-    },
-    {
-     "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-     "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-     "pubDate": "Wed, 28 Oct 2026 19:05:46 +0000",
-     "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Accord",
-     "source": "TechCrunch AI",
-     "zh": "Wiz 的 PHP2Shell 首席技术官和即将到来的“vulnpocalypse”"
     }
    ]
   },
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Iran War Hikes EU’s Oil Import Bill By $11 Billion Per Month",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Hikes-EUs-Oil-Import-Bill-By-11-Billion-Per-Month.html",
+     "pubDate": "Thu, 29 Oct 2026 08:30:00 -0500",
+     "summary": "The European Union has been paying $11 billion more to import oil since the Middle East crisis choked crude oil supplies and triggered a global fuel crisis, an analysis by Euronews Business showed on Thursday. The value of the EU’s petroleum imports jumped by 55.8% in the second quarter of 2026, des",
+     "source": "OilPrice",
+     "zh": "伊朗战争使欧盟石油进口费用每月增加 110 亿美元"
+    },
+    {
      "title": "California Energy Commission releases US$46 million for DERS supporting grid reliability",
      "link": "https://www.energy-storage.news/california-energy-commission-releases-us46-million-for-ders-supporting-grid-reliability/",
      "pubDate": "Thu, 29 Oct 2026 13:27:47 +0000",
@@ -1001,14 +1009,6 @@
      "zh": "PJM 迫切需要电网电池。这是一种可以得到一些的方法。"
     },
     {
-     "title": "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Vance-Moves-to-Restart-Iran-Peace-Talks.html",
-     "pubDate": "Thu, 29 Oct 2026 01:05:36 -0500",
-     "summary": "Crude oil prices gave up some of the gains they made earlier this week, after U.S. Vice President JD Vance contacted the secretary of the Iranian Supreme National Security Council in a bid to restart peace talks. At the time of writing, Brent crude was trading at $114.14 per barrel, and West Texas I",
-     "source": "OilPrice",
-     "zh": "万斯重启伊朗和谈，油价下跌"
-    },
-    {
      "title": "Algorithmic bidding not the NEM’s ‘boogeyman,’ says Fluence at All-Energy Australia 2026",
      "link": "https://www.energy-storage.news/algorithmic-bidding-not-the-nems-boogeyman-says-fluence-at-all-energy-australia-2026/",
      "pubDate": "Thu, 29 Oct 2026 03:07:21 +0000",
@@ -1089,6 +1089,30 @@
    "total": 7,
    "items": [
     {
+     "title": "Hamburg Hosts 2026 European Gene Therapy Conference",
+     "link": "https://www.genengnews.com/topics/genome-editing/hamburg-hosts-2026-european-gene-therapy-conference/",
+     "pubDate": "Thu, 29 Oct 2026 13:44:33 +0000",
+     "summary": "GEN 's Kevin Davies, PhD, reports from ESGCT where patient safety, expanding access to gene therapy, and progress towards an HIV vaccine were prominent themes among the early talks at ESGCT 2026. The post Hamburg Hosts 2026 European Gene Therapy Conference appeared first on GEN - Genetic Engineering",
+     "source": "GEN",
+     "zh": "汉堡主办 2026 年欧洲基因治疗会议"
+    },
+    {
+     "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
+     "link": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
+     "pubDate": "Thu, 29 Oct 2026 13:43:44 +0000",
+     "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists.",
+     "source": "STAT News",
+     "zh": "STAT+：尽管 FDA 科学家表示担忧，但 HHS 批准了六种肽"
+    },
+    {
+     "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
+     "link": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
+     "pubDate": "Thu, 29 Oct 2026 13:38:36 +0000",
+     "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
+     "source": "STAT News",
+     "zh": "马丁·库尔多夫 (Martin Kulldorff) 在 NIH 演讲中批评科学守门人"
+    },
+    {
      "title": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
      "link": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss",
      "pubDate": "Thu, 29 Oct 2026 13:25:01 +0000",
@@ -1161,22 +1185,6 @@
      "zh": "观点：STAT+：对于生物医学科学家来说，人工智能更像是合作伙伴、竞争对手还是拐杖？"
     },
     {
-     "title": "STAT+: Biopharma industry at odds over impact of Treasury’s new China rule",
-     "link": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
-     "pubDate": "Thu, 29 Oct 2026 08:30:00 +0000",
-     "summary": "An exemption for a common kind of biopharma deal is at the heart of disagreements over the proposal.",
-     "source": "STAT News",
-     "zh": "STAT+：生物制药行业对财政部新的中国规定的影响存在分歧"
-    },
-    {
-     "title": "Politicians have failed to tackle health care affordability. It’s now voters’ rallying cry",
-     "link": "https://www.statnews.com/2026/10/29/health-care-costs-midterms-issue-out-of-pocket-series-part-6/?utm_campaign=rss",
-     "pubDate": "Thu, 29 Oct 2026 08:30:00 +0000",
-     "summary": "As costs surge, voters are embracing more radical solutions to the crisis.",
-     "source": "STAT News",
-     "zh": "政客们未能解决医疗保健负担能力问题。现在这是选民的战斗口号"
-    },
-    {
      "title": "Three-Photon Microscopy Reveals Neural Activity Deep in the Mouse Brain",
      "link": "https://www.genengnews.com/topics/translational-medicine/three-photon-microscopy-reveals-neural-activity-deep-in-the-mouse-brain/",
      "pubDate": "Wed, 28 Oct 2026 22:17:38 +0000",
@@ -1193,12 +1201,12 @@
      "zh": "心脏如何通过 MCT1 依赖性线粒体乳酸导入保持强健"
     },
     {
-     "title": "Why Zocdoc is clearing the way for AI personal agents",
+     "title": "Why Zocdoc is clearing the way for personal AI agents",
      "link": "https://endpoints.news/why-zocdoc-is-clearing-the-way-for-ai-personal-agents/",
      "pubDate": "Wed, 28 Oct 2026 19:16:37 +0000",
      "summary": "Amazon, Delta Air Lines and major US banks have blocked people from using personal AI agents to shop, book flights and manage transactions. But as agents start handling patients' healthcare tasks, at least one company ...",
      "source": "Endpoints News",
-     "zh": "为什么 Zocdoc 正在为人工智能个人代理扫清道路"
+     "zh": "为什么 Zocdoc 正在为个人人工智能代理扫清道路"
     },
     {
      "title": "Formation Bio unveils $600M fund tied to existing model",
@@ -1231,14 +1239,6 @@
      "summary": "CDMOs already play a critical role in the cell and gene therapy development and manufacturing space, says Rose Biosolutions. Emerging bioprocessing technologies, production methods, and strategies are creating even more opportunities for contractors. The post Decentralization, AI, and Gene Editing A",
      "source": "GEN",
      "zh": "去中心化、人工智能和基因编辑是 CGT 承包商的机遇"
-    },
-    {
-     "title": "Microbial Dark Matter Could Revive Antibiotics",
-     "link": "https://www.genengnews.com/topics/bioprocessing/microbial-dark-matter-could-revive-antibiotics/",
-     "pubDate": "Wed, 28 Oct 2026 16:00:14 +0000",
-     "summary": "Most microbes remain out of reach, and many antibiotic-producing genes stay silent. A new review argues that combining genomics, innovative cultivation, and scalable manufacturing could turn this hidden chemistry into desperately needed new antibiotic treatments. The post Microbial Dark Matter Could",
-     "source": "GEN",
-     "zh": "微生物暗物质可以使抗生素复活"
     },
     {
      "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
@@ -1537,6 +1537,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+     "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+     "pubDate": "Thu, 29 Oct 2026 13:42:52 +0000",
+     "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Adobe、Veeam、Juniper Networks 修补关键漏洞"
+    },
+    {
+     "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+     "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
+     "pubDate": "Thu, 29 Oct 2026 13:26:49 +0000",
+     "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "BAE 表示在破产法庭事件中未提取任何数据"
+    },
+    {
      "title": "Over 41,000 DHS Employee Records Leaked Online",
      "link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
      "pubDate": "Thu, 29 Oct 2026 12:54:14 +0000",
@@ -1641,22 +1657,6 @@
      "zh": "攻击者利用自 8 月份以来的第二个思科防火墙 VPN 零日漏洞"
     },
     {
-     "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
-     "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
-     "pubDate": "Thu, 29 Oct 2026 08:27:16 +0000",
-     "summary": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "HHS 文件显示 iRhythm 数据泄露造成的死亡人数为 820 万人"
-    },
-    {
-     "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
-     "link": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
-     "pubDate": "Thu, 29 Oct 2026 08:01:05 +0000",
-     "summary": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "中国黑客悄悄利用低严重性 ESXi 日志记录漏洞作为零日漏洞"
-    },
-    {
      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
      "pubDate": "Thu, 29 Oct 2026 08:00:00 GMT",
@@ -1737,6 +1737,118 @@
    "total": 18,
    "items": [
     {
+     "title": "Wabi, which is building an AI assistant that integrates into group chats and can take actions like booking appointments, raised $55M at a $1.25B valuation (Micah Barkley/Bloomberg)",
+     "link": "https://www.techmeme.com/261029/p28#a261029p28",
+     "pubDate": "Thu, 29 Oct 2026 09:45:02 -0400",
+     "summary": "Micah Barkley / Bloomberg : Wabi, which is building an AI assistant that integrates into group chats and can take actions like booking appointments, raised $55M at a $1.25B valuation &nbsp; &mdash;&nbsp; AI assistant startup Wabi Inc. has raised $55 million at a $1.25 billion valuation to build out ",
+     "source": "Techmeme",
+     "zh": "Wabi 正在构建一款人工智能助手，该助手可以集成到群聊中，并可以执行预约等操作，以 1.25B 美元的估值筹集了 5500 万美元（Micah Barkley/Bloomberg）"
+    },
+    {
+     "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+     "link": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+     "pubDate": "Thu, 29 Oct 2026 13:43:53 +0000",
+     "summary": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
+     "source": "TechCrunch",
+     "zh": "Bluesky 封锁了泄露的国土安全部员工数据的链接，政府寻求删除"
+    },
+    {
+     "title": "Petkit Automatic Cat Litter Box Sale (2026)",
+     "link": "https://www.wired.com/story/petkit-sale-october-2026/",
+     "pubDate": "Thu, 29 Oct 2026 13:41:26 +0000",
+     "summary": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now.",
+     "source": "WIRED",
+     "zh": "Petkit 自动猫砂盒促销（2026）"
+    },
+    {
+     "title": "DoorDash to acquire Instacart for $17B",
+     "link": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+     "pubDate": "Thu, 29 Oct 2026 13:40:57 +0000",
+     "summary": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
+     "source": "TechCrunch",
+     "zh": "DoorDash将以$17B收购Instacart"
+    },
+    {
+     "title": "谷歌 Alphabet 盘初跌超 13% 创其历史上最大单日跌幅",
+     "link": "https://www.ithome.com/1/019/773.htm",
+     "pubDate": "Thu, 29 Oct 2026 13:40:42 GMT",
+     "summary": "IT之家 10 月 29 日消息，当地时间 10 月 29 日，谷歌母公司 Alphabet 开盘股价大幅下跌，盘中跌幅一度扩大至 13%，股价跌至 280 美元 （IT之家注：现汇率约合 1,871 元人民币） 附近。 据路透社报道，Alphabet 此前公布的 2026 年第三季度财报未能达到市场预期，投资者对其搜索广告业务增长放缓及 AI 投资成本持续攀升的担忧加剧。 Alphabet 于 10 月 28 日美股收盘后公布第三季度财报。公司当季营收为 1,276 亿美元 （现汇率约合 8,524.37 亿元人民币） ，低于市场预期的 1,282 亿美元 （现汇率约合 8,564.45 亿",
+     "source": "IT之家",
+     "zh": "谷歌 Alphabet 盘初跌超 13% 创其历史上最大单日跌幅"
+    },
+    {
+     "title": "今日宜休 ISHO App 正式上线，王腾宣布会在未来两三个月开放更多品牌硬件生态产品接入",
+     "link": "https://www.ithome.com/1/019/772.htm",
+     "pubDate": "Thu, 29 Oct 2026 13:40:24 GMT",
+     "summary": "IT之家 10 月 29 日消息，今日宜休宣布， ISHO App 正式上线 ，支持睡眠数据查看、精力评分、个性化睡眠建议与生态设备联动。 今日宜休科技公司创始人王腾称，目前该应用可在 iOS 平台和安卓平台下载，其它平台和版本还在路上。他表示，目前版本支持 ISHO 官方硬件生态连接使用， 会在未来两三个月开放更多品牌的硬件生态产品接入 。 据IT之家此前报道，今年 9 月，今日宜休 ISHO 睡眠记录 App 开启内测， 首期内测仅支持苹果 iOS，并且需要佩戴苹果 Apple Watch 。",
+     "source": "IT之家",
+     "zh": "今日宜休 ISHO App 正式上线，王腾宣布会在未来两三个月开放更多品牌硬件生态产品接入"
+    },
+    {
+     "title": "东亚家庭，事到如今谈什么爱？",
+     "link": "https://www.huxiu.com/article/4901528.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 21:40:24 +0800",
+     "summary": "本文来自微信公众号： NOWNESS现在 ，作者：李洁琳 因为电影节，我第一次去釜山。搭了最便宜的红眼航班，在清晨六点多落地。阳光很足，机场大巴向东开往海云台。司机走的是跨海的广安大桥，窗外望去就是刺眼的海，像燃烧的镁带。这片海在后来的每部影片开头一再出现。 开幕前的下午，在电影宫附近闲逛时，偶然在乐天百货楼下撞见几位年纪稍长、零散站着的示威者。我问同行的本地朋友，他们在抗议什么。 朋友看了眼牌子上的韩文。噢！一部最近有争议的电影，她说。 《暗杀者们》吗，我试探性地问。 没错，她继续说，还有人去了主演柳海真家门口抗议。 去韩国前，我也看到了新闻，一些保守派和右翼人士正在抗议这部新上映的电影。连",
+     "source": "虎嗅",
+     "zh": "东亚家庭，事到如今谈什么爱？"
+    },
+    {
+     "title": "我很想跟你分享的4个生活方式",
+     "link": "https://www.huxiu.com/article/4901527.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 21:40:24 +0800",
+     "summary": "本文来自微信公众号： L先生说 ，作者：李睿秋Lachel 今天的文章，我想跟你分享4个我很喜欢、也一直在践行的生活方式。 希望能对你有启发和帮助。 1.遇到复杂的任务，提前拆解并动手做一点 上周四的推送，我分享了一个我很喜欢的思维方式：用主动的姿态拥抱生活，提前去做该做的事情。 有些读者提出疑问：这样会不会变成提前去焦虑和担忧了呢？ 其实它适用的范围是这样的：如果一件事情你知道自己早晚要做，那么早做通常是比晚做要好的。 很多人有一个习惯：觉得一件事情很麻烦，很困难，面对它会感到痛苦，于是为了逃避这种痛苦而一直拖着。但如果这件事情早晚都要做，那拖延不但无济于事，反而会让它变得更加难以收拾。还不",
+     "source": "虎嗅",
+     "zh": "我很想跟你分享的4个生活方式"
+    },
+    {
+     "title": "潜伏约 16 年的 UEFI 高危漏洞 CVE-2026-97631 曝光：CVSS 评分 9.5，影响多家固件供应商",
+     "link": "https://www.ithome.com/1/019/771.htm",
+     "pubDate": "Thu, 29 Oct 2026 13:36:05 GMT",
+     "summary": "IT之家 10 月 29 日消息，一项潜伏约 16 年的 UEFI 固件漏洞获曝光，编号为 CVE-2026-97631，CVSS 4.0 评分达到 9.5 分（满分 10 分）。 该漏洞存在于开源 UEFI 参考实现 TianoCore EDK II 的 PXE 网络启动驱动中，攻击者可在特定条件下于操作系统启动前执行恶意代码，影响使用相关组件的服务器及其他设备。 根据 TianoCore 于当地时间 10 月 22 日发布的安全公告，该漏洞源于 EDK II 的 PXE Base Code 驱动（NetworkPkg / UefiPxeBcDxe）在处理 ICMP 错误报文时存在缓冲区越界",
+     "source": "IT之家",
+     "zh": "潜伏约 16 年的 UEFI 高危漏洞 CVE-2026-97631 曝光：CVSS 评分 9.5，影响多家固件供应商"
+    },
+    {
+     "title": "单季亏近亿，悦康药业把10亿筹码推向核酸赛道丨看财报",
+     "link": "https://www.tmtpost.com/8186831.html",
+     "pubDate": "Thu, 29 Oct 2026 21:35:37 +0800",
+     "summary": "悦康药业当下的处境，正是国内一众传统药企向创新药转型过程中“青黄不接”的典型样本。",
+     "source": "钛媒体",
+     "zh": "单季亏近亿，悦康药业把10亿筹码推向核酸赛道丨看财报"
+    },
+    {
+     "title": "Sources: Microsoft is seeking to raise $25B+ in its first US investment-grade bond sale since 2017, when it raised $17B, to fund AI-related capital expenditures (Bloomberg)",
+     "link": "https://www.techmeme.com/261029/p27#a261029p27",
+     "pubDate": "Thu, 29 Oct 2026 09:35:02 -0400",
+     "summary": "Bloomberg : Sources: Microsoft is seeking to raise $25B+ in its first US investment-grade bond sale since 2017, when it raised $17B, to fund AI-related capital expenditures &nbsp; &mdash;&nbsp; Microsoft Corp. is looking to raise at least $25 billion from its first US investment-grade bond sale in m",
+     "source": "Techmeme",
+     "zh": "资料来源：微软自 2017 年以来首次发行美国投资级债券，寻求筹集 25B+ 美元，当时该公司筹集了 17B 美元，为人工智能相关的资本支出提供资金（彭博社）"
+    },
+    {
+     "title": "微软 Win11 新增“云重建”功能，无需 U 盘即可重装系统",
+     "link": "https://www.ithome.com/1/019/770.htm",
+     "pubDate": "Thu, 29 Oct 2026 13:34:49 GMT",
+     "summary": "IT之家 10 月 29 日消息，据科技媒体 Windows Central 今天报道，微软 Win11 系统现已新增“云重建”功能，使用户无需准备 U 盘，也能为系统损坏的电脑重装。 IT之家从原报道获悉，该功能已在 KB5127936 可选更新中推出，预计未来向所有用户推送。它可以通过 Windows Update 下载系统和设备驱动程序，完全不依赖现有系统。 即使电脑无法正常进入系统 ， 用户也可以直接重装系统 。 此外，该功能要求用户将计算机联网并接通电源。对部分用户而言，云重建有望免去提前制作 USB 恢复盘的麻烦。即使电脑发生严重故障，Windows 也能直接从微软服务器下载系统。",
+     "source": "IT之家",
+     "zh": "微软 Win11 新增“云重建”功能，无需 U 盘即可重装系统"
+    },
+    {
+     "title": "百度集团副总裁吴甜离职，知情人士称文心模型下周将有新进展",
+     "link": "https://www.ithome.com/1/019/769.htm",
+     "pubDate": "Thu, 29 Oct 2026 13:32:37 GMT",
+     "summary": "IT之家 10 月 29 日消息，针对百度集团副总裁、百度研究院副院长吴甜离职的传闻，百度公关经理在朋友圈作出回应，确认吴甜已结束在百度的任职。她表示，百度的技术工作仍在向前推进。 据接近百度的知情人士透露，文心模型方面下周将有新进展对外发布。IT之家此前报道，百度世界 2026 大会定于 11 月 12 日举行，官方信息显示大会将展示文心 Unlimited OCR 2 的技术亮点及应用潜力，并发布百度“芯云模体”全栈 AI 的最新升级成果。 公开资料显示，吴甜在百度工作约 20 年。她于 2006 年硕士毕业于浙江大学后加入百度，从技术研发岗位起步，是文心一言模型早期的主要技术负责人之一。",
+     "source": "IT之家",
+     "zh": "百度集团副总裁吴甜离职，知情人士称文心模型下周将有新进展"
+    },
+    {
+     "title": "长鑫科技，被骗子盯上了",
+     "link": "https://www.huxiu.com/article/4901524.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 21:25:20 +0800",
+     "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 一封标注为长鑫科技的面试邮件，可能不是机遇，而是一套早已量产的诈骗剧本。 10月29日，长鑫科技发布声明强调，近期，公司再次发现有不法分子及非法中介机构，假借“长鑫科技”、“长鑫集团”、“长鑫存储”名义，在网络平台上散布虚假招聘信息。此类行为不仅严重侵害了广大应聘者的个人信息与财产安全，也对公司声誉造成了恶劣影响。 长鑫科技再次郑重提醒：请勿下载不明软件，不点击陌生链接，不向非官方人员提供个人敏感信息；不参与付费或做任务获取招聘机会的活动；不轻信非官方社交账号散布虚假承诺、虚构岗位地点与薪资等。 凤凰网《风暴眼》发现，这类仿冒招聘已经形成流水线",
+     "source": "虎嗅",
+     "zh": "长鑫科技，被骗子盯上了"
+    },
+    {
      "title": "System76 推出 Thelio Prime 迷你主机：锐龙 9000 系列 CPU、可选独显",
      "link": "https://www.ithome.com/1/019/768.htm",
      "pubDate": "Thu, 29 Oct 2026 13:21:52 GMT",
@@ -1753,28 +1865,12 @@
      "zh": "战魔田默｜抖音集团副总裁李亮炮轰秦朔！“字节时间”究竟触碰了什么？"
     },
     {
-     "title": "顺丰控股 2026 年前三季度归母净利润 82.15 亿元，同比下降 1.12%",
-     "link": "https://www.ithome.com/1/019/767.htm",
-     "pubDate": "Thu, 29 Oct 2026 13:14:33 GMT",
-     "summary": "IT之家 10 月 29 日消息，顺丰控股今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告： 2026 年前三季度 营业总收入 ：2377.27 亿元，同比增长 5.53% 毛利润 ：313.44 亿元 毛利率 ：13.19% 归母净利润 ：82.15 亿元，同比下降 1.12% 扣非净利润 ：75.09 亿元，同比增长 10.78% 经营现金流 ：190.66 亿元，同比下降 1.8% 加权平均净资产收益率 ：8.1% 基本每股收益 ：1.63 元，同比下降 2.4% 稀释每股收益 ：1.63 元，同比下降",
-     "source": "IT之家",
-     "zh": "顺丰控股 2026 年前三季度归母净利润 82.15 亿元，同比下降 1.12%"
-    },
-    {
      "title": "星链限速罗生门带来的思考",
      "link": "https://www.huxiu.com/article/4901523.html?f=rss",
      "pubDate": "Thu, 29 Oct 2026 21:10:33 +0800",
      "summary": "本文来自微信公众号： 太空与网络 ，作者：李刚 星链限速罗生门带来的思考——商业航天的穿透式监管势在必行 2026年10月，一场围绕星链服务被人为限速的争议，让全球商业航天在技术叙事之外看到了更复杂的问题，暴露出战略性空间信息基础设施更深层的治理争议。这场争议的特别之处在于技术现象很清楚，责任归属却无从落实。它不是一次偶然的服务故障，而是私营企业后台策略、政府非正式意图与军用资产运营边界三者交错之后产生的结构性模糊。对正处在组网关键期的中国商业航天而言，这是一次重要的提示，值得管理部门与企业认真对待。 事件：一条“速度阈值”引发的地缘震荡 风波起于10月13日前后。当时乌克兰军队反馈，搭载卫星",
      "source": "虎嗅",
      "zh": "星链限速罗生门带来的思考"
-    },
-    {
-     "title": "智己 LS8 NEO 纯电版开启预售，权益价 24.98 万元起",
-     "link": "https://www.ithome.com/1/019/760.htm",
-     "pubDate": "Thu, 29 Oct 2026 13:08:45 GMT",
-     "summary": "IT之家 10 月 29 日消息，智己 LS8 NEO 纯电版现已开启预售， 权益价 24.98 万元起 。该车采用全域 800V 高压平台、全新 NEO 飓风电机和全新 IM ECU Master 能效大师管理系统 3.0，配备宁德时代电池。 IT之家附该车各版本预售价格如下： 93 Max+：24.98 万元 103 Max+：26.98 万元 外观方面，智己 LS8 NEO 纯电版延续家族设计风格，采用纯电车型专属的封闭式前脸，带有贯穿式星环前灯，车顶前端搭载激光雷达。后尾同样配备贯穿式尾灯，整体轮廓与车头形成呼应，识别度颇高。 该车长宽高分别为 5085*2000*1807mm ，轴距",
-     "source": "IT之家",
-     "zh": "智己 LS8 NEO 纯电版开启预售，权益价 24.98 万元起"
     },
     {
      "title": "领导公认的\"工作能力强\"，其实就这4件事",
@@ -1785,68 +1881,12 @@
      "zh": "领导公认的\"工作能力强\"，其实就这4件事"
     },
     {
-     "title": "研究：电池能量密度突破 500Wh/kg，太阳能飞机就能在高空连飞数月",
-     "link": "https://www.ithome.com/1/019/759.htm",
-     "pubDate": "Thu, 29 Oct 2026 13:07:42 GMT",
-     "summary": "IT之家 10 月 29 日消息，想要让太阳能飞机在日落后继续停留在空中，需要做出艰难取舍：电池容量越大，储存的电能越多，但电池自重又会增加飞机的能耗。 一项由美国主导的新研究提出了一项电池性能指标，有望让无人飞行器连续飞行数周甚至数月。 研究分析得出，500 瓦时每千克（Wh/kg）的电池能量密度，是这类长航时太阳能飞行器在大气条件适宜区域持续飞行的关键门槛。 这类飞行器会在距离地面约 6 万英尺 （IT之家注：约 18.3 千米） 的平流层飞行，用于气候研究、飓风追踪、野火监测等观测任务。 白天依靠太阳能板供电，同时给电池充电，夜间依靠电池续航飞行。 破解电池重量难题 这项研究由克雷格 ·",
-     "source": "IT之家",
-     "zh": "研究：电池能量密度突破 500Wh/kg，太阳能飞机就能在高空连飞数月"
-    },
-    {
-     "title": "今日宜休发布行业首套弹性调休方案「好状态」计划：员工精力指数低于 60 分，可自主申请调休",
-     "link": "https://www.ithome.com/1/019/757.htm",
-     "pubDate": "Thu, 29 Oct 2026 13:06:12 GMT",
-     "summary": "IT之家 10 月 29 日现场消息，ISHO 今日宜休 AI 睡眠科技生态产品发布会已告一段落。今日宜休科技公司创始人王腾今晚发布了 ISHO Ring / ISHO Ring Pro 智能戒指和 ISHO iFlow 智能温控系统 / &nbsp;iFlow 智能温控系统 Pro。 王腾今日还发布了行业首套弹性调休方案 ——「好状态」计划： 当员工精力指数低于 60 分，可以自主申请调休 ，对接飞书 MCP 实现自动请假（每季度不超过 10 次）。 IT之家注意到，「好状态」计划面向全行业开放落地， 提供企业专属优惠、专属团队支持 ，专人协助完成 MCP 调试。王腾称，好的工作不应以牺牲睡",
-     "source": "IT之家",
-     "zh": "今日宜休发布行业首套弹性调休方案「好状态」计划：员工精力指数低于 60 分，可自主申请调休"
-    },
-    {
-     "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-     "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-     "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
-     "summary": "Deepgram said that it is committed to keep Pipecat open source.",
-     "source": "TechCrunch",
-     "zh": "Deepgram 收购 Pipecat 制造商 Daily 以加强其语音人工智能基础设施"
-    },
-    {
-     "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-     "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
-     "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
-     "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
-     "source": "TechCrunch",
-     "zh": "亚马逊更新 Alexa 以帮助您管理购物清单、订阅并更新送货说明"
-    },
-    {
      "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
      "link": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
      "summary": "Six days from now, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston on Nov. 4 to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
      "source": "TechCrunch",
      "zh": "在 6 天的 TechCrunch 创始人峰会上，您将向谁学习？与上台的创始人和投资者见面"
-    },
-    {
-     "title": "王腾发布会公开向小米、雷军致谢：真心实意感激过往这段经历，学到许多",
-     "link": "https://www.ithome.com/1/019/756.htm",
-     "pubDate": "Thu, 29 Oct 2026 12:54:59 GMT",
-     "summary": "IT之家 10 月 29 日现场消息，在今晚 ISHO 今日宜休 AI 睡眠科技生态产品发布会的最后， 公司创始人王腾公开向小米、雷总（雷军）致谢 ，表示之前学到了许多。 关于是不是蹭雷军流量，王腾回应称自己是真心实意感激过往这段经历， 虽然今天自己已经开始创业，但还是非常珍惜过往的这段经历 。 据IT之家此前报道，王腾此前曾任小米中国区市场部总经理，并兼任 REDMI 品牌总经理。去年 9 月，小米发布内部公告， 决定给予王腾辞退的处分 。随后，王腾在微博平台发文称，“ 过去犯了一些错误，接受该有的代价 。”",
-     "source": "IT之家",
-     "zh": "王腾发布会公开向小米、雷军致谢：真心实意感激过往这段经历，学到许多"
-    },
-    {
-     "title": "绿泡泡慢慢长大",
-     "link": "https://www.huxiu.com/article/4901511.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 20:50:38 +0800",
-     "summary": "本文来自微信公众号： 资本不熬夜 ，作者：不熬夜研究院 10月27日晚，字节跳动的一位高管，替竞争对手腾讯说起了好话。 当天，红果短剧公开否认了年化收入接近400亿元的传闻。随后，抖音集团副总裁李亮发文，反对外界提出的“中国互联网进入字节时间”的判断，并特别提到，腾讯短剧和短视频的增长速度，远远超过抖音和红果。 这番话，与此前的市场数据形成了反差。 2026年7月，中国移动互联网总使用时长排名前四的App中，字节占据三个席位。抖音超过微信位居第一，抖音极速版排名第三，红果则挤进第四。 微信，正在遭遇一种类似当年移动、联通的尴尬。 人们每天都需要打开它，却未必愿意把更多空闲时间交给它。Quest",
-     "source": "虎嗅",
-     "zh": "绿泡泡慢慢长大"
-    },
-    {
-     "title": "BV打破沉默，为何晚了5年？",
-     "link": "https://www.huxiu.com/article/4901518.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 20:47:00 +0800",
-     "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | BV打破沉默，为何晚了5年？》 一个奢侈品牌重新开始说话，但令人好奇的反而是，它为什么不再沉默。 据时尚商业快讯，意大利奢侈品牌Bottega Veneta近日重新启用官方Instagram账号，以一条写着意大利问候语Ciao的限时动态，结束了始于2021年的社交媒体平台沉默，引发市场的广泛关注。 没有长篇声明，也没有解释当年退出与如今回归的原因，这个品牌用一句简单的问候，重新加入了相较于五年前更加激烈的社交媒体竞争。 2021年1月，Daniel Lee执掌创意方向期间，品牌推出多款热门手袋和鞋履配饰，并凭借",
-     "source": "虎嗅",
-     "zh": "BV打破沉默，为何晚了5年？"
     },
     {
      "title": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单",
@@ -1857,18 +1897,18 @@
      "zh": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单"
     },
     {
-     "title": "零售的效率战争，不能只靠“砍”",
-     "link": "https://www.huxiu.com/article/4901516.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 20:45:52 +0800",
-     "summary": "本文来自微信公众号： 灵兽 ，作者：楚勿留香 零售的效率战争，拼的是谁能看清哪些钱不该花、哪些事必须做好，并把这些判断落实到每天的经营里。 零售企业对效率的焦虑，最终往往落到几个最容易动手的地方：砍人、砍商品、缩面积。 账面上的成本是降了，但生意不一定就更好。门店少了几个人，留下的人忙得团团转；货架看着清爽了，顾客想买的东西却找不着。此外，服务是省下来了，熟客也慢慢不来了。 在8月20日举办的2026中国零售小业态发展大会上的“效率战争，重塑零售新增长”圆桌论坛环节，宇洋食品（上海）有限公司总经理陈宇峰把问题抛给了四位嘉宾：什么是真提效，什么是伪降本，AI到底怎么落地？ 元数科技CEO何辉，衢",
-     "source": "虎嗅",
-     "zh": "零售的效率战争，不能只靠“砍”"
+     "title": "银行股日子不好过，这位分析师押注两只股票",
+     "link": "https://www.tmtpost.com/8186837.html",
+     "pubDate": "Thu, 29 Oct 2026 20:45:34 +0800",
+     "summary": "瑞银负责美国大型银行的分析师埃丽卡·纳贾里安更看好那些拥有大量超额资本的银行。中期选举可能对该行业意味着什么。",
+     "source": "钛媒体",
+     "zh": "银行股日子不好过，这位分析师押注两只股票"
     },
     {
      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
      "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
      "pubDate": "Thu, 29 Oct 2026 12:41:56 +0000",
-     "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 42 # Comments: 18",
+     "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 84 # Comments: 44",
      "source": "Hacker News",
      "zh": "Gemini 4 Carbon 在人工智能分析智能指数 v5 中排名新一"
     },
@@ -1884,7 +1924,7 @@
      "title": "DoorDash to Acquire Instacart",
      "link": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
      "pubDate": "Thu, 29 Oct 2026 12:33:05 +0000",
-     "summary": "Article URL: https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx Comments URL: https://news.ycombinator.com/item?id=50287919 Points: 56 # Comments: 39",
+     "summary": "Article URL: https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx Comments URL: https://news.ycombinator.com/item?id=50287919 Points: 79 # Comments: 47",
      "source": "Hacker News",
      "zh": "DoorDash 收购 Instacart"
     },
@@ -1892,7 +1932,7 @@
      "title": "Hackers expose the identities of more than 40k DHS employees",
      "link": "https://text.npr.org/nx-s1-6021497",
      "pubDate": "Thu, 29 Oct 2026 12:31:09 +0000",
-     "summary": "Article URL: https://text.npr.org/nx-s1-6021497 Comments URL: https://news.ycombinator.com/item?id=50287898 Points: 46 # Comments: 12",
+     "summary": "Article URL: https://text.npr.org/nx-s1-6021497 Comments URL: https://news.ycombinator.com/item?id=50287898 Points: 58 # Comments: 15",
      "source": "Hacker News",
      "zh": "黑客泄露了超过 4 万名国土安全部员工的身份"
     },
@@ -1908,7 +1948,7 @@
      "title": "If IPv4 Were Land",
      "link": "https://iptrust.co/blog/if-ipv4-were-land",
      "pubDate": "Thu, 29 Oct 2026 12:19:00 +0000",
-     "summary": "Article URL: https://iptrust.co/blog/if-ipv4-were-land Comments URL: https://news.ycombinator.com/item?id=50287775 Points: 91 # Comments: 68",
+     "summary": "Article URL: https://iptrust.co/blog/if-ipv4-were-land Comments URL: https://news.ycombinator.com/item?id=50287775 Points: 101 # Comments: 74",
      "source": "Hacker News",
      "zh": "如果 IPv4 是陆地"
     },
@@ -1924,7 +1964,7 @@
      "title": "NetBSD adds a new beginner-friendly text editor called atto",
      "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
      "pubDate": "Thu, 29 Oct 2026 11:59:01 +0000",
-     "summary": "Article URL: https://mastodon.sdf.org/@netbsd/117518160563539748 Comments URL: https://news.ycombinator.com/item?id=50287599 Points: 30 # Comments: 20",
+     "summary": "Article URL: https://mastodon.sdf.org/@netbsd/117518160563539748 Comments URL: https://news.ycombinator.com/item?id=50287599 Points: 39 # Comments: 30",
      "source": "Hacker News",
      "zh": "NetBSD 添加了一个新的适合初学者的文本编辑器，称为 atto"
     },
@@ -1935,46 +1975,6 @@
      "summary": "Lauren McCarthy / New York Times : Kalshi raised $1B led by Sequoia and Wellington Management at a $40B valuation, up from a $22B valuation after raising $1B in May, its last raise before an IPO &nbsp; &mdash;&nbsp; The prediction market raised $1 billion in a new funding round and landed a market v",
      "source": "Techmeme",
      "zh": "Kalshi 在红杉资本和 Wellington Management 的带领下以 40B 美元的估值筹集了 10 亿美元，高于 5 月份筹集 10 亿美元的估值 220 亿美元，这是其 IPO 前的最后一次融资（Lauren McCarthy/纽约时报）"
-    },
-    {
-     "title": "礼鼎半导体：累计亏超14亿，控股股东身兼大客户与供应商｜IPO观察",
-     "link": "https://www.tmtpost.com/8177496.html",
-     "pubDate": "Thu, 29 Oct 2026 19:54:45 +0800",
-     "summary": "礼鼎半导体营收快速攀升，2023至2025年营收由11.83亿元增至28.29亿元，2026年一季度再录得9.24亿元，但企业长期深陷亏损泥潭，三年零三个月累计亏损达14.37亿元，直至2026年一季度才短暂实现0.5亿元利润，盈利稳定性仍待验证。",
-     "source": "钛媒体",
-     "zh": "礼鼎半导体：累计亏超14亿，控股股东身兼大客户与供应商｜IPO观察"
-    },
-    {
-     "title": "长盈精密前三季度转亏0.66亿元，具身智能收入大增532%仍未撑起利润 | 看财报",
-     "link": "https://www.tmtpost.com/8186722.html",
-     "pubDate": "Thu, 29 Oct 2026 19:53:40 +0800",
-     "summary": "具身智能是否能撑起第三曲线有待观察",
-     "source": "钛媒体",
-     "zh": "长盈精密前三季度转亏0.66亿元，具身智能收入大增532%仍未撑起利润 | 看财报"
-    },
-    {
-     "title": "玉柴船电：控股股东身兼大客户与供应商，大额分红后募资补流引争议｜IPO观察",
-     "link": "https://www.tmtpost.com/8177512.html",
-     "pubDate": "Thu, 29 Oct 2026 19:51:39 +0800",
-     "summary": "玉柴船电能港股IPO成功吗？",
-     "source": "钛媒体",
-     "zh": "玉柴船电：控股股东身兼大客户与供应商，大额分红后募资补流引争议｜IPO观察"
-    },
-    {
-     "title": "Google determines the names for bodies of water in Google Earth (2008)",
-     "link": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
-     "pubDate": "Thu, 29 Oct 2026 11:41:18 +0000",
-     "summary": "Article URL: https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html Comments URL: https://news.ycombinator.com/item?id=50287448 Points: 54 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "Google 确定 Google 地球中水体的名称 (2008)"
-    },
-    {
-     "title": "DoorDash agrees to acquire Instacart in a ~$17B deal, paying $65 per share, a 26% premium to its October 22 close, as the platform delivery market consolidates (Reuters)",
-     "link": "https://www.techmeme.com/261029/p22#a261029p22",
-     "pubDate": "Thu, 29 Oct 2026 07:31:17 -0400",
-     "summary": "Reuters : DoorDash agrees to acquire Instacart in a ~$17B deal, paying $65 per share, a 26% premium to its October 22 close, as the platform delivery market consolidates &nbsp; &mdash;&nbsp; DoorDash (DASH.O) said on Thursday it would buy Instacart (CART.O) in a deal valued at about $17 billion, ste",
-     "source": "Techmeme",
-     "zh": "随着平台交付市场的整合，DoorDash 同意以约 17B 美元的交易收购 Instacart，每股支付 65 美元，较 10 月 22 日收盘价溢价 26%（路透社）"
     }
    ]
   },
@@ -1984,6 +1984,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iOS 27.3 release date: Here’s when to expect new iPhone features",
+     "link": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
+     "pubDate": "Thu, 29 Oct 2026 13:44:21 +0000",
+     "summary": "Apple released iOS 27.2 this week with new features for Messages , Siri AI , and Photos , plus an Apple Music rebrand and more. But work on iOS 27.3 is already well underway, here’s when to expect the next big iPhone update. more…",
+     "source": "9to5Mac",
+     "zh": "iOS 27.3 发布日期：iPhone 新功能的发布时间"
+    },
     {
      "title": "Viltrox rounds out its F1.4 Pro trio with an $829 35mm prime",
      "link": "https://www.dpreview.com/news/viltrox-rounds-out-its-f1p4-pro-trio-with-an-829-35mm-prime/",
@@ -2215,14 +2223,6 @@
      "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
      "source": "少数派",
      "zh": "让 Agent 读懂你的身体：数据处理篇"
-    },
-    {
-     "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-     "link": "https://sspai.com/post/116686",
-     "pubDate": "Thu, 29 Oct 2026 11:00:00 +0800",
-     "summary": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。 查看全文",
-     "source": "少数派",
-     "zh": "一日一技｜iPhone 恶意被锁，线上移除流程拆招"
     }
    ]
   },
@@ -2233,116 +2233,164 @@
    "total": 13,
    "items": [
     {
-     "title": "Banco de Sabadell, S.A. reports Q3 results",
-     "link": "https://seekingalpha.com/news/4660256-banco-de-sabadell-s-a-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:28:47 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Banco de Sabadell, S.A. 报告第三季度业绩"
+     "title": "DoorDash to acquire Instacart for $17 billion",
+     "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+     "pubDate": "Thu, 29 Oct 2026 13:44:32 GMT",
+     "summary": "The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners.",
+     "source": "CNBC",
+     "zh": "DoorDash 将以 170 亿美元收购 Instacart"
     },
     {
-     "title": "First US Bancshares GAAP EPS of $0.36, revenue of $10.81M",
-     "link": "https://seekingalpha.com/news/4660259-first-us-bancshares-gaap-eps-of-0_36-revenue-of-10_81m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:28:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "第一美国银行股 GAAP 每股收益为 0.36 美元，收入为 1,081 万美元"
+     "title": "ServiceNow’s stock is on track for its worst day ever. Here’s what went wrong.",
+     "link": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
+     "pubDate": "Thu, 29 Oct 2026 13:44:00 GMT",
+     "summary": "Shares in the software company were down 24% on Thursday morning as investors digested its third-quarter earnings.",
+     "source": "MarketWatch",
+     "zh": "ServiceNow 的股价有望迎来有史以来最糟糕的一天。这就是出了问题的地方。"
     },
     {
-     "title": "Oshkosh declares $0.57 dividend",
-     "link": "https://seekingalpha.com/news/4660258-oshkosh-declares-0_57-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:28:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "奥什科什宣布派息 0.57 美元"
-    },
-    {
-     "title": "ADT to be acquired by Thrive Holdings in $15.3B deal",
-     "link": "https://seekingalpha.com/news/4660253-adt-to-be-acquired-by-thrive-holdings-in-153b-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:27:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ADT 将被 Thrive Holdings 以 15.3B 美元的交易收购"
-    },
-    {
-     "title": "Cognizant craters after Q4 revenue guidance falls short of estimates",
-     "link": "https://seekingalpha.com/news/4660231-cognizant-craters-after-q4-revenue-guidance-falls-short-of-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:26:55 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "第四季度收入指引低于预期后，认知坑"
-    },
-    {
-     "title": "Ares Management declares $1.35 dividend",
-     "link": "https://seekingalpha.com/news/4660257-ares-management-declares-1_35-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 09:26:36 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ares Management 宣布派息 1.35 美元"
-    },
-    {
-     "title": "斯托克欧洲600指数涨幅扩大至1%",
-     "link": "http://finance.eastmoney.com/news/11440,202610293914842898.html",
-     "pubDate": "Thu, 29 Oct 2026 21:21:57 +0800",
-     "summary": "斯托克欧洲600指数涨幅扩大至1%，触及日内高点。",
+     "title": "美股三大指数集体下跌 纳指跌逾1% 谷歌股价重挫逾10%",
+     "link": "http://finance.eastmoney.com/news/1345,202610293914853111.html",
+     "pubDate": "Thu, 29 Oct 2026 21:43:02 +0800",
+     "summary": "10月29日，美股三大指数集体下跌，截至发稿，道指跌0.59%，纳指跌1.68%，标普500指数跌0.55%。 个股方面，谷歌股价重挫逾10%，创该公司历史最大单日跌幅。公司第三季度营收1275.8亿美元，同比增长25%，低于市场预期的1279.1亿美元；调整后每股收益2.67美元，低于 市场 预期的2.97美元。 全球要闻 美国第三季度GDP季调后环比折年率初值为3.4% 预估为3.2% 美国第三季度GDP季调后环比折年率初值为3.4%，预估为3.2%，前值为2.2%。美国9月核心个人消费支出价格指数环比增长0.3%，预估为0.3%，前值为0.2%。同比增长3.1%，预估3.1%。 美国9月",
      "source": "东方财富股票",
-     "zh": "斯托克欧洲600指数涨幅扩大至1%"
+     "zh": "美股三大指数集体下跌 纳指跌逾1% 谷歌股价重挫逾10%"
     },
     {
      "title": "European Central Bank keeps key interest rate on hold at 2.5%",
      "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-     "pubDate": "Thu, 29 Oct 2026 13:21:52 GMT",
+     "pubDate": "Thu, 29 Oct 2026 13:41:39 GMT",
      "summary": "",
      "source": "CNBC",
      "zh": "欧洲央行维持主要利率在2.5%不变"
     },
     {
-     "title": "欧洲央行维持利率不变，12月加息预期升温",
-     "link": "http://hk.eastmoney.com/news/1533,202610293914842581.html",
-     "pubDate": "Thu, 29 Oct 2026 21:21:33 +0800",
-     "summary": "欧洲央行维持利率在2.5%不变，符合市场预期。与此同时，行长拉加德将提前离任的消息，进一步加剧了市场对能源成本和法国局势的担忧。在利率政策方面，欧洲央行选择暂时观望。自伊朗战争冲击能源市场以来，欧洲央行已两次加息。官员们担心通胀率可能升至2%目标的两倍，但目前尚未发现油气价格上涨向其他领域扩散的迹象。与此同时，此前表现出乎意料地坚韧的欧洲经济增长势头正在减弱。市场普遍预计，决策者将在12月再次加息。届时，欧洲央行将公布最新经济预测，以评估通胀压力究竟有多严重。法国局势加剧了金融环境收紧，正进一步抑制需求。分析师预计，年末加息将是欧洲央行本轮加息周期的最后一次。不过，投资者押注2027年还会有两",
-     "source": "东方财富股票",
-     "zh": "欧洲央行维持利率不变，12月加息预期升温"
+     "title": "National Capital Bank of Washington declares $0.26 dividend",
+     "link": "https://seekingalpha.com/news/4660274-national-capital-bank-of-washington-declares-0_26-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:41:30 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "华盛顿国家资本银行宣布派息 0.26 美元"
     },
     {
-     "title": "市场削减对欧洲央行的加息押注；预计到2027年底将累计加息68个基点",
-     "link": "http://finance.eastmoney.com/news/1351,202610293914843217.html",
-     "pubDate": "Thu, 29 Oct 2026 21:21:13 +0800",
-     "summary": "市场削减对欧洲央行的加息押注；预计到2027年底将累计加息68个基点。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "市场削减对欧洲央行的加息押注；预计到2027年底将累计加息68个基点"
+     "title": "Tiptree declares $0.06 dividend",
+     "link": "https://seekingalpha.com/news/4660272-tiptree-declares-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:39:58 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tiptree 宣布派息 0.06 美元"
     },
     {
-     "title": "珠免集团2026年三季度净亏损1617.44万元",
-     "link": "http://stock.eastmoney.com/news/11215,202610293914844442.html",
-     "pubDate": "Thu, 29 Oct 2026 21:20:18 +0800",
-     "summary": "10月29日， 珠免集团 发布2026年第三季度报告，报告期内， 珠免集团 实现营业收入5.66亿元，同比下降25.26%；归属于上市公司股东的净利润亏损1617.44万元。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "珠免集团2026年三季度净亏损1617.44万元"
+     "title": "Verizon announces tender offers for five series of notes",
+     "link": "https://seekingalpha.com/news/4660245-verizon-announces-tender-offers-for-five-series-of-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:39:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Verizon 宣布对五个系列票据的要约收购"
     },
     {
-     "title": "【图解财报】中远海控三季报盈利306.49亿人民币，同比增加13.22%",
-     "link": "http://stock.eastmoney.com/news/11837,202610293914841260.html",
-     "pubDate": "Thu, 29 Oct 2026 21:20:10 +0800",
-     "summary": "中远海控 10月29日发布 三季报 业绩，截至2026年9月30日的 9 个月内，该公司营业收入1876.14亿人民币，同比 增长11.94%； 公司权益持有人应占溢利（归母净利润）306.49亿人民币， 同比增长13.22% 。 中远海控 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用",
-     "source": "东方财富股票",
-     "zh": "【图解财报】中远海控三季报盈利306.49亿人民币，同比增加13.22%"
+     "title": "Pitney Bowes declares $0.10 dividend",
+     "link": "https://seekingalpha.com/news/4660270-pitney-bowes-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:38:58 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pitney Bowes 宣布派息 0.10 美元"
     },
     {
-     "title": "欧洲央行：核心通胀总体保持稳定",
-     "link": "http://finance.eastmoney.com/news/1351,202610293914841981.html",
-     "pubDate": "Thu, 29 Oct 2026 21:19:14 +0800",
-     "summary": "欧洲央行：核心通胀总体保持稳定。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "欧洲央行：核心通胀总体保持稳定"
+     "title": "谷歌财报重挫市场信心，纳指低开跌1.35%，Alphabet跌幅扩大至13.7%，创历史最大跌幅",
+     "link": "https://wallstreetcn.com/articles/3784748",
+     "pubDate": "Thu, 29 Oct 2026 21:38:31 +0800",
+     "summary": "全球科技股集体承压。谷歌母公司Alphabet季度营收逊于预期，市场对人工智能巨额投入能否转化为充分回报的疑虑再度升温，纳斯达克100指数下挫1.3%，此前连续三个交易日的反弹势头面临终结。 美股三大股指集体低开，道指跌0.45%，标普500指数跌0.5%，纳指跌1.35%。Alphabet 股价跌幅扩大至13.7%，创历史最大跌幅。Lumentum涨超3%，迈威尔科技跌超11%，报道称迈威尔科技洽谈收购数据中心光模块厂商Lumentum，预计最快下周宣布。 上述连锁反应，折射出投资者对AI赛道日益严苛的审视逻辑——愿意为AI叙事溢价买单的耐心，正在随着现金流压力的显现而加速消退。 美股三大股",
+     "source": "华尔街见闻",
+     "zh": "谷歌财报重挫市场信心，纳指低开跌1.35%，Alphabet跌幅扩大至13.7%，创历史最大跌幅"
     },
     {
-     "title": "DoorDash to acquire Instacart for $17 billion",
-     "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-     "pubDate": "Thu, 29 Oct 2026 13:17:33 GMT",
-     "summary": "The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners.",
-     "source": "CNBC",
-     "zh": "DoorDash 将以 170 亿美元收购 Instacart"
+     "title": "PC Connection declares $0.20 dividend",
+     "link": "https://seekingalpha.com/news/4660269-pc-connection-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:38:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PC Connection 宣布派息 0.20 美元"
+    },
+    {
+     "title": "读财报｜无糖饮料越卖越火，代糖巨头们为何“甜”不起来",
+     "link": "http://finance.eastmoney.com/news/1354,202610293914883915.html",
+     "pubDate": "Thu, 29 Oct 2026 21:37:54 +0800",
+     "summary": "截至10月29日，国内代糖行业主要头部上市公司2026年第三季度报告披露完毕。作为 食品饮料 上游核心原料供应商， 金禾实业 、 保龄宝 、 三元生物 、 莱茵生物 四家头部企业的业绩表现，直接反映出当前国内代糖行业的供需格局、成本传导能力以及下游需求变化。从已公开的财报数据来看，行业整体营收规模保持扩张态势，但盈利端却出现明显分化，除 金禾实业 外，其余三家企业三季度扣非净利润均同比下滑，甚至出现亏损，“增收不增利”成为当前代糖行业的普遍特征。 产能释放与需求爬坡 很多人平时点奶茶、买无糖饮料时，已经习惯看“零糖、零脂、零卡”的标签，喝到嘴里的每一口甜味，背后都连着 金禾实业 、 保龄宝 、",
+     "source": "东方财富股票",
+     "zh": "读财报｜无糖饮料越卖越火，代糖巨头们为何“甜”不起来"
+    },
+    {
+     "title": "南方乳业前三季度净利约1.63亿元",
+     "link": "http://stock.eastmoney.com/news/11219,202610293914881842.html",
+     "pubDate": "Thu, 29 Oct 2026 21:37:26 +0800",
+     "summary": "10月29日晚间， 南方乳业 （920196）发布2026年三季报显示，公司前三季度实现归属净利润约为1.63亿元。 财报显示，2026年前三季度， 南方乳业 实现营业收入约为13.71亿元；对应实现归属净利润约为1.63亿元。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "南方乳业前三季度净利约1.63亿元"
+    },
+    {
+     "title": "ST豆神2026年三季度净利润2568.96万元",
+     "link": "http://stock.eastmoney.com/news/11215,202610293914881923.html",
+     "pubDate": "Thu, 29 Oct 2026 21:37:22 +0800",
+     "summary": "10月29日， ST豆神 发布2026年第三季度报告，报告期内， ST豆神 实现营业收入2.33亿元，同比下降28.78%；归属于上市公司股东的净利润2568.96万元，同比增长312.35%。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "ST豆神2026年三季度净利润2568.96万元"
+    },
+    {
+     "title": "中国能建：截至9月30日最新股东户数76.76万户，较上期减少10.93%",
+     "link": "http://stock.eastmoney.com/news/11111,202610293914866458.html",
+     "pubDate": "Thu, 29 Oct 2026 21:37:05 +0800",
+     "summary": "中国能建 最新披露数据显示，截至9月30日公司股东户数为76.76万户，较上期(2026年6月30日) 减少9.42万户，降幅为10.93% 。户均持有流通股数量 由上期的4.84万股上升至5.43万股， 户均持股金额 由上期的12.76万元增加至12.98万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不",
+     "source": "东方财富股票",
+     "zh": "中国能建：截至9月30日最新股东户数76.76万户，较上期减少10.93%"
+    },
+    {
+     "title": "卡特彼勒股价开盘下跌12%",
+     "link": "http://finance.eastmoney.com/news/11440,202610293914868535.html",
+     "pubDate": "Thu, 29 Oct 2026 21:37:05 +0800",
+     "summary": "卡特彼勒 股价开盘下跌12%，较6月份的历史最高纪录下跌40%。",
+     "source": "东方财富股票",
+     "zh": "卡特彼勒股价开盘下跌12%"
+    },
+    {
+     "title": "Intercontinental Exchange to bring Trade[XYZ]'s perpetual markets onshore in U.S.",
+     "link": "https://seekingalpha.com/news/4660247-intercontinental-exchange-to-bring-tradexyzs-perpetual-markets-onshore-in-us?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 09:36:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "洲际交易所将 Trade[XYZ] 的永久市场引入美国境内"
+    },
+    {
+     "title": "美股三大指数集体下跌 纳指跌近2% 谷歌股价重挫逾10%",
+     "link": "http://finance.eastmoney.com/news/1345,202610293914853111.html",
+     "pubDate": "Thu, 29 Oct 2026 21:36:08 +0800",
+     "summary": "10月29日，美股三大指数集体下跌，截至发稿，道指跌0.59%，纳指跌1.68%，标普500指数跌0.55%。 个股方面，谷歌股价重挫逾10%，创该公司历史最大单日跌幅。公司第三季度营收1275.8亿美元，同比增长25%，低于市场预期的1279.1亿美元；调整后每股收益2.67美元，低于 市场 预期的2.97美元。 全球要闻 美国第三季度GDP季调后环比折年率初值为3.4% 预估为3.2% 美国第三季度GDP季调后环比折年率初值为3.4%，预估为3.2%，前值为2.2%。美国9月核心个人消费支出价格指数环比增长0.3%，预估为0.3%，前值为0.2%。同比增长3.1%，预估3.1%。 美国9月",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体下跌 纳指跌近2% 谷歌股价重挫逾10%"
+    },
+    {
+     "title": "“易中天”三季报出齐！公募、险资、牛散操作是这样的",
+     "link": "http://finance.eastmoney.com/news/1345,202610293914848669.html",
+     "pubDate": "Thu, 29 Oct 2026 21:25:41 +0800",
+     "summary": "“易中天”三季报全部出炉。 继 天孚通信 后，A股光 通信 行业巨头 中际旭创 、 新易盛 10月29日披露三季报。受益于全球AI算力基建加速带动高速光模块销售放量，今年前三季度头部上市公司营业收入、归母净利润均实现同比增长，积极布局CPO、NPO等下一代光 通信 技术，不过盈利增速有所分化。 第三季度以来，尽管A股光模块板块回调，但公募、险资纷纷加仓，挺入上市公司前十大流通股东。 布局下一代技术 作为光模块龙头， 中际旭创 2026年前三季度实现营业收入695.47亿元，同比增长178.13%；归母净利润达222.38亿元，同比激增211.81%；其中第三季度公司归母净利润达到85.87亿元",
+     "source": "东方财富资讯",
+     "zh": "“易中天”三季报出齐！公募、险资、牛散操作是这样的"
+    },
+    {
+     "title": "Christine Lagarde to step down as ECB president in February",
+     "link": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1",
+     "pubDate": "Thu, 29 Oct 2026 13:18:56 GMT",
+     "summary": "Departure announced just hours before central bank held interest rates at 2.5%",
+     "source": "Financial Times",
+     "zh": "克里斯蒂娜·拉加德将于二月辞去欧洲央行行长一职"
+    },
+    {
+     "title": "欧洲央行维持三大关键利率不变 符合市场预期",
+     "link": "http://finance.eastmoney.com/news/1345,202610293914836746.html",
+     "pubDate": "Thu, 29 Oct 2026 21:15:30 +0800",
+     "summary": "欧洲央行分别将存款机制利率、主要再融资利率、边际贷款利率维持在2.50%、2.65%、2.90%不变，符合市场预期。 欧洲央行承诺将通胀率稳定在2%的中期目标水平，会随时准备调整所有工具。 欧洲央行表示，能源价格持续上涨，能源冲击的规模和持续时间增加，可能推 高通 胀并拖累经济增长。融资条件较上次会议以来有所收紧，也可能对通胀和经济增长形成抑制。当前潜在通胀总体保持稳定，工资尚未出现明显反应。 欧洲央行表示，资产购买计划（APP）和疫情紧急购买计划（PEPP）项下资产组合将继续以可控、可预期的速度下降，欧元体系不再对到期证券本金进行再投资。欧洲央行同时表示，必要时可动用职权范围内的各项工具，以",
+     "source": "东方财富资讯",
+     "zh": "欧洲央行维持三大关键利率不变 符合市场预期"
     },
     {
      "title": "被压价二十年的存储厂，借AI向苹果“复仇”",
@@ -2409,68 +2457,20 @@
      "zh": "我们教会有 150 万美元的遗赠，在银行账户中赚取 3.75% 的利息。通货膨胀会侵蚀它吗？"
     },
     {
+     "title": "10月29日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202610293914670180.html",
+     "pubDate": "Thu, 29 Oct 2026 21:00:00 +0800",
+     "summary": "热点聚焦 中国共产党第二十届中央委员会第五次全体会议公报： 中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。全会强调，要做好岁末年初各项工作。坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，加快构建新发展格局， 用好用足宏观政策，深入挖掘内需潜力，进一步深化改革开放，推动经济持续向新向优向好发展 ， 确保完成今年经济社会发展主要目标任务，实现“十五五”良好开局。统筹发展和安全，加强普惠性、基础性、兜底性民生建设，做好安全生产、防灾减灾救灾、食品药品安全和社会稳定工作。 多只科技龙头股业绩出炉 ： 今日，包含 中际旭创 ， 胜宏科技 ， 兆易创新 ， ",
+     "source": "东方财富资讯",
+     "zh": "10月29日东方财富财经晚报（附新闻联播）"
+    },
+    {
      "title": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
      "link": "https://www.marketwatch.com/story/doordash-and-instacart-want-to-join-forces-will-the-u-s-government-get-in-their-way-0c065bee?mod=mw_rss_topstories",
      "pubDate": "Thu, 29 Oct 2026 12:58:00 GMT",
      "summary": "The companies say their proposed merger will help smaller grocers compete, but analysts wonder if regulators will conduct an “extended review” of antitrust risks.",
      "source": "MarketWatch",
      "zh": "DoorDash 和 Instacart 想要联手。美国政府会阻止他们吗？"
-    },
-    {
-     "title": "US economy beats forecasts to grow at 3.4% rate in third quarter",
-     "link": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab?syn-25a6b1a6=1",
-     "pubDate": "Thu, 29 Oct 2026 12:48:01 GMT",
-     "summary": "AI spending boom continues to fuel growth in world’s largest economy",
-     "source": "Financial Times",
-     "zh": "美国经济第三季度增长 3.4% 超出预期"
-    },
-    {
-     "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-     "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-     "pubDate": "Thu, 29 Oct 2026 12:45:00 GMT",
-     "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-     "source": "MarketWatch",
-     "zh": "“豪华汽车没有吸引力”：我们有 99% 的机会花光毕生积蓄。为什么不花钱、花钱、花钱？"
-    },
-    {
-     "title": "SK海力士为股价发愁",
-     "link": "http://www.eeo.com.cn/2026/1029/1079011.shtml",
-     "pubDate": "Thu, 29 Oct 2026 20:41:34 +0800",
-     "summary": "整个存储市场的需求增长明显超出预期，先进制程的导入也较为复杂，新建工厂需要时间，短期内SK海力士很难完全满足客户的数量需求。",
-     "source": "经济观察网",
-     "zh": "SK海力士为股价发愁"
-    },
-    {
-     "title": "Analysis: Kevin Warsh is keeping his options open — and Wall Street guessing",
-     "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-     "pubDate": "Thu, 29 Oct 2026 12:38:18 GMT",
-     "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
-     "source": "CNBC",
-     "zh": "分析：凯文·沃什保留了他的选择余地——华尔街的猜测"
-    },
-    {
-     "title": "美国9月PCE物价指数同比3.6%，为5月以来最高，核心指数同比加速至3.1%",
-     "link": "https://wallstreetcn.com/articles/3784781",
-     "pubDate": "Thu, 29 Oct 2026 20:30:26 +0800",
-     "summary": "美国通胀压力再度升温，能源价格上涨正与居民储蓄空间收窄形成叠加压力。 当地时间10月29日公布的数据显示，美国9月个人消费支出（PCE）物价指数同比上涨3.6%，符合市场预期，但高于前值3.4%，创今年5月以来最高水平。环比来看，9月PCE物价指数上涨0.5%，同样符合预期，较此前通胀指标首次出现回落的6月明显反弹。 美联储重点关注的核心PCE物价指数也呈现小幅升温态势。剔除波动较大的食品和能源价格后，9月核心PCE同比上涨3.1%，符合市场预期，高于前值3%；环比上涨0.3%，同样符合预期。 近期原油价格突然反弹，进一步推高了能源相关通胀。与此同时，美国居民收入和消费支出增速均不及预期，个人",
-     "source": "华尔街见闻",
-     "zh": "美国9月PCE物价指数同比3.6%，为5月以来最高，核心指数同比加速至3.1%"
-    },
-    {
-     "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-     "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-     "pubDate": "Thu, 29 Oct 2026 12:09:47 GMT",
-     "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
-     "source": "CNBC",
-     "zh": "Alphabet 盈利不佳反映出人工智能正在蚕食搜索领域的第一个真正迹象"
-    },
-    {
-     "title": "比亚迪Q3净利润同比增长28.08%至100.19亿元，海外扩张推动营收回升至13.59% | 财报见闻",
-     "link": "https://wallstreetcn.com/articles/3784767",
-     "pubDate": "Thu, 29 Oct 2026 20:07:22 +0800",
-     "summary": "比亚迪第三季度业绩显著改善，单季盈利能力大幅提升，但前三季度整体净利润仍受累于汇兑损失和投资收益下滑，同比出现下降。 第三季度，比亚迪实现营业收入2214.88亿元，同比增长13.59%；归属于上市公司股东的净利润100.19亿元，同比增长28.08%，为近期最强单季表现。 扣除非经常性损益后，单季净利润86.30亿元，同比增长25.25%，显示核心业务盈利能力持续改善。 然而，受汇兑损失及投资收益大幅缩水拖累，前三季度归母净利润223.45亿元，同比下降4.24%。尽管如此，扣非归母净利润达210.04亿元，同比增长2.51%，反映主营业务基本面保持稳健。经营活动产生的现金流量净额544.7",
-     "source": "华尔街见闻",
-     "zh": "比亚迪Q3净利润同比增长28.08%至100.19亿元，海外扩张推动营收回升至13.59% | 财报见闻"
     }
    ]
   },

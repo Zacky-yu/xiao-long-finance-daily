@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/29 09:35:35",
+ "generated_at": "2026/10/29 09:45:27",
  "recent_days": 7,
  "industries": [
   {
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "FERC approves tougher MISO penalties for nonperforming demand-side resources",
      "link": "https://www.utilitydive.com/news/ferc-miso-penalties-demand-side-resource-lmr/873006/",
      "pubDate": "Wed, 28 Oct 2026 09:42:35 -0400",
-     "summary": "Two Federal Energy Regulatory Commission members urged parties to monitor the rules in case they drive well-performing demand response and behind-the-meter resources from the Midcontinent&nbsp;grid operator&rsquo;s market.",
+     "summary": "Two Federal Energy Regulatory Commission members urged parties to monitor the rules in case they drive well-performing demand response and behind-the-meter resources out of the Midcontinent&nbsp;grid operator&rsquo;s market.",
      "source": "Utility Dive",
      "zh": "FERC 批准对不良需求方资源实施更严厉的 MISO 处罚"
     },
@@ -1213,7 +1213,7 @@ window.INDUSTRY_DATA = {
      "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
      "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
      "pubDate": "Wed, 28 Oct 2026 11:15:00 -0400",
-     "summary": "The plan builds on recent FDA moves to speed \"personalized\" treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease.",
+     "summary": "The plan advances recent agency moves to accelerate &ldquo;personalized&rdquo; treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "FDA 公布“即插即用”基因疗法指南"
     },
@@ -1738,6 +1738,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "欧盟迎来历史性里程碑时刻：今年 Q3 电动汽车销量超汽柴油车总和",
+     "link": "https://www.ithome.com/1/019/312.htm",
+     "pubDate": "Thu, 29 Oct 2026 01:44:21 GMT",
+     "summary": "IT之家 10 月 29 日消息，据外媒 insideevs 今天（29 日）凌晨报道，欧洲电动汽车销量持续攀升。今年第三季度，电动汽车销量超过了汽油车和柴油车的总和。 致力于气候保护倡导和研究的欧洲运输与环境联合会（T&amp;E）公布数据显示，欧洲汽车市场进一步向纯电转型。今年第二季度，电动汽车销量首次超过汽油车，第三季度优势进一步扩大。 该季度，欧盟市场共售出 492930 辆汽油车和 162610 辆柴油车 ，合计 655540 辆，同期电动汽车销量则 达到 710580 辆 ，超过了传统汽油车和柴油车的总和。 电动汽车销量增长并非少数几个国家拉动的结果。欧盟 27 个成员国中， 13",
+     "source": "IT之家",
+     "zh": "欧盟迎来历史性里程碑时刻：今年 Q3 电动汽车销量超汽柴油车总和"
+    },
+    {
+     "title": "一汽红旗全新一代天工 08 新增 620 四驱 Ultra 版本，限时权益价 21.99 万元",
+     "link": "https://www.ithome.com/1/019/311.htm",
+     "pubDate": "Thu, 29 Oct 2026 01:43:35 GMT",
+     "summary": "IT之家 10 月 29 日消息，中国一汽今日宣布，全新一代红旗天工 08 车型 620 四驱 Ultra 上市， 限时权益价 21.99 万元 。 据IT之家此前报道，今年 8 月 1 日， 一汽红旗全新一代天工 08 车型 670 Max 上市 ，限时权益价 17.99 万元。 新车长宽高为 4925x1950x1680mm，轴距为 3000mm；延续红旗新能源标志性贯穿发光旗标封闭式前脸，搭配全新 L 型分体式 LED 灯组，纵向红旗徽标贯穿车头；车身侧面配备隐藏式门把手、双色悬浮车顶。 新车内饰搭载灵犀智能座舱，配备 15.6 英寸双联屏；搭载红旗司南辅助驾驶系统，支持高速领航辅助、城",
+     "source": "IT之家",
+     "zh": "一汽红旗全新一代天工 08 新增 620 四驱 Ultra 版本，限时权益价 21.99 万元"
+    },
+    {
+     "title": "一线小细胞肺癌之争：安进刷新OS记录，再鼎抛出新命题",
+     "link": "https://www.tmtpost.com/8185124.html",
+     "pubDate": "Thu, 29 Oct 2026 09:42:00 +0800",
+     "summary": "来自中国创新的新变量。",
+     "source": "钛媒体",
+     "zh": "一线小细胞肺癌之争：安进刷新OS记录，再鼎抛出新命题"
+    },
+    {
+     "title": "赴港IPO降速“换挡”",
+     "link": "https://www.huxiu.com/article/4901319.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 09:41:08 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：邹文榕 历经近一年燥热后，赴港上市潮进入罕见“冷静期”。 10月25日，被市场称作“工业具身智能第一股”的常州微亿智造科技股份有限公司（下称微亿智造）发布公告，经考虑多项因素（包括现行市况），决定延迟全球发售及其拟于香港联交所主板上市。 按照此前公告，微亿智造的港交所“敲锣”时间原定于10月28日。 上市前三天叫停IPO的并非微亿智造一家。江苏瘦西湖文化旅游股份有限公司（下称瘦西湖文旅）也在10月20日盘后披露，经考虑多项因素，包括现行市况，决定延迟全球发售及主板上市。 公开资料显示，瘦西湖文旅拟发售4476万股H股，其中香港公开发售仅占10%（447.",
+     "source": "虎嗅",
+     "zh": "赴港IPO降速“换挡”"
+    },
+    {
+     "title": "谷粒 Joy-Con 2 TMR 电磁摇杆新增紫-绿、黑-黑配色，到手价 62 元",
+     "link": "https://www.ithome.com/1/019/310.htm",
+     "pubDate": "Thu, 29 Oct 2026 01:41:04 GMT",
+     "summary": "IT之家 10 月 29 日消息，谷粒 (GuliKit) 此前推出了经典蓝-红配色的 Joy-Con 2 TMR 电磁摇杆。而在昨日， 该品牌带来了这一替换组件的紫-绿、黑-黑 2 种新配色款式 ，当前到手价均为 62 元。 京东 谷粒 Joy-Con 2 TMR 电磁摇杆 紫-绿 62 元 直达链接 谷粒 Joy-Con 2 TMR 电磁摇杆基于隧道磁阻传感器，采用与 Joy-Con 2 原装摇杆完全一致的尺寸和结构设计，可无需改动电路直接替换。 京东 谷粒 Joy-Con 2 TMR 电磁摇杆 黑-黑 62 元 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3",
+     "source": "IT之家",
+     "zh": "谷粒 Joy-Con 2 TMR 电磁摇杆新增紫-绿、黑-黑配色，到手价 62 元"
+    },
+    {
+     "title": "AI要拆掉美国互联网的收费站？",
+     "link": "https://www.tmtpost.com/8185095.html",
+     "pubDate": "Thu, 29 Oct 2026 09:38:37 +0800",
+     "summary": "超级入口松动了。",
+     "source": "钛媒体",
+     "zh": "AI要拆掉美国互联网的收费站？"
+    },
+    {
+     "title": "“老登”企业，得学会夹起尾巴用AI",
+     "link": "https://www.tmtpost.com/8185052.html",
+     "pubDate": "Thu, 29 Oct 2026 09:38:32 +0800",
+     "summary": "老干妈和厂二代们，都栽在了评论区。",
+     "source": "钛媒体",
+     "zh": "“老登”企业，得学会夹起尾巴用AI"
+    },
+    {
+     "title": "拿了一亿补贴的机场，停航了",
+     "link": "https://www.huxiu.com/article/4901317.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 09:35:11 +0800",
+     "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 今年2月1日，九寨黄龙飞成都天府的3U6676航班上，只载了一位旅客。 对他来说，只花了200块，却完成了今生都难忘的一次飞行，对机组来说，55分钟的航程，不管多少旅客都照常执行——只是对一座机场来说，这样的航班很难撑起它的日常。 去年10月，民航局公示2026年中小机场补贴预算，全国191个机场，共享25.8亿元，其中九寨黄龙机场排在第一，拿到1.0369亿元，比第二名甘孜康定多出将近一倍。 四个月后，民航局公布2025年全国机场吞吐量： 九寨黄龙全年3.2万人次。 平均一天不到100人。 回想2005年，通航才两年的九寨黄龙，旅客吞吐量就",
+     "source": "虎嗅",
+     "zh": "拿了一亿补贴的机场，停航了"
+    },
+    {
      "title": "Valve 回应“Steam 平台低质量 AI 游戏泛滥”：正持续优化作品推荐机制",
      "link": "https://www.ithome.com/1/019/309.htm",
      "pubDate": "Thu, 29 Oct 2026 01:34:47 GMT",
@@ -1802,52 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "韩国的GDP，写在别人的预算表上"
     },
     {
-     "title": "京东红包今日 10 点再加码：猜数字抢 5 元红包",
-     "link": "https://www.ithome.com/1/019/304.htm",
-     "pubDate": "Thu, 29 Oct 2026 01:20:22 GMT",
-     "summary": "今日 10 点京东红包再加码，猜数字有机会抢 5 元加码红包： 点此抽取 。 猜数字红包玩法：每人 3 次机会，猜中锦鲤数字后即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。猜错后会缩小锦鲤数字的范围并提示用户，如果用户 3 次机会均未猜中，则无法获得任何奖励。 蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
-     "source": "IT之家",
-     "zh": "京东红包今日 10 点再加码：猜数字抢 5 元红包"
-    },
-    {
      "title": "Muse和灵光来了，但月薪八千的年轻人不在牌桌上",
      "link": "https://www.huxiu.com/article/4901307.html?f=rss",
      "pubDate": "Thu, 29 Oct 2026 09:19:53 +0800",
      "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 “AI办公热潮最盛的时候过去了，现在大家都在看Personal AI（个人AI助理）。但Personal AI长什么样子，感觉都还在观望。因为要用这玩意，可能需要你开放手机电脑里更多权限，你愿意吗？” 几天前，一位大厂人士向《木禾商业财经》叹气。结果就在昨天（10月27日），蚂蚁发布灵光2.0，姑且可以称为中国版Muse，能替你盯机票降价、翻支付宝账单、找闲置续费。同一天，英伟达宣布30亿美元入股Meta，绑定的正是Meta的全球新星Muse，把自己从“芯片卖家”变成“明星产品股东”。 显然，Personal AI，又开始成为AI精英们看中的下",
      "source": "虎嗅",
      "zh": "Muse和灵光来了，但月薪八千的年轻人不在牌桌上"
-    },
-    {
-     "title": "芒果综艺困于“找狼游戏”",
-     "link": "https://www.huxiu.com/article/4901306.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 09:19:48 +0800",
-     "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 《后会友期》里，厉娜坐在许飞对面，说“恨过，非常久。”镜头迅速切回观察室，几张凝重的脸随即出现在屏幕上。弹幕瞬间炸开，有人刷“许飞在装”，有人刷“厉娜在演”，两拨人隔着屏幕完成了对彼此的定性。 节目组大概很满意这个效果。首播当晚，厉娜许飞对峙、马天宇张萌断联十年、黄婷婷李艺彤旧账等话题，接连挂在热搜上。一档打着“友情治愈”旗号的节目，最先被看见的，仍然是人性的黑暗面。 这就是骨朵想说的“找狼游戏”。观众坐在屏幕前，像是进入了一局狼人杀：谁是好人，谁是狼人，谁在撒谎，谁在表演，谁该被原谅，谁该被判出局。节目提供素材，社交平台提供场地，剪辑",
-     "source": "虎嗅",
-     "zh": "芒果综艺困于“找狼游戏”"
-    },
-    {
-     "title": "跟叛逆的闺女斗智斗勇",
-     "link": "https://www.huxiu.com/article/4901304.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 09:18:35 +0800",
-     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 要脸肯定是不成的 继续写点带娃的邪修经验。 之前写说防止娃“叛逆”最好的办法不是制止，也不是揍一顿，而是坚定不移的跟她站在一起去犯傻，而且你要比娃更傻，傻到她自己都觉得受不了了，叛逆行为自然就停止了。 你比方说我们家闺女每次去商场，不管看上什么东西都是很好言好语的过来跟我商量今天能不能买这个，能不能买那个。如果她特别想要动用自己零花钱的时候，那自然是不用跟我上脸的：我们约定过了，她花自己的那部分钱吃了喝了玩了，哪怕是换成钢镚儿全扔水里这我也管不着。但是如果她不是花自己的零花钱的时候就必须要申请并且获得同意。 要不说小朋友都聪明呢，自从有了“她",
-     "source": "虎嗅",
-     "zh": "跟叛逆的闺女斗智斗勇"
-    },
-    {
-     "title": "首批风云卫星极端天气 AI 模型发布，27 秒就能生成台风“体检报告”",
-     "link": "https://www.ithome.com/1/019/303.htm",
-     "pubDate": "Thu, 29 Oct 2026 01:16:43 GMT",
-     "summary": "IT之家 10 月 29 日消息，据央视新闻报道，10 月 29 日，首批风云气象卫星极端天气人工智能模型在 2026 年风云卫星用户大会上正式发布，推动风云卫星应用从“看清现在”迈向“预测未来”。 IT之家从报道中获悉，此次发布的台风智能云图解译模型，融合风云卫星多通道云图及相关产品， 可自动分析台风的位置、结构、强度及演变趋势，并生成解译文本 。 目前，该模型已形成覆盖 7 类台风特征、融合 20 余种卫星实况产品的综合解译能力， 每 15 分钟开展一次解译，仅需 27 秒即可生成解译文本。 以今年第 26 号台风“舒力基”为例，模型自动识别台风后，对强度、风圈半径、降水特征等进行了综合分",
-     "source": "IT之家",
-     "zh": "首批风云卫星极端天气 AI 模型发布，27 秒就能生成台风“体检报告”"
-    },
-    {
-     "title": "鸿蒙智行智界 V9 累计交付突破 3 万台，刷新 50 万级 MPV 最快交付纪录",
-     "link": "https://www.ithome.com/1/019/301.htm",
-     "pubDate": "Thu, 29 Oct 2026 01:12:08 GMT",
-     "summary": "IT之家 10 月 29 日消息，智界汽车今日宣布，智界 V9 累计交付突破 30,000 台， 刷新 50 万级 MPV 最快交付纪录 。 据IT之家此前报道，10 月 21 日， 智界 V9 第 30000 台正式下线 。该车型上市以来，连续四个月获 40 万以上 MPV 市场销量冠军。 该车于今年 5 月 15 日上市，售价 38.98 万 - 51.98 万元，尺寸为 5359×2009×1879mm、轴距达 3250mm，拥有辉光紫、雪域白、深海蓝、鎏金黑四款外观配色，以及绒霞紫、韶华杏、赤茶橘三款内饰配色。新车全系标配 38 个传感器，是行业首款搭载 896 线激光雷达的 MPV。",
-     "source": "IT之家",
-     "zh": "鸿蒙智行智界 V9 累计交付突破 3 万台，刷新 50 万级 MPV 最快交付纪录"
     },
     {
      "title": "Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% (Tom Warren/The Verge)",
@@ -1866,34 +1890,10 @@ window.INDUSTRY_DATA = {
      "zh": "基金市场概况与资产配置观点 （10.19—10.25）"
     },
     {
-     "title": "不到1%的负净资产样本，如何扭曲A股行业PB均值？",
-     "link": "https://www.tmtpost.com/8185378.html",
-     "pubDate": "Thu, 29 Oct 2026 08:32:54 +0800",
-     "summary": "当个别公司的PB因净资产为负、且分母接近零而出现极端读数时，简单平均可能被严重扭曲。",
-     "source": "钛媒体",
-     "zh": "不到1%的负净资产样本，如何扭曲A股行业PB均值？"
-    },
-    {
-     "title": "价值判断：跌停板的投资机会和风险提示（10月27日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8185373.html",
-     "pubDate": "Thu, 29 Oct 2026 08:32:04 +0800",
-     "summary": "本期入选的三只标的均为首次跌停且收盘价仍高于济安定价，一只来自地产开发，两只分别来自智慧水务设备与特种集成电路。",
-     "source": "钛媒体",
-     "zh": "价值判断：跌停板的投资机会和风险提示（10月27日）｜上市公司观察"
-    },
-    {
-     "title": "价值判断：涨停板的投资机会和风险提示（10月27日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8185367.html",
-     "pubDate": "Thu, 29 Oct 2026 08:31:15 +0800",
-     "summary": "本期入选的六只标的分处两端：三只首次涨停且估值低于济安定价，分别来自制冷零部件、汽车制动与汽车内饰；三只连板且估值高出济安定价四成八至八成七，分别来自零售消费、特种钢丝绳与汽车轴承。",
-     "source": "钛媒体",
-     "zh": "价值判断：涨停板的投资机会和风险提示（10月27日）｜上市公司观察"
-    },
-    {
      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
      "pubDate": "Thu, 29 Oct 2026 00:30:37 +0000",
-     "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 12 # Comments: 12",
+     "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 24 # Comments: 16",
      "source": "Hacker News",
      "zh": "MicroZig 将采取严格的禁止 LLM/禁止 AI 政策"
     },
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
      "link": "https://divagr.com/blog/qwenputer",
      "pubDate": "Thu, 29 Oct 2026 00:25:45 +0000",
-     "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 29 # Comments: 2",
+     "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 50 # Comments: 9",
      "source": "Hacker News",
      "zh": "Qwenputer：Qwen3.5 内运行的确定性 RISC-V CPU"
     },
@@ -1925,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
      "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
      "pubDate": "Thu, 29 Oct 2026 00:16:08 +0000",
-     "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 22 # Comments: 18",
+     "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 35 # Comments: 36",
      "source": "Hacker News",
      "zh": "《纽约时报》为其烹饪应用程序添加了更多人工智能功能。用户并不兴奋"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
      "pubDate": "Wed, 28 Oct 2026 23:45:46 +0000",
-     "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 65 # Comments: 19",
+     "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 69 # Comments: 20",
      "source": "Hacker News",
      "zh": "GitLab 安全事件：尝试利用 CVE-2026-97229"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "The first wired XR glasses powered by Android XR",
      "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
      "pubDate": "Wed, 28 Oct 2026 23:45:19 +0000",
-     "summary": "Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ Comments URL: https://news.ycombinator.com/item?id=50282538 Points: 18 # Comments: 13",
+     "summary": "Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ Comments URL: https://news.ycombinator.com/item?id=50282538 Points: 20 # Comments: 15",
      "source": "Hacker News",
      "zh": "首款由 Android XR 提供支持的有线 XR 眼镜"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "StackOverflow now gets fewer than 1000 questions a month",
      "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
      "pubDate": "Wed, 28 Oct 2026 23:35:02 +0000",
-     "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 85 # Comments: 87",
+     "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 90 # Comments: 107",
      "source": "Hacker News",
      "zh": "StackOverflow 现在每月收到的问题少于 1000 个"
     },
@@ -2234,6 +2234,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "在“ChatGPT时刻”到来前，宇树科技不急着赚钱",
+     "link": "https://wallstreetcn.com/articles/3784734",
+     "pubDate": "Thu, 29 Oct 2026 09:42:23 +0800",
+     "summary": "宇树科技正在用利润换未来。 三季度营收同比增长70%，G1人形机器人跻身全球最畅销机型—— 这家机器人公司交出了一份亮眼的成绩单 。但与此同时，研发费用单季度暴增250%，毛利率承压，经营现金流大幅收缩。 据追风交易台消息，摩根大通10月29日的研报指出，当前市场的争论焦点， \"与其说是即期利润率扩张，不如说是宇树科技能否持续抢占份额、积累数据、巩固生态系统领先地位\"。 这是一家在物理AI\"ChatGPT时刻\"真正到来之前，主动选择不急着赚钱的公司。摩根大通在最新研报中维持对宇树科技的\"增持\"评级，目标价995元，较当前股价695.90元（10月28日收盘）有约43%的上行空间。 出货量全面提",
+     "source": "华尔街见闻",
+     "zh": "在“ChatGPT时刻”到来前，宇树科技不急着赚钱"
+    },
+    {
+     "title": "Jushi outlines Virginia plan targeting 115+ annual harvests after 3 expansions as adult-use sales begin July 1, 2027",
+     "link": "https://seekingalpha.com/news/4659804-jushi-outlines-virginia-plan-targeting-115-plus-annual-harvests-after-3-expansions-as-adult?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 21:40:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Jushi 概述了弗吉尼亚州的计划，目标是在 3 次扩张后，随着成人使用销售于 2027 年 7 月 1 日开始，每年收成超过 115 倍"
+    },
+    {
+     "title": "10月29日培育钻石板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913318724.html",
+     "pubDate": "Thu, 29 Oct 2026 09:39:28 +0800",
+     "summary": "&emsp;&emsp;10月29日9点33分， 培育钻石 板块指数报2559.097点，涨幅达2%，成交13.00亿元，换手率0.37%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 惠丰钻石 报69.23元，涨6.51%； 沃尔德 报92.76元，涨6.24%； 黄河旋风 报11.78元，涨5.84%； 宏昌科技 报39.87元，涨5.31%； 夜光明 报14.36元，涨3.98%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月29日培育钻石板块涨幅达2%"
+    },
+    {
+     "title": "飞沃科技10月29日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913318676.html",
+     "pubDate": "Thu, 29 Oct 2026 09:39:26 +0800",
+     "summary": "以下是 飞沃科技 在北京时间10月29日09:33分盘口异动快照： 10月29日， 飞沃科技 盘中快速上涨，5分钟内涨幅超过2%，截至9点33分，报70.91元，成交4753.73万元，换手率1.12%。 分笔 09:33:00 70.91 229↑ 09:32:57 69.95 83↑ 09:32:54 69.70 226↑ 09:32:51 69.61 31↑ 09:32:48 69.51 74↑ 09:32:45 69.50 63↓ 09:32:42 69.50 52↓ 09:32:39 69.66 187↓ 09:32:36 69.92 85↓ 09:32:33 70.08 296↑ ",
+     "source": "东方财富股票",
+     "zh": "飞沃科技10月29日快速上涨"
+    },
+    {
+     "title": "瑞泰科技10月29日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913318578.html",
+     "pubDate": "Thu, 29 Oct 2026 09:39:22 +0800",
+     "summary": "以下是 瑞泰科技 在北京时间10月29日09:32分盘口异动快照： 10月29日， 瑞泰科技 盘中快速上涨，5分钟内涨幅超过2%，截至9点32分，报16.56元，成交479.72万元，换手率0.13%。 分笔 09:32:54 16.56 638↑ 09:32:51 16.44 11↓ 09:32:48 16.48 52↑ 09:32:42 16.45 80↑ 09:32:36 16.39 12↓ 09:32:33 16.41 7↓ 09:32:30 16.40 434↓ 09:32:27 16.40 251↑ 09:32:24 16.36 8↓ 09:32:15 16.36 13↓ 报价 卖",
+     "source": "东方财富股票",
+     "zh": "瑞泰科技10月29日快速上涨"
+    },
+    {
+     "title": "江西铜业10月29日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913318360.html",
+     "pubDate": "Thu, 29 Oct 2026 09:39:22 +0800",
+     "summary": "以下是 江西铜业 在北京时间10月29日09:32分盘口异动快照： 10月29日， 江西铜业 盘中跌幅达5%，截至9点32分，报34.71元，成交2.18亿元，换手率0.30%。 分笔 09:32:52 34.71 2136↓ 09:32:49 34.75 586↑ 09:32:46 34.75 595↓ 09:32:43 34.81 736↑ 09:32:40 34.80 335↑ 09:32:37 34.79 717↓ 09:32:34 34.80 410↑ 09:32:31 34.79 1280↑ 09:32:28 34.77 2876↓ 09:32:25 34.82 436↓ 报价 卖",
+     "source": "东方财富股票",
+     "zh": "江西铜业10月29日盘中跌幅达5%"
+    },
+    {
+     "title": "中钨高新10月29日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913318275.html",
+     "pubDate": "Thu, 29 Oct 2026 09:39:19 +0800",
+     "summary": "以下是 中钨高新 在北京时间10月29日09:33分盘口异动快照： 10月29日， 中钨高新 盘中快速上涨，5分钟内涨幅超过2%，截至9点33分，报40.52元，成交2.02亿元，换手率0.35%。 分笔 09:33:18 40.52 1224↑ 09:33:15 40.49 389↑ 09:33:12 40.42 624↑ 09:33:09 40.38 381↑ 09:33:06 40.33 1210↑ 09:33:03 40.25 160↑ 09:33:00 40.23 170↓ 09:32:57 40.24 244↑ 09:32:54 40.21 529↓ 09:32:51 40.20 ",
+     "source": "东方财富股票",
+     "zh": "中钨高新10月29日快速上涨"
+    },
+    {
+     "title": "*ST高科10月29日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913318121.html",
+     "pubDate": "Thu, 29 Oct 2026 09:39:18 +0800",
+     "summary": "以下是 *ST高科 在北京时间10月29日09:33分盘口异动快照： 10月29日， *ST高科 盘中涨幅达5%，截至9点33分，报6.4元，成交1127.03万元，换手率0.31%。 分笔 09:33:17 6.40 104↑ 09:33:11 6.38 296↓ 09:33:08 6.38 642↑ 09:33:05 6.37 214↑ 09:33:02 6.37 46↑ 09:32:59 6.36 992↑ 09:32:56 6.31 76↓ 09:32:53 6.31 275↑ 09:32:50 6.25 82↓ 09:32:47 6.27 303↑ 报价 卖五 6.45 282 卖四",
+     "source": "东方财富股票",
+     "zh": "*ST高科10月29日盘中涨幅达5%"
+    },
+    {
+     "title": "新债王：美联储“瞄瞄瞄、就是不开枪”，CPI“重回4字头”，AI信贷危机类似“次贷前夜”",
+     "link": "https://wallstreetcn.com/articles/3784735",
+     "pubDate": "Thu, 29 Oct 2026 09:32:20 +0800",
+     "summary": "美联储按兵不动，但“新债王”Jeffrey Gundlach警告，真正的风险正在暗流涌动。 在美联储最新议息会议结束后，DoubleLine资本创始人兼首席投资官Gundlach接受CNBC专访，直言美联储陷入“瞄准却迟迟不扣扳机”的困境，同时发出三重警告： CPI即将重回“4字头”、AI相关信贷市场出现类似2006年次贷危机前夜的信号、美国财政赤字正以惊人速度膨胀 。 （左：CNBC主持人Scott Wapner；右：Jeffrey Gundlach） Gundlach明确表示， 基于其通胀模型，未来数月内美国CPI将以“4”开头 ，这一预测主要由能源价格大幅上涨驱动，预计这一局面将持续至少",
+     "source": "华尔街见闻",
+     "zh": "新债王：美联储“瞄瞄瞄、就是不开枪”，CPI“重回4字头”，AI信贷危机类似“次贷前夜”"
+    },
+    {
      "title": "Amarin expects U.S. volumes to remain stable through 2026 while Europe demand rises 68%",
      "link": "https://seekingalpha.com/news/4659803-amarin-expects-u-s-volumes-to-remain-stable-through-2026-while-europe-demand-rises-68-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 28 Oct 2026 21:31:32 -0400",
@@ -2266,52 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nextpower 预计 2027 财年收入为 $4.2B-$4.45B，目标是自由现金流超过 5 亿美元"
     },
     {
-     "title": "朗博科技10月29日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913273897.html",
-     "pubDate": "Thu, 29 Oct 2026 09:31:20 +0800",
-     "summary": "以下是 朗博科技 在北京时间10月29日09:30分盘口异动快照： 10月29日， 朗博科技 盘中快速反弹，5分钟内涨幅超过2%，截至9点30分，报26.73元，成交11.50万元，换手率0.00%。 分笔 09:30:02 26.73 7↓ 09:25:02 26.74 36↑ 09:24:59 26.74 31↑ 09:24:53 26.50 15↑ 09:24:50 26.50 14↑ 09:24:47 26.46 14↑ 09:24:20 26.33 10↑ 09:24:02 26.33 9↑ 09:23:59 26.19 9↑ 09:23:35 26.02 9↑ 报价 卖五 27.2",
-     "source": "东方财富股票",
-     "zh": "朗博科技10月29日快速反弹"
-    },
-    {
-     "title": "安泰集团10月29日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913273751.html",
-     "pubDate": "Thu, 29 Oct 2026 09:31:18 +0800",
-     "summary": "以下是 安泰集团 在北京时间10月29日09:30分盘口异动快照： 10月29日， 安泰集团 盘中快速反弹，5分钟内涨幅超过2%，截至9点30分，报3.66元，成交650.42万元，换手率0.18%。 分笔 09:30:02 3.66 8560↑ 09:25:02 3.60 9421↓ 09:24:59 3.60 9421↑ 09:24:56 3.56 7316↑ 09:24:53 3.56 6878↑ 09:24:50 3.56 6849↑ 09:24:47 3.55 6835↑ 09:24:44 3.55 6774↑ 09:24:41 3.55 6603↑ 09:24:38 3.55 65",
-     "source": "东方财富股票",
-     "zh": "安泰集团10月29日快速反弹"
-    },
-    {
-     "title": "奕帆传动10月29日开盘跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913273465.html",
-     "pubDate": "Thu, 29 Oct 2026 09:31:12 +0800",
-     "summary": "以下是 奕帆传动 在北京时间10月29日09:30分盘口异动快照： 10月29日， 奕帆传动 开盘跌幅达5%，截至9点30分，报32.16元，成交859.37万元，换手率0.40%。 分笔 09:30:00 32.16 1504↓ 09:25:00 32.34 1156↑ 09:24:57 32.35 741↑ 09:24:48 32.46 687↑ 09:24:39 32.46 647↑ 09:24:30 32.46 630↑ 09:24:21 32.46 575↑ 09:24:12 32.50 515↑ 09:24:03 32.51 436↑ 09:23:54 32.51 390↑ 报价 ",
-     "source": "东方财富股票",
-     "zh": "奕帆传动10月29日开盘跌幅达5%"
-    },
-    {
-     "title": "茂业商业10月29日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913273358.html",
-     "pubDate": "Thu, 29 Oct 2026 09:31:11 +0800",
-     "summary": "以下是 茂业商业 在北京时间10月29日09:30分盘口异动快照： 10月29日， 茂业商业 盘中快速反弹，5分钟内涨幅超过2%，截至9点30分，报4.84元，成交3788.68万元，换手率0.45%。 分笔 09:30:02 4.84 29800↓ 09:25:02 4.84 48388↓ 09:24:59 4.76 42509↑ 09:24:56 4.62 33735↑ 09:24:53 4.62 32868↑ 09:24:50 4.62 31380↑ 09:24:47 4.60 29426↑ 09:24:44 4.61 28685↑ 09:24:41 4.61 28154↑ 09:24:",
-     "source": "东方财富股票",
-     "zh": "茂业商业10月29日快速反弹"
-    },
-    {
-     "title": "中广天择10月29日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913272449.html",
-     "pubDate": "Thu, 29 Oct 2026 09:31:07 +0800",
-     "summary": "以下是 中广天择 在北京时间10月29日09:30分盘口异动快照： 10月29日， 中广天择 盘中快速反弹，5分钟内涨幅超过2%，截至9点30分，报20.51元，成交781.78万元，换手率0.29%。 分笔 09:30:02 20.51 1472↓ 09:25:02 20.57 2326↓ 09:24:59 20.20 2259↑ 09:24:56 20.14 1972↑ 09:24:53 20.06 1858↑ 09:24:50 20.05 1846↑ 09:24:47 20.06 1624↑ 09:24:44 20.10 1518↑ 09:24:41 20.18 1263↑ 09:24:",
-     "source": "东方财富股票",
-     "zh": "中广天择10月29日快速反弹"
-    },
-    {
-     "title": "中仑新材10月29日开盘跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913272370.html",
-     "pubDate": "Thu, 29 Oct 2026 09:31:06 +0800",
-     "summary": "以下是 中仑新材 在北京时间10月29日09:30分盘口异动快照： 10月29日， 中仑新材 开盘跌幅达5%，截至9点30分，报16.9元，成交452.38万元，换手率0.21%。 分笔 09:30:00 16.90 1907↓ 09:25:00 16.92 780↑ 09:24:57 16.92 694↑ 09:24:48 17.11 373↑ 09:24:39 17.28 269↑ 09:24:30 17.28 269↑ 09:24:21 17.30 164↑ 09:24:12 17.30 144↑ 09:24:03 17.30 144↑ 09:23:54 17.30 117↑ 报价 卖五",
-     "source": "东方财富股票",
-     "zh": "中仑新材10月29日开盘跌幅达5%"
+     "title": "美国警告了、伊朗谈崩了、胡塞继续打而万斯又要谈了，油价“麻了”",
+     "link": "https://wallstreetcn.com/articles/3784730",
+     "pubDate": "Thu, 29 Oct 2026 09:30:03 +0800",
+     "summary": "中东风险在一夜之间再次升温，军事预警、停火受挫、胡塞武装袭击声明与美伊接触信号交错出现，原油市场被迫同时定价战争升级与外交回旋。 周三，据新华社，卡塔尔调解人员25日在德黑兰向伊朗提交一份旨在结束伊朗与美国、以色列之间战事的新协议草案，一名伊朗高级官员称， 德黑兰无法接受这份草案，并明确表示在核问题上不会作出任何让步。 此前，央视新闻及新华社援引美国媒体报道，美国已通过外交和军事渠道通知多个海湾阿拉伯国家， 要求其在美国中期选举后为一场“短暂而激烈的军事行动”做好准备。 与此同时，美国副总统万斯据称已致信伊朗最高国家安全委员会秘书雷扎伊，试图重启谈判。 军事风险还在外溢。胡塞武装声称使用弹道导",
+     "source": "华尔街见闻",
+     "zh": "美国警告了、伊朗谈崩了、胡塞继续打而万斯又要谈了，油价“麻了”"
     },
     {
      "title": "10月29日集合竞价：青岛食品、光洋股份4连板",
@@ -2362,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "人工智能存储芯片需求不断增长，三星电子第三季度利润符合预期"
     },
     {
-     "title": "Foraco signals 60% utilization is achievable as it targets margin recovery and cash conversion",
-     "link": "https://seekingalpha.com/news/4659798-foraco-signals-60-percent-utilization-is-achievable-as-it-targets-margin-recovery-and-cash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 21:12:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Foraco 表示，由于其目标是利润回收和现金转换，利用率可以达到 60%"
-    },
-    {
      "title": "心理学提醒：你总是焦虑、心慌、停不下来想事情，不是你想太多，是你的大脑太久没有“下线”了",
      "link": "http://www.eeo.com.cn/2026/1029/1075771.shtml",
      "pubDate": "Thu, 29 Oct 2026 09:01:02 +0800",
@@ -2410,28 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI争夺资本！全球债券发售量已破历史记录"
     },
     {
-     "title": "谷歌的“大麻烦”：AI还要烧钱，但搜索已受冲击",
-     "link": "https://wallstreetcn.com/articles/3784724",
-     "pubDate": "Thu, 29 Oct 2026 08:39:33 +0800",
-     "summary": "Alphabet第三季度财报全面失守，令市场对其AI投资回报的疑虑骤然升温。 据彭博报道，Alphabet第三季度剔除流量获取成本后的营收为1112亿美元，略低于分析师预期的1113亿美元；每股收益仅2.12美元，远低于华尔街预期的2.99美元。财报公布后，Alphabet股价盘后一度重挫逾11%，抹去近六个月涨幅，回落至4月水平。 此次财报最令投资者警觉的，是谷歌核心搜索业务的收入首次出现明显缺口——搜索及相关业务营收633.5亿美元，同比增长12%，低于市场预期的648.5亿美元。谷歌首席商务官Philipp Schindler在分析师电话会议上承认， AI模式查询量的强劲增长正带来\"较低",
-     "source": "华尔街见闻",
-     "zh": "谷歌的“大麻烦”：AI还要烧钱，但搜索已受冲击"
-    },
-    {
      "title": "今日看点｜国内油价预计将上调",
      "link": "http://www.eeo.com.cn/2026/1029/1078049.shtml",
      "pubDate": "Thu, 29 Oct 2026 08:38:50 +0800",
      "summary": "国内成品油新一轮调价窗口将在10月29日24时开启。多家机构预测，本轮油价或将上调。",
      "source": "经济观察网",
      "zh": "今日看点｜国内油价预计将上调"
-    },
-    {
-     "title": "微软电话会：预计本财季Azure收入增长高达50%，资本支出受制于“第三方延迟”",
-     "link": "https://wallstreetcn.com/articles/3784721",
-     "pubDate": "Thu, 29 Oct 2026 08:37:15 +0800",
-     "summary": "华尔街见闻提及 ，美东时间28日周三美股盘后，微软公布2027财年第一财季业绩报告，营收同比增长19%至922.8亿美元，较分析师预期高1.8%。 微软云Azure本季度收入增速达48%，高于市场预期，下季度指引区间进一步提升至49%至50%的固定汇率增速。 电话会上，公司管理层指出 本季度Azure强劲表现背后，效率改善是关键变量 。首席财务官Amy Hood解释称，工程团队在GPU和CPU层面持续挖掘效率空间，使微软得以将原本受供给约束的算力更多分配至Foundry平台。 此外Amy Hood坦承，本季度token定价高于预期，高质量模型带来了更高的每token收益，对季度业绩形成额外贡献",
-     "source": "华尔街见闻",
-     "zh": "微软电话会：预计本财季Azure收入增长高达50%，资本支出受制于“第三方延迟”"
     },
     {
      "title": "刚刚！美伊谈判传来大消息！万斯致信伊朗安全高官试图重启谈判",
@@ -2448,14 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "An agreement between the companies could come next week, Bloomberg reported",
      "source": "MarketWatch",
      "zh": "Lumentum 股价上涨，投资者对可能出售给 Marvell 感到高兴"
-    },
-    {
-     "title": "华尔街“琢磨”沃什讲话：暗示还将加息，但幅度不会太大",
-     "link": "https://wallstreetcn.com/articles/3784725",
-     "pubDate": "Thu, 29 Oct 2026 08:17:57 +0800",
-     "summary": "美联储周三维持利率不变，但联储主席沃什措辞被市场解读为今年晚些时候仍将加息的明确信号——只是幅度料将有限。这一“不说破”的沟通策略，令华尔街分析师和交易员各自解读，市场对政策路径的预期也随之逐步清晰。 周三（10月28日）， 美联储以10比2的投票结果决定 将联邦基金利率目标区间维持在3.75%至4%不变，市场随即将目光投向12月会议，并预期2027年初或将再度加息。 沃什在新闻发布会上以强劲经济数据为铺垫，将通胀持续高于2%目标近六年的现实置于政策讨论核心 ，暗示美联储的工作尚未完成。 多位经济学家认为，沃什此番表态实际上为12月加息铺路，同时刻意为自己保留政策灵活性。 BNY Invest",
-     "source": "华尔街见闻",
-     "zh": "华尔街“琢磨”沃什讲话：暗示还将加息，但幅度不会太大"
     },
     {
      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",

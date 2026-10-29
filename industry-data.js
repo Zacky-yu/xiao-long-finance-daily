@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/29 15:09:53",
+ "generated_at": "2026/10/29 15:12:57",
  "recent_days": 7,
  "industries": [
   {
@@ -519,7 +519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 19:09:28 +0000",
      "summary": "Neura Robotics and the Technical University of Munich have opened a €17 million robotics research and training center near Munich Airport, while unveiling the latest generation of Neura’s 4NE1 humanoid robot. The TUM RoboGym powered by Neura covers more than 2,300 square meters at LabCampus and comb",
      "source": "Robotics & Automation",
-     "zh": "Neura Robotics 和 TUM 斥资 1700 万欧元开设 RoboGym，并推出新的人形机器人"
+     "zh": "Neura Robotics 和 TUM 斥资 1700 万欧元开设 RoboGym 并推出新的人形机器人"
     },
     {
      "title": "Maxinsights raises $30 million to build training data platform for physical AI",
@@ -592,6 +592,14 @@ window.INDUSTRY_DATA = {
      "summary": "Team NimbRo’s robot in action during the RoboCup@Home competition at RoboCup 2026. Raphael leads the team. Raphael Memmesheimer has been successfully competing in the RoboCup@Home league winning the RoboCup@Home competition five times. He and his colleagues won the best paper award at RoboCup 2026 f",
      "source": "Robohub",
      "zh": "参加 RoboCup@Home 并获得 2026 年最佳论文奖：Raphael Memmesheimer 专访"
+    },
+    {
+     "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+     "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+     "pubDate": "Tue, 27 Oct 2026 16:14:39 +0000",
+     "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
+     "source": "IEEE Spectrum 机器人",
+     "zh": "您的机器人的安全功能已经发挥作用。如果输入说谎怎么办？"
     },
     {
      "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
@@ -1738,12 +1746,20 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "国际市场原油价格大幅上涨，今晚油价再次实施调控",
+     "title": "距地球约 70 亿公里：太阳系有望迎来第 6 颗国际认证的矮行星",
+     "link": "https://www.ithome.com/1/019/525.htm",
+     "pubDate": "Thu, 29 Oct 2026 07:10:47 GMT",
+     "summary": "IT之家 10 月 29 日消息，薇拉 ·C· 鲁宾天文台（Vera C. Rubin Observatory，VRO）于 10 月 27 日发布博文，宣布在冥王星轨道之外发现一颗新的矮行星候选体， 暂定编号为 2026 ED138。 国际天文学联合会小行星中心已于 10 月 27 日发布相关通告。若后续观测确认， 它将成为海王星之外已知最大、最亮的矮行星之一。 IT之家查询公开资料，矮行星是围绕太阳运行、因自身引力足够大而接近球形，但没有清除轨道附近其他天体、也不是卫星的天体。它介于行星和普通小天体之间；冥王星就是最著名的例子。 天文台国际天文学联合会（IAU）正式认证的矮行星共有 5 颗，",
+     "source": "IT之家",
+     "zh": "距地球约 70 亿公里：太阳系有望迎来第 6 颗国际认证的矮行星"
+    },
+    {
+     "title": "国际原油价格大涨：今晚油价再次实施调控，加满一箱 92 号汽油将多花 13.5 元",
      "link": "https://www.ithome.com/1/019/524.htm",
      "pubDate": "Thu, 29 Oct 2026 07:09:17 GMT",
-     "summary": "IT之家 10 月 29 日消息，国家发展改革委今日宣布，10 月 15 日国内成品油价格调整以来，中东地缘紧张局势升级，国际市场原油价格大幅上涨。 为减缓对国内的冲击，国家再次对成品油价格采取调控措施。 根据现行价格机制计算，自 10 月 29 日 24 时起，国内汽、柴油（标准品）价格每吨分别应上调 440 元、420 元，统筹兼顾减轻下游用户负担和保障成品油安全稳定供应，调控后实际上调 345 元、335 元。 国家发展改革委将指导成品油生产销售企业全力做好成品油生产和调运，确保市场稳定供应，并配合有关部门加大市场监督检查力度，严厉查处不执行国家价格政策等违法违规行为，切实维护市场秩序，",
+     "summary": "IT之家 10 月 29 日消息，国家发展改革委今日宣布，10 月 15 日国内成品油价格调整以来，中东地缘紧张局势升级，国际市场原油价格大幅上涨。为减缓对国内的冲击，国家再次对成品油价格采取调控措施。 根据现行价格机制计算，自 10 月 29 日 24 时起，国内汽、柴油（标准品）价格每吨分别应上调 440 元、420 元，统筹兼顾减轻下游用户负担和保障成品油安全稳定供应，调控后实际上调 345 元、335 元。 全国平均来看：92 号汽油上涨 0.27 元 / 升，95 号汽油上涨 0.29 元 / 升，0 号柴油上涨 0.29 元 / 升。按照油箱容量为 50L 的家用轿车为例，加满一箱",
      "source": "IT之家",
-     "zh": "国际市场原油价格大幅上涨，今晚油价再次实施调控"
+     "zh": "国际原油价格大涨：今晚油价再次实施调控，加满一箱 92 号汽油将多花 13.5 元"
     },
     {
      "title": "X 平台被指强推付费推广功能：发帖时突然弹出一只大手，指向推广按钮",
@@ -1792,14 +1808,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 29 日消息，机械硬盘主要制造商之一的 Seagate（希捷）在其当地时间 27 日的 FY2027Q1 电话财报会议上表示， 其 2028 日历年的近线机械硬盘产能已基本分配完毕 ， 部分客户的协议延长至 2030 日历年 。 希捷表示，其按订单生产合同已为明年近线产品出货确定了具体的配置和定价条款。在未来几个季度中，希捷预计将开始与客户敲定 2028 日历年已分配供应的配置和定价条款。 希捷认为提升面密度而不是硬盘产能是服务客户的最好方式。 其 HAMR 机械硬盘预计将在本日历年底占到整体近线出货容量的一半 ，而单碟 4TB 级的 Mozaic 4 会占到 HAMR 的",
      "source": "IT之家",
      "zh": "希捷：2028 年近线机械硬盘产能基本分配完毕，部分客户协议延长至 2030 年"
-    },
-    {
-     "title": "买了 FSD 却不能用，韩国 89 名车主起诉特斯拉遭法院驳回",
-     "link": "https://www.ithome.com/1/019/519.htm",
-     "pubDate": "Thu, 29 Oct 2026 06:58:05 GMT",
-     "summary": "IT之家 10 月 29 日消息，韩国一家法院驳回了数十名特斯拉车主提起的诉讼，这些车主要求车企退款，理由是该公司未能按时交付 FSD 驾驶辅助技术。 这 89 名原告每人最高索赔 900 万韩元 （IT之家注：现汇率约合 45,261 元人民币） ，理由是他们无法完整使用特斯拉的 FSD 套件。首尔中央地方法院周四驳回了相关诉求， 理由是特斯拉已经通过现已停用的 Autopilot 驾驶辅助软件更新，向用户交付了部分功能。 法官金锡范（Kim Seok-beom）表示：“被告有义务在国内外监管与法律框架允许的范围内，交付技术上可行的自动驾驶功能，原告实际上已经获得了 FSD 套件包含的部分功",
-     "source": "IT之家",
-     "zh": "买了 FSD 却不能用，韩国 89 名车主起诉特斯拉遭法院驳回"
     },
     {
      "title": "留给具身智能的时间不多了",
@@ -1962,20 +1970,20 @@ window.INDUSTRY_DATA = {
      "zh": "环形耳塞折扣代码：40% 折扣"
     },
     {
-     "title": "NZXT Discount Codes: 50% Off in November 2026",
-     "link": "https://www.wired.com/story/nzxt-discount-code/",
-     "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
-     "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
-     "source": "WIRED",
-     "zh": "NZXT 折扣代码：2026 年 11 月 50% 折扣"
-    },
-    {
      "title": "Govee Discount Codes and Deals: 30% Off",
      "link": "https://www.wired.com/story/govee-discount-code/",
      "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
      "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
      "source": "WIRED",
      "zh": "Govee 折扣代码和优惠：30% 折扣"
+    },
+    {
+     "title": "NZXT Discount Codes: 50% Off in November 2026",
+     "link": "https://www.wired.com/story/nzxt-discount-code/",
+     "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
+     "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+     "source": "WIRED",
+     "zh": "NZXT 折扣代码：2026 年 11 月 50% 折扣"
     }
    ]
   },
@@ -2127,7 +2135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 22:40:45 +0000",
      "summary": "In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable smartphone market by 2027. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "报告称，iPhone Duo 可能在 2027 年占据可折叠市场近 30% 的份额"
+     "zh": "报告称，iPhone Duo 可能在 2027 年占据近 30% 的可折叠市场"
     },
     {
      "title": "New MacBook Pro, iPad mini, and more now available for pre-order on Amazon",
@@ -2234,44 +2242,12 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "特朗普暂不对机器人和工业机械加税：先谈180天 美国制造商暂避成本冲击",
-     "link": "http://finance.eastmoney.com/news/1351,202610293913954970.html",
-     "pubDate": "Thu, 29 Oct 2026 15:03:12 +0800",
-     "summary": "当地时间周三，美国总统特朗普决定 暂不对进口 机器人 、工业机械及相关零部件立即征收新关税 ，同时指示美国商务部和美国贸易代表办公室与贸易伙伴展开谈判，寻求就相关商品的进口规模达成协议。 这一决定意味着，美国政府在认定相关进口商品构成国家安全风险后， 暂时没有直接启用关税措施。 路透社报道称，特朗普仍保留未来加征关税的可能性，如果与贸易伙伴的谈判未能解决美国政府提出的担忧，相关进口商品仍可能面临新的贸易限制。 特朗普要求商务部和美国贸易代表办公室共同推进谈判，并在 180天内就谈判进展提交报告 。未来半年谈判结果由此成为美国是否进一步对 机器人 和工业机械进口采取关税措施的关键节点。 暂缓关税",
-     "source": "东方财富股票",
-     "zh": "特朗普暂不对机器人和工业机械加税：先谈180天 美国制造商暂避成本冲击"
-    },
-    {
-     "title": "嘉能可：第三季度自有铜产量为598,600吨",
-     "link": "http://stock.eastmoney.com/news/1611,202610293913951722.html",
-     "pubDate": "Thu, 29 Oct 2026 15:01:43 +0800",
-     "summary": "嘉能可 ：第三季度自有 铜 产量为598,600吨。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "嘉能可：第三季度自有铜产量为598,600吨"
-    },
-    {
-     "title": "嘉能可：年初至今铜产量增长12%",
-     "link": "http://stock.eastmoney.com/news/1611,202610293913951635.html",
-     "pubDate": "Thu, 29 Oct 2026 15:01:43 +0800",
-     "summary": "嘉能可 ：年初至今 铜 产量增长12%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "嘉能可：年初至今铜产量增长12%"
-    },
-    {
-     "title": "国家再次实施调控，成品油价格适当调整",
-     "link": "http://finance.eastmoney.com/news/1351,202610293913949813.html",
-     "pubDate": "Thu, 29 Oct 2026 15:01:42 +0800",
-     "summary": "10月15日国内成品油价格调整以来，中东地缘紧张局势升级，国际市场原油价格大幅上涨。为减缓对国内的冲击，国家再次对成品油价格采取调控措施。根据现行价格机制计算，自10月29日24时起，国内汽、柴油（标准品）价格每吨分别应上调440元、420元，统筹兼顾减轻下游用户负担和保障成品油安全稳定供应，调控后实际上调345元、335元。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "国家再次实施调控，成品油价格适当调整"
-    },
-    {
-     "title": "鸣鸣很忙六盘水仓、晋中仓投运 全国数智化仓配中心已达81座",
-     "link": "http://hk.eastmoney.com/news/11362,202610293913953833.html",
-     "pubDate": "Thu, 29 Oct 2026 15:01:22 +0800",
-     "summary": "上证报中国证券网讯（记者夏子航）10月28日， 鸣鸣很忙 集团贵州六盘水仓、山西晋中仓投入运营， 鸣鸣很忙 全国数智化仓配中心总数达到81座，总面积超200万平方米。 目前， 鸣鸣很忙 已形成覆盖全国的仓储配送网络，日均出库量约500万件，开设配送线路280余条，单仓辐射半径约120公里。据公司2026年半年度业绩报告，截至6月30日，公司存货周转天数为11.2天，全国门店可实现24小时报货配送。 鸣鸣很忙构建了一套全闭环、数字化、可溯源的超级供应链生态体系，支撑“ 零食 很忙”“赵一鸣 零食 ”超3万家门店的日常供应。随着仓储网络不断完善，门店补货效率进一步提升，加盟商经营成本得到有效降低，",
-     "source": "东方财富股票",
-     "zh": "鸣鸣很忙六盘水仓、晋中仓投运 全国数智化仓配中心已达81座"
+     "title": "ASE Technology Non-GAAP EPADS of $0.37 beats by $0.01, revenue of NT$244.16B",
+     "link": "https://seekingalpha.com/news/4659898-ase-technology-non-gaap-epads-of-037-beats-by-001-revenue-of-nt24416b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 03:07:58 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "日月光科技非 GAAP EPADS 为 0.37 美元，比 0.01 美元高出 0.01 美元，营收为新台币 244.16B"
     },
     {
      "title": "BBVA Compass Bancshares Non-GAAP EPS of €1.60 beats by €0.98, net interest income of €8.08B",
@@ -2280,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BBVA Compass Bancshares 非 GAAP 每股收益为 1.60 欧元，高出 0.98 欧元，净利息收入为 8.08 欧元B"
-    },
-    {
-     "title": "东航物流最年轻高管徐陈，被立案审查调查并实施留置措施",
-     "link": "http://stock.eastmoney.com/news/11215,202610293913952911.html",
-     "pubDate": "Thu, 29 Oct 2026 15:00:40 +0800",
-     "summary": "红星资本局10月29日消息，10月28日晚间， 东航物流 （601156.SH）发布公告称，近日，公司收到相关监察委员会的《立案通知书》和《留置通知书》，公司副总经理徐陈被立案审查调查并实施留置措施。 官方资料显示，徐陈历任中国货运航空有限公司网络收益部收益管理处经理、销售服务部长三角营销中心国际销售处经理、市场营销部销售管理处经理， 东航物流 市场营销部收益管理分部高级经理， 东航物流 市场营销部副总经理， 东航 物流 物流 解决方案事业部副总经理等职务。 2022年8月至2024年5月，徐陈任东航 物流 物流解决方案事业部总经理；2024年5月至2024年9月，任东航物流市场营销部和中货航",
-     "source": "东方财富股票",
-     "zh": "东航物流最年轻高管徐陈，被立案审查调查并实施留置措施"
     },
     {
      "title": "A股三大指数集体收跌 银行板块逆市走强",
@@ -2335,7 +2303,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 06:53:19 GMT",
      "summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
      "source": "CNBC",
-     "zh": "尽管三星电子第三季度利润创纪录，但股价仍下跌"
+     "zh": "尽管第三季度利润创纪录，但三星电子股价仍下跌"
     },
     {
      "title": "三只沪深300ETF显著放量成交",
@@ -2368,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "武田药品工业非公认会计准则每股收益为 308.00 日元，收入为 2407B 日元；上调 2026 财年展望"
-    },
-    {
-     "title": "Rush Street Interactive reiterates $1.56B-$1.6B 2026 revenue outlook as October trends point to low end",
-     "link": "https://seekingalpha.com/news/4659890-rush-street-interactive-reiterates-1_56b-1_6b-2026-revenue-outlook-as-october-trends-point-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:39:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rush Street Interactive 重申 2026 年收入前景 $1.56B-$1.6B，十月趋势指向低端"
     },
     {
      "title": "2026年国产影片海外累计票房已突破4.5亿元",
@@ -2450,12 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "上调盈利预期，福特仍要支付转型账单"
     },
     {
-     "title": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问",
+     "title": "美国将中国企业列入所谓涉疆法案实体清单 商务部回应",
      "link": "http://finance.eastmoney.com/news/1345,202610293913690777.html",
      "pubDate": "Thu, 29 Oct 2026 13:06:40 +0800",
-     "summary": "问：美东时间10月28日，美国国土安全部宣布将3家中国实体增列至“维吾尔强迫劳动预防法”实体清单，请问中方对此有何评论？ 答：我们注意到有关情况。中国不存在强迫劳动，新疆各族群众劳动就业自由平等，劳动权益依法得到有效保障。美方相关措施毫无事实依据，美方持续操弄“人权”议题，打着“人权”的幌子行单边保护主义和霸凌主义之实。中方对此强烈谴责，坚决反对。 美方不久前已将大量中国实体列入所谓涉疆法案实体清单，中方向美方提出严正交涉，并坚决予以反制。但美方不知悔改，不顾中方坚决反对，继续实施新的制裁措施，将中国生物医药技术企业列入制裁清单。美方列单做法背离两国元首达成的共识，严重破坏中美经贸关系稳定，也",
+     "summary": "据商务部网站，商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问： 问：美东时间10月28日，美国国土安全部宣布将3家中国实体增列至“维吾尔强迫劳动预防法”实体清单，请问中方对此有何评论？ 答：我们注意到有关情况。中国不存在强迫劳动，新疆各族群众劳动就业自由平等，劳动权益依法得到有效保障。美方相关措施毫无事实依据，美方持续操弄“人权”议题，打着“人权”的幌子行单边保护主义和霸凌主义之实。中方对此强烈谴责，坚决反对。 美方不久前已将大量中国实体列入所谓涉疆法案实体清单，中方向美方提出严正交涉，并坚决予以反制。但美方不知悔改，不顾中方坚决反对，继续实施新的制裁措施，将中国生物医药技术",
      "source": "东方财富资讯",
-     "zh": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问"
+     "zh": "美国将中国企业列入所谓涉疆法案实体清单 商务部回应"
     },
     {
      "title": "AI巨头面临全新评价体系：现金流才是当前最关键指标",
@@ -2472,6 +2432,54 @@ window.INDUSTRY_DATA = {
      "summary": "Facing a money laundering probe, the losing presidential candidate said he had never thought of leaving. The next day he was gone",
      "source": "Financial Times",
      "zh": "弗拉维奥·博尔索纳罗如何逃离巴西"
+    },
+    {
+     "title": "Israel vote leaves door open to Iran attack",
+     "link": "https://www.ft.com/content/53278449-6a8e-493b-8a9e-c44d2a981306?syn-25a6b1a6=1",
+     "pubDate": "Thu, 29 Oct 2026 05:00:30 GMT",
+     "summary": "Netanyahu could launch fresh bombing campaign with US while he serves as caretaker prime minister during coalition talks, security experts say",
+     "source": "Financial Times",
+     "zh": "以色列投票为伊朗袭击敞开了大门"
+    },
+    {
+     "title": "Private equity grows up",
+     "link": "https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1",
+     "pubDate": "Thu, 29 Oct 2026 05:00:30 GMT",
+     "summary": "The past decade has demonstrated that PE at scale is a differentiated asset class — not a better form of capitalism",
+     "source": "Financial Times",
+     "zh": "私募股权逐渐成长"
+    },
+    {
+     "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
+     "link": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
+     "pubDate": "Thu, 29 Oct 2026 04:55:17 GMT",
+     "summary": "Ahead of Jio's listing, Mukesh Ambani teared up as his three children shared the journey of building Jio and vowed to create value for investors over the next 50 years.",
+     "source": "CNBC",
+     "zh": "Jio Platforms 成为印度第二大估值公司，亿万富翁安巴尼喜极而泣"
+    },
+    {
+     "title": "Over 41,000 U.S. Homeland Security officials&apos; details apparently exposed after massive data breach",
+     "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+     "pubDate": "Thu, 29 Oct 2026 04:29:32 GMT",
+     "summary": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
+     "source": "CNBC",
+     "zh": "大规模数据泄露后，超过 41,000 名美国国土安全官员的详细信息明显暴露"
+    },
+    {
+     "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+     "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+     "pubDate": "Thu, 29 Oct 2026 04:00:51 GMT",
+     "summary": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
+     "source": "CNBC",
+     "zh": "美国环保局表示，特朗普甲烷政策回滚可能对原油价格影响微乎其微"
+    },
+    {
+     "title": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题",
+     "link": "https://wallstreetcn.com/articles/3784743",
+     "pubDate": "Thu, 29 Oct 2026 11:55:07 +0800",
+     "summary": "在 美联储最新宣布按兵不动 ，沃什记者会上表态 不预判12月决策 之后，素有\"新美联储通讯社\"之称的 华尔街日报 资深记者 Nick Timiraos 最新发文聚焦沃什在最新一次新闻发布会上释放的关键信号，核心议题直指一个让市场高度敏感的问题： 高利率究竟能不能压制住这一轮AI投资热潮？ Timiraos在10月29日的文章中指出，长久以来，市场普遍认为AI产业财大气粗，对利率变化免疫，但沃什明确打破了这一假设，指出借贷成本的上升正在切实影响科技领域的扩张步伐。 文章称，沃什在发布会上同时抛出了两个方向相反的判断——一方面，他认为高利率正在逐步渗透进AI投资热潮；另一方面，他又强调经济增长正在",
+     "source": "华尔街见闻",
+     "zh": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题"
     }
    ]
   },

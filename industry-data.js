@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/29 14:29:56",
+ "generated_at": "2026/10/29 14:34:00",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,46 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "“Reassuringly boring” budget",
+     "link": "https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 06:18:56 +0000",
+     "summary": "“Reassuringly boring “ was one judgment on yesterday’s budget, meaning that it didn’t upset the bond market. £18 million has been allocated for a new UK advanced chip design Academy […] The post “Reassuringly boring” budget appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "“令人安心乏味”的预算"
+    },
+    {
+     "title": "onsemi rumoured to be in talks to acquire Ferric",
+     "link": "https://www.electronicsweekly.com/news/business/onsemi-rumoured-to-be-in-talks-to-acquire-ferric-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 06:14:25 +0000",
+     "summary": "onsemi is in talks to acquire Ferric, a 16 year-old New York-based semiconductor startup for close to $1 billion, reports The Information. Ferric specialises in integrated voltage regulators (IVRs) and […] The post onsemi rumoured to be in talks to acquire Ferric appeared first on Electronics Weekly",
+     "source": "Electronics Weekly",
+     "zh": "据传 Onsemi 正在洽谈收购 Ferric"
+    },
+    {
+     "title": "Seoul Viosys producing white LEDs without rare earths",
+     "link": "https://www.electronicsweekly.com/news/business/seoul-viosys-producing-white-leds-without-rare-earths-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 06:13:36 +0000",
+     "summary": "Seoul Semiconductor and its affiliate Seoul Viosys have begun mass production of WICOP 3 – an LED which emits white light without using rare earths. White LEDs have depended on […] The post Seoul Viosys producing white LEDs without rare earths appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "首尔伟傲世生产不含稀土的白光 LED"
+    },
+    {
+     "title": "PCB industry succumbing to ‘semiconducterisation’",
+     "link": "https://www.electronicsweekly.com/news/business/pcb-industry-to-hit-140bn-by-2031-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 06:12:27 +0000",
+     "summary": "The PCB industry closed 2025 at about $88 billion in revenue, and a conservative forecast puts it at $140 billion by 2031, following an 8.1% CAGR. That headline figure averages […] The post PCB industry succumbing to ‘semiconducterisation’ appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "PCB行业屈服于“半导体化”"
+    },
+    {
+     "title": "Toshiba in mass production of entry-class M4H Group  MCUs",
+     "link": "https://www.electronicsweekly.com/news/business/toshiba-in-mass-production-of-entry-class-m4h-group-mcus-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 06:02:09 +0000",
+     "summary": "Toshiba has started mass production of three Entry-Class M4H Group MCUs for system control in consumer and industrial equipment. The MCUs are designed for consumer products such as air conditioners […] The post Toshiba in mass production of entry-class M4H Group MCUs appeared first on Electronics We",
+     "source": "Electronics Weekly",
+     "zh": "东芝开始量产入门级 M4H Group MCU"
+    },
+    {
      "title": "SDC chief meets Applied Materials executives amid FMM-free OLED push",
      "link": "https://www.digitimes.com/news/a20261029PD206/sdc-applied-materials-equipment-technology-development.html",
      "pubDate": "Thu, 29 Oct 2026 06:00:00 GMT",
@@ -304,6 +344,14 @@ window.INDUSTRY_DATA = {
      "summary": "China's luxury car market is undergoing a major brand reshuffle. BMW, Mercedes-Benz, Audi, and Porsche all recorded significant sales or delivery declines in China in the third quarter of 2026, while domestic automakers continued moving upmarket with new energy vehicles (NEVs), smart cockpits, and d",
      "source": "DIGITIMES",
      "zh": "评论：中国豪华车重塑市场，全球品牌节节败退"
+    },
+    {
+     "title": "Netflix revenue shrinking but operating margin and subscribers increasing",
+     "link": "https://www.electronicsweekly.com/news/business/netflix-revenue-shrinking-but-margin-increasing-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 01:01:40 +0000",
+     "summary": "While subscriber additions have been growing steadily, Netflix’s revenue growth is slowing. In 2026 to-date, revenue was up 13.7% YoY, compared with 15.9% for the full year 2025 […] The post Netflix revenue shrinking but operating margin and subscribers increasing appeared first on Electronics Weekl",
+     "source": "Electronics Weekly",
+     "zh": "Netflix 收入萎缩，但营业利润率和订阅用户增加"
     },
     {
      "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "High-density switching supplies help modernize legacy aircraft power systems while addressing obsolescence, efficiency, integration, and compliance challenges. The post Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies appeared first on EE Times .",
      "source": "EE Times",
      "zh": "将传统飞机电源架构过渡到高密度开关电源"
-    },
-    {
-     "title": "SemiQ makes available Gen4 1200V and 750V SiC MOSFETs",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/semiq-271026.shtml",
-     "pubDate": "Tue, 27 Oct 2026 20:56:04 GMT",
-     "summary": "SemiQ Inc of Lake Forest, CA, USA — which designs, develops and manufactures custom silicon carbide (SiC) power semiconductors and 150mm SiC epitaxial wafers for high-voltage applications — has announced the availability of its fourth-generation QSiC silicon carbide power devices, launching a family",
-     "source": "Semiconductor Today",
-     "zh": "SemiQ 推出 Gen4 1200V 和 750V SiC MOSFET"
-    },
-    {
-     "title": "EPC adds two three-phase inverter evaluation platforms to 100V GaN motor drive portfolio",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/epc-271026.shtml",
-     "pubDate": "Tue, 27 Oct 2026 20:46:42 GMT",
-     "summary": "Efficient Power Conversion Corp (EPC) of El Segundo, CA, USA — which makes enhancement-mode gallium nitride on silicon (eGaN) power field-effect transistors (FETs) and integrated circuits for power management applications — has announced the availability of the EPC91124 and EPC91125, two new 100V th",
-     "source": "Semiconductor Today",
-     "zh": "EPC 为 100V GaN 电机驱动产品组合添加两个三相逆变器评估平台"
-    },
-    {
-     "title": "ChipAgents Expands AI Across Chip Design. The Test Is Faster, Verified Results",
-     "link": "https://semiwiki.com/eda/chipagents-ai/375026-chipagents-expands-ai-across-chip-design-the-test-is-faster-verified-results/",
-     "pubDate": "Tue, 27 Oct 2026 17:00:45 +0000",
-     "summary": "ChipAgents is expanding its agentic AI platform across digital and analog semiconductor engineering, aiming to connect fragmented design workflows through a common system that can plan tasks, operate engineering tools and evaluate results. The Santa Clara company says its IC-Star engine combines org",
-     "source": "SemiWiki",
-     "zh": "ChipAgents 将人工智能扩展到芯片设计领域。测试速度更快，结果经过验证"
-    },
-    {
-     "title": "Infineon establishing first high-volume fab for GaN power semiconductors on 300mm wafers in Europe",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-271026.shtml",
-     "pubDate": "Tue, 27 Oct 2026 11:34:01 GMT",
-     "summary": "Infineon Technologies AG of Munich, Germany is establishing the world’s first high-volume manufacturing facility for gallium nitride (GaN) power semiconductors on 300mm wafers in Europe. As part of the project, the firm will invest about €1.1bn in its existing cleanroom facilities at the site in Vil",
-     "source": "Semiconductor Today",
-     "zh": "英飞凌在欧洲建立首个采用 300 毫米晶圆生产 GaN 功率半导体的大批量晶圆厂"
-    },
-    {
-     "title": "Infineon supplying world’s first 900V GaN monolithic BDS devices to Enphase",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-261026.shtml",
-     "pubDate": "Mon, 26 Oct 2026 19:13:55 GMT",
-     "summary": "Infineon Technologies AG of Munich, Germany is to supply what is said to be the world’s first 900V gallium nitride (GaN) monolithic bidirectional switches (BDS) to Enphase Energy Inc of Fremont, CA, USA (which supplies microinverter-based solar and battery systems) for deployment in its solid-state ",
-     "source": "Semiconductor Today",
-     "zh": "英飞凌向 Enphase 供应全球首款 900V GaN 单片 BDS 器件"
-    },
-    {
-     "title": "From Chip Lab to Center Stage",
-     "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-     "pubDate": "Fri, 23 Oct 2026 18:00:03 +0000",
-     "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "从芯片实验室到舞台中央"
     }
    ]
   },
@@ -1213,7 +1213,7 @@ window.INDUSTRY_DATA = {
      "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
      "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
      "pubDate": "Wed, 28 Oct 2026 11:15:00 -0400",
-     "summary": "The plan builds on recent FDA moves to speed \"personalized\" treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease.",
+     "summary": "The plan advances recent agency moves to accelerate &ldquo;personalized&rdquo; treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "FDA 公布“即插即用”基因疗法指南"
     },
@@ -1738,6 +1738,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Claude Code 2.1.311 上线新环境变量，AI 智能体删文件可以不再问你",
+     "link": "https://www.ithome.com/1/019/476.htm",
+     "pubDate": "Thu, 29 Oct 2026 06:32:52 GMT",
+     "summary": "IT之家 10 月 29 日消息，科技媒体 The Register 昨日（10 月 28 日）发布博文，报道称在 v2.1.311 版 Claude Code 中，Anthropic 加入新的环境变量， 用户启用后 AI 智能体执行删除文件等操作时，可以不再逐次征求用户批准。 该环境变量全称为 CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS ，直译为“更加危险地跳过权限检查”。 Anthropic 技术人员 Daisy Hollman 解释，原有的“危险地跳过权限检查”选项并非放行所有操作，系统仍会拦截某些明显危险的指令，例如递归强制删除",
+     "source": "IT之家",
+     "zh": "Claude Code 2.1.311 上线新环境变量，AI 智能体删文件可以不再问你"
+    },
+    {
+     "title": "威刚 2026 财年前三季度报归母净利润 325.46 亿新台币",
+     "link": "https://www.ithome.com/1/019/472.htm",
+     "pubDate": "Thu, 29 Oct 2026 06:31:34 GMT",
+     "summary": "IT之家 10 月 29 日消息，威刚今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：1172.36 亿新台币 （IT之家注：现汇率约合 241.39 亿元人民币） 毛利润 ：496.15 亿新台币 （现汇率约合 102.16 亿元人民币） 毛利率 ：42.32% 归母净利润 ：325.46 亿新台币 （现汇率约合 67.01 亿元人民币） 基本每股收益 ：101.47 新台币 （现汇率约合 20.89 元人民币） 资产负债率 ：65.53% AI 解读 威刚 2026 年前三季累计营收达 1",
+     "source": "IT之家",
+     "zh": "威刚 2026 财年前三季度报归母净利润 325.46 亿新台币"
+    },
+    {
      "title": "南方电网与华为签署全面深化战略合作协议，聚焦电碳算协同、电力鸿蒙等领域",
      "link": "https://www.ithome.com/1/019/463.htm",
      "pubDate": "Thu, 29 Oct 2026 06:29:00 GMT",
@@ -1808,22 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 29 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，iPhone Duo 首销期的 SO（销量） 接近 200K（20 万） 。 首销期：首销日 + 后三天 iPhone Duo 首销期的 SO 接近 200K PS：第三方数据源，仅供参考。 据IT之家此前报道，苹果在 2026 年秋季发布会上 发布了旗下首款折叠屏手机 iPhone Duo ，10 月 23 日正式发售， 售价 15,999 元起 。 iPhone Duo 采用可折叠设计，配备了苹果迄今面积最大的 iPhone 显示屏。展开状态下，它是迄今最薄的 iPhone，内置显示屏面积比 iPho",
      "source": "IT之家",
      "zh": "苹果 iPhone Duo 折叠屏手机国内首销期销量曝光，接近 20 万台"
-    },
-    {
-     "title": "Altera 公布 Agilex 2X 系列 FPGA，支持边缘物理 AI 应用",
-     "link": "https://www.ithome.com/1/019/438.htm",
-     "pubDate": "Thu, 29 Oct 2026 06:09:07 GMT",
-     "summary": "IT之家 10 月 29 日消息，FPGA（现场可编程门阵列）企业 Altera 美国当地时间 28 日公布了其全新产品组合 Agilex 2X。这一系列新品 旨在支持包括边缘物理 AI 和为其提供动力的数字 AI 基础设施在内的全方位智能系统 。 Agilex 2X 基于 Altera 的成熟架构，同时引入了多项关键创新：增强型 AI 张量 DSP 模块、最新 Arm 内核、高带宽连接、端到端安全。这些改进为用户带来实际的体验优化。 该产品家族包括 4 个具体的器件系列 Agilex 27 、Agilex 25、Agilex 23、Agilex 22， 所有产品均支持一套相同的软件堆栈 。 ",
-     "source": "IT之家",
-     "zh": "Altera 公布 Agilex 2X 系列 FPGA，支持边缘物理 AI 应用"
-    },
-    {
-     "title": "给 AI 芯片“退烧”：国内首款 12 英寸多晶碳化硅衬底在长沙问世，通过台积电认证测试、并给三星送样",
-     "link": "https://www.ithome.com/1/019/437.htm",
-     "pubDate": "Thu, 29 Oct 2026 06:08:27 GMT",
-     "summary": "IT之家 10 月 29 日消息，湖南泰坦未来科技有限公司本月发布新闻稿， 宣布推出国内首款 12 英寸多晶碳化硅衬底，瞄准 AI 芯片与先进封装的散热瓶颈。 IT之家查询公开资料，12 英寸多晶碳化硅（SiC）衬底，是一种直径约 300 毫米、由许多微小碳化硅晶粒构成的大尺寸陶瓷基板。该基板主要作为先进封装和高温半导体工艺中的高导热支撑、散热基底，帮助 AI 芯片等高功率器件把热量快速导出。 该公司在新闻稿中指出当前半导体碳化硅赛道，市场目光大多聚焦单晶 SiC 衬底，而多晶碳化硅配套材料属于行业蓝海与隐形刚需。 高端多晶材料长期受制于人，成为制约国内产线扩产的关键痛点，大尺寸致密化、高纯度",
-     "source": "IT之家",
-     "zh": "给 AI 芯片“退烧”：国内首款 12 英寸多晶碳化硅衬底在长沙问世，通过台积电认证测试、并给三星送样"
     },
     {
      "title": "大模型全产业链梳理：真正昂贵的部分，才刚刚开始",
@@ -1930,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "“喝大水”带火大瓶装，能带着瓶装水突围吗？"
     },
     {
-     "title": "NZXT Discount Codes: 50% Off in November 2026",
-     "link": "https://www.wired.com/story/nzxt-discount-code/",
-     "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
-     "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
-     "source": "WIRED",
-     "zh": "NZXT 折扣代码：2026 年 11 月 50% 折扣"
-    },
-    {
      "title": "Norton Coupon Codes: Up to 58% Off",
      "link": "https://www.wired.com/story/norton-coupon-code/",
      "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
@@ -1960,6 +1952,14 @@ window.INDUSTRY_DATA = {
      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
      "source": "WIRED",
      "zh": "环形耳塞折扣代码：40% 折扣"
+    },
+    {
+     "title": "NZXT Discount Codes: 50% Off in November 2026",
+     "link": "https://www.wired.com/story/nzxt-discount-code/",
+     "pubDate": "Thu, 29 Oct 2026 05:00:00 +0000",
+     "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+     "source": "WIRED",
+     "zh": "NZXT 折扣代码：2026 年 11 月 50% 折扣"
     },
     {
      "title": "Govee Discount Codes and Deals: 30% Off",
@@ -2234,6 +2234,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Boot Barn outlines fiscal 2027 outlook with $2.6B sales target and plans to open 75 to 80 new stores",
+     "link": "https://seekingalpha.com/news/4659885-boot-barn-outlines-fiscal-2027-outlook-with-2_6b-sales-target-and-plans-to-open-75-to-80-new?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 02:30:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Boot Barn 概述了 2027 财年展望，销售目标为 2.6B 美元，并计划开设 75 至 80 家新店"
+    },
+    {
+     "title": "Gbank Financial outlines fintech roadmap with Terribles going live in early November as Lucky Loads targets Q2 next year launch",
+     "link": "https://seekingalpha.com/news/4659884-gbank-financial-outlines-fintech-roadmap-with-terribles-going-live-in-early-november-as-lucky?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 02:30:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gbank Financial 概述了金融科技路线图，Terribles 将于 11 月初上线，Lucky Loads 目标于明年第二季度推出"
+    },
+    {
+     "title": "ConMed forecasts 2026 adjusted EPS of $4.54 to $4.61 as it tightens organic growth outlook to 5% to 5.5%",
+     "link": "https://seekingalpha.com/news/4659883-conmed-forecasts-2026-adjusted-eps-of-4_54-to-4_61-as-it-tightens-organic-growth-outlook-to-5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 02:30:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ConMed 预测 2026 年调整后每股收益为 4.54 美元至 4.61 美元，因为它将有机增长前景收紧至 5% 至 5.5%"
+    },
+    {
      "title": "Aker BP GAAP EPS of $1.56, revenue of $3.87B; reaffirms FY 2026 outlook",
      "link": "https://seekingalpha.com/news/4659881-aker-bp-gaap-eps-of-156-revenue-of-387b-reaffirms-fy-2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 29 Oct 2026 02:24:20 -0400",
@@ -2266,28 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "效率交给AI，价值留给品牌：一场关于AI重构营销全链路的深度对话"
     },
     {
-     "title": "Bill Ackman calls Meta 'incredibly undervalued,' says it can afford AI spending",
-     "link": "https://seekingalpha.com/news/4659865-bill-ackman-calls-meta-incredibly-undervalued-says-it-can-afford-ai-spending?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:15:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "比尔·阿克曼 (Bill Ackman) 称 Meta“被严重低估”，并称其有能力承担人工智能支出"
-    },
-    {
-     "title": "Anheuser-Busch InBev Non-GAAP EPS of $1.21 beats by $0.04, revenue of $16.51B beats by $230M",
-     "link": "https://seekingalpha.com/news/4659879-anheuser-busch-inbev-non-gaap-eps-of-121-beats-by-004-revenue-of-1651b-beats-by-230m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:13:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "百威英博非 GAAP 每股收益为 1.21 美元，超出 0.04 美元；营收为 $16.51B，超出 2.3 亿美元"
-    },
-    {
-     "title": "Bannerman outlines first production in 2028 following $320M CNOL investment and FID for Etango-8",
-     "link": "https://seekingalpha.com/news/4659878-bannerman-outlines-first-production-in-2028-following-320m-cnol-investment-and-fid-for?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 02:12:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bannerman 计划在 CNOL 投资 3.2 亿美元并完成 Etango-8 的 FID 后于 2028 年首次生产"
+     "title": "三星财报“冷风”吹不到光模块？券商拆解：存储与光通信是两码事 “易中天”超跌修复窗口渐近",
+     "link": "http://finance.eastmoney.com/news/1354,202610293913817387.html",
+     "pubDate": "Thu, 29 Oct 2026 14:13:30 +0800",
+     "summary": "10月29日，三星 电子 发布第三季度财报后股价走弱，盘中一度跌超6%。同日，A股 CPO概念 集体重挫， 天孚通信 大跌超18%， 新易盛 跌超9%， 中际旭创 一度跌超7%，“易中天”组合单日跌幅显著放大。 一边是 存储芯片 龙头的盈利预期差，一边是光模块龙头的情绪宣泄，两者在盘面上形成了短暂共振。但多家券商在第一时间给出的判断高度一致：三星的业绩波动与国内光模块产业的基本面逻辑之间，并不存在必然的传导链条。当前更值得关注的，是情绪扰动下国内光模块板块的超跌修复机会。 三星的“存储逻辑”与光模块不在同一传导链条 市场担忧的起点，在于三星与“易中天”同处AI算力大框架之下，容易被误认为同一轮",
+     "source": "东方财富资讯",
+     "zh": "三星财报“冷风”吹不到光模块？券商拆解：存储与光通信是两码事 “易中天”超跌修复窗口渐近"
     },
     {
      "title": "10月品牌营销观察：当增长承压，品牌开始重新计算营销的价值",
@@ -2296,54 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "行业动态 从全球广告集团的整合重组，到AI智能体进入广告投放系统；从中国网球市场的品牌争夺，到女性体育营销引发的价值观交锋；从星巴克探索新的增长路径，到品牌代言风险的集中显现，10月的营销行业呈现出一条愈发清晰的主线：品牌正在重新审视每一笔营销投入的价值，以及这些投入究竟能够为未来留下什么。 进入2026年第四季度，全球广告与营销行业并未迎来一个轻松...",
      "source": "经济观察网",
      "zh": "10月品牌营销观察：当增长承压，品牌开始重新计算营销的价值"
-    },
-    {
-     "title": "杭电股份10月29日打开跌停",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913778917.html",
-     "pubDate": "Thu, 29 Oct 2026 13:59:10 +0800",
-     "summary": "以下是 杭电股份 在北京时间10月29日13:59分盘口异动快照： 10月29日13点59分， 杭电股份 盘中打开跌停，现报24.45元，成交14.59亿元，换手率8.44%。该股之前于13点57分跌停。 分笔 13:59:03 24.45 70↑ 13:59:00 24.44 60↓ 13:58:57 24.44 173↑ 13:58:54 24.44 49↑ 13:58:51 24.44 138↑ 13:58:48 24.44 110↑ 13:58:45 24.44 132↑ 13:58:42 24.44 89↑ 13:58:39 24.44 421↑ 13:58:36 24.44 25↑",
-     "source": "东方财富股票",
-     "zh": "杭电股份10月29日打开跌停"
-    },
-    {
-     "title": "广康生化10月29日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913778838.html",
-     "pubDate": "Thu, 29 Oct 2026 13:59:10 +0800",
-     "summary": "以下是 广康生化 在北京时间10月29日13:59分盘口异动快照： 10月29日， 广康生化 盘中跌幅达5%，截至13点59分，报36.82元，成交2568.02万元，换手率2.49%。 分笔 13:59:03 36.82 6↓ 13:59:00 36.90 42↑ 13:58:00 36.90 7↓ 13:57:45 36.91 4↑ 13:57:42 36.91 3↓ 13:57:39 36.91 14↓ 13:57:36 36.91 20↓ 13:57:06 36.95 2↓ 13:56:42 36.98 1↑ 13:56:39 36.90 98↓ 报价 卖五 37.07 2 卖四 37",
-     "source": "东方财富股票",
-     "zh": "广康生化10月29日盘中跌幅达5%"
-    },
-    {
-     "title": "信音电子10月29日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913777917.html",
-     "pubDate": "Thu, 29 Oct 2026 13:59:02 +0800",
-     "summary": "以下是 信音电子 在北京时间10月29日13:58分盘口异动快照： 10月29日， 信音电子 盘中跌幅达5%，截至13点58分，报17.32元，成交4120.44万元，换手率3.55%。 分笔 13:58:51 17.32 11↓ 13:58:45 17.33 14↓ 13:58:39 17.33 5↓ 13:58:27 17.33 2↓ 13:58:24 17.33 10↓ 13:58:18 17.33 4↓ 13:58:15 17.33 7↓ 13:58:00 17.33 9↓ 13:57:51 17.34 8↓ 13:57:48 17.34 1↓ 报价 卖五 17.37 34 卖四 17",
-     "source": "东方财富股票",
-     "zh": "信音电子10月29日盘中跌幅达5%"
-    },
-    {
-     "title": "中捷精工10月29日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913777667.html",
-     "pubDate": "Thu, 29 Oct 2026 13:58:54 +0800",
-     "summary": "以下是 中捷精工 在北京时间10月29日13:58分盘口异动快照： 10月29日， 中捷精工 盘中跌幅达5%，截至13点58分，报41.4元，成交8547.95万元，换手率2.98%。 分笔 13:58:42 41.40 8↓ 13:58:39 41.48 8↓ 13:58:36 41.53 14↑ 13:58:33 41.50 78↓ 13:58:30 41.55 1↓ 13:58:27 41.55 1↓ 13:58:21 41.55 1↓ 13:57:48 41.61 2↑ 13:57:36 41.58 1↓ 13:57:30 41.65 7↑ 报价 卖五 41.61 5 卖四 41.6 ",
-     "source": "东方财富股票",
-     "zh": "中捷精工10月29日盘中跌幅达5%"
-    },
-    {
-     "title": "振华股份10月29日打开跌停",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913776997.html",
-     "pubDate": "Thu, 29 Oct 2026 13:58:45 +0800",
-     "summary": "以下是 振华股份 在北京时间10月29日13:58分盘口异动快照： 10月29日13点58分， 振华股份 盘中打开跌停，现报25.98元，成交6.78亿元，换手率3.35%。该股之前于13点56分跌停。 分笔 13:58:40 25.98 76↑ 13:58:37 25.97 208↑ 13:58:34 25.97 87↑ 13:58:31 25.97 35↑ 13:58:28 25.97 147↑ 13:58:25 25.97 42↑ 13:58:22 25.97 41↑ 13:58:19 25.97 210↑ 13:58:16 25.97 82↑ 13:58:13 25.97 23↑ 报价",
-     "source": "东方财富股票",
-     "zh": "振华股份10月29日打开跌停"
-    },
-    {
-     "title": "10月29日混合现实板块跌幅达4%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913776066.html",
-     "pubDate": "Thu, 29 Oct 2026 13:58:17 +0800",
-     "summary": "&emsp;&emsp;10月29日13点58分， 混合现实 板块指数报1620.389点，跌幅达4%，成交236.43亿元，换手率2.13%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 智立方 报48.96元，跌11.82%； 淳中科技 报59.71元，跌8.17%； 华勤技术 报64.08元，跌7.06%； 精测电子 报114.99元，跌7.03%； 风语筑 报13.38元，跌7.02%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月29日混合现实板块跌幅达4%"
     },
     {
      "title": "创业板跌超2%，算力硬件集体调整，中金跌停，四大行总市值突破10万亿元，恒科指跌2%，科网股普跌",
@@ -2472,6 +2432,46 @@ window.INDUSTRY_DATA = {
      "summary": "10月29日早盘，A股三大指数集体下跌， 风电设备 低开高走逆势走强，截至早间收盘，板块上涨1.68%，涨幅居行业板块 最前列 。个股方面， 飞沃科技 涨超15%， 天顺风能 、 海力风电 涨超8%， 振宏股份 涨超6%， 中环海陆 、 大金重工 涨超3%， 泰胜风能 、 金风科技 、 新强联 涨超2%。 风机毛利率逐渐修复 近日， 三一重能 披露2026年三季报：前三季度实现营业收入172.32亿元，同比增长19.24%；归母净利润3.71亿元， 同比增长204.15% 。其中第三季度归母净利润1.37亿元，较二季度的0.54亿元环比增长155%。 毛利率达10.86%，环比提升4.08个百",
      "source": "东方财富资讯",
      "zh": "逆势拉升！风电设备早盘走强 风机毛利逐渐修复"
+    },
+    {
+     "title": "业绩爆发，机构称这一板块或戴维斯双击，高成长潜力股来了",
+     "link": "http://finance.eastmoney.com/news/1354,202610293913666126.html",
+     "pubDate": "Thu, 29 Oct 2026 12:04:19 +0800",
+     "summary": "国海证券 建议重视端侧SoC板块的戴维斯双击机遇。 近期科技股出现剧烈波动，科创50指数10月29日上午再创调整新低。华鑫证券表示，止跌企稳信号已现。本轮A股下跌（2026年6月至今）和2015年6月—8月、2021年11月—2022年4月有一定的可比性，都是回撤超过50%、两段式下跌、破位+恐慌加速下跌。目前微观筹码出清进入尾声，政策托底宽基ETF放量，止跌企稳信号已现，但外部核心矛盾AI资本开支和回报仍在验证中，大概率是震荡反弹。 国海证券 建议重视端侧SoC板块的戴维斯双击机遇，近期板块事件催化密集，业绩兑现度高。该机构认为，当前从行业基本面角度而言，尽管存储涨价和HBM缺货对于 消费电",
+     "source": "东方财富资讯",
+     "zh": "业绩爆发，机构称这一板块或戴维斯双击，高成长潜力股来了"
+    },
+    {
+     "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+     "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+     "pubDate": "Thu, 29 Oct 2026 04:00:51 GMT",
+     "summary": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
+     "source": "CNBC",
+     "zh": "美国环保局表示，特朗普甲烷政策回滚可能对原油价格影响微乎其微"
+    },
+    {
+     "title": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题",
+     "link": "https://wallstreetcn.com/articles/3784743",
+     "pubDate": "Thu, 29 Oct 2026 11:55:07 +0800",
+     "summary": "在 美联储最新宣布按兵不动 ，沃什记者会上表态 不预判12月决策 之后，素有\"新美联储通讯社\"之称的 华尔街日报 资深记者 Nick Timiraos 最新发文聚焦沃什在最新一次新闻发布会上释放的关键信号，核心议题直指一个让市场高度敏感的问题： 高利率究竟能不能压制住这一轮AI投资热潮？ Timiraos在10月29日的文章中指出，长久以来，市场普遍认为AI产业财大气粗，对利率变化免疫，但沃什明确打破了这一假设，指出借贷成本的上升正在切实影响科技领域的扩张步伐。 文章称，沃什在发布会上同时抛出了两个方向相反的判断——一方面，他认为高利率正在逐步渗透进AI投资热潮；另一方面，他又强调经济增长正在",
+     "source": "华尔街见闻",
+     "zh": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题"
+    },
+    {
+     "title": "拥挤、困惑、踏空：全球市场出现多重极端信号",
+     "link": "https://wallstreetcn.com/articles/3784742",
+     "pubDate": "Thu, 29 Oct 2026 11:31:30 +0800",
+     "summary": "当前全球市场正在多个维度同步出现极端信号，华尔街投资者面临的不仅是单一风险，而是一场跨资产的结构性压力测试。 Mag 7隐含波动率相对整体科技板块异常低廉，而对冲基金对这批AI巨头的敞口却接近历史峰值；与此同时，动量策略仓位遭到近乎清零式的瓦解，韩国股市从极端低估中出现反弹，美国住房市场基本面持续恶化。这些信号并非孤立存在，而是在同一时间窗口内集中涌现。 更令市场不安的是，上述极端现象背后折射出的是定价混乱与仓位分歧——对冲基金与共同基金在Mag 7上的持仓方向几乎截然相反，动量策略从拥挤到荒芜仅用了数月时间。巴西财政风险则为这幅已然复杂的图景再添一层隐忧。 Mag 7波动率：定价异常与仓位极",
+     "source": "华尔街见闻",
+     "zh": "拥挤、困惑、踏空：全球市场出现多重极端信号"
+    },
+    {
+     "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+     "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+     "pubDate": "Thu, 29 Oct 2026 02:49:39 GMT",
+     "summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
+     "source": "CNBC",
+     "zh": "尽管第三季度利润创纪录，但三星电子股价仍下跌"
     }
    ]
   },
@@ -2591,7 +2591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 08:37:31 EDT",
      "summary": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response resembles the immune boost seen during exercise and may help explain ",
      "source": "ScienceDaily",
-     "zh": "一次桑拿就能让免疫细胞在你的体内激增"
+     "zh": "一次桑拿会让免疫细胞在你的体内激增"
     },
     {
      "title": "Why do flamingos dance while they eat? This scientist found out",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/29 09:45:27",
+ "generated_at": "2026/10/29 09:50:02",
  "recent_days": 7,
  "industries": [
   {
@@ -519,7 +519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 19:09:28 +0000",
      "summary": "Neura Robotics and the Technical University of Munich have opened a €17 million robotics research and training center near Munich Airport, while unveiling the latest generation of Neura’s 4NE1 humanoid robot. The TUM RoboGym powered by Neura covers more than 2,300 square meters at LabCampus and comb",
      "source": "Robotics & Automation",
-     "zh": "Neura Robotics 和 TUM 斥资 1700 万欧元开设 RoboGym，并推出新的人形机器人"
+     "zh": "Neura Robotics 和 TUM 斥资 1700 万欧元开设 RoboGym 并推出新的人形机器人"
     },
     {
      "title": "Maxinsights raises $30 million to build training data platform for physical AI",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "FERC approves tougher MISO penalties for nonperforming demand-side resources",
      "link": "https://www.utilitydive.com/news/ferc-miso-penalties-demand-side-resource-lmr/873006/",
      "pubDate": "Wed, 28 Oct 2026 09:42:35 -0400",
-     "summary": "Two Federal Energy Regulatory Commission members urged parties to monitor the rules in case they drive well-performing demand response and behind-the-meter resources out of the Midcontinent&nbsp;grid operator&rsquo;s market.",
+     "summary": "Two Federal Energy Regulatory Commission members urged parties to monitor the rules in case they drive well-performing demand response and behind-the-meter resources from the Midcontinent&nbsp;grid operator&rsquo;s market.",
      "source": "Utility Dive",
      "zh": "FERC 批准对不良需求方资源实施更严厉的 MISO 处罚"
     },
@@ -1239,7 +1239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 13:44:59 +0000",
      "summary": "Missouri attorney general warned Eli Lilly to discontinue requiring hospitals to provide claims data to receive discounted medicines under 340B program",
      "source": "STAT News",
-     "zh": "STAT+：Pharmalittle：我们正在阅读有关 340B 的战斗、礼来（Lilly）减肥药的新结果等等"
+     "zh": "STAT+：Pharmalittle：我们正在阅读有关 340B 的战斗、礼来减肥药的新结果等等"
     },
     {
      "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
@@ -1679,7 +1679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 12:00:59 +0000",
      "summary": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "与中国有关的黑客利用 PHP2Shell 来根除防火墙"
+     "zh": "与中国有关的黑客利用 PHP2Shell 根除防火墙"
     },
     {
      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
@@ -1719,7 +1719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 20:42:40 GMT",
      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
      "source": "Dark Reading",
-     "zh": "外部团队聊天锁定 15 分钟恶意软件传播"
+     "zh": "外部团队聊天锁定 15 分钟恶意软件传递"
     },
     {
      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
@@ -1737,6 +1737,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "未成年人恶意传播 Hololive 成员私人信息谣言：VTuber 事务所 COVER 要求家长赔偿并承担监督责任",
+     "link": "https://www.ithome.com/1/019/314.htm",
+     "pubDate": "Thu, 29 Oct 2026 01:48:00 GMT",
+     "summary": "IT之家 10 月 29 日消息，VTuber 事务所 Hololive production 的运营公司 COVER 昨日发布公告宣布，已查明在网络上散布旗下 Hololive 成员私人信息的发帖者。然而由于涉事者尚未成年，因此公司对接了其法定监护人，该法定监护人已承诺支付损害赔偿金，并承担后续监督责任。 根据 COVER 发布的公告，该人士此前曾在网络上发布大量关于 Hololive 成员私人信息谣言。COVER 随后采取法律措施，法院认定相关帖文侵害了成员的权利。公司继而通过申请披露发帖者信息，成功确认了涉事者的身份。 经过协商，双方最终达成和解。根据和解条件，涉事者须删除相关帖文、提交",
+     "source": "IT之家",
+     "zh": "未成年人恶意传播 Hololive 成员私人信息谣言：VTuber 事务所 COVER 要求家长赔偿并承担监督责任"
+    },
     {
      "title": "欧盟迎来历史性里程碑时刻：今年 Q3 电动汽车销量超汽柴油车总和",
      "link": "https://www.ithome.com/1/019/312.htm",
@@ -1840,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "基建可以搭，时长要靠内容去挣，数据要靠合作去换，定价权在市场手里。四件事里，Netflix能直接掌控的，只有第一件。",
      "source": "钛媒体",
      "zh": "Netflix下调全年广告收入预期，问题出在哪？"
-    },
-    {
-     "title": "Akko 推出 MX01 办公鼠标：双滚轮，续航至长 40 天，首发价 299 元",
-     "link": "https://www.ithome.com/1/019/307.htm",
-     "pubDate": "Thu, 29 Oct 2026 01:21:54 GMT",
-     "summary": "IT之家 10 月 29 日消息，Akko 昨日推出了鼠标新品 MX01，这一型号瞄准办公场景，采用附拇指托的重大手型右手人体工学模具， 配备中键和侧面双滚轮 ，售价 299 元。 MX01 配备原相 PAW3809 光学传感器，优化玻璃表面追踪表现，最大 DPI 为 6000；按键采用 100M 机械微动；中键支持左右倾斜； 滚轮采用霍尔效应“磁悬浮”系统 ，在保留确认感的同时大幅降低滚动阻力。 其三维 124×80×45 (mm)，质量 106±3g；支持三模连接，其中 USB 和 2.4GHz 支持 1kHz 回报率；内置 500mAh 电池，2.4GHz 日常使用续航 23 天、蓝牙日",
-     "source": "IT之家",
-     "zh": "Akko 推出 MX01 办公鼠标：双滚轮，续航至长 40 天，首发价 299 元"
     },
     {
      "title": "当战略耐心崩溃",
@@ -2039,7 +2039,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 22:40:45 +0000",
      "summary": "In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable smartphone market by 2027. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "报告称，iPhone Duo 可能在 2027 年占据可折叠市场近 30% 的份额"
+     "zh": "报告称，iPhone Duo 可能在 2027 年占据近 30% 的可折叠市场"
     },
     {
      "title": "Samsung's sleep apnea detection gets better on the Galaxy Watches and Galaxy Ring",
@@ -2087,7 +2087,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 21:38:48 +0000",
      "summary": "Save 44% off the RRP on the Logitech G309 Lightspeed, a compact wireless gaming mouse with HERO 25K and 6 buttons.",
      "source": "Android Authority",
-     "zh": "罗技 G309 Lightspeed 促销让 HERO 25K 鼠标售价 49.99 美元"
+     "zh": "罗技 G309 Lightspeed 促销使 HERO 25K 鼠标售价 49.99 美元"
     },
     {
      "title": "Canon EOS R6 V review: A video workhorse that nails the basics and beyond",
@@ -2236,10 +2236,58 @@ window.INDUSTRY_DATA = {
     {
      "title": "在“ChatGPT时刻”到来前，宇树科技不急着赚钱",
      "link": "https://wallstreetcn.com/articles/3784734",
-     "pubDate": "Thu, 29 Oct 2026 09:42:23 +0800",
+     "pubDate": "Thu, 29 Oct 2026 09:45:45 +0800",
      "summary": "宇树科技正在用利润换未来。 三季度营收同比增长70%，G1人形机器人跻身全球最畅销机型—— 这家机器人公司交出了一份亮眼的成绩单 。但与此同时，研发费用单季度暴增250%，毛利率承压，经营现金流大幅收缩。 据追风交易台消息，摩根大通10月29日的研报指出，当前市场的争论焦点， \"与其说是即期利润率扩张，不如说是宇树科技能否持续抢占份额、积累数据、巩固生态系统领先地位\"。 这是一家在物理AI\"ChatGPT时刻\"真正到来之前，主动选择不急着赚钱的公司。摩根大通在最新研报中维持对宇树科技的\"增持\"评级，目标价995元，较当前股价695.90元（10月28日收盘）有约43%的上行空间。 出货量全面提",
      "source": "华尔街见闻",
      "zh": "在“ChatGPT时刻”到来前，宇树科技不急着赚钱"
+    },
+    {
+     "title": "义翘神州10月29日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913341483.html",
+     "pubDate": "Thu, 29 Oct 2026 09:42:55 +0800",
+     "summary": "以下是 义翘神州 在北京时间10月29日09:35分盘口异动快照： 10月29日， 义翘神州 盘中快速回调，5分钟内跌幅超过2%，截至9点35分，报118.09元，成交1.78亿元，换手率1.25%。 分笔 09:35:24 118.09 6↓ 09:35:21 118.18 63↓ 09:35:18 118.34 47↓ 09:35:15 118.47 92↓ 09:35:12 118.66 90↓ 09:35:09 118.90 152↓ 09:35:06 118.98 124↓ 09:35:03 119.01 87↓ 09:35:00 119.16 380↓ 09:34:57 119.4",
+     "source": "东方财富股票",
+     "zh": "义翘神州10月29日快速回调"
+    },
+    {
+     "title": "国泰环保10月29日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913339892.html",
+     "pubDate": "Thu, 29 Oct 2026 09:42:40 +0800",
+     "summary": "以下是 国泰环保 在北京时间10月29日09:35分盘口异动快照： 10月29日， 国泰环保 盘中快速回调，5分钟内跌幅超过2%，截至9点35分，报29.5元，成交193.06万元，换手率0.12%。 分笔 09:35:12 29.50 2↓ 09:35:06 29.52 5↓ 09:35:00 29.60 11↓ 09:34:51 29.60 2↓ 09:34:42 29.67 2↑ 09:34:27 29.67 1↑ 09:34:21 29.67 1↑ 09:34:09 29.63 6↓ 09:34:06 29.62 4↓ 09:34:03 29.71 27↑ 报价 卖五 29.6 30 ",
+     "source": "东方财富股票",
+     "zh": "国泰环保10月29日快速回调"
+    },
+    {
+     "title": "鼎泰高科10月29日加速下跌",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913339768.html",
+     "pubDate": "Thu, 29 Oct 2026 09:42:38 +0800",
+     "summary": "以下是 鼎泰高科 在北京时间10月29日09:35分盘口异动快照： 10月29日， 鼎泰高科 盘中加速下跌，5分钟内跌幅超过2%，截至9点35分，报214.88元，成交1.04亿元，换手率0.48%。 分笔 09:35:09 214.88 18↓ 09:35:06 215.00 44↓ 09:35:03 215.03 18↓ 09:35:00 215.21 21↓ 09:34:57 215.47 48↓ 09:34:54 215.53 64↓ 09:34:51 215.69 31↑ 09:34:48 215.64 6↓ 09:34:45 215.65 4↓ 09:34:42 215.69 9↑",
+     "source": "东方财富股票",
+     "zh": "鼎泰高科10月29日加速下跌"
+    },
+    {
+     "title": "奇德新材10月29日加速下跌",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913339667.html",
+     "pubDate": "Thu, 29 Oct 2026 09:42:38 +0800",
+     "summary": "以下是 奇德新材 在北京时间10月29日09:35分盘口异动快照： 10月29日， 奇德新材 盘中加速下跌，5分钟内跌幅超过2%，截至9点35分，报23.33元，成交533.37万元，换手率0.37%。 分笔 09:35:09 23.33 3↓ 09:35:06 23.43 25↓ 09:35:00 23.44 2↓ 09:34:57 23.47 7↓ 09:34:54 23.47 41↓ 09:34:51 23.49 15↓ 09:34:45 23.49 17↑ 09:34:42 23.48 1↓ 09:34:39 23.48 12↑ 09:34:36 23.48 23↑ 报价 卖五 23.",
+     "source": "东方财富股票",
+     "zh": "奇德新材10月29日加速下跌"
+    },
+    {
+     "title": "苏州高新10月29日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913339144.html",
+     "pubDate": "Thu, 29 Oct 2026 09:42:32 +0800",
+     "summary": "以下是 苏州高新 在北京时间10月29日09:35分盘口异动快照： 10月29日， 苏州高新 盘中跌幅达5%，截至9点35分，报5.51元，成交2653.36万元，换手率0.41%。 分笔 09:35:07 5.51 1194↓ 09:35:04 5.52 72↓ 09:35:01 5.53 891↑ 09:34:58 5.53 20↑ 09:34:55 5.53 79↑ 09:34:52 5.53 1269↓ 09:34:49 5.54 106↑ 09:34:46 5.54 586↑ 09:34:43 5.54 751↓ 09:34:40 5.55 41↑ 报价 卖五 5.56 549 卖四",
+     "source": "东方财富股票",
+     "zh": "苏州高新10月29日盘中跌幅达5%"
+    },
+    {
+     "title": "协创数据10月29日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913338943.html",
+     "pubDate": "Thu, 29 Oct 2026 09:42:31 +0800",
+     "summary": "以下是 协创数据 在北京时间10月29日09:35分盘口异动快照： 10月29日， 协创数据 盘中快速回调，5分钟内跌幅超过2%，截至9点35分，报173.84元，成交3.15亿元，换手率0.37%。 分笔 09:35:06 173.84 227↓ 09:35:03 173.90 121↓ 09:35:00 174.05 54↓ 09:34:57 174.21 15↓ 09:34:54 174.26 113↓ 09:34:51 174.26 193↓ 09:34:48 174.54 24↓ 09:34:45 174.58 23↓ 09:34:42 174.61 33↑ 09:34:39 174",
+     "source": "东方财富股票",
+     "zh": "协创数据10月29日快速回调"
     },
     {
      "title": "Jushi outlines Virginia plan targeting 115+ annual harvests after 3 expansions as adult-use sales begin July 1, 2027",
@@ -2248,54 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Jushi 概述了弗吉尼亚州的计划，目标是在 3 次扩张后，随着成人使用销售于 2027 年 7 月 1 日开始，每年收成超过 115 倍"
-    },
-    {
-     "title": "10月29日培育钻石板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913318724.html",
-     "pubDate": "Thu, 29 Oct 2026 09:39:28 +0800",
-     "summary": "&emsp;&emsp;10月29日9点33分， 培育钻石 板块指数报2559.097点，涨幅达2%，成交13.00亿元，换手率0.37%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 惠丰钻石 报69.23元，涨6.51%； 沃尔德 报92.76元，涨6.24%； 黄河旋风 报11.78元，涨5.84%； 宏昌科技 报39.87元，涨5.31%； 夜光明 报14.36元，涨3.98%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月29日培育钻石板块涨幅达2%"
-    },
-    {
-     "title": "飞沃科技10月29日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913318676.html",
-     "pubDate": "Thu, 29 Oct 2026 09:39:26 +0800",
-     "summary": "以下是 飞沃科技 在北京时间10月29日09:33分盘口异动快照： 10月29日， 飞沃科技 盘中快速上涨，5分钟内涨幅超过2%，截至9点33分，报70.91元，成交4753.73万元，换手率1.12%。 分笔 09:33:00 70.91 229↑ 09:32:57 69.95 83↑ 09:32:54 69.70 226↑ 09:32:51 69.61 31↑ 09:32:48 69.51 74↑ 09:32:45 69.50 63↓ 09:32:42 69.50 52↓ 09:32:39 69.66 187↓ 09:32:36 69.92 85↓ 09:32:33 70.08 296↑ ",
-     "source": "东方财富股票",
-     "zh": "飞沃科技10月29日快速上涨"
-    },
-    {
-     "title": "瑞泰科技10月29日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913318578.html",
-     "pubDate": "Thu, 29 Oct 2026 09:39:22 +0800",
-     "summary": "以下是 瑞泰科技 在北京时间10月29日09:32分盘口异动快照： 10月29日， 瑞泰科技 盘中快速上涨，5分钟内涨幅超过2%，截至9点32分，报16.56元，成交479.72万元，换手率0.13%。 分笔 09:32:54 16.56 638↑ 09:32:51 16.44 11↓ 09:32:48 16.48 52↑ 09:32:42 16.45 80↑ 09:32:36 16.39 12↓ 09:32:33 16.41 7↓ 09:32:30 16.40 434↓ 09:32:27 16.40 251↑ 09:32:24 16.36 8↓ 09:32:15 16.36 13↓ 报价 卖",
-     "source": "东方财富股票",
-     "zh": "瑞泰科技10月29日快速上涨"
-    },
-    {
-     "title": "江西铜业10月29日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913318360.html",
-     "pubDate": "Thu, 29 Oct 2026 09:39:22 +0800",
-     "summary": "以下是 江西铜业 在北京时间10月29日09:32分盘口异动快照： 10月29日， 江西铜业 盘中跌幅达5%，截至9点32分，报34.71元，成交2.18亿元，换手率0.30%。 分笔 09:32:52 34.71 2136↓ 09:32:49 34.75 586↑ 09:32:46 34.75 595↓ 09:32:43 34.81 736↑ 09:32:40 34.80 335↑ 09:32:37 34.79 717↓ 09:32:34 34.80 410↑ 09:32:31 34.79 1280↑ 09:32:28 34.77 2876↓ 09:32:25 34.82 436↓ 报价 卖",
-     "source": "东方财富股票",
-     "zh": "江西铜业10月29日盘中跌幅达5%"
-    },
-    {
-     "title": "中钨高新10月29日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913318275.html",
-     "pubDate": "Thu, 29 Oct 2026 09:39:19 +0800",
-     "summary": "以下是 中钨高新 在北京时间10月29日09:33分盘口异动快照： 10月29日， 中钨高新 盘中快速上涨，5分钟内涨幅超过2%，截至9点33分，报40.52元，成交2.02亿元，换手率0.35%。 分笔 09:33:18 40.52 1224↑ 09:33:15 40.49 389↑ 09:33:12 40.42 624↑ 09:33:09 40.38 381↑ 09:33:06 40.33 1210↑ 09:33:03 40.25 160↑ 09:33:00 40.23 170↓ 09:32:57 40.24 244↑ 09:32:54 40.21 529↓ 09:32:51 40.20 ",
-     "source": "东方财富股票",
-     "zh": "中钨高新10月29日快速上涨"
-    },
-    {
-     "title": "*ST高科10月29日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913318121.html",
-     "pubDate": "Thu, 29 Oct 2026 09:39:18 +0800",
-     "summary": "以下是 *ST高科 在北京时间10月29日09:33分盘口异动快照： 10月29日， *ST高科 盘中涨幅达5%，截至9点33分，报6.4元，成交1127.03万元，换手率0.31%。 分笔 09:33:17 6.40 104↑ 09:33:11 6.38 296↓ 09:33:08 6.38 642↑ 09:33:05 6.37 214↑ 09:33:02 6.37 46↑ 09:32:59 6.36 992↑ 09:32:56 6.31 76↓ 09:32:53 6.31 275↑ 09:32:50 6.25 82↓ 09:32:47 6.27 303↑ 报价 卖五 6.45 282 卖四",
-     "source": "东方财富股票",
-     "zh": "*ST高科10月29日盘中涨幅达5%"
     },
     {
      "title": "新债王：美联储“瞄瞄瞄、就是不开枪”，CPI“重回4字头”，AI信贷危机类似“次贷前夜”",
@@ -2327,7 +2327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 21:31:27 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "霍尼韦尔航空航天公司公布 2026 年每股收益 7.85-8 美元，派息 0.40 美元，并计划 5 亿美元的坦佩扩张"
+     "zh": "霍尼韦尔航空航天公司预计 2026 年每股收益为 7.85-8 美元，派息 0.40 美元，并计划 5 亿美元的坦佩扩张"
     },
     {
      "title": "Nextpower projects FY2027 revenue of $4.2B-$4.45B as it targets over $500M of free cash flow",
@@ -2567,7 +2567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 08:37:31 EDT",
      "summary": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response resembles the immune boost seen during exercise and may help explain ",
      "source": "ScienceDaily",
-     "zh": "一次桑拿就能让免疫细胞在你的体内激增"
+     "zh": "一次桑拿会让免疫细胞在你的体内激增"
     },
     {
      "title": "Why do flamingos dance while they eat? This scientist found out",

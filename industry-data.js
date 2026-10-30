@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 06:49:16",
+ "generated_at": "2026/10/31 06:56:28",
  "recent_days": 7,
  "industries": [
   {
@@ -63,7 +63,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
      "source": "TechCrunch AI",
-     "zh": "Zest 的新 AI 代理可以通过短信查找餐厅和预订"
+     "zh": "Zest 的新人工智能代理通过短信查找餐厅并预订"
     },
     {
      "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
@@ -79,7 +79,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
      "source": "TechCrunch AI",
-     "zh": "谷歌首颗数据中心卫星上线并正在写诗"
+     "zh": "谷歌第一颗数据中心卫星上线并正在写诗"
     },
     {
      "title": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案",
@@ -88,6 +88,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 江宇 编辑 | 漠影 在华润信托，一笔债券交易的起点，可能只是一条聊天群里的消息。 交易员需要在上千个交易群中接收指令，识别交易要素，再录入交易系统。客户询问持仓、交易进度时，他们还要打开系统查询，把结果发回群里。 这项工作既繁琐，又容不得差错。 如今，华润信托开始让一个智能体接手其中部分工作。它直接进入交易群，识别并拆解交易指令、录入系统，也能查询持仓与交易进度，自动回复群里的咨询。 ▲华润信托苏南 据腾讯云披露，这个基于智能体开发平台ADP打造的债券助手，拆单准确率已经从最初的80%以上提高到98%。 但在关键节点，华润信托仍然保留人工确认。 这背后其实是行业的一个非共识",
      "source": "智东西",
      "zh": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案"
+    },
+    {
+     "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
+     "link": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
+     "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
+     "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself.",
+     "source": "KDnuggets",
+     "zh": "Vibe 编码经典游戏：使用 AI 助手逐步构建突破口"
     },
     {
      "title": "3小时破千！DeepSeek Harness移动端应用来了",
@@ -104,6 +112,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西10月30日报道，昨日，2026数据存储产业大会上，数据存储专委会发布《数据存储产业发展研究报告（2026年）》和《数据存储产业与技术全景图（2026版）》。 报告预计，截至2026年底，全球存储产业规模将突破1.7万亿美元（约合人民币11.3万亿元），存储产业的增长重点将从单纯扩充容量，转向企业级SSD、AI数据中心和面向推理的数据基础设施。 会上，华为公司副总裁、数据存储产品线总裁袁远认为，GPU规模并不等于有效算力，AI发展需要提升存储对算力的支撑能力，加强数据治理和复用，让有限算力释放更高产出，同时把产业数据转化为AI应用优势。 他说：",
      "source": "智东西",
      "zh": "70%算力空转、数据开发率28.4%！华为副总裁袁远：AI发展要提升存储支撑力"
+    },
+    {
+     "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
+     "link": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
+     "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+     "summary": "4 bugs that pass every null check, duplicate check, and schema test.",
+     "source": "KDnuggets",
+     "zh": "每个清洗管道中都存在的无声数据错误"
     },
     {
      "title": "拟融资334亿！英伟达投的大模型独角兽又融资，冲击加拿大史上最大单轮融资纪录",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl. The post Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass appeared ",
      "source": "MarkTechPost",
      "zh": "Prime Intellect 发布 Prime Mega MoE：可训练的融合 MoE 内核，前向传递速度加快 3.11 倍"
-    },
-    {
-     "title": "An updated Model Spec for more capable and beneficial AI",
-     "link": "https://openai.com/index/updated-model-spec",
-     "pubDate": "Thu, 29 Oct 2026 17:00:00 GMT",
-     "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-     "source": "OpenAI",
-     "zh": "更新后的模型规格，提供更强大、更有益的人工智能"
-    },
-    {
-     "title": "Granite Switch 4.1.1 — Update models like you update software",
-     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-     "pubDate": "Thu, 29 Oct 2026 13:37:07 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Granite Switch 4.1.1 — 像更新软件一样更新模型"
     }
    ]
   },
@@ -335,7 +335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 14:00:00 GMT",
      "summary": "The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons in its lab to find ways to make AI models more efficient, launched its first publicly available product on October 30: mischief 1, an image-to-video model the company says generates video five times faster than the",
      "source": "DIGITIMES",
-     "zh": "从活体神经元到企业人工智能：TBC 利用 AWS 追求更快的视频生成"
+     "zh": "从活体神经元到企业 AI：TBC 利用 AWS 追求更快的视频生成"
     },
     {
      "title": "How AI is Reshaping Semiconductor Design and Manufacturing",
@@ -506,12 +506,20 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Bleu Robotics raises €5 million to scale humanoid robot deployment in factories",
+     "link": "https://roboticsandautomationnews.com/2026/10/30/bleu-robotics-raises-e5-million-to-scale-humanoid-robot-deployment-in-factories/106554/",
+     "pubDate": "Fri, 30 Oct 2026 22:49:02 +0000",
+     "summary": "Bleu Robotics, the Paris, France-based startup building AI models for industrial humanoid robots, has raised a €5 million pre-seed round, co-led by Contrarian Ventures and OVNI Capital, with participation from Kvanted, WEPA Ventures, Motier Ventures and Charlie Songhurst, technology investor and boa",
+     "source": "Robotics & Automation",
+     "zh": "Bleu Robotics 融资 500 万欧元，用于扩大工厂中的人形机器人部署"
+    },
+    {
      "title": "Global Ocean Robotics Day highlights advances in autonomous underwater robots",
      "link": "https://roboticsandautomationnews.com/2026/10/30/global-ocean-robotics-day-highlights-advances-in-autonomous-underwater-robots/106546/",
      "pubDate": "Fri, 30 Oct 2026 22:41:24 +0000",
      "summary": "While the ocean’s depths may be vast, the growing community of researchers dedicated to exploring them with autonomous robotics is more connected than ever following Global Ocean Robotics Day. Constructor University was one of 10 partner hubs around the world to host the inaugural international symp",
      "source": "Robotics & Automation",
-     "zh": "全球海洋机器人日凸显自主水下机器人的进步"
+     "zh": "全球海洋机器人日强调自主水下机器人的进步"
     },
     {
      "title": "Opentrons raises $40 million to expand AI-powered lab automation",
@@ -544,14 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Aurora Innovation says it is aiming to have more than 30,000 driverless trucks in operation by 2030, as the autonomous trucking company looks to expand its commercial operations in the United States. The company outlined the target at its 2026 Analyst and Investor Day in Dallas, where it also offere",
      "source": "Robotics & Automation",
      "zh": "Aurora 概述了扩大到 30,000 辆无人驾驶卡车的计划"
-    },
-    {
-     "title": "7 Managed Transportation Providers Manufacturers Should Know in 2026",
-     "link": "https://roboticsandautomationnews.com/2026/10/30/7-managed-transportation-providers-manufacturers-should-know-in-2026/106511/",
-     "pubDate": "Fri, 30 Oct 2026 19:57:17 +0000",
-     "summary": "Inbound components arrive in the morning, finished goods leave by less-than-truckload (LTL) and truckload in the afternoon, and every late pallet needs someone to call the carrier, check the production schedule, and approve an expedite. Managed transportation providers take on that daily work by pai",
-     "source": "Robotics & Automation",
-     "zh": "2026 年制造商应了解的 7 家托管运输提供商"
     },
     {
      "title": "Percepto launches Axion AI platform to unify inspection data analysis",
@@ -983,7 +983,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
+     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1391,7 +1391,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
      "summary": "'Rest well, my dear friend. Keep navigating a steady course.'",
      "source": "Space.com",
-     "zh": "《星际迷航》中的威廉·夏特纳和乔治·武井纪念沃尔特·柯尼格的去世"
+     "zh": "《星际迷航》中的威廉·夏特纳和乔治·竹井纪念沃尔特·柯尼格的去世"
     },
     {
      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program (Bloomberg)",
+     "link": "https://www.techmeme.com/261030/p28#a261030p28",
+     "pubDate": "Fri, 30 Oct 2026 18:50:01 -0400",
+     "summary": "Bloomberg : Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program &nbsp; &mdash;&nbsp; Alphabet Inc.'s Google is in talks with the US Defense Department to work on a new data security effort underp",
+     "source": "Techmeme",
+     "zh": "消息来源：谷歌正在与国防部就一项新的努力进行谈判，以确保为金顶导弹防御计划构建的软件中的数据安全（彭博社）"
+    },
+    {
      "title": "Apple 智能官宣入华：阿里千问接入苹果生态，可帮用户写文案、读文档、识图像",
      "link": "https://www.ithome.com/1/020/392.htm",
      "pubDate": "Fri, 30 Oct 2026 22:47:48 GMT",
@@ -1823,7 +1831,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 21:41:54 +0000",
      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
      "source": "Ars Technica",
-     "zh": "随着公司转向为人工智能数据中心提供动力，超音速客机受到质疑"
+     "zh": "随着公司转向为人工智能数据中心提供动力，超音速客机面临质疑"
     },
     {
      "title": "米哈游《崩坏 3》爱莉希雅 · 霁月婵娟高保真蓝牙耳机礼盒开售，499 元",
@@ -1944,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
      "source": "Ars Technica",
      "zh": "超过 25% 的人为了获得抗生素而撒谎——而且他们的谎言根本就不是善意的"
-    },
-    {
-     "title": "Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet&apos;s $1T and Meta&apos;s $800B (Brody Ford/Bloomberg)",
-     "link": "https://www.techmeme.com/261030/p22#a261030p22",
-     "pubDate": "Fri, 30 Oct 2026 16:00:58 -0400",
-     "summary": "Brody Ford / Bloomberg : Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet's $1T and Meta's $800B &nbsp; &mdash;&nbsp; The five largest players in the data center race have committed more than $3 trillion in spen",
-     "source": "Techmeme",
-     "zh": "Alphabet、Meta、微软、亚马逊和甲骨文在未来几年的人工智能支出承诺中总共有 3T+ 美元，其中 Alphabet 的 1T 美元和 Meta 的 800B 美元（布罗迪·福特/彭博社）"
     },
     {
      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
@@ -2167,7 +2167,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:58:04 +0000",
      "summary": "Friday’s best Google Play app and game deals are ready, including Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, RPG Silver Nornir, Witchcraft!, Lovecraft’s Untold Stories, Angelo and Deemon (Full), and more. The Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as well as",
      "source": "9to5Google",
-     "zh": "周五的 Android 应用优惠和免费赠品：Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2 等"
+     "zh": "周五的 Android 应用优惠和赠品：Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2 等"
     },
     {
      "title": "The best cameras under $2000 in 2026",
@@ -2215,7 +2215,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 16:22:49 +0000",
      "summary": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
      "source": "Engadget",
-     "zh": "tvOS 27.2 新功能尝试升级 Apple TV 体验"
+     "zh": "tvOS 27.2 的新功能可尝试升级 Apple TV 体验"
     },
     {
      "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
@@ -2241,6 +2241,30 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Federal Realty signals $7.54-$7.58 core FFO per share guidance while integrating $508M The Summit acquisition",
+     "link": "https://seekingalpha.com/news/4661799-federal-realty-signals-7_54-7_58-core-ffo-per-share-guidance-while-integrating-508m-the?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 18:49:33 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Federal Realty 发布每股 7.54-7.58 美元核心 FFO 指引，同时整合 5.08 亿美元的 The Summit 收购"
+    },
+    {
+     "title": "乌克兰总统泽连斯基敦促美国加快“爱国者”防空导弹的交付进度",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917332913.html",
+     "pubDate": "Sat, 31 Oct 2026 06:49:29 +0800",
+     "summary": "乌克兰总统泽连斯基敦促美国加快“爱国者”防空导弹的交付进度。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "乌克兰总统泽连斯基敦促美国加快“爱国者”防空导弹的交付进度"
+    },
+    {
+     "title": "特朗普再称伊朗战事将“很快结束” 多架美军机飞抵以色列",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917333231.html",
+     "pubDate": "Sat, 31 Oct 2026 06:48:21 +0800",
+     "summary": "随着美国11月中期选举的临近，有关美国或将于选举后恢复对伊军事打击的消息也被不断曝出。 有美官员及知情人士就在29日透露称，美国中央司令部司令布拉德·库珀于当日向美国总统特朗普汇报了针对伊朗的军事行动选项。不过特朗普尚未就是否对伊动武作出最终决定。 与此同时，美国副总统万斯则被曝向伊朗方面去信，试图重启美伊谈判。截至目前，伊朗方面仍未予以正式回应。不过按伊朗塔斯尼姆通讯社的说法，伊朗坚持要求美国满足其提出的七项条件。 美总统白宫内听取汇报 美军在中东动作频频 据美官员及知情人士透露，在29日与美国中央司令部司令布拉德·库珀一同出席这次白宫内会议的还有美国国防部长赫格塞思、美军参谋长联席会议主席",
+     "source": "东方财富资讯",
+     "zh": "特朗普再称伊朗战事将“很快结束” 多架美军机飞抵以色列"
+    },
     {
      "title": "Exxon plans to spend $10B on refining business to boost margins, CEO says",
      "link": "https://seekingalpha.com/news/4661795-exxon-plans-to-spend-10b-on-refining-business-to-boost-margins-ceo-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2306,20 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "上期所原油期货2612合约夜盘收涨4.25%，报758.50元人民币/桶"
     },
     {
-     "title": "美军否认伊朗摧毁美海上无人艇的说法",
-     "link": "http://finance.eastmoney.com/news/1356,202610313917332378.html",
-     "pubDate": "Sat, 31 Oct 2026 06:29:03 +0800",
-     "summary": "美军中央司令部10月30日在社交媒体上发文称，当天，伊朗伊斯兰革命卫队声称其在霍尔木兹海峡摧毁了一艘美军海上无人艇，而这一说法是错误的。 当地时间10月30日，伊朗军队海军表示，当天上午，其部队摧毁并击沉了一艘在霍尔木兹海峡东部作业区域活动的敌方无人舰艇。伊朗方面还表示，两艘在霍尔木兹海峡东部禁航区和不安全区域作业的油轮，无视伊朗已发布的警告和规定，触雷后受损并起火。伊朗警告敌方，任何在伊朗武装部队管辖区域内的行动、渗透或挑衅行为，都将遭到伊朗海军的强力反击。（央视新闻） （文章来源：每日经济新闻）",
+     "title": "早读｜月球建房有望“就地取材”",
+     "link": "http://finance.eastmoney.com/news/1350,202610313917331816.html",
+     "pubDate": "Sat, 31 Oct 2026 06:29:04 +0800",
+     "summary": "早上好！上观新闻『早读』来啦！今天是2026年10月31日星期六，农历九月廿二。 § 昨日今晨 能打能藏 ｜记者从海军有关部门获悉，我军首型舰载察打一体隐身 无人机 “攻击-21”近日首次在我国首艘076型两栖攻击舰四川舰成功起降。这是我国两栖攻击舰发展历程上取得的又一突破，标志着中国海军具备固定翼隐身 无人机 在大型海上作战平台起降能力。海军四川舰，舷号51，是我国自主设计研发建造的076型两栖攻击舰首舰，于2024年12月27日下水命名，创新应用了全自动着舰引导系统、新型 综合 电力 系统、电磁弹射和阻拦技术，可搭载固定翼 无人机 、直升机、两栖装备等。 延长30天｜ 记者从外交部领事司获",
      "source": "东方财富股票",
-     "zh": "美军否认伊朗摧毁美海上无人艇的说法"
-    },
-    {
-     "title": "伊朗称在格什姆岛上空击落一架美军无人机",
-     "link": "http://finance.eastmoney.com/news/11790,202610313917332247.html",
-     "pubDate": "Sat, 31 Oct 2026 06:28:53 +0800",
-     "summary": "当地时间10月30日，伊朗伊斯兰革命卫队宣布，数小时前，一架美国MQM-170型侦察 无人机 在该国南部格什姆岛上空被伊朗伊斯兰革命卫队航空航天部队的防空系统击落。卫队表示，这是卫队击落的第二架该型号 无人机 。美军对此暂无回应。（央视新闻） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗称在格什姆岛上空击落一架美军无人机"
+     "zh": "早读｜月球建房有望“就地取材”"
     },
     {
      "title": "This cybersecurity stock will be the next to join the S&P 500",
@@ -2360,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "帝国石油公司 Kearl 的年总产量目标为 28 万桶/日，同时定位于 2027 年增加股东现金回报"
-    },
-    {
-     "title": "GFL investor relations exit unrelated to potential deal - CTFN",
-     "link": "https://seekingalpha.com/news/4661791-gfl-investor-relations-exit-unrelated-to-potential-deal-ctfn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 18:06:02 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GFL 投资者关系退出与潜在交易无关 - CTFN"
     },
     {
      "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
@@ -2447,7 +2455,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:30:00 -0400",
      "summary": "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of U.S. Treasury securities by issuing exemptive relief related to inter-affiliate repo…",
      "source": "SEC",
-     "zh": "美国证券交易委员会 (SEC) 免除某些关联公司和非美国公司的国库清算要求回购交易"
+     "zh": "美国证券交易委员会 (SEC) 对某些关联公司和非美国公司免除国库清算要求回购交易"
     },
     {
      "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
      "source": "Financial Times",
      "zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级"
-    },
-    {
-     "title": "PE firm CD&R targets buyout of $40bn Global Payments - FT",
-     "link": "https://www.finextra.com/newsarticle/48681/pe-firm-cdr-targets-buyout-of-40bn-global-payments---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 30 Oct 2026 18:15:00 GMT",
-     "summary": "Global Payments, the payments processor with an enterprise value of around $40 billion, is an acquisition target for private equity firm CD&R, according to the Financial Times.",
-     "source": "Finextra",
-     "zh": "私募股权公司 CD&R 目标收购 400 亿美元的 Global Payments - FT"
     }
    ]
   },
@@ -2535,7 +2535,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:30:00 +0000",
      "summary": "People who had no recollection of a lucid dream over the past three years developed the skill after one month of performing a novel training regimen twice a week, neuroscientists report.",
      "source": "Live Science",
-     "zh": "神经科学家揭示了训练人们进行清醒梦的方法——它涉及虚拟现实和冥想"
+     "zh": "神经科学家揭示了训练人们进行清醒梦的方法——其中涉及虚拟现实和冥想"
     },
     {
      "title": "‘Exhumed’ recounts the true story of America’s first vampire",
@@ -2599,7 +2599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 08:12:46 EDT",
      "summary": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercis",
      "source": "ScienceDaily",
-     "zh": "2 型糖尿病取得突破，54% 在短短 6 个月内获得缓解"
+     "zh": "2 型糖尿病取得突破性进展，54% 的患者在短短 6 个月内获得缓解"
     },
     {
      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",

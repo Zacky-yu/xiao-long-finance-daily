@@ -942,7 +942,7 @@
      "pubDate": "Fri, 30 Oct 2026 06:30:00 -0500",
      "summary": "BP easily beat analyst expectations of third-quarter earnings, posting its highest quarterly profit, which nearly quadrupled from a year earlier amid strong refining margins and oil and gas trading. BP’s underlying replacement cost profit, the metric is uses for net profit, soared to $8.6 billion fo",
      "source": "OilPrice",
-     "zh": "BP Quadruples Profit to Record as War Boosts Refining and Trading"
+     "zh": "战争促进炼油和贸易，英国石油公司利润翻两番创纪录"
     },
     {
      "title": "DTE Energy starts commercial operations at 132MW Fish Creek Solar Park in Michigan",
@@ -1129,6 +1129,14 @@
      "zh": "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal"
     },
     {
+     "title": "With Setara, the team behind Actio opens its second act",
+     "link": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
+     "pubDate": "Fri, 30 Oct 2026 06:30:00 -0400",
+     "summary": "The fledgling startup has $90 million to develop a pipeline of drugs, led by a Charcot-Marie-Tooth disease medicine, that Actio was working on when Jazz Pharmaeuticals bought its lead epilepsy program.",
+     "source": "BioPharma Dive",
+     "zh": "With Setara, the team behind Actio opens its second act"
+    },
+    {
      "title": "Post-Hoc Live: Is biotech’s future full of zero- and one- employee startups?",
      "link": "https://endpoints.news/post-hoc-live-is-biotechs-future-full-of-zero-and-one-employee-startups/",
      "pubDate": "Fri, 30 Oct 2026 10:00:25 +0000",
@@ -1142,7 +1150,7 @@
      "pubDate": "Fri, 30 Oct 2026 09:49:35 +0000",
      "summary": "Battered by late-stage trial failures and determined to meet its ambitious $80 billion-by-2030 revenue goal, AstraZeneca is cutting costs. The company said Friday that it was shifting resources with ...",
      "source": "Endpoints News",
-     "zh": "阿斯利康（AstraZeneca）紧随葛兰素史克（GSK）之后，每年节省 1.5B 美元"
+     "zh": "AstraZeneca follows GSK with $1.5B annual savings push"
     },
     {
      "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
@@ -1262,7 +1270,7 @@
      "pubDate": "Wed, 28 Oct 2026 20:42:30 +0000",
      "summary": "Preclinical study results suggest how the heart can keep itself well-fueled even under times of stress, by burning glucose in the cell cytosol while burning lactate in the mitochondria. The post How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import appeared first on GEN - Genet",
      "source": "GEN",
-     "zh": "心脏如何通过 MCT1 依赖性线粒体乳酸导入保持强健"
+     "zh": "How the Heart Stays Strong with MCT1-Dependent Mitochondrial Lactate Import"
     }
    ]
   },
@@ -1294,7 +1302,7 @@
      "pubDate": "Fri, 30 Oct 2026 11:45:42 +0000",
      "summary": "Early risers across the U.S. could catch a glimpse of China's mysterious Shenlong spacecraft with the naked eye.",
      "source": "Space.com",
-     "zh": "中国的秘密太空飞机本周将飞越美国上空——以下是您亲眼目睹的方法"
+     "zh": "China's secretive space plane is flying over the US this week — here's how to see it for yourself"
     },
     {
      "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
@@ -1358,7 +1366,7 @@
      "pubDate": "Thu, 29 Oct 2026 23:45:33 +0000",
      "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power system.",
      "source": "Spaceflight Now",
-     "zh": "事情发生了：太空行走者安装了新的太阳能电池阵列"
+     "zh": "As it happened: spacewalkers install new solar array"
     },
     {
      "title": "Slice of Martian Meteorite Teghaza 001",
@@ -1374,7 +1382,7 @@
      "pubDate": "Thu, 29 Oct 2026 23:18:20 +0000",
      "summary": "NUO Space S.p.A—the space arm of the Milan-based private equity firm—led the round. The post Argotec Raises €50M To Scale Small Sat Manufacturing appeared first on Payload .",
      "source": "Payload",
-     "zh": "Argotec Raises €50M To Scale Small Sat Manufacturing"
+     "zh": "Argotec 筹集 5000 万欧元以扩大小型卫星制造规模"
     },
     {
      "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
@@ -1382,7 +1390,7 @@
      "pubDate": "Thu, 29 Oct 2026 21:57:22 +0000",
      "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
      "source": "Spaceflight Now",
-     "zh": "Spacewalking astronauts unfurl upgraded solar array to boost space station power"
+     "zh": "太空行走的宇航员展开升级后的太阳能电池阵列以增强空间站的电力"
     },
     {
      "title": "Halloween Aboard the International Space Station",
@@ -1502,7 +1510,7 @@
      "pubDate": "Tue, 27 Oct 2026 00:50:37 +0000",
      "summary": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E happened Tuesday, October 27, 2026, at 12:25 a.m. PDT (3:25 a.m. EDT / 0825 UTC).",
      "source": "Spaceflight Now",
-     "zh": "西海岸猎鹰 9 号火箭发射 27 颗星链卫星"
+     "zh": "West Coast Falcon 9 rocket launches 27 Starlink satellites"
     },
     {
      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
@@ -1542,7 +1550,7 @@
      "pubDate": "Fri, 30 Oct 2026 12:04:13 +0000",
      "summary": "Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "Fresh WordPress Vulnerability in Attackers’ Crosshairs"
+     "zh": "攻击者瞄准的新 WordPress 漏洞"
     },
     {
      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
@@ -1574,7 +1582,7 @@
      "pubDate": "Fri, 30 Oct 2026 16:10:45 +0530",
      "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been&nbsp;sentenced by a U.S. federal court&nbsp;to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian President B",
      "source": "The Hacker News",
-     "zh": "虚假推文引发 1360 亿美元市场下跌的叙利亚黑客被判入狱 42 个月"
+     "zh": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison"
     },
     {
      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
@@ -1670,7 +1678,7 @@
      "pubDate": "Thu, 29 Oct 2026 18:45:23 -0400",
      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
      "source": "BleepingComputer",
-     "zh": "Binance probes potential $5.8 billion crypto-theft hack"
+     "zh": "币安调查潜在的价值 58 亿美元的加密货币盗窃案"
     },
     {
      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
@@ -1774,7 +1782,7 @@
      "pubDate": "Fri, 30 Oct 2026 09:10:01 -0400",
      "summary": "Ian Krietzberg / Puck : FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future's network &nbsp; &mdash;&nbsp; To almost everyone's surprise, pro-regulatory PACs have outspent pro-industry groups in the midte",
      "source": "Techmeme",
-     "zh": "FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future&apos;s network (Ian Krietzberg/Puck)"
+     "zh": "FEC 数据：面向 AI 的 PAC 在 2026 年美国大选上花费了近 8000 万美元，大部分是在初选之前；支持监管的 PAC 支出超过引领未来网络（Ian Krietzberg/Puck）"
     },
     {
      "title": "一线投资人与创业者匿名访谈：到底是谁在逼谁追共识",
@@ -1862,7 +1870,7 @@
      "pubDate": "Fri, 30 Oct 2026 07:50:01 -0400",
      "summary": "Takashi Mochizuki / Bloomberg : NAND maker Kioxia reports FY Q2 operating profit up 22x YoY to ~$12.7B, in line with est., but forecasts Q3 operating profit of ~$12.7B, below ~$14.9B est. &nbsp; &mdash;&nbsp; Kioxia Holdings Corp. delivered a profit outlook that trailed estimates, warning that an AI",
      "source": "Techmeme",
-     "zh": "NAND maker Kioxia reports FY Q2 operating profit up 22x YoY to ~$12.7B, in line with est., but forecasts Q3 operating profit of ~$12.7B, below ~$14.9B est. (Takashi Mochizuki/Bloomberg)"
+     "zh": "NAND 制造商 Kioxia 报告财年第二季度营业利润同比增长 22 倍，至约 $12.7B，与预期一致，但预测第三季度营业利润为约 $12.7B，低于约 $14.9B 预期。（Takashi Mochizuki/彭博社）"
     },
     {
      "title": "印度站 UPI 接入后转化涨了，但投放 CPA 反而涨了 40%，是支付环节还是流量质量问题？",
@@ -1950,7 +1958,7 @@
      "pubDate": "Fri, 30 Oct 2026 11:05:53 +0000",
      "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 413 # Comments: 121",
      "source": "Hacker News",
-     "zh": "Backdoors in official Claude Code extensions"
+     "zh": "官方克劳德代码扩展中的后门"
     },
     {
      "title": "具身智能患上了焦虑症",
@@ -1990,7 +1998,7 @@
      "pubDate": "Fri, 30 Oct 2026 13:06:06 +0000",
      "summary": "LiveWire's warns that it may not survive its current financial difficulties.",
      "source": "Engadget",
-     "zh": "Harley-Davidson's electric motorbike brand has 'substantial doubt' about its future"
+     "zh": "哈雷戴维森的电动摩托车品牌对其未来存在“重大疑问”"
     },
     {
      "title": "One UI 9 with Android 17 is rolling out to these two popular Galaxy phones in the US",
@@ -2310,7 +2318,23 @@
      "pubDate": "Fri, 30 Oct 2026 09:01:57 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "五角大楼发布中国秘密航天飞机的卫星照片"
+     "zh": "Pentagon releases satellite photo of secret Chinese spaceplane"
+    },
+    {
+     "title": "复盘历轮调整周期 机构：A股已现底部特征",
+     "link": "http://finance.eastmoney.com/news/11137,202610303916974085.html",
+     "pubDate": "Fri, 30 Oct 2026 21:00:10 +0800",
+     "summary": "近期A股持续调整，不过，回顾A股历轮调整， 本次调整幅度已逼近历史极值 。 招商证券 近日指出，A股多项指标已接近历史底部特征。 东方财富 Choice数据显示，自2026年下半年高点算起， 上证指数本轮回撤14.4%，沪深300回撤21.8%，创业板指回撤44.9%，科创50回撤48.6% 。 值得注意的是，创业板指本轮44.9%的跌幅，已经超过了2018年整轮的38.2%；科创50本轮48.6%的回撤，也仅次于2021-2024年长调整。换句话说， 成长风格的回撤正接近历史极值区间 。 招商证券 表示， 综合 来看，流动性指标接近历史底部区间，稳市场政策陆续推进，基本面的正向驱动仍在， A",
+     "source": "东方财富资讯",
+     "zh": "复盘历轮调整周期 机构：A股已现底部特征"
+    },
+    {
+     "title": "10月30日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202610303916937179.html",
+     "pubDate": "Fri, 30 Oct 2026 21:00:00 +0800",
+     "summary": "热点聚焦 证监会定调 ： 中国证监会党委书记、主席吴清10月30日主持召开党委（扩大）会议。会议要求，充分发挥全面从严治党的政治引领和政治保障作用， 牢固树立大局意识、系统观念，全力稳市场稳预期 ，深化投融资 综合 改革，完善全链条监管体系，持续提升资本市场韧性和信心，确保“十五五”开局之年资本市场各项任务圆满完成。 央行会议 ： 中国人民 银行 党委书记、行长潘功胜主持召开党委会议。会议强调，以更高标准更实举措贯彻落实党中央关于金融工作的重大部署。 继续实施适度宽松的货币政策， 综合 运用多种货币政策工具，保持流动性充裕 。做好金融“五篇大文章”，加快建设多层次现代化金融市场体系，提升金融服",
+     "source": "东方财富资讯",
+     "zh": "10月30日东方财富财经晚报（附新闻联播）"
     },
     {
      "title": "复盘历轮调整周期 机构：A股已现底部特征",
@@ -2494,7 +2518,7 @@
      "pubDate": "Fri, 30 Oct 2026 07:08:52 EDT",
      "summary": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely connected points without sacrificing speed, overcoming a longstanding limitation of ea",
      "source": "ScienceDaily",
-     "zh": "一位计算机科学家突破了 1996 年以来的限制"
+     "zh": "A computer scientist breaks through a limit that stood since 1996"
     },
     {
      "title": "Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year",
@@ -2534,7 +2558,7 @@
      "pubDate": "Thu, 29 Oct 2026 22:07:19 EDT",
      "summary": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed \"sea muppets,\" these elusive creatures are known from just seven specimens,",
      "source": "ScienceDaily",
-     "zh": "科学家发现神秘海马，无人见过活生生的海马"
+     "zh": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive"
     },
     {
      "title": "Bright object beyond Pluto may be the solar system's sixth dwarf planet",
@@ -2550,7 +2574,7 @@
      "pubDate": "Thu, 29 Oct 2026 18:35:00 +0000",
      "summary": "A biology student found a Native American stone spearpoint when searching for shark teeth along the coast of Virginia.",
      "source": "Live Science",
-     "zh": "“这太疯狂了！”弗吉尼亚州大学生在寻找鲨鱼牙齿时发现了罕见的美洲原住民矛尖"
+     "zh": "'This is so crazy!' Virginia college student looking for shark teeth finds rare Native American spearpoint"
     },
     {
      "title": "Turning a solar power system into its own backup",
@@ -2574,7 +2598,7 @@
      "pubDate": "Thu, 29 Oct 2026 18:00:00 +0000",
      "summary": "GPS tracking reveals fast east-west flights lead to a mismatch between birds' internal time and the sun’s position, skewing their sense of direction.",
      "source": "Science News",
-     "zh": "Seabirds get jet lag, too — and it can throw them a bit off course"
+     "zh": "海鸟也会时差——这会让它们有点偏离航线"
     },
     {
      "title": "Some of the world’s biggest bats are getting smaller",
@@ -2590,7 +2614,15 @@
      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
      "summary": "Developing research suggests that ancient interbreeding wasn't random — it was socially patterned, directional and far more complicated than the headlines suggest.",
      "source": "Live Science",
-     "zh": "尼安德特人的 DNA 仍然存在于我们人类的家谱中。我们古代的亲戚关系是怎样的？"
+     "zh": "Neanderthal DNA still survives in our human family tree. What were our ancient relatives' relationships like?"
+    },
+    {
+     "title": "How Do You Take a Picture of a Black Hole?",
+     "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+     "pubDate": "Thu, 29 Oct 2026 15:11:57 +0000",
+     "summary": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black Hole? first appeared on Quanta Magazine",
+     "source": "Quanta Magazine",
+     "zh": "How Do You Take a Picture of a Black Hole?"
     },
     {
      "title": "How Do You Take a Picture of a Black Hole?",
@@ -2606,7 +2638,7 @@
      "pubDate": "Thu, 29 Oct 2026 12:00:00 +0000",
      "summary": "Everyday Earth clouds get their start with a bit of salt or dust. Not so the Red Planet's Arsia Mons Elongated Cloud, computer models suggest.",
      "source": "Science News",
-     "zh": "令人惊叹的火星云可能源自令人惊奇的物理现象"
+     "zh": "A striking Mars cloud may be born from surprising physics"
     },
     {
      "title": "New simulation shows the first 2 billion years of the universe's history play out in stunning detail",

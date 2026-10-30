@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/30 13:49:49",
+ "generated_at": "2026/10/30 13:59:04",
  "recent_days": 7,
  "industries": [
   {
@@ -271,7 +271,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 04:29:27 GMT",
      "summary": "South Korean AI chip developers HyperAccel and Rebellions are moving beyond standalone accelerators to develop integrated data center systems, seeking to combine domestic processors, memory, and networking technologies into infrastructure capable of handling different AI workloads at lower cost.",
      "source": "DIGITIMES",
-     "zh": "HyperAccel、Rebellions 将目光从芯片转向人工智能数据中心系统"
+     "zh": "HyperAccel、Rebellions 的目光不仅仅局限于芯片，还包括人工智能数据中心系统"
     },
     {
      "title": "Nvidia dominates AI robot chips with 69% market share",
@@ -303,7 +303,15 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 04:14:22 GMT",
      "summary": "Nvidia is reportedly evaluating billions of dollars in credit support for UK neocloud provider Nscale to help cover power and construction costs for a data center in West Virginia. Nscale faces simultaneous pressure to accelerate the launch of the Nvidia chip-powered campus, which is expected to be ",
      "source": "DIGITIMES",
-     "zh": "Nvidia考虑对Nscale作为数据中心的信贷支持，IPO面临压力"
+     "zh": "英伟达考虑对Nscale作为数据中心的信贷支持，IPO面临压力"
+    },
+    {
+     "title": "Voters’ Issues In Midterms",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/voters-issues-in-midterms-2026-10/",
+     "pubDate": "Fri, 30 Oct 2026 01:01:00 +0000",
+     "summary": "Next week’s midterm elections in the US see voters putting the economy and the future of democracy as the most important topics, according to a survey by Pugh Research Centre. […] The post Voters’ Issues In Midterms appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "中期选举中选民的问题"
     },
     {
      "title": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
@@ -335,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 16:20:34 +0000",
      "summary": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Samsung Electronics Posts $80B Operating Profit on AI Memory Demand appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "三星电子因 AI 内存需求实现运营利润 80B 美元"
+     "zh": "三星电子因 AI 内存需求实现营业利润 80B 美元"
     },
     {
      "title": "How Vision and Connectivity Enable Autonomous Agriculture",
@@ -354,6 +362,14 @@ window.INDUSTRY_DATA = {
      "zh": "PDF 解决方案 CONNECT 2026 旅行报告"
     },
     {
+     "title": "Fable: The Thing That Was Too Good For Its Own Good",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-thing-that-was-too-good-for-its-own-good-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 14:25:23 +0000",
+     "summary": "27 years ago a university student looked for a way round having to buy CDs to get single tracks. He coded a programme letting students share tracks stored on their […] The post Fable: The Thing That Was Too Good For Its Own Good appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "寓言：好事不成其事"
+    },
+    {
      "title": "ML-Based Power Models for CPUs. Innovation in Verification",
      "link": "https://semiwiki.com/artificial-intelligence/375466-ml-based-power-models-for-cpus-innovation-in-verification/",
      "pubDate": "Thu, 29 Oct 2026 13:00:22 +0000",
@@ -368,6 +384,14 @@ window.INDUSTRY_DATA = {
      "summary": "Programmable mixed-signal devices can replace sprawling RC networks and firmware-dependent control with compact, deterministic, and adaptable multi-rail sequencing. The post Smarter Power Sequencing with GreenPAK™ appeared first on EE Times .",
      "source": "EE Times",
      "zh": "使用 GreenPAK™ 实现更智能的电源排序"
+    },
+    {
+     "title": "What should a sensor decide before its signal becomes electronic?",
+     "link": "https://www.electronicsweekly.com/news/business/what-should-a-sensor-decide-before-its-signal-becomes-electronic-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 12:00:52 +0000",
+     "summary": "A sensing architecture can leave transport, sequencing and bounded local decisions in the fluidic domain before an optical or electrical readout hands a validated state to conventional electronics Operations can […] The post What should a sensor decide before its signal becomes electronic? appeared ",
+     "source": "Electronics Weekly",
+     "zh": "在信号变成电子信号之前，传感器应该做出什么决定？"
     },
     {
      "title": "STMicroelectronics Weighs Developing More Powerful MCUs, MPUs for Humanoid Robots",
@@ -394,12 +418,20 @@ window.INDUSTRY_DATA = {
      "zh": "Wolfspeed 同意签订多年协议，向博格华纳供应 1200V 碳化硅器件"
     },
     {
+     "title": "ST forecasts $4bn Q4",
+     "link": "https://www.electronicsweekly.com/news/business/st-forecasts-4bn-q4-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 08:45:13 +0000",
+     "summary": "ST reported Q3 revenues of $3.76bn, gross margin of 37.3%, operating income of $367m and net income of $291m and operating income of $429m. Jean-Marc Chery, ST president & CEO, […] The post ST forecasts $4bn Q4 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "ST 预测第四季度营收 40 亿美元"
+    },
+    {
      "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
      "link": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/",
      "pubDate": "Thu, 29 Oct 2026 08:30:08 +0000",
      "summary": "AI chip advances depend on more than design, requiring new materials, manufacturing equipment, and packaging technologies to meet rising performance demands. The post How AI Redefines Semiconductor Manufacturing, From Materials Up appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "人工智能如何从材料向上重新定义半导体制造"
+     "zh": "人工智能如何从材料开始重新定义半导体制造"
     },
     {
      "title": "Auto-Generation Of Properties: Methodology Insertion",
@@ -450,52 +482,20 @@ window.INDUSTRY_DATA = {
      "zh": "基于物理的验证：值得信赖的代理 EDA 的基础"
     },
     {
-     "title": "Ascent Solar co-hosts executive networking event to strengthen industry relationships with space innovators",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/ascent-281026.shtml",
-     "pubDate": "Wed, 28 Oct 2026 20:08:20 GMT",
-     "summary": "Ascent Solar Technologies Inc of Thornton, CO, USA — which designs and makes lightweight, flexible copper indium gallium diselenide (CIGS) thin-film photovoltaic (PV) panels that can be integrated into consumer products, off-grid applications and aerospace applications — was co-host of an executive ",
-     "source": "Semiconductor Today",
-     "zh": "Ascent Solar 联合举办高管社交活动，以加强与太空创新者的行业关系"
+     "title": "“Reassuringly boring” budget",
+     "link": "https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 06:18:56 +0000",
+     "summary": "“Reassuringly boring“ was one judgement on yesterday’s budget, meaning that it didn’t upset the bond market. £18m has been allocated for a new UK advanced chip design academy at Edinburgh […] The post “Reassuringly boring” budget appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "“令人安心乏味”的预算"
     },
     {
-     "title": "AXT raises private equity financing of up to $545m in Tongmei",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/axt-281026.shtml",
-     "pubDate": "Wed, 28 Oct 2026 20:00:53 GMT",
-     "summary": "AXT Inc of Fremont, CA, USA — which makes gallium arsenide (GaAs), indium phosphide (InP) and germanium (Ge) substrates and raw materials at plants in China — says that its majority-owned China-based wafer manufacturing subsidiary Beijing Tongmei Xtal Technology Co Ltd has entered into definitive ag",
-     "source": "Semiconductor Today",
-     "zh": "AXT 向同美筹集至多 5.45 亿美元私募股权融资"
-    },
-    {
-     "title": "From Metrology to Autonomy: Why Intel Foundry’s Manufacturing Roadmap Matters",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/intel/375218-from-metrology-to-autonomy-why-intel-foundrys-manufacturing-roadmap-matters/",
-     "pubDate": "Wed, 28 Oct 2026 17:00:44 +0000",
-     "summary": "Semiconductor manufacturing has always depended on precise measurement. As devices become more complex and packaging integrates more components, however, measuring individual process steps is no longer enough. Manufacturers need to understand how decisions across fabrication, assembly, and test affe",
-     "source": "SemiWiki",
-     "zh": "从计量到自动化：为什么英特尔代工厂的制造路线图很重要"
-    },
-    {
-     "title": "The Wafer Is the New Battleground: Soitec CPO René Jonker on Building AI from the Substrate Up",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/soitec/375182-the-wafer-is-the-new-battleground-soitec-cpo-rene-jonker-on-building-ai-from-the-substrate-up/",
-     "pubDate": "Wed, 28 Oct 2026 15:00:46 +0000",
-     "summary": "Most of the AI conversation stops at the chip. At SEMICON West 2026 I sat down with René Jonker, Chief Product Officer of Soitec, to talk about what sits underneath it. Ask an engineer where AI performance comes from and you will hear about process nodes, dataflow, HBM stacks and interconnect fabric",
-     "source": "SemiWiki",
-     "zh": "晶圆是新战场：Soitec 首席产品官 René Jonker 谈从底层构建人工智能"
-    },
-    {
-     "title": "SemiQ makes available Gen4 1200V and 750V SiC MOSFETs",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/semiq-271026.shtml",
-     "pubDate": "Tue, 27 Oct 2026 20:56:04 GMT",
-     "summary": "SemiQ Inc of Lake Forest, CA, USA — which designs, develops and manufactures custom silicon carbide (SiC) power semiconductors and 150mm SiC epitaxial wafers for high-voltage applications — has announced the availability of its fourth-generation QSiC silicon carbide power devices, launching a family",
-     "source": "Semiconductor Today",
-     "zh": "SemiQ 推出 Gen4 1200V 和 750V SiC MOSFET"
-    },
-    {
-     "title": "From Chip Lab to Center Stage",
-     "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-     "pubDate": "Fri, 23 Oct 2026 18:00:03 +0000",
-     "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "从芯片实验室到舞台中央"
+     "title": "Onsemi rumoured to be in talks to acquire Ferric",
+     "link": "https://www.electronicsweekly.com/news/business/onsemi-rumoured-to-be-in-talks-to-acquire-ferric-2026-10/",
+     "pubDate": "Thu, 29 Oct 2026 06:14:25 +0000",
+     "summary": "Onsemi is in talks to acquire Ferric, a 16-year-old New York-based semiconductor startup for close to $1bn, reports The Information. Ferric specialises in integrated voltage regulators (IVRs) and thin-film magnetic […] The post Onsemi rumoured to be in talks to acquire Ferric appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "据传 Onsemi 正在洽谈收购 Ferric"
     }
    ]
   },
@@ -608,14 +608,6 @@ window.INDUSTRY_DATA = {
      "summary": "Team NimbRo’s robot in action during the RoboCup@Home competition at RoboCup 2026. Raphael leads the team. Raphael Memmesheimer has been successfully competing in the RoboCup@Home league winning the RoboCup@Home competition five times. He and his colleagues won the best paper award at RoboCup 2026 f",
      "source": "Robohub",
      "zh": "参加 RoboCup@Home 并获得 2026 年最佳论文奖：Raphael Memmesheimer 专访"
-    },
-    {
-     "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-     "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-     "pubDate": "Tue, 27 Oct 2026 16:14:39 +0000",
-     "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
-     "source": "IEEE Spectrum 机器人",
-     "zh": "您的机器人的安全功能已经发挥作用。如果输入说谎怎么办？"
     },
     {
      "title": "Robots in Society, Business and Culture: September 2026",
@@ -767,7 +759,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 13:46:31 +0000",
      "summary": "The most affordable Lucid doesn’t feel cheap, and it delivers all of the basics that the more expensive trims are known for.",
      "source": "InsideEVs",
-     "zh": "驾驶最便宜的 Lucid Air 行驶 40,000 英里，带来一些惊喜"
+     "zh": "驾驶最便宜的 Lucid Air 行驶 40,000 英里，带来了一些惊喜"
     },
     {
      "title": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
@@ -1015,7 +1007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 16:30:59 +0000",
      "summary": "Solargis' Pablo Caballero discusses how asset owners and operators should respond to extreme weather events following summer 2026.",
      "source": "PV Tech",
-     "zh": "2026 年夏季告诉我们有关气候变化更大的太阳能发电的信息"
+     "zh": "2026 年夏季告诉我们有关气候更加多变的情况下的太阳能发电的信息"
     },
     {
      "title": "First Solar opens 1.7 GW module plant in South Carolina",
@@ -1050,12 +1042,12 @@ window.INDUSTRY_DATA = {
      "zh": "BAAJA 为联邦监管机构提供了“更大的锤子”来打破传输障碍"
     },
     {
-     "title": "AEP increases investment plan 30% on generation, transmission spending",
+     "title": "AEP increases investment plan 30% to $100B on gen, transmission spending",
      "link": "https://www.utilitydive.com/news/aep-transmission-data-center-earnings/873189/",
      "pubDate": "Thu, 29 Oct 2026 11:05:24 -0400",
-     "summary": "American Electric Power&rsquo;s contracted large loads jumped 22%, to 84 GW, mainly on a 10.4-GW data center in Ohio being developed by SB Energy, company officials said Wednesday.",
+     "summary": "American Electric Power&rsquo;s contracted large loads jumped 22% to 84 GW, mainly on a 10.4-GW data center in Ohio being developed by SB Energy, company officials said Wednesday.",
      "source": "Utility Dive",
-     "zh": "AEP 将发电、输电支出投资计划增加 30%"
+     "zh": "AEP 将发电、输电支出的投资计划增加 30% 至 $100B"
     },
     {
      "title": "US customs frees detained Ethiopian solar cells as duty probe continues",
@@ -1247,7 +1239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 13:43:44 +0000",
      "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists.",
      "source": "STAT News",
-     "zh": "STAT+：尽管 FDA 科学家对此表示担忧，但 HHS 批准了六种肽"
+     "zh": "STAT+：尽管 FDA 科学家表示担忧，但 HHS 批准了六种肽"
     },
     {
      "title": "Flagship blends three biotech startups to form Etcelera",
@@ -1367,7 +1359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 21:28:58 +0000",
      "summary": "On Oct. 29, 1991, the Galileo spacecraft flew by the asteroid Gaspra on its way to Jupiter. Here's why it mattered.",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 1991 年 10 月 29 日：美国宇航局伽利略号宇宙飞船飞越小行星加斯普拉，并以 18,000 英里/小时的速度飞行，拍摄了令人惊叹的照片"
+     "zh": "在太空的这一天！ 1991 年 10 月 29 日：美国宇航局的伽利略号宇宙飞船飞过小行星加斯普拉，并以 18,000 英里/小时的速度飞行时拍摄了令人惊叹的照片"
     },
     {
      "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
@@ -1738,6 +1730,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "第 20 万台理想 i6 下线，高管称产能爬坡的速度提上来了",
+     "link": "https://www.ithome.com/1/020/046.htm",
+     "pubDate": "Fri, 30 Oct 2026 05:57:01 GMT",
+     "summary": "IT之家 10 月 30 日消息，理想汽车产品线负责人 @李昕旸 今天下午在微博发文宣布，理想汽车迎来了一个新的里程碑：第 20 万台理想 i6 正式下线！ 李昕旸表示，过去一年，i6 得到了很多朋友的喜爱，也有不少朋友等了比较久才提到车。“这次，我们做了更充分的准备：备好了准现车，昨天已经在全国陆续开始交付， 产能爬坡的速度也提上来了 。” 目前的定车 交付周期显示为 7-8 周 ，年内“肯定可以”提车。按照生产计划， 11 月产能将达到 2 万台，12 月还会进一步提升 。 李昕旸表示，接下来会在保证质量的前提下全力推进生产和交付。“能多交一台、能早交一天，我们都会全力争取。希望大家能更早",
+     "source": "IT之家",
+     "zh": "第 20 万台理想 i6 下线，高管称产能爬坡的速度提上来了"
+    },
+    {
+     "title": "索尼发布 \"New yet, Original\" 新品预告，或将推出复古耳机",
+     "link": "https://www.ithome.com/1/020/045.htm",
+     "pubDate": "Fri, 30 Oct 2026 05:52:28 GMT",
+     "summary": "IT之家 10 月 30 日消息，Sony（索尼）官方近日发布了神秘新品预告，英文宣传语为 \"New yet, Original\"（ 崭新，却又原汁原味 ）、日文宣传语是“耳元に、あの日のミライ”（ 耳畔，是那一天的未来 ）。 此外，该新品预热视频简介是 \"Ready to rewind?\"（ 准备好倒带重温往事了吗？ ），下方是预热的主视觉图。 从多方面情况来看， 索尼似乎将推出一款复古的头戴式耳机 。相关发布活动时间为太平洋标准时间 11 月 5 日 08:00。",
+     "source": "IT之家",
+     "zh": "索尼发布 \"New yet, Original\" 新品预告，或将推出复古耳机"
+    },
+    {
+     "title": "告别知识截止日：谷歌让 AI 学会“睡觉”，边用边学还不忘旧知识",
+     "link": "https://www.ithome.com/1/020/044.htm",
+     "pubDate": "Fri, 30 Oct 2026 05:51:20 GMT",
+     "summary": "IT之家 10 月 30 日消息，谷歌研究团队于 10 月 27 日发布博文， 介绍一项名为“睡眠框架”（Sleep Framework）的持续学习研究成果，试图解决大语言模型发布后知识固化、难以吸收新信息的难题。 该研究已于 10 月 27 日由 Google Research 公开，相关论文题为《Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories》。 谷歌指出在通常情况下，当前主流大模型在完成预训练后便进入相对静态的部署状态，其知识存在“截止日期”；若依赖上下文学习，新信息又会随会话结束而",
+     "source": "IT之家",
+     "zh": "告别知识截止日：谷歌让 AI 学会“睡觉”，边用边学还不忘旧知识"
+    },
+    {
+     "title": "国产大飞机南航 C919 首次在大湾区执飞 SAF 可持续航空燃料航班",
+     "link": "https://www.ithome.com/1/020/043.htm",
+     "pubDate": "Fri, 30 Oct 2026 05:50:48 GMT",
+     "summary": "IT之家 10 月 30 日消息，据央视新闻报道，10 月 30 日上午，南航 CZ3599 航班在广州白云国际机场完成可持续航空燃料（以下简称“SAF”）加注并顺利起飞。 这是广州白云国际机场始发的首架 SAF 航班，实现广州 SAF 航班“零的突破”，也是粤港澳大湾区首次使用国产大飞机 C919 执飞 SAF 航班，标志着国产大飞机与 SAF 在大湾区蓝天上首次同框，为粤港澳大湾区美丽中国先行区建设、服务国家“双碳”战略目标添上崭新一笔。 IT之家住：可持续航空燃料，是指以废弃油脂、农林废弃物、能源作物、工业尾气、绿氢及捕集二氧化碳等可持续原料，经清洁工艺生产的航空涡轮燃料。 其理化特性与",
+     "source": "IT之家",
+     "zh": "国产大飞机南航 C919 首次在大湾区执飞 SAF 可持续航空燃料航班"
+    },
+    {
      "title": "莲花全面接入浩瀚充电场站：新增 1200+ 场站，覆盖超充、极充、轻充多类型",
      "link": "https://www.ithome.com/1/020/042.htm",
      "pubDate": "Fri, 30 Oct 2026 05:47:11 GMT",
@@ -1808,38 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "企业落地Agent最大的问题，不是模型不够强，而是断点太多。",
      "source": "钛媒体",
      "zh": "从个人提效到组织生产力：腾讯的上下文解法"
-    },
-    {
-     "title": "美媒曝五角大楼安全事故：被禁用的 AI，在美军网络里运行了两个月",
-     "link": "https://www.ithome.com/1/020/039.htm",
-     "pubDate": "Fri, 30 Oct 2026 05:32:25 GMT",
-     "summary": "北京时间 10 月 30 日，据美国《连线》杂志报道，埃森哲一名承包商员工被指将个人 Claude Code 账号接入美国国防部的安全系统，让 AI 智能体代为编写和部署代码。知情人士称，该智能体在国防部网络中运行了 两个月 才被发现，其间疑似将登录凭据、密码及网络结构信息发送至一个存在安全风险的第三方网站。 埃森哲否认相关指控成立。公司发言人表示，相关说法已经过彻底、独立的调查，被认定缺乏依据，公司完全履行了法律与合同义务。《连线》称，埃森哲没有进一步说明由谁开展调查。美国国防部发言人则表示，不评论其网络或系统的状况。 据报道，涉事员工接入的是一个供多个情报机构使用的集中式系统，其中存有“受",
-     "source": "IT之家",
-     "zh": "美媒曝五角大楼安全事故：被禁用的 AI，在美军网络里运行了两个月"
-    },
-    {
-     "title": "摩托罗拉 Signature 27 手机官宣 11 月 5 日发售，是否预装 GrapheneOS 成最大悬念",
-     "link": "https://www.ithome.com/1/020/038.htm",
-     "pubDate": "Fri, 30 Oct 2026 05:29:53 GMT",
-     "summary": "IT之家 10 月 30 日消息，摩托罗拉今天（10 月 30 日）官宣将于 11 月 5 日发售 Signature 27 手机，将会配备高通第六代骁龙 8 超级至尊版芯片，而该机目前最大的悬念， 就是是否会预装 GrapheneOS 系统。 摩托罗拉 Signature 27 手机最早在今年 9 月的高通骁龙峰会上亮相， 此前其印度官网仅透露“将于 11 月上市” ，如今发布日期已最终确认。 从已公开的信息看，Signature 27 是一款定位高端的性能影像旗舰。为了发挥旗舰芯片的性能，摩托罗拉整合 ArcticMesh 散热系统，其均热板面积比上一代扩大 40%，有望在长时间游戏、拍摄",
-     "source": "IT之家",
-     "zh": "摩托罗拉 Signature 27 手机官宣 11 月 5 日发售，是否预装 GrapheneOS 成最大悬念"
-    },
-    {
-     "title": "机械师推出 G5 Pro V3 手柄：可调力悬浮 TMR 摇杆，到手 199 元起",
-     "link": "https://www.ithome.com/1/020/037.htm",
-     "pubDate": "Fri, 30 Oct 2026 05:25:17 GMT",
-     "summary": "IT之家 10 月 30 日消息，机械师推出 G5 Pro V3 手柄，现已开始预售， 预估到手价 199 元起 ： 雾透黑：标价 299 元，预估到手价 199 元 星光金套装：标价 349 元，预估到手价 269 元 这款手柄采用无界 TMR 摇杆，搭配无界支撑结构减少边缘摩擦，转动更丝滑；摇杆阻尼支持调节，轻阻尼转向灵活，重阻尼控制更稳。 该手柄支持微动 / 霍尔双切扳机，分别适配射击类游戏的快速触发与竞速类游戏的线性控制需求；搭载 H 桥急停非对称握把马达 + 扳机马达的 2+2 四马达方案（限套装版），强度 5 档可调。 该手柄配备第三代轻力微动按键，搭配 360 度悬浮全向十字键，",
-     "source": "IT之家",
-     "zh": "机械师推出 G5 Pro V3 手柄：可调力悬浮 TMR 摇杆，到手 199 元起"
-    },
-    {
-     "title": "“X 教授”扮演者帕特里克 · 斯图尔特去世，享年 86 岁",
-     "link": "https://www.ithome.com/1/020/036.htm",
-     "pubDate": "Fri, 30 Oct 2026 05:12:46 GMT",
-     "summary": "IT之家 10 月 30 日消息，英国演员、莎士比亚戏剧大师帕特里克 · 斯图尔特（Sir Patrick Stewart）于当地时间 10 月 28 日在洛杉矶家中去世，享年 86 岁。 其家人通过 X 平台发布讣告，称他此前与阿尔茨海默病及路易体痴呆症抗争了一段时间，离世时由妻子桑妮陪伴，家人与朋友围绕在侧： 我们怀着无比沉痛的心情宣布，帕特里克 · 斯图尔特爵士昨日在洛杉矶的家中安详离世，他挚爱的妻子桑妮悉心照料着他。 他此前与阿尔茨海默病和路易体痴呆症（Lewy Body Dementia）抗争了一段短暂而令人动容的旅程。家人和朋友的温暖怀抱环绕着他，现场音乐、祈祷、泪水、欢笑以及只有",
-     "source": "IT之家",
-     "zh": "“X 教授”扮演者帕特里克 · 斯图尔特去世，享年 86 岁"
     },
     {
      "title": "星巴克、山姆，开始拒绝“白嫖”",
@@ -1933,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
      "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
      "pubDate": "Fri, 30 Oct 2026 02:33:04 +0000",
-     "summary": "Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/ Comments URL: https://news.ycombinator.com/item?id=50299182 Points: 35 # Comments: 27",
+     "summary": "Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/ Comments URL: https://news.ycombinator.com/item?id=50299182 Points: 38 # Comments: 27",
      "source": "Hacker News",
      "zh": "CVE-2026-98432：Linux TCP Use-After-Free 风险和补丁验证"
     },
@@ -1949,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Pico CSS is no longer maintained",
      "link": "https://github.com/picocss/pico/discussions/754",
      "pubDate": "Fri, 30 Oct 2026 01:58:44 +0000",
-     "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 82 # Comments: 22",
+     "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 84 # Comments: 22",
      "source": "Hacker News",
      "zh": "Pico CSS 不再维护"
     },
@@ -1957,17 +1949,9 @@ window.INDUSTRY_DATA = {
      "title": "Herdr has released native app",
      "link": "https://github.com/herdrdev/herdr-app",
      "pubDate": "Fri, 30 Oct 2026 00:42:41 +0000",
-     "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 89 # Comments: 63",
+     "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 95 # Comments: 68",
      "source": "Hacker News",
      "zh": "Herdr 发布了原生应用"
-    },
-    {
-     "title": "Cormac McCarthy's Library",
-     "link": "https://cormacmccarthy.lib.utk.edu/",
-     "pubDate": "Fri, 30 Oct 2026 00:31:00 +0000",
-     "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 32 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "科马克·麦卡锡图书馆"
     },
     {
      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
@@ -1976,6 +1960,14 @@ window.INDUSTRY_DATA = {
      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
      "source": "TechCrunch",
      "zh": "安迪·贾西 (Andy Jassy) 表示 Prime Video 有望赚取“数百亿美元”"
+    },
+    {
+     "title": "Show HN: I Turned DOOM into a Transformer",
+     "link": "https://github.com/mottopanikeiku/doomformer",
+     "pubDate": "Thu, 29 Oct 2026 23:25:46 +0000",
+     "summary": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual ope",
+     "source": "Hacker News",
+     "zh": "Show HN：我把《DOOM》变成了变形金刚"
     }
    ]
   },
@@ -2234,6 +2226,94 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Business First Bancshares approves new $30M buyback program",
+     "link": "https://seekingalpha.com/news/4661151-business-first-bancshares-approves-new-30m-buyback-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 01:54:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Business First Bancshares 批准新的 3000 万美元回购计划"
+    },
+    {
+     "title": "日本央行认定物价涨幅已达到2%目标 维持政策利率不变",
+     "link": "http://finance.eastmoney.com/news/1351,202610303916218389.html",
+     "pubDate": "Fri, 30 Oct 2026 13:51:08 +0800",
+     "summary": "日本央行30日结束为期两天的货币政策会议，决定维持政策利率在1.25%左右不变，并公布经济与物价形势展望报告。报告认为，日本基础物价涨幅已达到与2%物价稳定目标大致相符的水平。这是日本央行2013年设定2%物价目标以来首次作出这一判断。 日本央行9月将政策利率上调至1.25%，政策利率升至1995年以来最高水平。日本央行表示，将继续观察9月加息对经济和物价的影响，因此此次保持政策利率不变。 报告将2027财年核心消费者物价指数（CPI）涨幅预期上调0.2个百分点至2.6%，同时将2027财年实际国内生产总值（GDP）增长率预期下调0.1个百分点至0.7%。 日本央行于2013年1月设定2%的物",
+     "source": "东方财富股票",
+     "zh": "日本央行认定物价涨幅已达到2%目标 维持政策利率不变"
+    },
+    {
+     "title": "每天烧掉3300亿Token，中国平安三季报说了啥？",
+     "link": "https://wallstreetcn.com/articles/3784838",
+     "pubDate": "Fri, 30 Oct 2026 13:50:17 +0800",
+     "summary": "10月28日，国内头部保险公司中国平安发布2026年第三季度报告。 三季报显示，中国平安经营基本盘保持稳健，剔除投资端波动的公司归母营运利润同比增长8.3%，显示主业依然稳定。 更引人关注的是，在“AI in ALL”战略下，平安的AI应用已深入各个业务场景，日均Token消耗量高达3300亿，在客户服务、医药养老、企业运营等领域AI正在改变公司运维的面貌。 营运利润保持稳健 三季报显示，中国平安整体运营表现平稳。 2026年前三季度，公司实现归母营运利润1259.05亿元，同比增长8.3%。营运利润以净利润为基础，剔除短期投资波动和一次性重大项目，更能反映公司持续经营表现。 同期，公司归母净",
+     "source": "华尔街见闻",
+     "zh": "每天烧掉3300亿Token，中国平安三季报说了啥？"
+    },
+    {
+     "title": "Floor & Decor forecasts fiscal 2026 diluted EPS of $2.19 to $2.29 as it plans 10 to 15 store openings in 2027",
+     "link": "https://seekingalpha.com/news/4661155-floor-and-decor-forecasts-fiscal-2026-diluted-eps-of-2_19-to-2_29-as-it-plans-10-to-15-store?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 01:49:34 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Floor & Decor 预计 2026 财年稀释后每股收益为 2.19 美元至 2.29 美元，因为该公司计划在 2027 年开设 10 至 15 家门店"
+    },
+    {
+     "title": "隆基机械10月30日打开跌停",
+     "link": "http://stock.eastmoney.com/news/1944,202610303916217716.html",
+     "pubDate": "Fri, 30 Oct 2026 13:49:30 +0800",
+     "summary": "以下是 隆基机械 在北京时间10月30日13:49分盘口异动快照： 10月30日13点49分， 隆基机械 盘中打开跌停，现报6.39元，成交1.55亿元，换手率5.64%。该股之前于13点45分跌停。 分笔 13:49:24 6.39 1945↑ 13:49:21 6.38 40↑ 13:49:18 6.38 39↑ 13:49:15 6.38 5↑ 13:49:12 6.38 58↑ 13:49:09 6.38 10↑ 13:49:06 6.38 12↑ 13:49:03 6.38 25↑ 13:49:00 6.38 2↑ 13:48:51 6.38 15↑ 报价 卖五 6.45 77 卖四",
+     "source": "东方财富股票",
+     "zh": "隆基机械10月30日打开跌停"
+    },
+    {
+     "title": "建设工业10月30日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610303916217680.html",
+     "pubDate": "Fri, 30 Oct 2026 13:49:30 +0800",
+     "summary": "以下是 建设工业 在北京时间10月30日13:49分盘口异动快照： 10月30日， 建设工业 盘中涨幅达5%，截至13点49分，报21.16元，成交4.89亿元，换手率2.33%。 分笔 13:49:27 21.16 347↑ 13:49:24 21.12 111↑ 13:49:21 21.10 741↑ 13:49:18 21.08 157↑ 13:49:15 21.07 164↑ 13:49:12 21.06 609↑ 13:49:09 21.05 183↑ 13:49:06 21.04 544↑ 13:49:03 21.04 213↑ 13:49:00 21.02 62↑ 报价 卖五 2",
+     "source": "东方财富股票",
+     "zh": "建设工业10月30日盘中涨幅达5%"
+    },
+    {
+     "title": "Asian stocks fall on US tech sell-off; BoJ holds rate at 31-year high; Australia PPI rises 1.1% Q/Q",
+     "link": "https://seekingalpha.com/news/4661133-asian-stocks-fall-on-us-tech-sell-off-boj-holds-rate-at-31-year-high-australia-ppi-rises-11-qq?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 01:49:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "亚洲股市因美国科技股抛售而下跌；日本央行将利率维持在 31 年来的高位；澳大利亚 PPI 环比上涨 1.1%"
+    },
+    {
+     "title": "日本40年期国债收益率下跌5.5个基点，至3.985%",
+     "link": "http://finance.eastmoney.com/news/1351,202610303916217851.html",
+     "pubDate": "Fri, 30 Oct 2026 13:48:31 +0800",
+     "summary": "日本40年期国债收益率下跌5.5个基点，至3.985%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "日本40年期国债收益率下跌5.5个基点，至3.985%"
+    },
+    {
+     "title": "万事利前三季度营收增长10.44% 人工智能工厂项目持续推进",
+     "link": "http://finance.eastmoney.com/news/1354,202610303916220278.html",
+     "pubDate": "Fri, 30 Oct 2026 13:48:00 +0800",
+     "summary": "上证报中国证券网讯 10月30日， 万事利 披露2026年第三季度报告。前三季度，公司实现营业收入5.73亿元，同比增长10.44%；归属于上市公司股东的净利润1038.43万元，扣除非经常性损益后的净利润246.72万元。截至9月末，公司归属于上市公司股东的所有者权益12.74亿元，较上年末增长0.09%，整体权益规模保持稳定。 从收入端看，公司前三季度营业收入由上年同期5.19亿元提升至5.73亿元，继续保持增长。第三季度公司实现营业收入1.65亿元，同比增长4.33%，单季度收入延续正增长。同期，公司销售商品、提供劳务收到的现金6.34亿元，高于上年同期5.82亿元，经营活动现金流入合计",
+     "source": "东方财富股票",
+     "zh": "万事利前三季度营收增长10.44% 人工智能工厂项目持续推进"
+    },
+    {
+     "title": "中国石化在COP17发布首份全球生物多样性保护报告",
+     "link": "http://finance.eastmoney.com/news/1354,202610303916218461.html",
+     "pubDate": "Fri, 30 Oct 2026 13:47:58 +0800",
+     "summary": "10月29日，《生物多样性公约》第十七次缔约方大会(COP17)中国角主题活动暨闭幕式在亚美尼亚埃里温举行。 中国石化 集团公司董事钟韧应邀出席相关活动，并在闭幕式上致辞； 中国石化 品牌部相关负责人分享 中国石化 生物多样性保护的路径与实践，并在现场面向全球发布首份《中国石化全球生物多样性保护报告》。 钟韧在致辞中表示，中国石化积极践行人与自然和谐共生的生态文明理念，在推动能源国际合作发展的同时，注重开展全球生物多样性保护，为全球能源化工行业贡献了发展和保护协同共生的中国智慧和中国方案。《中国石化全球生物多样性保护报告》积极对接国家和国际生物多样性保护政策标准，系统展现中国石化在生物多样性保",
+     "source": "东方财富股票",
+     "zh": "中国石化在COP17发布首份全球生物多样性保护报告"
+    },
+    {
+     "title": "Blackstone said to weigh $1.9B sale of Tokyo office portion",
+     "link": "https://seekingalpha.com/news/4661153-blackstone-said-to-weigh-19b-sale-of-tokyo-office-portion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 01:47:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "据称 Blackstone 正在考虑出售东京办公楼部分 $1.9B"
+    },
+    {
      "title": "Columbia projects Q4 2026 sales growth of 3.5% to 7% with EPS of $1.85 to $2.10",
      "link": "https://seekingalpha.com/news/4661152-columbia-projects-q4-2026-sales-growth-of-3_5-percent-to-7-percent-with-eps-of-1_85-to-2_10?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 30 Oct 2026 01:39:32 -0400",
@@ -2274,36 +2354,20 @@ window.INDUSTRY_DATA = {
      "zh": "Silvercrest Asset Management 非 GAAP 每股收益为 0.16 美元，超出 0.06 美元，收入为 3,271 万美元，超出 81 万美元"
     },
     {
-     "title": "Cullen/Frost Bankers to move listing to Texas Stock Exchange",
-     "link": "https://seekingalpha.com/news/4661127-cullenfrost-bankers-to-move-listing-to-texas-stock-exchange?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 01:20:26 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "卡伦/弗罗斯特银行家将在德克萨斯证券交易所上市"
+     "title": "两天12家公司公告大股东“不减持” 锁定1700亿元筹码 稳盘效果如何？",
+     "link": "http://stock.eastmoney.com/news/11134,202610303916197835.html",
+     "pubDate": "Fri, 30 Oct 2026 13:22:16 +0800",
+     "summary": "10月28日、29日，据财联社记者的统计，A股已有13家上市公司公告核心股东或董事、高管不减持，使10月以来发布此类公告的公司家数增至20家。作为对比，今年前九个月，公告股东“不减持”公司家数为40家；而去年10月，仅有3家公司公告“不减持”。 具体观察， 这13家公司为清一色的科创板公司 。 其中，由实控人、控股股东或第一大股东承诺不减持的公司有： 第一梯队 ， 百利天恒 (688506.SH)、 中船特气 (688146.SH)、 茂莱光学 (688502.SH)，相关股东承诺不减持股份市值规模约在110亿元至760亿元区间； 第二梯队 ， 天岳先进 (688234.SH)、 华曙高科 (",
+     "source": "东方财富资讯",
+     "zh": "两天12家公司公告大股东“不减持” 锁定1700亿元筹码 稳盘效果如何？"
     },
     {
-     "title": "SPS Commerce expects Q4 2026 revenue of $199.3M-$201.3M while targeting AI monetization in 2027",
-     "link": "https://seekingalpha.com/news/4661148-sps-commerce-expects-q4-2026-revenue-of-199_3m-201_3m-while-targeting-ai-monetization-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 01:19:26 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SPS Commerce 预计 2026 年第四季度收入为 1.993 亿美元至 2.013 亿美元，同时目标是 2027 年人工智能货币化"
-    },
-    {
-     "title": "Australia's Q3 PPI rises 1.1% Q/Q; annual producer inflation holds steady at 3.6%",
-     "link": "https://seekingalpha.com/news/4661134-australia-q3-ppi-rises-11-qq-annual-producer-inflation-holds-steady-at-36?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 01:12:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "澳大利亚第三季度PPI环比上涨1.1%；年度生产者通胀稳定在 3.6%"
-    },
-    {
-     "title": "The RealReal forecasts $71.1M-$72.6M 2026 adjusted EBITDA as it raises full-year outlook",
-     "link": "https://seekingalpha.com/news/4661147-the-realreal-forecasts-71_1m-72_6m-2026-adjusted-ebitda-as-it-raises-full-year-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 01:09:22 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "The RealReal 上调全年预期，预计 2026 年调整后 EBITDA 为 7110 万至 7260 万美元"
+     "title": "SpaceX“神秘大客户”揭晓？Anthropic被曝Q3贡献超三分之一营收！",
+     "link": "http://stock.eastmoney.com/news/11228,202610303916163850.html",
+     "pubDate": "Fri, 30 Oct 2026 13:14:19 +0800",
+     "summary": "据媒体援引知情人士的话报道，随着 人工智能 （AI）计算业务的扩张，Anthropic已成为 SpaceX 最大的客户，第三季度为埃隆·马斯克领导的这家公司贡献了超过三分之一的收入。 据悉， SpaceX 上周在一份监管文件中披露，上个季度约有34.5%的收入来自一家向其AI业务部门“Super Intelligence”（负责提供算力）支付费用的客户。 文件将该客户仅标注为“客户B”，未透露具体是哪家公司。 而根据知情人士的说法，这位神秘客户就是Anthropic公司。 这家 人工智能 开发商已经超越美国政府，成为 SpaceX 最大的收入来源。马斯克正逐步将SpaceX的AI业务打造成所谓",
+     "source": "东方财富资讯",
+     "zh": "SpaceX“神秘大客户”揭晓？Anthropic被曝Q3贡献超三分之一营收！"
     },
     {
      "title": "Why Trump’s tech dreams are quietly crumbling",
@@ -2330,6 +2394,22 @@ window.INDUSTRY_DATA = {
      "zh": "Nscale 350 亿美元 IPO 背后的成败人工智能大型项目"
     },
     {
+     "title": "Anthropic增长放缓？史诗级IPO前夕大空头发难：其刻意不披露Q3数据",
+     "link": "http://stock.eastmoney.com/news/1440,202610303916101876.html",
+     "pubDate": "Fri, 30 Oct 2026 12:56:00 +0800",
+     "summary": "周三，大空头史蒂夫·艾斯曼（Steve Eisman）将矛头直指美国领先AI实验室Anthropic，而眼下正值后者即将上市的关键时刻。 艾斯曼是电影《大空头》的原型人物之一。当时他作为纽伯格伯曼集团（Neuberger Berman）的高级投资组合经理，在全球金融危机爆发前做空次级抵押贷款，一战成名。 艾斯曼周三在一档播客节目中指责Anthropic在其IPO招股说明书刻意不披露第三季度财务数据。他认为，更新的数据可能会暴露这家AI 巨头增长大幅放缓。 艾斯曼质疑，该公司在10月26日提交的招股书中为何只披露了截至6月份的财务数据。有迹象表明，自那以来Anthropic的业务增长势头已经走弱",
+     "source": "东方财富资讯",
+     "zh": "Anthropic增长放缓？史诗级IPO前夕大空头发难：其刻意不披露Q3数据"
+    },
+    {
+     "title": "一图看懂：AI算力竞赛出现变奏？美股四巨头资本投入节奏分化",
+     "link": "http://finance.eastmoney.com/news/1354,202610303916136710.html",
+     "pubDate": "Fri, 30 Oct 2026 12:48:34 +0800",
+     "summary": "（文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "一图看懂：AI算力竞赛出现变奏？美股四巨头资本投入节奏分化"
+    },
+    {
      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
      "pubDate": "Fri, 30 Oct 2026 04:40:17 GMT",
@@ -2344,6 +2424,14 @@ window.INDUSTRY_DATA = {
      "summary": "很多企业已经看见新的价值空间，也开始寻找伙伴、连接资源、开放能力。但合作启动，并不意味着价值共创自然发生。本期《共生课堂》回到共生型组织的重要特征“价值共创”，理解企业如何判断一段合作是否真正进入价值共创。",
      "source": "经济观察网",
      "zh": "陈春花：价值共创，关键是重构价值创造方式"
+    },
+    {
+     "title": "首批主动ETF冲刺收官 5只在售 7只已成立 建仓节奏成下一焦点",
+     "link": "http://stock.eastmoney.com/news/11219,202610303916196760.html",
+     "pubDate": "Fri, 30 Oct 2026 12:29:04 +0800",
+     "summary": "随着多只产品提前结募，主动ETF已陆续迎来新产品成立。 从昨晚（10月29日）到今天上午，已结募的主动ETF中再有4只产品披露成立公告。华泰柏瑞、南方、华夏、平安等旗下的主动ETF在10月29日成立，已成立的主动ETF增至7只。值得留意的是，已成立的产品中，已有主动ETF昨日启动建仓。 而已结募的产品，则增至13只，昨日永赢基金旗下主动ETF也宣布结募。财联社记者了解到，剩余正在募集的5只主动ETF中，有产品预计将在今日结募，也有基金公司昨晚宣布自购。截至目前，首批主动ETF募集规模已超320亿。 随着主动ETF发行的尾声渐近，接下来如何建仓也是市场的关注焦点。财联社记者从业内了解到，主动ET",
+     "source": "东方财富资讯",
+     "zh": "首批主动ETF冲刺收官 5只在售 7只已成立 建仓节奏成下一焦点"
     },
     {
      "title": "币安惊魂夜：40分钟内，63亿美元是如何被转走的？",
@@ -2370,108 +2458,12 @@ window.INDUSTRY_DATA = {
      "zh": "日本央行维持利率不变，因为基本通胀自 2013 年以来首次达到 2% 的目标"
     },
     {
-     "title": "值得买科技前三季度AI收入破亿，向品牌营销和企业模型服务拓展",
-     "link": "https://wallstreetcn.com/articles/3784833",
-     "pubDate": "Fri, 30 Oct 2026 12:12:18 +0800",
-     "summary": "AI相关收入同比增长逾两倍，已成为值得买科技前三季度营收增长的重要支撑。 10月29日，值得买科技发布2026年三季报，前三季度实现营业收入8.28亿元，同比增长2.79%。其中，AI相关业务收入达到1.08亿元，较去年同期的3229.05万元增长约233%，占总营收的比例由4%提升至13%。 按照公司统计口径，AI相关收入包括AI产品、产品中的AI功能及AI生成内容贡献的收入，也包括使用AI工具为客户提供服务产生的收入。这部分收入同时来自原有业务的AI应用和新产品的商业化。 整体盈利仍处于调整阶段。第三季度，公司营收2.09亿元，同比下降6.66%；前三季度归母净亏损5250.58万元，上年",
-     "source": "华尔街见闻",
-     "zh": "值得买科技前三季度AI收入破亿，向品牌营销和企业模型服务拓展"
-    },
-    {
-     "title": "-335亿美元！亚马逊的这个数字，“吓蒙”了市场",
-     "link": "https://wallstreetcn.com/articles/3784831",
-     "pubDate": "Fri, 30 Oct 2026 12:08:47 +0800",
-     "summary": "亚马逊三季度财报用一个极其惨烈的数字回答了华尔街全年的疑问： 单季自由现金流消耗高达335亿美元 。尽管AWS云业务创下近五年最快增速，但失控的资本支出（Capex）、疲软的四季度指引以及暴增的债务，彻底击碎了买方的乐观预期。 亚马逊 最新财报显示， 三季度自由现金流录得-335亿美元，而彭博市场一致预期仅为-77亿美元，实际结果超出预期四倍以上。 单季资本开支飙升至773亿美元，环比增长43%；为填补资金缺口，公司在该季度新增481亿美元长期债务。滚动12个月自由现金流从上季度的-76亿美元急剧恶化至-424亿美元。 与此同时， 四季度业绩指引令市场失望。 营收指引中值为2435亿美元，略低",
-     "source": "华尔街见闻",
-     "zh": "-335亿美元！亚马逊的这个数字，“吓蒙”了市场"
-    },
-    {
-     "title": "科技股抛售引发避险潮，美债收益率10月料创今年最大单月降幅",
-     "link": "https://wallstreetcn.com/articles/3784828",
-     "pubDate": "Fri, 30 Oct 2026 12:03:04 +0800",
-     "summary": "美国科技股遭遇猛烈抛售，避险资金加速涌入美债市场，美国国债收益率持续走低，10月份有望录得今年以来最大单月降幅。 周五亚市早盘，美债涨势进一步扩大，收益率曲线整体下行4—7个基点，延续美国交易时段的跌势。彭博追踪美债回报的指数10月累计上涨约2%，基准10年期美债收益率当月已累计下行近40个基点，有望创下2025年2月以来最大单月涨幅。澳大利亚、日本和新西兰国债同步跟涨，各自基准10年期国债收益率均下跌约5个基点。 Alphabet等科技巨头令人失望的财报强化了市场对人工智能交易前景的疑虑，叠加全球最大加密货币交易所币安疑遭黑客攻击的消息，市场风险规避情绪明显升温。 科技股财报失利，避险情绪主",
-     "source": "华尔街见闻",
-     "zh": "科技股抛售引发避险潮，美债收益率10月料创今年最大单月降幅"
-    },
-    {
-     "title": "见闻历11.11限时大促！双开礼盒+千元知识礼包，双十一拿货价超香！",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Fri, 30 Oct 2026 11:59:16 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11限时大促！双开礼盒+千元知识礼包，双十一拿货价超香！"
-    },
-    {
-     "title": "地球系统数据国际交换节点（上海）启用",
-     "link": "http://www.eeo.com.cn/2026/1030/1079383.shtml",
-     "pubDate": "Fri, 30 Oct 2026 11:57:46 +0800",
-     "summary": "基于中国气象局“1+N”协同服务网络布局，上海节点将承担跨境数据流通、国际气象服务与区域协调支撑等职能，推动我国气象数据“出海”，促进国内与跨境数据双向流通。",
-     "source": "经济观察网",
-     "zh": "地球系统数据国际交换节点（上海）启用"
-    },
-    {
-     "title": "今年前9个月我国进出口食品同比增长4.1%",
-     "link": "http://www.eeo.com.cn/2026/1030/1079376.shtml",
-     "pubDate": "Fri, 30 Oct 2026 11:54:38 +0800",
-     "summary": "今年前9个月，海关监管进出口食品总额1.46万亿元，同比增长4.1%。其中进口1.04万亿元、增长4.7%，出口0.42万亿元、增长2.4%。",
-     "source": "经济观察网",
-     "zh": "今年前9个月我国进出口食品同比增长4.1%"
-    },
-    {
-     "title": "2026中国国际教育展今天在京开幕",
-     "link": "http://www.eeo.com.cn/2026/1030/1079335.shtml",
-     "pubDate": "Fri, 30 Oct 2026 11:36:24 +0800",
-     "summary": "今年，共有19个国家及地区展团。其中，欧洲国家约占55%，亚洲国家占31%，北美及大洋洲等占比为14%。",
-     "source": "经济观察网",
-     "zh": "2026中国国际教育展今天在京开幕"
-    },
-    {
-     "title": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election &apos;stolen&apos;",
-     "link": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
-     "pubDate": "Fri, 30 Oct 2026 03:28:10 GMT",
-     "summary": "Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government.",
-     "source": "CNBC",
-     "zh": "内塔尼亚胡的政党声称选举“被盗”，以色列面临数周的联盟讨价还价"
-    },
-    {
-     "title": "没出险也涨价，新能源车险保费到底怎么算的",
-     "link": "http://www.eeo.com.cn/2026/1030/1079312.shtml",
-     "pubDate": "Fri, 30 Oct 2026 11:25:41 +0800",
-     "summary": "没出险，保费却涨了。新能源车险的定价逻辑正在被重写，违章、用途、同车型赔付表现都成了变量，而“车主喊贵、险企喊亏”的困局仍待破解。",
-     "source": "经济观察网",
-     "zh": "没出险也涨价，新能源车险保费到底怎么算的"
-    },
-    {
-     "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-     "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 03:16:00 GMT",
-     "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
-     "source": "MarketWatch",
-     "zh": "是什么让这座城市获得了“最佳退休之地”的桂冠？你实际上可以负担得起那里的生活。"
-    },
-    {
-     "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-     "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-     "pubDate": "Fri, 30 Oct 2026 00:39:52 GMT",
-     "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
-     "source": "CNBC",
-     "zh": "英特尔股价暴跌 21%，芯片制造商将 PC 放缓归咎于业绩指引疲软"
-    },
-    {
-     "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-     "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 00:15:00 GMT",
-     "summary": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
-     "source": "MarketWatch",
-     "zh": "亚马逊股价下跌——即使面对大胆的新云预测"
-    },
-    {
-     "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
-     "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 00:14:00 GMT",
-     "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
-     "source": "MarketWatch",
-     "zh": "星巴克的扭亏为盈正在酝酿之中——但对投资者来说可能还不够快"
+     "title": "逆势拉升！银行压舱石作用凸显 4股再创历史新高",
+     "link": "http://finance.eastmoney.com/news/11139,202610303916095033.html",
+     "pubDate": "Fri, 30 Oct 2026 12:16:05 +0800",
+     "summary": "10月30日早盘，A股三大指数延续调整， 银行 板块低开高走逆势拉升， 工商银行 、 建设银行 、 交通银行 、 江苏银行 盘中均创 历史新高 。截至早间收盘，板块微跌0.02%，表现居行业板块前列。个股方面， 西安银行 涨近7%， 青农商行 涨超4%， 苏州银行 涨超1%， 江阴银行 、 苏农银行 等涨近1%。 银行 压舱石作用凸显 在上证指数编制新规实施的背景下， 银行 股作为市场“压舱石”的角色进一步凸显。据中证指数有限公司官网10月29日数据， 长鑫科技 权重为4.64%，为第一大 权重股 ；紧随其后的是 农业银行 、 工商银行 。在前十大 权重股 中，银行股占据重要位置。 据上证报，",
+     "source": "东方财富资讯",
+     "zh": "逆势拉升！银行压舱石作用凸显 4股再创历史新高"
     }
    ]
   },
@@ -2623,7 +2615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 04:10:47 EDT",
      "summary": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into the last ice age and could reshape our understanding of how glaciers survive dram",
      "source": "ScienceDaily",
-     "zh": "西藏128,000年历史的冰可能改写气候历史"
+     "zh": "西藏128,000年前的冰可能改写气候历史"
     },
     {
      "title": "New system gives users more control over their online experience",
@@ -2671,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 16:04:18 +0000",
      "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "蜘蛛如何将“丝液”纺成自然界最坚硬的材料"
+     "zh": "蜘蛛如何将“丝原液”纺成自然界最坚硬的材料"
     },
     {
      "title": "Three-quarters of NFL football players may end up with CTE",

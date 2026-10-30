@@ -1,67 +1,51 @@
 {
-  "generatedAt": "2026-10-30T18:48:34.956Z",
+  "generatedAt": "2026-10-30T20:53:50.777Z",
   "count": 40,
   "items": [
     {
-      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 18:30:00 GMT",
-      "content": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+      "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+      "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 20:48:00 GMT",
+      "content": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
       "source": "US",
-      "category": "全球综合"
+      "category": "半导体"
+    },
+    {
+      "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 20:42:00 GMT",
+      "content": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
+      "source": "US",
+      "category": "美股市场"
     },
     {
       "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
       "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 18:09:00 GMT",
+      "pubDate": "Fri, 30 Oct 2026 20:29:00 GMT",
       "content": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
       "source": "US",
       "category": "黄金白银"
     },
     {
-      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 18:00:00 GMT",
-      "content": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+      "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+      "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 20:28:00 GMT",
+      "content": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
       "source": "US",
-      "category": "全球综合"
+      "category": "半导体"
     },
     {
-      "title": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
-      "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 17:44:00 GMT",
-      "content": "Worker compensation grows slower than inflation for second straight quarter",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "You can expect the stock market to rally no matter who wins on Election Day",
-      "link": "https://www.marketwatch.com/story/you-can-expect-the-stock-market-to-rally-no-matter-who-wins-on-election-day-d4a3c282?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 17:32:00 GMT",
-      "content": "Also in Weekend Reads: Dividend stocks, a way to jump on the Anthropic bandwagon ahead of its IPO, and advice from The Moneyist.",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
-      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 17:21:00 GMT",
-      "content": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "The big winners of the tech wreck are biopharma stocks",
-      "link": "https://www.marketwatch.com/story/the-big-winners-of-the-tech-wreck-are-biopharma-stocks-2ac4d175?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 17:13:00 GMT",
-      "content": "The shares of large drugmakers like Lilly, Gilead and J&J keep hitting record highs.",
+      "title": "The selloff in tech stocks is shifting into overdrive",
+      "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 20:26:00 GMT",
+      "content": "Technology stocks had been priced for perfection. They are now getting hammered.",
       "source": "US",
       "category": "美股市场"
     },
     {
       "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
       "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 16:45:00 GMT",
+      "pubDate": "Fri, 30 Oct 2026 20:23:00 GMT",
       "content": "“A cheaper stock does not necessarily offer better value,” one expert says.",
       "source": "US",
       "category": "美股市场"
@@ -69,18 +53,34 @@
     {
       "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
       "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 16:20:00 GMT",
+      "pubDate": "Fri, 30 Oct 2026 20:23:00 GMT",
       "content": "Teachers, nurses and other borrowers have waited years for approval to complete their payment obligation and access debt relief, the suit claims.",
       "source": "US",
       "category": "全球综合"
     },
     {
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 16:00:00 GMT",
-      "content": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 19:45:00 GMT",
+      "content": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
       "source": "US",
       "category": "全球综合"
+    },
+    {
+      "title": "The Fed held interest rates steady, but these officials see more hikes coming soon",
+      "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 19:44:00 GMT",
+      "content": "Dallas Fed’s Lorie Logan sees “at least” 50 basis points in additional hikes.",
+      "source": "FED",
+      "category": "美联储"
+    },
+    {
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 19:39:00 GMT",
+      "content": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+      "source": "US",
+      "category": "美股市场"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

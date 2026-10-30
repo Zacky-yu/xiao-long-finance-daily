@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/30 15:29:45",
+ "generated_at": "2026/10/30 15:49:52",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Chip Industry Week In Review",
+     "link": "https://semiengineering.com/chip-industry-week-in-review-162/",
+     "pubDate": "Fri, 30 Oct 2026 07:01:27 +0000",
+     "summary": "HBM shortages threaten AI expansion; TSMC weighs price hikes; advanced packaging ramps; domain-specialized AI models; Infineon and UMC boost fab investments; Intel's quantum move; Lam and imec advance 3D integration; Google expands TPUs; AI-driven earnings; CPU benchmarking methodology for agentic A",
+     "source": "Semiconductor Engineering",
+     "zh": "芯片行业周回顾"
+    },
+    {
      "title": "Nvidia secures substrate capacity as FCBGA market targets US$27.3 billion by 2030",
      "link": "https://www.digitimes.com/news/a20261030PD226/nvidia-fc-bga-substrate-capacity-2030.html",
      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Applying the appropriate level of simulation and abstraction at each stage of the design process is key to effective thermal analysis. The post Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "这里变热了吗？为什么热不再是签核问题"
-    },
-    {
-     "title": "Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA",
-     "link": "https://semiengineering.com/physics-based-validation-the-foundation-of-trustworthy-agentic-eda/",
-     "pubDate": "Thu, 29 Oct 2026 07:07:05 +0000",
-     "summary": "What self-verifying agents validate their decisions against and why physics-based engines are the authority on correctness. The post Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "基于物理的验证：值得信赖的代理 EDA 的基础"
     }
    ]
   },
@@ -610,14 +610,6 @@ window.INDUSTRY_DATA = {
      "zh": "参加 RoboCup@Home 并获得 2026 年最佳论文奖：Raphael Memmesheimer 专访"
     },
     {
-     "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-     "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-     "pubDate": "Tue, 27 Oct 2026 16:14:39 +0000",
-     "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
-     "source": "IEEE Spectrum 机器人",
-     "zh": "您的机器人的安全功能已经发挥作用。如果输入说谎怎么办？"
-    },
-    {
      "title": "Robots in Society, Business and Culture: September 2026",
      "link": "https://robohub.org/robots-in-society-business-and-culture-september-2026/",
      "pubDate": "Mon, 26 Oct 2026 10:17:34 +0000",
@@ -649,6 +641,14 @@ window.INDUSTRY_DATA = {
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "Rivian's Amazon Van Got A Big Upgrade To Cover More Routes",
+     "link": "https://insideevs.com/news/813820/rivian-electric-van-amazon-edv-battery-motor-upgrade/",
+     "pubDate": "Fri, 30 Oct 2026 07:47:06 +0000",
+     "summary": "The lovable electric delivery van is now shipping with a longer-range battery, as well as an all-wheel-drive version with 710 hp.",
+     "source": "InsideEVs",
+     "zh": "Rivian 的亚马逊货车进行了重大升级以覆盖更多路线"
+    },
     {
      "title": "GAC's battery unit Inpow starts production at Thailand plant, its first overseas pack facility",
      "link": "https://cnevpost.com/2026/10/30/gac-inpow-starts-production-thailand-plant/",
@@ -786,14 +786,6 @@ window.INDUSTRY_DATA = {
      "zh": "EcoFlow 3,072Wh 发电站闪购 1,299 美元，独家翻新 Anker SOLIX 优惠，Segway F3 电动滑板车低至 650 美元，更多"
     },
     {
-     "title": "Driving The Cheapest Lucid Air For 40,000 Miles Came With A Few Surprises",
-     "link": "https://insideevs.com/news/813727/lucid-air-pure-ownership-review-video/",
-     "pubDate": "Thu, 29 Oct 2026 13:46:31 +0000",
-     "summary": "The most affordable Lucid doesn’t feel cheap, and it delivers all of the basics that the more expensive trims are known for.",
-     "source": "InsideEVs",
-     "zh": "驾驶最便宜的 Lucid Air 行驶 40,000 英里，带来一些惊喜"
-    },
-    {
      "title": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
      "link": "https://cnevpost.com/2026/10/29/xpeng-launches-mona-l05/",
      "pubDate": "Thu, 29 Oct 2026 13:03:01 +0000",
@@ -841,6 +833,30 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "French solar car park rollout falls short of legal deadline",
+     "link": "https://www.pv-magazine.com/2026/10/30/french-solar-car-park-rollout-falls-short-of-legal-deadline/",
+     "pubDate": "Fri, 30 Oct 2026 07:30:00 +0000",
+     "summary": "Three months after the deadline set by France’s APER law, 85% of large supermarket car parks still have no visible photovoltaic (PV) canopies, according to the first national survey by Parksun. Solarizing half of the car park area covered by the study could deliver an estimated 7 TWh of electricity ",
+     "source": "pv magazine",
+     "zh": "法国太阳能停车场的推出未能达到法定期限"
+    },
+    {
+     "title": "Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Fresh-Strikes-on-Saudi-Oil-Refineries-and-Aramco-Facilities.html",
+     "pubDate": "Fri, 30 Oct 2026 02:30:00 -0500",
+     "summary": "The Yemeni Houthis claimed a fresh series of attacks on Saudi targets, including oil infrastructure: two refineries and a facility at the Abqaiq oil field. The Houthis struck the Ras Tanura refinery and the Rabigh refinery, the Houthis’ spokesperson Yahya Saree said in a post on X, plus “the Aramco ",
+     "source": "OilPrice",
+     "zh": "胡塞武装声称对沙特炼油厂和阿美石油公司设施发动新一轮袭击"
+    },
+    {
+     "title": "Here's how much Trump's Iran war has added to Americans' fuel costs",
+     "link": "https://www.canarymedia.com/articles/fossil-fuels/trump-iran-war-american-fuel-costs",
+     "pubDate": "Fri, 30 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Donald Trump ran for his second term promising to “make America affordable again.” Two years later, the president’s war with Iran has his constituents paying through the nose for gasoline and diesel. In fact, per-person fuel costs have risen",
+     "source": "Canary Media",
+     "zh": "以下是特朗普的伊朗战争增加了美国人的燃料成本"
+    },
     {
      "title": "Oil Prices Head for Fourth Monthly Gain as Middle East Tensions Escalate",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Fourth-Monthly-Gain-as-Middle-East-Tensions-Escalate.html",
@@ -970,14 +986,6 @@ window.INDUSTRY_DATA = {
      "zh": "特朗普的俄罗斯柴油机是一个合法的烫手山芋，保险丝有效期为五年"
     },
     {
-     "title": "World's First Permanent Nuclear Waste Site Wins License in Finland",
-     "link": "https://oilprice.com/Energy/Energy-General/Worlds-First-Permanent-Nuclear-Waste-Site-Wins-License-in-Finland.html",
-     "pubDate": "Thu, 29 Oct 2026 15:00:00 -0500",
-     "summary": "The world’s very first permanent nuclear waste repository just got one major step closer to opening its doors for business. Posiva, the waste management company responsible for the project located in Eurajoki, Finland, just received its operating license for the Onkalo facility from the country’s go",
-     "source": "OilPrice",
-     "zh": "世界上第一个永久核废料处理场在芬兰获得许可"
-    },
-    {
      "title": "GE Vernova in $9B deal to buy high-voltage manufacturer as gas turbine orders slow",
      "link": "https://www.utilitydive.com/news/ge-vernova-in-9b-deal-to-buy-high-voltage-manufacturer-as-gas-turbine-orde/873223/",
      "pubDate": "Thu, 29 Oct 2026 13:40:22 -0400",
@@ -1064,22 +1072,6 @@ window.INDUSTRY_DATA = {
      "summary": "US Customs and Border Protection (CBP) has released shipments of Toyo’s Ethiopian-made solar cells, while a separate US Department of Commerce inquiry into whether cells from Ethiopia circumvent duties on Chinese solar products continues. The post US customs frees detained Ethiopian solar cells as d",
      "source": "pv magazine",
      "zh": "随着关税调查的继续，美国海关释放了被扣押的埃塞俄比亚太阳能电池"
-    },
-    {
-     "title": "California Energy Commission releases US$46 million for DERS supporting grid reliability",
-     "link": "https://www.energy-storage.news/california-energy-commission-releases-us46-million-for-ders-supporting-grid-reliability/",
-     "pubDate": "Thu, 29 Oct 2026 13:27:47 +0000",
-     "summary": "The California Energy Commission (CEC) has released over US$46 million for the state’s Distributed Electricity Backup Assets (DEBA) Programme.",
-     "source": "Energy Storage News",
-     "zh": "加州能源委员会拨款 4600 万美元用于 DERS，支持电网可靠性"
-    },
-    {
-     "title": "Chinese-linked solar developer loses appeal over Texas grid interconnection",
-     "link": "https://www.utilitydive.com/news/chinese-linked-solar-developer-loses-appeal-to-connect-to-texas-grid/873178/",
-     "pubDate": "Thu, 29 Oct 2026 09:21:29 -0400",
-     "summary": "The U.S. Court of Appeals for the 5th Circuit&nbsp;said Texas has a &ldquo;free lane&rdquo; to enforce restrictions on foreign-owned companies&rsquo;&nbsp;access to the state&rsquo;s electric grid in a ruling that could have implications for other states and market participants.",
-     "source": "Utility Dive",
-     "zh": "中资太阳能开发商因德克萨斯州电网互联而失去上诉"
     }
    ]
   },
@@ -1538,6 +1530,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+     "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+     "pubDate": "Fri, 30 Oct 2026 12:57:05 +0530",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - A",
+     "source": "The Hacker News",
+     "zh": "CISA 在 KEV 中添加了经常被利用的 GitLab RCE 和思科防火墙 DoS 缺陷"
+    },
+    {
      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
      "pubDate": "Fri, 30 Oct 2026 09:44:59 +0530",
@@ -1706,14 +1706,6 @@ window.INDUSTRY_DATA = {
      "zh": "BAE 表示在破产法庭事件中未提取任何数据"
     },
     {
-     "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-     "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-     "pubDate": "Thu, 29 Oct 2026 17:09:41 +0530",
-     "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes",
-     "source": "The Hacker News",
-     "zh": "网络研讨会：如何将人工智能威胁准备纳入您的安全运营"
-    },
-    {
      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
      "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
      "pubDate": "Thu, 29 Oct 2026 10:00:00 GMT",
@@ -1738,12 +1730,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "JBL Wave Beam 3 耳机发售：8mm 动圈、40 小时续航，443 元",
-     "link": "https://www.ithome.com/1/020/142.htm",
-     "pubDate": "Fri, 30 Oct 2026 07:28:39 GMT",
-     "summary": "IT之家 10 月 30 日消息，JBL 旗下 Wave Beam 3 现已在京东发售，该产品配备 8mm 动圈， 定价为 443 元 ，部分地区国补后低至 398 元。 京东 JBLWave Beam3 443 元 直达链接 该耳机本体具备 IP54 级别的防水防尘，提供熔岩黑、珍珠白、清新绿、活力橙、青黛紫和晴空蓝六种配色。机身采用圆润磨砂质感处理，充电盒配有便携挂绳孔设计，整体重量为 39.1g。 该耳机内置 8mm 定制调校动圈单元，支持主动降噪功能与智能环境声切换，配备 4Mic 麦克风系统。耳机搭载了蓝牙 6.0 技术，支持 LE Audio 及 Auracast™ 广播音频接收，",
+     "title": "曝印度 AI 企业 AM Intelligence 寻求 30 亿美元融资，用于订购英伟达芯片",
+     "link": "https://www.ithome.com/1/020/152.htm",
+     "pubDate": "Fri, 30 Oct 2026 07:48:13 GMT",
+     "summary": "IT之家 10 月 30 日消息，今天（30 日）上午，据彭博社援引知情人士消息称，印度 AI 基础设施企业 AM Intelligence 计划融资 最多 30 亿美元 （IT之家注：现汇率约合 200.31 亿元人民币） ，用于购买此前宣布采购的英伟达下一代芯片。AI 热潮带动的企业举债规模持续扩大。 AM Intelligence 由印度可再生能源企业 Greenko 集团的创始人创办。知情人士透露，公司考虑通过发行债券、银行贷款等方式筹资。 各种融资方式的占比尚未确定，公司还预计从潜在客户 获得 3 亿美元 （现汇率约合 20.03 亿元人民币） 预付款 。据悉，融资谈判仍处于初期阶段",
      "source": "IT之家",
-     "zh": "JBL Wave Beam 3 耳机发售：8mm 动圈、40 小时续航，443 元"
+     "zh": "曝印度 AI 企业 AM Intelligence 寻求 30 亿美元融资，用于订购英伟达芯片"
+    },
+    {
+     "title": "月烧1.5万亿token，年烧1.32亿美元？Cursor 工程师的账单，凡人只能仰望",
+     "link": "https://www.huxiu.com/article/4901700.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 15:44:39 +0800",
+     "summary": "本文来自微信公众号： InfoQ ，作者：Tina，原文标题：《月烧 1.5 万亿 token，年烧 1.32 亿美元？Cursor 工程师的账单，凡人只能仰望》 10月21日，OpenClaw创始人Peter Steinberger在Cloudflare Connect的台上估算，自己上个月用于AI工作的token成本约为1000万美元。听众发出惊呼，他补了一句：“并非所有消耗都有用。” 几周前，另一位Peter——Peter Piekarczyk——也算出了一笔让人咋舌的账。他看到Lauren Tan的Cursor个人主页显示，过去30天用了1.5万亿token，于是在X上写道：“按每百万",
+     "source": "虎嗅",
+     "zh": "月烧1.5万亿token，年烧1.32亿美元？Cursor 工程师的账单，凡人只能仰望"
+    },
+    {
+     "title": "联发科 2026 财年第三财季归母净利润 282 亿新台币",
+     "link": "https://www.ithome.com/1/020/151.htm",
+     "pubDate": "Fri, 30 Oct 2026 07:44:22 GMT",
+     "summary": "IT之家 10 月 30 日消息，联发科今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：1680.57 亿新台币 （IT之家注：现汇率约合 345.69 亿元人民币） ，同比增长 18.27%，环比增长 10.43% 毛利润 ：778.5 亿新台币 （现汇率约合 160.14 亿元人民币） 毛利率 ：46.32% 归母净利润 ：282 亿新台币 （现汇率约合 58.01 亿元人民币） 基本每股收益 ：17.5 新台币 （现汇率约合 3.6 元人民币） AI 解读 联发科 2026 年第三季度合并",
+     "source": "IT之家",
+     "zh": "联发科 2026 财年第三财季归母净利润 282 亿新台币"
+    },
+    {
+     "title": "小米 REDMI 回应 K100 选用骁龙 8 至尊版：的确非最新平台，但三方测试部分游戏表现不输“8EE6”",
+     "link": "https://www.ithome.com/1/020/150.htm",
+     "pubDate": "Fri, 30 Oct 2026 07:43:28 GMT",
+     "summary": "IT之家 10 月 30 日消息，小米 REDMI 红米手机官方微博今日发布了“K100 答网友问”专栏文章，针对 K100 为什么用骁龙 8 至尊版、REDMI Clip Neo 为什么是双 MIC 设计等问题进行了解答。 ▲ IT之家开箱：小米 REDMI K100 黑色版图赏 IT之家附小米 REDMI 红米手机本期答网友问重点内容如下： K100 为什么用骁龙 8 至尊版？这不是两年前发的芯片吗？ 正所谓「XXX 老了还是 XXX」， 骁龙 8 至尊版的确不是当代最新平台，但它依然是同档领先的性能基座 。 对于大多数用户而言，骁龙 8 至尊版在全新小米澎湃 OS 4 加持下日常使用流畅",
+     "source": "IT之家",
+     "zh": "小米 REDMI 回应 K100 选用骁龙 8 至尊版：的确非最新平台，但三方测试部分游戏表现不输“8EE6”"
+    },
+    {
+     "title": "熊猫推出“F32U4”31.5 英寸显示器：4K 120Hz、双扬声器，1249 元",
+     "link": "https://www.ithome.com/1/020/148.htm",
+     "pubDate": "Fri, 30 Oct 2026 07:39:23 GMT",
+     "summary": "IT之家 10 月 30 日消息，熊猫现已在京东上架“F32U4”31.5 英寸显示器，该机主打 4K 120Hz， 定价为 1249 元 ，部分地区国补后低至 1124 元。 京东 熊猫“F32U4”显示器 1249 元 点此访问 该机配备一块 3840x2160 分辨率 120Hz 面板，对比度 1000:1，显示器响应速度 1ms，支持 8-Bit 色彩，覆盖 138% sRGB 色域容积和 102% DCI-P3 色域容积。 该机支架支持升降 / 倾斜 / 旋转，显示器本体内置双扬声器，支持 VESA 100x100mm 壁挂，提供 2 个 HDMI 2.0、2 个 DP 1.4、1 ",
+     "source": "IT之家",
+     "zh": "熊猫推出“F32U4”31.5 英寸显示器：4K 120Hz、双扬声器，1249 元"
+    },
+    {
+     "title": "围猎“嘉豪”：一场对个性表达的东亚式审判",
+     "link": "https://www.huxiu.com/article/4901698.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 15:37:28 +0800",
+     "summary": "本文来自微信公众号： 沙丘研究所 ，作者：陈飞樾，原文标题：《围猎「嘉豪」：一场对个性表达的东亚式审判》 简要释义： 由人名转化而来的网络称呼，用于调侃那些试图展示个性、才华或品位，却被旁观者认为刻意或用力过猛的人。 “嘉豪”的涌现和流行其实并不依赖于一个真的叫“嘉豪”的人。2024年，一位高中生穿黑色卫衣、戴口罩，在教室里模仿电音制作人Alan Walker进行“虚空打碟”。因为错加的标签（#），网友把他称作“隔壁班家豪”。此后，这个称呼演变为“嘉豪”，并逐渐扩展到校园之外的各种场景。 从“他是嘉豪”到“他很嘉豪”，一个用来识别个人的名字，变成了评价他人表现的标签。这个词压缩了一种判断：你希",
+     "source": "虎嗅",
+     "zh": "围猎“嘉豪”：一场对个性表达的东亚式审判"
+    },
+    {
+     "title": "横店，投了梁文锋",
+     "link": "https://www.huxiu.com/article/4901697.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 15:37:24 +0800",
+     "summary": "本文来自微信公众号： 投资界 ，作者：冯雨晨 隐秘面孔。 报道/投资界PEdaily 过去10年，中国科技圈有两笔1000亿级别的融资：一笔是蚂蚁金服的Pre IPO轮，另一笔则是眼下DeepSeek的第二轮。 同样的炙手可热，各路人马前赴后继。在DeepSeek身后，已站着一众经梁文锋严格筛选过的资方，几乎集结当下市场全部有头有脸的人物。凭借估值逾5000亿元的DeepSeek，梁文锋新进2026胡润百富榜前十。 不由得想到那个不愿上排行榜的浙江隐秘富豪，这次他身后的资本也出现在DeepSeek融资里——横店资本，隶属于年收入超950亿的横店集团，旗下掌控着6家上市公司。或是有意为之，创始人",
+     "source": "虎嗅",
+     "zh": "横店，投了梁文锋"
+    },
+    {
+     "title": "ID-COOLING 推出双塔风冷 SE-206-XT SLK：6 热管直触，一厚一薄风扇",
+     "link": "https://www.ithome.com/1/020/144.htm",
+     "pubDate": "Fri, 30 Oct 2026 07:33:48 GMT",
+     "summary": "IT之家 10 月 30 日消息，ID-COOLING（酷凛）近日在其官网上线了 SE-206-XT SLK 处理器风冷散热器。该型号三维 123×110×156 (mm)，总质量 870g。 SE-206-XT SLK 采用双塔结构，配备 6 根 6mm 热管，底部为 3+3 并管直触，同时热管倾斜以避让内存模组。 其配备 2 颗 HDB 液压轴承风扇。 前置的是 15mm 薄扇 AM-120 SLIM V2 ，最大转速 2500 RPM、最大风量 59.6 CFM、最大静压 2.7 mmAq、最大噪声 31.0 dB(A)； 中置标准厚度的 XF-125 ，最大转速 2500 RPM、最大",
+     "source": "IT之家",
+     "zh": "ID-COOLING 推出双塔风冷 SE-206-XT SLK：6 热管直触，一厚一薄风扇"
+    },
+    {
+     "title": "曝 OPPO 旗下 6.35 英寸阔直板明年首款新机属高端旗舰线，后续考虑下放轻薄拍照机",
+     "link": "https://www.ithome.com/1/020/143.htm",
+     "pubDate": "Fri, 30 Oct 2026 07:33:44 GMT",
+     "summary": "IT之家 10 月 30 日消息，博主 @数码闲聊站 刚刚发文透露，某厂 6.35 英寸阔直板产品线， 明年首款新机属于高端旗舰线 ，后续考虑下放轻薄拍照机。根据评论区讨论及博主的暗示符号来看， 该厂指代的是 OPPO 。 据IT之家此前报道，该博主还曾透露，OPPO 阔直板手机是标准 16:9 比例，工程机测试天玑旗舰芯、3D 超声波指纹，屏幕分辨率为 2560*1440p， 采用 LIPO 极窄四等边设计 ，目测边框 1mm±，看标准视频会铺满整块屏幕，机身宽度大概是 81mm。 他表示，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上。他表示，剩下几家",
+     "source": "IT之家",
+     "zh": "曝 OPPO 旗下 6.35 英寸阔直板明年首款新机属高端旗舰线，后续考虑下放轻薄拍照机"
+    },
+    {
+     "title": "Anthropic巨亏背后，藏着行业什么秘密？",
+     "link": "https://www.huxiu.com/article/4901084.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 15:30:00 +0800",
+     "summary": "807亿美元。这是Anthropic招股书上的半年净亏损。但如果你只记住这个数字，就正好掉进了财务报表的第一个陷阱。因为807亿美元里面，有724亿美元，是非现金的会计费用。 什么意思？Anthropic这几年估值涨得太猛，早期发给投资人的可转换票据跟着升值，会计准则要求把这部分&ldquo;升值&rdquo;记成亏损。 也就是说，钱一分没少，只是账面上&ldquo;看起来亏了&rdquo;。把这一层会计面纱掀掉，真实情况是什么？",
+     "source": "虎嗅",
+     "zh": "Anthropic巨亏背后，藏着行业什么秘密？"
     },
     {
      "title": "一份报告、两个第一，阿里云和火山引擎在争什么？",
@@ -1754,49 +1818,9 @@ window.INDUSTRY_DATA = {
      "zh": "一份报告、两个第一，阿里云和火山引擎在争什么？"
     },
     {
-     "title": "【IT之家开箱】红魔 12 Pro+ 图赏：水冷 RGB 配真全面屏，设计大胆又前卫",
-     "link": "https://www.ithome.com/1/020/141.htm",
-     "pubDate": "Fri, 30 Oct 2026 07:27:01 GMT",
-     "summary": "要说机圈里哪家产品的设计最特立独行，努比亚旗下的红魔手机绝对是其中之一。从坚持正面屏下摄像头的真全面屏，到背部的 RGB 灯效，再到看得见的水冷系统，每一个单拎出来都有足够的辨识度。 10 月 15 日，最新款红魔 12 Pro+ 手机正式发布，IT之家已经拿到这款新品，接下来就给大家带来开箱图赏。 红魔 12 Pro+ 手机一共有三款配色，分别是氘锋透明暗夜、氘锋透明银翼、氘锋透明冰蓝，暗夜和银翼算是这两年红魔系列的经典配色了，而IT之家拿到的是更加特别的「氘锋透明冰蓝」配色。 蓝色搭配透明机身，四四方方的直角线条，既清新又硬核。在背部核心区域的设计上，经典的水冷 RGB 圆环依旧保留，内部",
-     "source": "IT之家",
-     "zh": "【IT之家开箱】红魔 12 Pro+ 图赏：水冷 RGB 配真全面屏，设计大胆又前卫"
-    },
-    {
-     "title": "张雪自曝拉黑母亲微信，怒斥机构把自己家人当作流量入口",
-     "link": "https://www.ithome.com/1/020/138.htm",
-     "pubDate": "Fri, 30 Oct 2026 07:25:37 GMT",
-     "summary": "IT之家 10 月 30 日消息，张雪今日发布视频称，称刷到一个机构“又把我妈拉出来，拍了一些视频”，认为对方是在把握“流量入口”。他表示，“ 其实这些机构我都很鄙视 ，而且我已经把我妈拉黑了。” 张雪在视频中解释，夺冠后母亲曾接受采访，他要求母亲不要继续做这类事情，母亲同意后又多次参与。张雪表示，“同意了以后她还要去做，然后我又警告了她一次，她还要去做，她又面上答应我不做了，她又去做，然后我就把她拉黑了。” IT之家查询获悉，张雪机车创始人张雪在 2006 年至 2012 年曾任重庆新感觉越野车队特技车手兼机械师、浙江阿波罗越野厂产品负责人等职位，随后于 2013-2016 年加盟黄河摩托车",
-     "source": "IT之家",
-     "zh": "张雪自曝拉黑母亲微信，怒斥机构把自己家人当作流量入口"
-    },
-    {
-     "title": "前特斯拉 Autopilot 负责人抨击纯视觉方案：无视物理规律的技术执念",
-     "link": "https://www.ithome.com/1/020/137.htm",
-     "pubDate": "Fri, 30 Oct 2026 07:24:54 GMT",
-     "summary": "IT之家 10 月 30 日消息，通用汽车首席产品官斯特林 · 安德森（Sterling Anderson）曾在 2015、2016 年负责特斯拉 Autopilot 项目，他认为，舍弃雷达、只依靠摄像头的自动驾驶方案，是“一种无视物理规律的奇怪执念”。 IT之家注意到，作为初代 Autopilot 的核心搭建者之一，这是迄今为止他对特斯拉纯视觉路线最直白的批评。这番言论发表之际，特斯拉正把采用纯视觉方案的 Cybercab 投入奥斯汀的无人驾驶出租车运营。 安德森在 10 月 27 日《The Verge》的采访中发表了上述观点，此前一周通用汽车刚在纽约举办了技术发布会。当被问及通用未来是否",
-     "source": "IT之家",
-     "zh": "前特斯拉 Autopilot 负责人抨击纯视觉方案：无视物理规律的技术执念"
-    },
-    {
-     "title": "全球首款内置磁吸 USB-C 接口：微软调整 0.7 毫米磁铁位置，让 Surface 充电实现“自动泊车”",
-     "link": "https://www.ithome.com/1/020/136.htm",
-     "pubDate": "Fri, 30 Oct 2026 07:21:28 GMT",
-     "summary": "IT之家 10 月 30 日消息，微软 Windows + Devices 设计与研发负责人马库斯 · 阿什（Marcus Ash）今天（10 月 30 日）在 X 平台发布推文， 分享了关于全球首款内置磁吸式 USB-C 接口更多研发细节。 IT之家曾于 10 月 8 日报道，微软 Surface 设备首席设计师 Jit Hirani 表示：“在 Surface Laptop Ultra 开发过程中，我们的工程团队迭代了大约 300 次，从而打造出世界上首款内置磁吸式 USB-C 接口的产品。从产品设计之初，我们唯一的限制就是不能更改通用的 USB-C 接口。” 在最新推文中，Ash 介绍了",
-     "source": "IT之家",
-     "zh": "全球首款内置磁吸 USB-C 接口：微软调整 0.7 毫米磁铁位置，让 Surface 充电实现“自动泊车”"
-    },
-    {
-     "title": "为征服巴哈越野赛而生，本田打造 1300 匹马力双涡轮 V6 引擎 Passport 赛车",
-     "link": "https://www.ithome.com/1/020/135.htm",
-     "pubDate": "Fri, 30 Oct 2026 07:20:41 GMT",
-     "summary": "IT之家 10 月 30 日消息，本田在赛车运动领域的下一个目标，是沙漠越野赛中最负盛名的赛事之一：巴哈 1000。 本田曾在巴哈 1000 的多个组别夺冠，但始终未能征服顶级的奖杯 —— 卡车组，因为本田一直缺少符合这一组别要求的赛车。 为此，本田打造了 Passport Baja Spec，凭借 超过 1300 马力的动力和强大的四驱系统 ，向巴哈 1000 总冠军发起冲击。 Passport Baja Spec 采用来自顶级奖杯卡车底盘制造商 Mason Motorsports 的第二代底盘，前轮跳动行程达到 635mm，后轮更达到 813mm，旨在应对极端越野路况。 除了超长的悬架行程",
-     "source": "IT之家",
-     "zh": "为征服巴哈越野赛而生，本田打造 1300 匹马力双涡轮 V6 引擎 Passport 赛车"
-    },
-    {
      "title": "“融资不过亿都不好意思说”",
      "link": "https://www.huxiu.com/article/4901687.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 15:00:42 +0800",
+     "pubDate": "Fri, 30 Oct 2026 15:00:43 +0800",
      "summary": "本文来自微信公众号： 投中网 ，作者：王满华 “最大天使”的纪录不断被刷新。 本文字数3088 手搓量丨98%AI含量丨2% 过去一段时间，因为做首发融资的关系，密集接触了不少项目，其中给我最直观的冲击，就是早期项目的“天花板”越来越高。 以天使轮为例，几年前企业融天使轮，金额几十万到几百万是常态，偏硬科技的项目能拿到数千万已经算是“大天使轮”了。如今，热门赛道里背景不错的团队，天使轮基本以亿级起步，顶级团队甚至能拿到10亿以上，“最大天使”的纪录不断被刷新。 仅过去三个月，就有3家超10亿级的天使轮次诞生： 7月，由原华为“天才少年”黄青虬联合创立的墨奇智能，宣布完成总额超10亿元的天使轮系",
      "source": "虎嗅",
      "zh": "“融资不过亿都不好意思说”"
@@ -1810,44 +1834,12 @@ window.INDUSTRY_DATA = {
      "zh": "Wasmer (YC S19) 正在欧洲招聘操作系统/虚拟机管理程序专家"
     },
     {
-     "title": "2027年大限来了 一大批速成车要回炉补课",
-     "link": "https://www.huxiu.com/article/4901093.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 14:59:00 +0800",
-     "summary": "造车周期从4年压到18个月，验证环节大缩水，电脑仿真代替实物测试，风险悄悄甩给了消费者。新车故障率一年涨了近4成，第一次出问题的时间越来越短。18个月造出来的车，和四年造出来的车，差距到底在哪？",
-     "source": "虎嗅",
-     "zh": "2027年大限来了 一大批速成车要回炉补课"
-    },
-    {
-     "title": "国内“一半算力造爽剧”，是没出息？不妨先看看谷歌财报",
-     "link": "https://www.huxiu.com/article/4901685.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 14:57:54 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：世界科先声 10月28日，谷歌母公司Alphabet公布第三季度财报：营收同比增长25%，达到1275.8亿美元；营业利润增长约30%，达到405.8亿美元。谷歌云营收同比增长103%，达到307.1亿美元。 增长依旧强劲，只是，市场更关注另一组数据： 第三季度营收和广告收入均低于市场预期，净利润同比下降约25%。与此同时，单季资本开支达到513.6亿美元，自由现金流录得负90.7亿美元。公司预计，2026年全年资本开支将达到1950亿至2050亿美元，2027年还将进一步增加。 广告业务增速放缓，同时AI投资持续扩大带来现金流压力，这双重忧患，使得财报",
-     "source": "虎嗅",
-     "zh": "国内“一半算力造爽剧”，是没出息？不妨先看看谷歌财报"
-    },
-    {
-     "title": "身家6700亿元 张一鸣又成中国首富了",
-     "link": "https://www.huxiu.com/article/4901578.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 14:43:45 +0800",
-     "summary": "张一鸣以6700亿元再次成为中国首富，主要靠字节跳动超过3.3万亿元的估值和他手中20%以上的股份。字节跳动把人们的空闲时间变成了钱：短视频、短剧、音乐、小说五大APP霸占了国人超四成的手机时光。海外市场同样火爆，新推出的短剧APP下载破亿。 张一鸣的财富一半是已经赚到的钱，一半是赌AI能帮你办正经事的未来。",
-     "source": "虎嗅",
-     "zh": "身家6700亿元 张一鸣又成中国首富了"
-    },
-    {
      "title": "How a wave of startups are betting on AI to make formal software verification practical and essential, including &Truth, which launches with a $70M seed (Paresh Dave/Wired)",
      "link": "https://www.techmeme.com/261030/p4#a261030p4",
      "pubDate": "Fri, 30 Oct 2026 02:30:03 -0400",
      "summary": "Paresh Dave / Wired : How a wave of startups are betting on AI to make formal software verification practical and essential, including &Truth, which launches with a $70M seed &nbsp; &mdash;&nbsp; A new startup called &Truth is joining the race to automate formal verification, a painstaking process t",
      "source": "Techmeme",
      "zh": "一波初创公司如何押注人工智能，使正式软件验证变得实用和必要，其中包括以 7000 万美元种子启动的 &Truth（Paresh Dave/Wired）"
-    },
-    {
-     "title": "为了保住养老金，网友把AI孝子教坏了",
-     "link": "https://www.huxiu.com/article/4901102.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 14:22:02 +0800",
-     "summary": "骗子盯上了老人的养老金，用AI冒充亲人，喊一声&ldquo;妈&rdquo;就能唤起最原始的父爱母爱，年轻人科普半天还不如骗子一句&ldquo;妈&rdquo;管用。骗子出新招，网友也用AI反击，把AI假脸小海包装成炫富、骂人、花天酒地的形象，破坏其苦情人设，让老人不愿掏钱。光靠劝说没用，让老人亲自体验AI变脸，才知道这些温情背后可能全是算法。",
-     "source": "虎嗅",
-     "zh": "为了保住养老金，网友把AI孝子教坏了"
     },
     {
      "title": "币安多达 30 亿美元数字货币被盗",
@@ -1946,18 +1938,10 @@ window.INDUSTRY_DATA = {
      "zh": "S-1：Anthropic 表示，它严重依赖台湾制造的台积电芯片，并警告在与中国的地缘政治紧张局势中存在“潜在破坏”的风险（Joseph C. Sternberg/华尔街日报）"
     },
     {
-     "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-     "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
-     "pubDate": "Fri, 30 Oct 2026 02:33:04 +0000",
-     "summary": "Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/ Comments URL: https://news.ycombinator.com/item?id=50299182 Points: 52 # Comments: 32",
-     "source": "Hacker News",
-     "zh": "CVE-2026-98432：Linux TCP 释放后使用风险和补丁验证"
-    },
-    {
      "title": "Pico CSS is no longer maintained",
      "link": "https://github.com/picocss/pico/discussions/754",
      "pubDate": "Fri, 30 Oct 2026 01:58:44 +0000",
-     "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 101 # Comments: 37",
+     "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 105 # Comments: 39",
      "source": "Hacker News",
      "zh": "Pico CSS 不再维护"
     },
@@ -1965,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Herdr has released native app",
      "link": "https://github.com/herdrdev/herdr-app",
      "pubDate": "Fri, 30 Oct 2026 00:42:41 +0000",
-     "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 138 # Comments: 83",
+     "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 147 # Comments: 89",
      "source": "Hacker News",
      "zh": "Herdr 发布了原生应用"
     },
@@ -1976,6 +1960,14 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 44 # Comments: 19",
      "source": "Hacker News",
      "zh": "科马克·麦卡锡图书馆"
+    },
+    {
+     "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+     "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+     "pubDate": "Thu, 29 Oct 2026 23:44:56 +0000",
+     "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
+     "source": "TechCrunch",
+     "zh": "安迪·贾西 (Andy Jassy) 表示 Prime Video 有望赚取“数百亿美元”"
     }
    ]
   },
@@ -1985,6 +1977,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
+     "link": "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/",
+     "pubDate": "Fri, 30 Oct 2026 07:44:26 +0000",
+     "summary": "GM has settled the Smart Driver program lawsuit brought by 35 attorneys general.",
+     "source": "Engadget",
+     "zh": "通用汽车同意支付 2.2 亿美元和解多州数据隐私诉讼"
+    },
     {
      "title": "Samsung’s next foldable is here, and it’s even more expensive than the iPhone Duo",
      "link": "https://www.androidauthority.com/samsung-w27-3729821/",
@@ -2216,14 +2216,6 @@ window.INDUSTRY_DATA = {
      "summary": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "Strava 添加了 Google Gemini 集成以及个性化锻炼见解"
-    },
-    {
-     "title": "Here’s everything new in Android 17 QPR3 Beta 3 [Gallery]",
-     "link": "https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-everything-new/",
-     "pubDate": "Thu, 29 Oct 2026 20:38:07 +0000",
-     "summary": "Google today rolled out a big Android 17 QPR3 Beta 3 with a number of fixes for Pixel devices. more…",
-     "source": "9to5Google",
-     "zh": "这是 Android 17 QPR3 Beta 3 中的所有新功能 [图库]"
     }
    ]
   },
@@ -2234,12 +2226,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "衢州东峰：截至9月30日最新股东户数3.21万户，较上期增加0.66%",
+     "link": "http://stock.eastmoney.com/news/11111,202610303916433530.html",
+     "pubDate": "Fri, 30 Oct 2026 15:43:08 +0800",
+     "summary": "衢州东峰 最新披露数据显示，截至9月30日公司股东户数为3.21万户，较上期(2026年6月30日) 增加209户，增幅为0.66% 。户均持有流通股数量 由上期的6.03万股下降至5.99万股， 户均持股金额 由上期的19.30万元减少至19.06万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "衢州东峰：截至9月30日最新股东户数3.21万户，较上期增加0.66%"
+    },
+    {
+     "title": "浙江龙盛：截至9月30日最新股东户数9.98万户，较上期减少3.70%",
+     "link": "http://stock.eastmoney.com/news/11111,202610303916433485.html",
+     "pubDate": "Fri, 30 Oct 2026 15:43:08 +0800",
+     "summary": "浙江龙盛 最新披露数据显示，截至9月30日公司股东户数为9.98万户，较上期(2026年9月18日) 减少3829户，降幅为3.70% 。户均持有流通股数量 由上期的3.14万股上升至3.26万股， 户均持股金额 由上期的36.98万元增加至41.04万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "source": "东方财富股票",
+     "zh": "浙江龙盛：截至9月30日最新股东户数9.98万户，较上期减少3.70%"
+    },
+    {
+     "title": "常青股份：截至9月30日最新股东户数1.53万户，较上期增加13.21%",
+     "link": "http://stock.eastmoney.com/news/11111,202610303916433332.html",
+     "pubDate": "Fri, 30 Oct 2026 15:43:08 +0800",
+     "summary": "常青股份最新披露数据显示，截至9月30日公司股东户数为1.53万户，较上期(2026年6月30日) 增加1790户，增幅为13.21% 。户均持有流通股数量 由上期的1.76万股下降至1.55万股， 户均持股金额 由上期的16.03万元增加至18.83万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "常青股份：截至9月30日最新股东户数1.53万户，较上期增加13.21%"
+    },
+    {
+     "title": "江苏北人：截至9月30日最新股东户数7358户，较上期减少12.51%",
+     "link": "http://stock.eastmoney.com/news/11111,202610303916433279.html",
+     "pubDate": "Fri, 30 Oct 2026 15:43:05 +0800",
+     "summary": "江苏北人最新披露数据显示，截至9月30日公司股东户数为7358户，较上期(2026年6月30日) 减少1052户，降幅为12.51% 。户均持有流通股数量 由上期的1.38万股上升至1.58万股， 户均持股金额 由上期的76.12万元减少至64.90万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "江苏北人：截至9月30日最新股东户数7358户，较上期减少12.51%"
+    },
+    {
+     "title": "人民网：截至9月30日最新股东户数11.39万户，较上期减少0.30%",
+     "link": "http://stock.eastmoney.com/news/11111,202610303916433176.html",
+     "pubDate": "Fri, 30 Oct 2026 15:43:05 +0800",
+     "summary": "人民网最新披露数据显示，截至9月30日公司股东户数为11.39万户，较上期(2026年6月30日) 减少338户，降幅为0.30% 。户均持有流通股数量 由上期的9677股上升至9706股， 户均持股金额 由上期的14.20万元增加至16.03万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "人民网：截至9月30日最新股东户数11.39万户，较上期减少0.30%"
+    },
+    {
+     "title": "图解财报：赛轮轮胎前三季归母净利润27.12亿元，同比减少5.56%",
+     "link": "http://stock.eastmoney.com/news/11802,202610303916433014.html",
+     "pubDate": "Fri, 30 Oct 2026 15:43:05 +0800",
+     "summary": "赛轮轮胎 10月31日发布2026年 三季报显示，公司前三季 实现营业总收入308.85亿元 ，同比增长11.96% ；归母净利润27.12亿元 ，同比下滑5.56% ；扣非归母净利润25.95亿元 ，同比下滑8.06% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：赛轮轮胎前三季归母净利润27.12亿元，同比减少5.56%"
+    },
+    {
+     "title": "TotalEnergies signals 2026 cash flow above $42B and authorizes $2.5B quarterly buybacks into Q1 2027",
+     "link": "https://seekingalpha.com/news/4661196-totalenergies-signals-2026-cash-flow-above-42b-and-authorizes-2_5b-quarterly-buybacks-into-q1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 03:40:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TotalEnergies 表示 2026 年现金流将超过 42B 美元，并授权在 2027 年第一季度进行 2.5B 美元的季度回购"
+    },
+    {
+     "title": "ACIC plans to bind new E&S business in December while advancing ACES Specialty rollout",
+     "link": "https://seekingalpha.com/news/4661195-acic-plans-to-bind-new-e-and-s-business-in-december-while-advancing-aces-specialty-rollout?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 03:39:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ACIC 计划在 12 月绑定新的 E&S 业务，同时推进 ACES Specialty 的推出"
+    },
+    {
+     "title": "BP p.l.c. declares $0.5196/ADS quarterly dividend",
+     "link": "https://seekingalpha.com/news/4661192-bp-plc-declares-05196ads-quarterly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 03:30:17 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "英国石油公司宣布季度股息为 0.5196 美元/ADS"
+    },
+    {
+     "title": "外交部驳斥《纽约时报》涉华报道：捕风捉影 纯属对中国的污蔑抹黑",
+     "link": "http://finance.eastmoney.com/news/1345,202610303916420783.html",
+     "pubDate": "Fri, 30 Oct 2026 15:28:53 +0800",
+     "summary": "据北京日报，外交部发言人郭嘉昆主持例行记者会。 法新社记者提问，《 纽约时报 》昨天发表独家新闻，称一位中国女性高管与 英伟达 CEO黄仁勋关系密切，而美国情报机构表示，该女士是中方的情报人员。中方是否了解这个情况，以及有什么评论？ 郭嘉昆表示，有关报道捕风捉影，纯属对中国的污蔑抹黑。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "外交部驳斥《纽约时报》涉华报道：捕风捉影 纯属对中国的污蔑抹黑"
+    },
+    {
      "title": "Transportadora de Gas del Sur reports Q3 results",
      "link": "https://seekingalpha.com/news/4661191-transportadora-de-gas-del-sur-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 30 Oct 2026 03:25:46 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Transportora de Gas del Sur 报告第三季度业绩"
+    },
+    {
+     "title": "外交部：美方无理打压中国企业 中方坚决反对、强烈不满",
+     "link": "http://finance.eastmoney.com/news/1345,202610303916418988.html",
+     "pubDate": "Fri, 30 Oct 2026 15:24:08 +0800",
+     "summary": "10月30日，外交部发言人郭嘉昆主持例行记者会。有记者问：有消息称，美国有关监管机构已决定禁止所有中国实验室开展智能手机等美国 电子 设备的检测业务。请问中方对此有何评论？ 郭嘉昆表示， 美方泛化国家安全概念、滥用国家力量，无理打压中国企业，中方对此表示坚决反对、强烈不满。 美方做法严重阻碍中美企业正常经贸往来，不符合包括美国企业及消费者在内的各方利益。 中方将采取必要措施，坚定维护自身正当合法权益。 （文章来源：央视新闻客户端）",
+     "source": "东方财富资讯",
+     "zh": "外交部：美方无理打压中国企业 中方坚决反对、强烈不满"
     },
     {
      "title": "BP p.l.c.beats top-line and bottom-line estimates; gives Q4 and updates FY26 outlook",
@@ -2250,22 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "英国石油公司 (BP p.l.c.) 的营收和利润均超出预期；给出第四季度并更新 2026 财年展望"
     },
     {
-     "title": "【调研快报】冰轮环境接待国泰海通证券等2家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610303916418854.html",
-     "pubDate": "Fri, 30 Oct 2026 15:23:18 +0800",
-     "summary": "冰轮环境 10月30日公告称， 10月30日 接待 国泰海通 证券 等2家机构 调研。 接待人员包括董事会秘书 孙秀欣。 公司就以下问题进行了回复： 活动期间谈论的主要内容如下: 1、讨论了公司第三季度报告情况 2、讨论了业务情况和产业板块 公司致力于在能源和动力领域提供先进的系统解决方案和全生命周期服务,主要产品形式为压缩机和换热装置,集成为机组,实施温控、增压等冷热能管理功能,覆盖-271℃-200℃温度区间。具体有螺杆式压缩机、离心式压缩... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台",
-     "source": "东方财富股票",
-     "zh": "【调研快报】冰轮环境接待国泰海通证券等2家机构调研"
-    },
-    {
-     "title": "平潭发展：截至10月20日最新股东户数31.45万户，较上期减少4.56%",
-     "link": "http://stock.eastmoney.com/news/11111,202610303916418733.html",
-     "pubDate": "Fri, 30 Oct 2026 15:23:09 +0800",
-     "summary": "平潭发展 最新披露数据显示，截至10月20日公司股东户数为31.45万户，较上期(2026年10月9日) 减少1.50万户，降幅为4.56% 。户均持有流通股数量 由上期的5812股上升至6089股， 户均持股金额 由上期的4.73万元减少至4.07万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "平潭发展：截至10月20日最新股东户数31.45万户，较上期减少4.56%"
-    },
-    {
      "title": "TFS Financial reports Q4 results",
      "link": "https://seekingalpha.com/news/4661189-tfs-financial-reports-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 30 Oct 2026 03:22:08 -0400",
@@ -2274,68 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "TFS 财务报告第四季度业绩"
     },
     {
-     "title": "华润材料：截至10月20日最新股东户数2.40万户，较上期减少0.31%",
-     "link": "http://stock.eastmoney.com/news/11111,202610303916417975.html",
-     "pubDate": "Fri, 30 Oct 2026 15:22:06 +0800",
-     "summary": "华润材料 最新披露数据显示，截至10月20日公司股东户数为2.40万户，较上期(2026年9月30日) 减少74户，降幅为0.31% 。户均持有流通股数量 由上期的6.11万股上升至6.13万股， 户均持股金额 由上期的42.42万元减少至42.00万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "华润材料：截至10月20日最新股东户数2.40万户，较上期减少0.31%"
-    },
-    {
-     "title": "日本无印良品运营商称超2700万条用户信息或已外泄",
-     "link": "http://finance.eastmoney.com/news/1354,202610303916418572.html",
-     "pubDate": "Fri, 30 Oct 2026 15:22:02 +0800",
-     "summary": "日本无印良品运营商良品计划10月30日发布声明称，官方应用程序“MUJI APP”遭非法访问，最多约2726万条用户信息可能已外泄，包括 电子 邮箱地址、出生日期和性别，不包括信用卡信息、姓名和住址等信息。 良品计划表示，今后可能会出现利用上述信息的“钓鱼邮件”，呼吁用户不要点击可疑邮件中的网址。该公司表示会依次联系对象用户，今后如确认信息已外泄，将再次发布消息。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "日本无印良品运营商称超2700万条用户信息或已外泄"
-    },
-    {
      "title": "沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅，恒指涨超1%",
      "link": "https://wallstreetcn.com/articles/3784820",
      "pubDate": "Fri, 30 Oct 2026 15:21:12 +0800",
      "summary": "A股和港股算力硬件、存储芯片等科技股承压，光模块龙头“易中天”大跌：此前受到谷歌财报重挫市场信心，隔夜美股遭遇抛售，叠加亚马逊和英特尔盘后双双大跌，亚太股市周五再度下挫，韩国KOSPI触发熔断，SK海力士、三星电子跌幅均超5%。同时新易盛和中际旭创最新财报公布显示， 新易盛 三季度净利润环比下降19%，存货大增141%； 中际旭创 Q3营收环比增24.62%，净利润环比增8.46%，控股股东减持32亿 10月30日，A股主要股指午后一度拉升，三大指数曾翻红，随后震荡下滑，沪指跌超1%，创业板跌超3%，算力硬件等科技股再度陷入调整，光模块、光通信、光芯片等概念股集体下挫，“易中天”齐跌，新易盛盘",
      "source": "华尔街见闻",
      "zh": "沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅，恒指涨超1%"
-    },
-    {
-     "title": "【调研快报】江苏雷利接待前方基金等19家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610303916416214.html",
-     "pubDate": "Fri, 30 Oct 2026 15:21:09 +0800",
-     "summary": "江苏雷利 10月30日公告称， 10月29日 接待前方基金 等19家机构 调研。 接待人员包括 江苏雷利 董事会秘书 殷成龙。 公司就以下问题进行了回复： 一、公司经营情况介绍 2026年前三季度,公司实现营业收入35.45亿元,同比增长17.88%,营收规模再创历史同期新高;归属于上市公司股东的净利润1.35亿元,同比下降49.05%。 报告期内,公司汽零、工控板块以及 机器人 业务的营收保持良好增长态势。净利润阶段性承压的主要原因:一是人民... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台",
-     "source": "东方财富股票",
-     "zh": "【调研快报】江苏雷利接待前方基金等19家机构调研"
-    },
-    {
-     "title": "TMD Energy Limited reports FY results",
-     "link": "https://seekingalpha.com/news/4661188-tmd-energy-limited-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 03:20:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TMD Energy Limited 公布财年业绩"
-    },
-    {
-     "title": "联发科预计第四季度销售额介于台币2,101亿至2,218亿元之间",
-     "link": "http://finance.eastmoney.com/news/1354,202610303916418235.html",
-     "pubDate": "Fri, 30 Oct 2026 15:19:41 +0800",
-     "summary": "联发科预计第四季度销售额介于台币2,101亿至2,218亿元之间。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "联发科预计第四季度销售额介于台币2,101亿至2,218亿元之间"
-    },
-    {
-     "title": "Quad forecasts 2026 adjusted EBITDA of $185M-$195M while targeting 1.5x leverage",
-     "link": "https://seekingalpha.com/news/4661187-quad-forecasts-2026-adjusted-ebitda-of-185m-195m-while-targeting-1_5x-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 03:19:36 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Quad 预测 2026 年调整后 EBITDA 为 1.85 亿至 1.95 亿美元，目标杠杆率为 1.5 倍"
-    },
-    {
-     "title": "GFL outlines $8.055B-$8.075B 2026 revenue and $1.02B adjusted free cash flow as it raises guidance again",
-     "link": "https://seekingalpha.com/news/4661186-gfl-outlines-8_055b-8_075b-2026-revenue-and-1_02b-adjusted-free-cash-flow-as-it-raises?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 03:19:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GFL 再次提高指导，概述了 2026 年收入 $8.055B-$8.075B 和 $1.02B 调整后自由现金流"
     },
     {
      "title": "午后A股异动！医药、白酒等板块突然发力 盘中发生了啥？",
@@ -2434,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "豆包工作加入多模型阵营，千问办公成最后的坚守者？"
     },
     {
-     "title": "DeepSeek千亿融资细节曝光：长鑫存储、腾讯等近30家机构参投 国资占比27%",
-     "link": "http://finance.eastmoney.com/news/11158,202610303916254885.html",
-     "pubDate": "Fri, 30 Oct 2026 14:15:44 +0800",
-     "summary": "10月30日，据The Information报道，DeepSeek第二轮融资的具体细节曝光。本轮融资已筹集1055亿元人民币（约合158亿美元），吸引近30家投资者参与，其中国资出资占比约27%，较首轮融资的2%大幅提升。 从投资方来看， 腾讯控股 （00700.HK） 、 宁德时代 （300750.SZ） 仍是两大主要投资方。腾讯在两轮融资中均出资100亿元， 宁德时代 及其董事长曾毓群两轮分别出资50亿元和100亿元。其他产业投资者还包括长鑫存储、 中芯国际 （688981.SH） 、vivo、 美团-W R（83690.HK） 、 吉利汽车 （00175.HK） 、 美的集团 （000",
-     "source": "东方财富资讯",
-     "zh": "DeepSeek千亿融资细节曝光：长鑫存储、腾讯等近30家机构参投 国资占比27%"
-    },
-    {
      "title": "从人工示教到同伴经验复用：CEL 群体经验学习新范式出现了",
      "link": "https://wallstreetcn.com/articles/3784846",
      "pubDate": "Fri, 30 Oct 2026 14:14:02 +0800",
@@ -2464,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Disappointing data highlights Novartis' challenge to build its next generation of blockbuster medicines, following a series of clinical trial setbacks.",
      "source": "CNBC",
      "zh": "一家制药巨头正在跨越一个专利悬崖，但另一个专利悬崖已经迫在眉睫"
-    },
-    {
-     "title": "新能源与AI算力基建市场爆发 潍柴动力2026年三季度扣非净利创历史纪录",
-     "link": "http://www.eeo.com.cn/2026/1030/1079527.shtml",
-     "pubDate": "Fri, 30 Oct 2026 13:29:52 +0800",
-     "summary": "当下，潍柴动力正在纵深推进绿色化、全球化、数智化、生态化四大战略转型。其中，潍柴动力在新能源领域一直在探索五大技术路线齐头并进、多点布局。该企业同时布局5大技术路线的本质，是用技术矩阵的宽度匹配全球市场的复杂度。如今，全球新能源市场逐渐成熟，潍柴动力得以承接不同区域、不同场景的市场需求。",
-     "source": "经济观察网",
-     "zh": "新能源与AI算力基建市场爆发 潍柴动力2026年三季度扣非净利创历史纪录"
     }
    ]
   },

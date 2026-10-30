@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/30 22:09:42",
+ "generated_at": "2026/10/30 22:29:41",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案",
+     "link": "https://zhidx.com/p/606032.html",
+     "pubDate": "Fri, 30 Oct 2026 22:23:40 +0800",
+     "summary": "智东西 作者 | 江宇 编辑 | 漠影 在华润信托，一笔债券交易的起点，可能只是一条聊天群里的消息。 交易员需要在上千个交易群中接收指令，识别交易要素，再录入交易系统。客户询问持仓、交易进度时，他们还要打开系统查询，把结果发回群里。 这项工作既繁琐，又容不得差错。 如今，华润信托开始让一个智能体接手其中部分工作。它直接进入交易群，识别并拆解交易指令、录入系统，也能查询持仓与交易进度，自动回复群里的咨询。 ▲华润信托苏南 据腾讯云披露，这个基于智能体开发平台ADP打造的债券助手，拆单准确率已经从最初的80%以上提高到98%。 但在关键节点，华润信托仍然保留人工确认。 这背后其实是行业的一个非共识",
+     "source": "智东西",
+     "zh": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案"
+    },
     {
      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
@@ -81,6 +89,14 @@
      "zh": "拟融资334亿！英伟达投的大模型独角兽又融资，冲击加拿大史上最大单轮融资纪录"
     },
     {
+     "title": "用世界模型做AI药物研发，同济教授融资数千万元",
+     "link": "https://zhidx.com/p/605972.html",
+     "pubDate": "Fri, 30 Oct 2026 16:26:36 +0800",
+     "summary": "智东西 编译 | 黄菲 编辑 | 江宇 智东西10月30日消息，昨日，国内AI for Science新锐企业扰动之心（PerturbMind AI）宣布完成数千万元天使轮及天使+轮融资，由清松资本领投，同杨基金及多家药企跟投，正式走出隐匿模式。 该公司聚焦几何世界模型驱动的下一代AIDD（AI药物研发）创新范式，探索以生命系统状态推演为核心的研发模式。 此次官宣，扰动之心还发布了数字生命世界模型生态系统PerturbSeek旗下的全球首个虚拟细胞状态推演模型AlphaCell 1.0 Pro。 该模型以几何世界模型为底层架构，标准参数量为1B，可根据应用需求做调整，向下可裁剪至 300M的轻",
+     "source": "智东西",
+     "zh": "用世界模型做AI药物研发，同济教授融资数千万元"
+    },
+    {
      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
      "link": "https://www.qbitai.com/2026/10/506743.html",
      "pubDate": "Fri, 30 Oct 2026 07:31:11 +0000",
@@ -143,22 +159,6 @@
      "summary": "",
      "source": "量子位",
      "zh": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位"
-    },
-    {
-     "title": "主打一个听劝，OpenAI把Pro额度翻倍了",
-     "link": "https://zhidx.com/p/605791.html",
-     "pubDate": "Fri, 30 Oct 2026 10:45:17 +0800",
-     "summary": "智东西 作者 | 毕伟豪 编辑｜李水青 智东西10月30日报道，凌晨，OpenAI Codex和ChatGPT负责人Tibo宣布，Codex和ChatGPT Work的 Pro100、200、500以及Business Premium 的 订阅使用额度翻倍 。 Tibo称，OpenAI听到了Pro 200订阅用户的友善反馈，决定 撤回原定于10月30日执行的额度削减计划 。 Tibo还在评论区玩梗，说OpenAI已经从重置公司转变到了Token公司，有额度管够的感觉，但不知道是不是暗含重置减少的意思。 按照此前安排，Pro 200老用户的Codex和ChatGPT Work使用额度将 从原来P",
-     "source": "智东西",
-     "zh": "主打一个听劝，OpenAI把Pro额度翻倍了"
-    },
-    {
-     "title": "融资数亿元，零一万物要搬去DeepSeek大本营了！",
-     "link": "https://zhidx.com/p/605829.html",
-     "pubDate": "Fri, 30 Oct 2026 10:40:49 +0800",
-     "summary": "智东西 作者 | 王涵 编辑 | 李水青 智东西10月30日消息，今天，零一万物宣布其于10月28日与 杭州市、杭州市临平区 达成合作，由市区两级国资联动投资，合计向零一万物投资 数亿元 。同时，零一万物总部将 落地杭州临平区 ，打造产业AI转型基地。 零一万物由李开复博士在2023年创立于北京，作为早期的“大模型六小龙”之一，这家公司的发展方向已经从前沿大模型研发，转向面向企业的产业AI落地，主打把大模型能力落地到企业经营环节。 由商业查询平台天眼查可知， 创立至今，零一万物已累计完成了3轮融资。 2023年11月，零一万物完成一轮新融资，估值到达10亿美元，跻身独角兽行列；2024年8月，",
-     "source": "智东西",
-     "zh": "融资数亿元，零一万物要搬去DeepSeek大本营了！"
     },
     {
      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -849,6 +849,30 @@
    "total": 9,
    "items": [
     {
+     "title": "Why ‘buying cheap’ is costing PV developers their ROI",
+     "link": "https://www.pv-tech.org/why-buying-cheap-is-costing-pv-developers-their-roi/",
+     "pubDate": "Fri, 30 Oct 2026 14:12:39 +0000",
+     "summary": "Ahead of PV ModuleTech Europe, Veronica Bermúdez Benito talks with PV Tech Premium about capex, common PV procurement mistakes and the importance of opex for LCOE.",
+     "source": "PV Tech",
+     "zh": "为什么“低价购买”会降低光伏开发商的投资回报率"
+    },
+    {
+     "title": "Drive Forward or Turn Back? Four Reasons to Vote for a Strong Automotive Package",
+     "link": "https://cleantechnica.com/2026/10/30/drive-forward-or-turn-back-four-reasons-to-vote-for-a-strong-automotive-package/",
+     "pubDate": "Fri, 30 Oct 2026 14:06:49 +0000",
+     "summary": "The coming weeks will be crucial for the future of the EU’s car and van CO₂ standards and Clean Corporate Vehicles Regulation — a choice that will shape Europe’s car market for the next decade. European car industry at a crossroads Driving forward means a competitive, EU-made EV industry and ... [co",
+     "source": "CleanTechnica",
+     "zh": "向前行驶还是向后行驶？投票支持强大的汽车套餐的四个理由"
+    },
+    {
+     "title": "T&E’s Response to the European Commission’s Review of the EU ETS and MSR",
+     "link": "https://cleantechnica.com/2026/10/30/tes-response-to-the-european-commissions-review-of-the-eu-ets-and-msr/",
+     "pubDate": "Fri, 30 Oct 2026 14:03:37 +0000",
+     "summary": "The Commission’s ETS proposal is pragmatic and shows a willingness to improve the ETS for transport. The proposal’s strengths should be protected, including extensions of scope and support for new technologies in both aviation and shipping that represent an industrial opportunity for the EU. Key imp",
+     "source": "CleanTechnica",
+     "zh": "T&E 对欧盟委员会对 EU ETS 和 MSR 审查的回应"
+    },
+    {
      "title": "Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’",
      "link": "https://oilprice.com/Geopolitics/Europe/Trump-Considers-Lifting-Sanctions-on-Putins-Slush-Fund.html",
      "pubDate": "Fri, 30 Oct 2026 09:00:00 -0500",
@@ -1063,30 +1087,6 @@
      "summary": "Higher speed is the main cause of mobility growth. When people go faster, they will travel further. This is the shortest summary of the history of passenger mobility. An illustrative example is the high-speed rail connection between Paris and Lyon. After its opening in 1981, commuters were able to t",
      "source": "CleanTechnica",
      "zh": "对流动性增长的误解"
-    },
-    {
-     "title": "8-hour BESS market ‘completely artificial’, but asymmetric registration adds value, says Tesla at All-Energy Australia 2026",
-     "link": "https://www.energy-storage.news/8-hour-bess-market-completely-artificial-but-asymmetric-registration-adds-value-says-tesla-at-all-energy-australia-2026/",
-     "pubDate": "Fri, 30 Oct 2026 01:21:31 +0000",
-     "summary": "Demand for 8-hour battery energy storage in Australia is \"completely artificial\" and relies on government underwriting, according to Tesla, which said asymmetric registration can help such projects earn more.",
-     "source": "Energy Storage News",
-     "zh": "特斯拉在 2026 年澳大利亚全能源大会上表示，8 小时 BESS 市场“完全是人为的”，但不对称注册会增加价值"
-    },
-    {
-     "title": "Australia’s energy minister seeks AEMC rule change forcing data centres to contract new firmed energy",
-     "link": "https://www.pv-tech.org/australias-energy-minister-seeks-aemc-rule-change-forcing-data-centres-to-contract-new-firmed-energy/",
-     "pubDate": "Fri, 30 Oct 2026 01:18:09 +0000",
-     "summary": "Australia's energy minister has asked the AEMC to make data centres contract firmed energy & to ease connection alongside solar & storage.",
-     "source": "PV Tech",
-     "zh": "澳大利亚能源部长寻求改变 AEMC 规则，迫使数据中心签订新的固定能源合同"
-    },
-    {
-     "title": "It’s Not Enough To Electrify More. We Must Electrify Better.",
-     "link": "https://cleantechnica.com/2026/10/29/its-not-enough-to-electrify-more-we-must-electrify-better/",
-     "pubDate": "Fri, 30 Oct 2026 01:03:38 +0000",
-     "summary": "EVs and other electric products are emerging not only as a climate strategy but also as a question of affordability, economic competitiveness, public health, consumer experience, energy security, and resilience to volatile fuel markets. At 5 a.m., an electric bus glides out of its depot after chargi",
-     "source": "CleanTechnica",
-     "zh": "仅仅实现更多电气化还不够。我们必须更好地实现电气化。"
     }
    ]
   },
@@ -1545,12 +1545,28 @@
    "total": 5,
    "items": [
     {
+     "title": "Undead Software Projects Continue to Raise Security Risks",
+     "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+     "pubDate": "Fri, 30 Oct 2026 14:10:37 GMT",
+     "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
+     "source": "Dark Reading",
+     "zh": "Undead 软件项目继续引发安全风险"
+    },
+    {
      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
      "pubDate": "Fri, 30 Oct 2026 10:00:10 -0400",
      "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile s",
      "source": "BleepingComputer",
      "zh": "SS7 和 Diameter 攻击：信号缺陷如何暴露您的手机"
+    },
+    {
+     "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
+     "link": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
+     "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
+     "summary": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "密钥比密码更好。但它们还不够。"
     },
     {
      "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
@@ -1657,14 +1673,6 @@
      "zh": "Cursor Marketplace 上的官方 Claude 代码扩展带有持久 SSH 后门木马"
     },
     {
-     "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-     "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-     "pubDate": "Fri, 30 Oct 2026 08:44:49 +0000",
-     "summary": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "TeamViewer 缺陷可能会让恶意主机接管支持技术人员的机器"
-    },
-    {
      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
      "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
      "pubDate": "Fri, 30 Oct 2026 08:00:00 GMT",
@@ -1727,14 +1735,6 @@
      "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
      "source": "Dark Reading",
      "zh": "Claude 模型在主要浏览器和操作系统上构建漏洞"
-    },
-    {
-     "title": "Threat Modeling With 4 Simple Questions on a White Board",
-     "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-     "pubDate": "Thu, 29 Oct 2026 15:44:04 GMT",
-     "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
-     "source": "Dark Reading",
-     "zh": "在白板上通过 4 个简单问题进行威胁建模"
     }
    ]
   },
@@ -1745,10 +1745,42 @@
    "total": 18,
    "items": [
     {
+     "title": "词元工厂硅基流动港股上市申请获证监会备案：注册用户超千万，年内融资近 29 亿元",
+     "link": "https://www.ithome.com/1/020/369.htm",
+     "pubDate": "Fri, 30 Oct 2026 14:22:53 GMT",
+     "summary": "IT之家 10 月 30 日消息，硅基流动在港股发行上市申请获中国证监会备案受理。据弗若斯特沙利文资料，该公司是中国最大的独立生态词元（Token）供应商，注册用户超过 1000 万名，服务企业客户超过 1.3 万家。 IT之家注：硅基流动成立于 2023 年，定位为独立生态词元供应平台，不自建大模型，也不直接出售算力。 其业务逻辑是将英伟达、华为昇腾、沐曦、摩尔线程等厂商的异构芯片通过自研推理引擎统一调度，让 DeepSeek、Qwen、Kimi 等主流模型在池化算力上运行，再以 Token 为单位对外提供服务。截至 2026 年 6 月，平台累计支持 170 余款 AI 模型，适配 10 ",
+     "source": "IT之家",
+     "zh": "词元工厂硅基流动港股上市申请获证监会备案：注册用户超千万，年内融资近 29 亿元"
+    },
+    {
+     "title": "Keychron 三模键盘 K8 Ultra 8K 国行发售：原生 macOS 键位，721 元",
+     "link": "https://www.ithome.com/1/020/368.htm",
+     "pubDate": "Fri, 30 Oct 2026 14:21:47 GMT",
+     "summary": "IT之家 10 月 30 日消息，Keychron（渴创）现已开始在中国大陆电商平台销售 K8 Ultra 8K 机械键盘。其拥有铝合金 + 塑料机身，采用 80% (TKL) 配列，拥有原生 macOS 键位（随附 Windows 键帽），售价 721 元。 K8 Ultra 8K 内部为 6 层填充结构，配备钢制定位板，PCB 支持轴体热插拔、集成南向 RGB LED 背光，原装搭载 Apex 系列围墙轴芯轴体，搭配 OSA 高度 PBT 材质双色注塑键帽。 其搭载 ZMK 固件，在 USB-C 与 2.4GHz 模式下均支持 8kHz 回报率；集成 4000mAh 电池， 蓝牙模式下使用",
+     "source": "IT之家",
+     "zh": "Keychron 三模键盘 K8 Ultra 8K 国行发售：原生 macOS 键位，721 元"
+    },
+    {
+     "title": "7000mAh 大电池：小米 17 手机 16GB+512GB 国补后 4999 → 3836 元新低",
+     "link": "https://www.ithome.com/1/020/367.htm",
+     "pubDate": "Fri, 30 Oct 2026 14:19:33 GMT",
+     "summary": "【京东活动可能随时变更，需以实付款为准】 小米 17 开售于 2025 年 9 月，16GB+512GB 首发价 4999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 3836.55 元： 领 9.5 折券：微信“京东购物”小程序打开链接（ 点此查看 ） 领 &nbsp;800-80 元 PLUS 专享券（需 2 积分兑换）： 点此查看 。 领券后进入“京东购物”小程序购物车结算，即可查看优惠后价格。 京东 小米 17 16GB+512GB 国补后 3836.55 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点",
+     "source": "IT之家",
+     "zh": "7000mAh 大电池：小米 17 手机 16GB+512GB 国补后 4999 → 3836 元新低"
+    },
+    {
+     "title": "在家自制羽绒服的中国人， 亲手刺破行业泡沫",
+     "link": "https://www.huxiu.com/article/4901827.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 22:11:25 +0800",
+     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 人间奇景，在服装产量占全球50%、羽绒加工供应量占全球85%的中国，网上居然流行起了“DIY羽绒服”。 大家放着大把的现成产品不买，反而去自购散装羽绒和衣服外壳，再用矿泉水瓶、吹风机拼凑出简易充绒器，然后小心翼翼地一个格子一个格子灌满…… 身在服装制造第一大国，消费者还得亲自动手，原因只有一个，贵。 01手搓“妈司登” 羽绒到底有多疯狂呢？我们来看一组数据，2019年时，被称为“黄金规格”的90%白鸭绒，价格大约17万到18万元/吨；2020年，它突破了20万/吨；2023年下半年，价格已经来到了恐怖的39万元/吨；2025年，又变成了更吓",
+     "source": "虎嗅",
+     "zh": "在家自制羽绒服的中国人， 亲手刺破行业泡沫"
+    },
+    {
      "title": "梦想不灭：开发者拒绝 Windows Phone 死亡，利用 AI 辅助为微软 Lumia 640 开发新应用",
      "link": "https://www.ithome.com/1/020/366.htm",
      "pubDate": "Fri, 30 Oct 2026 14:04:20 GMT",
-     "summary": "IT之家 10 月 30 日消息，随着 AI 技术突飞猛进，许多开发者在大模型辅助加持之下对各种老旧机型进行折腾，例如在诺记吧贴吧就有一位开发者 FORZGC 宣布在 AI 辅助之下为“死亡”多年的微软 Windows Phone 系统打造了一系列应用。 该开发者表示，其利用 AI 扒取各大网站 API，进而将其打包为 Windows Phone 系统可用的系统，虽然只是“简单实现，只能浏览”，但“如果愿意折腾还可以实现更多功能”。同时其进一步表示，“没想到当年没落的系统，现在可以凭借 AI 发挥发挥余热，不至于完全无用”。 参考IT之家此前报道，微软现任首席执行官萨蒂亚・纳德拉（Satya ",
+     "summary": "IT之家 10 月 30 日消息，随着 AI 技术突飞猛进，许多开发者在大模型辅助加持之下对各种老旧机型进行折腾，例如在诺记吧贴吧就有一位开发者 FORZGC 宣布在 AI 辅助之下为“死亡”多年的微软 Windows Phone 系统打造了一系列应用。 该开发者表示，其利用 AI 扒取各大网站 API，进而将其打包为 Windows Phone 系统可用的应用包，虽然只是“简单实现，只能浏览”，但“如果愿意折腾还可以实现更多功能”。同时其进一步表示，“没想到当年没落的系统，现在可以凭借 AI 发挥发挥余热，不至于完全无用”。 参考IT之家此前报道，微软现任首席执行官萨蒂亚・纳德拉（Satya",
      "source": "IT之家",
      "zh": "梦想不灭：开发者拒绝 Windows Phone 死亡，利用 AI 辅助为微软 Lumia 640 开发新应用"
     },
@@ -1761,12 +1793,20 @@
      "zh": "HKC“天启”27U240B 电竞显示器 4799 → 3805 元：4K 240Hz 三星四代 QD-OLED、配 DP 2.1 + 90W USB-C"
     },
     {
-     "title": "英特尔股价开盘跌超 30%，创 2024 年以来最大单日跌幅",
+     "title": "跌了这么多，A股见底了吗？",
+     "link": "https://www.huxiu.com/article/4901815.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 22:02:42 +0800",
+     "summary": "本文来自微信公众号： 格隆 ，作者：哥吉拉，题图来自：视觉中国 这个月，股民心情大概率不好受。 各类股指一路下挫，沪指失守3600点，创业板指、科创50单月跌幅均超过2成。 如果时间拉长一点，情况更差，创业板指较6月高点回撤45%，科创50较7月高位回撤49%。 重灾区，集中在上半年最火的赛道。 尤其是算力硬件方向的CPO、PCB，集体崩塌，大量核心龙头被腰斩，甚至有的最大跌幅超过70%，几乎回到了2025年AI叙事行情起涨点甚至更低的位置。 与之对照，食品饮料涨5.31%、银行涨4.84%、石油石化涨3.34%，红利与防御资产逆势创出新高。 这种&ldquo;成长崩塌、价值吸金&rdquo;",
+     "source": "虎嗅",
+     "zh": "跌了这么多，A股见底了吗？"
+    },
+    {
+     "title": "英特尔股价开盘跌超 30%，或将创下有记录以来最大单日跌幅",
      "link": "https://www.ithome.com/1/020/364.htm",
      "pubDate": "Fri, 30 Oct 2026 14:00:49 GMT",
-     "summary": "IT之家 10 月 30 日消息，当地时间 10 月 30 日开盘后，英特尔股价大幅下挫，盘中跌幅一度超过 30%，公司市值蒸发超过 1,370 亿美元 （IT之家注：现汇率约合 9,147.3 亿元人民币） ，创 2024 年（约 26%）以来最大单日跌幅，如果能达到 31% 将超越 1974 年 7 月 5 日创下的历史纪录。 路透社报道称，此次暴跌主要源于英特尔发布低于市场预期的第四季度业绩指引，同时警告个人电脑市场疲软、内存价格上涨等问题可能持续至 2027 年上半年。 英特尔 2026 年第三季度财报显示，尽管公司当季营收同比增长 21%，达到 165.1 亿美元 （现汇率约合 1,",
+     "summary": "IT之家 10 月 30 日消息，当地时间 10 月 30 日开盘后，英特尔股价大幅下挫，盘中跌幅一度超过 30%，公司市值蒸发超过 1,370 亿美元 （IT之家注：现汇率约合 9,147.3 亿元人民币） ，超过 2024 年最大单日跌幅（约 26%），如果能达到 31% 将超越 1974 年 7 月 5 日创下的终极历史纪录。 路透社报道称，此次暴跌主要源于英特尔发布低于市场预期的第四季度业绩指引，同时警告个人电脑市场疲软、内存价格上涨等问题可能持续至 2027 年上半年。 英特尔 2026 年第三季度财报显示，尽管公司当季营收同比增长 21%，达到 165.1 亿美元 （现汇率约合 1",
      "source": "IT之家",
-     "zh": "英特尔股价开盘跌超 30%，创 2024 年以来最大单日跌幅"
+     "zh": "英特尔股价开盘跌超 30%，或将创下有记录以来最大单日跌幅"
     },
     {
      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
@@ -1777,12 +1817,12 @@
      "zh": "朝鲜黑客被指在币安违规事件中窃取了创纪录的 6.3B 美元"
     },
     {
-     "title": "华为鸿蒙 HarmonyOS 7 系统最新适配进度公开：Mate 80 全网推送、nova 13 等开启花粉 Beta 招募",
-     "link": "https://www.ithome.com/1/020/363.htm",
-     "pubDate": "Fri, 30 Oct 2026 13:55:10 GMT",
-     "summary": "IT之家 10 月 30 日消息，华为官方今日公开了鸿蒙 HarmonyOS 7 系统最新适配进度。 目前，Mate 80、Pura 90、nova 16、MatePad Pro Max 等系列产品开启了 全网推送升级 ，nova 12、nova 13、MatePad Pro 13.2 英寸 2023 等系列开启 花粉 Beta 招募 。 IT之家附更多机型升级计划详情如下（升级方式：打开设置 > 搜索“软件更新”）： 延伸阅读 鸿蒙 HarmonyOS 7 操作系统于 2026 年 9 月 7 日在华为「HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会」上正式",
-     "source": "IT之家",
-     "zh": "华为鸿蒙 HarmonyOS 7 系统最新适配进度公开：Mate 80 全网推送、nova 13 等开启花粉 Beta 招募"
+     "title": "Massie, Khanna, and Others Introduce the \"Epstein Files Transparency Act II\"",
+     "link": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849",
+     "pubDate": "Fri, 30 Oct 2026 14:00:07 +0000",
+     "summary": "Article URL: https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849 Comments URL: https://news.ycombinator.com/item?id=50304006 Points: 37 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "马西、卡纳等人提出“爱泼斯坦档案透明度法案 II”"
     },
     {
      "title": "GM to pay $220 million after selling customer Smart Driver data",
@@ -1793,44 +1833,12 @@
      "zh": "出售客户智能驾驶员数据后，通用汽车将支付 2.2 亿美元"
     },
     {
-     "title": "奥尔特曼回应 AI 冲击：理解数学家的处境，但 OpenAI 不会停止研究",
-     "link": "https://www.ithome.com/1/020/361.htm",
-     "pubDate": "Fri, 30 Oct 2026 13:50:21 GMT",
-     "summary": "IT之家 10 月 30 日消息，OpenAI CEO 萨姆・奥尔特曼（Sam Altman）在参加《Cheeky Pint》播客节目时表示，他理解数学家面对 AI 研究成果大量涌现时的处境，但 OpenAI 需继续公布具有重要价值的科学发现。 他认为，人类有权了解宇宙运行的基本规律，公司不应将重大的基础科学发现长期保留在内部。 奥尔特曼在节目中承认，OpenAI 此前公布数学研究成果的方式存在需要改进之处。他表示，希望在推动科学进步的同时，尽可能尊重数百年来推动数学等学科发展的研究群体，并帮助相关领域的研究人员适应 AI 带来的变化。 OpenAI 今年已经陆续公布了大量由 AI 开展的数学",
-     "source": "IT之家",
-     "zh": "奥尔特曼回应 AI 冲击：理解数学家的处境，但 OpenAI 不会停止研究"
-    },
-    {
      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
      "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
      "pubDate": "Fri, 30 Oct 2026 13:46:39 +0000",
      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
      "source": "Ars Technica",
      "zh": "黑客从币安窃取了创纪录的加密货币盗窃案 63 亿美元"
-    },
-    {
-     "title": "黑鲨凤鸣 BE32 蓝牙耳机电竞版发布：2.4G + 蓝牙双模连接、-45dB ANC 混合式降噪，首发价 249 元",
-     "link": "https://www.ithome.com/1/020/360.htm",
-     "pubDate": "Fri, 30 Oct 2026 13:44:59 GMT",
-     "summary": "IT之家 10 月 30 日消息，在今晚的黑鲨 2026 年度秋季新品发布会上，黑鲨凤鸣 BE32 蓝牙耳机电竞版正式发布，首发价 249 元。 据介绍，黑鲨凤鸣 BE32 蓝牙耳机电竞版的耳机舱采用六边形太空舱体设计，轮廓利落；选用深空灰金属漆 +UV 耐磨工艺， 并配备贯穿式灯条增加电竞氛围感 。 耳机提供 S / M / L 三款耳帽可选（根据耳蜗大小选择不同耳帽），入耳端贴合曲面，符合人体工学设计。耳机搭载专属游戏优化方案，太空舱体内自带 2.4G 接收器（支持 2.4G + 蓝牙双模连接）， 可将游戏延时压缩至 20 毫秒 。 耳机还采用 10mm 大尺寸镀钛振膜喇叭， 支持 20H",
-     "source": "IT之家",
-     "zh": "黑鲨凤鸣 BE32 蓝牙耳机电竞版发布：2.4G + 蓝牙双模连接、-45dB ANC 混合式降噪，首发价 249 元"
-    },
-    {
-     "title": "Intel plunges 25%, triggers global chip rout on bleak outlook",
-     "link": "https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/",
-     "pubDate": "Fri, 30 Oct 2026 13:43:48 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50303791 Points: 10 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "英特尔股价暴跌25%，前景黯淡引发全球芯片股暴跌"
-    },
-    {
-     "title": "Pompeii wardrobe found untouched since 79CE holds keepsakes, coins, and two mice",
-     "link": "https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/",
-     "pubDate": "Fri, 30 Oct 2026 13:40:29 +0000",
-     "summary": "Article URL: https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/ Comments URL: https://news.ycombinator.com/item?id=50303751 Points: 4 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "庞贝古城衣柜自公元 79 年以来一直未曾动过，里面有纪念品、硬币和两只老鼠"
     },
     {
      "title": "Mattress Deals: Save Over $600 Before Black Friday 2026",
@@ -1860,7 +1868,7 @@
      "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
      "link": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/",
      "pubDate": "Fri, 30 Oct 2026 13:26:43 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/ Comments URL: https://news.ycombinator.com/item?id=50303571 Points: 8 # Comments: 7",
+     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/ Comments URL: https://news.ycombinator.com/item?id=50303571 Points: 10 # Comments: 16",
      "source": "Hacker News",
      "zh": "只是注意到你的玉米糖是由虫子分泌物制成的"
     },
@@ -1889,28 +1897,20 @@
      "zh": "一线投资人与创业者匿名访谈：到底是谁在逼谁追共识"
     },
     {
-     "title": "Samba退烧，阿迪达斯却多赚了37%",
-     "link": "https://www.huxiu.com/article/4901811.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 20:56:01 +0800",
-     "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | Samba退烧，阿迪达斯却多赚了37%》 阿迪达斯鞋履增长停了，整体增长却没有停。 据时尚商业快讯，阿迪达斯第三季度营收按固定汇率计算增长7%至约73亿欧元，营业利润增长37%至约10亿欧元，均创单季历史新高。 基于第三季度的强劲表现，阿迪达斯全球上调了2026年全年业绩指引，公司预计将实现9%至10%的营收增长，营业利润预计将增长至25亿欧元，此前预计为23亿欧元。 但比起收入增长此次市场更关注的是，支撑这份成绩单的产品开始换位置，鞋履业务收入持平，服装业务增长19%，专业运动业务增长14%。 资本市场对这份",
-     "source": "虎嗅",
-     "zh": "Samba退烧，阿迪达斯却多赚了37%"
-    },
-    {
      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
      "pubDate": "Fri, 30 Oct 2026 12:50:01 +0000",
-     "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 42 # Comments: 7",
+     "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 65 # Comments: 25",
      "source": "Hacker News",
      "zh": "价值 6.3B 美元的 Binance 黑客在短短 20 分钟内就被成功"
     },
     {
-     "title": "获102岁诺奖得主赞许，他用经典理论解决“全球问题”",
-     "link": "https://www.huxiu.com/article/4901803.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 20:23:10 +0800",
-     "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：江庆龄 2025年11月，在上一篇Nature论文上线大半年后，美国哥伦比亚大学教授闵玮团队再次向编辑部投去一篇论文。他们发现，微塑料与水的交界处能够持续产生活性氧，进而影响周围的生物分子。这为理解微塑料的健康影响提供了一条化学线索。 然而，一位审稿人反复质疑这项工作的创新性：“这篇稿件的核心内容更像是将此前研究延伸到一个特定的应用场景，而非在科学问题或机制认识上取得实质性突破。” 两轮审稿中，闵玮花了不少精力解释两项工作的区别，从研究体系、重点概念、科学问题等角度逐一进行说明比较。对于一个在界面水领域深耕多年的团队来说，证明自己在不断突破，",
-     "source": "虎嗅",
-     "zh": "获102岁诺奖得主赞许，他用经典理论解决“全球问题”"
+     "title": "American views of higher ed decline, once again",
+     "link": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
+     "pubDate": "Fri, 30 Oct 2026 12:20:05 +0000",
+     "summary": "Article URL: https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/ Comments URL: https://news.ycombinator.com/item?id=50302925 Points: 13 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "美国人对高等教育的看法再次下降"
     },
     {
      "title": "CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices (Reuters)",
@@ -1924,7 +1924,7 @@
      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
      "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
      "pubDate": "Fri, 30 Oct 2026 12:08:00 +0000",
-     "summary": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead Comments URL: https://news.ycombinator.com/item?id=50302814 Points: 131 # Comments: 65",
+     "summary": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead Comments URL: https://news.ycombinator.com/item?id=50302814 Points: 207 # Comments: 133",
      "source": "Hacker News",
      "zh": "美国众议员领导反对人工智能的民主党决议大型科技公司的泡沫救助"
     },
@@ -1992,6 +1992,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iOS 27.2 adds new Find My feature at just the right time",
+     "link": "https://9to5mac.com/2026/10/30/ios-27-2-adds-new-find-my-feature-at-just-the-right-time/",
+     "pubDate": "Fri, 30 Oct 2026 14:20:48 +0000",
+     "summary": "iOS 27.2 is here, and alongside new features for Apple Photos , Messages , and Siri AI , the update also has a welcome addition for Find My: support for Apple TV 4K remotes. more…",
+     "source": "9to5Mac",
+     "zh": "iOS 27.2 适时添加了新的“查找我的”功能"
+    },
+    {
+     "title": "Motorola is officially launching its Signature 27 flagship next week",
+     "link": "https://9to5google.com/2026/10/30/motorola-signature-27-launch-date-confirmed/",
+     "pubDate": "Fri, 30 Oct 2026 13:45:00 +0000",
+     "summary": "Motorola has officially confirmed that it will spill all of the details on its flagship Signature 27 phone next week. more…",
+     "source": "9to5Google",
+     "zh": "摩托罗拉将于下周正式推出 Signature 27 旗舰手机"
+    },
     {
      "title": "iPadOS 27.2: Two new features just upgraded your iPad",
      "link": "https://9to5mac.com/2026/10/30/ipados-27-2-two-new-features-just-upgraded-your-ipad/",
@@ -2215,22 +2231,6 @@
      "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
      "source": "少数派",
      "zh": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？"
-    },
-    {
-     "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-     "link": "https://sspai.com/post/116435",
-     "pubDate": "Fri, 30 Oct 2026 11:13:40 +0800",
-     "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。 查看全文",
-     "source": "少数派",
-     "zh": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践"
-    },
-    {
-     "title": "Apple’s best MacBook Pro decision this week had nothing to do with touch",
-     "link": "https://9to5mac.com/2026/10/29/apples-best-macbook-pro-decision-this-week-had-nothing-to-do-with-touch/",
-     "pubDate": "Fri, 30 Oct 2026 02:06:23 +0000",
-     "summary": "Apple’s new touchscreen MacBook Pro brings plenty of welcome upgrades, but one of the best things about this week’s launch is what the company decided not to change. more…",
-     "source": "9to5Mac",
-     "zh": "苹果本周最佳 MacBook Pro 决策与触控无关"
     }
    ]
   },
@@ -2240,6 +2240,110 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "$6.3 billion Binance hack is largest crypto theft on record",
+     "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+     "pubDate": "Fri, 30 Oct 2026 14:28:31 GMT",
+     "summary": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.",
+     "source": "CNBC",
+     "zh": "币安遭受黑客攻击，价值 63 亿美元，是有记录以来最大的加密货币盗窃案"
+    },
+    {
+     "title": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+     "link": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 14:22:00 GMT",
+     "summary": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
+     "source": "MarketWatch",
+     "zh": "这是美国有史以来最奇怪的就业市场。低雇佣、低火经济已经三岁了。"
+    },
+    {
+     "title": "Financials Q3 earnings roundup: Payment giants lead a week of EPS beats",
+     "link": "https://seekingalpha.com/news/4661396-financials-q3-earnings-roundup-payment-giants-lead-a-week-of-eps-beats?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 10:20:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "金融业第三季度财报综述：支付巨头引领一周每股收益超预期"
+    },
+    {
+     "title": "Investors pivot to safety as low-volatility stocks back in spotlight",
+     "link": "https://seekingalpha.com/news/4661419-investors-pivot-to-safety-as-low-volatility-stocks-back-in-spotlight?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 10:19:53 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "随着低波动性股票重新成为焦点，投资者转向安全"
+    },
+    {
+     "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+     "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 14:19:00 GMT",
+     "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
+     "source": "MarketWatch",
+     "zh": "英特尔财报揭示两大问题后，AMD 股价下跌"
+    },
+    {
+     "title": "Grande expectations: Starbucks back on the offense",
+     "link": "https://seekingalpha.com/news/4661403-grande-expectations-starbucks-back-on-the-offense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 10:17:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "寄予厚望：星巴克重拾进攻"
+    },
+    {
+     "title": "This one chart tells you everything you need to know about Exxon, Chevron and BP’s forecast-beating earnings",
+     "link": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 14:17:00 GMT",
+     "summary": "One slide in ExxonMobil’s investor presentation after its third-quarter earnings explains the financial situation for the integrated oil giants very neatly.",
+     "source": "MarketWatch",
+     "zh": "这张图表告诉您有关埃克森美孚、雪佛龙和英国石油公司超预期收益的所有信息"
+    },
+    {
+     "title": "科技股抛售加剧，美股低开低走，费半跌超6%，英特尔暴跌超30%，美债上涨，白银跌破50美元",
+     "link": "https://wallstreetcn.com/articles/3784816",
+     "pubDate": "Fri, 30 Oct 2026 22:16:04 +0800",
+     "summary": "美股期货连续第二日下跌，亚马逊与英特尔财报令市场大失所望，投资者对科技巨头斥巨资押注人工智能的回报前景愈发存疑。与此同时，避险需求推动美债和瑞郎走强。 美股盘初，纳指跌2.23%，标普500指数跌1.16%，道指跌0.28%。费城半导体大跌超6%，英特尔大跌超30%，创下2024年以来最大单日跌幅，公司Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限；铠侠ADR跌15%；AMD跌超10%，戴尔科技跌超12%；亚马逊股价下跌5.6%，公司三季度净销售2019亿美元不及预期，EPS同比下降3%至1.89美元。SpaceX下跌逾5%，至8月以来最低水平。英伟达跌3.3%。Coinba",
+     "source": "华尔街见闻",
+     "zh": "科技股抛售加剧，美股低开低走，费半跌超6%，英特尔暴跌超30%，美债上涨，白银跌破50美元"
+    },
+    {
+     "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+     "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 14:15:00 GMT",
+     "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+     "source": "MarketWatch",
+     "zh": "“他伤心欲绝”：我丈夫的孩子在他临死时抛弃了他。他把一切都留给我是对的吗？"
+    },
+    {
+     "title": "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
+     "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+     "pubDate": "Fri, 30 Oct 2026 14:13:20 GMT",
+     "summary": "Trump and JD Vance have canceled planned appearances across three states, reducing in-person campaigning in the final days before midterm elections.",
+     "source": "CNBC",
+     "zh": "特朗普和万斯取消了中期竞选最后阶段的露面计划"
+    },
+    {
+     "title": "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
+     "link": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 14:12:00 GMT",
+     "summary": "Several TikTokers influencers claim you can save money and be the coolest house on the block with bigger candy this year. Let’s see how that adds up.",
+     "source": "MarketWatch",
+     "zh": "这个万圣节，特大号的糖果比有趣的糖果更划算吗？"
+    },
+    {
+     "title": "Xponential Fitness jumps on report investor looking to purchase Club Pilates owner",
+     "link": "https://seekingalpha.com/news/4661421-xponential-fitness-jumps-on-report-investor-looking-to-purchase-club-pilates-owner?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 10:11:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Xponential Fitness 报告投资者寻求收购普拉提俱乐部所有者"
+    },
+    {
+     "title": "Why Intel’s stock is sinking toward its worst day in decades — and a $140 billion wipeout",
+     "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 14:10:00 GMT",
+     "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+     "source": "MarketWatch",
+     "zh": "为什么英特尔的股价正走向数十年来最糟糕的一天，并损失 1400 亿美元"
+    },
     {
      "title": "Realty Income Q3 earnings on deck: What to expect",
      "link": "https://seekingalpha.com/news/4661423-realty-income-q3-earnings-on-deck-what-to-expect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2257,52 +2361,60 @@
      "zh": "这10只非必需消费品股票10月份涨幅最大"
     },
     {
-     "title": "Wall Street's bloodbath continues as tech trade drags markets after discouraging earnings reports",
-     "link": "https://seekingalpha.com/news/4661415-news-sp500-nasdaq-composite-dow-jones-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 10:05:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "华尔街的大屠杀仍在继续，科技贸易在令人沮丧的收益报告后拖累市场"
+     "title": "【调研快报】曼卡龙接待浙江银万私募等74家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610303917177522.html",
+     "pubDate": "Fri, 30 Oct 2026 22:00:01 +0800",
+     "summary": "曼卡龙 10月30日公告称， 10月30日 接待浙江银万私募 等74家机构 调研。 接待人员包括董事长、总经理 孙松鹤,董事、副总经理 吴长峰,董事、财务负责人 王娟娟,副总经理、董事会秘书 许恬。 公司就以下问题进行了回复： \"一、介绍环节 公司副总经理兼董事会秘书许恬就公司2026年第三季度经营情况做了介绍。 二、问答环节 1、今年金价波动背景下,公司最新的对冲策略,及经营层面应对举措? 答:公司已于2026年上半年审议通过相关 黄金 存货套期保值议案,核心目标是对冲库存和在途 黄金 的价格波动风险,后续将根据... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资",
+     "source": "东方财富股票",
+     "zh": "【调研快报】曼卡龙接待浙江银万私募等74家机构调研"
     },
     {
-     "title": "Kenvue set to be delisted on Monday before open after Kimberly-Clark deal",
-     "link": "https://seekingalpha.com/news/4661418-kenvue-set-to-be-delisted-on-monday-before-open-after-kimberly-clark-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 09:57:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kimberly-Clark 交易完成后，Kenvue 将于周一开盘前退市"
+     "title": "埃克森美孚石油(XOM.N)CEO：没有关于卡塔尔液化天然气的最新消息",
+     "link": "http://stock.eastmoney.com/news/1611,202610303917176669.html",
+     "pubDate": "Fri, 30 Oct 2026 21:59:10 +0800",
+     "summary": "埃克森美孚 石油(XOM.N)CEO：没有关于卡塔尔液化 天然气 的最新消息。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "埃克森美孚石油(XOM.N)CEO：没有关于卡塔尔液化天然气的最新消息"
     },
     {
-     "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-     "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 13:49:00 GMT",
-     "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.",
-     "source": "MarketWatch",
-     "zh": "英特尔财报揭示两大问题后，AMD 股价下跌"
+     "title": "金价降了水贝卖爆了 水贝黄金门店销量翻番",
+     "link": "http://finance.eastmoney.com/news/1350,202610303917176327.html",
+     "pubDate": "Fri, 30 Oct 2026 21:58:57 +0800",
+     "summary": "下午3点，记者在水贝 黄金 市场看到，虽然是工作日，各大 黄金 柜台前依然人头攒动。金价下跌，激发了消费热情，不少店铺 黄金 饰品 的销售额都出现了明显增长。 水贝某珠宝零售门店负责人告诉记者，客户买大金镯子，都是往克重高了买。销售额跟上个月比，几近翻番。 与此同时，金价回落带动婚庆类黄金 饰品 消费升温，不少有婚庆需求的消费者趁价格回调前来选购，门店销售额大幅上涨。“这个月金价下来了，对比上个月来说，销售额增长了30%到40%。”除了婚庆刚需，羊年生肖类 饰品 也受到消费者青睐。“销量占比已多于生肖马饰品，占比达50%。” （文章来源：央视财经）",
+     "source": "东方财富股票",
+     "zh": "金价降了水贝卖爆了 水贝黄金门店销量翻番"
     },
     {
-     "title": "Chicago PMI indicated slower growth in October",
-     "link": "https://seekingalpha.com/news/4661408-chicago-pmi-moderates-in-october?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 09:47:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "芝加哥 PMI 数据显示 10 月份增长放缓"
+     "title": "加拿大8月GDP基本持平 三季度仍有望温和扩张",
+     "link": "http://finance.eastmoney.com/news/1352,202610303917176918.html",
+     "pubDate": "Fri, 30 Oct 2026 21:58:53 +0800",
+     "summary": "新华财经北京10月30日电 （王晓伟）加拿大统计局公布的2026年8月分行业实际国内生产总值（GDP）数据显示，当月整体实际GDP基本持平，20个细分行业中仅有9个行业实现扩张，这也是加拿大经济连续第二个月维持近乎零增长。 从两大产业大类来看，服务业产出小幅回落0.1%；商品生产行业微增0.1%，制造业与建筑业的增长抵消了 公用事业 板块的下滑。服务业内部，批发贸易、公共管理板块走弱，零售贸易的强势反弹部分对冲了下行压力。 8月加拿大零售贸易环比大涨1.2%，绝大多数细分业态均实现增长。 汽车 及零部件经销商领涨板块，环比上涨1.8%，新车经销商销售回暖； 食品饮料 零售环比上行1.3%，终结",
+     "source": "东方财富股票",
+     "zh": "加拿大8月GDP基本持平 三季度仍有望温和扩张"
     },
     {
-     "title": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-     "link": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 13:42:00 GMT",
-     "summary": "Nearly nine in 10 voters — 88% — say they worry the national debt is adding to their own borrowing costs.",
-     "source": "MarketWatch",
-     "zh": "随着选民为昂贵的汽车贷款、抵押贷款和信用卡债务而苦苦挣扎，货币成本本身也受到关注"
+     "title": "俄罗斯计划延长柴油出口禁令，同时保留部分豁免",
+     "link": "http://finance.eastmoney.com/news/1351,202610303917175751.html",
+     "pubDate": "Fri, 30 Oct 2026 21:57:10 +0800",
+     "summary": "俄罗斯计划将大部分柴油出口禁令延长至2027年1月，但根据总统普京与美国总统特朗普达成的协议，仍将允许部分柴油流向国际市场。俄罗斯塔斯社援引副总理诺瓦克的说法报道称，政府目前正在起草一项命令，将柴油出口禁令延长三个月。诺瓦克表示：“不过，与此前一样，面向国际市场的供应仍将获得部分豁免。”诺瓦克表示，俄罗斯计划下月出口约215万吨柴油，高于本月的51万吨。不过，诺瓦克还表示，如果国内市场供应充足，俄罗斯到年底时每月柴油出口量可能增至350万吨。这将使俄罗斯在全球海运柴油贸易中的份额恢复至约10%。但这一目标能否实现，取决于乌克兰方面的行动。乌克兰对俄罗斯炼油厂的袭击，正是俄罗斯今年7月重新实施出",
+     "source": "东方财富股票",
+     "zh": "俄罗斯计划延长柴油出口禁令，同时保留部分豁免"
     },
     {
-     "title": "Marvell deal for Lumentum won't be at a big premium - CNBC",
-     "link": "https://seekingalpha.com/news/4661413-marvell-deal-for-lumentum-wont-be-at-a-big-premium-cnbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 09:41:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Marvell 收购 Lumentum 的交易溢价不会太高 - CNBC"
+     "title": "小米入局欣旺达动力 欣旺达丧失控制权",
+     "link": "http://finance.eastmoney.com/news/1354,202610303917173988.html",
+     "pubDate": "Fri, 30 Oct 2026 21:57:10 +0800",
+     "summary": "10月29日， 欣旺达 （300207.SZ）公告披露，其子公司 欣旺达 动力科技股份有限公司（以下简称“ 欣旺达 动力”）引入小米科技有限责任公司全资子公司瀚星创业投资有限公司作为股东。 根据公告，小米方面出资17亿元向欣旺达动力增资，认购欣旺达动力8.98亿元新增注册资本，对应增资完成后欣旺达动力5.34%的股份。本次增资完成后，欣旺达对欣旺达动力的持股比例将由24.06%下降至22.78%。与此同时，欣旺达动力将进行董事会换届选举，本次增资扩股及选举完成后，欣旺达在欣旺达动力的董事会席位将不超过半数。根据相关规定，欣旺达将不再对欣旺达动力拥有控制权，欣旺达动力将由控股子公司变更为参股子公",
+     "source": "东方财富股票",
+     "zh": "小米入局欣旺达动力 欣旺达丧失控制权"
+    },
+    {
+     "title": "纳指跌超2% 费城半导体指数跌近6% 英特尔重挫30%",
+     "link": "http://finance.eastmoney.com/news/1345,202610303917048837.html",
+     "pubDate": "Fri, 30 Oct 2026 21:57:10 +0800",
+     "summary": "10月30日，美股三大指数集体下跌，截至发稿，道指跌0.70%，纳指跌2.58%，标普500指数跌1.48%。 科技股大跌，截至发稿， 费城 半导体 指数跌超6%， 英特尔 股价重挫近30%。 英特尔 公布的最新财报中，给出第四季度的业绩指引偏弱，并声称主要原因是全球PC市场持续低迷。 全球要闻 特朗普称伊朗战争很快结束 美国总统特朗普10月30日在接受一档电台节目采访时称，对伊朗战争“很快就会结束，无论如何都会很快结束”。特朗普称，伊朗必须达成协议，“而且我们要得到保证，即伊朗永远不会拥有核武器”。 美媒曝：特朗普施压下乌克兰已暂停袭击俄罗斯炼油厂 据美国《华尔街日报》当地时间10月29日报",
+     "source": "东方财富资讯",
+     "zh": "纳指跌超2% 费城半导体指数跌近6% 英特尔重挫30%"
     },
     {
      "title": "Binance halts withdrawals after record $6.3bn heist",
@@ -2313,28 +2425,12 @@
      "zh": "币安在创纪录的 63 亿美元盗窃案后停止提款"
     },
     {
-     "title": "科技股抛售加剧，美股集体低开，纳指跌超2%，英特尔大跌超26%，美债上涨，白银跌破50美元",
-     "link": "https://wallstreetcn.com/articles/3784816",
-     "pubDate": "Fri, 30 Oct 2026 21:33:51 +0800",
-     "summary": "美股期货连续第二日下跌，亚马逊与英特尔财报令市场大失所望，投资者对科技巨头斥巨资押注人工智能的回报前景愈发存疑。与此同时，避险需求推动美债和瑞郎走强。 美股盘初，纳指跌2.23%，标普500指数跌1.16%，道指跌0.28%。英特尔大跌超26%，创下2024年以来最大单日跌幅，公司Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限；AMD跌超10%，戴尔科技跌超12%；亚马逊股价下跌5.6%，市值势将蒸发1420亿美元，公司三季度净销售2019亿美元不及预期，EPS同比下降3%至1.89美元。SpaceX 股份下跌逾5%，至8月以来最低水平。Coinbase下跌9.1%，STRA",
-     "source": "华尔街见闻",
-     "zh": "科技股抛售加剧，美股集体低开，纳指跌超2%，英特尔大跌超26%，美债上涨，白银跌破50美元"
-    },
-    {
      "title": "&apos;Bad time to troll&apos;: Binance cofounder Changpeng Zhao asks Elon Musk for &apos;respect&apos; after post about bitcoin hack",
      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
      "pubDate": "Fri, 30 Oct 2026 13:29:34 GMT",
      "summary": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
      "source": "CNBC",
      "zh": "“恶搞的时机不好”：币安联合创始人赵长鹏在发布有关比特币黑客攻击的帖子后请求埃隆·马斯克“尊重”"
-    },
-    {
-     "title": "Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat",
-     "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 13:26:00 GMT",
-     "summary": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
-     "source": "MarketWatch",
-     "zh": "Z 世代选民告诉我们，中期选举归根结底是为了保障生活，社会事业退居二线"
     },
     {
      "title": "ECB picks digital euro network service providers",
@@ -2353,36 +2449,20 @@
      "zh": "我们对币安 63 亿美元黑客事件的了解"
     },
     {
-     "title": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
-     "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 13:16:00 GMT",
-     "summary": "After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
-     "source": "MarketWatch",
-     "zh": "在利率不断攀升的情况下，这张信用卡是对抗债务的“最佳武器”"
+     "title": "复盘历轮调整周期 机构：A股已现底部特征",
+     "link": "http://finance.eastmoney.com/news/11137,202610303916974085.html",
+     "pubDate": "Fri, 30 Oct 2026 21:00:10 +0800",
+     "summary": "近期A股持续调整，不过，回顾A股历轮调整， 本次调整幅度已逼近历史极值 。 招商证券 近日指出，A股多项指标已接近历史底部特征。 东方财富 Choice数据显示，自2026年下半年高点算起， 上证指数本轮回撤14.4%，沪深300回撤21.8%，创业板指回撤44.9%，科创50回撤48.6% 。 值得注意的是，创业板指本轮44.9%的跌幅，已经超过了2018年整轮的38.2%；科创50本轮48.6%的回撤，也仅次于2021-2024年长调整。换句话说， 成长风格的回撤正接近历史极值区间 。 招商证券 表示， 综合 来看，流动性指标接近历史底部区间，稳市场政策陆续推进，基本面的正向驱动仍在， A",
+     "source": "东方财富资讯",
+     "zh": "复盘历轮调整周期 机构：A股已现底部特征"
     },
     {
-     "title": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
-     "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 13:15:00 GMT",
-     "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-     "source": "MarketWatch",
-     "zh": "我父亲患有早期阿尔茨海默氏症，他的护理人员正在使用他的借记卡购买 DoorDash。我能做些什么？"
-    },
-    {
-     "title": "Bitcoin slides after crypto’s nightmare scenario: a historic $6.3 billion heist",
-     "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 13:13:00 GMT",
-     "summary": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
-     "source": "MarketWatch",
-     "zh": "加密货币的噩梦场景：历史性的 63 亿美元抢劫案后，比特币下跌"
-    },
-    {
-     "title": "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft",
-     "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-     "pubDate": "Fri, 30 Oct 2026 13:11:14 GMT",
-     "summary": "The company later added it began recovering assets impacted by the breach after pledging to cover losses using its Secure Asset Fund for Users.",
-     "source": "CNBC",
-     "zh": "黑客从币安窃取了 63 亿美元，这是有史以来最大的加密货币盗窃案"
+     "title": "10月30日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202610303916937179.html",
+     "pubDate": "Fri, 30 Oct 2026 21:00:00 +0800",
+     "summary": "热点聚焦 证监会定调 ： 中国证监会党委书记、主席吴清10月30日主持召开党委（扩大）会议。会议要求，充分发挥全面从严治党的政治引领和政治保障作用， 牢固树立大局意识、系统观念，全力稳市场稳预期 ，深化投融资 综合 改革，完善全链条监管体系，持续提升资本市场韧性和信心，确保“十五五”开局之年资本市场各项任务圆满完成。 央行会议 ： 中国人民 银行 党委书记、行长潘功胜主持召开党委会议。会议强调，以更高标准更实举措贯彻落实党中央关于金融工作的重大部署。 继续实施适度宽松的货币政策， 综合 运用多种货币政策工具，保持流动性充裕 。做好金融“五篇大文章”，加快建设多层次现代化金融市场体系，提升金融服",
+     "source": "东方财富资讯",
+     "zh": "10月30日东方财富财经晚报（附新闻联播）"
     },
     {
      "title": "美国中期选举临近，这是高盛的交易指南",
@@ -2399,86 +2479,6 @@
      "summary": "当一个系统每天占据未成年人两三个小时，深度参与他们的时间感、因果观、自我认同的塑造时，它就不能只用\"用户自愿、商业合规\"这把尺子给自己量身高。",
      "source": "经济观察网",
      "zh": "心理观察｜当“字节时间”成为一代人的心理环境"
-    },
-    {
-     "title": "Binance&apos;s $6.3 billion hack: What we know and what comes next",
-     "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-     "pubDate": "Fri, 30 Oct 2026 12:38:53 GMT",
-     "summary": "Billions in crypto assets have been frozen following a potential Binance security breach, raising questions about whether the funds can be recovered.",
-     "source": "CNBC",
-     "zh": "币安 63 亿美元的黑客攻击：我们所知道的以及接下来会发生什么"
-    },
-    {
-     "title": "Sustainable Finance Live: Wonky Harvest and Lloyds Banking Group win 2026 Hackathon",
-     "link": "https://www.finextra.com/newsarticle/48677/sustainable-finance-live-wonky-harvest-and-lloyds-banking-group-win-2026-hackathon?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 30 Oct 2026 12:28:00 GMT",
-     "summary": "Team 8: Wonky Harvest and Team 9: Lloyds Banking Group have been crowned the winners of the Sustainable Finance Hackathon 2026.",
-     "source": "Finextra",
-     "zh": "可持续金融直播：Wonky Harvest 和劳埃德银行集团赢得 2026 年黑客马拉松"
-    },
-    {
-     "title": "美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年",
-     "link": "https://wallstreetcn.com/articles/3784877",
-     "pubDate": "Fri, 30 Oct 2026 20:26:48 +0800",
-     "summary": "AI超大规模资本开支激增正与债券市场的结构性压力形成正面碰撞，令科技股牛市承压。美银美林最新资金流向报告指出，这一矛盾短期内难以化解，真正的风险资产解压窗口或需等到2027年上半年。 据美银美林全球投资策略团队10月29日发布的《Flow Show》周报， AI超大规模云计算企业（hyperscaler）的债务发行规模在2026年已达1820亿美元，较2024年的170亿美元急剧膨胀，由此引发的债券供给冲击正在压制科技债表现——美国投资级科技债相对于整体投资级债券指数的总回报已跌至30年低点。 与此同时，过去六个月全球央行累计加息42次，美元走强、美债收益率上行、科技股领涨势头明显受阻，纳斯达",
-     "source": "华尔街见闻",
-     "zh": "美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年"
-    },
-    {
-     "title": "布油触及半年新高，市场严阵以待，中选后海湾局势或将升温",
-     "link": "https://wallstreetcn.com/articles/3784880",
-     "pubDate": "Fri, 30 Oct 2026 20:22:09 +0800",
-     "summary": "布伦特原油价格周五攀升至六个月高位，霍尔木兹海峡商业船只遭袭与沙特能源设施受到攻击的消息叠加外交僵局，令市场对美国中期选举后海湾冲突再度升级的担忧急剧升温。 布伦特原油1月期货周五早盘触及每桶118美元，创下六个月新高。 特朗普一直在考量是否重启针对伊朗的打击行动。据央视新闻报道，特朗普近日表示， 美国或许会再来一次小规模的“史诗怒火”行动 。另据环球时报， 打击时间有可能定在下周二中期选举结束之后。 与此同时，副总统JD Vance本周致函伊朗最高领导层，迄今尚未收到任何回应。 外交渠道的停滞与地缘风险的叠加正在向市场传导。瑞银能源专家Dominic Ellis指出，霍尔木兹海峡新一轮船只袭",
-     "source": "华尔街见闻",
-     "zh": "布油触及半年新高，市场严阵以待，中选后海湾局势或将升温"
-    },
-    {
-     "title": "宁波银行发布三季报：营收利润两位数增长，总资产首破4万亿",
-     "link": "https://wallstreetcn.com/articles/3784879",
-     "pubDate": "Fri, 30 Oct 2026 19:59:29 +0800",
-     "summary": "城商行“领跑者”宁波银行，日前发布三季报。 三季报显示，2026年1-9月，宁波银行实现营业收入612.12亿元，同比增长11.34%；实现归母净利润251.49亿元，同比增长12.05%，营收与净利润均保持两位数增长。截至9月末，该行总资产达4.097万亿元，较年初增长12.92%，首次突破4万亿元。 规模站上新台阶的同时，该行盈利端也出现积极变化：利息净收入保持较快增长，净息差较上半年企稳，中间业务收入增势较好；资产质量总体稳定，在诸多同行中率先迈开稳步增长的步伐。 利息净收入同比增长14.03% 细看财报，今年前三季度，宁波银行实现利息净收入450.39亿元，同比增长14.03%，存贷业",
-     "source": "华尔街见闻",
-     "zh": "宁波银行发布三季报：营收利润两位数增长，总资产首破4万亿"
-    },
-    {
-     "title": "AI最危险的交易或许不在科技股，而在美元",
-     "link": "https://wallstreetcn.com/articles/3784878",
-     "pubDate": "Fri, 30 Oct 2026 19:53:32 +0800",
-     "summary": "当AI泡沫开始消退，最大的风险可能不是纳斯达克回调，而是美元崩塌。外国投资者持有逾20万亿美元的美国股票资产，一旦AI驱动的抛售引发股市与美元同步下跌，市场将面临远超技术性修正的宏观冲击。 德意志银行警告，AI抛售潮可能触发美国股市、货币对冲与美元之间的危险反馈循环。与以往科技股回调不同，这一次美元的传统避险属性正受到根本质疑——强美元未必能再充当外国投资者的损失缓冲垫。 如果纳斯达克、美元指数（DXY）与美国实际利率三者同步下行，市场正在定价的将不仅是仓位的技术性调整，而是对整个AI繁荣周期的系统性重估。这意味着下一轮AI抛售，有可能演变为一场美元危机。 20万亿美元的脆弱敞口 据德意志银行",
-     "source": "华尔街见闻",
-     "zh": "AI最危险的交易或许不在科技股，而在美元"
-    },
-    {
-     "title": "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
-     "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-     "pubDate": "Fri, 30 Oct 2026 11:35:51 GMT",
-     "summary": "Diesel prices have surged globally as Ukraine and Iran have bombed refineries in Russia and the Middle East.",
-     "source": "CNBC",
-     "zh": "雪佛龙和埃克森美孚盈利超出预期，炼油利润因柴油价格高企而飙升"
-    },
-    {
-     "title": "Apple Pay and Google Pay launch in Uzbekistan",
-     "link": "https://www.finextra.com/newsarticle/48676/apple-pay-and-google-pay-launch-in-uzbekistan?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 30 Oct 2026 11:35:00 GMT",
-     "summary": "Uzbekistan has announced the arrival of Apple Pay and Google Pay into its banking system as the central Asian nation looks to open up its financial services.",
-     "source": "Finextra",
-     "zh": "Apple Pay 和 Google Pay 在乌兹别克斯坦推出"
-    },
-    {
-     "title": "传统外贸人，转型出口机器人和算力产品",
-     "link": "http://www.eeo.com.cn/2026/1030/1080135.shtml",
-     "pubDate": "Fri, 30 Oct 2026 19:30:00 +0800",
-     "summary": "廖停英说，最初喜欢购买酒店送餐机器人、酒店清洗机器人的，主要是欧美国际酒店客户，其目的是降低人工成本。近年来，随着东南亚与非洲经济发展较快，当地酒店对服务类机器人的需求开始增加。",
-     "source": "经济观察网",
-     "zh": "传统外贸人，转型出口机器人和算力产品"
-    },
-    {
-     "title": "How North Korea became a hacking superpower",
-     "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
-     "pubDate": "Fri, 30 Oct 2026 11:20:19 GMT",
-     "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
-     "source": "Financial Times",
-     "zh": "朝鲜如何成为黑客超级大国"
     }
    ]
   },

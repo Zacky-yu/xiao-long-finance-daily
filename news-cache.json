@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-10-30T13:10:33.144Z",
+  "generatedAt": "2026-10-30T13:20:06.919Z",
   "count": 40,
   "items": [
+    {
+      "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+      "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 13:17:00 GMT",
+      "content": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.",
+      "source": "US",
+      "category": "半导体"
+    },
+    {
+      "title": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
+      "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 13:16:00 GMT",
+      "content": "After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
+      "source": "FED",
+      "category": "美联储"
+    },
+    {
+      "title": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
+      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 13:15:00 GMT",
+      "content": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "Bitcoin slides after crypto’s nightmare scenario: a historic $6.3 billion heist",
+      "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "pubDate": "Fri, 30 Oct 2026 13:13:00 GMT",
+      "content": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
+      "source": "US",
+      "category": "全球综合"
+    },
     {
       "title": "This one chart tells you everything you need to know about Exxon, Chevron and BP’s forecast-beating earnings",
       "link": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
@@ -49,38 +81,6 @@
       "content": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
       "source": "US",
       "category": "美股市场"
-    },
-    {
-      "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar-revenue businesses",
-      "link": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 10:34:00 GMT",
-      "content": "Amazon chief executive Andy Jassy set a bold target on the conference call announcing third-quarter earnings.",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 10:15:00 GMT",
-      "content": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack",
-      "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 09:50:00 GMT",
-      "content": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
-      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "pubDate": "Fri, 30 Oct 2026 09:15:00 GMT",
-      "content": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-      "source": "US",
-      "category": "全球综合"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

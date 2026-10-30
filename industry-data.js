@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 02:44:48",
+ "generated_at": "2026/10/31 02:49:10",
  "recent_days": 7,
  "industries": [
   {
@@ -23,7 +23,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
      "source": "TechCrunch AI",
-     "zh": "Zest 的新 AI 代理可以通过短信查找餐厅和预订"
+     "zh": "Zest 的新人工智能代理通过短信查找餐厅并预订"
     },
     {
      "title": "Google’s first data center satellite is online and writing poetry",
@@ -31,7 +31,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
      "source": "TechCrunch AI",
-     "zh": "谷歌首颗数据中心卫星上线并正在写诗"
+     "zh": "谷歌第一颗数据中心卫星上线并正在写诗"
     },
     {
      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
@@ -39,7 +39,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
      "source": "TechCrunch AI",
-     "zh": "Theranos 举报人泰勒·舒尔茨警告说，人工智能的繁荣是“欺骗人们的绝佳机会”"
+     "zh": "Theranos 举报人泰勒·舒尔茨 (Tyler Shultz) 警告称，人工智能的繁荣是“欺骗人们的绝佳机会”"
     },
     {
      "title": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案",
@@ -319,7 +319,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 14:00:00 GMT",
      "summary": "The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons in its lab to find ways to make AI models more efficient, launched its first publicly available product on October 30: mischief 1, an image-to-video model the company says generates video five times faster than the",
      "source": "DIGITIMES",
-     "zh": "从活体神经元到企业人工智能：TBC 利用 AWS 追求更快的视频生成"
+     "zh": "从活体神经元到企业 AI：TBC 利用 AWS 追求更快的视频生成"
     },
     {
      "title": "How AI is Reshaping Semiconductor Design and Manufacturing",
@@ -343,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 10:27:30 +0000",
      "summary": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
      "source": "Electronics Weekly",
-     "zh": "泰雷兹阿莱尼亚航天公司赢得另外两颗伽利略卫星的合同"
+     "zh": "泰雷兹阿莱尼亚宇航公司赢得另外两颗伽利略卫星的合同"
     },
     {
      "title": "Honda targets Level 4 autonomy by 2027, AI maps by 2030",
@@ -359,7 +359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 09:34:14 GMT",
      "summary": "Micron Technology paid its fiscal 2026 bonuses to Taiwan employees on October 30. The company said more than 700 production-line workers earned at least five years' worth of monthly salary in total pay for the year. The payout comes while the union at its Taoyuan fab is still rejecting the company's",
      "source": "DIGITIMES",
-     "zh": "美光称700多名台湾晶圆厂工人一年挣五年工资"
+     "zh": "美光称700多名台湾晶圆厂工人一年工资相当于五年"
     },
     {
      "title": "Realtek targets 30% AI revenue share by 2030",
@@ -447,7 +447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 16:20:34 +0000",
      "summary": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Samsung Electronics Posts $80B Operating Profit on AI Memory Demand appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "三星电子因 AI 内存需求实现运营利润 80B 美元"
+     "zh": "三星电子因 AI 内存需求实现营业利润 80B 美元"
     },
     {
      "title": "How Vision and Connectivity Enable Autonomous Agriculture",
@@ -967,7 +967,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
+     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1575,7 +1575,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 20:47:28 +0530",
      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can e",
      "source": "The Hacker News",
-     "zh": "TeamViewer 漏洞可让远程计算机攻击连接控制它们的用户"
+     "zh": "TeamViewer 漏洞可让远程计算机攻击连接并控制它们的用户"
     },
     {
      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
@@ -2031,7 +2031,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:58:04 +0000",
      "summary": "Friday’s best Google Play app and game deals are ready, including Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, RPG Silver Nornir, Witchcraft!, Lovecraft’s Untold Stories, Angelo and Deemon (Full), and more. The Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as well as",
      "source": "9to5Google",
-     "zh": "周五的 Android 应用优惠和免费赠品：Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2 等"
+     "zh": "周五的 Android 应用优惠和赠品：Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2 等"
     },
     {
      "title": "Pixel 11 hits record-low price with $200 discount",
@@ -2242,12 +2242,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "&apos;Bad time to troll&apos;: Binance co-founder Zhao asks Musk for support after hack",
+     "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+     "pubDate": "Fri, 30 Oct 2026 18:47:42 GMT",
+     "summary": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
+     "source": "CNBC",
+     "zh": "“喷子的时机不好”：币安联合创始人赵在黑客攻击后向马斯克寻求支持"
+    },
+    {
+     "title": "Exelon outlines $12B-$17B transmission and $3B-$7B storage upside while narrowing 2026 EPS to $2.85-$2.91",
+     "link": "https://seekingalpha.com/news/4661643-exelon-outlines-12b-17b-transmission-and-3b-7b-storage-upside-while-narrowing-2026-eps-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 14:44:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Exelon 概述了 12B-17B 美元的传输和 3B-7B 美元的存储上涨空间，同时将 2026 年 EPS 缩小至 2.85-2.91 美元"
+    },
+    {
      "title": "‘AI is the least knowable, least predictable thing; don’t take signals from the market’ – Oaktree Capital’s Howard Marks",
      "link": "https://seekingalpha.com/news/4661642-ai-is-the-least-knowable-least-predictable-thing-don-t-take-signals-from-the-market-oaktree?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 30 Oct 2026 14:42:49 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "“人工智能是最不可知、最不可预测的事物；不要接受市场信号”——橡树资本的霍华德·马克斯"
+    },
+    {
+     "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917305460.html",
+     "pubDate": "Sat, 31 Oct 2026 02:41:08 +0800",
+     "summary": "当地时间10月30日，美国驻沙特大使馆表示，美国国务院下令非紧急岗位工作人员及其家属离开沙特阿拉伯，该命令自10月23日起生效。大使馆称，此举是出于安全风险。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "美使馆称美国务院已要求非紧急岗位人员离开沙特"
     },
     {
      "title": "Hamilton expects low double-digit premium growth while keeping its cat plan at 6%-7%",
@@ -2282,12 +2306,28 @@ window.INDUSTRY_DATA = {
      "zh": "收购 Premiere Torque Rings 后，Forum Energy 将 2026 年收入预期上调至 9 亿至 9.2 亿美元"
     },
     {
-     "title": "Pebblebrook forecasts 2026 same-property RevPAR growth of 7.6% to 8% while raising adjusted FFO to $1.88 to $1.92 per share",
-     "link": "https://seekingalpha.com/news/4661637-pebblebrook-forecasts-2026-same-property-revpar-growth-of-7_6-percent-to-8-percent-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 14:40:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pebblebrook 预测 2026 年同物业 RevPAR 增长 7.6% 至 8%，同时将调整后的 FFO 提高至每股 1.88 美元至 1.92 美元"
+     "title": "多佛公司 ：将招标上限从 2.3 亿美元上调至 3 亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917305091.html",
+     "pubDate": "Sat, 31 Oct 2026 02:40:05 +0800",
+     "summary": "多佛公司 ：将招标上限从 2.3 亿美元上调至 3 亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "多佛公司 ：将招标上限从 2.3 亿美元上调至 3 亿美元"
+    },
+    {
+     "title": "多佛宣布提高其要约收购上限，并延长此前宣布的以现金购买其部分未偿债务证券的要约的到期日",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917304924.html",
+     "pubDate": "Sat, 31 Oct 2026 02:40:04 +0800",
+     "summary": "多佛宣布提高其要约收购上限，并延长此前宣布的以现金购买其部分未偿债务证券的要约的到期日。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "多佛宣布提高其要约收购上限，并延长此前宣布的以现金购买其部分未偿债务证券的要约的到期日"
+    },
+    {
+     "title": "美国上诉法院驳回了司法部的再次请求",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917304818.html",
+     "pubDate": "Sat, 31 Oct 2026 02:40:03 +0800",
+     "summary": "美国上诉法院驳回了司法部的再次请求，该请求旨在暂时阻止加利福尼亚州统计来自20,000名被指控为非公民的邮寄选票。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国上诉法院驳回了司法部的再次请求"
     },
     {
      "title": "美国原油期货结算价创下9月15日以来最高收盘水平",
@@ -2306,44 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "WTI 12月原油期货收报104.12美元/桶"
     },
     {
-     "title": "哥伦比亚央行利率决议获得七名董事会成员的多数支持",
-     "link": "http://finance.eastmoney.com/news/1351,202610313917304471.html",
-     "pubDate": "Sat, 31 Oct 2026 02:37:52 +0800",
-     "summary": "哥伦比亚央行利率决议获得七名董事会成员的多数支持。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "哥伦比亚央行利率决议获得七名董事会成员的多数支持"
-    },
-    {
-     "title": "黑石下调Anthropic评级预期供应商信用担保重要性上升",
-     "link": "http://stock.eastmoney.com/news/1611,202610313917304749.html",
-     "pubDate": "Sat, 31 Oct 2026 02:35:36 +0800",
-     "summary": "据英国《金融时报》援引知情人士报道， 黑石集团 向投资者表示，Anthropic上市后可能无法立即获得投资级信用评级，预计更可能获得双B级或以上评级，较此前预计其年底前获得投资级评级的判断有所转变。由于部分保险公司和 养老金 基金受到投资限制，难以大规模持有垃圾级债务，Anthropic未来融资渠道可能受到限制，并可能继续依赖高信用评级供应商为其债务融资提供支持。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "黑石下调Anthropic评级预期供应商信用担保重要性上升"
-    },
-    {
      "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
      "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
      "pubDate": "Fri, 30 Oct 2026 18:32:17 GMT",
      "summary": "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.",
      "source": "CNBC",
      "zh": "里德霍夫曼在爱泼斯坦与选举中的斗争中向民主党提供了数百万美元的后期支出狂潮"
-    },
-    {
-     "title": "未来支出承诺8830亿美元压力大 亚马逊再开高达800亿融资渠道助力AI扩张",
-     "link": "http://stock.eastmoney.com/news/1611,202610313917304321.html",
-     "pubDate": "Sat, 31 Oct 2026 02:31:16 +0800",
-     "summary": "在AI基础设施投入持续膨胀、未来支出承诺升至8830亿美元之际， 亚马逊 披露最高800亿美元的供应商融资贷款工具，为持续大举投入AI提供新的资金弹性。 据 亚马逊 向美国证监会SEC提交的季度文件，公司可在2027年初至2028年第三季度期间自主决定是否动用这项融资安排，贷款将以部分相关采购资产作为抵押。 亚马逊 此前主要依靠经营现金流和债券发行支持 数据中心 建设及芯片采购，此次进一步拓展融资渠道，凸显AI基础设施扩张对资金筹措和现金流管理提出的更高要求。 新增最高800亿美元贷款工具，硬件采购可抵押融资 据报道，亚马逊此次设立的融资安排允许公司围绕技术基础设施资产采购获得最高800亿美元",
-     "source": "东方财富股票",
-     "zh": "未来支出承诺8830亿美元压力大 亚马逊再开高达800亿融资渠道助力AI扩张"
-    },
-    {
-     "title": "多赚3900亿！A股三季报全榜单来了",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917304170.html",
-     "pubDate": "Sat, 31 Oct 2026 02:30:02 +0800",
-     "summary": "多赚3900亿！A股三季报全榜单来了 A股2026年三季报披露收官。 截至10月31日，A股公司中已有5572家披露了2026年三季报，合计实现营收56.66万亿元，同比上涨5.66%，增速较中报有所回落，中报同比上涨7.63%；归母净利润5.10万亿元，比上年同期增加3906.46亿元，同比上涨8.30%，中报同比上涨19.40%。 其中4076家实现盈利（占比73.15%），比中报减少61家；2657家归母净利润同比增长（占比47.68%），比中报减少162家。 科创板利润大涨476% 分板块来看，2026年前三季度沪深主板实现归母净利润45540.95亿元，同比增长2.86%；创业板实现",
-     "source": "东方财富股票",
-     "zh": "多赚3900亿！A股三季报全榜单来了"
     },
     {
      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
@@ -2360,6 +2368,14 @@ window.INDUSTRY_DATA = {
      "summary": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
      "source": "CNBC",
      "zh": "油轮无视伊朗袭击的急剧升级，以保持原油流经霍尔木兹海峡"
+    },
+    {
+     "title": "PE firm CD&R targets buyout of $40bn Global Payments - FT",
+     "link": "https://www.finextra.com/newsarticle/48681/pe-firm-cdr-targets-buyout-of-40bn-global-payments---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 30 Oct 2026 18:15:00 GMT",
+     "summary": "Global Payments, the payments processor with an enterprise value of around $40 billion, is an acquisition target for private equity firm CD&R, according to the Financial Times.",
+     "source": "Finextra",
+     "zh": "私募股权公司 CD&R 目标收购 400 亿美元的 Global Payments - FT"
     },
     {
      "title": "纳指跌超3% 费城半导体指数跌超8% 英特尔暴跌超30%",
@@ -2442,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "财政部宣布未来六个月新的 I 系列债券利率为 5.51%"
     },
     {
-     "title": "&apos;Bad time to troll&apos;: Binance cofounder Changpeng Zhao asks Elon Musk for &apos;respect&apos; after post about bitcoin hack",
-     "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-     "pubDate": "Fri, 30 Oct 2026 17:12:59 GMT",
-     "summary": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
-     "source": "CNBC",
-     "zh": "“恶搞的时机不好”：币安联合创始人赵长鹏在发布有关比特币黑客攻击的帖子后请求埃隆·马斯克“尊重”"
-    },
-    {
      "title": "The effects of a midterm ‘blue wave’ will be felt for years",
      "link": "https://www.ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f",
      "pubDate": "Fri, 30 Oct 2026 17:00:04 GMT",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "经济观察报 第1294期",
      "source": "经济观察网",
      "zh": "经济观察报 第1294期"
-    },
-    {
-     "title": "宁德时代与蔚来的换电大战",
-     "link": "http://www.eeo.com.cn/2026/1030/1080154.shtml",
-     "pubDate": "Fri, 30 Oct 2026 22:28:54 +0800",
-     "summary": "前后不到一个月时间，原本不温不火的换电赛道骤然升温。换电赛道也从此形成了由宁德时代和蔚来主导的两大联盟。这两大联盟，在换电标准、商业模式层面展开了多方位的竞合博弈。",
-     "source": "经济观察网",
-     "zh": "宁德时代与蔚来的换电大战"
     }
    ]
   },
@@ -2567,7 +2567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 08:12:46 EDT",
      "summary": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercis",
      "source": "ScienceDaily",
-     "zh": "2 型糖尿病取得突破，54% 在短短 6 个月内获得缓解"
+     "zh": "2 型糖尿病取得突破性进展，54% 的患者在短短 6 个月内获得缓解"
     },
     {
      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",

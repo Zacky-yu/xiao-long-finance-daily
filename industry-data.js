@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/30 16:29:52",
+ "generated_at": "2026/10/30 16:49:56",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
-     "link": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
-     "pubDate": "Fri, 30 Oct 2026 07:26:12 +0000",
-     "summary": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. The post Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 ",
-     "source": "MarkTechPost",
-     "zh": "Samaya AI 发布 Sterling：一种 3B-Active 金融研究代理模型，在 FrontierFinance 上以 11 倍的成本击败 Claude Fable 5.1"
-    },
     {
      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
      "link": "https://www.qbitai.com/2026/10/506686.html",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights. The post Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech appeared firs",
      "source": "MarkTechPost",
      "zh": "Block 推出 Dessa，一种仅接受语音训练的全双工语音模型"
+    },
+    {
+     "title": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
+     "link": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
+     "pubDate": "Thu, 29 Oct 2026 07:28:36 +0000",
+     "summary": "AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and supports 6 languages at launch. The post AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Vo",
+     "source": "MarkTechPost",
+     "zh": "AssemblyAI 推出 AssemblyAI-TTS-1：用于语音代理的每 100 万字符文本转语音 API 售价 15 美元"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "First Solar licensing CubicPV’s US patents for perovskite solar technology",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/firstsolar-301026.shtml",
+     "pubDate": "Fri, 30 Oct 2026 08:35:59 GMT",
+     "summary": "Cadmium telluride (CdTe) thin-film photovoltaic (PV) module maker First Solar Inc of Tempe, AZ, USA has signed a non-exclusive licensing agreement granting it access to the issued and pending US patents covering perovskite solar technology of CubicPV Inc of Bedford, MA, USA...",
+     "source": "Semiconductor Today",
+     "zh": "First Solar 授权 CubicPV 的美国钙钛矿太阳能技术专利"
+    },
     {
      "title": "Wolfspeed launches transparent silicon carbide technology for AR and quantum computing",
      "link": "https://semiconductor-today.com/news_items/2026/oct/wolfspeed-301026.shtml",
@@ -314,60 +322,12 @@ window.INDUSTRY_DATA = {
      "zh": "金炮瞄准电源柜、BBU 布局人工智能相关业务"
     },
     {
-     "title": "BEAMA sets up power grid group",
-     "link": "https://www.electronicsweekly.com/news/business/beama-sets-up-power-grid-group-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 06:14:18 +0000",
-     "summary": "BEAMA has launched a new group for UK companies delivering power grid infrastructure, including those working in civil engineering, construction, design, specification and wider services. The Electricity Networks Infrastructure (ENI) […] The post BEAMA sets up power grid group appeared first on Elec",
-     "source": "Electronics Weekly",
-     "zh": "BEAMA成立电网集团"
-    },
-    {
-     "title": "Intel Q4 forecast disappoints",
-     "link": "https://www.electronicsweekly.com/news/business/intel-q3-disappoints-stock-falls-20-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 06:13:45 +0000",
-     "summary": "Intel’s Q3 revenue was $16.5 billion, up 21% YoY. Q4 revenue was forecast at $15 billion to $16 billion; “Our Q3 results demonstrate improving execution, meaningful progress expanding supply and […] The post Intel Q4 forecast disappoints appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "英特尔第四季度预测令人失望"
-    },
-    {
-     "title": "Nordic demo-es Bluetooth HDT",
-     "link": "https://www.electronicsweekly.com/news/business/nordic-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 06:12:28 +0000",
-     "summary": "Nordic Semiconductor, the low-power wireless connectivity specialist. Has demo-ed the upcoming Bluetooth® High Data Throughput (HDT) feature in silicon through its video demonstration. With support for longer packets, Bluetooth HDT […] The post Nordic demo-es Bluetooth HDT appeared first on Electron",
-     "source": "Electronics Weekly",
-     "zh": "Nordic demo-es 蓝牙 HDT"
-    },
-    {
-     "title": "The Pickering Remote Gateway",
-     "link": "https://www.electronicsweekly.com/news/business/the-pickering-remote-gateway-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 06:11:50 +0000",
-     "summary": "Pickering Interfaces of Clacton-on-sea, provider of modular signal switching and simulation solutions for electronic test and verification, has introduced the Pickering Remote Gateway. The new gRPC-based software enables engineers to […] The post The Pickering Remote Gateway appeared first on Electr",
-     "source": "Electronics Weekly",
-     "zh": "Pickering 远程网关"
-    },
-    {
-     "title": "CELUS offers trial of agentic workflow for electronic design",
-     "link": "https://www.electronicsweekly.com/news/business/celus-offers-trial-of-agentic-workflow-for-electronic-design-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 06:10:36 +0000",
-     "summary": "CELUS today launched an agentic workflow for its Design Assistant. The workflow helps hardware engineers plan the architecture and component work at the start of an electronics design, before schematic capture, […] The post CELUS offers trial of agentic workflow for electronic design appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "CELUS 提供电子设计代理工作流程试用"
-    },
-    {
      "title": "ASE expects packaging and testing margins to stay above 30%",
      "link": "https://www.digitimes.com/news/a20261030PD214/ase-packaging-testing-revenue-business.html",
      "pubDate": "Fri, 30 Oct 2026 06:00:00 GMT",
      "summary": "ASE Technology Holding (ASEH) expects gross margins in its packaging and testing business to remain above 30% in 2027 as growing demand for AI-related advanced packaging helps the company move beyond the profitability ceiling that has historically constrained the industry.",
      "source": "DIGITIMES",
      "zh": "ASE预计封装和测试利润率将保持在30%以上"
-    },
-    {
-     "title": "Voters’ Issues In Midterms",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/voters-issues-in-midterms-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 01:01:00 +0000",
-     "summary": "Next week’s midterm elections in the US see voters putting the economy and the future of democracy as the most important topics, according to a survey by Pugh Research Centre. […] The post Voters’ Issues In Midterms appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "中期选举中选民的问题"
     },
     {
      "title": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
@@ -383,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 18:52:30 GMT",
      "summary": "For three decades, white LEDs have depended on rare-earth materials such as yttrium aluminium garnet (YAG) layered onto a blue LED chip (Figure 1). Opto-semiconductor device maker Seoul Viosys Co Ltd (SVC) says that it has now broken that dependence by developing and mass producing a chip that emits",
      "source": "Semiconductor Today",
-     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10μm"
+     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10微米"
     },
     {
      "title": "SEMICON West 2026: AI Made the Steps Faster. The Time Between Them Is Next.",
@@ -399,7 +359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 16:20:34 +0000",
      "summary": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Samsung Electronics Posts $80B Operating Profit on AI Memory Demand appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "三星电子因 AI 内存需求实现营业利润 80B 美元"
+     "zh": "三星电子因 AI 内存需求实现运营利润 80B 美元"
     },
     {
      "title": "How Vision and Connectivity Enable Autonomous Agriculture",
@@ -463,7 +423,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 08:30:08 +0000",
      "summary": "AI chip advances depend on more than design, requiring new materials, manufacturing equipment, and packaging technologies to meet rising performance demands. The post How AI Redefines Semiconductor Manufacturing, From Materials Up appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "人工智能如何从材料开始重新定义半导体制造"
+     "zh": "人工智能如何从材料向上重新定义半导体制造"
     },
     {
      "title": "Auto-Generation Of Properties: Methodology Insertion",
@@ -496,6 +456,46 @@ window.INDUSTRY_DATA = {
      "summary": "What biological reasoning can teach us about verifying silicon systems. The post The Complexity Between The Bits appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "位之间的复杂性"
+    },
+    {
+     "title": "Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem",
+     "link": "https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/",
+     "pubDate": "Thu, 29 Oct 2026 07:08:48 +0000",
+     "summary": "Applying the appropriate level of simulation and abstraction at each stage of the design process is key to effective thermal analysis. The post Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "这里变热了吗？为什么热不再是签核问题"
+    },
+    {
+     "title": "Ascent Solar co-hosts executive networking event to strengthen industry relationships with space innovators",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/ascent-281026.shtml",
+     "pubDate": "Wed, 28 Oct 2026 20:08:20 GMT",
+     "summary": "Ascent Solar Technologies Inc of Thornton, CO, USA — which designs and makes lightweight, flexible copper indium gallium diselenide (CIGS) thin-film photovoltaic (PV) panels that can be integrated into consumer products, off-grid applications and aerospace applications — was co-host of an executive ",
+     "source": "Semiconductor Today",
+     "zh": "Ascent Solar 联合举办高管社交活动，以加强与太空创新者的行业关系"
+    },
+    {
+     "title": "From Metrology to Autonomy: Why Intel Foundry’s Manufacturing Roadmap Matters",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/intel/375218-from-metrology-to-autonomy-why-intel-foundrys-manufacturing-roadmap-matters/",
+     "pubDate": "Wed, 28 Oct 2026 17:00:44 +0000",
+     "summary": "Semiconductor manufacturing has always depended on precise measurement. As devices become more complex and packaging integrates more components, however, measuring individual process steps is no longer enough. Manufacturers need to understand how decisions across fabrication, assembly, and test affe",
+     "source": "SemiWiki",
+     "zh": "从计量到自动化：为什么英特尔代工厂的制造路线图很重要"
+    },
+    {
+     "title": "The Wafer Is the New Battleground: Soitec CPO René Jonker on Building AI from the Substrate Up",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/soitec/375182-the-wafer-is-the-new-battleground-soitec-cpo-rene-jonker-on-building-ai-from-the-substrate-up/",
+     "pubDate": "Wed, 28 Oct 2026 15:00:46 +0000",
+     "summary": "Most of the AI conversation stops at the chip. At SEMICON West 2026 I sat down with René Jonker, Chief Product Officer of Soitec, to talk about what sits underneath it. Ask an engineer where AI performance comes from and you will hear about process nodes, dataflow, HBM stacks and interconnect fabric",
+     "source": "SemiWiki",
+     "zh": "晶圆是新战场：Soitec 首席产品官 René Jonker 谈从底层构建人工智能"
+    },
+    {
+     "title": "From Chip Lab to Center Stage",
+     "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+     "pubDate": "Fri, 23 Oct 2026 18:00:03 +0000",
+     "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "从芯片实验室到舞台中央"
     }
    ]
   },
@@ -608,6 +608,14 @@ window.INDUSTRY_DATA = {
      "summary": "Team NimbRo’s robot in action during the RoboCup@Home competition at RoboCup 2026. Raphael leads the team. Raphael Memmesheimer has been successfully competing in the RoboCup@Home league winning the RoboCup@Home competition five times. He and his colleagues won the best paper award at RoboCup 2026 f",
      "source": "Robohub",
      "zh": "参加 RoboCup@Home 并获得 2026 年最佳论文奖：Raphael Memmesheimer 专访"
+    },
+    {
+     "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+     "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+     "pubDate": "Tue, 27 Oct 2026 16:14:39 +0000",
+     "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
+     "source": "IEEE Spectrum 机器人",
+     "zh": "您的机器人的安全功能已经发挥作用。如果输入说谎怎么办？"
     },
     {
      "title": "Robots in Society, Business and Culture: September 2026",
@@ -834,6 +842,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "ACME Solar signs 400 MW firm renewable power deal in India",
+     "link": "https://www.pv-magazine.com/2026/10/30/acme-solar-signs-400-mw-firm-renewable-power-deal-in-india/",
+     "pubDate": "Fri, 30 Oct 2026 08:45:00 +0000",
+     "summary": "ACME Solar Holdings subsidiary ACME Marigold Urja has signed a 25-year power purchase agreement (PPA) with NTPC Ltd. to supply 400 MW of firm and dispatchable renewable energy (FDRE) at INR 4.37 ($0.046)/kWh. Deliveries are scheduled to begin on June 30, 2028. The post ACME Solar signs 400 MW firm r",
+     "source": "pv magazine",
+     "zh": "ACME Solar 在印度签署 400 兆瓦可再生能源发电协议"
+    },
+    {
+     "title": "High Oil Prices Set to Trigger New Wave of North Sea Mergers",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/High-Oil-Prices-Set-to-Trigger-New-Wave-of-North-Sea-Mergers.html",
+     "pubDate": "Fri, 30 Oct 2026 03:45:00 -0500",
+     "summary": "High oil and gas prices are going to drive further consolidation in the UK sector of the North, according to analysts, who also said tax considerations would play a role in stimulating M&A appetite in the region. The expectations come from a Reuters poll among analysts and bankers, who said the oil ",
+     "source": "OilPrice",
+     "zh": "高油价将引发北海新一波并购"
+    },
+    {
      "title": "Italian government rejects 468 MW of solar projects",
      "link": "https://www.pv-magazine.com/2026/10/30/italian-government-rejects-468-mw-of-solar-projects/",
      "pubDate": "Fri, 30 Oct 2026 08:00:00 +0000",
@@ -986,14 +1010,6 @@ window.INDUSTRY_DATA = {
      "zh": "中国电池厂可能坐拥锂资源"
     },
     {
-     "title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
-     "link": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
-     "pubDate": "Thu, 29 Oct 2026 16:00:00 -0500",
-     "summary": "A Malta-flagged tanker called the Agioi Fanendes left the Russian port of Primorsk on Oct. 22 carrying nearly 40,000 metric tons of ultra-low-sulfur diesel, and ship-tracking data has it arriving at the Port of New York and New Jersey on Nov. 7, four days after the midterm elections. Nobody has publ",
-     "source": "OilPrice",
-     "zh": "特朗普的俄罗斯柴油机是一个具有五年保险丝的合法烫手山芋"
-    },
-    {
      "title": "GE Vernova in $9B deal to buy high-voltage manufacturer as gas turbine orders slow",
      "link": "https://www.utilitydive.com/news/ge-vernova-in-9b-deal-to-buy-high-voltage-manufacturer-as-gas-turbine-orde/873223/",
      "pubDate": "Thu, 29 Oct 2026 13:40:22 -0400",
@@ -1034,14 +1050,6 @@ window.INDUSTRY_DATA = {
      "zh": "2026 年夏季告诉我们有关气候更加多变的情况下的太阳能发电的信息"
     },
     {
-     "title": "First Solar opens 1.7 GW module plant in South Carolina",
-     "link": "https://www.pv-magazine.com/2026/10/29/first-solar-opens-1-7-gw-module-plant-in-south-carolina/",
-     "pubDate": "Thu, 29 Oct 2026 16:30:00 +0000",
-     "summary": "First Solar’s latest US plant will complete production of thin-film solar modules manufactured at overseas sites, with annual capacity set to increase from 1.7 GW to 3.4 GW by mid-2027. The post First Solar opens 1.7 GW module plant in South Carolina appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "First Solar 在南卡罗来纳州开设 1.7 GW 组件工厂"
-    },
-    {
      "title": "Scatec’s US$650 million solar-plus-storage project for Egypt Aluminium gets EBRD, EIB and AfD financing commitment",
      "link": "https://www.energy-storage.news/scatecs-us650-million-solar-plus-storage-project-for-egypt-aluminium-gets-ebrd-eib-and-afd-financing-commitment/",
      "pubDate": "Thu, 29 Oct 2026 15:46:23 +0000",
@@ -1066,12 +1074,12 @@ window.INDUSTRY_DATA = {
      "zh": "BAAJA 为联邦监管机构提供了“更大的锤子”来打破传输障碍"
     },
     {
-     "title": "AEP increases investment plan 30% to $100B on gen, transmission spending",
+     "title": "AEP increases investment plan 30% on generation, transmission spending",
      "link": "https://www.utilitydive.com/news/aep-transmission-data-center-earnings/873189/",
      "pubDate": "Thu, 29 Oct 2026 11:05:24 -0400",
-     "summary": "American Electric Power&rsquo;s contracted large loads jumped 22% to 84 GW, mainly on a 10.4-GW data center in Ohio being developed by SB Energy, company officials said Wednesday.",
+     "summary": "American Electric Power&rsquo;s contracted large loads jumped 22%, to 84 GW, mainly on a 10.4-GW data center in Ohio being developed by SB Energy, company officials said Wednesday.",
      "source": "Utility Dive",
-     "zh": "AEP 将发电、输电支出的投资计划增加 30% 至 $100B"
+     "zh": "AEP 将发电、输电支出投资计划增加 30%"
     }
    ]
   },
@@ -1082,12 +1090,52 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
+     "link": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
+     "pubDate": "Fri, 30 Oct 2026 08:30:00 +0000",
+     "summary": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
+     "source": "STAT News",
+     "zh": "观点：一位母亲 1834 年关于麻疹的信告诉我们有关 MAHA 的信息"
+    },
+    {
+     "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
+     "link": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+     "pubDate": "Fri, 30 Oct 2026 08:30:00 +0000",
+     "summary": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
+     "source": "STAT News",
+     "zh": "STAT+：随着越来越多的州希望在临床环境中测试人工智能，FDA、CMS 争先恐后地避免监管僵局"
+    },
+    {
+     "title": "The health care issues STAT reporters are watching in the midterms",
+     "link": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
+     "pubDate": "Fri, 30 Oct 2026 08:30:00 +0000",
+     "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
+     "source": "STAT News",
+     "zh": "STAT 记者在中期选举中关注的医疗保健问题"
+    },
+    {
+     "title": "Opinion: How Congress can fix expert advisory committees",
+     "link": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
+     "pubDate": "Fri, 30 Oct 2026 08:30:00 +0000",
+     "summary": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim.",
+     "source": "STAT News",
+     "zh": "意见：国会如何组建专家咨询委员会"
+    },
+    {
+     "title": "STAT+: How a simple UTI turns into a $1,756 bill",
+     "link": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
+     "pubDate": "Fri, 30 Oct 2026 08:30:00 +0000",
+     "summary": "They visited for what they thought were obvious urgent care issues — coughs, congestion, flu — and were shocked to get bills for ER care instead, totaling thousands of dollars.",
+     "source": "STAT News",
+     "zh": "STAT+：一个简单的尿路感染如何变成一张 1,756 美元的账单"
+    },
+    {
      "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
      "link": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
      "pubDate": "Fri, 30 Oct 2026 06:11:31 +0000",
      "summary": "A Parkinson's cell therapy biotech and an I&I startup from former BioNTech leaders will join the public markets on Friday, extending a sizzling IPO streak for drug developers. Aspen Neuroscience will collect ...",
      "source": "Endpoints News",
-     "zh": "Aspen Neuroscience 获得 1.41 亿美元的 IPO，Bambusa 获得 1.69 亿美元的IPO"
+     "zh": "Aspen Neuroscience 获得 1.41 亿美元的 IPO，Bambusa 获得 1.69 亿美元的上市"
     },
     {
      "title": "Aspen raises a $140M IPO in pursuit of a cell therapy for Parkinson’s",
@@ -1154,22 +1202,6 @@ window.INDUSTRY_DATA = {
      "zh": "研发主管 Dean Li 表示默克凭借 sac-TMT 癌症项目击败了竞争对手"
     },
     {
-     "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
-     "link": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
-     "pubDate": "Thu, 29 Oct 2026 16:44:05 +0000",
-     "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.",
-     "source": "STAT News",
-     "zh": "STAT+：新的联邦规则将要求处方药中间商共享秘密支付数据"
-    },
-    {
-     "title": "STAT+: The EPIC investigation, and a Teladoc surprise",
-     "link": "https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/?utm_campaign=rss",
-     "pubDate": "Thu, 29 Oct 2026 16:15:20 +0000",
-     "summary": "In this edition of STAT Health Tech: An Epic investigation, a Teladoc surprise, and figuring out how to pay for AI.",
-     "source": "STAT News",
-     "zh": "STAT+：EPIC 调查和 Teladoc 惊喜"
-    },
-    {
      "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
      "link": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
      "pubDate": "Thu, 29 Oct 2026 12:06:00 -0400",
@@ -1202,14 +1234,6 @@ window.INDUSTRY_DATA = {
      "zh": "HHS 允许合成者生产 6 种未经批准的肽"
     },
     {
-     "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
-     "link": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss",
-     "pubDate": "Thu, 29 Oct 2026 14:45:48 +0000",
-     "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.",
-     "source": "STAT News",
-     "zh": "STAT+：肯尼迪 2026 年中期选举的结案陈词：欺诈、疫苗和 MAHA"
-    },
-    {
      "title": "Building the Future of AAV Gene Therapy",
      "link": "https://www.genengnews.com/resources/ebooks/building-the-future-of-aav-gene-therapy/",
      "pubDate": "Thu, 29 Oct 2026 14:45:45 +0000",
@@ -1218,28 +1242,12 @@ window.INDUSTRY_DATA = {
      "zh": "构建 AAV 基因治疗的未来"
     },
     {
-     "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides",
-     "link": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/?utm_campaign=rss",
-     "pubDate": "Thu, 29 Oct 2026 14:18:27 +0000",
-     "summary": "Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against the RFK Jr.'s claims, and the new FDA policy around peptides.",
-     "source": "STAT News",
-     "zh": "STAT+：El-Sayed 回击 RFK Jr. 以及 FDA 对肽的“执法自由裁量权”"
-    },
-    {
      "title": "Hamburg Hosts 2026 European Gene Therapy Conference",
      "link": "https://www.genengnews.com/topics/genome-editing/hamburg-hosts-2026-european-gene-therapy-conference/",
      "pubDate": "Thu, 29 Oct 2026 13:44:33 +0000",
      "summary": "GEN 's Kevin Davies, PhD, reports from ESGCT where patient safety, expanding access to gene therapy, and progress towards an HIV vaccine were prominent themes among the early talks at ESGCT 2026. The post Hamburg Hosts 2026 European Gene Therapy Conference appeared first on GEN - Genetic Engineering",
      "source": "GEN",
      "zh": "汉堡主办 2026 年欧洲基因治疗会议"
-    },
-    {
-     "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
-     "link": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
-     "pubDate": "Thu, 29 Oct 2026 13:43:44 +0000",
-     "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists.",
-     "source": "STAT News",
-     "zh": "STAT+：尽管 FDA 科学家表示担忧，但 HHS 批准了六种肽"
     },
     {
      "title": "Flagship blends three biotech startups to form Etcelera",
@@ -1367,7 +1375,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 21:28:58 +0000",
      "summary": "On Oct. 29, 1991, the Galileo spacecraft flew by the asteroid Gaspra on its way to Jupiter. Here's why it mattered.",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 1991 年 10 月 29 日：美国宇航局的伽利略号宇宙飞船飞过小行星加斯普拉，并以 18,000 英里/小时的速度飞行时拍摄了令人惊叹的照片"
+     "zh": "在太空的这一天！ 1991 年 10 月 29 日：美国宇航局伽利略号宇宙飞船飞越小行星加斯普拉，并以 18,000 英里/小时的速度飞行，拍摄了令人惊叹的照片"
     },
     {
      "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
@@ -1546,6 +1554,14 @@ window.INDUSTRY_DATA = {
      "zh": "随着俄罗斯网络战的发展，白俄罗斯向前迈进"
     },
     {
+     "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+     "pubDate": "Fri, 30 Oct 2026 13:15:30 +0530",
+     "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. \"Thi",
+     "source": "The Hacker News",
+     "zh": "黑客积极利用高度关键的 Drupal Commerce 核心授权绕过漏洞"
+    },
+    {
      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
      "pubDate": "Fri, 30 Oct 2026 12:57:05 +0530",
@@ -1706,14 +1722,6 @@ window.INDUSTRY_DATA = {
      "zh": "Adobe、Veeam、Juniper Networks 修补关键漏洞"
     },
     {
-     "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-     "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-     "pubDate": "Thu, 29 Oct 2026 19:12:40 +0530",
-     "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead ",
-     "source": "The Hacker News",
-     "zh": "Google 的 Gemini 4 Carbon 引领了查找、利用和修补漏洞的基准"
-    },
-    {
      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
      "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
      "pubDate": "Thu, 29 Oct 2026 10:00:00 GMT",
@@ -1730,52 +1738,108 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "百度宣布将搜索 API 活动价压至 4.9 元 / 千次，低于 DeepSeek 标准 5 元定价",
-     "link": "https://www.ithome.com/1/020/165.htm",
-     "pubDate": "Fri, 30 Oct 2026 08:19:58 GMT",
-     "summary": "IT之家 10 月 30 日消息，百度今日在北京举办产品升级沟通会，宣布围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用四大方向进行升级，并宣布推出搜索 AI API 优惠价 —— 活动期间最低价 4.9 元 / 千次，低于 DeepSeek 同类产品的 5 元 / 千次。 百度方面将此次升级概括为“搜索实现递归自我进化”。具体到产品层面，文心助手的定位从“一次问答”转向“一份交付”：针对复杂问题和高频事务，它可以直接交付成果物；对于长期任务，则提供持续跟踪和主动提醒，目前覆盖场景已超过 170 种。 同时，百度 AI 镜头从此前的“定格”识别升级为“流动”追踪，支持多目标同步识别与动态",
-     "source": "IT之家",
-     "zh": "百度宣布将搜索 API 活动价压至 4.9 元 / 千次，低于 DeepSeek 标准 5 元定价"
+     "title": "中国车主的油费痛感是美国人的6.6倍，油车彻底崩了",
+     "link": "https://www.huxiu.com/article/4901621.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 16:47:11 +0800",
+     "summary": "出品｜虎嗅汽车组 作者｜杨杰 题图｜视觉中国 持续走高的油价就像催化剂，给早已摇摇欲坠的燃油车商业模式，按下了清算键。 10月29日晚24时，年内第21轮成品油调价落地，折成升价92号普遍涨至9元左右，海南更是已经突破10元大关。 今年油价走势图；虎嗅制图 截至9月底，年内汽油累计上调2375元/吨，国际端更不体面。10月30日亚洲早盘，布伦特原油冲破110美元，最高触到111.6美元。 把时间线拉长，这一轮油价上涨是三股力量叠出来的： 霍尔木兹断航，EIA测算中东关厂450万桶/日； OPEC+在9月6日突然暂停连续五个月的增产节奏； 全球可观测石油库存，被高盛测到2017年有统计以来最低位",
+     "source": "虎嗅",
+     "zh": "中国车主的油费痛感是美国人的6.6倍，油车彻底崩了"
     },
     {
-     "title": "山灵预热 Regal 八单元耳机周年版：紫辉银限定配色，11 月 2 日首销售 4298 元",
-     "link": "https://www.ithome.com/1/020/164.htm",
-     "pubDate": "Fri, 30 Oct 2026 08:15:40 GMT",
-     "summary": "IT之家 10 月 30 日消息，山灵宣布为旗下 Regal 八单元耳机推出周年版，该版本将于 11 月 2 日发售， 定价为 4298 元 。 在光影交错的瞬间，听见时间的纹理。当 38 载声学沉淀凝结于暗夜中的一抹紫辉，Regal 周年纪念版「紫辉银」静谧登场。 官方强调，该版本耳机全新紫辉银钛冰花面板，能够随视角光线变换流转出紫蓝微光，腔体同步转为深灰，质感深邃而不张扬。 规格方面，该耳机配备对置式双 10mm LCP 动圈，内置四颗中频动铁和双微平面磁式高频单元，同时引入物理 + 电子混合分频，利用腔体结构辅助，减少电子元件依赖，确保相位一致性和频段衔接度，号称三频分布自然、层次清晰。",
+     "title": "3299 → 759 元享 25000Pa 大吸力：石头 A30 Max 智能洗地机直降，支持 180° 超薄躺平",
+     "link": "https://www.ithome.com/1/020/174.htm",
+     "pubDate": "Fri, 30 Oct 2026 08:46:03 GMT",
+     "summary": "石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。 今日按下方步骤下单，仅需 799 元即可入手。 88VIP 先领 1500-180 元消费券，然后手动膨胀至 1800-220 元： 点此领券 。 非 88VIP 可前往 领券中心 可领取不定额消费券，也支持膨胀： 点此领券 。 淘金币可抵扣 142 元（下附借币教程） 宝贝详情页领 15% 政府补贴（目前支持全国领用） 以旧换新立减 300 元（无需旧物） 下单前咨询客服“下单返现金额”备注后下单，晒单再返 698 元。 实付 ",
      "source": "IT之家",
-     "zh": "山灵预热 Regal 八单元耳机周年版：紫辉银限定配色，11 月 2 日首销售 4298 元"
+     "zh": "3299 → 759 元享 25000Pa 大吸力：石头 A30 Max 智能洗地机直降，支持 180° 超薄躺平"
     },
     {
-     "title": "传音控股 2026 年前三季度归母净利润 26.3 亿元，同比增长 22.44%",
-     "link": "https://www.ithome.com/1/020/163.htm",
-     "pubDate": "Fri, 30 Oct 2026 08:08:00 GMT",
-     "summary": "IT之家 10 月 30 日消息，传音控股今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告： 2026 年前三季度 营业总收入 ：502.8 亿元，同比增长 1.49% 毛利润 ：113.83 亿元 毛利率 ：22.64%，同比增长 3.17 个百分点 归母净利润 ：26.3 亿元，同比增长 22.44% 扣非净利润 ：19.16 亿元，同比增长 10.7% 经营现金流 ：-98.73 亿元，同比下降 400.56% 加权平均净资产收益率 ：12.4% 基本每股收益 ：2.28 元，同比增长 21.28% 稀",
-     "source": "IT之家",
-     "zh": "传音控股 2026 年前三季度归母净利润 26.3 亿元，同比增长 22.44%"
+     "title": "Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals (Anna Nicolaou/Financial Times)",
+     "link": "https://www.techmeme.com/261030/p5#a261030p5",
+     "pubDate": "Fri, 30 Oct 2026 04:45:02 -0400",
+     "summary": "Anna Nicolaou / Financial Times : Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals &nbsp; &mdash;&nbsp; Streaming service plans to charge users up to $5 a month to use the feature&nbsp; &mdas",
+     "source": "Techmeme",
+     "zh": "资料来源：Spotify 计划在 2027 年第一季度推出一款 AI 产品，让订阅者可以创建自己的混音和翻唱内容，每月费用约为 5 美元，待授权交易（Anna Nicolaou/金融时报）"
     },
     {
-     "title": "中微公司 2026 年前三季度归母净利润 41.34 亿元，同比增长 241.31%",
-     "link": "https://www.ithome.com/1/020/162.htm",
-     "pubDate": "Fri, 30 Oct 2026 08:06:40 GMT",
-     "summary": "IT之家 10 月 30 日消息，中微公司今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告： 2026 年前三季度 营业总收入 ：103.26 亿元，同比增长 28.08% 毛利润 ：41.73 亿元 毛利率 ：40.41% 归母净利润 ：41.34 亿元，同比增长 241.31% 扣非净利润 ：16.23 亿元，同比增长 83.01% 经营现金流 ：-1.05 亿元 加权平均净资产收益率 ：16.41% 基本每股收益 ：6.34 元，同比增长 226.8% 稀释每股收益 ：6.29 元，同比增长 227.6",
-     "source": "IT之家",
-     "zh": "中微公司 2026 年前三季度归母净利润 41.34 亿元，同比增长 241.31%"
+     "title": "2027年的汽车十大技术趋势背后，一半在验证，一半在落地",
+     "link": "https://www.huxiu.com/article/4901714.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 16:45:02 +0800",
+     "summary": "本文来自微信公众号： 车市睿见 ，编辑：杨果，作者：杨朔 10月28日，第三十三届中国汽车工程学会年会暨展览会在苏州开幕。开幕式上，中国汽车工程学会副秘书长、国汽战略院执行院长郑亚莉代表学会发布了《2027年度中国汽车十大技术趋势》。这份报告把技术分成三类，一类是在性能和成本上有望实现重大突破的，一类是有可能实现搭载、即将量产的，还有一类是在应用规模上会显著提升的。 这份报告发布的时机也值得留意，乘联会的数据显示，9月新能源乘用车零售渗透率达到67.0%，批发渗透率达到65.4%，两项指标都刷新了历史纪录，电动化在中国市场已经从“增量”变成了“主流”。但市场的另一面并不轻松，9月乘用车零售16",
+     "source": "虎嗅",
+     "zh": "2027年的汽车十大技术趋势背后，一半在验证，一半在落地"
     },
     {
-     "title": "暴力熊推出 TG x CENS LN2 Container 液氮炮：携手超频专家研发，适用于显卡",
-     "link": "https://www.ithome.com/1/020/161.htm",
-     "pubDate": "Fri, 30 Oct 2026 08:06:13 GMT",
-     "summary": "IT之家 10 月 30 日消息，Thermal Grizzly（暴力熊）当地时间本月 21 日推出了 TG x CENS LN2 Container。 这款“液氮炮”由该企业与超频玩家 Clemens \"CENS\" Nüssler 共同开发，兼容 AMD 和 NVIDIA 的多款独立显卡， 专为 GPU 极限超频 (XOC) 而设计 。 暴力熊表示，TG x CENS LN2 Container 拥有经过优化的特殊内部设计， 在提供最优散热效果的同时也能实现直到 -196℃ 的精确温度控制 。其底部为拥有超薄镍镀层的精加工铜材，搭配可保证 GPU 核心受压稳定的弹簧加载系统。 IT之家了解到",
-     "source": "IT之家",
-     "zh": "暴力熊推出 TG x CENS LN2 Container 液氮炮：携手超频专家研发，适用于显卡"
+     "title": "Alibaba Cloud’s Qoder Passes $100 Million in Recurring Revenue as Product Lines Split",
+     "link": "https://www.tmtpost.com/8187644.html",
+     "pubDate": "Fri, 30 Oct 2026 16:42:05 +0800",
+     "summary": "Qoder has turned AI programming help into recurring enterprise revenue. Users pushed it beyond code into documents and data work. Alibaba is now splitting that demand across a desktop tool and a separate office product—and asking some customers to rebuy access.",
+     "source": "钛媒体",
+     "zh": "产品线分裂，阿里云 Qoder 经常性收入突破 1 亿美元"
     },
     {
-     "title": "陈立武：Nova Lake 将填补英特尔高端桌面 CPU 产品线空缺，14A 制程 Coral Rapids 将与 AMD EPYC 展开竞争",
-     "link": "https://www.ithome.com/1/020/160.htm",
-     "pubDate": "Fri, 30 Oct 2026 08:05:52 GMT",
-     "summary": "IT之家 10 月 30 日消息，英特尔 CEO 陈立武在 2026 年第三季度财报电话会议上表示，下一代客户端处理器 Nova Lake 将填补公司高端桌面 CPU 产品线的空缺。 面向数据中心市场，英特尔计划于 2028 年推出采用 14A 制程的 Coral Rapids 至强处理器，并希望通过后续产品在竞争力上超越 AMD EPYC 系列。 根据英特尔路线图，Nova Lake 将采用 Intel 18A-P 制程，是该公司首款面向客户端市场的 18A-P 产品。 陈立武表示，该产品目前的研发进度领先于原计划，预计上市时获得的客户设计导入数量将达 Panther Lake 两倍。英特尔",
+     "title": "SpaceX合体特斯拉，马斯克准备梭哈了",
+     "link": "https://www.huxiu.com/article/4901712.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 16:35:58 +0800",
+     "summary": "本文来自微信公众号： 蓝字计划 ，作者：Chester 世界首富的一句话，又让整个硅谷科技圈天翻地覆。 10月27日，彭博社曝出一则足以改写人类商业史的消息：马斯克旗下的SpaceX与特斯拉正通过特别委员会研究潜在合并。 一旦交易落地，一个横跨天地、合计市值超3万亿美元的超级巨无霸将正式浮出水面。 但这场合并，也有让马斯克“搬起石头砸自己的脚”的风险。 众所周知，造火箭和星链的SpaceX与美国军方、NASA深度绑定，手里攥着大把敏感的国防与航天合同；而造电动车的特斯拉则是一家面向全球的消费品公司，依赖全球供应链与海外大市场。 按常理，这两家公司只有彻底划清界限，才能各自平安发财。现在马斯克却",
+     "source": "虎嗅",
+     "zh": "SpaceX合体特斯拉，马斯克准备梭哈了"
+    },
+    {
+     "title": "弱水时砂首款便携式蓝牙音箱 MOKA 摩卡开启预约：四单元声学系统，黑白双色均售 399 元",
+     "link": "https://www.ithome.com/1/020/171.htm",
+     "pubDate": "Fri, 30 Oct 2026 08:33:16 GMT",
+     "summary": "IT之家 10 月 30 日消息，弱水时砂现已在京东上架品牌旗下首款便携式蓝牙音箱“MOKA 摩卡”，该产品将于明天发售， 黑白双色定价均为 399 元 。 京东 弱水时砂 MOKA 摩卡音箱 399 元 直达链接 该音箱尺寸为 190 x 92 x 89mm，顶部采用荔枝纹素皮包裹，正面覆盖织物网布，搭配金属旋钮设计。音箱底部配备了氛围灯，令机身设计能够自然融入不同的摆放环境。 该音箱内部搭载四单元声学系统，包含 25W 低音单元、10W 中音单元、10W 高音单元和无源辐射器。设备采用对称式声学架构与混合三分频技术，低音单元应用加强筋振膜与双磁路工艺，高音单元则使用了蚕丝铝膜。 该音箱内置",
      "source": "IT之家",
-     "zh": "陈立武：Nova Lake 将填补英特尔高端桌面 CPU 产品线空缺，14A 制程 Coral Rapids 将与 AMD EPYC 展开竞争"
+     "zh": "弱水时砂首款便携式蓝牙音箱 MOKA 摩卡开启预约：四单元声学系统，黑白双色均售 399 元"
+    },
+    {
+     "title": "Fable5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
+     "link": "https://www.huxiu.com/article/4901711.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 16:32:55 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令》 Gemini 4 Carbon王者归来没几天，这边Fable 5.5就被爆出来正在被测试。 有网友在使用Opus 5.5时表示会被路由到更新的模型，而且效果看起来要比当前的Opus好得多，不由得让人怀疑这是Fable 5.5或是下一代Opus模型。 结合前段时间The Information的爆料，有已经体验过Anthropic最新模型的知情人士提到，Anthropic准备推出更能读懂用户意图的模型。 文中提到，这款新模型比一般的模型更擅长跳出",
+     "source": "虎嗅",
+     "zh": "Fable5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令"
+    },
+    {
+     "title": "鸿海 2026 科技日三车齐发：休旅车 MODEL A+ & K+，货运卡车 MODEL K",
+     "link": "https://www.ithome.com/1/020/170.htm",
+     "pubDate": "Fri, 30 Oct 2026 08:32:53 GMT",
+     "summary": "IT之家 10 月 30 日消息，鸿海今日在 HHTD 26 年度科技日上发布了 3 款电动四轮汽车，分别是 MODEL A+ 休旅车、MODEL K+ 休旅车、MODEL K 货运卡车。 ▲ MODEL A+ MODEL A+ 是此前 MODEL A 的迭代改进型号， 结合奢华风格与越野本色 。其搭载轮内电机，可选配 E/E 架构，支持涉水通行、临时居家。 ▲ MODEL A+ MODEL K+ 面向年轻用户，复古的 City Pop 风格外观极具辨识度。其支持多方位定制，可满足个性化差异化需求。 ▲ MODEL K+ MODEL K 则瞄准最后一公里物流、移动商铺、移动供电、防灾减灾等多元",
+     "source": "IT之家",
+     "zh": "鸿海 2026 科技日三车齐发：休旅车 MODEL A+ & K+，货运卡车 MODEL K"
+    },
+    {
+     "title": "华为鸿蒙 HarmonyOS 7 更新“3D 动态日历”功能，Mate 90 等机型可用",
+     "link": "https://www.ithome.com/1/020/169.htm",
+     "pubDate": "Fri, 30 Oct 2026 08:32:38 GMT",
+     "summary": "IT之家 10 月 30 日消息，今年 9 月，华为正式发布了 HarmonyOS 7 系统。除了“沉浸光感”视效外，鸿蒙 7 还带来了“空间美学”全新设计， 包含 3D 空间壁纸和空间运镜等 ，支持更多场景展示“立体视界”效果。 IT之家注意到，华为今日推送了日历 App 的 17.0.10.350 版本升级，更新日志显示为“修复部分已知问题，优化部分场景体验”。 而在更新该版本日历后，日历 App 实装了此前宣传的空间运镜设计方案，新增支持“3D 动态日历”功能 —— 用户可在日历设置中切换空间感系列壁纸 ，左右滑动切换月份时，壁纸会呈现 3D 动态效果（首次使用需下载背景资源文件，约 2",
+     "source": "IT之家",
+     "zh": "华为鸿蒙 HarmonyOS 7 更新“3D 动态日历”功能，Mate 90 等机型可用"
+    },
+    {
+     "title": "奇瑞汽车 2026 财年前三季度报归母净利润 139.63 亿元，同比下降 2.8%",
+     "link": "https://www.ithome.com/1/020/168.htm",
+     "pubDate": "Fri, 30 Oct 2026 08:32:09 GMT",
+     "summary": "IT之家 10 月 30 日消息，奇瑞汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）报告： 营业总收入 ：2412.34 亿元，同比增长 12.29% 毛利润 ：390.04 亿元，同比增长 32.38% 毛利率 ：16.17%，同比增长 2.46 个百分点 归母净利润 ：139.63 亿元，同比下降 2.8% 资产负债率 ：81.1%，环比增长 0.69 个百分点 AI 解读 本集团前三季度收入实现稳健增长，毛利大幅改善但归母净利润同比小幅承压，整体业绩基本符合市场对出口高增长带动收入的预期。 公司主营业务",
+     "source": "IT之家",
+     "zh": "奇瑞汽车 2026 财年前三季度报归母净利润 139.63 亿元，同比下降 2.8%"
+    },
+    {
+     "title": "东山精密 2026 年第三季度归母净利润 23.32 亿元，同比增长 401.18%",
+     "link": "https://www.ithome.com/1/020/167.htm",
+     "pubDate": "Fri, 30 Oct 2026 08:31:59 GMT",
+     "summary": "IT之家 10 月 30 日消息，东山精密今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告： 2026 年前三季度 营业总收入 ：453.79 亿元，同比增长 67.63% 归母净利润 ：52.89 亿元，同比增长 332.34% 扣非净利润 ：45.79 亿元，同比增长 327.48% 经营现金流 ：35.15 亿元，同比增长 19.32% 加权平均净资产收益率 ：22.08% 基本每股收益 ：2.89 元，同比增长 312.86% 稀释每股收益 ：2.89 元，同比增长 312.86% 资产负债率 ：65",
+     "source": "IT之家",
+     "zh": "东山精密 2026 年第三季度归母净利润 23.32 亿元，同比增长 401.18%"
+    },
+    {
+     "title": "记者实测被AI气笑，双十一算账，人类还没疯，AI先疯了",
+     "link": "https://www.huxiu.com/article/4901710.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 16:31:19 +0800",
+     "summary": "本文来自微信公众号： IT时报 ，作者：毛宇，原文标题：《记者实测被AI气笑！双十一算账，人类还没疯，AI先疯了》 1、实测淘宝、京东、抖音（豆包）等平台AI助手后发现，各家AI辅助能力不一，但大多被凑单计算难倒 2、消费者借助豆包、通义千问、DeepSeek三家AI大模型拆解“凑单攻略”并生成最优的购物计划，结果三家生成的方案差异巨大 3、“双十一”购物节的本质是让利，如今却演变成绕晕AI的复杂数学题 又是一年“双十一”，当定金膨胀、店铺券、品类券、跨店满减等优惠规则交织在一起时，这场购物狂欢早已演变成一场令人头皮发麻的“奥数竞赛”。 面对眼花缭乱的规则，不少疲惫的消费者将希望寄托于各大AI",
+     "source": "虎嗅",
+     "zh": "记者实测被AI气笑，双十一算账，人类还没疯，AI先疯了"
     },
     {
      "title": "姆巴佩中国市场危机：1亿美元商业损失从何而来？他会失去中国市场吗？",
@@ -1786,36 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "姆巴佩中国市场危机：1亿美元商业损失从何而来？他会失去中国市场吗？"
     },
     {
-     "title": "姆巴佩采访翻车，品牌公关法务竟无一人拦住？",
-     "link": "https://www.huxiu.com/article/4901080.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 16:00:00 +0800",
-     "summary": "体育明星全球流量大，成绩客观、形象好，但他们的影响力越来越难管理，分分钟可能翻车。经纪团队和品牌公关各管一摊，跨国合作的风险点正好卡在流程交界处。哪怕提前培训、做风险手册，也难以避免&ldquo;成名后才学危机应对&rdquo;这大问题。",
-     "source": "虎嗅",
-     "zh": "姆巴佩采访翻车，品牌公关法务竟无一人拦住？"
-    },
-    {
      "title": "小红书全资拿下圆周旅迹，AI行程工具能补全种草闭环吗？",
      "link": "https://www.tmtpost.com/8186386.html",
      "pubDate": "Fri, 30 Oct 2026 15:54:23 +0800",
      "summary": "不再只靠图文笔记承载信息，而是用 AI 把零散的 UGC 内容结构化、可执行化。",
      "source": "钛媒体",
      "zh": "小红书全资拿下圆周旅迹，AI行程工具能补全种草闭环吗？"
-    },
-    {
-     "title": "接盘恒大，72岁的抄底王，再次把手伸进了火里",
-     "link": "https://www.huxiu.com/article/4901701.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 15:51:58 +0800",
-     "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略，原文标题：《接盘恒大！72岁的抄底王，再次把手伸进了火里》 10月30日，靴子落地。 太盟投资以约40.26亿港元现金，外加承担5亿元人民币负债，签约收购恒大物业51.016%的股权。 巅峰时，这家公司市值超过2000亿港元。如今，控股权只卖出一个零头。 它身上压着被挪走的134亿元，也握着6亿平方米的在管面积。 73岁的单伟建，又一次把手伸进了火里。 10月28日，围绕恒大物业的交易，买卖双方签了字。 两天后，恒大物业公告揭开了谜底：买家是太盟投资旗下一家控股平台，卖家是中国恒大和它的子公司CEG Holdings，双方签下的是正式股份买卖文",
-     "source": "虎嗅",
-     "zh": "接盘恒大，72岁的抄底王，再次把手伸进了火里"
-    },
-    {
-     "title": "月烧1.5万亿token，年烧1.32亿美元？Cursor 工程师的账单，凡人只能仰望",
-     "link": "https://www.huxiu.com/article/4901700.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 15:44:39 +0800",
-     "summary": "本文来自微信公众号： InfoQ ，作者：Tina，原文标题：《月烧 1.5 万亿 token，年烧 1.32 亿美元？Cursor 工程师的账单，凡人只能仰望》 10月21日，OpenClaw创始人Peter Steinberger在Cloudflare Connect的台上估算，自己上个月用于AI工作的token成本约为1000万美元。听众发出惊呼，他补了一句：“并非所有消耗都有用。” 几周前，另一位Peter——Peter Piekarczyk——也算出了一笔让人咋舌的账。他看到Lauren Tan的Cursor个人主页显示，过去30天用了1.5万亿token，于是在X上写道：“按每百万",
-     "source": "虎嗅",
-     "zh": "月烧1.5万亿token，年烧1.32亿美元？Cursor 工程师的账单，凡人只能仰望"
     },
     {
      "title": "海鸟在长途飞行中会经历时差反应",
@@ -1829,25 +1869,9 @@ window.INDUSTRY_DATA = {
      "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
      "link": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
      "pubDate": "Fri, 30 Oct 2026 07:41:13 +0000",
-     "summary": "Article URL: https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates Comments URL: https://news.ycombinator.com/item?id=50300853 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates Comments URL: https://news.ycombinator.com/item?id=50300853 Points: 14 # Comments: 4",
      "source": "Hacker News",
      "zh": "Binance 6.3B 美元黑客事件归咎于“朝鲜精英黑客”"
-    },
-    {
-     "title": "围猎“嘉豪”：一场对个性表达的东亚式审判",
-     "link": "https://www.huxiu.com/article/4901698.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 15:37:28 +0800",
-     "summary": "本文来自微信公众号： 沙丘研究所 ，作者：陈飞樾，原文标题：《围猎「嘉豪」：一场对个性表达的东亚式审判》 简要释义： 由人名转化而来的网络称呼，用于调侃那些试图展示个性、才华或品位，却被旁观者认为刻意或用力过猛的人。 “嘉豪”的涌现和流行其实并不依赖于一个真的叫“嘉豪”的人。2024年，一位高中生穿黑色卫衣、戴口罩，在教室里模仿电音制作人Alan Walker进行“虚空打碟”。因为错加的标签（#），网友把他称作“隔壁班家豪”。此后，这个称呼演变为“嘉豪”，并逐渐扩展到校园之外的各种场景。 从“他是嘉豪”到“他很嘉豪”，一个用来识别个人的名字，变成了评价他人表现的标签。这个词压缩了一种判断：你希",
-     "source": "虎嗅",
-     "zh": "围猎“嘉豪”：一场对个性表达的东亚式审判"
-    },
-    {
-     "title": "横店，投了梁文锋",
-     "link": "https://www.huxiu.com/article/4901697.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 15:37:24 +0800",
-     "summary": "本文来自微信公众号： 投资界 ，作者：冯雨晨 隐秘面孔。 报道/投资界PEdaily 过去10年，中国科技圈有两笔1000亿级别的融资：一笔是蚂蚁金服的Pre IPO轮，另一笔则是眼下DeepSeek的第二轮。 同样的炙手可热，各路人马前赴后继。在DeepSeek身后，已站着一众经梁文锋严格筛选过的资方，几乎集结当下市场全部有头有脸的人物。凭借估值逾5000亿元的DeepSeek，梁文锋新进2026胡润百富榜前十。 不由得想到那个不愿上排行榜的浙江隐秘富豪，这次他身后的资本也出现在DeepSeek融资里——横店资本，隶属于年收入超950亿的横店集团，旗下掌控着6家上市公司。或是有意为之，创始人",
-     "source": "虎嗅",
-     "zh": "横店，投了梁文锋"
     },
     {
      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
@@ -1914,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "星巴克、山姆，开始拒绝“白嫖”"
     },
     {
-     "title": "当企业们都戴上AI的“帽子”",
-     "link": "https://www.tmtpost.com/8186955.html",
-     "pubDate": "Fri, 30 Oct 2026 13:05:02 +0800",
-     "summary": "理智与盲目跟风的区别",
-     "source": "钛媒体",
-     "zh": "当企业们都戴上AI的“帽子”"
-    },
-    {
      "title": "TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)",
      "link": "https://www.techmeme.com/261030/p3#a261030p3",
      "pubDate": "Fri, 30 Oct 2026 01:00:14 -0400",
@@ -1954,18 +1970,10 @@ window.INDUSTRY_DATA = {
      "zh": "资料来源：由于黑市 Nvidia Blackwell 芯片价格飙升，DeepSeek 最新一轮融资规模增加了一倍，其中中国国有投资者占 27%（The Information）"
     },
     {
-     "title": "S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from \"potential disruption\" amid geopolitical tensions with China (Joseph C. Sternberg/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261029/p70#a261029p70",
-     "pubDate": "Thu, 29 Oct 2026 23:10:00 -0400",
-     "summary": "Joseph C. Sternberg / Wall Street Journal : S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from &ldquo;potential disruption&rdquo; amid geopolitical tensions with China &nbsp; &mdash;&nbsp; Reliance on the island for AI chip production puts it among America's ",
-     "source": "Techmeme",
-     "zh": "S-1：Anthropic 表示，它严重依赖台湾制造的台积电芯片，并警告在与中国的地缘政治紧张局势中存在“潜在破坏”的风险（Joseph C. Sternberg/华尔街日报）"
-    },
-    {
      "title": "Pico CSS is no longer maintained",
      "link": "https://github.com/picocss/pico/discussions/754",
      "pubDate": "Fri, 30 Oct 2026 01:58:44 +0000",
-     "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 114 # Comments: 43",
+     "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 116 # Comments: 45",
      "source": "Hacker News",
      "zh": "Pico CSS 不再维护"
     }
@@ -1977,6 +1985,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+     "link": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+     "pubDate": "Fri, 30 Oct 2026 08:24:55 +0000",
+     "summary": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
+     "source": "Engadget",
+     "zh": "Binance 遭受黑客攻击，损失创纪录的 63 亿美元加密货币盗窃案"
+    },
     {
      "title": "vivo S70's full camera details emerge in new leak",
      "link": "https://www.gsmarena.com/vivo_s70s_full_camera_details_emerge_in_new_leak-news-75279.php",
@@ -2127,7 +2143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 01:01:35 +0000",
      "summary": "The first two episodes for Apple TV’s latest crime thriller, “ Nocturne ,” are now available to stream. Watch the trailer below. more…",
      "source": "9to5Mac",
-     "zh": "Apple TV 的全新犯罪惊悚剧集《夜曲》现已上线"
+     "zh": "Apple TV 的全新犯罪惊悚剧《夜曲》现已上线"
     },
     {
      "title": "iPhone Air 2 specs surface again in new leak",
@@ -2208,14 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "The site's data is reportedly intact, but the cause of the outage is still unknown.",
      "source": "Engadget",
      "zh": "同人小说网站 AO3 已关闭，可能需要数周时间才能恢复"
-    },
-    {
-     "title": "IQOO’s new mid-range phone puts last year’s flagships to shame",
-     "link": "https://9to5google.com/2026/10/29/iqoos-new-mid-range-phone-puts-last-years-flagships-to-shame/",
-     "pubDate": "Thu, 29 Oct 2026 21:17:35 +0000",
-     "summary": "The IQOO Neo 12 is outfitted with so many premium-level specs that you’d never know this was targeted toward an upper mid-range budget. more…",
-     "source": "9to5Google",
-     "zh": "IQOO新中端手机让去年的旗舰相形见绌"
     }
    ]
   },
@@ -2225,6 +2233,118 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "同庆楼：截至9月30日最新股东户数1.91万户，较上期增加4.48%",
+     "link": "http://stock.eastmoney.com/news/11111,202610303916541123.html",
+     "pubDate": "Fri, 30 Oct 2026 16:46:17 +0800",
+     "summary": "同庆楼 最新披露数据显示，截至9月30日公司股东户数为1.91万户，较上期(2026年6月30日) 增加818户，增幅为4.48% 。户均持有流通股数量 由上期的1.42万股下降至1.36万股， 户均持股金额 由上期的16.02万元增加至16.51万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
+     "source": "东方财富股票",
+     "zh": "同庆楼：截至9月30日最新股东户数1.91万户，较上期增加4.48%"
+    },
+    {
+     "title": "AstraZeneca PLC Non-GAAP EPS of $2.79, revenue of $16.21B beats by $210M; reaffirms FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4661211-astrazeneca-plc-non-gaap-eps-of-279-revenue-of-1621b-beats-by-210m-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 04:45:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "阿斯利康 (AstraZeneca PLC) 非 GAAP 每股收益为 2.79 美元，收入为 16.21B 美元，超出 2.1 亿美元；重申 2026 财年展望"
+    },
+    {
+     "title": "图解财报：奥锐特前三季归母净利润2.21亿元，同比减少37.53%",
+     "link": "http://stock.eastmoney.com/news/11802,202610303916539561.html",
+     "pubDate": "Fri, 30 Oct 2026 16:44:28 +0800",
+     "summary": "奥锐特 10月31日发布2026年 三季报显示，公司前三季 实现营业总收入12.14亿元 ，同比下滑1.87% ；归母净利润2.21亿元 ，同比下滑37.53% ；扣非归母净利润2.15亿元 ，同比下滑37.16% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：奥锐特前三季归母净利润2.21亿元，同比减少37.53%"
+    },
+    {
+     "title": "图解财报：清源股份前三季归母净利润5372.62万元，同比减少45.86%",
+     "link": "http://stock.eastmoney.com/news/11802,202610303916539490.html",
+     "pubDate": "Fri, 30 Oct 2026 16:44:28 +0800",
+     "summary": "清源股份 10月31日发布2026年 三季报显示，公司前三季 实现营业总收入13.73亿元 ，同比下滑18.09% ；归母净利润5372.62万元 ，同比下滑45.86% ；扣非归母净利润5113.73万元 ，同比下滑47.13% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：清源股份前三季归母净利润5372.62万元，同比减少45.86%"
+    },
+    {
+     "title": "图解财报：康美药业前三季归母净利润9340.85万元，同比增长614.01%",
+     "link": "http://stock.eastmoney.com/news/11802,202610303916539376.html",
+     "pubDate": "Fri, 30 Oct 2026 16:44:28 +0800",
+     "summary": "康美药业 10月31日发布2026年 三季报显示，公司前三季 实现营业总收入35.27亿元 ，同比下滑10.91% ；归母净利润9340.85万元 ，同比增长614.01% ；扣非归母净利润-3375.76万元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：康美药业前三季归母净利润9340.85万元，同比增长614.01%"
+    },
+    {
+     "title": "【调研快报】中国核电接待长江证券等19家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610303916539113.html",
+     "pubDate": "Fri, 30 Oct 2026 16:44:19 +0800",
+     "summary": "中国核电 10月30日公告称， 10月29日 接待 长江证券 等19家机构 调研。 接待人员包括董事会秘书 张红军,证券、资本运营部主任 李兴雷,财资部主任 施庆,核能开发事业部副主任 顾健,战略发展部业务经理 刘义明, 电力 营销部主管 李嘉驹,证券事务代表 姜静。 公司就以下问题进行了回复： 公司主要情况介绍: 2026年前三季度,公司坚守安全底线,持续开展设备可靠性提升,全面推进运行生产可视化建设,确保机组安全稳定运行,实现上网电量1,740.95亿度;核电运行业绩继续保持行业领先,前三季度预测18台机组WANO 综合 指数满分,圆满完成11次大修。 2026年前三季度,公司实现营业收.",
+     "source": "东方财富股票",
+     "zh": "【调研快报】中国核电接待长江证券等19家机构调研"
+    },
+    {
+     "title": "工商银行前三季度归母净利润2856.40亿元 同比增长5.83%",
+     "link": "http://finance.eastmoney.com/news/1345,202610303916539062.html",
+     "pubDate": "Fri, 30 Oct 2026 16:43:57 +0800",
+     "summary": "工商银行 披露2026年第三季度报告，前三季度实现营业收入6671.37亿元，同比增长9.19%；归属于母公司股东的净利润2856.40亿元，同比增长5.83%。其中，第三季度实现营业收入2209.74亿元，同比增长9.45%；归母净利润1119.58亿元，同比增长9.97%。 工商银行 2026年前三季度实现净利息收入5190.54亿元，同比增长9.64%；非利息收入1480.83亿元，同比增长7.66%，其中手续费及佣金净收入922.80亿元，同比增长1.55%。前三季度净利息收益率为1.29%，同比上升1个基点。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "工商银行前三季度归母净利润2856.40亿元 同比增长5.83%"
+    },
+    {
+     "title": "Coursera expects $358M-$366M Q4 revenue as integration targets >$150M gross cost savings by year-end",
+     "link": "https://seekingalpha.com/news/4661208-coursera-expects-358m-366m-q4-revenue-as-integration-targets-150m-gross-cost-savings-by-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 04:39:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Coursera 预计第四季度收入为 3.58 亿至 3.66 亿美元，整合目标是到年底节省 > 1.5 亿美元的总成本"
+    },
+    {
+     "title": "Euro markets slip as tech selloff weighs on sentiment",
+     "link": "https://seekingalpha.com/news/4661193-euro-markets-slip-as-tech-selloff-weighs-on-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 04:38:46 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "科技股抛售打压市场情绪，欧元市场下滑"
+    },
+    {
+     "title": "Shoppers’ stocks shine on earnings day while tech takes the hit",
+     "link": "https://seekingalpha.com/news/4661207-shoppers-stocks-shine-on-earnings-day-while-tech-takes-the-hit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 04:33:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "购物者股票在财报日大放异彩，而科技股则受到打击"
+    },
+    {
+     "title": "49股逆市涨停“羊”字辈占10席 玄学炒作为何持续活跃？",
+     "link": "http://finance.eastmoney.com/news/11822,202610303916525640.html",
+     "pubDate": "Fri, 30 Oct 2026 16:33:21 +0800",
+     "summary": "在午后短暂的拉升翻红后，大盘再度转头向下，全市场多达 4602股收跌 。值得注意的是，在今日逆势涨停的49股中，有 10股简称中含有“羊”或相关谐音 。 其中， 阳普医疗 20cm涨停， 阳光照明 “一”字板， 扬子新材 、 红太阳 、 沈阳机床 、 盛洋科技 、 东方海洋 、 澳洋健康 、 泉阳泉 、 鲁阳节能 均封涨停； 明阳电路 、 百洋医药 、 金杨精密 亦涨超10%。 为何持续活跃？ 事实上，自10月下旬以来，“羊”字辈表现活跃： 海洋王 一度走出8天7板， 九阳股份 录得13天8板， 百洋股份 走出12天8板， 襄阳轴承 一度晋级6连板。 东方财富 Choice数据显示，整个10月",
+     "source": "东方财富资讯",
+     "zh": "49股逆市涨停“羊”字辈占10席 玄学炒作为何持续活跃？"
+    },
+    {
+     "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
+     "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+     "pubDate": "Fri, 30 Oct 2026 08:32:39 GMT",
+     "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+     "source": "CNBC",
+     "zh": "亚马逊股价下跌 7%，英特尔股价在盘前交易中下跌 25%，因财报公布后压力加大"
+    },
+    {
+     "title": "东山精密：Q3净利润同比增长401% 环比增长26%",
+     "link": "http://finance.eastmoney.com/news/1345,202610303916516094.html",
+     "pubDate": "Fri, 30 Oct 2026 16:28:55 +0800",
+     "summary": "东山精密 (002384.SZ)公告称，前三季度实现营业收入453.79亿元，同比增长67.63%；归属于上市公司股东的净利润52.89亿元，同比增长332.34%。第三季度实现营业收入175.82亿元，同比增长73.81%；归属于上市公司股东的净利润23.32亿元，同比增长401.18%。业绩变动主要系并购索尔思光电纳入合并范围后新增光模块业务，收入实现较大增长，协同传统板块业务稳步提升所致。小财注：公司Q3净利润23.32亿，Q2净利润18.47亿，据此计算，Q3净利润环比增长26%。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "东山精密：Q3净利润同比增长401% 环比增长26%"
+    },
+    {
+     "title": "中午一度恢复“欢声笑语”的股票群 午后再度“鸦雀无声”",
+     "link": "http://finance.eastmoney.com/news/1345,202610303916514583.html",
+     "pubDate": "Fri, 30 Oct 2026 16:26:44 +0800",
+     "summary": "10月30日，市场大幅低开后震荡回升，午后再度走低，深成指跌近3%，创业板指跌超4%，科创50跌超5%。 盘面上，酒、 食品饮料 概念大幅走强，医药板块逆势活跃；下跌方面， 人工智能 概念走弱， 通信 、 半导体概念 震荡调整。 全市场超4500只个股下跌。万得全A成交额1.69万亿元，较上一个交易日放量1170亿元。 整月来看，10月主要指数集体收跌，整体呈现缩量下跌的走势，双创指数月累计跌幅超23%，创业板指较今年6月的历史高点跌幅超44%，深成指、 中证500 、中证2000均跌超15%。沪深两市超4500只个股月线收阴，本月个股涨跌幅中位数超-12%。 A股三大指数今日再度大幅走低。 ",
+     "source": "东方财富资讯",
+     "zh": "中午一度恢复“欢声笑语”的股票群 午后再度“鸦雀无声”"
+    },
     {
      "title": "Stock futures fall as Amazon and Intel results weigh on Nasdaq",
      "link": "https://seekingalpha.com/news/4661205-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2258,12 +2378,28 @@ window.INDUSTRY_DATA = {
      "zh": "币安在创纪录的 63 亿美元盗窃案后停止提款"
     },
     {
+     "title": "10月30日港股收盘：恒指涨1.46% 恒生科技指数涨0.29%",
+     "link": "http://stock.eastmoney.com/news/11770,202610303916480183.html",
+     "pubDate": "Fri, 30 Oct 2026 16:10:12 +0800",
+     "summary": "港股10月30日收盘走高，恒生指数收报23294.42点，涨335.77点，涨幅1.46%；恒生科技指数收报3754.9点，涨10.76点，涨幅0.29%。恒生指数成分股中 蒙牛乳业 、 中国石油化工股份 、 农夫山泉 涨幅居前， 联想集团 、 华虹宏力 、 中芯国际 跌幅靠前。恒生科技指数成分股中 京东 健康、 海尔智家 、 携程 集团-S涨幅居前， 智谱 、 天数智芯 、 联想集团 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指",
+     "source": "东方财富资讯",
+     "zh": "10月30日港股收盘：恒指涨1.46% 恒生科技指数涨0.29%"
+    },
+    {
      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
      "pubDate": "Fri, 30 Oct 2026 08:09:28 GMT",
      "summary": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
      "source": "CNBC",
      "zh": "有史以来最大规模的加密货币黑客攻击造成 63 亿美元损失，币安努力遏制影响"
+    },
+    {
+     "title": "“来不及入库 直接发货！”这一行业利润大涨超110%",
+     "link": "http://finance.eastmoney.com/news/1348,202610303916498387.html",
+     "pubDate": "Fri, 30 Oct 2026 16:09:00 +0800",
+     "summary": "工业母机 ，简单来说是“制造机器的机器”，是现代工业的心脏和高端制造的根基。 今年以来，在 人工智能 、 新能源 等新兴产业带动下，高端 工业母机 需求持续爆发。从整机研发、核心部件，再到配套耗材等环节，产业链智能化正在提速。 AI等新兴行业需求爆发 高端 工业母机 订单饱满 在江苏常州一家高端工业母机的生产企业，刚完成装配调试的高端机床还来不及入库，就直接装车发给了客户。 针对 新能源 重卡 电池 包规格大、效率快的要求，企业研发双头卧式加工中心、双头龙门加工中心，双头同步加工，让效率翻倍。企业今年已完成三百台设备交付，新订单仍在持续增长。 下游需求变化是这轮高端工业母机需求爆发的重要原因。",
+     "source": "东方财富资讯",
+     "zh": "“来不及入库 直接发货！”这一行业利润大涨超110%"
     },
     {
      "title": "Panasonic Holdings Corporation GAAP EPS of ¥118.60, revenue of ¥4092.52B; updates FY2027 outlook",
@@ -2274,6 +2410,14 @@ window.INDUSTRY_DATA = {
      "zh": "松下控股公司 GAAP EPS 为 118.60 日元，营收为 4092.52B 日元；更新 2027 财年展望"
     },
     {
+     "title": "Binance&apos;s $6.3 billion hack: What we know and what comes next",
+     "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+     "pubDate": "Fri, 30 Oct 2026 08:04:50 GMT",
+     "summary": "Billions in crypto assets have been frozen following a potential Binance security breach, raising questions about whether the funds can be recovered.",
+     "source": "CNBC",
+     "zh": "币安 63 亿美元的黑客攻击：我们所知道的以及接下来会发生什么"
+    },
+    {
      "title": "华尔街看到了AWS的野心，却看不清亚马逊广告业务的未来",
      "link": "https://wallstreetcn.com/articles/3784853",
      "pubDate": "Fri, 30 Oct 2026 16:02:46 +0800",
@@ -2282,84 +2426,20 @@ window.INDUSTRY_DATA = {
      "zh": "华尔街看到了AWS的野心，却看不清亚马逊广告业务的未来"
     },
     {
-     "title": "SpaceX's Cursor neutralizes rogue extension after security incident hits 5,000 users",
-     "link": "https://seekingalpha.com/news/4661199-spacexs-cursor-neutralizes-rogue-extension-after-security-incident-hits-5000-users?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 04:01:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "安全事件影响 5,000 名用户后，SpaceX 的 Cursor 消除了恶意扩展"
+     "title": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
+     "link": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
+     "pubDate": "Fri, 30 Oct 2026 07:51:30 GMT",
+     "summary": "The oil major was the latest to smash profit expectations as global conflicts continue to drive energy market volatility.",
+     "source": "CNBC",
+     "zh": "随着炼油利润飙升，BP 第三季度利润几乎翻了两番，达到 85 亿美元"
     },
     {
-     "title": "西藏药业：截至9月30日最新股东户数4.32万户，较上期增加4.48%",
-     "link": "http://stock.eastmoney.com/news/11111,202610303916460981.html",
-     "pubDate": "Fri, 30 Oct 2026 15:59:36 +0800",
-     "summary": "西藏药业 最新披露数据显示，截至9月30日公司股东户数为4.32万户，较上期(2026年6月30日) 增加1851户，增幅为4.48% 。户均持有流通股数量 由上期的7796股下降至7462股， 户均持股金额 由上期的28.27万元减少至27.13万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "西藏药业：截至9月30日最新股东户数4.32万户，较上期增加4.48%"
-    },
-    {
-     "title": "Forrester outlines 2026 EPS of $0.77 to $0.82 while widening year-end CV range to (-2%) to 2%",
-     "link": "https://seekingalpha.com/news/4661204-forrester-outlines-2026-eps-of-0_77-to-0_82-while-widening-year-end-cv-range-to-minus-2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 03:59:35 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Forrester 预计 2026 年每股收益为 0.77 美元至 0.82 美元，同时将年终 CV 范围扩大至 (-2%) 至 2%"
-    },
-    {
-     "title": "上工申贝：截至9月30日最新股东户数8.94万户，较上期减少16.22%",
-     "link": "http://stock.eastmoney.com/news/11111,202610303916460821.html",
-     "pubDate": "Fri, 30 Oct 2026 15:59:27 +0800",
-     "summary": "上工申贝 最新披露数据显示，截至9月30日公司股东户数为8.94万户，较上期(2026年6月30日) 减少1.73万户，降幅为16.22% 。户均持有流通股数量 由上期的6680股上升至7973股， 户均持股金额 由上期的5.75万元增加至6.04万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "上工申贝：截至9月30日最新股东户数8.94万户，较上期减少16.22%"
-    },
-    {
-     "title": "石头科技：截至9月30日最新股东户数2.76万户，较上期减少15.87%",
-     "link": "http://stock.eastmoney.com/news/11111,202610303916460724.html",
-     "pubDate": "Fri, 30 Oct 2026 15:59:27 +0800",
-     "summary": "石头科技 最新披露数据显示，截至9月30日公司股东户数为2.76万户，较上期(2026年6月30日) 减少5215户，降幅为15.87% 。户均持有流通股数量 由上期的7890股上升至9390股， 户均持股金额 由上期的74.56万元增加至111.52万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
-     "source": "东方财富股票",
-     "zh": "石头科技：截至9月30日最新股东户数2.76万户，较上期减少15.87%"
-    },
-    {
-     "title": "图解财报：云从科技前三季归母净利润-1.02亿元，上年同期-3.10亿元",
-     "link": "http://stock.eastmoney.com/news/11802,202610303916460625.html",
-     "pubDate": "Fri, 30 Oct 2026 15:59:27 +0800",
-     "summary": "云从科技 10月31日发布2026年 三季报显示，公司前三季 实现营业总收入1.31亿元 ，同比下滑63.25% ；归母净利润-1.02亿元 ；扣非归母净利润-1.27亿元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：云从科技前三季归母净利润-1.02亿元，上年同期-3.10亿元"
-    },
-    {
-     "title": "极米科技：截至9月30日最新股东户数7457户，较上期减少8.02%",
-     "link": "http://stock.eastmoney.com/news/11111,202610303916460317.html",
-     "pubDate": "Fri, 30 Oct 2026 15:59:17 +0800",
-     "summary": "极米科技 最新披露数据显示，截至9月30日公司股东户数为7457户，较上期(2026年6月30日) 减少650户，降幅为8.02% 。户均持有流通股数量 由上期的8636股上升至9389股， 户均持股金额 由上期的55.74万元增加至79.62万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担",
-     "source": "东方财富股票",
-     "zh": "极米科技：截至9月30日最新股东户数7457户，较上期减少8.02%"
-    },
-    {
-     "title": "图解财报：阳光电源前三季归母净利润65.99亿元，同比减少44.46%",
-     "link": "http://stock.eastmoney.com/news/11802,202610303916460230.html",
-     "pubDate": "Fri, 30 Oct 2026 15:59:17 +0800",
-     "summary": "阳光电源 10月31日发布2026年 三季报显示，公司前三季 实现营业总收入488.63亿元 ，同比下滑26.41% ；归母净利润65.99亿元 ，同比下滑44.46% ；扣非归母净利润59.68亿元 ，同比下滑48.04% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：阳光电源前三季归母净利润65.99亿元，同比减少44.46%"
-    },
-    {
-     "title": "France's October inflation expected to rise to 3.4%, above estimates",
-     "link": "https://seekingalpha.com/news/4661194-frances-october-inflation-expected-to-rise-to-34-above-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 03:57:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "法国10月通胀率预计升至3.4%，高于预期"
-    },
-    {
-     "title": "Tokyo Electron GAAP EPS of ¥165.59, revenue of ¥1667.45B; updates FY2027 outlook",
-     "link": "https://seekingalpha.com/news/4661202-tokyo-electron-gaap-eps-of-16559-revenue-of-166745b-updates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 03:56:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "东京电子 GAAP EPS 为 165.59 日元，营收为 1667.45B 日元；更新 2027 财年展望"
+     "title": "继理想之后 小米17亿入股欣旺达动力成第三大股东",
+     "link": "http://finance.eastmoney.com/news/1354,202610303916447039.html",
+     "pubDate": "Fri, 30 Oct 2026 15:47:20 +0800",
+     "summary": "继 理想汽车 巨额增资 欣旺达 动力科技股份有限公司（简称“ 欣旺达 动力”）后，小米也成为了该公司股东。 欣旺达 （300207.SZ）10月29日晚间发布公告，旗下动力 电池 主体欣旺达动力完成新一轮增资，小米通过全资子公司瀚星 创投 投入17亿元，增资落地后持有欣旺达动力5.34%股权，成为该公司第三大股东，第二大股东 理想汽车 的股份从8.79%降至8.32%，第一大股东欣旺达惠州 新能源 有限公司的股份从24.06%降至22.78%。 欣旺达动力部分股东名单。来源：欣旺达公告 公告称，欣旺达动力将进行董事会换届选举，本次增资扩股及选举完成后，欣旺达在欣旺达动力的董事会席位将不超过半数",
+     "source": "东方财富资讯",
+     "zh": "继理想之后 小米17亿入股欣旺达动力成第三大股东"
     },
     {
      "title": "Global tech rout deepens as US earnings stoke AI spending fears",
@@ -2378,30 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "三季报业绩“跳跌”，格力电器“压力继续”"
     },
     {
-     "title": "外交部驳斥《纽约时报》涉华报道：捕风捉影 纯属对中国的污蔑抹黑",
-     "link": "http://finance.eastmoney.com/news/1345,202610303916420783.html",
-     "pubDate": "Fri, 30 Oct 2026 15:28:53 +0800",
-     "summary": "据北京日报，外交部发言人郭嘉昆主持例行记者会。 法新社记者提问，《 纽约时报 》昨天发表独家新闻，称一位中国女性高管与 英伟达 CEO黄仁勋关系密切，而美国情报机构表示，该女士是中方的情报人员。中方是否了解这个情况，以及有什么评论？ 郭嘉昆表示，有关报道捕风捉影，纯属对中国的污蔑抹黑。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "外交部驳斥《纽约时报》涉华报道：捕风捉影 纯属对中国的污蔑抹黑"
-    },
-    {
-     "title": "外交部：美方无理打压中国企业 中方坚决反对、强烈不满",
-     "link": "http://finance.eastmoney.com/news/1345,202610303916418988.html",
-     "pubDate": "Fri, 30 Oct 2026 15:24:08 +0800",
-     "summary": "10月30日，外交部发言人郭嘉昆主持例行记者会。有记者问：有消息称，美国有关监管机构已决定禁止所有中国实验室开展智能手机等美国 电子 设备的检测业务。请问中方对此有何评论？ 郭嘉昆表示， 美方泛化国家安全概念、滥用国家力量，无理打压中国企业，中方对此表示坚决反对、强烈不满。 美方做法严重阻碍中美企业正常经贸往来，不符合包括美国企业及消费者在内的各方利益。 中方将采取必要措施，坚定维护自身正当合法权益。 （文章来源：央视新闻客户端）",
-     "source": "东方财富资讯",
-     "zh": "外交部：美方无理打压中国企业 中方坚决反对、强烈不满"
-    },
-    {
-     "title": "午后A股异动！医药、白酒等板块突然发力 盘中发生了啥？",
-     "link": "http://finance.eastmoney.com/news/1345,202610303916411063.html",
-     "pubDate": "Fri, 30 Oct 2026 15:13:04 +0800",
-     "summary": "刚刚，A股大幅异动！ 10月30日午后，医药、 白酒 等板块突然发力，一度带动市场人气回升，A股三大指数悉数翻红，随后各大指数有所回落。 资金面上，截至发稿， 创新药 板块获主力资金净流入超15亿元， 白酒 板块获主力资金净流入超20亿元。 个股方面，医药股午后集体异动。 万邦医药 直线拉升，触及20%涨停； 百花医药 也直线拉升，封10%涨停。早盘， 羚锐制药 、 桂林三金 、 永安药业 已封死涨停板。 华源证券指出，经过2015—2025年的十年创新转型， 中国医药 产业已完成新旧增长动能转换——创新替代仿制、出海能力提升，尤其是 创新药 显著打开了 中国医药 企业增长新曲线。展望2026",
-     "source": "东方财富资讯",
-     "zh": "午后A股异动！医药、白酒等板块突然发力 盘中发生了啥？"
-    },
-    {
      "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
      "link": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
      "pubDate": "Fri, 30 Oct 2026 07:12:49 GMT",
@@ -2410,60 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "伊朗声称四艘油轮在霍尔木兹触雷，美国中期选举后罢工担忧加剧"
     },
     {
-     "title": "【风口研报】海内外龙头业绩共振! ESMO催化板块行情  创新药产业链景气度有望回升",
-     "link": "http://stock.eastmoney.com/news/1405,202610303916410875.html",
-     "pubDate": "Fri, 30 Oct 2026 15:10:00 +0800",
-     "summary": "A股三大指数今日集体回调，截止收盘，沪指跌1.44%，深证成指跌2.73%，创业板指跌4.13%。沪深京三市成交额接近1.7万亿，较昨日放量逾千亿。行业板块多数收跌， 白酒 、 医疗服务 、 航运港口 板块涨幅居前，影视 院线 、游戏、 传媒 、 广告营销 、 软件开发 、 通信设备 、 半导体 板块跌幅居前。个股方面，上涨股票数量不足900只，近50只股票涨停。 海外层面，全球医药龙头业绩兑现提速。隔夜， 礼来 公布2026年第三季度业绩：营收同比增长39%至244亿美元，主要受减重药Zepbound和糖尿病药Mounjaro放量推动；同时将全年营收指引上调至910亿—920亿美元，指引中值",
-     "source": "东方财富资讯",
-     "zh": "【风口研报】海内外龙头业绩共振! ESMO催化板块行情  创新药产业链景气度有望回升"
-    },
-    {
      "title": "日本央行行长：通胀取得阶段性胜利，暗示年内仍可能加息",
      "link": "https://wallstreetcn.com/articles/3784852",
      "pubDate": "Fri, 30 Oct 2026 15:09:08 +0800",
      "summary": "日本央行维持利率不变 ，但明确宣告近14年来的抗通缩之战取得阶段性胜利，并就通胀上行风险发出警告，市场普遍预期下次加息最快将于12月落地。 周五，日本央行在货币政策会议结束后宣布，维持政策利率于1.25%不变。行长植田和男在随后的新闻发布会上表示， 潜在CPI通胀率已基本符合2%的物价稳定目标，并预计将维持在这一水平附近，但央行将继续根据经济活动、物价及金融状况的变化，适时上调政策利率。 植田和男表示： “希望适当地将利率调整到中性水平。” 此次会议同时释出一项意外举措：日本央行宣布将自明年1月起加速出售交易所交易基金（ETF），年度规模从目前的3300亿日元大幅提升至8600亿日元（约合54",
      "source": "华尔街见闻",
      "zh": "日本央行行长：通胀取得阶段性胜利，暗示年内仍可能加息"
-    },
-    {
-     "title": "圣诞行情、还是2000年泡沫重演？华尔街两大历史剧本正面交锋",
-     "link": "https://wallstreetcn.com/articles/3784841",
-     "pubDate": "Fri, 30 Oct 2026 15:07:39 +0800",
-     "summary": "当美联储暂停加息、科技巨头财报密集落地，华尔街正站在一个历史选择题面前：季节性多头规律能否再次奏效，还是2000年科技泡沫破裂的幽灵正在重现？ 德意志银行和BTIG本周相继翻出历史账本，却得出截然相反的结论。德意志银行援引近百年市场数据，指向年底圣诞行情的惯性驱动力；BTIG首席技术策略师Jonathan Krinsky则以2000年费城半导体指数崩溃为模板，警告市场正逼近一个向下的转折点。 两套叙事框架的碰撞，正在让投资者面临今年最难判断的方向性抉择。Krinsky的核心论点并不在于财报数字本身， 而在于\"对市场反应的再反应\"——他认为本轮反弹缺乏真正的筹码出清，期权市场的自满情绪尚未消散，",
-     "source": "华尔街见闻",
-     "zh": "圣诞行情、还是2000年泡沫重演？华尔街两大历史剧本正面交锋"
-    },
-    {
-     "title": "A股三大指数集体收跌 白酒板块逆市大涨",
-     "link": "http://finance.eastmoney.com/news/1345,202610303916404672.html",
-     "pubDate": "Fri, 30 Oct 2026 15:00:08 +0800",
-     "summary": "A股三大指数今日集体回调，截止收盘，沪指跌1.44%，收报3599.02点；深证成指跌2.73%，收报10833.78点；创业板指跌4.13%，收报2413.63点。沪深京三市成交额1.69万亿，较昨日放量逾千亿。 行业板块多数收跌，白酒、医疗服务、航运港口板块涨幅居前，影视院线、游戏、传媒、广告营销、软件开发、通信设备、半导体板块跌幅居前。 个股方面，上涨股票数量不足900只，近50只股票涨停。白酒板块逆市大涨，皇台酒业、泸州老窖、古井贡酒、迎驾贡酒涨停。 主要指数本月集体收跌，整体呈现缩量下跌的走势，双创指数月跌超23%，创业板指较今年6月的历史高点跌幅超44%，深成指、 中证500 、中",
-     "source": "东方财富资讯",
-     "zh": "A股三大指数集体收跌 白酒板块逆市大涨"
-    },
-    {
-     "title": "“十五五”全国算力用电量预计年均新增1000亿千瓦时以上",
-     "link": "http://finance.eastmoney.com/news/1345,202610303916401463.html",
-     "pubDate": "Fri, 30 Oct 2026 14:57:22 +0800",
-     "summary": "记者从国家能源局今天举行的新闻发布会上了解到， 预计“十五五”时期，全国算力用电量年均新增1000亿千瓦时以上 ，到2030年将达到8000亿千瓦时，占全社会用电量的6%左右。 （文章来源：央视新闻客户端）",
-     "source": "东方财富资讯",
-     "zh": "“十五五”全国算力用电量预计年均新增1000亿千瓦时以上"
-    },
-    {
-     "title": "AI会不会消解中国医药的工程师红利",
-     "link": "http://www.eeo.com.cn/2026/1030/1079620.shtml",
-     "pubDate": "Fri, 30 Oct 2026 14:56:09 +0800",
-     "summary": "王印祥认为，如果海外大型制药公司采用AI和机器人去替代大部分重复劳动，海外的制药公司会快速复制工程师红利。AI会带来何种影响，是整个中国生物医药行业都在思考的问题。",
-     "source": "经济观察网",
-     "zh": "AI会不会消解中国医药的工程师红利"
-    },
-    {
-     "title": "全球科技股“惨遭血洗”！韩股收跌3.53%，纳指期货跌2%，黄金跌破4000美元",
-     "link": "https://wallstreetcn.com/articles/3784816",
-     "pubDate": "Fri, 30 Oct 2026 14:53:38 +0800",
-     "summary": "科技股遭遇连续抛售，叠加亚马逊与英特尔财报令市场失望，AI交易退潮迹象加剧，避险情绪在全球市场蔓延。 周五，亚太股市首当其冲。韩国KOSPI指数收跌3.53%，三星电子与SK海力士领跌；日经225指数下挫2.1%，至63,290.11点；日本东证指数跌1%，至3965.07点。黄金跌破每盎司4000美元，现货白银失守51美元关口，日内跌幅达2.21%，创11月以来最低。布伦特原油则因中东局势紧张而上涨。 随着科技股卖压向亚洲市场蔓延，投资者加速轮换至防御性板块与避险资产。基准美债收益率10月累计下跌近40个基点，有望录得2月以来首个月度跌幅。 Floodlines Research投资策略师兼",
-     "source": "华尔街见闻",
-     "zh": "全球科技股“惨遭血洗”！韩股收跌3.53%，纳指期货跌2%，黄金跌破4000美元"
     }
    ]
   },
@@ -2615,7 +2623,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 04:10:47 EDT",
      "summary": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into the last ice age and could reshape our understanding of how glaciers survive dram",
      "source": "ScienceDaily",
-     "zh": "西藏128,000年前的冰可能改写气候历史"
+     "zh": "西藏128,000年历史的冰可能改写气候历史"
     },
     {
      "title": "New system gives users more control over their online experience",
@@ -2663,7 +2671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 16:04:18 +0000",
      "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "蜘蛛如何将“丝原液”纺成自然界最坚硬的材料"
+     "zh": "蜘蛛如何将“丝液”纺成自然界最坚硬的材料"
     },
     {
      "title": "Three-quarters of NFL football players may end up with CTE",

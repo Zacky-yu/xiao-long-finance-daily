@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/30 07:59:21",
+ "generated_at": "2026/10/30 08:09:32",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,54 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "BYD eyes ultra-luxury sedan priced above CNY2 million",
+     "link": "https://www.digitimes.com/news/a20261029PD229/byd-brand-vehicle-technology-market.html",
+     "pubDate": "Thu, 29 Oct 2026 23:58:47 GMT",
+     "summary": "BYD's premium Yangwang brand has named its ultra-luxury flagship sedan \"Altior,\" with the model expected to sell for more than CNY2 million (US$300,027.8). Developed over approximately three years, the sedan is set to debut in the United Arab Emirates as Yangwang seeks to compete with Mercedes-Mayba",
+     "source": "DIGITIMES",
+     "zh": "比亚迪瞄准200万元以上超豪华轿车"
+    },
+    {
+     "title": "Silicon Motion posts fourth straight revenue record, eyes 100% 2026 growth",
+     "link": "https://www.digitimes.com/news/a20261029PD228/revenue-2026-silicon-motion-growth-gross-margin.html",
+     "pubDate": "Thu, 29 Oct 2026 23:58:26 GMT",
+     "summary": "Silicon Motion Technology reported third-quarter 2026 revenue of about US$560 million, marking a record high for the fourth consecutive quarter. Revenue rose 24% quarter-over-quarter and surged 131% year-over-year, putting the company on track to achieve record full-year revenue in 2026, up more tha",
+     "source": "DIGITIMES",
+     "zh": "慧荣营收连续第四次创新高，预计 2026 年增长 100%"
+    },
+    {
+     "title": "China AI stock bubble bursts as STAR 50 plunges 40%, erasing billions in market value",
+     "link": "https://www.digitimes.com/news/a20261029PD225/beijing-stock-market-ai-robotics-demand.html",
+     "pubDate": "Thu, 29 Oct 2026 23:57:51 GMT",
+     "summary": "Chinese AI, robotics, and semiconductor stocks have suffered a steep sell-off in less than four months, casting a shadow over Beijing's push to achieve global technology leadership. According to Reuters , the Shanghai STAR 50 Index has fallen about 40% from its June peak, wiping out approximately US",
+     "source": "DIGITIMES",
+     "zh": "中国人工智能股泡沫破灭，科创板50指数暴跌40%，市值蒸发数十亿"
+    },
+    {
+     "title": "Taiflex, E Ink accelerate PTFE development for AI connectivity materials",
+     "link": "https://www.digitimes.com/news/a20261029PD224/materials-taiflex-development-e-ink-fccl.html",
+     "pubDate": "Thu, 29 Oct 2026 23:57:26 GMT",
+     "summary": "Flexible copper-clad laminate (FCCL) maker Taiflex Scientific announced on October 28 that its board had approved a memorandum of understanding with global e-paper leader E Ink Holdings (EIH) to jointly develop AI high-speed connectivity materials. The partnership combines E Ink's expertise in base-",
+     "source": "DIGITIMES",
+     "zh": "台虹科技、E Ink 加速人工智能连接材料 PTFE 开发"
+    },
+    {
+     "title": "Elite Material posts record 3Q26 revenue on AI demand",
+     "link": "https://www.digitimes.com/news/a20261029PD223/emc-elite-material-revenue-demand-ccl.html",
+     "pubDate": "Thu, 29 Oct 2026 23:57:04 GMT",
+     "summary": "Elite Material Co. (EMC), a copper-clad laminate (CCL) maker, reported record third-quarter 2026 revenue of NT$60.88 billion (US$1.875 billion), driven by strong demand for high-end materials used in AI products and fully loaded production capacity. Revenue rose 28.8% quarter-over-quarter and 142% y",
+     "source": "DIGITIMES",
+     "zh": "Elite Material 因人工智能需求而创下第三季度营收纪录"
+    },
+    {
+     "title": "Analysis: Can Kazakhstan really be Europe's AI factory?",
+     "link": "https://www.digitimes.com/news/a20261029PD211/europe-nvidia-infrastructure-ceo-jensen-huang.html",
+     "pubDate": "Thu, 29 Oct 2026 23:56:45 GMT",
+     "summary": "Nvidia CEO Jensen Huang's visit to Kazakhstan highlights a widening contest over AI computing capacity, as Europe seeks alternatives to infrastructure concentrated in the US and Asia. Kazakhstan, with 21 million people, is developing data centers and pursuing Nvidia partnerships that could position ",
+     "source": "DIGITIMES",
+     "zh": "分析：哈萨克斯坦真能成为欧洲人工智能工厂吗？"
+    },
+    {
      "title": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
      "link": "https://www.eetimes.com/infineons-oktobertech-edge-ai-sdvs-and-the-road-to-800-vdc/",
      "pubDate": "Thu, 29 Oct 2026 20:59:28 +0000",
@@ -296,22 +344,6 @@ window.INDUSTRY_DATA = {
      "summary": "Join this webinar to explore how Gigabit Multimedia Serial Link (GMSL) technology helps enable the next generation of autonomous agricultural equipment. The post How Vision and Connectivity Enable Autonomous Agriculture appeared first on EE Times .",
      "source": "EE Times",
      "zh": "视觉和连接如何实现自主农业"
-    },
-    {
-     "title": "ASE Holdings raises 2026 capex to US$11.5 billion after profit surge",
-     "link": "https://www.digitimes.com/news/a20261029PD246/ase-profit-2026-electronics-revenue.html",
-     "pubDate": "Thu, 29 Oct 2026 16:00:00 GMT",
-     "summary": "ASE Technology Holding reported net profit of NT$26.996 billion (US$831 million) for the third quarter of 2026, a 28% increase from the previous quarter and a 148% gain from a year earlier. The result marked the semiconductor packaging and electronics manufacturing services provider's highest profit",
-     "source": "DIGITIMES",
-     "zh": "利润飙升后日月光控股将 2026 年资本支出提高至 115 亿美元"
-    },
-    {
-     "title": "LandMark orders surpass 2026 revenue; capacity to expand sixfold",
-     "link": "https://www.digitimes.com/news/a20261029PD235/revenue-capacity-2026-demand-silicon.html",
-     "pubDate": "Thu, 29 Oct 2026 15:59:00 GMT",
-     "summary": "AI is driving strong demand for silicon photonics, but LandMark Optoelectronics' planned sixfold capacity expansion over two years still falls short of customer requirements. The optical communications epitaxy supplier posted third-quarter 2026 net income of NT$621 million (US$19.1 million), up 33% ",
-     "source": "DIGITIMES",
-     "zh": "LandMark订单超过2026年收入；产能扩大六倍"
     },
     {
      "title": "PDF Solutions CONNECT 2026 Trip Report",
@@ -354,14 +386,6 @@ window.INDUSTRY_DATA = {
      "zh": "在信号变成电子信号之前，传感器应该做出什么决定？"
     },
     {
-     "title": "Commentary: fire at Episil threatens tight epitaxial wafer supply",
-     "link": "https://www.digitimes.com/news/a20261029PD236/episil-fire-epitaxy-wafer-equipment-production-capacity.html",
-     "pubDate": "Thu, 29 Oct 2026 12:00:00 GMT",
-     "summary": "A fire broke out at the Innovation Plant of semiconductor epitaxial wafer maker Episil on October 28. The extent of equipment damage, the scope of production stoppages, and the recovery timeline remain under clarification. With certain products from Episil already experiencing tight supply, largely ",
-     "source": "DIGITIMES",
-     "zh": "评论：Episil火灾威胁外延片供应紧张"
-    },
-    {
      "title": "STMicroelectronics Weighs Developing More Powerful MCUs, MPUs for Humanoid Robots",
      "link": "https://www.eetimes.com/stmicroelectronics-weighs-developing-more-powerful-mcus-mpus-for-humanoid-robots/",
      "pubDate": "Thu, 29 Oct 2026 11:48:02 +0000",
@@ -384,30 +408,6 @@ window.INDUSTRY_DATA = {
      "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has announced a multi-year agreement to supply its 1200V silicon carbide devices for the next-generation 800V SiC-based inverter platform of BorgWarner Inc of Auburn Hills, MI, USA (which",
      "source": "Semiconductor Today",
      "zh": "Wolfspeed 同意签订多年协议，向博格华纳供应 1200V 碳化硅器件"
-    },
-    {
-     "title": "UMT reports 71% revenue growth as LEO satellite demand drives expansion",
-     "link": "https://www.digitimes.com/news/a20261029PD240/umt-revenue-leo-demand-growth.html",
-     "pubDate": "Thu, 29 Oct 2026 09:29:00 GMT",
-     "summary": "UMT's revenue increased 71% year-over-year in the first three quarters of 2026 as global demand for low Earth orbit (LEO) satellite deployments lifted sales of millimeter-wave communications products. The Taiwan-based company said it would begin advancing manufacturing expansion plans in Taiwan, the",
-     "source": "DIGITIMES",
-     "zh": "由于 LEO 卫星需求推动扩张，UMT 报告收入增长 71%"
-    },
-    {
-     "title": "Qisda's commercial drones enter production as physical AI expands its growth strategy",
-     "link": "https://www.digitimes.com/news/a20261028PD242/qisda-commercial-production-infrastructure-electricity.html",
-     "pubDate": "Thu, 29 Oct 2026 09:29:00 GMT",
-     "summary": "Qisda President Cally Ko said future infrastructure supporting autonomous physical AI would evolve beyond simply providing connectivity and power to also deliver sensing, computing, and autonomous dispatching capabilities. She also disclosed that the company's commercial drones had already secured o",
-     "source": "DIGITIMES",
-     "zh": "随着物理人工智能扩展其增长战略，佳世达商用无人机投入生产"
-    },
-    {
-     "title": "ADATA posts record 2026 profit as AI demand intensifies memory supply pressure",
-     "link": "https://www.digitimes.com/news/a20261029PD241/2026-demand-profit-eps-revenue.html",
-     "pubDate": "Thu, 29 Oct 2026 09:28:00 GMT",
-     "summary": "ADATA Technology reported record results for the third quarter and first nine months of 2026, driven by strong demand for memory and storage products as global artificial intelligence (AI) infrastructure expanded. Net income attributable to shareholders reached NT$12.61 billion (US$388.6 million) in",
-     "source": "DIGITIMES",
-     "zh": "AI需求加剧内存供应压力，威刚2026年盈利创历史新高"
     },
     {
      "title": "ST forecasts $4bn Q4",
@@ -559,7 +559,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 19:09:28 +0000",
      "summary": "Neura Robotics and the Technical University of Munich have opened a €17 million robotics research and training center near Munich Airport, while unveiling the latest generation of Neura’s 4NE1 humanoid robot. The TUM RoboGym powered by Neura covers more than 2,300 square meters at LabCampus and comb",
      "source": "Robotics & Automation",
-     "zh": "Neura Robotics 和 TUM 斥资 1700 万欧元开设 RoboGym 并推出新的人形机器人"
+     "zh": "Neura Robotics 和 TUM 斥资 1700 万欧元开设 RoboGym，并推出新的人形机器人"
     },
     {
      "title": "Maxinsights raises $30 million to build training data platform for physical AI",
@@ -751,7 +751,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 13:46:31 +0000",
      "summary": "The most affordable Lucid doesn’t feel cheap, and it delivers all of the basics that the more expensive trims are known for.",
      "source": "InsideEVs",
-     "zh": "驾驶最便宜的 Lucid Air 行驶 40,000 英里，带来了一些惊喜"
+     "zh": "驾驶最便宜的 Lucid Air 行驶 40,000 英里，带来一些惊喜"
     },
     {
      "title": "Xpeng launches Mona L05 SUV to bolster Q4 sales push",
@@ -834,6 +834,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
+     "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Off-Grid-Solar-Is-Now-the-Cheapest-Power-for-Nearly-400-Million-People.html",
+     "pubDate": "Thu, 29 Oct 2026 19:00:00 -0500",
+     "summary": "The World Bank now ranks off-grid solar as the cheapest way to bring electricity to at least 398 million people who still live without it. A joint report released this week by the World Bank’s Energy Sector Management Assistance Program (ESMAP) and the off-grid solar industry association GOGLA treat",
+     "source": "OilPrice",
+     "zh": "离网太阳能现已成为近 4 亿人最便宜的电力"
+    },
+    {
      "title": "Volkswagen Q3 Loss Largest Since Dieselgate",
      "link": "https://cleantechnica.com/2026/10/29/volkswagen-q3-loss-largest-since-dieselgate/",
      "pubDate": "Thu, 29 Oct 2026 23:44:37 +0000",
@@ -871,7 +879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 16:00:00 -0500",
      "summary": "A Malta-flagged tanker called the Agioi Fanendes left the Russian port of Primorsk on Oct. 22 carrying nearly 40,000 metric tons of ultra-low-sulfur diesel, and ship-tracking data has it arriving at the Port of New York and New Jersey on Nov. 7, four days after the midterm elections. Nobody has publ",
      "source": "OilPrice",
-     "zh": "特朗普的俄罗斯柴油机是一个具有五年保险丝的合法烫手山芋"
+     "zh": "特朗普的俄罗斯柴油机是一个合法的烫手山芋，保险丝有效期为五年"
     },
     {
      "title": "World's First Permanent Nuclear Waste Site Wins License in Finland",
@@ -896,14 +904,6 @@ window.INDUSTRY_DATA = {
      "summary": "XPENG recently launched sales of the new L05 in China and began shipments to global markets. Having seen a camouflaged prototype in Munich a few months ago, I had the impression that it was basically a longer L03. Looking at the production model, other than a few added features and ... [continued] T",
      "source": "CleanTechnica",
      "zh": "小鹏L05提供更多"
-    },
-    {
-     "title": "BYD Earnings Miss Estimates as China's EV Price War Takes Its Toll",
-     "link": "https://oilprice.com/Energy/Energy-General/BYD-Earnings-Miss-Estimates-as-Chinas-EV-Price-War-Takes-Its-Toll.html",
-     "pubDate": "Thu, 29 Oct 2026 14:00:00 -0500",
-     "summary": "Chinese electric vehicle giant BYD reported weaker-than-expected third-quarter earnings on Thursday, highlighting the growing challenges facing China's automakers even as overseas sales continue to surge. BYD's net profit rose 28% year-over-year to 10.02 billion yuan ($1.5 billion), missing analysts",
-     "source": "OilPrice",
-     "zh": "中国电动汽车价格战造成损失，比亚迪盈利未达预期"
     },
     {
      "title": "GE Vernova in $9B deal to buy high-voltage manufacturer as gas turbine orders slow",
@@ -1047,7 +1047,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 13:08:06 +0000",
      "summary": "Distributed energy resource (DER)-focused company FranklinWH has recently announced advancements in residential energy storage programmes in Louisiana and Iowa.",
      "source": "Energy Storage News",
-     "zh": "FranklinWH 通过 Alliant Energy 和 Entergy Louisiana 的合作伙伴关系扩大了美国 VPP 的覆盖范围"
+     "zh": "FranklinWH 与 Alliant Energy 和 Entergy Louisiana 建立合作伙伴关系，扩大美国 VPP 的覆盖范围"
     },
     {
      "title": "FirstEnergy data center pipeline increases 5% to 26 GW in Q3",
@@ -1351,7 +1351,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 21:00:00 +0000",
      "summary": "The leader of NASA's first mission around the moon in half a century is the last to announce what's next for him after retiring from active astronaut duty.",
      "source": "Space.com",
-     "zh": "阿耳忒弥斯二号指挥官雷德·怀斯曼被任命为美国宇航局喷气推进实验室副主任"
+     "zh": "阿耳忒弥斯二号指挥官里德·怀斯曼被任命为美国宇航局喷气推进实验室副主任"
     },
     {
      "title": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
@@ -1391,7 +1391,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 18:00:35 +0000",
      "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since M",
      "source": "NASA",
-     "zh": "NASA 任命特洛伊·阿舍尔·阿姆斯特朗飞行研究中心主任"
+     "zh": "美国宇航局任命特洛伊·阿舍尔·阿姆斯特朗飞行研究中心主任"
     },
     {
      "title": "NIH–NASA QuSAFE Challenge",
@@ -1407,7 +1407,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 15:21:23 +0000",
      "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]",
      "source": "NASA",
-     "zh": "在 NASA 的蜻蜓任务中向泰坦提交你的名字"
+     "zh": "在 NASA 的蜻蜓任务中将你的名字发送给泰坦"
     },
     {
      "title": "Advice for optimizing the space industry with Laura Crabtree",
@@ -1703,7 +1703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 17:09:18 +0530",
      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the",
      "source": "The Hacker News",
-     "zh": "Telegram Android 漏洞可让攻击者在用户接听语音通话时运行代码"
+     "zh": "Telegram Android 漏洞可让攻击者在用户接听语音电话时运行代码"
     },
     {
      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
@@ -1729,6 +1729,54 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "苹果首款触控屏 MacBook Pro 预购：双层串联 OLED、新增灵动岛，22,999 元起",
+     "link": "https://www.ithome.com/1/019/842.htm",
+     "pubDate": "Fri, 30 Oct 2026 00:07:12 GMT",
+     "summary": "IT之家 10 月 30 日消息，苹果在北京时间 10 月 29 日凌晨的特别活动中正式推出了首款触控屏 MacBook Pro（配备 PROLED XDR 显示屏的 MacBook Pro）， 今日 9 点接受预购 ，11 月 6 日发售， 售价 22,999 元起 。 配备 PROLED XDR 显示屏的 MacBook Pro 提供 14 英寸与 16 英寸两种机型，搭载双层串联 OLED 技术，具有最高达 2,000 尼特的峰值 HDR 和 SDR 亮度，对比度 10,000,000:1，支持 120Hz 可变刷新率，覆盖 P3 和 Adobe RGB 广色域。 这款全新 MacBoo",
+     "source": "IT之家",
+     "zh": "苹果首款触控屏 MacBook Pro 预购：双层串联 OLED、新增灵动岛，22,999 元起"
+    },
+    {
+     "title": "柯达的黄色，比胶卷更值钱",
+     "link": "https://www.huxiu.com/article/4901561.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 08:03:02 +0800",
+     "summary": "本文来自微信公众号： 斑马消费 ，作者：陈碧婷 去年秋天，韩国首尔圣水洞的一家服装店门口大排长龙。门店里的衣服只有三种颜色：黄色、红色、黑色，卫衣胸口印着一个大大的“K”字。 今年5月，在上海张园的复古影院风城市店里，毛绒公仔“小野Hirono”身穿黄色连体衣，不少年轻人举着手机争相拍照。 两地共同指向了同一个品牌：柯达。上一次，它这么被追捧，可能还要回溯到胶卷时代。 柯达的价值，竟然是“失败”？ 提起柯达，必然绕不开的一个人是乔治·伊士曼。1879年，他做出干版技术，并在两年后创立伊士曼干板制造公司，这正是柯达的前身。 1900年，公司推出的布朗尼相机售价1美元，冲洗、打印一站式包办，第一年",
+     "source": "虎嗅",
+     "zh": "柯达的黄色，比胶卷更值钱"
+    },
+    {
+     "title": "亚马逊 CEO 安迪 · 贾西自信放话：AWS 终将取得万亿美元年营收",
+     "link": "https://www.ithome.com/1/019/841.htm",
+     "pubDate": "Fri, 30 Oct 2026 00:01:36 GMT",
+     "summary": "IT之家 10 月 30 日消息，亚马逊 CEO 安迪 · 贾西认为，旗下云计算业务亚马逊云科技（AWS）的年营收有望突破 1 万亿美元 （IT之家注：现汇率约合 6.68 万亿元人民币） 。 在当地时间 29 日的季度财报电话会议上，他再次强调这一目标：“亚马逊正在打造前所未有的业务。历史上还 没有任何企业的年营收达到 1 万亿美元 。” 为此，亚马逊还需要大幅增加资本开支，建设足以支撑 AWS 快速增长的基础设施。“我们仍预计 2026 年的现金资本开支大概要 2,200 亿美元 （现汇率约合 1.47 万亿元人民币） ，其中大部分投向 AWS。2027 年的支出还会明显增加，而且我们对这",
+     "source": "IT之家",
+     "zh": "亚马逊 CEO 安迪 · 贾西自信放话：AWS 终将取得万亿美元年营收"
+    },
+    {
+     "title": "苹果首款触控 MacBook Pro 屏幕细节，改为“四角全圆”",
+     "link": "https://www.ithome.com/1/019/840.htm",
+     "pubDate": "Fri, 30 Oct 2026 00:00:03 GMT",
+     "summary": "IT之家 10 月 30 日消息，科技媒体 macobserver 昨日（10 月 29 日）发布博文，报道称在配备 PROLED XDR 显示屏的苹果首款触控 MacBook Pro 上， 苹果公司调整屏幕细节，屏幕底部两角也改为圆角。 IT之家援引博文介绍，在苹果此前推出的 MacBook Pro 机型中，屏幕上角早已采用圆角，但屏幕与下边框衔接处仍保持直角。新款机型则将圆角延伸至底部，让整块屏幕呈现出更统一、更“全面屏化”的轮廓。 这一变化来自苹果全新的 PROLED XDR 显示屏。该屏幕采用 tandem OLED 双层 OLED 技术，支持触控操作，边框进一步收窄，并引入灵动岛，用",
+     "source": "IT之家",
+     "zh": "苹果首款触控 MacBook Pro 屏幕细节，改为“四角全圆”"
+    },
+    {
+     "title": "国产路虎、保时捷扎堆，汽车为什么越长越像？",
+     "link": "https://www.huxiu.com/article/4899922.html?f=rss",
+     "pubDate": "Fri, 30 Oct 2026 08:00:00 +0800",
+     "summary": "国产车越长越像，抠掉车标几乎分不清谁是谁。模仿是行业常态，全球车企都玩合法擦边，但功能和审美才是设计驱动力。你觉得哪辆车的设计最经典？",
+     "source": "虎嗅",
+     "zh": "国产路虎、保时捷扎堆，汽车为什么越长越像？"
+    },
+    {
+     "title": "China’s \"Double 11\" Still Runs—Small Sellers Say the Rules No Longer Fit Them",
+     "link": "https://www.tmtpost.com/8187064.html",
+     "pubDate": "Fri, 30 Oct 2026 07:59:05 +0800",
+     "summary": "Platforms increasingly rank traffic by sales volume and conversion quality, not by lowest price. Big brands clear the metrics more easily. Many mid-size merchants now treat the festival as routine work, not a make-or-break peak.",
+     "source": "钛媒体",
+     "zh": "中国“双11”仍在进行——小卖家称规则不再适合他们"
+    },
     {
      "title": "IT早报 1030：华为制药军团称不做药定位 AI 赋能药企；国产游戏《影之刃零》首发登顶 Steam 全球畅销榜；谷歌盘中跌超 13% 创历史最大单日跌幅...",
      "link": "https://www.ithome.com/1/019/839.htm",
@@ -1760,14 +1808,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 30 日消息，10 月 29 日，重庆知识产权局官方披露，日前， 张雪机车的“ZXMOTO”等核心商标正式完成注册 。 IT之家注意到，张雪本人通过重庆知识产权发布视频，呼吁广大创业者，尊重知识产权，提高专利、商标等知识产权的保护意识。 我们 ZXMOTO 的商标终于注册下来了，其实前面我们一直是“裸奔”哈 。 这么长时间其实都还一直没有注册成功，然后这整个过程中还遇到了不小的难题，因为刚开始那种商标保护的意识不强，然后在这个过程中，我们也得到了重庆知识产权局和国家知识产权局的很多帮助。 也呼吁所有的创业者们，在第一时间，一定一定要注册好自己的商标，包括专利这些知识产权。 ",
      "source": "IT之家",
      "zh": "告别“裸奔”状态，张雪机车“ZXMOTO”等核心商标完成注册"
-    },
-    {
-     "title": "英特尔 2026Q3 营收 165 亿美元超预期：数据中心业务暴增近 80% 创 15 年最强增长",
-     "link": "https://www.ithome.com/1/019/836.htm",
-     "pubDate": "Thu, 29 Oct 2026 23:45:20 GMT",
-     "summary": "IT之家 10 月 30 日消息，太平洋时间 10 月 29 日星期四下午 2 点（北京时间 10 月 30 日凌晨 5 点）举办的 2026 财年第三财季（2026 年 6 月 28 日至 2026 年 9 月 26 日）财报电话会议上，公司首席执行官陈立武表示，数据中心与人工智能 DCAI 业务成为本季度最大亮点， 实现该板块 15 年来最强营收增长，拉动整体业绩超预期。 英特尔本季营收 165 亿美元 （IT之家注：现汇率约合 1,102.29 亿元人民币） 、同比增长 21%；DCAI 营收 73 亿美元 （现汇率约合 487.68 亿元人民币） 、同比增长近 80%，并创下 15 年",
-     "source": "IT之家",
-     "zh": "英特尔 2026Q3 营收 165 亿美元超预期：数据中心业务暴增近 80% 创 15 年最强增长"
     },
     {
      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
@@ -1802,30 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "谷歌市值，一夜蒸发超3万亿元"
     },
     {
-     "title": "应对成本上涨，消费品巨头上演“八仙过海”",
-     "link": "https://www.huxiu.com/article/4901556.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 07:42:47 +0800",
-     "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 走进超市，洗衣液、纸巾、矿泉水往往占据着最稳定的货架。消费者熟悉它们的价格，也熟悉各种满减、组合装和第二件优惠。与手机、汽车相比，这些商品每次购买花不了多少钱，涨几毛钱却很容易被察觉。日用品企业维持价格，远没有货架看上去那么容易。 生产端的情况恰好相反。塑料包装跟着石化原料波动，纸品离不开木浆，运输和能源费用也随市场变化。一件商品出厂以前，需要支付的成本可能已经变了好几轮；零售端却有既定价格带，渠道商要利润，消费者也有大量替代选择。成本变化与售价调整之间，总有一段难以跨越的距离。 2026年，这种压力开始集中反映在企业经营中。国内部分饮",
-     "source": "虎嗅",
-     "zh": "应对成本上涨，消费品巨头上演“八仙过海”"
-    },
-    {
-     "title": "当大学失去最贵的学生",
-     "link": "https://www.huxiu.com/article/4901446.html?f=rss",
-     "pubDate": "Fri, 30 Oct 2026 07:37:52 +0800",
-     "summary": "本文来自微信公众号： 黑板洞察 ，作者：耳东，题图来自：视觉中国 2026年5月，英国议会教育委员会公布了一组罕见的数据：英格兰有24家高等教育机构可能在未来12个月内面临资不抵债和退出市场的风险，其中7家在校生超过3000人。英国迄今还没有一所大学因资不抵债而彻底关闭，但监管部门已经开始讨论，如果风险真正发生，学生如何转学、课程由谁承接、学分和成绩档案如何保存。大学&ldquo;倒闭&rdquo;，第一次从媒体的危机想象变成了监管机构必须准备的应急方案。 危险并非毫无征兆。过去两年，英国高校陆续冻结招聘、推动自愿离职、合并院系、减少课程，并推迟教学楼、实验室和宿舍建设。一些学校出售土地和物业",
-     "source": "虎嗅",
-     "zh": "当大学失去最贵的学生"
-    },
-    {
-     "title": "奔驰全新纯电 E 级明年问世，CEO 康林松称几乎全部采用中国本土采购零部件",
-     "link": "https://www.ithome.com/1/019/807.htm",
-     "pubDate": "Thu, 29 Oct 2026 23:31:47 GMT",
-     "summary": "IT之家 10 月 30 日消息，当地时间 29 日，据外媒 motor1 报道，奔驰 CEO 康林松在 2026 年第三季度财报电话会议上透露，纯电 E 级是一款 从零开始研发的豪华轿车 。新车与燃油版共用 E 级名称，采用独立的纯电平台，并计划在多个方面提升产品表现。 据IT之家了解，新车在大约三年前启动研发，基本没有沿用现成的设计方案。目前，纯电 E 级原型车正进行 最后阶段的测试 ，以解决量产前可能存在的问题。 ▲ motor1 绘制的新车假想图 纯电 E 级预计将与明年改款的燃油 E 级采用高度相似的外观设计。奔驰也借此进一步统一油车和电车的设计语言及车型命名， CLA、GLA、GL",
-     "source": "IT之家",
-     "zh": "奔驰全新纯电 E 级明年问世，CEO 康林松称几乎全部采用中国本土采购零部件"
-    },
-    {
      "title": "Sandisk reports Q1 revenue up 378% YoY to $11B, vs. $10.7B est., forecasts Q2 revenue above est., announces an 8-for-1 stock split; SNDK drops 4%+ after hours (MarketWatch)",
      "link": "https://www.techmeme.com/261029/p62#a261029p62",
      "pubDate": "Thu, 29 Oct 2026 19:30:01 -0400",
@@ -1840,14 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual ope",
      "source": "Hacker News",
      "zh": "Show HN：我把《DOOM》变成了变形金刚"
-    },
-    {
-     "title": "智元发布具身模型 GO-3 Preview：能做煎饼果子、在便利店上岗，登顶三大榜单",
-     "link": "https://www.ithome.com/1/019/806.htm",
-     "pubDate": "Thu, 29 Oct 2026 23:22:24 GMT",
-     "summary": "IT之家 10 月 30 日消息，10 月 29 日，智元正式推出预训练 / 后训练 / 部署后 实现全链路规模化学习的具身模型 —— GO-3 Preview。 该模型采用具身原生的 WRAM（World Reasoning Action Model）架构，将任务推理、未来预测与动作生成连接起来，让机器人理解指令、预测未来，并生成可执行的动作。 该模型已于近日登顶 RoboDojo、RoboTwin、RoboColiseum 三大行业权威评测榜单， 将于 2026 年底全面开源 。 IT之家附官方介绍如下： 基于 WRAM 架构，GO-3 Preview 从数据与模型两个维度共同推进 Sca",
-     "source": "IT之家",
-     "zh": "智元发布具身模型 GO-3 Preview：能做煎饼果子、在便利店上岗，登顶三大榜单"
     },
     {
      "title": "Pinterest reports Q3 revenue up 12% YoY to $1.17B, vs. $1.21B est., global MAUs up 10% to 661M, and forecasts Q4 revenue below est.; PINS drops 8%+ after hours (Liz Moyer/Barron&apos;s Online)",
@@ -1893,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
      "link": "https://journal.animationstudies.org/article/id/66/",
      "pubDate": "Thu, 29 Oct 2026 22:26:38 +0000",
-     "summary": "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 21 # Comments: 1",
+     "summary": "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 24 # Comments: 1",
      "source": "Hacker News",
      "zh": "一头猪、国家和战争：红猪 (Kurenai No Buta) (2014)"
     },
@@ -1909,17 +1917,9 @@ window.INDUSTRY_DATA = {
      "title": "The Great American Rascal: Tom Sawyer at 150",
      "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
      "pubDate": "Thu, 29 Oct 2026 22:14:23 +0000",
-     "summary": "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombinator.com/item?id=50296947 Points: 23 # Comments: 3",
+     "summary": "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombinator.com/item?id=50296947 Points: 23 # Comments: 5",
      "source": "Hacker News",
      "zh": "伟大的美国流氓：汤姆·索亚 150 岁"
-    },
-    {
-     "title": "Should a medical diagnosis reshape the past? (2025)",
-     "link": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
-     "pubDate": "Thu, 29 Oct 2026 22:12:29 +0000",
-     "summary": "Article URL: https://chengela.substack.com/p/should-a-medical-diagnosis-reshape Comments URL: https://news.ycombinator.com/item?id=50296920 Points: 13 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "医学诊断是否应该重塑过去？ (2025)"
     },
     {
      "title": "Coinbase reports Q3 revenue down 35% YoY to $1.22B, in line with est., and net income up 66% to $719M, its first profit in a year, on unrealized crypto gains (Olga Kharif/Bloomberg)",
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Proton goes all in on using AI",
      "link": "https://convo.casa/@b/117525936178835007",
      "pubDate": "Thu, 29 Oct 2026 21:49:28 +0000",
-     "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 23 # Comments: 7",
      "source": "Hacker News",
      "zh": "Proton 全力使用人工智能"
     },
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
      "link": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
      "pubDate": "Thu, 29 Oct 2026 21:48:35 +0000",
-     "summary": "Article URL: https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574 Comments URL: https://news.ycombinator.com/item?id=50296585 Points: 33 # Comments: 4",
+     "summary": "Article URL: https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574 Comments URL: https://news.ycombinator.com/item?id=50296585 Points: 37 # Comments: 5",
      "source": "Hacker News",
      "zh": "厄尔尼诺现象将淹没加州海岸，最高潮汐即将到来"
     },
@@ -1962,12 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "首席执行官表示，Reddit 正在转向“仅限登录的体验”"
     },
     {
-     "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-     "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-     "pubDate": "Thu, 29 Oct 2026 21:20:47 +0000",
-     "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-     "source": "TechCrunch",
-     "zh": "亚马逊报告云收入蓬勃发展，但其他方面未达到预期"
+     "title": "We ran AI agent swarms in Minecraft and Mindustry",
+     "link": "https://labs.ycombinator.com/projects/games/index.html",
+     "pubDate": "Thu, 29 Oct 2026 21:40:28 +0000",
+     "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 101 # Comments: 35",
+     "source": "Hacker News",
+     "zh": "我们在 Minecraft 和 Mindustry 中运行 AI 代理群"
     }
    ]
   },
@@ -2087,7 +2087,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 20:49:53 +0000",
      "summary": "Earlier today Reddit announced that it’s rolling out social media-style ‘For You’ feeds, but that wasn’t the only big news today. Reddit also now says that it’s going to start requiring a logged-in account for accessing most of its content. more…",
      "source": "9to5Mac",
-     "zh": "Reddit 很快将要求大多数内容需要一个帐户"
+     "zh": "Reddit 很快将要求大多数内容都需要一个帐户"
     },
     {
      "title": "Here’s everything new in Android 17 QPR3 Beta 3 [Gallery]",
@@ -2151,7 +2151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 20:57:02 +0100",
      "summary": "The Ultrahuman Ring Pro is now on sale in the US. You can find it online on the company’s own store, on BestBuy.com, Target.com and Walmart.com. If you buy it from Ultrahuman.com, you can get a 10% discount using our code GSMPRO. The code should be applied automatically if you use the highlighted li",
      "source": "GSMArena",
-     "zh": "Ultra human Ring Pro 正在美国各地的网上和商店发售"
+     "zh": "Ultra human Ring Pro 现已在美国各地的网上和商店发售"
     },
     {
      "title": "Moto Buds 2 Plus deal brings Bose-tuned buds under $100",
@@ -2175,7 +2175,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 19:43:52 +0000",
      "summary": "Lenovo Idea Tab Pro Gen 2 drops to $447.36 on Amazon, with a 13-inch 3.5K 144Hz display, pen, and folio case included.",
      "source": "Android Authority",
-     "zh": "购买联想大屏 Idea Tab Pro Gen 2 平板电脑立省 102 美元"
+     "zh": "购买 Lenovo 大屏 Idea Tab Pro Gen 2 平板电脑可节省 102 美元"
     },
     {
      "title": "Time may be up for Samsung Galaxy Watch extended software support",
@@ -2226,12 +2226,140 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+     "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 00:06:00 GMT",
+     "summary": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&P 500.",
+     "source": "MarketWatch",
+     "zh": "Sandisk 的收入增长了近五倍，并且即将进行股票分割"
+    },
+    {
+     "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+     "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 00:05:00 GMT",
+     "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+     "source": "MarketWatch",
+     "zh": "我们教会有 150 万美元的遗赠，在银行账户中赚取 3.75% 的利息。通货膨胀会侵蚀它吗？"
+    },
+    {
+     "title": "Pinterest expects Q4 revenue of $1.425B-$1.475B with adjusted EBITDA of $538M-$588M as EU de minimis changes weigh on international",
+     "link": "https://seekingalpha.com/news/4661064-pinterest-expects-q4-revenue-of-1_425b-1_475b-with-adjusted-ebitda-of-538m-588m-as-eu-de?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 20:01:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pinterest 预计第四季度收入为 $1.425B-$1.475B，调整后 EBITDA 为 $538M-$588M，因欧盟最低限度变化对国际市场造成压力"
+    },
+    {
+     "title": "Sterling outlines $4.63B-$4.73B 2026 revenue outlook as total scoped work reaches nearly $8B",
+     "link": "https://seekingalpha.com/news/4661062-sterling-outlines-4_63b-4_73b-2026-revenue-outlook-as-total-scoped-work-reaches-nearly-8b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 20:01:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sterling 概述了 2026 年收入前景 $4.63B-$4.73B，总范围工作达到近 $8B"
+    },
+    {
+     "title": "Novocure outlines 2026 net revenue of $736M-$743M as it updates adjusted EBITDA to $24M-$34M",
+     "link": "https://seekingalpha.com/news/4661060-novocure-outlines-2026-net-revenue-of-736m-743m-as-it-updates-adjusted-ebitda-to-24m-34m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 20:01:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Novocure 预计 2026 年净收入为 7.36 亿美元至 7.43 亿美元，调整后 EBITDA 更新为 2400 万美元至 3400 万美元"
+    },
+    {
+     "title": "Credit Acceptance signals ~65% forecasted collection rate for 2025-2026 vintages while expanding dealer network",
+     "link": "https://seekingalpha.com/news/4661061-credit-acceptance-signals-65-percent-forecasted-collection-rate-for-2025minus-2026-vintages?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 20:01:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "信用接受表明 2025-2026 年年份的预计回收率约为 65%，同时扩大了经销商网络"
+    },
+    {
+     "title": "博迁新材：融资净偿还4109.64万元，融资余额7.68亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610303915299337.html",
+     "pubDate": "Fri, 30 Oct 2026 08:01:01 +0800",
+     "summary": "交易所最新数据显示， 博迁新材 于2026年10月29日获融资买入2842.64万元，融资偿还6952.28万元， 当日融资净偿还4109.64万元。 目前，该股融资余额7.68亿，占流通市值比例为3.96%。 该股当日融券卖出1800股，融券偿还1800股， 融券净卖出0股。 目前，该股融券余量9.23万股，融券余额683.57万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
+     "source": "东方财富股票",
+     "zh": "博迁新材：融资净偿还4109.64万元，融资余额7.68亿元"
+    },
+    {
+     "title": "PhotonPay raises $40m for stablecoin-centric financial OS",
+     "link": "https://www.finextra.com/newsarticle/48671/photonpay-raises-40m-for-stablecoin-centric-financial-os?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 30 Oct 2026 00:01:00 GMT",
+     "summary": "Stablecoin-centric financial operating system PhotonPay has raised $40 million in a Series C funding round led by Blockchain Capital.",
+     "source": "Finextra",
+     "zh": "PhotonPay 为以稳定币为中心的金融操作系统筹集了 4000 万美元"
+    },
+    {
+     "title": "Kalshi valuation jumps to $40 billion on latest raise",
+     "link": "https://www.finextra.com/newsarticle/48673/kalshi-valuation-jumps-to-40-billion-on-latest-raise?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 30 Oct 2026 00:01:00 GMT",
+     "summary": "Prediction market Kalshi has seen its valuation nearly double to $40 billion in a matter of months off the back of a $1 billion Series G co-led by Wellington and Sequoia.",
+     "source": "Finextra",
+     "zh": "Kalshi 最新一轮融资估值跃升至 400 亿美元"
+    },
+    {
+     "title": "航发科技：融资净买入874.54万元，融资余额3.12亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610303915299173.html",
+     "pubDate": "Fri, 30 Oct 2026 08:00:58 +0800",
+     "summary": "交易所最新数据显示， 航发科技 于2026年10月29日获融资买入3609.04万元，融资偿还2734.50万元， 当日融资净买入874.54万元。 目前，该股融资余额3.12亿，占流通市值比例为2.44%。 该股当日融券卖出6500股，融券偿还3400股， 融券净卖出3100股。 目前，该股融券余量9.27万股，融券余额358.84万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或",
+     "source": "东方财富股票",
+     "zh": "航发科技：融资净买入874.54万元，融资余额3.12亿元"
+    },
+    {
+     "title": "泽璟制药：融资净买入1720.02万元，融资余额3.9亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610303915299056.html",
+     "pubDate": "Fri, 30 Oct 2026 08:00:57 +0800",
+     "summary": "交易所最新数据显示，泽璟制药于2026年10月29日获融资买入3152.35万元，融资偿还1432.34万元， 当日融资净买入1720.02万元。 目前，该股融资余额3.90亿，占流通市值比例为1.75%。 该股当日融券卖出4085股，融券偿还3.00万股， 融券净偿还2.59万股。 目前，该股融券余量7.42万股，融券余额624.85万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部",
+     "source": "东方财富股票",
+     "zh": "泽璟制药：融资净买入1720.02万元，融资余额3.9亿元"
+    },
+    {
+     "title": "青达环保：融资净偿还456.42万元，融资余额1.7亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610303915298913.html",
+     "pubDate": "Fri, 30 Oct 2026 08:00:56 +0800",
+     "summary": "交易所最新数据显示， 青达环保 于2026年10月29日获融资买入451.93万元，融资偿还908.35万元， 当日融资净偿还456.42万元。 目前，该股融资余额1.70亿，占流通市值比例为7.67%。 该股当日融券卖出300股，融券偿还0股， 融券净卖出300股。 目前，该股融券余量1.65万股，融券余额21.09万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
+     "source": "东方财富股票",
+     "zh": "青达环保：融资净偿还456.42万元，融资余额1.7亿元"
+    },
+    {
+     "title": "海尔生物：融资净偿还24.63万元，融资余额2.12亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610303915298813.html",
+     "pubDate": "Fri, 30 Oct 2026 08:00:56 +0800",
+     "summary": "交易所最新数据显示， 海尔生物 于2026年10月29日获融资买入1049.42万元，融资偿还1074.05万元， 当日融资净偿还24.63万元。 目前，该股融资余额2.12亿，占流通市值比例为2.12%。 该股当日融券卖出0股，融券偿还600股， 融券净偿还600股。 目前，该股融券余量10.13万股，融券余额320.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
+     "source": "东方财富股票",
+     "zh": "海尔生物：融资净偿还24.63万元，融资余额2.12亿元"
+    },
+    {
+     "title": "羚锐制药：融资净买入41.7万元，融资余额3.83亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610303915298717.html",
+     "pubDate": "Fri, 30 Oct 2026 08:00:55 +0800",
+     "summary": "交易所最新数据显示， 羚锐制药 于2026年10月29日获融资买入784.20万元，融资偿还742.51万元， 当日融资净买入41.7万元。 目前，该股融资余额3.83亿，占流通市值比例为3.38%。 该股当日融券卖出2700股，融券偿还2.27万股， 融券净偿还2万股。 目前，该股融券余量23.96万股，融券余额479.2万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
+     "source": "东方财富股票",
+     "zh": "羚锐制药：融资净买入41.7万元，融资余额3.83亿元"
+    },
+    {
+     "title": "Amazon outlines AWS growing north of 40% in 2027 and 2028, as it targets $1T revenue in 5 to 10 years",
+     "link": "https://seekingalpha.com/news/4661063-amazon-outlines-aws-growing-north-of-40-percent-in-2027-and-2028-as-it-targets-1t-revenue-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 20:00:42 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "亚马逊预计 AWS 在 2027 年和 2028 年将增长 40% 以上，其目标是在 5 到 10 年内实现 1T 美元的收入"
+    },
+    {
+     "title": "Mechanics Bancorp forecasts 2027 ROTCE of 17% while planning a $100M Q4 dividend",
+     "link": "https://seekingalpha.com/news/4661059-mechanics-bancorp-forecasts-2027-rotce-of-17-percent-while-planning-a-100m-q4-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 29 Oct 2026 20:00:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mechanics Bancorp 预测 2027 年 ROTCE 为 17%，同时计划第四季度股息 1 亿美元"
+    },
+    {
      "title": "Binance &apos;potential security issue&apos; sees $2.54 billion frozen by the likes of Circle, Tether",
      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
      "pubDate": "Thu, 29 Oct 2026 23:56:02 GMT",
      "summary": "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
      "source": "CNBC",
-     "zh": "币安“潜在安全问题”导致 25.4 亿美元被 Circle、Tether 等公司冻结"
+     "zh": "Binance“潜在安全问题”导致 25.4 亿美元被 Circle、Tether 等公司冻结"
     },
     {
      "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
@@ -2250,108 +2378,28 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊大胆的云预测不足以阻止股价下跌"
     },
     {
-     "title": "迎驾贡酒：融资净偿还136.38万元，融资余额1.06亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610303915247264.html",
-     "pubDate": "Fri, 30 Oct 2026 07:53:14 +0800",
-     "summary": "交易所最新数据显示，迎驾贡酒于2026年10月29日获融资买入1007.01万元，融资偿还1143.39万元， 当日融资净偿还136.38万元。 目前，该股融资余额1.06亿，占流通市值比例为0.33%。 该股当日融券卖出300股，融券偿还8300股， 融券净偿还8000股。 目前，该股融券余量4.23万股，融券余额171.02万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈",
-     "source": "东方财富股票",
-     "zh": "迎驾贡酒：融资净偿还136.38万元，融资余额1.06亿元"
+     "title": "光通信龙头前三季度净利大增超200% 行业利好频出 通信板块估值探至年内低位",
+     "link": "http://finance.eastmoney.com/news/1344,202610303915260619.html",
+     "pubDate": "Fri, 30 Oct 2026 07:53:13 +0800",
+     "summary": "两大光 通信 龙头股三季报发布。 10月29日晚间， 通信 板块中的光 通信 龙头 中际旭创 、 新易盛 双双发布三季报，此前 天孚通信 已在前一日发布三季报，至此“易中天”三季报已全部公布。 中际旭创 公告显示，前三季度实现营业收入695.47亿元，同比增长178.13%；归母净利润达222.38亿元，同比大增211.81%。公司表示，受益于全球 AI 算力基础设施建设的深入推进，高速光模块市场需求保持强劲，800G和1.6T等高端光模块销售持续增加。 新易盛 公告显示，前三季度实现营业收入318.50亿元，同比增长92.97%；归母净利润达113.72亿元，同比增长79.74%。公司日前发",
+     "source": "东方财富资讯",
+     "zh": "光通信龙头前三季度净利大增超200% 行业利好频出 通信板块估值探至年内低位"
     },
     {
-     "title": "航天长峰：融资净买入84.43万元，融资余额2.33亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610303915246170.html",
-     "pubDate": "Fri, 30 Oct 2026 07:53:01 +0800",
-     "summary": "交易所最新数据显示，航天长峰于2026年10月29日获融资买入615.58万元，融资偿还531.14万元， 当日融资净买入84.43万元。 目前，该股融资余额2.33亿，占流通市值比例为4.06%。 该股当日融券卖出3900股，融券偿还0股， 融券净卖出3900股。 目前，该股融券余量2.57万股，融券余额31.48万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责",
-     "source": "东方财富股票",
-     "zh": "航天长峰：融资净买入84.43万元，融资余额2.33亿元"
-    },
-    {
-     "title": "德新科技：融资净偿还159.25万元，融资余额1.7亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610303915245780.html",
-     "pubDate": "Fri, 30 Oct 2026 07:52:59 +0800",
-     "summary": "交易所最新数据显示， 德新科技 于2026年10月29日获融资买入475.29万元，融资偿还634.53万元， 当日融资净偿还159.25万元。 目前，该股融资余额1.70亿，占流通市值比例为4.69%。 该股当日融券卖出0股，融券偿还300股， 融券净偿还300股。 目前，该股融券余量1.86万股，融券余额29.02万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
-     "source": "东方财富股票",
-     "zh": "德新科技：融资净偿还159.25万元，融资余额1.7亿元"
-    },
-    {
-     "title": "乐惠国际：融资净偿还204.01万元，融资余额1.05亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610303915245670.html",
-     "pubDate": "Fri, 30 Oct 2026 07:52:59 +0800",
-     "summary": "交易所最新数据显示，乐惠国际于2026年10月29日获融资买入182.77万元，融资偿还386.77万元， 当日融资净偿还204.01万元。 目前，该股融资余额1.05亿，占流通市值比例为4.76%。 该股当日融券卖出3000股，融券偿还0股， 融券净卖出3000股。 目前，该股融券余量1.05万股，融券余额19.21万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何",
-     "source": "东方财富股票",
-     "zh": "乐惠国际：融资净偿还204.01万元，融资余额1.05亿元"
-    },
-    {
-     "title": "华光环能：融资净买入53.55万元，融资余额3.19亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610303915245355.html",
-     "pubDate": "Fri, 30 Oct 2026 07:52:58 +0800",
-     "summary": "交易所最新数据显示， 华光环能 于2026年10月29日获融资买入318.95万元，融资偿还265.40万元， 当日融资净买入53.55万元。 目前，该股融资余额3.19亿，占流通市值比例为2.77%。 该股当日融券卖出1800股，融券偿还6100股， 融券净偿还4300股。 目前，该股融券余量18.75万股，融券余额228.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
-     "source": "东方财富股票",
-     "zh": "华光环能：融资净买入53.55万元，融资余额3.19亿元"
-    },
-    {
-     "title": "电科蓝天：融资净买入1701.99万元，融资余额5.03亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610303915245255.html",
-     "pubDate": "Fri, 30 Oct 2026 07:52:58 +0800",
-     "summary": "交易所最新数据显示， 电科蓝天 于2026年10月29日获融资买入1.60亿元，融资偿还1.43亿元， 当日融资净买入1701.99万元。 目前，该股融资余额5.03亿，占流通市值比例为7.64%。 该股当日无融券交易，融券余额为0。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "电科蓝天：融资净买入1701.99万元，融资余额5.03亿元"
-    },
-    {
-     "title": "Edison reaffirms $5.90-$6.20 2026 core EPS guidance amid push for wildfire reform and $38B-$41B capex plan",
-     "link": "https://seekingalpha.com/news/4661058-edison-reaffirms-5_90-6_20-2026-core-eps-guidance-amid-push-for-wildfire-reform-and-38b-41b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 19:49:51 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "爱迪生重申 2026 年核心每股收益 5.90-6.20 美元，推动野火改革和 38B-41B 美元资本支出计划"
-    },
-    {
-     "title": "Schneider projects 2026 adjusted EPS of $1-$1.10 as it plans Norfolk Southern as primary Eastern Intermodal rail provider from January 1, 2027",
-     "link": "https://seekingalpha.com/news/4661057-schneider-projects-2026-adjusted-eps-of-1-1_10-as-it-plans-norfolk-southern-as-primary?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 19:49:46 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "施耐德预计 2026 年调整后每股收益为 1-1.10 美元，因为它计划从 2027 年 1 月 1 日起诺福克南方铁路成为主要的东部多式联运铁路提供商"
-    },
-    {
-     "title": "A. O. Smith expects 2026 sales up ~4% excluding China as it plans to close CPE deal in H1 2027",
-     "link": "https://seekingalpha.com/news/4661056-a-o-smith-expects-2026-sales-up-4-percent-excluding-china-as-it-plans-to-close-cpe-deal-in-h1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 19:49:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "A. O. Smith 预计 2026 年（不包括中国）销售额将增长约 4%，因为该公司计划在 2027 年上半年完成 CPE 交易"
-    },
-    {
-     "title": "红利资产再成资金避风港17只“绩优+高股息”个股浮出水面",
+     "title": "红利资产再成资金避风港 17只“绩优+高股息”个股浮出水面",
      "link": "http://finance.eastmoney.com/news/11822,202610303915225676.html",
      "pubDate": "Fri, 30 Oct 2026 07:45:33 +0800",
      "summary": "10月29日，A股大幅调整，科技成长股全线重挫， 银行 、 煤炭 、 石油石化 等红利资产再度发挥“避风港”属性。 正值三季报披露临近尾声， 东方财富 Choice数据显示，截至当天21:00，红利+泛 红利股 已有275家公司披露三季报，多只个股不仅坐拥高股息，业绩表现也十分出色。 17只“绩优+高股息” 红利股 出炉 以“Q3单季归母净利润同比、环比均增长，且股息率（TTM）超3.5%”三重标准筛选，共 17只 红利股 脱颖而出 ，扎堆 银行 、公路、 航运 、白电、石化等板块。 从结构上看， 银行 占5席， 高速公路 占4席， 航运港口 占3席，另有 美的集团 、 中国石化 等；股息率最",
      "source": "东方财富资讯",
-     "zh": "红利资产再成资金避风港17只“绩优+高股息”个股浮出水面"
+     "zh": "红利资产再成资金避风港 17只“绩优+高股息”个股浮出水面"
     },
     {
-     "title": "Acadian expects 2026 variable compensation ratio of 34%-38% as it targets continued growth in extension strategies",
-     "link": "https://seekingalpha.com/news/4661055-acadian-expects-2026-variable-compensation-ratio-of-34-percentminus-38-percent-as-it-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 19:39:29 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Acadian 预计 2026 年可变薪酬率为 34%-38%，目标是扩展策略持续增长"
-    },
-    {
-     "title": "AB InBev outlines midterm EBIT 5%-9% outlook while board approves EUR 0.40 interim dividend",
-     "link": "https://seekingalpha.com/news/4661054-ab-inbev-outlines-midterm-ebit-5-percentminus-9-percent-outlook-while-board-approves-eur-0_40?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 19:30:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "百威英博概述中期息税前利润 5%-9% 的前景，董事会批准 0.40 欧元中期股息"
-    },
-    {
-     "title": "Roblox expects Q4 bookings to decline 10%-15% y/y as it plans $380M Q4 CapEx for AI",
-     "link": "https://seekingalpha.com/news/4661053-roblox-expects-q4-bookings-to-decline-10-percentminus-15-percent-y-y-as-it-plans-380m-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 29 Oct 2026 19:30:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Roblox 预计第四季度预订量将同比下降 10%-15%，因为该公司计划第四季度人工智能资本支出为 3.8 亿美元"
+     "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
+     "link": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+     "pubDate": "Thu, 29 Oct 2026 23:45:30 GMT",
+     "summary": "Chipmaker forecasts lower than expected PC chip sales and falling margins",
+     "source": "Financial Times",
+     "zh": "销售前景疲软削弱业绩好转，英特尔股价下跌 22%"
     },
     {
      "title": "刚刚全线跳水！英特尔、亚马逊财报双双不及预期",
@@ -2394,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "光通信“易中天”集体就业绩预期作出最新回应"
     },
     {
-     "title": "长城证券前三季营收40.03亿元降近3% 单季净利下滑逾一成",
-     "link": "http://finance.eastmoney.com/news/1354,202610303915145239.html",
-     "pubDate": "Fri, 30 Oct 2026 07:06:52 +0800",
-     "summary": "长城证券 （002939）第三季度营收净利双双下滑。 10月29日晚间， 长城证券 发布的《2026年第三季度报告》显示，今年第三季度，公司营业收入为11.59亿元，同比减少8.14%；归属于上市公司股东的净利润（下称“净利润”）为4.90亿元，同比减少10.24%。 2026年前三季度， 长城证券 实现营业收入为40.03亿元，同比减少2.86%；净利润为18.84亿元，同比减少2.40%。 截至2026年三季度末，长城证券总资产1416.97亿元，较2025年末1349.90亿元的总资产规模，增长了4.97%。 对于前三季度公司主要会计数据和财务指标发生变动的原因，长城证券在2026年三季",
-     "source": "东方财富资讯",
-     "zh": "长城证券前三季营收40.03亿元降近3% 单季净利下滑逾一成"
-    },
-    {
      "title": "微软250亿美元债券发行获4.6倍认购，但30年期利差高于评级更低的宝洁，债市消化能力趋于极限",
      "link": "https://wallstreetcn.com/articles/3784779",
      "pubDate": "Fri, 30 Oct 2026 07:01:07 +0800",
@@ -2423,47 +2463,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 22:45:00 GMT",
      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
      "source": "MarketWatch",
-     "zh": "我的虐待狂前夫承诺为我们孩子的教育提供 20,000 美元。现在他拒绝付款。他有法律义务吗？"
-    },
-    {
-     "title": "Amazon shares slide on lower Christmas sales forecast",
-     "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
-     "pubDate": "Thu, 29 Oct 2026 22:44:22 GMT",
-     "summary": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit",
-     "source": "Financial Times",
-     "zh": "亚马逊股价因圣诞销售预期下调而下滑"
-    },
-    {
-     "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-     "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-     "pubDate": "Thu, 29 Oct 2026 22:37:54 GMT",
-     "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
-     "source": "CNBC",
-     "zh": "英特尔股价暴跌 21%，芯片制造商将 PC 放缓归咎于业绩指引疲弱"
-    },
-    {
-     "title": "SpaceX最大单一客户曝光，Anthropic每月付款逾30亿美元，Q3营收占比超1/3",
-     "link": "https://wallstreetcn.com/articles/3784808",
-     "pubDate": "Fri, 30 Oct 2026 06:37:39 +0800",
-     "summary": "SpaceX的AI业务正以前所未有的速度改变这家火箭公司的营收结构，而这一转变背后，一家AI初创公司的押注举足轻重。 据彭博援引一位知情人士透露， AI公司Anthropic PBC是SpaceX目前最大的单一客户，在今年第三季度贡献了SpaceX逾三分之一的营收。 这一消息意味着，这家以火箭和卫星业务起家的公司，如今对单一AI计算客户的依赖程度已超过美国联邦政府。 SpaceX上周在一份文件中披露，第三季度约34.5%的营收来自旗下AI部门（现更名为Super Intelligence）的单一客户，该客户在文件中仅被标注为\"客户B\"。 上述知情人士确认，\"客户B\"即为Anthropic，但以",
-     "source": "华尔街见闻",
-     "zh": "SpaceX最大单一客户曝光，Anthropic每月付款逾30亿美元，Q3营收占比超1/3"
-    },
-    {
-     "title": "报道：欧洲央行官员倾向12月加息，通胀前景是关键变量",
-     "link": "https://wallstreetcn.com/articles/3784805",
-     "pubDate": "Fri, 30 Oct 2026 06:26:07 +0800",
-     "summary": "若通胀形势未能改善，欧洲央行将在12月重启加息——这一信号正推动市场对年内再度收紧货币政策的预期持续升温。 据彭博援引知情人士透露， 欧洲央行官员普遍认为，综合当前数据及中东战争对经济的冲击，可能需要再加息25个基点以遏制通胀 。知情人士要求匿名，理由是相关讨论属于内部事项。 市场对此已有所定价， 当前交易显示12月再度加息25个基点的概率约为85%，且投资者预期紧缩周期将延续至2027年，届时或至少再有一次行动。 本周按兵不动，但加息方向\"明确\" 欧洲央行本周维持存款利率于2.5%不变，这是自伊朗战争冲击能源市场、推动通胀飙升至2%目标近两倍以来的第三次利率决议。 行长拉加德宣布将提前卸任，",
-     "source": "华尔街见闻",
-     "zh": "报道：欧洲央行官员倾向12月加息，通胀前景是关键变量"
-    },
-    {
-     "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-     "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-     "pubDate": "Thu, 29 Oct 2026 22:24:49 GMT",
-     "summary": "Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations.",
-     "source": "CNBC",
-     "zh": "亚马逊自由现金流为负 424 亿美元，维持 2026 年资本支出不变"
+     "zh": "我的前夫承诺为我们的孩子提供 20,000 美元的教育费用。现在他拒绝付款。他有法律义务吗？"
     }
    ]
   },
@@ -2567,7 +2567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 12:00:00 +0000",
      "summary": "Everyday Earth clouds get their start with a bit of salt or dust. Not so the Red Planet's Arsia Mons Elongated Cloud, computer models suggest.",
      "source": "Science News",
-     "zh": "令人惊叹的火星云可能源于令人惊讶的物理现象"
+     "zh": "令人惊叹的火星云可能源自令人惊奇的物理现象"
     },
     {
      "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
@@ -2583,7 +2583,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 10:41:03 +0000",
      "summary": "A new program aims to help scientists figure out how the ingredients of the universe formed early galaxies, which lit up the cosmos after a \"dark age.\"",
      "source": "Live Science",
-     "zh": "新模拟以惊人的细节展示了宇宙历史的前 20 亿年"
+     "zh": "新的模拟以惊人的细节展示了宇宙历史的前 20 亿年"
     },
     {
      "title": "Study reveals new clues to why colorectal cancer in young people is so deadly",
@@ -2655,7 +2655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 16:04:18 +0000",
      "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "蜘蛛如何将“丝原液”纺成自然界最坚硬的材料"
+     "zh": "蜘蛛如何将“丝液”纺成自然界最坚硬的材料"
     },
     {
      "title": "Three-quarters of NFL football players may end up with CTE",

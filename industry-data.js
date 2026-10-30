@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 02:40:35",
+ "generated_at": "2026/10/31 02:44:48",
  "recent_days": 7,
  "industries": [
   {
@@ -24,14 +24,6 @@ window.INDUSTRY_DATA = {
      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
      "source": "TechCrunch AI",
      "zh": "Zest 的新 AI 代理可以通过短信查找餐厅和预订"
-    },
-    {
-     "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
-     "link": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
-     "pubDate": "Fri, 30 Oct 2026 17:34:15 +0000",
-     "summary": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkT",
-     "source": "MarkTechPost",
-     "zh": "AI 安全代理比较：Claude、Codex、Mantis、Cloudflare"
     },
     {
      "title": "Google’s first data center satellite is online and writing poetry",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
      "source": "KDnuggets",
      "zh": "现在实际出现在招聘启事中的人工智能技能"
+    },
+    {
+     "title": "Granite Switch 4.1.1 — Update models like you update software",
+     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+     "pubDate": "Thu, 29 Oct 2026 13:37:07 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Granite Switch 4.1.1 — 像更新软件一样更新模型"
     }
    ]
   },
@@ -343,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 10:27:30 +0000",
      "summary": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
      "source": "Electronics Weekly",
-     "zh": "泰雷兹阿莱尼亚宇航公司赢得另外两颗伽利略卫星的合同"
+     "zh": "泰雷兹阿莱尼亚航天公司赢得另外两颗伽利略卫星的合同"
     },
     {
      "title": "Honda targets Level 4 autonomy by 2027, AI maps by 2030",
@@ -359,7 +359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 09:34:14 GMT",
      "summary": "Micron Technology paid its fiscal 2026 bonuses to Taiwan employees on October 30. The company said more than 700 production-line workers earned at least five years' worth of monthly salary in total pay for the year. The payout comes while the union at its Taoyuan fab is still rejecting the company's",
      "source": "DIGITIMES",
-     "zh": "美光称700多名台湾晶圆厂工人一年工资相当于五年"
+     "zh": "美光称700多名台湾晶圆厂工人一年挣五年工资"
     },
     {
      "title": "Realtek targets 30% AI revenue share by 2030",
@@ -447,7 +447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 16:20:34 +0000",
      "summary": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Samsung Electronics Posts $80B Operating Profit on AI Memory Demand appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "三星电子因 AI 内存需求实现营业利润 80B 美元"
+     "zh": "三星电子因 AI 内存需求实现运营利润 80B 美元"
     },
     {
      "title": "How Vision and Connectivity Enable Autonomous Agriculture",
@@ -1335,7 +1335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
      "summary": "'Rest well, my dear friend. Keep navigating a steady course.'",
      "source": "Space.com",
-     "zh": "《星际迷航》中的威廉·夏特纳和乔治·武井纪念沃尔特·柯尼格的去世"
+     "zh": "《星际迷航》中的威廉·夏特纳和乔治·竹井纪念沃尔特·柯尼格的去世"
     },
     {
      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
@@ -1575,7 +1575,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 20:47:28 +0530",
      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can e",
      "source": "The Hacker News",
-     "zh": "TeamViewer 漏洞可让远程计算机攻击连接并控制它们的用户"
+     "zh": "TeamViewer 漏洞可让远程计算机攻击连接控制它们的用户"
     },
     {
      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Google says its Suncatcher prototype data center satellite is online after an October 1 launch, with Gemma 4 generating a haiku about being in space (Tim Fernholz/TechCrunch)",
+     "link": "https://www.techmeme.com/261030/p18#a261030p18",
+     "pubDate": "Fri, 30 Oct 2026 14:40:31 -0400",
+     "summary": "Tim Fernholz / TechCrunch : Google says its Suncatcher prototype data center satellite is online after an October 1 launch, with Gemma 4 generating a haiku about being in space &nbsp; &mdash;&nbsp; Google Suncatcher's prototype space data center is online and communicating with the ground after laun",
+     "source": "Techmeme",
+     "zh": "谷歌表示，其 Suncatcher 原型数据中心卫星在 10 月 1 日发射后已上线，Gemma 4 生成了一首关于太空的俳句（Tim Fernholz/TechCrunch）"
+    },
+    {
      "title": "Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others (Margaux MacColl/Resilience Media)",
      "link": "https://www.techmeme.com/261030/p17#a261030p17",
      "pubDate": "Fri, 30 Oct 2026 14:20:05 -0400",
@@ -1765,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "GitHub Incident with Actions, Pages, and Webhooks",
      "link": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
      "pubDate": "Fri, 30 Oct 2026 17:57:35 +0000",
-     "summary": "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b Comments URL: https://news.ycombinator.com/item?id=50307723 Points: 21 # Comments: 11",
+     "summary": "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b Comments URL: https://news.ycombinator.com/item?id=50307723 Points: 39 # Comments: 19",
      "source": "Hacker News",
      "zh": "涉及操作、页面和 Webhooks 的 GitHub 事件"
     },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
      "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
      "pubDate": "Fri, 30 Oct 2026 17:27:25 +0000",
-     "summary": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 30 # Comments: 12",
+     "summary": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 49 # Comments: 13",
      "source": "Hacker News",
      "zh": "Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级"
     },
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "My favourite PowerMac is a Nintendo Wii",
      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
      "pubDate": "Fri, 30 Oct 2026 17:25:15 +0000",
-     "summary": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 46 # Comments: 5",
+     "summary": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 61 # Comments: 7",
      "source": "Hacker News",
      "zh": "我最喜欢的 PowerMac 是 Nintendo Wii"
     },
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
      "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
      "pubDate": "Fri, 30 Oct 2026 17:24:45 +0000",
-     "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 85 # Comments: 45",
+     "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 135 # Comments: 86",
      "source": "Hacker News",
      "zh": "Proton 首席执行官取消人工智能“重新采访”"
     },
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "A Working Nintendo in ~1GB of Qwen Weights",
      "link": "https://github.com/dbreunig/nesformer",
      "pubDate": "Fri, 30 Oct 2026 16:40:22 +0000",
-     "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 79 # Comments: 67",
+     "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 87 # Comments: 79",
      "source": "Hacker News",
      "zh": "一台可用的任天堂游戏，重量约为 1GB Qwen"
     },
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
      "source": "TechCrunch",
      "zh": "朝鲜黑客被指在币安违规事件中窃取了创纪录的 6.3B 美元"
-    },
-    {
-     "title": "GM to pay $220 million after selling customer Smart Driver data",
-     "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
-     "pubDate": "Fri, 30 Oct 2026 13:53:20 +0000",
-     "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
-     "source": "Ars Technica",
-     "zh": "出售客户智能驾驶员数据后，通用汽车将支付 2.2 亿美元"
     }
    ]
   },
@@ -2016,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "GitHub is having issues today.",
      "source": "Android Authority",
      "zh": "GitHub 适合你吗？这是发生的事情"
-    },
-    {
-     "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
-     "link": "https://www.engadget.com/2302649/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/",
-     "pubDate": "Fri, 30 Oct 2026 18:06:19 +0000",
-     "summary": "The site's data is reportedly intact, but the cause of the outage is still unknown.",
-     "source": "Engadget",
-     "zh": "同人小说网站 AO3 已关闭，可能需要数周时间才能恢复"
     },
     {
      "title": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
@@ -2127,7 +2119,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 16:22:49 +0000",
      "summary": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
      "source": "Engadget",
-     "zh": "tvOS 27.2 新功能尝试升级 Apple TV 体验"
+     "zh": "tvOS 27.2 的新功能可尝试升级 Apple TV 体验"
     },
     {
      "title": "Pixel 6 postmortem: How Google’s flawed reboot defined future hardware [Video]",
@@ -2232,6 +2224,14 @@ window.INDUSTRY_DATA = {
      "summary": "Meta has launched an AI fashion app called Style Sketch in Indonesia, Singapore and Thailand.",
      "source": "Engadget",
      "zh": "Meta悄然推出一款人工智能时尚应用程序，用于虚拟试衣"
+    },
+    {
+     "title": "Strava subscribers can now connect directly to Google Gemini for personalized workout insights",
+     "link": "https://www.gsmarena.com/strava_google_gemini_integration-news-75280.php",
+     "pubDate": "Fri, 30 Oct 2026 13:03:02 +0100",
+     "summary": "Back in June, Strava launched the Model Context Protocol (MCP) connector, letting subscribers query their Strava data through Claude for in-depth training insights. Building on that launch, Strava has announced a Google Gemini integration that lets subscribers get more from their training. Strava su",
+     "source": "GSMArena",
+     "zh": "Strava 订阅者现在可以直接连接到 Google Gemini 以获得个性化的锻炼见解"
     }
    ]
   },
@@ -2242,6 +2242,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "‘AI is the least knowable, least predictable thing; don’t take signals from the market’ – Oaktree Capital’s Howard Marks",
+     "link": "https://seekingalpha.com/news/4661642-ai-is-the-least-knowable-least-predictable-thing-don-t-take-signals-from-the-market-oaktree?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 14:42:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "“人工智能是最不可知、最不可预测的事物；不要接受市场信号”——橡树资本的霍华德·马克斯"
+    },
+    {
+     "title": "Hamilton expects low double-digit premium growth while keeping its cat plan at 6%-7%",
+     "link": "https://seekingalpha.com/news/4661641-hamilton-expects-low-double-digit-premium-growth-while-keeping-its-cat-plan-at-6-percentminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 14:40:29 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "汉密尔顿预计保费将保持两位数的低增长，同时将巨灾保险计划保持在 6%-7%"
+    },
+    {
+     "title": "Regeneron expects 2027 R&D expense to rise by a mid-teens percentage while recording a $1B Sanofi upfront payment in Q4",
+     "link": "https://seekingalpha.com/news/4661640-regeneron-expects-2027-r-and-d-expense-to-rise-by-a-mid-teens-percentage-while-recording-a-1b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 14:40:17 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Regeneron 预计 2027 年研发费用将增长百分之十左右，同时赛诺菲第四季度预付款将达到 10 亿美元"
+    },
+    {
+     "title": "Healthcare Realty raises 2026 normalized FFO guidance to $1.65-$1.67 as same-store cash NOI outlook moves to 5%-5.25%",
+     "link": "https://seekingalpha.com/news/4661639-healthcare-realty-raises-2026-normalized-ffo-guidance-to-1_65-1_67-as-same-store-cash-noi?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 14:40:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Healthcare Realty 将 2026 年标准化 FFO 指导上调至 1.65-1.67 美元，同店现金 NOI 前景升至 5%-5.25%"
+    },
+    {
+     "title": "Forum Energy raises 2026 outlook to $900M-$920M revenue amid Premiere Torque Rings acquisition",
+     "link": "https://seekingalpha.com/news/4661638-forum-energy-raises-2026-outlook-to-900m-920m-revenue-amid-premiere-torque-rings-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 14:40:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "收购 Premiere Torque Rings 后，Forum Energy 将 2026 年收入预期上调至 9 亿至 9.2 亿美元"
+    },
+    {
+     "title": "Pebblebrook forecasts 2026 same-property RevPAR growth of 7.6% to 8% while raising adjusted FFO to $1.88 to $1.92 per share",
+     "link": "https://seekingalpha.com/news/4661637-pebblebrook-forecasts-2026-same-property-revpar-growth-of-7_6-percent-to-8-percent-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 14:40:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pebblebrook 预测 2026 年同物业 RevPAR 增长 7.6% 至 8%，同时将调整后的 FFO 提高至每股 1.88 美元至 1.92 美元"
+    },
+    {
+     "title": "美国原油期货结算价创下9月15日以来最高收盘水平",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917304619.html",
+     "pubDate": "Sat, 31 Oct 2026 02:37:53 +0800",
+     "summary": "美国原油 期货 结算价创下9月15日以来最高收盘水平。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国原油期货结算价创下9月15日以来最高收盘水平"
+    },
+    {
+     "title": "WTI 12月原油期货收报104.12美元/桶",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917304594.html",
+     "pubDate": "Sat, 31 Oct 2026 02:37:53 +0800",
+     "summary": "WTI 12月原油 期货 收报104.12美元/桶。NYMEX 11月汽油 期货 收报3.3120美元/加仑，NYMEX 11月取暖油 期货 收报4.7905美元/加仑。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "WTI 12月原油期货收报104.12美元/桶"
+    },
+    {
+     "title": "哥伦比亚央行利率决议获得七名董事会成员的多数支持",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917304471.html",
+     "pubDate": "Sat, 31 Oct 2026 02:37:52 +0800",
+     "summary": "哥伦比亚央行利率决议获得七名董事会成员的多数支持。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "哥伦比亚央行利率决议获得七名董事会成员的多数支持"
+    },
+    {
+     "title": "黑石下调Anthropic评级预期供应商信用担保重要性上升",
+     "link": "http://stock.eastmoney.com/news/1611,202610313917304749.html",
+     "pubDate": "Sat, 31 Oct 2026 02:35:36 +0800",
+     "summary": "据英国《金融时报》援引知情人士报道， 黑石集团 向投资者表示，Anthropic上市后可能无法立即获得投资级信用评级，预计更可能获得双B级或以上评级，较此前预计其年底前获得投资级评级的判断有所转变。由于部分保险公司和 养老金 基金受到投资限制，难以大规模持有垃圾级债务，Anthropic未来融资渠道可能受到限制，并可能继续依赖高信用评级供应商为其债务融资提供支持。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "黑石下调Anthropic评级预期供应商信用担保重要性上升"
+    },
+    {
      "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
      "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
      "pubDate": "Fri, 30 Oct 2026 18:32:17 GMT",
@@ -2250,44 +2330,20 @@ window.INDUSTRY_DATA = {
      "zh": "里德霍夫曼在爱泼斯坦与选举中的斗争中向民主党提供了数百万美元的后期支出狂潮"
     },
     {
-     "title": "Former Richmond Fed President Lacker says he is surprised at the Fed’s approach amid persistent inflation",
-     "link": "https://seekingalpha.com/news/4661631-former-richmond-fed-president-lacker-says-he-is-surprised-at-the-fed-s-approach-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 14:31:25 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "里士满联储前行长拉克尔表示，他对美联储在通胀持续存在的情况下采取的做法感到惊讶"
+     "title": "未来支出承诺8830亿美元压力大 亚马逊再开高达800亿融资渠道助力AI扩张",
+     "link": "http://stock.eastmoney.com/news/1611,202610313917304321.html",
+     "pubDate": "Sat, 31 Oct 2026 02:31:16 +0800",
+     "summary": "在AI基础设施投入持续膨胀、未来支出承诺升至8830亿美元之际， 亚马逊 披露最高800亿美元的供应商融资贷款工具，为持续大举投入AI提供新的资金弹性。 据 亚马逊 向美国证监会SEC提交的季度文件，公司可在2027年初至2028年第三季度期间自主决定是否动用这项融资安排，贷款将以部分相关采购资产作为抵押。 亚马逊 此前主要依靠经营现金流和债券发行支持 数据中心 建设及芯片采购，此次进一步拓展融资渠道，凸显AI基础设施扩张对资金筹措和现金流管理提出的更高要求。 新增最高800亿美元贷款工具，硬件采购可抵押融资 据报道，亚马逊此次设立的融资安排允许公司围绕技术基础设施资产采购获得最高800亿美元",
+     "source": "东方财富股票",
+     "zh": "未来支出承诺8830亿美元压力大 亚马逊再开高达800亿融资渠道助力AI扩张"
     },
     {
-     "title": "Intel, AMD lead semiconductor rout as SOXX drops about 10%",
-     "link": "https://seekingalpha.com/news/4661627-intel-amd-lead-semiconductor-rout-as-soxx-drops-about-10?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 14:30:55 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SOXX 下跌约 10%，英特尔、AMD 领涨半导体股"
-    },
-    {
-     "title": "Televisa expects AT&T Mexico deal to close in Q1 2027 with net debt-to-EBITDA at 1.9x",
-     "link": "https://seekingalpha.com/news/4661635-televisa-expects-at-and-t-mexico-deal-to-close-in-q1-2027-with-net-debt-to-ebitda-at-1_9x?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 14:30:52 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Televisa 预计 AT&T 墨西哥交易将于 2027 年第一季度完成，净债务与 EBITDA 之比为 1.9 倍"
-    },
-    {
-     "title": "NVent raises 2026 outlook to 48%-49% sales growth and $5.36-$5.39 adjusted EPS, driven by data centers and Maverick Power",
-     "link": "https://seekingalpha.com/news/4661633-nvent-raises-2026-outlook-to-48-percentminus-49-percent-sales-growth-and-5_36-5_39-adjusted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 14:30:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "在数据中心和 Maverick Power 的推动下，NVent 将 2026 年销售增长预期上调至 48%-49%，调整后每股收益 5.36-5.39 美元"
-    },
-    {
-     "title": "Autonation anticipates AutoNation Finance cash flow of at least $150M in 2027 while expanding $1B buyback authorization",
-     "link": "https://seekingalpha.com/news/4661632-autonation-anticipates-autonation-finance-cash-flow-of-at-least-150m-in-2027-while-expanding?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 14:30:02 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Autonation 预计 2027 年 AutoNation Finance 现金流至少为 1.5 亿美元，同时扩大 10 亿美元的回购授权"
+     "title": "多赚3900亿！A股三季报全榜单来了",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917304170.html",
+     "pubDate": "Sat, 31 Oct 2026 02:30:02 +0800",
+     "summary": "多赚3900亿！A股三季报全榜单来了 A股2026年三季报披露收官。 截至10月31日，A股公司中已有5572家披露了2026年三季报，合计实现营收56.66万亿元，同比上涨5.66%，增速较中报有所回落，中报同比上涨7.63%；归母净利润5.10万亿元，比上年同期增加3906.46亿元，同比上涨8.30%，中报同比上涨19.40%。 其中4076家实现盈利（占比73.15%），比中报减少61家；2657家归母净利润同比增长（占比47.68%），比中报减少162家。 科创板利润大涨476% 分板块来看，2026年前三季度沪深主板实现归母净利润45540.95亿元，同比增长2.86%；创业板实现",
+     "source": "东方财富股票",
+     "zh": "多赚3900亿！A股三季报全榜单来了"
     },
     {
      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
@@ -2298,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "我父亲患有阿尔茨海默氏症，他的护理人员正在使用他的借记卡购买 DoorDash。我干预吗？"
     },
     {
-     "title": "Regeneron hits 52-week high after “standout” Q3",
-     "link": "https://seekingalpha.com/news/4661629-regeneron-hits-52-week-high-after-standout-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 14:29:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "再生元在第三季度“表现出色”后触及 52 周新高"
-    },
-    {
      "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
      "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
      "pubDate": "Fri, 30 Oct 2026 18:28:09 GMT",
@@ -2314,12 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "油轮无视伊朗袭击的急剧升级，以保持原油流经霍尔木兹海峡"
     },
     {
-     "title": "PE firm CD&R targets buyout of $40bn Global Payments - FT",
-     "link": "https://www.finextra.com/newsarticle/48681/pe-firm-cdr-targets-buyout-of-40bn-global-payments---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 30 Oct 2026 18:15:00 GMT",
-     "summary": "Global Payments, the payments processor with an enterprise value of around $40 billion, is an acquisition target for private equity firm CD&R, according to the Financial Times.",
-     "source": "Finextra",
-     "zh": "私募股权公司 CD&R 目标收购 400 亿美元的 Global Payments - FT"
+     "title": "纳指跌超3% 费城半导体指数跌超8% 英特尔暴跌超30%",
+     "link": "http://finance.eastmoney.com/news/1345,202610303917048837.html",
+     "pubDate": "Sat, 31 Oct 2026 02:13:08 +0800",
+     "summary": "美东时间周五，美股三大指数集体下跌，截至发稿，道指跌1.17%，纳指跌3.41%，标普500指数跌2.13%。 美股 半导体 板块股票集体大跌，费城 半导体 指数跌超8%。个股方面， 英特尔 暴跌超30%， 闪迪 跌超14%， 高通 跌超12%， AMD跌超11 %， 博通 跌超6%， 全球要闻 特朗普称伊朗战争很快结束 美国总统特朗普10月30日在接受一档电台节目采访时称，对伊朗战争“很快就会结束，无论如何都会很快结束”。特朗普称，伊朗必须达成协议，“而且我们要得到保证，即伊朗永远不会拥有核武器”。 美媒曝：特朗普施压下乌克兰已暂停袭击俄罗斯炼油厂 据美国《华尔街日报》当地时间10月29日报",
+     "source": "东方财富资讯",
+     "zh": "纳指跌超3% 费城半导体指数跌超8% 英特尔暴跌超30%"
     },
     {
      "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
@@ -2354,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "“他伤心欲绝”：我丈夫的孩子在他临死时抛弃了他。他把一切都留给我是对的吗？"
     },
     {
-     "title": "标普500指数跌幅扩大至2% 刷新日低",
-     "link": "http://finance.eastmoney.com/news/11790,202610313917302092.html",
-     "pubDate": "Sat, 31 Oct 2026 01:53:03 +0800",
-     "summary": "标普500指数跌幅扩大至2%，刷新日低。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "标普500指数跌幅扩大至2% 刷新日低"
-    },
-    {
      "title": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
      "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
      "pubDate": "Fri, 30 Oct 2026 17:44:00 GMT",
@@ -2386,28 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "由于盈利引发人工智能支出担忧，美国科技股暴跌"
     },
     {
-     "title": "AI交易显露疲态 欧洲股市10月跑赢美股",
-     "link": "http://finance.eastmoney.com/news/1360,202610313917301562.html",
-     "pubDate": "Sat, 31 Oct 2026 01:23:26 +0800",
-     "summary": "欧洲股市在10月最后一个交易日小幅下跌，不过随着 人工智能 交易显露疲态、推动资金轮动，欧洲股市近期表现优于美国股市。斯托克欧洲600指数收跌0.4%，本月涨幅收窄至约2%。科技股和矿业股表现落后，医疗保健以及 食品饮料 股领涨。周五全球股市遭遇抛售之际，欧洲股市再次相对抗跌。 亚马逊 和 英特尔 业绩令人失望，再度引发市场对巨额AI支出的担忧， 纳斯达克 100指数大跌。亚洲股市也走低，其中被视为AI交易情绪风向标的韩国Kospi指数下跌3.5%，投资者重新评估科技股前景。瑞银一篮子欧洲AI受益股下跌4.9%。斯托克欧洲600指数10月表现势将跑赢标普500指数，后者因科技股权重较高而受到拖",
-     "source": "东方财富股票",
-     "zh": "AI交易显露疲态 欧洲股市10月跑赢美股"
-    },
-    {
      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
      "pubDate": "Fri, 30 Oct 2026 17:21:00 GMT",
      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
      "source": "MarketWatch",
-     "zh": "社会保障的命运 - 以及您的福利 - 掌握在今年当选的候选人手中"
-    },
-    {
-     "title": "福特汽车首席执行官吉姆·法利的目标是到2032年实现年销500万辆汽车",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917301644.html",
-     "pubDate": "Sat, 31 Oct 2026 01:20:25 +0800",
-     "summary": "福特汽车 首席执行官吉姆·法利的目标是到2032年实现年销500万辆 汽车 ，较当前水平增长约20%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "福特汽车首席执行官吉姆·法利的目标是到2032年实现年销500万辆汽车"
+     "zh": "社会保障的命运以及您的福利掌握在今年当选的候选人手中"
     },
     {
      "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
@@ -2424,30 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
      "source": "CNBC",
      "zh": "“恶搞的时机不好”：币安联合创始人赵长鹏在发布有关比特币黑客攻击的帖子后请求埃隆·马斯克“尊重”"
-    },
-    {
-     "title": "【调研快报】迈普医学接待华创证券等140家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610313917301080.html",
-     "pubDate": "Sat, 31 Oct 2026 01:08:01 +0800",
-     "summary": "迈普医学 10月22日公告称， 10月22日 接待华创证券 等140家机构 调研。 接待人员包括董事长 袁玉宇,董事、副总经理、财务总监 骆雅红,董事、副总经理、董事会秘书 龙小燕,证券事务代表 李晓香,投资者关系 楚晟钦。 公司就以下问题进行了回复： 一、简要介绍 公司是一家致力于结合人工合成材料特性,利用先进制造技术开发高性能植入 医疗器械 的高新技术企业。目前,公司是国内神经外科领域唯一同时拥有人工硬脑(脊)膜补片、颅颌面修补及固定系统、可吸收再生氧化纤维素、硬脑膜医用胶等植入 医疗器械 产品的企业,覆盖开颅手术所需要的关键植入 医疗器械 。 ... 点击查看PDF原文 免责声明：本文基",
-     "source": "东方财富股票",
-     "zh": "【调研快报】迈普医学接待华创证券等140家机构调研"
-    },
-    {
-     "title": "美国本周石油钻井数462口 前值460口",
-     "link": "http://finance.eastmoney.com/news/1356,202610313917301169.html",
-     "pubDate": "Sat, 31 Oct 2026 01:07:44 +0800",
-     "summary": "美国本周石油钻井数462口，前值460口。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国本周石油钻井数462口 前值460口"
-    },
-    {
-     "title": "纳指跌超2% 费城半导体指数跌超7% 英特尔暴跌近30%",
-     "link": "http://finance.eastmoney.com/news/1345,202610303917048837.html",
-     "pubDate": "Sat, 31 Oct 2026 01:01:08 +0800",
-     "summary": "美东时间周五，美股三大指数集体下跌，截至发稿，道指跌1.17%，纳指跌3.41%，标普500指数跌2.13%。 美股 半导体 板块股票集体大跌，费城 半导体 指数跌超8%。个股方面， 英特尔 暴跌超30%， 闪迪 跌超14%， 高通 跌超12%， AMD跌超11 %， 博通 跌超6%， 全球要闻 特朗普称伊朗战争很快结束 美国总统特朗普10月30日在接受一档电台节目采访时称，对伊朗战争“很快就会结束，无论如何都会很快结束”。特朗普称，伊朗必须达成协议，“而且我们要得到保证，即伊朗永远不会拥有核武器”。 美媒曝：特朗普施压下乌克兰已暂停袭击俄罗斯炼油厂 据美国《华尔街日报》当地时间10月29日报",
-     "source": "东方财富股票",
-     "zh": "纳指跌超2% 费城半导体指数跌超7% 英特尔暴跌近30%"
     },
     {
      "title": "The effects of a midterm ‘blue wave’ will be felt for years",
@@ -2727,7 +2727,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 16:04:18 +0000",
      "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "蜘蛛如何将“丝原液”纺成自然界最坚硬的材料"
+     "zh": "蜘蛛如何将“丝液”纺成自然界最坚硬的材料"
     }
    ]
   }

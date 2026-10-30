@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/30 14:09:47",
+ "generated_at": "2026/10/30 14:14:12",
  "recent_days": 7,
  "industries": [
   {
@@ -9,12 +9,20 @@
    "total": 16,
    "items": [
     {
-     "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
-     "link": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
-     "pubDate": "Fri, 30 Oct 2026 05:02:52 +0000",
-     "summary": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. The post Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model appeared first on MarkTech",
-     "source": "MarkTechPost",
-     "zh": "Edge0 发布 Audio8-TTS-Realistic，0.6B 语音克隆 TTS 模型"
+     "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+     "link": "https://www.qbitai.com/2026/10/506686.html",
+     "pubDate": "Fri, 30 Oct 2026 05:52:47 +0000",
+     "summary": "解析一切",
+     "source": "量子位",
+     "zh": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR"
+    },
+    {
+     "title": "Claude新模型曝光：新Fable，新Opus…",
+     "link": "https://www.qbitai.com/2026/10/506674.html",
+     "pubDate": "Fri, 30 Oct 2026 05:50:44 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "Claude新模型曝光：新Fable，新Opus…"
     },
     {
      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
@@ -201,28 +209,12 @@
      "zh": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放"
     },
     {
-     "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
-     "link": "https://www.qbitai.com/2026/10/506550.html",
-     "pubDate": "Thu, 29 Oct 2026 09:52:05 +0000",
-     "summary": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
-     "source": "量子位",
-     "zh": "中国MaaS市场TOP2，商汤大装置再度蝉联"
-    },
-    {
      "title": "How we detect frontier model misalignment",
      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
      "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
      "source": "OpenAI",
      "zh": "我们如何检测前沿模型错位"
-    },
-    {
-     "title": "AI安全是AI规模化应用“加速器”",
-     "link": "https://www.qbitai.com/2026/10/506544.html",
-     "pubDate": "Thu, 29 Oct 2026 08:50:14 +0000",
-     "summary": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
-     "source": "量子位",
-     "zh": "AI安全是AI规模化应用“加速器”"
     },
     {
      "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
@@ -247,6 +239,14 @@
      "summary": "AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and supports 6 languages at launch. The post AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Vo",
      "source": "MarkTechPost",
      "zh": "AssemblyAI 推出 AssemblyAI-TTS-1：用于语音代理的每 100 万字符文本转语音 API 售价 15 美元"
+    },
+    {
+     "title": "How Ropes & Gray is developing AI for transactional diligence",
+     "link": "https://openai.com/index/ropes-gray-ai-diligence",
+     "pubDate": "Thu, 29 Oct 2026 07:00:00 GMT",
+     "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+     "source": "OpenAI",
+     "zh": "Ropes & Gray 如何开发用于交易尽职调查的人工智能"
     }
    ]
   },
@@ -1049,12 +1049,12 @@
      "zh": "BAAJA 为联邦监管机构提供了“更大的锤子”来打破传输障碍"
     },
     {
-     "title": "AEP increases investment plan 30% on generation, transmission spending",
+     "title": "AEP increases investment plan 30% to $100B on gen, transmission spending",
      "link": "https://www.utilitydive.com/news/aep-transmission-data-center-earnings/873189/",
      "pubDate": "Thu, 29 Oct 2026 11:05:24 -0400",
-     "summary": "American Electric Power&rsquo;s contracted large loads jumped 22%, to 84 GW, mainly on a 10.4-GW data center in Ohio being developed by SB Energy, company officials said Wednesday.",
+     "summary": "American Electric Power&rsquo;s contracted large loads jumped 22% to 84 GW, mainly on a 10.4-GW data center in Ohio being developed by SB Energy, company officials said Wednesday.",
      "source": "Utility Dive",
-     "zh": "AEP 将发电、输电支出投资计划增加 30%"
+     "zh": "AEP 将发电、输电支出的投资计划增加 30% 至 $100B"
     },
     {
      "title": "US customs frees detained Ethiopian solar cells as duty probe continues",
@@ -1088,6 +1088,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
+     "link": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
+     "pubDate": "Fri, 30 Oct 2026 06:11:31 +0000",
+     "summary": "A Parkinson's cell therapy biotech and an I&I startup from former BioNTech leaders will join the public markets on Friday, extending a sizzling IPO streak for drug developers. Aspen Neuroscience will collect ...",
+     "source": "Endpoints News",
+     "zh": "Aspen Neuroscience 获得 1.41 亿美元的 IPO，Bambusa 获得 1.69 亿美元的IPO"
+    },
     {
      "title": "Aspen raises a $140M IPO in pursuit of a cell therapy for Parkinson’s",
      "link": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
@@ -1191,14 +1199,6 @@
      "summary": "Plus, news about GSK, Ascletis, BioMarin, Rigerna and Hisun. Ono Pharma’s endocannabinoid modulator flunks five trials: The biotech’s ONO-1110 did not meet the primary endpoint in five separate Phase 2 studies ...",
      "source": "Endpoints News",
      "zh": "小野的五次失败； Lenz 和 Molecular Partners 将裁员"
-    },
-    {
-     "title": "Genmab's stock rises on cancer data, while Iovance, Coherus tumble",
-     "link": "https://endpoints.news/genmabs-stock-rises-on-cancer-data-while-iovance-and-coherus-tumble/",
-     "pubDate": "Thu, 29 Oct 2026 15:06:45 +0000",
-     "summary": "Cancer trial news drove a number of stock moves in both directions over the past 24 hours. Here's a summary of key results and their impact: Genmab shares rise on head and neck cancer data: ...",
-     "source": "Endpoints News",
-     "zh": "Genmab 的股价因癌症数据而上涨，而 Iovance 和 Coherus 则下跌"
     },
     {
      "title": "HHS to allow compounders to make 6 unapproved peptides",
@@ -1737,6 +1737,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Qwenputer 问世：把 RISC-V CPU 指令集塞进模型，AI 算数不再靠外部工具",
+     "link": "https://www.ithome.com/1/020/059.htm",
+     "pubDate": "Fri, 30 Oct 2026 06:12:50 GMT",
+     "summary": "IT之家 10 月 30 日消息，开发者 Divyansh Agrawal 于 10 月 22 日发布实验性模型 Qwenputer，基于阿里 Qwen3.5-4B 构建， 在神经网络内部实现了 32 位 RISC-V CPU 与内存功能，让大语言模型无需调用 Python 等外部工具，也能执行程序和精确计算。 IT之家援引博文介绍，传统 AI 大模型依靠预测下一个词元（Token）生成回答，遇到大整数乘除、长链运算时容易出错，通常需要调用外部计算器或代码解释器。 而 Qwenputer 的解决思路是将 RISC-V 的 RV32IM 指令集及相关扩展“编译”进模型权重，并利用 Qwen3.5",
+     "source": "IT之家",
+     "zh": "Qwenputer 问世：把 RISC-V CPU 指令集塞进模型，AI 算数不再靠外部工具"
+    },
+    {
+     "title": "雷蛇预热新款 PlayStation 平台手柄控制器，11 月 3 日发布",
+     "link": "https://www.ithome.com/1/020/057.htm",
+     "pubDate": "Fri, 30 Oct 2026 06:09:40 GMT",
+     "summary": "IT之家 10 月 30 日消息，Razer（雷蛇）近日发布了一款游戏手柄控制器的预热。从动作键与顶部按键字符、整体布局来看，这是一款面向 PlayStation 平台的产品，应该属于 Raiju（飓兽）系列。 值得注意的是，雷蛇的新品预热图片中 包含毒蝰迷你 Signature Edition 同款三角形镂空 ，这一图案也出现在了触控板区域，似乎暗示着该新品的高定位。 雷蛇确认新品将于北京时间 11 月 3 日 23:00 发布 。",
+     "source": "IT之家",
+     "zh": "雷蛇预热新款 PlayStation 平台手柄控制器，11 月 3 日发布"
+    },
+    {
      "title": "认证显示三星 Galaxy S27 标准版有线充电功率仍为 25W，连续七代未升级",
      "link": "https://www.ithome.com/1/020/056.htm",
      "pubDate": "Fri, 30 Oct 2026 06:06:29 GMT",
@@ -1775,22 +1791,6 @@
      "summary": "IT之家 10 月 30 日消息，Sony（索尼）官方近日发布了神秘新品预告，英文宣传语为 \"New yet, Original\"（ 崭新，却又原汁原味 ）、日文宣传语是“耳元に、あの日のミライ”（ 耳畔，是那一天的未来 ）。 此外，该新品预热视频简介是 \"Ready to rewind?\"（ 准备好倒带重温往事了吗？ ），下方是预热的主视觉图。 从多方面情况来看， 索尼似乎将推出一款复古的头戴式耳机 。相关发布活动时间为太平洋标准时间 11 月 5 日 08:00。",
      "source": "IT之家",
      "zh": "索尼发布 \"New yet, Original\" 新品预告，或将推出复古耳机"
-    },
-    {
-     "title": "告别知识截止日：谷歌让 AI 学会“睡觉”，边用边学还不忘旧知识",
-     "link": "https://www.ithome.com/1/020/044.htm",
-     "pubDate": "Fri, 30 Oct 2026 05:51:20 GMT",
-     "summary": "IT之家 10 月 30 日消息，谷歌研究团队于 10 月 27 日发布博文， 介绍一项名为“睡眠框架”（Sleep Framework）的持续学习研究成果，试图解决大语言模型发布后知识固化、难以吸收新信息的难题。 该研究已于 10 月 27 日由 Google Research 公开，相关论文题为《Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories》。 谷歌指出在通常情况下，当前主流大模型在完成预训练后便进入相对静态的部署状态，其知识存在“截止日期”；若依赖上下文学习，新信息又会随会话结束而",
-     "source": "IT之家",
-     "zh": "告别知识截止日：谷歌让 AI 学会“睡觉”，边用边学还不忘旧知识"
-    },
-    {
-     "title": "国产大飞机南航 C919 首次在大湾区执飞 SAF 可持续航空燃料航班",
-     "link": "https://www.ithome.com/1/020/043.htm",
-     "pubDate": "Fri, 30 Oct 2026 05:50:48 GMT",
-     "summary": "IT之家 10 月 30 日消息，据央视新闻报道，10 月 30 日上午，南航 CZ3599 航班在广州白云国际机场完成可持续航空燃料（以下简称“SAF”）加注并顺利起飞。 这是广州白云国际机场始发的首架 SAF 航班，实现广州 SAF 航班“零的突破”，也是粤港澳大湾区首次使用国产大飞机 C919 执飞 SAF 航班，标志着国产大飞机与 SAF 在大湾区蓝天上首次同框，为粤港澳大湾区美丽中国先行区建设、服务国家“双碳”战略目标添上崭新一笔。 IT之家注：可持续航空燃料，是指以废弃油脂、农林废弃物、能源作物、工业尾气、绿氢及捕集二氧化碳等可持续原料，经清洁工艺生产的航空涡轮燃料。 其理化特性与",
-     "source": "IT之家",
-     "zh": "国产大飞机南航 C919 首次在大湾区执飞 SAF 可持续航空燃料航班"
     },
     {
      "title": "疑遭史上最大规模黑客入侵，币安冻结30亿美元并暂停交易",
@@ -2233,6 +2233,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Bright Horizons expects $3.07B revenue and $4.98-$5.03 adjusted EPS amid U.K. safeguarding notice and Australia strategic review",
+     "link": "https://seekingalpha.com/news/4661163-bright-horizons-expects-3_07b-revenue-and-4_98-5_03-adjusted-eps-amid-u-k-safeguarding-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 02:09:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bright Horizo​​ns 预计，由于英国保障通知和澳大利亚战略审查，收入为 3.07B 美元，调整后每股收益为 4.98-5.03 美元"
+    },
+    {
+     "title": "币安被盗的比特币恐已无法追回，Ballet创始人称“钱已经没了”",
+     "link": "https://wallstreetcn.com/articles/3784839",
+     "pubDate": "Fri, 30 Oct 2026 14:08:17 +0800",
+     "summary": "史上最大加密货币黑客攻击事件震动市场。 据彭博10月30日报道，数字资产硬件钱包公司Ballet Global Inc.创始人Bobby Lee直言， 此次币安遭黑客窃取的比特币几乎不可能追回。 “那些钱已经没了，被盗的比特币，全都落入了黑客手中。” 华尔街见闻此前文章 写道，此次事件涉及资产规模高达63亿美元，被业界称为加密货币史上最大规模黑客攻击。币安已暂停全部充提业务，并承诺覆盖所有用户损失。截至目前，约30亿美元的涉事资产已被链上冻结，但Bobby Lee强调， “冻结与追回是两回事” ，稳定币是唯一具备现实追回可能性的资产类别，比特币等加密货币的追回前景则极为渺茫。 市场反应相对克制",
+     "source": "华尔街见闻",
+     "zh": "币安被盗的比特币恐已无法追回，Ballet创始人称“钱已经没了”"
+    },
+    {
      "title": "H2O America prices $325M equity units offering",
      "link": "https://seekingalpha.com/news/4661156-h2o-america-prices-325m-equity-units-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 30 Oct 2026 02:06:16 -0400",
@@ -2319,14 +2335,6 @@
      "summary": "俄罗斯人权事务专员：在俄方控制的阿列什基人道主义行动区域，停火仍在生效。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
      "zh": "俄罗斯人权事务专员：在俄方控制的阿列什基人道主义行动区域，停火仍在生效"
-    },
-    {
-     "title": "Business First Bancshares approves new $30M buyback program",
-     "link": "https://seekingalpha.com/news/4661151-business-first-bancshares-approves-new-30m-buyback-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 01:54:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Business First Bancshares 批准新的 3000 万美元回购计划"
     },
     {
      "title": "每天烧掉3300亿Token，中国平安三季报说了啥？",
@@ -2463,14 +2471,6 @@
      "summary": "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.",
      "source": "CNBC",
      "zh": "日本央行维持利率不变，因为基本通胀自 2013 年以来首次达到 2% 的目标"
-    },
-    {
-     "title": "逆势拉升！银行压舱石作用凸显 4股再创历史新高",
-     "link": "http://finance.eastmoney.com/news/11139,202610303916095033.html",
-     "pubDate": "Fri, 30 Oct 2026 12:16:05 +0800",
-     "summary": "10月30日早盘，A股三大指数延续调整， 银行 板块低开高走逆势拉升， 工商银行 、 建设银行 、 交通银行 、 江苏银行 盘中均创 历史新高 。截至早间收盘，板块微跌0.02%，表现居行业板块前列。个股方面， 西安银行 涨近7%， 青农商行 涨超4%， 苏州银行 涨超1%， 江阴银行 、 苏农银行 等涨近1%。 银行 压舱石作用凸显 在上证指数编制新规实施的背景下， 银行 股作为市场“压舱石”的角色进一步凸显。据中证指数有限公司官网10月29日数据， 长鑫科技 权重为4.64%，为第一大 权重股 ；紧随其后的是 农业银行 、 工商银行 。在前十大 权重股 中，银行股占据重要位置。 据上证报，",
-     "source": "东方财富资讯",
-     "zh": "逆势拉升！银行压舱石作用凸显 4股再创历史新高"
     }
    ]
   },

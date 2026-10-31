@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/31 17:49:55",
+ "generated_at": "2026/10/31 18:09:53",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,30 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "奥特曼：PC上装内存太浪费，最好留给AI数据中心",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071332&idx=1&sn=0c5de14adcf9ec2ab871ae848864ecc7",
+     "pubDate": "Sat, 31 Oct 2026 15:28:00 +0800",
+     "summary": "「你根本不会用内存。」",
+     "source": "机器之心",
+     "zh": "奥特曼：PC上装内存太浪费，最好留给AI数据中心"
+    },
+    {
+     "title": "刚刚，Claude每月200美元套餐取消5小时限制",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071332&idx=2&sn=9dacc8ad2d49132915dd05571bef77a7",
+     "pubDate": "Sat, 31 Oct 2026 15:28:00 +0800",
+     "summary": "Anthropic订阅计划改名。",
+     "source": "机器之心",
+     "zh": "刚刚，Claude每月200美元套餐取消5小时限制"
+    },
+    {
+     "title": "NeurIPS 2026 ED Oral丨Benchmark也有保质期？我们给158个评测基准打了分",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071332&idx=3&sn=7cc64e4b48436f5cdc7cc2766d84639a",
+     "pubDate": "Sat, 31 Oct 2026 15:28:00 +0800",
+     "summary": "BHI 为评测基准的有效性提供了一份可持续更新的参考。",
+     "source": "机器之心",
+     "zh": "NeurIPS 2026 ED Oral丨Benchmark也有保质期？我们给158个评测基准打了分"
+    },
     {
      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
      "link": "https://www.qbitai.com/2026/10/506884.html",
@@ -223,30 +247,6 @@
      "summary": "4 bugs that pass every null check, duplicate check, and schema test.",
      "source": "KDnuggets",
      "zh": "每个清洗管道中都存在的无声数据错误"
-    },
-    {
-     "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-     "link": "https://www.qbitai.com/2026/10/506785.html",
-     "pubDate": "Fri, 30 Oct 2026 11:05:06 +0000",
-     "summary": "之前还连登昇腾三榜第一",
-     "source": "量子位",
-     "zh": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！"
-    },
-    {
-     "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
-     "link": "https://www.qbitai.com/2026/10/506779.html",
-     "pubDate": "Fri, 30 Oct 2026 10:44:01 +0000",
-     "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
-     "source": "量子位",
-     "zh": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”"
-    },
-    {
-     "title": "Making it easier for websites to express AI training preferences",
-     "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-     "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
-     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-     "source": "OpenAI",
-     "zh": "让网站更容易表达人工智能训练偏好"
     }
    ]
   },
@@ -1097,6 +1097,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more",
+     "link": "https://endpoints.news/anthropics-one-person-biotech-buy-jake-van-naardens-dealmaking-strategy-and-more/",
+     "pubDate": "Sat, 31 Oct 2026 10:00:28 +0000",
+     "summary": "Hello and welcome back to a spooky Halloween edition of Endpoints Weekly! Sorry to all the candy corn lovers out there, but just noting that they’re actually made with bug secretions. The Atlantic has all ...",
+     "source": "Endpoints News",
+     "zh": "Anthropic 的单人生物技术收购；杰克·范纳尔登的交易策略；还有更多"
+    },
+    {
      "title": "Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure",
      "link": "https://www.genengnews.com/topics/artificial-intelligence/opentrons-raises-40m-in-series-e-to-expand-its-robotics-software-data-infrastructure/",
      "pubDate": "Fri, 30 Oct 2026 19:17:01 +0000",
@@ -1225,14 +1233,6 @@
      "zh": "Dupixent 专利悬崖迫近，赛诺菲“没有重大重组计划”"
     },
     {
-     "title": "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire",
-     "link": "https://endpoints.news/after-be-bio-shutdown-its-ceo-heads-to-orbis-enantas-longtime-chief-jay-luly-to-retire/",
-     "pubDate": "Fri, 30 Oct 2026 11:00:55 +0000",
-     "summary": "→ Former Be Biopharma chief Joanne Smith-Farrell has landed at Orbis Medicines, an Eli Lilly- and Novo-backed startup that's developing oral macrocycles. Smith-Farrell replaces co-founder Morten Graugaard as CEO of Orbis ...",
-     "source": "Endpoints News",
-     "zh": "Be Bio 关闭后，其首席执行官前往 Orbis； Enanta 的长期首席执行官杰伊·卢利 (Jay Luly) 将退休"
-    },
-    {
      "title": "With Setara, the team behind Actio opens its second act",
      "link": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
      "pubDate": "Fri, 30 Oct 2026 06:30:00 -0400",
@@ -1296,6 +1296,14 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
+     "link": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
+     "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+     "summary": "From Saturn's spectacular rings to Halloween fireballs and a space station flyover, there are plenty of celestial treats in store this Halloween. Here's when and where to look.",
+     "source": "Space.com",
+     "zh": "2026 年万圣节夜空——土星、流星和空间站等待着美国观星者"
+    },
     {
      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
@@ -1375,14 +1383,6 @@
      "summary": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […] The post ESI supplying solar array components to missile defense programs appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "ESI 为导弹防御计划提供太阳能电池阵列组件"
-    },
-    {
-     "title": "The rocket scientist who summoned demons: The true horror story of Jack Parsons",
-     "link": "https://www.space.com/space-exploration/the-rocket-scientist-who-summoned-demons-the-true-horror-story-of-jack-parsons",
-     "pubDate": "Fri, 30 Oct 2026 18:00:00 +0000",
-     "summary": "Rocketry pioneer Jack Parsons engaged in an elaborate series of occult ceremonies intended to summon an otherworldly feminine goddess into physical existence.",
-     "source": "Space.com",
-     "zh": "召唤恶魔的火箭科学家：杰克·帕森斯的真实恐怖故事"
     },
     {
      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
@@ -1745,12 +1745,84 @@
    "total": 18,
    "items": [
     {
+     "title": "索尼招聘 PlayStation 高级总监，负责 PS 商店“智能定价”",
+     "link": "https://www.ithome.com/1/020/575.htm",
+     "pubDate": "Sat, 31 Oct 2026 10:08:46 GMT",
+     "summary": "IT之家 10 月 31 日消息，The Game Post 昨日发现，索尼互动娱乐（SIE）近日发布的一则招聘信息，显示 PlayStation Store 确实存在动态定价机制。 索尼正在招聘一名“数字游戏货币化高级总监”（Senior Director, Digital Games Monetization），负责领导 PlayStation Store 全球数字游戏商业化团队，其中包括推动“智能定价”（Intelligent Pricing）机制的应用与发展，以及扩大“定向优惠”（Targeted Offers）计划的影响力。 根据 SIE 官方招聘页面，该岗位将负责制定 PlaySt",
+     "source": "IT之家",
+     "zh": "索尼招聘 PlayStation 高级总监，负责 PS 商店“智能定价”"
+    },
+    {
+     "title": "沙特专线清关卡了9天，COD回款周期被拖到45天，该换物流商还是改预付？",
+     "link": "https://www.baijing.cn/question/638557",
+     "pubDate": "Sat, 31 Oct 2026 10:05:53 +0000",
+     "summary": "做中东独立站家居小件，团队6人，日订单200-300单，沙特和阿联酋各占一半。用的深圳一家中东专线，头程空运到利雅得清关，最近一批货在沙特海关卡了9天，原因说是SABER证书上的品名和发票不一致，补资料又耽误3天，整体签收时效从12天拉到21天以上。我们走的是COD，物流商回款周期原本签收后7天结算，现在因为签收延迟，实际回款拖到45天，现金流压了将近40万。已经试过换发票模板、提前做SABER认证，但清关行反馈沙特这边对家居类目查验率明显上升。现在纠结的是：继续用这家专线但把COD改成预付（担心沙特用户拒付率高），还是换一家在利雅得有自己清关行的物流商，把时效和回款周期压回30天以内？想听做",
+     "source": "白鲸出海",
+     "zh": "沙特专线清关卡了9天，COD回款周期被拖到45天，该换物流商还是改预付？"
+    },
+    {
+     "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+     "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+     "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+     "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+     "source": "WIRED",
+     "zh": "人工智能代理将药物注射到活老鼠的大脑中"
+    },
+    {
+     "title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+     "link": "https://www.wired.com/story/bose-deals-october-2026/",
+     "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+     "summary": "They’re a steal at over 40 percent off in multiple colors. Plus, other great Bose deals you should know about ahead of Black Friday.",
+     "source": "WIRED",
+     "zh": "Bose QC 耳机（第二代）促销：黑色星期五前最低价"
+    },
+    {
+     "title": "影史经典《海上钢琴师》11 月 13 日再次内地重映，豆瓣评分 9.3",
+     "link": "https://www.ithome.com/1/020/574.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:59:57 GMT",
+     "summary": "IT之家 10 月 31 日消息，今日，由意大利著名导演朱塞佩 · 托纳托雷执导的影史经典《海上钢琴师》官宣于 11 月 13 日内地重映，影片豆瓣评分 9.3。 此次《海上钢琴师》重映版本除普通 2D 版本外， 还推出 4K 修复版 ，以 CINITY、CINITY LED 的特殊制式呈现。该电影由中国电影集团公司进口，中国电影产业集团股份有限公司发行、译制，由朱塞佩 · 托纳托雷执导，蒂姆 · 罗斯、普路特 · 泰勒 · 文斯领衔主演。 IT之家注意到，该片于 1998 年推出， 2019 年在中国内地上映 ，并在 2024 年重映。 该片改编自 亚利桑德罗 · 巴里克 创作的文学剧本《 ",
+     "source": "IT之家",
+     "zh": "影史经典《海上钢琴师》11 月 13 日再次内地重映，豆瓣评分 9.3"
+    },
+    {
+     "title": "长鑫科技：已与多家头部客户协商长期供货协议",
+     "link": "https://www.ithome.com/1/020/573.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:56:52 GMT",
+     "summary": "IT之家 10 月 31 日消息，在 2026 年第三季度业绩说明会上，长鑫科技管理层就投资者关注的盈利前景回应称： 已与多家头部客户协商长期供货协议 ，从而锁定中长期确定性需求，预计第四季度毛利率将继续保持稳定。 据IT之家了解，长鑫科技今年前三季度综合毛利率达 86.85%；第三季度单季毛利率达到 89.53%。 前三季度累计业绩： 营业收入达 2690.24 亿元，同比增长 738.51%；归属于上市公司股东的净利润达 1320.4 亿元，实现 扭亏为盈 （上年同期为净亏损 52.8 亿元）；扣非归母净利润达 1340.3 亿元；经营活动产生的现金流量净额达 2547.51 亿元，同比增",
+     "source": "IT之家",
+     "zh": "长鑫科技：已与多家头部客户协商长期供货协议"
+    },
+    {
+     "title": "华为终端首个三类医疗器械落地：CGM 持续葡萄糖监测系统获批，与心脏支架同级监管",
+     "link": "https://www.ithome.com/1/020/572.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:50:03 GMT",
+     "summary": "IT之家 10 月 31 日消息，国家药监局 10 月 30 日公示的医疗器械批准文件送达信息中出现了一条来自“华为终端有限公司”的公示，产品名称为“持续葡萄糖监测系统”，注册证编号“国械注准 20263072228”。 公开资料显示，三类医疗器械是中国监管体系中的最高等级，与心脏支架、人工关节同级。此前华为在健康监测上的合规路径集中在二类证：腕部动态血压记录仪、睡眠呼吸暂停筛查软件、脉搏波房颤和早搏提示软件等，均属于二类范畴。三类 CGM 的获批，意味着华为从“健康监测”进入了“临床级连续监测”的准入区间。 CGM 的核心价值不在于单点血糖读数，而在于连续的组织间液葡萄糖趋势。合规 CGM ",
+     "source": "IT之家",
+     "zh": "华为终端首个三类医疗器械落地：CGM 持续葡萄糖监测系统获批，与心脏支架同级监管"
+    },
+    {
      "title": "沙特阿联酋回款周期拉长到 20 多天，5 人小团队该不该专门排一个人盯对账？",
      "link": "https://www.baijing.cn/question/638556",
      "pubDate": "Sat, 31 Oct 2026 09:45:41 +0000",
      "summary": "上个月我们沙特站的回款到账时间是 T+19，阿联酋站 T+14，比 3 月各多了 5 天左右。团队一共 5 个人：2 个运营、1 个投放、1 个客服兼内容、我自己管产品和财务，没有专职财务。现在每月流水大概 40 万人民币，用平台官方收款加一个本地钱包渠道两条腿走。问题是对账全靠运营在排期表里挤时间做，一到回款日就得停半天投放调整去核 PSP 结算单和订单退款差额，上个月因为这个漏掉一笔 3000 多块的拒付申诉时限。已经试过把对账挪到每周固定半天、也拉了渠道经理问结算批次，但对方只给 T+N 的区间不给具体到账日。卡在不知道是该招一个兼职财务按周盯回款，还是把渠道收窄到一家换取账期可预期。这",
      "source": "白鲸出海",
      "zh": "沙特阿联酋回款周期拉长到 20 多天，5 人小团队该不该专门排一个人盯对账？"
+    },
+    {
+     "title": "奇瑞执行副总裁戚士龙：明年将与华为做一些新的车型进来，来丰富整个产品体系",
+     "link": "https://www.ithome.com/1/020/566.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:41:45 GMT",
+     "summary": "IT之家 10 月 31 日消息，据新浪科技今日报道，发布第三季度财报后，奇瑞汽车股份有限公司执行副总裁戚士龙，奇瑞控股集团新闻发言人金弋波与媒体对话。 谈及智界获取独立造车资质一事，奇瑞汽车股份有限公司执行副总裁戚士龙表示，通过智界这几年的运营来看，本质上反映出奇瑞能力提升的过程。“比如说做十几万车，二十几万车，我们原来没有经验，现在通过智界 V9、智界 RX 这两款车的打磨，更多还依赖于我们自身能力的增长，是我们自身能力往上涨的一个过程。” 另外，他透露， 明年奇瑞也将与华为做一些新的车型进来 ，来丰富整个产品体系。“目前来说，因为整个规模还不够，所以研发投入比较大，目前从盈利角度来说，还",
+     "source": "IT之家",
+     "zh": "奇瑞执行副总裁戚士龙：明年将与华为做一些新的车型进来，来丰富整个产品体系"
+    },
+    {
+     "title": "丰田大举“逆电动化”：要开发新一代内燃机，还打算卖给其他车企",
+     "link": "https://www.ithome.com/1/020/557.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:35:18 GMT",
+     "summary": "IT之家 10 月 31 日消息，目前，大多数车企都选择改进现有发动机，以满足包括欧 7 等一系列严格的排放要求。考虑到电动化转型需要巨额投资，车企又普遍希望压缩研发开支，全新系列发动机越来越少见。 丰田却反其道而行， 不仅要开发新一代内燃机，还打算卖给其他车企 。 当地时间 26 日，据外媒 Automotive News 报道，丰田希望到 2032 年实现每年约 15 亿欧元 （IT之家注：现汇率约合 111.66 亿元人民币） 的对外动力总成销售收入。今年的订单目标为 5 亿欧元 （现汇率约合 37.22 亿元人民币） ，新一代发动机及混动系统最早计划于 2027 年交付。 日本多家汽车",
+     "source": "IT之家",
+     "zh": "丰田大举“逆电动化”：要开发新一代内燃机，还打算卖给其他车企"
     },
     {
      "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
@@ -1881,18 +1953,10 @@
      "zh": "白矮星不仅仅是白色的。科学家发现垂死恒星变成粉红色和绿色"
     },
     {
-     "title": "巴西葡语客服外包按班次排，20人小团队怎么扛住晚高峰？",
-     "link": "https://www.baijing.cn/question/638551",
-     "pubDate": "Sat, 31 Oct 2026 08:48:52 +0000",
-     "summary": "我们一款SLG手游在巴西和墨西哥起量中，DAU刚过8万，巴西玩家占六成。团队一共20人，其中运营3人，没有专职葡语客服。现在把游戏内工单和WhatsApp渠道的葡语客服外包给圣保罗一家BPO，按班次付费，晚8点到凌晨1点（北京时间）是巴西玩家在线高峰，工单量能到白天的3倍，但外包只覆盖到当地18点，之后只能靠我们运营用翻译工具硬顶，首响从40分钟拉到2小时，退款申诉类工单积压了170多单。试过让外包加夜班，报价涨了45%，预算扛不住；也试过招国内葡语兼职，排班和培训都跟不上。现在纠结是换按量计费的平台，还是把夜班拆给两家小团队轮值。想请教的是，在人力就这么点的情况下，判断该保首响时长还是保单条",
-     "source": "白鲸出海",
-     "zh": "巴西葡语客服外包按班次排，20人小团队怎么扛住晚高峰？"
-    },
-    {
      "title": "Switch Lowering in GCC",
      "link": "https://xoranth.net/gcc-switch/",
      "pubDate": "Sat, 31 Oct 2026 08:02:26 +0000",
-     "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 35 # Comments: 1",
+     "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 40 # Comments: 1",
      "source": "Hacker News",
      "zh": "GCC 中的开关降低"
     },
@@ -1908,7 +1972,7 @@
      "title": "Digital Minimalism",
      "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
      "pubDate": "Sat, 31 Oct 2026 06:16:36 +0000",
-     "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 23 # Comments: 5",
+     "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 28 # Comments: 11",
      "source": "Hacker News",
      "zh": "数字极简主义"
     },
@@ -1919,70 +1983,6 @@
      "summary": "Andrew E. Freedman / Tom's Hardware : When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and &ldquo;being used 5% of the time&rdquo; &nbsp; &mdash;&nbsp; With data centers full of RAM, your PC is apparently the problem. &hel",
      "source": "Techmeme",
      "zh": "在谈到本地推理时，Sam Altman 表示，供应受限的 DRAM 更适合在数据中心使用，而不是放在 PC 中并“仅在 5% 的时间内使用”（Andrew E. Freedman/Tom's Hardware）"
-    },
-    {
-     "title": "“开源才是护城河”：制造老炮把品胜的AI交给了00后",
-     "link": "https://www.tmtpost.com/8188454.html",
-     "pubDate": "Sat, 31 Oct 2026 13:17:51 +0800",
-     "summary": "对赵国成而言，AI最终要落到生产力上；而考验丛泽龙团队的，将是怎么把一次次具体的创新变成可以复用、持续更新的能力。",
-     "source": "钛媒体",
-     "zh": "“开源才是护城河”：制造老炮把品胜的AI交给了00后"
-    },
-    {
-     "title": "Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261031/p4#a261031p4",
-     "pubDate": "Sat, 31 Oct 2026 01:15:01 -0400",
-     "summary": "Wall Street Journal : Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms &nbsp; &mdash;&nbsp; Lenders and investors are getting choosier about their bets and demanding stricter terms, as the",
-     "source": "Techmeme",
-     "zh": "资料来源：neoclouds CoreWeave、Nebius 和 Nscale 最近几周实际上已被排除在债券市场之外，因为贷方和投资者要求更严格的条款（华尔街日报）"
-    },
-    {
-     "title": "S&P downgraded Meta&apos;s outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years (Jonathan Vanian/CNBC)",
-     "link": "https://www.techmeme.com/261031/p3#a261031p3",
-     "pubDate": "Sat, 31 Oct 2026 01:10:42 -0400",
-     "summary": "Jonathan Vanian / CNBC : S&P downgraded Meta's outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years &nbsp; &mdash;&nbsp; Meta's outlook has been revised downward by S&P Global Ratings on concerns surrounding cash flow",
-     "source": "Techmeme",
-     "zh": "标准普尔将 Meta 的前景从稳定下调至负面，理由是资本支出高且自由现金流为负； META 10 月份下跌 15%，是四年来最糟糕的一个月（Jonathan Vanian/CNBC）"
-    },
-    {
-     "title": "Anthropic says a malicious actor used access to Cursor&apos;s marketplace to publish a \"tampered\" copy of the Claude Code extension, which it didn&apos;t build or publish (Felix Rieseberg/@felixrieseberg)",
-     "link": "https://www.techmeme.com/261031/p2#a261031p2",
-     "pubDate": "Sat, 31 Oct 2026 01:00:15 -0400",
-     "summary": "Felix Rieseberg / @felixrieseberg : Anthropic says a malicious actor used access to Cursor's marketplace to publish a &ldquo;tampered&rdquo; copy of the Claude Code extension, which it didn't build or publish &nbsp; &mdash;&nbsp; We're working with Cursor on this incident, but it wasn't a compromise",
-     "source": "Techmeme",
-     "zh": "Anthropic 表示，恶意行为者利用 Cursor 市场的访问权限发布了 Claude 代码扩展的“篡改”副本，该副本并非由其构建或发布 (Felix Rieseberg/@felixrieseberg)"
-    },
-    {
-     "title": "Wayfair Coupons: Up to 80% Off November 2026",
-     "link": "https://www.wired.com/story/wayfair-promo-code/",
-     "pubDate": "Sat, 31 Oct 2026 05:00:00 +0000",
-     "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-     "source": "WIRED",
-     "zh": "Wayfair 优惠券：2026 年 11 月最高折扣 80%"
-    },
-    {
-     "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-     "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-     "pubDate": "Sat, 31 Oct 2026 04:16:50 +0000",
-     "summary": "The money behind the money is thrilled, mostly.",
-     "source": "TechCrunch",
-     "zh": "投入、支出和节奏压力：风投背后的投资者敞开心扉"
-    },
-    {
-     "title": "大厂减市场预算，加AI预算",
-     "link": "https://www.tmtpost.com/8188331.html",
-     "pubDate": "Sat, 31 Oct 2026 11:53:33 +0800",
-     "summary": "当一家公司能用模型解释增长，它就不需要再用媒体预算解释增长。",
-     "source": "钛媒体",
-     "zh": "大厂减市场预算，加AI预算"
-    },
-    {
-     "title": "初代选秀，一地鸡毛",
-     "link": "https://www.tmtpost.com/8187453.html",
-     "pubDate": "Sat, 31 Oct 2026 11:53:28 +0800",
-     "summary": "当“选秀往事”成为新生意。",
-     "source": "钛媒体",
-     "zh": "初代选秀，一地鸡毛"
     }
    ]
   },
@@ -1992,6 +1992,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Skipped upgrading this year? 5 upcoming Android phones worth saving for",
+     "link": "https://www.androidauthority.com/upcoming-android-phones-worth-saving-for-2027-3725669/",
+     "pubDate": "Sat, 31 Oct 2026 10:00:40 +0000",
+     "summary": "The future is looking bright.",
+     "source": "Android Authority",
+     "zh": "今年跳过升级了吗？ 5 款即将推出的 Android 手机值得收藏"
+    },
     {
      "title": "WhatsApp announces new features, including Group Status",
      "link": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php",
@@ -2177,14 +2185,6 @@
      "zh": "亚马逊 三星 Galaxy S26 Plus 512GB 降价 429 美元"
     },
     {
-     "title": "Android Auto can run sideloaded apps for free with this new tool",
-     "link": "https://www.androidauthority.com/android-auto-unknownauto-tool-3730284/",
-     "pubDate": "Fri, 30 Oct 2026 19:59:47 +0000",
-     "summary": "This Android Auto tool unlocks sideloaded apps at no cost.",
-     "source": "Android Authority",
-     "zh": "Android Auto 可以使用这个新工具免费运行侧载应用程序"
-    },
-    {
      "title": "The 12th Google Store is opening on November 6",
      "link": "https://9to5google.com/2026/10/30/google-store-houston/",
      "pubDate": "Fri, 30 Oct 2026 19:37:58 +0000",
@@ -2241,6 +2241,14 @@
    "total": 13,
    "items": [
     {
+     "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
+     "link": "http://finance.eastmoney.com/news/1349,202610313917614941.html",
+     "pubDate": "Sat, 31 Oct 2026 17:32:25 +0800",
+     "summary": "原 中国石油 化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 （文章来源：央视新闻）",
+     "source": "东方财富资讯",
+     "zh": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查"
+    },
+    {
      "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击 打击最快可能会发生在11月4日",
      "link": "http://finance.eastmoney.com/news/11158,202610313917614651.html",
      "pubDate": "Sat, 31 Oct 2026 17:11:14 +0800",
@@ -2289,14 +2297,6 @@
      "zh": "利好来了！北京重磅发布！事关千亿产业"
     },
     {
-     "title": "奥特曼：PC上装内存太浪费，最好留给AI数据中心",
-     "link": "https://wallstreetcn.com/articles/3784916",
-     "pubDate": "Sat, 31 Oct 2026 16:12:12 +0800",
-     "summary": "「从全球资源配置的角度来看，让每个人把紧缺的 DRAM 囤在自己电脑里大部分时间闲置，是『相当糟糕』（quite terrible）的安排，内存应该集中到云端数据中心去。」 话都说到这份上了。 本周四在接受 YouTube 频道 Cheeky Pint 的采访时，OpenAI CEO 山姆・奥特曼（Sam Altman）全程喝着啤酒，气氛轻松地聊了聊 AI 大模型的本地推理，以及由此延伸出的家用电脑内存不足的问题，不经意间爆典了。 我们知道，目前全球 AI 浪潮引发的内存涨价，已经让 PC 和手机的价格暴涨了一圈，个人消费者早已难以承受。与此同时，各家内存大厂的产能扩张还要等一阵子。就在前沿 ",
-     "source": "华尔街见闻",
-     "zh": "奥特曼：PC上装内存太浪费，最好留给AI数据中心"
-    },
-    {
      "title": "长安汽车短期业绩承压，部分新能源平台已盈利",
      "link": "https://wallstreetcn.com/articles/3784915",
      "pubDate": "Sat, 31 Oct 2026 16:04:49 +0800",
@@ -2311,14 +2311,6 @@
      "summary": "新股供给仍在增加，港股打新的热度却明显降了下来。10月30日， 宏芯宇 、 登临科技-P 、 芯德半导体 、 和美药业-B 、 新荷花 、 远信储能 六家公司同日启动招股，合计拟募资约60亿港元。 与密集发行形成反差的是，招股首日的融资认购并不热烈。截至10月30日港股收盘，六只新股融资认购倍数均不足1倍；截至10月31日的阶段性数据，也仅 远信储能 、 新荷花 超过1倍。 这一变化也体现了在10月20日招股的 东山精密 上，港股发行价较A股折算价折让35.66%，前三季度归母净利润增长逾3倍，还有20名基石投资者助阵，融资认购倍数却只有0.39倍。放在上半年，这样的基本面与折让，很难与“认购",
      "source": "东方财富资讯",
      "zh": "港股打新遇冷？六只新股同日招股 首日融资认购均不足1倍"
-    },
-    {
-     "title": "OpenAI CEO到访三星 会谈约50名高管 存储芯片及AI基础设施合作是重点",
-     "link": "http://finance.eastmoney.com/news/1360,202610313917606360.html",
-     "pubDate": "Sat, 31 Oct 2026 15:59:00 +0800",
-     "summary": "时隔近一年，OpenAI CEO萨姆·奥尔特曼（Sam Altman）再次到访三星。 当地时间周六，奥尔特曼在韩国会见了三星集团高层，旨在深化双方在 存储芯片 及AI基础设施领域的合作。 三星在一份声明中表示，奥尔特曼在首尔以南的龙仁市与三星旗下 电子 、金融及生物技术等业务部门的约50名高管进行了会谈，高管包括三星 电子 首席执行官兼DS（ 半导体 ）事业部负责人（副董事长）全永铉、三星 电子 首席执行官兼DX（设备体验）事业部负责人（总裁）卢泰文、三星电子DS事业部AI中心负责人宋勇浩、三星SDI总裁崔周善和三星电机总裁张德铉。 据韩媒报道，会议由奥尔特曼主持，主题为“AI改变未来十年：企",
-     "source": "东方财富资讯",
-     "zh": "OpenAI CEO到访三星 会谈约50名高管 存储芯片及AI基础设施合作是重点"
     },
     {
      "title": "CRH declares $0.39 dividend",
@@ -2369,22 +2361,6 @@
      "zh": "人工智能正在进入建筑工地。但这会让工人更安全吗？"
     },
     {
-     "title": "全球糖税围剿“小甜水”",
-     "link": "http://www.eeo.com.cn/2026/1031/1080636.shtml",
-     "pubDate": "Sat, 31 Oct 2026 13:18:42 +0800",
-     "summary": "多国密集推出糖税，背后是两条相互支撑的主线： 一是公共卫生压力。添加糖摄入超标与肥胖、2型糖尿病、心血管疾病、儿童龋齿的关联已被大量研究证实，由此产生的医疗支出和劳动力损失最终由社会共担，控糖因而不再是个人口味问题，而成为公共政策议题。 二是国际政策共识。世卫组织2025年发起“3by35”倡议，目标是到2035年通过健康税将糖、酒、烟草三类产品的实际价格提高50%；经合组织等机构也将糖税纳入健康税范畴。口径趋同之下，各国获得了现成的政策依据与实施模板，糖税由此从个别试验变为框架内的协同行动。",
-     "source": "经济观察网",
-     "zh": "全球糖税围剿“小甜水”"
-    },
-    {
-     "title": "地方清欠攻坚",
-     "link": "http://www.eeo.com.cn/2026/1031/1080632.shtml",
-     "pubDate": "Sat, 31 Oct 2026 13:17:47 +0800",
-     "summary": "清欠直接关系到企业和居民收入，也影响地方经济的良性循环。在当前“供强需弱”的宏观格局下，这是应当着力推进的问题。",
-     "source": "经济观察网",
-     "zh": "地方清欠攻坚"
-    },
-    {
      "title": "The right to be apolitical",
      "link": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
      "pubDate": "Sat, 31 Oct 2026 05:01:09 GMT",
@@ -2393,12 +2369,12 @@
      "zh": "不参与政治的权利"
     },
     {
-     "title": "Is this the first clear evidence of AI’s impact on the labour market?",
-     "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
-     "pubDate": "Sat, 31 Oct 2026 05:00:31 GMT",
-     "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+     "title": "US midterms loom over jittery investors",
+     "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+     "pubDate": "Sat, 31 Oct 2026 05:00:39 GMT",
+     "summary": "Caution certainly seems warranted for the coming weeks",
      "source": "Financial Times",
-     "zh": "这是人工智能对劳动力市场影响的第一个明确证据吗？"
+     "zh": "美国中期选举笼罩着紧张不安的投资者"
     },
     {
      "title": "Donald Trump’s endgame",
@@ -2407,38 +2383,6 @@
      "summary": "What will the US president’s last two years in Washington look like?",
      "source": "Financial Times",
      "zh": "唐纳德·特朗普的终局之战"
-    },
-    {
-     "title": "康明斯在华本土化更进一步：S29发动机由中国团队牵头，目标100%国产化",
-     "link": "http://www.eeo.com.cn/2026/1031/1080582.shtml",
-     "pubDate": "Sat, 31 Oct 2026 12:41:23 +0800",
-     "summary": "王涛表示，对于中国主机厂而言，S29提供了一个新机会。过去全球矿山市场基本由卡特彼勒和小松引领，中国主机厂是后来跟随者，要参考他们的整车设计和发动机选型，这对中国主机厂走向全球竞争有一些限制。S29让中国主机厂有机会和全球矿业巨头站在同一起跑线，而且徐工、三一都是最早应用康明斯发动机的合作伙伴，某种程度上会有先发优势。",
-     "source": "经济观察网",
-     "zh": "康明斯在华本土化更进一步：S29发动机由中国团队牵头，目标100%国产化"
-    },
-    {
-     "title": "李凤刚入职一年即离职 北京现代转型再遇挫",
-     "link": "http://www.eeo.com.cn/2026/1031/1080580.shtml",
-     "pubDate": "Sat, 31 Oct 2026 12:41:01 +0800",
-     "summary": "北京现代的困局，并非换个总经理就能解决。核心在于对治理结构进行彻底的改革，以真正实现股东双方深度协同。",
-     "source": "经济观察网",
-     "zh": "李凤刚入职一年即离职 北京现代转型再遇挫"
-    },
-    {
-     "title": "理想新款i6上市：李想低姿态站台，App还被挤崩了",
-     "link": "http://www.eeo.com.cn/2026/1031/1080578.shtml",
-     "pubDate": "Sat, 31 Oct 2026 12:40:34 +0800",
-     "summary": "理想i6不是理想汽车纯电战略的起点，在此之前理想汽车已经推出了MEGA和i8，但理想i6是理想汽车第一个在主流市场成为爆款的纯电产品。理想i6 2025年9月上市后，大定5分钟破万，首日订单超2万辆，远超产能预期。",
-     "source": "经济观察网",
-     "zh": "理想新款i6上市：李想低姿态站台，App还被挤崩了"
-    },
-    {
-     "title": "Alcantara在京举办设计沙龙，探讨材料创新与跨文化设计",
-     "link": "http://www.eeo.com.cn/2026/1031/1080576.shtml",
-     "pubDate": "Sat, 31 Oct 2026 12:40:12 +0800",
-     "summary": "随着国产替代材料的性能逼近，以及中国车企自身品牌信用的积累，Alcantara仅靠“意大利制造”的标签来维持溢价，难度正在加大。如何在跨界设计与本土供应链的夹击中找到不可替代的价值，是这家意大利材料商接下来要回答的问题。",
-     "source": "经济观察网",
-     "zh": "Alcantara在京举办设计沙龙，探讨材料创新与跨文化设计"
     },
     {
      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
@@ -2479,6 +2423,62 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Acco Brands 在收购 Trust 后将调整后每股收益提高至 0.98-1.02 美元，预计 2026 年销售额将增长 4%-6%"
+    },
+    {
+     "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+     "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 23:14:00 GMT",
+     "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
+     "source": "MarketWatch",
+     "zh": "科技泡沫破裂了吗？为什么纳斯达克指数的艰难历程看起来就像 2000 年一样。"
+    },
+    {
+     "title": "W&T Offshore forecasts Q4 2026 production midpoint of 33,700 BOE/d while lifting 2026 capex to $35M-$38M",
+     "link": "https://seekingalpha.com/news/4661800-w-and-t-offshore-forecasts-q4-2026-production-midpoint-of-33700-boe-d-while-lifting-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 18:59:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "W&T Offshore 预测 2026 年第四季度产量中点为 33,700 桶油当量/天，同时将 2026 年资本支出提高至 3500 万至 3800 万美元"
+    },
+    {
+     "title": "Alaska Senate election: DOJ wants to &apos;segregate&apos; all ballots for 2nd Sullivan candidate",
+     "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+     "pubDate": "Fri, 30 Oct 2026 22:57:55 GMT",
+     "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+     "source": "CNBC",
+     "zh": "阿拉斯加参议院选举：司法部希望“隔离”第二位沙利文候选人的所有选票"
+    },
+    {
+     "title": "This cybersecurity stock will be the next to join the S&P 500",
+     "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 22:20:00 GMT",
+     "summary": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+     "source": "MarketWatch",
+     "zh": "该网络安全股票将成为下一只加入标准普尔 500 指数的股票"
+    },
+    {
+     "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+     "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+     "pubDate": "Fri, 30 Oct 2026 22:17:15 GMT",
+     "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
+     "source": "Financial Times",
+     "zh": "30 分钟内 63 亿美元：世界上最大的抢劫案是如何展开的"
+    },
+    {
+     "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+     "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 21:30:00 GMT",
+     "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
+     "source": "MarketWatch",
+     "zh": "尽管伊朗局势再度紧张，金价为何仍暴跌至一年来的最低水平"
+    },
+    {
+     "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+     "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 21:23:00 GMT",
+     "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
+     "source": "MarketWatch",
+     "zh": "沃什希望美联储少说一些。两名官员正在推动提高透明度。"
     }
    ]
   },
@@ -2488,6 +2488,22 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Can animals lie? This sneaky bird might be proof.",
+     "link": "https://www.livescience.com/animals/birds/can-animals-lie-this-sneaky-bird-might-be-proof",
+     "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+     "summary": "In his new book, \"Liars, Cheats and Copycats,\" biologist James O'Hanlon surveys deception across the animal kingdom and asks whether any of it adds up to lying.",
+     "source": "Live Science",
+     "zh": "动物会说谎吗？这只狡猾的鸟可能就是证据。"
+    },
+    {
+     "title": "'You start painting pictures of squirrels twirling their mustaches': A biologist on whether animals can lie",
+     "link": "https://www.livescience.com/animals/you-start-painting-pictures-of-squirrels-twirling-their-mustaches-a-biologist-on-whether-animals-can-lie",
+     "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+     "summary": "Writer Olivia Maule spoke with biologist James O'Hanlon about his book \"Liars, Cheats and Copycats.\"",
+     "source": "Live Science",
+     "zh": "“你开始画松鼠捻胡子的照片”：一位生物学家探讨动物是否会说谎"
+    },
     {
      "title": "Are sharks really older than trees?",
      "link": "https://www.livescience.com/animals/sharks/are-sharks-really-older-than-trees",
@@ -2561,14 +2577,6 @@
      "zh": "“它根本不受控制”：Live Science 读者回应人工智能是否让他们变得懒惰"
     },
     {
-     "title": "Nearly 30% of US adults admit to lying about or exaggerating their symptoms to get antibiotics from doctors, survey finds",
-     "link": "https://www.livescience.com/health/medicine-drugs/nearly-30-percent-of-us-adults-admit-to-lying-about-or-exaggerating-their-symptoms-to-get-antibiotics-from-doctors-survey-finds",
-     "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
-     "summary": "In two new surveys, U.S. adults report lying to their doctors and their children's doctors about symptoms in hopes of being prescribed antibiotics.",
-     "source": "Live Science",
-     "zh": "调查发现，近 30% 的美国成年人承认为了从医生那里获得抗生素而撒谎或夸大自己的症状"
-    },
-    {
      "title": "NASA’s Swift telescope will face a fiery demise after a failed rescue",
      "link": "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst",
      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
@@ -2631,14 +2639,6 @@
      "summary": "A startling new study suggests that venomous snakebites are killing far more people worldwide than official statistics indicate, with an estimated 274,000 to 513,000 deaths every year. Researchers found that as many as 7 million people could suffer snake envenoming annually, while more than 800,000 ",
      "source": "ScienceDaily",
      "zh": "科学家揭示了隐藏的蛇咬伤危机，每年导致多达 513,000 人死亡"
-    },
-    {
-     "title": "Could AI ever build itself? Scientists map the road to the 'last AI built by humans.'",
-     "link": "https://www.livescience.com/technology/artificial-intelligence/could-ai-ever-build-itself-scientists-map-the-road-to-the-last-ai-built-by-humans",
-     "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
-     "summary": "Researchers hope recursive self-improvement could tackle the skyrocketing costs of developing advanced AI models. But is it viable?",
-     "source": "Live Science",
-     "zh": "人工智能可以自我构建吗？科学家们绘制了通往“人类建造的最后一个人工智能”的道路。"
     },
     {
      "title": "Astronauts just gave the International Space Station a powerful upgrade",

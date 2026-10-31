@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/31 13:11:51",
+ "generated_at": "2026/10/31 13:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -1745,6 +1745,54 @@
    "total": 18,
    "items": [
     {
+     "title": "洛图科技：2026 年第三季度中国电视市场品牌出货量同比下降 4.3%，预测全年再创新低",
+     "link": "https://www.ithome.com/1/020/465.htm",
+     "pubDate": "Sat, 31 Oct 2026 05:28:08 GMT",
+     "summary": "IT之家 10 月 31 日消息，洛图科技数据显示，2026 年第三季度，中国大陆电视市场品牌整机的出货量为 696.0 万台，较 2025 年同期下降 4.3%。 今年前三个季度累计出货量为 2190.7 万台，较去年同期下降 8.3%。洛图科技预测全年的出货总量为 3036.0 万台，同比下降 7.7%， 创下至少从 2010 年以来 17 年市场规模的新低 。 IT之家注意到，自 2024 年第四季度“国补”开启后，中国电视市场虽然收获了连续两个季度出货量的同比增长，但是从 2025 年第二季度开始转为连续的下跌走势，截至现在， 已经是连续第六个季度同比下降 。 ▲ 2023-2026 ",
+     "source": "IT之家",
+     "zh": "洛图科技：2026 年第三季度中国电视市场品牌出货量同比下降 4.3%，预测全年再创新低"
+    },
+    {
+     "title": "全球最大加密货币盗窃案：20 分钟转走 63 亿美元，币安溯源是工程师笔记本失守",
+     "link": "https://www.ithome.com/1/020/463.htm",
+     "pubDate": "Sat, 31 Oct 2026 05:22:44 GMT",
+     "summary": "IT之家 10 月 31 日消息，全球最大加密货币交易所币安（Binance）昨日（10 月 30 日）表示，造成约 63 亿美元 （IT之家注：现汇率约合 420.18 亿元人民币） 加密资产被盗的重大安全事件，源头指向一名 DevOps 工程师的笔记本电脑遭入侵。 攻击者借助该设备获得访问能力，进入服务容器后提交了未经授权的提现交易。币安称， 目前没有证据表明钱包私钥已经泄露。 币安联席首席执行官 Richard Teng 强调： 本次攻击并非仅仅利用了一位工程师的权限，这也不是一次简单的“一键式”操作。整个攻击过程非常复杂，我们的调查尚未将责任归咎于任何个人。 区块链分析机构 TRM L",
+     "source": "IT之家",
+     "zh": "全球最大加密货币盗窃案：20 分钟转走 63 亿美元，币安溯源是工程师笔记本失守"
+    },
+    {
+     "title": "沙特COD拒收率冲到38%，只有两个运营轮班，签收前确认电话该怎么排期？",
+     "link": "https://www.baijing.cn/question/638532",
+     "pubDate": "Sat, 31 Oct 2026 05:18:41 +0000",
+     "summary": "独立站做中东（沙特/阿联酋）家居收纳类目，起量中，日均COD订单大概120单，团队总共5个人，其中能打电话确认订单的只有两个运营，还要兼顾阿语客服和售后。现在沙特COD拒收率稳定在38%左右，阿联酋低一些约22%，物流商反馈大部分拒收是“联系不上”和“临时不要了”。我们试过在订单生成后2小时内统一发WhatsApp确认模板，也试过让物流商代为确认，但WhatsApp回复率不到三成，物流商确认基本走过场。人手实在排不开，现在纠结的是确认电话到底该按订单金额分层打，还是按城市/区域集中打，以及要不要把确认环节前置到下单页面用预付折扣筛掉一部分高风险单。想听听同样小团队做中东COD的，确认动作的优先",
+     "source": "白鲸出海",
+     "zh": "沙特COD拒收率冲到38%，只有两个运营轮班，签收前确认电话该怎么排期？"
+    },
+    {
+     "title": "Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261031/p4#a261031p4",
+     "pubDate": "Sat, 31 Oct 2026 01:15:01 -0400",
+     "summary": "Wall Street Journal : Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms &nbsp; &mdash;&nbsp; Lenders and investors are getting choosier about their bets and demanding stricter terms, as the",
+     "source": "Techmeme",
+     "zh": "Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms (Wall Street Journal)"
+    },
+    {
+     "title": "S&P downgraded Meta&apos;s outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years (Jonathan Vanian/CNBC)",
+     "link": "https://www.techmeme.com/261031/p3#a261031p3",
+     "pubDate": "Sat, 31 Oct 2026 01:10:42 -0400",
+     "summary": "Jonathan Vanian / CNBC : S&P downgraded Meta's outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years &nbsp; &mdash;&nbsp; Meta's outlook has been revised downward by S&P Global Ratings on concerns surrounding cash flow",
+     "source": "Techmeme",
+     "zh": "S&P downgraded Meta&apos;s outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years (Jonathan Vanian/CNBC)"
+    },
+    {
+     "title": "尼日利亚尾程派送覆盖不稳定，投放成本被拖到多少才算合理？",
+     "link": "https://www.baijing.cn/question/638531",
+     "pubDate": "Sat, 31 Oct 2026 05:09:36 +0000",
+     "summary": "拉各斯和肯尼亚内罗毕两地跑独立站，做的是手机配件，客单价 18 美元左右，团队 6 个人，日均出单 120 单。上周拉各斯州外订单占比 34%，但尾程合作的本土派送商只覆盖 Ikeja、Lekki 一带，州外订单要么转二次派送，要么客户自提，导致签收率从 78% 掉到 61%。 投放端问题更直接：Meta 广告 CPA 从 6.2 美元涨到 9.8 美元，同期南非约翰内斯堡测试组 CPA 是 7.1 美元，但约堡的派送覆盖率能到 85% 以上。已经试过把尼日利亚投放的受众收窄到拉各斯主城区、也换过两家本地派送商谈州外揽收，卡在州外单量不够撑起固定揽收成本，派送商要求日均 50 单起才肯扩区。 ",
+     "source": "白鲸出海",
+     "zh": "尼日利亚尾程派送覆盖不稳定，投放成本被拖到多少才算合理？"
+    },
+    {
      "title": "微软给用户吃“定心丸”：OneDrive 用户名枚举攻击风险有限，已限流遏制",
      "link": "https://www.ithome.com/1/020/462.htm",
      "pubDate": "Sat, 31 Oct 2026 05:08:06 GMT",
@@ -1759,6 +1807,14 @@
      "summary": "10 月 31 日中午消息，发布第三季度财报后，奇瑞汽车股份有限公司执行副总裁戚士龙、奇瑞控股集团新闻发言人金弋波与媒体对话。 10 月 30 日，奇瑞汽车公布截至 2026 年 9 月 30 日止九个月未经审计财务数据，公司前三季度实现收入 2412.34 亿元，同比增长 12.29%；毛利 390.04 亿元，同比增长 32.38%，毛利率增至 16.17%；期内利润 145.95 亿元，净利润率 6.05%；公司拥有人应占利润 139.63 亿元。 谈及国内新能源业务的盈亏平衡时间点，奇瑞汽车股份有限公司执行副总裁戚士龙表示，奇瑞正在做产品结构的调整， 不希望简单做价格竞争 ，还是要靠新",
      "source": "IT之家",
      "zh": "奇瑞戚士龙：不希望简单做价格竞争，预计 2027 年补足国内新能源业务盈利短板"
+    },
+    {
+     "title": "房企化债提速，“完成重组”只是起点",
+     "link": "https://www.huxiu.com/article/4901896.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 13:02:39 +0800",
+     "summary": "本文来自微信公众号： 经济观察网 ，作者：徐阳 动作密集之下，房企化债路径已经出现明显分化。但方案能不能真正落地兑现、避免再度违约，仍存在较大不确定性。 十月，房企化债进入集中窗口期。多家企业密集落地方案：力高集团重组计划获法定多数债权人表决通过，中骏集团境外债务重组生效，建业地产完成16.08亿元借款展期，世茂集团以27亿港元出售香港两家酒店偿债。 动作密集之下，房企化债路径已经出现明显分化。但方案能不能真正落地兑现、避免再度违约，仍存在较大不确定性。 从“以时间换空间”到实质性削债 房企过去应对到期债务的主流方式是协商展期，通过拉长偿付周期、调整付息节奏，以暂缓短期流动性压力，本质是“以时",
+     "source": "虎嗅",
+     "zh": "房企化债提速，“完成重组”只是起点"
     },
     {
      "title": "巴西网红报价涨了三倍，但素材本地化后播放反而掉一半，佣金结构该怎么调？",
@@ -1809,22 +1865,6 @@
      "zh": "换装中国造 L-15E 教练机，阿联酋“骑士”飞行表演队确认参加第十六届珠海航展"
     },
     {
-     "title": "市场监管总局批准发布 2 项生物芯片国家标准，时隔 15 年更新、行业术语有了“普通话”",
-     "link": "https://www.ithome.com/1/020/458.htm",
-     "pubDate": "Sat, 31 Oct 2026 04:48:27 GMT",
-     "summary": "IT之家 10 月 31 日消息，据国家市场监管总局 10 月 30 日公告，市场监管总局（国家标准委）批准发布《 生物芯片基本术语 》《 人体疾病易感 DNA 多态性检测微阵列芯片 》2 项新版推荐性国家标准，将自 2027 年 2 月 1 日起实施。 《生物芯片基本术语》（GB/T 27990—2026）作为生物芯片领域的基础性标准，代替了实施十余年的 2011 年版，系统重构了行业概念体系。标准紧扣技术演进与产业需求，新增核酸检测芯片、免疫检测芯片、器官芯片等核心术语，并进一步完善了生物芯片、微阵列芯片、微流控芯片等基础定义的表述。内容覆盖基础术语、芯片探针、微阵列芯片分类、微流控芯片分",
-     "source": "IT之家",
-     "zh": "市场监管总局批准发布 2 项生物芯片国家标准，时隔 15 年更新、行业术语有了“普通话”"
-    },
-    {
-     "title": "腾讯地图公布 Agent 能力全景图，元宝、微信小微、OPPO 小布助手等已接入",
-     "link": "https://www.ithome.com/1/020/457.htm",
-     "pubDate": "Sat, 31 Oct 2026 04:41:10 GMT",
-     "summary": "IT之家 10 月 31 日消息，10 月 30 日，2026 腾讯全球数字生态大会在深圳举行。 在腾讯地图产业应用专场上， 腾讯正式对外公布 Agent 能力全景图 ，面向产业客户、智能硬件及开发者全面开放地图 Agent 能力。 IT之家获悉，目前，元宝、微信小微、OPPO 小布助手、乐奇 AI 眼镜、光帆 AI 全感穿戴设备等已经接入腾讯地图的 Agent 能力。 在元宝里，一句话就能调用地图完成路线规划，一句话打车服务也即将上线。 通过小微，用户能在视频号、聊天等各个场景里获取 AI + 地图的原生体验。比如在视频号里刷到店铺的种草视频，一句话就能查到线下店在哪里。 在汽车端，腾讯打造",
-     "source": "IT之家",
-     "zh": "腾讯地图公布 Agent 能力全景图，元宝、微信小微、OPPO 小布助手等已接入"
-    },
-    {
      "title": "日本预约期买量CPA涨到多少算正常？",
      "link": "https://www.baijing.cn/question/638528",
      "pubDate": "Sat, 31 Oct 2026 04:41:07 +0000",
@@ -1865,28 +1905,12 @@
      "zh": "一群年轻人的暴富梦，不到5天就结束"
     },
     {
-     "title": "北美 PLG 定价页改版后试用转化反降，本地化素材该怎么调？",
-     "link": "https://www.baijing.cn/question/638526",
-     "pubDate": "Sat, 31 Oct 2026 04:19:06 +0000",
-     "summary": "我们做的是面向北美（美国/加拿大）中小团队的 SaaS 协作工具，团队 12 人，产品已上线 8 个月、刚进入起量阶段。上个月把定价页从「三档订阅」改成 PLG 常用的 freemium 加用量计费结构，同时把 hero 区的产品截图换成了加拿大本地一家设计工作室的使用场景，CTA 文案从英文直译改成更口语化的写法。改版前定价页到试用注册的转化率是 4.1%，改版后两周掉到 2.7%，美国流量跌幅比加拿大更明显，加拿大用户停留时长反而涨了但点击 CTA 的少。已经试过用 Hotjar 看录屏、也做了 A/B 只换 hero 图不换定价结构，结果差异不显著，现在卡在不确定是定价结构本身劝退了美国",
-     "source": "白鲸出海",
-     "zh": "北美 PLG 定价页改版后试用转化反降，本地化素材该怎么调？"
-    },
-    {
      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
      "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
      "pubDate": "Sat, 31 Oct 2026 04:16:50 +0000",
      "summary": "The money behind the money is thrilled, mostly.",
      "source": "TechCrunch",
      "zh": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up"
-    },
-    {
-     "title": "尼日利亚独立站支付网关怎么选？Paystack回款T+7，物流签收率只有68%",
-     "link": "https://www.baijing.cn/question/638525",
-     "pubDate": "Sat, 31 Oct 2026 04:06:56 +0000",
-     "summary": "上个月把独立站切到尼日利亚本地收款，Paystack和Flutterwave都接了，客单价约35美元的3C配件，日均40单左右。现在最头疼的是回款周期：Paystack本地卡结算T+7才到账，Flutterwave部分交易还卡在风控审核，最长一笔压了12天，现金流吃紧。物流端用本地履约商发拉各斯和阿布贾，签收率只有68%，拒收和地址错误占大头，退款又要走原支付通道，等于钱没收到先垫了运费。团队5个人，月投放预算8000美元左右，试过让客户走银行转账但转化掉了一半。现在卡在：要优先保回款速度换更贵的网关费率，还是先压物流签收率减少退款？这个取舍按什么标准判断？",
-     "source": "白鲸出海",
-     "zh": "尼日利亚独立站支付网关怎么选？Paystack回款T+7，物流签收率只有68%"
     },
     {
      "title": "大厂减市场预算，加AI预算",
@@ -1940,7 +1964,7 @@
      "title": "OpenAI raises less than half of $30B target",
      "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
      "pubDate": "Sat, 31 Oct 2026 03:22:44 +0000",
-     "summary": "Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5 Comments URL: https://news.ycombinator.com/item?id=50312922 Points: 60 # Comments: 34",
+     "summary": "Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5 Comments URL: https://news.ycombinator.com/item?id=50312922 Points: 69 # Comments: 43",
      "source": "Hacker News",
      "zh": "OpenAI raises less than half of $30B target"
     },
@@ -1959,30 +1983,6 @@
      "summary": "（1）三季度，股票型和混合型基金权益仓位均下降，一级债可转债仓位下降，二级债和可转债基金可转债仓位上升。（2）公募基金在制造业持仓占比减少，在金融业持仓占比增加。（3）公募基金三季度中际旭创持股总市值最高，兴业转债持仓总市值最高。",
      "source": "钛媒体",
      "zh": "济安金信基金季报点评（2026Q3）"
-    },
-    {
-     "title": "摩尔线程2026年三季报点评｜公司点评",
-     "link": "https://www.tmtpost.com/8188359.html",
-     "pubDate": "Sat, 31 Oct 2026 11:11:37 +0800",
-     "summary": "尽管公司在人工智能产业的强劲需求下实现了高速增长，但持续的现金流出与存货激增，已成为制约其估值与经营稳健性的关键因素。",
-     "source": "钛媒体",
-     "zh": "摩尔线程2026年三季报点评｜公司点评"
-    },
-    {
-     "title": "被骂了十几年，Windows笔记本触控板的问题到底出在哪儿？",
-     "link": "https://www.huxiu.com/article/4900845.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 11:00:00 +0800",
-     "summary": "都2026年了，Windows本触控板怎么还这么难用？更离谱的是，同一台电脑，刷网页挺丝滑，换个软件立马一卡一卡。这期我们拉上epcdiy，请他帮忙写了几个 Demo ，把手指到软件全部扒了一遍，看看问题到底出在哪儿。",
-     "source": "虎嗅",
-     "zh": "被骂了十几年，Windows笔记本触控板的问题到底出在哪儿？"
-    },
-    {
-     "title": "Tell HN: Scribd Breached",
-     "link": "https://news.ycombinator.com/item?id=50312756",
-     "pubDate": "Sat, 31 Oct 2026 02:46:36 +0000",
-     "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are wri",
-     "source": "Hacker News",
-     "zh": "Tell HN: Scribd Breached"
     }
    ]
   },
@@ -1992,6 +1992,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "一图流 | 一张图看懂中国版 Apple 智能",
+     "link": "https://sspai.com/post/117953",
+     "pubDate": "Sat, 31 Oct 2026 12:10:39 +0800",
+     "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。 查看全文",
+     "source": "少数派",
+     "zh": "一图流 | 一张图看懂中国版 Apple 智能"
+    },
     {
      "title": "Samsung Galaxy Fit4 leaks, key features revealed",
      "link": "https://www.gsmarena.com/samsung_galaxy_fit4_leaks_key_features_revealed_-news-75289.php",
@@ -2223,14 +2231,6 @@
      "summary": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
      "source": "Engadget",
      "zh": "New tvOS 27.2 features to try for an upgraded Apple TV experience"
-    },
-    {
-     "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
-     "link": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/",
-     "pubDate": "Fri, 30 Oct 2026 15:47:12 +0000",
-     "summary": "The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.",
-     "source": "Engadget",
-     "zh": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI"
     }
    ]
   },
@@ -2241,28 +2241,92 @@
    "total": 13,
    "items": [
     {
-     "title": "上海电气与宁德时代签署战略合作协议 在算电协同等七大领域深化合作",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917582836.html",
-     "pubDate": "Sat, 31 Oct 2026 12:58:00 +0800",
-     "summary": "10月30日下午， 上海电气 与 宁德时代 新能源 科技股份有限公司（简称“ 宁德时代 ”）签署战略合作协议。根据协议，双方将在零碳园区、新型储能、绿色交通、算电协同、供应链协同、科技创新及国际业务七大领域开展深化合作，打造能源装备与 新能源 技术跨界融合的产业标杆，助力新型 电力 系统建设与“双碳”战略落地。 （文章来源：人民财讯）",
+     "title": "官方披露：将有两名中国人登陆月球",
+     "link": "http://finance.eastmoney.com/news/11158,202610313917586346.html",
+     "pubDate": "Sat, 31 Oct 2026 13:21:29 +0800",
+     "summary": "今天（2026年10月31日），是钱学森逝世17周年。1958年，钱学森提出“要到月亮上去”。中国探月事业的 种子 ，悄然发芽。如今，中华民族的千年登月梦想正在从蓝图走向现实。 据环球时报消息，10月31日，中国载人 航天工程 副总设计师兼月球探测工程总设计师王翔在第七届载人航天学术大会上，介绍了我国首次载人月球探测任务乘组计划。 中国载人 航天工程 副总设计师兼月球探测工程总设计师王翔作主旨报告。图源：中国载人航天 我国计划在2030年前实现中国人登陆月球。首次载人月球探测计划采用环月轨道对接飞行模式，通过“两次发射，一次登月”的方式实现载人登月。 这种模式将采用两枚长征十号运载火箭，先将着",
      "source": "东方财富股票",
-     "zh": "上海电气与宁德时代签署战略合作协议 在算电协同等七大领域深化合作"
+     "zh": "官方披露：将有两名中国人登陆月球"
     },
     {
-     "title": "MLCC板块三季报：三环、风华等前三季度利润翻倍 高端缺货结构性仍在",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917582662.html",
-     "pubDate": "Sat, 31 Oct 2026 12:56:25 +0800",
-     "summary": "随着三季报陆续披露完毕， MLCC 板块的大多数公司都已交出成绩单，整幅拼图也渐渐显出了轮廓。 三环集团 （300408.SZ）前三季度归母净利润38.65亿元，同比增长97.35%，第三季度同比增速达167.97%。 风华高科 （000636.SZ）同期归母净利润6.42亿元，同比增长180.90%，其中三季度单季利润同比增幅达到470.17%。 界面新闻注意到，同一个行业标签下，冷暖并不相通，存在明显的温差，这背后的事实便是：这轮行情并非普涨，而是一场从海外龙头产能转移开始、沿着高端料号逐级传导的结构性紧缺。 龙头三环与风华表现抢眼 数据显示， 三环集团 前三季度营收115.03亿元，同比",
-     "source": "东方财富股票",
-     "zh": "MLCC板块三季报：三环、风华等前三季度利润翻倍 高端缺货结构性仍在"
+     "title": "全球糖税围剿“小甜水”",
+     "link": "http://www.eeo.com.cn/2026/1031/1080636.shtml",
+     "pubDate": "Sat, 31 Oct 2026 13:18:42 +0800",
+     "summary": "多国密集推出糖税，背后是两条相互支撑的主线： 一是公共卫生压力。添加糖摄入超标与肥胖、2型糖尿病、心血管疾病、儿童龋齿的关联已被大量研究证实，由此产生的医疗支出和劳动力损失最终由社会共担，控糖因而不再是个人口味问题，而成为公共政策议题。 二是国际政策共识。世卫组织2025年发起“3by35”倡议，目标是到2035年通过健康税将糖、酒、烟草三类产品的实际价格提高50%；经合组织等机构也将糖税纳入健康税范畴。口径趋同之下，各国获得了现成的政策依据与实施模板，糖税由此从个别试验变为框架内的协同行动。",
+     "source": "经济观察网",
+     "zh": "全球糖税围剿“小甜水”"
     },
     {
-     "title": "宁德时代曾毓群：电池技术“还不够好” 正用AI加速电化学领域发现",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917582269.html",
-     "pubDate": "Sat, 31 Oct 2026 12:45:19 +0800",
-     "summary": "宁德时代 董事长、创始人曾毓群。 本报记者袁婧摄 “不管是在座的各位科学家还是其他科学家，我们需要世界上智慧大脑的支持。”10月31日，2026世界顶尖科学家论坛开幕式主论坛在临港中心举行。 宁德时代 董事长、创始人曾毓群在演讲中表示， 宁德时代 正推动 电池 技术赋能能源发展，但现有 电池 能量密度仍不足以支撑更广泛的应用。整个行业需要借助 人工智能 和全球科学界的力量，加速电化学领域的源头创新。 曾毓群首先给出了 宁德时代 的一组成绩。 宁德时代 电动车全球市场份额达到39%，能源储能系统占30%；回收的 电池 相当于可为约170万辆 汽车 提供能源。公司还拥有独属于自身的专利技术和知识积",
+     "title": "地方清欠攻坚",
+     "link": "http://www.eeo.com.cn/2026/1031/1080632.shtml",
+     "pubDate": "Sat, 31 Oct 2026 13:17:47 +0800",
+     "summary": "清欠直接关系到企业和居民收入，也影响地方经济的良性循环。在当前“供强需弱”的宏观格局下，这是应当着力推进的问题。",
+     "source": "经济观察网",
+     "zh": "地方清欠攻坚"
+    },
+    {
+     "title": "小米17亿入股欣旺达动力成第三大股东 欣旺达终止港股IPO计划",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917584387.html",
+     "pubDate": "Sat, 31 Oct 2026 13:14:28 +0800",
+     "summary": "欣旺达 （300207.SZ）10月29日晚间公告称，旗下动力 电池 主体 欣旺达 动力完成新一轮增资，小米通过全资子公司瀚星 创投 投入17亿元。 增资落地后，小米持有 欣旺达 动力5.34%股权，成为该公司第三大股东，第二大股东 理想汽车 （02015.HK/LI.US）的股份从8.79%降至8.32%，第一大股东欣旺达惠州 新能源 有限公司的股份从24.06%降至22.78%。 欣旺达同时宣布，终止发行H股股票并在香港联交所主板上市。公司表示，这是基于对多方面因素的全面权衡及实际情况作出的审慎决策，不会对公司经营活动和持续发展造成重大影响。 理想小米先后入股，绑定 电池 供应链 欣旺达主",
      "source": "东方财富股票",
-     "zh": "宁德时代曾毓群：电池技术“还不够好” 正用AI加速电化学领域发现"
+     "zh": "小米17亿入股欣旺达动力成第三大股东 欣旺达终止港股IPO计划"
+    },
+    {
+     "title": "国际金价，跌至今年新低！金饰克价年内暴跌近550元",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917585284.html",
+     "pubDate": "Sat, 31 Oct 2026 13:11:25 +0800",
+     "summary": "据央视财经，受国际原油价格上涨、美国通胀压力加剧以及市场对美联储进一步加息的预期升温等因素影响，国际金价10月30日跌至一年来新低。 截至收盘，纽商所12月交割的 黄金 期货 价格报每盎司3898.9美元，跌幅为3.29%；12月交割的 白银 期价收于每盎司49.276美元，跌幅为5.93%。这是 白银 期货 价格自2025年11月以来首次跌破每盎司50美元关口。 另据财联社，受国际金价下行影响，国内品牌金饰价格同步大幅回落，较年内高点跌幅已接近550元/克。 周生生 金饰挂牌价1161元/克，单日下调42元，较年内高点回落547元。 周大福 、 老凤祥 金饰报价均为1165元/克，分别单日下",
+     "source": "东方财富股票",
+     "zh": "国际金价，跌至今年新低！金饰克价年内暴跌近550元"
+    },
+    {
+     "title": "券商业绩集体大考！近八成第三季度滑坡，哪些家逆势增长？",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917585122.html",
+     "pubDate": "Sat, 31 Oct 2026 13:08:00 +0800",
+     "summary": "2026年赛程走过四分之三，券商业绩正经历一场“稳中有压、分化加剧”的深层洗牌。 截至10月30日，上市券商2026年三季报已披露完成，涉及券商或上市主体多达49家，行业业绩全景图基本清晰。整体呈现“累计稳增、单季承压”特征：前三季度归母净利润整体同比增长23%，第三季度单季同比下滑15.65%。 业务层面，上述券商或上市主体前三季度自营收入整体同比增长8.98%，但69.05%的券商自营收入同比下滑，分化显著；经纪业务表现较稳，整体同比增长27.89%，几乎全部券商实现正增长；投行净收入整体同比增长26.16%，行业分化加剧、马太效应进一步凸显，5家头部券商保持高增长；资管业务整体同比增长2",
+     "source": "东方财富股票",
+     "zh": "券商业绩集体大考！近八成第三季度滑坡，哪些家逆势增长？"
+    },
+    {
+     "title": "业绩大增却遭存货减值压力 厦门钨业、中钨高新、章源钨业、翔鹭钨业Q3净利环比全降",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917582973.html",
+     "pubDate": "Sat, 31 Oct 2026 13:07:34 +0800",
+     "summary": "受益于 钨 均价同比大幅上涨，2026年前三季度主要 钨 企集体交出亮眼成绩单。多家 钨 企实现营收、净利同比双增长， 翔鹭钨业 、 章源钨业 营收实现翻倍， 翔鹭钨业 归母净利润同比增幅最高超过8倍。 然而随着钨价自高位快速回落，多家企业第三季度单季净利环比明显下滑， 翔鹭钨业 、 章源钨业 环比降幅分别超过95%、89%。其中，存货跌价损失集中计提成为拖累的重要原因。而不同业务模式下的钨企单季度利润环比降幅差异较大。 对此，业内分析人士向《华夏时报》记者指出，钨行业并非走向景气顶点，而是进入高价格、高波动、高分化的新阶段，资源自给率与深加工能力，正决定谁能把利润真正留在手里。 营收、净利同",
+     "source": "东方财富股票",
+     "zh": "业绩大增却遭存货减值压力 厦门钨业、中钨高新、章源钨业、翔鹭钨业Q3净利环比全降"
+    },
+    {
+     "title": "又有多只REITs产品，迎来新进展！",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917585331.html",
+     "pubDate": "Sat, 31 Oct 2026 13:02:26 +0800",
+     "summary": "【导读】本周REITs快报 中国基金报记者王思文 本周（10月26日—10月30日），中证REITs全收益指数跌1.26%。其中，超八成公募REITs产品下跌，本周跌幅最大达9.36%。 本周，又有多只公募REITs产品进入上市、问询等新阶段。 本周超八成公募REITs产品下跌 二级市场表现方面，周五（10月30日）中证REITs全收益指数收跌0.63%，收于945.6点。 本周，公募REITs市场先扬后抑，中证REITs全收益指数周跌幅为1.26%。具体而言，本周94只已上市公募REITs中，仅14只录得上涨，超八成公募REITs产品下跌，跌幅最大达9.36%。 整体来看，本周涨幅居前的公募",
+     "source": "东方财富股票",
+     "zh": "又有多只REITs产品，迎来新进展！"
+    },
+    {
+     "title": "The right to be apolitical",
+     "link": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
+     "pubDate": "Sat, 31 Oct 2026 05:01:09 GMT",
+     "summary": "The film ‘Fatherland’ is too harsh on the uncommitted",
+     "source": "Financial Times",
+     "zh": "The right to be apolitical"
+    },
+    {
+     "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+     "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+     "pubDate": "Sat, 31 Oct 2026 05:00:31 GMT",
+     "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+     "source": "Financial Times",
+     "zh": "Is this the first clear evidence of AI’s impact on the labour market?"
+    },
+    {
+     "title": "Donald Trump’s endgame",
+     "link": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
+     "pubDate": "Sat, 31 Oct 2026 05:00:20 GMT",
+     "summary": "What will the US president’s last two years in Washington look like?",
+     "source": "Financial Times",
+     "zh": "Donald Trump’s endgame"
     },
     {
      "title": "康明斯在华本土化更进一步：S29发动机由中国团队牵头，目标100%国产化",
@@ -2271,14 +2335,6 @@
      "summary": "王涛表示，对于中国主机厂而言，S29提供了一个新机会。过去全球矿山市场基本由卡特彼勒和小松引领，中国主机厂是后来跟随者，要参考他们的整车设计和发动机选型，这对中国主机厂走向全球竞争有一些限制。S29让中国主机厂有机会和全球矿业巨头站在同一起跑线，而且徐工、三一都是最早应用康明斯发动机的合作伙伴，某种程度上会有先发优势。",
      "source": "经济观察网",
      "zh": "康明斯在华本土化更进一步：S29发动机由中国团队牵头，目标100%国产化"
-    },
-    {
-     "title": "鹏华基金首席资产配置官郑科：短期市场迎结构再平衡 A股整体估值仍具吸引力",
-     "link": "http://stock.eastmoney.com/news/1407,202610313917579233.html",
-     "pubDate": "Sat, 31 Oct 2026 12:41:13 +0800",
-     "summary": "近期A股市场出现阶段性调整，投资者风险偏好有所回落。针对当前市场波动、估值水平与中长期投资机遇，鹏华基金首席资产配置官、资产配置与基金投资部总经理郑科认为，本轮市场波动属于行情运行中的结构性再平衡，并未改变A股长期投资价值，权益资产依然具备较强的配置吸引力。 郑科表示，受筹码堆积影响，三季度股权风险溢价第三次触碰均值下方两倍标准差之际，市场出现了较大幅度调整，创业板、双创50等为代表的板块，均出现了阶段性的回调。需要强调的是，这是A股市场特性使然，并没有出现明显的经济基本面变动，并不影响未来我国以新质生产力为引擎的换挡进程。 “从估值性价比来看，当前股权风险溢价所处绝对水平，仍显示A股具有明显",
-     "source": "东方财富股票",
-     "zh": "鹏华基金首席资产配置官郑科：短期市场迎结构再平衡 A股整体估值仍具吸引力"
     },
     {
      "title": "李凤刚入职一年即离职 北京现代转型再遇挫",
@@ -2305,22 +2361,6 @@
      "zh": "Alcantara在京举办设计沙龙，探讨材料创新与跨文化设计"
     },
     {
-     "title": "桐昆股份前三季度归母净利润69.02亿元 同比增长345.66%",
-     "link": "http://stock.eastmoney.com/news/11215,202610313917581552.html",
-     "pubDate": "Sat, 31 Oct 2026 12:37:54 +0800",
-     "summary": "上证报中国证券网讯（记者操子怡）10月30日， 桐昆股份 披露2026年第三季度报告。前三季度，公司实现营业收入854.36亿元，同比增长26.76%；归母净利润69.02亿元，同比增长345.66%；扣非净利润66.57亿元，同比增长410.76%。 单看第三季度，公司实现营业收入327.27亿元，同比增长40.83%，环比增长11.52%；归母净利润26.80亿元，同比增长492.71%，环比增长15.30%；扣非净利润26.52亿元，同比增长963.29%，环比增长17.97%。 对于业绩增长， 桐昆股份 表示，主要系公司产品获利能力增加，以及对外投资浙石化确认损益同比增加所致。 此外，",
-     "source": "东方财富股票",
-     "zh": "桐昆股份前三季度归母净利润69.02亿元 同比增长345.66%"
-    },
-    {
-     "title": "锦江酒店前三季度实现净利润10.55亿元 同比增长41.43%",
-     "link": "http://stock.eastmoney.com/news/11219,202610313917581846.html",
-     "pubDate": "Sat, 31 Oct 2026 12:37:47 +0800",
-     "summary": "上证报中国证券网讯（记者钱佳滢）10月30日晚， 锦江酒店 披露2026年三季报。前三季度，公司实现营收106.79亿元，同比增长4.27%；归母净利润10.55亿元，同比增长41.43%。三季度单季，公司实现归母净利润5.10亿元，同比增长35.88%。 锦江酒店 表示，公司在报告期内通过直营精细化管控、存量物业改造焕新与品牌结构优化持续挖潜，带动核心运营指标稳步增长。 具体来看，报告期内， 锦江酒店 直营门店运营效率提升，三季度RevPAR同比增长9.06%。存量改造方面，公司前三季度累计完成500余家加盟 酒店 梯度改造，其中重改门店三季度RevPAR同比提升14.9%。此外，中高端品牌",
-     "source": "东方财富股票",
-     "zh": "锦江酒店前三季度实现净利润10.55亿元 同比增长41.43%"
-    },
-    {
      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 04:30:00 GMT",
@@ -2329,12 +2369,12 @@
      "zh": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore"
     },
     {
-     "title": "房企化债提速，“完成重组”只是起点",
-     "link": "http://www.eeo.com.cn/2026/1031/1080554.shtml",
-     "pubDate": "Sat, 31 Oct 2026 12:24:01 +0800",
-     "summary": "10 月房企化债窗口期如期而至，债务重组路线走向分化，或以资产抵债、削债展期守住控制权，或以债转股置换债权人支持。市场企稳、融资新政托底谈判，但重组并非一劳永逸的护身符。不少企业在重组完成后再度违约，本质是方案建立在销售回暖的预期之上。卸下旧债只是起点，能否重新实现经营回血，才是这场风险出清的最终考验。",
-     "source": "经济观察网",
-     "zh": "房企化债提速，“完成重组”只是起点"
+     "title": "国泰海通发布三季报：一个头部券商的”侧身过弯”",
+     "link": "https://wallstreetcn.com/articles/3784908",
+     "pubDate": "Sat, 31 Oct 2026 12:13:53 +0800",
+     "summary": "国内证券业的“TOP”2之一，总资产规模领先者国泰海通发布三季报。 这是证券业在今年3季度整体面临调整市道时的一次关键业绩报告，其中的数据和细分行业表现更能反映一家公司的底层实力，而国泰海通显然跑出了自己的“姿势”。 体量登顶，业绩继续努力 2026年10月30日晚，合并后的国泰海通交出2026年的三季报。季报显示，公司前三季度营收 589.76亿元，同比 +28.51%；归母净利润 248.85亿元，同比 +12.73%；扣非归母净利润 239.47亿元，同比 +46.87%。虽然第三季度单季受市场回落等影响，营收 118.13亿元，同比 -46.35%；归母净利 46.25亿元，同比 -2",
+     "source": "华尔街见闻",
+     "zh": "国泰海通发布三季报：一个头部券商的”侧身过弯”"
     },
     {
      "title": "“黑色星期五”的导火索：Anthropic只能“垃圾级”？",
@@ -2345,14 +2385,6 @@
      "zh": "“黑色星期五”的导火索：Anthropic只能“垃圾级”？"
     },
     {
-     "title": "我国运行核电装机规模有望在2030年前跃居世界第一",
-     "link": "http://finance.eastmoney.com/news/1344,202610313917574489.html",
-     "pubDate": "Sat, 31 Oct 2026 11:55:59 +0800",
-     "summary": "澎湃新闻从10月29日举行的2026年（第九届）核能公众沟通交流大会上了解到，截至目前，我国（大陆）在运和核准在建核电机组共120台，装机容量1.35亿千瓦，总规模保持世界第一；其中，在运机组为64台、装机约6859万千瓦，居世界第二；在建及核准待建机组56台、装机约6710万千瓦，居世界第一。我国（大陆）运行核电机组从未发生国际核事件分级2级及以上事件，WANO 综合 指数满分机组数量和平均值均保持世界前列。 从更长周期看，根据中国核能行业协会及相关研究机构的预测，2030年前，我国运行核电装机规模有望成为世界第一；到2040年，装机规模预计达到2亿千瓦；到2060年，为支撑碳中和目标，核电",
-     "source": "东方财富资讯",
-     "zh": "我国运行核电装机规模有望在2030年前跃居世界第一"
-    },
-    {
      "title": "一片下跌声中，OpenAI大幅削减融资金额，从300亿降到200亿",
      "link": "https://wallstreetcn.com/articles/3784904",
      "pubDate": "Sat, 31 Oct 2026 11:38:33 +0800",
@@ -2361,52 +2393,12 @@
      "zh": "一片下跌声中，OpenAI大幅削减融资金额，从300亿降到200亿"
     },
     {
-     "title": "Grok Bot用户连续16天增长！马斯克强调增长速度前所未见",
-     "link": "http://stock.eastmoney.com/news/1416,202610313917570196.html",
-     "pubDate": "Sat, 31 Oct 2026 11:38:10 +0800",
-     "summary": "SpaceX 研发的 人工智能 助手Grok Bot用户规模正在有序增长。据报道，其日活跃用户已连续16天增加，创下发布以来的最长增长纪录，日活用户从9月初的不到10万增长至10月26日的超过60万。 此前，马斯克还在X上公开表示，Grok Bot的用户增长速度比他见过的任何产品都要快。他还强调，Grok Bot没有免费版本。 Grok Bot用户均需付费使用。自10月12日起，新用户可通过X订阅获取该服务，高级版起价为每月30美元，超级版为每月100美元，终极版为每月200美元。 Atreides Management管理合伙人兼首席投资官Gavin Baker表示，Grok Bot是迄今为",
-     "source": "东方财富资讯",
-     "zh": "Grok Bot用户连续16天增长！马斯克强调增长速度前所未见"
-    },
-    {
-     "title": "币安63亿美元被盗细节披露：黑客绕过审批控制 边转移资产边销毁痕迹",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917573360.html",
-     "pubDate": "Sat, 31 Oct 2026 11:35:54 +0800",
-     "summary": "全球最大的加密货币交易所币安遭黑客攻击事件有了进一步进展。 10月31日，币安在最新安全事件进展公告中确认，约在10月30日4时05分，其热钱包遭到攻击，约63亿美元代币资产被盗。币安称，已准备超过63.4亿美元的公司资金，用于弥补此次事件造成的损失，其中约80%的被盗资产已补足。 根据公告，币安已配置约50亿美元等值的对应代币资产，包括USDC、USDT、BTC、ETH及BNB等，剩余部分正通过市场和场外交易渠道购买。币安重申，将通过用户安全资产基金（SAFU）及公司自有资金承担本次资产被盗的财务损失，用户不承担相关损失。 业务恢复方面，币安表示，提现服务暂时停止，充值及其他未受影响的平台业",
-     "source": "东方财富资讯",
-     "zh": "币安63亿美元被盗细节披露：黑客绕过审批控制 边转移资产边销毁痕迹"
-    },
-    {
-     "title": "国金证券第三季度营收净利均双位数增长 完成1.5亿元回购",
-     "link": "http://stock.eastmoney.com/news/11215,202610313917571835.html",
-     "pubDate": "Sat, 31 Oct 2026 11:30:35 +0800",
-     "summary": "国金证券 （600109）第三季度营收净利均实现双位数增长。 10月30日晚间， 国金证券 发布的《2026年第三季度报告》显示，今年第三季度，公司营业收入为25.75亿元，同比增加12.43%；归属于上市公司股东的净利润（下称“净利润”）为6.93亿元，同比增加17.62%。 2026年前三季度， 国金证券 实现营业收入74.80亿元，同比增长21.59%；净利润为20.06亿元，同比增长18.01%。 截至2026年三季度末，国金证券总资产1767.15亿元，较2025年末1488.30亿元的总资产规模，增长了18.74%。 对于前三季度业绩的增长，国金证券在2026年三季报中表示，主要是",
-     "source": "东方财富资讯",
-     "zh": "国金证券第三季度营收净利均双位数增长 完成1.5亿元回购"
-    },
-    {
-     "title": "中信建投60亿加注国际子 显著增量 距上一轮增资仅八个月",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917570075.html",
-     "pubDate": "Sat, 31 Oct 2026 11:18:00 +0800",
-     "summary": "在证券业国际化的棋盘上， 中信建投 又落下重要一子。一笔大额增资再度注入境外平台。 10月30日， 中信建投 公告，公司董事会审议通过向全资子公司 中信建投 国际增资60亿港元的议案。财联社注意到，这距上一轮公司15亿港元增资完成仅八个月，而且规模还是前次的四倍。中信建投正在用资本金展示对国际化布局的重视。 无独有偶，不少券商也正在加注国际业务赛道。就在10月29日， 财达证券 公告拟以自有资金1亿港元设立全资子公司财达国际控股，申请第1、4、6、9类牌照，定位服务河北企业跨境资本运作。据记者不完全统计，2026年以来至少11家券商对香港子公司增资或披露增资计划，约517亿元（含计划尚未实施）",
-     "source": "东方财富资讯",
-     "zh": "中信建投60亿加注国际子 显著增量 距上一轮增资仅八个月"
-    },
-    {
-     "title": "首部AI电影何以伤在剧本",
-     "link": "http://www.eeo.com.cn/2026/1031/1080421.shtml",
-     "pubDate": "Sat, 31 Oct 2026 10:55:44 +0800",
-     "summary": "如何在现有技术条件下，保留故事的完整性和人物必要的情感表达，让AI服从于故事创作，而不是让剧本迁就视觉效果，是比“用AI生成奇观”更重要、也更艰难的课题。",
-     "source": "经济观察网",
-     "zh": "首部AI电影何以伤在剧本"
-    },
-    {
-     "title": "新疆发现特大型锆（铪）砂矿！大幅提高我国锆矿自给能力",
-     "link": "http://finance.eastmoney.com/news/1350,202610313917538717.html",
-     "pubDate": "Sat, 31 Oct 2026 10:30:22 +0800",
-     "summary": "10月31日，记者从自然资源部获悉，新疆阿克苏地区拜城县发现国内首个古河湖相锆砂矿，这将大幅提高我国锆矿自给能力。 如何发现的？ 2006年至2019年，通过地质资料二次开发，圈定多处锆（铪）矿矿化异常和找矿靶区。 2024年以来，聚焦锆矿成矿有利区，通过3年攻坚实现了锆砂矿重大找矿突破。为表彰彭宇和王海涛两名地质队员在发现该矿中作出的贡献，将其命名为“宇海锆矿”。 2026年9月，经评审认定，宇海锆矿资源储量规模相当于40多个大型锆矿，伴生的铪矿也达到超大型规模。 新疆维吾尔自治区自然资源厅相关负责人表示，将尽快组织宇海锆矿矿业权公开出让，督促矿业权人加快增储上产，力争将宇海锆矿打造成为全国",
-     "source": "东方财富资讯",
-     "zh": "新疆发现特大型锆（铪）砂矿！大幅提高我国锆矿自给能力"
+     "title": "”零售之王“招商银行的三季报答卷：息差企稳，客户资产逼近19万亿",
+     "link": "https://wallstreetcn.com/articles/3784906",
+     "pubDate": "Sat, 31 Oct 2026 11:23:28 +0800",
+     "summary": "在复杂严峻的宏观经济环境与银行业整体承压的背景下，“零售之王”招商银行发布了三季报。 季报显示，今年前三季度，招行实现营业收入2648.52亿元，同比增长5.34%；实现归属于本行股东的净利润1164.76亿元，同比增长2.38%。在13.76万亿的庞大资产体量之上，招行依然保持了稳健的增长态势。 透过这份三季报，外界亦可以看到招商银行应对当下市场环境的三大策略安排：成本端推动净息差筑底企稳、零售端推动大财富管理矩阵爆发，资产端把好风险关。 净息差同比改善环比持平 近年来，受LPR下调及有效信贷需求不足影响，银行业净息差普遍承压。然而，招行三季报完成了息差的“企稳”。 报告显示，2026年1-",
+     "source": "华尔街见闻",
+     "zh": "”零售之王“招商银行的三季报答卷：息差企稳，客户资产逼近19万亿"
     },
     {
      "title": "中国10月官方制造业PMI 49.3，非制造业PMI 49.7",
@@ -2423,22 +2415,6 @@
      "summary": "谷歌、亚马逊、英特尔的财报接连让市场失望，本周AI交易的裂痕明显扩大。周五（10月30日）英特尔股价暴跌29%，创有史以来最大单日跌幅；纳斯达克综合指数下跌2.9%，是6月以来最差的一天，10月也将成为纳指一年多来表现最差的月份。 此前数月，AI交易的风险主要暴露在负债沉重的小公司身上，巨头凭借丰厚利润稳住了华尔街。本周，情况变了：谷歌搜索广告增长放缓，亚马逊自由现金流大幅转负，英特尔预计PC销售将长期低迷。据FactSet，“七巨头”第三季度盈利增速预计将低于标普500其余成分股。 市场追问的问题，已经从AI需求有多大，变成谁来为AI买单。高盛Delta One主管Rich Privorot",
      "source": "华尔街见闻",
      "zh": "雪上加霜！科技股“认清现实”的一周"
-    },
-    {
-     "title": "茅台三季度净利增3.78%，增长动力重新转向批发渠道",
-     "link": "https://wallstreetcn.com/articles/3784899",
-     "pubDate": "Sat, 31 Oct 2026 09:19:48 +0800",
-     "summary": "贵州茅台在持续调整产品供给、价格和销售渠道后，重新恢复利润增长。 10月30日，贵州茅台披露2026年第三季度报告。第三季度实现营业收入402.67亿元，同比增长3.08%；归母净利润199.51亿元，同比增长3.78%。 相比二季度营收、利润双降，茅台三季度业绩明显改善，利润表现也好于部分机构预期。 不过，这轮业绩修复也有低基数因素。2025年第三季度，茅台已经开始主动控制产品投放，当季营收、归母净利润同比仅增长0.56%和0.48%。 渠道与税费结构的变化，更能解释茅台三季度盈利能力为何环比改善。 今年二季度，茅台主动减少部分产品向经销渠道的投放，避免通过渠道压货完成销售目标。同时，部分非",
-     "source": "华尔街见闻",
-     "zh": "茅台三季度净利增3.78%，增长动力重新转向批发渠道"
-    },
-    {
-     "title": "苹果官宣：Apple智能接入阿里千问，11月4日开放测试",
-     "link": "https://wallstreetcn.com/articles/3784898",
-     "pubDate": "Sat, 31 Oct 2026 09:15:24 +0800",
-     "summary": "苹果公司在推动其人工智能技术落地全球最大智能手机市场方面迈出关键一步。 北京时间10月31日，苹果公司正式宣布与阿里巴巴集团达成合作，将 大模型“通义千问”整合进中国大陆市场的苹果智能（Apple Intelligence）系统中 。 相关集成功能将于 11月4日随iOS 27.3开发者测试版首发 ，并 计划于12月随系统正式版向中国用户全面推送 。 届时，符合条件的中国iPhone用户可在Siri、写作工具以及视觉智能功能中，直接调用千问的文本与图像理解及内容生成能力。 阿里巴巴集团首席执行官吴泳铭表示，千问将深度融入苹果生态，为中国用户带来全新的智能服务。 不过，首批上线的苹果智能仍面临严",
-     "source": "华尔街见闻",
-     "zh": "苹果官宣：Apple智能接入阿里千问，11月4日开放测试"
     },
     {
      "title": "First Business outlines ~10% annual loan growth and sees NIM staying above 3.60%–3.65% long-term range",
@@ -2479,6 +2455,30 @@
      "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
      "source": "MarketWatch",
      "zh": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000."
+    },
+    {
+     "title": "W&T Offshore forecasts Q4 2026 production midpoint of 33,700 BOE/d while lifting 2026 capex to $35M-$38M",
+     "link": "https://seekingalpha.com/news/4661800-w-and-t-offshore-forecasts-q4-2026-production-midpoint-of-33700-boe-d-while-lifting-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 18:59:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "W&T Offshore forecasts Q4 2026 production midpoint of 33,700 BOE/d while lifting 2026 capex to $35M-$38M"
+    },
+    {
+     "title": "Alaska Senate election: DOJ wants to &apos;segregate&apos; all ballots for 2nd Sullivan candidate",
+     "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+     "pubDate": "Fri, 30 Oct 2026 22:57:55 GMT",
+     "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+     "source": "CNBC",
+     "zh": "Alaska Senate election: DOJ wants to &apos;segregate&apos; all ballots for 2nd Sullivan candidate"
+    },
+    {
+     "title": "Federal Realty signals $7.54-$7.58 core FFO per share guidance while integrating $508M The Summit acquisition",
+     "link": "https://seekingalpha.com/news/4661799-federal-realty-signals-7_54-7_58-core-ffo-per-share-guidance-while-integrating-508m-the?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 18:49:33 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Federal Realty signals $7.54-$7.58 core FFO per share guidance while integrating $508M The Summit acquisition"
     }
    ]
   },

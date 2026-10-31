@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 17:09:48",
+ "generated_at": "2026/10/31 17:29:40",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,30 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+     "link": "https://www.qbitai.com/2026/10/506884.html",
+     "pubDate": "Sat, 31 Oct 2026 05:17:50 +0000",
+     "summary": "苹果“牛奶倒河里”式操作翻红",
+     "source": "量子位",
+     "zh": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍"
+    },
+    {
+     "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+     "link": "https://www.qbitai.com/2026/10/506866.html",
+     "pubDate": "Sat, 31 Oct 2026 05:11:19 +0000",
+     "summary": "AI算力利用“九九成”",
+     "source": "量子位",
+     "zh": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用"
+    },
+    {
+     "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+     "link": "https://www.qbitai.com/2026/10/506855.html",
+     "pubDate": "Sat, 31 Oct 2026 05:05:29 +0000",
+     "summary": "200美元Ultra用户先用",
+     "source": "量子位",
+     "zh": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」"
+    },
     {
      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
      "link": "https://arxiv.org/abs/2610.37720",
@@ -186,6 +210,14 @@ window.INDUSTRY_DATA = {
      "zh": "70%算力空转、数据开发率28.4%！华为副总裁袁远：AI发展要提升存储支撑力"
     },
     {
+     "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+     "link": "https://www.qbitai.com/2026/10/506819.html",
+     "pubDate": "Fri, 30 Oct 2026 12:58:31 +0000",
+     "summary": "xs，还要给机器人打绩效",
+     "source": "量子位",
+     "zh": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单"
+    },
+    {
      "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
      "link": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
      "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
@@ -194,60 +226,28 @@ window.INDUSTRY_DATA = {
      "zh": "每个清洗管道中都存在的无声数据错误"
     },
     {
+     "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+     "link": "https://www.qbitai.com/2026/10/506785.html",
+     "pubDate": "Fri, 30 Oct 2026 11:05:06 +0000",
+     "summary": "之前还连登昇腾三榜第一",
+     "source": "量子位",
+     "zh": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！"
+    },
+    {
+     "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+     "link": "https://www.qbitai.com/2026/10/506779.html",
+     "pubDate": "Fri, 30 Oct 2026 10:44:01 +0000",
+     "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
+     "source": "量子位",
+     "zh": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”"
+    },
+    {
      "title": "Making it easier for websites to express AI training preferences",
      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
      "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
      "source": "OpenAI",
      "zh": "让网站更容易表达人工智能训练偏好"
-    },
-    {
-     "title": "Community safety report and new protections for teens",
-     "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-     "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
-     "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-     "source": "OpenAI",
-     "zh": "社区安全报告和针对青少年的新保护"
-    },
-    {
-     "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
-     "link": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
-     "pubDate": "Fri, 30 Oct 2026 07:26:12 +0000",
-     "summary": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. The post Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 ",
-     "source": "MarkTechPost",
-     "zh": "Samaya AI 发布 Sterling：一种 3B-Active 金融研究代理模型，在 FrontierFinance 上以 11 倍的成本击败 Claude Fable 5.1"
-    },
-    {
-     "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
-     "link": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
-     "pubDate": "Fri, 30 Oct 2026 05:02:52 +0000",
-     "summary": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. The post Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model appeared first on MarkTech",
-     "source": "MarkTechPost",
-     "zh": "Edge0 发布 Audio8-TTS-Realistic，0.6B 语音克隆 TTS 模型"
-    },
-    {
-     "title": "Fair use benefits everyone",
-     "link": "https://openai.com/index/fair-use-benefits-everyone",
-     "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
-     "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-     "source": "OpenAI",
-     "zh": "合理使用使每个人受益"
-    },
-    {
-     "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
-     "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
-     "pubDate": "Thu, 29 Oct 2026 21:20:29 +0000",
-     "summary": "Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens. The post Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "Baseten 发布 joey-1，一种 2B 决策模型，每 100 万代币价格为 0.01 美元"
-    },
-    {
-     "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
-     "link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
-     "pubDate": "Thu, 29 Oct 2026 18:28:57 +0000",
-     "summary": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl. The post Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass appeared ",
-     "source": "MarkTechPost",
-     "zh": "Prime Intellect 发布 Prime Mega MoE：可训练的融合 MoE 内核，前向传递速度加快 3.11 倍"
     }
    ]
   },
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+     "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+     "pubDate": "Sat, 31 Oct 2026 13:57:43 +0530",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS scor",
+     "source": "The Hacker News",
+     "zh": "攻击者利用三个 Ivanti Connect 安全漏洞获取未经身份验证的根访问权限"
+    },
+    {
      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
      "pubDate": "Sat, 31 Oct 2026 11:03:41 +0530",
@@ -1690,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "CISA 称 GitLab 漏洞现已被广泛利用"
     },
     {
-     "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-     "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-     "pubDate": "Fri, 30 Oct 2026 17:51:56 +0530",
-     "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to m",
-     "source": "The Hacker News",
-     "zh": "Trezor 警告 CryptoBilis 出售的一款钱包中疑似植入硬件"
-    },
-    {
      "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
      "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
      "pubDate": "Fri, 30 Oct 2026 12:04:13 +0000",
@@ -1746,6 +1746,102 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "12G+256G 首发 3199 → 2188 元：联想小新 Pro GT 13 平板电脑国补 6 期免息",
+     "link": "https://www.ithome.com/1/020/547.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:27:41 GMT",
+     "summary": "2026 年 3 月 18 日联想推出了小新系列的笔记本电脑及平板电脑新品，以及拯救者 Y700 五代平板电脑。 其中，联想小新 Pro GT 13 平板电脑搭载高通骁龙 8 至尊版，采用 13 英寸 3.5K 屏幕，提供 3 个版本可选，首发价 2799~3599 元，叠加国补后 2380~3099 元，再叠加教育优惠 2295~2999 元。 8+256GB 版本：2799 元，国补 2380 元，教育优惠 2295 元 12+256GB 版本：3199 元，国补 2720 元，教育优惠 2635 元 12+512GB 版本：3599 元，国补 3099 元，教育优惠 2999 元 京东 ",
+     "source": "IT之家",
+     "zh": "12G+256G 首发 3199 → 2188 元：联想小新 Pro GT 13 平板电脑国补 6 期免息"
+    },
+    {
+     "title": "A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC&apos;s chip fabs were welcomed but newer projects face backlash (Gaby Del Valle/The Verge)",
+     "link": "https://www.techmeme.com/261031/p7#a261031p7",
+     "pubDate": "Sat, 31 Oct 2026 05:25:55 -0400",
+     "summary": "Gaby Del Valle / The Verge : A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash &nbsp; &mdash;&nbsp; Industry has drained the state's water reserves for decades.&nbsp; Data centers are the brea",
+     "source": "Techmeme",
+     "zh": "看看两党对遭受干旱的亚利桑那州人工智能数据中心日益增长的反对，台积电的芯片工厂在那里受到欢迎，但新项目面临强烈反对（Gaby Del Valle/The Verge）"
+    },
+    {
+     "title": "1319 元刚需闭眼囤：小米 1.5 匹巨省电 N1A1 空调官方直降",
+     "link": "https://www.ithome.com/1/020/546.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:25:23 GMT",
+     "summary": "小米・米家空调巨省电 1.5 匹 KFR-35GW / N1A1（APF 5.27 款）日常售价 1688 元，今日京东旗舰店直降至 1319 元刚需闭眼囤好价。 先领 9 折京东平台券： 点此领券 京东 米家空调 巨省电 1.5 匹 KFR-35GW/N1A1 外机单排 券后 1319 元 领 9 折券 小米官方同款现售 1788 元： 点此查看 。 支持整机 10 年免费包修，安装时支持数字抽真空。 小米米家空调巨省电 1.5 匹符合国家新一级能效标准，对比新三级能效，全年约可省 202 度电。 同时，该空调采用直流变频压缩机，支持 30s 速冷 + 60s 速热与-32℃ 低温制热、60",
+     "source": "IT之家",
+     "zh": "1319 元刚需闭眼囤：小米 1.5 匹巨省电 N1A1 空调官方直降"
+    },
+    {
+     "title": "惠普推出 34 英寸 WQHD 120Hz 带鱼屏显示器 Series 3 Pro 334wp G2，支持 90W USB-C 供电",
+     "link": "https://www.ithome.com/1/020/545.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:25:13 GMT",
+     "summary": "IT之家 10 月 31 日消息，据 TechPowerUp 昨日报道，惠普推出了一款 34 英寸 WQHD 120Hz 的 Series 3 Pro 带鱼屏显示器，型号 334wp G2，面向办公及多任务处理场景。 该显示器采用 VA 面板，拥有 1500R 曲率、3440×1440 分辨率，静态对比度为 3500:1，亮度为 300 尼特，开启 Overdrive 后响应时间可达 5ms（GtG），覆盖 85% NTSC 色域，不支持 HDR，也没有内置摄像头，主要面向文档处理、电子表格及日常办公场景。 该显示器配备 USB-C 一线连接功能，可作为 USB-C 扩展坞显示器使用，单根线缆",
+     "source": "IT之家",
+     "zh": "惠普推出 34 英寸 WQHD 120Hz 带鱼屏显示器 Series 3 Pro 334wp G2，支持 90W USB-C 供电"
+    },
+    {
+     "title": "中东阿语配音返工两轮仍被沙特玩家吐槽口音，5人团队该怎么排配音工期？",
+     "link": "https://www.baijing.cn/question/638554",
+     "pubDate": "Sat, 31 Oct 2026 09:23:16 +0000",
+     "summary": "我们5人小团队，一款SLG手游刚在沙特、阿联酋上线两个月，起量阶段月投放预算约3万美元。阿语本地化外包给了一家迪拜的配音工作室，主线和教程共约1200句，第一次交付后沙特玩家评论里反复说“像埃及腔”“念得像新闻播报”，留存次日从38%掉到31%。返工一轮加了方言审校，结果阿联酋那边又反馈部分词汇偏沙特地气。现在卡在：我们只有1个运营兼本地化对接，没有阿语母语全职，每次返工录音加审校要3周，赶不上版本节奏。想问的是，在这种人手和排期约束下，阿语配音到底该按“先沙特单一方言上线、阿联酋后续补”分批走，还是一开始就双版本并行？判断标准主要看哪几个指标？",
+     "source": "白鲸出海",
+     "zh": "中东阿语配音返工两轮仍被沙特玩家吐槽口音，5人团队该怎么排配音工期？"
+    },
+    {
+     "title": "曝 EA 关闭 BioWare 是为“腾笼换鸟”：将资源投向《星球大战：前线 3》",
+     "link": "https://www.ithome.com/1/020/544.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:22:24 GMT",
+     "summary": "IT之家 10 月 31 日消息，上周，EA 宣布关闭历史悠久、曾打造《龙腾世纪》的工作室 BioWare，同时取消开发中的《质量效应》新作。 当地时间 10 月 30 日，彭博社的新报道指出，EA 决定关闭 BioWare，很大程度上是因为公司 获得了制作新一部《星球大战：前线》的机会 。 多名熟悉情况的匿名知情人士称，EA 高管当时正在重新审视未来几年的游戏项目，同时还要面对公司被沙特投资基金收购后背负的 180 亿美元 （IT之家注：现汇率约合 1,200.52 亿元人民币） 债务。 EA 当时规划了两款科幻动作游戏，每款制作成本都将达到数亿美元： 一款是下一部《质量效应》，据信原定名为",
+     "source": "IT之家",
+     "zh": "曝 EA 关闭 BioWare 是为“腾笼换鸟”：将资源投向《星球大战：前线 3》"
+    },
+    {
+     "title": "不过是分手，为何如此心碎？",
+     "link": "https://www.huxiu.com/article/4901955.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 17:19:15 +0800",
+     "summary": "本文来自微信公众号： 神经现实 ，编译：EY，作者：Zoonen 我为母亲哀伤了许多年，尽管她还活着。有时，在入睡前那片介于清醒与睡眠之间、自我的边界变得松动的地带，我会看见那个温柔体贴的女人：她走来道晚安，脸颊上厚厚地涂着晚霜。紧接着，毫无预兆地，眼前又变成那个暴怒的女人。她深陷自己的痛苦，把挫败感发泄在我们身上。这些年，随着她被卷入我兄弟的成瘾问题，第二个女人慢慢吞没了第一个。很难说她自身的不幸在哪里结束，我兄弟的痛苦又从哪里开始；但他们一起漂进了一个平行现实，与头脑之外的世界隔绝。没有人为此举行葬礼。没有慰问卡，没有鲜花，没有电话，也没有假可以请。我究竟该悼念什么？ 然而，我对他们曾经有",
+     "source": "虎嗅",
+     "zh": "不过是分手，为何如此心碎？"
+    },
+    {
+     "title": "神行者 8 大五座版开启交付：权益价 28.99 万元起，标配华为 ADS 5",
+     "link": "https://www.ithome.com/1/020/543.htm",
+     "pubDate": "Sat, 31 Oct 2026 09:14:43 GMT",
+     "summary": "IT之家 10 月 31 日消息，FREELANDER 神行者 8 大五座版于 10 月 31 日正式开启交付。官方同时宣布将上市权益延续至 11 月 30 日 24 时。 神行者 8 由奇瑞与捷豹路虎联合开发，在奇瑞捷豹路虎常熟基地生产，大六座版已于 9 月先行开启交付。大五座提供 PRO、MAX、MAX+ 三款配置，指导价 30.99 万至 38.99 万元，限时权益价 28.99 万至 36.99 万元（IT之家注：六座版权益价 29.99 万至 37.99 万元）。 神行者 8 延续 CONCEPT 97 概念车的方正硬派风格，封闭式前脸配矩形大灯，车顶带行李架与激光雷达。车身长宽高为",
+     "source": "IT之家",
+     "zh": "神行者 8 大五座版开启交付：权益价 28.99 万元起，标配华为 ADS 5"
+    },
+    {
+     "title": "东南亚找 SaaS 渠道代理，投放花了 4 万多却只换来 11 条有效线索，该继续投吗？",
+     "link": "https://www.baijing.cn/question/638553",
+     "pubDate": "Sat, 31 Oct 2026 09:14:09 +0000",
+     "summary": "我们在印尼和越南做轻量级门店管理 SaaS，团队 9 人，产品上线 8 个月，目前月流水刚过 2 万美元，主要靠自营销售。这两个月想补渠道代理，在 LinkedIn 和当地一家 B2B 媒体投了约 4.2 万元人民币的招募广告，落地页留资 137 条，人工筛完只有 11 条算有效代理线索，单条有效 CPA 接近 3800 元，其中印尼占 8 条、越南 3 条，泰国和菲律宾基本没动静。落地页也改过两版，把佣金比例和区域保护写清楚了，转化率从 1.9% 提到 2.6%，但线索质量没变。现在卡在不知道该继续加投还是换渠道，也判断不了这个 CPA 在东南亚 SaaS 渠道招募里算不算正常。想直接问：按",
+     "source": "白鲸出海",
+     "zh": "东南亚找 SaaS 渠道代理，投放花了 4 万多却只换来 11 条有效线索，该继续投吗？"
+    },
+    {
+     "title": "北京网约车现状",
+     "link": "https://www.huxiu.com/article/4901949.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 17:13:52 +0800",
+     "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，原文标题：《北京网约车现状》 最近打车比较多，跟滴滴师傅们都聊天，记录如下： 1、不少专车师傅改轻享了，轻享乘客价格比专车低20%左右，专车订单在减少，轻享与专车都需要B级车，除了价格和客单数量差异，轻享不用准备矿泉水、不用完整话术、不用每个月开会。 2、快车价格大幅下降，尤其是特惠快车越来越多，对轻享和专车冲击很大。部分特惠快车价格甚至能到出租车价格一半左右，对出租车冲击也很大。 3、网约车越来越多，乘客越来越少，这是网约车师傅共同的感觉。这个国庆一些师傅没回家想挣点钱，结果外地游客很少，只有前两天打车的人多一些。 4、打车人数在减少，平台就",
+     "source": "虎嗅",
+     "zh": "北京网约车现状"
+    },
+    {
+     "title": "押注睡着的8小时，前小米王腾闯入千亿AI睡眠赛道",
+     "link": "https://www.tmtpost.com/8188399.html",
+     "pubDate": "Sat, 31 Oct 2026 17:09:30 +0800",
+     "summary": "从小米出来后，王腾看上了睡着的那8小时生意。",
+     "source": "钛媒体",
+     "zh": "押注睡着的8小时，前小米王腾闯入千亿AI睡眠赛道"
+    },
+    {
+     "title": "Anthropic 早期投资人深度访谈：三家出资人各赚超10亿美元，70多家大模型后来者大多不会有好结局",
+     "link": "https://www.huxiu.com/article/4901953.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 17:09:11 +0800",
+     "summary": "本文来自微信公众号： AGI 2050 ，作者：AGI 2050，原文标题：《Anthropic 早期投资人深度访谈：三家出资人各赚超 10 亿美元，70 多家大模型后来者大多不会有好结局》 本周，Anthropic正式公开递交上市招股书。而在2023年，这家公司还没有一分钱收入，产品也尚未公开发布，以超过40亿美元的估值投资它，在当时的风险投资行业是一场极不寻常的冒险。 主导这笔关键投资的，是拥有50年历史的硅谷老牌风险投资机构Menlo Ventures的合伙人马特·墨菲。作为亲历过1999年互联网泡沫、在凯鹏华盈时列席了谷歌从投资到上市每一场董事会的资深投资人，墨菲不仅在Anthropi",
+     "source": "虎嗅",
+     "zh": "Anthropic 早期投资人深度访谈：三家出资人各赚超10亿美元，70多家大模型后来者大多不会有好结局"
+    },
+    {
      "title": "《使命召唤：现代战争 4》游戏使用梨泰院踩踏事故素材，动视致歉并承诺删除",
      "link": "https://www.ithome.com/1/020/542.htm",
      "pubDate": "Sat, 31 Oct 2026 09:08:11 GMT",
@@ -1754,12 +1850,28 @@ window.INDUSTRY_DATA = {
      "zh": "《使命召唤：现代战争 4》游戏使用梨泰院踩踏事故素材，动视致歉并承诺删除"
     },
     {
-     "title": "小米云服务双十一特惠活动上线，会员包年 3 折起",
-     "link": "https://www.ithome.com/1/020/541.htm",
-     "pubDate": "Sat, 31 Oct 2026 09:04:03 GMT",
-     "summary": "IT之家 10 月 31 日消息，小米云服务今日宣布开启双 11 限时优惠，会员包年 3 折起，活动时间为 10 月 31 日-11 月 14 日。 IT之家附价格信息如下： 50GB 黄金包年会员，原价 72 元，立减 43 元，活动价 29 元 200GB 白金包年会员，原价 252 元，立减 143 元，活动价 109 元 2TB 钻石包年会员，原价 816 元，立减 577 元，活动价 239 元 2026 年云会员 11.11 活动说明 1.活动时间：2026/10/31 10:00:00-2026/11/14 23:59:59； 2.活动对象：中国大陆小米云服务用户； 3.活动福利",
-     "source": "IT之家",
-     "zh": "小米云服务双十一特惠活动上线，会员包年 3 折起"
+     "title": "这下旅客更选高铁了",
+     "link": "https://www.huxiu.com/article/4901952.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 17:06:28 +0800",
+     "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 很早以前，我们一直有个段子。每当谈到怎样避免航班延误耽误行程，每当旅客问我们如何在雷雨季顺利出行，我们乘务员特别喜欢脱口而出： 麻烦去坐高铁。 现在，这句话已经不是玩笑话，已经是板上钉钉的现实，我看着这句话也笑不出来，因为——燃油附加费又涨了： 自11月5日零时起出票的国内客票，800公里（含）以下航线，每位成人旅客收取80元；800公里以上收取140元，比目前分别增加30元和50元。 涨价了，航空公司乐了吗？ 当然不，航司也很惨。俩成年人出行，往返800公里以上行程，仅仅是燃油附加费一样，就560块——机票才多少钱，高铁票才多少钱。 旅客查",
+     "source": "虎嗅",
+     "zh": "这下旅客更选高铁了"
+    },
+    {
+     "title": "雅典城邦时代，无知者总是洋洋自得虚荣傲慢，现在也一样",
+     "link": "https://www.huxiu.com/article/4901951.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 17:06:28 +0800",
+     "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞，编辑：郑大钱 生活的时代，正是雅典文明的崛起时代。历史学家雅各布·布克哈特写道，雅典人民“相信自己是身具神职的民族，在大饥荒时期，阿波罗曾赋予他们代表所有希腊人和野蛮人宣誓的权利……他们不仅最先种植了橄榄和无花果，还发明了法律和正义”。 詹姆斯·米勒在《经过检视的人生：从苏格拉底到尼采》一书中写道：“事实上，他们还发明了‘哲学’。” 苏格拉底被视为第一个以哲学家身份著称的人，《经过检视的人生》中写道：“虽然他生长在这座城市的黄金时代，但古代文献一致认为他的出身或成长经历并没有什么闪光点。他是苏浮洛尼思克思和法依娜里特所生的孩子，他们分",
+     "source": "虎嗅",
+     "zh": "雅典城邦时代，无知者总是洋洋自得虚荣傲慢，现在也一样"
+    },
+    {
+     "title": "星巴克，选了高档酒店的生意逻辑",
+     "link": "https://www.huxiu.com/article/4901950.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 17:06:27 +0800",
+     "summary": "本文来自微信公众号： 爅爅有闻 ，作者：赵小爅 星巴克要明码标价地卖空间，已经是明牌了。 北京时间10月30日，星巴克公布2026财年第四季度业绩。全球同店销售增长7.2%，调整后营业利润率达到14%，公司整体经营继续改善。 比这几个数字更重要的，是星巴克下一步花钱的方向。 今年10月21日，星巴克中国宣布2027财年将新增投入超3亿元，聚焦门店服务体验焕新，将用于增加高峰时段及臻选吧台服务人力、升级数智化系统与核心设备、推进约1000家门店设施焕新。此外，星巴克计划在2027财年对北美2000家门店进行改造，国际业务预计净新增约1100家门店，其中约一半来自中国。 翻译成人话就是，无论在中国",
+     "source": "虎嗅",
+     "zh": "星巴克，选了高档酒店的生意逻辑"
     },
     {
      "title": "欧洲商标被抢注后，只有两个人手的团队该怎么排应对节奏？",
@@ -1768,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "上周收到德国本地服务商转来的警告函，说我们在德国站用的品牌名已被第三方在德国专利商标局（DPMA）注册，要求我们停止使用，否则走临时禁令。我们做智能宠物饮水机，欧洲（德国/法国/英国/西班牙）月销约8万欧元，刚进入起量阶段，团队总共6个人，其中负责合规和法务的只有1个兼职运营，我自己兼着投放和供应链。目前已经做的是：让服务商查了对方注册类别（第11类，和我们主品类重叠）、翻出我们2022年就在英国和西班牙的销售记录和包装设计稿，也问了律师，对方报价先做异议+无效宣告，周期6-9个月，费用大概1.2万欧起。卡在排期上：如果走无效宣告，这半年德国站要不要先改名止损？改名涉及Listing、包装、C",
      "source": "白鲸出海",
      "zh": "欧洲商标被抢注后，只有两个人手的团队该怎么排应对节奏？"
-    },
-    {
-     "title": "网友分享苹果 iPhone Duo 小技巧：录入食指第二指节指纹，拿起手机即自然解锁",
-     "link": "https://www.ithome.com/1/020/540.htm",
-     "pubDate": "Sat, 31 Oct 2026 09:01:45 GMT",
-     "summary": "IT之家 10 月 31 日消息，只要思想不滑坡，办法总比困难多。由于有人吐槽 Touch ID 不方便，Reddit 网友 @Wrznlmw 上周分享了一个关于苹果 iPhone Duo 的小技巧。 据 MacRumors 报道，在录入指纹时，用户可以将食指靠近第二指节的纹理录入系统，而非默认的指尖或指腹。这样一来，当你拿起手机时，手指关节自然接触侧边电源键，就能完成指纹识别和解锁。 苹果 iPhone Duo 的 Touch ID 指纹传感器集成在侧边电源键上。常规使用时，用户需要调整手指位置才能让指尖接触传感器，而录入食指第二指节附近的纹理后，可以利用日常握持手机时的自然接触动作完成识别",
-     "source": "IT之家",
-     "zh": "网友分享苹果 iPhone Duo 小技巧：录入食指第二指节指纹，拿起手机即自然解锁"
     },
     {
      "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
@@ -1794,36 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "白矮星不仅仅是白色的。科学家发现垂死恒星变成粉红色和绿色"
     },
     {
-     "title": "微软 Edge 企业版新增开机自启管理策略，未配置时由用户自行决定",
-     "link": "https://www.ithome.com/1/020/525.htm",
-     "pubDate": "Sat, 31 Oct 2026 08:49:22 GMT",
-     "summary": "IT之家 10 月 31 日消息，据 Neowin 今日报道，微软计划为企业和组织用户推出一项新的 Microsoft Edge 管理策略，允许 IT 管理员统一控制浏览器在 Windows 登录时的启动行为。 这项新策略名为“ LaunchEdgeOnWindowsStartupEnabled ”，可用于强制启用或禁用浏览器自动启动，也允许管理员不设置该策略，将选择权交给用户。 根据微软公布的信息，管理员可以通过该策略配置 Edge 的启动行为。启用策略后，用户登录 Windows 时，Edge 将自动打开；禁用策略后，Edge 不会在 Windows 启动时自动打开；如果未配置策略，Edg",
-     "source": "IT之家",
-     "zh": "微软 Edge 企业版新增开机自启管理策略，未配置时由用户自行决定"
-    },
-    {
      "title": "巴西葡语客服外包按班次排，20人小团队怎么扛住晚高峰？",
      "link": "https://www.baijing.cn/question/638551",
      "pubDate": "Sat, 31 Oct 2026 08:48:52 +0000",
      "summary": "我们一款SLG手游在巴西和墨西哥起量中，DAU刚过8万，巴西玩家占六成。团队一共20人，其中运营3人，没有专职葡语客服。现在把游戏内工单和WhatsApp渠道的葡语客服外包给圣保罗一家BPO，按班次付费，晚8点到凌晨1点（北京时间）是巴西玩家在线高峰，工单量能到白天的3倍，但外包只覆盖到当地18点，之后只能靠我们运营用翻译工具硬顶，首响从40分钟拉到2小时，退款申诉类工单积压了170多单。试过让外包加夜班，报价涨了45%，预算扛不住；也试过招国内葡语兼职，排班和培训都跟不上。现在纠结是换按量计费的平台，还是把夜班拆给两家小团队轮值。想请教的是，在人力就这么点的情况下，判断该保首响时长还是保单条",
      "source": "白鲸出海",
      "zh": "巴西葡语客服外包按班次排，20人小团队怎么扛住晚高峰？"
-    },
-    {
-     "title": "揭秘宾利首款纯电 SUV 托卡尔：累计测试里程超百万公里，遍历高寒、高温、高海拔",
-     "link": "https://www.ithome.com/1/020/522.htm",
-     "pubDate": "Sat, 31 Oct 2026 08:45:57 GMT",
-     "summary": "IT之家 10 月 31 日消息，当地时间 30 日，据外媒 motor1 报道，宾利披露的最新信息称，为了在交付前尽可能找出车辆存在的问题，工程师花了数年时间，对品牌首款纯电动 SUV 托卡尔进行极限测试， 累计测试里程超过 100 万公里，足迹遍及全球多个气候严酷的地区 。 托卡尔不仅经受了 瑞典零下 38℃ 的严寒和沙漠地区超过 40℃ 的高温 ，还在美国派克峰海拔 4267 米以上的路段接受了 高海拔测试 。宾利称，这些测试旨在确保新车能够满足客户的实际使用需求。 托卡尔首发版 最大功率达 888 马力，峰值扭矩为 1350N·m ，这组性能参数背后有大量测试验证工作。 新车的研发工作",
-     "source": "IT之家",
-     "zh": "揭秘宾利首款纯电 SUV 托卡尔：累计测试里程超百万公里，遍历高寒、高温、高海拔"
-    },
-    {
-     "title": "科幻电影《沙丘 3》全新预告发布：三部曲最终篇，12 月 31 日内地上映",
-     "link": "https://www.ithome.com/1/020/514.htm",
-     "pubDate": "Sat, 31 Oct 2026 08:42:05 GMT",
-     "summary": "IT之家 10 月 31 日消息，科幻电影《沙丘 3》全新预告近日发布，本片将于 2026 年 12 月 18 日北美上映、12 月 31 日中国内地上映。 IT之家注意到，《沙丘 3》是《沙丘》系列 三部曲最终篇 ，汉斯・季默回归《沙丘 3》配乐，摄影师则由前两部的格雷格・弗莱瑟换成了《爱乐之城》的莱纳斯・桑德格伦，将依旧部分采用 IMAX 摄影机拍摄。 《沙丘 3》将由 丹尼斯・维伦纽瓦继续执导 ，提莫西・查拉梅、赞达亚、弗洛伦斯・皮尤、安雅・泰勒-乔伊、丽贝卡・弗格森、哈维尔・巴登、杰森・莫玛、乔什・布洛林回归出演，艾达・布鲁克、莫玛的儿子纳科亚-沃尔夫・莫玛新加盟，饰保罗和契妮的一对龙",
-     "source": "IT之家",
-     "zh": "科幻电影《沙丘 3》全新预告发布：三部曲最终篇，12 月 31 日内地上映"
     },
     {
      "title": "印度独立站接入 UPI 后，素材里出现本地支付图标反而拉低转化，这正常吗？",
@@ -1842,76 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "西语客服自动化在拉美四国上线后，人工坐席该按什么节奏收缩？"
     },
     {
-     "title": "AI 订阅应用在尼日利亚、肯尼亚素材点击率高但付费转化低，是本地化素材方向错了还是支付环节卡住了？",
-     "link": "https://www.baijing.cn/question/638548",
-     "pubDate": "Sat, 31 Oct 2026 08:14:38 +0000",
-     "summary": "我们做一款 AI 写作助手，订阅制，非洲市场刚起量两个月。团队 6 人，月投放预算大概 5000 美元，主要跑 Meta 和 Google，支付走 Stripe。素材上试过两版：一版是纯英文的通用 AI 效率场景，一版是找了本地创作者拍斯瓦希里语和尼日利亚英语口播的短视频。数据很奇怪，本地化素材在肯尼亚的 CTR 能到 3.8%，比通用素材高出一倍多，尼日利亚也差不多，但点进来之后的订阅转化只有 0.6%，南非反而通用素材转化更稳。我们已经把落地页做了英语和斯瓦希里语双语，价格也换成本地货币展示，Stripe 的失败扣款率在尼日利亚接近 30%，肯尼亚 22% 左右。现在卡在到底是素材吸引来的",
-     "source": "白鲸出海",
-     "zh": "AI 订阅应用在尼日利亚、肯尼亚素材点击率高但付费转化低，是本地化素材方向错了还是支付环节卡住了？"
-    },
-    {
-     "title": "个人灵光2.0实测：个人AI 助理的机会和门槛",
-     "link": "https://www.huxiu.com/article/4901936.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 16:13:13 +0800",
-     "summary": "本文来自微信公众号： 极客公园 ，作者：汤一涛，编辑：靖宇，原文标题：《个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新》 豆包手机的问题，也是蚂蚁灵光的问题。 10月21日的Meta财报会上，扎克伯格披露了一组关于个人智能体Muse的关键数据：超过1000万人设置了Muse，购物是Muse最常见的用途，超过四分之一的用户在用它买东西，平均客单价超过200美元；上线第一周，Muse交易量便超出了预期，Meta不得不与支付合作伙伴Stripe一起临时上调了信用额度。 六天后的10月27日，蚂蚁集团发布了灵光2.0，将产品定位从最初的「30秒用自然语言生成小应用」，彻底转向「能管事",
-     "source": "虎嗅",
-     "zh": "个人灵光2.0实测：个人AI 助理的机会和门槛"
-    },
-    {
-     "title": "Nature的这个研究，彻底改变了我对知识传递的看法",
-     "link": "https://www.huxiu.com/article/4901935.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 16:10:54 +0800",
-     "summary": "本文来自微信公众号： 生态学时空 ，作者：复旦赵斌，原文标题：《让论文开口说话，让知识执行任务 | 【感悟】Nature的这个研究，彻底改变了我对知识传递的看法！》 ——改写自James Zou团队2026年发表于《自然》的研究（Nature 658,1272–1280） 斯坦福的研究者做了一个名叫Paper2Agent的系统，能把一篇论文连同它的代码库，自动改造成一个能对话、也能动手算的AI智能体。造一个这样的智能体，成本大约是45分钟、14美元。他们拿100篇论文做了试验，成功了74篇；在标准测试里，它的答题正确率明显高于“让通用AI自己折腾代码仓库”。但更有意思的问题不是“它有多能”，而",
-     "source": "虎嗅",
-     "zh": "Nature的这个研究，彻底改变了我对知识传递的看法"
-    },
-    {
-     "title": "TikTok Shop 美区寄样 200 多份只出 30 单，选品和备货是不是从一开始就错了？",
-     "link": "https://www.baijing.cn/question/638547",
-     "pubDate": "Sat, 31 Oct 2026 08:05:27 +0000",
-     "summary": "我们做宠物用品，团队 6 个人，去年 Q4 开始在 TikTok Shop 美区起量，主推一款猫用自动逗猫棒，客单价 29.9 美元。三个月里通过达人广场和私信建联，寄出样品 210 份，实际出单只有 32 单，寄样转化率 15% 左右，其中 8 个达人视频播放过 10 万但转化不到 1%。现在卡在两件事：一是样品和头程成本已经压了近 4000 美元，备的 800 件货在海外仓动销很慢，仓储费每月都在涨；二是这款产品退货率接近 18%，退货理由集中在“猫不感兴趣”和“电池仓松动”，退回来的货没法二次销售。我们试过换达人层级、把寄样门槛提到 5000 粉以上、也给视频加过优惠券，效果都不明显。想",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 美区寄样 200 多份只出 30 单，选品和备货是不是从一开始就错了？"
-    },
-    {
      "title": "Switch Lowering in GCC",
      "link": "https://xoranth.net/gcc-switch/",
      "pubDate": "Sat, 31 Oct 2026 08:02:26 +0000",
-     "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 31 # Comments: 1",
      "source": "Hacker News",
      "zh": "GCC 中的开关降低"
-    },
-    {
-     "title": "让渐冻症患者开口的马斯克，还不是第一名",
-     "link": "https://www.huxiu.com/article/4901928.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 15:42:12 +0800",
-     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 10月28日，马斯克旗下的脑机接口公司Neuralink公布了一组颇为惊人的数据：一名渐冻症患者在植入脑机接口后的第一周，就实现了每分钟75个英文单词的输出速度。在12.5万词的词库下，词错误率仅为5.8%。 对于已经失去正常说话能力的渐冻症患者，这意味着，他有望不再依靠眼动仪逐个选择字母，而是尝试说话，让设备直接把大脑中的发音意图转化为文字或合成语音。 当然，患者的声带并没有因此恢复功能。Neuralink所做的，是绕过受损的运动输出通路，为患者重新建立一条表达渠道。 这已经足够令人兴奋。 不过，有一件事可能会让不少人意外：在帮助渐冻症患者",
-     "source": "虎嗅",
-     "zh": "让渐冻症患者开口的马斯克，还不是第一名"
-    },
-    {
-     "title": "圣黛cp爆火之际，越来越难“圈地自萌”的同人文化",
-     "link": "https://www.huxiu.com/article/4901922.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 15:36:29 +0800",
-     "summary": "本文来自微信公众号： 界面文化 ，作者：丁欣雨，编辑：姜妍，原文标题：《圣黛cp爆火之际，越来越难&ldquo;圈地自萌&rdquo;的同人文化 | 圆桌》，题图来自：AI生成 孙悟空和林黛玉，一个来自《西游记》，一个来自《红楼梦》，原本没有交集的两人，却在互联网掀起了一场&ldquo;恋爱风波&rdquo;。自2025年有记者问六小龄童怎么看圣黛cp得到肯定答复后，这对舞到正主面前的cp就完成&ldquo;破圈&rdquo;，被更广泛的受众知晓；近期ai技术的爆发，又彻底让二人突破影视剧原素材的限制，硬生生闯进现实：他们一起看五月天演唱会、在海边喝汽水踩沙滩，在民政局举着红本喜笑颜开....",
-     "source": "虎嗅",
-     "zh": "圣黛cp爆火之际，越来越难“圈地自萌”的同人文化"
-    },
-    {
-     "title": "“黄牛退场”，不是泡泡玛特最大的问题",
-     "link": "https://www.huxiu.com/article/4901925.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 15:26:47 +0800",
-     "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 泡泡玛特正在过冬。 10月27日，泡泡玛特发布公司2026年第三季度数据，整体收入腰斩。海外下滑幅度最高达到75%，基本盘中国市场收入也同比收缩了25%至30%。其中，国内线上渠道收入暴跌45%至50%，线下收入收窄得相对温和，跌幅为5%至10%。 面对收入大降的担忧，COO司德回复：“国内市场在三季度也受到了宏观经济的影响。但如果大家去店里面，会感受到顾客的热情和门店热闹的氛围没有发生变化。” 但现实中，走进门店的普通消费者，甚至黄牛，不一定会这么认为。 “门店现在像个博物馆。”有玩家向剁椒Spicy吐槽：货架上的展示样品整整齐齐，但无",
-     "source": "虎嗅",
-     "zh": "“黄牛退场”，不是泡泡玛特最大的问题"
-    },
-    {
-     "title": "41岁，他登顶江西首富",
-     "link": "https://www.huxiu.com/article/4901924.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 15:19:20 +0800",
-     "summary": "本文来自微信公众号： 投资界 ，作者：刘博 产业变迁。 报道/投资界PEdaily 这一幕似乎并不意外。 在近日出炉的《2026胡润百富榜》中，有一个身影令人印象深刻——寒武纪创始人陈天石，他以2050亿财富，成为首位跻身榜单前十的江西籍企业家。 今年41岁，陈天石来自江西南昌。早年间，他与哥哥陈云霁一前一后加入中国科学院计算所，投身AI芯片研发，最终为创立寒武纪埋下伏笔。至今，寒武纪走过整整十年，期间一度陷入低谷，直到算力需求爆发，“寒王”传奇由此诞生，今年市值一度破万亿元。 由此望去，越来越多的年轻科技创业者，正在改写着中国财富格局。 41岁，江西人 执掌市值5500亿 寒武纪的故事极具传",
-     "source": "虎嗅",
-     "zh": "41岁，他登顶江西首富"
     },
     {
      "title": "As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs (The Commanding Heights)",
@@ -1920,6 +1936,14 @@ window.INDUSTRY_DATA = {
      "summary": "The Commanding Heights : As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs &nbsp; &mdash;&nbsp; Scarce, controllable positions of Economic Power whose holders durably capture the gains of I",
      "source": "Techmeme",
      "zh": "随着人工智能模型商品化，持久的财富将归那些控制分销、支付轨道和稳定币美元等瓶颈的人，而不是实验室（制高点）"
+    },
+    {
+     "title": "Digital Minimalism",
+     "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+     "pubDate": "Sat, 31 Oct 2026 06:16:36 +0000",
+     "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 13 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "数字极简主义"
     },
     {
      "title": "When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and \"being used 5% of the time\" (Andrew E. Freedman/Tom&apos;s Hardware)",
@@ -1960,30 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Felix Rieseberg / @felixrieseberg : Anthropic says a malicious actor used access to Cursor's marketplace to publish a &ldquo;tampered&rdquo; copy of the Claude Code extension, which it didn't build or publish &nbsp; &mdash;&nbsp; We're working with Cursor on this incident, but it wasn't a compromise",
      "source": "Techmeme",
      "zh": "Anthropic 表示，恶意行为者利用 Cursor 市场的访问权限发布了 Claude 代码扩展的“篡改”副本，该副本并非由其构建或发布 (Felix Rieseberg/@felixrieseberg)"
-    },
-    {
-     "title": "Wayfair Coupons: Up to 80% Off November 2026",
-     "link": "https://www.wired.com/story/wayfair-promo-code/",
-     "pubDate": "Sat, 31 Oct 2026 05:00:00 +0000",
-     "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-     "source": "WIRED",
-     "zh": "Wayfair 优惠券：2026 年 11 月最高折扣 80%"
-    },
-    {
-     "title": "John Ternus says Apple doesn&apos;t \"want to ship AI for AI&apos;s sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)",
-     "link": "https://www.techmeme.com/261031/p1#a261031p1",
-     "pubDate": "Sat, 31 Oct 2026 00:30:01 -0400",
-     "summary": "Steven Levy / Wired : John Ternus says Apple doesn't &ldquo;want to ship AI for AI's sake&rdquo; and that Tim Cook is &ldquo;available to help wherever I ask&rdquo; on policy; Ternus has yet to meet Trump &nbsp; &mdash;&nbsp; Apple doesn't need fixing, and it doesn't want drama.&nbsp; Its new leader",
-     "source": "Techmeme",
-     "zh": "约翰·特努斯 (John Ternus) 表示，苹果公司并不想“为了人工智能而推出人工智能”，而蒂姆·库克 (Tim Cook) 在政策方面“无论我在哪里提出要求，都可以提供帮助”；特纳斯尚未与特朗普会面（史蒂文·利维/连线）"
-    },
-    {
-     "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-     "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-     "pubDate": "Sat, 31 Oct 2026 04:16:50 +0000",
-     "summary": "The money behind the money is thrilled, mostly.",
-     "source": "TechCrunch",
-     "zh": "投入、支出和节奏压力：风投背后的投资者敞开心扉"
     }
    ]
   },
@@ -2242,6 +2242,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "伊朗军方：若美国再采取冒险行动 战火必将蔓延",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917614771.html",
+     "pubDate": "Sat, 31 Oct 2026 17:20:32 +0800",
+     "summary": "伊朗军方发言人阿克拉米尼亚31日说，“如果美国受以色列威胁利诱，在地区内再次采取冒险行动，战火必将蔓延至更广阔区域，而这场战争的结局，美方无法掌控”。 阿克拉米尼亚当天在社交媒体上发文说，“鉴于美国在外交上曾经背信弃义，伊朗军队对其行为不信任、不予理会，将不懈提升自身战备水平”，伊朗正密切关注美方在该地区的动向。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "伊朗军方：若美国再采取冒险行动 战火必将蔓延"
+    },
+    {
+     "title": "今年前三季度东北地区货物贸易进出口超9900亿元 创历史同期新高",
+     "link": "http://finance.eastmoney.com/news/1350,202610313917614561.html",
+     "pubDate": "Sat, 31 Oct 2026 17:12:02 +0800",
+     "summary": "记者从沈阳海关了解到，今年前三季度，东北地区货物贸易进出口总值9952.6亿元，同比增长8.7%，规模创历史同期新高。区域外贸韧性持续彰显，进出口结构持续优化。 今年前三季度，东北地区出口4995.5亿元，进口4957.1亿元，进出口双向协同、均衡发展。今年以来，东北地区外贸呈现稳中有进、持续向好的发展态势，月度增幅均保持正增长，月度进出口值已连续7个月超1000亿元，外贸大盘运行稳定性持续增强。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "今年前三季度东北地区货物贸易进出口超9900亿元 创历史同期新高"
+    },
+    {
+     "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击 打击最快可能会发生在11月4日",
+     "link": "http://finance.eastmoney.com/news/11158,202610313917614651.html",
+     "pubDate": "Sat, 31 Oct 2026 17:11:14 +0800",
+     "summary": "据央视新闻援引美国MS Now新闻频道30日报道，美国总统特朗普正计划在美国中期选举之后恢复对伊朗的打击。 3名海湾阿拉伯高级官员透露，美国政府已向海湾盟友通报，需要为一轮“短暂但密集的”打击行动做准备，打击最快可能会发生在11月4日。消息称，美国的海湾盟友正在努力缓和局势，他们担心伊朗可能将采取的报复措施。 一名白宫官员称，对于可能存在也可能不存在的敏感军事计划，白宫方面不予置评。但特朗普保留所有选项，以确保伊朗永远不会得到核武器。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击 打击最快可能会发生在11月4日"
+    },
+    {
+     "title": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一",
+     "link": "https://wallstreetcn.com/articles/3784918",
+     "pubDate": "Sat, 31 Oct 2026 17:10:24 +0800",
+     "summary": "美股周五收盘，苹果市值报5.03万亿美元，从英伟达手中夺回全球市值最高公司的头衔。 投资者在AI开支担忧下，转而寻求这家iPhone制造商的相对安全性。 周五的收盘排名因此出现反转，苹果重新位居首位，英伟达退居第二。 收盘换位：苹果小跌，英伟达大跌 周五苹果股价下跌1.23%，收盘市值5.03万亿美元；英伟达收跌4.22%，收盘市值约4.93万亿美元。苹果跌幅明显小于英伟达，两者市值由此换位，苹果领先约0.1万亿美元。英伟达单日市值缩水约2170亿美元。 这是苹果自7月底短暂超越英伟达以来，首次再度登顶。 纳斯达克100指数10月下跌6.7%，为2025年3月以来最差单月，风险偏好承压。 AI",
+     "source": "华尔街见闻",
+     "zh": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一"
+    },
+    {
+     "title": "法国中部城市发生火灾事故致3人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917614421.html",
+     "pubDate": "Sat, 31 Oct 2026 17:09:24 +0800",
+     "summary": "据法国媒体31日报道，法国中部城市克莱蒙费朗发生一起火灾事故，已造成3人死亡。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "法国中部城市发生火灾事故致3人死亡"
+    },
+    {
      "title": "标普将Meta信用评级展望下调至负面，维持AA-，警告AI开支与自由现金流承压",
      "link": "https://wallstreetcn.com/articles/3784917",
      "pubDate": "Sat, 31 Oct 2026 17:04:27 +0800",
@@ -2250,60 +2290,20 @@ window.INDUSTRY_DATA = {
      "zh": "标普将Meta信用评级展望下调至负面，维持AA-，警告AI开支与自由现金流承压"
     },
     {
+     "title": "加政府推动提升港口吞吐能力以降低对美出口依赖",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917614369.html",
+     "pubDate": "Sat, 31 Oct 2026 17:04:12 +0800",
+     "summary": "加拿大联邦政府10月30日宣布，正式将该国最大 港口 温哥华港罗伯茨滩2号码头项目列为国家利益项目，此举旨在推动提升 港口 吞吐能力，以促进贸易多元化并降低对美出口依赖。据加拿大交通部当天发布的新闻稿，该项目计划以加强贸易基础设施建设，降低对美国市场的依赖，推动实现到2035年将对非美市场出口额翻倍的目标。据新闻稿，该项目计划投资59亿加元（约合42亿美元），将温哥华港集装箱吞吐能力提升约50%，每年新增240万个集装箱处理能力，每年可支持高达1000亿加元的贸易额。加交通部表示，将其列为国家利益项目将为后续监管审批提供确定性，从而将项目商业运营时间提前至2035年，较原计划缩短最多四年。 （",
+     "source": "东方财富股票",
+     "zh": "加政府推动提升港口吞吐能力以降低对美出口依赖"
+    },
+    {
      "title": "三季度海外销量创新高，长安汽车总裁叶沛：未来三年长安将构建销量规模百万级品牌",
      "link": "http://finance.eastmoney.com/news/1354,202610313917614217.html",
      "pubDate": "Sat, 31 Oct 2026 17:02:11 +0800",
      "summary": "10月30日晚间， 长安汽车 披露的2026年三季报显示，报告期内，该公司实现营业收入362.49亿元，环比提升10.1%；归属于上市公司股东的净利润（以下简称归母净利润）为-7.58亿元；扣非后归母净利润为-9.52亿元。 长安汽车 方面表示，虽然业绩短期承压，但随着智能化、全球化等领域前期投入变现，企业收益窗口期已逐渐显现。 “客观来说，公司短期存在压力，长期投入、短期承压是主动的战略选择。”日前， 长安汽车 执行副总裁张晓宇在接受《每日经济新闻》记者采访时表示，公司业绩波动一方面源自行业共性的被动因素，包括汇兑损益、原材料价格上涨等，另一方面则是受到了研发投入增加、海外业务扩张等主动因素",
      "source": "东方财富股票",
      "zh": "三季度海外销量创新高，长安汽车总裁叶沛：未来三年长安将构建销量规模百万级品牌"
-    },
-    {
-     "title": "嘉泽新能第三季度净利润同比降九成！拟投超15亿元建设两大项目，加速布局绿色化工领域",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917613961.html",
-     "pubDate": "Sat, 31 Oct 2026 17:00:41 +0800",
-     "summary": "10月30日晚间， 嘉泽新能 (601619)披露2026年第三季度报告，前三季度公司实现营业收入16.94亿元，同比下降9.14%；归属于上市公司股东的净利润2.49亿元，同比下降58.06%；扣除非经常性损益的净利润2.73亿元，同比下降54.11%。 其中，第三季度实现营业收入4.84亿元，同比下降12.68%；归属于上市公司股东的净利润1220.35万元，同比下降90.96%；扣除非经常性损益的净利润1873.3万元，同比下降86.09%。 公司主营业务为 新能源 电力 的开发、投资、建设、经营和管理，大力向屋顶分布式光伏、电站开发-建设-出售、 新能源 电站运维业务、基金业务等四个全",
-     "source": "东方财富股票",
-     "zh": "嘉泽新能第三季度净利润同比降九成！拟投超15亿元建设两大项目，加速布局绿色化工领域"
-    },
-    {
-     "title": "国新、诚通出手，三季度加仓名单曝光",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917614151.html",
-     "pubDate": "Sat, 31 Oct 2026 17:00:00 +0800",
-     "summary": "随着2026年A股三季报披露收官，中国国新与中国诚通两大国有资本运营平台三季度持仓动向浮出水面。 中国国新旗下国新投资以及中国诚通控股集团有限公司，在 电力 、能源、 军工 电子 、 通信 、 半导体 等多个重点赛道，展开新进布局与增持动作。 中国国新：重仓能源与科技 据不完全统计，2026年三季度，国新投资现身23家上市公司前十大股东名单，新进入3家上市公司前十大股东名单，并增持8家上市公司股份。 从行业特征来看，国新投资聚焦国家战略方向，紧紧围绕新质生产力发展方向支持中央企业产业布局，持仓主要集中在 人工智能 、集成电路等科技创 新产业 ，和能源、关键矿产等战略安全产业，持仓标的均为所处产",
-     "source": "东方财富股票",
-     "zh": "国新、诚通出手，三季度加仓名单曝光"
-    },
-    {
-     "title": "哥伦比亚国防部宣布对与委内瑞拉接壤边境城市实施军事管制",
-     "link": "http://finance.eastmoney.com/news/1351,202610313917612963.html",
-     "pubDate": "Sat, 31 Oct 2026 16:59:09 +0800",
-     "summary": "当地时间10月30日，哥伦比亚国防部宣布，根据哥伦比亚总统德拉埃斯普列亚命令，已开始对与委内瑞拉接壤的哥伦比亚城市库库塔实施军事化管制。 哥伦比亚国防部称，该国北桑坦德省遭遇针对安全部队和平民的系列袭击，库库塔将获得哥伦比亚陆军的临时军事支援，以协助哥伦比亚警察和地方政府保护民众、打击犯罪团伙。军方行动包括在关键区域部署装甲车、由城市特种部队士兵在多个地点设立检查站提供护卫，以及在哥伦比亚空军的战略支持下开展监管工作。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "哥伦比亚国防部宣布对与委内瑞拉接壤边境城市实施军事管制"
-    },
-    {
-     "title": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917613346.html",
-     "pubDate": "Sat, 31 Oct 2026 16:59:01 +0800",
-     "summary": "《科创板日报》10月31日讯 英伟达 近日在SEMICON West 2026上公开展示了下一代共封装光学（CPO）技术，名为OOI（Optics-on-Interposer，中介层上集成光学）。 不同于现有CPO方案，OOI选择拿下有机封装基板，将光引擎直接集成到承载GPU的硅中介层之上，把光电转换环节进一步向芯片内核靠拢，为下一代超大规模AI集群提供全新互联思路。 据 英伟达 研究院首席研究科学家尼古拉·内多维奇（Nikola Nedovic）介绍，该方案以更大面积的中介层取代现行有机封装基板，目前 英伟达 已拿到原型样品。 内多维奇是英伟达 AI芯片 “高速互连+硅光I/O”底层硬件核心",
-     "source": "东方财富股票",
-     "zh": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位"
-    },
-    {
-     "title": "底盘稳、动能足 厦门上市公司三季报交出稳健答卷",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917613411.html",
-     "pubDate": "Sat, 31 Oct 2026 16:56:27 +0800",
-     "summary": "10月31日，随着上市公司2026年三季报披露收官，厦门辖区企业经营成色浮出水面。整体来看，辖区上市公司经营底盘稳固、发展动能持续增强。 厦门上市公司协会数据显示，前三季度，辖区上市公司共实现营业总收入1.43万亿元，同比增长7.38%，延续稳健扩张态势；共实现归母净利润276.38亿元，同比增长22.18%，盈利水平稳步提升；扣非净利润合计达253.75亿元，同比增长33.65%，主业盈利能力持续夯实，增长质量进一步向好。 业绩量质齐升现金流持续向好 市值方面，截至10月30日，辖区上市公司总市值7024.58亿元，同比下降13.25%。 厦门钨业 以524.38亿元位居辖区上市公司市值第一",
-     "source": "东方财富股票",
-     "zh": "底盘稳、动能足 厦门上市公司三季报交出稳健答卷"
-    },
-    {
-     "title": "利好来了！北京重磅发布！事关千亿产业",
-     "link": "http://finance.eastmoney.com/news/1355,202610313917610869.html",
-     "pubDate": "Sat, 31 Oct 2026 16:27:20 +0800",
-     "summary": "氢能产业又迎来政策利好！ 日前，北京市经济和信息化局印发《北京市氢能产业发展实施方案（2026—2030年）》（以下简称《实施方案》），力争到2030年，累计推广燃料 电池 汽车 突破万辆，建成加氢站超40座，实现绿色化工、热电联供等场景规模化应用，全市氢能产业链规模突破400亿元，带动 京津冀 突破1000亿元，构建自主可控、经济高效、绿色安全的 京津冀 氢能全产业链体系。 《实施方案》提到，推动氢能交通示范升级，做强燃料 电池 汽车 全产业链，推动氢能多元供应、多领域应用技术创新，开展富氢高炉控制、氢基直接还原等氢冶金技术研发，建设绿氢（绿色燃料）交易中心。 北京重磅发文 为深入贯彻国家和",
-     "source": "东方财富资讯",
-     "zh": "利好来了！北京重磅发布！事关千亿产业"
     },
     {
      "title": "奥特曼：PC上装内存太浪费，最好留给AI数据中心",
@@ -2320,38 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月30日晚，长安汽车披露2026年三季报。第三季度，公司营业收入362.5亿元，同比下降14.17%；归母净亏损7.58亿元，扣非后归母净亏损9.52亿元。公司同期发布的经营信息显示，三季度营收环比增长10.1%。 在整体业绩承压的同时，部分新能源平台已出现盈利进展。从长安汽车方面了解到，目前启源A06、Q06所在平台已经实现盈利，后续同平台新车型的边际成本将持续降低。 对于前三季度的净利润变化，长安汽车在财报中列出的主要原因是销量下降、原材料涨价及汇兑损失增加。持续的研发支出也反映在报表中：前三季度研发费用为52.61亿元，较上年同期的50.39亿元增加约4.4%。 在长安汽车总裁叶沛看",
      "source": "华尔街见闻",
      "zh": "长安汽车短期业绩承压，部分新能源平台已盈利"
-    },
-    {
-     "title": "港股打新遇冷？六只新股同日招股 首日融资认购均不足1倍",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917605822.html",
-     "pubDate": "Sat, 31 Oct 2026 15:59:26 +0800",
-     "summary": "新股供给仍在增加，港股打新的热度却明显降了下来。10月30日， 宏芯宇 、 登临科技-P 、 芯德半导体 、 和美药业-B 、 新荷花 、 远信储能 六家公司同日启动招股，合计拟募资约60亿港元。 与密集发行形成反差的是，招股首日的融资认购并不热烈。截至10月30日港股收盘，六只新股融资认购倍数均不足1倍；截至10月31日的阶段性数据，也仅 远信储能 、 新荷花 超过1倍。 这一变化也体现了在10月20日招股的 东山精密 上，港股发行价较A股折算价折让35.66%，前三季度归母净利润增长逾3倍，还有20名基石投资者助阵，融资认购倍数却只有0.39倍。放在上半年，这样的基本面与折让，很难与“认购",
-     "source": "东方财富资讯",
-     "zh": "港股打新遇冷？六只新股同日招股 首日融资认购均不足1倍"
-    },
-    {
-     "title": "OpenAI CEO到访三星 会谈约50名高管 存储芯片及AI基础设施合作是重点",
-     "link": "http://finance.eastmoney.com/news/1360,202610313917606360.html",
-     "pubDate": "Sat, 31 Oct 2026 15:59:00 +0800",
-     "summary": "时隔近一年，OpenAI CEO萨姆·奥尔特曼（Sam Altman）再次到访三星。 当地时间周六，奥尔特曼在韩国会见了三星集团高层，旨在深化双方在 存储芯片 及AI基础设施领域的合作。 三星在一份声明中表示，奥尔特曼在首尔以南的龙仁市与三星旗下 电子 、金融及生物技术等业务部门的约50名高管进行了会谈，高管包括三星 电子 首席执行官兼DS（ 半导体 ）事业部负责人（副董事长）全永铉、三星 电子 首席执行官兼DX（设备体验）事业部负责人（总裁）卢泰文、三星电子DS事业部AI中心负责人宋勇浩、三星SDI总裁崔周善和三星电机总裁张德铉。 据韩媒报道，会议由奥尔特曼主持，主题为“AI改变未来十年：企",
-     "source": "东方财富资讯",
-     "zh": "OpenAI CEO到访三星 会谈约50名高管 存储芯片及AI基础设施合作是重点"
-    },
-    {
-     "title": "八大上市车企三季报盘点：业绩分化加剧 出口增长但盈利承压",
-     "link": "http://finance.eastmoney.com/news/1344,202610313917597787.html",
-     "pubDate": "Sat, 31 Oct 2026 15:42:02 +0800",
-     "summary": "日前， 比亚迪 （002594.SZ；01211.HK）、 上汽集团 （600104.SH）、 吉利汽车 （00175.HK）、 奇瑞汽车 （09973.HK）、 长城汽车 （601633.SH；02333.HK）、 长安汽车 （000625.SZ）、 赛力斯 （601127.SH；09927.HK）、 广汽集团 （601238.SH；02238.HK）八家头部上市车企集中披露2026年三季报。 延续半年报的行业态势，国内存量市场竞争进一步加剧，尽管 新能源 、海外出口两大板块销量持续走高，但多数车企利润指标走弱，量利倒挂现象继续凸显，行业整体盈利能力并未修复。 第三季度：少数实现利润同比正增",
-     "source": "东方财富资讯",
-     "zh": "八大上市车企三季报盘点：业绩分化加剧 出口增长但盈利承压"
-    },
-    {
-     "title": "现货黄金失守3900美元关口 创一年新低 金价长期逻辑变了吗？",
-     "link": "http://finance.eastmoney.com/news/1344,202610313917597625.html",
-     "pubDate": "Sat, 31 Oct 2026 15:38:57 +0800",
-     "summary": "现货 黄金 周五失守3900美元。 截至当地时间10月30日收盘，Wind数据显示，现货 黄金 （伦敦金现）价格跌3.61%，报3875.19美元/盎司，创2025年10月初以来新低；现货 白银 （伦敦银现）价格跌5.82%，报49.107美元/盎司，自2025年11月以来首次跌破50美元。COMEX 黄金 期货 跌3.63%，报3884.90美元/盎司；COMEX 白银 期货 跌6.20%，报49.135美元/盎司。 10月现货黄金累计跌幅达6.79%，现货 白银 月内跌幅更超过18%，两者均面临连续第二个月下跌的局面。而从全年情况来看，现货黄金年初至今跌幅已超过10%，较今年高点回撤超30",
-     "source": "东方财富资讯",
-     "zh": "现货黄金失守3900美元关口 创一年新低 金价长期逻辑变了吗？"
     },
     {
      "title": "CRH declares $0.39 dividend",
@@ -2386,22 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI股重挫而等权标普逆势涨1.2%，必需消费领涨并一度创新高"
     },
     {
-     "title": "标普下调Meta信用展望！巨额资本支出和负自由现金流为主要担忧",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917595180.html",
-     "pubDate": "Sat, 31 Oct 2026 14:57:06 +0800",
-     "summary": "人工智能 领域的高额资本支出正在让投资者退却，并引发了科技股的抛售。周五，美股全线收跌， 纳斯达克 指数下跌2.8%， 标准普尔 500指数下跌2%。 市场抛售并非危机的全部。 标普全球 评级周五将Meta的信用评级从AA-稳定下调至AA-负面，理由是该公司在 人工智能 方面的巨额支出正给其资产负债表带来越来越大的压力。 标普全球 在一份声明中表示，Meta将其 人工智能 投资变现的能力比同行更为有限，目前尚不清楚其支出何时才能开始产生实质性收入。 标普还指出，虽然预计Meta的资本支出增长将从2028年开始趋于平缓，但该机构不太确定Meta是否会像如预期那样削减支出。 此次展望下调正值投资者",
-     "source": "东方财富资讯",
-     "zh": "标普下调Meta信用展望！巨额资本支出和负自由现金流为主要担忧"
-    },
-    {
-     "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
-     "link": "https://wallstreetcn.com/articles/3784910",
-     "pubDate": "Sat, 31 Oct 2026 14:31:46 +0800",
-     "summary": "过去几年，AI公司轻松筹得数千亿美元，华尔街竞相出资、很少过问，主打一个“钱多事少”。如今，贷款机构和投资者开始变得挑剔起来，条款也愈发苛刻。 本周，AI行业最受追捧的两家头部玩家在资本市场上相继碰壁：黑石告诉投资者，Anthropic上市后恐怕只能拿到垃圾级评级；OpenAI则把新一轮融资目标从300亿美元砍到约200亿美元。 两件事指向同一个变化：对美国AI行业来说，廉价资金越来越难拿了。 太平洋投资管理公司（Pimco）首席投资官Dan Ivascyn表示： “向贷款人证明这些投资能转化为足够收入的门槛越来越高...薄弱环节会最先受冲击。” 钱还在，但已是买方市场 ChatGPT问世以来",
-     "source": "华尔街见闻",
-     "zh": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！"
-    },
-    {
      "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
      "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
      "pubDate": "Sat, 31 Oct 2026 06:00:02 GMT",
@@ -2416,22 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited.",
      "source": "CNBC",
      "zh": "人工智能正在进入建筑工地。但这会让工人更安全吗？"
-    },
-    {
-     "title": "全球糖税围剿“小甜水”",
-     "link": "http://www.eeo.com.cn/2026/1031/1080636.shtml",
-     "pubDate": "Sat, 31 Oct 2026 13:18:42 +0800",
-     "summary": "多国密集推出糖税，背后是两条相互支撑的主线： 一是公共卫生压力。添加糖摄入超标与肥胖、2型糖尿病、心血管疾病、儿童龋齿的关联已被大量研究证实，由此产生的医疗支出和劳动力损失最终由社会共担，控糖因而不再是个人口味问题，而成为公共政策议题。 二是国际政策共识。世卫组织2025年发起“3by35”倡议，目标是到2035年通过健康税将糖、酒、烟草三类产品的实际价格提高50%；经合组织等机构也将糖税纳入健康税范畴。口径趋同之下，各国获得了现成的政策依据与实施模板，糖税由此从个别试验变为框架内的协同行动。",
-     "source": "经济观察网",
-     "zh": "全球糖税围剿“小甜水”"
-    },
-    {
-     "title": "地方清欠攻坚",
-     "link": "http://www.eeo.com.cn/2026/1031/1080632.shtml",
-     "pubDate": "Sat, 31 Oct 2026 13:17:47 +0800",
-     "summary": "清欠直接关系到企业和居民收入，也影响地方经济的良性循环。在当前“供强需弱”的宏观格局下，这是应当着力推进的问题。",
-     "source": "经济观察网",
-     "zh": "地方清欠攻坚"
     },
     {
      "title": "The right to be apolitical",
@@ -2458,28 +2394,92 @@ window.INDUSTRY_DATA = {
      "zh": "唐纳德·特朗普的终局之战"
     },
     {
-     "title": "康明斯在华本土化更进一步：S29发动机由中国团队牵头，目标100%国产化",
-     "link": "http://www.eeo.com.cn/2026/1031/1080582.shtml",
-     "pubDate": "Sat, 31 Oct 2026 12:41:23 +0800",
-     "summary": "王涛表示，对于中国主机厂而言，S29提供了一个新机会。过去全球矿山市场基本由卡特彼勒和小松引领，中国主机厂是后来跟随者，要参考他们的整车设计和发动机选型，这对中国主机厂走向全球竞争有一些限制。S29让中国主机厂有机会和全球矿业巨头站在同一起跑线，而且徐工、三一都是最早应用康明斯发动机的合作伙伴，某种程度上会有先发优势。",
-     "source": "经济观察网",
-     "zh": "康明斯在华本土化更进一步：S29发动机由中国团队牵头，目标100%国产化"
+     "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+     "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+     "pubDate": "Sat, 31 Oct 2026 04:30:00 GMT",
+     "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
+     "source": "MarketWatch",
+     "zh": "侠盗猎车手标注：《GTA 6》粉丝在游戏发行日错过了工作，因为他们“不想再等待”"
     },
     {
-     "title": "李凤刚入职一年即离职 北京现代转型再遇挫",
-     "link": "http://www.eeo.com.cn/2026/1031/1080580.shtml",
-     "pubDate": "Sat, 31 Oct 2026 12:41:01 +0800",
-     "summary": "北京现代的困局，并非换个总经理就能解决。核心在于对治理结构进行彻底的改革，以真正实现股东双方深度协同。",
-     "source": "经济观察网",
-     "zh": "李凤刚入职一年即离职 北京现代转型再遇挫"
+     "title": "First Business outlines ~10% annual loan growth and sees NIM staying above 3.60%–3.65% long-term range",
+     "link": "https://seekingalpha.com/news/4661803-first-business-outlines-10-percent-annual-loan-growth-and-sees-nim-staying-above-3_60-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 21:09:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "First Business 预计贷款年增长率约为 10%，并预计净息差长期保持在 3.60%–3.65% 以上"
     },
     {
-     "title": "理想新款i6上市：李想低姿态站台，App还被挤崩了",
-     "link": "http://www.eeo.com.cn/2026/1031/1080578.shtml",
-     "pubDate": "Sat, 31 Oct 2026 12:40:34 +0800",
-     "summary": "理想i6不是理想汽车纯电战略的起点，在此之前理想汽车已经推出了MEGA和i8，但理想i6是理想汽车第一个在主流市场成为爆款的纯电产品。理想i6 2025年9月上市后，大定5分钟破万，首日订单超2万辆，远超产能预期。",
-     "source": "经济观察网",
-     "zh": "理想新款i6上市：李想低姿态站台，App还被挤崩了"
+     "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+     "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+     "pubDate": "Sat, 31 Oct 2026 00:05:08 GMT",
+     "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
+     "source": "Financial Times",
+     "zh": "随着科技忧虑加剧，OpenAI 将融资目标削减 100 亿美元"
+    },
+    {
+     "title": "Crude oil jumps as Iran says four tankers struck mines in the Strait of Hormuz",
+     "link": "https://seekingalpha.com/news/4661798-crude-oil-jumps-as-iran-says-four-tankers-struck-mines-in-the-strait-of-hormuz?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 19:55:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "伊朗称四艘油轮在霍尔木兹海峡触雷，原油价格上涨"
+    },
+    {
+     "title": "Acco Brands expects 4%-6% 2026 sales growth as it raises adjusted EPS to $0.98-$1.02 following Trust acquisition",
+     "link": "https://seekingalpha.com/news/4661801-acco-brands-expects-4-percentminus-6-percent-2026-sales-growth-as-it-raises-adjusted-eps-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 19:31:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Acco Brands 在收购 Trust 后将调整后每股收益提高至 0.98-1.02 美元，预计 2026 年销售额将增长 4%-6%"
+    },
+    {
+     "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+     "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 23:14:00 GMT",
+     "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
+     "source": "MarketWatch",
+     "zh": "科技泡沫破裂了吗？为什么纳斯达克指数的艰难历程看起来就像 2000 年一样。"
+    },
+    {
+     "title": "W&T Offshore forecasts Q4 2026 production midpoint of 33,700 BOE/d while lifting 2026 capex to $35M-$38M",
+     "link": "https://seekingalpha.com/news/4661800-w-and-t-offshore-forecasts-q4-2026-production-midpoint-of-33700-boe-d-while-lifting-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 18:59:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "W&T Offshore 预测 2026 年第四季度产量中点为 33,700 桶油当量/天，同时将 2026 年资本支出提高至 3500 万至 3800 万美元"
+    },
+    {
+     "title": "Alaska Senate election: DOJ wants to &apos;segregate&apos; all ballots for 2nd Sullivan candidate",
+     "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+     "pubDate": "Fri, 30 Oct 2026 22:57:55 GMT",
+     "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+     "source": "CNBC",
+     "zh": "阿拉斯加参议院选举：司法部希望“隔离”第二位沙利文候选人的所有选票"
+    },
+    {
+     "title": "This cybersecurity stock will be the next to join the S&P 500",
+     "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 22:20:00 GMT",
+     "summary": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+     "source": "MarketWatch",
+     "zh": "该网络安全股票将成为下一只加入标准普尔 500 指数的股票"
+    },
+    {
+     "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+     "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+     "pubDate": "Fri, 30 Oct 2026 22:17:15 GMT",
+     "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
+     "source": "Financial Times",
+     "zh": "30 分钟内 63 亿美元：世界上最大的抢劫案是如何展开的"
+    },
+    {
+     "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+     "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+     "pubDate": "Fri, 30 Oct 2026 21:30:00 GMT",
+     "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
+     "source": "MarketWatch",
+     "zh": "尽管伊朗局势再度紧张，金价为何仍暴跌至一年来的最低水平"
     }
    ]
   },

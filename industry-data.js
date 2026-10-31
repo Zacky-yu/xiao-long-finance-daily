@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 23:06:31",
+ "generated_at": "2026/10/31 23:09:57",
  "recent_days": 7,
  "industries": [
   {
@@ -439,7 +439,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 18:52:30 GMT",
      "summary": "For three decades, white LEDs have depended on rare-earth materials such as yttrium aluminium garnet (YAG) layered onto a blue LED chip (Figure 1). Opto-semiconductor device maker Seoul Viosys Co Ltd (SVC) says that it has now broken that dependence by developing and mass producing a chip that emits",
      "source": "Semiconductor Today",
-     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10μm"
+     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10微米"
     },
     {
      "title": "SEMICON West 2026: AI Made the Steps Faster. The Time Between Them Is Next.",
@@ -887,7 +887,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 03:08:04 +0000",
      "summary": "Toyota Motor Corporation (“Toyota”) and Waymo today announced the next phase of their autonomous driving collaboration, in pursuit of a world with safer streets and freedom of movement for all. Building on the preliminary agreement announced in April 2025, Toyota and Waymo will begin initial operati",
      "source": "CleanTechnica",
-     "zh": "丰田与 Waymo 推进自动驾驶合作，以实现更安全的街道和所有人的行动自由"
+     "zh": "丰田和 Waymo 推进自动驾驶合作，以实现更安全的街道和所有人的行动自由"
     },
     {
      "title": "The Share of Solar Generation with Co-located Battery Storage Is Increasing",
@@ -1647,7 +1647,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 11:58:20 -0400",
      "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
      "source": "BleepingComputer",
-     "zh": "Trezor 警告称硬件钱包中可能存在加密盗窃植入"
+     "zh": "Trezor 警告硬件钱包中疑似存在加密盗窃植入"
     },
     {
      "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "小鹏集团总裁王凤英：2027 年起，部分城市将设立 MONA 独立门店",
+     "link": "https://www.ithome.com/1/020/629.htm",
+     "pubDate": "Sat, 31 Oct 2026 15:08:30 GMT",
+     "summary": "IT之家 10 月 31 日消息，据界面新闻 10 月 30 日报道，小鹏集团总裁王凤英在 2026 巴黎车展期间表示，从 2027 年开始，部分城市将设立 MONA 的独立门店。她还提到，未来“ 不排除 MONA 品牌独立的可能性 ”。 报道提到，一线渠道端已经出现动作。北京一家小鹏汽车门店销售人员对界面新闻表示，“小鹏和 MONA 应该会分开销售，MONA 会有独立门店。新出行 CEO 贺磊称，广州市海珠区一家商场已出现待入驻的“小鹏 MONA 销售中心”。 此外，小鹏内部的产品策略也在调整。小鹏近期将 F、D、I、G 四条产品线合并为 G、D 两条产品线，I、F 并入 G 产品线， MO",
+     "source": "IT之家",
+     "zh": "小鹏集团总裁王凤英：2027 年起，部分城市将设立 MONA 独立门店"
+    },
+    {
      "title": "OPPO Reno17 系列官方爆料：首发 6 秒“全焦段 4K 超清长实况”",
      "link": "https://www.ithome.com/1/020/628.htm",
      "pubDate": "Sat, 31 Oct 2026 14:56:24 GMT",
@@ -1818,14 +1826,6 @@ window.INDUSTRY_DATA = {
      "zh": "一只巴掌大的守宫15万元？当“神奇动物”开始全国包邮"
     },
     {
-     "title": "NOTHING Headphone (1) Pro 头戴式耳机开售：三单元主动降噪，到手价 2999 元",
-     "link": "https://www.ithome.com/1/020/623.htm",
-     "pubDate": "Sat, 31 Oct 2026 14:14:23 GMT",
-     "summary": "IT之家 10 月 31 日消息，NOTHING Headphone (1) Pro 头戴式耳机在京东正式开售，到手价为 2999 元。 京东 NOTHING headphone (1) pro 白色礼盒 2999 元 直达链接 Headphone (1) Pro 采用 全新三驱动单元架构 ，单侧由 40 mm、13 mm、3.2 mm 三个发声单元组成，覆盖全频段声学表现，为录音棚级聆听体验提供硬件基础。 降噪配置方面，该耳机搭载 10 麦克风阵列，支持主动降噪功能 ，同时配备专业级 EQ、动态空间音频模式以及自定义均衡器，兼顾不同使用场景的听感需求。 同时，该耳机包含 1 个 40mm 低",
-     "source": "IT之家",
-     "zh": "NOTHING Headphone (1) Pro 头戴式耳机开售：三单元主动降噪，到手价 2999 元"
-    },
-    {
      "title": "170年没跑通商业化的运动，凭什么一支队能卖1个亿",
      "link": "https://www.huxiu.com/article/4902007.html?f=rss",
      "pubDate": "Sat, 31 Oct 2026 22:07:44 +0800",
@@ -1855,7 +1855,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 09:40:53 -0400",
      "summary": "Morgan Meaker / Bloomberg : How AI detectors like Pangram are changing human writing: authors drop em dashes, &ldquo;not X, but Y&rdquo; phrasing, and words like &ldquo;delve&rdquo;, or add typos, to look human &nbsp; &mdash;&nbsp; As AI transforms writing and detectors like Pangram police what coun",
      "source": "Techmeme",
-     "zh": "像 Pangram 这样的 AI 检测器如何改变人类写作：作者会删除破折号、“不是 X，而是 Y”措辞，以及“delve”之类的单词，或者添加拼写错误，以使其看起来像人类（Morgan Meaker/Bloomberg）"
+     "zh": "像 Pangram 这样的 AI 检测器如何改变人类写作：作者去掉破折号、“不是 X，而是 Y”措辞，以及“delve”之类的词，或者添加拼写错误，以看起来像人类（Morgan Meaker/Bloomberg）"
     },
     {
      "title": "Retired professor arrested for blocking delivery robot. Will do it again",
@@ -2023,7 +2023,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 14:17:15 +0000",
      "summary": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display. Is finally having a touchscreen Mac resonating with the Overtime crew? Tune in for a spirited discu",
      "source": "9to5Mac",
-     "zh": "9to5Mac 加班 088：终于有了触摸屏 MacBook"
+     "zh": "9to5Mac 加班088：终于有了触摸屏MacBook"
     },
     {
      "title": "What is a PDF reader and do you really need a dedicated one on your phone?",
@@ -2266,12 +2266,52 @@ window.INDUSTRY_DATA = {
      "zh": "我父亲患有阿尔茨海默氏症，他的护理人员正在使用他的借记卡购买 DoorDash。我干预吗？"
     },
     {
+     "title": "一汽奔腾小马五门版上市",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917655566.html",
+     "pubDate": "Sat, 31 Oct 2026 22:57:00 +0800",
+     "summary": "新京报 贝壳 财经讯（记者白昊天）10月30日，一汽奔腾小马五门版上市，4款车型限时售价3.99万元-4.99万元。喜剧演员酷酷的腾作为一汽奔腾产品体验官出场，他说，小马五门版的功能丰富，让车辆定位更像一辆改善型用车。 一汽奔腾官方宣布，奔腾小马用户已达30万人。作为A00级首款满足新国标的五门车型，小马五门版采用63%高强钢与2200MPa级潜艇钢防撞梁，全系标配双气囊，并配备ESC稳定系统与加宽轮胎，可通过300毫米积水路段。车内后排纯平放倒后可形成1米×1米儿童床、前排采用无隔断设计，车内共有25处储物空间，同时配备智能语音助手、车外扬声器、手机控车、座椅加热等功能。 （文章来源：新京报",
+     "source": "东方财富股票",
+     "zh": "一汽奔腾小马五门版上市"
+    },
+    {
+     "title": "刚果（金）埃博拉疫情已致5026人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917655083.html",
+     "pubDate": "Sat, 31 Oct 2026 22:55:05 +0800",
+     "summary": "当地时间10月31日，刚果（金）国家生物医学研究所发布数据显示，截至10月29日，该国本轮埃博拉疫情累计死亡病例超五千例，达5026例，累计确诊病例10351例，死亡率48.6%。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "刚果（金）埃博拉疫情已致5026人死亡"
+    },
+    {
      "title": "The S&P 500 isn’t the big winner you may think it is",
      "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 14:54:00 GMT",
      "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
      "source": "MarketWatch",
      "zh": "标准普尔 500 指数并不是您想象的大赢家"
+    },
+    {
+     "title": "朗玛信息：扩大ToB医疗机构覆盖范围，推动AI医疗业务成为公司新的增长引擎",
+     "link": "http://stock.eastmoney.com/news/11215,202610313917655171.html",
+     "pubDate": "Sat, 31 Oct 2026 22:54:00 +0800",
+     "summary": "南财智讯10月31日电， 朗玛信息 在投资者关系活动中表示，公司一方面是持续迭代“39AI医生”大模型，上线病历质控、医保控费、重大临床风险提示等核心功能，进一步强化产品对医疗机构的实际赋能价值，帮助 医院 “提质、增效、降本、控险、育人”；另一方面搭建全国渠道网络与直营团队，利用公司已有的客户资源，扩大ToB医疗机构覆盖范围，提升付费机构数量与续费率，推动AI医疗业务成为公司新的增长引擎。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "朗玛信息：扩大ToB医疗机构覆盖范围，推动AI医疗业务成为公司新的增长引擎"
+    },
+    {
+     "title": "朗玛信息：“39AI医生”医生端采取与医院现有HIS系统通过接口互补的路径进行工作",
+     "link": "http://stock.eastmoney.com/news/11216,202610313917655272.html",
+     "pubDate": "Sat, 31 Oct 2026 22:53:00 +0800",
+     "summary": "南财智讯10月31日电， 朗玛信息 在投资者关系活动中表示，“39AI医生”医生端采取与 医院 现有HIS系统通过接口互补的路径进行工作，不需替代或更换 医院 已有的系统。该模式既保护了医疗机构在医疗信息化上的既有资产，又完成了AI赋能。针对医疗机构用户，“39AI医生”付费模式灵活，可按照用户需求按次数或使用期限进行收费，非一次性买断，公司按月分摊确认收入。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "朗玛信息：“39AI医生”医生端采取与医院现有HIS系统通过接口互补的路径进行工作"
+    },
+    {
+     "title": "1/3小微经营者使用人工智能 “毛细血管”所见中国宏观经济走势如何？",
+     "link": "http://finance.eastmoney.com/news/1346,202610313917654832.html",
+     "pubDate": "Sat, 31 Oct 2026 22:43:57 +0800",
+     "summary": "今天上午，以“守微笃行，聚力生辉”为主题的中小微企业学术研讨会暨2026三季度中国小微经营者调查报告发布会在上海财经大学举行。来自北京大学、上海财经大学、复旦大学、华东师范大学、香港中文大学等高校及相关机构的专家学者、业界嘉宾和师生代表参加研讨交流。 会议聚焦中小微企业发展面临的现实挑战与新兴机遇，围绕小微经营者经营状况、市场信心、数字化转型、民营经济发展、产业政策、金融开放及创新创业等议题展开深入交流。 上海财经大学副校长靳玉英教授指出，中小微企业是促进就业、改善民生、激发经济活力的重要力量，其发展状况为观察宏观经济运行提供了重要窗口。当前，小微经营者迎来 人工智能 应用、线上销售拓展和数字",
+     "source": "东方财富股票",
+     "zh": "1/3小微经营者使用人工智能 “毛细血管”所见中国宏观经济走势如何？"
     },
     {
      "title": "Healthcare Earnings Scoreboard: 96% beat EPS estimates, 70% post Y/Y earnings growth",
@@ -2282,12 +2322,20 @@ window.INDUSTRY_DATA = {
      "zh": "医疗保健盈利记分牌：每股收益超出预期 96%，同比盈利增长 70%"
     },
     {
+     "title": "今夜！美伊谈判 传来重磅消息！",
+     "link": "http://finance.eastmoney.com/news/1356,202610313917654512.html",
+     "pubDate": "Sat, 31 Oct 2026 22:39:57 +0800",
+     "summary": "今晚，美伊谈判相关消息密集传出！ 北京时间10月31日晚间，原油暗盘跳水。截至券商中国记者发稿，纽约原油暗盘跌1.20%，布伦特原油暗盘跌0.85%。 与此同时，被视为市场风险偏好指标的加密货币小幅走高。截至券商中国记者发稿，比特币涨0.38%，回升至7.75万美元附近，此前一度下探至7.65万美元；以太坊、BNB、XLM涨超1%，ZEC涨超4%。 据央视新闻报道，当地时间31日，伊朗外长阿拉格齐表示，美国副总统万斯的来信已在伊方高级别会议上经过仔细审阅和讨论。 阿拉格齐称赞美方努力为对话和理解开辟更广阔的空间，并表示这是一个积极的举措。同时他也指出，如果美国发出万斯来信的目的是制造伊朗的分裂",
+     "source": "东方财富股票",
+     "zh": "今夜！美伊谈判 传来重磅消息！"
+    },
+    {
      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 14:35:00 GMT",
      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
      "source": "MarketWatch",
-     "zh": "社会保障的命运以及您的福利掌握在今年当选的候选人手中"
+     "zh": "社会保障的命运 - 以及您的福利 - 掌握在今年当选的候选人手中"
     },
     {
      "title": "Consumer discretionary earnings mixed as revenue growth outpaces profit gains",
@@ -2303,7 +2351,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 14:26:00 GMT",
      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
      "source": "MarketWatch",
-     "zh": "“他伤心欲绝”：我丈夫的孩子在他临死时抛弃了他。他把一切都留给我是对的吗？"
+     "zh": "“他伤心欲绝”：我丈夫的孩子在他临死时抛弃了他。他把一切都交给我对吗？"
     },
     {
      "title": "Seven of eight consumer staples companies beat EPS estimates in Q3 2026 earnings week: Earnings scorecard",
@@ -2354,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "谷歌教会了世界如何搜索。现在它面临着一场不容失败的革命。"
     },
     {
-     "title": "北京城市更新步入全域统筹、系统推进的新阶段",
-     "link": "http://www.eeo.com.cn/2026/1031/1081081.shtml",
-     "pubDate": "Sat, 31 Oct 2026 21:00:55 +0800",
-     "summary": "北京城市规划学会理事长施卫良认为，当前北京城市更新正处在加快转型、模式定型的关键阶段，这一阶段还将持续一段时间。伴随“十五五”任务全面铺开，城市更新要进一步打通城市体检、规划实施与更新行动的联动衔接，推动更新单元从单个项目向街区、片区拓展，提升空间资源统筹配置效能。",
-     "source": "经济观察网",
-     "zh": "北京城市更新步入全域统筹、系统推进的新阶段"
-    },
-    {
      "title": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead",
      "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
      "pubDate": "Sat, 31 Oct 2026 12:49:58 GMT",
@@ -2410,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”"
     },
     {
-     "title": "行业承压期 太阳纸业拟投40亿元逆势扩产",
-     "link": "http://www.eeo.com.cn/2026/1031/1081079.shtml",
-     "pubDate": "Sat, 31 Oct 2026 19:48:59 +0800",
-     "summary": "关于业绩上涨的原因，10月30日，记者以投资者身份致电太阳纸业，该公司证券部相关工作人员表示：“公司一直以来都有产能投放，这是影响经营业绩的因素之一。同时，公司具备规模效益，并始终坚持林浆纸一体化战略。去年公司整体经营表现尚可，成本控制和销售端均做得不错。上述综合因素共同支撑了公司的盈利水平。”",
-     "source": "经济观察网",
-     "zh": "行业承压期 太阳纸业拟投40亿元逆势扩产"
-    },
-    {
      "title": "Anthropic&apos;s path to the Nasdaq just got a lot bumpier",
      "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
      "pubDate": "Sat, 31 Oct 2026 11:00:01 GMT",
@@ -2448,38 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "近日，美国人形 机器人 企业Figure对外公开了时长一小时的内部全员大会视频。这次大会上，没有酷炫的新品展示，没有宏大的远期蓝图，只描绘了一条愈发清晰的战略路线——当硬件进入迭代收敛期，Figure将如何落实“规模化预训练+超大算力”的工程路线，让 机器人 一步步“变聪明”。完整视频于当地时间10月22日发布于该公司官方YouTube频道。 具体来看，Figure AI创始人兼CEO Brett Adcock复盘了公司当前研发底座，披露第四代人形 机器人 Figure 04和Index全球人类行为数据收集项目的最新进展、35亿美元算力合作细节，以及新一代Helix模型的内部测试情况。 Fig",
      "source": "东方财富资讯",
      "zh": "Figure大会透露未来路线：硬件迭代收敛 押注“规模化预训练+超大算力”"
-    },
-    {
-     "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
-     "link": "https://wallstreetcn.com/articles/3784923",
-     "pubDate": "Sat, 31 Oct 2026 18:20:58 +0800",
-     "summary": "10月28日，彭博报道称，Marvell正与光学器件制造商Lumentum进行深入谈判，考虑通过全股票交易收购后者。报道当时给出的Lumentum市值约为830亿美元，Marvell约为2210亿美元。 这笔潜在交易引发了一个值得关注的问题：一家以定制芯片和高速互连见长的公司，为什么要大举进入激光器和光学器件制造领域？ 10月30日，半导体行业播客Semi Doped邀请市场研究机构Cignal AI的两位分析师Andrew Schmitt和Scott Wilkinson讨论这笔交易。两人的判断是，Marvell希望通过垂直整合，把DSP、激光器和光学组件结合起来，形成更完整的产品体系。 如果",
-     "source": "华尔街见闻",
-     "zh": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”"
-    },
-    {
-     "title": "【三季报持仓透视】社保基金最新动向来了 000725新进持股数最高！企业年金新进增持股出炉",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917619661.html",
-     "pubDate": "Sat, 31 Oct 2026 17:47:41 +0800",
-     "summary": "截至三季度末，社保基金共计现身598家上市公司前十大流通股东名单。 A股上市公司三季报披露完毕，社保基金作为资本市场中兼具安全性与长期性的“压舱石”资金，其持股动向浮出水面。 据证券时报·数据宝统计，不含社保基金理事会持股，截至三季度末，社保基金共计现身598家上市公司前十大流通股东名单，总持股量103.72亿股；总持股市值1957.92亿元。 以申万行业划分，社保基金对于 电子 、 机械设备 、 基础化工 、 医药生物 、 有色金属 、 汽车 、 电力 设备行业的持股市值均在100亿元以上。 4股社保持仓超20亿元 个股来看，4股三季度末社保基金持仓市值超20亿元，分别是 比亚迪 、 三一重",
-     "source": "东方财富资讯",
-     "zh": "【三季报持仓透视】社保基金最新动向来了 000725新进持股数最高！企业年金新进增持股出炉"
-    },
-    {
-     "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
-     "link": "http://finance.eastmoney.com/news/1349,202610313917614941.html",
-     "pubDate": "Sat, 31 Oct 2026 17:32:25 +0800",
-     "summary": "原 中国石油 化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查"
-    },
-    {
-     "title": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一",
-     "link": "https://wallstreetcn.com/articles/3784918",
-     "pubDate": "Sat, 31 Oct 2026 17:10:24 +0800",
-     "summary": "美股周五收盘，苹果市值报5.03万亿美元，从英伟达手中夺回全球市值最高公司的头衔。 投资者在AI开支担忧下，转而寻求这家iPhone制造商的相对安全性。 周五的收盘排名因此出现反转，苹果重新位居首位，英伟达退居第二。 收盘换位：苹果小跌，英伟达大跌 周五苹果股价下跌1.23%，收盘市值5.03万亿美元；英伟达收跌4.22%，收盘市值约4.93万亿美元。苹果跌幅明显小于英伟达，两者市值由此换位，苹果领先约0.1万亿美元。英伟达单日市值缩水约2170亿美元。 这是苹果自7月底短暂超越英伟达以来，首次再度登顶。 纳斯达克100指数10月下跌6.7%，为2025年3月以来最差单月，风险偏好承压。 AI",
-     "source": "华尔街见闻",
-     "zh": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一"
     }
    ]
   },

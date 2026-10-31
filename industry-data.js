@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 23:29:58",
+ "generated_at": "2026/10/31 23:49:58",
  "recent_days": 7,
  "industries": [
   {
@@ -167,7 +167,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
      "source": "TechCrunch AI",
-     "zh": "Nvidia 考虑担任西弗吉尼亚州 Nscale 人工智能数据中心的联合签署人"
+     "zh": "Nvidia 考虑担任 Nscale 位于西弗吉尼亚州的人工智能数据中心的联合签署人"
     },
     {
      "title": "国行苹果智能倒计时4天开测！阿里官宣，千问全面接入",
@@ -279,7 +279,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 23:34:04 GMT",
      "summary": "Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base.",
      "source": "DIGITIMES",
-     "zh": "TSIA 30：台湾构建了人工智能骨干网——但它能占领人工智能经济吗？"
+     "zh": "TSIA 30：台湾构建了人工智能骨干——但它能占领人工智能经济吗？"
     },
     {
      "title": "Marvell-Lumentum talks put optical supply chain in focus",
@@ -383,7 +383,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 10:27:30 +0000",
      "summary": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
      "source": "Electronics Weekly",
-     "zh": "泰雷兹阿莱尼亚航天公司赢得另外两颗伽利略卫星的合同"
+     "zh": "泰雷兹阿莱尼亚宇航公司赢得另外两颗伽利略卫星的合同"
     },
     {
      "title": "First Solar licensing CubicPV’s US patents for perovskite solar technology",
@@ -455,7 +455,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 16:20:34 +0000",
      "summary": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Samsung Electronics Posts $80B Operating Profit on AI Memory Demand appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "三星电子因 AI 内存需求实现运营利润 80B 美元"
+     "zh": "三星电子因 AI 内存需求实现营业利润 80B 美元"
     },
     {
      "title": "How Vision and Connectivity Enable Autonomous Agriculture",
@@ -663,7 +663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
      "summary": "Rivian Chief Software Officer Wassym Bensaid told InsideEVs an overhauled service experience is coming to its cars in 2027.",
      "source": "InsideEVs",
-     "zh": "软件负责人表示，人工智能驱动的咖啡运行和服务访问将于明年为 Rivian 提供"
+     "zh": "软件负责人表示，人工智能驱动的咖啡运行和服务访问将于明年为 Rivians 提供"
     },
     {
      "title": "After A Year Without Tax Credits, EVs Are Down But Not Out",
@@ -1023,7 +1023,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
+     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+     "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+     "pubDate": "Sat, 31 Oct 2026 11:35:11 -0400",
+     "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+     "source": "BleepingComputer",
+     "zh": "新的 Android SMS of Death 漏洞可远程使未修补的手机崩溃"
+    },
+    {
      "title": "Reddit to lock content behind logins to fight scrapers",
      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
      "pubDate": "Sat, 31 Oct 2026 10:05:15 -0400",
@@ -1583,7 +1591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "叙利亚黑客逃亡十多年后在美国入狱"
+     "zh": "叙利亚黑客潜逃十多年后在美国入狱"
     },
     {
      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -1599,7 +1607,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 11:03:41 +0530",
      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed. The researchers reported the flaw through&nbsp;OpenAI's bug bounty program&nbs",
      "source": "The Hacker News",
-     "zh": "共享 ChatGPT 链接可以在您的会话中运行攻击者代码并读取私人聊天"
+     "zh": "共享的 ChatGPT 链接可以在您的会话中运行攻击者代码并读取私人聊天"
     },
     {
      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
@@ -1663,7 +1671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 20:47:28 +0530",
      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can e",
      "source": "The Hacker News",
-     "zh": "TeamViewer 漏洞可让远程计算机攻击连接控制它们的用户"
+     "zh": "TeamViewer 漏洞可让远程计算机攻击连接并控制它们的用户"
     },
     {
      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
@@ -1680,14 +1688,6 @@ window.INDUSTRY_DATA = {
      "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "其他新闻：人为违规纠纷、UEFI 缺陷影响大多数服务器、Cloudflare AI 数据泄露"
-    },
-    {
-     "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-     "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-     "pubDate": "Fri, 30 Oct 2026 10:36:54 -0400",
-     "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
-     "source": "BleepingComputer",
-     "zh": "Cursor 上的恶意 Claude 代码扩展植入 SSH 后门"
     },
     {
      "title": "Undead Software Projects Continue to Raise Security Risks",
@@ -1746,6 +1746,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Binance says it has covered 90% of its hack losses, having set aside $6.34B+ of company funds; the remaining 10% is in less liquid tokens (Angela Christy/Reuters)",
+     "link": "https://www.techmeme.com/261031/p9#a261031p9",
+     "pubDate": "Sat, 31 Oct 2026 11:45:01 -0400",
+     "summary": "Angela Christy / Reuters : Binance says it has covered 90% of its hack losses, having set aside $6.34B+ of company funds; the remaining 10% is in less liquid tokens &nbsp; &mdash;&nbsp; Cryptocurrency exchange Binance said on Saturday that it was able to cover 90% of the amount stolen during its rec",
+     "source": "Techmeme",
+     "zh": "币安表示，已拨出 6.34B+ 美元的公司资金，弥补了 90% 的黑客损失；剩下的 10% 是流动性较差的代币（Angela Christy/Reuters）"
+    },
+    {
+     "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+     "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+     "pubDate": "Sat, 31 Oct 2026 15:41:57 +0000",
+     "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+     "source": "TechCrunch",
+     "zh": "从餐厅指南到支付，TikTok 是如何打造超级应用的"
+    },
+    {
      "title": "港股打新，热度降温",
      "link": "https://www.huxiu.com/article/4902015.html?f=rss",
      "pubDate": "Sat, 31 Oct 2026 23:19:07 +0800",
@@ -1773,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
      "link": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
      "pubDate": "Sat, 31 Oct 2026 14:57:33 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/ Comments URL: https://news.ycombinator.com/item?id=50316760 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/ Comments URL: https://news.ycombinator.com/item?id=50316760 Points: 20 # Comments: 3",
      "source": "Hacker News",
      "zh": "前元研究员下载盗版书籍，“因诉讼”将其删除"
     },
@@ -1863,15 +1879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 09:40:53 -0400",
      "summary": "Morgan Meaker / Bloomberg : How AI detectors like Pangram are changing human writing: authors drop em dashes, &ldquo;not X, but Y&rdquo; phrasing, and words like &ldquo;delve&rdquo;, or add typos, to look human &nbsp; &mdash;&nbsp; As AI transforms writing and detectors like Pangram police what coun",
      "source": "Techmeme",
-     "zh": "像 Pangram 这样的 AI 检测器如何改变人类写作：作者会删除破折号、“不是 X，而是 Y”措辞，以及“delve”之类的单词，或者添加拼写错误，以使其看起来像人类（Morgan Meaker/Bloomberg）"
-    },
-    {
-     "title": "Retired professor arrested for blocking delivery robot. Will do it again",
-     "link": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
-     "pubDate": "Sat, 31 Oct 2026 13:39:57 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec Comments URL: https://news.ycombinator.com/item?id=50316103 Points: 39 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "退休教授因阻挡送货机器人而被捕。会再做一次"
+     "zh": "像 Pangram 这样的 AI 检测器如何改变人类写作：作者去掉破折号、“不是 X，而是 Y”措辞，以及“delve”之类的词，或者添加拼写错误，以看起来像人类（Morgan Meaker/Bloomberg）"
     },
     {
      "title": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Prospero: A new coding harness for a more civilized age",
      "link": "https://nullprogram.com/blog/2026/10/31/",
      "pubDate": "Sat, 31 Oct 2026 11:54:59 +0000",
-     "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 73 # Comments: 48",
+     "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 90 # Comments: 60",
      "source": "Hacker News",
      "zh": "Prospero：面向更文明时代的新编码工具"
     },
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "北美 B2B 协作 SaaS，产品已过 PMF，处在起量阶段，团队 12 人，其中增长 3 人。上季度把定价页从三档改成四档，加了年付折扣和“联系销售”入口，自助试用注册转化率从 3.1% 提到 4.6%。但同期在 Google Ads 和 LinkedIn 上跑「project management software」这类词，CPA 从 180 美元涨到 252 美元，涨了约 40%，月度投放预算 2.5 万美元左右，现在单个付费客户获客成本已经接近首年 ARR 的 60%。已经试过收窄匹配、加否定词、把落地页从首页换成定价页，CPA 只降了 5% 左右；也试过把“联系销售”入口隐藏，试用率",
      "source": "白鲸出海",
      "zh": "北美 SaaS 定价页改版后试用转化涨了，但付费广告 CPA 反而升了 40%，该继续投吗？"
-    },
-    {
-     "title": "Seabirds racing home over the ocean can get jet-lagged",
-     "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-     "pubDate": "Sat, 31 Oct 2026 11:15:26 +0000",
-     "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
-     "source": "Ars Technica",
-     "zh": "海鸟在海洋上飞翔回家可能会遇到时差"
     }
    ]
   },
@@ -1993,6 +1993,46 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Traveling with electronics? These 5 items could raise TSA red flags",
+     "link": "https://www.engadget.com/2301241/tsa-electronics-red-flags/",
+     "pubDate": "Sat, 31 Oct 2026 15:45:00 +0000",
+     "summary": "Travel is stressful enough. Here's what you should know about TSA rules on traveling with tech.",
+     "source": "Engadget",
+     "zh": "带着电子产品旅行？这 5 件物品可能会引发 TSA 危险信号"
+    },
+    {
+     "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
+     "link": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
+     "pubDate": "Sat, 31 Oct 2026 15:42:26 +0000",
+     "summary": "After five years, Apple released its first major MacBook Pro overhaul since the M1 Pro/M1 Max models, and well… it was a little bit underwhelming from a design perspective. The product is incredible on many merits, but after seeing it, I’m not left feeling like I need to buy one – at least not yet. ",
+     "source": "9to5Mac",
+     "zh": "配备 PROLED XDR 的 MacBook Pro 看起来棒极了，但我并不急于升级"
+    },
+    {
+     "title": "Apple Maps begins blurring NASA, Space Force, and Air Force bases",
+     "link": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/",
+     "pubDate": "Sat, 31 Oct 2026 15:42:14 +0000",
+     "summary": "You’re not a real space or aviation nerd unless you’ve taken to a map service and zoomed on the historic NASA launch pads or your local Air Force Bases, just for fun, you know? However, a recent change to Apple Maps now has some of those locations blurred from view, blocking anyone from seeing fight",
+     "source": "9to5Mac",
+     "zh": "苹果地图开始模糊 NASA、太空部队和空军基地"
+    },
+    {
+     "title": "Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch",
+     "link": "https://www.gsmarena.com/motorola_signature_27_key_specs_geekbench-news-75301.php",
+     "pubDate": "Sat, 31 Oct 2026 16:31:02 +0100",
+     "summary": "Motorola announced the Signature 27 in September at the Snapdragon Summit, where Qualcomm introduced the Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6 chips. The Signature 27, slated to launch on November 5, will be powered by the 2nm Snapdragon 8 Elite Extreme Gen 6, and it just fle",
+     "source": "GSMArena",
+     "zh": "摩托罗拉 Signature 27 将于 11 月 5 日发布前在 Geekbench 上展示实力"
+    },
+    {
+     "title": "The Amazon Fire TV Stick setting you should try for better audio",
+     "link": "https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/",
+     "pubDate": "Sat, 31 Oct 2026 15:30:00 +0000",
+     "summary": "Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.",
+     "source": "Engadget",
+     "zh": "您应该尝试 Amazon Fire TV Stick 设置以获得更好的音频"
+    },
     {
      "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
      "link": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
@@ -2034,28 +2074,12 @@ window.INDUSTRY_DATA = {
      "zh": "为什么SNES游戏这么贵"
     },
     {
-     "title": "5 Samsung One UI features you won't get with other Android phones",
-     "link": "https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/",
-     "pubDate": "Sat, 31 Oct 2026 14:30:00 +0000",
-     "summary": "Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere.",
-     "source": "Engadget",
-     "zh": "其他 Android 手机无法提供的 5 项 Samsung One UI 功能"
-    },
-    {
      "title": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
      "link": "https://9to5mac.com/2026/10/31/9to5mac-overtime-088-finally-a-touchscreen-macbook/",
      "pubDate": "Sat, 31 Oct 2026 14:17:15 +0000",
      "summary": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display. Is finally having a touchscreen Mac resonating with the Overtime crew? Tune in for a spirited discu",
      "source": "9to5Mac",
      "zh": "9to5Mac 加班 088：终于有了触摸屏 MacBook"
-    },
-    {
-     "title": "What is a PDF reader and do you really need a dedicated one on your phone?",
-     "link": "https://www.engadget.com/2300318/what-is-pdf-reader-do-you-need-on-phone/",
-     "pubDate": "Sat, 31 Oct 2026 14:15:00 +0000",
-     "summary": "If you don't know what a PDF reader for your phone is, this is the time to learn about it all. You may be in need of one to make your life easier.",
-     "source": "Engadget",
-     "zh": "什么是 PDF 阅读器？您真的需要在手机上安装专用的 PDF 阅读器吗？"
     },
     {
      "title": "Fujifilm Instax Mini Evo 2 review: A hybrid instant camera that changed my mind",
@@ -2183,7 +2207,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 01:03:35 +0000",
      "summary": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each available in light and dark variations, which you can download below. more…",
      "source": "9to5Mac",
-     "zh": "在此下载全部 20 张明暗模式下的 Apple HomeView 壁纸"
+     "zh": "在此下载全部 20 张明暗模式的 Apple HomeView 壁纸"
     },
     {
      "title": "Here's when Samsung plans to release its Android XR glasses and where",
@@ -2202,30 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "WhatsApp 宣布四项新功能，让群聊更易于管理"
     },
     {
-     "title": "9to5Mac Daily: October 30, 2026 – New HomePod features, more",
-     "link": "https://9to5mac.com/2026/10/30/daily-october-30-2026/",
-     "pubDate": "Fri, 30 Oct 2026 23:25:16 +0000",
-     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Daily：2026 年 10 月 30 日 – HomePod 新功能及更多"
-    },
-    {
-     "title": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
-     "link": "https://www.gsmarena.com/apple_iphone_18_pro_vs_iphone_18_pro_max_battery_camera_price_compared-news-75173.php",
-     "pubDate": "Fri, 30 Oct 2026 23:59:02 +0100",
-     "summary": "It's time for an upgrade, and you are eyeing the new iPhone 18 Pro series. But which one to get? The smaller iPhone 18 Pro or the larger iPhone 18 Pro Max? Sometimes it's not just about screen size; it's also about features and performance. The Pro Max has historically been better at endurance and h",
-     "source": "GSMArena",
-     "zh": "苹果 iPhone 18 Pro 与 iPhone 18 Pro Max"
-    },
-    {
-     "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
-     "link": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
-     "pubDate": "Fri, 30 Oct 2026 22:37:36 +0000",
-     "summary": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple Intelligence in China. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "苹果通过 Apple Intelligence 在中国确认 iOS 27.3 测试版将于下周发布"
-    },
-    {
      "title": "Pixelated 123: The primary value is the clock",
      "link": "https://9to5google.com/2026/10/30/pixelated-123-the-primary-value-is-the-clock/",
      "pubDate": "Fri, 30 Oct 2026 21:00:00 +0000",
@@ -2242,12 +2242,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Earnings Scoreboard: 83% of reporting firms beat EPS estimates, 79% post Y/Y earnings growth",
+     "link": "https://seekingalpha.com/news/4661167-earnings-scoreboard-83-of-reporting-firms-beat-eps-estimates-79-post-yy-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:45:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "盈利记分牌：83% 的报告公司超出了 EPS 预期，79% 的公司实现了同比盈利增长"
+    },
+    {
+     "title": "Nike has a new plan for retro Michael Jordan shoes",
+     "link": "https://seekingalpha.com/news/4661859-nike-has-a-new-plan-for-retro-michael-jordan-shoes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:44:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "耐克有一个复古迈克尔乔丹鞋的新计划"
+    },
+    {
+     "title": "伊朗外长称目前没有与美方会谈计划",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917656764.html",
+     "pubDate": "Sat, 31 Oct 2026 23:32:08 +0800",
+     "summary": "据卡塔尔半岛电视台10月31日报道，伊朗外交部长阿拉格齐在接受该电视台采访时表示，伊方目前没有与美国官员会谈的计划，相关说法“只是媒体猜测”。 据报道，阿拉格齐表示“目前没有必要与美国人会谈”，是否与美国举行直接或间接会谈，取决于伊方提出的条件能否得到满足。 谈及美国副总统万斯致信寻求与伊朗开启对话，阿拉格齐表示，伊方研究了这封来信，认为“美方试图为更广泛的对话与相互理解打开大门，这是积极的一步”。 阿拉格齐同时警告，如果美方致信目的是挑拨离间，那将是错上加错。 阿拉格齐还说，调解方已就伊朗核问题提出方案，伊方正在研究，并已派代表团赴卡塔尔与调解方进行磋商。 据伊朗塔斯尼姆通讯社29日报道，伊",
+     "source": "东方财富股票",
+     "zh": "伊朗外长称目前没有与美方会谈计划"
+    },
+    {
+     "title": "Earnings Scorecard: Energy stocks wrap up strong week with near-clean sweep on results",
+     "link": "https://seekingalpha.com/news/4661855-earnings-scorecard-energy-stocks-wrap-up-strong-week-with-near-clean-sweep-on-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:30:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "盈利记分卡：能源股以近乎横扫的结果结束了强劲的一周"
+    },
+    {
+     "title": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
+     "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+     "pubDate": "Sat, 31 Oct 2026 15:30:00 GMT",
+     "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+     "source": "MarketWatch",
+     "zh": "我们教会有 150 万美元的遗赠，在储蓄账户中赚取 3.75% 的利息。我们是在扔钱吗？"
+    },
+    {
      "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 15:25:00 GMT",
      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
      "source": "MarketWatch",
      "zh": "是什么让这座城市获得了“最佳退休之地”的桂冠？你实际上可以负担得起那里的生活。"
+    },
+    {
+     "title": "泰国着手制定第四个国家旅游发展计划",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917656653.html",
+     "pubDate": "Sat, 31 Oct 2026 23:23:46 +0800",
+     "summary": "中新社曼谷10月31日电(王茜李映民)泰国总理府副发言人拉丽达31日表示，泰国政府着手制定第四个国家旅游发展计划(2028—2032年)，目标是将旅游业总收入提高至至少4万亿泰铢。 拉丽达表示，泰国国家旅游政策委员会当天召开工作会议，讨论第四个国家旅游发展计划的制定方向。计划将着力提升旅游产品和服务质量，拓展高消费游客市场，完善旅游基础设施，并推动旅游收入更多惠及小型经营者和社区。 在旅游产品开发方面，邮轮和游艇旅游被列为重点发展领域。拉丽达指出，邮轮和游艇旅游具有较高的收入潜力，但泰国仍需完善相关 港口 设施。泰国国家旅游局将与有关机构协调，制定更加明确的发展框架，以提升泰国对高消费国际游客",
+     "source": "东方财富股票",
+     "zh": "泰国着手制定第四个国家旅游发展计划"
     },
     {
      "title": "S&P 500 materials sector: Four companies miss EPS estimates, six fall short on revenue",
@@ -2266,36 +2314,44 @@ window.INDUSTRY_DATA = {
      "zh": "在盈利主导的抛售之后，英特尔赢得了对 SA 的多次升级"
     },
     {
+     "title": "财报透视｜多重费用因素冲减净利润 同庆楼前三季度由盈转亏 第三季度亏损收窄",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917656383.html",
+     "pubDate": "Sat, 31 Oct 2026 23:12:14 +0800",
+     "summary": "10月30日晚， 同庆楼 （605108）发布2026年第三季度报告，公司前三季度实现营业收入19.59亿元，同比增长3.32%；归母净利润亏损1538.88万元，同比由盈转亏，去年同期盈利3020万元；扣非净利润亏损1882.82万元，同比由盈转亏，去年同期盈利2537万元。 其中，第三季度单季，公司实现营业收入6.31亿元，同比增长11.56%；归母净利润亏损1678.54万元，较去年同期减亏59.84%；扣非净利润亏损1927.60万元，较去年同期减亏53.88%。 报告期内，公司存量老店经营表现稳定，营业收入较去年同期上升10.11%，净利润同比实现增长。三季度为宴会业务传统淡季，婚宴",
+     "source": "东方财富股票",
+     "zh": "财报透视｜多重费用因素冲减净利润 同庆楼前三季度由盈转亏 第三季度亏损收窄"
+    },
+    {
+     "title": "消息人士称伊朗正在研究万斯来信中的提议",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917656095.html",
+     "pubDate": "Sat, 31 Oct 2026 23:12:04 +0800",
+     "summary": "据沙特方面10月31日援引消息人士的话称，伊朗正在研究美国副总统万斯在致伊方信件中的提议。 消息人士说，万斯来信中提出了双方谈判的总体原则和框架，但并未包含完整方案。目前，伊朗正在讨论美方有关伊朗核计划的提议。 消息人士透露，伊朗要求获得有关永久、全面停止战事的保证，以此换取开放霍尔木兹海峡。伊方还坚持要求先全面停战再启动谈判，“预计将举行新一轮谈判，但目前确定具体时间为时尚早”。 消息人士还说，卡塔尔与伊朗正在研究磋商一份路线图。一旦双方就路线图达成一致，美国代表团将赴卡塔尔。 据美国方面10月28日消息，万斯已致信伊朗最高国家安全委员会秘书穆赫辛·雷扎伊，试图重启谈判。 （文章来源：央视新",
+     "source": "东方财富股票",
+     "zh": "消息人士称伊朗正在研究万斯来信中的提议"
+    },
+    {
+     "title": "数据如何变“资”？全球数商大会给出路径：从可信数据到合规利用",
+     "link": "http://finance.eastmoney.com/news/1355,202610313917656536.html",
+     "pubDate": "Sat, 31 Oct 2026 23:11:09 +0800",
+     "summary": "当全球进入AI时代，数字赋予人类的意义远超任何一个时期，随着 数据要素 流通变得越来越频繁， 数据要素 大市场的形成和 数据要素 演变成资本的路径也有迹可循。 10月30日—31日，以“数智共生链接世界”为主题的2026全球数商大会在上海徐汇西岸国际会展中心正式举行，一批跨境数据、国际合作新项目、数据应用创新案例集中亮相；数十场行业话题论坛聚集了海内外众多行业、机构、专家以及政府部门领导，为数据要素从形成可信数据到合规利用，从进入市场到参与交易、从跨行业数据资产交互到跨境数据共享献智献策。 “我国 人工智能 的发展和规模化应用在未来五年必将成为我国数据价值释放最重要的 驱动力 ，也是培育一体化",
+     "source": "东方财富股票",
+     "zh": "数据如何变“资”？全球数商大会给出路径：从可信数据到合规利用"
+    },
+    {
+     "title": "减量增效显成色！前三季度国企利润逆势稳步修复",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917656448.html",
+     "pubDate": "Sat, 31 Oct 2026 23:11:03 +0800",
+     "summary": "10月30日，财政部发布2026年1—9月全国国有及国有控股企业（下称“国有企业”）经济运行情况数据。数据显示，1—9月，国有企业营业总收入600060.9亿元，同比下降3.2%；利润总额33103.5亿元，同比增长3.0%。 在宏观经济承压、产业结构深度调整的背景下，国资国企通过降本增效、结构优化、产业升级实现盈利修复，充分彰显了国有经济的压舱石作用。 中国企业改革与发展研究会研究员、江西财经大学国有企业发展研究院副院长吴刚梁在接受《华夏时报》记者采访时表示，前三季度国企营收下行、利润上行原因大概有三：第一，央企主动压缩和退出大量低毛利、走流水式的贸易业务。这类业务营收规模大，但利润率极低，",
+     "source": "东方财富股票",
+     "zh": "减量增效显成色！前三季度国企利润逆势稳步修复"
+    },
+    {
      "title": "Earnings Scorecard: 11 of 17 real estate companies beat revenue estimates this week",
      "link": "https://seekingalpha.com/news/4661416-earnings-scorecard-11-of-17-real-estate-companies-beat-revenue-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 31 Oct 2026 11:10:51 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "盈利记分卡：本周 17 家房地产公司中有 11 家超出了收入预期"
-    },
-    {
-     "title": "Healthcare sector rallies in October amid rotation away from technology stocks",
-     "link": "https://seekingalpha.com/news/4661759-healthcare-sector-rallies-in-october-amid-rotation-away-from-technology-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 11:05:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于科技股的轮动，医疗保健行业 10 月份反弹"
-    },
-    {
-     "title": "Insider trades: Goldman Sachs, P&G, Texas Instruments among major names",
-     "link": "https://seekingalpha.com/news/4661856-insider-trades-goldman-sachs-pg-texas-instruments-among-major-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 11:03:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "内幕交易：高盛、宝洁、德州仪器等知名公司"
-    },
-    {
-     "title": "Earnings scorecard: 21 out of 22 technology companies beat EPS estimates this week",
-     "link": "https://seekingalpha.com/news/4661407-earnings-scorecard-21-out-of-22-technology-companies-beat-eps-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 11:00:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "盈利记分卡：22 家科技公司中有 21 家本周每股收益超出预期"
     },
     {
      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
@@ -2330,28 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "“他伤心欲绝”：我丈夫的孩子在他临死时抛弃了他。他把一切都留给我是对的吗？"
     },
     {
-     "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-     "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 14:03:00 GMT",
-     "summary": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
-     "source": "MarketWatch",
-     "zh": "你的股票投资组合越来越取决于债券市场和中期选举"
-    },
-    {
      "title": "Investors trim growth bets over fears of US economy’s AI exposure",
      "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
      "pubDate": "Sat, 31 Oct 2026 14:00:02 GMT",
      "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
      "source": "Financial Times",
      "zh": "由于担心美国经济受到人工智能影响，投资者削减增长押注"
-    },
-    {
-     "title": "北京城市更新步入全域统筹、系统推进的新阶段",
-     "link": "http://www.eeo.com.cn/2026/1031/1081081.shtml",
-     "pubDate": "Sat, 31 Oct 2026 21:00:55 +0800",
-     "summary": "北京城市规划学会理事长施卫良认为，当前北京城市更新正处在加快转型、模式定型的关键阶段，这一阶段还将持续一段时间。伴随“十五五”任务全面铺开，城市更新要进一步打通城市体检、规划实施与更新行动的联动衔接，推动更新单元从单个项目向街区、片区拓展，提升空间资源统筹配置效能。",
-     "source": "经济观察网",
-     "zh": "北京城市更新步入全域统筹、系统推进的新阶段"
     },
     {
      "title": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead",
@@ -2410,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”"
     },
     {
-     "title": "行业承压期 太阳纸业拟投40亿元逆势扩产",
-     "link": "http://www.eeo.com.cn/2026/1031/1081079.shtml",
-     "pubDate": "Sat, 31 Oct 2026 19:48:59 +0800",
-     "summary": "关于业绩上涨的原因，10月30日，记者以投资者身份致电太阳纸业，该公司证券部相关工作人员表示：“公司一直以来都有产能投放，这是影响经营业绩的因素之一。同时，公司具备规模效益，并始终坚持林浆纸一体化战略。去年公司整体经营表现尚可，成本控制和销售端均做得不错。上述综合因素共同支撑了公司的盈利水平。”",
-     "source": "经济观察网",
-     "zh": "行业承压期 太阳纸业拟投40亿元逆势扩产"
-    },
-    {
      "title": "Anthropic&apos;s path to the Nasdaq just got a lot bumpier",
      "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
      "pubDate": "Sat, 31 Oct 2026 11:00:01 GMT",
@@ -2448,38 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "近日，美国人形 机器人 企业Figure对外公开了时长一小时的内部全员大会视频。这次大会上，没有酷炫的新品展示，没有宏大的远期蓝图，只描绘了一条愈发清晰的战略路线——当硬件进入迭代收敛期，Figure将如何落实“规模化预训练+超大算力”的工程路线，让 机器人 一步步“变聪明”。完整视频于当地时间10月22日发布于该公司官方YouTube频道。 具体来看，Figure AI创始人兼CEO Brett Adcock复盘了公司当前研发底座，披露第四代人形 机器人 Figure 04和Index全球人类行为数据收集项目的最新进展、35亿美元算力合作细节，以及新一代Helix模型的内部测试情况。 Fig",
      "source": "东方财富资讯",
      "zh": "Figure大会透露未来路线：硬件迭代收敛 押注“规模化预训练+超大算力”"
-    },
-    {
-     "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
-     "link": "https://wallstreetcn.com/articles/3784923",
-     "pubDate": "Sat, 31 Oct 2026 18:20:58 +0800",
-     "summary": "10月28日，彭博报道称，Marvell正与光学器件制造商Lumentum进行深入谈判，考虑通过全股票交易收购后者。报道当时给出的Lumentum市值约为830亿美元，Marvell约为2210亿美元。 这笔潜在交易引发了一个值得关注的问题：一家以定制芯片和高速互连见长的公司，为什么要大举进入激光器和光学器件制造领域？ 10月30日，半导体行业播客Semi Doped邀请市场研究机构Cignal AI的两位分析师Andrew Schmitt和Scott Wilkinson讨论这笔交易。两人的判断是，Marvell希望通过垂直整合，把DSP、激光器和光学组件结合起来，形成更完整的产品体系。 如果",
-     "source": "华尔街见闻",
-     "zh": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”"
-    },
-    {
-     "title": "【三季报持仓透视】社保基金最新动向来了 000725新进持股数最高！企业年金新进增持股出炉",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917619661.html",
-     "pubDate": "Sat, 31 Oct 2026 17:47:41 +0800",
-     "summary": "截至三季度末，社保基金共计现身598家上市公司前十大流通股东名单。 A股上市公司三季报披露完毕，社保基金作为资本市场中兼具安全性与长期性的“压舱石”资金，其持股动向浮出水面。 据证券时报·数据宝统计，不含社保基金理事会持股，截至三季度末，社保基金共计现身598家上市公司前十大流通股东名单，总持股量103.72亿股；总持股市值1957.92亿元。 以申万行业划分，社保基金对于 电子 、 机械设备 、 基础化工 、 医药生物 、 有色金属 、 汽车 、 电力 设备行业的持股市值均在100亿元以上。 4股社保持仓超20亿元 个股来看，4股三季度末社保基金持仓市值超20亿元，分别是 比亚迪 、 三一重",
-     "source": "东方财富资讯",
-     "zh": "【三季报持仓透视】社保基金最新动向来了 000725新进持股数最高！企业年金新进增持股出炉"
-    },
-    {
-     "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
-     "link": "http://finance.eastmoney.com/news/1349,202610313917614941.html",
-     "pubDate": "Sat, 31 Oct 2026 17:32:25 +0800",
-     "summary": "原 中国石油 化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查"
-    },
-    {
-     "title": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一",
-     "link": "https://wallstreetcn.com/articles/3784918",
-     "pubDate": "Sat, 31 Oct 2026 17:10:24 +0800",
-     "summary": "美股周五收盘，苹果市值报5.03万亿美元，从英伟达手中夺回全球市值最高公司的头衔。 投资者在AI开支担忧下，转而寻求这家iPhone制造商的相对安全性。 周五的收盘排名因此出现反转，苹果重新位居首位，英伟达退居第二。 收盘换位：苹果小跌，英伟达大跌 周五苹果股价下跌1.23%，收盘市值5.03万亿美元；英伟达收跌4.22%，收盘市值约4.93万亿美元。苹果跌幅明显小于英伟达，两者市值由此换位，苹果领先约0.1万亿美元。英伟达单日市值缩水约2170亿美元。 这是苹果自7月底短暂超越英伟达以来，首次再度登顶。 纳斯达克100指数10月下跌6.7%，为2025年3月以来最差单月，风险偏好承压。 AI",
-     "source": "华尔街见闻",
-     "zh": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一"
     }
    ]
   },

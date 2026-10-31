@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/1 03:30:00",
+ "generated_at": "2026/11/1 03:34:05",
  "recent_days": 7,
  "industries": [
   {
@@ -32,14 +32,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智能体的规模正在快速扩张。IDC预测，到2030年，全球活跃Agent数量将达到 22.16亿个 ，年复合增长率达到 139% ，年均增长超1倍。 各类智能体也在密集涌现，热度一路走高。从编程、办公到个人助手，从消费端到企业端，智能体正快速进入各个场景，成为今年AI落地的重点方向。 与热度同步攀升的，是Token（词元）的消耗量。国家数据局披露，到今年3月，我国日均Token调用量已超过 140万亿 ，较2024年初增长 1000多倍 ；中国信通院的监测则显示，到今年6月，这一数字已达 500万亿 。如此庞大的调用量说明， 智能体已经走出概念演示，开",
      "source": "智东西",
      "zh": "智能体年均增长超一倍，百度智能云给智能体配了套新底座"
-    },
-    {
-     "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-     "link": "https://www.qbitai.com/2026/10/506904.html",
-     "pubDate": "Sat, 31 Oct 2026 13:49:44 +0000",
-     "summary": "AI已经自己找到Bug并提交PR",
-     "source": "量子位",
-     "zh": "刚刚，DeepSeek重磅开源：Agent底座架构！"
     },
     {
      "title": "AI如何赋能企业研发？快手团队提出“臭鼬工厂”模式",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkT",
      "source": "MarkTechPost",
      "zh": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare"
+    },
+    {
+     "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
+     "link": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
+     "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
+     "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself.",
+     "source": "KDnuggets",
+     "zh": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant"
     }
    ]
   },
@@ -2362,28 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Investors trim growth bets over fears of US economy’s AI exposure"
     },
     {
-     "title": "北京城市更新步入全域统筹、系统推进的新阶段",
-     "link": "http://www.eeo.com.cn/2026/1031/1081081.shtml",
-     "pubDate": "Sat, 31 Oct 2026 21:00:55 +0800",
-     "summary": "北京城市规划学会理事长施卫良认为，当前北京城市更新正处在加快转型、模式定型的关键阶段，这一阶段还将持续一段时间。伴随“十五五”任务全面铺开，城市更新要进一步打通城市体检、规划实施与更新行动的联动衔接，推动更新单元从单个项目向街区、片区拓展，提升空间资源统筹配置效能。",
-     "source": "经济观察网",
-     "zh": "北京城市更新步入全域统筹、系统推进的新阶段"
-    },
-    {
      "title": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead",
      "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
      "pubDate": "Sat, 31 Oct 2026 12:49:58 GMT",
      "summary": "President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.",
      "source": "CNBC",
      "zh": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead"
-    },
-    {
-     "title": "10月31日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610313917636071.html",
-     "pubDate": "Sat, 31 Oct 2026 20:23:50 +0800",
-     "summary": "今日摘要 1、中央和国家机关党员干部深入学习党的二十届五中全会精神，表示要以习近平党建思想为指引，在落实持之以恒推进全面从严治党的各项部署中走在前、作表率，在新的赶考之路上交出新的更加优异的答卷。 2、“十五五”开局起步之年，算力网提速升级，各地因地制宜推进数字中国建设。 3、我国持续扩大高水平开放，跨国企业加快在中国建设全球创新枢纽，共享中国发展机遇。 4、我国月球探测工程登月阶段任务扎实推进。 5、国际人士表示，二十届五中全会展现了中国共产党坚持全面从严治党的信心和决心。 内容速览 【学习贯彻党的二十届五中全会精神】走在前作表率，奋力谱写持之以恒推进全面从严治党新篇章 党的二十届五中全会审",
-     "source": "东方财富资讯",
-     "zh": "10月31日晚间央视新闻联播要闻集锦"
     },
     {
      "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
@@ -2418,44 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”"
     },
     {
-     "title": "行业承压期 太阳纸业拟投40亿元逆势扩产",
-     "link": "http://www.eeo.com.cn/2026/1031/1081079.shtml",
-     "pubDate": "Sat, 31 Oct 2026 19:48:59 +0800",
-     "summary": "关于业绩上涨的原因，10月30日，记者以投资者身份致电太阳纸业，该公司证券部相关工作人员表示：“公司一直以来都有产能投放，这是影响经营业绩的因素之一。同时，公司具备规模效益，并始终坚持林浆纸一体化战略。去年公司整体经营表现尚可，成本控制和销售端均做得不错。上述综合因素共同支撑了公司的盈利水平。”",
-     "source": "经济观察网",
-     "zh": "行业承压期 太阳纸业拟投40亿元逆势扩产"
-    },
-    {
      "title": "Anthropic&apos;s path to the Nasdaq just got a lot bumpier",
      "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
      "pubDate": "Sat, 31 Oct 2026 11:00:01 GMT",
      "summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
      "source": "CNBC",
      "zh": "Anthropic&apos;s path to the Nasdaq just got a lot bumpier"
-    },
-    {
-     "title": "中药板块“高分红梯队”成型 十余家公司股息率超4% 三季报预验业绩底色",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917623148.html",
-     "pubDate": "Sat, 31 Oct 2026 18:47:29 +0800",
-     "summary": "近年来，部分中药企业持续高比例现金分红。在近期市场整体走低的背景下，十余家中药行业上市公司股息率已超4%。在A股市场高股息主线持续受到资金关注的情况下，中药上市公司正在形成一个特征鲜明的高分红梯队。 十余家股息率超4% 高分红从个体行为走向行业群体现象 按2025年分红总金额与昨日（10月30日）公司市值测算， 达仁堂 （600329.SH）全年合计派现约36.89亿元，以11.89%的股息率居首；依次排在其后的是 济川药业 （600566.SH）、 华润江中 （600750.SH）、 东阿阿胶 （000423.SZ）、 以岭药业 （002603.SZ）、 羚锐制药 （600285.SH），股",
-     "source": "东方财富资讯",
-     "zh": "中药板块“高分红梯队”成型 十余家公司股息率超4% 三季报预验业绩底色"
-    },
-    {
-     "title": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917622347.html",
-     "pubDate": "Sat, 31 Oct 2026 18:40:18 +0800",
-     "summary": "10月30日晚间， 长鑫科技 举行2026年第三季度业绩说明会。公司管理层介绍了长期供货协议（长协）进展、第三季度及前三季度业绩、产品结构、毛利率预期和先进产品进展等情况。 长鑫科技 管理层表示， 目前公司长协相关工作进展顺利，已与多家头部客户协商长期供货协议，以锁定中长期确定性需求。在供求延续紧缺和精益制造的双重支撑下，公司预计第四季度毛利率将继续保持稳定。 据披露，2026年第三季度， 长鑫科技 实现营业收入约1187.14亿元，同比增长613.18%；实现归母净利润约544.35亿元，同比扭亏为盈，环比增长约3.01%。今年前三季度，公司实现营业收入2690亿元，同比增长738%；利润总",
-     "source": "东方财富资讯",
-     "zh": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定"
-    },
-    {
-     "title": "Figure大会透露未来路线：硬件迭代收敛 押注“规模化预训练+超大算力”",
-     "link": "http://stock.eastmoney.com/news/11228,202610313917623860.html",
-     "pubDate": "Sat, 31 Oct 2026 18:31:52 +0800",
-     "summary": "近日，美国人形 机器人 企业Figure对外公开了时长一小时的内部全员大会视频。这次大会上，没有酷炫的新品展示，没有宏大的远期蓝图，只描绘了一条愈发清晰的战略路线——当硬件进入迭代收敛期，Figure将如何落实“规模化预训练+超大算力”的工程路线，让 机器人 一步步“变聪明”。完整视频于当地时间10月22日发布于该公司官方YouTube频道。 具体来看，Figure AI创始人兼CEO Brett Adcock复盘了公司当前研发底座，披露第四代人形 机器人 Figure 04和Index全球人类行为数据收集项目的最新进展、35亿美元算力合作细节，以及新一代Helix模型的内部测试情况。 Fig",
-     "source": "东方财富资讯",
-     "zh": "Figure大会透露未来路线：硬件迭代收敛 押注“规模化预训练+超大算力”"
     },
     {
      "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
@@ -2466,20 +2418,68 @@ window.INDUSTRY_DATA = {
      "zh": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”"
     },
     {
-     "title": "【三季报持仓透视】社保基金最新动向来了 000725新进持股数最高！企业年金新进增持股出炉",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917619661.html",
-     "pubDate": "Sat, 31 Oct 2026 17:47:41 +0800",
-     "summary": "截至三季度末，社保基金共计现身598家上市公司前十大流通股东名单。 A股上市公司三季报披露完毕，社保基金作为资本市场中兼具安全性与长期性的“压舱石”资金，其持股动向浮出水面。 据证券时报·数据宝统计，不含社保基金理事会持股，截至三季度末，社保基金共计现身598家上市公司前十大流通股东名单，总持股量103.72亿股；总持股市值1957.92亿元。 以申万行业划分，社保基金对于 电子 、 机械设备 、 基础化工 、 医药生物 、 有色金属 、 汽车 、 电力 设备行业的持股市值均在100亿元以上。 4股社保持仓超20亿元 个股来看，4股三季度末社保基金持仓市值超20亿元，分别是 比亚迪 、 三一重",
-     "source": "东方财富资讯",
-     "zh": "【三季报持仓透视】社保基金最新动向来了 000725新进持股数最高！企业年金新进增持股出炉"
+     "title": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一",
+     "link": "https://wallstreetcn.com/articles/3784918",
+     "pubDate": "Sat, 31 Oct 2026 17:10:24 +0800",
+     "summary": "美股周五收盘，苹果市值报5.03万亿美元，从英伟达手中夺回全球市值最高公司的头衔。 投资者在AI开支担忧下，转而寻求这家iPhone制造商的相对安全性。 周五的收盘排名因此出现反转，苹果重新位居首位，英伟达退居第二。 收盘换位：苹果小跌，英伟达大跌 周五苹果股价下跌1.23%，收盘市值5.03万亿美元；英伟达收跌4.22%，收盘市值约4.93万亿美元。苹果跌幅明显小于英伟达，两者市值由此换位，苹果领先约0.1万亿美元。英伟达单日市值缩水约2170亿美元。 这是苹果自7月底短暂超越英伟达以来，首次再度登顶。 纳斯达克100指数10月下跌6.7%，为2025年3月以来最差单月，风险偏好承压。 AI",
+     "source": "华尔街见闻",
+     "zh": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一"
     },
     {
-     "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
-     "link": "http://finance.eastmoney.com/news/1349,202610313917614941.html",
-     "pubDate": "Sat, 31 Oct 2026 17:32:25 +0800",
-     "summary": "原 中国石油 化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查"
+     "title": "标普将Meta信用评级展望下调至负面，维持AA-，警告AI开支与自由现金流承压",
+     "link": "https://wallstreetcn.com/articles/3784917",
+     "pubDate": "Sat, 31 Oct 2026 17:04:27 +0800",
+     "summary": "标普全球评级周五将Meta Platforms的AA-信用评级展望由稳定下调至负面，评级本身维持AA-不变。 标普的理由是AI相关高额资本开支推升杠杆，自由经营现金流承压，且Meta将AI投资变现的能力弱于同业。 标普表示，目前尚不清楚这些开支何时才会带来超过成本上升的重大收入。负面展望反映的是资本开支将维持高位多久、自由经营现金流将持续为负多久的不确定性。 同日美股科技股走弱，纳指收跌约3.5%，一度触及技术性回调。 开支攀升与杠杆抬升 标普预测，Meta今年资本开支约1400亿美元，2027年将逾2250亿美元。随着开支扩大，公司杠杆或最早在明年升至1.0倍以上，去年这一数字约为0.1倍。",
+     "source": "华尔街见闻",
+     "zh": "标普将Meta信用评级展望下调至负面，维持AA-，警告AI开支与自由现金流承压"
+    },
+    {
+     "title": "长安汽车短期业绩承压，部分新能源平台已盈利",
+     "link": "https://wallstreetcn.com/articles/3784915",
+     "pubDate": "Sat, 31 Oct 2026 16:04:49 +0800",
+     "summary": "10月30日晚，长安汽车披露2026年三季报。第三季度，公司营业收入362.5亿元，同比下降14.17%；归母净亏损7.58亿元，扣非后归母净亏损9.52亿元。公司同期发布的经营信息显示，三季度营收环比增长10.1%。 在整体业绩承压的同时，部分新能源平台已出现盈利进展。从长安汽车方面了解到，目前启源A06、Q06所在平台已经实现盈利，后续同平台新车型的边际成本将持续降低。 对于前三季度的净利润变化，长安汽车在财报中列出的主要原因是销量下降、原材料涨价及汇兑损失增加。持续的研发支出也反映在报表中：前三季度研发费用为52.61亿元，较上年同期的50.39亿元增加约4.4%。 在长安汽车总裁叶沛看",
+     "source": "华尔街见闻",
+     "zh": "长安汽车短期业绩承压，部分新能源平台已盈利"
+    },
+    {
+     "title": "The right to be apolitical",
+     "link": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
+     "pubDate": "Sat, 31 Oct 2026 05:01:09 GMT",
+     "summary": "The film ‘Fatherland’ is too harsh on the uncommitted",
+     "source": "Financial Times",
+     "zh": "The right to be apolitical"
+    },
+    {
+     "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+     "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+     "pubDate": "Sat, 31 Oct 2026 05:00:31 GMT",
+     "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+     "source": "Financial Times",
+     "zh": "Is this the first clear evidence of AI’s impact on the labour market?"
+    },
+    {
+     "title": "Donald Trump’s endgame",
+     "link": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
+     "pubDate": "Sat, 31 Oct 2026 05:00:20 GMT",
+     "summary": "What will the US president’s last two years in Washington look like?",
+     "source": "Financial Times",
+     "zh": "Donald Trump’s endgame"
+    },
+    {
+     "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+     "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+     "pubDate": "Sat, 31 Oct 2026 00:05:08 GMT",
+     "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
+     "source": "Financial Times",
+     "zh": "OpenAI slashes funding target by $10bn as tech anxieties mount"
+    },
+    {
+     "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
+     "link": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
+     "pubDate": "Fri, 30 Oct 2026 15:30:00 -0400",
+     "summary": "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of U.S. Treasury securities by issuing exemptive relief related to inter-affiliate repo…",
+     "source": "SEC",
+     "zh": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions"
     }
    ]
   },

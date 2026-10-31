@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/1 03:34:05",
+ "generated_at": "2026/11/1 04:33:14",
  "recent_days": 7,
  "industries": [
   {
@@ -32,6 +32,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智能体的规模正在快速扩张。IDC预测，到2030年，全球活跃Agent数量将达到 22.16亿个 ，年复合增长率达到 139% ，年均增长超1倍。 各类智能体也在密集涌现，热度一路走高。从编程、办公到个人助手，从消费端到企业端，智能体正快速进入各个场景，成为今年AI落地的重点方向。 与热度同步攀升的，是Token（词元）的消耗量。国家数据局披露，到今年3月，我国日均Token调用量已超过 140万亿 ，较2024年初增长 1000多倍 ；中国信通院的监测则显示，到今年6月，这一数字已达 500万亿 。如此庞大的调用量说明， 智能体已经走出概念演示，开",
      "source": "智东西",
      "zh": "智能体年均增长超一倍，百度智能云给智能体配了套新底座"
+    },
+    {
+     "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+     "link": "https://www.qbitai.com/2026/10/506904.html",
+     "pubDate": "Sat, 31 Oct 2026 13:49:44 +0000",
+     "summary": "AI已经自己找到Bug并提交PR",
+     "source": "量子位",
+     "zh": "刚刚，DeepSeek重磅开源：Agent底座架构！"
     },
     {
      "title": "AI如何赋能企业研发？快手团队提出“臭鼬工厂”模式",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkT",
      "source": "MarkTechPost",
      "zh": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare"
-    },
-    {
-     "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
-     "link": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
-     "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
-     "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself.",
-     "source": "KDnuggets",
-     "zh": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant"
     }
    ]
   },
@@ -1746,12 +1746,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "HackerTube: YouTube built from videos recommended by HN",
+     "link": "https://karpathy.bearblog.dev/hacker-tube/",
+     "pubDate": "Sat, 31 Oct 2026 19:56:53 +0000",
+     "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 11 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "HackerTube: YouTube built from videos recommended by HN"
+    },
+    {
      "title": "从选模型到派任务，我的多Agent 工作流走到哪一步",
      "link": "https://www.huxiu.com/article/4902023.html?f=rss",
      "pubDate": "Sun, 01 Nov 2026 03:20:31 +0800",
      "summary": "本文来自微信公众号： DARE to B2B ，作者：申飞 Dare，原文标题：《从选模型到派任务，我的多 Agent 工作流走到哪一步》 头条《当Agent能同时干活，谁来守住人的注意力》谈的是DeepSeek的Super-agent设计：任务多起来以后，系统需要接住分派与交接，把验收节点清楚地留给人。读到这里，我先想到自己每天在几个AI窗口之间来回切换的麻烦。 一篇稿子要查资料、改文字、做图，可能由不同工具接力。换个窗口继续做，就要重新说一遍：哪份是当前稿，哪些判断查过来源，排完版能不能发。即使只用两款AI，这种交接也不会自动发生。写稿的一部分动作交给了工具，补背景、核对状态仍要人来做。 ",
      "source": "虎嗅",
      "zh": "从选模型到派任务，我的多Agent 工作流走到哪一步"
+    },
+    {
+     "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+     "link": "https://epoyraz.github.io/nes-contra-us/",
+     "pubDate": "Sat, 31 Oct 2026 19:18:48 +0000",
+     "summary": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us . Thanks for the great work. I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emu",
+     "source": "Hacker News",
+     "zh": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)"
+    },
+    {
+     "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+     "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+     "pubDate": "Sat, 31 Oct 2026 19:16:30 +0000",
+     "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 63 # Comments: 33",
+     "source": "Hacker News",
+     "zh": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8"
     },
     {
      "title": "当Agent 能同时干活，谁来守住人的注意力",
@@ -1765,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "The Duty of a Scholar",
      "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
      "pubDate": "Sat, 31 Oct 2026 19:07:36 +0000",
-     "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 37 # Comments: 7",
      "source": "Hacker News",
      "zh": "The Duty of a Scholar"
     },
@@ -1781,41 +1805,17 @@ window.INDUSTRY_DATA = {
      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
      "pubDate": "Sat, 31 Oct 2026 18:50:34 +0000",
-     "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 8 # Comments: 1",
+     "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 84 # Comments: 70",
      "source": "Hacker News",
      "zh": "GPT-5.6 Sol can beat Factorio on peaceful mode"
-    },
-    {
-     "title": "Shaun Thomas: Burnt Toast",
-     "link": "https://www.pgedge.com/blog/burnt-toast",
-     "pubDate": "Sat, 31 Oct 2026 18:45:22 +0000",
-     "summary": "Article URL: https://www.pgedge.com/blog/burnt-toast Comments URL: https://news.ycombinator.com/item?id=50318812 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Shaun Thomas: Burnt Toast"
     },
     {
      "title": "It's the Memory Latency, Stupid",
      "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
      "pubDate": "Sat, 31 Oct 2026 18:38:16 +0000",
-     "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 29 # Comments: 3",
      "source": "Hacker News",
      "zh": "It's the Memory Latency, Stupid"
-    },
-    {
-     "title": "I post trained a model on Demoscenes",
-     "link": "https://datavorous.com/writing/demoscener/",
-     "pubDate": "Sat, 31 Oct 2026 18:08:24 +0000",
-     "summary": "Article URL: https://datavorous.com/writing/demoscener/ Comments URL: https://news.ycombinator.com/item?id=50318442 Points: 18 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "I post trained a model on Demoscenes"
-    },
-    {
-     "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-     "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-     "pubDate": "Sat, 31 Oct 2026 18:02:29 +0000",
-     "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 50 # Comments: 32",
-     "source": "Hacker News",
-     "zh": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)"
     },
     {
      "title": "Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units (Jyoti Mann/The Information)",
@@ -1994,6 +1994,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Xbox manager says AI is already being used in game development",
+     "link": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/",
+     "pubDate": "Sat, 31 Oct 2026 20:00:00 +0000",
+     "summary": "Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry.",
+     "source": "Engadget",
+     "zh": "Xbox manager says AI is already being used in game development"
+    },
+    {
+     "title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
+     "link": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate/",
+     "pubDate": "Sat, 31 Oct 2026 19:49:44 +0000",
+     "summary": "Apple just unveiled the new MacBook Pro with PROLED XDR , its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s ",
+     "source": "9to5Mac",
+     "zh": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch"
+    },
+    {
+     "title": "Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar",
+     "link": "https://9to5mac.com/2026/10/31/pumpkin-lights-adds-a-fun-jack-o-lantern-to-your-macs-menu-bar/",
+     "pubDate": "Sat, 31 Oct 2026 19:30:00 +0000",
+     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Pumpkin Lights is a nifty little menu bar app for Mac that lets you quickly toggle between light mode an",
+     "source": "9to5Mac",
+     "zh": "Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar"
+    },
+    {
      "title": "The best Roku Streaming Stick depends on your picture quality needs",
      "link": "https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs/",
      "pubDate": "Sat, 31 Oct 2026 19:00:00 +0000",
@@ -2050,14 +2074,6 @@ window.INDUSTRY_DATA = {
      "zh": "Bolt Graphics powers on its first Zeus GPU"
     },
     {
-     "title": "These Samsung Galaxy Watches won't be getting the new One UI update",
-     "link": "https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/",
-     "pubDate": "Sat, 31 Oct 2026 17:15:00 +0000",
-     "summary": "Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will get the update - except these.",
-     "source": "Engadget",
-     "zh": "These Samsung Galaxy Watches won't be getting the new One UI update"
-    },
-    {
      "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
      "link": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
      "pubDate": "Sat, 31 Oct 2026 15:42:26 +0000",
@@ -2088,14 +2104,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
      "source": "9to5Mac",
      "zh": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain"
-    },
-    {
-     "title": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
-     "link": "https://9to5mac.com/2026/10/31/9to5mac-overtime-088-finally-a-touchscreen-macbook/",
-     "pubDate": "Sat, 31 Oct 2026 14:17:15 +0000",
-     "summary": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display. Is finally having a touchscreen Mac resonating with the Overtime crew? Tune in for a spirited discu",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Overtime 088: Finally, a touchscreen MacBook"
     },
     {
      "title": "Fujifilm Instax Mini Evo 2 review: A hybrid instant camera that changed my mind",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]"
     },
     {
-     "title": "Download all 20 Apple HomeView wallpapers in light and dark mode here",
-     "link": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/",
-     "pubDate": "Sat, 31 Oct 2026 01:03:35 +0000",
-     "summary": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each available in light and dark variations, which you can download below. more…",
-     "source": "9to5Mac",
-     "zh": "Download all 20 Apple HomeView wallpapers in light and dark mode here"
-    },
-    {
      "title": "Pixelated 123: The primary value is the clock",
      "link": "https://9to5google.com/2026/10/30/pixelated-123-the-primary-value-is-the-clock/",
      "pubDate": "Fri, 30 Oct 2026 21:00:00 +0000",
@@ -2242,6 +2242,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+     "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+     "pubDate": "Sat, 31 Oct 2026 20:15:00 GMT",
+     "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+     "source": "MarketWatch",
+     "zh": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?"
+    },
+    {
+     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+     "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+     "pubDate": "Sat, 31 Oct 2026 20:12:37 GMT",
+     "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+     "source": "CNBC",
+     "zh": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution"
+    },
+    {
+     "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+     "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+     "pubDate": "Sat, 31 Oct 2026 20:10:39 GMT",
+     "summary": "",
+     "source": "CNBC",
+     "zh": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice"
+    },
+    {
+     "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+     "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+     "pubDate": "Sat, 31 Oct 2026 19:56:23 GMT",
+     "summary": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+     "source": "CNBC",
+     "zh": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round"
+    },
+    {
+     "title": "欧盟与加拿大宣布“结盟”对抗特朗普",
+     "link": "http://finance.eastmoney.com/news/1351,202611013917659713.html",
+     "pubDate": "Sun, 01 Nov 2026 03:50:02 +0800",
+     "summary": "据参考消息援引法新社10月30日报道，欧盟与加拿大30日宣布结成联盟，旨在巩固双方关系，以应对美国总统特朗普试图切断美国与其老伙伴之间关系的举动。 为期两天的第21届加拿大－欧盟峰会30日在加拿大蒙特利尔闭幕。加拿大总理马克·卡尼在闭幕致辞中表示，加欧双方正在构建“未来联盟”这一全新国家伙伴关系，同时加拿大正努力成为欧盟首个“联席成员”。 加拿大总理卡尼在新闻发布会上说：“世界正变得愈发危险与分裂。我们的社会正受到新风暴的冲击。”他提到“民主规范”不断被侵蚀和“贸易武器化”现象。 双方在当日发表的联合声明中说，加拿大与欧盟启动“未来联盟”计划，涉及贸易和监管合作，数字、研究和 通信 技术，关键",
+     "source": "东方财富股票",
+     "zh": "欧盟与加拿大宣布“结盟”对抗特朗普"
+    },
+    {
+     "title": "谷歌据称洽谈参与“金穹”导弹防御计划 或提供数据安全技术支持",
+     "link": "http://finance.eastmoney.com/news/1354,202611013917659540.html",
+     "pubDate": "Sun, 01 Nov 2026 03:35:48 +0800",
+     "summary": "据媒体报道，谷歌正与美国国防部展开谈判，拟参与一项新的 数据安全 项目，为“金穹”（Golden Dome）导弹防御计划提供支持。 知情人士表示，美国国防部正在筹建一个新的行业联盟，旨在保障“金穹”计划所使用军事软件的 数据安全 。 据悉，该联盟可能涉及多家企业，共同确保新型指挥控制软件所依赖的数据传输系统能够抵御攻击和 通信 中断，包括固定 通信 线路、移动 通信 基站及其他关键通信基础设施遭到破坏的情况。 知情人士称，目前的谈判主要围绕谷歌的数据存储、网络通信和 网络安全 能力展开。不过，相关磋商仍处于早期阶段，具体计划可能发生变化。 此外，知情人士透露，从谷歌分拆出来的网络技术公司Aal",
+     "source": "东方财富股票",
+     "zh": "谷歌据称洽谈参与“金穹”导弹防御计划 或提供数据安全技术支持"
+    },
+    {
+     "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+     "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+     "pubDate": "Sat, 31 Oct 2026 19:30:00 GMT",
+     "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+     "source": "MarketWatch",
+     "zh": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?"
+    },
+    {
      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
      "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
      "pubDate": "Sat, 31 Oct 2026 19:16:25 GMT",
@@ -2250,12 +2306,28 @@ window.INDUSTRY_DATA = {
      "zh": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday"
     },
     {
+     "title": "法国再现大规模示威活动 警方逮捕422人",
+     "link": "http://finance.eastmoney.com/news/1351,202611013917659472.html",
+     "pubDate": "Sun, 01 Nov 2026 03:15:35 +0800",
+     "summary": "当地时间10月31日，法国发生三周以来第三轮全国性大规模示威活动。当天晚间，法国内政部长洛朗·努涅斯表示，在当天法国各地举行的示威活动中，警方累计实施约4万次检查，逮捕422人。 努涅斯表示，当天各地表达诉求的示威游行总体进行顺利，但每支游行队伍中都出现了暴力破坏和抢劫人员。他谴责这些人员的暴力行为，并指出部分地区在示威结束阶段发生冲突。 据法国内政部统计，当天全国约32万人参加示威。学生工会组织则称，全国参与人数接近50万人，其中巴黎约20万人。法国政府此前将当天的示威活动评估为“高风险”，全国部署约7万名警察和宪兵维持秩序。 法国内政部在当天18时发布的情况通报中表示，部分激进人员在波尔多",
+     "source": "东方财富股票",
+     "zh": "法国再现大规模示威活动 警方逮捕422人"
+    },
+    {
      "title": "Key deals this week: INTC, EQT, DASH, GEV, and more",
      "link": "https://seekingalpha.com/news/4661417-key-deals-this-week-intc-eqt-dash-gev-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 31 Oct 2026 15:15:28 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Key deals this week: INTC, EQT, DASH, GEV, and more"
+    },
+    {
+     "title": "利好来了！北京重磅发布",
+     "link": "http://finance.eastmoney.com/news/1355,202611013917659669.html",
+     "pubDate": "Sun, 01 Nov 2026 03:10:00 +0800",
+     "summary": "10月30日，北京市经济和信息化局印发《北京市氢能产业发展实施方案（2026—2030年）》（以下简称《实施方案》），力争到2030年，累计推广燃料 电池 汽车 突破万辆，建成加氢站超40座，实现绿色化工、热电联供等场景规模化应用，全市氢能产业链规模突破400亿元，带动 京津冀 突破1000亿元，构建自主可控、经济高效、绿色安全的 京津冀 氢能全产业链体系。 《实施方案》明确，持续开展氢能创新场景先行先试，推动氢燃料 电池 、氢燃机等创新产品在 数据中心 、热电联供等场景试点示范，拓展氢能叉车、氢能两轮车等应用场景。依托大兴国际氢能示范区、房山氢能 综合 示范区、昌平氢能创新融合示范区等重点场",
+     "source": "东方财富股票",
+     "zh": "利好来了！北京重磅发布"
     },
     {
      "title": "Utilities sector outperforms in October as Exelon leads the gainers and NRG lags",
@@ -2282,20 +2354,20 @@ window.INDUSTRY_DATA = {
      "zh": "This is where most people go wrong in their 30s and 40s"
     },
     {
+     "title": "俄乌同意定期开展人道主义救援行动",
+     "link": "http://finance.eastmoney.com/news/1351,202611013917659370.html",
+     "pubDate": "Sun, 01 Nov 2026 03:01:55 +0800",
+     "summary": "当地时间10月31日，俄罗斯人权事务专员兰特拉托娃通过个人社交账号表示，俄乌双方已同意定期开展人道主义救援行动。 兰特拉托娃表示，阿列什基人道主义任务顺利完成的背后，是历时数月的谈判以及各方为拯救生命共同付出的巨大努力。俄乌已经达成共识，将定期开展人道主义救援行动。她强调，将与乌克兰最高拉达（议会）人权事务专员德米特罗·卢比涅茨保持协作。 兰特拉托娃还指出，阿列什基当地的生活条件依然极其艰难，俄方将竭尽全力，为那些选择留下的居民提供帮助。 阿列什基位于第聂伯河东岸，与乌军控制的赫尔松市隔河相望。俄罗斯在2022年2月24日对乌克兰发起特别军事行动当天控制该市。俄乌10月27日开始在阿列什基局部",
+     "source": "东方财富股票",
+     "zh": "俄乌同意定期开展人道主义救援行动"
+    },
+    {
      "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 19:00:00 GMT",
      "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
      "source": "MarketWatch",
      "zh": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?"
-    },
-    {
-     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-     "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-     "pubDate": "Sat, 31 Oct 2026 18:56:37 GMT",
-     "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
-     "source": "CNBC",
-     "zh": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution"
     },
     {
      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
@@ -2306,6 +2378,14 @@ window.INDUSTRY_DATA = {
      "zh": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?"
     },
     {
+     "title": "联合国秘书长强烈谴责苏丹冲突各方不断升级的无人机袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202611013917659224.html",
+     "pubDate": "Sun, 01 Nov 2026 02:43:03 +0800",
+     "summary": "当地时间10月31日，联合国秘书长古特雷斯通过发言人发表声明，强烈谴责苏丹冲突各方不断升级的 无人机 袭击，以及这些袭击给平民造成的灾难性伤亡。 声明指出，在苏丹全国各地以及阿卜耶伊地区， 无人机 袭击已造成数百名平民死亡，其中包括妇女和儿童。这些袭击违反了国际人道法。 古特雷斯对所有针对平民和包括医疗设施在内的关键基础设施的袭击表示震惊。 古特雷斯呼吁冲突各方保护平民和关键基础设施，立即就停止敌对行动达成协议，以此作为结束这场破坏性冲突的第一步。他再次紧急呼吁冲突各方本着诚意参与调解努力。 声明强调，联合国随时准备支持任何有助于推动实现可持续政治解决方案的努力，确保解决方案反映苏丹人民的愿望",
+     "source": "东方财富股票",
+     "zh": "联合国秘书长强烈谴责苏丹冲突各方不断升级的无人机袭击"
+    },
+    {
      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 18:33:00 GMT",
@@ -2314,28 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment."
     },
     {
-     "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-     "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 18:10:00 GMT",
-     "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-     "source": "MarketWatch",
-     "zh": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years"
-    },
-    {
      "title": "SoftBank-backed OPay shelves IPO plans after regulatory probe",
      "link": "https://seekingalpha.com/news/4661862-softbank-backed-opay-halts-ipo-after-regulatory-probe?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 31 Oct 2026 13:39:11 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SoftBank-backed OPay shelves IPO plans after regulatory probe"
-    },
-    {
-     "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-     "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 17:26:00 GMT",
-     "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
-     "source": "MarketWatch",
-     "zh": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services"
     },
     {
      "title": "Meta built humanoid prototype in robotics push: The Information",
@@ -2362,12 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "Investors trim growth bets over fears of US economy’s AI exposure"
     },
     {
-     "title": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead",
-     "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-     "pubDate": "Sat, 31 Oct 2026 12:49:58 GMT",
-     "summary": "President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.",
-     "source": "CNBC",
-     "zh": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead"
+     "title": "10月31日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202610313917636071.html",
+     "pubDate": "Sat, 31 Oct 2026 20:23:50 +0800",
+     "summary": "今日摘要 1、中央和国家机关党员干部深入学习党的二十届五中全会精神，表示要以习近平党建思想为指引，在落实持之以恒推进全面从严治党的各项部署中走在前、作表率，在新的赶考之路上交出新的更加优异的答卷。 2、“十五五”开局起步之年，算力网提速升级，各地因地制宜推进数字中国建设。 3、我国持续扩大高水平开放，跨国企业加快在中国建设全球创新枢纽，共享中国发展机遇。 4、我国月球探测工程登月阶段任务扎实推进。 5、国际人士表示，二十届五中全会展现了中国共产党坚持全面从严治党的信心和决心。 内容速览 【学习贯彻党的二十届五中全会精神】走在前作表率，奋力谱写持之以恒推进全面从严治党新篇章 党的二十届五中全会审",
+     "source": "东方财富资讯",
+     "zh": "10月31日晚间央视新闻联播要闻集锦"
     },
     {
      "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
@@ -2402,84 +2466,20 @@ window.INDUSTRY_DATA = {
      "zh": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”"
     },
     {
-     "title": "Anthropic&apos;s path to the Nasdaq just got a lot bumpier",
-     "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-     "pubDate": "Sat, 31 Oct 2026 11:00:01 GMT",
-     "summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
-     "source": "CNBC",
-     "zh": "Anthropic&apos;s path to the Nasdaq just got a lot bumpier"
+     "title": "中药板块“高分红梯队”成型 十余家公司股息率超4% 三季报预验业绩底色",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917623148.html",
+     "pubDate": "Sat, 31 Oct 2026 18:47:29 +0800",
+     "summary": "近年来，部分中药企业持续高比例现金分红。在近期市场整体走低的背景下，十余家中药行业上市公司股息率已超4%。在A股市场高股息主线持续受到资金关注的情况下，中药上市公司正在形成一个特征鲜明的高分红梯队。 十余家股息率超4% 高分红从个体行为走向行业群体现象 按2025年分红总金额与昨日（10月30日）公司市值测算， 达仁堂 （600329.SH）全年合计派现约36.89亿元，以11.89%的股息率居首；依次排在其后的是 济川药业 （600566.SH）、 华润江中 （600750.SH）、 东阿阿胶 （000423.SZ）、 以岭药业 （002603.SZ）、 羚锐制药 （600285.SH），股",
+     "source": "东方财富资讯",
+     "zh": "中药板块“高分红梯队”成型 十余家公司股息率超4% 三季报预验业绩底色"
     },
     {
-     "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
-     "link": "https://wallstreetcn.com/articles/3784923",
-     "pubDate": "Sat, 31 Oct 2026 18:20:58 +0800",
-     "summary": "10月28日，彭博报道称，Marvell正与光学器件制造商Lumentum进行深入谈判，考虑通过全股票交易收购后者。报道当时给出的Lumentum市值约为830亿美元，Marvell约为2210亿美元。 这笔潜在交易引发了一个值得关注的问题：一家以定制芯片和高速互连见长的公司，为什么要大举进入激光器和光学器件制造领域？ 10月30日，半导体行业播客Semi Doped邀请市场研究机构Cignal AI的两位分析师Andrew Schmitt和Scott Wilkinson讨论这笔交易。两人的判断是，Marvell希望通过垂直整合，把DSP、激光器和光学组件结合起来，形成更完整的产品体系。 如果",
-     "source": "华尔街见闻",
-     "zh": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”"
-    },
-    {
-     "title": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一",
-     "link": "https://wallstreetcn.com/articles/3784918",
-     "pubDate": "Sat, 31 Oct 2026 17:10:24 +0800",
-     "summary": "美股周五收盘，苹果市值报5.03万亿美元，从英伟达手中夺回全球市值最高公司的头衔。 投资者在AI开支担忧下，转而寻求这家iPhone制造商的相对安全性。 周五的收盘排名因此出现反转，苹果重新位居首位，英伟达退居第二。 收盘换位：苹果小跌，英伟达大跌 周五苹果股价下跌1.23%，收盘市值5.03万亿美元；英伟达收跌4.22%，收盘市值约4.93万亿美元。苹果跌幅明显小于英伟达，两者市值由此换位，苹果领先约0.1万亿美元。英伟达单日市值缩水约2170亿美元。 这是苹果自7月底短暂超越英伟达以来，首次再度登顶。 纳斯达克100指数10月下跌6.7%，为2025年3月以来最差单月，风险偏好承压。 AI",
-     "source": "华尔街见闻",
-     "zh": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一"
-    },
-    {
-     "title": "标普将Meta信用评级展望下调至负面，维持AA-，警告AI开支与自由现金流承压",
-     "link": "https://wallstreetcn.com/articles/3784917",
-     "pubDate": "Sat, 31 Oct 2026 17:04:27 +0800",
-     "summary": "标普全球评级周五将Meta Platforms的AA-信用评级展望由稳定下调至负面，评级本身维持AA-不变。 标普的理由是AI相关高额资本开支推升杠杆，自由经营现金流承压，且Meta将AI投资变现的能力弱于同业。 标普表示，目前尚不清楚这些开支何时才会带来超过成本上升的重大收入。负面展望反映的是资本开支将维持高位多久、自由经营现金流将持续为负多久的不确定性。 同日美股科技股走弱，纳指收跌约3.5%，一度触及技术性回调。 开支攀升与杠杆抬升 标普预测，Meta今年资本开支约1400亿美元，2027年将逾2250亿美元。随着开支扩大，公司杠杆或最早在明年升至1.0倍以上，去年这一数字约为0.1倍。",
-     "source": "华尔街见闻",
-     "zh": "标普将Meta信用评级展望下调至负面，维持AA-，警告AI开支与自由现金流承压"
-    },
-    {
-     "title": "长安汽车短期业绩承压，部分新能源平台已盈利",
-     "link": "https://wallstreetcn.com/articles/3784915",
-     "pubDate": "Sat, 31 Oct 2026 16:04:49 +0800",
-     "summary": "10月30日晚，长安汽车披露2026年三季报。第三季度，公司营业收入362.5亿元，同比下降14.17%；归母净亏损7.58亿元，扣非后归母净亏损9.52亿元。公司同期发布的经营信息显示，三季度营收环比增长10.1%。 在整体业绩承压的同时，部分新能源平台已出现盈利进展。从长安汽车方面了解到，目前启源A06、Q06所在平台已经实现盈利，后续同平台新车型的边际成本将持续降低。 对于前三季度的净利润变化，长安汽车在财报中列出的主要原因是销量下降、原材料涨价及汇兑损失增加。持续的研发支出也反映在报表中：前三季度研发费用为52.61亿元，较上年同期的50.39亿元增加约4.4%。 在长安汽车总裁叶沛看",
-     "source": "华尔街见闻",
-     "zh": "长安汽车短期业绩承压，部分新能源平台已盈利"
-    },
-    {
-     "title": "The right to be apolitical",
-     "link": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
-     "pubDate": "Sat, 31 Oct 2026 05:01:09 GMT",
-     "summary": "The film ‘Fatherland’ is too harsh on the uncommitted",
-     "source": "Financial Times",
-     "zh": "The right to be apolitical"
-    },
-    {
-     "title": "Is this the first clear evidence of AI’s impact on the labour market?",
-     "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
-     "pubDate": "Sat, 31 Oct 2026 05:00:31 GMT",
-     "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
-     "source": "Financial Times",
-     "zh": "Is this the first clear evidence of AI’s impact on the labour market?"
-    },
-    {
-     "title": "Donald Trump’s endgame",
-     "link": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
-     "pubDate": "Sat, 31 Oct 2026 05:00:20 GMT",
-     "summary": "What will the US president’s last two years in Washington look like?",
-     "source": "Financial Times",
-     "zh": "Donald Trump’s endgame"
-    },
-    {
-     "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-     "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
-     "pubDate": "Sat, 31 Oct 2026 00:05:08 GMT",
-     "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
-     "source": "Financial Times",
-     "zh": "OpenAI slashes funding target by $10bn as tech anxieties mount"
-    },
-    {
-     "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
-     "pubDate": "Fri, 30 Oct 2026 15:30:00 -0400",
-     "summary": "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of U.S. Treasury securities by issuing exemptive relief related to inter-affiliate repo…",
-     "source": "SEC",
-     "zh": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions"
+     "title": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917622347.html",
+     "pubDate": "Sat, 31 Oct 2026 18:40:18 +0800",
+     "summary": "10月30日晚间， 长鑫科技 举行2026年第三季度业绩说明会。公司管理层介绍了长期供货协议（长协）进展、第三季度及前三季度业绩、产品结构、毛利率预期和先进产品进展等情况。 长鑫科技 管理层表示， 目前公司长协相关工作进展顺利，已与多家头部客户协商长期供货协议，以锁定中长期确定性需求。在供求延续紧缺和精益制造的双重支撑下，公司预计第四季度毛利率将继续保持稳定。 据披露，2026年第三季度， 长鑫科技 实现营业收入约1187.14亿元，同比增长613.18%；实现归母净利润约544.35亿元，同比扭亏为盈，环比增长约3.01%。今年前三季度，公司实现营业收入2690亿元，同比增长738%；利润总",
+     "source": "东方财富资讯",
+     "zh": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定"
     }
    ]
   },

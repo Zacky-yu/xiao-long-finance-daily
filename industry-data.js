@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 18:09:53",
+ "generated_at": "2026/10/31 18:29:53",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+     "link": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
+     "pubDate": "Sat, 31 Oct 2026 10:10:28 +0000",
+     "summary": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTech",
+     "source": "MarkTechPost",
+     "zh": "Vercel Labs 开源代理桌面，供代理计算机使用"
+    },
     {
      "title": "奥特曼：PC上装内存太浪费，最好留给AI数据中心",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071332&idx=1&sn=0c5de14adcf9ec2ab871ae848864ecc7",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "xs，还要给机器人打绩效",
      "source": "量子位",
      "zh": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单"
-    },
-    {
-     "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
-     "link": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
-     "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
-     "summary": "4 bugs that pass every null check, duplicate check, and schema test.",
-     "source": "KDnuggets",
-     "zh": "每个清洗管道中都存在的无声数据错误"
     }
    ]
   },
@@ -439,7 +439,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 18:52:30 GMT",
      "summary": "For three decades, white LEDs have depended on rare-earth materials such as yttrium aluminium garnet (YAG) layered onto a blue LED chip (Figure 1). Opto-semiconductor device maker Seoul Viosys Co Ltd (SVC) says that it has now broken that dependence by developing and mass producing a chip that emits",
      "source": "Semiconductor Today",
-     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10μm"
+     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10微米"
     },
     {
      "title": "SEMICON West 2026: AI Made the Steps Faster. The Time Between Them Is Next.",
@@ -871,7 +871,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 03:08:04 +0000",
      "summary": "Toyota Motor Corporation (“Toyota”) and Waymo today announced the next phase of their autonomous driving collaboration, in pursuit of a world with safer streets and freedom of movement for all. Building on the preliminary agreement announced in April 2025, Toyota and Waymo will begin initial operati",
      "source": "CleanTechnica",
-     "zh": "丰田与 Waymo 推进自动驾驶合作，以实现更安全的街道和所有人的行动自由"
+     "zh": "丰田和 Waymo 推进自动驾驶合作，以实现更安全的街道和所有人的行动自由"
     },
     {
      "title": "The Share of Solar Generation with Co-located Battery Storage Is Increasing",
@@ -1231,7 +1231,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 11:12:36 +0000",
      "summary": "It’s been six months since Belén Garijo took over as the CEO of Sanofi, and the French drugmaker said Friday it is not planning “major” changes to its business or R&D pipeline as the early ...",
      "source": "Endpoints News",
-     "zh": "Dupixent 专利悬崖迫近，赛诺菲“没有重大重组计划”"
+     "zh": "Dupixent 专利悬崖迫在眉睫，赛诺菲“没有重大重组计划”"
     },
     {
      "title": "With Setara, the team behind Actio opens its second act",
@@ -1359,7 +1359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 20:29:58 +0000",
      "summary": "India launched the NVS-03 navigation satellite to orbit today (Oct. 30) atop a GSLV rocket. It was the fourth orbital launch from Indian soil so far this year.",
      "source": "Space.com",
-     "zh": "印度发射下一代导航卫星进入轨道（视频）"
+     "zh": "印度将下一代导航卫星发射入轨（视频）"
     },
     {
      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
@@ -1607,7 +1607,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 11:58:20 -0400",
      "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
      "source": "BleepingComputer",
-     "zh": "Trezor 警告称硬件钱包中可能存在加密盗窃植入"
+     "zh": "Trezor 警告硬件钱包中疑似存在加密盗窃植入"
     },
     {
      "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
@@ -1746,6 +1746,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "机械革命推出 JG02M 与 JG03M 电竞鼠标：54g 轻量化，79.9 元起",
+     "link": "https://www.ithome.com/1/020/578.htm",
+     "pubDate": "Sat, 31 Oct 2026 10:23:04 GMT",
+     "summary": "IT之家 10 月 31 日消息，机械革命推出了 JG02M 和 JG03M 两个系列的电竞鼠标，外观基本一致。JG02M 普通版 79.9 元，Pro 版 99.9 元，JG03M 标准版 89.9 元，Pro 版 109 元，均已开售。 京东 机械革命（MECHREVO）JG02M 白 轻量化旗舰游戏鼠标三模无线电竞鼠标中小手人体工学鼠标电脑笔记本通用鼠标低延迟长续航 79.9 元 直达链接 JG02M 主打轻量化，整机重量 54g±2g，通过优化壳体结构与材料工艺控制重量。标准版搭载定制电竞传感器，Pro 版升级为 PAW3315，两者均支持 16000DPI、300IPS 追踪速度和 ",
+     "source": "IT之家",
+     "zh": "机械革命推出 JG02M 与 JG03M 电竞鼠标：54g 轻量化，79.9 元起"
+    },
+    {
+     "title": "日本预约期素材本地化后CTR反而掉了，是画风还是投放节奏的问题？",
+     "link": "https://www.baijing.cn/question/638558",
+     "pubDate": "Sat, 31 Oct 2026 10:21:06 +0000",
+     "summary": "我们是一款二次元卡牌手游，日本市场上线前预约期还有6周，团队12人，市场预算约80万人民币，主要投Meta和X（原Twitter），Google UAC刚开。第一版素材直接用国内版PV剪的15秒竖版，日本CTR约0.9%，CPA 420日元；后来请日本本地画师重绘了主视觉、换成日语配音和本地梗文案，CTR反而掉到0.6%，CPA涨到680日元，预约转化率从12%掉到7%。已经试过拆分素材维度（纯角色立绘 vs 剧情切片 vs 玩法演示），也试过把投放时段压到日本晚间20-24点，都没拉回来。现在卡在不知道该继续加码本地化画风，还是回到国内素材框架只做语言替换。想问的是：日本预约期素材的本地化程",
+     "source": "白鲸出海",
+     "zh": "日本预约期素材本地化后CTR反而掉了，是画风还是投放节奏的问题？"
+    },
+    {
+     "title": "当“做空机构”变成舆情敲诈",
+     "link": "https://www.huxiu.com/article/4901967.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 18:17:10 +0800",
+     "summary": "本文来自微信公众号： 匹夫老六说财税 ，作者：匹夫老六 前两天听说有一批财经领域的博主集体停更被带走调查了。 据事儿哥说（也就是投行事儿哥，著名金融网黄，哈哈），那些自媒体的负责人绝大多数都已被警方抓捕。 里面不乏一些熟悉的账号，就不列举了哈，你们搜一搜能看到类似的消息。 被带走调查的原因，很简单就是付费删文章。 他们日常会发一些企业的分析内容，进行评价，吐槽，往往看似客观，但其实主旨还是比较负面的。 这样的账号，大家肯定看过吧？他们会针对企业的各种数据提出各种各样的质疑，到这一步，其实是可以算舆论监督，公共监督的。 恰逢这些企业呢大多在冲击ipo，就会联系他们进行沟通，把这些质疑的内容删除掉",
+     "source": "虎嗅",
+     "zh": "当“做空机构”变成舆情敲诈"
+    },
+    {
+     "title": "涉电动汽车、App 适老化等，500 多项国家标准下月实施",
+     "link": "https://www.ithome.com/1/020/577.htm",
+     "pubDate": "Sat, 31 Oct 2026 10:16:48 GMT",
+     "summary": "IT之家 10 月 31 日消息，据央视新闻援引国家标准委，11 月 1 日起，54 项强制性国家标准、465 项推荐性国家标准和 1 项指导性技术文件开始实施。 《拖拉机噪声限值》《收获机械噪声限值》强制性国家标准分别规定了拖拉机、收获机械动态环境噪声限值和驾驶员操作位置处噪声限值及相应测量方法。《土方机械噪声限值》强制性国家标准规定了土方机械的机外发射噪声限值和司机位置噪声限值及相应测量方法。标准的实施有利于切实保护拖拉机、收获机械、土方机械等机械装备操作人员的健康，对规范国内相关机械装备生产，引领技术进步，促进相关产品出口具有积极作用。 《家用和类似用途吸油烟机与换气扇能效限定值及能效等",
+     "source": "IT之家",
+     "zh": "涉电动汽车、App 适老化等，500 多项国家标准下月实施"
+    },
+    {
+     "title": "“开车12小时，反而亏了15元，”主持人跑网约车被气破防，为何挣钱变难了？",
+     "link": "https://www.huxiu.com/article/4901965.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 18:13:36 +0800",
+     "summary": "本文来自微信公众号： 新浪财经 ，作者：周文猛，原文标题：《“开车12小时，反而亏了15元！”主持人跑网约车被气破防，为何挣钱变难了？》 近日，帮网约车司机维权十余年的杭州某媒体主持人于洋，开直播跑网约车，结果却被账单“整无语了”。 12小时内，他只接到了9单，流水共计139元。扣除租车、充电、吃饭等成本后反而倒亏了15.73元，尤其在晚高峰跑了半小时的特惠单，乘客支付13.8元后到手仅10.5元，被平台23.9%，这种抽成比例“被气到破防”。 伴随其将该经历分享至网络平台，近六成网友公开谴责网约车平台作为，认为平台“高额抽成剥削司机”。 真实情况果真如此？多位杭州、北京网约车司机在与《BUG",
+     "source": "虎嗅",
+     "zh": "“开车12小时，反而亏了15元，”主持人跑网约车被气破防，为何挣钱变难了？"
+    },
+    {
+     "title": "A24拍出的“年度最诡异”纪录片说了什么？",
+     "link": "https://www.huxiu.com/article/4901964.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 18:10:18 +0800",
+     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《评分影史第一！A24 拍出的「年度最诡异」纪录片说了什么？》 2026年9月6日，一批参加特柳赖德电影节的观众受邀进入影厅，观看一部从未公布消息的神秘电影。 进入影厅前，手机要放入防偷拍锁袋保管，现场还有戴着夜视镜的安保人员来回巡查，防止可能的盗录。 直到主创内森·菲尔德（Nathan Fielder）和兰斯·奥本海姆（Lance Oppenheim）现身，这部由著名精品电影发行商A24秘密制作三年的电影才终于揭开面纱—— 《你能看到一切》（You Can See Everything） 长达174分钟的纪录片中，",
+     "source": "虎嗅",
+     "zh": "A24拍出的“年度最诡异”纪录片说了什么？"
+    },
+    {
      "title": "索尼招聘 PlayStation 高级总监，负责 PS 商店“智能定价”",
      "link": "https://www.ithome.com/1/020/575.htm",
      "pubDate": "Sat, 31 Oct 2026 10:08:46 GMT",
@@ -1754,12 +1802,28 @@ window.INDUSTRY_DATA = {
      "zh": "索尼招聘 PlayStation 高级总监，负责 PS 商店“智能定价”"
     },
     {
+     "title": "影视城全在数字化，为何横店争议最大？",
+     "link": "https://www.huxiu.com/article/4901954.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 18:06:55 +0800",
+     "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 春江水暖鸭先知，提到影视行业现状的实体参照，横店影视城总是那个绕不开的话题。 10月28日，#横店和字节合作把15万个群演喂给AI#登上微博热搜；同日之内，豆包公关负责人回应，直指该说法严重失实。话题并未因此沉寂，横店如何保证大规模群演的知情和授权，如何界定授权使用的边界，群演们的生存空间是否就此受到挤压，这些疑问与不安仍在发酵。 将视野放大能够发现，全国各地的影视城都在进行数字化转型，AI演员的应用已经落地。AI技术升级带来的红利能否惠及行业底层？数字形象授权与复用的配套制度，能否跟上AI技术迭代的速度？ 回到横店本身，AI赋能全产业",
+     "source": "虎嗅",
+     "zh": "影视城全在数字化，为何横店争议最大？"
+    },
+    {
      "title": "沙特专线清关卡了9天，COD回款周期被拖到45天，该换物流商还是改预付？",
      "link": "https://www.baijing.cn/question/638557",
      "pubDate": "Sat, 31 Oct 2026 10:05:53 +0000",
      "summary": "做中东独立站家居小件，团队6人，日订单200-300单，沙特和阿联酋各占一半。用的深圳一家中东专线，头程空运到利雅得清关，最近一批货在沙特海关卡了9天，原因说是SABER证书上的品名和发票不一致，补资料又耽误3天，整体签收时效从12天拉到21天以上。我们走的是COD，物流商回款周期原本签收后7天结算，现在因为签收延迟，实际回款拖到45天，现金流压了将近40万。已经试过换发票模板、提前做SABER认证，但清关行反馈沙特这边对家居类目查验率明显上升。现在纠结的是：继续用这家专线但把COD改成预付（担心沙特用户拒付率高），还是换一家在利雅得有自己清关行的物流商，把时效和回款周期压回30天以内？想听做",
      "source": "白鲸出海",
      "zh": "沙特专线清关卡了9天，COD回款周期被拖到45天，该换物流商还是改预付？"
+    },
+    {
+     "title": "职业差评灰产调查：团队暗语交流，20元刷差评商家需50元删掉",
+     "link": "https://www.huxiu.com/article/4901962.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 18:03:00 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：蔡星卓 王思思 几条差评即可摧毁一家小店。 2026年10月，四川宜宾炸串摊主胡女士因顾客在多平台发布“避雷”差评后轻生。同月，车评人韩路自称其烤串新店试营业前，各平台已冒出多条“已经吃过了”的差评。 对依靠线上平台的小店而言，评分与流量高度绑定，几条差评可能直接冲击经营，成为“致命”伤害。而差评的来源不只是普通消费者：除职业差评人外，还有“白嫖党”，甚至有人专门以差评进行敲诈勒索。 界面新闻调查发现，围绕差评与好评，有一条明码标价的灰色产业链：链条上游是有需求的委托方，中游是中介和服务商，下游是“刷手”（刷单者）和职业差评人，并最终通过平台评价体系显现",
+     "source": "虎嗅",
+     "zh": "职业差评灰产调查：团队暗语交流，20元刷差评商家需50元删掉"
     },
     {
      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
@@ -1810,22 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "沙特阿联酋回款周期拉长到 20 多天，5 人小团队该不该专门排一个人盯对账？"
     },
     {
-     "title": "奇瑞执行副总裁戚士龙：明年将与华为做一些新的车型进来，来丰富整个产品体系",
-     "link": "https://www.ithome.com/1/020/566.htm",
-     "pubDate": "Sat, 31 Oct 2026 09:41:45 GMT",
-     "summary": "IT之家 10 月 31 日消息，据新浪科技今日报道，发布第三季度财报后，奇瑞汽车股份有限公司执行副总裁戚士龙，奇瑞控股集团新闻发言人金弋波与媒体对话。 谈及智界获取独立造车资质一事，奇瑞汽车股份有限公司执行副总裁戚士龙表示，通过智界这几年的运营来看，本质上反映出奇瑞能力提升的过程。“比如说做十几万车，二十几万车，我们原来没有经验，现在通过智界 V9、智界 RX 这两款车的打磨，更多还依赖于我们自身能力的增长，是我们自身能力往上涨的一个过程。” 另外，他透露， 明年奇瑞也将与华为做一些新的车型进来 ，来丰富整个产品体系。“目前来说，因为整个规模还不够，所以研发投入比较大，目前从盈利角度来说，还",
-     "source": "IT之家",
-     "zh": "奇瑞执行副总裁戚士龙：明年将与华为做一些新的车型进来，来丰富整个产品体系"
-    },
-    {
-     "title": "丰田大举“逆电动化”：要开发新一代内燃机，还打算卖给其他车企",
-     "link": "https://www.ithome.com/1/020/557.htm",
-     "pubDate": "Sat, 31 Oct 2026 09:35:18 GMT",
-     "summary": "IT之家 10 月 31 日消息，目前，大多数车企都选择改进现有发动机，以满足包括欧 7 等一系列严格的排放要求。考虑到电动化转型需要巨额投资，车企又普遍希望压缩研发开支，全新系列发动机越来越少见。 丰田却反其道而行， 不仅要开发新一代内燃机，还打算卖给其他车企 。 当地时间 26 日，据外媒 Automotive News 报道，丰田希望到 2032 年实现每年约 15 亿欧元 （IT之家注：现汇率约合 111.66 亿元人民币） 的对外动力总成销售收入。今年的订单目标为 5 亿欧元 （现汇率约合 37.22 亿元人民币） ，新一代发动机及混动系统最早计划于 2027 年交付。 日本多家汽车",
-     "source": "IT之家",
-     "zh": "丰田大举“逆电动化”：要开发新一代内燃机，还打算卖给其他车企"
-    },
-    {
      "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
      "link": "https://www.wired.com/review/keurig-alta-brewer/",
      "pubDate": "Sat, 31 Oct 2026 09:35:00 +0000",
@@ -1874,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "中东阿语配音返工两轮仍被沙特玩家吐槽口音，5人团队该怎么排配音工期？"
     },
     {
-     "title": "不过是分手，为何如此心碎？",
-     "link": "https://www.huxiu.com/article/4901955.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 17:19:15 +0800",
-     "summary": "本文来自微信公众号： 神经现实 ，编译：EY，作者：Zoonen 我为母亲哀伤了许多年，尽管她还活着。有时，在入睡前那片介于清醒与睡眠之间、自我的边界变得松动的地带，我会看见那个温柔体贴的女人：她走来道晚安，脸颊上厚厚地涂着晚霜。紧接着，毫无预兆地，眼前又变成那个暴怒的女人。她深陷自己的痛苦，把挫败感发泄在我们身上。这些年，随着她被卷入我兄弟的成瘾问题，第二个女人慢慢吞没了第一个。很难说她自身的不幸在哪里结束，我兄弟的痛苦又从哪里开始；但他们一起漂进了一个平行现实，与头脑之外的世界隔绝。没有人为此举行葬礼。没有慰问卡，没有鲜花，没有电话，也没有假可以请。我究竟该悼念什么？ 然而，我对他们曾经有",
-     "source": "虎嗅",
-     "zh": "不过是分手，为何如此心碎？"
-    },
-    {
      "title": "东南亚找 SaaS 渠道代理，投放花了 4 万多却只换来 11 条有效线索，该继续投吗？",
      "link": "https://www.baijing.cn/question/638553",
      "pubDate": "Sat, 31 Oct 2026 09:14:09 +0000",
@@ -1890,52 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "东南亚找 SaaS 渠道代理，投放花了 4 万多却只换来 11 条有效线索，该继续投吗？"
     },
     {
-     "title": "北京网约车现状",
-     "link": "https://www.huxiu.com/article/4901949.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 17:13:52 +0800",
-     "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，原文标题：《北京网约车现状》 最近打车比较多，跟滴滴师傅们都聊天，记录如下： 1、不少专车师傅改轻享了，轻享乘客价格比专车低20%左右，专车订单在减少，轻享与专车都需要B级车，除了价格和客单数量差异，轻享不用准备矿泉水、不用完整话术、不用每个月开会。 2、快车价格大幅下降，尤其是特惠快车越来越多，对轻享和专车冲击很大。部分特惠快车价格甚至能到出租车价格一半左右，对出租车冲击也很大。 3、网约车越来越多，乘客越来越少，这是网约车师傅共同的感觉。这个国庆一些师傅没回家想挣点钱，结果外地游客很少，只有前两天打车的人多一些。 4、打车人数在减少，平台就",
-     "source": "虎嗅",
-     "zh": "北京网约车现状"
-    },
-    {
      "title": "押注睡着的8小时，前小米王腾闯入千亿AI睡眠赛道",
      "link": "https://www.tmtpost.com/8188399.html",
      "pubDate": "Sat, 31 Oct 2026 17:09:30 +0800",
      "summary": "从小米出来后，王腾看上了睡着的那8小时生意。",
      "source": "钛媒体",
      "zh": "押注睡着的8小时，前小米王腾闯入千亿AI睡眠赛道"
-    },
-    {
-     "title": "Anthropic 早期投资人深度访谈：三家出资人各赚超10亿美元，70多家大模型后来者大多不会有好结局",
-     "link": "https://www.huxiu.com/article/4901953.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 17:09:11 +0800",
-     "summary": "本文来自微信公众号： AGI 2050 ，作者：AGI 2050，原文标题：《Anthropic 早期投资人深度访谈：三家出资人各赚超 10 亿美元，70 多家大模型后来者大多不会有好结局》 本周，Anthropic正式公开递交上市招股书。而在2023年，这家公司还没有一分钱收入，产品也尚未公开发布，以超过40亿美元的估值投资它，在当时的风险投资行业是一场极不寻常的冒险。 主导这笔关键投资的，是拥有50年历史的硅谷老牌风险投资机构Menlo Ventures的合伙人马特·墨菲。作为亲历过1999年互联网泡沫、在凯鹏华盈时列席了谷歌从投资到上市每一场董事会的资深投资人，墨菲不仅在Anthropi",
-     "source": "虎嗅",
-     "zh": "Anthropic 早期投资人深度访谈：三家出资人各赚超10亿美元，70多家大模型后来者大多不会有好结局"
-    },
-    {
-     "title": "这下旅客更选高铁了",
-     "link": "https://www.huxiu.com/article/4901952.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 17:06:28 +0800",
-     "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 很早以前，我们一直有个段子。每当谈到怎样避免航班延误耽误行程，每当旅客问我们如何在雷雨季顺利出行，我们乘务员特别喜欢脱口而出： 麻烦去坐高铁。 现在，这句话已经不是玩笑话，已经是板上钉钉的现实，我看着这句话也笑不出来，因为——燃油附加费又涨了： 自11月5日零时起出票的国内客票，800公里（含）以下航线，每位成人旅客收取80元；800公里以上收取140元，比目前分别增加30元和50元。 涨价了，航空公司乐了吗？ 当然不，航司也很惨。俩成年人出行，往返800公里以上行程，仅仅是燃油附加费一样，就560块——机票才多少钱，高铁票才多少钱。 旅客查",
-     "source": "虎嗅",
-     "zh": "这下旅客更选高铁了"
-    },
-    {
-     "title": "雅典城邦时代，无知者总是洋洋自得虚荣傲慢，现在也一样",
-     "link": "https://www.huxiu.com/article/4901951.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 17:06:28 +0800",
-     "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞，编辑：郑大钱 生活的时代，正是雅典文明的崛起时代。历史学家雅各布·布克哈特写道，雅典人民“相信自己是身具神职的民族，在大饥荒时期，阿波罗曾赋予他们代表所有希腊人和野蛮人宣誓的权利……他们不仅最先种植了橄榄和无花果，还发明了法律和正义”。 詹姆斯·米勒在《经过检视的人生：从苏格拉底到尼采》一书中写道：“事实上，他们还发明了‘哲学’。” 苏格拉底被视为第一个以哲学家身份著称的人，《经过检视的人生》中写道：“虽然他生长在这座城市的黄金时代，但古代文献一致认为他的出身或成长经历并没有什么闪光点。他是苏浮洛尼思克思和法依娜里特所生的孩子，他们分",
-     "source": "虎嗅",
-     "zh": "雅典城邦时代，无知者总是洋洋自得虚荣傲慢，现在也一样"
-    },
-    {
-     "title": "欧洲商标被抢注后，只有两个人手的团队该怎么排应对节奏？",
-     "link": "https://www.baijing.cn/question/638552",
-     "pubDate": "Sat, 31 Oct 2026 09:02:57 +0000",
-     "summary": "上周收到德国本地服务商转来的警告函，说我们在德国站用的品牌名已被第三方在德国专利商标局（DPMA）注册，要求我们停止使用，否则走临时禁令。我们做智能宠物饮水机，欧洲（德国/法国/英国/西班牙）月销约8万欧元，刚进入起量阶段，团队总共6个人，其中负责合规和法务的只有1个兼职运营，我自己兼着投放和供应链。目前已经做的是：让服务商查了对方注册类别（第11类，和我们主品类重叠）、翻出我们2022年就在英国和西班牙的销售记录和包装设计稿，也问了律师，对方报价先做异议+无效宣告，周期6-9个月，费用大概1.2万欧起。卡在排期上：如果走无效宣告，这半年德国站要不要先改名止损？改名涉及Listing、包装、C",
-     "source": "白鲸出海",
-     "zh": "欧洲商标被抢注后，只有两个人手的团队该怎么排应对节奏？"
     },
     {
      "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
@@ -1954,10 +1954,18 @@ window.INDUSTRY_DATA = {
      "zh": "白矮星不仅仅是白色的。科学家发现垂死恒星变成粉红色和绿色"
     },
     {
+     "title": "How long do you need to hold down the power button to turn off a PC?",
+     "link": "https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/",
+     "pubDate": "Sat, 31 Oct 2026 08:43:32 +0000",
+     "summary": "Article URL: https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/ Comments URL: https://news.ycombinator.com/item?id=50314243 Points: 11 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "您需要按住电源按钮多长时间才能关闭电脑？"
+    },
+    {
      "title": "Switch Lowering in GCC",
      "link": "https://xoranth.net/gcc-switch/",
      "pubDate": "Sat, 31 Oct 2026 08:02:26 +0000",
-     "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 40 # Comments: 1",
+     "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 58 # Comments: 4",
      "source": "Hacker News",
      "zh": "GCC 中的开关降低"
     },
@@ -1973,17 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "Digital Minimalism",
      "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
      "pubDate": "Sat, 31 Oct 2026 06:16:36 +0000",
-     "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 28 # Comments: 11",
+     "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 45 # Comments: 21",
      "source": "Hacker News",
      "zh": "数字极简主义"
-    },
-    {
-     "title": "When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and \"being used 5% of the time\" (Andrew E. Freedman/Tom&apos;s Hardware)",
-     "link": "https://www.techmeme.com/261031/p5#a261031p5",
-     "pubDate": "Sat, 31 Oct 2026 02:10:48 -0400",
-     "summary": "Andrew E. Freedman / Tom's Hardware : When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and &ldquo;being used 5% of the time&rdquo; &nbsp; &mdash;&nbsp; With data centers full of RAM, your PC is apparently the problem. &hel",
-     "source": "Techmeme",
-     "zh": "在谈到本地推理时，Sam Altman 表示，供应受限的 DRAM 更适合在数据中心使用，而不是放在 PC 中并“仅在 5% 的时间内使用”（Andrew E. Freedman/Tom's Hardware）"
     }
    ]
   },
@@ -2242,6 +2242,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
+     "link": "https://wallstreetcn.com/articles/3784923",
+     "pubDate": "Sat, 31 Oct 2026 18:20:58 +0800",
+     "summary": "10月28日，彭博报道称，Marvell正与光学器件制造商Lumentum进行深入谈判，考虑通过全股票交易收购后者。报道当时给出的Lumentum市值约为830亿美元，Marvell约为2210亿美元。 这笔潜在交易引发了一个值得关注的问题：一家以定制芯片和高速互连见长的公司，为什么要大举进入激光器和光学器件制造领域？ 10月30日，半导体行业播客Semi Doped邀请市场研究机构Cignal AI的两位分析师Andrew Schmitt和Scott Wilkinson讨论这笔交易。两人的判断是，Marvell希望通过垂直整合，把DSP、激光器和光学组件结合起来，形成更完整的产品体系。 如果",
+     "source": "华尔街见闻",
+     "zh": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”"
+    },
+    {
+     "title": "上海首座外海大型灯浮完成抛设",
+     "link": "http://finance.eastmoney.com/news/1350,202610313917618290.html",
+     "pubDate": "Sat, 31 Oct 2026 17:56:50 +0800",
+     "summary": "上海首座外海大型灯浮10月30日完成抛设。这座直径10米、高逾12米的大型灯浮，位于长江口外的临海津广外航路水域，搭载了VHF基站、5G增强终端等多种设备，为东海航海保障服务提供有力的安全支持。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "上海首座外海大型灯浮完成抛设"
+    },
+    {
+     "title": "印度取消汽油出口税 上调航空燃油和柴油出口税",
+     "link": "http://finance.eastmoney.com/news/1356,202610313917617984.html",
+     "pubDate": "Sat, 31 Oct 2026 17:43:30 +0800",
+     "summary": "据报道，印度取消汽油出口税，上调航空燃油和柴油出口税。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "印度取消汽油出口税 上调航空燃油和柴油出口税"
+    },
+    {
+     "title": "周末打虎，原中石化董事长傅成玉被查（附简历）",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917617360.html",
+     "pubDate": "Sat, 31 Oct 2026 17:43:06 +0800",
+     "summary": "据中央纪委国家监委网站31日消息，原 中国石油 化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 傅成玉，1951年生，高级经济师，硕士研究生毕业。1983年起先后在 中国海洋石油 总公司与阿莫科、 雪佛龙 、德士古、菲利普斯、 壳牌 和阿吉普等外国大石油公司的合资项目中任联合管理委员会主席； 1994年至1995年，任 中国海洋石油 南海东部公司副总经理； 1995年12月起任美国菲利普斯公司国际石油（亚洲）公司副总裁兼西江开发项目总经理； 1999年4月起任 中国海洋石油 南海东部公司总经理； 1999年9月起任中国海洋石油有限公司执行董事",
+     "source": "东方财富股票",
+     "zh": "周末打虎，原中石化董事长傅成玉被查（附简历）"
+    },
+    {
+     "title": "猪价磨底，上市猪企合计亏损257亿！新希望26亿定增“蓄力”，资产负债率逆势下降",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917617531.html",
+     "pubDate": "Sat, 31 Oct 2026 17:37:46 +0800",
+     "summary": "2026年的生猪行业，仍在周期底部徘徊。 10月30日， 新希望 （000876.SZ）披露2026年三季报：前三季度实现营业收入876.98亿元，同比增长8.94%；归母净利润亏损25.68亿元，亏损主要源于生猪销售价格下降。 农业农村部数据显示，2026年1～9月，全国生猪出厂价格从13.10元/公斤降至11.05元/公斤；全国批发市场白条猪价格从18.18元/公斤降至16.33元/公斤；仔猪价格从24.99元/公斤降至20.51元/公斤。价格下行叠加供给宽松，养猪业再度陷入全行业亏损。 时代财经梳理发现，截至10月30日， 生猪养殖 行业已有23家上市公司披露三季报，前三季度营收合计50",
+     "source": "东方财富股票",
+     "zh": "猪价磨底，上市猪企合计亏损257亿！新希望26亿定增“蓄力”，资产负债率逆势下降"
+    },
+    {
+     "title": "中泰证券资管总经理，定了",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917617677.html",
+     "pubDate": "Sat, 31 Oct 2026 17:36:46 +0800",
+     "summary": "【导读】吴昱任 中泰证券 资管总经理，姜诚辞任 中泰证券 资管副总经理及代行总经理职务 10月31日， 中泰证券 （上海） 资产管理 有限公司（以下简称中泰证券资管）公告，吴昱任总经理。姜诚因个人原因，主动辞去公司副总经理（代行总经理）职务。 新任总经理吴昱来自中泰证券，长期深耕资本市场领域，在投行固收领域具有丰富的从业经验，曾任 中国银行 间市场交易商协会非金融企业债务融资工具注册专家，多次兼任资产证券化论坛轮值理事，对市场定价与价值判断有较为深刻的理解。 简历显示，吴昱曾任 中信证券 股份有限公司投资 银行 委员会高级经理、副总裁、高级副总裁。2015年8月入职中泰证券股份有限公司，曾任公",
+     "source": "东方财富股票",
+     "zh": "中泰证券资管总经理，定了"
+    },
+    {
      "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
      "link": "http://finance.eastmoney.com/news/1349,202610313917614941.html",
      "pubDate": "Sat, 31 Oct 2026 17:32:25 +0800",
@@ -2338,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "财报炸裂，但闪迪隔夜为何暴跌？"
     },
     {
-     "title": "AI股重挫而等权标普逆势涨1.2%，必需消费领涨并一度创新高",
-     "link": "https://wallstreetcn.com/articles/3784912",
-     "pubDate": "Sat, 31 Oct 2026 14:57:15 +0800",
-     "summary": "周五早盘，AI股再遭重挫，纳斯达克100指数下跌3%，等权重标普500指数却逆势上涨约1.2%。指数之下的分化表明，跌幅高度集中在大型科技股和AI相关股票上。 标普500指数当时下跌1.5%。英特尔录得有记录以来最大日内跌幅，AI主导的抛售让本周的科技股跌势进一步加深；高盛追踪美国上市AI概念股的GS Broad AI US Index下跌4.7%。 防御板块则受到追捧。必需消费是标普500表现最好的板块，上涨1.64%，板块指数在纽约午盘前一度创下纪录新高。 财报撑起必需消费 标普1500必需消费指数盘中最多上涨2.3%，临近美东时间11点回吐部分涨幅。领涨的是两家刚交出亮眼财报的公司。 高",
-     "source": "华尔街见闻",
-     "zh": "AI股重挫而等权标普逆势涨1.2%，必需消费领涨并一度创新高"
-    },
-    {
      "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
      "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
      "pubDate": "Sat, 31 Oct 2026 06:00:02 GMT",
@@ -2354,12 +2394,20 @@ window.INDUSTRY_DATA = {
      "zh": "特朗普点名石油公司利润丰厚。以下是自那时起他们的炼油收入飙升了多少"
     },
     {
-     "title": "AI is coming to construction sites. But does it make workers safer?",
-     "link": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
-     "pubDate": "Sat, 31 Oct 2026 06:00:02 GMT",
-     "summary": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited.",
-     "source": "CNBC",
-     "zh": "人工智能正在进入建筑工地。但这会让工人更安全吗？"
+     "title": "全球糖税围剿“小甜水”",
+     "link": "http://www.eeo.com.cn/2026/1031/1080636.shtml",
+     "pubDate": "Sat, 31 Oct 2026 13:18:42 +0800",
+     "summary": "多国密集推出糖税，背后是两条相互支撑的主线： 一是公共卫生压力。添加糖摄入超标与肥胖、2型糖尿病、心血管疾病、儿童龋齿的关联已被大量研究证实，由此产生的医疗支出和劳动力损失最终由社会共担，控糖因而不再是个人口味问题，而成为公共政策议题。 二是国际政策共识。世卫组织2025年发起“3by35”倡议，目标是到2035年通过健康税将糖、酒、烟草三类产品的实际价格提高50%；经合组织等机构也将糖税纳入健康税范畴。口径趋同之下，各国获得了现成的政策依据与实施模板，糖税由此从个别试验变为框架内的协同行动。",
+     "source": "经济观察网",
+     "zh": "全球糖税围剿“小甜水”"
+    },
+    {
+     "title": "地方清欠攻坚",
+     "link": "http://www.eeo.com.cn/2026/1031/1080632.shtml",
+     "pubDate": "Sat, 31 Oct 2026 13:17:47 +0800",
+     "summary": "清欠直接关系到企业和居民收入，也影响地方经济的良性循环。在当前“供强需弱”的宏观格局下，这是应当着力推进的问题。",
+     "source": "经济观察网",
+     "zh": "地方清欠攻坚"
     },
     {
      "title": "The right to be apolitical",
@@ -2386,6 +2434,38 @@ window.INDUSTRY_DATA = {
      "zh": "唐纳德·特朗普的终局之战"
     },
     {
+     "title": "康明斯在华本土化更进一步：S29发动机由中国团队牵头，目标100%国产化",
+     "link": "http://www.eeo.com.cn/2026/1031/1080582.shtml",
+     "pubDate": "Sat, 31 Oct 2026 12:41:23 +0800",
+     "summary": "王涛表示，对于中国主机厂而言，S29提供了一个新机会。过去全球矿山市场基本由卡特彼勒和小松引领，中国主机厂是后来跟随者，要参考他们的整车设计和发动机选型，这对中国主机厂走向全球竞争有一些限制。S29让中国主机厂有机会和全球矿业巨头站在同一起跑线，而且徐工、三一都是最早应用康明斯发动机的合作伙伴，某种程度上会有先发优势。",
+     "source": "经济观察网",
+     "zh": "康明斯在华本土化更进一步：S29发动机由中国团队牵头，目标100%国产化"
+    },
+    {
+     "title": "李凤刚入职一年即离职 北京现代转型再遇挫",
+     "link": "http://www.eeo.com.cn/2026/1031/1080580.shtml",
+     "pubDate": "Sat, 31 Oct 2026 12:41:01 +0800",
+     "summary": "北京现代的困局，并非换个总经理就能解决。核心在于对治理结构进行彻底的改革，以真正实现股东双方深度协同。",
+     "source": "经济观察网",
+     "zh": "李凤刚入职一年即离职 北京现代转型再遇挫"
+    },
+    {
+     "title": "理想新款i6上市：李想低姿态站台，App还被挤崩了",
+     "link": "http://www.eeo.com.cn/2026/1031/1080578.shtml",
+     "pubDate": "Sat, 31 Oct 2026 12:40:34 +0800",
+     "summary": "理想i6不是理想汽车纯电战略的起点，在此之前理想汽车已经推出了MEGA和i8，但理想i6是理想汽车第一个在主流市场成为爆款的纯电产品。理想i6 2025年9月上市后，大定5分钟破万，首日订单超2万辆，远超产能预期。",
+     "source": "经济观察网",
+     "zh": "理想新款i6上市：李想低姿态站台，App还被挤崩了"
+    },
+    {
+     "title": "Alcantara在京举办设计沙龙，探讨材料创新与跨文化设计",
+     "link": "http://www.eeo.com.cn/2026/1031/1080576.shtml",
+     "pubDate": "Sat, 31 Oct 2026 12:40:12 +0800",
+     "summary": "随着国产替代材料的性能逼近，以及中国车企自身品牌信用的积累，Alcantara仅靠“意大利制造”的标签来维持溢价，难度正在加大。如何在跨界设计与本土供应链的夹击中找到不可替代的价值，是这家意大利材料商接下来要回答的问题。",
+     "source": "经济观察网",
+     "zh": "Alcantara在京举办设计沙龙，探讨材料创新与跨文化设计"
+    },
+    {
      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 04:30:00 GMT",
@@ -2400,86 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "First Business 预计贷款年增长率约为 10%，并预计净息差长期保持在 3.60%–3.65% 以上"
-    },
-    {
-     "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-     "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
-     "pubDate": "Sat, 31 Oct 2026 00:05:08 GMT",
-     "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
-     "source": "Financial Times",
-     "zh": "随着科技忧虑加剧，OpenAI 将融资目标削减 100 亿美元"
-    },
-    {
-     "title": "Crude oil jumps as Iran says four tankers struck mines in the Strait of Hormuz",
-     "link": "https://seekingalpha.com/news/4661798-crude-oil-jumps-as-iran-says-four-tankers-struck-mines-in-the-strait-of-hormuz?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 19:55:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "伊朗称四艘油轮在霍尔木兹海峡触雷，原油价格上涨"
-    },
-    {
-     "title": "Acco Brands expects 4%-6% 2026 sales growth as it raises adjusted EPS to $0.98-$1.02 following Trust acquisition",
-     "link": "https://seekingalpha.com/news/4661801-acco-brands-expects-4-percentminus-6-percent-2026-sales-growth-as-it-raises-adjusted-eps-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 19:31:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Acco Brands 在收购 Trust 后将调整后每股收益提高至 0.98-1.02 美元，预计 2026 年销售额将增长 4%-6%"
-    },
-    {
-     "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-     "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 23:14:00 GMT",
-     "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
-     "source": "MarketWatch",
-     "zh": "科技泡沫破裂了吗？为什么纳斯达克指数的艰难历程看起来就像 2000 年一样。"
-    },
-    {
-     "title": "W&T Offshore forecasts Q4 2026 production midpoint of 33,700 BOE/d while lifting 2026 capex to $35M-$38M",
-     "link": "https://seekingalpha.com/news/4661800-w-and-t-offshore-forecasts-q4-2026-production-midpoint-of-33700-boe-d-while-lifting-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 18:59:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "W&T Offshore 预测 2026 年第四季度产量中点为 33,700 桶油当量/天，同时将 2026 年资本支出提高至 3500 万至 3800 万美元"
-    },
-    {
-     "title": "Alaska Senate election: DOJ wants to &apos;segregate&apos; all ballots for 2nd Sullivan candidate",
-     "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-     "pubDate": "Fri, 30 Oct 2026 22:57:55 GMT",
-     "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
-     "source": "CNBC",
-     "zh": "阿拉斯加参议院选举：司法部希望“隔离”第二位沙利文候选人的所有选票"
-    },
-    {
-     "title": "This cybersecurity stock will be the next to join the S&P 500",
-     "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 22:20:00 GMT",
-     "summary": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
-     "source": "MarketWatch",
-     "zh": "该网络安全股票将成为下一只加入标准普尔 500 指数的股票"
-    },
-    {
-     "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
-     "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
-     "pubDate": "Fri, 30 Oct 2026 22:17:15 GMT",
-     "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
-     "source": "Financial Times",
-     "zh": "30 分钟内 63 亿美元：世界上最大的抢劫案是如何展开的"
-    },
-    {
-     "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-     "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 21:30:00 GMT",
-     "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
-     "source": "MarketWatch",
-     "zh": "尽管伊朗局势再度紧张，金价为何仍暴跌至一年来的最低水平"
-    },
-    {
-     "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-     "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 30 Oct 2026 21:23:00 GMT",
-     "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
-     "source": "MarketWatch",
-     "zh": "沃什希望美联储少说一些。两名官员正在推动提高透明度。"
     }
    ]
   },
@@ -2551,7 +2551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:30:00 +0000",
      "summary": "People who had no recollection of a lucid dream over the past three years developed the skill after one month of performing a novel training regimen twice a week, neuroscientists report.",
      "source": "Live Science",
-     "zh": "神经科学家揭示了训练人们进行清醒梦的方法——它涉及虚拟现实和冥想"
+     "zh": "神经科学家揭示了训练人们进行清醒梦的方法——其中涉及虚拟现实和冥想"
     },
     {
      "title": "‘Exhumed’ recounts the true story of America’s first vampire",
@@ -2607,7 +2607,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 08:12:46 EDT",
      "summary": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercis",
      "source": "ScienceDaily",
-     "zh": "2 型糖尿病取得突破，54% 在短短 6 个月内获得缓解"
+     "zh": "2 型糖尿病取得突破性进展，54% 的患者在短短 6 个月内获得缓解"
     },
     {
      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",

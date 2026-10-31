@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/31 23:17:09",
+ "generated_at": "2026/10/31 23:29:58",
  "recent_days": 7,
  "industries": [
   {
@@ -63,6 +63,14 @@
      "summary": "BHI 为评测基准的有效性提供了一份可持续更新的参考。",
      "source": "机器之心",
      "zh": "NeurIPS 2026 ED Oral丨Benchmark也有保质期？我们给158个评测基准打了分"
+    },
+    {
+     "title": "0.8B！小米开源新模型，让超级小爱识屏主动办事",
+     "link": "https://zhidx.com/p/606258.html",
+     "pubDate": "Sat, 31 Oct 2026 13:43:04 +0800",
+     "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西10月31日报道，昨日晚间， 小米 发布并开源轻量级全能 文档理解模型Xiaomi-OCR-0 ，仅 0.8B （8亿）参数，将 文档解析、关键信息抽取 与 视觉问答 三类能力融于一体，并在多项权威基准中取得领先成绩。 很多人遇到过这样的小麻烦：取餐码被消息淹没、海报时间地点还要手动敲进日历、账单金额和商户信息仍需逐项摘录……这指向了一类新需求： 手机能否不只“看见”屏幕内容，还能“看懂”信息，并在需要时顺手完成下一步？ Xiaomi-OCR-0正是为此而生。它体量小巧，兼顾文字、版面、位置与语义理解，能解决复杂表格、论文、票据的结构化解析难题。",
+     "source": "智东西",
+     "zh": "0.8B！小米开源新模型，让超级小爱识屏主动办事"
     },
     {
      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
@@ -158,7 +166,7 @@
      "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
      "source": "TechCrunch AI",
-     "zh": "Nvidia 考虑担任 Nscale 位于西弗吉尼亚州的人工智能数据中心的联合签署人"
+     "zh": "Nvidia 考虑担任西弗吉尼亚州 Nscale 人工智能数据中心的联合签署人"
     },
     {
      "title": "国行苹果智能倒计时4天开测！阿里官宣，千问全面接入",
@@ -233,14 +241,6 @@
      "zh": "AI 安全代理比较：Claude、Codex、Mantis、Cloudflare"
     },
     {
-     "title": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案",
-     "link": "https://zhidx.com/p/606032.html",
-     "pubDate": "Fri, 30 Oct 2026 22:23:40 +0800",
-     "summary": "智东西 作者 | 江宇 编辑 | 漠影 在华润信托，一笔债券交易的起点，可能只是一条聊天群里的消息。 交易员需要在上千个交易群中接收指令，识别交易要素，再录入交易系统。客户询问持仓、交易进度时，他们还要打开系统查询，把结果发回群里。 这项工作既繁琐，又容不得差错。 如今，华润信托开始让一个智能体接手其中部分工作。它直接进入交易群，识别并拆解交易指令、录入系统，也能查询持仓与交易进度，自动回复群里的咨询。 ▲华润信托苏南 据腾讯云披露，这个基于智能体开发平台ADP打造的债券助手，拆单准确率已经从最初的80%以上提高到98%。 但在关键节点，华润信托仍然保留人工确认。 这背后其实是行业的一个非共识",
-     "source": "智东西",
-     "zh": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案"
-    },
-    {
      "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
      "link": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
      "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
@@ -278,7 +278,7 @@
      "pubDate": "Fri, 30 Oct 2026 23:34:04 GMT",
      "summary": "Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base.",
      "source": "DIGITIMES",
-     "zh": "TSIA 30：台湾构建了人工智能骨干——但它能占领人工智能经济吗？"
+     "zh": "TSIA 30：台湾构建了人工智能骨干网——但它能占领人工智能经济吗？"
     },
     {
      "title": "Marvell-Lumentum talks put optical supply chain in focus",
@@ -382,7 +382,7 @@
      "pubDate": "Fri, 30 Oct 2026 10:27:30 +0000",
      "summary": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
      "source": "Electronics Weekly",
-     "zh": "泰雷兹阿莱尼亚宇航公司赢得另外两颗伽利略卫星的合同"
+     "zh": "泰雷兹阿莱尼亚航天公司赢得另外两颗伽利略卫星的合同"
     },
     {
      "title": "First Solar licensing CubicPV’s US patents for perovskite solar technology",
@@ -454,7 +454,7 @@
      "pubDate": "Thu, 29 Oct 2026 16:20:34 +0000",
      "summary": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Samsung Electronics Posts $80B Operating Profit on AI Memory Demand appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "三星电子因 AI 内存需求实现营业利润 80B 美元"
+     "zh": "三星电子因 AI 内存需求实现运营利润 80B 美元"
     },
     {
      "title": "How Vision and Connectivity Enable Autonomous Agriculture",
@@ -662,7 +662,7 @@
      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
      "summary": "Rivian Chief Software Officer Wassym Bensaid told InsideEVs an overhauled service experience is coming to its cars in 2027.",
      "source": "InsideEVs",
-     "zh": "软件负责人表示，人工智能驱动的咖啡运行和服务访问将于明年为 Rivians 提供"
+     "zh": "软件负责人表示，人工智能驱动的咖啡运行和服务访问将于明年为 Rivian 提供"
     },
     {
      "title": "After A Year Without Tax Credits, EVs Are Down But Not Out",
@@ -1022,7 +1022,7 @@
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
+     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1582,7 +1582,7 @@
      "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "叙利亚黑客潜逃十多年后在美国入狱"
+     "zh": "叙利亚黑客逃亡十多年后在美国入狱"
     },
     {
      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -1598,7 +1598,7 @@
      "pubDate": "Sat, 31 Oct 2026 11:03:41 +0530",
      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed. The researchers reported the flaw through&nbsp;OpenAI's bug bounty program&nbs",
      "source": "The Hacker News",
-     "zh": "共享的 ChatGPT 链接可以在您的会话中运行攻击者代码并读取私人聊天"
+     "zh": "共享 ChatGPT 链接可以在您的会话中运行攻击者代码并读取私人聊天"
     },
     {
      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
@@ -1662,7 +1662,7 @@
      "pubDate": "Fri, 30 Oct 2026 20:47:28 +0530",
      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can e",
      "source": "The Hacker News",
-     "zh": "TeamViewer 漏洞可让远程计算机攻击连接并控制它们的用户"
+     "zh": "TeamViewer 漏洞可让远程计算机攻击连接控制它们的用户"
     },
     {
      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
@@ -1744,6 +1744,14 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "港股打新，热度降温",
+     "link": "https://www.huxiu.com/article/4902015.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 23:19:07 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：王晨 新股供给仍在增加，港股打新的热度却明显降了下来。10月30日，宏芯宇、登临科技-P、芯德半导体、和美药业-B、新荷花、远信储能六家公司同日启动招股，合计拟募资约60亿港元。 与密集发行形成反差的是，招股首日的融资认购并不热烈。截至10月30日港股收盘，六只新股融资认购倍数均不足1倍；截至10月31日的阶段性数据，也仅远信储能、新荷花超过1倍。 这一变化也体现了在10月20日招股的东山精密上，港股发行价较A股折算价折让35.66%，前三季度归母净利润增长逾3倍，还有20名基石投资者助阵，融资认购倍数却只有0.39倍。放在上半年，这样的基本面与折让，很难",
+     "source": "虎嗅",
+     "zh": "港股打新，热度降温"
+    },
     {
      "title": "马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准",
      "link": "https://www.ithome.com/1/020/630.htm",
@@ -1841,14 +1849,6 @@
      "zh": "170年没跑通商业化的运动，凭什么一支队能卖1个亿"
     },
     {
-     "title": "63亿美元资产异常流出，赵长鹏尴尬了",
-     "link": "https://www.huxiu.com/article/4902003.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 22:00:27 +0800",
-     "summary": "出品｜虎嗅ESG组 作者｜陈玉立 头图｜视觉中国 本文是#ESG进步观察#系列第177篇文章 本次观察关键词：加密货币 2026年10月30日晚，币安创始人赵长鹏在X上发了一篇长帖。 一天前，价值约63亿美元的资产从币安控制的钱包中异常流出。赵长鹏重申用户资金安全，损失将由公司承担。 评论区里，有人贴出了Sam Bankman-Fried在FTX倒闭前的声明，里面同样写着：用户资金安全，平台拥有足够储备金，请大家放心。 结果，马斯克在截图下面留了一个皱眉的表情。 五个小时后，赵长鹏公开回应：&ldquo;Elon，我很敬重你，但现在真不是开玩笑的时候，请别这样。&rdquo; 他还提起币安曾出",
-     "source": "虎嗅",
-     "zh": "63亿美元资产异常流出，赵长鹏尴尬了"
-    },
-    {
      "title": "I took two iPhones on vacation. The Duo won me over.",
      "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
      "pubDate": "Sat, 31 Oct 2026 14:00:00 +0000",
@@ -1862,7 +1862,7 @@
      "pubDate": "Sat, 31 Oct 2026 09:40:53 -0400",
      "summary": "Morgan Meaker / Bloomberg : How AI detectors like Pangram are changing human writing: authors drop em dashes, &ldquo;not X, but Y&rdquo; phrasing, and words like &ldquo;delve&rdquo;, or add typos, to look human &nbsp; &mdash;&nbsp; As AI transforms writing and detectors like Pangram police what coun",
      "source": "Techmeme",
-     "zh": "像 Pangram 这样的 AI 检测器如何改变人类写作：作者去掉破折号、“不是 X，而是 Y”措辞，以及“delve”之类的词，或者添加拼写错误，以看起来像人类（Morgan Meaker/Bloomberg）"
+     "zh": "像 Pangram 这样的 AI 检测器如何改变人类写作：作者会删除破折号、“不是 X，而是 Y”措辞，以及“delve”之类的单词，或者添加拼写错误，以使其看起来像人类（Morgan Meaker/Bloomberg）"
     },
     {
      "title": "Retired professor arrested for blocking delivery robot. Will do it again",
@@ -1992,6 +1992,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
+     "link": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
+     "pubDate": "Sat, 31 Oct 2026 15:19:00 +0000",
+     "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
+     "source": "9to5Mac",
+     "zh": "Apple @ Work：除了不断增长的代币账单之外，Mac 可能会开始变得便宜"
+    },
     {
      "title": "What is the purpose of reposting on Instagram and how do you do it?",
      "link": "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/",
@@ -2174,7 +2182,7 @@
      "pubDate": "Sat, 31 Oct 2026 01:03:35 +0000",
      "summary": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each available in light and dark variations, which you can download below. more…",
      "source": "9to5Mac",
-     "zh": "在此下载全部 20 张明暗模式的 Apple HomeView 壁纸"
+     "zh": "在此下载全部 20 张明暗模式下的 Apple HomeView 壁纸"
     },
     {
      "title": "Here's when Samsung plans to release its Android XR glasses and where",
@@ -2217,14 +2225,6 @@
      "zh": "苹果通过 Apple Intelligence 在中国确认 iOS 27.3 测试版将于下周发布"
     },
     {
-     "title": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
-     "link": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/",
-     "pubDate": "Fri, 30 Oct 2026 21:44:44 +0000",
-     "summary": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico. Here’s what we know. more…",
-     "source": "9to5Mac",
-     "zh": "据报道，《Pluribus》第二季明天开始拍摄"
-    },
-    {
      "title": "Pixelated 123: The primary value is the clock",
      "link": "https://9to5google.com/2026/10/30/pixelated-123-the-primary-value-is-the-clock/",
      "pubDate": "Fri, 30 Oct 2026 21:00:00 +0000",
@@ -2241,6 +2241,30 @@
    "total": 13,
    "items": [
     {
+     "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+     "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+     "pubDate": "Sat, 31 Oct 2026 15:25:00 GMT",
+     "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+     "source": "MarketWatch",
+     "zh": "是什么让这座城市获得了“最佳退休之地”的桂冠？你实际上可以负担得起那里的生活。"
+    },
+    {
+     "title": "S&P 500 materials sector: Four companies miss EPS estimates, six fall short on revenue",
+     "link": "https://seekingalpha.com/news/4661354-sp-500-materials-sector-four-companies-miss-eps-estimates-six-fall-short-on-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:20:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "标准普尔 500 材料行业：四家公司未达到每股收益预期，六家公司营收未达标"
+    },
+    {
+     "title": "Intel wins multiple upgrades on SA after earnings-led selloff",
+     "link": "https://seekingalpha.com/news/4661858-intel-stock-wins-multiple-upgrades-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:13:29 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "在盈利主导的抛售之后，英特尔赢得了对 SA 的多次升级"
+    },
+    {
      "title": "Earnings Scorecard: 11 of 17 real estate companies beat revenue estimates this week",
      "link": "https://seekingalpha.com/news/4661416-earnings-scorecard-11-of-17-real-estate-companies-beat-revenue-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 31 Oct 2026 11:10:51 -0400",
@@ -2254,23 +2278,7 @@
      "pubDate": "Sat, 31 Oct 2026 11:05:56 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "由于科技股的转向，医疗保健行业在 10 月份反弹"
-    },
-    {
-     "title": "金饰价格 一夜“崩了”！最新实探",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917655813.html",
-     "pubDate": "Sat, 31 Oct 2026 23:03:47 +0800",
-     "summary": "【导读】现货 黄金 价格跳水，金饰价格同步走低，消费者购金热情抬升 金饰价格，一夜“崩了”！ 10月31日， 周生生 官网显示，其足金 饰品 克价报1161元，单日跌42元，较年内高点跌547元。 此外， 周大福 、六福珠宝、金至尊等知名金 饰品 牌，足金 饰品 价格较前一日亦有30—40元的下跌。 金饰价格走低，消费者购金热情随之提升。10月31日下午，中国基金报记者前往北京菜百总店打卡发现，现场人头攒动，大量顾客选择在周末挑选心仪产品，部分柜台前甚至排起长队。 记者与售货员及顾客交流后注意到，小克重、低工费的 黄金 戒指、耳环等饰品相对更受欢迎。同时，近年来较火的古法 黄金 手镯、碎碎冰手",
-     "source": "东方财富股票",
-     "zh": "金饰价格 一夜“崩了”！最新实探"
-    },
-    {
-     "title": "“AI+汽车”腾讯智慧出行火了！相关负责人 最新发声",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917655794.html",
-     "pubDate": "Sat, 31 Oct 2026 23:03:42 +0800",
-     "summary": "【导读】从智能座舱到企业经营管理，AI正从单点应用向 汽车 产业全链条渗透 “能聊是第一步，更重要的是真的能帮用户办成事儿。” 腾讯云 副总裁、腾讯智慧出行负责人钟学丹直言，随着AI Agent（智能体）加速上车，智能座舱的竞争正在从语音交互、内容推荐，向理解用户意图和完成实际任务演进。 但AI给 汽车 产业带来的变化，不只发生在车内。 腾讯云 副总裁孙燕透露，腾讯此前与一家国内主机厂合作，在产品定义和产品验证阶段引入AI工具，相关环节整体效率提升了90%。在另一家车企的产销协同实践中，借助 AI智能体 辅助经营决策，原本需要两三周甚至一个月的决策周期缩短至1—2天。 从产品体验到企业经营，A",
-     "source": "东方财富股票",
-     "zh": "“AI+汽车”腾讯智慧出行火了！相关负责人 最新发声"
+     "zh": "由于科技股的轮动，医疗保健行业 10 月份反弹"
     },
     {
      "title": "Insider trades: Goldman Sachs, P&G, Texas Instruments among major names",
@@ -2286,7 +2294,7 @@
      "pubDate": "Sat, 31 Oct 2026 11:00:09 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "盈利记分卡：本周 22 家科技公司中有 21 家每股收益超出预期"
+     "zh": "盈利记分卡：22 家科技公司中有 21 家本周每股收益超出预期"
     },
     {
      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
@@ -2297,30 +2305,6 @@
      "zh": "我父亲患有阿尔茨海默氏症，他的护理人员正在使用他的借记卡购买 DoorDash。我干预吗？"
     },
     {
-     "title": "一汽奔腾小马五门版上市",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917655566.html",
-     "pubDate": "Sat, 31 Oct 2026 22:57:00 +0800",
-     "summary": "新京报 贝壳 财经讯（记者白昊天）10月30日，一汽奔腾小马五门版上市，4款车型限时售价3.99万元-4.99万元。喜剧演员酷酷的腾作为一汽奔腾产品体验官出场，他说，小马五门版的功能丰富，让车辆定位更像一辆改善型用车。 一汽奔腾官方宣布，奔腾小马用户已达30万人。作为A00级首款满足新国标的五门车型，小马五门版采用63%高强钢与2200MPa级潜艇钢防撞梁，全系标配双气囊，并配备ESC稳定系统与加宽轮胎，可通过300毫米积水路段。车内后排纯平放倒后可形成1米×1米儿童床、前排采用无隔断设计，车内共有25处储物空间，同时配备智能语音助手、车外扬声器、手机控车、座椅加热等功能。 （文章来源：新京报",
-     "source": "东方财富股票",
-     "zh": "一汽奔腾小马五门版上市"
-    },
-    {
-     "title": "算力租赁三季报冰火两重天：头部企业盆满钵满 中小“玩家”增收不增利",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917655611.html",
-     "pubDate": "Sat, 31 Oct 2026 22:56:43 +0800",
-     "summary": "2026年以来，算力 租赁 这门生意火得发烫，大单频现、租价上行。 前三季度从事算力 租赁 业务的上市公司业绩表现如何？随着三季报收官，这条赛道的分化图景已经完整呈现：头部企业利润翻数倍，中小“玩家”却在“增收不增利”中挣扎。 前三季度业绩爆发 头部算力公司利润翻数倍 算力产业链包含服务器、交换机、光模块、算力芯片、算力 租赁 等核心环节，其中算力租赁直接面向应用市场，是产业链上“离钱最近”的一环。 今年以来，随着国产算力市场规模快速增长，算力租赁行业迎来爆发式发展。 Wind数据显示，算力租赁板块上市公司中30余家归母净利润同比增长，20余家同比下降。 营收增长最多的是 行云科技 ，这家聚焦",
-     "source": "东方财富股票",
-     "zh": "算力租赁三季报冰火两重天：头部企业盆满钵满 中小“玩家”增收不增利"
-    },
-    {
-     "title": "刚果（金）埃博拉疫情已致5026人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202610313917655083.html",
-     "pubDate": "Sat, 31 Oct 2026 22:55:05 +0800",
-     "summary": "当地时间10月31日，刚果（金）国家生物医学研究所发布数据显示，截至10月29日，该国本轮埃博拉疫情累计死亡病例超五千例，达5026例，累计确诊病例10351例，死亡率48.6%。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "刚果（金）埃博拉疫情已致5026人死亡"
-    },
-    {
      "title": "The S&P 500 isn’t the big winner you may think it is",
      "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 14:54:00 GMT",
@@ -2329,36 +2313,12 @@
      "zh": "标准普尔 500 指数并不是您想象的大赢家"
     },
     {
-     "title": "朗玛信息：扩大ToB医疗机构覆盖范围，推动AI医疗业务成为公司新的增长引擎",
-     "link": "http://stock.eastmoney.com/news/11215,202610313917655171.html",
-     "pubDate": "Sat, 31 Oct 2026 22:54:00 +0800",
-     "summary": "南财智讯10月31日电， 朗玛信息 在投资者关系活动中表示，公司一方面是持续迭代“39AI医生”大模型，上线病历质控、医保控费、重大临床风险提示等核心功能，进一步强化产品对医疗机构的实际赋能价值，帮助 医院 “提质、增效、降本、控险、育人”；另一方面搭建全国渠道网络与直营团队，利用公司已有的客户资源，扩大ToB医疗机构覆盖范围，提升付费机构数量与续费率，推动AI医疗业务成为公司新的增长引擎。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "朗玛信息：扩大ToB医疗机构覆盖范围，推动AI医疗业务成为公司新的增长引擎"
-    },
-    {
-     "title": "Healthcare Earnings Scoreboard: 96% beat EPS estimates, 70% post Y/Y earnings growth",
-     "link": "https://seekingalpha.com/news/4661239-healthcare-earnings-scoreboard-96-beat-eps-estimates-70-post-yy-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 10:40:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "医疗保健盈利记分牌：每股收益超出预期 96%，同比盈利增长 70%"
-    },
-    {
      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 14:35:00 GMT",
      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
      "source": "MarketWatch",
      "zh": "社会保障的命运以及您的福利掌握在今年当选的候选人手中"
-    },
-    {
-     "title": "Consumer discretionary earnings mixed as revenue growth outpaces profit gains",
-     "link": "https://seekingalpha.com/news/4661322-consumer-discretionary-earnings-mixed-as-revenue-growth-outpaces-profit-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 10:30:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于收入增长超过利润增长，非必需消费品收益参差不齐"
     },
     {
      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
@@ -2383,22 +2343,6 @@
      "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
      "source": "Financial Times",
      "zh": "由于担心美国经济受到人工智能影响，投资者削减增长押注"
-    },
-    {
-     "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-     "link": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-     "pubDate": "Sat, 31 Oct 2026 13:47:03 GMT",
-     "summary": "Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.",
-     "source": "CNBC",
-     "zh": "消息人士称，卡塔尔调解员在德黑兰举行会谈，旨在重启美国与伊朗的直接谈判"
-    },
-    {
-     "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
-     "link": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 13:15:00 GMT",
-     "summary": "Wall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?",
-     "source": "MarketWatch",
-     "zh": "谷歌教会了世界如何搜索。现在它面临着一场不容失败的革命。"
     },
     {
      "title": "北京城市更新步入全域统筹、系统推进的新阶段",
@@ -2433,6 +2377,14 @@
      "zh": "10月31日晚间央视新闻联播要闻集锦"
     },
     {
+     "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+     "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+     "pubDate": "Sat, 31 Oct 2026 12:00:01 GMT",
+     "summary": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
+     "source": "CNBC",
+     "zh": "Rivian 和福特等汽车制造商正在“普及 3D 打印”，以降低成本并提高速度"
+    },
+    {
      "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
      "link": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
      "pubDate": "Sat, 31 Oct 2026 12:00:01 GMT",
@@ -2441,12 +2393,12 @@
      "zh": "“弹出式”超级政治行动委员会向 2026 年中期选举投入 6.37 亿美元"
     },
     {
-     "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-     "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+     "title": "Humans are still doing the work behind some AI agents",
+     "link": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
      "pubDate": "Sat, 31 Oct 2026 12:00:01 GMT",
-     "summary": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
+     "summary": "AI agents from startups including Dazzle, Duckbill and Wajo still rely on human workers for calls and other real-world tasks when software falls short.",
      "source": "CNBC",
-     "zh": "Rivian 和福特等汽车制造商正在“普及 3D 打印”，以降低成本并提高速度"
+     "zh": "人类仍在做一些人工智能代理背后的工作"
     },
     {
      "title": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”",
@@ -2479,6 +2431,54 @@
      "summary": "近年来，部分中药企业持续高比例现金分红。在近期市场整体走低的背景下，十余家中药行业上市公司股息率已超4%。在A股市场高股息主线持续受到资金关注的情况下，中药上市公司正在形成一个特征鲜明的高分红梯队。 十余家股息率超4% 高分红从个体行为走向行业群体现象 按2025年分红总金额与昨日（10月30日）公司市值测算， 达仁堂 （600329.SH）全年合计派现约36.89亿元，以11.89%的股息率居首；依次排在其后的是 济川药业 （600566.SH）、 华润江中 （600750.SH）、 东阿阿胶 （000423.SZ）、 以岭药业 （002603.SZ）、 羚锐制药 （600285.SH），股",
      "source": "东方财富资讯",
      "zh": "中药板块“高分红梯队”成型 十余家公司股息率超4% 三季报预验业绩底色"
+    },
+    {
+     "title": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917622347.html",
+     "pubDate": "Sat, 31 Oct 2026 18:40:18 +0800",
+     "summary": "10月30日晚间， 长鑫科技 举行2026年第三季度业绩说明会。公司管理层介绍了长期供货协议（长协）进展、第三季度及前三季度业绩、产品结构、毛利率预期和先进产品进展等情况。 长鑫科技 管理层表示， 目前公司长协相关工作进展顺利，已与多家头部客户协商长期供货协议，以锁定中长期确定性需求。在供求延续紧缺和精益制造的双重支撑下，公司预计第四季度毛利率将继续保持稳定。 据披露，2026年第三季度， 长鑫科技 实现营业收入约1187.14亿元，同比增长613.18%；实现归母净利润约544.35亿元，同比扭亏为盈，环比增长约3.01%。今年前三季度，公司实现营业收入2690亿元，同比增长738%；利润总",
+     "source": "东方财富资讯",
+     "zh": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定"
+    },
+    {
+     "title": "Figure大会透露未来路线：硬件迭代收敛 押注“规模化预训练+超大算力”",
+     "link": "http://stock.eastmoney.com/news/11228,202610313917623860.html",
+     "pubDate": "Sat, 31 Oct 2026 18:31:52 +0800",
+     "summary": "近日，美国人形 机器人 企业Figure对外公开了时长一小时的内部全员大会视频。这次大会上，没有酷炫的新品展示，没有宏大的远期蓝图，只描绘了一条愈发清晰的战略路线——当硬件进入迭代收敛期，Figure将如何落实“规模化预训练+超大算力”的工程路线，让 机器人 一步步“变聪明”。完整视频于当地时间10月22日发布于该公司官方YouTube频道。 具体来看，Figure AI创始人兼CEO Brett Adcock复盘了公司当前研发底座，披露第四代人形 机器人 Figure 04和Index全球人类行为数据收集项目的最新进展、35亿美元算力合作细节，以及新一代Helix模型的内部测试情况。 Fig",
+     "source": "东方财富资讯",
+     "zh": "Figure大会透露未来路线：硬件迭代收敛 押注“规模化预训练+超大算力”"
+    },
+    {
+     "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
+     "link": "https://wallstreetcn.com/articles/3784923",
+     "pubDate": "Sat, 31 Oct 2026 18:20:58 +0800",
+     "summary": "10月28日，彭博报道称，Marvell正与光学器件制造商Lumentum进行深入谈判，考虑通过全股票交易收购后者。报道当时给出的Lumentum市值约为830亿美元，Marvell约为2210亿美元。 这笔潜在交易引发了一个值得关注的问题：一家以定制芯片和高速互连见长的公司，为什么要大举进入激光器和光学器件制造领域？ 10月30日，半导体行业播客Semi Doped邀请市场研究机构Cignal AI的两位分析师Andrew Schmitt和Scott Wilkinson讨论这笔交易。两人的判断是，Marvell希望通过垂直整合，把DSP、激光器和光学组件结合起来，形成更完整的产品体系。 如果",
+     "source": "华尔街见闻",
+     "zh": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”"
+    },
+    {
+     "title": "【三季报持仓透视】社保基金最新动向来了 000725新进持股数最高！企业年金新进增持股出炉",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917619661.html",
+     "pubDate": "Sat, 31 Oct 2026 17:47:41 +0800",
+     "summary": "截至三季度末，社保基金共计现身598家上市公司前十大流通股东名单。 A股上市公司三季报披露完毕，社保基金作为资本市场中兼具安全性与长期性的“压舱石”资金，其持股动向浮出水面。 据证券时报·数据宝统计，不含社保基金理事会持股，截至三季度末，社保基金共计现身598家上市公司前十大流通股东名单，总持股量103.72亿股；总持股市值1957.92亿元。 以申万行业划分，社保基金对于 电子 、 机械设备 、 基础化工 、 医药生物 、 有色金属 、 汽车 、 电力 设备行业的持股市值均在100亿元以上。 4股社保持仓超20亿元 个股来看，4股三季度末社保基金持仓市值超20亿元，分别是 比亚迪 、 三一重",
+     "source": "东方财富资讯",
+     "zh": "【三季报持仓透视】社保基金最新动向来了 000725新进持股数最高！企业年金新进增持股出炉"
+    },
+    {
+     "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
+     "link": "http://finance.eastmoney.com/news/1349,202610313917614941.html",
+     "pubDate": "Sat, 31 Oct 2026 17:32:25 +0800",
+     "summary": "原 中国石油 化工集团公司党组书记、董事长傅成玉涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 （文章来源：央视新闻）",
+     "source": "东方财富资讯",
+     "zh": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查"
+    },
+    {
+     "title": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一",
+     "link": "https://wallstreetcn.com/articles/3784918",
+     "pubDate": "Sat, 31 Oct 2026 17:10:24 +0800",
+     "summary": "美股周五收盘，苹果市值报5.03万亿美元，从英伟达手中夺回全球市值最高公司的头衔。 投资者在AI开支担忧下，转而寻求这家iPhone制造商的相对安全性。 周五的收盘排名因此出现反转，苹果重新位居首位，英伟达退居第二。 收盘换位：苹果小跌，英伟达大跌 周五苹果股价下跌1.23%，收盘市值5.03万亿美元；英伟达收跌4.22%，收盘市值约4.93万亿美元。苹果跌幅明显小于英伟达，两者市值由此换位，苹果领先约0.1万亿美元。英伟达单日市值缩水约2170亿美元。 这是苹果自7月底短暂超越英伟达以来，首次再度登顶。 纳斯达克100指数10月下跌6.7%，为2025年3月以来最差单月，风险偏好承压。 AI",
+     "source": "华尔街见闻",
+     "zh": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一"
     }
    ]
   },

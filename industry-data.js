@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/2 04:48:01",
+ "generated_at": "2026/11/2 04:53:21",
  "recent_days": 7,
  "industries": [
   {
@@ -87,7 +87,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 01 Nov 2026 07:47:17 +0000",
      "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag",
      "source": "MarkTechPost",
-     "zh": "DeepSeek 开源 dsh-superagent，路由器工作编码代理"
+     "zh": "DeepSeek 开源 dsh-superagent，一个 Router-Worker 编码代理"
     },
     {
      "title": "Jev新成果，再次引爆开源",
@@ -378,14 +378,6 @@ window.INDUSTRY_DATA = {
      "zh": "谷歌：代理人工智能将推动数据中心CPU的新需求"
     },
     {
-     "title": "Siglent SSG6M80A expands microwave signal generation for up to 20 GHz",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-ssg6m80a-expands-microwave-signal-generation-for-up-to-20-ghz-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 16:41:08 +0000",
-     "summary": "Siglent’s new microwave signal generators, the SSG6M80A series, feature phase-coherent signal generation with two or four channels up to 20 GHz. The company highlights that the requirements placed on RF […] The post Siglent SSG6M80A expands microwave signal generation for up to 20 GHz appeared first",
-     "source": "Electronics Weekly",
-     "zh": "Siglent SSG6M80A 将微波信号生成扩展到高达 20 GHz"
-    },
-    {
      "title": "Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge",
      "link": "https://www.eetimes.com/intels-q3-results-show-supply-chain-disruptions-and-pc-plunge/",
      "pubDate": "Fri, 30 Oct 2026 16:37:20 +0000",
@@ -394,36 +386,12 @@ window.INDUSTRY_DATA = {
      "zh": "英特尔第三季度业绩显示供应链中断和 PC 暴跌"
     },
     {
-     "title": "GomSpace launches OBRIA NANO for Ukrainian satcoms",
-     "link": "https://www.electronicsweekly.com/news/business/gomspace-launches-obria-nano-for-ukrainian-satcoms-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 15:45:11 +0000",
-     "summary": "Ukraine’s HIMERA – a defence startup – and Denmark’s GomSpace – which manufactures satellites – have announced the launch of OBRIA NANO. This is the first test satellite for an […] The post GomSpace launches OBRIA NANO for Ukrainian satcoms appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "GomSpace 为乌克兰卫星通信推出 OBRIA NANO"
-    },
-    {
-     "title": "Can eBooks survive?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/can-ebooks-survive-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 14:30:43 +0000",
-     "summary": "in 1998 the eBook was emerging to meet with considerable scepticism. In October 1998 EW carried this account of the debate. ‘At a recent eBook conference in the US, […] The post Can eBooks survive? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "电子书还能生存吗？"
-    },
-    {
      "title": "Why Shrinking Component Geometries Force a Rethink of BGA Rework Heating Methods",
      "link": "https://www.eetimes.com/why-shrinking-component-geometries-force-a-rethink-of-bga-rework-heating-methods/",
      "pubDate": "Fri, 30 Oct 2026 10:32:26 +0000",
      "summary": "As components shrink to 01005 scale and board densities rise, BGA rework requires more precise heat control. The post Why Shrinking Component Geometries Force a Rethink of BGA Rework Heating Methods appeared first on EE Times .",
      "source": "EE Times",
      "zh": "为什么缩小元件的几何形状迫使我们重新思考 BGA 返工加热方法"
-    },
-    {
-     "title": "Thales Alenia Space wins contract for two further Galileo satellites",
-     "link": "https://www.electronicsweekly.com/news/business/thales-alenia-space-wins-contract-for-two-further-galileo-satellites-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 10:27:30 +0000",
-     "summary": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
-     "source": "Electronics Weekly",
-     "zh": "泰雷兹阿莱尼亚航天公司赢得另外两颗伽利略卫星的合同"
     },
     {
      "title": "First Solar licensing CubicPV’s US patents for perovskite solar technology",
@@ -448,22 +416,6 @@ window.INDUSTRY_DATA = {
      "summary": "HBM shortages threaten AI expansion; TSMC weighs price hikes; advanced packaging ramps; domain-specialized AI models; Infineon and UMC boost fab investments; Intel's quantum move; Lam and imec advance 3D integration; Google expands TPUs; AI-driven earnings; CPU benchmarking methodology for agentic A",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "BEAMA sets up power grid group",
-     "link": "https://www.electronicsweekly.com/news/business/beama-sets-up-power-grid-group-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 06:14:18 +0000",
-     "summary": "BEAMA has launched a new group for UK companies delivering power grid infrastructure, including those working in civil engineering, construction, design, specification and wider services. The Electricity Networks Infrastructure (ENI) […] The post BEAMA sets up power grid group appeared first on Elec",
-     "source": "Electronics Weekly",
-     "zh": "BEAMA成立电网集团"
-    },
-    {
-     "title": "Intel Q4 forecast disappoints",
-     "link": "https://www.electronicsweekly.com/news/business/intel-q3-disappoints-stock-falls-20-2026-10/",
-     "pubDate": "Fri, 30 Oct 2026 06:13:45 +0000",
-     "summary": "Intel’s Q3 revenue was $16.5 billion, up 21% YoY. Q4 revenue was forecast at $15 billion to $16 billion; “Our Q3 results demonstrate improving execution, meaningful progress expanding supply and […] The post Intel Q4 forecast disappoints appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "英特尔第四季度预测令人失望"
     },
     {
      "title": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
@@ -496,6 +448,46 @@ window.INDUSTRY_DATA = {
      "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has announced a multi-year agreement to supply its 1200V silicon carbide devices for the next-generation 800V SiC-based inverter platform of BorgWarner Inc of Auburn Hills, MI, USA (which",
      "source": "Semiconductor Today",
      "zh": "Wolfspeed 同意签订多年协议，向博格华纳供应 1200V 碳化硅器件"
+    },
+    {
+     "title": "Auto-Generation Of Properties: Methodology Insertion",
+     "link": "https://semiengineering.com/auto-generation-of-properties-methodology-insertion/",
+     "pubDate": "Thu, 29 Oct 2026 07:13:12 +0000",
+     "summary": "Technology is only useful if it improves an existing methodology. Property generation is still refining that goal, but in the long term it could be very useful. The post Auto-Generation Of Properties: Methodology Insertion appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "自动生成属性：方法插入"
+    },
+    {
+     "title": "Rethinking Shift Left In Chip Design",
+     "link": "https://semiengineering.com/rethinking-shift-left-in-chip-design/",
+     "pubDate": "Thu, 29 Oct 2026 07:11:57 +0000",
+     "summary": "Is it better to do everything earlier in the flow, or should design be more flexible and iterative? The post Rethinking Shift Left In Chip Design appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "重新思考芯片设计中的左移"
+    },
+    {
+     "title": "AI Raises The Bar For Tomorrow’s Engineers",
+     "link": "https://semiengineering.com/ai-raises-the-bar-for-tomorrows-engineers/",
+     "pubDate": "Thu, 29 Oct 2026 07:11:29 +0000",
+     "summary": "Universities are redesigning curricula and assessments around judgment, validation, and technical depth. The post AI Raises The Bar For Tomorrow’s Engineers appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "人工智能提高了未来工程师的标准"
+    },
+    {
+     "title": "The Complexity Between The Bits",
+     "link": "https://semiengineering.com/the-complexity-between-the-bits/",
+     "pubDate": "Thu, 29 Oct 2026 07:09:52 +0000",
+     "summary": "What biological reasoning can teach us about verifying silicon systems. The post The Complexity Between The Bits appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "位之间的复杂性"
+    },
+    {
+     "title": "Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem",
+     "link": "https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/",
+     "pubDate": "Thu, 29 Oct 2026 07:08:48 +0000",
+     "summary": "Applying the appropriate level of simulation and abstraction at each stage of the design process is key to effective thermal analysis. The post Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "这里变热了吗？为什么热不再是签核问题"
     }
    ]
   },
@@ -575,7 +567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 22:41:24 +0000",
      "summary": "While the ocean’s depths may be vast, the growing community of researchers dedicated to exploring them with autonomous robotics is more connected than ever following Global Ocean Robotics Day. Constructor University was one of 10 partner hubs around the world to host the inaugural international symp",
      "source": "Robotics & Automation",
-     "zh": "全球海洋机器人日凸显自主水下机器人的进步"
+     "zh": "全球海洋机器人日强调自主水下机器人的进步"
     },
     {
      "title": "Opentrons raises $40 million to expand AI-powered lab automation",
@@ -783,7 +775,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
      "summary": "Rivian Chief Software Officer Wassym Bensaid says new AI integrations will order your coffee and automate vehicle service starting next year.",
      "source": "InsideEVs",
-     "zh": "Rivians 将于 2027 年推出人工智能驱动的咖啡跑和服务访问服务"
+     "zh": "Rivians 将于 2027 年推出人工智能驱动的咖啡跑和服务拜访服务"
     },
     {
      "title": "One Year Without EV Tax Credits: 4 Key Takeaways",
@@ -1023,7 +1015,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
+     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1647,7 +1639,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "叙利亚黑客潜逃十多年后在美国入狱"
+     "zh": "叙利亚黑客逃亡十多年后在美国入狱"
     },
     {
      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -1745,6 +1737,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "How \"get-paid-to\" apps like Freecash, briefly a top five App Store app in September, pay users small sums to play games and help publishers find big spenders (John Herrman/New York Magazine)",
+     "link": "https://www.techmeme.com/261101/p15#a261101p15",
+     "pubDate": "Sun, 01 Nov 2026 15:50:01 -0500",
+     "summary": "John Herrman / New York Magazine : How &ldquo;get-paid-to&rdquo; apps like Freecash, briefly a top five App Store app in September, pay users small sums to play games and help publishers find big spenders &nbsp; &mdash;&nbsp; Is getting paid to scroll a symptom of the economy or its entire future?&n",
+     "source": "Techmeme",
+     "zh": "像 Freecash 这样的“付费”应用程序（9 月份短暂跻身 App Store 应用程序前五名）如何向用户支付小额费用来玩游戏，并帮助发行商找到大手笔的消费者（John Herrman/New York Magazine）"
+    },
     {
      "title": "ServiceNow confirms it acquired Israeli startup Sweep to speed up customers&apos; migrations to its CRM, for an undisclosed price estimated at hundreds of millions (Allon Sinai/CTech)",
      "link": "https://www.techmeme.com/261101/p14#a261101p14",
@@ -1888,14 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 1 日消息，米哈游生活模拟游戏《星布谷地》今日官宣，将于 2027 年登陆 Switch2 平台。 IT之家注意到，《星布谷地》已经确认推出 PC / iOS / Android 版， 将于 12 月 4 日开启全球公测 。这款游戏以星际田园为主题，玩家在游戏中将可以赶海、钓鱼、种田等，期待理想生活自然发生，拥有自定义系统，可随心装点天空、海岸与每一片土地，三五好友可相聚在星空街市，使善意、共鸣、友谊在星空下交汇。 目前，官方公布的游戏角色有云果、伊佐奇、绵朵莉、幻雪等，它们的造型都类似小动物，各自拥有不同的身份，玩家可以在游戏中与这些性格各异的角色缔结友谊。",
      "source": "IT之家",
      "zh": "米哈游生活模拟游戏《星布谷地》官宣 2027 年登陆任天堂 Switch 2"
-    },
-    {
-     "title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration&apos;s AI policy (Harry Lambert/Colossus)",
-     "link": "https://www.techmeme.com/261101/p9#a261101p9",
-     "pubDate": "Sun, 01 Nov 2026 10:30:00 -0500",
-     "summary": "Harry Lambert / Colossus : A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy &nbsp; &mdash;&nbsp; The fight to regulate AI and reform American science runs through a little-known White House",
-     "source": "Techmeme",
-     "zh": "白宫 OSTP 主任 Michael Kratsios 的简介，他是 Peter Thiel 的前助手，是少数指导特朗普政府人工智能政策的参与者之一 (Harry Lambert/Colossus)"
     },
     {
      "title": "国产武侠游戏《影之刃零》Steam 峰值在线玩家 83 万创新高，连续四天走高",
@@ -2066,6 +2058,14 @@ window.INDUSTRY_DATA = {
      "zh": "尝试用太阳能屋顶直接为电动汽车提供动力的最大问题"
     },
     {
+     "title": "How much would it cost to build a PC similar to the Xbox Series S?",
+     "link": "https://www.engadget.com/2300614/xbox-series-s-pc-similar-how-much-to-build/",
+     "pubDate": "Sun, 01 Nov 2026 18:15:00 +0000",
+     "summary": "The Xbox Series S offers a solid entry-level experience for those interested in console gaming. Here's what an equivalent gaming PC would cost you.",
+     "source": "Engadget",
+     "zh": "建造一台类似于 Xbox Series S 的 PC 需要多少钱？"
+    },
+    {
      "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
      "link": "https://9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand/",
      "pubDate": "Sun, 01 Nov 2026 16:29:42 +0000",
@@ -2224,14 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple introduced the new Beats 360 headphones about a month and a half ago. I reviewed them , and really appreciated their customizable design, the fact that they offer automatic device switching, as well as their comfort. At the time, Beats offered launch pricing on additional sets of cushions, bri",
      "source": "9to5Mac",
      "zh": "PSA：今天是购买 Beats 360 坐垫折扣套件的最后一天"
-    },
-    {
-     "title": "Fujifilm Instax Mini Evo 2 review: A hybrid instant camera that changed my mind",
-     "link": "https://www.dpreview.com/reviews/fujifilm-instax-mini-evo-2-review-a-hybrid-instant-camera-that-changed-my-mind/",
-     "pubDate": "Sat, 31 Oct 2026 13:00:00 +0000",
-     "summary": "I thought previewing photos would take the fun out of instant photography. Instead, the Mini Evo 2 made me want to experiment.",
-     "source": "DPReview",
-     "zh": "Fujifilm Instax Mini Evo 2 评测：一款改变我想法的混合即时相机"
     }
    ]
   },
@@ -2241,6 +2233,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+     "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+     "pubDate": "Sun, 01 Nov 2026 20:51:32 GMT",
+     "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
+     "source": "CNBC",
+     "zh": "民主党众议员史蒂文斯在密歇根州参议院选举中支持共和党罗杰斯而不是竞争对手埃尔赛义德"
+    },
+    {
+     "title": "美国佛罗里达州发生飞机坠毁事故",
+     "link": "http://finance.eastmoney.com/news/1351,202611023917825267.html",
+     "pubDate": "Mon, 02 Nov 2026 04:46:15 +0800",
+     "summary": "当地时间11月1日，一架私人飞机在美国佛罗里达州棕榈滩附近坠毁，机上载有9人。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "美国佛罗里达州发生飞机坠毁事故"
+    },
     {
      "title": "特朗普：刚刚与以色列总理内塔尼亚胡进行了一次良好的交谈，谈到了伊朗问题",
      "link": "http://finance.eastmoney.com/news/1351,202611023917825195.html",
@@ -2280,22 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "西 太平洋 银行 全财年净利润68.1亿澳元，预估69.3亿澳元。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "西太平洋银行全财年净利润68.1亿澳元 预估69.3亿澳元"
-    },
-    {
-     "title": "特朗普就加拿大问题表态：非常接近达成协议",
-     "link": "http://finance.eastmoney.com/news/1351,202611023917823268.html",
-     "pubDate": "Mon, 02 Nov 2026 04:37:20 +0800",
-     "summary": "特朗普就加拿大问题表态：非常接近达成协议。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普就加拿大问题表态：非常接近达成协议"
-    },
-    {
-     "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-     "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-     "pubDate": "Sun, 01 Nov 2026 20:34:28 GMT",
-     "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
-     "source": "CNBC",
-     "zh": "民主党众议员史蒂文斯在密歇根州参议院选举中支持共和党罗杰斯而不是竞争对手埃尔赛义德"
     },
     {
      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
@@ -2407,7 +2399,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 01 Nov 2026 16:34:43 GMT",
      "summary": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
      "source": "CNBC",
-     "zh": "对于摩根大通和亚马逊来说，对抗像 Meta Muse 这样的人工智能机器人可能不是一个成功的长期战略"
+     "zh": "对于摩根大通和亚马逊来说，对抗像 Meta Muse 这样的人工智能机器人可能不是一个制胜的长期战略"
     },
     {
      "title": "Inside the leaderless movement set to govern Serbia",
@@ -2458,28 +2450,28 @@ window.INDUSTRY_DATA = {
      "zh": "黄金大跌、美股科技巨头大跌，市场发生了什么？"
     },
     {
-     "title": "回购、增持、终止减持……多家A股公司释放积极信号",
-     "link": "http://finance.eastmoney.com/news/1354,202611013917759138.html",
-     "pubDate": "Sun, 01 Nov 2026 20:53:20 +0800",
-     "summary": "A股公司回购、增持、终止减持等稳市动作越来越频繁。 11月1日晚间，多家上市公司集中披露回购、增持相关公告，产业资本“真金 白银 ”入场。 亨通光电 公告，公司董事长提议公司使用自有或自筹资金通过上海证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A股）股票，用于员工 股权激励 /员工持股计划或减少公司注册资本，回购资金总额不低于1亿元、不超过2亿元。 弘信电子 公告称，公司董事长提议公司通过集中竞价交易方式回购部分A股股份，回购股份将用于员工持股计划或 股权激励 。回购资金总额不低于2亿元且不超过4亿元。 Wind数据显示，自今年10月以来，超过200家公司发布了股票回",
-     "source": "东方财富资讯",
-     "zh": "回购、增持、终止减持……多家A股公司释放积极信号"
-    },
-    {
-     "title": "11月1日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202611013917758517.html",
-     "pubDate": "Sun, 01 Nov 2026 20:30:31 +0800",
-     "summary": "今日摘要 习近平关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明今天公布。 《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》今天公布。 广大干部群众深入学习贯彻党的二十届五中全会精神。大家表示，要永葆清醒坚定，勇担历史使命，把持之以恒推进全面从严治党各项工作落到实处。 黄河流域生态保护和高质量发展取得新成效。 前三季度我国社会 物流 总额同比增长4.9%。 国际人士高度评价中国共产党持之以恒推进全面从严治党，赞赏习近平党建思想为世界政党建设提供重要启迪。 内容速览 习近平关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明 11月1日，习近平总书记",
-     "source": "东方财富资讯",
-     "zh": "11月1日晚间央视新闻联播要闻集锦"
-    },
-    {
      "title": "长鑫科技首场业绩交流会：环比增速大幅放缓，服务器内存仍供不应求",
      "link": "http://www.eeo.com.cn/2026/1101/1081925.shtml",
      "pubDate": "Sun, 01 Nov 2026 20:21:38 +0800",
      "summary": "在需求被提前锁定、价格弹性变小之后，长鑫科技接下来的业绩增长，更多要靠产能。",
      "source": "经济观察网",
      "zh": "长鑫科技首场业绩交流会：环比增速大幅放缓，服务器内存仍供不应求"
+    },
+    {
+     "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+     "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+     "pubDate": "Sun, 01 Nov 2026 12:19:33 GMT",
+     "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals.",
+     "source": "CNBC",
+     "zh": "币安在 63 亿美元黑客攻击后恢复提款，称 90% 的被盗用户资产已得到赔偿"
+    },
+    {
+     "title": "90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元",
+     "link": "https://wallstreetcn.com/articles/3784949",
+     "pubDate": "Sun, 01 Nov 2026 20:08:26 +0800",
+     "summary": "AI基础设施建设狂潮之下，一场规模空前的表外负债风暴正在硅谷悄然积聚。 据最新季报数据，以Alphabet、Meta、微软、亚马逊为核心的超大规模云计算企业及Nvidia、Broadcom、SpaceX， 其披露的表外承诺总规模已达4.11万亿美元，较摩根士丹利8月末统计的3.12万亿美元增加近9920亿美元——约90天内新增承诺接近1万亿美元。 如果把摩根士丹利此前统计中纳入的、基于新闻报道而非正式财报披露的表外承诺也计算在内， 总额将达到4.29万亿美元。 与此同时，上述公司账面上的实际债务和租赁负债合计约为1万亿美元，意味着每1美元的表内负债背后，对应着超过4美元未在资产负债表上显示的承",
+     "source": "华尔街见闻",
+     "zh": "90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元"
     }
    ]
   },
@@ -2671,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 18:02:26 +0000",
      "summary": "Plant design allows it to run on either stored solar heat or combustion.",
      "source": "Ars Technica Science",
-     "zh": "将太阳能发电系统转变为自己的备用系统"
+     "zh": "将太阳能发电系统变成自己的备用系统"
     },
     {
      "title": "Seabirds get jet lag, too — and it can throw them a bit off course",

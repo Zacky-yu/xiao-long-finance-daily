@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/2 00:18:15",
+ "generated_at": "2026/11/2 00:30:22",
  "recent_days": 7,
  "industries": [
   {
@@ -87,7 +87,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 01 Nov 2026 07:47:17 +0000",
      "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag",
      "source": "MarkTechPost",
-     "zh": "DeepSeek 开源 dsh-superagent，路由器工作编码代理"
+     "zh": "DeepSeek 开源 dsh-superagent，一个 Router-Worker 编码代理"
     },
     {
      "title": "Jev新成果，再次引爆开源",
@@ -479,7 +479,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 18:52:30 GMT",
      "summary": "For three decades, white LEDs have depended on rare-earth materials such as yttrium aluminium garnet (YAG) layered onto a blue LED chip (Figure 1). Opto-semiconductor device maker Seoul Viosys Co Ltd (SVC) says that it has now broken that dependence by developing and mass producing a chip that emits",
      "source": "Semiconductor Today",
-     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10微米"
+     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10μm"
     },
     {
      "title": "First Solar inaugurates first phase of South Carolina production facility",
@@ -575,7 +575,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 22:41:24 +0000",
      "summary": "While the ocean’s depths may be vast, the growing community of researchers dedicated to exploring them with autonomous robotics is more connected than ever following Global Ocean Robotics Day. Constructor University was one of 10 partner hubs around the world to host the inaugural international symp",
      "source": "Robotics & Automation",
-     "zh": "全球海洋机器人日凸显自主水下机器人的进步"
+     "zh": "全球海洋机器人日强调自主水下机器人的进步"
     },
     {
      "title": "Opentrons raises $40 million to expand AI-powered lab automation",
@@ -823,7 +823,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 20:02:03 +0000",
      "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
      "source": "TechCrunch Transport",
-     "zh": "R2 SUV 已经是 Rivian 最畅销的车辆"
+     "zh": "R2 SUV 已经是 Rivian 最畅销的车型"
     },
     {
      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
@@ -1647,7 +1647,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "叙利亚黑客潜逃十多年后在美国入狱"
+     "zh": "叙利亚黑客逃亡十多年后在美国入狱"
     },
     {
      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -1746,6 +1746,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "中国建材企业，为什么在非洲一座接一座建厂？",
+     "link": "https://www.huxiu.com/article/4902130.html?f=rss",
+     "pubDate": "Mon, 02 Nov 2026 00:20:38 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 10月29日，科达制造宣布了一笔新的海外投资：1.127亿美元，在肯尼亚建设一座浮法玻璃厂。 工厂计划2026年12月开工，设计日产玻璃600吨。按一年330天生产计算，理论年产能接近20万吨。 这是一项仍在筹备、尚需当地审批的投资。 比较有意思的是，这家中国企业此前已经在非洲建了不少瓷砖厂，如今又开始扩大玻璃、洁具业务。 而在非洲，忙着建厂的中国建材企业远不止科达一家。 西部水泥2026年半年报显示，其在埃塞俄比亚的Lemi水泥厂，上半年销售水泥及熟料199万吨，平均售价437元/吨，平均吨毛利189元。 这座2024年投产的工",
+     "source": "虎嗅",
+     "zh": "中国建材企业，为什么在非洲一座接一座建厂？"
+    },
+    {
+     "title": "Binance resumes withdrawals following $6.3 billion breach",
+     "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+     "pubDate": "Sun, 01 Nov 2026 16:20:10 +0000",
+     "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+     "source": "TechCrunch",
+     "zh": "币安在 63 亿美元违规事件后恢复提款"
+    },
+    {
      "title": "吴恺之死与那个暗恶的世界",
      "link": "https://www.huxiu.com/article/4902132.html?f=rss",
      "pubDate": "Mon, 02 Nov 2026 00:11:27 +0800",
@@ -1783,7 +1799,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 01 Nov 2026 10:30:00 -0500",
      "summary": "Harry Lambert / Colossus : A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy &nbsp; &mdash;&nbsp; The fight to regulate AI and reform American science runs through a little-known White House",
      "source": "Techmeme",
-     "zh": "白宫 OSTP 主任 Michael Kratsios 的简介，他是 Peter Thiel 的前助手，是少数指导特朗普政府人工智能政策的参与者之一 (Harry Lambert/Colossus)"
+     "zh": "白宫 OSTP 主任 Michael Kratsios 的简介，他是 Peter Thiel 的前助手，是指导特朗普政府人工智能政策的少数参与者之一（Harry Lambert/Colossus）"
     },
     {
      "title": "Enlightenment 0.28.0 Release",
@@ -1807,7 +1823,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
      "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
      "source": "TechCrunch",
-     "zh": "Pixel 11 Pro Fold：广阔世界中坚固的矩形"
+     "zh": "Pixel 11 Pro Fold：广阔世界中的坚固矩形"
     },
     {
      "title": "赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷",
@@ -1968,22 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "These portable heaters will heat a room quickly, quietly, and safely.",
      "source": "WIRED",
      "zh": "8 个最佳小型取暖器（2026 年）：经过测试、测量和不当处理"
-    },
-    {
-     "title": "Lazada 泰国站大促报名门槛卡住，3人团队排期该怎么取舍？",
-     "link": "https://www.baijing.cn/question/638584",
-     "pubDate": "Sun, 01 Nov 2026 11:20:08 +0000",
-     "summary": "我们做泰国站家居收纳，团队3个人，运营只有1个半人（另半个兼客服），月GMV大概40万泰铢，刚起量阶段。上周收到Lazada泰国站大促报名通知，点进去发现部分活动要求店铺评分和发货时效达标，我们有一项发货时效还差一点，报名入口直接是灰的。之前试过提前备货到曼谷仓、把48小时发货压到当天出库，但因为人手不够，客服和上新挤在一起，排期根本排不开。现在卡在：是先补发货时效冲这波大促，还是把有限人力放到日常上新和内容维护上？想问问有经验的朋友，这种门槛差一点的情况，你们判断优先级的标准是什么？",
-     "source": "白鲸出海",
-     "zh": "Lazada 泰国站大促报名门槛卡住，3人团队排期该怎么取舍？"
-    },
-    {
-     "title": "亚马逊品牌备案新规后，北美站品牌旗舰店流量掉了三成，该怎么调？",
-     "link": "https://www.baijing.cn/question/638583",
-     "pubDate": "Sun, 01 Nov 2026 11:07:54 +0000",
-     "summary": "上个月收到亚马逊品牌注册后台的通知，要求补充商标所有权证明和品牌与账户的关联材料，我们按流程提交后，品牌备案状态正常，但美国站品牌旗舰店的自然流量从日均 1200 降到 850 左右，降幅接近 30%，加拿大站同步出现类似情况。团队 6 人，做宠物用品，北美站刚起量，月广告预算 1.5 万美元左右，主要用品牌旗舰店加 Sponsored Brands 引流。已经试过重新提交品牌备案资料、检查旗舰店页面合规性、调整 SB 关键词结构，但流量没回来。现在卡在不确定这是备案审核期后的正常波动，还是新规下品牌关联权重变化导致的。想问的是：判断这次流量下滑属于备案规则变化影响还是常规波动，应该看哪几个后",
-     "source": "白鲸出海",
-     "zh": "亚马逊品牌备案新规后，北美站品牌旗舰店流量掉了三成，该怎么调？"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
+     "link": "https://9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand/",
+     "pubDate": "Sun, 01 Nov 2026 16:29:42 +0000",
+     "summary": "If you’re like me and bought an iPhone Duo, you’re likely a bit disappointed by the options on the market to prop it up on a table. Apple’s official $129 folio with kickstand is expensive, flimsy, and gets in the way of the outer display. MagSafe wallets that turn into kickstands are too tall for th",
+     "source": "9to5Mac",
+     "zh": "以下是我解决 iPhone Duo 支架问题的方法，无需任何体积"
+    },
     {
      "title": "This 140W power station might be the ultimate charger for Apple users [Video]",
      "link": "https://9to5mac.com/2026/11/01/this-140w-power-station-might-be-the-ultimate-charger-for-apple-users-video/",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "PSA：今天是购买 Beats 360 坐垫折扣套件的最后一天"
     },
     {
-     "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
-     "link": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
-     "pubDate": "Sat, 31 Oct 2026 15:42:26 +0000",
-     "summary": "After five years, Apple released its first major MacBook Pro overhaul since the M1 Pro/M1 Max models, and well… it was a little bit underwhelming from a design perspective. The product is incredible on many merits, but after seeing it, I’m not left feeling like I need to buy one – at least not yet. ",
-     "source": "9to5Mac",
-     "zh": "配备 PROLED XDR 的 MacBook Pro 看起来棒极了，但我并不急于升级"
-    },
-    {
      "title": "Fujifilm Instax Mini Evo 2 review: A hybrid instant camera that changed my mind",
      "link": "https://www.dpreview.com/reviews/fujifilm-instax-mini-evo-2-review-a-hybrid-instant-camera-that-changed-my-mind/",
      "pubDate": "Sat, 31 Oct 2026 13:00:00 +0000",
@@ -2241,6 +2241,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Judge dismisses Trump's $10B defamation lawsuit against Wall Street Journal",
+     "link": "https://seekingalpha.com/news/4661885-judge-dismisses-trumps-10b-defamation-lawsuit-against-wall-street-journal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 01 Nov 2026 11:19:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "法官驳回特朗普针对《华尔街日报》提起的 100 亿美元诽谤诉讼"
+    },
     {
      "title": "AI capex surge pushes Big Tech free cash flow below zero",
      "link": "https://seekingalpha.com/news/4661886-ai-capex-surge-pushes-big-tech-free-cash-flow-below-zero?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2330,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "摩根士丹利威尔逊预计标准普尔 500 指数将下跌 9%，然后反弹至 8,000 点"
     },
     {
-     "title": "Trending stocks this week as markets slide on tech selloff",
-     "link": "https://seekingalpha.com/news/4661201-trending-stocks-this-week-as-markets-slide-on-tech-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 01 Nov 2026 10:30:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "科技股抛售导致市场下滑，本周热门股票"
-    },
-    {
      "title": "These Senate races may help determine the fate of Social Security",
      "link": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
      "pubDate": "Sun, 01 Nov 2026 15:20:06 GMT",
@@ -2386,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "这是人工智能驱动的牛市的最大威胁"
     },
     {
+     "title": "黄金大跌、美股科技巨头大跌，市场发生了什么？",
+     "link": "http://www.eeo.com.cn/2026/1101/1081930.shtml",
+     "pubDate": "Sun, 01 Nov 2026 21:18:46 +0800",
+     "summary": "全球资产的如此表现，很难仅用避险或流动性紧缩解释。不同的资产类别有各自的交易逻辑，需要追问的是，这些压力会不会汇合，从资产价格传导至信用市场，让企业借不到钱？",
+     "source": "经济观察网",
+     "zh": "黄金大跌、美股科技巨头大跌，市场发生了什么？"
+    },
+    {
      "title": "America is doing better than you think. Your algorithm is just hiding it.",
      "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
      "pubDate": "Sun, 01 Nov 2026 13:00:00 GMT",
@@ -2418,6 +2426,14 @@ window.INDUSTRY_DATA = {
      "zh": "11月1日晚间央视新闻联播要闻集锦"
     },
     {
+     "title": "长鑫科技首场业绩交流会：环比增速大幅放缓，服务器内存仍供不应求",
+     "link": "http://www.eeo.com.cn/2026/1101/1081925.shtml",
+     "pubDate": "Sun, 01 Nov 2026 20:21:38 +0800",
+     "summary": "在需求被提前锁定、价格弹性变小之后，长鑫科技接下来的业绩增长，更多要靠产能。",
+     "source": "经济观察网",
+     "zh": "长鑫科技首场业绩交流会：环比增速大幅放缓，服务器内存仍供不应求"
+    },
+    {
      "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
      "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
      "pubDate": "Sun, 01 Nov 2026 12:19:33 GMT",
@@ -2442,6 +2458,14 @@ window.INDUSTRY_DATA = {
      "zh": "Weil Gotshal：陷入困境的华尔街律师事务所现在发生了什么？"
     },
     {
+     "title": "62356人涌入苏超决赛，品牌为什么都来了？",
+     "link": "http://www.eeo.com.cn/2026/1101/1081924.shtml",
+     "pubDate": "Sun, 01 Nov 2026 19:59:58 +0800",
+     "summary": "作者 戴莉娟 10月31日，2026江苏省城市足球联赛（以下简称“苏超”）迎来决赛之夜。 62356人，这是当晚走进球场的观众人数。置身现场，最直观的感受是热闹。看台上，球迷身着各自支持球队的球衣，挥舞旗帜，为每一次进攻欢呼，也为每一次错失机会叹息。欢呼声此起彼伏，数万人的情绪随着一颗足球的滚动不断起伏。 这是一场无锡队与常州队之间的较量。但对于许多来到现场的球迷而言，比赛的意义早已超越胜负，球场上...",
+     "source": "经济观察网",
+     "zh": "62356人涌入苏超决赛，品牌为什么都来了？"
+    },
+    {
      "title": "国有某大行计划向中国国新和中国诚通各新增千亿级股票回购增持专项贷款额度",
      "link": "http://finance.eastmoney.com/news/1345,202611013917745950.html",
      "pubDate": "Sun, 01 Nov 2026 19:44:13 +0800",
@@ -2456,30 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "沪深两市多家上市公司11月1日晚间发布公司公告，以下为重要公告汇总。 【品大事】 ST合纵 ：收到证监会立案告知书 ST合纵 公告称，公司于2026年10月30日收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案。立案调查期间，公司将积极配合相关工作，并按规定履行信息披露义务。 华大九天 ：拟收购奇捷科技不超51%股权，补齐数字逻辑优化设计EDA工具短板 华大九天 公告，为补齐数字逻辑优化设计EDA工具短板，提升公司现有数字全流程解决方案的竞争力，并打造下一代AI/3DIC数字设计逻辑和性能优化解决方案，公司拟出资不超过2.2亿元收购参股公司奇捷科技（深圳）有限公司（",
      "source": "东方财富资讯",
      "zh": "11月1日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "存储是“科技避风港”？野村：估值只有2-3倍了",
-     "link": "https://wallstreetcn.com/articles/3784948",
-     "pubDate": "Sun, 01 Nov 2026 19:24:41 +0800",
-     "summary": "科技巨头AI军备竞赛持续升温，自由现金流加速恶化，而存储芯片制造商却在悄然积累现金。野村证券认为，当前市场对存储板块的定价存在根本性误判。 据追风交易台消息，五大科技公司三季度财报相继出炉，AI投资意愿不减反增，但各公司资金实力开始出现分化。Meta单季度自由现金流首次自IPO以来转负，录得-21亿美元；Alphabet连续两个季度为负，达-91亿美元；Amazon滚动12个月自由现金流缺口扩大至-424亿美元。与此同时，存储芯片厂商现金持续积累，据野村估算， 以三星电子和SK海力士为代表的韩国存储\"双雄\"2027年预期市盈率仅约2-3倍，较科技巨头折价85-90%。 野村在10月30日发布的",
-     "source": "华尔街见闻",
-     "zh": "存储是“科技避风港”？野村：估值只有2-3倍了"
-    },
-    {
-     "title": "十大机构论市：超跌反弹条件进一步改善",
-     "link": "http://finance.eastmoney.com/news/1345,202611013917731744.html",
-     "pubDate": "Sun, 01 Nov 2026 19:00:28 +0800",
-     "summary": "本周沪指下跌2.48%，深证成指下跌7.20%，创业板指下跌10.08%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 申万宏源策略：调整延续 超跌反弹条件进一步改善 本周市场反弹尝试再次被产业冲击打断，但调整延续后，超跌反弹的条件进一步改善：长期性价比出清时间表更近，短期性价比指标更加普遍地指向高性价比。各类资金进一步减仓，重建资金供需平衡的条件也改善。我们维持眼下超跌反弹随时触发，而一个重要的中长期低点可能在岁末年初出现的判断。重申我们对历史大波段调整中，超跌反弹波段特征的总结：1. 超跌反弹波段市场指数空间有限，但结构活跃。2. 反弹会有一定持续时间，市场再下跌，",
-     "source": "东方财富资讯",
-     "zh": "十大机构论市：超跌反弹条件进一步改善"
-    },
-    {
-     "title": "比亚迪10月新能源汽车销量49.02万辆 同比增长11%",
-     "link": "http://finance.eastmoney.com/news/1345,202611013917730834.html",
-     "pubDate": "Sun, 01 Nov 2026 18:19:32 +0800",
-     "summary": "比亚迪 10月 新能源 汽车 销量49.02万辆，同比增长10.97%；前10个月累计销量362.17万辆，同比下降2.16%。其中，纯电动 汽车 10月销量30.57万辆，同比增长37.38%；插电式混合动力 汽车 销量17.74万辆，同比下降17.22%。前10个月纯电动汽车累计销量193.57万辆，同比增长5.86%；插混汽车累计销量162.60万辆，同比下降11.02%。10月出口 新能源 汽车17.02万辆。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "比亚迪10月新能源汽车销量49.02万辆 同比增长11%"
     }
    ]
   },

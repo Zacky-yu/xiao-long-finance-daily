@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
      "zh": "人工智能资本支出激增将大型科技公司的自由现金流推至零以下"
     },
     {
+     "title": "Inside the leaderless movement set to govern Serbia",
+     "link": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
+     "pubDate": "Sun, 01 Nov 2026 16:12:16 GMT",
+     "summary": "Secretive ‘plenums’, code names based on Teletubbies, and fury over corruption: how student rebels won a parliamentary victory",
+     "source": "Financial Times",
+     "zh": "治理塞尔维亚的无领导运动内部"
+    },
+    {
      "title": "XLP hits record high, posts best monthly performances since 1998 as investors seek safety",
      "link": "https://seekingalpha.com/news/4661564-xlp-hits-record-high-posts-best-monthly-performances-since-1998-as-investors-seek-safety?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 01 Nov 2026 11:05:27 -0500",
@@ -2272,6 +2280,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "推动美国前进的行业现在正等着看美国的投票结果"
+    },
+    {
+     "title": "France and the UK require a new entente",
+     "link": "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7",
+     "pubDate": "Sun, 01 Nov 2026 16:00:02 GMT",
+     "summary": "The Suez crisis offers valuable lessons on troubled relations since the birth of the European project",
+     "source": "Financial Times",
+     "zh": "法国和英国需要新的协约"
     },
     {
      "title": "Everything changed for the oil, AI and bond trades over the past month",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/2 14:48:01",
+ "generated_at": "2026/11/2 14:49:55",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+     "link": "https://www.qbitai.com/2026/11/507150.html",
+     "pubDate": "Mon, 02 Nov 2026 06:28:07 +0000",
+     "summary": "模型管线双驱动",
+     "source": "量子位",
+     "zh": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系"
+    },
+    {
+     "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+     "link": "https://www.qbitai.com/2026/11/507107.html",
+     "pubDate": "Mon, 02 Nov 2026 06:08:04 +0000",
+     "summary": "能指挥Agent干活，还能控制智能家居",
+     "source": "量子位",
+     "zh": "小米开源了个150元的AI小玩意，火到配件都涨价了"
+    },
     {
      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
      "link": "https://www.qbitai.com/2026/11/507082.html",
@@ -98,28 +114,12 @@ window.INDUSTRY_DATA = {
      "zh": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考"
     },
     {
-     "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-     "link": "https://www.qbitai.com/2026/11/506990.html",
-     "pubDate": "Sun, 01 Nov 2026 07:50:57 +0000",
-     "summary": "这事还是想得太简单了",
-     "source": "量子位",
-     "zh": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子"
-    },
-    {
      "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
      "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
      "pubDate": "Sun, 01 Nov 2026 07:47:17 +0000",
      "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag",
      "source": "MarkTechPost",
      "zh": "DeepSeek 开源 dsh-superagent，路由器工作编码代理"
-    },
-    {
-     "title": "Jev新成果，再次引爆开源",
-     "link": "https://www.qbitai.com/2026/11/506922.html",
-     "pubDate": "Sun, 01 Nov 2026 04:18:37 +0000",
-     "summary": "再次“性价比屠夫”",
-     "source": "量子位",
-     "zh": "Jev新成果，再次引爆开源"
     },
     {
      "title": "24项真机硬碰硬！不靠大规模机器人预训练，Fysiverse-UniWAM拿下导航、移动操作双第一",
@@ -2250,6 +2250,14 @@ window.INDUSTRY_DATA = {
      "zh": "澳大利亚10月PMI下调至49.6；通胀指标加速至0.5%"
     },
     {
+     "title": "报告称300万家民企将在10年内迎来代际交接",
+     "link": "http://www.eeo.com.cn/2026/1102/1082152.shtml",
+     "pubDate": "Mon, 02 Nov 2026 14:30:00 +0800",
+     "summary": "《报告》称，未来5年—10年预计约300万家民营企业将迎来代际交接，未来30年将有规模庞大的民营财富向下一代转移。",
+     "source": "经济观察网",
+     "zh": "报告称300万家民企将在10年内迎来代际交接"
+    },
+    {
      "title": "Blackstone-led group buys $3.1B LNG Canada stake from Mitsubishi, Bloomberg reports",
      "link": "https://seekingalpha.com/news/4661916-blackstone-led-group-buys-31b-lng-canada-stake-from-mitsubishi-bloomberg-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 02 Nov 2026 01:26:32 -0500",
@@ -2304,6 +2312,14 @@ window.INDUSTRY_DATA = {
      "summary": "11月2日，A股三大股指午后维持涨势，三大股指均涨超1%，创业板涨近3%。AI应用、AI办公、短剧游戏等概念股集体爆发，券商、白酒等板块拉升，国金证券、太平洋证券涨停，水井坊、皇台酒业等涨停，物理AI、机器人概念股早盘调整之后强势拉升，宇树科技涨超3%，此前一度跌9%。贵金属、煤炭、军工等板块回落。国际现货黄金上周五遭遇猛烈抛售，击穿3900美元关口，拖累贵金属和贵金属期货走势。 据上海证券报，\"有证券公司、基金公司接到通知，11月2日中国人民银行、中国证监会召开会议，研究推动支持资本市场工具使用。同一天，中国人民银行、金融监管总局、中国证监会还将召集各大银行开会研究优化股票回购增持再贷款政策",
      "source": "华尔街见闻",
      "zh": "午后拉升！创业板大涨近3%，金融科技ETF午后批量涨停，传媒、券商爆发，恒科指涨3%，权重科网股集体大涨"
+    },
+    {
+     "title": "卓驭科技入局商用车市场 乘用车智驾模型“迁移”靠谱吗？",
+     "link": "http://www.eeo.com.cn/2026/1102/1082144.shtml",
+     "pubDate": "Mon, 02 Nov 2026 14:03:18 +0800",
+     "summary": "面对行业未来，卓驭科技预判商用车市场的“智驾时刻”将很快来临。刘思康说：“现在智驾在商用车的渗透率非常低，去年出货量不到1%。这个行业竞争格局还没有完全打开，商用车一旦开始做智驾，速度肯定比乘用车快。乘用车可能至少要做十年，商用车未来两到三年内就会有爆发趋势。”",
+     "source": "经济观察网",
+     "zh": "卓驭科技入局商用车市场 乘用车智驾模型“迁移”靠谱吗？"
     },
     {
      "title": "South Korea targets &apos;world&apos;s highest performance&apos; sovereign AI model in record new budget",
@@ -2410,6 +2426,14 @@ window.INDUSTRY_DATA = {
      "zh": "数据中心监管压力加剧！美国多州州长候选人支持暂停建设"
     },
     {
+     "title": "时间摩擦的翻译层失灵：当时间被算法接管，碳基还剩什么？",
+     "link": "http://www.eeo.com.cn/2026/1102/1082104.shtml",
+     "pubDate": "Mon, 02 Nov 2026 12:21:30 +0800",
+     "summary": "本文聚焦碳硅共生时间摩擦的二阶困境。“碳硅共生经济学”系列之四提出的翻译机制（里程碑、校准点、缓冲区）在组织中易变形失灵：否决权锈死、缓冲区被蚕食、里程碑沦为短期套利工具、校准点退化为盖章，导致责任真空与认知主权受侵蚀。文章运用委托-代理理论等工具剖析激励错配，并提出“问责期权”、算法责任信托等制度创新，主张建立弹性制度以保留人类“有质量的拒绝”能力。碳硅共生本质是制度演化，碳基主权最后的底牌是敢于对算法说“不”。",
+     "source": "经济观察网",
+     "zh": "时间摩擦的翻译层失灵：当时间被算法接管，碳基还剩什么？"
+    },
+    {
      "title": "AI存储超级周期生变？铠侠股价暴跌17% 较历史高点“膝盖斩”",
      "link": "http://finance.eastmoney.com/news/1344,202611023918487892.html",
      "pubDate": "Mon, 02 Nov 2026 12:19:04 +0800",
@@ -2434,6 +2458,14 @@ window.INDUSTRY_DATA = {
      "zh": "加拿大-印度55亿美元的银行收购案遭到工人和政界人士的反对"
     },
     {
+     "title": "中国在AI时代的产业链优势：让产业集群成为学习网络 | 战略提前量",
+     "link": "http://www.eeo.com.cn/2026/1102/1082098.shtml",
+     "pubDate": "Mon, 02 Nov 2026 12:08:11 +0800",
+     "summary": "中国拥有大量工厂和真实的产业问题。当前的关键任务是把一处现场的解决办法，转化为全链条下一次行动的依据。生产网络创造规模，学习网络使规模持续产生能力。问题能否在网络中被识别，证据能否在网络中得到验证，改进能否有条件地复用，收益能否回到下一轮学习，将决定中国的产业链优势能否转化为AI时代的产业主动权。",
+     "source": "经济观察网",
+     "zh": "中国在AI时代的产业链优势：让产业集群成为学习网络 | 战略提前量"
+    },
+    {
      "title": "短剧产能狂飙！概念股集体爆发 2026业绩预测翻倍股来了",
      "link": "http://finance.eastmoney.com/news/11139,202611023918486593.html",
      "pubDate": "Mon, 02 Nov 2026 12:06:57 +0800",
@@ -2442,44 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "短剧产能狂飙！概念股集体爆发 2026业绩预测翻倍股来了"
     },
     {
-     "title": "商业模式存在“致命”风险！伯恩斯坦：大批Neoclouds将在1-3年内破产",
-     "link": "https://wallstreetcn.com/articles/3784974",
-     "pubDate": "Mon, 02 Nov 2026 11:43:51 +0800",
-     "summary": "据追风交易台消息，伯恩斯坦在最新研报中披露了与数据中心法律专家Jeffrey Moerdler的深度对话，并得出一个对市场影响不容忽视的判断： 由于Neocloud（AI算力新云）在租约结构上存在根本性矛盾，一批Neocloud企业将在1—3年内相继走向破产。 Moerdler自1990年起专注于数据中心及数字基础设施领域，目前带领约10名律师的团队，每年经手数百笔交易，同时处理的项目多达30至40个。 他说道：\" Neocloud让我担忧，它们是WeWork 2.0。 \" 问题的核心在于一个结构性错配：Neocloud签下的是15年数据中心租约，而其面向客户的合同可能只有数天、数周、数月，最",
-     "source": "华尔街见闻",
-     "zh": "商业模式存在“致命”风险！伯恩斯坦：大批Neoclouds将在1-3年内破产"
-    },
-    {
-     "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-     "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 03:23:00 GMT",
-     "summary": "How to manage “giving while living” without endangering your own retirement.",
-     "source": "MarketWatch",
-     "zh": "想帮助您的成年子女和孙辈吗？趁你还活着的时候给他们钱。"
-    },
-    {
-     "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-     "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
-     "pubDate": "Mon, 02 Nov 2026 02:58:53 GMT",
-     "summary": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
-     "source": "CNBC",
-     "zh": "OpenAI 建立芯片合作伙伴关系，Sam Altman 出人意料地访问韩国"
-    },
-    {
-     "title": "Rubio says Trump wants to end Iran war &apos;peacefully&apos; even as both sides prepare for strikes",
-     "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
-     "pubDate": "Mon, 02 Nov 2026 02:39:35 GMT",
-     "summary": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections.",
-     "source": "CNBC",
-     "zh": "卢比奥表示，特朗普希望“和平”结束伊朗战争，尽管双方都在准备打击"
-    },
-    {
-     "title": "Trump makes final pitch to restive voters in midterms campaign",
-     "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
-     "pubDate": "Mon, 02 Nov 2026 01:47:26 GMT",
-     "summary": "Republican Party is defending its control of Congress against signs of backlash against president",
-     "source": "Financial Times",
-     "zh": "特朗普在中期竞选中向不安的选民做出最后的宣传"
+     "title": "我国拟修改刑事诉讼法更好促进司法公正",
+     "link": "http://www.eeo.com.cn/2026/1102/1082084.shtml",
+     "pubDate": "Mon, 02 Nov 2026 11:44:58 +0800",
+     "summary": "刑事诉讼法修正草案11月2日提请十四届全国人大常委会第二十五次会议审议。",
+     "source": "经济观察网",
+     "zh": "我国拟修改刑事诉讼法更好促进司法公正"
     }
    ]
   },

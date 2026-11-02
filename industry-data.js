@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/2 12:45:06",
+ "generated_at": "2026/11/2 12:49:41",
  "recent_days": 7,
  "industries": [
   {
@@ -143,7 +143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
      "source": "TechCrunch AI",
-     "zh": "苹果首席执行官表示，公司不想“为了人工智能而推出人工智能”"
+     "zh": "苹果首席执行官表示公司不想“为了人工智能而推出人工智能”"
     },
     {
      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
@@ -258,52 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Lite-On boosts 2027 capex as AI race raises stakes for CSPs",
-     "link": "https://www.digitimes.com/news/a20261102PD216/lite-on-2027-capex-revenue-high-end.html",
-     "pubDate": "Mon, 2 Nov 2026 03:55:22 GMT",
-     "summary": "Lite-On Technology will continue increasing capital expenditure in 2027 as cloud service providers (CSPs) pour money into the artificial intelligence (AI) infrastructure race, president Anson Chiu said. He warned that CSPs that stop investing to secure market share will pay an even higher price for ",
+     "title": "RichWave sees Wi-Fi 7 reaching 50% share in 2027",
+     "link": "https://www.digitimes.com/news/a20261102PD224/design-wi-fi-7-richwave-rf-ic-2027.html",
+     "pubDate": "Mon, 2 Nov 2026 04:41:48 GMT",
+     "summary": "Radio frequency (RF) IC design house RichWave Technology stated at its recent investor conference that memory supply constraints, rather than end demand, are curbing networking equipment shipments despite resilient overall market demand. The company expects Wi-Fi 7 to capture half of its Wi-Fi marke",
      "source": "DIGITIMES",
-     "zh": "人工智能竞赛增加了通信服务提供商的赌注，光宝科技提高了 2027 年资本支出"
+     "zh": "RichWave 预计 2027 年 Wi-Fi 7 的份额将达到 50%"
     },
     {
-     "title": "Sam Altman meets with Samsung, SK as memory crunch deepens",
-     "link": "https://www.digitimes.com/news/a20261102VL211/openai-sam-altman-samsung-sk-hynix-memory-chips-demand.html",
-     "pubDate": "Mon, 2 Nov 2026 03:53:42 GMT",
-     "summary": "OpenAI CEO Sam Altman met with executives from Samsung Group and SK Group during a brief visit to South Korea on October 31, as tightening memory supplies and growing commitments to major AI customers raise the stakes for the company's semiconductor and data center partnerships.",
+     "title": "Schneider and Foxconn accelerate modular AI factory deployment as token usage surges 60-Fold",
+     "link": "https://www.digitimes.com/news/a20261102PD222/foxconn-data-center-demand-capacity-cooling.html",
+     "pubDate": "Mon, 2 Nov 2026 04:33:42 GMT",
+     "summary": "The boom in generative AI is rapidly driving demand for data center construction, making power supply, cooling, and energy management central challenges for AI infrastructure. Speaking at Hon Hai Tech Day 2026 (HHTD 26), Himanshu Prasad, Senior Vice President at Schneider Electric, projected that gl",
      "source": "DIGITIMES",
-     "zh": "随着内存危机的加剧，萨姆·奥尔特曼 (Sam Altman) 会见了三星和 SK"
+     "zh": "代币使用量激增 60 倍，施耐德和富士康加速模块化人工智能工厂部署"
     },
     {
-     "title": "China's Empyrean Tech targets digital EDA gaps with US$32.9 million Easy-Logic acquisition",
-     "link": "https://www.digitimes.com/news/a20261102VL208/eda-design-acquisition-automation-empyrean-technology.html",
-     "pubDate": "Mon, 2 Nov 2026 03:44:12 GMT",
-     "summary": "China's leading electronic design automation (EDA) supplier, Empyrean Technology, plans to acquire a controlling stake in Easy-Logic Technology, a specialist in digital logic optimization, for about CNY219 million (&asymp; US$32.9 million). The acquisition will address a gap in Empyrean's digital ch",
+     "title": "Foxconn takes AI beyond clinical software with hospital partnerships and medical robotics",
+     "link": "https://www.digitimes.com/news/a20261102PD223/foxconn-medical-robotics-hospital-healthcare.html",
+     "pubDate": "Mon, 2 Nov 2026 04:31:59 GMT",
+     "summary": "Foxconn is expanding its AI capabilities into clinical workflows, medical robotics and healthcare manufacturing, working with hospitals, equipment makers and technology partners to build an integrated smart healthcare ecosystem. Its strategy follows an ecosystem-to-clinical deployment framework span",
      "source": "DIGITIMES",
-     "zh": "中国九天科技以 3290 万美元收购 Easy-Logic，瞄准数字 EDA 缺口"
+     "zh": "富士康通过与医院合作和医疗机器人技术，将人工智能超越临床软件"
     },
     {
-     "title": "What CXMT's 3Q26 earnings reveal about DRAM shortages, DDR5 momentum, and 2027 growth strategy",
-     "link": "https://www.digitimes.com/news/a20261102VL210/dram-cxmt-ddr5-2027-growth.html",
-     "pubDate": "Mon, 2 Nov 2026 03:42:02 GMT",
-     "summary": "China's leading DRAM manufacturer CXMT expects revenue to continue growing through 2027, supported by tight memory supply, AI server demand and an expanding portfolio of higher-value DDR5 and LPDDR6 products. The company is also negotiating long-term supply agreements with major customers, reflectin",
+     "title": "MediaTek pins second ASIC project and customer to 2028",
+     "link": "https://www.digitimes.com/news/a20261102PD217/mediatek-asic-2028-market-earnings.html",
+     "pubDate": "Mon, 2 Nov 2026 04:23:12 GMT",
+     "summary": "MediaTek's latest earnings call focused heavily on its data-center ASIC business, as CEO Rick Tsai and CFO David Ku addressed market rumors about delays to its second AI accelerator ASIC project, EMIB packaging yields, and the identity of its second customer. The company said its major customer's se",
      "source": "DIGITIMES",
-     "zh": "长鑫存储第三季度财报揭示了 DRAM 短缺、DDR5 势头和 2027 年增长战略"
+     "zh": "联发科将第二个 ASIC 项目和客户定于 2028 年"
     },
     {
-     "title": "Dixon maps AI hardware expansion through Inventec, Gemtek, prospective packaging partners",
-     "link": "https://www.digitimes.com/news/a20261102VL203/dixon-packaging-gemtek-inventec-hardware.html",
-     "pubDate": "Mon, 2 Nov 2026 03:35:54 GMT",
-     "summary": "Dixon Technologies is pursuing separate partnerships for servers, optical communications, and advanced semiconductor packaging as it seeks a role in AI infrastructure manufacturing, although its most ambitious silicon-photonics plans remain at the evaluation stage.",
+     "title": "Samsung partners with PXPay to bolster Samsung Wallet in Taiwan",
+     "link": "https://www.digitimes.com/news/a20261102PD220/mobile-samsung-samsung-electronics-taiwan-sales-smartphone.html",
+     "pubDate": "Mon, 2 Nov 2026 04:10:18 GMT",
+     "summary": "Samsung Electronics Taiwan is partnering with local mobile payment platform PXPay as part of its expansion of Samsung Wallet applications. The move, announced on October 30 with services beginning on November 1, follows the earlier integration of tap-and-pay EasyCard functions into Samsung Wallet an",
      "source": "DIGITIMES",
-     "zh": "Dixon 通过 Inventec、Gemtek 和潜在包装合作伙伴规划 AI 硬件扩张"
+     "zh": "三星与 PXPay 合作加强三星电子钱包在台湾的业务"
     },
     {
-     "title": "Foxconn's FII, FIT join forces to tackle AI data center bottlenecks beyond computing power",
-     "link": "https://www.digitimes.com/news/a20261102PD221/fit-foxconn-fii-communications-data.html",
-     "pubDate": "Mon, 2 Nov 2026 03:20:57 GMT",
-     "summary": "Foxconn subsidiaries Foxconn Interconnect Technology (FIT) and Foxconn Industrial Internet (FII) are combining their expertise in computing, connectivity, power delivery and cooling to address increasingly complex AI infrastructure demands. Speaking at Hon Hai Tech Day, their chairmen said competiti",
+     "title": "Samsung chairman Lee Jae-yong turns to Japan for AI chip packaging edge",
+     "link": "https://www.digitimes.com/news/a20261102VL212/samsung-chairman-japan-ai-chip-packaging-materials.html",
+     "pubDate": "Mon, 2 Nov 2026 04:09:11 GMT",
+     "summary": "Samsung Electronics chairman Lee Jae-yong visited the company's Advanced Package Lab (APL) in Yokohama, Japan, on November 1, as the chipmaker looks to Japan's semiconductor materials and equipment industry to strengthen its advanced packaging capabilities for AI processors.",
      "source": "DIGITIMES",
-     "zh": "富士康FII、FIT联手解决AI数据中心算力之外的瓶颈"
+     "zh": "三星董事长李在镕转向日本寻求人工智能芯片封装优势"
     },
     {
      "title": "Ed Works The Whitehall Angles",
@@ -439,7 +439,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 10:27:30 +0000",
      "summary": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
      "source": "Electronics Weekly",
-     "zh": "泰雷兹阿莱尼亚宇航公司赢得另外两颗伽利略卫星的合同"
+     "zh": "泰雷兹阿莱尼亚航天公司赢得另外两颗伽利略卫星的合同"
     },
     {
      "title": "First Solar licensing CubicPV’s US patents for perovskite solar technology",
@@ -479,7 +479,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 18:52:30 GMT",
      "summary": "For three decades, white LEDs have depended on rare-earth materials such as yttrium aluminium garnet (YAG) layered onto a blue LED chip (Figure 1). Opto-semiconductor device maker Seoul Viosys Co Ltd (SVC) says that it has now broken that dependence by developing and mass producing a chip that emits",
      "source": "Semiconductor Today",
-     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10μm"
+     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10微米"
     },
     {
      "title": "First Solar inaugurates first phase of South Carolina production facility",
@@ -1754,12 +1754,36 @@ window.INDUSTRY_DATA = {
      "zh": "大唐带来 3.5\" 单板计算机 WCL-35，基于英特尔酷睿 3 处理器 304"
     },
     {
+     "title": "跨境差旅党换iPhone Duo：eSIM能减负，但没实现一机走天下",
+     "link": "https://www.huxiu.com/article/4902246.html?f=rss",
+     "pubDate": "Mon, 02 Nov 2026 12:40:04 +0800",
+     "summary": "本文来自微信公众号： IT时报 ，作者：沈毅斌 苹果首款折叠屏iPhone Duo的热度还在发酵。从首发日的门店长龙，到社交平台刷屏的形态设计、屏幕折痕、续航测评……这款苹果折叠屏旗舰的每一处细节都被放置于聚光灯下。 在硬件质量之外，eSIM功能作为这款机型的重要配置，成为用户购机前后咨询最集中的话题。 对不少人而言，eSIM意味着更简洁的机身、更灵活的多卡管理，尤其对异地工作、跨境差旅的人群有着天然吸引力。但eSIM究竟如何办理、外地号码能否本地转换、跨运营商双卡如何安排、出境切换有哪些规则，多数用户仍只有模糊的认知。 10月底，《IT时报》记者走访上海多家移动、联通、电信营业厅，结合真实用",
+     "source": "虎嗅",
+     "zh": "跨境差旅党换iPhone Duo：eSIM能减负，但没实现一机走天下"
+    },
+    {
+     "title": "未来买数据的，未必是人，可能是智能体",
+     "link": "https://www.huxiu.com/article/4902245.html?f=rss",
+     "pubDate": "Mon, 02 Nov 2026 12:39:42 +0800",
+     "summary": "本文来自微信公众号： IT时报 ，作者：潘少颖 刷医保、查公积金、台风天的出行提醒，背后是上海这座城市在数据要素上多年布局的投影。作为全国数据要素市场化配置改革的先行区，上海这两年的变化是实质性的。 10月30日—31日举行的2026全球数商大会，几乎是上海数据要素实践的一次集中路演，覆盖了数据要素市场从确权、流通、跨境到场景落地的完整链条。 中国气象局启用的地球系统数据国际交换节点（上海）亮相，同日发布的气象行业可信数据空间首批4类33种高频气象数据中，85%以上首次向社会开放；上海数据交易所核发首批15份数据产权登记凭证，覆盖航运航空、金融服务、人工智能等领域；世界数据组织航运贸易数字化专",
+     "source": "虎嗅",
+     "zh": "未来买数据的，未必是人，可能是智能体"
+    },
+    {
      "title": "消息称三星屏厂通知明年 OLED 面板价格将大幅上调，并非成本问题意在控价",
      "link": "https://www.ithome.com/1/020/936.htm",
      "pubDate": "Mon, 02 Nov 2026 04:39:15 GMT",
      "summary": "IT之家 11 月 2 日消息，据博板堂 / 视讯堂旗下“ChannelGate 视博合聚”爆料，行业内传出，三星屏厂通知了所有合作伙伴， 明年的 OLED 面板的供应价格将有大幅上调 。 据传，内部已经通知明年的 OLED 供应价将 上调 10-20 美元 （IT之家注：现汇率约合 66.6 - 133.2 元人民币） 。 爆料还提到， 上调原因并非是成本问题 ，而是三星觉得目前 OLED 市场价格混乱，希望可以通过上调供应价以重新管控 OLED 市场价格行情。",
      "source": "IT之家",
      "zh": "消息称三星屏厂通知明年 OLED 面板价格将大幅上调，并非成本问题意在控价"
+    },
+    {
+     "title": "一场“黑客大赛”，警方为什么来了？",
+     "link": "https://www.huxiu.com/article/4902244.html?f=rss",
+     "pubDate": "Mon, 02 Nov 2026 12:39:14 +0800",
+     "summary": "本文来自微信公众号： IT时报 ，作者：潘少颖 当发现风险的人需要藏起面孔才敢说话，这个行业的安全治理，就到了需要重新校准的时刻。 每年的10月24日，是程序员节，也是一年一度的安全极客GeekCon大赛。对于安全圈的人来说，台上演示漏洞，台下交流技术，像一次聚会；对于我来说，像看一次表演，看那些司空见惯的场景，如何在短时间内被拆掉安全的外壳，露出松动的接口、失效的校验和一段本该拦住风险的代码。 今年的GeekCon有些特别，下午比赛刚开始没多久，警方来了。原因是上午一个“被破解无人机在禁飞区强行起飞”的演示项目，有人以“教唆他人破解无人机”为由报警，数名主办方工作人员跟随警方配合笔录。据现场",
+     "source": "虎嗅",
+     "zh": "一场“黑客大赛”，警方为什么来了？"
     },
     {
      "title": "Casap, whose AI tools automate dispute and anti-fraud operations for banks, raised a $56M Series B led by Base10 Partners, bringing its total funding to $90M (Jeff John Roberts/Fortune)",
@@ -1834,36 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "理想新一代 MEGA 前舱 29 英寸 6K 全景屏出现短期供应断货问题，汤靖称要到年底左右才能恢复"
     },
     {
-     "title": "在座各位AI，都是“垃圾”",
-     "link": "https://www.huxiu.com/article/4902238.html?f=rss",
-     "pubDate": "Mon, 02 Nov 2026 12:07:35 +0800",
-     "summary": "本文来自微信公众号： 字母榜 ，作者：袁心玥 AI公司还在冲刺万亿美元估值，信用评级机构已经开始泼冷水了。 10月30日，据外媒披露，全球投资巨头黑石改变了对Anthropic未来信用评级的预期。此前黑石认为这家即将上市的AI公司有望在今年年底前获得投资级评级，如今却预计，即使完成IPO，Anthropic仍可能停留在被称为“垃圾级”的BB档。 同一天，标普将Meta的信用评级展望从“稳定”调整为“负面”，警告其不断扩大的AI投资可能导致自由经营现金流连续多年为负。 甲骨文则已经在今年7月被降级，距离垃圾级仅剩一步。 财务数据也开始显露压力。 今年前三季度，微软、Alphabet、亚马逊、Me",
-     "source": "虎嗅",
-     "zh": "在座各位AI，都是“垃圾”"
-    },
-    {
      "title": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country&apos;s 2027 budget, nearly twice the 2026 amount (Reuters)",
      "link": "https://www.techmeme.com/261101/p26#a261101p26",
      "pubDate": "Sun, 01 Nov 2026 23:05:02 -0500",
      "summary": "Reuters : South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount &nbsp; &mdash;&nbsp; South Korean President Lee Jae Myung vowed on Monday to make bold investments in artificial intelligence to boost &",
      "source": "Techmeme",
      "zh": "韩国总统李在明承诺在该国 2027 年预算中为人工智能、芯片、物理人工智能和数据中心提供 15.97B 美元，几乎是 2026 年预算的两倍（路透社）"
-    },
-    {
-     "title": "卡地亚“穷人三宝”，中产新入场券",
-     "link": "https://www.huxiu.com/article/4902237.html?f=rss",
-     "pubDate": "Mon, 02 Nov 2026 12:03:10 +0800",
-     "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 奢侈品市场的寒气，连行业老大LVMH也没能完全避开。 在其最新发布的2026年第三季度财报中，集团整体有机增长仅为1%，最大的“现金牛”时装与皮具业务甚至下滑了5%。但同一份财报里，腕表与珠宝板块却稳稳守住了6%的正增长。 大盘在降温，珠宝却成了巨头财报里为数不多的亮点。 在社交媒体上，晒奢侈品戒指、项链、手镯的人越来越多。卡地亚的飞碟系列、Love手镯、Trinity三环等基础款，甚至被网友戏称为“穷鬼三件套”“穷人三宝”，成了入门消费者踏进奢侈品大门的“中产新入场券”。 当大家捂紧钱包、不再无差别地买包买表时，珠宝为什么成了奢侈品里",
-     "source": "虎嗅",
-     "zh": "卡地亚“穷人三宝”，中产新入场券"
-    },
-    {
-     "title": "国贸VC，去五道口“抢工位”",
-     "link": "https://www.huxiu.com/article/4902236.html?f=rss",
-     "pubDate": "Mon, 02 Nov 2026 12:01:10 +0800",
-     "summary": "本文来自微信公众号： 小饭桌 ，作者：关注科技的，编辑：张丽娟 VC“离创业者更近一点”的生存法则永远没变。 五道口地铁站往西约四百米，成府路和中关村东路交汇口，大概是北京VC打卡密度最高的十字路口之一。 穿冲锋衣、背着双肩包的投资人从地铁口出来，手里拎着咖啡，手机贴在耳朵上，说的多半是“我刚到，马上过来”。 从这个路口进去，东边就是AI原点社区，也是现在北京AI浓度最高的地方，楼里的人工智能企业超过300家。 路口西侧的搜狐网络大厦里则有大模型第一股智谱。附近还密密麻麻地挤着各种孵化器、加速器和共享办公空间。 再往北走，从AI原点社区步行到清华大学东南门，走得快的话只要五分钟。这五分钟的路程",
-     "source": "虎嗅",
-     "zh": "国贸VC，去五道口“抢工位”"
     },
     {
      "title": "AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures (Cailey Gleeson/Fierce Healthcare)",
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
      "link": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
      "pubDate": "Mon, 02 Nov 2026 01:59:38 +0000",
-     "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50332163 Points: 39 # Comments: 3",
+     "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50332163 Points: 47 # Comments: 3",
      "source": "Hacker News",
      "zh": "F/OSS 漫画 #13：BSD Unix，第 3 部分 – BSD Unix 的开始"
     },
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
      "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
      "pubDate": "Mon, 02 Nov 2026 01:47:07 +0000",
-     "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 41 # Comments: 17",
+     "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 49 # Comments: 19",
      "source": "Hacker News",
      "zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Trigger.dev customer environment variables exposed",
      "link": "https://trigger.dev/blog/security-incident-nov-2026",
      "pubDate": "Mon, 02 Nov 2026 01:09:16 +0000",
-     "summary": "Article URL: https://trigger.dev/blog/security-incident-nov-2026 Comments URL: https://news.ycombinator.com/item?id=50331784 Points: 29 # Comments: 3",
+     "summary": "Article URL: https://trigger.dev/blog/security-incident-nov-2026 Comments URL: https://news.ycombinator.com/item?id=50331784 Points: 36 # Comments: 7",
      "source": "Hacker News",
      "zh": "Trigger.dev 客户环境变量暴露"
     },
@@ -1965,9 +1965,17 @@ window.INDUSTRY_DATA = {
      "title": "OccupySaaS",
      "link": "https://occupysaas.com/",
      "pubDate": "Mon, 02 Nov 2026 00:17:27 +0000",
-     "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 131 # Comments: 84",
+     "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 139 # Comments: 92",
      "source": "Hacker News",
      "zh": "占领SaaS"
+    },
+    {
+     "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
+     "link": "https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html",
+     "pubDate": "Sun, 01 Nov 2026 23:46:59 +0000",
+     "summary": "Article URL: https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html Comments URL: https://news.ycombinator.com/item?id=50331158 Points: 26 # Comments: 8",
+     "source": "Hacker News",
+     "zh": "为中期选举投入 $1.2B 的巨额捐助者"
     },
     {
      "title": "Game Off 2026: The theme is SHIFT",
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "2026 年比赛结束：主题是 SHIFT"
-    },
-    {
-     "title": "Ask HN: Which TV do you recommend for privacy?",
-     "link": "https://news.ycombinator.com/item?id=50328896",
-     "pubDate": "Sun, 01 Nov 2026 19:35:27 +0000",
-     "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium. I have heard good things about Apple TV as a bette",
-     "source": "Hacker News",
-     "zh": "询问 HN：为了保护隐私，您推荐哪款电视？"
     }
    ]
   },
@@ -2199,7 +2199,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 01 Nov 2026 12:00:26 +0000",
      "summary": "Evolve is a new gaming benchmark that shows you where mobile GPUs are hitting a bottleneck.",
      "source": "Android Authority",
-     "zh": "这个 Android 游戏基准测试应用程序做了一些我以前从未见过的事情"
+     "zh": "这个 Android 游戏基准测试应用程序做了我以前从未见过的事情"
     },
     {
      "title": "YouTube’s redesign brings one annoying change, but I found a workaround",
@@ -2242,6 +2242,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "数据局座谈会要求摸清“用数需求” 物理AI爆发前数采环节或先行",
+     "link": "http://finance.eastmoney.com/news/1355,202611023918491195.html",
+     "pubDate": "Mon, 02 Nov 2026 12:41:03 +0800",
+     "summary": "10月28日上午，国家数据局组织召开行业高质量数据集建设链主工作座谈会，会议强调，行业高质量数据集建设要坚持“以需定供、以用促建、以评提质”原则，其中， 摸清 人工智能 用数需求被作为重点工作提及 。 会议称，链主单位要立足自身需求，主动拓展产业链上下游等外部需求，坚持需求导向，精准推进数据集建设。 此前10月20日，国家数据集团有限公司正式挂牌成立。 数据采集是为VLA等具身大模型提供训练“原料”，是构建数据飞轮、支撑商业闭环的基础 。与文本大模型可以从互联网抓取语料不同，物理AI无法依靠网络爬取完成数据积累，需要建立任务指令、环境观测、 机器人 状态、控制动作与执行结果之间的时序关联，数据",
+     "source": "东方财富股票",
+     "zh": "数据局座谈会要求摸清“用数需求” 物理AI爆发前数采环节或先行"
+    },
+    {
+     "title": "麒麟信安：智能云业务尚未对经营业绩产生重大影响",
+     "link": "http://finance.eastmoney.com/news/1354,202611023918491076.html",
+     "pubDate": "Mon, 02 Nov 2026 12:35:00 +0800",
+     "summary": "麒麟信安 (688152)在2026年第三季度业绩说明会上表示，目前公司智能云业务尚处于场景验证、市场培育及推广初期，尚未对经营业绩产生重大影响。后续，公司将持续聚焦 信创 云、智能云核心赛道，深化重点行业场景化适配与标杆项目落地，不断打磨产品性能、优化整体解决方案竞争力，稳步推动 云计算 业务与智能算力业务协同发展。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "麒麟信安：智能云业务尚未对经营业绩产生重大影响"
+    },
+    {
+     "title": "蓝箭科技等成立智造科技公司 含无人飞行器销售业务",
+     "link": "http://finance.eastmoney.com/news/1354,202611023918490792.html",
+     "pubDate": "Mon, 02 Nov 2026 12:33:43 +0800",
+     "summary": "企查查APP显示，近日，蓝箭智造科技（衢州）有限公司成立，经营范围包含智能无人飞行器销售；建设工程设计；建筑劳务分包；建设工程施工等。企查查股权穿透显示，该公司由蓝箭科技（衢州）有限公司等共同持股。 （文章来源：证券时报网）",
+     "source": "东方财富股票",
+     "zh": "蓝箭科技等成立智造科技公司 含无人飞行器销售业务"
+    },
+    {
+     "title": "券商自营业务冷暖不一：招商证券拿下三季度榜首 部分机构凭一级市场突围",
+     "link": "http://finance.eastmoney.com/news/1354,202611023918490873.html",
+     "pubDate": "Mon, 02 Nov 2026 12:33:14 +0800",
+     "summary": "自营业务成为左右券商三季度业绩的核心变量，行业呈现出鲜明的分化格局。 一批提前布局硬科技赛道的机构凭借科创板IPO项目集中兑现收益，实现自营收入逆势高增，短期行业座次出现异动。 但受权益市场回调冲击，自营收入同比下滑，超七成券商单季净利润下行。震荡行情之下，投资结构与业务布局的差异，正在持续放大证券行业的内部分化。 按照“投资收益+公允价值变动收益-对联营企业和合营企业的投资收益”的行业通用口径统计，三季度上市券商自营业务的分化程度远超以往。33家上市券商单季自营收入同比下滑，占比超八成；其中 东吴证券 （601555.SH）等9家机构单季自营收入为负， 国信证券 以-12.47亿元的自营收入",
+     "source": "东方财富股票",
+     "zh": "券商自营业务冷暖不一：招商证券拿下三季度榜首 部分机构凭一级市场突围"
+    },
+    {
      "title": "佳电股份：公司没有机器人产品 正开展机器手代替人工数字化改造",
      "link": "http://finance.eastmoney.com/news/1354,202611023918490628.html",
      "pubDate": "Mon, 02 Nov 2026 12:32:37 +0800",
@@ -2266,44 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "数据中心监管压力加剧！美国多州州长候选人支持暂停建设"
     },
     {
-     "title": "印尼9月出口同比增长11.87% 预估为增长6.45%",
-     "link": "http://finance.eastmoney.com/news/1351,202611023918490572.html",
-     "pubDate": "Mon, 02 Nov 2026 12:32:01 +0800",
-     "summary": "据印尼统计局，印尼9月出口同比增长11.87%，预估为增长6.45%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "印尼9月出口同比增长11.87% 预估为增长6.45%"
-    },
-    {
-     "title": "韩国KOSPI指数日内涨幅扩大至3% SK海力士涨逾5%",
-     "link": "http://stock.eastmoney.com/news/1439,202611023918488367.html",
-     "pubDate": "Mon, 02 Nov 2026 12:25:35 +0800",
-     "summary": "韩国KOSPI指数日内涨幅扩大至3%，现报5902.46点。 SK海力士 涨逾5%，三星 电子 涨近3%。",
-     "source": "东方财富股票",
-     "zh": "韩国KOSPI指数日内涨幅扩大至3% SK海力士涨逾5%"
-    },
-    {
-     "title": "特斯拉与无锡对接深化合作",
-     "link": "http://finance.eastmoney.com/news/1354,202611023918488451.html",
-     "pubDate": "Mon, 02 Nov 2026 12:25:00 +0800",
-     "summary": "据无锡日报，11月1日， 特斯拉 来无锡对接深化合作。无锡市委书记蒋锋、代市长蔡剑峰与 特斯拉 公司全球副总裁陶琳一行会谈。蒋锋、蔡剑峰表示，期待双方以此次会谈为契机，在巩固现有合作的基础上，围绕“三新”消费、 智能驾驶 等领域加强全方位对接，形成更多优势互补、双向赋能的务实合作成果，更好为无锡打造世界级 物联网 产业集群和“ 人工智能 +”标杆城市蓄势赋能。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "特斯拉与无锡对接深化合作"
-    },
-    {
      "title": "时间摩擦的翻译层失灵：当时间被算法接管，碳基还剩什么？",
      "link": "http://www.eeo.com.cn/2026/1102/1082104.shtml",
      "pubDate": "Mon, 02 Nov 2026 12:21:30 +0800",
      "summary": "本文聚焦碳硅共生时间摩擦的二阶困境。“碳硅共生经济学”系列之四提出的翻译机制（里程碑、校准点、缓冲区）在组织中易变形失灵：否决权锈死、缓冲区被蚕食、里程碑沦为短期套利工具、校准点退化为盖章，导致责任真空与认知主权受侵蚀。文章运用委托-代理理论等工具剖析激励错配，并提出“问责期权”、算法责任信托等制度创新，主张建立弹性制度以保留人类“有质量的拒绝”能力。碳硅共生本质是制度演化，碳基主权最后的底牌是敢于对算法说“不”。",
      "source": "经济观察网",
      "zh": "时间摩擦的翻译层失灵：当时间被算法接管，碳基还剩什么？"
-    },
-    {
-     "title": "摩根大通将大众汽车目标价从110欧元下调至85欧元",
-     "link": "http://stock.eastmoney.com/news/1611,202611023918487958.html",
-     "pubDate": "Mon, 02 Nov 2026 12:19:09 +0800",
-     "summary": "摩根大通 将大众 汽车 目标价从110欧元下调至85欧元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "摩根大通将大众汽车目标价从110欧元下调至85欧元"
     },
     {
      "title": "AI存储超级周期生变？铠侠股价暴跌17% 较历史高点“膝盖斩”",

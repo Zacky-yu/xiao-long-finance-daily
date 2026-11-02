@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/2 19:29:43",
+ "generated_at": "2026/11/2 19:50:10",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西11月2日报道，今日，美团LongCat团队发布面向 长程智能体任务 的原生多模态模型 LongCat-2.5 。 该模型总参数量为 1.6万亿 ，每个Token激活约 480亿参数 ，在LongCat-2.0的基础上，重点强化 原生视觉理解与智能体编程能力 。 在美团公布的自动化任务基准AutomationBench、通用Agent任务基准LongCatClawBench等几项基准测评中，LongCat-2.5均 领先Claude-Opus-5、GPT-5.6-Sol等模型 ；在终端操作基准Terminal Bench v4.0上，LongC",
      "source": "智东西",
      "zh": "美团发1.6万亿参数新模型，通用Agent测试超Opus-5，国产芯特别优化"
+    },
+    {
+     "title": "成本压至 1/10！告别人海采数，具身数据Token工厂要如何跑通？",
+     "link": "https://zhidx.com/p/606540.html",
+     "pubDate": "Mon, 02 Nov 2026 18:30:33 +0800",
+     "summary": "智东西 作者 | 王涵 编辑 | 漠影 过去几年，AI的两次规模化发展，都离不开 充足的数据供给 。 大语言模型可以直接利用互联网上积累多年的网页和代码数据，通过持续训练提升模型能力；自动驾驶企业则可以依靠量产车辆的影子模式（Shadow Mode），从真实道路中持续收集行驶数据和人工接管记录。以特斯拉为例，其通过全球数百万辆量产车，将数据采集融入日常驾驶过程，不需要额外组织大规模人工采集。 但到了具身智能领域，这样的数据供给条件并不存在。 过去两年，行业主要依靠真机遥操作和第一视角（EGO）可穿戴设备采集数据，累计获得的真机有效数据和EGO数据也 只有数百万小时 。对于已经投入大量资金的机器",
+     "source": "智东西",
+     "zh": "成本压至 1/10！告别人海采数，具身数据Token工厂要如何跑通？"
     },
     {
      "title": "The agentic web is here",
@@ -174,7 +182,7 @@
      "pubDate": "Sun, 01 Nov 2026 07:47:17 +0000",
      "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag",
      "source": "MarkTechPost",
-     "zh": "DeepSeek 开源 dsh-superagent，路由器工作编码代理"
+     "zh": "DeepSeek 开源 dsh-superagent，一个 Router-Worker 编码代理"
     },
     {
      "title": "24项真机硬碰硬！不靠大规模机器人预训练，Fysiverse-UniWAM拿下导航、移动操作双第一",
@@ -239,14 +247,6 @@
      "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西11月1日报道，10月31日晚间， DeepSeek Harness 团队公布了其关于自主Agent探索—— Super-agent（超级智能体）的底层架构 。 ▲Super-agent开源项目地址 GitHub地址： https://github.com/deepseek-ai/dsh-superagent-prototype DeepSeek想做的“Super-agent”，可以通俗理解为一个 一直在线、能同时干多件事、会主动找活干、出问题能自己恢复 的Agent。该团队本次推出的成果并非一款新产品，而是更接近一种新思路——把计算机系统里的 ",
      "source": "智东西",
      "zh": "DeepSeek又开源了！公布Super agent架构"
-    },
-    {
-     "title": "智能体年均增长超一倍，百度智能云给智能体配了套新底座",
-     "link": "https://zhidx.com/p/606278.html",
-     "pubDate": "Sat, 31 Oct 2026 22:00:44 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智能体的规模正在快速扩张。IDC预测，到2030年，全球活跃Agent数量将达到 22.16亿个 ，年复合增长率达到 139% ，年均增长超1倍。 各类智能体也在密集涌现，热度一路走高。从编程、办公到个人助手，从消费端到企业端，智能体正快速进入各个场景，成为今年AI落地的重点方向。 与热度同步攀升的，是Token（词元）的消耗量。国家数据局披露，到今年3月，我国日均Token调用量已超过 140万亿 ，较2024年初增长 1000多倍 ；中国信通院的监测则显示，到今年6月，这一数字已达 500万亿 。如此庞大的调用量说明， 智能体已经走出概念演示，开",
-     "source": "智东西",
-     "zh": "智能体年均增长超一倍，百度智能云给智能体配了套新底座"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "STMicroelectronics introduces integrated angular rate sensors for ADAS",
+     "link": "https://www.electronicsweekly.com/news/products/sensors-products/stmicroelectronics-introduces-integrated-angular-rate-sensors-for-adas-2026-11/",
+     "pubDate": "Mon, 02 Nov 2026 11:11:20 +0000",
+     "summary": "STMicroelectronics is introducing its first automotive safety combination sensors aimed at mass-market applications, following the integration of NXP’s sensors division. They enable advanced safety and driver-assistance features across categories from […] The post STMicroelectronics introduces integ",
+     "source": "Electronics Weekly",
+     "zh": "意法半导体推出用于 ADAS 的集成角速率传感器"
+    },
     {
      "title": "Avnet Silica signs Teltonika Networks for industrial connectivity",
      "link": "https://www.electronicsweekly.com/news/business/distribution/avnet-silica-signs-teltonika-networks-for-industrial-connectivity-2026-11/",
@@ -385,14 +393,6 @@
      "zh": "Group 14 进军西班牙"
     },
     {
-     "title": "Mikroe Click board for south-pole sensing",
-     "link": "https://www.electronicsweekly.com/news/products/sensors-products/mikroe-clickboard-for-south-pole-sensing-2026-11/",
-     "pubDate": "Mon, 02 Nov 2026 06:07:08 +0000",
-     "summary": "UNI Hall 3 Click from MIKROE is a compact add-on Click board designed for contactless magnetic sensing applications. This board is based on the A31015KEWALT-47SN, a nanopower, ratiometric 1D linear […] The post Mikroe Click board for south-pole sensing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "用于南极感应的 Mikroe Click 板"
-    },
-    {
      "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio",
      "link": "https://www.eetimes.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/",
      "pubDate": "Mon, 02 Nov 2026 05:00:00 +0000",
@@ -470,7 +470,7 @@
      "pubDate": "Thu, 29 Oct 2026 18:52:30 GMT",
      "summary": "For three decades, white LEDs have depended on rare-earth materials such as yttrium aluminium garnet (YAG) layered onto a blue LED chip (Figure 1). Opto-semiconductor device maker Seoul Viosys Co Ltd (SVC) says that it has now broken that dependence by developing and mass producing a chip that emits",
      "source": "Semiconductor Today",
-     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10微米"
+     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10μm"
     },
     {
      "title": "Auto-Generation Of Properties: Methodology Insertion",
@@ -504,6 +504,14 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "BMW and Embotech move ‘1 million vehicles using automated driving technology’",
+     "link": "https://roboticsandautomationnews.com/2026/11/02/bmw-and-embotech-move-1-million-vehicles-using-automated-driving-technology/106598/",
+     "pubDate": "Mon, 02 Nov 2026 11:37:09 +0000",
+     "summary": "Embotech and BMW Group say they have moved “1 million vehicles using automated driving technology” across four BMW Group production sites in the UK and Germany, marking a major milestone in the use of Automated Driving In-Plant in industrial production. Automotive OEMs are increasingly turning to di",
+     "source": "Robotics & Automation",
+     "zh": "宝马和 Embotech 移动“使用自动驾驶技术的 100 万辆汽车”"
+    },
     {
      "title": "Agility Robotics says more than 30 companies considering Digit humanoid robot",
      "link": "https://roboticsandautomationnews.com/2026/11/02/agility-robotics-says-more-than-30-companies-considering-digit-humanoid-robot/106595/",
@@ -575,14 +583,6 @@
      "summary": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship. The post Unusual robotic animals can prove their utility appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "不寻常的机器动物可以证明它们的实用性"
-    },
-    {
-     "title": "‘First’ insurance policy for domestic humanoid robots in the UK",
-     "link": "https://roboticsandautomationnews.com/2026/10/31/first-insurance-policy-for-domestic-humanoid-robots-in-the-uk/106568/",
-     "pubDate": "Sat, 31 Oct 2026 08:22:03 +0000",
-     "summary": "Tokio Marine HCC International (TMHCCI), an insurance company based in Houston, Texas, is partnering with Adrian Flux to launch what they say is “the UK’s first domestic humanoid robot household insurance policy”. The cover is available to UK customers through Adrian Flux’s home insurance offering, ",
-     "source": "Robotics & Automation",
-     "zh": "英国“首个”家用仿人机器人保险"
     },
     {
      "title": "Percepto launches Axion AI platform to unify inspection data analysis",
@@ -830,7 +830,7 @@
      "pubDate": "Thu, 29 Oct 2026 20:02:03 +0000",
      "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
      "source": "TechCrunch Transport",
-     "zh": "R2 SUV 已经是 Rivian 最畅销的车辆"
+     "zh": "R2 SUV 已经是 Rivian 最畅销的车型"
     }
    ]
   },
@@ -840,6 +840,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Belgian spin-off Noak raises €5 million for perovskite-silicon solar cells",
+     "link": "https://www.pv-magazine.com/2026/11/02/belgian-spin-off-noak-raises-e5-million-for-perovskite-silicon-solar-cells/",
+     "pubDate": "Mon, 02 Nov 2026 11:37:57 +0000",
+     "summary": "Noak will use the seed funding to industrialise its perovskite-silicon tandem technology, which combines a proprietary layer stack with a 3D woven back-contact foil. The post Belgian spin-off Noak raises €5 million for perovskite-silicon solar cells appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "比利时分拆公司 Noak 筹集 500 万欧元用于钙钛矿硅太阳能电池"
+    },
     {
      "title": "TotalEnergies to Acquire 30% Stake in Two Major Malaysian Gas Fields",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Acquire-30-Stake-in-Two-Major-Malaysian-Gas-Fields.html",
@@ -951,14 +959,6 @@
      "summary": "Mach’s factory-integrated hardware and fleet orchestration platform target vegetation management bottlenecks for independent power producers. The post Mach launches Tier-1 autonomous solar mowing solution for utility-scale fleets appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Mach 为公用事业规模车队推出 Tier-1 自主太阳能割草解决方案"
-    },
-    {
-     "title": "Outer Space debuts solar pavilion with hidden battery storage decking",
-     "link": "https://www.pv-magazine.com/2026/11/02/outer-space-debuts-solar-pavilion-with-hidden-battery-storage-decking/",
-     "pubDate": "Mon, 02 Nov 2026 08:08:55 +0000",
-     "summary": "Outer Spaces launches with a novel approach to solar and battery energy storage for a home, using horizontal metal packs that are part of the decking. The post Outer Space debuts solar pavilion with hidden battery storage decking appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "外太空首次推出带有隐藏电池存储甲板的太阳能馆"
     },
     {
      "title": "U.S. Pushes to Restore Russian Gas Flows to Europe",
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+     "link": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
+     "pubDate": "Mon, 02 Nov 2026 11:29:39 +0000",
+     "summary": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "游标供应链攻击中的恶意 Claude 代码扩展"
+    },
+    {
      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
      "pubDate": "Mon, 02 Nov 2026 06:28:42 -0500",
@@ -1673,14 +1681,6 @@
      "zh": "Northflank 安全漏洞导致客户的 AI API 密钥被滥用"
     },
     {
-     "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
-     "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
-     "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
-     "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "叙利亚黑客潜逃十多年后在美国入狱"
-    },
-    {
      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
      "pubDate": "Fri, 30 Oct 2026 20:05:58 GMT",
@@ -1736,6 +1736,62 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Supermarkets across Belgium and Sweden report sudden overnight temperature spikes in fridges and freezers due to suspected hacks, mirroring French cyberattacks (Bloomberg)",
+     "link": "https://www.techmeme.com/261102/p13#a261102p13",
+     "pubDate": "Mon, 02 Nov 2026 06:45:00 -0500",
+     "summary": "Bloomberg : Supermarkets across Belgium and Sweden report sudden overnight temperature spikes in fridges and freezers due to suspected hacks, mirroring French cyberattacks &nbsp; &mdash;&nbsp; Supermarkets in Belgium and Sweden reported sudden changes in the temperatures of their fridges and freezer",
+     "source": "Techmeme",
+     "zh": "比利时和瑞典的超市报告称，由于疑似黑客攻击，冰箱和冰柜的夜间温度突然飙升，这与法国的网络攻击类似（彭博社）"
+    },
+    {
+     "title": "宝马计划在 2027 年将 L2 辅助驾驶扩展至城市，德国首发",
+     "link": "https://www.ithome.com/1/021/247.htm",
+     "pubDate": "Mon, 02 Nov 2026 11:36:50 GMT",
+     "summary": "IT之家 11 月 2 日消息，BMW（宝马）当地时间今日宣布， 计划从 2027 年开始将其 L2 辅助驾驶从高速公路和乡村扩展至城市道路 ，实现完整覆盖。这项功能将在德国率先推出。 宝马表示，其新型驾驶辅助系统已按照 DCAS Series 2 法规通过第三方技术机构的实际道路测试， 预计将在 2027 年初得到监管部门的最终批准 。 新款 BMW iX3、BMW iX4 以及 BMW X5、3 系和 7 系的所有车型均在硬件上支持该导航引导式 ADAS 系统。在司机注意力集中的前提下，BMW Symbiotic Drive 将辅助其完成转弯、变道、路权判断和环岛行驶等操作。",
+     "source": "IT之家",
+     "zh": "宝马计划在 2027 年将 L2 辅助驾驶扩展至城市，德国首发"
+    },
+    {
+     "title": "Investigation: a network of 400+ domains and apps linked to Chinese-language developers bypasses app store reviews to generate nonconsensual deepfakes and CSAM (Matt Burgess/Wired)",
+     "link": "https://www.techmeme.com/261102/p12#a261102p12",
+     "pubDate": "Mon, 02 Nov 2026 06:35:01 -0500",
+     "summary": "Matt Burgess / Wired : Investigation: a network of 400+ domains and apps linked to Chinese-language developers bypasses app store reviews to generate nonconsensual deepfakes and CSAM &nbsp; &mdash;&nbsp; WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like ",
+     "source": "Techmeme",
+     "zh": "调查：由 400 多个与中文开发者关联的域名和应用程序组成的网络绕过应用程序商店评论，生成未经同意的 Deepfakes 和 CSAM（Matt Burgess/Wired）"
+    },
+    {
+     "title": "沃顿教授：转行技工难以抵御 AI 冲击，四类核心能力才是破局关键",
+     "link": "https://www.ithome.com/1/021/246.htm",
+     "pubDate": "Mon, 02 Nov 2026 11:33:27 GMT",
+     "summary": "IT之家 11 月 2 日消息，人工智能不会消失。我们该如何与它共存？说得更准确一点：在人工智能时代，我们要靠什么谋生？ 常见的答案无非两种：“学会使用人工智能”，或是找一份人工智能无法替代、不会被自动化取代的职业，最好是动手类工作。 据 Business Insider 报道，伊桑 · 莫利克（Ethan Mollick）并不认为这套办法可行。莫利克是沃顿商学院管理学教授，也是当下颇具影响力的研究者，专注解读人工智能如今能做到什么、以及它对需要和 AI 协同工作的普通人意味着什么。他的新书《共存》（Co-Existence）提出，大模型迭代速度远超大多数人的认知，想要应对它飞速的发展，唯一出",
+     "source": "IT之家",
+     "zh": "沃顿教授：转行技工难以抵御 AI 冲击，四类核心能力才是破局关键"
+    },
+    {
+     "title": "央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元",
+     "link": "https://www.ithome.com/1/021/245.htm",
+     "pubDate": "Mon, 02 Nov 2026 11:30:42 GMT",
+     "summary": "IT之家 11 月 2 日消息，据央视新闻报道，上海闵行公安机关近期侦破一起“AI 生成女友”网恋诈骗案。 IT之家参考通报获悉，上海工作的刘先生在刷短视频时，认识了一位叫婷婷的美丽女子，一个月后，婷婷说姨妈得了脑瘤，需要治疗，急需借款。 为了打消刘先生的疑虑，婷婷附上了医院的诊断证明和自己的身份证照片。当天，刘先生就转给婷婷 4 万元。然而在接下来的半个月时间里，姨妈的病情不断恶化，为此，刘先生多次转账，金额累计达 18 万多元。后续刘先生要求开实时视频被拒绝，于是刘先生选择报警。 上海闵行公安机关接到报警后调查发现，被“婷婷”骗走钱财的不止刘先生一人，在全国各地都有受害者。经过缜密侦察，警",
+     "source": "IT之家",
+     "zh": "央视揭秘“AI 生成女友”网恋诈骗流水线，15 人被骗 180 余万元"
+    },
+    {
+     "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
+     "link": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+     "pubDate": "Mon, 02 Nov 2026 11:30:00 +0000",
+     "summary": "Even as studios incorporate generative tech into film and TV production, comedy content creators have broken through by roasting chatbots.",
+     "source": "WIRED",
+     "zh": "想与好莱坞经纪人签约吗？开始取笑人工智能"
+    },
+    {
+     "title": "小米雷军到海尔总部参观，送董事长周云杰车模",
+     "link": "https://www.ithome.com/1/021/244.htm",
+     "pubDate": "Mon, 02 Nov 2026 11:29:39 GMT",
+     "summary": "IT之家 11 月 2 日消息，小米创办人、董事长兼 CEO 雷军今日分享照片，称其今天下午到海尔总部参观学习，对海尔董事长周云杰的盛情款待表示感谢，并赠送给对方一份小米 SU7 Ultra 车模。 IT之家注意到，雷军和周云杰此前有多次交流。去年 6 月，周云杰在谈到小米做家电时表示， 欢迎更多企业参与竞争，将来考虑可以互相兼容生态 。周云杰称：“所以我认为竞争是一个常态，而且欢迎更多的企业，参与这种竞争，在竞争中共同去发展，而且未来竞争，不是企业和企业之间的对抗，而是生态和生态的对话，各自生态，将来呢，应该是围绕，为用户创造好的体验，就现在家庭的系统，有苹果的，也有华为的、海尔的，包括小米",
+     "source": "IT之家",
+     "zh": "小米雷军到海尔总部参观，送董事长周云杰车模"
+    },
     {
      "title": "百代电影公司推出催眠实验：抹除观众记忆，帮其找回初次观看经典电影的感觉",
      "link": "https://www.ithome.com/1/021/243.htm",
@@ -1825,22 +1881,6 @@
      "zh": "哈佛女孩刘亦婷的二十七年沉浮录：一个超级IP的诞生、幻灭与沉默"
     },
     {
-     "title": "受内存短缺影响，16GB 版树莓派 5 价格上调 80 美元至 385 美元",
-     "link": "https://www.ithome.com/1/021/240.htm",
-     "pubDate": "Mon, 02 Nov 2026 11:03:19 GMT",
-     "summary": "IT之家 11 月 2 日消息，树莓派官方宣布新一轮涨价，诱因是持续冲击行业的内存短缺、内存成本走高问题。 本轮调价仅针对 16GB 内存版本的树莓派产品，但涨价幅度很大。树莓派 5 16GB 型号上调 80 美元 （IT之家注：现汇率约合 532.9 元人民币） ，新售价为 385 美元 （现汇率约合 2,564 元人民币） 。回想早年多数树莓派产品定价仅 35 至 60 美元 （现汇率约合 233.1 至 399.7 元人民币） ，不难看出内存涨价对这条产品线的冲击。 此外，树莓派计算模块 5（Compute Module 5）16GB 版本涨价 40 美元 （现汇率约合 266.4 元人",
-     "source": "IT之家",
-     "zh": "受内存短缺影响，16GB 版树莓派 5 价格上调 80 美元至 385 美元"
-    },
-    {
-     "title": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ ~ +105℃ 宽温",
-     "link": "https://www.ithome.com/1/021/239.htm",
-     "pubDate": "Mon, 02 Nov 2026 11:01:24 GMT",
-     "summary": "IT之家 11 月 2 日消息，海光信息 (HYGON) 今日在 2026 年世界互联网大会乌镇峰会发布了 14XX 系列 CPU，这是其 1000 系列端侧 CPU 中首款面向工业控制场景的产品。 海光 14XX 系列集成 C86 CPU 内核、高速缓存、GPU 模块，兼容 DDR4/DDR5 内存，提供 10 条 PCIe Gen4 通道、多路串口，支持 DisplayPort、HDMI 双路视频信号输出； 支持 -40℃ ~ +105℃ 宽温作业 ，支持 7×24 全天候连续运行，提供 10 年长周期供货。 其 TDP 功耗低至 10W；支持虚拟化；集成 SM2、SM3、SM4 国密算法",
-     "source": "IT之家",
-     "zh": "海光发布 14XX 系列工业控制 CPU，支持 -40℃ ~ +105℃ 宽温"
-    },
-    {
      "title": "My Journey to the Center of America’s Political Spam Text Hell",
      "link": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
      "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
@@ -1863,22 +1903,6 @@
      "summary": "Bloomberg : Ukraine says its air raid alert app was compromised late Sunday, sending false warnings of &ldquo;nuclear danger&rdquo;; Russia confirms a similar hack of its alerts app &nbsp; &mdash;&nbsp; Ukraine and Russia said they faced cyberattacks on emergency and air raid alert systems.",
      "source": "Techmeme",
      "zh": "乌克兰表示，其空袭警报应用程序周日晚间遭到入侵，发出了“核危险”的虚假警告；俄罗斯确认其警报应用程序遭到类似黑客攻击（彭博社）"
-    },
-    {
-     "title": "英伟达 DLSS 5 加持下的《马力欧卡丁车͏ 世界》，画质堪比动画电影",
-     "link": "https://www.ithome.com/1/021/238.htm",
-     "pubDate": "Mon, 02 Nov 2026 10:54:08 GMT",
-     "summary": "IT之家 11 月 2 日消息，任天堂 Switch 2 发售一年多之后，在上个月被成功破解。这一下打开了闸门，不仅可以在主机上运行自制程序，还支持提取游戏镜像，进而为在电脑模拟器上运行 Switch 2 游戏铺平了道路。不过在 PC 玩家圈子里，仅仅以更高分辨率跑游戏还远远不够。依托模拟器和英伟达 DLSS 5 神经渲染技术，我们得以窥见任天堂游戏一种相当有意思的未来形态。 IT之家注意到，近日网上流出一段新视频，创作者 ChillyWillMD 演示了在电脑上借助英伟达 DLSS 5 神经渲染运行《马力欧卡丁车͏ 世界》。就在 Switch 2 模拟器方案问世没几天，这块 RTX 5060",
-     "source": "IT之家",
-     "zh": "英伟达 DLSS 5 加持下的《马力欧卡丁车͏ 世界》，画质堪比动画电影"
-    },
-    {
-     "title": "广汽埃安 Ray7 车型 11 月 12 日上市：搭载华为 DriveONE 多合一电驱，预售价 12.88 万元起",
-     "link": "https://www.ithome.com/1/021/237.htm",
-     "pubDate": "Mon, 02 Nov 2026 10:53:33 GMT",
-     "summary": "IT之家 11 月 2 日消息，广汽埃安宣布旗下埃安 Ray7 车型将于 11 月 12 日正式上市，该机已经在 10 月 17 日开启预售，包含五款车型，预售价区间 12.88-15.88 万元。 该车提供仲夏紫、闪电黄、月辉银、风暴红、熔岩灰、云舒白、热带蓝车色，定位“大 5 米超级纯电轿车”，配备 3.6m 量子星环贯穿前后 LED 灯。 该车提供炽光竞驰、云纱暖米、极速赛道内饰，一体式运动座椅，前排一键 / 语音舒躺，配备高通骁龙 8295P 座舱芯片 +24GB LPDDR4 运存 +128GB UFS 闪存，15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。此外，该车搭载同",
-     "source": "IT之家",
-     "zh": "广汽埃安 Ray7 车型 11 月 12 日上市：搭载华为 DriveONE 多合一电驱，预售价 12.88 万元起"
     },
     {
      "title": "金价创年内新低：水贝人头涌动，高端金店打折揽客",
@@ -1951,30 +1975,6 @@
      "summary": "Bruce Gil / Gizmodo : Fan fiction site AO3 says it could take two to four weeks to restore service after a security incident; AO3 hosts 18M+ works and has 11M+ registered users &nbsp; &mdash;&nbsp; &ldquo;Black October&rdquo; comes for the fan fic.&nbsp; &mdash;&nbsp; The popular fan fiction website",
      "source": "Techmeme",
      "zh": "同人小说网站 AO3 表示，发生安全事件后可能需要两到四个星期才能恢复服务； AO3 托管超过 1800 万作品并拥有超过 1100 万注册用户（Bruce Gil/Gizmodo）"
-    },
-    {
-     "title": "Show HN: I've updated my Linux System Call website and API",
-     "link": "https://syscall.sh/",
-     "pubDate": "Mon, 02 Nov 2026 09:29:16 +0000",
-     "summary": "I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but I am no CSS expert. The API is at https://api.syscall.sh Comments URL: https://news.ycombinator.com",
-     "source": "Hacker News",
-     "zh": "显示 HN：我已更新我的 Linux 系统调用网站和 API"
-    },
-    {
-     "title": "巴西站 PIX 接入后转化没起来，是不是本地素材没做到位？",
-     "link": "https://www.baijing.cn/question/638611",
-     "pubDate": "Mon, 02 Nov 2026 09:23:29 +0000",
-     "summary": "独立站做拉美，巴西站刚起量，月订单 3000 单左右，团队 6 人，PIX 和墨西哥 OXXO 都接完了。奇怪的是 PIX 支付成功率能到 78%，但落地页到下单的转化只有 1.2%，比智利站低一半。我们试过把葡语素材从英语直译改成本地团队重写，主图换成巴西本地模特，TikTok 和 Meta 的素材也加了狂欢节元素，转化只涨了 0.2 个点。现在卡在素材本地化这块：巴西用户对分期和 PIX 折扣的敏感度明显高，但我们的素材还是按国内电商那套卖点讲。想直接问结论：巴西独立站的素材，到底该先改支付引导话术，还是先改产品卖点表达？判断标准是什么？",
-     "source": "白鲸出海",
-     "zh": "巴西站 PIX 接入后转化没起来，是不是本地素材没做到位？"
-    },
-    {
-     "title": "A profile of UCLA professor Terence Tao, who was once enthusiastic about AI&apos;s role in math but now warns of AI destroying the field&apos;s deliberative process (Rivka Galchen/New Yorker)",
-     "link": "https://www.techmeme.com/261102/p7#a261102p7",
-     "pubDate": "Mon, 02 Nov 2026 04:20:00 -0500",
-     "summary": "Rivka Galchen / New Yorker : A profile of UCLA professor Terence Tao, who was once enthusiastic about AI's role in math but now warns of AI destroying the field's deliberative process &nbsp; &mdash;&nbsp; A.I. is solving problems that stumped the field for decades.&nbsp; Mathematicians look to Teren",
-     "source": "Techmeme",
-     "zh": "加州大学洛杉矶分校 (UCLA) 教授特伦斯·陶 (Terence Tao) 的简介，他曾经对人工智能在数学中的作用充满热情，但现在警告人工智能会破坏该领域的审议过程（Rivka Galchen/纽约客）"
     }
    ]
   },
@@ -1984,6 +1984,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "If you’re a true Android enthusiast, there’s only one phone worth buying in 2026",
+     "link": "https://www.androidauthority.com/true-android-enthusiast-galaxy-s26-ultra-3719774/",
+     "pubDate": "Mon, 02 Nov 2026 11:30:35 +0000",
+     "summary": "The Android king of 2026: Samsung Galaxy S26 Ultra.",
+     "source": "Android Authority",
+     "zh": "如果你是真正的 Android 爱好者，2026 年只有一款手机值得购买"
+    },
     {
      "title": "Early Black Friday robot pool cleaner deals: Save on the Aiper Scuba V3 and more",
      "link": "https://www.androidauthority.com/early-black-friday-robot-pool-cleaner-deals-3730153/",
@@ -2014,7 +2022,7 @@
      "pubDate": "Mon, 02 Nov 2026 11:00:40 +0000",
      "summary": "You can now build apps with ChatGPT, but should you?",
      "source": "Android Authority",
-     "zh": "我使用 ChatGPT 的智能 UI 制作了 4 个应用程序 — 它尚未准备好迎接黄金时段"
+     "zh": "我使用 ChatGPT 的智能 UI 制作了 4 个应用程序 - 它尚未准备好迎接黄金时段"
     },
     {
      "title": "I’ve used every Android foldable released this year. Here’s how the iPhone Duo stacks up",
@@ -2039,14 +2047,6 @@
      "summary": "A familiar dashboard headache is back, with no clear fix.",
      "source": "Android Authority",
      "zh": "Android Auto 和 One UI 9 对于一些 Galaxy 用户来说并不和谐"
-    },
-    {
-     "title": "Samsung hides these useful camera features by default — here’s how to unlock them",
-     "link": "https://www.androidauthority.com/camera-assistant-good-lock-module-hands-on-3727811/",
-     "pubDate": "Mon, 02 Nov 2026 10:00:51 +0000",
-     "summary": "Samsung Camera app feels better with these options unlocked.",
-     "source": "Android Authority",
-     "zh": "三星默认隐藏了这些有用的相机功能 - 以下是解锁它们的方法"
     },
     {
      "title": "派评 | 近期值得关注的 App",
@@ -2142,7 +2142,7 @@
      "pubDate": "Mon, 02 Nov 2026 00:30:00 +0000",
      "summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
      "source": "Engadget",
-     "zh": "Android Auto 的下一次更新可能会破坏你的工作与生活平衡"
+     "zh": "Android Auto 的下一次更新可能会扰乱你的工作与生活平衡"
     },
     {
      "title": "10 iPad widgets you probably didn't realize existed",
@@ -2233,60 +2233,132 @@
    "total": 13,
    "items": [
     {
-     "title": "少数派投资创始人周良：超额收益，藏在多数人的误区里",
-     "link": "http://fund.eastmoney.com/news/1623,202611023918897448.html",
-     "pubDate": "Mon, 02 Nov 2026 19:24:26 +0800",
-     "summary": "【导读】AI板块收益风险比很差，下半年看好红利和小微盘 进入今年四季度以来，市场维持震荡走势，面对市场的起伏，专业投资者如何保持清醒判断，在波动中持续进化自己的投资框架，成为每一位市场参与者必须回答的问题。少数派投资创始人周良给出的答案是：不追逐共识，在多数人的误区中寻找超额收益。 “从最初的基本面分析，到行为金融学的引入，再到主观与量化的结合，投资理念需要持续进化。”日前，周良在接受中国基金报记者专访时表示，多年投资生涯让他早早意识到，市场上存在很多投资理论与投资方法，市场参与者更多是在不断试错，不停成长，在不断改变自己的过程中去接近投资的目标。 在这条不断进化的道路上，周良把投资理念概括为",
-     "source": "东方财富股票",
-     "zh": "少数派投资创始人周良：超额收益，藏在多数人的误区里"
+     "title": "Strong Buy at under $10: The highest Quant-rated bargain stocks right now",
+     "link": "https://seekingalpha.com/news/4662027-strong-buy-at-under-10-the-highest-quant-rated-bargain-stocks-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 06:44:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "10 美元以下强力买入：目前量化评级最高的便宜股票"
     },
     {
-     "title": "【调研快报】泰晶科技接待华泰证券等90家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611023918894296.html",
-     "pubDate": "Mon, 02 Nov 2026 19:21:53 +0800",
-     "summary": "泰晶科技 11月2日公告称， 10月30日 接待 华泰证券 等90家机构 调研。 接待人员包括董事会秘书 黄晓辉。 公司就以下问题进行了回复： 一、业绩解读 2026年前三季度,公司实现营业收入8.8亿元(同比增长22.6%),归母净利润1.059亿元(同比增长202%);单三季度归母净利润5523万元(同比增长325%),随着产品结构的优化、产销率稳步增长以及毛利率的提升,共同驱动经营业绩提升。公司三季度毛利率修复到了29%,各产品线的... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无",
+     "title": "Gamehaus falls 11% after striking deal to expand into AI-generated content",
+     "link": "https://seekingalpha.com/news/4662025-gamehaus-falls-11-after-striking-deal-to-expand-into-ai-generated-content?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 06:41:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gamehaus 达成拓展 AI 生成内容的协议后股价下跌 11%"
+    },
+    {
+     "title": "Information Services Non-GAAP EPS of $0.10 in-line, revenue of $65.1M beats by $1.08M",
+     "link": "https://seekingalpha.com/news/4662036-information-services-non-gaap-eps-of-0_10-in-line-revenue-of-65_1m-beats-by-1_08m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 06:41:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "信息服务非 GAAP 每股收益 0.10 美元，符合预期，营收 6,510 万美元，超出 108 万美元"
+    },
+    {
+     "title": "金融投资贡献度提高，六大行三季度营收增速均超6%",
+     "link": "http://www.eeo.com.cn/2026/1102/1082318.shtml",
+     "pubDate": "Mon, 02 Nov 2026 19:41:39 +0800",
+     "summary": "其他非息收入保持高速增长，金融投资成为增长着力点。前三季度，除了中国银行的投资收益下降外，其他大行均实现不同程度的增加。其中，农业银行的投资收益达到618.15亿元，同比增加275.82亿元；工商银行的投资收益达到541.72亿元，同比增加55.57亿元。",
+     "source": "经济观察网",
+     "zh": "金融投资贡献度提高，六大行三季度营收增速均超6%"
+    },
+    {
+     "title": "“好想来”“老婆大人”母公司，被中国证监会立案",
+     "link": "http://finance.eastmoney.com/news/1354,202611023918914723.html",
+     "pubDate": "Mon, 02 Nov 2026 19:39:35 +0800",
+     "summary": "11月2日， 万辰集团 公告，公司于2026年11月2日收到中国证监会下发的《立案告知书》，因涉嫌未及时履行关联交易临时信息披露义务等信息披露违法违规事项，中国证监会决定对公司立案。 万辰集团 称，本次立案调查主要涉及未及时履行信息披露义务事项，与日常经营活动无关，相关信息披露事项已经整改完毕；目前公司经营秩序稳定，各项经营活动正常开展，日常经营管理及业务合作未受影响。公司将积极配合调查并按监管要求履行信息披露义务。 公开信息显示，福建万辰食品集团股份有限公司(简称 万辰集团 )创立于2011年，于2021年在A股上市，专注于量贩 零食 零售业务与 食用菌 业务两大板块。 自2022年，万辰集",
      "source": "东方财富股票",
-     "zh": "【调研快报】泰晶科技接待华泰证券等90家机构调研"
+     "zh": "“好想来”“老婆大人”母公司，被中国证监会立案"
+    },
+    {
+     "title": "Choice Hotels beats top-line and bottom-line estimates; raises FY26 outlook",
+     "link": "https://seekingalpha.com/news/4662034-choice-hotels-beats-top-line-and-bottom-line-estimates-raises-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 06:39:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "精品国际酒店集团 (Choice Hotels) 的营收和利润均超出预期；上调 2026 财年展望"
+    },
+    {
+     "title": "【调研快报】康美特接待开源证券股份有限公司等17家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611023918913783.html",
+     "pubDate": "Mon, 02 Nov 2026 19:38:51 +0800",
+     "summary": "康美特 11月2日公告称， 10月30日 接待开源证券股份有限公司 等17家机构 调研。 接待人员包括董事会秘书 王颖佳,财务总监 张晓宇。 公司就以下问题进行了回复： 公司董事会秘书王颖佳女士首先向与会人员介绍公司基本情况、第三季度业绩相关情况,随后进入问答交流环节。本次交流的主要内容如下: 问题1:截至2026年三季度末,浙江 康美特 电子 封装材料业务的进展如何? 回答:浙江 康美特 于2026年年初投产,2026年处于产能爬坡及收入逐步放量阶段。截至本年三季度,应用于... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布",
+     "source": "东方财富股票",
+     "zh": "【调研快报】康美特接待开源证券股份有限公司等17家机构调研"
+    },
+    {
+     "title": "由凌晨3时延长至凌晨4时15分，香港交易所将延长衍生产品收市后交易时段",
+     "link": "http://hk.eastmoney.com/news/11223,202611023918914359.html",
+     "pubDate": "Mon, 02 Nov 2026 19:38:40 +0800",
+     "summary": "11月2日， 香港交易所 宣布，计划于2027年3月起延长衍生产品收市后交易时段。有关安排须待监管机构批准及市场准备就绪后方可落实。 新安排下，收市后交易时段的收市时间将由凌晨3时延长至凌晨4时15分，让市场参与者可在香港日间交易时段以外，根据外围市况灵活管理风险。 将考虑进一步延长交易时间 为配合延长收市后交易时段，部分交易后服务时段及风险管理程序将作出相应调整。衍生产品市场其他现行交易及营运安排，包括日间交易时段及假期交易安排，将维持不变。 中国证券报·中证金牛座记者了解到， 香港交易所 将根据收市后交易时段延长后的市场发展，考虑是否于2027年11月将收市时间进一步延长至凌晨5时15分。",
+     "source": "东方财富股票",
+     "zh": "由凌晨3时延长至凌晨4时15分，香港交易所将延长衍生产品收市后交易时段"
+    },
+    {
+     "title": "克明食品推出轻养纤纤挂面 精准营养主食布局再落一子",
+     "link": "http://finance.eastmoney.com/news/1354,202611023918914596.html",
+     "pubDate": "Mon, 02 Nov 2026 19:38:12 +0800",
+     "summary": "11月2日， 克明食品 (002661)在长沙举行“精准营养——功能主食新方向”主题发布会，推出面向体重管理人群的功能性挂面“陈克明轻养纤纤挂面”。作为公司精准营养主食布局的代表性新品，此次发布是 克明食品 积极探索功能性主食赛道的具体动作，也反映出主食产品创新正加快向人群适配与营养配方设计延伸，为传统主食产业价值升级提供了可借鉴的实践样本。 克明食品 董事陈灿表示，消费者营养需求正在向分人群、分场景细化。公司选择以主食为核心载体推进精准营养战略，依托已有制面工艺、规模化生产能力和品牌基础，将有针对性的营养设计融入日常饮食，在兼顾口感与食用便利的同时，让营养主食更贴近大众消费需求。 食品安全 ",
+     "source": "东方财富股票",
+     "zh": "克明食品推出轻养纤纤挂面 精准营养主食布局再落一子"
+    },
+    {
+     "title": "市场消息：美国总统特朗普称，在伊朗战争期间，油价的涨幅低于他的预期",
+     "link": "http://hk.eastmoney.com/news/1533,202611023918913666.html",
+     "pubDate": "Mon, 02 Nov 2026 19:38:10 +0800",
+     "summary": "市场消息：美国总统特朗普称，在伊朗战争期间，油价的涨幅低于他的预期。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：美国总统特朗普称，在伊朗战争期间，油价的涨幅低于他的预期"
+    },
+    {
+     "title": "美国总统特朗普：（被问及美国是否能再见到2美元的汽油价格）你们会看到更低的价格",
+     "link": "http://hk.eastmoney.com/news/1533,202611023918913488.html",
+     "pubDate": "Mon, 02 Nov 2026 19:37:52 +0800",
+     "summary": "美国总统特朗普：（被问及美国是否能再见到2美元的汽油价格）你们会看到更低的价格。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普：（被问及美国是否能再见到2美元的汽油价格）你们会看到更低的价格"
+    },
+    {
+     "title": "IDEXX Laboratories beats top-line and bottom-line estimates; updates FY26 outlook",
+     "link": "https://seekingalpha.com/news/4662033-idexx-laboratories-beats-top-line-and-bottom-line-estimates-updates-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 06:36:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "IDEXX 实验室超出了顶线和底线预期；更新 2026 财年展望"
+    },
+    {
+     "title": "Great Wall Motor targets aggressive expansion in Europe",
+     "link": "https://seekingalpha.com/news/4662031-great-wall-motor-targets-aggressive-expansion-in-europe?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 06:35:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "长城汽车瞄准欧洲大举扩张"
+    },
+    {
+     "title": "“避风港”万亿市值狂飙过后，苹果能否支撑过财报考验？",
+     "link": "https://wallstreetcn.com/articles/3784996",
+     "pubDate": "Mon, 02 Nov 2026 19:34:47 +0800",
+     "summary": "苹果股价近几个月的强势上涨，令其在周一美股盘后财报公布前几乎没有任何容错空间。 自6月末低点以来，苹果股价累计上涨25%，市值增加约1万亿美元。 在谷歌和亚马逊等大型科技同行大举投入AI基础设施、引发市场担忧之际，苹果稳健的营收增长与不断攀升的自由现金流，使其成为投资者眼中的\"避风港\"。 然而， 这轮涨势也将苹果估值推至2008年以来最高水平——以未来12个月预期市盈率衡量，苹果达到36倍，约为标普500指数的两倍。 上周五，当谷歌和亚马逊令人失望的财报拖累AI相关股票集体下挫、费城半导体指数单日重挫7.2%之际，苹果股价仅下跌1.2%，明显跑赢大盘，并借英伟达遭遇抛售之机，时隔数月重夺全球市",
+     "source": "华尔街见闻",
+     "zh": "“避风港”万亿市值狂飙过后，苹果能否支撑过财报考验？"
+    },
+    {
+     "title": "11月2日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202611023918914825.html",
+     "pubDate": "Mon, 02 Nov 2026 19:32:30 +0800",
+     "summary": "沪深两市多家上市公司11月2日晚间发布公司公告，以下为重要公告汇总。 【品大事】 万辰集团 ：涉嫌信披违法违规 公司被证监会立案 万辰集团 (300972)11月2日公告，公司于11月2日收到中国证监会下发的《立案告知书》，因涉嫌未及时履行关联交易临时信息披露义务等信息披露违法违规事项，根据相关法律法规，中国证监会决定对公司立案。本次立案调查主要涉及未及时履行信息披露义务事项，与公司日常经营活动无关，相关信息披露事项已经整改完毕。目前，公司经营秩序稳定，各项经营活动均正常开展，日常经营管理及业务合作未受影响。 6连板 青岛食品 ：控制权变更存不确定性 6连板 青岛食品 (001219)公告，公",
+     "source": "东方财富资讯",
+     "zh": "11月2日晚间沪深上市公司重大事项公告最新快递"
     },
     {
      "title": "“量贩零食龙头”万辰集团遭证监会立案",
      "link": "http://finance.eastmoney.com/news/1345,202611023918894664.html",
      "pubDate": "Mon, 02 Nov 2026 19:21:08 +0800",
      "summary": "11月2日， 万辰集团 公告，公司于2026年11月2日收到中国证监会下发的《立案告知书》，因涉嫌未及时履行关联交易临时信息披露义务等信息披露违法违规事项，中国证监会决定对公司立案。 公司称，本次立案调查主要涉及未及时履行信息披露义务事项，与日常经营活动无关，相关信息披露事项已经整改完毕；目前公司经营秩序稳定，各项经营活动正常开展，日常经营管理及业务合作未受影响。公司将积极配合调查并按监管要求履行信息披露义务。 （文章来源：财闻）",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "“量贩零食龙头”万辰集团遭证监会立案"
-    },
-    {
-     "title": "武商集团：获准注册30亿元中期票据",
-     "link": "http://stock.eastmoney.com/news/11219,202611023918894510.html",
-     "pubDate": "Mon, 02 Nov 2026 19:20:43 +0800",
-     "summary": "11月2日， 武商集团 公告，公司此前审议通过申请注册发行不超过人民币30亿元（含30亿元）中期票据。公司于2026年11月2日收到 中国银行 间市场交易商协会《接受注册通知书》，获准注册金额为30亿元，注册额度自通知书落款之日起2年内有效，注册有效期内可分期发行。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "武商集团：获准注册30亿元中期票据"
-    },
-    {
-     "title": "高管动向｜复星医药再现人事变动，副总裁袁方兵因个人原因辞任",
-     "link": "http://finance.eastmoney.com/news/1354,202611023918894793.html",
-     "pubDate": "Mon, 02 Nov 2026 19:19:21 +0800",
-     "summary": "11月2日， 复星医药 (600196) 发布公告称，公司董事会收到袁方兵的书面辞职函。因个人原因，袁方兵向董事会辞去公司副总裁职务，其辞任于送达董事会时生效。 根据公告，其原定任期到期日为2028年6月23日。 据 复星医药 2025年年报，袁方兵于2024年5月加入集团，曾任公司联席首席战略赋能官。加入集团前，袁方兵曾任职于锦天城（上海）律师事务所、复地（集团）股份有限公司、香港联交所上市公司 复星国际 。 资料显示， 复星医药 深耕制药业务，以 创新药 为发展重点，并直接运营 医疗器械 与医学诊断、医疗健康服务业务。 这是继9月底联席总裁Wenjie Zhang辞任后， 复星医药 两个月",
-     "source": "东方财富股票",
-     "zh": "高管动向｜复星医药再现人事变动，副总裁袁方兵因个人原因辞任"
-    },
-    {
-     "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-     "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-     "pubDate": "Mon, 02 Nov 2026 11:18:37 GMT",
-     "summary": "Russia and Ukraine both report cyberattacks on their alerting systems, as strikes continue across the countries.",
-     "source": "CNBC",
-     "zh": "莫斯科和基辅分别报告紧急应用程序遭受网络攻击，乌克兰出现虚假核警告"
-    },
-    {
-     "title": "特朗普：如果民主党在中期选举中获胜 将否决所有法",
-     "link": "http://finance.eastmoney.com/news/11790,202611023918894156.html",
-     "pubDate": "Mon, 02 Nov 2026 19:18:35 +0800",
-     "summary": "美国总统特朗普表示，如果民主党在中期选举中获胜，他将否决所有法案。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "特朗普：如果民主党在中期选举中获胜 将否决所有法"
     },
     {
      "title": "AI信仰迎来新考验，股价暴跌后Alphabet赴欧债市场融资",
@@ -2302,23 +2374,7 @@
      "pubDate": "Mon, 02 Nov 2026 11:14:00 GMT",
      "summary": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
      "source": "MarketWatch",
-     "zh": "高盛称明年油价将如何平均每桶 130 美元"
-    },
-    {
-     "title": "PPHC buys strategic comms firm Reevemark for up to $80M",
-     "link": "https://seekingalpha.com/news/4662023-pphc-buys-strategic-comms-firm-reevemark-for-up-to-80m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 06:10:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PPHC 以高达 8000 万美元的价格收购战略传播公司 Reevemark"
-    },
-    {
-     "title": "EchoStar gains on report of SpaceX wireless service talks",
-     "link": "https://seekingalpha.com/news/4662017-echostar-gains-on-report-of-spacex-wireless-service-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 06:08:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "EchoStar 因 SpaceX 无线服务谈判报道而上涨"
+     "zh": "高盛 (Goldman Sachs) 表示，明年油价将如何平均达到每桶 130 美元"
     },
     {
      "title": "Citi throws in the towel on hyperscalers after a key market bet misfires",
@@ -2327,38 +2383,6 @@
      "summary": "Hyperscalers and growth plays have underperformed amid a sharp rotation",
      "source": "MarketWatch",
      "zh": "关键市场押注失败后，花旗对超大规模企业认输"
-    },
-    {
-     "title": "Citi cuts lithium price outlook on weaker demand",
-     "link": "https://seekingalpha.com/news/4661910-citi-cuts-lithium-price-outlook-on-weaker-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 06:06:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于需求疲软，花旗下调锂价格前景"
-    },
-    {
-     "title": "CNA Financial Non-GAAP EPS of $0.75",
-     "link": "https://seekingalpha.com/news/4662022-cna-financial-non-gaap-eps-of-0_75?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 06:05:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CNA Financial 非 GAAP 每股收益为 0.75 美元"
-    },
-    {
-     "title": "Estee Lauder beats top-line and bottom-line estimates; updates FY2027 outlook",
-     "link": "https://seekingalpha.com/news/4662021-estee-lauder-beats-top-line-and-bottom-line-estimates-updates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 06:04:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "雅诗兰黛的营收和利润均超出预期；更新 2027 财年展望"
-    },
-    {
-     "title": "AM Markets Need to Know: Binance outflows surge, Democratic sweep bets rise, and more",
-     "link": "https://seekingalpha.com/news/4662018-am-markets-need-to-know-binance-outflows-surge-democratic-sweep-bets-rise-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 06:03:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AM 市场需要知道：币安资金流出激增、民主党横扫赌注增加等等"
     },
     {
      "title": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
@@ -2409,6 +2433,14 @@
      "zh": "美国推动俄气经乌克兰重返欧洲：停火筹码还是难以接受的交易？"
     },
     {
+     "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+     "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+     "pubDate": "Mon, 02 Nov 2026 10:29:11 GMT",
+     "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
+     "source": "CNBC",
+     "zh": "办公室称，康涅狄格州参议员克里斯·墨菲中风，正在医院接受治疗"
+    },
+    {
      "title": "一批A股公司拟大手笔回购！硬科技龙头成回购主力",
      "link": "http://finance.eastmoney.com/news/1345,202611023918845958.html",
      "pubDate": "Mon, 02 Nov 2026 18:28:00 +0800",
@@ -2433,44 +2465,12 @@
      "zh": "经济大省三季报：广东有望时隔四年实现GDP增速目标、湖南跌至十一位"
     },
     {
-     "title": "茅台重回1400元！3万户股民抄底白酒股",
-     "link": "http://finance.eastmoney.com/news/11137,202611023918840565.html",
-     "pubDate": "Mon, 02 Nov 2026 18:18:45 +0800",
-     "summary": "白酒 板块11月2日表现强势， 皇台酒业 （2连板）、 水井坊 、 金种子酒 涨停 ； 迎驾贡酒 、 古井贡酒 、 顺鑫农业 等跟涨。 白酒 龙头中， 贵州茅台 涨3.38%， 股价重回1400元上方 ，报收1439.1元。该股当天成交额118.49亿元，创7月21日以来新高。 山西汾酒 、 泸州老窖 等龙头股也上涨明显。 消息面上，上周五盘后， 贵州茅台 披露的三季报显示，前三季度实现归母净利润644.67亿元，同比减少0.25%。其中第三季度归母净利润199.51亿元， 同比增长3.78% ，环比增长15.49%。 有市场人士表示，这一表现好于券商预期。此前有多家券商预期，茅台第三季度利润",
-     "source": "东方财富资讯",
-     "zh": "茅台重回1400元！3万户股民抄底白酒股"
-    },
-    {
      "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
      "pubDate": "Mon, 02 Nov 2026 10:15:00 GMT",
      "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
      "source": "MarketWatch",
      "zh": "“她是 A 型人格”：我的继母希望我偿还已故父亲的 40,000 美元结婚礼物。我应该答应吗？"
-    },
-    {
-     "title": "5 celebrities who waited years to buy their dream homes",
-     "link": "https://www.marketwatch.com/story/5-celebrities-who-waited-years-to-buy-their-dream-homes-f1551973?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 10:03:00 GMT",
-     "summary": "What do Drake, Julianne Moore and Barbra Streisand have in common? These A-listers are not totally immune from having to play the waiting game for their perfect house.",
-     "source": "MarketWatch",
-     "zh": "5 位名人等了多年才买下自己的梦想家园"
-    },
-    {
-     "title": "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago",
-     "link": "https://www.marketwatch.com/story/retired-world-series-champ-matt-holliday-lists-11-6-million-arizona-estate-he-bought-months-ago-a48b6a9b?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 09:58:00 GMT",
-     "summary": "Retired Major League Baseball star Matt Holliday is ready to part ways with the newly built Paradise Valley, Ariz., estate he purchased earlier this year.",
-     "source": "MarketWatch",
-     "zh": "退役世界大赛冠军马特·霍利迪列出了他几个月前在亚利桑那州购买的价值 1160 万美元的房产"
-    },
-    {
-     "title": "Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce",
-     "link": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 09:47:00 GMT",
-     "summary": "Positioning among equity investors in tech stocks is consistent with much slower earnings growth than the sector is achieving. Deutsche Bank thinks it’s time to go overweight once again as the risk-reward profile favors a sector that is suddenly out of fashion.",
-     "source": "MarketWatch",
-     "zh": "科技股在 30 个月内五次出现 V 型大幅反弹——现在德意志银行预测将再次反弹"
     }
    ]
   },
@@ -2489,20 +2489,20 @@
      "zh": "“现在你实际上进行了血液检查”：精神病学的圣经 DSM 正在升级，以包含生物标记。精神科医生解释了这对心理健康意味着什么。"
     },
     {
-     "title": "Blue whales have gone missing off the Galápagos. Scientists think El Niño could be why.",
-     "link": "https://www.livescience.com/animals/whales/blue-whales-have-gone-missing-off-the-galapagos-scientists-think-el-nino-could-be-why",
-     "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
-     "summary": "Blue whale sightings have fallen off dramatically near the Galápagos. El Niño may be to blame.",
-     "source": "Live Science",
-     "zh": "蓝鲸在加拉帕戈斯群岛失踪。科学家认为厄尔尼诺现象可能就是原因。"
-    },
-    {
      "title": "Lycurgus Cup: A Roman glass goblet made with ancient color-changing nanotechnology",
      "link": "https://www.livescience.com/archaeology/romans/lycurgus-cup-a-roman-glass-goblet-made-with-ancient-color-changing-nanotechnology",
      "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
      "summary": "This Roman glass cup can change from jade green to ruby red, and it features a mythical king who tried to banish Dionysus.",
      "source": "Live Science",
      "zh": "Lycurgus Cup：罗马玻璃高脚杯，采用古老的变色纳米技术制成"
+    },
+    {
+     "title": "Blue whales have gone missing off the Galápagos. Scientists think El Niño could be why.",
+     "link": "https://www.livescience.com/animals/whales/blue-whales-have-gone-missing-off-the-galapagos-scientists-think-el-nino-could-be-why",
+     "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
+     "summary": "Blue whale sightings have fallen off dramatically near the Galápagos. El Niño may be to blame.",
+     "source": "Live Science",
+     "zh": "蓝鲸在加拉帕戈斯群岛失踪。科学家认为厄尔尼诺现象可能就是原因。"
     },
     {
      "title": "A flexible new route to designer materials built from nanoparticles",
@@ -2518,7 +2518,7 @@
      "pubDate": "Mon, 02 Nov 2026 00:00:00 -0500",
      "summary": "Water-resistant microneedles made from food-grade silk could deliver vaccines to help prevent the spread of disease in aquaculture.",
      "source": "MIT News",
-     "zh": "麻省理工学院的工程师为养殖鱼类设计了更安全、更高效的疫苗接种系统"
+     "zh": "麻省理工学院的工程师为养殖鱼类设计了一种更安全、更高效的疫苗接种系统"
     },
     {
      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",

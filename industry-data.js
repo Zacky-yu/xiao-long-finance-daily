@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/3 07:45:21",
+ "generated_at": "2026/11/3 07:53:39",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "As Diesel Costs Surge for Farmers & Rural Businesses, Solar Offers a Lifeline",
+     "link": "https://cleantechnica.com/2026/11/02/as-diesel-costs-surge-for-farmers-rural-businesses-solar-offers-a-lifeline/",
+     "pubDate": "Mon, 02 Nov 2026 23:38:46 +0000",
+     "summary": "The cost of diesel fuel rose nearly 33% from 2025 to 2026, with some countries experiencing even higher price spikes. For many of the world’s rural farmers, processors, and small businesses, solar-powered equipment offers an attractive alternative. On a dry hillside in Chamwino, central Tanzania, ma",
+     "source": "CleanTechnica",
+     "zh": "As Diesel Costs Surge for Farmers & Rural Businesses, Solar Offers a Lifeline"
+    },
+    {
      "title": "Africa Launches Its Own Oil Bank as Western Lenders Retreat",
      "link": "https://oilprice.com/Energy/Energy-General/Africa-Launches-Its-Own-Oil-Bank-as-Western-Lenders-Retreat.html",
      "pubDate": "Mon, 02 Nov 2026 17:00:00 -0600",
@@ -879,7 +887,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 14:00:00 -0600",
      "summary": "A sanctioned Iranian tanker carrying about 500,000 barrels of liquefied petroleum gas slipped past the U.S. naval blockade and delivered its cargo to China, according to United Against Nuclear Iran (UANI), which says it filmed the ship at a Malaysian anchorage along the way. Tanker laden with Irania",
      "source": "OilPrice",
-     "zh": "受制裁的伊朗油轮突破美国封锁，向中国运送货物"
+     "zh": "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China"
     },
     {
      "title": "Swarm Of Electric Trucks Coming To US (Battery Swapping Included?)",
@@ -919,7 +927,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 16:59:10 +0000",
      "summary": "The UK BESS-owning Gresham House Energy Storage Fund has launched a formal sales process, a decision which has seen its share price jump 10%.",
      "source": "Energy Storage News",
-     "zh": "快讯：Gresham House 储能基金启动销售流程"
+     "zh": "NEWSFLASH: Gresham House Energy Storage Fund launches sales process"
     },
     {
      "title": "Mitsubishi Electric seeks to expand North American grid foothold",
@@ -935,15 +943,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 16:38:59 +0000",
      "summary": "Jackery just launched the Explorer 100D portable power station. This is Jackery’s smallest battery, giving a new level of versatility to power many of the devices people rely on most. Meanwhile, it integrates the durability and safety people expect from Jackery’s larger models into a compact case. T",
      "source": "CleanTechnica",
-     "zh": "Jackery 推出 Explorer 100D 便携式发电站。最大程度地兼容随身携带"
-    },
-    {
-     "title": "Dominion sees $137M net income boost from rate increase",
-     "link": "https://www.utilitydive.com/news/dominion-sees-137m-net-income-boost-from-rate-increase/873458/",
-     "pubDate": "Mon, 02 Nov 2026 11:01:02 -0500",
-     "summary": "Chairman, President and CEO Bob Blue said during a third-quarter earnings call that the company &ldquo;benefited from better-than-budgeted sales, better-than-normal weather&rdquo; and &ldquo;strong overall financial and operational execution.&rdquo;",
-     "source": "Utility Dive",
-     "zh": "Dominion sees $137M net income boost from rate increase"
+     "zh": "Jackery Launches Explorer 100D Portable Power Station. Maximum Capability For Carryon Compatibility"
     },
     {
      "title": "Equator Renewables Asia unveils 250 kW containerized PV system",
@@ -983,7 +983,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 09:26:00 -0500",
      "summary": "President and CEO Calvin Butler said the grid operator isn&rsquo;t adding generation fast enough, but the utility&rsquo;s plan to invest in&nbsp;energy storage and transmission can help address the issue.",
      "source": "Utility Dive",
-     "zh": "Exelon 着眼于能源存储领域投资 80 亿美元，部分是为了解决 PJM 供应紧张问题"
+     "zh": "Exelon eyes $8B in energy storage, partly to address PJM supply crunch"
     },
     {
      "title": "Envision claims world first with 800 V DC architecture for AI data center",
@@ -1039,7 +1039,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 12:41:57 +0000",
      "summary": "Yingfa Ruineng has launched its first overseas plant, a 7.5GW TOPCon cell manufacturing facility in Indonesia.",
      "source": "PV Tech",
-     "zh": "Yingfa Ruineng launches 7.5GW TOPCon solar cell manufacturing plant in Indonesia"
+     "zh": "英发瑞能在印尼启动7.5GW TOPCon太阳能电池制造工厂"
     },
     {
      "title": "Jinko module shipments drop 25% YoY in Q3 2026",
@@ -1047,7 +1047,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 12:25:08 +0000",
      "summary": "Chinese leading solar PV manufacturer Jinko has shipped 15GW of solar modules in the third quarter of 2026.",
      "source": "PV Tech",
-     "zh": "2026年第三季度晶科组件出货量同比下降25%"
+     "zh": "Jinko module shipments drop 25% YoY in Q3 2026"
     },
     {
      "title": "Engie commissions 450MW of solar projects in Rajasthan and Gujarat",
@@ -1063,7 +1063,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 10:46:56 +0000",
      "summary": "Solar consultancy firm CPP Wind Engineering has launched the first wind certification programme for utility-scale solar PV projects.",
      "source": "PV Tech",
-     "zh": "CPP launches wind certification programme for utility-scale solar PV"
+     "zh": "CPP启动公用事业规模太阳能光伏风能认证计划"
     },
     {
      "title": "Utilities need to become project developers. Are they ready?",
@@ -1079,7 +1079,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
      "summary": "Beyond restoration times: why plain language, multiple communication channels and equity define great outage maps.",
      "source": "Utility Dive",
-     "zh": "重新思考多灾种世界的停电地图"
+     "zh": "Rethinking the outage map for a multi-hazard world"
     },
     {
      "title": "Boise plans to tap its geothermal network to heat 300 affordable homes",
@@ -1087,7 +1087,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 03:30:00 -0500",
      "summary": "Boise already knows how to tap the carbon-free heat beneath our feet. The city operates the country’s largest geothermal heating system, which pipes naturally warmed, 177-degree-Fahrenheit water from underground to about 100 buildings — including the Idaho State Capitol. Last week, semiconductor mul",
      "source": "Canary Media",
-     "zh": "博伊西计划利用其地热网络为 300 套经济适用房供暖"
+     "zh": "Boise plans to tap its geothermal network to heat 300 affordable homes"
     }
    ]
   },
@@ -1127,7 +1127,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 18:13:13 +0000",
      "summary": "uniQure has aligned with the FDA on what the company calls key elements of the confirmatory study design: The study is being designed as a randomized, standard-of-care trial enrolling approximately 200 patients in a 2:1 ratio of ifezuntirgene inilparvovec to standard of care, with Total Functional C",
      "source": "GEN",
-     "zh": "FDA 为 uniQure 亨廷顿病基因疗法设定 PDUFA 行动日期 5 月 1 日"
+     "zh": "FDA Sets May 1 PDUFA Action Date for uniQure’s Huntington’s Disease Gene Therapy"
     },
     {
      "title": "Inflammatory Process Identified as Link Between Pulmonary Hypertension and Cognitive Decline",
@@ -1143,7 +1143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 12:07:00 -0500",
      "summary": "The parent of cell therapy maker Gamida Cell will be the lead bidder in a court-supervised auction of Karyopharm, which recently cut a forbearance deal to push off debt payments.",
      "source": "BioPharma Dive",
-     "zh": "Karyopharm 负债累累，准备破产出售"
+     "zh": "Karyopharm, deep in debt, to sell itself in bankruptcy"
     },
     {
      "title": "STAT+: The health care affordability midterms, and billing urgent care as ER",
@@ -1151,7 +1151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 17:05:28 +0000",
      "summary": "Health care affordability is a major issue for voters, and a new kind of medical clinic sticks some patients with big bills.",
      "source": "STAT News",
-     "zh": "STAT+：中期医疗保健负担能力，并将紧急护理记为 ER"
+     "zh": "STAT+: The health care affordability midterms, and billing urgent care as ER"
     },
     {
      "title": "STAT+: Psilocybin’s lasting benefits prove elusive in mice",
@@ -1231,7 +1231,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 09:00:00 -0500",
      "summary": "AstraZeneca will &ldquo;redeploy resources&rdquo; through a new restructuring program. Meanwhile, Alnylam shares sold off on fears surrounding a top drug and investors rewarded Regeneron for a record quarter.",
      "source": "BioPharma Dive",
-     "zh": "收益综述：阿斯利康的成本削减、Alnylam 的低迷和再生元的恢复力"
+     "zh": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience"
     },
     {
      "title": "A STAT reporter on covering MRT as an experimental fertility treatment",
@@ -1247,7 +1247,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 12:00:45 +0000",
      "summary": "Sam Waksal is doubling down on ROCK2 after his first work on the target led to the chronic graft-versus-host disease medicine Rezurock. Now, the Graviton Bioscience CEO is teaming up with a cardio drug development ...",
      "source": "Endpoints News",
-     "zh": "CinRx 与 Sam Waksal 的 Graviton 合作开发 ROCK2，治疗 PAH 和其他有氧疾病"
+     "zh": "CinRx teams with Sam Waksal's Graviton on ROCK2 for PAH, other cardio conditions"
     },
     {
      "title": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
@@ -1271,7 +1271,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 19:17:01 +0000",
      "summary": "According to the company, the funds will support the next phase of its growth in enabling autonomous science in labs and biopharmaceutical companies using its AI and robotics systems. The post Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure appeared first on G",
      "source": "GEN",
-     "zh": "Opentrons 在 E 轮融资中筹集了 4000 万美元，以扩展其机器人、软件和数据基础设施"
+     "zh": "Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure"
     },
     {
      "title": "This week in charts: ESMO’s winners and losers",
@@ -1279,7 +1279,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 12:00:00 -0400",
      "summary": "The latest installment in BioPharma Dive&rsquo;s visualization-focused series looks at Wall Street&rsquo;s response to a trio of closely watched presentations at a top meeting for cancer drugs.",
      "source": "BioPharma Dive",
-     "zh": "本周图表：ESMO 的赢家和输家"
+     "zh": "This week in charts: ESMO’s winners and losers"
     },
     {
      "title": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game",
@@ -1327,7 +1327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 20:00:00 +0000",
      "summary": "Keep the 60th anniversary party going with this visual salute to the series that launched a legacy",
      "source": "Space.com",
-     "zh": "New 'Star Trek: The Original Voyages' book traces the stellar legacy of the bold sci-fi brand"
+     "zh": "新书《星际迷航：原始航程》追溯了大胆科幻品牌的辉煌遗产"
     },
     {
      "title": "Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review — how good is this budget lens for astrophotography?",
@@ -1335,7 +1335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 19:00:00 +0000",
      "summary": "The Viltrox AF 35mm f/1.8 II FE (APO) is an inexpensive prime that works well for astrophotography thanks to its focal length and maximum aperture.",
      "source": "Space.com",
-     "zh": "Viltrox AF 35mm f/1.8 II EVO FE (APO) 镜头评测 — 这款经济型天文摄影镜头有多好？"
+     "zh": "Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review — how good is this budget lens for astrophotography?"
     },
     {
      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
@@ -1359,7 +1359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 17:33:22 +0000",
      "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as ",
      "source": "NASA",
-     "zh": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch"
+     "zh": "NASA 邀请媒体观看诺斯罗普·格鲁曼公司 CRS-25 站补给发射"
     },
     {
      "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
@@ -1367,7 +1367,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 17:00:00 +0000",
      "summary": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
      "source": "Space.com",
-     "zh": "詹姆斯·韦伯太空望远镜发现了有关“星际入侵者”彗星 3I/ATLAS 起源的新线索"
+     "zh": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS"
     },
     {
      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
@@ -1378,14 +1378,6 @@ window.INDUSTRY_DATA = {
      "zh": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies"
     },
     {
-     "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
-     "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
-     "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
-     "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
-     "source": "Space.com",
-     "zh": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026"
-    },
-    {
      "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
@@ -1394,12 +1386,20 @@ window.INDUSTRY_DATA = {
      "zh": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station"
     },
     {
+     "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
+     "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
+     "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
+     "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
+     "source": "Space.com",
+     "zh": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026"
+    },
+    {
      "title": "How to Expand Reliable, Flexible Access to Space",
      "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
      "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […] The post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "如何扩大可靠、灵活的太空访问"
+     "zh": "How to Expand Reliable, Flexible Access to Space"
     },
     {
      "title": "Exclusive: Stellar Alpina Unveils Monarch Orbiter and Morpho Lunar Lander",
@@ -1495,7 +1495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 23:18:20 +0000",
      "summary": "NUO Space S.p.A—the space arm of the Milan-based private equity firm—led the round. The post Argotec Raises €50M To Scale Small Sat Manufacturing appeared first on Payload .",
      "source": "Payload",
-     "zh": "Argotec 筹集 5000 万欧元以扩大小型卫星制造规模"
+     "zh": "Argotec Raises €50M To Scale Small Sat Manufacturing"
     },
     {
      "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
@@ -1551,7 +1551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 22:27:24 GMT",
      "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
      "source": "Dark Reading",
-     "zh": "一台笔记本电脑受损，数十亿美元损失：币安攻击路径警告"
+     "zh": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning"
     },
     {
      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
@@ -1567,7 +1567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 14:00:45 -0500",
      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
      "source": "BleepingComputer",
-     "zh": "金融科技平台 Sageworks 因涉嫌网络攻击而下线"
+     "zh": "Fintech platform Sageworks taken offline after suspected cyberattack"
     },
     {
      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
@@ -1639,7 +1639,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 14:44:18 +0000",
      "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "佛罗里达州学生援助网站遭黑客攻击，490 万人的数据面临风险"
+     "zh": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk"
     },
     {
      "title": "Hackers disrupt refrigeration systems at European supermarkets",
@@ -1655,7 +1655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 14:00:00 GMT",
      "summary": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
      "source": "Dark Reading",
-     "zh": "PapRAT 网络间谍活动在南亚留下“苦涩”味道"
+     "zh": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia"
     },
     {
      "title": "Revolve Data Breach Impacts at Least 180,000 People",
@@ -1679,7 +1679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 17:20:00 +0530",
      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and&nbsp;its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8",
      "source": "The Hacker News",
-     "zh": "严重的 Langflow 缺陷可能会让未经身份验证的攻击者在服务器上运行代码"
+     "zh": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers"
     },
     {
      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
@@ -1687,7 +1687,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 17:00:00 +0530",
      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decisio",
      "source": "The Hacker News",
-     "zh": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy"
+     "zh": "您的 SOC 为 AI 代理做好准备了吗？部署前的成熟度检查"
     },
     {
      "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
@@ -1719,7 +1719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 21:08:25 GMT",
      "summary": "The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not.",
      "source": "Dark Reading",
-     "zh": "投资者对新初创企业的青睐以及他们下一步会投资什么"
+     "zh": "Investors Dish on New Startups & What They'd Back Next"
     },
     {
      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
@@ -1727,7 +1727,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 20:05:58 GMT",
      "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
      "source": "Dark Reading",
-     "zh": "开发人员受到游标特洛伊木马克劳德代码扩展的攻击"
+     "zh": "Devs Hit by Trojanized Claude Code Extension for Cursor"
     },
     {
      "title": "Behind the Scenes of How Operation Blackout Went Down",
@@ -1745,6 +1745,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "科技股暴跌拖累 Anthropic“史上最大 IPO”估值，预期已从 2 万亿美元降至 1.5 万亿区间",
+     "link": "https://www.ithome.com/1/021/299.htm",
+     "pubDate": "Mon, 02 Nov 2026 23:44:35 GMT",
+     "summary": "IT之家 11 月 3 日消息，据《华尔街日报》今日报道，上周科技股的暴跌，正在改变计划参与 Anthropic IPO 的机构投资者对这家 AI 公司的估值判断。 过去几天里，这些投资者已向 Anthropic 及其顾问团队表示，本月晚些时候 IPO 时的估值应在 1.5 万亿美元至 1.6 万亿美元 （现汇率约合 9.99 万亿元至 10.66 万亿元人民币） 之间，远低于此前数月市场讨论的接近 2 万亿美元 （IT之家注：现汇率约合 13.32 万亿元人民币） 的水平。 众所周知，上周科技股迎来一轮暴跌，纳斯达克指数从高点回落约 10%，逼近技术性回调区间；英特尔单日暴跌 29%，创四十",
+     "source": "IT之家",
+     "zh": "科技股暴跌拖累 Anthropic“史上最大 IPO”估值，预期已从 2 万亿美元降至 1.5 万亿区间"
+    },
     {
      "title": "弧光悖论：AI效率红利的逐层消散",
      "link": "https://www.huxiu.com/article/4902461.html?f=rss",
@@ -1824,14 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 一位经济学家和一位跟踪产业20年的媒体人，在“欧洲开始用市场换中国技术”的这一天，复盘了中国汽车的来路，也争论了它的去路。 2026年10月15日，欧盟各国领导人在布鲁塞尔召开为期两天的欧洲理事会会议。 一周前的10月8日至9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇（MarošŠefčovič）在北京举行中欧贸易投资磋商机制第二次例会，双方以符合世贸组织规则的方式，就混合动力汽车贸易达成谅解。 随后几天，多家中国车企公开表态支持。 就在欧洲理事会开幕当天，轩辕同学校长、WNATA理事长、",
      "source": "虎嗅",
      "zh": "贾可对话经济学家刘胜军：中国汽车“动作变形”之辩"
-    },
-    {
-     "title": "腾讯 TenPay Global 与万事达卡签署合作备忘录，入境扫码支付、汇款与智能体支付同步推进",
-     "link": "https://www.ithome.com/1/021/294.htm",
-     "pubDate": "Mon, 02 Nov 2026 23:20:06 GMT",
-     "summary": "IT之家 11 月 3 日消息，在 11 月 2 日 2026 年香港金融科技周期间，腾讯旗下跨境支付平台 TenPay Global 与万事达卡签署合作备忘录。 腾讯表示，双方将结合万事达卡的全球网络与微信支付生态，推动入境游客使用其已有的数字钱包或银行 App，在中国境内支持扫码支付的商户处完成付款，并将合作范围延伸至跨境汇款和智能体支付领域。 万事达卡数据显示，截至 2026 年 6 月的一年内，中国内地入境消费同比增长 51.3%。2026 年 1 至 8 月，境外电子钱包通过微信支付在中国境内的交易笔数和交易金额分别同比增长 81.8% 和 80.6%。TenPay Global 目",
-     "source": "IT之家",
-     "zh": "腾讯 TenPay Global 与万事达卡签署合作备忘录，入境扫码支付、汇款与智能体支付同步推进"
     },
     {
      "title": "【钛晨报】联手稳市场，三部门最新部署；六大行大额存单全部重启发行；中上协：前三季度境内股票市场上市公司合计实现归母净利润5.1万亿元，同比增长8.5%",
@@ -2103,7 +2103,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 21:32:54 +0000",
      "summary": "Apple just released its earnings report for the fourth fiscal quarter of 2026. The company reported $114.5 billion in revenue, and $30.71 billion in net profit. Here’s the full breakdown. more…",
      "source": "9to5Mac",
-     "zh": "Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12% [Charts]"
+     "zh": "苹果公布 2026 年第四季度收益：收入 1145 亿美元，增长 12% [图表]"
     },
     {
      "title": "OnePlus Turbo 7 key specs leak, and it's a big step up",
@@ -2167,7 +2167,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 19:18:20 +0000",
      "summary": "The company's latest social and gallery space is coming to the U.S., soon.",
      "source": "DPReview",
-     "zh": "Ricoh GR Space coming to New York this winter"
+     "zh": "理光 GR Space 今年冬天登陆纽约"
     },
     {
      "title": "Snap settles social media addiction lawsuit to avoid trial",
@@ -2207,7 +2207,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 18:28:34 +0000",
      "summary": "These Google apps are going to look a little different soon.",
      "source": "Android Authority",
-     "zh": "Don’t look now, but these Google apps are getting a facelift"
+     "zh": "现在别看，这些谷歌应用程序正在焕然一新"
     },
     {
      "title": "Google will let Android & iOS apps directly integrate Quick Share next year",
@@ -2223,7 +2223,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 18:21:02 +0100",
      "summary": "Apple launched the iPad mini (2026) last week, with an OLED screen and the A20 Pro chip. If you were wondering about the rest of the lineup, Apple is allegedly planning a wave of iPad updates for the first half of 2027, according to a new report from Bloomberg's Mark Gurman. Three models will report",
      "source": "GSMArena",
-     "zh": "Apple plans to refresh three iPads in the first half of 2027"
+     "zh": "苹果计划在 2027 年上半年更新三款 iPad"
     },
     {
      "title": "New Samsung Galaxy S27+ certification confirms its charging prowess",
@@ -2242,68 +2242,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Supreme Court rejects DOJ&apos;s bid to block California from counting disputed ballots",
+     "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+     "pubDate": "Mon, 02 Nov 2026 23:48:28 GMT",
+     "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
+     "source": "CNBC",
+     "zh": "最高法院驳回司法部阻止加州清点有争议选票的提议"
+    },
+    {
+     "title": "东方生物：融资净偿还27.14万元，融资余额1.56亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611033919303541.html",
+     "pubDate": "Tue, 03 Nov 2026 07:44:16 +0800",
+     "summary": "交易所最新数据显示， 东方生物 于2026年11月2日获融资买入163.57万元，融资偿还190.72万元， 当日融资净偿还27.14万元。 目前，该股融资余额1.56亿，占流通市值比例为4.48%。 该股当日融券卖出0股，融券偿还600股， 融券净偿还600股。 目前，该股融券余量1.32万股，融券余额22.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏",
+     "source": "东方财富股票",
+     "zh": "东方生物：融资净偿还27.14万元，融资余额1.56亿元"
+    },
+    {
+     "title": "硕世生物：融资净偿还53.25万元，融资余额2.12亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611033919303427.html",
+     "pubDate": "Tue, 03 Nov 2026 07:44:15 +0800",
+     "summary": "交易所最新数据显示， 硕世生物 于2026年11月2日获融资买入294.09万元，融资偿还347.34万元， 当日融资净偿还53.25万元。 目前，该股融资余额2.12亿，占流通市值比例为7.54%。 该股当日无融券交易。目前，该股融券余量9376股，融券余额21.28万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东",
+     "source": "东方财富股票",
+     "zh": "硕世生物：融资净偿还53.25万元，融资余额2.12亿元"
+    },
+    {
+     "title": "三友医疗：融资净买入109.94万元，融资余额9934.21万元",
+     "link": "http://stock.eastmoney.com/news/1697,202611033919303322.html",
+     "pubDate": "Tue, 03 Nov 2026 07:44:14 +0800",
+     "summary": "交易所最新数据显示， 三友医疗 于2026年11月2日获融资买入614.30万元，融资偿还504.35万元， 当日融资净买入109.94万元。 目前，该股融资余额9934.21万，占流通市值比例为2.31%。 该股当日融券卖出589股，融券偿还1.51万股， 融券净偿还1.45万股。 目前，该股融券余量8289股，融券余额10.15万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
+     "source": "东方财富股票",
+     "zh": "三友医疗：融资净买入109.94万元，融资余额9934.21万元"
+    },
+    {
+     "title": "东软集团：融资净偿还48.68万元，融资余额8.75亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611033919303282.html",
+     "pubDate": "Tue, 03 Nov 2026 07:44:12 +0800",
+     "summary": "交易所最新数据显示， 东软集团 于2026年11月2日获融资买入1043.49万元，融资偿还1092.17万元， 当日融资净偿还48.68万元。 目前，该股融资余额8.75亿，占流通市值比例为8.76%。 该股当日融券卖出11.84万股，融券偿还1.95万股， 融券净卖出9.89万股。 目前，该股融券余量34.61万股，融券余额288.65万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
+     "source": "东方财富股票",
+     "zh": "东软集团：融资净偿还48.68万元，融资余额8.75亿元"
+    },
+    {
+     "title": "虹软科技：融资净偿还1623.87万元，融资余额5.59亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611033919303185.html",
+     "pubDate": "Tue, 03 Nov 2026 07:44:09 +0800",
+     "summary": "交易所最新数据显示， 虹软科技 于2026年11月2日获融资买入1750.54万元，融资偿还3374.41万元， 当日融资净偿还1623.87万元。 目前，该股融资余额5.59亿，占流通市值比例为4.46%。 该股当日融券卖出1.74万股，融券偿还2000股， 融券净卖出1.54万股。 目前，该股融券余量10.43万股，融券余额325.69万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
+     "source": "东方财富股票",
+     "zh": "虹软科技：融资净偿还1623.87万元，融资余额5.59亿元"
+    },
+    {
+     "title": "优刻得：融资净偿还300.91万元，融资余额8.9亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611033919303090.html",
+     "pubDate": "Tue, 03 Nov 2026 07:44:08 +0800",
+     "summary": "交易所最新数据显示，优刻得于2026年11月2日获融资买入2836.79万元，融资偿还3137.70万元， 当日融资净偿还300.91万元。 目前，该股融资余额8.90亿，占流通市值比例为8.28%。 该股当日融券卖出1730股，融券偿还0股， 融券净卖出1730股。 目前，该股融券余量19.19万股，融券余额502.66万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
+     "source": "东方财富股票",
+     "zh": "优刻得：融资净偿还300.91万元，融资余额8.9亿元"
+    },
+    {
+     "title": "楼市“银十”收官：重点18城二手住宅成交同比增长17.5% 上海创六年同期成交新高",
+     "link": "http://finance.eastmoney.com/news/1344,202611033919316293.html",
+     "pubDate": "Tue, 03 Nov 2026 07:41:54 +0800",
+     "summary": "“银十”收官，各地楼市呈现分化修复格局。其中热点城市二手房成交保持韧性，创下同期成交新高；新房市场冷热不均百城销售同比下降，但一线城市自二季度以来整体保持增长。 核心城市二手房成交保持韧性 中指研究院监测数据显示，二手房市场活跃度延续高位运行，重点18城二手住宅成交11.6万套，同比增长17.5%。从累计数据来看，1-10月，重点18城二手住宅成交123万套，同比增长7.3%。 分城市来看，随着需求端政策效应持续显效，北京、上海、深圳等核心城市二手房市场同比保持较高活跃度。 北京链家研究院依据北京市住建委官网统计，10月，北京市二手住宅网签量为13081套，环比虽下滑17%，但同比增长8.2%",
+     "source": "东方财富资讯",
+     "zh": "楼市“银十”收官：重点18城二手住宅成交同比增长17.5% 上海创六年同期成交新高"
+    },
+    {
      "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
      "pubDate": "Mon, 02 Nov 2026 23:39:00 GMT",
      "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.",
      "source": "MarketWatch",
-     "zh": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’"
+     "zh": "Marvell 和 Lumentum 股东联合起来寻找合并交易：“这是一个垃圾报价”"
     },
     {
-     "title": "Supreme Court rejects DOJ&apos;s bid to block California from counting disputed ballots",
-     "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-     "pubDate": "Mon, 02 Nov 2026 23:38:45 GMT",
-     "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
-     "source": "CNBC",
-     "zh": "Supreme Court rejects DOJ&apos;s bid to block California from counting disputed ballots"
-    },
-    {
-     "title": "中铝国际：融资净偿还10.38万元，融资余额5870.14万元",
-     "link": "http://stock.eastmoney.com/news/1697,202611033919259991.html",
-     "pubDate": "Tue, 03 Nov 2026 07:37:41 +0800",
-     "summary": "交易所最新数据显示， 中铝国际 于2026年11月2日获融资买入254.81万元，融资偿还265.18万元， 当日融资净偿还10.38万元。 目前，该股融资余额5870.14万，占流通市值比例为0.56%。 该股当日融券卖出600股，融券偿还0股， 融券净卖出600股。 目前，该股融券余量22.64万股，融券余额92.6万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致",
-     "source": "东方财富股票",
-     "zh": "中铝国际：融资净偿还10.38万元，融资余额5870.14万元"
-    },
-    {
-     "title": "中粮糖业：融资净偿还2446.02万元，融资余额14.31亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611033919258952.html",
-     "pubDate": "Tue, 03 Nov 2026 07:37:35 +0800",
-     "summary": "交易所最新数据显示，中粮糖业于2026年11月2日获融资买入3225.58万元，融资偿还5671.60万元， 当日融资净偿还2446.02万元。 目前，该股融资余额14.31亿，占流通市值比例为5.68%。 该股当日融券卖出9.40万股，融券偿还5.15万股， 融券净卖出4.25万股。 目前，该股融券余量67.84万股，融券余额799.83万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内",
-     "source": "东方财富股票",
-     "zh": "中粮糖业：融资净偿还2446.02万元，融资余额14.31亿元"
-    },
-    {
-     "title": "西部黄金：融资净买入266.96万元，融资余额3.36亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611033919258112.html",
-     "pubDate": "Tue, 03 Nov 2026 07:37:30 +0800",
-     "summary": "交易所最新数据显示，西部黄金于2026年11月2日获融资买入2736.21万元，融资偿还2469.25万元， 当日融资净买入266.96万元。 目前，该股融资余额3.36亿，占流通市值比例为1.78%。 该股当日融券卖出2700股，融券偿还5500股， 融券净偿还2800股。 目前，该股融券余量18.64万股，融券余额397.03万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的",
-     "source": "东方财富股票",
-     "zh": "西部黄金：融资净买入266.96万元，融资余额3.36亿元"
-    },
-    {
-     "title": "兴业证券：融资净买入183.23万元，融资余额20.82亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611033919257321.html",
-     "pubDate": "Tue, 03 Nov 2026 07:37:30 +0800",
-     "summary": "交易所最新数据显示， 兴业证券 于2026年11月2日获融资买入4622.63万元，融资偿还4439.41万元， 当日融资净买入183.23万元。 目前，该股融资余额20.82亿，占流通市值比例为4.40%。 该股当日融券卖出6.90万股，融券偿还1.03万股， 融券净卖出5.87万股。 目前，该股融券余量75.91万股，融券余额415.99万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资",
-     "source": "东方财富股票",
-     "zh": "兴业证券：融资净买入183.23万元，融资余额20.82亿元"
-    },
-    {
-     "title": "同方股份：融资净偿还567.9万元，融资余额16.6亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611033919256847.html",
-     "pubDate": "Tue, 03 Nov 2026 07:37:17 +0800",
-     "summary": "交易所最新数据显示， 同方股份 于2026年11月2日获融资买入1398.60万元，融资偿还1966.50万元， 当日融资净偿还567.9万元。 目前，该股融资余额16.60亿，占流通市值比例为7.88%。 该股当日融券卖出18.61万股，融券偿还7.16万股， 融券净卖出11.45万股。 目前，该股融券余量63.18万股，融券余额397.4万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资",
-     "source": "东方财富股票",
-     "zh": "同方股份：融资净偿还567.9万元，融资余额16.6亿元"
-    },
-    {
-     "title": "城市传媒：融资净买入2054.37万元，融资余额1.9亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611033919256727.html",
-     "pubDate": "Tue, 03 Nov 2026 07:37:17 +0800",
-     "summary": "交易所最新数据显示，城市传媒于2026年11月2日获融资买入3101.14万元，融资偿还1046.78万元， 当日融资净买入2054.37万元。 目前，该股融资余额1.90亿，占流通市值比例为5.06%。 该股当日融券卖出1200股，融券偿还4800股， 融券净偿还3600股。 目前，该股融券余量3.99万股，融券余额22.7万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏",
-     "source": "东方财富股票",
-     "zh": "城市传媒：融资净买入2054.37万元，融资余额1.9亿元"
+     "title": "千亿科技巨头集体“剧透”订单 9家公司同步推出回购计划",
+     "link": "http://finance.eastmoney.com/news/1344,202611033919260159.html",
+     "pubDate": "Tue, 03 Nov 2026 07:36:13 +0800",
+     "summary": "近期，上市公司纷纷发布产销经营快报，并表示在手订单充足或客户订单需求强劲，成为支撑A股市场信心、助力市场企稳的标杆力量。 硬科技板块个股 10月以来密集透露订单充裕 近年来，上市公司自愿披露经营订单已成为常态化。在严守信息披露合规底线的前提下，主动向市场传递行业景气度与在手订单信息，既能够稳定市场预期、提振投资者信心，也有助于塑造企业经营口碑、提升资本市场竞争力，同时为机构投资者开展基本面研判提供有效依据。 从披露渠道来看，上市公司主要通过互动易平台、机构调研纪要、定期财务公告、产销经营快报等公开途径对外释放经营信号，大量企业明确披露订单充裕（含订单充足、订单饱满、下游需求强劲，下同）。以机构",
+     "source": "东方财富资讯",
+     "zh": "千亿科技巨头集体“剧透”订单 9家公司同步推出回购计划"
     },
     {
      "title": "清晨！全球“股王”重大突发！苹果第四财季营收增长放缓",
@@ -2354,20 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "Stock market after midterm elections: What S&P 500 history shows"
     },
     {
-     "title": "美官员：美俄乌三方会谈将于10日至11日举行",
-     "link": "http://finance.eastmoney.com/news/1351,202611033919226590.html",
-     "pubDate": "Tue, 03 Nov 2026 07:08:46 +0800",
-     "summary": "当地时间11月2日，美国高级官员透露，美国将于11月10日至11日在阿联酋阿布扎比与乌克兰和俄罗斯举行三方会谈。 该官员表示，三方会谈将涵盖结束冲突、战后安全安排、局势降温以及援助措施等议题。美国官员本周将在布鲁塞尔与来自法国、德国、英国、欧盟及北约的代表会晤，讨论乌克兰相关问题。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "美官员：美俄乌三方会谈将于10日至11日举行"
-    },
-    {
      "title": "Vertex raises 2026 revenue guidance following mixed Q3 results",
      "link": "https://seekingalpha.com/news/4663031-vertex-raises-2026-revenue-guidance-following-mixed-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 02 Nov 2026 18:08:26 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Vertex raises 2026 revenue guidance following mixed Q3 results"
+     "zh": "第三季度业绩喜忧参半后，Vertex 上调了 2026 年收入指引"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月3日",
@@ -2391,7 +2399,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 18:04:52 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Saba Capital Fund renews 10% share repurchase program for FY2027"
+     "zh": "Saba Capital Fund 更新 2027 财年 10% 股份回购计划"
     },
     {
      "title": "Otter Tail GAAP EPS of $1.41 misses by $0.11, revenue of $320.51M misses by $7.49M",
@@ -2423,7 +2431,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 22:53:20 GMT",
      "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
      "source": "CNBC",
-     "zh": "Palantir reports booming U.S. commercial revenue growth, topping government for first time"
+     "zh": "Palantir 报告美国商业收入增长强劲，首次超过政府收入"
     },
     {
      "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
@@ -2448,14 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国液化天然气（LNG）出口在10月强势反弹，折射出全球能源格局持续重塑下美国作为头号LNG出口国的市场地位。 据数据提供商LSEG， 美国10月LNG出口量达792万公吨，为有记录以来第二高月度水平，仅略低于今年4月801万公吨的历史纪录，较9月的712万公吨环比大幅增长。 欧洲持续扩大对美国LNG的采购，占比较上月跃升8个百分点至60%。 出口量回升主要得益于Cheniere Energy及Venture Global LNG产量提升，足以抵消伯克希尔哈撒韦能源旗下Cove Point液化终端因12天例行维护造成的产量损失。 与此同时， 亚洲LNG基准价格自8月初以来已累计上涨70%，但市",
      "source": "华尔街见闻",
      "zh": "美国10月LNG出口攀升至历史次高，欧洲需求占比跃升至六成"
-    },
-    {
-     "title": "全球市场：美股三大指数涨跌不一 纳指跌超1% 国际油价大跌",
-     "link": "http://stock.eastmoney.com/news/11784,202611033919195594.html",
-     "pubDate": "Tue, 03 Nov 2026 06:11:28 +0800",
-     "summary": "美股市场： 美股三大指数11月02日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨213.67点，收于51983.98点，涨幅为0.41%； 标准普尔 500种股票指数下跌38.67点，收于7541.4点，跌幅为0.51%； 纳斯达克 综合 指数下跌272.68点，收于25164.32点，跌幅为1.07%。 \"科技七巨头\"多数下跌， 英伟达 跌1.26%， 苹果 跌1.83%， 微软 跌2.83%， 谷歌-A 跌0.30%， 亚马逊 涨2.20%，Meta跌1.34%， 特斯拉 涨1.00%。 芯片股普跌，费城 半导体 指数跌3.37%，Cerebras跌11.74%， 英特尔 跌",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数涨跌不一 纳指跌超1% 国际油价大跌"
     },
     {
      "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
@@ -2495,7 +2495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 21:01:07 +0000",
      "summary": "Chemical signatures found in a Brazilian dinosaur bone may be preserved red blood cells, a new study suggests, but not all experts agree.",
      "source": "Live Science",
-     "zh": "Traces of ancient blood found in 115 million-year-old dinosaur fossil, new study claims"
+     "zh": "新研究称，在 1.15 亿年前的恐龙化石中发现了远古血液的痕迹"
     },
     {
      "title": "Powering up for a pivotal moment",
@@ -2543,7 +2543,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
      "summary": "Permafrost detachment slides involve large slabs of frozen earth thawing from below and then sliding downhill.",
      "source": "Science News",
-     "zh": "Melting permafrost has birthed a new type of large landslide"
+     "zh": "永久冻土融化催生了新型大型滑坡"
     },
     {
      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
@@ -2551,7 +2551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 08:42:07 EST",
      "summary": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusive “ghost particles” could hold extraordinary clues about the",
      "source": "ScienceDaily",
-     "zh": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos"
+     "zh": "IceCube探测到的幽灵粒子能量是太阳中微子的100亿倍"
     },
     {
      "title": "Experts say high blood pressure guidelines are missing half the equation",
@@ -2647,7 +2647,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 11:15:26 +0000",
      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
      "source": "Ars Technica Science",
-     "zh": "Seabirds racing home over the ocean can get jet-lagged"
+     "zh": "海鸟在海洋上飞翔回家可能会遇到时差"
     },
     {
      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
@@ -2655,7 +2655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 11:02:34 +0000",
      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
      "source": "Ars Technica Science",
-     "zh": "The FDA wants to pull its approval of a drug. It’s not so easy."
+     "zh": "FDA 希望撤销对一种药物的批准。这并不容易。"
     },
     {
      "title": "Study pinpoints states with steepest warming trends since 1980",
@@ -2679,7 +2679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 18:13:42 +0000",
      "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
      "source": "Ars Technica Science",
-     "zh": "Rare meteorite from Mars gives us a view into its ancient crust"
+     "zh": "来自火星的罕见陨石让我们了解其古老的地壳"
     },
     {
      "title": "This Halloween, amateur astronomers may be in for a dwarf planet treat",
@@ -2703,7 +2703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
      "summary": "Designed to study the powerful outbursts, the Swift Observatory quickly contributed to a wide range of discoveries. Now, it's about to meet a fiery fate.",
      "source": "Science News",
-     "zh": "NASA’s Swift telescope will face a fiery demise after a failed rescue"
+     "zh": "美国宇航局的雨燕望远镜在救援失败后将面临大火"
     },
     {
      "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",

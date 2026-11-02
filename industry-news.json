@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/2 14:09:46",
+ "generated_at": "2026/11/2 14:28:13",
  "recent_days": 7,
  "industries": [
   {
@@ -110,7 +110,7 @@
      "pubDate": "Sun, 01 Nov 2026 07:47:17 +0000",
      "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag",
      "source": "MarkTechPost",
-     "zh": "DeepSeek 开源 dsh-superagent，一个 Router-Worker 编码代理"
+     "zh": "DeepSeek 开源 dsh-superagent，路由器工作编码代理"
     },
     {
      "title": "Jev新成果，再次引爆开源",
@@ -286,7 +286,7 @@
      "pubDate": "Mon, 2 Nov 2026 04:45:10 GMT",
      "summary": "Chinese AI chipmaker Iluvatar CoreX has released benchmarks showing its next-generation Tiangai 300 general-purpose GPU outperforming Nvidia's H200 in selected large language model (LLM) inference, long-context processing and multimodal generation workloads.",
      "source": "DIGITIMES",
-     "zh": "Iluvatar CoreX Tiangai 300 在特定 AI 推理测试中超越 Nvidia H200，在长上下文和 MoE 方面有所提升"
+     "zh": "Iluvatar CoreX Tiangai 300 在选定的 AI 推理测试中超越 Nvidia H200，在长上下文和 MoE 方面有所提升"
     },
     {
      "title": "RichWave sees Wi-Fi 7 reaching 50% share in 2027",
@@ -446,7 +446,7 @@
      "pubDate": "Fri, 30 Oct 2026 10:27:30 +0000",
      "summary": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
      "source": "Electronics Weekly",
-     "zh": "泰雷兹阿莱尼亚宇航公司赢得另外两颗伽利略卫星的合同"
+     "zh": "泰雷兹阿莱尼亚航天公司赢得另外两颗伽利略卫星的合同"
     },
     {
      "title": "First Solar licensing CubicPV’s US patents for perovskite solar technology",
@@ -574,7 +574,7 @@
      "pubDate": "Fri, 30 Oct 2026 22:41:24 +0000",
      "summary": "While the ocean’s depths may be vast, the growing community of researchers dedicated to exploring them with autonomous robotics is more connected than ever following Global Ocean Robotics Day. Constructor University was one of 10 partner hubs around the world to host the inaugural international symp",
      "source": "Robotics & Automation",
-     "zh": "全球海洋机器人日凸显自主水下机器人的进步"
+     "zh": "全球海洋机器人日强调自主水下机器人的进步"
     },
     {
      "title": "Opentrons raises $40 million to expand AI-powered lab automation",
@@ -782,7 +782,7 @@
      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
      "summary": "Rivian Chief Software Officer Wassym Bensaid says new AI integrations will order your coffee and automate vehicle service starting next year.",
      "source": "InsideEVs",
-     "zh": "Rivians 将于 2027 年推出人工智能驱动的咖啡跑和服务拜访服务"
+     "zh": "Rivians 将于 2027 年推出人工智能驱动的咖啡跑和服务访问服务"
     },
     {
      "title": "One Year Without EV Tax Credits: 4 Key Takeaways",
@@ -1062,7 +1062,7 @@
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
+     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "'The Sea God Surveys': Watch Rocket Lab launch Japanese Earth-observing satellite today",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
+     "pubDate": "Mon, 02 Nov 2026 06:20:05 +0000",
+     "summary": "Rocket Lab will launch its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite to orbit. Here's how to watch live.",
+     "source": "Space.com",
+     "zh": "“海神调查”：观看火箭实验室今天发射日本地球观测卫星"
+    },
+    {
      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
      "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
      "pubDate": "Mon, 02 Nov 2026 05:05:00 +0000",
@@ -1367,14 +1375,6 @@
      "summary": "NASA Administrator Jared Isaacman has spoken on the planned architecture and contingencies for the Artemis… The post Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Isaacman 概述了 Artemis III 多次启动结账顺序和 Blue Origin 优先级"
-    },
-    {
-     "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
-     "link": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
-     "pubDate": "Sat, 31 Oct 2026 15:00:00 +0000",
-     "summary": "Grab your high-lumen flashlight and gargantuan gun to explore these vicious vessels",
-     "source": "Space.com",
-     "zh": "如果你敢的话，万圣节可以爬上 9 艘噩梦般的科幻宇宙飞船"
     },
     {
      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
@@ -1654,7 +1654,7 @@
      "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "叙利亚黑客逃亡十多年后在美国入狱"
+     "zh": "叙利亚黑客潜逃十多年后在美国入狱"
     },
     {
      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
@@ -1745,20 +1745,68 @@
    "total": 18,
    "items": [
     {
+     "title": "这一关键部件不再受制于人：国产首款商品化 CryoHe 系列核磁超低温探头发布，性能达国际一流水平",
+     "link": "https://www.ithome.com/1/020/998.htm",
+     "pubDate": "Mon, 02 Nov 2026 06:26:52 GMT",
+     "summary": "IT之家 11 月 2 日消息，据科技日报今日报道，由国仪量子技术（合肥）股份有限公司自主研发的 国产首款商品化 CryoHe 系列核磁超低温探头与 CAN-S 系列高场固体核磁共振波谱仪 在武汉市举行的第二届分析科学与仪器大会上正式对外发布。 核磁共振波谱仪是科研人员解析分子结构的核心工具之一。新药分子的骨架长什么样、蛋白质在溶液里如何折叠、代谢物在样本中含量多少，许多问题都要靠它给出答案。 而核磁探头则是决定探测能力的关键部件，也是液体核磁突破灵敏度瓶颈的主要路径 。 据介绍，CryoHe 系列核磁超低温探头将核心射频线圈稳定在约 20K（约零下 253 摄氏度），使探测灵敏度较室温探头提",
+     "source": "IT之家",
+     "zh": "这一关键部件不再受制于人：国产首款商品化 CryoHe 系列核磁超低温探头发布，性能达国际一流水平"
+    },
+    {
+     "title": "Keychron 推出 Q19 HE 8K 磁轴键盘：黄金罗盘主题，做旧铝制机身",
+     "link": "https://www.ithome.com/1/020/997.htm",
+     "pubDate": "Mon, 02 Nov 2026 06:26:18 GMT",
+     "summary": "IT之家 11 月 2 日消息，Keychron（渴创）上月末推出了 Q19 HE 8K 磁轴键盘。这一有线型号采用“黄金罗盘”主题设计，铝制机身经过做旧处理， 背板和键帽装饰以罗盘、船舵、船锚等航海元素 。 Q19 HE 8K 采用 60% 配列，支持 8kHz 回报率，Rapid Trigger 精度可达 0.005mm。其采用 TOP 固定结构，内嵌 FR4 定位板和多层阻尼填充，PCB 支持轴体热插拔、集成南向 RGB LED 背光，原装搭载青柠磁轴、CHERRY 高度 PBT 材质热升华工艺键帽。 IT之家了解到，Keychron Q19 HE 8K 键盘 售价 254.99 美元 ",
+     "source": "IT之家",
+     "zh": "Keychron 推出 Q19 HE 8K 磁轴键盘：黄金罗盘主题，做旧铝制机身"
+    },
+    {
+     "title": "亚马逊北美站品牌备案后，A+素材在美国和加拿大接受度差这么多，本地化到底该怎么改？",
+     "link": "https://www.baijing.cn/question/638594",
+     "pubDate": "Mon, 02 Nov 2026 06:20:22 +0000",
+     "summary": "品牌备案刚过，A+页面和品牌旗舰店素材在美国站跑得还行，同步到加拿大站后同一个A+模块的点击率只有美国站的六成左右，旗舰店跳出率高出近20个百分点。我们团队8个人，做户外储能配件，北美起量中，月广告预算大概3万美元，素材是深圳这边按美国站文案翻译成英法双语直接上的。试过换主图、把法语区文案单独重写、加本地场景图，但加拿大站转化还是没起色，也看不出是文案语气问题还是场景不接地气。现在卡在要不要为加拿大单独做一套素材、还是先改A+模块结构。想直接问结论：北美两个站点，品牌备案后的本地化素材到底该按市场拆开做，还是共用一套只换语言？判断标准是什么？",
+     "source": "白鲸出海",
+     "zh": "亚马逊北美站品牌备案后，A+素材在美国和加拿大接受度差这么多，本地化到底该怎么改？"
+    },
+    {
+     "title": "三星 Galaxy Z Fold 9 折叠屏手机爆料：内屏屏下摄像头或将回归",
+     "link": "https://www.ithome.com/1/020/994.htm",
+     "pubDate": "Mon, 02 Nov 2026 06:15:08 GMT",
+     "summary": "IT之家 11 月 2 日消息，据科技媒体 Sammobile 今天报道，三星 Galaxy Z Fold9 折叠屏手机有可能重新引入屏下摄像头，或许是受到苹果 iPhone Duo 启发。 ▲ Galaxy Z Fold8 一名爆料人士声称， 三星已决定为 Galaxy Z Fold9 的内屏配备屏下摄像头（IT之家注：UDC） 。作为参考，三星早在 2021 年的 Galaxy Z Fold3 上引入这项技术，一直沿用到 Galaxy Z Fold6。从 Galaxy Z Fold7 开始三星取消了这种设计，内屏前摄改为传统挖孔，提升整体成像质量。 ▲ Galaxy Z Fold6 这名爆",
+     "source": "IT之家",
+     "zh": "三星 Galaxy Z Fold 9 折叠屏手机爆料：内屏屏下摄像头或将回归"
+    },
+    {
+     "title": "冯骥发文祝贺《影之刃零》销量破 400 万：游戏归根到底，是热爱者做给热爱者的事物",
+     "link": "https://www.ithome.com/1/020/993.htm",
+     "pubDate": "Mon, 02 Nov 2026 06:14:34 GMT",
+     "summary": "IT之家 11 月 2 日消息，国产武侠游戏《影之刃零》官方今日宣布， 本作发售后 72 小时全平台销量突破 400 万 。 游戏科学创始人、CEO /《黑神话：悟空》制作人冯骥今日发文祝贺，表示《影之刃零》比销量更让人欣喜的，是好评率连续三天的变化。 游戏归根到底，是热爱者做给热爱者的事物啊 。 有网友询问冯骥有没有玩《影之刃零》，对方表示：“周末有点其他事耽误了，刚看了下游戏时间， 30.7 小时 （划船 ing。” IT之家注：《影之刃零》由灵游坊自主研发发行，采用虚幻引擎 5 打造，定位黑暗武侠题材第三人称动作冒险与单机动作 RPG，把中国武术与蒸汽朋克融合为功夫朋克风格，美术深沉黑暗",
+     "source": "IT之家",
+     "zh": "冯骥发文祝贺《影之刃零》销量破 400 万：游戏归根到底，是热爱者做给热爱者的事物"
+    },
+    {
+     "title": "曾毓群全英文发言：宁德时代也在用 AI 进行技术创新，可在短时间筛选千种化合物",
+     "link": "https://www.ithome.com/1/020/989.htm",
+     "pubDate": "Mon, 02 Nov 2026 06:11:22 GMT",
+     "summary": "IT之家 11 月 2 日消息，据科技日报今日报道，在 2026 世界顶尖科学家论坛现场，宁德时代创始人曾毓群全英文发言，分享了宁德时代以 AI 加速能源科研创新的最新探索。 超 600TB 基础研究数据、超 1 万亿条测试记录， AI 可在短时间筛选千种化合物，锁定 7 种潜力材料 。曾毓群表示，当前 AI 能力还远远不够，需要更多的科学家和更先进的模型加入进来，加快更多科研与创新成果的发现。 IT之家查询公开资料获悉，2026 世界顶尖科学家论坛开幕式暨世界顶尖科学家奖颁奖典礼于 10 月 31 日上午在上海临港中心举行。 本次论坛以“范式变革 · 科学突破的下一个十年”为主题，由开幕式暨",
+     "source": "IT之家",
+     "zh": "曾毓群全英文发言：宁德时代也在用 AI 进行技术创新，可在短时间筛选千种化合物"
+    },
+    {
+     "title": "阿语模型微调排期怎么排？4人团队做沙特AI应用卡在评测环节",
+     "link": "https://www.baijing.cn/question/638593",
+     "pubDate": "Mon, 02 Nov 2026 06:11:06 +0000",
+     "summary": "团队4个人，2个后端1个算法1个运营，做面向沙特和阿联酋的AI写作助手，刚上线两个月，日活在3000左右。现在的问题是我们用开源底座加阿语语料做了微调，但沙特本地用户反馈生成的内容“太书面”，方言和宗教语境经常踩雷，人工抽检100条里有17条需要重写。运营只有一个人，既要盯沙特和阿联酋两个站的用户反馈，又要整理badcase给算法，排期上根本转不过来。已经试过买现成的阿语标注数据包，但和海湾方言对不上；也试过让算法自己写prompt兜底，效果不稳定。现在卡在要不要专门招一个阿语母语的内容审核兼标注，还是先把微调频率从两周一次改成一周一次。想直接问：4人规模下，阿语微调的迭代节奏和人力怎么配才不",
+     "source": "白鲸出海",
+     "zh": "阿语模型微调排期怎么排？4人团队做沙特AI应用卡在评测环节"
+    },
+    {
      "title": "香蕉派推出 BPI-RT2 无线路由器：AX3000 规格，提供 4 个千兆网口",
      "link": "https://www.ithome.com/1/020/982.htm",
      "pubDate": "Mon, 02 Nov 2026 06:06:04 GMT",
      "summary": "IT之家 11 月 2 日消息，香蕉派 (Banana Pi) 近日推出了 BPI-RT2 无线路由器。其 具备 AX3000 的无线规格 ， 提供 4 个 1GbE RJ-45 网口 。 IT之家了解到，该无线路由器 基于瑞昱 RTL8198D 处理器 ，该处理器拥有 2 个 MIPS interAptiv CPU 内核并集成 256MB DDR3 内存。 BPI-RT2 长宽 97×65 (mm)，配备 128MB SPI NAND 闪存，拥有 1 个 UART Debug 接口，提供 1 个 USB-A 5Gbps。",
      "source": "IT之家",
      "zh": "香蕉派推出 BPI-RT2 无线路由器：AX3000 规格，提供 4 个千兆网口"
-    },
-    {
-     "title": "苹果 iOS 27.2 更新无法阻止百度网盘摇一摇广告，知情人士回应称并非特意绕开",
-     "link": "https://www.ithome.com/1/020/979.htm",
-     "pubDate": "Mon, 02 Nov 2026 06:04:47 GMT",
-     "summary": "IT之家 11 月 2 日消息，据澎湃新闻今日报道，有网友表示， 苹果 iOS 27.2 原本可有效阻止摇一摇广告 ，但却阻止不了百度网盘 App 的摇一摇广告跳转。 报道称，有开发者用 AI 对百度网盘 iOS 版进行了逆向分析，认为百度网盘的广告框架存在一种名为“No Shake”的实现方式， 可以在苹果系统禁止读取运动数据的情况下，换一套传感器来判断用户是否转动手机 。 有知情人士向该媒体表示， 并非百度网盘业务特意绕开该功能 ，而是苹果应用商城审核较严，百度网盘的新版本还未通过审核，新版本功能适配，“预计用户这两天就可以更新到新版，也可能今天就能上线了。” IT之家注意到，百度网盘 i",
-     "source": "IT之家",
-     "zh": "苹果 iOS 27.2 更新无法阻止百度网盘摇一摇广告，知情人士回应称并非特意绕开"
     },
     {
      "title": "三次下修砍去八成转股价，闻泰71亿转债还是转不动",
@@ -1775,14 +1823,6 @@
      "summary": "我们做的是面向欧洲市场的冥想类 App，德国、法国、英国、西班牙四国同步起量中，团队 12 人，月投放预算大概 8 万欧元，主要走 Meta 和 Google UAC。同一个素材包在德国 CPI 稳定在 1.6 欧左右，但法国同素材点击率只有德国的一半，西班牙转化率又比英国低 30% 多。排查下来怀疑跟同意弹窗有关：目前四国共用一套英文优先的 GDPR 同意流程，Accept All 按钮和 Reject 按钮视觉权重一样，法国用户大量点 Reject 后直接退出，德国用户反而接受度不错。我们已经试过把弹窗文案翻译成法语和西语、把 Accept All 做成高亮按钮，法国点击率只回升了不到 1",
      "source": "白鲸出海",
      "zh": "德国法国素材点击率差一倍，GDPR同意弹窗到底该怎么按国家分版本？"
-    },
-    {
-     "title": "三星预计 2027 年 8nm 及以下制程产线利用率有望突破 100%，HPC 芯片成为主导力量",
-     "link": "https://www.ithome.com/1/020/970.htm",
-     "pubDate": "Mon, 02 Nov 2026 06:01:15 GMT",
-     "summary": "IT之家 11 月 2 日消息，据 TrendForce 上周（10 月 30 日）报道，由于 AI 热潮持续，三星存储业务在 2026 年第三季度创下营收记录，晶圆代工业务也开始显现复苏迹象。 三星预计，8nm 及以下制程需求将超越现有产能， 2027 年相关产能利用率有望突破 100% 。而韩联社报道称，三星今年获得的 2nm 制程项目预计将同比增长 1 倍以上。其中三季度在大型云服务提供商及 AI / HPC 客户获得的 2nm 制程项目更多，延续上一季度增长势头。 随着先进制程需求增长速度超过产能扩张速度，三星正考虑在美国和韩国投资建设新晶圆厂，以满足持续增长的 2nm AI（人工智能",
-     "source": "IT之家",
-     "zh": "三星预计 2027 年 8nm 及以下制程产线利用率有望突破 100%，HPC 芯片成为主导力量"
     },
     {
      "title": "The Hague-based Braid, whose API lets companies sell eSIM mobile plans under their own brand via 600+ carriers, raised a ~$38M Series A led by Octopus Ventures (Rahul Raj/EU-Startups)",
@@ -1825,14 +1865,6 @@
      "zh": "巴西墨西哥红人佣金给到多少才算合理？我们CPA已经飙到23美元了"
     },
     {
-     "title": "比亚迪仰望 U9X 重启极速挑战，小米胡峥楠称致敬所有还在坚持实干的先行者和同行者",
-     "link": "https://www.ithome.com/1/020/954.htm",
-     "pubDate": "Mon, 02 Nov 2026 05:51:13 GMT",
-     "summary": "IT之家 11 月 2 日消息，去年，仰望 U9X（仰望 U9 Xtreme）以 496.22 km/h 的成绩，站上全球汽车极速的巅峰。 比亚迪仰望汽车今日正式宣布， 重启极速挑战 ，将在阿联酋首都阿布扎比开启一场全新的开放公路极速挑战。 IT之家注意到，小米集团副总裁、汽车部 CTO 胡峥楠转发了该微博，并表示致敬所有还在坚持实干的先行者和同行者。 十分感人，感同身受。高性能这条赛道从来都是充满了未知和风险，但只有实实在在地做了，且持续地做，才能知道下一秒的提升点在哪里。 致敬所有还在坚持实干的先行者和同行者 ！ 相关阅读： 《 496.22km/h 不是终点：比亚迪胡晓庆宣布仰望 U9 ",
-     "source": "IT之家",
-     "zh": "比亚迪仰望 U9X 重启极速挑战，小米胡峥楠称致敬所有还在坚持实干的先行者和同行者"
-    },
-    {
      "title": "中国建材企业，为什么在非洲一座接一座建厂？",
      "link": "https://www.tmtpost.com/8189934.html",
      "pubDate": "Mon, 02 Nov 2026 13:47:34 +0800",
@@ -1847,22 +1879,6 @@
      "summary": "本文来自微信公众号： 谷雨星球 ，作者：卷卷兔，原文标题：《哈佛经济学家追踪十万孩子的30年：搬家，可以「改命」》 大家好，我是卷卷兔。 今年9月，全球最火的纪录片之一《人生七年》，终于完成了对一群孩子从7岁到70岁的追踪，迎来了最后一集《70 Up》。 他们当中，富人区的大多孩子上了牛津剑桥，成了律师，工人家孩子早早工作、结婚生子。 但也有一个例外，一个农场男孩考进牛津，成了美国大学里的核物理学教授，实现了阶层的跃迁。 有人看完后很唏嘘，一个人的命运，真的早就被出身决定了吗？ 同样是追踪研究，哈佛经济学家Raj Chetty就给出了一个更有希望的答案：孩子在哪里长大，真的能在很大程度上改变命",
      "source": "虎嗅",
      "zh": "哈佛经济学家追踪十万孩子的30年：搬家，可以“改命”"
-    },
-    {
-     "title": "2026 款奔驰 E 300 L 改款轿车上市：首次搭载中国团队开发的 AI 座舱，起售价下调 1.6 万元",
-     "link": "https://www.ithome.com/1/020/944.htm",
-     "pubDate": "Mon, 02 Nov 2026 05:40:10 GMT",
-     "summary": "IT之家 11 月 2 日消息，2026 款奔驰 E 300 L 改款轿车今日正式上市，建议零售价格 42.38 万元至 50.98 万元， 相比之前的版本起售价下调 1.6 万元 。 E 300 L 晖银版建议零售价 42.38 万元 E 300 L 鎏金版建议零售价 46.68 万元 E 300 L 星铂版建议零售价 50.98 万元 该车搭载由 奔驰中国研发团队主导、独立开发的全新 AI 智能座舱 ，车载虚拟助手融合豆包 AI 大模型，新增声纹识别等功能。此外，系统支持季度性大版本 OTA 升级，未来还将陆续搭载于更多燃油及纯电车型。 据奔驰介绍，全新 AI 智能座舱深度贴合中国用户的使",
-     "source": "IT之家",
-     "zh": "2026 款奔驰 E 300 L 改款轿车上市：首次搭载中国团队开发的 AI 座舱，起售价下调 1.6 万元"
-    },
-    {
-     "title": "乘联分会崔东树：2026 年 1-9 月中国占世界汽车份额 32.1%，较去年 35.4% 回落",
-     "link": "https://www.ithome.com/1/020/943.htm",
-     "pubDate": "Mon, 02 Nov 2026 05:38:35 GMT",
-     "summary": "IT之家 11 月 2 日消息，乘联分会秘书长崔东树今日发文，2026 年 1-9 月，世界汽车累计销量 7252 万台，同比增长 3%；其中 9 月单月销量 874 万台，同比仅增 2%，环比增 12.4%，全球车市增长动力偏弱。 分国家来看， 中国销量 2327 万台，份额 32.1% ，较 2025 年 35.4% 明显回落 ；美国销量 1230 万台，份额 17.0%，小幅下滑；印度份额提升至 6.7%，成为增长亮点。 从历年份额变化看，2022-2025 年中国在全球占比持续走高， 2025 年达到阶段性高点 。欧洲主要国家份额整体稳中有降，巴西、俄罗斯等新兴市场份额保持稳定。 崔东",
-     "source": "IT之家",
-     "zh": "乘联分会崔东树：2026 年 1-9 月中国占世界汽车份额 32.1%，较去年 35.4% 回落"
     },
     {
      "title": "印尼达人报价虚高、备货又压着，东南亚红人营销的账到底怎么算？",
@@ -1911,14 +1927,6 @@
      "summary": "零营收的PI冲击200亿美元估值，国内资本却在催机器人拿订单、做交付。中美投资人，正在给两种资产定价。",
      "source": "钛媒体",
      "zh": "美国资本在买“大脑”，中国资本在催机器人出货？"
-    },
-    {
-     "title": "尼日利亚尾程派送覆盖不稳，本地化素材该按城市还是按配送时效来分版？",
-     "link": "https://www.baijing.cn/question/638588",
-     "pubDate": "Mon, 02 Nov 2026 05:13:26 +0000",
-     "summary": "做跨境物流 SaaS 的，去年 10 月进尼日利亚，拉各斯、阿布贾、卡诺三个城市做尾程派送信息展示，团队 12 人，月投放预算约 8000 美元。现在的问题是素材接受度差异很大：拉各斯用「当日达」「骑手实时轨迹」这类卖点，落地页转化率 4.1%；同样的素材换到卡诺，转化只有 1.2%，用户更多问「能不能送到我这片区」「多久能到」。我们已经试过把三个城市的素材统一成「覆盖全城」的大而全版本，结果拉各斯转化掉到 2.6%，卡诺也没起来。也试过按语言分版（英语 + 豪萨语），但豪萨语版本点击率高了、注册后的实际下单率反而更低。卡在到底该按城市分素材，还是按「配送时效承诺」分素材，以及卡诺这种低转化城",
-     "source": "白鲸出海",
-     "zh": "尼日利亚尾程派送覆盖不稳，本地化素材该按城市还是按配送时效来分版？"
     },
     {
      "title": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？",
@@ -1975,14 +1983,6 @@
      "summary": "Cailey Gleeson / Fierce Healthcare : AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures &nbsp; &mdash;&nbsp; Artificial Intelligence funding round series A venture capital (VC)&nbsp; &mdash;&",
      "source": "Techmeme",
      "zh": "基于人工智能的医疗搜索引擎 Vera Health 据称被 190 个国家/地区的 800,000 多名临床医生使用，并筹集了由 Threshold Ventures（Cailey Gleeson/Fierce Healthcare）领投的 2850 万美元 A 轮融资"
-    },
-    {
-     "title": "Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius (Will Maddox/Axios)",
-     "link": "https://www.techmeme.com/261101/p24#a261101p24",
-     "pubDate": "Sun, 01 Nov 2026 22:01:17 -0500",
-     "summary": "Will Maddox / Axios : Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius &nbsp; &mdash;&nbsp; Midstream Health, an AI financial system for hospitals, raised a $20 million Series A round to expand",
-     "source": "Techmeme",
-     "zh": "Midstream Health 的人工智能工具帮助 250 家医院从回扣以及供应商和付款人少付款中收回收入，并筹集了由 Valtrius（Will Maddox/Axios）领投的 2000 万美元 A 轮融资"
     }
    ]
   },
@@ -2086,7 +2086,7 @@
      "pubDate": "Mon, 02 Nov 2026 00:30:00 +0000",
      "summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
      "source": "Engadget",
-     "zh": "Android Auto 的下一次更新可能会扰乱你的工作与生活平衡"
+     "zh": "Android Auto 的下一次更新可能会破坏你的工作与生活平衡"
     },
     {
      "title": "10 iPad widgets you probably didn't realize existed",
@@ -2241,6 +2241,30 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump rolls out $15B in farm relief package ahead of midterms",
+     "link": "https://seekingalpha.com/news/4661901-trump-rolls-out-15b-in-farm-relief-package-ahead-of-midterms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 01:22:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "特朗普在中期选举前推出 15B 美元的农业救助计划"
+    },
+    {
+     "title": "PBoC shifts primary policy anchor to overnight rate with daily 1.25% reverse repos",
+     "link": "https://seekingalpha.com/news/4661906-pboc-shifts-primary-policy-anchor-to-overnight-rate-with-daily-125-reverse-repos?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 01:11:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "中国人民银行将主要政策锚转向隔夜利率，每日逆回购利率为 1.25%"
+    },
+    {
+     "title": "Spotify, Lovable backer Creandum said to raise $750M new fund",
+     "link": "https://seekingalpha.com/news/4661915-spotify-lovable-backer-creandum-said-to-raise-750m-new-fund?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 01:10:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Spotify 和 Lovable 的支持者 Creandum 据称将筹集 7.5 亿美元的新基金"
+    },
+    {
      "title": "午后拉升！创业板大涨近3%，金融科技ETF午后批量涨停，传媒、券商爆发，恒科指涨3%，权重科网股集体大涨",
      "link": "https://wallstreetcn.com/articles/3784968",
      "pubDate": "Mon, 02 Nov 2026 14:06:51 +0800",
@@ -2249,12 +2273,28 @@
      "zh": "午后拉升！创业板大涨近3%，金融科技ETF午后批量涨停，传媒、券商爆发，恒科指涨3%，权重科网股集体大涨"
     },
     {
+     "title": "卓驭科技入局商用车市场 乘用车智驾模型“迁移”靠谱吗？",
+     "link": "http://www.eeo.com.cn/2026/1102/1082144.shtml",
+     "pubDate": "Mon, 02 Nov 2026 14:03:18 +0800",
+     "summary": "面对行业未来，卓驭科技预判商用车市场的“智驾时刻”将很快来临。刘思康说：“现在智驾在商用车的渗透率非常低，去年出货量不到1%。这个行业竞争格局还没有完全打开，商用车一旦开始做智驾，速度肯定比乘用车快。乘用车可能至少要做十年，商用车未来两到三年内就会有爆发趋势。”",
+     "source": "经济观察网",
+     "zh": "卓驭科技入局商用车市场 乘用车智驾模型“迁移”靠谱吗？"
+    },
+    {
      "title": "South Korea targets &apos;world&apos;s highest performance&apos; sovereign AI model in record new budget",
      "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
      "pubDate": "Mon, 02 Nov 2026 06:02:03 GMT",
      "summary": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers.",
      "source": "CNBC",
      "zh": "韩国在创纪录的新预算中瞄准“世界最高性能”主权人工智能模型"
+    },
+    {
+     "title": "报道：美方推动俄气经乌克兰管道恢复对欧销售，拟促成俄乌能源停火",
+     "link": "https://wallstreetcn.com/articles/3784980",
+     "pubDate": "Mon, 02 Nov 2026 14:01:56 +0800",
+     "summary": "美国正寻求重启经由乌克兰管道输送俄罗斯天然气至欧洲的方案。 据 CCTV国际时讯 ，据《华尔街日报》当地时间11月1日援引美国、欧洲及乌克兰官员的话报道称，美国正支持通过过境乌克兰的管道，恢复俄罗斯对欧洲的天然气出口。报道称，此举是有关各方为在入冬前达成“能源停火”而进行的谈判的一部分。 该计划由美国特使Jared Kushner和Steve Witkoff在今年9月访问莫斯科和基辅期间提出，方案核心是通过美国中间商销售俄罗斯天然气，以规避欧洲现行的相关限制措施。此举若落地，将直接影响当前处于近四年高位的欧洲天然气价格走势。 然而据《华尔街日报》报道，该提案上月一度被搁置——彼时乌克兰在美国总",
+     "source": "华尔街见闻",
+     "zh": "报道：美方推动俄气经乌克兰管道恢复对欧销售，拟促成俄乌能源停火"
     },
     {
      "title": "RatingDog China PMI beats forecast at 52.0; official NBS manufacturing drops to 49.3",
@@ -2287,30 +2327,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "理想汽车10月销量环比下降8.8%至29,025辆；累计出货量达186万"
-    },
-    {
-     "title": "S&P cuts Meta outlook to negative over elevated capex and cash flow risks",
-     "link": "https://seekingalpha.com/news/4661912-sp-cuts-meta-outlook-to-negative-over-elevated-capex-and-cash-flow-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 00:31:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于资本支出和现金流风险上升，标准普尔将元展望下调为负面"
-    },
-    {
-     "title": "XPeng October deliveries surge 22% M/M to 50,237 units; overseas volume jumps 166% Y/Y",
-     "link": "https://seekingalpha.com/news/4661904-xpeng-october-deliveries-surge-22-mm-to-50237-units-overseas-volume-jumps-166-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 00:24:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "小鹏汽车10月交付量环比增长22%至50,237辆；海外销量同比增长 166%"
-    },
-    {
-     "title": "Tesla, Samsung flag manufacturing risks from Trump's Vietnam tariff push",
-     "link": "https://seekingalpha.com/news/4661900-tesla-samsung-flag-manufacturing-risks-from-trumps-vietnam-tariff-push?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 00:23:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "特斯拉、三星指出特朗普推动越南关税带来的制造业风险"
     },
     {
      "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
@@ -2393,6 +2409,14 @@
      "zh": "数据中心监管压力加剧！美国多州州长候选人支持暂停建设"
     },
     {
+     "title": "时间摩擦的翻译层失灵：当时间被算法接管，碳基还剩什么？",
+     "link": "http://www.eeo.com.cn/2026/1102/1082104.shtml",
+     "pubDate": "Mon, 02 Nov 2026 12:21:30 +0800",
+     "summary": "本文聚焦碳硅共生时间摩擦的二阶困境。“碳硅共生经济学”系列之四提出的翻译机制（里程碑、校准点、缓冲区）在组织中易变形失灵：否决权锈死、缓冲区被蚕食、里程碑沦为短期套利工具、校准点退化为盖章，导致责任真空与认知主权受侵蚀。文章运用委托-代理理论等工具剖析激励错配，并提出“问责期权”、算法责任信托等制度创新，主张建立弹性制度以保留人类“有质量的拒绝”能力。碳硅共生本质是制度演化，碳基主权最后的底牌是敢于对算法说“不”。",
+     "source": "经济观察网",
+     "zh": "时间摩擦的翻译层失灵：当时间被算法接管，碳基还剩什么？"
+    },
+    {
      "title": "AI存储超级周期生变？铠侠股价暴跌17% 较历史高点“膝盖斩”",
      "link": "http://finance.eastmoney.com/news/1344,202611023918487892.html",
      "pubDate": "Mon, 02 Nov 2026 12:19:04 +0800",
@@ -2417,12 +2441,28 @@
      "zh": "加拿大-印度55亿美元的银行收购案遭到工人和政界人士的反对"
     },
     {
+     "title": "中国在AI时代的产业链优势：让产业集群成为学习网络 | 战略提前量",
+     "link": "http://www.eeo.com.cn/2026/1102/1082098.shtml",
+     "pubDate": "Mon, 02 Nov 2026 12:08:11 +0800",
+     "summary": "中国拥有大量工厂和真实的产业问题。当前的关键任务是把一处现场的解决办法，转化为全链条下一次行动的依据。生产网络创造规模，学习网络使规模持续产生能力。问题能否在网络中被识别，证据能否在网络中得到验证，改进能否有条件地复用，收益能否回到下一轮学习，将决定中国的产业链优势能否转化为AI时代的产业主动权。",
+     "source": "经济观察网",
+     "zh": "中国在AI时代的产业链优势：让产业集群成为学习网络 | 战略提前量"
+    },
+    {
      "title": "短剧产能狂飙！概念股集体爆发 2026业绩预测翻倍股来了",
      "link": "http://finance.eastmoney.com/news/11139,202611023918486593.html",
      "pubDate": "Mon, 02 Nov 2026 12:06:57 +0800",
      "summary": "短剧概念11月2日早盘表现强势，板块中 芒果超媒 、 海看股份 、 德才股份 、 电魂网络 、 掌阅科技 涨停； 富春股份 、 捷成股份 、 因赛集团 、 华策影视 、 百纳千成 、 荣信文化 、 中文在线 、 华智数媒 、 盛天网络 涨超10%。 AI短剧产能狂飙 可以说，国庆假期结束之后，A股短剧游戏板块成为最活跃的交易主线之一，AI短剧/漫剧相关概念股反复异动。而这背后，是短剧市场在AI加持下，正迎来爆发式增长。 广电总局披露的数据显示，2025年全国微短剧市场规模突破千亿元，较2024年翻番，全年上线微短剧3.3万部，国内用户数量接近7亿人。 行业机构DataEye此前发布的《2025",
      "source": "东方财富资讯",
      "zh": "短剧产能狂飙！概念股集体爆发 2026业绩预测翻倍股来了"
+    },
+    {
+     "title": "我国拟修改刑事诉讼法更好促进司法公正",
+     "link": "http://www.eeo.com.cn/2026/1102/1082084.shtml",
+     "pubDate": "Mon, 02 Nov 2026 11:44:58 +0800",
+     "summary": "刑事诉讼法修正草案11月2日提请十四届全国人大常委会第二十五次会议审议。",
+     "source": "经济观察网",
+     "zh": "我国拟修改刑事诉讼法更好促进司法公正"
     },
     {
      "title": "商业模式存在“致命”风险！伯恩斯坦：大批Neoclouds将在1-3年内破产",
@@ -2433,52 +2473,12 @@
      "zh": "商业模式存在“致命”风险！伯恩斯坦：大批Neoclouds将在1-3年内破产"
     },
     {
-     "title": "铠侠本季利润指引逊预期，股价一度跌约15%",
-     "link": "https://wallstreetcn.com/articles/3784973",
-     "pubDate": "Mon, 02 Nov 2026 11:30:39 +0800",
-     "summary": "日本闪存巨头铠侠（Kioxia）刚刚交出一份创纪录的季度财报，却因下季度利润指引大幅逊于预期，令市场对其增长势头产生疑虑，股价盘中重挫。 铠侠预计10至12月财季调整后营业利润约为2.00万亿日元，较市场预期的约2.35万亿日元低约15%，环比增幅仅约1%。公司将增速放缓部分归因于出货时点的错位— —部分订单因客户要求提前计入9月财季，另有部分订单因企业存储产品生产周期较长而顺延至明年3月财季。与此同时，闪存均价涨幅明显收窄，也加剧了市场对增长动能减弱的担忧。 周一铠侠股价盘中跌幅一度达约15%，延续了该股自夏季高点以来的持续回调走势。 纪录季报难掩指引缺口 铠侠10月30日公布的7至9月财季",
-     "source": "华尔街见闻",
-     "zh": "铠侠本季利润指引逊预期，股价一度跌约15%"
-    },
-    {
-     "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-     "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 03:23:00 GMT",
-     "summary": "How to manage “giving while living” without endangering your own retirement.",
-     "source": "MarketWatch",
-     "zh": "想帮助您的成年子女和孙辈吗？趁你还活着的时候给他们钱。"
-    },
-    {
-     "title": "海外拐点或先于国内拐点出现",
-     "link": "https://wallstreetcn.com/articles/3784971",
-     "pubDate": "Mon, 02 Nov 2026 11:21:35 +0800",
-     "summary": "中泰证券策略在最新的报告中指出，当前A股市场正处于流动性负反馈持续扩散与情绪极度悲观的临界状态，国内股市流动性支持的大级别拐点尚未到来，但市场已具备跟随海外好转顺势反弹的条件。 上周国内卖压由前期高位筹码进一步扩散至更早入场的资金，融资余额四个交易日累计下降459亿元，科技方向ETF持续净流出，资金更多流向蓝筹。与此同时，政策支持层级虽已涉及证监会、金融监管总局及央行，但距离历史上真正打破流动性负反馈的力度仍有差距。 中泰策略指出，若海外科技与全球风险偏好率先企稳回升，国内长线资金此前在科技方向积累的筹码，有望顺势推动一轮力度较强的反弹 ——这意味着海外拐点或将先于国内拐点出现。 流动性负反馈",
-     "source": "华尔街见闻",
-     "zh": "海外拐点或先于国内拐点出现"
-    },
-    {
-     "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-     "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
-     "pubDate": "Mon, 02 Nov 2026 02:58:53 GMT",
-     "summary": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
-     "source": "CNBC",
-     "zh": "OpenAI 建立芯片合作伙伴关系，Sam Altman 出人意料地访问韩国"
-    },
-    {
-     "title": "Rubio says Trump wants to end Iran war &apos;peacefully&apos; even as both sides prepare for strikes",
-     "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
-     "pubDate": "Mon, 02 Nov 2026 02:39:35 GMT",
-     "summary": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections.",
-     "source": "CNBC",
-     "zh": "卢比奥表示，特朗普希望“和平”结束伊朗战争，尽管双方都在准备打击"
-    },
-    {
-     "title": "Trump makes final pitch to restive voters in midterms campaign",
-     "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
-     "pubDate": "Mon, 02 Nov 2026 01:47:26 GMT",
-     "summary": "Republican Party is defending its control of Congress against signs of backlash against president",
-     "source": "Financial Times",
-     "zh": "特朗普在中期竞选中向不安的选民做出最后的宣传"
+     "title": "可再生能源法修订草案提请审议",
+     "link": "http://www.eeo.com.cn/2026/1102/1082082.shtml",
+     "pubDate": "Mon, 02 Nov 2026 11:36:55 +0800",
+     "summary": "11月2日，可再生能源法修订草案提请十四届全国人大常委会第二十五次会议初次审议。",
+     "source": "经济观察网",
+     "zh": "可再生能源法修订草案提请审议"
     }
    ]
   },
@@ -2678,7 +2678,7 @@
      "pubDate": "Thu, 29 Oct 2026 18:02:26 +0000",
      "summary": "Plant design allows it to run on either stored solar heat or combustion.",
      "source": "Ars Technica Science",
-     "zh": "将太阳能发电系统变成自己的备用系统"
+     "zh": "将太阳能发电系统转变为自己的备用系统"
     },
     {
      "title": "Seabirds get jet lag, too — and it can throw them a bit off course",

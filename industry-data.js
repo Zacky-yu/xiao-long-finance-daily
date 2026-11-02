@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/2 12:49:41",
+ "generated_at": "2026/11/2 13:09:54",
  "recent_days": 7,
  "industries": [
   {
@@ -103,7 +103,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 01 Nov 2026 07:47:17 +0000",
      "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag",
      "source": "MarkTechPost",
-     "zh": "DeepSeek 开源 dsh-superagent，路由器工作编码代理"
+     "zh": "DeepSeek 开源 dsh-superagent，一个 Router-Worker 编码代理"
     },
     {
      "title": "Jev新成果，再次引爆开源",
@@ -258,6 +258,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio",
+     "link": "https://www.eetimes.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/",
+     "pubDate": "Mon, 02 Nov 2026 05:00:00 +0000",
+     "summary": "AI-driven high-bandwidth memory demand is reshaping memory markets, boosting mature flash products as Macronix expands its portfolio for AI workloads. The post AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "旺宏电子扩展闪存产品组合，人工智能重塑内存架构"
+    },
+    {
+     "title": "Iluvatar CoreX Tiangai 300 tops Nvidia H200 in select AI inference tests, with long-context and MoE gains",
+     "link": "https://www.digitimes.com/news/a20261102PD208/china-gpu-ai-inference-performance-nvidia.html",
+     "pubDate": "Mon, 2 Nov 2026 04:45:10 GMT",
+     "summary": "Chinese AI chipmaker Iluvatar CoreX has released benchmarks showing its next-generation Tiangai 300 general-purpose GPU outperforming Nvidia's H200 in selected large language model (LLM) inference, long-context processing and multimodal generation workloads.",
+     "source": "DIGITIMES",
+     "zh": "Iluvatar CoreX Tiangai 300 在特定 AI 推理测试中超越 Nvidia H200，在长上下文和 MoE 方面有所提升"
+    },
+    {
      "title": "RichWave sees Wi-Fi 7 reaching 50% share in 2027",
      "link": "https://www.digitimes.com/news/a20261102PD224/design-wi-fi-7-richwave-rf-ic-2027.html",
      "pubDate": "Mon, 2 Nov 2026 04:41:48 GMT",
@@ -287,7 +303,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 2 Nov 2026 04:23:12 GMT",
      "summary": "MediaTek's latest earnings call focused heavily on its data-center ASIC business, as CEO Rick Tsai and CFO David Ku addressed market rumors about delays to its second AI accelerator ASIC project, EMIB packaging yields, and the identity of its second customer. The company said its major customer's se",
      "source": "DIGITIMES",
-     "zh": "联发科将第二个 ASIC 项目和客户定于 2028 年"
+     "zh": "联发科技将第二个 ASIC 项目和客户定于 2028 年"
     },
     {
      "title": "Samsung partners with PXPay to bolster Samsung Wallet in Taiwan",
@@ -296,14 +312,6 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung Electronics Taiwan is partnering with local mobile payment platform PXPay as part of its expansion of Samsung Wallet applications. The move, announced on October 30 with services beginning on November 1, follows the earlier integration of tap-and-pay EasyCard functions into Samsung Wallet an",
      "source": "DIGITIMES",
      "zh": "三星与 PXPay 合作加强三星电子钱包在台湾的业务"
-    },
-    {
-     "title": "Samsung chairman Lee Jae-yong turns to Japan for AI chip packaging edge",
-     "link": "https://www.digitimes.com/news/a20261102VL212/samsung-chairman-japan-ai-chip-packaging-materials.html",
-     "pubDate": "Mon, 2 Nov 2026 04:09:11 GMT",
-     "summary": "Samsung Electronics chairman Lee Jae-yong visited the company's Advanced Package Lab (APL) in Yokohama, Japan, on November 1, as the chipmaker looks to Japan's semiconductor materials and equipment industry to strengthen its advanced packaging capabilities for AI processors.",
-     "source": "DIGITIMES",
-     "zh": "三星董事长李在镕转向日本寻求人工智能芯片封装优势"
     },
     {
      "title": "Ed Works The Whitehall Angles",
@@ -466,20 +474,12 @@ window.INDUSTRY_DATA = {
      "zh": "芯片行业周回顾"
     },
     {
-     "title": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
-     "link": "https://www.eetimes.com/infineons-oktobertech-edge-ai-sdvs-and-the-road-to-800-vdc/",
-     "pubDate": "Thu, 29 Oct 2026 20:59:28 +0000",
-     "summary": "Explore Infineon’s OktoberTech takeaways on edge AI, SDVs, GaN power, and the shift toward 800 V DC data centers. The post Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "英飞凌的 OktoberTech：边缘 AI、SDV 和 800 VDC 之路"
-    },
-    {
      "title": "Seoul Viosys begins mass production of rare-earth-free white light emitter, with chips as small as 10µm",
      "link": "https://semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
      "pubDate": "Thu, 29 Oct 2026 18:52:30 GMT",
      "summary": "For three decades, white LEDs have depended on rare-earth materials such as yttrium aluminium garnet (YAG) layered onto a blue LED chip (Figure 1). Opto-semiconductor device maker Seoul Viosys Co Ltd (SVC) says that it has now broken that dependence by developing and mass producing a chip that emits",
      "source": "Semiconductor Today",
-     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10微米"
+     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10μm"
     },
     {
      "title": "First Solar inaugurates first phase of South Carolina production facility",
@@ -831,7 +831,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 20:02:03 +0000",
      "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
      "source": "TechCrunch Transport",
-     "zh": "R2 SUV 已经是 Rivian 最畅销的车辆"
+     "zh": "R2 SUV 已经是 Rivian 最畅销的车型"
     },
     {
      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
@@ -849,6 +849,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "End-of-life is just the beginning",
+     "link": "https://www.pv-magazine.com/2026/11/02/end-of-life-is-just-the-beginning/",
+     "pubDate": "Mon, 02 Nov 2026 05:00:00 +0000",
+     "summary": "After decommissioning, a used solar module can take hundreds of different pathways. Different policies, technologies, and capabilities make each recycling process one of a kind. And the optimal route can differ greatly depending on regional issues and other factors. The post End-of-life is just the ",
+     "source": "pv magazine",
+     "zh": "生命的终结只是一个开始"
+    },
     {
      "title": "AGL refers 2GWh BESS in Queensland to Australia’s EPBC Act as ACEnergy submits 250MW Victoria project",
      "link": "https://www.energy-storage.news/agl-refers-2gwh-bess-in-queensland-to-australias-epbc-act-as-acenergy-submits-250mw-victoria-project/",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ahead of PV ModuleTech Europe, Veronica Bermúdez Benito talks with PV Tech Premium about capex, common PV procurement mistakes and the importance of opex for LCOE.",
      "source": "PV Tech",
      "zh": "为什么“低价购买”会降低光伏开发商的投资回报率"
-    },
-    {
-     "title": "The Hydrogen Stream: Finnish researchers increase voltage in alkaline systems to cut costs by 10-15%",
-     "link": "https://www.pv-magazine.com/2026/10/30/the-hydrogen-stream-finnish-researchers-increase-voltage-in-alkaline-systems-to-cut-costs-by-10-15/",
-     "pubDate": "Fri, 30 Oct 2026 13:30:00 +0000",
-     "summary": "Recent developments across the global green hydrogen sector highlight growing efforts to improve production efficiency, reduce costs, strengthen international supply chains and accelerate investment in renewable hydrogen infrastructure, with new advances and agreements emerging across Europe, and As",
-     "source": "pv magazine",
-     "zh": "氢流：芬兰研究人员提高碱性系统的电压，将成本降低 10-15%"
     }
    ]
   },
@@ -1647,7 +1647,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "叙利亚黑客潜逃十多年后在美国入狱"
+     "zh": "叙利亚黑客逃亡十多年后在美国入狱"
     },
     {
      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -1746,6 +1746,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "微软AI负责人警告：别让AI拥有自己的意识",
+     "link": "https://www.huxiu.com/article/4902251.html?f=rss",
+     "pubDate": "Mon, 02 Nov 2026 13:08:36 +0800",
+     "summary": "头图来自：AI生成 &ldquo;如果有证据表明AI已经具有意识，或者其意识程度足以让它值得获得福利，那么这些证据必须立即向公众披露。&rdquo;11月1日，微软AI负责人Mustafa Suleyman在X发布长文《Don't build conscious superintelligence》 （不要创造有意识的超级智能） ，再次把AI意识问题推到台前。与此前引发争议的表态相比，这次他把自己的立场说得更明确：他并不认为AI永远不可能有意识，但目前的AI没有意识；而人类必须确保它们继续保持这种状态。 Suleyman提出，如果AI在训练过程中开始显现意识，就应该暂停AI开发，直到研究者能够",
+     "source": "虎嗅",
+     "zh": "微软AI负责人警告：别让AI拥有自己的意识"
+    },
+    {
+     "title": "AI治不了CEO的大病",
+     "link": "https://www.tmtpost.com/8189832.html",
+     "pubDate": "Mon, 02 Nov 2026 13:00:28 +0800",
+     "summary": "资本已经开始重新算账，打工人早就看懂了这套剧本。剩下的悬念，留给那些还沉浸幻想的 CEO：当影子人力越来越多、团队人人自保、业务隐性风险持续堆积的时候，靠裁员和 AI 故事撑起来的漂亮财报，要拿什么去接住反噬。",
+     "source": "钛媒体",
+     "zh": "AI治不了CEO的大病"
+    },
+    {
+     "title": "复宏汉霖HLX43，借来的技术也能成器",
+     "link": "https://www.tmtpost.com/8189726.html",
+     "pubDate": "Mon, 02 Nov 2026 13:00:23 +0800",
+     "summary": "借来的火，点的是自己的灯，灯下走的路，算自己的。",
+     "source": "钛媒体",
+     "zh": "复宏汉霖HLX43，借来的技术也能成器"
+    },
+    {
+     "title": "游戏行业新版本前瞻：二游退潮以后，下一场社交抢人大战将会很疯狂？",
+     "link": "https://www.tmtpost.com/8189732.html",
+     "pubDate": "Mon, 02 Nov 2026 13:00:18 +0800",
+     "summary": "“我观测了游戏行业14000605种未来”。",
+     "source": "钛媒体",
+     "zh": "游戏行业新版本前瞻：二游退潮以后，下一场社交抢人大战将会很疯狂？"
+    },
+    {
+     "title": "消息称国内多家汽车企业“进京”，与相关部门协商“混动汽车出口欧盟配额”",
+     "link": "https://www.ithome.com/1/020/939.htm",
+     "pubDate": "Mon, 02 Nov 2026 04:59:33 GMT",
+     "summary": "IT之家 11 月 2 日消息，据财联社从多位知情人士处获悉，针对近期中欧双方就混动汽车贸易达成的谅解方案，多家国内汽车企业近期前往北京与相关部门进行协商。 “（配额方案）总量有限，每家可以分配到的出口额度并不会很多，目前各家（车企）都在努力争取中。”一位知情人士称。 据IT之家此前报道，10 月 8 日至 9 日，中欧贸易投资磋商机制第二次例会在北京举行，经密集磋商， 中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解 。 商务部新闻发言人 10 月 12 日表示，关于混动汽车， 双方在 2025 年（30.2 万辆）基础上达成向上安排 ，确保中国企业的出口空间和稳定增长，照顾了双方产业",
+     "source": "IT之家",
+     "zh": "消息称国内多家汽车企业“进京”，与相关部门协商“混动汽车出口欧盟配额”"
+    },
+    {
+     "title": "Kimi 半年三次道歉：模型越强，生意却越难做？",
+     "link": "https://www.tmtpost.com/8189784.html",
+     "pubDate": "Mon, 02 Nov 2026 12:56:23 +0800",
+     "summary": "Kimi这次为何栽在“烧额度”上？",
+     "source": "钛媒体",
+     "zh": "Kimi 半年三次道歉：模型越强，生意却越难做？"
+    },
+    {
+     "title": "43 分 41 秒，首届 CMG 世界机器人登泰山大赛足式竞速冠军产生",
+     "link": "https://www.ithome.com/1/020/938.htm",
+     "pubDate": "Mon, 02 Nov 2026 04:54:32 GMT",
+     "summary": "IT之家 11 月 2 日消息，据央视新闻报道，世界机器人登泰山大赛于今日（11 月 2 日）在山东泰安举行。大赛以“登高望远智竞泰山”为主题，赛道全程约 3.9 公里，共 3100 余级台阶。千年登山盘道化身赛场，近 90 支赛队同台竞技，向泰山中天门发起挑战。 经过激烈角逐， 北京灵翌科技队获得足式机器人竞速赛冠军，总时间 43 分 41 秒 。 据IT之家此前报道，大赛包含人形机器人竞速、足式机器人竞速、足式机器人负重、外骨骼机器人助力等 4 个正式赛项，以及 1 个全域机动探路挑战赛。 人形机器人竞速赛、足式机器人负重赛、外骨骼机器人助力赛、全域机动探路挑战赛获奖名单将后续公布。",
+     "source": "IT之家",
+     "zh": "43 分 41 秒，首届 CMG 世界机器人登泰山大赛足式竞速冠军产生"
+    },
+    {
      "title": "大唐带来 3.5\" 单板计算机 WCL-35，基于英特尔酷睿 3 处理器 304",
      "link": "https://www.ithome.com/1/020/937.htm",
      "pubDate": "Mon, 02 Nov 2026 04:42:48 GMT",
@@ -1842,22 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "理发店这个生意感觉比饭店还惨"
     },
     {
-     "title": "郑州与横店之间：AI沉浮，短剧工厂的残酷算术",
-     "link": "https://www.huxiu.com/article/4902239.html?f=rss",
-     "pubDate": "Mon, 02 Nov 2026 12:16:48 +0800",
-     "summary": "本文来自微信公众号： 嗅态 ，作者：嗅态 10月中旬，浙江横店秋正盛，满城桂花香。从万盛南街走到头，就是影视城的检票口。清明上河图景区的电子屏滚动着演出单，游人稀稀拉拉，有人说，晚上更热闹一些。秦王宫大殿里，扮作“公公”的演员招揽游人，游客花钱坐一回龙椅，再与他合影。 走出景区，我去了横店一处对外售票的拍摄基地。到了门口，门卫正啃着面包，见我拿着门票，一脸诧异：“真的有人买票啊？”他告诉我，里面已经没有剧组拍戏了，没什么可看的。 在一片林立的商品房小区对面，我找到了德玉影视。接待我的工作人员说：“我们最近刚搬家，这栋楼刚启用没多久。”楼梯上响起脚步声，公司负责人屠洪飞推门上楼，坐下后顺口说，这",
-     "source": "虎嗅",
-     "zh": "郑州与横店之间：AI沉浮，短剧工厂的残酷算术"
-    },
-    {
-     "title": "理想新一代 MEGA 前舱 29 英寸 6K 全景屏出现短期供应断货问题，汤靖称要到年底左右才能恢复",
-     "link": "https://www.ithome.com/1/020/932.htm",
-     "pubDate": "Mon, 02 Nov 2026 04:16:44 GMT",
-     "summary": "IT之家 11 月 2 日消息，理想汽车产品线负责人汤靖今日发文，向新一代 MEGA 待交付用户汇报了最新量产情况。他表示，临时接到合作伙伴通知， 新一代 MEGA 前舱的 29 英寸 6K 全景屏出现了短期的供应断货问题 ，要到年底左右才能恢复 。 按照理想汽车的生产和交付计划，此次将影响 11 月 10 日到 12 月 17 日生产下线的车辆， 涉及 9 月 11 日 17 点 06 分到 10 月 26 日 9 点 52 分锁单的所有用户 。汤靖称，这块 29 英寸的车规级 OLED 全景屏， 除了三星之外，没有其他供应商能够提供相同规格的屏幕 。 IT之家附汤靖给出的解决方案如下： 一",
-     "source": "IT之家",
-     "zh": "理想新一代 MEGA 前舱 29 英寸 6K 全景屏出现短期供应断货问题，汤靖称要到年底左右才能恢复"
-    },
-    {
      "title": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country&apos;s 2027 budget, nearly twice the 2026 amount (Reuters)",
      "link": "https://www.techmeme.com/261101/p26#a261101p26",
      "pubDate": "Sun, 01 Nov 2026 23:05:02 -0500",
@@ -1882,44 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "以九号为样本：两轮电动车行业到了去故事化阶段"
     },
     {
-     "title": "Cold Box Office Meets Synthetic Cinema in China",
-     "link": "https://www.tmtpost.com/8189782.html",
-     "pubDate": "Mon, 02 Nov 2026 11:28:04 +0800",
-     "summary": "China’s theaters are already struggling to fill seats. The first widely released AI-made feature proved regulators and distributors will clear such films—and that ticket buyers will largely stay home.",
-     "source": "钛媒体",
-     "zh": "冷票房与中国合成影院相遇"
-    },
-    {
-     "title": "星巴克，选了高档酒店的生意逻辑",
-     "link": "https://www.tmtpost.com/8189709.html",
-     "pubDate": "Mon, 02 Nov 2026 11:22:00 +0800",
-     "summary": "一个成熟的行业品类里，每个人都可以按自己的场景和需求自选。",
-     "source": "钛媒体",
-     "zh": "星巴克，选了高档酒店的生意逻辑"
-    },
-    {
-     "title": "抄底两家破产工厂，恒力夫妇跑出3020亿财富版图",
-     "link": "https://www.tmtpost.com/8189713.html",
-     "pubDate": "Mon, 02 Nov 2026 11:18:36 +0800",
-     "summary": "今年“最大黑马”。",
-     "source": "钛媒体",
-     "zh": "抄底两家破产工厂，恒力夫妇跑出3020亿财富版图"
-    },
-    {
      "title": "Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius (Will Maddox/Axios)",
      "link": "https://www.techmeme.com/261101/p24#a261101p24",
      "pubDate": "Sun, 01 Nov 2026 22:01:17 -0500",
      "summary": "Will Maddox / Axios : Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius &nbsp; &mdash;&nbsp; Midstream Health, an AI financial system for hospitals, raised a $20 million Series A round to expand",
      "source": "Techmeme",
      "zh": "Midstream Health 的人工智能工具帮助 250 家医院从回扣以及供应商和付款人少付款中收回收入，并筹集了由 Valtrius（Will Maddox/Axios）领投的 2000 万美元 A 轮融资"
-    },
-    {
-     "title": "超智融合如何决定下一个十年科技发展丨ToB产业观察",
-     "link": "https://www.tmtpost.com/8189540.html",
-     "pubDate": "Mon, 02 Nov 2026 10:53:54 +0800",
-     "summary": "让HPC与AI在同一个平台里协同工作，让智能体成为科研的默认操作系统。",
-     "source": "钛媒体",
-     "zh": "超智融合如何决定下一个十年科技发展丨ToB产业观察"
     },
     {
      "title": "Data analytics provider Hex Technologies, which says it has rebuilt its platform for AI agents, raised a $100M Series D led by Peak XV at a $1.2B valuation (Tim Keary/Forbes)",
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
      "link": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
      "pubDate": "Mon, 02 Nov 2026 01:59:38 +0000",
-     "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50332163 Points: 47 # Comments: 3",
+     "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50332163 Points: 51 # Comments: 3",
      "source": "Hacker News",
      "zh": "F/OSS 漫画 #13：BSD Unix，第 3 部分 – BSD Unix 的开始"
     },
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
      "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
      "pubDate": "Mon, 02 Nov 2026 01:47:07 +0000",
-     "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 49 # Comments: 19",
+     "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture Comments URL: https://news.ycombinator.com/item?id=50332086 Points: 49 # Comments: 22",
      "source": "Hacker News",
      "zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Trigger.dev customer environment variables exposed",
      "link": "https://trigger.dev/blog/security-incident-nov-2026",
      "pubDate": "Mon, 02 Nov 2026 01:09:16 +0000",
-     "summary": "Article URL: https://trigger.dev/blog/security-incident-nov-2026 Comments URL: https://news.ycombinator.com/item?id=50331784 Points: 36 # Comments: 7",
+     "summary": "Article URL: https://trigger.dev/blog/security-incident-nov-2026 Comments URL: https://news.ycombinator.com/item?id=50331784 Points: 38 # Comments: 8",
      "source": "Hacker News",
      "zh": "Trigger.dev 客户环境变量暴露"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "OccupySaaS",
      "link": "https://occupysaas.com/",
      "pubDate": "Mon, 02 Nov 2026 00:17:27 +0000",
-     "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 139 # Comments: 92",
+     "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 144 # Comments: 100",
      "source": "Hacker News",
      "zh": "占领SaaS"
     },
@@ -1973,17 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
      "link": "https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html",
      "pubDate": "Sun, 01 Nov 2026 23:46:59 +0000",
-     "summary": "Article URL: https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html Comments URL: https://news.ycombinator.com/item?id=50331158 Points: 26 # Comments: 8",
+     "summary": "Article URL: https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html Comments URL: https://news.ycombinator.com/item?id=50331158 Points: 30 # Comments: 14",
      "source": "Hacker News",
      "zh": "为中期选举投入 $1.2B 的巨额捐助者"
-    },
-    {
-     "title": "Game Off 2026: The theme is SHIFT",
-     "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-     "pubDate": "Sun, 01 Nov 2026 21:36:00 +0000",
-     "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
-     "source": "GitHub Blog",
-     "zh": "2026 年比赛结束：主题是 SHIFT"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "These are the best MacBook deals right now: November 2026 Buyer’s Guide",
+     "link": "https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/",
+     "pubDate": "Mon, 02 Nov 2026 05:01:57 +0000",
+     "summary": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market. While Apple did drastically increase its prices ear",
+     "source": "9to5Mac",
+     "zh": "以下是目前最优惠的 MacBook：2026 年 11 月买家指南"
+    },
     {
      "title": "Spotify could make Premium subscribers pay $5 more a month for its next big bet",
      "link": "https://www.androidauthority.com/spotify-ai-remix-service-premium-add-on-3730441/",
@@ -2071,7 +2079,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 00:30:00 +0000",
      "summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
      "source": "Engadget",
-     "zh": "Android Auto 的下一次更新可能会破坏你的工作与生活平衡"
+     "zh": "Android Auto 的下一次更新可能会扰乱你的工作与生活平衡"
     },
     {
      "title": "10 iPad widgets you probably didn't realize existed",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "With the arrival of iOS 27, Apple was hoping to make up a lot of ground in the AI space, but the new and improved Apple Intelligence comes with a huge caveat. Users who have already updated their iPhones to iOS 27 report that Apple Intelligence took around 15GB of internal storage. The exact amount ",
      "source": "GSMArena",
      "zh": "iOS 27 更新后如何回收 15GB 存储空间"
-    },
-    {
-     "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-     "link": "https://sspai.com/post/116991",
-     "pubDate": "Sun, 01 Nov 2026 15:02:46 +0800",
-     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-     "source": "少数派",
-     "zh": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」"
     }
    ]
   },
@@ -2242,52 +2242,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "数据局座谈会要求摸清“用数需求” 物理AI爆发前数采环节或先行",
-     "link": "http://finance.eastmoney.com/news/1355,202611023918491195.html",
-     "pubDate": "Mon, 02 Nov 2026 12:41:03 +0800",
-     "summary": "10月28日上午，国家数据局组织召开行业高质量数据集建设链主工作座谈会，会议强调，行业高质量数据集建设要坚持“以需定供、以用促建、以评提质”原则，其中， 摸清 人工智能 用数需求被作为重点工作提及 。 会议称，链主单位要立足自身需求，主动拓展产业链上下游等外部需求，坚持需求导向，精准推进数据集建设。 此前10月20日，国家数据集团有限公司正式挂牌成立。 数据采集是为VLA等具身大模型提供训练“原料”，是构建数据飞轮、支撑商业闭环的基础 。与文本大模型可以从互联网抓取语料不同，物理AI无法依靠网络爬取完成数据积累，需要建立任务指令、环境观测、 机器人 状态、控制动作与执行结果之间的时序关联，数据",
+     "title": "特朗普威胁“某个时点”对伊朗“施以重锤”",
+     "link": "http://finance.eastmoney.com/news/11158,202611023918499415.html",
+     "pubDate": "Mon, 02 Nov 2026 13:01:10 +0800",
+     "summary": "美国总统特朗普11月1日在艾奥瓦州一场竞选集会上再次威胁对伊朗恢复军事打击，称在“某个时点”将不得不对伊“施以重锤”。 美国中期选举将于11月3日举行。特朗普当天在集会上对其支持者说：“我没有了结伊朗的唯一原因是我想要做个好人……但到了某个时点，我们将不得不对他们‘施以重锤’。” 此番言论延续了特朗普近期对伊朗的一贯施压姿态。特朗普10月31日表示，美国已摧毁伊朗大部分军事力量，但仍需“处理”一两个目标，其中包括镐山的地下核设施。 另据保守派媒体福克斯新闻频道前主持人、知名网红塔克·卡尔森11月1日晚在社交媒体的帖文，在以色列总理内塔尼亚胡的压力下，特朗普政府或在几天内对伊朗发动打击，目标将是",
      "source": "东方财富股票",
-     "zh": "数据局座谈会要求摸清“用数需求” 物理AI爆发前数采环节或先行"
+     "zh": "特朗普威胁“某个时点”对伊朗“施以重锤”"
     },
     {
-     "title": "麒麟信安：智能云业务尚未对经营业绩产生重大影响",
-     "link": "http://finance.eastmoney.com/news/1354,202611023918491076.html",
-     "pubDate": "Mon, 02 Nov 2026 12:35:00 +0800",
-     "summary": "麒麟信安 (688152)在2026年第三季度业绩说明会上表示，目前公司智能云业务尚处于场景验证、市场培育及推广初期，尚未对经营业绩产生重大影响。后续，公司将持续聚焦 信创 云、智能云核心赛道，深化重点行业场景化适配与标杆项目落地，不断打磨产品性能、优化整体解决方案竞争力，稳步推动 云计算 业务与智能算力业务协同发展。 （文章来源：人民财讯）",
+     "title": "吉视传媒11月2日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611023918497523.html",
+     "pubDate": "Mon, 02 Nov 2026 13:01:01 +0800",
+     "summary": "以下是吉视传媒在北京时间11月2日13:00分盘口异动快照： 11月2日，吉视传媒盘中快速上涨，5分钟内涨幅超过2%，截至13点00分，报2.23元，成交2.29亿元，换手率3.11%。 分笔 13:00:17 2.23 12857↑ 13:00:14 2.21 7152↑ 13:00:11 2.20 525↓ 13:00:08 2.20 7575↑ 13:00:05 2.20 8157↑ 13:00:02 2.19 21821↑ 11:29:59 2.19 180↑ 11:29:56 2.19 29↑ 11:29:53 2.19 1047↑ 11:29:50 2.19 39↑ 报价 卖五 2",
      "source": "东方财富股票",
-     "zh": "麒麟信安：智能云业务尚未对经营业绩产生重大影响"
+     "zh": "吉视传媒11月2日快速上涨"
     },
     {
-     "title": "蓝箭科技等成立智造科技公司 含无人飞行器销售业务",
-     "link": "http://finance.eastmoney.com/news/1354,202611023918490792.html",
-     "pubDate": "Mon, 02 Nov 2026 12:33:43 +0800",
-     "summary": "企查查APP显示，近日，蓝箭智造科技（衢州）有限公司成立，经营范围包含智能无人飞行器销售；建设工程设计；建筑劳务分包；建设工程施工等。企查查股权穿透显示，该公司由蓝箭科技（衢州）有限公司等共同持股。 （文章来源：证券时报网）",
+     "title": "江南化工11月2日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611023918497020.html",
+     "pubDate": "Mon, 02 Nov 2026 13:00:53 +0800",
+     "summary": "以下是江南化工在北京时间11月2日13:00分盘口异动快照： 11月2日，江南化工盘中快速上涨，5分钟内涨幅超过2%，截至13点00分，报5.12元，成交7641.81万元，换手率0.58%。 分笔 13:00:15 5.12 2397↑ 13:00:12 5.08 7621↓ 13:00:09 5.08 226↑ 13:00:06 5.05 3041↑ 13:00:03 5.02 10277↑ 13:00:00 5.02 398↑ 11:29:54 5.01 37↓ 11:29:48 5.02 30↑ 11:29:39 5.02 10↑ 11:29:33 5.02 4↑ 报价 卖五 5.18",
      "source": "东方财富股票",
-     "zh": "蓝箭科技等成立智造科技公司 含无人飞行器销售业务"
+     "zh": "江南化工11月2日快速上涨"
     },
     {
-     "title": "券商自营业务冷暖不一：招商证券拿下三季度榜首 部分机构凭一级市场突围",
-     "link": "http://finance.eastmoney.com/news/1354,202611023918490873.html",
-     "pubDate": "Mon, 02 Nov 2026 12:33:14 +0800",
-     "summary": "自营业务成为左右券商三季度业绩的核心变量，行业呈现出鲜明的分化格局。 一批提前布局硬科技赛道的机构凭借科创板IPO项目集中兑现收益，实现自营收入逆势高增，短期行业座次出现异动。 但受权益市场回调冲击，自营收入同比下滑，超七成券商单季净利润下行。震荡行情之下，投资结构与业务布局的差异，正在持续放大证券行业的内部分化。 按照“投资收益+公允价值变动收益-对联营企业和合营企业的投资收益”的行业通用口径统计，三季度上市券商自营业务的分化程度远超以往。33家上市券商单季自营收入同比下滑，占比超八成；其中 东吴证券 （601555.SH）等9家机构单季自营收入为负， 国信证券 以-12.47亿元的自营收入",
+     "title": "中岩大地11月2日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611023918496965.html",
+     "pubDate": "Mon, 02 Nov 2026 13:00:53 +0800",
+     "summary": "以下是中岩大地在北京时间11月2日13:00分盘口异动快照： 11月2日，中岩大地盘中涨幅达5%，截至13点00分，报14.46元，成交5323.41万元，换手率3.36%。 分笔 13:00:12 14.46 603↑ 13:00:09 14.33 215↑ 13:00:06 14.30 591↓ 13:00:03 14.30 161↑ 13:00:00 14.30 106↓ 11:30:00 14.32 1↑ 11:29:57 14.33 25↑ 11:29:54 14.30 20↓ 11:29:48 14.34 3↑ 11:29:45 14.33 28↓ 报价 卖五 14.51 15 卖",
      "source": "东方财富股票",
-     "zh": "券商自营业务冷暖不一：招商证券拿下三季度榜首 部分机构凭一级市场突围"
+     "zh": "中岩大地11月2日盘中涨幅达5%"
     },
     {
-     "title": "佳电股份：公司没有机器人产品 正开展机器手代替人工数字化改造",
-     "link": "http://finance.eastmoney.com/news/1354,202611023918490628.html",
-     "pubDate": "Mon, 02 Nov 2026 12:32:37 +0800",
-     "summary": "佳电股份 在互动平台表示，公司目前没有 机器人 产品。公司正在开展机器手代替人工数字化改造，现定子铁心叠装、定子铁心焊接、转子喷漆已实现机器手应用，该改造主要用于公司自身生产制造环节。 （文章来源：财联社）",
+     "title": "苏大维格11月2日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611023918496824.html",
+     "pubDate": "Mon, 02 Nov 2026 13:00:53 +0800",
+     "summary": "以下是苏大维格在北京时间11月2日13:00分盘口异动快照： 11月2日，苏大维格盘中涨幅达5%，截至13点00分，报30.61元，成交1.58亿元，换手率2.42%。 分笔 13:00:12 30.61 230↑ 13:00:09 30.54 195↑ 13:00:06 30.48 74↑ 13:00:03 30.39 182↑ 13:00:00 30.35 404↑ 11:29:57 30.11 334↓ 11:29:51 30.16 2↑ 11:29:45 30.16 60↑ 11:29:42 30.16 6↑ 11:29:39 30.09 16↓ 报价 卖五 30.69 188 卖四 ",
      "source": "东方财富股票",
-     "zh": "佳电股份：公司没有机器人产品 正开展机器手代替人工数字化改造"
+     "zh": "苏大维格11月2日盘中涨幅达5%"
     },
     {
-     "title": "到2030年全国年均森林火灾受害率将控制在0.7‰以内",
-     "link": "http://finance.eastmoney.com/news/1350,202611023918489851.html",
-     "pubDate": "Mon, 02 Nov 2026 12:32:10 +0800",
-     "summary": "近日，国家林草局、应急管理部联合印发《全国森林草原火灾防治方案（2026—2030年）》，对“十五五”时期全国森林草原防灭火工作作出系统部署。通过布局重点防火工程、创新“防火+产业”融合治理模式等措施，到2030年，全国年均森林火灾受害率控制在0.7&permil;以内，草原火灾受害率控制在1.8&permil;以内。（央视新闻） （文章来源：界面新闻）",
+     "title": "11月2日玻纤制造板块涨幅达4%",
+     "link": "http://stock.eastmoney.com/news/1944,202611023918496181.html",
+     "pubDate": "Mon, 02 Nov 2026 13:00:53 +0800",
+     "summary": "&emsp;&emsp;11月2日13点0分， 玻纤制造 板块指数报12017.67点，涨幅达4%，成交63.95亿元，换手率2.82%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 国际复材 报20.12元，涨8.17%； 九鼎新材 报7.99元，涨4.86%； 振石股份 报14.57元，涨4.52%； 中材科技 报34.25元，涨3.44%； 长海股份 报14.60元，涨3.03%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "到2030年全国年均森林火灾受害率将控制在0.7‰以内"
+     "zh": "11月2日玻纤制造板块涨幅达4%"
+    },
+    {
+     "title": "Monday’s Economic Calendar",
+     "link": "https://seekingalpha.com/news/4661899-mondays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 00:00:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "周一经济日历"
+    },
+    {
+     "title": "金融法草案二审稿充实金融消费者、投资者保护相关内容",
+     "link": "http://finance.eastmoney.com/news/1345,202611023918491429.html",
+     "pubDate": "Mon, 02 Nov 2026 12:44:06 +0800",
+     "summary": "《中华人民共和国金融法（草案）》11月2日提请十四届全国人大常委会第二十五次会议二次审议。草案二审稿充实金融消费者、投资者保护内容，并对互联网营销等活动增加针对性规定。 金融法是我国金融领域管总的基础性、 综合 性、统领性法律，定位于金融法律体系中的“1”，发挥指导、统领、规范作用。今年6月，十四届全国人大常委会第二十三次会议对金融法草案进行了初次审议。 在金融消费者、投资者保护方面，草案二审稿增加规定，提供金融产品和服务，应当设定公平合理的交易条件，不得通过格式条款作出排除或者限制金融消费者、投资者权利，减轻或者免除自身责任，加重金融消费者、投资者责任等不公平、不合理的规定；金融产品和服务的",
+     "source": "东方财富资讯",
+     "zh": "金融法草案二审稿充实金融消费者、投资者保护相关内容"
     },
     {
      "title": "数据中心监管压力加剧！美国多州州长候选人支持暂停建设",
@@ -2434,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "红杉合伙人：人们不理解SpaceX"
     },
     {
-     "title": "重磅会议接连召开 稳市工具或再加码 “牛市旗手”要回来了？(附股)",
-     "link": "http://finance.eastmoney.com/news/11822,202611023918341363.html",
-     "pubDate": "Mon, 02 Nov 2026 11:10:12 +0800",
-     "summary": "11月首个交易日，券商板块高开高走， 国金证券 、 太平洋 强势封板 ， 东方财富 涨超6%， 广发证券 、 国盛证券 、 华安证券 、 中银证券 等多股跟涨。 消息面上，央行、证监会召集券商基金开会，研究推动支持资本市场工具使用；三部门还召集各大 银行 ，研究优化回购增持再贷款政策。此外，三季报显示，上市券商前三季度合计 净利润同比增长超两成 ，券商股业绩韧性凸显。 两大“稳市”会议同日召开 据媒体报道，今日上午，中国人民 银行 、中国证监会将召开会议，召集部分证券公司、基金公司研究推动支持资本市场工具使用。 同日，中国人民 银行 、金融监管总局、中国证监会还将召集各大银行开会，研究优化股票",
-     "source": "东方财富资讯",
-     "zh": "重磅会议接连召开 稳市工具或再加码 “牛市旗手”要回来了？(附股)"
-    },
-    {
      "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
      "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
      "pubDate": "Mon, 02 Nov 2026 02:58:53 GMT",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Republican Party is defending its control of Congress against signs of backlash against president",
      "source": "Financial Times",
      "zh": "特朗普在中期竞选中向不安的选民做出最后的宣传"
-    },
-    {
-     "title": "This is the biggest threat to the AI-powered bull market",
-     "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 00:22:00 GMT",
-     "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-     "source": "MarketWatch",
-     "zh": "这是人工智能驱动的牛市的最大威胁"
     }
    ]
   },
@@ -2489,6 +2489,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "MIT engineers design a safer, more efficient vaccination system for farmed fish",
+     "link": "https://news.mit.edu/2026/mit-engineers-design-safer-more-efficient-vaccination-system-farmed-fish-1102",
+     "pubDate": "Mon, 02 Nov 2026 00:00:00 -0500",
+     "summary": "Water-resistant microneedles made from food-grade silk could deliver vaccines to help prevent the spread of disease in aquaculture.",
+     "source": "MIT News",
+     "zh": "麻省理工学院的工程师为养殖鱼类设计了一种更安全、更高效的疫苗接种系统"
+    },
     {
      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
      "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
@@ -2720,14 +2728,6 @@ window.INDUSTRY_DATA = {
      "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
      "source": "Ars Technica Science",
      "zh": "ULA 的火神火箭将于 13 日星期五返回飞行"
-    },
-    {
-     "title": "Capturing the complete process of embryonic development",
-     "link": "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028",
-     "pubDate": "Wed, 28 Oct 2026 16:30:00 -0400",
-     "summary": "By tracking over 1 million cells, researchers created a detailed map of embryonic development in mice. It could provide development and disease insights.",
-     "source": "MIT News",
-     "zh": "捕捉胚胎发育的完整过程"
     }
    ]
   }

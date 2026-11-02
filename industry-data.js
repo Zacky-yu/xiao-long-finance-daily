@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/2 20:09:51",
+ "generated_at": "2026/11/2 20:29:45",
  "recent_days": 7,
  "industries": [
   {
@@ -183,7 +183,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 01 Nov 2026 07:47:17 +0000",
      "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag",
      "source": "MarkTechPost",
-     "zh": "DeepSeek 开源 dsh-superagent，路由器工作编码代理"
+     "zh": "DeepSeek 开源 dsh-superagent，一个 Router-Worker 编码代理"
     },
     {
      "title": "24项真机硬碰硬！不靠大规模机器人预训练，Fysiverse-UniWAM拿下导航、移动操作双第一",
@@ -215,7 +215,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
      "source": "TechCrunch AI",
-     "zh": "苹果首席执行官表示，公司不想“为了人工智能而推出人工智能”"
+     "zh": "苹果首席执行官表示公司不想“为了人工智能而推出人工智能”"
     },
     {
      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
@@ -264,6 +264,14 @@ window.INDUSTRY_DATA = {
      "summary": "Andes CTO Charlie Su said the company put its high-end RISC-V CPU on the back burner for commercial reasons. The post Andes Waits For Market Momentum For Cuzco CPU appeared first on EE Times .",
      "source": "EE Times",
      "zh": "晶心等待 Cuzco CPU 的市场动力"
+    },
+    {
+     "title": "FormalOS adds structure to RTL verification and sign-off",
+     "link": "https://www.electronicsweekly.com/news/business/formalos-organises-formal-rtl-verification-and-sign-off-2026-11/",
+     "pubDate": "Mon, 02 Nov 2026 11:51:34 +0000",
+     "summary": "Lubis EDA has released FormalOs, a verification infrastructure platform which is designed to be a tool-agnostic orchestration layer for verification for SoC, asic and IP sign-off projects. According to the […] The post FormalOS adds structure to RTL verification and sign-off appeared first on Electr",
+     "source": "Electronics Weekly",
+     "zh": "FormalOS adds structure to RTL verification and sign-off"
     },
     {
      "title": "STMicroelectronics introduces integrated angular rate sensors for ADAS",
@@ -343,7 +351,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 2 Nov 2026 08:31:17 GMT",
      "summary": "The US Department of Commerce is leveraging federal funding and policy initiatives to bolster America's global competitiveness in quantum technology. Its core strategy centers on consolidating fragmented industry demand by backing shared manufacturing platforms through public subsidies and governmen",
      "source": "DIGITIMES",
-     "zh": "英特尔瞄准 18A 工艺 QPU，美国支持 Anderon 和 GF 量子代工厂"
+     "zh": "美国支持Anderon、GF量子代工厂，英特尔瞄准18A工艺QPU"
     },
     {
      "title": "Jinpao taps robotics contest to deepen Thailand ties, develop AI talent",
@@ -392,14 +400,6 @@ window.INDUSTRY_DATA = {
      "summary": "Japan’s Defence Ministry will begin research next fiscal year on mass-producing drones for the detection and attack of foreign submarines. Japanese companies will be selected for the development programme in […] The post Japan to build underwater drones appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "日本将建造水下无人机"
-    },
-    {
-     "title": "Group 14 expands into Spain",
-     "link": "https://www.electronicsweekly.com/news/business/group-14-expands-into-spain-2026-11/",
-     "pubDate": "Mon, 02 Nov 2026 06:08:42 +0000",
-     "summary": "Group14 Technologies, the manufacturer and supplier of advanced silicon battery materials, has closed a €150 million (~$169 million USD) Series D equity extension. As part of the funding, Group14 has […] The post Group 14 expands into Spain appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Group 14 进军西班牙"
     },
     {
      "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio",
@@ -642,6 +642,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Hyundai Says Hydrogen Cars Aren’t Dead. Finding Customers Is Another Story",
+     "link": "https://insideevs.com/news/814057/hyundai-hydrogen-cars-not-dead-hard-customers/",
+     "pubDate": "Mon, 02 Nov 2026 12:21:49 +0000",
+     "summary": "Hydrogen fuel cell cars were touted as the next best thing, but they never took off. One Hyundai exec has an explanation.",
+     "source": "InsideEVs",
+     "zh": "现代汽车表示氢燃料汽车尚未消亡。寻找客户是另一回事"
+    },
+    {
      "title": "The Rivian R1T Is An Awkward Fit For Britain. This Reviewer Loved It Anyway",
      "link": "https://insideevs.com/reviews/814044/rivian-r1t-uk-europe-review/",
      "pubDate": "Mon, 02 Nov 2026 11:20:23 +0000",
@@ -794,14 +802,6 @@ window.INDUSTRY_DATA = {
      "zh": "大众电动汽车工厂正在拆解汽车。里面有钱"
     },
     {
-     "title": "Rivian's Charging Network Grew 39% In A Year",
-     "link": "https://insideevs.com/news/813896/rivian-adventure-networks-dc-fast-chargers-growth-q3-2026/",
-     "pubDate": "Sat, 31 Oct 2026 14:00:00 +0000",
-     "summary": "The startup is actively investing in its own EV fast charging network, even though its models can use Tesla Superchargers.",
-     "source": "InsideEVs",
-     "zh": "Rivian 的充电网络一年内增长了 39%"
-    },
-    {
      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
      "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
      "pubDate": "Fri, 30 Oct 2026 07:01:00 +0000",
@@ -831,7 +831,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 20:02:03 +0000",
      "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
      "source": "TechCrunch Transport",
-     "zh": "R2 SUV 已经是 Rivian 最畅销的车辆"
+     "zh": "R2 SUV 已经是 Rivian 最畅销的车型"
     }
    ]
   },
@@ -841,6 +841,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Jinko module shipments drop 25% YoY in Q3 2026",
+     "link": "https://www.pv-tech.org/jinko-module-shipments-drop-25-yoy-in-q3-2026/",
+     "pubDate": "Mon, 02 Nov 2026 12:25:08 +0000",
+     "summary": "Chinese leading solar PV manufacturer Jinko has shipped 15GW of solar modules in the third quarter of 2026.",
+     "source": "PV Tech",
+     "zh": "2026年第三季度晶科组件出货量同比下降25%"
+    },
     {
      "title": "Engie commissions 450MW of solar projects in Rajasthan and Gujarat",
      "link": "https://www.pv-tech.org/engie-commissions-450mw-of-solar-projects-in-rajasthan-and-gujarat/",
@@ -911,7 +919,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 04:00:00 -0600",
      "summary": "Iraq has boosted its crude oil exports via the Turkish Mediterranean port Ceyhan to 500,000 barrels per day (bpd), as OPEC’s second-largest producer has started trucking Basrah crude to the pipeline system to the north. Iraq has hiked exports from Turkey to 500,000 bpd for the first time since pipel",
      "source": "OilPrice",
-     "zh": "伊拉克通过土耳其的石油出口量激增至 50 万桶/日"
+     "zh": "伊拉克通过土耳其的石油出口量激增至每日 50 万桶"
     },
     {
      "title": "Pakistan seeks consultant for distributed solar project",
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Record Month — BEVs Reach 31% Market Share! BEVs remain in high demand in Europe, with pure electrics reaching a record 31% share last month thanks to a record 422,000 fully electric passenger cars being registered in Europe, which is not only a 63%(!) increase year over year (YoY), but ... [continu",
      "source": "CleanTechnica",
      "zh": "创纪录的需求让（一些）原始设备制造商惊慌失措——欧洲 2026 年 9 月"
-    },
-    {
-     "title": "Meta strikes deal to help bring a low-carbon cement plant to Missouri",
-     "link": "https://www.canarymedia.com/articles/clean-industry/meta-fortera-deal-cement-plant-missouri",
-     "pubDate": "Fri, 30 Oct 2026 16:00:00 -0400",
-     "summary": "Tech companies say they're seeking low-carbon construction materials to limit the climate impact of their data centers. But very little clean cement or green steel is actually being produced in the U.S. today, and only in a handful of locations. To tackle that dilemma, Meta recently struck a deal wi",
-     "source": "Canary Media",
-     "zh": "Meta 达成协议，帮助在密苏里州建设低碳水泥厂"
     }
    ]
   },
@@ -1738,6 +1738,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "我国第二艘国产大型邮轮“爱达 · 花城号”将于 11 月 6 日在上海完成交付",
+     "link": "https://www.ithome.com/1/021/259.htm",
+     "pubDate": "Mon, 02 Nov 2026 12:25:51 GMT",
+     "summary": "IT之家 11 月 2 日消息，据新华社报道，第二艘国产大型邮轮“爱达 · 花城号”即将于 2026 年 11 月 6 日在上海完成交付，该船将从广州南沙国际邮轮母港开启首航季。 公开信息显示，“爱达 · 花城号”全长 341 米，总吨位 14.19 万吨，拥有 2130 间客房和套房，满载可容纳 5232 名宾客。邮轮在空间设计、餐饮娱乐与智能科技上进行了全面升级，提供 28 家餐厅酒吧、8 大主题酒吧、4 场原创歌舞大秀。 该船将于 2027 年全面展开香港母港航季，预计营运近 20 个邮轮航次。航线设计灵活多元，增设 3 个海上游航次，为本地旅客提供“邮轮即是目的地”的海上体验。 爱达邮",
+     "source": "IT之家",
+     "zh": "我国第二艘国产大型邮轮“爱达 · 花城号”将于 11 月 6 日在上海完成交付"
+    },
+    {
+     "title": "Sources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&T rebuffed requests for network access (Washington Post)",
+     "link": "https://www.techmeme.com/261102/p15#a261102p15",
+     "pubDate": "Mon, 02 Nov 2026 07:25:00 -0500",
+     "summary": "Washington Post : Sources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&T rebuffed requests for network access &nbsp; &mdash;&nbsp; Elon Musk approached the heads of America's top telecom companies in recent months with a request tha",
+     "source": "Techmeme",
+     "zh": "消息来源：在 Verizon、T-Mobile 和 AT&T 拒绝了网络访问请求后，SpaceX 正在与 EchoStar 就收购 Boost Mobile 或访问其网络进行谈判（华盛顿邮报）"
+    },
+    {
+     "title": "Marvell agrees to acquire optical components maker Lumentum in a $115B deal, as it seeks to rival Broadcom; Nvidia invested $2B in both Marvell and Lumentum (Anhata Rooprai/Reuters)",
+     "link": "https://www.techmeme.com/261102/p14#a261102p14",
+     "pubDate": "Mon, 02 Nov 2026 07:20:01 -0500",
+     "summary": "Anhata Rooprai / Reuters : Marvell agrees to acquire optical components maker Lumentum in a $115B deal, as it seeks to rival Broadcom; Nvidia invested $2B in both Marvell and Lumentum &nbsp; &mdash;&nbsp; Marvell Technology (MRVL.O) is buying optical-components maker Lumentum (LITE.O) in a deal valu",
+     "source": "Techmeme",
+     "zh": "Marvell 同意以 115B 美元的交易收购光学元件制造商 Lumentum，以与 Broadcom 竞争； Nvidia 向 Marvell 和 Lumentum 投资了 20 亿美元（Anhata Rooprai/Reuters）"
+    },
+    {
+     "title": "“苏超”第二年，没有了热搜",
+     "link": "https://www.huxiu.com/article/4902397.html?f=rss",
+     "pubDate": "Mon, 02 Nov 2026 20:19:30 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：张蕊 热搜退潮，但看台爆满 江苏省城市足球联赛2026赛季在10月31日晚结束，无锡队2:1击败常州队夺冠。第二个赛季的“苏超”，不再常登热搜前十，看台上的座位依然难抢。 2026赛季“苏超”共91场比赛，累计303.95万人次走进球场，场均3.34万人。2025赛季这两项分别是243.3万人次和2.86万人。 线上观赛方面，2025赛季，“苏超”官方口径的线上直播观看为22.2亿人次，社交平台相关话题播放量超818亿次。2026赛季决赛结束，赛事组委会10月30日发布的预约购票大数据和赛后通报，公布的都是线下口径：线上直播人次、话题播放量、热搜条目数，",
+     "source": "虎嗅",
+     "zh": "“苏超”第二年，没有了热搜"
+    },
+    {
+     "title": "宁德时代与蓝色向量达成合作，为 SKYLA V30 定制开发航空动力电池",
+     "link": "https://www.ithome.com/1/021/256.htm",
+     "pubDate": "Mon, 02 Nov 2026 12:19:12 GMT",
+     "summary": "IT之家 11 月 2 日消息，今日，宁德时代宣布与蓝色向量同时签署战略合作协议和产品合作协议。宁德时代为蓝色向量 SKYLA V30 飞行器定制开发航空动力电池。蓝色向量选定宁德时代作为独家电池合作伙伴，双方共同推进电动航空技术的创新与应用。 蓝色向量方面称，对于 eVTOL 而言，动力电池系统直接影响整机重量、航程、飞行性能与运行安全。相较于地面交通工具，电动航空对动力系统的安全性、可靠性和轻量化提出了更高要求，相关技术还需经过系统集成、工程验证与适航审定等环节的持续检验。 宁德时代在电池技术研发、系统安全设计、制造工艺与质量管理等方面拥有深厚积累。蓝色向量专注于 eVTOL 的研发、生产",
+     "source": "IT之家",
+     "zh": "宁德时代与蓝色向量达成合作，为 SKYLA V30 定制开发航空动力电池"
+    },
+    {
+     "title": "Marvell 宣布将以全股票交易收购 Lumentum，拓展 AI 光互连版图",
+     "link": "https://www.ithome.com/1/021/255.htm",
+     "pubDate": "Mon, 02 Nov 2026 12:16:10 GMT",
+     "summary": "IT之家 11 月 2 日消息，迈威尔科技（Marvell）与光通信设备制造商 Lumentum 今日宣布达成最终收购协议，迈威尔将通过全股票交易收购 Lumentum。 根据协议，Lumentum 股东每持有 1 股可获得 4.5 股迈威尔普通股。交易完成后，迈威尔现有股东将持有合并后公司约 67% 的股份，Lumentum 股东持股约 33%。交易预计于 2028 年上半年完成，尚需获得双方股东及监管机构批准。 迈威尔预计，此次合并每年可实现超过 10 亿美元 （IT之家注：现汇率约合 66.61 亿元人民币） 的成本协同效应，并将在交易完成后第一年增厚非 GAAP 每股收益。合并后公司的",
+     "source": "IT之家",
+     "zh": "Marvell 宣布将以全股票交易收购 Lumentum，拓展 AI 光互连版图"
+    },
+    {
+     "title": "呛死红毛猩猩的印尼林火，并非一场偶然的天灾",
+     "link": "https://www.huxiu.com/article/4902395.html?f=rss",
+     "pubDate": "Mon, 02 Nov 2026 20:09:43 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：流浪自然，编辑：麦麦 在无人关注的角落里，印度尼西亚的森林大火，已经烧了三个月。 这一次，红毛猩猩“桑普尔那”没能躲过去。 8月30日，有人发现它在一条已经干涸的排水沟里痛苦挣扎。救援人员赶到，它已经四肢瘫软无法活动。尽管穷尽了各种手段去抢救，它还在是在几个小时之后就死了。 抢救桑普尔那｜Reuters 桑普尔那不是被森林大火烧死的，但是它的肺，被森林大火的烟霾一口一口地“吞噬”了。尸检发现，它的肺部有明显充血和局部塌陷，这是烟雾颗粒覆盖肺泡、阻碍肺部气体交换导致急性缺氧的表现；缺氧引发心衰，全身性炎症又进一步造成肾脏损伤。这种急性全身脏器损伤，最终夺去了它",
+     "source": "虎嗅",
+     "zh": "呛死红毛猩猩的印尼林火，并非一场偶然的天灾"
+    },
+    {
      "title": "研究发现：好奇心或驱动人类大脑形成复杂结构",
      "link": "https://www.ithome.com/1/021/254.htm",
      "pubDate": "Mon, 02 Nov 2026 12:09:04 GMT",
@@ -1762,12 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "胶粘剂主业承压下押注半导体，康达新材拟剥离亏损雷达资产"
     },
     {
-     "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-     "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-     "pubDate": "Mon, 02 Nov 2026 12:00:00 +0000",
-     "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-     "source": "WIRED",
-     "zh": "当你应该和不应该使用人工智能来搜索网络时"
+     "title": "美股要“通宵”了，纳斯达克全天23小时交易实施在即，覆盖A股、港股绝大部分交易时段，究竟有何影响？解读来了",
+     "link": "https://www.huxiu.com/article/4902393.html?f=rss",
+     "pubDate": "Mon, 02 Nov 2026 20:00:58 +0800",
+     "summary": "本文来自微信公众号： 每经头条 ，编辑：程鹏吴永久杜恒峰，作者：每经记者，原文标题：《美股要“通宵”了！纳斯达克全天23小时交易实施在即，覆盖A股、港股绝大部分交易时段，究竟有何影响？解读来了》 纳斯达克自1971年成立以来，美股常规交易时段长期保持在美东时间9:30至16:00，盘前、盘后交易虽已开放多年，但核心交易框架四十余年未变。今年12月，这一格局将迎来重大改变——纳斯达克将于12月6日正式上线“23/5”交易制度，每日仅保留1小时休市窗口，其余23小时连续开放交易。 新增的夜间交易时段（美东时间21:00至次日4:00）按冬令时计算对应北京时间10:00至17:00，恰好覆盖A股主要",
+     "source": "虎嗅",
+     "zh": "美股要“通宵”了，纳斯达克全天23小时交易实施在即，覆盖A股、港股绝大部分交易时段，究竟有何影响？解读来了"
     },
     {
      "title": "18 Best Gifts for PC Gamers (2026): Headsets, Desks, Monitors",
@@ -1778,20 +1834,20 @@ window.INDUSTRY_DATA = {
      "zh": "送给 PC 游戏玩家的 18 件最佳礼物（2026 年）：耳机、书桌、显示器"
     },
     {
+     "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+     "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+     "pubDate": "Mon, 02 Nov 2026 12:00:00 +0000",
+     "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+     "source": "WIRED",
+     "zh": "当你应该和不应该使用人工智能来搜索网络时"
+    },
+    {
      "title": "英特尔 FCLGA1954 平台落地先声：W980、Z970 主板现身海关舱单记录",
      "link": "https://www.ithome.com/1/021/252.htm",
      "pubDate": "Mon, 02 Nov 2026 11:58:50 GMT",
      "summary": "IT之家 11 月 2 日消息，根据纽佰德 (NBD) 收集的数据，1 款 W980 主板、2 款 Z970 主板现身该第三方海关舱单数据库，显示主板制造商正为英特尔酷睿 Ultra 4000S \"Nova Lake S\" 处理器和配套的 FCLGA1954 平台进行准备。 上述 5 条记录拥有相同的货物描述格式，进口商、采购地、出口商信息也一致。 记录到的主板型号包括 W980 WS、Z970 LIVEMIXER WIFI、Z970 PRO-A WIFI ，其中 Z970 LIVEMIXER WIFI 很明显来自华擎、Z970 PRO-A WIFI 也有对应的华擎前代款式。 相关阅读： 《 ",
      "source": "IT之家",
      "zh": "英特尔 FCLGA1954 平台落地先声：W980、Z970 主板现身海关舱单记录"
-    },
-    {
-     "title": "首届 CMG 世界机器人登泰山大赛收官，宇树斩获 1 金 2 银",
-     "link": "https://www.ithome.com/1/021/250.htm",
-     "pubDate": "Mon, 02 Nov 2026 11:54:11 GMT",
-     "summary": "IT之家 11 月 2 日消息，据新浪科技今日报道，首届 CMG 世界机器人登泰山大赛在山东泰安开赛。赛道从红门至中天门，全程 3.9 公里、3100 余级台阶，以连续石阶、陡坡弯道为核心挑战，考验机器人在复杂山地环境中的运动与自主决策能力。 足式机器人竞速赛中，宇树科技旗下北京灵翌科技队携宇树 A2 机器狗出战，以 41 分 41 秒的实际成绩（IT之家注：最终成绩 43 分 41 秒，罚时 2 分钟）夺得 足式机器人竞速赛冠军 。A2 全程采用全自主模式，实时感知、实时决策，在不规则石阶上稳定快速行进。 ▲ 宇树 A2 上海高羿科技队为宇树再添两银： 宇树 A2 夺得足式机器人竞速赛亚军，",
-     "source": "IT之家",
-     "zh": "首届 CMG 世界机器人登泰山大赛收官，宇树斩获 1 金 2 银"
     },
     {
      "title": "“徽剑”身后事：知情者称家属曾全力筹办丧事，不想再被误解打扰",
@@ -1802,12 +1858,20 @@ window.INDUSTRY_DATA = {
      "zh": "“徽剑”身后事：知情者称家属曾全力筹办丧事，不想再被误解打扰"
     },
     {
-     "title": "黑客研发新型恶意木马 VOLTA，用 AI 分析受害者是否值得入侵",
-     "link": "https://www.ithome.com/1/021/249.htm",
-     "pubDate": "Mon, 02 Nov 2026 11:53:07 GMT",
-     "summary": "IT之家 11 月 2 日消息，据外媒 Tom's Hardware 报道，网络安全团队 Cisco Talos 发现了一款名为 VOLTA 的新型 Windows 恶意木马。该木马整合了 AI 模型，能够分析受害者的个人数据，评估其中的信息价值，并在完成相关操作后尝试自我删除，以降低被发现和追踪的风险。 据报道，VOLTA 能够收集受害者设备上的网页浏览记录、加密货币钱包、浏览器扩展程序、文本文档、聊天记录等各类敏感信息，并将相应文件上传至 Anthropic Claude 等在线 AI 产品分析生成摘要，以供黑客参考。在完成数据收集和价值评估后，VOLTA 便会尝试自行删除，以减少留下的攻",
-     "source": "IT之家",
-     "zh": "黑客研发新型恶意木马 VOLTA，用 AI 分析受害者是否值得入侵"
+     "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+     "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+     "pubDate": "Mon, 02 Nov 2026 11:50:13 +0000",
+     "summary": "Article URL: https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack Comments URL: https://news.ycombinator.com/item?id=50335615 Points: 6 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "欧洲各地超市冰柜遭受第二次疑似网络攻击"
+    },
+    {
+     "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+     "link": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
+     "pubDate": "Mon, 02 Nov 2026 11:48:02 +0000",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cq1kd1nee80eo Comments URL: https://news.ycombinator.com/item?id=50335602 Points: 28 # Comments: 19",
+     "source": "Hacker News",
+     "zh": "比利时和瑞典的超市冰柜遭到疑似网络攻击"
     },
     {
      "title": "控股股东拟注入巨龙铜业等铜锂资产，高争民爆一字涨停｜并购一线",
@@ -1818,18 +1882,10 @@ window.INDUSTRY_DATA = {
      "zh": "控股股东拟注入巨龙铜业等铜锂资产，高争民爆一字涨停｜并购一线"
     },
     {
-     "title": "游民星空发行的经营游戏《二手游戏店模拟器》发售，国区首发特惠 33.75 元",
-     "link": "https://www.ithome.com/1/021/248.htm",
-     "pubDate": "Mon, 02 Nov 2026 11:45:30 GMT",
-     "summary": "IT之家 11 月 2 日消息，Rogue Duck Interactive 开发、游民星空（Gamersky Games）参与发行的模拟经营游戏《二手游戏店模拟器》（Replay Value: Second Hand Games）已于今日正式登陆 Steam 平台。IT之家附游戏商品页（ https://store.steampowered.com/app/3683940/ 二手游戏店模拟器/ ）。 本作国区定价为 ¥45，当前首发优惠为 -25%，折后售价 ¥33.75，优惠截至 11 月 16 日。游戏支持简体中文界面、完整音频与字幕，并同步支持繁体中文、英语、日语、韩语、法语、德语、西",
-     "source": "IT之家",
-     "zh": "游民星空发行的经营游戏《二手游戏店模拟器》发售，国区首发特惠 33.75 元"
-    },
-    {
      "title": "Supermarkets across Belgium and Sweden report sudden overnight temperature spikes in fridges and freezers due to suspected hacks, mirroring French cyberattacks (Bloomberg)",
      "link": "https://www.techmeme.com/261102/p13#a261102p13",
      "pubDate": "Mon, 02 Nov 2026 06:45:00 -0500",
-     "summary": "Bloomberg : Supermarkets across Belgium and Sweden report sudden overnight temperature spikes in fridges and freezers due to suspected hacks, mirroring French cyberattacks &nbsp; &mdash;&nbsp; Supermarkets in Belgium and Sweden reported sudden changes in the temperatures of their fridges and freezer",
+     "summary": "Bloomberg : Supermarkets across Belgium and Sweden report sudden overnight temperature spikes in fridges and freezers due to suspected hacks, mirroring French cyberattacks &nbsp; &mdash;&nbsp; Supermarkets across Europe were hit by suspected cyberattacks that resulted in sudden changes in the temper",
      "source": "Techmeme",
      "zh": "比利时和瑞典的超市报告称，由于疑似黑客攻击，冰箱和冰柜的夜间温度突然飙升，这与法国的网络攻击类似（彭博社）"
     },
@@ -1882,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "央行“上子弹”了，机构扩容、费率有望下行"
     },
     {
-     "title": "美国数据中心这张大饼，华尔街也吃不下了",
-     "link": "https://www.huxiu.com/article/4902382.html?f=rss",
-     "pubDate": "Mon, 02 Nov 2026 19:12:24 +0800",
-     "summary": "本文来自微信公众号： 硅基观察Pro ，作者：硅基君 最近，华尔街知名研究机构伯恩斯坦做了一项统计，结果挺让人意外。 美国已经公布的数据中心规划容量，累计高达488GW。但能把握落地的，只有约170GW，占比仅35%。 换句话说，美国规划中的数据中心，有接近三分之二，未来能不能建成还是个未知数。 更有意思的是，这些项目落不了地的原因，可谓五花八门。 有的开发商直接把数据中心当成房地产来搞，项目还没开工，土地就已经挂牌出售了；有的好不容易开工，客户却不断修改设计方案，硬生生让建设预算增加了近8亿美元。 以前，这些问题倒也不算什么。毕竟，AI是当下最火的投资方向。只要敢宣布几个GW的数据中心规划，",
-     "source": "虎嗅",
-     "zh": "美国数据中心这张大饼，华尔街也吃不下了"
-    },
-    {
      "title": "哈弗H6，耽误了魏建军？",
      "link": "https://www.tmtpost.com/8190411.html",
      "pubDate": "Mon, 02 Nov 2026 19:09:36 +0800",
@@ -1922,60 +1970,12 @@ window.INDUSTRY_DATA = {
      "zh": "押中泡泡玛特的黑蚁资本，能给野人先生带来“新剧本”吗？"
     },
     {
-     "title": "王小伟：普通人的救赎不在成功里，在关系中",
-     "link": "https://www.huxiu.com/article/4902378.html?f=rss",
-     "pubDate": "Mon, 02 Nov 2026 19:08:13 +0800",
-     "summary": "本文来自微信公众号： 简单心理 ，作者：简单心理 我们似乎生活在一个不允许人停下来的时代。 要终身学习、持续优化、永不停歇、不断搏杀，通过外在成功确定个体的价值和尊严。 在中国人民大学哲学教授王小伟看来，对大多数普通人而言，这是一场注定失败且令人疲惫的追逐。 作为一个技术哲学研究者，他把技术看成第一哲学问题。这种在一切领域不断求优化，找到最理性的方式去优化的生命样态，就是技术的逻辑，AI的出现加速了这一切「异化」的发生。 但人的逻辑，是另一种。 人时常会感觉脆弱，失败才是常态；人和人之间的沟通充满低效、误认，但也因此生出很多善良的期许，有了很多德行。 人生最重要的东西，通常不是挣来的，而是被赠",
-     "source": "虎嗅",
-     "zh": "王小伟：普通人的救赎不在成功里，在关系中"
-    },
-    {
-     "title": "My Journey to the Center of America’s Political Spam Text Hell",
-     "link": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
-     "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
-     "summary": "I’ve gotten nearly 2,000 campaign fundraising texts that were meant for someone else. I tried to find out why—and uncovered a labyrinth of politicians, data brokers, and shady tactics.",
-     "source": "WIRED",
-     "zh": "我的美国政治垃圾短信地狱之旅"
-    },
-    {
-     "title": "Google Earnings, Facebook Déjà Vu, The Agent Play",
-     "link": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
-     "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
-     "summary": "Google's earnings miss looks a lot like Facebook's, and that's a credit to Google. The company is being more aggressive than they get credit for.",
-     "source": "Stratechery",
-     "zh": "谷歌收益、Facebook Déjà Vu、The Agent Play"
-    },
-    {
-     "title": "Ukraine says its air raid alert app was compromised late Sunday, sending false warnings of \"nuclear danger\"; Russia confirms a similar hack of its alerts app (Bloomberg)",
-     "link": "https://www.techmeme.com/261102/p10#a261102p10",
-     "pubDate": "Mon, 02 Nov 2026 05:55:01 -0500",
-     "summary": "Bloomberg : Ukraine says its air raid alert app was compromised late Sunday, sending false warnings of &ldquo;nuclear danger&rdquo;; Russia confirms a similar hack of its alerts app &nbsp; &mdash;&nbsp; Ukraine and Russia said they faced cyberattacks on emergency and air raid alert systems.",
-     "source": "Techmeme",
-     "zh": "乌克兰表示，其空袭警报应用程序周日晚间遭到入侵，发出了“核危险”的虚假警告；俄罗斯确认其警报应用程序遭到类似黑客攻击（彭博社）"
-    },
-    {
-     "title": "金价创年内新低：水贝人头涌动，高端金店打折揽客",
-     "link": "https://www.huxiu.com/article/4902373.html?f=rss",
-     "pubDate": "Mon, 02 Nov 2026 18:46:30 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：朱咏玲 楼婍沁 10月下旬以来，金价加速下跌。现货黄金在10月30日进一步下探，跌破3900美元，创近一年来新低，较年内最高点已回撤超30%。 金价波动也直接影响了金饰市场热度。 11月2日上午，界面新闻记者走访深圳水贝珠宝黄金批发市场看到，即便是工作日，水贝市场的客流仍然不少。 多家黄金珠宝柜台前都站着挑选询价的消费者，既有前来买结婚五金的情侣，也有不少结伴而行的年轻女性和中老年女性，主要购买手镯、项链等金饰，也有消费者带着手头已经有的金饰来换款。有商户告诉界面新闻，还有不少人在这几天来买投资金。 “今天人还不算多的，昨天周末人更多。我们从上班忙到下班",
-     "source": "虎嗅",
-     "zh": "金价创年内新低：水贝人头涌动，高端金店打折揽客"
-    },
-    {
-     "title": "Filing: Anthropic plans to raise up to $3.5B from Japanese investors as part of its IPO, joining Australia, Canada, and parts of Europe in having direct access (Yasutaka Tamura/Bloomberg)",
-     "link": "https://www.techmeme.com/261102/p9#a261102p9",
-     "pubDate": "Mon, 02 Nov 2026 05:40:01 -0500",
-     "summary": "Yasutaka Tamura / Bloomberg : Filing: Anthropic plans to raise up to $3.5B from Japanese investors as part of its IPO, joining Australia, Canada, and parts of Europe in having direct access &nbsp; &mdash;&nbsp; Anthropic PBC aims to raise up to $3.5 billion from Japanese investors in its initial pub",
-     "source": "Techmeme",
-     "zh": "备案：Anthropic 计划在其 IPO 中从日本投资者筹集至多 3.5B 美元，加入澳大利亚、加拿大和欧洲部分地区的直接投资行列（Yasutaka Tamura/彭博社）"
-    },
-    {
-     "title": "4 Best Alexa Speakers I’ve Tested (2026)",
-     "link": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
-     "pubDate": "Mon, 02 Nov 2026 10:07:00 +0000",
-     "summary": "I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.",
-     "source": "WIRED",
-     "zh": "我测试过的 4 款最佳 Alexa 扬声器（2026 年）"
+     "title": "The future in old computer magazines (1984–2004)",
+     "link": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
+     "pubDate": "Mon, 02 Nov 2026 11:09:08 +0000",
+     "summary": "Article URL: https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in Comments URL: https://news.ycombinator.com/item?id=50335341 Points: 25 # Comments: 7",
+     "source": "Hacker News",
+     "zh": "旧计算机杂志的未来（1984-2004）"
     }
    ]
   },
@@ -1985,6 +1985,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "One UI 9 update praised by plenty of readers, but some can’t ignore a potential weakness",
+     "link": "https://www.androidauthority.com/one-ui-9-update-first-impressions-poll-results-3730542/",
+     "pubDate": "Mon, 02 Nov 2026 12:19:03 +0000",
+     "summary": "I do love a drama-free update.",
+     "source": "Android Authority",
+     "zh": "UI 9 的一项更新受到了众多读者的好评，但有些人不能忽视潜在的弱点"
+    },
     {
      "title": "Tired of slow Android Auto feature rollouts? This new tool lets rooted users skip the wait",
      "link": "https://www.androidauthority.com/android-auto-aa-experiments-hidden-flags-3730593/",
@@ -2047,15 +2055,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 11:00:40 +0000",
      "summary": "You can now build apps with ChatGPT, but should you?",
      "source": "Android Authority",
-     "zh": "我使用 ChatGPT 的智能 UI 制作了 4 个应用程序 — 它尚未准备好迎接黄金时段"
-    },
-    {
-     "title": "I’ve used every Android foldable released this year. Here’s how the iPhone Duo stacks up",
-     "link": "https://www.androidauthority.com/iphone-duo-android-user-impressions-3728257/",
-     "pubDate": "Mon, 02 Nov 2026 10:30:32 +0000",
-     "summary": "The iPhone Duo is a fun and frustrating first attempt.",
-     "source": "Android Authority",
-     "zh": "我用过今年发布的所有 Android 可折叠手机。 iPhone Duo 的表现如下"
+     "zh": "我使用 ChatGPT 的智能 UI 制作了 4 个应用程序 - 它尚未准备好迎接黄金时段"
     },
     {
      "title": "OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V",
@@ -2159,7 +2159,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 00:30:00 +0000",
      "summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
      "source": "Engadget",
-     "zh": "Android Auto 的下一次更新可能会破坏你的工作与生活平衡"
+     "zh": "Android Auto 的下一次更新可能会扰乱你的工作与生活平衡"
     },
     {
      "title": "10 iPad widgets you probably didn't realize existed",
@@ -2234,52 +2234,180 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Cathie Wood's weekly recap: loads TER, AVAV after strong results; books gain in AMD, TSM, LLY",
-     "link": "https://seekingalpha.com/news/4661920-cathie-woods-weekly-recap-loads-ter-avav-after-strong-results-books-gain-in-amd-tsm-lly?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 07:05:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cathie Wood 的每周回顾：在取得优异成绩后加载 TER、AVAV； AMD、TSM、LLY 账面收益"
+     "title": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
+     "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+     "pubDate": "Mon, 02 Nov 2026 12:26:00 GMT",
+     "summary": "A newly proposed deal would be financed in stock and target the hot optical-networking market.",
+     "source": "MarketWatch",
+     "zh": "Marvell 和 Lumentum 正式计划合并。以下是需要了解的内容。"
     },
     {
-     "title": "Napco Security Technologies, Inc. GAAP EPS of $0.36 misses by $0.01, revenue of $50M misses by $2.07M",
-     "link": "https://seekingalpha.com/news/4662048-napco-security-technologies-inc-gaap-eps-of-0_36-misses-by-0_01-revenue-of-50m-misses-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 07:04:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Napco Security Technologies, Inc. GAAP 每股收益为 0.36 美元，低于 0.01 美元，收入为 5,000 万美元，低于 207 万美元"
+     "title": "This is the biggest threat to the AI-powered bull market",
+     "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+     "pubDate": "Mon, 02 Nov 2026 12:23:00 GMT",
+     "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+     "source": "MarketWatch",
+     "zh": "这是人工智能驱动的牛市的最大威胁"
     },
     {
-     "title": "At a glance: stocks gapping down premarket",
-     "link": "https://seekingalpha.com/news/4662042-at-a-glance-stocks-gapping-down-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 07:04:06 -0500",
+     "title": "Full House Resorts is downgraded by Texas Capital amid the challenging high-yield market",
+     "link": "https://seekingalpha.com/news/4662054-full-house-resorts-is-downgraded-by-texas-capital-amid-the-challenging-high-yield-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 07:22:48 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "概览：股市盘前跳空低开"
+     "zh": "由于高收益市场充满挑战，Full House Resorts 被德克萨斯资本下调评级"
     },
     {
-     "title": "Tempus AI beats top-line and bottom-line estimates; raises FY26 outlook",
-     "link": "https://seekingalpha.com/news/4662047-tempus-ai-beats-top-line-and-bottom-line-estimates-raises-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 07:03:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tempus AI 超出了营收和利润预期；上调 2026 财年展望"
+     "title": "America is doing better than you think — just ask those in the bottom half of household wealth",
+     "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
+     "pubDate": "Mon, 02 Nov 2026 12:22:00 GMT",
+     "summary": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
+     "source": "MarketWatch",
+     "zh": "美国的表现比你想象的要好——只要问问家庭财富处于下半部分的人就知道了"
     },
     {
-     "title": "Axsome Therapeutics GAAP EPS of -$0.25 beats by $0.38, revenue of $259.7M beats by $10.51M",
-     "link": "https://seekingalpha.com/news/4662046-axsome-therapeutics-gaap-eps-of-0_25-beats-by-0_38-revenue-of-259_7m-beats-by-10_51m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 07:03:19 -0500",
+     "title": "TAT Technologies GAAP EPS of $0.58 beats by $0.19, revenue of $55.56M beats by $2.72M",
+     "link": "https://seekingalpha.com/news/4662069-tat-technologies-gaap-eps-of-058-beats-by-019-revenue-of-5556m-beats-by-272m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 07:21:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Axsome Therapeutics 公认会计原则每股收益 - 0.25 美元，超出 0.38 美元，收入 2.597 亿美元，超出 1,051 万美元"
+     "zh": "TAT Technologies GAAP 每股收益为 0.58 美元，超出 0.19 美元，收入为 5,556 万美元，超出 272 万美元"
     },
     {
-     "title": "Cipher Digital GAAP EPS of -$0.22 beats by $0.04, revenue of $26.7M misses by $10.79M",
-     "link": "https://seekingalpha.com/news/4662045-cipher-digital-gaap-eps-of-0_22-beats-by-0_04-revenue-of-26_7m-misses-by-10_79m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 07:02:20 -0500",
+     "title": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
+     "link": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
+     "pubDate": "Mon, 02 Nov 2026 12:20:00 GMT",
+     "summary": "In recent weeks there has been intense speculation surrounding SpaceX ambitions in the cellular market with multiple acquisition targets suggested; Boost Mobile is the latest",
+     "source": "MarketWatch",
+     "zh": "据报道，在寻求 1 万亿美元收入的过程中，SpaceX 瞄准了 Boost Mobile 进行交易"
+    },
+    {
+     "title": "MustGrow Appoints Kevin Helash as CEO",
+     "link": "https://seekingalpha.com/news/4662068-mustgrow-appoints-kevin-helash-as-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 07:19:58 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Cipher Digital GAAP 每股收益 - 0.22 美元，超出 0.04 美元，收入 2,670 万美元，低于 1,079 万美元"
+     "zh": "MustGrow 任命 Kevin Helash 为首席执行官"
+    },
+    {
+     "title": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
+     "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
+     "pubDate": "Mon, 02 Nov 2026 12:17:58 GMT",
+     "summary": "US tech stocks set to start week higher helped by falling oil price",
+     "source": "Financial Times",
+     "zh": "纳斯达克遭遇一年多来最糟糕的一个月后，全球人工智能抛售有所缓解"
+    },
+    {
+     "title": "Marvell announces $115B all-stock deal for Lumentum",
+     "link": "https://seekingalpha.com/news/4662061-marvell-announces-115b-all-stock-deal-for-lumentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 07:17:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Marvell 宣布以 115B 美元收购 Lumentum 的全股票交易"
+    },
+    {
+     "title": "智驾公司，集体争夺货运生意",
+     "link": "https://wallstreetcn.com/articles/3785002",
+     "pubDate": "Mon, 02 Nov 2026 20:16:04 +0800",
+     "summary": "智驾公司的生意，越来越难按乘用车、商用车来划分。重卡正在成为通用智驾公司扩展产品线的一站，原本专做货运的企业，要与能够跨车型研发、供货的公司争夺客户。 11月2日，卓驭宣布，日前已与合作方就郎柯科技智能物流车总部项目签约，计划2027年无人车租赁、销售及运营总量超过3000台。 今年6月，首款搭载卓驭辅助驾驶方案的陕汽重卡量产；10月29日，小马智行与广汽领程合作的L4自动驾驶重卡T9首批量产下线。两者的产品路线不同，都在把已经用于其他车型的底层能力带进卡车。 今年这轮量产提速，正在把乘用车智驾的竞争带进货运市场。新进入者的卡车业务可以尚未形成规模，底层研发却能持续得到乘用车业务的支持。专业货",
+     "source": "华尔街见闻",
+     "zh": "智驾公司，集体争夺货运生意"
+    },
+    {
+     "title": "AIRO announces first U.S. sale of RQ-35 and RQ-70 unmanned aircraft systems",
+     "link": "https://seekingalpha.com/news/4662064-airo-announces-first-us-sale-of-rq-35-and-rq-70-unmanned-aircraft-systems?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 07:16:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AIRO 宣布首次在美国销售 RQ-35 和 RQ-70 无人机系统"
+    },
+    {
+     "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+     "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+     "pubDate": "Mon, 02 Nov 2026 12:15:00 GMT",
+     "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+     "source": "MarketWatch",
+     "zh": "“他伤心欲绝”：我丈夫的孩子在他临死时抛弃了他。他把一切都留给我是对的吗？"
+    },
+    {
+     "title": "Lightbridge GAAP EPS of -$0.23",
+     "link": "https://seekingalpha.com/news/4662065-lightbridge-gaap-eps-of--023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 07:14:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lightbridge GAAP 每股收益 - 0.23 美元"
+    },
+    {
+     "title": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
+     "link": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
+     "pubDate": "Mon, 02 Nov 2026 12:10:00 GMT",
+     "summary": "Both the stock and bond markets are raising doubts about the sustainability of the AI trade.",
+     "source": "MarketWatch",
+     "zh": "科技股在经历了残酷的 10 月之后进入 11 月：是逢低买入的时候了吗？"
+    },
+    {
+     "title": "周三季度再融资声明将至，美债市场屏息等待重大信号",
+     "link": "https://wallstreetcn.com/articles/3784998",
+     "pubDate": "Mon, 02 Nov 2026 20:09:49 +0800",
+     "summary": "美国财政部将于本周三发布季度再融资声明，华尔街正严阵以待 ，预判这将是2024年初以来规模最大的美债发行指引调整。 长端收益率高企与债务规模持续膨胀，将财政部的发行策略选择推至聚光灯下。 财政部长Scott Bessent近期一系列非常规举措已令市场神经高度紧绷。仅在上一份季度声明发布一周后， Bessent便出人意料地扩大了对存量债券的回购规模，外界普遍将此解读为对收益率飙升的直接回应。 与此同时，财政部8月已悄然调整措辞，将对未来票息债券销售规模变化的表述由\"潜在增加\"改为\"潜在变化\"，外界由此嗅到政策转向的前兆。 本周三的声明一旦调整发行指引，可能为2027年削减超长期债券发行铺路，并以",
+     "source": "华尔街见闻",
+     "zh": "周三季度再融资声明将至，美债市场屏息等待重大信号"
+    },
+    {
+     "title": "1150亿美元豪购Lumentum！Marvell打通“芯片+光学”，剑指AI互联超级帝国",
+     "link": "https://wallstreetcn.com/articles/3785001",
+     "pubDate": "Mon, 02 Nov 2026 20:08:56 +0800",
+     "summary": "AI算力竞赛正在推动数据中心基础设施加速升级，芯片与光通信产业链的边界也开始变得模糊。Marvell选择以一笔千亿美元级收购，将业务版图从芯片延伸至光学组件，试图掌握AI数据中心互联的更多核心环节。 当地时间11月2日，Marvell宣布与光通信组件制造商Lumentum达成最终协议， 将通过全股票交易收购后者，交易隐含企业价值约1150亿美元 。 根据协议， Lumentum股东每持有一股，将获得4.5股Marvell股票。按照两家公司10月28日、即交易传闻出现前的收盘价计算，交易溢价约23.9%。 交易完成后， Marvell现有股东预计持有合并后公司约67%的股份，Lumentum股东",
+     "source": "华尔街见闻",
+     "zh": "1150亿美元豪购Lumentum！Marvell打通“芯片+光学”，剑指AI互联超级帝国"
+    },
+    {
+     "title": "【概念速递】保隆科技新增“人形机器人”概念",
+     "link": "http://stock.eastmoney.com/news/11669,202611023918923434.html",
+     "pubDate": "Mon, 02 Nov 2026 19:57:50 +0800",
+     "summary": "2026年11月2日， 保隆科技 新增“人形 机器人 ”概念。 入选理由：2026年10月30日回复称，公司已从感知环节切入具身智能，核心产品为电感式编码器、环视摄像头和双目立体视觉摄像头，均已逐步进入量产。公司也正与 机器人 公司洽谈提供数据采集设备/生产数据（依托摄像头、 传感器 及触觉 传感器 研发能力）。 公司涉及的其他概念： 机器人 概念、 毫米波概念 、 低空经济 、 华为汽车 、 小米汽车 、 新能源 车、 智能驾驶 、 传感器 、 胎压监测 、 特斯拉 概念。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与",
+     "source": "东方财富股票",
+     "zh": "【概念速递】保隆科技新增“人形机器人”概念"
+    },
+    {
+     "title": "【概念速递】新锐股份新增“人形机器人”概念",
+     "link": "http://stock.eastmoney.com/news/11669,202611023918923334.html",
+     "pubDate": "Mon, 02 Nov 2026 19:57:50 +0800",
+     "summary": "2026年11月2日， 新锐股份 新增“人形 机器人 ”概念。 入选理由：2026年半年报显示，2026年1月，公司收购富邦工具控股权，高效切入快速增长的高精度齿轮刀具市场，用于 新能源 及人形 机器人 关键部件如丝杠、 谐波 减速器 的生产加工。 公司涉及的其他概念： PCB 、 新材料 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务",
+     "source": "东方财富股票",
+     "zh": "【概念速递】新锐股份新增“人形机器人”概念"
+    },
+    {
+     "title": "淮河能源：截至10月30日最新股东户数5.63万户，较上期减少0.14%",
+     "link": "http://stock.eastmoney.com/news/11111,202611023918922783.html",
+     "pubDate": "Mon, 02 Nov 2026 19:56:52 +0800",
+     "summary": "淮河能源 最新披露数据显示，截至10月30日公司股东户数为5.63万户，较上期(2026年10月21日) 减少78户，降幅为0.14% 。户均持有流通股数量 由上期的6.89万股上升至6.90万股， 户均持股金额 由上期的21.85万元减少至21.12万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "source": "东方财富股票",
+     "zh": "淮河能源：截至10月30日最新股东户数5.63万户，较上期减少0.14%"
+    },
+    {
+     "title": "Melius Research：将AMD(AMD.O)目标价从660美元下调至600美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611023918923235.html",
+     "pubDate": "Mon, 02 Nov 2026 19:56:00 +0800",
+     "summary": "Melius Research：将AMD(AMD.O)目标价从660美元下调至600美元。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Melius Research：将AMD(AMD.O)目标价从660美元下调至600美元"
+    },
+    {
+     "title": "【调研快报】春秋航空接待民生证券调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611023918922478.html",
+     "pubDate": "Mon, 02 Nov 2026 19:55:50 +0800",
+     "summary": "春秋航空 11月2日公告称， 10月30日 接待民生证券 调研。 公司就以下问题进行了回复： Q:2026年10月以来,公司国内及国际航线的客运量和票价表现如何? A:10月以来,国内航空出行需求总体保持稳定。受高油价及淡季运力调整影响,行业供给有所收缩,票价表现有所改善。国际市场整体表现仍好于国内,其中东北亚市场保持良好态势,东南亚市场需求总体平稳。当前高油价仍是影响行业经营表现的主... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请",
+     "source": "东方财富股票",
+     "zh": "【调研快报】春秋航空接待民生证券调研"
+    },
+    {
+     "title": "Melius Research下调AMD目标价",
+     "link": "http://stock.eastmoney.com/news/1440,202611023918922990.html",
+     "pubDate": "Mon, 02 Nov 2026 19:55:07 +0800",
+     "summary": "Melius Research将AMD目标价从660美元下调至600美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "Melius Research下调AMD目标价"
     },
     {
      "title": "金融投资贡献度提高，六大行三季度营收增速均超6%",
@@ -2322,22 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI信仰迎来新考验，股价暴跌后Alphabet赴欧债市场融资"
     },
     {
-     "title": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
-     "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 11:14:00 GMT",
-     "summary": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
-     "source": "MarketWatch",
-     "zh": "高盛 (Goldman Sachs) 表示，明年油价将如何平均达到每桶 130 美元"
-    },
-    {
-     "title": "Citi throws in the towel on hyperscalers after a key market bet misfires",
-     "link": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 11:08:00 GMT",
-     "summary": "Hyperscalers and growth plays have underperformed amid a sharp rotation",
-     "source": "MarketWatch",
-     "zh": "关键市场押注失败后，花旗对超大规模企业认输"
-    },
-    {
      "title": "DeepSeek发布智能体新架构：让AI管AI",
      "link": "http://finance.eastmoney.com/news/1354,202611023918886341.html",
      "pubDate": "Mon, 02 Nov 2026 19:07:30 +0800",
@@ -2354,124 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "多家A股公司拟出手回购、增持 协创数据拟增持最高10亿元"
     },
     {
-     "title": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
-     "link": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
-     "pubDate": "Mon, 02 Nov 2026 11:02:08 GMT",
-     "summary": "OpenAI signed four Abu Dhabi agreements spanning energy, government and investment as Sam Altman met the emirate’s crown prince.",
-     "source": "CNBC",
-     "zh": "Sam Altman 签署能源、政府和投资领域的交易，OpenAI 加深了阿布扎比的立足点"
-    },
-    {
      "title": "黄金跌破3900美元后，华尔街多头集体“投降”，散户蜂拥抄底",
      "link": "https://wallstreetcn.com/articles/3784994",
      "pubDate": "Mon, 02 Nov 2026 19:00:59 +0800",
      "summary": "黄金市场近日经历剧烈震荡。在美联储鹰派立场、强劲经济数据与科技股抛售潮的多重夹击下，金价单周重挫逾3.7%，最低触及3870美元——创一年多来新低。 据Kitco新闻最新每周黄金调查， 本周参与调查的16位华尔街分析师中，仅1人（占6%）看涨后市，63%的受访者预计金价将继续下行，另有31%预计震荡整理。 与此同时，在184位零售投资者参与的在线调查中， 53%仍看涨下周金价，多头比例远高于机构。 国内市场同步印证这一分化：菜百总店投资金条30克以下规格全部售罄，郑州、深圳水贝等黄金聚集地人满为患，消费者纷纷入场\"抄底\"。 高盛大宗商品团队的最新分析 则揭示了此轮异常抛售的深层逻辑：幕后推手并",
      "source": "华尔街见闻",
      "zh": "黄金跌破3900美元后，华尔街多头集体“投降”，散户蜂拥抄底"
-    },
-    {
-     "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
-     "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-     "pubDate": "Mon, 02 Nov 2026 11:00:55 GMT",
-     "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
-     "source": "CNBC",
-     "zh": "美伊外交努力报道导致美国原油跌破 100 美元"
-    },
-    {
-     "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-     "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-     "pubDate": "Mon, 02 Nov 2026 11:00:01 GMT",
-     "summary": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.",
-     "source": "CNBC",
-     "zh": "国防、医疗保健、加密货币和人工智能：中期选举将如何影响股市"
-    },
-    {
-     "title": "科创50成份股三季报扫描：近六成企业营收、净利双增 高研发投入加速产品技术迭代",
-     "link": "http://finance.eastmoney.com/news/1354,202611023918873937.html",
-     "pubDate": "Mon, 02 Nov 2026 18:47:28 +0800",
-     "summary": "截至目前，A股三季报披露收官，除 中芯国际 、 华虹宏力 因A+H两地上市享受披露延期，尚未发布季报，其余48只科创50成分股已全部交出三季度经营答卷。 据《科创板日报》记者统计，在 48家已披露公司中，37家第三季度实现盈利，盈利占比77.08%；29家公司Q3净利润同比正增长，24家实现净利润环比正增长。 其中，Q3实现营收、净利润双增长的科创50成分企业为28家，占有效统计样本的59.57%。 多位市场分析人士称，科创板公司把握住产业变革机遇，持续推进关键核心技术攻关，展现出强劲的业绩增长韧性。 AI算力拉动 半导体 业绩高增 在Q3净利润同比增幅前十榜单中， 半导体 产业链占据全部席位",
-     "source": "东方财富资讯",
-     "zh": "科创50成份股三季报扫描：近六成企业营收、净利双增 高研发投入加速产品技术迭代"
-    },
-    {
-     "title": "销售收入破10亿！《影之刃零》三天回本背后 国产游戏工业化持续落地",
-     "link": "http://finance.eastmoney.com/news/1345,202611023918869796.html",
-     "pubDate": "Mon, 02 Nov 2026 18:46:30 +0800",
-     "summary": "今日，国产3A游戏——灵游坊（S-Game）旗下《影之刃零》在社交媒体平台披露，其发售后72小时销量已突破400万份。 游戏科学创始人冯骥转发了这条信息，并表示“比销量更让人欣喜的，是好评率连续三天的变化。”《科创板日报》注意到， 《影之刃零》发售首日Steam好评率偏低，处于“多半好评”区间（75%-79%附近），目前已达到“特别好评”（约89%）。 10月29日，《影之刃零》正式发售，截至目前该作仍位于Steam全球热销游戏榜首。价格方面，其PC数字版分为标准版与 豪华 版两档，标准版售价268元， 豪华 版售价328元。按标准版售价计算，《影之刃零》全球销售收入已突破10亿元人民币。 受",
-     "source": "东方财富资讯",
-     "zh": "销售收入破10亿！《影之刃零》三天回本背后 国产游戏工业化持续落地"
-    },
-    {
-     "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-     "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-     "pubDate": "Mon, 02 Nov 2026 10:29:11 GMT",
-     "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
-     "source": "CNBC",
-     "zh": "办公室称，康涅狄格州参议员克里斯·墨菲中风，正在医院接受治疗"
-    },
-    {
-     "title": "经济大省三季报：广东有望时隔四年实现GDP增速目标、湖南跌至十一位",
-     "link": "http://www.eeo.com.cn/2026/1102/1082304.shtml",
-     "pubDate": "Mon, 02 Nov 2026 18:25:00 +0800",
-     "summary": "湖南经济增长显现掉队迹象。2021—2023年，湖南全年GDP总量均位居全国第九；2024—2025年被上海反超，跌至第十；今年前三季度，湖南GDP总量为41606.66亿元，被安徽（42371亿元）反超，在31个省份中的位次降至全国第十一。",
-     "source": "经济观察网",
-     "zh": "经济大省三季报：广东有望时隔四年实现GDP增速目标、湖南跌至十一位"
-    },
-    {
-     "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-     "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 10:15:00 GMT",
-     "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-     "source": "MarketWatch",
-     "zh": "“她是 A 型人格”：我的继母希望我偿还已故父亲的 40,000 美元结婚礼物。我应该答应吗？"
-    },
-    {
-     "title": "5 celebrities who waited years to buy their dream homes",
-     "link": "https://www.marketwatch.com/story/5-celebrities-who-waited-years-to-buy-their-dream-homes-f1551973?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 10:03:00 GMT",
-     "summary": "What do Drake, Julianne Moore and Barbra Streisand have in common? These A-listers are not totally immune from having to play the waiting game for their perfect house.",
-     "source": "MarketWatch",
-     "zh": "5 位名人等了多年才买下自己的梦想家园"
-    },
-    {
-     "title": "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago",
-     "link": "https://www.marketwatch.com/story/retired-world-series-champ-matt-holliday-lists-11-6-million-arizona-estate-he-bought-months-ago-a48b6a9b?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 09:58:00 GMT",
-     "summary": "Retired Major League Baseball star Matt Holliday is ready to part ways with the newly built Paradise Valley, Ariz., estate he purchased earlier this year.",
-     "source": "MarketWatch",
-     "zh": "退役世界大赛冠军马特·霍利迪列出了他几个月前在亚利桑那州购买的价值 1160 万美元的房产"
-    },
-    {
-     "title": "Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce",
-     "link": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 09:47:00 GMT",
-     "summary": "Positioning among equity investors in tech stocks is consistent with much slower earnings growth than the sector is achieving. Deutsche Bank thinks it’s time to go overweight once again as the risk-reward profile favors a sector that is suddenly out of fashion.",
-     "source": "MarketWatch",
-     "zh": "科技股在 30 个月内五次出现 V 型大幅反弹——现在德意志银行预测将再次反弹"
-    },
-    {
-     "title": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
-     "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
-     "pubDate": "Mon, 02 Nov 2026 09:40:58 GMT",
-     "summary": "US tech stocks set to start week higher following bruising rout",
-     "source": "Financial Times",
-     "zh": "纳斯达克遭遇一年多来最糟糕的一个月后，全球人工智能抛售有所缓解"
-    },
-    {
-     "title": "全球科技股反弹，纳指期货涨超1%，WTI原油日内下跌4%，金价上涨0.8%",
-     "link": "https://wallstreetcn.com/articles/3784983",
-     "pubDate": "Mon, 02 Nov 2026 17:35:47 +0800",
-     "summary": "上周美国科技股遭遇重挫后，亚太股市周一多数回升，美股期货同步走强，市场风险情绪出现企稳迹象。 亚洲主要股市多数收涨，韩国KOSPI指数涨2.24%，MSCI亚太指数整体上行0.1%。纳斯达克100指数期货涨逾1%，标普500指数期货涨0.53%，欧洲股指期货亦跟涨。这在一定程度上缓解了市场对科技股下行趋势蔓延的担忧。此前，纳斯达克100指数上周五重挫3.5%，创下自2025年3月以来最差单日表现，费城半导体指数同日暴跌7.2%。 油价下跌也对市场情绪形成支撑。据报道，美国总统特朗普希望在周二中期选举结果出炉后再评估是否恢复对伊朗军事打击，倾向于给外交努力更多时间。WTI原油日内跌幅达4.0%，",
-     "source": "华尔街见闻",
-     "zh": "全球科技股反弹，纳指期货涨超1%，WTI原油日内下跌4%，金价上涨0.8%"
-    },
-    {
-     "title": "AI可以免疫高利率？泡沫末期，市场往往充斥着幻想",
-     "link": "https://wallstreetcn.com/articles/3784990",
-     "pubDate": "Mon, 02 Nov 2026 17:26:58 +0800",
-     "summary": "当债券收益率攀升，分析师们却挥挥手说\"AI繁荣不受影响\"——这是经典的泡沫逻辑。历史上每一次重大繁荣的终结，无不伴随着融资条件的收紧；而每一次泡沫末期，市场都会涌现出各种理由，声称\"这一次不同\"。AI热潮能否真正免疫高利率，答案或许已在数字中悄然浮现。 以Alphabet、Meta、微软、亚马逊为核心的超大规模云计算企业及Nvidia、Broadcom、SpaceX，其披露的表外承诺总规模已达4.11万亿美元——仅在约90天内新增承诺接近1万亿美元。与此同时，这些公司账面上的实际债务和租赁负债合计约1万亿美元，意味着每1美元表内负债背后，对应着超过4美元未在资产负债表上显示的承诺。与之形成对照",
-     "source": "华尔街见闻",
-     "zh": "AI可以免疫高利率？泡沫末期，市场往往充斥着幻想"
     }
    ]
   },
@@ -2511,7 +2511,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
      "summary": "Pliable connector molecules could be key to creating nanoparticle-based materials for photonics, chemical catalysis, medicine, and more.",
      "source": "MIT News",
-     "zh": "由纳米颗粒构建的设计材料的灵活新途径"
+     "zh": "由纳米粒子构建的设计材料的灵活新途径"
     },
     {
      "title": "MIT engineers design a safer, more efficient vaccination system for farmed fish",

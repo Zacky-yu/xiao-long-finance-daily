@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/3 11:51:51",
+ "generated_at": "2026/11/3 12:08:26",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
      "source": "TechCrunch AI",
      "zh": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses"
+    },
+    {
+     "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+     "link": "https://www.qbitai.com/2026/11/507367.html",
+     "pubDate": "Tue, 03 Nov 2026 03:16:23 +0000",
+     "summary": "GPU迭代一百次的事，它一步做完",
+     "source": "量子位",
+     "zh": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义"
     },
     {
      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
      "source": "量子位",
      "zh": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信"
-    },
-    {
-     "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
-     "link": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
-     "pubDate": "Mon, 02 Nov 2026 07:47:12 +0000",
-     "summary": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API. The post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared ",
-     "source": "MarkTechPost",
-     "zh": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL"
     }
    ]
   },
@@ -258,52 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "China's anti-price-war drive fails to ease solar overcapacity as four industry giants remain in the red",
-     "link": "https://www.digitimes.com/news/a20261103PD207/china-solar-overcapacity-loss-2026.html",
-     "pubDate": "Tue, 3 Nov 2026 02:56:40 GMT",
-     "summary": "China's leading solar manufacturers have reported their third-quarter 2026 financial results, showing signs of improving profitability but continued heavy losses, underscoring the persistence of excess production capacity across the industry.",
+     "title": "Analysis: Beyond iPhone growth, Apple's spending reveals broader cost challenge",
+     "link": "https://www.digitimes.com/news/a20261103VL209/apple-cost-iphone-growth-inventory.html",
+     "pubDate": "Tue, 3 Nov 2026 03:49:12 GMT",
+     "summary": "Apple is committing more money to research and securing supplies while reducing cash spending on fixed assets, a combination that shows how its AI ambitions and component shortages are reshaping investment. Its November 2 results reveal both a deliberate push into new capabilities and the growing fi",
      "source": "DIGITIMES",
-     "zh": "China's anti-price-war drive fails to ease solar overcapacity as four industry giants remain in the red"
+     "zh": "Analysis: Beyond iPhone growth, Apple's spending reveals broader cost challenge"
     },
     {
-     "title": "China's memory chipmakers extend their boom into the third quarter as capacity, policy risks build",
-     "link": "https://www.digitimes.com/news/a20261103VL204/capacity-policy-chipmakers-dram-cxmt.html",
-     "pubDate": "Tue, 3 Nov 2026 02:54:39 GMT",
-     "summary": "China's memory chip industry heads into the final quarter of 2026 riding a global supply shortage: its leading DRAM maker booked more than CNY54 billion (US$8.11 billion) in third-quarter profit, and its chip designers are still lifting sales on tight supply. The same third-quarter results also show",
+     "title": "China's chip packagers ride AI demand, price hikes, but investment gains, capex cloud the profit picture",
+     "link": "https://www.digitimes.com/news/a20261103VL207/profit-packaging-demand-price-investment.html",
+     "pubDate": "Tue, 3 Nov 2026 03:47:03 GMT",
+     "summary": "China's outsourced semiconductor assembly and test (OSAT) companies entered the fourth quarter with rising sales, high utilization, and an industry-wide price upturn. Their third-quarter results also show how much reported profit growth rests on investment gains and lower taxes, and how heavily the ",
      "source": "DIGITIMES",
-     "zh": "China's memory chipmakers extend their boom into the third quarter as capacity, policy risks build"
+     "zh": "China's chip packagers ride AI demand, price hikes, but investment gains, capex cloud the profit picture"
     },
     {
-     "title": "Apple's HomeView launch faces uphill battle as AI struggles delay ambitious HomeView Ultra",
-     "link": "https://www.digitimes.com/news/a20261103VL211/apple-display-hardware-home-appliance.html",
-     "pubDate": "Tue, 3 Nov 2026 02:35:41 GMT",
-     "summary": "Apple's recent entry into the smart display market, the US$299 HomeView, was designed to anchor the modern smart home ecosystem. However, the product arrives amid strong competitive pressure, regional usability hurdles, and AI challenges. These ongoing software and AI bottlenecks are directly impact",
+     "title": "Geopolitical risks, sustainability pressures reshape Taiwan's specialty chemicals industry",
+     "link": "https://www.digitimes.com/news/a20261103PD210/taiwan-materials-recycling.html",
+     "pubDate": "Tue, 3 Nov 2026 03:37:04 GMT",
+     "summary": "Geopolitical tensions, volatile crude oil prices, and tightening sustainability requirements are reshaping the global chemical industry, creating new challenges and opportunities for Taiwan's specialty chemicals sector. Against this backdrop, the government-funded Industrial Technology Research Inst",
      "source": "DIGITIMES",
-     "zh": "Apple's HomeView launch faces uphill battle as AI struggles delay ambitious HomeView Ultra"
+     "zh": "Geopolitical risks, sustainability pressures reshape Taiwan's specialty chemicals industry"
     },
     {
-     "title": "Malaysia sets 30% renewable energy rule for data centers as it tightens grid, water access",
-     "link": "https://www.digitimes.com/news/a20261103VL203/renewable-energy-water-data-data-center-capacity.html",
-     "pubDate": "Tue, 3 Nov 2026 02:29:59 GMT",
-     "summary": "Malaysia is attaching tougher conditions to its data center boom, pairing a newly approved renewable energy quota with stricter screening of power and water requests and pressure on operators to supply more of their own electricity.",
+     "title": "South Korea aims to speed up chip fab openings by two years",
+     "link": "https://www.digitimes.com/news/a20261103VL212/fab-investment-development-government-infrastructure.html",
+     "pubDate": "Tue, 3 Nov 2026 03:22:10 GMT",
+     "summary": "South Korea plans to bring new semiconductor fabs into operation at least two years ahead of schedule by speeding up construction approvals and infrastructure development, as the government seeks to support KRW1,600 trillion (approx. US$1.2 trillion) in planned private investment, Yonhap reported on",
      "source": "DIGITIMES",
-     "zh": "Malaysia sets 30% renewable energy rule for data centers as it tightens grid, water access"
+     "zh": "South Korea aims to speed up chip fab openings by two years"
     },
     {
-     "title": "Sumitomo Electric raises InP substrate capacity target to 4.5 times 2024 levels by FY2029",
-     "link": "https://www.digitimes.com/news/a20261103PD205/inp-substrate-sumitomo-electric-demand-capacity.html",
-     "pubDate": "Tue, 3 Nov 2026 02:16:34 GMT",
-     "summary": "Surging demand for optical communications driven by AI and data center expansion has prompted Japan's Sumitomo Electric Industries to accelerate production capacity expansion for indium phosphide (InP) substrates.",
+     "title": "Apple says 2nm transition is easing its advanced-node chip constraints",
+     "link": "https://www.digitimes.com/news/a20261103VL213/apple-2nm-revenue-iphone-ipad.html",
+     "pubDate": "Tue, 3 Nov 2026 03:12:44 GMT",
+     "summary": "Apple said the main supply constraint in its fiscal fourth quarter 2026, ended September 26, was the availability of leading-edge process capacity for its in-house chips. It said the constraint is easing as more of its products move to 2nm technology.",
      "source": "DIGITIMES",
-     "zh": "Sumitomo Electric raises InP substrate capacity target to 4.5 times 2024 levels by FY2029"
+     "zh": "Apple says 2nm transition is easing its advanced-node chip constraints"
     },
     {
-     "title": "Micron dismisses 4F-squared DRAM as CXMT presses ahead &mdash; why Samsung, SK Hynix remain divided",
-     "link": "https://www.digitimes.com/news/a20261103PD214/3d-dram-cxmt-micron-samsung-sk-hynix.html",
-     "pubDate": "Tue, 3 Nov 2026 02:15:49 GMT",
-     "summary": "Micron Technology and China's CXMT have taken sharply different approaches to next-generation DRAM scaling, exposing a divide over the commercial viability of 4F-squared memory-cell architecture. While CXMT is advancing 4F-squared towards commercial production to improve bit density, Micron argues t",
+     "title": "Samsung to exit 8-inch foundry business by 2030, report says",
+     "link": "https://www.digitimes.com/news/a20261103VL210/samsung-2030-capacity-business-production.html",
+     "pubDate": "Tue, 3 Nov 2026 03:10:39 GMT",
+     "summary": "Samsung Electronics plans to shut down its remaining 8-inch foundry lines by the end of 2030, forcing South Korean chip designers to seek alternative manufacturing capacity as competing foundries operate near full capacity, The Elec reported.",
      "source": "DIGITIMES",
-     "zh": "Micron dismisses 4F-squared DRAM as CXMT presses ahead &mdash; why Samsung, SK Hynix remain divided"
+     "zh": "Samsung to exit 8-inch foundry business by 2030, report says"
     },
     {
      "title": "Future Military Trends",
@@ -962,14 +962,6 @@ window.INDUSTRY_DATA = {
      "zh": "Mitsubishi Electric seeks to expand North American grid foothold"
     },
     {
-     "title": "Dominion sees $137M net income boost from rate increase",
-     "link": "https://www.utilitydive.com/news/dominion-sees-137m-net-income-boost-from-rate-increase/873458/",
-     "pubDate": "Mon, 02 Nov 2026 11:01:02 -0500",
-     "summary": "Chairman, President and CEO Bob Blue said during a third-quarter earnings call that the company &ldquo;benefited from better-than-budgeted sales, better-than-normal weather&rdquo; and &ldquo;strong overall financial and operational execution.&rdquo;",
-     "source": "Utility Dive",
-     "zh": "Dominion sees $137M net income boost from rate increase"
-    },
-    {
      "title": "Equator Renewables Asia unveils 250 kW containerized PV system",
      "link": "https://www.pv-magazine.com/2026/11/02/equator-renewables-asia-unveils-250-kw-containerized-pv-system/",
      "pubDate": "Mon, 02 Nov 2026 15:31:44 +0000",
@@ -1040,6 +1032,14 @@ window.INDUSTRY_DATA = {
      "summary": "A Japanese government study group is weighing rules that would bring almost all conventional solar panels under a new recycling law, while leaving perovskite and flexible modules out for now. The post Japan proposes 50-metric-ton trigger for solar panel recycling plans appeared first on pv magazine ",
      "source": "pv magazine",
      "zh": "Japan proposes 50-metric-ton trigger for solar panel recycling plans"
+    },
+    {
+     "title": "Trump bulk power equipment ban sparks industry pushback: ‘Let’s not reinvent the wheel’",
+     "link": "https://www.energy-storage.news/trump-bulk-power-equipment-ban-sparks-industry-pushback-lets-not-reinvent-the-wheel/",
+     "pubDate": "Mon, 02 Nov 2026 12:42:19 +0000",
+     "summary": "US President Donald Trump’s 26 August emergency executive order banning imports of certain foreign-made power equipment has prompted widespread public comment and private concern across the energy storage industry.",
+     "source": "Energy Storage News",
+     "zh": "Trump bulk power equipment ban sparks industry pushback: ‘Let’s not reinvent the wheel’"
     }
    ]
   },
@@ -1330,20 +1330,20 @@ window.INDUSTRY_DATA = {
      "zh": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies"
     },
     {
-     "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
-     "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
-     "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
-     "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
-     "source": "Space.com",
-     "zh": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026"
-    },
-    {
      "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
      "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
      "source": "Space.com",
      "zh": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station"
+    },
+    {
+     "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
+     "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
+     "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
+     "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
+     "source": "Space.com",
+     "zh": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026"
     },
     {
      "title": "How to Expand Reliable, Flexible Access to Space",
@@ -1706,6 +1706,94 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "商汤发布日日新 SenseNova6.8Flash 正式版模型，支持动态 PPT 及 3D 设计",
+     "link": "https://www.ithome.com/1/021/487.htm",
+     "pubDate": "Tue, 03 Nov 2026 03:59:48 GMT",
+     "summary": "IT之家 11 月 3 日消息，商汤科技 2 日晚间宣布，日日新 SenseNova6.8Flash 正式版现已正式发布，重点升级 办公协作与设计生成能力 。 新版本支持长期记忆、跨会话任务协作，设计能力覆盖 动态 PPT、动态海报、网页、SVG 及 Blender3D 创作 ，并可接入 Figma 等专业设计工作流。目前模型已开放在线体验，并同步上线 SenseNovaTokenPlan。 根据评测，SenseNova 6.8 Flash 在智能体协作、数据分析与演示生成等场景上超过部分国际前沿模型，并在行业模型中处于明显领先。 根据介绍，依托长期记忆与主动交互能力，模型能够围绕用户的目标与",
+     "source": "IT之家",
+     "zh": "商汤发布日日新 SenseNova6.8Flash 正式版模型，支持动态 PPT 及 3D 设计"
+    },
+    {
+     "title": "比头发丝还细：超细神经探针 Neuropixels 已用于人类大脑研究，首次记录语言刺激下的神经元活动",
+     "link": "https://www.ithome.com/1/021/486.htm",
+     "pubDate": "Tue, 03 Nov 2026 03:59:29 GMT",
+     "summary": "IT之家 11 月 3 日消息，当地时间 11 月 2 日，《自然》报道了一种名为 Neuropixels 的超细神经探针。 这是一种用于高密度记录神经元电活动的硅基探针。这种探针长度约 1 厘米，宽度比人类头发还细，能够同时记录数百个神经元的电活动，帮助研究人员以单个神经元为单位观察大脑如何处理信息，目前已从动物实验逐步进入人类大脑研究。 与传统脑电监测主要获取大量神经元共同产生的信号不同，这类探针能够同时记录多个单个神经元的活动，为研究大脑不同区域如何处理和传递信息提供更精细的数据。 据《自然》报道，在英国伦敦国家神经病学与神经外科医院，一名因正常压力脑积水接受分流手术的女性患者同意参与相",
+     "source": "IT之家",
+     "zh": "比头发丝还细：超细神经探针 Neuropixels 已用于人类大脑研究，首次记录语言刺激下的神经元活动"
+    },
+    {
+     "title": "小镇姐弟，没拿过VC，IPO了",
+     "link": "https://www.huxiu.com/article/4902539.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 11:57:40 +0800",
+     "summary": "本文来自微信公众号： 小饭桌 ，作者：关注科技的，编辑：张丽娟 华为、苹果、特斯拉、宁德时代都是它客户。 11月3日，皇冠新材在深交所主板上市。发行价16.98元，开盘56元，涨幅超过200%，盘中市值一度达到263亿元。按开盘价粗略计算，中一签浮盈约2万元。 一家做胶粘材料的公司，为什么能撑起这样的热度？ 看看它的客户名单就知道了，华为、苹果、OPPO、vivo、谷歌、亚马逊、比亚迪、特斯拉、宁德时代、国轩高科、格力等等都在其中。换句话说，大家手机屏幕背后的胶粘材料很可能就来自这家的工厂。 过去三年，这家公司的营收从近29亿元增长到超34亿元，净利润3亿多元。这个增速不算激进，但比较稳。IP",
+     "source": "虎嗅",
+     "zh": "小镇姐弟，没拿过VC，IPO了"
+    },
+    {
+     "title": "索泰推出 ZBOX C 系列 nano 无风扇 \"Wildcat Lake\" 迷你主机",
+     "link": "https://www.ithome.com/1/021/485.htm",
+     "pubDate": "Tue, 03 Nov 2026 03:55:59 GMT",
+     "summary": "IT之家 11 月 3 日消息，索泰 (ZOTAC) 现已正式推出基于英特尔 \"Wildcat Lake\" 的 ZBOX C 系列 nano 无风扇被动散热迷你主机。 其可选酷睿 3 处理器 304、酷睿 5 处理器 320、酷睿 7 处理器 350，型号分别为 ZBOX CI431 nano、ZBOX CI451 nano、ZBOX CI471 nano。 这批 ZBOX C 系列 nano 三维 204×129×68 (mm)， 体积 1.79L ；内置 1 个 DDR5-6400 CSO-DIMM 内存插槽、1 个 M.2 2280 (PCIe Gen4 ×4) NVMe SSD 盘位；",
+     "source": "IT之家",
+     "zh": "索泰推出 ZBOX C 系列 nano 无风扇 \"Wildcat Lake\" 迷你主机"
+    },
+    {
+     "title": "中国品牌出海，正在以“酷”弯道超车",
+     "link": "https://www.huxiu.com/article/4902538.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 11:54:13 +0800",
+     "summary": "本文来自微信公众号： Fast Company中文版 ，作者：Ivy Yang 喜茶与BLACKPINK成员Lisa把她熟悉的泰国芒果糯米饭变成一杯茶。去年夏天，Lisa在社交媒体分享了一杯喜茶抹茶饮品，粉丝认出了它，“Lisa同款”随即走红，也为之后的正式合作埋下伏笔。 在此之前，Lisa的带货能力是推动LABUBU和CRYBABY走红的重要力量。潮玩挂上她的路易威登手袋，茶饮出现在她的照片里，原本毫不相干的品类，忽然有了共同的文化意义，被同一种Lisa认可的价值观进入到大众认知里并被欣赏。这其中的共通点并不是“中国制造”，而是“酷”的定义。 如果只把这些联系看成明星带货，就错过了更有意思的",
+     "source": "虎嗅",
+     "zh": "中国品牌出海，正在以“酷”弯道超车"
+    },
+    {
+     "title": "难怪《尚公主》里的鱼公公这么嚣张，原来是鱼朝恩啊",
+     "link": "https://www.huxiu.com/article/4902528.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 11:52:49 +0800",
+     "summary": "本文来自微信公众号： 国家人文历史 ，作者：杨苓，编辑：胡心雅，主编：周斌，校对：王旭，题图来自：视觉中国 新剧《尚公主》热播，不少观众被剧中鱼公公的嚣张惊到。这个角色原型正是中唐大名鼎鼎的鱼朝恩，历史上，他是敢在朝堂之上干预国事的宦官。那么，鱼朝恩凭什么敢这么嚣张呢？ 这背后不是他一个人的狂妄，而是安史之乱前后，唐朝一套权力结构悄悄变了。 鱼公公形象。来源/影视剧《尚公主》 鱼朝恩与唐代的宦官制度 要探讨鱼朝恩的滔天权势，先要了解一下唐代的宦官制度。内侍省是唐代专门管理宦官的机构，设有内侍四人，内常侍六人。内侍省下设五局，掖廷局掌管宫人簿籍；宫闱局掌管宫内门禁；奚官局掌管宫人疾病死丧；内仆局",
+     "source": "虎嗅",
+     "zh": "难怪《尚公主》里的鱼公公这么嚣张，原来是鱼朝恩啊"
+    },
+    {
+     "title": "男子用 AI 破解 AI 平台接口：400 多万个账号薅积分、偷算力卖钱，被判刑 3 年缓刑 3 年",
+     "link": "https://www.ithome.com/1/021/484.htm",
+     "pubDate": "Tue, 03 Nov 2026 03:50:38 GMT",
+     "summary": "IT之家 11 月 3 日消息，据上海法治报 11 月 2 日报道，上海市首例利用 AI 伪造签名、盗用大模型算力案于近日宣判。 2025 年 12 月，有技术基础的宗某某自学调用 AI 平台 API 接口的“教程”后，动起了“薅羊毛”的念头。他盯上了一家人工智能企业运营的大模型聚合平台：用户登录后消耗积分，就能生成图片和视频，平台则要按次向上游模型厂商支付算力成本。 宗某某先用技术手段摸到了平台不对外开放的接口，随后自建了一个“中转网站”，对外低价售卖 AI 绘图、视频生成服务 —— 网站看起来是他的，实际后台使用的全是大模型聚合平台的付费算力，相当于把别人家的“电”偷偷接来卖钱。 此后平台",
+     "source": "IT之家",
+     "zh": "男子用 AI 破解 AI 平台接口：400 多万个账号薅积分、偷算力卖钱，被判刑 3 年缓刑 3 年"
+    },
+    {
+     "title": "秦朔对话魏尚进：一杯茶的失守，一杯咖啡的崛起",
+     "link": "https://www.huxiu.com/article/4902537.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 11:48:03 +0800",
+     "summary": "本文来自微信公众号： 复旦金融评论 ，作者：魏尚进 秦朔 ■受访者：魏尚进复旦大学国际金融学院学术访问教授、哥伦比亚大学终身讲席教授、亚洲开发银行前首席经济学家 产业的命运并不只由资源禀赋决定。旧的护城河会被攻破，但新的机会也会不断生长。 一杯茶，一杯咖啡，能装下多大的世界？ 在经济学家魏尚进看来，答案远超饮品本身。茶曾经是中国连接世界最重要的商品之一，却在19世纪经历了国际市场地位的急剧变化；咖啡则沿着另一条路线进入中国，从外来的生活方式，逐渐生长出云南产区、本土品牌，以及拥有万余家咖啡门店的上海。 茶与咖啡背后，是贸易、资本、技术、制度、品牌和消费方式的长期竞逐。更重要的是，历史并没有停在",
+     "source": "虎嗅",
+     "zh": "秦朔对话魏尚进：一杯茶的失守，一杯咖啡的崛起"
+    },
+    {
+     "title": "2块钱就能乐一下午，承包了一代人童年的2元店，被谁接了班？",
+     "link": "https://www.huxiu.com/article/4901763.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 11:46:41 +0800",
+     "summary": "2元店曾是90后一代的童年乐园，两块钱能买各种小玩意儿，追星女孩翻偶像贴纸，男孩拎着长虹剑挥舞一下午。可时代变了，物价飞涨，2元店却不能涨价，守着&ldquo;两元&rdquo;成了死规矩。电商和直播间来了，便宜货随手点，逛货堆的乐趣被购物软件取代。2元店没彻底消失，便宜那一派成了拼多多、社区团购，升级那一派变成名创优品，淘好物的乐趣只是换了个模样。",
+     "source": "虎嗅",
+     "zh": "2块钱就能乐一下午，承包了一代人童年的2元店，被谁接了班？"
+    },
+    {
+     "title": "机器人生意，造不如租",
+     "link": "https://www.huxiu.com/article/4902536.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 11:44:33 +0800",
+     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：谢泽锋，原文标题：《机器人生意，造不如租｜巨潮》 当机器人行业还在争论何时能真正落地时，下游却是另一种景象。 如今当一位求职者留言询问某家所谓“机器人公司”是否还在招聘测试岗时，他面对的可能并非智元、银河通用之类的机器人主机厂，更有可能的其实是那些负责商业化落地的公司。 他们的生意甚至比机器人主机厂火爆不少，这些“二开”企业熟知各品牌机器人的二次开发，也熟悉下游应用场景的各种需求，他们成为机器人产业链中相当重要的存在。 和生产端的踌躇不前不同，机器人下游呈现出了阶段性的“繁荣”景象。其中智元的投入颇为积极，不仅发起成立了机器人租赁赛道独",
+     "source": "虎嗅",
+     "zh": "机器人生意，造不如租"
+    },
+    {
+     "title": "商业航天大运力竞争时代，空天经济重组价值体系",
+     "link": "https://www.tmtpost.com/8190099.html",
+     "pubDate": "Tue, 03 Nov 2026 11:40:08 +0800",
+     "summary": "目前，力箭系列运载火箭已累计完成18次发射，将1艘飞船、139颗卫星送入太空，累计入轨载荷总重量超27吨。",
+     "source": "钛媒体",
+     "zh": "商业航天大运力竞争时代，空天经济重组价值体系"
+    },
+    {
      "title": "明确房东不得加收水电费、违者最高罚 5 倍金额，广州新规表决通过",
      "link": "https://www.ithome.com/1/021/483.htm",
      "pubDate": "Tue, 03 Nov 2026 03:38:22 GMT",
@@ -1714,60 +1802,20 @@ window.INDUSTRY_DATA = {
      "zh": "明确房东不得加收水电费、违者最高罚 5 倍金额，广州新规表决通过"
     },
     {
-     "title": "特努斯：全球内存涨价“前所未有”，苹果已竭尽所能消化成本",
-     "link": "https://www.ithome.com/1/021/482.htm",
-     "pubDate": "Tue, 03 Nov 2026 03:36:33 GMT",
-     "summary": "IT之家 11 月 3 日消息，在最新财报电话会议上，苹果首席执行官约翰 · 特努斯（John Ternus）当前内存价格上涨“前所未有”， 且预计 12 月季度成本还会更高，后续采购价格恐将继续上升。 IT之家援引博文介绍，在 2026 财年第四财季（2026 年 6 月 28 日～2026 年 9 月 26 日）财报电话会议上，特努斯表示相比较第三财季（2026 年 3 月 28 日 ~2026 年 6 月 27 日）， 第四财季的内存成本已经上升，只是部分被提前备货、库存结转以及部分非内存零部件降价所抵消。 对于 2027 财年第一财季（2026 年 9 月 27 日到 2026 年 1",
+     "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
+     "link": "https://www.keepingup.com/benchmarks/net-worth/age-30-33",
+     "pubDate": "Tue, 03 Nov 2026 03:28:26 +0000",
+     "summary": "Article URL: https://www.keepingup.com/benchmarks/net-worth/age-30-33 Comments URL: https://news.ycombinator.com/item?id=50347683 Points: 59 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)"
+    },
+    {
+     "title": "刷新半导体并购纪录：美满电子 Marvell 约 1150 亿美元全股票收购光通信巨头 Lumentum",
+     "link": "https://www.ithome.com/1/021/478.htm",
+     "pubDate": "Tue, 03 Nov 2026 03:28:09 GMT",
+     "summary": "IT之家 11 月 3 日消息，美国半导体公司美满电子（Marvell）昨日（11 月 2 日）发布公告，宣布以约 1,150 亿美元 （IT之家注：现汇率约合 7,665.2 亿元人民币） 全股票交易，收购光通信企业 Lumentum。 根据双方达成的最终协议，Lumentum 的隐含企业价值约为 1,150 亿美元 （现汇率约合 7,665.2 亿元人民币） ，相当于每股约 1,132 美元 （现汇率约合 7,545 元人民币） ，较交易传闻出现前（10 月 28 日）的股价溢价约 23.9%。 交易完成后，Marvell 现有股东预计持有合并后公司约 67% 的股份，Lumentum 股",
      "source": "IT之家",
-     "zh": "特努斯：全球内存涨价“前所未有”，苹果已竭尽所能消化成本"
-    },
-    {
-     "title": "消息称 Meta 拟通过跨境投资级债券发行筹集至少 200 亿美元",
-     "link": "https://www.ithome.com/1/021/481.htm",
-     "pubDate": "Tue, 03 Nov 2026 03:33:04 GMT",
-     "summary": "IT之家 11 月 3 日消息，彭博社当地时间 2 日报道称，Meta 正在考虑通过潜在的跨境投资级债券发行 筹集至少 200 亿美元 （IT之家注：现汇率约合 1,333.08 亿元人民币） 。 这将是 Meta 约半年以来首次大规模发行债券，该企业在今年 4 月通过债券筹集了 250 亿美元。 这也将是 Meta 首次发行欧元债券 。其计划发行 5~30 年期美元债券，欧元债券则从略超 4 年到略超 38 年不等。 Meta 在十月末宣布了总价值可达 975 亿美元的 重大股权融资计划 。 Alphabet 和 Oracle 近期也在进行大规模融资。",
-     "source": "IT之家",
-     "zh": "消息称 Meta 拟通过跨境投资级债券发行筹集至少 200 亿美元"
-    },
-    {
-     "title": "印度信实集团董事长安巴尼净资产升至 888 亿美元，超越字节跳动张一鸣重夺亚洲首富",
-     "link": "https://www.ithome.com/1/021/479.htm",
-     "pubDate": "Tue, 03 Nov 2026 03:30:40 GMT",
-     "summary": "IT之家 11 月 3 日消息，印度信实工业集团（Reliance Industries）董事长穆克什・安巴尼（Mukesh Ambani）于 11 月 2 日超越字节跳动联合创始人张一鸣，重新成为亚洲首富。 据《福布斯》当地时间 11 月 2 日公布的实时亿万富豪榜，安巴尼净资产升至 888 亿美元 （IT之家注：现汇率约合 5,918.87 亿元人民币） ，张一鸣身家约为 840 亿美元 （现汇率约合 5,598.93 亿元人民币） ，双方相差约 48 亿美元。 此次财富增长主要得益于信实工业股价大幅上涨。11 月 2 日，信实工业在孟买市场盘中涨幅一度接近 12%，市值单日增加超过 19",
-     "source": "IT之家",
-     "zh": "印度信实集团董事长安巴尼净资产升至 888 亿美元，超越字节跳动张一鸣重夺亚洲首富"
-    },
-    {
-     "title": "AI 制药公司“同构实验室”总裁贾德伯格大胆预测：未来所有药物都将由 AI 设计",
-     "link": "https://www.ithome.com/1/021/477.htm",
-     "pubDate": "Tue, 03 Nov 2026 03:28:04 GMT",
-     "summary": "IT之家 11 月 3 日消息，据彭博社报道，人工智能制药公司同构实验室总裁马克斯 · 贾德伯格相信， 未来所有药物都将由 AI 设计 ，区别只在于这一目标需要多久才能实现。“这一天肯定会到来。我毫不怀疑，未来所有药物都会由 AI 设计。我只是不希望大家被动等待，结果要过 20 年甚至 50 年才能实现。” 当地时间 2 日，贾德伯格在伦敦举行的彭博科技大会上介绍，实验室希望通过 AI 提高新药研发的速度和效率，目前仍处于临床前试验阶段，公司的发展也才刚刚起步。 今年 1 月，同构实验室 CEO 德米斯 · 哈萨比斯曾透露，公司计划年底前启动首批临床试验。 同构实验室由 Alphabet 旗下",
-     "source": "IT之家",
-     "zh": "AI 制药公司“同构实验室”总裁贾德伯格大胆预测：未来所有药物都将由 AI 设计"
-    },
-    {
-     "title": "高争民爆发股买矿，40.35元怎么定的",
-     "link": "https://www.huxiu.com/article/4902527.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 11:27:59 +0800",
-     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 停牌前买进高争民爆的投资者，在2026年11月2日等来了复牌一字涨停，收盘报56.98元。 但比对停牌公告和复牌预案，拟收购标的却从三家缩减到了两家：停牌时排在首位的西藏紫隆矿业股份有限公司51%股权，在复牌时消失了。 当天披露的重组预案及董事会决议中，「紫隆矿业」一次未现，公司对剔除原因未作解释。 留在方案里的只剩西藏紫源铜业有限公司51%股权和西藏晟源矿业有限责任公司100%股权。 高争民爆拟向控股股东西藏地质矿产集团有限公司（下称地矿集团）发股买下这两块资产，并向特定投资者询价发股募集配套资金。 交易构成关联交易，预计构成重大资产",
-     "source": "虎嗅",
-     "zh": "高争民爆发股买矿，40.35元怎么定的"
-    },
-    {
-     "title": "1581.8 亿美元！苹果 2027 财年最赚钱季度营收有望同比增 10%，刷新单季营收纪录",
-     "link": "https://www.ithome.com/1/021/476.htm",
-     "pubDate": "Tue, 03 Nov 2026 03:26:06 GMT",
-     "summary": "IT之家 11 月 3 日消息，在最新财报电话会议上，苹果首席财务官凯万 · 帕雷克（Kevan Parekh）预测 2027 财年（2026 年 9 月 27 日周日到 2027 年 9 月 25 日周六）第一财季（2026 年 9 月 27 日周日到 2026 年 12 月 26 日） 营收将达到 1,581.8 亿美元 （IT之家注：现汇率约合 1.05 万亿元人民币） ，同比增长 10%，刷新苹果单季营收纪录。 IT之家查询公开资料，目前苹果单季营收纪录 由 2026 财年第一财季（2025 年 9 月 28 日至 2025 年 12 月 27 日）创造 ，该财季营收为 1,437.5",
-     "source": "IT之家",
-     "zh": "1581.8 亿美元！苹果 2027 财年最赚钱季度营收有望同比增 10%，刷新单季营收纪录"
-    },
-    {
-     "title": "LABUBU退潮，泡泡玛特上岸",
-     "link": "https://www.huxiu.com/article/4902529.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 11:26:04 +0800",
-     "summary": "本文来自微信公众号： 谢璞笔记 ，作者：谢璞 2026年10月27日下午，港交所挂出一份不到两页的公告。 泡泡玛特（09992.HK）披露第三季度经营数据：集团整体收益同比下降45%至50%。美洲下降70%至75%，亚太下降65%至70%，欧洲及其他地区下降50%至55%，中国内地下降25%至30%。 十二个月之前，同一家公司公布的是一组方向完全相反的数字。 2025年第三季度，泡泡玛特整体收益同比增长245%至250%，中国内地增长185%至190%，海外增长365%至370%。首席运营官司德在后来的业绩电话会上承认，那是\"公司历史上销售最高的一个季度\"。 同一间公司，同一批管理层，同一只长",
-     "source": "虎嗅",
-     "zh": "LABUBU退潮，泡泡玛特上岸"
+     "zh": "刷新半导体并购纪录：美满电子 Marvell 约 1150 亿美元全股票收购光通信巨头 Lumentum"
     },
     {
      "title": "Sources: Huawei recently told some clients that a large share of its upcoming flagship, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
@@ -1776,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Information : Sources: Huawei recently told some clients that a large share of its upcoming flagship, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix &nbsp; &mdash;&nbsp; For an illustration of how porous U.S. restrictions on the shipment of AI chips to China can be, consider ",
      "source": "Techmeme",
      "zh": "Sources: Huawei recently told some clients that a large share of its upcoming flagship, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)"
-    },
-    {
-     "title": "为什么泡面要等3分钟？40个关于时间的反常识",
-     "link": "https://www.huxiu.com/article/4902518.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 11:23:13 +0800",
-     "summary": "本文来自微信公众号： warfalcon ，题图来自：视觉中国 今天出门办事，顺手从书柜上拿了一本书《无论如何都想告诉你的时间杂学》，作者：久我胜利。 书里没有一句&ldquo;时间管理&rdquo;，它只回答一个问题： 我们感受到的时间，到底是怎么回事。 先做两个小测试。 回想最近一次&ldquo;觉得时间过得特别慢&rdquo;&mdash;&mdash;多半是排队、候诊，或者等一个迟到的朋友。 再想想最近一次&ldquo;觉得时间过得特别快&rdquo;&mdash;&mdash;大概是打游戏、聊天，或者做一件喜欢的事。 表还是那块表，24 小时还是 24 小时，为什么感受能差这么多？ ",
-     "source": "虎嗅",
-     "zh": "为什么泡面要等3分钟？40个关于时间的反常识"
     },
     {
      "title": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
@@ -1802,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果单季赚了307亿美元，华尔街却不买特努斯的账"
     },
     {
-     "title": "爱马仕创2020年以来最慢单季：奢侈品股的估值溢价该重算了",
-     "link": "https://www.tmtpost.com/8191412.html",
-     "pubDate": "Tue, 03 Nov 2026 11:10:31 +0800",
-     "summary": "掌握定价权的人变了。",
-     "source": "钛媒体",
-     "zh": "爱马仕创2020年以来最慢单季：奢侈品股的估值溢价该重算了"
-    },
-    {
      "title": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)",
      "link": "https://www.techmeme.com/261102/p49#a261102p49",
      "pubDate": "Mon, 02 Nov 2026 22:10:00 -0500",
@@ -1818,26 +1850,10 @@ window.INDUSTRY_DATA = {
      "zh": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)"
     },
     {
-     "title": "市值重回天下第一后，苹果在5万亿关口迎来压力测试",
-     "link": "https://www.huxiu.com/article/4902520.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 11:01:42 +0800",
-     "summary": "本文来自微信公众号： Odaily ，作者：Azuma AI震荡的避风港，究竟能抵御多大的风浪？ 在硅谷科技巨头集体患上“AI资本开支焦虑症”的当下，苹果却以一种近乎古典的姿态，重新夺回了全球市值第一的王座。 与不断加码数据中心和算力基础设施的微软、谷歌、亚马逊等科技巨头不同，苹果始终维持着相对克制的资本开支，凭借着稳健的现金流，苹果在过去的这轮关于“AI是否见顶”的波动中成为了华尔街资金涌入的“避风港”，市值一举反超遭遇抛售的英伟达，一度站上5万亿美元。 如果以6月末的低点为基准计算，苹果股价在过去四个月内已累计上涨25%，市值净增约1万亿美元。然而，站在5万亿美元的巅峰，风景却与寒意并存—",
-     "source": "虎嗅",
-     "zh": "市值重回天下第一后，苹果在5万亿关口迎来压力测试"
-    },
-    {
-     "title": "“长沙胖东来”餐馆关门。餐饮老板对员工太好，有错么？",
-     "link": "https://www.huxiu.com/article/4901642.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 11:00:00 +0800",
-     "summary": "专招35岁以上、残障、就业困难群体，员工不仅包吃包住，还是单人间，五险一金、工资高同行几百块。结果，光买菜钱就超过营业收入，福利、人工、房租一叠加，账根本cover不住，给出去的善意要用利润兜底。胖东来的路，不能全盘照抄，福利照搬账却算不明，终究会被压垮。",
-     "source": "虎嗅",
-     "zh": "“长沙胖东来”餐馆关门。餐饮老板对员工太好，有错么？"
-    },
-    {
      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
      "link": "https://arxiv.org/abs/2608.25820",
      "pubDate": "Tue, 03 Nov 2026 02:58:44 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2608.25820 Comments URL: https://news.ycombinator.com/item?id=50347464 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://arxiv.org/abs/2608.25820 Comments URL: https://news.ycombinator.com/item?id=50347464 Points: 5 # Comments: 0",
      "source": "Hacker News",
      "zh": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities"
     },
@@ -1858,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "一箭18星，能让商业火箭赚钱吗？"
     },
     {
-     "title": "长城汽车被比亚迪和吉利彻底甩开",
-     "link": "https://www.huxiu.com/article/4902517.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 10:51:10 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，制图：界面新闻武凯，作者：武凯 今年前三季度，剧烈的市场波动让头部三家自主品牌的经营表现出现分化。比亚迪依旧保持着营收、利润与销量的领先，但增速放缓；吉利汽车实现了三项数据的同步提升；长城汽车增收不增利，前三季度净利润同比下滑过半，掉队明显。 比亚迪第三季度营收2214.88亿元，同比增长13.59%，推动前三季度营收增速回正。第三季度100.2亿元的净利润，也将其前三季度利润降幅收窄至4.24%。整体来看，比亚迪前三季度的的营收和利润规模与去年接近。 吉利汽车是三家自主汽车公司里，唯一实现营收、利润和销量同步上涨的公司。这家公司前三季度营收2725.64亿元",
-     "source": "虎嗅",
-     "zh": "长城汽车被比亚迪和吉利彻底甩开"
-    },
-    {
      "title": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
      "link": "https://www.tmtpost.com/8191236.html",
      "pubDate": "Tue, 03 Nov 2026 10:03:04 +0800",
@@ -1874,18 +1882,18 @@ window.INDUSTRY_DATA = {
      "zh": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster"
     },
     {
-     "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
+     "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
      "link": "https://hackertimes.ca/",
      "pubDate": "Tue, 03 Nov 2026 01:53:34 +0000",
-     "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 67 # Comments: 22",
+     "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 81 # Comments: 30",
      "source": "Hacker News",
-     "zh": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News"
+     "zh": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News"
     },
     {
      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
      "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
      "pubDate": "Tue, 03 Nov 2026 01:33:43 +0000",
-     "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 64 # Comments: 18",
+     "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 74 # Comments: 21",
      "source": "Hacker News",
      "zh": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs"
     },
@@ -1936,14 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed... I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster. A lot of it brand-new. If you know anybody at the club, please tell t",
      "source": "Hacker News",
      "zh": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?"
-    },
-    {
-     "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-     "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-     "pubDate": "Tue, 03 Nov 2026 00:08:53 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html Comments URL: https://news.ycombinator.com/item?id=50346153 Points: 117 # Comments: 80",
-     "source": "Hacker News",
-     "zh": "Intel stock collapse worsens as $3.5T chip rout spreads"
     }
    ]
   },
@@ -1953,14 +1953,6 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
-    {
-     "title": "Android gaming is having a renaissance",
-     "link": "https://9to5google.com/2026/11/02/android-gaming-is-having-a-renaissance/",
-     "pubDate": "Tue, 03 Nov 2026 03:33:40 +0000",
-     "summary": "Good morning! Today I’m mourning the loss of Patrick Stewart by rewatching First Contact , my favorite Trek movie; beginning a marathon listen of at least one great Star Trek podcast ; and replaying Elite Force and Armada , both wonderful Trek games released in 2000. Inbox is the tech newsletter tha",
-     "source": "9to5Google",
-     "zh": "Android gaming is having a renaissance"
-    },
     {
      "title": "Elon Musk's SpaceX may buy Boost Mobile to make Starlink into a full-fledged carrier",
      "link": "https://www.gsmarena.com/elon_musks_spacex_may_buy_boost_mobile_to_make_starlink_into_a_fullfledged_carrier-news-75317.php",
@@ -1976,6 +1968,14 @@ window.INDUSTRY_DATA = {
      "summary": "The U.S. Supreme Court has officially scheduled oral arguments in Apple’s appeal in its long-running legal battle with Epic Games. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "SCOTUS sets hearing date for Apple’s appeal in Epic Games case"
+    },
+    {
+     "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
+     "link": "https://sspai.com/post/118211",
+     "pubDate": "Tue, 03 Nov 2026 10:53:50 +0800",
+     "summary": "把喜欢的图烧进 CD 里，你也可以。 查看全文",
+     "source": "少数派",
+     "zh": "Disc Image Studio：你想不想在光盘上「画」点什么？"
     },
     {
      "title": "Galaxy S27 Ultra goes head-to-head with Pixel 11 Pro, iPhone 18 Pro, and S26 Ultra in new leak",
@@ -2202,6 +2202,134 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "John Hancock Preferred Income Fund III declares $0.11 dividend",
+     "link": "https://seekingalpha.com/news/4663092-john-hancock-preferred-income-fund-iii-declares-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 22:57:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "John Hancock Preferred Income Fund III declares $0.11 dividend"
+    },
+    {
+     "title": "John Hancock Preferred Income Fund declares $0.1235 dividend",
+     "link": "https://seekingalpha.com/news/4663091-john-hancock-preferred-income-fund-declares-0_1235-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 22:56:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "John Hancock Preferred Income Fund declares $0.1235 dividend"
+    },
+    {
+     "title": "John Hancock Preferred Income Fund II declares $0.1235 dividend",
+     "link": "https://seekingalpha.com/news/4663090-john-hancock-preferred-income-fund-ii-declares-0_1235-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 22:56:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "John Hancock Preferred Income Fund II declares $0.1235 dividend"
+    },
+    {
+     "title": "John Hancock Premium Dividend Fund declares $0.0883 dividend",
+     "link": "https://seekingalpha.com/news/4663089-john-hancock-premium-dividend-fund-declares-0_0883-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 22:56:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "John Hancock Premium Dividend Fund declares $0.0883 dividend"
+    },
+    {
+     "title": "43分41秒，宇树科技交出“机器狗爬泰山”成绩单",
+     "link": "http://finance.eastmoney.com/news/1354,202611033919982828.html",
+     "pubDate": "Tue, 03 Nov 2026 11:56:11 +0800",
+     "summary": "中经记者徐倩上海报道 泰山红门到中天门，3.9公里，3100多级石阶，600米高差，中间有连续石阶、陡坡弯道，一个体力不错的登山者走完这段千年盘道，大概需要一个半小时到两小时。 11月2日，在首届CMG世界 机器人 登泰山大赛上，宇树科技旗下北京灵翌科技队的A2机器狗，跑完这段路用了41分41秒，加上2分钟罚时，最终成绩43分41秒，拿下足式 机器人 竞速赛冠军。 此外，上海高羿科技队为宇树再添两银：宇树A2夺得足式 机器人 竞速赛亚军，宇树B2夺得足式 机器人 负重赛亚军。B2在万仙楼—斗母宫赛段有效负重66kg，含支架实际负重74kg，满载稳健登阶。 据悉，首届CMG世界 机器人 登泰山大",
+     "source": "东方财富股票",
+     "zh": "43分41秒，宇树科技交出“机器狗爬泰山”成绩单"
+    },
+    {
+     "title": "John Hancock Tax-Advantaged Dividend Income Fund declares $0.158 dividend",
+     "link": "https://seekingalpha.com/news/4663088-john-hancock-tax-advantaged-dividend-income-fund-declares-0_158-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 22:56:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "John Hancock Tax-Advantaged Dividend Income Fund declares $0.158 dividend"
+    },
+    {
+     "title": "报道：Marvell千亿吞并Lumentum，事前得到黄仁勋支持",
+     "link": "https://wallstreetcn.com/articles/3785055",
+     "pubDate": "Tue, 03 Nov 2026 11:55:38 +0800",
+     "summary": "在Marvell宣布收购光学器件厂商Lumentum之前，两家公司的掌门人曾就这笔交易征询英伟达CEO黄仁勋的意见。 据彭博11月3日报道，Marvell CEO Matthew Murphy与Lumentum CEO Michael Hurlston 在交易公布前曾与黄仁勋通电话，寻求其看法 。知情人士称，黄仁勋对这项交易表示支持。 英伟达已向两家公司各投资20亿美元 报道称，英伟达今年早些时候已分别向Marvell和Lumentum投资20亿美元。 这一背景使得英伟达对交易的态度受到市场关注。作为AI训练和推理芯片的主要供应商，英伟达正在推动更大规模AI数据中心的建设；而随着计算集群规模扩",
+     "source": "华尔街见闻",
+     "zh": "报道：Marvell千亿吞并Lumentum，事前得到黄仁勋支持"
+    },
+    {
+     "title": "李佳琦首次带货AI算力，半小时卖出2万亿Token",
+     "link": "http://finance.eastmoney.com/news/1355,202611033919982745.html",
+     "pubDate": "Tue, 03 Nov 2026 11:53:01 +0800",
+     "summary": "11月2日晚，有“口红一哥”之称的李佳琦在直播间首次上架了一件“看不见的商品”——Token（词元）。这也是他在主播直播间首次开卖AI算力商品。 据了解，仅半小时，直播间便售出近10万份千问办公个人会员月卡，累计对应约2万亿Token。 当晚， 阿里巴巴 集团副总裁、千问办公CEO陈宇森做客李佳琦直播间，带来一款售价1分钱的千问办公个人会员月卡。 直播现场，李佳琦问陈宇森：“能不能帮我做个AI分身，24小时陪女生们聊天？”陈宇森回答：“AI取代不了李佳琦。我更希望帮粉丝用AI解决琐事——到点下班、陪伴猫狗、照顾家人。” 两人还在直播间演示了AI Agent（智能助理）在办公、生活、 教育 等场",
+     "source": "东方财富股票",
+     "zh": "李佳琦首次带货AI算力，半小时卖出2万亿Token"
+    },
+    {
+     "title": "Stifel Financial Corp. 4.50% DEP PFD D declares $0.2812 dividend",
+     "link": "https://seekingalpha.com/news/4663087-stifel-financial-corp-4_50-percent-dep-pfd-d-declares-0_2812-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 22:52:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stifel Financial Corp. 4.50% DEP PFD D declares $0.2812 dividend"
+    },
+    {
+     "title": "澳洲联储如期加息至十八年来高位，但分歧表决折射前景不确定性",
+     "link": "https://wallstreetcn.com/articles/3785052",
+     "pubDate": "Tue, 03 Nov 2026 11:51:48 +0800",
+     "summary": "澳洲联储年内如期第五次加息，旨在压制因中东冲突引发的能源冲击与AI投资热潮双重驱动下的顽固通胀。 11月3日周二，澳洲联储（RBA）将基准利率 上调25个基点至4.85%，创2008年以来最高水平 。 此次决议并非全票通过，委员会六名成员投票支持加息，三名成员主张维持利率不变， 分歧程度较9月会议的一致通过明显扩大。 澳元应声走弱，据彭博报道，交易员此前还押注RBA可能释放进一步加息信号，但声明措辞令市场感到不确定。 加息背景：通胀压力超预期，多重因素交织 澳洲联储在声明中警告，通胀预计在未来一年将持续高于3%，通胀预期被\"固化\"的风险正在上升。 澳大利亚截至9月的年度通胀率升至4.3%，且通",
+     "source": "华尔街见闻",
+     "zh": "澳洲联储如期加息至十八年来高位，但分歧表决折射前景不确定性"
+    },
+    {
+     "title": "美团上线外卖商家“放心消费承诺”标识",
+     "link": "http://finance.eastmoney.com/news/1354,202611033919981695.html",
+     "pubDate": "Tue, 03 Nov 2026 11:51:32 +0800",
+     "summary": "11月3日，美团宣布，在市场监管总局指导下，即日起上线外卖商家“放心消费承诺”标识。功能上线后，用户在美团外卖App搜索栏输入“放心消费”，即可查找相关商家。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "美团上线外卖商家“放心消费承诺”标识"
+    },
+    {
+     "title": "共绩科技完成数亿元融资 宁德时代系资本等入股",
+     "link": "http://finance.eastmoney.com/news/1354,202611033919981793.html",
+     "pubDate": "Tue, 03 Nov 2026 11:49:53 +0800",
+     "summary": "近日，北京共绩科技有限公司完成数亿元新一轮融资，投资方包括中国互联网投资基金、 宁德时代 系宁波问鼎和溥泉资本、元禾璞华、 赛目科技 、德石投资、启恒共创等，春华 创投 等老股东继续加码。公司成立于2023年，主要提供分布式算力调度及弹性算力服务，本轮融资将用于核心技术迭代、产业生态扩张及商业化体系建设。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "共绩科技完成数亿元融资 宁德时代系资本等入股"
+    },
+    {
+     "title": "97亿营收、24亿净利、260亿对公增量：郑州银行三季报的三个数字与一条主线",
+     "link": "http://stock.eastmoney.com/news/11216,202611033919981911.html",
+     "pubDate": "Tue, 03 Nov 2026 11:49:39 +0800",
+     "summary": "近日， 郑州银行 （002936.SZ）发布了2026年三季度报告。2026年前三季度该行实现营业收入97.01亿元，归属于本行股东的净利润23.98亿元，同比分别增长3.26%、5.21%，盈利水平创下近年同期最好成绩。 截至2026年三季度末， 郑州银行 资产总额达7829.12亿元，较上年末增长5.28%。从资产端看，发放贷款及垫款本金总额4235.10亿元，较上年末增长3.23%；其中公司贷款3060.49亿元，增长9.11%，个人贷款934.45亿元，下降3.68%，票据贴现240.16亿元，下降26.67%。负债端，吸收存款本金总额5065.46亿元，较上年末增长9.39%；其中个",
+     "source": "东方财富股票",
+     "zh": "97亿营收、24亿净利、260亿对公增量：郑州银行三季报的三个数字与一条主线"
+    },
+    {
+     "title": "“宁王”4连阳！固态电池多股涨停 融资客最新抢筹股曝光",
+     "link": "http://finance.eastmoney.com/news/11139,202611033919981586.html",
+     "pubDate": "Tue, 03 Nov 2026 11:49:33 +0800",
+     "summary": "固态电池 板块11月3日早盘表现强势，其中 尚水智能 、 盟固利 、 丰元股份 、 圣阳股份 、 中欣氟材 、 龙蟠科技 涨停； 力王股份 、 武汉蓝电 涨超10%。此外， 电池 龙头 宁德时代 早盘上涨4.16%，日K线已4连阳。 固态电池 密集中试 综合 市场观点来看， 固态电池 的强势，在于其规模化应用的日益临近。 西南证券 指出，全球 新能源 汽车 销量与动力 电池 需求进入TWh级别放量阶段，对续航、安全、快充的 综合 要求显著抬升。液态 锂 电性能已到“天花板”，固态 电池 凭借在能量密度、安全性与寿命上的优势，成为下一代电池的体系升级方案。 从产业节奏来看，当前时间线已相对明确。",
+     "source": "东方财富股票",
+     "zh": "“宁王”4连阳！固态电池多股涨停 融资客最新抢筹股曝光"
+    },
+    {
+     "title": "高盛大幅上调油价预测：地缘风险溢价将持续主导原油走势",
+     "link": "https://wallstreetcn.com/articles/3785053",
+     "pubDate": "Tue, 03 Nov 2026 11:49:30 +0800",
+     "summary": "高盛警告，中东供应中断的持续威胁将使原油市场的地缘政治风险溢价长期维持高位，并据此大幅上调了布伦特原油及WTI原油的价格预测。 高盛石油研究主管Daan Struyven在周日的报告中， 将布伦特原油12月目标价从每桶90美元上调至105美元，WTI目标价则从81美元上调至94美元。 展望2027年，他预计布伦特原油均价将达约88美元（此前预测为80美元），WTI均价约78美元（此前预测为73美元）。 Struyven指出，10月份国际油价的大幅上涨，主要由约27美元的风险溢价跳升所驱动，而非基本面供需格局的实质变化——全球可见库存在9月和10月基本持平，显示供需整体保持平衡。 他同时强调，鉴",
+     "source": "华尔街见闻",
+     "zh": "高盛大幅上调油价预测：地缘风险溢价将持续主导原油走势"
+    },
+    {
+     "title": "创业板一哥大涨 整条产业链被“带飞” 发生了什么？",
+     "link": "http://finance.eastmoney.com/news/11822,202611033919981364.html",
+     "pubDate": "Tue, 03 Nov 2026 11:47:31 +0800",
+     "summary": "11月3日早盘， 宁德时代 A股高开高走， 涨幅一度扩大至5.5% ，较10月下旬低点反弹约17%；其H股在昨日大涨6%之后，今日早盘继续上涨近2%。 与此同时， 电池 板块同步震荡走高， 尚水智能 、 盟固利 20cm封板， 野马电池 、 圣阳股份 、 时代万恒 、 紫竹高科 等强势涨停， 领湃科技 、 力王股份 、 博力威 、 万润新能 等多股集体拉升。 多重催化因素共振 就 宁德时代 而言，持续大额注销式回购，或许是公司股价触底反弹的一大催化因素。 昨日晚间， 宁德时代 披露200亿至400亿元回购方案的最新进展，截至10月底，公司累计回购A股股份1960.6万股，成交总金额为 53.6",
+     "source": "东方财富资讯",
+     "zh": "创业板一哥大涨 整条产业链被“带飞” 发生了什么？"
+    },
+    {
      "title": "Australia hikes rates to 18-year high to fight inflation",
      "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
      "pubDate": "Tue, 03 Nov 2026 03:46:20 GMT",
@@ -2210,28 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Australia hikes rates to 18-year high to fight inflation"
     },
     {
-     "title": "Toromont declares CAD 0.56 dividend",
-     "link": "https://seekingalpha.com/news/4663081-toromont-declares-cad-0_56-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:43:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Toromont declares CAD 0.56 dividend"
-    },
-    {
-     "title": "Watts Water Technologies declares $0.63 dividend",
-     "link": "https://seekingalpha.com/news/4663080-watts-water-technologies-declares-0_63-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:43:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Watts Water Technologies declares $0.63 dividend"
-    },
-    {
-     "title": "Midland States Bancorp, Inc. 7.75% DEP SHS REP 1/40TH PERP PFD SER A declares $0.4844 dividend",
-     "link": "https://seekingalpha.com/news/4663079-midland-states-bancorp-inc-7_75-percent-dep-shs-rep-1-40th-perp-pfd-ser-a-declares-0_4844?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:42:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Midland States Bancorp, Inc. 7.75% DEP SHS REP 1/40TH PERP PFD SER A declares $0.4844 dividend"
+     "title": "巨头成本狂降！短剧爆涨停潮 内外利好共振(附股)",
+     "link": "http://finance.eastmoney.com/news/11139,202611033919981187.html",
+     "pubDate": "Tue, 03 Nov 2026 11:45:59 +0800",
+     "summary": "周二(11月3日)短剧游戏概念大涨，截至午间收盘， 华智数媒 20CM涨停， 电魂网络 、 掌阅科技 等多股涨停。 短剧出海大催化 消息面上，据央视财经报道，目前国内已有约10家中国企业建立海外短剧平台，另有十余个出海短剧App上线了AI漫剧专属频道。海外市场AI漫剧活跃用户已整体突破1.5亿， 海外短剧付费应用前十名中，中国厂商独占九席 。 第三方机构DataEye数据显示，2026年1-9月，海外微短剧APP下载量TOP20榜单中， 昆仑万维 旗下FreeReels登顶榜首， 下载量超2.3亿次 ；枫叶互动旗下的ReelShort第二，下载量超1.9亿次；麦芽旗下NetShort跻身第三，",
+     "source": "东方财富资讯",
+     "zh": "巨头成本狂降！短剧爆涨停潮 内外利好共振(附股)"
     },
     {
      "title": "国家数据局：将加快制定全国一体化数据市场顶层文件",
@@ -2242,84 +2354,20 @@ window.INDUSTRY_DATA = {
      "zh": "国家数据局：将加快制定全国一体化数据市场顶层文件"
     },
     {
-     "title": "Paycom declares $0.375 dividend",
-     "link": "https://seekingalpha.com/news/4663078-paycom-declares-0_375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:40:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Paycom declares $0.375 dividend"
-    },
-    {
-     "title": "Midland States Bancorp declares $0.33 dividend",
-     "link": "https://seekingalpha.com/news/4663077-midland-states-bancorp-declares-0_33-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:39:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Midland States Bancorp declares $0.33 dividend"
-    },
-    {
-     "title": "马斯克据称将与台积电重新谈判 Terafab项目主导权之争再现变数",
-     "link": "http://finance.eastmoney.com/news/1354,202611033919976860.html",
-     "pubDate": "Tue, 03 Nov 2026 11:39:21 +0800",
-     "summary": "据供应链消息人士透露，马斯克在Terafab与 台积电 合作的问题上立场有所软化，双方正准备重新谈判，这可能给 台积电 在Terafab项目上更多的控制权。 此前，马斯克曾在X上公开表示， 特斯拉 和 SpaceX 将独立运营Terafab项目， 台积电 最多只会 租赁 该厂的部分场地。 台积电首席执行官魏哲家则在最近一次财报电话会议上表示，公司正在与马斯克进行洽谈，并且任何合作要达成，台积电都必须负责工厂的运营。 最新消息意味着马斯克正在重新考虑自己在Terafab项目中的定位，并可能让台积电在建设和运营方面发挥更大的作用。消息称，台积电可能将承担晶圆厂建设和运营的主要责任，股权所有权和投资",
-     "source": "东方财富股票",
-     "zh": "马斯克据称将与台积电重新谈判 Terafab项目主导权之争再现变数"
-    },
-    {
-     "title": "Stifel Financial declares $0.34 dividend",
-     "link": "https://seekingalpha.com/news/4663076-stifel-financial-declares-0_34-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:39:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stifel Financial declares $0.34 dividend"
-    },
-    {
-     "title": "市场同时存在两个截然相反的熊市逻辑：“算力不足与算力过剩”",
+     "title": "左右打脸！“电力不足” vs“算力过剩” ，结果都是“卖AI”",
      "link": "https://wallstreetcn.com/articles/3785050",
      "pubDate": "Tue, 03 Nov 2026 11:37:50 +0800",
      "summary": "美股超大规模云厂商刚刚交出连续第六个季度加速增长的成绩单，英特尔却经历了半个世纪来最惨烈的单日暴跌（-29%）。夹在中间的对冲基金，整个10月都在抛售一切带“AI”字样的标的。 市场究竟在怕什么？高盛EMEA Delta One交易主管Rich Privorotsky在周一早间的周报中表示， 没人真正知道该担心什么。 他写道： 关于AI的大辩论正在变得有些循环。 一半市场认为，我们根本不可能建造足够多的电力和数据中心来支撑2027年的资本开支计划，因此'铲子和镐头'类股的增长必然见顶，估值倍数将被压缩。 另一半市场则认为，我们即将大规模过度生产算力，这将摧毁租赁经济学，同样要求更低的估值倍数。",
      "source": "华尔街见闻",
-     "zh": "市场同时存在两个截然相反的熊市逻辑：“算力不足与算力过剩”"
-    },
-    {
-     "title": "中央气象台：北方利于冬小麦播种，南方部分地区警惕湿渍害",
-     "link": "http://finance.eastmoney.com/news/1348,202611033919978063.html",
-     "pubDate": "Tue, 03 Nov 2026 11:36:56 +0800",
-     "summary": "今天上午，中国气象局举办新闻发布会。中央气象台预计，11月北方大部气温偏高、冬麦区大部降水偏多，利于冬小麦播种出苗和冬前生长；南方大部气温偏高、降水偏多，不利秋收扫尾，部分地区需防范农田湿渍害。 预计11月，东北地区大部气温正常或略偏低，降水接近常年，对粮食收晒和储运有利。江淮南部、江汉东南部、江南北部等地降水偏多五到八成，不利于秋收扫尾，部分地区可能土壤过湿，易导致冬小麦播种、油菜播栽缓慢；华南南部气温偏高、降水偏少，利于晚稻收获晾晒；西南地区西部气温偏高，降水偏少，农业干旱风险较高，对冬小麦播种出苗和油菜播栽不利。 建议北方农区抓住晴好天气加快秋粮收晒、适时播种冬小麦，已播地区做好田间管理",
-     "source": "东方财富股票",
-     "zh": "中央气象台：北方利于冬小麦播种，南方部分地区警惕湿渍害"
-    },
-    {
-     "title": "泡泡玛特20亿港元回购难挽跌势 是“价值托底”还是“被动接盘”？",
-     "link": "http://hk.eastmoney.com/news/1797,202611033919977479.html",
-     "pubDate": "Tue, 03 Nov 2026 11:35:35 +0800",
-     "summary": "伴随2026年第三季度运营数据的披露， 泡泡玛特 (09992.HK)股价承压加剧，年内累计跌幅已超25%。值得注意的是，公司年内实施了多轮股份回购，其累计耗资总计20.08亿港元。 受去年同期爆发式高基数消退以及部分区域渠道去化节奏影响，公告次日公司股价低开6.06%，盘中触及123.8港元的52周新低。在经历了由爆款IP带动的超常增长周期后，市场正从“享受爆发红利”转向“审视内生增长韧性”。 据公司公告，2026年第三季度， 泡泡玛特 整体收益同比下降45%-50%，呈现出公司上市以来最为陡峭的单季下滑。对比2025年同期全线翻倍甚至十倍的激增态势，本季度各核心区域市场均出现由正转负的剧烈",
-     "source": "东方财富股票",
-     "zh": "泡泡玛特20亿港元回购难挽跌势 是“价值托底”还是“被动接盘”？"
-    },
-    {
-     "title": "A股午评：创业板指半日跌0.94%，CPO、半导体、电子化学品等概念走弱",
-     "link": "http://stock.eastmoney.com/news/1407,202611033919977294.html",
-     "pubDate": "Tue, 03 Nov 2026 11:34:17 +0800",
-     "summary": "11月3日，A股三大指数早盘集体下跌，截至午间收盘，上证指数跌0.71%，深证成指跌0.16%，创业板指跌0.94%；北证50跌1.9%。沪深两市成交额约9925.88亿元，较前一个交易日缩量约1474.75亿元。截至午盘，全市场3303只股票上涨、2135只股票下跌，其中55只涨停、4只跌停。 板块方面，中船系、 电池 、水产、影视 院线 、 能源金属 、 贵金属 等行业以及概念涨幅居前；CPO、AMD、物理AI、 半导体 、 电子 化学品、 电子 等行业以及概念跌幅居前。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "A股午评：创业板指半日跌0.94%，CPO、半导体、电子化学品等概念走弱"
+     "zh": "左右打脸！“电力不足” vs“算力过剩” ，结果都是“卖AI”"
     },
     {
      "title": "固态电池量产临界点渐近！赛道景气向好 多只概念股业绩有望高增长(名单)",
      "link": "http://finance.eastmoney.com/news/11822,202611033919977179.html",
      "pubDate": "Tue, 03 Nov 2026 11:34:08 +0800",
      "summary": "固态电池 产业事件密集落地，量产临界点渐行渐近。机构认为，2027年有望成为国内 固态电池 量产元年。 东风、奇瑞接连释放 固态电池 新进展 近日，东风 汽车 全新一代固态 电池 临近量产装车，能量密度达350Wh/kg，配套车型续航有望超1000公里，-30℃环境下可正常工作，已建成固态 电池 全产业链。 奇瑞汽车 发力犀牛S全固态 电池 ，目标电芯能量密度600Wh/kg，计划2027年装车验证，并组建千人研发团队、投入百亿研发资金。 产业链上游亦传来新动向。全固态电池关键原材料硫化 锂 生产商四川全固态 新材料 有限公司近日完成数千万元A轮融资，本轮融资由红榕资本、明势 创投 领投，资金",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "固态电池量产临界点渐近！赛道景气向好 多只概念股业绩有望高增长(名单)"
-    },
-    {
-     "title": "中信证券党委书记、董事长邹迎光：公司处于打造一流投行和一流投资机构的关键时期",
-     "link": "http://finance.eastmoney.com/news/1354,202611033919977663.html",
-     "pubDate": "Tue, 03 Nov 2026 11:34:00 +0800",
-     "summary": "今日， 中信证券 2027年资本市场策略会在武汉举行，本次策略会主题是“融光聚存向新而行”。 中信证券 党委书记、董事长邹迎光首次公开亮相。他称， 中信证券 正处在第四个十年的起步阶段，也处于打造一流投行和一流投资机构的关键时期。将锚定金融强国建设目标，始终沿着既定战略方向前进，通过“提质效、强竞争、拓国际”三大核心举措，不断巩固市场优势，努力建设成为全球客户最为信赖的国内领先、国际一流的中国投资 银行 。 一是坚持提升质效，深化功能发挥，提升 综合 金融服务效能。精准聚焦机构客户、企业客户的 综合 服务需求，围绕资本市场的广度和深度，不断拓展构建一体化的 综合 金融服务体系。二是不断强化竞争",
-     "source": "东方财富股票",
-     "zh": "中信证券党委书记、董事长邹迎光：公司处于打造一流投行和一流投资机构的关键时期"
     },
     {
      "title": "沪指下跌0.71% 电池板块走强 科技股跌幅居前",
@@ -2330,6 +2378,14 @@ window.INDUSTRY_DATA = {
      "zh": "沪指下跌0.71% 电池板块走强 科技股跌幅居前"
     },
     {
+     "title": "科技股抛售潮蔓延，韩股指跌超3%，油气、芯片板块领跌，三星一度跌5%",
+     "link": "https://wallstreetcn.com/articles/3785045",
+     "pubDate": "Tue, 03 Nov 2026 11:29:51 +0800",
+     "summary": "苹果业绩前景令人失望，叠加隔夜美股芯片股疲软，亚太股市周二普遍承压下行。原油价格在地缘政治紧张局势缓和背景下大幅回落，美元和美债市场则相对平稳。 周二亚洲早盘，MSCI亚太指数下跌0.6%，MSCI亚洲新兴市场下挫超1%。韩股指均下挫超3%，半导体硬件供应链、新能源电池材料及炼油板块出现集体深度回调。 债市方面，澳大利亚10年期国债收益率上行1个基点至5.14%。此前，市场普遍预期澳洲联储将在利率决议中加息25个基点，将现金利率上调至4.85%的18年高位，投资者将密切关注澳洲联储行长Michele Bullock的新闻发布会表态，以研判后续政策路径。 投资者目光正转向即将举行的美国中期选举，",
+     "source": "华尔街见闻",
+     "zh": "科技股抛售潮蔓延，韩股指跌超3%，油气、芯片板块领跌，三星一度跌5%"
+    },
+    {
      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
      "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
      "pubDate": "Tue, 03 Nov 2026 03:27:18 GMT",
@@ -2338,36 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "North Korea denies links to Binance hack as researchers trace stolen billions"
     },
     {
-     "title": "美国中期选举四类结局剖析：市场会如何走？",
-     "link": "http://global.eastmoney.com/news/1959,202611033919933127.html",
-     "pubDate": "Tue, 03 Nov 2026 11:24:25 +0800",
-     "summary": "美国中期选举终于将在今日拉开帷幕。 摩根大通 在本周发布的最新研报中表示，选举后美股大概率将迎来上涨。这家华尔街最大投行通过数据测算，分析了本轮中期选举后最可能出现的政局走向及其对股市的潜在短期影响。 事实上，历史经验表明，无论是中期选举还是总统大选，通常都会提振股市，近期的多项分析也印证了这一点。不过，“蓝色浪潮”、共和党保住两院控制权或国会分裂等不同结果，对股市的影响也不尽相同。 以下是小摩罗列的此次中期选举可能出现的几类潜在情景和美股对应走势： 蓝色浪潮(民主党横扫参众两院)：发生概率为66%，标普500指数预计将下跌0.25%至上涨0.50%。 分裂国会(民主党掌控众议院，共和党掌控参",
-     "source": "东方财富资讯",
-     "zh": "美国中期选举四类结局剖析：市场会如何走？"
-    },
-    {
-     "title": "AI自我演进恐成现实？Anthropic招股书“埋暗雷”：已接近RSI模型！",
-     "link": "http://finance.eastmoney.com/news/1354,202611033919944547.html",
-     "pubDate": "Tue, 03 Nov 2026 11:23:46 +0800",
-     "summary": "虽然市场的注意力大多集中在Anthropic最新修订后的S-1A文件中披露的财务数据上（收入飙升，但支出也同样飙升），但这家 人工智能 实验室在细则中又抛出了一颗小炸弹—— 公司已经非常接近做出具备RSI能力的模型。 递归自我改进（RSI），是指 人工智能 系统以自身改进结果作为输入，不断优化自身能力并修改自身架构，形成自我改进闭环的过程，被视为实现通用 人工智能 （AGI）的关键路径。简单来说，就是AI系统能够在无人干预的情况下设计和开发其后续版本。 尽管RSI目前尚未实现，但随着人工智能系统在互联网上变得越来越复杂和普遍，基础模型构建者可能会失去对底层技术的控制，或者未能考虑到潜在的意外后",
-     "source": "东方财富资讯",
-     "zh": "AI自我演进恐成现实？Anthropic招股书“埋暗雷”：已接近RSI模型！"
-    },
-    {
-     "title": "苹果财报会实录：新CEO首秀交出亮眼答卷 但内存涨价成最大桎梏",
-     "link": "http://stock.eastmoney.com/news/11228,202611033919976186.html",
-     "pubDate": "Tue, 03 Nov 2026 11:22:43 +0800",
-     "summary": "在新品密集发布、AI 功能落地的背景下， 苹果 新任CEO约翰·特努斯交出了上任后的首份成绩单：2026 财年第四财季 苹果 营收、利润双双创下同期新高，折叠机型 iPhone Duo 市场反响热烈。 值得一提的是，这是 苹果 新任CEO约翰·特纳斯自9月1日接替蒂姆·库克履职以来，参加的首次财报电话会。在财报电话会上，特纳斯等高管多次提及，行业 存储芯片 价格上行成为核心限制因素，压制了公司下一季度毛利率前景，叠加AI相关云成本投入，给公司后续盈利前景带来不确定性。 此外，公司供应链、Siri AI 商业化路径也成为本次电话会市场最关注的焦点。 一、核心财务数据 1. 第四财季营收 1145",
-     "source": "东方财富资讯",
-     "zh": "苹果财报会实录：新CEO首秀交出亮眼答卷 但内存涨价成最大桎梏"
-    },
-    {
-     "title": "\"暂时安全、随时崩溃\"！德银最新警告：全球市场正处于五大“危险错位”",
-     "link": "https://wallstreetcn.com/articles/3785040",
-     "pubDate": "Tue, 03 Nov 2026 11:15:35 +0800",
-     "summary": "全球市场正停留在一个极窄的着陆区：风险表面上仍被隔离，但油价、通胀、利率、债市与股市之间的定价错位正在扩大，任何增长路径偏离都可能触发跨资产重估。 据追风交易台，在11月2日发布的报告中，德银指出，10月压力信号已经增多。上周五S&P 500指数收于六周低点，美国和欧洲债券利差在10月走阔，美国两年期国债收益率录得逾一年最大月度降幅，收益率走势已接近避险模式。 德银宏观策略师Henry Allen认为，当前组合需要非常窄的落点：股市仍相对坚挺，债市压力更清晰，油价高企，市场只计入有限货币紧缩，长期通胀预期却保持受控。增长走弱会让股市难以继续免受债市压力冲击，增长更具韧性则会推高收益率，并增加更",
+     "title": "“招商名片”变“选举雷区”，“数据中心暂停令”席卷美国20州，公用事业股面临重估",
+     "link": "https://wallstreetcn.com/articles/3785048",
+     "pubDate": "Tue, 03 Nov 2026 11:22:03 +0800",
+     "summary": "数据中心正在从美国各州的招商名片，转化为2026年中期选举中的高敏感议题。AI用电需求、居民电费压力与地方审批权交汇，公用事业股的估值逻辑随之进入重估阶段。 据美银公用事业团队报告， 在周二投票的36场州长选举中，已有20场出现数据中心暂停或禁令提案，范围覆盖得克萨斯、佐治亚、俄亥俄等关键负荷增长州。 美银认为，市场影响的核心在于监管任命、超大负荷接入规则，以及竞选承诺在州议会、法律框架和公用事业委员会面前的落地空间。 这场冲击已经超出单一党派叙事。得克萨斯州长Abbott过去曾将该州定位为AI发展中心，如今已推动审计、暂停乃至冻结数据中心许可。俄亥俄州两党候选人均提出某种形式的暂停主张，佐治",
      "source": "华尔街见闻",
-     "zh": "\"暂时安全、随时崩溃\"！德银最新警告：全球市场正处于五大“危险错位”"
+     "zh": "“招商名片”变“选举雷区”，“数据中心暂停令”席卷美国20州，公用事业股面临重估"
     },
     {
      "title": "U.S. reportedly strikes Iran&apos;s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
@@ -2376,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
      "source": "CNBC",
      "zh": "U.S. reportedly strikes Iran&apos;s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran"
-    },
-    {
-     "title": "从“为AI供电”到“为万物供电”！大摩：电力 “超级周期”被市场低估了",
-     "link": "https://wallstreetcn.com/articles/3785043",
-     "pubDate": "Tue, 03 Nov 2026 10:48:31 +0800",
-     "summary": "电气化的剧变已经脱离了单纯的AI叙事，一场高达 5000亿美元 的财富创造盛宴正在全球电力市场中加速发酵，而华尔街的定价模型却普遍落后于现实。那些拥有可靠基荷电力、掌握核心电网节点的企业，正在迎来自上世纪工业化以来最强劲的现金流超级周期。 据追风交易台消息，摩根士丹利（Morgan Stanley）全球公用事业团队在11月2日的最新研报中发出了明确信号：全球电力紧张局势将大幅超出预期。电气化“超级周期”的下一波主升浪，已经从单一的“为AI供电”全面升级为“为万物供电”。 摩根士丹利Mayank Maheshwari、Stephen C Byrd等分析师在最新报告中指出， 电力“超级周期”的驱动",
-     "source": "华尔街见闻",
-     "zh": "从“为AI供电”到“为万物供电”！大摩：电力 “超级周期”被市场低估了"
     },
     {
      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
@@ -2416,30 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "用心理学视角去看看心理学从业者是不是真如大家所说的“医者不自医”，是不是失去了它在人格成长上的助益之用。",
      "source": "经济观察网",
      "zh": "心理观察｜从心理学角度看\"武李之争\""
-    },
-    {
-     "title": "岚图汽车董事长卢放升任东风集团副总经理",
-     "link": "http://www.eeo.com.cn/2026/1103/1082528.shtml",
-     "pubDate": "Tue, 03 Nov 2026 10:33:27 +0800",
-     "summary": "此次卢放升职，及吴碧磊出任董事、党委副书记，补齐了东风集团领导班子的职务空缺。",
-     "source": "经济观察网",
-     "zh": "岚图汽车董事长卢放升任东风集团副总经理"
-    },
-    {
-     "title": "张柱会见印度尼西亚农业部长苏莱曼",
-     "link": "http://www.eeo.com.cn/2026/1103/1082525.shtml",
-     "pubDate": "Tue, 03 Nov 2026 10:31:47 +0800",
-     "summary": "农业农村部部长张柱在京会见印度尼西亚农业部部长苏莱曼，就深化两国农业合作进行深入交流。",
-     "source": "经济观察网",
-     "zh": "张柱会见印度尼西亚农业部长苏莱曼"
-    },
-    {
-     "title": "英特尔股价单月暴跌45%，PC仍占公司约一半营收、代工客户信心动摇",
-     "link": "https://wallstreetcn.com/articles/3785037",
-     "pubDate": "Tue, 03 Nov 2026 10:21:52 +0800",
-     "summary": "10月最后一个交易日，英特尔股价单日崩跌29%，创下1970年代以来最惨烈的单日表现。整个10月，股价累计下滑45%——据FactSet数据，这是英特尔有史以来最差的单月表现。进入11月首个交易日，股价再跌8%。 导火索是一份令华尔街失望的业绩预警。英特尔警告，本季度营收将比分析师预期低10亿至20亿美元。原因直指PC市场：内存及其他零部件成本居高不下，消费者越来越不愿意升级电脑。而PC业务目前仍贡献英特尔约一半的营收，这一软肋被彻底暴露。 就在几个月前，英特尔还是市场的宠儿。2025年8月，美国政府入股英特尔10%；随后英伟达跟进，斥资50亿美元投资。受此提振，英特尔股价在10个月内飙升六倍",
-     "source": "华尔街见闻",
-     "zh": "英特尔股价单月暴跌45%，PC仍占公司约一半营收、代工客户信心动摇"
     }
    ]
   },

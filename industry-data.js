@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/3 12:12:12",
+ "generated_at": "2026/11/3 12:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
      "source": "TechCrunch AI",
      "zh": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses"
+    },
+    {
+     "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+     "link": "https://www.qbitai.com/2026/11/507367.html",
+     "pubDate": "Tue, 03 Nov 2026 03:16:23 +0000",
+     "summary": "GPU迭代一百次的事，它一步做完",
+     "source": "量子位",
+     "zh": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义"
     },
     {
      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
      "source": "量子位",
      "zh": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信"
-    },
-    {
-     "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
-     "link": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
-     "pubDate": "Mon, 02 Nov 2026 07:47:12 +0000",
-     "summary": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API. The post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared ",
-     "source": "MarkTechPost",
-     "zh": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL"
     }
    ]
   },
@@ -962,14 +962,6 @@ window.INDUSTRY_DATA = {
      "zh": "Mitsubishi Electric seeks to expand North American grid foothold"
     },
     {
-     "title": "Dominion sees $137M net income boost from rate increase",
-     "link": "https://www.utilitydive.com/news/dominion-sees-137m-net-income-boost-from-rate-increase/873458/",
-     "pubDate": "Mon, 02 Nov 2026 11:01:02 -0500",
-     "summary": "Chairman, President and CEO Bob Blue said during a third-quarter earnings call that the company &ldquo;benefited from better-than-budgeted sales, better-than-normal weather&rdquo; and &ldquo;strong overall financial and operational execution.&rdquo;",
-     "source": "Utility Dive",
-     "zh": "Dominion sees $137M net income boost from rate increase"
-    },
-    {
      "title": "Equator Renewables Asia unveils 250 kW containerized PV system",
      "link": "https://www.pv-magazine.com/2026/11/02/equator-renewables-asia-unveils-250-kw-containerized-pv-system/",
      "pubDate": "Mon, 02 Nov 2026 15:31:44 +0000",
@@ -1040,6 +1032,14 @@ window.INDUSTRY_DATA = {
      "summary": "A Japanese government study group is weighing rules that would bring almost all conventional solar panels under a new recycling law, while leaving perovskite and flexible modules out for now. The post Japan proposes 50-metric-ton trigger for solar panel recycling plans appeared first on pv magazine ",
      "source": "pv magazine",
      "zh": "Japan proposes 50-metric-ton trigger for solar panel recycling plans"
+    },
+    {
+     "title": "Trump bulk power equipment ban sparks industry pushback: ‘Let’s not reinvent the wheel’",
+     "link": "https://www.energy-storage.news/trump-bulk-power-equipment-ban-sparks-industry-pushback-lets-not-reinvent-the-wheel/",
+     "pubDate": "Mon, 02 Nov 2026 12:42:19 +0000",
+     "summary": "US President Donald Trump’s 26 August emergency executive order banning imports of certain foreign-made power equipment has prompted widespread public comment and private concern across the energy storage industry.",
+     "source": "Energy Storage News",
+     "zh": "Trump bulk power equipment ban sparks industry pushback: ‘Let’s not reinvent the wheel’"
     }
    ]
   },
@@ -1706,6 +1706,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "数百账号批量“呼吁下架外卖”实为引流广告，美团曝光卖课招商“收割”小商家套路",
+     "link": "https://www.ithome.com/1/021/493.htm",
+     "pubDate": "Tue, 03 Nov 2026 04:26:01 GMT",
+     "summary": "IT之家 11 月 3 日消息，美团官方今日发文，多家媒体报道有中介机构铺设数百个账号 批量发布“宣布下架外卖”的谣言视频 ，并将流量导向付费培训、城市合伙人招募和商铺中介业务。 美团表示，一些营销账号长期围绕争议话题制作模板，再搭建账号矩阵跟拍扩散，借此为自身业务引流牟利。话题不断变化，操作方式却高度一致。“ 福源找铺 ”就是其中传播时间较长、覆盖范围较广的账号矩阵。 去年 9 月至今，250 个与该机构相关的“合伙人”矩阵账号，以餐饮商家口吻陆续发布口播视频，使用的文案高度一致：“本人正式决定下架三大外卖平台。呼吁餐饮同行早日下架……”。美团对其中多个账号进行溯源后发现， 其运营者并非餐饮",
+     "source": "IT之家",
+     "zh": "数百账号批量“呼吁下架外卖”实为引流广告，美团曝光卖课招商“收割”小商家套路"
+    },
+    {
+     "title": "微软 Surface 鼠标（第 2 代）国行开售：688 元，支持高级触觉反馈",
+     "link": "https://www.ithome.com/1/021/492.htm",
+     "pubDate": "Tue, 03 Nov 2026 04:24:12 GMT",
+     "summary": "IT之家 11 月 3 日消息，微软 Surface 蓝牙无线鼠标（第 2 代）国行版于今日正式开售，定价为 688 元。该鼠标专为 Surface 生态打造，采用硅胶顶盖材质，整体造型圆润简洁，亮铂金配色与 Surface 笔记本外观风格统一，可无缝融入微软设备桌面生态。 京东 微软全新 Surface 蓝牙无线鼠标（第 2 代） 688 元 直达链接 该鼠标搭载 微软蓝影追踪技术（Microsoft BlueTrack） ，成像速率动态调节最高可达每秒 4000 帧，X-Y 分辨率为 39.4 点 / 毫米，追踪速度最高达每秒 762 毫米；传感器默认 1000 dpi，支持在 400 d",
+     "source": "IT之家",
+     "zh": "微软 Surface 鼠标（第 2 代）国行开售：688 元，支持高级触觉反馈"
+    },
+    {
+     "title": "金价跌破4000，说好的乱世买黄金呢？",
+     "link": "https://www.huxiu.com/article/4902545.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 12:21:33 +0800",
+     "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 都说乱世买黄金。但这一次，乱世来了，金价却先跪了。 10月30日，国际金价跌破每盎司4000美元的关键心理关口，伦敦现货黄金一路失守3900，收报3875美元，单日暴跌3.61%，跌回一年前的位置。 国内金价也应声下调，来到900元下方。11月1日，上海黄金交易所现货黄金价格收于854.76元/克。 高点买入的年轻人，一边亏惨，一边不解：黄金的避险机制失灵了吗？ 年轻人的黄金学： 涨了卖、跌了戴，不涨不跌传下一代 北京上班族小丽，今年年初，被市场情绪裹挟，买了10克银行的积存金，成本均价1030元/克。持有到现在，亏损2000元。她只叹气，“当",
+     "source": "虎嗅",
+     "zh": "金价跌破4000，说好的乱世买黄金呢？"
+    },
+    {
+     "title": "苹果的一切都在变贵，全怪AI",
+     "link": "https://www.huxiu.com/article/4902544.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 12:15:54 +0800",
+     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《苹果的一切都在变贵，全怪 AI》 今天，苹果发布了2026财年第四财季及全财年业绩。这也是约翰·特努斯（John Ternus）接替库克出任CEO后的第一份成绩单。 从账面数字来看，表现可以说是相当生猛，直接录得了苹果史上最佳财年。 单季营收1144.77亿美元，同比增长12%；净利润307.11亿美元，同比增长12%。全财年总营收更是达到了创纪录的4788亿美元。 就连连续承压的大中华区，也凭借着秋季新机的换机潮，单季营收逆势增长了21%。 但在随后的财报电话会上，画风却突然一变。 新官上任的特努斯和管理层，在会",
+     "source": "虎嗅",
+     "zh": "苹果的一切都在变贵，全怪AI"
+    },
+    {
+     "title": "工信部：今年前三季度规上电子信息制造业营收 14.9 万亿元同比增 21%，利润总额翻倍",
+     "link": "https://www.ithome.com/1/021/491.htm",
+     "pubDate": "Tue, 03 Nov 2026 04:15:25 GMT",
+     "summary": "IT之家 11 月 3 日消息，工信部今日发布《2026 年 1—9 月份电子信息制造业运行情况》。IT之家从数据中获悉，2026 年前三季度，我国电子信息制造业生产增长较快，出口持续上行，效益增势突出，投资继续增长，地区间营收分化明显。 一、生产增长较快 前三季度，规模以上电子信息制造业增加值同比增长 15.8%，增速较去年同期高 4.9 个百分点。9 月份，规模以上电子信息制造业增加值同比增长 16.4%。主要产品中，集成电路产量 4428 亿块，同比增长 23.3%；电子元件产量 7.1 万亿只，同比增长 14.7%。 二、出口持续上行 前三季度，规模以上电子信息制造业累计实现出口交货值",
+     "source": "IT之家",
+     "zh": "工信部：今年前三季度规上电子信息制造业营收 14.9 万亿元同比增 21%，利润总额翻倍"
+    },
+    {
+     "title": "巨量引擎取消返点：所有广告代理商，未来都是服务商",
+     "link": "https://www.tmtpost.com/8190926.html",
+     "pubDate": "Tue, 03 Nov 2026 12:12:18 +0800",
+     "summary": "把谷歌、Meta、巨量三家放在一起看，推动代理商转型的力量有四股，每一股都已经被验证过。",
+     "source": "钛媒体",
+     "zh": "巨量引擎取消返点：所有广告代理商，未来都是服务商"
+    },
+    {
+     "title": "“AI将在十年内攻克癌症”，最先被这话伤到的是病床边的人",
+     "link": "https://www.huxiu.com/article/4902542.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 12:09:12 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：odette “AI将在10年内攻克癌症。” 你应该见过这样的断言，当发言人和发言场合变化，“10年”可能会变成“5年”，“癌症”可能替换成“所有疾病”，“攻克”或许会表述为“治愈”或者“消灭”，还会出现其他类似变体。 当这样的断言出自当今最有影响力的科技大佬，它的分量又会重上几分，偏偏他们都讲过类似的话，马斯克讲过，奥特曼讲过，阿莫代伊、哈萨比斯也讲过。 听在旁人耳朵里，这或许只是诸多大厂公关言论里的一条，像某种必做的标准动作，但是真正的癌症患者或者家属听到这些，会怎么想呢？X上一条推文，或许可以提供一些线索。 “既有趣，又有误导性” 9月，名叫@Mgoe",
+     "source": "虎嗅",
+     "zh": "“AI将在十年内攻克癌症”，最先被这话伤到的是病床边的人"
+    },
+    {
      "title": "波音预测未来 20 年中国民航机队规模翻倍，需新增 9240 架飞机",
      "link": "https://www.ithome.com/1/021/490.htm",
      "pubDate": "Tue, 03 Nov 2026 04:08:45 GMT",
@@ -1722,20 +1778,20 @@ window.INDUSTRY_DATA = {
      "zh": "内存危机冲击苹果：Mac 与 iPad 供应紧张将持续至 2026 年底"
     },
     {
+     "title": "法国，一个可以上街抗议的下午",
+     "link": "https://www.huxiu.com/article/4902540.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 12:03:26 +0800",
+     "summary": "本文来自微信公众号： 孤独图书馆 ，作者：王若邦 Roban 在这个小城， 人们早晨出门买面包，回家做咖啡， 周末去市集买菜， 也会到附近的森林采蘑菇。 但在某个下午， 一部分人会走上街头， 反对政府的政策， 试图争取自己的权益。 法国，一个可以上街抗议的下午 图、文王若邦Roban 1 布尔日，法国中部的一个城市。我站在塞罗库尔广场，这里是游行的集合地点，人群正在陆续赶来。 警察已在环岛周围设置了路障，几个通往广场的路口，已暂时禁止车辆进入。参加游行的人，从不同方向赶来。有人拿着标语，有人举着工会旗帜，也有人推着婴儿车，带孩子一起参加游行。 等人群逐渐聚集，游行队伍便沿着道路出发。队伍先经过",
+     "source": "虎嗅",
+     "zh": "法国，一个可以上街抗议的下午"
+    },
+    {
      "title": "商汤发布日日新 SenseNova6.8Flash 正式版模型，支持动态 PPT 及 3D 设计",
      "link": "https://www.ithome.com/1/021/487.htm",
      "pubDate": "Tue, 03 Nov 2026 03:59:48 GMT",
      "summary": "IT之家 11 月 3 日消息，商汤科技 2 日晚间宣布，日日新 SenseNova6.8Flash 正式版现已正式发布，重点升级 办公协作与设计生成能力 。 新版本支持长期记忆、跨会话任务协作，设计能力覆盖 动态 PPT、动态海报、网页、SVG 及 Blender3D 创作 ，并可接入 Figma 等专业设计工作流。目前模型已开放在线体验，并同步上线 SenseNovaTokenPlan。 根据评测，SenseNova 6.8 Flash 在智能体协作、数据分析与演示生成等场景上超过部分国际前沿模型，并在行业模型中处于明显领先。 根据介绍，依托长期记忆与主动交互能力，模型能够围绕用户的目标与",
      "source": "IT之家",
      "zh": "商汤发布日日新 SenseNova6.8Flash 正式版模型，支持动态 PPT 及 3D 设计"
-    },
-    {
-     "title": "比头发丝还细：超细神经探针 Neuropixels 已用于人类大脑研究，首次记录语言刺激下的神经元活动",
-     "link": "https://www.ithome.com/1/021/486.htm",
-     "pubDate": "Tue, 03 Nov 2026 03:59:29 GMT",
-     "summary": "IT之家 11 月 3 日消息，当地时间 11 月 2 日，《自然》报道了一种名为 Neuropixels 的超细神经探针。 这是一种用于高密度记录神经元电活动的硅基探针。这种探针长度约 1 厘米，宽度比人类头发还细，能够同时记录数百个神经元的电活动，帮助研究人员以单个神经元为单位观察大脑如何处理信息，目前已从动物实验逐步进入人类大脑研究。 与传统脑电监测主要获取大量神经元共同产生的信号不同，这类探针能够同时记录多个单个神经元的活动，为研究大脑不同区域如何处理和传递信息提供更精细的数据。 据《自然》报道，在英国伦敦国家神经病学与神经外科医院，一名因正常压力脑积水接受分流手术的女性患者同意参与相",
-     "source": "IT之家",
-     "zh": "比头发丝还细：超细神经探针 Neuropixels 已用于人类大脑研究，首次记录语言刺激下的神经元活动"
     },
     {
      "title": "小镇姐弟，没拿过VC，IPO了",
@@ -1746,52 +1802,12 @@ window.INDUSTRY_DATA = {
      "zh": "小镇姐弟，没拿过VC，IPO了"
     },
     {
-     "title": "索泰推出 ZBOX C 系列 nano 无风扇 \"Wildcat Lake\" 迷你主机",
-     "link": "https://www.ithome.com/1/021/485.htm",
-     "pubDate": "Tue, 03 Nov 2026 03:55:59 GMT",
-     "summary": "IT之家 11 月 3 日消息，索泰 (ZOTAC) 现已正式推出基于英特尔 \"Wildcat Lake\" 的 ZBOX C 系列 nano 无风扇被动散热迷你主机。 其可选酷睿 3 处理器 304、酷睿 5 处理器 320、酷睿 7 处理器 350，型号分别为 ZBOX CI431 nano、ZBOX CI451 nano、ZBOX CI471 nano。 这批 ZBOX C 系列 nano 三维 204×129×68 (mm)， 体积 1.79L ；内置 1 个 DDR5-6400 CSO-DIMM 内存插槽、1 个 M.2 2280 (PCIe Gen4 ×4) NVMe SSD 盘位；",
-     "source": "IT之家",
-     "zh": "索泰推出 ZBOX C 系列 nano 无风扇 \"Wildcat Lake\" 迷你主机"
-    },
-    {
      "title": "中国品牌出海，正在以“酷”弯道超车",
      "link": "https://www.huxiu.com/article/4902538.html?f=rss",
      "pubDate": "Tue, 03 Nov 2026 11:54:13 +0800",
      "summary": "本文来自微信公众号： Fast Company中文版 ，作者：Ivy Yang 喜茶与BLACKPINK成员Lisa把她熟悉的泰国芒果糯米饭变成一杯茶。去年夏天，Lisa在社交媒体分享了一杯喜茶抹茶饮品，粉丝认出了它，“Lisa同款”随即走红，也为之后的正式合作埋下伏笔。 在此之前，Lisa的带货能力是推动LABUBU和CRYBABY走红的重要力量。潮玩挂上她的路易威登手袋，茶饮出现在她的照片里，原本毫不相干的品类，忽然有了共同的文化意义，被同一种Lisa认可的价值观进入到大众认知里并被欣赏。这其中的共通点并不是“中国制造”，而是“酷”的定义。 如果只把这些联系看成明星带货，就错过了更有意思的",
      "source": "虎嗅",
      "zh": "中国品牌出海，正在以“酷”弯道超车"
-    },
-    {
-     "title": "难怪《尚公主》里的鱼公公这么嚣张，原来是鱼朝恩啊",
-     "link": "https://www.huxiu.com/article/4902528.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 11:52:49 +0800",
-     "summary": "本文来自微信公众号： 国家人文历史 ，作者：杨苓，编辑：胡心雅，主编：周斌，校对：王旭，题图来自：视觉中国 新剧《尚公主》热播，不少观众被剧中鱼公公的嚣张惊到。这个角色原型正是中唐大名鼎鼎的鱼朝恩，历史上，他是敢在朝堂之上干预国事的宦官。那么，鱼朝恩凭什么敢这么嚣张呢？ 这背后不是他一个人的狂妄，而是安史之乱前后，唐朝一套权力结构悄悄变了。 鱼公公形象。来源/影视剧《尚公主》 鱼朝恩与唐代的宦官制度 要探讨鱼朝恩的滔天权势，先要了解一下唐代的宦官制度。内侍省是唐代专门管理宦官的机构，设有内侍四人，内常侍六人。内侍省下设五局，掖廷局掌管宫人簿籍；宫闱局掌管宫内门禁；奚官局掌管宫人疾病死丧；内仆局",
-     "source": "虎嗅",
-     "zh": "难怪《尚公主》里的鱼公公这么嚣张，原来是鱼朝恩啊"
-    },
-    {
-     "title": "秦朔对话魏尚进：一杯茶的失守，一杯咖啡的崛起",
-     "link": "https://www.huxiu.com/article/4902537.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 11:48:03 +0800",
-     "summary": "本文来自微信公众号： 复旦金融评论 ，作者：魏尚进 秦朔 ■受访者：魏尚进复旦大学国际金融学院学术访问教授、哥伦比亚大学终身讲席教授、亚洲开发银行前首席经济学家 产业的命运并不只由资源禀赋决定。旧的护城河会被攻破，但新的机会也会不断生长。 一杯茶，一杯咖啡，能装下多大的世界？ 在经济学家魏尚进看来，答案远超饮品本身。茶曾经是中国连接世界最重要的商品之一，却在19世纪经历了国际市场地位的急剧变化；咖啡则沿着另一条路线进入中国，从外来的生活方式，逐渐生长出云南产区、本土品牌，以及拥有万余家咖啡门店的上海。 茶与咖啡背后，是贸易、资本、技术、制度、品牌和消费方式的长期竞逐。更重要的是，历史并没有停在",
-     "source": "虎嗅",
-     "zh": "秦朔对话魏尚进：一杯茶的失守，一杯咖啡的崛起"
-    },
-    {
-     "title": "2块钱就能乐一下午，承包了一代人童年的2元店，被谁接了班？",
-     "link": "https://www.huxiu.com/article/4901763.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 11:46:41 +0800",
-     "summary": "2元店曾是90后一代的童年乐园，两块钱能买各种小玩意儿，追星女孩翻偶像贴纸，男孩拎着长虹剑挥舞一下午。可时代变了，物价飞涨，2元店却不能涨价，守着&ldquo;两元&rdquo;成了死规矩。电商和直播间来了，便宜货随手点，逛货堆的乐趣被购物软件取代。2元店没彻底消失，便宜那一派成了拼多多、社区团购，升级那一派变成名创优品，淘好物的乐趣只是换了个模样。",
-     "source": "虎嗅",
-     "zh": "2块钱就能乐一下午，承包了一代人童年的2元店，被谁接了班？"
-    },
-    {
-     "title": "机器人生意，造不如租",
-     "link": "https://www.huxiu.com/article/4902536.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 11:44:33 +0800",
-     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：谢泽锋，原文标题：《机器人生意，造不如租｜巨潮》 当机器人行业还在争论何时能真正落地时，下游却是另一种景象。 如今当一位求职者留言询问某家所谓“机器人公司”是否还在招聘测试岗时，他面对的可能并非智元、银河通用之类的机器人主机厂，更有可能的其实是那些负责商业化落地的公司。 他们的生意甚至比机器人主机厂火爆不少，这些“二开”企业熟知各品牌机器人的二次开发，也熟悉下游应用场景的各种需求，他们成为机器人产业链中相当重要的存在。 和生产端的踌躇不前不同，机器人下游呈现出了阶段性的“繁荣”景象。其中智元的投入颇为积极，不仅发起成立了机器人租赁赛道独",
-     "source": "虎嗅",
-     "zh": "机器人生意，造不如租"
     },
     {
      "title": "商业航天大运力竞争时代，空天经济重组价值体系",
@@ -1805,17 +1821,9 @@ window.INDUSTRY_DATA = {
      "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
      "link": "https://www.keepingup.com/benchmarks/net-worth/age-30-33",
      "pubDate": "Tue, 03 Nov 2026 03:28:26 +0000",
-     "summary": "Article URL: https://www.keepingup.com/benchmarks/net-worth/age-30-33 Comments URL: https://news.ycombinator.com/item?id=50347683 Points: 59 # Comments: 1",
+     "summary": "Article URL: https://www.keepingup.com/benchmarks/net-worth/age-30-33 Comments URL: https://news.ycombinator.com/item?id=50347683 Points: 131 # Comments: 44",
      "source": "Hacker News",
      "zh": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)"
-    },
-    {
-     "title": "刷新半导体并购纪录：美满电子 Marvell 约 1150 亿美元全股票收购光通信巨头 Lumentum",
-     "link": "https://www.ithome.com/1/021/478.htm",
-     "pubDate": "Tue, 03 Nov 2026 03:28:09 GMT",
-     "summary": "IT之家 11 月 3 日消息，美国半导体公司美满电子（Marvell）昨日（11 月 2 日）发布公告，宣布以约 1,150 亿美元 （IT之家注：现汇率约合 7,665.2 亿元人民币） 全股票交易，收购光通信企业 Lumentum。 根据双方达成的最终协议，Lumentum 的隐含企业价值约为 1,150 亿美元 （现汇率约合 7,665.2 亿元人民币） ，相当于每股约 1,132 美元 （现汇率约合 7,545 元人民币） ，较交易传闻出现前（10 月 28 日）的股价溢价约 23.9%。 交易完成后，Marvell 现有股东预计持有合并后公司约 67% 的股份，Lumentum 股",
-     "source": "IT之家",
-     "zh": "刷新半导体并购纪录：美满电子 Marvell 约 1150 亿美元全股票收购光通信巨头 Lumentum"
     },
     {
      "title": "Sources: Huawei recently told some clients that a large share of its upcoming flagship, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
@@ -1824,6 +1832,14 @@ window.INDUSTRY_DATA = {
      "summary": "The Information : Sources: Huawei recently told some clients that a large share of its upcoming flagship, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix &nbsp; &mdash;&nbsp; For an illustration of how porous U.S. restrictions on the shipment of AI chips to China can be, consider ",
      "source": "Techmeme",
      "zh": "Sources: Huawei recently told some clients that a large share of its upcoming flagship, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)"
+    },
+    {
+     "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
+     "link": "https://ownhackertube.cc/",
+     "pubDate": "Tue, 03 Nov 2026 03:14:06 +0000",
+     "summary": "Article URL: https://ownhackertube.cc/ Comments URL: https://news.ycombinator.com/item?id=50347574 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube"
     },
     {
      "title": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
@@ -1850,10 +1866,18 @@ window.INDUSTRY_DATA = {
      "zh": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)"
     },
     {
+     "title": "Show HN: Rustable is an open source database client built in Rust",
+     "link": "https://rustable.app",
+     "pubDate": "Tue, 03 Nov 2026 03:06:53 +0000",
+     "summary": "Article URL: https://rustable.app Comments URL: https://news.ycombinator.com/item?id=50347524 Points: 9 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Show HN: Rustable is an open source database client built in Rust"
+    },
+    {
      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
      "link": "https://arxiv.org/abs/2608.25820",
      "pubDate": "Tue, 03 Nov 2026 02:58:44 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2608.25820 Comments URL: https://news.ycombinator.com/item?id=50347464 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://arxiv.org/abs/2608.25820 Comments URL: https://news.ycombinator.com/item?id=50347464 Points: 10 # Comments: 0",
      "source": "Hacker News",
      "zh": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities"
     },
@@ -1874,18 +1898,10 @@ window.INDUSTRY_DATA = {
      "zh": "一箭18星，能让商业火箭赚钱吗？"
     },
     {
-     "title": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
-     "link": "https://www.tmtpost.com/8191236.html",
-     "pubDate": "Tue, 03 Nov 2026 10:03:04 +0800",
-     "summary": "Across the industry, frontier models are improving while fixed monthly plans feel smaller. Moonshot’s Kimi is the clearest recent example: a stronger release, angry subscribers, and another public apology. The tension is structural—capability is outrunning the economics of flat-fee access.",
-     "source": "钛媒体",
-     "zh": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster"
-    },
-    {
      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
      "link": "https://hackertimes.ca/",
      "pubDate": "Tue, 03 Nov 2026 01:53:34 +0000",
-     "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 81 # Comments: 30",
+     "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 94 # Comments: 39",
      "source": "Hacker News",
      "zh": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News"
     },
@@ -1893,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
      "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
      "pubDate": "Tue, 03 Nov 2026 01:33:43 +0000",
-     "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 74 # Comments: 21",
+     "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 84 # Comments: 21",
      "source": "Hacker News",
      "zh": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs"
     },
@@ -1928,22 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "Samantha Kelly / Bloomberg : Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates &nbsp; &mdash;&nbsp; Match Group Inc. disappointed investors after posting weaker-than-expected quarterly revenu",
      "source": "Techmeme",
      "zh": "Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates (Samantha Kelly/Bloomberg)"
-    },
-    {
-     "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
-     "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
-     "pubDate": "Tue, 03 Nov 2026 00:14:51 +0000",
-     "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
-     "source": "TechCrunch",
-     "zh": "Hinge tests a cheaper plan as users become more fed up paying for dating apps"
-    },
-    {
-     "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-     "link": "https://news.ycombinator.com/item?id=50346164",
-     "pubDate": "Tue, 03 Nov 2026 00:09:36 +0000",
-     "summary": "I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed... I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster. A lot of it brand-new. If you know anybody at the club, please tell t",
-     "source": "Hacker News",
-     "zh": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?"
     }
    ]
   },
@@ -2202,6 +2202,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "U.S. reportedly strikes Iran&apos;s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+     "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+     "pubDate": "Tue, 03 Nov 2026 04:27:41 GMT",
+     "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
+     "source": "CNBC",
+     "zh": "U.S. reportedly strikes Iran&apos;s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran"
+    },
+    {
+     "title": "Advent Convertible and Income Fund declares $0.1172 dividend",
+     "link": "https://seekingalpha.com/news/4663113-advent-convertible-and-income-fund-declares-0_1172-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 23:21:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Advent Convertible and Income Fund declares $0.1172 dividend"
+    },
+    {
+     "title": "Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust declares $0.1257 dividend",
+     "link": "https://seekingalpha.com/news/4663112-guggenheim-taxable-municipal-bond-and-investment-grade-debt-trust-declares-0_1257-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 23:21:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust declares $0.1257 dividend"
+    },
+    {
+     "title": "Guggenheim Strategic Opportunities Fund declares $0.1821 dividend",
+     "link": "https://seekingalpha.com/news/4663111-guggenheim-strategic-opportunities-fund-declares-0_1821-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 23:21:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Guggenheim Strategic Opportunities Fund declares $0.1821 dividend"
+    },
+    {
+     "title": "Guggenheim Active Allocation Fund declares $0.1188 dividend",
+     "link": "https://seekingalpha.com/news/4663110-guggenheim-active-allocation-fund-declares-0_1188-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 23:21:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Guggenheim Active Allocation Fund declares $0.1188 dividend"
+    },
+    {
+     "title": "Highland Income Fund declares $0.0385 dividend",
+     "link": "https://seekingalpha.com/news/4663109-highland-income-fund-declares-0_0385-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 23:16:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Highland Income Fund declares $0.0385 dividend"
+    },
+    {
+     "title": "PIMCO California Municipal Income Fund declares $0.036 dividend",
+     "link": "https://seekingalpha.com/news/4663108-pimco-california-municipal-income-fund-declares-0_036-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 23:14:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PIMCO California Municipal Income Fund declares $0.036 dividend"
+    },
+    {
      "title": "科创50跌2.5%，AI漫剧、电池产业链爆发，“易中天”集体下跌，恒科指涨近1%，权重科网股局部上涨",
      "link": "https://wallstreetcn.com/articles/3785042",
      "pubDate": "Tue, 03 Nov 2026 12:03:39 +0800",
@@ -2210,44 +2266,12 @@ window.INDUSTRY_DATA = {
      "zh": "科创50跌2.5%，AI漫剧、电池产业链爆发，“易中天”集体下跌，恒科指涨近1%，权重科网股局部上涨"
     },
     {
-     "title": "John Hancock Preferred Income Fund III declares $0.11 dividend",
-     "link": "https://seekingalpha.com/news/4663092-john-hancock-preferred-income-fund-iii-declares-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:57:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "John Hancock Preferred Income Fund III declares $0.11 dividend"
-    },
-    {
-     "title": "John Hancock Preferred Income Fund declares $0.1235 dividend",
-     "link": "https://seekingalpha.com/news/4663091-john-hancock-preferred-income-fund-declares-0_1235-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:56:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "John Hancock Preferred Income Fund declares $0.1235 dividend"
-    },
-    {
-     "title": "John Hancock Preferred Income Fund II declares $0.1235 dividend",
-     "link": "https://seekingalpha.com/news/4663090-john-hancock-preferred-income-fund-ii-declares-0_1235-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:56:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "John Hancock Preferred Income Fund II declares $0.1235 dividend"
-    },
-    {
-     "title": "John Hancock Premium Dividend Fund declares $0.0883 dividend",
-     "link": "https://seekingalpha.com/news/4663089-john-hancock-premium-dividend-fund-declares-0_0883-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:56:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "John Hancock Premium Dividend Fund declares $0.0883 dividend"
-    },
-    {
-     "title": "John Hancock Tax-Advantaged Dividend Income Fund declares $0.158 dividend",
-     "link": "https://seekingalpha.com/news/4663088-john-hancock-tax-advantaged-dividend-income-fund-declares-0_158-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:56:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "John Hancock Tax-Advantaged Dividend Income Fund declares $0.158 dividend"
+     "title": "43分41秒，宇树科技交出“机器狗爬泰山”成绩单",
+     "link": "http://finance.eastmoney.com/news/1354,202611033919982828.html",
+     "pubDate": "Tue, 03 Nov 2026 11:56:11 +0800",
+     "summary": "中经记者徐倩上海报道 泰山红门到中天门，3.9公里，3100多级石阶，600米高差，中间有连续石阶、陡坡弯道，一个体力不错的登山者走完这段千年盘道，大概需要一个半小时到两小时。 11月2日，在首届CMG世界 机器人 登泰山大赛上，宇树科技旗下北京灵翌科技队的A2机器狗，跑完这段路用了41分41秒，加上2分钟罚时，最终成绩43分41秒，拿下足式 机器人 竞速赛冠军。 此外，上海高羿科技队为宇树再添两银：宇树A2夺得足式 机器人 竞速赛亚军，宇树B2夺得足式 机器人 负重赛亚军。B2在万仙楼—斗母宫赛段有效负重66kg，含支架实际负重74kg，满载稳健登阶。 据悉，首届CMG世界 机器人 登泰山大",
+     "source": "东方财富股票",
+     "zh": "43分41秒，宇树科技交出“机器狗爬泰山”成绩单"
     },
     {
      "title": "报道：Marvell千亿吞并Lumentum，事前得到黄仁勋支持",
@@ -2258,12 +2282,12 @@ window.INDUSTRY_DATA = {
      "zh": "报道：Marvell千亿吞并Lumentum，事前得到黄仁勋支持"
     },
     {
-     "title": "Stifel Financial Corp. 4.50% DEP PFD D declares $0.2812 dividend",
-     "link": "https://seekingalpha.com/news/4663087-stifel-financial-corp-4_50-percent-dep-pfd-d-declares-0_2812-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 22:52:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stifel Financial Corp. 4.50% DEP PFD D declares $0.2812 dividend"
+     "title": "李佳琦首次带货AI算力，半小时卖出2万亿Token",
+     "link": "http://finance.eastmoney.com/news/1355,202611033919982745.html",
+     "pubDate": "Tue, 03 Nov 2026 11:53:01 +0800",
+     "summary": "11月2日晚，有“口红一哥”之称的李佳琦在直播间首次上架了一件“看不见的商品”——Token（词元）。这也是他在主播直播间首次开卖AI算力商品。 据了解，仅半小时，直播间便售出近10万份千问办公个人会员月卡，累计对应约2万亿Token。 当晚， 阿里巴巴 集团副总裁、千问办公CEO陈宇森做客李佳琦直播间，带来一款售价1分钱的千问办公个人会员月卡。 直播现场，李佳琦问陈宇森：“能不能帮我做个AI分身，24小时陪女生们聊天？”陈宇森回答：“AI取代不了李佳琦。我更希望帮粉丝用AI解决琐事——到点下班、陪伴猫狗、照顾家人。” 两人还在直播间演示了AI Agent（智能助理）在办公、生活、 教育 等场",
+     "source": "东方财富股票",
+     "zh": "李佳琦首次带货AI算力，半小时卖出2万亿Token"
     },
     {
      "title": "澳洲联储如期加息至十八年来高位，但分歧表决折射前景不确定性",
@@ -2274,11 +2298,35 @@ window.INDUSTRY_DATA = {
      "zh": "澳洲联储如期加息至十八年来高位，但分歧表决折射前景不确定性"
     },
     {
+     "title": "美团上线外卖商家“放心消费承诺”标识",
+     "link": "http://finance.eastmoney.com/news/1354,202611033919981695.html",
+     "pubDate": "Tue, 03 Nov 2026 11:51:32 +0800",
+     "summary": "11月3日，美团宣布，在市场监管总局指导下，即日起上线外卖商家“放心消费承诺”标识。功能上线后，用户在美团外卖App搜索栏输入“放心消费”，即可查找相关商家。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "美团上线外卖商家“放心消费承诺”标识"
+    },
+    {
+     "title": "共绩科技完成数亿元融资 宁德时代系资本等入股",
+     "link": "http://finance.eastmoney.com/news/1354,202611033919981793.html",
+     "pubDate": "Tue, 03 Nov 2026 11:49:53 +0800",
+     "summary": "近日，北京共绩科技有限公司完成数亿元新一轮融资，投资方包括中国互联网投资基金、 宁德时代 系宁波问鼎和溥泉资本、元禾璞华、 赛目科技 、德石投资、启恒共创等，春华 创投 等老股东继续加码。公司成立于2023年，主要提供分布式算力调度及弹性算力服务，本轮融资将用于核心技术迭代、产业生态扩张及商业化体系建设。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "共绩科技完成数亿元融资 宁德时代系资本等入股"
+    },
+    {
+     "title": "97亿营收、24亿净利、260亿对公增量：郑州银行三季报的三个数字与一条主线",
+     "link": "http://stock.eastmoney.com/news/11216,202611033919981911.html",
+     "pubDate": "Tue, 03 Nov 2026 11:49:39 +0800",
+     "summary": "近日， 郑州银行 （002936.SZ）发布了2026年三季度报告。2026年前三季度该行实现营业收入97.01亿元，归属于本行股东的净利润23.98亿元，同比分别增长3.26%、5.21%，盈利水平创下近年同期最好成绩。 截至2026年三季度末， 郑州银行 资产总额达7829.12亿元，较上年末增长5.28%。从资产端看，发放贷款及垫款本金总额4235.10亿元，较上年末增长3.23%；其中公司贷款3060.49亿元，增长9.11%，个人贷款934.45亿元，下降3.68%，票据贴现240.16亿元，下降26.67%。负债端，吸收存款本金总额5065.46亿元，较上年末增长9.39%；其中个",
+     "source": "东方财富股票",
+     "zh": "97亿营收、24亿净利、260亿对公增量：郑州银行三季报的三个数字与一条主线"
+    },
+    {
      "title": "“宁王”4连阳！固态电池多股涨停 融资客最新抢筹股曝光",
      "link": "http://finance.eastmoney.com/news/11139,202611033919981586.html",
      "pubDate": "Tue, 03 Nov 2026 11:49:33 +0800",
      "summary": "固态电池 板块11月3日早盘表现强势，其中 尚水智能 、 盟固利 、 丰元股份 、 圣阳股份 、 中欣氟材 、 龙蟠科技 涨停； 力王股份 、 武汉蓝电 涨超10%。此外， 电池 龙头 宁德时代 早盘上涨4.16%，日K线已4连阳。 固态电池 密集中试 综合 市场观点来看， 固态电池 的强势，在于其规模化应用的日益临近。 西南证券 指出，全球 新能源 汽车 销量与动力 电池 需求进入TWh级别放量阶段，对续航、安全、快充的 综合 要求显著抬升。液态 锂 电性能已到“天花板”，固态 电池 凭借在能量密度、安全性与寿命上的优势，成为下一代电池的体系升级方案。 从产业节奏来看，当前时间线已相对明确。",
-     "source": "东方财富资讯",
+     "source": "东方财富股票",
      "zh": "“宁王”4连阳！固态电池多股涨停 融资客最新抢筹股曝光"
     },
     {
@@ -2362,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "North Korea denies links to Binance hack as researchers trace stolen billions"
     },
     {
-     "title": "U.S. reportedly strikes Iran&apos;s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-     "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-     "pubDate": "Tue, 03 Nov 2026 02:51:33 GMT",
-     "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
-     "source": "CNBC",
-     "zh": "U.S. reportedly strikes Iran&apos;s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran"
-    },
-    {
      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
      "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
      "pubDate": "Tue, 03 Nov 2026 02:47:57 GMT",
@@ -2378,68 +2418,28 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role"
     },
     {
-     "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
-     "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 00:59:00 GMT",
-     "summary": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir’s earnings beat.",
-     "source": "MarketWatch",
-     "zh": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter"
+     "title": "单季利润仅97万，香飘飘的困境不只是“卖不动”",
+     "link": "http://www.eeo.com.cn/2026/1103/1082554.shtml",
+     "pubDate": "Tue, 03 Nov 2026 10:47:03 +0800",
+     "summary": "不少人都有过饮用香飘飘的记忆，只是对一部分消费者而言，已经很少主动选购这款杯装奶茶。回想当年，只需一杯热水，就能冲泡出一杯奶茶。如今新式茶饮门店遍布街头，现制饮品成为日常选择。消费偏好发生潜移默化的改变，这家老牌冲泡奶茶企业，也正面临行业环境变化带来的现实考验。",
+     "source": "经济观察网",
+     "zh": "单季利润仅97万，香飘飘的困境不只是“卖不动”"
     },
     {
-     "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
-     "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 00:52:00 GMT",
-     "summary": "Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business.",
-     "source": "MarketWatch",
-     "zh": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway."
+     "title": "陈春花：AI释放了时间，管理要让目标重新连接",
+     "link": "http://www.eeo.com.cn/2026/1103/1082545.shtml",
+     "pubDate": "Tue, 03 Nov 2026 10:41:11 +0800",
+     "summary": "智能工具让工作变快，也释放出新的时间和能力。真正的管理问题是：这些被释放出来的时间和能力，能否重新连接到组织目标与个人成长之中。",
+     "source": "经济观察网",
+     "zh": "陈春花：AI释放了时间，管理要让目标重新连接"
     },
     {
-     "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
-     "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 00:03:00 GMT",
-     "summary": "The “tech wreck” from October continues. Is a bear market next?",
-     "source": "MarketWatch",
-     "zh": "Nasdaq-100 tumbles into its third correction this year as AI worries mount"
-    },
-    {
-     "title": "Nyse tokenised securities platform gets on-chain shareholder services through Broadridge",
-     "link": "https://www.finextra.com/newsarticle/48688/nyse-tokenised-securities-platform-gets-on-chain-shareholder-services-through-broadridge?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 03 Nov 2026 00:01:00 GMT",
-     "summary": "Broadridge is planning to bring on-chain shareholder governance and digital transfer agency services to the New York Stock Exchange’s new tokenised securities platform.",
-     "source": "Finextra",
-     "zh": "Nyse tokenised securities platform gets on-chain shareholder services through Broadridge"
-    },
-    {
-     "title": "Goldman bans traders and bankers from using AI coding tools",
-     "link": "https://www.finextra.com/newsarticle/48690/goldman-bans-traders-and-bankers-from-using-ai-coding-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 03 Nov 2026 00:01:00 GMT",
-     "summary": "Goldman Sachs has banned traders and other employees from using advanced AI tools for coding over productivity and risk concerns, according to Bloomberg",
-     "source": "Finextra",
-     "zh": "Goldman bans traders and bankers from using AI coding tools"
-    },
-    {
-     "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
-     "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 23:39:00 GMT",
-     "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.",
-     "source": "MarketWatch",
-     "zh": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’"
-    },
-    {
-     "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-     "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-     "pubDate": "Mon, 02 Nov 2026 22:53:20 GMT",
-     "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
-     "source": "CNBC",
-     "zh": "Palantir reports booming U.S. commercial revenue growth, topping government for first time"
-    },
-    {
-     "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
-     "link": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
-     "pubDate": "Mon, 02 Nov 2026 22:45:26 GMT",
-     "summary": "US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote",
-     "source": "Financial Times",
-     "zh": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push"
+     "title": "心理观察｜从心理学角度看\"武李之争\"",
+     "link": "http://www.eeo.com.cn/2026/1103/1082541.shtml",
+     "pubDate": "Tue, 03 Nov 2026 10:40:11 +0800",
+     "summary": "用心理学视角去看看心理学从业者是不是真如大家所说的“医者不自医”，是不是失去了它在人格成长上的助益之用。",
+     "source": "经济观察网",
+     "zh": "心理观察｜从心理学角度看\"武李之争\""
     }
    ]
   },
@@ -2449,6 +2449,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
+     "pubDate": "Mon, 02 Nov 2026 23:11:58 EST",
+     "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that ",
+     "source": "ScienceDaily",
+     "zh": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation"
+    },
     {
      "title": "Traces of ancient blood found in 115 million-year-old dinosaur fossil, new study claims",
      "link": "https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims",
@@ -2504,6 +2512,14 @@ window.INDUSTRY_DATA = {
      "summary": "Permafrost detachment slides involve large slabs of frozen earth thawing from below and then sliding downhill.",
      "source": "Science News",
      "zh": "Melting permafrost has birthed a new type of large landslide"
+    },
+    {
+     "title": "Extra weight may be aging your brain faster than you think",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
+     "pubDate": "Mon, 02 Nov 2026 08:55:28 EST",
+     "summary": "A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong among people over 65, raising concerns about the long-term effec",
+     "source": "ScienceDaily",
+     "zh": "Extra weight may be aging your brain faster than you think"
     },
     {
      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
@@ -2576,22 +2592,6 @@ window.INDUSTRY_DATA = {
      "summary": "Water-resistant microneedles made from food-grade silk could deliver vaccines to help prevent the spread of disease in aquaculture.",
      "source": "MIT News",
      "zh": "MIT engineers design a safer, more efficient vaccination system for farmed fish"
-    },
-    {
-     "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
-     "pubDate": "Sun, 01 Nov 2026 22:07:01 EST",
-     "summary": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks of planets have remained remarkably unchanged for billions of years, while thei",
-     "source": "ScienceDaily",
-     "zh": "NASA's Hubble and Webb discover ancient worlds that remember their past"
-    },
-    {
-     "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
-     "pubDate": "Sun, 01 Nov 2026 06:29:04 EST",
-     "summary": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per day, with black tea showing more consistent benefits than green tea.",
-     "source": "ScienceDaily",
-     "zh": "Drinking tea may help protect your heart, but there’s a surprising catch"
     },
     {
      "title": "Webb and Hubble discover new details in one of our galaxy's spookiest objects",

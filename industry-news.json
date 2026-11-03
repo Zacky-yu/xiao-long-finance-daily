@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/3 10:32:22",
+ "generated_at": "2026/11/3 10:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -111,14 +111,6 @@
      "summary": "商汤SenseNova 6.8 Flash",
      "source": "量子位",
      "zh": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！"
-    },
-    {
-     "title": "116亿元国产算力大单！大华股份拿下26.3亿",
-     "link": "https://zhidx.com/p/606708.html",
-     "pubDate": "Mon, 02 Nov 2026 21:26:55 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 云鹏 智东西11月2日消息，刚刚，智能物联龙头企业 大华股份 发布公告，确认旗下子公司浙江华启智慧科技有限公司（简称： 华启智慧 ）中标中国移动超节点设备集中采购项目，中标金额约为 26.3亿元。 ▲大华股份公告 9月29日，中国移动发布“2026年至2027年新一代人工智能超节点设备集中采购项目”招标公告，计划采购AI超节点合计 20480卡 ，及配套Roce交换机448台、存储82套。 ▲招标公告部分截图 10月28日，招标人对标的项目的中标候选人情况进行公示， 华鲲振宇、宝德计算机、华启智慧、百信信息、神州鲲泰 五家公司进入中标候选人名单，拟中标份额分",
-     "source": "智东西",
-     "zh": "116亿元国产算力大单！大华股份拿下26.3亿"
     },
     {
      "title": "Stop counting tokens, start counting what ships",
@@ -247,6 +239,14 @@
      "summary": "HuggingFace疑似泄露权重已被下5000次",
      "source": "量子位",
      "zh": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光"
+    },
+    {
+     "title": "Qodo builds context into AI code review with Codex",
+     "link": "https://openai.com/index/qodo-codex-plugin",
+     "pubDate": "Mon, 02 Nov 2026 00:00:00 GMT",
+     "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+     "source": "OpenAI",
+     "zh": "Qodo builds context into AI code review with Codex"
     }
    ]
   },
@@ -1497,6 +1497,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+     "pubDate": "Tue, 03 Nov 2026 02:24:31 +0000",
+     "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown s",
+     "source": "Krebs on Security",
+     "zh": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies"
+    },
+    {
      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
      "pubDate": "Mon, 02 Nov 2026 22:27:24 GMT",
@@ -1697,28 +1705,60 @@
    "total": 18,
    "items": [
     {
+     "title": "中国台湾地区拟在台南建设大型科学园区，因应 1nm 晶圆厂建设需求",
+     "link": "https://www.ithome.com/1/021/355.htm",
+     "pubDate": "Tue, 03 Nov 2026 02:43:20 GMT",
+     "summary": "IT之家 11 月 3 日消息，中国台湾地区科学与技术委员会负责人吴诚文昨日在 IEEE A-SSCC 2026 亚洲固态电路会议上表示， 计划在台南建设一座超大规模科学园区 ，预计 2027 年动工。 吴诚文所在的委员会下辖 3 个科学园区管理局，目前总共拥有 18 个园区。而 台南新园区主要为了因应 1nm 晶圆厂的建设需求 。 根据台积电当前路线图，其下一代先进逻辑制程技术 A14 预计 2028 年开始量产，衍生变体 A13 和 A12 则分别会在 2028、2028 年量产。",
+     "source": "IT之家",
+     "zh": "中国台湾地区拟在台南建设大型科学园区，因应 1nm 晶圆厂建设需求"
+    },
+    {
+     "title": "苹果全球活跃设备超 25 亿台，2026 财年第四财季服务收入再创新高",
+     "link": "https://www.ithome.com/1/021/353.htm",
+     "pubDate": "Tue, 03 Nov 2026 02:42:30 GMT",
+     "summary": "IT之家 11 月 3 日消息，科技媒体 AppleInsider 今天（11 月 3 日）发布博文，报道称在最新财报电话会议上，苹果首席执行官约翰 · 特努斯（John Ternus）重申， 苹果全球活跃设备装机量已超过 25 亿台。 IT之家援引博文介绍，该数据统计口径为“设备数”而非独立用户数，涵盖 iPhone、iPad、Mac、Apple Watch 等主要产品，且在所有主要产品类别和地区均实现增长。 该数据并非首次公布，在 2026 年 1 月召开的财报会议上，苹果宣布截至 2026 年 1 月， 其全球活跃设备安装量已超过 25 亿台。 该媒体指出这一庞大的设备基数，正成为苹果服",
+     "source": "IT之家",
+     "zh": "苹果全球活跃设备超 25 亿台，2026 财年第四财季服务收入再创新高"
+    },
+    {
+     "title": "OpenAI 下一代 GPT-6.2 Astra 正灰度测试，Codex 用量统计中已单独列出",
+     "link": "https://www.ithome.com/1/021/352.htm",
+     "pubDate": "Tue, 03 Nov 2026 02:32:47 GMT",
+     "summary": "IT之家 11 月 3 日消息，经大量用户反馈，OpenAI 下一代模型 GPT-6.2 Astra 疑似已进入小范围测试，部分 Codex 用户的使用量统计中已经出现独立模型标识「gpt-6.2-astra」。 不过，截至目前，OpenAI 官方 API 模型目录、更新日志及公开公告均未确认这一型号，OpenAI 也没有确认其发布时间。 据科技媒体 TestingCatalog 昨日报道，多个 Codex 用户在使用量分析页面发现了这一新模型标识。不同用户分享的截图显示，GPT-6.2 Astra 已经占据部分账户的模型调用量，IT之家注意到其中一个账户的占比达到 19.8%（相关记录主要出",
+     "source": "IT之家",
+     "zh": "OpenAI 下一代 GPT-6.2 Astra 正灰度测试，Codex 用量统计中已单独列出"
+    },
+    {
+     "title": "硅谷富豪开始撒钱",
+     "link": "https://www.huxiu.com/article/4902508.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 10:32:46 +0800",
+     "summary": "本文来自微信公众号： 东四十条资本 ，作者：韦香惠 AI带来的生产率提升最终归谁所有？ 十多年前，一个年轻帅气、毕业于牛津大学的男青年站在杂货店的货架前，犹豫着要买哪一种早餐麦片。他心里算着，如果坚持一年购买更便宜的品牌，省下来的钱，是否足以挽救一个人的生命？ 这个人就是英国哲学家威廉·麦卡斯基尔。他后来成为有效利他主义（Effective Altruism）的重要倡导者。这套思想的核心是，将有限的资源投入能够产生最大社会效益的事情，并尽可能通过理性分析和效果评估，让每一笔钱帮助更多的人。 如今，有效利他主义已经成为硅谷科技圈一股颇具影响力的思想潮流。尤其对AI领域部分创业者和投资人而言，他们",
+     "source": "虎嗅",
+     "zh": "硅谷富豪开始撒钱"
+    },
+    {
+     "title": "豪掷 457.65 亿美元：苹果 2026 财年研发费用同比增 32% 创历史新高，加码 AI 投入",
+     "link": "https://www.ithome.com/1/021/351.htm",
+     "pubDate": "Tue, 03 Nov 2026 02:30:58 GMT",
+     "summary": "IT之家 11 月 3 日消息，科技媒体 9to5Mac 今天（11 月 3 日）发布博文，报道称基于官方披露数据，2026 财年（2025 年 9 月 28 日～2026 年 9 月 26 日）第四财季（2026 年 6 月 28 日–9 月 26 日）苹果研发费用为 117.30 亿美元 （IT之家注：现汇率约合 781.85 亿元人民币） ，上年同期为 88.66 亿美元 （现汇率约合 590.95 亿元人民币） ，同比增长约 32.3%； 2026 全财年研发费用为 457.65 亿美元 （现汇率约合 3,050.42 亿元人民币） ，上年为 345.50 亿美元 （现汇率约合 2,3",
+     "source": "IT之家",
+     "zh": "豪掷 457.65 亿美元：苹果 2026 财年研发费用同比增 32% 创历史新高，加码 AI 投入"
+    },
+    {
+     "title": "英飞凌携手高通，整合 MCU 子系统与骁龙 Ride / Ride Flex 汽车平台",
+     "link": "https://www.ithome.com/1/021/350.htm",
+     "pubDate": "Tue, 03 Nov 2026 02:30:51 GMT",
+     "summary": "IT之家 11 月 3 日消息，Infineon（英飞凌）德国当地时间 2 日宣布将与 Qualcomm（高通）合作加速 SDV（软件定义车辆）中央车载计算机的开发和部署。 根据双方签署的协议， 高通骁龙 Ride / Ride Flex 参考平台将整合由英飞凌 MCU（微控制器）驱动的子系统 ，将高通的平台能力和高性能 SoC 与英飞凌在安全管理、连接性、内存管理方面的软硬件专长相结合。 作为骁龙 Ride / Ride Flex 参考平台的补充，英飞凌 MCU 子系统具备系统健康状况监控、安全机制协调、关键安全功能可预测实时控制能力，可帮助协调骁龙 Ride 平台的高级计算和人工智能功能与",
+     "source": "IT之家",
+     "zh": "英飞凌携手高通，整合 MCU 子系统与骁龙 Ride / Ride Flex 汽车平台"
+    },
+    {
      "title": "全国放心消费平台正式上线：可扫码查看附近放心消费商家，百度地图、美团外卖、淘宝闪购、京东外卖已接入",
      "link": "https://www.ithome.com/1/021/346.htm",
      "pubDate": "Tue, 03 Nov 2026 02:21:27 GMT",
      "summary": "IT之家 11 月 3 日消息，市场监管总局今日官宣，按照《优化消费环境三年行动方案（2025—2027 年）》《扩大消费“十五五”规划》等明确部署，市场监管总局正在全面推进放心消费单元和集聚区培育，在全国打造一批放心消费新场景、新地标、新品牌，改善消费体验、提振消费信心。 为了全面支撑和规范全国放心消费主体培育工作，为广大经营者和消费者提供一站式服务，市场监管总局创新建设了全国放心消费平台（微信搜索“ 消费查 ”小程序即可登录），于 11 月 3 日正式上线。 平台集成《全国放心消费单元和集聚区培育指引（试行）》的放心消费培育全流程。商家在平台上注册、在线承诺并经核验公示后即可参与放心消费承",
      "source": "IT之家",
      "zh": "全国放心消费平台正式上线：可扫码查看附近放心消费商家，百度地图、美团外卖、淘宝闪购、京东外卖已接入"
-    },
-    {
-     "title": "应对服务业务增长压力，苹果有意通过第三方应用寻找“新商机”",
-     "link": "https://www.ithome.com/1/021/344.htm",
-     "pubDate": "Tue, 03 Nov 2026 02:17:47 GMT",
-     "summary": "IT之家 11 月 3 日消息，据外媒 TechCrunch 报道，苹果服务业务规模仍处于历史高位，增长压力同时也在不断加大。作为服务业务的核心，App Store 受到监管趋严和手游市场低迷的双重影响，拖累了整体业务增长。 不过，苹果在北京时间今天（3 日）早间的财报电话会议上透露，公司有意 通过第三方应用寻找新的服务业务收入来源 。 苹果 CFO 凯文 · 帕雷克在谈及 AI 未来可能带来的收入增长时提到：“从产品层面来看，我们认为 AI 能够吸引消费者升级设备或转投苹果产品，以体验最新功能。此外，第三方应用、合作业务以及苹果自有业务 也都有发展机会 。” 帕雷克没有具体说明第三方应用能够",
-     "source": "IT之家",
-     "zh": "应对服务业务增长压力，苹果有意通过第三方应用寻找“新商机”"
-    },
-    {
-     "title": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置",
-     "link": "https://www.ithome.com/1/021/343.htm",
-     "pubDate": "Tue, 03 Nov 2026 02:15:40 GMT",
-     "summary": "IT之家 11 月 3 日消息，OpenAI Codex 与 ChatGPT Work 团队负责人 Thibault Sottiaux（Tibo）发起的「28 天更新挑战」已于 11 月 2 日正式结束。 这项挑战最终以 11 月 1 日、11 月 2 日连续两天发放“额度重置卡”收尾，分别对应挑战第 27 天和第 28 天。 Tibo 于北京时间 10 月 5 日在 X 上宣布开启“28 天挑战”，在未来 28 天内每天推出一项对大多数 Codex / ChatGPT Work 用户而言具有实际意义的明显改进，否则就向用户发放一次完整额度重置。 IT之家注：最后两天重置并不代表整个 28 天",
-     "source": "IT之家",
-     "zh": "OpenAI Tibo“28 天更新挑战”以两次重置收尾，共 14 天发放 Codex / ChatGPT Work 额度重置"
     },
     {
      "title": "国家队是在救市，还是在赚钱？",
@@ -1745,30 +1785,6 @@
      "zh": "美国快递越来越贵，中国卖家开始寻找UPS之外的选择"
     },
     {
-     "title": "苹果为第四代 Apple TV 4K 推送专属 24K154 更新，可启用 Siri AI",
-     "link": "https://www.ithome.com/1/021/342.htm",
-     "pubDate": "Tue, 03 Nov 2026 02:07:03 GMT",
-     "summary": "IT之家 11 月 3 日消息，科技媒体 9to5Mac 昨日（11 月 2 日）发布博文，报道称在 Apple TV 4K（第四代）11 月 13 日上市开售之前， 苹果悄然为其推送专属 tvOS 27.2 更新。 版本号方面，该版本内部代号为 24K154，而 上周面向现有 Apple TV 设备推出的 tvOS 27.2 版本号为 24K122 ，意味着新款 Apple TV 4K 上市后将预装更新的系统版本。 在更新内容方面，苹果公司尚未单独公布 24K154 内容，不过开发者 @itspdfu 指出，在该版本中，苹果为新款 Apple TV 4K 适配启用 Siri AI。 在模拟 ",
-     "source": "IT之家",
-     "zh": "苹果为第四代 Apple TV 4K 推送专属 24K154 更新，可启用 Siri AI"
-    },
-    {
-     "title": "华硕 ROG 术士 98 X 三模机械键盘上架，11 月 9 日到手价 999 元",
-     "link": "https://www.ithome.com/1/021/340.htm",
-     "pubDate": "Tue, 03 Nov 2026 02:04:15 GMT",
-     "summary": "IT之家 11 月 3 日消息，华硕 (ASUS) 现已在电商平台上架 ROG 术士 98 X 无线游戏键盘 (ROG Strix Morph 96 X Wiress)。这一型号将于 11 月 9 日 20:00 发售，国家补贴后到手价为 999 元。 术士 98 X 是原版术士 98 的升级型号， 拥有红-白-灰撞色 PBT 材质染料热升华工艺键帽 、CNC 加工铝合金上盖、ROG NX V2 机械轴、PC 定位板、硅胶泡棉、南向热插拔 PCB、硅胶垫、底壳。 其集成多功能按钮、滚轮与双侧灯条，2 对不同高度的键盘脚提供 3 种倾斜角度选择，随附加长型人体工学硅胶腕托。 天猫 华硕 ROG ",
-     "source": "IT之家",
-     "zh": "华硕 ROG 术士 98 X 三模机械键盘上架，11 月 9 日到手价 999 元"
-    },
-    {
-     "title": "Meta 回应与中国企业傅利叶合作开发人形机器人：美国供应链不给力，原型机暂无出售计划",
-     "link": "https://www.ithome.com/1/021/339.htm",
-     "pubDate": "Tue, 03 Nov 2026 02:04:03 GMT",
-     "summary": "IT之家 11 月 3 日消息，据 The Information 此前报道， Meta 最近与中国企业傅利叶（Fourier）合作 ，打造一款名为 Max 的人形机器人原型。 据介绍，这款机器人研发用时三个月，其身高接近 5 英尺 （IT之家注：约 1.5 米） ，体重约 106 磅 （约 48.1 千克） ，搭载英伟达 Thor 芯片。Meta 首席执行官马克 · 扎克伯格将这款人形机器人，视为 Muse 人工智能模型的“物理化身”，认为它能够承担日常家务。 报道称，两家公司已在今年 9 月启动 Max 2 原型产品的研发工作。新机器人预计将重新设计躯干部分，并进行其他常规升级。Meta ",
-     "source": "IT之家",
-     "zh": "Meta 回应与中国企业傅利叶合作开发人形机器人：美国供应链不给力，原型机暂无出售计划"
-    },
-    {
      "title": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
      "link": "https://www.tmtpost.com/8191236.html",
      "pubDate": "Tue, 03 Nov 2026 10:03:04 +0800",
@@ -1793,18 +1809,10 @@
      "zh": "拆解Token 经济的商业逻辑与创业机会"
     },
     {
-     "title": "胡歌戒烟成功，对中年男性来说，这容易吗？",
-     "link": "https://www.huxiu.com/article/4902357.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 10:00:01 +0800",
-     "summary": "本文由虎嗅旗下健康与抗衰公众号&ldquo;九叶刀研究&rdquo;首发，正文约2500字。封面图来自Pixabay。 最近， #胡歌戒烟 &nbsp;的话题忽然上了微博热搜，起因是演员胡歌在接受医疗访谈节目《愈见》采访时表示，因为身体问题，已经戒烟很久了，现在随身常备速效救心丸。 可能很多人不知道，胡歌已经不是第一次因为吸烟受到关注，早在2019年底，就有网友公开要求胡歌&ldquo;限期三个月，必须戒掉烟瘾&rdquo;，2025年，甚至有谣传其已罹患肺癌住院。 我们不知道胡歌用了多久才成功戒烟，但目前的科学研究表明，想在三个月内戒烟，几乎不可能成功。 我们都知道吸烟有害健康，全球各地为了",
-     "source": "虎嗅",
-     "zh": "胡歌戒烟成功，对中年男性来说，这容易吗？"
-    },
-    {
      "title": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
      "link": "https://hackertimes.ca/",
      "pubDate": "Tue, 03 Nov 2026 01:53:34 +0000",
-     "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 18 # Comments: 4",
+     "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 32 # Comments: 6",
      "source": "Hacker News",
      "zh": "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News"
     },
@@ -1812,7 +1820,7 @@
      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
      "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
      "pubDate": "Tue, 03 Nov 2026 01:33:43 +0000",
-     "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 32 # Comments: 3",
+     "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 39 # Comments: 8",
      "source": "Hacker News",
      "zh": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs"
     },
@@ -1841,20 +1849,20 @@
      "zh": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them"
     },
     {
-     "title": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度",
-     "link": "https://www.tmtpost.com/8190090.html",
-     "pubDate": "Tue, 03 Nov 2026 08:45:39 +0800",
-     "summary": "“非洲手机之王”传音控股，以低端手机做到全球新兴市场销量第一的消费电子企业，也成为中国消费电子出海最成功的样板之一。2023、2024年利润、营收双双攀上巅峰，2025年却被“存储通胀”超级周期打到净利腰斩；囤芯、提价换来2026上半年低基数修复，三季度却再度失速。在存储比主芯片还贵的时代，公司正大举押注端侧AI，为自己寻找定价权的最后一搏。但刚挂牌的H股成交极冷、折价近五成，折射外界对其AI叙事的疑虑重重。",
-     "source": "钛媒体",
-     "zh": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度"
-    },
-    {
      "title": "Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates (Samantha Kelly/Bloomberg)",
      "link": "https://www.techmeme.com/261102/p46#a261102p46",
      "pubDate": "Mon, 02 Nov 2026 19:45:01 -0500",
      "summary": "Samantha Kelly / Bloomberg : Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates &nbsp; &mdash;&nbsp; Match Group Inc. disappointed investors after posting weaker-than-expected quarterly revenu",
      "source": "Techmeme",
      "zh": "Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates (Samantha Kelly/Bloomberg)"
+    },
+    {
+     "title": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度",
+     "link": "https://www.tmtpost.com/8190090.html",
+     "pubDate": "Tue, 03 Nov 2026 08:45:00 +0800",
+     "summary": "“非洲手机之王”传音控股，以低端手机做到全球新兴市场销量第一的消费电子企业，也成为中国消费电子出海最成功的样板之一。2023、2024年利润、营收双双攀上巅峰，2025年却被“存储通胀”超级周期打到净利腰斩；囤芯、提价换来2026上半年低基数修复，三季度却再度失速。在存储比主芯片还贵的时代，公司正大举押注端侧AI，为自己寻找定价权的最后一搏。但刚挂牌的H股成交极冷、折价近五成，折射外界对其AI叙事的疑虑重重。",
+     "source": "钛媒体",
+     "zh": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度"
     },
     {
      "title": "中国诚通、中国国新三季度调仓图谱：蓝筹压舱，硬科技探路丨行业风向标",
@@ -1892,7 +1900,7 @@
      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
      "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
      "pubDate": "Tue, 03 Nov 2026 00:08:53 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html Comments URL: https://news.ycombinator.com/item?id=50346153 Points: 86 # Comments: 54",
+     "summary": "Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html Comments URL: https://news.ycombinator.com/item?id=50346153 Points: 94 # Comments: 63",
      "source": "Hacker News",
      "zh": "Intel stock collapse worsens as $3.5T chip rout spreads"
     },
@@ -1908,7 +1916,7 @@
      "title": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
      "link": "https://www.c64-wiki.com/wiki/GUI64",
      "pubDate": "Mon, 02 Nov 2026 23:32:22 +0000",
-     "summary": "Article URL: https://www.c64-wiki.com/wiki/GUI64 Comments URL: https://news.ycombinator.com/item?id=50345735 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://www.c64-wiki.com/wiki/GUI64 Comments URL: https://news.ycombinator.com/item?id=50345735 Points: 9 # Comments: 0",
      "source": "Hacker News",
      "zh": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM"
     },
@@ -2193,6 +2201,86 @@
    "total": 13,
    "items": [
     {
+     "title": "从“为AI供电”到“为万物供电”！大摩：电力 “超级周期”被市场低估了",
+     "link": "https://wallstreetcn.com/articles/3785043",
+     "pubDate": "Tue, 03 Nov 2026 10:48:31 +0800",
+     "summary": "电气化的剧变已经脱离了单纯的AI叙事，一场高达 5000亿美元 的财富创造盛宴正在全球电力市场中加速发酵，而华尔街的定价模型却普遍落后于现实。那些拥有可靠基荷电力、掌握核心电网节点的企业，正在迎来自上世纪工业化以来最强劲的现金流超级周期。 据追风交易台消息，摩根士丹利（Morgan Stanley）全球公用事业团队在11月2日的最新研报中发出了明确信号：全球电力紧张局势将大幅超出预期。电气化“超级周期”的下一波主升浪，已经从单一的“为AI供电”全面升级为“为万物供电”。 摩根士丹利Mayank Maheshwari、Stephen C Byrd等分析师在最新报告中指出， 电力“超级周期”的驱动",
+     "source": "华尔街见闻",
+     "zh": "从“为AI供电”到“为万物供电”！大摩：电力 “超级周期”被市场低估了"
+    },
+    {
+     "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+     "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+     "pubDate": "Tue, 03 Nov 2026 02:47:57 GMT",
+     "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+     "source": "CNBC",
+     "zh": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role"
+    },
+    {
+     "title": "陈春花：AI释放了时间，管理要让目标重新连接",
+     "link": "http://www.eeo.com.cn/2026/1103/1082545.shtml",
+     "pubDate": "Tue, 03 Nov 2026 10:41:11 +0800",
+     "summary": "智能工具让工作变快，也释放出新的时间和能力。真正的管理问题是：这些被释放出来的时间和能力，能否重新连接到组织目标与个人成长之中。",
+     "source": "经济观察网",
+     "zh": "陈春花：AI释放了时间，管理要让目标重新连接"
+    },
+    {
+     "title": "心理观察｜从心理学角度看\"武李之争\"",
+     "link": "http://www.eeo.com.cn/2026/1103/1082541.shtml",
+     "pubDate": "Tue, 03 Nov 2026 10:40:11 +0800",
+     "summary": "用心理学视角去看看心理学从业者是不是真如大家所说的“医者不自医”，是不是失去了它在人格成长上的助益之用。",
+     "source": "经济观察网",
+     "zh": "心理观察｜从心理学角度看\"武李之争\""
+    },
+    {
+     "title": "Emergent outlines $600M-$645M 2026 revenue outlook while raising adjusted gross margin to 45%-47%",
+     "link": "https://seekingalpha.com/news/4663063-emergent-outlines-600m-645m-2026-revenue-outlook-while-raising-adjusted-gross-margin-to-45?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 21:39:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Emergent outlines $600M-$645M 2026 revenue outlook while raising adjusted gross margin to 45%-47%"
+    },
+    {
+     "title": "Bwx technologies targets $5.5B-$6B revenue and $1.1B-$1.2B adjusted EBITDA by 2030 while raising 2026 free cash flow floor to $350M",
+     "link": "https://seekingalpha.com/news/4663062-bwx-technologies-targets-5_5b-6b-revenue-and-1_1b-1_2b-adjusted-ebitda-by-2030-while-raising?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 21:39:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bwx technologies targets $5.5B-$6B revenue and $1.1B-$1.2B adjusted EBITDA by 2030 while raising 2026 free cash flow floor to $350M"
+    },
+    {
+     "title": "多只宽基ETF显著放量 上证50ETF华夏成交额环比上一日增超1.5倍",
+     "link": "http://finance.eastmoney.com/news/1345,202611033919940237.html",
+     "pubDate": "Tue, 03 Nov 2026 10:37:35 +0800",
+     "summary": "开盘1小时，多只宽基ETF显著放量，上证50ETF华夏（510050）成交超70亿，环比上一日增超1.5倍，沪深300ETF华泰柏瑞（510300）、创业板ETF易方达（159915）、科创50ETF华夏（588000）均成交超65亿元。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "多只宽基ETF显著放量 上证50ETF华夏成交额环比上一日增超1.5倍"
+    },
+    {
+     "title": "岚图汽车董事长卢放升任东风集团副总经理",
+     "link": "http://www.eeo.com.cn/2026/1103/1082528.shtml",
+     "pubDate": "Tue, 03 Nov 2026 10:33:27 +0800",
+     "summary": "此次卢放升职，及吴碧磊出任董事、党委副书记，补齐了东风集团领导班子的职务空缺。",
+     "source": "经济观察网",
+     "zh": "岚图汽车董事长卢放升任东风集团副总经理"
+    },
+    {
+     "title": "张柱会见印度尼西亚农业部长苏莱曼",
+     "link": "http://www.eeo.com.cn/2026/1103/1082525.shtml",
+     "pubDate": "Tue, 03 Nov 2026 10:31:47 +0800",
+     "summary": "农业农村部部长张柱在京会见印度尼西亚农业部部长苏莱曼，就深化两国农业合作进行深入交流。",
+     "source": "经济观察网",
+     "zh": "张柱会见印度尼西亚农业部长苏莱曼"
+    },
+    {
+     "title": "Onsemi outlines AI data center revenue target of more than $3B by 2030, backed by $600M Ferric deal",
+     "link": "https://seekingalpha.com/news/4663061-onsemi-outlines-ai-data-center-revenue-target-of-more-than-3b-by-2030-backed-by-600m-ferric?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 02 Nov 2026 21:29:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Onsemi outlines AI data center revenue target of more than $3B by 2030, backed by $600M Ferric deal"
+    },
+    {
      "title": "Tactile Medical targets $50M-$52M adjusted EBITDA in 2026 while maintaining $360M-$366M revenue outlook",
      "link": "https://seekingalpha.com/news/4663060-tactile-medical-targets-50m-52m-adjusted-ebitda-in-2026-while-maintaining-360m-366m-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 02 Nov 2026 21:29:22 -0500",
@@ -2225,28 +2313,20 @@
      "zh": "英特尔股价单月暴跌45%，PC仍占公司约一半营收、代工客户信心动摇"
     },
     {
-     "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
-     "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
-     "pubDate": "Tue, 03 Nov 2026 02:17:10 GMT",
-     "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
-     "source": "CNBC",
-     "zh": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role"
+     "title": "聚焦科技前沿 超1300个项目晋级中国大学生创业计划竞赛决赛",
+     "link": "http://www.eeo.com.cn/2026/1103/1082513.shtml",
+     "pubDate": "Tue, 03 Nov 2026 10:21:48 +0800",
+     "summary": "各高校参赛团队聚焦科技前沿，携硬核创业项目亮相赛场，通过路演、作品展示环节，开展科研成果比拼。",
+     "source": "经济观察网",
+     "zh": "聚焦科技前沿 超1300个项目晋级中国大学生创业计划竞赛决赛"
     },
     {
-     "title": "Neurocrine expects double-digit 2027 INGREZZA volume growth despite mid- to high single-digit net pricing headwinds",
-     "link": "https://seekingalpha.com/news/4663056-neurocrine-expects-double-digit-2027-ingrezza-volume-growth-despite-mid-to-high-single-digit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 21:09:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Neurocrine expects double-digit 2027 INGREZZA volume growth despite mid- to high single-digit net pricing headwinds"
-    },
-    {
-     "title": "Ichor signals full year 2026 revenue growth of roughly 30% while targeting 16.5% Q4 gross margin",
-     "link": "https://seekingalpha.com/news/4663055-ichor-signals-full-year-2026-revenue-growth-of-roughly-30-percent-while-targeting-16_5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 21:09:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ichor signals full year 2026 revenue growth of roughly 30% while targeting 16.5% Q4 gross margin"
+     "title": "力箭二号遥二运载火箭发射成功",
+     "link": "http://www.eeo.com.cn/2026/1103/1082499.shtml",
+     "pubDate": "Tue, 03 Nov 2026 10:09:50 +0800",
+     "summary": "11月3日8时15分，力箭二号遥二运载火箭在东风商业航天创新试验区发射升空，将搭载的千帆极轨21组卫星顺利送入预定轨道，飞行试验任务取得圆满成功。",
+     "source": "经济观察网",
+     "zh": "力箭二号遥二运载火箭发射成功"
     },
     {
      "title": "创业板指盘初一度跌2%后翻红，电池产业链爆发，算力硬件调整、“易中天”再大跌，恒科指涨超1%，科网股拉升",
@@ -2257,20 +2337,20 @@
      "zh": "创业板指盘初一度跌2%后翻红，电池产业链爆发，算力硬件调整、“易中天”再大跌，恒科指涨超1%，科网股拉升"
     },
     {
+     "title": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升",
+     "link": "http://finance.eastmoney.com/news/1345,202611033919845464.html",
+     "pubDate": "Tue, 03 Nov 2026 10:02:02 +0800",
+     "summary": "今日上午，证监会副主席李超在香港国际金融领袖投资峰会上表示，将全力维护资本市场平稳运行。他表示，今年以来，面对多重超预期输入性风险挑战，证监会密切加强监测监控和稳市机制建设，着力夯实市场稳的基础，进一步健全长钱长投制度生态，深入推进公募基金改革，推动社保、年金、保险等中长期资金入市规模和比例稳步提升。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "证监会副主席李超：全力维护资本市场平稳运行 推动中长期资金入市规模和比例稳步提升"
+    },
+    {
      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
      "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
      "pubDate": "Tue, 03 Nov 2026 01:52:28 GMT",
      "summary": "North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
      "source": "CNBC",
      "zh": "North Korea denies links to Binance hack as researchers trace stolen billions"
-    },
-    {
-     "title": "Fabrinet anticipates Q2 revenue of $1.6B-$1.65B while starting Building 11 with ~$3B capacity",
-     "link": "https://seekingalpha.com/news/4663054-fabrinet-anticipates-q2-revenue-of-1_6b-1_65b-while-starting-building-11-with-3b-capacity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 02 Nov 2026 20:50:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Fabrinet anticipates Q2 revenue of $1.6B-$1.65B while starting Building 11 with ~$3B capacity"
     },
     {
      "title": "对冲基金巨头Elliott：当前市场与大萧条前高度相似，熊市的所有警报已经拉响",
@@ -2297,20 +2377,44 @@
      "zh": "野村：AI数据中心非常赚钱，科技股下跌是被市场“错杀”了"
     },
     {
-     "title": "央行出手给人民币降温，上调外汇存款准备金率至6%，离岸人民币急跌200点",
-     "link": "https://wallstreetcn.com/articles/3785039",
-     "pubDate": "Tue, 03 Nov 2026 09:36:11 +0800",
-     "summary": "中国人民银行11月3日宣布，为加强金融机构外汇流动性管理，将自 2026年11月15日 起，上调金融机构外汇存款准备金率 2个百分点 ，由现行的 4%提高至6% 。 外汇存款准备金率是银行必须以外汇形式上缴央行的存款比例。上调这一比率，意味着市场上可流通的外汇流动性将被收紧。 消息一出，市场反应迅速。美元兑离岸人民币短线拉升约200点，最高报 6.6664元 ，跌幅约 0.3% 。这也是离岸人民币近三周来的首次下跌。 国泰君安香港首席经济学家周浩对此表示，此举 “很可能被市场解读为一项定向举措，目的是对冲人民币的快速升值” 。此前，人民币汇率持续走强，此次央行动作，被市场普遍视为一个信号。 本",
-     "source": "华尔街见闻",
-     "zh": "央行出手给人民币降温，上调外汇存款准备金率至6%，离岸人民币急跌200点"
-    },
-    {
      "title": "Supreme Court rejects DOJ&apos;s bid to block California from counting disputed ballots",
      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
      "pubDate": "Tue, 03 Nov 2026 01:32:13 GMT",
      "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
      "source": "CNBC",
      "zh": "Supreme Court rejects DOJ&apos;s bid to block California from counting disputed ballots"
+    },
+    {
+     "title": "深市公司在途回购1182亿元 市值龙头从“激励”转向“注销” 股东回报摆到台前",
+     "link": "http://stock.eastmoney.com/news/11215,202611033919695347.html",
+     "pubDate": "Tue, 03 Nov 2026 09:27:00 +0800",
+     "summary": "回购的用途变化正在成为这轮A股回购里最值得关注的一个变量信号，更被视为市场主体对“稳市场稳预期”的支持。 财联社注意到，最近一批深市龙头上市公司回购情况的变化与进展值得关注，比如 京东方A 近10亿元A股回购实施完毕并将依法注销，控股股东同期增持1.861亿股，或是 立讯精密 累计回购金额已贴近10亿元方案下限。 整体来看，深市上市公司回购的情况有不少看点，有三大变化较为突出。一是披露密度与在途规模同步抬升，231单、1182亿元构成基本盘；二是用途从“激励”向“注销”分流，同一条AI光模块产业链上的公司做出不同选择；三是支撑大额回购的是基本面，回购更像一份对未来现金流的保证。 这些变化也体现",
+     "source": "东方财富资讯",
+     "zh": "深市公司在途回购1182亿元 市值龙头从“激励”转向“注销” 股东回报摆到台前"
+    },
+    {
+     "title": "11月3日集合竞价：东方海洋、阳光照明4连板",
+     "link": "http://stock.eastmoney.com/news/11752,202611033919647836.html",
+     "pubDate": "Tue, 03 Nov 2026 09:26:10 +0800",
+     "summary": "11月3日，三大指数集体低开，上证指数低开0.37%，深证成指低开0.69%，创业板指低开1.18%。板块方面， 白银 领涨， 盛达资源 涨2.89%， 贵金属 、 黄金 等开盘涨幅居前。 个股方面，12股竞价涨停，其中 东方海洋 4连板、 阳光照明 4连板、 皇台酒业 3连板、 劲旅环境 2连板、 高争民爆 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承",
+     "source": "东方财富资讯",
+     "zh": "11月3日集合竞价：东方海洋、阳光照明4连板"
+    },
+    {
+     "title": "一箭18星！中科宇航力箭二号首担千帆组网任务 火箭批产与可回收同步推进",
+     "link": "http://finance.eastmoney.com/news/1344,202611033919618727.html",
+     "pubDate": "Tue, 03 Nov 2026 09:18:17 +0800",
+     "summary": "2026年11月3日8时15分25秒，中科宇航力箭二号遥二运载火箭在东风 商业航天 创新试验区点火升空，将千帆极轨21组共18颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。 中科宇航相关负责人在发射现场告诉《科创板日报》记者， 这是力箭二号第二次飞行，也是力箭系列运载火箭第18次发射。截至目前，力箭二号运载火箭入轨载荷总重量超9吨，力箭系列运载火箭已成功将1艘飞船、139颗卫星送入太空。 继首飞将轻舟初样试飞船送入轨道后，力箭二号首次执行 卫星互联网 大规模组网任务，开始由单项任务验证迈向批量组网交付。 中科宇航力箭二号遥二运载火箭记者李明明现场拍摄 18颗卫星“一次解锁”，提升批量部署效",
+     "source": "东方财富资讯",
+     "zh": "一箭18星！中科宇航力箭二号首担千帆组网任务 火箭批产与可回收同步推进"
+    },
+    {
+     "title": "不抢口红抢Token！李佳琦半小时卖出2万亿 算力商品化大幕开启(附股)",
+     "link": "http://finance.eastmoney.com/news/11822,202611033919515775.html",
+     "pubDate": "Tue, 03 Nov 2026 09:02:17 +0800",
+     "summary": "今年双11，Token以独立品类在多个电商平台上架，大模型厂商的相关服务也已进入充值中心和品牌店铺。从电商大促到算力商品化，AI正加速走进消费端。 Token首次摆上双11货架 昨日晚间，李佳琦直播间首次开卖AI算力商品， 阿里巴巴 副总裁、千问办公CEO陈宇森做客直播间，与李佳琦共同展示千问办公的应用场景。 此次直播间售卖的具体商品是千问办公个人基础版会员月卡，以0.01元的促销价上架（原价28元），开卖半小时即售出近10万份，对应的AI算力额度合计约 2万亿 Token ，直播间整场总计发放20万亿Token。 事实上，Token上架电商早有铺垫。9月3日，天猫上线“AI空间站”Token",
+     "source": "东方财富资讯",
+     "zh": "不抢口红抢Token！李佳琦半小时卖出2万亿 算力商品化大幕开启(附股)"
     },
     {
      "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
@@ -2335,102 +2439,6 @@
      "summary": "The “tech wreck” from October continues. Is a bear market next?",
      "source": "MarketWatch",
      "zh": "Nasdaq-100 tumbles into its third correction this year as AI worries mount"
-    },
-    {
-     "title": "Nyse tokenised securities platform gets on-chain shareholder services through Broadridge",
-     "link": "https://www.finextra.com/newsarticle/48688/nyse-tokenised-securities-platform-gets-on-chain-shareholder-services-through-broadridge?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 03 Nov 2026 00:01:00 GMT",
-     "summary": "Broadridge is planning to bring on-chain shareholder governance and digital transfer agency services to the New York Stock Exchange’s new tokenised securities platform.",
-     "source": "Finextra",
-     "zh": "Nyse tokenised securities platform gets on-chain shareholder services through Broadridge"
-    },
-    {
-     "title": "Goldman bans traders and bankers from using AI coding tools",
-     "link": "https://www.finextra.com/newsarticle/48690/goldman-bans-traders-and-bankers-from-using-ai-coding-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 03 Nov 2026 00:01:00 GMT",
-     "summary": "Goldman Sachs has banned traders and other employees from using advanced AI tools for coding over productivity and risk concerns, according to Bloomberg",
-     "source": "Finextra",
-     "zh": "Goldman bans traders and bankers from using AI coding tools"
-    },
-    {
-     "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
-     "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 23:39:00 GMT",
-     "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.",
-     "source": "MarketWatch",
-     "zh": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’"
-    },
-    {
-     "title": "Stock market after midterm elections: What S&P 500 history shows",
-     "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-     "pubDate": "Mon, 02 Nov 2026 23:13:34 GMT",
-     "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
-     "source": "CNBC",
-     "zh": "Stock market after midterm elections: What S&P 500 history shows"
-    },
-    {
-     "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-     "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-     "pubDate": "Mon, 02 Nov 2026 22:53:20 GMT",
-     "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
-     "source": "CNBC",
-     "zh": "Palantir reports booming U.S. commercial revenue growth, topping government for first time"
-    },
-    {
-     "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
-     "link": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
-     "pubDate": "Mon, 02 Nov 2026 22:45:26 GMT",
-     "summary": "US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote",
-     "source": "Financial Times",
-     "zh": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push"
-    },
-    {
-     "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
-     "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 22:03:00 GMT",
-     "summary": "Some investors appeared a little too eager to buy the dip in technology stocks last month.",
-     "source": "MarketWatch",
-     "zh": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned"
-    },
-    {
-     "title": "Wall Street’s most hated stocks are faring far better than its favorites",
-     "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-     "pubDate": "Mon, 02 Nov 2026 21:45:00 GMT",
-     "summary": "The thrashing that Wall Street’s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market.",
-     "source": "MarketWatch",
-     "zh": "Wall Street’s most hated stocks are faring far better than its favorites"
-    },
-    {
-     "title": "Democrats close ranks after shock Michigan defection",
-     "link": "https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1",
-     "pubDate": "Mon, 02 Nov 2026 21:35:58 GMT",
-     "summary": "Haley Stevens’ support for Republican candidate instead of Abdul El-Sayed provokes a swift backlash",
-     "source": "Financial Times",
-     "zh": "Democrats close ranks after shock Michigan defection"
-    },
-    {
-     "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
-     "link": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
-     "pubDate": "Mon, 02 Nov 2026 21:15:13 GMT",
-     "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
-     "source": "CNBC",
-     "zh": "Trump focuses on Reflecting Pool in final public speech before midterms"
-    },
-    {
-     "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
-     "link": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
-     "pubDate": "Mon, 02 Nov 2026 20:38:05 GMT",
-     "summary": "On the eve of the midterm elections, Americans say they want politicians who can better handle the economy",
-     "source": "Financial Times",
-     "zh": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll"
-    },
-    {
-     "title": "Key races that will decide the US midterm elections",
-     "link": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1",
-     "pubDate": "Mon, 02 Nov 2026 20:12:26 GMT",
-     "summary": "Will a Democratic ‘blue wave’ sweep Congress away from Republicans — and render the president a lame duck?",
-     "source": "Financial Times",
-     "zh": "Key races that will decide the US midterm elections"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/3 20:08:33",
+ "generated_at": "2026/11/3 20:12:01",
  "recent_days": 7,
  "industries": [
   {
@@ -265,14 +265,6 @@
      "zh": "BluGlass highlights September-quarter activities"
     },
     {
-     "title": "OpenUK’s Space Tech Radar report plots open technology in space",
-     "link": "https://www.electronicsweekly.com/news/openuks-space-tech-radar-report-plots-open-technology-in-space-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 10:47:17 +0000",
-     "summary": "OpenUK has launched its first Space Tech Radar report, covering both Earth observation (EO) and space observation (SO), in terms of open technology projects. It is a non-profit organisation covering […] The post OpenUK’s Space Tech Radar report plots open technology in space appeared first on Electr",
-     "source": "Electronics Weekly",
-     "zh": "OpenUK’s Space Tech Radar report plots open technology in space"
-    },
-    {
      "title": "CSBC Taiwan, Havoc advance local production of unmanned boats",
      "link": "https://www.digitimes.com/news/a20261103PD237/taiwan-production-2026-partnership-technology.html",
      "pubDate": "Tue, 3 Nov 2026 09:42:11 GMT",
@@ -335,46 +327,6 @@
      "summary": "Meter-scale quantum interconnects; 2.5D/3D GPU integration and embodied emissions; secure memory-dependent prefetching; routing-aware analog placement; AI-enhanced flip-chip defect detection; superposed PCM for neural-network vector storage. The post Chip Industry Technical Paper Roundup: Nov. 3 app",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 3"
-    },
-    {
-     "title": "Marvell buys Lumentum",
-     "link": "https://www.electronicsweekly.com/news/business/marvell-buys-lumentum-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:13:40 +0000",
-     "summary": "Marvell is to buy photonics specialist Lumentum for $115 billion in what is being seen as a bet on the continuation of the datacentre build out. “AI infrastructure is undergoing […] The post Marvell buys Lumentum appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Marvell buys Lumentum"
-    },
-    {
-     "title": "Greece unveils semiconductor strategy",
-     "link": "https://www.electronicsweekly.com/news/business/greece-unveils-semiconductor-strategy-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:12:39 +0000",
-     "summary": "Greece has opened a draft national strategy for semiconductors and microelectronics for public consultation, setting out how the country hopes to build a larger role in chip design, research and […] The post Greece unveils semiconductor strategy appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Greece unveils semiconductor strategy"
-    },
-    {
-     "title": "Imec spin-off Noak raises €5m",
-     "link": "https://www.electronicsweekly.com/news/business/imec-spin-off-noak-raises-e5m-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:11:57 +0000",
-     "summary": "Noak, a spin-off of imec and UHasselt, has raised €5 million to scale and industrialize the development of the next generation of solar: perovskite–silicon tandem PV. The seed investment, provided […] The post Imec spin-off Noak raises €5m appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Imec spin-off Noak raises €5m"
-    },
-    {
-     "title": "Hynix Q3 breaks all records",
-     "link": "https://www.electronicsweekly.com/news/business/hynix-q3-breaks-all-records-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:10:06 +0000",
-     "summary": "Hynix had record Q3 results with revenue of $78.14 billion, up 31.9% QoQ and 327.9% YoY. Profit of$62.25 billion was up 37.6% QoQ and 632% YoY. Operating margin was around […] The post Hynix Q3 breaks all records appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Hynix Q3 breaks all records"
-    },
-    {
-     "title": "Infineon and Qualcomm hook up for in-car computing",
-     "link": "https://www.electronicsweekly.com/news/business/infineon-and-qualcomm-book-up-for-in-car-computing-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:08:47 +0000",
-     "summary": "Infineon and Qualcomm are working together to accelerate the development and deployment of central car computers in software-defined vehicles (SDVs). The companies have signed a technology agreement to have a […] The post Infineon and Qualcomm hook up for in-car computing appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Infineon and Qualcomm hook up for in-car computing"
     },
     {
      "title": "Macronix Builds Hardware Security into NOR Flash Ahead of EU Cyber Resilience Act",
@@ -1393,20 +1345,20 @@
      "zh": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS"
     },
     {
-     "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
-     "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
-     "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
-     "source": "Space.com",
-     "zh": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station"
-    },
-    {
      "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
      "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
      "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
      "source": "Space.com",
      "zh": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026"
+    },
+    {
+     "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
+     "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
+     "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station"
     },
     {
      "title": "How to Expand Reliable, Flexible Access to Space",
@@ -1545,6 +1497,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+     "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+     "pubDate": "Tue, 03 Nov 2026 07:05:52 -0500",
+     "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+     "source": "BleepingComputer",
+     "zh": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs"
+    },
+    {
      "title": "Harvard University data breach exposed info of 851,000 accounts",
      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
      "pubDate": "Tue, 03 Nov 2026 05:53:25 -0500",
@@ -1681,14 +1641,6 @@
      "zh": "BTCPay Server warns of hot wallet crypto thefts on outdated instances"
     },
     {
-     "title": "Your Mobile Carrier Stores Your Call Logs for Years",
-     "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
-     "pubDate": "Mon, 02 Nov 2026 10:01:11 -0500",
-     "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting ",
-     "source": "BleepingComputer",
-     "zh": "Your Mobile Carrier Stores Your Call Logs for Years"
-    },
-    {
      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
      "pubDate": "Mon, 02 Nov 2026 15:01:11 +0000",
@@ -1759,6 +1711,14 @@
      "summary": "IT之家 11 月 3 日消息，索尼 SIE 宣布，PlayStation Partner Awards 2026 Japan Asia（PlayStation 合作伙伴奖）将于 12 月 3 日举行。活动将根据 2025 年 10 月至 2026 年 9 月的游戏销售表现，对 PlayStation 平台游戏进行表彰，共设 7 个奖项，获奖名单预计于 12 月 3 日公布。 IT之家获悉，今年活动新增 3 个奖项，分别为表彰持续更新、通过活动保持玩家活跃度的“持续游戏奖”，面向日本 / 亚洲地区独立游戏的“独立创作者奖”，以及充分发挥 PS5 Pro 性能的“PS5 PRO 优化奖”。 目前",
      "source": "IT之家",
      "zh": "索尼 2026 年度 PlayStation 合作伙伴颁奖活动将于 12 月 3 日举办，新增独立创作者等三个奖项"
+    },
+    {
+     "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+     "link": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
+     "pubDate": "Tue, 03 Nov 2026 12:01:01 +0000",
+     "summary": "Article URL: https://www.ycombinator.com/companies/sava-trust-company/jobs Comments URL: https://news.ycombinator.com/item?id=50350924 Points: 0 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC"
     },
     {
      "title": "TrendForce：AI 网络与互连持续接近翻倍增长，2027 年产值 2798 亿美元",
@@ -1884,7 +1844,7 @@
      "title": "Sam Altman's Case Against Your RAM Is Efficient. That's the Problem",
      "link": "https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/",
      "pubDate": "Tue, 03 Nov 2026 11:32:43 +0000",
-     "summary": "Article URL: https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/ Comments URL: https://news.ycombinator.com/item?id=50350693 Points: 3 # Comments: 4",
+     "summary": "Article URL: https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/ Comments URL: https://news.ycombinator.com/item?id=50350693 Points: 13 # Comments: 17",
      "source": "Hacker News",
      "zh": "Sam Altman's Case Against Your RAM Is Efficient. That's the Problem"
     },
@@ -1903,6 +1863,14 @@
      "summary": "Gareth Vipers / Wall Street Journal : OpenAI hires former US Army Secretary Dan Driscoll to oversee national security modernization, as it pushes to secure government contracts and shape policy &nbsp; &mdash;&nbsp; Driscoll will advise on ways AI could bolster U.S. security capabilities and cyber de",
      "source": "Techmeme",
      "zh": "OpenAI hires former US Army Secretary Dan Driscoll to oversee national security modernization, as it pushes to secure government contracts and shape policy (Gareth Vipers/Wall Street Journal)"
+    },
+    {
+     "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+     "link": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+     "pubDate": "Tue, 03 Nov 2026 11:16:07 +0000",
+     "summary": "Article URL: https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html Comments URL: https://news.ycombinator.com/item?id=50350560 Points: 11 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly"
     },
     {
      "title": "China plans to roll out broad AI safety standards covering development through deployment, targeting domestic AI model makers, after global security incidents (Bloomberg)",
@@ -1975,22 +1943,6 @@
      "summary": "Catch more Z’s with soothing background noise from our favorite sound machines.",
      "source": "WIRED",
      "zh": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More"
-    },
-    {
-     "title": "康佳退市：同一代彩电巨头，为什么活成了完全不同的样子",
-     "link": "https://www.tmtpost.com/8188443.html",
-     "pubDate": "Tue, 03 Nov 2026 18:30:50 +0800",
-     "summary": "康佳黯然摘牌退市，曾经同一起跑线的国产彩电巨头走向分化。TCL 押注面板、海信深耕显示技术、小米依托 IoT 生态、创维转向光伏、长虹困于代工，康佳却在无序多元化与治理失序中溃败，折射存量时代制造企业构建核心壁垒的生死命题。",
-     "source": "钛媒体",
-     "zh": "康佳退市：同一代彩电巨头，为什么活成了完全不同的样子"
-    },
-    {
-     "title": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考",
-     "link": "https://www.tmtpost.com/8191572.html",
-     "pubDate": "Tue, 03 Nov 2026 18:13:15 +0800",
-     "summary": "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。",
-     "source": "钛媒体",
-     "zh": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考"
     }
    ]
   },
@@ -2249,12 +2201,76 @@
    "total": 13,
    "items": [
     {
+     "title": "Versant earnings beat expectations as digital platforms drive growth",
+     "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+     "pubDate": "Tue, 03 Nov 2026 12:06:59 GMT",
+     "summary": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
+     "source": "CNBC",
+     "zh": "Versant earnings beat expectations as digital platforms drive growth"
+    },
+    {
+     "title": "Palantir stock is down 8%. Analysts say bookings growth is to blame.",
+     "link": "https://www.marketwatch.com/story/palantir-stock-is-down-8-analysts-say-bookings-growth-is-to-blame-0492921b?mod=mw_rss_topstories",
+     "pubDate": "Tue, 03 Nov 2026 12:06:00 GMT",
+     "summary": "Analysts at Morgan Stanley pointed to a slowdown in a number of bookings metrics in the third quarter as worth picking at.",
+     "source": "MarketWatch",
+     "zh": "Palantir stock is down 8%. Analysts say bookings growth is to blame."
+    },
+    {
+     "title": "Beam Therapeutics GAAP EPS of -$1.28 misses by $0.13, revenue of $0.31M",
+     "link": "https://seekingalpha.com/news/4663280-beam-therapeutics-gaap-eps-of-1_28-misses-by-0_13-revenue-of-0_31m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 07:04:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Beam Therapeutics GAAP EPS of -$1.28 misses by $0.13, revenue of $0.31M"
+    },
+    {
+     "title": "【调研快报】中船汉光接待泰康资产调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611033920429266.html",
+     "pubDate": "Tue, 03 Nov 2026 20:04:51 +0800",
+     "summary": "中船汉光 11月3日公告称， 11月3日 接待泰康资产 调研。 接待人员包括副总经理、董事会秘书 王冬雪。 公司就以下问题进行了回复： 主要问题和回复如下: 1.请简要介绍一下公司情况? 答:公司间接控股股东是 中国船舶 集团有限公司,公司位于河北省邯郸市。公司主要从事打印复印静电成像设备及成像耗材业务、特种精密加工业务,主要产品为墨粉、OPC 鼓、打印复印设备、特种精密加工产品,其中墨粉和 OPC 鼓是打印机、复印机、多功能一体机的... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。",
+     "source": "东方财富股票",
+     "zh": "【调研快报】中船汉光接待泰康资产调研"
+    },
+    {
+     "title": "前白宫通讯主任：特朗普中期选举恐遭遇惨败 他自己也心知肚明",
+     "link": "http://finance.eastmoney.com/news/1351,202611033920429696.html",
+     "pubDate": "Tue, 03 Nov 2026 20:04:00 +0800",
+     "summary": "美国前白宫通讯主任、SkyBridge Capital创始人安东尼·斯卡拉穆奇（Anthony Scaramucci）周二表示， 他预计美国总统唐纳德·特朗普（Donald Trump）将在当天举行的中期选举中遭遇重大挫折，并认为特朗普本人也清楚这一风险。 斯卡拉穆奇当天接受美国消费者新闻与商业频道（CNBC）《Squawk Box Europe》节目采访时表示，美国正处于一场文化与经济斗争之中，两大政党正在争夺国家未来的发展方向。他认为，选民对特朗普经济政策的评价将成为选举的重要考验。 CNBC全美经济调查显示，特朗普的经济施政支持率上月跌至历史最低水平。受访者中，65%不认可特朗普处理经济",
+     "source": "东方财富股票",
+     "zh": "前白宫通讯主任：特朗普中期选举恐遭遇惨败 他自己也心知肚明"
+    },
+    {
+     "title": "DigitalOcean Non-GAAP EPS of $0.45 beats by $0.13, revenue of $321M beats by $14.26M",
+     "link": "https://seekingalpha.com/news/4663277-digitalocean-non-gaap-eps-of-0_45-beats-by-0_13-revenue-of-321m-beats-by-14_26m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 07:03:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "DigitalOcean Non-GAAP EPS of $0.45 beats by $0.13, revenue of $321M beats by $14.26M"
+    },
+    {
+     "title": "Upstart GAAP EPS of $0.33 beats by $0.10, revenue of $371M beats by $7.3M; updates FY outlook",
+     "link": "https://seekingalpha.com/news/4663278-upstart-gaap-eps-of-033-beats-by-010-revenue-of-371m-beats-by-73m-updates-fy-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 07:03:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Upstart GAAP EPS of $0.33 beats by $0.10, revenue of $371M beats by $7.3M; updates FY outlook"
+    },
+    {
      "title": "Shopify Inc Non-GAAP EPS of $0.49 beats by $0.03, revenue of $3.74B in-line",
      "link": "https://seekingalpha.com/news/4663275-shopify-inc-non-gaap-eps-of-0_49-beats-by-0_03-revenue-of-3_74b-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 03 Nov 2026 07:02:13 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Shopify Inc Non-GAAP EPS of $0.49 beats by $0.03, revenue of $3.74B in-line"
+    },
+    {
+     "title": "【调研快报】拓斯达接待HSZ Group等61家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611033920426111.html",
+     "pubDate": "Tue, 03 Nov 2026 20:01:53 +0800",
+     "summary": "拓斯达 11月3日公告称， 11月3日 接待HSZ Group 等61家机构 调研。 接待人员包括投资总监 谢仕梅。 公司就以下问题进行了回复： 1、如何理解公司“场景+ 机器人 +数据+AI”的商业闭环 答:凭借在智能制造领域近二十载的经验,公司在 塑料 、金属两大基础材料的加工设备-注塑装备、数控机床方面积累了深厚经验。公司已接触超过 200,000 家潜在客户,累计服务超过15,000 家客户,涵盖 消费电子 、 汽车 、 家用电器 、日化、包装、玩... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信",
+     "source": "东方财富股票",
+     "zh": "【调研快报】拓斯达接待HSZ Group等61家机构调研"
     },
     {
      "title": "CVR Partners GAAP EPS of -$1.02, revenue of $146.15M",
@@ -2281,14 +2297,6 @@
      "zh": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell"
     },
     {
-     "title": "Versant earnings beat expectations as digital platforms drive growth",
-     "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
-     "pubDate": "Tue, 03 Nov 2026 12:00:58 GMT",
-     "summary": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
-     "source": "CNBC",
-     "zh": "Versant earnings beat expectations as digital platforms drive growth"
-    },
-    {
      "title": "Pfizer hikes full-year outlook, taps company veteran as new CFO",
      "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
      "pubDate": "Tue, 03 Nov 2026 12:00:54 GMT",
@@ -2297,28 +2305,28 @@
      "zh": "Pfizer hikes full-year outlook, taps company veteran as new CFO"
     },
     {
-     "title": "ADT Non-GAAP EPS of $0.24 beats by $0.01, revenue of $1.3B misses by $20M",
-     "link": "https://seekingalpha.com/news/4663269-adt-non-gaap-eps-of-0_24-beats-by-0_01-revenue-of-1_3b-misses-by-20m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 06:58:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ADT Non-GAAP EPS of $0.24 beats by $0.01, revenue of $1.3B misses by $20M"
+     "title": "盈峰环境：董事长拟增持公司股份不低于1000万元",
+     "link": "http://finance.eastmoney.com/news/1354,202611033920427313.html",
+     "pubDate": "Tue, 03 Nov 2026 20:00:00 +0800",
+     "summary": "盈峰环境 (000967)11月3日公告，公司董事长兼总裁马刚拟通过法律法规允许的方式在6个月内增持公司股份，合计增持金额不低于1000万元。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "盈峰环境：董事长拟增持公司股份不低于1000万元"
     },
     {
-     "title": "Ametek beats top-line and bottom-line estimates; gives Q4 and updates FY26 outlook",
-     "link": "https://seekingalpha.com/news/4663271-ametek-beats-top-line-and-bottom-line-estimates-gives-q4-and-updates-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 06:58:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ametek beats top-line and bottom-line estimates; gives Q4 and updates FY26 outlook"
+     "title": "Bernstein下调Lumentum目标价",
+     "link": "http://finance.eastmoney.com/news/1354,202611033920427886.html",
+     "pubDate": "Tue, 03 Nov 2026 19:58:54 +0800",
+     "summary": "Bernstein下调Lumentum（LITE.O）目标价，目标价从1220美元下调至900美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "Bernstein下调Lumentum目标价"
     },
     {
-     "title": "USA Compression Partners GAAP EPS of $0.33 beats by $0.03, revenue of $357.2M beats by $9.14M",
-     "link": "https://seekingalpha.com/news/4663268-usa-compression-partners-gaap-eps-of-0_33-beats-by-0_03-revenue-of-357_2m-beats-by-9_14m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 06:57:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "USA Compression Partners GAAP EPS of $0.33 beats by $0.03, revenue of $357.2M beats by $9.14M"
+     "title": "磷化铟龙头，签下五年长单",
+     "link": "http://finance.eastmoney.com/news/1354,202611033920430091.html",
+     "pubDate": "Tue, 03 Nov 2026 19:58:27 +0800",
+     "summary": "11月3日晚间， 云南锗业 披露，控股子公司云南鑫耀与 应用光电 公司（Applied Optoelectronics, Inc.，以下简称“AOI”）签订《长期供货协议》及《年度合同》。 其中，2027年度约定采购18万片4英寸N型磷化铟衬底，对应金额1.944亿美元（不含税），折合人民币约13.05亿元，相当于 云南锗业 2025年度经审计营业收入的122.46%。 五年预计采购90万片 首年合同金额约13亿元 根据《长期供货协议》，AOI预计于2027年至2031年期间，每年向云南鑫耀采购18万片4英寸N型磷化铟衬底，五年预计采购总量为90万片。实际价格和交付数量以后续年度合同、采购订单",
+     "source": "东方财富股票",
+     "zh": "磷化铟龙头，签下五年长单"
     },
     {
      "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
@@ -2364,7 +2372,7 @@
      "title": "券商集体出手！数百亿资金集结 正待入市",
      "link": "http://forex.eastmoney.com/news/1131,202611033920405057.html",
      "pubDate": "Tue, 03 Nov 2026 19:05:00 +0800",
-     "summary": "财联社11月3日讯 千亿元互换便利额度落地当天，券商率先亮出了各自的“认领单”。 11月3日，央行开展第三次证券、基金、保险公司互换便利（SFISF，下称“互换便利”）操作，金额1000亿元，31家证券、基金公司参与投标，中标费率10bp。 公告发布后， 国泰海通 、 中信证券 先后披露各自中标100亿元， 东吴证券 中标50亿元； 东方证券 、 招商证券 、 国信证券 、平安证券、 长城证券 、 国联民生 、华福证券也宣布中标。此外，记者还获悉， 广发证券 也已中标。 仅已披露金额的几家券商，合计就拿超280亿元。值得期待的是，几家券商均表示互换便利将用来增持股票和股票ETF。 国泰海通 称",
+     "summary": "千亿元互换便利额度落地当天，券商率先亮出了各自的“认领单”。 11月3日，央行开展第三次证券、基金、保险公司互换便利（SFISF，下称“互换便利”）操作，金额1000亿元，31家证券、基金公司参与投标，中标费率10bp。 公告发布后， 国泰海通 、 中信证券 先后披露各自中标100亿元， 东吴证券 中标50亿元； 东方证券 、 招商证券 、 国信证券 、平安证券、 长城证券 、 国联民生 、华福证券也宣布中标。此外，记者还获悉， 广发证券 也已中标。 仅已披露金额的几家券商，合计就拿超280亿元。值得期待的是，几家券商均表示互换便利将用来增持股票和股票ETF。 国泰海通 称额度将尽快全部投入使",
      "source": "东方财富资讯",
      "zh": "券商集体出手！数百亿资金集结 正待入市"
     },
@@ -2431,62 +2439,6 @@
      "summary": "上市券商三季报披露完毕，43家券商前三季度自营业务合计收入2035.9亿元，同比增长8.85%，营收占比提升至40.78%。前三季30家券商自营收入同比下滑，占比为69.77%。 第三季度单季表现更为惨淡，上述43家券商Q3自营收入整体环比下滑68.88%，下滑券商占比超八成，14家环比降幅超过80%。同比来看，整体第三季自营收入下滑53.22%，近八成券商同比下滑，其中20家业绩\"腰斩\"、9家自营亏损。 在市场剧烈波动中，有“科技券商”异军突起， 华安证券 、 招商证券 第三季自营收入分别同比增长3.36倍和1.51倍。 前三季：7家破百亿，华安、招商翻倍增长 在13家前三季度自营收入同比增",
      "source": "东方财富资讯",
      "zh": "自营翻脸 成为Q3业绩绊脚石 14家券商自营环比降超八成"
-    },
-    {
-     "title": "Thousands of Disney job cuts may be coming. Investors are asking what comes next.",
-     "link": "https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 10:36:00 GMT",
-     "summary": "Reports that the Walt Disney Company is poised to lay off thousands of workers didn’t seem to move the needle for its languishing stock on Tuesday.",
-     "source": "MarketWatch",
-     "zh": "Thousands of Disney job cuts may be coming. Investors are asking what comes next."
-    },
-    {
-     "title": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings",
-     "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-     "pubDate": "Tue, 03 Nov 2026 10:34:38 GMT",
-     "summary": "The iPhone-maker and software giant fell after earnings failed to impress investors.",
-     "source": "CNBC",
-     "zh": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings"
-    },
-    {
-     "title": "This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500",
-     "link": "https://www.marketwatch.com/story/this-signal-from-the-corporate-bond-market-has-historically-preceded-big-drawdowns-for-the-s-p-500-8c1a3d25?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 10:31:00 GMT",
-     "summary": "The corporate bond market has been flashing a signal that historically precedes bad news for the stock market.",
-     "source": "MarketWatch",
-     "zh": "This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500"
-    },
-    {
-     "title": "What analysts are saying as Apple’s stock falls after earnings report",
-     "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 10:20:00 GMT",
-     "summary": "Shares in Apple declined 4.5% in premarket trading after investors were left feeling disappointed about the company’s gross margin outlook and slowing services revenue growth.",
-     "source": "MarketWatch",
-     "zh": "What analysts are saying as Apple’s stock falls after earnings report"
-    },
-    {
-     "title": "Motivational speaker Mel Robbins’ real estate journey from a Massachusetts farmhouse to a Vermont retreat",
-     "link": "https://www.marketwatch.com/story/motivational-speaker-mel-robbins-real-estate-journey-from-a-massachusetts-farmhouse-to-a-vermont-retreat-85b4d958?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 10:02:00 GMT",
-     "summary": "Mel Robbins has built a career around helping people change their lives—and her own housing history includes a major change of direction.",
-     "source": "MarketWatch",
-     "zh": "Motivational speaker Mel Robbins’ real estate journey from a Massachusetts farmhouse to a Vermont retreat"
-    },
-    {
-     "title": "US voters prepare to deliver verdict on Trump",
-     "link": "https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1",
-     "pubDate": "Tue, 03 Nov 2026 10:00:06 GMT",
-     "summary": "Congressional races across nation will determine whether president’s Republican Party will retain its majorities in Congress",
-     "source": "Financial Times",
-     "zh": "US voters prepare to deliver verdict on Trump"
-    },
-    {
-     "title": "Oil prices climb after U.S. strikes Iran&apos;s Qeshm Island",
-     "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-     "pubDate": "Tue, 03 Nov 2026 09:58:37 GMT",
-     "summary": "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war.",
-     "source": "CNBC",
-     "zh": "Oil prices climb after U.S. strikes Iran&apos;s Qeshm Island"
     }
    ]
   },

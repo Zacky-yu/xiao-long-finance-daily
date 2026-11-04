@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/4 13:11:53",
+ "generated_at": "2026/11/4 13:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -641,6 +641,14 @@
    "total": 5,
    "items": [
     {
+     "title": "BYD's Denza N9 to add all-electric version with 5- and 6-seat layouts",
+     "link": "https://cnevpost.com/2026/11/04/byd-denza-n9-all-electric-version-filing/",
+     "pubDate": "Wed, 04 Nov 2026 05:26:38 +0000",
+     "summary": "The all-electric Denza N9 features a tri-motor all-wheel-drive system with a combined peak output of 890 kW (1,194 hp). For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "BYD's Denza N9 to add all-electric version with 5- and 6-seat layouts"
+    },
+    {
      "title": "Chery's iCar V25 boxy extended-range SUV set for November 19 launch",
      "link": "https://cnevpost.com/2026/11/04/chery-icar-v25-nov-19-launch/",
      "pubDate": "Wed, 04 Nov 2026 03:44:52 +0000",
@@ -775,14 +783,6 @@
      "summary": "The oil giant’s EV charging subsidiary is now part of North America’s largest roaming network, making life a little easier for drivers.",
      "source": "InsideEVs",
      "zh": "Finding And Using BP Pulse EV Chargers Just Got A Whole Lot Easier"
-    },
-    {
-     "title": "Nio adds 10 million battery swaps in 88 days, taking total past 130 million",
-     "link": "https://cnevpost.com/2026/11/03/nio-battery-swaps-130-million/",
-     "pubDate": "Tue, 03 Nov 2026 12:01:00 +0000",
-     "summary": "Nio said daily battery swaps averaged more than 110,000 over the past 88 days. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Nio adds 10 million battery swaps in 88 days, taking total past 130 million"
     },
     {
      "title": "Mercedes-Benz Is Giving Up On Its EV Charging Network In Europe",
@@ -1745,6 +1745,78 @@
    "total": 18,
    "items": [
     {
+     "title": "AI视频的下一场竞争",
+     "link": "https://www.tmtpost.com/8192972.html",
+     "pubDate": "Wed, 04 Nov 2026 13:23:00 +0800",
+     "summary": "生成容易，交付不易。",
+     "source": "钛媒体",
+     "zh": "AI视频的下一场竞争"
+    },
+    {
+     "title": "谷歌调整美国中小学账户设置：要么开放 AI 搜索，要么彻底禁用搜索",
+     "link": "https://www.ithome.com/1/022/039.htm",
+     "pubDate": "Wed, 04 Nov 2026 05:18:42 GMT",
+     "summary": "IT之家 11 月 4 日消息，据彭博社报道，当地时间 3 日，谷歌宣布调整面向美国中小学的服务权限。今后，学校如果想让学生使用谷歌搜索，必须由管理员主动开启，但搜索服务内置的 AI 功能也会一并开放。 谷歌教育业务副总裁兼总经理克里斯 · 菲利普斯表示，幼儿园至高三学生的账户 默认无法使用谷歌搜索、Gemini 聊天机器人、Gemini Notebook 以及谷歌课堂中的 Gemini 功能 ，学校管理员必须手动开启这些服务。 不过，一旦启用谷歌搜索，学生也能使用其中的 AI 功能。谷歌计划在未来几个月向学校公布更多实施细节，以便学校提前做好准备。 谷歌的 Chromebook 是美国学校使",
+     "source": "IT之家",
+     "zh": "谷歌调整美国中小学账户设置：要么开放 AI 搜索，要么彻底禁用搜索"
+    },
+    {
+     "title": "曝 Galaxy A38 额定 5882mAh，有望成三星 Galaxy A 系列电池容量最大手机",
+     "link": "https://www.ithome.com/1/022/038.htm",
+     "pubDate": "Wed, 04 Nov 2026 05:15:24 GMT",
+     "summary": "IT之家 11 月 4 日消息，荷兰科技媒体 GalaxyClub 昨日（11 月 3 日）发布博文，报道称 三星 Galaxy A38 手机电池额定容量为 5882mAh，预估宣传的典型值容量为 6000mAh。 IT之家查询公开资料，三星 Galaxy A37 手机电池额定容量为 4,905mAh，而宣传的典型值为 5000mAh。按照典型值计算，三星 Galaxy A38 电池容量较 A37 提升 20%。 在 Galaxy A 系列智能手机中，已正式发布的三星 Galaxy A 系列手机中，电池容量最大的是 Galaxy A07 5G，额定最低容量为 5,830mAh、典型容量为 6,",
+     "source": "IT之家",
+     "zh": "曝 Galaxy A38 额定 5882mAh，有望成三星 Galaxy A 系列电池容量最大手机"
+    },
+    {
+     "title": "即时零售进入下半场",
+     "link": "https://www.tmtpost.com/8192950.html",
+     "pubDate": "Wed, 04 Nov 2026 13:15:00 +0800",
+     "summary": "无短板竞争。",
+     "source": "钛媒体",
+     "zh": "即时零售进入下半场"
+    },
+    {
+     "title": "新国标落地，陪人看病是一门好生意吗？",
+     "link": "https://www.tmtpost.com/8193012.html",
+     "pubDate": "Wed, 04 Nov 2026 13:12:40 +0800",
+     "summary": "决定企业长期收益的，并非服务人员总数或覆盖城市多少，而是能否获得客户愿意支付的价格，并以合理的人力与管理成本完成交付。",
+     "source": "钛媒体",
+     "zh": "新国标落地，陪人看病是一门好生意吗？"
+    },
+    {
+     "title": "中国能建三季报订单降幅第一，绿氨成重要看点， 五大发电央企的财报数据没有一个轻松",
+     "link": "https://www.tmtpost.com/8192983.html",
+     "pubDate": "Wed, 04 Nov 2026 13:12:34 +0800",
+     "summary": "建筑央企周期博弈，能建调结构承压待破局。",
+     "source": "钛媒体",
+     "zh": "中国能建三季报订单降幅第一，绿氨成重要看点， 五大发电央企的财报数据没有一个轻松"
+    },
+    {
+     "title": "公关副总裁最需要公关",
+     "link": "https://www.huxiu.com/article/4902884.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 13:12:26 +0800",
+     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 我对字节这家公司的印象一直很好。比如：小姐姐很漂亮，小哥哥个个也都精神。 但最近也不知道怎么回事，字节那位公关副总裁，快把我对这家公司的好感败光了，尤其在商业媒体这个圈子里，这事闹得挺难看。 当然，这只是个人感受，代表不了所有人。 ...... 今天早上十点，李亮又发了一条微博。这次回的是胡锡进。 从10月26日秦朔发出那篇《可怕的红果》算起，已经九天了；一场数据之争，吵着吵着，把第三个人也卷了进来。 胡锡进两天前写了一大篇，两边都评了，最后还留了个台阶，说希望只是李亮个人跑调，不代表整个字节。 两天后，自己把台阶给拆了，也挺有意思。 李亮在开头把",
+     "source": "虎嗅",
+     "zh": "公关副总裁最需要公关"
+    },
+    {
+     "title": "泰格医药的钱去哪了？",
+     "link": "https://www.tmtpost.com/8192999.html",
+     "pubDate": "Wed, 04 Nov 2026 13:05:29 +0800",
+     "summary": "医药“基金王者”的王冠，开始变重了。",
+     "source": "钛媒体",
+     "zh": "泰格医药的钱去哪了？"
+    },
+    {
+     "title": "中国提供了七成储能设备，电站却写别人名下？储能出海该换算法了",
+     "link": "https://www.tmtpost.com/8192989.html",
+     "pubDate": "Wed, 04 Nov 2026 13:05:24 +0800",
+     "summary": "西班牙公示 27 个配储项目1.78GW；中国份额自电芯向电站开发递减，能否换成资产份额是关键。",
+     "source": "钛媒体",
+     "zh": "中国提供了七成储能设备，电站却写别人名下？储能出海该换算法了"
+    },
+    {
      "title": "小米推出米家扫振电动牙刷 2 Pro：配动态交互彩屏，众筹价 179 元",
      "link": "https://www.ithome.com/1/022/036.htm",
      "pubDate": "Wed, 04 Nov 2026 05:02:58 GMT",
@@ -1793,28 +1865,12 @@
      "zh": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market"
     },
     {
-     "title": "Anthropic 工程师警告：AI 越准人类越容易丧失独立思考能力，越依赖越难保持警惕",
-     "link": "https://www.ithome.com/1/022/031.htm",
-     "pubDate": "Wed, 04 Nov 2026 04:44:55 GMT",
-     "summary": "IT之家 11 月 4 日消息，Anthropic Claude Code 团队工程师、前谷歌技术高管 Addy Osmani 在 X 上发表长文《当 AI 智能体完成工作时，如何保持批判性思维》。 他认为，随着 AI 智能体越来越强大，人类可能在逐步依赖 AI 的同时，逐渐丧失独立思考、验证结果和理解复杂系统的能力，最终将 AI 的判断直接当作自己的判断。他将这种现象称为“认知投降”。 Osmani 曾在谷歌工作超过 14 年，负责过 Chrome 开发者体验及谷歌云 AI 相关业务，目前在 Anthropic 从事 Claude Code 相关工作。 他表示自己是 AI 智能体工作流的坚定",
-     "source": "IT之家",
-     "zh": "Anthropic 工程师警告：AI 越准人类越容易丧失独立思考能力，越依赖越难保持警惕"
-    },
-    {
      "title": "亚玛顿20%股权拟转让，卡牌公司要当控股股东",
      "link": "https://www.huxiu.com/article/4902875.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 12:44:15 +0800",
      "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 一家做潮玩卡牌的公司，准备掏出5,000万元缔约保证金，去接手一家光伏玻璃上市公司的控制权。 2026年11月2日，亚玛顿控股股东亚玛顿科技（盐城）有限公司与上海骑形网络科技有限公司签下《股份转让意向协议》，拟将所持上市公司20%的股份协议转让给后者。 交易若能完成，骑形网络将直接成为亚玛顿新的控股股东，公司实际控制人随之变更；亚玛顿股票则自11月3日开市起停牌。 这位跨界买家的主业与光伏制造毫无交集。 骑形网络法定代表人为赵云鹏，主营玩具、动漫游艺用品销售及演出经纪等业务。 据潮玩卡牌品牌Hitcard官网自述，骑形网络于2021年推",
      "source": "虎嗅",
      "zh": "亚玛顿20%股权拟转让，卡牌公司要当控股股东"
-    },
-    {
-     "title": "网传南京大学“智慧教室系统”可识别抬头率，回应称未经授权不进行人脸识别、已不再统计抬头率数据",
-     "link": "https://www.ithome.com/1/022/030.htm",
-     "pubDate": "Wed, 04 Nov 2026 04:43:31 GMT",
-     "summary": "IT之家 11 月 4 日消息，此前网传消息称南京大学学生收到通知，学校将启用“智慧教室系统”。一张智慧课堂的系统截图中，除监控画面外，还带有迟到学生、到勤率、抬头率统计等，引发争议。 对此，南京大学本科生院、信息化建设管理服务中心今日发布《 关于智慧教室系统有关情况的说明 》，IT之家附全文如下： 近日，我校智慧教室建设工作受到师生、校友和社会的关注，现将有关情况说明如下： 当前，智慧教室在国内外高校已经广泛普及，以“智”助学、助教已是大势所趋。我校围绕升级课堂音视频环境、实现课程直播与跨校区互动、支持课程回放与教学数据复用、服务课堂质量有效提升等目标，对仙林校区原有教学设备进行了智慧教室改",
-     "source": "IT之家",
-     "zh": "网传南京大学“智慧教室系统”可识别抬头率，回应称未经授权不进行人脸识别、已不再统计抬头率数据"
     },
     {
      "title": "Democrats Sweep Republicans in Nearly Every Race That Matters",
@@ -1857,68 +1913,12 @@
      "zh": "中东中等强国的“结伴外交”，能绕开美国另起一桌吗？"
     },
     {
-     "title": "2026最后两个月车企促销花样百出，何时出手是最佳时机？",
-     "link": "https://www.tmtpost.com/8191831.html",
-     "pubDate": "Wed, 04 Nov 2026 12:30:00 +0800",
-     "summary": "最佳购车季将至。",
-     "source": "钛媒体",
-     "zh": "2026最后两个月车企促销花样百出，何时出手是最佳时机？"
-    },
-    {
-     "title": "Kling’s $18 Billion Private Value Tops Parent Kuaishou’s Market Cap",
-     "link": "https://www.tmtpost.com/8193017.html",
-     "pubDate": "Wed, 04 Nov 2026 12:26:05 +0800",
-     "summary": "Kuaishou has closed a large capital injection into its AI video unit Kling at a post-money valuation above the parent’s Hong Kong market value. Tencent, Alibaba Cloud, and Baidu all took small stakes. Private markets are pricing growth; public markets are pricing a mature short-video platform.",
-     "source": "钛媒体",
-     "zh": "Kling’s $18 Billion Private Value Tops Parent Kuaishou’s Market Cap"
-    },
-    {
-     "title": "AI绑架美股七姐妹",
-     "link": "https://www.tmtpost.com/8192790.html",
-     "pubDate": "Wed, 04 Nov 2026 12:26:00 +0800",
-     "summary": "花钱的跌了，省钱的涨了。",
-     "source": "钛媒体",
-     "zh": "AI绑架美股七姐妹"
-    },
-    {
-     "title": "这届双十一，成也AI败也AI？",
-     "link": "https://www.tmtpost.com/8192782.html",
-     "pubDate": "Wed, 04 Nov 2026 12:23:00 +0800",
-     "summary": "18岁的双十一，老问题还在。",
-     "source": "钛媒体",
-     "zh": "这届双十一，成也AI败也AI？"
-    },
-    {
      "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)",
      "link": "https://www.techmeme.com/261103/p48#a261103p48",
      "pubDate": "Tue, 03 Nov 2026 23:20:01 -0500",
      "summary": "Xavier Martinez / Wall Street Journal : Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs &nbsp; &mdash;&nbsp; No drug designed by artificial intelligence has won FDA clearance, and pharma leader",
      "source": "Techmeme",
      "zh": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)"
-    },
-    {
-     "title": "北大光华教授陈玉宇：知识早就够多了，为什么增长还是没发生？",
-     "link": "https://www.tmtpost.com/8192741.html",
-     "pubDate": "Wed, 04 Nov 2026 12:17:00 +0800",
-     "summary": "组织技术、生产能力与人工智能时代的经济学。",
-     "source": "钛媒体",
-     "zh": "北大光华教授陈玉宇：知识早就够多了，为什么增长还是没发生？"
-    },
-    {
-     "title": "豆包，被字节另一款APP超越了",
-     "link": "https://www.huxiu.com/article/4902871.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 12:13:39 +0800",
-     "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 2017年，QuestMobile发布报告，统计当代人冲浪都把时间都花在哪些APP上，结果发现，手握微信、QQ两大巨头的腾讯系产品占了45.9%，当时，字节跳动的产品还被叫做“今日头条系”，仅仅占据了大家刷手机时长的9.7%。 10年后，野村证券报告里的数据引起了新的关注：2026年7月，在中国用户使用时长排名前50的App中，字节跳动旗下应用的时长份额达到41.8%。 需要说明的是，41.8%是TOP50 App的使用时长份额，并不能完全等同于中国网民的全部上网时间。但作为一个观察切口，它足以说明一个趋势：中国网民花在字节系产品上的时",
-     "source": "虎嗅",
-     "zh": "豆包，被字节另一款APP超越了"
-    },
-    {
-     "title": "“太空AI第一股”来了，80后造出百亿独角兽",
-     "link": "https://www.tmtpost.com/8192734.html",
-     "pubDate": "Wed, 04 Nov 2026 12:13:00 +0800",
-     "summary": "43岁学者下海，把大模型搬上太空。",
-     "source": "钛媒体",
-     "zh": "“太空AI第一股”来了，80后造出百亿独角兽"
     },
     {
      "title": "Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering (Bloomberg)",
@@ -1932,7 +1932,7 @@
      "title": "Jelly Sheet",
      "link": "https://mrdoob.github.io/codevember-2026/01/",
      "pubDate": "Wed, 04 Nov 2026 03:40:50 +0000",
-     "summary": "Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 11 # Comments: 0",
+     "summary": "Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 22 # Comments: 3",
      "source": "Hacker News",
      "zh": "Jelly Sheet"
     },
@@ -1940,7 +1940,7 @@
      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
      "link": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
      "pubDate": "Wed, 04 Nov 2026 03:20:13 +0000",
-     "summary": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 29 # Comments: 0",
+     "summary": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 33 # Comments: 0",
      "source": "Hacker News",
      "zh": "Distinct cellular and genetic differences in colorectal cancer in young patients"
     },
@@ -1948,7 +1948,7 @@
      "title": "Arrows to arrows, categories to queries (2025)",
      "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
      "pubDate": "Wed, 04 Nov 2026 03:11:27 +0000",
-     "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 16 # Comments: 0",
      "source": "Hacker News",
      "zh": "Arrows to arrows, categories to queries (2025)"
     },
@@ -1972,7 +1972,7 @@
      "title": "Giant canyon on Mars is still tectonically active",
      "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
      "pubDate": "Wed, 04 Nov 2026 01:40:42 +0000",
-     "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 41 # Comments: 3",
+     "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 44 # Comments: 3",
      "source": "Hacker News",
      "zh": "Giant canyon on Mars is still tectonically active"
     },
@@ -2241,52 +2241,100 @@
    "total": 13,
    "items": [
     {
+     "title": "鑫铂股份11月4日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921555067.html",
+     "pubDate": "Wed, 04 Nov 2026 13:24:48 +0800",
+     "summary": "以下是 鑫铂股份 在北京时间11月4日13:24分盘口异动快照： 11月4日， 鑫铂股份 盘中快速上涨，5分钟内涨幅超过2%，截至13点24分，报9.81元，成交3402.99万元，换手率2.20%。 分笔 13:24:39 9.83 23↑ 13:24:36 9.81 33↑ 13:24:30 9.81 202↑ 13:24:27 9.79 133↑ 13:24:24 9.79 76↓ 13:24:18 9.81 282↑ 13:24:15 9.79 119↓ 13:24:12 9.79 28↓ 13:24:09 9.79 8↓ 13:24:06 9.79 422↑ 报价 卖五 9.86 1",
+     "source": "东方财富股票",
+     "zh": "鑫铂股份11月4日快速上涨"
+    },
+    {
+     "title": "黄金概念震荡反弹 晓程科技涨超10%",
+     "link": "http://finance.eastmoney.com/news/11440,202611043921555736.html",
+     "pubDate": "Wed, 04 Nov 2026 13:24:35 +0800",
+     "summary": "午后 黄金概念 震荡反弹， 晓程科技 涨超10%， 盛达资源 、 赤峰黄金 、 山金国际 、 山东黄金 、 中金黄金 涨幅靠前。消息面上，世界 黄金 协会最新发布的《 中国黄金 需求趋势报告》显示，2026年第三季度， 中国黄金 总需求达到192吨，同比增长12%，环比增长23%。",
+     "source": "东方财富股票",
+     "zh": "黄金概念震荡反弹 晓程科技涨超10%"
+    },
+    {
+     "title": "ST京机11月4日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921554537.html",
+     "pubDate": "Wed, 04 Nov 2026 13:24:11 +0800",
+     "summary": "以下是 ST京机 在北京时间11月4日13:24分盘口异动快照： 11月4日13点24分， ST京机 盘中打开涨停，现报6.93元，成交5121.81万元，换手率1.28%。该股之前于13点23分涨停。 分笔 13:24:03 6.93 823↓ 13:24:00 7.00 3030↓ 13:23:57 7.00 1998↓ 13:23:54 7.00 1932↓ 13:23:51 7.00 1307↓ 13:23:48 7.00 555↓ 13:23:45 7.00 2336↓ 13:23:42 7.00 48↓ 13:23:39 7.00 749↓ 13:23:36 7.00 2316↓ ",
+     "source": "东方财富股票",
+     "zh": "ST京机11月4日打开涨停"
+    },
+    {
+     "title": "上海洗霸11月4日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921554386.html",
+     "pubDate": "Wed, 04 Nov 2026 13:23:55 +0800",
+     "summary": "以下是 上海洗霸 在北京时间11月4日13:23分盘口异动快照： 11月4日， 上海洗霸 盘中快速上涨，5分钟内涨幅超过2%，截至13点23分，报55.52元，成交8.54亿元，换手率9.32%。 分笔 13:23:45 55.52 302↑ 13:23:42 55.49 127↑ 13:23:39 55.49 176↑ 13:23:36 55.48 108↑ 13:23:33 55.38 63↑ 13:23:30 55.30 57↑ 13:23:27 55.20 18↑ 13:23:24 55.18 61↑ 13:23:21 55.10 95↑ 13:23:18 55.09 27↑ 报价 卖",
+     "source": "东方财富股票",
+     "zh": "上海洗霸11月4日快速上涨"
+    },
+    {
+     "title": "*ST香雪11月4日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921554279.html",
+     "pubDate": "Wed, 04 Nov 2026 13:23:46 +0800",
+     "summary": "以下是 *ST香雪 在北京时间11月4日13:23分盘口异动快照： 11月4日， *ST香雪 盘中跌幅达5%，截至13点23分，报4.22元，成交4315.65万元，换手率1.53%。 分笔 13:23:39 4.22 24↓ 13:23:24 4.23 51↑ 13:23:18 4.23 110↓ 13:23:15 4.24 30↑ 13:22:57 4.24 10↑ 13:22:54 4.23 1018↓ 13:22:48 4.23 28↓ 13:22:42 4.24 1↑ 13:22:39 4.24 54↑ 13:22:30 4.24 58↑ 报价 卖五 4.29 83 卖四 4.26 ",
+     "source": "东方财富股票",
+     "zh": "*ST香雪11月4日盘中跌幅达5%"
+    },
+    {
+     "title": "ST京机11月4日盘中涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921554184.html",
+     "pubDate": "Wed, 04 Nov 2026 13:23:37 +0800",
+     "summary": "以下是 ST京机 在北京时间11月4日13:23分盘口异动快照： 11月4日13点23分， ST京机 盘中涨停，报7元，目前封单3784手，折合264.88万元。截至目前，成交4037.80万元，换手率1.02%。 分笔 13:23:30 7.00 1199↑ 13:23:27 7.00 952↑ 13:23:24 7.00 1745↑ 13:23:21 6.99 684↑ 13:23:18 6.92 505↓ 13:23:15 6.92 2672↓ 13:23:12 6.92 512↑ 13:23:09 6.89 567↓ 13:23:06 6.90 309↑ 13:23:03 6.90 5",
+     "source": "东方财富股票",
+     "zh": "ST京机11月4日盘中涨停"
+    },
+    {
+     "title": "Dream Industrial REIT reports Q3 results",
+     "link": "https://seekingalpha.com/news/4664460-dream-industrial-reit-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:21:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dream Industrial REIT reports Q3 results"
+    },
+    {
+     "title": "Ivanhoe Mines GAAP EPS of $0.04 misses by $0.04, revenue of $263.84M beats by $16.34M",
+     "link": "https://seekingalpha.com/news/4664458-ivanhoe-mines-gaap-eps-of-004-misses-by-004-revenue-of-26384m-beats-by-1634m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:19:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ivanhoe Mines GAAP EPS of $0.04 misses by $0.04, revenue of $263.84M beats by $16.34M"
+    },
+    {
+     "title": "Oracle cancels $7B AI chip lease with Tencent amid US concerns: FT",
+     "link": "https://seekingalpha.com/news/4664456-oracle-cancels-7b-ai-chip-lease-with-tencent-amid-us-concerns-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:18:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Oracle cancels $7B AI chip lease with Tencent amid US concerns: FT"
+    },
+    {
+     "title": "Cricut outlines $0.70 special dividend payable January 21, 2027, while expecting full-year revenue growth for first time since 2021",
+     "link": "https://seekingalpha.com/news/4664457-cricut-outlines-0_70-special-dividend-payable-january-21-2027-while-expecting-full-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:16:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cricut outlines $0.70 special dividend payable January 21, 2027, while expecting full-year revenue growth for first time since 2021"
+    },
+    {
+     "title": "SSR Mining outlines Marigold 20-year reserve life while expecting 2026 AISC about 10% above guidance",
+     "link": "https://seekingalpha.com/news/4664455-ssr-mining-outlines-marigold-20-year-reserve-life-while-expecting-2026-aisc-about-10-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:11:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SSR Mining outlines Marigold 20-year reserve life while expecting 2026 AISC about 10% above guidance"
+    },
+    {
      "title": "可全天交易，并可加杠杆！CFTC放行美股个股永续期货交易",
      "link": "https://wallstreetcn.com/articles/3785139",
      "pubDate": "Wed, 04 Nov 2026 13:05:45 +0800",
      "summary": "美国商品期货交易委员会（CFTC）于当地时间11月3日宣布，个股永续期货合约正式获准在美国受监管交易所上市。这意味着，美国投资者未来可以在股市闭市后继续交易美股相关合约，并使用杠杆。 永续合约，究竟有什么不一样？ 永续合约（Perpetuals，简称\"Perps\"）是一种没有到期日的杠杆衍生品合约。与传统期货相比，它最大的特点有两个： 一是可以全天候交易 ，包括股票市场正常闭市的时段； 二是内嵌杠杆机制 ，交易者可以用较少的本金撬动更大规模的头寸。 这两个特性让永续合约在海外——尤其是加密货币市场——积累了庞大的用户群体。此次CFTC将这一工具正式引入美国受监管市场，并将其延伸至传统股票领域。",
      "source": "华尔街见闻",
      "zh": "可全天交易，并可加杠杆！CFTC放行美股个股永续期货交易"
-    },
-    {
-     "title": "吉鑫科技11月4日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921500860.html",
-     "pubDate": "Wed, 04 Nov 2026 13:01:26 +0800",
-     "summary": "以下是 吉鑫科技 在北京时间11月4日13:00分盘口异动快照： 11月4日， 吉鑫科技 盘中快速反弹，5分钟内涨幅超过2%，截至13点00分，报4.43元，成交8509.20万元，换手率2.03%。 分笔 13:00:44 4.43 3439↑ 13:00:41 4.40 138↓ 13:00:38 4.40 2023↑ 13:00:35 4.40 5↑ 13:00:32 4.39 118↓ 13:00:29 4.40 5↑ 13:00:26 4.40 1522↑ 13:00:23 4.39 318↑ 13:00:20 4.39 2210↑ 13:00:17 4.38 37↑ 报价 卖五 4",
-     "source": "东方财富股票",
-     "zh": "吉鑫科技11月4日快速反弹"
-    },
-    {
-     "title": "天华新能11月4日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921500741.html",
-     "pubDate": "Wed, 04 Nov 2026 13:01:22 +0800",
-     "summary": "以下是 天华新能 在北京时间11月4日13:00分盘口异动快照： 11月4日， 天华新能 盘中快速反弹，5分钟内涨幅超过2%，截至13点00分，报35.17元，成交8.89亿元，换手率3.59%。 分笔 13:00:42 35.17 725↑ 13:00:39 35.09 314↑ 13:00:36 35.01 255↑ 13:00:33 34.99 220↑ 13:00:30 34.99 585↓ 13:00:27 35.00 255↑ 13:00:24 34.94 141↑ 13:00:21 34.86 321↑ 13:00:18 34.79 227↑ 13:00:15 34.70 309",
-     "source": "东方财富股票",
-     "zh": "天华新能11月4日快速反弹"
-    },
-    {
-     "title": "四方股份11月4日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921500618.html",
-     "pubDate": "Wed, 04 Nov 2026 13:01:19 +0800",
-     "summary": "以下是 四方股份 在北京时间11月4日13:00分盘口异动快照： 11月4日， 四方股份 盘中快速反弹，5分钟内涨幅超过2%，截至13点00分，报28.35元，成交3.07亿元，换手率1.33%。 分笔 13:00:42 28.35 149↑ 13:00:39 28.30 237↑ 13:00:36 28.25 478↑ 13:00:33 28.21 103↓ 13:00:30 28.24 171↓ 13:00:27 28.24 441↑ 13:00:24 28.21 314↑ 13:00:21 28.12 184↑ 13:00:18 28.09 1337↑ 13:00:15 28.00 89",
-     "source": "东方财富股票",
-     "zh": "四方股份11月4日快速反弹"
-    },
-    {
-     "title": "振江股份11月4日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921500568.html",
-     "pubDate": "Wed, 04 Nov 2026 13:01:17 +0800",
-     "summary": "以下是 振江股份 在北京时间11月4日13:00分盘口异动快照： 11月4日， 振江股份 盘中快速反弹，5分钟内涨幅超过2%，截至13点00分，报20.11元，成交8534.33万元，换手率1.83%。 分笔 13:00:43 20.11 250↑ 13:00:40 20.02 184↑ 13:00:37 19.97 10↑ 13:00:34 19.95 145↓ 13:00:31 19.98 43↑ 13:00:28 19.95 99↑ 13:00:25 19.91 175↑ 13:00:22 19.87 187↓ 13:00:19 19.89 380↑ 13:00:16 19.86 99↑",
-     "source": "东方财富股票",
-     "zh": "振江股份11月4日快速反弹"
-    },
-    {
-     "title": "株冶集团11月4日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921500471.html",
-     "pubDate": "Wed, 04 Nov 2026 13:01:15 +0800",
-     "summary": "以下是 株冶集团 在北京时间11月4日13:00分盘口异动快照： 11月4日， 株冶集团 盘中快速反弹，5分钟内涨幅超过2%，截至13点00分，报16.96元，成交2.11亿元，换手率1.17%。 分笔 13:00:43 16.96 350↑ 13:00:40 16.94 639↑ 13:00:37 16.90 264↑ 13:00:34 16.90 174↑ 13:00:31 16.90 137↓ 13:00:28 16.91 66↑ 13:00:25 16.90 298↑ 13:00:22 16.88 261↓ 13:00:19 16.89 254↑ 13:00:16 16.86 146↑",
-     "source": "东方财富股票",
-     "zh": "株冶集团11月4日快速反弹"
     },
     {
      "title": "Trump to accept midterm results: NY Times",
@@ -2297,52 +2345,12 @@
      "zh": "Trump to accept midterm results: NY Times"
     },
     {
-     "title": "宏达股份11月4日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921500334.html",
-     "pubDate": "Wed, 04 Nov 2026 13:01:10 +0800",
-     "summary": "以下是 宏达股份 在北京时间11月4日13:00分盘口异动快照： 11月4日， 宏达股份 盘中快速反弹，5分钟内涨幅超过2%，截至13点00分，报10.74元，成交1.69亿元，换手率0.78%。 分笔 13:00:43 10.74 452↑ 13:00:40 10.73 1402↑ 13:00:37 10.70 6↑ 13:00:34 10.70 189↑ 13:00:31 10.70 550↓ 13:00:28 10.72 502↑ 13:00:25 10.71 107↑ 13:00:22 10.69 241↑ 13:00:19 10.69 709↑ 13:00:16 10.67 1038",
-     "source": "东方财富股票",
-     "zh": "宏达股份11月4日快速反弹"
-    },
-    {
-     "title": "Musk's Tesla and SpaceX slip as early US midterm results point to democratic wins",
-     "link": "https://seekingalpha.com/news/4664448-musks-tesla-and-spacex-slip-as-early-us-midterm-results-point-to-democratic-wins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:00:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Musk's Tesla and SpaceX slip as early US midterm results point to democratic wins"
-    },
-    {
-     "title": "Wednesday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4663420-wednesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wednesday’s Economic Calendar"
-    },
-    {
-     "title": "Hackett projects $68M-$70M Q4 revenue with ~48.5% adjusted gross margin amid AI platform transition",
-     "link": "https://seekingalpha.com/news/4664451-hackett-projects-68m-70m-q4-revenue-with-48_5-percent-adjusted-gross-margin-amid-ai-platform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 23:56:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hackett projects $68M-$70M Q4 revenue with ~48.5% adjusted gross margin amid AI platform transition"
-    },
-    {
-     "title": "Safehold sees AI becoming disinflationary in 2 to 3 years amid rate pressure",
-     "link": "https://seekingalpha.com/news/4664449-safehold-sees-ai-becoming-disinflationary-in-2-to-3-years-amid-rate-pressure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 23:56:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Safehold sees AI becoming disinflationary in 2 to 3 years amid rate pressure"
-    },
-    {
-     "title": "Mirum outlines $715M to $720M 2026 net product sales guidance while targeting cash flow positive next year",
-     "link": "https://seekingalpha.com/news/4664450-mirum-outlines-715m-to-720m-2026-net-product-sales-guidance-while-targeting-cash-flow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 23:56:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mirum outlines $715M to $720M 2026 net product sales guidance while targeting cash flow positive next year"
+     "title": "The economic risks of the AI boom",
+     "link": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 05:00:18 GMT",
+     "summary": "The longer the investment surge and the associated financial engineering continue, the bigger the negative impact is likely to be when it ends",
+     "source": "Financial Times",
+     "zh": "The economic risks of the AI boom"
     },
     {
      "title": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货跳水、AI板块重挫，美元下跌，美债上涨，日韩股市均跌4%",
@@ -2471,14 +2479,6 @@
      "summary": "11月4日早盘，人形 机器人 概念股集体异动， 征和工业 、 永臻股份 、 兆威机电 、 福莱新材 直线封板， 震裕科技 、 华是科技 涨超10%，奥比中光、 安培龙 、 泛亚微透 、 柯力传感 等多股跟涨，盘初跌超3%的宇树科技一度涨超8%。 消息面上，小米披露人形 机器人 最新进展，整个赛道近期也迎来“内外共振”。 小米披露 机器人 业务两项落地进展 11月3日，2026世界互联网大会乌镇峰会期间，小米对外披露 机器人 业务在工业制造和家庭场景领域的最新落地进展，小米 机器人 业务“面向规模化落地的通用 机器人 操作基座模型关键技术”同时获得大会“领先科技奖”。 在工厂场景，小米 人形机器",
      "source": "东方财富资讯",
      "zh": "小米机器人进厂“通关” 具身智能赛道多股涨停 最新高增长潜力股名单出炉"
-    },
-    {
-     "title": "中国黄金协会：2026年前三季度我国黄金消费量同比增长0.28%，黄金首饰同比下降33.86%",
-     "link": "http://www.eeo.com.cn/2026/1104/1083598.shtml",
-     "pubDate": "Wed, 04 Nov 2026 11:29:19 +0800",
-     "summary": "中国黄金协会最新统计数据显示：2026年前三季度，我国黄金消费量684.623吨，同比增长0.28%。其中，黄金首饰178.612吨，同比下降33.86%。",
-     "source": "经济观察网",
-     "zh": "中国黄金协会：2026年前三季度我国黄金消费量同比增长0.28%，黄金首饰同比下降33.86%"
     }
    ]
   },

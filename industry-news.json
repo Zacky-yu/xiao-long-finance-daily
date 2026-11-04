@@ -497,14 +497,6 @@
    "total": 5,
    "items": [
     {
-     "title": "Robots in society, business and culture: October 2026",
-     "link": "https://robohub.org/robots-in-society-business-and-culture-october-2026/",
-     "pubDate": "Wed, 04 Nov 2026 11:51:57 +0000",
-     "summary": "The biohybrid robot pushes off from the ground as soon as it is stimulated by an electrical impulse. Credit: Nature Communications (2026). By Emmet Cole In our monthly series, we showcase a selection of robotics stories from society, business, research and culture, as we track the field’s ongoing jo",
-     "source": "Robohub",
-     "zh": "Robots in society, business and culture: October 2026"
-    },
-    {
      "title": "From human experience to robot action: LiberAI launches Liber-0 world-action model",
      "link": "https://roboticsandautomationnews.com/2026/11/04/from-human-experience-to-robot-action-liberai-launches-liber-0-world-action-model/106378/",
      "pubDate": "Wed, 04 Nov 2026 02:00:32 +0000",
@@ -601,28 +593,12 @@
      "zh": "Top 10 robotics developments of October 2026"
     },
     {
-     "title": "Muscle coordination can be mimicked by electric motors – it could lead to improved robots",
-     "link": "https://robohub.org/muscle-coordination-can-be-mimicked-by-electric-motors-it-could-lead-to-improved-robots/",
-     "pubDate": "Mon, 02 Nov 2026 13:55:16 +0000",
-     "summary": "Coordination appears to emerge spontaneously from muscle fibres.",
-     "source": "Robohub",
-     "zh": "Muscle coordination can be mimicked by electric motors – it could lead to improved robots"
-    },
-    {
      "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
      "link": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
      "pubDate": "Fri, 30 Oct 2026 16:30:03 +0000",
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
      "source": "IEEE Spectrum 机器人",
      "zh": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation"
-    },
-    {
-     "title": "Robot Talk Episode 168 – Advancing robotics with novel electronics, with Zlatka Stoeva",
-     "link": "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/",
-     "pubDate": "Fri, 30 Oct 2026 13:33:53 +0000",
-     "summary": "Claire chatted to Zlatka Stoeva from DZP Technologies about flexible, stretchable and soft printed electronics for dexterous robots. Zlatka Stoeva is a founder and managing director of DZP Technologies, a Cambridge-based company specialising in advanced materials and novel forms of electronics. Zlat",
-     "source": "Robohub",
-     "zh": "Robot Talk Episode 168 – Advancing robotics with novel electronics, with Zlatka Stoeva"
     }
    ]
   },

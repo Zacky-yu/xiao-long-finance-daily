@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/4 22:52:11",
+ "generated_at": "2026/11/4 22:56:54",
  "recent_days": 7,
  "industries": [
   {
@@ -1745,6 +1745,30 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: Singapore-based, Nigeria-focused payments company OPay halts its $300M US IPO hours after pricing it due to 11th-hour inquiries from Chinese regulators (Bloomberg)",
+     "link": "https://www.techmeme.com/261104/p34#a261104p34",
+     "pubDate": "Wed, 04 Nov 2026 09:50:01 -0500",
+     "summary": "Bloomberg : Sources: Singapore-based, Nigeria-focused payments company OPay halts its $300M US IPO hours after pricing it due to 11th-hour inquiries from Chinese regulators &nbsp; &mdash;&nbsp; China made eleventh-hour inquiries into OPay Ltd., prompting the Nigeria-focused payments company to halt ",
+     "source": "Techmeme",
+     "zh": "Sources: Singapore-based, Nigeria-focused payments company OPay halts its $300M US IPO hours after pricing it due to 11th-hour inquiries from Chinese regulators (Bloomberg)"
+    },
+    {
+     "title": "真 · 互通：国行 Apple 智能创作内容、问询结果会同步至千问 App",
+     "link": "https://www.ithome.com/1/022/459.htm",
+     "pubDate": "Wed, 04 Nov 2026 14:49:55 GMT",
+     "summary": "IT之家 11 月 4 日消息，苹果今日凌晨面向 iPhone 推送了 iOS 27.3 系统首个开发者预览版，为国行用户带来了「Apple 智能与 Siri」。 国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千问，覆盖文本与图像理解相关能力。 IT之家实测发现， 国行 Apple 智能问询结果也会同步至千问 App ，后者可提供语音播报、分享、复制、收藏、重新生成等功能。 不仅是视觉智能， 用千问完成的文字创作内容，也会同步至千问 App 。 关于 Apple 智能国行版本更多内容， 小伙伴们可移步至IT之家最新实测，了解",
+     "source": "IT之家",
+     "zh": "真 · 互通：国行 Apple 智能创作内容、问询结果会同步至千问 App"
+    },
+    {
+     "title": "美国巨变",
+     "link": "https://www.huxiu.com/article/4903068.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 22:46:35 +0800",
+     "summary": "本文来自微信公众号： 叶檀财经 ，作者：云半间、顾左右，编辑：旦旦，原文标题：《美国，惊天大变》，题图来自：视觉中国 欧洲人上街，美国人守在屏幕前，双眼通红看着中期选举的票数。大洋彼岸发生的一切，与全球市场密切相关。 这次选举是针对共和党两年执政期的一次公众投资，也是针对老川的一次全民公投，共和党输得很彻底。 截至北京时间11月4日下午，民主党不仅赢得了参众两院，堪萨斯州94年以来首次赢得参议员选举；前亚特兰大市长博顿斯成为佐治亚州首位女性州长，成为美国历史上首位当选州长的黑人女性；德州选举出了首位拉丁裔州长。 11月4日，中泰策略研报说，共和党败选幅度比远前最亲民主党的《纽约时报》民调还要夸",
+     "source": "虎嗅",
+     "zh": "美国巨变"
+    },
+    {
      "title": "Anthropic的IPO前夜，Claude仍然无法回答这些问题",
      "link": "https://www.huxiu.com/article/4903077.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 22:39:25 +0800",
@@ -1881,14 +1905,6 @@
      "zh": "红果和金庸有本质区别吗？"
     },
     {
-     "title": "生鲜、即配、AI购物加速协同，亚马逊说自己的零售业务被低估了",
-     "link": "https://www.huxiu.com/article/4903067.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 21:58:53 +0800",
-     "summary": "本文来自微信公众号： 窄播 ，作者：窄播 「未来5—10年，亚马逊可能拥有两个年收入达到万亿美元的业务」，即AWS和零售。 亚马逊最新一季Q3财报发布后，AWS仍是市场和电话会关注的重点，但同时，管理层给了零售业务非常高的评价。 总裁兼CEO安迪·杰西Andy Jassy说，「未来5—10年，亚马逊可能拥有两个年收入达到万亿美元的业务」，即AWS和零售。 他认为，「有些人低估了（零售）这项业务在过去几年取得的巨大进展」。 今年以来，亚马逊商品销量同比增长近15%，过去12个月总销售额增加900多亿美元。Jassy称，「每季度新增的总销售额，约为我们在美国规模最接近的竞争对手（也就是沃尔玛）的两",
-     "source": "虎嗅",
-     "zh": "生鲜、即配、AI购物加速协同，亚马逊说自己的零售业务被低估了"
-    },
-    {
      "title": "高通史上最大 5G 交易：联合 SpaceX 建设星链移动全美国 5G 网络",
      "link": "https://www.ithome.com/1/022/434.htm",
      "pubDate": "Wed, 04 Nov 2026 13:58:44 GMT",
@@ -1929,28 +1945,12 @@
      "zh": "Qualcomm signs a multiyear SpaceX deal to supply Dragonwing hardware and network software for \"tens of thousands of cell sites\" for a US-wide network in 2027 (Bloomberg)"
     },
     {
-     "title": "字节旗下 AI 开发平台“扣子”：推进企业级服务产品整合升级，现售企业版将先暂停新售",
-     "link": "https://www.ithome.com/1/022/432.htm",
-     "pubDate": "Wed, 04 Nov 2026 13:40:14 GMT",
-     "summary": "IT之家 11 月 4 日消息，字节跳动旗下 AI 开发平台“扣子（Coze）”发布公告， 正在推进企业级服务的产品整合升级 ，并规划后续可供企业客户选择的产品和套餐方案。配合本次整合，现售扣子企业版将先暂停新售。 IT之家注：官网显示，“扣子”是面向 Agent 时代的新一代 AI 团队协作平台。用户可以一个人调度多个 Agent，也可以和团队成员一起协同多个 Agent，在同一个项目里完成办公、编程、视频创作、文件处理、行业研究等复杂任务。 8 月 24 日，据智能涌现消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合： TRAE、扣子团队将整体并入豆包体系 ，其中 TRAE Wor",
-     "source": "IT之家",
-     "zh": "字节旗下 AI 开发平台“扣子”：推进企业级服务产品整合升级，现售企业版将先暂停新售"
-    },
-    {
      "title": "单项致胜：五星偏股混合型基金产品深度参考（2026年三季度）",
      "link": "https://www.tmtpost.com/8194019.html",
      "pubDate": "Wed, 04 Nov 2026 21:27:45 +0800",
      "summary": "我们聚焦2026年第三季度获评五星偏股混合型基金中单项能力优秀的产品，具体标准为“单项能力五星且综合评级五星”的双五星产品，通过梳理其评价标准、季度表现变化和具体产品评级，为投资者提供该类优质产品的核心参考。",
      "source": "钛媒体",
      "zh": "单项致胜：五星偏股混合型基金产品深度参考（2026年三季度）"
-    },
-    {
-     "title": "Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028 and switch to its own app to improve consistency for users (Bloomberg)",
-     "link": "https://www.techmeme.com/261104/p28#a261104p28",
-     "pubDate": "Wed, 04 Nov 2026 08:25:06 -0500",
-     "summary": "Bloomberg : Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028 and switch to its own app to improve consistency for users &nbsp; &mdash;&nbsp; Alphabet Inc.'s Waymo Co-Chief Executive Officer Tekedra Mawakana said her company's plan to end an exclus",
-     "source": "Techmeme",
-     "zh": "Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028 and switch to its own app to improve consistency for users (Bloomberg)"
     },
     {
      "title": "基金市场概况与资产配置观点 （10.26—11.01）",
@@ -2241,6 +2241,30 @@
    "total": 13,
    "items": [
     {
+     "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+     "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+     "pubDate": "Wed, 04 Nov 2026 14:51:50 GMT",
+     "summary": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
+     "source": "CNBC",
+     "zh": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%"
+    },
+    {
+     "title": "美股三大指数走高 道指、纳指均涨超2% 国际油价走低、金银价格大涨",
+     "link": "http://finance.eastmoney.com/news/1345,202611043922298758.html",
+     "pubDate": "Wed, 04 Nov 2026 22:51:30 +0800",
+     "summary": "美东时间周三，美股三大指数集体高开，截至发稿，道琼斯指数涨2.24%，标普500指数涨1.24%， 纳斯达克 综合 指数涨1.24%。 美股科技巨头集体走强， 截至发稿， 苹果 涨4.49%， 微软 涨4.71%， 谷歌-A 涨2.80%， 亚马逊 涨6.42%。 热门中概股集体走强， 截至发稿， 纳斯达克 中国金龙指数涨3.37%，报5716.36点。 亿航智能 涨6.31%涨， 哔哩哔哩 涨5.31%， 阿里巴巴 涨4.63%， 百度 涨3.61%， 京东 涨3.49%， 拼多多 涨3.31%， 贝壳 涨3.07%， 理想汽车 涨3.04%， 蔚来 涨2.98%， 小鹏集团 涨2.64%，",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数走高 道指、纳指均涨超2% 国际油价走低、金银价格大涨"
+    },
+    {
+     "title": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元",
+     "link": "https://wallstreetcn.com/articles/3785134",
+     "pubDate": "Wed, 04 Nov 2026 22:50:39 +0800",
+     "summary": "美国中期选举民主党大获全胜，从根本上改变了特朗普第二任期剩余时间的政策走向，全球金融市场随之剧烈波动。 美股盘初，标普500指数涨0.88%，道琼斯工业平均指数涨1.20%，纳斯达克综合指数涨1.11%。 特斯拉跌5.2%，SpaceX跌5.3%，特朗普媒体科技跌9.6%。Palantir跌5.8%，希捷科技、西部数据、Nebius、闪迪至少跌超3%，英伟达跌1.2%，AMD跌1%，台积电跌0.8%。 Meta涨2.3%，谷歌A涨3.2%，苹果涨3.9%，微软涨4.8%，亚马逊涨7.4%。 纳斯达克金龙中国指数涨3.2%。中概股新东方涨4.8%，阿里巴巴涨4.7%，百度涨3.7%，拼多多涨3.",
+     "source": "华尔街见闻",
+     "zh": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元"
+    },
+    {
      "title": "LegalZoom.com Q3 2026 Earnings Preview",
      "link": "https://seekingalpha.com/news/4664827-legalzoom-com-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 09:48:50 -0500",
@@ -2289,14 +2313,6 @@
      "zh": "Caris Life Sciences, Inc. Q3 2026 Earnings Preview"
     },
     {
-     "title": "CVS falls 14% on plans to split off drugstore business in major breakup of healthcare giant",
-     "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-     "pubDate": "Wed, 04 Nov 2026 14:41:55 GMT",
-     "summary": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
-     "source": "CNBC",
-     "zh": "CVS falls 14% on plans to split off drugstore business in major breakup of healthcare giant"
-    },
-    {
      "title": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
      "link": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
      "pubDate": "Wed, 04 Nov 2026 14:39:00 GMT",
@@ -2305,60 +2321,28 @@
      "zh": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders"
     },
     {
-     "title": "美股科技巨头大幅反弹 亚马逊涨逾6% 苹果涨4.5% 微软涨近5%",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922303916.html",
-     "pubDate": "Wed, 04 Nov 2026 22:38:48 +0800",
-     "summary": "美股科技巨头集体走强， 苹果 股价上涨4.49%，报346.80美元/股，总市值5.04万亿美元； 微软 上涨4.71%，报545.505美元/股，总市值4.05万亿美元；谷歌A上涨2.80%，报287.875美元/股，总市值3.54万亿美元； 亚马逊 上涨6.42%，报266.795美元/股，总市值2.88万亿美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美股科技巨头大幅反弹 亚马逊涨逾6% 苹果涨4.5% 微软涨近5%"
+     "title": "Stocks rebound after Democrats’ sweep",
+     "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 14:35:52 GMT",
+     "summary": "Wall Street indices open higher as analysts say divided government reduces policymaking risks",
+     "source": "Financial Times",
+     "zh": "Stocks rebound after Democrats’ sweep"
     },
     {
-     "title": "美股明星科技股盘初涨跌不一 亚马逊涨近7%",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922304265.html",
-     "pubDate": "Wed, 04 Nov 2026 22:38:17 +0800",
-     "summary": "美股明星科技股盘初涨跌不一， 亚马逊 涨近7%， 微软 涨近5%， 苹果 涨超4%，谷歌涨超2%，Meta涨近2%； 特斯拉 、 SpaceX 跌超5%， 美光科技 跌超4%， 英特尔 跌超3%， 英伟达 跌近3%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "美股明星科技股盘初涨跌不一 亚马逊涨近7%"
+     "title": "美国财政部修改美债发行指引，删除“至少”二字，或为2027年削减长期国债铺路",
+     "link": "https://wallstreetcn.com/articles/3785195",
+     "pubDate": "Wed, 04 Nov 2026 22:34:08 +0800",
+     "summary": "美国财政部悄然修改债券发行前瞻指引，删除一个关键措辞，为2027年起削减长期国债发行量打开大门。这是财政部长贝森特（Scott Bessent）一系列压制长端收益率举措的最新动作。 周三，财政部在季度再融资声明中宣布，未来数个季度将维持名义附息债券及浮息票据拍卖规模不变，但删去了自2024年初以来一直沿用的\"至少\"（at least）一词。这一细微措辞变化意味着，财政部已预留空间，最早可于2027年对长期债券发行规模进行下调。 就市场影响而言，此举是贝森特在过去数月间持续推进的一系列操作之一。就在8月再融资声明发布仅两周后，财政部意外大幅扩大国债回购规模，但该举措未能遏制长端收益率上行，30年",
+     "source": "华尔街见闻",
+     "zh": "美国财政部修改美债发行指引，删除“至少”二字，或为2027年削减长期国债铺路"
     },
     {
-     "title": "美股开盘：三大指数集体大涨，存储芯片板块遭挫，美光科技跌超3%，SK海力士跌超2%；特斯拉大跌近5%",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922304071.html",
-     "pubDate": "Wed, 04 Nov 2026 22:37:53 +0800",
-     "summary": "北京时间4日晚间，美股三大指数集体高开，道琼斯指数涨1.93%，标普500指数涨1.14%， 纳斯达克 综合 指数涨1.09%。 热门股票中， 苹果 股价上涨3.27%， 英伟达 股价下跌1.19%， 微软 股价上涨4.72%， 谷歌-A 股价上涨1.49%， 亚马逊 股价上涨6.88%， 台积电 股价上涨0%， SpaceX 股价下跌5.38%，Meta股价上涨3.41%， 博通 股价下跌1.09%， 超威半导体 股价上涨1.3%， 阿斯麦 股价下跌2.31%， 思科 股价上涨0.45%， 甲骨文 股价上涨0%， 英特尔 股价下跌3.17%，ARM股价下跌0.31%。 存储芯片 板块遭挫， ",
-     "source": "东方财富股票",
-     "zh": "美股开盘：三大指数集体大涨，存储芯片板块遭挫，美光科技跌超3%，SK海力士跌超2%；特斯拉大跌近5%"
-    },
-    {
-     "title": "中泰证券3.52亿股暂缓解禁",
-     "link": "http://stock.eastmoney.com/news/11215,202611043922306110.html",
-     "pubDate": "Wed, 04 Nov 2026 22:37:45 +0800",
-     "summary": "【导读】 中泰证券 主要股东莱钢集团自愿将所持限售股份锁定期延长6个月 11月4日， 中泰证券 发布公告称，公司主要股东莱芜 钢铁 集团有限公司（以下简称莱钢集团）基于对公司未来发展前景的信心和内在价值的认可，承诺将所持3.52亿股有限售条件股份的锁定期自愿延长6个月（2026年11月12日至2027年5月11日）。 在上市券商普遍面临估值修复、股东行为受到市场关注的背景下，主要股东在解禁节点选择继续持股而非减持，往往被解读为对公司内在价值的中长期认可，向市场传递稳定预期的信号。 3.52亿股解禁窗口延后半年 公告显示，截至《承诺函》出具日，莱钢集团持有公司10.45亿股股份，占公司总股本的1",
-     "source": "东方财富股票",
-     "zh": "中泰证券3.52亿股暂缓解禁"
-    },
-    {
-     "title": "凯莱英：拟斥资5.00亿元至7.00亿元回购公司股份",
-     "link": "http://finance.eastmoney.com/news/1354,202611043922304754.html",
-     "pubDate": "Wed, 04 Nov 2026 22:37:34 +0800",
-     "summary": "上证智讯 11月4日， 凯莱英 发布关于回购公司股份方案的公告称，公司拟使用自有资金及自筹资金（含股票回购专项贷款资金等），通过深圳证券交易所交易系统以集中竞价交易方式回购公司A股股份，回购资金总额不低于5.00亿元（含）、不超过7.00亿元（含），回购价格不超过246元/股（含）。回购股份将用于后续实施员工持股计划或 股权激励 及注销减少注册资本，其中用于员工持股计划或 股权激励 的股份数量不高于回购总量的60%，用于注销减少注册资本的股份数量不低于回购总量的40%。 按回购金额上限7.00亿元、价格上限246元/股测算，预计回购股份数量不高于约284.55万股，约占已发行公司总股本的0.7",
-     "source": "东方财富股票",
-     "zh": "凯莱英：拟斥资5.00亿元至7.00亿元回购公司股份"
-    },
-    {
-     "title": "卡夫亨氏股价涨约4% 宣布剥离北美咖啡业务 三季度销售额和利润均超预期",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922306845.html",
-     "pubDate": "Wed, 04 Nov 2026 22:37:29 +0800",
-     "summary": "卡夫亨氏 公司股价上涨约 4%，此前该公司宣布将剥离其北美咖啡业务，且第三季度销售额和利润均超出预期。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "卡夫亨氏股价涨约4% 宣布剥离北美咖啡业务 三季度销售额和利润均超预期"
-    },
-    {
-     "title": "美股三大指数走高 道指涨超2% 国际油价走低、金银价格大涨",
-     "link": "http://finance.eastmoney.com/news/1345,202611043922298758.html",
-     "pubDate": "Wed, 04 Nov 2026 22:37:03 +0800",
-     "summary": "美东时间周三，美股三大指数集体高开，截至发稿，道琼斯指数涨2.24%，标普500指数涨1.24%， 纳斯达克 综合 指数涨1.24%。 美股科技巨头集体走强， 苹果 涨4.49%， 微软 涨4.71%， 谷歌-A 涨2.80%， 亚马逊 涨6.42%。 商品市场方面，国际油价持续走低、金银价格大涨。截至发稿，布伦特原油 期货 跌2.99%，报100.50美元/桶；现货 黄金 涨2.63%，报4033.63美元/盎司；现货 白银 涨4.06%，报51.82美元/盎司。 全球要闻 美国10月ADP私营就业超预期 中小企业成薄弱环节 美国ADP公司公布的数据显示，10月美国私营部门就业数据，新增就业",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数走高 道指涨超2% 国际油价走低、金银价格大涨"
+     "title": "Etoro targets Latin America through LB Finanzas acquisition",
+     "link": "https://www.finextra.com/newsarticle/48701/etoro-targets-latin-america-through-lb-finanzas-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 04 Nov 2026 14:34:00 GMT",
+     "summary": "Trading and investment platform etoro is expanding into Argentina through the acquisition of all-in-one financial app LB Finanzas. Terms of the deal were not disclosed.",
+     "source": "Finextra",
+     "zh": "Etoro targets Latin America through LB Finanzas acquisition"
     },
     {
      "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
@@ -2479,6 +2463,22 @@
      "summary": "《山东省加快建设更高水平“齐鲁粮仓”“十五五”规划》提出，山东计划到2030年，基本建成更高水平的“齐鲁粮仓”。全省粮食播种面积稳定在1.25亿亩以上、总产量超过1160亿斤；蔬菜（含食用菌）、水产品分别在保持9000万吨、900万吨产能的基础上稳定提质，肉蛋奶产量稳定在1600万吨以上；全省果园面积稳定在910万亩以上，水果产量稳定在2200万吨以上。",
      "source": "经济观察网",
      "zh": "山东计划到2030年粮食总产量将超过1160亿斤"
+    },
+    {
+     "title": "华为智驾之外，车企给出“Plan B”",
+     "link": "https://wallstreetcn.com/articles/3785196",
+     "pubDate": "Wed, 04 Nov 2026 21:37:09 +0800",
+     "summary": "作者 | 周智宇 前几年，哪款车能率先用上新一代华为乾崑智驾，是新车发布会上的一个看点。如今，拿着相近的预算挑一辆家用SUV或MPV，买家已经能找到不止一款搭载同档乾崑的车。 市场的变化，已反映在车企的价目表上。11月3日，东风奕派M8加推两款天元激光版。三个多月前，这款六座SUV上市，五个版本用的都是华为乾崑。用车企习惯的话术，是“标配华为乾崑”。 不过这次，东风保留了原来的乾崑版，又给纯电车型配上了自家的辅助驾驶和座舱，把纯电M8的起步指导价从19.98万元降到17.98万元。 乾崑依然是块好招牌。尤其对从燃油车转过来的品牌，消费者原本熟悉的是它的发动机、底盘和空间，有了华为，少费些口舌就",
+     "source": "华尔街见闻",
+     "zh": "华为智驾之外，车企给出“Plan B”"
+    },
+    {
+     "title": "Mississippi and Alaska races go down to the wire as Trump blame game erupts",
+     "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 13:36:15 GMT",
+     "summary": "US president admits voter anger over Iran war helped fuel Republican defeats",
+     "source": "Financial Times",
+     "zh": "Mississippi and Alaska races go down to the wire as Trump blame game erupts"
     }
    ]
   },

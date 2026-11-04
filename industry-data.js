@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 00:15:04",
+ "generated_at": "2026/11/5 00:26:55",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,12 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
-     "title": "The Data Science Interview in 2026: What’s Changed and How to Prepare",
-     "link": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
-     "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
-     "summary": "A round-by-round breakdown of how the hiring process has shifted, from AI-assisted coding rounds to GenAI evaluation questions, and what you need to do differently to be ready.",
-     "source": "KDnuggets",
-     "zh": "The Data Science Interview in 2026: What’s Changed and How to Prepare"
+     "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+     "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+     "pubDate": "Wed, 04 Nov 2026 16:17:22 +0000",
+     "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+     "source": "TechCrunch AI",
+     "zh": "Google faces backlash for plan that would turn off Search for schools that restrict AI"
     },
     {
      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -48,14 +48,6 @@ window.INDUSTRY_DATA = {
      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
      "source": "TechCrunch AI",
      "zh": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston"
-    },
-    {
-     "title": "7 Small Specialist Models That Beat Giant LLMs at One Job",
-     "link": "https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job",
-     "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
-     "summary": "Meet seven open specialist models under 10 billion parameters that rival much bigger systems at one job each, from transcription and OCR to routing and speech.",
-     "source": "KDnuggets",
-     "zh": "7 Small Specialist Models That Beat Giant LLMs at One Job"
     },
     {
      "title": "Hermes Agent手机端要来了！能读取手机数据，内测名额秒没",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent’s own voice. The release ships as stt-rt-v6 for ",
      "source": "MarkTechPost",
      "zh": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents"
+    },
+    {
+     "title": "StateBench: Testing how language models track state changes over long documents",
+     "link": "https://huggingface.co/blog/allenai/statebench",
+     "pubDate": "Tue, 03 Nov 2026 17:15:21 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "StateBench: Testing how language models track state changes over long documents"
     }
    ]
   },
@@ -642,6 +642,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
+     "link": "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
+     "pubDate": "Wed, 04 Nov 2026 16:23:06 +0000",
+     "summary": "Xiaomi has released footage of its humanoid robots working a full 8-hour shift at its EV factory, sorting center console side covers for its cars. The company says the robots did it on their own, catching and fixing their own mistakes along the way. If that’s fully autonomous, it’s truly impressive.",
+     "source": "Electrek",
+     "zh": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory"
+    },
+    {
+     "title": "Puerto Rico tapped Sunrun’s home batteries for 18 straight days",
+     "link": "https://electrek.co/2026/11/04/puerto-rico-tapped-sunruns-home-batteries-for-18-straight-days/",
+     "pubDate": "Wed, 04 Nov 2026 16:21:42 +0000",
+     "summary": "Sunrun has doubled participation in its Puerto Rico virtual power plant to more than 60,000 customers, and the grid is putting those home batteries to work: It tapped into them for 18 straight days in October. more…",
+     "source": "Electrek",
+     "zh": "Puerto Rico tapped Sunrun’s home batteries for 18 straight days"
+    },
+    {
      "title": "Kia EV7 revealed as an upcoming midsize electric SUV",
      "link": "https://electrek.co/2026/11/04/kia-ev7-revealed-upcoming-midsize-electric-suv/",
      "pubDate": "Wed, 04 Nov 2026 15:15:08 +0000",
@@ -744,22 +760,6 @@ window.INDUSTRY_DATA = {
      "summary": "BYD wasted no time, with sales of its new flagship electric sedan reaching 4,000 in just 19 days since its launch. more…",
      "source": "Electrek",
      "zh": "BYD’s flagship luxury EV with 1,000+ km of range hits 4,000 sales in just 19 days"
-    },
-    {
-     "title": "Pennsylvania is way ahead on NEVI charging – now comes another $37M",
-     "link": "https://electrek.co/2026/11/03/pennsylvania-is-way-ahead-on-nevi-charging-now-comes-another-37m/",
-     "pubDate": "Tue, 03 Nov 2026 20:38:11 +0000",
-     "summary": "Pennsylvania is putting $37 million in federal NEVI funding toward what PennDOT says will be 515 new public EV charging ports across the Philadelphia region, including curbside chargers. more…",
-     "source": "Electrek",
-     "zh": "Pennsylvania is way ahead on NEVI charging – now comes another $37M"
-    },
-    {
-     "title": "Hyundai’s electric SUV finds some footing, with IONIQ 5 sales topping 33,000 in 2026",
-     "link": "https://electrek.co/2026/11/03/hyundai-ioniq-5-finds-footing-2026-sales-top-33000/",
-     "pubDate": "Tue, 03 Nov 2026 20:15:47 +0000",
-     "summary": "The Hyundai IONIQ 5 remains one of America’s most popular EVs outside Tesla, with October sales up 21%. more…",
-     "source": "Electrek",
-     "zh": "Hyundai’s electric SUV finds some footing, with IONIQ 5 sales topping 33,000 in 2026"
     },
     {
      "title": "Used EVs Are Selling Like Hotcakes. The Fastest Movers May Surprise You",
@@ -1130,12 +1130,12 @@ window.INDUSTRY_DATA = {
      "zh": "Biopharma likely to climb higher after ‘blue wave,’ analysts say"
     },
     {
-     "title": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, Medicare for All returns",
+     "title": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, ‘Medicare for All’ returns",
      "link": "https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/?utm_campaign=rss",
      "pubDate": "Wed, 04 Nov 2026 15:15:21 +0000",
      "summary": "Democratic doctors were among the winners in the midterm elections, while the MAHA movement and President Trump's health agenda were losers.",
      "source": "STAT News",
-     "zh": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, Medicare for All returns"
+     "zh": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, ‘Medicare for All’ returns"
     },
     {
      "title": "STAT+: Ultragenyx cuts staff after another study fails",
@@ -1290,6 +1290,22 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+     "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+     "pubDate": "Wed, 04 Nov 2026 16:16:41 +0000",
+     "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brou",
+     "source": "NASA",
+     "zh": "NASA Space Grant Students Fuel Agency’s Inspiration Tour"
+    },
+    {
+     "title": "Hubble Reveals Cosmic Mystery",
+     "link": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+     "pubDate": "Wed, 04 Nov 2026 15:59:36 +0000",
+     "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expecte",
+     "source": "NASA",
+     "zh": "Hubble Reveals Cosmic Mystery"
+    },
+    {
      "title": "Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026",
      "link": "https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026",
      "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
@@ -1410,14 +1426,6 @@ window.INDUSTRY_DATA = {
      "zh": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking"
     },
     {
-     "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-     "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-     "pubDate": "Tue, 03 Nov 2026 15:15:50 +0000",
-     "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of",
-     "source": "NASA",
-     "zh": "NASA Astronaut, STEM Creator Connect with Students for STEM Day"
-    },
-    {
      "title": "Exclusive: Sceye Signs Deal to Fly HAPS Fleet for SoftBank",
      "link": "https://payloadspace.com/exclusive-sceye-signs-five-year-deal-to-fly-haps-fleet-for-softbank/",
      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
@@ -1456,14 +1464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Vienna-based startup Tumbleweed is attempting to build an anti-gravity machine. The post Tumbleweed Raises €6.9M to Build its Own Reentry Vehicle appeared first on Payload .",
      "source": "Payload",
      "zh": "Tumbleweed Raises €6.9M to Build its Own Reentry Vehicle"
-    },
-    {
-     "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-     "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-     "pubDate": "Tue, 03 Nov 2026 05:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
-     "source": "NASA",
-     "zh": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor"
     },
     {
      "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Democrats&apos; sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)",
+     "link": "https://www.techmeme.com/261104/p40#a261104p40",
+     "pubDate": "Wed, 04 Nov 2026 11:15:35 -0500",
+     "summary": "Shakeel Hashim / Transformer : Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability &nbsp; &mdash;&nbsp; Strong AI legislation now looks much more likely&nbsp; &mdash;&nbsp; America is waking u",
+     "source": "Techmeme",
+     "zh": "Democrats&apos; sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)"
+    },
+    {
      "title": "CoreWeave&apos;s stock and unsecured bonds fall after sweeping Democratic midterm victories, as Texas Governor-elect Gina Hinojosa calls for a data center moratorium (Katherine Schwartz/Bloomberg)",
      "link": "https://www.techmeme.com/261104/p39#a261104p39",
      "pubDate": "Wed, 04 Nov 2026 11:10:01 -0500",
@@ -1784,6 +1792,14 @@ window.INDUSTRY_DATA = {
      "summary": "Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost.",
      "source": "WIRED",
      "zh": "Voters Set $400 Million of Elon Musk’s Money on Fire"
+    },
+    {
+     "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+     "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+     "pubDate": "Wed, 04 Nov 2026 16:06:03 +0000",
+     "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+     "source": "Ars Technica",
+     "zh": "Binance says hackers who stole billions in crypto spent months planning heist"
     },
     {
      "title": "Sources: Tron, Tether, Binance, and TRM Labs&apos; T3 Financial Crime Unit quietly dissolved in August due to slow response times, after freezing $250M in assets (Ryan Weeks/Bloomberg)",
@@ -1834,6 +1850,14 @@ window.INDUSTRY_DATA = {
      "zh": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 (Deborah Sophia/Reuters)"
     },
     {
+     "title": "What I learned driving the Slate electric truck prototype",
+     "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
+     "pubDate": "Wed, 04 Nov 2026 15:42:18 +0000",
+     "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
+     "source": "Ars Technica",
+     "zh": "What I learned driving the Slate electric truck prototype"
+    },
+    {
      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
      "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
      "pubDate": "Wed, 04 Nov 2026 15:38:34 +0000",
@@ -1850,12 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Letting users trust their own MCP clients, without opening a phishing hole"
     },
     {
-     "title": "Election Deniers Not Contesting Their Massive Losses",
+     "title": "Election Deniers Aren’t Contesting Their Massive Losses",
      "link": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
      "pubDate": "Wed, 04 Nov 2026 15:30:18 +0000",
      "summary": "For months, election deniers claimed without evidence that the vote would be rigged. Now they appear to be accepting crushing defeats.",
      "source": "WIRED",
-     "zh": "Election Deniers Not Contesting Their Massive Losses"
+     "zh": "Election Deniers Aren’t Contesting Their Massive Losses"
     },
     {
      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
@@ -1914,6 +1938,14 @@ window.INDUSTRY_DATA = {
      "zh": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光"
     },
     {
+     "title": "The DEA banned a drug some opioid users called a miracle",
+     "link": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
+     "pubDate": "Wed, 04 Nov 2026 15:08:48 +0000",
+     "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
+     "source": "Ars Technica",
+     "zh": "The DEA banned a drug some opioid users called a miracle"
+    },
+    {
      "title": "法国血液中心确认受 11 月 2 日黑客升温攻击波及，幸无实际影响",
      "link": "https://www.ithome.com/1/022/461.htm",
      "pubDate": "Wed, 04 Nov 2026 15:02:04 GMT",
@@ -1925,17 +1957,9 @@ window.INDUSTRY_DATA = {
      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
      "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
      "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
-     "summary": "Titan OS has raised $110 million in funding to date",
+     "summary": "Titan OS has raised $110 million in funding to date.",
      "source": "TechCrunch",
      "zh": "Titan OS raises $46 million to expand its smart TV OS internationally"
-    },
-    {
-     "title": "Sources: Singapore-based, Nigeria-focused payments company OPay halts its $300M US IPO hours after pricing it due to 11th-hour inquiries from Chinese regulators (Bloomberg)",
-     "link": "https://www.techmeme.com/261104/p34#a261104p34",
-     "pubDate": "Wed, 04 Nov 2026 09:50:01 -0500",
-     "summary": "Bloomberg : Sources: Singapore-based, Nigeria-focused payments company OPay halts its $300M US IPO hours after pricing it due to 11th-hour inquiries from Chinese regulators &nbsp; &mdash;&nbsp; China made eleventh-hour inquiries into OPay Ltd., prompting the Nigeria-focused payments company to halt ",
-     "source": "Techmeme",
-     "zh": "Sources: Singapore-based, Nigeria-focused payments company OPay halts its $300M US IPO hours after pricing it due to 11th-hour inquiries from Chinese regulators (Bloomberg)"
     },
     {
      "title": "真 · 互通：国行 Apple 智能创作内容、问询结果会同步至千问 App",
@@ -1960,30 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
      "source": "WIRED",
      "zh": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable"
-    },
-    {
-     "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-     "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-     "pubDate": "Wed, 04 Nov 2026 14:10:10 +0000",
-     "summary": "Glade Brook, Coatue and T. Rowe Price were among the investors that led the share sale.",
-     "source": "TechCrunch",
-     "zh": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank"
-    },
-    {
-     "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-     "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-     "pubDate": "Wed, 04 Nov 2026 13:49:51 +0000",
-     "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption",
-     "source": "WIRED",
-     "zh": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google"
-    },
-    {
-     "title": "‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout",
-     "link": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
-     "pubDate": "Wed, 04 Nov 2026 13:48:28 +0000",
-     "summary": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses.",
-     "source": "WIRED",
-     "zh": "‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout"
     }
    ]
   },
@@ -2242,6 +2242,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "1-800 FLOWERS.COM Q1 2027 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4665021-1minus-800-flowers-com-q1-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 11:17:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "1-800 FLOWERS.COM Q1 2027 Earnings Preview"
+    },
+    {
+     "title": "NYT expects Q4 digital-only subscription revenue growth of 12% to 15% while keeping video investment focus",
+     "link": "https://seekingalpha.com/news/4665023-nyt-expects-q4-digital-only-subscription-revenue-growth-of-12-percent-to-15-percent-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 11:15:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NYT expects Q4 digital-only subscription revenue growth of 12% to 15% while keeping video investment focus"
+    },
+    {
+     "title": "Viemed Healthcare Q3 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4665019-viemed-healthcare-q3-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 11:11:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Viemed Healthcare Q3 Earnings Preview"
+    },
+    {
+     "title": "Red Rock Resorts is defended by CBRE after a post-earnings stumble",
+     "link": "https://seekingalpha.com/news/4664774-red-rock-resorts-is-defended-by-cbre-after-post-earnings-stumble?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 11:10:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Red Rock Resorts is defended by CBRE after a post-earnings stumble"
+    },
+    {
+     "title": "IonQ completes Elisity acquisition and joins Conn. quantum initiative",
+     "link": "https://seekingalpha.com/news/4664932-ionq-completes-elisity-acquisition-and-joins-conn-quantum-initiative?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 11:08:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "IonQ completes Elisity acquisition and joins Conn. quantum initiative"
+    },
+    {
      "title": "Geron outlines $220M-$240M 2026 RYTELO net revenue outlook while initiating Germany launch by year-end",
      "link": "https://seekingalpha.com/news/4664995-geron-outlines-220m-240m-2026-rytelo-net-revenue-outlook-while-initiating-germany-launch-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 11:05:50 -0500",
@@ -2250,52 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "Geron outlines $220M-$240M 2026 RYTELO net revenue outlook while initiating Germany launch by year-end"
     },
     {
-     "title": "Reynolds outlines 2026 adjusted EBITDA of $660M-$675M while integrating Owl's Head Alloys",
-     "link": "https://seekingalpha.com/news/4664992-reynolds-outlines-2026-adjusted-ebitda-of-660m-675m-while-integrating-owls-head-alloys?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 11:05:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Reynolds outlines 2026 adjusted EBITDA of $660M-$675M while integrating Owl's Head Alloys"
-    },
-    {
-     "title": "Southern Co Q3 2026 earnings preview: Analysts see case for results growth",
-     "link": "https://seekingalpha.com/news/4664989-southern-co-q3-2026-earnings-preview-analysts-see-case-for-results-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 11:05:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Southern Co Q3 2026 earnings preview: Analysts see case for results growth"
-    },
-    {
      "title": "The U.S. economy is barreling ahead — but there’s one big problem",
      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories",
      "pubDate": "Wed, 04 Nov 2026 16:05:00 GMT",
      "summary": "The largest part of the U.S. economy grew at a rapid pace just ahead of the holiday shopping season, but business leaders were not in a festive mood due to stubborn inflation.",
      "source": "MarketWatch",
      "zh": "The U.S. economy is barreling ahead — but there’s one big problem"
-    },
-    {
-     "title": "Vontier Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4664952-vontier-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 11:03:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vontier Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "Versigent PLC Non-GAAP EPS of $1.91, revenue of $2.45B",
-     "link": "https://seekingalpha.com/news/4664951-versigent-plc-non-gaap-eps-of-1_91-revenue-of-2_45b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 10:59:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Versigent PLC Non-GAAP EPS of $1.91, revenue of $2.45B"
-    },
-    {
-     "title": "Insight Enterprises Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4664950-insight-enterprises-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 10:57:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Insight Enterprises Q3 2026 Earnings Preview"
     },
     {
      "title": "AI硬件与半导体板块大幅下挫 Lumentum跌超11%",
@@ -2360,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Even with control of both the Senate and the House, Democratic legislation could still be obstructed by presidential veto",
      "source": "Financial Times",
      "zh": "Democrats ready Trump probes and affordability measures"
-    },
-    {
-     "title": "美股三大指数走高 道指、纳指均涨超2% 科技巨头大幅反弹",
-     "link": "http://finance.eastmoney.com/news/1345,202611043922298758.html",
-     "pubDate": "Wed, 04 Nov 2026 23:39:11 +0800",
-     "summary": "美东时间周三，美股三大指数集体走高，截至发稿，道琼斯指数涨2.64%，标普500指数涨1.58%， 纳斯达克 综合 指数涨1.76%。 美股大型科技股延续强势表现， 苹果 、 微软 、谷歌和 亚马逊 股价均大幅上涨， 苹果 、 微软 股价均续刷纪录新高。其中， 苹果 涨6.64%，单日市值增加约3203亿美元； 微软 涨6.09%，增加约2356亿美元； 亚马逊 涨6.56%，增加约1778亿美元； 谷歌-A 涨5.10%，增加约1756亿美元，四家合计增加约9093亿美元。 热门中概股走强， 截至发稿， 纳斯达克 中国金龙指数涨4.25%，报5764.81点。 亿航智能 涨7.85%， 哔哩",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数走高 道指、纳指均涨超2% 科技巨头大幅反弹"
     },
     {
      "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
@@ -2480,6 +2472,14 @@ window.INDUSTRY_DATA = {
      "summary": "Trading and investment platform etoro is expanding into Argentina through the acquisition of all-in-one financial app LB Finanzas. Terms of the deal were not disclosed.",
      "source": "Finextra",
      "zh": "Etoro targets Latin America through LB Finanzas acquisition"
+    },
+    {
+     "title": "泉果基金股权变更获批，员工团队接下逾16%股权",
+     "link": "https://wallstreetcn.com/articles/3785198",
+     "pubDate": "Wed, 04 Nov 2026 22:31:17 +0800",
+     "summary": "11月3日晚间，监管机构官网披露了《关于核准泉果基金管理有限公司变更持股5%以上股东的批复》。 相关批复显示，监管核准了泉果基金创始人、总经理李云亮，上海泉至清企业管理中心（有限合伙）（以下简称泉至清)，上海泉至澈企业管理中心（有限合伙）（以下简称泉至澈）成为泉果基金持股5%以上股东。对李云亮、泉至清、泉至澈分别受让泉果基金600万元、427.01万元、624.99万元人民币出资（分别占注册资本比例6%、4.2701%、6.2499%)无异议。 据接近泉果的人士透露，上述股权来自于泉果基金创始人、原总经理王国斌。原由王国斌持有的35%股权，未来将变更至公司员工持有。相关安排体现了泉果团队和公司",
+     "source": "华尔街见闻",
+     "zh": "泉果基金股权变更获批，员工团队接下逾16%股权"
     }
    ]
   },

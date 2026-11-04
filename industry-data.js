@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 06:11:42",
+ "generated_at": "2026/11/5 06:18:20",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+     "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+     "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
+     "summary": "While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
+     "source": "TechCrunch AI",
+     "zh": "Nothing CEO says company’s mysterious AI-first device is dropping next month"
+    },
     {
      "title": "Almost no one uses AI agents to book their Uber, company says",
      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
@@ -64,14 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga",
      "source": "MIT Tech Review AI",
      "zh": "Texas was the new epicenter of the AI data center buildout. That might be kaput."
-    },
-    {
-     "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-     "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-     "pubDate": "Wed, 04 Nov 2026 18:44:57 +0000",
-     "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
-     "source": "TechCrunch AI",
-     "zh": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs"
     },
     {
      "title": "Agile Deliberation: How AI helps humans define the gray areas",
@@ -306,28 +306,12 @@ window.INDUSTRY_DATA = {
      "zh": "Generating Chip Subsystems Automatically: A New Answer to Manage Chip Design Complexity"
     },
     {
-     "title": "Sony IMX742 1mm square image sensor serves single-use endoscopes",
-     "link": "https://www.electronicsweekly.com/news/products/sensors-products/sony-imx742-1mm-square-image-sensor-serves-single-use-endoscopes-2026-11/",
-     "pubDate": "Wed, 04 Nov 2026 17:27:47 +0000",
-     "summary": "Sony has announced its IMX742, a CMOS image sensor for single-use endoscopes. The company highlights it as the industry’s first to support digital output and data transmission through a 5m […] The post Sony IMX742 1mm square image sensor serves single-use endoscopes appeared first on Electronics Wee",
-     "source": "Electronics Weekly",
-     "zh": "Sony IMX742 1mm square image sensor serves single-use endoscopes"
-    },
-    {
      "title": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors",
      "link": "https://www.eetimes.com/ablics-small-smart-and-simple-strategy-for-high-value-analog-semicondutors/",
      "pubDate": "Wed, 04 Nov 2026 17:00:00 +0000",
      "summary": "ABLIC’s Satoshi Hanazawa discusses its low-power analog semiconductor strategy, target markets, product innovation and development approach. The post ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors appeared first on EE Times .",
      "source": "EE Times",
      "zh": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors"
-    },
-    {
-     "title": "Samtec VITA 90 VNX+ for RF backplane, optical, and power connectivity",
-     "link": "https://www.electronicsweekly.com/news/products/connectors/samtec-vita-90-vnx-for-rf-backplane-optical-and-power-connectivity-2026-11/",
-     "pubDate": "Wed, 04 Nov 2026 16:01:22 +0000",
-     "summary": "Mouser Electronics is stocking Samtec’s VITA 90 VNX+, which combines RF backplane, optical, and power connectivity. It is for harsh or space‑constrained applications. The interconnect product family supports small-form-factor, modular, […] The post Samtec VITA 90 VNX+ for RF backplane, optical, and ",
-     "source": "Electronics Weekly",
-     "zh": "Samtec VITA 90 VNX+ for RF backplane, optical, and power connectivity"
     },
     {
      "title": "Reimagining 3D IC Design: From Architecture to Signoff",
@@ -370,44 +354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Guerrilla RF appoints Lauren Winslow as executive VP, sales"
     },
     {
-     "title": "AI’s Legacy",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/ais-legacy-2026-11/",
-     "pubDate": "Wed, 04 Nov 2026 12:30:20 +0000",
-     "summary": "It is often said that war is the greatest accelerator of technology because governments will invest any money in weapons development to get a jump on their enemy, but this […] The post AI’s Legacy appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "AI’s Legacy"
-    },
-    {
-     "title": "Aircraft demand higher-voltage power",
-     "link": "https://www.electronicsweekly.com/news/business/aircraft-demand-higher-voltage-power-2026-11/",
-     "pubDate": "Wed, 04 Nov 2026 12:00:37 +0000",
-     "summary": "Developed by Airbus, Daher and Safran, the EcoPulse hybrid-electric demonstrator used an 800VDC system delivering up to 350kW to support six wing-mounted electric propellers (source: Airbus) Silicon carbide power electronics, […] The post Aircraft demand higher-voltage power appeared first on Electr",
-     "source": "Electronics Weekly",
-     "zh": "Aircraft demand higher-voltage power"
-    },
-    {
      "title": "CSconnected sponsors event in Cardiff focusing on semiconductor startups",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/csconnected-041126.shtml",
      "pubDate": "Wed, 4 Nov 2026 11:41:45 GMT",
      "summary": "CSconnected Ltd, the not-for-profit organization driving the world’s first compound semiconductor cluster in South Wales, sponsored Silicon Catalyst’s ‘Forming, Storming, Norming & Performing for Semiconductor Startups’ event at Cardiff University on 28 October, as it sets out South Wales as the pla",
      "source": "Semiconductor Today",
      "zh": "CSconnected sponsors event in Cardiff focusing on semiconductor startups"
-    },
-    {
-     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-     "pubDate": "Wed, 04 Nov 2026 10:48:02 +0000",
-     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
-    },
-    {
-     "title": "HMGCC Challenge seeks technology to identify hostile RF emitters",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/hmgcc-challenge-seeks-technology-to-identify-hostile-rf-emitters-2026-11/",
-     "pubDate": "Wed, 04 Nov 2026 10:43:35 +0000",
-     "summary": "The HMGCC (His Majesty’s Government Communications Centre) is launching a challenge – via the Satellite Applications Catapult – to create technology that can identify hostile RF emitters in battlefield situations. […] The post HMGCC Challenge seeks technology to identify hostile RF emitters appeared",
-     "source": "Electronics Weekly",
-     "zh": "HMGCC Challenge seeks technology to identify hostile RF emitters"
     },
     {
      "title": "Former Intel packaging chief Navid Shahriari joins MediaTek as senior vice president",
@@ -496,6 +448,46 @@ window.INDUSTRY_DATA = {
      "summary": "Why automotive-grade PQC IP matters, what sets it apart from general-purpose PQC, and what SoC design teams should look for when choosing a PQC accelerator. The post Built to Last: Why Automotive-Grade PQC Can’t Wait appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Built to Last: Why Automotive-Grade PQC Can’t Wait"
+    },
+    {
+     "title": "Validate Sovereign AI Sites Before You Commit Capital: eBook",
+     "link": "https://semiengineering.com/validate-sovereign-ai-sites-before-you-commit-capital-ebook/",
+     "pubDate": "Wed, 04 Nov 2026 08:03:39 +0000",
+     "summary": "How to validate sites before commitment, protect capacity after deployment, and plan for long-term performance. The post Validate Sovereign AI Sites Before You Commit Capital: eBook appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Validate Sovereign AI Sites Before You Commit Capital: eBook"
+    },
+    {
+     "title": "3D-IC Signal Integrity: From Silicon Interposers To System Signoff",
+     "link": "https://semiengineering.com/3d-ic-signal-integrity-from-silicon-interposers-to-system-signoff/",
+     "pubDate": "Wed, 04 Nov 2026 08:02:20 +0000",
+     "summary": "A unified, system-level environment that aggregates several proven technologies into a seamless workflow spanning architecture exploration, electromagnetic extraction, channel simulation, protocol compliance verification, and final system-level signoff. The post 3D-IC Signal Integrity: From Silicon ",
+     "source": "Semiconductor Engineering",
+     "zh": "3D-IC Signal Integrity: From Silicon Interposers To System Signoff"
+    },
+    {
+     "title": "Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing",
+     "link": "https://semiengineering.com/beyond-the-chip-how-ai-is-reshaping-semiconductor-design-and-manufacturing/",
+     "pubDate": "Wed, 04 Nov 2026 08:01:58 +0000",
+     "summary": "Power delivery, connectivity, advanced packaging, and supply chain resilience are emerging as the primary constraints on AI scaling. The post Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing"
+    },
+    {
+     "title": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?",
+     "link": "https://www.eetimes.com/is-there-room-for-small-scale-osats-in-india-chip-packaging-boom/",
+     "pubDate": "Tue, 03 Nov 2026 23:30:00 +0000",
+     "summary": "Small OSATs in India can start with ₹1.5–₹2 billion (~$15.8–$21 million), consultant Nitin Dodia said. But anchor customers, skilled staff, and qualification determine who survives. The post Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom? appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?"
+    },
+    {
+     "title": "Bosch to form dedicated semiconductor division, targeting growth in new markets",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bosch-031126.shtml",
+     "pubDate": "Tue, 3 Nov 2026 20:55:55 GMT",
+     "summary": "Aiming to generate €5bn in semiconductor sales by 2030, as part of reorganizing its corporate structure and the evolution of Bosch Mobility (announced at the end of October), on 1 January 2028 Germany-based tier-1 automotive supplier Bosch will transfer its semiconductor operations (currently part o",
+     "source": "Semiconductor Today",
+     "zh": "Bosch to form dedicated semiconductor division, targeting growth in new markets"
     }
    ]
   },
@@ -650,10 +642,18 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "GM is recalling more than 67,000 Cadillac and Chevy EVs over a brake software defect",
+     "link": "https://electrek.co/2026/11/04/gm-recalls-67000-cadillac-chevy-evs-over-brake-software-defect/",
+     "pubDate": "Wed, 04 Nov 2026 22:15:04 +0000",
+     "summary": "General Motors (GM) issued a recall affecting more than 67,000 Cadillac and Chevy EVs because a software glitch can cause a temporary loss of braking. more…",
+     "source": "Electrek",
+     "zh": "GM is recalling more than 67,000 Cadillac and Chevy EVs over a brake software defect"
+    },
+    {
      "title": "Waymo And Uber Are Officially Breaking Up: Report",
      "link": "https://insideevs.com/news/814451/waymo-uber-robotaxi-partnership-is-ending/",
      "pubDate": "Wed, 04 Nov 2026 21:59:14 +0000",
-     "summary": "It's planning to serve riders via its own app in those cities instead.",
+     "summary": "Waymo is planning to serve riders via its own app in those cities instead.",
      "source": "InsideEVs",
      "zh": "Waymo And Uber Are Officially Breaking Up: Report"
     },
@@ -736,14 +736,6 @@ window.INDUSTRY_DATA = {
      "summary": "BYD’s new full-size electric SUV, the Denza N9 EV, was revealed in a regulatory filing, weighing in at over 8,200 lbs (3,760 kg). That creates one issue. more…",
      "source": "Electrek",
      "zh": "BYD’s new luxury electric SUV has one big problem: It weighs over 8,200 lbs"
-    },
-    {
-     "title": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
-     "link": "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
-     "pubDate": "Wed, 04 Nov 2026 16:23:06 +0000",
-     "summary": "Xiaomi has released footage of its humanoid robots working a full 8-hour shift at its EV factory, sorting center console side covers for its cars. The company says the robots did it on their own, catching and fixing their own mistakes along the way. If that’s fully autonomous, it’s truly impressive.",
-     "source": "Electrek",
-     "zh": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory"
     },
     {
      "title": "This Startup Is Turning Used E-Bike Batteries Into Affordable Energy Storage",
@@ -2242,20 +2234,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Innoviva GAAP EPS of -$1.03 misses by $1.37, revenue of $106.12M misses by $9.19M",
+     "link": "https://seekingalpha.com/news/4665826-innoviva-gaap-eps-of-1_03-misses-by-1_37-revenue-of-106_12m-misses-by-9_19m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 17:13:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innoviva GAAP EPS of -$1.03 misses by $1.37, revenue of $106.12M misses by $9.19M"
+    },
+    {
+     "title": "Cooper-Standard Non-GAAP EPS of -$0.11 misses by $1.29, revenue of $708.6M misses by $6.13M",
+     "link": "https://seekingalpha.com/news/4665822-cooper-standard-non-gaap-eps-of-0_11-misses-by-1_29-revenue-of-708_6m-misses-by-6_13m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 17:12:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cooper-Standard Non-GAAP EPS of -$0.11 misses by $1.29, revenue of $708.6M misses by $6.13M"
+    },
+    {
+     "title": "Upland Software Non-GAAP EPS of $1.71 beats by $0.11, revenue of $47.5M beats by $0.26M",
+     "link": "https://seekingalpha.com/news/4665824-upland-software-non-gaap-eps-of-171-beats-by-011-revenue-of-475m-beats-by-026m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 17:12:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Upland Software Non-GAAP EPS of $1.71 beats by $0.11, revenue of $47.5M beats by $0.26M"
+    },
+    {
+     "title": "Manulife Financial Non-GAAP EPS of C$1.24 beats by $0.40, revenue of C$2.29B",
+     "link": "https://seekingalpha.com/news/4665821-manulife-financial-non-gaap-eps-of-c124-beats-by-040-revenue-of-c229b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 17:12:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Manulife Financial Non-GAAP EPS of C$1.24 beats by $0.40, revenue of C$2.29B"
+    },
+    {
+     "title": "Black Hills Non-GAAP EPS of $0.57 beats by $0.10, revenue of $466.1M misses by $15.71M",
+     "link": "https://seekingalpha.com/news/4665819-black-hills-non-gaap-eps-of-0_57-beats-by-0_10-revenue-of-466_1m-misses-by-15_71m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 17:12:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Black Hills Non-GAAP EPS of $0.57 beats by $0.10, revenue of $466.1M misses by $15.71M"
+    },
+    {
+     "title": "Tigo Energy reports Q3 results",
+     "link": "https://seekingalpha.com/news/4665811-tigo-energy-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 17:11:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tigo Energy reports Q3 results"
+    },
+    {
+     "title": "民主党横扫国会！美股债齐涨，道指大涨3%，光通信与数据中心股下挫，原油暴跌10%",
+     "link": "https://wallstreetcn.com/articles/3785134",
+     "pubDate": "Thu, 05 Nov 2026 06:11:19 +0800",
+     "summary": "美国中期选举结果落地，风险资产迎来大幅反弹。民主党意外横扫参众两院，市场将政治格局切换解读为地缘风险降温与政策掣肘双重利好，推动股票、债券走高，油价则遭遇年内最惨烈单日跌幅之一。 周三 标普500指数 收涨1.6%， 道指 大涨3%，创8月以来最大单日涨幅。 苹果 、 微软 、 亚马逊 各涨逾5%，领涨科技巨头。然而，行情内部分化明显：AI基础设施相关股票遭到抛售，芯片股、数据中心运营商重挫。 与此同时，市场押注民主党执政将加速伊朗战争降级， 布伦特原油 暴跌近10%至100美元下方，带动美债收益率全线回落， 10年期美债收益率 降至4.89%，为两个月低点。 比特币 突破8万美元关口， 黄金",
+     "source": "华尔街见闻",
+     "zh": "民主党横扫国会！美股债齐涨，道指大涨3%，光通信与数据中心股下挫，原油暴跌10%"
+    },
+    {
      "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
      "link": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
      "pubDate": "Wed, 04 Nov 2026 22:06:00 GMT",
      "summary": "Most Americans are “thrilled” or “happy” about the results of this year’s election. Some are especially so.",
      "source": "MarketWatch",
      "zh": "How do Americans feel about the midterm results? It depends on how much money they make."
-    },
-    {
-     "title": "Beyond Meat GAAP EPS of -$4.32 misses by $2.39, revenue of $64.53M beats by $0.53M",
-     "link": "https://seekingalpha.com/news/4665778-beyond-meat-gaap-eps-of-4_32-misses-by-2_39-revenue-of-64_53m-beats-by-0_53m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 17:04:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Beyond Meat GAAP EPS of -$4.32 misses by $2.39, revenue of $64.53M beats by $0.53M"
     },
     {
      "title": "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on smartphone sales",
@@ -2266,52 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on smartphone sales"
     },
     {
-     "title": "Compass Diversified GAAP EPS of $0.05 beats by $0.40, revenue of $422.9M beats by $12.38M",
-     "link": "https://seekingalpha.com/news/4665777-compass-diversified-gaap-eps-of-0_05-beats-by-0_40-revenue-of-422_9m-beats-by-12_38m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 17:03:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Compass Diversified GAAP EPS of $0.05 beats by $0.40, revenue of $422.9M beats by $12.38M"
-    },
-    {
      "title": "Qualcomm’s stock falls as twin forces pressure sales",
      "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
      "pubDate": "Wed, 04 Nov 2026 22:03:00 GMT",
      "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
      "source": "MarketWatch",
      "zh": "Qualcomm’s stock falls as twin forces pressure sales"
-    },
-    {
-     "title": "Root GAAP EPS of $0.86 beats by $0.21, revenue of $381.3M misses by $1.64M",
-     "link": "https://seekingalpha.com/news/4665776-root-gaap-eps-of-0_86-beats-by-0_21-revenue-of-381_3m-misses-by-1_64m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 17:01:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Root GAAP EPS of $0.86 beats by $0.21, revenue of $381.3M misses by $1.64M"
-    },
-    {
-     "title": "nDatalyze terminates proposed reverse takeover deal with Prism Diversified",
-     "link": "https://seekingalpha.com/news/4665748-ndatalyze-terminates-proposed-reverse-takeover-deal-with-prism-diversified?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 17:01:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "nDatalyze terminates proposed reverse takeover deal with Prism Diversified"
-    },
-    {
-     "title": "Vir Biotechnology Non-GAAP EPS of -$0.57 beats by $0.18",
-     "link": "https://seekingalpha.com/news/4665770-vir-biotechnology-non-gaap-eps-of--057-beats-by-018?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 17:01:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vir Biotechnology Non-GAAP EPS of -$0.57 beats by $0.18"
-    },
-    {
-     "title": "TrueBlue Non-GAAP EPS of $0.33 beats by $0.14, revenue of $521M beats by $52.94M",
-     "link": "https://seekingalpha.com/news/4665775-trueblue-non-gaap-eps-of-033-beats-by-014-revenue-of-521m-beats-by-5294m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 17:01:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TrueBlue Non-GAAP EPS of $0.33 beats by $0.14, revenue of $521M beats by $52.94M"
     },
     {
      "title": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
@@ -2453,7 +2453,7 @@ window.INDUSTRY_DATA = {
      "title": "全球市场：美股三大指数集体上涨 道指涨超3% 国际金银价格走强、油价大跌",
      "link": "http://stock.eastmoney.com/news/11784,202611053922382371.html",
      "pubDate": "Thu, 05 Nov 2026 05:15:49 +0800",
-     "summary": "美股市场： 美股三大指数11月04日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨1569.4点，收于53356.12点，涨幅为3.03%； 标准普尔 500种股票指数上涨119.7点，收于7688.62点，涨幅为1.58%； 纳斯达克 综合 指数上涨364.5点，收于25736.51点，涨幅为1.44%。 “科技七巨头”多数上涨， 微软 涨6.68%， 亚马逊 涨6.12%， 苹果 涨5.31%， 谷歌-A 涨3.18%，Meta涨1.44%， 英伟达 跌3.17%， 特斯拉 跌3.34%，其中 苹果 、 微软 股价盘中刷新纪录高位。 零售与消费板块走强，劳氏涨7.50%，家得宝",
+     "summary": "美股市场： 美股三大指数11月04日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨1569.4点，收于53356.12点，涨幅为3.03%； 标准普尔 500种股票指数上涨119.7点，收于7688.62点，涨幅为1.58%； 纳斯达克 综合 指数上涨364.5点，收于25736.51点，涨幅为1.44%。 “科技七巨头”多数上涨， 微软 涨6.68%， 亚马逊 涨6.12%， 苹果 涨5.31%， 谷歌-A 涨3.18%，Meta涨1.44%， 英伟达 跌3.17%， 特斯拉 跌3.34%，其中 苹果 、 微软 股价刷新纪录高位。 零售与消费板块走强，劳氏涨7.50%，家得宝涨6",
      "source": "东方财富资讯",
      "zh": "全球市场：美股三大指数集体上涨 道指涨超3% 国际金银价格走强、油价大跌"
     },
@@ -2472,14 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "In control of Congress, Democrats are preparing to pursue legislation to address affordability, while also trying to rein-in President Donald Trump",
      "source": "CNBC",
      "zh": "Democrats map out an agenda to address affordability and corruption after midterm sweep"
-    },
-    {
-     "title": "11月5日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11158,202611053922376492.html",
-     "pubDate": "Thu, 05 Nov 2026 04:46:48 +0800",
-     "summary": "11月5日(星期四)，今日报刊头条主要内容精华如下： 中国证券报 利好来了！A股公司掀“回购潮” 11月4日晚，A股公司密集发布回购相关公告。其中， 三环集团 拟回购资金总额不低于5亿元且不超过10亿元； 海光信息 拟回购资金总额不低于5亿元且不超过8亿元。此外， 亨通光电 同时发布回购、增持两项公告。从回购资金来源看，多数公司提到主要来自于自有资金和自筹资金。其中，自筹资金包括股票回购专项贷款资金。 “牛散”二股东罕见发声！现身片仔癀股东会：“现在的困难是暂时的” “现在的困难是暂时的， 片仔癀 核心是一家有定价权的公司。只要采取果断、有效的措施把毛利率恢复上去，股价也会跟着恢复，甚至会领先",
-     "source": "东方财富资讯",
-     "zh": "11月5日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     }
    ]
   },

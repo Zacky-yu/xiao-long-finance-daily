@@ -978,6 +978,14 @@ window.INDUSTRY_DATA = {
      "zh": "The Senate permitting bill holds promise but needs amendments"
     },
     {
+     "title": "Caterpillar expands production of engines and turbines to meet data center demand",
+     "link": "https://www.utilitydive.com/news/caterpillar-posts-highest-sales-quarter-ever-data-centers-q3-2026/873586/",
+     "pubDate": "Tue, 03 Nov 2026 11:42:00 -0500",
+     "summary": "The heavy machinery and power equipment maker saw its order backlog reach $78 billion during the third quarter, almost double what it was a year ago.",
+     "source": "Utility Dive",
+     "zh": "Caterpillar expands production of engines and turbines to meet data center demand"
+    },
+    {
      "title": "Innovations in solar module technologies outpace testing work",
      "link": "https://www.pv-tech.org/innovations-solar-module-technologies-testing-work/",
      "pubDate": "Tue, 03 Nov 2026 16:12:55 +0000",
@@ -1016,6 +1024,14 @@ window.INDUSTRY_DATA = {
      "summary": "Waaree Solar Americas has commenced commercial production on two 800MW solar module manufacturing lines at its Brookshire facility in Texas.",
      "source": "PV Tech",
      "zh": "Waaree commences production on 1.6GW solar module lines at Texas plant"
+    },
+    {
+     "title": "Energy affordability tops voter concerns in election set to shake up Congress",
+     "link": "https://www.utilitydive.com/news/energy-affordability-voter-election-midterm-congress-energy-policy/873596/",
+     "pubDate": "Tue, 03 Nov 2026 10:23:13 -0500",
+     "summary": "&ldquo;History shows us that energy crises create policy openings, and we think the conditions are probably in place for a window of policymaking,&rdquo; Hasan Nazar, head of policy at Crux, told Utility Dive.",
+     "source": "Utility Dive",
+     "zh": "Energy affordability tops voter concerns in election set to shake up Congress"
     },
     {
      "title": "PSEG Power plans 200-MW nuclear uprate as company eyes data center deals",
@@ -1882,12 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "Columbia Promo Codes: 15% Off | November 2026"
     },
     {
-     "title": "25% Off Adidas Promo Code | November 2026",
-     "link": "https://www.wired.com/story/adidas-promo-code/",
+     "title": "Alo Discount Code: 20% Off November 2026",
+     "link": "https://www.wired.com/story/alo-yoga-discount-code/",
      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-     "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+     "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
      "source": "WIRED",
-     "zh": "25% Off Adidas Promo Code | November 2026"
+     "zh": "Alo Discount Code: 20% Off November 2026"
     },
     {
      "title": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 15:52:18",
+ "generated_at": "2026/11/4 16:00:35",
  "recent_days": 7,
  "industries": [
   {
@@ -834,6 +834,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Aermec presents high-temperature water-to-water heat pumps with up to 889 kW heating capacity",
+     "link": "https://www.pv-magazine.com/2026/11/04/aermec-presents-high-temperature-water-to-water-heat-pumps-with-up-to-889-kw-heating-capacity/",
+     "pubDate": "Wed, 04 Nov 2026 07:52:01 +0000",
+     "summary": "Italian heating and cooling specialist Aermec has introduced two high-temperature water-to-water heat pump series for commercial and industrial applications. The HWSG_H and WFGN_H ranges deliver water temperatures of up to 80 C and 85 C, respectively, with heating capacities ranging from approximate",
+     "source": "pv magazine",
+     "zh": "Aermec presents high-temperature water-to-water heat pumps with up to 889 kW heating capacity"
+    },
+    {
      "title": "France deploys 4.18 GW of solar in first nine months of 2026 as residential market contracts",
      "link": "https://www.pv-magazine.com/2026/11/04/france-deploys-4-18-gw-of-solar-in-first-nine-months-of-2026-as-residential-market-contracts/",
      "pubDate": "Wed, 04 Nov 2026 07:30:34 +0000",
@@ -888,14 +896,6 @@ window.INDUSTRY_DATA = {
      "summary": "Crude oil prices, which fell to their lowest in four weeks, staged a rebound earlier today, as traders shifted their attention from the U.S. midterms to the Middle East, awaiting the next step in the war. Benchmarks dropped sharply on Tuesday on reports that Iran may be open to discussions on previo",
      "source": "OilPrice",
      "zh": "Oil Prices Rebound as Middle East Supply Fears Return"
-    },
-    {
-     "title": "Flexing their intelligence",
-     "link": "https://www.pv-magazine.com/2026/11/04/flexing-their-intelligence/",
-     "pubDate": "Wed, 04 Nov 2026 05:00:00 +0000",
-     "summary": "The conversation around US data centers and the huge amounts of energy they require typically focuses on how challenging it is for developers to secure grid connections. But access to power is only one piece of the puzzle. A more lasting issue is the impact data centers have on the power grid after ",
-     "source": "pv magazine",
-     "zh": "Flexing their intelligence"
     },
     {
      "title": "NIO’s October Sales Meh, But 2026 Sales Up 38.5%",
@@ -1738,6 +1738,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "美开发商拟将高尔夫球场改造为数据中心，以应对社区反对",
+     "link": "https://www.ithome.com/1/022/216.htm",
+     "pubDate": "Wed, 04 Nov 2026 07:55:48 GMT",
+     "summary": "IT之家 11 月 4 日消息，据彭博社报道，为了应对数据中心引发的反对浪潮，美国加利福尼亚州的开发商提出了一种环保替代方案：将高尔夫球场及其巨大的用水需求，改造成耗水量更低的计算机服务器设施。 在南加州圣盖博谷地区的工业市（City of Industry），18 洞加利福尼亚乡村俱乐部（California Country Club）的所有者已提交项目计划，拟在这片占地 124 英亩（约 50 公顷）的土地上建设一座装机容量为 99 兆瓦的数据中心。该项目名为“洛杉矶休闲与科技园”（Los Angeles Recreation and Technology Park，简称 LARTP），还",
+     "source": "IT之家",
+     "zh": "美开发商拟将高尔夫球场改造为数据中心，以应对社区反对"
+    },
+    {
+     "title": "消息称三井化学计划以超 1.3 万亿日元收购光刻胶大厂 JSR",
+     "link": "https://www.ithome.com/1/022/212.htm",
+     "pubDate": "Wed, 04 Nov 2026 07:54:11 GMT",
+     "summary": "IT之家 11 月 4 日消息，《日经新闻》当地时间今日报道称， 三井化学 (Mitsui Chemicals) 计划以超过 1.3 万亿日元 （IT之家注：现汇率约合 548.16 亿元人民币） 的价格收购全球第二大光刻胶制造商 JSR 。 报道指出，这笔交易有望超过昭和电工在 2020 年对日立化成的收购（两家企业后续合并为 Resonac），创下日本化学工业行业的交易规模纪录。 日本政府系基金产业革新投资机构 (JIC) 于 2024 年以约 1 万亿日元的价格实现了 JSR 的私有化退市，此后剥离了 JSR 的亏损业务，使其专注于核心的半导体材料领域。 三井化学表示，收购 JSR 是该",
+     "source": "IT之家",
+     "zh": "消息称三井化学计划以超 1.3 万亿日元收购光刻胶大厂 JSR"
+    },
+    {
      "title": "《GTA6》游戏预载 11 月 10 日开启：澳大利亚国家宽带网络称“已做好流量应对准备”",
      "link": "https://www.ithome.com/1/022/210.htm",
      "pubDate": "Wed, 04 Nov 2026 07:45:57 GMT",
@@ -1768,22 +1784,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 4 日消息，OpenAI 公司昨日（11 月 3 日）发布博文，公布 AI 辅助实体产品研发的最新进展， 展示 GPT‑6 Astra 在机械、电路及软件协同设计中的应用 ，并宣布与马自达开展研究合作，将模型用于汽车设计与仿真评估。 IT之家附上相关视频如下： 在 AI 辅助实体产品研发方面，OpenAI 称两名团队成员利用业余时间，在不到一周内借助 Astra 完成一款可与 Codex 交互的测试设备设计。模型承担外观、外壳结构、电子元件选型、电路板布局及固件生成等工作，代工厂随后在不到一个月内制成小批量原型机。 但从设计到制造仍有明显门槛。OpenAI 承认，模型未能始",
      "source": "IT之家",
      "zh": "OpenAI 展示员工“副业”硬件成果：一周出图、一月出样，外壳、电路板、固件 AI 全包办"
-    },
-    {
-     "title": "联想拯救者启动平板电脑“绝密项目 002”先锋内测招募，暗示 Y900 产品线迭代款",
-     "link": "https://www.ithome.com/1/022/203.htm",
-     "pubDate": "Wed, 04 Nov 2026 07:40:21 GMT",
-     "summary": "IT之家 11 月 4 日消息，联想 (Lenovo) 拯救者 (Legion) 现已启动平板电脑“绝密项目 002”的先锋内测招募。 IT之家注意到， 此次官方图片中展示的平板电脑形象包括配套键盘 ，这是尺寸更大的 Y900 系列的特征。 相关阅读： 《 联想启动拯救者下代游戏平板电脑先锋内测招募，12 月 31 日公布名单 》",
-     "source": "IT之家",
-     "zh": "联想拯救者启动平板电脑“绝密项目 002”先锋内测招募，暗示 Y900 产品线迭代款"
-    },
-    {
-     "title": "人类改变轨道的小行星，终于被欧空局赫拉探测器拍摄到",
-     "link": "https://www.ithome.com/1/022/200.htm",
-     "pubDate": "Wed, 04 Nov 2026 07:38:44 GMT",
-     "summary": "IT之家 11 月 4 日消息，欧洲行星防御探测器“赫拉”（Hera）正在接近 NASA 曾实施 DART 撞击偏转测试的双小行星系统，目前已能够分辨出这两颗岩质天体。 赫拉探测器即将结束前往“迪迪莫斯”（Didymos）小行星系统的旅程。该探测器于 2024 年 10 月搭乘 SpaceX 猎鹰 9 号火箭发射升空。10 月 18 日，赫拉在距离这对小行星约 1280 公里处拍摄了迪迪莫斯及其体积较小的伴星“迪莫弗斯”（Dimorphos）。目前，这对小行星距离地球约 1.97 亿公里。 欧洲航天局（ESA）赫拉项目科学家迈克尔 · 库佩尔斯（Michael Kueppers）在一份声明中表",
-     "source": "IT之家",
-     "zh": "人类改变轨道的小行星，终于被欧空局赫拉探测器拍摄到"
     },
     {
      "title": "“字节时间”对战再升级，李亮真的在下一盘“大棋”吗？",
@@ -1906,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "50% Off DoorDash Promo Code | November 2026"
     },
     {
-     "title": "Columbia Promo Codes: 15% Off | November 2026",
-     "link": "https://www.wired.com/story/columbia-promo-code/",
-     "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-     "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-     "source": "WIRED",
-     "zh": "Columbia Promo Codes: 15% Off | November 2026"
-    },
-    {
      "title": "Hoka Coupon Codes: 30% Off in November 2026",
      "link": "https://www.wired.com/story/hoka-coupon-code/",
      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
@@ -1936,6 +1928,14 @@ window.INDUSTRY_DATA = {
      "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
      "source": "WIRED",
      "zh": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026"
+    },
+    {
+     "title": "Columbia Promo Codes: 15% Off | November 2026",
+     "link": "https://www.wired.com/story/columbia-promo-code/",
+     "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
+     "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+     "source": "WIRED",
+     "zh": "Columbia Promo Codes: 15% Off | November 2026"
     },
     {
      "title": "25% Off Adidas Promo Code | November 2026",
@@ -2016,6 +2016,14 @@ window.INDUSTRY_DATA = {
      "summary": "You can finally stop the app from adding random music to your memories.",
      "source": "Android Authority",
      "zh": "Google Photos now lets you stop Memories from ruining the mood"
+    },
+    {
+     "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+     "link": "https://sspai.com/post/115819",
+     "pubDate": "Wed, 04 Nov 2026 14:50:48 +0800",
+     "summary": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。 查看全文",
+     "source": "少数派",
+     "zh": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机"
     },
     {
      "title": "Latest Sonos app update can help you fix your speaker setup faster, but there’s a catch",
@@ -2216,14 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "In addition to the new app icon , Google Messages is testing a redesign of pinned chats and search on the homepage. more…",
      "source": "9to5Google",
      "zh": "Google Messages redesigning pinned chats and moving search"
-    },
-    {
-     "title": "Peak Design’s new wireless charging stand pulls double duty, literally",
-     "link": "https://9to5google.com/2026/11/03/peak-design-new-charging-accessories/",
-     "pubDate": "Tue, 03 Nov 2026 21:05:00 +0000",
-     "summary": "The three new charging accessories from Peak Design hit the high notes, like (dual) Qi2 wireless charging and wired fast charging without bulky bricks. more…",
-     "source": "9to5Google",
-     "zh": "Peak Design’s new wireless charging stand pulls double duty, literally"
     }
    ]
   },
@@ -2234,44 +2234,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Politico民调：民主党选民对妥协兴趣不大",
-     "link": "http://hk.eastmoney.com/news/1533,202611043921930049.html",
-     "pubDate": "Wed, 04 Nov 2026 15:43:06 +0800",
-     "summary": "据Politico，三分之二的民主党选民希望众议院阻止美国总统特朗普的施政议程，而不是与其妥协。在民主党取得重大选举胜利后，特朗普表示，愿意在下一届国会任期内与民主党合作。但民主党高层已释放信号，不会轻易放过特朗普政府过去一年的所作所为。Politico民调显示，民主党中期选举选民也持类似态度：65%认为，众议院应将反对特朗普施政议程作为重点，即使这意味着牺牲推动立法的机会。从明年1月开始，民主党将面临推动政策落地的压力，但必须在解决生活成本问题与推进强硬监督议程之间取得平衡。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "Politico民调：民主党选民对妥协兴趣不大"
+     "title": "Mitsubishi GAAP EPS of $168.25, revenue of $10410.42B; updates FY2027 outlook",
+     "link": "https://seekingalpha.com/news/4664485-mitsubishi-gaap-eps-of-16825-revenue-of-1041042b-updates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 02:55:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mitsubishi GAAP EPS of $168.25, revenue of $10410.42B; updates FY2027 outlook"
     },
     {
-     "title": "阿联酋阿布扎比国家石油公司ADNOC：ADNOC贸易公司与科思创签署框架合作协议，探索能源供应、碳管理和市场情报领域的机会",
-     "link": "http://finance.eastmoney.com/news/1351,202611043921930368.html",
-     "pubDate": "Wed, 04 Nov 2026 15:41:19 +0800",
-     "summary": "阿联酋阿布扎比国家石油公司ADNOC：ADNOC贸易公司与科思创签署框架合作协议，探索能源供应、碳管理和市场情报领域的机会。 （文章来源：金十数据快讯）",
+     "title": "中航高科：截至10月30日最新股东户数9.67万户，较上期减少1.28%",
+     "link": "http://stock.eastmoney.com/news/11111,202611043921938219.html",
+     "pubDate": "Wed, 04 Nov 2026 15:50:45 +0800",
+     "summary": "中航高科 最新披露数据显示，截至10月30日公司股东户数为9.67万户，较上期(2026年10月20日) 减少1250户，降幅为1.28% 。户均持有流通股数量 由上期的1.42万股上升至1.44万股， 户均持股金额 由上期的25.90万元减少至25.66万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作",
      "source": "东方财富股票",
-     "zh": "阿联酋阿布扎比国家石油公司ADNOC：ADNOC贸易公司与科思创签署框架合作协议，探索能源供应、碳管理和市场情报领域的机会"
+     "zh": "中航高科：截至10月30日最新股东户数9.67万户，较上期减少1.28%"
     },
     {
-     "title": "阿布扎比国家石油公司与日本国际协力银行签署协议，获得10亿美元绿色融资",
-     "link": "http://finance.eastmoney.com/news/1351,202611043921929126.html",
-     "pubDate": "Wed, 04 Nov 2026 15:40:40 +0800",
-     "summary": "阿布扎比国家石油公司与日本国际协力 银行 签署协议，获得10亿美元绿色融资。 （文章来源：金十数据快讯）",
+     "title": "泓博医药：截至10月30日最新股东户数2.77万户，较上期减少10.16%",
+     "link": "http://stock.eastmoney.com/news/11111,202611043921937971.html",
+     "pubDate": "Wed, 04 Nov 2026 15:50:36 +0800",
+     "summary": "泓博医药 最新披露数据显示，截至10月30日公司股东户数为2.77万户，较上期(2026年10月20日) 减少3131户，降幅为10.16% 。户均持有流通股数量 由上期的5280股上升至5878股， 户均持股金额 由上期的18.90万元减少至17.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
      "source": "东方财富股票",
-     "zh": "阿布扎比国家石油公司与日本国际协力银行签署协议，获得10亿美元绿色融资"
+     "zh": "泓博医药：截至10月30日最新股东户数2.77万户，较上期减少10.16%"
     },
     {
-     "title": "赛微微电：实控人一致行动人拟增持1750万至3500万元公司股份",
-     "link": "http://finance.eastmoney.com/news/1354,202611043921929385.html",
-     "pubDate": "Wed, 04 Nov 2026 15:40:17 +0800",
-     "summary": "赛微微电 11月4日公告，公司控股股东、实际控制人之一致行动人聚核投资拟自2026年11月5日起6个月内，以自有及自筹资金，通过集中竞价、大宗交易等方式增持公司股份，拟增持金额不低于1750万元且不高于3500万元。聚核投资目前持有公司5.73%股份，控股股东、实控人及一致行动人合计持股26.36%。 （文章来源：界面新闻）",
+     "title": "星球石墨：截至10月30日最新股东户数1.01万户，较上期减少0.55%",
+     "link": "http://stock.eastmoney.com/news/11111,202611043921937817.html",
+     "pubDate": "Wed, 04 Nov 2026 15:50:36 +0800",
+     "summary": "星球石墨 最新披露数据显示，截至10月30日公司股东户数为1.01万户，较上期(2026年10月20日) 减少56户，降幅为0.55% 。户均持有流通股数量 由上期的1.67万股上升至1.68万股， 户均持股金额 由上期的33.93万元减少至32.30万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
      "source": "东方财富股票",
-     "zh": "赛微微电：实控人一致行动人拟增持1750万至3500万元公司股份"
+     "zh": "星球石墨：截至10月30日最新股东户数1.01万户，较上期减少0.55%"
     },
     {
-     "title": "四川确认已消除血吸虫病",
-     "link": "http://finance.eastmoney.com/news/11790,202611043921929091.html",
-     "pubDate": "Wed, 04 Nov 2026 15:40:00 +0800",
-     "summary": "近期，国家疾控局会同多部门正式印发通知，确认四川省达到血吸虫病消除状态。 （文章来源：财联社）",
+     "title": "有研新材：截至10月30日最新股东户数29.08万户，较上期减少10.61%",
+     "link": "http://stock.eastmoney.com/news/11111,202611043921937090.html",
+     "pubDate": "Wed, 04 Nov 2026 15:49:43 +0800",
+     "summary": "有研新材 最新披露数据显示，截至10月30日公司股东户数为29.08万户，较上期(2026年10月20日) 减少3.45万户，降幅为10.61% 。户均持有流通股数量 由上期的2602股上升至2910股， 户均持股金额 由上期的10.40万元减少至9.29万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作",
      "source": "东方财富股票",
-     "zh": "四川确认已消除血吸虫病"
+     "zh": "有研新材：截至10月30日最新股东户数29.08万户，较上期减少10.61%"
+    },
+    {
+     "title": "11月4日涨停复盘：121股涨停 金安国纪6天3板",
+     "link": "http://stock.eastmoney.com/news/11055,202611043921936912.html",
+     "pubDate": "Wed, 04 Nov 2026 15:49:43 +0800",
+     "summary": "今天沪指 涨 2.16%，深成指 涨 4.22%，创业板指 涨 6.4%，今日大盘成交额2.04万亿，较上个交易日放量3342.57亿。 涨停个股数量方面，今日共计121股涨停，另有38只个股盘中一度触及涨停，封板率76.1%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "11月4日涨停复盘：121股涨停 金安国纪6天3板"
+    },
+    {
+     "title": "亚翔集成：截至10月30日最新股东户数3.52万户，较上期减少3.60%",
+     "link": "http://stock.eastmoney.com/news/11111,202611043921936097.html",
+     "pubDate": "Wed, 04 Nov 2026 15:49:34 +0800",
+     "summary": "亚翔集成 最新披露数据显示，截至10月30日公司股东户数为3.52万户，较上期(2026年10月20日) 减少1317户，降幅为3.60% 。户均持有流通股数量 由上期的5836股上升至6054股， 户均持股金额 由上期的66.99万元减少至56.97万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "source": "东方财富股票",
+     "zh": "亚翔集成：截至10月30日最新股东户数3.52万户，较上期减少3.60%"
     },
     {
      "title": "Live coverage: Trump admits Iran war a factor as Republicans routed",
@@ -2288,14 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Google defends school AI rules amid political criticism"
-    },
-    {
-     "title": "美国共和党籍政治人物约翰·图恩计划竞选参议院少数党领袖",
-     "link": "http://finance.eastmoney.com/news/11790,202611043921929293.html",
-     "pubDate": "Wed, 04 Nov 2026 15:39:11 +0800",
-     "summary": "美国共和党籍政治人物约翰·图恩（John Thune）计划竞选参议院少数党领袖。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国共和党籍政治人物约翰·图恩计划竞选参议院少数党领袖"
     },
     {
      "title": "Astellas Pharma ADR GAAP EPS of v134.47, revenue of ¥1270.86B; updates FY2027 outlook",
@@ -2386,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "AudioCodes Non-GAAP EPS of $0.16 in-line, revenue of $64.1M beats by $0.7M"
     },
     {
-     "title": "AtriCure projects 2026 adjusted EBITDA of $91M-$94M as it targets BoxX-NoAF enrollment completion by year-end",
-     "link": "https://seekingalpha.com/news/4664477-atricure-projects-2026-adjusted-ebitda-of-91m-94m-as-it-targets-boxx-noaf-enrollment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 02:16:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AtriCure projects 2026 adjusted EBITDA of $91M-$94M as it targets BoxX-NoAF enrollment completion by year-end"
-    },
-    {
      "title": "共和党中选失利、4.5亿美元泡汤？“大金主”马斯克发声",
      "link": "https://wallstreetcn.com/articles/3785153",
      "pubDate": "Wed, 04 Nov 2026 15:07:55 +0800",
@@ -2437,7 +2437,7 @@ window.INDUSTRY_DATA = {
      "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
      "link": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 06:40:10 GMT",
-     "summary": "Democrats take Congress as Republicans routed from Texas to Georgia",
+     "summary": "Democrats take Congress as Republicans defeated in races from Texas to Georgia",
      "source": "Financial Times",
      "zh": "Americans deliver stunning rebuke to Trump as blue wave sweeps country"
     },

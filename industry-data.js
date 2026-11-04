@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 12:11:51",
+ "generated_at": "2026/11/4 12:31:52",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Acer Taiwan expects significant consumer PC growth in 2026 despite overall market weakness",
+     "link": "https://www.digitimes.com/news/a20261104PD223/acer-pc-market-taiwan-2026.html",
+     "pubDate": "Wed, 4 Nov 2026 04:06:14 GMT",
+     "summary": "Despite a sharp slowdown in the overall PC market in the second half of 2026, Acer's consumer PC shipments to the Taiwan market rose 15% year-over-year from January to October. The vendor expects Single's Day promotions to help maintain full-year shipment growth above 15% for the Taiwan market, whil",
+     "source": "DIGITIMES",
+     "zh": "Acer Taiwan expects significant consumer PC growth in 2026 despite overall market weakness"
+    },
+    {
      "title": "UTI begins iPhone Duo UTG shipments to Samsung Display",
      "link": "https://www.digitimes.com/news/a20261104PD206/utg-iphone-duo-production-sdc-shipments.html",
      "pubDate": "Wed, 4 Nov 2026 03:47:13 GMT",
@@ -296,14 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese commercial launch provider CAS Space launched its Kinetica-2 rocket at 8:15:25am on 3 November from the Dongfeng Commercial Aerospace Innovation Experimental Zone, placing 18 Spacesail Constellation satellites into their designated orbit. It was the rocket's first deployment mission for the ",
      "source": "DIGITIMES",
      "zh": "CAS Space's Kinetica-2 joins Spacesail deployment, raising stakes for China's commercial rockets"
-    },
-    {
-     "title": "Solidigm IPO cancellation puts SK Hynix's Kioxia stake in focus",
-     "link": "https://www.digitimes.com/news/a20261104PD204/sk-hynix-kioxia-solidigm-ipo-investment.html",
-     "pubDate": "Wed, 4 Nov 2026 03:04:25 GMT",
-     "summary": "SK Hynix's decision to halt evaluation of a Solidigm pre-IPO and IPO has renewed questions over how it will finance a planned NAND flash plant in the US. Selling remaining assets linked to its investment in Kioxia has emerged as a potential funding option, but Kioxia's share-price decline and the in",
-     "source": "DIGITIMES",
-     "zh": "Solidigm IPO cancellation puts SK Hynix's Kioxia stake in focus"
     },
     {
      "title": "Top Ten (+10)  Semiconductor Companies In Q2",
@@ -874,12 +874,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘We’ve done all the trials’: Akaysha calls for system security contracts for grid-forming battery storage in Australia"
     },
     {
-     "title": "How does Oahu get to an economically resilient, 100% clean energy future?",
+     "title": "How Does Oahu Get to an Economically Resilient, 100% Clean Energy Future?",
      "link": "https://cleantechnica.com/2026/11/03/how-does-oahu-get-to-an-economically-resilient-100-clean-energy-future/",
      "pubDate": "Wed, 04 Nov 2026 01:47:05 +0000",
      "summary": "Oahu is a unique place. It’s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason. Exorbitantly high electricity rates combined with ample natural resources make it an incredible laboratory to bring clean tech solutions to market. Rapid investment for WWI",
      "source": "CleanTechnica",
-     "zh": "How does Oahu get to an economically resilient, 100% clean energy future?"
+     "zh": "How Does Oahu Get to an Economically Resilient, 100% Clean Energy Future?"
     },
     {
      "title": "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
@@ -1746,6 +1746,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "马斯克回应太空 AI 数据中心散热质疑：可轻松做到每平方米约 1300 瓦散热",
+     "link": "https://www.ithome.com/1/022/029.htm",
+     "pubDate": "Wed, 04 Nov 2026 04:28:07 GMT",
+     "summary": "IT之家 11 月 4 日消息，科技媒体 Wccftech 昨日（11 月 3 日）发布博文，报道称针对太空 AI 数据中心散热争议，全球首富埃隆 · 马斯克（Elon Musk）回应表示， 称背向太阳的铝制散热器可实现约 1,300 瓦 / 平方米的热辐射功率。 IT之家援引博文介绍，这个散热争议集中在一个看似反直觉的问题： 太空很冷，设备为什么仍难降温？ 有评论者指出，真空环境缺乏空气对流，设备向外排热主要依赖热辐射，因此质疑轨道数据中心的可行性。 今年 2 月在接受《印度快报》采访时，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）认为“在目前的形势下，将数据中心放在太",
+     "source": "IT之家",
+     "zh": "马斯克回应太空 AI 数据中心散热质疑：可轻松做到每平方米约 1300 瓦散热"
+    },
+    {
+     "title": "北汽集团 10 月整车销量超 14.8 万辆，环比增长 11%",
+     "link": "https://www.ithome.com/1/022/028.htm",
+     "pubDate": "Wed, 04 Nov 2026 04:25:55 GMT",
+     "summary": "IT之家 11 月 4 日消息，北汽集团今日发布 10 月销量数据： 10 月整车销量超 14.8 万辆，环比增长 11%； 10 月自主品牌销量 11.2 万辆，环比增长 12%； 10 月海外市场销量 3.2 万辆，同比增长 28%； 1—10 月累计整车销量超 131.6 万辆； 1—10 月自主品牌累计销量 92 万辆，同比增长 11%； 1—10 月海外市场累计销量 30.6 万辆，同比增长 27%。 IT之家获悉， 北汽新能源 10 月销量 32502 辆，同比增长 6.42% ，环比增长 34.98%；1-10 月销量 195878 辆，同比增长 37.90%。 其中， 极狐汽车",
+     "source": "IT之家",
+     "zh": "北汽集团 10 月整车销量超 14.8 万辆，环比增长 11%"
+    },
+    {
+     "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)",
+     "link": "https://www.techmeme.com/261103/p48#a261103p48",
+     "pubDate": "Tue, 03 Nov 2026 23:20:01 -0500",
+     "summary": "Xavier Martinez / Wall Street Journal : Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs &nbsp; &mdash;&nbsp; No drug designed by artificial intelligence has won FDA clearance, and pharma leader",
+     "source": "Techmeme",
+     "zh": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)"
+    },
+    {
+     "title": "北大光华教授陈玉宇：知识早就够多了，为什么增长还是没发生？",
+     "link": "https://www.tmtpost.com/8192741.html",
+     "pubDate": "Wed, 04 Nov 2026 12:17:00 +0800",
+     "summary": "组织技术、生产能力与人工智能时代的经济学。",
+     "source": "钛媒体",
+     "zh": "北大光华教授陈玉宇：知识早就够多了，为什么增长还是没发生？"
+    },
+    {
+     "title": "豆包，被字节另一款APP超越了",
+     "link": "https://www.huxiu.com/article/4902871.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 12:13:39 +0800",
+     "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 2017年，QuestMobile发布报告，统计当代人冲浪都把时间都花在哪些APP上，结果发现，手握微信、QQ两大巨头的腾讯系产品占了45.9%，当时，字节跳动的产品还被叫做“今日头条系”，仅仅占据了大家刷手机时长的9.7%。 10年后，野村证券报告里的数据引起了新的关注：2026年7月，在中国用户使用时长排名前50的App中，字节跳动旗下应用的时长份额达到41.8%。 需要说明的是，41.8%是TOP50 App的使用时长份额，并不能完全等同于中国网民的全部上网时间。但作为一个观察切口，它足以说明一个趋势：中国网民花在字节系产品上的时",
+     "source": "虎嗅",
+     "zh": "豆包，被字节另一款APP超越了"
+    },
+    {
+     "title": "“太空AI第一股”来了，80后造出百亿独角兽",
+     "link": "https://www.tmtpost.com/8192734.html",
+     "pubDate": "Wed, 04 Nov 2026 12:13:00 +0800",
+     "summary": "43岁学者下海，把大模型搬上太空。",
+     "source": "钛媒体",
+     "zh": "“太空AI第一股”来了，80后造出百亿独角兽"
+    },
+    {
+     "title": "“减重”的较量，罗氏追上来了",
+     "link": "https://www.tmtpost.com/8192659.html",
+     "pubDate": "Wed, 04 Nov 2026 12:09:00 +0800",
+     "summary": "MNC“捭阖术”启示。",
+     "source": "钛媒体",
+     "zh": "“减重”的较量，罗氏追上来了"
+    },
+    {
      "title": "宇树王兴兴：大概率明年是机器人行业或机器人模型临界点",
      "link": "https://www.ithome.com/1/022/026.htm",
      "pubDate": "Wed, 04 Nov 2026 04:06:48 GMT",
@@ -1818,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果“极端保护”遇挑战：开启锁定模式的 iPhone 18 Pro 被越狱，升级 iOS 27.2 仍保留状态"
     },
     {
-     "title": "6 台智元机器人直播在便利店 24 小时打工，4 台成功“转正”",
-     "link": "https://www.ithome.com/1/022/015.htm",
-     "pubDate": "Wed, 04 Nov 2026 03:51:32 GMT",
-     "summary": "IT之家 11 月 4 日消息，智元 11 月 2 日发起机器人直播在便利店“打工”挑战，6 台精灵 G2 机器人连续 24 小时在岗。 11 月 3 日 10:00，智元“机器人打工不能停”便利店直播挑战结束，在全网超 200 万人的围观下， 最终 4 台机器人成功“转正” 。 在考核期间，机器人共完成任务 1730 次 / 件。其中，接待顾客 683 人，商品取送 369 单，咖啡制作 147 杯，热食出品 126 份，巡检补货 277 次，桌面清理 128 次。 根据官方介绍，6 位精灵 G2 机器人化身便利店“试用期员工”，开启 24 小时不间断转正考核，迎战四大班次考验：午间高峰试岗",
-     "source": "IT之家",
-     "zh": "6 台智元机器人直播在便利店 24 小时打工，4 台成功“转正”"
-    },
-    {
      "title": "“办公室还没租，融资先到账”",
      "link": "https://www.huxiu.com/article/4902866.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 11:51:09 +0800",
@@ -1834,36 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "“办公室还没租，融资先到账”"
     },
     {
-     "title": "字节的AI战略收拢：Coze企业版下架",
-     "link": "https://www.tmtpost.com/8190284.html",
-     "pubDate": "Wed, 04 Nov 2026 11:49:00 +0800",
-     "summary": "字节停服扣子企业版，AI战略全面收拢聚焦粗主干。",
-     "source": "钛媒体",
-     "zh": "字节的AI战略收拢：Coze企业版下架"
-    },
-    {
      "title": "刘文娟如何把“花钱的人”请回星巴克",
      "link": "https://www.huxiu.com/article/4902864.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 11:47:34 +0800",
      "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 俗话说，送人容易请人难。星巴克“消费入座”，已经吵了半个月。本来是一件很合理的商业行为，却不想引发了诸多后续——比如有老年人不满意，认为没有温度。 而对星巴克中国首席执行官刘文娟来说，她的第一要务是让公司赚钱，好好养活数万员工，为股东创造回报，赚钱本身就是为社会贡献价值的过程。但对她来说，如何能把更多“花钱的人”请回星巴克，才是一件更难的事。 一座四线小城看到的星巴克 关于“消费入座”这件事的体感认知，网友李达，向《木禾商业财经》说起一件小事。 去年李达回到湖北荆州，一座四线小城。那时正值大夏天，开在城中心黄金商业地段的星巴克里，空间大，冷气足",
      "source": "虎嗅",
      "zh": "刘文娟如何把“花钱的人”请回星巴克"
-    },
-    {
-     "title": "在线设计与出版工具 Canva 宣布重大团队调整，涉及约 22% 员工",
-     "link": "https://www.ithome.com/1/022/013.htm",
-     "pubDate": "Wed, 04 Nov 2026 03:47:04 GMT",
-     "summary": "IT之家 11 月 4 日消息，在线设计与出版工具 Canva（可画）当地时间今日宣布对其团队进行重大调整。本次调整涉及 1,271 名员工， 占到其员工总数的 22% 。 这一调整包括岗位调动、办公地点变化、裁员。被裁员工将获得至少相当于半年工资的补偿和一系列其它善后福利。 Canva 近来遭遇了十年来的首次增速放缓 。为以积极的面貌迎接企业的下一个十年，Canva 需要进行自我重塑，回归初心，组建规模小而权力大的团队，赋予其决策权、责任感。 Canva 将合并产品、增长、平台部门为单一组织，赋予团队更清晰的责任归属、更大的自主权和灵活性，减少工作流程对时间的占用；减少专业细分，精简层级，整",
-     "source": "IT之家",
-     "zh": "在线设计与出版工具 Canva 宣布重大团队调整，涉及约 22% 员工"
-    },
-    {
-     "title": "从治病到减脂，CGM 究竟在卖什么？",
-     "link": "https://www.tmtpost.com/8192238.html",
-     "pubDate": "Wed, 04 Nov 2026 11:45:00 +0800",
-     "summary": "成为\"赛博格”的第一步。",
-     "source": "钛媒体",
-     "zh": "从治病到减脂，CGM 究竟在卖什么？"
     },
     {
      "title": "抓“抬头率”的大学：管理衙门化、教学高中化",
@@ -1882,26 +1906,10 @@ window.INDUSTRY_DATA = {
      "zh": "卫龙换帅，90后CEO上任"
     },
     {
-     "title": "又亏了20亿，天合光能欲卖子“回血”自救",
-     "link": "https://www.tmtpost.com/8192295.html",
-     "pubDate": "Wed, 04 Nov 2026 11:41:00 +0800",
-     "summary": "短债置换后遗症渐显。",
-     "source": "钛媒体",
-     "zh": "又亏了20亿，天合光能欲卖子“回血”自救"
-    },
-    {
-     "title": "AI时代的云计算，少数派繁荣",
-     "link": "https://www.huxiu.com/article/4902861.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 11:40:05 +0800",
-     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：谢泽锋，原文标题：《AI时代的云计算，少数派繁荣｜巨潮》 “AI时代最大的超级应用，就是以AI算力为核心的AI云平台。” 阿里CEO吴泳铭在2027财年Q1业绩会上抛出这样的观点。他的逻辑是，长期看，企业大部分AI工作负载，包括大规模训练、大规模推理、定制化推理、企业Agent开发运营，都需要全栈式AI云平台支撑。‌‌ 如果说，AI云是一座超级城市，那么训练、推理和Agent就是住在里面的“居民”。云基础设施越完善，越能吸引新客户，同时提升存量客户留存，形成正循环。 过往，云给企业或个人带来的是干活的工具，如今，AI云交付的是“干活的能",
-     "source": "虎嗅",
-     "zh": "AI时代的云计算，少数派繁荣"
-    },
-    {
      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
      "link": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
      "pubDate": "Wed, 04 Nov 2026 03:20:13 +0000",
-     "summary": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 14 # Comments: 0",
      "source": "Hacker News",
      "zh": "Distinct cellular and genetic differences in colorectal cancer in young patients"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Arrows to arrows, categories to queries (2025)",
      "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
      "pubDate": "Wed, 04 Nov 2026 03:11:27 +0000",
-     "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 9 # Comments: 0",
      "source": "Hacker News",
      "zh": "Arrows to arrows, categories to queries (2025)"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Giant canyon on Mars is still tectonically active",
      "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
      "pubDate": "Wed, 04 Nov 2026 01:40:42 +0000",
-     "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 28 # Comments: 0",
+     "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 33 # Comments: 1",
      "source": "Hacker News",
      "zh": "Giant canyon on Mars is still tectonically active"
     },
@@ -1957,17 +1965,9 @@ window.INDUSTRY_DATA = {
      "title": "C++26 Disapproved",
      "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
      "pubDate": "Wed, 04 Nov 2026 00:33:22 +0000",
-     "summary": "Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ Comments URL: https://news.ycombinator.com/item?id=50360164 Points: 79 # Comments: 20",
+     "summary": "Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ Comments URL: https://news.ycombinator.com/item?id=50360164 Points: 99 # Comments: 30",
      "source": "Hacker News",
      "zh": "C++26 Disapproved"
-    },
-    {
-     "title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
-     "link": "https://www.techmeme.com/261103/p42#a261103p42",
-     "pubDate": "Tue, 03 Nov 2026 19:20:01 -0500",
-     "summary": "The Information : How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia &nbsp; &mdash;&nbsp; Last month, OpenAI Senior Research Scientist Noam Brown posted a link in a company Slack channel to ",
-     "source": "Techmeme",
-     "zh": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)"
     },
     {
      "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
@@ -2242,6 +2242,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力",
+     "link": "https://wallstreetcn.com/articles/3785131",
+     "pubDate": "Wed, 04 Nov 2026 12:26:02 +0800",
+     "summary": "11月3日，半导体研究机构SemiAnalysis创始人兼CEO Dylan Patel在Runtime 2026上发表演讲，主题是算力、资本，以及谁能真正把算力交付出去。 他表示，OpenAI和Anthropic正在大量预订算力，以2027年为例，两家拿走的新增算力占比在25%到40%之间。在需求挤压下，英伟达H100数据中心芯片的一年期合约价，已从去年10月低点的每小时1.70美元涨到2.80美元左右。对其他公司来说，买得起算力，不等于拿得到算力。 资金端同样吃紧：近两个月美债收益率大幅上升，10年期收益率10月初已升至5%以上，靠借钱建机房的新兴云厂商越来越难融到资。 这场演讲发生在An",
+     "source": "华尔街见闻",
+     "zh": "SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力"
+    },
+    {
+     "title": "Arista forecasts $18.5B FY 2027 revenue amid 38%-40% growth outlook and $7B AI fabrics target",
+     "link": "https://seekingalpha.com/news/4664443-arista-forecasts-18_5b-fy-2027-revenue-amid-38-percentminus-40-percent-growth-outlook-and-7b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 23:16:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Arista forecasts $18.5B FY 2027 revenue amid 38%-40% growth outlook and $7B AI fabrics target"
+    },
+    {
+     "title": "Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race, ending 16 years of Republican rule",
+     "link": "https://seekingalpha.com/news/4664442-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race-ending-16-years-of-republican-rule?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 23:13:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amy Acton defeats Vivek Ramaswamy in Ohio governor’s race, ending 16 years of Republican rule"
+    },
+    {
+     "title": "Democrat James Talarico wins Texas Senate seat as blue wave sweeps US",
+     "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 04:07:47 GMT",
+     "summary": "High-stakes midterm election doubles as referendum on president’s policies",
+     "source": "Financial Times",
+     "zh": "Democrat James Talarico wins Texas Senate seat as blue wave sweeps US"
+    },
+    {
+     "title": "创业板冲高回落午盘微涨0.1%，科创综指涨超1%，物理AI、半导体集体反弹，恒科指跌1%，生物医药拉升",
+     "link": "https://wallstreetcn.com/articles/3785133",
+     "pubDate": "Wed, 04 Nov 2026 12:05:18 +0800",
+     "summary": "A股早盘震荡盘整，市场情绪整体偏谨慎，亚太市场普遍下跌，韩国首尔综指日内跌幅达4%，盘初曾涨超3%；日经225指数跌4.45%，至5月20日来新低。美国中期选举计票显示民主党占上风。 11月4日，A股震荡分化，沪指早盘冲高之后翻绿，深成指、创业板盘中亦先后转跌，午盘小幅上涨。科创综指和科创50表现较强，得益于物理AI和半导体等科技股拉升。半导体板块反弹，托伦斯、恒玄科技涨幅居前。机器人、物理AI概念拉升，索辰科技、征和工业、福莱新材等涨停。文化传媒、生物科技等活跃。地产、大消费陷入调整。光模块回落，东山精密、剑桥科技跌幅居前。 港股早盘低开低走，恒指、恒科指盘初双双下跌，恒指盘中震荡上涨，午盘",
+     "source": "华尔街见闻",
+     "zh": "创业板冲高回落午盘微涨0.1%，科创综指涨超1%，物理AI、半导体集体反弹，恒科指跌1%，生物医药拉升"
+    },
+    {
      "title": "Democrat Bob Brooks flips Pennsylvania US House seat",
      "link": "https://seekingalpha.com/news/4664438-democrat-bob-brooks-flips-pennsylvania-us-house-seat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 03 Nov 2026 23:01:26 -0500",
@@ -2290,6 +2330,14 @@ window.INDUSTRY_DATA = {
      "zh": "伊朗：4艘试图通过霍尔木兹海峡的油轮触雷起火"
     },
     {
+     "title": "民主党逼近横扫中选，美股期货跳水，美元下跌，美债上涨，日韩股市均跌4%",
+     "link": "https://wallstreetcn.com/articles/3785134",
+     "pubDate": "Wed, 04 Nov 2026 11:56:03 +0800",
+     "summary": "美国2026年中期选举初步计票结果显示民主党势头强劲，市场对\"蓝色浪潮\"横扫国会两院的押注急剧升温。全球市场迅速作出反应，美股期货大幅下挫，美元走低，美债价格上涨，亚洲股市普遍承压。 随着早期选情结果陆续出炉，民主党拿下北卡罗来纳州参议院席位，预测平台Polymarket上民主党横扫国会两院的概率飙升至99%。标普500指数期货跌超1%，抹去此前0.5%的涨幅；纳斯达克100指数期货跌幅扩大超2%。美元指数日内跌幅超过0.5%，10年期美国国债收益率下行约7个基点至4.89%。 亚太股市承压，日韩股市均跌4%，韩国首尔综指日内跌幅达4%，盘初曾涨超3%，三星电子跌3%，SK海力士跌5%。日经2",
+     "source": "华尔街见闻",
+     "zh": "民主党逼近横扫中选，美股期货跳水，美元下跌，美债上涨，日韩股市均跌4%"
+    },
+    {
      "title": "马斯克重磅！太空算力高增潜力股曝光(附股)",
      "link": "http://finance.eastmoney.com/news/11139,202611043921483461.html",
      "pubDate": "Wed, 04 Nov 2026 11:55:14 +0800",
@@ -2320,30 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "创新药 概念11月4日早盘表现强势，板块中 金陵药业 、 桂林三金 涨停； 信诺维 、 凯莱英 、 百济神州 、 药明康德 、 皓元医药 等跟涨。 产业链持续高景气 在市场人士看来， 创新药 板块的强势，与我国当前 创新药 产业链，尤其创新药BD交易的持续火爆相关。 据国家药监局数据，2026年上半年我国创新药对外授权交易共81笔、总额约1100亿美元，已达2025年全年的八成、 创 历史新高 。 据医药魔方统计，前三季度创新药BD交易总额达1279.8亿美元、相当于去年全年的94.3%。 此外，今年以来，国内已有超30款肿瘤创新药获批，靶向药持续补齐KRAS G12C、EGFR 20ins、",
      "source": "东方财富股票",
      "zh": "产业高景气+机构加仓！创新药表现强势 融资客最新抢筹这些股"
-    },
-    {
-     "title": "Amgen projects 2026 revenue of $38.9B-$39.7B while raising non-GAAP EPS to $22.90-$23.70",
-     "link": "https://seekingalpha.com/news/4664437-amgen-projects-2026-revenue-of-38_9b-39_7b-while-raising-non-gaap-eps-to-22_90-23_70?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 22:46:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Amgen projects 2026 revenue of $38.9B-$39.7B while raising non-GAAP EPS to $22.90-$23.70"
-    },
-    {
-     "title": "Ardelyx reaffirms 2026 IBSRELA $350M-$370M guidance while targeting profitability in 2027",
-     "link": "https://seekingalpha.com/news/4664436-ardelyx-reaffirms-2026-ibsrela-350m-370m-guidance-while-targeting-profitability-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 22:46:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ardelyx reaffirms 2026 IBSRELA $350M-$370M guidance while targeting profitability in 2027"
-    },
-    {
-     "title": "Democrats score early victories over Trump’s Republicans in battle for Congress",
-     "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 03:45:55 GMT",
-     "summary": "High-stakes midterm election doubles as referendum on president’s policies",
-     "source": "Financial Times",
-     "zh": "Democrats score early victories over Trump’s Republicans in battle for Congress"
     },
     {
      "title": "我国首批33个和美海岛建设取得阶段性成效",
@@ -2434,22 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "光迅科技澄清市场传闻：称公司生产经营正常"
     },
     {
-     "title": "民主党中选强势领跑，美股期货跳水，美元下跌，美债上涨，亚洲股市承压",
-     "link": "https://wallstreetcn.com/articles/3785134",
-     "pubDate": "Wed, 04 Nov 2026 10:13:50 +0800",
-     "summary": "美国2026年中期选举初步计票结果显示民主党势头强劲，市场对\"蓝色浪潮\"横扫国会两院的押注急剧升温。全球市场迅速作出反应，美股期货大幅下挫，美元走低，美债价格上涨，亚洲股市普遍承压。 随着早期选情结果陆续出炉，民主党拿下北卡罗来纳州参议院席位，预测平台Polymarket上民主党横扫国会两院的概率飙升至99%。标普500指数期货一度翻绿跌1%，抹去此前0.5%的涨幅；纳斯达克100指数期货跌幅扩大至2%。美元指数日内跌幅超过0.5%，10年期美国国债收益率下行约7个基点至4.89%。 据CCTV国际时讯，美国媒体报道，当地时间11月3日，北卡罗来纳州民主党籍前州长Roy Cooper在联邦参议",
-     "source": "华尔街见闻",
-     "zh": "民主党中选强势领跑，美股期货跳水，美元下跌，美债上涨，亚洲股市承压"
-    },
-    {
-     "title": "A股双创指数早盘震荡上涨，半导体反弹，医药股拉升，恒科指跌超1%，权重科网股陷入调整",
-     "link": "https://wallstreetcn.com/articles/3785133",
-     "pubDate": "Wed, 04 Nov 2026 10:05:59 +0800",
-     "summary": "11月4日，A股震荡分化，沪指早盘冲高之后翻绿，深成指、创业板小幅走高，半导体板块拉升，半导体设备、先进封装等概念股上涨，短剧游戏、文化传媒、生物科技、贵金属等板块活跃。电信、房地产、券商、白酒等板块调整。 港股低开低走，恒指、恒科指盘初双双下跌，恒科指跌超1%，权重科网股多数回落。芯片、光模块等科技股有所反弹，生物科技板块拉升，恒生生物科技指数涨超1%。债市方面，国债期货普遍上涨。商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至发稿，沪指涨0.05%，深成指涨0.70%，创业板指涨0.90%。 港股 ：截至发稿，恒指跌0.17%，恒科指跌0.78%。 债市 ：国债期货全线走高，截",
-     "source": "华尔街见闻",
-     "zh": "A股双创指数早盘震荡上涨，半导体反弹，医药股拉升，恒科指跌超1%，权重科网股陷入调整"
-    },
-    {
      "title": "市场监管总局出台《市场监督管理行政处罚裁量规定》",
      "link": "http://www.eeo.com.cn/2026/1104/1083475.shtml",
      "pubDate": "Wed, 04 Nov 2026 10:04:22 +0800",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "中国服务业扩张延续但放缓，价格压力与竞争挤压利润空间 中国服务业活动在四季度开局继续扩张，增速有所放缓，企业在需求稳健的同时面临成本上升等压力。 11月4日，RatingDog与标普全球联合编制的最新PMI调查数据显示，10月RatingDog中国通用服务业商务活动指数录得50.8，低于9月的51.6，为近三个月最低水平，但仍连续位于荣枯线上方。 RatingDog创始人Yao Yu表示，新业务流入持续稳健增长，就业连续第六个月扩张，但运营约束拖累了整体增速，价格折扣与成本攀升共同压缩了企业盈利空间。 综合制造业与服务业的合成产出指数10月录得52.0，低于9月的52.4，为 三个月新低 。制",
      "source": "华尔街见闻",
      "zh": "中国10月RatingDog服务业PMI为50.8，就业连续第六个月扩张，积压订单一年来首次减少"
-    },
-    {
-     "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-     "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 01:16:00 GMT",
-     "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
-     "source": "MarketWatch",
-     "zh": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade"
     }
    ]
   },

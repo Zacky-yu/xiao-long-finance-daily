@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 16:12:42",
+ "generated_at": "2026/11/4 16:31:55",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Haitian Water plans $118 million solar silver paste facility in China",
+     "link": "https://www.pv-magazine.com/2026/11/04/haitian-water-plans-118-million-solar-silver-paste-facility-in-china/",
+     "pubDate": "Wed, 04 Nov 2026 08:21:03 +0000",
+     "summary": "Chinese environmental services and photovoltaic materials company Haitian Water Group plans to invest CNY 800 million ($118 million) in a solar conductive silver paste research and manufacturing facility in Sichuan province, following its acquisition of Heraeus' photovoltaic paste business. The post",
+     "source": "pv magazine",
+     "zh": "Haitian Water plans $118 million solar silver paste facility in China"
+    },
+    {
      "title": "Aermec presents high-temperature water-to-water heat pumps with up to 889 kW heating capacity",
      "link": "https://www.pv-magazine.com/2026/11/04/aermec-presents-high-temperature-water-to-water-heat-pumps-with-up-to-889-kw-heating-capacity/",
      "pubDate": "Wed, 04 Nov 2026 07:52:01 +0000",
@@ -888,14 +896,6 @@ window.INDUSTRY_DATA = {
      "summary": "The regional grid operator reports 20.23 GW/70.47 GWh of storage, with emergency dispatch at times covering one-third of electricity demand. The post China’s Mengxi grid tops 20 GW of storage as renewables approach 60% of capacity appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "China’s Mengxi grid tops 20 GW of storage as renewables approach 60% of capacity"
-    },
-    {
-     "title": "Australia’s best-performing PV assets at a glance",
-     "link": "https://www.pv-magazine.com/2026/11/04/merredin-plant-tops-rystads-utility-pv-performance-table/",
-     "pubDate": "Wed, 04 Nov 2026 06:45:58 +0000",
-     "summary": "The 100 MW Merredin Solar Farm in Western Australia’s central Wheatbelt region has been identified by energy consultancy Rystad Energy as the best performing large-scale PV asset in Australia last month. The post Australia’s best-performing PV assets at a glance appeared first on pv magazine Global ",
-     "source": "pv magazine",
-     "zh": "Australia’s best-performing PV assets at a glance"
     },
     {
      "title": "Oil Prices Rebound as Middle East Supply Fears Return",
@@ -1746,28 +1746,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "微软 Rewards 奖励计划上新：国区 7,500 积分可兑 30 天B站大会员",
-     "link": "https://www.ithome.com/1/022/233.htm",
-     "pubDate": "Wed, 04 Nov 2026 08:05:56 GMT",
-     "summary": "IT之家 11 月 4 日消息，微软 Microsoft Rewards 奖励计划现已上新，国区用户可以使用 7,500 积分兑换 B 站 30 天大会员，相应兑换码先到先得， 有效期至 11 月 20 日 ，IT之家附参与地址（ https://rewards.bing.com/ redeem/sku/000499036904 ）。 IT之家注意到，目前国区用户还可以使用 Rewards 积分兑换滴滴 80 元券包、雷神加速器加速卡、《我的世界》钻石、《守望先锋》金币数字码等奖励。",
+     "title": "鸿蒙智行官宣星夜服务升级，预约维保支持 20 公里内免费上门取送车",
+     "link": "https://www.ithome.com/1/022/253.htm",
+     "pubDate": "Wed, 04 Nov 2026 08:28:42 GMT",
+     "summary": "IT之家 11 月 4 日消息，鸿蒙智行官方今日宣布，其星夜服务升级 —— 预约星夜服务维保，可享 20 公里内免费上门取送车服务 。 据介绍，支持星夜服务的鸿蒙智行授权用户中心售后业务延迟营业至夜晚（具体营业时间请咨询当地用户中心工作人员），支持基础维保、事故车 24 小时接车等服务。目前，鸿蒙智行星夜服务共开放 467 家用户中心，覆盖 31 个省区。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长 余承东去年 7 月曾分享自己在内蒙鸿蒙智行用户中心的体验 —— 除了车辆检查外，还可以吃夜宵。当时，支持该系列服务的门店也被车主网友们称作“鸿蒙大饭店”。 去年 12 月，鸿蒙智行被",
      "source": "IT之家",
-     "zh": "微软 Rewards 奖励计划上新：国区 7,500 积分可兑 30 天B站大会员"
+     "zh": "鸿蒙智行官宣星夜服务升级，预约维保支持 20 公里内免费上门取送车"
     },
     {
-     "title": "Anthropic 正开发 FlashProve 开源系统：用密码学证明 AI 输出来自哪个模型",
-     "link": "https://www.ithome.com/1/022/231.htm",
-     "pubDate": "Wed, 04 Nov 2026 08:04:16 GMT",
-     "summary": "IT之家 11 月 4 日消息，Anthropic 正在开发一套开源系统，用于验证某一 AI 输出究竟由哪个模型生成。根据该公司周二发布的一篇博客文章，这套名为 FlashProve 的系统旨在实现研究人员所称的“可证明推理”（provable inference）：通过密码学证明，为特定输出提供数学层面的保证，证明其确实来自某个指定模型。借助这套系统，用户可以确认自己收到的答案是否真的由其认为正在使用的模型生成。 据IT之家了解，FlashProve 的工作原理类似于加密电子邮件签名。后者能够帮助收件人确认邮件是否确实来自其声称的发件人，而 FlashProve 则能够抵御试图将一个模型伪装",
-     "source": "IT之家",
-     "zh": "Anthropic 正开发 FlashProve 开源系统：用密码学证明 AI 输出来自哪个模型"
+     "title": "最后几块宁德时代电池",
+     "link": "https://www.huxiu.com/article/4902928.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 16:27:10 +0800",
+     "summary": "本文来自微信公众号： 云见 Insight ，作者：云见Insight 这场较量，还得往后看。 理想给新款MEGA定了一个截止时间：9月7日下午3点。3点前锁单，用宁德时代的电池；3点后，用理想自研、欣旺达代工的“连山”电池。 有车主卡着点付了款。一个多月后，理想销售打来电话：宁德时代的电池没有了。继续提车，只能换成“连山”，送3500元权益；不想要，可以退5000元定金，理想再赔5000元。 这是理想全面切换自研电池途中的一次错位。品牌在向用户证明自研电池同样可靠，一线销售却拿最后一批宁德时代的电池催单；电池是有数的，3点前会收到多少订单，内部却没算准；最后订单超了，供应链没接住。 电池不是",
+     "source": "虎嗅",
+     "zh": "最后几块宁德时代电池"
     },
     {
-     "title": "鸿蒙智行智界汽车：今年 9 月，是 R7 上市两年来的第二次完整改款",
-     "link": "https://www.ithome.com/1/022/230.htm",
-     "pubDate": "Wed, 04 Nov 2026 08:02:47 GMT",
-     "summary": "IT之家 11 月 4 日消息，鸿蒙智行智界汽车官方今日发布了智界 R7 答网友问（第一期），针对智界 R7 此次改款的升级情况作出了说明。 智界汽车官方表示， 今年 9 月，是智界 R7 上市两年来的第二次完整改款 。2025 年 8 月进行了车标、外观、辅助驾驶硬件的焕新； 2026 年 3 月是进行配置补强 ，新增 896 线双光路图像级激光雷达。 智界 R7 是鸿蒙智行首款轿跑 SUV ，由华为与奇瑞联手打造，该车沿用 OneBox 造型设计理念， 一大亮点就是在 2024 年拥有轿跑 SUV 中最大的内部空间 。 据IT之家此前报道，今年 10 月 27 日，鸿蒙智行智界 R7 焕新",
+     "title": "德国初创企业实现在轨 3D 打印刚性梁，验证太空建造能力",
+     "link": "https://www.ithome.com/1/022/252.htm",
+     "pubDate": "Wed, 04 Nov 2026 08:24:54 GMT",
+     "summary": "IT之家 11 月 4 日消息，德国初创公司 Orbital Matter 研发的一颗卫星，近日在轨道上利用 3D 打印技术制造出一根长约半米的横梁。公司高管称，这是自由飞行航天器首次在轨完成此类打印，也是未来在太空建造大型结构迈出的重要一步。 据IT之家了解，这颗名为 Replicator 2 的小型卫星于今年夏季搭乘 SpaceX 的拼车发射任务进入太空，机上搭载了 Orbital Matter 的 4 台 3D 打印机。每台打印机都能够通过挤出树脂线圈制造坚固的圆柱形横梁，随后利用紫外线照射使树脂固化。该公司将这一过程比作水泥与水混合后凝固成型。 这项技术之所以重要，是因为未来的航天器需",
      "source": "IT之家",
-     "zh": "鸿蒙智行智界汽车：今年 9 月，是 R7 上市两年来的第二次完整改款"
+     "zh": "德国初创企业实现在轨 3D 打印刚性梁，验证太空建造能力"
+    },
+    {
+     "title": "彭博行业研究 10 月调查：近七成中国受访者 2026 年不会更换智能手机",
+     "link": "https://www.ithome.com/1/022/250.htm",
+     "pubDate": "Wed, 04 Nov 2026 08:24:12 GMT",
+     "summary": "IT之家 11 月 4 日消息，根据彭博社援引的彭博行业研究数据，在今年 10 月进行的一份调查中， 约 69% 的中国受访者表示不会在 2026 年内更换手机 ，这一比例是今年 5 月数据的 2 倍。越来越多的消费者计划将换机周期延长到 2~3 年。 在统计的 11 项换机原因中， 电池续航、拍摄性能、内存规格仍是中国消费者最为看重的属性 ；87% 的受访者认为 16GB 或更多的内存是日常使用的理想选择；人工智能以 8% 则排在所有选项的末位，甚至低于一年前的 12%。 与此同时，仅有 5.8% 的受访中国人正在使用或计划购买可折叠手机。",
+     "source": "IT之家",
+     "zh": "彭博行业研究 10 月调查：近七成中国受访者 2026 年不会更换智能手机"
+    },
+    {
+     "title": "微软 XGP 订阅 11 月第一波入库阵容公布：含《足球经理 27》等游戏",
+     "link": "https://www.ithome.com/1/022/248.htm",
+     "pubDate": "Wed, 04 Nov 2026 08:23:50 GMT",
+     "summary": "IT之家 11 月 4 日消息，微软今日公布 XBOX Game Pass 订阅服务 11 月第 1 波入库游戏阵容。 本月的领衔作品有《足球经理 27》等 。 游戏名 入库时间 覆盖层级 支持平台 《足球经理 27》（首发） 现已上线 Ultimate 和 PC PC 《吸血鬼爬行者》 11 月 4 日 Premium 云游戏、Xbox Series X|S、掌机、PC 《Void/Breaker》 11 月 4 日 Ultimate、Premium 和 PC 云游戏、Xbox Series X|S、PC 《逃脱学院 2：再返校园》（首发） 11 月 5 日 Ultimate 和 PC 云游",
+     "source": "IT之家",
+     "zh": "微软 XGP 订阅 11 月第一波入库阵容公布：含《足球经理 27》等游戏"
+    },
+    {
+     "title": "日本养老院，开始找老人照顾老人",
+     "link": "https://www.huxiu.com/article/4902926.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 16:22:26 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 在日本岐阜县各务原市，一位82岁的女性每个工作日早晨5点半起床，给自己做好便当，然后去一家养老院上班。 她的活儿是打扫、配餐、整理床铺，以及陪住户聊天。住户里有不少人比她年长，她向他们请教腌梅干的方法。她说，有人在等着自己上班，这是她还在工作的理由。 这家养老院属于当地的社会福利法人Phoenix。 根据日本高龄者雇佣支援机构公布的案例，截至2025年2月，Phoenix共有208名员工，其中23.1%已经超过65岁。机构允许员工继续工作到70岁，符合条件者还可以进一步延长工作年限。 机构的一位管理人员说过一个设想：一名员工在这里",
+     "source": "虎嗅",
+     "zh": "日本养老院，开始找老人照顾老人"
+    },
+    {
+     "title": "乘联分会：初步统计 10 月全国乘用车市场零售 169.3 万辆，同比下降 25%",
+     "link": "https://www.ithome.com/1/022/247.htm",
+     "pubDate": "Wed, 04 Nov 2026 08:19:14 GMT",
+     "summary": "IT之家 11 月 4 日消息，据乘联分会初步统计，10 月 1-31 日，全国乘用车市场零售 169.3 万辆，同比下降 25%，环比增长 5%。 今年以来累计零售 1,502.7 万辆，同比下降 22%；10 月 1-31 日，全国乘用车厂商批发 263.5 万辆，同比去年 10 月同期下降 10%，较上月同期增长 3%，今年以来累计批发 2,237.2 万辆，同比下降 6%。 新能源车方面，10 月 1-31 日，全国乘用车市场新能源车零售 114.8 万辆，同比下降 10%，环比增长 6%，今年以来累计零售 890.7 万辆，同比下降 12%。 10 月 1-31 日，全国乘用车厂商新",
+     "source": "IT之家",
+     "zh": "乘联分会：初步统计 10 月全国乘用车市场零售 169.3 万辆，同比下降 25%"
+    },
+    {
+     "title": "小米智能屏显开关 2 开启众筹：自带彩屏、单零火兼容设计，159 元起",
+     "link": "https://www.ithome.com/1/022/246.htm",
+     "pubDate": "Wed, 04 Nov 2026 08:18:17 GMT",
+     "summary": "IT之家 11 月 4 日消息，小米旗下小米智能屏显开关 2 现已在有品（ 点此访问 ）开启众筹，该产品主打“一屏焕彩四键控，单火零火皆可用”，搭载 Xiaomi HyperOS Connect，旨在通过创新供电技术，让更多家庭无需改线即可享受智能彩屏交互体验，众筹价 159 元起。 IT之家注意到，针对传统彩屏开关对零线供电的依赖，小米智能屏显开关 2 采用创新供电技术，实现单火、零火皆可使用。在单火接线模式下，开关可通过内置储能模块实现彩屏显示，但需满足“每日开灯时间大于 10 分钟”的亮屏条件，且不支持亮屏常显（零火接线则无此限制）。这一设计极大降低了老旧房屋升级智能彩屏开关的门槛。此外",
+     "source": "IT之家",
+     "zh": "小米智能屏显开关 2 开启众筹：自带彩屏、单零火兼容设计，159 元起"
+    },
+    {
+     "title": "China’s Internet Giants Are Rewiring Themselves Around AI Workbenches",
+     "link": "https://www.tmtpost.com/8193321.html",
+     "pubDate": "Wed, 04 Nov 2026 16:15:04 +0800",
+     "summary": "Tencent, Alibaba, and ByteDance are folding rival internal AI bets into shared desks and reporting lines. The shift follows years of parallel “horse races.” Models still matter; so does who owns the single place where documents, meetings, and agents meet.",
+     "source": "钛媒体",
+     "zh": "China’s Internet Giants Are Rewiring Themselves Around AI Workbenches"
     },
     {
      "title": "中选落幕，民主党大胜，金融市场应声反弹",
@@ -1786,28 +1834,12 @@ window.INDUSTRY_DATA = {
      "zh": "伟哥抗癌是怎么回事，人类离吃壮阳药抗癌还有多远？"
     },
     {
-     "title": "谷歌为 Google 通讯录 / 信息 / 电话推送新版图标，覆盖安卓系统应用及网页服务",
-     "link": "https://www.ithome.com/1/022/229.htm",
-     "pubDate": "Wed, 04 Nov 2026 07:59:04 GMT",
-     "summary": "IT之家 11 月 4 日消息，谷歌在其博客发文，透露正陆续向 Android 设备推送新版 Google 通讯录、Google 信息和 Google 电话应用图标。 据谷歌介绍，此次视觉调整主要是为了让应用图标在手机主屏幕上更加醒目、清晰。开发团队重新调整了图标边缘的弧度，使整体造型更加圆润，同时将原本较为单一的纯色背景改为色彩更加丰富的渐变效果，让图标看起来更具层次感和动感。 需要注意的是，此次更新仅涉及视觉设计，Google 通讯录、Google 信息和 Google 电话应用内部的功能、菜单及操作方式均未发生变化。谷歌称希望通过统一的视觉设计，让这几款核心通信应用与其他现代化软件及系统",
-     "source": "IT之家",
-     "zh": "谷歌为 Google 通讯录 / 信息 / 电话推送新版图标，覆盖安卓系统应用及网页服务"
-    },
-    {
      "title": "夏令时之争，早已不再关乎能源",
      "link": "https://www.huxiu.com/article/4902920.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 15:56:46 +0800",
      "summary": "本文来自微信公众号： CITY来不 ，作者：CITYLAB 1784年，本杰明·富兰克林（Benjamin Franklin）身在巴黎。据他后来发表在当地报纸上的一封讽刺性书信所述，一天清晨，他被一阵巨大的声响吵醒。令他惊讶的是，太阳竟然已经升起了。他由此开始思考：人们有多少白昼时光是在睡眠中度过的，却又不得不在晚上熬夜工作。富兰克林感叹道：“仅仅通过利用阳光而非蜡烛照明，巴黎每年就能节省一笔巨款！” 242年后，美国人又将迎来一年两次的时钟调整。富兰克林当年的想法至今仍在延续：春季将时钟拨快一小时，让日常作息更贴合太阳运行的节奏，秋季再将时钟拨回去，以此节省能源。事实上，夏令时政策已通过20",
      "source": "虎嗅",
      "zh": "夏令时之争，早已不再关乎能源"
-    },
-    {
-     "title": "美开发商拟将高尔夫球场改造为数据中心，以应对社区反对",
-     "link": "https://www.ithome.com/1/022/216.htm",
-     "pubDate": "Wed, 04 Nov 2026 07:55:48 GMT",
-     "summary": "IT之家 11 月 4 日消息，据彭博社报道，为了应对数据中心引发的反对浪潮，美国加利福尼亚州的开发商提出了一种环保替代方案：将高尔夫球场及其巨大的用水需求，改造成耗水量更低的计算机服务器设施。 在南加州圣盖博谷地区的工业市（City of Industry），18 洞加利福尼亚乡村俱乐部（California Country Club）的所有者已提交项目计划，拟在这片占地 124 英亩（约 50 公顷）的土地上建设一座装机容量为 99 兆瓦的数据中心。该项目名为“洛杉矶休闲与科技园”（Los Angeles Recreation and Technology Park，简称 LARTP），还",
-     "source": "IT之家",
-     "zh": "美开发商拟将高尔夫球场改造为数据中心，以应对社区反对"
     },
     {
      "title": "泸州老窖：Q3营收环比增超71%，出清斜率拐点初现 | 看财报",
@@ -1818,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "泸州老窖：Q3营收环比增超71%，出清斜率拐点初现 | 看财报"
     },
     {
-     "title": "消息称三井化学计划以超 1.3 万亿日元收购光刻胶大厂 JSR",
-     "link": "https://www.ithome.com/1/022/212.htm",
-     "pubDate": "Wed, 04 Nov 2026 07:54:11 GMT",
-     "summary": "IT之家 11 月 4 日消息，《日经新闻》当地时间今日报道称， 三井化学 (Mitsui Chemicals) 计划以超过 1.3 万亿日元 （IT之家注：现汇率约合 548.16 亿元人民币） 的价格收购全球第二大光刻胶制造商 JSR 。 报道指出，这笔交易有望超过昭和电工在 2020 年对日立化成的收购（两家企业后续合并为 Resonac），创下日本化学工业行业的交易规模纪录。 日本政府系基金产业革新投资机构 (JIC) 于 2024 年以约 1 万亿日元的价格实现了 JSR 的私有化退市，此后剥离了 JSR 的亏损业务，使其专注于核心的半导体材料领域。 三井化学表示，收购 JSR 是该",
-     "source": "IT之家",
-     "zh": "消息称三井化学计划以超 1.3 万亿日元收购光刻胶大厂 JSR"
-    },
-    {
      "title": "曾毓群，重仓梁文锋",
      "link": "https://www.huxiu.com/article/4902916.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 15:53:29 +0800",
@@ -1834,20 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "曾毓群，重仓梁文锋"
     },
     {
-     "title": "2026年的创投圈，正在集体反常识",
-     "link": "https://www.huxiu.com/article/4902915.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 15:53:08 +0800",
-     "summary": "本文来自微信公众号： IT桔子 ，作者：Judy 在「具身智能+AI」几乎约定于「中国创业投资」的2026年里，市场有太多反常识的事儿发生了。 神奇的是，聪明、精明的大脑们不但不管是不是反常识，反而在一线深度参与「反常识」游戏。 在新的时代里，好像一些创业、商业常识已经可以无所谓了。 今天就捋一捋这些不对劲儿的事吧…… 先从人说起。因为所有的故事最后都是人做出来的，也是人扛下来的。 一、大厂高P和清北博士，正在被定一个虚高的价 现在融资市场上有个很明显的现象：创始团队的履历，本身就是估值的一部分。 某大厂P9/P10之类出来创业，投资人第一句话是「你带了几个兄弟出来」。 带出来的人越多、职级越",
-     "source": "虎嗅",
-     "zh": "2026年的创投圈，正在集体反常识"
-    },
-    {
-     "title": "“字节时间”对战再升级，李亮真的在下一盘“大棋”吗？",
-     "link": "https://www.huxiu.com/article/4902913.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 15:35:33 +0800",
-     "summary": "本文来自微信公众号： 文科生看AI 时代 ，作者：小兔子斯嘉丽 这几天，李亮和秦朔的争论越闹越大，网上开始出现一种声音：你们真以为李亮不懂公关？人家可是字节的公关一号位，什么场面没见过，怎么可能犯这么低级的错误？他这么做，一定是在下一盘大棋。 我还真认真想了想这种可能。 尤其是11月4日，李亮又发了一篇长微博。这一次，他终于把自己的担忧说得很清楚：秦朔提出的字节时间，可能帮助腾讯摆脱过去的垄断叙事，同时把字节推向一个可能被视为垄断者的位置。他甚至认为，如果这个定义成为共识，秦朔会成为腾讯历史上最大的恩人。 看到这里，我倒觉得李亮的反应可以理解了。秦朔说字节时间来了，乍一听是在夸字节，李亮却像听",
-     "source": "虎嗅",
-     "zh": "“字节时间”对战再升级，李亮真的在下一盘“大棋”吗？"
+     "title": "The lost malloc()",
+     "link": "https://napcakes.nekoweb.org/posts/malloc/",
+     "pubDate": "Wed, 04 Nov 2026 07:37:30 +0000",
+     "summary": "Article URL: https://napcakes.nekoweb.org/posts/malloc/ Comments URL: https://news.ycombinator.com/item?id=50362466 Points: 4 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "The lost malloc()"
     },
     {
      "title": "Bethesda 宣布《上古卷轴VI：哨兵》",
@@ -1864,6 +1880,14 @@ window.INDUSTRY_DATA = {
      "summary": "Martha Muir / Financial Times : Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster &nbsp; &mdash;&nbsp; Why America is struggling to power the AI boom.&nbsp; The US is building electricity lines at a qu",
      "source": "Techmeme",
      "zh": "Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)"
+    },
+    {
+     "title": "Democrats Rout GOP",
+     "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump",
+     "pubDate": "Wed, 04 Nov 2026 07:27:15 +0000",
+     "summary": "Article URL: https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump Comments URL: https://news.ycombinator.com/item?id=50362418 Points: 25 # Comments: 7",
+     "source": "Hacker News",
+     "zh": "Democrats Rout GOP"
     },
     {
      "title": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
@@ -1960,30 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
      "source": "WIRED",
      "zh": "Columbia Promo Codes: 15% Off | November 2026"
-    },
-    {
-     "title": "Alo Discount Code: 20% Off November 2026",
-     "link": "https://www.wired.com/story/alo-yoga-discount-code/",
-     "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-     "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
-     "source": "WIRED",
-     "zh": "Alo Discount Code: 20% Off November 2026"
-    },
-    {
-     "title": "猫贷中的“贷”与“猫”",
-     "link": "https://www.tmtpost.com/8192970.html",
-     "pubDate": "Wed, 04 Nov 2026 13:38:00 +0800",
-     "summary": "以萌为名的阳谋。",
-     "source": "钛媒体",
-     "zh": "猫贷中的“贷”与“猫”"
-    },
-    {
-     "title": "六大科创龙头密集发声，谁在狂赚，谁在抢占下一轮风口",
-     "link": "https://www.tmtpost.com/8193040.html",
-     "pubDate": "Wed, 04 Nov 2026 13:33:00 +0800",
-     "summary": "三季报业绩分化，AI算力与半导体增长强劲。",
-     "source": "钛媒体",
-     "zh": "六大科创龙头密集发声，谁在狂赚，谁在抢占下一轮风口"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Galaxy S27 Pro might have a chip problem, and it’s not Exynos",
+     "link": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-chipset-leak-3731457/",
+     "pubDate": "Wed, 04 Nov 2026 08:12:17 +0000",
+     "summary": "The Galaxy S27 Pro may dodge getting an Exynos 2700, but it may not get a Snapdragon 8 Elite Extreme Gen 6 either.",
+     "source": "Android Authority",
+     "zh": "The Galaxy S27 Pro might have a chip problem, and it’s not Exynos"
+    },
     {
      "title": "Apple Watch Series 12 and Ultra 4's controversial AI features are going live",
      "link": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336.php",
@@ -2080,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "The pinned chats glow-up is now in beta.",
      "source": "Android Authority",
      "zh": "Google Messages’ pinned chats UI makeover is finally landing for users"
-    },
-    {
-     "title": "Exclusive: YouTube is cooking up something new called ‘Tamba,’ and it looks pretty social",
-     "link": "https://www.androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409/",
-     "pubDate": "Wed, 04 Nov 2026 03:37:06 +0000",
-     "summary": "Code in the latest YouTube app points to 'Tamba,' a mysterious social experience with followers, DMs, group chats, and more.",
-     "source": "Android Authority",
-     "zh": "Exclusive: YouTube is cooking up something new called ‘Tamba,’ and it looks pretty social"
     },
     {
      "title": "Redmi Turbo 6 Max screen details leak, this could turn into the Poco X9 Pro Max",
@@ -2242,12 +2242,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "中金AI十年展望：Personal Agent——消费级AI的破晓时分",
+     "link": "https://wallstreetcn.com/articles/3785156",
+     "pubDate": "Wed, 04 Nov 2026 16:22:37 +0800",
+     "summary": "摘要 Personal Agent有望降低通用Agent的使用门槛，释放普通消费者的潜在自动化需求。 我们认为Personal Agent核心能力包括长期记忆、主动服务、安全可控和可靠交付。随着主动需求发现、长期任务管理能力不断完善，消费者能够将更多事务交由Agent处理，推动AI使用人群、人均任务量及后台计算需求持续增长。 我们测算得到：在基准情形下，人均消耗约3.6亿Token/月，硬件成本约23美元/月。 我们将Personal Agent带来的硬件需求分为云端沙箱需求（CPU、DRAM）、推理需求（GPU）和长期记忆需求（SSD）。我们认为，目前部分套餐订阅费或难以覆盖硬件成本，更大的",
+     "source": "华尔街见闻",
+     "zh": "中金AI十年展望：Personal Agent——消费级AI的破晓时分"
+    },
+    {
+     "title": "Democrat Abdul El-Sayed wins Michigan Senate race",
+     "link": "https://seekingalpha.com/news/4664491-democrat-abdul-el-sayed-wins-michigan-senate-race?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 03:22:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Democrat Abdul El-Sayed wins Michigan Senate race"
+    },
+    {
+     "title": "Live coverage: Trump admits Iran war a factor as Republicans routed",
+     "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 08:21:46 GMT",
+     "summary": "President’s party defeated in battleground races from Kansas to South Carolina",
+     "source": "Financial Times",
+     "zh": "Live coverage: Trump admits Iran war a factor as Republicans routed"
+    },
+    {
+     "title": "TORM GAAP EPS of $1.91, revenue of $499M beats by $143.39M; raises FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4664492-torm-gaap-eps-of-191-revenue-of-499m-beats-by-14339m-raises-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 03:17:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TORM GAAP EPS of $1.91, revenue of $499M beats by $143.39M; raises FY2026 outlook"
+    },
+    {
+     "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，半导体20CM涨停潮刷屏，恒指、恒科指齐涨超1%",
+     "link": "https://wallstreetcn.com/articles/3785133",
+     "pubDate": "Wed, 04 Nov 2026 16:16:27 +0800",
+     "summary": "A股双创午后爆发，科创50指数一度狂飙超10%，半导体全产业链掀起总攻，分析认为，这轮爆发的驱动是四条硬信息在同一时间窗口叠加：三季报业绩集中兑现（14家设备公司前三季净利合计176.6亿元、同比增长59.5%）、SEMI给出设备销售额连续五年增长的景气锚、利基型DRAM供给紧张延续、以及美国中期选举结果午间落地消解了压制市场两周的政策不确定性。 11月4日，A股午后直线拉升，三大股指集体大涨，沪指涨2%，创业板暴涨超6%。科创综指和科创50均飙涨超9%。半导体全产业链狂飙，20cm涨停潮刷屏。算力硬件、存储芯片集体拉升，中际旭创306亿成交，为两市成交额之最，存储芯片龙头长鑫科技大涨13.6",
+     "source": "华尔街见闻",
+     "zh": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，半导体20CM涨停潮刷屏，恒指、恒科指齐涨超1%"
+    },
+    {
+     "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+     "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+     "pubDate": "Wed, 04 Nov 2026 08:10:53 GMT",
+     "summary": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
+     "source": "CNBC",
+     "zh": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy"
+    },
+    {
+     "title": "AI stocks tied to Texas data center boom slide after Hinojosa win",
+     "link": "https://seekingalpha.com/news/4664474-ai-stocks-tied-to-texas-data-center-boom-slide-after-hinojosa-win?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 03:09:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AI stocks tied to Texas data center boom slide after Hinojosa win"
+    },
+    {
      "title": "Bayerische Motoren Werke Aktiengesellschaft GAAP EPS of €2.46, revenue of €30.45B",
      "link": "https://seekingalpha.com/news/4664488-bayerische-motoren-werke-aktiengesellschaft-gaap-eps-of-246-revenue-of-3045b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 03:05:49 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Bayerische Motoren Werke Aktiengesellschaft GAAP EPS of €2.46, revenue of €30.45B"
+    },
+    {
+     "title": "Stocks edge lower as investors digest Democratic sweep",
+     "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 08:02:39 GMT",
+     "summary": "Traders bet Democrats could slow AI infrastructure build-out central to economic growth",
+     "source": "Financial Times",
+     "zh": "Stocks edge lower as investors digest Democratic sweep"
     },
     {
      "title": "快手孵化的凌川科技完成10亿元B轮融资，下一代芯片瞄准AI视频生成",
@@ -2258,12 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "快手孵化的凌川科技完成10亿元B轮融资，下一代芯片瞄准AI视频生成"
     },
     {
-     "title": "Live coverage: Trump admits Iran war a factor as Republicans routed",
-     "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 07:59:05 GMT",
-     "summary": "President’s party defeated in battleground races from Kansas to South Carolina",
-     "source": "Financial Times",
-     "zh": "Live coverage: Trump admits Iran war a factor as Republicans routed"
+     "title": "石峁，一座改写认知的史前古城",
+     "link": "http://www.eeo.com.cn/2026/1104/1084010.shtml",
+     "pubDate": "Wed, 04 Nov 2026 15:58:46 +0800",
+     "summary": "千百年来，当地人只知道这里有个叫“皇城台”的高地，却无人料到，四千多年前，这里曾矗立着一座雄伟的石头王国。",
+     "source": "经济观察网",
+     "zh": "石峁，一座改写认知的史前古城"
     },
     {
      "title": "Mitsubishi GAAP EPS of ¥168.25, revenue of ¥10410.42B; updates FY2027 outlook",
@@ -2290,22 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress"
     },
     {
-     "title": "Google defends school AI rules amid political criticism",
-     "link": "https://seekingalpha.com/news/4664480-google-defends-school-ai-rules-amid-political-criticism?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 02:39:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Google defends school AI rules amid political criticism"
-    },
-    {
-     "title": "Astellas Pharma ADR GAAP EPS of v134.47, revenue of ¥1270.86B; updates FY2027 outlook",
-     "link": "https://seekingalpha.com/news/4664483-astellas-pharma-adr-gaap-eps-of-v13447-revenue-of-127086b-updates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 02:38:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Astellas Pharma ADR GAAP EPS of v134.47, revenue of ¥1270.86B; updates FY2027 outlook"
-    },
-    {
      "title": "中期选举会否让中美关系出现新可能性？外交部：愿同美方共同落实好两国元首重要共识",
      "link": "http://finance.eastmoney.com/news/1351,202611043921917883.html",
      "pubDate": "Wed, 04 Nov 2026 15:28:50 +0800",
@@ -2320,6 +2368,22 @@ window.INDUSTRY_DATA = {
      "summary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
      "source": "CNBC",
      "zh": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off"
+    },
+    {
+     "title": "重返2万亿！A股再现“大奇迹日” 双创吹响反攻号角！发生了什么？",
+     "link": "http://stock.eastmoney.com/news/1405,202611043921918565.html",
+     "pubDate": "Wed, 04 Nov 2026 15:26:33 +0800",
+     "summary": "11月4日午后，A股上演“绝地反击”。 截至收盘，上证指数涨2.16%，深证成指涨4.22%，创业板指大涨6.40%，科创50指数飙升9.92%；沪深京三市 成交额突破2万亿元 ，较昨日大幅放量逾3300亿元。全市场共 4667股飘红 。 盘面上，科技题材午后全线爆发， 存储芯片 、 先进封装 、CPO、 玻璃基板 等方向大幅反弹， 半导体 板块掀起涨停潮 ： 北方华创 、 沪电股份 等强势封板， 长鑫科技 涨超13%，“易中天”、 寒武纪 、 胜宏科技 、 澜起科技 等均涨超10%。 药明康德 也罕见涨停，而 银行 、 石油石化 、 电力 等红利板块则明显走低。 多只科创 半导体 主题ETF",
+     "source": "东方财富资讯",
+     "zh": "重返2万亿！A股再现“大奇迹日” 双创吹响反攻号角！发生了什么？"
+    },
+    {
+     "title": "中美俄正致力于安排三国元首APEC会晤？外交部：就此与相关方保持着沟通",
+     "link": "http://finance.eastmoney.com/news/1345,202611043921915565.html",
+     "pubDate": "Wed, 04 Nov 2026 15:25:40 +0800",
+     "summary": "11月4日，外交部发言人毛宁主持例行记者会。法新社记者提问，据《金融时报》报道，北京、莫斯科和华盛顿方面正致力于安排中俄美元首在深圳APEC会议期间进行会晤。请问中国外交部能否证实，是否有计划举行三位国家元首之间的会晤？ 对此，毛宁表示：“中方就中俄美元首会晤同相关方保持着沟通。” （文章来源：澎湃新闻）",
+     "source": "东方财富资讯",
+     "zh": "中美俄正致力于安排三国元首APEC会晤？外交部：就此与相关方保持着沟通"
     },
     {
      "title": "民主党大胜，全球股市“先崩后拉”、金银大涨，市场在交易什么？",
@@ -2338,12 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "The great humbling of Donald Trump"
     },
     {
-     "title": "Four takeaways from the midterm results",
+     "title": "Five takeaways from the midterm results",
      "link": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 07:21:14 GMT",
      "summary": "Democrats record broad gains from almost all demographic groups",
      "source": "Financial Times",
-     "zh": "Four takeaways from the midterm results"
+     "zh": "Five takeaways from the midterm results"
     },
     {
      "title": "【风口研报】回购潮+封测年会+三季报多重共振 半导体设备高景气度有望延续",
@@ -2378,6 +2442,22 @@ window.INDUSTRY_DATA = {
      "zh": "Midterm Takeaways: Tech billionaires suffer horrible night as Democrats drub Republicans"
     },
     {
+     "title": "创业板指大涨逾6% 科创50指数飙升近10% 成交额突破2万亿",
+     "link": "http://finance.eastmoney.com/news/1345,202611043921903739.html",
+     "pubDate": "Wed, 04 Nov 2026 15:00:55 +0800",
+     "summary": "A股主要指数今日展开大反攻，截止收盘，沪指涨2.16%，收报3686.17点；深证成指涨4.22%，收报11335.69点；创业板指涨6.40%，收报2544.73点；科创50指数涨9.92%，收报1265.47点。沪深京三市成交额达到2.05万亿，较昨日大幅放量3366亿。 行业板块呈现普涨态势， 半导体、 贵金属、电子化学品、元件、 通信设备、 光伏设备、电源设备、机器人板块涨幅居前，白酒、食品饮料板块逆市走低。 个股方面，上涨股票数量接近4700只，逾120只股涨停。半导体产业链爆发，京仪装备、托伦斯、华峰测控、强一股份、江丰电子20CM涨停，北方华创、通富微电、金海通涨停；贵金属板块飙",
+     "source": "东方财富资讯",
+     "zh": "创业板指大涨逾6% 科创50指数飙升近10% 成交额突破2万亿"
+    },
+    {
+     "title": "“蓝色浪潮”席卷美国！一文梳理：民主党横扫国会意味着什么？",
+     "link": "http://stock.eastmoney.com/news/1768,202611043921896321.html",
+     "pubDate": "Wed, 04 Nov 2026 14:50:21 +0800",
+     "summary": "北京时间周三午间，美国各州中期选举陆续揭晓结果。截至发稿的美方最新统计显示，民主党已经获得国会参议院100个席位中的至少53席，重新夺回了参议院的掌控权，同时在众议院也已几乎稳操胜券。 这意味着本次中期选举后，民主党将重新掌控国会。 据央视新闻报道，美国总统特朗普在与哥伦比亚广播公司新闻频道的一次通话中，已就民主党人在中期选举中取得的优势成果，向民主党方面表达了祝贺。 特朗普说：“我向民主党人表示祝贺，并期待与你们合作，为我们国家的利益而努力。”但同时，特朗普也表示，他拥有完全的否决权。 此番中期选举上演的“蓝色浪潮”，意味着民主党在特朗普任期内的余下两年，将可借机大打政策牌，从减免关税到平抑",
+     "source": "东方财富资讯",
+     "zh": "“蓝色浪潮”席卷美国！一文梳理：民主党横扫国会意味着什么？"
+    },
+    {
      "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
      "link": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 06:40:10 GMT",
@@ -2386,68 +2466,20 @@ window.INDUSTRY_DATA = {
      "zh": "Americans deliver stunning rebuke to Trump as blue wave sweeps country"
     },
     {
-     "title": "大买家撤了！“稳定币老大”Tether也开始卖黄金了",
-     "link": "https://wallstreetcn.com/articles/3785124",
-     "pubDate": "Wed, 04 Nov 2026 14:38:21 +0800",
-     "summary": "全球最大稳定币发行商Tether在2026年三季度小幅减持了黄金储备，结束了此前数个季度持续增持的势头。 据追风交易台消息，Jefferies在11月3日发布的研究报告中称， Tether截至2026年9月30日的披露黄金持仓合计约165吨（约合219亿美元），较二季度末的约168吨减少约3吨 ，为近期首次出现环比下降。这一减少完全来自USDT储备中黄金持仓的收缩，XAU₮对应的黄金储备则维持不变。 对于Tether三季度的减持，Jefferies认为， 鉴于其现有持仓规模，Tether买入活动的变化可能对黄金市场产生重大影响。 值得注意的是， USDT供应量在三季度基本持平（约1845亿美元",
-     "source": "华尔街见闻",
-     "zh": "大买家撤了！“稳定币老大”Tether也开始卖黄金了"
+     "title": "宁夏固原博物馆：尘封北朝岁月，见证丝路繁华",
+     "link": "http://www.eeo.com.cn/2026/1104/1083889.shtml",
+     "pubDate": "Wed, 04 Nov 2026 14:39:25 +0800",
+     "summary": "北周李贤夫妇墓出土的丝路异域珍宝见证了中西文明交流，北朝墓志、造像、车马器，串联起陇右千年历史。",
+     "source": "经济观察网",
+     "zh": "宁夏固原博物馆：尘封北朝岁月，见证丝路繁华"
     },
     {
-     "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，芯片半导体强势飙升，恒指、恒科指齐涨超1%",
-     "link": "https://wallstreetcn.com/articles/3785133",
-     "pubDate": "Wed, 04 Nov 2026 14:33:30 +0800",
-     "summary": "11月4日，A股午后直线拉升，三大股指集体大涨，沪指涨近2%，创业板暴涨超6%。科创综指和科创50延续涨势，均飙涨超9%，得益于物理AI和半导体、算力硬件等科技股拉升。半导体板块反弹，托伦斯、恒玄科技涨幅居前。机器人、物理AI概念拉升，索辰科技、征和工业、福莱新材等涨停。文化传媒、生物科技等活跃。地产、大消费陷入调整。光模块发反弹，“易中天”集体拉升。 港股午后亦拉升，恒指、恒科指盘初双双上涨，恒指涨近1%，恒科指涨近1%，盘中一度跌近2%，权重科网股反弹。芯片、光模块等科技股反弹，海光芯正跌6%。生物科技板块爆发，恒生生物科技指数涨超5%。债市方面，国债期货普遍上涨。商品方面，国内商品期货多",
-     "source": "华尔街见闻",
-     "zh": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，芯片半导体强势飙升，恒指、恒科指齐涨超1%"
-    },
-    {
-     "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
-     "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 06:27:00 GMT",
-     "summary": "The results from the U.S. midterm elections are now clear and look likely to have effects on Americans’ investments and their wallets.",
-     "source": "MarketWatch",
-     "zh": "Democrats win the House and Senate. Here’s what it means for your finances."
-    },
-    {
-     "title": "U.S. midterm elections in pictures: Democrats&apos; sweeping victories deliver rebuke to Trump",
-     "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-     "pubDate": "Wed, 04 Nov 2026 05:53:30 GMT",
-     "summary": "Democrats scored sweeping victories in the U.S. midterm elections on Wednesday, flipping key Republican-held seats in Congress.",
-     "source": "CNBC",
-     "zh": "U.S. midterm elections in pictures: Democrats&apos; sweeping victories deliver rebuke to Trump"
-    },
-    {
-     "title": "Trump’s American slapdown for the ages",
-     "link": "https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 05:11:06 GMT",
-     "summary": "In multiple midterm races the president’s heavy-handed input boomeranged",
-     "source": "Financial Times",
-     "zh": "Trump’s American slapdown for the ages"
-    },
-    {
-     "title": "Stocks fall as Democratic wins stoke fears for AI boom",
-     "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 04:39:01 GMT",
-     "summary": "Traders bet Democrats could slow infrastructure build-out central to economic growth",
-     "source": "Financial Times",
-     "zh": "Stocks fall as Democratic wins stoke fears for AI boom"
-    },
-    {
-     "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
-     "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-     "pubDate": "Wed, 04 Nov 2026 03:38:08 GMT",
-     "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
-     "source": "CNBC",
-     "zh": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress"
-    },
-    {
-     "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-     "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 01:16:00 GMT",
-     "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
-     "source": "MarketWatch",
-     "zh": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade"
+     "title": "凿山镌史：云冈石窟的造像风华与考古奇踪",
+     "link": "http://www.eeo.com.cn/2026/1104/1083884.shtml",
+     "pubDate": "Wed, 04 Nov 2026 14:37:55 +0800",
+     "summary": "站在大同城西的武州山下，抬眼望去，绵延一公里长的崖壁之上，镌刻着中国北魏时期最宏大、最完整的石刻群——云冈石窟。",
+     "source": "经济观察网",
+     "zh": "凿山镌史：云冈石窟的造像风华与考古奇踪"
     }
    ]
   },

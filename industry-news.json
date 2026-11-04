@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/4 14:55:21",
+ "generated_at": "2026/11/4 15:12:21",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,46 @@
    "total": 9,
    "items": [
     {
+     "title": "Why defense's blue ocean is no smooth sailing for automakers",
+     "link": "https://www.digitimes.com/news/a20261104PD220/automakers-market-automotive-auto-industry-materials.html",
+     "pubDate": "Wed, 4 Nov 2026 06:59:00 GMT",
+     "summary": "Although the defense market has emerged as a new blue ocean for the auto industry, entering it is far from smooth sailing. The main concern remains the national security sensitivities inherent in defense work. Amid international rivalry, automotive supply chains moving into defense can easily become",
+     "source": "DIGITIMES",
+     "zh": "Why defense's blue ocean is no smooth sailing for automakers"
+    },
+    {
+     "title": "Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab",
+     "link": "https://www.digitimes.com/news/a20261104VL220/samsung-hbm-amd-texas-fab.html",
+     "pubDate": "Wed, 4 Nov 2026 06:57:15 GMT",
+     "summary": "Samsung Electronics plans to produce high-bandwidth memory (HBM) base dies for AMD at its second foundry plant in Taylor, Texas, with the US chipmaker accounting for most of the facility's planned output, South Korea's Maeil Business Newspaper reported on November 3, citing industry sources. The rep",
+     "source": "DIGITIMES",
+     "zh": "Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab"
+    },
+    {
+     "title": "PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track",
+     "link": "https://www.digitimes.com/news/a20261104PD225/pc-2026-darfon-demand-revenue.html",
+     "pubDate": "Wed, 4 Nov 2026 06:50:00 GMT",
+     "summary": "Affected by weak notebook and PC demand, Darfon Electronics reported third-quarter 2026 consolidated revenue of NT$7.011 billion (US$214 million), up 7.8% year-over-year but down about 6.7% quarter-over-quarter. The company said notebook and PC demand weakened after higher raw material and component",
+     "source": "DIGITIMES",
+     "zh": "PC slump hits Darfon, but MLCCs, green energy keep 2026 growth on track"
+    },
+    {
+     "title": "HBF could cut AI memory costs but squeeze NAND supply",
+     "link": "https://www.digitimes.com/news/a20261104VL218/nand-flash-manufacturing-capacity-wafer-sandisk.html",
+     "pubDate": "Wed, 4 Nov 2026 06:32:16 GMT",
+     "summary": "High Bandwidth Flash (HBF) could give AI accelerators more memory at roughly one-tenth the manufacturing cost per gigabyte of HBM4. But producing it could consume far more wafer capacity than conventional NAND, potentially tightening supply for SSD makers.",
+     "source": "DIGITIMES",
+     "zh": "HBF could cut AI memory costs but squeeze NAND supply"
+    },
+    {
+     "title": "Explosion at Panasonic CCL plant in Taiwan injures five, two missing",
+     "link": "https://www.digitimes.com/news/a20261104PD245/panasonic-taiwan-plant-fire-production.html",
+     "pubDate": "Wed, 4 Nov 2026 06:21:42 GMT",
+     "summary": "Panasonic Industrial Devices Materials Taiwan's Hukou plant experienced an explosion and fire early on November 4, injuring five employees and leaving two others unaccounted for. The fire continued to spread through the five-story, steel-framed, metal-clad facility, while the cause and extent of the",
+     "source": "DIGITIMES",
+     "zh": "Explosion at Panasonic CCL plant in Taiwan injures five, two missing"
+    },
+    {
      "title": "Efficient Computer’s Electron E1 processor adopted by edgeAI",
      "link": "https://www.electronicsweekly.com/news/business/efficient-computers-electron-e1-processor-adopted-by-edgeai-2026-11/",
      "pubDate": "Wed, 04 Nov 2026 06:15:42 +0000",
@@ -303,46 +343,6 @@
      "summary": "As AI computing clusters continue to expand, data centers are demanding higher transmission speeds and greater bandwidth. To overcome the manufacturing bottlenecks of traditional high-density interconnect (HDI) technology, modified semi-additive processes (mSAP) are rapidly emerging as the new marke",
      "source": "DIGITIMES",
      "zh": "High-speed optical communications drive demand for mSAP competition among Taiwan PCB makers"
-    },
-    {
-     "title": "Apple eyes sputtered HMO process for next-gen OLED",
-     "link": "https://www.digitimes.com/news/a20261104PD207/apple-technology-lg-display-sdc-performance.html",
-     "pubDate": "Wed, 4 Nov 2026 05:49:16 GMT",
-     "summary": "Apple is reportedly developing high-mobility oxide (HMO) technology for next-generation OLED displays and evaluating it at its own research facilities in Taiwan. Although the mass-production process has not been finalized, Apple, Samsung Display (SDC), and LG Display (LGD) all appear to favor existi",
-     "source": "DIGITIMES",
-     "zh": "Apple eyes sputtered HMO process for next-gen OLED"
-    },
-    {
-     "title": "Supermicro eyes faster cash conversion as turnaround times shrink to 74 days",
-     "link": "https://www.digitimes.com/news/a20261104VL219/supermicro-earnings-cash-flow-demand-2027.html",
-     "pubDate": "Wed, 4 Nov 2026 05:42:22 GMT",
-     "summary": "Supermicro expressed confidence to analysts during its earnings call for the first quarter of fiscal year 2027 regarding quicker turnaround times for orders and improved cash flow. The company cited greater demand for its Data Center Building Block Solutions (DCBBS), which accelerate data center inf",
-     "source": "DIGITIMES",
-     "zh": "Supermicro eyes faster cash conversion as turnaround times shrink to 74 days"
-    },
-    {
-     "title": "Darfon to consolidate China, Southeast Asia capacity, shift resources to AIDC components",
-     "link": "https://www.digitimes.com/news/a20261104PD237/darfon-pc-asia-capacity-aidc.html",
-     "pubDate": "Wed, 4 Nov 2026 05:38:09 GMT",
-     "summary": "PC component maker Darfon Electronics is consolidating its production capacity in China and Southeast Asia, while simultaneously shifting some of its resources for IT peripherals toward components for AI data centers (AIDC), including structural components, thermal solutions, and battery backup syst",
-     "source": "DIGITIMES",
-     "zh": "Darfon to consolidate China, Southeast Asia capacity, shift resources to AIDC components"
-    },
-    {
-     "title": "SpaceX is reportedly building AI data centers faster than anyone",
-     "link": "https://www.digitimes.com/news/a20261104VL215/spacex-data-capacity-business-merger.html",
-     "pubDate": "Wed, 4 Nov 2026 04:55:00 GMT",
-     "summary": "SpaceX, which only entered the AI infrastructure business this year through its merger with xAI, may now be the fastest data center builder in the world, according to research firm SemiAnalysis. The firm argues this pace will make the rocket company the world's biggest AI cloud.",
-     "source": "DIGITIMES",
-     "zh": "SpaceX is reportedly building AI data centers faster than anyone"
-    },
-    {
-     "title": "Acer Intelligence Space eyes India growth after strong appliance sales",
-     "link": "https://www.digitimes.com/news/a20261104PD235/acer-its-home-appliance-revenue-sales.html",
-     "pubDate": "Wed, 4 Nov 2026 04:32:34 GMT",
-     "summary": "Acer Intelligence Space (ITS) has gained traction in India's home appliance market by hiring a Bollywood star as its brand ambassador and combining competitive pricing with channel expansion. Strong demand for its air conditioners has prompted the company to plan additional major appliances, includi",
-     "source": "DIGITIMES",
-     "zh": "Acer Intelligence Space eyes India growth after strong appliance sales"
     },
     {
      "title": "Top Ten (+10)  Semiconductor Companies In Q2",
@@ -833,6 +833,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Chinese scientists develop self-powered PV-TEG system for hotspot detection, thermal management",
+     "link": "https://www.pv-magazine.com/2026/11/04/chinese-scientists-develop-self-powered-pv-teg-system-for-hotspot-detection-thermal-management/",
+     "pubDate": "Wed, 04 Nov 2026 07:02:19 +0000",
+     "summary": "Researchers in China have developed a self-powered PV-TEG system that combines hotspot detection, passive cooling, and wireless monitoring. Outdoor tests showed a hotspot localization error of 9.93 mm, a temperature reduction of up to 7.7 C, and approximately 45 wireless transmissions over 10 hours.",
+     "source": "pv magazine",
+     "zh": "Chinese scientists develop self-powered PV-TEG system for hotspot detection, thermal management"
+    },
+    {
      "title": "China’s Mengxi grid tops 20 GW of storage as renewables approach 60% of capacity",
      "link": "https://www.pv-magazine.com/2026/11/04/chinas-mengxi-grid-tops-20-gw-of-storage-as-renewables-approach-60-of-capacity/",
      "pubDate": "Wed, 04 Nov 2026 06:49:11 +0000",
@@ -1063,30 +1071,6 @@
      "summary": "The planned procurement could be for as little as 630 MW, down from an initial 6,800-MW target, after utilities in the&nbsp;PJM Interconnection&rsquo;s footprint&nbsp;lowered their large-load forecasts,&nbsp;Jefferies analysts said.",
      "source": "Utility Dive",
      "zh": "PJM’s revised data center backstop procurement plan reduces utility risks: ICF"
-    },
-    {
-     "title": "Mach unveils autonomous mower technology for utility solar sites",
-     "link": "https://www.pv-tech.org/mach-autonomous-mower-technology-utility-solar-sites/",
-     "pubDate": "Tue, 03 Nov 2026 12:49:47 +0000",
-     "summary": "Mach, a manufacturer of autonomy technology for off-road machines, has launched a commercial solar mowing solution for utility solar assets.",
-     "source": "PV Tech",
-     "zh": "Mach unveils autonomous mower technology for utility solar sites"
-    },
-    {
-     "title": "Waaree doubles Texas solar module manufacturing capacity to 3.2 GW",
-     "link": "https://www.pv-magazine.com/2026/11/03/waaree-solar-americas-begins-commercial-production-on-1-6-gw-of-new-module-lines-doubling-texas-capacity-to-3-2-gw/",
-     "pubDate": "Tue, 03 Nov 2026 12:31:51 +0000",
-     "summary": "Waaree Solar Americas has started commercial production on two new 800 MW solar module manufacturing lines at its Brookshire facility in Texas, doubling the plant's annual production capacity. The post Waaree doubles Texas solar module manufacturing capacity to 3.2 GW appeared first on pv magazine G",
-     "source": "pv magazine",
-     "zh": "Waaree doubles Texas solar module manufacturing capacity to 3.2 GW"
-    },
-    {
-     "title": "Vastly different fortunes for BESS in Belgium and Germany’s capacity market auctions",
-     "link": "https://www.energy-storage.news/vastly-different-fortunes-for-bess-in-belgium-and-germanys-capacity-market-auctions/",
-     "pubDate": "Tue, 03 Nov 2026 12:01:52 +0000",
-     "summary": "Battery storage projects have won nearly 40% of the capacity in Belgium’s latest capacity market (CM) auction results, while Germany’s first has all gone to gas, paying nearly eight times more than Belgium in the process.",
-     "source": "Energy Storage News",
-     "zh": "Vastly different fortunes for BESS in Belgium and Germany’s capacity market auctions"
     }
    ]
   },
@@ -1096,6 +1080,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "China biotech Minghui does thyroid eye disease deal for $110M upfront",
+     "link": "https://endpoints.news/china-biotech-minghui-does-thyroid-eye-disease-deal-for-110m-upfront/",
+     "pubDate": "Wed, 04 Nov 2026 07:04:40 +0000",
+     "summary": "A Chinese biotech is selling the Japanese rights for its Phase 3 thyroid eye disease drug to a 106-year-old specialty pharma long known for its thyroid hormone business. Shanghai-based Minghui Pharmaceutical will ...",
+     "source": "Endpoints News",
+     "zh": "China biotech Minghui does thyroid eye disease deal for $110M upfront"
+    },
     {
      "title": "STAT+: Democrats win power to push back on Trump’s health care moves",
      "link": "https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/?utm_campaign=rss",
@@ -1215,14 +1207,6 @@
      "summary": "STAT unpacks what the midterms mean for health policy, MAHA, and health insurance.",
      "source": "STAT News",
      "zh": "STAT+: What do the midterms mean for health care?"
-    },
-    {
-     "title": "Pfizer lifts 2026 guidance as cancer, migraine sales offset Covid slide",
-     "link": "https://endpoints.news/pfizer-lifts-2026-guidance-as-cancer-migraine-sales-offset-covid-slide/",
-     "pubDate": "Tue, 03 Nov 2026 15:04:17 +0000",
-     "summary": "Pfizer raised its 2026 financial guidance as strong growth in its oncology and migraine businesses helped it weather sharp sales drops in its Covid products. The company reported third-quarter sales and ...",
-     "source": "Endpoints News",
-     "zh": "Pfizer lifts 2026 guidance as cancer, migraine sales offset Covid slide"
     },
     {
      "title": "STAT+: FDA, CMS look to collaborate with states on health AI",
@@ -1753,58 +1737,98 @@
    "total": 18,
    "items": [
     {
-     "title": "一加 Ace 7 系列手机首销情况曝光：同期约为一加 Ace 6 的 180%",
-     "link": "https://www.ithome.com/1/022/155.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:51:00 GMT",
-     "summary": "IT之家 11 月 4 日消息， 一加 Ace 7 系列手机于 10 月 29 日晚发布，包含一加 Ace 7 和 一加 Ace 7 Pro 两款机型，国补到手价 2761.65 元起。 ▲ 一加 Ace 7 Pro「破风」 博主 @RD观测 今日曝光了该系列新机的首销期销售情况（Sell out）： 以首销当日（约 16:00 开售）+ 后三天为标准 一加 Ace 7 系列同期约为一加 Ace 6 的 180% 其中一加 Ace 7 Pro 同期约为一加 Ace 6 的 125% PS：第三方数据源，仅供参考。 据IT之家此前报道，一加中国区总裁李杰曾在 10 月 30 日透露，一加 Ace",
+     "title": "周活全球第一：OpenAI 称印度反超美国，成 ChatGPT 最大消费者市场",
+     "link": "https://www.ithome.com/1/022/166.htm",
+     "pubDate": "Wed, 04 Nov 2026 07:06:31 GMT",
+     "summary": "IT之家 11 月 4 日消息，11 月 3 日接受《经济时报》采访时，OpenAI 印度区董事总经理普拉布吉特 · 辛格（Prabhjeet Singh）表示，印度目前的 ChatGPT 周活跃用户数已超过包括美国在内的任何国家， 而且自 1 月以来，印度用户数量已翻了一番。 辛格没有给出最新的用户数字。OpenAI 于今年 2 月曾表示印度的 ChatGPT 周活跃用户超过 1 亿。首席执行官萨姆 · 奥尔特曼 (Sam Altman) 当时称印度是 OpenAI 仅次于美国的第二大市场。 据 Indian Startup News 报道, 他还表示，印度是全球 ChatGPT 学生用户最",
      "source": "IT之家",
-     "zh": "一加 Ace 7 系列手机首销情况曝光：同期约为一加 Ace 6 的 180%"
+     "zh": "周活全球第一：OpenAI 称印度反超美国，成 ChatGPT 最大消费者市场"
     },
     {
-     "title": "特斯拉 Cybercab 深度拆解：模块化可维修电池、全新逆变器",
-     "link": "https://www.ithome.com/1/022/149.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:50:04 GMT",
-     "summary": "IT之家 11 月 4 日消息，Munro Live 发布了对特斯拉 Cybercab 的完整深度解析视频，内容包括车辆拆解，以及对特斯拉得克萨斯州超级工厂（Giga Texas）Cybercab 生产线的实地参观。此次参观由特斯拉车辆工程副总裁拉尔斯 · 莫拉维（Lars Moravy）、Cybercab 项目负责人埃里克 · 厄利（Eric Earley），以及多位参与这款专用 Robotaxi 研发的团队成员带领。 此次探访涵盖了从电池包到整车总装的各个环节。以下是其中最值得关注的几个重点。 电池包终于可以单独维修 此次最大的变化在于电池包的设计方式。Cybercab 仍然采用特斯拉的 ",
+     "title": "荷兰 RDW 批准特斯拉欧洲 FSD 调整：更名 TAD，超速偏移上限降至 10%",
+     "link": "https://www.ithome.com/1/022/165.htm",
+     "pubDate": "Wed, 04 Nov 2026 07:06:24 GMT",
+     "summary": "IT之家 11 月 4 日消息，特斯拉 FSD 在欧洲将迎来一系列调整，这些变化可能有助于其在下个月获得欧盟范围内的统一批准。荷兰车辆管理局（RDW）今天宣布，已批准特斯拉 FSD（Supervised）系统的多项更新，其中最重要的一项是大幅收紧系统允许超出道路限速行驶的幅度。 IT之家注意到，今年 4 月，荷兰 RDW 成为欧盟首个批准特斯拉 FSD 的监管机构。此后，其他国家也陆续参考 RDW 建立的审批框架，为 FSD 在本国的使用开绿灯。 此次有哪些调整？ 根据 RDW 公布的信息，驾驶员可以设置的最高速度偏移值（Speed Offset）将从 +50% 下调至 +10%。 特斯拉的 ",
      "source": "IT之家",
-     "zh": "特斯拉 Cybercab 深度拆解：模块化可维修电池、全新逆变器"
+     "zh": "荷兰 RDW 批准特斯拉欧洲 FSD 调整：更名 TAD，超速偏移上限降至 10%"
     },
     {
-     "title": "消息称部分半导体设备制造商已启动 2029 年供应谈判",
-     "link": "https://www.ithome.com/1/022/148.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:49:50 GMT",
-     "summary": "IT之家 11 月 4 日消息，韩媒 ETNEWS 当地时间昨日报道称，全球五大半导体设备制造商（ASML、Applied Materials、Lam Research、TEL、KLA）已进入 2028 年设备供应合同的最终敲定阶段。 人工智能的快速发展带来了庞大的芯片产能需求，这意味着芯片制造商需要扩充产能，半导体设备制造商间接获益；反过来看， 如果半导体设备制造商无法按芯片制造商的规划交付设备 ， 那人工智能算力的增长也会受到影响 。 报道指出，传统上来说芯片制造商会在设备导入前的 6~12 个月敲定设备订单，为交付留出适当的时间。然而，由于芯片制造商的全面大幅扩产，半导体设备正处于供不应",
+     "title": "世嘉通报公司服务器遭黑客非法访问：日服街机游戏认证服务 Aime、SEGA ID 注册功能受影响",
+     "link": "https://www.ithome.com/1/022/164.htm",
+     "pubDate": "Wed, 04 Nov 2026 07:04:15 GMT",
+     "summary": "IT之家 11 月 4 日消息，据外媒 ITMedia 报道，世嘉玩具（SEGA FAVE）于 11 月 2 日通报公司部分服务器遭到黑客非法访问。自 11 月 1 日下午 3 时起，该公司已暂停部分日服街机游戏的在线服务以及“SEGA ID”新用户注册功能。 IT之家获悉，此次受影响的系统包括用于将街机设备接入网络的“ ALL.Net ”，以及通过 IC 卡等方式识别玩家身份、管理游戏数据的用户认证系统“Aime”。自 11 月 2 日下午 6 时至今，利用 ALL.Net 的街机游戏暂时无法通过在线环境进行游玩，官方网站上的街机门店信息查询功能以及各游戏对应的“.NET”服务也均无法使用。",
      "source": "IT之家",
-     "zh": "消息称部分半导体设备制造商已启动 2029 年供应谈判"
+     "zh": "世嘉通报公司服务器遭黑客非法访问：日服街机游戏认证服务 Aime、SEGA ID 注册功能受影响"
     },
     {
-     "title": "苹果 iOS 27.3 开发者预览版 Beta 新增“迫近威胁警报”选项，铺路接入自然灾害政府预警",
-     "link": "https://www.ithome.com/1/022/143.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:48:05 GMT",
-     "summary": "IT之家 11 月 4 日消息，IT之家家友 @软媒新友 2480766 今天（11 月 4 日）发布评论，指出在更新今天推送的 iOS 27.3 首个 Beta 开发者预览版后， 在设置应用通知下方的“政府警报”中出现了“迫近威胁警报”选项 。 IT之家查询公开资料，苹果的“迫近威胁警报”是 iPhone“增强型安全警报”中的一个开关，属于面向现实紧急情况的安全预警，为地震、洪水等紧急情况提供补充提醒。当周边出现可能危及人身安全的紧急情况后，iPhone 多一条接收提醒的渠道。 根据苹果官方支持文档，增强型安全警报在美国等少数市场提供，且需要安装 iOS 26.2 或更高版本。 增强型安全警",
-     "source": "IT之家",
-     "zh": "苹果 iOS 27.3 开发者预览版 Beta 新增“迫近威胁警报”选项，铺路接入自然灾害政府预警"
+     "title": "抵制小学体检的家长，越来越魔怔了",
+     "link": "https://www.huxiu.com/article/4902903.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 15:01:42 +0800",
+     "summary": "本文来自微信公众号： 雷叔说事 ，作者：猫猫 最近在社交媒体上闲逛，经常能刷到家长举报学校“大搞体检”的帖子。 我细看了一下，情况基本就是，这些家长不希望自家小朋友接受校方组织的体检。 因此，他们上网痛骂学校，希望借助舆论的力量，让学校停止体检： 家长们说了，他们不支持学校搞体检，理由是：校方这么干，存在“越权”之嫌。 “孩子的身体状况，是爸妈最关心的问题，既然有爸妈操心这事儿，就不需要学校再来插手了吧？” 还有家长直接教育孩子说，要是老师敢让你们去抽血，你们就直接逃到厕所打110，把这事儿搞黄。 …… 类似的帖子，还有很多很多。 这就让人看不懂了。 学校体检不是常规操作吗？ 要知道早在20年",
+     "source": "虎嗅",
+     "zh": "抵制小学体检的家长，越来越魔怔了"
     },
     {
-     "title": "华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位共同起草发布《智能体发展自律公约》，抵制利用智能体实施算法压榨、黑灰产等行为",
-     "link": "https://www.ithome.com/1/022/142.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:47:24 GMT",
-     "summary": "IT之家 11 月 4 日消息，今日在世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新 —— 携手构建智能互联网论坛”上，《智能体发展自律公约》正式发布。 这一公约由中国信息通信研究院、华为、阿里、腾讯、小米、百度、火山引擎、蚂蚁、抖音等 20 家单位联合起草并发布，是中国网络社会组织联合会等组织下各方共同推动的成果。 中国信通院表示，该公约是落实《智能体规范应用与创新发展实施意见》中“强化行业自律”任务部署的具体举措，共提出八条自律措施，涵盖健全智能体信任体系、建设智能体互联基础设施、提升智能体互操作水平、提升智能体安全防护能力、健全智能体治理机制、保护智能体用户权益、加速智能体赋能",
-     "source": "IT之家",
-     "zh": "华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位共同起草发布《智能体发展自律公约》，抵制利用智能体实施算法压榨、黑灰产等行为"
+     "title": "抹黑中国是日本现在唯一的“出路”",
+     "link": "https://www.huxiu.com/article/4901981.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 15:00:00 +0800",
+     "summary": "日本政府正明目张胆地用大制作日剧抹黑中国，全球190多个国家播放，还找来顶流导演和明星，剧情不仅扭曲历史，还美化日本法西斯。日本社会集体陷入信息茧房，右翼政府愚民手段娴熟，甩锅中国成惯例。",
+     "source": "虎嗅",
+     "zh": "抹黑中国是日本现在唯一的“出路”"
     },
     {
-     "title": "南亚科技 2026 财年前三季度报归母净利润 1638.79 亿新台币",
-     "link": "https://www.ithome.com/1/022/138.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:45:00 GMT",
-     "summary": "IT之家 11 月 4 日消息，南亚科技今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）业绩快报报告： 营业总收入 ：2652.85 亿新台币 （IT之家注：现汇率约合 540.65 亿元人民币） 毛利润 ：2134.17 亿新台币 （现汇率约合 434.94 亿元人民币） 毛利率 ：80.45% 归母净利润 ：1638.79 亿新台币 （现汇率约合 333.98 亿元人民币） 基本每股收益 ：49.28 新台币 （现汇率约合 10.04 元人民币） 资产负债率 ：19.41% AI 解读 南亚科技前三季度累计营收",
+     "title": "AI 时代下 Steam 游戏提交量显著增加，Valve 近期审核最长需 12 个工作日",
+     "link": "https://www.ithome.com/1/022/163.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:57:09 GMT",
+     "summary": "IT之家 11 月 4 日消息，Valve 正在调整 Steam 游戏上线前的审核流程，以应对近期游戏商店页面和游戏构建版本提交量大幅增加带来的审核积压。 Valve 于当地时间 11 月 3 日在 Steamworks 开发者公告中公布了相关调整，称过去几个月商店页面和游戏构建版本的审核提交量显著增加。 Valve 表示，目前游戏构建版本审核通常需要 3 至 5 个工作日，但近期审核进度有所延迟，最长可能需要 12 个工作日。该公司称，审核延迟的很大一部分原因是部分游戏需要重复审核。 此次更新主要针对开发者发布前的检查清单，目的是帮助更多游戏一次性通过审核，减少因基本功能问题导致的重复审核。",
      "source": "IT之家",
-     "zh": "南亚科技 2026 财年前三季度报归母净利润 1638.79 亿新台币"
+     "zh": "AI 时代下 Steam 游戏提交量显著增加，Valve 近期审核最长需 12 个工作日"
+    },
+    {
+     "title": "地铁都修到1000公里了，为什么还是那么挤",
+     "link": "https://www.huxiu.com/article/4902900.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 14:56:24 +0800",
+     "summary": "本文来自微信公众号： 读城记工作室 ，编辑：朱人奉，作者：王晨婷 坐地铁通勤，便利还是折磨？这是一个问题。 早晨七点五十，你进入地铁月台。下一趟地铁即将到站，每扇门前已经站了七八个和你一样的等候者。左右的人群数量都差不多，后面的人已经推着你往前走。随机选了一扇门，车到了。 车厢里的人还没完全出来，门外的人已经开始往里挤。轮到你时，车厢里已经几乎没有缝隙。已经挤上车的人略微侧身，大概能落下一只脚。好在肉体是有弹性的。你咬咬牙，把自己填进人群。暂时没有空间让你拿出手机来。你估算着，离目的地还剩12个站，一次换乘，和450米的路程。今天应该不会迟到。 离今天真正开始上班，大概还有一个小时。 这是全国",
+     "source": "虎嗅",
+     "zh": "地铁都修到1000公里了，为什么还是那么挤"
+    },
+    {
+     "title": "Democratic gubernatorial wins in Texas, Georgia, Ohio and Pennsylvania could expose 50% of proposed US AI data center additions to greater scrutiny and pushback (Bloomberg)",
+     "link": "https://www.techmeme.com/261104/p6#a261104p6",
+     "pubDate": "Wed, 04 Nov 2026 01:55:07 -0500",
+     "summary": "Bloomberg : Democratic gubernatorial wins in Texas, Georgia, Ohio and Pennsylvania could expose 50% of proposed US AI data center additions to greater scrutiny and pushback &nbsp; &mdash;&nbsp; Data center developers seeking to build dozens of sprawling artificial intelligence campuses across Texas ",
+     "source": "Techmeme",
+     "zh": "Democratic gubernatorial wins in Texas, Georgia, Ohio and Pennsylvania could expose 50% of proposed US AI data center additions to greater scrutiny and pushback (Bloomberg)"
+    },
+    {
+     "title": "借助 AI 铺路：开发者成功在微软 Win10 Mobile 15063 及更高版本运行 Android 应用，无需子系统",
+     "link": "https://www.ithome.com/1/022/161.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:53:27 GMT",
+     "summary": "IT之家 11 月 4 日消息，开发者 Computershik 在 Claude 加持下打造了开源项目 Megler，旨在让 Windows 10 Mobile 1703（版本号 10.0.15063）及更高版本系统的手机直接运行 Android 应用。 据开发者介绍， 该项目无需模拟 Android 硬件，也不需要为系统添加 Android 子系统，而是通过在普通 Windows 应用中实现 Android 运行环境相关组件 ，让 Android 应用的 Java 代码和原生 ARM 代码直接在手机处理器上运行。 在技术实现方面，Android 应用通常包含 Java 字节码以及针对 AR",
+     "source": "IT之家",
+     "zh": "借助 AI 铺路：开发者成功在微软 Win10 Mobile 15063 及更高版本运行 Android 应用，无需子系统"
+    },
+    {
+     "title": "华为星芒首款阔直板手机 OSTA O1 Pro 包装盒一角曝光，拥有 16GB+1TB 规格",
+     "link": "https://www.ithome.com/1/022/160.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:53:04 GMT",
+     "summary": "IT之家 11 月 4 日消息，博主 @数码闲聊站 今日爆料，华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA， 第一款阔直板手机叫 OSTA O1 Pro 。 IT之家注意到，博主随后在评论区中曝光了星芒首机 —— OSTA O1 Pro 包装盒的一角。画面显示，该机归属华为终端有限公司， 并拥有 16GB RAM+1TB ROM 规格 。 有网友询问华为阔直板手机以后是否都归星芒子品牌，博主表示：“ 没有啊，旗舰线还会有定位更高的阔。 ” 博主此前爆料还提到，OSTA O1 Pro 可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+51",
+     "source": "IT之家",
+     "zh": "华为星芒首款阔直板手机 OSTA O1 Pro 包装盒一角曝光，拥有 16GB+1TB 规格"
+    },
+    {
+     "title": "京东本地生活负责人郭庆卸任，业务转入京东外卖下一阶段｜独家",
+     "link": "https://www.tmtpost.com/8193164.html",
+     "pubDate": "Wed, 04 Nov 2026 14:46:44 +0800",
+     "summary": "本次人事变动，或许标志着京东业务发展主线切换",
+     "source": "钛媒体",
+     "zh": "京东本地生活负责人郭庆卸任，业务转入京东外卖下一阶段｜独家"
     },
     {
      "title": "哈佛经济学家追踪十万孩子的30年：搬家，可以“改命”",
      "link": "https://www.huxiu.com/article/4902262.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 14:43:47 +0800",
-     "summary": "本文来自微信公众号： 谷雨星球 ，作者：卷卷兔，原文标题：《哈佛经济学家追踪十万孩子的30年：搬家，可以「改命」》 大家好，我是卷卷兔。 今年9月，全球最火的纪录片之一《人生七年》，终于完成了对一群孩子从7岁到70岁的追踪，迎来了最后一集《70 Up》。 他们当中，富人区的大多孩子上了牛津剑桥，成了律师，工人家孩子早早工作、结婚生子。 但也有一个例外，一个农场男孩考进牛津，成了美国大学里的核物理学教授，实现了阶层的跃迁。 有人看完后很唏嘘，一个人的命运，真的早就被出身决定了吗？ 同样是追踪研究，哈佛经济学家Raj Chetty就给出了一个更有希望的答案：孩子在哪里长大，真的能在很大程度上改变命",
+     "summary": "本文来自微信公众号： 谷雨星球 ，作者：卷卷兔，题图来自：视觉中国 今年9月，全球最火的纪录片之一《人生七年》，终于完成了对一群孩子从7岁到70岁的追踪，迎来了最后一集《70 Up》。 他们当中，富人区的大多孩子上了牛津剑桥，成了律师，工人家孩子早早工作、结婚生子。 但也有一个例外，一个农场男孩考进牛津，成了美国大学里的核物理学教授，实现了阶层的跃迁。 有人看完后很唏嘘，一个人的命运，真的早就被出身决定了吗？ 同样是追踪研究，哈佛经济学家Raj Chetty就给出了一个更有希望的答案： 孩子在哪里长大，真的能在很大程度上改变命运。 在一场抽签实验里，13岁前搬去好社区的孩子，长大后收入高出35",
      "source": "虎嗅",
      "zh": "哈佛经济学家追踪十万孩子的30年：搬家，可以“改命”"
     },
@@ -1847,6 +1871,14 @@
      "summary": "Bloomberg : A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto &nbsp; &mdash;&nbsp; Global markets pared a selloff sparked by a Democratic sweep of the US Congress, as investors weighed tough",
      "source": "Techmeme",
      "zh": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump&apos;s policy agenda for AI infrastructure and crypto (Bloomberg)"
+    },
+    {
+     "title": "币安称黑客通过虚假工作面试入侵工程师笔记本电脑",
+     "link": "https://www.solidot.org/story?sid=85789",
+     "pubDate": "Wed, 04 Nov 2026 14:07:00 +0800",
+     "summary": "币安官方博客披露了黑客如何窃取价值 63 亿美元加密货币的初步调查报告。报告称，攻击始于今年六月： 2026 年 6 月——供应链攻击。钱包开发运维团队的工程师 A 为安装一款热门 AI 编程工具，通过搜索引擎查找并下载了一个遭篡改的 Homebrew 安装程序。我们的安全团队主动检测到了这一异常，更换了该设备，同时轮换了所有相关凭证。尽管如此，工程师 A 的岗位信息，以及其钱包基础设施团队中的相关同事信息，仍已暴露给攻击者。 9月——社会工程攻击。软件工程师 B 通过一个正规的求职平台，收到了一名冒充项目总监人员的联系。工程师B在该平台上的个人资料中提及了自己在币安的工作经历。对方以项目总监",
+     "source": "Solidot",
+     "zh": "币安称黑客通过虚假工作面试入侵工程师笔记本电脑"
     },
     {
      "title": "Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)",
@@ -1897,12 +1929,12 @@
      "zh": "Columbia Promo Codes: 15% Off | November 2026"
     },
     {
-     "title": "Alo Discount Code: 20% Off November 2026",
-     "link": "https://www.wired.com/story/alo-yoga-discount-code/",
+     "title": "25% Off Adidas Promo Code | November 2026",
+     "link": "https://www.wired.com/story/adidas-promo-code/",
      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-     "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
+     "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
      "source": "WIRED",
-     "zh": "Alo Discount Code: 20% Off November 2026"
+     "zh": "25% Off Adidas Promo Code | November 2026"
     },
     {
      "title": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)",
@@ -1929,14 +1961,6 @@
      "zh": "六大科创龙头密集发声，谁在狂赚，谁在抢占下一轮风口"
     },
     {
-     "title": "发多少钱，你才愿意生孩子？",
-     "link": "https://www.huxiu.com/article/4902885.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 13:29:18 +0800",
-     "summary": "本文来自微信公众号： 看理想 ，作者：蒋莱 近两年，世界各国都在面临严峻的低生育率问题。中国的生育支持政策有了实质性进展。 2025年，国家育儿补贴制度开始实施，符合条件的三周岁以下婴幼儿，每孩每年可领取3600元，从出生起申领，三年累计10800元。同年秋季学期起，幼儿园学前一年开始免除保育教育费：公办园按规定免除，民办园参照当地同类型公办园标准相应减免。与此同时，普惠托育服务也在持续扩大。 其中，育儿补贴在中国家庭福利制度的发展中具有开创性意义。过去，地方育儿补贴往往只面向二孩、三孩家庭，或局限于部分地区。而现在，国家首次在全国范围内，面向一孩、二孩、三孩家庭实施普惠现金补贴，并持续覆盖孩",
-     "source": "虎嗅",
-     "zh": "发多少钱，你才愿意生孩子？"
-    },
-    {
      "title": "通威48亿收购丽豪再进一步，逆周期整合优质产能，硅料出清多了一条并购通道",
      "link": "https://www.tmtpost.com/8192987.html",
      "pubDate": "Wed, 04 Nov 2026 13:29:00 +0800",
@@ -1951,46 +1975,6 @@
      "summary": "生成容易，交付不易。",
      "source": "钛媒体",
      "zh": "AI视频的下一场竞争"
-    },
-    {
-     "title": "即时零售进入下半场",
-     "link": "https://www.tmtpost.com/8192950.html",
-     "pubDate": "Wed, 04 Nov 2026 13:15:00 +0800",
-     "summary": "无短板竞争。",
-     "source": "钛媒体",
-     "zh": "即时零售进入下半场"
-    },
-    {
-     "title": "新国标落地，陪人看病是一门好生意吗？",
-     "link": "https://www.tmtpost.com/8193012.html",
-     "pubDate": "Wed, 04 Nov 2026 13:12:40 +0800",
-     "summary": "决定企业长期收益的，并非服务人员总数或覆盖城市多少，而是能否获得客户愿意支付的价格，并以合理的人力与管理成本完成交付。",
-     "source": "钛媒体",
-     "zh": "新国标落地，陪人看病是一门好生意吗？"
-    },
-    {
-     "title": "公关副总裁最需要公关",
-     "link": "https://www.huxiu.com/article/4902884.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 13:12:26 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 我对字节这家公司的印象一直很好。比如：小姐姐很漂亮，小哥哥个个也都精神。 但最近也不知道怎么回事，字节那位公关副总裁，快把我对这家公司的好感败光了，尤其在商业媒体这个圈子里，这事闹得挺难看。 当然，这只是个人感受，代表不了所有人。 ...... 今天早上十点，李亮又发了一条微博。这次回的是胡锡进。 从10月26日秦朔发出那篇《可怕的红果》算起，已经九天了；一场数据之争，吵着吵着，把第三个人也卷了进来。 胡锡进两天前写了一大篇，两边都评了，最后还留了个台阶，说希望只是李亮个人跑调，不代表整个字节。 两天后，自己把台阶给拆了，也挺有意思。 李亮在开头把",
-     "source": "虎嗅",
-     "zh": "公关副总裁最需要公关"
-    },
-    {
-     "title": "从横店狂飙到好莱坞，短剧产业正在换一种活法",
-     "link": "https://www.huxiu.com/article/4902878.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 12:49:44 +0800",
-     "summary": "本文来自微信公众号： 远灼 ，编辑：燕子，作者：旭日东升6831 春节过后，横店短剧制片人上官云暤没有等来新的开机通知。 过去几年，这里曾经是中国短剧产业最热闹的地方之一。一个剧组刚刚杀青，另一个剧组可能已经进场。演员在片场之间赶场，制片人忙着协调场地和拍摄进度，摄影棚、服装店、餐馆和酒店，都能从短剧的快速扩张中分到一杯羹。 但2026年春天，情况发生了变化。上官云暤暂时离开片场，转而经营一家水饺店。与此同时，短剧行业的另一端却越来越热闹。 AI漫剧、AI仿真人短剧大量涌入平台，作品数量和播放量迅速增长。一些制作公司开始把原本用于真人拍摄的项目转向AI，海外短剧制作团队也在重新安排自己的生产链",
-     "source": "虎嗅",
-     "zh": "从横店狂飙到好莱坞，短剧产业正在换一种活法"
-    },
-    {
-     "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-     "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-     "pubDate": "Wed, 04 Nov 2026 04:45:00 +0000",
-     "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
-     "source": "TechCrunch",
-     "zh": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market"
     }
    ]
   },
@@ -2000,6 +1984,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "vivo X500 FE and V80 FE pick up more certifications",
+     "link": "https://www.gsmarena.com/vivo_x500_fe_and_v80_fe_pick_up_more_certifications_ahead_of_launch-news-75334.php",
+     "pubDate": "Wed, 04 Nov 2026 08:02:01 +0100",
+     "summary": "vivo launched the X300 FE back in April, and its successor is already starting to show up in certification databases. Now, a vivo phone with the model number V2653 has been certified in Indonesia, and the listing also reveals its full marketing name: vivo X500 FE. The same model number has also been",
+     "source": "GSMArena",
+     "zh": "vivo X500 FE and V80 FE pick up more certifications"
+    },
+    {
+     "title": "Google Photos now lets you stop Memories from ruining the mood",
+     "link": "https://www.androidauthority.com/google-photos-memories-background-music-3731437/",
+     "pubDate": "Wed, 04 Nov 2026 07:01:04 +0000",
+     "summary": "You can finally stop the app from adding random music to your memories.",
+     "source": "Android Authority",
+     "zh": "Google Photos now lets you stop Memories from ruining the mood"
+    },
     {
      "title": "Latest Sonos app update can help you fix your speaker setup faster, but there’s a catch",
      "link": "https://www.androidauthority.com/sonos-app-update-v91-system-health-presets-more-3731442/",
@@ -2153,14 +2153,6 @@
      "zh": "Tipster brings bad news for the Galaxy Z Fold9 and Z Fold9 Ultra cameras"
     },
     {
-     "title": "Android and iOS apps will be able to bypass the share sheet next year",
-     "link": "https://www.gsmarena.com/android_and_ios_apps_will_be_able_to_bypass_the_share_sheet_next_year-news-75328.php",
-     "pubDate": "Wed, 04 Nov 2026 00:31:02 +0100",
-     "summary": "Quick Share has come a long way over the past year. It started working with Apple's AirDrop on Pixels, then that support began spreading to other Android phones, and in August Google launched Tap to Share. Now, the company is going to let developers build Quick Share directly into their own apps - a",
-     "source": "GSMArena",
-     "zh": "Android and iOS apps will be able to bypass the share sheet next year"
-    },
-    {
      "title": "What made Nothing's CMF Phone 2 Pro so much cheaper than others?",
      "link": "https://www.engadget.com/2300613/nothing-cmf-phone-2-pro-why-so-much-cheaper/",
      "pubDate": "Tue, 03 Nov 2026 23:30:00 +0000",
@@ -2199,14 +2191,6 @@
      "summary": "Casio is back to deliver peak digital nostalgia straight to your finger.",
      "source": "Android Authority",
      "zh": "Casio’s cute digital ring watch just got a successor"
-    },
-    {
-     "title": "Chrome could soon make tab overload a lot easier to manage",
-     "link": "https://www.androidauthority.com/google-chrome-horizontal-tab-scrolling-testing-3731218/",
-     "pubDate": "Tue, 03 Nov 2026 22:00:53 +0000",
-     "summary": "Finally catching up to Firefox.",
-     "source": "Android Authority",
-     "zh": "Chrome could soon make tab overload a lot easier to manage"
     },
     {
      "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
@@ -2249,6 +2233,30 @@
    "total": 13,
    "items": [
     {
+     "title": "共和党中选失利、4.5亿美元泡汤？“大金主”马斯克发声：我的干预貌似没起作用",
+     "link": "https://wallstreetcn.com/articles/3785153",
+     "pubDate": "Wed, 04 Nov 2026 15:07:55 +0800",
+     "summary": "共和党中选失利、民主党大获全胜，马斯克押注共和党的近4.5亿美元政治豪赌或就此落空，其旗下特斯拉与SpaceX股价承压，科技股与AI基础设施板块亦遭到波及。 11月4日，马斯克在社交媒体上以自嘲口吻发声：“我干预选举的激光通信这次可能没起作用。”现有申报记录显示， 为帮助美国共和党在中期选举中胜出，马斯克已向联邦政治委员会捐赠4.45亿美元，他也因此成为此次中期选举最大的个人金主。 然而，民主党不仅夺回众议院控制权，更在多个关键参议院席位的争夺中胜出，据Decision Desk HQ预测，民主党将同时掌控参众两院。 分析人士警告，民主党横扫国会将加大对AI监管的立法压力，并可能阻碍外界高度关",
+     "source": "华尔街见闻",
+     "zh": "共和党中选失利、4.5亿美元泡汤？“大金主”马斯克发声：我的干预貌似没起作用"
+    },
+    {
+     "title": "创业板指大涨逾6% 科创50指数飙升近10% 成交额突破2万亿",
+     "link": "http://finance.eastmoney.com/news/1345,202611043921903739.html",
+     "pubDate": "Wed, 04 Nov 2026 15:00:55 +0800",
+     "summary": "A股主要指数今日展开大反攻，截止收盘，沪指涨2.16%，收报3686.17点；深证成指涨4.22%，收报11335.69点；创业板指涨6.40%，收报2544.73点；科创50指数涨9.92%，收报1265.47点。沪深京三市成交额达到2.05万亿，较昨日大幅放量3366亿。 行业板块呈现普涨态势， 半导体、 贵金属、电子化学品、元件、 通信设备、 光伏设备、电源设备、机器人板块涨幅居前，白酒、食品饮料板块逆市走低。 个股方面，上涨股票数量接近4700只，逾120只股涨停。半导体产业链爆发，京仪装备、托伦斯、华峰测控、强一股份、江丰电子20CM涨停，北方华创、通富微电、金海通涨停；贵金属板块飙",
+     "source": "东方财富资讯",
+     "zh": "创业板指大涨逾6% 科创50指数飙升近10% 成交额突破2万亿"
+    },
+    {
+     "title": "CVR Energy sets $47.55 price for $500M stock offering",
+     "link": "https://seekingalpha.com/news/4664469-cvr-energy-sets-47_55-price-for-500m-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 01:56:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CVR Energy sets $47.55 price for $500M stock offering"
+    },
+    {
      "title": "Continental GAAP EPS of €1.75, revenue of €3.45B; raises FY2026 outlook",
      "link": "https://seekingalpha.com/news/4664472-continental-gaap-eps-of-175-revenue-of-345b-raises-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 01:51:04 -0500",
@@ -2265,36 +2273,20 @@
      "zh": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off"
     },
     {
+     "title": "“蓝色浪潮”席卷美国！一文梳理：民主党横扫国会意味着什么？",
+     "link": "http://stock.eastmoney.com/news/1768,202611043921896321.html",
+     "pubDate": "Wed, 04 Nov 2026 14:50:21 +0800",
+     "summary": "北京时间周三午间，美国各州中期选举陆续揭晓结果。截至发稿的美方最新统计显示，民主党已经获得国会参议院100个席位中的至少53席，重新夺回了参议院的掌控权，同时在众议院也已几乎稳操胜券。 这意味着本次中期选举后，民主党将重新掌控国会。 据央视新闻报道，美国总统特朗普在与哥伦比亚广播公司新闻频道的一次通话中，已就民主党人在中期选举中取得的优势成果，向民主党方面表达了祝贺。 特朗普说：“我向民主党人表示祝贺，并期待与你们合作，为我们国家的利益而努力。”但同时，特朗普也表示，他拥有完全的否决权。 此番中期选举上演的“蓝色浪潮”，意味着民主党在特朗普任期内的余下两年，将可借机大打政策牌，从减免关税到平抑",
+     "source": "东方财富资讯",
+     "zh": "“蓝色浪潮”席卷美国！一文梳理：民主党横扫国会意味着什么？"
+    },
+    {
      "title": "Block in charts: GPV growth speeds up to 14% in Q3, best since Q1 2023",
      "link": "https://seekingalpha.com/news/4664471-block-in-charts-gpv-growth-speeds-up-to-14-in-q3-best-since-q1-2023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 01:49:05 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Block in charts: GPV growth speeds up to 14% in Q3, best since Q1 2023"
-    },
-    {
-     "title": "1.9%！最新保险预定利率研究值环比下降4BP 中期难现“炒停售”",
-     "link": "http://fund.eastmoney.com/news/11383,202611043921706798.html",
-     "pubDate": "Wed, 04 Nov 2026 14:47:41 +0800",
-     "summary": "财联社11月4讯 今日，保险业协会公布当前普通型人身保险产品预定利率研究值为1.9%，较上季度1.94%下降4个基点。 业内专家表示，本次研究值距离在售普通型人身保险产品预定利率最高值2.0%差距为10bps，尚未触发此前监管约定的“连续2个季度高/低25bps及以上”阈值条件。 展望未来，业内专家预计，保险产品预定利率将阶段性企稳，普通型保险产品预定利率最高值2.0%，分红型保险产品预定利率最高值1.75%，万能型保险产品最低保证利率最高值1.0%，均有望维持不变。对于消费者而言，无需担忧保险产品集中涨价。 最新一期普通型人身保险产品预定利率研究值为1.90%，环比下降4BP 近日，保险业协",
-     "source": "东方财富股票",
-     "zh": "1.9%！最新保险预定利率研究值环比下降4BP 中期难现“炒停售”"
-    },
-    {
-     "title": "华为、阿里等20家单位：共同抵制利用智能体实施算法压榨、黑灰产等行为",
-     "link": "http://finance.eastmoney.com/news/1350,202611043921891640.html",
-     "pubDate": "Wed, 04 Nov 2026 14:46:54 +0800",
-     "summary": "今日，中国信通院、华为、阿里、腾讯、小米、 百度 、火山引擎等20家单位联合发布《智能体发展自律公约》。其中提到，健全智能体治理机制。积极发展规则表达与内嵌、合规性测试等技术，确保智能体行为遵守法律法规、公序良俗，共同抵制利用智能体实施算法压榨、黑灰产等行为。持续构建健康向善的发展秩序，提升智能体融入经济社会体系的能力。 推动智能体技术普惠共享。共促基础共性技术开源开放，参与国际标准研发与规则构建，通过联合研发、人才培训等，打造全球开发者受益的创新网络。不断提升技术获取和本地化部署便利性，让智能体服务惠及更多国家和地区的用户。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "华为、阿里等20家单位：共同抵制利用智能体实施算法压榨、黑灰产等行为"
-    },
-    {
-     "title": "马斯克：猜我干预选举的激光通信这次没起作用",
-     "link": "http://finance.eastmoney.com/news/1351,202611043921891963.html",
-     "pubDate": "Wed, 04 Nov 2026 14:46:20 +0800",
-     "summary": "美国企业家马斯克11月4日在社交媒体上发声：“猜我干预选举的激光 通信 这次没起作用。”现有申报记录显示，为帮助美国共和党在中期选举中胜出，马斯克已向联邦政治委员会捐赠4.45亿美元，他也因此成为此次中期选举最大的个人金主。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "马斯克：猜我干预选举的激光通信这次没起作用"
     },
     {
      "title": "Ahold Delhaize Non-GAAP EPS of €0.69, revenue of €23.1B; updates FY2026 outlook",
@@ -2305,36 +2297,20 @@
      "zh": "Ahold Delhaize Non-GAAP EPS of €0.69, revenue of €23.1B; updates FY2026 outlook"
     },
     {
-     "title": "分析师：投资者关注债券价格，反映了多少美联储进一步收紧的预期",
-     "link": "http://finance.eastmoney.com/news/1351,202611043921891330.html",
-     "pubDate": "Wed, 04 Nov 2026 14:45:25 +0800",
-     "summary": "Payden & Rygel董事兼投资组合经理埃里克·桑德斯表示，对投资者而言，问题已不再只是美联储是否会加息，而是债券价格已经反映了多少进一步收紧货币政策的预期。市场仍在定价美联储未来进一步收紧政策的可能性，整体上与Payden & Rygel的预期一致。桑德斯表示：“如果说有什么不同，那就是市场计入的收紧幅度略高于我们的预期。”在这一背景下，美国国债收益率曲线短端的风险回报吸引力正日益上升。桑德斯表示：“2年至3年期美国国债收益率明显高于现金和3个月期国库券收益率，能够为利率进一步上升提供实质性的缓冲。”他补充说，即使收益率继续上升，也不一定会导致债券总回报转为负值。 （文章来源：金十数据",
-     "source": "东方财富股票",
-     "zh": "分析师：投资者关注债券价格，反映了多少美联储进一步收紧的预期"
-    },
-    {
-     "title": "科创半导体ETF华夏一度触及20cm涨停",
-     "link": "http://finance.eastmoney.com/news/11440,202611043921889051.html",
-     "pubDate": "Wed, 04 Nov 2026 14:44:37 +0800",
-     "summary": "午后 半导体 板块大幅上涨，科创 半导体 设备ETF鹏华、科创 半导体 ETF华夏、科创 半导体设备 ETF华泰柏瑞等多只ETF逼近20cm涨停， 半导体设备 ETF广发、 半导体设备 ETF国泰、半导体设备ETF华夏等触及10cm涨停。科创芯片ETF富国、科创芯片ETF汇添富、科创芯片ETF易方达等多只科创芯片ETF涨超13%。",
-     "source": "东方财富股票",
-     "zh": "科创半导体ETF华夏一度触及20cm涨停"
-    },
-    {
-     "title": "罕见！这一板块，“20CM”涨停潮",
-     "link": "http://stock.eastmoney.com/news/11622,202611043921891295.html",
-     "pubDate": "Wed, 04 Nov 2026 14:44:24 +0800",
-     "summary": "今日午后，A股主要指数持续拉升。截至发稿，创业板指涨逾6%，科创50涨超9%。 盘面上， 半导体 、 存储芯片 概念快速拉升， 京仪装备 、 芯源微 、 强一股份 、 精智达 、 江丰电子 、 中科飞测 、 托伦斯 等“20CM”涨停，沐曦股份涨超13%、摩尔线程涨超12%、 长鑫科技 涨超11%。 午后， 半导体 行业ETF集体爆发， 半导体 ETF博时（159582 ）、 半导体设备 ETF招商（561980）、 半导体设备 ETF国泰（159516）等盘中涨停，科创芯片ETF国泰（589100）、科创芯片ETF富国（588810）、科创芯片ETF博时（588990）等多只ETF盘中涨超1",
-     "source": "东方财富股票",
-     "zh": "罕见！这一板块，“20CM”涨停潮"
-    },
-    {
      "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
      "link": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 06:40:10 GMT",
      "summary": "Democrats take Congress as Republicans routed from Texas to Georgia",
      "source": "Financial Times",
      "zh": "Americans deliver stunning rebuke to Trump as blue wave sweeps country"
+    },
+    {
+     "title": "宁夏固原博物馆：尘封北朝岁月，见证丝路繁华",
+     "link": "http://www.eeo.com.cn/2026/1104/1083889.shtml",
+     "pubDate": "Wed, 04 Nov 2026 14:39:25 +0800",
+     "summary": "北周李贤夫妇墓出土的丝路异域珍宝见证了中西文明交流，北朝墓志、造像、车马器，串联起陇右千年历史。",
+     "source": "经济观察网",
+     "zh": "宁夏固原博物馆：尘封北朝岁月，见证丝路繁华"
     },
     {
      "title": "大买家撤了！“稳定币老大”Tether也开始卖黄金了",
@@ -2345,12 +2321,28 @@
      "zh": "大买家撤了！“稳定币老大”Tether也开始卖黄金了"
     },
     {
+     "title": "凿山镌史：云冈石窟的造像风华与考古奇踪",
+     "link": "http://www.eeo.com.cn/2026/1104/1083884.shtml",
+     "pubDate": "Wed, 04 Nov 2026 14:37:55 +0800",
+     "summary": "站在大同城西的武州山下，抬眼望去，绵延一公里长的崖壁之上，镌刻着中国北魏时期最宏大、最完整的石刻群——云冈石窟。",
+     "source": "经济观察网",
+     "zh": "凿山镌史：云冈石窟的造像风华与考古奇踪"
+    },
+    {
      "title": "美股光伏拉升！IRA补贴预期升温 A股光伏迎多重催化(名单)",
      "link": "http://finance.eastmoney.com/news/11822,202611043921879621.html",
      "pubDate": "Wed, 04 Nov 2026 14:36:31 +0800",
      "summary": "美国中期选举民主党势头强劲，美股 光伏概念 夜盘拉升，IRA补贴延续预期升温。机构认为， 供给侧政策 闭环将加速落后产能出清，先进产能有望率先迎来盈利改善。 中期选举民主党势头强劲 光伏产业链利好共振 11月4日，美股市场 太阳能 概念股夜盘交易中走强， 第一 太阳能 涨超6% ，Sunrun涨超5%，Enphase Energy涨超4%，Nextpower、SolarEdge Technologies涨超2%。 消息面上，美国中期选举中民主党表现强劲，市场普遍认为，民主党在国会及地方选举中的优势锁定，将极大程度巩固并延续《通胀削减法案》（IRA）中的绿色能源补贴与政策支持。 产业链层面，光伏",
      "source": "东方财富资讯",
      "zh": "美股光伏拉升！IRA补贴预期升温 A股光伏迎多重催化(名单)"
+    },
+    {
+     "title": "20%涨停！两大赛道彻底爆发！美国中期选举引发异动",
+     "link": "http://stock.eastmoney.com/news/11134,202611043921882949.html",
+     "pubDate": "Wed, 04 Nov 2026 14:35:11 +0800",
+     "summary": "美国中期选举牵动市场结构的变化！ 午后，与 新能源 相关的光伏、 太阳能 及 电池 板块大幅拉升。 逆变器 中的 首航新能 午后开盘直线拉升至涨停， 锂 电板块中的 紫竹高科 午后亦是转为强势，并封死涨停。 正泰电源 、 上能电气 、 阳光电源 、 固德威 、 昱能科技 、 艾罗能源 等跟涨。 那么，究竟发生了什么？ 据央视新闻报道， 美东时间11月4日凌晨1时，美国中期选举现场投票基本结束，各州将继续统计并公布计票结果。据决策台数据预测，民主党将获参议院100席中的52席、夺回参议院控制权，并预计夺回众议院控制权，将重新掌控国会。美国总统特朗普祝贺民主党并愿合作，但表示可能行使否决权迫使跨党",
+     "source": "东方财富资讯",
+     "zh": "20%涨停！两大赛道彻底爆发！美国中期选举引发异动"
     },
     {
      "title": "科创50指数涨幅达10% 创业板指涨近7% 高带宽内存、半导体、贵金属暴涨",
@@ -2409,20 +2401,12 @@
      "zh": "午后反攻！宽基ETF放量 半导体ETF领涨"
     },
     {
-     "title": "CVS to split into two publicly traded companies - report",
-     "link": "https://seekingalpha.com/news/4664454-cvs-to-split-into-two-publicly-traded-companies---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 01:17:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CVS to split into two publicly traded companies - report"
-    },
-    {
-     "title": "Live results: James Talarico wins in Texas as Democrat victory reaches deep-red states",
+     "title": "Live coverage: James Talarico wins in Texas as Democrat victory reaches deep-red states",
      "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 06:11:40 GMT",
      "summary": "President’s party defeated in battleground races from Kansas to South Carolina",
      "source": "Financial Times",
-     "zh": "Live results: James Talarico wins in Texas as Democrat victory reaches deep-red states"
+     "zh": "Live coverage: James Talarico wins in Texas as Democrat victory reaches deep-red states"
     },
     {
      "title": "U.S. midterm elections in pictures: Democrats&apos; sweeping victories deliver rebuke to Trump",
@@ -2431,14 +2415,6 @@
      "summary": "Democrats scored sweeping victories in the U.S. midterm elections on Wednesday, flipping key Republican-held seats in Congress.",
      "source": "CNBC",
      "zh": "U.S. midterm elections in pictures: Democrats&apos; sweeping victories deliver rebuke to Trump"
-    },
-    {
-     "title": "中期选举失利 特朗普：向民主党人表示祝贺 并期待与你们合作",
-     "link": "http://finance.eastmoney.com/news/1344,202611043921707994.html",
-     "pubDate": "Wed, 04 Nov 2026 13:51:47 +0800",
-     "summary": "美东时间11月3日深夜，据哥伦比亚广播公司消息，美国总统特朗普在与该媒体新闻频道的一次通话中，就民主党人在中期选举中取得的优势成果，向民主党方面表达了祝贺。 特朗普说：“我向民主党人表示祝贺，并期待与你们合作，为我们国家的利益而努力。”但同时，特朗普也表示，他拥有完全的否决权。 在3日稍早时，美国总统特朗普曾表示，如果民主党在此次选举中取得进展并赢得国会控制权，他可能会通过行使总统否决权，迫使民主党与其达成跨党派协议。 “总统职权很强大，可以做很多事情。”特朗普说。 美东时间3日晚间，美国选举数据分析机构发布预测分析称，民主党将夺回美国国会参议院控制权。稍早前，该机构曾预测民主党夺回国会众议院",
-     "source": "东方财富资讯",
-     "zh": "中期选举失利 特朗普：向民主党人表示祝贺 并期待与你们合作"
     },
     {
      "title": "James Talarico’s historic Texas Senate victory deals blow to Elon Musk",
@@ -2473,20 +2449,28 @@
      "zh": "Trump’s American slapdown for the ages"
     },
     {
-     "title": "可全天交易，并可加杠杆！CFTC放行美股个股永续期货交易",
-     "link": "https://wallstreetcn.com/articles/3785139",
-     "pubDate": "Wed, 04 Nov 2026 13:05:45 +0800",
-     "summary": "美国商品期货交易委员会（CFTC）于当地时间11月3日宣布，个股永续期货合约正式获准在美国受监管交易所上市。这意味着，美国投资者未来可以在股市闭市后继续交易美股相关合约，并使用杠杆。 永续合约，究竟有什么不一样？ 永续合约（Perpetuals，简称\"Perps\"）是一种没有到期日的杠杆衍生品合约。与传统期货相比，它最大的特点有两个： 一是可以全天候交易 ，包括股票市场正常闭市的时段； 二是内嵌杠杆机制 ，交易者可以用较少的本金撬动更大规模的头寸。 这两个特性让永续合约在海外——尤其是加密货币市场——积累了庞大的用户群体。此次CFTC将这一工具正式引入美国受监管市场，并将其延伸至传统股票领域。",
-     "source": "华尔街见闻",
-     "zh": "可全天交易，并可加杠杆！CFTC放行美股个股永续期货交易"
-    },
-    {
-     "title": "Global stocks slide as Democratic wins stoke fears for AI boom",
+     "title": "Stocks fall as Democratic wins stoke fears for AI boom",
      "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 04:39:01 GMT",
      "summary": "Traders bet Democrats could slow infrastructure build-out central to economic growth",
      "source": "Financial Times",
-     "zh": "Global stocks slide as Democratic wins stoke fears for AI boom"
+     "zh": "Stocks fall as Democratic wins stoke fears for AI boom"
+    },
+    {
+     "title": "伟伟道来 | 美军选前空袭，伊朗没有报复",
+     "link": "http://www.eeo.com.cn/2026/1104/1083722.shtml",
+     "pubDate": "Wed, 04 Nov 2026 12:39:00 +0800",
+     "summary": "不论美国中期选举结果如何，对于伊朗，美国是打还是谈，几乎全在特朗普的一念之间。没有人猜得透特朗普在想什么、想干什么。",
+     "source": "经济观察网",
+     "zh": "伟伟道来 | 美军选前空袭，伊朗没有报复"
+    },
+    {
+     "title": "我国首批33个和美海岛建设取得阶段性成效",
+     "link": "http://www.eeo.com.cn/2026/1104/1083623.shtml",
+     "pubDate": "Wed, 04 Nov 2026 11:45:12 +0800",
+     "summary": "目前，首批33个和美海岛已实施14项海岛生态保护修复项目，系统开展典型生态系统、重要生态廊道、珍稀濒危和特有物种及其栖息地保护修复。",
+     "source": "经济观察网",
+     "zh": "我国首批33个和美海岛建设取得阶段性成效"
     }
    ]
   },

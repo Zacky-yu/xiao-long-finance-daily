@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 14:45:39",
+ "generated_at": "2026/11/4 14:52:11",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "腾讯Hy4开眼了！抢先实测操作微信、3D建模，价格看齐DeepSeek，昇腾生态已联动",
+     "link": "https://zhidx.com/p/607071.html",
+     "pubDate": "Wed, 04 Nov 2026 14:30:57 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 云鹏 智东西11月4日报道，今天，腾讯发布其最新一代旗舰模型 Hy4 正式版 ，并计划开源模型权重。相比于今年8月发布的Hy4 preview，Hy4显著扩展了预训练和后训练规模， 首次引入了视觉能力 ，并大幅提升了指令遵循、长文理解、长程任务、深度研究等各项综合能力。 视觉能力的从无到有，解锁了不少Hy模型的新玩法。比如，用户可以上传随手拍摄的照片，让Hy4确定地理位置并核实信息。或是根据一张课本图片，打造3D的讲解网页。 从腾讯公布的完整基准测试结果来看， Hy4在智能体编程、搜索、办公等领域的多个公开基准测试中，实现了对DeepSeek-V4.1-Fl",
+     "source": "智东西",
+     "zh": "腾讯Hy4开眼了！抢先实测操作微信、3D建模，价格看齐DeepSeek，昇腾生态已联动"
+    },
     {
      "title": "Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting",
      "link": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
@@ -218,14 +226,6 @@ window.INDUSTRY_DATA = {
      "zh": "商汤新模型实测：8分钟速读582页招股书，“卡”在了做PPT上"
     },
     {
-     "title": "Grok Bot暗暗砍额度，马斯克承认：成本难持续",
-     "link": "https://zhidx.com/p/606855.html",
-     "pubDate": "Tue, 03 Nov 2026 16:22:37 +0800",
-     "summary": "智东西 编译 | 黄菲 编辑 | 江宇 智东西11月3日消息，据TechCrunch报道，近日，SpaceXSI旗下AI Agent产品Grok Bot因服务成本过高，开始收紧用户使用额度。 特斯拉CEO、SpaceXSI创始人兼CEO埃隆·马斯克（Elon Musk）11月2日在X上回应称，Grok Bot的服务成本相对于收入而言已经高得难以持续，此前用户反馈的额度异常消耗并非系统故障。 在马斯克作出回应前，已有部分用户发现，自己的Grok Bot每周使用额度在没有实际使用服务的情况下突然耗尽。有用户称，账户使用进度甚至从50%直接跳至100%。 目前，马斯克尚未公布后续具体的额度调整方案。",
-     "source": "智东西",
-     "zh": "Grok Bot暗暗砍额度，马斯克承认：成本难持续"
-    },
-    {
      "title": "How Cisco defends at machine speed with OpenAI",
      "link": "https://openai.com/index/cisco-cyber",
      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
@@ -257,6 +257,46 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Efficient Computer’s Electron E1 processor adopted by edgeAI",
+     "link": "https://www.electronicsweekly.com/news/business/efficient-computers-electron-e1-processor-adopted-by-edgeai-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:15:42 +0000",
+     "summary": "Efficient Computer, the company claiming to build the world’s most energy-efficient processors, has announced that edgeAI has selected its Electron E1 processor to develop high-performance, energy-efficient solutions for physical AI […] The post Efficient Computer’s Electron E1 processor adopted by ",
+     "source": "Electronics Weekly",
+     "zh": "Efficient Computer’s Electron E1 processor adopted by edgeAI"
+    },
+    {
+     "title": "GPS-based speed limiters introduced on US roads",
+     "link": "https://www.electronicsweekly.com/news/business/speed-limiters-on-us-roads-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:12:27 +0000",
+     "summary": "The US has started deploying GPS-based speed-limiting devices on cars to prevent reckless drivers from exceeding speed limits. Convicted speed merchants will be given a choice: “Your license or a […] The post GPS-based speed limiters introduced on US roads appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "GPS-based speed limiters introduced on US roads"
+    },
+    {
+     "title": "Antenna for railway applications",
+     "link": "https://www.electronicsweekly.com/news/business/antenna-for-railway-applications-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:05:46 +0000",
+     "summary": "Taoglas, the RF and antenna specialist, has announced the MA8020 Raptor X, a railway-certified, multi-function antenna platform designed to support cellular, GNSS and Wi‑Fi® connectivity for rail applications. Built on […] The post Antenna for railway applications appeared first on Electronics Weekl",
+     "source": "Electronics Weekly",
+     "zh": "Antenna for railway applications"
+    },
+    {
+     "title": "Filtronic wins £1.9m DCMS contract",
+     "link": "https://www.electronicsweekly.com/news/business/filtronic-wins-1-9m-dcms-contract-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:04:59 +0000",
+     "summary": "Filtronic has been awarded a £1.9 million contract under the Contracts for Innovation: Advanced Connectivity Technologies (ACT) competition. Delivered by Innovate UK, part of UK Research and Innovation (UKRI), the […] The post Filtronic wins £1.9m DCMS contract appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Filtronic wins £1.9m DCMS contract"
+    },
+    {
+     "title": "Alliance adds to SDRAM line-up",
+     "link": "https://www.electronicsweekly.com/news/business/alliance-adds-to-sdram-line-up-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:04:47 +0000",
+     "summary": "Alliance Memory has expanded its offering of high-speed CMOS mobile low-power SDRAMs with new 4Gb LPDDR4 and 8Gb and 16Gb LPDDR4X devices that combine low power ratings with fast clock […] The post Alliance adds to SDRAM line-up appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Alliance adds to SDRAM line-up"
+    },
     {
      "title": "High-speed optical communications drive demand for mSAP competition among Taiwan PCB makers",
      "link": "https://www.digitimes.com/news/a20261104PD217/communications-pcb-demand-hdi-data.html",
@@ -378,14 +418,6 @@ window.INDUSTRY_DATA = {
      "zh": "Accepting Orders for the LED Light-Sourced Projection Aligners"
     },
     {
-     "title": "UK Space Agency invites proposals for international space partnerships",
-     "link": "https://www.electronicsweekly.com/news/business/uk-space-agency-invites-proposals-for-international-space-partnerships-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 15:43:08 +0000",
-     "summary": "The UK Space Agency is inviting proposals for space-based projects that will help strengthen international partnerships for the UK space sector. Funding will be through the government’s International Bilateral Fund […] The post UK Space Agency invites proposals for international space partnerships a",
-     "source": "Electronics Weekly",
-     "zh": "UK Space Agency invites proposals for international space partnerships"
-    },
-    {
      "title": "Elethron to build UK AlN substrate manufacturing capability",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/elethron-031126.shtml",
      "pubDate": "Tue, 3 Nov 2026 15:18:42 GMT",
@@ -394,28 +426,12 @@ window.INDUSTRY_DATA = {
      "zh": "Elethron to build UK AlN substrate manufacturing capability"
     },
     {
-     "title": "Sony IMX742 1mm square image sensor serves single-use endoscopes",
-     "link": "https://www.electronicsweekly.com/news/products/sensors-products/sony-imx742-1mm-square-image-sensor-serves-single-use-endoscopes-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 15:07:47 +0000",
-     "summary": "Sony has announced its IMX742, a CMOS image sensor for single-use endoscopes. The company highlights it as the industry’s first to support digital output and data transmission through a 5m […] The post Sony IMX742 1mm square image sensor serves single-use endoscopes appeared first on Electronics Wee",
-     "source": "Electronics Weekly",
-     "zh": "Sony IMX742 1mm square image sensor serves single-use endoscopes"
-    },
-    {
      "title": "Bringing Design Data Management into the Developer Workflow",
      "link": "https://www.eetimes.com/bringing-design-data-management-into-the-developer-workflow/",
      "pubDate": "Tue, 03 Nov 2026 15:00:00 +0000",
      "summary": "As digital design workflows increasingly center on modern, text-based development environments, engineers expect the same efficiency from design data management as they do from coding tools. Visual Studio Code (VS Code) has become a preferred platform for developing RTL, HDL, scripts, and verificati",
      "source": "EE Times",
      "zh": "Bringing Design Data Management into the Developer Workflow"
-    },
-    {
-     "title": "Meta Dominates The Smart Specs Market",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/meta-dominates-the-smart-specs-market-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 14:21:35 +0000",
-     "summary": "Meta’s new Audio AI glasses started selling yesterday after the company’s Gen 3 smart glasses hit markets about three weeks ago. Most notably, the new audio-only model features the usual […] The post Meta Dominates The Smart Specs Market appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Meta Dominates The Smart Specs Market"
     },
     {
      "title": "AI Hardware’s Hidden Cost: Between Orders and Output",
@@ -448,22 +464,6 @@ window.INDUSTRY_DATA = {
      "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, has given the following update on its activities in fiscal first-quarter 2027 (to end-September 2026)...",
      "source": "Semiconductor Today",
      "zh": "BluGlass highlights September-quarter activities"
-    },
-    {
-     "title": "Bosch to spin off semis",
-     "link": "https://www.electronicsweekly.com/news/business/bosch-to-spin-off-semis-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 11:39:44 +0000",
-     "summary": "Bosch will spin off its semiconductor division ‌in January 2028, it said today. The move comes as part of a strategy to run semis as a foundry business as well […] The post Bosch to spin off semis appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Bosch to spin off semis"
-    },
-    {
-     "title": "Get the Gadget Master newsletter!",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 10:49:29 +0000",
-     "summary": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get the Gadget Master newsletter!"
     },
     {
      "title": "Interview with Sweta Gupta, VP of Engineering of Analog Bits",
@@ -834,6 +834,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "China’s Mengxi grid tops 20 GW of storage as renewables approach 60% of capacity",
+     "link": "https://www.pv-magazine.com/2026/11/04/chinas-mengxi-grid-tops-20-gw-of-storage-as-renewables-approach-60-of-capacity/",
+     "pubDate": "Wed, 04 Nov 2026 06:49:11 +0000",
+     "summary": "The regional grid operator reports 20.23 GW/70.47 GWh of storage, with emergency dispatch at times covering one-third of electricity demand. The post China’s Mengxi grid tops 20 GW of storage as renewables approach 60% of capacity appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "China’s Mengxi grid tops 20 GW of storage as renewables approach 60% of capacity"
+    },
+    {
+     "title": "Australia’s best-performing PV assets at a glance",
+     "link": "https://www.pv-magazine.com/2026/11/04/merredin-plant-tops-rystads-utility-pv-performance-table/",
+     "pubDate": "Wed, 04 Nov 2026 06:45:58 +0000",
+     "summary": "The 100 MW Merredin Solar Farm in Western Australia’s central Wheatbelt region has been identified by energy consultancy Rystad Energy as the best performing large-scale PV asset in Australia last month. The post Australia’s best-performing PV assets at a glance appeared first on pv magazine Global ",
+     "source": "pv magazine",
+     "zh": "Australia’s best-performing PV assets at a glance"
+    },
+    {
      "title": "Oil Prices Rebound as Middle East Supply Fears Return",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
      "pubDate": "Wed, 04 Nov 2026 00:15:00 -0600",
@@ -962,6 +978,14 @@ window.INDUSTRY_DATA = {
      "zh": "The Senate permitting bill holds promise but needs amendments"
     },
     {
+     "title": "Caterpillar expands production of engines and turbines to meet data center demand",
+     "link": "https://www.utilitydive.com/news/caterpillar-posts-highest-sales-quarter-ever-data-centers-q3-2026/873586/",
+     "pubDate": "Tue, 03 Nov 2026 11:42:00 -0500",
+     "summary": "The heavy machinery and power equipment maker saw its order backlog reach $78 billion during the third quarter, almost double what it was a year ago.",
+     "source": "Utility Dive",
+     "zh": "Caterpillar expands production of engines and turbines to meet data center demand"
+    },
+    {
      "title": "Innovations in solar module technologies outpace testing work",
      "link": "https://www.pv-tech.org/innovations-solar-module-technologies-testing-work/",
      "pubDate": "Tue, 03 Nov 2026 16:12:55 +0000",
@@ -1002,6 +1026,14 @@ window.INDUSTRY_DATA = {
      "zh": "Waaree commences production on 1.6GW solar module lines at Texas plant"
     },
     {
+     "title": "Energy affordability tops voter concerns in election set to shake up Congress",
+     "link": "https://www.utilitydive.com/news/energy-affordability-voter-election-midterm-congress-energy-policy/873596/",
+     "pubDate": "Tue, 03 Nov 2026 10:23:13 -0500",
+     "summary": "&ldquo;History shows us that energy crises create policy openings, and we think the conditions are probably in place for a window of policymaking,&rdquo; Hasan Nazar, head of policy at Crux, told Utility Dive.",
+     "source": "Utility Dive",
+     "zh": "Energy affordability tops voter concerns in election set to shake up Congress"
+    },
+    {
      "title": "PSEG Power plans 200-MW nuclear uprate as company eyes data center deals",
      "link": "https://www.utilitydive.com/news/pseg-power-nuclear-uprate-salem-data-center-earnings/873587/",
      "pubDate": "Tue, 03 Nov 2026 10:15:54 -0500",
@@ -1040,38 +1072,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mach, a manufacturer of autonomy technology for off-road machines, has launched a commercial solar mowing solution for utility solar assets.",
      "source": "PV Tech",
      "zh": "Mach unveils autonomous mower technology for utility solar sites"
-    },
-    {
-     "title": "Waaree doubles Texas solar module manufacturing capacity to 3.2 GW",
-     "link": "https://www.pv-magazine.com/2026/11/03/waaree-solar-americas-begins-commercial-production-on-1-6-gw-of-new-module-lines-doubling-texas-capacity-to-3-2-gw/",
-     "pubDate": "Tue, 03 Nov 2026 12:31:51 +0000",
-     "summary": "Waaree Solar Americas has started commercial production on two new 800 MW solar module manufacturing lines at its Brookshire facility in Texas, doubling the plant's annual production capacity. The post Waaree doubles Texas solar module manufacturing capacity to 3.2 GW appeared first on pv magazine G",
-     "source": "pv magazine",
-     "zh": "Waaree doubles Texas solar module manufacturing capacity to 3.2 GW"
-    },
-    {
-     "title": "Vastly different fortunes for BESS in Belgium and Germany’s capacity market auctions",
-     "link": "https://www.energy-storage.news/vastly-different-fortunes-for-bess-in-belgium-and-germanys-capacity-market-auctions/",
-     "pubDate": "Tue, 03 Nov 2026 12:01:52 +0000",
-     "summary": "Battery storage projects have won nearly 40% of the capacity in Belgium’s latest capacity market (CM) auction results, while Germany’s first has all gone to gas, paying nearly eight times more than Belgium in the process.",
-     "source": "Energy Storage News",
-     "zh": "Vastly different fortunes for BESS in Belgium and Germany’s capacity market auctions"
-    },
-    {
-     "title": "BESS for EV charging: why sites need it, how it works and when to install",
-     "link": "https://www.energy-storage.news/bess-for-ev-charging-guide/",
-     "pubDate": "Tue, 03 Nov 2026 11:58:58 +0000",
-     "summary": "Grid connections are now the biggest brake on rapid EV charging. Here's how battery storage lets charging sites deliver more power from a smaller connection, and when it pays to add it.",
-     "source": "Energy Storage News",
-     "zh": "BESS for EV charging: why sites need it, how it works and when to install"
-    },
-    {
-     "title": "Germany awards 288 MW of solar in rooftop tender at average price of €0.0967/kWh",
-     "link": "https://www.pv-magazine.com/2026/11/03/germany-awards-288-mw-of-solar-in-rooftop-tender-at-average-price-of-e0-0967-kwh/",
-     "pubDate": "Tue, 03 Nov 2026 11:57:14 +0000",
-     "summary": "Germany’s latest rooftop solar tender received 177 bids totaling 347 MW, with 108 bids representing 208 MW ultimately awarded contracts. The post Germany awards 288 MW of solar in rooftop tender at average price of €0.0967/kWh appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Germany awards 288 MW of solar in rooftop tender at average price of €0.0967/kWh"
     }
    ]
   },
@@ -1738,6 +1738,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "苹果 iOS 27.3 开发者预览版 Beta 新增“迫近威胁警报”选项，铺路接入自然灾害政府预警",
+     "link": "https://www.ithome.com/1/022/143.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:48:05 GMT",
+     "summary": "IT之家 11 月 4 日消息，IT之家家友 @软媒新友 2480766 今天（11 月 4 日）发布评论，指出在更新今天推送的 iOS 27.3 首个 Beta 开发者预览版后， 在设置应用通知下方的“政府警报”中出现了“迫近威胁警报”选项 。 IT之家查询公开资料，苹果的“迫近威胁警报”是 iPhone“增强型安全警报”中的一个开关，属于面向现实紧急情况的安全预警，为地震、洪水等紧急情况提供补充提醒。当周边出现可能危及人身安全的紧急情况后，iPhone 多一条接收提醒的渠道。 根据苹果官方支持文档，增强型安全警报在美国等少数市场提供，且需要安装 iOS 26.2 或更高版本。 增强型安全警",
+     "source": "IT之家",
+     "zh": "苹果 iOS 27.3 开发者预览版 Beta 新增“迫近威胁警报”选项，铺路接入自然灾害政府预警"
+    },
+    {
+     "title": "华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位共同抵制利用智能体实施算法压榨、黑灰产等行为",
+     "link": "https://www.ithome.com/1/022/142.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:47:24 GMT",
+     "summary": "IT之家 11 月 4 日消息，今日在世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新 —— 携手构建智能互联网论坛”上，《智能体发展自律公约》正式发布。 这一公约由中国信息通信研究院、华为、阿里、腾讯、小米、百度、火山引擎、蚂蚁、抖音等 20 家单位联合起草并发布，是中国网络社会组织联合会等组织下各方共同推动的成果。 该公约是落实《智能体规范应用与创新发展实施意见》中“强化行业自律”任务部署的具体举措，共提出八条自律措施，涵盖健全智能体信任体系、建设智能体互联基础设施、提升智能体互操作水平、提升智能体安全防护能力、健全智能体治理机制、保护智能体用户权益、加速智能体赋能千行百业、推动智",
+     "source": "IT之家",
+     "zh": "华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位共同抵制利用智能体实施算法压榨、黑灰产等行为"
+    },
+    {
+     "title": "南亚科技 2026 财年前三季度报归母净利润 1638.79 亿新台币",
+     "link": "https://www.ithome.com/1/022/138.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:45:00 GMT",
+     "summary": "IT之家 11 月 4 日消息，南亚科技今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）业绩快报报告： 营业总收入 ：2652.85 亿新台币 （IT之家注：现汇率约合 540.65 亿元人民币） 毛利润 ：2134.17 亿新台币 （现汇率约合 434.94 亿元人民币） 毛利率 ：80.45% 归母净利润 ：1638.79 亿新台币 （现汇率约合 333.98 亿元人民币） 基本每股收益 ：49.28 新台币 （现汇率约合 10.04 元人民币） 资产负债率 ：19.41% AI 解读 南亚科技前三季度累计营收",
+     "source": "IT之家",
+     "zh": "南亚科技 2026 财年前三季度报归母净利润 1638.79 亿新台币"
+    },
+    {
+     "title": "哈佛经济学家追踪十万孩子的30年：搬家，可以“改命”",
+     "link": "https://www.huxiu.com/article/4902262.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 14:43:47 +0800",
+     "summary": "本文来自微信公众号： 谷雨星球 ，作者：卷卷兔，原文标题：《哈佛经济学家追踪十万孩子的30年：搬家，可以「改命」》 大家好，我是卷卷兔。 今年9月，全球最火的纪录片之一《人生七年》，终于完成了对一群孩子从7岁到70岁的追踪，迎来了最后一集《70 Up》。 他们当中，富人区的大多孩子上了牛津剑桥，成了律师，工人家孩子早早工作、结婚生子。 但也有一个例外，一个农场男孩考进牛津，成了美国大学里的核物理学教授，实现了阶层的跃迁。 有人看完后很唏嘘，一个人的命运，真的早就被出身决定了吗？ 同样是追踪研究，哈佛经济学家Raj Chetty就给出了一个更有希望的答案：孩子在哪里长大，真的能在很大程度上改变命",
+     "source": "虎嗅",
+     "zh": "哈佛经济学家追踪十万孩子的30年：搬家，可以“改命”"
+    },
+    {
      "title": "苹果警告：AI 智能体行为或难以预测，恐引发诉讼、损害公司声誉",
      "link": "https://www.ithome.com/1/022/137.htm",
      "pubDate": "Wed, 04 Nov 2026 06:42:33 GMT",
@@ -1760,22 +1792,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 4 日消息，特斯拉财报电话会议或将迎来改版。此前，投资者将特斯拉上个月举行的第三季度财报电话会议，与前一天 SpaceX 举办的会议进行了对比，认为后者的形式更加丰富多彩。对此，埃隆 · 马斯克（Elon Musk）近日在 X 平台上表示，特斯拉下一次财报电话会议将采用视频形式，并且会“更有趣”。 事情起因于 X 用户 @TeslaBoomerMama 发帖称，希望特斯拉下一次财报电话会议能够采用视频形式，并且“像格温（Gwynne）昨天那样，安排一位笑容灿烂的人出镜”。马斯克回应称：“下次就会这样。” 随后，X 用户 @farzyness 将 SpaceX 的财报会议制作",
      "source": "IT之家",
      "zh": "马斯克：特斯拉下一次财报电话会议将改为视频形式"
-    },
-    {
-     "title": "OPPO Enco Clip2 耳夹耳机新配色「粉黛海」官宣即将登场，本月发布",
-     "link": "https://www.ithome.com/1/022/131.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:39:33 GMT",
-     "summary": "IT之家 11 月 4 日消息，OPPO 今日官宣 OPPO Enco Clip2 全新配色「 粉黛海 」即将登场，将于 11 月发布。 据IT之家此前报道， OPPO Enco Clip2 耳夹耳机发布于 4 月 21 日 ，首发提供高光金和深空灰两种颜色可选，后续增加了晨雾白配色，耳机原价 899 元，首发价 849 元。 OPPO Enco Clip2 单耳重 5.2g，配备超薄自适应钛片；支持 40 小时超长续航，单次续航可达 9.5 小时；适配苹果语音指令，支持切歌、接挂电话、音量调节、播放暂停等功能。",
-     "source": "IT之家",
-     "zh": "OPPO Enco Clip2 耳夹耳机新配色「粉黛海」官宣即将登场，本月发布"
-    },
-    {
-     "title": "Steam 喜加一：策略棋盘游戏《Last Gambit》转付费前免费领",
-     "link": "https://www.ithome.com/1/022/130.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:36:24 GMT",
-     "summary": "IT之家 11 月 4 日消息，开发团队 Trabucco team 宣布旗下免费 Roguelike 策略棋盘游戏《Last Gambit》将于 2026 年 11 月 13 日结束抢先体验阶段，推出 1.0 正式版，并转为付费买断制。玩家只需在转为付费游戏前将其添加至 Steam 游戏库，即可免费永久保留。IT之家附游戏商品页（ https://store.steampowered.com/app/4983490/Last_Gambit/ ）。 IT之家获悉，《Last Gambit》是一款融合 Roguelike 元素的策略棋盘游戏，即使熟悉传统棋类规则，玩家也难以预测接下来的战局变化。",
-     "source": "IT之家",
-     "zh": "Steam 喜加一：策略棋盘游戏《Last Gambit》转付费前免费领"
     },
     {
      "title": "快看不懂漫画了",
@@ -1802,14 +1818,6 @@ window.INDUSTRY_DATA = {
      "zh": "India-based EloElo, whose Story TV microdrama app has 33M+ estimated active users, raised an $80M Series C from Hornbill Capital and NBCU at a $500M valuation (Ivan Mehta/TechCrunch)"
     },
     {
-     "title": "CrowdStrike 造出“终止开关”，宣称能立即阻止失控 AI 智能体",
-     "link": "https://www.ithome.com/1/022/112.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:23:38 GMT",
-     "summary": "IT之家 11 月 4 日消息，当地时间 3 日，据美国 CNBC 报道，网络安全公司 CrowdStrike 的 CEO 乔治 · 库尔茨宣称，公司推出了一项新功能，可以直接关停失控的 AI 智能体。 CrowdStrike 在 Fal.Con 欧洲大会上发布了“AI 终止开关”，安全人员可以借此 停止异常智能体的运行、阻止其重新启动，并切断其网络访问权限 。 库尔茨表示：“大家都在开发 AI 智能体，却一直没有关闭它们的按钮。现在有了。这样对确保 AI 智能体安全运行极为重要。” “AI 终止开关”属于 CrowdStrike 旗下 Falcon Guardian 平台的功能，该平台负责监",
-     "source": "IT之家",
-     "zh": "CrowdStrike 造出“终止开关”，宣称能立即阻止失控 AI 智能体"
-    },
-    {
      "title": "高山遇流水，德国制造与中国新能源会创造“超合体”嘛",
      "link": "https://www.huxiu.com/article/4902892.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 14:20:28 +0800",
@@ -1832,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "Financial Times : Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration &nbsp; &mdash;&nbsp; Intervention comes amid growing tension for US AI infrastructure groups doing business with Chinese tech gia",
      "source": "Techmeme",
      "zh": "Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)"
-    },
-    {
-     "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-     "pubDate": "Wed, 04 Nov 2026 06:00:30 +0000",
-     "summary": "Article URL: https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates Comments URL: https://news.ycombinator.com/item?id=50361936 Points: 48 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "US midterm elections 2026 live updates: Democrats win Senate control and edge"
     },
     {
      "title": "50% Off DoorDash Promo Code | November 2026",
@@ -1882,12 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Columbia Promo Codes: 15% Off | November 2026"
     },
     {
-     "title": "25% Off Adidas Promo Code | November 2026",
-     "link": "https://www.wired.com/story/adidas-promo-code/",
+     "title": "Alo Discount Code: 20% Off November 2026",
+     "link": "https://www.wired.com/story/alo-yoga-discount-code/",
      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-     "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+     "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
      "source": "WIRED",
-     "zh": "25% Off Adidas Promo Code | November 2026"
+     "zh": "Alo Discount Code: 20% Off November 2026"
     },
     {
      "title": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)",
@@ -2234,6 +2234,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "博迁新材11月4日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921887753.html",
+     "pubDate": "Wed, 04 Nov 2026 14:43:47 +0800",
+     "summary": "以下是 博迁新材 在北京时间11月4日14:43分盘口异动快照： 11月4日14点43分， 博迁新材 盘中打开涨停，现报74.05元，成交8.54亿元，换手率4.66%。该股之前于14点34分涨停。 分笔 14:43:43 74.05 541↓ 14:43:40 74.57 443↓ 14:43:37 74.57 1086↓ 14:43:34 74.57 346↓ 14:43:31 74.57 178↓ 14:43:28 74.57 3↓ 14:43:25 74.57 41↓ 14:43:22 74.57 70↓ 14:43:19 74.57 130↓ 14:43:16 74.57 13↓ 报",
+     "source": "东方财富股票",
+     "zh": "博迁新材11月4日打开涨停"
+    },
+    {
+     "title": "海南瑞泽11月4日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921887140.html",
+     "pubDate": "Wed, 04 Nov 2026 14:43:37 +0800",
+     "summary": "以下是 海南瑞泽 在北京时间11月4日14:43分盘口异动快照： 11月4日， 海南瑞泽 盘中快速上涨，5分钟内涨幅超过2%，截至14点43分，报3.03元，成交6488.95万元，换手率1.94%。 分笔 14:43:27 3.03 59↑ 14:43:24 3.01 2386↑ 14:43:21 3.01 71↑ 14:43:18 3.01 2093↑ 14:43:15 3.00 1↓ 14:43:09 3.00 20↓ 14:43:06 3.01 1917↑ 14:42:57 3.01 64↑ 14:42:54 3.00 6↓ 14:42:48 3.01 85↑ 报价 卖五 3.06 1",
+     "source": "东方财富股票",
+     "zh": "海南瑞泽11月4日快速上涨"
+    },
+    {
+     "title": "中恒电气11月4日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921887089.html",
+     "pubDate": "Wed, 04 Nov 2026 14:43:07 +0800",
+     "summary": "以下是 中恒电气 在北京时间11月4日14:43分盘口异动快照： 11月4日14点43分， 中恒电气 盘中打开涨停，现报24.49元，成交5.28亿元，换手率4.06%。该股之前于14点40分涨停。 分笔 14:43:00 24.49 1223↓ 14:42:57 24.68 383↓ 14:42:54 24.68 206↓ 14:42:51 24.68 40↓ 14:42:48 24.68 42↓ 14:42:45 24.68 61↓ 14:42:42 24.68 85↓ 14:42:39 24.68 89↓ 14:42:36 24.68 231↓ 14:42:33 24.68 77↓ 报价",
+     "source": "东方财富股票",
+     "zh": "中恒电气11月4日打开涨停"
+    },
+    {
+     "title": "多伦科技11月4日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921886989.html",
+     "pubDate": "Wed, 04 Nov 2026 14:43:07 +0800",
+     "summary": "以下是 多伦科技 在北京时间11月4日14:43分盘口异动快照： 11月4日， 多伦科技 盘中快速回调，5分钟内跌幅超过2%，截至14点43分，报7.2元，成交6.38亿元，换手率13.14%。 分笔 14:43:03 7.20 537↓ 14:43:00 7.20 360↓ 14:42:57 7.21 276↓ 14:42:54 7.22 255↓ 14:42:51 7.22 345↓ 14:42:48 7.22 659↓ 14:42:45 7.23 113↓ 14:42:42 7.23 128↓ 14:42:39 7.25 498↑ 14:42:36 7.24 180↓ 报价 卖五 7.2",
+     "source": "东方财富股票",
+     "zh": "多伦科技11月4日快速回调"
+    },
+    {
+     "title": "风华高科11月4日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921886870.html",
+     "pubDate": "Wed, 04 Nov 2026 14:42:59 +0800",
+     "summary": "以下是 风华高科 在北京时间11月4日14:42分盘口异动快照： 11月4日14点42分， 风华高科 盘中打开涨停，现报33.13元，成交28.83亿元，换手率8.03%。该股之前于14点34分涨停。 分笔 14:42:51 33.13 2753↓ 14:42:48 33.23 4135↓ 14:42:45 33.23 1822↓ 14:42:42 33.23 77↓ 14:42:39 33.23 86↓ 14:42:36 33.23 416↓ 14:42:33 33.23 377↓ 14:42:30 33.23 155↓ 14:42:27 33.23 87↓ 14:42:24 33.23 2",
+     "source": "东方财富股票",
+     "zh": "风华高科11月4日打开涨停"
+    },
+    {
+     "title": "宽基ETF午后成交放量，增量资金托底科技板块反弹",
+     "link": "http://stock.eastmoney.com/news/11622,202611043921890712.html",
+     "pubDate": "Wed, 04 Nov 2026 14:42:51 +0800",
+     "summary": "截至14时28分，沪深300ETF（515390）跟踪指数上涨2.18%，创业板50ETF（159949）跟踪指数上涨6.75%，科创50ETF（588280）跟踪指数上涨9.69%。成分股方面， 中科飞测 20cm涨停，荆拓科技上涨19.04%， 迈为股份 上涨18.18%。 消息面上，11月4日，从13:30开始，多只宽基ETF放量。截至13:50，多只宽基ETF在20分钟内成交额超过20亿元。从ETF市场走势看，截至14:00多只科创 半导体 主题ETF涨幅超10%。 从资金流入情况看，11月3日，股票型ETF单日净流入840亿元，创下此轮宽基ETF单日净流入新高。拉长时间看，这是股票型",
+     "source": "东方财富股票",
+     "zh": "宽基ETF午后成交放量，增量资金托底科技板块反弹"
+    },
+    {
      "title": "大买家撤了！“稳定币老大”Tether也开始卖黄金了",
      "link": "https://wallstreetcn.com/articles/3785124",
      "pubDate": "Wed, 04 Nov 2026 14:38:21 +0800",
@@ -2346,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Australian services PMI hits 7-month low of 48.5; Ai Group manufacturing index plunges"
     },
     {
-     "title": "创业板指涨幅扩大至4% 科创50指数涨逾5% 贵金属、高带宽内存、半导体领涨",
-     "link": "http://finance.eastmoney.com/news/1345,202611043921617857.html",
-     "pubDate": "Wed, 04 Nov 2026 13:49:41 +0800",
-     "summary": "创业板指涨幅扩大至4%，科创50指数涨逾5%， 贵金属 、 高带宽内存 、 半导体 、 存储芯片 、 先进封装 、 光刻机 、 电子 化学品领涨。 今日要闻 国家发改委：预计到“十五五”末 我国社会消费品零售总额达到60万亿元左右 11月4日，国家发展改革委召开奋进“十五五”系列新闻发布会，介绍夯实发展支撑有关情况。国家发展改革委经济贸易司副司长寇荣表示，预计到“十五五”末，我国流通业整体规模将持续扩大，社会消费品零售总额达到60万亿元左右，流通网络将更加健全。 最高50亿元！长鑫科技大幅上调回购金额 11月4日早上，长鑫科技发布《关于收到公司董事长提议增加回购股份金额的提示性公告》，公司董事",
-     "source": "东方财富资讯",
-     "zh": "创业板指涨幅扩大至4% 科创50指数涨逾5% 贵金属、高带宽内存、半导体领涨"
-    },
-    {
      "title": "James Talarico’s historic Texas Senate victory deals blow to Elon Musk",
      "link": "https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 05:37:26 GMT",
@@ -2410,38 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "伟伟道来 | 美军选前空袭，伊朗没有报复"
     },
     {
-     "title": "美国媒体预计民主党夺回参议院重掌国会",
-     "link": "http://finance.eastmoney.com/news/1345,202611043921486988.html",
-     "pubDate": "Wed, 04 Nov 2026 12:20:46 +0800",
-     "summary": "美国媒体预测，民主党夺回美国国会参议院控制权。稍早前，美媒预测民主党夺回国会众议院控制权。这意味着本次中期选举后，民主党重新掌控国会。 美国媒体预计民主党将夺回众议院多数席位 美国媒体3日晚预测，民主党将在此次中期选举中从共和党手中夺回多个众议院席位，重新掌控国会众议院。 东财图解·加点干货 （文章来源：新华社）",
-     "source": "东方财富资讯",
-     "zh": "美国媒体预计民主党夺回参议院重掌国会"
-    },
-    {
-     "title": "美股已进入“隐形熊市”？高盛警告：回调恐怕远未结束",
-     "link": "http://finance.eastmoney.com/news/1351,202611043921486290.html",
-     "pubDate": "Wed, 04 Nov 2026 11:59:26 +0800",
-     "summary": "近日， 高盛 分析师指出，尽管美股仍然处于历史高点附近，但其大部分成分股实际上已经深陷“熊市区间”——这一巨大反差表明，当前美股可能已经进入所谓“隐形熊市”状态。 而更加重要的一点是，上周美股多家科技巨头在公布财报后股价大幅下挫。 高盛 指出，这是本个AI热潮周期以来，首次出现美股巨头的强劲业绩不足以支撑股价的情况。而信用市场发出的信号警示，本轮美股的回调可能才刚刚开始。 美股已经陷入“隐形熊市” 尽管近期标普500指数有所走弱，但距离其近期历史高点仍仅相差约3%。但同时， 该指数成分股中有60%已经深陷熊市区间 ，即较近期高点回落超过20%。 高盛 欧洲、中东和非洲（EMEA）地区执行服务主",
-     "source": "东方财富资讯",
-     "zh": "美股已进入“隐形熊市”？高盛警告：回调恐怕远未结束"
-    },
-    {
-     "title": "马斯克重磅！太空算力高增潜力股曝光(附股)",
-     "link": "http://finance.eastmoney.com/news/11139,202611043921483461.html",
-     "pubDate": "Wed, 04 Nov 2026 11:55:14 +0800",
-     "summary": "周三太空 算力概念 股爆发， 中国卫星 、 电科蓝天 、 复旦微电 、 航天环宇 等多股上涨。 马斯克发声 太空算力里程碑落地 据界面新闻，马斯克预测到2029年，部署在近地轨道的 人工智能 与 云计算 处理能力将远远超过地面算力。据悉， SpaceX 已申请建设一个最多由100万颗卫星组成的轨道 数据中心 星座，运行高度介于500至2000公里，并计划与星链网络协同传输数据。 此外谷歌ProjectSuncatcher原型星于10月30日完成在轨AI推理验证。该原型星由谷歌与PlanetLabs联合研发，于10月1日随Transporter-18入轨，搭载4颗TrilliumTPU，算力对标",
-     "source": "东方财富资讯",
-     "zh": "马斯克重磅！太空算力高增潜力股曝光(附股)"
-    },
-    {
-     "title": "产业高景气+机构加仓！创新药表现强势 融资客最新抢筹这些股",
-     "link": "http://finance.eastmoney.com/news/11139,202611043921482678.html",
-     "pubDate": "Wed, 04 Nov 2026 11:54:05 +0800",
-     "summary": "创新药 概念11月4日早盘表现强势，板块中 金陵药业 、 桂林三金 涨停； 信诺维 、 凯莱英 、 百济神州 、 药明康德 、 皓元医药 等跟涨。 产业链持续高景气 在市场人士看来， 创新药 板块的强势，与我国当前 创新药 产业链，尤其创新药BD交易的持续火爆相关。 据国家药监局数据，2026年上半年我国创新药对外授权交易共81笔、总额约1100亿美元，已达2025年全年的八成、 创 历史新高 。 据医药魔方统计，前三季度创新药BD交易总额达1279.8亿美元、相当于去年全年的94.3%。 此外，今年以来，国内已有超30款肿瘤创新药获批，靶向药持续补齐KRAS G12C、EGFR 20ins、",
-     "source": "东方财富资讯",
-     "zh": "产业高景气+机构加仓！创新药表现强势 融资客最新抢筹这些股"
-    },
-    {
      "title": "我国首批33个和美海岛建设取得阶段性成效",
      "link": "http://www.eeo.com.cn/2026/1104/1083623.shtml",
      "pubDate": "Wed, 04 Nov 2026 11:45:12 +0800",
@@ -2456,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
      "source": "CNBC",
      "zh": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress"
-    },
-    {
-     "title": "国家统计局副局长毛盛勇：怎么看当前我国经济形势和发展走向",
-     "link": "http://finance.eastmoney.com/news/1344,202611043921478055.html",
-     "pubDate": "Wed, 04 Nov 2026 11:33:42 +0800",
-     "summary": "怎么看当前我国经济形势和发展走向 毛盛勇 2026年前三季度，我国经济顶住压力保持平稳运行，国内生产总值（GDP）同比增长4.6%，呈现动能向新、结构向优的发展态势。前三季度的经济成绩单充分说明，我国经济基础稳、优势多、韧性强、潜能大，实现“十五五”开局之年经济社会发展主要目标的基础扎实，经济持续健康发展具有坚实支撑。 一、经济增速保持在合理区间 今年以来，面对错综复杂的国际国内形势，我国经济顶压前行、稳中有进，动能向新、结构向优，展现出强大韧性与活力。前三季度，GDP达到107.1万亿元，同比增长4.6%。从这份来之不易的成绩单看，我国经济不仅实现了量的合理增长，更凸显了质的有效提升，高质量",
-     "source": "东方财富资讯",
-     "zh": "国家统计局副局长毛盛勇：怎么看当前我国经济形势和发展走向"
     },
     {
      "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",

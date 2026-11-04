@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 14:12:16",
+ "generated_at": "2026/11/4 14:32:10",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,46 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Efficient Computer’s Electron E1 processor adopted by edgeAI",
+     "link": "https://www.electronicsweekly.com/news/business/efficient-computers-electron-e1-processor-adopted-by-edgeai-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:15:42 +0000",
+     "summary": "Efficient Computer, the company claiming to build the world’s most energy-efficient processors, has announced that edgeAI has selected its Electron E1 processor to develop high-performance, energy-efficient solutions for physical AI […] The post Efficient Computer’s Electron E1 processor adopted by ",
+     "source": "Electronics Weekly",
+     "zh": "Efficient Computer’s Electron E1 processor adopted by edgeAI"
+    },
+    {
+     "title": "GPS-based speed limiters introduced on US roads",
+     "link": "https://www.electronicsweekly.com/news/business/speed-limiters-on-us-roads-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:12:27 +0000",
+     "summary": "The US has started deploying GPS-based speed-limiting devices on cars to prevent reckless drivers from exceeding speed limits. Convicted speed merchants will be given a choice: “Your license or a […] The post GPS-based speed limiters introduced on US roads appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "GPS-based speed limiters introduced on US roads"
+    },
+    {
+     "title": "Antenna for railway applications",
+     "link": "https://www.electronicsweekly.com/news/business/antenna-for-railway-applications-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:05:46 +0000",
+     "summary": "Taoglas, the RF and antenna specialist, has announced the MA8020 Raptor X, a railway-certified, multi-function antenna platform designed to support cellular, GNSS and Wi‑Fi® connectivity for rail applications. Built on […] The post Antenna for railway applications appeared first on Electronics Weekl",
+     "source": "Electronics Weekly",
+     "zh": "Antenna for railway applications"
+    },
+    {
+     "title": "Filtronic wins £1.9m DCMS contract",
+     "link": "https://www.electronicsweekly.com/news/business/filtronic-wins-1-9m-dcms-contract-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:04:59 +0000",
+     "summary": "Filtronic has been awarded a £1.9 million contract under the Contracts for Innovation: Advanced Connectivity Technologies (ACT) competition. Delivered by Innovate UK, part of UK Research and Innovation (UKRI), the […] The post Filtronic wins £1.9m DCMS contract appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Filtronic wins £1.9m DCMS contract"
+    },
+    {
+     "title": "Alliance adds to SDRAM line-up",
+     "link": "https://www.electronicsweekly.com/news/business/alliance-adds-to-sdram-line-up-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 06:04:47 +0000",
+     "summary": "Alliance Memory has expanded its offering of high-speed CMOS mobile low-power SDRAMs with new 4Gb LPDDR4 and 8Gb and 16Gb LPDDR4X devices that combine low power ratings with fast clock […] The post Alliance adds to SDRAM line-up appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Alliance adds to SDRAM line-up"
+    },
+    {
      "title": "High-speed optical communications drive demand for mSAP competition among Taiwan PCB makers",
      "link": "https://www.digitimes.com/news/a20261104PD217/communications-pcb-demand-hdi-data.html",
      "pubDate": "Wed, 4 Nov 2026 05:55:00 GMT",
@@ -304,6 +344,14 @@ window.INDUSTRY_DATA = {
      "summary": "Acer Intelligence Space (ITS) has gained traction in India's home appliance market by hiring a Bollywood star as its brand ambassador and combining competitive pricing with channel expansion. Strong demand for its air conditioners has prompted the company to plan additional major appliances, includi",
      "source": "DIGITIMES",
      "zh": "Acer Intelligence Space eyes India growth after strong appliance sales"
+    },
+    {
+     "title": "Top Ten (+10)  Semiconductor Companies In Q2",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-10-semiconductor-companies-in-q2-2-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 01:01:02 +0000",
+     "summary": "Thanks to Semiconductor Intelligence for this one – the top 20 semiconductor manufacturers in Q2 measured by revenue. The post Top Ten (+10) Semiconductor Companies In Q2 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Top Ten (+10)  Semiconductor Companies In Q2"
     },
     {
      "title": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?",
@@ -786,6 +834,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Oil Prices Rebound as Middle East Supply Fears Return",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
+     "pubDate": "Wed, 04 Nov 2026 00:15:00 -0600",
+     "summary": "Crude oil prices, which fell to their lowest in four weeks, staged a rebound earlier today, as traders shifted their attention from the U.S. midterms to the Middle East, awaiting the next step in the war. Benchmarks dropped sharply on Tuesday on reports that Iran may be open to discussions on previo",
+     "source": "OilPrice",
+     "zh": "Oil Prices Rebound as Middle East Supply Fears Return"
+    },
+    {
      "title": "Flexing their intelligence",
      "link": "https://www.pv-magazine.com/2026/11/04/flexing-their-intelligence/",
      "pubDate": "Wed, 04 Nov 2026 05:00:00 +0000",
@@ -896,14 +952,6 @@ window.INDUSTRY_DATA = {
      "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by 5.267 million barrels in the week ending October 30. In the week prior, US crude oil inventories fell by a staggering 2.031 million barrels. Commercial crude oil inventories excluding the SPR hav",
      "source": "OilPrice",
      "zh": "US Crude Oil Inventories Still in Freefall"
-    },
-    {
-     "title": "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat",
-     "link": "https://oilprice.com/Energy/Energy-General/Africa-Launches-5-Billion-Energy-Bank-as-Western-Lenders-Retreat.html",
-     "pubDate": "Tue, 03 Nov 2026 16:00:00 -0600",
-     "summary": "Africa needs $200 billion in annual energy investment, according to the Independent Petroleum Producers Group (IPPG). Around 600 million people across Africa lack access to electricity, a problem that could quickly intensify as sub-Saharan Africa rapidly grows, develops, and industrializes. The regi",
-     "source": "OilPrice",
-     "zh": "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat"
     },
     {
      "title": "The Senate permitting bill holds promise but needs amendments",
@@ -1690,6 +1738,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "India-based EloElo, whose Story TV microdrama app has 33M+ estimated active users, raised an $80M Series C from Hornbill Capital and NBCU at a $500M valuation (Ivan Mehta/TechCrunch)",
+     "link": "https://www.techmeme.com/261104/p4#a261104p4",
+     "pubDate": "Wed, 04 Nov 2026 01:25:00 -0500",
+     "summary": "Ivan Mehta / TechCrunch : India-based EloElo, whose Story TV microdrama app has 33M+ estimated active users, raised an $80M Series C from Hornbill Capital and NBCU at a $500M valuation &nbsp; &mdash;&nbsp; More than 118 million users watch microdramas every month as the serialized format has taken o",
+     "source": "Techmeme",
+     "zh": "India-based EloElo, whose Story TV microdrama app has 33M+ estimated active users, raised an $80M Series C from Hornbill Capital and NBCU at a $500M valuation (Ivan Mehta/TechCrunch)"
+    },
+    {
+     "title": "CrowdStrike 造出“终止开关”，宣称能立即阻止失控 AI 智能体",
+     "link": "https://www.ithome.com/1/022/112.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:23:38 GMT",
+     "summary": "IT之家 11 月 4 日消息，当地时间 3 日，据美国 CNBC 报道，网络安全公司 CrowdStrike 的 CEO 乔治 · 库尔茨宣称，公司推出了一项新功能，可以直接关停失控的 AI 智能体。 CrowdStrike 在 Fal.Con 欧洲大会上发布了“AI 终止开关”，安全人员可以借此 停止异常智能体的运行、阻止其重新启动，并切断其网络访问权限 。 库尔茨表示：“大家都在开发 AI 智能体，却一直没有关闭它们的按钮。现在有了。这样对确保 AI 智能体安全运行极为重要。” “AI 终止开关”属于 CrowdStrike 旗下 Falcon Guardian 平台的功能，该平台负责监",
+     "source": "IT之家",
+     "zh": "CrowdStrike 造出“终止开关”，宣称能立即阻止失控 AI 智能体"
+    },
+    {
+     "title": "高山遇流水，德国制造与中国新能源会创造“超合体”嘛",
+     "link": "https://www.huxiu.com/article/4902892.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 14:20:28 +0800",
+     "summary": "本文来自微信公众号： LinkedIn领英 ，作者：Danielle “Feng，我在看你们的报价分解，我觉得你们的利润比例放的太低了。” 精进电动销售总经理郝锋至今还记得，在2020年，他们进入到大众集团一次重要招标的最后阶段时，德国项目负责人对他说的话。郝锋在传统汽车行业和新能源行业里工作了近20年，经历过上百次项目招标，这是他第一次遇到有甲方要让供应商提价，而不是砍价。 当时，德国大众旗下的商用车品牌Traton（旗下有“德国雄狮”之称的曼恩，和斯堪尼亚两个品牌）正在为其重型卡车所需的控制器产品开展项目招标。曼恩是欧洲最老牌的工业企业之一，后被大众集团收购并纳入Traton集团。 这个项",
+     "source": "虎嗅",
+     "zh": "高山遇流水，德国制造与中国新能源会创造“超合体”嘛"
+    },
+    {
+     "title": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump&apos;s policy agenda for AI infrastructure and crypto (Bloomberg)",
+     "link": "https://www.techmeme.com/261104/p3#a261104p3",
+     "pubDate": "Wed, 04 Nov 2026 01:15:04 -0500",
+     "summary": "Bloomberg : A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto &nbsp; &mdash;&nbsp; Global markets pared a selloff sparked by a Democratic sweep of the US Congress, as investors weighed tough",
+     "source": "Techmeme",
+     "zh": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump&apos;s policy agenda for AI infrastructure and crypto (Bloomberg)"
+    },
+    {
+     "title": "Meta 举债融资 150 亿美元，此前有消息称其还将发行欧元债券",
+     "link": "https://www.ithome.com/1/022/077.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:12:52 GMT",
+     "summary": "IT之家 11 月 4 日消息，Meta 当地时间本月 3 日宣布将发行五部分共 150 亿美元 （IT之家注：现汇率约合 1,002.61 亿元人民币） 优先票据： 2031 年到期（5 年期）：32.5 亿美元，收益率 5.85%； 2033 年到期（7 年期）：32.5 亿美元，收益率 6.25%； 2036 年到期（10 年期）：40 亿美元，收益率 6.55%； 2046 年到期（20 年期）：17.5 亿美元，收益率 7.35%； 2056 年到期（30 年期）：27.5 亿美元，收益率 7.5%。 知情人士指出，Meta 此轮发行的 30 年期债券收益率较美国国债高出 2.2 个",
+     "source": "IT之家",
+     "zh": "Meta 举债融资 150 亿美元，此前有消息称其还将发行欧元债券"
+    },
+    {
+     "title": "天猫双 11 运动疯狂日：骆驼 / 熊猫 / 企鹅等户外装备狂促，单品至高补贴 200 元",
+     "link": "https://www.ithome.com/1/022/076.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:12:14 GMT",
+     "summary": "天猫双 11 狂欢进行中，11 月 2 日 ~5 日天猫运动疯狂日，单品至高补贴 200 元（淘礼金红包），叠加优惠券 / 红包狂促 + 消费券 / 加补券凑单到手价更低， 点此前往运动疯狂日 。 ▼ 部分活动商品（需按以下步骤操作）： 1、淘宝 App 点击右上角三个点 → 点击右下角淘金币 → 我的足迹找到商品，可用更大额度淘金币抵扣； 2、* 88VIP 加入购物车后点击下方凑单可用满 200-25/480-60/1500-180 元专享消费券，到手价更低。（非 88VIP 前往 领券中心 也可领取不定额消费券以及品类加补券） 天猫 三防外壳 + 抗静电内胆，骆驼 3514 经典 3.0",
+     "source": "IT之家",
+     "zh": "天猫双 11 运动疯狂日：骆驼 / 熊猫 / 企鹅等户外装备狂促，单品至高补贴 200 元"
+    },
+    {
      "title": "Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)",
      "link": "https://www.techmeme.com/261104/p2#a261104p2",
      "pubDate": "Wed, 04 Nov 2026 01:05:02 -0500",
@@ -1712,6 +1808,22 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 4 日消息，受益于日元贬值和高利润率混动汽车的强劲需求，丰田汽车预计将在周四公布 六个季度以来首次营业利润增长 ，中国和中东市场销量下滑的影响有望得到抵消。 此外，去年同期影响利润的美国关税成本不再出现，也有助于改善丰田业绩。 根据伦敦证券交易所集团（LSEG）对 9 名分析师的调查，丰田汽车 7 月至 9 月的营业利润预计同比增长 18%，达到 9,920 亿日元 （IT之家注：现汇率约合 418.29 亿元人民币） 。 同期营业收入预计增长 8%，至 13.4 万亿日元 （现汇率约合 5,650.24 亿元人民币） 。 7 月至 9 月，丰田和雷克萨斯 全球销量略高于 ",
      "source": "IT之家",
      "zh": "六个季度以来首次：丰田汽车今年 Q3 营业利润有望恢复增长"
+    },
+    {
+     "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+     "pubDate": "Wed, 04 Nov 2026 06:00:30 +0000",
+     "summary": "Article URL: https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates Comments URL: https://news.ycombinator.com/item?id=50361936 Points: 27 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "US midterm elections 2026 live updates: Democrats win Senate control and edge"
+    },
+    {
+     "title": "50% Off DoorDash Promo Code | November 2026",
+     "link": "https://www.wired.com/story/doordash-promo-code/",
+     "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
+     "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+     "source": "WIRED",
+     "zh": "50% Off DoorDash Promo Code | November 2026"
     },
     {
      "title": "Hoka Coupon Codes: 30% Off in November 2026",
@@ -1738,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026"
     },
     {
-     "title": "50% Off DoorDash Promo Code | November 2026",
-     "link": "https://www.wired.com/story/doordash-promo-code/",
-     "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-     "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-     "source": "WIRED",
-     "zh": "50% Off DoorDash Promo Code | November 2026"
-    },
-    {
      "title": "Columbia Promo Codes: 15% Off | November 2026",
      "link": "https://www.wired.com/story/columbia-promo-code/",
      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
@@ -1754,12 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "Columbia Promo Codes: 15% Off | November 2026"
     },
     {
-     "title": "Hulu Promo Codes & Discounts: 20% Off in November 2026",
-     "link": "https://www.wired.com/story/hulu-promo-code/",
+     "title": "25% Off Adidas Promo Code | November 2026",
+     "link": "https://www.wired.com/story/adidas-promo-code/",
      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-     "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
+     "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
      "source": "WIRED",
-     "zh": "Hulu Promo Codes & Discounts: 20% Off in November 2026"
+     "zh": "25% Off Adidas Promo Code | November 2026"
     },
     {
      "title": "领克汽车宣布与运动员吴艳妮合作，领克 07GT 帕尔马紫调高定版即将上市",
@@ -1776,30 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months &nbsp; &mdash;&nbsp; Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they've order",
      "source": "Techmeme",
      "zh": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)"
-    },
-    {
-     "title": "曝华为子品牌星芒英文名 OSTA，旗下首款阔直板手机定名 OSTA O1 Pro",
-     "link": "https://www.ithome.com/1/022/046.htm",
-     "pubDate": "Wed, 04 Nov 2026 05:53:23 GMT",
-     "summary": "IT之家 11 月 4 日消息，博主 @数码闲聊站 今日爆料，华为子品牌星芒的英文名是 OSTA ，手机盒上也写的 OSTA，第一款阔直板手机叫 OSTA O1 Pro。 博主爆料提到，OSTA O1 Pro 可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+512GB/16+1TB 容量。 博主还曾爆料，某厂的阔直板手机采用 6.39 英寸 1.5K LTPS 直屏 ，屏幕比例看起来是 16:9.5，1.05mm± 极窄四等边，电源键改成了紫色，工程机还是跑道 Deco 设计，一台主攻线上的阔直板，定义相对更具性价比。 博主 @定焦数码 还爆料，OS",
-     "source": "IT之家",
-     "zh": "曝华为子品牌星芒英文名 OSTA，旗下首款阔直板手机定名 OSTA O1 Pro"
-    },
-    {
-     "title": "戴森 JH01 巡航气流冷暖净化器上市：制热、凉风、净化三合一，5199 元",
-     "link": "https://www.ithome.com/1/022/045.htm",
-     "pubDate": "Wed, 04 Nov 2026 05:51:11 GMT",
-     "summary": "IT之家 11 月 4 日消息，戴森官方今日宣布 JH01 巡航气流冷暖净化器全新上市，支持制热、凉风、净化三合一，官方定价为 5199 元。 这款空气净化器可实现 450L/s 的空气流速，支持设定加热温度高达 32°C，对比戴森上一代空气净化暖风器除醛效率提升至 3 倍、颗粒物净化效率提升至 2 倍。 它配备了 360° 双效滤网、360° 活性炭滤网，支持双效除醛（吸附 + 分解）、去除宠物异味，H1N1 病毒、人冠状病毒 229E、肠道病毒 EV71、猫杯状病毒 4 种病毒去除率大于 99.99%，大肠杆菌、金黄色葡萄球菌、肺炎链球菌 3 种细菌去除率大于 99.99%，尘螨过敏原、猫",
-     "source": "IT之家",
-     "zh": "戴森 JH01 巡航气流冷暖净化器上市：制热、凉风、净化三合一，5199 元"
-    },
-    {
-     "title": "影石 Insta360 Ace Pro 3 相机渲染图曝光：八角徕卡镜头外壳，电池容量增 25%",
-     "link": "https://www.ithome.com/1/022/044.htm",
-     "pubDate": "Wed, 04 Nov 2026 05:46:48 GMT",
-     "summary": "IT之家 11 月 4 日消息，消息源 @Quadro_News 今天（11 月 4 日）在 X 平台发布推文， 分享了一组图片，展示了白色和黑色版本的影石 Insta360 Ace Pro 3 相机。 外观方面，最显眼的变化在于带有徕卡标识的八角形镜头外壳。颜色方面，在黑色和白色机身外，配有红色装饰设计。IT之家附上相关截图如下： 电池方面，根据美国联邦通信委员会（FCC）认证资料，型号 CINSABUA 的设备配备 2250mAh 电池，额定能量为 8.71Wh。按照报道列出的数据，相比 Ace Pro 2 的 1800mAh，电池容量增加 25%。 影像方面，消息称 Ace Pro 3 ",
-     "source": "IT之家",
-     "zh": "影石 Insta360 Ace Pro 3 相机渲染图曝光：八角徕卡镜头外壳，电池容量增 25%"
     },
     {
      "title": "猫贷中的“贷”与“猫”",
@@ -1896,38 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 底线思维 ，作者：陈相秒 近来，菲律宾利用担任东盟轮值主席国的身份便利，召集东盟防长扩大会海上安全专家工作组，在黄岩岛附近海域举行所谓“八国联合演习”。 菲律宾防长特奥多罗又设置重重障碍，阻挠中方参加东盟防长扩大会议，最后中方降级派员参会。这是中方参加该机制16年来首次降级参会。会议期间，菲律宾联合美国、日本、澳大利亚，举行四国防长会议（Squad）。会议现场的讨论形成了两种截然不同的声音，东盟坚持中心地位和多边对话，与美国提出的建立新的“美-东盟防务合作框架”、强化第一岛链等对抗性思路，形成鲜明对比。 与此同时，南海地区安全架构正由量变转向质变，原本东盟主导的多边主义安",
      "source": "虎嗅",
      "zh": "菲律宾甘当“世界军营”，南海安全架构正发生质变"
-    },
-    {
-     "title": "Q&A with Simile CEO Joon Sung Park on claims that its digital twins predict human behavior with 85%+ accuracy, its goal of simulating all 8B people, and more (Mario Gabriele/The Generalist)",
-     "link": "https://www.techmeme.com/261103/p49#a261103p49",
-     "pubDate": "Tue, 03 Nov 2026 23:40:01 -0500",
-     "summary": "Mario Gabriele / The Generalist : Q&A with Simile CEO Joon Sung Park on claims that its digital twins predict human behavior with 85%+ accuracy, its goal of simulating all 8B people, and more &nbsp; &mdash;&nbsp; Inside Simile with Joon Sung Park. &hellip; Before Joon Sung Park and I had ever met, h",
-     "source": "Techmeme",
-     "zh": "Q&A with Simile CEO Joon Sung Park on claims that its digital twins predict human behavior with 85%+ accuracy, its goal of simulating all 8B people, and more (Mario Gabriele/The Generalist)"
-    },
-    {
-     "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261103/p48#a261103p48",
-     "pubDate": "Tue, 03 Nov 2026 23:20:01 -0500",
-     "summary": "Xavier Martinez / Wall Street Journal : Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs &nbsp; &mdash;&nbsp; No drug designed by artificial intelligence has won FDA clearance, and pharma leader",
-     "source": "Techmeme",
-     "zh": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)"
-    },
-    {
-     "title": "Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering (Bloomberg)",
-     "link": "https://www.techmeme.com/261103/p47#a261103p47",
-     "pubDate": "Tue, 03 Nov 2026 22:55:01 -0500",
-     "summary": "Bloomberg : Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering &nbsp; &mdash;&nbsp; Meta Platforms Inc. raised $15 billion from a US dollar bond sale, drawing solid demand as it became the l",
-     "source": "Techmeme",
-     "zh": "Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering (Bloomberg)"
-    },
-    {
-     "title": "Jelly Sheet",
-     "link": "https://mrdoob.github.io/codevember-2026/01/",
-     "pubDate": "Wed, 04 Nov 2026 03:40:50 +0000",
-     "summary": "Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 53 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Jelly Sheet"
     }
    ]
   },
@@ -2186,6 +2234,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Troy Jackson defeats Susan Collins as Democrats flip Maine Senate seat",
+     "link": "https://seekingalpha.com/news/4664468-troy-jackson-defeats-susan-collins-as-democrats-flip-maine-senate-seat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 01:27:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Troy Jackson defeats Susan Collins as Democrats flip Maine Senate seat"
+    },
+    {
+     "title": "Block settles DOJ laundering probe for $964M",
+     "link": "https://seekingalpha.com/news/4664453-block-settles-doj-laundering-probe-for-964m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 01:26:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Block settles DOJ laundering probe for $964M"
+    },
+    {
+     "title": "CVS to split into two publicly traded companies - report",
+     "link": "https://seekingalpha.com/news/4664454-cvs-to-split-into-two-publicly-traded-companies---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 01:17:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CVS to split into two publicly traded companies - report"
+    },
+    {
+     "title": "Democrats win the Senate and close in on control of the House. Here’s what it means for your finances.",
+     "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 06:13:00 GMT",
+     "summary": "The results from the U.S. midterm elections are getting tabulated and look likely to have effects on Americans’ investments and their wallets.",
+     "source": "MarketWatch",
+     "zh": "Democrats win the Senate and close in on control of the House. Here’s what it means for your finances."
+    },
+    {
      "title": "Asian markets mixed as tech stocks slide and US midterm news weighs on equities",
      "link": "https://seekingalpha.com/news/4664464-asian-markets-mixed-as-tech-stocks-slide-and-us-midterm-news-weigh-on-equities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 01:02:55 -0500",
@@ -2242,6 +2322,14 @@ window.INDUSTRY_DATA = {
      "zh": "众生药业11月4日盘中涨停"
     },
     {
+     "title": "U.S. midterm elections in pictures: Democrats&apos; sweeping victories deliver rebuke to Trump",
+     "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+     "pubDate": "Wed, 04 Nov 2026 05:53:30 GMT",
+     "summary": "Democrats scored sweeping victories in the U.S. midterm elections on Wednesday, flipping key Republican-held seats in Congress.",
+     "source": "CNBC",
+     "zh": "U.S. midterm elections in pictures: Democrats&apos; sweeping victories deliver rebuke to Trump"
+    },
+    {
      "title": "Democrats eye scrutiny of Trump, Big Tech with new subpoena power after midterm wins",
      "link": "https://seekingalpha.com/news/4664459-democrats-eye-scrutiny-of-trump-big-tech-with-new-subpoena-power-after-midterm-wins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 00:52:03 -0500",
@@ -2258,14 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Australian services PMI hits 7-month low of 48.5; Ai Group manufacturing index plunges"
     },
     {
-     "title": "创业板指涨幅扩大至4% 科创50指数涨逾5% 贵金属、高带宽内存、半导体领涨",
-     "link": "http://finance.eastmoney.com/news/1345,202611043921617857.html",
-     "pubDate": "Wed, 04 Nov 2026 13:49:41 +0800",
-     "summary": "创业板指涨幅扩大至4%，科创50指数涨逾5%， 贵金属 、 高带宽内存 、 半导体 、 存储芯片 、 先进封装 、 光刻机 、 电子 化学品领涨。 今日要闻 国家发改委：预计到“十五五”末 我国社会消费品零售总额达到60万亿元左右 11月4日，国家发展改革委召开奋进“十五五”系列新闻发布会，介绍夯实发展支撑有关情况。国家发展改革委经济贸易司副司长寇荣表示，预计到“十五五”末，我国流通业整体规模将持续扩大，社会消费品零售总额达到60万亿元左右，流通网络将更加健全。 最高50亿元！长鑫科技大幅上调回购金额 11月4日早上，长鑫科技发布《关于收到公司董事长提议增加回购股份金额的提示性公告》，公司董事",
-     "source": "东方财富资讯",
-     "zh": "创业板指涨幅扩大至4% 科创50指数涨逾5% 贵金属、高带宽内存、半导体领涨"
-    },
-    {
      "title": "A股午后爆发：创业板大涨4%，科创50暴涨超5%，芯片半导体强势反弹，恒指涨1%，生物医药拉升",
      "link": "https://wallstreetcn.com/articles/3785133",
      "pubDate": "Wed, 04 Nov 2026 13:48:49 +0800",
@@ -2274,36 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "A股午后爆发：创业板大涨4%，科创50暴涨超5%，芯片半导体强势反弹，恒指涨1%，生物医药拉升"
     },
     {
-     "title": "Unilever eyes €1B in savings as post-spin-off restructuring gathers pace",
-     "link": "https://seekingalpha.com/news/4664452-unilever-eyes-1b-in-savings-as-post-spin-off-restructuring-gathers-pace?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:47:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Unilever eyes €1B in savings as post-spin-off restructuring gathers pace"
-    },
-    {
-     "title": "Ultragenyx outlines 2027 profitability plan with R&D under $350M and SG&A under $375M following GTX-102 discontinuation",
-     "link": "https://seekingalpha.com/news/4664467-ultragenyx-outlines-2027-profitability-plan-with-r-and-d-under-350m-and-sg-and-a-under-375m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:46:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ultragenyx outlines 2027 profitability plan with R&D under $350M and SG&A under $375M following GTX-102 discontinuation"
-    },
-    {
-     "title": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货反弹、AI板块重挫，美元下跌，美债上涨，韩股转涨",
+     "title": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货反弹，美债上涨，韩股转涨",
      "link": "https://wallstreetcn.com/articles/3785134",
      "pubDate": "Wed, 04 Nov 2026 13:44:18 +0800",
-     "summary": "民主党在美国中期选举的州长竞选中取得多项关键胜利，正寻求赢得全国多数州长席位，此举或将终结共和党长达十余年的地方优势。全球市场迅速作出反应，美股期货跌幅有所收窄，美元走低，美债价格上涨，亚洲股市反弹，韩股转涨。 据新华社 援引美国媒体3日预测，民主党不仅将在中期选举中夺得国会众议院控制权，还连续在多个关键州击败共和党获得国会参议院席位。 美国总统特朗普当天对《纽约时报》表示，“绝对愿意接受选举结果，准备与民主党合作，可能会达成某些东西”。 民主党在得克萨斯州、佐治亚州、俄亥俄州和艾奥瓦州等传统共和党重镇实现了历史性突破。其中，Gina Hinojosa 和 Keisha Lance Botto",
+     "summary": "民主党在美国中期选举的州长竞选中取得多项关键胜利，正寻求赢得全国多数州长席位，此举或将终结共和党长达十余年的地方优势。全球市场经历了剧烈的“先跌后涨”行情：美股期货一度跳水、纳指期货跌超2%，随后逐步收窄跌幅；美债全线走强，黄金重回4000美元上方，韩股由跌4%转为翻涨。 据新华社 援引美国媒体3日预测，民主党不仅将在中期选举中夺得国会众议院控制权，还连续在多个关键州击败共和党获得国会参议院席位。 美国总统特朗普当天对《纽约时报》表示，“绝对愿意接受选举结果，准备与民主党合作，可能会达成某些东西”。 民主党在得克萨斯州、佐治亚州、俄亥俄州和艾奥瓦州等传统共和党重镇实现了历史性突破。其中，Gin",
      "source": "华尔街见闻",
-     "zh": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货反弹、AI板块重挫，美元下跌，美债上涨，韩股转涨"
-    },
-    {
-     "title": "China’s services PMI misses expectations at 50.8 in October, composite PMI drops to 52.0",
-     "link": "https://seekingalpha.com/news/4664463-chinas-services-pmi-misses-expectations-at-508-in-october-composite-pmi-drops-to-520?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:38:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "China’s services PMI misses expectations at 50.8 in October, composite PMI drops to 52.0"
+     "zh": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货反弹，美债上涨，韩股转涨"
     },
     {
      "title": "James Talarico’s historic Texas Senate victory deals blow to Elon Musk",
@@ -2312,6 +2368,14 @@ window.INDUSTRY_DATA = {
      "summary": "Billionaire had ploughed $47mn into bankrolling Republican Ken Paxton’s campaign while fuelling conspiracy theories about his opponent",
      "source": "Financial Times",
      "zh": "James Talarico’s historic Texas Senate victory deals blow to Elon Musk"
+    },
+    {
+     "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
+     "link": "https://wallstreetcn.com/articles/3785146",
+     "pubDate": "Wed, 04 Nov 2026 13:23:36 +0800",
+     "summary": "民主党大胜中期选举，不仅夺回国会两院控制权，更在多个传统共和党票仓实现历史性突破。 据 央视新闻 ，美东时间11月3日深夜，据哥伦比亚广播公司消息，美国总统特朗普在与该媒体新闻频道的一次通话中，就民主党人在中期选举中取得的优势成果，向民主党方面表达了祝贺。特朗普说： “我向民主党人表示祝贺，并期待与你们合作，为我们国家的利益而努力。” 但同时， 特朗普也表示，他拥有完全的否决权 ——这意味着即便民主党掌控国会，特朗普仍可通过行使总统否决权迫使对方与其寻求跨党派妥协，白宫的政策主导权并未因选举结果而易手。 面对选举挫败，特朗普归因于伊朗战事。据 新华社 报道，特美国总统特朗普3日晚对美国媒体表示",
+     "source": "华尔街见闻",
+     "zh": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗"
     },
     {
      "title": "AI基础设施需求爆发，Arista营收增速刷新上市十年纪录，盘后大涨10%",
@@ -2346,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Democrats clinch majority in Senate as voters lash out at Trump’s Republicans"
     },
     {
-     "title": "Democrats win the Senate but control of the House is still up in the air. Here’s what it means for your finances.",
-     "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 04:46:00 GMT",
-     "summary": "The results from the U.S. midterm elections are getting tabulated and look likely to have effects on Americans’ investments and their wallets.",
-     "source": "MarketWatch",
-     "zh": "Democrats win the Senate but control of the House is still up in the air. Here’s what it means for your finances."
-    },
-    {
      "title": "Global stocks slide as Democratic wins stoke fears for AI boom",
      "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 04:39:01 GMT",
@@ -2362,12 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "Global stocks slide as Democratic wins stoke fears for AI boom"
     },
     {
-     "title": "伟伟道来 | 有惊无险：美军选前空袭，伊朗没有报复",
+     "title": "伟伟道来 | 美军选前空袭，伊朗没有报复",
      "link": "http://www.eeo.com.cn/2026/1104/1083722.shtml",
      "pubDate": "Wed, 04 Nov 2026 12:39:00 +0800",
      "summary": "不论美国中期选举结果如何，对于伊朗，美国是打还是谈，几乎全在特朗普的一念之间。没有人猜得透特朗普在想什么、想干什么。",
      "source": "经济观察网",
-     "zh": "伟伟道来 | 有惊无险：美军选前空袭，伊朗没有报复"
+     "zh": "伟伟道来 | 美军选前空袭，伊朗没有报复"
     },
     {
      "title": "“民主党拿下德州”加剧AI数据中心担忧，英伟达、CoreWeave盘后走低",
@@ -2378,52 +2434,44 @@ window.INDUSTRY_DATA = {
      "zh": "“民主党拿下德州”加剧AI数据中心担忧，英伟达、CoreWeave盘后走低"
     },
     {
-     "title": "SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力",
-     "link": "https://wallstreetcn.com/articles/3785131",
-     "pubDate": "Wed, 04 Nov 2026 12:26:02 +0800",
-     "summary": "11月3日，半导体研究机构SemiAnalysis创始人兼CEO Dylan Patel在Runtime 2026上发表演讲，主题是算力、资本，以及谁能真正把算力交付出去。 他表示，OpenAI和Anthropic正在大量预订算力，以2027年为例，两家拿走的新增算力占比在25%到40%之间。在需求挤压下，英伟达H100数据中心芯片的一年期合约价，已从去年10月低点的每小时1.70美元涨到2.80美元左右。对其他公司来说，买得起算力，不等于拿得到算力。 资金端同样吃紧：近两个月美债收益率大幅上升，10年期收益率10月初已升至5%以上，靠借钱建机房的新兴云厂商越来越难融到资。 这场演讲发生在An",
-     "source": "华尔街见闻",
-     "zh": "SemiAnalysis拆解算力荒：OpenAI与Anthropic正在抢光全球新增算力"
-    },
-    {
-     "title": "美国媒体预计民主党夺回参议院重掌国会",
-     "link": "http://finance.eastmoney.com/news/1345,202611043921486988.html",
-     "pubDate": "Wed, 04 Nov 2026 12:20:46 +0800",
-     "summary": "美国媒体预测，民主党夺回美国国会参议院控制权。稍早前，美媒预测民主党夺回国会众议院控制权。这意味着本次中期选举后，民主党重新掌控国会。 美国媒体预计民主党将夺回众议院多数席位 美国媒体3日晚预测，民主党将在此次中期选举中从共和党手中夺回多个众议院席位，重新掌控国会众议院。 东财图解·加点干货 （文章来源：新华社）",
-     "source": "东方财富资讯",
-     "zh": "美国媒体预计民主党夺回参议院重掌国会"
-    },
-    {
-     "title": "美股已进入“隐形熊市”？高盛警告：回调恐怕远未结束",
-     "link": "http://finance.eastmoney.com/news/1351,202611043921486290.html",
-     "pubDate": "Wed, 04 Nov 2026 11:59:26 +0800",
-     "summary": "近日， 高盛 分析师指出，尽管美股仍然处于历史高点附近，但其大部分成分股实际上已经深陷“熊市区间”——这一巨大反差表明，当前美股可能已经进入所谓“隐形熊市”状态。 而更加重要的一点是，上周美股多家科技巨头在公布财报后股价大幅下挫。 高盛 指出，这是本个AI热潮周期以来，首次出现美股巨头的强劲业绩不足以支撑股价的情况。而信用市场发出的信号警示，本轮美股的回调可能才刚刚开始。 美股已经陷入“隐形熊市” 尽管近期标普500指数有所走弱，但距离其近期历史高点仍仅相差约3%。但同时， 该指数成分股中有60%已经深陷熊市区间 ，即较近期高点回落超过20%。 高盛 欧洲、中东和非洲（EMEA）地区执行服务主",
-     "source": "东方财富资讯",
-     "zh": "美股已进入“隐形熊市”？高盛警告：回调恐怕远未结束"
-    },
-    {
-     "title": "马斯克重磅！太空算力高增潜力股曝光(附股)",
-     "link": "http://finance.eastmoney.com/news/11139,202611043921483461.html",
-     "pubDate": "Wed, 04 Nov 2026 11:55:14 +0800",
-     "summary": "周三太空 算力概念 股爆发， 中国卫星 、 电科蓝天 、 复旦微电 、 航天环宇 等多股上涨。 马斯克发声 太空算力里程碑落地 据界面新闻，马斯克预测到2029年，部署在近地轨道的 人工智能 与 云计算 处理能力将远远超过地面算力。据悉， SpaceX 已申请建设一个最多由100万颗卫星组成的轨道 数据中心 星座，运行高度介于500至2000公里，并计划与星链网络协同传输数据。 此外谷歌ProjectSuncatcher原型星于10月30日完成在轨AI推理验证。该原型星由谷歌与PlanetLabs联合研发，于10月1日随Transporter-18入轨，搭载4颗TrilliumTPU，算力对标",
-     "source": "东方财富资讯",
-     "zh": "马斯克重磅！太空算力高增潜力股曝光(附股)"
-    },
-    {
-     "title": "产业高景气+机构加仓！创新药表现强势 融资客最新抢筹这些股",
-     "link": "http://finance.eastmoney.com/news/11139,202611043921482678.html",
-     "pubDate": "Wed, 04 Nov 2026 11:54:05 +0800",
-     "summary": "创新药 概念11月4日早盘表现强势，板块中 金陵药业 、 桂林三金 涨停； 信诺维 、 凯莱英 、 百济神州 、 药明康德 、 皓元医药 等跟涨。 产业链持续高景气 在市场人士看来， 创新药 板块的强势，与我国当前 创新药 产业链，尤其创新药BD交易的持续火爆相关。 据国家药监局数据，2026年上半年我国创新药对外授权交易共81笔、总额约1100亿美元，已达2025年全年的八成、 创 历史新高 。 据医药魔方统计，前三季度创新药BD交易总额达1279.8亿美元、相当于去年全年的94.3%。 此外，今年以来，国内已有超30款肿瘤创新药获批，靶向药持续补齐KRAS G12C、EGFR 20ins、",
-     "source": "东方财富资讯",
-     "zh": "产业高景气+机构加仓！创新药表现强势 融资客最新抢筹这些股"
-    },
-    {
      "title": "我国首批33个和美海岛建设取得阶段性成效",
      "link": "http://www.eeo.com.cn/2026/1104/1083623.shtml",
      "pubDate": "Wed, 04 Nov 2026 11:45:12 +0800",
      "summary": "目前，首批33个和美海岛已实施14项海岛生态保护修复项目，系统开展典型生态系统、重要生态廊道、珍稀濒危和特有物种及其栖息地保护修复。",
      "source": "经济观察网",
      "zh": "我国首批33个和美海岛建设取得阶段性成效"
+    },
+    {
+     "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
+     "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+     "pubDate": "Wed, 04 Nov 2026 03:38:08 GMT",
+     "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
+     "source": "CNBC",
+     "zh": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress"
+    },
+    {
+     "title": "中国黄金协会：2026年前三季度我国黄金消费量同比增长0.28%，黄金首饰同比下降33.86%",
+     "link": "http://www.eeo.com.cn/2026/1104/1083598.shtml",
+     "pubDate": "Wed, 04 Nov 2026 11:29:19 +0800",
+     "summary": "中国黄金协会最新统计数据显示：2026年前三季度，我国黄金消费量684.623吨，同比增长0.28%。其中，黄金首饰178.612吨，同比下降33.86%。",
+     "source": "经济观察网",
+     "zh": "中国黄金协会：2026年前三季度我国黄金消费量同比增长0.28%，黄金首饰同比下降33.86%"
+    },
+    {
+     "title": "广东省发展改革委印发《广东省扩大消费实施方案》",
+     "link": "http://www.eeo.com.cn/2026/1104/1083578.shtml",
+     "pubDate": "Wed, 04 Nov 2026 11:15:43 +0800",
+     "summary": "据广东省发展改革委网站，11月3日，广东省发展改革委印发《广东省扩大消费实施方案》。",
+     "source": "经济观察网",
+     "zh": "广东省发展改革委印发《广东省扩大消费实施方案》"
+    },
+    {
+     "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+     "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 01:16:00 GMT",
+     "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
+     "source": "MarketWatch",
+     "zh": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 19:51:54",
+ "generated_at": "2026/11/4 20:11:57",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,14 @@ window.INDUSTRY_DATA = {
      "summary": "&nbsp; 智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月4日消息，今天凌晨， 美国云推理平台Fal称已完成13亿美元（约合人民币87.33亿元）F轮融资 ，投后估值达160亿美元（约合人民币1074.88亿元），该轮融资于今年10月完成。今年4月，其E轮估值为80亿美元（约合人民币537.44亿元），本轮融资后估值翻倍。 据彭博社报道，Fal计划将新资金用于采购更多算力，并扩充目前185人的团队。公司今年夏天一度因无法满足客户需求，不得不限制客户请求量。 本轮融资由 美国知名投资机构Bessemer Venture Partners领投，英伟达继续参投 。 Fal成立于2021年，",
      "source": "智东西",
      "zh": "又一千亿AI独角兽诞生！英伟达投的AI推理创企获87亿新融资"
+    },
+    {
+     "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+     "link": "https://www.qbitai.com/2026/11/507586.html",
+     "pubDate": "Wed, 04 Nov 2026 10:08:38 +0000",
+     "summary": "仅激活3B参数，十项基准全线提升！",
+     "source": "量子位",
+     "zh": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型"
     },
     {
      "title": "全球唯二，百度抢先交卷！首个物理AI世界模型来了",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "谁能把机器人变成整仓生产力？",
      "source": "机器之心",
      "zh": "具身智能的下一个主战场，为什么是「仓储物流」？"
-    },
-    {
-     "title": "便利店打工24小时后，智元两名机器人员工「转正」失败",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071984&idx=2&sn=0fa8db8b5270b28fa06cf816a062d61e",
-     "pubDate": "Tue, 03 Nov 2026 23:27:00 +0800",
-     "summary": "机器人在便利店的 24 小时直播结束了，但由真实场景牵引的机器人，才刚刚开始。",
-     "source": "机器之心",
-     "zh": "便利店打工24小时后，智元两名机器人员工「转正」失败"
     }
    ]
   },
@@ -497,6 +497,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Robots in society, business and culture: October 2026",
+     "link": "https://robohub.org/robots-in-society-business-and-culture-october-2026/",
+     "pubDate": "Wed, 04 Nov 2026 11:51:57 +0000",
+     "summary": "The biohybrid robot pushes off from the ground as soon as it is stimulated by an electrical impulse. Credit: Nature Communications (2026). By Emmet Cole In our monthly series, we showcase a selection of robotics stories from society, business, research and culture, as we track the field’s ongoing jo",
+     "source": "Robohub",
+     "zh": "Robots in society, business and culture: October 2026"
+    },
     {
      "title": "From human experience to robot action: LiberAI launches Liber-0 world-action model",
      "link": "https://roboticsandautomationnews.com/2026/11/04/from-human-experience-to-robot-action-liberai-launches-liber-0-world-action-model/106378/",
@@ -1074,6 +1082,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Novo won't launch CagriSema in Europe for 'a couple of years,' CFO says",
+     "link": "https://endpoints.news/novo-wont-launch-cagrisema-in-europe-for-a-couple-of-years-cfo-says/",
+     "pubDate": "Wed, 04 Nov 2026 12:03:29 +0000",
+     "summary": "Novo won't launch its big obesity hope CagriSema in Europe for another “couple of years,” as it will have to conduct new trials at European sites, Novo’s outgoing CFO Karsten Munk Knudsen ...",
+     "source": "Endpoints News",
+     "zh": "Novo won't launch CagriSema in Europe for 'a couple of years,' CFO says"
+    },
+    {
      "title": "AbbVie bets up to $1.47B on Nxera's gut-targeting IBD program",
      "link": "https://endpoints.news/abbvie-bets-up-to-1-47b-on-nxeras-gut-targeting-ibd-program/",
      "pubDate": "Wed, 04 Nov 2026 11:47:26 +0000",
@@ -1160,14 +1176,6 @@ window.INDUSTRY_DATA = {
      "summary": "The muscular dystrophy drug that Servier bought for $1.55 billion upfront has already failed its pivotal trial. The drug, called sevasemten, failed the primary and secondary endpoints in the GRAND CANYON pivotal ...",
      "source": "Endpoints News",
      "zh": "Servier's $1.5B bet on Edgewise drug fails five months in"
-    },
-    {
-     "title": "Bourla expects no changes to MFN deals after midterms",
-     "link": "https://endpoints.news/bourla-expects-no-changes-to-mfn-deals-after-midterms/",
-     "pubDate": "Tue, 03 Nov 2026 19:18:32 +0000",
-     "summary": "Pfizer CEO Albert Bourla said he doesn't expect likely Democratic gains in Congress to affect the pricing deals made between drug companies and the Trump White House. “I don't think that many things can move ...",
-     "source": "Endpoints News",
-     "zh": "Bourla expects no changes to MFN deals after midterms"
     },
     {
      "title": "Recursion Eyes H2 2027 Pivotal Trial for Lead Candidate After Positive Phase II FAP Data",
@@ -1730,12 +1738,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "首个：华为云智果 AgentArts 获中国信通院最高等级评级",
-     "link": "https://www.ithome.com/1/022/406.htm",
-     "pubDate": "Wed, 04 Nov 2026 11:46:44 GMT",
-     "summary": "IT之家 11 月 4 日消息，华为官方今日宣布，华为云智果 AgentArts 智能体平台近日顺利通过中国信通院组织的可信 AI 企业级智能体平台评估， 是首个通过该项测评，并获得当前最高等级（4+ 级）的产品 。 据介绍，本次评估依据《企业级智能体技术要求》，围绕企业级智能体平台的技术能力、应用能力和服务能力三方面展开，全面考察平台在智能体认知、规划、执行、业务集成、知识管理、运行维护及安全合规等方面的综合能力。 IT之家查询获悉，云智果（AgentArts）智能体平台是华为面向企业核心业务场景打造的智能体平台，支持多种框架（LangChain / LangGraph 或自研框架等）和模型",
+     "title": "京东宣布率先在行业内推出安装充电桩线缆“按米收费”：0 米起售，用多少米买多少米",
+     "link": "https://www.ithome.com/1/022/414.htm",
+     "pubDate": "Wed, 04 Nov 2026 12:08:20 GMT",
+     "summary": "IT 之家 11 月 4 日消息，京东发文，宣布率先在行业内推出新能源汽车充电桩线缆安装“按米收费”服务，消费者下单后由京东工程师上门开展专业勘测，根据现场实际布线长度核算费用，按需取用线缆，适配不同车位、电表距离，计费清晰透明。 京东表示，过去安装家用充电桩，大多采用固定长度线缆套包，常见规格有 10 米、20 米、30 米。比如实际布线只需要 15 米，却只能购买 20 米套包，多余线缆用不上还要照样花钱。 而平台此次上线的“按米收费”服务，主打“线缆用多少买多少，支持 0 米起售”，消费者充电桩距离车位如只需 1 米线缆，也可按此安装并收费，将选择权交还给用户，可告别固定套包带来的预算不",
      "source": "IT之家",
-     "zh": "首个：华为云智果 AgentArts 获中国信通院最高等级评级"
+     "zh": "京东宣布率先在行业内推出安装充电桩线缆“按米收费”：0 米起售，用多少米买多少米"
+    },
+    {
+     "title": "格罗方德 2026 财年第三财季归母亏损 2.7 亿美元，同比下降 208%",
+     "link": "https://www.ithome.com/1/022/413.htm",
+     "pubDate": "Wed, 04 Nov 2026 12:04:40 GMT",
+     "summary": "IT之家 11 月 4 日消息，格罗方德今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：18.99 亿美元 （IT之家注：现汇率约合 126.93 亿元人民币） ，同比增长 13%，环比增长 6% 毛利润 ：5.71 亿美元 （现汇率约合 38.17 亿元人民币） ，同比增长 36%，环比增长 13% 毛利率 ：30.1% 归母净利润 ：-2.7 亿美元 （现汇率约合 -18.05 亿元人民币） ，同比下降 208%，环比下降 262% 经营现金流 ：3.41 亿美元 （现汇率约合 22.79 ",
+     "source": "IT之家",
+     "zh": "格罗方德 2026 财年第三财季归母亏损 2.7 亿美元，同比下降 208%"
+    },
+    {
+     "title": "上海警方：两人使用“外挂”软件代拍演出活动门票非法牟利，被依法刑拘",
+     "link": "https://www.ithome.com/1/022/411.htm",
+     "pubDate": "Wed, 04 Nov 2026 12:00:59 GMT",
+     "summary": "IT之家 11 月 4 日消息，据澎湃新闻报道，近日，两名男子因使用“外挂”软件代拍演出活动门票非法牟利，被上海警方依法刑事拘留。 经查，自今年 10 月起，余某、冯某分别在网络平台、朋友圈发布演出活动门票代抢揽客信息，并约定以收取服务费的方式加价出售。两人各自操控多部手机接入票务平台，通过非法“外挂”软件实施快速抢票并非法获利。目前，案件正在进一步办理中。 警方提示，消费者应当通过官方平台预约，勿轻信网络有偿代抢宣传，不向陌生人提供个人信息及私下转账。",
+     "source": "IT之家",
+     "zh": "上海警方：两人使用“外挂”软件代拍演出活动门票非法牟利，被依法刑拘"
+    },
+    {
+     "title": "Canva lays off over 1,200 people amid slowing growth",
+     "link": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+     "pubDate": "Wed, 04 Nov 2026 11:59:00 +0000",
+     "summary": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+     "source": "TechCrunch",
+     "zh": "Canva lays off over 1,200 people amid slowing growth"
+    },
+    {
+     "title": "支持一键微信通话：小米智能摄像机 4 Pro 329 → 252 元直降，老人小孩轻松使用",
+     "link": "https://www.ithome.com/1/022/409.htm",
+     "pubDate": "Wed, 04 Nov 2026 11:58:58 GMT",
+     "summary": "小米智能摄像机 4 Pro 今年 10 月 13 日发售，首发价为 329 元。 今日京东政府补贴后仅需 252 元，支持一键微信通话： 京东 小米 智能摄像机 4 Pro 一键微信通话 800 万像素 国补后 252 元 领 40 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 据小米官方介绍，这款摄像机新品新增实体通话按键，轻触按键即可快速呼叫，操作门槛低；还支持一键微信通话，支持 OK 手势呼叫，可在摄像机与手机微信、米家 App 之间实现双向通话。 新品搭载 800 万像素 4K 传感器，分辨率达到 3840×2160，配备 4P 光学镜片与 ",
+     "source": "IT之家",
+     "zh": "支持一键微信通话：小米智能摄像机 4 Pro 329 → 252 元直降，老人小孩轻松使用"
+    },
+    {
+     "title": "奇瑞全新捷途自由者 7 燃油 SUV 上市，限时焕新价 8.99 万元起",
+     "link": "https://www.ithome.com/1/022/408.htm",
+     "pubDate": "Wed, 04 Nov 2026 11:56:52 GMT",
+     "summary": "IT之家 11 月 4 日消息，在今晚举行的全新捷途自由者 7 上市发布会上，奇瑞全新捷途自由者 7 正式上市，售价区间为 11.39-13.49 万元，限时焕新价 8.99-11.09 万元。 1.5TGDI 轻享：上市指导价 11.39 万元，限时焕新价 8.99 万元 1.5TGDI 舒享：上市指导价 12.39 万元，限时焕新价 9.99 万元 1.5TGDI 舒享 +：上市指导价 12.99 万元，限时焕新价 10.59 万元 1.5TGDI 尊享：上市指导价 13.49 万元，限时焕新价 11.09 万元 IT之家获悉，新车定位在捷途自由者 7 PLUS 之下，搭载 1.5T+7D",
+     "source": "IT之家",
+     "zh": "奇瑞全新捷途自由者 7 燃油 SUV 上市，限时焕新价 8.99 万元起"
+    },
+    {
+     "title": "一辆MEGA，装不稳理想的“高端”供应链",
+     "link": "https://www.huxiu.com/article/4903025.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 19:55:44 +0800",
+     "summary": "本文来自微信公众号： 资本不熬夜 ，作者：不熬夜研究院 一块十多分钟就能换完的屏幕，理想要让车主等到明年3月。 11月2日，理想汽车产品线负责人汤靖公布了新一代MEGA的交付调整。原本三星定制的29英寸OLED全景屏出现短期断货，受影响的车辆将先安装其他屏幕交付，等2027年3月1日起，再按交付顺序换回原装屏幕。 原本随一辆新车完成的交付，被拆成了提车和换屏两次履约。 就在屏幕调整公布前几天，另一批MEGA准车主刚收到电池调整通知：部分原定搭载宁德时代5C电池的订单无法正常交付，需要改用理想自研的电池。 一款起售价50.98万元的旗舰车型，在几天内连续修改电池和屏幕的交付方案。事情也从两家供应",
+     "source": "虎嗅",
+     "zh": "一辆MEGA，装不稳理想的“高端”供应链"
+    },
+    {
+     "title": "AI is forcing us to pay off 40 years of technical debt",
+     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+     "pubDate": "Wed, 04 Nov 2026 11:52:17 +0000",
+     "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 13 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "AI is forcing us to pay off 40 years of technical debt"
+    },
+    {
+     "title": "谷歌捣毁大型僵尸网络：合作厂商在 130 万台安卓机顶盒中植入后门牟利",
+     "link": "https://www.ithome.com/1/022/407.htm",
+     "pubDate": "Wed, 04 Nov 2026 11:50:05 GMT",
+     "summary": "IT之家 11 月 4 日消息，谷歌近日捣毁了一项大规模僵尸网络行动，涉事方是一家同时从事 OEM（原始设备制造商）和 ODM（原始设计制造商）业务的企业。 根据谷歌发布的博客文章，曾获得 Android TV 合作伙伴认证的视壮科技（Videostrong Technology Co.）故意在 130 万台电视机顶盒中植入后门，并将相关访问权限出售给犯罪团伙成员。借助这一后门，攻击者可以在受感染设备上安装隐藏软件，用于实施广告欺诈、搭建住宅代理网络，甚至远程向设备植入恶意软件，直接攻击终端用户。 谷歌在 Google Cloud 博客文章中表示：“视壮科技通过向犯罪团伙成员出售后门访问权限，",
+     "source": "IT之家",
+     "zh": "谷歌捣毁大型僵尸网络：合作厂商在 130 万台安卓机顶盒中植入后门牟利"
     },
     {
      "title": "Democrats&apos; US midterms victory is a win for hyperscalers and AI labs, a mixed bag for Nvidia, an advantage to China, and may make space data centers attractive (Ben Thompson/Stratechery)",
@@ -1744,14 +1816,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ben Thompson / Stratechery : Democrats' US midterms victory is a win for hyperscalers and AI labs, a mixed bag for Nvidia, an advantage to China, and may make space data centers attractive &nbsp; &mdash;&nbsp; Data Centers were on the ballot, and they lost in a major way; what does it mean if Americ",
      "source": "Techmeme",
      "zh": "Democrats&apos; US midterms victory is a win for hyperscalers and AI labs, a mixed bag for Nvidia, an advantage to China, and may make space data centers attractive (Ben Thompson/Stratechery)"
-    },
-    {
-     "title": "索尼 SIE 获澳洲消费者权益倡导组织 2026 年度“黑心奖”：取消生产实体光盘、数字游戏所有权争议性政策...",
-     "link": "https://www.ithome.com/1/022/405.htm",
-     "pubDate": "Wed, 04 Nov 2026 11:39:14 GMT",
-     "summary": "IT之家 11 月 4 日消息，澳大利亚消费者权益倡导组织 Choice 日前公布 2026 年度“黑心奖”（Shonky Award）获奖名单，索尼互动娱乐（SIE）因计划停止生产 PlayStation 实体游戏光盘，以及数字游戏所有权政策等问题入选。 Choice 首席执行官 Monique Perry 表示，索尼今年入选主要是因为该公司“要求消费者付费游玩游戏，却不让消费者真正拥有游戏”，依照索尼观念，消费者购买数字游戏后，实际上获得的只是访问和使用相关内容的授权，而非真正拥有数字内容。 公开信息显示，Choice 是一家非营利组织，每年都会举办“黑心奖”，旨在揭露当年表现不佳的产品，",
-     "source": "IT之家",
-     "zh": "索尼 SIE 获澳洲消费者权益倡导组织 2026 年度“黑心奖”：取消生产实体光盘、数字游戏所有权争议性政策..."
     },
     {
      "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
@@ -1786,36 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "白保国：以死谏国的55岁副教授"
     },
     {
-     "title": "安卓首款阔直板手机酷派 COOL X Wide 宣布延期发货，官方发布致歉说明",
-     "link": "https://www.ithome.com/1/022/386.htm",
-     "pubDate": "Wed, 04 Nov 2026 11:29:27 GMT",
-     "summary": "IT之家 11 月 4 日消息，安卓阵营首款阔直板手机 —— 酷派 Cool X Wide 已于 10 月底开启预约，原定 11 月 8 日开启现货发售。8GB+128GB 版本 999 元、8GB+256GB 版本 1199 元、12GB+256GB 版本 1399 元。 IT之家注意到，酷派京东自营旗舰店发布了一则《关于酷派 COOL X Wide 阔直板发货延期的致歉说明》。说明提到， 这款新机将推迟至 2026 年 11 月 15 日起陆续发货 。 此次发货延期，官方也为在 2026 年 11 月 8 日前购买一元权益包的用户进行权益升级： 新增一年只换不修权益、原一年延长保修升级为三",
-     "source": "IT之家",
-     "zh": "安卓首款阔直板手机酷派 COOL X Wide 宣布延期发货，官方发布致歉说明"
-    },
-    {
-     "title": "OpenAI CEO 奥尔特曼回应内存言论争议：称遭断章取义，希望扩大内存产能",
-     "link": "https://www.ithome.com/1/022/385.htm",
-     "pubDate": "Wed, 04 Nov 2026 11:28:33 GMT",
-     "summary": "IT之家 11 月 4 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）近日回应了外界对其一番言论的强烈批评。此前，他在一次采访中表示，个人电脑中配备内存，而不是将内存集中放在数据中心供人使用，这种做法在他看来“很糟糕”。 在接受 YouTube 博主 Cheeky Pint 采访时，奥尔特曼表示：“从全球资源分配的角度来看，让每个人的电脑里都存放着大量全球供应有限的 DRAM，而且这些内存 95% 的时间都处于闲置状态，实际上是相当糟糕的。如果要应对当前这种供应极其紧张的局面，就应该让云端资源得到最大程度的利用。但不知为何，很多人的直觉恰恰与此相反。” 这番言论迅速",
-     "source": "IT之家",
-     "zh": "OpenAI CEO 奥尔特曼回应内存言论争议：称遭断章取义，希望扩大内存产能"
-    },
-    {
      "title": "金隅物业，不认退场",
      "link": "https://www.huxiu.com/article/4903014.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 19:27:55 +0800",
      "summary": "本文来自微信公众号： 物业K线 ，作者：徐酒眠 上海内环内，一个物业费9.8元/平方米/月的高端盘，正在上演一场物业暗战。 10月26日，一张盖着红章的公告在业主群里流传。 发函方是北京金隅物业服务有限公司上海分公司，收函方是金隅外滩东岸业主委员会。 公告的核心意思很直接：业委会要求我方12月1日退出，我不认。理由包括业委会合法性存疑、选聘程序有被撤销的风险，以及“新物业合同尚未生效即要求退出，造成的损失谁来承担”。 这份公告只是冰山一角。 过去大半年里，这个2024年9月才交付的、813户的小区，已经从一个“网红盘”滑入了一场全方位的物业控制权争夺战。 业委会说物业在“赖场”，物业说业委会在",
      "source": "虎嗅",
      "zh": "金隅物业，不认退场"
-    },
-    {
-     "title": "终未等到《GTA 6》发售：25 岁重症游戏粉丝 Jerry 离世，社区玩家承诺用游戏 ID 纪念他",
-     "link": "https://www.ithome.com/1/022/382.htm",
-     "pubDate": "Wed, 04 Nov 2026 11:26:37 GMT",
-     "summary": "IT之家 11 月 4 日消息，据 4Gamers 报道《侠盗猎车手》系列粉丝 Jerry（网名 Void Only）于 2026 年 10 月 29 日因病去世，年仅 25 岁。他生前最大的愿望之一，就是能够玩到定于 11 月 19 日发售的《侠盗猎车手 6》（GTA 6），但最终未能等到游戏正式推出。 Jerry 多年来一直饱受间质性肺病困扰。今年 8 月，他在 TikTok 上分享自己的病情时表示，想要彻底治愈疾病就必须接受肺移植手术。他当时还透露， 自己最大的愿望就是能够亲自玩到期待已久的《GTA 6》 。他的故事随后引起游戏社区关注，不少玩家纷纷为他加油、捐款，希望他能够坚持到游戏发",
-     "source": "IT之家",
-     "zh": "终未等到《GTA 6》发售：25 岁重症游戏粉丝 Jerry 离世，社区玩家承诺用游戏 ID 纪念他"
     },
     {
      "title": "Analysis: SpaceX revises its 2027 data center capacity target up to a record ~13GW, roughly equivalent to all of Google&apos;s capacity from 1999-2026 in 1.5 years (SemiAnalysis)",
@@ -1842,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "瑞幸省下11亿配送费之后"
     },
     {
-     "title": "现代汽车展示自动加氢机器人，以及高耐久性燃料电池系统",
-     "link": "https://www.ithome.com/1/022/381.htm",
-     "pubDate": "Wed, 04 Nov 2026 11:16:55 GMT",
-     "summary": "IT之家 11 月 4 日消息，现代汽车集团首次展示了一款能够自动为氢燃料商用车加氢的机器人，同时公布了一套经过升级、旨在提高电堆耐久性的燃料电池系统。这两项技术均亮相于 2026 世界氢能博览会（World Hydrogen Expo 2026）。展会在韩国高阳市 KINTEX 会展中心举行，展示内容还涵盖兆瓦级电解制氢、废弃物制氢以及氢能轨道交通等领域相关技术与产品。 此次首次公开亮相的燃料电池系统采用了升级后的电池单元和相关组件，旨在提高系统耐久性，以满足卡车、公交车等商用车辆长距离行驶的需求。 自动加氢机器人则将用于为燃料电池清洁车加注氢气，帮助驾驶员免去重复性的加氢操作。此外，现代汽",
-     "source": "IT之家",
-     "zh": "现代汽车展示自动加氢机器人，以及高耐久性燃料电池系统"
-    },
-    {
      "title": "Google plans to spend $15B across 2027 and 2028 to expand its data center and cloud infrastructure in Malaysia, including building new computing hubs (Danial Azhar/Bloomberg)",
      "link": "https://www.techmeme.com/261104/p17#a261104p17",
      "pubDate": "Wed, 04 Nov 2026 06:15:29 -0500",
@@ -1858,12 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "Google plans to spend $15B across 2027 and 2028 to expand its data center and cloud infrastructure in Malaysia, including building new computing hubs (Danial Azhar/Bloomberg)"
     },
     {
-     "title": "一年获900万下载，AI口语陪练App霸榜印尼，“App工厂”勇闯教育赛道",
-     "link": "https://www.huxiu.com/article/4903006.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 19:11:53 +0800",
-     "summary": "本文来自微信公众号： 扬帆出海 ，作者：以南，编辑：火狐狸，制图：扬帆出海 长期以来，缺乏真实的对话场景一直是外语学习的最大痛点。如今，AI技术的爆发不仅填补了这一空白，大幅降低了口语对练的门槛，也顺势将“AI+口语”推向了语言教育赛道的风口。 从融资情况来看，AI口语训练赛道已经跑出多个获得高额融资的产品。除赛道内大家“耳熟能详”的Speak之外，主打AI虚拟外教的Praktika，于2024年5月完成3550万美元A轮融资；专注英语口语对话练习的Loora，则在2026年9月拿下2200万美元B轮融资，累计融资额达到4325万美元。 近期我们关注到，土耳其“AI App工厂”HubX推出的",
-     "source": "虎嗅",
-     "zh": "一年获900万下载，AI口语陪练App霸榜印尼，“App工厂”勇闯教育赛道"
+     "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+     "link": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+     "pubDate": "Wed, 04 Nov 2026 11:14:12 +0000",
+     "summary": "Article URL: https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver Comments URL: https://news.ycombinator.com/item?id=50363968 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver"
     },
     {
      "title": "Google says it expanded voluntary exit buyouts in June to employees across Canada, France, Germany, Japan, and Switzerland to manage costs amid huge AI spending (Reuters)",
@@ -1872,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reuters : Google says it expanded voluntary exit buyouts in June to employees across Canada, France, Germany, Japan, and Switzerland to manage costs amid huge AI spending &nbsp; &mdash;&nbsp; Alphabet's Google (GOOGL.O) has expanded employee buyout offers to several countries this year as it looks t",
      "source": "Techmeme",
      "zh": "Google says it expanded voluntary exit buyouts in June to employees across Canada, France, Germany, Japan, and Switzerland to manage costs amid huge AI spending (Reuters)"
-    },
-    {
-     "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
-     "link": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
-     "pubDate": "Wed, 04 Nov 2026 11:02:23 +0000",
-     "summary": "Article URL: https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb Comments URL: https://news.ycombinator.com/item?id=50363861 Points: 12 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb"
     },
     {
      "title": "Texas elects Democrats for governor and the US Senate for the first time in decades, creating uncertainty for its booming AI data center sector and Elon Musk (Nick Wingfield/The Information)",
@@ -1952,22 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "这又牵出AI办公竞争的另一面：公司要如何围绕任务协同，重组自身的能力与资源。",
      "source": "钛媒体",
      "zh": "为什么大家都学腾讯，把对手的模型请进来？"
-    },
-    {
-     "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
-     "link": "https://github.com/openai/codex/issues/59060",
-     "pubDate": "Wed, 04 Nov 2026 10:43:51 +0000",
-     "summary": "Article URL: https://github.com/openai/codex/issues/59060 Comments URL: https://news.ycombinator.com/item?id=50363717 Points: 24 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random"
-    },
-    {
-     "title": "最懂猪的巨头们，为什么套保了还是巨亏？",
-     "link": "https://www.tmtpost.com/8192542.html",
-     "pubDate": "Wed, 04 Nov 2026 18:43:38 +0800",
-     "summary": "期货套保能够对冲部分价格风险，但管理不了经营周期，成本、产能与现金流才是穿越周期的底牌。",
-     "source": "钛媒体",
-     "zh": "最懂猪的巨头们，为什么套保了还是巨亏？"
     }
    ]
   },
@@ -1977,6 +1985,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How to get access to Sonos AI features, as company aims to avoid another app disaster",
+     "link": "https://9to5mac.com/2026/11/04/how-to-get-access-to-sonos-ai-features-as-company-aims-to-avoid-another-app-disaster/",
+     "pubDate": "Wed, 04 Nov 2026 12:04:22 +0000",
+     "summary": "When Sonos tried a major app update two years ago, things did not go well. Much-loved features disappeared, older speakers experienced connection problems, and accessibility features were broken. That debacle saw the company’s CEO fired. The company is taking a much more cautious approach as it move",
+     "source": "9to5Mac",
+     "zh": "How to get access to Sonos AI features, as company aims to avoid another app disaster"
+    },
+    {
+     "title": "Cleaning your Google Photos library might soon take just one prompt",
+     "link": "https://www.androidauthority.com/google-photos-ask-photos-bulk-actions-apk-teardown-3731483/",
+     "pubDate": "Wed, 04 Nov 2026 11:57:49 +0000",
+     "summary": "Ask Photos could soon get an upgrade that could let you bulk delete and even batch edit photos.",
+     "source": "Android Authority",
+     "zh": "Cleaning your Google Photos library might soon take just one prompt"
+    },
+    {
+     "title": "Samsung’s mysterious Galaxy T1 fitness earbuds are getting ready for a US launch",
+     "link": "https://www.androidauthority.com/samsung-galaxy-t1-earbuds-fcc-certification-3731590/",
+     "pubDate": "Wed, 04 Nov 2026 11:50:13 +0000",
+     "summary": "New FCC certification documents offer a closer look at what's coming.",
+     "source": "Android Authority",
+     "zh": "Samsung’s mysterious Galaxy T1 fitness earbuds are getting ready for a US launch"
+    },
     {
      "title": "This upcoming Google Photos tool could let you lean into that grainy, film camera look",
      "link": "https://www.androidauthority.com/google-photos-image-adjustment-tools-apk-teardown-3731544/",
@@ -2018,28 +2050,12 @@ window.INDUSTRY_DATA = {
      "zh": "Xiaomi unveils the HyperOS 4 update rollout schedule"
     },
     {
-     "title": "Another major Android brand wants your next phone to be wider, not taller",
-     "link": "https://www.androidauthority.com/xiaomi-wide-slab-phone-3731491/",
-     "pubDate": "Wed, 04 Nov 2026 11:04:24 +0000",
-     "summary": "Xiaomi is reportedly cooking a wide-screen slab phone.",
-     "source": "Android Authority",
-     "zh": "Another major Android brand wants your next phone to be wider, not taller"
-    },
-    {
      "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
      "link": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
      "pubDate": "Wed, 04 Nov 2026 11:02:04 +0000",
      "summary": "Apple Music will launch 'Selfie Sing' with iOS 27.3.",
      "source": "Engadget",
      "zh": "Apple Music's upcoming feature will let you record yourself doing karaoke"
-    },
-    {
-     "title": "9 things to do on day one to keep any foldable alive longer",
-     "link": "https://www.androidauthority.com/foldable-phone-durability-and-protection-tips-3729982/",
-     "pubDate": "Wed, 04 Nov 2026 11:00:46 +0000",
-     "summary": "How to avoid mistakes that kill your foldable phone before its time.",
-     "source": "Android Authority",
-     "zh": "9 things to do on day one to keep any foldable alive longer"
     },
     {
      "title": "The Legend of Zelda: Ocarina of Time review: A masterpiece reborn",
@@ -2194,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "macOS 27.3 adds native Markdown rendering to Quick Look"
     },
     {
-     "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
-     "link": "https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/",
-     "pubDate": "Tue, 03 Nov 2026 21:58:58 +0000",
-     "summary": "Apple has updated its insider trading policy to explicitly prohibit employees from using confidential information to bet on prediction markets. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple now explicitly bans employees from using confidential information in prediction markets"
-    },
-    {
      "title": "The Sideload 050: The phones Samsung and Google won’t make",
      "link": "https://9to5google.com/2026/11/03/the-sideload-050-the-phones-samsung-and-google-wont-make/",
      "pubDate": "Tue, 03 Nov 2026 21:30:00 +0000",
@@ -2226,6 +2234,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "McDonald&apos;s earnings beat, but traffic to chain&apos;s U.S. restaurants falls",
+     "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+     "pubDate": "Wed, 04 Nov 2026 12:07:30 GMT",
+     "summary": "McDonald's stock has fallen about 11% over the last year.",
+     "source": "CNBC",
+     "zh": "McDonald&apos;s earnings beat, but traffic to chain&apos;s U.S. restaurants falls"
+    },
+    {
+     "title": "Shoals Technologies Non-GAAP EPS of $0.14 beats by $0.02, revenue of $195.3M beats by $33.3M",
+     "link": "https://seekingalpha.com/news/4664626-shoals-technologies-non-gaap-eps-of-0_14-beats-by-0_02-revenue-of-195_3m-beats-by-33_3m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 07:06:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Shoals Technologies Non-GAAP EPS of $0.14 beats by $0.02, revenue of $195.3M beats by $33.3M"
+    },
+    {
+     "title": "The Andersons to buy ethanol producer Harvestone Low Carbon Partners in $915M deal",
+     "link": "https://seekingalpha.com/news/4664573-the-andersons-to-buy-ethanol-producer-harvestone-low-carbon-partners-in-915m-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 07:06:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The Andersons to buy ethanol producer Harvestone Low Carbon Partners in $915M deal"
+    },
+    {
+     "title": "Google to invest $15B in Malaysia over two years",
+     "link": "https://seekingalpha.com/news/4664618-google-to-invest-15b-in-malaysia-over-two-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 07:05:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Google to invest $15B in Malaysia over two years"
+    },
+    {
+     "title": "Kraft Heinz beats Q3 street views, lifts FY2026 adjusted EPS outlook",
+     "link": "https://seekingalpha.com/news/4664622-kraft-heinz-beats-q3-street-views-lifts-fy2026-adjusted-eps-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 07:05:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kraft Heinz beats Q3 street views, lifts FY2026 adjusted EPS outlook"
+    },
+    {
+     "title": "Datadog beats top-line and bottom-line estimates; gives Q4 and updates FY26 outlook",
+     "link": "https://seekingalpha.com/news/4664625-datadog-beats-top-line-and-bottom-line-estimates-gives-q4-and-updates-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 07:04:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Datadog beats top-line and bottom-line estimates; gives Q4 and updates FY26 outlook"
+    },
+    {
+     "title": "BioCryst Pharmaceuticals GAAP EPS of $0.14 beats by $0.06, revenue of $180.29M beats by $14.61M",
+     "link": "https://seekingalpha.com/news/4664623-biocryst-pharmaceuticals-gaap-eps-of-014-beats-by-006-revenue-of-18029m-beats-by-1461m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 07:04:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BioCryst Pharmaceuticals GAAP EPS of $0.14 beats by $0.06, revenue of $180.29M beats by $14.61M"
+    },
+    {
+     "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
+     "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 11:59:00 GMT",
+     "summary": "The healthcare giant surprised analysts with the decision to separate its business.",
+     "source": "MarketWatch",
+     "zh": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup."
+    },
+    {
+     "title": "Trump admits Iran war hurt Republicans as blame game erupts",
+     "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1",
+     "pubDate": "Wed, 04 Nov 2026 11:57:14 GMT",
+     "summary": "Blame game erupts over the crushing defeat as Democrats punish incumbent administration for high cost of living",
+     "source": "Financial Times",
+     "zh": "Trump admits Iran war hurt Republicans as blame game erupts"
+    },
+    {
      "title": "CVS to split off drugstore business in major breakup of healthcare giant",
      "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
      "pubDate": "Wed, 04 Nov 2026 11:46:17 GMT",
@@ -2234,100 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "CVS to split off drugstore business in major breakup of healthcare giant"
     },
     {
-     "title": "FTC Solar reports Q3 results",
-     "link": "https://seekingalpha.com/news/4664593-ftc-solar-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 06:43:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FTC Solar reports Q3 results"
-    },
-    {
-     "title": "塔斯社：俄罗斯方面希望美国总统特朗普在选举后继续致力于和平努力",
-     "link": "http://hk.eastmoney.com/news/1533,202611043922109796.html",
-     "pubDate": "Wed, 04 Nov 2026 19:43:19 +0800",
-     "summary": "塔斯社：俄罗斯方面希望美国总统特朗普在选举后继续致力于和平努力。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "塔斯社：俄罗斯方面希望美国总统特朗普在选举后继续致力于和平努力"
-    },
-    {
-     "title": "法国经济与财政部长莱斯屈尔：法国必须实现2027年5%的赤字目标才能取信于人",
-     "link": "http://hk.eastmoney.com/news/1533,202611043922109682.html",
-     "pubDate": "Wed, 04 Nov 2026 19:43:00 +0800",
-     "summary": "法国经济与财政部长莱斯屈尔：法国必须实现2027年5%的赤字目标才能取信于人。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "法国经济与财政部长莱斯屈尔：法国必须实现2027年5%的赤字目标才能取信于人"
-    },
-    {
-     "title": "【调研快报】海创药业接待广发基金等20家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611043922108640.html",
-     "pubDate": "Wed, 04 Nov 2026 19:42:42 +0800",
-     "summary": "海创药业11月4日公告称， 10月1日至11月4日 接待广发基金 等20家机构 调研。 接待人员包括董事会秘书 刘杰,投资者关系 张翔宇。 公司就以下问题进行了回复： Q1: 公司整体战略与未来的展望? 答:公司始终坚持创新驱动发展战略,依托靶向蛋白降解(TPD)技术平台(包括PROTAC技术、分子胶降解技术等)、 氘代药物研发平台及转化医学技术平台三大核心平台,聚焦癌症、代谢性疾病及自身免疫性疾病/慢性炎症等具有重大市场潜力、临床需求迫切的治疗领域,构建了覆盖... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播",
-     "source": "东方财富股票",
-     "zh": "【调研快报】海创药业接待广发基金等20家机构调研"
-    },
-    {
-     "title": "法国经济与财政部长莱斯屈尔：没有理由修改法国2026年5.4%的赤字目标",
-     "link": "http://hk.eastmoney.com/news/1533,202611043922108741.html",
-     "pubDate": "Wed, 04 Nov 2026 19:42:35 +0800",
-     "summary": "法国经济与财政部长莱斯屈尔：没有理由修改法国2026年5.4%的赤字目标。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "法国经济与财政部长莱斯屈尔：没有理由修改法国2026年5.4%的赤字目标"
-    },
-    {
-     "title": "中东资金盯上这些标的 外资机构锚定中国AI产业机遇",
-     "link": "http://finance.eastmoney.com/news/1345,202611043922109540.html",
-     "pubDate": "Wed, 04 Nov 2026 19:41:51 +0800",
-     "summary": "随着A股三季报披露收官，海外长线资金的持仓动向浮出水面。Choice数据显示，截至三季度末，阿布扎比投资局、科威特政府投资局两大中东主权基金现身88只A股前十大流通股股东名单，并在三季度新进多只标的。 站在当下时点，外资机构认为，经过持续调整，A股估值逐步回归合理区间，叠加各项政策红利持续释放，市场中长期配置价值稳步抬升。 两大中东主权基金现身88只A股 Choice数据显示，截至三季度末，阿布扎比投资局现身78只个股前十大流通股股东名单，其中47只个股为三季度新进。 具体来看，截至三季度末，阿布扎比投资局新进成为 世纪华通 前十大流通股股东，持股数量为8828.73万股。最新发布的三季报显示",
-     "source": "东方财富股票",
-     "zh": "中东资金盯上这些标的 外资机构锚定中国AI产业机遇"
-    },
-    {
-     "title": "欧洲银行指数有望创下7个月来最大单日涨幅，上涨4.4%",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922108355.html",
-     "pubDate": "Wed, 04 Nov 2026 19:41:30 +0800",
-     "summary": "欧洲 银行 指数有望创下7个月来最大单日涨幅，上涨4.4%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "欧洲银行指数有望创下7个月来最大单日涨幅，上涨4.4%"
-    },
-    {
-     "title": "Wolfe Research points to upside for MSG Knickerbockers",
-     "link": "https://seekingalpha.com/news/4664589-wolfe-research-points-to-upside-for-msg-knickerbockers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 06:41:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wolfe Research points to upside for MSG Knickerbockers"
-    },
-    {
-     "title": "Westlake Chemical Partners reports Q3 results",
-     "link": "https://seekingalpha.com/news/4664592-westlake-chemical-partners-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 06:41:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Westlake Chemical Partners reports Q3 results"
-    },
-    {
-     "title": "TPG Mortgage Investment Trust GAAP EPS of $0.21 beats by $0.06",
-     "link": "https://seekingalpha.com/news/4664591-tpg-mortgage-investment-trust-gaap-eps-of-0_21-beats-by-0_06?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 06:40:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TPG Mortgage Investment Trust GAAP EPS of $0.21 beats by $0.06"
-    },
-    {
-     "title": "ESAB Non-GAAP EPS of $1.32 misses by $0.01, revenue of $825M beats by $38.33M",
-     "link": "https://seekingalpha.com/news/4664588-esab-non-gaap-eps-of-1_32-misses-by-0_01-revenue-of-825m-beats-by-38_33m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 06:39:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ESAB Non-GAAP EPS of $1.32 misses by $0.01, revenue of $825M beats by $38.33M"
-    },
-    {
-     "title": "Cencora beats top-line and bottom-line estimates; gives FY2027 outlook",
-     "link": "https://seekingalpha.com/news/4664590-cencora-beats-top-line-and-bottom-line-estimates-gives-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 06:38:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cencora beats top-line and bottom-line estimates; gives FY2027 outlook"
+     "title": "Stocks rebound after Democrats’ sweep",
+     "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 11:37:26 GMT",
+     "summary": "US futures reverse early losses as analysts say divided government reduces policymaking risks",
+     "source": "Financial Times",
+     "zh": "Stocks rebound after Democrats’ sweep"
     },
     {
      "title": "SpaceX, Tesla fall over 4% on Democrats&apos; big win; AI stocks mixed",
@@ -2346,20 +2338,20 @@ window.INDUSTRY_DATA = {
      "zh": "特朗普中期选举受挫，反数据中心势力悄然崛起"
     },
     {
-     "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-     "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-     "pubDate": "Wed, 04 Nov 2026 11:20:46 GMT",
-     "summary": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
-     "source": "CNBC",
-     "zh": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy"
-    },
-    {
      "title": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
      "link": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
      "pubDate": "Wed, 04 Nov 2026 11:10:00 GMT",
      "summary": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
      "source": "MarketWatch",
      "zh": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep"
+    },
+    {
+     "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+     "link": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+     "pubDate": "Wed, 04 Nov 2026 10:54:53 GMT",
+     "summary": "Elon Musk's $474 million election gamble falters as Democrats threaten his Texas empire.",
+     "source": "CNBC",
+     "zh": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire"
     },
     {
      "title": "泰国要抬高纯电车进口门槛了",
@@ -2434,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill"
     },
     {
-     "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-     "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 09:30:00 GMT",
-     "summary": "The chip maker is showing “real” revenue from artificial intelligence, shrugging off sustainability concerns and leading to an upbeat forecast.",
-     "source": "MarketWatch",
-     "zh": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade"
-    },
-    {
      "title": "Iceland prepares for domestic account-to-account payments infrastructure",
      "link": "https://www.finextra.com/newsarticle/48698/iceland-prepares-for-domestic-account-to-account-payments-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Wed, 04 Nov 2026 09:30:00 GMT",
@@ -2464,6 +2448,30 @@ window.INDUSTRY_DATA = {
      "summary": "Elon Musk's spending may have become a liability as voters in exit polls raised concerns about government corruption and the growing influence of billionaires.",
      "source": "CNBC",
      "zh": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans"
+    },
+    {
+     "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
+     "link": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 08:34:14 GMT",
+     "summary": "Democrats take Congress as Republicans defeated in midterm races from Texas to Georgia",
+     "source": "Financial Times",
+     "zh": "Americans deliver stunning rebuke to Trump as blue wave sweeps country"
+    },
+    {
+     "title": "The great humbling of Donald Trump",
+     "link": "https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 07:23:18 GMT",
+     "summary": "Midterm elections defeat marked a savage rejection from across the country of the president, his allies and his second-term agenda",
+     "source": "Financial Times",
+     "zh": "The great humbling of Donald Trump"
+    },
+    {
+     "title": "Five takeaways from the midterm results",
+     "link": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 07:21:14 GMT",
+     "summary": "Democrats record broad gains from almost all demographic groups",
+     "source": "Financial Times",
+     "zh": "Five takeaways from the midterm results"
     }
    ]
   },
@@ -2473,6 +2481,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
+     "link": "https://www.sciencenews.org/article/scientist-maps-food-chemicals-sn10",
+     "pubDate": "Wed, 04 Nov 2026 12:00:00 +0000",
+     "summary": "Giulia Menichetti is exploring how food’s vast chemical complexity may shape the microbiome and human health.",
+     "source": "Science News",
+     "zh": "Food contains thousands of overlooked chemicals. This physicist is mapping them"
+    },
     {
      "title": "Southern Taurid meteor shower could bring fireballs ‪this week —‬ when and where to look",
      "link": "https://www.livescience.com/space/meteoroids/southern-taurid-meteor-shower-could-bring-fireballs-this-week-when-and-where-to-look",
@@ -2704,14 +2720,6 @@ window.INDUSTRY_DATA = {
      "summary": "The findings indicate where adaptive measures are needed most around the United States.",
      "source": "MIT News",
      "zh": "Study pinpoints states with steepest warming trends since 1980"
-    },
-    {
-     "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-     "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
-     "pubDate": "Fri, 30 Oct 2026 18:13:42 +0000",
-     "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
-     "source": "Ars Technica Science",
-     "zh": "Rare meteorite from Mars gives us a view into its ancient crust"
     }
    ]
   }

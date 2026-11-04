@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/4 21:31:52",
+ "generated_at": "2026/11/4 21:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "European Gas Prices Fall 2% as Traders Wait on Trump’s Next Move in Iran",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Fall-2-as-Traders-Wait-on-Trumps-Next-Move-in-Iran.html",
+     "pubDate": "Wed, 04 Nov 2026 07:30:00 -0600",
+     "summary": "European benchmark natural gas prices fell in the early morning on Wednesday, as traders brace for what will happen next in Iran after U.S. President Donald Trump lost Republican control of both chambers of Congress in the midterm elections on Tuesday. The front-month price at the Dutch Title Transf",
+     "source": "OilPrice",
+     "zh": "European Gas Prices Fall 2% as Traders Wait on Trump’s Next Move in Iran"
+    },
+    {
      "title": "Türkiye awards 785 MW of solar in latest YEKA tender",
      "link": "https://www.pv-magazine.com/2026/11/04/turkiye-awards-785-mw-of-solar-in-latest-yeka-tender/",
      "pubDate": "Wed, 04 Nov 2026 13:27:26 +0000",
@@ -1001,14 +1009,6 @@
      "zh": "China Now Home to Nearly Half of World's Clean Industrial Plants"
     },
     {
-     "title": "Oil Prices Rebound as Middle East Supply Fears Return",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
-     "pubDate": "Wed, 04 Nov 2026 00:15:00 -0600",
-     "summary": "Crude oil prices, which fell to their lowest in four weeks, staged a rebound earlier today, as traders shifted their attention from the U.S. midterms to the Middle East, awaiting the next step in the war. Benchmarks dropped sharply on Tuesday on reports that Iran may be open to discussions on previo",
-     "source": "OilPrice",
-     "zh": "Oil Prices Rebound as Middle East Supply Fears Return"
-    },
-    {
      "title": "NIO’s October Sales Meh, But 2026 Sales Up 38.5%",
      "link": "https://cleantechnica.com/2026/11/03/nios-october-sales-meh-but-2026-sales-up-38-5/",
      "pubDate": "Wed, 04 Nov 2026 03:40:10 +0000",
@@ -1088,6 +1088,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "STAT+: Sens. Wyden and Sanders, backers of Medicare for All, set to take charge of key committees",
+     "link": "https://www.statnews.com/2026/11/04/democratic-wins-medicare-for-all-momentum/?utm_campaign=rss",
+     "pubDate": "Wed, 04 Nov 2026 13:38:17 +0000",
+     "summary": "The Democratic flip of the Senate is expected to put two Democrats who support Medicare for All in charge of key committees.",
+     "source": "STAT News",
+     "zh": "STAT+: Sens. Wyden and Sanders, backers of Medicare for All, set to take charge of key committees"
+    },
     {
      "title": "STAT+: The biotech startups skipping AI for drug discovery",
      "link": "https://www.statnews.com/2026/11/04/the-biotech-startups-skipping-ai-for-drug-discovery-ai-prognosis/?utm_campaign=rss",
@@ -1175,14 +1183,6 @@
      "summary": "After a whirlwind third quarter that saw two FDA approvals but a major setback in Angelman syndrome, Ultragenyx is laying off staff for the second time this year. The California biopharma",
      "source": "Endpoints News",
      "zh": "Ultragenyx to lay off 20% of employees, scrap a Wilson disease gene therapy"
-    },
-    {
-     "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
-     "link": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
-     "pubDate": "Tue, 03 Nov 2026 20:53:20 +0000",
-     "summary": "Servier reports a surprise setback for a drug being tested for a form of muscular dystrophy that lacks treatment.",
-     "source": "STAT News",
-     "zh": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test"
     },
     {
      "title": "Precision Automation Meets Biology",
@@ -1692,7 +1692,7 @@
      "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
      "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
      "pubDate": "Tue, 03 Nov 2026 21:57:12 GMT",
-     "summary": "German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment scammers.",
+     "summary": "Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.",
      "source": "Dark Reading",
      "zh": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit"
     },
@@ -1716,7 +1716,7 @@
      "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
      "link": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
      "pubDate": "Tue, 03 Nov 2026 15:38:20 GMT",
-     "summary": "Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk.",
+     "summary": "Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk.",
      "source": "Dark Reading",
      "zh": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats"
     },
@@ -1745,12 +1745,44 @@
    "total": 18,
    "items": [
     {
+     "title": "Qualcomm signs a multiyear SpaceX deal to supply Dragonwing hardware and network software for \"tens of thousands of cell sites\" for a US-wide network in 2027 (Bloomberg)",
+     "link": "https://www.techmeme.com/261104/p29#a261104p29",
+     "pubDate": "Wed, 04 Nov 2026 08:47:06 -0500",
+     "summary": "Bloomberg : Qualcomm signs a multiyear SpaceX deal to supply Dragonwing hardware and network software for &ldquo;tens of thousands of cell sites&rdquo; for a US-wide network in 2027 &nbsp; &mdash;&nbsp; Qualcomm Inc. will supply hardware components for SpaceX's planned nationwide terrestrial wireles",
+     "source": "Techmeme",
+     "zh": "Qualcomm signs a multiyear SpaceX deal to supply Dragonwing hardware and network software for \"tens of thousands of cell sites\" for a US-wide network in 2027 (Bloomberg)"
+    },
+    {
+     "title": "字节旗下 AI 开发平台“扣子”：推进企业级服务产品整合升级，现售企业版将先暂停新售",
+     "link": "https://www.ithome.com/1/022/432.htm",
+     "pubDate": "Wed, 04 Nov 2026 13:40:14 GMT",
+     "summary": "IT之家 11 月 4 日消息，字节跳动旗下 AI 开发平台“扣子（Coze）”发布公告， 正在推进企业级服务的产品整合升级 ，并规划后续可供企业客户选择的产品和套餐方案。配合本次整合，现售扣子企业版将先暂停新售。 IT之家注：官网显示，“扣子”是面向 Agent 时代的新一代 AI 团队协作平台。用户可以一个人调度多个 Agent，也可以和团队成员一起协同多个 Agent，在同一个项目里完成办公、编程、视频创作、文件处理、行业研究等复杂任务。 8 月 24 日，据智能涌现消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合： TRAE、扣子团队将整体并入豆包体系 ，其中 TRAE Wor",
+     "source": "IT之家",
+     "zh": "字节旗下 AI 开发平台“扣子”：推进企业级服务产品整合升级，现售企业版将先暂停新售"
+    },
+    {
+     "title": "单项致胜：五星偏股混合型基金产品深度参考（2026年三季度）",
+     "link": "https://www.tmtpost.com/8194019.html",
+     "pubDate": "Wed, 04 Nov 2026 21:27:45 +0800",
+     "summary": "我们聚焦2026年第三季度获评五星偏股混合型基金中单项能力优秀的产品，具体标准为“单项能力五星且综合评级五星”的双五星产品，通过梳理其评价标准、季度表现变化和具体产品评级，为投资者提供该类优质产品的核心参考。",
+     "source": "钛媒体",
+     "zh": "单项致胜：五星偏股混合型基金产品深度参考（2026年三季度）"
+    },
+    {
      "title": "Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028 and switch to its own app to improve consistency for users (Bloomberg)",
      "link": "https://www.techmeme.com/261104/p28#a261104p28",
      "pubDate": "Wed, 04 Nov 2026 08:25:06 -0500",
      "summary": "Bloomberg : Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028 and switch to its own app to improve consistency for users &nbsp; &mdash;&nbsp; Alphabet Inc.'s Waymo Co-Chief Executive Officer Tekedra Mawakana said her company's plan to end an exclus",
      "source": "Techmeme",
      "zh": "Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028 and switch to its own app to improve consistency for users (Bloomberg)"
+    },
+    {
+     "title": "基金市场概况与资产配置观点 （10.26—11.01）",
+     "link": "https://www.tmtpost.com/8194003.html",
+     "pubDate": "Wed, 04 Nov 2026 21:25:00 +0800",
+     "summary": "腾讯济安指数上周下跌1.58%。",
+     "source": "钛媒体",
+     "zh": "基金市场概况与资产配置观点 （10.26—11.01）"
     },
     {
      "title": "开源项目通过 NPU 而非 GPU 渲染 Win11 桌面：目前刷新率仅 2-3Hz，目标 30Hz",
@@ -1825,14 +1857,6 @@
      "zh": "张雪：中国摩托车超越全球顶级对手和品牌要耐得住寂寞，这个过程一定是痛并快乐着的"
     },
     {
-     "title": "网易云音乐官宣鸿蒙版适配碰一碰、隔空传送等华为鸿蒙专属特色功能",
-     "link": "https://www.ithome.com/1/022/426.htm",
-     "pubDate": "Wed, 04 Nov 2026 13:01:47 GMT",
-     "summary": "IT之家 11 月 4 日消息，网易云音乐官方今日宣布，鸿蒙版适配碰一碰、隔空传送等鸿蒙专属特色功能。 碰一碰 ：两台设备碰一碰就能分享网易云音乐在播歌曲或歌单，无需加好友，无需数据流量。 隔空传送 ：还可以使用手势抓取隔空将网易云音乐在播歌曲或歌单，传送至周围其他鸿蒙设备。 据IT之家此前报道， 鸿蒙版 App 由网易云音乐与鸿蒙深度合作联合开发 ，8 月底上线尝鲜内测版，并在 9 月底推出正式版。 10 月 20 日， 网易云音乐宣布鸿蒙版完成主流终端全适配 ，覆盖手机、折叠屏、平板、运动手表、电脑与华为 HiCar 等，支持跨端无缝续播等功能。",
-     "source": "IT之家",
-     "zh": "网易云音乐官宣鸿蒙版适配碰一碰、隔空传送等华为鸿蒙专属特色功能"
-    },
-    {
      "title": "AI sales automation startup Nooks secures a $500M commitment from General Catalyst&apos;s CVF, which will take a share of the returns generated by the capital (Reuters)",
      "link": "https://www.techmeme.com/261104/p26#a261104p26",
      "pubDate": "Wed, 04 Nov 2026 08:01:11 -0500",
@@ -1881,14 +1905,6 @@
      "zh": "Uber reports Q3 revenue up 10% YoY to $14.8B, Gross Bookings up 20% to $59.8B, trips up 16% to 4B, and plans to scale its autonomous fleet to 2,000+ in 2027 (Rafe Rosner-Uddin/Financial Times)"
     },
     {
-     "title": "魔芯科技发布基于华为昇腾原生的 4D 世界模型 MoWorld 2.0，场景可互动、编辑、调用",
-     "link": "https://www.ithome.com/1/022/424.htm",
-     "pubDate": "Wed, 04 Nov 2026 12:53:54 GMT",
-     "summary": "IT之家 11 月 4 日消息，在今日举行的世界互联网大会“发展新质生产力强劲增量看 AI”主题论坛上，魔芯科技正式发布 基于华为昇腾原生的 4D 世界模型 MoWorld 2.0 。 官方表示，继今年 7 月 MoWorld 1.0 发布后，MoWorld 2.0 实现模型能力跃升：将重力、弹力、浮力、光照、热力，以及刚体、柔体、流体、形塑体等物理要素与对象特性融入空间建模和交互能力， 输出可用于仿真、可实时渲染、可反复调用的 4D 高斯资产 。 据介绍，基于对多重物理要素的建模，MoWorld 2.0 不仅生成空间和物体外观，也对物体之间的交互关系、外力作用和环境变化进行实时推理。 例如，",
-     "source": "IT之家",
-     "zh": "魔芯科技发布基于华为昇腾原生的 4D 世界模型 MoWorld 2.0，场景可互动、编辑、调用"
-    },
-    {
      "title": "价值判断：涨停板的投资机会和风险提示（11月3日）｜上市公司观察",
      "link": "https://www.tmtpost.com/8193950.html",
      "pubDate": "Wed, 04 Nov 2026 20:51:36 +0800",
@@ -1916,23 +1932,15 @@
      "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
      "link": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
      "pubDate": "Wed, 04 Nov 2026 12:46:58 +0000",
-     "summary": "Article URL: https://lists.debian.org/debian-security-announce/2026/msg00526.html Comments URL: https://news.ycombinator.com/item?id=50364814 Points: 24 # Comments: 11",
+     "summary": "Article URL: https://lists.debian.org/debian-security-announce/2026/msg00526.html Comments URL: https://news.ycombinator.com/item?id=50364814 Points: 32 # Comments: 25",
      "source": "Hacker News",
      "zh": "Debian apt security update: man-in-the-middle arbitrary code execution"
-    },
-    {
-     "title": "HP names former GSK CEO Emma Walmsley as its new CEO, effective January 4, permanently filling the role after HP&apos;s Enrique Lores departed in February 2026 (Bloomberg)",
-     "link": "https://www.techmeme.com/261104/p23#a261104p23",
-     "pubDate": "Wed, 04 Nov 2026 07:40:01 -0500",
-     "summary": "Bloomberg : HP names former GSK CEO Emma Walmsley as its new CEO, effective January 4, permanently filling the role after HP's Enrique Lores departed in February 2026 &nbsp; &mdash;&nbsp; HP Inc. named former GSK Plc chief executive officer Emma Walmsley as its new CEO, permanently filling the role ",
-     "source": "Techmeme",
-     "zh": "HP names former GSK CEO Emma Walmsley as its new CEO, effective January 4, permanently filling the role after HP&apos;s Enrique Lores departed in February 2026 (Bloomberg)"
     },
     {
      "title": "A map of 5000+ midterm ads",
      "link": "https://admap.org/",
      "pubDate": "Wed, 04 Nov 2026 12:18:35 +0000",
-     "summary": "Article URL: https://admap.org/ Comments URL: https://news.ycombinator.com/item?id=50364561 Points: 33 # Comments: 6",
+     "summary": "Article URL: https://admap.org/ Comments URL: https://news.ycombinator.com/item?id=50364561 Points: 38 # Comments: 10",
      "source": "Hacker News",
      "zh": "A map of 5000+ midterm ads"
     },
@@ -1940,7 +1948,7 @@
      "title": "Hackers hit French national blood bank",
      "link": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
      "pubDate": "Wed, 04 Nov 2026 12:08:35 +0000",
-     "summary": "Article URL: https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/ Comments URL: https://news.ycombinator.com/item?id=50364478 Points: 54 # Comments: 42",
+     "summary": "Article URL: https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/ Comments URL: https://news.ycombinator.com/item?id=50364478 Points: 62 # Comments: 51",
      "source": "Hacker News",
      "zh": "Hackers hit French national blood bank"
     },
@@ -1956,7 +1964,7 @@
      "title": "AI is forcing us to pay off 40 years of technical debt",
      "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
      "pubDate": "Wed, 04 Nov 2026 11:52:17 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 197 # Comments: 99",
+     "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 224 # Comments: 115",
      "source": "Hacker News",
      "zh": "AI is forcing us to pay off 40 years of technical debt"
     },
@@ -1975,14 +1983,6 @@
      "summary": "富士胶片表示它将大幅增加磁带产能，原因是磁带备份成为 AI 热的一个意外受益者。普通消费者可能早在几十年前就已不再使用磁带，但业界却从未将其抛弃。云服务巨头依靠磁带对海量数据进行备份。富士胶片称，大型云服务商和数据中心运营商正在扩大对磁带的使用，因为磁带能以相对较低的成本存储海量数据。磁带备份可以轻松与系统断开连接，存放在抽屉、保险库或独立设施内。富士胶片强调，磁带介质能实现物理隔离（air-gap），为用户数据提供最后一道防线。",
      "source": "Solidot",
      "zh": "富士胶片因 AI 热加大磁带产能"
-    },
-    {
-     "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
-     "link": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
-     "pubDate": "Wed, 04 Nov 2026 11:14:12 +0000",
-     "summary": "Article URL: https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver Comments URL: https://news.ycombinator.com/item?id=50363968 Points: 42 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver"
     }
    ]
   },
@@ -1992,6 +1992,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Schools that want Google Search for students will have to accept its AI too",
+     "link": "https://www.gsmarena.com/schools_that_want_google_search_for_students_will_have_to_accept_its_ai_too-news-75341.php",
+     "pubDate": "Wed, 04 Nov 2026 14:40:02 +0100",
+     "summary": "Google has announced that its AI products will soon be switched off by default for K-12 student accounts. Namely, Gemini, Gemini Notebook, Gemini in Classroom, and Google Search will be \"entirely off\" until school administrators explicitly turn them on. In case you missed it, Google Search is on tha",
+     "source": "GSMArena",
+     "zh": "Schools that want Google Search for students will have to accept its AI too"
+    },
+    {
+     "title": "More ads coming to Reddit, platform will evaluate how users respond",
+     "link": "https://9to5mac.com/2026/11/04/more-ads-coming-to-reddit-platform-will-evaluate-how-users-respond/",
+     "pubDate": "Wed, 04 Nov 2026 13:36:31 +0000",
+     "summary": "You can expect to see more ads in the Reddit app as the platform begins placing them in search results. The company says that it will be evaluating how users respond to the development … more…",
+     "source": "9to5Mac",
+     "zh": "More ads coming to Reddit, platform will evaluate how users respond"
+    },
     {
      "title": "Here’s your first look at Google Photos’ upcoming Overnight backups feature",
      "link": "https://www.androidauthority.com/google-photos-overnight-backup-preview-apk-teardown-3731603/",
@@ -2137,14 +2153,6 @@
      "zh": "Apple Watch Series 12 and Ultra 4's controversial AI features are going live"
     },
     {
-     "title": "vivo X500 FE and V80 FE pick up more certifications",
-     "link": "https://www.gsmarena.com/vivo_x500_fe_and_v80_fe_pick_up_more_certifications_ahead_of_launch-news-75334.php",
-     "pubDate": "Wed, 04 Nov 2026 08:02:01 +0100",
-     "summary": "vivo launched the X300 FE back in April, and its successor is already starting to show up in certification databases. Now, a vivo phone with the model number V2653 has been certified in Indonesia, and the listing also reveals its full marketing name: vivo X500 FE. The same model number has also been",
-     "source": "GSMArena",
-     "zh": "vivo X500 FE and V80 FE pick up more certifications"
-    },
-    {
      "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
      "link": "https://sspai.com/post/115819",
      "pubDate": "Wed, 04 Nov 2026 14:50:48 +0800",
@@ -2217,14 +2225,6 @@
      "zh": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等"
     },
     {
-     "title": "Eney from MacPaw is an AI assistant with deep Apple integrations",
-     "link": "https://9to5mac.com/2026/11/03/eney-from-macpaw-ai-assistant-deep-apple-integrations/",
-     "pubDate": "Tue, 03 Nov 2026 23:45:00 +0000",
-     "summary": "MacPaw, the makers of CleanMyMac and Setapp, have an AI assistant called Eney that’s designed for Apple users. Eney is available across Mac and iPhone and is built to integrate with core Apple services like Mail, Calendar, and Reminders, plus a lot more. more…",
-     "source": "9to5Mac",
-     "zh": "Eney from MacPaw is an AI assistant with deep Apple integrations"
-    },
-    {
      "title": "The Sideload 050: The phones Samsung and Google won’t make",
      "link": "https://9to5google.com/2026/11/03/the-sideload-050-the-phones-samsung-and-google-wont-make/",
      "pubDate": "Tue, 03 Nov 2026 21:30:00 +0000",
@@ -2243,10 +2243,154 @@
     {
      "title": "Uber beats on revenue even as mobility and delivery units miss estimates",
      "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-     "pubDate": "Wed, 04 Nov 2026 13:27:06 GMT",
+     "pubDate": "Wed, 04 Nov 2026 13:46:24 GMT",
      "summary": "Uber reported better-than-expected revenue but its mobility unit faced higher fuel costs overseas and tighter driver supply.",
      "source": "CNBC",
      "zh": "Uber beats on revenue even as mobility and delivery units miss estimates"
+    },
+    {
+     "title": "Cencora raises dividend by 10% to $0.66",
+     "link": "https://seekingalpha.com/news/4664767-cencora-raises-dividend-by-10-to-066?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 08:46:23 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cencora raises dividend by 10% to $0.66"
+    },
+    {
+     "title": "Supermicro's strong Q1 bodes well for other AI server providers: analysts",
+     "link": "https://seekingalpha.com/news/4664736-supermicros-strong-q1-bodes-well-for-other-ai-server-providers-analysts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 08:45:23 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Supermicro's strong Q1 bodes well for other AI server providers: analysts"
+    },
+    {
+     "title": "4 stocks to watch on Wednesday: MCD, RIOT, DDOG, and CVS",
+     "link": "https://seekingalpha.com/news/4664748-4-stocks-to-watch-on-wednesday-mcd-riot-ddog-and-cvs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 08:45:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "4 stocks to watch on Wednesday: MCD, RIOT, DDOG, and CVS"
+    },
+    {
+     "title": "Artemis Gold Inc. declares CAD 0.05 dividend",
+     "link": "https://seekingalpha.com/news/4664765-artemis-gold-inc-declares-cad-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 08:44:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Artemis Gold Inc. declares CAD 0.05 dividend"
+    },
+    {
+     "title": "Palmer Square Capital BDC declares $0.36 dividend",
+     "link": "https://seekingalpha.com/news/4664763-palmer-square-capital-bdc-declares-0_36-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 08:43:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Palmer Square Capital BDC declares $0.36 dividend"
+    },
+    {
+     "title": "GLOBALFOUNDRIES declares $0.12 dividend",
+     "link": "https://seekingalpha.com/news/4664762-globalfoundries-declares-0_12-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 08:42:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GLOBALFOUNDRIES declares $0.12 dividend"
+    },
+    {
+     "title": "一线直击香港金融科技周：机器人谈复购，智能体找入口",
+     "link": "https://wallstreetcn.com/articles/3785197",
+     "pubDate": "Wed, 04 Nov 2026 21:42:34 +0800",
+     "summary": "今年的香港金融科技周，AI无疑是核心议题。 11月2日，第11届香港金融科技周x StartmeupHK 2026在香港拉开帷幕，活动将持续至11月6日。在已经举行的两天主论坛上，除了银行、保险、支付等传统金融科技议题，具身智能、自动驾驶、算力基础设施乃至商业航天等前沿产业，成为讨论焦点。 这场举办了十余年的行业大会，正在突破传统金融科技的边界。 香港金融科技周承办方Finoverse联合创始人兼联席首席执行官Vila Wong向华尔街见闻表示，过去大会主要吸引银行、保险及大型金融科技企业参与，如今越来越多AI企业和科技初创公司加入。今年大会超过一半的讨论内容与AI相关，投资者通行证申领量也创",
+     "source": "华尔街见闻",
+     "zh": "一线直击香港金融科技周：机器人谈复购，智能体找入口"
+    },
+    {
+     "title": "Tesla and SpaceX shares slide as Musk’s political push falls flat",
+     "link": "https://www.marketwatch.com/story/tesla-and-spacex-shares-slide-as-musks-political-push-falls-flat-c15d29a3?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 13:41:00 GMT",
+     "summary": "The billionaire spent hundreds of millions of dollars on the U.S. election. Now, investors are worried about less favorable policies under new Democratic officials.",
+     "source": "MarketWatch",
+     "zh": "Tesla and SpaceX shares slide as Musk’s political push falls flat"
+    },
+    {
+     "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+     "link": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+     "pubDate": "Wed, 04 Nov 2026 13:40:48 GMT",
+     "summary": "Private-sector job growth held steady in October, with gains spread across sectors",
+     "source": "CNBC",
+     "zh": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says"
+    },
+    {
+     "title": "美国10月ADP新增就业8.6万人超预期，连续16个月增加，跳槽者薪资创两年半最快增速",
+     "link": "https://wallstreetcn.com/articles/3785194",
+     "pubDate": "Wed, 04 Nov 2026 21:37:42 +0800",
+     "summary": "美国私营部门就业市场在10月延续增长势头。 当地时间周三， ADP公布的数据显示，美国10月私营部门新增就业人数8.6万人，与经下修后的9月数据基本持平，高于市场预期的6.7万人，显示劳动力市场出现企稳迹象。 从行业分布来看，就业增长主要来自服务业。其中，贸易、运输和公用事业新增3.9万个岗位，教育和医疗服务新增2.8万个，休闲和酒店业新增1.9万个。金融活动、建筑业及其他服务业也实现增长，分别新增1.5万、1.3万和1万个岗位。 不过，部分行业就业人数出现下降。 专业和商业服务业减少2.7万个岗位，自然资源和采矿业减少8000个，信息服务业减少2000个。后者可能受到人工智能基础设施建设的影",
+     "source": "华尔街见闻",
+     "zh": "美国10月ADP新增就业8.6万人超预期，连续16个月增加，跳槽者薪资创两年半最快增速"
+    },
+    {
+     "title": "山东计划到2030年粮食总产量将超过1160亿斤",
+     "link": "http://www.eeo.com.cn/2026/1104/1084347.shtml",
+     "pubDate": "Wed, 04 Nov 2026 21:37:37 +0800",
+     "summary": "《山东省加快建设更高水平“齐鲁粮仓”“十五五”规划》提出，山东计划到2030年，基本建成更高水平的“齐鲁粮仓”。全省粮食播种面积稳定在1.25亿亩以上、总产量超过1160亿斤；蔬菜（含食用菌）、水产品分别在保持9000万吨、900万吨产能的基础上稳定提质，肉蛋奶产量稳定在1600万吨以上；全省果园面积稳定在910万亩以上，水果产量稳定在2200万吨以上。",
+     "source": "经济观察网",
+     "zh": "山东计划到2030年粮食总产量将超过1160亿斤"
+    },
+    {
+     "title": "华为智驾之外，车企给出“Plan B”",
+     "link": "https://wallstreetcn.com/articles/3785196",
+     "pubDate": "Wed, 04 Nov 2026 21:37:09 +0800",
+     "summary": "作者 | 周智宇 前几年，哪款车能率先用上新一代华为乾崑智驾，是新车发布会上的一个看点。如今，拿着相近的预算挑一辆家用SUV或MPV，买家已经能找到不止一款搭载同档乾崑的车。 市场的变化，已反映在车企的价目表上。11月3日，东风奕派M8加推两款天元激光版。三个多月前，这款六座SUV上市，五个版本用的都是华为乾崑。用车企习惯的话术，是“标配华为乾崑”。 不过这次，东风保留了原来的乾崑版，又给纯电车型配上了自家的辅助驾驶和座舱，把纯电M8的起步指导价从19.98万元降到17.98万元。 乾崑依然是块好招牌。尤其对从燃油车转过来的品牌，消费者原本熟悉的是它的发动机、底盘和空间，有了华为，少费些口舌就",
+     "source": "华尔街见闻",
+     "zh": "华为智驾之外，车企给出“Plan B”"
+    },
+    {
+     "title": "Senate races in Mississippi and Alaska go down to the wire as Trump blame game erupts",
+     "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 13:36:15 GMT",
+     "summary": "Democrats deliver crushing defeat as voters punish administration for high cost of living",
+     "source": "Financial Times",
+     "zh": "Senate races in Mississippi and Alaska go down to the wire as Trump blame game erupts"
+    },
+    {
+     "title": "Treasury opens the door to changes in how it finances the growing U.S. debt. Here’s what you need to know.",
+     "link": "https://www.marketwatch.com/story/treasury-opens-the-door-to-changes-in-how-it-finances-the-growing-u-s-debt-heres-what-you-need-to-know-6001f7e1?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 13:32:00 GMT",
+     "summary": "Some potential changes that may take place after the next several quarters.",
+     "source": "MarketWatch",
+     "zh": "Treasury opens the door to changes in how it finances the growing U.S. debt. Here’s what you need to know."
+    },
+    {
+     "title": "CVS to split off drugstore business in major breakup of healthcare giant",
+     "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+     "pubDate": "Wed, 04 Nov 2026 13:31:43 GMT",
+     "summary": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
+     "source": "CNBC",
+     "zh": "CVS to split off drugstore business in major breakup of healthcare giant"
+    },
+    {
+     "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+     "link": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+     "pubDate": "Wed, 04 Nov 2026 13:30:02 GMT",
+     "summary": "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
+     "source": "CNBC",
+     "zh": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service"
+    },
+    {
+     "title": "民主党横扫国会！美股盘前纳指期货转跌，英伟达跌超1%、SpaceX跌逾8%，黄金站上4000美元",
+     "link": "https://wallstreetcn.com/articles/3785134",
+     "pubDate": "Wed, 04 Nov 2026 21:29:58 +0800",
+     "summary": "美国中期选举民主党大获全胜，从根本上改变了特朗普第二任期剩余时间的政策走向，全球金融市场随之剧烈波动。 美股盘前，纳指期货转跌，此前一度上涨超2%，英伟达盘前股价跌超1%。SpaceX 股价盘前跌幅扩大至逾8%。 标普500期货涨幅收窄至0.8%，美元创下9月以来最大单日跌幅，10年期美国国债收益率下行5个基点至4.91%。 据 新华社 援引美国媒体3日预测，民主党不仅将在中期选举中夺得国会众议院控制权，还连续在多个关键州击败共和党获得国会参议院席位。 据 央视新闻 ， 美东时间11月3日深夜，特朗普在与哥伦比亚广播公司新闻频道的通话中，就民主党人在中期选举中取得的优势成果向民主党方面表达了祝",
+     "source": "华尔街见闻",
+     "zh": "民主党横扫国会！美股盘前纳指期货转跌，英伟达跌超1%、SpaceX跌逾8%，黄金站上4000美元"
+    },
+    {
+     "title": "ADP says businesses add 86,000 jobs in October. Labor market shows small signs of improvement.",
+     "link": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 13:29:00 GMT",
+     "summary": "More industries are hiring, but they are still cautious",
+     "source": "MarketWatch",
+     "zh": "ADP says businesses add 86,000 jobs in October. Labor market shows small signs of improvement."
     },
     {
      "title": "McDonald&apos;s earnings beat, but traffic to its U.S. restaurants falls",
@@ -2257,22 +2401,6 @@
      "zh": "McDonald&apos;s earnings beat, but traffic to its U.S. restaurants falls"
     },
     {
-     "title": "CVS to split off drugstore business in major breakup of healthcare giant",
-     "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-     "pubDate": "Wed, 04 Nov 2026 13:23:28 GMT",
-     "summary": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
-     "source": "CNBC",
-     "zh": "CVS to split off drugstore business in major breakup of healthcare giant"
-    },
-    {
-     "title": "SharkNinja rises after Q3 earnings beat, raises full-year outlook",
-     "link": "https://seekingalpha.com/news/4664704-sharkninja-rises-after-q3-earnings-beat-raises-full-year-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 08:21:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SharkNinja rises after Q3 earnings beat, raises full-year outlook"
-    },
-    {
      "title": "民主党浪潮席卷国会，华尔街为何反手做多？",
      "link": "https://wallstreetcn.com/articles/3785191",
      "pubDate": "Wed, 04 Nov 2026 21:21:39 +0800",
@@ -2281,108 +2409,12 @@
      "zh": "民主党浪潮席卷国会，华尔街为何反手做多？"
     },
     {
-     "title": "Greenbriar names General (Ret) Daniel Hokanson as CEO",
-     "link": "https://seekingalpha.com/news/4664740-greenbriar-names-general-ret-daniel-hokanson-as-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 08:21:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Greenbriar names General (Ret) Daniel Hokanson as CEO"
-    },
-    {
-     "title": "邦芯半导体完成超6亿元B+轮融资",
-     "link": "http://finance.eastmoney.com/news/1354,202611043922215526.html",
-     "pubDate": "Wed, 04 Nov 2026 21:21:39 +0800",
-     "summary": "近日， 半导体 设备研发生产商邦芯 半导体 完成超6亿元B+轮融资，本轮由江夏科投领投，中银资本、长江 创投 跟投。邦芯 半导体 成立于2020年，专注于化合物芯片及硅基特种工艺加工设备研发，已构建覆盖介质刻蚀、化学干法刻蚀及 钨 薄膜沉积的全谱系6/8/12寸设备产品矩阵，是 专精特新 “小巨人”企业。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "邦芯半导体完成超6亿元B+轮融资"
-    },
-    {
-     "title": "Fidelity National CFO James Kehoe to step down",
-     "link": "https://seekingalpha.com/news/4664733-fidelity-national-cfo-james-kehoe-to-step-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 08:21:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Fidelity National CFO James Kehoe to step down"
-    },
-    {
-     "title": "科技板块上演“摆锤”行情 美元跳水、黄金拉涨 | 今夜看点",
-     "link": "http://finance.eastmoney.com/news/1354,202611043922215934.html",
-     "pubDate": "Wed, 04 Nov 2026 21:20:49 +0800",
-     "summary": "财联社11月4日讯 随着美国中期选举落幕，全球股市均出现多头入场的迹象。今日美股盘前，道指 期货 涨超800点，与经济密切相关的个股领头走强， 沃尔玛 、 礼来 均涨超2% 。与此同时，科技板块尽管盘前出现日内V型反转，但目前势头仍不稳定。 截至发稿， 纳斯达克 100指数 期货 （2612合约）涨0.18%，标普500指数 期货 涨0.7%，道指期货涨1.66%。 作为背景， 纳斯达克 100指数期货今日早些时候的跌幅一度超过2%，随后的涨幅也一度超过1%。 英伟达 、 美光科技 等AI板块代表个股盘前转跌。 （ 纳斯达克 100指数正在测试200日线支撑，来源：TradingView） 当",
-     "source": "东方财富股票",
-     "zh": "科技板块上演“摆锤”行情 美元跳水、黄金拉涨 | 今夜看点"
-    },
-    {
-     "title": "水晶光电：董事长提议公司以1亿至2亿元回购股份",
-     "link": "http://stock.eastmoney.com/news/11215,202611043922214810.html",
-     "pubDate": "Wed, 04 Nov 2026 21:20:14 +0800",
-     "summary": "上证报中国证券网讯（记者骆民） 水晶光电 公告，公司董事长李夏云提议公司以集中竞价交易方式回购公司部分股份，用于维护公司价值及股东权益，回购股份的资金总额不低于1亿元、不超过2亿元。 （文章来源：上海证券报·中国证券网）",
-     "source": "东方财富股票",
-     "zh": "水晶光电：董事长提议公司以1亿至2亿元回购股份"
-    },
-    {
-     "title": "杰瑞股份：全资子公司收到项目授标函 涉及项目总金额约26.967亿美元",
-     "link": "http://stock.eastmoney.com/news/11215,202611043922214711.html",
-     "pubDate": "Wed, 04 Nov 2026 21:20:07 +0800",
-     "summary": "上证报中国证券网讯（记者骆民） 杰瑞股份 公告，近日，公司全资子公司杰瑞石油 天然气 工程有限公司的分公司Jereh Oil & Gas Engineering Corporation–Abu Dhabi（杰瑞石油 天然气 工程有限公司阿布扎比分公司）收到业主方Abu Dhabi Company for Onshore Petroleum Operations LTD（阿联酋阿布扎比国家石油公司陆上公司）发送的三份项目授标函，涉及Ruwais Diyab 天然气 田全面开发项目、Bab/North East Bab油田陆上设施建设项目及Bu Hasa油田陆上设施建设项目。以上项目授标函涉及项目",
-     "source": "东方财富股票",
-     "zh": "杰瑞股份：全资子公司收到项目授标函 涉及项目总金额约26.967亿美元"
-    },
-    {
-     "title": "国联期货换股吸收合并民生期货 国联民生证券“一总部+八子公司” 架构落地",
-     "link": "http://finance.eastmoney.com/news/1354,202611043922214217.html",
-     "pubDate": "Wed, 04 Nov 2026 21:19:59 +0800",
-     "summary": "上证报中国证券网讯（记者徐蔚）11月4日， 国联民生 证券披露国联 期货 换股吸收合并民生 期货 的整合方案，这场备受市场关注的券商并购案完成架构整合的最后一块拼图，标志着 国联民生 证券“一总部+多专业子公司”版图完整成形，顺利走完了“法律合并—股权归集—业务切分—架构定型”的全流程。 收官落子： 期货 整合补齐最后拼图 据 国联民生 证券公告，根据证监许可〔2024〕1911号批复关于国联期货、民生期货整合工作的要求，为有效化解同业竞争，国联期货拟以换股方式吸收合并民生期货。民生证券原持有的民生期货100%股权将全部转换为国联期货股份，国联期货同步实现对民生期货的吸收合并。 本次交易完成后",
-     "source": "东方财富股票",
-     "zh": "国联期货换股吸收合并民生期货 国联民生证券“一总部+八子公司” 架构落地"
-    },
-    {
-     "title": "Joby secures additional U.S. Air Force funding for autonomous flight tech",
-     "link": "https://seekingalpha.com/news/4664729-joby-secures-additional-us-air-force-funding-for-autonomous-flight-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 08:19:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Joby secures additional U.S. Air Force funding for autonomous flight tech"
-    },
-    {
-     "title": "瑞银朱正芹：国际投资者仍然高度关注中国AI产业链",
-     "link": "http://finance.eastmoney.com/news/1354,202611043922214134.html",
-     "pubDate": "Wed, 04 Nov 2026 21:19:45 +0800",
-     "summary": "上证报中国证券网讯（记者汪友若）进入四季度，此前一路高歌的港股IPO市场有所降温。Wind数据显示，10月港股上市新股为3只，较9月的12只有所下降。瑞银全球投资 银行 部亚洲区副主席朱正芹在接受采访时表示，短期市场虽有波动，但国际投资人对中国高端制造企业全球化发展，以及AI相关业务增长潜力的关注度仍然较高。同时，国际投资者特别是长线资金的估值逻辑并未改变，他们始终聚焦企业长期的、可持续的盈利。 国际投资者高度关注中国科技企业 10月28日， 东山精密 在香港联合交易所主板上市，本次发行最终定价为每股86.80港元，总发行规模为12.6亿美元（绿鞋前）、14.5亿美元（绿鞋后）。 “在当前市场",
-     "source": "东方财富股票",
-     "zh": "瑞银朱正芹：国际投资者仍然高度关注中国AI产业链"
-    },
-    {
-     "title": "Uber outperforms Q3 expectations but Q4 outlook misses lofty estimates",
-     "link": "https://seekingalpha.com/news/4664670-uber-outperforms-q3-expectations-but-q4-outlook-misses-lofty-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 08:18:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Uber outperforms Q3 expectations but Q4 outlook misses lofty estimates"
-    },
-    {
-     "title": "Scage Future signs cooperation agreement with China Huaye Group",
-     "link": "https://seekingalpha.com/news/4664721-scage-future-signs-cooperation-agreement-with-china-huaye-group?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 08:16:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Scage Future signs cooperation agreement with China Huaye Group"
-    },
-    {
      "title": "美国10月ADP就业人数增加8.6万人 高于市场预期",
      "link": "http://finance.eastmoney.com/news/1345,202611043922205516.html",
      "pubDate": "Wed, 04 Nov 2026 21:15:35 +0800",
      "summary": "美国10月ADP就业人数增加8.6万人，预估为增加6.7万人，前值为增加9万人。 （文章来源：财联社）",
      "source": "东方财富资讯",
      "zh": "美国10月ADP就业人数增加8.6万人 高于市场预期"
-    },
-    {
-     "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-     "link": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
-     "pubDate": "Wed, 04 Nov 2026 13:15:03 GMT",
-     "summary": "Private-sector job growth held steady in October, with gains spread across sectors",
-     "source": "CNBC",
-     "zh": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says"
     },
     {
      "title": "Meta首次叩门欧元债市，530亿欧元认购需求创历史纪录",
@@ -2399,14 +2431,6 @@
      "summary": "A股午后突然放量拉升，科技股成为反弹主力。 市场为何在午后突然转向？财联社记者采访的12家基金公司将此次反弹的原因集中在三方面： 一是美国中期选举结果逐渐明朗，外部不确定性阶段性释放，市场风险偏好回升；二是国内稳市政策接连落地，回购增持再贷款、互换便利及ETF资金形成支撑；三是科技股此前跌幅较深，估值和筹码压力得到释放， 半导体 、算力等产业链的业绩和订单预期又为反弹提供了支撑。 从午后盘面来看， 半导体 、存储、CPO等科技方向率先拉升，并带动主要指数走强， 银行 、 白酒 等防御板块则相对走弱。 对于此次反弹，多家机构认为，当前市场仍以超跌后的估值修复和情绪回暖为主，单日大涨尚不足以确认趋",
      "source": "东方财富资讯",
      "zh": "A股一日反弹可否延续？12家基金公司拆解三大推手"
-    },
-    {
-     "title": "AI data center stocks and Musk&apos;s SpaceX decline as Texas governor result raises risks of a slowdown",
-     "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-     "pubDate": "Wed, 04 Nov 2026 13:03:31 GMT",
-     "summary": "AI fortunes were mixed as premarket trading opened on Wednesday.",
-     "source": "CNBC",
-     "zh": "AI data center stocks and Musk&apos;s SpaceX decline as Texas governor result raises risks of a slowdown"
     },
     {
      "title": "Datadog’s stock extends steep declines in the wake of earnings",
@@ -2455,30 +2479,6 @@
      "summary": "第三批互换便利的中标券商名单完整出炉！ 央行第三批证券、基金、保险公司互换便利（SFISF，下称“互换便利”）操作落地，31家证券、基金公司参与投标。记者了解到，本批共有26家券商中标，其中9家披露了具体规模，接近600亿元。毫无疑问，本轮券商中标规模合计已突破600亿。 规模最大的是 中金公司 ，中标163亿元； 中信证券 、 国泰海通 各中标100亿元，国投证券60亿元， 东吴证券 50亿元， 浙商证券 40亿元， 财通证券 30亿元， 长城证券 20亿元， 国联民生 15亿元，华福证券12亿元。 此外， 华泰证券 、 广发证券 、 招商证券 、银河证券、 申万宏源 、 国信证券 、 中信",
      "source": "东方财富资讯",
      "zh": "26家券商中标第三批互换便利 600多亿增量资金何时入市？"
-    },
-    {
-     "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-     "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-     "pubDate": "Wed, 04 Nov 2026 12:51:00 GMT",
-     "summary": "Elon Musk's spending may have become a liability as voters in exit polls raised concerns about government corruption and the growing influence of billionaires.",
-     "source": "CNBC",
-     "zh": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans"
-    },
-    {
-     "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
-     "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 12:50:00 GMT",
-     "summary": "The healthcare giant surprised analysts with the decision to separate its business.",
-     "source": "MarketWatch",
-     "zh": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup."
-    },
-    {
-     "title": "欧元区通胀创三年新高！能源冲击未退，欧洲央行12月加息板上钉钉",
-     "link": "https://wallstreetcn.com/articles/3785185",
-     "pubDate": "Wed, 04 Nov 2026 20:45:18 +0800",
-     "summary": "欧元区通胀压力再度升温，能源价格飙升正持续侵蚀家庭购买力，也进一步强化了欧洲央行12月加息的预期。 当地时间11月4日，欧盟统计局公布的初步数据显示，欧元区10月消费者价格指数（CPI）同比上涨4.0%，高于9月的3.8%， 创下三年来最高水平 ，符合市场预期。这也是欧元区通胀连续第八个月高于欧洲央行2%的中期目标。 能源价格是本轮通胀反弹的主要推手。10月欧元区能源价格同比上涨20.8%，高于9月的18.9%， 创2023年1月以来最高水平。 随着油气价格上涨，家庭能源开支和交通成本持续承压，通胀压力正从能源市场向居民日常消费传导。 不过，剔除食品和能源价格的核心通胀率维持在2.5%，与上月",
-     "source": "华尔街见闻",
-     "zh": "欧元区通胀创三年新高！能源冲击未退，欧洲央行12月加息板上钉钉"
     }
    ]
   },
@@ -2488,6 +2488,30 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "A surprising discovery could help aging muscles repair themselves",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
+     "pubDate": "Wed, 04 Nov 2026 08:26:06 EST",
+     "summary": "Scientists have discovered a compound that transforms a natural muscle-repair protein into a more powerful version dubbed \"Super HGF,\" more than doubling its ability to bind to a key receptor while protecting it from age-related chemical damage. The breakthrough, supported by early mouse experiments",
+     "source": "ScienceDaily",
+     "zh": "A surprising discovery could help aging muscles repair themselves"
+    },
+    {
+     "title": "Permanent daylight saving time has a dark side, scientists warn",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
+     "pubDate": "Wed, 04 Nov 2026 07:50:48 EST",
+     "summary": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological clocks. Researchers found that fatal crashes involving school-aged pedestrians we",
+     "source": "ScienceDaily",
+     "zh": "Permanent daylight saving time has a dark side, scientists warn"
+    },
+    {
+     "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+     "pubDate": "Wed, 04 Nov 2026 07:23:36 EST",
+     "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough could lead to a new generation of designer materials with unusual properties and app",
+     "source": "ScienceDaily",
+     "zh": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures"
+    },
     {
      "title": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
      "link": "https://www.sciencenews.org/article/scientist-maps-food-chemicals-sn10",
@@ -2503,6 +2527,14 @@
      "summary": "The best time to see meteors during the Southern Taurid meteor shower is coming up soon.",
      "source": "Live Science",
      "zh": "Southern Taurid meteor shower could bring fireballs ‪this week —‬ when and where to look"
+    },
+    {
+     "title": "NASA is racing against time to save the Hubble Space Telescope",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:22:33 EST",
+     "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 203",
+     "source": "ScienceDaily",
+     "zh": "NASA is racing against time to save the Hubble Space Telescope"
     },
     {
      "title": "When dinosaurs are sold to the highest bidder, we all lose",
@@ -2521,20 +2553,28 @@
      "zh": "Mom experienced 'extreme unhappiness' only when she breastfed"
     },
     {
+     "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+     "pubDate": "Wed, 04 Nov 2026 05:43:44 EST",
+     "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional ma",
+     "source": "ScienceDaily",
+     "zh": "SLAC scientists find conclusive proof of a mysterious third type of magnetism"
+    },
+    {
+     "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+     "pubDate": "Wed, 04 Nov 2026 01:57:06 EST",
+     "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced",
+     "source": "ScienceDaily",
+     "zh": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage"
+    },
+    {
      "title": "MIT-led team receives funding to develop a wearable monitor for early disease detection",
      "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-for-early-disease-detection-wearable-monitor-1104",
      "pubDate": "Wed, 04 Nov 2026 00:00:00 -0500",
      "summary": "Awarded up to $38 million from ARPA-H, the team aims to create a low-power, noninvasive sensor patch that measures heart failure and sepsis biomarkers in real-time.",
      "source": "MIT News",
      "zh": "MIT-led team receives funding to develop a wearable monitor for early disease detection"
-    },
-    {
-     "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
-     "pubDate": "Tue, 03 Nov 2026 21:52:16 EST",
-     "summary": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormous atmosphere, creating disturbances that subtly stretch and ",
-     "source": "ScienceDaily",
-     "zh": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests"
     },
     {
      "title": "How hawkmoths turned their genitals into bat-busting weapons",
@@ -2585,52 +2625,12 @@
      "zh": "A drug-free diabetes treatment? An implant lowers blood sugar in mice"
     },
     {
-     "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
-     "pubDate": "Tue, 03 Nov 2026 08:03:02 EST",
-     "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overla",
-     "source": "ScienceDaily",
-     "zh": "The brain’s hidden fear mechanism may explain anxiety and PTSD"
-    },
-    {
-     "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-     "pubDate": "Tue, 03 Nov 2026 07:51:53 EST",
-     "summary": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater to",
-     "source": "ScienceDaily",
-     "zh": "A 50-year-old mystery of vanishing frogs reveals a hidden killer"
-    },
-    {
      "title": "'Quite a light show': NASA astronaut snaps atmospheric fireball as Russian rocket explodes over West Africa",
      "link": "https://www.livescience.com/planet-earth/quite-a-light-show-nasa-astronaut-snaps-atmospheric-fireball-as-russian-rocket-explodes-over-west-africa-earth-from-space",
      "pubDate": "Tue, 03 Nov 2026 12:22:11 +0000",
      "summary": "An American astronaut on board the ISS recently snapped a spectacular \"fireball\" streaking across the nighttime sky over West Africa. The striking \"light show\" shows a Russian rocket being vaporized as it reenters the upper atmosphere.",
      "source": "Live Science",
      "zh": "'Quite a light show': NASA astronaut snaps atmospheric fireball as Russian rocket explodes over West Africa"
-    },
-    {
-     "title": "Scientists identify two overlooked skills that predict reading success",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
-     "pubDate": "Tue, 03 Nov 2026 07:15:18 EST",
-     "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how t",
-     "source": "ScienceDaily",
-     "zh": "Scientists identify two overlooked skills that predict reading success"
-    },
-    {
-     "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
-     "pubDate": "Tue, 03 Nov 2026 04:46:21 EST",
-     "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far m",
-     "source": "ScienceDaily",
-     "zh": "NASA smashed into an asteroid. Now Hera is closing in to see what happened"
-    },
-    {
-     "title": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
-     "pubDate": "Tue, 03 Nov 2026 03:11:10 EST",
-     "summary": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientific mission, while an unexplained 48-hour communications black",
-     "source": "ScienceDaily",
-     "zh": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone"
     },
     {
      "title": "Why large dogs age faster than small ones, and other October research highlights",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 13:31:53",
+ "generated_at": "2026/11/4 13:52:08",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "From human experience to robot action: LiberAI launches Liber-0 world-action model",
+     "link": "https://roboticsandautomationnews.com/2026/11/04/from-human-experience-to-robot-action-liberai-launches-liber-0-world-action-model/106378/",
+     "pubDate": "Wed, 04 Nov 2026 02:00:32 +0000",
+     "summary": "LiberAI, a physical AI startup developing foundation systems for general-purpose robots, is launching Liber-0, a World Action Model pretrained on more than 2.2 million hours of human experience to help robots learn how to interact with the physical world. Liber-0 combines large-scale human video wit",
+     "source": "Robotics & Automation",
+     "zh": "From human experience to robot action: LiberAI launches Liber-0 world-action model"
+    },
+    {
      "title": "Preparing for the HIPAA Security Rule Update Before it is Final",
      "link": "https://roboticsandautomationnews.com/2026/11/03/hipaa-security-rule-update-readiness/106691/",
      "pubDate": "Tue, 03 Nov 2026 23:07:23 +0000",
@@ -568,14 +576,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers. The post Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC"
-    },
-    {
-     "title": "Opinion: What happens when the robot is wrong?",
-     "link": "https://roboticsandautomationnews.com/2026/11/02/opinion-what-happens-when-the-robot-is-wrong/106641/",
-     "pubDate": "Mon, 02 Nov 2026 20:12:17 +0000",
-     "summary": "By Gleb Tsipursky, PhD, CEO, Disaster Avoidance Experts A new industrial robot can meet its cycle-time target and still fail its most important workplace test: what happens when an experienced operator believes the machine is wrong? That question deserves attention as manufacturers accelerate automa",
-     "source": "Robotics & Automation",
-     "zh": "Opinion: What happens when the robot is wrong?"
     },
     {
      "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
@@ -970,6 +970,14 @@ window.INDUSTRY_DATA = {
      "zh": "The Senate permitting bill holds promise but needs amendments"
     },
     {
+     "title": "Caterpillar expands production of engines and turbines to meet data center demand",
+     "link": "https://www.utilitydive.com/news/caterpillar-posts-highest-sales-quarter-ever-data-centers-q3-2026/873586/",
+     "pubDate": "Tue, 03 Nov 2026 11:42:00 -0500",
+     "summary": "The heavy machinery and power equipment maker saw its order backlog reach $78 billion during the third quarter, almost double what it was a year ago.",
+     "source": "Utility Dive",
+     "zh": "Caterpillar expands production of engines and turbines to meet data center demand"
+    },
+    {
      "title": "Innovations in solar module technologies outpace testing work",
      "link": "https://www.pv-tech.org/innovations-solar-module-technologies-testing-work/",
      "pubDate": "Tue, 03 Nov 2026 16:12:55 +0000",
@@ -1008,6 +1016,14 @@ window.INDUSTRY_DATA = {
      "summary": "Waaree Solar Americas has commenced commercial production on two 800MW solar module manufacturing lines at its Brookshire facility in Texas.",
      "source": "PV Tech",
      "zh": "Waaree commences production on 1.6GW solar module lines at Texas plant"
+    },
+    {
+     "title": "Energy affordability tops voter concerns in election set to shake up Congress",
+     "link": "https://www.utilitydive.com/news/energy-affordability-voter-election-midterm-congress-energy-policy/873596/",
+     "pubDate": "Tue, 03 Nov 2026 10:23:13 -0500",
+     "summary": "&ldquo;History shows us that energy crises create policy openings, and we think the conditions are probably in place for a window of policymaking,&rdquo; Hasan Nazar, head of policy at Crux, told Utility Dive.",
+     "source": "Utility Dive",
+     "zh": "Energy affordability tops voter concerns in election set to shake up Congress"
     },
     {
      "title": "PSEG Power plans 200-MW nuclear uprate as company eyes data center deals",
@@ -1064,22 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Battery storage projects have won nearly 40% of the capacity in Belgium’s latest capacity market (CM) auction results, while Germany’s first has all gone to gas, paying nearly eight times more than Belgium in the process.",
      "source": "Energy Storage News",
      "zh": "Vastly different fortunes for BESS in Belgium and Germany’s capacity market auctions"
-    },
-    {
-     "title": "BESS for EV charging: why sites need it, how it works and when to install",
-     "link": "https://www.energy-storage.news/bess-for-ev-charging-guide/",
-     "pubDate": "Tue, 03 Nov 2026 11:58:58 +0000",
-     "summary": "Grid connections are now the biggest brake on rapid EV charging. Here's how battery storage lets charging sites deliver more power from a smaller connection, and when it pays to add it.",
-     "source": "Energy Storage News",
-     "zh": "BESS for EV charging: why sites need it, how it works and when to install"
-    },
-    {
-     "title": "Germany awards 288 MW of solar in rooftop tender at average price of €0.0967/kWh",
-     "link": "https://www.pv-magazine.com/2026/11/03/germany-awards-288-mw-of-solar-in-rooftop-tender-at-average-price-of-e0-0967-kwh/",
-     "pubDate": "Tue, 03 Nov 2026 11:57:14 +0000",
-     "summary": "Germany’s latest rooftop solar tender received 177 bids totaling 347 MW, with 108 bids representing 208 MW ultimately awarded contracts. The post Germany awards 288 MW of solar in rooftop tender at average price of €0.0967/kWh appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Germany awards 288 MW of solar in rooftop tender at average price of €0.0967/kWh"
     }
    ]
   },
@@ -1746,6 +1746,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "影石 Insta360 Ace Pro 3 相机渲染图曝光：八角徕卡镜头外壳，电池容量增 25%",
+     "link": "https://www.ithome.com/1/022/044.htm",
+     "pubDate": "Wed, 04 Nov 2026 05:46:48 GMT",
+     "summary": "IT之家 11 月 4 日消息，消息源 @Quadro_News 今天（11 月 4 日）在 X 平台发布推文， 分享了一组图片，展示了白色和黑色版本的影石 Insta360 Ace Pro 3 相机。 外观方面，最显眼的变化在于带有徕卡标识的八角形镜头外壳。颜色方面，在黑色和白色机身外，配有红色装饰设计。IT之家附上相关截图如下： 电池方面，根据美国联邦通信委员会（FCC）认证资料，型号 CINSABUA 的设备配备 2250mAh 电池，额定能量为 8.71Wh。按照报道列出的数据，相比 Ace Pro 2 的 1800mAh，电池容量增加 25%。 影像方面，消息称 Ace Pro 3 ",
+     "source": "IT之家",
+     "zh": "影石 Insta360 Ace Pro 3 相机渲染图曝光：八角徕卡镜头外壳，电池容量增 25%"
+    },
+    {
+     "title": "212 X03 插混版申报：独特方盒子硬派越野外观，还有外挂备胎、激光雷达",
+     "link": "https://www.ithome.com/1/022/043.htm",
+     "pubDate": "Wed, 04 Nov 2026 05:43:44 GMT",
+     "summary": "IT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，二一二旗下全新车型 212 X03 插电混动版完成申报。 新车在外观上与此前已申报的柴油版保持高度一致，整体造型方正硬朗，采用非承载式车身结构。 IT之家从申报信息获悉，新车长宽高分别为 5095 / 2038 / 1945 mm ，轴距为 2950 mm ，定位中大型硬派越野 SUV；接近角与离去角分别为 33° / 30° ，标配 5 座布局，整备质量 2935 kg，最高车速可达 180 km/h。 车尾采用对开式尾门设计，右侧外挂全尺寸备胎，备胎罩上印有经典的 212 标识，后保险杠以",
+     "source": "IT之家",
+     "zh": "212 X03 插混版申报：独特方盒子硬派越野外观，还有外挂备胎、激光雷达"
+    },
+    {
+     "title": "猫贷中的“贷”与“猫”",
+     "link": "https://www.tmtpost.com/8192970.html",
+     "pubDate": "Wed, 04 Nov 2026 13:38:00 +0800",
+     "summary": "以萌为名的阳谋。",
+     "source": "钛媒体",
+     "zh": "猫贷中的“贷”与“猫”"
+    },
+    {
+     "title": "张朝阳：搜狐账上有 12 亿美元现金，有一场重大的社交平台的仗要打",
+     "link": "https://www.ithome.com/1/022/042.htm",
+     "pubDate": "Wed, 04 Nov 2026 05:36:27 GMT",
+     "summary": "IT之家 11 月 4 日消息，据 21 世纪经济报道，10 月 31 日，搜狐视频关注流 Halloween 美剧 Cosplay Party 在京举行。 搜狐创始人、董事局主席兼首席执行官张朝阳在活动现场表示， 搜狐账上有 12 亿美元 （IT之家注：现汇率约合 80.21 亿元人民币） 现金，投资人经常问及公司的资金使用和分红安排。 对此，张朝阳回应称，搜狐仍需投入资金发展社交平台，“ 有一场重大的社交平台的仗要打 ”。 另据新浪科技报道 ，搜狐当前正将更多资源投入关注流的产品打磨、用户拓展和线下活动运营，在张朝阳看来，关注流的不同之处在于， 用户不只关心内容本身，也关心是谁发的 。他将",
+     "source": "IT之家",
+     "zh": "张朝阳：搜狐账上有 12 亿美元现金，有一场重大的社交平台的仗要打"
+    },
+    {
+     "title": "六大科创龙头密集发声，谁在狂赚，谁在抢占下一轮风口",
+     "link": "https://www.tmtpost.com/8193040.html",
+     "pubDate": "Wed, 04 Nov 2026 13:33:00 +0800",
+     "summary": "三季报业绩分化，AI算力与半导体增长强劲。",
+     "source": "钛媒体",
+     "zh": "六大科创龙头密集发声，谁在狂赚，谁在抢占下一轮风口"
+    },
+    {
+     "title": "印度人也爱刷微短剧，当地头部平台 EloElo 获 8000 万美元投资",
+     "link": "https://www.ithome.com/1/022/041.htm",
+     "pubDate": "Wed, 04 Nov 2026 05:32:38 GMT",
+     "summary": "IT之家 11 月 4 日消息，印度微短剧市场迅速升温，每月观看短剧的用户 超过 1.18 亿 。分析师数据显示，EloElo 旗下微短剧平台 Story TV 跻身当地头部应用，活跃用户超过 3300 万。 据外媒 TechCrunch 今天（4 日）午间报道，凭借庞大的用户规模，EloElo 在 C 轮融资中获得 Hornbill Capital 和 NBC 环球 8,000 万美元 （IT之家注：现汇率约合 5.35 亿元人民币） 投资，累计融资额达到 1.3 亿美元 （现汇率约合 8.69 亿元人民币） ，估值达 5 亿美元 （现汇率约合 33.42 亿元人民币） 。 印度网民超过 1",
+     "source": "IT之家",
+     "zh": "印度人也爱刷微短剧，当地头部平台 EloElo 获 8000 万美元投资"
+    },
+    {
+     "title": "发多少钱，你才愿意生孩子？",
+     "link": "https://www.huxiu.com/article/4902885.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 13:29:18 +0800",
+     "summary": "本文来自微信公众号： 看理想 ，作者：蒋莱 近两年，世界各国都在面临严峻的低生育率问题。中国的生育支持政策有了实质性进展。 2025年，国家育儿补贴制度开始实施，符合条件的三周岁以下婴幼儿，每孩每年可领取3600元，从出生起申领，三年累计10800元。同年秋季学期起，幼儿园学前一年开始免除保育教育费：公办园按规定免除，民办园参照当地同类型公办园标准相应减免。与此同时，普惠托育服务也在持续扩大。 其中，育儿补贴在中国家庭福利制度的发展中具有开创性意义。过去，地方育儿补贴往往只面向二孩、三孩家庭，或局限于部分地区。而现在，国家首次在全国范围内，面向一孩、二孩、三孩家庭实施普惠现金补贴，并持续覆盖孩",
+     "source": "虎嗅",
+     "zh": "发多少钱，你才愿意生孩子？"
+    },
+    {
+     "title": "通威48亿收购丽豪再进一步，逆周期整合优质产能，硅料出清多了一条并购通道",
+     "link": "https://www.tmtpost.com/8192987.html",
+     "pubDate": "Wed, 04 Nov 2026 13:29:00 +0800",
+     "summary": "通威拟斥资不超48亿收购青海丽豪促光伏产能出清。",
+     "source": "钛媒体",
+     "zh": "通威48亿收购丽豪再进一步，逆周期整合优质产能，硅料出清多了一条并购通道"
+    },
+    {
      "title": "AI视频的下一场竞争",
      "link": "https://www.tmtpost.com/8192972.html",
      "pubDate": "Wed, 04 Nov 2026 13:23:00 +0800",
@@ -1786,68 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "新国标落地，陪人看病是一门好生意吗？"
     },
     {
-     "title": "中国能建三季报订单降幅第一，绿氨成重要看点， 五大发电央企的财报数据没有一个轻松",
-     "link": "https://www.tmtpost.com/8192983.html",
-     "pubDate": "Wed, 04 Nov 2026 13:12:34 +0800",
-     "summary": "建筑央企周期博弈，能建调结构承压待破局。",
-     "source": "钛媒体",
-     "zh": "中国能建三季报订单降幅第一，绿氨成重要看点， 五大发电央企的财报数据没有一个轻松"
-    },
-    {
      "title": "公关副总裁最需要公关",
      "link": "https://www.huxiu.com/article/4902884.html?f=rss",
      "pubDate": "Wed, 04 Nov 2026 13:12:26 +0800",
      "summary": "本文来自微信公众号： 王智远 ，作者：王智远 我对字节这家公司的印象一直很好。比如：小姐姐很漂亮，小哥哥个个也都精神。 但最近也不知道怎么回事，字节那位公关副总裁，快把我对这家公司的好感败光了，尤其在商业媒体这个圈子里，这事闹得挺难看。 当然，这只是个人感受，代表不了所有人。 ...... 今天早上十点，李亮又发了一条微博。这次回的是胡锡进。 从10月26日秦朔发出那篇《可怕的红果》算起，已经九天了；一场数据之争，吵着吵着，把第三个人也卷了进来。 胡锡进两天前写了一大篇，两边都评了，最后还留了个台阶，说希望只是李亮个人跑调，不代表整个字节。 两天后，自己把台阶给拆了，也挺有意思。 李亮在开头把",
      "source": "虎嗅",
      "zh": "公关副总裁最需要公关"
-    },
-    {
-     "title": "泰格医药的钱去哪了？",
-     "link": "https://www.tmtpost.com/8192999.html",
-     "pubDate": "Wed, 04 Nov 2026 13:05:29 +0800",
-     "summary": "医药“基金王者”的王冠，开始变重了。",
-     "source": "钛媒体",
-     "zh": "泰格医药的钱去哪了？"
-    },
-    {
-     "title": "中国提供了七成储能设备，电站却写别人名下？储能出海该换算法了",
-     "link": "https://www.tmtpost.com/8192989.html",
-     "pubDate": "Wed, 04 Nov 2026 13:05:24 +0800",
-     "summary": "西班牙公示 27 个配储项目1.78GW；中国份额自电芯向电站开发递减，能否换成资产份额是关键。",
-     "source": "钛媒体",
-     "zh": "中国提供了七成储能设备，电站却写别人名下？储能出海该换算法了"
-    },
-    {
-     "title": "小米推出米家扫振电动牙刷 2 Pro：配动态交互彩屏，众筹价 179 元",
-     "link": "https://www.ithome.com/1/022/036.htm",
-     "pubDate": "Wed, 04 Nov 2026 05:02:58 GMT",
-     "summary": "IT之家 11 月 4 日消息，小米新推出了一款“米家扫振电动牙刷 2 Pro”，建议零售价 249 元，众筹价 179 元。 这款电动牙刷支持声波扫振马达 2.0，可高效清洁牙菌斑；支持智能分面扫振，可匹配不同清洁方案；配备全效缓震刷头，软胶升级不打牙，弹性结构更贴合。 此外，它还配备动态交互彩屏，实现可视化洁牙；支持双向过压提醒，力大力小亮灯提醒，用力过度自动降频；配备 Type-C 接口，支持 190 天长续航；支持 IPX8 级防水。IT之家附参数如下：",
-     "source": "IT之家",
-     "zh": "小米推出米家扫振电动牙刷 2 Pro：配动态交互彩屏，众筹价 179 元"
-    },
-    {
-     "title": "腾讯混元 Hy4 正式版发布，号称首次跻身最强开源模型之列、为真实生产力而生",
-     "link": "https://www.ithome.com/1/022/035.htm",
-     "pubDate": "Wed, 04 Nov 2026 04:59:42 GMT",
-     "summary": "IT之家 11 月 4 日消息，腾讯混元今天（4 日）发布最新一代大语言模型 Hy4 正式版。官方表示，随着模型能力的再次全面跃升，Hy 首次跻身最强开源模型之列 。Hy4 将于近期开源模型权重，发布模型系统卡片，并积极推进更负责任的开源，重点关注网络和生物安全等风险。 相比于 Hy4 preview，Hy4 显著扩展了预训练和后训练规模，首次引入了视觉能力，并大幅提升了指令遵循、长文理解、长程任务、深度研究等各项综合能力。 Hy4 首次引入视觉能力，可以结合感知、推理和工具调用，进行细粒度图像处理、复杂图表分析和数学视觉推理等任务。Hy4 也 首次支持电脑操作 ，可以灵活地结合使用命令行和图",
-     "source": "IT之家",
-     "zh": "腾讯混元 Hy4 正式版发布，号称首次跻身最强开源模型之列、为真实生产力而生"
-    },
-    {
-     "title": "比亚迪：网传“天神之眼 C 停产”等消息不实",
-     "link": "https://www.ithome.com/1/022/033.htm",
-     "pubDate": "Wed, 04 Nov 2026 04:50:11 GMT",
-     "summary": "IT之家 11 月 4 日消息，@比亚迪新闻打假办公室 今天（4 日）午间发文称，网传“比亚迪天神之眼 C 停产、天神之眼 B / 天神之眼 C 将更换智驾方案”不实。 IT之家从声明获悉，比亚迪方面称，近期，网络上出现的 “比亚迪天神之眼 C 停产、天神之眼 B / 天神之眼 C 将更换智驾方案”等相关传言 为不实信息。为给消费者提供更安全、更可靠的智驾体验， 比亚迪始终坚持全栈自研，相关智驾软件也在持续迭代更新中 。请大家不信谣、不传谣，对于编造、传播不实信息、刻意误导公众的行为，公司已对相关不实言论进行证据固定，将依法追究相关主体的法律责任。",
-     "source": "IT之家",
-     "zh": "比亚迪：网传“天神之眼 C 停产”等消息不实"
-    },
-    {
-     "title": "经典 A168 缩成一枚戒指：卡西欧推出 CRW-002，主打复古计时",
-     "link": "https://www.ithome.com/1/022/032.htm",
-     "pubDate": "Wed, 04 Nov 2026 04:49:44 GMT",
-     "summary": "IT之家 11 月 4 日消息，科技媒体 Android Authority 昨日（11 月 3 日）发布博文，报道称卡西欧（Casio）推出新款戒指式电子表 CRW-002，计划于 2026 年 11 月在官网发售， 提供银色和金色两种版本，售价分别为 135 美元 （IT之家注：现汇率约合 902.3 元人民币） 和 155 美元 （现汇率约合 1,036 元人民币） 。 CRW-002 的设计灵感来自卡西欧 1995 年推出的 A168，将经典电子表缩小为可戴在手指上的戒指。新品采用金属注塑成型的表壳与戒圈，搭配矿物玻璃表镜，内置七段式 LCD 显示屏，可显示时、分、秒，侧面保留三个可操",
-     "source": "IT之家",
-     "zh": "经典 A168 缩成一枚戒指：卡西欧推出 CRW-002，主打复古计时"
     },
     {
      "title": "从横店狂飙到好莱坞，短剧产业正在换一种活法",
@@ -1898,22 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "Q&A with Simile CEO Joon Sung Park on claims that its digital twins predict human behavior with 85%+ accuracy, its goal of simulating all 8B people, and more (Mario Gabriele/The Generalist)"
     },
     {
-     "title": "猫贷中的“贷”与“猫”",
-     "link": "https://www.huxiu.com/article/4902874.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 12:37:41 +0800",
-     "summary": "本文来自微信公众号： 惊蛰研究所 ，作者：惊蛰研究所消费组 “那天感觉像入了迷一样，就想要领养。”2024年12月，大喜在商场逛街时，二楼过道里一个带有“誉宠”二字的领养摊位吸引了她。摊位上摆着的三四个猫柜中，一只银白高地猫让她一眼看中。“小猫当时出生不到2个月，正是最可爱的时候。” 大喜当场签下了一份“宠物认养会员协议”，并支付了三期费用，整个过程不到半小时。但在今年6月，大喜最终花费2500元解除了这份维持了一年半的协议。回顾这次领养经历，她直言就当花钱买教训。 社交媒体上，与大喜有相似遭遇的人并不少，而他们反复提起了一个词——猫贷。有人分享自己陷入猫贷的亲身经历，有人求助如何解除猫贷，有",
-     "source": "虎嗅",
-     "zh": "猫贷中的“贷”与“猫”"
-    },
-    {
-     "title": "中东中等强国的“结伴外交”，能绕开美国另起一桌吗？",
-     "link": "https://www.huxiu.com/article/4902873.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 12:37:02 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：江浩宇 10月底，沙特国防大臣哈立德·本·萨勒曼、巴基斯坦国防军司令穆尼尔和土耳其国家情报局局长卡林一起飞抵德黑兰，与伊朗最高国家安全委员会秘书雷扎伊举行地区安全会议。这是自《麦加共同防务协议》签署以来，三个签约国第一次结伴到第三国开展外交活动。 8月协议刚刚签署时，伊朗议会下属新闻机构负责人拉希米曾对外表示，伊朗已收到加入邀请并正在研究考虑是否加入，但外交部发言人巴盖伊随后否认收到过任何正式邀请。10月初协议进入实际运作阶段，伊朗官方媒体又把三国的联合行动描述成“土耳其和巴基斯坦加入沙特对也门人民的战争”。不到三周之后，三国主管防务和情报的一把手却亲自",
-     "source": "虎嗅",
-     "zh": "中东中等强国的“结伴外交”，能绕开美国另起一桌吗？"
-    },
-    {
      "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)",
      "link": "https://www.techmeme.com/261103/p48#a261103p48",
      "pubDate": "Tue, 03 Nov 2026 23:20:01 -0500",
@@ -1933,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Jelly Sheet",
      "link": "https://mrdoob.github.io/codevember-2026/01/",
      "pubDate": "Wed, 04 Nov 2026 03:40:50 +0000",
-     "summary": "Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 22 # Comments: 3",
+     "summary": "Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 38 # Comments: 4",
      "source": "Hacker News",
      "zh": "Jelly Sheet"
     },
@@ -1941,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
      "link": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
      "pubDate": "Wed, 04 Nov 2026 03:20:13 +0000",
-     "summary": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 33 # Comments: 0",
+     "summary": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 39 # Comments: 1",
      "source": "Hacker News",
      "zh": "Distinct cellular and genetic differences in colorectal cancer in young patients"
     },
@@ -1949,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Arrows to arrows, categories to queries (2025)",
      "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
      "pubDate": "Wed, 04 Nov 2026 03:11:27 +0000",
-     "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 16 # Comments: 0",
+     "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 18 # Comments: 0",
      "source": "Hacker News",
      "zh": "Arrows to arrows, categories to queries (2025)"
     },
@@ -1973,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Giant canyon on Mars is still tectonically active",
      "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
      "pubDate": "Wed, 04 Nov 2026 01:40:42 +0000",
-     "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 44 # Comments: 3",
+     "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 49 # Comments: 3",
      "source": "Hacker News",
      "zh": "Giant canyon on Mars is still tectonically active"
     },
@@ -1984,6 +1976,14 @@ window.INDUSTRY_DATA = {
      "summary": "Isabel O'Brien / CNBC : Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually &nbsp; &mdash;&nbsp; Google is playing defense on Tuesday after a political backlash to its new policy surrounding use of artificial int",
      "source": "Techmeme",
      "zh": "Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually (Isabel O&apos;Brien/CNBC)"
+    },
+    {
+     "title": "C++26 Disapproved",
+     "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+     "pubDate": "Wed, 04 Nov 2026 00:33:22 +0000",
+     "summary": "Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ Comments URL: https://news.ycombinator.com/item?id=50360164 Points: 180 # Comments: 78",
+     "source": "Hacker News",
+     "zh": "C++26 Disapproved"
     }
    ]
   },
@@ -2242,52 +2242,124 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "鑫铂股份11月4日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921555067.html",
-     "pubDate": "Wed, 04 Nov 2026 13:24:48 +0800",
-     "summary": "以下是 鑫铂股份 在北京时间11月4日13:24分盘口异动快照： 11月4日， 鑫铂股份 盘中快速上涨，5分钟内涨幅超过2%，截至13点24分，报9.81元，成交3402.99万元，换手率2.20%。 分笔 13:24:39 9.83 23↑ 13:24:36 9.81 33↑ 13:24:30 9.81 202↑ 13:24:27 9.79 133↑ 13:24:24 9.79 76↓ 13:24:18 9.81 282↑ 13:24:15 9.79 119↓ 13:24:12 9.79 28↓ 13:24:09 9.79 8↓ 13:24:06 9.79 422↑ 报价 卖五 9.86 1",
-     "source": "东方财富股票",
-     "zh": "鑫铂股份11月4日快速上涨"
+     "title": "A股午后爆发：创业板大涨4%，科创50暴涨超5%，芯片半导体强势反弹，恒指涨1%，生物医药拉升",
+     "link": "https://wallstreetcn.com/articles/3785133",
+     "pubDate": "Wed, 04 Nov 2026 13:48:49 +0800",
+     "summary": "11月4日，A股午后直线拉升，三大股指集体大涨，沪指涨1%，创业板暴涨超4%。科创综指和科创50延续涨势，均飙涨超5%，得益于物理AI和半导体等科技股拉升。半导体板块反弹，托伦斯、恒玄科技涨幅居前。机器人、物理AI概念拉升，索辰科技、征和工业、福莱新材等涨停。文化传媒、生物科技等活跃。地产、大消费陷入调整。光模块发反弹，“易中天”拉升。 港股午后亦拉升，恒指、恒科指盘初双双上涨，恒指涨近1%，恒科指涨近1%，盘中一度跌近2%，权重科网股反弹。芯片、光模块等科技股反弹，海光芯正跌6%。生物科技板块爆发，恒生生物科技指数涨超5%。债市方面，国债期货普遍上涨。商品方面，国内商品期货多数下跌。核心市场",
+     "source": "华尔街见闻",
+     "zh": "A股午后爆发：创业板大涨4%，科创50暴涨超5%，芯片半导体强势反弹，恒指涨1%，生物医药拉升"
     },
     {
-     "title": "黄金概念震荡反弹 晓程科技涨超10%",
-     "link": "http://finance.eastmoney.com/news/11440,202611043921555736.html",
-     "pubDate": "Wed, 04 Nov 2026 13:24:35 +0800",
-     "summary": "午后 黄金概念 震荡反弹， 晓程科技 涨超10%， 盛达资源 、 赤峰黄金 、 山金国际 、 山东黄金 、 中金黄金 涨幅靠前。消息面上，世界 黄金 协会最新发布的《 中国黄金 需求趋势报告》显示，2026年第三季度， 中国黄金 总需求达到192吨，同比增长12%，环比增长23%。",
-     "source": "东方财富股票",
-     "zh": "黄金概念震荡反弹 晓程科技涨超10%"
+     "title": "Ultragenyx outlines 2027 profitability plan with R&D under $350M and SG&A under $375M following GTX-102 discontinuation",
+     "link": "https://seekingalpha.com/news/4664467-ultragenyx-outlines-2027-profitability-plan-with-r-and-d-under-350m-and-sg-and-a-under-375m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:46:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ultragenyx outlines 2027 profitability plan with R&D under $350M and SG&A under $375M following GTX-102 discontinuation"
     },
     {
-     "title": "ST京机11月4日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921554537.html",
-     "pubDate": "Wed, 04 Nov 2026 13:24:11 +0800",
-     "summary": "以下是 ST京机 在北京时间11月4日13:24分盘口异动快照： 11月4日13点24分， ST京机 盘中打开涨停，现报6.93元，成交5121.81万元，换手率1.28%。该股之前于13点23分涨停。 分笔 13:24:03 6.93 823↓ 13:24:00 7.00 3030↓ 13:23:57 7.00 1998↓ 13:23:54 7.00 1932↓ 13:23:51 7.00 1307↓ 13:23:48 7.00 555↓ 13:23:45 7.00 2336↓ 13:23:42 7.00 48↓ 13:23:39 7.00 749↓ 13:23:36 7.00 2316↓ ",
+     "title": "华钰矿业11月4日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921635946.html",
+     "pubDate": "Wed, 04 Nov 2026 13:44:40 +0800",
+     "summary": "以下是 华钰矿业 在北京时间11月4日13:44分盘口异动快照： 11月4日， 华钰矿业 盘中涨幅达5%，截至13点44分，报14.52元，成交2.53亿元，换手率2.19%。 分笔 13:44:04 14.52 1124↑ 13:44:01 14.50 109↑ 13:43:58 14.50 297↑ 13:43:55 14.50 121↑ 13:43:52 14.50 69↑ 13:43:49 14.49 38↓ 13:43:46 14.50 47↑ 13:43:43 14.50 310↑ 13:43:40 14.49 114↑ 13:43:37 14.49 59↑ 报价 卖五 14.56",
      "source": "东方财富股票",
-     "zh": "ST京机11月4日打开涨停"
+     "zh": "华钰矿业11月4日盘中涨幅达5%"
     },
     {
-     "title": "上海洗霸11月4日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921554386.html",
-     "pubDate": "Wed, 04 Nov 2026 13:23:55 +0800",
-     "summary": "以下是 上海洗霸 在北京时间11月4日13:23分盘口异动快照： 11月4日， 上海洗霸 盘中快速上涨，5分钟内涨幅超过2%，截至13点23分，报55.52元，成交8.54亿元，换手率9.32%。 分笔 13:23:45 55.52 302↑ 13:23:42 55.49 127↑ 13:23:39 55.49 176↑ 13:23:36 55.48 108↑ 13:23:33 55.38 63↑ 13:23:30 55.30 57↑ 13:23:27 55.20 18↑ 13:23:24 55.18 61↑ 13:23:21 55.10 95↑ 13:23:18 55.09 27↑ 报价 卖",
+     "title": "南大光电11月4日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921636050.html",
+     "pubDate": "Wed, 04 Nov 2026 13:44:40 +0800",
+     "summary": "以下是 南大光电 在北京时间11月4日13:44分盘口异动快照： 11月4日， 南大光电 盘中涨幅达5%，截至13点44分，报38.58元，成交6.62亿元，换手率2.67%。 分笔 13:44:03 38.58 463↑ 13:44:00 38.55 821↑ 13:43:57 38.48 164↑ 13:43:54 38.48 136↑ 13:43:51 38.45 112↑ 13:43:48 38.44 90↑ 13:43:45 38.41 155↓ 13:43:42 38.42 296↑ 13:43:39 38.38 313↓ 13:43:36 38.38 228↑ 报价 卖五 38.",
      "source": "东方财富股票",
-     "zh": "上海洗霸11月4日快速上涨"
+     "zh": "南大光电11月4日盘中涨幅达5%"
     },
     {
-     "title": "*ST香雪11月4日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921554279.html",
-     "pubDate": "Wed, 04 Nov 2026 13:23:46 +0800",
-     "summary": "以下是 *ST香雪 在北京时间11月4日13:23分盘口异动快照： 11月4日， *ST香雪 盘中跌幅达5%，截至13点23分，报4.22元，成交4315.65万元，换手率1.53%。 分笔 13:23:39 4.22 24↓ 13:23:24 4.23 51↑ 13:23:18 4.23 110↓ 13:23:15 4.24 30↑ 13:22:57 4.24 10↑ 13:22:54 4.23 1018↓ 13:22:48 4.23 28↓ 13:22:42 4.24 1↑ 13:22:39 4.24 54↑ 13:22:30 4.24 58↑ 报价 卖五 4.29 83 卖四 4.26 ",
+     "title": "11月4日华为海思板块涨幅达3%",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921635675.html",
+     "pubDate": "Wed, 04 Nov 2026 13:44:35 +0800",
+     "summary": "&emsp;&emsp;11月4日13点44分， 华为海思 板块指数报1600.71点，涨幅达3%，成交243.00亿元，换手率2.70%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 华峰测控 报210.74元，涨15.72%； 北方华创 报528.80元，涨8.62%； 罗博特科 报283.66元，涨8.49%； 通富微电 报41.53元，涨7.93%； 卓易信息 报76.20元，涨6.93%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "*ST香雪11月4日盘中跌幅达5%"
+     "zh": "11月4日华为海思板块涨幅达3%"
     },
     {
-     "title": "ST京机11月4日盘中涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921554184.html",
-     "pubDate": "Wed, 04 Nov 2026 13:23:37 +0800",
-     "summary": "以下是 ST京机 在北京时间11月4日13:23分盘口异动快照： 11月4日13点23分， ST京机 盘中涨停，报7元，目前封单3784手，折合264.88万元。截至目前，成交4037.80万元，换手率1.02%。 分笔 13:23:30 7.00 1199↑ 13:23:27 7.00 952↑ 13:23:24 7.00 1745↑ 13:23:21 6.99 684↑ 13:23:18 6.92 505↓ 13:23:15 6.92 2672↓ 13:23:12 6.92 512↑ 13:23:09 6.89 567↓ 13:23:06 6.90 309↑ 13:23:03 6.90 5",
+     "title": "11月4日其他通信设备板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921635514.html",
+     "pubDate": "Wed, 04 Nov 2026 13:44:33 +0800",
+     "summary": "&emsp;&emsp;11月4日13点44分，其他 通信设备 板块指数报4511.462点，涨幅达2%，成交11.17亿元，换手率1.57%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 东土科技 报15.74元，涨6.06%； 震有科技 报23.22元，涨5.40%； 长江通信 报38.82元，涨2.40%； 坤恒顺维 报21.99元，涨2.33%； 映翰通 报30.46元，涨2.21%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "ST京机11月4日盘中涨停"
+     "zh": "11月4日其他通信设备板块涨幅达2%"
+    },
+    {
+     "title": "11月4日大飞机板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921635444.html",
+     "pubDate": "Wed, 04 Nov 2026 13:44:33 +0800",
+     "summary": "&emsp;&emsp;11月4日13点44分， 大飞机 板块指数报1565.359点，涨幅达2%，成交232.54亿元，换手率1.27%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 航发科技 报42.35元，涨10.00%； 航天环宇 报37.10元，涨8.96%； 新雷能 报20.82元，涨7.32%； 应流股份 报32.54元，涨6.34%； 航宇科技 报41.10元，涨6.34%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "11月4日大飞机板块涨幅达2%"
+    },
+    {
+     "title": "11月4日电子化学品Ⅱ板块涨幅达4%",
+     "link": "http://stock.eastmoney.com/news/1944,202611043921635245.html",
+     "pubDate": "Wed, 04 Nov 2026 13:44:30 +0800",
+     "summary": "&emsp;&emsp;11月4日13点44分， 电子化学品Ⅱ 板块指数报2413.222点，涨幅达4%，成交138.09亿元，换手率3.03%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 兴福电子 报56.13元，涨11.57%； 德邦科技 报53.96元，涨11.65%； 安集科技 报199.83元，涨9.82%； 鼎龙股份 报59.08元，涨9.00%； 飞凯材料 报28.63元，涨7.15%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "11月4日电子化学品Ⅱ板块涨幅达4%"
+    },
+    {
+     "title": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货反弹、AI板块重挫，美元下跌，美债上涨，韩股转涨",
+     "link": "https://wallstreetcn.com/articles/3785134",
+     "pubDate": "Wed, 04 Nov 2026 13:44:18 +0800",
+     "summary": "民主党在美国中期选举的州长竞选中取得多项关键胜利，正寻求赢得全国多数州长席位，此举或将终结共和党长达十余年的地方优势。全球市场迅速作出反应，美股期货跌幅有所收窄，美元走低，美债价格上涨，亚洲股市反弹，韩股转涨。 据新华社 援引美国媒体3日预测，民主党不仅将在中期选举中夺得国会众议院控制权，还连续在多个关键州击败共和党获得国会参议院席位。 美国总统特朗普当天对《纽约时报》表示，“绝对愿意接受选举结果，准备与民主党合作，可能会达成某些东西”。 民主党在得克萨斯州、佐治亚州、俄亥俄州和艾奥瓦州等传统共和党重镇实现了历史性突破。其中，Gina Hinojosa 和 Keisha Lance Botto",
+     "source": "华尔街见闻",
+     "zh": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货反弹、AI板块重挫，美元下跌，美债上涨，韩股转涨"
+    },
+    {
+     "title": "创业板指涨幅扩大至3.3% 科创50指数涨逾4% 贵金属、高带宽内存、半导体领涨",
+     "link": "http://finance.eastmoney.com/news/1345,202611043921617857.html",
+     "pubDate": "Wed, 04 Nov 2026 13:39:41 +0800",
+     "summary": "创业板指涨幅扩大至3.3%，科创50指数涨逾4%， 贵金属 、 高带宽内存 、 半导体 、 光伏设备 领涨。 今日要闻 国家发改委：预计到“十五五”末 我国社会消费品零售总额达到60万亿元左右 11月4日，国家发展改革委召开奋进“十五五”系列新闻发布会，介绍夯实发展支撑有关情况。国家发展改革委经济贸易司副司长寇荣表示，预计到“十五五”末，我国流通业整体规模将持续扩大，社会消费品零售总额达到60万亿元左右，流通网络将更加健全。 最高50亿元！长鑫科技大幅上调回购金额 11月4日早上，长鑫科技发布《关于收到公司董事长提议增加回购股份金额的提示性公告》，公司董事长朱一明提议将回购股份金额由“不低于人",
+     "source": "东方财富资讯",
+     "zh": "创业板指涨幅扩大至3.3% 科创50指数涨逾4% 贵金属、高带宽内存、半导体领涨"
+    },
+    {
+     "title": "China’s services PMI misses expectations at 50.8 in October, composite PMI drops to 52.0",
+     "link": "https://seekingalpha.com/news/4664463-chinas-services-pmi-misses-expectations-at-508-in-october-composite-pmi-drops-to-520?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:38:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "China’s services PMI misses expectations at 50.8 in October, composite PMI drops to 52.0"
+    },
+    {
+     "title": "James Talarico’s historic Texas Senate victory deals blow to Elon Musk",
+     "link": "https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 05:37:26 GMT",
+     "summary": "Billionaire had ploughed $47mn into bankrolling Republican Ken Paxton’s campaign while fuelling conspiracy theories about his opponent",
+     "source": "Financial Times",
+     "zh": "James Talarico’s historic Texas Senate victory deals blow to Elon Musk"
+    },
+    {
+     "title": "Pfizer raises 2026 outlook to $62B-$64B revenue and $2.95-$3.05 adjusted EPS, targeting high single-digit revenue CAGR from 2028-2033",
+     "link": "https://seekingalpha.com/news/4664466-pfizer-raises-2026-outlook-to-62b-64b-revenue-and-2_95-3_05-adjusted-eps-targeting-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:36:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pfizer raises 2026 outlook to $62B-$64B revenue and $2.95-$3.05 adjusted EPS, targeting high single-digit revenue CAGR from 2028-2033"
+    },
+    {
+     "title": "Red Rock anticipates Durango North opening in Q3 2027 with $430M investment targeting 20% ROI",
+     "link": "https://seekingalpha.com/news/4664462-red-rock-anticipates-durango-north-opening-in-q3-2027-with-430m-investment-targeting-20?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:26:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Red Rock anticipates Durango North opening in Q3 2027 with $430M investment targeting 20% ROI"
+    },
+    {
+     "title": "InnovAge expects $1.05B-$1.085B revenue and $105M-$115M adjusted EBITDA in fiscal 2027 as it reaffirms guidance",
+     "link": "https://seekingalpha.com/news/4664461-innovage-expects-1_05b-1_085b-revenue-and-105m-115m-adjusted-ebitda-in-fiscal-2027-as-it?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 00:26:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "InnovAge expects $1.05B-$1.085B revenue and $105M-$115M adjusted EBITDA in fiscal 2027 as it reaffirms guidance"
     },
     {
      "title": "Dream Industrial REIT reports Q3 results",
@@ -2298,36 +2370,20 @@ window.INDUSTRY_DATA = {
      "zh": "Dream Industrial REIT reports Q3 results"
     },
     {
-     "title": "Ivanhoe Mines GAAP EPS of $0.04 misses by $0.04, revenue of $263.84M beats by $16.34M",
-     "link": "https://seekingalpha.com/news/4664458-ivanhoe-mines-gaap-eps-of-004-misses-by-004-revenue-of-26384m-beats-by-1634m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:19:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ivanhoe Mines GAAP EPS of $0.04 misses by $0.04, revenue of $263.84M beats by $16.34M"
+     "title": "AI基础设施需求爆发，Arista营收增速刷新上市十年纪录，盘后大涨10%",
+     "link": "https://wallstreetcn.com/articles/3785140",
+     "pubDate": "Wed, 04 Nov 2026 13:15:30 +0800",
+     "summary": "Arista Networks凭借AI数据中心基础设施需求的强劲爆发，交出了一份自2014年上市以来最亮眼的季度成绩单。 公司周二公布的财报显示，第三季度营收同比增长58.5%至36.6亿美元，调整后每股收益1.20美元，双双超越华尔街预期。 四季度营收指引区间为39亿至40亿美元，远高于分析师此前预期的36亿美元 。消息公布后，Arista股价盘后涨约10%。 CEO Jayshree Ullal表示，第三季度业绩甚至超出了她自身的较高预期。\"跨客户群体的强劲势头，彰显了我们在生成式AI与智能体AI时代日益增长的战略价值。\" 增速创十年新高，业绩全面超预期 第三季度58.5%的营收同比增速，",
+     "source": "华尔街见闻",
+     "zh": "AI基础设施需求爆发，Arista营收增速刷新上市十年纪录，盘后大涨10%"
     },
     {
-     "title": "Oracle cancels $7B AI chip lease with Tencent amid US concerns: FT",
-     "link": "https://seekingalpha.com/news/4664456-oracle-cancels-7b-ai-chip-lease-with-tencent-amid-us-concerns-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:18:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Oracle cancels $7B AI chip lease with Tencent amid US concerns: FT"
-    },
-    {
-     "title": "Cricut outlines $0.70 special dividend payable January 21, 2027, while expecting full-year revenue growth for first time since 2021",
-     "link": "https://seekingalpha.com/news/4664457-cricut-outlines-0_70-special-dividend-payable-january-21-2027-while-expecting-full-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:16:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cricut outlines $0.70 special dividend payable January 21, 2027, while expecting full-year revenue growth for first time since 2021"
-    },
-    {
-     "title": "SSR Mining outlines Marigold 20-year reserve life while expecting 2026 AISC about 10% above guidance",
-     "link": "https://seekingalpha.com/news/4664455-ssr-mining-outlines-marigold-20-year-reserve-life-while-expecting-2026-aisc-about-10-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:11:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SSR Mining outlines Marigold 20-year reserve life while expecting 2026 AISC about 10% above guidance"
+     "title": "Trump’s American slapdown for the ages",
+     "link": "https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 05:11:06 GMT",
+     "summary": "In multiple midterm races the president’s heavy-handed input boomeranged",
+     "source": "Financial Times",
+     "zh": "Trump’s American slapdown for the ages"
     },
     {
      "title": "可全天交易，并可加杠杆！CFTC放行美股个股永续期货交易",
@@ -2336,30 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国商品期货交易委员会（CFTC）于当地时间11月3日宣布，个股永续期货合约正式获准在美国受监管交易所上市。这意味着，美国投资者未来可以在股市闭市后继续交易美股相关合约，并使用杠杆。 永续合约，究竟有什么不一样？ 永续合约（Perpetuals，简称\"Perps\"）是一种没有到期日的杠杆衍生品合约。与传统期货相比，它最大的特点有两个： 一是可以全天候交易 ，包括股票市场正常闭市的时段； 二是内嵌杠杆机制 ，交易者可以用较少的本金撬动更大规模的头寸。 这两个特性让永续合约在海外——尤其是加密货币市场——积累了庞大的用户群体。此次CFTC将这一工具正式引入美国受监管市场，并将其延伸至传统股票领域。",
      "source": "华尔街见闻",
      "zh": "可全天交易，并可加杠杆！CFTC放行美股个股永续期货交易"
-    },
-    {
-     "title": "Trump to accept midterm results: NY Times",
-     "link": "https://seekingalpha.com/news/4664441-trump-accept-midterm-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:01:13 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump to accept midterm results: NY Times"
-    },
-    {
-     "title": "The economic risks of the AI boom",
-     "link": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 05:00:18 GMT",
-     "summary": "The longer the investment surge and the associated financial engineering continue, the bigger the negative impact is likely to be when it ends",
-     "source": "Financial Times",
-     "zh": "The economic risks of the AI boom"
-    },
-    {
-     "title": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货跳水、AI板块重挫，美元下跌，美债上涨，日韩股市均跌4%",
-     "link": "https://wallstreetcn.com/articles/3785134",
-     "pubDate": "Wed, 04 Nov 2026 12:49:24 +0800",
-     "summary": "民主党在美国中期选举的州长竞选中取得多项关键胜利，正寻求赢得全国多数州长席位，此举或将终结共和党长达十余年的地方优势。全球市场迅速作出反应，美股期货大幅下挫，美元走低，美债价格上涨，亚洲股市普遍承压。 据新华社 援引美国媒体3日预测，民主党不仅将在中期选举中夺得国会众议院控制权，还连续在多个关键州击败共和党获得国会参议院席位。 美国总统特朗普当天对《纽约时报》表示，“绝对愿意接受选举结果，准备与民主党合作，可能会达成某些东西”。 民主党在得克萨斯州、佐治亚州、俄亥俄州和艾奥瓦州等传统共和党重镇实现了历史性突破。其中，Gina Hinojosa 和 Keisha Lance Bottoms 的胜",
-     "source": "华尔街见闻",
-     "zh": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货跳水、AI板块重挫，美元下跌，美债上涨，日韩股市均跌4%"
     },
     {
      "title": "Democrats clinch majority in Senate as voters lash out at Trump’s Republicans",
@@ -2378,12 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "Democrats win the Senate but control of the House is still up in the air. Here’s what it means for your finances."
     },
     {
-     "title": "Global stocks and dollar slide as Democratic wins stoke AI fears",
+     "title": "Global stocks slide as Democratic wins stoke fears for AI boom",
      "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 04:39:01 GMT",
      "summary": "Traders bet Democrats could slow infrastructure build-out central to economic growth",
      "source": "Financial Times",
-     "zh": "Global stocks and dollar slide as Democratic wins stoke AI fears"
+     "zh": "Global stocks slide as Democratic wins stoke fears for AI boom"
     },
     {
      "title": "伟伟道来 | 有惊无险：美军选前空袭，伊朗没有报复",
@@ -2418,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国媒体预计民主党夺回参议院重掌国会"
     },
     {
-     "title": "创业板冲高回落午盘微涨0.1%，科创综指涨超1%，物理AI、半导体集体反弹，恒科指跌1%，生物医药拉升",
-     "link": "https://wallstreetcn.com/articles/3785133",
-     "pubDate": "Wed, 04 Nov 2026 12:05:18 +0800",
-     "summary": "A股早盘震荡盘整，市场情绪整体偏谨慎，亚太市场普遍下跌，韩国首尔综指日内跌幅达4%，盘初曾涨超3%；日经225指数跌4.45%，至5月20日来新低。美国中期选举计票显示民主党占上风。 11月4日，A股震荡分化，沪指早盘冲高之后翻绿，深成指、创业板盘中亦先后转跌，午盘小幅上涨。科创综指和科创50表现较强，得益于物理AI和半导体等科技股拉升。半导体板块反弹，托伦斯、恒玄科技涨幅居前。机器人、物理AI概念拉升，索辰科技、征和工业、福莱新材等涨停。文化传媒、生物科技等活跃。地产、大消费陷入调整。光模块回落，东山精密、剑桥科技跌幅居前。 港股早盘低开低走，恒指、恒科指盘初双双下跌，恒指盘中震荡上涨，午盘",
-     "source": "华尔街见闻",
-     "zh": "创业板冲高回落午盘微涨0.1%，科创综指涨超1%，物理AI、半导体集体反弹，恒科指跌1%，生物医药拉升"
-    },
-    {
      "title": "美股已进入“隐形熊市”？高盛警告：回调恐怕远未结束",
      "link": "http://finance.eastmoney.com/news/1351,202611043921486290.html",
      "pubDate": "Wed, 04 Nov 2026 11:59:26 +0800",
@@ -2456,30 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "目前，首批33个和美海岛已实施14项海岛生态保护修复项目，系统开展典型生态系统、重要生态廊道、珍稀濒危和特有物种及其栖息地保护修复。",
      "source": "经济观察网",
      "zh": "我国首批33个和美海岛建设取得阶段性成效"
-    },
-    {
-     "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
-     "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-     "pubDate": "Wed, 04 Nov 2026 03:38:08 GMT",
-     "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
-     "source": "CNBC",
-     "zh": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress"
-    },
-    {
-     "title": "国家统计局副局长毛盛勇：怎么看当前我国经济形势和发展走向",
-     "link": "http://finance.eastmoney.com/news/1344,202611043921478055.html",
-     "pubDate": "Wed, 04 Nov 2026 11:33:42 +0800",
-     "summary": "怎么看当前我国经济形势和发展走向 毛盛勇 2026年前三季度，我国经济顶住压力保持平稳运行，国内生产总值（GDP）同比增长4.6%，呈现动能向新、结构向优的发展态势。前三季度的经济成绩单充分说明，我国经济基础稳、优势多、韧性强、潜能大，实现“十五五”开局之年经济社会发展主要目标的基础扎实，经济持续健康发展具有坚实支撑。 一、经济增速保持在合理区间 今年以来，面对错综复杂的国际国内形势，我国经济顶压前行、稳中有进，动能向新、结构向优，展现出强大韧性与活力。前三季度，GDP达到107.1万亿元，同比增长4.6%。从这份来之不易的成绩单看，我国经济不仅实现了量的合理增长，更凸显了质的有效提升，高质量",
-     "source": "东方财富资讯",
-     "zh": "国家统计局副局长毛盛勇：怎么看当前我国经济形势和发展走向"
-    },
-    {
-     "title": "小米机器人进厂“通关” 具身智能赛道多股涨停 最新高增长潜力股名单出炉",
-     "link": "http://finance.eastmoney.com/news/11822,202611043921478162.html",
-     "pubDate": "Wed, 04 Nov 2026 11:32:31 +0800",
-     "summary": "11月4日早盘，人形 机器人 概念股集体异动， 征和工业 、 永臻股份 、 兆威机电 、 福莱新材 直线封板， 震裕科技 、 华是科技 涨超10%，奥比中光、 安培龙 、 泛亚微透 、 柯力传感 等多股跟涨，盘初跌超3%的宇树科技一度涨超8%。 消息面上，小米披露人形 机器人 最新进展，整个赛道近期也迎来“内外共振”。 小米披露 机器人 业务两项落地进展 11月3日，2026世界互联网大会乌镇峰会期间，小米对外披露 机器人 业务在工业制造和家庭场景领域的最新落地进展，小米 机器人 业务“面向规模化落地的通用 机器人 操作基座模型关键技术”同时获得大会“领先科技奖”。 在工厂场景，小米 人形机器",
-     "source": "东方财富资讯",
-     "zh": "小米机器人进厂“通关” 具身智能赛道多股涨停 最新高增长潜力股名单出炉"
     }
    ]
   },

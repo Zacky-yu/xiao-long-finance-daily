@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 08:08:46",
+ "generated_at": "2026/11/4 08:16:31",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,14 @@ window.INDUSTRY_DATA = {
      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
      "source": "TechCrunch AI",
      "zh": "Data centers are turning to old jet engines as the wait for power grows"
+    },
+    {
+     "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+     "link": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+     "pubDate": "Tue, 03 Nov 2026 22:08:22 +0000",
+     "summary": "Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs. The post Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights"
     },
     {
      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
      "source": "量子位",
      "zh": "AI数据平台OceanBase获世界互联网大会杰出贡献奖"
-    },
-    {
-     "title": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%",
-     "link": "https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/",
-     "pubDate": "Tue, 03 Nov 2026 05:51:06 +0000",
-     "summary": "OpenAI built Pando, a Git-compatible backend for its monorepo. It handles branches independently, reuses stored packfiles across fetches, cut median push latency by nearly 80%, and now delivers nearly a petabyte of Git data per day. The post OpenAI Introduces Pando: A Git Backend That Cuts Median Pu",
-     "source": "MarkTechPost",
-     "zh": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%"
     }
    ]
   },
@@ -922,14 +922,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Senate permitting bill holds promise but needs amendments"
     },
     {
-     "title": "Caterpillar expands production of engines and turbines to meet data center demand",
-     "link": "https://www.utilitydive.com/news/caterpillar-posts-highest-sales-quarter-ever-data-centers-q3-2026/873586/",
-     "pubDate": "Tue, 03 Nov 2026 11:42:00 -0500",
-     "summary": "The heavy machinery and power equipment maker saw its order backlog reach $78 billion during the third quarter, almost double what it was a year ago.",
-     "source": "Utility Dive",
-     "zh": "Caterpillar expands production of engines and turbines to meet data center demand"
-    },
-    {
      "title": "Innovations in solar module technologies outpace testing work",
      "link": "https://www.pv-tech.org/innovations-solar-module-technologies-testing-work/",
      "pubDate": "Tue, 03 Nov 2026 16:12:55 +0000",
@@ -968,14 +960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Waaree Solar Americas has commenced commercial production on two 800MW solar module manufacturing lines at its Brookshire facility in Texas.",
      "source": "PV Tech",
      "zh": "Waaree commences production on 1.6GW solar module lines at Texas plant"
-    },
-    {
-     "title": "Energy affordability tops voter concerns in election set to shake up Congress",
-     "link": "https://www.utilitydive.com/news/energy-affordability-voter-election-midterm-congress-energy-policy/873596/",
-     "pubDate": "Tue, 03 Nov 2026 10:23:13 -0500",
-     "summary": "&ldquo;History shows us that energy crises create policy openings, and we think the conditions are probably in place for a window of policymaking,&rdquo; Hasan Nazar, head of policy at Crux, told Utility Dive.",
-     "source": "Utility Dive",
-     "zh": "Energy affordability tops voter concerns in election set to shake up Congress"
     },
     {
      "title": "PSEG Power plans 200-MW nuclear uprate as company eyes data center deals",
@@ -1080,6 +1064,22 @@ window.INDUSTRY_DATA = {
      "summary": "The outlook for Australia’s renewable energy transition appears positive with supportive government policies and renewable energy targets, a surge in battery installations, and a strong pipeline of grid-scale solar and storage projects helping to fuel confidence. The post Key takeaways from All Ener",
      "source": "pv magazine",
      "zh": "Key takeaways from All Energy Australia 2026"
+    },
+    {
+     "title": "Solar PV cuts Spain’s electricity costs by €17.02 billion over 18 months",
+     "link": "https://www.pv-magazine.com/2026/11/03/solar-pv-cuts-spains-electricity-costs-by-e17-02-billion-over-18-months/",
+     "pubDate": "Tue, 03 Nov 2026 11:10:01 +0000",
+     "summary": "A study by Spanish solar association UNEF estimates that solar PV generation reduced Spain’s wholesale electricity costs by €17.02 billion ($19.03 billion) between January 2025 and June 2026. Without solar generation, average daily market prices would have been 86% higher, according to the analysis.",
+     "source": "pv magazine",
+     "zh": "Solar PV cuts Spain’s electricity costs by €17.02 billion over 18 months"
+    },
+    {
+     "title": "Slovenia tenders solar-plus-storage project",
+     "link": "https://www.pv-magazine.com/2026/11/03/slovenia-tenders-solar-plus-storage-project/",
+     "pubDate": "Tue, 03 Nov 2026 11:09:19 +0000",
+     "summary": "A tender is open in Slovenia for the development of a solar-plus-storage project at a former waste landfill site. The deadline for applications is November 19. The post Slovenia tenders solar-plus-storage project appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Slovenia tenders solar-plus-storage project"
     }
    ]
   },
@@ -1746,6 +1746,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "#iPhone 天气下周五温差#冲上热搜：苹果自带天气 App 多地显示 13 日最低气温零下 32 度，网友调侃“极寒末日守好庇护所”",
+     "link": "https://www.ithome.com/1/021/895.htm",
+     "pubDate": "Wed, 04 Nov 2026 00:11:03 GMT",
+     "summary": "IT之家 11 月 4 日消息，多名网友今天（11 月 4 日）社交平台上反馈，苹果 iPhone 自带的天气 App 出现明显异常， 杭州、南京等地 11 月 13 日的最低气温被显示为 -32℃，上海则显示 -31℃，和实际气候相差悬殊。 IT之家发稿前，#iPhone天气下周五温差#已冲上微博热搜第四名，热度值为 857835，有用户调侃极寒末日赶紧造庇护所。 图源 @开舒克的贝塔 从网友晒出的截图看，异常并非局限于个别城市。北京、上海、青岛、河南等地也被曝出现-28℃ 至-32℃ 不等的“极寒”预报，部分页面还同时显示白天最高气温在 20℃ 左右，形成接近 50℃ 的昼夜温差，显得极不",
+     "source": "IT之家",
+     "zh": "#iPhone 天气下周五温差#冲上热搜：苹果自带天气 App 多地显示 13 日最低气温零下 32 度，网友调侃“极寒末日守好庇护所”"
+    },
+    {
+     "title": "苹果限制员工参与预测市场：禁止利用公司内幕信息下注",
+     "link": "https://www.ithome.com/1/021/894.htm",
+     "pubDate": "Wed, 04 Nov 2026 00:07:20 GMT",
+     "summary": "IT之家 11 月 4 日消息，苹果已向美国证券交易委员会（SEC）提交年度文件，更新了内幕交易政策，并将预测市场（Prediction Markets）交易单独列为禁止事项。 苹果要求员工不得利用工作中获取的苹果机密信息，在 Polymarket 等预测市场平台下注或交易，即使相关行为按照适用法律不构成内幕交易或证券交易，也同样违反公司政策。 苹果在新增条款中明确规定，员工不得利用工作期间获得的苹果机密信息，参与预测未来事件结果的市场活动，包括下注、交易、买卖合约等。限制范围不仅涉及苹果自身，还包括其他公司，以及苹果的供应商、制造商、销售商、客户和商业合作伙伴，例如移动网络运营商等。 苹果同",
+     "source": "IT之家",
+     "zh": "苹果限制员工参与预测市场：禁止利用公司内幕信息下注"
+    },
+    {
+     "title": "博索纳罗“流亡”美国, 撇下一个从未如此逼仄的巴西",
+     "link": "https://www.huxiu.com/article/4902509.html?f=rss",
+     "pubDate": "Wed, 04 Nov 2026 08:05:42 +0800",
+     "summary": "本文来自微信公众号： 文化纵横 ，作者：Dan Restrepo（美国进步中心，奥巴马任期西半球事务高级主任），Ricardo Zuniga（奥巴马任期美洲事务顾问），Monica de Bolle（彼得森国际经济研究所），编译：李俊霖、魏嘉怡，题图来自：视觉中国 10月25日，巴西总统大选迎来戏剧性逆转。现任总统卢拉以51.79%的得票率击败右翼候选人弗拉维奥&middot;博索纳罗，成功赢得第四个总统任期。然而，选举结束并未给巴西带来平静。落败的弗拉维奥&middot;博索纳罗拒绝承认结果，并于三天后携家人抵达美国迈阿密，声称自己遭到政治迫害。一场总统选举，就此演变为新的政治风波。 但比选",
+     "source": "虎嗅",
+     "zh": "博索纳罗“流亡”美国, 撇下一个从未如此逼仄的巴西"
+    },
+    {
      "title": "IT早报 1104：iOS 27.3 测试版携国行 Apple 智能如约而至；中兴辟谣 400 亿卖手机业务；全球首款甲醇电混家轿吉利银河星耀 6EF 上市；全国放心消费平台上线...",
      "link": "https://www.ithome.com/1/021/893.htm",
      "pubDate": "Wed, 04 Nov 2026 00:02:27 GMT",
@@ -1770,12 +1794,12 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 高管会议室发现“窃听”设备后，知情人士称员工多年不断反映安全漏洞"
     },
     {
-     "title": "别再替别人欺负自己",
+     "title": "别再替别人欺负自己了",
      "link": "https://www.huxiu.com/article/4902787.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 07:54:10 +0800",
+     "pubDate": "Wed, 04 Nov 2026 07:54:11 +0800",
      "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《这是我今年听过最有冲击力的一个观点》，题图来自：视觉中国 这个世界上，欺负你最狠的人，并非别人，而是你自己。 老板逼着你加班，下班点一到，他一拍屁股走人了。但是你会在凌晨两点，还继续改那份方案。 别人说一句，&ldquo;呦，最近胖了不少吧？&rdquo;你不开心，但还是笑笑，假装自己没法在心上。一两个月后，你还是会替这个随口开玩笑的人，继续嫌弃自己的身材。 你看，他们早就&ldquo;收工&rdquo;了。只有你，还在&ldquo;加班&rdquo;。 这是我今年听过最有冲击力的一个观点。把它说得准确一",
      "source": "虎嗅",
-     "zh": "别再替别人欺负自己"
+     "zh": "别再替别人欺负自己了"
     },
     {
      "title": "卖不动的南极游轮，跌破1万5了",
@@ -1834,30 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "Valve announces changes to Steam&apos;s review process, as a surge in game submissions pushes review times to \"up to 12 business days\", instead of the usual 3-5 days (Jay Peters/The Verge)"
     },
     {
-     "title": "微软推出 Xbox Series X-BITE 特别版主机：塞进 1.5 米长鳄鱼造型外壳，全球仅此一台抽奖送",
-     "link": "https://www.ithome.com/1/021/888.htm",
-     "pubDate": "Tue, 03 Nov 2026 23:29:21 GMT",
-     "summary": "IT之家 11 月 4 日消息，当地时间 11 月 3 日，微软公布了一款名为 Xbox Series X-BITE 的特别版 Xbox Series X 主机，并宣布通过抽奖活动将其免费送出。 这款主机采用一条约 5 英尺（约 1.52 米）长的鳄鱼造型外壳，内部装有一台可以正常运行的 Xbox Series X，外观设计则融入了鳄鱼、Xbox 标志及游戏手柄等元素。 从微软公布的图片来看，这条鳄鱼的身体采用方形隆起设计，Xbox Series X 主机被嵌入其腹部。主机启动后，可以透过身体上的方形区域看到经过特殊配色处理的 Xbox 标志。IT之家注意到，鳄鱼眼睛也采用了 Xbox 绿色虹",
-     "source": "IT之家",
-     "zh": "微软推出 Xbox Series X-BITE 特别版主机：塞进 1.5 米长鳄鱼造型外壳，全球仅此一台抽奖送"
-    },
-    {
-     "title": "关于投资和财富的闲言碎语",
-     "link": "https://www.huxiu.com/article/4902783.html?f=rss",
-     "pubDate": "Wed, 04 Nov 2026 07:28:35 +0800",
-     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 懂的都懂 又不知道该说啥了：瞎讲点闲言碎语吧。 消费和投资为什么重要？一般的说法是消费是验证需求是不是真需求的手段，投资是牺牲当下消费，提升未来生产能力和财富增长的手段之类的这种。但是很重要一点，也许是更重要的一点，投资和消费都是财富进入循环的有效手段，而高效的循环是让整个社会能够形成“向心力”把精力用在向前发展的必要条件。 财富一锁死，社会一板结，可能就会导致人心不稳和更加剧烈的一次性分配。 比如，刚解放刚改革开放的时候绝大多数人的生活绝对条件肯定是比现在要差很多的，但是为什么回想起八十年代九十年代都是生机勃勃万物竞发的场景？主要原因还是在",
-     "source": "虎嗅",
-     "zh": "关于投资和财富的闲言碎语"
-    },
-    {
-     "title": "甲骨文联合创始人拉里 · 埃里森过去一年财富缩水 1590 亿美元，个人身家几乎减半",
-     "link": "https://www.ithome.com/1/021/887.htm",
-     "pubDate": "Tue, 03 Nov 2026 23:25:49 GMT",
-     "summary": "IT之家 11 月 4 日消息，甲骨文联合创始人拉里 · 埃里森过去一年财富缩水 1,590 亿美元 （IT之家注：现汇率约合 1.06 万亿元人民币） ，个人身家几乎减半。 根据彭博亿万富豪指数，埃里森的净资产 减少 49.2%，降至 1,640 亿美元 （现汇率约合 1.09 万亿元人民币） ，全球富豪排名跌至第九。今年初，他还排在第五位，排名高于马克 · 扎克伯格，仅次于谷歌的谢尔盖 · 布林。 82 岁的埃里森主要依靠 持有甲骨文股票 积累财富。甲骨文是他于 1977 年联合创立的科技公司，股价今年以来累计下跌 39%， 较 2025 年 11 月跌幅超过 53% 。 当地时间 2 日",
-     "source": "IT之家",
-     "zh": "甲骨文联合创始人拉里 · 埃里森过去一年财富缩水 1590 亿美元，个人身家几乎减半"
-    },
-    {
      "title": "【钛晨报】报告提出下一步中国金融工作有5方面考虑；中兴拟成立合资公司出售手机业务，回应称“不属实”｜独家；百度否认昆仑芯IPO推迟",
      "link": "https://www.tmtpost.com/8192223.html",
      "pubDate": "Wed, 04 Nov 2026 07:20:00 +0800",
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "The Internals of PostgreSQL",
      "link": "https://www.interdb.jp/pg/index.html",
      "pubDate": "Tue, 03 Nov 2026 21:51:06 +0000",
-     "summary": "Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 55 # Comments: 2",
+     "summary": "Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 63 # Comments: 2",
      "source": "Hacker News",
      "zh": "The Internals of PostgreSQL"
     },
@@ -1925,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
      "link": "https://arxiv.org/abs/2605.29713",
      "pubDate": "Tue, 03 Nov 2026 21:40:53 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 148 # Comments: 18",
+     "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 166 # Comments: 21",
      "source": "Hacker News",
      "zh": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Safari introduces Adaptive Dark Mode in 27.3",
      "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
      "pubDate": "Tue, 03 Nov 2026 21:39:05 +0000",
-     "summary": "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 203 # Comments: 133",
+     "summary": "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 215 # Comments: 140",
      "source": "Hacker News",
      "zh": "Safari introduces Adaptive Dark Mode in 27.3"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
      "pubDate": "Tue, 03 Nov 2026 21:26:44 +0000",
-     "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 123 # Comments: 47",
+     "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 140 # Comments: 50",
      "source": "Hacker News",
      "zh": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months"
     },
@@ -2242,6 +2242,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "“历史最大黑客洗劫案”！一切始于一场“假面试”",
+     "link": "https://wallstreetcn.com/articles/3785118",
+     "pubDate": "Wed, 04 Nov 2026 08:12:42 +0800",
+     "summary": "加密货币交易所币安（Binance）遭遇史上规模最大的数字资产盗窃案， 63亿美元在一次精心策划的多阶段攻击中被窃取 。而事件的起点，则是一场专门针对该公司工程师的虚假招聘面试。 据英国《金融时报》和彭博社报道，币安周二（11月3日）发布迄今最详细的调查报告，将此次攻击归因于黑客组织TraderTraitor，并披露攻击者综合运用社会工程学手段、恶意软件及人工智能工具，历时数月完成渗透。币安联席首席执行官Richard Teng表示， “这不是一次单一错误或单一漏洞，而是一场历经数月精心构建的攻击行动。” 此次事件已超越今年早些时候Bybit交易所的15亿美元盗窃案，成为数字资产史上最大规模的",
+     "source": "华尔街见闻",
+     "zh": "“历史最大黑客洗劫案”！一切始于一场“假面试”"
+    },
+    {
+     "title": "宠物食品行业进入存量竞争期",
+     "link": "http://finance.eastmoney.com/news/1354,202611043920663890.html",
+     "pubDate": "Wed, 04 Nov 2026 08:04:00 +0800",
+     "summary": "随着三季报披露完成，6家布局 宠物食品 业务的上市公司，前三季度营收全部实现正增长，但归母净利润普遍大幅下滑，增收不增利成为板块共性特征。行业告别依靠养宠人口扩容拉动增长的增量阶段，进入存量竞争、成本与汇兑因素扰动的结构性调整周期。 总体来看， 乖宝宠物 食品集团股份有限公司（以下简称“ 乖宝宠物 ”）、烟台中宠食品股份有限公司（以下简称“ 中宠股份 ”）、佩蒂动物营养科技股份有限公司（以下简称“ 佩蒂股份 ”）、温州 源飞宠物 玩具制品股份有限公司（以下简称“ 源飞宠物 ”）、杭州 天元宠物 用品股份有限公司（以下简称“ 天元宠物 ”）、山东路斯 宠物食品 股份有限公司（以下简称“ 路斯股份",
+     "source": "东方财富股票",
+     "zh": "宠物食品行业进入存量竞争期"
+    },
+    {
+     "title": "11月4日投资日历|高通今日公布2026财年第四季度及全年业绩",
+     "link": "http://finance.eastmoney.com/news/11848,202611043920889364.html",
+     "pubDate": "Wed, 04 Nov 2026 08:01:44 +0800",
+     "summary": "（1）2026年11月4日上午10时，国务院台湾事务办公室在国台办新闻发布厅举行例行新闻发布会，发言人就近期两岸热点问题回答记者提问。 （2）2026年11月4日上午10时，国家发展改革委在国家发展改革委北楼中三大会议室召开奋进“十五五”系列新闻发布会，介绍夯实发展支撑有关情况。 （3）今日有6210亿元隔夜逆回购、1510亿元7天期逆回购到期。 （4） 高通 将于11月4日公布2026财年第四季度及全年业绩；美股盘前Circle、Uber、 麦当劳 将公布财报数据。 （5）第二十四届中国 半导体 封装测试技术与市场年会于11月4日-6日在南京举行。 （6）华为中国政企全光产业峰会2026将于",
+     "source": "东方财富股票",
+     "zh": "11月4日投资日历|高通今日公布2026财年第四季度及全年业绩"
+    },
+    {
+     "title": "11月4日投资日历 | 高通今日公布2026财年第四季度及全年业绩",
+     "link": "http://finance.eastmoney.com/news/11848,202611043920889364.html",
+     "pubDate": "Wed, 04 Nov 2026 08:01:44 +0800",
+     "summary": "（1）2026年11月4日上午10时，国务院台湾事务办公室在国台办新闻发布厅举行例行新闻发布会，发言人就近期两岸热点问题回答记者提问。 （2）2026年11月4日上午10时，国家发展改革委在国家发展改革委北楼中三大会议室召开奋进“十五五”系列新闻发布会，介绍夯实发展支撑有关情况。 （3）今日有6210亿元隔夜逆回购、1510亿元7天期逆回购到期。 （4） 高通 将于11月4日公布2026财年第四季度及全年业绩；美股盘前Circle、Uber、 麦当劳 将公布财报数据。 （5）第二十四届中国 半导体 封装测试技术与市场年会于11月4日-6日在南京举行。 （6）华为中国政企全光产业峰会2026将于",
+     "source": "东方财富资讯",
+     "zh": "11月4日投资日历 | 高通今日公布2026财年第四季度及全年业绩"
+    },
+    {
+     "title": "日韩股市开盘涨跌不一 韩国KOSPI指数开盘涨2.43%",
+     "link": "http://finance.eastmoney.com/news/11440,202611043920889466.html",
+     "pubDate": "Wed, 04 Nov 2026 08:00:59 +0800",
+     "summary": "韩国KOSPI指数开盘涨2.43%， SK海力士 涨4.8%，三星 电子 涨3.6%。日经225指数低开0.17%，报62973.16点。",
+     "source": "东方财富股票",
+     "zh": "日韩股市开盘涨跌不一 韩国KOSPI指数开盘涨2.43%"
+    },
+    {
+     "title": "特朗普迎来形势严峻的期中考试",
+     "link": "http://finance.eastmoney.com/news/1351,202611043920889732.html",
+     "pubDate": "Wed, 04 Nov 2026 08:00:19 +0800",
+     "summary": "美国当地时间11月3日举行中期选举投票。在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。在本次中期选举中，共和党和民主党将角逐国会众议院全部435个席位和参议院100个席位中的35个。选民还将选出36个州的州长以及部分州的州议会议员等地方公职人员。 本次中期选举前，共和党控制着国会参众两院。按选前的国会席位，民主党增加3席就能夺取众议院掌控权。参议院方面，两党在缅因州、得克萨斯州、密歇根州等七个州的竞争相当激烈。民主党需增加4席，方能获得51席的多数优势。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "特朗普迎来形势严峻的期中考试"
+    },
+    {
+     "title": "ETF追踪丨11月3日股票型ETF净申购841亿元 资金加仓沪深300ETF华泰柏瑞",
+     "link": "http://stock.eastmoney.com/news/11868,202611043920889059.html",
+     "pubDate": "Wed, 04 Nov 2026 08:00:11 +0800",
+     "summary": "东方财富 Choice数据显示，11月3日，ETF资金整体净流入798.54亿元，其中，股票型净流入840.67亿元。 股票型ETF中，当日净申购前3依次为：沪深300ETF华泰柏瑞，净申购130.12亿元；科创50ETF华夏，净申购112.24亿元；上证50ETF华夏，净申购103.10亿元。 股票型ETF当日净赎回前3为：中证2000ETF华泰柏瑞，净赎回5.43亿元；证券ETF国泰，净赎回4.50亿元； 半导体 设备ETF国泰，净赎回4.20亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方",
+     "source": "东方财富资讯",
+     "zh": "ETF追踪丨11月3日股票型ETF净申购841亿元 资金加仓沪深300ETF华泰柏瑞"
+    },
+    {
+     "title": "固态电池产业化进程提速 上市公司抢抓行业机遇",
+     "link": "http://stock.eastmoney.com/news/11219,202611043920664760.html",
+     "pubDate": "Wed, 04 Nov 2026 08:00:00 +0800",
+     "summary": "11月3日，《证券日报》记者从高能数造（西安）技术有限公司（以下简称“高能数造”）获悉，该公司此前已完成近亿元B轮股权融资。高能数造是国内 固态电池 干法电极核心装备商。本轮融资凸显资本对 固态电池 上游设备赛道的看好。 近期，多家车企的半 固态电池 项目陆续推进至中试、装车验证阶段，全固态 电池 也在持续开展技术攻坚。上游材料、固态 电池 装备赛道初创企业融资热度不减，资本与产业双线释放积极信号，固态 电池 产业化正迎来加速推进窗口期。 眺远影响力研究院院长高承远对《证券日报》记者表示，2026年是固态电池中试关键窗口期，行业迎来政策扶持、技术兑现、场景拓宽、规模扩容四重利好，产业主线已经从",
+     "source": "东方财富股票",
+     "zh": "固态电池产业化进程提速 上市公司抢抓行业机遇"
+    },
+    {
+     "title": "行业机构判断：2026年中国汽车出口将突破1000万辆",
+     "link": "http://finance.eastmoney.com/news/1355,202611043920889620.html",
+     "pubDate": "Wed, 04 Nov 2026 07:59:29 +0800",
+     "summary": "近日，在由车百会研究院主办的 汽车 产业出海模式创新发展大会上，多位与会嘉宾表示，中国 汽车 出海正从机会窗口期进入能力验证期，出口规模冲刺千万辆关口之际，能否在海外市场“站得住”，关键取决于服务、数据、供应链等体系化能力能否同步跟上。 今年以来，中国 汽车 出口延续高增长态势。数据显示，1—9月，我国 汽车整车 出口820.5万辆，同比增长65.8%，已超过去年全年709.8万辆的出口规模；其中 新能源 汽车出口400.6万辆，同比增长127.9%，占整车出口比重连续4个月过半。多个行业机构判断，2026年中国汽车出口将突破1000万辆，再创 历史新高 。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "行业机构判断：2026年中国汽车出口将突破1000万辆"
+    },
+    {
      "title": "5N Plus expects high end of $100M-$105M 2026 adjusted EBITDA range while expanding Utah site by ~50%",
      "link": "https://seekingalpha.com/news/4664354-5n-plus-expects-high-end-of-100m-105m-2026-adjusted-ebitda-range-while-expanding-utah-site-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 03 Nov 2026 18:58:13 -0500",
@@ -2408,78 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Shares in Apple declined nearly 2% on Tuesday after investors were left feeling disappointed about the company’s gross margin outlook and slowing services revenue growth.",
      "source": "MarketWatch",
      "zh": "What analysts are telling us while Apple’s stock falls after earnings report"
-    },
-    {
-     "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-     "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 22:45:00 GMT",
-     "summary": "The company missed revenue expectations, a tough outcome in today’s less-forgiving tech market.",
-     "source": "MarketWatch",
-     "zh": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street."
-    },
-    {
-     "title": "全球市场：美股收盘涨跌不一 半导体、光通信板块反弹 费城半导体指数涨2.63%",
-     "link": "http://stock.eastmoney.com/news/11784,202611043920681973.html",
-     "pubDate": "Wed, 04 Nov 2026 06:15:56 +0800",
-     "summary": "美股市场： 美股三大指数11月03日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日下跌197.26点，收于51786.72点，跌幅为0.38%； 标准普尔 500种股票指数上涨27.52点，收于7568.92点，涨幅为0.36%； 纳斯达克 综合 指数上涨207.65点，收于25372.01点，涨幅为0.83%。 “科技七巨头”多数上涨， 微软 涨2.74%，Meta涨2.36%， 英伟达 涨2.29%， 亚马逊 涨2.06%， 谷歌-A 涨0.37%； 特斯拉 跌1.32%， 苹果 跌1.90%，此前 苹果 CEO特努斯在财报会上表示，内存价格上涨正拖累公司新一季度毛利率环比下滑，预",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股收盘涨跌不一 半导体、光通信板块反弹 费城半导体指数涨2.63%"
-    },
-    {
-     "title": "美国中期选举日，芯片股三日大跌后反弹，纳指涨0.83%，盘后AMD大涨近8%",
-     "link": "https://wallstreetcn.com/articles/3785045",
-     "pubDate": "Wed, 04 Nov 2026 06:08:33 +0800",
-     "summary": "美股在美国中期选举投票日迎来反弹，人工智能相关板块领涨，此前持续三日的科技股抛售势头得到遏制。与此同时，强于预期的就业数据推升国债收益率，美元走强，黄金承压回落。 周二标普500指数上涨0.4%，纳斯达克100指数收涨0.7%，道琼斯工业平均指数逆势下跌0.4%。芯片股全线回升，英伟达、美光科技均录得涨幅，费城半导体指数大幅跳升，部分抵消了苹果公司业绩不及预期所带来的拖累。 华尔街见闻提及 ，盘后AMD发布Q3业绩报告，营收超预期增45%，数据中心收入近翻倍，Q4指引提速又新高， AMD盘后股价大涨7.6% 。 Meta吸引到其六个月来首次债券发行的稳健需求，募资规模达150亿美元。10年期美",
-     "source": "华尔街见闻",
-     "zh": "美国中期选举日，芯片股三日大跌后反弹，纳指涨0.83%，盘后AMD大涨近8%"
-    },
-    {
-     "title": "AI’s control over the bond market is growing — even rivaling war and elections",
-     "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 22:06:00 GMT",
-     "summary": "“Hyperscalers” burned through their cash. Now their bond deals are helping fuel the economy.",
-     "source": "MarketWatch",
-     "zh": "AI’s control over the bond market is growing — even rivaling war and elections"
-    },
-    {
-     "title": "11月4日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11158,202611043920677196.html",
-     "pubDate": "Wed, 04 Nov 2026 06:03:17 +0800",
-     "summary": "11月4日(星期三)，今日报刊头条主要内容精华如下： 中国证券报 “人工智能乌镇对话” DeepSeek、千问、MiniMax都来了 继去年主持“杭州六小龙乌镇对话”之后，11月3日，在2026世界互联网大会乌镇峰会主论坛上，中国工程院院士、之江实验室主任王坚又主持了一场“ 人工智能 乌镇对话”。开源为何成为AI竞赛的关键变量？开源模型如何治理安全风险、赢得更多信任？AI时代，人的能力如何重塑？围绕这些话题，国际 人工智能 治理协会主席约翰·希金斯，DeepSeek研究工程师高熙、 阿里巴巴 ATH事业群千问大语言模型项目负责人刘大一恒、MiniMax首席架构师、开放平台负责人冯雯展开讨论。 ",
-     "source": "东方财富资讯",
-     "zh": "11月4日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "超微电脑大涨！Q1财季营收及业绩指引双超预期，AI服务器需求强劲｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3785113",
-     "pubDate": "Wed, 04 Nov 2026 05:57:16 +0800",
-     "summary": "超微电脑（Super Micro Computer）发布的最新季度业绩及前景展望大幅超出市场预期，显示人工智能基础设施建设热潮持续为这家服务器制造商带来强劲订单。 公司周二公布， 截至2026年9月30日的2027财年第一季度营收199亿美元，同比增长约3倍，远超分析师均值约164亿美元的预期。 与此同时， 公司将第二季度营收指引区间上调至195亿至215亿美元，高于华尔街此前预估的约171亿美元。 将2027全财年营收预期从此前的650亿至720亿美元，上调至720亿至820亿美元，高于分析师均值约692亿美元。 受益于云服务商及科技企业持续扩充数据中心容量，这家英伟达芯片服务器的核心供应商",
-     "source": "华尔街见闻",
-     "zh": "超微电脑大涨！Q1财季营收及业绩指引双超预期，AI服务器需求强劲｜财报见闻"
-    },
-    {
-     "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
-     "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 21:30:00 GMT",
-     "summary": "Falling below 7,500 would lead to a dramatic increase in selling pressure and volatility, a J.P. Morgan strategist says, and that could end in a full-blown correction",
-     "source": "MarketWatch",
-     "zh": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?"
-    },
-    {
-     "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-     "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 21:27:00 GMT",
-     "summary": "Strategically embracing the right symbols in the office really can advance your career.",
-     "source": "MarketWatch",
-     "zh": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling"
-    },
-    {
-     "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-     "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-     "pubDate": "Tue, 03 Nov 2026 21:13:00 GMT",
-     "summary": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
-     "source": "MarketWatch",
-     "zh": "Super Micro’s stock pops as earnings show booming demand for AI servers"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 10:31:57",
+ "generated_at": "2026/11/5 10:37:37",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,30 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+     "link": "https://www.qbitai.com/2026/11/507696.html",
+     "pubDate": "Thu, 05 Nov 2026 02:01:51 +0000",
+     "summary": "Data + AI 技术实践巡展 · 上海站",
+     "source": "量子位",
+     "zh": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！"
+    },
+    {
+     "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+     "link": "https://www.qbitai.com/2026/11/507707.html",
+     "pubDate": "Thu, 05 Nov 2026 01:59:37 +0000",
+     "summary": "最快6秒出图",
+     "source": "量子位",
+     "zh": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了"
+    },
+    {
+     "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+     "link": "https://www.qbitai.com/2026/11/507697.html",
+     "pubDate": "Thu, 05 Nov 2026 01:54:44 +0000",
+     "summary": "被轰成筛子了…",
+     "source": "量子位",
+     "zh": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的"
+    },
     {
      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
      "link": "https://www.qbitai.com/2026/11/507688.html",
@@ -186,14 +210,6 @@ window.INDUSTRY_DATA = {
      "zh": "又一千亿AI独角兽诞生！英伟达投的AI推理创企获87亿新融资"
     },
     {
-     "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
-     "link": "https://www.qbitai.com/2026/11/507586.html",
-     "pubDate": "Wed, 04 Nov 2026 10:08:38 +0000",
-     "summary": "仅激活3B参数，十项基准全线提升！",
-     "source": "量子位",
-     "zh": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型"
-    },
-    {
      "title": "全球唯二，百度抢先交卷！首个物理AI世界模型来了",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652740261&idx=1&sn=3ae30a3d5d9466d8bfdcb5bd4820a9b9",
      "pubDate": "Wed, 04 Nov 2026 18:03:00 +0800",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月4日消息，今天凌晨，Anthropic 开源大模型可证明推理系统FlashProve，详细技术报告于11月2日发布 。服务商可通过该系统为模型回答生成密码学证明，用户无需获取模型权重或自行运行大模型，就能在CPU上核验输出是否符合指定模型的计算结果。 模型调用API的机制类似黑箱，发送提示词后，用户仅能查看生成的Token，但无法验证为自己提供服务的是否为所选模型。此次开源的FlashProve旨在解决这一问题， 上可抓“模型掉包”，下可验“回答篡改” ，还可为监管机构提供监测服务商和企业AI使用合规性的渠道 。 该模型一经发出，X上的外网",
      "source": "智东西",
      "zh": "17秒验明AI“真身”！Anthropic开源可证明推理系统，能抓模型调包"
-    },
-    {
-     "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
-     "link": "https://www.qbitai.com/2026/11/507574.html",
-     "pubDate": "Wed, 04 Nov 2026 08:59:57 +0000",
-     "summary": "一场别开生面的具身智能科技盛宴",
-     "source": "量子位",
-     "zh": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场"
-    },
-    {
-     "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
-     "link": "https://www.qbitai.com/2026/11/507567.html",
-     "pubDate": "Wed, 04 Nov 2026 08:49:12 +0000",
-     "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
-     "source": "量子位",
-     "zh": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades",
+     "link": "https://cnevpost.com/2026/11/05/zeekr-starts-pre-sales-2027-7x/",
+     "pubDate": "Thu, 05 Nov 2026 02:34:18 +0000",
+     "summary": "The pre-sales starting price is unchanged from the previous model, with a 900-volt architecture standard and a new 85-kWh battery option. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades"
+    },
+    {
      "title": "BLUETTI’s flexible $1,099 Apex 200 backs up your home – and powers your RV",
      "link": "https://electrek.co/2026/11/04/bluetti-apex-200-backs-up-your-home-and-powers-your-rv/",
      "pubDate": "Thu, 05 Nov 2026 02:00:00 +0000",
@@ -792,14 +800,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nio will share its insights on building an AI-native organization, and unveil new AI-powered cockpit and assisted driving products. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Nio to hold Nio IN 2026 tech day on November 25 in Guangzhou with focus on AI"
-    },
-    {
-     "title": "Buick Electra GS appears in China regulatory filing, expanding NEV lineup",
-     "link": "https://cnevpost.com/2026/11/04/buick-electra-gs-china-regulatory-filing/",
-     "pubDate": "Wed, 04 Nov 2026 08:00:03 +0000",
-     "summary": "The Electra GS plug-in hybrid sedan features a fastback design and an electric motor with a peak output of 165 kW (221 hp). For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Buick Electra GS appears in China regulatory filing, expanding NEV lineup"
     },
     {
      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
@@ -1746,6 +1746,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "鸿蒙智行问界新 M8 更多规格公布：升级三零重力座椅、-18℃ 超低温速冷车载冷暖箱，11 月 13 日上市",
+     "link": "https://www.ithome.com/1/022/544.htm",
+     "pubDate": "Thu, 05 Nov 2026 02:32:42 GMT",
+     "summary": "IT之家 11 月 5 日消息，AITO 汽车昨日公布问界新 M8 更多配置信息，新车搭载三零重力座椅，全车健康照明，升级-18℃ 超低温速冷车载冷暖箱。据悉，新车将于 11 月 13 日正式上市。 据介绍， 问界新 M8 首发全车健康照明 ，实现全车屏幕、灯光全光谱护眼。新车首发配备车载护眼“大路灯”，顶棚学习灯可在车内打造书房模式。同时搭载行业最大面积小桌板化妆镜，尺寸 192mm×147mm，支持无极悬停，自带环形补光灯。前排还升级配备同级最大遮阳板化妆镜，尺寸 318mm×105mm，色温亮度可调。 新车新增水平横移零重力座椅，二排右侧零重力座椅增加左右横向调节功能； 主副驾双零重力座",
+     "source": "IT之家",
+     "zh": "鸿蒙智行问界新 M8 更多规格公布：升级三零重力座椅、-18℃ 超低温速冷车载冷暖箱，11 月 13 日上市"
+    },
+    {
+     "title": "AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？",
+     "link": "https://www.huxiu.com/article/4903155.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 10:26:10 +0800",
+     "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·产业观察，原文标题：《AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？》 “县城承接的是风口之后留下的空隙，并非风口本身。” 10月29日，深交所上市委员会在第59次会上批准了微容科技向创业板发行股票上市的申请。11月2日该公司提交注册，拟募资16.75亿元，其中13.7亿元投向罗定的高端MLCC扩产项目。 根据弗若斯特沙利文的数据，2024年它的超微型MLCC销量排中国第一、全球第二，仅次于日本村田；按MLCC营业收入算，在中国大陆厂商里排第三。 两种说法指的是不同的事情，但是指向的结果是一样的，在全球最擅长做",
+     "source": "虎嗅",
+     "zh": "AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？"
+    },
+    {
      "title": "Win11 内存占用高≠电脑卡顿，微软称响应速度才是硬指标",
      "link": "https://www.ithome.com/1/022/541.htm",
      "pubDate": "Thu, 05 Nov 2026 02:22:16 GMT",
@@ -1826,28 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)"
     },
     {
-     "title": "对前额叶特别友好的 7 个习惯",
-     "link": "https://www.huxiu.com/article/4903142.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:08:05 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 前额叶，突然就成了一个热词。 自律、延迟满足、情绪稳定、做长期规划，几乎所有让一个人显得&ldquo;成熟&rdquo;的能力，都被归到了它的名下。 一个很自然的推论也就出现了，既然前额叶这么重要，那就把它练强一点。 很多人下载了脑力训练 App，每天打卡做记忆小游戏。有人会给自己层层加码，早起、冷水澡、戒糖、戒手机。 但是真实的结果往往是，练得越狠，崩得越快。 2016 年，伊利诺伊大学的七位心理学家，在《公共利益心理科学》上发表过一篇长篇综述，几乎把当时能找到的脑力训练研究，都梳理了一遍。 结",
-     "source": "虎嗅",
-     "zh": "对前额叶特别友好的 7 个习惯"
-    },
-    {
      "title": "OPPO Reno17 系列手机官宣 11 月 9 日见，全焦段 4K 超清长实况",
      "link": "https://www.ithome.com/1/022/537.htm",
      "pubDate": "Thu, 05 Nov 2026 02:07:21 GMT",
      "summary": "IT之家 11 月 5 日消息，OPPO 今日官宣 Reno17 系列手机 11 月 9 日见，新机外观以及配置信息暂未公布。 IT之家注意到，OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板于 10 月 30 日开启预约，预计将于近期上市。此外，博主 @数码闲聊站 已爆料了 OPPO Reno17 Pro 的部分核心配置： 6.32 英寸 1.5K 分辨率、120Hz 刷新率直屏 联发科天玑 8550 SUPER 处理器 前置摄像头 5000 万像素 后置 2 亿像素大底云台主摄、5000 万像素超广角和 5000 万像素潜望长焦 电池容量预计在 7000mAh",
      "source": "IT之家",
      "zh": "OPPO Reno17 系列手机官宣 11 月 9 日见，全焦段 4K 超清长实况"
-    },
-    {
-     "title": "原 Uber 总裁 Jill Hazelbaker 加入 OpenAI：美国政界出身，担任首席企业事务官",
-     "link": "https://www.ithome.com/1/022/536.htm",
-     "pubDate": "Thu, 05 Nov 2026 02:06:26 GMT",
-     "summary": "IT之家 11 月 5 日消息，OpenAI 于 11 月 3 日宣布， Jill Hazelbaker 将加入 OpenAI ，担任首席企业事务官，负责公司的全球传播与企业定位工作。 加入 OpenAI 之前， Jill 担任 Uber 总裁兼首席企业事务官 ，负责领导公司的全球传播、市场营销、公共政策、安全及人力资源团队。 加入 Uber 之前， Jill 在 Snap 负责传播与公共政策工作 。更早之前， 她曾在谷歌担任高级领导职务 ，负责全球企业传播、欧洲、中东和非洲地区的传播，以及欧洲地区的政府关系工作。 IT之家从公告了解到， Jill 的职业生涯始于美国政界 ，曾在地方、州及全国",
-     "source": "IT之家",
-     "zh": "原 Uber 总裁 Jill Hazelbaker 加入 OpenAI：美国政界出身，担任首席企业事务官"
     },
     {
      "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)",
@@ -2242,52 +2242,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "AdvanSix outlines $98M Project CENTURY through 2031 with $47M proposed USDA funding",
-     "link": "https://seekingalpha.com/news/4666043-advansix-outlines-98m-project-century-through-2031-with-47m-proposed-usda-funding?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:25:22 -0500",
+     "title": "LeMaitre Vascular declares $0.25 dividend",
+     "link": "https://seekingalpha.com/news/4666052-lemaitre-vascular-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:30:21 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "AdvanSix outlines $98M Project CENTURY through 2031 with $47M proposed USDA funding"
+     "zh": "LeMaitre Vascular declares $0.25 dividend"
     },
     {
-     "title": "Permian Resources declares $0.16 dividend",
-     "link": "https://seekingalpha.com/news/4666042-permian-resources-declares-0_16-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:23:54 -0500",
+     "title": "Sinclair Broadcast declares $0.25 dividend",
+     "link": "https://seekingalpha.com/news/4666051-sinclair-broadcast-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:29:45 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Permian Resources declares $0.16 dividend"
+     "zh": "Sinclair Broadcast declares $0.25 dividend"
     },
     {
-     "title": "ARKO Petroleum Corp. declares $0.50 dividend",
-     "link": "https://seekingalpha.com/news/4666041-arko-petroleum-corp-declares-0_50-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:23:29 -0500",
+     "title": "Safety Insurance declares $0.92 dividend",
+     "link": "https://seekingalpha.com/news/4666050-safety-insurance-declares-0_92-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:29:17 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "ARKO Petroleum Corp. declares $0.50 dividend"
+     "zh": "Safety Insurance declares $0.92 dividend"
     },
     {
-     "title": "Fortive declares $0.07 dividend",
-     "link": "https://seekingalpha.com/news/4666040-fortive-declares-0_07-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:22:36 -0500",
+     "title": "AFLAC declares $0.61 dividend",
+     "link": "https://seekingalpha.com/news/4666049-aflac-declares-0_61-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:28:52 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Fortive declares $0.07 dividend"
+     "zh": "AFLAC declares $0.61 dividend"
     },
     {
-     "title": "Brink’s targets early January 2027 NCR Atleos close while projecting $275M-$295M Q4 adjusted EBITDA",
-     "link": "https://seekingalpha.com/news/4666039-brink-s-targets-early-january-2027-ncr-atleos-close-while-projecting-275m-295m-q4-adjusted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:15:30 -0500",
+     "title": "Runway Growth Finance declares $0.33 dividend",
+     "link": "https://seekingalpha.com/news/4666048-runway-growth-finance-declares-0_33-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:28:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Brink’s targets early January 2027 NCR Atleos close while projecting $275M-$295M Q4 adjusted EBITDA"
+     "zh": "Runway Growth Finance declares $0.33 dividend"
     },
     {
-     "title": "Deluxe outlines $2.13B-$2.15B 2026 revenue outlook while targeting $15M Celero synergies",
-     "link": "https://seekingalpha.com/news/4666038-deluxe-outlines-2_13b-2_15b-2026-revenue-outlook-while-targeting-15m-celero-synergies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:15:25 -0500",
+     "title": "Blue Owl Capital declares $0.31/share & supplemental dividend of $0.01/share",
+     "link": "https://seekingalpha.com/news/4666047-blue-owl-capital-declares-031share-supplemental-dividend-of-001share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:27:55 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Deluxe outlines $2.13B-$2.15B 2026 revenue outlook while targeting $15M Celero synergies"
+     "zh": "Blue Owl Capital declares $0.31/share & supplemental dividend of $0.01/share"
     },
     {
      "title": "油价雪上加霜！停战预期之外，全球原油过剩压力也来了",
@@ -2312,6 +2312,54 @@ window.INDUSTRY_DATA = {
      "summary": "本届广交会累计吸引了来自全球219个国家和地区的35.2万名境外采购商到会，较上届增长12.2%，到会人数创下历史新高。",
      "source": "经济观察网",
      "zh": "第140届广交会闭幕 乡村好物从田间地头走向国际市场"
+    },
+    {
+     "title": "11月5日云计算板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923019664.html",
+     "pubDate": "Thu, 05 Nov 2026 09:58:02 +0800",
+     "summary": "&emsp;&emsp;11月5日9点41分， 云计算 板块指数报2995.42点，涨幅达2%，成交158.38亿元，换手率0.32%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 欧普泰 报8.43元，涨12.40%； 润建股份 报55.38元，涨6.19%； 汉得信息 报15.06元，涨6.06%； 优刻得-W 报27.95元，涨5.71%； 光云科技 报15.13元，涨5.66%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "11月5日云计算板块涨幅达2%"
+    },
+    {
+     "title": "上能电气11月5日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923019394.html",
+     "pubDate": "Thu, 05 Nov 2026 09:57:59 +0800",
+     "summary": "以下是 上能电气 在北京时间11月5日09:41分盘口异动快照： 11月5日， 上能电气 盘中涨幅达5%，截至9点41分，报29.5元，成交3.66亿元，换手率2.89%。 分笔 09:41:36 29.50 610↑ 09:41:33 29.49 539↓ 09:41:30 29.49 514↑ 09:41:27 29.48 931↑ 09:41:24 29.47 280↑ 09:41:21 29.46 198↑ 09:41:18 29.45 493↑ 09:41:15 29.44 163↑ 09:41:12 29.42 283↑ 09:41:09 29.40 123↓ 报价 卖五 29.5",
+     "source": "东方财富股票",
+     "zh": "上能电气11月5日盘中涨幅达5%"
+    },
+    {
+     "title": "世嘉科技11月5日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923019218.html",
+     "pubDate": "Thu, 05 Nov 2026 09:57:57 +0800",
+     "summary": "以下是 世嘉科技 在北京时间11月5日09:41分盘口异动快照： 11月5日， 世嘉科技 盘中快速上涨，5分钟内涨幅超过2%，截至9点41分，报18.83元，成交2334.31万元，换手率0.55%。 分笔 09:41:36 18.83 30↑ 09:41:33 18.82 4↑ 09:41:30 18.82 12↑ 09:41:27 18.81 2↑ 09:41:24 18.80 5↓ 09:41:21 18.80 26↑ 09:41:18 18.78 52↑ 09:41:15 18.77 16↑ 09:41:12 18.76 33↑ 09:41:09 18.75 30↓ 报价 卖五 18.",
+     "source": "东方财富股票",
+     "zh": "世嘉科技11月5日快速上涨"
+    },
+    {
+     "title": "盈建科11月5日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923019118.html",
+     "pubDate": "Thu, 05 Nov 2026 09:57:56 +0800",
+     "summary": "以下是 盈建科 在北京时间11月5日09:41分盘口异动快照： 11月5日， 盈建科 盘中涨幅达5%，截至9点41分，报24.16元，成交1171.86万元，换手率0.82%。 分笔 09:41:39 24.16 9↑ 09:41:36 24.07 226↑ 09:41:30 24.07 1↑ 09:41:27 24.06 28↑ 09:41:24 24.03 339↑ 09:41:21 23.95 2↑ 09:41:06 23.94 9↑ 09:41:03 23.94 2↑ 09:41:00 23.94 43↑ 09:40:57 23.91 1↑ 报价 卖五 24.19 9 卖四 24.18",
+     "source": "东方财富股票",
+     "zh": "盈建科11月5日盘中涨幅达5%"
+    },
+    {
+     "title": "11月5日网约车板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923019024.html",
+     "pubDate": "Thu, 05 Nov 2026 09:57:56 +0800",
+     "summary": "&emsp;&emsp;11月5日9点41分， 网约车 板块指数报790.587点，涨幅达2%，成交4.85亿元，换手率0.14%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 锦江在线 报10.68元，涨7.99%； 立方控股 报15.69元，涨6.81%； 电声股份 报8.43元，涨3.56%； 海汽集团 报11.84元，涨3.41%； 大众交通 报3.98元，涨2.31%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "11月5日网约车板块涨幅达2%"
+    },
+    {
+     "title": "艾艾精工11月5日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923018975.html",
+     "pubDate": "Thu, 05 Nov 2026 09:57:55 +0800",
+     "summary": "以下是 艾艾精工 在北京时间11月5日09:41分盘口异动快照： 11月5日， 艾艾精工 盘中快速反弹，5分钟内涨幅超过2%，截至9点41分，报56.68元，成交1746.36万元，换手率0.24%。 分笔 09:41:39 56.68 2↑ 09:41:36 56.61 5↑ 09:41:33 56.60 5↑ 09:41:27 56.60 6↑ 09:41:21 56.60 5↑ 09:41:18 56.58 2↑ 09:41:15 56.57 9↓ 09:41:12 56.61 1↑ 09:41:09 56.61 3↑ 09:41:06 56.60 6↑ 报价 卖五 56.77 2 卖四",
+     "source": "东方财富股票",
+     "zh": "艾艾精工11月5日快速反弹"
     },
     {
      "title": "险企单季巨亏408亿元背后，投资者更该关注什么",
@@ -2378,22 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "民主党横扫国会，科技巨头市值单日暴增近万亿美元"
     },
     {
-     "title": "11月5日集合竞价：闽发铝业、浙文影业4连板",
-     "link": "http://stock.eastmoney.com/news/11752,202611053922837780.html",
-     "pubDate": "Thu, 05 Nov 2026 09:26:10 +0800",
-     "summary": "11月5日，三大指数集体低开，上证指数低开1.07%，深证成指低开1.05%，创业板指低开2%。板块方面， 白银 领涨， 盛达资源 涨10.01%， 贵金属 、 黄金 等开盘涨幅居前。 个股方面，5股竞价涨停，其中 闽发铝业 4连板、 浙文影业 4连板、 永臻股份 3连板、 深中华A 2连板、 金螳螂 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责",
-     "source": "东方财富资讯",
-     "zh": "11月5日集合竞价：闽发铝业、浙文影业4连板"
-    },
-    {
-     "title": "“蓝色浪潮”席卷国会 AI数据中心行业命运何去何从？一文读懂",
-     "link": "http://finance.eastmoney.com/news/1354,202611053922837693.html",
-     "pubDate": "Thu, 05 Nov 2026 09:23:04 +0800",
-     "summary": "随着民主党在中期选举中掀起“蓝色浪潮”、成功“横扫”参众两院并夺回国会控制权， 数据中心 行业命运将迎来怎样的变数？ 众所周知， 数据中心 一直是本次中期选举的焦点议题，民主党与诸多美国民众一样大力反对AI基建如此大规模且快速地扩张，并拿下两 大数据 中心重镇： 在得克萨斯州，民主党大获全胜，拿下参议员席位与州长职位，结束了共和党在这个“深红州”长达三十多年的选举垄断局面；而在另一个关键摇摆州——俄亥俄州，民主党候选人埃米·阿克顿（Amy Acton）顺利拿下州长职位。她素来主张：如果 数据中心 项目无法满足成本、工会用工、信息公开、 环保 、社区收益协议及开发相关要求，就对其进行“有条件暂停",
-     "source": "东方财富资讯",
-     "zh": "“蓝色浪潮”席卷国会 AI数据中心行业命运何去何从？一文读懂"
-    },
-    {
      "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
      "link": "https://wallstreetcn.com/articles/3785208",
      "pubDate": "Thu, 05 Nov 2026 09:15:08 +0800",
@@ -2440,38 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "The burger chain is overhauling its menu and seeking to deliver a “clear and compelling value proposition.”",
      "source": "MarketWatch",
      "zh": "McDonald’s tests new value menu as fast-food discount wars heat up"
-    },
-    {
-     "title": "放量大涨！A股成交时隔24个交易日再超2万亿 反弹持续性如何？",
-     "link": "http://finance.eastmoney.com/news/1344,202611053922693722.html",
-     "pubDate": "Thu, 05 Nov 2026 08:58:48 +0800",
-     "summary": "A股周三强势放量反弹。 11月4日，市场午后出现快速且大幅的上攻行情。至收盘，上证综指涨2.16%，报3686.17点；深证成指涨4.22%，报11335.69点；创业板指涨6.4%，报2544.73点。 对于周三市场的强势反弹，分析人士指出，主要是情绪面、政策面、估值和海外不确定缓解等内外部因素共振所致。 “周三A股迎来久违的反弹行情，可以说是内外因素共振。一方面，是近期国内稳市举措效果显现，特别是随着此前调整较大的科技股出现反击，市场情绪明显回暖，A股时隔一个多月后成交额再次超过了2万亿元。另一方面，则是海外多方面的不确定性都有所消减。”有券商首席策略对澎湃新闻记者分析说。 Wind数据显",
-     "source": "东方财富资讯",
-     "zh": "放量大涨！A股成交时隔24个交易日再超2万亿 反弹持续性如何？"
-    },
-    {
-     "title": "8390亿美元！美政府“拆东墙补西墙”：单周美债拍卖总额刷新纪录",
-     "link": "http://finance.eastmoney.com/news/1344,202611053922660066.html",
-     "pubDate": "Thu, 05 Nov 2026 08:58:18 +0800",
-     "summary": "据报道，美国政府在一周内通过发行国库券和国债借入了创纪录的8390亿美元，所得资金既用于偿还到期债务，也用于筹集为联邦财政赤字融资所需的额外资金。 据Mischler Financial Group利率销售和交易董事总经理Tony Farren称，10月26日至30日发行的国库券、浮息国债以及2年期、5年期和7年期美国国债总规模打破了去年同期创下的7950亿美元的周纪录。 不过需要注意的是，这8390亿美元是11次拍卖规模的总和，其中大部分用于偿还到期国库券持有人。仅有680亿美元代表美国政府的实际新增借款，远未达到历史最高水平。 作为背景，此前新增借款纪录出现在2020年3月和4月，当时为筹",
-     "source": "东方财富资讯",
-     "zh": "8390亿美元！美政府“拆东墙补西墙”：单周美债拍卖总额刷新纪录"
-    },
-    {
-     "title": "盘后大跌超6%！高通业绩指引不及预期：供应链成本上涨拖累利润 手机需求仍处寒冬",
-     "link": "http://finance.eastmoney.com/news/1344,202611053922649347.html",
-     "pubDate": "Thu, 05 Nov 2026 08:52:20 +0800",
-     "summary": "美东时间周三盘后，美国芯片厂商 高通 公布季度财报，业绩超出华尔街分析师一致预期，但其给出的新财季盈利指引不及市场预期，盘后股价下跌超6%。 以下是 高通 在截至9月的第四财季业绩与LSEG统计的分析师一致预期对比： 调整后每股收益：2.17美元，预期2.16美元 调整后营收：104.4亿美元 对于截至12月的第一财季， 高通 预计每股收益区间为2.15美元-2.35美元，营收区间104亿-112亿美元；分析师此前预期每股收益2.27美元、营收104.8亿美元。 尽管营收指引高于预期，但利润指引却略不及预期，表明公司的毛利率跑输预期。 高通表示，由于零部件与制造成本普遍上涨，与许多芯片制造商一",
-     "source": "东方财富资讯",
-     "zh": "盘后大跌超6%！高通业绩指引不及预期：供应链成本上涨拖累利润 手机需求仍处寒冬"
-    },
-    {
-     "title": "罕见！伯克希尔连续3天扫货！目标是Sirius XM",
-     "link": "http://finance.eastmoney.com/news/1354,202611053922635283.html",
-     "pubDate": "Thu, 05 Nov 2026 08:48:12 +0800",
-     "summary": "伯克希尔有新动作！ 最新披露的监管文件显示，当地时间10月30日至11月3日，“股神”巴菲特旗下伯克希尔在三个交易日内连续增持卫星广播公司Sirius XM。此次大手笔增持之际，Sirius XM股价过去一周上涨12.74%，周二收盘报30.80美元/股，总市值约104亿美元。 具体而言，10月30日，伯克希尔以每股28.89美元的加权平均价格买入74.4万股；11月2日以每股29.47美元的加权平均价格买入约6.70万股；11月3日再以每股30.23美元的加权平均价格买入11.33万股。三个交易日合计，伯克希尔买入92.43万股Sirius XM普通股，总耗资约2689万美元。 上述交易完成",
-     "source": "东方财富资讯",
-     "zh": "罕见！伯克希尔连续3天扫货！目标是Sirius XM"
     },
     {
      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",

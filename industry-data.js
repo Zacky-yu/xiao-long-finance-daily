@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 18:46:49",
+ "generated_at": "2026/11/5 18:52:04",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,30 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月5日报道，近日，2026世界顶尖科学家论坛第二届国际工程智能大会举行。会上，加拿大工程院外籍院士、智象元一（HiDream.ai）创始人兼CEO梅涛发表演讲，提出构建智能体化的全模态世界模型（Agentic Omnimodal World Models），迈向下一代世界智能。 AI模型聚合平台OpenRouter数据显示，全球大模型调用规模正进入爆发阶段。截至今年10月，中国周Token调用量达93万亿，是美国的4.16倍，连续26周位居 全球第一 。 这些数字背后，是AI正从“工具”快速演变为像水、像电一样的新型社会基础设施。 与此同时",
      "source": "智东西",
      "zh": "智象创始人梅涛演讲：提出构建智能体化的全模态世界模型"
+    },
+    {
+     "title": "对谈千问蒋冠军：从模型、记忆到生态，Personal Agent的技术架构如何搭建？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651072404&idx=1&sn=1de487a458c1d282c00b4a696aae70ee",
+     "pubDate": "Thu, 05 Nov 2026 16:21:00 +0800",
+     "summary": "下一代 AI 原生应用是什么样？",
+     "source": "机器之心",
+     "zh": "对谈千问蒋冠军：从模型、记忆到生态，Personal Agent的技术架构如何搭建？"
+    },
+    {
+     "title": "刚刚，百度开源全新预训练基模，还是主打效率的Flash",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651072404&idx=2&sn=4dafbecc77de04a45e65aa78c40e6b16",
+     "pubDate": "Thu, 05 Nov 2026 16:21:00 +0800",
+     "summary": "文心5.5 Flash Base",
+     "source": "机器之心",
+     "zh": "刚刚，百度开源全新预训练基模，还是主打效率的Flash"
+    },
+    {
+     "title": "不做Token化，也不搞双系统！多模态模型有了第三条路",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651072404&idx=3&sn=215382bbb92aebdbef3c201ac3e33851",
+     "pubDate": "Thu, 05 Nov 2026 16:21:00 +0800",
+     "summary": "连续统一多模态模型的想象空间，或许才刚刚打开。",
+     "source": "机器之心",
+     "zh": "不做Token化，也不搞双系统！多模态模型有了第三条路"
     },
     {
      "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
      "source": "TechCrunch AI",
      "zh": "Nothing CEO says company’s mysterious AI-first device is dropping next month"
-    },
-    {
-     "title": "Almost no one uses AI agents to book their Uber, company says",
-     "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-     "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
-     "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-     "source": "TechCrunch AI",
-     "zh": "Almost no one uses AI agents to book their Uber, company says"
-    },
-    {
-     "title": "OpenAI is already trying to shape the 2028 election",
-     "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-     "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
-     "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-     "source": "TechCrunch AI",
-     "zh": "OpenAI is already trying to shape the 2028 election"
-    },
-    {
-     "title": "高通连续九年全勤赴约进博会，6G终端原型机将迎全球首展",
-     "link": "https://zhidx.com/p/607544.html",
-     "pubDate": "Thu, 05 Nov 2026 05:02:56 +0800",
-     "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月5日报道，第九届中国国际进口博览会今日开幕，高通将连续第九年参展。今年，高通围绕“让智能计算无处不在”，与合作伙伴一起展示6G终端原型机、智能体AI前沿应用与多元智能终端成果。 高通成立40余年，在中国发展超过30年，持续投入连接、高性能低功耗计算和AI等基础技术研发，联手合作伙伴推动智能手机、PC、汽车、扩展现实和物联网等领域的创新与发展。自2018年首届进博会以来，高通连续9年参展，持续展示前沿技术以及与中国生态伙伴的合作创新成果。 “自首届进博会以来，高通每年如约参展。这不仅是一次次赴约，也是一段与中国产业伙伴共同创新、共同成长的历",
-     "source": "智东西",
-     "zh": "高通连续九年全勤赴约进博会，6G终端原型机将迎全球首展"
     }
    ]
   },
@@ -1050,12 +1050,12 @@ window.INDUSTRY_DATA = {
      "zh": "APS expects sales to double by 2041, plans extending coal use to 2038"
     },
     {
-     "title": "Trump ban on foreign grid components sparks industry concern over cost, practicality",
+     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
      "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
      "pubDate": "Wed, 04 Nov 2026 11:41:26 -0500",
-     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
+     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
-     "zh": "Trump ban on foreign grid components sparks industry concern over cost, practicality"
+     "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
     },
     {
      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
      "zh": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes"
     },
     {
+     "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+     "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+     "pubDate": "Thu, 05 Nov 2026 15:36:19 +0530",
+     "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk o",
+     "source": "The Hacker News",
+     "zh": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
+    },
+    {
      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
      "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
      "pubDate": "Thu, 05 Nov 2026 10:02:00 +0000",
@@ -1650,14 +1658,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cyberattack disrupts blood storage refrigeration systems in France"
     },
     {
-     "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-     "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-     "pubDate": "Wed, 04 Nov 2026 22:30:46 +0530",
-     "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4.",
-     "source": "The Hacker News",
-     "zh": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root"
-    },
-    {
      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
      "pubDate": "Wed, 04 Nov 2026 11:58:46 -0500",
@@ -1753,6 +1753,22 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "OpenAI pledges to change how it handles data center deals, including avoiding nondisclosure agreements and cutting power usage, after Democrats&apos; midterm wins (Dina Bass/Bloomberg)",
+     "link": "https://www.techmeme.com/261105/p11#a261105p11",
+     "pubDate": "Thu, 05 Nov 2026 05:45:37 -0500",
+     "summary": "Dina Bass / Bloomberg : OpenAI pledges to change how it handles data center deals, including avoiding nondisclosure agreements and cutting power usage, after Democrats' midterm wins &nbsp; &mdash;&nbsp; OpenAI said it will avoid nondisclosure agreements when it negotiates data center deals and ensur",
+     "source": "Techmeme",
+     "zh": "OpenAI pledges to change how it handles data center deals, including avoiding nondisclosure agreements and cutting power usage, after Democrats&apos; midterm wins (Dina Bass/Bloomberg)"
+    },
+    {
+     "title": "法国一银行遭网络攻击，约 1 亿欧元被转走并兑换成加密货币",
+     "link": "https://www.ithome.com/1/022/942.htm",
+     "pubDate": "Thu, 05 Nov 2026 10:44:42 GMT",
+     "summary": "IT之家 11 月 5 日消息，法国地区性银行阿尔凯亚互助信贷银行（Crédit Mutuel Arkéa）周三表示，该行遭遇网络攻击，黑客通过此次攻击实施了欺诈性转账，涉案金额约为 1 亿欧元 （IT之家注：现汇率约合 7.5 亿元人民币） 。 该银行表示，此次攻击目前已得到控制。黑客入侵了阿尔凯亚银行自身的账户，并向其他银行账户转账，并未侵入客户账户，因此客户没有遭受任何资金损失。 阿尔凯亚银行补充称，被盗资金随后通过专业交易平台兑换成了加密货币。目前，部分资金已被冻结，银行也正在采取其他措施追回剩余资金。 该银行排除了相关转账由人为操作失误造成的可能性，并表示：“这是一次来自外部的复杂网",
+     "source": "IT之家",
+     "zh": "法国一银行遭网络攻击，约 1 亿欧元被转走并兑换成加密货币"
+    },
     {
      "title": "日本运营商 NTT Docomo 发生全国性 5G SA 通信故障，官方建议切换至 4G",
      "link": "https://www.ithome.com/1/022/941.htm",
@@ -1858,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "看一个家庭到底有钱没钱，不看房不看车，就看给娃教育花多少钱"
     },
     {
-     "title": "《绝区零》宣布适配 iPhone Duo：苹果执行董事长库克曾前往上海米哈游总部，“大伟哥”亲自接待",
-     "link": "https://www.ithome.com/1/022/936.htm",
-     "pubDate": "Thu, 05 Nov 2026 10:25:09 GMT",
-     "summary": "IT之家 11 月 5 日消息，米哈游《绝区零》今日发布对 iPhone Duo 机型的适配说明： 《绝区零》现已支持对 iPhone Duo 机型的适配，有需要的绳匠请前往 App Store 搜索《绝区零》， 手动选择更新至 3.3.1 版本后即可体验相关适配功能 。若您已开启 App 自动更新，且游戏版本已更新至 3.3.1，则无需再次手动更新，可直接体验相关适配功能。 《云 · 绝区零》将在后续版本更新 iPhone Duo 的适配 ，请绳匠关注后续官方公告。 据IT之家此前报道，今年 10 月，Apple 执行董事长 Tim Cook（蒂姆 · 库克）最近现身上海米哈游总部，米哈游创",
-     "source": "IT之家",
-     "zh": "《绝区零》宣布适配 iPhone Duo：苹果执行董事长库克曾前往上海米哈游总部，“大伟哥”亲自接待"
-    },
-    {
      "title": "Gemini 正在成为美国师生“不得不用”的AI",
      "link": "https://www.huxiu.com/article/4903320.html?f=rss",
      "pubDate": "Thu, 05 Nov 2026 18:19:59 +0800",
@@ -1949,17 +1957,17 @@ window.INDUSTRY_DATA = {
      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
      "link": "https://hachyderm.io/@damienmiller/117563026759098135",
      "pubDate": "Thu, 05 Nov 2026 09:46:17 +0000",
-     "summary": "Article URL: https://hachyderm.io/@damienmiller/117563026759098135 Comments URL: https://news.ycombinator.com/item?id=50377221 Points: 15 # Comments: 1",
+     "summary": "Article URL: https://hachyderm.io/@damienmiller/117563026759098135 Comments URL: https://news.ycombinator.com/item?id=50377221 Points: 21 # Comments: 3",
      "source": "Hacker News",
      "zh": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability"
     },
     {
-     "title": "Baidu dropped ERNIE 5.5 Flash Base",
+     "title": "Baidu released ERNIE 5.5 Flash Base",
      "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
      "pubDate": "Thu, 05 Nov 2026 09:29:12 +0000",
-     "summary": "Article URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/ Comments URL: https://news.ycombinator.com/item?id=50377078 Points: 12 # Comments: 8",
+     "summary": "Article URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/ Comments URL: https://news.ycombinator.com/item?id=50377078 Points: 23 # Comments: 16",
      "source": "Hacker News",
-     "zh": "Baidu dropped ERNIE 5.5 Flash Base"
+     "zh": "Baidu released ERNIE 5.5 Flash Base"
     },
     {
      "title": "Google 和 OpenAI 的模型对特定口音有偏见",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "澳大利亚乔治全球健康研究院的研究人员评估了在 193 个国家将食盐供应转换为富钾盐的健康益处。他们发现，全球每年可预防近 300 万例死亡和 1000 万例心血管疾病和肾脏疾病新发病例。富钾盐是通过用氯化钾替代部分氯化钠（即普通食盐的主要成分）制成的。它在外观、味道和烹饪方式上都与普通食盐一样。2025 年世界卫生组织（WHO）认可使用富钾盐来降低血压和心血管疾病风险。全球范围内，30-79 岁成年人中有三分之一患有高血压，相当于约 14 亿人。心血管疾病（CVD）是全球死亡和残疾的主要原因，2023 年导致 1920 万人死亡，过去 30 年增加了近 50%。虽然潜在益处很大，但一个担忧是晚",
      "source": "Solidot",
      "zh": "富钾盐替换普通盐有助于每年预防数百万人死亡"
-    },
-    {
-     "title": "Swift 天文台从印尼上空重返大气层",
-     "link": "https://www.solidot.org/story?sid=85802",
-     "pubDate": "Thu, 05 Nov 2026 15:37:12 +0800",
-     "summary": "NASA Neil Gehrels Swift 天文台于 11 月 4 日 7:39 a.m. EST 从印尼苏门答腊上空再入大气层，坐标为北纬 3.4 度、东经 98.6 度。天文台的大部分组件在重返大气层过程中烧毁，可能有部分组件幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。",
-     "source": "Solidot",
-     "zh": "Swift 天文台从印尼上空重返大气层"
     }
    ]
   },
@@ -2250,20 +2250,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "The midterms could fuel the K-shaped AI trade",
+     "link": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
+     "pubDate": "Thu, 05 Nov 2026 10:45:58 GMT",
+     "summary": "U.S. midterm results could slow data center development, raising the value of existing AI capacity while increasing pressure on debt-funded neoclouds.",
+     "source": "CNBC",
+     "zh": "The midterms could fuel the K-shaped AI trade"
+    },
+    {
+     "title": "Snap stock dips as ad revenue and user growth miss estimates",
+     "link": "https://seekingalpha.com/news/4666311-snap-stock-dips-as-ad-revenue-and-user-growth-miss-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 05:43:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Snap stock dips as ad revenue and user growth miss estimates"
+    },
+    {
+     "title": "US regulators audit bank cyber defenses after record $6.3B Binance hack: Reuters",
+     "link": "https://seekingalpha.com/news/4666319-us-regulators-audit-bank-cyber-defenses-after-record-63b-binance-hack-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 05:43:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "US regulators audit bank cyber defenses after record $6.3B Binance hack: Reuters"
+    },
+    {
+     "title": "【调研快报】热威股份接待线上参与热威股份(603075)2026年第三季度业绩说明会的全体投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611053923639561.html",
+     "pubDate": "Thu, 05 Nov 2026 18:42:34 +0800",
+     "summary": "热威股份 11月5日公告称， 11月5日 接待线上参与 热威股份 (603075)2026年第三季度业绩说明会的全体投资者 调研。 接待人员包括董事、总经理 吕越斌,财务总监 沈园,董事、董事会秘书 张亮,独立董事 曾晰。 公司就以下问题进行了回复： 投资者关系活动主要内容介绍 1.三季度家电需求偏弱,对咱们民用电热产品订单影响大吗? 答:尊敬的投资者您好,公司民用电热产品接单及营收均保持增长。感谢您的关注! 2. 新能源 汽车 加热器业务,三季度订单有没有增长? 答:尊敬的投资者您好,三季度 新能源 车加热器业务接单及营收均保持增长。感谢您的关注! ... 点击查看PDF原文 免责声明：本文",
+     "source": "东方财富股票",
+     "zh": "【调研快报】热威股份接待线上参与热威股份(603075)2026年第三季度业绩说明会的全体投资者调研"
+    },
+    {
+     "title": "C罗宣布从葡萄牙国家队退役",
+     "link": "http://finance.eastmoney.com/news/11790,202611053923638439.html",
+     "pubDate": "Thu, 05 Nov 2026 18:39:42 +0800",
+     "summary": "11月5日，葡萄牙球星克里斯蒂亚诺·罗纳尔多通过社交媒体宣布，他正式从葡萄牙国家足球队退役，结束长达23年的国家队生涯。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "C罗宣布从葡萄牙国家队退役"
+    },
+    {
+     "title": "中央气象台：本周六北京河北等地有中到大雪或雨夹雪",
+     "link": "http://finance.eastmoney.com/news/11790,202611053923639616.html",
+     "pubDate": "Thu, 05 Nov 2026 18:39:41 +0800",
+     "summary": "预计11月7日，山西北部、河北北部、北京北部、辽宁南部等地有中到大雪或雨夹雪、部分地区有暴雪或大暴雪，设施农业雪灾风险较高，其中河北东部、辽宁西南部设施农业雪灾风险高。建议提前检修加固设施大棚，雪后及时清除棚顶积雪，并注意调节棚内温度和湿度、适时增温补光。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "中央气象台：本周六北京河北等地有中到大雪或雨夹雪"
+    },
+    {
+     "title": "多点数智：11月5日斥资230.53万港元回购29.09万股",
+     "link": "http://hk.eastmoney.com/news/11223,202611053923639371.html",
+     "pubDate": "Thu, 05 Nov 2026 18:38:03 +0800",
+     "summary": "南财智讯11月5日电， 多点数智 （02586.HK）发布翌日披露报表，11月5日，公司回购股份29.09万股，每股最高回购价为8港元，每股最低回购价为7.83港元，付出的总代价为230.53万港元。本次回购股份拟持作库存股份。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "多点数智：11月5日斥资230.53万港元回购29.09万股"
+    },
+    {
+     "title": "高测股份：拟1.5亿元至3亿元回购公司股份",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923637098.html",
+     "pubDate": "Thu, 05 Nov 2026 18:37:49 +0800",
+     "summary": "高测股份 (688556.SH)公告称，公司拟以集中竞价交易方式回购股份，回购金额不低于1.5亿元(含)，不超过3亿元(含)。回购资金来源为自有资金及自筹资金，回购价格不超过10.65元/股。回购股份将用于员工持股计划或 股权激励 、维护公司价值及股东权益。其中，用于员工持股计划或 股权激励 的回购金额不低于9000万元，不超过1.8亿元；用于维护公司价值及股东权益的回购金额不低于6000万元，不超过1.2亿元。回购期限为董事会审议通过之日起12个月内(员工持股计划或 股权激励 )及3个月内(维护公司价值及股东权益)。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "高测股份：拟1.5亿元至3亿元回购公司股份"
+    },
+    {
+     "title": "麦捷科技：截至10月30日最新股东户数10.04万户，较上期增加0.19%",
+     "link": "http://stock.eastmoney.com/news/11111,202611053923631865.html",
+     "pubDate": "Thu, 05 Nov 2026 18:37:42 +0800",
+     "summary": "麦捷科技 最新披露数据显示，截至10月30日公司股东户数为10.04万户，较上期(2026年10月20日) 增加195户，增幅为0.19% 。户均持有流通股数量 由上期的8497股上升至8501股， 户均持股金额 由上期的13.42万元减少至11.94万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "source": "东方财富股票",
+     "zh": "麦捷科技：截至10月30日最新股东户数10.04万户，较上期增加0.19%"
+    },
+    {
+     "title": "最高赚6.8%、最多亏36%！保险资管产品近一月业绩分化 后市聚焦三大配置主线",
+     "link": "http://finance.eastmoney.com/news/1345,202611053923632154.html",
+     "pubDate": "Thu, 05 Nov 2026 18:35:49 +0800",
+     "summary": "10月以来，A股市场波动明显放大，风格切换频繁，保险资管产品业绩随之明显分化。 财联社据Wind不完全数据统计，自10月4日至11月4日，在有近一月区间回报数据的1729只保险资管产品中，正收益产品占比53%，较三季度58.3%的正收益占比进一步回落。 分大类看，固收类产品继续扮演“压舱石”角色，正收益产品占比80.5%；混合类、权益类正收益占比分别仅为24.6%、13.2%，区间回报中位数分别为-1.23%、-8.32%，权益类产品整体回撤幅度显著。具体产品业绩上，最高赚6.8%、最多亏36%，红利消费成为避风港。 机构研判，险资后市沿“高股息底仓+业绩兑现的科技成长+长久期债券”三条主线配",
+     "source": "东方财富资讯",
+     "zh": "最高赚6.8%、最多亏36%！保险资管产品近一月业绩分化 后市聚焦三大配置主线"
+    },
+    {
      "title": "Evotec SE reports Q3 results",
      "link": "https://seekingalpha.com/news/4666320-evotec-se-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 05 Nov 2026 05:35:47 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Evotec SE reports Q3 results"
-    },
-    {
-     "title": "【调研快报】江山股份接待江山股份2026年第三季度业绩说明会,面向全体投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611053923627427.html",
-     "pubDate": "Thu, 05 Nov 2026 18:35:36 +0800",
-     "summary": "江山股份 11月5日公告称， 11月5日 接待 江山股份 2026年第三季度业绩说明会,面向全体投资者 调研。 接待人员包括董事长 王利,独立董事 华语,董事、总经理 孟长春,副总经理、董事会秘书 宋金华,副总经理、财务总监、财务负责人 黄海。 公司就以下问题进行了回复： 1、贵司前三季度营收同比增长约 13%,但净利润下降约 22%, 氯碱 产品均价也明显下滑。未来提升 氯碱 产业链盈利能力,公司会更侧重内部工艺优化和产品升级,还是加强与下游精细化工及 新材料 企业的产业协同? 答: 氯碱 产品生产工艺相对成熟,企业竞争力主要体现在内部管理水平和产品结构。未来公司将强化集团化采购... 点击",
-     "source": "东方财富股票",
-     "zh": "【调研快报】江山股份接待江山股份2026年第三季度业绩说明会,面向全体投资者调研"
     },
     {
      "title": "October job cut announcements rise 2% M/M but fall 71% Y/Y: Challenger Job Cuts report",
@@ -2274,44 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "October job cut announcements rise 2% M/M but fall 71% Y/Y: Challenger Job Cuts report"
     },
     {
-     "title": "【调研快报】华瑞股份接待线上参与华瑞股份(300626)2026年第三季度业绩说明会的全体投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611053923617767.html",
-     "pubDate": "Thu, 05 Nov 2026 18:31:33 +0800",
-     "summary": "华瑞股份 11月5日公告称， 11月5日 接待线上参与 华瑞股份 (300626)2026年第三季度业绩说明会的全体投资者 调研。 接待人员包括董事、总经理、财务总监 谢劲跃,董事、副总经理、董事会秘书 宋光辉,独立董事 朱一鸿,财务经理 郭刚。 公司就以下问题进行了回复： 1. 汽车 电机这块业务,三季度订单有没有增长? 答:您好!2026 年前三季度,公司实现营业收入 6.80 亿元,较上年同期增加 13.02%;归属于上市公司股东的净利润 1726.71万元,较上年同期增加26.44%。公司主营业务表现稳定,各项生产经营活动正常有序, 汽车 电机业务作为核心板块持续保持稳... 点击查看",
-     "source": "东方财富股票",
-     "zh": "【调研快报】华瑞股份接待线上参与华瑞股份(300626)2026年第三季度业绩说明会的全体投资者调研"
-    },
-    {
-     "title": "美国10月挑战者企业裁员人数4.3994万人，前值4.3281万人",
-     "link": "http://finance.eastmoney.com/news/1351,202611053923621840.html",
-     "pubDate": "Thu, 05 Nov 2026 18:31:23 +0800",
-     "summary": "美国10月挑战者企业裁员人数4.3994万人，前值4.3281万人。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国10月挑战者企业裁员人数4.3994万人，前值4.3281万人"
-    },
-    {
-     "title": "意大利正敲定对乌克兰的新一轮军事援助方案",
-     "link": "http://finance.eastmoney.com/news/1351,202611053923621124.html",
-     "pubDate": "Thu, 05 Nov 2026 18:31:23 +0800",
-     "summary": "意大利正敲定对乌克兰的新一轮军事援助方案。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "意大利正敲定对乌克兰的新一轮军事援助方案"
-    },
-    {
-     "title": "克里斯蒂亚诺·罗纳尔多宣布退出葡萄牙国家队",
-     "link": "http://finance.eastmoney.com/news/1351,202611053923620652.html",
-     "pubDate": "Thu, 05 Nov 2026 18:31:22 +0800",
-     "summary": "克里斯蒂亚诺·罗纳尔多宣布退出葡萄牙国家队。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "克里斯蒂亚诺·罗纳尔多宣布退出葡萄牙国家队"
-    },
-    {
-     "title": "美国10月挑战者企业裁员人数43994人 前值43281人",
-     "link": "http://finance.eastmoney.com/news/1351,202611053923626353.html",
-     "pubDate": "Thu, 05 Nov 2026 18:30:47 +0800",
-     "summary": "美国10月挑战者企业裁员人数43994人，前值43281人。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国10月挑战者企业裁员人数43994人 前值43281人"
+     "title": "光纤技术新突破 机构资金潜伏这些业绩高增长股",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923638687.html",
+     "pubDate": "Thu, 05 Nov 2026 18:27:00 +0800",
+     "summary": "2026年，“走出低谷，算力定价”成为光纤光缆产业的真实写照。 鲁阳节能 上演“地天板” 11月5日，A股延续昨日普涨格局。 新能源 赛道相关题材今日大幅反弹，光伏、BC 电池 、 锂 电电解液、 HJT电池 、TOPcon 电池 等涨幅领先。其中 光伏概念 走势最强， 迈为股份 、 奥特维 、 海优新材 、 拉普拉斯 、 聚和材料 等涨超10%。 截至收盘，超4800只个股飘红，涨停股超过80只。 鲁阳节能 (002088)今日盘中一度跌停，收盘时股价涨停，上演了“地天板”剧情，至此，该股近5个交易日内已收获4个涨停板。 全球首个千公里空芯光纤双向实时传输验证 近日，全国重点实验室共建单位 ",
+     "source": "东方财富资讯",
+     "zh": "光纤技术新突破 机构资金潜伏这些业绩高增长股"
     },
     {
      "title": "Nintendo Switch 2 sales tank in Q2 after price hikes",
@@ -2370,28 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "Leonardo raises 2026 order outlook as nine-month profit increases 74%"
     },
     {
-     "title": "National Grid Non-GAAP EPS of 36.50p, revenue of £8.14B",
-     "link": "https://seekingalpha.com/news/4666315-national-grid-non-gaap-eps-of-3650p-revenue-of-814b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 05:08:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "National Grid Non-GAAP EPS of 36.50p, revenue of £8.14B"
-    },
-    {
      "title": "恒科五连阳、阿里腾讯暴涨！港股价值重估开始了？",
      "link": "https://wallstreetcn.com/articles/3785265",
      "pubDate": "Thu, 05 Nov 2026 18:07:49 +0800",
      "summary": "港股终于迎来一轮强势反弹。 11月5日，港股市场大幅走高，恒生科技指数盘中涨幅一度接近6%，阿里巴巴、腾讯等互联网龙头集体飙升，恒生指数盘中涨幅一度达到4%，收复24000点关口。 本轮这轮反弹背后，一个值得关注的变化是：市场正在重新审视中国互联网资产的投资价值。 随着美国中期选举结果扰动全球市场，部分资金开始从AI硬件、半导体等高估值方向撤出，转向估值更低、与消费需求联系更紧密的中国互联网平台。 美国中选引发资金再平衡，港股互联网资产迎来估值修复 此次港股反弹，一个直接催化因素来自美国中期选举后的全球市场风格变化。 投资者正在从AI交易转向价值股和消费股，而中国互联网巨头成为这一轮资金轮动的",
      "source": "华尔街见闻",
      "zh": "恒科五连阳、阿里腾讯暴涨！港股价值重估开始了？"
-    },
-    {
-     "title": "Ecovyst beats Q3 street views, raises 2026 outlook",
-     "link": "https://seekingalpha.com/news/4666314-ecovyst-beats-q3-street-views-raises-2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 05:07:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ecovyst beats Q3 street views, raises 2026 outlook"
     },
     {
      "title": "美中期选举引爆！这一道“光”集体飙升",
@@ -2464,30 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "人身险预定利率研究值结束了连续两个季度的上涨，重新回到1.9%。 11月4日，中国保险行业协会发布公告称，人身保险业利率研究专家咨询委员会已于10月30日召开2026年三季度例会，研究提出当前普通型人身保险产品预定利率研究值为1.9%，较二季度的1.94%回落4个基点。 研究值向下，并不意味着保单利率马上就要跟着下调。 当前，在售普通型人身险产品的预定利率上限为2.0%，比最新研究值高出10个基点。按照动态调整机制，只有这一差距达到25个基点及以上，并连续维持两个季度，才需要启动新一轮调整。 换句话说，在现行产品利率上限不变的情况下，研究值需降至1.75%及以下，并连续两个季度满足偏离条件，产",
      "source": "华尔街见闻",
      "zh": "人身险预定利率研究值回落1.9%，暂未触及产品调价条件"
-    },
-    {
-     "title": "11月5日北向资金最新动向（附十大成交股）",
-     "link": "http://stock.eastmoney.com/news/11780,202611053923589974.html",
-     "pubDate": "Thu, 05 Nov 2026 17:38:41 +0800",
-     "summary": "交易所最新数据显示，11月5日北向资金共成交3201.64亿元，占两市总成交额的15.12%。 中微公司 、 药明康德 、 贵州茅台 位列 沪股通 成交前三，成交额分别为33.17亿、23.36亿、22.01亿； 宁德时代 、 中际旭创 、 新易盛 位列 深股通 成交前三，成交额分别为53.95亿、49.96亿、48.72亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致",
-     "source": "东方财富资讯",
-     "zh": "11月5日北向资金最新动向（附十大成交股）"
-    },
-    {
-     "title": "“宁王”股价六连阳！融资余额近日止跌 板块月内涨幅居次席 这些股获融资客加仓",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923601945.html",
-     "pubDate": "Thu, 05 Nov 2026 17:36:32 +0800",
-     "summary": "今日（11月5日）， 新能源 赛道继续活跃，截至收盘，累计共有15只 电力 设备股获得涨停。其中，板块“一哥” 宁德时代 大涨超4%，盘中股价创10月19日以来新高，同时录得6日连阳（包含一根假阳线），期间涨幅超15%。 注： 宁德时代 近期股价录得6连阳（截至11月5日收盘） 股价回升接近两成，融资余额有所止跌 近2周以来， 宁德时代 股价持续走高，从10月23日录得的阶段低点216.51元攀升至当前收盘价264.06元，累计涨幅近22%。不过，虽然近期股价上涨，但 宁德时代 年内跌幅仍超两成，在一众万亿市值股中跌幅居首。当前， 宁德时代 总市值达1.2万亿元，位列全市场个股第9位。 从资金",
-     "source": "东方财富资讯",
-     "zh": "“宁王”股价六连阳！融资余额近日止跌 板块月内涨幅居次席 这些股获融资客加仓"
-    },
-    {
-     "title": "AI accounting platform Kabilio raises €10m",
-     "link": "https://www.finextra.com/newsarticle/48704/ai-accounting-platform-kabilio-raises-10m?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 05 Nov 2026 09:00:00 GMT",
-     "summary": "Kabilio, a Barcelona-based AI platform for accounting firms and the small businesses they serve, has raised €10 million in a funding round led by Picus Capital and Visionaries.",
-     "source": "Finextra",
-     "zh": "AI accounting platform Kabilio raises €10m"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/5 12:51:51",
+ "generated_at": "2026/11/5 13:11:58",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,54 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+     "link": "https://arxiv.org/abs/2611.05390",
+     "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: conditiona",
+     "source": "arXiv cs.AI",
+     "zh": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions"
+    },
+    {
+     "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+     "link": "https://arxiv.org/abs/2611.05391",
+     "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, traces, and recent failures ",
+     "source": "arXiv cs.AI",
+     "zh": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents"
+    },
+    {
+     "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+     "link": "https://arxiv.org/abs/2611.05392",
+     "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budget",
+     "source": "arXiv cs.AI",
+     "zh": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems"
+    },
+    {
+     "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+     "link": "https://arxiv.org/abs/2611.05393",
+     "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and ",
+     "source": "arXiv cs.AI",
+     "zh": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning"
+    },
+    {
+     "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+     "link": "https://arxiv.org/abs/2611.05394",
+     "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such sys",
+     "source": "arXiv cs.AI",
+     "zh": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference"
+    },
+    {
+     "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+     "link": "https://arxiv.org/abs/2611.05450",
+     "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires agents to discover how unfamiliar environments work, reuse what they learn across tasks, and keep tha",
+     "source": "arXiv cs.AI",
+     "zh": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments"
+    },
     {
      "title": "刚刚，Claude Code产品一姐加入OpenAI！",
      "link": "https://zhidx.com/p/607599.html",
@@ -199,54 +247,6 @@
      "summary": "Meet seven open specialist models under 10 billion parameters that rival much bigger systems at one job each, from transcription and OCR to routing and speech.",
      "source": "KDnuggets",
      "zh": "7 Small Specialist Models That Beat Giant LLMs at One Job"
-    },
-    {
-     "title": "Hermes Agent手机端要来了！能读取手机数据，内测名额秒没",
-     "link": "https://zhidx.com/p/607453.html",
-     "pubDate": "Wed, 04 Nov 2026 19:34:10 +0800",
-     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月4日报道，终于要来了！Hermes Agent此前预告已久的 移动端应用 ，在近日进入了内测阶段。不过， 内测名额刚一放出就迅速被抢空 ，目前已经没有可申请的名额。 11月3日，Nous Research（Hermes Agent背后公司）官方称，移动端内测需求超出预期，团队正在努力增加测试名额，并为后续更大范围的正式发布做准备。 一直以来， Hermes都是开源Agent社区的焦点产品之一 ，经常被拿来与曾经的赛道热度之王OpenClaw比较。今年6月底，OpenClaw也推出了官方手机应用，但早期版本上线",
-     "source": "智东西",
-     "zh": "Hermes Agent手机端要来了！能读取手机数据，内测名额秒没"
-    },
-    {
-     "title": "又一千亿AI独角兽诞生！英伟达投的AI推理创企获87亿新融资",
-     "link": "https://zhidx.com/p/607484.html",
-     "pubDate": "Wed, 04 Nov 2026 19:28:25 +0800",
-     "summary": "&nbsp; 智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月4日消息，今天凌晨， 美国云推理平台Fal称已完成13亿美元（约合人民币87.33亿元）F轮融资 ，投后估值达160亿美元（约合人民币1074.88亿元），该轮融资于今年10月完成。今年4月，其E轮估值为80亿美元（约合人民币537.44亿元），本轮融资后估值翻倍。 据彭博社报道，Fal计划将新资金用于采购更多算力，并扩充目前185人的团队。公司今年夏天一度因无法满足客户需求，不得不限制客户请求量。 本轮融资由 美国知名投资机构Bessemer Venture Partners领投，英伟达继续参投 。 Fal成立于2021年，",
-     "source": "智东西",
-     "zh": "又一千亿AI独角兽诞生！英伟达投的AI推理创企获87亿新融资"
-    },
-    {
-     "title": "全球唯二，百度抢先交卷！首个物理AI世界模型来了",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652740261&idx=1&sn=3ae30a3d5d9466d8bfdcb5bd4820a9b9",
-     "pubDate": "Wed, 04 Nov 2026 18:03:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "全球唯二，百度抢先交卷！首个物理AI世界模型来了"
-    },
-    {
-     "title": "普林斯顿CS女学霸，突然告别Anthropic！一手带火Claude Code",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652740261&idx=2&sn=ad848ca27112af01508620b4099ac007",
-     "pubDate": "Wed, 04 Nov 2026 18:03:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "普林斯顿CS女学霸，突然告别Anthropic！一手带火Claude Code"
-    },
-    {
-     "title": "5000词需求文档，Claude也只能交付14%！实测28种Agent组合",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652740261&idx=3&sn=909eccd24098bcb2c52a24856fcd1ece",
-     "pubDate": "Wed, 04 Nov 2026 18:03:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "5000词需求文档，Claude也只能交付14%！实测28种Agent组合"
-    },
-    {
-     "title": "网易智企帝王蟹乌镇升级，推出Agent Team、知识引擎“万典”，首发智能工牌",
-     "link": "https://zhidx.com/p/607408.html",
-     "pubDate": "Wed, 04 Nov 2026 17:54:57 +0800",
-     "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月4日报道，今日，2026世界互联网大会乌镇峰会浙江分论坛举行。会上，网易智企副总经理段毓铮发表《智能体：让美好发生在每一个现场》主题演讲，发布网易智企企业级AI Agent平台“帝王蟹”的三项升级：首发硬件产品智能工牌、推出知识引擎“万典”与Agent Team两项新能力。 三项升级分别聚焦现场信息接入、企业知识理解与复杂任务协作，进一步串联AI进入真实业务所需要的信息、知识与执行环节。 ▲网易智企副总经理段毓铮 段毓铮谈道，企业对AI的关注正在从“模型有多强”“用什么Agent”，逐渐转向“AI能不能真正进入业务、持续创造价值”，这意味",
-     "source": "智东西",
-     "zh": "网易智企帝王蟹乌镇升级，推出Agent Team、知识引擎“万典”，首发智能工牌"
     }
    ]
   },
@@ -257,52 +257,52 @@
    "total": 9,
    "items": [
     {
+     "title": "Chipmakers rush to secure equipment for 2029 as lead times top two years",
+     "link": "https://www.digitimes.com/news/a20261105VL219/semiconductors-equipment-production-asml-earnings-2028.html",
+     "pubDate": "Thu, 5 Nov 2026 05:00:00 GMT",
+     "summary": "Chipmakers are moving to secure production equipment for delivery as far ahead as 2029, as AI-driven fab expansion pushes some equipment lead times beyond two years and forces manufacturers to negotiate supply contracts years earlier than usual, South Korea's ETNews reported, citing industry sources",
+     "source": "DIGITIMES",
+     "zh": "Chipmakers rush to secure equipment for 2029 as lead times top two years"
+    },
+    {
+     "title": "EU launches EUR525 million push to close chip design gap",
+     "link": "https://www.digitimes.com/news/a20261105VL221/design-europe-eu-manufacturing-demand.html",
+     "pubDate": "Thu, 5 Nov 2026 04:45:00 GMT",
+     "summary": "The European Union has launched a EUR525 million (approx. US$590 million) initiative to strengthen its semiconductor design industry, seeking to narrow the gap with the US and China while generating demand for chip manufacturing facilities in Europe.",
+     "source": "DIGITIMES",
+     "zh": "EU launches EUR525 million push to close chip design gap"
+    },
+    {
+     "title": "CHT ICT orders surge 84% as 3Q26 results beat guidance",
+     "link": "https://www.digitimes.com/news/a20261105PD201/cht-revenue-profit-growth-operating-profit.html",
+     "pubDate": "Thu, 5 Nov 2026 04:35:43 GMT",
+     "summary": "Chunghwa Telecom (CHT) reported consolidated revenue of NT$675.9 billion (US$2.06 billion) for the third quarter of 2026, up 16.7% year over year, with revenue, operating profit, net income attributable to shareholders, and earnings per share all exceeding the high end of its financial forecast.",
+     "source": "DIGITIMES",
+     "zh": "CHT ICT orders surge 84% as 3Q26 results beat guidance"
+    },
+    {
+     "title": "Cirrus Logic rides iPhone content wave, but backend squeeze, PC slump cloud the path ahead",
+     "link": "https://www.digitimes.com/news/a20261105VL218/cirrus-logic-revenue-capacity-earnings-camera.html",
+     "pubDate": "Thu, 5 Nov 2026 04:23:11 GMT",
+     "summary": "Cirrus Logic reported revenue of US$559.5 million for its fiscal second quarter ended September 26, up 22% sequentially and roughly flat year-on-year. Non-GAAP earnings per share came in at US$2.70, with gross margin reaching 53.8% &mdash; a recent high point that the company signaled will not hold.",
+     "source": "DIGITIMES",
+     "zh": "Cirrus Logic rides iPhone content wave, but backend squeeze, PC slump cloud the path ahead"
+    },
+    {
+     "title": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps",
+     "link": "https://www.digitimes.com/news/a20261105VL220/12-inch-equipment-big-fund-investment-manufacturing.html",
+     "pubDate": "Thu, 5 Nov 2026 04:13:23 GMT",
+     "summary": "China's National Integrated Circuit Industry Investment Fund Phase III (Big Fund III) is shifting its focus from targeted semiconductor investments to large-scale manufacturing and industry consolidation, with a CNY900 million (approx. US$134 million) capital injection into Silan Microelectronics' 1",
+     "source": "DIGITIMES",
+     "zh": "China's Big Fund III pivots to 12-inch chip fabs, equipment acquisitions to close semiconductor supply chain gaps"
+    },
+    {
      "title": "Price hikes, market saturation curb global telecom, consumer electronics export growth",
      "link": "https://www.digitimes.com/news/a20261105PD218/growth-electronics-market-telecom-2025.html",
      "pubDate": "Thu, 5 Nov 2026 03:56:32 GMT",
      "summary": "Rising global oil prices have driven up food costs, squeezing consumer discretionary budgets for products with higher price elasticity, such as smartphones and consumer electronics. A specialized report from Taiwan's Ministry of Economic Affairs (MOEA) reveals that in 2025, global ICT goods and serv",
      "source": "DIGITIMES",
      "zh": "Price hikes, market saturation curb global telecom, consumer electronics export growth"
-    },
-    {
-     "title": "Qualcomm to debut 6G terminal prototype at China expo, bringing AI memory to smart glasses",
-     "link": "https://www.digitimes.com/news/a20261105PD221/qualcomm-6g-smart-glasses-testing-wireless.html",
-     "pubDate": "Thu, 5 Nov 2026 03:55:25 GMT",
-     "summary": "US chipmaker Qualcomm will present its latest developments in 6G and AI agent-powered devices at the ninth China International Import Expo (CIIE), held from November 5 to 10 at the National Exhibition and Convention Center in Shanghai. The exhibition will mark the first public display of what Qualco",
-     "source": "DIGITIMES",
-     "zh": "Qualcomm to debut 6G terminal prototype at China expo, bringing AI memory to smart glasses"
-    },
-    {
-     "title": "SDC auto OLED shortage leads Li Auto to ship new Mega with LCDs",
-     "link": "https://www.digitimes.com/news/a20261105PD204/sdc-lcd-li-auto-automotive-display.html",
-     "pubDate": "Thu, 5 Nov 2026 03:50:00 GMT",
-     "summary": "Samsung Display (SDC) is facing a shortage of automotive OLED panels supplied to Chinese EV maker Li Auto, prompting Li Auto to temporarily ship some new Mega vehicles with LCD panels. Strong vehicle sales have driven demand for high-specification displays beyond expectations, potentially giving SDC",
-     "source": "DIGITIMES",
-     "zh": "SDC auto OLED shortage leads Li Auto to ship new Mega with LCDs"
-    },
-    {
-     "title": "Apple opens AI beta in China with Qwen-integrated Siri",
-     "link": "https://www.digitimes.com/news/a20261105PD217/apple-siri-apple-intelligence-testing-alibaba.html",
-     "pubDate": "Thu, 5 Nov 2026 03:49:00 GMT",
-     "summary": "Apple has opened testing of its China-specific Apple Intelligence service with the iOS 27.3 developer beta released on November 4, integrating Alibaba's Qwen model into Siri. The full version is expected in December, as Apple works to close the gap in its generative AI offerings in China.",
-     "source": "DIGITIMES",
-     "zh": "Apple opens AI beta in China with Qwen-integrated Siri"
-    },
-    {
-     "title": "Flexium eyes 2027 breakthrough as PTFE enters mass production in 2028",
-     "link": "https://www.digitimes.com/news/a20261105PD219/flexium-2027-production-2028-infrastructure.html",
-     "pubDate": "Thu, 5 Nov 2026 03:47:12 GMT",
-     "summary": "Flexium Interconnect chairman Walter Cheng said the company has emerged from the toughest operating downturn of the past two years and expects AI orders for smart glasses and infrastructure to accelerate in 2027, which is also expected to lower consumer electronics revenue to below 50%. The flexible",
-     "source": "DIGITIMES",
-     "zh": "Flexium eyes 2027 breakthrough as PTFE enters mass production in 2028"
-    },
-    {
-     "title": "Ukraine's top unmanned fleet developer looks to Taiwan for critical components",
-     "link": "https://www.digitimes.com/news/a20261105PD207/taiwan-ukraine-drone-manufacturing-defense.html",
-     "pubDate": "Thu, 5 Nov 2026 03:45:57 GMT",
-     "summary": "Ukrainian defense tech company UFORCE, creator of the Magura unmanned surface vessel credited with disabling or sinking 19 Russian warships in the Black Sea and emerging as a primary threat to Russian naval operations, is actively forging ties with Taiwanese suppliers. Ukraine's real-world combat va",
-     "source": "DIGITIMES",
-     "zh": "Ukraine's top unmanned fleet developer looks to Taiwan for critical components"
     },
     {
      "title": "Apple’s harvest",
@@ -1545,6 +1545,14 @@
      "zh": "Want to Rent an Internet Address at the White House?"
     },
     {
+     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+     "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+     "pubDate": "Thu, 05 Nov 2026 10:01:16 +0530",
+     "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings",
+     "source": "The Hacker News",
+     "zh": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
+    },
+    {
      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
      "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
      "pubDate": "Wed, 04 Nov 2026 21:48:18 GMT",
@@ -1644,7 +1652,7 @@
      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
      "pubDate": "Wed, 04 Nov 2026 19:57:52 +0530",
-     "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScrip",
+     "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaS",
      "source": "The Hacker News",
      "zh": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits"
     },
@@ -1697,14 +1705,6 @@
      "zh": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads"
     },
     {
-     "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-     "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-     "pubDate": "Wed, 04 Nov 2026 17:16:27 +0530",
-     "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project sa",
-     "source": "The Hacker News",
-     "zh": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory"
-    },
-    {
      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
      "link": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
      "pubDate": "Wed, 04 Nov 2026 10:54:48 +0000",
@@ -1753,6 +1753,54 @@
    "total": 18,
    "items": [
     {
+     "title": "丰田汽车 2027 财年半年报归母净利润 2.24 万亿日元，同比增长 26.1%",
+     "link": "https://www.ithome.com/1/022/667.htm",
+     "pubDate": "Thu, 05 Nov 2026 05:03:12 GMT",
+     "summary": "IT之家 11 月 5 日消息，丰田汽车今日发布 2027 财年（2026 年 4 月 1 日～2027 年 3 月 31 日）半年报（2026 年 4 月 1 日～2026 年 9 月 30 日）报告： 营业总收入 ：26.96 万亿日元 （IT之家注：现汇率约合 1.14 万亿元人民币） ，同比增长 9.5% 归母净利润 ：2.24 万亿日元 （现汇率约合 944.74 亿元人民币） ，同比增长 26.1% 基本每股收益 ：185.97 日元 （现汇率约合 7.8 元人民币） ，同比增长 36.67% 稀释每股收益 ：185.97 日元 （现汇率约合 7.8 元人民币） ，同比增长 36.",
+     "source": "IT之家",
+     "zh": "丰田汽车 2027 财年半年报归母净利润 2.24 万亿日元，同比增长 26.1%"
+    },
+    {
+     "title": "秦港股份买曹妃甸，资产净额指标离重大重组不足5个百分点",
+     "link": "https://www.huxiu.com/article/4903210.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 13:00:07 +0800",
+     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 停牌十个交易日后，秦港股份在2026年11月4日端出一份向控股股东河北港口集团买资产的方案：以3.45元/股发股并支付部分现金，买下曹妃甸港区四家码头公司的部分股权，同时募集配套资金。 董事会同步表示，这笔关联交易预计不构成重大资产重组。 直觉上，够不上重大重组，意味着收购体量不大；但把四笔股权放进《上市公司重大资产重组管理办法》的公式里重算，资产净额指标已经到46.65%，离50%的法定红线只差不到5个百分点。 四家标的都在曹妃甸港区，做铁矿石、煤炭等大宗散货的装卸堆存。 单看收购比例，每一笔都是少数股权；真正改写量级的，是曹妃甸实业",
+     "source": "虎嗅",
+     "zh": "秦港股份买曹妃甸，资产净额指标离重大重组不足5个百分点"
+    },
+    {
+     "title": "迟到两年的苹果AI，让用户高兴不起来",
+     "link": "https://www.huxiu.com/article/4903211.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 12:58:58 +0800",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：马吉英，作者：邓双琳 国行用户等了两年的苹果AI，更像是一次基础能力的补课，并非真正意义上的AI革命。 苦等两年多，国行用户终于等来了苹果AI。11月4日，苹果发布了iOS 27.3开发者Beta版，国行版Apple Intelligence（苹果智能）首次开放测试。 这是苹果AI第一次真正进入中国大陆市场，但其首次发布在2024年6月。两年期间，国产手机厂商已经将AI消除、智能摘要、实时翻译乃至跨应用智能体等功能陆续装进手机，消费者对这些功能并不陌生。对于那些已经连续购买了两三代iPhone，却始终无法体验苹果AI的国行用户来说，苹果这次更新多少",
+     "source": "虎嗅",
+     "zh": "迟到两年的苹果AI，让用户高兴不起来"
+    },
+    {
+     "title": "Vercel创始人：人类未来的核心工作是资本分配",
+     "link": "https://www.huxiu.com/article/4903207.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 12:58:26 +0800",
+     "summary": "本文来自微信公众号： AGI 2050 ，编译：AGI 2050，原文标题：《Vercel 创始人：一人支撑万亿美元公司的时代或将到来，人类未来的核心工作是资本分配》，头图来自：AI生成 如果说云计算巨头亚马逊 AWS 是上一代互联网坚固而复杂的工业级电网，那么 2025 年估值已达 93 亿美元的云平台 Vercel，则是当下全球生成式人工智能浪潮中最受工程师青睐的现代化操作底座。从全球主流的前端框架 Next.js，到几乎所有硅谷当红 AI 应用背后的部署平台，其创始人吉列尔莫&middot;劳赫是全球开发者生态中最具号召力的技术领袖之一。 本期对话源自海外对话平台 Delphi。访谈始于",
+     "source": "虎嗅",
+     "zh": "Vercel创始人：人类未来的核心工作是资本分配"
+    },
+    {
+     "title": "微博 CEO 王高飞：企业家 IP 不只是个人流量还是长期信任资产，警惕三种运营误区",
+     "link": "https://www.ithome.com/1/022/666.htm",
+     "pubDate": "Thu, 05 Nov 2026 04:53:30 GMT",
+     "summary": "IT之家 11 月 5 日消息，世界互联网大会乌镇峰会互联网企业家论坛于 11 月 4 日在浙江乌镇举行。微博 CEO 王高飞出席论坛并发表题为“共建可信企业 IP，让中国企业家的声音走向世界”的主旨演讲。 据新浪科技报道，王高飞表示，企业家日益成为品牌对外叙事的重要主体。中国产品走向世界，企业家的声音也要形成传播合力。 企业家 IP 不只是个人流量热度，更是通过技术分享、产品理念、责任担当形成的长期信任资产 。 针对企业家如何做好公众沟通，王高飞指出，企业家运营个人 IP 尤其需要警惕三种常见误区： 只有宣传，没有沟通；只有道理，没有共情；只有态度，没有行动 。用户关注企业家，不只是看产品，",
+     "source": "IT之家",
+     "zh": "微博 CEO 王高飞：企业家 IP 不只是个人流量还是长期信任资产，警惕三种运营误区"
+    },
+    {
+     "title": "陶哲轩：即使AI再强，数学也不会穷途末路",
+     "link": "https://www.huxiu.com/article/4903209.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 12:49:19 +0800",
+     "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio 机器在解题速度上已经实现赶超，在此背景下，数学家应当开启一个新时代：不能只是一味发表更多的解题成果，还应提升人类的理解。 先进的AI模型正在以令人咋舌的速度改写数学。短短数月间，几百个AI辅助的证明——某个数学结果成立的逻辑论证——接连发布，攻克了一些长期未解的数学问题。 对于这些自动生成的解，数学家可能还要好几个月，才能完全看懂其背后的论证方式和意义。作为一名在工作中使用AI工具的数学家，我深切感受到整个领域正在发生翻天覆地地变化。我们现在迫切需要建立“数学2.0”（Maths 2.0）时代，让“证明稀缺”（proof",
+     "source": "虎嗅",
+     "zh": "陶哲轩：即使AI再强，数学也不会穷途末路"
+    },
+    {
      "title": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&apos;t suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)",
      "link": "https://www.techmeme.com/261104/p66#a261104p66",
      "pubDate": "Wed, 04 Nov 2026 23:35:00 -0500",
@@ -1761,12 +1809,12 @@
      "zh": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&apos;t suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)"
     },
     {
-     "title": "特斯拉美国 FSD 再陷致命事故：71 岁男子横穿高速被撞身亡，时速约 113km/h",
+     "title": "特斯拉美国 FSD 再陷致命事故：71 岁男子横穿高速被撞身亡，车速约 113km/h",
      "link": "https://www.ithome.com/1/022/665.htm",
      "pubDate": "Thu, 05 Nov 2026 04:32:05 GMT",
      "summary": "IT之家 11 月 5 日消息，美国加州瓦列霍市一条高速公路 10 月下旬发生了一起致命交通事故，一名 71 岁男子横穿高速公路时，被一辆特斯拉汽车撞击身亡。 特斯拉驾驶员向警方表示，车辆当时已经开启 FSD 驾驶。加州公路巡警（CHP）调取车辆行车记录仪后发现，车辆曾尝试刹车并向左转向避让，但最终未能避免碰撞。 据美国哥伦比亚广播公司（CBS News）报道，此次事故发生于当地时间 10 月 22 日凌晨 2 时 35 分左右，地点位于加州瓦列霍市 I-80 州际公路西行方向、I-780 互通立交附近。 涉事特斯拉汽车由一名 26 岁的旧金山男子驾驶。警方表示，驾驶员事发后留在现场配合调查，",
      "source": "IT之家",
-     "zh": "特斯拉美国 FSD 再陷致命事故：71 岁男子横穿高速被撞身亡，时速约 113km/h"
+     "zh": "特斯拉美国 FSD 再陷致命事故：71 岁男子横穿高速被撞身亡，车速约 113km/h"
     },
     {
      "title": "索尼 Xperia 10 VIII/10 VII 手机推送 Android 17 更新，无缘安卓 iOS 文件互传功能",
@@ -1849,54 +1897,6 @@
      "zh": "Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M (Valida Pau/The Information)"
     },
     {
-     "title": "两位中国人将登上月球，中国载人登月方案细节亮相",
-     "link": "https://www.huxiu.com/article/4903200.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 12:09:34 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：流浪星辰，编辑：吴欧，原文标题：《两位中国人将登上月球！中国载人登月方案细节亮相》 10月31日，第七届载人航天学术大会上，中国2030年就要干成的一件大事公布了细节。 中国载人航天工程副总设计师兼月球探测工程总设计师王翔，首次介绍了我国载人月球探测任务乘组计划。 简单来说：两枚长征十号先后发射，揽月着陆器先上去，在环月轨道“等着”；梦舟飞船带着三位航天员随后出发；然后着陆器与飞船在环月轨道上对接，两位航天员换乘着陆器落月；完成任务后，从月面起飞，与飞船对接回家。 听懂了，就是先这样，再这样，网友一总结：“两次发射，环月对接；三人上去，两人着陆。”好简单的一",
-     "source": "虎嗅",
-     "zh": "两位中国人将登上月球，中国载人登月方案细节亮相"
-    },
-    {
-     "title": "CPU 格局将迎分水岭：AMD 有望史上首次单季营收超越英特尔",
-     "link": "https://www.ithome.com/1/022/607.htm",
-     "pubDate": "Thu, 05 Nov 2026 03:57:39 GMT",
-     "summary": "IT之家 11 月 5 日消息，科技媒体 Tom's Hardware 昨日（11 月 4 日）发布博文，报道称 AMD 官方预估 2026 财年（2025 年 12 月 28 日～2026 年 12 月 26 日）第四财季（2026 年 9 月 26 日～2026 年 12 月 26 日）的营收， 有望首次超越英特尔。 IT之家查询 AMD 和英特尔官方公布的业绩指引（guidance）， AMD 预测第四财季营收约 170 亿美元，同比约增长 66%、环比约增长 27% ； 而英特尔预估第四财季（2026 年 9 月 26 日～2026 年 12 月 26 日）营收为 150~160 亿美",
-     "source": "IT之家",
-     "zh": "CPU 格局将迎分水岭：AMD 有望史上首次单季营收超越英特尔"
-    },
-    {
-     "title": "杨澜带货，抢了普通人的饭碗？",
-     "link": "https://www.huxiu.com/article/4903196.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 11:57:18 +0800",
-     "summary": "本文来自微信公众号： 冰川思享号 ，作者：侯虹斌 在大家都没有违法、产品都合乎标准的前提下，由谁来界定谁有资格带货？以此推论，岂不是最没有名气、最难卖出货的人，才最合乎网友的心意？ 最近，杨澜被骂上了热搜。仔细一看，人家没做任何错事，不过是几年前直播带过货，评论区就被一片“伐冰之家，不畜牛羊”攻陷了。而且，那还是段旧视频，如今被翻出来“鞭尸”。 哟嗬，网友什么时候这么有文化了？网暴别人，还懂得翻出《礼记·大学》？ 可惜，文雅的词句用错了地方，倾泻的依然是情绪。这是整个社会的集体“仇富情结”，戾气并不针对具体的人，而是一种巨大的无能为力。 01 面对这场算不上“批评”的攻击，杨澜回应了自己当年为",
-     "source": "虎嗅",
-     "zh": "杨澜带货，抢了普通人的饭碗？"
-    },
-    {
-     "title": "奥迪创新技术中心总经理冯思远：AUDI 没有出口海外计划",
-     "link": "https://www.ithome.com/1/022/606.htm",
-     "pubDate": "Thu, 05 Nov 2026 03:54:22 GMT",
-     "summary": "IT之家 11 月 5 日消息，据界面新闻报道，11 月 5 日，在奥迪创新技术中心开业仪式上，奥迪创新技术中心总经理冯思远接受界面新闻等媒体采访时表示， AUDI 品牌车型目前没有出口海外的计划 ，现阶段目标是将通过一系列产品，进一步开拓中国市场。 IT之家注意到，奥迪中国 10 月 26 日宣布， 奥迪分别与合作伙伴签署了战略协议 ，旨在强化奥迪四环品牌与 AUDI (奥迪字母标) 品牌之间的差异化定位及各自的战略侧重，并进一步明确“双品牌、双合作伙伴”渠道架构。 根据此前公告，在四环品牌方面，奥迪和中国一汽将持续强化多元且均衡的豪华产品矩阵，涵盖豪华新能源车型以及下一代智能燃油车型，其中",
-     "source": "IT之家",
-     "zh": "奥迪创新技术中心总经理冯思远：AUDI 没有出口海外计划"
-    },
-    {
-     "title": "红果拿下豆包，腾讯阿里也坐不住了？",
-     "link": "https://www.huxiu.com/article/4903192.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 11:53:00 +0800",
-     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 阿里的AI产品家族，又冒出来一个新成员。 最近，阿里正在内测一款名叫Looogen（逻辑智片）的AI影视创作平台，主打用Agent制作短剧。 看了下官网和产品界面。除了常规的AI视频生成，它还提供数字演员库、场景资产管理、Skill广场，甚至支持创作者上传、创建自己的Skill。 ←左右滑动阅读→ 从剧本改编、分镜制作到角色配音、成片剪辑，阿里想把一个影视剧组的工作搬进AI工具里。 不过，Looogen只是最近AI短剧热潮中的一个新玩家。 就在昨天，QuestMobile公布了一组相当有冲击力的数据：红果短剧的用户规模，居然超过了豆包。 2",
-     "source": "虎嗅",
-     "zh": "红果拿下豆包，腾讯阿里也坐不住了？"
-    },
-    {
-     "title": "开Bistro吗？每月一睁眼先亏10w",
-     "link": "https://www.huxiu.com/article/4901689.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 11:50:00 +0800",
-     "summary": "开Bistro，每月睁眼先亏十万，法租界一桌人均200-400，预制菜一端上来，复购就告别。装修风格一模一样，露营凳、落日灯、特调酒，护城河全靠淘宝设计图纸。餐饮周期性强，品类火时都套进去，回本难如股民。",
-     "source": "虎嗅",
-     "zh": "开Bistro吗？每月一睁眼先亏10w"
-    },
-    {
      "title": "门店即将破2万家，百胜中国三季度收入超35亿美元",
      "link": "https://www.tmtpost.com/8194100.html",
      "pubDate": "Thu, 05 Nov 2026 11:42:21 +0800",
@@ -1948,7 +1948,7 @@
      "title": "Starfall – Affordable, routine access to microgravity",
      "link": "https://www.spacex.com/starfall",
      "pubDate": "Thu, 05 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 155 # Comments: 91",
+     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 160 # Comments: 99",
      "source": "Hacker News",
      "zh": "Starfall – Affordable, routine access to microgravity"
     },
@@ -1956,7 +1956,7 @@
      "title": "Images 2.6",
      "link": "https://openai.com/index/introducing-images-2-6/",
      "pubDate": "Wed, 04 Nov 2026 23:35:44 +0000",
-     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 182 # Comments: 121",
+     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 186 # Comments: 124",
      "source": "Hacker News",
      "zh": "Images 2.6"
     },
@@ -1988,7 +1988,7 @@
      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
      "link": "https://icode4.coffee/?p=1746",
      "pubDate": "Wed, 04 Nov 2026 22:01:49 +0000",
-     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 82 # Comments: 4",
+     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 83 # Comments: 4",
      "source": "Hacker News",
      "zh": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements"
     }
@@ -2249,6 +2249,30 @@
    "total": 13,
    "items": [
     {
+     "title": "Thursday’s Economic Calendar",
+     "link": "https://seekingalpha.com/news/4664711-thursdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 00:00:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Thursday’s Economic Calendar"
+    },
+    {
+     "title": "Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited",
+     "link": "https://www.finextra.com/newsarticle/48708/capgemini-multi-agent-ai-moves-into-banking-and-insurance-but-orchestration-remains-limited?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 05 Nov 2026 05:00:00 GMT",
+     "summary": "Financial institutions are struggling to scale multi-agent AI beyond pilot projects, with just 10% of banks and insurers having achieved enterprise-wide orchestration despite 59% piloting or deploying the technology, according to Capgemini research.",
+     "source": "Finextra",
+     "zh": "Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited"
+    },
+    {
+     "title": "ElectroCore outlines 30% to 40% 2027 revenue growth while targeting positive adjusted EBITDA by end of 2027",
+     "link": "https://seekingalpha.com/news/4666166-electrocore-outlines-30-percent-to-40-percent-2027-revenue-growth-while-targeting-positive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 23:55:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ElectroCore outlines 30% to 40% 2027 revenue growth while targeting positive adjusted EBITDA by end of 2027"
+    },
+    {
      "title": "Fastly anticipates 2026 revenue of $744M-$748M amid $50M-$60M free cash flow outlook",
      "link": "https://seekingalpha.com/news/4666165-fastly-anticipates-2026-revenue-of-744m-748m-amid-50m-60m-free-cash-flow-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 23:45:33 -0500",
@@ -2273,52 +2297,12 @@
      "zh": "咖啡杯已装不下瑞幸的野心"
     },
     {
-     "title": "11月5日午间涨停复盘：62股涨停 阳光照明11天6板",
-     "link": "http://stock.eastmoney.com/news/11781,202611053923343792.html",
-     "pubDate": "Thu, 05 Nov 2026 12:39:31 +0800",
-     "summary": "今日午盘沪指 涨 0.1%，深成指 涨 1.44%，创业板指 涨 1.24%，今日午盘大盘成交额1.46万亿，较上个交易日放量5393.13亿。 涨停个股数量方面，今日午盘共计62股涨停，另有44只个股盘中一度触及涨停，封板率58.49%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "11月5日午间涨停复盘：62股涨停 阳光照明11天6板"
-    },
-    {
-     "title": "物理AI模型商易博图完成两轮近4亿元融资",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923343641.html",
-     "pubDate": "Thu, 05 Nov 2026 12:37:06 +0800",
-     "summary": "上海易博图科技有限公司（EABOT，以下简称“易博图”）近日连续完成两轮近4亿元融资，投资方包括知名投资人葛卫东、辰韬资本、弘毅投资、零一 汽车 、兴富资本、猎鹰投资旗下星奇基金等。易博图成立于2026年2月，聚焦重载工业物理AI，核心业务是研发面向重载场景的“移动+操作”物理AI模型。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "物理AI模型商易博图完成两轮近4亿元融资"
-    },
-    {
-     "title": "机构：Q3全球平板电脑出货量同比萎缩23% 创近三年新低",
-     "link": "http://finance.eastmoney.com/news/1360,202611053923343529.html",
-     "pubDate": "Thu, 05 Nov 2026 12:37:06 +0800",
-     "summary": "Omdia报告称，全球平板电脑出货量在2026年第三季度下滑至3200万台，创下近三年来的单季新低，同比则大幅萎缩 23%。Omdia研究经理Himani Mukka表示，继上季度下滑10%之后，平板电脑市场在第三季度再次出现两位数萎缩。随着供应限制加剧，平板电脑在厂商2026年和2027年的战略重点中地位日益下降。预计明年供应状况将进一步收紧，平板电脑市场在2028年之前不太可能出现实质性复苏。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "机构：Q3全球平板电脑出货量同比萎缩23% 创近三年新低"
-    },
-    {
-     "title": "摩根大通将Circle目标价从110美元下调至100美元",
-     "link": "http://stock.eastmoney.com/news/1440,202611053923343496.html",
-     "pubDate": "Thu, 05 Nov 2026 12:37:06 +0800",
-     "summary": "摩根大通 将Circle目标价从110美元下调至100美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "摩根大通将Circle目标价从110美元下调至100美元"
-    },
-    {
-     "title": "腾讯五连涨",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923343257.html",
-     "pubDate": "Thu, 05 Nov 2026 12:35:43 +0800",
-     "summary": "11月5日，恒生指数盘中涨超3%，区间最高点位较昨日收盘拉升近800点；恒生科技指数盘中涨近6%。截至午间收盘，恒生指数涨3.09%，恒生科技指数涨4.79%，恒生国企指数涨3.04%。科技、消费板块领涨。 腾讯控股 五连涨，区间涨幅超13%。今日早盘， 腾讯控股 一度涨超6.8%。截至午间收盘， 腾讯控股 涨5.53%，成交额超142亿港元。 消息面上，11月4日，腾讯混元团队发布最新一代大语言模型Hy4。同日，WorkBuddy国内版及国际版同步接入Hy4，开启为期两天的限时免费体验。 截至发稿，腾讯控股今年以来跌幅约为28%。“对资本市场而言，企业估值不仅取决于当前盈利规模，也取决于未来",
-     "source": "东方财富股票",
-     "zh": "腾讯五连涨"
-    },
-    {
-     "title": "特朗普抱怨参议院拖延永久夏令时法案",
-     "link": "http://finance.eastmoney.com/news/1351,202611053923342434.html",
-     "pubDate": "Thu, 05 Nov 2026 12:33:26 +0800",
-     "summary": "在共和党中期选举遭遇历史性惨败仅仅一天后，美国总统特朗普4日就永久实施夏令时相关法案发帖，抱怨参议院迟迟不通过相关法案，称频繁调整时钟很麻烦。 特朗普当天在社交媒体“真实社交”发文说：“太糟糕了，参议院竟然还没有通过《阳光保护法案》，或者叫《我再也不想调时钟法案》。天黑得太早了，下午5点06分日落，5点31分就全黑了，这难道不荒谬吗？就在几天前，同一时间段还阳光明媚。而且，所有人都在忙着调时钟。” 帖文称，他没有在选举前大肆宣扬这一问题，是因为不希望因此影响某些参议员的选情，“但遗憾的是，他们就是办不成事”。他在帖文中抱怨，众议院以巨大的两党支持率将该法案送交参议院，“但参议院就是不审议”。 ",
-     "source": "东方财富股票",
-     "zh": "特朗普抱怨参议院拖延永久夏令时法案"
+     "title": "统一客户属地标准 厘清区域性金融机构展业边界",
+     "link": "http://www.eeo.com.cn/2026/1105/1084741.shtml",
+     "pubDate": "Thu, 05 Nov 2026 12:39:00 +0800",
+     "summary": "客户属地判定标准对外公布意义重大，它不是简单设置线上业务的拦截门槛，而是平衡守住风险底线、健全地方金融生态、加强消费者保护多重目标的一种基础性制度安排。",
+     "source": "经济观察网",
+     "zh": "统一客户属地标准 厘清区域性金融机构展业边界"
     },
     {
      "title": "金价连收4000、4100美元两道大关 为何仅被视作“修复”？机构：加息预期尚未回落",
@@ -2367,22 +2351,6 @@
      "summary": "周四 AI应用 概念走强， 易点天下 、 立方控股 涨超10%， 浙文互联 、 引力传媒 、 天地在线 等多股涨停。 消息面上， AI应用 正多点开花。据财联社，国行 苹果 AI周三 随 iOS 27.3 开发者测试版开放测试。该版本Siri深度整合阿里千问，正式版预计12月推送。国行 苹果 AI由 苹果 自研端侧模型和阿里千问共同支持。简单任务在本地处理；复杂问答或创作，如Siri深度提问、写作工具生成内容，会在弹窗征得用户同意后调用千问云端能力。 另据上证报，近期 利欧股份 接连披露AI营销业务新进展。10月29日，公司推出LEO AIAD MCP，将多模态创意生成及品牌 资产管理 能力以",
      "source": "东方财富资讯",
      "zh": "苹果大动作！AI应用涨停潮 主力吸筹这些票(附股)"
-    },
-    {
-     "title": "AMC expects full-year 2026 free cash flow positive while targeting $200M-$235M net capex",
-     "link": "https://seekingalpha.com/news/4666161-amc-expects-full-year-2026-free-cash-flow-positive-while-targeting-200m-235m-net-capex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 23:17:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AMC expects full-year 2026 free cash flow positive while targeting $200M-$235M net capex"
-    },
-    {
-     "title": "Arcutis outlines $535M-$545M 2026 net revenue guidance while preparing for February 23, 2027 infant AD PDUFA",
-     "link": "https://seekingalpha.com/news/4666160-arcutis-outlines-535m-545m-2026-net-revenue-guidance-while-preparing-for-february-23-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 23:16:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Arcutis outlines $535M-$545M 2026 net revenue guidance while preparing for February 23, 2027 infant AD PDUFA"
     },
     {
      "title": "Chipmakers lead Asian stocks lower on post-midterm AI fears",
@@ -2487,6 +2455,38 @@
      "summary": "LIV Golf faces liquidation after BC Partners dropped a proposed $300 million rescue plan amid insufficient player commitments.",
      "source": "CNBC",
      "zh": "LIV Golf faces liquidation after BC Partners scraps rescue plan"
+    },
+    {
+     "title": "禁止有罪推定，是对无罪推定原则的再推进",
+     "link": "http://www.eeo.com.cn/2026/1105/1084577.shtml",
+     "pubDate": "Thu, 05 Nov 2026 10:40:00 +0800",
+     "summary": "如果说坚持无罪推定更侧重于刑事诉讼理念的宣告和诉讼思维的提升，那么，禁止有罪推定则是要把无罪推定的理念与思维落到实处，是要对那些与无罪推定背道而驰的做法果断纠偏。",
+     "source": "经济观察网",
+     "zh": "禁止有罪推定，是对无罪推定原则的再推进"
+    },
+    {
+     "title": "在合肥持续投入四年后，大众汽车准备借中国技术翻盘",
+     "link": "http://www.eeo.com.cn/2026/1105/1084551.shtml",
+     "pubDate": "Thu, 05 Nov 2026 10:38:04 +0800",
+     "summary": "从时间线来看，大众汽车集团过去一周密集释放的信息，是一场“精心安排”的全球战略转型发布，是让中国研发的技术方案产生规模效应，继而提升整个集团的电动化转型回报率。",
+     "source": "经济观察网",
+     "zh": "在合肥持续投入四年后，大众汽车准备借中国技术翻盘"
+    },
+    {
+     "title": "Qualcomm’s stock falls as twin forces pressure sales",
+     "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+     "pubDate": "Thu, 05 Nov 2026 01:06:00 GMT",
+     "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
+     "source": "MarketWatch",
+     "zh": "Qualcomm’s stock falls as twin forces pressure sales"
+    },
+    {
+     "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+     "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+     "pubDate": "Thu, 05 Nov 2026 01:05:00 GMT",
+     "summary": "AppLovin’s stock is popping after “clearly positive” earnings results.",
+     "source": "MarketWatch",
+     "zh": "This year’s worst-performing S&P 500 stock is finally seeing some major relief"
     }
    ]
   },
@@ -2496,6 +2496,22 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Clearing up a robot’s fuzzy memory",
+     "link": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+     "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
+     "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+     "source": "MIT News",
+     "zh": "Clearing up a robot’s fuzzy memory"
+    },
+    {
+     "title": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+     "link": "https://www.sciencenews.org/article/little-ice-age-climate-europe-rickets",
+     "pubDate": "Thu, 05 Nov 2026 05:00:00 +0000",
+     "summary": "The Industrial Revolution and climate change may have both contributed to vitamin D deficiencies in 18th and 19th century Europe.",
+     "source": "Science News",
+     "zh": "Little Ice Age cooling in Europe may have raised the risk of rickets"
+    },
     {
      "title": "Swift has fallen: NASA's 22-year-old space telescope burns up over Sumatra",
      "link": "https://www.livescience.com/space/astronomy/swift-has-fallen-nasas-22-year-old-space-telescope-burns-up-over-sumatra",
@@ -2681,14 +2697,6 @@
      "zh": "Most of our measures of a key cognitive process don't agree"
     },
     {
-     "title": "Newborn survival improves when families receive financial support",
-     "link": "https://www.sciencenews.org/article/newborn-cash-support-survival",
-     "pubDate": "Mon, 02 Nov 2026 17:19:12 +0000",
-     "summary": "Rx Kids, a program that provides unconditional cash transfers for pregnant people and infants, reduced neonatal mortality in Flint, Michigan.",
-     "source": "Science News",
-     "zh": "Newborn survival improves when families receive financial support"
-    },
-    {
      "title": "Is There Anything Left in the Dream of Cold Fusion?",
      "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
      "pubDate": "Mon, 02 Nov 2026 15:48:57 +0000",
@@ -2727,14 +2735,6 @@
      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
      "source": "Ars Technica Science",
      "zh": "Seabirds racing home over the ocean can get jet-lagged"
-    },
-    {
-     "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-     "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-     "pubDate": "Sat, 31 Oct 2026 11:02:34 +0000",
-     "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-     "source": "Ars Technica Science",
-     "zh": "The FDA wants to pull its approval of a drug. It’s not so easy."
     }
    ]
   }

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 17:04:12",
+ "generated_at": "2026/11/5 17:12:06",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The 346-GW question: Will anti-data-center votes slow America's AI buildout?",
+     "link": "https://www.digitimes.com/news/a20261105VL225/data-center-development-capacity-infrastructure-electricity.html",
+     "pubDate": "Thu, 5 Nov 2026 08:35:00 GMT",
+     "summary": "US voters favored restrictions on data center development in 40 of 41 local ballot measures across 10 states on November 3, signaling growing opposition to AI infrastructure expansion.",
+     "source": "DIGITIMES",
+     "zh": "The 346-GW question: Will anti-data-center votes slow America's AI buildout?"
+    },
+    {
      "title": "Adding Network Security To AI, HPC, And Data Centers",
      "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
      "pubDate": "Thu, 05 Nov 2026 08:06:45 +0000",
@@ -306,6 +314,14 @@ window.INDUSTRY_DATA = {
      "zh": "Why Integrated Gate Drive Regulation Matters For High Reliability Space GaN Designs"
     },
     {
+     "title": "Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment",
+     "link": "https://www.digitimes.com/news/a20261105PD231/advantech-growth-equipment-pc-revenue.html",
+     "pubDate": "Thu, 5 Nov 2026 08:00:07 GMT",
+     "summary": "Industrial PC leader Advantech reported record quarterly revenue and net profit for the third quarter of 2026, propelled by strong demand across semiconductor equipment, factory automation, and medical devices, alongside surging shipments of high-end edge AI systems. However, component price increas",
+     "source": "DIGITIMES",
+     "zh": "Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment"
+    },
+    {
      "title": "Penguin Solutions to sell Cree LED to Transom",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-051126.shtml",
      "pubDate": "Thu, 5 Nov 2026 07:59:06 GMT",
@@ -352,22 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "Quantum investors weigh technical progress against customer demand, commercial timing, and the ability to build lasting value. The post What Makes a Quantum Company Valuable? appeared first on EE Times .",
      "source": "EE Times",
      "zh": "What Makes a Quantum Company Valuable?"
-    },
-    {
-     "title": "AI demand lifts Kyocera revenue as company raises forecast again",
-     "link": "https://www.digitimes.com/news/a20261105PD200/kyocera-revenue-demand-forecast-electronics.html",
-     "pubDate": "Thu, 5 Nov 2026 06:55:11 GMT",
-     "summary": "Japanese electronic components giant Kyocera reported record revenue of JPY1.08 trillion (approximately US$6.83 billion) for the first half of fiscal 2026 (April to September 2026), up 8.8% from the same period a year earlier. Operating profit and net income also grew by 32% to 56%. The results prom",
-     "source": "DIGITIMES",
-     "zh": "AI demand lifts Kyocera revenue as company raises forecast again"
-    },
-    {
-     "title": "Beijing restricts equity listings amid market slump as YMTC pauses its stock market debut",
-     "link": "https://www.digitimes.com/news/a20261105VL223/ymtc-beijing-stock-market-investment-2027.html",
-     "pubDate": "Thu, 5 Nov 2026 06:29:48 GMT",
-     "summary": "Beijing has instructed top securities firms and investment banks to pause initial public offerings and restrict large-scale share sales by major shareholders. Reporting by The Wall Street Journal reveals that the China Securities Regulatory Commission (CSRC) issued \"window guidance\" to slow equity s",
-     "source": "DIGITIMES",
-     "zh": "Beijing restricts equity listings amid market slump as YMTC pauses its stock market debut"
     },
     {
      "title": "YMTC pulls IPO",
@@ -650,12 +650,12 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
-     "title": "The 2027 Chevy Silverado EV Gets A Power Bump And A NACS Port",
-     "link": "https://insideevs.com/news/814480/2027-chevrolet-silverado-ev-more-power-nacs/",
-     "pubDate": "Thu, 05 Nov 2026 08:27:27 +0000",
-     "summary": "All General Motors EVs are getting a Tesla-style charging port, but the most powerful Silverado EV gets some extra ponies, too.",
-     "source": "InsideEVs",
-     "zh": "The 2027 Chevy Silverado EV Gets A Power Bump And A NACS Port"
+     "title": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground",
+     "link": "https://cnevpost.com/2026/11/05/catl-byd-gain-ev-battery-share-outside-china/",
+     "pubDate": "Thu, 05 Nov 2026 09:04:19 +0000",
+     "summary": "CATL and BYD's combined share rises to 44.5%, while the 6 Chinese makers in the top 10 hold 56.4%. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "CATL, BYD gain EV battery share outside China as Korean rivals lose ground"
     },
     {
      "title": "Xpeng begins Mona L05 deliveries, targets 10,000 units in first month",
@@ -706,14 +706,6 @@ window.INDUSTRY_DATA = {
      "zh": "First: Volvo CE Electric equipment does the work, without disturbing the wildlife"
     },
     {
-     "title": "Tesla Sold FSD To Koreans Who Still Can't Use It. Now It's Facing A Complaint",
-     "link": "https://insideevs.com/news/814404/tesla-fsd-south-korea-claims/",
-     "pubDate": "Wed, 04 Nov 2026 22:35:46 +0000",
-     "summary": "Data shows that 99% of Teslas imported into Korea last year can't activate Full Self-Driving, even if owners paid for the feature.",
-     "source": "InsideEVs",
-     "zh": "Tesla Sold FSD To Koreans Who Still Can't Use It. Now It's Facing A Complaint"
-    },
-    {
      "title": "GM is recalling more than 67,000 Cadillac and Chevy EVs over a brake software defect",
      "link": "https://electrek.co/2026/11/04/gm-recalls-67000-cadillac-chevy-evs-over-brake-software-defect/",
      "pubDate": "Wed, 04 Nov 2026 22:15:04 +0000",
@@ -722,12 +714,12 @@ window.INDUSTRY_DATA = {
      "zh": "GM is recalling more than 67,000 Cadillac and Chevy EVs over a brake software defect"
     },
     {
-     "title": "Waymo And Uber's Robotaxi Partnership Is Ending",
+     "title": "Waymo And Uber Are Officially Breaking Up: Report",
      "link": "https://insideevs.com/news/814451/waymo-uber-robotaxi-partnership-is-ending/",
      "pubDate": "Wed, 04 Nov 2026 21:59:14 +0000",
-     "summary": "Waymo is planning to serve riders via its own app in Austin and Atlanta.",
+     "summary": "It's planning to serve riders via its own app in those cities instead.",
      "source": "InsideEVs",
-     "zh": "Waymo And Uber's Robotaxi Partnership Is Ending"
+     "zh": "Waymo And Uber Are Officially Breaking Up: Report"
     },
     {
      "title": "Uber Wants Thousands Of Robotaxis By 2027. Waymo Is Already There",
@@ -770,12 +762,28 @@ window.INDUSTRY_DATA = {
      "zh": "Home Depot early Black Friday sale arrives, Fanttik USB-C pruning shears $80, WORX 9-in-1 leaf blower $91, more"
     },
     {
+     "title": "I Like Electric Sedans. But Riding In The Back Of One Sucks",
+     "link": "https://insideevs.com/features/814423/ev-sedans-compromised-back-seat/",
+     "pubDate": "Wed, 04 Nov 2026 18:54:46 +0000",
+     "summary": "There’s more to rear passenger comfort than the distance to the front seat. What’s under your feet matters, too.",
+     "source": "InsideEVs",
+     "zh": "I Like Electric Sedans. But Riding In The Back Of One Sucks"
+    },
+    {
      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
      "pubDate": "Wed, 04 Nov 2026 18:12:30 +0000",
      "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
      "source": "TechCrunch Transport",
      "zh": "Waymo confirms it’s shaking up its Uber relationship in January 2028"
+    },
+    {
+     "title": "This Startup Is Turning Used E-Bike Batteries Into Affordable Energy Storage",
+     "link": "https://insideevs.com/news/814389/e-bike-e-scooter-second-life-batteries-energy-storage/",
+     "pubDate": "Wed, 04 Nov 2026 14:15:16 +0000",
+     "summary": "Why throw away old e-bike and e-scooter batteries when they can be repurposed? Best of all, they don’t even need to be dismantled.",
+     "source": "InsideEVs",
+     "zh": "This Startup Is Turning Used E-Bike Batteries Into Affordable Energy Storage"
     },
     {
      "title": "CATL, Octopus Energy and Ampace partner to explore European home energy storage",
@@ -792,14 +800,6 @@ window.INDUSTRY_DATA = {
      "summary": "October passenger NEV retail sales rose 6% from a month earlier, pushing the penetration rate to a record high of 67.8%. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "China October NEV retail sales fall 10% to 1.148 million, preliminary CPCA data shows"
-    },
-    {
-     "title": "Xpeng unveils GroundingPI pre-trained model, outperforming GPT-6 Astra in perception benchmarks",
-     "link": "https://cnevpost.com/2026/11/04/xpeng-unveils-groundingpi-pre-trained-model/",
-     "pubDate": "Wed, 04 Nov 2026 10:02:24 +0000",
-     "summary": "With a parameter scale of about 4 billion, GroundingPI beat OpenAI's GPT-6 Astra in a comprehensive evaluation across 34 public perception benchmarks. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Xpeng unveils GroundingPI pre-trained model, outperforming GPT-6 Astra in perception benchmarks"
     },
     {
      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
@@ -841,6 +841,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "FTC Solar signs MoU with four Australian steel companies on solar tracker supply",
+     "link": "https://www.pv-tech.org/ftc-solar-four-australian-steel-companies-sign-mou-on-pv-tracker-supply/",
+     "pubDate": "Thu, 05 Nov 2026 09:08:21 +0000",
+     "summary": "FTC Solar has signed a non-binding MoU with four Australian steel companies to explore local supply of steel for utility-scale solar plants.",
+     "source": "PV Tech",
+     "zh": "FTC Solar signs MoU with four Australian steel companies on solar tracker supply"
+    },
     {
      "title": "SOCAR Bets $1.65 Billion on U.S. Shale Gas Boom",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/SOCAR-Bets-165-Billion-on-US-Shale-Gas-Boom.html",
@@ -1018,12 +1026,12 @@ window.INDUSTRY_DATA = {
      "zh": "APS expects sales to double by 2041, plans extending coal use to 2038"
     },
     {
-     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
+     "title": "Trump ban on foreign grid components sparks industry concern over cost, practicality",
      "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
      "pubDate": "Wed, 04 Nov 2026 11:41:26 -0500",
-     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
+     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
-     "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
+     "zh": "Trump ban on foreign grid components sparks industry concern over cost, practicality"
     },
     {
      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "What is LMFP battery chemistry, and why is interest growing in it as a possible alternative to LFP batteries in battery energy storage system (BESS) applications?",
      "source": "Energy Storage News",
      "zh": "Could BESS move towards LMFP battery chemistry?"
-    },
-    {
-     "title": "Turkey awards 785MW solar PV in latest YEKA tender",
-     "link": "https://www.pv-tech.org/turkey-awards-785mw-solar-pv-in-latest-yeka-tender/",
-     "pubDate": "Wed, 04 Nov 2026 11:13:13 +0000",
-     "summary": "The Turkish Ministry of Energy and Natural Resources has allocated 785MW of solar PV capacity in the latest Renewable Resource Areas (YEKA) GES-2026 tender.",
-     "source": "PV Tech",
-     "zh": "Turkey awards 785MW solar PV in latest YEKA tender"
     }
    ]
   },
@@ -1754,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "欧空局探测器新发现：火星火山或处于休眠状态，并非地质死亡",
+     "link": "https://www.ithome.com/1/022/876.htm",
+     "pubDate": "Thu, 05 Nov 2026 09:03:53 GMT",
+     "summary": "IT之家 11 月 5 日消息，长期以来，科学家一直认为火星在地质活动方面已经“死亡”，但最新的探测器观测结果显示，这颗红色星球上的火山可能只是进入了休眠状态。 这意味着，火星上的奥林帕斯山（Olympus Mons）或许并非真正意义上的死火山，而是一座仍在沉睡的庞然大物。奥林帕斯山高出周围火星平原约 26 公里，是太阳系中最高的山峰。 据IT之家了解，此次观测由欧洲航天局（ESA）的“火星微量气体任务轨道器”（ExoMars Trace Gas Orbiter，TGO）完成。探测器对火星阿尔巴山（Alba Mons）区域的火山裂隙进行了研究。阿尔巴山位于火星塔尔西斯（Tharsis）地区，奥",
+     "source": "IT之家",
+     "zh": "欧空局探测器新发现：火星火山或处于休眠状态，并非地质死亡"
+    },
+    {
+     "title": "俄罗斯太靠北了，能逆天改命么？",
+     "link": "https://www.huxiu.com/article/4902384.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 17:00:00 +0800",
+     "summary": "俄罗斯的缺陷，千言万语两个字，靠北，因为靠北，俄罗斯空有辽阔的国土却难以开发，空有极长的海岸线，但不冻港却屈指可数。全球变暖、北极解冻竟成俄罗斯的福利，一把手亲自督战北极工程，下血本要投出一个光明的未来。 冻土解冻让基建如陷泥潭，生态风险飙升。俄罗斯能在北极逆天改命么？",
+     "source": "虎嗅",
+     "zh": "俄罗斯太靠北了，能逆天改命么？"
+    },
+    {
      "title": "AOC 5K 180Hz 双模显示器 AGP277KXM 上市：峰值 1600nits，到手价 5998.5 元",
      "link": "https://www.ithome.com/1/022/860.htm",
      "pubDate": "Thu, 05 Nov 2026 08:59:14 GMT",
@@ -1768,6 +1784,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 5 日消息，据韩联社报道，近一个月来，韩国共有 37 家金融公司遭到黑客入侵，约有 47.3 万条信息泄露，资金被盗规模约为 10 亿韩元 （IT之家注：现汇率约合 497.3 万元人民币） 。 韩国金融委员会委员长李亿远 5 日以“人工智能时代，安全体系创新”为主题，主持召开座谈会，检查近期金融公司信息泄露情况。 韩国金融部门于 9 月 30 日首次确认发生信息泄露事件，之后至本月 3 日共接到 37 家公司 40 起信息泄露事故举报。涉事公司包括 4 家银行、5 家金融投资公司、3 家保险公司、5 家储蓄银行、2 家贷款公司、4 家在线投资金融公司、10 家电子金融公司",
      "source": "IT之家",
      "zh": "近一个月来，韩国共有 37 家金融公司遭入侵、超 47 万条信息泄露"
+    },
+    {
+     "title": "中国销量跌近两成，丰田仍在赚钱",
+     "link": "https://www.huxiu.com/article/4903274.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 16:55:12 +0800",
+     "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 丰田今年在中国少卖了近两成汽车，全球营业利润却开始回升。 11月5日，丰田公布财报，7至9月营业利润约为1.13万亿日元，同比增长34%，六个季度以来首次实现同比增长。丰田同时将截至2027年3月的全年营业利润预期，从3.4万亿日元上调至3.9万亿日元，上调幅度约15%。 中国市场仍未止跌。 今年1至9月，包含雷克萨斯在内，丰田在华累计销售约105.55万辆，同比下降18.9%。9月销量约12.77万辆，同比下降19.7%，已连续八个月同比下滑。 就在这份财报公布前不到一个月，丰田与两家中国合作伙伴签下了一份新的合作协议。广汽集团拟收购一汽持",
+     "source": "虎嗅",
+     "zh": "中国销量跌近两成，丰田仍在赚钱"
     },
     {
      "title": "NASA 阿尔忒弥斯二号发射“击穿”电离层，引发 GPS 定位扰动",
@@ -1792,14 +1816,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 星海情报局 ，作者：星海老局 在过去的二十年时间里，中国几乎所有城市都在做同一件事：对外扩张。 城市的环路一圈一圈向外挺进，城市人口也在快速增长，在二十年的时间里，许多城市的建成区域和人口都在翻倍。 这就是所谓的“增量发展时代”，城市规模和市场一起快速成长，短时间内催生出了无数新的需求、新的岗位、新的机会。 但现在，这股浪潮正在以肉眼可见的速度衰减，城市化率已经来到了接近70%的水平，人口大规模集中的高峰期已经一去不复返了。 更重要的是，随着城市化的减速，随着人们扎根在城市里，城市的不完美之处开始深刻影响每个人每一天的日常生活。由于绝大多数中国人如今都已经生活在了城市之中",
      "source": "虎嗅",
      "zh": "中国城市，正在进入“修补时代”"
-    },
-    {
-     "title": "奥之心曾考虑生产全画幅数码相机，最终决定先将 M4/3 做到极致",
-     "link": "https://www.ithome.com/1/022/848.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:51:16 GMT",
-     "summary": "IT之家 11 月 5 日消息，奥之心上周（10 月 29 日）放出了一段访谈视频，其中首席运营官片冈摄哉、奥之心事业部负责人城田英二谈到公司为何只做 M4/3 数码相机。 据悉，奥之心曾认真考虑过进军 APS-C 或全画幅数码相机市场，但最终决定放弃。多年来，开发大尺寸传感器相机的提案曾多次在公司内部出现。片冈摄哉表示，他们从奥林巴斯剥离后，确实认真考虑过这些想法。 不过最终他们决定先把现有产品做到极致，再寻求其他发展方向。奥之心管理层也认为， 转换传感器规格不符合公司使命 ，即打造紧凑、轻便且具备高移动性的摄影系统。 IT之家附本次访谈主要内容如下： M4/3 系统仍是公司的战略重点。奥之",
-     "source": "IT之家",
-     "zh": "奥之心曾考虑生产全画幅数码相机，最终决定先将 M4/3 做到极致"
     },
     {
      "title": "延安大学副教授离世：考核压力为何让高校教师涌向“横向课题”？",
@@ -1840,22 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "澳大利亚乔治全球健康研究院的研究人员评估了在 193 个国家将食盐供应转换为富钾盐的健康益处。他们发现，全球每年可预防近 300 万例死亡和 1000 万例心血管疾病和肾脏疾病新发病例。富钾盐是通过用氯化钾替代部分氯化钠（即普通食盐的主要成分）制成的。它在外观、味道和烹饪方式上都与普通食盐一样。2025 年世界卫生组织（WHO）认可使用富钾盐来降低血压和心血管疾病风险。全球范围内，30-79 岁成年人中有三分之一患有高血压，相当于约 14 亿人。心血管疾病（CVD）是全球死亡和残疾的主要原因，2023 年导致 1920 万人死亡，过去 30 年增加了近 50%。虽然潜在益处很大，但一个担忧是晚",
      "source": "Solidot",
      "zh": "富钾盐替换普通盐有助于每年预防数百万人死亡"
-    },
-    {
-     "title": "张雪机车给重庆大学应届生10万起薪，算傲慢吗？",
-     "link": "https://www.huxiu.com/article/4903241.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 16:14:36 +0800",
-     "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 10月26日下午，张雪机车创始人张雪到重庆大学做校招宣讲。 现场座无虚席，走廊里都站满了人。张雪站上讲台，开场就说自己不是来演讲的，是来打招聘广告的。宣讲主题叫\"致敬未来：风浪越大鱼越贵\"。 PPT投在大屏上，价码写得清清楚楚：985、211院校，研发岗年薪12万到15万，非研发岗10万到12万，加班费另算，六险一金。计划招约100人，七成是研发岗。 台下坐的是车辆、机械这些专业的学生，那是重庆大学的王牌。 然后事情就歪了。 薪资投出来之后，现场有学生表达了质疑，认为低于预期。网上评论区更直接，有人一句\"这点钱谁去啊\"。 张雪在现场举了个例子来回",
-     "source": "虎嗅",
-     "zh": "张雪机车给重庆大学应届生10万起薪，算傲慢吗？"
-    },
-    {
-     "title": "老外的中国旅行清单，给入境游出了新考题",
-     "link": "https://www.huxiu.com/article/4903263.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 16:14:00 +0800",
-     "summary": "本文来自微信公众号： 闻旅 ，作者：柳知，编辑：吴艳蕊 1 一位西班牙旅行博主，给中国旅游城市分了分类，帖子收获了141万次浏览。 北上广深加上三亚是博主不推荐的城市。在博主的描述里，北京是宏大而拥挤的皇城，上海代表摩天大楼里的中国，深圳是未来感压过了过去，广州庞大得让人难以一下消化，三亚则更接近海岛度假。 博主认为值得值得一去的中国宝藏城市有苏州、西安、成都、桂林和丽江。可以看园林、读历史、感受城市性格、欣赏山水，再去看看世界文化遗产。 评论区有网友说，只听过北京和上海，其他地方从来没听过。博主回复说，这太常见了。同时，这也是其想做这条帖子的原因。 旅游宣传总是反复推固定路线，但走出北京、上",
-     "source": "虎嗅",
-     "zh": "老外的中国旅行清单，给入境游出了新考题"
     },
     {
      "title": "五粮液续约博鳌，将担任2027年年会战略合作伙伴",
@@ -2002,6 +2002,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "New Android exploit only needs you to install an app to wreck your phone",
+     "link": "https://www.androidauthority.com/android-ghostmap-vulnerability-crash-loop-3731355/",
+     "pubDate": "Thu, 05 Nov 2026 09:00:00 +0000",
+     "summary": "Android sabotages itself next.",
+     "source": "Android Authority",
+     "zh": "New Android exploit only needs you to install an app to wreck your phone"
+    },
+    {
      "title": "You can now play Switch 2 games on Android via emulators and native ports",
      "link": "https://www.androidauthority.com/nintendo-switch-2-emulators-ports-android-3731890/",
      "pubDate": "Thu, 05 Nov 2026 08:57:38 +0000",
@@ -2064,14 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "November's update calendar is filling up fast.",
      "source": "Android Authority",
      "zh": "OnePlus reveals exact Android 17 rollout dates for more phones and tablets"
-    },
-    {
-     "title": "Starlink Mobile finally has an official rollout window",
-     "link": "https://www.androidauthority.com/starlink-mobile-5g-network-rollout-launch-window-3731862/",
-     "pubDate": "Thu, 05 Nov 2026 06:14:56 +0000",
-     "summary": "There's encouraging news if you'd like to switch from your existing carrier.",
-     "source": "Android Authority",
-     "zh": "Starlink Mobile finally has an official rollout window"
     },
     {
      "title": "Samsung Galaxy Buds4 Pro and Buds3 Pro will soon work as hearing aids",
@@ -2250,6 +2250,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
+     "link": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
+     "pubDate": "Thu, 05 Nov 2026 09:06:40 GMT",
+     "summary": "Rheinmetall cut its 2026 outlook for the second time in three months, citing delays to German military projects and artillery ammunition deliveries.",
+     "source": "CNBC",
+     "zh": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall"
+    },
+    {
+     "title": "European markets advance, Stoxx 600 reaches record high",
+     "link": "https://seekingalpha.com/news/4666259-european-markets-advance-stoxx-600-reaches-record-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 04:06:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "European markets advance, Stoxx 600 reaches record high"
+    },
+    {
+     "title": "美国中选“输赢已定”：AI硬件重挫，光通信美股盘前普跌，高通跌超9%，黄金突破4100美元",
+     "link": "https://wallstreetcn.com/articles/3785235",
+     "pubDate": "Thu, 05 Nov 2026 17:05:53 +0800",
+     "summary": "美国中期选举民主党大获全胜引发市场对人工智能监管收紧的担忧，投资者加速撤离芯片板块，日韩半导体股遭遇重挫。与此同时，港股A股携手大涨。 韩国KOSPI指数跌幅扩大至5.6%，SK海力士股价下挫逾10%，韩国交易所已启动Sidecar机制，暂停KOSDAQ程序化卖盘。日经225指数日内跌幅达2%。受民主党执掌国会后或将加强AI数据中心监管的预期驱动，三星电子与SK海力士均重挫逾7%，半导体板块压力向亚太区蔓延。 与此形成对照的是，腾讯控股与阿里巴巴集团均跳涨逾6%，香港恒生科技指数上涨5%；澳大利亚基准股指攀升2.5%，印度Nifty 50指数上涨1.8%。国际油价则持续回落，布伦特原油在周三暴",
+     "source": "华尔街见闻",
+     "zh": "美国中选“输赢已定”：AI硬件重挫，光通信美股盘前普跌，高通跌超9%，黄金突破4100美元"
+    },
+    {
+     "title": "Power Integrations targets doubling SAM by 2031 as it guides Q4 revenue to $118M-$126M",
+     "link": "https://seekingalpha.com/news/4666305-power-integrations-targets-doubling-sam-by-2031-as-it-guides-q4-revenue-to-118m-126m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 04:05:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Power Integrations targets doubling SAM by 2031 as it guides Q4 revenue to $118M-$126M"
+    },
+    {
      "title": "Matson expects Q4 2026 operating income about 50% higher amid elevated China freight rates into early 2027",
      "link": "https://seekingalpha.com/news/4666296-matson-expects-q4-2026-operating-income-about-50-percent-higher-amid-elevated-china-freight?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 05 Nov 2026 03:55:48 -0500",
@@ -2280,46 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Macerich expects to close an off-market acquisition by year-end with a 9% to 11% stabilized yield"
-    },
-    {
-     "title": "华虹宏力：第三季度净利润同比增长136% Q3净利润环比增长364%",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923546439.html",
-     "pubDate": "Thu, 05 Nov 2026 16:41:34 +0800",
-     "summary": "华虹宏力 (688347.SH)公告称，前三季度实现营业收入186.11亿元，同比增长14.06%；归属于上市公司股东的净利润16.03亿元，同比增长138.23%。第三季度实现营业收入67.06亿元，同比增长13.95%；归属于上市公司股东的净利润8.35亿元，同比增长136.14%。业绩变动主要系晶圆平均销售单价提升及晶圆销售数量上升使得毛利大幅上升所致。 注：公司Q3净利润12.04亿，Q2净利润2.59亿，据此计算，Q3净利润环比增长364%。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "华虹宏力：第三季度净利润同比增长136% Q3净利润环比增长364%"
-    },
-    {
-     "title": "United Microelectronics October revenue rises 18.3% Y/Y",
-     "link": "https://seekingalpha.com/news/4666249-united-microelectronics-october-revenue-rises-183-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:38:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "United Microelectronics October revenue rises 18.3% Y/Y"
-    },
-    {
-     "title": "机构调研丨光伏概念+新材料 这家公司20cm两连板 铜浆产品已在多个光伏电池客户端完成可靠性验证",
-     "link": "http://finance.eastmoney.com/news/11822,202611053923541853.html",
-     "pubDate": "Thu, 05 Nov 2026 16:34:45 +0800",
-     "summary": "11月5日，多家上市公司发布投资者关系活动记录表公告，披露各自与机构之间的业务交流内容，其中透露出公司业务布局的诸多进展与亮点。 贝特利 ：公司已与部分 电子 皮肤领域的企业开展业务接触与交流 贝特利 昨日接受华创证券、 中金公司 、 国泰海通 、巨创基金等多家机构调研。 公司在交流中直言，光伏行业目前仍处于产能出清阶段，行业拐点时间存在较大不确定性，仍需观察产能出清、政策环境及海外贸易环境等变化情况。 当前行业大背景叠加银价波动， 贝特利 表示，公司光伏银粉业务以风险控制为主，不采取激进的策略抢占规模；针对光伏银 铜 浆料、 空气氛纯 铜 浆料 业务，将积极配合下游客户推进少银化、去银化等技",
-     "source": "东方财富资讯",
-     "zh": "机构调研丨光伏概念+新材料 这家公司20cm两连板 铜浆产品已在多个光伏电池客户端完成可靠性验证"
-    },
-    {
-     "title": "Clene GAAP EPS of $0.05 beats by $0.48, revenue of $0.06M misses by $0.01M",
-     "link": "https://seekingalpha.com/news/4666258-clene-gaap-eps-of-005-beats-by-048-revenue-of-006m-misses-by-001m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:33:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Clene GAAP EPS of $0.05 beats by $0.48, revenue of $0.06M misses by $0.01M"
-    },
-    {
-     "title": "AI芯片红利持续爆发！韩国9月经常账户盈余飙至历史新高",
-     "link": "http://finance.eastmoney.com/news/1352,202611053923542519.html",
-     "pubDate": "Thu, 05 Nov 2026 16:32:54 +0800",
-     "summary": "受全球 人工智能 （AI）投资热潮持续拉动韩国科技产品需求， 半导体 出口强劲推动， 韩国9月经常账户盈余飙升至 历史新高 。 这是韩国 AI芯片 红利持续爆发的最新例证。上周公布的数据显示，随着芯片制造商盈利改善推动企业税收增加，韩国9月税收收入较去年同期激增26.4万亿韩元（约合196亿美元）。 根据韩国央行（BOK）周四发布的数据， 韩国9月经常账户盈余从8月的461亿美元扩大至615亿美元 。这一数字超过了6月创下的497亿美元的前纪录，标志着月度盈余首次突破600亿美元。 商品贸易方面，韩国9月顺差达到创纪录的628亿美元，超过了6月479亿美元的前峰值。 出口额较去年同期激增92.",
-     "source": "东方财富资讯",
-     "zh": "AI芯片红利持续爆发！韩国9月经常账户盈余飙至历史新高"
     },
     {
      "title": "汉晋四百年里的士族与朋党",
@@ -2360,38 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "“公建配套的建设费用，是房企测算土地成本时必须考虑的支出。”一位国有房企区域负责人告诉经济观察报，这部分成本会摊薄项目利润。",
      "source": "经济观察网",
      "zh": "部分公建配套费不再由开发商承担"
-    },
-    {
-     "title": "Defense giant Rheinmetall plunges 16% after cutting outlook on stalled military contracts",
-     "link": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
-     "pubDate": "Thu, 05 Nov 2026 08:10:55 GMT",
-     "summary": "Rheinmetall cut its 2026 outlook for the second time in three months, citing delays to German military projects and artillery ammunition deliveries.",
-     "source": "CNBC",
-     "zh": "Defense giant Rheinmetall plunges 16% after cutting outlook on stalled military contracts"
-    },
-    {
-     "title": "11月5日港股收盘：恒指涨3.67% 恒生科技指数涨5.55%",
-     "link": "http://stock.eastmoney.com/news/11770,202611053923512836.html",
-     "pubDate": "Thu, 05 Nov 2026 16:10:09 +0800",
-     "summary": "港股11月5日收盘走高，恒生指数收报24796.98点，涨877.48点，涨幅3.67%；恒生科技指数收报4154.29点，涨218.27点，涨幅5.55%。恒生指数成分股中 中国生物制药 、 网易 、 理想汽车 -W涨幅居前， 联想集团 、 潍柴动力 、 中国石油股份 跌幅靠前。恒生科技指数成分股中 天数智芯 、 网易 、 理想汽车 -W涨幅居前， 联想集团 、 华虹宏力 、 智谱 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定",
-     "source": "东方财富资讯",
-     "zh": "11月5日港股收盘：恒指涨3.67% 恒生科技指数涨5.55%"
-    },
-    {
-     "title": "宽基ETF继续放量！本轮股票型ETF净流入近6000亿元",
-     "link": "http://finance.eastmoney.com/news/1345,202611053923514965.html",
-     "pubDate": "Thu, 05 Nov 2026 16:08:18 +0800",
-     "summary": "11月5日，多只 半导体 设备主题ETF涨幅超过9%。与此同时，宽基ETF成交量维持高位。其中，科创50ETF华夏成交189亿元，创业板ETF易方达成交164亿元。 从资金流向看，9月28日以来，截至11月4日，股票型ETF净流入近6000亿元，其中多只宽基ETF“吸金”超500亿元。 宽基ETF继续放量 11月5日，宽基ETF整体成交活跃。截至收盘，科创50ETF华夏成交189亿元，从盘中走势看，今天上午开盘一小时，成交额就破百亿元。 创业板ETF易方达关注度也较高，截至收盘，该ETF成交164亿元。值得注意的是，创业板ETF易方达昨天全天成交202亿元，创下该ETF上市以来第三高成交额。 ",
-     "source": "东方财富资讯",
-     "zh": "宽基ETF继续放量！本轮股票型ETF净流入近6000亿元"
-    },
-    {
-     "title": "培育钻石年内再度提价 散热业务仍待放量",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923512675.html",
-     "pubDate": "Thu, 05 Nov 2026 16:06:39 +0800",
-     "summary": "继2026年3月多家厂商集中调价后， 培育钻石 毛坯年内再度迎来提价。日前财联社记者从 黄河旋风 （600172.SH）处获悉，自11月1日起，大单晶产品( 培育钻石 毛坯)在原有价格基础上上调10%。 2026 年被业内称为 “金刚石散热元年”，除传统工业金刚石和 培育钻石 业务外，市场对相关上市公司散热业务的预期更高。不过，财联社记者多方采访获悉，本轮涨价背后，既有下游需求回暖的支撑，也有人民币兑美元升值带来的成本压力，而真正上调价格的仍是培育钻石这一 “基本盘” 业务，散热板块则仍处于小批量出货阶段，大规模应用尚需时日。 培育钻石年内二轮提价落地 昨日，财联社记者从 黄河旋风 处获悉， ",
-     "source": "东方财富资讯",
-     "zh": "培育钻石年内再度提价 散热业务仍待放量"
     },
     {
      "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
@@ -2442,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "What the Democratic midterms sweep changes for U.S.-China relations"
     },
     {
-     "title": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Thu, 05 Nov 2026 14:27:23 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”"
-    },
-    {
      "title": "Russia, China may be more aggressive if they feel Trump is on &apos;his way out&apos;: Brookings",
      "link": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
      "pubDate": "Thu, 05 Nov 2026 05:58:33 GMT",
@@ -2466,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "精测电子实控人、董事长彭骞提议1亿至2亿元回购公司股份"
     },
     {
-     "title": "鲲鹏支付大面积交易未到账 全国多地用户前往重庆总部追讨",
-     "link": "http://www.eeo.com.cn/2026/1105/1084863.shtml",
-     "pubDate": "Thu, 05 Nov 2026 13:44:00 +0800",
-     "summary": "2026年11月4日，来自全国多地用户，前往位于重庆市两江新区中瑞产业园的重庆鲲鹏支付服务有限公司（下称“鲲鹏支付”）总部，追讨交易成功但未到账的钱款。",
-     "source": "经济观察网",
-     "zh": "鲲鹏支付大面积交易未到账 全国多地用户前往重庆总部追讨"
-    },
-    {
      "title": "Democrats look to reshape America after historic midterm victories",
      "link": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
      "pubDate": "Thu, 05 Nov 2026 05:00:25 GMT",
@@ -2488,6 +2432,62 @@ window.INDUSTRY_DATA = {
      "summary": "Astonishing midterm election results will not repeal the turn of business and financial cycles",
      "source": "Financial Times",
      "zh": "Morning in America, twilight in the markets"
+    },
+    {
+     "title": "The next US presidential race has begun",
+     "link": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1",
+     "pubDate": "Thu, 05 Nov 2026 05:00:07 GMT",
+     "summary": "The Republicans and Democrats positioning themselves for a run at the Oval Office in 2028",
+     "source": "Financial Times",
+     "zh": "The next US presidential race has begun"
+    },
+    {
+     "title": "Republicans paid the price for Trump’s failed policies — they must rethink",
+     "link": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
+     "pubDate": "Thu, 05 Nov 2026 05:00:07 GMT",
+     "summary": "The president promised — but did not deliver — more manufacturing jobs and higher employment rates for native-born Americans",
+     "source": "Financial Times",
+     "zh": "Republicans paid the price for Trump’s failed policies — they must rethink"
+    },
+    {
+     "title": "Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited",
+     "link": "https://www.finextra.com/newsarticle/48708/capgemini-multi-agent-ai-moves-into-banking-and-insurance-but-orchestration-remains-limited?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 05 Nov 2026 05:00:00 GMT",
+     "summary": "Financial institutions are struggling to scale multi-agent AI beyond pilot projects, with just 10% of banks and insurers having achieved enterprise-wide orchestration despite 59% piloting or deploying the technology, according to Capgemini research.",
+     "source": "Finextra",
+     "zh": "Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited"
+    },
+    {
+     "title": "US midterm results herald upheaval in Middle East policy",
+     "link": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1",
+     "pubDate": "Thu, 05 Nov 2026 01:33:29 GMT",
+     "summary": "American voters — including vice-president JD Vance — want an end to Trump’s Iran war and Washington’s proximity to Israel",
+     "source": "Financial Times",
+     "zh": "US midterm results herald upheaval in Middle East policy"
+    },
+    {
+     "title": "Qualcomm’s stock falls as twin forces pressure sales",
+     "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+     "pubDate": "Thu, 05 Nov 2026 01:06:00 GMT",
+     "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
+     "source": "MarketWatch",
+     "zh": "Qualcomm’s stock falls as twin forces pressure sales"
+    },
+    {
+     "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+     "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+     "pubDate": "Thu, 05 Nov 2026 01:05:00 GMT",
+     "summary": "AppLovin’s stock is popping after “clearly positive” earnings results.",
+     "source": "MarketWatch",
+     "zh": "This year’s worst-performing S&P 500 stock is finally seeing some major relief"
+    },
+    {
+     "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+     "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+     "pubDate": "Thu, 05 Nov 2026 01:03:00 GMT",
+     "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
+     "source": "MarketWatch",
+     "zh": "Figma’s stock dips as investors worry that AI momentum is coming at a high price"
     }
    ]
   },

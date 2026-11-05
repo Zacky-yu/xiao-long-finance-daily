@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/5 12:11:50",
+ "generated_at": "2026/11/5 12:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "刚刚，Claude Code产品一姐加入OpenAI！",
+     "link": "https://zhidx.com/p/607599.html",
+     "pubDate": "Thu, 05 Nov 2026 12:05:50 +0800",
+     "summary": "智东西 作者 | 王涵 编辑 | 云鹏 智东西11月5日报道，刚刚， Claude Code和Cowork的核心产品负责人Cat Wu（Catherine Wu）宣布将加入OpenAI ，负责领导核心产品的管理工作。 “小龙虾之父”即OpenClaw的创始人Peter Steinberger，与OpenAI o系列模型的开发者Noam Brown在评论区送上祝福。 昨天，Cat Wu在X上发文称周五将是其在Anthropic的最后一天。有人在其评论区问：“你现在打那休那6个月的假吗？”Cat Wu回答道：“post agi！（在AGI之后）”现在看来，这句话妥妥是个伏笔。 Cat Wu是技术出",
+     "source": "智东西",
+     "zh": "刚刚，Claude Code产品一姐加入OpenAI！"
+    },
     {
      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
      "link": "https://www.qbitai.com/2026/11/507696.html",
@@ -239,14 +247,6 @@
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月4日报道，今日，2026世界互联网大会乌镇峰会浙江分论坛举行。会上，网易智企副总经理段毓铮发表《智能体：让美好发生在每一个现场》主题演讲，发布网易智企企业级AI Agent平台“帝王蟹”的三项升级：首发硬件产品智能工牌、推出知识引擎“万典”与Agent Team两项新能力。 三项升级分别聚焦现场信息接入、企业知识理解与复杂任务协作，进一步串联AI进入真实业务所需要的信息、知识与执行环节。 ▲网易智企副总经理段毓铮 段毓铮谈道，企业对AI的关注正在从“模型有多强”“用什么Agent”，逐渐转向“AI能不能真正进入业务、持续创造价值”，这意味",
      "source": "智东西",
      "zh": "网易智企帝王蟹乌镇升级，推出Agent Team、知识引擎“万典”，首发智能工牌"
-    },
-    {
-     "title": "17秒验明AI“真身”！Anthropic开源可证明推理系统，能抓模型调包",
-     "link": "https://zhidx.com/p/607361.html",
-     "pubDate": "Wed, 04 Nov 2026 17:53:45 +0800",
-     "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月4日消息，今天凌晨，Anthropic 开源大模型可证明推理系统FlashProve，详细技术报告于11月2日发布 。服务商可通过该系统为模型回答生成密码学证明，用户无需获取模型权重或自行运行大模型，就能在CPU上核验输出是否符合指定模型的计算结果。 模型调用API的机制类似黑箱，发送提示词后，用户仅能查看生成的Token，但无法验证为自己提供服务的是否为所选模型。此次开源的FlashProve旨在解决这一问题， 上可抓“模型掉包”，下可验“回答篡改” ，还可为监管机构提供监测服务商和企业AI使用合规性的渠道 。 该模型一经发出，X上的外网",
-     "source": "智东西",
-     "zh": "17秒验明AI“真身”！Anthropic开源可证明推理系统，能抓模型调包"
     }
    ]
   },
@@ -305,6 +305,14 @@
      "zh": "Ukraine's top unmanned fleet developer looks to Taiwan for critical components"
     },
     {
+     "title": "Apple’s harvest",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/apples-harvest-2026-11/",
+     "pubDate": "Thu, 05 Nov 2026 01:10:05 +0000",
+     "summary": "On Monday, Apple reported Q4 results with sales of $114.5 billion bringing the annual total to $478.8 billion – a 15% jump YoY. Annual profit was $132 billion, which was […] The post Apple’s harvest appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Apple’s harvest"
+    },
+    {
      "title": "Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evolution of AI Model",
      "link": "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/",
      "pubDate": "Wed, 04 Nov 2026 20:30:12 +0000",
@@ -353,12 +361,28 @@
      "zh": "Generating Chip Subsystems Automatically: A New Answer to Manage Chip Design Complexity"
     },
     {
+     "title": "Sony IMX742 1mm square image sensor serves single-use endoscopes",
+     "link": "https://www.electronicsweekly.com/news/products/sensors-products/sony-imx742-1mm-square-image-sensor-serves-single-use-endoscopes-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 17:27:47 +0000",
+     "summary": "Sony has announced its IMX742, a CMOS image sensor for single-use endoscopes. The company highlights it as the industry’s first to support digital output and data transmission through a 5m […] The post Sony IMX742 1mm square image sensor serves single-use endoscopes appeared first on Electronics Wee",
+     "source": "Electronics Weekly",
+     "zh": "Sony IMX742 1mm square image sensor serves single-use endoscopes"
+    },
+    {
      "title": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors",
      "link": "https://www.eetimes.com/ablics-small-smart-and-simple-strategy-for-high-value-analog-semicondutors/",
      "pubDate": "Wed, 04 Nov 2026 17:00:00 +0000",
      "summary": "ABLIC’s Satoshi Hanazawa discusses its low-power analog semiconductor strategy, target markets, product innovation and development approach. The post ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors appeared first on EE Times .",
      "source": "EE Times",
      "zh": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors"
+    },
+    {
+     "title": "Samtec VITA 90 VNX+ for RF backplane, optical, and power connectivity",
+     "link": "https://www.electronicsweekly.com/news/products/connectors/samtec-vita-90-vnx-for-rf-backplane-optical-and-power-connectivity-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 16:01:22 +0000",
+     "summary": "Mouser Electronics is stocking Samtec’s VITA 90 VNX+, which combines RF backplane, optical, and power connectivity. It is for harsh or space‑constrained applications. The interconnect product family supports small-form-factor, modular, […] The post Samtec VITA 90 VNX+ for RF backplane, optical, and ",
+     "source": "Electronics Weekly",
+     "zh": "Samtec VITA 90 VNX+ for RF backplane, optical, and power connectivity"
     },
     {
      "title": "Reimagining 3D IC Design: From Architecture to Signoff",
@@ -401,12 +425,36 @@
      "zh": "Guerrilla RF appoints Lauren Winslow as executive VP, sales"
     },
     {
+     "title": "AI’s Legacy",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/ais-legacy-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 12:30:20 +0000",
+     "summary": "It is often said that war is the greatest accelerator of technology because governments will invest any money in weapons development to get a jump on their enemy, but this […] The post AI’s Legacy appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "AI’s Legacy"
+    },
+    {
+     "title": "Aircraft demand higher-voltage power",
+     "link": "https://www.electronicsweekly.com/news/business/aircraft-demand-higher-voltage-power-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 12:00:37 +0000",
+     "summary": "Developed by Airbus, Daher and Safran, the EcoPulse hybrid-electric demonstrator used an 800VDC system delivering up to 350kW to support six wing-mounted electric propellers (source: Airbus) Silicon carbide power electronics, […] The post Aircraft demand higher-voltage power appeared first on Electr",
+     "source": "Electronics Weekly",
+     "zh": "Aircraft demand higher-voltage power"
+    },
+    {
      "title": "CSconnected sponsors event in Cardiff focusing on semiconductor startups",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/csconnected-041126.shtml",
      "pubDate": "Wed, 4 Nov 2026 11:41:45 GMT",
      "summary": "CSconnected Ltd, the not-for-profit organization driving the world’s first compound semiconductor cluster in South Wales, sponsored Silicon Catalyst’s ‘Forming, Storming, Norming & Performing for Semiconductor Startups’ event at Cardiff University on 28 October, as it sets out South Wales as the pla",
      "source": "Semiconductor Today",
      "zh": "CSconnected sponsors event in Cardiff focusing on semiconductor startups"
+    },
+    {
+     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 10:48:02 +0000",
+     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
     },
     {
      "title": "Marvell’s acquisition of Lumentum could challenge Broadcom’s market leadership, says TrendForce",
@@ -447,46 +495,6 @@
      "summary": "Why automotive-grade PQC IP matters, what sets it apart from general-purpose PQC, and what SoC design teams should look for when choosing a PQC accelerator. The post Built to Last: Why Automotive-Grade PQC Can’t Wait appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Built to Last: Why Automotive-Grade PQC Can’t Wait"
-    },
-    {
-     "title": "Validate Sovereign AI Sites Before You Commit Capital: eBook",
-     "link": "https://semiengineering.com/validate-sovereign-ai-sites-before-you-commit-capital-ebook/",
-     "pubDate": "Wed, 04 Nov 2026 08:03:39 +0000",
-     "summary": "How to validate sites before commitment, protect capacity after deployment, and plan for long-term performance. The post Validate Sovereign AI Sites Before You Commit Capital: eBook appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Validate Sovereign AI Sites Before You Commit Capital: eBook"
-    },
-    {
-     "title": "3D-IC Signal Integrity: From Silicon Interposers To System Signoff",
-     "link": "https://semiengineering.com/3d-ic-signal-integrity-from-silicon-interposers-to-system-signoff/",
-     "pubDate": "Wed, 04 Nov 2026 08:02:20 +0000",
-     "summary": "A unified, system-level environment that aggregates several proven technologies into a seamless workflow spanning architecture exploration, electromagnetic extraction, channel simulation, protocol compliance verification, and final system-level signoff. The post 3D-IC Signal Integrity: From Silicon ",
-     "source": "Semiconductor Engineering",
-     "zh": "3D-IC Signal Integrity: From Silicon Interposers To System Signoff"
-    },
-    {
-     "title": "Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing",
-     "link": "https://semiengineering.com/beyond-the-chip-how-ai-is-reshaping-semiconductor-design-and-manufacturing/",
-     "pubDate": "Wed, 04 Nov 2026 08:01:58 +0000",
-     "summary": "Power delivery, connectivity, advanced packaging, and supply chain resilience are emerging as the primary constraints on AI scaling. The post Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing"
-    },
-    {
-     "title": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?",
-     "link": "https://www.eetimes.com/is-there-room-for-small-scale-osats-in-india-chip-packaging-boom/",
-     "pubDate": "Tue, 03 Nov 2026 23:30:00 +0000",
-     "summary": "Small OSATs in India can start with ₹1.5–₹2 billion (~$15.8–$21 million), consultant Nitin Dodia said. But anchor customers, skilled staff, and qualification determine who survives. The post Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom? appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?"
-    },
-    {
-     "title": "Bosch to form dedicated semiconductor division, targeting growth in new markets",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bosch-031126.shtml",
-     "pubDate": "Tue, 3 Nov 2026 20:55:55 GMT",
-     "summary": "Aiming to generate €5bn in semiconductor sales by 2030, as part of reorganizing its corporate structure and the evolution of Bosch Mobility (announced at the end of October), on 1 January 2028 Germany-based tier-1 automotive supplier Bosch will transfer its semiconductor operations (currently part o",
-     "source": "Semiconductor Today",
-     "zh": "Bosch to form dedicated semiconductor division, targeting growth in new markets"
     }
    ]
   },
@@ -641,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Xpeng begins Mona L05 deliveries, targets 10,000 units in first month",
+     "link": "https://cnevpost.com/2026/11/05/xpeng-begins-mona-l05-deliveries-targets-10000-1st-month/",
+     "pubDate": "Thu, 05 Nov 2026 04:19:10 +0000",
+     "summary": "Xpeng said the Mona L05 is built on a dedicated production line, and its production and deliveries will not affect models such as the Mona L03. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Xpeng begins Mona L05 deliveries, targets 10,000 units in first month"
+    },
+    {
      "title": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades",
      "link": "https://cnevpost.com/2026/11/05/zeekr-starts-pre-sales-2027-7x/",
      "pubDate": "Thu, 05 Nov 2026 02:34:18 +0000",
@@ -783,14 +799,6 @@
      "summary": "With a parameter scale of about 4 billion, GroundingPI beat OpenAI's GPT-6 Astra in a comprehensive evaluation across 34 public perception benchmarks. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Xpeng unveils GroundingPI pre-trained model, outperforming GPT-6 Astra in perception benchmarks"
-    },
-    {
-     "title": "Nio to hold Nio IN 2026 tech day on November 25 in Guangzhou with focus on AI",
-     "link": "https://cnevpost.com/2026/11/04/nio-to-hold-nio-in-2026-tech-day-nov-25-guangzhou/",
-     "pubDate": "Wed, 04 Nov 2026 09:22:53 +0000",
-     "summary": "Nio will share its insights on building an AI-native organization, and unveil new AI-powered cockpit and assisted driving products. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Nio to hold Nio IN 2026 tech day on November 25 in Guangzhou with focus on AI"
     },
     {
      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
@@ -937,12 +945,12 @@
      "zh": "‘Every solar plant can be a data center’"
     },
     {
-     "title": "Trump ban on foreign grid components sparks industry concern over cost, practicality",
+     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
      "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
      "pubDate": "Wed, 04 Nov 2026 11:41:26 -0500",
-     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
+     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
-     "zh": "Trump ban on foreign grid components sparks industry concern over cost, practicality"
+     "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
     },
     {
      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
@@ -1737,6 +1745,78 @@
    "total": 18,
    "items": [
     {
+     "title": "索尼 Xperia 10 VIII/10 VII 手机推送 Android 17 更新，无缘安卓 iOS 文件互传功能",
+     "link": "https://www.ithome.com/1/022/664.htm",
+     "pubDate": "Thu, 05 Nov 2026 04:27:42 GMT",
+     "summary": "IT之家 11 月 5 日消息，科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称索尼已面向 Xperia 10 VIII 与 Xperia 10 VII 推送安卓 17 更新， 但上述两款手机无法完整体验安卓 17 的全部新功能。 IT之家附上相关截图如下： 根据官方声明，Xperia 10 VIII 与 Xperia 10 VII 两款手机升级安卓 17 后，在个性化界面上有所升级。本次更新扩展“壁纸和样式”功能，带来新的壁纸与时钟设计，并支持用户自定义图标的形状和样式。 新版改进快速设置面板，用户可调整图块大小与排列方式，较大的图块还能显示简短说明。 ",
+     "source": "IT之家",
+     "zh": "索尼 Xperia 10 VIII/10 VII 手机推送 Android 17 更新，无缘安卓 iOS 文件互传功能"
+    },
+    {
+     "title": "“秦朔的朋友圈”定义不了“字节时间”",
+     "link": "https://www.huxiu.com/article/4903202.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 12:18:41 +0800",
+     "summary": "本文来自微信公众号： 谢璞笔记 ，作者：谢璞 谢璞笔记 复盘“字节时间” 十天论战，41.8%，和一纸诉状 1998年，广州出版社印了一本叫《传播成功学》的书。作者秦朔，30岁，河南开封人，时任《南风窗》总编辑——这家杂志在他手上成了中国影响最大的政经杂志之一。 28年后的2026年11月2日，秦朔委托国浩律师事务所，向上海的法院递交了一份名誉权起诉状。被告叫李亮，抖音集团副总裁，字节跳动的公关一号位。 起诉之前的十天里，李亮在微博上给秦朔用过这些词：“纯属瞎扯”、“胡扯”、“老先生”、“非蠢即坏”。 还有一段绕口令：“我们知道你为啥在胡扯，你也知道自己为啥在胡扯，你知道我们知道你为啥在胡扯，",
+     "source": "虎嗅",
+     "zh": "“秦朔的朋友圈”定义不了“字节时间”"
+    },
+    {
+     "title": "长城汽车的墙",
+     "link": "https://www.tmtpost.com/8194437.html",
+     "pubDate": "Thu, 05 Nov 2026 12:15:21 +0800",
+     "summary": "守得住一寸痴，是匠心；守成一堵墙，是心障",
+     "source": "钛媒体",
+     "zh": "长城汽车的墙"
+    },
+    {
+     "title": "中国人造出了那台“造AI的光刻机”吗？",
+     "link": "https://www.tmtpost.com/8193959.html",
+     "pubDate": "Thu, 05 Nov 2026 12:15:19 +0800",
+     "summary": "面壁RSI:AI自研算子，重塑算 力底层。",
+     "source": "钛媒体",
+     "zh": "中国人造出了那台“造AI的光刻机”吗？"
+    },
+    {
+     "title": "Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB&apos;s robotics division to go ahead; China is the division&apos;s biggest market (David Keohane/Financial Times)",
+     "link": "https://www.techmeme.com/261104/p65#a261104p65",
+     "pubDate": "Wed, 04 Nov 2026 23:15:02 -0500",
+     "summary": "David Keohane / Financial Times : Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB's robotics division to go ahead; China is the division's biggest market &nbsp; &mdash;&nbsp; Swiss-Swedish company's unit is focused on Chinese market and has mega-factory in Pudong&nbsp",
+     "source": "Techmeme",
+     "zh": "Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB&apos;s robotics division to go ahead; China is the division&apos;s biggest market (David Keohane/Financial Times)"
+    },
+    {
+     "title": "暴力熊 Thermal Grizzly 发布 PhaseSheet PTM Pro：导热更强、安装更省心",
+     "link": "https://www.ithome.com/1/022/625.htm",
+     "pubDate": "Thu, 05 Nov 2026 04:14:24 GMT",
+     "summary": "IT之家 11 月 5 日消息，德国散热品牌 Thermal Grizzly（国内俗称暴力熊）宣布推出新一代相变导热垫 PhaseSheet PTM Pro， 在保持相变导热垫易用特性的同时，提升了导热性能，并重点改进了载体膜结构，让装机过程更顺手。 IT之家注：相变导热垫是一种介于传统导热硅脂和普通导热垫之间的散热界面材料。它在常温下是柔软的固体片材，方便直接贴在 CPU / GPU 表面；当芯片运行升温后，材料会“相变”软化，更好地填满芯片顶盖与散热器之间的细微空隙，从而降低热阻、提升散热效率。相比涂抹硅脂，它更适合追求整洁、可重复安装和低失误率的 DIY 用户。 PhaseSheet P",
+     "source": "IT之家",
+     "zh": "暴力熊 Thermal Grizzly 发布 PhaseSheet PTM Pro：导热更强、安装更省心"
+    },
+    {
+     "title": "抢先《燕云十六声》，网易《永劫无间》正式支持英伟达 DLSS 5 技术成为首款实装的国产游戏",
+     "link": "https://www.ithome.com/1/022/614.htm",
+     "pubDate": "Thu, 05 Nov 2026 04:11:28 GMT",
+     "summary": "IT之家 11 月 5 日消息，在没有任何预告的情况下，网易《永劫无间》官方刚刚宣布已正式支持英伟达 DLSS 5 技术及神经渲染（Neural Rendering）技术，早于《燕云十六声》的 11 月 24 日，并同步支持最高 6 倍插帧，成为真正的全球首批支持该技术的游戏。 网易官方表示，DLSS 5 通过 AI 模型参与画面重建，在纹理细节、皮肤次表面散射、接触阴影与头发渲染等方面带来更精细的表现。 《永劫无间》服务器原计划于 11 月 5 日早 7:00-12:00 进行停服维护，但截至IT之家发稿仍未开服。 据官方介绍，开启 DLSS 5 后，《永劫无间》聚窟洲、蓬莱岛等场景中远景建",
+     "source": "IT之家",
+     "zh": "抢先《燕云十六声》，网易《永劫无间》正式支持英伟达 DLSS 5 技术成为首款实装的国产游戏"
+    },
+    {
+     "title": "Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M (Valida Pau/The Information)",
+     "link": "https://www.techmeme.com/261104/p64#a261104p64",
+     "pubDate": "Wed, 04 Nov 2026 23:10:03 -0500",
+     "summary": "Valida Pau / The Information : Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M &nbsp; &mdash;&nbsp; Palo Alto Networks is in talks to buy three-year-old Israeli security startup Clutch Se",
+     "source": "Techmeme",
+     "zh": "Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M (Valida Pau/The Information)"
+    },
+    {
+     "title": "两位中国人将登上月球，中国载人登月方案细节亮相",
+     "link": "https://www.huxiu.com/article/4903200.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 12:09:34 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：流浪星辰，编辑：吴欧，原文标题：《两位中国人将登上月球！中国载人登月方案细节亮相》 10月31日，第七届载人航天学术大会上，中国2030年就要干成的一件大事公布了细节。 中国载人航天工程副总设计师兼月球探测工程总设计师王翔，首次介绍了我国载人月球探测任务乘组计划。 简单来说：两枚长征十号先后发射，揽月着陆器先上去，在环月轨道“等着”；梦舟飞船带着三位航天员随后出发；然后着陆器与飞船在环月轨道上对接，两位航天员换乘着陆器落月；完成任务后，从月面起飞，与飞船对接回家。 听懂了，就是先这样，再这样，网友一总结：“两次发射，环月对接；三人上去，两人着陆。”好简单的一",
+     "source": "虎嗅",
+     "zh": "两位中国人将登上月球，中国载人登月方案细节亮相"
+    },
+    {
      "title": "CPU 格局将迎分水岭：AMD 有望史上首次单季营收超越英特尔",
      "link": "https://www.ithome.com/1/022/607.htm",
      "pubDate": "Thu, 05 Nov 2026 03:57:39 GMT",
@@ -1793,52 +1873,12 @@
      "zh": "延安大学的白老师，倒在“横向科研经费”指标之下？"
     },
     {
-     "title": "前 Anthropic Claude Code 产品负责人 Cat Wu 跳槽加入 OpenAI，负责核心产品管理",
-     "link": "https://www.ithome.com/1/022/604.htm",
-     "pubDate": "Thu, 05 Nov 2026 03:45:01 GMT",
-     "summary": "IT之家 11 月 5 日消息，前 Anthropic Claude Code 产品负责人 Cat Wu 今日宣布加入 OpenAI，担任核心产品（Core Products）产品管理负责人。 她将参与 OpenAI 核心产品及智能体相关工作，与企业产品负责人 Nick Turley、消费级产品负责人 Ashley Alexander 等人协作，并向 Tibo Sottiaux 汇报。OpenAI 总裁 Greg Brockman 随后也在 X 上转发她的入职消息并表示欢迎。 公开报道显示，她此前曾主导 Claude Code 的产品规划与商业化发展，帮助这款最初仅供 Anthropic 内部",
-     "source": "IT之家",
-     "zh": "前 Anthropic Claude Code 产品负责人 Cat Wu 跳槽加入 OpenAI，负责核心产品管理"
-    },
-    {
-     "title": "AI 帮用户“越狱”跑步机：Claude 干掉了 iFIT 订阅墙",
-     "link": "https://www.ithome.com/1/022/603.htm",
-     "pubDate": "Thu, 05 Nov 2026 03:43:32 GMT",
-     "summary": "IT之家 11 月 5 日消息，网友 u/Beloved_Misanthrope 于 11 月 2 日在 Reddit 社区发帖，称其借助 AI 编程工具 Claude Code，成功越狱 NordicTrack Commercial 2250 跑步机， 绕开了设备对 iFIT 订阅的强制要求，成功将跑步机的大屏幕改造成可自由使用的流媒体界面。 IT之家援引博文介绍，本次 AI 越狱过程在约一天半内完成，相关项目已公开至 GitHub。该网友称其女友几年前购买了这台配备 10 英寸尺寸显示屏的 NordicTrack 跑步机，原本希望在运动时观看 Netflix 或 Crunchyroll。 ",
-     "source": "IT之家",
-     "zh": "AI 帮用户“越狱”跑步机：Claude 干掉了 iFIT 订阅墙"
-    },
-    {
      "title": "门店即将破2万家，百胜中国三季度收入超35亿美元",
      "link": "https://www.tmtpost.com/8194100.html",
      "pubDate": "Thu, 05 Nov 2026 11:42:21 +0800",
      "summary": "下沉市场仍然是增量。",
      "source": "钛媒体",
      "zh": "门店即将破2万家，百胜中国三季度收入超35亿美元"
-    },
-    {
-     "title": "政策出手，股市还有一关",
-     "link": "https://www.huxiu.com/article/4903182.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 11:41:46 +0800",
-     "summary": "出品 | 妙投APP 作者 | 张博 编辑 | 丁萍&nbsp; 头图 | 视觉中国 行情低迷的时候，投资者总盼着有个转折点。可能是一次重要会议，也可能是一轮政策集中出台。大家希望从这一天开始，市场信心能够恢复，资金重新入场，持续下跌的行情也能有所改观。 2026年11月2日，似乎具备了这样的意味。 这段时间，围绕资本市场的政策信号接连释放。证券、基金、保险公司互换便利迎来新一轮操作，股票回购增持再贷款逐步转向长期制度安排，上市公司回购规则酝酿进一步完善，融资融券也保留着逆周期调节的空间。与此同时，主动ETF的推出，又为权益市场增加了一种新的投资工具。 这次出台的政策不少，涉及的资金规模也很大",
-     "source": "虎嗅",
-     "zh": "政策出手，股市还有一关"
-    },
-    {
-     "title": "当进口光环祛魅，“洋品牌”怎样继续抓住中国消费者？",
-     "link": "https://www.huxiu.com/article/4903188.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 11:41:44 +0800",
-     "summary": "本文来自微信公众号： 复旦管院 ，编辑：徐玉茹，责编：仲蕊，作者：殷云露，原文标题：《当进口光环祛魅，“洋品牌”怎样继续抓住中国消费者？| 视界·进博观察》 2026年中国国际进口博览会如约启幕，“四叶草”再度成为全球品牌对接中国市场的重要窗口。大批国际企业带着全球新品、前沿方案奔赴而来，希望叩开中国消费者的心扉。但如今的中国市场早已不是“海外光环即可赢得溢价”的时代，本土品牌快速崛起，中国消费者的可选项变得空前丰富，评判品牌的标尺也变得更加务实。 当国货已经成为强有力的备选，外资品牌靠什么打动今天的中国消费者？本期“视界”，复旦管院市场营销学系殷云露副教授将从消费者真实决策逻辑出发，分析国际",
-     "source": "虎嗅",
-     "zh": "当进口光环祛魅，“洋品牌”怎样继续抓住中国消费者？"
-    },
-    {
-     "title": "Omdia 数据：全球平板电脑出货量 2026Q3 同比萎缩 23%，创近三年新低",
-     "link": "https://www.ithome.com/1/022/587.htm",
-     "pubDate": "Thu, 05 Nov 2026 03:34:40 GMT",
-     "summary": "IT之家 11 月 5 日消息，Omdia 英国当地时间今日报告称，全球平板电脑出货量在 2026 年第 3 季度下滑至 3,200 万台， 创下近三年来的单季新低 ，同比则大幅萎缩 23%。其中，中东、中国、西欧市场受到的冲击最为严重。 ▲ 图源：Omdia Omdia 研究经理 Himani Mukka 表示： 继上季度下滑 10% 之后，平板电脑市场在第三季度再次出现两位数萎缩。随着供应限制加剧，平板电脑在厂商 2026 年和 2027 年的战略重点中地位日益下降。预计明年供应状况将进一步收紧， 平板电脑市场在 2028 年之前不太可能出现实质性复苏 。 ▲ 图源：Omdia 值得注意的",
-     "source": "IT之家",
-     "zh": "Omdia 数据：全球平板电脑出货量 2026Q3 同比萎缩 23%，创近三年新低"
     },
     {
      "title": "Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents (Cristian Dina/The Next Web)",
@@ -1897,42 +1937,10 @@
      "zh": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)"
     },
     {
-     "title": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX&apos;s ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)",
-     "link": "https://www.techmeme.com/261104/p59#a261104p59",
-     "pubDate": "Wed, 04 Nov 2026 20:10:04 -0500",
-     "summary": "Carmen Arroyo / Bloomberg : Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication &nbsp; &mdash;&nbsp; Goldman Sachs Group Inc. and Apollo Global Management Inc. are in talks with Wall Street in",
-     "source": "Techmeme",
-     "zh": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX&apos;s ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)"
-    },
-    {
-     "title": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)",
-     "link": "https://www.techmeme.com/261104/p58#a261104p58",
-     "pubDate": "Wed, 04 Nov 2026 19:55:01 -0500",
-     "summary": "Mark Stenberg / Adweek : Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content &nbsp; &mdash;&nbsp; The arrangement marks the first time the artificial intelligence firm has paid a digital news pu",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)"
-    },
-    {
-     "title": "Edge AI Daily 早报（11月5日）",
-     "link": "https://www.tmtpost.com/8194179.html",
-     "pubDate": "Thu, 05 Nov 2026 08:36:37 +0800",
-     "summary": "AI资本竞赛步入重定价期：Meta连发美元与欧元债，Anthropic以五类差异化股权结构备战最高2万亿美元估值IPO，市场对资本开支回报率的质疑显性化。",
-     "source": "钛媒体",
-     "zh": "Edge AI Daily 早报（11月5日）"
-    },
-    {
-     "title": "A One-Cent Livestream Does Not Make Office AI a Mass Habit",
-     "link": "https://www.tmtpost.com/8194255.html",
-     "pubDate": "Thu, 05 Nov 2026 08:27:04 +0800",
-     "summary": "Alibaba used a top host and a near-free month card to put Qwen Office in front of a festival audience. The token slogans traveled far. The business test starts when the discount ends.",
-     "source": "钛媒体",
-     "zh": "A One-Cent Livestream Does Not Make Office AI a Mass Habit"
-    },
-    {
      "title": "Starfall – Affordable, routine access to microgravity",
      "link": "https://www.spacex.com/starfall",
      "pubDate": "Thu, 05 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 131 # Comments: 75",
+     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 149 # Comments: 87",
      "source": "Hacker News",
      "zh": "Starfall – Affordable, routine access to microgravity"
     },
@@ -1940,7 +1948,7 @@
      "title": "Images 2.6",
      "link": "https://openai.com/index/introducing-images-2-6/",
      "pubDate": "Wed, 04 Nov 2026 23:35:44 +0000",
-     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 167 # Comments: 111",
+     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 177 # Comments: 118",
      "source": "Hacker News",
      "zh": "Images 2.6"
     },
@@ -1972,7 +1980,7 @@
      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
      "link": "https://icode4.coffee/?p=1746",
      "pubDate": "Wed, 04 Nov 2026 22:01:49 +0000",
-     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 77 # Comments: 4",
+     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 82 # Comments: 4",
      "source": "Hacker News",
      "zh": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements"
     }
@@ -2233,6 +2241,62 @@
    "total": 13,
    "items": [
     {
+     "title": "TpvG expects $25m-$50m quarterly fundings going forward while extending incentive fee waiver through 2027",
+     "link": "https://seekingalpha.com/news/4666163-tpvg-expects-25m-50m-quarterly-fundings-going-forward-while-extending-incentive-fee-waiver?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 23:25:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TpvG expects $25m-$50m quarterly fundings going forward while extending incentive fee waiver through 2027"
+    },
+    {
+     "title": "BillionToOne raises 2026 revenue outlook to $460M-$470M while launching Northstar Clear on December 15",
+     "link": "https://seekingalpha.com/news/4666162-billiontoone-raises-2026-revenue-outlook-to-460m-470m-while-launching-northstar-clear-on?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 23:25:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BillionToOne raises 2026 revenue outlook to $460M-$470M while launching Northstar Clear on December 15"
+    },
+    {
+     "title": "轮胎行业遇成本大考 利润去哪了？",
+     "link": "http://www.eeo.com.cn/2026/1105/1084712.shtml",
+     "pubDate": "Thu, 05 Nov 2026 12:22:12 +0800",
+     "summary": "截至10月31日晚，A股10家轮胎上市公司三季报密集披露完毕。财务数据呈现出显著的结构性特征：前三季度，9家轮胎上市公司营收实现正增长，但在第三季度，利润普遍承压。",
+     "source": "经济观察网",
+     "zh": "轮胎行业遇成本大考 利润去哪了？"
+    },
+    {
+     "title": "AMC expects full-year 2026 free cash flow positive while targeting $200M-$235M net capex",
+     "link": "https://seekingalpha.com/news/4666161-amc-expects-full-year-2026-free-cash-flow-positive-while-targeting-200m-235m-net-capex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 23:17:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AMC expects full-year 2026 free cash flow positive while targeting $200M-$235M net capex"
+    },
+    {
+     "title": "Arcutis outlines $535M-$545M 2026 net revenue guidance while preparing for February 23, 2027 infant AD PDUFA",
+     "link": "https://seekingalpha.com/news/4666160-arcutis-outlines-535m-545m-2026-net-revenue-guidance-while-preparing-for-february-23-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 23:16:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Arcutis outlines $535M-$545M 2026 net revenue guidance while preparing for February 23, 2027 infant AD PDUFA"
+    },
+    {
+     "title": "HubSpot expects Q4 revenue of $945M-$947M amid AI-driven demand headwinds",
+     "link": "https://seekingalpha.com/news/4666159-hubspot-expects-q4-revenue-of-945m-947m-amid-ai-driven-demand-headwinds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 23:16:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HubSpot expects Q4 revenue of $945M-$947M amid AI-driven demand headwinds"
+    },
+    {
+     "title": "Cirrus Logic expects $510M-$570M revenue in fiscal Q3 2027 as it completes INVENTVM acquisition",
+     "link": "https://seekingalpha.com/news/4666158-cirrus-logic-expects-510m-570m-revenue-in-fiscal-q3-2027-as-it-completes-inventvm-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 23:15:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cirrus Logic expects $510M-$570M revenue in fiscal Q3 2027 as it completes INVENTVM acquisition"
+    },
+    {
      "title": "创业板冲高回落涨1%，光伏、电池集体爆发，油气股大跌，恒科指暴涨4%，科网股全线攀升",
      "link": "https://wallstreetcn.com/articles/3785230",
      "pubDate": "Thu, 05 Nov 2026 12:03:03 +0800",
@@ -2257,60 +2321,12 @@
      "zh": "现货黄金日内大涨2% 报4141.22美元/盎司"
     },
     {
-     "title": "PacBio narrows 2026 revenue guidance to $155M-$160M while targeting cash flow breakeven in 2028",
-     "link": "https://seekingalpha.com/news/4666154-pacbio-narrows-2026-revenue-guidance-to-155m-160m-while-targeting-cash-flow-breakeven-in-2028?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:55:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PacBio narrows 2026 revenue guidance to $155M-$160M while targeting cash flow breakeven in 2028"
-    },
-    {
-     "title": "Joby outlines $135M-$140M 2026 revenue plan while targeting TIA in first half of 2027",
-     "link": "https://seekingalpha.com/news/4666153-joby-outlines-135m-140m-2026-revenue-plan-while-targeting-tia-in-first-half-of-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:55:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Joby outlines $135M-$140M 2026 revenue plan while targeting TIA in first half of 2027"
-    },
-    {
      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
      "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
      "pubDate": "Thu, 05 Nov 2026 03:53:18 GMT",
      "summary": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
      "source": "CNBC",
      "zh": "Inside the chip talent war: Trade secrets and rising Chinese rivals"
-    },
-    {
-     "title": "Manulife Financial Corporation NON CUM PF CL1 9 declares $0.3736 dividend",
-     "link": "https://seekingalpha.com/news/4666152-manulife-financial-corporation-non-cum-pf-cl1-9-declares-0_3736-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:52:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Manulife Financial Corporation NON CUM PF CL1 9 declares $0.3736 dividend"
-    },
-    {
-     "title": "Manulife Financial Corporation CV PFD-3 CL1 declares $0.29 dividend",
-     "link": "https://seekingalpha.com/news/4666151-manulife-financial-corporation-cv-pfdminus-3-cl1-declares-0_29-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:52:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Manulife Financial Corporation CV PFD-3 CL1 declares $0.29 dividend"
-    },
-    {
-     "title": "Manulife Financial PFD CL A SER 2 declares $0.2906 dividend",
-     "link": "https://seekingalpha.com/news/4666150-manulife-financial-pfd-cl-a-ser-2-declares-0_2906-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:51:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Manulife Financial PFD CL A SER 2 declares $0.2906 dividend"
-    },
-    {
-     "title": "Manulife Financial PFD CL A SER 3 declares $0.2812 dividend",
-     "link": "https://seekingalpha.com/news/4666149-manulife-financial-pfd-cl-a-ser-3-declares-0_2812-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:51:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Manulife Financial PFD CL A SER 3 declares $0.2812 dividend"
     },
     {
      "title": "从跨境授权向研发协同延伸 中欧医药合作拓展新空间",
@@ -2463,14 +2479,6 @@
      "summary": "如果说坚持无罪推定更侧重于刑事诉讼理念的宣告和诉讼思维的提升，那么，禁止有罪推定则是要把无罪推定的理念与思维落到实处，是要对那些与无罪推定背道而驰的做法果断纠偏。",
      "source": "经济观察网",
      "zh": "禁止有罪推定，是对无罪推定原则的再推进"
-    },
-    {
-     "title": "在合肥持续投入四年后，大众汽车准备借中国技术翻盘",
-     "link": "http://www.eeo.com.cn/2026/1105/1084551.shtml",
-     "pubDate": "Thu, 05 Nov 2026 10:38:04 +0800",
-     "summary": "从时间线来看，大众汽车集团过去一周密集释放的信息，是一场“精心安排”的全球战略转型发布，是让中国研发的技术方案产生规模效应，继而提升整个集团的电动化转型回报率。",
-     "source": "经济观察网",
-     "zh": "在合肥持续投入四年后，大众汽车准备借中国技术翻盘"
     }
    ]
   },

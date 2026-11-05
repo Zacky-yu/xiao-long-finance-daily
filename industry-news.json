@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/5 16:38:28",
+ "generated_at": "2026/11/5 16:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -15,14 +15,6 @@
      "summary": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2",
      "source": "MarkTechPost",
      "zh": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster"
-    },
-    {
-     "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-     "link": "https://www.qbitai.com/2026/11/507787.html",
-     "pubDate": "Thu, 05 Nov 2026 07:15:13 +0000",
-     "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
-     "source": "量子位",
-     "zh": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA"
     },
     {
      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
@@ -159,6 +151,14 @@
      "summary": "被轰成筛子了…",
      "source": "量子位",
      "zh": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的"
+    },
+    {
+     "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+     "link": "https://www.qbitai.com/2026/11/507688.html",
+     "pubDate": "Thu, 05 Nov 2026 01:42:43 +0000",
+     "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+     "source": "量子位",
+     "zh": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》"
     },
     {
      "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -1753,6 +1753,38 @@
    "total": 18,
    "items": [
     {
+     "title": "首款鸿蒙台式机华为擎云 HM650 系列发布：搭载麒麟 X90 桌面处理器，实现 100% 国产化率",
+     "link": "https://www.ithome.com/1/022/834.htm",
+     "pubDate": "Thu, 05 Nov 2026 08:44:44 GMT",
+     "summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱懂东正式发布了 首款鸿蒙台式机 —— 华为擎云 HM650 系列 。 据介绍，华为擎云 HM650 系列搭载鸿蒙电脑企业版 + 麒麟 X90 高性能桌面处理器。 灵犀 CPU 10 核 20 线程，支持智能超线程调度 ；马良 GPU 支持 GPU 硬件加速；达芬奇架构 NPU 本地算力支持多尺寸模型入端。 华为擎云 HM650 系列预装鸿蒙 HarmonyOS 系统， 支持 HyperSpace Memory 超空间内存技术 ，内存压缩效率提升 50%、大文件打开数量提升 4",
+     "source": "IT之家",
+     "zh": "首款鸿蒙台式机华为擎云 HM650 系列发布：搭载麒麟 X90 桌面处理器，实现 100% 国产化率"
+    },
+    {
+     "title": "延安大学副教授离世：考核压力为何让高校教师涌向“横向课题”？",
+     "link": "https://www.huxiu.com/article/4903270.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 16:40:55 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：张倩楠 王思思 延安大学鲁艺学院副教授白保国去世的消息得到校方确认。其生前留下的疑似遗书称现行聘期考核制度不合理：如设置横向课题到账额度，在实际执行中，绝大部分教师为完成上述考核指标自筹资金，“通过合作公司转账至学校，再由学校财务渠道将资金回流至本人，配套不实账务材料完成横向经费任务”，引发热议。 2026年11月4日晚，陕西省教育厅发布情况通报称，针对网络关注的相关问题，陕西省教育厅高度重视，已会同有关方面成立联合调查组，正在进行全面调查核实，将依法依规处理。 在某北方高校一位副教授看来，这属于极端个例。“每个学校的业绩考核评定都有公开文件发布，基本不",
+     "source": "虎嗅",
+     "zh": "延安大学副教授离世：考核压力为何让高校教师涌向“横向课题”？"
+    },
+    {
+     "title": "飞利浦 31.5 英寸 4K 75Hz / FHD 300Hz 双模显示器 32E3N5901RW 开售，到手价 1849 元",
+     "link": "https://www.ithome.com/1/022/816.htm",
+     "pubDate": "Thu, 05 Nov 2026 08:37:05 GMT",
+     "summary": "IT之家 11 月 5 日消息，飞利浦 32E3N5901RW 显示器现已开售，定价为 1999 元， 到手价 1849 元 。 该显示器采用 31.5 英寸 IPS 面板，标准对比度 1200:1，可在 4K 75Hz 与 FHD 300Hz 之间切换；搭载飞利浦与京东方联合定制研发的舒视蓝 4.0 技术，整合圆偏光技术、硬件滤蓝光与 DC 调光不闪屏；通过 VESA DisplayHDR 400 认证，HDR 峰值亮度达 450nits，典型亮度 350nits。 该显示器色域覆盖 98.4% DCI-P3、100% sRGB、94.7% Adobe RGB，并支持 Display P3、",
+     "source": "IT之家",
+     "zh": "飞利浦 31.5 英寸 4K 75Hz / FHD 300Hz 双模显示器 32E3N5901RW 开售，到手价 1849 元"
+    },
+    {
+     "title": "特斯拉得州超级工厂被曝增设夜班，实现全天候生产",
+     "link": "https://www.ithome.com/1/022/814.htm",
+     "pubDate": "Thu, 05 Nov 2026 08:36:39 GMT",
+     "summary": "IT之家 11 月 5 日消息，特斯拉得州超级工厂（Gigafactory Texas）可能很快将进入全天候生产状态。长期以来一直通过无人机航拍记录该工厂建设进展的飞手乔 · 特格特迈耶（Joe Tegtmeyer）在最新一期得州超级工厂动态视频中透露，特斯拉正通过增设夜班，将奥斯汀工厂的产能提升一倍。 特格特迈耶在工厂外介绍称，此次调整意味着生产线将在夜间继续运转。同一期视频中的无人机画面显示，得州超级工厂的车辆交付区停满了一排排金色 Cybercab 无人驾驶出租车，等待驶出工厂。 不过，特斯拉尚未确认这一调整，也没有说明新增产能将用于生产哪些车型。 据特格特迈耶透露，得州超级工厂计划采用",
+     "source": "IT之家",
+     "zh": "特斯拉得州超级工厂被曝增设夜班，实现全天候生产"
+    },
+    {
      "title": "《后会友期》爆火，“中国鸭王”撞大运了",
      "link": "https://www.huxiu.com/article/4903265.html?f=rss",
      "pubDate": "Thu, 05 Nov 2026 16:30:35 +0800",
@@ -1793,30 +1825,6 @@
      "zh": "特斯拉已停产的 Model S 外观设计专利获批，保护期至 2041 年"
     },
     {
-     "title": "华为擎云鸿图伙伴计划 2.0 落地，首批 HarmonyOS Inside 整机官宣即将同步上市",
-     "link": "https://www.ithome.com/1/022/791.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:22:02 GMT",
-     "summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱懂东宣布，华为擎云鸿图伙伴计划升级，将协同产业链伙伴深入合作。 据介绍，此次擎云鸿图伙伴计划 2.0 版本将主打 HarmonyOS Inside，目的是打造鸿蒙电脑技术路线。 IT之家在峰会现场了解到， 首批 HarmonyOS Inside 整机即将同步上市 ，包括升腾资讯的升华 P270、航天七〇六的天煜 TR1860、湘江鲲鹏的兆瀚 D680x、百信信息的太行 270H 和软通华方的天曜 W600-K60/K44。",
-     "source": "IT之家",
-     "zh": "华为擎云鸿图伙伴计划 2.0 落地，首批 HarmonyOS Inside 整机官宣即将同步上市"
-    },
-    {
-     "title": "349 元，机械师 KG87v2 三模机械键盘开启预约",
-     "link": "https://www.ithome.com/1/022/790.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:21:59 GMT",
-     "summary": "IT之家 11 月 5 日消息，机械师 KG87v2 三模机械键盘现已在京东开启预约，新品主打半透明键帽设计，配备星河 HIFI 轴体， 售价 349 元 。 据介绍，这款机械键盘采用 ABS 雾透机身，配合五面雾透键帽，提供白、黑、粉三种配色。搭载星河 HIFI 线性轴，配合出厂润滑，按压顺滑、回弹跟手。 同时该键盘配备五层填充，减少空腔杂音和多余振动。带有 10000mAh 大容量电池，支持 2.4G、蓝牙与有线连接，回报率可达 1000Hz。自带 1677 万色 ARGB 灯效，呈现柔和、有层次的光感。 此外，该键盘支持网页驱动，支持全键热插拔，可根据个人喜好自由更换兼容轴体。键盘采用 ",
-     "source": "IT之家",
-     "zh": "349 元，机械师 KG87v2 三模机械键盘开启预约"
-    },
-    {
-     "title": "百度文心开源发布 ERNIE 5.5 Flash Base 高效基座模型，总参数 280B",
-     "link": "https://www.ithome.com/1/022/785.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:21:01 GMT",
-     "summary": "IT之家 11 月 5 日消息，百度文心大模型今日发布 ERNIE-5.5-Flash-Base，开放 ERNIE 5.5 Flash 预训练终点的权重。 这是一个稀疏 MoE 语言模型，总参数 280B，每 token 激活 14B，在 33.5T tokens 上从零完成预训练；最长训练上下文为 128K，微调与推理支持 1M tokens 上下文。 本次发布的权重未经中训练与后训练，可作为领域适配、指令微调和强化学习研究的共同起点。 官方表示，Base 模型只是起点。 经过后训练的 ERNIE 5.5 Flash 将随后推出 。 ERNIE-5.5-Flash-Base 在 33.5T ",
-     "source": "IT之家",
-     "zh": "百度文心开源发布 ERNIE 5.5 Flash Base 高效基座模型，总参数 280B"
-    },
-    {
      "title": "张雪机车给重庆大学应届生10万起薪，算傲慢吗？",
      "link": "https://www.huxiu.com/article/4903241.html?f=rss",
      "pubDate": "Thu, 05 Nov 2026 16:14:36 +0800",
@@ -1839,14 +1847,6 @@
      "summary": "本文来自微信公众号： 正和岛 ，作者：正风，原文标题：《特朗普惨败，3大变化值得关注！》 没有意外发生，民主党拿下参众两院已成定局。 据新华社报道，多家美国主流媒体预测，美国民主党在3日举行的中期选举中大获全胜，重新夺回国会参议院和众议院掌控权。 这意味着，特朗普虽然还在白宫，但国会两院将同时由民主党掌控，一个“分裂政府”的格局基本形成。 从特朗普的表态来看，他的回应很直接： “我向民主党人表示祝贺，并期待与你们合作，为我们国家的利益而努力。”但紧接着又补了一句，他拥有完全的否决权。此前他还说过，欢迎外界叫他“否决先生”，认为行使否决权能逼民主党让步。 不得不说，这样的回复的确很符合特朗普。 ",
      "source": "虎嗅",
      "zh": "特朗普惨败，3大变化值得关注"
-    },
-    {
-     "title": "裁员省钱投AI，美股巨头其实在算另一本账",
-     "link": "https://www.huxiu.com/article/4903253.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 15:58:25 +0800",
-     "summary": "本文来自微信公众号： 万点研究 ，编辑：默默，作者：程一章 这一轮美股三季报相继出炉，科技巨头罕见地集体承压。 同一份财报里，两件看似矛盾的事同时发生。一件是裁员：甲骨文被测算要砍掉两万到三万个岗位，约占其全球员工的18%，预计每年可节约人力成本约80亿至100亿美元。另一件是加码：微软、亚马逊、Meta、甲骨文和Alphabet在2026年的资本开支合计约8,000亿美元。 一边把员工请出门，一边把钱砸进数据中心。舆论称之为“AI驱动的效率革命”，但从数字看，因果关系可能讲反了。 把这两组数据放在一起看，裁员省下的钱在量级上根本不足以“资助”资本开支，巨头真正在做的是修复资产负债表。AI军备",
-     "source": "虎嗅",
-     "zh": "裁员省钱投AI，美股巨头其实在算另一本账"
     },
     {
      "title": "五粮液续约博鳌，将担任2027年年会战略合作伙伴",
@@ -1953,28 +1953,12 @@
      "zh": "Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)"
     },
     {
-     "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
-     "link": "https://www.wired.com/story/ray-ban-promo-code/",
+     "title": "Zoro Coupon Codes: 20% Off November 2026",
+     "link": "https://www.wired.com/story/zoro-promo-code/",
      "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
+     "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in November 2026.",
      "source": "WIRED",
-     "zh": "Ray-Ban Promo Codes: Save 50% in November 2026"
-    },
-    {
-     "title": "Meta Quest Promo Codes and Coupons for November 2026",
-     "link": "https://www.wired.com/story/meta-quest-promo-code/",
-     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-     "source": "WIRED",
-     "zh": "Meta Quest Promo Codes and Coupons for November 2026"
-    },
-    {
-     "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
-     "link": "https://www.wired.com/story/nomad-discount-code/",
-     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
-     "source": "WIRED",
-     "zh": "Nomad Goods Promo Codes: Get 25% Off in November 2026"
+     "zh": "Zoro Coupon Codes: 20% Off November 2026"
     },
     {
      "title": "B&H Photo Promo Codes and Deals This November 2026",
@@ -1991,6 +1975,22 @@
      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
      "source": "WIRED",
      "zh": "Booking.com Promo Codes: 20% Off | November 2026"
+    },
+    {
+     "title": "Corsair Discount Code: Up to 50% Off for November 2026",
+     "link": "https://www.wired.com/story/corsair-coupon/",
+     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
+     "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+     "source": "WIRED",
+     "zh": "Corsair Discount Code: Up to 50% Off for November 2026"
+    },
+    {
+     "title": "Udemy Coupon Codes: 20% Off November 2026",
+     "link": "https://www.wired.com/story/udemy-promo-code/",
+     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
+     "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
+     "source": "WIRED",
+     "zh": "Udemy Coupon Codes: 20% Off November 2026"
     }
    ]
   },
@@ -2249,6 +2249,94 @@
    "total": 13,
    "items": [
     {
+     "title": "Nvidia Partner Hon Hai expects AI momentum to drive Q4 growth after 46% sales jump",
+     "link": "https://seekingalpha.com/news/4666256-nvidia-partner-hon-hai-expects-ai-momentum-to-drive-q4-growth-after-46-sales-jump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 03:48:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia Partner Hon Hai expects AI momentum to drive Q4 growth after 46% sales jump"
+    },
+    {
+     "title": "Macerich expects to close an off-market acquisition by year-end with a 9% to 11% stabilized yield",
+     "link": "https://seekingalpha.com/news/4666260-macerich-expects-to-close-an-off-market-acquisition-by-year-end-with-a-9-percent-to-11?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 03:45:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Macerich expects to close an off-market acquisition by year-end with a 9% to 11% stabilized yield"
+    },
+    {
+     "title": "图解财报：华虹宏力前三季归母净利润16.03亿元，同比增长138.23%",
+     "link": "http://stock.eastmoney.com/news/11802,202611053923545589.html",
+     "pubDate": "Thu, 05 Nov 2026 16:43:35 +0800",
+     "summary": "华虹宏力 11月6日发布2026年 三季报显示，公司前三季 实现营业总收入186.11亿元 ，同比增长14.06% ；归母净利润16.03亿元 ，同比增长138.23% ；扣非归母净利润9.32亿元 ，同比增长325.22% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：华虹宏力前三季归母净利润16.03亿元，同比增长138.23%"
+    },
+    {
+     "title": "盛和资源：截至10月20日最新股东户数22.73万户，较上期减少2.12%",
+     "link": "http://stock.eastmoney.com/news/11111,202611053923545356.html",
+     "pubDate": "Thu, 05 Nov 2026 16:42:33 +0800",
+     "summary": "盛和资源 最新披露数据显示，截至10月20日公司股东户数为22.73万户，较上期(2026年9月30日) 减少4912户，降幅为2.12% 。户均持有流通股数量 由上期的7548股上升至7712股， 户均持股金额 由上期的15.23万元减少至12.85万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "source": "东方财富股票",
+     "zh": "盛和资源：截至10月20日最新股东户数22.73万户，较上期减少2.12%"
+    },
+    {
+     "title": "华夏基金李一梅：公募基金发展正聚焦“坚守本源、全球布局与AI赋能”",
+     "link": "http://stock.eastmoney.com/news/1426,202611053923545698.html",
+     "pubDate": "Thu, 05 Nov 2026 16:42:09 +0800",
+     "summary": "11月5日，在《每日经济新闻》主办的“2026资本市场高质量发展大会”上，华夏基金总经理李一梅表示，当前公募基金行业正呈现三大重要趋势：一是坚守本源，行业始终以提升投资者收益与体验为核心，坚守受托责任。当前降费让利、以基准为核心投资、完善考核等举措，均旨在回归资管本源；二是走向国际化，行业投资方向与经营拓展日益全球化，跨境投资与产品创设将成未来十年发展重心；三是AI带来深刻变革，行业需善用AI工具而非被其主宰，借科技之力为投资者创造更好收益。 在此背景下，华夏基金推出投研5.0版本，以“平台化、国际化、生态化”升级投研体系，将个体优势转化为体系能力。其中，平台化旨在沉淀体系能力、突破个体边界，",
+     "source": "东方财富股票",
+     "zh": "华夏基金李一梅：公募基金发展正聚焦“坚守本源、全球布局与AI赋能”"
+    },
+    {
+     "title": "United Microelectronics October revenue rises 18.3% Y/Y",
+     "link": "https://seekingalpha.com/news/4666249-united-microelectronics-october-revenue-rises-183-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 03:38:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "United Microelectronics October revenue rises 18.3% Y/Y"
+    },
+    {
+     "title": "【调研快报】永安期货接待线上参与永安期货(600927)2026年第三季度业绩说明会的全体投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611053923542165.html",
+     "pubDate": "Thu, 05 Nov 2026 16:38:30 +0800",
+     "summary": "永安期货 11月5日公告称， 11月5日 接待线上参与 永安期货 (600927)2026年第三季度业绩说明会的全体投资者 调研。 接待人员包括董事(代行董事长职责)、总经理 马志伟,副总经理、董事会秘书、财务总监 黄峥嵘,独立董事 朱燕建。 公司就以下问题进行了回复： 1.请问公司2026年三季度经营情况如何? 答:尊敬的投资者,您好。公司前三季度累计实现营业收入14.45亿元,同比增长6.54%;归母净利润6.01亿元,同比增长23.18%,经营业绩稳步提升。分季度来看,第三季度公司实现营业收入6.83亿元,环比增长110.28%;归母净利润2.99亿元,环比增... 点击查看PDF原文 ",
+     "source": "东方财富股票",
+     "zh": "【调研快报】永安期货接待线上参与永安期货(600927)2026年第三季度业绩说明会的全体投资者调研"
+    },
+    {
+     "title": "平安证券李谦：深耕跨境业务，四措并举助力资本市场高质量发展",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923542284.html",
+     "pubDate": "Thu, 05 Nov 2026 16:38:09 +0800",
+     "summary": "11月5日，在《每日经济新闻》主办的“2026资本市场高质量发展大会”上，平安证券执行委员会委员、总经理李谦表示，“十五五”开局之年对外开放持续深化，作为扎根粤港澳大湾区的本土券商，平安证券将把跨境业务作为功能性业务，打通境内境外双向通道，从四方面发力，助力资本市场制度型开放与高质量发展。 李谦认为，资本市场高质量发展落脚于服务实体、畅通资本循环、实现制度国际互认，对外开放是贯穿始终的底色。平安证券依托“境内客户网络+境外香港子公司+集团 综合 金融”三位一体协同布局，香港子公司持有全业务牌照。李谦提出，券商做好跨境业务要抓好四项工作。一是做实服务实体，紧跟企业出海需求，为企业统筹境内外股权、",
+     "source": "东方财富股票",
+     "zh": "平安证券李谦：深耕跨境业务，四措并举助力资本市场高质量发展"
+    },
+    {
+     "title": "市值研究｜达瑞电子（300976）：产业并购驱动价值重估，以“小步快跑”模式锻造精密制造平台价值管理标杆",
+     "link": "http://stock.eastmoney.com/news/11215,202611053923544892.html",
+     "pubDate": "Thu, 05 Nov 2026 16:38:02 +0800",
+     "summary": "本案例出自由中国财富研究院市值管理研究中心与国新证券股份有限公司联合编撰的《中国A股上市公司市值管理研究报告（2026）》第四篇“市值管理实践案例”。 达瑞电子 （300976.SZ）2021年登陆创业板后，并未止步于单一 消费电子 结构件的舒适区，而是以“内生增长+外延并购+股东回报+投资者沟通”四大支柱构建系统化价值管理体系。四年内，公司通过“小步快跑”式产业并购三次精准落子——5,300万元切入 新能源 、1.64亿元卡位 碳纤维 轻量化、7,000万元进军AI热管理——完成从 消费电子 供应商向“ 消费电子 + 新能源 +轻量化复合材料+AI热管理”多赛道精密制造平台的战略跃迁。 与此",
+     "source": "东方财富股票",
+     "zh": "市值研究｜达瑞电子（300976）：产业并购驱动价值重估，以“小步快跑”模式锻造精密制造平台价值管理标杆"
+    },
+    {
+     "title": "机构调研丨光伏概念+新材料 这家公司20cm两连板 铜浆产品已在多个光伏电池客户端完成可靠性验证",
+     "link": "http://finance.eastmoney.com/news/11822,202611053923541853.html",
+     "pubDate": "Thu, 05 Nov 2026 16:34:45 +0800",
+     "summary": "11月5日，多家上市公司发布投资者关系活动记录表公告，披露各自与机构之间的业务交流内容，其中透露出公司业务布局的诸多进展与亮点。 贝特利 ：公司已与部分 电子 皮肤领域的企业开展业务接触与交流 贝特利 昨日接受华创证券、 中金公司 、 国泰海通 、巨创基金等多家机构调研。 公司在交流中直言，光伏行业目前仍处于产能出清阶段，行业拐点时间存在较大不确定性，仍需观察产能出清、政策环境及海外贸易环境等变化情况。 当前行业大背景叠加银价波动， 贝特利 表示，公司光伏银粉业务以风险控制为主，不采取激进的策略抢占规模；针对光伏银 铜 浆料、 空气氛纯 铜 浆料 业务，将积极配合下游客户推进少银化、去银化等技",
+     "source": "东方财富资讯",
+     "zh": "机构调研丨光伏概念+新材料 这家公司20cm两连板 铜浆产品已在多个光伏电池客户端完成可靠性验证"
+    },
+    {
+     "title": "Clene GAAP EPS of $0.05 beats by $0.48, revenue of $0.06M misses by $0.01M",
+     "link": "https://seekingalpha.com/news/4666258-clene-gaap-eps-of-005-beats-by-048-revenue-of-006m-misses-by-001m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 03:33:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Clene GAAP EPS of $0.05 beats by $0.48, revenue of $0.06M misses by $0.01M"
+    },
+    {
      "title": "RYTHM GAAP EPS of -$0.07, revenue of $23.86M",
      "link": "https://seekingalpha.com/news/4666257-rythm-gaap-eps-of--007-revenue-of-2386m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 05 Nov 2026 03:31:32 -0500",
@@ -2265,22 +2353,6 @@
      "zh": "Lifecore Biomedical GAAP EPS of -$1.08 misses by $0.98, revenue of $25.3M misses by $13.31M"
     },
     {
-     "title": "Allegiant signals 2026 EPS over $6 as it targets $140M in Sun Country synergies by 2029",
-     "link": "https://seekingalpha.com/news/4666254-allegiant-signals-2026-eps-over-6-as-it-targets-140m-in-sun-country-synergies-by-2029?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:25:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Allegiant signals 2026 EPS over $6 as it targets $140M in Sun Country synergies by 2029"
-    },
-    {
-     "title": "Aprea Therapeutics GAAP EPS of -$0.09 in-line",
-     "link": "https://seekingalpha.com/news/4666253-aprea-therapeutics-gaap-eps-of--009-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:19:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Aprea Therapeutics GAAP EPS of -$0.09 in-line"
-    },
-    {
      "title": "汉晋四百年里的士族与朋党",
      "link": "http://www.eeo.com.cn/2026/1105/1085056.shtml",
      "pubDate": "Thu, 05 Nov 2026 16:18:27 +0800",
@@ -2289,28 +2361,12 @@
      "zh": "汉晋四百年里的士族与朋党"
     },
     {
-     "title": "Matrix Service Non-GAAP EPS of $0.23 beats by $0.05, revenue of $219.4M misses by $20.38M",
-     "link": "https://seekingalpha.com/news/4666252-matrix-service-non-gaap-eps-of-023-beats-by-005-revenue-of-2194m-misses-by-2038m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:17:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Matrix Service Non-GAAP EPS of $0.23 beats by $0.05, revenue of $219.4M misses by $20.38M"
-    },
-    {
      "title": "创业板冲高回落涨0.87%，AI硬件股分化、“易中天”再度大跌，光伏掀起涨停潮，恒科指暴涨5%，科网股全线攀升",
      "link": "https://wallstreetcn.com/articles/3785230",
      "pubDate": "Thu, 05 Nov 2026 16:16:25 +0800",
      "summary": "光伏全链涨停潮成为当日最强主线。驱动来自三重共振：三季度光伏装机同比增长约38%、逆变器行业掀起集体涨价潮、美国中期选举落地强化绿色补贴延续预期。AI硬件内部分裂，CPO与PCB下挫，“易中天”集体大跌，昔日股王联讯仪器盘中跌破800元。 11月5日，A股全天冲高回落，午后沪指、创业板一度翻绿，尾盘小幅回升，创业板指此前一度涨超3%。AI硬件内部分化，电路板、光模块、存储芯片等概念股走低，“易中天”再度大跌，半导体设备、半导体材料等活跃。光伏设备、贵金属、锂电池等板块领涨；银行、煤炭、油气、航运港口等板块领跌。 港股全天高开高走，恒指、恒科指双双拉升，恒指涨3%，恒科指涨超5%，科网股爆发，小",
      "source": "华尔街见闻",
      "zh": "创业板冲高回落涨0.87%，AI硬件股分化、“易中天”再度大跌，光伏掀起涨停潮，恒科指暴涨5%，科网股全线攀升"
-    },
-    {
-     "title": "Commerzbank AG GAAP EPS of €2.25, net interest income of €6.22B",
-     "link": "https://seekingalpha.com/news/4666251-commerzbank-ag-gaap-eps-of-225-net-interest-income-of-622b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:15:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Commerzbank AG GAAP EPS of €2.25, net interest income of €6.22B"
     },
     {
      "title": "微软接连撤单Nscale：先砍30亿英国合同，再弃德州扩容订单",
@@ -2337,76 +2393,52 @@
      "zh": "部分公建配套费不再由开发商承担"
     },
     {
-     "title": "【调研快报】路维光电接待国盛证券策略会等113家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611053923501949.html",
-     "pubDate": "Thu, 05 Nov 2026 15:56:30 +0800",
-     "summary": "路维光电 11月5日公告称， 11月2日至11月4日 接待 国盛证券 策略会 等113家机构 调研。 接待人员包括董事、财务总监 刘鹏,投资者关系总监 刘文鑫。 公司就以下问题进行了回复： 1、公司简单介绍 2026 年三季度整体业绩情况 2026 年前三季度,公司实现营业收入 97,491.68 万元,较上年同期增加 17.89%;实现归属于上市公司股东的净利润 21,574.50 万元,较上年同期增加 25.61%;实现归属于上市公司股东的扣除非经常性损益的净利润 20,13... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 ",
-     "source": "东方财富股票",
-     "zh": "【调研快报】路维光电接待国盛证券策略会等113家机构调研"
+     "title": "Defense giant Rheinmetall plunges 16% after cutting outlook on stalled military contracts",
+     "link": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
+     "pubDate": "Thu, 05 Nov 2026 08:10:55 GMT",
+     "summary": "Rheinmetall cut its 2026 outlook for the second time in three months, citing delays to German military projects and artillery ammunition deliveries.",
+     "source": "CNBC",
+     "zh": "Defense giant Rheinmetall plunges 16% after cutting outlook on stalled military contracts"
     },
     {
-     "title": "【环球财经】东京股市两大股指涨跌互现 日经股指“四连跌”",
-     "link": "http://stock.eastmoney.com/news/1439,202611053923503398.html",
-     "pubDate": "Thu, 05 Nov 2026 15:55:53 +0800",
-     "summary": "新华财经东京11月5日电 日本东京股市两大股指5日涨跌互现。日经225种股票平均价格指数收盘下跌1.79%，已连续第四个交易日下跌；东京证券交易所股票价格指数上涨1.16%。 受隔夜纽约股市三大股指全面上涨带动，东京股市两大股指当日高开。然而，市场担忧美国中期选举民主党获胜将导致 数据中心 扩建速度放缓，进而拖累 人工智能 （AI）基础设施建设和 半导体 需求。受此影响，东京股市AI和 半导体 相关板块遭到抛售，日经股指由涨转跌，一度下跌超1400点。 尽管日经股指下跌，但当日东京证券交易所主板市场约七成股票上涨。市场人士认为，美伊冲突有望缓和的预期推动原油价格下跌，支撑市场整体表现。此外，丰",
-     "source": "东方财富股票",
-     "zh": "【环球财经】东京股市两大股指涨跌互现 日经股指“四连跌”"
-    },
-    {
-     "title": "索尼：预计熊本地震造成160亿日元损失",
-     "link": "http://finance.eastmoney.com/news/1351,202611053923502092.html",
-     "pubDate": "Thu, 05 Nov 2026 15:55:06 +0800",
-     "summary": "索尼 ：预计熊本地震造成160亿日元损失。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "索尼：预计熊本地震造成160亿日元损失"
-    },
-    {
-     "title": "润建股份等成立智能科技公司 含互联网数据服务业务",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923503239.html",
-     "pubDate": "Thu, 05 Nov 2026 15:54:24 +0800",
-     "summary": "企查查APP显示，近日，数宽智能科技（厦门）有限公司成立，法定代表人为何俊，经营范围包含： 人工智能 应用 软件开发 ； 人工智能 双创服务平台； 人工智能 基础 软件开发 ； 云计算 装备技术服务；互联网数据服务等。企查查股权穿透显示，该公司由 润建股份 旗下数宽智能科技（广西）有限公司、启元智联（厦门）科技有限公司共同持股。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "润建股份等成立智能科技公司 含互联网数据服务业务"
-    },
-    {
-     "title": "润邦股份：投建的通州湾装备制造基地在漂浮式海上风电基础方面有相关业务布局",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923503494.html",
-     "pubDate": "Thu, 05 Nov 2026 15:54:00 +0800",
-     "summary": "润邦股份 11月5日在互动平台表示，公司一直在积极跟进有关深远海海上风电领域的相关信息，公司将会结合市场和行业发展情况积极开展对包括漂浮式海上风电等在内的海上风电装备产品的技术研发和市场拓展等工作。公司投建的通州湾装备制造基地在漂浮式海上风电基础方面也有相关业务布局。公司将做好相关技术储备和产能准备。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "润邦股份：投建的通州湾装备制造基地在漂浮式海上风电基础方面有相关业务布局"
-    },
-    {
-     "title": "鼎胜新材：为全资子公司五星铝业等提供7亿元担保",
-     "link": "http://stock.eastmoney.com/news/11215,202611053923502784.html",
-     "pubDate": "Thu, 05 Nov 2026 15:54:00 +0800",
-     "summary": "南财智讯11月5日电， 鼎胜新材 公告，公司近日与 华夏银行 签订《最高额保证合同》，为全资子公司五星 铝 业提供1.5亿元连带责任 保证担保 ；与 中国银行 签订《最高额保证合同》，为全资子公司联晟新材提供5.5亿元连带责任 保证担保 。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "鼎胜新材：为全资子公司五星铝业等提供7亿元担保"
-    },
-    {
-     "title": "11月5日涨停复盘：86只股涨停 阳光照明11天6板",
-     "link": "http://stock.eastmoney.com/news/11055,202611053923491249.html",
-     "pubDate": "Thu, 05 Nov 2026 15:42:34 +0800",
-     "summary": "今天沪指涨0.1%，深成指涨1.19%，创业板指涨0.87%，今日大盘成交额2.12万亿，较上个交易日放量802.59亿。 涨停个股数量方面，今日共计86股涨停，另有50只个股盘中一度触及涨停，封板率63.24%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "11月5日港股收盘：恒指涨3.67% 恒生科技指数涨5.55%",
+     "link": "http://stock.eastmoney.com/news/11770,202611053923512836.html",
+     "pubDate": "Thu, 05 Nov 2026 16:10:09 +0800",
+     "summary": "港股11月5日收盘走高，恒生指数收报24796.98点，涨877.48点，涨幅3.67%；恒生科技指数收报4154.29点，涨218.27点，涨幅5.55%。恒生指数成分股中 中国生物制药 、 网易 、 理想汽车 -W涨幅居前， 联想集团 、 潍柴动力 、 中国石油股份 跌幅靠前。恒生科技指数成分股中 天数智芯 、 网易 、 理想汽车 -W涨幅居前， 联想集团 、 华虹宏力 、 智谱 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定",
      "source": "东方财富资讯",
-     "zh": "11月5日涨停复盘：86只股涨停 阳光照明11天6板"
+     "zh": "11月5日港股收盘：恒指涨3.67% 恒生科技指数涨5.55%"
     },
     {
-     "title": "新版“站在光里”出现了？光伏板块大爆发 “易中天”却集体大跌",
-     "link": "http://stock.eastmoney.com/news/1405,202611053923490977.html",
-     "pubDate": "Thu, 05 Nov 2026 15:36:26 +0800",
-     "summary": "11月5日，市场冲高回落，尾盘小幅回升。截至收盘，沪指涨0.1%，深成指涨1.19%，创业板指涨0.87%。 盘面上， 光伏概念 走强， 机器人 、AI漫剧概念走高， 贵金属 概念反复活跃。下跌方面，高股息 红利股 盘中持续走弱， 煤炭 、石油方向领跌。 全市场超4800只个股上涨。沪深两市成交额2.12万亿元，较上一个交易日放量803亿元。 继昨日暴力反弹后，今天A股 既有低开高走，也出现冲高回落， 成交额放大到2.14万亿元，超4800家上涨。 整体而言， 反弹成果仍在，短线分歧偏良性。 这或许与宽基ETF里的 托底资金没有大笔买入 动作有关。 数据显示，科创50ETF华夏、创业板ETF易",
+     "title": "宽基ETF继续放量！本轮股票型ETF净流入近6000亿元",
+     "link": "http://finance.eastmoney.com/news/1345,202611053923514965.html",
+     "pubDate": "Thu, 05 Nov 2026 16:08:18 +0800",
+     "summary": "11月5日，多只 半导体 设备主题ETF涨幅超过9%。与此同时，宽基ETF成交量维持高位。其中，科创50ETF华夏成交189亿元，创业板ETF易方达成交164亿元。 从资金流向看，9月28日以来，截至11月4日，股票型ETF净流入近6000亿元，其中多只宽基ETF“吸金”超500亿元。 宽基ETF继续放量 11月5日，宽基ETF整体成交活跃。截至收盘，科创50ETF华夏成交189亿元，从盘中走势看，今天上午开盘一小时，成交额就破百亿元。 创业板ETF易方达关注度也较高，截至收盘，该ETF成交164亿元。值得注意的是，创业板ETF易方达昨天全天成交202亿元，创下该ETF上市以来第三高成交额。 ",
      "source": "东方财富资讯",
-     "zh": "新版“站在光里”出现了？光伏板块大爆发 “易中天”却集体大跌"
+     "zh": "宽基ETF继续放量！本轮股票型ETF净流入近6000亿元"
     },
     {
-     "title": "“厉害了厉娜”！芒果超媒涨超15% 绝味翻红！",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923490164.html",
-     "pubDate": "Thu, 05 Nov 2026 15:33:00 +0800",
-     "summary": "近日， 芒果超媒 近期股价表现活跃。11月5日， 芒果超媒 股价盘中一度涨超15%，最高触及34.78元/股。截至今日收盘， 芒果超媒 股价涨9.27%，报32.78元/股。 11月5日中午消息，芒果TV出现 因热门综艺《后会友期》致服务器过载 的大面积登录故障，大量用户反馈账号无法登录、收不到验证码或页面报错，故障已于当日下午修复，平台恢复正常访问。 与此同时，热度高的相关公司—— 绝味食品 也在盘中翻红，截至今日收盘涨2.18%，报11.7元/股。 近日，芒果TV综艺《后会友期》热播，2006 届超女厉娜和许飞的超女往事刷屏。目中许飞回忆，当年比赛厉娜最爱吃鸭舌，随口一提直接带火鸭舌。各路",
+     "title": "培育钻石年内再度提价 散热业务仍待放量",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923512675.html",
+     "pubDate": "Thu, 05 Nov 2026 16:06:39 +0800",
+     "summary": "继2026年3月多家厂商集中调价后， 培育钻石 毛坯年内再度迎来提价。日前财联社记者从 黄河旋风 （600172.SH）处获悉，自11月1日起，大单晶产品( 培育钻石 毛坯)在原有价格基础上上调10%。 2026 年被业内称为 “金刚石散热元年”，除传统工业金刚石和 培育钻石 业务外，市场对相关上市公司散热业务的预期更高。不过，财联社记者多方采访获悉，本轮涨价背后，既有下游需求回暖的支撑，也有人民币兑美元升值带来的成本压力，而真正上调价格的仍是培育钻石这一 “基本盘” 业务，散热板块则仍处于小批量出货阶段，大规模应用尚需时日。 培育钻石年内二轮提价落地 昨日，财联社记者从 黄河旋风 处获悉， ",
      "source": "东方财富资讯",
-     "zh": "“厉害了厉娜”！芒果超媒涨超15% 绝味翻红！"
+     "zh": "培育钻石年内再度提价 散热业务仍待放量"
+    },
+    {
+     "title": "中方阻挠日本软银收购ABB机器人业务？外交部回应",
+     "link": "http://finance.eastmoney.com/news/1345,202611053923511123.html",
+     "pubDate": "Thu, 05 Nov 2026 16:05:58 +0800",
+     "summary": "中国外交部发言人郭嘉昆11月5日主持例行记者会。 有记者提问：据《金融时报》报道，中方已告知日本软银集团，将不允许其收购ABB旗下 机器人 业务。报道称，软银近期被告知该交易已被中国国家发改委叫停。外交部能否确认相关消息？ 郭嘉昆：这个问题建议向中方主管部门进行询问。 （文章来源：中国新闻网）",
+     "source": "东方财富资讯",
+     "zh": "中方阻挠日本软银收购ABB机器人业务？外交部回应"
+    },
+    {
+     "title": "全球平板电脑出货量创近三年季度新低 华为跌超四成苹果近三成",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923515033.html",
+     "pubDate": "Thu, 05 Nov 2026 16:05:55 +0800",
+     "summary": "新品扎堆亮相并未改变平板行业的市场颓势。 11月5日，界面新闻从市场调研机构Omdia获得的最新行业报告显示，2026年第三季度，全球平板电脑市场交出一份不容乐观的成绩单。整体出货量下滑至3219.1万台，折合3200万台，同比大幅回落23%，创下近三年以来单季出货量最低纪录。中东、中国、西欧成为受冲击最明显的区域，市场跌幅明显高于全球平均水平，行业下行压力已经扩散到多个核心消费市场。 近三年来全球平板电脑出货情况 数据来源：Omdia 对比二季度的行业表现，市场的下滑速度超出不少人的预期。2026年第二季度全球平板出货量3600万台，同比下滑10%，当时市场已经打破往年二季度返校季拉动出货走",
+     "source": "东方财富资讯",
+     "zh": "全球平板电脑出货量创近三年季度新低 华为跌超四成苹果近三成"
     },
     {
      "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
@@ -2417,28 +2449,12 @@
      "zh": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite"
     },
     {
-     "title": "霍尔木兹海峡两艘油轮起火！特朗普：海峡已开放 石油产量比战前任何时候都高",
-     "link": "http://finance.eastmoney.com/news/1345,202611053923483886.html",
-     "pubDate": "Thu, 05 Nov 2026 15:29:14 +0800",
-     "summary": "当地时间11月5日，伊朗伊斯兰革命卫队表示，4日晚，在两起独立的事件中，一艘试图非法穿越霍尔木兹海峡南部的大型油轮触雷起火，被迫停航；另一艘油轮在霍尔木兹海峡以东的航道起火，被迫停航，一艘试图灭火的拖船也被引燃。 与此同时，伊朗伊斯兰革命卫队称海军 电子 战部队捕获两架“卢卡斯”型 无人机 。 △伊朗国家电视台公布的伊朗伊斯兰革命卫队本次捕获的“卢卡斯”型 无人机 图片 当地时间11月4日，美国总统特朗普在中期选举失利后首次露面。他在白宫对媒体表示，选举失利在很大程度上确实是由与伊朗的冲突所致，但如果重来一次，他仍会作同样的决定。 关于何时能结束伊朗战争，特朗普表示：“我随时都可以，但必须做得",
-     "source": "东方财富资讯",
-     "zh": "霍尔木兹海峡两艘油轮起火！特朗普：海峡已开放 石油产量比战前任何时候都高"
-    },
-    {
      "title": "指数重挫、“存储双雄”暴跌，韩国财长：准备应对金融市场波动加剧",
      "link": "https://wallstreetcn.com/articles/3785256",
      "pubDate": "Thu, 05 Nov 2026 15:24:33 +0800",
      "summary": "韩国股市周四遭遇剧烈震荡，KOSPI指数盘中跌幅一度逼近5%，程序化交易触发熔断机制被迫暂停，科创板KOSDAQ亦因期货暴跌同步触发熔断。美国中期选举民主党获胜引发市场对人工智能数据中心监管收紧的担忧，成为此轮抛售的直接导火索。 韩国财政部长随后发表声明， 表示将密切关注中期选举后美国人工智能政策走向，并持续监测美国关税政策动向及中东局势，强调已为金融市场波动进一步加剧的可能性做好应对准备。 以三星电子、SK海力士为代表的\"存储双雄\"首当其冲，两家芯片巨头股价大幅下挫，拖累大盘加速下行。此次波动再度凸显韩国市场对美国科技政策敏感性极高的结构性特征，投资者情绪趋于谨慎。 熔断触发，KOSPI盘中",
      "source": "华尔街见闻",
      "zh": "指数重挫、“存储双雄”暴跌，韩国财长：准备应对金融市场波动加剧"
-    },
-    {
-     "title": "商务部回应扩大自美采购农产品：持开放态度 对等降税落地是前提",
-     "link": "http://finance.eastmoney.com/news/1345,202611053923479333.html",
-     "pubDate": "Thu, 05 Nov 2026 15:23:39 +0800",
-     "summary": "商务部新闻发言人黄玲在5日举行的例行新闻发布会上回答有关进口美国 农产品 的提问时表示，中美 农产品 贸易是双边经贸合作的重要组成部分。扩大两国在农业领域合作，既可以丰富两国民众的餐桌，也能给两国企业和农民提供稳定的经济收入，为双方带来实实在在的好处。 中方一直对扩大自美采购 农产品 持开放态度，但前提是双方达成的“300亿对300亿”对等降税安排落地。希望美方与中方共同努力，通过共同降低关税、减少非关税壁垒、扩大市场准入等方式，为两国农产品贸易创造更多有利条件。 （文章来源：新华社）",
-     "source": "东方财富资讯",
-     "zh": "商务部回应扩大自美采购农产品：持开放态度 对等降税落地是前提"
     },
     {
      "title": "松下覆铜板工厂爆炸起火，全球高端CCL供给约4%面临中断风险",
@@ -2457,14 +2473,6 @@
      "zh": "Most investors are blind to the possibility of a market crash. Here is the five-part strategy to survive one."
     },
     {
-     "title": "商务部回应欧盟对低价值进口商品叠加征收有关税费",
-     "link": "http://finance.eastmoney.com/news/1345,202611053923473048.html",
-     "pubDate": "Thu, 05 Nov 2026 15:14:12 +0800",
-     "summary": "欧盟自11月1日起对低价值进口商品征收2欧元手续费，此前已于7月开始征收3欧元关税。商务部新闻发言人黄玲在5日举行的例行新闻发布会上对此表示，中方高度关注欧方有关新规。 跨境电商 作为国际贸易的新业态、新模式，为全球企业和消费者提供了多元化选择。希望欧方审慎评估相关政策影响，为中欧在电商等领域合作创造有利条件。 （文章来源：新华社）",
-     "source": "东方财富资讯",
-     "zh": "商务部回应欧盟对低价值进口商品叠加征收有关税费"
-    },
-    {
      "title": "又熔断了！美国中选掀起市场风暴，韩国股市为何首当其冲？",
      "link": "https://wallstreetcn.com/articles/3785257",
      "pubDate": "Thu, 05 Nov 2026 15:11:03 +0800",
@@ -2479,14 +2487,6 @@
      "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
      "source": "CNBC",
      "zh": "What the Democratic midterms sweep changes for U.S.-China relations"
-    },
-    {
-     "title": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Thu, 05 Nov 2026 14:27:23 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”"
     }
    ]
   },

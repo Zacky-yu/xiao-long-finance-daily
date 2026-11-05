@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 09:35:18",
+ "generated_at": "2026/11/5 09:42:48",
  "recent_days": 7,
  "industries": [
   {
@@ -258,14 +258,6 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Apple’s harvest",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/apples-harvest-2026-11/",
-     "pubDate": "Thu, 05 Nov 2026 01:10:05 +0000",
-     "summary": "On Monday, Apple reported Q4 results with sales of $114.5 billion bringing the annual total to $478.8 billion – a 15% jump YoY. Annual profit was $132 billion, which was […] The post Apple’s harvest appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Apple’s harvest"
-    },
-    {
      "title": "Asia Optical posts record Q3 profit, ramps CPO and AI optics push",
      "link": "https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html",
      "pubDate": "Thu, 5 Nov 2026 00:53:32 GMT",
@@ -456,6 +448,14 @@ window.INDUSTRY_DATA = {
      "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
+    },
+    {
+     "title": "HMGCC Challenge seeks technology to identify hostile RF emitters",
+     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/hmgcc-challenge-seeks-technology-to-identify-hostile-rf-emitters-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 10:43:35 +0000",
+     "summary": "The HMGCC (His Majesty’s Government Communications Centre) is launching a challenge – via the Satellite Applications Catapult – to create technology that can identify hostile RF emitters in battlefield situations. […] The post HMGCC Challenge seeks technology to identify hostile RF emitters appeared",
+     "source": "Electronics Weekly",
+     "zh": "HMGCC Challenge seeks technology to identify hostile RF emitters"
     },
     {
      "title": "Marvell’s acquisition of Lumentum could challenge Broadcom’s market leadership, says TrendForce",
@@ -946,12 +946,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘Every solar plant can be a data center’"
     },
     {
-     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
+     "title": "Trump ban on foreign grid components sparks industry concern over cost, practicality",
      "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
      "pubDate": "Wed, 04 Nov 2026 11:41:26 -0500",
-     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
+     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
-     "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
+     "zh": "Trump ban on foreign grid components sparks industry concern over cost, practicality"
     },
     {
      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
@@ -1746,6 +1746,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "游族网络拟 42 亿元买 GPU，推进公司转型升级",
+     "link": "https://www.ithome.com/1/022/526.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:35:02 GMT",
+     "summary": "IT之家 11 月 5 日消息，游族网络 11 月 4 日发布关于签署日常经营合同的公告，全资子公司上海游族信息技术有限公司（简称“游族信息”）于近日与 A 公司签署了《销售合同》， 游族信息向 A 公司采购型号为 PRO5500 (PCIe) 的 GPU 产品，协议总金额为人民币 42.25 亿元 （含税，订单价格可能会因原厂或上级供应商调整而发生变动）。 游族网络表示，本项目资金来源为自有资金、银行授信、金融租赁等组合方式。鉴于本次合同约定的交付方式采取分批交付方式，资金可滚动使用，整体资金投入规模可控。 游族网络还称，本合同的签订对公司财务指标的具体金额影响目前尚无法测算，需视后续具体业",
+     "source": "IT之家",
+     "zh": "游族网络拟 42 亿元买 GPU，推进公司转型升级"
+    },
+    {
+     "title": "美国 AI 扩张遭遇地方阻力：水电资源和环境争议升温，76% 选民反对在社区建设数据中心",
+     "link": "https://www.ithome.com/1/022/525.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:33:20 GMT",
+     "summary": "北京时间 11 月 5 日，据美国科技媒体 The Verge 报道，随着 2026 年美国中期选举结果陆续出炉，人工智能行业赖以发展的数据中心建设遭遇重大阻力。 美国多地选民通过地方公投限制数据中心扩张，多名支持暂停相关项目建设的候选人赢得选举，意味着美国 AI 数据中心开发商未来可能面临更加严格的监管环境。 美国全国广播公司（NBC News）在选举日开展的民调显示，76% 的受访选民反对在自己居住的社区建设数据中心。与此同时，针对数据中心建设的地方公投也呈现明显的限制开发倾向。 根据咨询机构 Redbud Consulting 汇总的数据，截至当地时间 11 月 4 日上午，在全美涉及数",
+     "source": "IT之家",
+     "zh": "美国 AI 扩张遭遇地方阻力：水电资源和环境争议升温，76% 选民反对在社区建设数据中心"
+    },
+    {
      "title": "微软修复 Win11 画图应用 8.1 分高危漏洞，但用户反馈看不到更新",
      "link": "https://www.ithome.com/1/022/523.htm",
      "pubDate": "Thu, 05 Nov 2026 01:32:18 GMT",
@@ -1786,28 +1802,12 @@ window.INDUSTRY_DATA = {
      "zh": "咖啡杯已装不下瑞幸的野心"
     },
     {
-     "title": "《万智牌》真人电影步入正轨：首位演员确定为《怪奇物语》玛雅 · 霍克",
-     "link": "https://www.ithome.com/1/022/519.htm",
-     "pubDate": "Thu, 05 Nov 2026 01:20:43 GMT",
-     "summary": "IT之家 11 月 5 日消息，据 Deadline 今日报道，《怪奇物语》演员玛雅 · 霍克（Maya Hawke）已确认加盟并成为《万智牌》（Magic：The Gathering）真人电影首位正式确定出演的演员。 这意味着，在历经多年波折后，由 Legendary Entertainment 与孩之宝（Hasbro）合作打造的这部真人电影已经开始步入正轨。 知情人士透露，玛雅 · 霍克将在影片中扮演一个关键角色，电影整体将采用群像式叙事。制片方此前还特别希望优先向她发出演出邀约，以争取她加入剧组。 本片由加拿大导演兼演员马特 · 约翰逊（Matt Johnson）执导并参与编剧，另外两位",
-     "source": "IT之家",
-     "zh": "《万智牌》真人电影步入正轨：首位演员确定为《怪奇物语》玛雅 · 霍克"
-    },
-    {
      "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)",
      "link": "https://www.techmeme.com/261104/p60#a261104p60",
      "pubDate": "Wed, 04 Nov 2026 20:20:01 -0500",
      "summary": "Stephen Council / Business Insider : Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code &nbsp; &mdash;&nbsp; Cat Wu, who left Anthropic last week after becoming one of the company's highest-profile p",
      "source": "Techmeme",
      "zh": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)"
-    },
-    {
-     "title": "消息称荣耀 700 系列采用同档唯一双 8 芯片，Pro 用上骁龙 8 Gen5",
-     "link": "https://www.ithome.com/1/022/518.htm",
-     "pubDate": "Thu, 05 Nov 2026 01:19:08 GMT",
-     "summary": "IT之家 11 月 5 日消息，据博主 @数码闲聊站 今日爆料，荣耀 700 系列手机采用同档唯一双 8 芯片，标准版是骁龙 8s Gen4， Pro 直接了上骁龙 8 Gen5 ，拥有更强性能 + 更大电池 + 潜望镜 + 旗舰影像 + 自拍背屏。 荣耀全球首席营销官关海涛于 11 月 3 日发文， 正式官宣了数字 700 系列手机 ，号称“荣耀数字系列全面大换新的一代”。关海涛表示，荣耀 700 系列手机的方向很明确：继承旗舰级影像能力、探索 AI 时代年轻人的新鲜玩法，并守住荣耀一直以来的优势长板。 据IT之家此前报道，荣耀在 10 月有三款 5G 手机通过 3C 认证， 博主 @旺仔百",
-     "source": "IT之家",
-     "zh": "消息称荣耀 700 系列采用同档唯一双 8 芯片，Pro 用上骁龙 8 Gen5"
     },
     {
      "title": "英国的汽车销冠，不赚英国的钱",
@@ -1898,12 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "A One-Cent Livestream Does Not Make Office AI a Mass Habit"
     },
     {
-     "title": "SpaceX – Starfall",
+     "title": "Starfall – Affordable, routine access to microgravity",
      "link": "https://www.spacex.com/starfall",
      "pubDate": "Thu, 05 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 31 # Comments: 11",
+     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 49 # Comments: 19",
      "source": "Hacker News",
-     "zh": "SpaceX – Starfall"
+     "zh": "Starfall – Affordable, routine access to microgravity"
     },
     {
      "title": "Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May (Bloomberg)",
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "You'll need nerves of steel to work with AI agents",
      "link": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
      "pubDate": "Thu, 05 Nov 2026 00:01:30 +0000",
-     "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 15 # Comments: 4",
      "source": "Hacker News",
      "zh": "You'll need nerves of steel to work with AI agents"
     },
@@ -1925,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Images 2.6",
      "link": "https://openai.com/index/introducing-images-2-6/",
      "pubDate": "Wed, 04 Nov 2026 23:35:44 +0000",
-     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 71 # Comments: 53",
+     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 79 # Comments: 68",
      "source": "Hacker News",
      "zh": "Images 2.6"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
      "link": "https://icode4.coffee/?p=1746",
      "pubDate": "Wed, 04 Nov 2026 22:01:49 +0000",
-     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 55 # Comments: 2",
+     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 61 # Comments: 2",
      "source": "Hacker News",
      "zh": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements"
     },
@@ -2242,6 +2242,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Revolution Medicines reiterates $2.1B-$2.2B 2026 GAAP operating expense guidance following RASONQUE launch",
+     "link": "https://seekingalpha.com/news/4666025-revolution-medicines-reiterates-2_1b-2_2b-2026-gaap-operating-expense-guidance-following?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 20:35:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Revolution Medicines reiterates $2.1B-$2.2B 2026 GAAP operating expense guidance following RASONQUE launch"
+    },
+    {
+     "title": "民主党横扫国会，科技巨头市值单日暴增近万亿美元",
+     "link": "https://wallstreetcn.com/articles/3785229",
+     "pubDate": "Thu, 05 Nov 2026 09:31:55 +0800",
+     "summary": "美国民主党在国会两院选举中取得压倒性胜利，市场随即将这一政治格局的转变解读为科技巨头疯狂AI军备竞赛走向终结的信号，推动五大科技股单日合计市值增幅接近万亿美元。 周三，亚马逊股价一度飙升8.3%，微软涨7%，Alphabet涨5.9%，Meta涨3.6%，苹果涨逾6%。 五家科技巨头单日合计新增市值接近1万亿美元，“科技七巨头”指数周三涨幅一度达3.6%，创下9月21日以来最佳单日表现。 此番大涨的核心逻辑在于：投资者押注民主党主导的国会将出手遏制大型科技公司在AI基础设施上的巨额资本支出，从而帮助这些公司重新回归自由现金流正值状态。民主党候选人在竞选中大力主张放缓AI发展，尤其针对数据中心的",
+     "source": "华尔街见闻",
+     "zh": "民主党横扫国会，科技巨头市值单日暴增近万亿美元"
+    },
+    {
+     "title": "不可压缩性：碳基价值的硬约束",
+     "link": "http://www.eeo.com.cn/2026/1105/1084449.shtml",
+     "pubDate": "Thu, 05 Nov 2026 09:29:48 +0800",
+     "summary": "AI优化虽提升效率，却常导致信任度下降、审美趋于同质化、公平感减弱。问题的核心在于将信任、审美和公平感等不可压缩价值错误纳入算法目标函数。这些价值与量化逻辑不相容：信任无法被评分替代，审美无法被均值替代，公平标准无法由算法选择。压缩它们会触发反噬——信任评分化推高防御成本，审美中位化损害品牌溢价，公平公式化带来弱势者的沉默成本。因此，不可压缩之物应作为硬约束，通过碳基否决权、品牌独特性保护和多元校准机制予以守护，构成碳硅共生持续运行的最低制度配置。",
+     "source": "经济观察网",
+     "zh": "不可压缩性：碳基价值的硬约束"
+    },
+    {
      "title": "Mckesson outlines fiscal 2027 adjusted EPS of $45.60-$46.40 while closing $2.25B Precision Medicine Group deal",
      "link": "https://seekingalpha.com/news/4666024-mckesson-outlines-fiscal-2027-adjusted-eps-of-45_60-46_40-while-closing-2_25b-precision?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 20:25:35 -0500",
@@ -2282,14 +2306,6 @@ window.INDUSTRY_DATA = {
      "zh": "E.l.f. Beauty projects 22% to 24% fiscal '27 net sales growth as rhode expands in Sephora Europe"
     },
     {
-     "title": "8x8 outlines FY2027 EPS of $0.36-$0.40 while raising service revenue to $732M-$752M",
-     "link": "https://seekingalpha.com/news/4666018-8x8-outlines-fy2027-eps-of-0_36-0_40-while-raising-service-revenue-to-732m-752m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 20:15:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "8x8 outlines FY2027 EPS of $0.36-$0.40 while raising service revenue to $732M-$752M"
-    },
-    {
      "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
      "link": "https://wallstreetcn.com/articles/3785208",
      "pubDate": "Thu, 05 Nov 2026 09:15:08 +0800",
@@ -2322,38 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "Qualcomm’s stock falls as twin forces pressure sales"
     },
     {
-     "title": "Western Union projects $1.28-$1.38 2026 adjusted EPS while targeting $80M+ run-rate cost savings",
-     "link": "https://seekingalpha.com/news/4666016-western-union-projects-1_28-1_38-2026-adjusted-eps-while-targeting-80m-run-rate-cost-savings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 20:05:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Western Union projects $1.28-$1.38 2026 adjusted EPS while targeting $80M+ run-rate cost savings"
-    },
-    {
-     "title": "CAVA outlines 2026 outlook with 76-78 net new openings and $184M-$189M adjusted EBITDA",
-     "link": "https://seekingalpha.com/news/4666014-cava-outlines-2026-outlook-with-76minus-78-net-new-openings-and-184m-189m-adjusted-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 20:05:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CAVA outlines 2026 outlook with 76-78 net new openings and $184M-$189M adjusted EBITDA"
-    },
-    {
-     "title": "Sunrun expects ~$200M 2026 cash generation as it targets doubling storage capacity by end of 2028",
-     "link": "https://seekingalpha.com/news/4666015-sunrun-expects-200m-2026-cash-generation-as-it-targets-doubling-storage-capacity-by-end-of?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 20:05:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sunrun expects ~$200M 2026 cash generation as it targets doubling storage capacity by end of 2028"
-    },
-    {
-     "title": "Qualcomm targets $5B fiscal 2027 data center revenue as it expects Starlink Mobile deployments to begin in 2027",
-     "link": "https://seekingalpha.com/news/4666012-qualcomm-targets-5b-fiscal-2027-data-center-revenue-as-it-expects-starlink-mobile-deployments?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 20:05:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Qualcomm targets $5B fiscal 2027 data center revenue as it expects Starlink Mobile deployments to begin in 2027"
-    },
-    {
      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
      "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
      "pubDate": "Thu, 05 Nov 2026 01:05:00 GMT",
@@ -2378,6 +2362,14 @@ window.INDUSTRY_DATA = {
      "zh": "Figma’s stock dips as investors worry that AI momentum is coming at a high price"
     },
     {
+     "title": "“字节时间”争议的意义：商业创新的边界在哪里",
+     "link": "http://www.eeo.com.cn/2026/1105/1084417.shtml",
+     "pubDate": "Thu, 05 Nov 2026 09:02:05 +0800",
+     "summary": "数字平台的商业创新，正在从满足需求走向影响需求，从争夺流量走向组织注意力。通过算法、数据和平台规则，企业不仅能够影响用户看到什么、选择什么，还能够影响创作者获得多少曝光、商家拥有多少交易机会。这种能力本身是技术进步和商业创新的结果，但也意味着企业获得了超越传统市场竞争的结构性影响力。如何认识和约束这种影响力，正在成为数字经济发展必须面对的新问题。",
+     "source": "经济观察网",
+     "zh": "“字节时间”争议的意义：商业创新的边界在哪里"
+    },
+    {
      "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
      "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
      "pubDate": "Thu, 05 Nov 2026 01:01:00 GMT",
@@ -2392,6 +2384,14 @@ window.INDUSTRY_DATA = {
      "summary": "美国中期选举民主党大获全胜，油价单日暴跌逾8%，市场押注华盛顿政治格局的剧变将加速伊朗战事终结。然而，从伊朗的强硬表态到美国错综复杂的政治博弈，停战前景远比油价走势更难预测。 周三，民主党在中期选举中席卷参众两院的消息在能源市场引发强烈震荡。WTI原油一度跌至87.13美元/桶，日内跌幅超过9.3%；布伦特原油跌至93.22美元/桶，日内跌幅约10%，创5月以来单日最大跌幅。截至目前，WTI在88美元/桶附近企稳，布伦特收于95美元附近。与此同时，北海原油价格跌至新低，欧洲天然气价格也随之大幅下挫。 推动市场剧烈反应的，是一系列集中释放的政治信号。美国副总统万斯公开将共和党的惨败归咎于伊朗战事",
      "source": "华尔街见闻",
      "zh": "中选结束，油价暴跌！市场的“止战预期”会实现吗？"
+    },
+    {
+     "title": "今日看点｜第九届进博会将举行",
+     "link": "http://www.eeo.com.cn/2026/1105/1084409.shtml",
+     "pubDate": "Thu, 05 Nov 2026 08:38:55 +0800",
+     "summary": "11月5日至10日，第九届中国国际进口博览会将在上海举办，共有162个国家、地区和国际组织参与，整体展览展示面积首次突破44万平方米。",
+     "source": "经济观察网",
+     "zh": "今日看点｜第九届进博会将举行"
     },
     {
      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
@@ -2410,12 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "参议院易主，白宫无法再安插“自己人”，美联储独立性警报解除？"
     },
     {
-     "title": "药企CEO集体泼冷水：AI\"十年治愈癌症\"的承诺，硅谷说得出，生物学做不到",
-     "link": "https://wallstreetcn.com/articles/3785222",
-     "pubDate": "Thu, 05 Nov 2026 08:31:47 +0800",
-     "summary": "人工智能将在十年内治愈大多数疾病——这一出自硅谷的豪言壮语，正在遭遇来自药企高管层的集体质疑。在巨额资本涌入AI制药赛道的同时，真正掌握新药研发规律的行业领导者给出了截然不同的判断： 生物学的复杂性，不是数据分析能够解决的问题。 Anthropic首席执行官Dario Amodei 9月在社交平台X发帖称，“在5至10年内治愈大多数人类疾病实际上是可能的，尽管这听起来很疯狂。”然而，据华尔街日报11月3日报道，Vertex Pharmaceuticals执行董事长Jeff Leiden最新表态：“ 这完全是胡说 。” 他透露，Vertex曾动用约50家AI公司梳理其拥有1万种药物化合物的数据集",
-     "source": "华尔街见闻",
-     "zh": "药企CEO集体泼冷水：AI\"十年治愈癌症\"的承诺，硅谷说得出，生物学做不到"
+     "title": "永远记住，和周围人搞好关系，不需要请客吃饭、讨好取悦，你只需要……",
+     "link": "http://www.eeo.com.cn/2026/1105/1083133.shtml",
+     "pubDate": "Thu, 05 Nov 2026 08:27:01 +0800",
+     "summary": "在咨询中，我经常听到这样的困惑：“为什么我对别人那么好，他们却离我越来越远？” 在他们看来，人际关系是靠“付出”维系的。你请我一顿，我回你一餐；你送我一份礼，我还你一个人情。似乎只要不断地“给”，关系就能牢固。 但事实并非如此。那些靠讨好和请客换来的关系，往往是最脆弱的。一旦你停止付出，关系就会迅速冷却。因为你...",
+     "source": "经济观察网",
+     "zh": "永远记住，和周围人搞好关系，不需要请客吃饭、讨好取悦，你只需要……"
     },
     {
      "title": "Most Brits not ready to let AI manage their money",
@@ -2480,38 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict",
      "source": "Financial Times",
      "zh": "Vance blames Iran war for crushing Republican midterms defeat"
-    },
-    {
-     "title": "US stocks post best day since August after Democrats sweep midterms",
-     "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 21:33:37 GMT",
-     "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
-     "source": "Financial Times",
-     "zh": "US stocks post best day since August after Democrats sweep midterms"
-    },
-    {
-     "title": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
-     "link": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
-     "pubDate": "Wed, 04 Nov 2026 20:53:19 GMT",
-     "summary": "In control of Congress, Democrats are preparing to pursue legislation to address affordability, while also trying to rein-in President Donald Trump",
-     "source": "CNBC",
-     "zh": "Democrats map out an agenda to address affordability and corruption after midterm sweep"
-    },
-    {
-     "title": "How Democrats pulled off the blue wave in maps and charts",
-     "link": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 19:12:33 GMT",
-     "summary": "Party on track for largest swing in their favour in House elections in more than 75 years",
-     "source": "Financial Times",
-     "zh": "How Democrats pulled off the blue wave in maps and charts"
-    },
-    {
-     "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
-     "pubDate": "Wed, 04 Nov 2026 11:28:00 -0500",
-     "summary": "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility…",
-     "source": "SEC",
-     "zh": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers"
     }
    ]
   },

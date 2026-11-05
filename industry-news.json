@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/5 16:51:58",
+ "generated_at": "2026/11/5 17:04:12",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model. The post Together AI Releases Together Compiler: Agents Make Inference Up to 2",
      "source": "MarkTechPost",
      "zh": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster"
+    },
+    {
+     "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+     "link": "https://www.qbitai.com/2026/11/507787.html",
+     "pubDate": "Thu, 05 Nov 2026 07:15:13 +0000",
+     "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+     "source": "量子位",
+     "zh": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA"
     },
     {
      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
@@ -151,14 +159,6 @@
      "summary": "被轰成筛子了…",
      "source": "量子位",
      "zh": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的"
-    },
-    {
-     "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
-     "link": "https://www.qbitai.com/2026/11/507688.html",
-     "pubDate": "Thu, 05 Nov 2026 01:42:43 +0000",
-     "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
-     "source": "量子位",
-     "zh": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》"
     },
     {
      "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "SOCAR Bets $1.65 Billion on U.S. Shale Gas Boom",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/SOCAR-Bets-165-Billion-on-US-Shale-Gas-Boom.html",
+     "pubDate": "Thu, 05 Nov 2026 03:00:00 -0600",
+     "summary": "Azerbaijan’s state oil and gas company SOCAR has struck a deal with Comstock to acquire some of its assets in the Haynesville shale and an infrastructure subsidiary. The price tag of the deal is $1.65 billion. The purchase includes a 20% stake in Comstock’s legacy Haynesville assets, a 15% stake in ",
+     "source": "OilPrice",
+     "zh": "SOCAR Bets $1.65 Billion on U.S. Shale Gas Boom"
+    },
+    {
      "title": "Spain approves methodologies to strengthen electricity system cybersecurity",
      "link": "https://www.pv-magazine.com/2026/11/05/spain-approves-methodologies-to-strengthen-electricity-system-cybersecurity/",
      "pubDate": "Thu, 05 Nov 2026 08:03:56 +0000",
@@ -983,14 +991,6 @@
      "summary": "The top story from Tuesday’s elections is clear: Democrats won big-time on the national level, dominating U.S. Senate and House races across the country. And on the state level, clean energy could get a jolt from Democratic wins for state offices and utility commissions and new approved ballot measu",
      "source": "Canary Media",
      "zh": "Top clean energy wins from the midterm elections"
-    },
-    {
-     "title": "Can Cheap Batteries Deliver COP31’s 35% Electrification Goal?",
-     "link": "https://oilprice.com/Energy/Energy-General/Can-Cheap-Batteries-Deliver-COP31s-35-Electrification-Goal.html",
-     "pubDate": "Wed, 04 Nov 2026 16:00:00 -0600",
-     "summary": "Electrification will be the major focus of the upcoming COP31 United Nations climate conference, to be held in Antalya, Türkiye, from November 9 to 20, 2026. The host country will invite the attending nations to sign onto a voluntary pledge to reach 35 percent electrification on a global level by 20",
-     "source": "OilPrice",
-     "zh": "Can Cheap Batteries Deliver COP31’s 35% Electrification Goal?"
     },
     {
      "title": "Nabrawind’s Crane-Free Wind Towers Face a Supplier Test",
@@ -1169,12 +1169,12 @@
      "zh": "Rethinking the Clone-First Paradigm for First-in-Human Biologics"
     },
     {
-     "title": "Kamau shares first data from revamped sickle cell gene editing therapy",
+     "title": "#ASH26: Kamau shares first data from revamped sickle cell gene editing therapy",
      "link": "https://endpoints.news/kamau-shares-first-data-from-revamped-sickle-cell-gene-editing-therapy/",
      "pubDate": "Wed, 04 Nov 2026 20:05:28 +0000",
      "summary": "Kamau Therapeutics, which has stayed relatively quiet since its 2023 emergence, is sharing clinical data from its revamped sickle cell gene editing program for the first time. The startup is giving a ...",
      "source": "Endpoints News",
-     "zh": "Kamau shares first data from revamped sickle cell gene editing therapy"
+     "zh": "#ASH26: Kamau shares first data from revamped sickle cell gene editing therapy"
     },
     {
      "title": "STAT+: Mass. marijuana consumers, workers high on victory after repeal of recreational weed sales fails in a rout",
@@ -1753,12 +1753,52 @@
    "total": 18,
    "items": [
     {
-     "title": "首款鸿蒙台式机华为擎云 HM650 系列发布：搭载麒麟 X90 桌面处理器，实现 100% 国产化率",
-     "link": "https://www.ithome.com/1/022/834.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:44:44 GMT",
-     "summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱懂东正式发布了 首款鸿蒙台式机 —— 华为擎云 HM650 系列 。 据介绍，华为擎云 HM650 系列搭载鸿蒙电脑企业版 + 麒麟 X90 高性能桌面处理器。 灵犀 CPU 10 核 20 线程，支持智能超线程调度 ；马良 GPU 支持 GPU 硬件加速；达芬奇架构 NPU 本地算力支持多尺寸模型入端。 华为擎云 HM650 系列预装鸿蒙 HarmonyOS 系统， 支持 HyperSpace Memory 超空间内存技术 ，内存压缩效率提升 50%、大文件打开数量提升 4",
+     "title": "AOC 5K 180Hz 双模显示器 AGP277KXM 上市：峰值 1600nits，到手价 5998.5 元",
+     "link": "https://www.ithome.com/1/022/860.htm",
+     "pubDate": "Thu, 05 Nov 2026 08:59:14 GMT",
+     "summary": "IT之家 11 月 5 日消息，AOC 本月 3 日在电商平台上架了爱攻 AGON 擎天 Ultra AGP277KXM 显示器。 这款到手价 5998.5 元的产品基于 27\" Fast IPS 面板， 搭载 2304 分区 Mini LED 背光 ，应用 QD 量子点技术，支持 5120×2880 180Hz 及 2560×1440 360Hz 模式。 京东 AOC AGP277KXM 显示器 券后 5998.5 元 领 500 元券 AGP277KXM 获得 VESA DisplayHDR 1400 认证， HDR 峰值亮度可达 1600nits ，静态对比度 1500:1；色域 98%",
      "source": "IT之家",
-     "zh": "首款鸿蒙台式机华为擎云 HM650 系列发布：搭载麒麟 X90 桌面处理器，实现 100% 国产化率"
+     "zh": "AOC 5K 180Hz 双模显示器 AGP277KXM 上市：峰值 1600nits，到手价 5998.5 元"
+    },
+    {
+     "title": "近一个月来，韩国共有 37 家金融公司遭入侵、超 47 万条信息泄露",
+     "link": "https://www.ithome.com/1/022/859.htm",
+     "pubDate": "Thu, 05 Nov 2026 08:58:53 GMT",
+     "summary": "IT之家 11 月 5 日消息，据韩联社报道，近一个月来，韩国共有 37 家金融公司遭到黑客入侵，约有 47.3 万条信息泄露，资金被盗规模约为 10 亿韩元 （IT之家注：现汇率约合 497.3 万元人民币） 。 韩国金融委员会委员长李亿远 5 日以“人工智能时代，安全体系创新”为主题，主持召开座谈会，检查近期金融公司信息泄露情况。 韩国金融部门于 9 月 30 日首次确认发生信息泄露事件，之后至本月 3 日共接到 37 家公司 40 起信息泄露事故举报。涉事公司包括 4 家银行、5 家金融投资公司、3 家保险公司、5 家储蓄银行、2 家贷款公司、4 家在线投资金融公司、10 家电子金融公司",
+     "source": "IT之家",
+     "zh": "近一个月来，韩国共有 37 家金融公司遭入侵、超 47 万条信息泄露"
+    },
+    {
+     "title": "NASA 阿尔忒弥斯二号发射“击穿”电离层，引发 GPS 定位扰动",
+     "link": "https://www.ithome.com/1/022/853.htm",
+     "pubDate": "Thu, 05 Nov 2026 08:54:58 GMT",
+     "summary": "IT之家 11 月 5 日消息，一项最新研究发现，NASA 于 2026 年 4 月发射的阿尔忒弥斯 2 号（Artemis II）载人绕月任务，对地球电离层造成了显著扰动，可能引发局部地区短暂的 GPS 定位误差。 IT之家注意到，这项研究由中国台湾成功大学（National Cheng Kung University）的一组研究人员完成。研究团队分析了多个高精度地面固定式 GPS 接收站网络的数据。这些接收站被美国科研机构用于监测地震发生前地球构造板块的微小位移。通过测量 GPS 信号从太空传输至地面接收站所需的时间，研究人员得以还原阿尔忒弥斯 2 号任务中的太空发射系统（SLS）火箭飞过",
+     "source": "IT之家",
+     "zh": "NASA 阿尔忒弥斯二号发射“击穿”电离层，引发 GPS 定位扰动"
+    },
+    {
+     "title": "欧盟拟放宽 2035 年汽车减排目标，燃油车禁售政策进一步松动",
+     "link": "https://www.ithome.com/1/022/850.htm",
+     "pubDate": "Thu, 05 Nov 2026 08:52:11 GMT",
+     "summary": "IT之家 11 月 5 日消息，当地时间周三（4 日），欧洲议会（欧盟监督、咨询和立法机构）环境委员会表决通过了一项立法提案，拟修订新乘用车和轻型商用车的二氧化碳（CO₂）减排目标，并对欧盟境内生产的清洁能源汽车提供激励措施。 该法规草案以 48 票赞成、30 票反对、2 票弃权获得通过 ，是推动欧洲汽车行业兼具清洁化与竞争力的更广泛一揽子方案的一部分。 欧洲议会预计将于 2026 年 12 月的全体会议上进行表决 ，以正式确立与欧盟各成员国政府展开最终立法谈判的授权。 在乘用车方面，欧洲议会议员拟将 2035 年新车车队平均 CO₂ 减排目标由 100% 下调至 87.5%。车企可通过使用欧",
+     "source": "IT之家",
+     "zh": "欧盟拟放宽 2035 年汽车减排目标，燃油车禁售政策进一步松动"
+    },
+    {
+     "title": "中国城市，正在进入“修补时代”",
+     "link": "https://www.huxiu.com/article/4903273.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 16:51:57 +0800",
+     "summary": "本文来自微信公众号： 星海情报局 ，作者：星海老局 在过去的二十年时间里，中国几乎所有城市都在做同一件事：对外扩张。 城市的环路一圈一圈向外挺进，城市人口也在快速增长，在二十年的时间里，许多城市的建成区域和人口都在翻倍。 这就是所谓的“增量发展时代”，城市规模和市场一起快速成长，短时间内催生出了无数新的需求、新的岗位、新的机会。 但现在，这股浪潮正在以肉眼可见的速度衰减，城市化率已经来到了接近70%的水平，人口大规模集中的高峰期已经一去不复返了。 更重要的是，随着城市化的减速，随着人们扎根在城市里，城市的不完美之处开始深刻影响每个人每一天的日常生活。由于绝大多数中国人如今都已经生活在了城市之中",
+     "source": "虎嗅",
+     "zh": "中国城市，正在进入“修补时代”"
+    },
+    {
+     "title": "奥之心曾考虑生产全画幅数码相机，最终决定先将 M4/3 做到极致",
+     "link": "https://www.ithome.com/1/022/848.htm",
+     "pubDate": "Thu, 05 Nov 2026 08:51:16 GMT",
+     "summary": "IT之家 11 月 5 日消息，奥之心上周（10 月 29 日）放出了一段访谈视频，其中首席运营官片冈摄哉、奥之心事业部负责人城田英二谈到公司为何只做 M4/3 数码相机。 据悉，奥之心曾认真考虑过进军 APS-C 或全画幅数码相机市场，但最终决定放弃。多年来，开发大尺寸传感器相机的提案曾多次在公司内部出现。片冈摄哉表示，他们从奥林巴斯剥离后，确实认真考虑过这些想法。 不过最终他们决定先把现有产品做到极致，再寻求其他发展方向。奥之心管理层也认为， 转换传感器规格不符合公司使命 ，即打造紧凑、轻便且具备高移动性的摄影系统。 IT之家附本次访谈主要内容如下： M4/3 系统仍是公司的战略重点。奥之",
+     "source": "IT之家",
+     "zh": "奥之心曾考虑生产全画幅数码相机，最终决定先将 M4/3 做到极致"
     },
     {
      "title": "延安大学副教授离世：考核压力为何让高校教师涌向“横向课题”？",
@@ -1769,20 +1809,12 @@
      "zh": "延安大学副教授离世：考核压力为何让高校教师涌向“横向课题”？"
     },
     {
-     "title": "飞利浦 31.5 英寸 4K 75Hz / FHD 300Hz 双模显示器 32E3N5901RW 开售，到手价 1849 元",
-     "link": "https://www.ithome.com/1/022/816.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:37:05 GMT",
-     "summary": "IT之家 11 月 5 日消息，飞利浦 32E3N5901RW 显示器现已开售，定价为 1999 元， 到手价 1849 元 。 该显示器采用 31.5 英寸 IPS 面板，标准对比度 1200:1，可在 4K 75Hz 与 FHD 300Hz 之间切换；搭载飞利浦与京东方联合定制研发的舒视蓝 4.0 技术，整合圆偏光技术、硬件滤蓝光与 DC 调光不闪屏；通过 VESA DisplayHDR 400 认证，HDR 峰值亮度达 450nits，典型亮度 350nits。 该显示器色域覆盖 98.4% DCI-P3、100% sRGB、94.7% Adobe RGB，并支持 Display P3、",
+     "title": "英特尔发布 32.0.101.9175 Game On 显卡驱动：支持《魔兽世界：无限》",
+     "link": "https://www.ithome.com/1/022/819.htm",
+     "pubDate": "Thu, 05 Nov 2026 08:39:47 GMT",
+     "summary": "IT之家 11 月 5 日消息，英特尔 Graphics Software 32.0.101.9175 显卡驱动（适用于 Arc）今日发布，这是一款 Non-WHQL 驱动包，支持锐炫 A、B 系列独显，以及搭载锐炫核显的第 1~3 代酷睿 Ultra 处理器。 IT之家附官方公告链接： https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html 新游戏支持与性能优化 新增 Game On 驱动支持：《 足球经理 27 》《 影之刃零 》《 魔兽世界：无限 》，覆盖锐炫 A、B ",
      "source": "IT之家",
-     "zh": "飞利浦 31.5 英寸 4K 75Hz / FHD 300Hz 双模显示器 32E3N5901RW 开售，到手价 1849 元"
-    },
-    {
-     "title": "特斯拉得州超级工厂被曝增设夜班，实现全天候生产",
-     "link": "https://www.ithome.com/1/022/814.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:36:39 GMT",
-     "summary": "IT之家 11 月 5 日消息，特斯拉得州超级工厂（Gigafactory Texas）可能很快将进入全天候生产状态。长期以来一直通过无人机航拍记录该工厂建设进展的飞手乔 · 特格特迈耶（Joe Tegtmeyer）在最新一期得州超级工厂动态视频中透露，特斯拉正通过增设夜班，将奥斯汀工厂的产能提升一倍。 特格特迈耶在工厂外介绍称，此次调整意味着生产线将在夜间继续运转。同一期视频中的无人机画面显示，得州超级工厂的车辆交付区停满了一排排金色 Cybercab 无人驾驶出租车，等待驶出工厂。 不过，特斯拉尚未确认这一调整，也没有说明新增产能将用于生产哪些车型。 据特格特迈耶透露，得州超级工厂计划采用",
-     "source": "IT之家",
-     "zh": "特斯拉得州超级工厂被曝增设夜班，实现全天候生产"
+     "zh": "英特尔发布 32.0.101.9175 Game On 显卡驱动：支持《魔兽世界：无限》"
     },
     {
      "title": "《后会友期》爆火，“中国鸭王”撞大运了",
@@ -1801,28 +1833,12 @@
      "zh": "特朗普等来一架坠机，没等来红脖子翻盘，中期选举两院全输"
     },
     {
-     "title": "AOC U32G5D 显示器上市：31.5\" UHD 180Hz OLED，券后 3498.3 元",
-     "link": "https://www.ithome.com/1/022/803.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:26:49 GMT",
-     "summary": "IT之家 11 月 5 日消息，AOC 现已在电商平台销售 U32G5D 显示器。其采用 31.5\" QD-OLED Penta Tandem 面板，覆盖 AR 防反射涂层，拥有 UHD 分辨率、180Hz 刷新率，到手价 3,498.3 元。 京东 AOC U32G5D 显示器 券后 3498.3 元 领 300 元券 U32G5D 符合 VESA DisplayHDR True Black 400 规范 ，具备 250nits 的 SDR APL 100% 亮度和 450nits 的 HDR APL 10% 亮度；色域 100% sRGB / 99% DCI-P3，sRGB 下色偏 ΔE＜",
-     "source": "IT之家",
-     "zh": "AOC U32G5D 显示器上市：31.5\" UHD 180Hz OLED，券后 3498.3 元"
-    },
-    {
-     "title": "联想杨元庆：向全球 PC 市占率 30% 目标迈进",
-     "link": "https://www.ithome.com/1/022/802.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:25:18 GMT",
-     "summary": "IT之家 11 月 5 日消息，据第一财经日报报道，在今日的联想全球行业分析师大会（GIAC）上，联想集团董事长兼 CEO 杨元庆表示， 联想正朝着全球 PC 市场份额 30% 的长期目标迈进 。 目前全球 PC 市场正面临供应紧张和价格上涨等压力。杨元庆表示 PC 出货量短期内可能面临压力，但单机收入正在提高，有助于抵消出货量下降的影响。 据 IDC 最新数据， 2026 年第三季度联想集团 PC 出货量为 1490 万台 ， 市场份额 23.8% 行业第一 ，但出货量同比下降 22.6%；惠普出货 1030 万台，同比下降 30.9%；戴尔科技出货 760 万台，同比下降 25.0%。IT",
-     "source": "IT之家",
-     "zh": "联想杨元庆：向全球 PC 市占率 30% 目标迈进"
-    },
-    {
-     "title": "特斯拉已停产的 Model S 外观设计专利获批，保护期至 2041 年",
-     "link": "https://www.ithome.com/1/022/793.htm",
-     "pubDate": "Thu, 05 Nov 2026 08:22:14 GMT",
-     "summary": "IT之家 11 月 5 日消息，特斯拉 Model S 虽然已经停产，但特斯拉仍在努力确保其他汽车制造商无法随意抄袭其外观。美国专利商标局近日向特斯拉授予了一项名为“汽车车身”的外观设计专利，其设计与最新款 Model S 高度吻合，而此时距离这款轿车停产已经过去数月。 这项专利编号为 US-D1156251-S，于当地时间 11 月 3 日正式获批。专利文件虽然没有直接提及 Model S，但其中的设计图已经清楚地表明了对应车型。 专利保护哪些设计？ 专利文件中的图纸展示了汽车的各个角度，包括前部、后部、左右两侧、顶部、底部，以及多个三维视图。 这些图纸呈现了 Model S 标志性的溜背式",
-     "source": "IT之家",
-     "zh": "特斯拉已停产的 Model S 外观设计专利获批，保护期至 2041 年"
+     "title": "富钾盐替换普通盐有助于每年预防数百万人死亡",
+     "link": "https://www.solidot.org/story?sid=85803",
+     "pubDate": "Thu, 05 Nov 2026 16:26:30 +0800",
+     "summary": "澳大利亚乔治全球健康研究院的研究人员评估了在 193 个国家将食盐供应转换为富钾盐的健康益处。他们发现，全球每年可预防近 300 万例死亡和 1000 万例心血管疾病和肾脏疾病新发病例。富钾盐是通过用氯化钾替代部分氯化钠（即普通食盐的主要成分）制成的。它在外观、味道和烹饪方式上都与普通食盐一样。2025 年世界卫生组织（WHO）认可使用富钾盐来降低血压和心血管疾病风险。全球范围内，30-79 岁成年人中有三分之一患有高血压，相当于约 14 亿人。心血管疾病（CVD）是全球死亡和残疾的主要原因，2023 年导致 1920 万人死亡，过去 30 年增加了近 50%。虽然潜在益处很大，但一个担忧是晚",
+     "source": "Solidot",
+     "zh": "富钾盐替换普通盐有助于每年预防数百万人死亡"
     },
     {
      "title": "张雪机车给重庆大学应届生10万起薪，算傲慢吗？",
@@ -1839,14 +1855,6 @@
      "summary": "本文来自微信公众号： 闻旅 ，作者：柳知，编辑：吴艳蕊 1 一位西班牙旅行博主，给中国旅游城市分了分类，帖子收获了141万次浏览。 北上广深加上三亚是博主不推荐的城市。在博主的描述里，北京是宏大而拥挤的皇城，上海代表摩天大楼里的中国，深圳是未来感压过了过去，广州庞大得让人难以一下消化，三亚则更接近海岛度假。 博主认为值得值得一去的中国宝藏城市有苏州、西安、成都、桂林和丽江。可以看园林、读历史、感受城市性格、欣赏山水，再去看看世界文化遗产。 评论区有网友说，只听过北京和上海，其他地方从来没听过。博主回复说，这太常见了。同时，这也是其想做这条帖子的原因。 旅游宣传总是反复推固定路线，但走出北京、上",
      "source": "虎嗅",
      "zh": "老外的中国旅行清单，给入境游出了新考题"
-    },
-    {
-     "title": "特朗普惨败，3大变化值得关注",
-     "link": "https://www.huxiu.com/article/4903260.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 16:09:26 +0800",
-     "summary": "本文来自微信公众号： 正和岛 ，作者：正风，原文标题：《特朗普惨败，3大变化值得关注！》 没有意外发生，民主党拿下参众两院已成定局。 据新华社报道，多家美国主流媒体预测，美国民主党在3日举行的中期选举中大获全胜，重新夺回国会参议院和众议院掌控权。 这意味着，特朗普虽然还在白宫，但国会两院将同时由民主党掌控，一个“分裂政府”的格局基本形成。 从特朗普的表态来看，他的回应很直接： “我向民主党人表示祝贺，并期待与你们合作，为我们国家的利益而努力。”但紧接着又补了一句，他拥有完全的否决权。此前他还说过，欢迎外界叫他“否决先生”，认为行使否决权能逼民主党让步。 不得不说，这样的回复的确很符合特朗普。 ",
-     "source": "虎嗅",
-     "zh": "特朗普惨败，3大变化值得关注"
     },
     {
      "title": "五粮液续约博鳌，将担任2027年年会战略合作伙伴",
@@ -1953,12 +1961,28 @@
      "zh": "Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)"
     },
     {
-     "title": "Zoro Coupon Codes: 20% Off November 2026",
-     "link": "https://www.wired.com/story/zoro-promo-code/",
+     "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
+     "link": "https://www.wired.com/story/ray-ban-promo-code/",
      "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in November 2026.",
+     "summary": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
      "source": "WIRED",
-     "zh": "Zoro Coupon Codes: 20% Off November 2026"
+     "zh": "Ray-Ban Promo Codes: Save 50% in November 2026"
+    },
+    {
+     "title": "Meta Quest Promo Codes and Coupons for November 2026",
+     "link": "https://www.wired.com/story/meta-quest-promo-code/",
+     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
+     "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+     "source": "WIRED",
+     "zh": "Meta Quest Promo Codes and Coupons for November 2026"
+    },
+    {
+     "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
+     "link": "https://www.wired.com/story/nomad-discount-code/",
+     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
+     "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
+     "source": "WIRED",
+     "zh": "Nomad Goods Promo Codes: Get 25% Off in November 2026"
     },
     {
      "title": "B&H Photo Promo Codes and Deals This November 2026",
@@ -1967,30 +1991,6 @@
      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
      "source": "WIRED",
      "zh": "B&H Photo Promo Codes and Deals This November 2026"
-    },
-    {
-     "title": "Booking.com Promo Codes: 20% Off | November 2026",
-     "link": "https://www.wired.com/story/booking-com-promo-code/",
-     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-     "source": "WIRED",
-     "zh": "Booking.com Promo Codes: 20% Off | November 2026"
-    },
-    {
-     "title": "Corsair Discount Code: Up to 50% Off for November 2026",
-     "link": "https://www.wired.com/story/corsair-coupon/",
-     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
-     "source": "WIRED",
-     "zh": "Corsair Discount Code: Up to 50% Off for November 2026"
-    },
-    {
-     "title": "Udemy Coupon Codes: 20% Off November 2026",
-     "link": "https://www.wired.com/story/udemy-promo-code/",
-     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
-     "source": "WIRED",
-     "zh": "Udemy Coupon Codes: 20% Off November 2026"
     }
    ]
   },
@@ -2000,6 +2000,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "You can now play Switch 2 games on Android via emulators and native ports",
+     "link": "https://www.androidauthority.com/nintendo-switch-2-emulators-ports-android-3731890/",
+     "pubDate": "Thu, 05 Nov 2026 08:57:38 +0000",
+     "summary": "It's early days, but Switch 2 emulation and native ports show a lot of promise.",
+     "source": "Android Authority",
+     "zh": "You can now play Switch 2 games on Android via emulators and native ports"
+    },
+    {
+     "title": "One UI 9 is breaking Wi-Fi, mobile data, and even SIM detection for some Galaxy users",
+     "link": "https://www.androidauthority.com/one-ui-9-wi-fi-mobile-data-sim-issues-galaxy-users-3731894/",
+     "pubDate": "Thu, 05 Nov 2026 08:56:34 +0000",
+     "summary": "Stable One UI 9 may not be that stable after all.",
+     "source": "Android Authority",
+     "zh": "One UI 9 is breaking Wi-Fi, mobile data, and even SIM detection for some Galaxy users"
+    },
     {
      "title": "WhatsApp for Android could soon let you read messages secretly without sending blue ticks",
      "link": "https://www.androidauthority.com/whatsapp-peek-chat-previews-android-apk-teardown-3731903/",
@@ -2063,14 +2079,6 @@
      "summary": "Back in the summer, Samsung's Hearing Aid feature for the Galaxy Buds got cleared by the FDA in the US. Today, the company announced that its Hearing Test and Hearing Aid features have also received medical device approval in South Korea, from the country's Ministry of Food and Drug Safety (MFDS). B",
      "source": "GSMArena",
      "zh": "Samsung Galaxy Buds4 Pro and Buds3 Pro will soon work as hearing aids"
-    },
-    {
-     "title": "Hackers used Chrome and Snapdragon GPU flaws to hack Android phones",
-     "link": "https://www.androidauthority.com/hackers-chrome-snapdragon-gpu-flaws-android-zero-click-3731860/",
-     "pubDate": "Thu, 05 Nov 2026 05:36:04 +0000",
-     "summary": "A nasty Chrome bug let hackers break into Android phones without a tap.",
-     "source": "Android Authority",
-     "zh": "Hackers used Chrome and Snapdragon GPU flaws to hack Android phones"
     },
     {
      "title": "Redmi Turbo 6 Max's battery capacity leaks, and it's huge",
@@ -2161,14 +2169,6 @@
      "zh": "Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show"
     },
     {
-     "title": "Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series",
-     "link": "https://www.androidauthority.com/galaxy-s26-one-ui-9-5-beta-in-testing-3731840/",
-     "pubDate": "Wed, 04 Nov 2026 21:58:04 +0000",
-     "summary": "The One UI 9.5 beta program inches a step closer for the Galaxy S26 Ultra.",
-     "source": "Android Authority",
-     "zh": "Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series"
-    },
-    {
      "title": "Apple Photos keeps getting better, here’s what’s new in iOS 27",
      "link": "https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27/",
      "pubDate": "Wed, 04 Nov 2026 20:47:18 +0000",
@@ -2249,12 +2249,28 @@
    "total": 13,
    "items": [
     {
-     "title": "Nvidia Partner Hon Hai expects AI momentum to drive Q4 growth after 46% sales jump",
+     "title": "Matson expects Q4 2026 operating income about 50% higher amid elevated China freight rates into early 2027",
+     "link": "https://seekingalpha.com/news/4666296-matson-expects-q4-2026-operating-income-about-50-percent-higher-amid-elevated-china-freight?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 03:55:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Matson expects Q4 2026 operating income about 50% higher amid elevated China freight rates into early 2027"
+    },
+    {
+     "title": "Trump-Putin diesel deal at risk as U.S.-bound tankers said to change course",
+     "link": "https://seekingalpha.com/news/4666234-trump-putin-diesel-deal-at-risk-as-us-bound-tankers-change-course?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 03:52:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump-Putin diesel deal at risk as U.S.-bound tankers said to change course"
+    },
+    {
+     "title": "Nvidia partner Foxconn expects AI momentum to drive Q4 growth after 46% sales jump",
      "link": "https://seekingalpha.com/news/4666256-nvidia-partner-hon-hai-expects-ai-momentum-to-drive-q4-growth-after-46-sales-jump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 05 Nov 2026 03:48:12 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Nvidia Partner Hon Hai expects AI momentum to drive Q4 growth after 46% sales jump"
+     "zh": "Nvidia partner Foxconn expects AI momentum to drive Q4 growth after 46% sales jump"
     },
     {
      "title": "Macerich expects to close an off-market acquisition by year-end with a 9% to 11% stabilized yield",
@@ -2265,28 +2281,12 @@
      "zh": "Macerich expects to close an off-market acquisition by year-end with a 9% to 11% stabilized yield"
     },
     {
-     "title": "图解财报：华虹宏力前三季归母净利润16.03亿元，同比增长138.23%",
-     "link": "http://stock.eastmoney.com/news/11802,202611053923545589.html",
-     "pubDate": "Thu, 05 Nov 2026 16:43:35 +0800",
-     "summary": "华虹宏力 11月6日发布2026年 三季报显示，公司前三季 实现营业总收入186.11亿元 ，同比增长14.06% ；归母净利润16.03亿元 ，同比增长138.23% ；扣非归母净利润9.32亿元 ，同比增长325.22% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：华虹宏力前三季归母净利润16.03亿元，同比增长138.23%"
-    },
-    {
-     "title": "盛和资源：截至10月20日最新股东户数22.73万户，较上期减少2.12%",
-     "link": "http://stock.eastmoney.com/news/11111,202611053923545356.html",
-     "pubDate": "Thu, 05 Nov 2026 16:42:33 +0800",
-     "summary": "盛和资源 最新披露数据显示，截至10月20日公司股东户数为22.73万户，较上期(2026年9月30日) 减少4912户，降幅为2.12% 。户均持有流通股数量 由上期的7548股上升至7712股， 户均持股金额 由上期的15.23万元减少至12.85万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
-     "source": "东方财富股票",
-     "zh": "盛和资源：截至10月20日最新股东户数22.73万户，较上期减少2.12%"
-    },
-    {
-     "title": "华夏基金李一梅：公募基金发展正聚焦“坚守本源、全球布局与AI赋能”",
-     "link": "http://stock.eastmoney.com/news/1426,202611053923545698.html",
-     "pubDate": "Thu, 05 Nov 2026 16:42:09 +0800",
-     "summary": "11月5日，在《每日经济新闻》主办的“2026资本市场高质量发展大会”上，华夏基金总经理李一梅表示，当前公募基金行业正呈现三大重要趋势：一是坚守本源，行业始终以提升投资者收益与体验为核心，坚守受托责任。当前降费让利、以基准为核心投资、完善考核等举措，均旨在回归资管本源；二是走向国际化，行业投资方向与经营拓展日益全球化，跨境投资与产品创设将成未来十年发展重心；三是AI带来深刻变革，行业需善用AI工具而非被其主宰，借科技之力为投资者创造更好收益。 在此背景下，华夏基金推出投研5.0版本，以“平台化、国际化、生态化”升级投研体系，将个体优势转化为体系能力。其中，平台化旨在沉淀体系能力、突破个体边界，",
-     "source": "东方财富股票",
-     "zh": "华夏基金李一梅：公募基金发展正聚焦“坚守本源、全球布局与AI赋能”"
+     "title": "华虹宏力：第三季度净利润同比增长136% Q3净利润环比增长364%",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923546439.html",
+     "pubDate": "Thu, 05 Nov 2026 16:41:34 +0800",
+     "summary": "华虹宏力 (688347.SH)公告称，前三季度实现营业收入186.11亿元，同比增长14.06%；归属于上市公司股东的净利润16.03亿元，同比增长138.23%。第三季度实现营业收入67.06亿元，同比增长13.95%；归属于上市公司股东的净利润8.35亿元，同比增长136.14%。业绩变动主要系晶圆平均销售单价提升及晶圆销售数量上升使得毛利大幅上升所致。 注：公司Q3净利润12.04亿，Q2净利润2.59亿，据此计算，Q3净利润环比增长364%。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "华虹宏力：第三季度净利润同比增长136% Q3净利润环比增长364%"
     },
     {
      "title": "United Microelectronics October revenue rises 18.3% Y/Y",
@@ -2295,30 +2295,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "United Microelectronics October revenue rises 18.3% Y/Y"
-    },
-    {
-     "title": "【调研快报】永安期货接待线上参与永安期货(600927)2026年第三季度业绩说明会的全体投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611053923542165.html",
-     "pubDate": "Thu, 05 Nov 2026 16:38:30 +0800",
-     "summary": "永安期货 11月5日公告称， 11月5日 接待线上参与 永安期货 (600927)2026年第三季度业绩说明会的全体投资者 调研。 接待人员包括董事(代行董事长职责)、总经理 马志伟,副总经理、董事会秘书、财务总监 黄峥嵘,独立董事 朱燕建。 公司就以下问题进行了回复： 1.请问公司2026年三季度经营情况如何? 答:尊敬的投资者,您好。公司前三季度累计实现营业收入14.45亿元,同比增长6.54%;归母净利润6.01亿元,同比增长23.18%,经营业绩稳步提升。分季度来看,第三季度公司实现营业收入6.83亿元,环比增长110.28%;归母净利润2.99亿元,环比增... 点击查看PDF原文 ",
-     "source": "东方财富股票",
-     "zh": "【调研快报】永安期货接待线上参与永安期货(600927)2026年第三季度业绩说明会的全体投资者调研"
-    },
-    {
-     "title": "平安证券李谦：深耕跨境业务，四措并举助力资本市场高质量发展",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923542284.html",
-     "pubDate": "Thu, 05 Nov 2026 16:38:09 +0800",
-     "summary": "11月5日，在《每日经济新闻》主办的“2026资本市场高质量发展大会”上，平安证券执行委员会委员、总经理李谦表示，“十五五”开局之年对外开放持续深化，作为扎根粤港澳大湾区的本土券商，平安证券将把跨境业务作为功能性业务，打通境内境外双向通道，从四方面发力，助力资本市场制度型开放与高质量发展。 李谦认为，资本市场高质量发展落脚于服务实体、畅通资本循环、实现制度国际互认，对外开放是贯穿始终的底色。平安证券依托“境内客户网络+境外香港子公司+集团 综合 金融”三位一体协同布局，香港子公司持有全业务牌照。李谦提出，券商做好跨境业务要抓好四项工作。一是做实服务实体，紧跟企业出海需求，为企业统筹境内外股权、",
-     "source": "东方财富股票",
-     "zh": "平安证券李谦：深耕跨境业务，四措并举助力资本市场高质量发展"
-    },
-    {
-     "title": "市值研究｜达瑞电子（300976）：产业并购驱动价值重估，以“小步快跑”模式锻造精密制造平台价值管理标杆",
-     "link": "http://stock.eastmoney.com/news/11215,202611053923544892.html",
-     "pubDate": "Thu, 05 Nov 2026 16:38:02 +0800",
-     "summary": "本案例出自由中国财富研究院市值管理研究中心与国新证券股份有限公司联合编撰的《中国A股上市公司市值管理研究报告（2026）》第四篇“市值管理实践案例”。 达瑞电子 （300976.SZ）2021年登陆创业板后，并未止步于单一 消费电子 结构件的舒适区，而是以“内生增长+外延并购+股东回报+投资者沟通”四大支柱构建系统化价值管理体系。四年内，公司通过“小步快跑”式产业并购三次精准落子——5,300万元切入 新能源 、1.64亿元卡位 碳纤维 轻量化、7,000万元进军AI热管理——完成从 消费电子 供应商向“ 消费电子 + 新能源 +轻量化复合材料+AI热管理”多赛道精密制造平台的战略跃迁。 与此",
-     "source": "东方财富股票",
-     "zh": "市值研究｜达瑞电子（300976）：产业并购驱动价值重估，以“小步快跑”模式锻造精密制造平台价值管理标杆"
     },
     {
      "title": "机构调研丨光伏概念+新材料 这家公司20cm两连板 铜浆产品已在多个光伏电池客户端完成可靠性验证",
@@ -2337,20 +2313,12 @@
      "zh": "Clene GAAP EPS of $0.05 beats by $0.48, revenue of $0.06M misses by $0.01M"
     },
     {
-     "title": "RYTHM GAAP EPS of -$0.07, revenue of $23.86M",
-     "link": "https://seekingalpha.com/news/4666257-rythm-gaap-eps-of--007-revenue-of-2386m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:31:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RYTHM GAAP EPS of -$0.07, revenue of $23.86M"
-    },
-    {
-     "title": "Lifecore Biomedical GAAP EPS of -$1.08 misses by $0.98, revenue of $25.3M misses by $13.31M",
-     "link": "https://seekingalpha.com/news/4666255-lifecore-biomedical-gaap-eps-of--108-misses-by-098-revenue-of-253m-misses-by-1331m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:28:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lifecore Biomedical GAAP EPS of -$1.08 misses by $0.98, revenue of $25.3M misses by $13.31M"
+     "title": "AI芯片红利持续爆发！韩国9月经常账户盈余飙至历史新高",
+     "link": "http://finance.eastmoney.com/news/1352,202611053923542519.html",
+     "pubDate": "Thu, 05 Nov 2026 16:32:54 +0800",
+     "summary": "受全球 人工智能 （AI）投资热潮持续拉动韩国科技产品需求， 半导体 出口强劲推动， 韩国9月经常账户盈余飙升至 历史新高 。 这是韩国 AI芯片 红利持续爆发的最新例证。上周公布的数据显示，随着芯片制造商盈利改善推动企业税收增加，韩国9月税收收入较去年同期激增26.4万亿韩元（约合196亿美元）。 根据韩国央行（BOK）周四发布的数据， 韩国9月经常账户盈余从8月的461亿美元扩大至615亿美元 。这一数字超过了6月创下的497亿美元的前纪录，标志着月度盈余首次突破600亿美元。 商品贸易方面，韩国9月顺差达到创纪录的628亿美元，超过了6月479亿美元的前峰值。 出口额较去年同期激增92.",
+     "source": "东方财富资讯",
+     "zh": "AI芯片红利持续爆发！韩国9月经常账户盈余飙至历史新高"
     },
     {
      "title": "汉晋四百年里的士族与朋党",
@@ -2425,22 +2393,6 @@
      "zh": "培育钻石年内再度提价 散热业务仍待放量"
     },
     {
-     "title": "中方阻挠日本软银收购ABB机器人业务？外交部回应",
-     "link": "http://finance.eastmoney.com/news/1345,202611053923511123.html",
-     "pubDate": "Thu, 05 Nov 2026 16:05:58 +0800",
-     "summary": "中国外交部发言人郭嘉昆11月5日主持例行记者会。 有记者提问：据《金融时报》报道，中方已告知日本软银集团，将不允许其收购ABB旗下 机器人 业务。报道称，软银近期被告知该交易已被中国国家发改委叫停。外交部能否确认相关消息？ 郭嘉昆：这个问题建议向中方主管部门进行询问。 （文章来源：中国新闻网）",
-     "source": "东方财富资讯",
-     "zh": "中方阻挠日本软银收购ABB机器人业务？外交部回应"
-    },
-    {
-     "title": "全球平板电脑出货量创近三年季度新低 华为跌超四成苹果近三成",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923515033.html",
-     "pubDate": "Thu, 05 Nov 2026 16:05:55 +0800",
-     "summary": "新品扎堆亮相并未改变平板行业的市场颓势。 11月5日，界面新闻从市场调研机构Omdia获得的最新行业报告显示，2026年第三季度，全球平板电脑市场交出一份不容乐观的成绩单。整体出货量下滑至3219.1万台，折合3200万台，同比大幅回落23%，创下近三年以来单季出货量最低纪录。中东、中国、西欧成为受冲击最明显的区域，市场跌幅明显高于全球平均水平，行业下行压力已经扩散到多个核心消费市场。 近三年来全球平板电脑出货情况 数据来源：Omdia 对比二季度的行业表现，市场的下滑速度超出不少人的预期。2026年第二季度全球平板出货量3600万台，同比下滑10%，当时市场已经打破往年二季度返校季拉动出货走",
-     "source": "东方财富资讯",
-     "zh": "全球平板电脑出货量创近三年季度新低 华为跌超四成苹果近三成"
-    },
-    {
      "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
      "link": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
      "pubDate": "Thu, 05 Nov 2026 07:30:58 GMT",
@@ -2487,6 +2439,54 @@
      "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
      "source": "CNBC",
      "zh": "What the Democratic midterms sweep changes for U.S.-China relations"
+    },
+    {
+     "title": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Thu, 05 Nov 2026 14:27:23 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”"
+    },
+    {
+     "title": "Russia, China may be more aggressive if they feel Trump is on &apos;his way out&apos;: Brookings",
+     "link": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
+     "pubDate": "Thu, 05 Nov 2026 05:58:33 GMT",
+     "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
+     "source": "CNBC",
+     "zh": "Russia, China may be more aggressive if they feel Trump is on &apos;his way out&apos;: Brookings"
+    },
+    {
+     "title": "精测电子实控人、董事长彭骞提议1亿至2亿元回购公司股份",
+     "link": "http://www.eeo.com.cn/2026/1105/1084816.shtml",
+     "pubDate": "Thu, 05 Nov 2026 13:47:23 +0800",
+     "summary": "彭骞提议公司以自有资金或自筹资金通过深圳证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A股）股票。",
+     "source": "经济观察网",
+     "zh": "精测电子实控人、董事长彭骞提议1亿至2亿元回购公司股份"
+    },
+    {
+     "title": "鲲鹏支付大面积交易未到账 全国多地用户前往重庆总部追讨",
+     "link": "http://www.eeo.com.cn/2026/1105/1084863.shtml",
+     "pubDate": "Thu, 05 Nov 2026 13:44:00 +0800",
+     "summary": "2026年11月4日，来自全国多地用户，前往位于重庆市两江新区中瑞产业园的重庆鲲鹏支付服务有限公司（下称“鲲鹏支付”）总部，追讨交易成功但未到账的钱款。",
+     "source": "经济观察网",
+     "zh": "鲲鹏支付大面积交易未到账 全国多地用户前往重庆总部追讨"
+    },
+    {
+     "title": "Democrats look to reshape America after historic midterm victories",
+     "link": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
+     "pubDate": "Thu, 05 Nov 2026 05:00:25 GMT",
+     "summary": "Party promises dramatic change in the wake of its ‘blue wave’",
+     "source": "Financial Times",
+     "zh": "Democrats look to reshape America after historic midterm victories"
+    },
+    {
+     "title": "Morning in America, twilight in the markets",
+     "link": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
+     "pubDate": "Thu, 05 Nov 2026 05:00:16 GMT",
+     "summary": "Astonishing midterm election results will not repeal the turn of business and financial cycles",
+     "source": "Financial Times",
+     "zh": "Morning in America, twilight in the markets"
     }
    ]
   },

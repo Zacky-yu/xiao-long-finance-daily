@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 12:32:05",
+ "generated_at": "2026/11/5 12:51:51",
  "recent_days": 7,
  "industries": [
   {
@@ -946,12 +946,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘Every solar plant can be a data center’"
     },
     {
-     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
+     "title": "Trump ban on foreign grid components sparks industry concern over cost, practicality",
      "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
      "pubDate": "Wed, 04 Nov 2026 11:41:26 -0500",
-     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
+     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
-     "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
+     "zh": "Trump ban on foreign grid components sparks industry concern over cost, practicality"
     },
     {
      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
@@ -1538,6 +1538,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Want to Rent an Internet Address at the White House?",
+     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+     "pubDate": "Thu, 05 Nov 2026 04:36:17 +0000",
+     "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was g",
+     "source": "Krebs on Security",
+     "zh": "Want to Rent an Internet Address at the White House?"
+    },
+    {
      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
      "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
      "pubDate": "Wed, 04 Nov 2026 21:48:18 GMT",
@@ -1746,12 +1754,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&apos;t suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)",
+     "link": "https://www.techmeme.com/261104/p66#a261104p66",
+     "pubDate": "Wed, 04 Nov 2026 23:35:00 -0500",
+     "summary": "Charles Rollet / Business Insider : Source: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named &ldquo;Watermelon&rdquo; &nbsp; &mdash;&nbsp; Meta is done with fruits.&nbsp; &mdash;&nbsp; The social media giant has i",
+     "source": "Techmeme",
+     "zh": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&apos;t suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)"
+    },
+    {
+     "title": "特斯拉美国 FSD 再陷致命事故：71 岁男子横穿高速被撞身亡，时速约 113km/h",
+     "link": "https://www.ithome.com/1/022/665.htm",
+     "pubDate": "Thu, 05 Nov 2026 04:32:05 GMT",
+     "summary": "IT之家 11 月 5 日消息，美国加州瓦列霍市一条高速公路 10 月下旬发生了一起致命交通事故，一名 71 岁男子横穿高速公路时，被一辆特斯拉汽车撞击身亡。 特斯拉驾驶员向警方表示，车辆当时已经开启 FSD 驾驶。加州公路巡警（CHP）调取车辆行车记录仪后发现，车辆曾尝试刹车并向左转向避让，但最终未能避免碰撞。 据美国哥伦比亚广播公司（CBS News）报道，此次事故发生于当地时间 10 月 22 日凌晨 2 时 35 分左右，地点位于加州瓦列霍市 I-80 州际公路西行方向、I-780 互通立交附近。 涉事特斯拉汽车由一名 26 岁的旧金山男子驾驶。警方表示，驾驶员事发后留在现场配合调查，",
+     "source": "IT之家",
+     "zh": "特斯拉美国 FSD 再陷致命事故：71 岁男子横穿高速被撞身亡，时速约 113km/h"
+    },
+    {
      "title": "索尼 Xperia 10 VIII/10 VII 手机推送 Android 17 更新，无缘安卓 iOS 文件互传功能",
      "link": "https://www.ithome.com/1/022/664.htm",
      "pubDate": "Thu, 05 Nov 2026 04:27:42 GMT",
      "summary": "IT之家 11 月 5 日消息，科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称索尼已面向 Xperia 10 VIII 与 Xperia 10 VII 推送安卓 17 更新， 但上述两款手机无法完整体验安卓 17 的全部新功能。 IT之家附上相关截图如下： 根据官方声明，Xperia 10 VIII 与 Xperia 10 VII 两款手机升级安卓 17 后，在个性化界面上有所升级。本次更新扩展“壁纸和样式”功能，带来新的壁纸与时钟设计，并支持用户自定义图标的形状和样式。 新版改进快速设置面板，用户可调整图块大小与排列方式，较大的图块还能显示简短说明。 ",
      "source": "IT之家",
      "zh": "索尼 Xperia 10 VIII/10 VII 手机推送 Android 17 更新，无缘安卓 iOS 文件互传功能"
+    },
+    {
+     "title": "“前庭友好”双11爆款，中产小孩下一个时尚单品？",
+     "link": "https://www.tmtpost.com/8194391.html",
+     "pubDate": "Thu, 05 Nov 2026 12:25:36 +0800",
+     "summary": "会过日子的家长逐渐把家过成了一个“微缩训练游乐场”。",
+     "source": "钛媒体",
+     "zh": "“前庭友好”双11爆款，中产小孩下一个时尚单品？"
+    },
+    {
+     "title": "Vercel 创始人：一人支撑万亿美元公司的时代或将到来，人类未来的核心工作是资本分配",
+     "link": "https://www.huxiu.com/article/4903206.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 12:24:51 +0800",
+     "summary": "本文来自微信公众号： AGI 2050 ，作者：AGI 2050 如果说云计算巨头亚马逊AWS是上一代互联网坚固而复杂的工业级电网，那么2025年估值已达93亿美元的云平台Vercel，则是当下全球生成式人工智能浪潮中最受工程师青睐的现代化操作底座。从全球主流的前端框架Next.js，到几乎所有硅谷当红AI应用背后的部署平台，其创始人吉列尔莫·劳赫是全球开发者生态中最具号召力的技术领袖之一。 本期对话源自海外对话平台Delphi。访谈始于一个戏剧性的插曲：Delphi团队在进行系统重构时，技术团队在未提前汇报的情况下，直接将整个底层从庞然大物AWS迁移到了Vercel。 以此为契机，吉列尔莫深",
+     "source": "虎嗅",
+     "zh": "Vercel 创始人：一人支撑万亿美元公司的时代或将到来，人类未来的核心工作是资本分配"
     },
     {
      "title": "“秦朔的朋友圈”定义不了“字节时间”",
@@ -1842,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "奥迪创新技术中心总经理冯思远：AUDI 没有出口海外计划"
     },
     {
-     "title": "GPU 压力测试 FurMark 2 时隔一年迎来版本更新，支持 RTX Spark 等平台",
-     "link": "https://www.ithome.com/1/022/605.htm",
-     "pubDate": "Thu, 05 Nov 2026 03:53:48 GMT",
-     "summary": "IT之家 11 月 5 日消息，GPU 压力测试软件 FurMark 2 近日迎来了最新版本 2.11.0.4，这是其近一年来的首次更新。 最新版本的 FurMark 2 已 可在 NVIDIA RTX Spark 超级芯片等一系列新 GPU 设备上进行测试 ，优化时间管理，在 Windows 上合并了 GPU 核心热点与内存温度显示支持，在 Linux 上可与 Wayland 合成器正常协同工作。 参考 https://www.geeks3d.com/20261102/furmark-2-11-gpu-stress-test-and-graphics-benchmark/",
-     "source": "IT之家",
-     "zh": "GPU 压力测试 FurMark 2 时隔一年迎来版本更新，支持 RTX Spark 等平台"
-    },
-    {
      "title": "红果拿下豆包，腾讯阿里也坐不住了？",
      "link": "https://www.huxiu.com/article/4903192.html?f=rss",
      "pubDate": "Thu, 05 Nov 2026 11:53:00 +0800",
@@ -1864,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "开Bistro，每月睁眼先亏十万，法租界一桌人均200-400，预制菜一端上来，复购就告别。装修风格一模一样，露营凳、落日灯、特调酒，护城河全靠淘宝设计图纸。餐饮周期性强，品类火时都套进去，回本难如股民。",
      "source": "虎嗅",
      "zh": "开Bistro吗？每月一睁眼先亏10w"
-    },
-    {
-     "title": "延安大学的白老师，倒在“横向科研经费”指标之下？",
-     "link": "https://www.huxiu.com/article/4903185.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 11:46:53 +0800",
-     "summary": "本文来自微信公众号： 知识分子 ，作者：张天祁，题图来自：视觉中国 延安大学鲁迅艺术学院副教授白保国，据传留下了一封绝笔信，信中对学校的横向科研经费到账指标等提出强烈质疑。 11月4日晚22:50，陕西省教育厅官方微信公号发布情况通报：近日，延安大学教师白某某不幸离世，我们深感痛惜。针对网络关注的相关问题，陕西省教育厅高度重视，已会同有关方面成立联合调查组，正在进行全面调查核实，将依法依规处理。 延安大学工作人员此前对南方都市报表示，这位老师确已离世，正在调查核实网传信件内容。 该校一位教师则告诉《知识分子》，信件内容反映的&ldquo;横向科研经费&rdquo;指标等问题真实存在，有的同事为",
-     "source": "虎嗅",
-     "zh": "延安大学的白老师，倒在“横向科研经费”指标之下？"
     },
     {
      "title": "门店即将破2万家，百胜中国三季度收入超35亿美元",
@@ -1906,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI时代的云计算，少数派繁荣"
     },
     {
-     "title": "日赚2300万，瑞幸咖啡的好日子又回来了",
-     "link": "https://www.tmtpost.com/8194145.html",
-     "pubDate": "Thu, 05 Nov 2026 10:52:05 +0800",
-     "summary": "省下11亿配送费，利润回来了。",
-     "source": "钛媒体",
-     "zh": "日赚2300万，瑞幸咖啡的好日子又回来了"
-    },
-    {
      "title": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)",
      "link": "https://www.techmeme.com/261104/p62#a261104p62",
      "pubDate": "Wed, 04 Nov 2026 21:50:01 -0500",
@@ -1930,18 +1946,10 @@ window.INDUSTRY_DATA = {
      "zh": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)"
     },
     {
-     "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)",
-     "link": "https://www.techmeme.com/261104/p60#a261104p60",
-     "pubDate": "Wed, 04 Nov 2026 20:20:01 -0500",
-     "summary": "Stephen Council / Business Insider : Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code &nbsp; &mdash;&nbsp; Cat Wu, who left Anthropic last week after becoming one of the company's highest-profile p",
-     "source": "Techmeme",
-     "zh": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)"
-    },
-    {
      "title": "Starfall – Affordable, routine access to microgravity",
      "link": "https://www.spacex.com/starfall",
      "pubDate": "Thu, 05 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 149 # Comments: 87",
+     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 155 # Comments: 91",
      "source": "Hacker News",
      "zh": "Starfall – Affordable, routine access to microgravity"
     },
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Images 2.6",
      "link": "https://openai.com/index/introducing-images-2-6/",
      "pubDate": "Wed, 04 Nov 2026 23:35:44 +0000",
-     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 177 # Comments: 118",
+     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 182 # Comments: 121",
      "source": "Hacker News",
      "zh": "Images 2.6"
     },
@@ -1993,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Redmi Turbo 6 Max's battery capacity leaks, and it's huge",
+     "link": "https://www.gsmarena.com/redmi_turbo_6_maxs_battery_capacity_leaks_and_its_huge-news-75348.php",
+     "pubDate": "Thu, 05 Nov 2026 05:31:02 +0100",
+     "summary": "Just yesterday, the Redmi Turbo 6 Max's screen details leaked, and before that it was rumored to come with a battery of over 10,000 mAh. Now, a reliable tipster has gotten more specific on that front. According to him, the phone is confirmed to have an 11,000 mAh battery, rated at 40.72Wh. He didn't",
+     "source": "GSMArena",
+     "zh": "Redmi Turbo 6 Max's battery capacity leaks, and it's huge"
+    },
     {
      "title": "Apple 官网排版细节鉴赏",
      "link": "https://sspai.com/post/115399",
@@ -2202,14 +2218,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nintendo's main Switch cartridge supplier is leaving the ROM business"
     },
     {
-     "title": "Honor Magic9 Pro Max in for review",
-     "link": "https://www.gsmarena.com/honor_magic9_pro_max_in_for_review-news-75351.php",
-     "pubDate": "Wed, 04 Nov 2026 19:34:02 +0100",
-     "summary": "Hollywood-favorite ARRI is partnering with Honor in an attempt to escape the movie studios and slide into more and more consumer pockets. Following the limited trial with the Robot Phone it's now faced with a far more substantial challenge - Honor's next flagship. The Honor Magic9 Pro Max is about t",
-     "source": "GSMArena",
-     "zh": "Honor Magic9 Pro Max in for review"
-    },
-    {
      "title": "Google’s latest smart home products make the perfect gifts, and they’re on sale at Best Buy",
      "link": "https://9to5google.com/2026/11/04/google-smart-home-products-make-great-gifts/",
      "pubDate": "Wed, 04 Nov 2026 18:30:00 +0000",
@@ -2242,6 +2250,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Fastly anticipates 2026 revenue of $744M-$748M amid $50M-$60M free cash flow outlook",
+     "link": "https://seekingalpha.com/news/4666165-fastly-anticipates-2026-revenue-of-744m-748m-amid-50m-60m-free-cash-flow-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 23:45:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fastly anticipates 2026 revenue of $744M-$748M amid $50M-$60M free cash flow outlook"
+    },
+    {
+     "title": "Cytokinetics outlines >50% new-to-brand share goal by year-end as MYQORZO expands into the U.K. this quarter",
+     "link": "https://seekingalpha.com/news/4666164-cytokinetics-outlines-50-percent-new-to-brand-share-goal-by-year-end-as-myqorzo-expands-into?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 23:45:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cytokinetics outlines >50% new-to-brand share goal by year-end as MYQORZO expands into the U.K. this quarter"
+    },
+    {
+     "title": "咖啡杯已装不下瑞幸的野心",
+     "link": "https://wallstreetcn.com/articles/3785242",
+     "pubDate": "Thu, 05 Nov 2026 12:41:47 +0800",
+     "summary": "瑞幸看起来已经不那么像一家咖啡店。 近日，瑞幸木薯桃胶炖奶在全国门店上市。继轻乳茶、冰奶、酸奶昔、泰奶等产品后，又将菜单扩展至中式糖水。 扩张的菜单背后，是瑞幸业绩增长与同店下滑的分化。 最新三季报显示，瑞幸营收178.91亿元，同比增长17.0%；经营利润27.56亿元，同比增长55.1%。 但自营门店同店销售额同比下降11.1%，为2024年第三季度以来首次出现两位数降幅。 瑞幸选择持续丰富菜单，试图为消费者创造更多购买理由。 第三季度，公司推出41款现制饮品及20余款轻食，创近年单季上新数量新高。其中，泰奶系列上市首周销量突破1300万杯。 从咖啡、奶茶到糖水，瑞幸正在把更多现制饮品纳入",
+     "source": "华尔街见闻",
+     "zh": "咖啡杯已装不下瑞幸的野心"
+    },
+    {
+     "title": "11月5日午间涨停复盘：62股涨停 阳光照明11天6板",
+     "link": "http://stock.eastmoney.com/news/11781,202611053923343792.html",
+     "pubDate": "Thu, 05 Nov 2026 12:39:31 +0800",
+     "summary": "今日午盘沪指 涨 0.1%，深成指 涨 1.44%，创业板指 涨 1.24%，今日午盘大盘成交额1.46万亿，较上个交易日放量5393.13亿。 涨停个股数量方面，今日午盘共计62股涨停，另有44只个股盘中一度触及涨停，封板率58.49%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "11月5日午间涨停复盘：62股涨停 阳光照明11天6板"
+    },
+    {
+     "title": "物理AI模型商易博图完成两轮近4亿元融资",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923343641.html",
+     "pubDate": "Thu, 05 Nov 2026 12:37:06 +0800",
+     "summary": "上海易博图科技有限公司（EABOT，以下简称“易博图”）近日连续完成两轮近4亿元融资，投资方包括知名投资人葛卫东、辰韬资本、弘毅投资、零一 汽车 、兴富资本、猎鹰投资旗下星奇基金等。易博图成立于2026年2月，聚焦重载工业物理AI，核心业务是研发面向重载场景的“移动+操作”物理AI模型。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "物理AI模型商易博图完成两轮近4亿元融资"
+    },
+    {
+     "title": "机构：Q3全球平板电脑出货量同比萎缩23% 创近三年新低",
+     "link": "http://finance.eastmoney.com/news/1360,202611053923343529.html",
+     "pubDate": "Thu, 05 Nov 2026 12:37:06 +0800",
+     "summary": "Omdia报告称，全球平板电脑出货量在2026年第三季度下滑至3200万台，创下近三年来的单季新低，同比则大幅萎缩 23%。Omdia研究经理Himani Mukka表示，继上季度下滑10%之后，平板电脑市场在第三季度再次出现两位数萎缩。随着供应限制加剧，平板电脑在厂商2026年和2027年的战略重点中地位日益下降。预计明年供应状况将进一步收紧，平板电脑市场在2028年之前不太可能出现实质性复苏。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "机构：Q3全球平板电脑出货量同比萎缩23% 创近三年新低"
+    },
+    {
+     "title": "摩根大通将Circle目标价从110美元下调至100美元",
+     "link": "http://stock.eastmoney.com/news/1440,202611053923343496.html",
+     "pubDate": "Thu, 05 Nov 2026 12:37:06 +0800",
+     "summary": "摩根大通 将Circle目标价从110美元下调至100美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "摩根大通将Circle目标价从110美元下调至100美元"
+    },
+    {
+     "title": "腾讯五连涨",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923343257.html",
+     "pubDate": "Thu, 05 Nov 2026 12:35:43 +0800",
+     "summary": "11月5日，恒生指数盘中涨超3%，区间最高点位较昨日收盘拉升近800点；恒生科技指数盘中涨近6%。截至午间收盘，恒生指数涨3.09%，恒生科技指数涨4.79%，恒生国企指数涨3.04%。科技、消费板块领涨。 腾讯控股 五连涨，区间涨幅超13%。今日早盘， 腾讯控股 一度涨超6.8%。截至午间收盘， 腾讯控股 涨5.53%，成交额超142亿港元。 消息面上，11月4日，腾讯混元团队发布最新一代大语言模型Hy4。同日，WorkBuddy国内版及国际版同步接入Hy4，开启为期两天的限时免费体验。 截至发稿，腾讯控股今年以来跌幅约为28%。“对资本市场而言，企业估值不仅取决于当前盈利规模，也取决于未来",
+     "source": "东方财富股票",
+     "zh": "腾讯五连涨"
+    },
+    {
+     "title": "特朗普抱怨参议院拖延永久夏令时法案",
+     "link": "http://finance.eastmoney.com/news/1351,202611053923342434.html",
+     "pubDate": "Thu, 05 Nov 2026 12:33:26 +0800",
+     "summary": "在共和党中期选举遭遇历史性惨败仅仅一天后，美国总统特朗普4日就永久实施夏令时相关法案发帖，抱怨参议院迟迟不通过相关法案，称频繁调整时钟很麻烦。 特朗普当天在社交媒体“真实社交”发文说：“太糟糕了，参议院竟然还没有通过《阳光保护法案》，或者叫《我再也不想调时钟法案》。天黑得太早了，下午5点06分日落，5点31分就全黑了，这难道不荒谬吗？就在几天前，同一时间段还阳光明媚。而且，所有人都在忙着调时钟。” 帖文称，他没有在选举前大肆宣扬这一问题，是因为不希望因此影响某些参议员的选情，“但遗憾的是，他们就是办不成事”。他在帖文中抱怨，众议院以巨大的两党支持率将该法案送交参议院，“但参议院就是不审议”。 ",
+     "source": "东方财富股票",
+     "zh": "特朗普抱怨参议院拖延永久夏令时法案"
+    },
+    {
+     "title": "金价连收4000、4100美元两道大关 为何仅被视作“修复”？机构：加息预期尚未回落",
+     "link": "http://finance.eastmoney.com/news/1344,202611053923341720.html",
+     "pubDate": "Thu, 05 Nov 2026 12:30:20 +0800",
+     "summary": "继11月4日大涨逾3%收复4000美元后， 黄金 多头乘胜追击。今日早盘，伦敦现货 黄金 价格再度直线拉升，最高触及4141.51美元/盎司，连续收复4100美元整数关，日内涨幅一度超1.6%。不过，在通胀以及加息预期明确回落前，机构机构仍将反弹行情按“修复”而非“反转”看待。 就在上周，金价围绕4000美元关口反复拉锯后加速下挫，10月30日单日接连失守4000、3900美元两道关口，伦敦金现收报3875.19美元/盎司，创2025年10月以来新低。 图：伦敦金现价格下半年走势 浙商银行 FICC团队指出，10月30日金价几乎以全日最低价收盘、接连跌破6月和10月两个前低，“这不是一次普通的",
+     "source": "东方财富资讯",
+     "zh": "金价连收4000、4100美元两道大关 为何仅被视作“修复”？机构：加息预期尚未回落"
+    },
+    {
      "title": "TpvG expects $25m-$50m quarterly fundings going forward while extending incentive fee waiver through 2027",
      "link": "https://seekingalpha.com/news/4666163-tpvg-expects-25m-50m-quarterly-fundings-going-forward-while-extending-incentive-fee-waiver?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 23:25:36 -0500",
@@ -2266,6 +2354,22 @@ window.INDUSTRY_DATA = {
      "zh": "轮胎行业遇成本大考 利润去哪了？"
     },
     {
+     "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
+     "link": "http://finance.eastmoney.com/news/1344,202611053923339644.html",
+     "pubDate": "Thu, 05 Nov 2026 12:22:09 +0800",
+     "summary": "十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。会议听取了中国人民 银行 行长潘功胜受国务院委托作的关于金融工作情况的报告。全国人大网11月5日发布了《国务院关于金融工作情况的报告——2026年11月3日在十四届全国人民代表大会常务委员会第二十五次会议上》。 报告称，实施好支持资本市场的货币政策工具，支持中央汇金公司发挥类平准基金作用，拓宽中长期资金来源、渠道和入市方式，巩固完善资本市场稳市机制；维护股票、债券、外汇等金融市场平稳运行。 关于下一步工作考虑，报告明确，继续实施好适度宽松的货币政策，为经济持续向新向优向好发展营造适宜的货币金融环境。 综合 运用多种工",
+     "source": "东方财富资讯",
+     "zh": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制"
+    },
+    {
+     "title": "苹果大动作！AI应用涨停潮 主力吸筹这些票(附股)",
+     "link": "http://finance.eastmoney.com/news/11139,202611053923339498.html",
+     "pubDate": "Thu, 05 Nov 2026 12:18:44 +0800",
+     "summary": "周四 AI应用 概念走强， 易点天下 、 立方控股 涨超10%， 浙文互联 、 引力传媒 、 天地在线 等多股涨停。 消息面上， AI应用 正多点开花。据财联社，国行 苹果 AI周三 随 iOS 27.3 开发者测试版开放测试。该版本Siri深度整合阿里千问，正式版预计12月推送。国行 苹果 AI由 苹果 自研端侧模型和阿里千问共同支持。简单任务在本地处理；复杂问答或创作，如Siri深度提问、写作工具生成内容，会在弹窗征得用户同意后调用千问云端能力。 另据上证报，近期 利欧股份 接连披露AI营销业务新进展。10月29日，公司推出LEO AIAD MCP，将多模态创意生成及品牌 资产管理 能力以",
+     "source": "东方财富资讯",
+     "zh": "苹果大动作！AI应用涨停潮 主力吸筹这些票(附股)"
+    },
+    {
      "title": "AMC expects full-year 2026 free cash flow positive while targeting $200M-$235M net capex",
      "link": "https://seekingalpha.com/news/4666161-amc-expects-full-year-2026-free-cash-flow-positive-while-targeting-200m-235m-net-capex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 23:17:26 -0500",
@@ -2282,20 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Arcutis outlines $535M-$545M 2026 net revenue guidance while preparing for February 23, 2027 infant AD PDUFA"
     },
     {
-     "title": "HubSpot expects Q4 revenue of $945M-$947M amid AI-driven demand headwinds",
-     "link": "https://seekingalpha.com/news/4666159-hubspot-expects-q4-revenue-of-945m-947m-amid-ai-driven-demand-headwinds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 23:16:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HubSpot expects Q4 revenue of $945M-$947M amid AI-driven demand headwinds"
-    },
-    {
-     "title": "Cirrus Logic expects $510M-$570M revenue in fiscal Q3 2027 as it completes INVENTVM acquisition",
-     "link": "https://seekingalpha.com/news/4666158-cirrus-logic-expects-510m-570m-revenue-in-fiscal-q3-2027-as-it-completes-inventvm-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 23:15:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cirrus Logic expects $510M-$570M revenue in fiscal Q3 2027 as it completes INVENTVM acquisition"
+     "title": "Chipmakers lead Asian stocks lower on post-midterm AI fears",
+     "link": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
+     "pubDate": "Thu, 05 Nov 2026 04:13:31 GMT",
+     "summary": "Concerns mount that Democratic control of Congress will slow data centre build-out",
+     "source": "Financial Times",
+     "zh": "Chipmakers lead Asian stocks lower on post-midterm AI fears"
     },
     {
      "title": "创业板冲高回落涨1%，光伏、电池集体爆发，油气股大跌，恒科指暴涨4%，科网股全线攀升",
@@ -2306,36 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "创业板冲高回落涨1%，光伏、电池集体爆发，油气股大跌，恒科指暴涨4%，科网股全线攀升"
     },
     {
-     "title": "天沃科技：截至10月30日最新股东户数4.69万户，较上期减少3.81%",
-     "link": "http://stock.eastmoney.com/news/11111,202611053923334754.html",
-     "pubDate": "Thu, 05 Nov 2026 11:58:28 +0800",
-     "summary": "天沃科技 最新披露数据显示，截至10月30日公司股东户数为4.69万户，较上期(2026年10月20日) 减少1857户，降幅为3.81% 。户均持有流通股数量 由上期的1.76万股上升至1.83万股， 户均持股金额 由上期的8.09万元减少至7.37万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
-     "source": "东方财富股票",
-     "zh": "天沃科技：截至10月30日最新股东户数4.69万户，较上期减少3.81%"
-    },
-    {
-     "title": "现货黄金日内大涨2% 报4141.22美元/盎司",
-     "link": "http://finance.eastmoney.com/news/1361,202611053923334893.html",
-     "pubDate": "Thu, 05 Nov 2026 11:56:41 +0800",
-     "summary": "现货 黄金 日内大涨2%，报4141.22美元/盎司。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "现货黄金日内大涨2% 报4141.22美元/盎司"
-    },
-    {
      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
      "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
      "pubDate": "Thu, 05 Nov 2026 03:53:18 GMT",
      "summary": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
      "source": "CNBC",
      "zh": "Inside the chip talent war: Trade secrets and rising Chinese rivals"
-    },
-    {
-     "title": "从跨境授权向研发协同延伸 中欧医药合作拓展新空间",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923334925.html",
-     "pubDate": "Thu, 05 Nov 2026 11:45:12 +0800",
-     "summary": "新华财经上海11月5日电（记者杜康）记者4日从FHIM（Future Healthcare Investment Market）2026全球医药合作与投资年会上获悉，FHIM正联合欧洲生命科学投资机构筹备中欧医疗健康母基金，并通过其产业合作平台，推动中欧 创新药 、 医疗器械 项目的跨境授权、联合开发与投融资对接。 法国前总理、FHIM主席让-皮埃尔·拉法兰表示，中国正成为全球医疗健康创新的重要力量，中欧在资本、技术、专业能力与市场方面具有结构性互补，健康领域是双方实现互利共赢的重要方向。上海市科学技术委员会副主任江舸表示，上海将持续完善生物医药创新生态，支持中外创新力量开展长期合作。 FHI",
-     "source": "东方财富股票",
-     "zh": "从跨境授权向研发协同延伸 中欧医药合作拓展新空间"
     },
     {
      "title": "《企业风险管理有效性评价指南》国家标准发布",
@@ -2346,28 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "《企业风险管理有效性评价指南》国家标准发布"
     },
     {
-     "title": "美国ITC发布对荧光鱼线系统和安全头盔系统及其组件的337部分终裁",
-     "link": "http://finance.eastmoney.com/news/1350,202611053923334063.html",
-     "pubDate": "Thu, 05 Nov 2026 11:45:00 +0800",
-     "summary": "据中国贸易救济信息网消息，2026年11月4日，美国国际贸易委员会（ITC）发布公告称，对特定荧光鱼线系统和安全头盔系统及其组件作出337部分终裁：经过复审，确认该案存在侵权美国注册专利号12,187,573的行为，发布有限排除令和禁止令，对总统审查期间进口的侵权产品征收100%保证金，该案调查终止。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "美国ITC发布对荧光鱼线系统和安全头盔系统及其组件的337部分终裁"
-    },
-    {
      "title": "盘中抄底资金涌入！近30只概念股涨停！光伏赛道异动",
      "link": "http://finance.eastmoney.com/news/1344,202611053923332469.html",
      "pubDate": "Thu, 05 Nov 2026 11:43:56 +0800",
      "summary": "光伏概念 股再度异动！ 今日盘中，A股 光伏概念 股直线拉升，板块指数涨幅超过3.50%，主力资金净流入超50亿元。截至发稿，近30只 光伏概念 股涨停。其中， 金刚光伏 、 贝特利 、 时创能源 等20%涨停， 顺钠股份 、 赛伍技术 、 钧达股份 、 协鑫集成 等10%涨停。 消息面上，多家美国主流媒体报道，民主党在3日举行的美国中期选举中大获全胜，重新夺回国会参议院和众议院控制权。这一结果被视为有利于可再生能源行业获得更有利的政策支持，并刺激全球可再生能源股票上涨。 巴克莱 银行 分析师表示，中期选举结果降低了美国可再生能源及其配套电网的政治风险。由彼得·克拉姆顿领衔的分析师在研究报告中",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "盘中抄底资金涌入！近30只概念股涨停！光伏赛道异动"
-    },
-    {
-     "title": "盘中，抄底资金涌入！近30只概念股涨停！这一赛道异动",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923334541.html",
-     "pubDate": "Thu, 05 Nov 2026 11:43:52 +0800",
-     "summary": "光伏概念 股再度异动！ 今日盘中，A股 光伏概念 股直线拉升，板块指数涨幅超过3.50%，主力资金净流入超50亿元。截至发稿，近30只 光伏概念 股涨停。其中， 金刚光伏 、 贝特利 、 时创能源 等20%涨停， 顺钠股份 、 赛伍技术 、 钧达股份 、 协鑫集成 等10%涨停。 消息面上，多家美国主流媒体报道，民主党在3日举行的美国中期选举中大获全胜，重新夺回国会参议院和众议院控制权。这一结果被视为有利于可再生能源行业获得更有利的政策支持，并刺激全球可再生能源股票上涨。 巴克莱 银行 分析师表示，中期选举结果降低了美国可再生能源及其配套电网的政治风险。由彼得·克拉姆顿领衔的分析师在研究报告中",
-     "source": "东方财富股票",
-     "zh": "盘中，抄底资金涌入！近30只概念股涨停！这一赛道异动"
     },
     {
      "title": "第一批新车次列车本月开行 车票将陆续发售、兑现",
@@ -2394,36 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "金价重回4100美元上方！贵金属集体拉升 机构预测高增股来了"
     },
     {
-     "title": "科创50指数上涨2.11% 两市半日放量近5400亿 光伏设备掀涨停潮",
-     "link": "http://finance.eastmoney.com/news/1345,202611053923330531.html",
-     "pubDate": "Thu, 05 Nov 2026 11:30:21 +0800",
-     "summary": "A股三大指数低开高走，创业板指涨逾1%，科创50指数涨逾2%。盘面上， 光伏设备 板块掀涨停潮， kimi概念、 贵金属 、 能源金属 、 智能音箱 、 电池 、 有机硅概念 涨幅居前， 煤炭 、 银行 、 资源开采概念 、 航运港口 、 油服工程 表现不佳，领跌市场。 截至午间收盘，沪指上涨0.10%，报3689.79点；深成指上涨1.44%，报11498.77点；创业板指上涨1.24%，报2576.28点；科创50指数上涨2.11%，报1292.12点；北证50指数上涨2.10%，报912.88点。全市场上涨个股有4792家，下跌个股有676家，62只股涨停。两市半日合计成交14644亿。",
-     "source": "东方财富资讯",
-     "zh": "科创50指数上涨2.11% 两市半日放量近5400亿 光伏设备掀涨停潮"
-    },
-    {
      "title": "SemiAnalysis谈“美国中选冲击数据中心”：2027“大局已定”，2028“充满变数”，得州是“最大变量”",
      "link": "https://wallstreetcn.com/articles/3785225",
      "pubDate": "Thu, 05 Nov 2026 11:29:46 +0800",
      "summary": "尽管2027年的美国数据中心建设已靠“时间差”基本锁盘，但中期选举的意外变局，正让2028年高达62.2GW的规划产能直接暴露在审批延期与规则重塑的巨大风险之中。 2026年11月3日，美国中期选举投票日当天，知名半导体与基础设施研究机构SemiAnalysis发布了最新一期《SemiAnalysis Weekly》。 该机构主管数据中心与能源基础设施研究的董事总经理Jeremie Eliahou Ontiveros，以及分析师Maya Barkin、Wayne Ma等， 就美国大选结果对数据中心产能扩张的影响进行了深度讨论 。 节目中Maya给出了当时看起来最稳的判断： 民调都显示Abbot",
      "source": "华尔街见闻",
      "zh": "SemiAnalysis谈“美国中选冲击数据中心”：2027“大局已定”，2028“充满变数”，得州是“最大变量”"
-    },
-    {
-     "title": "特朗普丢掉国会后 全球贸易战将何去何从？一文读懂！",
-     "link": "http://finance.eastmoney.com/news/1344,202611053923322238.html",
-     "pubDate": "Thu, 05 Nov 2026 11:25:30 +0800",
-     "summary": "不少业内人士预计，随着特朗普领导的共和党在美国中期选举中遭遇惨败，这可能会鼓舞一些美国贸易伙伴对特朗普好战的贸易政策予以反击——尽管他们可能也需要谨慎行事，以免在特朗普执政的最后两年里彻底激怒他。 民主党周二在美国参议院和众议院均赢得多数席位，美国选民对特朗普的政策——包括被指与伊朗战争一同导致通胀持续高企的关税政策——给予了严厉的反对。 这一变局可能会让美国的经济竞争对手们在接下来的谈判中占据上风 ，包括促使美国的亚洲盟友放慢数千亿美元投资承诺的落地节奏，并让欧洲在诸多悬而未决的贸易争端中重获更多确定性。 全球有望打起“缓兵算盘”？ 在暗自期盼外部压力能够有所缓和的阵营中，包括了美国在亚洲最",
-     "source": "东方财富资讯",
-     "zh": "特朗普丢掉国会后 全球贸易战将何去何从？一文读懂！"
-    },
-    {
-     "title": "金价回升至4100美元/盎司上方 分析师警告真正支撑还未出现",
-     "link": "http://finance.eastmoney.com/news/1344,202611053923325416.html",
-     "pubDate": "Thu, 05 Nov 2026 11:25:08 +0800",
-     "summary": "随着中期选举的尘埃落定，投资者正在返回市场， 黄金 价格也因此在周三进一步反弹，很大程度上是因为投资者认为美伊冲突可能得以缓和，且美国通胀将在未来两年内得到控制。 截至发稿，金价上涨超过1%至4110美元/盎司左右。在这种乐观氛围中，MarketGauge首席市场策略师Michele Schneider表示，4000美元/盎司可能是一个颇具吸引力的入场点，但人们仍需要保持耐心。 她指出， 黄金 的长期利好因素并未改变，但其基本面与其价格走势之间的背离令人担忧，因为大宗商品市场在大幅上涨结束后可能会经历较长时间的疲软期。 她认为目前还没有出现 黄金 的真正支撑点，即使出现了，也不一定是买入机会，",
-     "source": "东方财富资讯",
-     "zh": "金价回升至4100美元/盎司上方 分析师警告真正支撑还未出现"
     },
     {
      "title": "从1.36亿元战略配售到拟设合营企业，中石油与宇树科技合作再进一步",
@@ -2450,36 +2482,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国45%数据中心扩张计划面临暂停威胁，如今全市场都盯着得州！"
     },
     {
-     "title": "高通电话会：明年将不再依赖手机业务，与SpaceX将推出星链移动网络",
-     "link": "https://wallstreetcn.com/articles/3785216",
-     "pubDate": "Thu, 05 Nov 2026 11:15:23 +0800",
-     "summary": "尽管面临全球智能手机市场需求疲软的阵痛与即将失去苹果订单的挑战，高通正通过在汽车、数据中心和马斯克星链网络上的突破性订单，向市场证明其非手机业务强大的爆发力与无缝衔接的增长想象力。 华尔街见闻提及 ，11月4日周三美股盘后，高通公布截至2026年9月27日的第四财季业绩。受累于需求低迷以及苹果相关收入的下降，高通第四财季核心智能手机芯片（QCT handset）营收下降26%至51.4亿美元，未达到华尔街预期的52.5亿美元。 不过在随后的财报电话会和媒体访谈中，高通管理层向市场释放了强烈的信号： 最坏的时期已经过去，以数据中心、汽车和AI物联网为代表的“非手机业务”即将迎来史诗级大爆发。 高",
-     "source": "华尔街见闻",
-     "zh": "高通电话会：明年将不再依赖手机业务，与SpaceX将推出星链移动网络"
-    },
-    {
      "title": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
      "link": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
      "pubDate": "Thu, 05 Nov 2026 03:11:58 GMT",
      "summary": "LIV Golf faces liquidation after BC Partners dropped a proposed $300 million rescue plan amid insufficient player commitments.",
      "source": "CNBC",
      "zh": "LIV Golf faces liquidation after BC Partners scraps rescue plan"
-    },
-    {
-     "title": "US stocks post best day since August after Democrats sweep midterms",
-     "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-     "pubDate": "Thu, 05 Nov 2026 03:11:55 GMT",
-     "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
-     "source": "Financial Times",
-     "zh": "US stocks post best day since August after Democrats sweep midterms"
-    },
-    {
-     "title": "禁止有罪推定，是对无罪推定原则的再推进",
-     "link": "http://www.eeo.com.cn/2026/1105/1084577.shtml",
-     "pubDate": "Thu, 05 Nov 2026 10:40:00 +0800",
-     "summary": "如果说坚持无罪推定更侧重于刑事诉讼理念的宣告和诉讼思维的提升，那么，禁止有罪推定则是要把无罪推定的理念与思维落到实处，是要对那些与无罪推定背道而驰的做法果断纠偏。",
-     "source": "经济观察网",
-     "zh": "禁止有罪推定，是对无罪推定原则的再推进"
     }
    ]
   },

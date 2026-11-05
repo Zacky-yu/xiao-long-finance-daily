@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 19:11:55",
+ "generated_at": "2026/11/5 19:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月5日报道，近日，2026世界顶尖科学家论坛第二届国际工程智能大会举行。会上，加拿大工程院外籍院士、智象元一（HiDream.ai）创始人兼CEO梅涛发表演讲，提出构建智能体化的全模态世界模型（Agentic Omnimodal World Models），迈向下一代世界智能。 AI模型聚合平台OpenRouter数据显示，全球大模型调用规模正进入爆发阶段。截至今年10月，中国周Token调用量达93万亿，是美国的4.16倍，连续26周位居 全球第一 。 这些数字背后，是AI正从“工具”快速演变为像水、像电一样的新型社会基础设施。 与此同时",
      "source": "智东西",
      "zh": "智象创始人梅涛演讲：提出构建智能体化的全模态世界模型"
+    },
+    {
+     "title": "280B总参数、14B激活！百度开源文心5.5 Flash Base，拿下同尺寸SOTA",
+     "link": "https://zhidx.com/p/607749.html",
+     "pubDate": "Thu, 05 Nov 2026 17:05:08 +0800",
+     "summary": "智东西 作者 | 三北 编辑 | 漠影 智东西11月5日报道，今日，百度正式发布并开源 文心5.5 Flash Base（ERNIE-5.5-Flash-Base） 。这款模型采用稀疏MoE架构，总参数量达到 280B ，每个token仅 激活14B 参数，在 33.5T tokens 上从零完成预训练，最长训练上下文达到 128K ，微调与推理支持 1M tokens 上下文。 在同尺寸基座模型的正面交锋中，它交出了一份颇具竞争力的成绩单。 根据百度公布的评测结果，ERNIE-5.5-Flash-Base与 DeepSeek-V4-Flash-Base（284B-A13B）、Hy3-prev",
+     "source": "智东西",
+     "zh": "280B总参数、14B激活！百度开源文心5.5 Flash Base，拿下同尺寸SOTA"
     },
     {
      "title": "对谈千问蒋冠军：从模型、记忆到生态，Personal Agent的技术架构如何搭建？",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-size models on knowledge benchmarks. The post webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500 appeared first on MarkT",
      "source": "MarkTechPost",
      "zh": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500"
-    },
-    {
-     "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-     "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-     "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
-     "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-     "source": "TechCrunch AI",
-     "zh": "Nothing CEO says company’s mysterious AI-first device is dropping next month"
     }
    ]
   },
@@ -650,6 +650,30 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Aniioki A9 Pro Max review: Basically an electric motorcycle that you can pedal",
+     "link": "https://electrek.co/2026/11/05/aniioki-a9-pro-max-review-basically-an-electric-motorcycle-that-you-can-pedal/",
+     "pubDate": "Thu, 05 Nov 2026 11:25:13 +0000",
+     "summary": "There are electric bikes, there are electric motorcycles, and then there are machines like the Aniioki A9 Pro Max that plant a flag somewhere in the increasingly large no-man’s-land between the two. more…",
+     "source": "Electrek",
+     "zh": "Aniioki A9 Pro Max review: Basically an electric motorcycle that you can pedal"
+    },
+    {
+     "title": "Zotye's right-hand-drive Wink Y01 rolls off line, with deliveries planned for early 2027",
+     "link": "https://cnevpost.com/2026/11/05/zotyes-wink-y01-rolls-off-line/",
+     "pubDate": "Thu, 05 Nov 2026 11:14:32 +0000",
+     "summary": "The new model targets overseas markets, with Zotye focusing on India and Indonesia. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Zotye's right-hand-drive Wink Y01 rolls off line, with deliveries planned for early 2027"
+    },
+    {
+     "title": "This Startup Wants To Turn Teslas Into Anything, From 11-Seat Minibuses To Pickups",
+     "link": "https://insideevs.com/news/814513/tesla-custom-ev-bus-pickup-hoffman-badger/",
+     "pubDate": "Thu, 05 Nov 2026 11:10:07 +0000",
+     "summary": "The Hoffman Badger made its debut at this year’s SEMA show, driving all the way from Wisconsin to Las Vegas.",
+     "source": "InsideEVs",
+     "zh": "This Startup Wants To Turn Teslas Into Anything, From 11-Seat Minibuses To Pickups"
+    },
+    {
      "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
      "link": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
      "pubDate": "Thu, 05 Nov 2026 11:00:00 +0000",
@@ -770,22 +794,6 @@ window.INDUSTRY_DATA = {
      "zh": "Ford Fathom EV pickup prices will range from $28,350 to the high $30Ks"
     },
     {
-     "title": "EVs Made Up Nearly A Third Of UK Sales As Europe's Electric Boom Continues",
-     "link": "https://insideevs.com/news/814429/evs-one-third-market-uk/",
-     "pubDate": "Wed, 04 Nov 2026 19:34:17 +0000",
-     "summary": "Fully electric cars outsold gasoline and hybrid models in October, as UK EV registrations surged 54% from a year earlier.",
-     "source": "InsideEVs",
-     "zh": "EVs Made Up Nearly A Third Of UK Sales As Europe's Electric Boom Continues"
-    },
-    {
-     "title": "Home Depot early Black Friday sale arrives, Fanttik USB-C pruning shears $80, WORX 9-in-1 leaf blower $91, more",
-     "link": "https://electrek.co/2026/11/04/green-deals-nov-4/",
-     "pubDate": "Wed, 04 Nov 2026 19:00:00 +0000",
-     "summary": "We’re a few days into November and the deals are flying. Today’s 9to5Toys Green Deals is packed with notable finds, which are headlined by Home Depot’s early Black Friday sale . In that post we cover how you can score BOGO FREE tools, $1,250 off appliances, and more. Others markdowns include Fanttik",
-     "source": "Electrek",
-     "zh": "Home Depot early Black Friday sale arrives, Fanttik USB-C pruning shears $80, WORX 9-in-1 leaf blower $91, more"
-    },
-    {
      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
      "pubDate": "Wed, 04 Nov 2026 18:12:30 +0000",
@@ -800,14 +808,6 @@ window.INDUSTRY_DATA = {
      "summary": "The 3 parties will prioritize markets including the UK, France, and Spain to explore energy storage solutions for European households. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "CATL, Octopus Energy and Ampace partner to explore European home energy storage"
-    },
-    {
-     "title": "China October NEV retail sales fall 10% to 1.148 million, preliminary CPCA data shows",
-     "link": "https://cnevpost.com/2026/11/04/china-oct-nev-retail-preliminary-cpca/",
-     "pubDate": "Wed, 04 Nov 2026 10:51:35 +0000",
-     "summary": "October passenger NEV retail sales rose 6% from a month earlier, pushing the penetration rate to a record high of 67.8%. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "China October NEV retail sales fall 10% to 1.148 million, preliminary CPCA data shows"
     },
     {
      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
@@ -841,6 +841,38 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "US distributed energy storage updates from Base Power and Sunrun",
+     "link": "https://www.energy-storage.news/us-distributed-energy-storage-updates-from-base-power-and-sunrun/",
+     "pubDate": "Thu, 05 Nov 2026 11:27:50 +0000",
+     "summary": "US retail giant Walmart has made a strategic investment in home battery storage firm Base Power, while Sunrun has doubled the size of its home battery VPP in Puerto Rico.",
+     "source": "Energy Storage News",
+     "zh": "US distributed energy storage updates from Base Power and Sunrun"
+    },
+    {
+     "title": "What Democratic control of Congress could mean for US BESS and renewables",
+     "link": "https://www.energy-storage.news/what-democratic-control-of-congress-could-mean-for-us-bess-and-renewables/",
+     "pubDate": "Thu, 05 Nov 2026 11:23:26 +0000",
+     "summary": "Democrats scored major victories in the US Midterm elections, taking both the House and Senate and flipping several long-held Republican strongholds, with changes likely to occur in the clean energy sector.",
+     "source": "Energy Storage News",
+     "zh": "What Democratic control of Congress could mean for US BESS and renewables"
+    },
+    {
+     "title": "SolarEdge hits midpoint of Q3 revenue guidance, warns of weaker fourth quarter",
+     "link": "https://www.pv-tech.org/solaredge-q3-2026-revenue-down/",
+     "pubDate": "Thu, 05 Nov 2026 11:19:15 +0000",
+     "summary": "Inverter and energy storage manufacturer SolarEdge has reported Q3 2026 revenue of US$326.1 million, down 5.8% from Q2 and 4.1% year-on-year.",
+     "source": "PV Tech",
+     "zh": "SolarEdge hits midpoint of Q3 revenue guidance, warns of weaker fourth quarter"
+    },
+    {
+     "title": "Iran Reports More Tanker Fires in Strait of Hormuz",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-More-Tanker-Fires-in-Strait-of-Hormuz.html",
+     "pubDate": "Thu, 05 Nov 2026 05:15:00 -0600",
+     "summary": "Two oil tankers and a tugboat caught fire in the Strait of Hormuz, Iran’s Islamic Revolutionary Guard Corps (IRGC) said on Thursday, as Iran continues to report a growing number of incidents with vessels trying to transit the Strait on routes unauthorized by the Islamic Republic. One of the oil tank",
+     "source": "OilPrice",
+     "zh": "Iran Reports More Tanker Fires in Strait of Hormuz"
+    },
     {
      "title": "Revolta installs first 10 kWh sodium-ion home battery in Germany",
      "link": "https://www.pv-magazine.com/2026/11/05/revolta-installs-first-10-kwh-sodium-ion-home-battery-in-germany/",
@@ -1010,14 +1042,6 @@ window.INDUSTRY_DATA = {
      "zh": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz"
     },
     {
-     "title": "Butane’s Perfect Storm Sends Prices to Decade Highs",
-     "link": "https://oilprice.com/Energy/Natural-Gas/Butanes-Perfect-Storm-Sends-Prices-to-Decade-Highs.html",
-     "pubDate": "Wed, 04 Nov 2026 18:00:00 -0600",
-     "summary": "Butane prices are surging across the world. Northwest European November butane prices have reached $1,125/t by early November, their highest level in 30 years, having exceeded even the peaks following Russia’s invasion of Ukraine. In Asia, the AFEI butane index stood at $1,180/t on November 3. US bu",
-     "source": "OilPrice",
-     "zh": "Butane’s Perfect Storm Sends Prices to Decade Highs"
-    },
-    {
      "title": "Top clean energy wins from the midterm elections",
      "link": "https://www.canarymedia.com/articles/politics/top-clean-energy-wins-midterms",
      "pubDate": "Wed, 04 Nov 2026 17:30:00 -0500",
@@ -1056,30 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
      "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
-    },
-    {
-     "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
-     "link": "https://www.energy-storage.news/us-midterms-chinas-battery-stocks-jump-korean-ones-soar-reaction-democrat-wins/",
-     "pubDate": "Wed, 04 Nov 2026 15:54:16 +0000",
-     "summary": "The Democrats have won the House and the Senate in the US Midterm elections, dealing a blow to the Trump administration and sending Chinese and Korean battery share prices upwards.",
-     "source": "Energy Storage News",
-     "zh": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins"
-    },
-    {
-     "title": "LG Energy Solution reports 60% growth in ESS shipments, 160GWh order backlog",
-     "link": "https://www.energy-storage.news/lg-energy-solution-reports-60-growth-in-ess-shipments-160gwh-order-backlog/",
-     "pubDate": "Wed, 04 Nov 2026 15:32:22 +0000",
-     "summary": "LG Energy Solution saw 28% quarter-on-quarter growth in revenue in Q3 2026, with “significant energy storage system (ESS) shipment growth” among the main drivers.",
-     "source": "Energy Storage News",
-     "zh": "LG Energy Solution reports 60% growth in ESS shipments, 160GWh order backlog"
-    },
-    {
-     "title": "Electric utilities join industries urging renewal of cybersecurity information-sharing law",
-     "link": "https://www.utilitydive.com/news/electric-utilities-join-industries-urging-renewal-of-cybersecurity-informat/873703/",
-     "pubDate": "Wed, 04 Nov 2026 10:24:26 -0500",
-     "summary": "CISA 2015, as the law is often called, provides liability protections for companies sharing cyber threat indicators amongst themselves and with federal agencies. It is set to expire next month.",
-     "source": "Utility Dive",
-     "zh": "Electric utilities join industries urging renewal of cybersecurity information-sharing law"
     }
    ]
   },
@@ -1754,6 +1754,78 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "上汽集团拟与延电科技、Momenta 设立合资公司，加强高阶智驾技术研发能力",
+     "link": "https://www.ithome.com/1/022/964.htm",
+     "pubDate": "Thu, 05 Nov 2026 11:28:41 GMT",
+     "summary": "IT之家 11 月 5 日消息，上汽集团今日公告， 为加强公司高阶智驾技术研发能力 ，赋能整车产品提升在全球市场的竞争力，董事会审议通过相关决议，拟与延电科技有限责任公司、魔门塔（苏州）科技有限公司（Momenta）共同设立合资公司（名称待定）。 IT之家获悉， 新公司注册资本 3 亿元 ，其中： Momenta 认缴出资 1.53 亿元，持股 51%； 上汽集团认缴出资 7,500 万元，持股 25%； 延电科技认缴出资 7,200 万元，持股 24%。 延伸阅读 公开工商信息显示，延电科技有限责任公司成立于 2022 年 6 月 27 日，注册资本 1 亿元，法定代表人为臧纯高，其唯一股东",
+     "source": "IT之家",
+     "zh": "上汽集团拟与延电科技、Momenta 设立合资公司，加强高阶智驾技术研发能力"
+    },
+    {
+     "title": "Sources: at Jensen Huang&apos;s election event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261105/p16#a261105p16",
+     "pubDate": "Thu, 05 Nov 2026 06:25:05 -0500",
+     "summary": "Wall Street Journal : Sources: at Jensen Huang's election event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans &nbsp; &mdash;&nbsp; Americans' vote for anti-data center candidates and ballot measures could rein in AI's expansion a",
+     "source": "Techmeme",
+     "zh": "Sources: at Jensen Huang&apos;s election event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans (Wall Street Journal)"
+    },
+    {
+     "title": "嫌不够大气？消息称 Meta 不再使用水果命名 AI 模型",
+     "link": "https://www.ithome.com/1/022/963.htm",
+     "pubDate": "Thu, 05 Nov 2026 11:24:19 GMT",
+     "summary": "IT之家 11 月 5 日消息，据 Business Insider 报道，Meta 不再打算用水果给 AI 模型命名了。一名知情人士透露，这家社交媒体巨头已在内部决定，今后不再以水果为 AI 模型取代号。 这一调整主要出于品牌定位方面的考虑。知情人士表示，以水果命名的代号与 Meta 雄心勃勃的 AI 发展目标并不相称。 Meta 最新 AI 模型 Wonder Full 的内部代号是“Watermelon”（西瓜）。Meta 称，这是该公司首款达到前沿水平的 AI 模型。此前，Meta 还曾通过发布西瓜照片为这款模型预热。 Meta 此前推出的语言模型和图像模型，内部代号分别为“Avoca",
+     "source": "IT之家",
+     "zh": "嫌不够大气？消息称 Meta 不再使用水果命名 AI 模型"
+    },
+    {
+     "title": "Hugging Face CEO Clément Delangue says his P(doom) is \"close to zero\", arguing that future AI risks stem from closed frontier AI labs, not open-source systems (Will Knight/Wired)",
+     "link": "https://www.techmeme.com/261105/p15#a261105p15",
+     "pubDate": "Thu, 05 Nov 2026 06:20:03 -0500",
+     "summary": "Will Knight / Wired : Hugging Face CEO Cl&eacute;ment Delangue says his P(doom) is &ldquo;close to zero&rdquo;, arguing that future AI risks stem from closed frontier AI labs, not open-source systems &nbsp; &mdash;&nbsp; &ldquo;Most of the risk is actually created by a couple of players building beh",
+     "source": "Techmeme",
+     "zh": "Hugging Face CEO Clément Delangue says his P(doom) is \"close to zero\", arguing that future AI risks stem from closed frontier AI labs, not open-source systems (Will Knight/Wired)"
+    },
+    {
+     "title": "任天堂 Switch 2 出货量同比下降 41%，但游戏软件销量同比增长 26%",
+     "link": "https://www.ithome.com/1/022/960.htm",
+     "pubDate": "Thu, 05 Nov 2026 11:17:36 GMT",
+     "summary": "IT之家 11 月 5 日消息，任天堂在 2027 财年半年报中透露，公司二季度（即 7 月至 9 月）共出货 267 万台 Switch 2 游戏机，较去年同期的 454 万台下降 41%。初代 Switch 出货量为 61 万台，同比下降 33%。 不过任天堂通过软件销量弥补了这部分影响。其中 Switch 2 游戏软件销量同比增长 26%，达到 1503 万份。Switch 2 新作中《斯普拉遁：涂击队》表现突出，销量达到 242 万份；《火焰之纹章：万缕千丝》销量为 134 万份。 而初代 Switch 游戏软件销量达到 3192 万份，其中《节奏天国：奇迹之星》贡献了 289 万份销",
+     "source": "IT之家",
+     "zh": "任天堂 Switch 2 出货量同比下降 41%，但游戏软件销量同比增长 26%"
+    },
+    {
+     "title": "蔚来李斌称与吉利达成充换电战略合作是双方深思熟虑的结果，存量竞争时代合作变得更重要",
+     "link": "https://www.ithome.com/1/022/959.htm",
+     "pubDate": "Thu, 05 Nov 2026 11:13:35 GMT",
+     "summary": "IT之家 11 月 5 日消息，蔚来创始人、董事长、CEO 李斌与吉利控股集团董事长李书福在 2026 世界互联网大会 · 乌镇咖荟 · 汽车夜话进行对话，这是双方继 9 月 28 日蔚来与吉利控股达成充换电战略合作后的首次公开对话。 据新浪科技报道，对于双方战略合作， 李斌表示蔚来一直希望与一家全球性汽车企业达成合作 ，与其选择外部车企不如和国内同行牵手。与吉利达成充换电战略合作，从两年前签署战略框架，到今年在资本、技术、产品、运营层面达成非常立体的紧密合作， 是双方深思熟虑的结果 。 李斌认为，中国汽车过去 20 年处在增量时代，但此刻已经进入存量竞争时代，需要进行思维的切换，“在这个新范",
+     "source": "IT之家",
+     "zh": "蔚来李斌称与吉利达成充换电战略合作是双方深思熟虑的结果，存量竞争时代合作变得更重要"
+    },
+    {
+     "title": "Ricursive releases Ripple-65B Preview, a general-purpose variant of its AI model for automating advanced chip design, under Apache 2.0, costing $0.60/1M output (Carl Franzen/VentureBeat)",
+     "link": "https://www.techmeme.com/261105/p14#a261105p14",
+     "pubDate": "Thu, 05 Nov 2026 06:10:01 -0500",
+     "summary": "Carl Franzen / VentureBeat : Ricursive releases Ripple-65B Preview, a general-purpose variant of its AI model for automating advanced chip design, under Apache 2.0, costing $0.60/1M output &nbsp; &mdash;&nbsp; There's another American victory worth paying attention to today: a new, open weights AI m",
+     "source": "Techmeme",
+     "zh": "Ricursive releases Ripple-65B Preview, a general-purpose variant of its AI model for automating advanced chip design, under Apache 2.0, costing $0.60/1M output (Carl Franzen/VentureBeat)"
+    },
+    {
+     "title": "她出版绘本让自闭症儿子“被接纳”，却被邻居起诉“滋扰”，反诉后获赔800万",
+     "link": "https://www.huxiu.com/article/4903337.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 19:09:51 +0800",
+     "summary": "本文来自微信公众号： 大米和小米 ，编辑：苏渡何言，作者：自闭症权益 2026年10月29日，据美国NBC Bay Area报道，加州圣何塞14岁自闭症少年Zeek的家庭，在针对邻居的反诉中获得陪审团支持，裁赔800万美元。 冲突始于邻居Janine Chun Lu称，Zeek在他们家后院发出的声音干扰了她的工作和生活。2023年12月，她把Zeek、他的家人和房东告上法庭——此时这家人已搬离约一年半；2024年3月，Zeek一家提出反诉。 Zeek没有口语，属于需要支持程度最高的第三级（Level 3）自闭症。家人说，他在后院发出的声音，是他表达情绪的方式；对方则持续投诉、录音，并使用过侮辱",
+     "source": "虎嗅",
+     "zh": "她出版绘本让自闭症儿子“被接纳”，却被邻居起诉“滋扰”，反诉后获赔800万"
+    },
+    {
+     "title": "“明厨亮灶”该不该提速，餐饮人怎么看？",
+     "link": "https://www.huxiu.com/article/4903335.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 19:07:30 +0800",
+     "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 这年头，餐饮开始比拼信任 2026年，“消费者信任”正在成为餐饮行业的核心命题。内参君观察到，今年的几个主流趋势都围绕它展开。 首先是席卷餐饮圈的板前模式热潮。中餐、快餐、小吃、火锅纷纷把灶台搬到吧台前面，新荣记、新京熹、煲仔皇相继入局。板前热的本质，就是把后厨的制作过程变成前厅的体验产品，用“被看见”来降低消费者的决策焦虑。 另一股风潮，是九毛九、老乡鸡、徐记海鲜等头部品牌落地的透明化菜单。九毛九旗下的太二酸菜鱼推行ABCD分类法，将菜品的食材鲜活度和预处理程度变成菜单上的坐标。老乡鸡更早一步，用“红绿灯”三色标识区分菜品加工等级。 如果说",
+     "source": "虎嗅",
+     "zh": "“明厨亮灶”该不该提速，餐饮人怎么看？"
+    },
+    {
      "title": "Nintendo reports Q2 net profit down 16% YoY to $468M, as rising Switch 2 component costs cut into its margins; Switch 2&apos;s H1 FY 2027 sales fell 37% YoY to 6.49M (Takashi Mochizuki/Bloomberg)",
      "link": "https://www.techmeme.com/261105/p13#a261105p13",
      "pubDate": "Thu, 05 Nov 2026 06:05:06 -0500",
@@ -1762,12 +1834,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nintendo reports Q2 net profit down 16% YoY to $468M, as rising Switch 2 component costs cut into its margins; Switch 2&apos;s H1 FY 2027 sales fell 37% YoY to 6.49M (Takashi Mochizuki/Bloomberg)"
     },
     {
-     "title": "反对声浪下 OpenAI 重申将承担数据中心供电成本，承诺将征求社区意见、公开建设规划",
+     "title": "反对声浪下 OpenAI 重申将承担数据中心供电成本，承诺征求社区意见、公开建设规划",
      "link": "https://www.ithome.com/1/022/958.htm",
      "pubDate": "Thu, 05 Nov 2026 11:04:59 GMT",
      "summary": "IT之家 11 月 5 日消息，面对全美各地针对数据中心耗电、耗水及噪音等问题的强烈抵制，当地时间 11 月 5 日，OpenAI 发布《国家社区契约》（National Community Compact）与《算力园区政策蓝图》（Compute Campus Policy Blueprint）。 OpenAI 宣布，未来在就项目选址进行协商沟通时，将不再要求地方公职人员签署保密协议，不过核心商业秘密仍将依法保留。 OpenAI 承诺，未来每个由 OpenAI 拥有并运营的算力园区，都将签署专属的本地社区契约。将在规划前期尽早引入居民深度参与，确保其诉求实质性融入项目蓝图；在园区全生命周期内设",
      "source": "IT之家",
-     "zh": "反对声浪下 OpenAI 重申将承担数据中心供电成本，承诺将征求社区意见、公开建设规划"
+     "zh": "反对声浪下 OpenAI 重申将承担数据中心供电成本，承诺征求社区意见、公开建设规划"
     },
     {
      "title": "美国中期选举结束，AI深度伪造的监管困境仍然待解",
@@ -1792,22 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
      "source": "Stratechery",
      "zh": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI"
-    },
-    {
-     "title": "特斯拉在德国柏林启用 Cybaer 工程中心，缩短开发与产能爬坡周期",
-     "link": "https://www.ithome.com/1/022/948.htm",
-     "pubDate": "Thu, 05 Nov 2026 10:58:55 GMT",
-     "summary": "IT之家 11 月 5 日消息，据汽车媒体 Teslarati 今天报道，特斯拉已在德国柏林启用全新工程中心 Cybaer，此处集中了特斯拉欧洲零部件设计和测试团队，可缩短开发与产能爬坡周期。 据介绍，这座工程中心将原本分散在 4 处的工程设施和 30 间实验室整合在同一园区，将材料、动力系统、整车工程和验证团队放入同一屋檐下。此工程中心原本是一座电缆工厂，目前约有 250 名工程师和技术人员开始工作。 同时，特斯拉已经向政府提交了工程中心二期建设申请，计划将员工人数增加至 500 人。特斯拉表示，该项目总投资额为 1 亿欧元 （IT之家注：现汇率约合 7.5 亿元人民币） 。 此外，该中心将",
-     "source": "IT之家",
-     "zh": "特斯拉在德国柏林启用 Cybaer 工程中心，缩短开发与产能爬坡周期"
-    },
-    {
-     "title": "安耐美：市面 AQUAFUSION II 240/360 液冷存在非正规货源，消费者购买时需核对序列号",
-     "link": "https://www.ithome.com/1/022/945.htm",
-     "pubDate": "Thu, 05 Nov 2026 10:54:22 GMT",
-     "summary": "IT之家 11 月 5 日消息，PC DIY 硬件制造商安耐美 (ENERMAX) 中国官方今日以声明指出，市面上售卖的 AQUAFUSION II 240/360 处理器一体式液冷散热器中 包含非正规流通货源 ，存在仿冒 风险。 IT之家注： 这里指的应该是 AQUAFUSION II ARGB 的 240mm 与 360mm 版本，即下图中的产品。 安耐美表示， AQUAFUSION II 240/360 液冷中 仅有序列号 (SN) 位于 2533120142257 ~ 2533120142456 范围内 的是安耐美官方正规正品 ，可正常享受安耐美原厂全套质保、漏液赔付等官方售后政策，用",
-     "source": "IT之家",
-     "zh": "安耐美：市面 AQUAFUSION II 240/360 液冷存在非正规货源，消费者购买时需核对序列号"
     },
     {
      "title": "特朗普中期受挫，中国经济能松口气吗？",
@@ -1842,30 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI pledges to change how it handles data center deals, including avoiding nondisclosure agreements and cutting power usage, after Democrats&apos; midterm wins (Dina Bass/Bloomberg)"
     },
     {
-     "title": "法国一银行遭网络攻击，约 1 亿欧元被转走并兑换成加密货币",
-     "link": "https://www.ithome.com/1/022/942.htm",
-     "pubDate": "Thu, 05 Nov 2026 10:44:42 GMT",
-     "summary": "IT之家 11 月 5 日消息，法国地区性银行阿尔凯亚互助信贷银行（Crédit Mutuel Arkéa）周三表示，该行遭遇网络攻击，黑客通过此次攻击实施了欺诈性转账，涉案金额约为 1 亿欧元 （IT之家注：现汇率约合 7.5 亿元人民币） 。 该银行表示，此次攻击目前已得到控制。黑客入侵了阿尔凯亚银行自身的账户，并向其他银行账户转账，并未侵入客户账户，因此客户没有遭受任何资金损失。 阿尔凯亚银行补充称，被盗资金随后通过专业交易平台兑换成了加密货币。目前，部分资金已被冻结，银行也正在采取其他措施追回剩余资金。 该银行排除了相关转账由人为操作失误造成的可能性，并表示：“这是一次来自外部的复杂网",
-     "source": "IT之家",
-     "zh": "法国一银行遭网络攻击，约 1 亿欧元被转走并兑换成加密货币"
-    },
-    {
-     "title": "日本运营商 NTT Docomo 发生全国性 5G SA 通信故障，官方建议切换至 4G",
-     "link": "https://www.ithome.com/1/022/941.htm",
-     "pubDate": "Thu, 05 Nov 2026 10:40:52 GMT",
-     "summary": "IT之家 11 月 5 日消息，日本运营商 NTT Docomo 今日发布公告，该公司的移动通信服务（5G SA 语音通话、数据通信、短信）出现使用异常， 影响范围覆盖全日本 。 当地时间 11 月 05 日上午 11 点 18 分左右起出现该故障，本次故障的具体原因仍在持续调查中。截至目前的排查显示，包括故障发生前后，均未发现任何未授权访问痕迹或网络攻击迹象。 据介绍，租用 DOCOMO 网络的虚拟运营商（MVNO）用户不受影响，未签约 5G SA 服务的普通 5G 及 4G 服务用户不受影响。 官方表示，用户可尝试进入手机系统网络设置， 将首选网络模式切换为 4G ，随后重启手机或开关一次",
-     "source": "IT之家",
-     "zh": "日本运营商 NTT Docomo 发生全国性 5G SA 通信故障，官方建议切换至 4G"
-    },
-    {
-     "title": "Sunil Mittal, founder of India&apos;s second-largest telco Airtel, says Airtel-backed OneWeb can build a satellite-internet network independent of the US and China (Aryan Gupta/Bloomberg)",
-     "link": "https://www.techmeme.com/261105/p10#a261105p10",
-     "pubDate": "Thu, 05 Nov 2026 05:40:01 -0500",
-     "summary": "Aryan Gupta / Bloomberg : Sunil Mittal, founder of India's second-largest telco Airtel, says Airtel-backed OneWeb can build a satellite-internet network independent of the US and China &nbsp; &mdash;&nbsp; Indian billionaire Sunil Bharti Mittal is betting he can build a global satellite-internet net",
-     "source": "Techmeme",
-     "zh": "Sunil Mittal, founder of India&apos;s second-largest telco Airtel, says Airtel-backed OneWeb can build a satellite-internet network independent of the US and China (Aryan Gupta/Bloomberg)"
-    },
-    {
      "title": "具身智能，变天了",
      "link": "https://www.tmtpost.com/8194393.html",
      "pubDate": "Thu, 05 Nov 2026 18:31:01 +0800",
@@ -1898,36 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "瑞幸这场仗，赢在少送几单，难在多卖一杯"
     },
     {
-     "title": "Sony reports Q2 revenue of ~$21.7B, operating profit of $3.94B, both above est., and 2.6M PS5 sales, as GTA VI sparks a US sales jump, especially of the PS5 Pro (Takashi Mochizuki/Bloomberg)",
-     "link": "https://www.techmeme.com/261105/p9#a261105p9",
-     "pubDate": "Thu, 05 Nov 2026 05:30:29 -0500",
-     "summary": "Takashi Mochizuki / Bloomberg : Sony reports Q2 revenue of ~$21.7B, operating profit of $3.94B, both above est., and 2.6M PS5 sales, as GTA VI sparks a US sales jump, especially of the PS5 Pro &nbsp; &mdash;&nbsp; Sony Group Corp. raised its profit outlook after a string of entertainment hits propel",
-     "source": "Techmeme",
-     "zh": "Sony reports Q2 revenue of ~$21.7B, operating profit of $3.94B, both above est., and 2.6M PS5 sales, as GTA VI sparks a US sales jump, especially of the PS5 Pro (Takashi Mochizuki/Bloomberg)"
-    },
-    {
      "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
      "link": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
      "pubDate": "Thu, 05 Nov 2026 10:30:00 +0000",
      "summary": "An extremely rare matter-decay event opens up new possibilities for researching the physical world on scales 100 billion times smaller than an atom.",
      "source": "WIRED",
      "zh": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’"
-    },
-    {
-     "title": "看一个家庭到底有钱没钱，不看房不看车，就看给娃教育花多少钱",
-     "link": "https://www.huxiu.com/article/4902077.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 18:30:00 +0800",
-     "summary": "教育支出超过家庭年收入三成，家里基本都在勒紧裤腰带，反而越有钱的家庭越敢&ldquo;放手&rdquo;不鸡娃，因为他们容错率高。钱买不来孩子的天赋，鸡娃不如鸡自己，存下来的钱留给孩子闯荡，比什么都强。",
-     "source": "虎嗅",
-     "zh": "看一个家庭到底有钱没钱，不看房不看车，就看给娃教育花多少钱"
-    },
-    {
-     "title": "Gemini 正在成为美国师生“不得不用”的AI",
-     "link": "https://www.huxiu.com/article/4903320.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 18:19:59 +0800",
-     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《Gemini 正在成为美国师生「不得不用」的 AI》 Gemini将成为美国学生不得不用的AI。 近日，Google宣布了一项看似让步的政策调整：从明年初开始，其K-12教育账户中的AI工具将默认关闭，学校管理员可以自行决定是否为学生启用Gemini等功能。消息传出后，不少教育工作者松了口气，觉得终于有了选择的余地。 但重点藏在了「小字」里，附带条款提到「搜索和AI是深度融合的」，不能二选一。 换言之，一旦学校选择屏蔽AI，学生将连Google搜索也一并失去，屏幕上只会显示一条来自学校的提示，说明该服务暂不可用。 这个时代的",
-     "source": "虎嗅",
-     "zh": "Gemini 正在成为美国师生“不得不用”的AI"
     },
     {
      "title": "China’s Standalone Battery Boom Pays Equipment Makers First",
@@ -1973,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
      "link": "https://hachyderm.io/@damienmiller/117563026759098135",
      "pubDate": "Thu, 05 Nov 2026 09:46:17 +0000",
-     "summary": "Article URL: https://hachyderm.io/@damienmiller/117563026759098135 Comments URL: https://news.ycombinator.com/item?id=50377221 Points: 27 # Comments: 5",
+     "summary": "Article URL: https://hachyderm.io/@damienmiller/117563026759098135 Comments URL: https://news.ycombinator.com/item?id=50377221 Points: 28 # Comments: 6",
      "source": "Hacker News",
      "zh": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability"
     },
@@ -1981,17 +1989,9 @@ window.INDUSTRY_DATA = {
      "title": "Baidu released ERNIE 5.5 Flash Base",
      "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
      "pubDate": "Thu, 05 Nov 2026 09:29:12 +0000",
-     "summary": "Article URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/ Comments URL: https://news.ycombinator.com/item?id=50377078 Points: 27 # Comments: 21",
+     "summary": "Article URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/ Comments URL: https://news.ycombinator.com/item?id=50377078 Points: 37 # Comments: 26",
      "source": "Hacker News",
      "zh": "Baidu released ERNIE 5.5 Flash Base"
-    },
-    {
-     "title": "宏碁 2026Q1~Q3 归母净利润增长 85%，公布新任 COO、CTO",
-     "link": "https://www.ithome.com/1/022/884.htm",
-     "pubDate": "Thu, 05 Nov 2026 09:05:57 GMT",
-     "summary": "IT之家 11 月 5 日消息，宏碁今日发布 2026 年前三季度与第三季度财务数据： 前三季度 营业总收入 ：2495.48 亿新台币，同比增长 23.99% 毛利润 ：287.48 亿新台币，同比增长 34.36% 毛利率 ：11.52%，同比增长 0.89 个百分点 归母净利润 ：50.09 亿新台币，同比增长 84.82% 基本每股收益 ：1.67 新台币，同比增长 85.56% 第三季度 营业总收入 ：918.22 亿新台币，同比增长 25.1%、环比增长 7.6% 毛利润 ：109.62 亿新台币，同比增长 33.9%、环比增长 13.0% 毛利率 ：11.9% 归母净利润 ：21",
-     "source": "IT之家",
-     "zh": "宏碁 2026Q1~Q3 归母净利润增长 85%，公布新任 COO、CTO"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Oppo Reno17 series officially confirmed to arrive in a few days",
+     "link": "https://www.gsmarena.com/oppo_reno17_series_officially_confirmed_to_arrive_in_a_few_days-news-75360.php",
+     "pubDate": "Thu, 05 Nov 2026 12:23:02 +0100",
+     "summary": "It's time for the second Oppo Reno upgrade for the year, following the usual biannual upgrade cycle that the company has maintained for years now. So far, we've only heard some rumors and seen some teasers, but now Oppo has officially confirmed on Weibo that the Reno17 series will launch in China on",
+     "source": "GSMArena",
+     "zh": "Oppo Reno17 series officially confirmed to arrive in a few days"
+    },
     {
      "title": "I downloaded the first third-party app store from Google Play, and I’m hopeful for what’s next",
      "link": "https://www.androidauthority.com/google-play-third-party-store-hands-on-3728227/",
@@ -2130,14 +2138,6 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung Galaxy Buds4 Pro and Buds3 Pro will soon work as hearing aids"
     },
     {
-     "title": "Redmi Turbo 6 Max's battery capacity leaks, and it's huge",
-     "link": "https://www.gsmarena.com/redmi_turbo_6_maxs_battery_capacity_leaks_and_its_huge-news-75348.php",
-     "pubDate": "Thu, 05 Nov 2026 05:31:02 +0100",
-     "summary": "Just yesterday, the Redmi Turbo 6 Max's screen details leaked, and before that it was rumored to come with a battery of over 10,000 mAh. Now, a reliable tipster has gotten more specific on that front. According to him, the phone is confirmed to have an 11,000 mAh battery, rated at 40.72Wh. He didn't",
-     "source": "GSMArena",
-     "zh": "Redmi Turbo 6 Max's battery capacity leaks, and it's huge"
-    },
-    {
      "title": "Apple 官网排版细节鉴赏",
      "link": "https://sspai.com/post/115399",
      "pubDate": "Thu, 05 Nov 2026 10:57:22 +0800",
@@ -2250,76 +2250,116 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Cigna raises 2026 adjusted EPS outlook after Q3 earnings beat expectations",
-     "link": "https://seekingalpha.com/news/4666334-cigna-raises-2026-adjusted-eps-outlook-after-q3-earnings-beat-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 06:07:42 -0500",
+     "title": "Privia Health Group reports mixed Q3 results; raises FY26 outlook",
+     "link": "https://seekingalpha.com/news/4666368-privia-health-group-reports-mixed-q3-results-raises-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 06:25:15 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Cigna raises 2026 adjusted EPS outlook after Q3 earnings beat expectations"
+     "zh": "Privia Health Group reports mixed Q3 results; raises FY26 outlook"
     },
     {
-     "title": "AngloGold Ashanti Non-GAAP EPS of $1.55 misses by $0.25, revenue of $2.56B misses by $300M",
-     "link": "https://seekingalpha.com/news/4666336-anglogold-ashanti-non-gaap-eps-of-1_55-misses-by-0_25-revenue-of-2_56b-misses-by-300m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 06:07:34 -0500",
+     "title": "Comfort Systems amends stock repurchase program",
+     "link": "https://seekingalpha.com/news/4666350-comfort-systems-amends-stock-repurchase-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 06:22:57 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "AngloGold Ashanti Non-GAAP EPS of $1.55 misses by $0.25, revenue of $2.56B misses by $300M"
+     "zh": "Comfort Systems amends stock repurchase program"
     },
     {
-     "title": "Duke Energy beats top-line and bottom-line estimates; narrows FY26 outlook",
-     "link": "https://seekingalpha.com/news/4666335-duke-energy-beats-top-line-and-bottom-line-estimates-narrows-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 06:06:24 -0500",
+     "title": "Cognition Therapeutics GAAP EPS of -$0.04 beats by $0.03",
+     "link": "https://seekingalpha.com/news/4666367-cognition-therapeutics-gaap-eps-of--004-beats-by-003?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 06:22:42 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Duke Energy beats top-line and bottom-line estimates; narrows FY26 outlook"
+     "zh": "Cognition Therapeutics GAAP EPS of -$0.04 beats by $0.03"
     },
     {
-     "title": "Celsius Non-GAAP EPS of $0.41 beats by $0.07, revenue of $847.2M beats by $46.54M",
-     "link": "https://seekingalpha.com/news/4666333-celsius-non-gaap-eps-of-0_41-beats-by-0_07-revenue-of-847_2m-beats-by-46_54m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 06:06:23 -0500",
+     "title": "Enovis Corporation Non-GAAP EPS of $0.88 beats by $0.11, revenue of $558.7M beats by $1.55M",
+     "link": "https://seekingalpha.com/news/4666366-enovis-corporation-non-gaap-eps-of-0_88-beats-by-0_11-revenue-of-558_7m-beats-by-1_55m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 06:22:25 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Celsius Non-GAAP EPS of $0.41 beats by $0.07, revenue of $847.2M beats by $46.54M"
+     "zh": "Enovis Corporation Non-GAAP EPS of $0.88 beats by $0.11, revenue of $558.7M beats by $1.55M"
     },
     {
-     "title": "Dorian LPG Non-GAAP EPS of $3.46 beats by $0.62, revenue of $221.3M beats by $32.93M",
-     "link": "https://seekingalpha.com/news/4666331-dorian-lpg-non-gaap-eps-of-3_46-beats-by-0_62-revenue-of-221_3m-beats-by-32_93m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 06:05:20 -0500",
+     "title": "Granite Real Estate Investment reports Q3 results",
+     "link": "https://seekingalpha.com/news/4666365-granite-real-estate-investment-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 06:22:10 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Dorian LPG Non-GAAP EPS of $3.46 beats by $0.62, revenue of $221.3M beats by $32.93M"
+     "zh": "Granite Real Estate Investment reports Q3 results"
     },
     {
-     "title": "Oscar Health GAAP EPS of $0.49 beats by $0.66, revenue of $5.14B beats by $420M",
-     "link": "https://seekingalpha.com/news/4666332-oscar-health-gaap-eps-of-0_49-beats-by-0_66-revenue-of-5_14b-beats-by-420m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 06:05:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Oscar Health GAAP EPS of $0.49 beats by $0.66, revenue of $5.14B beats by $420M"
-    },
-    {
-     "title": "【调研快报】四川成渝接待财通证券资管等201家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611053923652864.html",
-     "pubDate": "Thu, 05 Nov 2026 19:04:33 +0800",
-     "summary": "四川成渝 11月5日公告称， 11月5日 接待 财通证券 资管 等201家机构 调研。 接待人员包括董事会秘书 姚建成,证券事务代表 邱竹,董事会办公室职员 张一帆。 公司就以下问题进行了回复： 1.2026年第三季度公司车流量变化情况如何? 答:与行业整体走势趋同,2026年第三季度公司车流量整体承压,主要原因系国际油价持续波动影响。 2.公司二绕类REITs项目发行的原因是什么?当前进展如何? 答:本次类REITs发行,核心目标为优化资产负债结构、降低资产负债率。该项目相关材料已报送监... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 ",
+     "title": "佩斯科夫：俄方在乌克兰问题上的利益与美国内局势无关",
+     "link": "http://finance.eastmoney.com/news/1351,202611053923663616.html",
+     "pubDate": "Thu, 05 Nov 2026 19:22:10 +0800",
+     "summary": "当地时间11月5日，俄罗斯总统新闻秘书佩斯科夫表示，俄罗斯在乌克兰问题上的利益不取决于美国国内局势，在任何情况下（这些利益）都将得到保障。 他表示，俄方优先通过和平方式实现目标，只要乌克兰方面有人展现出政治意愿，和平解决途径依然存在。但在和平途径受阻的情况下，俄方将继续开展特别军事行动。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "【调研快报】四川成渝接待财通证券资管等201家机构调研"
+     "zh": "佩斯科夫：俄方在乌克兰问题上的利益与美国内局势无关"
     },
     {
-     "title": "阿曼外交大臣与伊朗外长通话 讨论推动地区局势缓和",
-     "link": "http://finance.eastmoney.com/news/1351,202611053923653045.html",
-     "pubDate": "Thu, 05 Nov 2026 19:04:29 +0800",
-     "summary": "总台记者 获悉，当地时间11月5日，阿曼外交大臣巴德尔与伊朗外交部长阿拉格齐通电话。 双方强调，应推动局势从“缓和紧张”向“巩固可持续共识”阶段过渡，包括通过切实可行的安排保障海上航道安全，以及建立联合技术机制，确保国际贸易和能源运输畅通，从而结束战争状态，防止地区冲突再次爆发。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "阿曼外交大臣与伊朗外长通话 讨论推动地区局势缓和"
+     "title": "Research firm declares ‘end of the AI trade as we know it’ — and Asian tech stocks reflect the shift",
+     "link": "https://www.marketwatch.com/story/research-firm-declares-end-of-the-ai-trade-as-we-know-it-and-asian-tech-stocks-reflect-the-shift-25ac8e8f?mod=mw_rss_topstories",
+     "pubDate": "Thu, 05 Nov 2026 11:22:00 GMT",
+     "summary": "Now that absolute value is much harder to find in the AI trade, with bets having to be made on a longer-term, more speculative basis, it’s time to search for relative value within the sector, says one research service.",
+     "source": "MarketWatch",
+     "zh": "Research firm declares ‘end of the AI trade as we know it’ — and Asian tech stocks reflect the shift"
     },
     {
-     "title": "【调研快报】帝欧水华接待国联民生证券等61家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611053923651950.html",
-     "pubDate": "Thu, 05 Nov 2026 19:03:35 +0800",
-     "summary": "帝欧水华 11月5日公告称， 11月5日 接待 国联民生 证券 等61家机构 调研。 接待人员包括董事会秘书 代雨,董事长办公室主任 胡思睿。 公司就以下问题进行了回复： 交流环节: 1. 问题:2026 年 1-9 月公司整体经营业绩如何,现金流情况如何? 回复:2026 年前三季度,公司整体营业收入有所下滑,同比下降 16.79%,但是公司整体经营情况保持了基本定力。前三季度实现归属于上市公司股东的净利润为亏损 13,300.63 万元,同比减亏 5.... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信",
+     "title": "佩斯科夫：俄罗斯代表团已获赴美签证",
+     "link": "http://finance.eastmoney.com/news/1351,202611053923663533.html",
+     "pubDate": "Thu, 05 Nov 2026 19:21:50 +0800",
+     "summary": "当地时间11月5日，俄罗斯总统新闻秘书佩斯科夫在例行新闻简报会上透露，俄罗斯代表团已获赴美签证，将由人权事务专员兰特拉托娃和负责对外投资和经济合作事务的俄总统特别代表德米特里耶夫，出席美国总统夫人梅拉尼娅举办的会晤。 佩斯科夫还表示，目前暂无安排普京与土耳其总统埃尔多安接触的具体计划，但如有需要可迅速组织。 他同时驳斥了所谓“亲俄黑客袭击欧洲 超市 制冷系统”的说法，称此类指控十分荒谬。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "【调研快报】帝欧水华接待国联民生证券等61家机构调研"
+     "zh": "佩斯科夫：俄罗斯代表团已获赴美签证"
+    },
+    {
+     "title": "ProFrac Holding reports Q3 results",
+     "link": "https://seekingalpha.com/news/4666364-profrac-holding-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 06:21:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ProFrac Holding reports Q3 results"
+    },
+    {
+     "title": "【调研快报】恒烁股份接待线上参与公司2026年三季度业绩说明会的全体投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611053923663469.html",
+     "pubDate": "Thu, 05 Nov 2026 19:21:38 +0800",
+     "summary": "恒烁股份 11月5日公告称， 11月5日 接待线上参与公司2026年三季度业绩说明会的全体投资者 调研。 接待人员包括董事长、总经理 XIANGDONG LU,副总经理、董事会秘书 周晓芳,财务总监 唐文红。 公司就以下问题进行了回复： 1.请问三季度营收和利润环比大幅下滑的原因是什么?是需求不足还是产能问题?三季度的产品价格环比是否下调?公司对存储产品后市需求和价格走势如何判断? 答:尊敬的投资者:您好,公司各季度产品结构多样三季度营收和利润略有波动,目前公司生产经营均稳定开展,后续公司将积极应对市场行情和价格变... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资",
+     "source": "东方财富股票",
+     "zh": "【调研快报】恒烁股份接待线上参与公司2026年三季度业绩说明会的全体投资者调研"
+    },
+    {
+     "title": "河南：积极开展以旧换新进社区、进乡村、进机关、进平台、进展会活动 提高“得补率”",
+     "link": "http://finance.eastmoney.com/news/1350,202611053923663996.html",
+     "pubDate": "Thu, 05 Nov 2026 19:21:16 +0800",
+     "summary": "河南省政府办公厅近日出台《河南省进一步提振消费若干政策措施》。其中提到，优化消费品以旧换新补贴政策。用足用好2026年消费品以旧换新政策，在落实全国统一补贴政策、补贴品类的基础上，我省将家用灶具(含集成灶)、吸油烟机、净水器(含直饮机、管线机)、洗碗机、干衣机、智能清洁 机器人 (含扫洗地机、擦窗 机器人 )、数码相机(含运动相机)等产品纳入补贴范围，按照最终销售价格的15%给予补贴，每件补贴不超过1500元。每位消费者每类产品省内可补贴1件，补贴资金按照“总量控制、先到先得、用完为止”原则执行。积极开展以旧换新进社区、进乡村、进机关、进平台、进展会活动，加强政策宣传引导，提高“得补率”。 （",
+     "source": "东方财富股票",
+     "zh": "河南：积极开展以旧换新进社区、进乡村、进机关、进平台、进展会活动 提高“得补率”"
+    },
+    {
+     "title": "从“生意”流向“生活”：这家零售巨头三十周年亮出B2B2C飞轮底牌",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923663747.html",
+     "pubDate": "Thu, 05 Nov 2026 19:17:51 +0800",
+     "summary": "当一家服务超十万家专业客户的企业，决定把“信任”从后厨搬上家庭餐桌，会发生什么？日前，麦德龙中国在三十周年合作伙伴峰会上给出答案——以B2B为根基，让B2B2C飞轮真正转起来。峰会以“三十同行·共启新程”为主题，超300家供应商及业界同仁共700人齐聚，见证新品牌主张“好食材，行家选”（We are food, chosen by experts）发布。 三个“长期”与六条“底线 ” 物美集团创始人、 多点数智 创始人张文中表示，麦德龙有三个“长期”：长期看好食品赛道，长期看好麦德龙，长期和合作伙伴站在一起。“中国有14亿人，每天要吃三顿饭，从吃饱到吃好，再到吃得放心、吃得讲究，这条路才刚刚开",
+     "source": "东方财富股票",
+     "zh": "从“生意”流向“生活”：这家零售巨头三十周年亮出B2B2C飞轮底牌"
+    },
+    {
+     "title": "美银全球研究下调Coherent目标价",
+     "link": "http://stock.eastmoney.com/news/1440,202611053923662218.html",
+     "pubDate": "Thu, 05 Nov 2026 19:17:04 +0800",
+     "summary": "美银全球研究将Coherent目标价从400美元下调至240美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美银全球研究下调Coherent目标价"
+    },
+    {
+     "title": "World&apos;s largest olive oil company plummets 19% after rivals agree to takeover deal",
+     "link": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
+     "pubDate": "Thu, 05 Nov 2026 11:15:05 GMT",
+     "summary": "The world's largest olive oil company, Deoleo, plummeted in early trading after two of its rivals announced plans to acquire the firm.",
+     "source": "CNBC",
+     "zh": "World&apos;s largest olive oil company plummets 19% after rivals agree to takeover deal"
     },
     {
      "title": "How the midterms could fuel the K-shaped AI trade",
@@ -2328,30 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "U.S. midterm results could slow data center development, raising the value of existing AI capacity while increasing pressure on debt-funded neoclouds.",
      "source": "CNBC",
      "zh": "How the midterms could fuel the K-shaped AI trade"
-    },
-    {
-     "title": "哈萨克斯坦聘请了Cerberus、Siguler Guff、Brookfield和Ashmore",
-     "link": "http://finance.eastmoney.com/news/1351,202611053923651660.html",
-     "pubDate": "Thu, 05 Nov 2026 19:01:28 +0800",
-     "summary": "哈萨克斯坦聘请了Cerberus、Siguler Guff、Brookfield和Ashmore。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "哈萨克斯坦聘请了Cerberus、Siguler Guff、Brookfield和Ashmore"
-    },
-    {
-     "title": "Uranium Energy与两家美国公用事业公司签署长期协议",
-     "link": "http://stock.eastmoney.com/news/1611,202611053923652074.html",
-     "pubDate": "Thu, 05 Nov 2026 19:01:28 +0800",
-     "summary": "Uranium Energy与两家美国 公用事业 公司签署长期协议。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "Uranium Energy与两家美国公用事业公司签署长期协议"
-    },
-    {
-     "title": "花旗：将麦当劳(MCD.N)目标价从295美元上调至315美元",
-     "link": "http://stock.eastmoney.com/news/1611,202611053923651817.html",
-     "pubDate": "Thu, 05 Nov 2026 19:01:28 +0800",
-     "summary": "花旗：将 麦当劳 (MCD.N)目标价从295美元上调至315美元。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "花旗：将麦当劳(MCD.N)目标价从295美元上调至315美元"
     },
     {
      "title": "美芯片巨头盘前大跌近10%！业绩指引成为股价下跌导火索",
@@ -2384,6 +2400,14 @@ window.INDUSTRY_DATA = {
      "summary": "10月以来，A股市场波动明显放大，风格切换频繁，保险资管产品业绩随之明显分化。 财联社据Wind不完全数据统计，自10月4日至11月4日，在有近一月区间回报数据的1729只保险资管产品中，正收益产品占比53%，较三季度58.3%的正收益占比进一步回落。 分大类看，固收类产品继续扮演“压舱石”角色，正收益产品占比80.5%；混合类、权益类正收益占比分别仅为24.6%、13.2%，区间回报中位数分别为-1.23%、-8.32%，权益类产品整体回撤幅度显著。具体产品业绩上，最高赚6.8%、最多亏36%，红利消费成为避风港。 机构研判，险资后市沿“高股息底仓+业绩兑现的科技成长+长久期债券”三条主线配",
      "source": "东方财富资讯",
      "zh": "最高赚6.8%、最多亏36%！保险资管产品近一月业绩分化 后市聚焦三大配置主线"
+    },
+    {
+     "title": "土地收储回笼1.81亿元 华发集团流动性情况引关注",
+     "link": "http://stock.eastmoney.com/news/11219,202611053923636791.html",
+     "pubDate": "Thu, 05 Nov 2026 18:27:27 +0800",
+     "summary": "华发集团的资产盘活动作仍在继续。 珠海市自然资源局11月4日发布一则存量闲置土地收回收购价格公示，拟以约1.81亿元的价格，收储珠海华发海岛投资开发有限公司持有的一宗土地。 值得关注的是，华发旗下债券价格近日出现波动，本次土地收储发生在华发集团流动性引发市场关注的背景下。 针对市场关注，珠海国资委及华发集团管理层相继作出回应。据媒体报道，珠海方面通过整合重组资源、市场化运作等方式，已落地支持资金超400亿元，后续还将统筹近700亿元资源支持华发集团。华发集团则表示，将通过加快销售去化，加快低效闲置土地盘活与资金回笼。 土地被收储回笼资金 根据珠海市自然资源局发布的公示信息，此次拟收储地块位于珠",
+     "source": "东方财富资讯",
+     "zh": "土地收储回笼1.81亿元 华发集团流动性情况引关注"
     },
     {
      "title": "光纤技术新突破 机构资金潜伏这些业绩高增长股",
@@ -2442,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "恒科五连阳、阿里腾讯暴涨！港股价值重估开始了？"
     },
     {
-     "title": "美中期选举引爆！这一道“光”集体飙升",
-     "link": "http://finance.eastmoney.com/news/11137,202611053923606621.html",
-     "pubDate": "Thu, 05 Nov 2026 18:03:58 +0800",
-     "summary": "光伏设备 板块11月5日表现强势 ，板块中 酉立智能 30CM涨停， 金刚光伏 、 贝特利 、 时创能源 20CM涨停； *ST亿晶 、 弘元绿能 、 钧达股份 、 赛伍技术 、 欧晶科技 、 永臻股份 、 协鑫集成 、 双良节能 亦是涨停收盘。 综合 市场观点来看，日内 光伏设备 的集体强势，与 美国民主党在中期选举中已事实上掌控参众两院 有关。这一结果被视为有利于可再生能源行业获得更有利的政策支持，并刺激全球可再生能源股票上涨。 在 太阳能 等可再生能源上，民主党和共和党的态度还是有差别的。2022年，民主党主导的国会通过 《通胀削减法案》 ，承诺投入数千亿美元用于气候和能源安全，扩大对可",
-     "source": "东方财富资讯",
-     "zh": "美中期选举引爆！这一道“光”集体飙升"
-    },
-    {
      "title": "Richard Simmons’ L.A. estate sells for $3.8 million",
      "link": "https://www.marketwatch.com/story/richard-simmons-l-a-estate-sells-for-3-8-million-abf43450?mod=mw_rss_topstories",
      "pubDate": "Thu, 05 Nov 2026 10:02:00 GMT",
@@ -2472,22 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "直播机构做自有品牌已不算新鲜事。这次的不同在于，第一款产品不是大米、纸巾这类容错率较高的标品，而是一块必须全程冷链、保质期以天计的千层蛋糕。 11 月 4 日，董宇辉通过抖音新账号“禾与春时旗舰店”发布视频，宣布与辉同行推出自有品牌“禾与春时”。首款产品为猫山王金枕榴莲千层和纯可可脂巧克力千层，定于 11 月 5 日 20 时在与辉同行直播间首发。 “禾与春时”取自春天的禾苗，按董宇辉在视频里的说法，是随着阳光雨露和时间共同成长的状态。 截至发稿，该账号粉丝已超 70 万。店铺商品仍处于待上架状态，价格、规格和保质期均未公布。 工商信息显示，禾与春时（北京）科技有限公司成立于 2026 年 8",
      "source": "华尔街见闻",
      "zh": "董宇辉自有品牌今晚开卖，直播机构都在往上游走"
-    },
-    {
-     "title": "丰田与清华合研镍氢储能系统，瞄准火电厂调频",
-     "link": "https://wallstreetcn.com/articles/3785276",
-     "pubDate": "Thu, 05 Nov 2026 18:00:03 +0800",
-     "summary": "作者 | 周智宇 丰田在将自己汽车产业中的能力，运用到更宽阔的能源生态当中。 11月5日，丰田汽车与清华大学联合研发的镍氢电池储能系统在上海举行的第九届中国国际进口博览会上全球首秀。丰田预计，这套设备将从2027年底起用于火电厂，帮助机组调节出力。 丰田为混动车研发镍氢电池近三十年，其快充快放也适合电厂调频。据丰田介绍，此次展出的系统采用水系电解液，支持高倍率充放电。火电机组根据电网频率变化增减出力时，电池可以迅速放电补上缺口，或转为充电吸收多余的电。 这是丰田连续第二年在进博会上首发与中国伙伴合研的储能产品。去年，丰田展出的是与中国五矿合研的SWEEP能量柜，多台柜体可以叠加使用，按客户需要",
-     "source": "华尔街见闻",
-     "zh": "丰田与清华合研镍氢储能系统，瞄准火电厂调频"
-    },
-    {
-     "title": "OpenAI pledges to pay for data center power after election highlights AI concerns",
-     "link": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
-     "pubDate": "Thu, 05 Nov 2026 10:00:01 GMT",
-     "summary": "OpenAI pledged to solicit community input around AI data centers, publish construction plans and protect ratepayers.",
-     "source": "CNBC",
-     "zh": "OpenAI pledges to pay for data center power after election highlights AI concerns"
     }
    ]
   },

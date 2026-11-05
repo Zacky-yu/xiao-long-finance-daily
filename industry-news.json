@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/5 09:42:48",
+ "generated_at": "2026/11/5 09:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,22 @@
      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
      "source": "TechCrunch AI",
      "zh": "Apple is reportedly cutting budgets for its internal AI usage"
+    },
+    {
+     "title": "After the midterms, a bigger clash over data centers could be coming",
+     "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+     "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
+     "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+     "source": "TechCrunch AI",
+     "zh": "After the midterms, a bigger clash over data centers could be coming"
+    },
+    {
+     "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+     "link": "https://www.qbitai.com/2026/11/507675.html",
+     "pubDate": "Thu, 05 Nov 2026 00:41:34 +0000",
+     "summary": "薪资+期权不限！实习生也能训核心模型",
+     "source": "量子位",
+     "zh": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题"
     },
     {
      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -55,14 +71,6 @@
      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
      "source": "TechCrunch AI",
      "zh": "OpenAI is already trying to shape the 2028 election"
-    },
-    {
-     "title": "Meta acquires AI coding startup Conductor",
-     "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-     "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
-     "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-     "source": "TechCrunch AI",
-     "zh": "Meta acquires AI coding startup Conductor"
     },
     {
      "title": "高通连续九年全勤赴约进博会，6G终端原型机将迎全球首展",
@@ -239,14 +247,6 @@
      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
      "source": "OpenAI",
      "zh": "A thousand fewer paths to root"
-    },
-    {
-     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-     "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-     "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
-     "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-     "source": "OpenAI",
-     "zh": "Daybreak Red is now available in AWS GovCloud (US-East)"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Apple’s harvest",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/apples-harvest-2026-11/",
+     "pubDate": "Thu, 05 Nov 2026 01:10:05 +0000",
+     "summary": "On Monday, Apple reported Q4 results with sales of $114.5 billion bringing the annual total to $478.8 billion – a 15% jump YoY. Annual profit was $132 billion, which was […] The post Apple’s harvest appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Apple’s harvest"
+    },
     {
      "title": "Asia Optical posts record Q3 profit, ramps CPO and AI optics push",
      "link": "https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html",
@@ -447,14 +455,6 @@
      "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
-    },
-    {
-     "title": "HMGCC Challenge seeks technology to identify hostile RF emitters",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/hmgcc-challenge-seeks-technology-to-identify-hostile-rf-emitters-2026-11/",
-     "pubDate": "Wed, 04 Nov 2026 10:43:35 +0000",
-     "summary": "The HMGCC (His Majesty’s Government Communications Centre) is launching a challenge – via the Satellite Applications Catapult – to create technology that can identify hostile RF emitters in battlefield situations. […] The post HMGCC Challenge seeks technology to identify hostile RF emitters appeared",
-     "source": "Electronics Weekly",
-     "zh": "HMGCC Challenge seeks technology to identify hostile RF emitters"
     },
     {
      "title": "Marvell’s acquisition of Lumentum could challenge Broadcom’s market leadership, says TrendForce",
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Baidu unveils Apollo World model to let AI teach AI to drive",
+     "link": "https://cnevpost.com/2026/11/05/baidu-apollo-world-model-ai-teach-ai-to-drive/",
+     "pubDate": "Thu, 05 Nov 2026 01:47:28 +0000",
+     "summary": "The model uses AI agents to simulate traffic and is already supporting Apollo Go's global testing and validation. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Baidu unveils Apollo World model to let AI teach AI to drive"
+    },
+    {
      "title": "High gas prices are pumping up used EV sales: these are FLYING off the lot",
      "link": "https://electrek.co/2026/11/04/high-gas-prices-are-pumping-up-used-ev-sales-these-are-flying-off-the-lot/",
      "pubDate": "Thu, 05 Nov 2026 01:13:53 +0000",
@@ -791,14 +799,6 @@
      "summary": "The Electra GS plug-in hybrid sedan features a fastback design and an electric motor with a peak output of 165 kW (221 hp). For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Buick Electra GS appears in China regulatory filing, expanding NEV lineup"
-    },
-    {
-     "title": "BYD's Denza N9 to add all-electric version with 5- and 6-seat layouts",
-     "link": "https://cnevpost.com/2026/11/04/byd-denza-n9-all-electric-version-filing/",
-     "pubDate": "Wed, 04 Nov 2026 05:26:38 +0000",
-     "summary": "The all-electric Denza N9 features a tri-motor all-wheel-drive system with a combined peak output of 890 kW (1,194 hp). For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD's Denza N9 to add all-electric version with 5- and 6-seat layouts"
     },
     {
      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
@@ -945,12 +945,12 @@
      "zh": "‘Every solar plant can be a data center’"
     },
     {
-     "title": "Trump ban on foreign grid components sparks industry concern over cost, practicality",
+     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
      "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
      "pubDate": "Wed, 04 Nov 2026 11:41:26 -0500",
-     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
+     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
-     "zh": "Trump ban on foreign grid components sparks industry concern over cost, practicality"
+     "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
     },
     {
      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
@@ -1745,6 +1745,38 @@
    "total": 18,
    "items": [
     {
+     "title": "启境 CEO 刘嘉铭称 L3 是下一代智能汽车分水岭，并非 L2 简单升级",
+     "link": "https://www.ithome.com/1/022/528.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:47:24 GMT",
+     "summary": "IT之家 11 月 5 日消息，据新浪汽车本周报道，启境 CEO 刘嘉铭在媒体专访播客中谈到 L3 路线之争。 针对行业关注的“L3 是否会被跳过”“L3 是技术升级还是架构革命”等问题，刘嘉铭判断， L3 是下一代智能汽车的分水岭，并非 L2 的简单升级 。他认为，冰箱、彩电、大沙发等更多属于场景功能创新，真正的竞争壁垒仍来自底层技术架构。 由广汽与华为乾崑联合打造的启境 GX7 于今年 9 月上市 ，宣称是同级唯一搭载面向 L3 级自动驾驶架构的车型，实现供电、转向、制动、通信、定位、算力、感知、交互全链路八大冗余；同级唯一 4 颗激光雷达，搭载 38 个高性能传感器（前向 14 个、后向",
+     "source": "IT之家",
+     "zh": "启境 CEO 刘嘉铭称 L3 是下一代智能汽车分水岭，并非 L2 简单升级"
+    },
+    {
+     "title": "断网也能搜邮件：微软给 Win10/Win11 经典版 Outlook 加上“本地搜索”",
+     "link": "https://www.ithome.com/1/022/527.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:45:41 GMT",
+     "summary": "IT之家 11 月 5 日消息，科技媒体 Windows Latest 今天（11 月 5 日）发布博文，报道称针对 Windows 10、Windows 11 平台经典版 Outlook 应用（Outlook Classic）， 微软计划升级搜索体验，在断网情况下也能搜索邮件。 该媒体指出在云端搜索响应缓慢、网络连接不稳或完全离线后，经典版 Outlook 应用会自动回退到 Windows 本地索引进行搜索，帮助用户继续查找已保存在电脑中的邮件和附件。 微软表示，本地搜索对离线场景，以及 PST 文件、POP 或 IMAP 账户等未完全存储在云端的内容仍然必要。该功能目前仅限经典版 Outl",
+     "source": "IT之家",
+     "zh": "断网也能搜邮件：微软给 Win10/Win11 经典版 Outlook 加上“本地搜索”"
+    },
+    {
+     "title": "国内一半算力都在“造爽剧”？先别急着批评中国AI“不务正业”！",
+     "link": "https://www.huxiu.com/article/4903133.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 09:39:42 +0800",
+     "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士，原文标题：《国内一半算力都在“造爽剧”？先别急着批评中国AI“不务正业”！》 “国内超一半算力在造爽剧”，这句话很抓眼球，也很容易让人产生一种焦虑：中国投入大量资源发展人工智能，结果大部分资源却被短剧、视频和广告消耗了——美国在做科研、写代码，中国却在生产爽剧？ 但这句话把几个不同概念压缩成了一个结论：把Token消耗说成算力投入，把一家公司披露的行业估算说成全国统计，再把消费场景占比高，直接推导成产业方向走偏。 争论并非没有价值。短剧和营销占据很高的Token消耗比例确实值得关注，但要判断资源配置是否合理，不能只看一个未经充分",
+     "source": "虎嗅",
+     "zh": "国内一半算力都在“造爽剧”？先别急着批评中国AI“不务正业”！"
+    },
+    {
+     "title": "具身智能，变天了",
+     "link": "https://www.huxiu.com/article/4903132.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 09:35:45 +0800",
+     "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 数采爆单，具身大脑公司慌了。 定焦One（dingjiaoone）原创 一家成立一年半左右的具身智能数据服务公司，最近两周接到的数据采购订单超过了此前两个月的量，这在整个具身行业融资环境收紧的背景下就像是一针强心剂。 “订单不仅来自具身行业，一些曾经只询价不下单的基模大厂也开始下单了。”这家公司的创始人告诉「定焦One」。 变化始于GPT-6 Astra的发布，9月初，OpenAI发布最新一代模型后，社交媒体上出现大量用Astra控制机械臂做各种任务的测试，不少具身从业者发现，通用的多模态基础模型也具备了空间理解的能力，可以",
+     "source": "虎嗅",
+     "zh": "具身智能，变天了"
+    },
+    {
      "title": "游族网络拟 42 亿元买 GPU，推进公司转型升级",
      "link": "https://www.ithome.com/1/022/526.htm",
      "pubDate": "Thu, 05 Nov 2026 01:35:02 GMT",
@@ -1775,22 +1807,6 @@
      "summary": "IT之家 11 月 5 日消息，据《The Information》当地时间 11 月 4 日报道，OpenAI 最快可能于当地时间周五（11 月 6 日）发布新一代 Astra、Sol 系列模型，以及面向网络安全领域的 Cyber 模型。 不过，报道没有披露具体型号编号，也未提供定价、上下文窗口长度或基准测试成绩。目前尚不清楚这些模型是否会首先通过 API、ChatGPT、Codex 或合作伙伴渠道推出。 IT之家此前报道，部分用户已经在 Codex 用量统计中发现了“gpt-6.2-astra”这一模型标识，尽管产品界面的模型选择器仍显示 GPT-6 Astra。 此外，疑似首批参与灰度测",
      "source": "IT之家",
      "zh": "曝 OpenAI 新一代 GPT-6.2 Astra、Sol 及 Cyber 网安模型最快周五发布"
-    },
-    {
-     "title": "JBL Professional 推出 3 系列 MkIII 家族有源监听音箱及超低音音箱",
-     "link": "https://www.ithome.com/1/022/521.htm",
-     "pubDate": "Thu, 05 Nov 2026 01:25:19 GMT",
-     "summary": "IT之家 11 月 5 日消息，三星电子旗下 HARMAN Professional Solutions 本月早些时候发布了 JBL Professional 3 系列 MkIII 产品家族。新品传承系列经典基因，同时 拥有全新设计的声学系统、全新 D 类功放、简化的房间优化功能、集成式安装方案 。 JBL Professional 3 系列 MkIII 包括 3 款有源二分频录音室监听音箱 305P MkIII (5\")、306P MkIII (6.5\")、308P MkIII (8\") 和 1 款有源超低音音箱 310S MkIII (10\")。 其全新高频单元能提供更宽广、更均匀的聆听区",
-     "source": "IT之家",
-     "zh": "JBL Professional 推出 3 系列 MkIII 家族有源监听音箱及超低音音箱"
-    },
-    {
-     "title": "中国移动支付业务“和包”升级为“移动钱包”，带来三大全新体验",
-     "link": "https://www.ithome.com/1/022/520.htm",
-     "pubDate": "Thu, 05 Nov 2026 01:22:03 GMT",
-     "summary": "IT之家 11 月 5 日消息，中移支付有限公司今日官宣， 中国移动“和包”升级为“移动钱包” ，汇聚话费充值、移动出行、权益卡券等各类场景与优惠。 该应用最早在 2011 年推出，原名“手机支付”“手机钱包”，是中国移动面向个人和企业客户提供的一项综合性移动支付业务。 用户开通业务后，即可享受线上支付（互联网购物、充话费、生活缴费等）功能；持 NFC 手机和 NFC-SIM 卡的用户，更可享刷卡功能，把银行卡、公交卡、会员卡装进手机里，实现特约商家（便利店、商场、公交、地铁等）线下消费（业务功能费全免）。 IT之家从官方公告了解到，升级为“移动钱包”后，用户可以享受三大全新体验： 资产汇聚 ",
-     "source": "IT之家",
-     "zh": "中国移动支付业务“和包”升级为“移动钱包”，带来三大全新体验"
     },
     {
      "title": "咖啡杯已装不下瑞幸的野心",
@@ -1839,30 +1855,6 @@
      "summary": "Carmen Arroyo / Bloomberg : Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication &nbsp; &mdash;&nbsp; Goldman Sachs Group Inc. and Apollo Global Management Inc. are in talks with Wall Street in",
      "source": "Techmeme",
      "zh": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX&apos;s ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)"
-    },
-    {
-     "title": "After the midterms, a bigger clash over data centers could be coming",
-     "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-     "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
-     "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-     "source": "TechCrunch",
-     "zh": "After the midterms, a bigger clash over data centers could be coming"
-    },
-    {
-     "title": "在农村，穷家娇子越来越多了",
-     "link": "https://www.huxiu.com/article/4903114.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 09:01:00 +0800",
-     "summary": "本文来自微信公众号： 秦尹 ，作者：秦尹，题图来自：视觉中国 01 在所有塑造&ldquo;穷家娇子&rdquo;的文本里，《包氏父子》无疑是最典型之一。 这部写于一九三四年的短篇小说，距今已近百年，可它所暴露出的家庭教育里的畸形现象，至今非但没有消失，反而在许多家庭，特别是农村家庭愈演愈烈。 小说主人包国维的父亲老包，在刘公馆当差三十年，见惯了上流人家的生活，深知翻身无望的他，将所有希望压在唯一的儿子的身上，在老包的认知里，只要包国维从洋学堂出来，就会成为老爷，而他自然也就是&ldquo;老太爷&rdquo;了。 为了实现这个盼头，老包竭力满足儿子所有不切实际的需求。 包国维要皮鞋，他买。 ",
-     "source": "虎嗅",
-     "zh": "在农村，穷家娇子越来越多了"
-    },
-    {
-     "title": "马斯克大战印度首富？",
-     "link": "https://www.huxiu.com/article/4901792.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 09:00:00 +0800",
-     "summary": "安巴尼背靠石油帝国，10年前靠4G网络血洗全场，如今又复制一套大手笔卫星计划，目标就是不让马斯克轻松分羹。单挑马斯克的星链，靠谱吗？",
-     "source": "虎嗅",
-     "zh": "马斯克大战印度首富？"
     },
     {
      "title": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)",
@@ -1983,6 +1975,14 @@
      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
      "source": "Ars Technica",
      "zh": "Uranium cubes reveal why the German nuclear project failed"
+    },
+    {
+     "title": "Snapchat surpasses 30M paid subscribers",
+     "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+     "pubDate": "Wed, 04 Nov 2026 21:49:29 +0000",
+     "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+     "source": "TechCrunch",
+     "zh": "Snapchat surpasses 30M paid subscribers"
     }
    ]
   },
@@ -2241,6 +2241,94 @@
    "total": 13,
    "items": [
     {
+     "title": "德克萨斯变“蓝”，美国45%数据中心扩张计划面临冻结",
+     "link": "https://wallstreetcn.com/articles/3785228",
+     "pubDate": "Thu, 05 Nov 2026 09:44:14 +0800",
+     "summary": "德克萨斯州变天，美国AI建设的最大单一州刚刚拉下了“闸刀”。 2026年11月4日深夜11点17分（美东时间），美联社宣布：民主党人Gina Hinojosa以约52.8%对45.7%的得票率，击败共和党现任州长Greg Abbott，成为德克萨斯州30余年来首位民主党州长， 其核心竞选承诺是立即暂停新数据中心审批。 这一结果让华尔街措手不及。美国银行选前指出，“几乎没有证据显示股市反映了任何（德州）州长易主的概率”；预测平台Polymarket在10月中旬给Gina Hinojosa的胜选概率仅为 24.5% 。消息落地后，纳斯达克期货一度急跌，随后从低点反弹929点——而真正的问题在于：胜",
+     "source": "华尔街见闻",
+     "zh": "德克萨斯变“蓝”，美国45%数据中心扩张计划面临冻结"
+    },
+    {
+     "title": "国家发展改革委等五部门印发《实施全面节约战略行动方案》",
+     "link": "http://www.eeo.com.cn/2026/1105/1084465.shtml",
+     "pubDate": "Thu, 05 Nov 2026 09:44:01 +0800",
+     "summary": "11月4日，国家发展改革委等五部门印发《实施全面节约战略行动方案》。其中提出，加快布局一批稀贵金属资源循环利用项目，推进有价组分回收和高值化利用。促进废塑料、废旧纺织品等回收利用。到2030年，大宗固体废弃物年利用量达到45亿吨左右。 （来源：国家发展和改革委员会官网）",
+     "source": "经济观察网",
+     "zh": "国家发展改革委等五部门印发《实施全面节约战略行动方案》"
+    },
+    {
+     "title": "燃料油跌超12%",
+     "link": "http://www.eeo.com.cn/2026/1105/1084464.shtml",
+     "pubDate": "Thu, 05 Nov 2026 09:44:01 +0800",
+     "summary": "【燃料油跌超12%】国内商品期货开盘，燃料油跌超12%，沥青跌超10%，液化气、原油跌超8%，苯乙烯跌超5%，纯苯、聚丙烯触及跌停；钯、铂、沪银涨超6%，沪金涨超3%。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "燃料油跌超12%"
+    },
+    {
+     "title": "积成电子11月5日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611053922927828.html",
+     "pubDate": "Thu, 05 Nov 2026 09:42:49 +0800",
+     "summary": "以下是 积成电子 在北京时间11月5日09:35分盘口异动快照： 11月5日， 积成电子 盘中快速上涨，5分钟内涨幅超过2%，截至9点35分，报6.54元，成交900.76万元，换手率0.29%。 分笔 09:35:15 6.54 90↑ 09:35:12 6.53 16↓ 09:35:09 6.53 436↑ 09:35:06 6.52 43↓ 09:35:03 6.52 723↑ 09:35:00 6.51 27↓ 09:34:57 6.51 4↓ 09:34:54 6.52 91↑ 09:34:51 6.51 262↓ 09:34:48 6.52 5↑ 报价 卖五 6.58 640 卖四",
+     "source": "东方财富股票",
+     "zh": "积成电子11月5日快速上涨"
+    },
+    {
+     "title": "众智科技11月5日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202611053922927657.html",
+     "pubDate": "Thu, 05 Nov 2026 09:42:46 +0800",
+     "summary": "以下是 众智科技 在北京时间11月5日09:35分盘口异动快照： 11月5日， 众智科技 盘中快速反弹，5分钟内涨幅超过2%，截至9点35分，报29.03元，成交1389.41万元，换手率0.85%。 分笔 09:35:15 29.03 80↑ 09:35:12 28.96 7↓ 09:35:09 28.98 6↑ 09:35:06 28.98 9↑ 09:35:03 28.98 4↓ 09:35:00 28.98 17↓ 09:34:57 29.00 117↓ 09:34:54 29.01 13↓ 09:34:51 29.06 30↓ 09:34:48 29.11 5↑ 报价 卖五 29.2",
+     "source": "东方财富股票",
+     "zh": "众智科技11月5日快速反弹"
+    },
+    {
+     "title": "东晶电子11月5日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053922927736.html",
+     "pubDate": "Thu, 05 Nov 2026 09:42:46 +0800",
+     "summary": "以下是 东晶电子 在北京时间11月5日09:35分盘口异动快照： 11月5日， 东晶电子 盘中涨幅达5%，截至9点35分，报10.09元，成交847.72万元，换手率0.38%。 分笔 09:35:15 10.09 1124↑ 09:35:12 9.91 59↑ 09:35:09 9.90 5↑ 09:35:06 9.89 144↑ 09:35:03 9.87 53↓ 09:35:00 9.87 96↑ 09:34:57 9.85 59↑ 09:34:54 9.85 9↑ 09:34:51 9.85 25↑ 09:34:48 9.82 16↑ 报价 卖五 10.2 4 卖四 10.19 5 卖",
+     "source": "东方财富股票",
+     "zh": "东晶电子11月5日盘中涨幅达5%"
+    },
+    {
+     "title": "山东墨龙11月5日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202611053922927456.html",
+     "pubDate": "Thu, 05 Nov 2026 09:42:45 +0800",
+     "summary": "以下是 山东墨龙 在北京时间11月5日09:35分盘口异动快照： 11月5日， 山东墨龙 盘中快速反弹，5分钟内涨幅超过2%，截至9点35分，报6.62元，成交3512.85万元，换手率0.99%。 分笔 09:35:15 6.62 83↑ 09:35:12 6.61 444↑ 09:35:09 6.61 1924↑ 09:35:06 6.58 26↓ 09:35:03 6.59 134↑ 09:35:00 6.58 2222↓ 09:34:57 6.58 1030↓ 09:34:54 6.58 339↓ 09:34:51 6.59 245↑ 09:34:48 6.59 252↑ 报价 卖五 ",
+     "source": "东方财富股票",
+     "zh": "山东墨龙11月5日快速反弹"
+    },
+    {
+     "title": "纵横通信11月5日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611053922927221.html",
+     "pubDate": "Thu, 05 Nov 2026 09:42:45 +0800",
+     "summary": "以下是 纵横通信 在北京时间11月5日09:35分盘口异动快照： 11月5日， 纵横通信 盘中快速上涨，5分钟内涨幅超过2%，截至9点35分，报11.43元，成交1302.39万元，换手率0.50%。 分笔 09:35:15 11.43 758↑ 09:35:12 11.39 382↑ 09:35:09 11.38 18↓ 09:35:06 11.39 28↑ 09:35:03 11.38 26↓ 09:35:00 11.39 85↓ 09:34:57 11.40 63↑ 09:34:54 11.40 20↓ 09:34:51 11.41 55↑ 09:34:48 11.41 240↑ 报价 ",
+     "source": "东方财富股票",
+     "zh": "纵横通信11月5日快速上涨"
+    },
+    {
+     "title": "三美股份11月5日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053922927132.html",
+     "pubDate": "Thu, 05 Nov 2026 09:42:42 +0800",
+     "summary": "以下是 三美股份 在北京时间11月5日09:35分盘口异动快照： 11月5日， 三美股份 盘中涨幅达5%，截至9点35分，报51.02元，成交1.06亿元，换手率0.35%。 分笔 09:35:13 51.02 526↑ 09:35:10 50.97 843↑ 09:35:07 50.87 65↑ 09:35:04 50.80 177↑ 09:35:01 50.79 142↓ 09:34:58 50.79 231↑ 09:34:55 50.75 161↓ 09:34:52 50.73 70↓ 09:34:49 50.73 125↑ 09:34:46 50.72 25↓ 报价 卖五 51.08 ",
+     "source": "东方财富股票",
+     "zh": "三美股份11月5日盘中涨幅达5%"
+    },
+    {
+     "title": "苹果再收紧预算，部分团队每日使用AI限额或降至25美元",
+     "link": "http://www.eeo.com.cn/2026/1105/1084466.shtml",
+     "pubDate": "Thu, 05 Nov 2026 09:40:22 +0800",
+     "summary": "中新经纬11月5日电 据彭博社5日报道，为削减成本，苹果公司正在收紧员工使用人工智能的预算。 知情人士透露，上个月，苹果悄悄将部分使用AI模型的工程师每日支出上限从300美元降至200美元。同时，公司目前正计划进一步削减部分工程团队的支出，可能将他们的每日限额降至最低100美元。 彭博社指出，这些变化凸显了苹果在控制成本的同时，鼓励员工将人工智能更深入地融入日常工作时所面临的平衡问题。公司正推动工程...",
+     "source": "经济观察网",
+     "zh": "苹果再收紧预算，部分团队每日使用AI限额或降至25美元"
+    },
+    {
+     "title": "求仁得仁？马斯克将面临民主党“秋后算账”",
+     "link": "https://wallstreetcn.com/articles/3785227",
+     "pubDate": "Thu, 05 Nov 2026 09:39:56 +0800",
+     "summary": "马斯克在2026年中期选举中豪掷逾4.4亿美元押注共和党，却迎来了一场代价惨重的政治溃败。民主党不仅拿下参众两院，更在马斯克的\"大本营\"得克萨斯州全线告捷——这一结果不仅重创其政治影响力，更令旗下特斯拉与SpaceX面临前所未有的监管逆风。 在选夜最具标志性的一幕，民主党人James Talarico在得克萨斯州参议院选举中击败共和党人Ken Paxton，成为32年来首位在该州赢得全州性选举的民主党人。 马斯克为这场选战单独投入逾1.5亿美元，狂轰滥炸式的负面广告攻势最终弄巧成拙，激发了选民的强烈反弹。 Talarico在奥斯汀的胜选演讲中意有所指地说道，\"我们刚刚证明，世界上所有的钱都无法",
+     "source": "华尔街见闻",
+     "zh": "求仁得仁？马斯克将面临民主党“秋后算账”"
+    },
+    {
      "title": "Revolution Medicines reiterates $2.1B-$2.2B 2026 GAAP operating expense guidance following RASONQUE launch",
      "link": "https://seekingalpha.com/news/4666025-revolution-medicines-reiterates-2_1b-2_2b-2026-gaap-operating-expense-guidance-following?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 20:35:21 -0500",
@@ -2377,14 +2465,6 @@
      "zh": "McDonald’s tests new value menu as fast-food discount wars heat up"
     },
     {
-     "title": "中选结束，油价暴跌！市场的“止战预期”会实现吗？",
-     "link": "https://wallstreetcn.com/articles/3785219",
-     "pubDate": "Thu, 05 Nov 2026 08:40:51 +0800",
-     "summary": "美国中期选举民主党大获全胜，油价单日暴跌逾8%，市场押注华盛顿政治格局的剧变将加速伊朗战事终结。然而，从伊朗的强硬表态到美国错综复杂的政治博弈，停战前景远比油价走势更难预测。 周三，民主党在中期选举中席卷参众两院的消息在能源市场引发强烈震荡。WTI原油一度跌至87.13美元/桶，日内跌幅超过9.3%；布伦特原油跌至93.22美元/桶，日内跌幅约10%，创5月以来单日最大跌幅。截至目前，WTI在88美元/桶附近企稳，布伦特收于95美元附近。与此同时，北海原油价格跌至新低，欧洲天然气价格也随之大幅下挫。 推动市场剧烈反应的，是一系列集中释放的政治信号。美国副总统万斯公开将共和党的惨败归咎于伊朗战事",
-     "source": "华尔街见闻",
-     "zh": "中选结束，油价暴跌！市场的“止战预期”会实现吗？"
-    },
-    {
      "title": "今日看点｜第九届进博会将举行",
      "link": "http://www.eeo.com.cn/2026/1105/1084409.shtml",
      "pubDate": "Thu, 05 Nov 2026 08:38:55 +0800",
@@ -2399,86 +2479,6 @@
      "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
      "source": "MarketWatch",
      "zh": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction"
-    },
-    {
-     "title": "参议院易主，白宫无法再安插“自己人”，美联储独立性警报解除？",
-     "link": "https://wallstreetcn.com/articles/3785221",
-     "pubDate": "Thu, 05 Nov 2026 08:32:56 +0800",
-     "summary": "过去两年，美联储独立性承受了罕见压力。白宫曾尝试罢免一位在任美联储理事——这在美联储历史上尚属首次。但随着参议院控制权的更迭，这张牌的效力正在迅速消退。 据追风交易台消息，摩根大通首席经济学家Michael Feroli在11月4日发布的研究报告中指出，参议院的易主将显著降低上述风险。原因很简单： 美联储理事的任命须经参议院批准 ，而现在，白宫的提名必须找到民主党参议员能接受的人选，否则席位只能空置。 鲍威尔的“遗产”：唯一一个空缺 未来两年，美联储理事会只有一个席位到期—— 鲍威尔本人的主席任期，将于2028年1月届满 。 这意味着，在新的参议院格局下，白宫若想填补这一席位，别无选择，只能提",
-     "source": "华尔街见闻",
-     "zh": "参议院易主，白宫无法再安插“自己人”，美联储独立性警报解除？"
-    },
-    {
-     "title": "永远记住，和周围人搞好关系，不需要请客吃饭、讨好取悦，你只需要……",
-     "link": "http://www.eeo.com.cn/2026/1105/1083133.shtml",
-     "pubDate": "Thu, 05 Nov 2026 08:27:01 +0800",
-     "summary": "在咨询中，我经常听到这样的困惑：“为什么我对别人那么好，他们却离我越来越远？” 在他们看来，人际关系是靠“付出”维系的。你请我一顿，我回你一餐；你送我一份礼，我还你一个人情。似乎只要不断地“给”，关系就能牢固。 但事实并非如此。那些靠讨好和请客换来的关系，往往是最脆弱的。一旦你停止付出，关系就会迅速冷却。因为你...",
-     "source": "经济观察网",
-     "zh": "永远记住，和周围人搞好关系，不需要请客吃饭、讨好取悦，你只需要……"
-    },
-    {
-     "title": "Most Brits not ready to let AI manage their money",
-     "link": "https://www.finextra.com/newsarticle/48705/most-brits-not-ready-to-let-ai-manage-their-money?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 05 Nov 2026 00:01:00 GMT",
-     "summary": "Brits are already using artificial intelligence for help with their money, but most are not ready to hand over day-to-day control to an AI assistant, according to a FIS survey.",
-     "source": "Finextra",
-     "zh": "Most Brits not ready to let AI manage their money"
-    },
-    {
-     "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-     "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 23:45:00 GMT",
-     "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-     "source": "MarketWatch",
-     "zh": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?"
-    },
-    {
-     "title": "Democrats flip dozens of GOP seats. Republicans haven&apos;t flipped a single one",
-     "link": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
-     "pubDate": "Wed, 04 Nov 2026 23:44:18 GMT",
-     "summary": "Democrats have flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers in a historic 2026 midterm rout.",
-     "source": "CNBC",
-     "zh": "Democrats flip dozens of GOP seats. Republicans haven&apos;t flipped a single one"
-    },
-    {
-     "title": "What Wall Street billionaires are saying about Democrats&apos; midterm sweep",
-     "link": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-     "pubDate": "Wed, 04 Nov 2026 23:17:56 GMT",
-     "summary": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
-     "source": "CNBC",
-     "zh": "What Wall Street billionaires are saying about Democrats&apos; midterm sweep"
-    },
-    {
-     "title": "Democrats take Congress in a blue wave. Here&apos;s what it means for your money",
-     "link": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
-     "pubDate": "Wed, 04 Nov 2026 23:11:48 GMT",
-     "summary": "Blue wave gives Democrats control of Congress. Here's how their agenda could affect your money, from healthcare and taxes to student loans and Social Security.",
-     "source": "CNBC",
-     "zh": "Democrats take Congress in a blue wave. Here&apos;s what it means for your money"
-    },
-    {
-     "title": "What was really behind Wednesday&apos;s monster rally? Trump quickly making peace",
-     "link": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
-     "pubDate": "Wed, 04 Nov 2026 22:55:22 GMT",
-     "summary": "The stock market skyrocketed after a decisive sweep for Democrats in the 2026 midterm elections, a move that Trump's reaction added to.",
-     "source": "CNBC",
-     "zh": "What was really behind Wednesday&apos;s monster rally? Trump quickly making peace"
-    },
-    {
-     "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
-     "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 22:38:45 GMT",
-     "summary": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats",
-     "source": "Financial Times",
-     "zh": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat"
-    },
-    {
-     "title": "Vance blames Iran war for crushing Republican midterms defeat",
-     "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 21:34:58 GMT",
-     "summary": "Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict",
-     "source": "Financial Times",
-     "zh": "Vance blames Iran war for crushing Republican midterms defeat"
     }
    ]
   },

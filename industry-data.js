@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 11:31:52",
+ "generated_at": "2026/11/5 11:51:51",
  "recent_days": 7,
  "industries": [
   {
@@ -1746,6 +1746,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "前 Anthropic Claude Code 产品负责人 Cat Wu 跳槽加入 OpenAI，负责核心产品管理",
+     "link": "https://www.ithome.com/1/022/604.htm",
+     "pubDate": "Thu, 05 Nov 2026 03:45:01 GMT",
+     "summary": "IT之家 11 月 5 日消息，前 Anthropic Claude Code 产品负责人 Cat Wu 今日宣布加入 OpenAI，担任核心产品（Core Products）产品管理负责人。 她将参与 OpenAI 核心产品及智能体相关工作，与企业产品负责人 Nick Turley、消费级产品负责人 Ashley Alexander 等人协作，并向 Tibo Sottiaux 汇报。OpenAI 总裁 Greg Brockman 随后也在 X 上转发她的入职消息并表示欢迎。 公开报道显示，她此前曾主导 Claude Code 的产品规划与商业化发展，帮助这款最初仅供 Anthropic 内部",
+     "source": "IT之家",
+     "zh": "前 Anthropic Claude Code 产品负责人 Cat Wu 跳槽加入 OpenAI，负责核心产品管理"
+    },
+    {
+     "title": "AI 帮用户“越狱”跑步机：Claude 干掉了 iFIT 订阅墙",
+     "link": "https://www.ithome.com/1/022/603.htm",
+     "pubDate": "Thu, 05 Nov 2026 03:43:32 GMT",
+     "summary": "IT之家 11 月 5 日消息，网友 u/Beloved_Misanthrope 于 11 月 2 日在 Reddit 社区发帖，称其借助 AI 编程工具 Claude Code，成功越狱 NordicTrack Commercial 2250 跑步机， 绕开了设备对 iFIT 订阅的强制要求，成功将跑步机的大屏幕改造成可自由使用的流媒体界面。 IT之家援引博文介绍，本次 AI 越狱过程在约一天半内完成，相关项目已公开至 GitHub。该网友称其女友几年前购买了这台配备 10 英寸尺寸显示屏的 NordicTrack 跑步机，原本希望在运动时观看 Netflix 或 Crunchyroll。 ",
+     "source": "IT之家",
+     "zh": "AI 帮用户“越狱”跑步机：Claude 干掉了 iFIT 订阅墙"
+    },
+    {
+     "title": "当进口光环祛魅，“洋品牌”怎样继续抓住中国消费者？",
+     "link": "https://www.huxiu.com/article/4903188.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 11:41:44 +0800",
+     "summary": "本文来自微信公众号： 复旦管院 ，编辑：徐玉茹，责编：仲蕊，作者：殷云露，原文标题：《当进口光环祛魅，“洋品牌”怎样继续抓住中国消费者？| 视界·进博观察》 2026年中国国际进口博览会如约启幕，“四叶草”再度成为全球品牌对接中国市场的重要窗口。大批国际企业带着全球新品、前沿方案奔赴而来，希望叩开中国消费者的心扉。但如今的中国市场早已不是“海外光环即可赢得溢价”的时代，本土品牌快速崛起，中国消费者的可选项变得空前丰富，评判品牌的标尺也变得更加务实。 当国货已经成为强有力的备选，外资品牌靠什么打动今天的中国消费者？本期“视界”，复旦管院市场营销学系殷云露副教授将从消费者真实决策逻辑出发，分析国际",
+     "source": "虎嗅",
+     "zh": "当进口光环祛魅，“洋品牌”怎样继续抓住中国消费者？"
+    },
+    {
+     "title": "政策出手，股市还有一关",
+     "link": "https://www.huxiu.com/article/4903182.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 11:41:43 +0800",
+     "summary": "出品 | 妙投APP 作者 | 张博 编辑 | 丁萍&nbsp; 头图 | 视觉中国 行情低迷的时候，投资者总盼着有个转折点。可能是一次重要会议，也可能是一轮政策集中出台。大家希望从这一天开始，市场信心能够恢复，资金重新入场，持续下跌的行情也能有所改观。 2026年11月2日，似乎具备了这样的意味。 这段时间，围绕资本市场的政策信号接连释放。证券、基金、保险公司互换便利迎来新一轮操作，股票回购增持再贷款逐步转向长期制度安排，上市公司回购规则酝酿进一步完善，融资融券也保留着逆周期调节的空间。与此同时，主动ETF的推出，又为权益市场增加了一种新的投资工具。 这次出台的政策不少，涉及的资金规模也很大",
+     "source": "虎嗅",
+     "zh": "政策出手，股市还有一关"
+    },
+    {
+     "title": "0.9元解锁一集，两年后是22.58万元：4887笔充值是怎么攒出来的？",
+     "link": "https://www.huxiu.com/article/4903184.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 11:35:08 +0800",
+     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 2025年11月7日零点零四分，新疆一间屋子里，一笔39.9元的短剧充值完成了。 零点十五分，又是一笔。 69.9元、49.9元、39.9元，支付提示一路跳到凌晨四点零九分。 上午十一点二十五分重新开始，一直到深夜二十三点二十四分才停下。 这一天，69岁的秦兰为短剧付了29次款，花掉1466.3元。 她的儿子是在两年后打开母亲微信账单时，才看见这份记录的：4887笔充值，22.58万元，几乎是她攒下的全部养老钱。 真正该问的不是她为什么爱看短剧，而是为什么每一笔都只有46元。 ⑴46元的价格，为什么刚好 这笔钱最反常识的地方在于，它从头到尾没有大",
+     "source": "虎嗅",
+     "zh": "0.9元解锁一集，两年后是22.58万元：4887笔充值是怎么攒出来的？"
+    },
+    {
+     "title": "Omdia 数据：全球平板电脑出货量 2026Q3 同比萎缩 23%，创近三年新低",
+     "link": "https://www.ithome.com/1/022/587.htm",
+     "pubDate": "Thu, 05 Nov 2026 03:34:40 GMT",
+     "summary": "IT之家 11 月 5 日消息，Omdia 英国当地时间今日报告称，全球平板电脑出货量在 2026 年第 3 季度下滑至 3,200 万台， 创下近三年来的单季新低 ，同比则大幅萎缩 23%。其中，中东、中国、西欧市场受到的冲击最为严重。 ▲ 图源：Omdia Omdia 研究经理 Himani Mukka 表示： 继上季度下滑 10% 之后，平板电脑市场在第三季度再次出现两位数萎缩。随着供应限制加剧，平板电脑在厂商 2026 年和 2027 年的战略重点中地位日益下降。预计明年供应状况将进一步收紧， 平板电脑市场在 2028 年之前不太可能出现实质性复苏 。 ▲ 图源：Omdia 值得注意的",
+     "source": "IT之家",
+     "zh": "Omdia 数据：全球平板电脑出货量 2026Q3 同比萎缩 23%，创近三年新低"
+    },
+    {
      "title": "小米米家热敷坐姿垫现货开售：支持久坐提醒、三挡恒温，到手价 186.65 元",
      "link": "https://www.ithome.com/1/022/577.htm",
      "pubDate": "Thu, 05 Nov 2026 03:29:22 GMT",
@@ -1757,9 +1805,17 @@ window.INDUSTRY_DATA = {
      "title": "小米多款新机通过 SRRC 认证，预计明年年初发布",
      "link": "https://www.ithome.com/1/022/576.htm",
      "pubDate": "Thu, 05 Nov 2026 03:26:22 GMT",
-     "summary": "IT之家 11 月 5 日消息，型号为 M016EB、M841EE、M077CE、M540BF 的小米新机已于昨日通过 SRRC 认证，博主 @体验more 确认这批新机将于明年年初发布。 从认证信息来看，这四款新机支持小米自家端侧大模型，备案编号为： Beijing-XiaoAiTongXueAIZhuShou-20240102 、 Beijing-XiaoMi-202404280002、 Beijing-XiaoMiPengPaiShiJue-202503180057 、 Beijing-XiaoMiPengPaiGanZhi-202507250109 、 Beijing-XiaomiMi",
+     "summary": "IT之家 11 月 5 日消息，型号为 M016EB、M841EE、M077CE、M540BF 的小米新机已于本周早些时候通过 SRRC 认证，博主 @体验more 确认这批新机将于明年年初发布。 从认证信息来看，这四款新机支持小米自家端侧大模型，备案编号为： Beijing-XiaoAiTongXueAIZhuShou-20240102 、 Beijing-XiaoMi-202404280002、 Beijing-XiaoMiPengPaiShiJue-202503180057 、 Beijing-XiaoMiPengPaiGanZhi-202507250109 、 Beijing-Xiao",
      "source": "IT之家",
      "zh": "小米多款新机通过 SRRC 认证，预计明年年初发布"
+    },
+    {
+     "title": "二线厂，更着急做Personal Agent",
+     "link": "https://www.huxiu.com/article/4903181.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 11:25:55 +0800",
+     "summary": "本文来自微信公众号： AI故事计划 ，编辑：张霞，作者：卢家川 \" “老板没在工作群里提过Muse。”一位参与腾讯小微项目的产品经理告诉AI故事计划。 国庆前后，Muse走红，个人AI助手被描绘成下一代入口。一个多月过去，传闻中的大战并未打响，字节、阿里、腾讯都没有大举跟进。 着急的，反而是在C端AI上存在感弱一些的二线厂。今年秋招，有应聘者参加某二线厂的战略岗面试，两轮都谈到Personal Agent相关问题。 对二线厂而言，Personal Agent不只是一款新产品，还是一次可以改写竞争座次的机会。 过去，巨头凭借超级App牢牢把持入口。Personal Agent则试图替用户跨越应用",
+     "source": "虎嗅",
+     "zh": "二线厂，更着急做Personal Agent"
     },
     {
      "title": "Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents (Cristian Dina/The Next Web)",
@@ -1778,28 +1834,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI 抢走产能，任天堂实体游戏卡带供应链告急"
     },
     {
-     "title": "Kimi Hosted Agents 托管智能体发布，将 Harness 作为云端服务提供",
-     "link": "https://www.ithome.com/1/022/572.htm",
-     "pubDate": "Thu, 05 Nov 2026 03:15:17 GMT",
-     "summary": "IT之家 11 月 5 日消息，Kimi 今日宣布推出 Kimi Hosted Agents（托管智能体） ，将支撑 Agent 运行的 Harness 作为云端服务提供（Harness as a Service）。 企业和开发者无需自行搭建和维护运行框架， 即可获得 7×24 小时的托管环境 ，支持长程任务执行与多智能体高效协作。 企业可以按需配置 Agent，快速构建两类业务应用： 面向内部业务 ：集成到企业内部系统，提供业务监控、运维响应等任务。 面向产品用户 ：嵌入企业对外提供的产品，提供 App 内的投研助手、客服助手等 Agent 服务。 为保障 Agent 安全可控地运行， Ki",
-     "source": "IT之家",
-     "zh": "Kimi Hosted Agents 托管智能体发布，将 Harness 作为云端服务提供"
-    },
-    {
      "title": "谁来连接资金与资产？香港金融科技周背后的金融基建竞赛",
      "link": "https://www.tmtpost.com/8194510.html",
      "pubDate": "Thu, 05 Nov 2026 11:15:04 +0800",
      "summary": "2026年香港金融科技周，一个有意思的现象是：在整个展会现场，以数字资产为核心业务的企业似乎并不占多数。除了HashKey、Ripple等少数机构，更引人注目的是来自全球的银行、资产管理公司、支付机构及金融科技企业。",
      "source": "钛媒体",
      "zh": "谁来连接资金与资产？香港金融科技周背后的金融基建竞赛"
-    },
-    {
-     "title": "消息称某厂子系 2nm 旗舰测试 50Mp 中底潜望镜，预计小米 REDMI 旗下",
-     "link": "https://www.ithome.com/1/022/571.htm",
-     "pubDate": "Thu, 05 Nov 2026 03:13:33 GMT",
-     "summary": "IT之家 11 月 5 日消息，据博主 @数码闲聊站 今日爆料，某厂子系 2nm 旗舰新机的潜望镜测试 50Mp 1/1.95 英寸中底传感器， 支持 3X± 光变 。结合该博主此前的爆料习惯，预计该机为小米 REDMI 旗下。 目前，这款新机的具体型号还未知。该博主此前曾爆料，某厂子系测试了 4 台 7 英寸大屏 + 万级大电池，包含有 2nm 旗舰机，预计明年上半年都能见到。当时，外界同样推测该机为小米 REDMI 旗下。 ▲ IT之家开箱： REDMI K100 Pro 系列图赏 作为参考， 小米现款 REDMI K100 系列手机发布于今年 8 月 。其中 Pro Max 机型采用 6",
-     "source": "IT之家",
-     "zh": "消息称某厂子系 2nm 旗舰测试 50Mp 中底潜望镜，预计小米 REDMI 旗下"
     },
     {
      "title": "锂电板块蒸发7400亿元后大涨，11月电池排产却预计环比降5%，反弹还是反转？",
@@ -1810,28 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "锂电板块蒸发7400亿元后大涨，11月电池排产却预计环比降5%，反弹还是反转？"
     },
     {
-     "title": "博通 VMware 推新套餐挽回中小企业：最高 128 核虚拟化方案",
-     "link": "https://www.ithome.com/1/022/570.htm",
-     "pubDate": "Thu, 05 Nov 2026 03:11:02 GMT",
-     "summary": "IT之家 11 月 5 日消息，科技媒体 The Register 今天（11 月 5 日）发布博文， 报道称博通（Broadcom）旗下 VMware 面向中小企业，推出入门级虚拟化产品 vSphere Express，试图挽回因高端产品定价过高而流失的低端客户。 该媒体指出 VMware 在被博通收购后，此前不少中小企业抱怨其过度推销旗舰私有云套件 VMware Cloud Foundation（VCF）。该媒体称 VCF 功能庞大但价格昂贵，而传统入门产品 vSphere Standard 又逐步退出销售，令预算有限的用户陷入两难。 VMware 高管表示，vSphere Express",
-     "source": "IT之家",
-     "zh": "博通 VMware 推新套餐挽回中小企业：最高 128 核虚拟化方案"
-    },
-    {
      "title": "迅速崛起并将更加倒向美国和西方的石油生产大国伊拉克",
      "link": "https://www.huxiu.com/article/4903175.html?f=rss",
      "pubDate": "Thu, 05 Nov 2026 11:05:09 +0800",
      "summary": "本文来自微信公众号： 全说能源 ，作者：全说能源 迅速崛起并将更加倒向美国和西方的石油生产大国伊拉克 伊拉克计划六年内将石油产量提高到800至1000万桶，取代沙特成为中东最大的石油生产国，资源和技术上有可能且将更加倒向美国和西方。 王能全 很长的一段时间里，曾经长时间占据新闻头条的伊拉克，淡出了大众的视野。由于拥有丰富的石油资源，今日的伊拉克是欧佩克中仅次于沙特阿拉伯的第二大石油生产国，伊政府计划用六年时间大幅提高石油产量到800至1000万桶，超越沙特成为中东最大的石油生产国，行业专家认为伊拉克的计划是有可能实现的但将会更加倒向美国和西方。 伊拉克计划六年内将石油产量提高到每天800至10",
      "source": "虎嗅",
      "zh": "迅速崛起并将更加倒向美国和西方的石油生产大国伊拉克"
-    },
-    {
-     "title": "马斯克：5年后手机与App将消失，你想要什么AI就生成什么",
-     "link": "https://www.huxiu.com/article/4901391.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:53:32 +0800",
-     "summary": "马斯克：5年后手机与App将消失，你想要什么AI就生成什么",
-     "source": "虎嗅",
-     "zh": "马斯克：5年后手机与App将消失，你想要什么AI就生成什么"
     },
     {
      "title": "AI时代的云计算，少数派繁荣",
@@ -1850,36 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "日赚2300万，瑞幸咖啡的好日子又回来了"
     },
     {
-     "title": "“授权即自担责任”的合同实验：富国银行首次将AI智能体责任转移至用户",
-     "link": "https://www.huxiu.com/article/4903159.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:50:38 +0800",
-     "summary": "本文来自微信公众号： Internet Law Review ，作者：Joshua&nbsp;Mitchell 2026年11月24日，富国银行新版《在线访问协议》将正式生效。其中新增的第15条引发了广泛的关注：若用户授权第三方AI之恩给你提试用期网银凭证访问账户，则智能体发起的任何指令与交易，均可能被视为用户本人直接作出的行为，相关风险由用户自行承担；而富国银行不承诺对智能体行为进行监控，并保留随时限制或阻止特定工具接入的权利。 这一条款被部分媒体夸张地解读为“银行第一次将AI犯错的责任完全转嫁用户”，虽然这种说法并不完全，但其背后的法律逻辑值得深入审视。 一、技术前提：银行无法区分“用户”",
-     "source": "虎嗅",
-     "zh": "“授权即自担责任”的合同实验：富国银行首次将AI智能体责任转移至用户"
-    },
-    {
      "title": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)",
      "link": "https://www.techmeme.com/261104/p62#a261104p62",
      "pubDate": "Wed, 04 Nov 2026 21:50:01 -0500",
      "summary": "OpenAI : OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs &nbsp; &mdash;&nbsp; Security research that once required a separate, sustained investigation for each finding can increasingly be",
      "source": "Techmeme",
      "zh": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)"
-    },
-    {
-     "title": "Circle：业绩“虚胖”，渠道大户“反咬”下，做大生态是唯一出路",
-     "link": "https://www.huxiu.com/article/4903167.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:46:04 +0800",
-     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《Circle：业绩 “虚胖”，渠道大户 “反咬” 下，做大生态是唯一出路》 Circle美东11月4日盘前发布了三季报。整体而言，本次业绩主要靠Arc代币销售收入来实现的“超预期”，但若剔除这部分后其实业绩一般，印证了资金在财报前的担忧。 具体来看： 1、储备利息收入预期内下降 Q3储备利息收入6.6亿，符合预期。在USDC市值同比增长8%的情况因利息同比下滑而减少了8%，环比看USDC在Q3平均流通规模733亿，相比Q2减少4%。 2、Arc代币销售确认节奏比想象中快 Q3其他收入有2亿多，其中Arc代币销售收入就确认了1.8亿，确",
-     "source": "虎嗅",
-     "zh": "Circle：业绩“虚胖”，渠道大户“反咬”下，做大生态是唯一出路"
-    },
-    {
-     "title": "Personal Agent，超级共识还是超级泡沫？",
-     "link": "https://www.huxiu.com/article/4903165.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:42:37 +0800",
-     "summary": "本文来自微信公众号： AIX财经 ，作者：AIX财经团队，编辑：魏佳 大厂、大模型公司、创业者疯狂押注。 AIX财经（AIXcaijing）原创 10月底，扎克伯格在Meta的财报会上披露，Muse上线约一个半月，在美国和加拿大已有超1000万人设置个人智能体。Muse于9月上线，当月Meta股价上涨约27%，创下2022年11月以来最佳月度表现。这家此前被认为在模型竞赛中落后的公司，靠一款消费级产品重新拿回了话语权。 跟进者随即密集出现。阿里、腾讯、字节都已推出或在筹备自己的产品；OpenAI、Anthropic、xAI相继发布个人智能体；肖弘、齐俊元等打造过成功产品的创业者也带着新项目入场",
-     "source": "虎嗅",
-     "zh": "Personal Agent，超级共识还是超级泡沫？"
     },
     {
      "title": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)",
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Starfall – Affordable, routine access to microgravity",
      "link": "https://www.spacex.com/starfall",
      "pubDate": "Thu, 05 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 110 # Comments: 59",
+     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 122 # Comments: 64",
      "source": "Hacker News",
      "zh": "Starfall – Affordable, routine access to microgravity"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Images 2.6",
      "link": "https://openai.com/index/introducing-images-2-6/",
      "pubDate": "Wed, 04 Nov 2026 23:35:44 +0000",
-     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 156 # Comments: 100",
+     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 160 # Comments: 102",
      "source": "Hacker News",
      "zh": "Images 2.6"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
      "link": "https://icode4.coffee/?p=1746",
      "pubDate": "Wed, 04 Nov 2026 22:01:49 +0000",
-     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 72 # Comments: 3",
+     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 73 # Comments: 3",
      "source": "Hacker News",
      "zh": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements"
     }
@@ -2242,100 +2242,132 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Arm业绩指引双双超预期 AI算力需求拉动授权收入翻倍",
-     "link": "http://finance.eastmoney.com/news/1354,202611053923318987.html",
-     "pubDate": "Thu, 05 Nov 2026 11:28:16 +0800",
-     "summary": "美东时间周三晚间，英国芯片设计公司Arm公布2026财年第二财季财报，尽管公司业绩及指引均略微超出分析师预期，但似乎仍未满足市场的更高期待，公司股价在盘后交易中仍然走低。 财报显示，在截至9月30日的第二财季，调整后每股收益0.52美元，营收14.4亿美元。同比来看，Arm净利润增长33%，营收上涨27%。 与之对比，FactSet调研的分析师此前预期为每股收益0.48美元、营收13.8亿美元。 对于当前财季（截至12月底），Arm预计调整后每股收益0.56美元，营收15.4亿美元。华尔街此前对其第三财季的一致预期为每股收益0.55美元、营收15.2亿美元。 美股周三盘后，Arm股价下跌一度近",
+     "title": "Grand Canyon Education expects 10%+ ground campus growth in fall 2027 as Common App and new colleges expand pipeline",
+     "link": "https://seekingalpha.com/news/4666142-grand-canyon-education-expects-10-percent-ground-campus-growth-in-fall-2027-as-common-app-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:45:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Grand Canyon Education expects 10%+ ground campus growth in fall 2027 as Common App and new colleges expand pipeline"
+    },
+    {
+     "title": "美中期选举“蓝潮”震动韩股：“存储双雄”股价重挫 外资持续撤离",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923330463.html",
+     "pubDate": "Thu, 05 Nov 2026 11:38:05 +0800",
+     "summary": "周四，受美国民主党在中期选举中赢得国会参众两院控制权，掀起“蓝色浪潮”影响， 韩国“存储双雄”股价重挫 。 截至发稿， SK海力士 股价下跌6.7%，报1302500韩元；三星 电子 股价下跌5.05%，报207000韩元。 这两只股票盘中跌幅分别一度达近8%和逾7% 。 两大 存储芯片 巨头股价暴跌拖累韩股大盘大幅下跌，截至发稿，Kospi指数下跌约3.5%。韩国交易所于当地时间10时16分许启动卖出侧车机制。 隔夜美股市场上，三大股指因政治不确定性降低和国际油价暴跌而上涨。美股AI板块走势出现分化， 微软 、 亚马逊 等超大规模云服务商股价大涨，因投资者寄望随着AI支出放缓，这些科技巨头的",
      "source": "东方财富股票",
-     "zh": "Arm业绩指引双双超预期 AI算力需求拉动授权收入翻倍"
+     "zh": "美中期选举“蓝潮”震动韩股：“存储双雄”股价重挫 外资持续撤离"
     },
     {
-     "title": "FICO outlines Jan 1, 2027 FHA availability for FICO Score 10T while withholding FY 2027 guidance",
-     "link": "https://seekingalpha.com/news/4666127-fico-outlines-jan-1-2027-fha-availability-for-fico-score-10t-while-withholding-fy-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:26:28 -0500",
+     "title": "Sun Life Financial Inc. CAD250 mil 4.5% Class A Non-Cum ser 5 declares $0.2812 dividend",
+     "link": "https://seekingalpha.com/news/4666141-sun-life-financial-inc-cad250-mil-4_5-percent-class-a-non-cum-ser-5-declares-0_2812-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:38:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "FICO outlines Jan 1, 2027 FHA availability for FICO Score 10T while withholding FY 2027 guidance"
+     "zh": "Sun Life Financial Inc. CAD250 mil 4.5% Class A Non-Cum ser 5 declares $0.2812 dividend"
     },
     {
-     "title": "Edwards outlines ~11.5% 2026 sales growth and $2.97-$3.05 adjusted EPS, supported by TAVR and TMTT momentum",
-     "link": "https://seekingalpha.com/news/4666126-edwards-outlines-11_5-percent-2026-sales-growth-and-2_97-3_05-adjusted-eps-supported-by-tavr?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:25:36 -0500",
+     "title": "Sun Life Financial Inc. PFD CL A-10R declares $0.3448 dividend",
+     "link": "https://seekingalpha.com/news/4666140-sun-life-financial-inc-pfd-cl-aminus-10r-declares-0_3448-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:37:43 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Edwards outlines ~11.5% 2026 sales growth and $2.97-$3.05 adjusted EPS, supported by TAVR and TMTT momentum"
+     "zh": "Sun Life Financial Inc. PFD CL A-10R declares $0.3448 dividend"
     },
     {
-     "title": "Tko targets $5.79b-$5.83b 2026 revenue as it raises outlook again and plans aggressive buybacks",
-     "link": "https://seekingalpha.com/news/4666125-tko-targets-5_79b-5_83b-2026-revenue-as-it-raises-outlook-again-and-plans-aggressive-buybacks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:25:32 -0500",
+     "title": "Sun Life Financial Inc. PFD SHS SER 9Q declares $0.233 dividend",
+     "link": "https://seekingalpha.com/news/4666139-sun-life-financial-inc-pfd-shs-ser-9q-declares-0_233-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:37:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Tko targets $5.79b-$5.83b 2026 revenue as it raises outlook again and plans aggressive buybacks"
+     "zh": "Sun Life Financial Inc. PFD SHS SER 9Q declares $0.233 dividend"
+    },
+    {
+     "title": "Sun Life Financial Inc. PFD CL A SR 8R declares $0.2644 dividend",
+     "link": "https://seekingalpha.com/news/4666138-sun-life-financial-inc-pfd-cl-a-sr-8r-declares-0_2644-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:37:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sun Life Financial Inc. PFD CL A SR 8R declares $0.2644 dividend"
+    },
+    {
+     "title": "金价重回4100美元上方！贵金属集体拉升 机构预测高增股来了",
+     "link": "http://finance.eastmoney.com/news/11139,202611053923330632.html",
+     "pubDate": "Thu, 05 Nov 2026 11:36:56 +0800",
+     "summary": "11月5日早盘 贵金属 板块表现强势，其中 盛达资源 涨停 ； 兴业银锡 、 赤峰黄金 、 四川黄金 、 晓程科技 、 招金黄金 跟涨。 在市场人士看来， 贵金属 板块的走强，在于近日国际金价的明显反弹。11月5日，COMEX 黄金 继续拉升并回到 4100美元上方 ，短短几个交易日上涨超过200美元。 美国中期选举结果明朗 国际金价上涨的背后，又与当前美国的中期选举密切相关。光大 期货 指出，本轮反弹最直接的触发因素是美国中期选举结果明朗后美元与美债收益率同步崩塌。对于 黄金 而言，美元走软与收益率回落同时出现，是较为有利的组合。 中信证券 研报指出，美国民主党取得国会控制权背景下，对金价的",
+     "source": "东方财富股票",
+     "zh": "金价重回4100美元上方！贵金属集体拉升 机构预测高增股来了"
+    },
+    {
+     "title": "Corpay projects 9%-11% organic revenue growth in 2027 while planning to deploy about $2B of free cash flow",
+     "link": "https://seekingalpha.com/news/4666136-corpay-projects-9-percentminus-11-percent-organic-revenue-growth-in-2027-while-planning-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:36:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Corpay projects 9%-11% organic revenue growth in 2027 while planning to deploy about $2B of free cash flow"
+    },
+    {
+     "title": "四方达：CVD金刚石散热片已通过客户测试并取得小批量测试订单",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923330796.html",
+     "pubDate": "Thu, 05 Nov 2026 11:36:23 +0800",
+     "summary": "四方达 11月5日在互动平台表示，目前公司的CVD金刚石散热片已通过客户测试，验证进展符合预期，并取得小批量测试订单。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "四方达：CVD金刚石散热片已通过客户测试并取得小批量测试订单"
+    },
+    {
+     "title": "美国对华木制栅栏组件发起反倾销反补贴调查",
+     "link": "http://finance.eastmoney.com/news/1351,202611053923330844.html",
+     "pubDate": "Thu, 05 Nov 2026 11:35:10 +0800",
+     "summary": "据商务部贸易救济局消息，美东时间2026年11月4日，美国商务部宣布对进口自中国的木制栅栏组件（certain wooden fence components）发起反倾销和反补贴调查。本案主要涉及美国海关编码4404.10.0040、4407.19.0092、 4421.99.7020、4421.99.7040项下产品。税号仅供参考，具体以产品描述为准。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国对华木制栅栏组件发起反倾销反补贴调查"
+    },
+    {
+     "title": "【调研快报】英洛华接待浙商证券调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611053923330092.html",
+     "pubDate": "Thu, 05 Nov 2026 11:34:24 +0800",
+     "summary": "英洛华 11月5日公告称， 11月4日 接待 浙商证券 调研。 接待人员包括董事会秘书 钱英红,证券事务代表 吴美剑。 公司就以下问题进行了回复： 1、公司扩产是基于什么考虑?新扩的 5000 吨产能能带来的营收增长情况?磁材原材料从哪里采购,库存情况如何? 答:公司主要是基于行业发展、市场需求及公司业务情况等 综合 考虑进行产能规划,新扩的 5000 吨产能待投产后后续也需根据业务情况逐步释放产能。公司和包括 中国稀土 、 北方稀土 在内的主要原材... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与",
+     "source": "东方财富股票",
+     "zh": "【调研快报】英洛华接待浙商证券调研"
+    },
+    {
+     "title": "世卫：今年以来霍乱已致刚果（金）约1800人死亡",
+     "link": "http://finance.eastmoney.com/news/11790,202611053923330139.html",
+     "pubDate": "Thu, 05 Nov 2026 11:33:58 +0800",
+     "summary": "世界卫生组织4日说，今年以来，霍乱已导致刚果（金）约1800人死亡。人们担心疫情可能进一步蔓延，或波及首都金沙萨。 世卫组织总干事谭德塞说，刚果（金）正经历“数十年来最严重的霍乱疫情”，目前已记录约6万例病例。大多数病例出现在该国东部的北基伍省和南基伍省，但“令人担忧的是，目前刚果河流域也出现了病例，这意味着疫情可能蔓延至首都金沙萨”。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "世卫：今年以来霍乱已致刚果（金）约1800人死亡"
+    },
+    {
+     "title": "科创50指数上涨2.11% 两市半日放量近5400亿 光伏设备掀涨停潮",
+     "link": "http://finance.eastmoney.com/news/1345,202611053923330531.html",
+     "pubDate": "Thu, 05 Nov 2026 11:30:21 +0800",
+     "summary": "A股三大指数低开高走，创业板指涨逾1%，科创50指数涨逾2%。盘面上， 光伏设备 板块掀涨停潮， kimi概念、 贵金属 、 能源金属 、 智能音箱 、 电池 、 有机硅概念 涨幅居前， 煤炭 、 银行 、 资源开采概念 、 航运港口 、 油服工程 表现不佳，领跌市场。 截至午间收盘，沪指上涨0.10%，报3689.79点；深成指上涨1.44%，报11498.77点；创业板指上涨1.24%，报2576.28点；科创50指数上涨2.11%，报1292.12点；北证50指数上涨2.10%，报912.88点。全市场上涨个股有4792家，下跌个股有676家，62只股涨停。两市半日合计成交14644亿。",
+     "source": "东方财富资讯",
+     "zh": "科创50指数上涨2.11% 两市半日放量近5400亿 光伏设备掀涨停潮"
+    },
+    {
+     "title": "SemiAnalysis谈“美国中选冲击数据中心”：2027“大局已定”，2028“充满变数”，得州是“最大变量”",
+     "link": "https://wallstreetcn.com/articles/3785225",
+     "pubDate": "Thu, 05 Nov 2026 11:29:46 +0800",
+     "summary": "尽管2027年的美国数据中心建设已靠“时间差”基本锁盘，但中期选举的意外变局，正让2028年高达62.2GW的规划产能直接暴露在审批延期与规则重塑的巨大风险之中。 2026年11月3日，美国中期选举投票日当天，知名半导体与基础设施研究机构SemiAnalysis发布了最新一期《SemiAnalysis Weekly》。 该机构主管数据中心与能源基础设施研究的董事总经理Jeremie Eliahou Ontiveros，以及分析师Maya Barkin、Wayne Ma等， 就美国大选结果对数据中心产能扩张的影响进行了深度讨论 。 节目中Maya给出了当时看起来最稳的判断： 民调都显示Abbot",
+     "source": "华尔街见闻",
+     "zh": "SemiAnalysis谈“美国中选冲击数据中心”：2027“大局已定”，2028“充满变数”，得州是“最大变量”"
     },
     {
      "title": "特朗普丢掉国会后 全球贸易战将何去何从？一文读懂！",
      "link": "http://finance.eastmoney.com/news/1344,202611053923322238.html",
      "pubDate": "Thu, 05 Nov 2026 11:25:30 +0800",
      "summary": "不少业内人士预计，随着特朗普领导的共和党在美国中期选举中遭遇惨败，这可能会鼓舞一些美国贸易伙伴对特朗普好战的贸易政策予以反击——尽管他们可能也需要谨慎行事，以免在特朗普执政的最后两年里彻底激怒他。 民主党周二在美国参议院和众议院均赢得多数席位，美国选民对特朗普的政策——包括被指与伊朗战争一同导致通胀持续高企的关税政策——给予了严厉的反对。 这一变局可能会让美国的经济竞争对手们在接下来的谈判中占据上风 ，包括促使美国的亚洲盟友放慢数千亿美元投资承诺的落地节奏，并让欧洲在诸多悬而未决的贸易争端中重获更多确定性。 全球有望打起“缓兵算盘”？ 在暗自期盼外部压力能够有所缓和的阵营中，包括了美国在亚洲最",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "特朗普丢掉国会后 全球贸易战将何去何从？一文读懂！"
     },
     {
-     "title": "Teknova lifts 2026 revenue outlook to $46M-$48M as it targets adjusted EBITDA positive at $52M-$57M annualized revenue",
-     "link": "https://seekingalpha.com/news/4666124-teknova-lifts-2026-revenue-outlook-to-46m-48m-as-it-targets-adjusted-ebitda-positive-at-52m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:25:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Teknova lifts 2026 revenue outlook to $46M-$48M as it targets adjusted EBITDA positive at $52M-$57M annualized revenue"
-    },
-    {
-     "title": "Sight Sciences signals $92M-$93M 2026 revenue outlook amid higher IDE target of ~$12M",
-     "link": "https://seekingalpha.com/news/4666123-sight-sciences-signals-92m-93m-2026-revenue-outlook-amid-higher-ide-target-of-12m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:25:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sight Sciences signals $92M-$93M 2026 revenue outlook amid higher IDE target of ~$12M"
-    },
-    {
-     "title": "11月5日预制菜概念板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923322051.html",
-     "pubDate": "Thu, 05 Nov 2026 11:24:28 +0800",
-     "summary": "&emsp;&emsp;11月5日11点24分， 预制菜概念 板块指数报1051.465点，涨幅达2%，成交106.51亿元，换手率2.72%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 东方海洋 报3.60元，涨9.76%； 金丹科技 报26.92元，涨6.83%； 双枪科技 报26.82元，涨6.64%； 一致魔芋 报16.25元，涨6.56%； 华天酒店 报3.68元，涨6.05%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "11月5日预制菜概念板块涨幅达2%"
-    },
-    {
-     "title": "11月5日电商概念板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923321828.html",
-     "pubDate": "Thu, 05 Nov 2026 11:24:15 +0800",
-     "summary": "&emsp;&emsp;11月5日11点24分， 电商概念 板块指数报2150.247点，涨幅达2%，成交638.55亿元，换手率1.63%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 天地在线 报20.22元，涨10.01%； 国光连锁 报12.42元，涨10.01%； 引力传媒 报21.66元，涨10.01%； 皇氏集团 报4.11元，涨9.02%； 欧亚集团 报12.00元，涨8.40%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "11月5日电商概念板块涨幅达2%"
-    },
-    {
-     "title": "蒙泰高新11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923321786.html",
-     "pubDate": "Thu, 05 Nov 2026 11:24:07 +0800",
-     "summary": "以下是 蒙泰高新 在北京时间11月5日11:24分盘口异动快照： 11月5日， 蒙泰高新 盘中涨幅达5%，截至11点24分，报12.77元，成交2367.89万元，换手率1.67%。 分笔 11:24:00 12.77 2↑ 11:23:57 12.76 122↑ 11:23:51 12.74 18↑ 11:23:30 12.74 4↑ 11:23:27 12.74 2↑ 11:23:21 12.74 4↑ 11:23:09 12.73 9↓ 11:23:06 12.74 29↓ 11:23:03 12.75 10↑ 11:23:00 12.75 12↑ 报价 卖五 12.84 20 卖四 1",
-     "source": "东方财富股票",
-     "zh": "蒙泰高新11月5日盘中涨幅达5%"
-    },
-    {
-     "title": "英派斯11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923321055.html",
-     "pubDate": "Thu, 05 Nov 2026 11:23:49 +0800",
-     "summary": "以下是 英派斯 在北京时间11月5日11:23分盘口异动快照： 11月5日， 英派斯 盘中涨幅达5%，截至11点23分，报18.82元，成交4710.09万元，换手率1.74%。 分笔 11:23:42 18.82 304↑ 11:23:36 18.79 1↑ 11:23:30 18.79 12↑ 11:23:24 18.79 13↑ 11:23:21 18.78 2↓ 11:23:09 18.78 9↓ 11:23:06 18.78 16↓ 11:23:03 18.78 1↓ 11:22:54 18.78 5↓ 11:22:33 18.78 2↓ 报价 卖五 18.88 82 卖四 18.8",
-     "source": "东方财富股票",
-     "zh": "英派斯11月5日盘中涨幅达5%"
-    },
-    {
-     "title": "UnitedHealth declares $2.32 dividend",
-     "link": "https://seekingalpha.com/news/4666122-unitedhealth-declares-2_32-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 22:19:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "UnitedHealth declares $2.32 dividend"
+     "title": "金价回升至4100美元/盎司上方 分析师警告真正支撑还未出现",
+     "link": "http://finance.eastmoney.com/news/1344,202611053923325416.html",
+     "pubDate": "Thu, 05 Nov 2026 11:25:08 +0800",
+     "summary": "随着中期选举的尘埃落定，投资者正在返回市场， 黄金 价格也因此在周三进一步反弹，很大程度上是因为投资者认为美伊冲突可能得以缓和，且美国通胀将在未来两年内得到控制。 截至发稿，金价上涨超过1%至4110美元/盎司左右。在这种乐观氛围中，MarketGauge首席市场策略师Michele Schneider表示，4000美元/盎司可能是一个颇具吸引力的入场点，但人们仍需要保持耐心。 她指出， 黄金 的长期利好因素并未改变，但其基本面与其价格走势之间的背离令人担忧，因为大宗商品市场在大幅上涨结束后可能会经历较长时间的疲软期。 她认为目前还没有出现 黄金 的真正支撑点，即使出现了，也不一定是买入机会，",
+     "source": "东方财富资讯",
+     "zh": "金价回升至4100美元/盎司上方 分析师警告真正支撑还未出现"
     },
     {
      "title": "美国45%数据中心扩张计划面临暂停威胁，如今全市场都盯着得州！",
@@ -2386,6 +2418,14 @@ window.INDUSTRY_DATA = {
      "zh": "US stocks post best day since August after Democrats sweep midterms"
     },
     {
+     "title": "4525只 私募资管备案年内再破月度纪录 券商及资管子贡献超七成增量",
+     "link": "http://simujigou.eastmoney.com/news/11065,202611053923321333.html",
+     "pubDate": "Thu, 05 Nov 2026 10:58:33 +0800",
+     "summary": "中基协最新披露了今年9月的私募资管数据。 存量端，9月末私募资管总规模回落至13.43万亿元，环比减少904.34亿元。 年内仅3月、9月单月收缩，其余月份均录得环比净增。 增量端，私募资管备案热情延续，年内再破月度纪录。 今年9月，证券 期货 经营机构共备案私募资管产品4525只，环比增加31.62%，同比增加96.31%；设立规模1118.19亿元，环比增加13.42%，同比增加34.48%。据查，9月4525只的备案数量已超越7月3583只的前纪录，再度刷新中基协公开披露数据以来的单月 历史新高 。 机构格局上，证券公司及其资管子公司备案数量与设立规模继续主导增量，该类机构9月备案数量与",
+     "source": "东方财富资讯",
+     "zh": "4525只 私募资管备案年内再破月度纪录 券商及资管子贡献超七成增量"
+    },
+    {
      "title": "美国中选“输赢已定”：AI硬件重挫，日韩领跌，港A携手大涨，恒科创业板齐升",
      "link": "https://wallstreetcn.com/articles/3785235",
      "pubDate": "Thu, 05 Nov 2026 10:57:27 +0800",
@@ -2400,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "数据中心行业的核心定价锚点正在改变。美国中期选举后的政策转向，使市场对新增容量的关注，快速转向已建成、已获批和在建资产的稀缺性。 据追风交易台，摩根大通在11月4日北美信用研究报告中指出，民主党在众议院和参议院取得控制权，并在得克萨斯州、佐治亚州、新墨西哥州和内华达州等关键数据中心州赢得州长选举。与此同时，45项限制数据中心的地方投票措施中，已有42项通过或倾向通过。 这意味着， 数据中心开发商面临更高审批门槛、更长建设周期和更复杂的地方政治约束。市场此前偏好的扩张叙事，正在被许可确定性、电力接入和已落地容量重新定价。 对投资者而言，影响最直接的领域包括高收益项目融资、独立发电商、桥接电力供应",
      "source": "华尔街见闻",
      "zh": "中选后，数据中心定价逻辑变了！告别无序扩张，从拼增长转向拼稀缺"
-    },
-    {
-     "title": "民主党横扫美国会两院！光伏板块迎政策暖风 产业链修复可期(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611053923296417.html",
-     "pubDate": "Thu, 05 Nov 2026 10:48:06 +0800",
-     "summary": "美国民主党横扫国会两院，清洁能源政策不确定性降低，光伏板块迎来修复契机。机构认为，反内卷政策体系化叠加海外需求边际回暖，行业拐点渐行渐近。 选举 重塑能源 政策预期 光伏海内外利好共振 据S&P Global报道，当地时间11月3日，美国中期选举落下帷幕，民主党同时翻转众议院和参议院控制权——众议院净增至少13个席位、有望拿下至少227席，参议院预计控制至少54席，爱荷华、堪萨斯、缅因、北卡罗来纳、俄亥俄、南卡罗来纳、得克萨斯等多州共和党席位被翻转。市场普遍认为，民主党横扫国会两院大幅降低了美国气候与清洁能源政策的不确定性。 2022年，民主党主导的国会通过《通胀削减法案》（IRA），承诺投入",
-     "source": "东方财富资讯",
-     "zh": "民主党横扫美国会两院！光伏板块迎政策暖风 产业链修复可期(名单)"
     },
     {
      "title": "禁止有罪推定，是对无罪推定原则的再推进",
@@ -2434,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "三季报“难产”叠加立案调查  奥精医疗股价“腰斩”"
     },
     {
-     "title": "A股低开高走，创业板跌2%后拉升转涨3%，光伏、新能源电池爆发，油气股大跌，恒科指暴涨5%，科网股大涨",
-     "link": "https://wallstreetcn.com/articles/3785230",
-     "pubDate": "Thu, 05 Nov 2026 10:24:47 +0800",
-     "summary": "11月5日，A股低开之后高走，三大股指盘初回升，深成指、创业板纷纷翻红，科创综指、科创50亦低开高走，早盘涨幅超过4%。光伏、新能源电池，AI应用等概念股爆发，油气、煤炭、海运等陷入调整，算力硬件跌幅显著收窄，光模块、光芯片等转涨。 港股高开高走，恒指、恒科指早盘双双拉升，恒指涨3%，恒科指涨超5%，科网股爆发，阿里、腾讯、京东、小米纷纷大涨。联想逆势跌近10%。光模块、存储芯片等科技股调整，中芯国际逆势拉升超5%。AI大模型股同样下跌。债市方面，国债期货多数上涨。商品方面，国内商品期货涨跌参半，原油暴跌，隔夜国际油价重挫。 核心市场走势： A股 ：截至发稿，沪指涨0.37%，深成指涨2.37",
-     "source": "华尔街见闻",
-     "zh": "A股低开高走，创业板跌2%后拉升转涨3%，光伏、新能源电池爆发，油气股大跌，恒科指暴涨5%，科网股大涨"
-    },
-    {
      "title": "豆包工作首次接入第三方模型",
      "link": "http://www.eeo.com.cn/2026/1105/1084503.shtml",
      "pubDate": "Thu, 05 Nov 2026 10:04:41 +0800",
@@ -2456,30 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "本届广交会累计吸引了来自全球219个国家和地区的35.2万名境外采购商到会，较上届增长12.2%，到会人数创下历史新高。",
      "source": "经济观察网",
      "zh": "第140届广交会闭幕 乡村好物从田间地头走向国际市场"
-    },
-    {
-     "title": "险企单季巨亏408亿元背后，投资者更该关注什么",
-     "link": "http://www.eeo.com.cn/2026/1105/1084487.shtml",
-     "pubDate": "Thu, 05 Nov 2026 09:53:57 +0800",
-     "summary": "五大上市险企单季合计亏损408亿元，账面数字之外，营运利润、保费收入与新业务价值却透出另一面。这份三季报，投资者需要看到些什么？",
-     "source": "经济观察网",
-     "zh": "险企单季巨亏408亿元背后，投资者更该关注什么"
-    },
-    {
-     "title": "不光是超市冷冻柜！法国血库也被黑客攻击了",
-     "link": "http://finance.eastmoney.com/news/1344,202611053923036113.html",
-     "pubDate": "Thu, 05 Nov 2026 09:49:57 +0800",
-     "summary": "法国血液中心(EFS)周三证实，该机构部分储藏血液的冷库周一受到了近期针对欧洲制冷系统的 网络安全 攻击波的影响。 该机构表示，虽然其并非此次攻击的直接目标，但由外部供应商运营、存放法国血液中心 血液制品 的冷藏设备在其三个站点均遭到破坏，黑客将设备温度调高。 “具体来说，温度和除霜阈值被设置到了过高的水平，”法国血液中心在一份声明中表示，“这些位于EFS制备和分发网点的冷藏设备，用于在 血液制品 送达医疗机构之前进行储存，同时也存放供EFS生物样本库使用的样本。” 这些冷藏设备还储存了用于输血和药品生产的冷冻血浆。 值得庆幸的是，法国血液中心表示，其监控系统被迅速触发 ，同时根据具体情况，受",
-     "source": "东方财富资讯",
-     "zh": "不光是超市冷冻柜！法国血库也被黑客攻击了"
-    },
-    {
-     "title": "11月5日集合竞价：闽发铝业、浙文影业4连板",
-     "link": "http://stock.eastmoney.com/news/11752,202611053922837780.html",
-     "pubDate": "Thu, 05 Nov 2026 09:26:10 +0800",
-     "summary": "11月5日，三大指数集体低开，上证指数低开1.07%，深证成指低开1.05%，创业板指低开2%。板块方面， 白银 领涨， 盛达资源 涨10.01%， 贵金属 、 黄金 等开盘涨幅居前。 个股方面，5股竞价涨停，其中 闽发铝业 4连板、 浙文影业 4连板、 永臻股份 3连板、 深中华A 2连板、 金螳螂 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责",
-     "source": "东方财富资讯",
-     "zh": "11月5日集合竞价：闽发铝业、浙文影业4连板"
     }
    ]
   },

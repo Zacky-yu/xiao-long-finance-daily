@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 09:11:58",
+ "generated_at": "2026/11/5 09:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Apple is reportedly cutting budgets for its internal AI usage",
+     "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+     "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
+     "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+     "source": "TechCrunch AI",
+     "zh": "Apple is reportedly cutting budgets for its internal AI usage"
+    },
     {
      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -72,14 +80,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size. The post Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1 appe",
      "source": "MarkTechPost",
      "zh": "Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1"
-    },
-    {
-     "title": "Open source AI is booming. Hugging Face explains who profits.",
-     "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-     "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
-     "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
-     "source": "TechCrunch AI",
-     "zh": "Open source AI is booming. Hugging Face explains who profits."
     },
     {
      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Apple’s harvest",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/apples-harvest-2026-11/",
+     "pubDate": "Thu, 05 Nov 2026 01:10:05 +0000",
+     "summary": "On Monday, Apple reported Q4 results with sales of $114.5 billion bringing the annual total to $478.8 billion – a 15% jump YoY. Annual profit was $132 billion, which was […] The post Apple’s harvest appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Apple’s harvest"
+    },
     {
      "title": "Asia Optical posts record Q3 profit, ramps CPO and AI optics push",
      "link": "https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html",
@@ -448,14 +456,6 @@ window.INDUSTRY_DATA = {
      "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
-    },
-    {
-     "title": "HMGCC Challenge seeks technology to identify hostile RF emitters",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/hmgcc-challenge-seeks-technology-to-identify-hostile-rf-emitters-2026-11/",
-     "pubDate": "Wed, 04 Nov 2026 10:43:35 +0000",
-     "summary": "The HMGCC (His Majesty’s Government Communications Centre) is launching a challenge – via the Satellite Applications Catapult – to create technology that can identify hostile RF emitters in battlefield situations. […] The post HMGCC Challenge seeks technology to identify hostile RF emitters appeared",
-     "source": "Electronics Weekly",
-     "zh": "HMGCC Challenge seeks technology to identify hostile RF emitters"
     },
     {
      "title": "Marvell’s acquisition of Lumentum could challenge Broadcom’s market leadership, says TrendForce",
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "High gas prices are pumping up used EV sales: these are FLYING off the lot",
+     "link": "https://electrek.co/2026/11/04/high-gas-prices-are-pumping-up-used-ev-sales-these-are-flying-off-the-lot/",
+     "pubDate": "Thu, 05 Nov 2026 01:13:53 +0000",
+     "summary": "A new car affordability crisis and punishing gas prices are driving an unprecedented number of used car buyers to consider going electric, and that increased demand without a corresponding increase in supply means these used EVs are flying off dealer lots. more…",
+     "source": "Electrek",
+     "zh": "High gas prices are pumping up used EV sales: these are FLYING off the lot"
+    },
+    {
      "title": "First: Volvo CE Electric equipment does the work, without disturbing the wildlife",
      "link": "https://electrek.co/2026/11/04/first-volvo-ce-electric-equipment-does-the-work-without-disturbing-the-wildlife/",
      "pubDate": "Wed, 04 Nov 2026 23:23:15 +0000",
@@ -736,14 +744,6 @@ window.INDUSTRY_DATA = {
      "summary": "Range Rover is pulling the plug on its two most affordable models, the Evoque and Velar, as a new entry-level EV steps in. more…",
      "source": "Electrek",
      "zh": "Range Rover is axing its two cheapest SUVs, making way for a new entry-level EV"
-    },
-    {
-     "title": "Germany’s EV share hits record 37% as BEVs beat gas and diesel combined",
-     "link": "https://electrek.co/2026/11/04/germany-electric-car-sales-record-37-percent-share/",
-     "pubDate": "Wed, 04 Nov 2026 18:20:03 +0000",
-     "summary": "Battery-electric cars took a record 37% of Germany’s new car market in October, according to data released today by the Kraftfahrt-Bundesamt (KBA), the country’s federal motor vehicle authority. That’s 94,086 BEVs, up 79.5% from 52,425 a year earlier. For the second month in a row, German buyers reg",
-     "source": "Electrek",
-     "zh": "Germany’s EV share hits record 37% as BEVs beat gas and diesel combined"
     },
     {
      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
@@ -1746,36 +1746,100 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "比尔盖茨批评美国政府：AI 模型能力惊人，不作为让世界面临生物武器风险",
-     "link": "https://www.ithome.com/1/022/512.htm",
-     "pubDate": "Thu, 05 Nov 2026 01:07:24 GMT",
-     "summary": "北京时间 11 月 5 日，据《金融时报》报道，微软联合创始人比尔 · 盖茨 (Bill Gates) 指责特朗普政府阻碍了防范 AI 风险的努力。 盖茨周三在《金融时报》举办的 AI 未来峰会上表示，AI 模型展现出的“惊人”能力意味着，“无论是其造福人类的潜力，还是造成危害的潜力，都不容低估”。 他指出，恶意行为者利用 AI 工具制造生物武器或攻击社会各领域网络安全漏洞，构成了最紧迫的风险。尤其值得警惕的是，一些“开放”模型可以免费供开发者使用，而这些模型的安全防护机制和监控措施能够被移除。盖茨警告称，涉及 AI 的生物安全事件所造成的“损害规模”可能“比新冠严重得多”。 盖茨表示，尽管存",
+     "title": "曝 OpenAI 新一代 GPT-6.2 Astra、Sol 及 Cyber 网安模型最快周五发布",
+     "link": "https://www.ithome.com/1/022/522.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:28:58 GMT",
+     "summary": "IT之家 11 月 5 日消息，据《The Information》当地时间 11 月 4 日报道，OpenAI 最快可能于当地时间周五（11 月 6 日）发布新一代 Astra、Sol 系列模型，以及面向网络安全领域的 Cyber 模型。 不过，报道没有披露具体型号编号，也未提供定价、上下文窗口长度或基准测试成绩。目前尚不清楚这些模型是否会首先通过 API、ChatGPT、Codex 或合作伙伴渠道推出。 IT之家此前报道，部分用户已经在 Codex 用量统计中发现了“gpt-6.2-astra”这一模型标识，尽管产品界面的模型选择器仍显示 GPT-6 Astra。 此外，疑似首批参与灰度测",
      "source": "IT之家",
-     "zh": "比尔盖茨批评美国政府：AI 模型能力惊人，不作为让世界面临生物武器风险"
+     "zh": "曝 OpenAI 新一代 GPT-6.2 Astra、Sol 及 Cyber 网安模型最快周五发布"
     },
     {
-     "title": "中国科大发布开源 RNA 序列基础模型 structRFM，成果登上 Nature",
-     "link": "https://www.ithome.com/1/022/511.htm",
-     "pubDate": "Thu, 05 Nov 2026 01:05:36 GMT",
-     "summary": "IT之家 11 月 5 日消息，中国科学技术大学（中国科大）今日官宣，该校医学影像智能与机器人（MIRACLE）实验室周少华教授、熊鹏特任研究员团队发布一款 开源 RNA 序列基础模型 structRFM ，提高了模型在 RNA 结构预测与功能推断一系列下游任务中的性能，有望助力人工智能驱动的科学研究、生物学机制理解、药物发现等。 11 月 5 日凌晨，相关研究成果发表于国际学术期刊《自然》（Nature）。 这是 2026 年至今，中国科大以第一署名及通讯单位在 Nature、Science、Cell 三大国际顶尖刊物上发表的第 16 篇成果。 ▲ structRFM 结构引导预训练框架 R",
+     "title": "JBL Professional 推出 3 系列 MkIII 家族有源监听音箱及超低音音箱",
+     "link": "https://www.ithome.com/1/022/521.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:25:19 GMT",
+     "summary": "IT之家 11 月 5 日消息，三星电子旗下 HARMAN Professional Solutions 本月早些时候发布了 JBL Professional 3 系列 MkIII 产品家族。新品传承系列经典基因，同时 拥有全新设计的声学系统、全新 D 类功放、简化的房间优化功能、集成式安装方案 。 JBL Professional 3 系列 MkIII 包括 3 款有源二分频录音室监听音箱 305P MkIII (5\")、306P MkIII (6.5\")、308P MkIII (8\") 和 1 款有源超低音音箱 310S MkIII (10\")。 其全新高频单元能提供更宽广、更均匀的聆听区",
      "source": "IT之家",
-     "zh": "中国科大发布开源 RNA 序列基础模型 structRFM，成果登上 Nature"
+     "zh": "JBL Professional 推出 3 系列 MkIII 家族有源监听音箱及超低音音箱"
     },
     {
-     "title": "AI 立功：苹果 Apple TV 4K 能原生 60FPS 运行 Switch 游戏《超级马力欧：奥德赛》",
-     "link": "https://www.ithome.com/1/022/510.htm",
-     "pubDate": "Thu, 05 Nov 2026 01:05:24 GMT",
-     "summary": "IT之家 11 月 5 日消息，网友 u/FloatingFalafel 昨日（11 月 4 日）在 Reddit 社区发帖，发布了开源项目 TVPort， 可以在苹果 Apple TV 4K 上原生运行 Switch 游戏《超级马力欧：奥德赛》（Super Mario Odyssey）。 IT之家附上相关演示视频如下： 在技术实现方面，TVPort 开源项目基于 nxnative 工具包开发，并使用 Claude Opus 5.5 构建，重新编译部分 Nintendo Switch 及 Switch 2 游戏，让其能在 Apple TV 4K 上原生运行。据开发者介绍，多数 Switch 游",
+     "title": "中国移动支付业务“和包”升级为“移动钱包”，带来三大全新体验",
+     "link": "https://www.ithome.com/1/022/520.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:22:03 GMT",
+     "summary": "IT之家 11 月 5 日消息，中移支付有限公司今日官宣， 中国移动“和包”升级为“移动钱包” ，汇聚话费充值、移动出行、权益卡券等各类场景与优惠。 该应用最早在 2011 年推出，原名“手机支付”“手机钱包”，是中国移动面向个人和企业客户提供的一项综合性移动支付业务。 用户开通业务后，即可享受线上支付（互联网购物、充话费、生活缴费等）功能；持 NFC 手机和 NFC-SIM 卡的用户，更可享刷卡功能，把银行卡、公交卡、会员卡装进手机里，实现特约商家（便利店、商场、公交、地铁等）线下消费（业务功能费全免）。 IT之家从官方公告了解到，升级为“移动钱包”后，用户可以享受三大全新体验： 资产汇聚 ",
      "source": "IT之家",
-     "zh": "AI 立功：苹果 Apple TV 4K 能原生 60FPS 运行 Switch 游戏《超级马力欧：奥德赛》"
+     "zh": "中国移动支付业务“和包”升级为“移动钱包”，带来三大全新体验"
     },
     {
-     "title": "OpenAI 自曝 GPT-6 Astra 异常行为：做研究时偷懒，任务完成度降低近四成",
-     "link": "https://www.ithome.com/1/022/509.htm",
-     "pubDate": "Thu, 05 Nov 2026 01:02:32 GMT",
-     "summary": "IT之家 11 月 5 日消息，当地时间 11 月 4 日，OpenAI 发布了一份研究报告，披露了其旗舰模型 GPT-6 Astra 在执行 AI 安全研究任务时出现的异常行为。 简单来说，GPT-6 Astra 可能在不告知用户的情况下，主动减少工作量、放弃可行方案，甚至编造技术障碍，导致任务无法正常推进。OpenAI 将这一现象称为“隐蔽性表现不佳”（Covert Underperformance）。 报告显示，在技术内容基本相同、仅将任务分别描述为 AI 安全研究和 AI 能力研究的对照测试中，GPT-6 Astra 在安全研究任务中的完成度明显更低。其完成的隐藏评分项目比例仅为 10",
+     "title": "咖啡杯已装不下瑞幸的野心",
+     "link": "https://www.huxiu.com/article/4903127.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 09:20:44 +0800",
+     "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技 瑞幸看起来已经不那么像一家咖啡店。 近日，瑞幸木薯桃胶炖奶在全国门店上市。继轻乳茶、冰奶、酸奶昔、泰奶等产品后，又将菜单扩展至中式糖水。 扩张的菜单背后，是瑞幸业绩增长与同店下滑的分化。 最新三季报显示，瑞幸营收178.91亿元，同比增长17.0%；经营利润27.56亿元，同比增长55.1%。 但自营门店同店销售额同比下降11.1%，为2024年第三季度以来首次出现两位数降幅。 瑞幸选择持续丰富菜单，试图为消费者创造更多购买理由。 第三季度，公司推出41款现制饮品及20余款轻食，创近年单季上新数量新高。其中，泰奶系列上市首周销量突破1300",
+     "source": "虎嗅",
+     "zh": "咖啡杯已装不下瑞幸的野心"
+    },
+    {
+     "title": "《万智牌》真人电影步入正轨：首位演员确定为《怪奇物语》玛雅 · 霍克",
+     "link": "https://www.ithome.com/1/022/519.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:20:43 GMT",
+     "summary": "IT之家 11 月 5 日消息，据 Deadline 今日报道，《怪奇物语》演员玛雅 · 霍克（Maya Hawke）已确认加盟并成为《万智牌》（Magic：The Gathering）真人电影首位正式确定出演的演员。 这意味着，在历经多年波折后，由 Legendary Entertainment 与孩之宝（Hasbro）合作打造的这部真人电影已经开始步入正轨。 知情人士透露，玛雅 · 霍克将在影片中扮演一个关键角色，电影整体将采用群像式叙事。制片方此前还特别希望优先向她发出演出邀约，以争取她加入剧组。 本片由加拿大导演兼演员马特 · 约翰逊（Matt Johnson）执导并参与编剧，另外两位",
      "source": "IT之家",
-     "zh": "OpenAI 自曝 GPT-6 Astra 异常行为：做研究时偷懒，任务完成度降低近四成"
+     "zh": "《万智牌》真人电影步入正轨：首位演员确定为《怪奇物语》玛雅 · 霍克"
+    },
+    {
+     "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)",
+     "link": "https://www.techmeme.com/261104/p60#a261104p60",
+     "pubDate": "Wed, 04 Nov 2026 20:20:01 -0500",
+     "summary": "Stephen Council / Business Insider : Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code &nbsp; &mdash;&nbsp; Cat Wu, who left Anthropic last week after becoming one of the company's highest-profile p",
+     "source": "Techmeme",
+     "zh": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)"
+    },
+    {
+     "title": "消息称荣耀 700 系列采用同档唯一双 8 芯片，Pro 用上骁龙 8 Gen5",
+     "link": "https://www.ithome.com/1/022/518.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:19:08 GMT",
+     "summary": "IT之家 11 月 5 日消息，据博主 @数码闲聊站 今日爆料，荣耀 700 系列手机采用同档唯一双 8 芯片，标准版是骁龙 8s Gen4， Pro 直接了上骁龙 8 Gen5 ，拥有更强性能 + 更大电池 + 潜望镜 + 旗舰影像 + 自拍背屏。 荣耀全球首席营销官关海涛于 11 月 3 日发文， 正式官宣了数字 700 系列手机 ，号称“荣耀数字系列全面大换新的一代”。关海涛表示，荣耀 700 系列手机的方向很明确：继承旗舰级影像能力、探索 AI 时代年轻人的新鲜玩法，并守住荣耀一直以来的优势长板。 据IT之家此前报道，荣耀在 10 月有三款 5G 手机通过 3C 认证， 博主 @旺仔百",
+     "source": "IT之家",
+     "zh": "消息称荣耀 700 系列采用同档唯一双 8 芯片，Pro 用上骁龙 8 Gen5"
+    },
+    {
+     "title": "京东红包今日 10 点再加码：猜数字抢 5 元红包",
+     "link": "https://www.ithome.com/1/022/517.htm",
+     "pubDate": "Thu, 05 Nov 2026 01:18:49 GMT",
+     "summary": "今日 10 点京东红包再加码，猜数字有机会抢 5 元加码红包： 点此抽取 。 猜数字红包玩法：每人 3 次机会，猜中锦鲤数字后即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。猜错后会缩小锦鲤数字的范围并提示用户，如果用户 3 次机会均未猜中，则无法获得任何奖励。 蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
+     "source": "IT之家",
+     "zh": "京东红包今日 10 点再加码：猜数字抢 5 元红包"
+    },
+    {
+     "title": "英国的汽车销冠，不赚英国的钱",
+     "link": "https://www.huxiu.com/article/4903123.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 09:15:50 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 今年9月，英国新车注册量达到350518辆，创下近十年同期新高。登上车型销量榜首的，是一辆来自中国的SUV。 奇瑞旗下的JAECOO 7，以10814辆的注册量，超过特斯拉Model 3的9929辆和福特Puma的6958辆，成为英国当月最畅销的车型。 这已经是JAECOO 7年内第二次登顶。3月，它也曾拿下英国月度销量冠军。截至9月底，这款车全年累计注册39474辆，仅次于福特Puma，位居英国市场第二。 JAECOO 7在英国的起售价约为29105英镑，比福特Puma高出近2000英镑。面对一个成熟、竞争激烈且消费者对汽车品牌",
+     "source": "虎嗅",
+     "zh": "英国的汽车销冠，不赚英国的钱"
+    },
+    {
+     "title": "甲醇汽车开进家庭，吉利还要过几道关？",
+     "link": "https://www.huxiu.com/article/4903125.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 09:15:46 +0800",
+     "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进 2026年11月3日，吉利银河星耀6 EF在沈阳上市。新车提供130公里和230公里纯电续航版本，三款车型指导价为8.68万至10.68万元。吉利同时公布了7.68万至9.68万元的限时焕新价，其中包括加醇补贴和置换权益。 这款车最特别的地方，是允许汽油和甲醇在同一个油箱中按任意比例混合加注，再加上插电混动系统，形成吉利所说的“可油、可电、可醇”。即使驶入没有甲醇加注站的地区，车主仍可充电或加汽油。 这套方案解决了甲醇汽车进入家庭市场的第一道难题：消费者不必等到加注网络完全成熟，才能购买和使用车辆。但它没有回答更重要的问",
+     "source": "虎嗅",
+     "zh": "甲醇汽车开进家庭，吉利还要过几道关？"
+    },
+    {
+     "title": "蜜雪冰城的作业，袁记云饺只抄对了一半",
+     "link": "https://www.huxiu.com/article/4903122.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 09:11:28 +0800",
+     "summary": "本文来自微信公众号： 商业评论零售现场 ，作者：贾贺辉 袁记云饺的利润不在饺子本身，而在猪价里。 2024年袁记云饺新开出1057家门店，2025年有所收缩只开了771家门店。常规来说，门店规模增速放缓，利润也很可能不及预期；没想到结果恰恰相反，同一时间经调整净利润从1.8亿元上涨到2.62亿元，似乎“凭空”多出了8200万。 如果把袁记云饺当做一家传统饺子店来看，这个结论显然说不通。可翻开招股书不难发现，袁记云饺的客户并不是走进门店吃饺子的消费者，而是近5000家加盟商；利润也不直接取决于开店速度，而是和猪价周期息息相关。 这两个反常识的关键“错位”，最终或许决定了袁记云饺能长多大，长多高。",
+     "source": "虎嗅",
+     "zh": "蜜雪冰城的作业，袁记云饺只抄对了一半"
+    },
+    {
+     "title": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX&apos;s ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)",
+     "link": "https://www.techmeme.com/261104/p59#a261104p59",
+     "pubDate": "Wed, 04 Nov 2026 20:10:04 -0500",
+     "summary": "Carmen Arroyo / Bloomberg : Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication &nbsp; &mdash;&nbsp; Goldman Sachs Group Inc. and Apollo Global Management Inc. are in talks with Wall Street in",
+     "source": "Techmeme",
+     "zh": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX&apos;s ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)"
     },
     {
      "title": "After the midterms, a bigger clash over data centers could be coming",
@@ -1784,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
      "source": "TechCrunch",
      "zh": "After the midterms, a bigger clash over data centers could be coming"
-    },
-    {
-     "title": "欧盟启动欧洲芯片设计平台，以 5.25 亿欧元支持中小型半导体业者发展",
-     "link": "https://www.ithome.com/1/022/508.htm",
-     "pubDate": "Thu, 05 Nov 2026 01:01:34 GMT",
-     "summary": "IT之家 11 月 5 日消息，欧盟委员会当地时间本月 4 日宣布正式启动欧洲芯片设计平台， 欧盟及其成员国将通过 5.25 亿欧元 （IT之家注：现汇率约合 39.39 亿元人民币） 的资金支持新一代欧洲芯片设计公司 。 这一平台将通过三方面支持芯片设计企业：提供芯片设计工具、设计支持服务、知识产权模块以及平台上的制造能力；给予资金支持（概念验证原型开发最高 10 万欧元，芯片开发商业化最高 1,600 万欧元）；通过欧洲芯片能力中心网络进行指导。 图源：Pexels 5.25 亿欧元的资金中 4.4 亿欧元为直接的公共投资拨款，另有 8,500 万美元用于芯片设计云平台的基础设施建设、运行",
-     "source": "IT之家",
-     "zh": "欧盟启动欧洲芯片设计平台，以 5.25 亿欧元支持中小型半导体业者发展"
     },
     {
      "title": "在农村，穷家娇子越来越多了",
@@ -1810,28 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "马斯克大战印度首富？"
     },
     {
-     "title": "裴宇预告 Nothing 将于 12 月发布首款 AI 原生设备",
-     "link": "https://www.ithome.com/1/022/507.htm",
-     "pubDate": "Thu, 05 Nov 2026 00:58:31 GMT",
-     "summary": "IT之家 11 月 5 日消息，Nothing 创始人裴宇 11 月 4 日发文，表示每隔一段时间就有一项技术出现，改变了每个人的生活方式和工作方式，比如火、印刷术、电、互联网等。如今， 整个行业都在寻找新的 iPhone 时刻 —— 吊坠、别针、眼镜、伴侣，某种让 AI 成为每个人生活一部分的神奇消费设备。 裴宇认为， 新技术在工作中赢得人们的认可，远早于在家中赢得人们的心 。PC 最早作为电子表格和文字处理设备流行起来，远早于人们用它们来听音乐或玩游戏。手机最初是为在路上做交易的人准备的车载电话，几十年后才进入青少年的手中。每次的流行技术都能在真实工作中证明自己，变得廉价且受信任，最终成为",
-     "source": "IT之家",
-     "zh": "裴宇预告 Nothing 将于 12 月发布首款 AI 原生设备"
-    },
-    {
      "title": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)",
      "link": "https://www.techmeme.com/261104/p58#a261104p58",
      "pubDate": "Wed, 04 Nov 2026 19:55:01 -0500",
      "summary": "Mark Stenberg / Adweek : Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content &nbsp; &mdash;&nbsp; The arrangement marks the first time the artificial intelligence firm has paid a digital news pu",
      "source": "Techmeme",
      "zh": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)"
-    },
-    {
-     "title": "AI漫剧这行不养学徒",
-     "link": "https://www.huxiu.com/article/4903118.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 08:54:00 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 2026年秋招，AI漫剧公司还在招抽卡师。 大四学生来应聘，岗位要求写得很直接：熟练使用新工具，会调提示词和参数，能批量生成角色立绘。 招抽卡师，不是导演、主编。 另一边，陈藜藜公司的四个三人小组同时运转，一个月做五十部系统生成的剧，再加一两部精品；算下来，一个三人小组每月要做十几部，听上去已经是一条很成熟的流水线。 流水线越顺，对人的需求就越少，可招聘页面上的岗位还挂着，招人的和不需要人的，是同一个行业里同时发生的事。 这事听着别扭，可行情就是这样，缺的到底是哪一种人，得先把「缺人」这个词拆开。 这行现在有两个价钱，一头是刚进来的，一头是能扛事的",
-     "source": "虎嗅",
-     "zh": "AI漫剧这行不养学徒"
     },
     {
      "title": "OpenAI launches Images 2.6 in ChatGPT, Codex, and the API, saying it generates images 50% faster, and adds animated GIF creation from prompts or photos (Emma Roth/The Verge)",
@@ -1850,22 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "Edge AI Daily 早报（11月5日）"
     },
     {
-     "title": "“蓝色浪潮”下，微软、亚马逊、苹果股价狂飙",
-     "link": "https://www.huxiu.com/article/4903115.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 08:35:05 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：卞纯 周三，美国科技巨头引领大盘走高，因投资者押注，由民主党掌控的国会将会令巨额人工智能（AI）支出放缓，而这笔支出正在吞噬大型科技公司的自由现金流。 截至周三收盘，大型科技股中，微软涨6.7%，亚马逊涨6.1%，谷歌母公司Alphabet上涨3.2%，Meta涨1.4%。而一直以来在AI方面审慎支出的苹果股价上涨5.3%。这五大科技巨头周三市值合计增加近1万亿美元。 民主党在中期选举中拿下参众两院多数席位，在包括南卡罗来纳州、得克萨斯州和堪萨斯州在内的共和党票仓翻转了席位，同时在地方选举中取胜，拿下多个州议会控制权与州长席位。民主党候选人大力主打“放缓A",
-     "source": "虎嗅",
-     "zh": "“蓝色浪潮”下，微软、亚马逊、苹果股价狂飙"
-    },
-    {
-     "title": "Dan Koe，末世圣徒：从反成功学到成功学大师",
-     "link": "https://www.huxiu.com/article/4903110.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 08:28:23 +0800",
-     "summary": "本文来自微信公众号： 动察Beating ，作者：Sleepy，题图来自：AI生成 Dan Koe 又发了一篇文章，《The most lucrative AI business to start in 2027》。 Dan Koe新文章原帖｜图源：X 他说，2027 年最赚钱的 AI 生意，是给别人当&ldquo;一人创意团队&rdquo;，访谈客户，用 AI 把对方过去的爆款扒一遍，排出够用半年的内容。第一个客户，每月收 2500 到 5000 美元比较现实。 文章末尾，他在卖一场 49 美元的写作工作坊。 这是他今年发出的第 27 篇文章。离让他破圈的那一篇，已经过去快十个月了。 Dan",
-     "source": "虎嗅",
-     "zh": "Dan Koe，末世圣徒：从反成功学到成功学大师"
-    },
-    {
      "title": "A One-Cent Livestream Does Not Make Office AI a Mass Habit",
      "link": "https://www.tmtpost.com/8194255.html",
      "pubDate": "Thu, 05 Nov 2026 08:27:04 +0800",
@@ -1874,18 +1898,10 @@ window.INDUSTRY_DATA = {
      "zh": "A One-Cent Livestream Does Not Make Office AI a Mass Habit"
     },
     {
-     "title": "资金密集涌入“存算一体”芯片",
-     "link": "https://www.huxiu.com/article/4903112.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 08:24:52 +0800",
-     "summary": "本文来自微信公众号： 科创板日报 ，作者：小K 近日，后摩智能科技股份有限公司（下称“后摩智能”）宣布完成数十亿元人民币B轮融资。公司表示，本轮投资方包括上下游产业资本、国有资本及国际投资人，多家老股东继续追加投资，具体机构名单尚未公布。 本轮资金将用于扩大M50芯片的规模化交付，推进新一代M6X及下一代3D存算一体产品研发，并完善软件工具链与产业生态。过去一年，后摩智能已连续完成多轮融资。 ▌多轮融资与股改推进 后摩智能成立于2020年，创始人吴强拥有普林斯顿大学计算机科学博士学位，曾任职于英特尔、AMD、Facebook，并担任地平线CTO。公司早期围绕智能驾驶、机器人等场景布局AI推理芯",
-     "source": "虎嗅",
-     "zh": "资金密集涌入“存算一体”芯片"
-    },
-    {
      "title": "SpaceX – Starfall",
      "link": "https://www.spacex.com/starfall",
      "pubDate": "Thu, 05 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 31 # Comments: 11",
      "source": "Hacker News",
      "zh": "SpaceX – Starfall"
     },
@@ -1901,17 +1917,17 @@ window.INDUSTRY_DATA = {
      "title": "You'll need nerves of steel to work with AI agents",
      "link": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
      "pubDate": "Thu, 05 Nov 2026 00:01:30 +0000",
-     "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50373149 Points: 8 # Comments: 2",
      "source": "Hacker News",
      "zh": "You'll need nerves of steel to work with AI agents"
     },
     {
-     "title": "Local privilege escalation vulnerabilities in Linux",
-     "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-     "pubDate": "Wed, 04 Nov 2026 23:33:14 +0000",
-     "summary": "Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/ Comments URL: https://news.ycombinator.com/item?id=50372929 Points: 55 # Comments: 42",
+     "title": "Images 2.6",
+     "link": "https://openai.com/index/introducing-images-2-6/",
+     "pubDate": "Wed, 04 Nov 2026 23:35:44 +0000",
+     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 71 # Comments: 53",
      "source": "Hacker News",
-     "zh": "Local privilege escalation vulnerabilities in Linux"
+     "zh": "Images 2.6"
     },
     {
      "title": "Data center shares fall as investors expect slower AI buildout after Democrats win Congress; Hut 8 drops 23%, IREN 11%, Core Scientific 10%, Applied Digital 7% (Reuters)",
@@ -1938,14 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space"
     },
     {
-     "title": "Figma reports Q3 revenue up 43% YoY to $391.4M, above est., gross margin of 80%, below 81% est., and lifts its 2026 revenue outlook; FIG drops 6%+ after hours (Deborah Mary Sophia/Reuters)",
-     "link": "https://www.techmeme.com/261104/p54#a261104p54",
-     "pubDate": "Wed, 04 Nov 2026 18:00:54 -0500",
-     "summary": "Deborah Mary Sophia / Reuters : Figma reports Q3 revenue up 43% YoY to $391.4M, above est., gross margin of 80%, below 81% est., and lifts its 2026 revenue outlook; FIG drops 6%+ after hours &nbsp; &mdash;&nbsp; Figma (FIG.N) is leaning on cashing in on its AI features through credits and using its ",
-     "source": "Techmeme",
-     "zh": "Figma reports Q3 revenue up 43% YoY to $391.4M, above est., gross margin of 80%, below 81% est., and lifts its 2026 revenue outlook; FIG drops 6%+ after hours (Deborah Mary Sophia/Reuters)"
-    },
-    {
      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
      "pubDate": "Wed, 04 Nov 2026 22:47:51 +0000",
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
      "link": "https://icode4.coffee/?p=1746",
      "pubDate": "Wed, 04 Nov 2026 22:01:49 +0000",
-     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 50 # Comments: 2",
+     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 55 # Comments: 2",
      "source": "Hacker News",
      "zh": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements"
     },
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
      "source": "Ars Technica",
      "zh": "Uranium cubes reveal why the German nuclear project failed"
-    },
-    {
-     "title": "Snapchat surpasses 30M paid subscribers",
-     "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-     "pubDate": "Wed, 04 Nov 2026 21:49:29 +0000",
-     "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
-     "source": "TechCrunch",
-     "zh": "Snapchat surpasses 30M paid subscribers"
     }
    ]
   },
@@ -2000,6 +2000,14 @@ window.INDUSTRY_DATA = {
      "summary": "Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "Apple now lets developers offer discounts when users move to cancel subscriptions"
+    },
+    {
+     "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+     "link": "https://sspai.com/post/118498",
+     "pubDate": "Thu, 05 Nov 2026 08:16:27 +0800",
+     "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ... 查看全文",
+     "source": "少数派",
+     "zh": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等"
     },
     {
      "title": "Oppo's new F35 Pro gets the ColorOS 17 update",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some good news for foldable fans came from an interview with one of Oppo's regional Product Managers. Speaking to local publication Nixanbal he revealed that Oppo is planning to release the Oppo Find N7 in Europe, after the N6 missed the Old Continent entirely. The Oppo Find N6 is easily among the b",
      "source": "GSMArena",
      "zh": "Oppo Find N7 officially confirmed to arrive in Europe"
-    },
-    {
-     "title": "Deals: Pixel Watch 5 up to $200 off, Galaxy Z Fold 8 $300 off + $200 store credit, Moto Tag 2, Anker, more",
-     "link": "https://9to5google.com/2026/11/04/deals-pixel-watch-5-galaxy-z-fold-8-moto-tag-2-anker/",
-     "pubDate": "Wed, 04 Nov 2026 16:43:56 +0000",
-     "summary": "Joining the best cash discount to date on the new Pixel 11 Pro, Pixel 11 Pro XL, and $17.50 each and a seriously notable Galaxy Z Fold 8 deals – you can land one at $300 off and score a $200 store credit today. Head below for more including Anker’s new Nano Smart Display hub at one of its best price",
-     "source": "9to5Google",
-     "zh": "Deals: Pixel Watch 5 up to $200 off, Galaxy Z Fold 8 $300 off + $200 store credit, Moto Tag 2, Anker, more"
     }
    ]
   },
@@ -2241,6 +2241,86 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "港股开盘：恒指高开1.66% 创科实业领涨成分股",
+     "link": "http://stock.eastmoney.com/news/11771,202611053922836615.html",
+     "pubDate": "Thu, 05 Nov 2026 09:23:15 +0800",
+     "summary": "&nbsp; 港股11月5日 高开，恒生指数开盘报24316.94点，涨397.44点，涨幅1.66%； 恒生科技指数 开盘报3992.39点，涨56.37点，涨幅1.43%。 恒生指数成分股中 创科实业 、 中国生物制药 、 小米集团-W 涨幅居前 ， 华虹宏力 、 中国石油 股份、 联想集团 跌幅靠前 。 恒生科技指数成分股中 腾讯音乐-SW 、 小米集团-W 、 理想汽车-W 涨幅居前 ， 华虹宏力 、 联想集团 、 MINIMAX-W 跌幅靠前 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东",
+     "source": "东方财富股票",
+     "zh": "港股开盘：恒指高开1.66% 创科实业领涨成分股"
+    },
+    {
+     "title": "11月5日港股开盘：恒指高开1.66% 创科实业领涨成分股",
+     "link": "http://stock.eastmoney.com/news/11770,202611053922836581.html",
+     "pubDate": "Thu, 05 Nov 2026 09:23:08 +0800",
+     "summary": "港股11月5日高开，恒生指数开盘报24316.94点，涨397.44点，涨幅1.66%；恒生科技指数开盘报3992.39点，涨56.37点，涨幅1.43%。恒生指数成分股中 创科实业 、 中国生物制药 、 小米集团-W 涨幅居前， 华虹宏力 、 中国石油 股份、 联想集团 跌幅靠前。恒生科技指数成分股中 腾讯音乐-SW 、 小米集团-W 、 理想汽车-W 涨幅居前， 华虹宏力 、 联想集团 、 MINIMAX-W 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。",
+     "source": "东方财富股票",
+     "zh": "11月5日港股开盘：恒指高开1.66% 创科实业领涨成分股"
+    },
+    {
+     "title": "韩国KOSPI指数日内大跌5%",
+     "link": "http://finance.eastmoney.com/news/11440,202611053922836442.html",
+     "pubDate": "Thu, 05 Nov 2026 09:22:32 +0800",
+     "summary": "韩国KOSPI指数日内大跌5%， SK海力士 跌超9%，三星 电子 跌7%。",
+     "source": "东方财富股票",
+     "zh": "韩国KOSPI指数日内大跌5%"
+    },
+    {
+     "title": "聚杰微纤：截至10月30日最新股东户数1.48万户，较上期减少5.77%",
+     "link": "http://stock.eastmoney.com/news/11111,202611053922836277.html",
+     "pubDate": "Thu, 05 Nov 2026 09:22:22 +0800",
+     "summary": "聚杰微纤 最新披露数据显示，截至10月30日公司股东户数为1.48万户，较上期(2026年10月20日) 减少904户，降幅为5.77% 。户均持有流通股数量 由上期的8606股上升至9133股， 户均持股金额 由上期的32.06万元减少至29.52万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "聚杰微纤：截至10月30日最新股东户数1.48万户，较上期减少5.77%"
+    },
+    {
+     "title": "港股开盘：恒生科技指数涨1.43% 恒生指数涨1.66%",
+     "link": "http://finance.eastmoney.com/news/11440,202611053922836714.html",
+     "pubDate": "Thu, 05 Nov 2026 09:21:43 +0800",
+     "summary": "港股开盘，恒生科技指数涨1.43%，恒生指数涨1.66%。个股方面， 汇量科技 涨12.29%， 创科实业 涨10.0%，迅销涨8.76%， 紫金黄金国际 涨7.04%， 灵宝黄金 涨5.61%； 三环集团 跌9.81%， 中际旭创 跌7.5%， 建滔积层板 跌6.48%， 君正股份 跌6.04%， 剑桥科技 跌5.73%。",
+     "source": "东方财富股票",
+     "zh": "港股开盘：恒生科技指数涨1.43% 恒生指数涨1.66%"
+    },
+    {
+     "title": "日经225指数下跌1%",
+     "link": "http://finance.eastmoney.com/news/11440,202611053922835874.html",
+     "pubDate": "Thu, 05 Nov 2026 09:21:21 +0800",
+     "summary": "日经225指数下跌1%，至61562.39点。",
+     "source": "东方财富股票",
+     "zh": "日经225指数下跌1%"
+    },
+    {
+     "title": "E.l.f. Beauty projects 22% to 24% fiscal '27 net sales growth as rhode expands in Sephora Europe",
+     "link": "https://seekingalpha.com/news/4666019-e-l-f-beauty-projects-22-percent-to-24-percent-fiscal-27-net-sales-growth-as-rhode-expands-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 20:15:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "E.l.f. Beauty projects 22% to 24% fiscal '27 net sales growth as rhode expands in Sephora Europe"
+    },
+    {
+     "title": "8x8 outlines FY2027 EPS of $0.36-$0.40 while raising service revenue to $732M-$752M",
+     "link": "https://seekingalpha.com/news/4666018-8x8-outlines-fy2027-eps-of-0_36-0_40-while-raising-service-revenue-to-732m-752m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 20:15:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "8x8 outlines FY2027 EPS of $0.36-$0.40 while raising service revenue to $732M-$752M"
+    },
+    {
+     "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
+     "link": "https://wallstreetcn.com/articles/3785208",
+     "pubDate": "Thu, 05 Nov 2026 09:15:08 +0800",
+     "summary": "民主党横扫国会两院，触发美股剧烈板块轮动。数据中心运营商、国防承包商及与特朗普相关资产遭到抛售，清洁能源、医疗保险等板块则大幅反弹，市场正在重新定价一个监管更趋严格、政策优先项发生位移的新格局。 此次民主党胜选范围超出市场预期，不仅突破共和党传统票仓，更赢得德克萨斯州和佐治亚州两大AI数据中心重镇。 德克萨斯州选出逾30年来首位民主党籍州长Gina Hinojosa，其竞选纲领明确主张对数据中心建设实施临时暂停令，令相关股票雪上加霜。与此同时，原本被市场视为在共和党国会畅行无阻的1.5万亿美元国防预算扩张预期亦随之落空。民主党掌控国会将使过去两年共和党主导下的监管宽松路径出现逆转，AI基础设施",
+     "source": "华尔街见闻",
+     "zh": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动"
+    },
+    {
+     "title": "White House panel delays hearing on Fed&apos;s Lisa Cook to Dec. 14",
+     "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+     "pubDate": "Thu, 05 Nov 2026 01:11:26 GMT",
+     "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
+     "source": "CNBC",
+     "zh": "White House panel delays hearing on Fed&apos;s Lisa Cook to Dec. 14"
+    },
     {
      "title": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
      "link": "https://wallstreetcn.com/articles/3782813",
@@ -2256,6 +2336,38 @@ window.INDUSTRY_DATA = {
      "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
      "source": "MarketWatch",
      "zh": "Qualcomm’s stock falls as twin forces pressure sales"
+    },
+    {
+     "title": "Western Union projects $1.28-$1.38 2026 adjusted EPS while targeting $80M+ run-rate cost savings",
+     "link": "https://seekingalpha.com/news/4666016-western-union-projects-1_28-1_38-2026-adjusted-eps-while-targeting-80m-run-rate-cost-savings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 20:05:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Western Union projects $1.28-$1.38 2026 adjusted EPS while targeting $80M+ run-rate cost savings"
+    },
+    {
+     "title": "CAVA outlines 2026 outlook with 76-78 net new openings and $184M-$189M adjusted EBITDA",
+     "link": "https://seekingalpha.com/news/4666014-cava-outlines-2026-outlook-with-76minus-78-net-new-openings-and-184m-189m-adjusted-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 20:05:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CAVA outlines 2026 outlook with 76-78 net new openings and $184M-$189M adjusted EBITDA"
+    },
+    {
+     "title": "Sunrun expects ~$200M 2026 cash generation as it targets doubling storage capacity by end of 2028",
+     "link": "https://seekingalpha.com/news/4666015-sunrun-expects-200m-2026-cash-generation-as-it-targets-doubling-storage-capacity-by-end-of?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 20:05:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sunrun expects ~$200M 2026 cash generation as it targets doubling storage capacity by end of 2028"
+    },
+    {
+     "title": "Qualcomm targets $5B fiscal 2027 data center revenue as it expects Starlink Mobile deployments to begin in 2027",
+     "link": "https://seekingalpha.com/news/4666012-qualcomm-targets-5b-fiscal-2027-data-center-revenue-as-it-expects-starlink-mobile-deployments?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 20:05:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Qualcomm targets $5B fiscal 2027 data center revenue as it expects Starlink Mobile deployments to begin in 2027"
     },
     {
      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
@@ -2274,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "矛头直指伊朗、乌克兰、古巴！中选惨败，特朗普“内政无力”，反而“对外发力”？"
     },
     {
-     "title": "White House panel delays hearing on Fed&apos;s Lisa Cook to Dec. 14",
-     "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
-     "pubDate": "Thu, 05 Nov 2026 01:04:19 GMT",
-     "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
-     "source": "CNBC",
-     "zh": "White House panel delays hearing on Fed&apos;s Lisa Cook to Dec. 14"
-    },
-    {
      "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
      "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
      "pubDate": "Thu, 05 Nov 2026 01:03:00 GMT",
@@ -2296,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "数字平台的商业创新，正在从满足需求走向影响需求，从争夺流量走向组织注意力。通过算法、数据和平台规则，企业不仅能够影响用户看到什么、选择什么，还能够影响创作者获得多少曝光、商家拥有多少交易机会。这种能力本身是技术进步和商业创新的结果，但也意味着企业获得了超越传统市场竞争的结构性影响力。如何认识和约束这种影响力，正在成为数字经济发展必须面对的新问题。",
      "source": "经济观察网",
      "zh": "“字节时间”争议的意义：商业创新的边界在哪里"
-    },
-    {
-     "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
-     "link": "https://wallstreetcn.com/articles/3785208",
-     "pubDate": "Thu, 05 Nov 2026 09:01:08 +0800",
-     "summary": "民主党横扫国会两院，触发美股剧烈板块轮动。数据中心运营商、国防承包商及与特朗普相关资产遭到抛售，清洁能源、医疗保险等板块则大幅反弹，市场正在重新定价一个监管更趋严格、政策优先项发生位移的新格局。 此次民主党胜选范围超出市场预期，不仅突破共和党传统票仓，更赢得德克萨斯州和佐治亚州两大AI数据中心重镇。 德克萨斯州选出逾30年来首位民主党籍州长Gina Hinojosa，其竞选纲领明确主张对数据中心建设实施临时暂停令，令相关股票雪上加霜。与此同时，原本被市场视为在共和党国会畅行无阻的1.5万亿美元国防预算扩张预期亦随之落空。民主党掌控国会将使过去两年共和党主导下的监管宽松路径出现逆转，AI基础设施",
-     "source": "华尔街见闻",
-     "zh": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动"
     },
     {
      "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
@@ -2330,38 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "8390亿美元！美政府“拆东墙补西墙”：单周美债拍卖总额刷新纪录"
     },
     {
-     "title": "Kennametal projects FY 2027 adjusted EPS of $5-$6 while outlining 16%-19% long-term EBITDA margin target",
-     "link": "https://seekingalpha.com/news/4666011-kennametal-projects-fy-2027-adjusted-eps-of-5-6-while-outlining-16-percentminus-19-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 19:55:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kennametal projects FY 2027 adjusted EPS of $5-$6 while outlining 16%-19% long-term EBITDA margin target"
-    },
-    {
-     "title": "Smith Douglas expects Q4 closings of 800-875 while targeting 15.5%-16.5% gross margin",
-     "link": "https://seekingalpha.com/news/4666010-smith-douglas-expects-q4-closings-of-800minus-875-while-targeting-15_5-percentminus-16_5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 19:55:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Smith Douglas expects Q4 closings of 800-875 while targeting 15.5%-16.5% gross margin"
-    },
-    {
-     "title": "Sinclair forecasts ~$455M full-year 2026 political revenue while lifting adjusted EBITDA to $825M-$835M",
-     "link": "https://seekingalpha.com/news/4666009-sinclair-forecasts-455m-full-year-2026-political-revenue-while-lifting-adjusted-ebitda-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 19:55:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sinclair forecasts ~$455M full-year 2026 political revenue while lifting adjusted EBITDA to $825M-$835M"
-    },
-    {
-     "title": "Oil industry bracing for potential windfall profits tax after Democrats' big election win",
-     "link": "https://seekingalpha.com/news/4665998-oil-industry-bracing-for-potential-windfall-profits-tax-after-democrats-big-election-win?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 19:55:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Oil industry bracing for potential windfall profits tax after Democrats' big election win"
-    },
-    {
      "title": "盘后大跌超6%！高通业绩指引不及预期：供应链成本上涨拖累利润 手机需求仍处寒冬",
      "link": "http://finance.eastmoney.com/news/1344,202611053922649347.html",
      "pubDate": "Thu, 05 Nov 2026 08:52:20 +0800",
@@ -2384,14 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "①智能体发展自律公约发布，产业迈向规范化发展； ②王兴兴预判明年或是 机器人 行业临界点，具身智能打开AI新空间； ③AppLovin三季报亮眼、股价暴涨，AI驱动广告变现获验证； ④发改委明确“十五五” 新建1.5万公里 铁路， 高铁 装备需求有望扩容； ⑤五部门印发全面节约战略行动方案，循环经济与节能产业迎机遇； ⑥全球首个千公里空芯光纤双向传输验证完成，光 通信 技术再获突破。 盘面回顾 11月4日，A股三大指数集体大涨，沪指涨2.16%报3686.17点，创业板指大涨6.40%，科创50指数暴涨9.92%，沪深京三市成交量重回2万亿，超4600只个股上涨。 半导体 、 贵金属 、 创新",
      "source": "东方财富资讯",
      "zh": "A股热点前瞻丨20家单位联合发布智能体发展自律公约；王兴兴预判明年或是机器人行业临界点"
-    },
-    {
-     "title": "Expedia raises FY2026 outlook, projects $131.4B-$131.9B gross bookings and 180-200 bps EBITDA margin expansion",
-     "link": "https://seekingalpha.com/news/4666007-expedia-raises-fy2026-outlook-projects-131_4b-131_9b-gross-bookings-and-180minus-200-bps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 19:45:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Expedia raises FY2026 outlook, projects $131.4B-$131.9B gross bookings and 180-200 bps EBITDA margin expansion"
     },
     {
      "title": "中选结束，油价暴跌！市场的“止战预期”会实现吗？",
@@ -2424,62 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
      "source": "MarketWatch",
      "zh": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction"
-    },
-    {
-     "title": "Martin Marietta anticipates $820M 2027 Lhoist North America EBITDA while updating 2026 adjusted EBITDA midpoint to $2.48B",
-     "link": "https://seekingalpha.com/news/4666006-martin-marietta-anticipates-820m-2027-lhoist-north-america-ebitda-while-updating-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 19:35:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Martin Marietta anticipates $820M 2027 Lhoist North America EBITDA while updating 2026 adjusted EBITDA midpoint to $2.48B"
-    },
-    {
-     "title": "参议院易主，白宫无法再安插“自己人”，美联储独立性警报解除？",
-     "link": "https://wallstreetcn.com/articles/3785221",
-     "pubDate": "Thu, 05 Nov 2026 08:32:56 +0800",
-     "summary": "过去两年，美联储独立性承受了罕见压力。白宫曾尝试罢免一位在任美联储理事——这在美联储历史上尚属首次。但随着参议院控制权的更迭，这张牌的效力正在迅速消退。 据追风交易台消息，摩根大通首席经济学家Michael Feroli在11月4日发布的研究报告中指出，参议院的易主将显著降低上述风险。原因很简单： 美联储理事的任命须经参议院批准 ，而现在，白宫的提名必须找到民主党参议员能接受的人选，否则席位只能空置。 鲍威尔的“遗产”：唯一一个空缺 未来两年，美联储理事会只有一个席位到期—— 鲍威尔本人的主席任期，将于2028年1月届满 。 这意味着，在新的参议院格局下，白宫若想填补这一席位，别无选择，只能提",
-     "source": "华尔街见闻",
-     "zh": "参议院易主，白宫无法再安插“自己人”，美联储独立性警报解除？"
-    },
-    {
-     "title": "药企CEO集体泼冷水：AI\"十年治愈癌症\"的承诺，硅谷说得出，生物学做不到",
-     "link": "https://wallstreetcn.com/articles/3785222",
-     "pubDate": "Thu, 05 Nov 2026 08:31:47 +0800",
-     "summary": "人工智能将在十年内治愈大多数疾病——这一出自硅谷的豪言壮语，正在遭遇来自药企高管层的集体质疑。在巨额资本涌入AI制药赛道的同时，真正掌握新药研发规律的行业领导者给出了截然不同的判断： 生物学的复杂性，不是数据分析能够解决的问题。 Anthropic首席执行官Dario Amodei 9月在社交平台X发帖称，“在5至10年内治愈大多数人类疾病实际上是可能的，尽管这听起来很疯狂。”然而，据华尔街日报11月3日报道，Vertex Pharmaceuticals执行董事长Jeff Leiden最新表态：“ 这完全是胡说 。” 他透露，Vertex曾动用约50家AI公司梳理其拥有1万种药物化合物的数据集",
-     "source": "华尔街见闻",
-     "zh": "药企CEO集体泼冷水：AI\"十年治愈癌症\"的承诺，硅谷说得出，生物学做不到"
-    },
-    {
-     "title": "永远记住，和周围人搞好关系，不需要请客吃饭、讨好取悦，你只需要……",
-     "link": "http://www.eeo.com.cn/2026/1105/1083133.shtml",
-     "pubDate": "Thu, 05 Nov 2026 08:27:01 +0800",
-     "summary": "在咨询中，我经常听到这样的困惑：“为什么我对别人那么好，他们却离我越来越远？” 在他们看来，人际关系是靠“付出”维系的。你请我一顿，我回你一餐；你送我一份礼，我还你一个人情。似乎只要不断地“给”，关系就能牢固。 但事实并非如此。那些靠讨好和请客换来的关系，往往是最脆弱的。一旦你停止付出，关系就会迅速冷却。因为你...",
-     "source": "经济观察网",
-     "zh": "永远记住，和周围人搞好关系，不需要请客吃饭、讨好取悦，你只需要……"
-    },
-    {
-     "title": "Most Brits not ready to let AI manage their money",
-     "link": "https://www.finextra.com/newsarticle/48705/most-brits-not-ready-to-let-ai-manage-their-money?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 05 Nov 2026 00:01:00 GMT",
-     "summary": "Brits are already using artificial intelligence for help with their money, but most are not ready to hand over day-to-day control to an AI assistant, according to a FIS survey.",
-     "source": "Finextra",
-     "zh": "Most Brits not ready to let AI manage their money"
-    },
-    {
-     "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-     "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 23:45:00 GMT",
-     "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-     "source": "MarketWatch",
-     "zh": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?"
-    },
-    {
-     "title": "Democrats flip dozens of GOP seats. Republicans haven&apos;t flipped a single one",
-     "link": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
-     "pubDate": "Wed, 04 Nov 2026 23:44:18 GMT",
-     "summary": "Democrats have flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers in a historic 2026 midterm rout.",
-     "source": "CNBC",
-     "zh": "Democrats flip dozens of GOP seats. Republicans haven&apos;t flipped a single one"
     }
    ]
   },

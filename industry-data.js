@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 10:51:50",
+ "generated_at": "2026/11/5 11:11:50",
  "recent_days": 7,
  "industries": [
   {
@@ -258,44 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Corning starts optical connectivity output in western India, plans larger adjacent plant for 2027",
-     "link": "https://www.digitimes.com/news/a20261105VL208/corning-plant-2027-demand-data-center.html",
-     "pubDate": "Thu, 5 Nov 2026 01:58:36 GMT",
-     "summary": "Corning's move to begin making optical connectivity products in Pune and add a larger adjacent plant by 2027 shows the AI-driven surge in data center fiber demand, so far strongest in the US, starting to reshape the company's manufacturing footprint in India.",
+     "title": "Pegatron drives Scope 3 decarbonization through digital platforms, supplier engagement",
+     "link": "https://www.digitimes.com/news/a20261105PD214/pegatron-supplier-data-supply-chain-management.html",
+     "pubDate": "Thu, 5 Nov 2026 02:58:11 GMT",
+     "summary": "Scope 3 emissions are emerging as a major test of corporate management capabilities, requiring companies to move beyond carbon accounting and translate data into measurable supply chain action. Taiwan's Pegatron is tackling the challenge through digital tools, targeted supplier engagement, and colla",
      "source": "DIGITIMES",
-     "zh": "Corning starts optical connectivity output in western India, plans larger adjacent plant for 2027"
+     "zh": "Pegatron drives Scope 3 decarbonization through digital platforms, supplier engagement"
     },
     {
-     "title": "OpenAI moves deeper into software infrastructure with Pierre acquisition plan",
-     "link": "https://www.digitimes.com/news/a20261105VL203/openai-software-acquisition-infrastructure-development.html",
-     "pubDate": "Thu, 5 Nov 2026 01:49:17 GMT",
-     "summary": "OpenAI plans to acquire Pierre Computer Company, extending its push into the infrastructure behind AI-generated software as competition expands beyond coding assistants to the systems that store, review, and manage their output. The November 4 announcement adds the maker of Code Storage to OpenAI's ",
+     "title": "Samsung reportedly plans 2nm fab to boost HBM base-die output",
+     "link": "https://www.digitimes.com/news/a20261105VL216/samsung-fab-hbm-2nm-production.html",
+     "pubDate": "Thu, 5 Nov 2026 02:55:00 GMT",
+     "summary": "Samsung Electronics is preparing to build a 2nm- and 4nm-class foundry fab at its Giheung campus in Yongin, South Korea, to expand production of logic base dies used in high-bandwidth memory (HBM). The fab is estimated to cost KRW25 trillion (approx. US$18.6 billion), with the broader project potent",
      "source": "DIGITIMES",
-     "zh": "OpenAI moves deeper into software infrastructure with Pierre acquisition plan"
+     "zh": "Samsung reportedly plans 2nm fab to boost HBM base-die output"
     },
     {
-     "title": "Qualcomm wins Starlink Mobile infrastructure deal as SpaceX advances terrestrial network",
-     "link": "https://www.digitimes.com/news/a20261105VL204/qualcomm-spacex-starlink-infrastructure-software.html",
-     "pubDate": "Thu, 5 Nov 2026 01:44:41 GMT",
-     "summary": "Qualcomm has secured a role in SpaceX's planned US terrestrial mobile network, turning Starlink Mobile's ambitions for integrated satellite and ground-based connectivity into a named infrastructure deployment. Announced November 4, the multi-year agreement calls for rollout to begin in 2027, with te",
+     "title": "Taiwan digs deep: 2,049-meter geothermal well strikes 140&deg;C in Taitung",
+     "link": "https://www.digitimes.com/news/a20261105PD208/taiwan-geothermal-2026-taipei-moea.html",
+     "pubDate": "Thu, 5 Nov 2026 02:55:00 GMT",
+     "summary": "Taiwan's deep geothermal sector is reporting fresh progress after a 2,049-meter well that reached temperatures of 140 degrees Celsius was completed in a challenging metamorphic rock zone in the eastern county of Taitung. The breakthrough strengthens the case for deep geothermal energy as a valuable ",
      "source": "DIGITIMES",
-     "zh": "Qualcomm wins Starlink Mobile infrastructure deal as SpaceX advances terrestrial network"
+     "zh": "Taiwan digs deep: 2,049-meter geothermal well strikes 140&deg;C in Taitung"
     },
     {
-     "title": "FPT starts chip-testing plant trials in northern Vietnam, plans packaging expansion",
-     "link": "https://www.digitimes.com/news/a20261105VL206/plant-packaging-testing-expansion-equipment.html",
-     "pubDate": "Thu, 5 Nov 2026 01:30:22 GMT",
-     "summary": "FPT has begun trial operations at a semiconductor testing and packaging plant in Vietnam's Bac Ninh province, initially focusing on chip testing as it prepares to expand into packaging technologies. The facility has six production lines and a maximum designed capacity of 300 million chips annually, ",
+     "title": "SK Hynix leads HBM4 yield at 60%, expands DRAM supply",
+     "link": "https://www.digitimes.com/news/a20261105PD211/sk-hynix-hbm4-dram-hbm-capacity.html",
+     "pubDate": "Thu, 5 Nov 2026 02:45:00 GMT",
+     "summary": "SK Hynix's sixth-generation high-bandwidth memory (HBM4) yield has reportedly reached the mid-60% range, the highest in the industry. Analysts say improved yield has lifted production efficiency, allowing the company to expand server DRAM supply even as it concentrates capacity on HBM, a trend also ",
      "source": "DIGITIMES",
-     "zh": "FPT starts chip-testing plant trials in northern Vietnam, plans packaging expansion"
+     "zh": "SK Hynix leads HBM4 yield at 60%, expands DRAM supply"
     },
     {
-     "title": "Google commits US$15 billion to expand Malaysian data centers in 2027 and 2028",
-     "link": "https://www.digitimes.com/news/a20261105VL205/google-2027-2028-data-water.html",
-     "pubDate": "Thu, 5 Nov 2026 01:19:09 GMT",
-     "summary": "Google's plan to invest US$15 billion in Malaysia over 2027 and 2028 deepens its bet on what AFP calls Southeast Asia's fastest-growing data center hub, and ties the expansion to commitments on power, water, and skills as Malaysian authorities scrutinize the facilities' demands on national resources",
+     "title": "Arm reports record fiscal 2Q27 revenue on licensing momentum and AGI CPU demand",
+     "link": "https://www.digitimes.com/news/a20261105VL215/arm-agi-growth-licensing-cpu.html",
+     "pubDate": "Thu, 5 Nov 2026 02:44:16 GMT",
+     "summary": "Arm delivered a record-breaking second quarter for fiscal year 2027, reporting total revenue of US$1.44 billion, up 27% year-over-year. This milestone marks the company's fifth straight quarter of growth exceeding 20%, driven by massive acceleration in its licensing business and strong demand for it",
      "source": "DIGITIMES",
-     "zh": "Google commits US$15 billion to expand Malaysian data centers in 2027 and 2028"
+     "zh": "Arm reports record fiscal 2Q27 revenue on licensing momentum and AGI CPU demand"
+    },
+    {
+     "title": "MUFG, SMBC to renew JPY600 billion credit lines for scandal-hit Nidec",
+     "link": "https://www.digitimes.com/news/a20261105VL214/nidec-electric-motor-finance-governance.html",
+     "pubDate": "Thu, 5 Nov 2026 02:39:00 GMT",
+     "summary": "Mitsubishi UFJ Financial Group's MUFG Bank and Sumitomo Mitsui Financial Group's Sumitomo Mitsui Banking (SMBC) plan to renew a combined JPY600 billion (approx. US$3.8 billion) in credit facilities for Nidec through November 2027, providing financial support as the Japanese electric motor maker work",
+     "source": "DIGITIMES",
+     "zh": "MUFG, SMBC to renew JPY600 billion credit lines for scandal-hit Nidec"
     },
     {
      "title": "Apple’s harvest",
@@ -304,14 +312,6 @@ window.INDUSTRY_DATA = {
      "summary": "On Monday, Apple reported Q4 results with sales of $114.5 billion bringing the annual total to $478.8 billion – a 15% jump YoY. Annual profit was $132 billion, which was […] The post Apple’s harvest appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Apple’s harvest"
-    },
-    {
-     "title": "Asia Optical posts record Q3 profit, ramps CPO and AI optics push",
-     "link": "https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html",
-     "pubDate": "Thu, 5 Nov 2026 00:53:32 GMT",
-     "summary": "Asia Optical Group reported record third-quarter profit for 2026 on November 4, as revenue reached approximately NT$7.846 billion (US$239.4 million), while gross profit, operating profit, and net profit attributable to owners of the company all hit new highs for the same period. The company is accel",
-     "source": "DIGITIMES",
-     "zh": "Asia Optical posts record Q3 profit, ramps CPO and AI optics push"
     },
     {
      "title": "Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evolution of AI Model",
@@ -946,12 +946,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘Every solar plant can be a data center’"
     },
     {
-     "title": "Trump ban on foreign grid components sparks industry concern over cost, practicality",
+     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
      "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
      "pubDate": "Wed, 04 Nov 2026 11:41:26 -0500",
-     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
+     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
-     "zh": "Trump ban on foreign grid components sparks industry concern over cost, practicality"
+     "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
     },
     {
      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
@@ -1746,12 +1746,92 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "微星推出 MAG 256QR36 显示器：24.5\" WQHD 360Hz Rapid IPS，HDR400",
+     "link": "https://www.ithome.com/1/022/562.htm",
+     "pubDate": "Thu, 05 Nov 2026 03:06:47 GMT",
+     "summary": "IT之家 11 月 5 日消息，微星 (MSI) 现已推出 MAG 256QR36 显示器。这一型号基于 Rapid IPS LCD 面板，具备 WQHD (2560×1400) 分辨率、360Hz 刷新率， 获得 VESA DisplayHDR 400 认证 。 MAG 256QR36 亮度 500nits ，静态对比度 1000:1；GtG 响应时间 0.5ms、MPRT 响应时间 1ms；色深 8bit + FRC， 色域 92% Adobe RGB / 93% DCI-P3 。 其支持 VRR 可变刷新率；集成 HDMI CEC 技术，提供主机模式；拥有 2 个 DisplayPort",
+     "source": "IT之家",
+     "zh": "微星推出 MAG 256QR36 显示器：24.5\" WQHD 360Hz Rapid IPS，HDR400"
+    },
+    {
+     "title": "思锐推出 999 元 AF40mm F2.2 和 AF20mm F2.4 全画幅自动对焦镜头，适配索尼 E 和 L 卡口",
+     "link": "https://www.ithome.com/1/022/553.htm",
+     "pubDate": "Thu, 05 Nov 2026 03:00:45 GMT",
+     "summary": "IT之家 11 月 5 日消息，思锐光学今日宣布推出 AF40mm F2.2 和 AF20mm F2.4 全画幅自动对焦镜头新品，仅售 999 元，提供索尼 E 和 L 卡口版本。 其中，40mm F2.2 镜头采用 8 组 11 片结构、9 片光圈叶片，仅重 210 克，最近对焦距离 0.4 米，配备 STM 步进对焦马达，采用 58mm 滤镜接口。 IT之家注意到，20mm F2.4 镜头采用 9 组 11 片结构、9 片光圈叶片，仅重 209 克，最近对焦距离 0.2 米，配备 STM 步进对焦马达，采用 58mm 滤镜。 京东 思锐（SIRUI）灵动系列镜头 20mmF2.4 全画幅自",
+     "source": "IT之家",
+     "zh": "思锐推出 999 元 AF40mm F2.2 和 AF20mm F2.4 全画幅自动对焦镜头，适配索尼 E 和 L 卡口"
+    },
+    {
+     "title": "摩托罗拉 moto one 手机曝光：高通第五代骁龙 8 芯片，12GB 内存",
+     "link": "https://www.ithome.com/1/022/552.htm",
+     "pubDate": "Thu, 05 Nov 2026 02:55:42 GMT",
+     "summary": "IT之家 11 月 5 日消息，科技媒体 GSMArena 昨日（11 月 4 日）发布博文， 报道称基于无线充电联盟（WPC）最新认证信息，摩托罗拉正在筹备一款 One 系列智能手机。 认证信息显示，这款机型以“moto one”名义通过 Qi 认证，型号为 XT2771-1，并支持最高 15W 的 Qi 无线充电。认证页面还首次展示了该机的外观设计，但官方尚未确认其最终命名与上市信息。 性能方面，XT2771-1 已在 Geekbench 数据库中出现四条测试记录。综合信息显示，这款手机预计搭载高通第五代骁龙 8 芯片，配备 12GB 内存，并预装 Android 16。 其目前记录到的最",
+     "source": "IT之家",
+     "zh": "摩托罗拉 moto one 手机曝光：高通第五代骁龙 8 芯片，12GB 内存"
+    },
+    {
+     "title": "马斯克：5年后手机与App将消失，你想要什么AI就生成什么",
+     "link": "https://www.huxiu.com/article/4901391.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 10:53:32 +0800",
+     "summary": "马斯克：5年后手机与App将消失，你想要什么AI就生成什么",
+     "source": "虎嗅",
+     "zh": "马斯克：5年后手机与App将消失，你想要什么AI就生成什么"
+    },
+    {
+     "title": "AI时代的云计算，少数派繁荣",
+     "link": "https://www.tmtpost.com/8194260.html",
+     "pubDate": "Thu, 05 Nov 2026 10:52:08 +0800",
+     "summary": "AI云平台成为企业核心，推动云计算从资源供给转向智能输出，重塑产业格局。",
+     "source": "钛媒体",
+     "zh": "AI时代的云计算，少数派繁荣"
+    },
+    {
+     "title": "日赚2300万，瑞幸咖啡的好日子又回来了",
+     "link": "https://www.tmtpost.com/8194145.html",
+     "pubDate": "Thu, 05 Nov 2026 10:52:05 +0800",
+     "summary": "省下11亿配送费，利润回来了。",
+     "source": "钛媒体",
+     "zh": "日赚2300万，瑞幸咖啡的好日子又回来了"
+    },
+    {
+     "title": "国铁集团：Z、N、V 字头普速旅客列车 11 月 25 日发行，首批车票 11 月 11 日起发售",
+     "link": "https://www.ithome.com/1/022/551.htm",
+     "pubDate": "Thu, 05 Nov 2026 02:51:15 GMT",
+     "summary": "IT之家 11 月 5 日消息，据国铁集团官方，全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施， 11 月 25 日 0 时起始发开行的普速旅客列车、11 月 24 日 18 时起始发开行的货物列车将正式启用新车次 ，按照 2026 版《列车车次编排规定》，普速旅客列车使用 Z、N、V 字头字母，普速旅游列车使用 Y 字头字母，货运班列使用 B 字头字母，采用无字头字母编排方式的其他货物列车、路用列车车次相应进行了优化调整，共涉及客货列车 4700 余列。 变更后，新车次列车的开行区段、运行时刻基本保持不变， 第一批实行新车次的列车车票将于 11 月 11 日起陆续发售 ，其中试点预",
+     "source": "IT之家",
+     "zh": "国铁集团：Z、N、V 字头普速旅客列车 11 月 25 日发行，首批车票 11 月 11 日起发售"
+    },
+    {
+     "title": "“授权即自担责任”的合同实验：富国银行首次将AI智能体责任转移至用户",
+     "link": "https://www.huxiu.com/article/4903159.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 10:50:38 +0800",
+     "summary": "本文来自微信公众号： Internet Law Review ，作者：Joshua&nbsp;Mitchell 2026年11月24日，富国银行新版《在线访问协议》将正式生效。其中新增的第15条引发了广泛的关注：若用户授权第三方AI之恩给你提试用期网银凭证访问账户，则智能体发起的任何指令与交易，均可能被视为用户本人直接作出的行为，相关风险由用户自行承担；而富国银行不承诺对智能体行为进行监控，并保留随时限制或阻止特定工具接入的权利。 这一条款被部分媒体夸张地解读为“银行第一次将AI犯错的责任完全转嫁用户”，虽然这种说法并不完全，但其背后的法律逻辑值得深入审视。 一、技术前提：银行无法区分“用户”",
+     "source": "虎嗅",
+     "zh": "“授权即自担责任”的合同实验：富国银行首次将AI智能体责任转移至用户"
+    },
+    {
+     "title": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)",
+     "link": "https://www.techmeme.com/261104/p62#a261104p62",
+     "pubDate": "Wed, 04 Nov 2026 21:50:01 -0500",
+     "summary": "OpenAI : OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs &nbsp; &mdash;&nbsp; Security research that once required a separate, sustained investigation for each finding can increasingly be",
+     "source": "Techmeme",
+     "zh": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)"
+    },
+    {
      "title": "“超人”卡维尔自己玩“CGI 剃胡子”梗，借助谷歌 Googlebook 笔记本 AI 开发游戏《胡子协议》",
      "link": "https://www.ithome.com/1/022/550.htm",
      "pubDate": "Thu, 05 Nov 2026 02:49:13 GMT",
      "summary": "IT之家 11 月 5 日消息，科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称谷歌携手演员亨利 · 卡维尔（Henry Cavill）合作， 官宣一款直接在 Googlebook 上制作的 16 位横版卷轴游戏《胡子协议》（Mustache Protocol）。 IT之家曾于 10 月 1 日报道，卡维尔与谷歌（Google）达成合作，使用谷歌新款笔记本电脑 Googlebook 开发一款电子游戏，而官方昨日正式公布该游戏的名称和风格。 卡维尔于 1983 年 5 月在英国出生，2013 年主演的《超人：钢铁之躯》上映，成为首位在银幕上塑造这一英雄形象的",
      "source": "IT之家",
      "zh": "“超人”卡维尔自己玩“CGI 剃胡子”梗，借助谷歌 Googlebook 笔记本 AI 开发游戏《胡子协议》"
+    },
+    {
+     "title": "Circle：业绩“虚胖”，渠道大户“反咬”下，做大生态是唯一出路",
+     "link": "https://www.huxiu.com/article/4903167.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 10:46:04 +0800",
+     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《Circle：业绩 “虚胖”，渠道大户 “反咬” 下，做大生态是唯一出路》 Circle美东11月4日盘前发布了三季报。整体而言，本次业绩主要靠Arc代币销售收入来实现的“超预期”，但若剔除这部分后其实业绩一般，印证了资金在财报前的担忧。 具体来看： 1、储备利息收入预期内下降 Q3储备利息收入6.6亿，符合预期。在USDC市值同比增长8%的情况因利息同比下滑而减少了8%，环比看USDC在Q3平均流通规模733亿，相比Q2减少4%。 2、Arc代币销售确认节奏比想象中快 Q3其他收入有2亿多，其中Arc代币销售收入就确认了1.8亿，确",
+     "source": "虎嗅",
+     "zh": "Circle：业绩“虚胖”，渠道大户“反咬”下，做大生态是唯一出路"
     },
     {
      "title": "洛斐推出小顺青春版 2 机械键盘：矮轴三模，84 / 100 版本",
@@ -1762,20 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "洛斐推出小顺青春版 2 机械键盘：矮轴三模，84 / 100 版本"
     },
     {
-     "title": "五菱星光 L 五座版汽车通过工信部申报",
-     "link": "https://www.ithome.com/1/022/547.htm",
-     "pubDate": "Thu, 05 Nov 2026 02:42:36 GMT",
-     "summary": "IT之家 11 月 5 日消息，工信部 11 月 3 日晚发布第 413 批《道路机动车辆生产企业及产品公告》变更扩展产品公示，五菱星光 L 汽车的五座版进行了申报。 该车的型号为 LZW6502KBUPHEVA2， 额定载客含驾驶员座位数由 6 改为了 6,5 ，也就是可选六座和五座版本。 五菱星光 L 的六座版于今年 7 月上市 ，权益价区间为 10.98 万元-13.28 万元。该车定位中大型 SUV，长宽高分别为 4980/1930/1760mm，轴距 2950mm。 该车在 CLTC 工况下的纯电续航里程可达 260 公里，满油满电综合续航为 1260 公里，馈电油耗可低至 4.9L",
-     "source": "IT之家",
-     "zh": "五菱星光 L 五座版汽车通过工信部申报"
-    },
-    {
-     "title": "比亚迪与 vivo 达成战略合作，实现 AI 智能体跨端融合",
-     "link": "https://www.ithome.com/1/022/545.htm",
-     "pubDate": "Thu, 05 Nov 2026 02:39:46 GMT",
-     "summary": "IT之家 11 月 5 日消息，比亚迪今日官宣与 vivo 达成战略合作，实现 AI 智能体跨端融合，共建智慧出行新生态。 vivo 官方也公布了这一消息：“自 2019 年起，双方持续深耕手车互联、智能进入等方向，积累了丰硕成果。依托长期深度互信与技术积累， 未来将深化智能终端与新能源汽车的生态协同 ，推动‘手车互联’迈向‘手车互融’，为全球用户打造无缝流转、安全便捷的智慧出行体验。” IT之家注意到，早在去年 8 月，vivo OriginOS 原系统便宣布比亚迪手车互联全量上线， 支持手机镜像投屏至车机 。",
-     "source": "IT之家",
-     "zh": "比亚迪与 vivo 达成战略合作，实现 AI 智能体跨端融合"
+     "title": "Personal Agent，超级共识还是超级泡沫？",
+     "link": "https://www.huxiu.com/article/4903165.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 10:42:37 +0800",
+     "summary": "本文来自微信公众号： AIX财经 ，作者：AIX财经团队，编辑：魏佳 大厂、大模型公司、创业者疯狂押注。 AIX财经（AIXcaijing）原创 10月底，扎克伯格在Meta的财报会上披露，Muse上线约一个半月，在美国和加拿大已有超1000万人设置个人智能体。Muse于9月上线，当月Meta股价上涨约27%，创下2022年11月以来最佳月度表现。这家此前被认为在模型竞赛中落后的公司，靠一款消费级产品重新拿回了话语权。 跟进者随即密集出现。阿里、腾讯、字节都已推出或在筹备自己的产品；OpenAI、Anthropic、xAI相继发布个人智能体；肖弘、齐俊元等打造过成功产品的创业者也带着新项目入场",
+     "source": "虎嗅",
+     "zh": "Personal Agent，超级共识还是超级泡沫？"
     },
     {
      "title": "第五次全球产业大转移的危与机",
@@ -1786,60 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "第五次全球产业大转移的危与机"
     },
     {
-     "title": "鸿蒙智行问界新 M8 更多规格公布：升级三零重力座椅、-18℃ 超低温速冷车载冷暖箱，11 月 13 日上市",
-     "link": "https://www.ithome.com/1/022/544.htm",
-     "pubDate": "Thu, 05 Nov 2026 02:32:42 GMT",
-     "summary": "IT之家 11 月 5 日消息，AITO 汽车昨日公布问界新 M8 更多配置信息，新车搭载三零重力座椅，全车健康照明，升级-18℃ 超低温速冷车载冷暖箱。据悉，新车将于 11 月 13 日正式上市。 据介绍， 问界新 M8 首发全车健康照明 ，实现全车屏幕、灯光全光谱护眼。新车首发配备车载护眼“大路灯”，顶棚学习灯可在车内打造书房模式。同时搭载行业最大面积小桌板化妆镜，尺寸 192mm×147mm，支持无极悬停，自带环形补光灯。前排还升级配备同级最大遮阳板化妆镜，尺寸 318mm×105mm，色温亮度可调。 新车新增水平横移零重力座椅，二排右侧零重力座椅增加左右横向调节功能； 主副驾双零重力座",
-     "source": "IT之家",
-     "zh": "鸿蒙智行问界新 M8 更多规格公布：升级三零重力座椅、-18℃ 超低温速冷车载冷暖箱，11 月 13 日上市"
-    },
-    {
      "title": "AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？",
      "link": "https://www.huxiu.com/article/4903155.html?f=rss",
      "pubDate": "Thu, 05 Nov 2026 10:26:10 +0800",
      "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·产业观察，原文标题：《AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？》 “县城承接的是风口之后留下的空隙，并非风口本身。” 10月29日，深交所上市委员会在第59次会上批准了微容科技向创业板发行股票上市的申请。11月2日该公司提交注册，拟募资16.75亿元，其中13.7亿元投向罗定的高端MLCC扩产项目。 根据弗若斯特沙利文的数据，2024年它的超微型MLCC销量排中国第一、全球第二，仅次于日本村田；按MLCC营业收入算，在中国大陆厂商里排第三。 两种说法指的是不同的事情，但是指向的结果是一样的，在全球最擅长做",
      "source": "虎嗅",
      "zh": "AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？"
-    },
-    {
-     "title": "Win11 内存占用高≠电脑卡顿，微软称响应速度才是硬指标",
-     "link": "https://www.ithome.com/1/022/541.htm",
-     "pubDate": "Thu, 05 Nov 2026 02:22:16 GMT",
-     "summary": "IT之家 11 月 5 日消息，在 11 月 3 日发布的官方博文中，微软 Windows 和设备业务负责人帕万 · 达武卢里（Pavan Davuluri）指出，在 Windows 11 系统中， 内存占用高并不等同于电脑卡顿，响应速度才是关键。 针对部分用户认为“任务管理器显示内存占用 70% 甚至 90%，就意味着 Windows 11 电脑内存不足”的担忧，达武卢里回应指出这点并不完全正确，通常情况下，内存占用高并不代表系统内存不足。 IT之家援引博文介绍，Windows 会主动把可能再次使用的应用和数据保留在空闲内存中，当其他程序需要资源时再释放，以减少重复从硬盘读取数据带来的等待。",
-     "source": "IT之家",
-     "zh": "Win11 内存占用高≠电脑卡顿，微软称响应速度才是硬指标"
-    },
-    {
-     "title": "内卷最凶的水泥，开始把货卖到中美洲了",
-     "link": "https://www.huxiu.com/article/4903154.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:21:56 +0800",
-     "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·出海观察 “国内竞争激烈，并不等于企业有了海外竞争力。” 水泥这种生意，平时多拉一段路，都得算算运费还划不划算。 现在，山东一家水泥厂，却把客户找到了中美洲。 据智慧水泥网报道，枣庄市沃丰水泥有限公司首个1.5万吨海外订单正在组织发运，目的地是中美洲。这笔订单通过与外贸企业合作落地，实现了企业所在集团水泥产品出口的零突破。 更早的10月28日，百年建筑网援引泉兴能源消息称，按照订单排期，沃丰11月还将交付3万吨出口水泥。 一袋灰扑扑的水泥，怎么值得跑那么远？ 有趣的是，它不起眼的特点却会左右这门生意：货重、单价低，运费稍高，生意就可能做不成。 ▲",
-     "source": "虎嗅",
-     "zh": "内卷最凶的水泥，开始把货卖到中美洲了"
-    },
-    {
-     "title": "特朗普危，中期选举两院全丢，弹劾、调查、政府关门哪项等着他",
-     "link": "https://www.huxiu.com/article/4903157.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:21:39 +0800",
-     "summary": "本文来自微信公众号： 王骁Albert ，作者：王骁Albert，原文标题：《特朗普危！中期选举两院全丢，弹劾、调查、政府关门哪项等着他》 美国2026中期选举结束了，共和党输掉底裤，整个国会被民主党全部拿走。不但如此，号称共和党铁票仓的得州和堪萨斯正式被民主党翻蓝。不单单丢了参议院席位，连得州州长都被民主党拿下。 选举之外，过去两年，美国政治生态已经围绕着特朗普，发生了深刻的变化。共和党的输如何自救？民主党的赢真的赢了吗？大家好，我是陪你看世界的王骁。本期我们就聊聊美国2026中期选举背后的美国政治生态。 【第一章】选票一开，博彩赚翻 我在《地球村10月刊》里提到中期选举，结果有观众问：特朗",
-     "source": "虎嗅",
-     "zh": "特朗普危，中期选举两院全丢，弹劾、调查、政府关门哪项等着他"
-    },
-    {
-     "title": "15 元以下的外卖，今年少了将近一半：这门生意为什么突然不卷低价了？",
-     "link": "https://www.huxiu.com/article/4903150.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:18:45 +0800",
-     "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·消费观察，原文标题：《15 元以下的外卖，今年少了将近一半：这门生意为什么突然不卷低价了？》 “外卖是个不错的生意，不能到最后只让平台受益。” 9块9，一份热腾腾的饭，还给送到你家门口。 对每天要解决午饭的人来说，这当然是好事。一个月点二十次，每次省几块钱，也是一笔实实在在的生活费。 可现在，便宜外卖正在发生变化。 10月22日的外卖产业大会上，美团外卖总经理薛冰披露，今年餐饮商家的外卖订单中，15元以下低价订单的占比同比减半。这里说的是占比，并非订单数量直接少了一半。 平台说，低价泡沫正在消退。从顾客的角度来看，问题也很简单了，以后吃饭的时候是",
-     "source": "虎嗅",
-     "zh": "15 元以下的外卖，今年少了将近一半：这门生意为什么突然不卷低价了？"
-    },
-    {
-     "title": "Marvell： 把自己买成了另一家公司",
-     "link": "https://www.huxiu.com/article/4903138.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:17:41 +0800",
-     "summary": "从1995年的一颗硬盘芯片，到2026年买下激光器公司，三十年，四次身份，每一次蜕变都是买来的。本文来自微信公众号： 大G看科技 ，作者：大G看科技，题图来自：视觉中国 2026年11月2日，Marvell宣布以1150亿美元收购激光器公司Lumentum，把光的源头握进了自己手里。 这是它三十年里最大的一笔收购，也是第四次身份转换。三十年前它做硬盘芯片，此后做过消费电子，做过数据中心，如今想成为一家光电一体的连接公司。 今天这个Marvell，和最初那个Marvell已经不是同一家。产品目录、客户名单、收入结构、毛利率、竞争对手，全都换过。它不是靠一次转型完成的，而是靠三十年里十几笔收购，一",
-     "source": "虎嗅",
-     "zh": "Marvell： 把自己买成了另一家公司"
     },
     {
      "title": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)",
@@ -1901,23 +1925,15 @@ window.INDUSTRY_DATA = {
      "title": "Starfall – Affordable, routine access to microgravity",
      "link": "https://www.spacex.com/starfall",
      "pubDate": "Thu, 05 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 88 # Comments: 37",
+     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 97 # Comments: 50",
      "source": "Hacker News",
      "zh": "Starfall – Affordable, routine access to microgravity"
-    },
-    {
-     "title": "Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May (Bloomberg)",
-     "link": "https://www.techmeme.com/261104/p56#a261104p56",
-     "pubDate": "Wed, 04 Nov 2026 19:15:03 -0500",
-     "summary": "Bloomberg : Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May &nbsp; &mdash;&nbsp; Alphabet Inc.'s Isomorphic Labs is in talks to raise roughly $5 billion in new funds to support its efforts to use ",
-     "source": "Techmeme",
-     "zh": "Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May (Bloomberg)"
     },
     {
      "title": "Images 2.6",
      "link": "https://openai.com/index/introducing-images-2-6/",
      "pubDate": "Wed, 04 Nov 2026 23:35:44 +0000",
-     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 122 # Comments: 93",
+     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 135 # Comments: 94",
      "source": "Hacker News",
      "zh": "Images 2.6"
     },
@@ -1957,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
      "link": "https://icode4.coffee/?p=1746",
      "pubDate": "Wed, 04 Nov 2026 22:01:49 +0000",
-     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 64 # Comments: 3",
+     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 66 # Comments: 3",
      "source": "Hacker News",
      "zh": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements"
     },
@@ -1968,22 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
      "source": "Ars Technica",
      "zh": "Uranium cubes reveal why the German nuclear project failed"
-    },
-    {
-     "title": "Snapchat surpasses 30M paid subscribers",
-     "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-     "pubDate": "Wed, 04 Nov 2026 21:49:29 +0000",
-     "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
-     "source": "TechCrunch",
-     "zh": "Snapchat surpasses 30M paid subscribers"
-    },
-    {
-     "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-     "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-     "pubDate": "Wed, 04 Nov 2026 21:38:49 +0000",
-     "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-     "source": "Ars Technica",
-     "zh": "VMware releases vSphere Express for virtualization on up to 128 cores"
     }
    ]
   },
@@ -2242,100 +2242,132 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "AudioCodes targets $50M VoiceAI revenue by 2028 while reiterating 2026 EPS of $0.60 to $0.75",
-     "link": "https://seekingalpha.com/news/4666072-audiocodes-targets-50m-voiceai-revenue-by-2028-while-reiterating-2026-eps-of-0_60-to-0_75?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:45:28 -0500",
+     "title": "绿盟科技11月5日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923304148.html",
+     "pubDate": "Thu, 05 Nov 2026 11:03:22 +0800",
+     "summary": "以下是 绿盟科技 在北京时间11月5日11:03分盘口异动快照： 11月5日， 绿盟科技 盘中涨幅达5%，截至11点03分，报11.3元，成交7.85亿元，换手率8.79%。 分笔 11:03:09 11.30 1756↑ 11:03:06 11.27 3811↑ 11:03:03 11.21 7404↑ 11:03:00 11.16 2151↑ 11:02:57 11.12 182↑ 11:02:54 11.13 554↓ 11:02:51 11.14 1056↑ 11:02:48 11.12 377↓ 11:02:45 11.13 301↑ 11:02:42 11.13 434↑ 报价 卖",
+     "source": "东方财富股票",
+     "zh": "绿盟科技11月5日盘中涨幅达5%"
+    },
+    {
+     "title": "Manulife Financial declares $0.485 dividend",
+     "link": "https://seekingalpha.com/news/4666103-manulife-financial-declares-0_485-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:03:18 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "AudioCodes targets $50M VoiceAI revenue by 2028 while reiterating 2026 EPS of $0.60 to $0.75"
+     "zh": "Manulife Financial declares $0.485 dividend"
     },
     {
-     "title": "Caris targets $1.04B-$1.05B 2026 revenue as it guides to ~65,000 Q4 clinical cases",
-     "link": "https://seekingalpha.com/news/4666071-caris-targets-1_04b-1_05b-2026-revenue-as-it-guides-to-65000-q4-clinical-cases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:45:27 -0500",
+     "title": "盟固利11月5日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923304075.html",
+     "pubDate": "Thu, 05 Nov 2026 11:03:13 +0800",
+     "summary": "以下是 盟固利 在北京时间11月5日11:03分盘口异动快照： 11月5日， 盟固利 盘中快速回调，5分钟内跌幅超过2%，截至11点03分，报21.7元，成交10.00亿元，换手率10.15%。 分笔 11:03:03 21.70 104↑ 11:03:00 21.70 16↑ 11:02:57 21.68 19↓ 11:02:54 21.70 110↑ 11:02:51 21.68 114↓ 11:02:48 21.68 48↑ 11:02:45 21.68 82↑ 11:02:42 21.68 32↑ 11:02:39 21.67 10↑ 11:02:36 21.65 63↓ 报价 卖五 ",
+     "source": "东方财富股票",
+     "zh": "盟固利11月5日快速回调"
+    },
+    {
+     "title": "佩蒂股份11月5日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923303981.html",
+     "pubDate": "Thu, 05 Nov 2026 11:03:05 +0800",
+     "summary": "以下是 佩蒂股份 在北京时间11月5日11:03分盘口异动快照： 11月5日， 佩蒂股份 盘中快速上涨，5分钟内涨幅超过2%，截至11点03分，报12.3元，成交2994.32万元，换手率1.54%。 分笔 11:03:00 12.38 449↑ 11:02:57 12.30 38↓ 11:02:54 12.30 10↓ 11:02:51 12.31 200↑ 11:02:48 12.30 2↑ 11:02:45 12.29 12↓ 11:02:42 12.31 20↑ 11:02:36 12.30 16↓ 11:02:33 12.30 306↑ 11:02:30 12.27 2↓ 报价 卖五",
+     "source": "东方财富股票",
+     "zh": "佩蒂股份11月5日快速上涨"
+    },
+    {
+     "title": "South Bow Corporation declares $0.50 dividend",
+     "link": "https://seekingalpha.com/news/4666102-south-bow-corporation-declares-0_50-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:02:32 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Caris targets $1.04B-$1.05B 2026 revenue as it guides to ~65,000 Q4 clinical cases"
+     "zh": "South Bow Corporation declares $0.50 dividend"
     },
     {
-     "title": "Universal declares $0.83 dividend",
-     "link": "https://seekingalpha.com/news/4666070-universal-declares-0_83-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:45:11 -0500",
+     "title": "三瑞智能11月5日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923303840.html",
+     "pubDate": "Thu, 05 Nov 2026 11:02:09 +0800",
+     "summary": "以下是 三瑞智能 在北京时间11月5日11:02分盘口异动快照： 11月5日， 三瑞智能 盘中快速回调，5分钟内跌幅超过2%，截至11点02分，报84元，成交1.77亿元，换手率6.68%。 分笔 11:02:03 84.00 24↓ 11:02:00 84.00 30↓ 11:01:57 84.00 23↓ 11:01:54 84.01 32↓ 11:01:51 84.18 11↑ 11:01:48 84.18 2↑ 11:01:45 84.13 12↑ 11:01:42 84.13 9↑ 11:01:39 84.13 35↓ 11:01:36 84.13 2↓ 报价 卖五 84.08 6 ",
+     "source": "东方财富股票",
+     "zh": "三瑞智能11月5日快速回调"
+    },
+    {
+     "title": "金健米业11月5日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923303759.html",
+     "pubDate": "Thu, 05 Nov 2026 11:02:09 +0800",
+     "summary": "以下是 金健米业 在北京时间11月5日11:02分盘口异动快照： 11月5日， 金健米业 盘中快速反弹，5分钟内涨幅超过2%，截至11点02分，报10.57元，成交13.06亿元，换手率19.46%。 分笔 11:02:03 10.57 8152↓ 11:02:00 10.59 3174↑ 11:01:57 10.59 3866↑ 11:01:54 10.57 1930↑ 11:01:51 10.56 4536↑ 11:01:48 10.53 276↑ 11:01:45 10.50 4343↑ 11:01:42 10.48 1259↑ 11:01:39 10.48 365↑ 11:01:36 ",
+     "source": "东方财富股票",
+     "zh": "金健米业11月5日快速反弹"
+    },
+    {
+     "title": "华天酒店11月5日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923303612.html",
+     "pubDate": "Thu, 05 Nov 2026 11:02:09 +0800",
+     "summary": "以下是 华天酒店 在北京时间11月5日11:02分盘口异动快照： 11月5日， 华天酒店 盘中快速回调，5分钟内跌幅超过2%，截至11点02分，报3.64元，成交1.01亿元，换手率2.76%。 分笔 11:02:03 3.64 80↑ 11:02:00 3.64 47↑ 11:01:57 3.64 2↑ 11:01:51 3.64 2↑ 11:01:48 3.63 67↓ 11:01:45 3.64 288↑ 11:01:42 3.64 13↑ 11:01:36 3.64 50↑ 11:01:33 3.64 3↑ 11:01:30 3.64 50↑ 报价 卖五 3.68 299 卖四 3.6",
+     "source": "东方财富股票",
+     "zh": "华天酒店11月5日快速回调"
+    },
+    {
+     "title": "Genesis Land Development declares CAD 0.13 dividend",
+     "link": "https://seekingalpha.com/news/4666101-genesis-land-development-declares-cad-0_13-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:01:49 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Universal declares $0.83 dividend"
+     "zh": "Genesis Land Development declares CAD 0.13 dividend"
     },
     {
-     "title": "Everest Group declares $2.00 dividend",
-     "link": "https://seekingalpha.com/news/4666069-everest-group-declares-2_00-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:44:43 -0500",
+     "title": "Crown Castle reports Q3 results",
+     "link": "https://seekingalpha.com/news/4666100-crown-castle-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 22:01:24 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Everest Group declares $2.00 dividend"
+     "zh": "Crown Castle reports Q3 results"
     },
     {
-     "title": "Clarus declares $0.025 dividend",
-     "link": "https://seekingalpha.com/news/4666068-clarus-declares-0_025-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:44:10 -0500",
+     "title": "Nutrien declares $0.55 dividend",
+     "link": "https://seekingalpha.com/news/4666099-nutrien-declares-0_55-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:59:55 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Clarus declares $0.025 dividend"
+     "zh": "Nutrien declares $0.55 dividend"
     },
     {
-     "title": "Morguard declares CAD 0.20 dividend",
-     "link": "https://seekingalpha.com/news/4666067-morguard-declares-cad-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:43:44 -0500",
+     "title": "a.k.a. Brands GAAP EPS of -$0.70 misses by $0.04, revenue of $161.3M misses by $0.21M",
+     "link": "https://seekingalpha.com/news/4666097-a-k-a-brands-gaap-eps-of-0_70-misses-by-0_04-revenue-of-161_3m-misses-by-0_21m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:59:30 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Morguard declares CAD 0.20 dividend"
+     "zh": "a.k.a. Brands GAAP EPS of -$0.70 misses by $0.04, revenue of $161.3M misses by $0.21M"
     },
     {
-     "title": "北京国管与香港投资推广署签署合作备忘录",
-     "link": "http://finance.eastmoney.com/news/1350,202611053923290267.html",
-     "pubDate": "Thu, 05 Nov 2026 10:41:17 +0800",
-     "summary": "11月4日，北京国管与香港特别行政区政府投资推广署在第29届北京·香港经济合作研讨洽谈会开幕式上签署合作备忘录。根据合作备忘录，双方将围绕京港双向交流协作、企业跨境投资布局、国际化经营发展等领域开展全方位合作，依托香港国际化平台优势，支持北京优质企业立足香港、布局全球，促进京港产业、资本等要素双向流动。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "北京国管与香港投资推广署签署合作备忘录"
+     "title": "美国中选“赢家输家已现”：AI硬件重挫，日韩领跌，港A携手大涨，恒科创业板齐升",
+     "link": "https://wallstreetcn.com/articles/3785235",
+     "pubDate": "Thu, 05 Nov 2026 10:57:27 +0800",
+     "summary": "美国中期选举民主党大获全胜引发市场对人工智能监管收紧的担忧，投资者加速撤离芯片板块，日韩半导体股遭遇重挫。与此同时，港股A股携手大涨，创业板拉升转涨3%，恒科指暴涨5%。 韩国、日本半导体个股领跌亚太市场，韩国首尔综指一度跌幅扩大至5.2%。韩国交易所已于周四上午启动SIDECAR机制，暂停KOSPI程序化卖盘，以遏制抛售蔓延。美股期货跟随承压，纳斯达克100指数期货跌1%，标普500指数期货跌0.2%，显示市场对科技与AI板块的忧虑正向西方市场传导。 形成对比的是，A股港股强势上涨，创业板跌2%后拉升转涨3%，恒指、恒科指双双拉升，恒指涨3%恒科指暴涨5%，科网股大涨。阿里、腾讯、京东、小米",
+     "source": "华尔街见闻",
+     "zh": "美国中选“赢家输家已现”：AI硬件重挫，日韩领跌，港A携手大涨，恒科创业板齐升"
     },
     {
-     "title": "11月5日水泥制品板块涨幅达3%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923287710.html",
-     "pubDate": "Thu, 05 Nov 2026 10:41:12 +0800",
-     "summary": "&emsp;&emsp;11月5日10点41分， 水泥 制品板块指数报1882.886点，涨幅达3%，成交2.91亿元，换手率1.20%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 海南瑞泽 报3.30元，涨8.91%； 西部建设 报4.68元，涨4.23%； 苏博特 报9.41元，涨2.95%； 四方新材 报10.82元，涨2.17%； 国统股份 报10.21元，涨2.10%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "11月5日水泥制品板块涨幅达3%"
+     "title": "中选后，数据中心定价逻辑变了！告别无序扩张，从拼增长转向拼稀缺",
+     "link": "https://wallstreetcn.com/articles/3785232",
+     "pubDate": "Thu, 05 Nov 2026 10:54:34 +0800",
+     "summary": "数据中心行业的核心定价锚点正在改变。美国中期选举后的政策转向，使市场对新增容量的关注，快速转向已建成、已获批和在建资产的稀缺性。 据追风交易台，摩根大通在11月4日北美信用研究报告中指出，民主党在众议院和参议院取得控制权，并在得克萨斯州、佐治亚州、新墨西哥州和内华达州等关键数据中心州赢得州长选举。与此同时，45项限制数据中心的地方投票措施中，已有42项通过或倾向通过。 这意味着， 数据中心开发商面临更高审批门槛、更长建设周期和更复杂的地方政治约束。市场此前偏好的扩张叙事，正在被许可确定性、电力接入和已落地容量重新定价。 对投资者而言，影响最直接的领域包括高收益项目融资、独立发电商、桥接电力供应",
+     "source": "华尔街见闻",
+     "zh": "中选后，数据中心定价逻辑变了！告别无序扩张，从拼增长转向拼稀缺"
     },
     {
-     "title": "锂矿持续走高 融捷股份涨停",
-     "link": "http://finance.eastmoney.com/news/1353,202611053923287881.html",
-     "pubDate": "Thu, 05 Nov 2026 10:40:59 +0800",
-     "summary": "锂 矿板块持续走高， 融捷股份 涨停， 永杉锂业 、 盛新锂能 、 赣锋锂业 、 天齐锂业 、 永兴材料 等纷纷走高。",
-     "source": "东方财富股票",
-     "zh": "锂矿持续走高 融捷股份涨停"
+     "title": "民主党横扫美国会两院！光伏板块迎政策暖风 产业链修复可期(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611053923296417.html",
+     "pubDate": "Thu, 05 Nov 2026 10:48:06 +0800",
+     "summary": "美国民主党横扫国会两院，清洁能源政策不确定性降低，光伏板块迎来修复契机。机构认为，反内卷政策体系化叠加海外需求边际回暖，行业拐点渐行渐近。 选举 重塑能源 政策预期 光伏海内外利好共振 据S&P Global报道，当地时间11月3日，美国中期选举落下帷幕，民主党同时翻转众议院和参议院控制权——众议院净增至少13个席位、有望拿下至少227席，参议院预计控制至少54席，爱荷华、堪萨斯、缅因、北卡罗来纳、俄亥俄、南卡罗来纳、得克萨斯等多州共和党席位被翻转。市场普遍认为，民主党横扫国会两院大幅降低了美国气候与清洁能源政策的不确定性。 2022年，民主党主导的国会通过《通胀削减法案》（IRA），承诺投入",
+     "source": "东方财富资讯",
+     "zh": "民主党横扫美国会两院！光伏板块迎政策暖风 产业链修复可期(名单)"
     },
     {
-     "title": "维宏股份11月5日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923287695.html",
-     "pubDate": "Thu, 05 Nov 2026 10:40:57 +0800",
-     "summary": "以下是 维宏股份 在北京时间11月5日10:40分盘口异动快照： 11月5日， 维宏股份 盘中快速回调，5分钟内跌幅超过2%，截至10点40分，报47.33元，成交3.47亿元，换手率9.18%。 分笔 10:40:54 47.33 17↓ 10:40:51 47.38 2↑ 10:40:48 47.43 5↑ 10:40:45 47.41 9↓ 10:40:42 47.45 13↓ 10:40:39 47.49 32↓ 10:40:36 47.55 6↑ 10:40:33 47.50 14↓ 10:40:30 47.55 25↑ 10:40:27 47.49 30↓ 报价 卖五 47.47 ",
-     "source": "东方财富股票",
-     "zh": "维宏股份11月5日快速回调"
-    },
-    {
-     "title": "邦基科技11月5日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923287590.html",
-     "pubDate": "Thu, 05 Nov 2026 10:40:57 +0800",
-     "summary": "以下是 邦基科技 在北京时间11月5日10:40分盘口异动快照： 11月5日， 邦基科技 盘中快速上涨，5分钟内涨幅超过2%，截至10点40分，报18.85元，成交5205.12万元，换手率1.64%。 分笔 10:40:47 18.85 23↑ 10:40:41 18.84 114↑ 10:40:38 18.83 19↑ 10:40:35 18.81 18↓ 10:40:32 18.81 873↑ 10:40:29 18.79 10↑ 10:40:26 18.79 13↑ 10:40:23 18.79 64↑ 10:40:20 18.79 7↑ 10:40:17 18.79 10↑ 报价 卖",
-     "source": "东方财富股票",
-     "zh": "邦基科技11月5日快速上涨"
-    },
-    {
-     "title": "丰元股份11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923287444.html",
-     "pubDate": "Thu, 05 Nov 2026 10:40:57 +0800",
-     "summary": "以下是 丰元股份 在北京时间11月5日10:40分盘口异动快照： 11月5日， 丰元股份 盘中涨幅达5%，截至10点40分，报14.84元，成交3.45亿元，换手率8.52%。 分笔 10:40:51 14.84 2607↑ 10:40:48 14.75 122↑ 10:40:45 14.75 214↑ 10:40:42 14.74 122↑ 10:40:39 14.73 75↓ 10:40:36 14.74 53↑ 10:40:33 14.73 63↓ 10:40:30 14.73 90↑ 10:40:27 14.72 9↓ 10:40:24 14.72 3↓ 报价 卖五 14.89 567",
-     "source": "东方财富股票",
-     "zh": "丰元股份11月5日盘中涨幅达5%"
+     "title": "禁止有罪推定，是对无罪推定原则的再推进",
+     "link": "http://www.eeo.com.cn/2026/1105/1084577.shtml",
+     "pubDate": "Thu, 05 Nov 2026 10:40:00 +0800",
+     "summary": "如果说坚持无罪推定更侧重于刑事诉讼理念的宣告和诉讼思维的提升，那么，禁止有罪推定则是要把无罪推定的理念与思维落到实处，是要对那些与无罪推定背道而驰的做法果断纠偏。",
+     "source": "经济观察网",
+     "zh": "禁止有罪推定，是对无罪推定原则的再推进"
     },
     {
      "title": "在合肥持续投入四年后，大众汽车准备借中国技术翻盘",
@@ -2344,6 +2376,22 @@ window.INDUSTRY_DATA = {
      "summary": "从时间线来看，大众汽车集团过去一周密集释放的信息，是一场“精心安排”的全球战略转型发布，是让中国研发的技术方案产生规模效应，继而提升整个集团的电动化转型回报率。",
      "source": "经济观察网",
      "zh": "在合肥持续投入四年后，大众汽车准备借中国技术翻盘"
+    },
+    {
+     "title": "三季报“难产”叠加立案调查  奥精医疗股价“腰斩”",
+     "link": "http://www.eeo.com.cn/2026/1105/1084588.shtml",
+     "pubDate": "Thu, 05 Nov 2026 10:37:00 +0800",
+     "summary": "连续三个交易日大跌20%之后，11月4日，奥精医疗（688613.SH）的市值仅为12亿元。",
+     "source": "经济观察网",
+     "zh": "三季报“难产”叠加立案调查  奥精医疗股价“腰斩”"
+    },
+    {
+     "title": "A股低开高走，创业板跌2%后拉升转涨3%，光伏、新能源电池爆发，油气股大跌，恒科指暴涨5%，科网股大涨",
+     "link": "https://wallstreetcn.com/articles/3785230",
+     "pubDate": "Thu, 05 Nov 2026 10:24:47 +0800",
+     "summary": "11月5日，A股低开之后高走，三大股指盘初回升，深成指、创业板纷纷翻红，科创综指、科创50亦低开高走，早盘涨幅超过4%。光伏、新能源电池，AI应用等概念股爆发，油气、煤炭、海运等陷入调整，算力硬件跌幅显著收窄，光模块、光芯片等转涨。 港股高开高走，恒指、恒科指早盘双双拉升，恒指涨3%，恒科指涨超5%，科网股爆发，阿里、腾讯、京东、小米纷纷大涨。联想逆势跌近10%。光模块、存储芯片等科技股调整，中芯国际逆势拉升超5%。AI大模型股同样下跌。债市方面，国债期货多数上涨。商品方面，国内商品期货涨跌参半，原油暴跌，隔夜国际油价重挫。 核心市场走势： A股 ：截至发稿，沪指涨0.37%，深成指涨2.37",
+     "source": "华尔街见闻",
+     "zh": "A股低开高走，创业板跌2%后拉升转涨3%，光伏、新能源电池爆发，油气股大跌，恒科指暴涨5%，科网股大涨"
     },
     {
      "title": "油价雪上加霜！停战预期之外，全球原油过剩压力也来了",
@@ -2378,36 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "险企单季巨亏408亿元背后，投资者更该关注什么"
     },
     {
-     "title": "发布5项成果 2026厦门国际海洋周开幕",
-     "link": "http://www.eeo.com.cn/2026/1105/1084486.shtml",
-     "pubDate": "Thu, 05 Nov 2026 09:53:29 +0800",
-     "summary": "11月5），2026厦门国际海洋周开幕，集中发布《海山图志》“星海-BBNJ”生态环境数据专题产品等5项成果。",
-     "source": "经济观察网",
-     "zh": "发布5项成果 2026厦门国际海洋周开幕"
-    },
-    {
-     "title": "A股低开高走，创业板跌2%后拉升转涨1%，光伏、新能源电池爆发，油气股大跌，恒科指暴涨4%，科网股大涨",
-     "link": "https://wallstreetcn.com/articles/3785230",
-     "pubDate": "Thu, 05 Nov 2026 09:52:10 +0800",
-     "summary": "11月5日，A股低开之后高走，三大股指盘初回升，深成指、创业板纷纷翻红，科创综指、科创50亦低开高走，早盘涨幅超过2%。光伏、新能源电池，AI应用等概念股爆发，油气、煤炭、海运等陷入调整，算力硬件跌幅显著收窄，光模块、光芯片等转涨。 港股高开高走，恒指、恒科指早盘双双拉升，恒指涨2%，恒科指涨超4%，科网股爆发，阿里、腾讯、京东、小米纷纷大涨。联想逆势跌近10%。光模块、存储芯片等科技股调整。AI大模型股同样下跌。债市方面，国债期货多数上涨。商品方面，国内商品期货涨跌参半，原油暴跌，隔夜国际油价重挫。 核心市场走势： A股 ：截至发稿，沪指涨0.02%，深成指涨1.27%，创业板指涨1.10%",
-     "source": "华尔街见闻",
-     "zh": "A股低开高走，创业板跌2%后拉升转涨1%，光伏、新能源电池爆发，油气股大跌，恒科指暴涨4%，科网股大涨"
-    },
-    {
      "title": "不光是超市冷冻柜！法国血库也被黑客攻击了",
      "link": "http://finance.eastmoney.com/news/1344,202611053923036113.html",
      "pubDate": "Thu, 05 Nov 2026 09:49:57 +0800",
      "summary": "法国血液中心(EFS)周三证实，该机构部分储藏血液的冷库周一受到了近期针对欧洲制冷系统的 网络安全 攻击波的影响。 该机构表示，虽然其并非此次攻击的直接目标，但由外部供应商运营、存放法国血液中心 血液制品 的冷藏设备在其三个站点均遭到破坏，黑客将设备温度调高。 “具体来说，温度和除霜阈值被设置到了过高的水平，”法国血液中心在一份声明中表示，“这些位于EFS制备和分发网点的冷藏设备，用于在 血液制品 送达医疗机构之前进行储存，同时也存放供EFS生物样本库使用的样本。” 这些冷藏设备还储存了用于输血和药品生产的冷冻血浆。 值得庆幸的是，法国血液中心表示，其监控系统被迅速触发 ，同时根据具体情况，受",
      "source": "东方财富资讯",
      "zh": "不光是超市冷冻柜！法国血库也被黑客攻击了"
-    },
-    {
-     "title": "1334家A股公司连续三年加码研发，钱投向了哪里？",
-     "link": "http://www.eeo.com.cn/2026/1105/1084479.shtml",
-     "pubDate": "Thu, 05 Nov 2026 09:49:29 +0800",
-     "summary": "市场评价一家企业是否“受尊敬”，不仅以利润、市值和规模为标尺，对社会的长远贡献与责任担当同样重要。研发投入虽不会立刻体现在利润表里，却是企业在技术浪潮中押注未来的长期筹码，是构筑技术壁垒、对冲周期波动的真实底气。",
-     "source": "经济观察网",
-     "zh": "1334家A股公司连续三年加码研发，钱投向了哪里？"
     },
     {
      "title": "得州变“蓝”，美国45%数据中心扩张计划面临冻结",
@@ -2424,14 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "马斯克在2026年中期选举中豪掷逾4.4亿美元押注共和党，却迎来了一场代价惨重的政治溃败。民主党不仅拿下参众两院，更在马斯克的\"大本营\"得克萨斯州全线告捷——这一结果不仅重创其政治影响力，更令旗下特斯拉与SpaceX面临前所未有的监管逆风。 在选夜最具标志性的一幕，民主党人James Talarico在得克萨斯州参议院选举中击败共和党人Ken Paxton，成为32年来首位在该州赢得全州性选举的民主党人。 马斯克为这场选战单独投入逾1.5亿美元，狂轰滥炸式的负面广告攻势最终弄巧成拙，激发了选民的强烈反弹。 Talarico在奥斯汀的胜选演讲中意有所指地说道，\"我们刚刚证明，世界上所有的钱都无法",
      "source": "华尔街见闻",
      "zh": "求仁得仁？马斯克将面临民主党“秋后算账”"
-    },
-    {
-     "title": "民主党横扫国会，科技巨头市值单日暴增近万亿美元",
-     "link": "https://wallstreetcn.com/articles/3785229",
-     "pubDate": "Thu, 05 Nov 2026 09:31:55 +0800",
-     "summary": "美国民主党在国会两院选举中取得压倒性胜利，市场随即将这一政治格局的转变解读为科技巨头疯狂AI军备竞赛走向终结的信号，推动五大科技股单日合计市值增幅接近万亿美元。 周三，亚马逊股价一度飙升8.3%，微软涨7%，Alphabet涨5.9%，Meta涨3.6%，苹果涨逾6%。 五家科技巨头单日合计新增市值接近1万亿美元，“科技七巨头”指数周三涨幅一度达3.6%，创下9月21日以来最佳单日表现。 此番大涨的核心逻辑在于：投资者押注民主党主导的国会将出手遏制大型科技公司在AI基础设施上的巨额资本支出，从而帮助这些公司重新回归自由现金流正值状态。民主党候选人在竞选中大力主张放缓AI发展，尤其针对数据中心的",
-     "source": "华尔街见闻",
-     "zh": "民主党横扫国会，科技巨头市值单日暴增近万亿美元"
     },
     {
      "title": "11月5日集合竞价：闽发铝业、浙文影业4连板",
@@ -2458,28 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "“蓝色浪潮”席卷国会 AI数据中心行业命运何去何从？一文读懂"
     },
     {
-     "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
-     "link": "https://wallstreetcn.com/articles/3785208",
-     "pubDate": "Thu, 05 Nov 2026 09:15:08 +0800",
-     "summary": "民主党横扫国会两院，触发美股剧烈板块轮动。数据中心运营商、国防承包商及与特朗普相关资产遭到抛售，清洁能源、医疗保险等板块则大幅反弹，市场正在重新定价一个监管更趋严格、政策优先项发生位移的新格局。 此次民主党胜选范围超出市场预期，不仅突破共和党传统票仓，更赢得德克萨斯州和佐治亚州两大AI数据中心重镇。 德克萨斯州选出逾30年来首位民主党籍州长Gina Hinojosa，其竞选纲领明确主张对数据中心建设实施临时暂停令，令相关股票雪上加霜。与此同时，原本被市场视为在共和党国会畅行无阻的1.5万亿美元国防预算扩张预期亦随之落空。民主党掌控国会将使过去两年共和党主导下的监管宽松路径出现逆转，AI基础设施",
-     "source": "华尔街见闻",
-     "zh": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动"
-    },
-    {
      "title": "White House panel delays hearing on Fed&apos;s Lisa Cook to Dec. 14",
      "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
      "pubDate": "Thu, 05 Nov 2026 01:11:26 GMT",
      "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
      "source": "CNBC",
      "zh": "White House panel delays hearing on Fed&apos;s Lisa Cook to Dec. 14"
-    },
-    {
-     "title": "Qualcomm’s stock falls as twin forces pressure sales",
-     "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
-     "pubDate": "Thu, 05 Nov 2026 01:06:00 GMT",
-     "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
-     "source": "MarketWatch",
-     "zh": "Qualcomm’s stock falls as twin forces pressure sales"
     }
    ]
   },

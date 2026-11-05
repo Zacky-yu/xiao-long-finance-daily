@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/5 16:31:53",
+ "generated_at": "2026/11/5 16:38:28",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,54 @@
    "total": 9,
    "items": [
     {
+     "title": "Adding Network Security To AI, HPC, And Data Centers",
+     "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
+     "pubDate": "Thu, 05 Nov 2026 08:06:45 +0000",
+     "summary": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, HPC, And Data Centers appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Adding Network Security To AI, HPC, And Data Centers"
+    },
+    {
+     "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
+     "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
+     "pubDate": "Thu, 05 Nov 2026 08:05:35 +0000",
+     "summary": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Turning Conv2D Into A Practical GPU Compute Pattern"
+    },
+    {
+     "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
+     "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
+     "pubDate": "Thu, 05 Nov 2026 08:04:55 +0000",
+     "summary": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. The post A System-Level Approach To Protecting 3D-IC Signal Integrity appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "A System-Level Approach To Protecting 3D-IC Signal Integrity"
+    },
+    {
+     "title": "Fitting AI Models To Edge Applications",
+     "link": "https://semiengineering.com/fitting-ai-models-to-edge-applications/",
+     "pubDate": "Thu, 05 Nov 2026 08:04:08 +0000",
+     "summary": "Key Takeaways: The first step in right-sizing an AI model for an embedded application is determining its purpose, including the target device functions and product features. Designers typically use a mix of compression techniques rather than a single method. Strategies include quantization, distilla",
+     "source": "Semiconductor Engineering",
+     "zh": "Fitting AI Models To Edge Applications"
+    },
+    {
+     "title": "Why Testing Automated Driving Is Harder Than It Looks",
+     "link": "https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/",
+     "pubDate": "Thu, 05 Nov 2026 08:02:40 +0000",
+     "summary": "Instead of waiting for rare situations to occur on public roads, engineers can create those situations virtually. The post Why Testing Automated Driving Is Harder Than It Looks appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why Testing Automated Driving Is Harder Than It Looks"
+    },
+    {
+     "title": "Why Integrated Gate Drive Regulation Matters For High Reliability Space GaN Designs",
+     "link": "https://semiengineering.com/why-integrated-gate-drive-regulation-matters-for-high-reliability-space-gan-designs/",
+     "pubDate": "Thu, 05 Nov 2026 08:01:35 +0000",
+     "summary": "Eliminating the need for a separate bias regulator dedicated to the gate driver for a more streamlined power architecture. The post Why Integrated Gate Drive Regulation Matters For High Reliability Space GaN Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why Integrated Gate Drive Regulation Matters For High Reliability Space GaN Designs"
+    },
+    {
      "title": "Penguin Solutions to sell Cree LED to Transom",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-051126.shtml",
      "pubDate": "Thu, 5 Nov 2026 07:59:06 GMT",
@@ -447,54 +495,6 @@
      "summary": "Unified STM32 platform adds automotive-grade STM32A and power-focused STM32G5 MCUs. The post STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI appeared first on EE Times .",
      "source": "EE Times",
      "zh": "STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI"
-    },
-    {
-     "title": "NIST Sets a Clearer Course for the Post-Quantum Security Transition",
-     "link": "https://semiwiki.com/security/pqshield/375585-nist-sets-a-clearer-course-for-the-post-quantum-security-transition/",
-     "pubDate": "Wed, 04 Nov 2026 14:00:53 +0000",
-     "summary": "NIST’s report, Transition to Post-Quantum Cryptography Standards , gives government agencies and technology suppliers a clearer framework for replacing cryptography vulnerable to future quantum computers. Its significance extends beyond selecting algorithms: it connects security priorities, applicat",
-     "source": "SemiWiki",
-     "zh": "NIST Sets a Clearer Course for the Post-Quantum Security Transition"
-    },
-    {
-     "title": "Guerrilla RF appoints Lauren Winslow as executive VP, sales",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-041126.shtml",
-     "pubDate": "Wed, 4 Nov 2026 13:05:51 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — has appointed Lauren Winslow as executive VP, sales, reporting directly to founder & CEO Ryan Pratt. In addition",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF appoints Lauren Winslow as executive VP, sales"
-    },
-    {
-     "title": "CSconnected sponsors event in Cardiff focusing on semiconductor startups",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/csconnected-041126.shtml",
-     "pubDate": "Wed, 4 Nov 2026 11:41:45 GMT",
-     "summary": "CSconnected Ltd, the not-for-profit organization driving the world’s first compound semiconductor cluster in South Wales, sponsored Silicon Catalyst’s ‘Forming, Storming, Norming & Performing for Semiconductor Startups’ event at Cardiff University on 28 October, as it sets out South Wales as the pla",
-     "source": "Semiconductor Today",
-     "zh": "CSconnected sponsors event in Cardiff focusing on semiconductor startups"
-    },
-    {
-     "title": "Marvell’s acquisition of Lumentum could challenge Broadcom’s market leadership, says TrendForce",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/trendforce-marvell-lumentum-041126.shtml",
-     "pubDate": "Wed, 4 Nov 2026 09:45:16 GMT",
-     "summary": "Following the announcement that data infrastructure semiconductor solutions provider Marvell Technology Inc of Santa Clara, CA, USA is acquiring Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers), market research firm Tr",
-     "source": "Semiconductor Today",
-     "zh": "Marvell’s acquisition of Lumentum could challenge Broadcom’s market leadership, says TrendForce"
-    },
-    {
-     "title": "Quantum Roadmaps Are Finally Meeting Reality",
-     "link": "https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/",
-     "pubDate": "Wed, 04 Nov 2026 09:11:15 +0000",
-     "summary": "Quantum computing revenue surpassed $1 billion in 2025, but missed forecasts highlight the gap between commercial expectations and delivery. The post Quantum Roadmaps Are Finally Meeting Reality appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Quantum Roadmaps Are Finally Meeting Reality"
-    },
-    {
-     "title": "Accelerating Plug-And-Play Prototyping In Chiplet-Based Designs",
-     "link": "https://semiengineering.com/accelerating-plug-and-play-prototyping-in-chiplet-based-designs/",
-     "pubDate": "Wed, 04 Nov 2026 08:15:25 +0000",
-     "summary": "Shared resources, a mix of tools running at different speeds, and multiple dies are adding new challenges for design teams. The post Accelerating Plug-And-Play Prototyping In Chiplet-Based Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Accelerating Plug-And-Play Prototyping In Chiplet-Based Designs"
     }
    ]
   },
@@ -1753,6 +1753,22 @@
    "total": 18,
    "items": [
     {
+     "title": "《后会友期》爆火，“中国鸭王”撞大运了",
+     "link": "https://www.huxiu.com/article/4903265.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 16:30:35 +0800",
+     "summary": "本文来自微信公众号： 金角财经 ，作者：麦麦颖 绝味食品撞大运了。 “很莫名其妙，鸭舌突然成抢手货了。” 近日，武汉、南昌、深圳等多地的绝味门店，出现了久违的抢购潮。有店员向媒体表示，平常备两包鸭舌都卖不完，如今还没开门就被预订一空，想从其他门店调货都调不到。 这场突如其来的热闹，源于爆火的综艺《后会友期》。节目中，2006年《超级女声》选手厉娜、许飞聊起当年一起吃鸭舌的往事。许飞回忆，厉娜曾教她像嗑瓜子一样啃鸭舌，这个习惯竟保留了二十年。 网友一边围观两人之间的故事，一边被馋得下单鸭舌，还不忘模仿许飞“把厉娜当句号”玩梗。 没想到，一段老友间的回忆，真把鸭舌卖火了。据第一财经从淘宝闪购获得的",
+     "source": "虎嗅",
+     "zh": "《后会友期》爆火，“中国鸭王”撞大运了"
+    },
+    {
+     "title": "特朗普等来一架坠机，没等来红脖子翻盘，中期选举两院全输",
+     "link": "https://www.huxiu.com/article/4903024.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 16:30:00 +0800",
+     "summary": "特朗普中期选举焦头烂额，海湖庄园附近竟然来了一场飞机坠毁，红脖子信众瞬间脑补成玄学大事件。飞机为啥坠毁？红脖子不关心，地狱一样的日子才是真正的灾难。",
+     "source": "虎嗅",
+     "zh": "特朗普等来一架坠机，没等来红脖子翻盘，中期选举两院全输"
+    },
+    {
      "title": "AOC U32G5D 显示器上市：31.5\" UHD 180Hz OLED，券后 3498.3 元",
      "link": "https://www.ithome.com/1/022/803.htm",
      "pubDate": "Thu, 05 Nov 2026 08:26:49 GMT",
@@ -1833,28 +1849,12 @@
      "zh": "裁员省钱投AI，美股巨头其实在算另一本账"
     },
     {
-     "title": "住酒店比租房省钱？又在这骗鬼呢？",
-     "link": "https://www.huxiu.com/article/4903254.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 15:56:40 +0800",
-     "summary": "本文来自微信公众号： 开水与白面包 ，作者：开水与白面包 上海某女士300元一晚长住酒店，包停车包早餐，算下来比租房省一千多。\"以住酒店替代租房\"冲上热搜，专家还下场分析这到底划不划算。 别把我们贫苦打工人像狗一样玩耍了。（喜人台词） 最近这条新闻你大概也刷到了： 某报报道，上海某女士在市区上班，远郊有房，嫌通勤折腾，退掉了市区租的房子，改成工作日住酒店。周一入住，周五退房，跟酒店谈下来的协议价每晚300元，含停车、含每天两份早餐。 一个月算下来花费大概在3600-4800。而同区域租个20平米的老旧公寓，租金加水电加停车，每月综合开销5000多。 哇，住酒店省了大钱哎。 还有专人打扫卫生，还",
-     "source": "虎嗅",
-     "zh": "住酒店比租房省钱？又在这骗鬼呢？"
-    },
-    {
      "title": "五粮液续约博鳌，将担任2027年年会战略合作伙伴",
      "link": "https://www.tmtpost.com/8194771.html",
      "pubDate": "Thu, 05 Nov 2026 15:54:49 +0800",
      "summary": "多年深耕，五粮液已经从博鳌论坛的品牌参与者，成长为开放合作理念的共建者、东西方文明对话的践行者。",
      "source": "钛媒体",
      "zh": "五粮液续约博鳌，将担任2027年年会战略合作伙伴"
-    },
-    {
-     "title": "教暴发户装“老钱”，我年入百万",
-     "link": "https://www.huxiu.com/article/4903234.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 15:53:36 +0800",
-     "summary": "本文来自微信公众号： 十点人物志 ，作者：元枝，编辑：灯灯、野格，题图来自：AI生成 在深圳，39岁的顾青做着一份小众而报酬不菲的工作：私人品味顾问。她帮富人挑衣服、选藏品，也指导他们如何应对不同的社交场合。 她接触的许多客户，都在短短数年间完成了财富的快速积累，但由于并非从小生活在精英环境里，生意迅速做大后，他们需要面对陌生的名利场：跨国商务谈判、国际学校家长交流、私人艺术宴请，这些场所是他们完成阶层跃迁之前从未涉足过的。 富人的圈子里，往往存在着隐秘的比较。衣着、谈吐、对艺术的了解，都可能成为判断彼此见识与身份的依据。顾青的工作，便是替客户摸清这些细节，为重要的见面做好准备。一次咨询收费数",
-     "source": "虎嗅",
-     "zh": "教暴发户装“老钱”，我年入百万"
     },
     {
      "title": "Swift 天文台从印尼上空重返大气层",
@@ -1953,12 +1953,28 @@
      "zh": "Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)"
     },
     {
-     "title": "Zoro Coupon Codes: 20% Off November 2026",
-     "link": "https://www.wired.com/story/zoro-promo-code/",
+     "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
+     "link": "https://www.wired.com/story/ray-ban-promo-code/",
      "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in November 2026.",
+     "summary": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
      "source": "WIRED",
-     "zh": "Zoro Coupon Codes: 20% Off November 2026"
+     "zh": "Ray-Ban Promo Codes: Save 50% in November 2026"
+    },
+    {
+     "title": "Meta Quest Promo Codes and Coupons for November 2026",
+     "link": "https://www.wired.com/story/meta-quest-promo-code/",
+     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
+     "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+     "source": "WIRED",
+     "zh": "Meta Quest Promo Codes and Coupons for November 2026"
+    },
+    {
+     "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
+     "link": "https://www.wired.com/story/nomad-discount-code/",
+     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
+     "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
+     "source": "WIRED",
+     "zh": "Nomad Goods Promo Codes: Get 25% Off in November 2026"
     },
     {
      "title": "B&H Photo Promo Codes and Deals This November 2026",
@@ -1975,22 +1991,6 @@
      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
      "source": "WIRED",
      "zh": "Booking.com Promo Codes: 20% Off | November 2026"
-    },
-    {
-     "title": "Corsair Discount Code: Up to 50% Off for November 2026",
-     "link": "https://www.wired.com/story/corsair-coupon/",
-     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
-     "source": "WIRED",
-     "zh": "Corsair Discount Code: Up to 50% Off for November 2026"
-    },
-    {
-     "title": "Udemy Coupon Codes: 20% Off November 2026",
-     "link": "https://www.wired.com/story/udemy-promo-code/",
-     "pubDate": "Thu, 05 Nov 2026 06:00:00 +0000",
-     "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
-     "source": "WIRED",
-     "zh": "Udemy Coupon Codes: 20% Off November 2026"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "WhatsApp for Android could soon let you read messages secretly without sending blue ticks",
+     "link": "https://www.androidauthority.com/whatsapp-peek-chat-previews-android-apk-teardown-3731903/",
+     "pubDate": "Thu, 05 Nov 2026 08:30:36 +0000",
+     "summary": "You'll soon be able to peek chat messages, just like on iOS, but with scrolling support.",
+     "source": "Android Authority",
+     "zh": "WhatsApp for Android could soon let you read messages secretly without sending blue ticks"
+    },
     {
      "title": "Sony Xperia 10 VII and Xperia 10 VIII receive Android 17 update",
      "link": "https://www.gsmarena.com/sony_xperia_10_vii_xperia_10_viii_android_17_update-news-75358.php",
@@ -2161,14 +2169,6 @@
      "zh": "Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series"
     },
     {
-     "title": "Over half of readers say T-Mobile has lost its Un-Carrier edge",
-     "link": "https://www.androidauthority.com/t-mobile-plans-2026-3731810/",
-     "pubDate": "Wed, 04 Nov 2026 21:34:27 +0000",
-     "summary": "The Un-Carrier is looking un-popular.",
-     "source": "Android Authority",
-     "zh": "Over half of readers say T-Mobile has lost its Un-Carrier edge"
-    },
-    {
      "title": "Apple Photos keeps getting better, here’s what’s new in iOS 27",
      "link": "https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27/",
      "pubDate": "Wed, 04 Nov 2026 20:47:18 +0000",
@@ -2249,6 +2249,30 @@
    "total": 13,
    "items": [
     {
+     "title": "RYTHM GAAP EPS of -$0.07, revenue of $23.86M",
+     "link": "https://seekingalpha.com/news/4666257-rythm-gaap-eps-of--007-revenue-of-2386m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 03:31:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "RYTHM GAAP EPS of -$0.07, revenue of $23.86M"
+    },
+    {
+     "title": "Lifecore Biomedical GAAP EPS of -$1.08 misses by $0.98, revenue of $25.3M misses by $13.31M",
+     "link": "https://seekingalpha.com/news/4666255-lifecore-biomedical-gaap-eps-of--108-misses-by-098-revenue-of-253m-misses-by-1331m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 03:28:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lifecore Biomedical GAAP EPS of -$1.08 misses by $0.98, revenue of $25.3M misses by $13.31M"
+    },
+    {
+     "title": "Allegiant signals 2026 EPS over $6 as it targets $140M in Sun Country synergies by 2029",
+     "link": "https://seekingalpha.com/news/4666254-allegiant-signals-2026-eps-over-6-as-it-targets-140m-in-sun-country-synergies-by-2029?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 03:25:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Allegiant signals 2026 EPS over $6 as it targets $140M in Sun Country synergies by 2029"
+    },
+    {
      "title": "Aprea Therapeutics GAAP EPS of -$0.09 in-line",
      "link": "https://seekingalpha.com/news/4666253-aprea-therapeutics-gaap-eps-of--009-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 05 Nov 2026 03:19:52 -0500",
@@ -2289,14 +2313,6 @@
      "zh": "Commerzbank AG GAAP EPS of €2.25, net interest income of €6.22B"
     },
     {
-     "title": "Netgear outlines Q4 revenue of $160M-$175M while expecting non-GAAP operating margin of 0%-3%",
-     "link": "https://seekingalpha.com/news/4666250-netgear-outlines-q4-revenue-of-160m-175m-while-expecting-non-gaap-operating-margin-of-0?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:15:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Netgear outlines Q4 revenue of $160M-$175M while expecting non-GAAP operating margin of 0%-3%"
-    },
-    {
      "title": "微软接连撤单Nscale：先砍30亿英国合同，再弃德州扩容订单",
      "link": "https://wallstreetcn.com/articles/3785260",
      "pubDate": "Thu, 05 Nov 2026 16:13:04 +0800",
@@ -2319,22 +2335,6 @@
      "summary": "“公建配套的建设费用，是房企测算土地成本时必须考虑的支出。”一位国有房企区域负责人告诉经济观察报，这部分成本会摊薄项目利润。",
      "source": "经济观察网",
      "zh": "部分公建配套费不再由开发商承担"
-    },
-    {
-     "title": "DHL Group reports 13% revenue growth in Q3, reaffirms FY2026 outlook",
-     "link": "https://seekingalpha.com/news/4666248-dhl-group-reports-13-revenue-growth-in-q3-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:10:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "DHL Group reports 13% revenue growth in Q3, reaffirms FY2026 outlook"
-    },
-    {
-     "title": "Legrand SA GAAP EPS of €4.02, revenue of €8.33B",
-     "link": "https://seekingalpha.com/news/4666247-legrand-sa-gaap-eps-of-402-revenue-of-833b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 03:03:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Legrand SA GAAP EPS of €4.02, revenue of €8.33B"
     },
     {
      "title": "【调研快报】路维光电接待国盛证券策略会等113家机构调研",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 10:37:37",
+ "generated_at": "2026/11/5 10:46:26",
  "recent_days": 7,
  "industries": [
   {
@@ -9,38 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-     "link": "https://www.qbitai.com/2026/11/507696.html",
-     "pubDate": "Thu, 05 Nov 2026 02:01:51 +0000",
-     "summary": "Data + AI 技术实践巡展 · 上海站",
-     "source": "量子位",
-     "zh": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！"
-    },
-    {
-     "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-     "link": "https://www.qbitai.com/2026/11/507707.html",
-     "pubDate": "Thu, 05 Nov 2026 01:59:37 +0000",
-     "summary": "最快6秒出图",
-     "source": "量子位",
-     "zh": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了"
-    },
-    {
-     "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-     "link": "https://www.qbitai.com/2026/11/507697.html",
-     "pubDate": "Thu, 05 Nov 2026 01:54:44 +0000",
-     "summary": "被轰成筛子了…",
-     "source": "量子位",
-     "zh": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的"
-    },
-    {
-     "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
-     "link": "https://www.qbitai.com/2026/11/507688.html",
-     "pubDate": "Thu, 05 Nov 2026 01:42:43 +0000",
-     "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
-     "source": "量子位",
-     "zh": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》"
-    },
     {
      "title": "Apple is reportedly cutting budgets for its internal AI usage",
      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
@@ -210,6 +178,14 @@ window.INDUSTRY_DATA = {
      "zh": "又一千亿AI独角兽诞生！英伟达投的AI推理创企获87亿新融资"
     },
     {
+     "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+     "link": "https://www.qbitai.com/2026/11/507586.html",
+     "pubDate": "Wed, 04 Nov 2026 10:08:38 +0000",
+     "summary": "仅激活3B参数，十项基准全线提升！",
+     "source": "量子位",
+     "zh": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型"
+    },
+    {
      "title": "全球唯二，百度抢先交卷！首个物理AI世界模型来了",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652740261&idx=1&sn=3ae30a3d5d9466d8bfdcb5bd4820a9b9",
      "pubDate": "Wed, 04 Nov 2026 18:03:00 +0800",
@@ -248,6 +224,30 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月4日消息，今天凌晨，Anthropic 开源大模型可证明推理系统FlashProve，详细技术报告于11月2日发布 。服务商可通过该系统为模型回答生成密码学证明，用户无需获取模型权重或自行运行大模型，就能在CPU上核验输出是否符合指定模型的计算结果。 模型调用API的机制类似黑箱，发送提示词后，用户仅能查看生成的Token，但无法验证为自己提供服务的是否为所选模型。此次开源的FlashProve旨在解决这一问题， 上可抓“模型掉包”，下可验“回答篡改” ，还可为监管机构提供监测服务商和企业AI使用合规性的渠道 。 该模型一经发出，X上的外网",
      "source": "智东西",
      "zh": "17秒验明AI“真身”！Anthropic开源可证明推理系统，能抓模型调包"
+    },
+    {
+     "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+     "link": "https://www.qbitai.com/2026/11/507574.html",
+     "pubDate": "Wed, 04 Nov 2026 08:59:57 +0000",
+     "summary": "一场别开生面的具身智能科技盛宴",
+     "source": "量子位",
+     "zh": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场"
+    },
+    {
+     "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+     "link": "https://www.qbitai.com/2026/11/507567.html",
+     "pubDate": "Wed, 04 Nov 2026 08:49:12 +0000",
+     "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+     "source": "量子位",
+     "zh": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上"
+    },
+    {
+     "title": "A thousand fewer paths to root",
+     "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+     "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
+     "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+     "source": "OpenAI",
+     "zh": "A thousand fewer paths to root"
     }
    ]
   },
@@ -946,12 +946,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘Every solar plant can be a data center’"
     },
     {
-     "title": "Trump ban on foreign grid components sparks industry concern over cost, practicality",
+     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
      "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
      "pubDate": "Wed, 04 Nov 2026 11:41:26 -0500",
-     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
+     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
-     "zh": "Trump ban on foreign grid components sparks industry concern over cost, practicality"
+     "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
     },
     {
      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
@@ -1746,6 +1746,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "洛斐推出小顺青春版 2 机械键盘：矮轴三模，84 / 100 版本",
+     "link": "https://www.ithome.com/1/022/548.htm",
+     "pubDate": "Thu, 05 Nov 2026 02:42:52 GMT",
+     "summary": "IT之家 11 月 5 日消息，洛斐 (Lofree) 现已面向海外市场推出小顺青春版 2 (Flow Lite 2) 机械键盘。这一产品采用极简风格设计， 基于凯华定制 Echo 矮轴 ，支持三模连接，可选 84 (75%) 和 100 (96%) 两种布局。 小顺青春版 2 拥有流线型 ABS 机身， 集成显示电量与连接状态的屏幕 ，配备 PBT 材质键帽，支持 0° / 8° 两档倾角。其内部采用 Gasket 结构，集成 1.2mm 开槽 PCB、3mm 隔音泡棉、100hr 续航 3000mAh 电池。 Echo 矮轴属于线性手感类型，采用全 POM 材质，拥有透明上盖， 触发力度 ",
+     "source": "IT之家",
+     "zh": "洛斐推出小顺青春版 2 机械键盘：矮轴三模，84 / 100 版本"
+    },
+    {
+     "title": "五菱星光 L 五座版汽车通过工信部申报",
+     "link": "https://www.ithome.com/1/022/547.htm",
+     "pubDate": "Thu, 05 Nov 2026 02:42:36 GMT",
+     "summary": "IT之家 11 月 5 日消息，工信部 11 月 3 日晚发布第 413 批《道路机动车辆生产企业及产品公告》变更扩展产品公示，五菱星光 L 汽车的五座版进行了申报。 该车的型号为 LZW6502KBUPHEVA2， 额定载客含驾驶员座位数由 6 改为了 6,5 ，也就是可选六座和五座版本。 五菱星光 L 的六座版于今年 7 月上市 ，权益价区间为 10.98 万元-13.28 万元。该车定位中大型 SUV，长宽高分别为 4980/1930/1760mm，轴距 2950mm。 该车在 CLTC 工况下的纯电续航里程可达 260 公里，满油满电综合续航为 1260 公里，馈电油耗可低至 4.9L",
+     "source": "IT之家",
+     "zh": "五菱星光 L 五座版汽车通过工信部申报"
+    },
+    {
+     "title": "比亚迪与 vivo 达成战略合作，实现 AI 智能体跨端融合",
+     "link": "https://www.ithome.com/1/022/545.htm",
+     "pubDate": "Thu, 05 Nov 2026 02:39:46 GMT",
+     "summary": "IT之家 11 月 5 日消息，比亚迪今日官宣与 vivo 达成战略合作，实现 AI 智能体跨端融合，共建智慧出行新生态。 vivo 官方也公布了这一消息：“自 2019 年起，双方持续深耕手车互联、智能进入等方向，积累了丰硕成果。依托长期深度互信与技术积累， 未来将深化智能终端与新能源汽车的生态协同 ，推动‘手车互联’迈向‘手车互融’，为全球用户打造无缝流转、安全便捷的智慧出行体验。” IT之家注意到，早在去年 8 月，vivo OriginOS 原系统便宣布比亚迪手车互联全量上线， 支持手机镜像投屏至车机 。",
+     "source": "IT之家",
+     "zh": "比亚迪与 vivo 达成战略合作，实现 AI 智能体跨端融合"
+    },
+    {
+     "title": "第五次全球产业大转移的危与机",
+     "link": "https://www.huxiu.com/article/4903161.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 10:32:52 +0800",
+     "summary": "本文来自微信公众号： 分析师Boden ，作者：分析师Boden 2014年前后，中国经济学界曾为“第五次产业转移”爆发过一场激烈的大讨论。 作为全球第四次产业转移的最大赢家，中国能否在第五次转移中独善其身，一度被渲染成国运之战。再加上当时国际局势，美国企图绕过中国主导TPP谈判，关于中国产业的悲观论调一时占据上风。 十余年后，中国已经实现万亿美元顺差，TPP却被美国自己抛弃，似乎我们已经安稳度过了这场危机。 但风险真的解除了吗？ 从未消失的达摩克利斯之剑 今天不少人对中国制造的规模优势感到安心，我国制造业已经连续16年全球第一，从任何一个传统指标上都看不出衰落迹象。 但这才是最危险的地方，因",
+     "source": "虎嗅",
+     "zh": "第五次全球产业大转移的危与机"
+    },
+    {
      "title": "鸿蒙智行问界新 M8 更多规格公布：升级三零重力座椅、-18℃ 超低温速冷车载冷暖箱，11 月 13 日上市",
      "link": "https://www.ithome.com/1/022/544.htm",
      "pubDate": "Thu, 05 Nov 2026 02:32:42 GMT",
@@ -1796,18 +1828,10 @@ window.INDUSTRY_DATA = {
     {
      "title": "Marvell： 把自己买成了另一家公司",
      "link": "https://www.huxiu.com/article/4903138.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:17:39 +0800",
-     "summary": "本文来自微信公众号： 大G看科技 ，作者：大G看科技，题图来自：视觉中国 从1995年的一颗硬盘芯片，到2026年买下激光器公司，三十年，四次身份，每一次蜕变都是买来的。 2026年11月2日，Marvell宣布以1150亿美元收购激光器公司Lumentum，把光的源头握进了自己手里。 这是它三十年里最大的一笔收购，也是第四次身份转换。三十年前它做硬盘芯片，此后做过消费电子，做过数据中心，如今想成为一家光电一体的连接公司。 今天这个Marvell，和最初那个Marvell已经不是同一家。产品目录、客户名单、收入结构、毛利率、竞争对手，全都换过。它不是靠一次转型完成的，而是靠三十年里十几笔收购，",
+     "pubDate": "Thu, 05 Nov 2026 10:17:41 +0800",
+     "summary": "从1995年的一颗硬盘芯片，到2026年买下激光器公司，三十年，四次身份，每一次蜕变都是买来的。本文来自微信公众号： 大G看科技 ，作者：大G看科技，题图来自：视觉中国 2026年11月2日，Marvell宣布以1150亿美元收购激光器公司Lumentum，把光的源头握进了自己手里。 这是它三十年里最大的一笔收购，也是第四次身份转换。三十年前它做硬盘芯片，此后做过消费电子，做过数据中心，如今想成为一家光电一体的连接公司。 今天这个Marvell，和最初那个Marvell已经不是同一家。产品目录、客户名单、收入结构、毛利率、竞争对手，全都换过。它不是靠一次转型完成的，而是靠三十年里十几笔收购，一",
      "source": "虎嗅",
      "zh": "Marvell： 把自己买成了另一家公司"
-    },
-    {
-     "title": "餐饮“消费入座”争议不断，中小餐馆该不该照着做？",
-     "link": "https://www.huxiu.com/article/4902481.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 10:14:44 +0800",
-     "summary": "消费入座又有新争议，老板们要看清到底是什么影响了生意，规则要对症下药。饭点位子紧张优先吃饭的，空位多时也该给陪同的人留点余地。消费入座的目的是让生意做得下去，别让规则把客人都赶跑了。",
-     "source": "虎嗅",
-     "zh": "餐饮“消费入座”争议不断，中小餐馆该不该照着做？"
     },
     {
      "title": "迈从 V9 Turbo+ 头戴耳机新增“烟紫”配色，11 月 6 日开启预订",
@@ -1818,36 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "迈从 V9 Turbo+ 头戴耳机新增“烟紫”配色，11 月 6 日开启预订"
     },
     {
-     "title": "飞傲带来雪漫天法师 HIFI 游戏解码声卡：支持 PCM 384kHz / DSD256，99 元",
-     "link": "https://www.ithome.com/1/022/539.htm",
-     "pubDate": "Thu, 05 Nov 2026 02:11:56 GMT",
-     "summary": "IT之家 11 月 5 日消息，飞傲 (FiiO) 昨日通过旗下雪漫天 (SNOWSKY) 品牌推出 HIFI 游戏解码声卡法师 (MAGE)。这一型号 采用复古游戏掌机风格设计 ，可选丛林绿 / 暗影黑 / 沙漠灰 3 种外观，售价 99 元。 法师声卡 基于普林芯驰的 SPV6040D 端侧音频 AI 处理器芯片 ，搭配德州仪器 OPA330 运算放大器，选用高精度金属膜电阻、低 ESR 钽电容，输出阻抗 5.5Ω，输出功率 27mW@32R，信噪比 105dB(A)，总谐波失真加噪声＜0.004%。 其 支持 PCM 32bit/384kHz 与 DSD256 格式解码 ；提供 8 条独",
-     "source": "IT之家",
-     "zh": "飞傲带来雪漫天法师 HIFI 游戏解码声卡：支持 PCM 384kHz / DSD256，99 元"
-    },
-    {
-     "title": "5 个 Win11 26H2 已知问题基本修复，微软敦促 25H2 用户尽快升级",
-     "link": "https://www.ithome.com/1/022/538.htm",
-     "pubDate": "Thu, 05 Nov 2026 02:10:23 GMT",
-     "summary": "IT之家 11 月 5 日消息，微软于 11 月 3 日更新官方支持文档，指出截至 10 月 28 日，在 Windows 11 26H2 系统最初跟踪的 5 个已知问题中，4 个被标记为“已解决”， 剩余的 USB Audio Class 1.0 问题已列为“已缓解” ，明确表示建议仍在使用 25H2 的用户升级至 26H2，以获得更安全、更稳定的使用体验。 微软于 9 月 29 日发布 Windows 11 26H2 更新，IT之家附上 5 个已知问题如下： 问题 状态 最后更新时间 非管理员用户远程桌面连接失败（0xC000000D） 已解决，KB5127936 2026 年 10 月 ",
-     "source": "IT之家",
-     "zh": "5 个 Win11 26H2 已知问题基本修复，微软敦促 25H2 用户尽快升级"
-    },
-    {
      "title": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)",
      "link": "https://www.techmeme.com/261104/p61#a261104p61",
      "pubDate": "Wed, 04 Nov 2026 21:10:01 -0500",
      "summary": "William Gavin / MarketWatch : AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours &nbsp; &mdash;&nbsp; AppLovin's stock is popping after &lsquo;clearly positive&rsquo; earnings results&nbsp; &mdash;&nbsp; AppLovin",
      "source": "Techmeme",
      "zh": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)"
-    },
-    {
-     "title": "OPPO Reno17 系列手机官宣 11 月 9 日见，全焦段 4K 超清长实况",
-     "link": "https://www.ithome.com/1/022/537.htm",
-     "pubDate": "Thu, 05 Nov 2026 02:07:21 GMT",
-     "summary": "IT之家 11 月 5 日消息，OPPO 今日官宣 Reno17 系列手机 11 月 9 日见，新机外观以及配置信息暂未公布。 IT之家注意到，OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板于 10 月 30 日开启预约，预计将于近期上市。此外，博主 @数码闲聊站 已爆料了 OPPO Reno17 Pro 的部分核心配置： 6.32 英寸 1.5K 分辨率、120Hz 刷新率直屏 联发科天玑 8550 SUPER 处理器 前置摄像头 5000 万像素 后置 2 亿像素大底云台主摄、5000 万像素超广角和 5000 万像素潜望长焦 电池容量预计在 7000mAh",
-     "source": "IT之家",
-     "zh": "OPPO Reno17 系列手机官宣 11 月 9 日见，全焦段 4K 超清长实况"
     },
     {
      "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)",
@@ -1901,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Starfall – Affordable, routine access to microgravity",
      "link": "https://www.spacex.com/starfall",
      "pubDate": "Thu, 05 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 79 # Comments: 35",
+     "summary": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 88 # Comments: 37",
      "source": "Hacker News",
      "zh": "Starfall – Affordable, routine access to microgravity"
     },
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Images 2.6",
      "link": "https://openai.com/index/introducing-images-2-6/",
      "pubDate": "Wed, 04 Nov 2026 23:35:44 +0000",
-     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 115 # Comments: 85",
+     "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 122 # Comments: 93",
      "source": "Hacker News",
      "zh": "Images 2.6"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
      "link": "https://icode4.coffee/?p=1746",
      "pubDate": "Wed, 04 Nov 2026 22:01:49 +0000",
-     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 63 # Comments: 3",
+     "summary": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 64 # Comments: 3",
      "source": "Hacker News",
      "zh": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements"
     },
@@ -2242,52 +2242,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "LeMaitre Vascular declares $0.25 dividend",
-     "link": "https://seekingalpha.com/news/4666052-lemaitre-vascular-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:30:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "LeMaitre Vascular declares $0.25 dividend"
+     "title": "恒立液压11月5日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923282768.html",
+     "pubDate": "Thu, 05 Nov 2026 10:38:03 +0800",
+     "summary": "以下是 恒立液压 在北京时间11月5日10:37分盘口异动快照： 11月5日， 恒立液压 盘中涨幅达5%，截至10点37分，报92.14元，成交2.96亿元，换手率0.24%。 分笔 10:37:54 92.14 901↑ 10:37:51 91.79 18↑ 10:37:48 91.78 72↓ 10:37:45 91.81 153↑ 10:37:42 91.75 42↑ 10:37:39 91.63 64↑ 10:37:36 91.61 39↓ 10:37:33 91.64 29↑ 10:37:30 91.65 6↑ 10:37:27 91.65 95↑ 报价 卖五 92.23 10 卖四",
+     "source": "东方财富股票",
+     "zh": "恒立液压11月5日盘中涨幅达5%"
     },
     {
-     "title": "Sinclair Broadcast declares $0.25 dividend",
-     "link": "https://seekingalpha.com/news/4666051-sinclair-broadcast-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:29:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sinclair Broadcast declares $0.25 dividend"
+     "title": "11月5日端到端供应链服务板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923282635.html",
+     "pubDate": "Thu, 05 Nov 2026 10:38:03 +0800",
+     "summary": "&emsp;&emsp;11月5日10点37分， 端到端供应链服务 板块指数报1490.282点，涨幅达2%，成交3.73亿元，换手率1.69%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 华鹏飞 报4.82元，涨4.10%； 海晨股份 报12.00元，涨3.00%； 普路通 报6.00元，涨2.04%； 飞力达 报5.41元，涨1.69%； 新宁物流 报3.74元，涨1.36%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "11月5日端到端供应链服务板块涨幅达2%"
     },
     {
-     "title": "Safety Insurance declares $0.92 dividend",
-     "link": "https://seekingalpha.com/news/4666050-safety-insurance-declares-0_92-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:29:17 -0500",
+     "title": "Denison Mines Non-GAAP EPS of -C$0.03 misses by C$0.01, revenue of C$1.05M",
+     "link": "https://seekingalpha.com/news/4666053-denison-mines-non-gaap-eps-of--c003-misses-by-c001-revenue-of-c105m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:38:02 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Safety Insurance declares $0.92 dividend"
+     "zh": "Denison Mines Non-GAAP EPS of -C$0.03 misses by C$0.01, revenue of C$1.05M"
     },
     {
-     "title": "AFLAC declares $0.61 dividend",
-     "link": "https://seekingalpha.com/news/4666049-aflac-declares-0_61-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:28:52 -0500",
+     "title": "NorthWestern Non-GAAP EPS of $0.58 misses by $0.15, revenue of $423.8M beats by $11.35M",
+     "link": "https://seekingalpha.com/news/4666058-northwestern-non-gaap-eps-of-0_58-misses-by-0_15-revenue-of-423_8m-beats-by-11_35m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:37:40 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "AFLAC declares $0.61 dividend"
+     "zh": "NorthWestern Non-GAAP EPS of $0.58 misses by $0.15, revenue of $423.8M beats by $11.35M"
     },
     {
-     "title": "Runway Growth Finance declares $0.33 dividend",
-     "link": "https://seekingalpha.com/news/4666048-runway-growth-finance-declares-0_33-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:28:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Runway Growth Finance declares $0.33 dividend"
+     "title": "碳酸锂主力合约日内涨幅扩大至4%",
+     "link": "http://finance.eastmoney.com/news/11440,202611053923282262.html",
+     "pubDate": "Thu, 05 Nov 2026 10:37:40 +0800",
+     "summary": "碳酸 锂 主力合约日内涨幅扩大至4%，现报91920元/吨。",
+     "source": "东方财富股票",
+     "zh": "碳酸锂主力合约日内涨幅扩大至4%"
     },
     {
-     "title": "Blue Owl Capital declares $0.31/share & supplemental dividend of $0.01/share",
-     "link": "https://seekingalpha.com/news/4666047-blue-owl-capital-declares-031share-supplemental-dividend-of-001share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:27:55 -0500",
+     "title": "洪都航空11月5日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923282022.html",
+     "pubDate": "Thu, 05 Nov 2026 10:37:27 +0800",
+     "summary": "以下是 洪都航空 在北京时间11月5日10:37分盘口异动快照： 11月5日， 洪都航空 盘中涨幅达5%，截至10点37分，报36.02元，成交2.54亿元，换手率1.02%。 分笔 10:37:20 36.02 1814↑ 10:37:17 35.88 269↑ 10:37:14 35.88 207↑ 10:37:11 35.88 60↑ 10:37:08 35.85 150↑ 10:37:05 35.80 21↑ 10:37:02 35.83 263↑ 10:36:59 35.77 256↓ 10:36:56 35.81 226↑ 10:36:53 35.78 75↑ 报价 卖五 36.1",
+     "source": "东方财富股票",
+     "zh": "洪都航空11月5日盘中涨幅达5%"
+    },
+    {
+     "title": "久之洋11月5日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923281960.html",
+     "pubDate": "Thu, 05 Nov 2026 10:37:27 +0800",
+     "summary": "以下是 久之洋 在北京时间11月5日10:37分盘口异动快照： 11月5日， 久之洋 盘中快速反弹，5分钟内涨幅超过2%，截至10点37分，报34.1元，成交2.35亿元，换手率2.81%。 分笔 10:37:18 34.10 142↑ 10:37:15 34.06 90↓ 10:37:12 34.06 103↓ 10:37:09 34.06 53↓ 10:37:06 34.06 152↓ 10:37:03 34.06 100↓ 10:37:00 34.10 227↓ 10:36:57 34.14 148↑ 10:36:54 34.14 287↑ 10:36:51 34.14 527↓ 报价 ",
+     "source": "东方财富股票",
+     "zh": "久之洋11月5日快速反弹"
+    },
+    {
+     "title": "奕帆传动11月5日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923281869.html",
+     "pubDate": "Thu, 05 Nov 2026 10:37:17 +0800",
+     "summary": "以下是 奕帆传动 在北京时间11月5日10:37分盘口异动快照： 11月5日， 奕帆传动 盘中快速上涨，5分钟内涨幅超过2%，截至10点37分，报29.6元，成交1.09亿元，换手率5.69%。 分笔 10:37:09 29.60 47↑ 10:37:06 29.57 150↑ 10:37:03 29.48 1↓ 10:37:00 29.48 128↑ 10:36:57 29.44 4↓ 10:36:54 29.46 16↑ 10:36:48 29.41 34↑ 10:36:45 29.40 27↑ 10:36:42 29.41 27↓ 10:36:39 29.48 128↑ 报价 卖五 29",
+     "source": "东方财富股票",
+     "zh": "奕帆传动11月5日快速上涨"
+    },
+    {
+     "title": "Blue Owl Technology Finance Corp. declares $0.35 dividend",
+     "link": "https://seekingalpha.com/news/4666059-blue-owl-technology-finance-corp-declares-0_35-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:37:12 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Blue Owl Capital declares $0.31/share & supplemental dividend of $0.01/share"
+     "zh": "Blue Owl Technology Finance Corp. declares $0.35 dividend"
+    },
+    {
+     "title": "Angi expects $40M-$50M opex savings plus $10M lower CapEx as it targets meaningfully higher 2027 EBITDA less CapEx",
+     "link": "https://seekingalpha.com/news/4666057-angi-expects-40m-50m-opex-savings-plus-10m-lower-capex-as-it-targets-meaningfully-higher-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:36:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Angi expects $40M-$50M opex savings plus $10M lower CapEx as it targets meaningfully higher 2027 EBITDA less CapEx"
+    },
+    {
+     "title": "Gold Royalty Non-GAAP EPS of $0.02 in-line, revenue of $10.2M beats by $2.7M",
+     "link": "https://seekingalpha.com/news/4666056-gold-royalty-non-gaap-eps-of-0_02-in-line-revenue-of-10_2m-beats-by-2_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:35:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold Royalty Non-GAAP EPS of $0.02 in-line, revenue of $10.2M beats by $2.7M"
+    },
+    {
+     "title": "Neuronetics outlines $160M-$164M 2026 revenue outlook while targeting limited to no net cash utilization in H2",
+     "link": "https://seekingalpha.com/news/4666055-neuronetics-outlines-160m-164m-2026-revenue-outlook-while-targeting-limited-to-no-net-cash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:35:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Neuronetics outlines $160M-$164M 2026 revenue outlook while targeting limited to no net cash utilization in H2"
     },
     {
      "title": "油价雪上加霜！停战预期之外，全球原油过剩压力也来了",
@@ -2312,54 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "本届广交会累计吸引了来自全球219个国家和地区的35.2万名境外采购商到会，较上届增长12.2%，到会人数创下历史新高。",
      "source": "经济观察网",
      "zh": "第140届广交会闭幕 乡村好物从田间地头走向国际市场"
-    },
-    {
-     "title": "11月5日云计算板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923019664.html",
-     "pubDate": "Thu, 05 Nov 2026 09:58:02 +0800",
-     "summary": "&emsp;&emsp;11月5日9点41分， 云计算 板块指数报2995.42点，涨幅达2%，成交158.38亿元，换手率0.32%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 欧普泰 报8.43元，涨12.40%； 润建股份 报55.38元，涨6.19%； 汉得信息 报15.06元，涨6.06%； 优刻得-W 报27.95元，涨5.71%； 光云科技 报15.13元，涨5.66%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "11月5日云计算板块涨幅达2%"
-    },
-    {
-     "title": "上能电气11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923019394.html",
-     "pubDate": "Thu, 05 Nov 2026 09:57:59 +0800",
-     "summary": "以下是 上能电气 在北京时间11月5日09:41分盘口异动快照： 11月5日， 上能电气 盘中涨幅达5%，截至9点41分，报29.5元，成交3.66亿元，换手率2.89%。 分笔 09:41:36 29.50 610↑ 09:41:33 29.49 539↓ 09:41:30 29.49 514↑ 09:41:27 29.48 931↑ 09:41:24 29.47 280↑ 09:41:21 29.46 198↑ 09:41:18 29.45 493↑ 09:41:15 29.44 163↑ 09:41:12 29.42 283↑ 09:41:09 29.40 123↓ 报价 卖五 29.5",
-     "source": "东方财富股票",
-     "zh": "上能电气11月5日盘中涨幅达5%"
-    },
-    {
-     "title": "世嘉科技11月5日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923019218.html",
-     "pubDate": "Thu, 05 Nov 2026 09:57:57 +0800",
-     "summary": "以下是 世嘉科技 在北京时间11月5日09:41分盘口异动快照： 11月5日， 世嘉科技 盘中快速上涨，5分钟内涨幅超过2%，截至9点41分，报18.83元，成交2334.31万元，换手率0.55%。 分笔 09:41:36 18.83 30↑ 09:41:33 18.82 4↑ 09:41:30 18.82 12↑ 09:41:27 18.81 2↑ 09:41:24 18.80 5↓ 09:41:21 18.80 26↑ 09:41:18 18.78 52↑ 09:41:15 18.77 16↑ 09:41:12 18.76 33↑ 09:41:09 18.75 30↓ 报价 卖五 18.",
-     "source": "东方财富股票",
-     "zh": "世嘉科技11月5日快速上涨"
-    },
-    {
-     "title": "盈建科11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923019118.html",
-     "pubDate": "Thu, 05 Nov 2026 09:57:56 +0800",
-     "summary": "以下是 盈建科 在北京时间11月5日09:41分盘口异动快照： 11月5日， 盈建科 盘中涨幅达5%，截至9点41分，报24.16元，成交1171.86万元，换手率0.82%。 分笔 09:41:39 24.16 9↑ 09:41:36 24.07 226↑ 09:41:30 24.07 1↑ 09:41:27 24.06 28↑ 09:41:24 24.03 339↑ 09:41:21 23.95 2↑ 09:41:06 23.94 9↑ 09:41:03 23.94 2↑ 09:41:00 23.94 43↑ 09:40:57 23.91 1↑ 报价 卖五 24.19 9 卖四 24.18",
-     "source": "东方财富股票",
-     "zh": "盈建科11月5日盘中涨幅达5%"
-    },
-    {
-     "title": "11月5日网约车板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923019024.html",
-     "pubDate": "Thu, 05 Nov 2026 09:57:56 +0800",
-     "summary": "&emsp;&emsp;11月5日9点41分， 网约车 板块指数报790.587点，涨幅达2%，成交4.85亿元，换手率0.14%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 锦江在线 报10.68元，涨7.99%； 立方控股 报15.69元，涨6.81%； 电声股份 报8.43元，涨3.56%； 海汽集团 报11.84元，涨3.41%； 大众交通 报3.98元，涨2.31%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "11月5日网约车板块涨幅达2%"
-    },
-    {
-     "title": "艾艾精工11月5日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923018975.html",
-     "pubDate": "Thu, 05 Nov 2026 09:57:55 +0800",
-     "summary": "以下是 艾艾精工 在北京时间11月5日09:41分盘口异动快照： 11月5日， 艾艾精工 盘中快速反弹，5分钟内涨幅超过2%，截至9点41分，报56.68元，成交1746.36万元，换手率0.24%。 分笔 09:41:39 56.68 2↑ 09:41:36 56.61 5↑ 09:41:33 56.60 5↑ 09:41:27 56.60 6↑ 09:41:21 56.60 5↑ 09:41:18 56.58 2↑ 09:41:15 56.57 9↓ 09:41:12 56.61 1↑ 09:41:09 56.61 3↑ 09:41:06 56.60 6↑ 报价 卖五 56.77 2 卖四",
-     "source": "东方财富股票",
-     "zh": "艾艾精工11月5日快速反弹"
     },
     {
      "title": "险企单季巨亏408亿元背后，投资者更该关注什么",
@@ -2426,6 +2426,22 @@ window.INDUSTRY_DATA = {
      "zh": "民主党横扫国会，科技巨头市值单日暴增近万亿美元"
     },
     {
+     "title": "11月5日集合竞价：闽发铝业、浙文影业4连板",
+     "link": "http://stock.eastmoney.com/news/11752,202611053922837780.html",
+     "pubDate": "Thu, 05 Nov 2026 09:26:10 +0800",
+     "summary": "11月5日，三大指数集体低开，上证指数低开1.07%，深证成指低开1.05%，创业板指低开2%。板块方面， 白银 领涨， 盛达资源 涨10.01%， 贵金属 、 黄金 等开盘涨幅居前。 个股方面，5股竞价涨停，其中 闽发铝业 4连板、 浙文影业 4连板、 永臻股份 3连板、 深中华A 2连板、 金螳螂 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责",
+     "source": "东方财富资讯",
+     "zh": "11月5日集合竞价：闽发铝业、浙文影业4连板"
+    },
+    {
+     "title": "“蓝色浪潮”席卷国会 AI数据中心行业命运何去何从？一文读懂",
+     "link": "http://finance.eastmoney.com/news/1354,202611053922837693.html",
+     "pubDate": "Thu, 05 Nov 2026 09:23:04 +0800",
+     "summary": "随着民主党在中期选举中掀起“蓝色浪潮”、成功“横扫”参众两院并夺回国会控制权， 数据中心 行业命运将迎来怎样的变数？ 众所周知， 数据中心 一直是本次中期选举的焦点议题，民主党与诸多美国民众一样大力反对AI基建如此大规模且快速地扩张，并拿下两 大数据 中心重镇： 在得克萨斯州，民主党大获全胜，拿下参议员席位与州长职位，结束了共和党在这个“深红州”长达三十多年的选举垄断局面；而在另一个关键摇摆州——俄亥俄州，民主党候选人埃米·阿克顿（Amy Acton）顺利拿下州长职位。她素来主张：如果 数据中心 项目无法满足成本、工会用工、信息公开、 环保 、社区收益协议及开发相关要求，就对其进行“有条件暂停",
+     "source": "东方财富资讯",
+     "zh": "“蓝色浪潮”席卷国会 AI数据中心行业命运何去何从？一文读懂"
+    },
+    {
      "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
      "link": "https://wallstreetcn.com/articles/3785208",
      "pubDate": "Thu, 05 Nov 2026 09:15:08 +0800",
@@ -2464,22 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
      "source": "MarketWatch",
      "zh": "Figma’s stock dips as investors worry that AI momentum is coming at a high price"
-    },
-    {
-     "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
-     "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
-     "pubDate": "Thu, 05 Nov 2026 01:01:00 GMT",
-     "summary": "The burger chain is overhauling its menu and seeking to deliver a “clear and compelling value proposition.”",
-     "source": "MarketWatch",
-     "zh": "McDonald’s tests new value menu as fast-food discount wars heat up"
-    },
-    {
-     "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
-     "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
-     "pubDate": "Thu, 05 Nov 2026 00:38:00 GMT",
-     "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
-     "source": "MarketWatch",
-     "zh": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/5 14:31:55",
+ "generated_at": "2026/11/5 14:52:12",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,30 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "10个月融了20亿，北京跑出一家AI独角兽，上海国资投了",
+     "link": "https://zhidx.com/p/607594.html",
+     "pubDate": "Thu, 05 Nov 2026 14:11:10 +0800",
+     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西11月5日报道，今日，北京视频生成基础模型创企Sand.ai（三呆科技）宣布完成 2亿美元（约合人民币13.34亿元） A+轮融资。这是该公司2026年完成的第三轮融资，10个月内累计融资额达 3亿美元（约合人民币20.01亿元） 。 Sand.ai没有公布融资后估值。该公司称，本轮融资后公司正式 跻身独角兽 行列。 本轮融资汇聚了 产业资本、知名人民币及美元基金、上海国资 等多方投资力量。Sand.ai称，融资资金将主要用于 视频基础模型研发、训练与推理基础设施建设、产品迭代及全球市场拓展 。Sand.ai新一代更大参数规模的MoE架构视频生",
+     "source": "智东西",
+     "zh": "10个月融了20亿，北京跑出一家AI独角兽，上海国资投了"
+    },
+    {
+     "title": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
+     "link": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
+     "pubDate": "Thu, 05 Nov 2026 05:42:18 +0000",
+     "summary": "Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot. The post Google AI Research Releases Agile Deliberation Fr",
+     "source": "MarkTechPost",
+     "zh": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers"
+    },
+    {
+     "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+     "link": "https://www.qbitai.com/2026/11/507767.html",
+     "pubDate": "Thu, 05 Nov 2026 05:25:37 +0000",
+     "summary": "像雇人一样雇机器人",
+     "source": "量子位",
+     "zh": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划"
+    },
     {
      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
      "link": "https://arxiv.org/abs/2611.05390",
@@ -209,14 +233,6 @@
      "zh": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out"
     },
     {
-     "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
-     "link": "https://www.qbitai.com/2026/11/507647.html",
-     "pubDate": "Wed, 04 Nov 2026 16:13:23 +0000",
-     "summary": "连路人都有自己的想法",
-     "source": "量子位",
-     "zh": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年"
-    },
-    {
      "title": "The Data Science Interview in 2026: What’s Changed and How to Prepare",
      "link": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
      "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
@@ -231,22 +247,6 @@
      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
      "source": "OpenAI",
      "zh": "OpenAI to acquire Pierre Computer Company, Inc."
-    },
-    {
-     "title": "英伟达团队下场！国产视频模型开源，硅谷公司上门谈授权",
-     "link": "https://zhidx.com/p/607534.html",
-     "pubDate": "Wed, 04 Nov 2026 21:54:57 +0800",
-     "summary": "智东西 作者 | 江宇 编辑 | 漠影 硅谷AI公司，开始站在中国开源模型的肩膀上造模型了。 最近，出手的不仅有英伟达的技术团队，还有美国AI视频明星公司Pika。它们不约而同地选择了同一个中国视频模型—— MiniMax H3 。 英伟达相关技术团队基于MiniMax开源的视频模型H3，将低分辨率视频再生成至2K、4K，推出视频增强项目Open-H3-Regenerate-2K。几乎同一时间，Pika发布Pika H3 Flex，让模型以更少的推理步骤生成视频，并针对专业创作场景增强控制能力。 值得注意的是，英伟达等相关项目还涉及和MiniMax的授权。模型权重虽然已经公开，但依然有商业价值",
-     "source": "智东西",
-     "zh": "英伟达团队下场！国产视频模型开源，硅谷公司上门谈授权"
-    },
-    {
-     "title": "Securing the agentic enterprise with data lineage",
-     "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-     "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
-     "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
-     "source": "MIT Tech Review AI",
-     "zh": "Securing the agentic enterprise with data lineage"
     }
    ]
   },
@@ -841,6 +841,22 @@
    "total": 9,
    "items": [
     {
+     "title": "U.S. solar PPA prices rose in Q3 as Section 232 tariffs began to take effect",
+     "link": "https://www.pv-magazine.com/2026/11/05/solar-ppa-prices-rose-in-q3-as-section-232-tariffs-began-to-take-effect-reports-levelten/",
+     "pubDate": "Thu, 05 Nov 2026 06:41:44 +0000",
+     "summary": "Power purchase agreement prices for solar projects in North America rose sharply in Q3, resuming an upward trend after a slight dip in Q2. Analysts pointed to early effects of Section 232 tariffs on imported polysilicon products as one reason behind the increases. The post U.S. solar PPA prices rose",
+     "source": "pv magazine",
+     "zh": "U.S. solar PPA prices rose in Q3 as Section 232 tariffs began to take effect"
+    },
+    {
+     "title": "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Continue-to-Fall-as-Democratic-Sweep-Shakes-Energy-Markets.html",
+     "pubDate": "Thu, 05 Nov 2026 00:30:00 -0600",
+     "summary": "Crude oil prices moved even lower, and energy company stocks followed after the results of the U.S. midterms, as markets brace for a potentially radical change in U.S. policies. At the time of writing, Brent crude was trading at $94.30 per barrel, after dropping by 9% on Wednesday, and West Texas In",
+     "source": "OilPrice",
+     "zh": "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets"
+    },
+    {
      "title": "Virtual power plants can help avoid overbuilt grid if AI boom goes bust",
      "link": "https://www.canarymedia.com/articles/virtual-power-plants/virtual-power-plants-grid-ai-bust",
      "pubDate": "Thu, 05 Nov 2026 00:01:00 -0500",
@@ -935,14 +951,6 @@
      "summary": "LNG spot market prices in Asia have tripled since the start of the year. Asia and Europe are locked in a race for a limited number of cargoes. The U.S. is exporting record volumes of the fuel. And QatarEnergy just extended a force majeure on its own LNG exports. The world is short on gas—and will re",
      "source": "OilPrice",
      "zh": "Iran War and AI Boom Drive Global Gas Supply Crunch"
-    },
-    {
-     "title": "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline",
-     "link": "https://oilprice.com/Energy/Crude-Oil/UAE-Weighs-Plans-for-Third-Strait-of-Hormuz-Bypass-Pipeline.html",
-     "pubDate": "Wed, 04 Nov 2026 14:00:00 -0600",
-     "summary": "The United Arab Emirates currently operates one crude export pipeline that bypasses the Strait of Hormuz and announced earlier this year that it was building a second. A third pipeline is reportedly being planned to further expand crude capacity and reroute energy flows around Hormuz, reducing expos",
-     "source": "OilPrice",
-     "zh": "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline"
     },
     {
      "title": "Array Technologies, Shoals Technologies agree to merge and create integrated solar infrastructure platform",
@@ -1071,14 +1079,6 @@
      "summary": "A 500 MW solar project paired with a 1 GWh battery storage system is planned in Malaysia to supply renewable electricity to DayOne’s data centers. The project, backed by IOI Corporation and Tenaga Nasional Berhad, will operate under the country’s Corporate Renewable Energy Supply Scheme. The post Ma",
      "source": "pv magazine",
      "zh": "Malaysia’s data center industry gets 500 MW solar, 1 GWh battery storage boost"
-    },
-    {
-     "title": "Return finances 220MWh in Spain, BW ESS buys 800MWh in France",
-     "link": "https://www.energy-storage.news/return-finances-220mwh-in-spain-bw-ess-buys-800mwh-in-france/",
-     "pubDate": "Wed, 04 Nov 2026 11:00:40 +0000",
-     "summary": "BESS owner-operators Return and BW ESS have financed and acquired large-scale projects in Spain and France, respectively, totalling a little over 1GWh.",
-     "source": "Energy Storage News",
-     "zh": "Return finances 220MWh in Spain, BW ESS buys 800MWh in France"
     }
    ]
   },
@@ -1753,12 +1753,92 @@
    "total": 18,
    "items": [
     {
-     "title": "苹果 iOS 27.3 开发者预览版 Beta 又一重要更新，Safari 浏览器支持自适应深色模式",
-     "link": "https://www.ithome.com/1/022/686.htm",
-     "pubDate": "Thu, 05 Nov 2026 06:27:26 GMT",
-     "summary": "IT之家 11 月 5 日消息，苹果官方昨日凌晨面向 iPhone 发布了 iOS 27.3 开发者预览版 Beta 升级。 除国行「Apple 智能与 Siri」外，IT之家实测发现，Safari 浏览器也迎来重要功能更新 —— 新增支持自适应深色模式 ：当某些网站本身并不支持深色外观时，Safari 可自动为每个网页应用深色外观。这意味着用户半夜浏览网页时，不用担心网页跳转时突然被“闪光弹”刺眼。 不过某些网站可能无法正常工作： 元素对比度可能较低； 颜色可能有所差异； 不支持某些网站。 绝大部分网页都能适配这一全新特性，但也有例外，如苹果自己的 Newsroom 官网。 延伸阅读 Saf",
+     "title": "华为鸿蒙电脑官宣年内支持侧载，开放本地安装应用",
+     "link": "https://www.ithome.com/1/022/741.htm",
+     "pubDate": "Thu, 05 Nov 2026 06:49:15 GMT",
+     "summary": "IT之家 11 月 5 日现场消息，在今日的 2026 鸿蒙办公产业峰会上，华为终端 BG 平板与 PC 产品线总裁朱懂东官宣， 华为鸿蒙电脑将在今年内支持侧载，开放本地安装应用 。 朱懂东表示，开放侧载并不是简单地去做一个安装入口， 而是在安全可控的前提下，让用户拥有更加灵活的应用安装选择 ，让开发者们也可以实现多场景的高效分发，持续地激活鸿蒙办公生态。 IT之家在峰会现场了解到，鸿蒙电脑生态已拥有 21000+ 独立应用。",
      "source": "IT之家",
-     "zh": "苹果 iOS 27.3 开发者预览版 Beta 又一重要更新，Safari 浏览器支持自适应深色模式"
+     "zh": "华为鸿蒙电脑官宣年内支持侧载，开放本地安装应用"
+    },
+    {
+     "title": "阿维塔称 07L Max 遭遇批量网络不实侵权，下周一全球首拆",
+     "link": "https://www.ithome.com/1/022/738.htm",
+     "pubDate": "Thu, 05 Nov 2026 06:48:22 GMT",
+     "summary": "IT之家 11 月 5 日消息，阿维塔官方今日发文称，近期，自阿维塔 07L Max 上市以来，多个网络平台出现 大量异常账号发布、转载高度雷同 的内容，并在评论区批量复制相似评论，发布针对阿维塔品牌和产品的不实及侵权内容，造成不良影响。 文中指出：“阿维塔始终尊重并欢迎社会各界的监督与批评，也十分感谢大家对阿维塔 07L Max 的关注和讨论。真实的用户反馈和理性批评，是我们改进产品和服务的重要动力。对于基于事实的质疑，我们愿意正面回应、认真改进。同时，对于有组织的网络侵权行为，我们也将依法维权。目前， 我们已对相关账号、内容及传播路径进行全面取证 ，并保留追究相关法律责任的权利。” 关于大",
+     "source": "IT之家",
+     "zh": "阿维塔称 07L Max 遭遇批量网络不实侵权，下周一全球首拆"
+    },
+    {
+     "title": "微软官宣：AMD FSR 4.1.2 超分辨率技术首次登陆微软 XBOX Series X|S",
+     "link": "https://www.ithome.com/1/022/736.htm",
+     "pubDate": "Thu, 05 Nov 2026 06:47:08 GMT",
+     "summary": "IT之家 11 月 5 日消息，微软 XBOX 游戏及 XBOX 生态系统副总裁杰森 · 罗纳德（Jason Ronald）今天宣布，AMD FSR 4.1.2 现已向 XBOX Series X|S 开发者提供。 IT之家注意到，AMD 这边已经发布对应新闻稿，宣布 2026 年 10 月版 GDK（微软游戏开发工具包）已经支持 AMD FSR 超分辨率技术 4.1.2， 这标志着 AMD FSR 超分辨率技术首次登陆 XBOX 游戏主机 。此前在 XBOX 选择使用 AMD FSR 传统分析算法的游戏，现在可以升级方案。 在 XBOX Series X|S 主机中，开发者适配 FSR 4.",
+     "source": "IT之家",
+     "zh": "微软官宣：AMD FSR 4.1.2 超分辨率技术首次登陆微软 XBOX Series X|S"
+    },
+    {
+     "title": "OpenAI 总裁布罗克曼：目前公司大部分营收来自企业客户，明年具备上市条件",
+     "link": "https://www.ithome.com/1/022/734.htm",
+     "pubDate": "Thu, 05 Nov 2026 06:46:53 GMT",
+     "summary": "IT之家 11 月 5 日消息，OpenAI 总裁格雷格 · 布罗克曼（Greg Brockman）当地时间周三表示，公司目前的营收大部分来自企业客户业务，并且他认为 OpenAI 将在 2027 年具备上市条件。 布罗克曼表示，OpenAI 正在加大面向企业客户的销售力度，与竞争对手 Anthropic 展开竞争。后者预计将在今年年底前上市。OpenAI 正在积极推广旗下的 Codex 智能体等产品，以拓展企业市场。 IT之家注意到，布罗克曼在美国加利福尼亚州纳帕举行的《华尔街日报》科技大会上发表了上述言论。当被现场问及 OpenAI 是否已准备好在明年进行首次公开募股（IPO）时，他回答说",
+     "source": "IT之家",
+     "zh": "OpenAI 总裁布罗克曼：目前公司大部分营收来自企业客户，明年具备上市条件"
+    },
+    {
+     "title": "华为鸿蒙电脑官宣开放升级 HarmonyOS 7 系统",
+     "link": "https://www.ithome.com/1/022/732.htm",
+     "pubDate": "Thu, 05 Nov 2026 06:46:19 GMT",
+     "summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会上，华为终端平板与 PC 产品线总裁朱懂东宣布，鸿蒙电脑开放升级 HarmonyOS 7 系统。 IT之家从峰会现场了解到，HarmonyOS 系统持续演进，已经历 5 次大版本迭代、30+ 次小版本迭代。 最新的鸿蒙 7.0 系统已演变成“全场景智能操作系统” 。 最新数据显示，鸿蒙电脑生态已拥有 21000+ 独立应用。",
+     "source": "IT之家",
+     "zh": "华为鸿蒙电脑官宣开放升级 HarmonyOS 7 系统"
+    },
+    {
+     "title": "Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat (Tess Owen/Wired)",
+     "link": "https://www.techmeme.com/261105/p6#a261105p6",
+     "pubDate": "Thu, 05 Nov 2026 01:45:00 -0500",
+     "summary": "Tess Owen / Wired : Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat &nbsp; &mdash;&nbsp; Leading the Future, backed by Silicon Valley's biggest billionaires, had a war chest of $100 million",
+     "source": "Techmeme",
+     "zh": "Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat (Tess Owen/Wired)"
+    },
+    {
+     "title": "发布OpenSpan，海亮科服开启全周期生涯规划普惠时代",
+     "link": "https://www.tmtpost.com/8194543.html",
+     "pubDate": "Thu, 05 Nov 2026 14:40:19 +0800",
+     "summary": "全周期规划能力下沉，开启生涯教育普惠新范式。",
+     "source": "钛媒体",
+     "zh": "发布OpenSpan，海亮科服开启全周期生涯规划普惠时代"
+    },
+    {
+     "title": "对话DSA主席：民主党若不明白“站哪边”，我们就站出来",
+     "link": "https://www.huxiu.com/article/4903228.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 14:35:04 +0800",
+     "summary": "本文来自微信公众号： 底线思维 ，作者：梅根·罗默 2026年美国中期选举落下帷幕，民主党取得重大胜利，夺回国会参众两院控制权。在得克萨斯、堪萨斯、南卡罗来纳等传统共和党强势州，民主党也实现了重要突破。 高昂的生活成本、对特朗普执政的不满，以及美国对外战争引发的争议，成为影响这场选举的重要因素。随着民主党重新掌握国会，特朗普第二任期剩余两年的政治环境也将发生重大变化。 然而，这场选举的另一项变化同样值得关注：美国“民主社会主义”的力量正在加速进入主流政治舞台。美国民主社会主义者协会（Democratic Socialists of America，简称DSA）支持的五名新候选人成功当选联邦众议",
+     "source": "虎嗅",
+     "zh": "对话DSA主席：民主党若不明白“站哪边”，我们就站出来"
+    },
+    {
+     "title": "美国中期选举，对中国有何影响？",
+     "link": "https://www.huxiu.com/article/4903226.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 14:31:56 +0800",
+     "summary": "本文来自微信公众号： 底线思维 ，作者：孙成昊 中期选举过后，全美一片“蓝色浪潮”涌动，总统特朗普这一抹红色，星光暗淡。 面对民主党重掌国会，他这次表现得不再桀骜不驯，反而强调要与对方合作，不想一直动用否决权。 已成“跛脚鸭”的他，到底会如何与共和党互动、与民主党共处？特别在外交事务上如涉中国、伊朗、乌克兰等问题，他会展现怎样的“新”姿态？ 为此，清华大学战略与安全研究中心副研究员孙成昊带来深入解读。 以下为对话实录： 观察者网：民主党在参议院选举中取得突破，并在一些传统共和党优势州获胜。您认为，这次选举在多大程度上反映了美国选民对特朗普政府执政表现的评价？其政治意义是否超出了一次常规的中期选",
+     "source": "虎嗅",
+     "zh": "美国中期选举，对中国有何影响？"
+    },
+    {
+     "title": "索尼 2026 财年半年报归母净利润 7917.64 亿日元，同比增长 38.8%",
+     "link": "https://www.ithome.com/1/022/689.htm",
+     "pubDate": "Thu, 05 Nov 2026 06:31:40 GMT",
+     "summary": "IT之家 11 月 5 日消息，索尼今日发布 2026 财年（2026 年 4 月～2027 年 3 月）上半财年（2026 年 4 月～2026 年 9 月）及第二财季（2026 年 7 月～2026 年 9 月）业绩数据： 2026 财年上半财年 营业总收入 ：6.27 万亿日元，同比增长 9.4% 毛利润 ：2.31 万亿日元 毛利率 ：36.84% 归母净利润 ：7917.64 亿日元，同比增长 38.8% 经营现金流 ：6553.6 亿日元，同比增长 38.96% 基本每股收益 ：134.89 日元 稀释每股收益 ：134.3 日元 2026 财年第二财季 营业总收入 ：3.43 万",
+     "source": "IT之家",
+     "zh": "索尼 2026 财年半年报归母净利润 7917.64 亿日元，同比增长 38.8%"
+    },
+    {
+     "title": "民主党横扫两院，美国迎来“大清算”时代？",
+     "link": "https://www.huxiu.com/article/4903225.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 14:30:57 +0800",
+     "summary": "本文来自微信公众号： 底线思维 ，作者：两岸圆桌派 2026年美国中期选举落幕，民主党一举拿下参众两院，美国总统特朗普将在任期后半段面对由民主党掌控国会的“分裂政府”时代。 国会监督、弹劾调查、预算争执和政府停摆风险随之上升，而当内政受制，特朗普是否会转向外交寻求突破？中美关系会不会因美国国会权力易手而再度生变，对台军售又会否重新加速？本期《两岸圆桌派》，主持人周玉琴与全球化智库副主任高志凯、台湾《中国时报》发行人王丰围绕这些问题展开讨论。 周玉琴：今天的节目首先关注美国中期选举的结果。从选前的多数民调来看，大家都认为民主党在众议院选举中胜算很高，悬念只在于究竟能赢多少，更受关注的是参议院，最",
+     "source": "虎嗅",
+     "zh": "民主党横扫两院，美国迎来“大清算”时代？"
     },
     {
      "title": "Chinese chipmakers&apos; aggressive hiring of experienced engineers is increasingly at odds with efforts to protect trade secrets in Taiwan and South Korea (Jenny Lee/CNBC)",
@@ -1769,14 +1849,6 @@
      "zh": "Chinese chipmakers&apos; aggressive hiring of experienced engineers is increasingly at odds with efforts to protect trade secrets in Taiwan and South Korea (Jenny Lee/CNBC)"
     },
     {
-     "title": "《华尔街日报》预估苹果 iPhone 18 Pro 存储升级溢价约 200%",
-     "link": "https://www.ithome.com/1/022/684.htm",
-     "pubDate": "Thu, 05 Nov 2026 06:10:51 GMT",
-     "summary": "IT之家 11 月 5 日消息，《华尔街日报》于 10 月 28 日发布博文，报道称在 iPhone 18 Pro 和 iPhone 18 Pro Max 两款机型的存储容量升级上， 苹果公司仍向消费者收取约为自身直接成本 3 倍以上的价格。 AI 数据中心对内存与闪存芯片的需求激增，正在改变全球消费电子供应链的议价格局。芯片厂商过去长期向苹果让利的局面正在逆转， 苹果已难以继续以极低价格采购关键零部件 。 科技媒体 Macworld 认为苹果虽然面临成本上行，但并未真正“受伤”：其最新发布的 9 月季度创下公司史上最佳业绩，第四财季利润达 307 亿美元 （IT之家注：现汇率约合 2,052",
-     "source": "IT之家",
-     "zh": "《华尔街日报》预估苹果 iPhone 18 Pro 存储升级溢价约 200%"
-    },
-    {
      "title": "Sources: China&apos;s export curbs on critical metals have disrupted supplies of micro drill bits made mainly from tungsten carbide, used in PCBs and chip substrates (Cheng Ting-Fang/Nikkei Asia)",
      "link": "https://www.techmeme.com/261105/p4#a261105p4",
      "pubDate": "Thu, 05 Nov 2026 01:10:01 -0500",
@@ -1785,36 +1857,12 @@
      "zh": "Sources: China&apos;s export curbs on critical metals have disrupted supplies of micro drill bits made mainly from tungsten carbide, used in PCBs and chip substrates (Cheng Ting-Fang/Nikkei Asia)"
     },
     {
-     "title": "铁三角公布新款旗舰 TWS 耳机 ATH-TWX9MK3，支持自适应降噪",
-     "link": "https://www.ithome.com/1/022/683.htm",
-     "pubDate": "Thu, 05 Nov 2026 06:09:59 GMT",
-     "summary": "IT之家 11 月 5 日消息，Audio-Technica（铁三角）日本当地时间今日公布了其新品旗舰 TWS 耳机 ATH-TWX9MK3。这一型号 支持 Fit Adaptive 自适应主动降噪 ，能根据周围环境和佩戴方式优化降噪性能。 ATH-TWX9MK3 搭载 Pure Motion Driver Gen2 铍涂层振膜，拥有改进的瞬态响应和收敛速度。该耳机支持 192bit / 24bit 解析度，配备 LHDC-V5 编解码器， 获得 Hi·Res AUDIO WIRELESS 认证 。 这款 TWS 耳机集成新款 MEMS 麦克风，具备更高的信噪比，实现更精确的噪声检测。其还 支",
-     "source": "IT之家",
-     "zh": "铁三角公布新款旗舰 TWS 耳机 ATH-TWX9MK3，支持自适应降噪"
-    },
-    {
-     "title": "百度地图登陆张雪机车 820RR 系列，导航能力直接嵌入仪表系统",
-     "link": "https://www.ithome.com/1/022/682.htm",
-     "pubDate": "Thu, 05 Nov 2026 06:06:12 GMT",
-     "summary": "IT之家 11 月 5 日消息，百度地图 11 月 4 日宣布登陆张雪机车 820RR 系列，820RR-RS 碳纤维版搭载 6.2 英寸 TFT 全彩仪表，支持车机互联与导航投屏，百度地图的导航能力直接嵌入仪表系统层面。 IT之家从官方介绍获悉，百度地图支持 摩托车路线规划、车牌禁限行规避 ，导航接入了车牌和排量信息，路线规划阶段自动规避限行区域，已覆盖全国 100 多个城市的规则。支持路口放大图，接近复杂路口时仪表自动弹出放大图，配合箭头指引。支持仪表原生导航，820RR-RS 碳纤维版支持车机互联与导航投屏，百度地图的能力直接嵌入仪表。 据悉，这次合作背后，是百度地图联合瑞图公司（道道通",
-     "source": "IT之家",
-     "zh": "百度地图登陆张雪机车 820RR 系列，导航能力直接嵌入仪表系统"
-    },
-    {
      "title": "Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)",
      "link": "https://www.techmeme.com/261105/p3#a261105p3",
      "pubDate": "Thu, 05 Nov 2026 01:05:04 -0500",
      "summary": "Reuters : Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B &nbsp; &mdash;&nbsp; Flash-memory chipmaker Yangtze Memory Technologies Co has put its Shanghai IPO on hold, according to a company m",
      "source": "Techmeme",
      "zh": "Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)"
-    },
-    {
-     "title": "首款 HarmonyOS 台式机亮相华为擎云 2026 鸿蒙办公产业峰会",
-     "link": "https://www.ithome.com/1/022/681.htm",
-     "pubDate": "Thu, 05 Nov 2026 06:04:08 GMT",
-     "summary": "IT之家 11 月 5 日现场消息，2026 鸿蒙办公产业峰会今日在武汉 · 中国光谷科技会展中心举行。 IT之家在峰会现场发现，首款搭载 HarmonyOS 系统的台式机也同步亮相。此次登场的鸿蒙台式机共两个型号，分别是 HM650 和 HM650G， 确认搭载华为自研麒麟 X90 芯片 。 ▲ 左边为 HM650G（面向政务客户）；右边为 HM650（面向企业客户） 据IT之家此前报道，华为官方账号“智慧办公产品经理”宣布， 鸿蒙电脑应用数突破 2.1 万款 。从宣传海报来看，鸿蒙电脑应用已覆盖办公、AI、教育、娱乐、创作等核心场景。",
-     "source": "IT之家",
-     "zh": "首款 HarmonyOS 台式机亮相华为擎云 2026 鸿蒙办公产业峰会"
     },
     {
      "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
@@ -1865,14 +1913,6 @@
      "zh": "Corsair Discount Code: Up to 50% Off for November 2026"
     },
     {
-     "title": "Counterpoint：三季度全球 DRAM 营收逼近 2000 亿美元，同比大增 369% 实现超级周期",
-     "link": "https://www.ithome.com/1/022/677.htm",
-     "pubDate": "Thu, 05 Nov 2026 05:48:59 GMT",
-     "summary": "IT之家 11 月 5 日消息，市场研究机构 Counterpoint Research 今日发布的《全球内存市场追踪》报告显示，2026 年第三季度全球 DRAM 市场营收接近 2,000 亿美元 （IT之家注：现汇率约合 1.34 万亿元人民币） ，同比增长 369%，接近去年同期的 5 倍。 Counterpoint Research 指出，此轮 DRAM 市场增长主要由价格上涨推动，而非出货量大幅增加。当季 DRAM 单位出货量环比仅增长约 4%，每 Gb 平均售价则达到 1.9 美元。 高级分析师 Jeongku Choi 表示，本轮行情属于价格推动的超级周期，而不是出货量周期。“A",
-     "source": "IT之家",
-     "zh": "Counterpoint：三季度全球 DRAM 营收逼近 2000 亿美元，同比大增 369% 实现超级周期"
-    },
-    {
      "title": "中企出海，别板起“严父”面孔",
      "link": "https://www.huxiu.com/article/4903220.html?f=rss",
      "pubDate": "Thu, 05 Nov 2026 13:48:10 +0800",
@@ -1892,7 +1932,7 @@
      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
      "link": "https://www.altera.com/newsroom/agilex-2x",
      "pubDate": "Thu, 05 Nov 2026 05:47:14 +0000",
-     "summary": "Article URL: https://www.altera.com/newsroom/agilex-2x Comments URL: https://news.ycombinator.com/item?id=50375653 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://www.altera.com/newsroom/agilex-2x Comments URL: https://news.ycombinator.com/item?id=50375653 Points: 7 # Comments: 1",
      "source": "Hacker News",
      "zh": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio"
     },
@@ -1929,44 +1969,12 @@
      "zh": "个人Agent上桌，谁先露了怯？"
     },
     {
-     "title": "秦港股份买曹妃甸，资产净额指标离重大重组不足5个百分点",
-     "link": "https://www.huxiu.com/article/4903210.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 13:00:07 +0800",
-     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 停牌十个交易日后，秦港股份在2026年11月4日端出一份向控股股东河北港口集团买资产的方案：以3.45元/股发股并支付部分现金，买下曹妃甸港区四家码头公司的部分股权，同时募集配套资金。 董事会同步表示，这笔关联交易预计不构成重大资产重组。 直觉上，够不上重大重组，意味着收购体量不大；但把四笔股权放进《上市公司重大资产重组管理办法》的公式里重算，资产净额指标已经到46.65%，离50%的法定红线只差不到5个百分点。 四家标的都在曹妃甸港区，做铁矿石、煤炭等大宗散货的装卸堆存。 单看收购比例，每一笔都是少数股权；真正改写量级的，是曹妃甸实业",
-     "source": "虎嗅",
-     "zh": "秦港股份买曹妃甸，资产净额指标离重大重组不足5个百分点"
-    },
-    {
-     "title": "迟到两年的苹果AI，让用户高兴不起来",
-     "link": "https://www.huxiu.com/article/4903211.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 12:58:58 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：马吉英，作者：邓双琳 国行用户等了两年的苹果AI，更像是一次基础能力的补课，并非真正意义上的AI革命。 苦等两年多，国行用户终于等来了苹果AI。11月4日，苹果发布了iOS 27.3开发者Beta版，国行版Apple Intelligence（苹果智能）首次开放测试。 这是苹果AI第一次真正进入中国大陆市场，但其首次发布在2024年6月。两年期间，国产手机厂商已经将AI消除、智能摘要、实时翻译乃至跨应用智能体等功能陆续装进手机，消费者对这些功能并不陌生。对于那些已经连续购买了两三代iPhone，却始终无法体验苹果AI的国行用户来说，苹果这次更新多少",
-     "source": "虎嗅",
-     "zh": "迟到两年的苹果AI，让用户高兴不起来"
-    },
-    {
-     "title": "Vercel创始人：人类未来的核心工作是资本分配",
-     "link": "https://www.huxiu.com/article/4903207.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 12:58:26 +0800",
-     "summary": "本文来自微信公众号： AGI 2050 ，编译：AGI 2050，原文标题：《Vercel 创始人：一人支撑万亿美元公司的时代或将到来，人类未来的核心工作是资本分配》，头图来自：AI生成 如果说云计算巨头亚马逊 AWS 是上一代互联网坚固而复杂的工业级电网，那么 2025 年估值已达 93 亿美元的云平台 Vercel，则是当下全球生成式人工智能浪潮中最受工程师青睐的现代化操作底座。从全球主流的前端框架 Next.js，到几乎所有硅谷当红 AI 应用背后的部署平台，其创始人吉列尔莫&middot;劳赫是全球开发者生态中最具号召力的技术领袖之一。 本期对话源自海外对话平台 Delphi。访谈始于",
-     "source": "虎嗅",
-     "zh": "Vercel创始人：人类未来的核心工作是资本分配"
-    },
-    {
      "title": "Lemmings CSS Animation",
      "link": "https://markblah.github.io/lemmings/",
      "pubDate": "Thu, 05 Nov 2026 04:54:10 +0000",
-     "summary": "Article URL: https://markblah.github.io/lemmings/ Comments URL: https://news.ycombinator.com/item?id=50375354 Points: 32 # Comments: 3",
+     "summary": "Article URL: https://markblah.github.io/lemmings/ Comments URL: https://news.ycombinator.com/item?id=50375354 Points: 47 # Comments: 4",
      "source": "Hacker News",
      "zh": "Lemmings CSS Animation"
-    },
-    {
-     "title": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&apos;t suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)",
-     "link": "https://www.techmeme.com/261104/p66#a261104p66",
-     "pubDate": "Wed, 04 Nov 2026 23:35:00 -0500",
-     "summary": "Charles Rollet / Business Insider : Source: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named &ldquo;Watermelon&rdquo; &nbsp; &mdash;&nbsp; Meta is done with fruits.&nbsp; &mdash;&nbsp; The social media giant has i",
-     "source": "Techmeme",
-     "zh": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&apos;t suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)"
     },
     {
      "title": "“前庭友好”双11爆款，中产小孩下一个时尚单品？",
@@ -1983,14 +1991,6 @@
      "summary": "守得住一寸痴，是匠心；守成一堵墙，是心障",
      "source": "钛媒体",
      "zh": "长城汽车的墙"
-    },
-    {
-     "title": "中国人造出了那台“造AI的光刻机”吗？",
-     "link": "https://www.tmtpost.com/8193959.html",
-     "pubDate": "Thu, 05 Nov 2026 12:15:19 +0800",
-     "summary": "面壁RSI:AI自研算子，重塑算 力底层。",
-     "source": "钛媒体",
-     "zh": "中国人造出了那台“造AI的光刻机”吗？"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "OnePlus reveals exact Android 17 rollout dates for more phones and tablets",
+     "link": "https://www.androidauthority.com/oneplus-android-17-rollout-dates-november-2026-3731865/",
+     "pubDate": "Thu, 05 Nov 2026 06:30:56 +0000",
+     "summary": "November's update calendar is filling up fast.",
+     "source": "Android Authority",
+     "zh": "OnePlus reveals exact Android 17 rollout dates for more phones and tablets"
+    },
     {
      "title": "Starlink Mobile finally has an official rollout window",
      "link": "https://www.androidauthority.com/starlink-mobile-5g-network-rollout-launch-window-3731862/",
@@ -2161,14 +2169,6 @@
      "zh": "Apple Photos keeps getting better, here’s what’s new in iOS 27"
     },
     {
-     "title": "Henry Cavill’s Justice League mustache disaster is now a tongue-in-cheek Googlebook game for charity",
-     "link": "https://www.androidauthority.com/henry-cavill-googlebook-game-3731786/",
-     "pubDate": "Wed, 04 Nov 2026 20:46:06 +0000",
-     "summary": "\"Mustache Protocol\" turns Henry Cavill's infamous CGI shave into a 16-bit Googlebook game.",
-     "source": "Android Authority",
-     "zh": "Henry Cavill’s Justice League mustache disaster is now a tongue-in-cheek Googlebook game for charity"
-    },
-    {
      "title": "Pangram expands its AI detection tools to video and images",
      "link": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/",
      "pubDate": "Wed, 04 Nov 2026 20:28:18 +0000",
@@ -2249,52 +2249,100 @@
    "total": 13,
    "items": [
     {
-     "title": "ArcelorMittal S.A. Non-GAAP EPS of $1.15, revenue of $16.47B misses by $460M",
-     "link": "https://seekingalpha.com/news/4666204-arcelormittal-sa-non-gaap-eps-of-115-revenue-of-1647b-misses-by-460m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 01:19:52 -0500",
+     "title": "CareRx reports Q3 results",
+     "link": "https://seekingalpha.com/news/4666214-carerx-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 01:44:36 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "ArcelorMittal S.A. Non-GAAP EPS of $1.15, revenue of $16.47B misses by $460M"
+     "zh": "CareRx reports Q3 results"
     },
     {
-     "title": "Fluor teams up with Inelectra to target Venezuela's energy and industrial sectors",
-     "link": "https://seekingalpha.com/news/4666200-fluor-teams-up-with-inelectra-to-target-venezuelas-energy-and-industrial-sectors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 01:17:52 -0500",
+     "title": "Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges",
+     "link": "https://seekingalpha.com/news/4666190-asian-stocks-diverge-boj-signals-further-hikes-and-australia-trade-surplus-surges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 01:42:46 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Fluor teams up with Inelectra to target Venezuela's energy and industrial sectors"
+     "zh": "Asian stocks diverge, BoJ signals further hikes and Australia's trade surplus surges"
     },
     {
-     "title": "STAAR outlines $50M share repurchase while targeting product launches every 18 to 24 months",
-     "link": "https://seekingalpha.com/news/4666203-staar-outlines-50m-share-repurchase-while-targeting-product-launches-every-18-to-24-months?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 01:15:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "STAAR outlines $50M share repurchase while targeting product launches every 18 to 24 months"
+     "title": "联亚药业11月5日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923451553.html",
+     "pubDate": "Thu, 05 Nov 2026 14:42:45 +0800",
+     "summary": "以下是 联亚药业 在北京时间11月5日14:42分盘口异动快照： 11月5日， 联亚药业 盘中快速上涨，5分钟内涨幅超过2%，截至14点42分，报21.98元，成交10.50亿元，换手率42.84%。 分笔 14:42:39 21.98 411↑ 14:42:36 21.97 601↑ 14:42:33 21.95 413↑ 14:42:30 21.94 86↑ 14:42:27 21.92 130↑ 14:42:24 21.92 124↑ 14:42:21 21.89 206↑ 14:42:18 21.88 411↑ 14:42:15 21.88 269↑ 14:42:12 21.88 18",
+     "source": "东方财富股票",
+     "zh": "联亚药业11月5日快速上涨"
     },
     {
-     "title": "HMH Holding reports Q3 results",
-     "link": "https://seekingalpha.com/news/4666201-hmh-holding-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 01:15:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HMH Holding reports Q3 results"
+     "title": "微博CEO王高飞：企业家IP是中国品牌的长期信任资产",
+     "link": "http://finance.eastmoney.com/news/1354,202611053923446259.html",
+     "pubDate": "Thu, 05 Nov 2026 14:42:04 +0800",
+     "summary": "微博 CEO王高飞在2026年世界互联网大会乌镇峰会互联网企业家论坛上表示，中国品牌走向世界，需要更多能够提供专业解释、建立跨文化信任的企业家。企业家IP不只是个人流量热度，更是通过技术分享、产品理念和责任担当形成的长期信任资产。他认为，企业家IP运营的本质，是把公开沟通机制嵌入企业治理，应避免“只有宣传，没有沟通；只有道理，没有共情；只有态度，没有行动”三种误区。据其介绍，今年以来， 微博 累计清理涉企违规信息11万余条，处置账号1200余个。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "微博CEO王高飞：企业家IP是中国品牌的长期信任资产"
     },
     {
-     "title": "NewLake Capital Partners FFO of $0.47 in-line, revenue of $12M misses by $0.14M",
-     "link": "https://seekingalpha.com/news/4666202-newlake-capital-partners-ffo-of-047-in-line-revenue-of-12m-misses-by-014m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 01:14:40 -0500",
+     "title": "Lotus Creek Exploration Inc. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4666213-lotus-creek-exploration-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 01:41:40 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "NewLake Capital Partners FFO of $0.47 in-line, revenue of $12M misses by $0.14M"
+     "zh": "Lotus Creek Exploration Inc. reports Q3 results"
     },
     {
-     "title": "LTM and ServiceNow expand partnership to scale agentic AI and accelerate joint go-to-market",
-     "link": "https://seekingalpha.com/news/4666197-ltm-and-servicenow-expand-partnership-to-scale-agentic-ai-and-accelerate-joint-go-to-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 01:10:55 -0500",
+     "title": "三星出售8英寸晶圆代工厂半导体设备",
+     "link": "http://finance.eastmoney.com/news/1355,202611053923451449.html",
+     "pubDate": "Thu, 05 Nov 2026 14:41:26 +0800",
+     "summary": "三星 电子 与东部高科最近签署了约300台 半导体 制造设备转让合同，将在器兴的8英寸代工厂S7的 半导体 制造设备给东部高科。此次设备出售是因三星 电子 退出8英寸代工业务。三星 电子 在今年年初决定关闭韩江的三座8英寸工厂（S6、S7、S8）中的S7，并于9至10月停止其运营。三星电子还决定在2030年底之前关停剩余两座工厂，完全退出8英寸代工业务。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "三星出售8英寸晶圆代工厂半导体设备"
+    },
+    {
+     "title": "Dexterra Group reports Q3 results",
+     "link": "https://seekingalpha.com/news/4666212-dexterra-group-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 01:41:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "LTM and ServiceNow expand partnership to scale agentic AI and accelerate joint go-to-market"
+     "zh": "Dexterra Group reports Q3 results"
+    },
+    {
+     "title": "东方材料11月5日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923448098.html",
+     "pubDate": "Thu, 05 Nov 2026 14:41:15 +0800",
+     "summary": "以下是 东方材料 在北京时间11月5日14:41分盘口异动快照： 11月5日14点41分， 东方材料 盘中打开涨停，现报22.57元，成交4.50亿元，换手率10.25%。该股之前于14点38分涨停。 分笔 14:41:09 22.57 602↓ 14:41:06 22.58 36↓ 14:41:03 22.58 240↓ 14:41:00 22.58 1191↓ 14:40:57 22.58 211↓ 14:40:54 22.58 75↓ 14:40:51 22.58 24↓ 14:40:48 22.58 235↓ 14:40:45 22.58 2023↓ 14:40:42 22.58 33",
+     "source": "东方财富股票",
+     "zh": "东方材料11月5日打开涨停"
+    },
+    {
+     "title": "ST百利11月5日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923446954.html",
+     "pubDate": "Thu, 05 Nov 2026 14:40:52 +0800",
+     "summary": "以下是 ST百利 在北京时间11月5日14:40分盘口异动快照： 11月5日14点40分， ST百利 盘中打开涨停，现报3.98元，成交3258.55万元，换手率1.73%。该股之前于14点37分涨停。 分笔 14:40:47 3.98 1058↓ 14:40:44 4.00 1897↓ 14:40:41 4.00 799↓ 14:40:38 4.00 201↓ 14:40:23 4.00 265↓ 14:40:20 4.00 55↓ 14:40:14 4.00 100↓ 14:40:02 4.00 10↓ 14:39:59 4.00 299↓ 14:39:56 4.00 374↓ 报价 卖五",
+     "source": "东方财富股票",
+     "zh": "ST百利11月5日打开涨停"
+    },
+    {
+     "title": "亚德尼：预计通胀将降温，美债收益率接近5%时颇具吸引力",
+     "link": "http://finance.eastmoney.com/news/1351,202611053923448884.html",
+     "pubDate": "Thu, 05 Nov 2026 14:40:13 +0800",
+     "summary": "亚德尼研究公司总裁埃德·亚德尼表示，随着通胀预计逐步降温，美国10年期国债收益率接近5%时显得“非常有吸引力”。亚德尼表示：“若要买入收益率为5%的10年期美债，就必须相对乐观地认为，生产率提升将推动通胀下降，而我认为这一点会实现。我认为，收益率达到5%时，美债确实非常有吸引力。”亚德尼是华尔街知名策略师，曾通过比较标普500指数的预期盈利收益率与美国10年期国债收益率，推广用于股票估值的“美联储模型”。他表示，目前利率水平已经“重新回归长期正常状态”。亚德尼称：“未来10年的通胀前景大约在2%至2.5%之间。同时，如果能够获得2.5%的实际回报率，那么在债券市场中，这已经相当不错了。”他预计",
+     "source": "东方财富股票",
+     "zh": "亚德尼：预计通胀将降温，美债收益率接近5%时颇具吸引力"
+    },
+    {
+     "title": "Crombie REIT reports Q3 results",
+     "link": "https://seekingalpha.com/news/4666211-crombie-reit-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 01:38:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Crombie REIT reports Q3 results"
+    },
+    {
+     "title": "DRI Healthcare Trust reports Q3 results",
+     "link": "https://seekingalpha.com/news/4666210-dri-healthcare-trust-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 01:37:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "DRI Healthcare Trust reports Q3 results"
     },
     {
      "title": "黄金牛市命系中东！花旗：局势缓和冲5000美元，僵局持续恐跌至3500",
@@ -2321,52 +2369,12 @@
      "zh": "Russia, China may be more aggressive if they feel Trump is on &apos;his way out&apos;: Brookings"
     },
     {
-     "title": "青岛食品11月5日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923406316.html",
-     "pubDate": "Thu, 05 Nov 2026 13:57:00 +0800",
-     "summary": "以下是 青岛食品 在北京时间11月5日13:56分盘口异动快照： 11月5日， 青岛食品 盘中快速回调，5分钟内跌幅超过2%，截至13点56分，报23.03元，成交8.55亿元，换手率20.16%。 分笔 13:56:54 23.03 12↓ 13:56:51 23.05 13↑ 13:56:48 23.04 57↓ 13:56:45 23.10 39↓ 13:56:42 23.13 80↑ 13:56:39 23.12 24↓ 13:56:36 23.12 7↓ 13:56:33 23.13 3↓ 13:56:30 23.17 7↓ 13:56:27 23.19 11↓ 报价 卖五 23.1",
-     "source": "东方财富股票",
-     "zh": "青岛食品11月5日快速回调"
-    },
-    {
-     "title": "黑牡丹11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923406234.html",
-     "pubDate": "Thu, 05 Nov 2026 13:56:47 +0800",
-     "summary": "以下是 黑牡丹 在北京时间11月5日13:56分盘口异动快照： 11月5日， 黑牡丹 盘中涨幅达5%，截至13点56分，报6.68元，成交6302.38万元，换手率0.94%。 分笔 13:56:41 6.68 419↑ 13:56:38 6.67 10↑ 13:56:17 6.66 1↓ 13:56:11 6.66 38↑ 13:56:08 6.66 42↑ 13:56:05 6.66 29↑ 13:56:02 6.65 65↓ 13:55:59 6.65 98↓ 13:55:56 6.66 366↑ 13:55:47 6.65 2↓ 报价 卖五 6.72 10 卖四 6.71 24 卖三 ",
-     "source": "东方财富股票",
-     "zh": "黑牡丹11月5日盘中涨幅达5%"
-    },
-    {
-     "title": "纽威股份11月5日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923406063.html",
-     "pubDate": "Thu, 05 Nov 2026 13:56:19 +0800",
-     "summary": "以下是 纽威股份 在北京时间11月5日13:56分盘口异动快照： 11月5日13点56分， 纽威股份 盘中打开涨停，现报39.24元，成交5.74亿元，换手率1.95%。该股之前于13点50分涨停。 分笔 13:56:13 39.24 9660↓ 13:56:07 39.39 11↓ 13:56:04 39.39 1↓ 13:56:01 39.39 18↓ 13:55:58 39.39 4↓ 13:55:55 39.39 29↓ 13:55:49 39.39 46↓ 13:55:46 39.39 34↓ 13:55:43 39.39 15↓ 13:55:40 39.39 4↓ 报价 卖五 39",
-     "source": "东方财富股票",
-     "zh": "纽威股份11月5日打开涨停"
-    },
-    {
-     "title": "东百集团11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923405993.html",
-     "pubDate": "Thu, 05 Nov 2026 13:56:09 +0800",
-     "summary": "以下是 东百集团 在北京时间11月5日13:55分盘口异动快照： 11月5日， 东百集团 盘中涨幅达5%，截至13点55分，报9.16元，成交6.49亿元，换手率8.38%。 分笔 13:55:58 9.16 190↑ 13:55:55 9.14 1686↓ 13:55:52 9.15 755↑ 13:55:49 9.14 1148↑ 13:55:46 9.14 340↑ 13:55:43 9.14 609↑ 13:55:40 9.13 1770↑ 13:55:37 9.12 1500↓ 13:55:34 9.13 424↑ 13:55:31 9.12 650↑ 报价 卖五 9.2 2812 ",
-     "source": "东方财富股票",
-     "zh": "东百集团11月5日盘中涨幅达5%"
-    },
-    {
-     "title": "新华百货11月5日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923405893.html",
-     "pubDate": "Thu, 05 Nov 2026 13:56:09 +0800",
-     "summary": "以下是 新华百货 在北京时间11月5日13:56分盘口异动快照： 11月5日， 新华百货 盘中快速上涨，5分钟内涨幅超过2%，截至13点56分，报12.05元，成交3.15亿元，换手率8.44%。 分笔 13:56:01 12.05 340↑ 13:55:58 12.01 956↑ 13:55:55 12.00 1755↑ 13:55:52 11.98 242↑ 13:55:49 11.97 182↑ 13:55:46 11.96 386↑ 13:55:43 11.96 214↑ 13:55:40 11.94 267↑ 13:55:37 11.94 252↓ 13:55:34 11.96 88",
-     "source": "东方财富股票",
-     "zh": "新华百货11月5日快速上涨"
-    },
-    {
-     "title": "ST信通11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923405737.html",
-     "pubDate": "Thu, 05 Nov 2026 13:56:00 +0800",
-     "summary": "以下是 ST信通 在北京时间11月5日13:55分盘口异动快照： 11月5日， ST信通 盘中涨幅达5%，截至13点55分，报5.72元，成交2300.94万元，换手率0.73%。 分笔 13:55:58 5.72 472↑ 13:55:55 5.70 2638↑ 13:55:52 5.66 1105↑ 13:55:04 5.64 1↓ 13:54:46 5.64 3↓ 13:53:16 5.65 10↑ 13:52:10 5.64 23↑ 13:51:04 5.63 50↓ 13:49:58 5.64 2↑ 13:49:49 5.63 3↓ 报价 卖五 5.77 104 卖四 5.76 21",
-     "source": "东方财富股票",
-     "zh": "ST信通11月5日盘中涨幅达5%"
+     "title": "固态电池迎密集催化！2027年或成量产元年 多股获融资客抢筹(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611053923402138.html",
+     "pubDate": "Thu, 05 Nov 2026 13:50:18 +0800",
+     "summary": "锂 电龙头业绩会密集释放 固态电池 信号， 宁德时代 称 2027年有望小批量生产全 固态电池 。机构认为，2027年有望成为 固态电池 量产元年。 锂 电龙头业绩会释放信号 固态 电池 中试提速 近日， 锂 电企业在三季报业绩会上密集释放固态 电池 产业化信号。 宁德时代 表示，公司在全固态 电池 上持续坚定投入，2027年有望实现小批量生产。 材料端， 天赐材料 已建成百吨级硫化锂及固态电解质中试产线，目前产线调试工作已基本完成，小批量中试样品已向头部客户送样开展测试验证； 容百科技 全固态电池正极材料持续向海内外重点客户交付，进入客户全固态电池中试验证阶段。 政策端顶层设计同步落定。9月",
+     "source": "东方财富资讯",
+     "zh": "固态电池迎密集催化！2027年或成量产元年 多股获融资客抢筹(名单)"
     },
     {
      "title": "AI交易松动，中国资产迎来机会！摩根大通也看好A股：还有10%-15%反弹空间",
@@ -2383,6 +2391,14 @@
      "summary": "彭骞提议公司以自有资金或自筹资金通过深圳证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A股）股票。",
      "source": "经济观察网",
      "zh": "精测电子实控人、董事长彭骞提议1亿至2亿元回购公司股份"
+    },
+    {
+     "title": "鲲鹏支付大面积交易未到账 全国多地用户前往重庆总部追讨",
+     "link": "http://www.eeo.com.cn/2026/1105/1084863.shtml",
+     "pubDate": "Thu, 05 Nov 2026 13:44:00 +0800",
+     "summary": "2026年11月4日，来自全国多地用户，前往位于重庆市两江新区中瑞产业园的重庆鲲鹏支付服务有限公司（下称“鲲鹏支付”）总部，追讨交易成功但未到账的钱款。",
+     "source": "经济观察网",
+     "zh": "鲲鹏支付大面积交易未到账 全国多地用户前往重庆总部追讨"
     },
     {
      "title": "A股午后回落，沪指转跌，存储、光模块回吐涨幅，光伏电池集体爆发，恒科指暴涨4%，科网股全线攀升",
@@ -2471,22 +2487,6 @@
      "summary": "继11月4日大涨逾3%收复4000美元后， 黄金 多头乘胜追击。今日早盘，伦敦现货 黄金 价格再度直线拉升，最高触及4141.51美元/盎司，连续收复4100美元整数关，日内涨幅一度超1.6%。不过，在通胀以及加息预期明确回落前，机构机构仍将反弹行情按“修复”而非“反转”看待。 就在上周，金价围绕4000美元关口反复拉锯后加速下挫，10月30日单日接连失守4000、3900美元两道关口，伦敦金现收报3875.19美元/盎司，创2025年10月以来新低。 图：伦敦金现价格下半年走势 浙商银行 FICC团队指出，10月30日金价几乎以全日最低价收盘、接连跌破6月和10月两个前低，“这不是一次普通的",
      "source": "东方财富资讯",
      "zh": "金价连收4000、4100美元两道大关 为何仅被视作“修复”？机构：加息预期尚未回落"
-    },
-    {
-     "title": "轮胎行业遇成本大考 利润去哪了？",
-     "link": "http://www.eeo.com.cn/2026/1105/1084712.shtml",
-     "pubDate": "Thu, 05 Nov 2026 12:22:12 +0800",
-     "summary": "截至10月31日晚，A股10家轮胎上市公司三季报密集披露完毕。财务数据呈现出显著的结构性特征：前三季度，9家轮胎上市公司营收实现正增长，但在第三季度，利润普遍承压。",
-     "source": "经济观察网",
-     "zh": "轮胎行业遇成本大考 利润去哪了？"
-    },
-    {
-     "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制",
-     "link": "http://finance.eastmoney.com/news/1344,202611053923339644.html",
-     "pubDate": "Thu, 05 Nov 2026 12:22:09 +0800",
-     "summary": "十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。会议听取了中国人民 银行 行长潘功胜受国务院委托作的关于金融工作情况的报告。全国人大网11月5日发布了《国务院关于金融工作情况的报告——2026年11月3日在十四届全国人民代表大会常务委员会第二十五次会议上》。 报告称，实施好支持资本市场的货币政策工具，支持中央汇金公司发挥类平准基金作用，拓宽中长期资金来源、渠道和入市方式，巩固完善资本市场稳市机制；维护股票、债券、外汇等金融市场平稳运行。 关于下一步工作考虑，报告明确，继续实施好适度宽松的货币政策，为经济持续向新向优向好发展营造适宜的货币金融环境。 综合 运用多种工",
-     "source": "东方财富资讯",
-     "zh": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用 巩固完善资本市场稳市机制"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 10:46:26",
+ "generated_at": "2026/11/5 10:51:50",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,38 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+     "link": "https://www.qbitai.com/2026/11/507696.html",
+     "pubDate": "Thu, 05 Nov 2026 02:01:51 +0000",
+     "summary": "Data + AI 技术实践巡展 · 上海站",
+     "source": "量子位",
+     "zh": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！"
+    },
+    {
+     "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+     "link": "https://www.qbitai.com/2026/11/507707.html",
+     "pubDate": "Thu, 05 Nov 2026 01:59:37 +0000",
+     "summary": "最快6秒出图",
+     "source": "量子位",
+     "zh": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了"
+    },
+    {
+     "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+     "link": "https://www.qbitai.com/2026/11/507697.html",
+     "pubDate": "Thu, 05 Nov 2026 01:54:44 +0000",
+     "summary": "被轰成筛子了…",
+     "source": "量子位",
+     "zh": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的"
+    },
+    {
+     "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+     "link": "https://www.qbitai.com/2026/11/507688.html",
+     "pubDate": "Thu, 05 Nov 2026 01:42:43 +0000",
+     "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+     "source": "量子位",
+     "zh": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》"
+    },
     {
      "title": "Apple is reportedly cutting budgets for its internal AI usage",
      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
@@ -178,14 +210,6 @@ window.INDUSTRY_DATA = {
      "zh": "又一千亿AI独角兽诞生！英伟达投的AI推理创企获87亿新融资"
     },
     {
-     "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
-     "link": "https://www.qbitai.com/2026/11/507586.html",
-     "pubDate": "Wed, 04 Nov 2026 10:08:38 +0000",
-     "summary": "仅激活3B参数，十项基准全线提升！",
-     "source": "量子位",
-     "zh": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型"
-    },
-    {
      "title": "全球唯二，百度抢先交卷！首个物理AI世界模型来了",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652740261&idx=1&sn=3ae30a3d5d9466d8bfdcb5bd4820a9b9",
      "pubDate": "Wed, 04 Nov 2026 18:03:00 +0800",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月4日消息，今天凌晨，Anthropic 开源大模型可证明推理系统FlashProve，详细技术报告于11月2日发布 。服务商可通过该系统为模型回答生成密码学证明，用户无需获取模型权重或自行运行大模型，就能在CPU上核验输出是否符合指定模型的计算结果。 模型调用API的机制类似黑箱，发送提示词后，用户仅能查看生成的Token，但无法验证为自己提供服务的是否为所选模型。此次开源的FlashProve旨在解决这一问题， 上可抓“模型掉包”，下可验“回答篡改” ，还可为监管机构提供监测服务商和企业AI使用合规性的渠道 。 该模型一经发出，X上的外网",
      "source": "智东西",
      "zh": "17秒验明AI“真身”！Anthropic开源可证明推理系统，能抓模型调包"
-    },
-    {
-     "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
-     "link": "https://www.qbitai.com/2026/11/507574.html",
-     "pubDate": "Wed, 04 Nov 2026 08:59:57 +0000",
-     "summary": "一场别开生面的具身智能科技盛宴",
-     "source": "量子位",
-     "zh": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场"
-    },
-    {
-     "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
-     "link": "https://www.qbitai.com/2026/11/507567.html",
-     "pubDate": "Wed, 04 Nov 2026 08:49:12 +0000",
-     "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
-     "source": "量子位",
-     "zh": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上"
-    },
-    {
-     "title": "A thousand fewer paths to root",
-     "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-     "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
-     "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-     "source": "OpenAI",
-     "zh": "A thousand fewer paths to root"
     }
    ]
   },
@@ -946,12 +946,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘Every solar plant can be a data center’"
     },
     {
-     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
+     "title": "Trump ban on foreign grid components sparks industry concern over cost, practicality",
      "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
      "pubDate": "Wed, 04 Nov 2026 11:41:26 -0500",
-     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid, but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
+     "summary": "Stakeholders applauded the order&rsquo;s intent to secure the grid but said restrictions based on geography, rather than function and capability, miss the point and threaten investment.",
      "source": "Utility Dive",
-     "zh": "Trump ban on foreign grid components sparks industry concern over practicality, cost"
+     "zh": "Trump ban on foreign grid components sparks industry concern over cost, practicality"
     },
     {
      "title": "US Midterms: China’s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "“超人”卡维尔自己玩“CGI 剃胡子”梗，借助谷歌 Googlebook 笔记本 AI 开发游戏《胡子协议》",
+     "link": "https://www.ithome.com/1/022/550.htm",
+     "pubDate": "Thu, 05 Nov 2026 02:49:13 GMT",
+     "summary": "IT之家 11 月 5 日消息，科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称谷歌携手演员亨利 · 卡维尔（Henry Cavill）合作， 官宣一款直接在 Googlebook 上制作的 16 位横版卷轴游戏《胡子协议》（Mustache Protocol）。 IT之家曾于 10 月 1 日报道，卡维尔与谷歌（Google）达成合作，使用谷歌新款笔记本电脑 Googlebook 开发一款电子游戏，而官方昨日正式公布该游戏的名称和风格。 卡维尔于 1983 年 5 月在英国出生，2013 年主演的《超人：钢铁之躯》上映，成为首位在银幕上塑造这一英雄形象的",
+     "source": "IT之家",
+     "zh": "“超人”卡维尔自己玩“CGI 剃胡子”梗，借助谷歌 Googlebook 笔记本 AI 开发游戏《胡子协议》"
+    },
+    {
      "title": "洛斐推出小顺青春版 2 机械键盘：矮轴三模，84 / 100 版本",
      "link": "https://www.ithome.com/1/022/548.htm",
      "pubDate": "Thu, 05 Nov 2026 02:42:52 GMT",
@@ -1832,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "从1995年的一颗硬盘芯片，到2026年买下激光器公司，三十年，四次身份，每一次蜕变都是买来的。本文来自微信公众号： 大G看科技 ，作者：大G看科技，题图来自：视觉中国 2026年11月2日，Marvell宣布以1150亿美元收购激光器公司Lumentum，把光的源头握进了自己手里。 这是它三十年里最大的一笔收购，也是第四次身份转换。三十年前它做硬盘芯片，此后做过消费电子，做过数据中心，如今想成为一家光电一体的连接公司。 今天这个Marvell，和最初那个Marvell已经不是同一家。产品目录、客户名单、收入结构、毛利率、竞争对手，全都换过。它不是靠一次转型完成的，而是靠三十年里十几笔收购，一",
      "source": "虎嗅",
      "zh": "Marvell： 把自己买成了另一家公司"
-    },
-    {
-     "title": "迈从 V9 Turbo+ 头戴耳机新增“烟紫”配色，11 月 6 日开启预订",
-     "link": "https://www.ithome.com/1/022/540.htm",
-     "pubDate": "Thu, 05 Nov 2026 02:12:38 GMT",
-     "summary": "IT之家 11 月 5 日消息，迈从今日官宣 V9 Turbo+ 赛事级电竞头戴耳机新色「烟紫」即将上市，11 月 6 日 10:00 开启预订。 迈从 V9 Turbo+ 耳机于今年 1 月发布，首发价 339 元。该产品搭载 60mm 动圈单元，配备可插拔 360° 全向 AI 拾音降噪麦克风， 标配 RGB 磁吸无线充电底座 ，耳机采用 90° 旋翼骨轴设计，配备铝合金头梁，支臂可 10 档调节，原装冰感蛋白皮耳罩、标配赠送天然微孔透气耳罩。 该耳机搭载 TOPSPEED WIRELESS 无线技术，支持 USB-C、2.4GHz、蓝牙连接，内置 2000mAh 电池。其通过 M HUB",
-     "source": "IT之家",
-     "zh": "迈从 V9 Turbo+ 头戴耳机新增“烟紫”配色，11 月 6 日开启预订"
     },
     {
      "title": "AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)",
@@ -2242,100 +2242,108 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "恒立液压11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923282768.html",
-     "pubDate": "Thu, 05 Nov 2026 10:38:03 +0800",
-     "summary": "以下是 恒立液压 在北京时间11月5日10:37分盘口异动快照： 11月5日， 恒立液压 盘中涨幅达5%，截至10点37分，报92.14元，成交2.96亿元，换手率0.24%。 分笔 10:37:54 92.14 901↑ 10:37:51 91.79 18↑ 10:37:48 91.78 72↓ 10:37:45 91.81 153↑ 10:37:42 91.75 42↑ 10:37:39 91.63 64↑ 10:37:36 91.61 39↓ 10:37:33 91.64 29↑ 10:37:30 91.65 6↑ 10:37:27 91.65 95↑ 报价 卖五 92.23 10 卖四",
-     "source": "东方财富股票",
-     "zh": "恒立液压11月5日盘中涨幅达5%"
-    },
-    {
-     "title": "11月5日端到端供应链服务板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923282635.html",
-     "pubDate": "Thu, 05 Nov 2026 10:38:03 +0800",
-     "summary": "&emsp;&emsp;11月5日10点37分， 端到端供应链服务 板块指数报1490.282点，涨幅达2%，成交3.73亿元，换手率1.69%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 华鹏飞 报4.82元，涨4.10%； 海晨股份 报12.00元，涨3.00%； 普路通 报6.00元，涨2.04%； 飞力达 报5.41元，涨1.69%； 新宁物流 报3.74元，涨1.36%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "11月5日端到端供应链服务板块涨幅达2%"
-    },
-    {
-     "title": "Denison Mines Non-GAAP EPS of -C$0.03 misses by C$0.01, revenue of C$1.05M",
-     "link": "https://seekingalpha.com/news/4666053-denison-mines-non-gaap-eps-of--c003-misses-by-c001-revenue-of-c105m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:38:02 -0500",
+     "title": "AudioCodes targets $50M VoiceAI revenue by 2028 while reiterating 2026 EPS of $0.60 to $0.75",
+     "link": "https://seekingalpha.com/news/4666072-audiocodes-targets-50m-voiceai-revenue-by-2028-while-reiterating-2026-eps-of-0_60-to-0_75?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:45:28 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Denison Mines Non-GAAP EPS of -C$0.03 misses by C$0.01, revenue of C$1.05M"
+     "zh": "AudioCodes targets $50M VoiceAI revenue by 2028 while reiterating 2026 EPS of $0.60 to $0.75"
     },
     {
-     "title": "NorthWestern Non-GAAP EPS of $0.58 misses by $0.15, revenue of $423.8M beats by $11.35M",
-     "link": "https://seekingalpha.com/news/4666058-northwestern-non-gaap-eps-of-0_58-misses-by-0_15-revenue-of-423_8m-beats-by-11_35m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:37:40 -0500",
+     "title": "Caris targets $1.04B-$1.05B 2026 revenue as it guides to ~65,000 Q4 clinical cases",
+     "link": "https://seekingalpha.com/news/4666071-caris-targets-1_04b-1_05b-2026-revenue-as-it-guides-to-65000-q4-clinical-cases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:45:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "NorthWestern Non-GAAP EPS of $0.58 misses by $0.15, revenue of $423.8M beats by $11.35M"
+     "zh": "Caris targets $1.04B-$1.05B 2026 revenue as it guides to ~65,000 Q4 clinical cases"
     },
     {
-     "title": "碳酸锂主力合约日内涨幅扩大至4%",
-     "link": "http://finance.eastmoney.com/news/11440,202611053923282262.html",
-     "pubDate": "Thu, 05 Nov 2026 10:37:40 +0800",
-     "summary": "碳酸 锂 主力合约日内涨幅扩大至4%，现报91920元/吨。",
+     "title": "Universal declares $0.83 dividend",
+     "link": "https://seekingalpha.com/news/4666070-universal-declares-0_83-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:45:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Universal declares $0.83 dividend"
+    },
+    {
+     "title": "Everest Group declares $2.00 dividend",
+     "link": "https://seekingalpha.com/news/4666069-everest-group-declares-2_00-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:44:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Everest Group declares $2.00 dividend"
+    },
+    {
+     "title": "Clarus declares $0.025 dividend",
+     "link": "https://seekingalpha.com/news/4666068-clarus-declares-0_025-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:44:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Clarus declares $0.025 dividend"
+    },
+    {
+     "title": "Morguard declares CAD 0.20 dividend",
+     "link": "https://seekingalpha.com/news/4666067-morguard-declares-cad-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 21:43:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Morguard declares CAD 0.20 dividend"
+    },
+    {
+     "title": "北京国管与香港投资推广署签署合作备忘录",
+     "link": "http://finance.eastmoney.com/news/1350,202611053923290267.html",
+     "pubDate": "Thu, 05 Nov 2026 10:41:17 +0800",
+     "summary": "11月4日，北京国管与香港特别行政区政府投资推广署在第29届北京·香港经济合作研讨洽谈会开幕式上签署合作备忘录。根据合作备忘录，双方将围绕京港双向交流协作、企业跨境投资布局、国际化经营发展等领域开展全方位合作，依托香港国际化平台优势，支持北京优质企业立足香港、布局全球，促进京港产业、资本等要素双向流动。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "碳酸锂主力合约日内涨幅扩大至4%"
+     "zh": "北京国管与香港投资推广署签署合作备忘录"
     },
     {
-     "title": "洪都航空11月5日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923282022.html",
-     "pubDate": "Thu, 05 Nov 2026 10:37:27 +0800",
-     "summary": "以下是 洪都航空 在北京时间11月5日10:37分盘口异动快照： 11月5日， 洪都航空 盘中涨幅达5%，截至10点37分，报36.02元，成交2.54亿元，换手率1.02%。 分笔 10:37:20 36.02 1814↑ 10:37:17 35.88 269↑ 10:37:14 35.88 207↑ 10:37:11 35.88 60↑ 10:37:08 35.85 150↑ 10:37:05 35.80 21↑ 10:37:02 35.83 263↑ 10:36:59 35.77 256↓ 10:36:56 35.81 226↑ 10:36:53 35.78 75↑ 报价 卖五 36.1",
+     "title": "11月5日水泥制品板块涨幅达3%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923287710.html",
+     "pubDate": "Thu, 05 Nov 2026 10:41:12 +0800",
+     "summary": "&emsp;&emsp;11月5日10点41分， 水泥 制品板块指数报1882.886点，涨幅达3%，成交2.91亿元，换手率1.20%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 海南瑞泽 报3.30元，涨8.91%； 西部建设 报4.68元，涨4.23%； 苏博特 报9.41元，涨2.95%； 四方新材 报10.82元，涨2.17%； 国统股份 报10.21元，涨2.10%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "洪都航空11月5日盘中涨幅达5%"
+     "zh": "11月5日水泥制品板块涨幅达3%"
     },
     {
-     "title": "久之洋11月5日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923281960.html",
-     "pubDate": "Thu, 05 Nov 2026 10:37:27 +0800",
-     "summary": "以下是 久之洋 在北京时间11月5日10:37分盘口异动快照： 11月5日， 久之洋 盘中快速反弹，5分钟内涨幅超过2%，截至10点37分，报34.1元，成交2.35亿元，换手率2.81%。 分笔 10:37:18 34.10 142↑ 10:37:15 34.06 90↓ 10:37:12 34.06 103↓ 10:37:09 34.06 53↓ 10:37:06 34.06 152↓ 10:37:03 34.06 100↓ 10:37:00 34.10 227↓ 10:36:57 34.14 148↑ 10:36:54 34.14 287↑ 10:36:51 34.14 527↓ 报价 ",
+     "title": "锂矿持续走高 融捷股份涨停",
+     "link": "http://finance.eastmoney.com/news/1353,202611053923287881.html",
+     "pubDate": "Thu, 05 Nov 2026 10:40:59 +0800",
+     "summary": "锂 矿板块持续走高， 融捷股份 涨停， 永杉锂业 、 盛新锂能 、 赣锋锂业 、 天齐锂业 、 永兴材料 等纷纷走高。",
      "source": "东方财富股票",
-     "zh": "久之洋11月5日快速反弹"
+     "zh": "锂矿持续走高 融捷股份涨停"
     },
     {
-     "title": "奕帆传动11月5日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611053923281869.html",
-     "pubDate": "Thu, 05 Nov 2026 10:37:17 +0800",
-     "summary": "以下是 奕帆传动 在北京时间11月5日10:37分盘口异动快照： 11月5日， 奕帆传动 盘中快速上涨，5分钟内涨幅超过2%，截至10点37分，报29.6元，成交1.09亿元，换手率5.69%。 分笔 10:37:09 29.60 47↑ 10:37:06 29.57 150↑ 10:37:03 29.48 1↓ 10:37:00 29.48 128↑ 10:36:57 29.44 4↓ 10:36:54 29.46 16↑ 10:36:48 29.41 34↑ 10:36:45 29.40 27↑ 10:36:42 29.41 27↓ 10:36:39 29.48 128↑ 报价 卖五 29",
+     "title": "维宏股份11月5日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923287695.html",
+     "pubDate": "Thu, 05 Nov 2026 10:40:57 +0800",
+     "summary": "以下是 维宏股份 在北京时间11月5日10:40分盘口异动快照： 11月5日， 维宏股份 盘中快速回调，5分钟内跌幅超过2%，截至10点40分，报47.33元，成交3.47亿元，换手率9.18%。 分笔 10:40:54 47.33 17↓ 10:40:51 47.38 2↑ 10:40:48 47.43 5↑ 10:40:45 47.41 9↓ 10:40:42 47.45 13↓ 10:40:39 47.49 32↓ 10:40:36 47.55 6↑ 10:40:33 47.50 14↓ 10:40:30 47.55 25↑ 10:40:27 47.49 30↓ 报价 卖五 47.47 ",
      "source": "东方财富股票",
-     "zh": "奕帆传动11月5日快速上涨"
+     "zh": "维宏股份11月5日快速回调"
     },
     {
-     "title": "Blue Owl Technology Finance Corp. declares $0.35 dividend",
-     "link": "https://seekingalpha.com/news/4666059-blue-owl-technology-finance-corp-declares-0_35-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:37:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Blue Owl Technology Finance Corp. declares $0.35 dividend"
+     "title": "邦基科技11月5日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923287590.html",
+     "pubDate": "Thu, 05 Nov 2026 10:40:57 +0800",
+     "summary": "以下是 邦基科技 在北京时间11月5日10:40分盘口异动快照： 11月5日， 邦基科技 盘中快速上涨，5分钟内涨幅超过2%，截至10点40分，报18.85元，成交5205.12万元，换手率1.64%。 分笔 10:40:47 18.85 23↑ 10:40:41 18.84 114↑ 10:40:38 18.83 19↑ 10:40:35 18.81 18↓ 10:40:32 18.81 873↑ 10:40:29 18.79 10↑ 10:40:26 18.79 13↑ 10:40:23 18.79 64↑ 10:40:20 18.79 7↑ 10:40:17 18.79 10↑ 报价 卖",
+     "source": "东方财富股票",
+     "zh": "邦基科技11月5日快速上涨"
     },
     {
-     "title": "Angi expects $40M-$50M opex savings plus $10M lower CapEx as it targets meaningfully higher 2027 EBITDA less CapEx",
-     "link": "https://seekingalpha.com/news/4666057-angi-expects-40m-50m-opex-savings-plus-10m-lower-capex-as-it-targets-meaningfully-higher-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:36:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Angi expects $40M-$50M opex savings plus $10M lower CapEx as it targets meaningfully higher 2027 EBITDA less CapEx"
+     "title": "丰元股份11月5日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611053923287444.html",
+     "pubDate": "Thu, 05 Nov 2026 10:40:57 +0800",
+     "summary": "以下是 丰元股份 在北京时间11月5日10:40分盘口异动快照： 11月5日， 丰元股份 盘中涨幅达5%，截至10点40分，报14.84元，成交3.45亿元，换手率8.52%。 分笔 10:40:51 14.84 2607↑ 10:40:48 14.75 122↑ 10:40:45 14.75 214↑ 10:40:42 14.74 122↑ 10:40:39 14.73 75↓ 10:40:36 14.74 53↑ 10:40:33 14.73 63↓ 10:40:30 14.73 90↑ 10:40:27 14.72 9↓ 10:40:24 14.72 3↓ 报价 卖五 14.89 567",
+     "source": "东方财富股票",
+     "zh": "丰元股份11月5日盘中涨幅达5%"
     },
     {
-     "title": "Gold Royalty Non-GAAP EPS of $0.02 in-line, revenue of $10.2M beats by $2.7M",
-     "link": "https://seekingalpha.com/news/4666056-gold-royalty-non-gaap-eps-of-0_02-in-line-revenue-of-10_2m-beats-by-2_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:35:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold Royalty Non-GAAP EPS of $0.02 in-line, revenue of $10.2M beats by $2.7M"
-    },
-    {
-     "title": "Neuronetics outlines $160M-$164M 2026 revenue outlook while targeting limited to no net cash utilization in H2",
-     "link": "https://seekingalpha.com/news/4666055-neuronetics-outlines-160m-164m-2026-revenue-outlook-while-targeting-limited-to-no-net-cash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 21:35:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Neuronetics outlines $160M-$164M 2026 revenue outlook while targeting limited to no net cash utilization in H2"
+     "title": "在合肥持续投入四年后，大众汽车准备借中国技术翻盘",
+     "link": "http://www.eeo.com.cn/2026/1105/1084551.shtml",
+     "pubDate": "Thu, 05 Nov 2026 10:38:04 +0800",
+     "summary": "从时间线来看，大众汽车集团过去一周密集释放的信息，是一场“精心安排”的全球战略转型发布，是让中国研发的技术方案产生规模效应，继而提升整个集团的电动化转型回报率。",
+     "source": "经济观察网",
+     "zh": "在合肥持续投入四年后，大众汽车准备借中国技术翻盘"
     },
     {
      "title": "油价雪上加霜！停战预期之外，全球原油过剩压力也来了",
@@ -2386,6 +2394,14 @@ window.INDUSTRY_DATA = {
      "zh": "A股低开高走，创业板跌2%后拉升转涨1%，光伏、新能源电池爆发，油气股大跌，恒科指暴涨4%，科网股大涨"
     },
     {
+     "title": "不光是超市冷冻柜！法国血库也被黑客攻击了",
+     "link": "http://finance.eastmoney.com/news/1344,202611053923036113.html",
+     "pubDate": "Thu, 05 Nov 2026 09:49:57 +0800",
+     "summary": "法国血液中心(EFS)周三证实，该机构部分储藏血液的冷库周一受到了近期针对欧洲制冷系统的 网络安全 攻击波的影响。 该机构表示，虽然其并非此次攻击的直接目标，但由外部供应商运营、存放法国血液中心 血液制品 的冷藏设备在其三个站点均遭到破坏，黑客将设备温度调高。 “具体来说，温度和除霜阈值被设置到了过高的水平，”法国血液中心在一份声明中表示，“这些位于EFS制备和分发网点的冷藏设备，用于在 血液制品 送达医疗机构之前进行储存，同时也存放供EFS生物样本库使用的样本。” 这些冷藏设备还储存了用于输血和药品生产的冷冻血浆。 值得庆幸的是，法国血液中心表示，其监控系统被迅速触发 ，同时根据具体情况，受",
+     "source": "东方财富资讯",
+     "zh": "不光是超市冷冻柜！法国血库也被黑客攻击了"
+    },
+    {
      "title": "1334家A股公司连续三年加码研发，钱投向了哪里？",
      "link": "http://www.eeo.com.cn/2026/1105/1084479.shtml",
      "pubDate": "Thu, 05 Nov 2026 09:49:29 +0800",
@@ -2400,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "得克萨斯州变天，美国AI建设的最大单一州刚刚拉下了“闸刀”。 2026年11月4日深夜11点17分（美东时间），美联社宣布：民主党人Gina Hinojosa以约52.8%对45.7%的得票率，击败共和党现任州长Greg Abbott，成为得克萨斯州30余年来首位民主党州长， 其核心竞选承诺是立即暂停新数据中心审批。 这一结果让华尔街措手不及。美国银行选前指出，“几乎没有证据显示股市反映了任何（得州）州长易主的概率”；预测平台Polymarket在10月中旬给Gina Hinojosa的胜选概率仅为 24.5% 。消息落地后，纳斯达克期货一度急跌，随后从低点反弹929点——而真正的问题在于：胜",
      "source": "华尔街见闻",
      "zh": "得州变“蓝”，美国45%数据中心扩张计划面临冻结"
-    },
-    {
-     "title": "国家发展改革委等五部门印发《实施全面节约战略行动方案》",
-     "link": "http://www.eeo.com.cn/2026/1105/1084465.shtml",
-     "pubDate": "Thu, 05 Nov 2026 09:44:01 +0800",
-     "summary": "11月4日，国家发展改革委等五部门印发《实施全面节约战略行动方案》。其中提出，加快布局一批稀贵金属资源循环利用项目，推进有价组分回收和高值化利用。促进废塑料、废旧纺织品等回收利用。到2030年，大宗固体废弃物年利用量达到45亿吨左右。 （来源：国家发展和改革委员会官网）",
-     "source": "经济观察网",
-     "zh": "国家发展改革委等五部门印发《实施全面节约战略行动方案》"
     },
     {
      "title": "求仁得仁？马斯克将面临民主党“秋后算账”",
@@ -2432,6 +2440,14 @@ window.INDUSTRY_DATA = {
      "summary": "11月5日，三大指数集体低开，上证指数低开1.07%，深证成指低开1.05%，创业板指低开2%。板块方面， 白银 领涨， 盛达资源 涨10.01%， 贵金属 、 黄金 等开盘涨幅居前。 个股方面，5股竞价涨停，其中 闽发铝业 4连板、 浙文影业 4连板、 永臻股份 3连板、 深中华A 2连板、 金螳螂 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责",
      "source": "东方财富资讯",
      "zh": "11月5日集合竞价：闽发铝业、浙文影业4连板"
+    },
+    {
+     "title": "五部门最新部署！资源回收迎政策东风 最新绩优股名单出炉",
+     "link": "http://finance.eastmoney.com/news/11822,202611053922840055.html",
+     "pubDate": "Thu, 05 Nov 2026 09:25:05 +0800",
+     "summary": "五部门印发《实施全面节约战略行动方案》，动力 电池 、稀 贵金属 回收获重点着墨。 五部门发文推动“新三样”等固废回收利用 11月4日，发改委、工信部、自然资源部、水利部、国管局联合印发《实施全面节约战略行动方案》。其中提出， 到2030年，我国单位国内生产总值能耗、用水量、建设用地使用面积比2025年分别降低10%左右、10%、15%，主要再生资源年循环利用量达到5.1亿吨 。 《方案》明确，加强废 钢铁 、报废机动车、废弃电器 电子 产品等“城市矿产”回收利用；大力推动“新三样”等固体废弃物回收利用，构建 新能源 汽车 动力 电池 全生命周期管理体系，完善风电、 光伏设备 退役报废管理规定",
+     "source": "东方财富资讯",
+     "zh": "五部门最新部署！资源回收迎政策东风 最新绩优股名单出炉"
     },
     {
      "title": "“蓝色浪潮”席卷国会 AI数据中心行业命运何去何从？一文读懂",
@@ -2464,22 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
      "source": "MarketWatch",
      "zh": "Qualcomm’s stock falls as twin forces pressure sales"
-    },
-    {
-     "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
-     "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
-     "pubDate": "Thu, 05 Nov 2026 01:05:00 GMT",
-     "summary": "AppLovin’s stock is popping after “clearly positive” earnings results.",
-     "source": "MarketWatch",
-     "zh": "This year’s worst-performing S&P 500 stock is finally seeing some major relief"
-    },
-    {
-     "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
-     "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 05 Nov 2026 01:03:00 GMT",
-     "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
-     "source": "MarketWatch",
-     "zh": "Figma’s stock dips as investors worry that AI momentum is coming at a high price"
     }
    ]
   },

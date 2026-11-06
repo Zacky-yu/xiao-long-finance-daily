@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/6 19:38:59",
+ "generated_at": "2026/11/6 19:53:49",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Emerson NI PXIe instruments for AI-accelerated automated testing",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 11:03:56 +0000",
+     "summary": "Emerson has announced new NI PXI express instruments featuring an AI-accelerated approach to automated test. The goal, says the company, is to make the testing process more accessible to engineering […] The post Emerson NI PXIe instruments for AI-accelerated automated testing appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Emerson NI PXIe instruments for AI-accelerated automated testing"
+    },
+    {
      "title": "WEBINAR: Porting, Analysing & Optimising AI Models onto Edge GPUs",
      "link": "https://semiwiki.com/ip/imagination-technologies/375817-webinar-porting-analysing-optimising-ai-models-onto-edge-gpus/",
      "pubDate": "Fri, 06 Nov 2026 11:00:38 +0000",
@@ -367,14 +375,6 @@
      "summary": "Arm’s Q2 revenue increased 27% YoY to $1.44 billion, representing Arm’s highest ever second quarter. The record Q2 was driven by strong licensing and other revenue of $773 million, reflecting […] The post Arm Q2 revenue up 27% YoY appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Arm Q2 revenue up 27% YoY"
-    },
-    {
-     "title": "Tenspresso bets on longer context windows",
-     "link": "https://www.electronicsweekly.com/news/business/tenspresso-bets-on-longer-context-windows-2026-11/",
-     "pubDate": "Fri, 06 Nov 2026 06:14:03 +0000",
-     "summary": "Tenspresso, a startup founded a few months ago by ex-Google AI chip engineers, is in talks to raise $50 million at a $500 million valuation, reports Bloomberg. A few weeks ago, […] The post Tenspresso bets on longer context windows appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Tenspresso bets on longer context windows"
     },
     {
      "title": "AOI agrees new credit facility providing $30m in revolving commitments and $170m in initial term loan commitments",
@@ -649,6 +649,38 @@
    "total": 5,
    "items": [
     {
+     "title": "FAW-VW ID. AURA L5 electric sedan to open pre-orders on November 16",
+     "link": "https://cnevpost.com/2026/11/06/faw-vw-id-aura-l5-pre-orders-nov-16/",
+     "pubDate": "Fri, 06 Nov 2026 11:50:50 +0000",
+     "summary": "The L5 is the second model in the ID. AURA lineup and its first all-electric sedan, expected to hit the market within this year. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "FAW-VW ID. AURA L5 electric sedan to open pre-orders on November 16"
+    },
+    {
+     "title": "Tesla will stop making the Cybertruck in 2027",
+     "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+     "pubDate": "Fri, 06 Nov 2026 11:50:10 +0000",
+     "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+     "source": "TechCrunch Transport",
+     "zh": "Tesla will stop making the Cybertruck in 2027"
+    },
+    {
+     "title": "Zoomlion says its new, 1,600 hp hybrid tractor is the world’s most powerful",
+     "link": "https://electrek.co/2026/11/06/zoomlion-says-its-new-1600-hp-hybrid-tractor-is-the-worlds-most-powerful/",
+     "pubDate": "Fri, 06 Nov 2026 11:48:09 +0000",
+     "summary": "Chinese equipment brand Zoomlion showed up to this week’s China International Agricultural Machinery Exhibition with a new ultra-high-horsepower hybrid tractor that sets a new benchmark, offering more than 1,600 hp while cutting back on both fuel and fumes. more…",
+     "source": "Electrek",
+     "zh": "Zoomlion says its new, 1,600 hp hybrid tractor is the world’s most powerful"
+    },
+    {
+     "title": "BYD’s electric hypercar hits 312 mph, first production car over 500 km/h",
+     "link": "https://electrek.co/2026/11/06/byd-yangwang-u9-xtreme-first-production-car-500-km-h/",
+     "pubDate": "Fri, 06 Nov 2026 11:40:27 +0000",
+     "summary": "BYD’s Yangwang U9 Xtreme just reached 503.17 km/h (312.66 mph) on a closed highway in Abu Dhabi, making it the first production car ever to go faster than 500 km/h. The FIA and Guinness World Records both recognized the run. It’s the all-electric hypercar’s second top-speed record in just over a yea",
+     "source": "Electrek",
+     "zh": "BYD’s electric hypercar hits 312 mph, first production car over 500 km/h"
+    },
+    {
      "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan",
      "link": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/",
      "pubDate": "Fri, 06 Nov 2026 11:33:25 +0000",
@@ -721,14 +753,6 @@
      "zh": "Nio CEO warns again on China's ever-heavier cars, says 20% more weight doubles road damage"
     },
     {
-     "title": "BYD Denza to launch new N8 SUV on November 12 with up to 1,003 km range",
-     "link": "https://cnevpost.com/2026/11/06/byd-denza-to-launch-new-n8-nov-12/",
-     "pubDate": "Fri, 06 Nov 2026 02:45:33 +0000",
-     "summary": "The new N8 is a 5-seat battery-electric SUV that opened for pre-orders on October 26. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD Denza to launch new N8 SUV on November 12 with up to 1,003 km range"
-    },
-    {
      "title": "Janus Electric secures battery supply deal for its battery-swap semi truck",
      "link": "https://electrek.co/2026/11/05/janus-electric-secures-battery-supply-deal-for-its-battery-swap-semi-truck/",
      "pubDate": "Thu, 05 Nov 2026 23:57:13 +0000",
@@ -745,14 +769,6 @@
      "zh": "E-quipment highlight: Jungheinrich launches new forklift for Asian markets"
     },
     {
-     "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
-     "link": "https://electrek.co/2026/11/05/fords-electric-pickup-selling-like-hotcakes-50-off-used/",
-     "pubDate": "Thu, 05 Nov 2026 22:17:39 +0000",
-     "summary": "Once America’s most popular electric pickup, the Ford F-150 Lightning is finding a second life on the used market. more…",
-     "source": "Electrek",
-     "zh": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used"
-    },
-    {
      "title": "Gas Prices Got You Down? This 261-MPG Volkswagen Solves That—For $140,000",
      "link": "https://insideevs.com/news/814587/volkswagen-xl1-for-sale/",
      "pubDate": "Thu, 05 Nov 2026 21:22:17 +0000",
@@ -767,14 +783,6 @@
      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
      "source": "TechCrunch Transport",
      "zh": "Serve Robotics launches new business to become the AWS for robots"
-    },
-    {
-     "title": "Kia’s EV5 spotted with an updated design and a huge new infotainment display",
-     "link": "https://electrek.co/2026/11/05/kias-ev5-spotted-with-updated-design-huge-display/",
-     "pubDate": "Thu, 05 Nov 2026 20:55:44 +0000",
-     "summary": "Kia’s Sportage-sized electric SUV, the EV5 , was spotted with a distinct new style and an overhauled interior, including a huge widescreen infotainment screen. more…",
-     "source": "Electrek",
-     "zh": "Kia’s EV5 spotted with an updated design and a huge new infotainment display"
     },
     {
      "title": "BMW Is Giving New EV Buyers $500 In Free Charging",
@@ -831,14 +839,6 @@
      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
      "source": "TechCrunch Transport",
      "zh": "Almost no one uses AI agents to book their Uber, company says"
-    },
-    {
-     "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-     "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-     "pubDate": "Wed, 04 Nov 2026 18:12:30 +0000",
-     "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-     "source": "TechCrunch Transport",
-     "zh": "Waymo confirms it’s shaking up its Uber relationship in January 2028"
     }
    ]
   },
@@ -848,6 +848,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "FTC Solar reports revenue up 26% in Q3, secures new supply agreements",
+     "link": "https://www.pv-tech.org/ftc-solar-revenue-up-26-in-q3-secures-new-supply-agreements/",
+     "pubDate": "Fri, 06 Nov 2026 11:44:45 +0000",
+     "summary": "US tracker manufacturer FTC Solar has registered revenues of US$32.8 million in the third quarter of 2026, up both sequentially (25.4%) and year-on-year (26.1%).",
+     "source": "PV Tech",
+     "zh": "FTC Solar reports revenue up 26% in Q3, secures new supply agreements"
+    },
     {
      "title": "India’s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-HPCL-Struggles-to-Secure-Oil-Tankers-as-Hormuz-Risks-Persist.html",
@@ -1079,14 +1087,6 @@
      "summary": "The offshore wind farm Revolution Wind is completely up and running — despite the Trump administration’s repeated and ongoing efforts to halt development of the $6.2 billion project. On Thursday, the Danish energy giant Ørsted said its 704-megawatt wind farm near Connecticut and Rhode Island began “",
      "source": "Canary Media",
      "zh": "A third major US offshore wind farm is now fully operational"
-    },
-    {
-     "title": "‘It’s a no-brainer’: Alfen CEO on sodium-ion BESS plans with CATL",
-     "link": "https://www.energy-storage.news/alfen-ceo-sodium-ion-bess-plans-catl/",
-     "pubDate": "Thu, 05 Nov 2026 14:42:06 +0000",
-     "summary": "We catch up with the CEO of Netherlands-headquartered system integrator Alfen to discuss its sodium-ion BESS partnership with CATL and plans for the technology in Europe.",
-     "source": "Energy Storage News",
-     "zh": "‘It’s a no-brainer’: Alfen CEO on sodium-ion BESS plans with CATL"
     }
    ]
   },
@@ -1121,12 +1121,12 @@
      "zh": "Most people haven’t heard of kratom. What is it, and who’s using it?"
     },
     {
-     "title": "Opinion: What it’s like to live with cognitively unimpaired Alzheimer’s disease",
+     "title": "Opinion: STAT+: What it’s like to live with cognitively unimpaired Alzheimer’s disease",
      "link": "https://www.statnews.com/2026/11/06/pre-clinical-alzheimers-disease-biomarkers-tests-mental-health/?utm_campaign=rss",
      "pubDate": "Fri, 06 Nov 2026 09:30:00 +0000",
      "summary": "People with cognitively unimpaired Alzheimer’s “may be asymptomatic, but they do have a disease experience,” writes Jason Karlawish.",
      "source": "STAT News",
-     "zh": "Opinion: What it’s like to live with cognitively unimpaired Alzheimer’s disease"
+     "zh": "Opinion: STAT+: What it’s like to live with cognitively unimpaired Alzheimer’s disease"
     },
     {
      "title": "Where DNA Copying Fails Can Decide How Cancer Cells Respond to PARP Inhibitors",
@@ -1761,6 +1761,46 @@
    "total": 18,
    "items": [
     {
+     "title": "吉利星愿 STAR 限定系列 Ace / Chill 上市，限时权益价 8.88 万元",
+     "link": "https://www.ithome.com/1/023/526.htm",
+     "pubDate": "Fri, 06 Nov 2026 11:50:46 GMT",
+     "summary": "IT之家 11 月 6 日现场消息，2026 吉利银河全球用户大会今晚举行，吉利星愿 STAR 限定系列 Ace 和 Chill 车型上市， 限时权益价 8.88 万元 。 新车新增电动前备箱与 EVA 机器人，同时带来更加丰富的车型阵容、车色与内饰选择，搭载千里浩瀚辅助驾驶 H3 方案，提供 30 项 + L2 级驾驶辅助功能。 IT之家在现场获悉，STAR Ace 提供无忧绿、百事橙、流光银三种车色；STAR Chill 采用奶盐米车色并搭配全新内饰。 STAR Ace 配备专属运动外观套件，涵盖运动前扰流板、运动星际尾翼、铝合金运动轮毂、STAR 专属徽标、熏黑运动车标等多项外观专属配件",
+     "source": "IT之家",
+     "zh": "吉利星愿 STAR 限定系列 Ace / Chill 上市，限时权益价 8.88 万元"
+    },
+    {
+     "title": "美智库集体研判：中期选举后，美国政策如何转向？",
+     "link": "https://www.huxiu.com/article/4903658.html?f=rss",
+     "pubDate": "Fri, 06 Nov 2026 19:46:38 +0800",
+     "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《美智库集体研判：中期选举后，美国政策如何转向？｜IPP编译》 【导读】2026年美国中期选举已基本落下帷幕。民主党在此次选举中取得压倒性胜利，重新赢得国会参众两院控制权。2027年1月新一届国会就任后，民主党将掌握国会主要委员会的主导权，并可通过财政拨款、立法、听证和调查等方式，对特朗普政府施加更大制约。与此同时，特朗普仍掌握广泛的外交与军事决策权。 未来两年，围绕伊朗战争、俄乌冲突、北约关系、全球关税、能源政策乃至人工智能监管等重大议题，白宫与国会将如何展开博弈？民主党又能在多大程度上改变特朗普政府的既定政策？ 11月4日，在",
+     "source": "虎嗅",
+     "zh": "美智库集体研判：中期选举后，美国政策如何转向？"
+    },
+    {
+     "title": "Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities (Pranshu Verma/Washington Post)",
+     "link": "https://www.techmeme.com/261106/p9#a261106p9",
+     "pubDate": "Fri, 06 Nov 2026 06:45:06 -0500",
+     "summary": "Pranshu Verma / Washington Post : Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities &nbsp; &mdash;&nbsp; Democrats are laying the groundwork to investigate some of the country's largest compa",
+     "source": "Techmeme",
+     "zh": "Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities (Pranshu Verma/Washington Post)"
+    },
+    {
+     "title": "AI猫狗爆火，全网沉迷赛博养宠？",
+     "link": "https://www.huxiu.com/article/4903651.html?f=rss",
+     "pubDate": "Fri, 06 Nov 2026 19:43:51 +0800",
+     "summary": "AI小猫征服互联网！这些撸不到的毛孩子，为什么让这届网友集体上头了？&nbsp;",
+     "source": "虎嗅",
+     "zh": "AI猫狗爆火，全网沉迷赛博养宠？"
+    },
+    {
+     "title": "烟台马拉松，万斤海鲜怎么就吃成了“抢”？",
+     "link": "https://www.huxiu.com/article/4903656.html?f=rss",
+     "pubDate": "Fri, 06 Nov 2026 19:30:52 +0800",
+     "summary": "本文来自微信公众号： 闻旅 ，作者：吴艳蕊，编辑：Sette 1 海鲜自由全靠抢？ 海鲜刚做好，还未出锅，人已经围了上来。有人伸手拿，有人掏出袋子装。 有幸出锅被装到盆中的海鲜，遭遇人群抢夺时，下面的桌子被挤到歪斜。 人群散去后只剩歪七扭八的桌子，和满地粉色的扇贝壳。 这是11月1日，2026烟台马拉松（下称“烟马”）终点附近的一幕。 此次项目设马拉松7000人和半程马拉松1.5万人，总规模达2.2万人。 赛道上的饮水、饮料和能量补给，按赛事规程安排。 开头描述的几锅海鲜是摆在完赛后的品牌互动区，由赞助商提供。 跑者冲线、做完拉伸或冰敷，去等摆渡车的路上，还能尝一口烟台海鲜。这就是网上说的烟马",
+     "source": "虎嗅",
+     "zh": "烟台马拉松，万斤海鲜怎么就吃成了“抢”？"
+    },
+    {
      "title": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)",
      "link": "https://www.techmeme.com/261106/p8#a261106p8",
      "pubDate": "Fri, 06 Nov 2026 06:30:01 -0500",
@@ -1849,36 +1889,12 @@
      "zh": "《刺客信条：英灵殿》迎来久违更新：引入“新游戏 +”，支持 PSSR 2"
     },
     {
-     "title": "机器人行业卸下租赁“缓冲垫”",
-     "link": "https://www.huxiu.com/article/4903647.html?f=rss",
-     "pubDate": "Fri, 06 Nov 2026 18:57:57 +0800",
-     "summary": "本文来自微信公众号： 机器最前线 ，作者：关注机器人租赁的 2026年，机器人租赁赛道租金下掉的速度简直触目惊心。 人形机器人日租已跌至千元档，较2025年初跌去七成以上；机器狗日租跌破500元；华强北超九成租赁档口撤场，整体租赁价从万元档一路下滑。 按常理，租金跌了一年多，投资者理应犹豫观望，但事实却并非如此。 今年初，擎天租启动城市合伙人计划，原计划招募600人，报名却涌至约两万人；京东自营也下场，将人形与四足机器人摆上自营货架。资本、巨头与加盟商纷纷选择在租金下跌后一起涌入。 而若要看清楚这门生意为什么如此矛盾，还要从供给结构说起。 01 卖租同吃“流量饭” 租金“跌跌不休”，很多人把账",
-     "source": "虎嗅",
-     "zh": "机器人行业卸下租赁“缓冲垫”"
-    },
-    {
      "title": "男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结",
      "link": "https://www.ithome.com/1/023/521.htm",
      "pubDate": "Fri, 06 Nov 2026 10:52:05 GMT",
      "summary": "IT之家 11 月 6 日消息，据 1818 黄金眼近日报道，冷先生在杭州经营一家服装工作室。9 月 18 日苹果新机首发，他抢到 3 台 iPhone 18 Pro Max（均为 1TB 版本，两个黑色、一个红色），随即挂上二手交易平台“闲鱼”。 冷先生表示，他把手机挂上闲鱼后很快有人询问，双方全程通过平台沟通，买家提出“叫人过来取，面交”。这三台苹果手机原价各 16,499 元，卖出价每台 17,250 元，每台赚了 750 元。这名买家当时说，手机是公司用，不是个人买。 冷先生透露，交易当天首先来了个小伙子取手机，称公司财务还没打钱就离开了。 后面是一名女生上来取 ， 并通过转账支付 5",
      "source": "IT之家",
      "zh": "男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结"
-    },
-    {
-     "title": "美国中期选举之后，韩国人彻底慌乱",
-     "link": "https://www.huxiu.com/article/4903646.html?f=rss",
-     "pubDate": "Fri, 06 Nov 2026 18:50:03 +0800",
-     "summary": "本文来自微信公众号： 格隆 ，作者：麦克斯，原文标题：《美国中期选举之后，韩国人彻底慌乱！》 数据支持|勾股大数据（www.gogudata.com） 美国中期选举尘埃落定，民主党“蓝色浪潮”横扫国会两院，还顺手拿下了得克萨斯、佐治亚这些AI数据中心重镇的州长宝座。 全球AI算力板块应声倒地，纳斯达克芯片股血流成河，日经跌了，A股港股也没能幸免。 但有意思的是，跌完之后，各国政府的反应完全不在一个量级上。 别市场跌了，没开紧急会议，也没有重要官员喊话。 唯独韩国，副总理兼财长开紧急市场会议，金融委委员长到场，韩央行副行长作陪，会后宣布：券商信用融资担保比例140%的维持义务，豁免三个月。 同一",
-     "source": "虎嗅",
-     "zh": "美国中期选举之后，韩国人彻底慌乱"
-    },
-    {
-     "title": "[聚乙烯的四种租金03]结构租：美国那道墙，平时不收租",
-     "link": "https://www.huxiu.com/article/4903642.html?f=rss",
-     "pubDate": "Fri, 06 Nov 2026 18:48:13 +0800",
-     "summary": "本文来自微信公众号： 奇怪的查理芒格 ，作者：开出一朵塑料花，原文标题：《[聚乙烯的四种租金03]结构租：美国那道墙，平时不收租》 全球成本最低的中东货，只占北美进口的0.21%——这道墙是真的。可墙后面并没有高价：战前，美国大买家的LLDPE合约只比出口贵1美分左右，到了战时才被拉到8到13美分。这一话讲：一道平时不收租的墙，为什么照样让美国停了新建。 §01先看那个0.21% 结构租的前提是市场被隔离。先验证这个前提是不是真的。 2025年北美进口PE 604.9万吨，其中94.8%来自北美内部——加拿大和墨西哥。 海运费解释不了这件事。中东到美湾的运费在正常年份是每吨十几到二十几美元，相",
-     "source": "虎嗅",
-     "zh": "[聚乙烯的四种租金03]结构租：美国那道墙，平时不收租"
     },
     {
      "title": "荣耀 MagicOS 系统 11 月更新内容公布，YOYO 建议与灵动胶囊新增寄件码提醒",
@@ -1913,18 +1929,10 @@
      "zh": "Greenlight Family Hub Digital Wall Calendar Black Friday Sale (2026)"
     },
     {
-     "title": "杜绝“先涨价后降价”，市场监管总局向主要平台企业发布“双十一”网络集中促销合规提示",
-     "link": "https://www.ithome.com/1/023/499.htm",
-     "pubDate": "Fri, 06 Nov 2026 10:22:55 GMT",
-     "summary": "IT之家 11 月 6 日消息，为进一步规范电商平台促销行为，维护公平有序的网络交易秩序，促进各方互利共赢，近日，市场监管总局向主要平台企业发布《“双十一”网络集中促销合规提示》。 IT之家附主要内容如下： 严格落实平台内经营者资质核验登记义务 。切实履行核验登记、信息公示等法定义务，及时清理处置经营资质被撤销、注销、吊销的平台内经营者，切实防范“幽灵店铺”“幽灵直播间”。 严格规范促销行为 。对“拼价格”“先涨价后降价”等行为组织自查，杜绝不按规定明码标价、价格欺诈等侵害消费者权益行为。优化促销规则，并在显著位置公示，接受消费者监督，保障活动规范、透明。 严格加强广告内容审核 。完善广告业务",
-     "source": "IT之家",
-     "zh": "杜绝“先涨价后降价”，市场监管总局向主要平台企业发布“双十一”网络集中促销合规提示"
-    },
-    {
      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
      "link": "https://jhr.pensoft.net/articles.php?id=9096",
      "pubDate": "Fri, 06 Nov 2026 10:21:15 +0000",
-     "summary": "Article URL: https://jhr.pensoft.net/articles.php?id=9096 Comments URL: https://news.ycombinator.com/item?id=50390525 Points: 37 # Comments: 7",
+     "summary": "Article URL: https://jhr.pensoft.net/articles.php?id=9096 Comments URL: https://news.ycombinator.com/item?id=50390525 Points: 39 # Comments: 11",
      "source": "Hacker News",
      "zh": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)"
     },
@@ -1988,17 +1996,9 @@
      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
      "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
      "pubDate": "Fri, 06 Nov 2026 09:27:12 +0000",
-     "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 104 # Comments: 63",
+     "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 133 # Comments: 81",
      "source": "Hacker News",
      "zh": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS"
-    },
-    {
-     "title": "Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction (Bloomberg)",
-     "link": "https://www.techmeme.com/261106/p6#a261106p6",
-     "pubDate": "Fri, 06 Nov 2026 04:25:00 -0500",
-     "summary": "Bloomberg : Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction &nbsp; &mdash;&nbsp; A new crop of Democratic governors-elect campaigned on putting the brakes on artificial intelligence development.&nbsp; &mdash;&nbsp;",
-     "source": "Techmeme",
-     "zh": "Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction (Bloomberg)"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+     "link": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
+     "pubDate": "Fri, 06 Nov 2026 11:40:53 +0000",
+     "summary": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi.",
+     "source": "Engadget",
+     "zh": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory"
+    },
     {
      "title": "Motorola Razr Fold gets a much-needed software update, but still no Android 17",
      "link": "https://www.androidauthority.com/motorola-razr-fold-android-17-update-delay-3732427/",
@@ -2239,14 +2247,6 @@
      "summary": "As previewed in October , Google has added “Notify when left behind” alerts for Find Hub tags and trackers on Android. more…",
      "source": "9to5Google",
      "zh": "Google Find Hub rolls out ‘Notify when left behind’ tracker alerts on Android"
-    },
-    {
-     "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
-     "link": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
-     "pubDate": "Thu, 05 Nov 2026 21:01:28 +0000",
-     "summary": "The company is going all-in on Antigravity and Google AI Studio and hopes developers will do the same.",
-     "source": "Engadget",
-     "zh": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead"
     }
    ]
   },
@@ -2257,60 +2257,108 @@
    "total": 13,
    "items": [
     {
-     "title": "欧康医药：多位股东累计减持1.28%公司股份",
-     "link": "http://stock.eastmoney.com/news/11215,202611063924972183.html",
-     "pubDate": "Fri, 06 Nov 2026 19:29:23 +0800",
-     "summary": "南财智讯11月6日电， 欧康医药 公告，多位股东减持计划已届满。在减持期间内，通过集中竞价合计减持公司股份128.67万股，占总股本的1.28%，减持价格区间为10.20元/股至12.20元/股，减持总金额为1439.39万元。减持完成后，伍丽持股2673.27万股，持股比例26.61%；刘印刚持股28.13万股，持股比例0.28%；赵仁荣持股62.11万股，持股比例0.62%；赵香持股26.49万股，持股比例0.26%；张远林持股11.61万股，持股比例0.12%；成都欧康企业管理中心（有限合伙）持股93.14万股，持股比例0.93%。本次实际减持情况与此前披露的减持计划一致。 （文章来源：",
+     "title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+     "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+     "pubDate": "Fri, 06 Nov 2026 11:47:42 GMT",
+     "summary": "The biotech company now expects 2026 revenue growth of 15% to 25%, up from its previous guidance of up to 10%.",
+     "source": "CNBC",
+     "zh": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction"
+    },
+    {
+     "title": "美股芯片股盘前涨势扩大 英伟达涨超5%",
+     "link": "http://finance.eastmoney.com/news/1345,202611063924979859.html",
+     "pubDate": "Fri, 06 Nov 2026 19:44:10 +0800",
+     "summary": "美股芯片股盘前涨势扩大，截至发稿， 英伟达 涨超5%，AMD涨超8%、 闪迪 涨超12%。",
      "source": "东方财富股票",
-     "zh": "欧康医药：多位股东累计减持1.28%公司股份"
+     "zh": "美股芯片股盘前涨势扩大 英伟达涨超5%"
     },
     {
-     "title": "Elanco Non-GAAP EPS of $0.27 beats by $0.07, revenue of $1.27B beats by $60M",
-     "link": "https://seekingalpha.com/news/4667972-elanco-non-gaap-eps-of-0_27-beats-by-0_07-revenue-of-1_27b-beats-by-60m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 06:29:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Elanco Non-GAAP EPS of $0.27 beats by $0.07, revenue of $1.27B beats by $60M"
-    },
-    {
-     "title": "Goldman Sachs BDC declares $0.32 dividend",
-     "link": "https://seekingalpha.com/news/4667971-goldman-sachs-bdc-declares-0_32-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 06:28:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Goldman Sachs BDC declares $0.32 dividend"
-    },
-    {
-     "title": "子公司涉26.54万元合同纠纷 老白干酒董事长被限高",
-     "link": "http://stock.eastmoney.com/news/11215,202611063924970026.html",
-     "pubDate": "Fri, 06 Nov 2026 19:26:08 +0800",
-     "summary": "近日，河北省新乐市人民法院向衡水老白干营销有限公司下达限制消费令。因该公司未按执行通知书指定的期间履行生效法律文书确定的给付义务，其法定代表人、河北衡水 老白干酒 业股份有限公司（简称“ 老白干酒 ”，600559.SH）董事长王占刚被同步采取限制消费措施。天眼查显示，该案执行标的为26.54万元。 根据限制消费令，新乐市人民法院于2026年10月23日立案执行石家庄腾悦广告有限公司申请执行衡水老白干营销有限公司定作合同纠纷一案。因衡水老白干营销有限公司未按执行通知书指定的期间履行给付义务，法院依照相关规定，对该公司采取限制消费措施，限制该公司及其法定代表人王占刚实施高消费及非生活和工作必需的",
+     "title": "【调研快报】西点药业接待申万宏源等17家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611063924979653.html",
+     "pubDate": "Fri, 06 Nov 2026 19:43:27 +0800",
+     "summary": "西点药业 11月6日公告称， 11月6日 接待 申万宏源 等17家机构 调研。 接待人员包括董事长、经理 张俊,副经理、董事会秘书 张银姬,财务总监 孟思。 公司就以下问题进行了回复： 本报告涉及未来计划、发展战略、市场预测等前瞻性内容,均不构成本公司对任何投资者及相关人士的实质性承诺,投资者及相关人士均应对此保持足够的风险认识,并且理解计划、预测与承诺之间的差异。 交流的主要问题及公司回复概要: 问题一:公司最近的公告称瑞香素胶囊已经获得两项发明专利,请问对公司有何影... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容",
      "source": "东方财富股票",
-     "zh": "子公司涉26.54万元合同纠纷 老白干酒董事长被限高"
+     "zh": "【调研快报】西点药业接待申万宏源等17家机构调研"
     },
     {
-     "title": "Unusual Machines targets $25M Q4 revenue as it scales manufacturing and adds 100,000 square feet",
-     "link": "https://seekingalpha.com/news/4667970-unusual-machines-targets-25m-q4-revenue-as-it-scales-manufacturing-and-adds-100000-square?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 06:25:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Unusual Machines targets $25M Q4 revenue as it scales manufacturing and adds 100,000 square feet"
-    },
-    {
-     "title": "Perma-Fix outlines Hanford capacity expansion to over 10M gallons per year by Q1 2027 as DFLAW volumes ramp",
-     "link": "https://seekingalpha.com/news/4667969-perma-fix-outlines-hanford-capacity-expansion-to-over-10m-gallons-per-year-by-q1-2027-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 06:25:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Perma-Fix outlines Hanford capacity expansion to over 10M gallons per year by Q1 2027 as DFLAW volumes ramp"
-    },
-    {
-     "title": "北京金融监管局对中信信托罚款175万元",
-     "link": "http://finance.eastmoney.com/news/1354,202611063924971895.html",
-     "pubDate": "Fri, 06 Nov 2026 19:25:11 +0800",
-     "summary": "北京金融监管局11月6日公布的行政处罚信息显示，北京金融监管局对中信 信托 罚款175万元，对相关责任人胡楠警告并罚款5万元。 行政处罚内容包括：固有业务风险分类不准确，资产质量不实；员工违规汇集资金购买 信托 产品；个别高管人员未经任职资格核准提前履职；净值化管理不到位。 中信 信托 对上证报记者表示：这次处罚主要是针对去年8月监管现场检查发现的问题，公司高度重视、诚恳接受，对于有关问题，公司立查立改，制定切实可行的整改方案，绝大多数问题已整改完成。 （文章来源：上海证券报·中国证券网）",
+     "title": "【调研快报】美芯晟接待大成基金管理有限公司等44家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611063924979328.html",
+     "pubDate": "Fri, 06 Nov 2026 19:41:28 +0800",
+     "summary": "美芯晟 11月6日公告称， 10月8日至11月6日 接待大成基金管理有限公司 等44家机构 调研。 接待人员包括董事长、总经理 程宝洪,董事会秘书 刘雁,财务总监 胡志磊。 公司就以下问题进行了回复： 1、公司第三季度营业收入及毛利率均实现同环比增长,呈现拐点趋势。公司对第四季度及 2027 年有何展望? 预计四季度公司业绩将持续向好,产品落地节奏有序推进,多款新品预计进入量产。展望 2027 年,公司将持续丰富产品矩阵,拓展应用领域,预计具身智能领域、工业控制领域、 汽车 电子 领域的多款新品实... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险",
      "source": "东方财富股票",
-     "zh": "北京金融监管局对中信信托罚款175万元"
+     "zh": "【调研快报】美芯晟接待大成基金管理有限公司等44家机构调研"
+    },
+    {
+     "title": "【调研快报】润和软件接待中金银海(香港)基金等8家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611063924978162.html",
+     "pubDate": "Fri, 06 Nov 2026 19:40:25 +0800",
+     "summary": "润和软件 11月6日公告称， 11月5日 接待中金银海(香港)基金 等8家机构 调研。 接待人员包括证券事务代表 李天蕾,证券事务高级经理 刘婕。 公司就以下问题进行了回复： 一、公司情况介绍 近年来,在技术服务业务稳定发展的基础上,公司积极开展 AI 转型,大力发展创新业务。公司依托国产化数字底座、AI 工程化落地能力和行业知识图谱积累,围绕企业级 AI 应用场景,积极打造 FDE 交付模式,构建起从底层算力优化到上层智能体开发的全链路能力,助力 AI 场景快速落... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在",
+     "source": "东方财富股票",
+     "zh": "【调研快报】润和软件接待中金银海(香港)基金等8家机构调研"
+    },
+    {
+     "title": "富国银行下调康菲石油目标价",
+     "link": "http://stock.eastmoney.com/news/1440,202611063924979464.html",
+     "pubDate": "Fri, 06 Nov 2026 19:39:43 +0800",
+     "summary": "富国银行 将 康菲石油 目标价从189美元下调至185美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "富国银行下调康菲石油目标价"
+    },
+    {
+     "title": "【调研快报】中化装备接待线上参与公司2026年第三季度业绩说明会的全体投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611063924977415.html",
+     "pubDate": "Fri, 06 Nov 2026 19:39:27 +0800",
+     "summary": "中化装备 11月6日公告称， 11月6日 接待线上参与公司2026年第三季度业绩说明会的全体投资者 调研。 接待人员包括董事长、总经理 张驰,独立董事 马战坤,董事、财务负责人 乐华,副总经理、董事会秘书 张晓峰。 公司就以下问题进行了回复： 问题1: 三季报中,益阳橡机、北化机的业绩是否并表?如果并表是包含了多少?年报是否有可能扭亏为盈? 答:尊敬的投资者您好,2026年9月,益阳橡机与北化机完成资产交割,已纳入三季报合并报表范围。益阳橡机和北化机在合并前实现的净利润为 8,182.66万元,已计入当期非经常性损益。2026年经营情况,... 点击查看PDF原文 免责声明：本文基于AI生产，",
+     "source": "东方财富股票",
+     "zh": "【调研快报】中化装备接待线上参与公司2026年第三季度业绩说明会的全体投资者调研"
+    },
+    {
+     "title": "Delek Logistics Partners beats top-line estimates; raises FY26 outlook",
+     "link": "https://seekingalpha.com/news/4667980-delek-logistics-partners-beats-top-line-estimates-raises-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 06:38:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Delek Logistics Partners beats top-line estimates; raises FY26 outlook"
+    },
+    {
+     "title": "JBG SMITH Properties FFO of $0.22 beats by $0.02, revenue of $132.4M",
+     "link": "https://seekingalpha.com/news/4667979-jbg-smith-properties-ffo-of-0_22-beats-by-0_02-revenue-of-132_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 06:36:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "JBG SMITH Properties FFO of $0.22 beats by $0.02, revenue of $132.4M"
+    },
+    {
+     "title": "Delek US beats top-line and bottom-line estimates; raises FY26 outlook",
+     "link": "https://seekingalpha.com/news/4667978-delek-us-beats-top-line-and-bottom-line-estimates-raises-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 06:36:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Delek US beats top-line and bottom-line estimates; raises FY26 outlook"
+    },
+    {
+     "title": "Essent Group GAAP EPS of $1.82 misses by $0.05, revenue of $374.18M beats by $9.89M",
+     "link": "https://seekingalpha.com/news/4667977-essent-group-gaap-eps-of-1_82-misses-by-0_05-revenue-of-374_18m-beats-by-9_89m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 06:35:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Essent Group GAAP EPS of $1.82 misses by $0.05, revenue of $374.18M beats by $9.89M"
+    },
+    {
+     "title": "Brookdale Senior Living GAAP EPS of -$0.06 misses by $0.03, revenue of $707.1M misses by $9.9M",
+     "link": "https://seekingalpha.com/news/4667975-brookdale-senior-living-gaap-eps-of-0_06-misses-by-0_03-revenue-of-707_1m-misses-by-9_9m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 06:34:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Brookdale Senior Living GAAP EPS of -$0.06 misses by $0.03, revenue of $707.1M misses by $9.9M"
+    },
+    {
+     "title": "Cresco Labs reports Q3 results",
+     "link": "https://seekingalpha.com/news/4667976-cresco-labs-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 06:34:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cresco Labs reports Q3 results"
     },
     {
      "title": "AI debt concerns grow as ING reportedly seeks buyers for $500 million of data center loans",
@@ -2321,68 +2369,12 @@
      "zh": "AI debt concerns grow as ING reportedly seeks buyers for $500 million of data center loans"
     },
     {
-     "title": "Mount Logan Capital Inc. declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4667968-mount-logan-capital-inc-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 06:24:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mount Logan Capital Inc. declares $0.03 dividend"
-    },
-    {
-     "title": "A股回购队伍再扩容，洛阳钼业拟最高20亿元回购股份",
-     "link": "http://stock.eastmoney.com/news/11134,202611063924970455.html",
-     "pubDate": "Fri, 06 Nov 2026 19:24:00 +0800",
-     "summary": "财联社11月6日讯，今日，A股上市公司回购队伍继续扩容， 洛阳钼业 、 沪电股份 、 赣锋锂业 、 联讯仪器 等多家公司披露回购方案或回购提议，其中 洛阳钼业 拟最高20亿元回购股份。 洛阳钼业 ：拟以10亿至20亿元回购A股股份 洛阳钼业 公告称，公司拟以集中竞价交易方式回购A股股份，回购金额为10亿元至20亿元，回购价格不超过22.78元/股，回购期限为董事会审议通过之日起3个月内。本次回购股份用途为维护公司价值及股东权益，资金来源为自有资金或自筹资金。按回购价格上限测算，预计回购股份数量为4389.8万股至8779.6万股，占总股本的0.21%至0.41%。 沪电股份 ：董事长提议5亿至",
-     "source": "东方财富股票",
-     "zh": "A股回购队伍再扩容，洛阳钼业拟最高20亿元回购股份"
-    },
-    {
-     "title": "Pembina Pipeline declares $0.735 dividend",
-     "link": "https://seekingalpha.com/news/4667967-pembina-pipeline-declares-0_735-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 06:23:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pembina Pipeline declares $0.735 dividend"
-    },
-    {
-     "title": "华源控股：截至2026年11月5日公司累计回购股份444.93万股",
-     "link": "http://stock.eastmoney.com/news/11215,202611063924969775.html",
-     "pubDate": "Fri, 06 Nov 2026 19:23:24 +0800",
-     "summary": "南财智讯11月6日电， 华源控股 公告，截至2026年11月5日，公司通过回购专用证券账户以集中竞价交易方式回购股份444.93万股，回购股数占公司目前总股本的1.34%，最高成交价为26.50元/股，最低成交价为16.29元/股，已使用资金总额为9858.22万元（不含交易费用）。本次回购股份资金来源为公司自有资金及自筹资金，回购价格未超过回购方案中拟定的价格上限40.00元/股。本次回购股份的用途为用于员工持股计划或者 股权激励 。公司后续会根据市场情况在回购期限内继续实施本次回购方案。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "华源控股：截至2026年11月5日公司累计回购股份444.93万股"
-    },
-    {
-     "title": "天溯计量：随着产能释放和规模效应显现，检测业务毛利率存在改善空间",
-     "link": "http://stock.eastmoney.com/news/11215,202611063924969454.html",
-     "pubDate": "Fri, 06 Nov 2026 19:23:24 +0800",
-     "summary": "南财智讯11月6日电， 天溯计量 在投资者关系活动中表示，公司检测业务客户同时覆盖动力 电池 和储能 电池 企业及 新能源 车企。2026年上半年，公司 检测服务 毛利率约33.95%，较计量服务低约21个百分点，主要原因是检测业务仍处于实验室投入、产能爬坡和市场开拓阶段。公司产能端已投建六大检测基地，叠加 电池 安全强制性国家标准实施，随着产能释放和规模效应显现，检测业务毛利率存在改善空间。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "天溯计量：随着产能释放和规模效应显现，检测业务毛利率存在改善空间"
-    },
-    {
      "title": "旗舰配置下沉，车企争抢家庭SUV市场",
      "link": "https://wallstreetcn.com/articles/3785384",
      "pubDate": "Fri, 06 Nov 2026 19:21:26 +0800",
      "summary": "作者 | 周智宇 家庭SUV市场的上新持续提速。 9月以来，小鹏G9L、启境GX7、大众ID.ERA 8X及改款理想i6等接连入场，部分产品的上市优惠起价已接近20万元。11月5日，智己LS8 NEO纯电以23.98万元起的权益价加入竞争，将全线控底盘列为全系标配。 这轮密集投放背后，是车企对增长机会的集中争夺。乘用车市场承压，20万—30万元SUV却仍在前三季度保持增长，成为车企争取家庭用户的重要市场。但需求增长与新车增加并不同步，更多产品进入，也意味着后来者必须从已有选择中争取用户。 旗舰技术和配置因此被带入更低价位。平台复用、集团产业资源和专业供应商合作，为车企提供了下放技术的条件，也让",
      "source": "华尔街见闻",
      "zh": "旗舰配置下沉，车企争抢家庭SUV市场"
-    },
-    {
-     "title": "国常会：完善资本市场稳市机制 增强股市内在稳定性",
-     "link": "http://finance.eastmoney.com/news/1345,202611063924966184.html",
-     "pubDate": "Fri, 06 Nov 2026 19:20:34 +0800",
-     "summary": "李强主持召开国务院常务会议，会议指出，要用好用足各项政策性资金，及时足额拨付涉及基层和企业各类款项，更好发挥财政金融协同促内需政策效应。要扎实做好稳就业、防风险和民生保障等工作，强化重点群体就业服务，对脱贫家庭、低保家庭、零就业家庭困难毕业生给予就业扶持。抓实抓细安全生产风险隐患排查整治，坚决遏制重特大事故发生。持续化解地方政府债务、中小金融机构等领域风险。完善资本市场稳市机制，增强股市内在稳定性，促进资本市场平稳健康发展。加强保供稳价和困难群众帮扶，加快受灾地区恢复重建，切实做好受灾群众安置和生活保障。要认真研究明年经济工作思路，加强跨年度政策衔接，推动经济持续向好。 会议指出，要深刻把握党",
-     "source": "东方财富资讯",
-     "zh": "国常会：完善资本市场稳市机制 增强股市内在稳定性"
-    },
-    {
-     "title": "深交所修订创业板指数编制方案：将单只样本股权重上限逐步调整至15%",
-     "link": "http://finance.eastmoney.com/news/1345,202611063924964937.html",
-     "pubDate": "Fri, 06 Nov 2026 19:16:24 +0800",
-     "summary": "11月6日，深圳证券交易所、深圳证券信息有限公司公告称，为进一步完善指数编制方法，深圳证券交易所和深圳证券信息有限公司决定对创业板指数的编制方案进行修订，将单只样本股权重上限逐步调整至15%。调整方式为：在每次定期调整期间，如果临近定期调整时第一大样本股实际权重超过14.5%，则对其实际权重加0.5%后向上取整，作为调整后的单只样本股权重上限。调整期间权重上限、权重调整因子只下调，不上调，直至第一大样本股实际权重不超过14.5%，实现权重上限15%的目标。本次修订于2026年12月14日定期调整时生效。 （文章来源：界面新闻）",
-     "source": "东方财富资讯",
-     "zh": "深交所修订创业板指数编制方案：将单只样本股权重上限逐步调整至15%"
     },
     {
      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
@@ -2409,38 +2401,6 @@
      "zh": "Wall Street set to steady after tech rout"
     },
     {
-     "title": "上交所向浙文影业下发监管工作函",
-     "link": "http://finance.eastmoney.com/news/1345,202611063924959663.html",
-     "pubDate": "Fri, 06 Nov 2026 19:06:04 +0800",
-     "summary": "11月6日，上交所发布关于 浙文影业 集团股份有限公司有关股价波动事项的监管工作函。 浙文影业 因股价波动事项被监管关注。监管工作函涉及对象为上市公司。 （文章来源：界面新闻）",
-     "source": "东方财富资讯",
-     "zh": "上交所向浙文影业下发监管工作函"
-    },
-    {
-     "title": "纳指100单日跌超6% “互联网泡沫”再现？",
-     "link": "http://finance.eastmoney.com/news/11137,202611063924961098.html",
-     "pubDate": "Fri, 06 Nov 2026 19:05:09 +0800",
-     "summary": "昨日美股大跌， 纳斯达克 100指数跌6.36%，是1996年以来第33次单日跌幅超6%。 据 东方财富 Choice数据，1996年以来美股科技代表 纳斯达克 100指数单日跌幅超6%共发生了33次，其中密集爆发出现在三个区间。 第一个密集区是2000—2002年。33次里有22次发生在这三年，占三分之二，其中2000年9次、2001年12次、2002年1次。这一时期，互联网泡沫破裂，科技股估值坍塌，盈利预期被证伪，造成了这段“急跌式熊市”，期间纳指100最大回撤达到82.9%。 第二个密集区是2008年，共3次。9月15日，雷曼兄弟正式宣布破产，次贷危机爆发。9月29日，美国众议院否决了7",
-     "source": "东方财富资讯",
-     "zh": "纳指100单日跌超6% “互联网泡沫”再现？"
-    },
-    {
-     "title": "车企自研电池真相：不造电芯，到底在争什么？",
-     "link": "http://www.eeo.com.cn/2026/1106/1086370.shtml",
-     "pubDate": "Fri, 06 Nov 2026 19:03:56 +0800",
-     "summary": "整车企业热衷于“自研电池”，根本动因在于动力电池极高的产业链权重，其采购成本通常可达整车成本的30%—40%，是无可争议的核心高价值零部件。同时，动力电池供货的稳定性对车企而言十分重要。此外，当发生电池安全事故后，电池的权责归属如何处置，也促使车企越来越倾向于自主掌控电池。",
-     "source": "经济观察网",
-     "zh": "车企自研电池真相：不造电芯，到底在争什么？"
-    },
-    {
-     "title": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
-     "link": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
-     "pubDate": "Fri, 06 Nov 2026 11:00:01 GMT",
-     "summary": "Montana voters approved a novel strategy to restrict corporate political spending, setting up a constitutional fight that could reach the Supreme Court.",
-     "source": "CNBC",
-     "zh": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court"
-    },
-    {
      "title": "科技股抛售潮缓解，美股盘前存储板块集体反弹，闪迪涨8%，欧股跌幅扩大，油涨金跌",
      "link": "https://wallstreetcn.com/articles/3785315",
      "pubDate": "Fri, 06 Nov 2026 18:46:27 +0800",
@@ -2449,28 +2409,12 @@
      "zh": "科技股抛售潮缓解，美股盘前存储板块集体反弹，闪迪涨8%，欧股跌幅扩大，油涨金跌"
     },
     {
-     "title": "两大风险压制美科技股！公募基金最新观点",
-     "link": "http://finance.eastmoney.com/news/1345,202611063924942630.html",
-     "pubDate": "Fri, 06 Nov 2026 18:41:57 +0800",
-     "summary": "北京时间11月6日凌晨，美股市场出现剧烈调整，标普500指数收盘大跌4.36%， 纳斯达克 指数暴跌5.52%。 美股当日抛售浪潮初期以AI科技硬件板块为核心，随后快速向外扩散，美股科技股、 创新药 、AI软件应用乃至消费板块集体承压。 半导体 、生物医药、 电力 设备、软件媒体、 通信设备 、 汽车 、 军工 板块均遭遇大规模资金抛售，零售消费、数字娱乐等顺周期板块也被行情拖累，全市场仅水务、住宅REITs等少数防御赛道小幅收红。 公募QDII净值迎来大幅回撤 个股层面，公募QDII 基金重仓 的美股核心标的成为资金抛售的重灾区，多只权重科技股出现两位数下跌，且从硬件科技向软件科技、 创新药",
-     "source": "东方财富资讯",
-     "zh": "两大风险压制美科技股！公募基金最新观点"
-    },
-    {
-     "title": "A股或迎回购潮！19家科技股最新发声",
-     "link": "http://finance.eastmoney.com/news/11137,202611063924941939.html",
-     "pubDate": "Fri, 06 Nov 2026 18:39:54 +0800",
-     "summary": "AI硬件11月6日集体走弱，光模块、CPO、 PCB 、 MLCC 、 玻璃基板 等概念跌幅靠前。个股而言， 长鑫科技 、 中际旭创 、 寒武纪 、 新易盛 、 兆易创新 、 东山精密 等龙头股跌幅靠前。 在股价再次走低之际，“易中天”等一批科技龙头11月6日集体发声，表示将继续通过回购等方式，维护公司价值和投资者利益。 东方财富 Choice数据显示，11月6日当天就有 19家科技公司发布了回购的相关公告 ，包括回购进展、回购预案、以及用于回购的 银行 《贷款承诺函》等。 比如 中材科技 拟回购2-2.5亿元， 三环集团 拟回购5-10亿元（其中已回购约4亿元）， 亨通光电 获得不超过5.4",
-     "source": "东方财富资讯",
-     "zh": "A股或迎回购潮！19家科技股最新发声"
-    },
-    {
-     "title": "Is it the end of the Cybertruck? Elon Musk announces factory will shift production",
+     "title": "Is it the end of the Cybertruck? Elon Musk announces factory will shift Tesla production.",
      "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
      "pubDate": "Fri, 06 Nov 2026 10:37:00 GMT",
      "summary": "Tesla CEO Elon Musk said in a post on X that the automaker will wind down the production of Cybertrucks in its Texas Gigafactory next year.",
      "source": "MarketWatch",
-     "zh": "Is it the end of the Cybertruck? Elon Musk announces factory will shift production"
+     "zh": "Is it the end of the Cybertruck? Elon Musk announces factory will shift Tesla production."
     },
     {
      "title": "特斯拉宣布终止Cybertruck生产，马斯克将资源转向机器人与AI赛道",
@@ -2495,6 +2439,62 @@
      "summary": "Rate hikes could be curbed by an Iran war resolution, slower U.S. growth and fresh fiscal policy — but none are set in stone.",
      "source": "CNBC",
      "zh": "Democrat sweep gives markets a reason to rethink path of interest rates"
+    },
+    {
+     "title": "What the governor-elect of Texas, at the epicenter of the AI-trade blowup, is now saying about data centers",
+     "link": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
+     "pubDate": "Fri, 06 Nov 2026 10:20:00 GMT",
+     "summary": "In an interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers, but that community approval must come first.",
+     "source": "MarketWatch",
+     "zh": "What the governor-elect of Texas, at the epicenter of the AI-trade blowup, is now saying about data centers"
+    },
+    {
+     "title": "MiniMax创始人罕见公开访谈：将一直开源直到实现AGI，盈利靠压低推理成本不靠涨价",
+     "link": "https://wallstreetcn.com/articles/3785367",
+     "pubDate": "Fri, 06 Nov 2026 18:18:50 +0800",
+     "summary": "中国AI公司正在尝试走出一条与硅谷不同的道路。MiniMax创始人、董事长兼CEO闫俊杰（IO）在首次英文播客访谈中表示，公司将坚持开源，直到实现通用人工智能（AGI）；而实现盈利的关键，不是提高模型价格，而是通过技术创新持续压低推理成本。 在他看来，美国AI生态依靠巨额资本和算力资源推动模型能力突破，中国公司则必须在有限的算力条件下提高效率。MiniMax希望证明，即使无法获得同等规模的顶级芯片，也可以通过模型架构、基础设施和算法优化，缩小与美国前沿模型的差距。 这套思路已经开始反映在商业模式上。闫俊杰透露， 截至8月，MiniMax的年度经常性收入年化运行率（ARR）已超过8亿美元，其中企",
+     "source": "华尔街见闻",
+     "zh": "MiniMax创始人罕见公开访谈：将一直开源直到实现AGI，盈利靠压低推理成本不靠涨价"
+    },
+    {
+     "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+     "pubDate": "Fri, 06 Nov 2026 10:15:00 GMT",
+     "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+     "source": "MarketWatch",
+     "zh": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home"
+    },
+    {
+     "title": "The $4 million mansion that author Sarah J. Maas bought after finding fame with ‘A Court of Thorns and Roses’",
+     "link": "https://www.marketwatch.com/story/the-4-million-mansion-that-author-sarah-j-maas-bought-after-finding-fame-with-a-court-of-thorns-and-roses-170bbe1b?mod=mw_rss_topstories",
+     "pubDate": "Fri, 06 Nov 2026 10:02:00 GMT",
+     "summary": "Three years after the release of the first “ACOTAR” book, Sarah J. Maas’ family moved into a palatial $3.3 million Tudor-style mansion in Haverford, Pa.",
+     "source": "MarketWatch",
+     "zh": "The $4 million mansion that author Sarah J. Maas bought after finding fame with ‘A Court of Thorns and Roses’"
+    },
+    {
+     "title": "FATF report identifies practical approaches for disrupting scam compounds",
+     "link": "https://www.finextra.com/newsarticle/48714/fatf-report-identifies-practical-approaches-for-disrupting-scam-compounds?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 06 Nov 2026 09:00:00 GMT",
+     "summary": "According to the FATF, the rate of fraud has grown in recent years, catalysed by increased online exposure, digital innovation, and as a result of the Covid-19 pandemic.",
+     "source": "Finextra",
+     "zh": "FATF report identifies practical approaches for disrupting scam compounds"
+    },
+    {
+     "title": "Is the AI stock bubble finally bursting?",
+     "link": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1",
+     "pubDate": "Fri, 06 Nov 2026 07:11:18 GMT",
+     "summary": "Any reasonable person can see the hallmarks of an unsustainable party in markets",
+     "source": "Financial Times",
+     "zh": "Is the AI stock bubble finally bursting?"
+    },
+    {
+     "title": "The sell-off gets deep",
+     "link": "https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1",
+     "pubDate": "Fri, 06 Nov 2026 06:30:04 GMT",
+     "summary": "But not broad, yet",
+     "source": "Financial Times",
+     "zh": "The sell-off gets deep"
     }
    ]
   },

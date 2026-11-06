@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/7 07:36:06",
+ "generated_at": "2026/11/7 07:43:34",
  "recent_days": 7,
  "industries": [
   {
@@ -314,6 +314,14 @@ window.INDUSTRY_DATA = {
      "zh": "AOI announces equity grants under Inducement Plan"
     },
     {
+     "title": "Leap signs MoU to relaunch Sutherland space launches",
+     "link": "https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 16:03:52 +0000",
+     "summary": "Leap, a startup aiming to develop mass-producible launch vehicles, has signed a Memorandum of Understanding (MoU) with Highlands and Islands Enterprise (HIE). This is to develop, and relaunch, space launch […] The post Leap signs MoU to relaunch Sutherland space launches appeared first on Electronic",
+     "source": "Electronics Weekly",
+     "zh": "Leap signs MoU to relaunch Sutherland space launches"
+    },
+    {
      "title": "Delivering Silicon Systems Through AI Disruption, Part 2: The Conductor",
      "link": "https://semiwiki.com/semiconductor-services/flow-accel/376003-delivering-silicon-systems-through-ai-disruption-part-2-the-conductor/",
      "pubDate": "Fri, 06 Nov 2026 16:00:32 +0000",
@@ -328,6 +336,22 @@ window.INDUSTRY_DATA = {
      "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — has appointed David Bell as chairman of its board of directors, separating the chairman and chief executive offi",
      "source": "Semiconductor Today",
      "zh": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman"
+    },
+    {
+     "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 14:33:14 +0000",
+     "summary": "What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions... The post What caught your eye? AI bust, Qualcomm MMIOs, RF emitters appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters"
+    },
+    {
+     "title": "Partying like it’s 1999 with the hangover in 2001",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 14:24:06 +0000",
+     "summary": "Partying like it’s 1999 without knowing that 2001 would see a 32% fall in the semi market, a chip analyst spun a rosy yarn A 1999 EW story started: ’The […] The post Partying like it’s 1999 with the hangover in 2001 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Partying like it’s 1999 with the hangover in 2001"
     },
     {
      "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
@@ -352,6 +376,30 @@ window.INDUSTRY_DATA = {
      "summary": "The market for wide bandgap semiconductor materials and devices has grown at a compound annual growth rate (CAGR) of 10.9% from $10.14bn in 2025 to a projected $11.24bn by 2026, driven mainly by increasing demand for power electronics with enhanced efficiency, wider use of silicon carbide (SiC) mate",
      "source": "Semiconductor Today",
      "zh": "Wide-bandgap materials and devices market to grow at 10.5% CAGR from $11.24bn in 2026 to $16.75bn by 2030"
+    },
+    {
+     "title": "Emerson NI PXIe instruments for AI-accelerated automated testing",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 11:03:56 +0000",
+     "summary": "Emerson has announced new NI PXI express instruments featuring an AI-accelerated approach to automated test. The goal, says the company, is to make the testing process more accessible to engineering […] The post Emerson NI PXIe instruments for AI-accelerated automated testing appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Emerson NI PXIe instruments for AI-accelerated automated testing"
+    },
+    {
+     "title": "MDA Space to provide digital antenna subsystems for IRIS² satellites",
+     "link": "https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 10:12:42 +0000",
+     "summary": "Canadian space company MDA Space has won a contract from Thales Alenia Space for work on the development of Europe’s IRIS² satellites. Specifically it will begin work on MDA AURORA […] The post MDA Space to provide digital antenna subsystems for IRIS² satellites appeared first on Electronics Weekly ",
+     "source": "Electronics Weekly",
+     "zh": "MDA Space to provide digital antenna subsystems for IRIS² satellites"
+    },
+    {
+     "title": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-exec-pay-toyota-robotaxis-in-car-computing-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 10:05:40 +0000",
+     "summary": "Looking at the news stories written within the last week, the most popular articles on the site cover Greece unveiling its semiconductor strategy, ASML links exec pay to employee morale, and Toyota and Waymo planning to launch robotaxis in Japan. The post Most Read – ASML exec pay, Toyota robotaxis,",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing"
     },
     {
      "title": "US lawmakers request briefing with Nvidia's Jensen Huang on dealings with Megaspeed executive",
@@ -448,46 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "The value of glass will be determined not by its material properties alone, but by whether it can expand the package architecture window and be realized repeatedly at manufacturing scale. AI infrastructure is pushing advanced packaging into a regime where the substrate itself increasingly determines",
      "source": "SemiWiki",
      "zh": "Glass Is Becoming an AI Infrastructure Platform"
-    },
-    {
-     "title": "Adding Network Security To AI, HPC, And Data Centers",
-     "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
-     "pubDate": "Thu, 05 Nov 2026 08:06:45 +0000",
-     "summary": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, HPC, And Data Centers appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Adding Network Security To AI, HPC, And Data Centers"
-    },
-    {
-     "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
-     "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
-     "pubDate": "Thu, 05 Nov 2026 08:05:35 +0000",
-     "summary": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Turning Conv2D Into A Practical GPU Compute Pattern"
-    },
-    {
-     "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
-     "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:55 +0000",
-     "summary": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. The post A System-Level Approach To Protecting 3D-IC Signal Integrity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "A System-Level Approach To Protecting 3D-IC Signal Integrity"
-    },
-    {
-     "title": "Fitting AI Models To Edge Applications",
-     "link": "https://semiengineering.com/fitting-ai-models-to-edge-applications/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:08 +0000",
-     "summary": "Compression can shrink AI models, but efficient edge deployment starts with matching the architecture to the workload and hardware limits. The post Fitting AI Models To Edge Applications appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Fitting AI Models To Edge Applications"
-    },
-    {
-     "title": "Why Testing Automated Driving Is Harder Than It Looks",
-     "link": "https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/",
-     "pubDate": "Thu, 05 Nov 2026 08:02:40 +0000",
-     "summary": "Instead of waiting for rare situations to occur on public roads, engineers can create those situations virtually. The post Why Testing Automated Driving Is Harder Than It Looks appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why Testing Automated Driving Is Harder Than It Looks"
     }
    ]
   },
@@ -930,12 +938,12 @@ window.INDUSTRY_DATA = {
      "zh": "As Jackery Inventory Sells Out, Are Portable Batteries Set To Take Off?"
     },
     {
-     "title": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth",
+     "title": "Sempra expects 20% increase to Oncor’s capex plan, driven by load growth",
      "link": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
      "pubDate": "Fri, 06 Nov 2026 11:10:36 -0500",
      "summary": "&ldquo;It's too soon to tell exactly&rdquo; how the results of the midterm elections will impact Oncor, said CEO Allen Nye. &ldquo;We continue to believe that both parties want a strong and growing Texas.&rdquo;",
      "source": "Utility Dive",
-     "zh": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth"
+     "zh": "Sempra expects 20% increase to Oncor’s capex plan, driven by load growth"
     },
     {
      "title": "China’s soaring clean power curtailment highlights regulatory gaps",
@@ -973,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO",
      "link": "https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/",
      "pubDate": "Fri, 06 Nov 2026 09:44:59 -0500",
-     "summary": "Eversource Energy&rsquo;s third-quarter income fell 22% year over year, to $346 million, driven in part by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
+     "summary": "Eversource Energy&rsquo;s third-quarter income fell 22% year over year to $346 million, partly driven by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
      "source": "Utility Dive",
      "zh": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO"
     },
@@ -981,7 +989,7 @@ window.INDUSTRY_DATA = {
      "title": "DTE expands investment plan 30%, will sell unregulated subsidiary to fund growth",
      "link": "https://www.utilitydive.com/news/dte-expands-5-year-electric-investment-plan-sells-unregulated-vantage/873974/",
      "pubDate": "Fri, 06 Nov 2026 09:15:24 -0500",
-     "summary": "After the $3 billion sale of DTE Vantage,&nbsp;DTE &ldquo;becomes a higher growth premium utility&rdquo; and &ldquo;a simpler business,&rdquo; CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multiyear rate making.",
+     "summary": "After the $3 billion sale of DTE Vantage,&nbsp;DTE &ldquo;becomes a higher growth premium utility&rdquo; and &ldquo;a simpler business,&rdquo; CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multi-year rate making.",
      "source": "Utility Dive",
      "zh": "DTE expands investment plan 30%, will sell unregulated subsidiary to fund growth"
     },
@@ -1746,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查",
+     "link": "https://www.ithome.com/1/023/614.htm",
+     "pubDate": "Fri, 06 Nov 2026 23:40:22 GMT",
+     "summary": "IT之家 11 月 7 日消息，美国卫星数据公司 Planet 于 11 月 5 日推出 Planet AI 应用， 结合大语言模型与超过十年的全球卫星影像档案，让用户使用自然语言搜索、观察和分析地球表面的变化。 IT之家附上演示视频如下： 产品目前可通过 ai.planet.com 免费使用，用户登录 Planet Insights 账号后，未来可使用更多高级功能。Planet 强调，所有 AI 结论均以可查看的原始卫星影像为依据，以降低“AI 幻觉”带来的误判风险。用户只需用日常语言描述问题，即可在全球范围内搜索目标地点、追踪其时间变化，并生成对比图或延时影像。 与需要专业 GIS 技能的",
+     "source": "IT之家",
+     "zh": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查"
+    },
+    {
+     "title": "世界一下就切换到了禁止AI 的时间线",
+     "link": "https://www.huxiu.com/article/4903719.html?f=rss",
+     "pubDate": "Sat, 07 Nov 2026 07:31:37 +0800",
+     "summary": "本文来自微信公众号： 橘AI ，作者：橘AI，原文标题：《世界一下就切换到了禁止 AI 的时间线》 大家好，欢迎来到橘AI。今天我们来聊一聊，超级AI禁令和它背后的一些故事。 昨天对世界来说是一个巨大的冲击，信息也比较混乱，或者说其实是有一点恐慌了。 但这篇文章放出来的时候，世界应该已经从恐慌里慢慢恢复过来了，还是祈祷世界和平，平滑过渡。 今天我来理性的讲讲到底发生了什么，以及背后的科技与人性冲突。 导火索 大家都在分析，市场到底发生了什么。 11月4号，一位民主党的众议员在X上说了一句话。她说，民主党议程的第一天，最优先的事就是暂停人工智能研发，对这个失控的行业进行监督，以及禁止人工超级智能",
+     "source": "虎嗅",
+     "zh": "世界一下就切换到了禁止AI 的时间线"
+    },
+    {
      "title": "谁在孵化约会软件上的优质男女？",
      "link": "https://www.huxiu.com/article/4901769.html?f=rss",
      "pubDate": "Sat, 07 Nov 2026 07:28:23 +0800",
@@ -1813,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
      "link": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
      "pubDate": "Fri, 06 Nov 2026 23:00:46 +0000",
-     "summary": "Article URL: https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 17 # Comments: 5",
+     "summary": "Article URL: https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 32 # Comments: 11",
      "source": "Hacker News",
      "zh": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life"
     },
@@ -1821,17 +1845,9 @@ window.INDUSTRY_DATA = {
      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
      "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
      "pubDate": "Fri, 06 Nov 2026 22:50:43 +0000",
-     "summary": "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053 Comments URL: https://news.ycombinator.com/item?id=50399569 Points: 18 # Comments: 3",
+     "summary": "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053 Comments URL: https://news.ycombinator.com/item?id=50399569 Points: 29 # Comments: 7",
      "source": "Hacker News",
      "zh": "ChatGPT silently passes data between connectors and the bounty wants an ID card"
-    },
-    {
-     "title": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道",
-     "link": "https://www.ithome.com/1/023/607.htm",
-     "pubDate": "Fri, 06 Nov 2026 22:48:04 GMT",
-     "summary": "IT之家 11 月 7 日消息，路透社今天（11 月 7 日）发布博文，报道称谷歌母公司 Alphabet 在第三季度首次买入芯片巨头高通约 297.7 万股股票， 持仓市值约 5.48 亿美元 （IT之家注：现汇率约合 36.62 亿元人民币） ，约占高通总股本 0.5%。 根据美国证券监管文件披露，Alphabet 第三季度持仓总市值约为 883 亿美元 （现汇率约合 5,900.67 亿元人民币） ，上一季度约为 991 亿美元 （现汇率约合 6,622.38 亿元人民币） ，环比下降约 10.9%。当季新增 4 只股票持仓、增持 1 只股票、减持 3 只股票，并且清仓 3 只股票；前十",
-     "source": "IT之家",
-     "zh": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道"
     },
     {
      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
@@ -1909,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "AI is dramatically accelerating AI research",
      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
      "pubDate": "Fri, 06 Nov 2026 20:27:23 +0000",
-     "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 139 # Comments: 86",
+     "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 152 # Comments: 102",
      "source": "Hacker News",
      "zh": "AI is dramatically accelerating AI research"
     },
@@ -1925,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
      "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
      "pubDate": "Fri, 06 Nov 2026 20:09:14 +0000",
-     "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 20 # Comments: 2",
      "source": "Hacker News",
      "zh": "Google has acquired Crusoe's data center site in southeast Wyoming"
     },
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
      "pubDate": "Fri, 06 Nov 2026 19:48:51 +0000",
-     "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 252 # Comments: 54",
+     "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 263 # Comments: 56",
      "source": "Hacker News",
      "zh": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost"
     },
@@ -1976,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "The new Essential and certain colors of the original Classic are at their lowest prices of the year.",
      "source": "WIRED",
      "zh": "Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026"
-    },
-    {
-     "title": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites",
-     "link": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-6-2026/",
-     "pubDate": "Fri, 06 Nov 2026 18:51:27 +0000",
-     "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
-     "source": "WIRED",
-     "zh": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites"
     }
    ]
   },
@@ -2242,60 +2250,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "中船特气：融资净偿还6397.74万元，融资余额12.67亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925304635.html",
+     "pubDate": "Sat, 07 Nov 2026 07:37:12 +0800",
+     "summary": "交易所最新数据显示， 中船特气 于2026年11月6日获融资买入1.26亿元，融资偿还1.90亿元， 当日融资净偿还6397.74万元。 目前，该股融资余额12.67亿，占流通市值比例为1.66%。 该股当日融券卖出2315股，融券偿还200股， 融券净卖出2115股。 目前，该股融券余量6.45万股，融券余额928.35万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
+     "source": "东方财富股票",
+     "zh": "中船特气：融资净偿还6397.74万元，融资余额12.67亿元"
+    },
+    {
+     "title": "时代新材：融资净偿还210.35万元，融资余额4.24亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925304375.html",
+     "pubDate": "Sat, 07 Nov 2026 07:37:12 +0800",
+     "summary": "交易所最新数据显示， 时代新材 于2026年11月6日获融资买入552.01万元，融资偿还762.36万元， 当日融资净偿还210.35万元。 目前，该股融资余额4.24亿，占流通市值比例为4.89%。 该股当日融券卖出2.60万股，融券偿还2.18万股， 融券净卖出4200股。 目前，该股融券余量29.72万股，融券余额296.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或",
+     "source": "东方财富股票",
+     "zh": "时代新材：融资净偿还210.35万元，融资余额4.24亿元"
+    },
+    {
+     "title": "颀中科技：融资净偿还915.19万元，融资余额4.05亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925304216.html",
+     "pubDate": "Sat, 07 Nov 2026 07:37:11 +0800",
+     "summary": "交易所最新数据显示， 颀中科技 于2026年11月6日获融资买入2043.04万元，融资偿还2958.22万元， 当日融资净偿还915.19万元。 目前，该股融资余额4.05亿，占流通市值比例为2.47%。 该股当日融券卖出1200股，融券偿还3025股， 融券净偿还1825股。 目前，该股融券余量23.5万股，融券余额324.76万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
+     "source": "东方财富股票",
+     "zh": "颀中科技：融资净偿还915.19万元，融资余额4.05亿元"
+    },
+    {
+     "title": "华能水电：融资净偿还1440.67万元，融资余额15.91亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925303668.html",
+     "pubDate": "Sat, 07 Nov 2026 07:37:00 +0800",
+     "summary": "交易所最新数据显示，华能水电于2026年11月6日获融资买入2628.93万元，融资偿还4069.60万元， 当日融资净偿还1440.67万元。 目前，该股融资余额15.91亿，占流通市值比例为0.78%。 该股当日融券卖出1.30万股，融券偿还1500股， 融券净卖出1.15万股。 目前，该股融券余量21.89万股，融券余额240.13万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容",
+     "source": "东方财富股票",
+     "zh": "华能水电：融资净偿还1440.67万元，融资余额15.91亿元"
+    },
+    {
+     "title": "东阳光：融资净偿还35.38万元，融资余额27.54亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925302126.html",
+     "pubDate": "Sat, 07 Nov 2026 07:36:39 +0800",
+     "summary": "交易所最新数据显示， 东阳光 于2026年11月6日获融资买入3527.40万元，融资偿还3562.78万元， 当日融资净偿还35.38万元。 目前，该股融资余额27.54亿，占流通市值比例为4.00%。 该股当日融券卖出7900股，融券偿还2.25万股， 融券净偿还1.46万股。 目前，该股融券余量23.31万股，融券余额534.8万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或",
+     "source": "东方财富股票",
+     "zh": "东阳光：融资净偿还35.38万元，融资余额27.54亿元"
+    },
+    {
+     "title": "招商银行：融资净偿还1.32亿元，融资余额91.14亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925302226.html",
+     "pubDate": "Sat, 07 Nov 2026 07:36:39 +0800",
+     "summary": "交易所最新数据显示， 招商银行 于2026年11月6日获融资买入1.41亿元，融资偿还2.73亿元， 当日融资净偿还1.32亿元。 目前，该股融资余额91.14亿，占流通市值比例为1.03%。 该股当日融券卖出23.57万股，融券偿还2.13万股， 融券净卖出21.44万股。 目前，该股融券余量1554.44万股，融券余额6.67亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
+     "source": "东方财富股票",
+     "zh": "招商银行：融资净偿还1.32亿元，融资余额91.14亿元"
+    },
+    {
+     "title": "Axalta-Akzo Nobel merger conditionally approved by European Union",
+     "link": "https://seekingalpha.com/news/4668689-axalta-akzo-nobel-merger-conditionally-approved-by-european-union?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 18:36:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Axalta-Akzo Nobel merger conditionally approved by European Union"
+    },
+    {
+     "title": "Edenor expects MetroGas closing before year-end while targeting diversification through M&A",
+     "link": "https://seekingalpha.com/news/4668692-edenor-expects-metrogas-closing-before-year-end-while-targeting-diversification-through-m-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 18:36:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Edenor expects MetroGas closing before year-end while targeting diversification through M&A"
+    },
+    {
+     "title": "Hawaiian Electric outlines 5.3% base rate increase phased over 2 years as PUC timing points to May 2027 rates",
+     "link": "https://seekingalpha.com/news/4668691-hawaiian-electric-outlines-5_3-percent-base-rate-increase-phased-over-2-years-as-puc-timing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 18:35:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hawaiian Electric outlines 5.3% base rate increase phased over 2 years as PUC timing points to May 2027 rates"
+    },
+    {
+     "title": "5连板浙文影业称无AI短剧相关业务 同日上交所下发监管工作函",
+     "link": "http://finance.eastmoney.com/news/1344,202611073925288178.html",
+     "pubDate": "Sat, 07 Nov 2026 07:31:59 +0800",
+     "summary": "5连板 浙文影业 公告称无AI短剧相关业务，同日公司被上交所下发监管工作函。 11月6日晚间，5连板 浙文影业 集团股份有限公司（ 浙文影业 ，601599.SH）发布股票交易异常波动暨风险提示公告称，公司关注到市场将公司列为AI短剧概念股，截至目前，公司生产经营未发生重大变化，公司的主营业务为影视业务与毛纺织业务，无AI短剧相关业务。 除此之外，公司未发现其他可能或已经对上市公司股票交易价格产生较大影响的媒体报道、市场传闻或热点概念事项等。经公司自查并向控股股东核实，除公司已公开披露事项外，不存在其他应披露而未披露的重大信息。 公告还提示，浙文影业股票自2026年11月2日以来连续涨停，收盘",
+     "source": "东方财富资讯",
+     "zh": "5连板浙文影业称无AI短剧相关业务 同日上交所下发监管工作函"
+    },
+    {
      "title": "American Healthcare REIT forecasts $2.23-$2.26 2026 NFFO per share as same-store NOI growth target rises to 12%-14%",
      "link": "https://seekingalpha.com/news/4668690-american-healthcare-reit-forecasts-2_23-2_26-2026-nffo-per-share-as-same-store-noi-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 06 Nov 2026 18:26:14 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "American Healthcare REIT forecasts $2.23-$2.26 2026 NFFO per share as same-store NOI growth target rises to 12%-14%"
-    },
-    {
-     "title": "创业板指优化编制方案 稳步下调个股权重上限",
-     "link": "http://stock.eastmoney.com/news/11215,202611073925245836.html",
-     "pubDate": "Sat, 07 Nov 2026 07:24:12 +0800",
-     "summary": "11月6日，深交所联合下属深圳证券信息有限公司发布《关于修订创业板指数编制方案的公告》，将根据第一大样本股实际权重稳步下调个股权重上限，在每次调整时，保持新权重上限至少高于第一大样本股实际权重0.5个百分点，直至达到15%的目标。新规将于2026年12月14日指数定期调整时正式生效。 创业板指跟踪产品规模较大，指数表现牵动众多投资者。本次修订不会改变创业板指“优创新、高成长”核心定位，指数选样方法、样本数量、加权方式等核心要素均保持不变，指数收益、波动、行业结构不会发生显著改变。 修订的核心目标是促进指数内部权重结构向更分散、更均衡的方向演进，降低头部个股异动对指数走势的扰动，防范指数失真，引",
-     "source": "东方财富股票",
-     "zh": "创业板指优化编制方案 稳步下调个股权重上限"
-    },
-    {
-     "title": "港股增持潮来了 A+H公司双向出击",
-     "link": "http://finance.eastmoney.com/news/1354,202611073925245473.html",
-     "pubDate": "Sat, 07 Nov 2026 07:22:25 +0800",
-     "summary": "11月6日， 博雷顿 逆市大涨10.16%，成交额1.51亿港元，是前一日的3倍多。这是又一家因披露 增持计划 股价大涨的港股公司。 近期港股市场密集出现股东或高管增持公告，包括 领益智造 、 龙旗科技 、 博泰车联 、映恩生物等公司。其中， 中国铝业 、 华勤技术 、 广合科技 、 晶合集成 等多家A+H公司的跨市场增持更是备受关注。 港股频现增持公告 博雷顿 公告称，董事会主席陈方明告知董事会，计划以自有资金于公开市场增持公司H股，拟总共增持不超过5000万港元；每次股份购买将按当时市场价格进行，公司不会参与或为增持股份计划提供任何财务资助。陈方明表示， 增持计划 反映其对公司未来发展前景",
-     "source": "东方财富股票",
-     "zh": "港股增持潮来了 A+H公司双向出击"
-    },
-    {
-     "title": "日央行行长：通胀存在上行风险 若未来遭遇严重冲击 或再次启用非常规宽松工具",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925278618.html",
-     "pubDate": "Sat, 07 Nov 2026 07:20:54 +0800",
-     "summary": "日本央行行长植田和男表示，日本通胀面临一定上行风险。随着能源相关产品价格上涨逐步传导至消费者物价，预计未来数月通胀压力可能进一步显现。 当地时间11月6日，植田在国际货币基金组织（IMF）于华盛顿举办的一场研讨会上表示， 日本央行预计基础通胀将维持在2%的目标附近，但也意识到通胀存在一些上行风险。 植田指出， 能源相关产品价格上涨已经开始影响消费者通胀，预计物价涨幅到明年年初可能进一步加快。 与此同时，日本工资增长已经与2%的通胀水平逐渐形成匹配关系。 他还表示，日本央行正在密切关注其他主要央行的政策行动，并未排除未来再次使用非常规货币政策工具的可能性。不过，如果重新部署相关工具，央行需要尽可",
-     "source": "东方财富股票",
-     "zh": "日央行行长：通胀存在上行风险 若未来遭遇严重冲击 或再次启用非常规宽松工具"
-    },
-    {
-     "title": "科技股大跌次日 美国白宫突然取消顶级科技顾问会议",
-     "link": "http://stock.eastmoney.com/news/1611,202611073925278757.html",
-     "pubDate": "Sat, 07 Nov 2026 07:20:54 +0800",
-     "summary": "科技股大跌与政策不确定性叠加，美国白宫取消了一场原定于周五举行的高层科技顾问会议。 11月6日据路透社报道，美国能源部发言人证实， 特朗普政府取消了原定于周五举行的白宫科技顾问委员会会议， 英伟达 CEO黄仁勋与Meta CEO扎克伯格均为该委员会成员 。白宫方面未就取消原因作出回应。 此次会议取消恰逢科技板块剧烈震荡。科技股周四大幅下跌，市场对民主党主导的新一届国会可能拖慢 人工智能 发展进程、以及AI巨额资本支出能否获得足够回报的担忧持续升温。 这一市场动荡已引发硅谷高管与华盛顿政策制定者对该行业的更广泛审视。 委员会成员阵容与职能 此次取消的会议原本召集的是\"总统科学与技术顾问委员会\"（",
-     "source": "东方财富股票",
-     "zh": "科技股大跌次日 美国白宫突然取消顶级科技顾问会议"
-    },
-    {
-     "title": "麦当劳：第三季度营收71.57亿美元同比增1%，净利润增长9%",
-     "link": "http://stock.eastmoney.com/news/11228,202611073925278369.html",
-     "pubDate": "Sat, 07 Nov 2026 07:20:31 +0800",
-     "summary": "南财智讯11月7日电， 麦当劳 （McDonald'sCorporation，纽约证券交易所：MCD）提交10-Q季报。截至2026年9月30日的季度，公司录得营收71.57亿美元，同比增长1%；净利润24.86亿美元，同比增长9%；每股摊薄收益3.51美元，同比增长10%。特许经营餐厅收入44.87亿美元，同比增长3%；自营餐厅销售24.80亿美元，同比下降3%。营业利润35.95亿美元，同比增长7%。前三季度累计营收207.73亿美元，同比增长5%；净利润68.31亿美元，同比增长7%；每股摊薄收益9.61美元，同比增长8%。经营性现金流82.54亿美元，资本支出24.01亿美元。期末现金",
-     "source": "东方财富股票",
-     "zh": "麦当劳：第三季度营收71.57亿美元同比增1%，净利润增长9%"
-    },
-    {
-     "title": "联合利华：Fabian T. Garcia拟出售3.2万股，市值约211.91万美元",
-     "link": "http://stock.eastmoney.com/news/11228,202611073925278034.html",
-     "pubDate": "Sat, 07 Nov 2026 07:20:31 +0800",
-     "summary": "南财智讯11月7日电， 联合利华 （UnileverPLC，纽约证券交易所：UL）高级管理人员FabianT.Garcia提交Form144限制股出售声明。FabianT.Garcia拟出售3.2万股美国存托股份，合计市值约211.91万美元，拟出售日期为11月6日。上述股份来源于2024年3月25日、2025年2月13日和2026年2月12日从发行人处获授的限制性股票归属，经纪商为FidelityBrokerageServicesLLC。过去3个月内，FabianT.Garcia曾出售该公司股份15643股（8月21日）。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "联合利华：Fabian T. Garcia拟出售3.2万股，市值约211.91万美元"
     },
     {
      "title": "科技股大跌次日，美国白宫突然取消顶级科技顾问会议",
@@ -2336,30 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Sunstone expects 2027 quarterly dividend requirement of $0.11-$0.12 per share as it raises 2026 FFO outlook to $1-$1.03"
-    },
-    {
-     "title": "Chesapeake Utilities outlines $550M-$600M 2026 capex plan while advancing $1.2B Florida Energy Pathway toward 2030 in-service",
-     "link": "https://seekingalpha.com/news/4668685-chesapeake-utilities-outlines-550m-600m-2026-capex-plan-while-advancing-1_2b-florida-energy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 17:45:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Chesapeake Utilities outlines $550M-$600M 2026 capex plan while advancing $1.2B Florida Energy Pathway toward 2030 in-service"
-    },
-    {
-     "title": "Doximity outlines FY 2027 revenue of $678M-$683M as AI search reaches 8-figure bookings",
-     "link": "https://seekingalpha.com/news/4668686-doximity-outlines-fy-2027-revenue-of-678m-683m-as-ai-search-reaches-8-figure-bookings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 17:45:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Doximity outlines FY 2027 revenue of $678M-$683M as AI search reaches 8-figure bookings"
-    },
-    {
-     "title": "Loma Negra anticipates RIGI-linked volumes, citing a Pampa project of 300,000–350,000 cubic meters of concrete",
-     "link": "https://seekingalpha.com/news/4668684-loma-negra-anticipates-rigi-linked-volumes-citing-a-pampa-project-of-300000-350000-cubic?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 17:45:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Loma Negra anticipates RIGI-linked volumes, citing a Pampa project of 300,000–350,000 cubic meters of concrete"
     },
     {
      "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
@@ -2472,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
      "source": "MarketWatch",
      "zh": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?"
-    },
-    {
-     "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-     "pubDate": "Fri, 06 Nov 2026 21:15:00 GMT",
-     "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-     "source": "MarketWatch",
-     "zh": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home"
     }
    ]
   },

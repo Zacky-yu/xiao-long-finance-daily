@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/8 00:42:07",
+ "generated_at": "2026/11/8 01:32:06",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Cold Seawater Is Supplying District Heat in Esbjerg, Denmark",
+     "link": "https://cleantechnica.com/2026/11/07/esbjerg-seawater-heat-pumps-cold-water-district-heating/",
+     "pubDate": "Sat, 07 Nov 2026 17:21:36 +0000",
+     "summary": "Esbjerg, Denmark, is using large electric heat pumps to extract heat from the North Sea and supply its district-heating network. During a two-hour winter test, seawater entered the system at 3.3°C and left at 1.2°C. The two heat pumps consumed 19.9 MW of electricity and supplied 55.2 MW of heat ... ",
+     "source": "CleanTechnica",
+     "zh": "Cold Seawater Is Supplying District Heat in Esbjerg, Denmark"
+    },
+    {
+     "title": "GM Steps On Tesla’s EV Toes With EV1 Celebration",
+     "link": "https://cleantechnica.com/2026/11/07/cybertruck-tesla-gm-ev1-ev-sales-us-market-electric-pickups/",
+     "pubDate": "Sat, 07 Nov 2026 16:52:11 +0000",
+     "summary": "General Motors seeks to reclaim the title of EV innovator from Tesla, drawing renewed attention to its work on the 1990's-era Impact concept EV and EV1 sedan. The post GM Steps On Tesla’s EV Toes With EV1 Celebration appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "GM Steps On Tesla’s EV Toes With EV1 Celebration"
+    },
+    {
      "title": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
      "link": "https://oilprice.com/Energy/Energy-General/Americas-Hydrogen-Revolution-Stalls-Amid-Funding-Cuts-and-Weak-Demand.html",
      "pubDate": "Sat, 07 Nov 2026 10:00:00 -0600",
@@ -954,14 +970,6 @@ window.INDUSTRY_DATA = {
      "zh": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar"
     },
     {
-     "title": "Alas, Poor Cybertruck, We Hardly Knew Thee",
-     "link": "https://cleantechnica.com/2026/11/06/tesla-cybertruck-production-halted-elon-musk-2026-elections/",
-     "pubDate": "Fri, 06 Nov 2026 19:57:43 +0000",
-     "summary": "Tesla CEO Elon Musk laid a billion-dollar egg with the Cybertruck, and he is finally putting the ill-fated EV out of its misery. The post Alas, Poor Cybertruck, We Hardly Knew Thee appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Alas, Poor Cybertruck, We Hardly Knew Thee"
-    },
-    {
      "title": "Energy Reliability Is Becoming More Important Than Energy Politics",
      "link": "https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html",
      "pubDate": "Fri, 06 Nov 2026 13:00:00 -0600",
@@ -984,14 +992,6 @@ window.INDUSTRY_DATA = {
      "summary": "The company&rsquo;s large-load pipeline of 15.4 GW has remained virtually unchanged since the first quarter of 2026 as it pursues a $103 billion spending plan heavily focused on new natural gas generation.",
      "source": "Utility Dive",
      "zh": "Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election"
-    },
-    {
-     "title": "Tesla & SpaceX Lost $420 Billion In Market Cap This Week — Didn’t Have To Be This Way",
-     "link": "https://cleantechnica.com/2026/11/06/tesla-spacex-lost-420-billion-in-market-cap-this-week-didnt-have-to-be-this-way/",
-     "pubDate": "Fri, 06 Nov 2026 17:27:15 +0000",
-     "summary": "Many of you may remember that Tesla and SpaceX got significant boosts early on in their corporate lives from the Obama administration, the Democrat-controlled House, and the Democrat-controlled Senate. There’s a solid chance these companies would no longer exist today without that early support. Dem",
-     "source": "CleanTechnica",
-     "zh": "Tesla & SpaceX Lost $420 Billion In Market Cap This Week — Didn’t Have To Be This Way"
     },
     {
      "title": "Democratic sweep in US midterms brings reprieve for solar, but federal gridlock persists",
@@ -1090,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+     "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+     "pubDate": "Sat, 07 Nov 2026 16:57:13 +0000",
+     "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
+     "source": "STAT News",
+     "zh": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries"
+    },
+    {
      "title": "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out",
      "link": "https://endpoints.news/aha26-the-similar-surprising-novo-and-novartis-heart-drug-failures-spelled-out/",
      "pubDate": "Sat, 07 Nov 2026 14:50:59 +0000",
@@ -1160,14 +1168,6 @@ window.INDUSTRY_DATA = {
      "summary": "Two newly elected lawmakers with science backgrounds hope to push back against Trump administration cuts to health equity programs.",
      "source": "STAT News",
      "zh": "Two incoming lawmakers plan to defend health equity from Trump administration cuts"
-    },
-    {
-     "title": "STAT+: Democrats’ midterm landslide spells relief for hospitals",
-     "link": "https://www.statnews.com/2026/11/06/why-democrats-midterm-landslide-helps-hospital-industry/?utm_campaign=rss",
-     "pubDate": "Fri, 06 Nov 2026 17:46:16 +0000",
-     "summary": "Democrats are likely to focus on reversing Medicaid cuts and expanding insurance coverage, giving a boost to health care providers.",
-     "source": "STAT News",
-     "zh": "STAT+: Democrats’ midterm landslide spells relief for hospitals"
     },
     {
      "title": "#SITC26: Immunocore reports early data for brenetafusp plus Kimmtrak in uveal melanoma",
@@ -1290,6 +1290,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "This Week In Space podcast: Episode 235 — Robots in Dark and Scary Places",
+     "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-235-robots-in-dark-and-scary-places",
+     "pubDate": "Sat, 07 Nov 2026 17:10:54 +0000",
+     "summary": "On Episode 235 of This Week In Space, Tariq Malik and Rod Pyle are joined by Dr. Jim Green to talk about the past, present, and future of planetary exploration.",
+     "source": "Space.com",
+     "zh": "This Week In Space podcast: Episode 235 — Robots in Dark and Scary Places"
+    },
+    {
      "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
      "pubDate": "Sat, 07 Nov 2026 16:31:11 +0000",
@@ -1344,14 +1352,6 @@ window.INDUSTRY_DATA = {
      "summary": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
      "source": "Space.com",
      "zh": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)"
-    },
-    {
-     "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
-     "pubDate": "Fri, 06 Nov 2026 22:05:58 +0000",
-     "summary": "On Nov. 6, 1572, the German astronomer Wolfgang Schulër observed a supernova later caleld the Tycho supernova with his bare eyes. Here's why it mattered.",
-     "source": "Space.com",
-     "zh": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'"
     },
     {
      "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
@@ -1754,12 +1754,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+     "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+     "pubDate": "Sat, 07 Nov 2026 17:24:07 +0000",
+     "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+     "source": "TechCrunch",
+     "zh": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack"
+    },
+    {
+     "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+     "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+     "pubDate": "Sat, 07 Nov 2026 17:18:00 +0000",
+     "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+     "source": "TechCrunch",
+     "zh": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles"
+    },
+    {
+     "title": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI&apos;s disproof \"shocking news\"; it could one day speed up chip design and break encryption (Cade Metz/New York Times)",
+     "link": "https://www.techmeme.com/261107/p12#a261107p12",
+     "pubDate": "Sat, 07 Nov 2026 12:15:01 -0500",
+     "summary": "Cade Metz / New York Times : Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof &ldquo;shocking news&rdquo;; it could one day speed up chip design and break encryption &nbsp; &mdash;&nbsp; A longstanding hypothesis held that some problems would always be hard for com",
+     "source": "Techmeme",
+     "zh": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI&apos;s disproof \"shocking news\"; it could one day speed up chip design and break encryption (Cade Metz/New York Times)"
+    },
+    {
+     "title": "2026年，黄金为什么没当好避险资产？",
+     "link": "https://www.huxiu.com/article/4903866.html?f=rss",
+     "pubDate": "Sun, 08 Nov 2026 01:13:03 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 所谓乱世买黄金。 2022年俄乌冲突爆发后，金价一度在两周内冲上2000美元。 这句话在今年似乎不灵了。 毫无疑问，2026年是一个战火不断的年份。2月底，美以伊冲突爆发，霍尔木兹海峡航运受阻，国际油价一度冲上119美元/桶。到了11月，海峡里的袭船事件仍时有发生。 1月29日，现货黄金创下5595美元/盎司的历史高点，此后一路走低，10月30日跌破4000美元，11月初盘中最低探到3874美元。中信证券统计，金价年内最大跌幅达到28.3%。 有美国财经媒体总结，今年大部分时间里，黄金和比特币是市场上表现最差的两类资产。 本周金价",
+     "source": "虎嗅",
+     "zh": "2026年，黄金为什么没当好避险资产？"
+    },
+    {
+     "title": "Apple Keyboard has a blacklist of phrases you can't swipe",
+     "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+     "pubDate": "Sat, 07 Nov 2026 17:06:36 +0000",
+     "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 7 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Apple Keyboard has a blacklist of phrases you can't swipe"
+    },
+    {
      "title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)",
      "link": "https://www.techmeme.com/261107/p11#a261107p11",
      "pubDate": "Sat, 07 Nov 2026 11:35:01 -0500",
      "summary": "Cecile Daurat / Bloomberg : Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees &ldquo;shaky&rdquo; projects killed &nbsp; &mdash;&nbsp; Guardrails against data-center expansion in states won by Democrats may help spr",
      "source": "Techmeme",
      "zh": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)"
+    },
+    {
+     "title": "How Long Can Life Wait?",
+     "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+     "pubDate": "Sat, 07 Nov 2026 16:22:59 +0000",
+     "summary": "Article URL: https://mceglowski.substack.com/p/how-long-can-life-wait Comments URL: https://news.ycombinator.com/item?id=50405789 Points: 24 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "How Long Can Life Wait?"
     },
     {
      "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
@@ -1776,6 +1824,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 这几天，大家都在”画地为牢“。好吧，新现象就观察一下，写写。周末愉快，朋友们。 “起床了，厉娜。”“下班了，厉娜。”“刻舟求剑，厉娜。”杨幂在直播里捂着嘴笑，劝人不要画地为牢；沈月唱着唱着自己笑场，也冒出一句“我画地为牢啊”；宋亚轩的粉丝把它改成了告白。 一个两千多年的成语，在2026年的秋冬之际，忽然换了一身衣服，满大街地走秀。人与人之间，即便亲密，也不相互理解，这是一种普遍的痛点，甚至是一个痛圈…… 芒果TV的一档综艺《后会友期》，10月22日开播，据说因“画地为牢”的出圈，让芒果的股价都涨很多。 这个节目组找了四对走散多年的旧友，让他们坐上",
      "source": "虎嗅",
      "zh": "画地为牢，也火了"
+    },
+    {
+     "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+     "link": "https://kevinboone.me/tpwin.html",
+     "pubDate": "Sat, 07 Nov 2026 16:06:27 +0000",
+     "summary": "Article URL: https://kevinboone.me/tpwin.html Comments URL: https://news.ycombinator.com/item?id=50405678 Points: 49 # Comments: 31",
+     "source": "Hacker News",
+     "zh": "They don't make 'em like that any more: Borland Turbo Pascal 7"
     },
     {
      "title": "FAA 计划到 2028 年淘汰软盘",
@@ -1816,6 +1872,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 7 日现场消息，今晚，在阿布扎比，比亚迪旗下超豪华行政旗舰轿车 —— 仰望鼎曜迎来全球首秀。随后，官方公布了鼎曜行政版的具体配置信息。 IT之家从活动现场获悉，新车长宽高分别为 5600/2030/1590mm ，轴距更是达到了 3500mm。新车拥有鼎形前脸和鼎形钻切大灯，点阵式格栅内部 137 颗宝石随光影流转，甲骨文车标更是由 24K 真金打造，号称“鼎立东方，气韵自成”。 新车拥有首尾延展的 4.8 米贯穿式双腰线，并配备“中轴对开门”，前门开合角 80°，后门开合角 90°。 内饰部分，新车座舱采用“中轴对称布局”，配备一块贯穿式全景巨幕屏，辅以真木材质点缀。材质",
      "source": "IT之家",
      "zh": "比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里"
+    },
+    {
+     "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+     "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+     "pubDate": "Sat, 07 Nov 2026 15:16:01 +0000",
+     "summary": "Article URL: https://github.com/Video-Rebirth/hyperflow-h3-flash Comments URL: https://news.ycombinator.com/item?id=50405263 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8"
     },
     {
      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
@@ -1861,17 +1925,9 @@ window.INDUSTRY_DATA = {
      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
      "pubDate": "Sat, 07 Nov 2026 14:18:45 +0000",
-     "summary": "Article URL: https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf Comments URL: https://news.ycombinator.com/item?id=50404747 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf Comments URL: https://news.ycombinator.com/item?id=50404747 Points: 16 # Comments: 6",
      "source": "Hacker News",
      "zh": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]"
-    },
-    {
-     "title": "The $8 Linux Computer (2022)",
-     "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-     "pubDate": "Sat, 07 Nov 2026 14:00:20 +0000",
-     "summary": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 79 # Comments: 35",
-     "source": "Hacker News",
-     "zh": "The $8 Linux Computer (2022)"
     },
     {
      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
@@ -1936,62 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "一名巴基斯坦宇航员将加入神舟二十四号载人飞行任务的乘组。他是一位载荷专家。任务成行后，他将成为首位进入中国空间站的外国公民。这也将是中国载人航天工程历史上，首次由中国与外国宇航员共同执行太空飞行任务。今年早些时候，两名巴基斯坦预备宇航员——穆罕默德·泽尚·阿里（Muhammad Zeeshan Ali）和胡拉姆·达乌德（Khurram Daud），已经在北京开始与中国宇航员共同接受训练。按照计划，两人在中国完成各项训练并通过考核后，“其中 1 人将执行载人飞行任务，1 人作为任务备份航天员”。",
      "source": "Solidot",
      "zh": "天宫即将迎来首位巴基斯坦宇航员"
-    },
-    {
-     "title": "广电总局整治 AI 低俗微短剧",
-     "link": "https://www.solidot.org/story?sid=85821",
-     "pubDate": "Sat, 07 Nov 2026 19:19:42 +0800",
-     "summary": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理聚焦两个方面的突出问题，内容创作方面，深化治理儿童类不良、软色情擦边、极端对立、拜金主义、严重违背家庭伦理道德等低俗不良内容；治理未按要求备案审核的特殊题材内容；治理“盗脸”“偷声”问题，规范 AI 微短剧创作。传播推广方面，治理片名、宣推素材、弹幕评论、引流片段中的低俗内容；治理同一剧集通过更换片名或主角姓名等方式，改头换面、反复播出；治理首页首屏首推和重",
-     "source": "Solidot",
-     "zh": "广电总局整治 AI 低俗微短剧"
-    },
-    {
-     "title": "This Totally Free App Can Free Up Space on Your Mac",
-     "link": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-     "pubDate": "Sat, 07 Nov 2026 11:15:00 +0000",
-     "summary": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
-     "source": "WIRED",
-     "zh": "This Totally Free App Can Free Up Space on Your Mac"
-    },
-    {
-     "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-     "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-     "pubDate": "Sat, 07 Nov 2026 11:00:34 +0000",
-     "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-     "source": "Ars Technica",
-     "zh": "British soldier ignored order to pull his SIM card, then got blackmailed"
-    },
-    {
-     "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
-     "link": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
-     "pubDate": "Sat, 07 Nov 2026 11:00:00 +0000",
-     "summary": "Skip the gym and get outdoors with GoRuck’s indestructible packs and workout gear, deeply discounted ahead of the holidays.",
-     "source": "WIRED",
-     "zh": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off"
-    },
-    {
-     "title": "Upload Your RAM",
-     "link": "https://uploadyourram.org",
-     "pubDate": "Sat, 07 Nov 2026 10:15:26 +0000",
-     "summary": "Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 234 # Comments: 217",
-     "source": "Hacker News",
-     "zh": "Upload Your RAM"
-    },
-    {
-     "title": "Every Mac comes with an (undocumented) family member classifier",
-     "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-     "pubDate": "Sat, 07 Nov 2026 09:46:03 +0000",
-     "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 379 # Comments: 215",
-     "source": "Hacker News",
-     "zh": "Every Mac comes with an (undocumented) family member classifier"
-    },
-    {
-     "title": "Running a law firm on Free software",
-     "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-     "pubDate": "Sat, 07 Nov 2026 09:39:06 +0000",
-     "summary": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 114 # Comments: 52",
-     "source": "Hacker News",
-     "zh": "Running a law firm on Free software"
     }
    ]
   },
@@ -2002,6 +2002,46 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "How to legally download free movies to your computer",
+     "link": "https://www.engadget.com/2306356/how-to-legally-download-free-movies/",
+     "pubDate": "Sat, 07 Nov 2026 17:15:00 +0000",
+     "summary": "There are services that will allow you to download movies from the public domain, and several streaming services let you download shows for offline viewing.",
+     "source": "Engadget",
+     "zh": "How to legally download free movies to your computer"
+    },
+    {
+     "title": "Apple also made its classical music app's logo black and white",
+     "link": "https://www.engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white/",
+     "pubDate": "Sat, 07 Nov 2026 17:06:13 +0000",
+     "summary": "Apple Music Classical now has a black-and-white logo, as well.",
+     "source": "Engadget",
+     "zh": "Apple also made its classical music app's logo black and white"
+    },
+    {
+     "title": "How does the digital ink in ereaders work?",
+     "link": "https://www.engadget.com/2306305/how-does-ereader-nook-amazon-kindle-digital-ink-work/",
+     "pubDate": "Sat, 07 Nov 2026 17:00:00 +0000",
+     "summary": "Unlike regular LCD and OLED displays, ereaders rely on e-ink tech that lets them gently sip power and last for months. Here's the science behind how it works.",
+     "source": "Engadget",
+     "zh": "How does the digital ink in ereaders work?"
+    },
+    {
+     "title": "Solar panel breakthrough could almost double the efficiency of today's panels",
+     "link": "https://www.engadget.com/2306188/solar-panel-efficiency-breakthrough-doubles-output/",
+     "pubDate": "Sat, 07 Nov 2026 16:45:00 +0000",
+     "summary": "Solar panels have become much more efficient since their infancy, but research breakthroughs show there's still plenty of room for improvement.",
+     "source": "Engadget",
+     "zh": "Solar panel breakthrough could almost double the efficiency of today's panels"
+    },
+    {
+     "title": "This GPS navigation app should be the go-to for older drivers",
+     "link": "https://www.engadget.com/2305919/gps-navigation-app-go-to-older-drivers-google-maps/",
+     "pubDate": "Sat, 07 Nov 2026 16:30:00 +0000",
+     "summary": "Nervous about driving somewhere new? One familiar navigation app has simple turn-by-turn directions that help older drivers feel more confident.",
+     "source": "Engadget",
+     "zh": "This GPS navigation app should be the go-to for older drivers"
+    },
+    {
      "title": "What gamers should know when bringing their consoles through TSA",
      "link": "https://www.engadget.com/2305767/gamers-tsa-game-console-rules/",
      "pubDate": "Sat, 07 Nov 2026 16:15:00 +0000",
@@ -2010,52 +2050,12 @@ window.INDUSTRY_DATA = {
      "zh": "What gamers should know when bringing their consoles through TSA"
     },
     {
-     "title": "The right way to fix your MacBook keyboard if it isn't responding",
-     "link": "https://www.engadget.com/2305570/macbook-keyboard-fix-not-responding/",
-     "pubDate": "Sat, 07 Nov 2026 16:00:00 +0000",
-     "summary": "Don't count out your MacBook's keyboard just yet - a quick hardware cleaning or software toggle could get it working again.",
-     "source": "Engadget",
-     "zh": "The right way to fix your MacBook keyboard if it isn't responding"
-    },
-    {
      "title": "Google to add vocabulary for corrected words to Gboard's Rambler voice typing feature",
      "link": "https://www.gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php",
      "pubDate": "Sat, 07 Nov 2026 16:47:02 +0100",
      "summary": "Android Authority app teardown reveals some cool new features coming to Gboard's AI-powered voice typing feature called Rambler. Rambler, however, is a Pixel-exclusive functionality, at least for now, and makes voice typing that much easier. It can leave out pauses or other filler words, but it can'",
      "source": "GSMArena",
      "zh": "Google to add vocabulary for corrected words to Gboard's Rambler voice typing feature"
-    },
-    {
-     "title": "Cleaning your PC with expired isopropyl alcohol can be risky — here's why",
-     "link": "https://www.engadget.com/2305456/why-isopropyl-alcohol-degrades-pc-cleaning/",
-     "pubDate": "Sat, 07 Nov 2026 15:45:00 +0000",
-     "summary": "Think twice before grabbing that old bottle. Here's why expired isopropyl alcohol can harm your PC and how to clean it the safe way instead.",
-     "source": "Engadget",
-     "zh": "Cleaning your PC with expired isopropyl alcohol can be risky — here's why"
-    },
-    {
-     "title": "How to use your old tablet to build a live streaming setup",
-     "link": "https://www.engadget.com/2304970/how-to-build-live-streaming-setup-with-old-tablet/",
-     "pubDate": "Sat, 07 Nov 2026 15:30:00 +0000",
-     "summary": "You don't always need to buy new products just to start live streaming. This app lets you reuse an old tablet as the centerpiece of your setup.",
-     "source": "Engadget",
-     "zh": "How to use your old tablet to build a live streaming setup"
-    },
-    {
-     "title": "How iOS can warn you when one of your passwords shows up in a data leak",
-     "link": "https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak/",
-     "pubDate": "Sat, 07 Nov 2026 15:15:00 +0000",
-     "summary": "You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.",
-     "source": "Engadget",
-     "zh": "How iOS can warn you when one of your passwords shows up in a data leak"
-    },
-    {
-     "title": "Why you don't really need an expensive, high-end router",
-     "link": "https://www.engadget.com/2305411/why-you-dont-need-expensive-high-end-router/",
-     "pubDate": "Sat, 07 Nov 2026 15:00:00 +0000",
-     "summary": "Getting a top-of-the-line router won't necessarily increase your internet speeds. Here's what you need to know before you buy.",
-     "source": "Engadget",
-     "zh": "Why you don't really need an expensive, high-end router"
     },
     {
      "title": "Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days",
@@ -2250,6 +2250,94 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "初步计票结果：新西兰执政联盟获议会过半席位",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925563285.html",
+     "pubDate": "Sun, 08 Nov 2026 01:20:39 +0800",
+     "summary": "新西兰选举委员会11月8日凌晨公布的初步计票结果显示，在7日结束的新一届议会选举中，国家党主导的现执政联盟赢得超半数席位。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "初步计票结果：新西兰执政联盟获议会过半席位"
+    },
+    {
+     "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+     "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 07 Nov 2026 17:04:00 GMT",
+     "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+     "source": "MarketWatch",
+     "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
+    },
+    {
+     "title": "加码算力赛道！首都在线子公司甘肃宸融增资引入投资方：公司放弃优先认购权 持股降至16.67%仍并表 约定2027年8月前重新控股",
+     "link": "http://finance.eastmoney.com/news/1354,202611073925561512.html",
+     "pubDate": "Sun, 08 Nov 2026 01:02:30 +0800",
+     "summary": "11月6日晚间，北京 首都在线 科技股份有限公司（以下简称“ 首都在线 ”或“公司”）发布关于全资子公司增资扩股引入投资者暨公司放弃优先认缴出资权的公告。公告显示，公司全资子公司甘肃宸融智算科技拟新增1亿元注册资本并引入现服基金、 国能日新 、自然人林娟三名投资方， 首都在线 放弃优先认缴权，增资完成后公司持股降至16.67%，但凭借董事会委派、经营管控及一致行动安排仍将其纳入合并报表。交易附带股权回购条款、实控人提供股票质押担保，同时约定公司需在2027年8月31日前完成新一轮增资以重回控股地位。本次增资资金主要投向算力硬件采购，为公司智算转型布局算力资源。 公告披露，2026年11月6日，",
+     "source": "东方财富股票",
+     "zh": "加码算力赛道！首都在线子公司甘肃宸融增资引入投资方：公司放弃优先认购权 持股降至16.67%仍并表 约定2027年8月前重新控股"
+    },
+    {
+     "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+     "pubDate": "Sat, 07 Nov 2026 17:01:00 GMT",
+     "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+     "source": "MarketWatch",
+     "zh": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home"
+    },
+    {
+     "title": "Real estate stocks gain as the Blue Wave sends Treasury yields lower",
+     "link": "https://seekingalpha.com/news/4668540-real-estate-stocks-gain-as-the-blue-wave-sends-treasury-yields-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 07 Nov 2026 12:00:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Real estate stocks gain as the Blue Wave sends Treasury yields lower"
+    },
+    {
+     "title": "Energy Earnings Scorecard: Strong Q3 results drive clean sweep across major players",
+     "link": "https://seekingalpha.com/news/4668733-energy-earnings-scorecard-strong-q3-results-drive-clean-sweep-across-major-players?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 07 Nov 2026 11:56:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Energy Earnings Scorecard: Strong Q3 results drive clean sweep across major players"
+    },
+    {
+     "title": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth",
+     "link": "https://seekingalpha.com/news/4667797-earnings-scoreboard-86-of-reporting-firms-beat-eps-estimates-78-post-yy-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 07 Nov 2026 11:45:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth"
+    },
+    {
+     "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
+     "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
+     "pubDate": "Sat, 07 Nov 2026 16:43:06 GMT",
+     "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
+     "source": "Financial Times",
+     "zh": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases"
+    },
+    {
+     "title": "俄称打击乌多地区目标 乌称能源设施遭大规模袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925563167.html",
+     "pubDate": "Sun, 08 Nov 2026 00:42:29 +0800",
+     "summary": "俄罗斯国防部7日发布通报说，过去一天，俄军在33个地区挫败乌军进攻，并打击了乌方位于139个地区的多类目标。同日，乌克兰称，该国多地能源设施遭大规模袭击。 俄国防部通报说，俄军在哈尔科夫州等地的33个城镇村庄挫败了乌军31支部队的进攻，造成乌军人员和武器装备损失。俄乌两军在包括军事重镇克拉马托尔斯克、斯拉维扬斯克等在内的13个城市、村镇交战。 俄国防部还通报说，俄军动用航空兵、攻击型 无人机 、导弹和火炮，在过去一天攻击了乌方139个地区，摧毁1座雷达站，击中多处弹药库、生产储存地面军用 机器人 系统和 无人机 的设施，以及乌军和外国雇佣兵驻地。俄防空火力击落2枚制导航空炸弹、4枚“海王星”远",
+     "source": "东方财富股票",
+     "zh": "俄称打击乌多地区目标 乌称能源设施遭大规模袭击"
+    },
+    {
+     "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+     "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+     "pubDate": "Sat, 07 Nov 2026 16:40:00 GMT",
+     "summary": "The large-cap index is nowhere near as diversified as you think.",
+     "source": "MarketWatch",
+     "zh": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives."
+    },
+    {
+     "title": "Glacier Media GAAP EPS of $0.01, revenue of $38.3M",
+     "link": "https://seekingalpha.com/news/4668732-glacier-media-gaap-eps-of-0_01-revenue-of-38_3m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 07 Nov 2026 11:39:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Glacier Media GAAP EPS of $0.01, revenue of $38.3M"
+    },
+    {
      "title": "Novartis is said to be abandoning Ionis heart drug after late-stage trial setback",
      "link": "https://seekingalpha.com/news/4668729-novartis-abandoning-ionis-heart-drug-post-trial-setback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 07 Nov 2026 11:36:38 -0500",
@@ -2266,20 +2354,20 @@ window.INDUSTRY_DATA = {
      "zh": "Everyday People Financial reports Q3 results"
     },
     {
-     "title": "Kelso Technologies Inc. GAAP EPS of -$0.01",
-     "link": "https://seekingalpha.com/news/4668730-kelso-technologies-inc-gaap-eps-of-0_01?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 07 Nov 2026 11:33:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kelso Technologies Inc. GAAP EPS of -$0.01"
+     "title": "大模型跌成这样 还是贵？",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925563056.html",
+     "pubDate": "Sun, 08 Nov 2026 00:35:59 +0800",
+     "summary": "11月5日，资本市场\"大奇迹日\"行情延续，恒生科技继续反弹，收涨5.55%。但大模型板块却没跟上，MiniMax勉强收红， 智谱 收跌1.69%，是港股市场少数收绿的标的。 更令人意外的是，7月以来， 智谱 和MiniMax股价最大回撤分别超过75%和60%。而就在股价大跌的同时，两家公司的收入和ARR仍在高速增长。 大模型明明越卖越多，资本市场为什么反而不买账了？ 这种变化并非个例。 摩根大通 在上调 智谱 ARR预期的同时，仍大幅下修其目标估值；OpenAI、Anthropic等全球大模型巨头，也面临融资及IPO估值预期下调。 从二级市场到一级市场，投资者衡量大模型公司的标准正在变化。过去",
+     "source": "东方财富股票",
+     "zh": "大模型跌成这样 还是贵？"
     },
     {
-     "title": "TelyRx Holdings Inc. GAAP EPS of -$0.06",
-     "link": "https://seekingalpha.com/news/4668728-telyrx-holdings-inc-gaap-eps-of-0_06?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 07 Nov 2026 11:32:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TelyRx Holdings Inc. GAAP EPS of -$0.06"
+     "title": "日本静冈县西部发生5.7级地震 东京有震感",
+     "link": "http://finance.eastmoney.com/news/11790,202611083925562894.html",
+     "pubDate": "Sun, 08 Nov 2026 00:30:14 +0800",
+     "summary": "据日本气象厅消息，日本静冈县西部8日凌晨发生5.7级地震。东京亦有震感。 日本气象厅发布的信息显示，地震发生于当地时间8日1时04分（北京时间8日0时04分）左右，震中位于北纬34.9度、东经137.7度，震源深度约40公里。 日本气象厅说，无需担心此次地震引发海啸。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "日本静冈县西部发生5.7级地震 东京有震感"
     },
     {
      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
@@ -2298,20 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "I attend free meals hosted by people promoting annuities. I’ve no intention of buying any. Should I stop going?"
     },
     {
-     "title": "BRBI BR Partners S.A. GAAP EPS of $0.07",
-     "link": "https://seekingalpha.com/news/4668727-brbi-br-partners-s-a-gaap-eps-of-0_07?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 07 Nov 2026 11:29:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BRBI BR Partners S.A. GAAP EPS of $0.07"
-    },
-    {
-     "title": "D-MARKET Electronic Services &amp; Trading reports Q3 results",
-     "link": "https://seekingalpha.com/news/4668726-d-market-electronic-services-and-trading-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 07 Nov 2026 11:26:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "D-MARKET Electronic Services &amp; Trading reports Q3 results"
+     "title": "也门胡塞武装称沙特空袭致死人数升至22人",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925562714.html",
+     "pubDate": "Sun, 08 Nov 2026 00:10:03 +0800",
+     "summary": "萨那消息：也门胡塞武装控制的马西拉电视台7日援引当地医疗部门负责人的消息报道称，也门首都萨那附近一座村庄当天遭沙特阿拉伯空袭造成的死亡人数已升至22人，另有30人受伤。 报道说， 医院 已接收22具遇难者遗体。报道呼吁 医院 增派救护车转运伤者，呼吁民众献血帮助救治。 报道称，沙特战机随后还袭击了村内的救援人员，并持续在事发地区上空活动，阻碍救援队伍接近遇袭人员。此外还有两名摄像记者在袭击中受伤。 当天早些时候，马西拉电视台报道说，萨那以东的贝尼·胡谢什地区舍尔耶村当天遭到沙特空袭，5栋民宅被毁，造成至少11人死亡。 近期，沙特与胡塞武装互袭力度增强。与此同时，胡塞武装与沙特支持的也门政府军在",
+     "source": "东方财富股票",
+     "zh": "也门胡塞武装称沙特空袭致死人数升至22人"
     },
     {
      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
@@ -2322,92 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?"
     },
     {
-     "title": "You follow the rules for smart stock trading. But are they the right rules?",
-     "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
-     "pubDate": "Sat, 07 Nov 2026 16:00:00 GMT",
-     "summary": "Apply the wisdom of investment pros to develop your own consistent methodology.",
-     "source": "MarketWatch",
-     "zh": "You follow the rules for smart stock trading. But are they the right rules?"
-    },
-    {
-     "title": "加码算力赛道！首都在线子公司甘肃宸融增资引入投资方：公司放弃优先认购权 持股降至16.67%仍并表 约定2027年8月前重新控股",
-     "link": "http://finance.eastmoney.com/news/1354,202611073925561512.html",
-     "pubDate": "Sat, 07 Nov 2026 23:49:30 +0800",
-     "summary": "11月6日晚间，北京 首都在线 科技股份有限公司（以下简称“ 首都在线 ”或“公司”）发布关于全资子公司增资扩股引入投资者暨公司放弃优先认缴出资权的公告。公告显示，公司全资子公司甘肃宸融智算科技拟新增1亿元注册资本并引入现服基金、 国能日新 、自然人林娟三名投资方， 首都在线 放弃优先认缴权，增资完成后公司持股降至16.67%，但凭借董事会委派、经营管控及一致行动安排仍将其纳入合并报表。交易附带股权回购条款、实控人提供股票质押担保，同时约定公司需在2027年8月31日前完成新一轮增资以重回控股地位。本次增资资金主要投向算力硬件采购，为公司智算转型布局算力资源。 公告披露，2026年11月6日，",
-     "source": "东方财富股票",
-     "zh": "加码算力赛道！首都在线子公司甘肃宸融增资引入投资方：公司放弃优先认购权 持股降至16.67%仍并表 约定2027年8月前重新控股"
-    },
-    {
-     "title": "也门武装部队：摧毁了胡塞武装的50辆军用车辆和卡车以及一具火箭发射器",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925560729.html",
-     "pubDate": "Sat, 07 Nov 2026 23:45:09 +0800",
-     "summary": "也门武装部队：摧毁了胡塞武装的50辆军用车辆和卡车以及一具火箭发射器。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "也门武装部队：摧毁了胡塞武装的50辆军用车辆和卡车以及一具火箭发射器"
-    },
-    {
-     "title": "波兰警方称：枪手使用长型军用枪械 并身着军用风格服装",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925560551.html",
-     "pubDate": "Sat, 07 Nov 2026 23:45:09 +0800",
-     "summary": "波兰警方称，枪手使用长型军用枪械，并身着军用风格服装。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "波兰警方称：枪手使用长型军用枪械 并身着军用风格服装"
-    },
-    {
-     "title": "也门武装部队：在最近的空袭中 约130名胡塞武装领导人和成员被消灭",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925560619.html",
-     "pubDate": "Sat, 07 Nov 2026 23:45:08 +0800",
-     "summary": "也门武装部队：在最近的空袭中，约130名胡塞武装领导人和成员被消灭。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "也门武装部队：在最近的空袭中 约130名胡塞武装领导人和成员被消灭"
-    },
-    {
-     "title": "You’re fired! But you can keep the laptop and insurance. And here’s $10,000.",
-     "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-     "pubDate": "Sat, 07 Nov 2026 15:44:00 GMT",
-     "summary": "Some tech companies are giving more generous severance packages, but here’s what to keep in mind.",
-     "source": "MarketWatch",
-     "zh": "You’re fired! But you can keep the laptop and insurance. And here’s $10,000."
-    },
-    {
-     "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-     "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-     "pubDate": "Sat, 07 Nov 2026 15:41:00 GMT",
-     "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
-     "source": "MarketWatch",
-     "zh": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?"
-    },
-    {
-     "title": "摩根大通中国首席经济学家、大中华区经济研究主管朱锋：AI投资仍处扩张中期 2027年相关投资有望保持高位",
-     "link": "http://finance.eastmoney.com/news/1360,202611073925560015.html",
-     "pubDate": "Sat, 07 Nov 2026 23:38:36 +0800",
-     "summary": "近日， 摩根大通 中国首席经济学家、大中华区经济研究主管朱锋分享观点称，当前全球AI资本开支仍处于扩张中期，尚未进入尾声。随着AI服务器、 数据中心 等领域需求持续释放，相关投资有望延续至2027年甚至更长时间。预计2027年AI相关投资仍将保持高位，但增速可能有所放缓，投资重点将逐步从基础模型、通用算力向电网、存储、散热、芯片及企业应用等领域拓展。 朱锋认为，AI产业正从前期以需求增 长和 资本投入为主要 驱动力 的阶段，逐步转向更加注重投资回报和商业化成果的阶段。市场关注的重点将不再局限于资本开支规模，而是巨额投入能否转化为实际收入、现金流和生产率提升。未来，拥有稳定订单、现金流及关键环节",
-     "source": "东方财富股票",
-     "zh": "摩根大通中国首席经济学家、大中华区经济研究主管朱锋：AI投资仍处扩张中期 2027年相关投资有望保持高位"
-    },
-    {
-     "title": "直击进博会｜毕马威进博会首发《预见2030》 把脉未来新航向",
-     "link": "http://finance.eastmoney.com/news/1348,202611073925560225.html",
-     "pubDate": "Sat, 07 Nov 2026 23:38:26 +0800",
-     "summary": "在2026年第九届进博会期间，毕马威在进博会成果报告发布厅发布新书《预见2030：解码“十五五”宏观经济与产业趋势》。该书是毕马威推出的“十五五”时期企业高质量发展丛书之一。其中，“金融赋能篇”提到， 银行 业将深度服务实体经济与新质生产力，证券与资管行业专注转型为现代一流投资 银行 与机构，保险业正进化为服务未来产业、护航新经济的赋能者。 此外，“智造转型篇”则关注工业制造、 汽车 、医疗和生物医药行业，强调传统产业向智能化、绿色化、融合化发展，技术密集型产业需加强研发投入并结合 人工智能 寻求新机遇。对此，毕马威中国客户及业务发展主管合伙人江立勤在现场分享观点表示， 人工智能 已不是单点技",
-     "source": "东方财富股票",
-     "zh": "直击进博会｜毕马威进博会首发《预见2030》 把脉未来新航向"
-    },
-    {
      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
      "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
      "pubDate": "Sat, 07 Nov 2026 15:23:46 GMT",
      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
      "source": "CNBC",
      "zh": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline"
-    },
-    {
-     "title": "Berkshire Hathaway ploughs $9.6bn into share buybacks",
-     "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-     "pubDate": "Sat, 07 Nov 2026 15:18:43 GMT",
-     "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
-     "source": "Financial Times",
-     "zh": "Berkshire Hathaway ploughs $9.6bn into share buybacks"
     },
     {
      "title": "进博会观察|外企谈中国消费市场，关键词变了",
@@ -2498,6 +2498,14 @@ window.INDUSTRY_DATA = {
    "total": 8,
    "items": [
     {
+     "title": "Tectonic forces near Japan helped fuel the formation of the Grand Canyon",
+     "link": "https://www.livescience.com/planet-earth/tectonic-forces-near-japan-helped-fuel-the-formation-of-the-grand-canyon",
+     "pubDate": "Sat, 07 Nov 2026 17:00:00 +0000",
+     "summary": "A double subduction zone off the coast of Japan caused rifting halfway around the world to accelerate, fueling the formation of some of North America's most iconic features.",
+     "source": "Live Science",
+     "zh": "Tectonic forces near Japan helped fuel the formation of the Grand Canyon"
+    },
+    {
      "title": "Women often get cold more easily than men — a mouse study offers hints why",
      "link": "https://www.livescience.com/health/neuroscience/women-often-get-cold-more-easily-than-men-a-mouse-study-offers-hints-why",
      "pubDate": "Sat, 07 Nov 2026 16:00:00 +0000",
@@ -2568,14 +2576,6 @@ window.INDUSTRY_DATA = {
      "summary": "A stunning fossil owl from Germany that has its last meal preserved in its stomach helped researchers to narrow down the time when these birds mostly became active at night.",
      "source": "Live Science",
      "zh": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery"
-    },
-    {
-     "title": "50% of long COVID patients show improvement in 3 years — but the condition tends to linger in those with this subtype",
-     "link": "https://www.livescience.com/health/viruses-infections-disease/50-percent-of-long-covid-patients-show-improvement-in-3-years-but-the-condition-tends-to-linger-in-those-with-this-subtype",
-     "pubDate": "Fri, 06 Nov 2026 17:00:00 +0000",
-     "summary": "About half of people with long COVID see meaningful improvement in their symptoms after three years, a new study found.",
-     "source": "Live Science",
-     "zh": "50% of long COVID patients show improvement in 3 years — but the condition tends to linger in those with this subtype"
     },
     {
      "title": "This may be the best evidence yet that dinosaur blood can fossilize",

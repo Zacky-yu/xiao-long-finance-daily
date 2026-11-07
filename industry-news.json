@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/8 04:36:13",
+ "generated_at": "2026/11/8 05:06:21",
  "recent_days": 7,
  "industries": [
   {
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "REDD — Picking Up Our New Tesla Model Y",
+     "link": "https://cleantechnica.com/2026/11/07/redd-picking-up-our-new-tesla-model-y/",
+     "pubDate": "Sat, 07 Nov 2026 20:42:56 +0000",
+     "summary": "REDD, the name for our new Tesla Model Y (Standard Range ’26 build, ’27 model), was inspired by the movie of the same name – Retired, Extremely Dangerous Drivers (the wife and I, of course). As mentioned previously, there is nothing wrong with our beloved 2019 Model 3. It is ... [continued] The post",
+     "source": "CleanTechnica",
+     "zh": "REDD — Picking Up Our New Tesla Model Y"
+    },
+    {
      "title": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
      "link": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
      "pubDate": "Sat, 07 Nov 2026 14:00:00 -0600",
@@ -951,14 +959,6 @@
      "summary": "The Bipartisan American Affordability and Jobs Act of 2026 (BAAJA) is the result of years of negotiations on permitting reform. The product is a bill that combines critically important transmission and grid reforms with significant and concerning changes to federal environmental laws, permitting sta",
      "source": "CleanTechnica",
      "zh": "NRDC Assessment of BAAJA, the 2026 Permitting & Transmission Bill"
-    },
-    {
-     "title": "Solar Industry Shows Hope After US Election, Focuses On Key Message",
-     "link": "https://cleantechnica.com/2026/11/06/solar-industry-shows-hope-after-us-election-focuses-on-key-message/",
-     "pubDate": "Sat, 07 Nov 2026 02:43:10 +0000",
-     "summary": "Let’s be honest — even with humongous, epic control of Congress like we haven’t seen in several decades, Democrats can’t really do anything legislatively unless Donald Trump wants to, and there’s a super slim chance Trump would do anything to support clean energy. He is extremely anti clean energy a",
-     "source": "CleanTechnica",
-     "zh": "Solar Industry Shows Hope After US Election, Focuses On Key Message"
     },
     {
      "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
@@ -1772,7 +1772,7 @@
      "title": "What I run on my $10 USD OpenStick homelab",
      "link": "https://blog.bosscher.ch/posts/openstick/",
      "pubDate": "Sat, 07 Nov 2026 18:12:12 +0000",
-     "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 107 # Comments: 23",
+     "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 138 # Comments: 25",
      "source": "Hacker News",
      "zh": "What I run on my $10 USD OpenStick homelab"
     },
@@ -1780,7 +1780,7 @@
      "title": "The end of Microsoft Research's AI Frontiers group",
      "link": "https://hunch.net/?p=13764006",
      "pubDate": "Sat, 07 Nov 2026 18:02:17 +0000",
-     "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 172 # Comments: 86",
+     "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 205 # Comments: 106",
      "source": "Hacker News",
      "zh": "The end of Microsoft Research's AI Frontiers group"
     },
@@ -1804,7 +1804,7 @@
      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
      "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
      "pubDate": "Sat, 07 Nov 2026 17:54:56 +0000",
-     "summary": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 15 # Comments: 0",
      "source": "Hacker News",
      "zh": "GeoWorks, Microsoft Windows' Upstart '90s Competitor"
     },
@@ -1812,7 +1812,7 @@
      "title": "Five memorable books about programming (2008)",
      "link": "https://prog21.dadgum.com/19.html",
      "pubDate": "Sat, 07 Nov 2026 17:30:49 +0000",
-     "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 42 # Comments: 13",
+     "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 45 # Comments: 20",
      "source": "Hacker News",
      "zh": "Five memorable books about programming (2008)"
     },
@@ -1836,7 +1836,7 @@
      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
      "pubDate": "Sat, 07 Nov 2026 17:19:00 +0000",
-     "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 95 # Comments: 24",
+     "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 106 # Comments: 26",
      "source": "Hacker News",
      "zh": "MaxxBench – \"Nice DeepSWE score. But is it true?\""
     },
@@ -2001,6 +2001,30 @@
    "total": 7,
    "items": [
     {
+     "title": "Deals: Galaxy S26 Ultra and S25 Ultra on sale, Galaxy Z Fold8 price drops",
+     "link": "https://www.gsmarena.com/deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378.php",
+     "pubDate": "Sat, 07 Nov 2026 21:45:02 +0100",
+     "summary": "Patience pays off – some flagships were holding a fairly high price last week, but now they are down to a much better number. That is the case for the Samsung Galaxy S26 Ultra – a 256GB unit was $1,105 last week, now it’s $1,000. We’ve seen it as low as $950 not too long ago, but the $50 difference ",
+     "source": "GSMArena",
+     "zh": "Deals: Galaxy S26 Ultra and S25 Ultra on sale, Galaxy Z Fold8 price drops"
+    },
+    {
+     "title": "There is no end in sight for the GPU supply problem",
+     "link": "https://www.engadget.com/2309554/gpu-supply-problem-no-end-in-sight/",
+     "pubDate": "Sat, 07 Nov 2026 20:45:00 +0000",
+     "summary": "GPU prices have soared as the supply of memory has tightened, and it doesn't look like this is going to change any time soon (though a few optimists disagree).",
+     "source": "Engadget",
+     "zh": "There is no end in sight for the GPU supply problem"
+    },
+    {
+     "title": "How long should a PC processor actually last?",
+     "link": "https://www.engadget.com/2309550/how-long-pc-processor-should-last/",
+     "pubDate": "Sat, 07 Nov 2026 20:30:00 +0000",
+     "summary": "Your computer's CPU is its most important part, and its most expensive one, too. So how long can you expect it to last if cared for properly?",
+     "source": "Engadget",
+     "zh": "How long should a PC processor actually last?"
+    },
+    {
      "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
      "link": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
      "pubDate": "Sat, 07 Nov 2026 20:30:00 +0000",
@@ -2047,22 +2071,6 @@
      "summary": "Anker’s new MagGo Pro 2 power bank offers active cooling, 25W MagSafe fast charging, 10,000mAh of capacity, and a smart display – all in one package. Anker touts it as the fastest and coolest wireless power bank on the market. more…",
      "source": "9to5Mac",
      "zh": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand"
-    },
-    {
-     "title": "How a bottleneck calculator for your GPU and CPU works",
-     "link": "https://www.engadget.com/2306571/how-bottleneck-calculator-works-gpu-cpu/",
-     "pubDate": "Sat, 07 Nov 2026 19:00:00 +0000",
-     "summary": "They're a quick way to help you check component compatibility before you build or upgrade a system.",
-     "source": "Engadget",
-     "zh": "How a bottleneck calculator for your GPU and CPU works"
-    },
-    {
-     "title": "5 things you didn't know Steam's overlay could do",
-     "link": "https://www.engadget.com/2309539/things-you-didnt-know-steam-overlay-could-do/",
-     "pubDate": "Sat, 07 Nov 2026 18:45:00 +0000",
-     "summary": "Steam's overlay hides several useful tools beyond its familiar chat window, including features that can help you play, stay organized, and connect with friends.",
-     "source": "Engadget",
-     "zh": "5 things you didn't know Steam's overlay could do"
     },
     {
      "title": "OnePlus releases its ColorOS 17 rollout schedule for November",
@@ -2201,14 +2209,6 @@
      "zh": "We now have a more definite timeframe for Samsung Galaxy Buds On's Europe launch"
     },
     {
-     "title": "iOS 27 users report HDMI output issues and there's no fix in sight",
-     "link": "https://www.gsmarena.com/ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385.php",
-     "pubDate": "Sat, 07 Nov 2026 06:00:02 +0100",
-     "summary": "As is usually the case with new software releases, rollouts rarely go smoothly, and developers work overtime to provide fixes. One problem that gained a lot of traction is the Apple Intelligence storage issue that occupies about 15GB in some cases, even if you don't use AI or it's not available at a",
-     "source": "GSMArena",
-     "zh": "iOS 27 users report HDMI output issues and there's no fix in sight"
-    },
-    {
      "title": "Google’s original Nest Doorbell is broken for many right now",
      "link": "https://9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports/",
      "pubDate": "Fri, 06 Nov 2026 23:15:00 +0000",
@@ -2249,6 +2249,38 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump offers UFC chief Dana White press secretary job",
+     "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+     "pubDate": "Sat, 07 Nov 2026 20:57:34 GMT",
+     "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
+     "source": "CNBC",
+     "zh": "Trump offers UFC chief Dana White press secretary job"
+    },
+    {
+     "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+     "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+     "pubDate": "Sat, 07 Nov 2026 20:48:00 GMT",
+     "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+     "source": "MarketWatch",
+     "zh": "This retired professor has reinvented himself — as a Taylor Swift scholar"
+    },
+    {
+     "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+     "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 07 Nov 2026 20:36:00 GMT",
+     "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+     "source": "MarketWatch",
+     "zh": "Second-guessing my adviser: Is an annuity the right move in this market?"
+    },
+    {
+     "title": "Trump asks UFC boss Dana White to be new press secretary",
+     "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
+     "pubDate": "Sat, 07 Nov 2026 20:33:52 GMT",
+     "summary": "US president signals combative approach in wake of midterms drubbing of his party",
+     "source": "Financial Times",
+     "zh": "Trump asks UFC boss Dana White to be new press secretary"
+    },
+    {
      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
      "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
      "pubDate": "Sat, 07 Nov 2026 20:28:17 GMT",
@@ -2257,12 +2289,12 @@
      "zh": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans"
     },
     {
-     "title": "Trump offers UFC chief Dana White press secretary job",
-     "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-     "pubDate": "Sat, 07 Nov 2026 20:27:10 GMT",
-     "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
-     "source": "CNBC",
-     "zh": "Trump offers UFC chief Dana White press secretary job"
+     "title": "伊朗格什姆岛传出爆炸声",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925564056.html",
+     "pubDate": "Sun, 08 Nov 2026 04:21:35 +0800",
+     "summary": "伊朗格什姆岛传出爆炸声。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗格什姆岛传出爆炸声"
     },
     {
      "title": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
@@ -2281,12 +2313,28 @@
      "zh": "Key deals this week: PANW, META, OGI, CRM and more"
     },
     {
-     "title": "Trump says he asked UFC boss Dana White to be new press secretary",
-     "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
-     "pubDate": "Sat, 07 Nov 2026 19:52:07 GMT",
-     "summary": "President sacked previous White House spokesperson after five days",
-     "source": "Financial Times",
-     "zh": "Trump says he asked UFC boss Dana White to be new press secretary"
+     "title": "特朗普宣布邀请达纳·怀特担任白宫新闻秘书",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925563884.html",
+     "pubDate": "Sun, 08 Nov 2026 04:09:54 +0800",
+     "summary": "当地时间11月7日，美国总统特朗普在社交媒体平台“真实社交”上发文称，他已邀请美国终极格斗冠军赛总裁 达纳 ·怀特担任白宫新闻秘书一职。他称怀特将会是一名“与众不同”的新闻秘书。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "特朗普宣布邀请达纳·怀特担任白宫新闻秘书"
+    },
+    {
+     "title": "以色列总统宣布将正式授权埃森科特组建新一届政府",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925563721.html",
+     "pubDate": "Sun, 08 Nov 2026 03:57:55 +0800",
+     "summary": "当地时间7日晚间，以色列总统赫尔佐格发表声明，称其已正式通知正直党领导人、以军前总参谋长埃森科特，决定于8日授权其组建新一届政府。 声明指出，赫尔佐格已邀请埃森科特当地时间8日前往总统官邸，并定于当天17时正式履行授权组阁程序。 声明强调，根据以色列基本法相关规定，被授权组阁的议会议员将拥有28天时间来组建新政府。若在法律规定期限内需要更多时间，总统依法有权将组阁期限最多延长14天。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "以色列总统宣布将正式授权埃森科特组建新一届政府"
+    },
+    {
+     "title": "马斯克：即将推出的效率提升将使40千瓦时的赛博卡车电池组成为可能",
+     "link": "http://stock.eastmoney.com/news/1611,202611083925563980.html",
+     "pubDate": "Sun, 08 Nov 2026 03:52:16 +0800",
+     "summary": "马斯克：即将推出的效率提升将使40千瓦时的赛博卡车 电池 组成为可能。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "马斯克：即将推出的效率提升将使40千瓦时的赛博卡车电池组成为可能"
     },
     {
      "title": "Here are the 2027 capital-gains tax rates for each income level",
@@ -2297,12 +2345,20 @@
      "zh": "Here are the 2027 capital-gains tax rates for each income level"
     },
     {
-     "title": "菲律宾9月失业人数升至286万 就业市场承压",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925556556.html",
-     "pubDate": "Sun, 08 Nov 2026 03:30:09 +0800",
-     "summary": "菲律宾统计局6日公布的数据显示，菲律宾9月失业人数升至286万，高于8月的277万和去年同期的196万。当月失业率为5.4%，高于8月的5.3%和去年同期的3.8%。 菲律宾统计局局长兼国家统计师丹尼斯·马帕表示，9月劳动力人口同比增加163万，但就业人数仅增加72.1万，失业人数增加90.9万，反映出就业增长未能跟上劳动力供给扩大的步伐。 马帕指出，15至24岁青年是新增劳动力人口的重要来源。该年龄段劳动力人口同比增加98.8万，就业人数仅增加60.6万，青年就业压力有所加大。 数据显示，菲律宾9月劳动力人口达5319万，劳动力参与率为64.5%，高于8月的64%，与去年同期持平。当月就业人",
+     "title": "巴方机构称以方近期在约旦河西岸发动六百多起袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925563651.html",
+     "pubDate": "Sun, 08 Nov 2026 03:38:54 +0800",
+     "summary": "当地时间7日，巴勒斯坦“隔离墙和定居点抵抗委员会”发表声明称，在过去30余天中，以军和以色列犹太人定居者在约旦河西岸发动了674次袭击，袭击针对采摘橄榄的巴勒斯坦农民及巴方财产。 该委员会通报称，2026年10月1日至11月6日期间，以色列犹太人定居者共实施袭击520次，以军实施袭击154次。 根据声明，袭击主要集中在约旦河西岸北部和中部的农业带。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "菲律宾9月失业人数升至286万 就业市场承压"
+     "zh": "巴方机构称以方近期在约旦河西岸发动六百多起袭击"
+    },
+    {
+     "title": "以色列总统选择内塔尼亚胡的对手加迪·艾森科特组建政府",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925564171.html",
+     "pubDate": "Sun, 08 Nov 2026 03:33:07 +0800",
+     "summary": "以色列总统选择内塔尼亚胡的对手加迪·艾森科特组建政府。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "以色列总统选择内塔尼亚胡的对手加迪·艾森科特组建政府"
     },
     {
      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
@@ -2313,14 +2369,6 @@
      "zh": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you."
     },
     {
-     "title": "从“产品出口”到“全价值链输出” 电子产业出海迎范式变革",
-     "link": "http://finance.eastmoney.com/news/1354,202611073925556787.html",
-     "pubDate": "Sun, 08 Nov 2026 03:15:00 +0800",
-     "summary": "11月5日举行的第七届世界媒体峰会上，瞭望财经智库最新发布的《科技出海新观察》报告指出，科技企业的全球化，正从“走出去”迈向“走进去”，实现从产品出口到生态本土化的升级。 证券时报记者采访多家企业出海历程及经验等发现，当前，中国 电子 产业出海逻辑正发生深刻转变。过去以产品外销为主的贸易模式，逐步让位于研发、制造、供应链配套、本地化服务、标准输出一体化的协同布局新路径，越来越多 电子 企业不再只做商品输出，而是加速全链路输出，在海外搭建本土化产业生态，在融入当地市场的同时，重塑产业竞争优势。 从“产品出口”到“全价值链输出” 传音控股 创立之初便聚焦非洲，从手机业务起步，逐步建立产品研发、渠道",
-     "source": "东方财富股票",
-     "zh": "从“产品出口”到“全价值链输出” 电子产业出海迎范式变革"
-    },
-    {
      "title": "Musk says Tesla Cybertruck demand is outpacing production",
      "link": "https://seekingalpha.com/news/4668737-musk-says-tesla-cybertruck-demand-is-outpacing-production?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 07 Nov 2026 14:05:43 -0500",
@@ -2329,44 +2377,12 @@
      "zh": "Musk says Tesla Cybertruck demand is outpacing production"
     },
     {
-     "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-     "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-     "pubDate": "Sat, 07 Nov 2026 18:36:00 GMT",
-     "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
-     "source": "MarketWatch",
-     "zh": "My adviser recommended an annuity. Is it the right move in this market environment?"
-    },
-    {
-     "title": "收购40%股权+增资1亿元 开勒股份拟控股威泰思 提示商誉减值等风险",
-     "link": "http://finance.eastmoney.com/news/1354,202611073925560376.html",
-     "pubDate": "Sun, 08 Nov 2026 02:35:56 +0800",
-     "summary": "11月6日晚间， 开勒股份 （301070）公告，公司将受让陈华民和福州华长合计持有的福建威泰思光电有限公司（以下简称威泰思）40%股权， 股权转让 价款为5472万元，同时公司出资1亿元认缴威泰思全部新增注册资本694万元。交易完成后，公司将合计持有标的公司64.5902%股权，威泰思将成为公司的控股子公司。 交易需履行程序方面，公司于2026年11月6日召开第四届董事会第十七次会议，审议通过《关于收购福建威泰思光电有限公司部分股权并对其增资的议案》。该事项已经公司第四届董事会战略委员会第二次会议审议通过。根据相关规定，本次交易在董事会审批权限范围内，无需提交公司股东会审议。本次交易不构成关",
-     "source": "东方财富股票",
-     "zh": "收购40%股权+增资1亿元 开勒股份拟控股威泰思 提示商誉减值等风险"
-    },
-    {
      "title": "Nvidia CEO was romantically involved with alleged Chinese spy, U.S. memo says: FT",
      "link": "https://seekingalpha.com/news/4668736-nvidia-ceo-romantically-involved-alleged-chinese-spy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 07 Nov 2026 13:30:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia CEO was romantically involved with alleged Chinese spy, U.S. memo says: FT"
-    },
-    {
-     "title": "俄方批评乌“志愿联盟”举行演习恶化局势",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925563536.html",
-     "pubDate": "Sun, 08 Nov 2026 02:23:10 +0800",
-     "summary": "俄罗斯外交部发言人扎哈罗娃7日重申，援助乌克兰的“志愿联盟”旗下多国部队将要举行的演习会加剧局势升级，俄方绝不接受在乌部署外国军队。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "俄方批评乌“志愿联盟”举行演习恶化局势"
-    },
-    {
-     "title": "波兰克拉科夫枪击事件已致6死15伤",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925563441.html",
-     "pubDate": "Sun, 08 Nov 2026 02:20:39 +0800",
-     "summary": "当地时间11月7日，波兰克拉科夫中央集市广场发生枪击事件。7日晚间，据克拉科夫市所在的小波兰省政府方面消息，该起枪击事件已造成6人死亡，15人受伤。小波兰省省长已抵达案件现场。波兰总理图斯克在前往克拉科夫的途中。 警方强调，目前已知的唯一嫌疑人已被警方拘留。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "波兰克拉科夫枪击事件已致6死15伤"
     },
     {
      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
@@ -2393,28 +2409,12 @@
      "zh": "Democrats’ big election win revives a difficult Social Security question: Who pays?"
     },
     {
-     "title": "泰国强调粮食和能源安全 以多元供应体系应对外部风险",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925562274.html",
-     "pubDate": "Sun, 08 Nov 2026 01:40:58 +0800",
-     "summary": "泰国总理阿努廷7日表示，泰国目前粮食和能源供应总体稳定，民众无需担忧出现食品及生活必需品短缺。泰国将发挥本国农业生产优势，同时通过扩大生物燃料使用、推动能源来源多元化等措施，增强国家应对外部风险的能力。 阿努廷当天在泰国国家广播电视台播出的《与阿努廷总理对话》节目中，就近期网络上传播的“准备72小时应急物资”话题作出回应。他表示，相关准备并不意味着泰国即将面临战争或粮食短缺，民众可以正常安排日常生活。 阿努廷指出，泰国拥有较为完整的食品生产体系，各地均有 农产品 生产和食品供应渠道，具备较强的粮食生产及调配能力。即使部分地区发生突发事件，政府也将通过应急机制及时向有需要的民众提供援助，特别是保",
-     "source": "东方财富股票",
-     "zh": "泰国强调粮食和能源安全 以多元供应体系应对外部风险"
-    },
-    {
      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
      "pubDate": "Sat, 07 Nov 2026 17:33:00 GMT",
      "summary": "Math may be cold and unemotional — but finances are not.",
      "source": "MarketWatch",
      "zh": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?"
-    },
-    {
-     "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-     "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-     "pubDate": "Sat, 07 Nov 2026 17:04:00 GMT",
-     "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
-     "source": "MarketWatch",
-     "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
     },
     {
      "title": "Real estate stocks gain as the Blue Wave sends Treasury yields lower",
@@ -2441,6 +2441,14 @@
      "zh": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline"
     },
     {
+     "title": "进博会观察|外企谈中国消费市场，关键词变了",
+     "link": "http://www.eeo.com.cn/2026/1107/1087399.shtml",
+     "pubDate": "Sat, 07 Nov 2026 22:23:22 +0800",
+     "summary": "多家参展企业均表示，中国市场已经不是单纯的销售市场，而是本土化深度运营的地方，他们的产能落地、人才系统建设、联合创新、生态共建都要在这里完成。",
+     "source": "经济观察网",
+     "zh": "进博会观察|外企谈中国消费市场，关键词变了"
+    },
+    {
      "title": "显卡价格连涨11个交易日后急跌 华强北显卡半天一个价",
      "link": "http://finance.eastmoney.com/news/1348,202611073925550783.html",
      "pubDate": "Sat, 07 Nov 2026 22:19:24 +0800",
@@ -2457,6 +2465,14 @@
      "zh": "民生银行的小微生意，换了一批客人"
     },
     {
+     "title": "进博会观察|化妆品企业跳出单一成分竞争，长寿科学成新主线",
+     "link": "http://www.eeo.com.cn/2026/1107/1087398.shtml",
+     "pubDate": "Sat, 07 Nov 2026 21:42:00 +0800",
+     "summary": "对于化妆品行业而言，过去依靠单一成分赢得消费者认可的时代已经过去。消费者对于美妆产品功效愈发严苛。这在推动美妆企业跳出单一成分研究视角，向更加系统化的研发思路转型。",
+     "source": "经济观察网",
+     "zh": "进博会观察|化妆品企业跳出单一成分竞争，长寿科学成新主线"
+    },
+    {
      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
      "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
      "pubDate": "Sat, 07 Nov 2026 13:03:12 GMT",
@@ -2471,22 +2487,6 @@
      "summary": "伯克希尔·哈撒韦三季度净利润大幅下滑，保险业务承压与投资收益减少成为主要拖累。不过，公司在本季度显著加大股票回购力度，单季回购规模创年内新高，现金储备也进一步攀升至3774亿美元。 当地时间11月7日，伯克希尔公布第三季度业绩。公司营业利润为127.05亿美元，同比下降5.8%； 净利润为221.12亿美元，同比下降28.2%。 其中，投资收益合计约94.07亿美元，较去年同期的173.11亿美元下降约45.7%，缩水近一半。 保险业务表现疲软。 保险承保利润同比下降43%， 汽车保险子公司Geico的赔付损失和承保费用分别增长8.5%和17%。保险净投资收入也同比下降14%，至27亿美元，主",
      "source": "华尔街见闻",
      "zh": "伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻"
-    },
-    {
-     "title": "伯克希尔哈撒韦公司：第三季度营业利润为127.1亿美元 第三季度回购了96亿美元股票",
-     "link": "http://finance.eastmoney.com/news/1345,202611073925540523.html",
-     "pubDate": "Sat, 07 Nov 2026 21:00:16 +0800",
-     "summary": "伯克希尔哈撒韦公司第三季度营业利润为127.1亿美元，同比下降5.8%；第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元；第三季度每股A类等效普通股净收益为15,502美元；第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。截至9月30日，公司第三季度现金持仓为3569亿美元；现金储备较上一季度有所增加，达到3774亿美元，再创新高。公司第三季度回购了96亿美元股票。 伯克希尔哈撒韦称，截至9月30日，公司股权投资总公允价值的65%集中于Alphabet、 美国运通 、 苹果 、 美国银行 和 可口可乐 。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "伯克希尔哈撒韦公司：第三季度营业利润为127.1亿美元 第三季度回购了96亿美元股票"
-    },
-    {
-     "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-     "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-     "pubDate": "Sat, 07 Nov 2026 13:00:01 GMT",
-     "summary": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
-     "source": "CNBC",
-     "zh": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers"
     }
    ]
   },

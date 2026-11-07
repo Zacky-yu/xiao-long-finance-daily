@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/8 03:32:20",
+ "generated_at": "2026/11/8 04:36:13",
  "recent_days": 7,
  "industries": [
   {
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
+     "link": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
+     "pubDate": "Sat, 07 Nov 2026 14:00:00 -0600",
+     "summary": "The Egyptian government is doubling down on its plans to accelerate the development of its oil and gas resources. Egypt now aims to achieve a production capacity of 6.6 billion cubic feet per day by 2027, supported by increased drilling, new exploration incentives, and greater investment from intern",
+     "source": "OilPrice",
+     "zh": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production"
+    },
+    {
      "title": "The Velotric GoMad Electric Utility eBike — CleanTechnica Tested",
      "link": "https://cleantechnica.com/2026/11/07/the-velotric-gomad-electric-utility-ebike-cleantechnica-tested/",
      "pubDate": "Sat, 07 Nov 2026 18:59:48 +0000",
@@ -975,14 +983,6 @@
      "summary": "Some of the world's biggest oil traders are asking Washington for permission to put sanctioned tankers back to work, as a global vessel shortage pushes oil transportation costs to extraordinary levels. Trafigura, Vitol, Mercuria and Abu Dhabi National Oil Co. are negotiating with U.S. officials for ",
      "source": "OilPrice",
      "zh": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar"
-    },
-    {
-     "title": "Energy Reliability Is Becoming More Important Than Energy Politics",
-     "link": "https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html",
-     "pubDate": "Fri, 06 Nov 2026 13:00:00 -0600",
-     "summary": "For much of the past decade, energy debates often pitted fossil fuels against clean energy. Governments announced dates for phasing out technologies, investors tried to anticipate which industries would lose favor, and energy policy increasingly became entangled with political identity. The war with",
-     "source": "OilPrice",
-     "zh": "Energy Reliability Is Becoming More Important Than Energy Politics"
     },
     {
      "title": "Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election",
@@ -1753,6 +1753,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa&apos;s election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)",
+     "link": "https://www.techmeme.com/261107/p14#a261107p14",
+     "pubDate": "Sat, 07 Nov 2026 14:40:04 -0500",
+     "summary": "Ann Davis Vaughan / The Information : Public records appear to show SpaceX building a &ldquo;Starbase supercomputer&rdquo; in TX, but Gina Hinojosa's election as governor may delay some of the data center plans &nbsp; &mdash;&nbsp; Elon Musk moved early to build AI data centers in Tennessee and Miss",
+     "source": "Techmeme",
+     "zh": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa&apos;s election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)"
+    },
+    {
      "title": "Parents want safer phones for kids. These companies are answering the call.",
      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
      "pubDate": "Sat, 07 Nov 2026 19:00:00 +0000",
@@ -1761,28 +1769,20 @@
      "zh": "Parents want safer phones for kids. These companies are answering the call."
     },
     {
-     "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+     "title": "What I run on my $10 USD OpenStick homelab",
      "link": "https://blog.bosscher.ch/posts/openstick/",
      "pubDate": "Sat, 07 Nov 2026 18:12:12 +0000",
-     "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 49 # Comments: 9",
+     "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 107 # Comments: 23",
      "source": "Hacker News",
-     "zh": "What I run on my $10 USD OpenStick, Linux, Homelab"
+     "zh": "What I run on my $10 USD OpenStick homelab"
     },
     {
-     "title": "The End of AI Frontiers",
+     "title": "The end of Microsoft Research's AI Frontiers group",
      "link": "https://hunch.net/?p=13764006",
-     "pubDate": "Sat, 07 Nov 2026 18:04:07 +0000",
-     "summary": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 55 # Comments: 18",
-     "source": "Hacker News",
-     "zh": "The End of AI Frontiers"
-    },
-    {
-     "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-     "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
      "pubDate": "Sat, 07 Nov 2026 18:02:17 +0000",
-     "summary": "Article URL: https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/ Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 84 # Comments: 20",
+     "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 172 # Comments: 86",
      "source": "Hacker News",
-     "zh": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished"
+     "zh": "The end of Microsoft Research's AI Frontiers group"
     },
     {
      "title": "Binance says CFO Kaiser Ng is leaving to \"pursue a new venture\" days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO (Bloomberg)",
@@ -1801,12 +1801,20 @@
      "zh": "德国为什么就成了欧洲零售的垫底王？"
     },
     {
-     "title": "Five Memorable Books About Programming",
+     "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+     "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+     "pubDate": "Sat, 07 Nov 2026 17:54:56 +0000",
+     "summary": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "GeoWorks, Microsoft Windows' Upstart '90s Competitor"
+    },
+    {
+     "title": "Five memorable books about programming (2008)",
      "link": "https://prog21.dadgum.com/19.html",
      "pubDate": "Sat, 07 Nov 2026 17:30:49 +0000",
-     "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 20 # Comments: 4",
+     "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 42 # Comments: 13",
      "source": "Hacker News",
-     "zh": "Five Memorable Books About Programming"
+     "zh": "Five memorable books about programming (2008)"
     },
     {
      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
@@ -1828,7 +1836,7 @@
      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
      "pubDate": "Sat, 07 Nov 2026 17:19:00 +0000",
-     "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 54 # Comments: 8",
+     "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 95 # Comments: 24",
      "source": "Hacker News",
      "zh": "MaxxBench – \"Nice DeepSWE score. But is it true?\""
     },
@@ -1983,14 +1991,6 @@
      "summary": "逾百名活动人士闯入了阿姆斯特丹的一处微软 AI 数据中心施工现场，他们爬上起重机，悬挂气球并跳起舞，部分人则举着 Screw your datacenter 的标语。此次行动是针对 AI 基础设施迅速扩张所开展的一系列抗议活动之一。抗议者 Sam van der Beek 表示：“这些数据中心正摧毁我们的世界。它们消耗了海量资源，导致地球变得不再适宜居住。这就是我们今天来到这里的原因。”Stop Dirty Data Centers 联盟宣布，其成员于周五和周六在 16 个国家采取抗议行动。微软在阿姆斯特丹的项目 Pure Data Centers 计划投资逾 10 亿美元。Stop Dirt",
      "source": "Solidot",
      "zh": "抗议者闯入微软在欧洲的一处数据中心工地"
-    },
-    {
-     "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
-     "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
-     "pubDate": "Sat, 07 Nov 2026 11:45:00 +0000",
-     "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
-     "source": "WIRED",
-     "zh": "The 10 Best Early Black Friday Headphone Deals (2026)"
     }
    ]
   },
@@ -2000,6 +2000,38 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
+     "link": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
+     "pubDate": "Sat, 07 Nov 2026 20:30:00 +0000",
+     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you find yourself playing an instrument with sheet music, flipping the page often requires you to sto",
+     "source": "9to5Mac",
+     "zh": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music"
+    },
+    {
+     "title": "Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?",
+     "link": "https://www.engadget.com/2309549/amd-cpu-ryzen-7-5800x3d-worth-buying-2026/",
+     "pubDate": "Sat, 07 Nov 2026 20:15:00 +0000",
+     "summary": "I've never regretted owning the 5800X3D, but before you spend $349 on a previous generation CPU, there are a few questions worth asking yourself.",
+     "source": "Engadget",
+     "zh": "Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?"
+    },
+    {
+     "title": "How to connect an Apple Pencil to your iPad",
+     "link": "https://www.engadget.com/2306765/how-to-connect-apple-pencil-ipad/",
+     "pubDate": "Sat, 07 Nov 2026 20:00:00 +0000",
+     "summary": "An Apple Pencil adds great functionality to your iPad, but compatibility and pairing methods differ across models.",
+     "source": "Engadget",
+     "zh": "How to connect an Apple Pencil to your iPad"
+    },
+    {
+     "title": "You can easily keep your home network running during a power outage — here's how",
+     "link": "https://www.engadget.com/2308573/how-to-keep-home-network-running-during-outage/",
+     "pubDate": "Sat, 07 Nov 2026 19:30:00 +0000",
+     "summary": "Few things top the inconvenience of being in the middle of something online when the power goes out. Luckily, there are a few options to keep you connected.",
+     "source": "Engadget",
+     "zh": "You can easily keep your home network running during a power outage — here's how"
+    },
     {
      "title": "How to set up SpaceXAI's Grok in Google Workspace (and what it can do)",
      "link": "https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace/",
@@ -2031,30 +2063,6 @@
      "summary": "Steam's overlay hides several useful tools beyond its familiar chat window, including features that can help you play, stay organized, and connect with friends.",
      "source": "Engadget",
      "zh": "5 things you didn't know Steam's overlay could do"
-    },
-    {
-     "title": "How to watch videos on Apple CarPlay while parked",
-     "link": "https://www.engadget.com/2306196/apple-carplay-how-to-watch-videos/",
-     "pubDate": "Sat, 07 Nov 2026 18:30:00 +0000",
-     "summary": "iOS 27 introduced support for native video playback on CarPlay, with certain restrictions and requirements. Here's how to use the new feature.",
-     "source": "Engadget",
-     "zh": "How to watch videos on Apple CarPlay while parked"
-    },
-    {
-     "title": "People are modding the Tamagotchi Paradise to run Game Boy games",
-     "link": "https://www.engadget.com/2310126/people-are-modding-the-tamagotchi-paradise-to-run-game-boy-games/",
-     "pubDate": "Sat, 07 Nov 2026 18:21:34 +0000",
-     "summary": "Someone figured out how to run Pokémon Gold and Silver on a Tamagotchi.",
-     "source": "Engadget",
-     "zh": "People are modding the Tamagotchi Paradise to run Game Boy games"
-    },
-    {
-     "title": "The reason your phone keeps dimming even with auto-brightness off",
-     "link": "https://www.engadget.com/2306646/reason-phone-keeps-dimming-auto-brightness-off/",
-     "pubDate": "Sat, 07 Nov 2026 18:15:00 +0000",
-     "summary": "If your iPhone or Android phone's screen keeps darkening when you don't want it to, there are several possible explanations.",
-     "source": "Engadget",
-     "zh": "The reason your phone keeps dimming even with auto-brightness off"
     },
     {
      "title": "OnePlus releases its ColorOS 17 rollout schedule for November",
@@ -2119,14 +2127,6 @@
      "summary": "The Xiaomi 18 Pro series was announced in China in September, and the company confirmed that the duo is going global by the end of this year. In fact, we expect the Xiaomi 18 Pro and 18 Pro Max to hit the global market as early as this month. However, the conversation left out the vanilla Xiaomi 18 ",
      "source": "GSMArena",
      "zh": "Xiaomi 18 might actually arrive this year, 3C reveals the charging capabilities"
-    },
-    {
-     "title": "Early Black Friday Apple deals: MacBook Air $250 off, HomeView, Apple Watch Ultra $250 off, AirPods, more",
-     "link": "https://9to5mac.com/2026/11/07/early-black-friday-apple-deals-now-live/",
-     "pubDate": "Sat, 07 Nov 2026 13:00:00 +0000",
-     "summary": "Update: Amazon just brought back the pre-order deal on the new Apple TV 4K (4th Generation) ahead of release next week. Joining the pre-order deals on the new Apple HomeView and what could be a fleeting chance to secure the 2026 Apple Polishing Cloth at $9 Prime shipped , the early Black Friday Appl",
-     "source": "9to5Mac",
-     "zh": "Early Black Friday Apple deals: MacBook Air $250 off, HomeView, Apple Watch Ultra $250 off, AirPods, more"
     },
     {
      "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
@@ -2249,12 +2249,60 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+     "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+     "pubDate": "Sat, 07 Nov 2026 20:28:17 GMT",
+     "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
+     "source": "CNBC",
+     "zh": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans"
+    },
+    {
      "title": "Trump offers UFC chief Dana White press secretary job",
      "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-     "pubDate": "Sat, 07 Nov 2026 19:27:36 GMT",
+     "pubDate": "Sat, 07 Nov 2026 20:27:10 GMT",
      "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
      "source": "CNBC",
      "zh": "Trump offers UFC chief Dana White press secretary job"
+    },
+    {
+     "title": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
+     "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
+     "pubDate": "Sat, 07 Nov 2026 20:20:57 GMT",
+     "summary": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
+     "source": "Financial Times",
+     "zh": "Israel’s president gives Gadi Eisenkot first shot at forming a government"
+    },
+    {
+     "title": "Key deals this week: PANW, META, OGI, CRM and more",
+     "link": "https://seekingalpha.com/news/4668734-key-deals-this-week-panw-meta-ogi-crm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 07 Nov 2026 15:15:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: PANW, META, OGI, CRM and more"
+    },
+    {
+     "title": "Trump says he asked UFC boss Dana White to be new press secretary",
+     "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
+     "pubDate": "Sat, 07 Nov 2026 19:52:07 GMT",
+     "summary": "President sacked previous White House spokesperson after five days",
+     "source": "Financial Times",
+     "zh": "Trump says he asked UFC boss Dana White to be new press secretary"
+    },
+    {
+     "title": "Here are the 2027 capital-gains tax rates for each income level",
+     "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+     "pubDate": "Sat, 07 Nov 2026 19:48:00 GMT",
+     "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
+     "source": "MarketWatch",
+     "zh": "Here are the 2027 capital-gains tax rates for each income level"
+    },
+    {
+     "title": "菲律宾9月失业人数升至286万 就业市场承压",
+     "link": "http://finance.eastmoney.com/news/1351,202611073925556556.html",
+     "pubDate": "Sun, 08 Nov 2026 03:30:09 +0800",
+     "summary": "菲律宾统计局6日公布的数据显示，菲律宾9月失业人数升至286万，高于8月的277万和去年同期的196万。当月失业率为5.4%，高于8月的5.3%和去年同期的3.8%。 菲律宾统计局局长兼国家统计师丹尼斯·马帕表示，9月劳动力人口同比增加163万，但就业人数仅增加72.1万，失业人数增加90.9万，反映出就业增长未能跟上劳动力供给扩大的步伐。 马帕指出，15至24岁青年是新增劳动力人口的重要来源。该年龄段劳动力人口同比增加98.8万，就业人数仅增加60.6万，青年就业压力有所加大。 数据显示，菲律宾9月劳动力人口达5319万，劳动力参与率为64.5%，高于8月的64%，与去年同期持平。当月就业人",
+     "source": "东方财富股票",
+     "zh": "菲律宾9月失业人数升至286万 就业市场承压"
     },
     {
      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
@@ -2263,6 +2311,14 @@
      "summary": "Don’t sit on the sidelines during open enrollment.",
      "source": "MarketWatch",
      "zh": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you."
+    },
+    {
+     "title": "从“产品出口”到“全价值链输出” 电子产业出海迎范式变革",
+     "link": "http://finance.eastmoney.com/news/1354,202611073925556787.html",
+     "pubDate": "Sun, 08 Nov 2026 03:15:00 +0800",
+     "summary": "11月5日举行的第七届世界媒体峰会上，瞭望财经智库最新发布的《科技出海新观察》报告指出，科技企业的全球化，正从“走出去”迈向“走进去”，实现从产品出口到生态本土化的升级。 证券时报记者采访多家企业出海历程及经验等发现，当前，中国 电子 产业出海逻辑正发生深刻转变。过去以产品外销为主的贸易模式，逐步让位于研发、制造、供应链配套、本地化服务、标准输出一体化的协同布局新路径，越来越多 电子 企业不再只做商品输出，而是加速全链路输出，在海外搭建本土化产业生态，在融入当地市场的同时，重塑产业竞争优势。 从“产品出口”到“全价值链输出” 传音控股 创立之初便聚焦非洲，从手机业务起步，逐步建立产品研发、渠道",
+     "source": "东方财富股票",
+     "zh": "从“产品出口”到“全价值链输出” 电子产业出海迎范式变革"
     },
     {
      "title": "Musk says Tesla Cybertruck demand is outpacing production",
@@ -2353,36 +2409,12 @@
      "zh": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?"
     },
     {
-     "title": "初步计票结果：新西兰执政联盟获议会过半席位",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925563285.html",
-     "pubDate": "Sun, 08 Nov 2026 01:20:39 +0800",
-     "summary": "新西兰选举委员会11月8日凌晨公布的初步计票结果显示，在7日结束的新一届议会选举中，国家党主导的现执政联盟赢得超半数席位。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "初步计票结果：新西兰执政联盟获议会过半席位"
-    },
-    {
      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
      "pubDate": "Sat, 07 Nov 2026 17:04:00 GMT",
      "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
      "source": "MarketWatch",
      "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
-    },
-    {
-     "title": "加码算力赛道！首都在线子公司甘肃宸融增资引入投资方：公司放弃优先认购权 持股降至16.67%仍并表 约定2027年8月前重新控股",
-     "link": "http://finance.eastmoney.com/news/1354,202611073925561512.html",
-     "pubDate": "Sun, 08 Nov 2026 01:02:30 +0800",
-     "summary": "11月6日晚间，北京 首都在线 科技股份有限公司（以下简称“ 首都在线 ”或“公司”）发布关于全资子公司增资扩股引入投资者暨公司放弃优先认缴出资权的公告。公告显示，公司全资子公司甘肃宸融智算科技拟新增1亿元注册资本并引入现服基金、 国能日新 、自然人林娟三名投资方， 首都在线 放弃优先认缴权，增资完成后公司持股降至16.67%，但凭借董事会委派、经营管控及一致行动安排仍将其纳入合并报表。交易附带股权回购条款、实控人提供股票质押担保，同时约定公司需在2027年8月31日前完成新一轮增资以重回控股地位。本次增资资金主要投向算力硬件采购，为公司智算转型布局算力资源。 公告披露，2026年11月6日，",
-     "source": "东方财富股票",
-     "zh": "加码算力赛道！首都在线子公司甘肃宸融增资引入投资方：公司放弃优先认购权 持股降至16.67%仍并表 约定2027年8月前重新控股"
-    },
-    {
-     "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-     "pubDate": "Sat, 07 Nov 2026 17:01:00 GMT",
-     "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-     "source": "MarketWatch",
-     "zh": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home"
     },
     {
      "title": "Real estate stocks gain as the Blue Wave sends Treasury yields lower",
@@ -2401,36 +2433,12 @@
      "zh": "Energy Earnings Scorecard: Strong Q3 results drive clean sweep across major players"
     },
     {
-     "title": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth",
-     "link": "https://seekingalpha.com/news/4667797-earnings-scoreboard-86-of-reporting-firms-beat-eps-estimates-78-post-yy-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 07 Nov 2026 11:45:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth"
-    },
-    {
-     "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
-     "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-     "pubDate": "Sat, 07 Nov 2026 16:43:06 GMT",
-     "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
-     "source": "Financial Times",
-     "zh": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases"
-    },
-    {
      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
      "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
      "pubDate": "Sat, 07 Nov 2026 15:23:46 GMT",
      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
      "source": "CNBC",
      "zh": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline"
-    },
-    {
-     "title": "进博会观察|外企谈中国消费市场，关键词变了",
-     "link": "http://www.eeo.com.cn/2026/1107/1087399.shtml",
-     "pubDate": "Sat, 07 Nov 2026 22:23:22 +0800",
-     "summary": "多家参展企业均表示，中国市场已经不是单纯的销售市场，而是本土化深度运营的地方，他们的产能落地、人才系统建设、联合创新、生态共建都要在这里完成。",
-     "source": "经济观察网",
-     "zh": "进博会观察|外企谈中国消费市场，关键词变了"
     },
     {
      "title": "显卡价格连涨11个交易日后急跌 华强北显卡半天一个价",
@@ -2449,14 +2457,6 @@
      "zh": "民生银行的小微生意，换了一批客人"
     },
     {
-     "title": "进博会观察|化妆品企业跳出单一成分竞争，长寿科学成新主线",
-     "link": "http://www.eeo.com.cn/2026/1107/1087398.shtml",
-     "pubDate": "Sat, 07 Nov 2026 21:42:00 +0800",
-     "summary": "对于化妆品行业而言，过去依靠单一成分赢得消费者认可的时代已经过去。消费者对于美妆产品功效愈发严苛。这在推动美妆企业跳出单一成分研究视角，向更加系统化的研发思路转型。",
-     "source": "经济观察网",
-     "zh": "进博会观察|化妆品企业跳出单一成分竞争，长寿科学成新主线"
-    },
-    {
      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
      "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
      "pubDate": "Sat, 07 Nov 2026 13:03:12 GMT",
@@ -2473,20 +2473,20 @@
      "zh": "伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻"
     },
     {
-     "title": "America doesn&apos;t like socialism. So why are socialists winning?",
-     "link": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
-     "pubDate": "Sat, 07 Nov 2026 13:01:01 GMT",
-     "summary": "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism.",
-     "source": "CNBC",
-     "zh": "America doesn&apos;t like socialism. So why are socialists winning?"
-    },
-    {
      "title": "伯克希尔哈撒韦公司：第三季度营业利润为127.1亿美元 第三季度回购了96亿美元股票",
      "link": "http://finance.eastmoney.com/news/1345,202611073925540523.html",
      "pubDate": "Sat, 07 Nov 2026 21:00:16 +0800",
      "summary": "伯克希尔哈撒韦公司第三季度营业利润为127.1亿美元，同比下降5.8%；第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元；第三季度每股A类等效普通股净收益为15,502美元；第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。截至9月30日，公司第三季度现金持仓为3569亿美元；现金储备较上一季度有所增加，达到3774亿美元，再创新高。公司第三季度回购了96亿美元股票。 伯克希尔哈撒韦称，截至9月30日，公司股权投资总公允价值的65%集中于Alphabet、 美国运通 、 苹果 、 美国银行 和 可口可乐 。 （文章来源：财联社）",
      "source": "东方财富资讯",
      "zh": "伯克希尔哈撒韦公司：第三季度营业利润为127.1亿美元 第三季度回购了96亿美元股票"
+    },
+    {
+     "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+     "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+     "pubDate": "Sat, 07 Nov 2026 13:00:01 GMT",
+     "summary": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+     "source": "CNBC",
+     "zh": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers"
     }
    ]
   },

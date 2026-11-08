@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/9 04:27:11",
+ "generated_at": "2026/11/9 04:40:45",
  "recent_days": 7,
  "industries": [
   {
@@ -1754,6 +1754,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia&apos;s board, shareholders, and employees (Madison Mills/Axios)",
+     "link": "https://www.techmeme.com/261108/p14#a261108p14",
+     "pubDate": "Sun, 08 Nov 2026 15:35:00 -0500",
+     "summary": "Madison Mills / Axios : Email to staff: Jensen Huang admits an affair, takes &ldquo;full responsibility&rdquo;, and says he fell short of his duties to Nvidia's board, shareholders, and employees &nbsp; &mdash;&nbsp; Nvidia CEO Jensen Huang admitted to having a romantic relationship with a suspected",
+     "source": "Techmeme",
+     "zh": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia&apos;s board, shareholders, and employees (Madison Mills/Axios)"
+    },
+    {
+     "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+     "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+     "pubDate": "Sun, 08 Nov 2026 20:30:00 +0000",
+     "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+     "source": "TechCrunch",
+     "zh": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery."
+    },
+    {
+     "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+     "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+     "pubDate": "Sun, 08 Nov 2026 20:26:43 +0000",
+     "summary": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Nvidia Board of Directors Is Investigating Jensen Huang"
+    },
+    {
+     "title": "Nvidia&apos;s board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
+     "link": "https://www.techmeme.com/261108/p13#a261108p13",
+     "pubDate": "Sun, 08 Nov 2026 15:25:00 -0500",
+     "summary": "Ian King / Bloomberg : Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised &nbsp; &mdash;&nbsp; Nvidia Corp.'s board is launching an investigation into whether Chief Executive Officer Jensen ",
+     "source": "Techmeme",
+     "zh": "Nvidia&apos;s board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)"
+    },
+    {
      "title": "DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user (Saritha Rai/Bloomberg)",
      "link": "https://www.techmeme.com/261108/p12#a261108p12",
      "pubDate": "Sun, 08 Nov 2026 15:10:00 -0500",
@@ -1770,10 +1802,18 @@ window.INDUSTRY_DATA = {
      "zh": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board"
     },
     {
+     "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+     "link": "https://www.spacex.com/launches/starship-flight-15",
+     "pubDate": "Sun, 08 Nov 2026 19:49:46 +0000",
+     "summary": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 11 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Starship Flight 15 on 11/13 plans to catch both booster and ship"
+    },
+    {
      "title": "How I Fight AI Brain Fry",
      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
      "pubDate": "Sun, 08 Nov 2026 19:37:42 +0000",
-     "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 14 # Comments: 3",
+     "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 23 # Comments: 9",
      "source": "Hacker News",
      "zh": "How I Fight AI Brain Fry"
     },
@@ -1781,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
      "pubDate": "Sun, 08 Nov 2026 19:20:32 +0000",
-     "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 42 # Comments: 22",
+     "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 60 # Comments: 41",
      "source": "Hacker News",
      "zh": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC"
     },
@@ -1789,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
      "link": "https://duxlabs.dev/",
      "pubDate": "Sun, 08 Nov 2026 19:08:51 +0000",
-     "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 32 # Comments: 5",
+     "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 46 # Comments: 14",
      "source": "Hacker News",
      "zh": "Dux: Free, open-source Wayland desktop shell with file manager and theming"
     },
@@ -1805,25 +1845,9 @@ window.INDUSTRY_DATA = {
      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
      "pubDate": "Sun, 08 Nov 2026 18:43:07 +0000",
-     "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 50 # Comments: 44",
+     "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 53 # Comments: 53",
      "source": "Hacker News",
      "zh": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It"
-    },
-    {
-     "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
-     "link": "https://kevinboone.me/cpmzork.html",
-     "pubDate": "Sun, 08 Nov 2026 18:33:50 +0000",
-     "summary": "Article URL: https://kevinboone.me/cpmzork.html Comments URL: https://news.ycombinator.com/item?id=50415750 Points: 5 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Playing Zork 1 on a CP/M emulator on Linux (2021)"
-    },
-    {
-     "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-     "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-     "pubDate": "Sun, 08 Nov 2026 18:16:07 +0000",
-     "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 247 # Comments: 156",
-     "source": "Hacker News",
-     "zh": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders"
     },
     {
      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
@@ -1922,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "LG 因其智能电视监视用户面临法律诉讼"
     },
     {
-     "title": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab (Martha Muir/Financial Times)",
-     "link": "https://www.techmeme.com/261108/p8#a261108p8",
-     "pubDate": "Sun, 08 Nov 2026 10:05:01 -0500",
-     "summary": "Martha Muir / Financial Times : Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab &nbsp; &mdash;&nbsp; AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy su",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab (Martha Muir/Financial Times)"
-    },
-    {
      "title": "马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色",
      "link": "https://www.ithome.com/1/024/011.htm",
      "pubDate": "Sun, 08 Nov 2026 15:00:24 GMT",
@@ -1976,22 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 8 日消息，当贝现已在京东上架 H5 第二代电视盒子，该产品主要升级全志 H626 处理器，支持双频 Wi-Fi 6，定价为 469 元，部分地区国补后低至 399 元。 该产品尺寸为 98 x &nbsp;98 x &nbsp;21.5mm，采用白色配色，正面配备一条多彩呼吸灯，提供五种灯光效果模式。机身背部提供了一个 HDMI 2.1 接口、一个 USB-A 接口、一个 3.5mm 的复合音视频接口。 该机搭载了全志 H626 芯片，配备了 2GB RAM 以及 16GB 机身存储空间，具备 8K@24fps 的视频解码能力与 4K@60fps 画面输出能力，并支持 H",
      "source": "IT之家",
      "zh": "当贝推出 H5 第二代电视盒子：升级全志 H626 处理器，469 元"
-    },
-    {
-     "title": "台积电考虑进入内存行业",
-     "link": "https://www.solidot.org/story?sid=85826",
-     "pubDate": "Sun, 08 Nov 2026 21:43:08 +0800",
-     "summary": "应最大客户英伟达的要求，台积电考虑进入内存行业，生产名为 3D DRAM 的先进内存芯片。台积电可能会选择新建工厂生产先进内存芯片，但尚不清楚计划何时开始生产。它也在探索收购现有工厂将其改造为内存芯片生产基地的可能性。该项目由台积电负责先进封装业务的副总裁徐国晋的领导。如果台积电进军先进内存芯片行业，它将不得不与三星电子、SK 海力士以及美光等公司展开竞争。",
-     "source": "Solidot",
-     "zh": "台积电考虑进入内存行业"
-    },
-    {
-     "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-     "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-     "pubDate": "Sun, 08 Nov 2026 12:15:31 +0000",
-     "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-     "source": "Ars Technica",
-     "zh": "Physicists listened to electrical noise to crack a superconductor mystery"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Why your laptop fans spin up without any warning",
+     "link": "https://www.engadget.com/2309612/laptop-fans-spin-without-warning-meaning/",
+     "pubDate": "Sun, 08 Nov 2026 20:30:00 +0000",
+     "summary": "Your laptop shouldn't sound like it's preparing for takeoff every time you sit down to work. Here's what might be causing those sudden fan blasts.",
+     "source": "Engadget",
+     "zh": "Why your laptop fans spin up without any warning"
+    },
     {
      "title": "Don't throw away your old flip phone – do this instead",
      "link": "https://www.engadget.com/2309609/dont-throw-away-old-flip-phone-do-this-instead-recycle-donate-repurpose/",
@@ -2056,14 +2064,6 @@ window.INDUSTRY_DATA = {
      "summary": "The $1,000-plus price is only part of the problem.",
      "source": "Engadget",
      "zh": "You can have a PlayStation arcade machine at home, but there's a huge caveat"
-    },
-    {
-     "title": "What does the Xbox Series X have that the Playstation 5 Pro doesn't?",
-     "link": "https://www.engadget.com/2309608/what-xbox-series-x-has-playstation-5-pro-doesnt/",
-     "pubDate": "Sun, 08 Nov 2026 19:15:00 +0000",
-     "summary": "While the PlayStation 5 Pro is the most powerful games console, the Xbox Series X offers features like Smart Delivery and Quick Resume.",
-     "source": "Engadget",
-     "zh": "What does the Xbox Series X have that the Playstation 5 Pro doesn't?"
     },
     {
      "title": "Deals: Latest Samsung foldables, Pixel 11 series, and more discounted",
@@ -2249,6 +2249,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+     "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+     "pubDate": "Sun, 08 Nov 2026 20:19:02 GMT",
+     "summary": "Tech CEO confirms extramarital relationship in internal message to employees",
+     "source": "Financial Times",
+     "zh": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy"
+    },
     {
      "title": "Democrats signal Musk, corporate probes as investors face new oversight risks",
      "link": "https://seekingalpha.com/news/4668774-democrats-signal-musk-corporate-probes-as-investors-face-new-oversight-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2456,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.",
      "source": "CNBC",
      "zh": "Amazon&apos;s Astro home robot has fans but looks destined for the &apos;trash heap.&apos; Why it&apos;s trying again"
-    },
-    {
-     "title": "Republican infighting mounts over corruption claims after midterms wipeout",
-     "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
-     "pubDate": "Sun, 08 Nov 2026 12:51:25 GMT",
-     "summary": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words",
-     "source": "Financial Times",
-     "zh": "Republican infighting mounts over corruption claims after midterms wipeout"
     },
     {
      "title": "Anthropic斥资34亿美元采购燃气发电设备，为数据中心供电",

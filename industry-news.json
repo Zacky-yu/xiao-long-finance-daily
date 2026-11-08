@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/8 21:41:49",
+ "generated_at": "2026/11/8 22:12:53",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "CEO Interview with Jun Yuan of Arcas-Tech",
+     "link": "https://semiwiki.com/ceo-interviews/375765-ceo-interview-with-jun-yuan-of-arcas-tech/",
+     "pubDate": "Sun, 08 Nov 2026 14:00:10 +0000",
+     "summary": "JUN YUAN BIO ◆Engineer for chip design, simulation, and P&R at AMD; Senior Engineer for chip verification (emulation, equivalence checking, formal verification) at Motorola since 1992. ◆Held R&D​ and technical management roles in formal verification EDA​ at Verplex, Jasper, and Cadence​ since 2003. ",
+     "source": "SemiWiki",
+     "zh": "CEO Interview with Jun Yuan of Arcas-Tech"
+    },
+    {
      "title": "CEO Interview with Pratap Ranade of Arena Physica",
      "link": "https://semiwiki.com/ceo-interviews/375988-ceo-interview-with-pratap-ranade-of-arena-physica/",
      "pubDate": "Sun, 08 Nov 2026 13:00:07 +0000",
@@ -345,6 +353,14 @@
      "zh": "AOI announces equity grants under Inducement Plan"
     },
     {
+     "title": "Leap signs MoU to relaunch Sutherland space launches",
+     "link": "https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 16:03:52 +0000",
+     "summary": "Leap, a startup aiming to develop mass-producible launch vehicles, has signed a Memorandum of Understanding (MoU) with Highlands and Islands Enterprise (HIE). This is to develop, and relaunch, space launch […] The post Leap signs MoU to relaunch Sutherland space launches appeared first on Electronic",
+     "source": "Electronics Weekly",
+     "zh": "Leap signs MoU to relaunch Sutherland space launches"
+    },
+    {
      "title": "Delivering Silicon Systems Through AI Disruption, Part 2: The Conductor",
      "link": "https://semiwiki.com/semiconductor-services/flow-accel/376003-delivering-silicon-systems-through-ai-disruption-part-2-the-conductor/",
      "pubDate": "Fri, 06 Nov 2026 16:00:32 +0000",
@@ -359,6 +375,22 @@
      "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — has appointed David Bell as chairman of its board of directors, separating the chairman and chief executive offi",
      "source": "Semiconductor Today",
      "zh": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman"
+    },
+    {
+     "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 14:33:14 +0000",
+     "summary": "What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions... The post What caught your eye? AI bust, Qualcomm MMIOs, RF emitters appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters"
+    },
+    {
+     "title": "Partying like it’s 1999 with the hangover in 2001",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 14:24:06 +0000",
+     "summary": "Partying like it’s 1999 without knowing that 2001 would see a 32% fall in the semi market, a chip analyst spun a rosy yarn A 1999 EW story started: ’The […] The post Partying like it’s 1999 with the hangover in 2001 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Partying like it’s 1999 with the hangover in 2001"
     },
     {
      "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
@@ -383,6 +415,30 @@
      "summary": "The market for wide bandgap semiconductor materials and devices has grown at a compound annual growth rate (CAGR) of 10.9% from $10.14bn in 2025 to a projected $11.24bn by 2026, driven mainly by increasing demand for power electronics with enhanced efficiency, wider use of silicon carbide (SiC) mate",
      "source": "Semiconductor Today",
      "zh": "Wide-bandgap materials and devices market to grow at 10.5% CAGR from $11.24bn in 2026 to $16.75bn by 2030"
+    },
+    {
+     "title": "Emerson NI PXIe instruments for AI-accelerated automated testing",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 11:03:56 +0000",
+     "summary": "Emerson has announced new NI PXI express instruments featuring an AI-accelerated approach to automated test. The goal, says the company, is to make the testing process more accessible to engineering […] The post Emerson NI PXIe instruments for AI-accelerated automated testing appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Emerson NI PXIe instruments for AI-accelerated automated testing"
+    },
+    {
+     "title": "MDA Space to provide digital antenna subsystems for IRIS² satellites",
+     "link": "https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 10:12:42 +0000",
+     "summary": "Canadian space company MDA Space has won a contract from Thales Alenia Space for work on the development of Europe’s IRIS² satellites. Specifically it will begin work on MDA AURORA […] The post MDA Space to provide digital antenna subsystems for IRIS² satellites appeared first on Electronics Weekly ",
+     "source": "Electronics Weekly",
+     "zh": "MDA Space to provide digital antenna subsystems for IRIS² satellites"
+    },
+    {
+     "title": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-exec-pay-toyota-robotaxis-in-car-computing-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 10:05:40 +0000",
+     "summary": "Looking at the news stories written within the last week, the most popular articles on the site cover Greece unveiling its semiconductor strategy, ASML links exec pay to employee morale, and Toyota and Waymo planning to launch robotaxis in Japan. The post Most Read – ASML exec pay, Toyota robotaxis,",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing"
     },
     {
      "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
@@ -433,60 +489,12 @@
      "zh": "Infineon and SOLUM strengthen collaboration on HVDC power solutions for AI data centers"
     },
     {
-     "title": "Interview with David Tester VP of Engineering Mach42",
-     "link": "https://semiwiki.com/eda/mach42/375789-interview-with-david-tester-vp-of-engineering-mach42/",
-     "pubDate": "Thu, 05 Nov 2026 20:00:05 +0000",
-     "summary": "David Tester is the VP of Engineering at Mach42, with 30 years of experience in semiconductor development, engineering leadership, and business growth. As Chief Engineer at EnSilica, he helped transform the company from a design consultancy into a publicly listed fabless semiconductor business, scal",
-     "source": "SemiWiki",
-     "zh": "Interview with David Tester VP of Engineering Mach42"
-    },
-    {
      "title": "Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech",
      "link": "https://www.eetimes.com/infineon-leaders-andreas-urschitz-and-maher-matta-on-a-decade-of-oktobertech/",
      "pubDate": "Thu, 05 Nov 2026 19:30:52 +0000",
      "summary": "Sponsored: Infineon’s Andreas Urschitz and Maher Matta talk to EE Times at OktoberTech Silicon Valley 2026, looking back on a decade of innovation and growth. The post Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech"
-    },
-    {
-     "title": "Adding Network Security To AI, HPC, And Data Centers",
-     "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
-     "pubDate": "Thu, 05 Nov 2026 08:06:45 +0000",
-     "summary": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, HPC, And Data Centers appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Adding Network Security To AI, HPC, And Data Centers"
-    },
-    {
-     "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
-     "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
-     "pubDate": "Thu, 05 Nov 2026 08:05:35 +0000",
-     "summary": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Turning Conv2D Into A Practical GPU Compute Pattern"
-    },
-    {
-     "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
-     "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:55 +0000",
-     "summary": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. The post A System-Level Approach To Protecting 3D-IC Signal Integrity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "A System-Level Approach To Protecting 3D-IC Signal Integrity"
-    },
-    {
-     "title": "Fitting AI Models To Edge Applications",
-     "link": "https://semiengineering.com/fitting-ai-models-to-edge-applications/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:08 +0000",
-     "summary": "Compression can shrink AI models, but efficient edge deployment starts with matching the architecture to the workload and hardware limits. The post Fitting AI Models To Edge Applications appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Fitting AI Models To Edge Applications"
-    },
-    {
-     "title": "Why Testing Automated Driving Is Harder Than It Looks",
-     "link": "https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/",
-     "pubDate": "Thu, 05 Nov 2026 08:02:40 +0000",
-     "summary": "Instead of waiting for rare situations to occur on public roads, engineers can create those situations virtually. The post Why Testing Automated Driving Is Harder Than It Looks appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why Testing Automated Driving Is Harder Than It Looks"
     }
    ]
   },
@@ -633,6 +641,14 @@
    "total": 5,
    "items": [
     {
+     "title": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
+     "link": "https://electrek.co/2026/11/08/new-id-aura-is-the-mainstream-ev-vw-needs-but-its-software-is-the-real-story/",
+     "pubDate": "Sun, 08 Nov 2026 13:42:16 +0000",
+     "summary": "Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Type 1 Beetle. Now facing an existential crisis after a decades-long push upmarket , the automaker faces a reckoning – and a retreat back into affordable, mass-market electric sedans li",
+     "source": "Electrek",
+     "zh": "New ID. AURA is the mainstream EV VW needs – but its software is the real story"
+    },
+    {
      "title": "Everyone wants an electric pickup truck. I want more electric 125cc motorcycles",
      "link": "https://electrek.co/2026/11/08/everyone-wants-an-electric-pickup-truck-i-want-more-electric-125cc-motorcycles/",
      "pubDate": "Sun, 08 Nov 2026 09:37:36 +0000",
@@ -711,14 +727,6 @@
      "summary": "Electric truck brand Workhorse is bringing its W56 Class 5 and 6 electric trucks to Canada thanks to a new agreement with a Canadian dealer group and fleet management provider offering truck and trailer sales, parts, repair, and 24/7 roadside assistance and towing services across the Northern nation",
      "source": "Electrek",
      "zh": "5 American, 6 Canadian: Workhorse W56 arrives in the True North"
-    },
-    {
-     "title": "Honda just showed off its first high-end electric mountain bike",
-     "link": "https://electrek.co/2026/11/07/honda-just-showed-off-its-first-high-end-electric-mountain-bike/",
-     "pubDate": "Sat, 07 Nov 2026 11:51:36 +0000",
-     "summary": "Honda makes just about everything with a motor, from lawnmowers and generators to cars, motorcycles, and even airplanes. Now the Japanese giant is adding another electrified vehicle to the list – a premium electric mountain bike. more…",
-     "source": "Electrek",
-     "zh": "Honda just showed off its first high-end electric mountain bike"
     },
     {
      "title": "Nio Firefly wins 2026 Red Dot Award for smart cockpit design",
@@ -1745,6 +1753,30 @@
    "total": 18,
    "items": [
     {
+     "title": "李书福称吉利完全认同换电模式，“车电不同寿”的矛盾还没集中爆发",
+     "link": "https://www.ithome.com/1/024/005.htm",
+     "pubDate": "Sun, 08 Nov 2026 14:01:34 GMT",
+     "summary": "IT之家 11 月 8 日消息，据观察者网报道，11 月 5 日，蔚来创始人、董事长兼 CEO 李斌与吉利控股集团董事长李书福，在 2026 世界互联网大会乌镇咖荟 · 汽车夜话进行对话。这是双方在 9 月 28 日蔚来与吉利达成充换电战略合作后的首次公开对话。 李书福表示， 吉利完全认同换电模式 ，新能源车电池是会衰减损坏的，但一台车的使用周期不止七八九年，这个矛盾必须找到解决方案，“直接换一块全新电池包，太贵；拆解翻新修复电池，成本同样很高。 所以换电，就是解决这个问题 。” 据IT之家此前报道，9 月 28 日， 蔚来与吉利控股集团达成充换电领域全面战略合作 。双方达成技术、运营、资本全",
+     "source": "IT之家",
+     "zh": "李书福称吉利完全认同换电模式，“车电不同寿”的矛盾还没集中爆发"
+    },
+    {
+     "title": "保时捷多款车型车机性能升级：新一代通讯管理系统算力达前代 5 倍",
+     "link": "https://www.ithome.com/1/024/004.htm",
+     "pubDate": "Sun, 08 Nov 2026 13:50:33 GMT",
+     "summary": "IT之家 11 月 8 日消息，保时捷宣布，911、Taycan、Panamera 和卡宴都将迎来一次大幅“性能”升级。不过，此次提升的 不是发动机动力，而是车机算力 。 保时捷本周发布了新一代保时捷通讯管理系统（PCM），算力最高可达上一代的 5 倍。得益于全新硬件架构， 车机启动和应用加载速度更快 ，同时运行多个应用时也更加流畅。 除了提升响应速度，新系统还增加了多项功能。保时捷把最早搭载于纯电卡宴的数字交互系统 引入 911、Taycan、Panamera ，以及燃油版、混动版卡宴。新界面提供五种主题、可自定义的桌面组件，还能根据车主的实车生成 3D 车辆模型。 对于喜欢在车库里欣赏爱车",
+     "source": "IT之家",
+     "zh": "保时捷多款车型车机性能升级：新一代通讯管理系统算力达前代 5 倍"
+    },
+    {
+     "title": "雷柏推出 VT2 RT V2 系列鼠标：类机械 / 光微动、电磁按键三种触感，499 元起",
+     "link": "https://www.ithome.com/1/024/003.htm",
+     "pubDate": "Sun, 08 Nov 2026 13:48:27 GMT",
+     "summary": "IT之家 11 月 8 日消息，雷柏现已推出 VT2 RT V2 系列鼠标，将于 11 月 10 日 20:00 开售， 售价 499 元起 ： VT2 RT V2：售价 499 元 VT2 RT 大师版 V2 ：售价 599 元 该系列鼠标搭载雷柏自研 VTCS 可变触发控制系统， 支持类机械微动、类光微动、电磁按键三种触感 ，可调 10 档触发行程、10 档 RT 行程、3 种点击触感、10 档点击反馈、10 种点击音效、10 档点击音量， 左右按键可独立调节 。 该系列鼠标搭载 NORDIC 54LM20 主控 + 原相 3955 Ultimate 传感器，拥有 750 IPS 追踪速度",
+     "source": "IT之家",
+     "zh": "雷柏推出 VT2 RT V2 系列鼠标：类机械 / 光微动、电磁按键三种触感，499 元起"
+    },
+    {
      "title": "奔驰要把屏幕“装”进车玻璃：后挡风能提醒注意路况，侧窗能告诉你汽车电量",
      "link": "https://www.ithome.com/1/024/002.htm",
      "pubDate": "Sun, 08 Nov 2026 13:28:29 GMT",
@@ -1761,14 +1793,6 @@
      "zh": "上海交大构建 AI 原生科学实验室 AutoDNA 装置：实现自主分子生物学实验操作，成果登《自然》"
     },
     {
-     "title": "A lack of male protagonists is making it harder to get young boys into books",
-     "link": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/",
-     "pubDate": "Sun, 08 Nov 2026 13:07:37 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/ Comments URL: https://news.ycombinator.com/item?id=50412954 Points: 18 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "A lack of male protagonists is making it harder to get young boys into books"
-    },
-    {
      "title": "前 XBOX 高管洛夫蒂斯炮轰夏尔马：老东家在她领导下堪比一场闹剧",
      "link": "https://www.ithome.com/1/023/998.htm",
      "pubDate": "Sun, 08 Nov 2026 13:02:38 GMT",
@@ -1777,36 +1801,12 @@
      "zh": "前 XBOX 高管洛夫蒂斯炮轰夏尔马：老东家在她领导下堪比一场闹剧"
     },
     {
-     "title": "央视曝光二手交易“到手刀”乱象，有快递员每月拿 4000 元好处费配合诈骗",
-     "link": "https://www.ithome.com/1/023/996.htm",
-     "pubDate": "Sun, 08 Nov 2026 13:02:02 GMT",
-     "summary": "IT之家 11 月 8 日消息，据央视新闻报道，“到手刀”是二手交易里的一个黑话：意思是货一到手，买家就挑毛病、砍价，不按谈好的价格付款。原本这顶多是让人头疼的交易纠纷；可如今，它竟然被一些不法分子利用，成了实施诈骗的手段。 家住北京的李先生，在二手交易平台上架了一部闲置手机。让他没想到的是，商品刚发布，就有人不问成色，迅速拍下付款。由于担心出现不必要的纠纷，李先生在二手平台上通过照片详细说明了手机的瑕疵，并提前告知了买家，对方也表示可以接受。 随后，李先生还把手机寄给了官方检测中心，并出具了详细的检测报告。没想到的是，一周后买家收到手机还是发来消息，指出手机拍出的照片有斑点，希望可以再便宜一",
-     "source": "IT之家",
-     "zh": "央视曝光二手交易“到手刀”乱象，有快递员每月拿 4000 元好处费配合诈骗"
-    },
-    {
      "title": "市值逆势新高，手握3774亿，伯克希尔还在等什么？",
      "link": "https://www.huxiu.com/article/4903947.html?f=rss",
      "pubDate": "Sun, 08 Nov 2026 20:43:42 +0800",
      "summary": "本文来自微信公众号： 格隆 ，作者：独行侠 最近，美股科技股崩盘式暴跌让人触目心惊，尤其这周，很多AI巨头2天跌幅甚至超过30%,一夜跌入熊市。 然而就在这时，伯克希尔B类股11月5日盘中摸到586.30美元，历史新高，当天道指和纳指各跌超过1000点。 一周下来伯克希尔涨了5%多，标普跌了快2.7%，纳指跌了3.4%。 有意思的是，一个月前伯克希尔年内还落后标普13.6个百分点，一个月后反过来领先5.8个百分点。 （伯克希尔-B股票价格走势，来源：futu） 要知道，伯克希尔刚发的三季报真不算好看，营业利润同比降5.8%，净利润221.12亿美元，同比降28.2%；拖累净利润最狠的是投资收益",
      "source": "虎嗅",
      "zh": "市值逆势新高，手握3774亿，伯克希尔还在等什么？"
-    },
-    {
-     "title": "支持米家：80°C 热水洗地 + 20000Pa 大吸力，友望 U280 扫拖机器人 1069 元新低",
-     "link": "https://www.ithome.com/1/023/995.htm",
-     "pubDate": "Sun, 08 Nov 2026 12:41:38 GMT",
-     "summary": "友望 U280 扫拖机器人官方定价 4199 元，支持 80°C 热水洗地 *，280R/min + 18N 下压力大力擦地。 97mm 纤薄主机床底畅行，基站配集尘袋，支持米家 App。 今日按下方步骤下单，仅需 1069 元即可入手。 *80℃ 热活水：指在标准室温环境 (约 22℃) 下，基站加热清水后注入机载水箱，注水口处水温至高达 80℃。 88VIP 需先领 3000-400 元消费券： 领券中心 今日 24 点 前点击下方卡片 → 可领 178 元淘礼金红包 下单时选择“ 以旧换新 ” → 旧品可选择“ 小家电 → 数据线 / 其他生活电器 ” 不回收 按上方步骤下单， 以旧换新",
-     "source": "IT之家",
-     "zh": "支持米家：80°C 热水洗地 + 20000Pa 大吸力，友望 U280 扫拖机器人 1069 元新低"
-    },
-    {
-     "title": "四门版“糯玉米”：消息称长安 Lumin PLUS 纯电小车将于 11 月 11 日上市",
-     "link": "https://www.ithome.com/1/023/994.htm",
-     "pubDate": "Sun, 08 Nov 2026 12:32:22 GMT",
-     "summary": "IT之家 11 月 8 日消息，据易车消息，长安 Lumin PLUS 将于 11 月 11 日正式上市。 相比原版长安 Lumin，新车由两门设计改为了 四门设计 ，长宽高分别为 3515mm（加长 222mm） × 1715mm（加宽 15mm） × 1545mm，轴距 2200mm（增加 220mm）。 ▲ 原版长安 Lumin IT之家注意到，长安 Lumin PLUS 保留了原版“糯玉米”标志性的圆形大灯与圆润车身轮廓， 改用非隐藏式门把手 ，正脸底部格栅部分采用黑化设计。 从公布的官图来看，长安 Lumin PLUS 采用怀挡设计，中控区域取消原有换挡结构，为前排释放更多储物空间。",
-     "source": "IT之家",
-     "zh": "四门版“糯玉米”：消息称长安 Lumin PLUS 纯电小车将于 11 月 11 日上市"
     },
     {
      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
@@ -1831,14 +1831,6 @@
      "summary": "本文来自微信公众号： 上海市民生活指南 ，作者：顾筝，题图来自：视觉中国 从小到大，你参加过多少婚礼？ 在喜宴上拿到的那一盒喜糖是怎么样的？ 现在的你对喜糖或许爱理不理，但时光倒回三四十年前，大家对一包喜糖宝贝得不得了，甚至宝贝到，连糖纸头都不舍得扔。 01 如果你在1970年代末、80年代初被分配到上海第一食品商店当营业员，你在弄堂里就变得吃香得不得了。 张家阿姨、李家姆妈都会拜托你一些事，其中有一件很重要&mdash;&mdash; &ldquo;到辰光，好点的喜糖帮我买买。&rdquo; 那时食品商店的格局，和现在不一样，一般来说，店堂正中摆放的是糖果柜台。 糖果配得上C位，因为它有几百",
      "source": "虎嗅",
      "zh": "上海喜糖简史"
-    },
-    {
-     "title": "I will not be using LLMs in my coding",
-     "link": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-     "pubDate": "Sun, 08 Nov 2026 12:14:10 +0000",
-     "summary": "Article URL: https://www.polso.info/why-i-will-not-be-using-llms-coding Comments URL: https://news.ycombinator.com/item?id=50412591 Points: 62 # Comments: 77",
-     "source": "Hacker News",
-     "zh": "I will not be using LLMs in my coding"
     },
     {
      "title": "华为、OpenAI、字节等科技巨头为何都要插手制药？",
@@ -1932,7 +1924,7 @@
      "title": "Person of Interest",
      "link": "https://krthr.co/person-of-interest/",
      "pubDate": "Sun, 08 Nov 2026 11:23:28 +0000",
-     "summary": "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 114 # Comments: 69",
+     "summary": "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 140 # Comments: 82",
      "source": "Hacker News",
      "zh": "Person of Interest"
     },
@@ -1964,7 +1956,7 @@
      "title": "Petered (what happens after the Peter Principle)",
      "link": "https://aworkinglibrary.com/writing/petered",
      "pubDate": "Sun, 08 Nov 2026 10:56:43 +0000",
-     "summary": "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 64 # Comments: 31",
+     "summary": "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 79 # Comments: 37",
      "source": "Hacker News",
      "zh": "Petered (what happens after the Peter Principle)"
     },
@@ -1972,7 +1964,7 @@
      "title": "JIT bitmap text rendering for microcontrollers",
      "link": "https://linebender.org/blog/jit-bitmap-text/",
      "pubDate": "Sun, 08 Nov 2026 10:42:15 +0000",
-     "summary": "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 29 # Comments: 6",
+     "summary": "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 35 # Comments: 6",
      "source": "Hacker News",
      "zh": "JIT bitmap text rendering for microcontrollers"
     },
@@ -1983,6 +1975,22 @@
      "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
      "source": "WIRED",
      "zh": "A 55-Year-Old Math Problem Was Solved—This Time by Humans"
+    },
+    {
+     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+     "link": "https://github.com/synchopate/llama-modchip",
+     "pubDate": "Sun, 08 Nov 2026 10:22:04 +0000",
+     "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 59 # Comments: 24",
+     "source": "Hacker News",
+     "zh": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+    },
+    {
+     "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+     "link": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+     "pubDate": "Sun, 08 Nov 2026 10:00:00 +0000",
+     "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+     "source": "WIRED",
+     "zh": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More"
     }
    ]
   },
@@ -1992,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Can a hacker really do anything with your IP address?",
+     "link": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+     "pubDate": "Sun, 08 Nov 2026 13:45:00 +0000",
+     "summary": "Your IP address won't give a hacker your passwords, yet it can point attackers to your home network. Here's what IPv6 changes and how to stay protected.",
+     "source": "Engadget",
+     "zh": "Can a hacker really do anything with your IP address?"
+    },
     {
      "title": "Streaming vs. downloading: Which uses more battery and data?",
      "link": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
@@ -2121,14 +2137,6 @@
      "zh": "How do spam callers get your number in the first place?"
     },
     {
-     "title": "What does Apple One Family come with and which subscription is best for you?",
-     "link": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
-     "pubDate": "Sun, 08 Nov 2026 00:30:00 +0000",
-     "summary": "Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up.",
-     "source": "Engadget",
-     "zh": "What does Apple One Family come with and which subscription is best for you?"
-    },
-    {
      "title": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini",
      "link": "https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/",
      "pubDate": "Sat, 07 Nov 2026 23:08:00 +0000",
@@ -2241,52 +2249,84 @@
    "total": 13,
    "items": [
     {
-     "title": "民调：82%德国人不满默茨执政表现",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925661793.html",
-     "pubDate": "Sun, 08 Nov 2026 21:27:52 +0800",
-     "summary": "德国媒体7日发布的一项民意调查结果显示，82%的德国人对总理默茨的执政表现感到不满，这一比例为他执政以来新高。 德国新社会问题研究所民调结果显示，被问及默茨的执政表现时，82%的受访者表示不满，较10月初实施的上一次民调上升2个百分点；仅13%的受访者表示满意。与年初时相比，德国人对默茨的不满意度大幅攀升。今年1月，67%的受访者对其执政表现不满，24%表示认可。 在这项民调中，默茨领导的联邦政府同样获得“低分”，82%的受访者对联邦政府表示不满。 60%的受访者说，自默茨领导的联邦政府执政以来，个人生活状况“变得更糟”，29%的受访者认为生活没有变化，仅6%受访者表示生活有所改善。 另据德国",
-     "source": "东方财富股票",
-     "zh": "民调：82%德国人不满默茨执政表现"
+     "title": "Notable healthcare headlines for the week: Moderna, Pfizer, and CVS Health in focus",
+     "link": "https://seekingalpha.com/news/4668617-notable-healthcare-headlines-for-the-week-moderna-pfizer-and-cvs-health-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 09:05:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Notable healthcare headlines for the week: Moderna, Pfizer, and CVS Health in focus"
     },
     {
-     "title": "英伟达“大劫案” 最新消息！",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925662583.html",
-     "pubDate": "Sun, 08 Nov 2026 21:23:24 +0800",
-     "summary": "据美国媒体6日报道，美国加利福尼亚州奥克兰市警方目前正在调查一起涉及科技企业 英伟达 的货物被盗案件。被盗物品为 AI芯片 和 计算机 硬件，价值高达1140万美元（约合7610万元人民币）。 分析人士表示，这可能是一起针对高科技企业精心策划的盗窃案。案情显示，一辆装载 英伟达 货物的卡车于今年8月29日从加州奥克兰出发，原定运往得克萨斯州沃思堡，提货流程符合原定安排，但卡车最终失联，受害人9月13日向警方报案。 警方追踪发现，卡车曾在途中多次停靠，单次停留时长达数小时，最终在加州东南部圣贝纳迪诺县失去踪迹。截至目前，警方尚未抓获任何嫌疑人，也无法确认案件是否存在冒名提货，或是运输系统遭黑客入",
-     "source": "东方财富股票",
-     "zh": "英伟达“大劫案” 最新消息！"
+     "title": "SpaceX has had limited impact on stock indexes, Goldman Sachs says",
+     "link": "https://seekingalpha.com/news/4668759-spacex-has-had-limited-impact-on-stock-indexes-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 09:03:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SpaceX has had limited impact on stock indexes, Goldman Sachs says"
     },
     {
-     "title": "570亿元市值大牛股，百亿出海并购",
-     "link": "http://stock.eastmoney.com/news/11219,202611083925662363.html",
-     "pubDate": "Sun, 08 Nov 2026 21:17:11 +0800",
-     "summary": "11月8日晚间， 华新建材 （600801）公告称，公司董事会会议审议通过了《关于收购巴西CSN CIMENTOS股权的议案》，批准公司在协定的企业价值为127亿巴西雷亚尔（相当于约23.085亿美元）基础上，以预估约90.337亿巴西雷亚尔（相当于约16.42亿美元，约109亿元人民币，并根据交割日财务报表净债务和营运资金进行调整）的价格，收购巴西CSN持有的CSN CIMENTOS 99.99%的股权。 华新建材 表示，本项目是公司积极推进海外多业务发展战略，布局新兴潜力市场的关键举措之一，同时是公司开拓南美洲建材市场的里程碑事件。本项目若成功实施，公司乃至我国 水泥 企业将首次通过并购进",
-     "source": "东方财富股票",
-     "zh": "570亿元市值大牛股，百亿出海并购"
+     "title": "Poppi founders are going after PepsiCo&apos;s Gatorade with new beverage startup Jetty",
+     "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+     "pubDate": "Sun, 08 Nov 2026 14:00:01 GMT",
+     "summary": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
+     "source": "CNBC",
+     "zh": "Poppi founders are going after PepsiCo&apos;s Gatorade with new beverage startup Jetty"
     },
     {
-     "title": "进博会观察｜乳企进博会“竞速”，精准营养的新战场",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925661884.html",
-     "pubDate": "Sun, 08 Nov 2026 21:16:09 +0800",
-     "summary": "11月的上海“四叶草”再次成为全球 乳业 的聚光点。第九届中国国际进口博览会（以下简称“进博会”） 乳业 板块的热闹亮相背后，是中国 乳业 正处在整体承压的行业周期中，传统大众 乳品 赛道存量博弈加剧，行业从规模扩张的旧路径中逐步转向，开启一场向细分赛道深耕的深刻变革。商务部对外贸易司二级巡视员常晖在本届进博会期间举办的“2026乳业政策宣讲会”上披露，2026年前三季度我国进口乳制品96.9亿美元。高端 乳品 进口增长较快，乳酪、乳清、乳白蛋白等品类进口额均有不同程度增长。数据背后呈现的是进口结构出现明显分化，同时精准营养、特医食品等细分赛道需求快速释放，正成为乳业突围的核心新方向。 进博会",
-     "source": "东方财富股票",
-     "zh": "进博会观察｜乳企进博会“竞速”，精准营养的新战场"
+     "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
+     "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+     "pubDate": "Sun, 08 Nov 2026 14:00:00 GMT",
+     "summary": "An increasingly divided U.S. equity market is enjoying a rare moment of unity. Unfortunately, it has coincided with the biggest selloff in more than a year.",
+     "source": "MarketWatch",
+     "zh": "Stocks are moving in sync again for the first time in a while. There’s just one problem."
     },
     {
-     "title": "拓斯达全尺寸人形机器人Star首秀 三大场景方案集中发布",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925662081.html",
-     "pubDate": "Sun, 08 Nov 2026 21:15:57 +0800",
-     "summary": "上证报中国证券网讯（记者何治民）11月7日-8日，2026 拓斯达 全球开放日举行，此次活动以“美好拓手可达”为主题，设置AI落地实践、具身智能前沿、新品方案发布、产业对话、战略合作等多个环节，集中呈现 拓斯达 扎根工业场景、推动AI从技术走向落地的最新成果。 新品集中首发：三套方案覆盖三大方向 11月7日， 拓斯达 重磅发布三套面向工业真实场景的产品解决方案，覆盖工业具身智能应用、人形 机器人 精密加工、AI服务器精密部件注塑成型三大方向。 拓斯达全尺寸工业双足人形 机器人 Star首次亮相。拓斯达 机器人 业务线总经理黄晶介绍，Star整机身高172cm，适配现有工厂产线布局；机身重72k",
+     "title": "巴西一车辆坠湖致10人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925671270.html",
+     "pubDate": "Sun, 08 Nov 2026 21:56:15 +0800",
+     "summary": "巴西里约热内卢州警方8日说，该州巴拉曼萨市附近发生一起车辆坠湖事故，造成10人死亡。 警方说，一名路人发现湖中有倾覆的车辆后报警，消防人员赶到现场，从湖中打捞出10具遗体。遇难者均在同一辆 汽车 内，其中包括4名儿童和6名成年人。 警方还说，由于事故现场没有照明，附近也没有发现任何监控摄像头，只能推断事故发生在凌晨，但具体原因仍需要进一步调查。 （文章来源：新华社）",
      "source": "东方财富股票",
-     "zh": "拓斯达全尺寸人形机器人Star首秀 三大场景方案集中发布"
+     "zh": "巴西一车辆坠湖致10人死亡"
     },
     {
-     "title": "惠城环保进博会携手欧莱雅 化学循环再生材料打开高端包装市场",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925661910.html",
-     "pubDate": "Sun, 08 Nov 2026 21:14:17 +0800",
-     "summary": "上证报中国证券网讯（记者王子霖）记者从 惠城环保 了解到，在第九届中国国际进口博览会期间， 惠城环保 作为欧莱雅可持续创新加速器首次入选的两家中国企业之一，携自主研发的混合废 塑料 深度催化裂解（CPDCC）技术亮相进博舞台。据了解，双方合作的首个应用成果将落地于即将上市的巴黎欧莱雅复颜专研滋润氨基洁面乳瓶盖，欧莱雅也成为 惠城环保 化学循环再生聚丙烯（crPP）的全球首家品牌用户。 欧莱雅可持续创新加速器由欧莱雅集团于2025年面向全球发起，计划五年内投入1亿欧元，旨在识别、孵化并规模化未来可持续解决方案。惠城 环保 凭借在废 塑料 化学循环领域的技术实力成功入选，同时也是今年欧莱雅BIG ",
+     "title": "韩国人均摄入热量10年减一成",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925670622.html",
+     "pubDate": "Sun, 08 Nov 2026 21:54:46 +0800",
+     "summary": "韩国卫生部门8日公布的数据显示，过去十年间，韩国民众日均摄入热量下降约11%。专家指出，韩国正步入“减食”社会，民众普遍减少热量摄入的同时，摄入不足人群的占比也在上升。 据韩联社报道，韩国疾病管理厅基于韩国国民健康营养调查数据，对2015年至2024年间韩国1岁及以上民众的日均摄入热量变化趋势进行分析。结果显示，2024年，韩国男性日均摄入2136卡路里，女性日均摄入1580卡路里，较2015年分别下降11.9%和10.6%。 2022年7月18日，顾客在韩国首尔的一家餐厅用餐。新华社记者王益亮摄从饮食结构看，碳水化合物在韩国民众热量摄入中的占比降低。2024年，碳水化合物占韩国男性和女性每日",
      "source": "东方财富股票",
-     "zh": "惠城环保进博会携手欧莱雅 化学循环再生材料打开高端包装市场"
+     "zh": "韩国人均摄入热量10年减一成"
+    },
+    {
+     "title": "特朗普：随着最新中期选举结果出炉，美国倒退了一大步",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925670014.html",
+     "pubDate": "Sun, 08 Nov 2026 21:54:12 +0800",
+     "summary": "美国总统特朗普：随着上次大选结果的出炉，美国在历史上倒退了一大步——就连在特朗普执政期间曾如“火箭般”飙升的股市，也在一天之内蒸发了3万亿美元。但请不要担心，我们一定会卷土重来，比以往任何时候都更加强大、更加辉煌。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普：随着最新中期选举结果出炉，美国倒退了一大步"
+    },
+    {
+     "title": "具身智能数据赛道“变天” 百万小时供给难解上亿小时需求",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925669648.html",
+     "pubDate": "Sun, 08 Nov 2026 21:48:54 +0800",
+     "summary": "财联社11月8日讯（记者付静） 近日，国家数据局组织召开行业高质量数据集建设链主工作座谈会，强调行业高质量数据集建设要坚持“以需定供、以用促建、以评提质”原则。其中，摸清 人工智能 用数需求是重点工作之一。 国家数据专家咨询委员会委员张向宏在本周的2026年世界互联网大会乌镇峰会上表示，通用大模型、行业大模型、智能体、世界模型、具身智能在内的五类 人工智能 对数据的需求不一样，高质量数据已成为 人工智能 发展的关键瓶颈。 财联社记者最新从业内采访获悉，在人工智能领域，具身智能数据是当前最大难题之一，正面临“缺”和“贵”双重困境。支撑具身智能的行业专识数据需自行生产，成本高、且无成熟生产模式，供",
+     "source": "东方财富股票",
+     "zh": "具身智能数据赛道“变天” 百万小时供给难解上亿小时需求"
+    },
+    {
+     "title": "【明日主题前瞻】新型电力系统的“能源大动脉” 特高压建设节奏进一步加快",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925668543.html",
+     "pubDate": "Sun, 08 Nov 2026 21:46:48 +0800",
+     "summary": "【热点导读】 新型 电力 系统的“能源大动脉”， 特高压 建设节奏进一步加快 丰田宣布设立 机器人 部门，定位为“未来业务的关键支柱” 印度拟强制 电力 零售商配置储能 WorkBuddy紧急十倍扩容！腾讯混元Hy4上线首日调用激增 配送 机器人 公司ServeRobotics推出物理AI服务 低碳转型和电气化构成长期需求，全球核电迎来复苏浪潮 【主题详情】 新型 电力 系统的“能源大动脉”， 特高压 建设节奏进一步加快 据媒体报道，在海拔3620米的阿坝州理县米亚罗镇山顶，阿坝1000千伏 特高压 变电站被雪山环绕。目前，这座世界海拔最高的特高压变电站正处于投产前冲刺阶段，计划今年年底投运。",
+     "source": "东方财富股票",
+     "zh": "【明日主题前瞻】新型电力系统的“能源大动脉” 特高压建设节奏进一步加快"
+    },
+    {
+     "title": "为“出圈”怎能先“出格”？起底低俗擦边广告乱象",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925670718.html",
+     "pubDate": "Sun, 08 Nov 2026 21:45:58 +0800",
+     "summary": "广告是连接消费者和企业的桥梁，一则好的广告能让企业产品变得家喻户晓。但今年以来，多家品牌因广告内容低俗、打“擦边球”而接连引发舆论争议。事件发生后，涉事企业公开道歉，下架视频，也受到了处罚，可新的争议广告还在上线。这些低俗擦边广告，为什么屡禁不止？记者对此进行了调查。 今年上半年，我国广告业收入突破万亿元，其中互联网广告发布收入6121亿元，同比增长25.3%。在产业快速发展的同时，却有多个品牌制作的互联网广告接连因为内容低俗“擦边”被推上风口。 今年3月， 罗技 抖音官方旗舰店发布的一条鼠标促销视频，把降价促销写成了对消费者的侮辱；6月，滴露衣物消毒液的剧情广告里存在物化女性的内容；8月，一",
+     "source": "东方财富股票",
+     "zh": "为“出圈”怎能先“出格”？起底低俗擦边广告乱象"
     },
     {
      "title": "Earnings Week Ahead: CSCO, CRWV, PLUG, ALC, AMAT, ACB, RKLB, ASTS, and more",
@@ -2303,14 +2343,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "MARA heads into Q3 earnings: Here's what to expect"
-    },
-    {
-     "title": "出手了！360亿“活水” 正“抄底”买入",
-     "link": "http://finance.eastmoney.com/news/1345,202611083925657485.html",
-     "pubDate": "Sun, 08 Nov 2026 21:00:07 +0800",
-     "summary": "轰轰烈烈的主动ETF发行大战落下帷幕。从10月23日至11月4日，首批18只主动ETF仅用9个交易日，就圆满完成了合计360亿元的发行任务。 发行节奏快、认购户数多、自购金额高达27亿元，构成这场发行大战的三大亮点。同时，结募之后火速建仓，已有16只主动ETF净值出现波动。此外，面对流动性维护、持仓透明带来的“抄作业”等考验，各家基金公司给出研判与思考。 不追求满仓速度，统筹成本与波动 发行大战落幕后，建仓随即展开。从当前基金净值来看，除鹏华基金、建信基金旗下较晚结募的产品外，易方达、华夏、富国、永赢、摩根、平安等16家公司旗下主动ETF均有净值波动迹象，其中，多只产品已有正收益，意味着这些产",
-     "source": "东方财富资讯",
-     "zh": "出手了！360亿“活水” 正“抄底”买入"
     },
     {
      "title": "How Democrats will try to end Trump&apos;s tariffs",
@@ -2369,14 +2401,6 @@
      "zh": "CoreWeave reaches out to Texas governor-elect on data centers"
     },
     {
-     "title": "11月8日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1344,202611083925654612.html",
-     "pubDate": "Sun, 08 Nov 2026 20:30:34 +0800",
-     "summary": "今日摘要 各民主党派中央、全国工商联和无党派人士认真学习贯彻中共二十届五中全会精神，表示要始终同以习近平同志为核心的中共中央保持高度一致，坚守多党合作初心，广泛凝聚共识，为以中国式现代化全面推进强国建设、民族复兴伟业贡献智慧和力量。 韩正访问格鲁吉亚。 学习贯彻党的二十届五中全会精神中央宣讲团成员在海南省、陕西省、河南省宣讲。 中央组织部负责人就党的二十一大代表选举工作答新华社记者问。 我国累计收购秋粮已超1亿吨，进度与上年基本持平。 伊朗方面称，已解除导弹射程限制，能够打击任何对伊朗构成威胁的地点。美国方面称，已下令组建部队阻止伊朗从陆路及里海获取武器。 内容速览 【学习贯彻党的二十届五中全",
-     "source": "东方财富资讯",
-     "zh": "11月8日晚间央视新闻联播要闻集锦"
-    },
-    {
      "title": "马斯克中选后要被“秋后算账”？德银：算力越紧张SpaceX越赚钱，政治风险被高估",
      "link": "https://wallstreetcn.com/articles/3785492",
      "pubDate": "Sun, 08 Nov 2026 20:00:09 +0800",
@@ -2401,52 +2425,12 @@
      "zh": "银行争相“抢票”"
     },
     {
-     "title": "Trump offers press secretary position to UFC boss Dana White",
-     "link": "https://seekingalpha.com/news/4668756-trump-offers-press-secretary-position-to-ufc-boss-dana-white?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 08 Nov 2026 06:49:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump offers press secretary position to UFC boss Dana White"
-    },
-    {
-     "title": "11月8日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202611083925645849.html",
-     "pubDate": "Sun, 08 Nov 2026 19:30:02 +0800",
-     "summary": "沪深两市多家上市公司11月8日晚间发布公司公告，以下为重要公告汇总。 【品大事】 华新建材 ：拟约16.42亿美元收购巴西CSN CIMENTOS 99.99%股权 华新建材 公告，公司拟以预估约90.337亿巴西雷亚尔(约16.42亿美元)收购 巴西国家钢铁 公司持有的CSN CIMENTOS 99.99%股权。标的公司为巴西第二大 水泥 生产商，拥有7家窑线工厂及6家粉磨站， 水泥 总产能达1,700万吨/年（约占21%的市场份额），石灰石储量约22亿吨，产品主要服务巴西东北和东南两大关键市场，具备高于行业平均水平的产能、技术和运营表现。本项目若成功实施，是公司乃至中国 水泥 企业将首次进",
-     "source": "东方财富资讯",
-     "zh": "11月8日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
      "title": "进博会观察 | 宝洁、欧莱雅将海外畅销品牌带入中国",
      "link": "http://www.eeo.com.cn/2026/1108/1088239.shtml",
      "pubDate": "Sun, 08 Nov 2026 19:25:44 +0800",
      "summary": "除了回应消费需求，海外成熟品牌的引入，也为宝洁、欧莱雅提供了扩充在华品牌矩阵的选择。",
      "source": "经济观察网",
      "zh": "进博会观察 | 宝洁、欧莱雅将海外畅销品牌带入中国"
-    },
-    {
-     "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925642850.html",
-     "pubDate": "Sun, 08 Nov 2026 19:07:37 +0800",
-     "summary": "当地时间8日，伊朗伊斯兰革命卫队海军表示，又有一艘油轮试图穿越霍尔木兹海峡未经伊朗授权的航线，发生爆炸并引发剧烈火灾。 自当天凌晨起，已有三艘油轮爆炸起火。 伊朗伊斯兰革命卫队海军表示，伊朗针对霍尔木兹海峡制定的相关规定已多次向所有船只传达。任何违反这些规定，经由未经授权航线穿越该海峡的船只，都必将面临同样结果。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火"
-    },
-    {
-     "title": "经营业绩稳健、科技动能增强 沪市头部公司彰显核心价值",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925643579.html",
-     "pubDate": "Sun, 08 Nov 2026 19:03:38 +0800",
-     "summary": "随着2026年三季报披露收官，沪市上市公司经营业绩持续改善，一批千亿市值头部企业凭借稳健的经营基本面、持续增强的科技创新能力和积极的股东回报，展现出较强的发展韧性。 截至2026年11月6日，沪市合计上市公司超2300家，总市值超65万亿元。其中，头部市值公司（A股市值超千亿）近百家，合计市值超34.8万亿元。沪市头部公司中，传统蓝筹在金融、 通信 、能源等重点领域持续发挥支撑作用；科技制造企业，在 人工智能 、集成电路、先进制造等领域加快成长，整体呈现出业绩更优、创新引领、投资者回报稳定等特点，成为资本市场高质量发展的重要力量。 业绩更优，头部蓝筹“压舱” 2026年前三季度，沪市上市公司合",
-     "source": "东方财富资讯",
-     "zh": "经营业绩稳健、科技动能增强 沪市头部公司彰显核心价值"
-    },
-    {
-     "title": "深市半导体扫描：从设计、制造到材料设备的全链爬坡",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925643447.html",
-     "pubDate": "Sun, 08 Nov 2026 19:03:17 +0800",
-     "summary": "随着深市公司2026年三季报披露完毕，深市 半导体 产业前三季度的成绩单也呼之欲出。数据显示，深市 半导体 产业链覆盖55家上市公司，合计总市值2.33万亿元，前三季度实现营收3284亿元，同期归母净利润572亿元。从企业级SSD、端边侧SoC到12英寸晶圆代工、测试设备和 半导体 精密零部件，多个环节的深市半导体公司在三季度呈现营收和利润的集中抬升。 设计与存储环节：产品放量驱动收入弹性 存储环节的收入增长直接体现在出货量数据中。大普微10月29日披露的三季报显示，2026年前三季度实现营业收入98.35亿元，同比增长678.13%；归属于上市公司股东的净利润25.43亿元，同比扭亏为盈；第",
-     "source": "东方财富资讯",
-     "zh": "深市半导体扫描：从设计、制造到材料设备的全链爬坡"
     },
     {
      "title": "特朗普邀UFC老板出任白宫发言人，对方或已婉拒",
@@ -2473,12 +2457,36 @@
      "zh": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完"
     },
     {
-     "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
-     "link": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
-     "pubDate": "Sun, 08 Nov 2026 09:29:04 GMT",
-     "summary": "France's Interior Ministry counted 146,000 protesters Saturday as demonstrations over living costs public services entered a fourth consecutive weekend.",
-     "source": "CNBC",
-     "zh": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend"
+     "title": "从“新品首发”到“创新策源”，跨国公司开始与中国伙伴共同创新",
+     "link": "http://www.eeo.com.cn/2026/1108/1088101.shtml",
+     "pubDate": "Sun, 08 Nov 2026 17:27:11 +0800",
+     "summary": "把SK、GE航空航天、3M、霍尼韦尔科技、蔡司、索尼、赛诺菲、迅达、冯氏集团这几家企业的展台材料放在一起看，它们讲述的内容，正从“我能为中国提供什么”转向“我能和中国一起做出什么”。这些企业在中国做的事，已经从销售产品延伸到在中国研发、与中国伙伴共同创新，并把源自中国的成果推向全球。",
+     "source": "经济观察网",
+     "zh": "从“新品首发”到“创新策源”，跨国公司开始与中国伙伴共同创新"
+    },
+    {
+     "title": "为未来两年“激烈斗争”做准备！特朗普邀请“格斗联盟”UFC总裁出任白宫发言人",
+     "link": "https://wallstreetcn.com/articles/3785475",
+     "pubDate": "Sun, 08 Nov 2026 15:20:41 +0800",
+     "summary": "特朗普正在为一场更具对抗性的政治战做准备。在白宫新闻秘书一职连续出现人事动荡之后，他将目光投向了一个出人意料的人选——UFC终极格斗冠军赛总裁达纳·怀特（Dana White）。 据 新华社 报道，美国总统特朗普7日在社交媒体上发文说，他已邀请美国终极格斗冠军赛总裁达纳·怀特担任白宫新闻秘书一职。特朗普说，达纳·怀特将会是一名“与众不同”的新闻秘书。美媒报道说，目前尚不清楚达纳·怀特是否接受了特朗普的邀请。 当地时间周六，美国总统特朗普在其社交媒体平台Truth Social上发文，宣布已向终极格斗冠军赛（UFC）首席执行官达纳·怀特（Dana White）提供白宫新闻发言人一职。 “我很高兴",
+     "source": "华尔街见闻",
+     "zh": "为未来两年“激烈斗争”做准备！特朗普邀请“格斗联盟”UFC总裁出任白宫发言人"
+    },
+    {
+     "title": "让市场决定人民币价格",
+     "link": "http://www.eeo.com.cn/2026/1108/1087941.shtml",
+     "pubDate": "Sun, 08 Nov 2026 15:19:39 +0800",
+     "summary": "货币的国际使用能力，最终还要由市场深度、流动性和真实交易需求检验。",
+     "source": "经济观察网",
+     "zh": "让市场决定人民币价格"
+    },
+    {
+     "title": "重视AI对就业的结构性影响 | 经观社论",
+     "link": "http://www.eeo.com.cn/2026/1108/1087874.shtml",
+     "pubDate": "Sun, 08 Nov 2026 14:28:00 +0800",
+     "summary": "就业政策既要尊重技术进步和企业自主调整用工的规律，也要通过失业保障、公共就业服务和职业培训，分担转型过程中企业难以独自承担的成本。政策支持应当更多地跟着劳动者走，而不是依附于其原来所在的单位和岗位。",
+     "source": "经济观察网",
+     "zh": "重视AI对就业的结构性影响 | 经观社论"
     }
    ]
   },

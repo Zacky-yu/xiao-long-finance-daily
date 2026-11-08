@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/8 07:10:16",
+ "generated_at": "2026/11/8 08:03:24",
  "recent_days": 7,
  "industries": [
   {
@@ -40,6 +40,30 @@ window.INDUSTRY_DATA = {
      "summary": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An Open Source Inferenc",
      "source": "MarkTechPost",
      "zh": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM"
+    },
+    {
+     "title": "全民RSI时代来了？第一批中国玩家，已经在家让AI造AI",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652740926&idx=1&sn=cc1cb3ac7a41751da340610d4cb316ab",
+     "pubDate": "Sat, 07 Nov 2026 13:04:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "全民RSI时代来了？第一批中国玩家，已经在家让AI造AI"
+    },
+    {
+     "title": "破天荒！物理学「教皇」威滕33页独作致敬 AI，Claude提出关键构造",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652740926&idx=2&sn=eb072be50e4bc4c0171023fd71e2d336",
+     "pubDate": "Sat, 07 Nov 2026 13:04:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "破天荒！物理学「教皇」威滕33页独作致敬 AI，Claude提出关键构造"
+    },
+    {
+     "title": "NeurIPS'26 | 如何减少共情推理中的错误传播？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652740926&idx=3&sn=c947beb9d2b6ef1b8e04cfd4656a9f7a",
+     "pubDate": "Sat, 07 Nov 2026 13:04:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "NeurIPS'26 | 如何减少共情推理中的错误传播？"
     },
     {
      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
      "source": "MIT Tech Review AI",
      "zh": "I watched a humanoid robot clean my apartment. It felt like a taste of the future."
-    },
-    {
-     "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-     "link": "https://www.qbitai.com/2026/11/508174.html",
-     "pubDate": "Fri, 06 Nov 2026 09:25:59 +0000",
-     "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
-     "source": "量子位",
-     "zh": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？"
-    },
-    {
-     "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
-     "link": "https://www.qbitai.com/2026/11/508170.html",
-     "pubDate": "Fri, 06 Nov 2026 09:21:51 +0000",
-     "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
-     "source": "量子位",
-     "zh": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验"
-    },
-    {
-     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-     "link": "https://openai.com/index/partnering-with-hacktron",
-     "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-     "source": "OpenAI",
-     "zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
     }
    ]
   },
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Wars May Spur Faster Electrification",
+     "link": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
+     "pubDate": "Sat, 07 Nov 2026 18:00:00 -0600",
+     "summary": "The wars in Ukraine and the Middle East have prompted an increase in EV sales to avoid retail fuel inflation and gas demand destruction in favor of other power generation sources. With COP31 starting next week, some participants have signaled that faster electrification could become the focus of the",
+     "source": "OilPrice",
+     "zh": "Wars May Spur Faster Electrification"
+    },
+    {
      "title": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html",
      "pubDate": "Sat, 07 Nov 2026 16:00:00 -0600",
@@ -976,14 +984,6 @@ window.INDUSTRY_DATA = {
      "summary": "As we head into the United Nations’ 31st annual flagship climate conference (COP31), to be held next week in Antalya, Türkiye, greenwashing presents a large and growing problem in the private sector. As the tech sector’s greenhouse gas emissions explode against the backdrop of the artificial intelli",
      "source": "OilPrice",
      "zh": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas"
-    },
-    {
-     "title": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
-     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html",
-     "pubDate": "Fri, 06 Nov 2026 15:00:00 -0600",
-     "summary": "The United States boasts the largest nuclear power production capacity in the world, but decades of insufficient funding and policy support is now posing an existential threat to the ageing sector. In the past decade, the United States has added just one new nuclear power plant to its fleet, while m",
-     "source": "OilPrice",
-     "zh": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall"
     },
     {
      "title": "Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election",
@@ -1754,44 +1754,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
-     "link": "https://www.ithome.com/1/023/835.htm",
-     "pubDate": "Sat, 07 Nov 2026 23:02:43 GMT",
-     "summary": "IT之家 11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划， 入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Premium）以及 Semrush 等软件 ， 期限为 12 个月 。 据介绍，Adobe for Startups 计划面向成立时间不超过 5 年，且融资总额低于 1,500 万美元 （IT之家注：现汇率约合 1 亿元人民币） 的企业。在免费使用的软件中，Firefly Pro Plus 是一款创意型 AI 工具，可帮助用户将创意构思转化为图像、视频和音频内容",
+     "title": "庆祝《霍格沃茨之遗》上线 DLSS 5，英伟达推出定制版 RTX 5090 显卡抽奖活动",
+     "link": "https://www.ithome.com/1/023/847.htm",
+     "pubDate": "Sat, 07 Nov 2026 23:57:55 GMT",
+     "summary": "IT之家 11 月 8 日消息，为庆祝 DLSS 5 于 11 月 5 日登陆《霍格沃茨之遗》，英伟达正在举办抽奖活动，送出一张采用《霍格沃茨之遗》定制主题外观的 GeForce RTX 5090 Founders Edition 显卡。 参与者需要在英伟达 GeForce 官方 X、Instagram、Facebook 或 TikTok 账号中找到对应的抽奖帖，并在评论区留下话题标签 #RTXON。每人最多只能参与一次，四个平台的参与次数合并计算。 活动将持续至太平洋时间 11 月 12 日晚 11:59，并计划于 11 月 13 日左右随机抽出一名获奖者。英伟达为奖品估值 2,599 美元",
      "source": "IT之家",
-     "zh": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年"
+     "zh": "庆祝《霍格沃茨之遗》上线 DLSS 5，英伟达推出定制版 RTX 5090 显卡抽奖活动"
     },
     {
-     "title": "全球最大、发展最快：我国可再生能源技术占据全球主导地位",
-     "link": "https://www.ithome.com/1/023/834.htm",
-     "pubDate": "Sat, 07 Nov 2026 22:56:24 GMT",
-     "summary": "IT之家 11 月 8 日消息，据央视新闻报道，11 月 7 日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。 报告指出，目前，化石能源活动仍是全球碳排放的最大来源。2025 年，全球与能源相关的二氧化碳排放总量同比增长 0.4%，达 384 亿吨，是 2021 年以来最低增幅。其中， 中国碳排放量下降 0.5% ，美国碳排放量增长 2.4%，成为全球碳排放增长的最大来源。 中国企业改革与发展研究会会长彭华岗介绍，今年上半年， 中国煤电发电量占比降至 49.7% ，首次低于 50%，煤电正从主力电源转为兜底保障和系统",
+     "title": "IT早报 1108：比亚迪超豪华行政旗舰轿车仰望鼎曜行政版发布；中国空间站将迎首位外籍航天员；深蓝汽车“车载洗脚装置”专利公布；搜狗问问正式停运...",
+     "link": "https://www.ithome.com/1/023/846.htm",
+     "pubDate": "Sat, 07 Nov 2026 23:56:39 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 8 日星期日，今天的重要科技资讯有： 1. 比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里 新车采用中轴对称布局与对开门设计，后排配零重力云感座椅和中央行政岛台。易四方、云辇悬架加持，还搭载自研 4nm 智驾芯片，CLTC 续航超 1000 公里。>> 查看详情 2. 中国“天宫”空间站将迎首位外籍航天员，巴基斯坦载荷专家确认参加神舟二十四号任务并乘神二十三飞船返回 中国载人航天办宣布，神舟二十四号任务将搭载 1 名巴基斯坦载荷专家，短期在轨飞行后乘神舟二十三号返回，系中国空间站首位外籍航天员。中巴 2025",
      "source": "IT之家",
-     "zh": "全球最大、发展最快：我国可再生能源技术占据全球主导地位"
+     "zh": "IT早报 1108：比亚迪超豪华行政旗舰轿车仰望鼎曜行政版发布；中国空间站将迎首位外籍航天员；深蓝汽车“车载洗脚装置”专利公布；搜狗问问正式停运..."
     },
     {
-     "title": "马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单",
-     "link": "https://www.ithome.com/1/023/833.htm",
-     "pubDate": "Sat, 07 Nov 2026 22:56:15 GMT",
-     "summary": "IT之家 11 月 8 日消息，特斯拉 CEO 埃隆 · 马斯克（Elon Musk）当地时间周六表示，为了在明年拆除生产线、转而扩大 Cybercab 产能之前完成现有 Cybertruck 订单，特斯拉将为 Cybertruck 增加一个额外生产班次。 马斯克在社交平台 X 上发文称：“目前 Cybertruck 的积压订单量远超特斯拉在明年 6 月至 7 月左右拆除生产线、为 Cybercab 扩产之前所能完成的数量。” 他补充说：“我们将增加一个额外班次，尽可能确保按时完成所有订单。” IT之家注意到，就在马斯克发表上述言论的前一天，他曾表示，特斯拉计划明年逐步结束得克萨斯州工厂的 C",
+     "title": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
+     "link": "https://www.ithome.com/1/023/845.htm",
+     "pubDate": "Sat, 07 Nov 2026 23:51:36 GMT",
+     "summary": "IT之家 11 月 8 日消息，埃森哲（Accenture）被指发布了一份充斥人工智能“幻觉”的研究报告，其中不仅包含大量虚假信息，还出现了多处疑似捏造的研究案例。 据 GPTZero 最新分析，这家咨询巨头发布的一份报告涉嫌包含 15 条虚假引用，以及完全虚构的案例研究，因此正受到外界审查。 这份名为《跨越式发展》（Leapfrogging Development）的报告由埃森哲与马德里 IE 大学的研究人员合作发布，旨在探讨人工智能如何提高非洲农业产业的生产力。 埃森哲否认相关错误是由人工智能造成的。 不过，这一事件仍可能令埃森哲陷入尴尬境地。此前，该公司管理层曾威胁称，不愿使用人工智能的",
      "source": "IT之家",
-     "zh": "马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单"
+     "zh": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致"
     },
     {
-     "title": "B 社陶德回应《上古卷轴 6：哨兵》是否独占 XBOX：现在评论还为时过早",
-     "link": "https://www.ithome.com/1/023/832.htm",
-     "pubDate": "Sat, 07 Nov 2026 22:51:09 GMT",
-     "summary": "IT之家 11 月 8 日消息，贝塞斯达（Bethesda）最近终于公布了《上古卷轴 6：哨兵》游戏，至少公布了副标题。但玩家们如今仍然好奇：这款游戏是否会成为微软 XBOX 独占？ 最近几年，XBOX 的独占游戏政策发生了猛烈变革，先是菲尔 · 斯宾塞将 XBOX 的独占属性几乎消除，《极限竞速：地平线》和《光环》等游戏相继登陆 PlayStation 平台；阿莎 · 夏尔马上位后重新强调了独占策略，让《战争机器：事变日》成为主机端 XBOX 独占。 因此，《上古卷轴 6：哨兵城》最终是否会登陆 PlayStation，还是会继续作为 XBOX 主机独占游戏，目前仍存在不确定性。 IT之家注",
+     "title": "神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周",
+     "link": "https://www.ithome.com/1/023/844.htm",
+     "pubDate": "Sat, 07 Nov 2026 23:44:20 GMT",
+     "summary": "IT之家 11 月 8 日消息，据央视新闻报道，按照计划， 神舟二十四号 乘 组 将于本月飞往中国空间站与 神舟二十三号 乘 组 太空会师，然后进行乘组轮换。这意味着， 神舟二十三号乘组 中，将有一名航天员会在太空再执行半年左右的空间站任务，乘组将进行全新编队。 据介绍，2025 年 2 月，中国和巴基斯坦在伊斯兰堡签署《关于选拔、训练巴基斯坦航天员并参与中国空间站飞行任务的合作协议》，正式启动巴基斯坦航天员选拔工作。经过初选、复选、定选三个阶段的严格筛选和评定，选拔出 2 名巴基斯坦预备航天员，在华完成各项训练并通过考核后，其中 1 人将执行载人飞行任务，1 人作为任务备份航天员。 IT之家",
      "source": "IT之家",
-     "zh": "B 社陶德回应《上古卷轴 6：哨兵》是否独占 XBOX：现在评论还为时过早"
+     "zh": "神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周"
     },
     {
-     "title": "欧洲多地爆发抗议，民众走上街头要求暂停数据中心建设",
-     "link": "https://www.ithome.com/1/023/831.htm",
-     "pubDate": "Sat, 07 Nov 2026 22:46:04 GMT",
-     "summary": "IT之家 11 月 8 日消息，据彭博社报道，当地时间周六，欧洲多地继续爆发反对数据中心建设的抗议活动。民众走上街头，表达对数据中心扩张可能带来的社会和环境影响的担忧。 据爱尔兰国家广播电视台（RTÉ）报道，约有 2000 人在都柏林举行游行。芬兰广播公司 Yle 报道称，约有 1300 人聚集在赫尔辛基，芬兰多个规模较小的城镇也举行了示威活动。 由当地民主运动组织和气候抗议团体组成的联盟“停止肮脏数据中心”（Stop Dirty Data Centres）表示，此次行动旨在“阻止人工智能数据中心不受约束地扩张，防止我们的民主制度被大型科技企业的利益绑架”。 从苏格兰到西班牙、从法国到丹麦，各",
+     "title": "育碧被曝正开发两款《刺客信条》新作，一款以古罗马为背景",
+     "link": "https://www.ithome.com/1/023/843.htm",
+     "pubDate": "Sat, 07 Nov 2026 23:43:10 GMT",
+     "summary": "IT之家 11 月 8 日消息，据报道，育碧正在开发两款全新的《刺客信条》游戏，其中一款将以古罗马为背景。 IT之家注意到，这一消息来自 YouTube 博主 Xj0nathan。他透露，以古罗马为背景的游戏代号为“Mars”。他声称，有两名能够访问育碧后台系统的消息人士证实了这一信息，而游戏的故事背景可能还会与即将推出的《刺客信条》真人剧集产生联系。 另一款游戏的代号为“Pocket”，据称是一款以耶路撒冷为背景的手机游戏。Xj0nathan 表示，这款游戏的玩法有些类似《刺客信条：英灵殿》中的精通挑战模式，画面风格则接近最新推出的《波斯王子》系列作品。游戏主角的导师据称是一名名为米莉娅姆（",
      "source": "IT之家",
-     "zh": "欧洲多地爆发抗议，民众走上街头要求暂停数据中心建设"
+     "zh": "育碧被曝正开发两款《刺客信条》新作，一款以古罗马为背景"
+    },
+    {
+     "title": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账",
+     "link": "https://www.ithome.com/1/023/842.htm",
+     "pubDate": "Sat, 07 Nov 2026 23:40:01 GMT",
+     "summary": "IT之家 11 月 8 日消息，索尼近期为 PlayStation Plus 订阅服务推出新福利，包含 YouTube Premium 试用资格或硬件产品折扣等。部分玩家对此并不热情，因为领取福利有许多限制。 IT之家了解到，这项优惠已在德国、法国和英国开启，三个档位的 PS Plus 均能享受， 具体包括免费试用 YouTube Premium 三个月 /免费试用 Calm Premium 两个月，以及 Sony Pictures Core 电影消费额度或部分硬件产品折扣，购买 DualSense 手柄等可以享受优惠。 对海外用户来说，最具吸引力的福利可能是 YouTube Premium ",
+     "source": "IT之家",
+     "zh": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账"
+    },
+    {
+     "title": "芒果又赢麻了？",
+     "link": "https://www.huxiu.com/article/4903839.html?f=rss",
+     "pubDate": "Sun, 08 Nov 2026 07:31:56 +0800",
+     "summary": "出品 | 妙投APP 作者 | 段明珠 编辑 | 丁萍 头图 | 视觉中国 继国内首部上星AIGC长剧《后西游记》后，短短几个月，芒果超媒再次拿到大结果。 流量爆了 ，新综艺节目《后会友期》火爆出圈，成为2026年首部市占率破70%的新综艺； 热度爆了 ，在微博、小红书、豆瓣等平台节目相关讨论将热度拉满，登顶、断层第一等词不绝于耳； 带货爆了 ，播出一周，冠名方999感冒灵因嘉宾落泪裹品牌毛毯的镜头走红后，直播间单场观看突破20万人次；绝味、奈雪并未签约投放，纯粹因为镜头露出就获得超200%的环比销量增长； 股价爆了 ，仅5个交易日，芒果超媒股价累计涨幅高达56.19％。 （图片来源：公开信息",
+     "source": "虎嗅",
+     "zh": "芒果又赢麻了？"
+    },
+    {
+     "title": "GitHub New pull request overview page in public preview",
+     "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+     "pubDate": "Sat, 07 Nov 2026 23:09:40 +0000",
+     "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "GitHub New pull request overview page in public preview"
+    },
+    {
+     "title": "IRA Velinsky – Commodore's Industrial Designer",
+     "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+     "pubDate": "Sat, 07 Nov 2026 22:45:39 +0000",
+     "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "IRA Velinsky – Commodore's Industrial Designer"
     },
     {
      "title": "US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion (Francisco Rodrigues/CoinDesk)",
@@ -1805,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Making any integer with four 2s (2025)",
      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
      "pubDate": "Sat, 07 Nov 2026 22:38:58 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 22 # Comments: 3",
      "source": "Hacker News",
      "zh": "Making any integer with four 2s (2025)"
     },
@@ -1829,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "MeccanicOS",
      "link": "https://meccanicos.com/",
      "pubDate": "Sat, 07 Nov 2026 21:13:44 +0000",
-     "summary": "Article URL: https://meccanicos.com/ Comments URL: https://news.ycombinator.com/item?id=50408129 Points: 6 # Comments: 3",
+     "summary": "Article URL: https://meccanicos.com/ Comments URL: https://news.ycombinator.com/item?id=50408129 Points: 9 # Comments: 3",
      "source": "Hacker News",
      "zh": "MeccanicOS"
     },
@@ -1837,25 +1869,9 @@ window.INDUSTRY_DATA = {
      "title": "Shadow of the Sun (2021)",
      "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
      "pubDate": "Sat, 07 Nov 2026 21:11:05 +0000",
-     "summary": "Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ Comments URL: https://news.ycombinator.com/item?id=50408104 Points: 10 # Comments: 4",
+     "summary": "Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ Comments URL: https://news.ycombinator.com/item?id=50408104 Points: 15 # Comments: 4",
      "source": "Hacker News",
      "zh": "Shadow of the Sun (2021)"
-    },
-    {
-     "title": "Show HN: Where Were We",
-     "link": "https://wherewerewe.app/",
-     "pubDate": "Sat, 07 Nov 2026 21:08:35 +0000",
-     "summary": "A little web game I made as an anniversary present for my wife. Upload vacation photos and make them into a game. WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone. Comments URL: https://news.ycombinator.com/item?id=50408082 Points:",
-     "source": "Hacker News",
-     "zh": "Show HN: Where Were We"
-    },
-    {
-     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "pubDate": "Sat, 07 Nov 2026 20:45:32 +0000",
-     "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 63 # Comments: 54",
-     "source": "Hacker News",
-     "zh": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files"
     },
     {
      "title": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa&apos;s election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)",
@@ -1954,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "FAA 计划到 2028 年淘汰软盘"
     },
     {
-     "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
-     "link": "https://www.ithome.com/1/023/829.htm",
-     "pubDate": "Sat, 07 Nov 2026 16:00:12 GMT",
-     "summary": "IT之家 11 月 8 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 今日正式开售。其中，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。 这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、岩黑、嫣红三种配色可选，机身尺寸为 150.3×94.5×8.95mm，后置 5000 万像素摄像头。 这款手机采用联发科曦力 G99 处理器，搭配 LPDDR4X 内存与 UFS 2.2 闪存，至高 12GB+256GB 存储，此外支持最大",
-     "source": "IT之家",
-     "zh": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕"
-    },
-    {
      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
      "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
      "pubDate": "Sat, 07 Nov 2026 13:00:00 +0000",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
      "source": "WIRED",
      "zh": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+"
-    },
-    {
-     "title": "抗议者闯入微软在欧洲的一处数据中心工地",
-     "link": "https://www.solidot.org/story?sid=85823",
-     "pubDate": "Sat, 07 Nov 2026 19:46:00 +0800",
-     "summary": "逾百名活动人士闯入了阿姆斯特丹的一处微软 AI 数据中心施工现场，他们爬上起重机，悬挂气球并跳起舞，部分人则举着 Screw your datacenter 的标语。此次行动是针对 AI 基础设施迅速扩张所开展的一系列抗议活动之一。抗议者 Sam van der Beek 表示：“这些数据中心正摧毁我们的世界。它们消耗了海量资源，导致地球变得不再适宜居住。这就是我们今天来到这里的原因。”Stop Dirty Data Centers 联盟宣布，其成员于周五和周六在 16 个国家采取抗议行动。微软在阿姆斯特丹的项目 Pure Data Centers 计划投资逾 10 亿美元。Stop Dirt",
-     "source": "Solidot",
-     "zh": "抗议者闯入微软在欧洲的一处数据中心工地"
     }
    ]
   },
@@ -2002,12 +2002,44 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
-     "title": "vivo X500 Ultra on track to launch next year, says tipster",
-     "link": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php",
-     "pubDate": "Sat, 07 Nov 2026 23:59:02 +0100",
-     "summary": "Tipster Digital Chat Station recently said that the Oppo Find X10 Ultra is on hold and might not launch. Before that, we heard Xiaomi had canceled the 18 Ultra. This left some wondering whether vivo would also cancel its X500 Ultra, despite vivo's VP of Product confirming that the smartphone would a",
-     "source": "GSMArena",
-     "zh": "vivo X500 Ultra on track to launch next year, says tipster"
+     "title": "Why you should never put your PlayStation 5 on a carpeted floor",
+     "link": "https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/",
+     "pubDate": "Sat, 07 Nov 2026 23:45:00 +0000",
+     "summary": "The PlayStation 5 needs to stay cool when playing games, and a carpet is a literal hotbed. Here's the best ways to store a PS5 while keeping it cool.",
+     "source": "Engadget",
+     "zh": "Why you should never put your PlayStation 5 on a carpeted floor"
+    },
+    {
+     "title": "The pros and cons of using an Amazfit smartwatch",
+     "link": "https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/",
+     "pubDate": "Sat, 07 Nov 2026 23:30:00 +0000",
+     "summary": "Thinking about an Amazfit smartwatch? Find out what makes these budget wearables so appealing and where they fall short before you spend your money.",
+     "source": "Engadget",
+     "zh": "The pros and cons of using an Amazfit smartwatch"
+    },
+    {
+     "title": "Claude Personal Finance vs. ChatGPT Finances: What sets them apart?",
+     "link": "https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/",
+     "pubDate": "Sat, 07 Nov 2026 23:10:20 +0000",
+     "summary": "Both AI tools offer to delve deep into your bank accounts, but they differ in privacy settings.",
+     "source": "Engadget",
+     "zh": "Claude Personal Finance vs. ChatGPT Finances: What sets them apart?"
+    },
+    {
+     "title": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini",
+     "link": "https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/",
+     "pubDate": "Sat, 07 Nov 2026 23:08:00 +0000",
+     "summary": "In addition to the new app icon , Google Messages for Android is testing a big homepage redesign that has three core components. more…",
+     "source": "9to5Google",
+     "zh": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini"
+    },
+    {
+     "title": "What discs can a PlayStation 5 play?",
+     "link": "https://www.engadget.com/2306942/playstation-5-playable-discs-explained/",
+     "pubDate": "Sat, 07 Nov 2026 23:00:00 +0000",
+     "summary": "The PS5 can't play every disc that the PS3 and PS4 were compatible with, but most of what you'll want to play and watch is supported.",
+     "source": "Engadget",
+     "zh": "What discs can a PlayStation 5 play?"
     },
     {
      "title": "What does NAT type mean for online gaming?",
@@ -2034,46 +2066,6 @@ window.INDUSTRY_DATA = {
      "zh": "The disadvantages of owning smart refrigerators"
     },
     {
-     "title": "Is your router overheating? Here's how to keep it cool and working safely",
-     "link": "https://www.engadget.com/2306359/how-to-keep-router-from-overheating/",
-     "pubDate": "Sat, 07 Nov 2026 22:00:00 +0000",
-     "summary": "You'll want your router to be well-ventilated for it to perform at its best.",
-     "source": "Engadget",
-     "zh": "Is your router overheating? Here's how to keep it cool and working safely"
-    },
-    {
-     "title": "How often should you restart your Fitbit watch?",
-     "link": "https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch/",
-     "pubDate": "Sat, 07 Nov 2026 21:45:00 +0000",
-     "summary": "The old \"turn it off and turn it on again\" trick can come in handy for certain situations.",
-     "source": "Engadget",
-     "zh": "How often should you restart your Fitbit watch?"
-    },
-    {
-     "title": "The built-in iPhone app for creativity you may be ignoring (but shouldn't)",
-     "link": "https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/",
-     "pubDate": "Sat, 07 Nov 2026 21:30:00 +0000",
-     "summary": "Your iPhone has a built-in app for brainstorming and visual planning that can turn scattered screenshots, sketches and notes into something you can share.",
-     "source": "Engadget",
-     "zh": "The built-in iPhone app for creativity you may be ignoring (but shouldn't)"
-    },
-    {
-     "title": "Your EV's battery is big enough to run your house — here's what stops most people",
-     "link": "https://www.engadget.com/2309559/ev-battery-can-power-house-what-stops-most-people/",
-     "pubDate": "Sat, 07 Nov 2026 21:15:00 +0000",
-     "summary": "Today's EV batteries could let you power specific appliances or your entire house. But a few factors line up to make that idea a non-starter for most folks.",
-     "source": "Engadget",
-     "zh": "Your EV's battery is big enough to run your house — here's what stops most people"
-    },
-    {
-     "title": "Deals: Galaxy S26 Ultra and S25 Ultra on sale, Galaxy Z Fold8 price drops",
-     "link": "https://www.gsmarena.com/deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378.php",
-     "pubDate": "Sat, 07 Nov 2026 21:45:02 +0100",
-     "summary": "Patience pays off – some flagships were holding a fairly high price last week, but now they are down to a much better number. That is the case for the Samsung Galaxy S26 Ultra – a 256GB unit was $1,105 last week, now it’s $1,000. We’ve seen it as low as $950 not too long ago, but the $50 difference ",
-     "source": "GSMArena",
-     "zh": "Deals: Galaxy S26 Ultra and S25 Ultra on sale, Galaxy Z Fold8 price drops"
-    },
-    {
      "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
      "link": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
      "pubDate": "Sat, 07 Nov 2026 20:30:00 +0000",
@@ -2088,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anker’s new MagGo Pro 2 power bank offers active cooling, 25W MagSafe fast charging, 10,000mAh of capacity, and a smart display – all in one package. Anker touts it as the fastest and coolest wireless power bank on the market. more…",
      "source": "9to5Mac",
      "zh": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand"
-    },
-    {
-     "title": "OnePlus releases its ColorOS 17 rollout schedule for November",
-     "link": "https://www.gsmarena.com/oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398.php",
-     "pubDate": "Sat, 07 Nov 2026 19:12:02 +0100",
-     "summary": "With ColorOS 17, OnePlus officially kickstarts the transition from OxygenOS to ColorOS, but not all devices are running the latest version of the software based on Android 17. After the company updated the OnePlus 15 in late October, it's now time for the older models. The company released the updat",
-     "source": "GSMArena",
-     "zh": "OnePlus releases its ColorOS 17 rollout schedule for November"
     },
     {
      "title": "Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites [Video]",
@@ -2122,28 +2106,12 @@ window.INDUSTRY_DATA = {
      "zh": "Remove your personal info from the web (and stop it coming back)"
     },
     {
-     "title": "Google to add vocabulary for corrected words to Gboard's Rambler voice typing feature",
-     "link": "https://www.gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php",
-     "pubDate": "Sat, 07 Nov 2026 16:47:02 +0100",
-     "summary": "Android Authority app teardown reveals some cool new features coming to Gboard's AI-powered voice typing feature called Rambler. Rambler, however, is a Pixel-exclusive functionality, at least for now, and makes voice typing that much easier. It can leave out pauses or other filler words, but it can'",
-     "source": "GSMArena",
-     "zh": "Google to add vocabulary for corrected words to Gboard's Rambler voice typing feature"
-    },
-    {
      "title": "Less talk, more photos: Sigma FP2 samples gallery",
      "link": "https://www.dpreview.com/samples/less-talk-more-photos-sigma-fp2-samples-gallery/",
      "pubDate": "Sat, 07 Nov 2026 14:00:00 +0000",
      "summary": "A snapshot of how the bijou Sigma behaves, when dealing with with a series of subjects and lighting conditions",
      "source": "DPReview",
      "zh": "Less talk, more photos: Sigma FP2 samples gallery"
-    },
-    {
-     "title": "Xiaomi 18 might actually arrive this year, 3C reveals the charging capabilities",
-     "link": "https://www.gsmarena.com/xiaomi_18_might_actually_arrive_this_year_3c_reveals_the_charging_capabilities-news-75396.php",
-     "pubDate": "Sat, 07 Nov 2026 14:14:02 +0100",
-     "summary": "The Xiaomi 18 Pro series was announced in China in September, and the company confirmed that the duo is going global by the end of this year. In fact, we expect the Xiaomi 18 Pro and 18 Pro Max to hit the global market as early as this month. However, the conversation left out the vanilla Xiaomi 18 ",
-     "source": "GSMArena",
-     "zh": "Xiaomi 18 might actually arrive this year, 3C reveals the charging capabilities"
     },
     {
      "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
@@ -2176,14 +2144,6 @@ window.INDUSTRY_DATA = {
      "summary": "Before trusting the latest Google Health features, we need to read the small print very carefully.",
      "source": "Android Authority",
      "zh": "I like Google Health’s biggest features of 2026, but I don’t trust them"
-    },
-    {
-     "title": "WhatsApp is testing a feature that lets you control who sees your phone number",
-     "link": "https://www.gsmarena.com/whatsapp_phone_number_privacy_feature_development-news-75395.php",
-     "pubDate": "Sat, 07 Nov 2026 12:00:02 +0100",
-     "summary": "WhatsApp introduced the Username feature in June. It hasn't been fully rolled out yet, but users can already reserve their usernames. WhatsApp introduced usernames with a focus on privacy, allowing its users to communicate without knowing each other's phone numbers. Building on that, WhatsApp is now",
-     "source": "GSMArena",
-     "zh": "WhatsApp is testing a feature that lets you control who sees your phone number"
     },
     {
      "title": "The AirPods 5 blew me away, but Android users should beware",
@@ -2240,6 +2200,46 @@ window.INDUSTRY_DATA = {
      "summary": "Welcome to Pixelated episode 124. This week, Damien, Abner, and Will dive into the announcement of Motorola’s flagship return in North America, the Signature 27. Is a $1,600 non-foldable the comeback everyone hoped for, or is this device doomed by rising component costs? Then, with Apple’s HomeView ",
      "source": "9to5Google",
      "zh": "Pixelated 124: Is it time for a Nest Hub comeback?"
+    },
+    {
+     "title": "A deep dive into the Sigma FP2’s image quality finds a camera that’s unconventional to its core",
+     "link": "https://www.dpreview.com/articles/a-deep-dive-into-the-sigma-fp2s-image-quality-finds-a-camera-thats-unconventional-to-its-core/",
+     "pubDate": "Fri, 06 Nov 2026 21:12:47 +0000",
+     "summary": "Like the BF, the FP2 is a full-time HDR camera. We look at the costs and benefits of this decision.",
+     "source": "DPReview",
+     "zh": "A deep dive into the Sigma FP2’s image quality finds a camera that’s unconventional to its core"
+    },
+    {
+     "title": "Ray-Ban Meta Audio review: Great specs, shame about the price",
+     "link": "https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/",
+     "pubDate": "Fri, 06 Nov 2026 21:09:14 +0000",
+     "summary": "Ray-Ban Meta Audio glasses attempt to curb the controversy by removing the cameras, and while they’re still an excellent product, the price makes them harder to recommend. more…",
+     "source": "9to5Google",
+     "zh": "Ray-Ban Meta Audio review: Great specs, shame about the price"
+    },
+    {
+     "title": "From marine life after dark to modern mythology: 1839 Awards winners revealed",
+     "link": "https://www.dpreview.com/photography/from-marine-life-after-dark-to-modern-mythology-1839-awards-winners-revealed/",
+     "pubDate": "Fri, 06 Nov 2026 16:12:43 +0000",
+     "summary": "Explore highlights from the 2026 contest, which recognized professional and non-professional photographers across 41 categories.",
+     "source": "DPReview",
+     "zh": "From marine life after dark to modern mythology: 1839 Awards winners revealed"
+    },
+    {
+     "title": "本周看什么 | 最近值得一看的 9 部作品",
+     "link": "https://sspai.com/post/118623",
+     "pubDate": "Fri, 06 Nov 2026 17:30:15 +0800",
+     "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ... 查看全文",
+     "source": "少数派",
+     "zh": "本周看什么 | 最近值得一看的 9 部作品"
+    },
+    {
+     "title": "iPhone 变强了，但我没有",
+     "link": "https://sspai.com/post/118250",
+     "pubDate": "Fri, 06 Nov 2026 14:56:41 +0800",
+     "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。 查看全文",
+     "source": "少数派",
+     "zh": "iPhone 变强了，但我没有"
     }
    ]
   },
@@ -2250,52 +2250,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "以军前总参谋长埃森科特将获授权组建新政府",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925574712.html",
-     "pubDate": "Sun, 08 Nov 2026 06:59:50 +0800",
-     "summary": "10月28日，在位于以色列特拉维夫的正直党竞选总部，以国防军前总参谋长、正直党领导人埃森科特（中）向支持者挥手致意。新华社发（吉尔·科恩·马根摄） 新华社耶路撒冷11月7日电（记者庞昕熠王卓伦）以色列总统发言人7日晚发表声明说，总统赫尔佐格将授权正直党领导人、以色列国防军前总参谋长加迪·埃森科特组建新政府。 声明称，赫尔佐格在过去几天中与包括现总理内塔尼亚胡和埃森科特在内的多位政界人士深入交谈，并作出决定。赫尔佐格已告知埃森科特，其将于8日获得组阁授权。 此前，拥有67个议席的各政党代表推荐埃森科特组建新政府；拥有46个议席的各政党代表推荐内塔尼亚胡；另有一个拥有7个议席的政党代表未作推荐。 ",
+     "title": "斯洛伐克总理：若欧盟强制要求放弃俄石油，将继续发起诉讼",
+     "link": "http://finance.eastmoney.com/news/1356,202611083925577022.html",
+     "pubDate": "Sun, 08 Nov 2026 07:50:26 +0800",
+     "summary": "斯洛伐克总理菲佐11月7日表示，斯洛伐克已经向欧盟法院提起诉讼，反对欧盟针对俄罗斯 天然气 的进口禁令。如果欧盟进一步强制要求放弃俄罗斯石油进口，斯洛伐克将会继续向欧盟法院提起诉讼。根据欧盟今年1月通过的禁令，将从2027年1月1日起全面禁止进口俄罗斯液化 天然气 ，而对俄管道 天然气 的全面禁令将于当年秋季生效。今年4月，斯洛伐克就这一天然气进口禁令向位于卢森堡的欧盟法院提起诉讼。目前，斯洛伐克仍通过“土耳其溪”管道进口俄罗斯天然气，并通过途经乌克兰的管道进口俄罗斯石油。（央视新闻） （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "以军前总参谋长埃森科特将获授权组建新政府"
+     "zh": "斯洛伐克总理：若欧盟强制要求放弃俄石油，将继续发起诉讼"
     },
     {
-     "title": "两度跻身全球十大最受欢迎的仲裁地，上海未来又有新的发力点",
-     "link": "http://finance.eastmoney.com/news/1350,202611083925574626.html",
-     "pubDate": "Sun, 08 Nov 2026 06:45:02 +0800",
-     "summary": "11月7日，第八届上海国际仲裁论坛在国家会展中心（上海）举办。本届论坛是第九届中国国际进口博览会配套活动，聚焦全球跨境投资争议解决前沿话题，助力上海加快打造面向全球的亚太仲裁中心。 司法部公共法律服务管理局局长杨向斌介绍，目前全国有287家仲裁机构、6.9万名仲裁员，2025年办理涉外案件5019件，标的额2080亿元。上海作为商事仲裁制度创新高地，要加快完善与新仲裁法衔接的配套制度规则，先行先试、积极探索，为我国仲裁制度改革创新提供实践和经验参考。 他特别提到，国际商会国际仲裁院（ICC）即将在上海设立业务机构，依法开展涉外仲裁活动，将成为上海加快打造面向全球的亚太仲裁中心的重要实践。 国际",
+     "title": "欧洲多国爆发抗议 要求暂停数据中心建设",
+     "link": "http://finance.eastmoney.com/news/1360,202611083925576616.html",
+     "pubDate": "Sun, 08 Nov 2026 07:49:35 +0800",
+     "summary": "针对 数据中心 建设的抗议浪潮正在欧洲多地蔓延。当地时间周六，多个国家的民众走上街头，表达对 数据中心 快速扩张可能带来的能源消耗、环境破坏及社会影响的担忧。据悉，来自欧洲15个国家的100多个民间组织和权益团体参与了此次联合行动，抗议能源消耗巨大的 数据中心 快速扩张，呼吁在建立更加明确的监管制度之前，暂停所有新的大型数据中心项目。据报道，约2000人周六在都柏林参加游行，约1300人在赫尔辛基集会，芬兰多个规模较小的城镇也举行了类似示威活动。由地方民主和气候抗议团体组成的联盟“停止肮脏数据中心”表示，此次行动旨在“阻止AI数据中心不受约束地扩张，防止我们的民主制度被大型科技企业的利益所绑架",
      "source": "东方财富股票",
-     "zh": "两度跻身全球十大最受欢迎的仲裁地，上海未来又有新的发力点"
+     "zh": "欧洲多国爆发抗议 要求暂停数据中心建设"
     },
     {
-     "title": "波兰内政部发言人：在克拉科夫枪击事件中受伤的外国公民来自奥地利、德国、葡萄牙、俄罗斯和英国",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925574361.html",
-     "pubDate": "Sun, 08 Nov 2026 06:43:39 +0800",
-     "summary": "波兰内政部发言人：在克拉科夫枪击事件中受伤的外国公民来自奥地利、德国、葡萄牙、俄罗斯和英国。 （文章来源：新浪财经快讯）",
+     "title": "美伊局势，最新消息！伊朗与阿曼、埃及、约旦、沙特、卡塔尔等12国外长通电话",
+     "link": "http://finance.eastmoney.com/news/1356,202611083925576898.html",
+     "pubDate": "Sun, 08 Nov 2026 07:47:06 +0800",
+     "summary": "伊称已解除导弹射程限制 伊朗伊斯兰革命卫队发言人穆赫比7日说，已解除伊朗导弹的射程限制，伊朗能在一场“不对称战争”中打击敌人“预想不到的地点”。 穆赫比表示，伊朗生产和升级武器的进程不会受阻中断。美方曾试图计算伊朗导弹的数量并推测其弹药耗尽的时间节点，但伊朗方面已经将武器生产从地面转移到地下，继续生产工作。穆赫比警告，如果美国再次出现误判，伊朗下一次的打击将更加沉重，对美方相关后果影响或将持续多年。 今年2月25日，伊朗方面宣布已主动将导弹射程限制在2000公里以内用于防御和威慑，而非构成全球威胁。当时伊朗方面正准备与美国代表就伊朗核计划举行第三轮间接谈判。2月28日，美国和以色列对伊朗发动大",
      "source": "东方财富股票",
-     "zh": "波兰内政部发言人：在克拉科夫枪击事件中受伤的外国公民来自奥地利、德国、葡萄牙、俄罗斯和英国"
+     "zh": "美伊局势，最新消息！伊朗与阿曼、埃及、约旦、沙特、卡塔尔等12国外长通电话"
     },
     {
-     "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
-     "link": "http://finance.eastmoney.com/news/1356,202611083925574244.html",
-     "pubDate": "Sun, 08 Nov 2026 06:42:28 +0800",
-     "summary": "伊朗伊斯兰革命卫队发言人7日说，伊朗已解除导弹射程限制，将打击敌人预想不到的地点。并警告称，如果美国再次出现误判，伊朗下一次的打击将更加沉重。同日，美军中央司令部宣布，已下令组建一支特遣部队，以防止伊朗跨境运输先进武器等物资。就美伊停火相关进程，最新消息显示，美副总统万斯已着手在幕后推动与伊朗达成新协议。7日晚，伊朗多地传出类似爆炸巨响，具体原因及相关细节尚不明确。 （文章来源：财联社）",
+     "title": "北京今天雨雪逐渐结束，气温继续下降将创下半年来新低",
+     "link": "http://finance.eastmoney.com/news/11790,202611083925577472.html",
+     "pubDate": "Sun, 08 Nov 2026 07:45:11 +0800",
+     "summary": "今天（11月8日），北京雨雪天气将逐渐结束，但气温还会进一步下滑，最高气温将降至6℃，最低气温也会跌至零下3℃，将度过下半年来最冷的一天。明后两天，北京晴朗回归，最高气温将明显回升，早晚时段依然寒冷，公众外出需注意保暖。（央视新闻） （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”"
+     "zh": "北京今天雨雪逐渐结束，气温继续下降将创下半年来新低"
     },
     {
-     "title": "大风+寒潮双预警！15省份部分地区降温超10°C",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925574467.html",
-     "pubDate": "Sun, 08 Nov 2026 06:36:13 +0800",
-     "summary": "中央气象台11月8日6时继续发布大风蓝色预警和寒潮蓝色预警，详情如下：预计，11月8日8时至9日8时，新疆东部、内蒙古中西部、宁夏、陕西北部、山西西南部、河北南部、山东、河南中北部、苏皖中北部、湖北中东部、湖南北部、广西中部等地的部分地区有5~6级风，阵风7~8级；渤海、渤海海峡、黄海海域、东海西部海域、台湾海峡、巴士海峡、南海北部和中部海域、北部湾将有7~8级、阵风9级的大风，其中渤海西部、黄海西部海域和北部湾的部分海域风力可达9级、阵风10~11级。 （文章来源：新浪财经快讯）",
+     "title": "中国机会丨COACH中国区总裁：中国市场连续6个季度双位数增长，开店计划稳步推进",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925576560.html",
+     "pubDate": "Sun, 08 Nov 2026 07:42:14 +0800",
+     "summary": "“此前提出的3至5年新开80家到100家门店的计划正稳步推进，目前全国已覆盖超90座城市，门店总数超300家。”第九届中国国际进口博览会期间，COACH（蔻驰）中国区总裁李丽安（Liliana Lucioni）在接受澎湃新闻记者采访时，回应一年前定下的开店目标。 11月5日，COACH母公司泰佩思琦集团（Tapestry,Inc.，纽交所：TPR）发布了截至2026年9月26日的2027财年第一季度业绩，泰佩思琦集团销售额达18.9亿美元，同比增长11%，增长主要由COACH品牌16%的增速拉动；非公认会计准则下毛利率提升220个基点至78.7%，营业利润率23.2%，每股摊薄收益1.82美元",
      "source": "东方财富股票",
-     "zh": "大风+寒潮双预警！15省份部分地区降温超10°C"
+     "zh": "中国机会丨COACH中国区总裁：中国市场连续6个季度双位数增长，开店计划稳步推进"
     },
     {
-     "title": "巴林决定恢复其驻伊拉克大使履职",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925574061.html",
-     "pubDate": "Sun, 08 Nov 2026 06:36:13 +0800",
-     "summary": "当地时间7日晚，据伊拉克外交部声明，伊拉克外长侯赛因当天与巴林外交大臣扎耶尼通电话。双方在通话中讨论了当前地区局势的最新发展，并强调了就该地区局势保持协调、磋商和意见交流。扎耶尼在通话中确认，巴林已决定恢复该国驻伊拉克大使履职，以体现巴方深化两国关系、拓展双边合作的意愿。 （文章来源：央视新闻）",
+     "title": "立昂技术前三季度减亏24.31% 算力业务商业化细节仍待披露",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925575533.html",
+     "pubDate": "Sun, 08 Nov 2026 07:40:55 +0800",
+     "summary": "算力网建设不断提速， 数据中心 运营商的发展折射出这一市场主体商业化的进程。 立昂技术 （300603.SZ）三季报显示，2026年前三季度， 立昂技术 实现营业收入5.15亿元，同比下降9.95%；归母净利润为-4534.55万元，同比减亏24.31%；扣除非经常性损益后的归母净利润为-4984.33万元，同比减亏18.91%。 10月底， 立昂技术 在投资者互动平台上回复提问时表示，公司已接入中国算力网（西部）调度平台、四川省算力互联互通平台，目前自有及可调度算力超10000PFLOPS。 立昂技术在回答《中国经营报》采访时表示，公司将依托现有算力平台和行业服务经验，持续拓展应用场景。公司",
      "source": "东方财富股票",
-     "zh": "巴林决定恢复其驻伊拉克大使履职"
+     "zh": "立昂技术前三季度减亏24.31% 算力业务商业化细节仍待披露"
+    },
+    {
+     "title": "全部提前结募！18只主动ETF最新数据披露",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925575693.html",
+     "pubDate": "Sun, 08 Nov 2026 07:39:22 +0800",
+     "summary": "截至11月7日，首批18只主动ETF已有17只发布成立公告，但18只产品整体的募集天数、配售比例等数据已率先披露。 最新数据显示，18只主动ETF全部提前结束募集，3只产品一日售罄；17只产品启动比例配售的总认购金额近440亿元，较340亿元募集规模超出近百亿元（超额认购金额）。具体来看，已成立的17只产品有效认购户数超过30万户，除外部投资者，还有基金公司固有资金、高管和投研等从业者以及股东方等“内部人”。 截至11月6日，部分ETF已出现净值波动。据受访人士表示，首批主动ETF预计在11月中下旬上市交易，个别公募初步确认的上市时间是11月23日。 17只基金超募启动比例配售 11月7日和1",
+     "source": "东方财富资讯",
+     "zh": "全部提前结募！18只主动ETF最新数据披露"
+    },
+    {
+     "title": "股指低迷！当前行情怎么抗？价投大佬们的“作业”可以拿来抄！",
+     "link": "http://finance.eastmoney.com/news/1353,202611083925576410.html",
+     "pubDate": "Sun, 08 Nov 2026 07:39:21 +0800",
+     "summary": "本周上证指数盘中一度跌破3600点，有投资者问段永平“这个行情怎么抗”？ 段永平对此的回答是：“行情是什么意思？我做的事情都是为了未来赚钱的事情，便宜不好吗？好公司早晚都会回来的，除非看错了。” 股市波动常有，有时甚至走出极端反常的行情，但智者不惑，价投大佬们从来不会为极端的行情走势所困扰。 回到投资的本质 低迷的价格往往创造投资上的奇迹。 苹果 公司本周创出 历史新高 ，但段永平说：“ 苹果 也曾经有过10倍左右的PE，我买入的时候大概就是10倍PE，而且10倍PE持续大概10来年，然后突然就有很多人懂 苹果 了，40多倍PE我是比较难理解的。” 段永平最早是2011年底开始买苹果的，当时正",
+     "source": "东方财富资讯",
+     "zh": "股指低迷！当前行情怎么抗？价投大佬们的“作业”可以拿来抄！"
+    },
+    {
+     "title": "Trump offers UFC chief Dana White press secretary job",
+     "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+     "pubDate": "Sat, 07 Nov 2026 23:13:38 GMT",
+     "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
+     "source": "CNBC",
+     "zh": "Trump offers UFC chief Dana White press secretary job"
     },
     {
      "title": "Paraguay’s bank collapse topples president, raises investor risks",
@@ -2306,20 +2330,20 @@ window.INDUSTRY_DATA = {
      "zh": "Paraguay’s bank collapse topples president, raises investor risks"
     },
     {
+     "title": "全球首款扎堆 英、法、澳跨国药企都在“卷”这个赛道",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925573815.html",
+     "pubDate": "Sun, 08 Nov 2026 06:18:02 +0800",
+     "summary": "根据《中国罕见病定义研究报告2021》，符合新生儿发病率低于万分之一、患病率低于万分之一、患病人数低于14万这三项中的任意一项，即可被定义为罕见病。 罕见病常为先天性、慢性、消耗性疾病，给患者和家庭造成巨大痛苦。第九届进博会上，一批罕见病有了对症药物，或在研制、审批、上市等方面有了新进展，给人们带来希望和宽慰。 “圣诞节病” 总部位于澳大利亚墨尔本的跨国生物制药公司杰特贝林（CSL）今年首次参加进博会，展出了4款在罕见病领域具备突破性临床价值的前沿疗法。 其中，全球首个用于成人重度及中重度B型血友病患者的一次性基因疗法HEMGENIX（etranacogene dezaparvovec），在疗",
+     "source": "东方财富资讯",
+     "zh": "全球首款扎堆 英、法、澳跨国药企都在“卷”这个赛道"
+    },
+    {
      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
      "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
      "pubDate": "Sat, 07 Nov 2026 22:17:52 GMT",
      "summary": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
      "source": "CNBC",
      "zh": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections"
-    },
-    {
-     "title": "Trump offers UFC chief Dana White press secretary job",
-     "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-     "pubDate": "Sat, 07 Nov 2026 22:03:06 GMT",
-     "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
-     "source": "CNBC",
-     "zh": "Trump offers UFC chief Dana White press secretary job"
     },
     {
      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
@@ -2330,6 +2354,14 @@ window.INDUSTRY_DATA = {
      "zh": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans"
     },
     {
+     "title": "经济日报：推动人工智能与消费深度融合",
+     "link": "http://finance.eastmoney.com/news/1355,202611083925570776.html",
+     "pubDate": "Sun, 08 Nov 2026 05:46:43 +0800",
+     "summary": "近年来，我国着力推动 人工智能 与消费深度融合，加快 人工智能 新产品新服务新场景示范应用，培育消费新增长点。商务部等部门印发《关于加快“ 人工智能 +消费”发展的实施意见》，以提升智能商品消费、赋能服务消费等为重点作出部署。《扩大消费“十五五”规划》提出，促进数字消费高质量发展，深入推进“人工智能+消费”，实施数字消费提升行动。本期特邀专家围绕相关问题进行研讨。 “人工智能+消费”激活市场潜力 近年来，我国促进“人工智能+消费”出台了哪些政策措施？如何推动其健康有序发展？ 李清彬（国家发展改革委经济研究所财税室主任、研究员）：伴随人工智能加速向居民消费各领域渗透，智能终端持续迭代、智慧场景不",
+     "source": "东方财富资讯",
+     "zh": "经济日报：推动人工智能与消费深度融合"
+    },
+    {
      "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
      "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
      "pubDate": "Sat, 07 Nov 2026 21:41:05 GMT",
@@ -2338,12 +2370,20 @@ window.INDUSTRY_DATA = {
      "zh": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy"
     },
     {
-     "title": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
+     "title": "AI基建狂潮遭遇现实阻力！欧洲多国爆发抗议 要求暂停数据中心建设",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925568866.html",
+     "pubDate": "Sun, 08 Nov 2026 05:21:00 +0800",
+     "summary": "针对 数据中心 建设的抗议浪潮正在欧洲多地蔓延。当地时间周六，多个国家的民众走上街头，表达对 数据中心 快速扩张可能带来的能源消耗、环境破坏及社会影响的担忧。 据悉，来自欧洲15个国家的100多个民间组织和权益团体参与了此次联合行动，抗议能源消耗巨大的 数据中心 快速扩张，呼吁在建立更加明确的监管制度之前，暂停所有新的大型数据中心项目。据报道，约2000人周六在都柏林参加游行，约1300人在赫尔辛基集会，芬兰多个规模较小的城镇也举行了类似示威活动。 由地方民主和气候抗议团体组成的联盟“停止肮脏数据中心”表示，此次行动旨在“阻止AI数据中心不受约束地扩张，防止我们的民主制度被大型科技企业的利益所",
+     "source": "东方财富资讯",
+     "zh": "AI基建狂潮遭遇现实阻力！欧洲多国爆发抗议 要求暂停数据中心建设"
+    },
+    {
+     "title": "Israel’s president gives Gadi Eisenkot first chance at forming a government",
      "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
      "pubDate": "Sat, 07 Nov 2026 21:03:47 GMT",
      "summary": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
      "source": "Financial Times",
-     "zh": "Israel’s president gives Gadi Eisenkot first shot at forming a government"
+     "zh": "Israel’s president gives Gadi Eisenkot first chance at forming a government"
     },
     {
      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
@@ -2376,6 +2416,14 @@ window.INDUSTRY_DATA = {
      "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
      "source": "MarketWatch",
      "zh": "Here are the 2027 capital-gains tax rates for each income level"
+    },
+    {
+     "title": "美军扩大对伊朗封锁范围 从海上石油出口转向陆上军事供应链",
+     "link": "http://finance.eastmoney.com/news/1356,202611083925570354.html",
+     "pubDate": "Sun, 08 Nov 2026 03:32:54 +0800",
+     "summary": "据央视新闻报道，在对伊朗实施数月海上封锁后，美国军方周六表示，将成立一支特别工作组，进一步打击伊朗通过陆地边境及里海运输先进武器和其他受制裁物资的活动。 据悉，这支名为“铁门”（Task Force Iron Gate）的特别工作组将设在佛罗里达州坦帕市，并与美国其他政府部门协调行动。除武器运输外，该工作组还将重点阻断伊朗获取军民两用技术的渠道，并切断美国所称的非法收入来源。 这一行动表明，在对伊战争持续八个多月后，美国仍在寻求进一步加大对伊朗的施压力度。 尽管美军称空袭已重创伊朗常规军事力量，美国实施的海上封锁也严重限制了伊朗通过霍尔木兹海峡和阿拉伯海出口原油的能力，但伊朗的导弹和 无人机 ",
+     "source": "东方财富资讯",
+     "zh": "美军扩大对伊朗封锁范围 从海上石油出口转向陆上军事供应链"
     },
     {
      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
@@ -2440,54 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
      "source": "Financial Times",
      "zh": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases"
-    },
-    {
-     "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-     "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-     "pubDate": "Sat, 07 Nov 2026 15:23:46 GMT",
-     "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-     "source": "CNBC",
-     "zh": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline"
-    },
-    {
-     "title": "进博会观察|外企谈中国消费市场，关键词变了",
-     "link": "http://www.eeo.com.cn/2026/1107/1087399.shtml",
-     "pubDate": "Sat, 07 Nov 2026 22:23:22 +0800",
-     "summary": "多家参展企业均表示，中国市场已经不是单纯的销售市场，而是本土化深度运营的地方，他们的产能落地、人才系统建设、联合创新、生态共建都要在这里完成。",
-     "source": "经济观察网",
-     "zh": "进博会观察|外企谈中国消费市场，关键词变了"
-    },
-    {
-     "title": "显卡价格连涨11个交易日后急跌 华强北显卡半天一个价",
-     "link": "http://finance.eastmoney.com/news/1348,202611073925550783.html",
-     "pubDate": "Sat, 07 Nov 2026 22:19:24 +0800",
-     "summary": "显卡是主要用于图形渲染的硬件，如今也广泛用于AI算力运算。此前受海外停产传闻刺激，RTX 50系列显卡开启连续上涨，一口气连涨11个交易日。从10月28日开始，行情突然掉头向下。RTX 5080从最高近2万元，跌到1.6万元，价格回调两成。有商户告诉记者：“代理商、商户提前囤货，导致价格发生了很大浮动，甚至早上跟下午价格都变动很大。”尽管价格有所回落，但目前主流显卡RTX 50系列均价仍是建议零售价的1.7倍，之前较大的价格涨幅仍未消化。华强北市场硬件价格的走向，也吸引着海外采购商的目光。记者走访发现，近期海外客商密集到店询价，显卡、内存等硬件跨境采购热度明显提升。有商户称，“10月份外国客户",
-     "source": "东方财富资讯",
-     "zh": "显卡价格连涨11个交易日后急跌 华强北显卡半天一个价"
-    },
-    {
-     "title": "民生银行的小微生意，换了一批客人",
-     "link": "https://wallstreetcn.com/articles/3785462",
-     "pubDate": "Sat, 07 Nov 2026 21:44:08 +0800",
-     "summary": "11月3日，惠誉将民生银行长期外币发行人主体评级从BBB-上调至BBB，展望稳定。政府支持评级一同上调，衡量银行独立信用实力的生存力评级，维持在“bb-”。 两个评级一升一平，理由已经写明：惠誉认为，政府在国内系统重要性银行承压时提供特别支持的意愿在增强；民生自身的信用实力，得到的仍是“维持”。 这次上调，发生在一份利润继续下滑的三季报之后。 前三季度，民生营收同比增加20.45亿元，信用减值损失却多了74.29亿元，归母净利润下降14.78%，资金成本降了下来，更多的减值计提又压住了利润。 压力在零售账上尤其明显。上半年，对公分部多赚的钱补上了零售利润降额的大部分，集团税前利润仍在下降。零售",
-     "source": "华尔街见闻",
-     "zh": "民生银行的小微生意，换了一批客人"
-    },
-    {
-     "title": "进博会观察|化妆品企业跳出单一成分竞争，长寿科学成新主线",
-     "link": "http://www.eeo.com.cn/2026/1107/1087398.shtml",
-     "pubDate": "Sat, 07 Nov 2026 21:42:00 +0800",
-     "summary": "对于化妆品行业而言，过去依靠单一成分赢得消费者认可的时代已经过去。消费者对于美妆产品功效愈发严苛。这在推动美妆企业跳出单一成分研究视角，向更加系统化的研发思路转型。",
-     "source": "经济观察网",
-     "zh": "进博会观察|化妆品企业跳出单一成分竞争，长寿科学成新主线"
-    },
-    {
-     "title": "伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻",
-     "link": "https://wallstreetcn.com/articles/3785460",
-     "pubDate": "Sat, 07 Nov 2026 21:02:31 +0800",
-     "summary": "伯克希尔·哈撒韦三季度净利润大幅下滑，保险业务承压与投资收益减少成为主要拖累。不过，公司在本季度显著加大股票回购力度，单季回购规模创年内新高，现金储备也进一步攀升至3774亿美元。 当地时间11月7日，伯克希尔公布第三季度业绩。公司营业利润为127.05亿美元，同比下降5.8%； 净利润为221.12亿美元，同比下降28.2%。 其中，投资收益合计约94.07亿美元，较去年同期的173.11亿美元下降约45.7%，缩水近一半。 保险业务表现疲软。 保险承保利润同比下降43%， 汽车保险子公司Geico的赔付损失和承保费用分别增长8.5%和17%。保险净投资收入也同比下降14%，至27亿美元，主",
-     "source": "华尔街见闻",
-     "zh": "伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻"
     }
    ]
   },

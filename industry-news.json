@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/9 17:51:47",
+ "generated_at": "2026/11/9 17:57:46",
  "recent_days": 7,
  "industries": [
   {
@@ -8,22 +8,6 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "“AI毁了我的计算机学位”",
-     "link": "https://www.qbitai.com/2026/11/508706.html",
-     "pubDate": "Mon, 09 Nov 2026 08:57:20 +0000",
-     "summary": "教授也用Claude糊弄…",
-     "source": "量子位",
-     "zh": "“AI毁了我的计算机学位”"
-    },
-    {
-     "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-     "link": "https://www.qbitai.com/2026/11/507843.html",
-     "pubDate": "Mon, 09 Nov 2026 08:44:00 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满"
-    },
     {
      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
      "link": "https://www.qbitai.com/2026/11/508694.html",
@@ -73,6 +57,14 @@
      "zh": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”"
     },
     {
+     "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+     "link": "https://www.qbitai.com/2026/11/508603.html",
+     "pubDate": "Mon, 09 Nov 2026 05:09:23 +0000",
+     "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+     "source": "量子位",
+     "zh": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代"
+    },
+    {
      "title": "GPT-6.2首测！网友：终于有个能压倒Opus 5.5的了？？",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652741489&idx=1&sn=9e5afce079bbaa1db52ccabdc4bc8f2c",
      "pubDate": "Mon, 09 Nov 2026 12:56:00 +0800",
@@ -95,6 +87,14 @@
      "summary": "",
      "source": "新智元",
      "zh": "视频生成不再反复抽卡！清华开源，给模型装上「三维空间大脑」"
+    },
+    {
+     "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+     "link": "https://www.qbitai.com/2026/11/508586.html",
+     "pubDate": "Mon, 09 Nov 2026 03:47:12 +0000",
+     "summary": "“让人放心，把人放大。”",
+     "source": "量子位",
+     "zh": "当AI在加速狂奔，什么反而应该“慢”下来？"
     },
     {
      "title": "227亿，史上最大AI界发电机大单来了！",
@@ -1049,12 +1049,12 @@
      "zh": "Voters gave a big middle finger to data centers"
     },
     {
-     "title": "Sempra expects 20% increase to Oncor’s capex plan, driven by load growth",
+     "title": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth",
      "link": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
      "pubDate": "Fri, 06 Nov 2026 11:10:36 -0500",
      "summary": "&ldquo;It's too soon to tell exactly&rdquo; how the results of the midterm elections will impact Oncor, said CEO Allen Nye. &ldquo;We continue to believe that both parties want a strong and growing Texas.&rdquo;",
      "source": "Utility Dive",
-     "zh": "Sempra expects 20% increase to Oncor’s capex plan, driven by load growth"
+     "zh": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth"
     },
     {
      "title": "China’s soaring clean power curtailment highlights regulatory gaps",
@@ -1076,7 +1076,7 @@
      "title": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO",
      "link": "https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/",
      "pubDate": "Fri, 06 Nov 2026 09:44:59 -0500",
-     "summary": "Eversource Energy&rsquo;s third-quarter income fell 22% year over year to $346 million, partly driven by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
+     "summary": "Eversource Energy&rsquo;s third-quarter income fell 22% year over year, to $346 million, driven in part by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
      "source": "Utility Dive",
      "zh": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO"
     }
@@ -1753,6 +1753,30 @@
    "total": 18,
    "items": [
     {
+     "title": "三星 One UI 9.5 有望将 Bixby 打造成 AI 智能体，真正“代你办事”",
+     "link": "https://www.ithome.com/1/024/386.htm",
+     "pubDate": "Mon, 09 Nov 2026 09:54:51 GMT",
+     "summary": "IT之家 11 月 9 日消息，外媒 Sammobile 今天（9 日）晚间公布了有关 One UI 9.5 的最新发现：三星准备对 Bixby 进行大幅升级，让语音助手进一步变成能够 代用户办事的个人 AI 智能体 。 该媒体在体验尚未发布的新版 Bixby 后发现，三星语音助手可以在后台处理 订酒店、预约等日常事务 。例如，在要求 Bixby 每天早上提供美元兑印度卢比的汇率 后，Bixby 便自动创建了一项每日任务，并将其列在应用的 Actions 栏目中。 ▲ 该媒体的测试截图，下同 用户只需向 Bixby 提出定期执行某项任务的要求，Bixby 便会理解指令并设置相应操作，等待用户确",
+     "source": "IT之家",
+     "zh": "三星 One UI 9.5 有望将 Bixby 打造成 AI 智能体，真正“代你办事”"
+    },
+    {
+     "title": "Temu德国站包装法注册卡住，LUCID号没下来前广告还在烧，这钱该怎么控？",
+     "link": "https://www.baijing.cn/question/638621",
+     "pubDate": "Mon, 09 Nov 2026 09:50:09 +0000",
+     "summary": "Temu德国站刚起量两个月，团队6个人，主营厨房小件，日均广告花费从80欧涨到260欧，CPA从4.2欧爬到7.8欧，转化率还掉了1.3个点。上周平台后台弹通知要求补充德国包装法注册号（LUCID），我们已经在ZSVR官网提交了注册，但号还没下来，客服只说等审核。现在纠结的是：广告要不要先降预算或者暂停德国站，还是继续烧等号下来？试过把预算砍到120欧，单量直接腰斩，排名也掉。想问问有经验的朋友，这种合规卡审期间你们是按什么标准决定停投还是硬扛的？",
+     "source": "白鲸出海",
+     "zh": "Temu德国站包装法注册卡住，LUCID号没下来前广告还在烧，这钱该怎么控？"
+    },
+    {
+     "title": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 (Adeel Hassan/New York Times)",
+     "link": "https://www.techmeme.com/261109/p9#a261109p9",
+     "pubDate": "Mon, 09 Nov 2026 04:50:00 -0500",
+     "summary": "Adeel Hassan / New York Times : US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 &nbsp; &mdash;&nbsp; A federal indictment alleges that three men used generative A.I. to impersonate voices of c",
+     "source": "Techmeme",
+     "zh": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 (Adeel Hassan/New York Times)"
+    },
+    {
      "title": "《塞尔达传说：时之笛》重制版文件现大师任务线索，或作为付费 DLC 推出",
      "link": "https://www.ithome.com/1/024/384.htm",
      "pubDate": "Mon, 09 Nov 2026 09:47:55 GMT",
@@ -1815,14 +1839,6 @@
      "summary": "全网 11.11 高潮狂促今晚 20:00 正式开抢，有需求的小伙伴可以蹲点抢哦。 京东 无门槛红包至高 26888 元 ，每天抽 3 次： 点此抽取 。 11 月 9 日 20:00~20:15 加抽 1 次，15 分钟领不限量 1.18 元起大红包。 淘宝 无门槛红包至高 26888 元 ，每天直接领 200 淘金币： 点此抽取 。 11 月 9 日 19:00~19:15 加抽 1 次，15 分钟领不限量 1.1 元起红包，还有 6.6 元随机掉落。 11 月 9 日 20:00 抢 30 万个 10 元红包，满 100 元可用（中奖率 60% 限商品），先到先得。 唯品会 无门槛红包至",
      "source": "IT之家",
      "zh": "【19:00~19:15】蹲点速抢淘宝 6.6 元大红包，20:00 京东 PLUS 抢 80 元神券"
-    },
-    {
-     "title": "一张图能改 100 遍、直出透明背景，字节跳动发布新一代图像创作模型 Seedream 5.5",
-     "link": "https://www.ithome.com/1/024/379.htm",
-     "pubDate": "Mon, 09 Nov 2026 09:35:33 GMT",
-     "summary": "IT之家 11 月 9 日消息，字节跳动 Seed 团队今日发布了新一代图像创作模型 Seedream 5.5 ，重点带来三项核心能力升级： 更稳定的多轮编辑： 实现非编辑区域的像素级保持，消除色彩偏移，降低连续修改中的细节丢失与画质衰减，支持围绕同一作品展开多达 100 轮的持续创作。 原生 RGBA 透明素材生成： 直接输出带 Alpha 通道的透明或半透明图像，精细处理轮廓边缘与透明区域，省去后期抠图修边，让生成元素可以作为独立素材进入后续设计流程。 质感更自然，文字更清晰： 进一步改善光照、材质与皮肤纹理表现，减少过度油亮、过曝，更贴近真实拍摄的成像质感。同时显著提升文字渲染能力，对复",
-     "source": "IT之家",
-     "zh": "一张图能改 100 遍、直出透明背景，字节跳动发布新一代图像创作模型 Seedream 5.5"
     },
     {
      "title": "Sources: the EU sues IBM, French IT group Atos, and Italian contractor Leonardo over delays in developing its smart border system, which caused travel chaos (Laura Dubois/Financial Times)",
@@ -1929,14 +1945,6 @@
      "zh": "As companies replace human workers with AI agents, determining managers&apos; grade and pay is becoming harder, as both often depend on how many people they manage (Pilita Clark/Financial Times)"
     },
     {
-     "title": "巴西墨西哥商标还没下证，广告投放的CPA已经涨到多少算合理？",
-     "link": "https://www.baijing.cn/question/638615",
-     "pubDate": "Mon, 09 Nov 2026 08:52:27 +0000",
-     "summary": "我们在拉美做智能家居配件，团队12人，刚起量阶段，月广告预算大概8万美元，主要投Meta和Google，巴西和墨西哥两个站点。现在遇到一个很别扭的情况：巴西INPI和墨西哥IMPI的商标都还在审查中，亚马逊品牌备案做不了，A+页面和品牌旗舰店都用不上，只能靠普通SP广告硬打。最近巴西站CPA从9美元涨到14美元，墨西哥站从6美元涨到11美元，转化率没怎么变，就是获客成本往上走。已经试过调低竞价、换长尾词、加否定词，效果有限。想问在这种商标没下证、品牌工具用不上的阶段，拉美市场的CPA涨到什么区间就该考虑收缩投放、先等商标？",
-     "source": "白鲸出海",
-     "zh": "巴西墨西哥商标还没下证，广告投放的CPA已经涨到多少算合理？"
-    },
-    {
      "title": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M (Globe and Mail)",
      "link": "https://www.techmeme.com/261109/p5#a261109p5",
      "pubDate": "Mon, 09 Nov 2026 03:46:41 -0500",
@@ -1983,14 +1991,6 @@
      "summary": "黄仁勋的护身符，在 11 月 3 日晚上到期",
      "source": "钛媒体",
      "zh": "黄仁勋爆出来的不是出轨，是一年前那份被压下的简报"
-    },
-    {
-     "title": "短剧出海泰国，重走了一遍当年移动梦网的老路",
-     "link": "https://www.tmtpost.com/8197795.html",
-     "pubDate": "Mon, 09 Nov 2026 15:35:05 +0800",
-     "summary": "短剧在泰国，绕不开的两大卡点：支付和买量",
-     "source": "钛媒体",
-     "zh": "短剧出海泰国，重走了一遍当年移动梦网的老路"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung’s leaked Memory app could bring Pixel Screenshots features to Galaxy phones",
+     "link": "https://www.androidauthority.com/samsung-memory-app-pixel-screenshot-3732805/",
+     "pubDate": "Mon, 09 Nov 2026 09:51:25 +0000",
+     "summary": "Samsung could follow Nothing, OPPO, and Google with its newly leaked Memory app.",
+     "source": "Android Authority",
+     "zh": "Samsung’s leaked Memory app could bring Pixel Screenshots features to Galaxy phones"
+    },
     {
      "title": "Honor 700 devices teased to come with an interesting feature on the rear screen",
      "link": "https://www.gsmarena.com/honor_700_devices_teased_to_come_with_an_interesting_feature_on_the_rear_screen-news-75401.php",
@@ -2063,14 +2071,6 @@
      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ... 查看全文",
      "source": "少数派",
      "zh": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验"
-    },
-    {
-     "title": "DroidDeck PC game emulator for Android now supports your Pixel and Exynos-powered Galaxy phones too",
-     "link": "https://www.androidauthority.com/droiddeck-pc-game-emulator-pixel-samsung-3732737/",
-     "pubDate": "Mon, 09 Nov 2026 07:39:36 +0000",
-     "summary": "Dual-screen mode gets better with a dedicated Linux-like desktop in one while the game runs in another.",
-     "source": "Android Authority",
-     "zh": "DroidDeck PC game emulator for Android now supports your Pixel and Exynos-powered Galaxy phones too"
     },
     {
      "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
@@ -2249,36 +2249,60 @@
    "total": 13,
    "items": [
     {
-     "title": "德国9月出口和进口环比分别增长2.0%和4.2%",
-     "link": "http://finance.eastmoney.com/news/1351,202611093926334685.html",
-     "pubDate": "Mon, 09 Nov 2026 17:41:06 +0800",
-     "summary": "德国联邦统计局11月9日公布的初步数据显示，经工作日和季节调整后，德国今年9月商品出口额为1411亿欧元，环比增长2.0%；进口额为1255亿欧元，环比增长4.2%。与去年同期相比，出口额和进口额分别增长7.7%和8.7%。 数据显示，德国9月对外贸易顺差为156亿欧元，低于8月的179亿欧元，与去年同期的155亿欧元基本持平。 （文章来源：新华财经）",
+     "title": "图解财报：百济神州前三季归母净利润60.55亿元，同比增长431.81%",
+     "link": "http://stock.eastmoney.com/news/11802,202611093926337687.html",
+     "pubDate": "Mon, 09 Nov 2026 17:46:58 +0800",
+     "summary": "百济神州 11月10日发布2026年 三季报显示，公司前三季 实现营业总收入349.93亿元 ，同比增长26.81% ；归母净利润60.55亿元 ，同比增长431.81% ；扣非归母净利润55.68亿元 ，同比增长474.35% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
      "source": "东方财富股票",
-     "zh": "德国9月出口和进口环比分别增长2.0%和4.2%"
+     "zh": "图解财报：百济神州前三季归母净利润60.55亿元，同比增长431.81%"
     },
     {
-     "title": "【调研快报】润农节水接待东吴证券股份有限公司等57家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611093926333377.html",
-     "pubDate": "Mon, 09 Nov 2026 17:40:00 +0800",
-     "summary": "润农节水 11月9日公告称， 11月6日 接待 东吴证券 股份有限公司 等57家机构 调研。 接待人员包括董事、总经理 丁辉俊,董事、副总经理、财务负责人(总会计师) 陈立,董事、董事会秘书 范亮,财务总监 杨文博。 公司就以下问题进行了回复： 本次交流会上公司就投资者关心的问题进行了回答,主要问题及回复情况如下: 问题1:公司六月份公告的几个重大中标项目目前的进展情况如何? 回复:您好!公司于6月公告两个湖北地区中标项目:一是随县高标准农田项目,中标金额3.35亿元;二是宜城项目,项目总金额3.87亿元,该项目为联合体中标,公司负责实施的... 点击查看PDF原文 免责声明：本文基于AI生产",
+     "title": "神州半导体11月16日上会 拟募资总额21.83亿元",
+     "link": "http://finance.eastmoney.com/news/1345,202611093926338074.html",
+     "pubDate": "Mon, 09 Nov 2026 17:45:48 +0800",
+     "summary": "据上交所网站11月9日消息，上海证券交易所上市审核委员会定于2026年11月16日召开2026年第58次上市审核委员会审议会议，审议江苏神州 半导体 科技股份有限公司（以下简称“神州 半导体 ”）的首发事项。 根据招股书，神州 半导体 拟发行不超过2200万股新股，占发行后总股本比例不低于25%，发行后总股本不超过8800万股，拟募资总额21.83亿元。 公司预计2026年度营业收入为8.5亿元至9亿元，较上年同期增长29.97%至37.61%；预计2026年度归属于母公司股东净利润为2.8亿元至3亿元，较上年同期增长33.97%至43.54%；预计2026年扣除非经常性损益后归属于母公司股东",
      "source": "东方财富股票",
-     "zh": "【调研快报】润农节水接待东吴证券股份有限公司等57家机构调研"
+     "zh": "神州半导体11月16日上会 拟募资总额21.83亿元"
     },
     {
-     "title": "宏碁10月销售额263.9亿元台币",
-     "link": "http://finance.eastmoney.com/news/1354,202611093926335556.html",
-     "pubDate": "Mon, 09 Nov 2026 17:39:55 +0800",
-     "summary": "宏碁10月销售额263.9亿元台币，同比增长24.3%。 （文章来源：财联社）",
+     "title": "上海合晶：截至10月30日最新股东户数1.94万户，较上期增加0.67%",
+     "link": "http://stock.eastmoney.com/news/11111,202611093926335811.html",
+     "pubDate": "Mon, 09 Nov 2026 17:44:01 +0800",
+     "summary": "上海合晶 最新披露数据显示，截至10月30日公司股东户数为1.94万户，较上期(2026年10月20日) 增加129户，增幅为0.67% 。户均持有流通股数量 由上期的1.78万股下降至1.77万股， 户均持股金额 由上期的37.71万元减少至30.29万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
      "source": "东方财富股票",
-     "zh": "宏碁10月销售额263.9亿元台币"
+     "zh": "上海合晶：截至10月30日最新股东户数1.94万户，较上期增加0.67%"
     },
     {
-     "title": "【调研快报】武汉蓝电接待中信证券等2家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611093926332723.html",
-     "pubDate": "Mon, 09 Nov 2026 17:38:58 +0800",
-     "summary": "武汉蓝电 11月9日公告称， 11月6日 接待 中信证券 等2家机构 调研。 接待人员包括董事会秘书 王雅莉。 公司就以下问题进行了回复： 问题1:公司2026年三季度业绩情况如何? 回答:2026年前三季度公司实现营业收入1.10亿元,同比增长6.39%;实现归属于上市公司股东的净利润3,224.07万元,同比减少18.10%;实现归属于上市公司股东的扣除非经常性损益后的净利润2,900.80万元,同比减少16.83%。 2026年第... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关",
+     "title": "【调研快报】三孚股份接待投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611093926335263.html",
+     "pubDate": "Mon, 09 Nov 2026 17:43:00 +0800",
+     "summary": "三孚股份 11月10日公告称， 11月9日 接待投资者 调研。 接待人员包括公司董事长 孙任靖,董事、总经理 董立强,董事、财务负责人 张宪民,独立董事 段厚省,董事会秘书 刘默洋。 公司就以下问题进行了回复： 公司在本次说明会上就投资者普遍关注的问题给予了回答,主要问题及回复整理如下: 1、公司2026年正推进 半导体 用SOD及配套溶剂项目,持续拓展 电子 级硅材料业务。请问在高纯 电子 特气、 半导体 前驱体、硅基 电子 材料及特种化学品领域,是否存在通过外部股权投资或控股并购补充核心技术、成熟产品及产业能力的实际... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任",
      "source": "东方财富股票",
-     "zh": "【调研快报】武汉蓝电接待中信证券等2家机构调研"
+     "zh": "【调研快报】三孚股份接待投资者调研"
+    },
+    {
+     "title": "交控科技：中标约1.54亿元机车移动闭塞改造设备采购项目",
+     "link": "http://finance.eastmoney.com/news/1354,202611093926336112.html",
+     "pubDate": "Mon, 09 Nov 2026 17:41:46 +0800",
+     "summary": "交控科技 (688015.SH)公告称，公司收到中标通知书，确认为朔黄铁路机辆公司2026年所需机车移动闭塞改造设备采购项目中标人，中标金额1.54亿元。项目将为50台机车提供移动闭塞系统改造设备，包含运输、装卸、安装、调试等工作。截至公告披露日，公司尚未签订正式合同，存在不确定性。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "交控科技：中标约1.54亿元机车移动闭塞改造设备采购项目"
+    },
+    {
+     "title": "利好来了！上海最新发布！热门赛道迎重磅加持",
+     "link": "http://finance.eastmoney.com/news/1345,202611093926336267.html",
+     "pubDate": "Mon, 09 Nov 2026 17:41:29 +0800",
+     "summary": "医药产业又迎来政策支持！ 今日（11月9日）下午消息，上海市食品药品安全委员会印发《上海市保障药品安全促进医药产业高质量发展“十五五”规划》（以下简称《规划》）。其中提到，深入推动药品领域改革。持续推进 创新药 临床试验审评审批改革，支持 创新药 研发。 药械审批改革提速，多项试点落地 《规划》提出，深化境内外生产化学药品补充申请审评审批程序改革，对上海市化学药品重大变更申报提供前置服务。争取仿制药立卷审查试点等改革，加快首仿品种上市。优化已上市药品变更流程。深入开展药品连续制造技术应用试点。优化临床急需药品临时进口服务指导工作机制和流程。 持续推进 医疗器械 领域改革。鼓励医疗机构加快开展自",
+     "source": "东方财富股票",
+     "zh": "利好来了！上海最新发布！热门赛道迎重磅加持"
+    },
+    {
+     "title": "二十多年开发积累 吉利新一代甲醇电混技术首搭银河星耀6 E-fuel",
+     "link": "http://www.eeo.com.cn/2026/1109/1088548.shtml",
+     "pubDate": "Mon, 09 Nov 2026 17:40:16 +0800",
+     "summary": "作为搭载新一代甲醇电混技术的第一款车，银河星耀6 E-Fuel不仅可以实现灵活补能，还能够高效率、低能耗、全气候低成本出行。",
+     "source": "经济观察网",
+     "zh": "二十多年开发积累 吉利新一代甲醇电混技术首搭银河星耀6 E-fuel"
     },
     {
      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
@@ -2287,22 +2311,6 @@
      "summary": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
      "source": "CNBC",
      "zh": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy"
-    },
-    {
-     "title": "11月9日北向资金最新动向（附十大成交股）",
-     "link": "http://stock.eastmoney.com/news/11780,202611093926331130.html",
-     "pubDate": "Mon, 09 Nov 2026 17:36:09 +0800",
-     "summary": "交易所最新数据显示，11月9日北向资金共成交2162.36亿元，占两市总成交额的14.58%。 寒武纪 、 生益科技 、 中微公司 位列 沪股通 成交前三，成交额分别为18.77亿、13.88亿、13.21亿； 中际旭创 、 宁德时代 、 新易盛 位列 深股通 成交前三，成交额分别为36.16亿、34.42亿、22.34亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
-     "source": "东方财富股票",
-     "zh": "11月9日北向资金最新动向（附十大成交股）"
-    },
-    {
-     "title": "【调研快报】康冠科技接待安信基金等46家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611093926331053.html",
-     "pubDate": "Mon, 09 Nov 2026 17:35:59 +0800",
-     "summary": "康冠科技 11月9日公告称， 11月8日 接待安信基金 等46家机构 调研。 接待人员包括董事会秘书、投资处总经理 吴远,证券事务代表 李儒谦,董秘办工作人员。 公司就以下问题进行了回复： 一、问答 Q1:公司在端侧AI方向的布局是怎样考量的? A1:向“AI硬件厂商”转型是公司持续推进的战略之一。近年来,公司持续强化相关研发投入、扩充研发团队,并通过项目组孵化机制等方式,持续探索、推出符合市场需求的端侧AI产品。 其中,在战略合作方面,公司已与端侧大模型企业阶跃星辰... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨",
-     "source": "东方财富股票",
-     "zh": "【调研快报】康冠科技接待安信基金等46家机构调研"
     },
     {
      "title": "黄仁勋无人接班",
@@ -2425,6 +2433,38 @@
      "zh": "European markets rebound as lower oil prices support market sentiment"
     },
     {
+     "title": "美民主党拟对马斯克等发起调查",
+     "link": "http://finance.eastmoney.com/news/1351,202611093926292692.html",
+     "pubDate": "Mon, 09 Nov 2026 16:47:06 +0800",
+     "summary": "美国国会民主党议员8日表示，明年1月民主党接管国会后，将对美国亿万富翁埃隆·马斯克、白宫办公厅主任斯蒂芬·米勒及部分企业发起调查。 民主党籍的联邦众议员罗伯特·加西亚与联邦参议员伊丽莎白·沃伦当天在电视访谈中作出上述表态。 在民主党接管众议院后，加西亚有望担任该院监督和政府改革委员会主席。他说，调查将聚焦马斯克在“政府效率部”解雇联邦雇员一事中扮演的角色，以及米勒在特朗普政府移民执法政策中发挥的作用。加西亚称米勒是“可怕、不公正”移民政策的设计者，处于政府重大政策决策的核心，理应受到监督和调查。 沃伦还对一些企业发出警告，但并未点名具体企业。她说，靠欺骗美国家庭和投资者牟利的企业“最好准备好接",
+     "source": "东方财富资讯",
+     "zh": "美民主党拟对马斯克等发起调查"
+    },
+    {
+     "title": "11月9日涨停复盘：57只股涨停 文投控股14天7板",
+     "link": "http://stock.eastmoney.com/news/11055,202611093926292121.html",
+     "pubDate": "Mon, 09 Nov 2026 16:47:00 +0800",
+     "summary": "今天沪指涨0.32%，深成指跌0.27%，创业板指跌0.27%，今日大盘成交额1.48万亿，较上个交易日缩量1751.81亿。 涨停个股数量方面，今日共计57股涨停，另有52只个股盘中一度触及涨停，封板率52.29%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富资讯",
+     "zh": "11月9日涨停复盘：57只股涨停 文投控股14天7板"
+    },
+    {
+     "title": "三大高管集体发声！OpenAI、Arm、高通回应AI沽售潮：不用过度恐慌",
+     "link": "http://finance.eastmoney.com/news/1345,202611093926291668.html",
+     "pubDate": "Mon, 09 Nov 2026 16:44:47 +0800",
+     "summary": "11月9日，财闻海外资讯援引CNBC报道，美国中期选举后，上周三市场一度出现升势，但周四转为大幅抛售，美国科技企业高层则淡化 数据中心 限制可能对业务造成灾难性影响的说法。 民主党于周二晚中期选举中赢得国会以及多个州长及州议会席位后，股市周三初段反弹，总统特朗普亦低调接受选举结果。 Arm 行政总裁 Rene Haas在采访中表示：“市场担忧属于短视，长期不会对Arm业务构成重大威胁；如果美国在 数据中心 建设方面有任何犹豫，世界其他地区已准备好并愿意投入，对相关产能的需求非常庞大。” OpenAI财务总监Sarah Friar受访时表示，尽管选民在中期选举中强烈反对在住所附近兴建 数据中心 ",
+     "source": "东方财富资讯",
+     "zh": "三大高管集体发声！OpenAI、Arm、高通回应AI沽售潮：不用过度恐慌"
+    },
+    {
+     "title": "AI安全之争持续发酵！特朗普再谈AI：风险可控 不介意设置护栏",
+     "link": "http://stock.eastmoney.com/news/1768,202611093926272698.html",
+     "pubDate": "Mon, 09 Nov 2026 16:21:08 +0800",
+     "summary": "美国硅谷和政界有关AI安全的争论仍在持续发酵。美国总统特朗普最新表示， 人工智能 （AI）带来的风险是可控的，但他同时也释放出对采取安全保障措施持开放态度的信号。他在一档节目中表示， 他“不介意设置护栏” 。 当被问及美国是否应该为了保持在AI领域的领先优势而接受相关风险时， 特朗普表示这些危险是可控的，并表达了愿意与民主党人合作制定相关保障措施的意愿 。 “我不介意设置监管护栏。”特朗普表示，但他补充称，他不希望监管措施导致美国在AI领域落后。 特朗普此前一直倾向于让科技公司进行自我监管，而不是由政府实施全面的限制。他的最新言论表明，其对AI监管持某种开放态度，尽管目前尚不清楚开放程度如何。",
+     "source": "东方财富资讯",
+     "zh": "AI安全之争持续发酵！特朗普再谈AI：风险可控 不介意设置护栏"
+    },
+    {
      "title": "Elon Musk's Terafab targets 1M wafers per month by 2032 - report",
      "link": "https://seekingalpha.com/news/4668796-elon-musks-terafab-targets-1m-wafers-per-month-by-2032---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 09 Nov 2026 03:12:04 -0500",
@@ -2447,46 +2487,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Sohu.com GAAP EPS of -$0.60, revenue of $133M"
-    },
-    {
-     "title": "Alphabet maintains massive SpaceX bet, initiates $548M Qualcomm stake",
-     "link": "https://seekingalpha.com/news/4668792-alphabet-maintains-massive-spacex-bet-initiates-548m-qualcomm-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 00:47:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alphabet maintains massive SpaceX bet, initiates $548M Qualcomm stake"
-    },
-    {
-     "title": "Constellation Software declares $1.00 dividend",
-     "link": "https://seekingalpha.com/news/4668794-constellation-software-declares-1_00-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 00:35:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Constellation Software declares $1.00 dividend"
-    },
-    {
-     "title": "Tech’s teetering towers",
-     "link": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
-     "pubDate": "Mon, 09 Nov 2026 05:00:25 GMT",
-     "summary": "The AI race is defined by vertical integration. Will it withstand a storm?",
-     "source": "Financial Times",
-     "zh": "Tech’s teetering towers"
-    },
-    {
-     "title": "Russian military turns to deepfake videos to claim battlefield success",
-     "link": "https://www.ft.com/content/7f36031b-ea90-4a3a-a570-a6c6ff96e45a?syn-25a6b1a6=1",
-     "pubDate": "Mon, 09 Nov 2026 05:00:25 GMT",
-     "summary": "Army units and pro-war military bloggers are posting videos researchers say have been manipulated",
-     "source": "Financial Times",
-     "zh": "Russian military turns to deepfake videos to claim battlefield success"
-    },
-    {
-     "title": "The great British sell-off",
-     "link": "https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193?syn-25a6b1a6=1",
-     "pubDate": "Mon, 09 Nov 2026 05:00:08 GMT",
-     "summary": "Companies worth half a trillion pounds have been snapped up by foreign buyers over the past decade",
-     "source": "Financial Times",
-     "zh": "The great British sell-off"
     }
    ]
   },

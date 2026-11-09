@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/10 04:55:22",
+ "generated_at": "2026/11/10 05:00:29",
  "recent_days": 7,
  "industries": [
   {
@@ -281,12 +281,28 @@
      "zh": "Golden Testcases You Can Check With a Calculator"
     },
     {
+     "title": "Google expands its 8th-Gen TPU portfolio for agentic AI",
+     "link": "https://www.electronicsweekly.com/news/google-expands-its-8th-gen-tpu-portfolio-for-agentic-ai-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 17:28:12 +0000",
+     "summary": "Google has expanded its eighth generation TPU portfolio with the TPU 8tx and TPU 8i Max. Following on from the TPU 8t and TPU 8i releases in April, it marks […] The post Google expands its 8th-Gen TPU portfolio for agentic AI appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Google expands its 8th-Gen TPU portfolio for agentic AI"
+    },
+    {
      "title": "Curvilinear OPC and next-gen photomask optimization",
      "link": "https://semiwiki.com/eda/siemens-eda/376032-curvilinear-opc-and-next-gen-photomask-optimization/",
      "pubDate": "Mon, 09 Nov 2026 16:00:56 +0000",
      "summary": "A vector-based approach for semiconductor manufacturing By Sagar Saxena is a Senior Product Engineer at Siemens EDA Curvilinear OPC transforms advanced semiconductor manufacturing Modern semiconductor manufacturing is experiencing a fundamental shift in the way photomasks are created and optimized. ",
      "source": "SemiWiki",
      "zh": "Curvilinear OPC and next-gen photomask optimization"
+    },
+    {
+     "title": "Aratas introduces G6TA series of reed relays for safety-monitoring",
+     "link": "https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 15:26:00 +0000",
+     "summary": "Aratas is introducing its G6TA series of reed relays, providing 200V DC switching capability for safety-monitoring circuitry. Specifically, the relays comprise type-1a (SPST, single-pole single-throw) and type-2a (DPST, double-pole single-throw) […] The post Aratas introduces G6TA series of reed rel",
+     "source": "Electronics Weekly",
+     "zh": "Aratas introduces G6TA series of reed relays for safety-monitoring"
     },
     {
      "title": "Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit",
@@ -343,6 +359,14 @@
      "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over $300 million",
      "source": "IEEE Spectrum 半导体",
      "zh": "The Race to Build a “Find My” for AI Chips"
+    },
+    {
+     "title": "CesiumAstro satellite antenna specialist raises $730m",
+     "link": "https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 10:07:40 +0000",
+     "summary": "CesiumAstro, the satellite antenna specialist, has closed $730 million in Series D financing. Its payloads – the company highlights – combine active phased array antennas, RF front ends, analogue and […] The post CesiumAstro satellite antenna specialist raises $730m appeared first on Electronics Wee",
+     "source": "Electronics Weekly",
+     "zh": "CesiumAstro satellite antenna specialist raises $730m"
     },
     {
      "title": "Nvidia's Taiwan partners rally despite Jensen probe",
@@ -441,60 +465,36 @@
      "zh": "DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM"
     },
     {
+     "title": "Jensen Huang apologises: Nvidia board investigates",
+     "link": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:18:52 +0000",
+     "summary": "After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior executive at Singapore datacentre company Megaspeed, who US intelligence officials believe is a Chinese spy. The board of […] The post Jensen Huang apologises: Nvidia board investigates appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Jensen Huang apologises: Nvidia board investigates"
+    },
+    {
+     "title": "TSMC rumoured to be eyeing 3D DRAM",
+     "link": "https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:17:29 +0000",
+     "summary": "TSMC is said to have appointed vice-president Hsu Kuo-Chin to look at how the company could get into 3D DRAM, according to multiple industry reports, but it would seem that […] The post TSMC rumoured to be eyeing 3D DRAM appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "TSMC rumoured to be eyeing 3D DRAM"
+    },
+    {
+     "title": "Toshiba gets £20m government contract to commercialise quantum",
+     "link": "https://www.electronicsweekly.com/news/business/toshiba-gets-20-million-government-contract-to-commercialise-quantum-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:16:36 +0000",
+     "summary": "Toshiba Europe has been awarded a contract by Innovate UK, part of UK Research and Innovation (UKRI), to develop technologies that can help unlock the commercial potential of quantum networks. […] The post Toshiba gets £20m government contract to commercialise quantum appeared first on Electronics W",
+     "source": "Electronics Weekly",
+     "zh": "Toshiba gets £20m government contract to commercialise quantum"
+    },
+    {
      "title": "CEO Interview with Mark Rushworth of Finchetto",
      "link": "https://semiwiki.com/ceo-interviews/375759-ceo-interview-with-mark-rushworth-of-finchetto/",
      "pubDate": "Sun, 08 Nov 2026 20:00:11 +0000",
      "summary": "Mark Rushworth is CEO of the all-optical network switch company, Finchetto, a photonics startup developing fully optical network switching technology for AI and hyperscale data centers. He specializes in integrated photonics and optical networking, with a focus on reducing the power consumption and ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Mark Rushworth of Finchetto"
-    },
-    {
-     "title": "AOI announces equity grants under Inducement Plan",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-061126.shtml",
-     "pubDate": "Fri, 6 Nov 2026 16:09:02 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) says that the Compensation Committee of its board of directors granted inducement awards fo",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces equity grants under Inducement Plan"
-    },
-    {
-     "title": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-061126.shtml",
-     "pubDate": "Fri, 6 Nov 2026 14:37:32 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — has appointed David Bell as chairman of its board of directors, separating the chairman and chief executive offi",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman"
-    },
-    {
-     "title": "Chip Industry Week In Review",
-     "link": "https://semiengineering.com/chip-industry-week-in-review-163/",
-     "pubDate": "Fri, 06 Nov 2026 08:01:01 +0000",
-     "summary": "Updated 11/8: Nvidia CEO under investigation; HBM smuggling routes into China; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; mor",
-     "source": "Semiconductor Engineering",
-     "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Adding Network Security To AI, HPC, And Data Centers",
-     "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
-     "pubDate": "Thu, 05 Nov 2026 08:06:45 +0000",
-     "summary": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, HPC, And Data Centers appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Adding Network Security To AI, HPC, And Data Centers"
-    },
-    {
-     "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
-     "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
-     "pubDate": "Thu, 05 Nov 2026 08:05:35 +0000",
-     "summary": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Turning Conv2D Into A Practical GPU Compute Pattern"
-    },
-    {
-     "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
-     "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:55 +0000",
-     "summary": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. The post A System-Level Approach To Protecting 3D-IC Signal Integrity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "A System-Level Approach To Protecting 3D-IC Signal Integrity"
     }
    ]
   },
@@ -913,6 +913,14 @@
      "zh": "Arizona’s longest-tenured utility commissioner on large loads, affordability and Western markets"
     },
     {
+     "title": "PPL increases capital plan to $25B with proposed Kentucky gas plant",
+     "link": "https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/",
+     "pubDate": "Mon, 09 Nov 2026 11:38:05 -0500",
+     "summary": "The company projects some 50 GW of potential load growth, mostly from data centers, across Kentucky and Pennsylvania.&nbsp;CEO Vincent Sorgi suggested those states could see a influx of projects due to restrictions in other regions.",
+     "source": "Utility Dive",
+     "zh": "PPL increases capital plan to $25B with proposed Kentucky gas plant"
+    },
+    {
      "title": "Global Solar Council to unveil 300 million solar rooftop declaration at COP31",
      "link": "https://www.pv-tech.org/global-solar-council-to-unveil-rooftop-solar-declaration-at-cop31-as-governments-commit-to-300m-solar-homes/",
      "pubDate": "Mon, 09 Nov 2026 15:11:11 +0000",
@@ -959,6 +967,14 @@
      "summary": "Europe’s corporate renewable energy buyers and sellers have shifted their focus from price to risk allocation as negative prices erode solar-only contracts and battery-backed hybrid deals move to the center of the market, according to discussions last week at RE-Source 2026 in Amsterdam. The post Ke",
      "source": "pv magazine",
      "zh": "Key takeaways from RE-Source 2026 in Amsterdam"
+    },
+    {
+     "title": "Inside the ‘pressure cooker’: Electric utility regulators gather in wake of electoral earthquake",
+     "link": "https://www.utilitydive.com/news/grid-investment-affordability-naruc-state-policy/874080/",
+     "pubDate": "Mon, 09 Nov 2026 08:16:11 -0500",
+     "summary": "Newly elected leaders and customers are &ldquo;questioning our foundational regulatory approaches,&rdquo; Ann Rendahl, president of the National Association of Regulatory Utility Commissioners, told her peers and industry stakeholders.",
+     "source": "Utility Dive",
+     "zh": "Inside the ‘pressure cooker’: Electric utility regulators gather in wake of electoral earthquake"
     },
     {
      "title": "IEA forecasts 3.6TW of new solar PV by 2031",
@@ -1071,22 +1087,6 @@
      "summary": "In order to enable capital execution and capacity expansion, nuclear utilities must pair recruitment with strong retention and engagement.",
      "source": "Utility Dive",
      "zh": "Beyond megawatts: Nuclear’s other capacity expansion challenge"
-    },
-    {
-     "title": "Behind-the-meter power: An effective tool for bringing large utility customers online faster",
-     "link": "https://www.utilitydive.com/spons/behind-the-meter-power-an-effective-tool-for-bringing-large-utility-custom/833709/",
-     "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
-     "summary": "Behind-the-meter (BTM) power is becoming an effective solution to bridge the gap between what the grid can provide and what data centers need to operate smoothly.",
-     "source": "Utility Dive",
-     "zh": "Behind-the-meter power: An effective tool for bringing large utility customers online faster"
-    },
-    {
-     "title": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act",
-     "link": "https://www.energy-storage.news/pacific-blue-refers-855mwh-battery-storage-system-in-victoria-to-australias-epbc-act/",
-     "pubDate": "Mon, 09 Nov 2026 09:23:07 +0000",
-     "summary": "Australian renewable energy generator and retailer Pacific Blue has referred an 855MWh BESS in Victoria to Australia's EPBC Act.",
-     "source": "Energy Storage News",
-     "zh": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act"
     }
    ]
   },
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Fervo now has $12B in orders for its geothermal power tech",
+     "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+     "pubDate": "Mon, 09 Nov 2026 20:55:34 +0000",
+     "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+     "source": "TechCrunch",
+     "zh": "Fervo now has $12B in orders for its geothermal power tech"
+    },
+    {
      "title": "The 9 Best TV Shows to Stream This Month (November 2026)",
      "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
      "pubDate": "Mon, 09 Nov 2026 20:47:28 +0000",
@@ -1991,14 +1999,6 @@
      "summary": "IT之家 11 月 9 日消息，据《连线》报道，英伟达 CEO 黄仁勋早在承认婚外情之前一年，就已开始与一家擅长处理公众丑闻的危机公关公司合作。据两名知情人士透露，至少从 2025 年 10 月起，公关公司 Heller 就一直在幕后负责黄仁勋的相关公关事务。而就在今日，黄仁勋承认与一名女性存在婚外情。 Heller 创始人丽莎 · 海勒（Risa Heller）在业内以处理权势人物的性不端指控及其他个人丑闻而闻名。根据《纽约杂志》2023 年的一篇人物报道，她曾为多位陷入争议的知名人士提供公关服务或咨询，包括美国前国会议员安东尼 · 韦纳（Anthony Weiner）、名厨马里奥 · 巴塔",
      "source": "IT之家",
      "zh": "英伟达黄仁勋承认出轨，消息称其去年已聘请擅长处理丑闻的危机公关公司"
-    },
-    {
-     "title": "欧洲力推本土制造电池，或使一辆电动汽车成本增加 2100 欧元",
-     "link": "https://www.ithome.com/1/024/564.htm",
-     "pubDate": "Mon, 09 Nov 2026 15:13:08 GMT",
-     "summary": "IT之家 11 月 9 日消息，当前，欧洲政策制定者希望汽车电池更多地在本土生产。然而由于欧洲制造的电池成本更高， 增加的费用最终很可能由购车者承担 。 当地时间 7 日，据外媒 insideevs 报道，布鲁塞尔智库布鲁盖尔今年 9 月发表的一份报告提出，旨在保护欧洲现有汽车制造商的政策，可能最终 让消费者和纳税人为此买单 。 如果规定汽车必须使用欧盟生产的电芯，每千瓦时的成本可能 从 50 欧元（IT之家注：现汇率约合 372.3 元人民币）上涨至 85 欧元 （现汇率约合 632.9 元人民币） 。一辆配备 60kWh 电池的汽车，仅电池成本就 可能增加 2,100 欧元 （现汇率约合 ",
-     "source": "IT之家",
-     "zh": "欧洲力推本土制造电池，或使一辆电动汽车成本增加 2100 欧元"
     }
    ]
   },
@@ -2257,20 +2257,44 @@
    "total": 13,
    "items": [
     {
+     "title": "Hegseth impeachment articles introduced by Rep. Massie",
+     "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+     "pubDate": "Mon, 09 Nov 2026 20:54:43 GMT",
+     "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth.",
+     "source": "CNBC",
+     "zh": "Hegseth impeachment articles introduced by Rep. Massie"
+    },
+    {
+     "title": "Paramount Resources raised at Scotiabank as Kaybob sale clears way for next leg of growth",
+     "link": "https://seekingalpha.com/news/4669208-paramount-resources-raised-at-scotiabank-as-kaybob-sale-clears-way-for-next-leg-of-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 15:54:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Paramount Resources raised at Scotiabank as Kaybob sale clears way for next leg of growth"
+    },
+    {
+     "title": "A preliminary agreement reducing Iran’s Uranium enrichment likely to be reached – reports",
+     "link": "https://seekingalpha.com/news/4669216-a-preliminary-agreement-reducing-iran-s-uranium-enrichment-likely-to-be-reached-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 15:53:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "A preliminary agreement reducing Iran’s Uranium enrichment likely to be reached – reports"
+    },
+    {
+     "title": "Monolithic Power Systems rises 17%, its fifth gain in seven sessions",
+     "link": "https://seekingalpha.com/news/4669200-monolithic-power-systems-rises-17-its-fifth-gain-in-seven-sessions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 15:53:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Monolithic Power Systems rises 17%, its fifth gain in seven sessions"
+    },
+    {
      "title": "Alpha and Omega Semiconductor surges over 20% for second consecutive session",
      "link": "https://seekingalpha.com/news/4669201-alpha-and-omega-semiconductor-surges-over-20-for-second-consecutive-session?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 09 Nov 2026 15:49:16 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Alpha and Omega Semiconductor surges over 20% for second consecutive session"
-    },
-    {
-     "title": "Hegseth impeachment articles introduced by Rep. Massie",
-     "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-     "pubDate": "Mon, 09 Nov 2026 20:49:14 GMT",
-     "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth.",
-     "source": "CNBC",
-     "zh": "Hegseth impeachment articles introduced by Rep. Massie"
     },
     {
      "title": "Analysts say these chip stocks are bargains. Is it time to buy?",
@@ -2305,14 +2329,6 @@
      "zh": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test."
     },
     {
-     "title": "法国外长巴罗9日称 伊朗对近期法国超市制冷系统受到网络攻击“负有责任”",
-     "link": "http://finance.eastmoney.com/news/1351,202611103926631697.html",
-     "pubDate": "Tue, 10 Nov 2026 04:41:59 +0800",
-     "summary": "法国外长巴罗9日称，伊朗对近期法国 超市 制冷系统受到网络攻击“负有责任”。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "法国外长巴罗9日称 伊朗对近期法国超市制冷系统受到网络攻击“负有责任”"
-    },
-    {
      "title": "As Nvidia probes Jensen Huang affair, here&apos;s the board member likely to play a big role",
      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
      "pubDate": "Mon, 09 Nov 2026 20:41:54 GMT",
@@ -2327,46 +2343,6 @@
      "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
      "source": "CNBC",
      "zh": "PepsiCo to cut about 1,000 jobs as North American business struggles"
-    },
-    {
-     "title": "DOJ expected to opine on Union Pacific/Norfolk Southern deal in coming weeks - report",
-     "link": "https://seekingalpha.com/news/4669193-doj-expected-to-opine-on-union-pacificnorfolk-southern-deal-in-coming-weeks---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 15:38:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "DOJ expected to opine on Union Pacific/Norfolk Southern deal in coming weeks - report"
-    },
-    {
-     "title": "Tronox upgraded to Neutral at J.P. Morgan as shares near all-time lows",
-     "link": "https://seekingalpha.com/news/4669194-tronox-upgraded-to-neutral-at-jp-morgan-as-shares-near-all-time-lows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 15:36:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tronox upgraded to Neutral at J.P. Morgan as shares near all-time lows"
-    },
-    {
-     "title": "Warby Parker jumps 22%, continues earnings-inspired rally",
-     "link": "https://seekingalpha.com/news/4669199-warby-parker-jumps-22-continues-earnings-inspired-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 15:35:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Warby Parker jumps 22%, continues earnings-inspired rally"
-    },
-    {
-     "title": "美股三大指数均涨超2% 费城半导体指数涨超7% 国际油价走低",
-     "link": "http://finance.eastmoney.com/news/1345,202611093926568753.html",
-     "pubDate": "Tue, 10 Nov 2026 04:34:54 +0800",
-     "summary": "美东时间周一，美股三大指数走高，截至发稿， 纳斯达克 综合 指数涨3.03%，标普500指数涨2.60%，道琼斯指数涨2.33%。 大型科技股多数上涨，截至发稿，Meta涨5.19%， 特斯拉 涨5.15%， SpaceX 涨4.87%， 台积电 涨3.60%， 亚马逊 涨3.28%， 微软 涨2.33%， 苹果 涨2.01%， 谷歌-A 涨1.70%； 英伟达 跌5.56%，消息面上，黄仁勋个人丑闻发酵并遭内部调查。 美股 半导体 板块集体反弹，截至发稿，费城 半导体 指数涨7.55%。个股方面， 超威半导体 涨11.96%， 希捷科技 涨10.51%， 西部数据 涨10.15%， 博通 涨",
-     "source": "东方财富股票",
-     "zh": "美股三大指数均涨超2% 费城半导体指数涨超7% 国际油价走低"
-    },
-    {
-     "title": "黄仁勋的名字已从周一Anthropic CEO论坛议程中移除",
-     "link": "http://finance.eastmoney.com/news/1354,202611103926631510.html",
-     "pubDate": "Tue, 10 Nov 2026 04:31:50 +0800",
-     "summary": "黄仁勋的名字已从周一Anthropic CEO论坛议程中移除。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "黄仁勋的名字已从周一Anthropic CEO论坛议程中移除"
     },
     {
      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
@@ -2385,36 +2361,12 @@
      "zh": "FCA explores use of quantum computing to tackle financial crime"
     },
     {
-     "title": "国际油价9日显著下跌",
-     "link": "http://finance.eastmoney.com/news/1351,202611103926631036.html",
-     "pubDate": "Tue, 10 Nov 2026 04:28:51 +0800",
-     "summary": "截至当天收盘，纽约商品交易所12月交货的轻质原油 期货 价格下跌3.98美元，收于每桶86.85美元，跌幅为4.38%；1月交货的伦敦布伦特原油 期货 价格下跌5.75美元，收于每桶92.57美元，跌幅为5.85%。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "国际油价9日显著下跌"
-    },
-    {
      "title": "Jensen Huang affair puts Nvidia&apos;s future at risk, with no clear successor to the renowned CEO",
      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
      "pubDate": "Mon, 09 Nov 2026 20:25:13 GMT",
      "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
      "source": "CNBC",
      "zh": "Jensen Huang affair puts Nvidia&apos;s future at risk, with no clear successor to the renowned CEO"
-    },
-    {
-     "title": "上纬启元机器人生产基地落户杭州富阳",
-     "link": "http://finance.eastmoney.com/news/1354,202611103926631212.html",
-     "pubDate": "Tue, 10 Nov 2026 04:24:51 +0800",
-     "summary": "上纬新材 旗下启元 机器人 生产基地暨全国首个Expert个人 机器人 制造基地项目签约及上纬启元 机器人 全国总部运营中心揭牌活动11月9日在杭州 富阳 举行。上纬启元、 金固股份 、 富阳 产业投资集团三方在 富阳 开发区设立项目运营主体，并将同步设立上纬启元 机器人 全国总部运营中心，三方在具身智能与高端制造融合赛道进入实质落地阶段。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "上纬启元机器人生产基地落户杭州富阳"
-    },
-    {
-     "title": "Anthropic路演最快本周二启动 AI抛售潮后IPO定价迎大考",
-     "link": "http://stock.eastmoney.com/news/1611,202611103926631170.html",
-     "pubDate": "Tue, 10 Nov 2026 04:24:13 +0800",
-     "summary": "AI概念股上周遭遇剧烈抛售之际，Anthropic的重磅IPO即将进入正式路演阶段。这家AI行业明星最快将于本周二启动IPO营销，力争在美国感恩节前完成上市，但市场对AI资产的风险偏好已经发生变化，其发行定价和投资者认购需求将接受严峻考验。 上周AI产业链股票集体重挫后，华尔街见闻提到，上周五的报道称，部分潜在投资者讨论的Anthropic估值已降至约1.2万亿至1.3万亿美元，甚至有人考虑低至1.1万亿美元，较此前1.4万亿至1.5万亿美元的市场预期明显下调，更远低于早前市场讨论的最高约2万亿美元估值。 这意味着，Anthropic即将面对的不仅是能否完成一笔超大型IPO，更是公开市场愿意为",
-     "source": "东方财富股票",
-     "zh": "Anthropic路演最快本周二启动 AI抛售潮后IPO定价迎大考"
     },
     {
      "title": "Anthropic路演最快本周二启动，AI抛售潮后IPO定价迎大考",
@@ -2495,6 +2447,54 @@
      "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
      "source": "Financial Times",
      "zh": "How the world became too reliant on Jensen Huang"
+    },
+    {
+     "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
+     "link": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
+     "pubDate": "Mon, 09 Nov 2026 17:02:52 GMT",
+     "summary": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company",
+     "source": "Financial Times",
+     "zh": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?"
+    },
+    {
+     "title": "Democrats need to use the power of the purse",
+     "link": "https://www.ft.com/content/84b7d689-523f-45f8-9f91-897b1e952083",
+     "pubDate": "Mon, 09 Nov 2026 16:17:07 GMT",
+     "summary": "Through using their strengths on spending, they can stymie and reverse much of Trump’s agenda",
+     "source": "Financial Times",
+     "zh": "Democrats need to use the power of the purse"
+    },
+    {
+     "title": "Morgan Stanley agrees to buy transfer agent Vinyl Equity",
+     "link": "https://www.finextra.com/newsarticle/48727/morgan-stanley-agrees-to-buy-transfer-agent-vinyl-equity?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 09 Nov 2026 15:58:00 GMT",
+     "summary": "Morgan Stanley has struck a deal to buy Vinyl Equity, a digital-first SEC-registered transfer agent and shareholder recordkeeping platform. Terms of the deal were not disclosed.",
+     "source": "Finextra",
+     "zh": "Morgan Stanley agrees to buy transfer agent Vinyl Equity"
+    },
+    {
+     "title": "Financial intelligence platform geniosAI raises $19.1m",
+     "link": "https://www.finextra.com/newsarticle/48726/financial-intelligence-platform-geniosai-raises-191m?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 09 Nov 2026 15:40:00 GMT",
+     "summary": "AI-powered financial analysis and modelling platform geniosAI has emerged from stealth with $19.1 million in funding led by FactSet.",
+     "source": "Finextra",
+     "zh": "Financial intelligence platform geniosAI raises $19.1m"
+    },
+    {
+     "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+     "link": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+     "pubDate": "Mon, 09 Nov 2026 15:35:45 GMT",
+     "summary": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba",
+     "source": "Financial Times",
+     "zh": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors"
+    },
+    {
+     "title": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%",
+     "link": "https://wallstreetcn.com/articles/3785518",
+     "pubDate": "Mon, 09 Nov 2026 23:11:46 +0800",
+     "summary": "美股在经历标普500指数近一年来最差单周表现后，周一盘前出现企稳迹象。与此同时，英伟达首席执行官黄仁勋承认婚外情并公开致歉，令这家芯片巨头股价再度承压。 英伟达美股开盘跌8.8%，目前跌幅收窄至不足5%。此前CEO黄仁勋公开承认婚外情，公司董事会已启动调查。 标普500指数涨约1.6%，道指涨超1.3%，纳指涨超2%，半导体指数涨超3.4%，银行指数涨3.3%，罗素2000指数涨1.2%。 纳斯达克100指涨2.2%，成分股Lumentum涨7.9%，应用材料、西部数据涨超7%，亚马逊、希捷科技涨5.8%，汤森路透跌1.3%，拼多多跌2.4%，Strategy跌4.4%。 谷歌母公司Alpha",
+     "source": "华尔街见闻",
+     "zh": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%"
     }
    ]
   },
@@ -2504,6 +2504,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Did human sacrifice help lower violence? New research in Peru leaves intriguing question",
+     "link": "https://www.livescience.com/archaeology/americas/did-human-sacrifice-help-lower-violence-new-research-in-peru-leaves-intriguing-question",
+     "pubDate": "Mon, 09 Nov 2026 20:52:27 +0000",
+     "summary": "In a key coastal area of Peru, violence was low despite the practice of human sacrifice.",
+     "source": "Live Science",
+     "zh": "Did human sacrifice help lower violence? New research in Peru leaves intriguing question"
+    },
     {
      "title": "Drugs like Ozempic may help reverse chronic kidney disease",
      "link": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
@@ -2647,14 +2655,6 @@
      "summary": "The Vikings are famous for being warriors, but how frequently did Viking women take part in battles?",
      "source": "Live Science",
      "zh": "How frequently did Viking women fight in battle?"
-    },
-    {
-     "title": "The Maya used so much red paint that they poisoned their water with mercury, mud sediments reveal",
-     "link": "https://www.livescience.com/archaeology/americas/the-maya-used-so-much-red-paint-that-they-poisoned-their-water-with-mercury-mud-sediments-reveal",
-     "pubDate": "Sat, 07 Nov 2026 18:00:00 +0000",
-     "summary": "Researchers found extreme levels of mercury in sediment cores in Mexico ‪—‬ and it’s all because the Maya loved red paint.",
-     "source": "Live Science",
-     "zh": "The Maya used so much red paint that they poisoned their water with mercury, mud sediments reveal"
     },
     {
      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",

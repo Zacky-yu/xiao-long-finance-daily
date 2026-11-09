@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/9 15:11:56",
+ "generated_at": "2026/11/9 15:32:02",
  "recent_days": 7,
  "industries": [
   {
@@ -298,6 +298,54 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung's Texas fab may begin trial runs in December"
     },
     {
+     "title": "Jensen Huang apologises: Nvidia board investigates",
+     "link": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:18:52 +0000",
+     "summary": "After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior exec at Singapore datacentre company Megaspeed, who U.S. intelligence officials believe is a Chinese spy, the board of […] The post Jensen Huang apologises: Nvidia board investigates appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Jensen Huang apologises: Nvidia board investigates"
+    },
+    {
+     "title": "TSMC rumoured to be eyeing 3D DRAM",
+     "link": "https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:17:29 +0000",
+     "summary": "TSMC is said to have appointed vp Hsu Kuo-Chin to look at how the company could get into 3D DRAM according to multiple industry reports, but it would seem that […] The post TSMC rumoured to be eyeing 3D DRAM appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "TSMC rumoured to be eyeing 3D DRAM"
+    },
+    {
+     "title": "Toshiba gets £20m government contract to commercialise quantum",
+     "link": "https://www.electronicsweekly.com/news/business/toshiba-gets-20-million-government-contract-to-commercialise-quantum-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:16:36 +0000",
+     "summary": "Toshiba Europe has been awarded a contract by Innovate UK, part of UK Research and Innovation (UKRI), to develop technologies that can help unlock the commercial potential of quantum networks. […] The post Toshiba gets £20m government contract to commercialise quantum appeared first on Electronics W",
+     "source": "Electronics Weekly",
+     "zh": "Toshiba gets £20m government contract to commercialise quantum"
+    },
+    {
+     "title": "European AI companies have raised $27.6bn this year",
+     "link": "https://www.electronicsweekly.com/news/business/european-ai-companies-have-raised-27-6bn-this-year-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:14:27 +0000",
+     "summary": "Europe AI companies raised $27.6B in the first nine months of 2026, up 3.2x from $8.6B in 9M 2025, says Tracxn Technologies. The ten largest rounds raised $19.0B of that, […] The post European AI companies have raised $27.6bn this year appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "European AI companies have raised $27.6bn this year"
+    },
+    {
+     "title": "Consoles Take A Dive",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/consoles-take-a-dive-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:14:25 +0000",
+     "summary": "The world’s leading video game console makers Sony and Nintendo both reported a steep decline in Q3 hardware sales as recent price increases soured demand for the latest generation of […] The post Consoles Take A Dive appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Consoles Take A Dive"
+    },
+    {
+     "title": "GF to run 7nm process next year",
+     "link": "https://www.electronicsweekly.com/news/business/gf-to-run-7nm-process-next-year-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:11:54 +0000",
+     "summary": "Globalfoundries says it intends to demo a 7nm FDSOI process in early 2027 called FDX Fusion. The process claims to deliver more than double the transistor density of first-generation 22FDX, […] The post GF to run 7nm process next year appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "GF to run 7nm process next year"
+    },
+    {
      "title": "Musk's Terafab reportedly targets memory output on par with Samsung's DRAM capacity",
      "link": "https://www.digitimes.com/news/a20261109VL222/terafab-dram-capacity-elon-musk.html",
      "pubDate": "Mon, 9 Nov 2026 06:10:26 GMT",
@@ -448,46 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Infineon Technologies AG of Munich, Germany and SOLUM of Seoul, South Korea have signed a memorandum of understanding (MoU) to strengthen their existing collaboration on high-voltage direct current (HVDC) power solutions for AI data centers. Building on their ongoing technical cooperation, the compa",
      "source": "Semiconductor Today",
      "zh": "Infineon and SOLUM strengthen collaboration on HVDC power solutions for AI data centers"
-    },
-    {
-     "title": "Adding Network Security To AI, HPC, And Data Centers",
-     "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
-     "pubDate": "Thu, 05 Nov 2026 08:06:45 +0000",
-     "summary": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, HPC, And Data Centers appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Adding Network Security To AI, HPC, And Data Centers"
-    },
-    {
-     "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
-     "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
-     "pubDate": "Thu, 05 Nov 2026 08:05:35 +0000",
-     "summary": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Turning Conv2D Into A Practical GPU Compute Pattern"
-    },
-    {
-     "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
-     "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:55 +0000",
-     "summary": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. The post A System-Level Approach To Protecting 3D-IC Signal Integrity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "A System-Level Approach To Protecting 3D-IC Signal Integrity"
-    },
-    {
-     "title": "Fitting AI Models To Edge Applications",
-     "link": "https://semiengineering.com/fitting-ai-models-to-edge-applications/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:08 +0000",
-     "summary": "Compression can shrink AI models, but efficient edge deployment starts with matching the architecture to the workload and hardware limits. The post Fitting AI Models To Edge Applications appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Fitting AI Models To Edge Applications"
-    },
-    {
-     "title": "Why Testing Automated Driving Is Harder Than It Looks",
-     "link": "https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/",
-     "pubDate": "Thu, 05 Nov 2026 08:02:40 +0000",
-     "summary": "Instead of waiting for rare situations to occur on public roads, engineers can create those situations virtually. The post Why Testing Automated Driving Is Harder Than It Looks appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why Testing Automated Driving Is Harder Than It Looks"
     }
    ]
   },
@@ -1746,20 +1754,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "《战地风云 6》玩家称被无故永久封号，起诉 EA 并胜诉",
-     "link": "https://www.ithome.com/1/024/290.htm",
-     "pubDate": "Mon, 09 Nov 2026 07:06:25 GMT",
-     "summary": "IT之家 11 月 9 日消息，一名《战地风云 6》（Battlefield 6）玩家在没有得到明确解释的情况下被 EA 永久封禁账号，随后将 EA 告上巴西法庭并成功胜诉。法院裁定，EA 必须恢复该玩家的账号访问权限，并永久保障其游戏账号正常使用。 IT之家注意到，数月前，Reddit 用户 Rychadv 曾在 r/Battlefield 论坛发帖投诉，称自己结束长时间休息、重新登录《战地风云 6》时，发现账号已被封禁。近日，他再次发帖宣布胜诉，并表示：“我把他们告上了法庭，而且赢了。” 在最初的帖子中，Rychadv 表示：“我只是启动了游戏，结果迎面而来的就是一条封禁通知。”他还称，自",
+     "title": "荣耀 MagicOS 11 系统第三批内测报名通道重新开放，覆盖 Robot Phone、Magic5 系列等 28 款机型",
+     "link": "https://www.ithome.com/1/024/308.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:26:36 GMT",
+     "summary": "IT之家 11 月 9 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日宣布，MagicOS 11 系统第三批内测报名通道重新开放， 覆盖 Robot Phone、Magic5 系列等 28 款机型 。 手机： 荣耀 Robot Phone 、Magic Vs3、Magic V2 RSR 保时捷设计、Magic V2 至臻版、Magic V2、Magic5 至臻版、Magic5 Pro、Magic5、GT、300 Ultra、300 Pro、300、200 Pro、200、100 Pro、100、90 GT、Power、X80 Pro Max、X70 Pro Max、X70 焕新版、X70 平板",
      "source": "IT之家",
-     "zh": "《战地风云 6》玩家称被无故永久封号，起诉 EA 并胜诉"
+     "zh": "荣耀 MagicOS 11 系统第三批内测报名通道重新开放，覆盖 Robot Phone、Magic5 系列等 28 款机型"
     },
     {
-     "title": "Visa 携手八达通扩展香港二维码支付网络，海外游客可扫码支付",
-     "link": "https://www.ithome.com/1/024/289.htm",
-     "pubDate": "Mon, 09 Nov 2026 07:01:51 GMT",
-     "summary": "IT之家 11 月 9 日消息，Visa 公司今日宣布与八达通卡有限公司合作，进一步扩展 Visa Scan to Pay 在香港特别行政区的覆盖网络， 让海外消费者可在全香港的八达通二维码商户 ， 使用 Visa 支持的二维码支付服务 。 IT之家了解到，访问香港的海外旅客现已使用 Hyundai Card（现代卡）、Woori Card（友利卡）、Samsung Card（三星信用卡）和 VNPT Money（越南邮政通信集团的支付平台）应用程序，在支持八达通 QR Code 的商户付款，未来还将支持 LINE Pay 和 Shinhan Card（新韩卡）等国际支付方式。 据了解，Vis",
+     "title": "限时一口价 20.69 万元起，2026 款凯迪拉克 CT5 上市",
+     "link": "https://www.ithome.com/1/024/307.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:25:21 GMT",
+     "summary": "IT之家 11 月 9 日消息，据汽车之家报道，2026 款凯迪拉克 CT5 现已上市。新车主要是配置层面的调整，共计推出 4 款车型，售价 28.99 万元起， 限时一口价 20.69 万元起 。 该车各版本售价如下： 车型 售价（万元） 限时一口价（万元） 城市风尚版 28.99 20.69 城市运动版 29.99 21.59 赛道性能版 32.09 24.59 巅峰赛道选装包 34.59 26.59 据介绍，2026 款凯迪拉克 CT5 主要是微调了配置。其中，2026 款 28T 城市风尚版和 2026 款 28T 城市运动版 WLTC 综合油耗从 7.51L/100km 变为 7.6",
      "source": "IT之家",
-     "zh": "Visa 携手八达通扩展香港二维码支付网络，海外游客可扫码支付"
+     "zh": "限时一口价 20.69 万元起，2026 款凯迪拉克 CT5 上市"
+    },
+    {
+     "title": "AYANEO 攻氪 KONKR Pocket Advance 掌机新增“冰透粉”配色，11 月 10 日上市",
+     "link": "https://www.ithome.com/1/024/306.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:25:01 GMT",
+     "summary": "IT之家 11 月 9 日消息，AYANEO 宣布为旗下攻氪 KONKR Pocket Advance 掌机新增一款“冰透粉配色”，该机采用半透明机身设计，将于 11 月 10 日晚 8 点上市。 该机尺寸为 151.3mm × 82.4mm × 22mm，重量约 224g。正面搭载一块 3.5 英寸 960 × 640 分辨率 3:2 LCD 屏，使用联发科 Helio G90T 处理器，主动散热系统通过风扇辅助散热，内置 4000mAh 电池；配备 USB-C 2.0 &nbsp;接口，搭载 MicroSD 卡槽和 3.5mm 耳机接口，支持 Wi-Fi 5 与蓝牙 5.0。",
+     "source": "IT之家",
+     "zh": "AYANEO 攻氪 KONKR Pocket Advance 掌机新增“冰透粉”配色，11 月 10 日上市"
+    },
+    {
+     "title": "微软申请新专利：AI 实时修改直播说话内容并同步嘴型",
+     "link": "https://www.ithome.com/1/024/305.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:23:22 GMT",
+     "summary": "IT之家 11 月 9 日消息，微软近日提交了一项专利申请，计划利用人工智能技术，在直播及其他实时视频节目中近乎实时地修改人物说出的内容。更特别的是，这项技术还能重新绘制说话者的嘴唇动作，让观众难以察觉原本说出的话已经被替换。 这项专利的编号为 US 2026/0341309 A1，名称为《利用人工智能近乎实时增强直播活动的视频或增强现实（AR）演示》（Near Real-Time Artificial Intelligence (AI) Enhancement of Video or Augmented Reality (AR) Presentations of Live Events）。 ",
+     "source": "IT之家",
+     "zh": "微软申请新专利：AI 实时修改直播说话内容并同步嘴型"
+    },
+    {
+     "title": "开发者在任天堂 Switch 游戏机上成功运行苹果 iPadOS 27，顺利启用液态玻璃效果",
+     "link": "https://www.ithome.com/1/024/304.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:21:08 GMT",
+     "summary": "IT之家 11 月 9 日消息，开发者 brunostjohn 发文，宣布已成功将苹果 iPadOS 27.2 原生移植至任天堂 Switch 游戏机，并在设备上成功启用 Liquid Glass（液态玻璃）界面效果。 开发者表示，该系统并非通过模拟器跑动，而是直接在 Switch 搭载的 NVIDIA Tegra X1 芯片上运行，尽管当前 GPU 驱动仍有部分问题需要修复，不过目前液态玻璃效果已成功渲染，在部分场景下甚至可实现 60 FPS 帧率。 此外，开发者还对 iPadOS 进行了界面适配调整，解决了部分系统元素显示尺寸过小的问题，让系统在 Switch 屏幕上具备更好的实际可用性。",
+     "source": "IT之家",
+     "zh": "开发者在任天堂 Switch 游戏机上成功运行苹果 iPadOS 27，顺利启用液态玻璃效果"
+    },
+    {
+     "title": "韩电商巨头 Coupang（酷澎）滥用外卖市场支配地位，被重罚超 3000 亿韩元",
+     "link": "https://www.ithome.com/1/024/303.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:18:38 GMT",
+     "summary": "IT之家 11 月 9 日消息，据路透社报道，韩国公平交易委员会今天（9 日）宣布，对电商巨头 Coupang（下称酷澎）处以 3,009 亿韩元 （IT之家注：现汇率约合 14.82 亿元人民币） 罚款，认定其 滥用外卖市场支配地位，妨碍市场竞争 。 该国公平交易委员会指出，酷澎要求入驻商家提供 不逊于其他外卖平台的优惠条件 ， 并对不配合的商家采取惩罚措施 ，限制了外卖平台之间的竞争。 酷澎要求餐厅遵守六项规定，涵盖 菜品价格、最低起送金额、折扣和配送费 等方面。未达到要求的餐厅可能被取消特殊商家资格，从而无法再向酷澎付费会员提供折扣和免配送费服务。 监管数据显示，符合规定的餐厅比例从 2",
+     "source": "IT之家",
+     "zh": "韩电商巨头 Coupang（酷澎）滥用外卖市场支配地位，被重罚超 3000 亿韩元"
+    },
+    {
+     "title": "巴西水泥都产能过剩了，中国企业为什么还要买？",
+     "link": "https://www.huxiu.com/article/4904131.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 15:14:58 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 巴西一批水泥工厂，五年间经历了两次跨国资本交易。 2021年，瑞士建材巨头Holcim决定退出巴西水泥市场，将当地业务出售给巴西国家钢铁公司CSN，交易基础价格为10.25亿美元。 五年后，CSN也准备出售水泥业务。 11月7日，中国华新建材与CSN签署收购协议，拟收购后者旗下CSN Cimentos 99.99%的股权。 交易企业价值127亿雷亚尔，约合23.1亿美元，预计股权收购价16.42亿美元。收购仍需中巴两国监管部门批准。 这次交易的资产范围更大。除了当年收购的Holcim工厂，还包括CSN原有的水泥业务及其他并购资产。",
+     "source": "虎嗅",
+     "zh": "巴西水泥都产能过剩了，中国企业为什么还要买？"
+    },
+    {
+     "title": "苹果CEO上火了：AI给我搞快点，别磨叽了，要更大突破",
+     "link": "https://www.huxiu.com/article/4904130.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 15:08:08 +0800",
+     "summary": "本文来自微信公众号： 大橘财经 ，作者：赖家琪，原文标题：《苹果CEO上火了：AI给我搞快点，别磨叽了，要更大突破！》 这几年，在人工智能（AI）领域的落后是苹果公司的一大“心病”，新首席执行官（CEO）约翰·特努斯上任后，正试图推动公司尽快追赶。 当地时间11月8日，美国彭博社长期追踪苹果公司的记者马克·古尔曼爆料称，虽然特努斯在公开场合对苹果AI表现出积极态度，但他私下很清楚，公司在这一领域仍远远落后于竞争对手。 特努斯希望苹果在AI上取得更大进展。最近几周，他与公司软件负责人克雷格·费德里吉（Craig Federighi）举行闭门会议，敦促后者加快研发，不要再将工作重点局限于对Siri",
+     "source": "虎嗅",
+     "zh": "苹果CEO上火了：AI给我搞快点，别磨叽了，要更大突破"
+    },
+    {
+     "title": "哈尔滨银行拟出清930亿，时间换空间能走多远？",
+     "link": "https://www.huxiu.com/article/4904129.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 15:07:35 +0800",
+     "summary": "本文来自微信公众号： 正经社 ，作者：智者正叔，原文标题：《哈尔滨银行拟出清930亿，时间换空间能走多远？丨正经深度》 2026年10月末，哈尔滨银行在港交所发布的非常重大公告显示，其拟将账面价值929.91亿元的资产包，以929.57亿元的价格出售给哈尔滨城银资产。 交易价格和账面净值相差0.34亿元，折价率只有0.037%，基本是按照账面价值从表外剔除。公告之后第二个交易日，哈尔滨银行港股大涨超过7%。 不过，这笔平价交易背后，逾期90天以上的占了全部的48.17%，接近一半。城银资产63.44%的对价是由城银资产发行10年期专项票据支付的。 问题在于，哈尔滨银行用一张10年期的票据，换取",
+     "source": "虎嗅",
+     "zh": "哈尔滨银行拟出清930亿，时间换空间能走多远？"
     },
     {
      "title": "创业成功，退出，我的复盘",
@@ -1768,14 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 老杨在成长 ，首发于2026年2月5日，作者：杨昱轩，原文标题：《创业成功，退出，4000字复盘》，题图来自：AI生成 去年7月，我加入了一支AI智能硬件的创业团队。最近 （2026年2月） ，我决定从公司退伙，结束这段创业旅程。 做出这个决定是基于多方面的考虑，有对产品和市场发展前景的疑问，也有团队自身的原因，等等。 去年10月，我写了：《 消失3个月，我去做AI创业了，分享6个思考 》 ，其中讲过参与创业的目的，那就是用心体验这段经历： 我想体验的是： 与一群心力能量很高、价值观一致的伙伴工作，能创造出怎样的东西； 不带期待地行动，能获得一些什么； 我的智慧与能力，到",
      "source": "虎嗅",
      "zh": "创业成功，退出，我的复盘"
-    },
-    {
-     "title": "自取其辱：玩家向《使命召唤》官号反映游戏账号“无故被封”，官方调出其作弊视频公开处刑",
-     "link": "https://www.ithome.com/1/024/288.htm",
-     "pubDate": "Mon, 09 Nov 2026 07:01:36 GMT",
-     "summary": "IT之家 11 月 9 日消息，据 4Gamers 报道，近日一名玩家向《使命召唤》官方账号申诉，称自己“账号无故被封”，然而官方直接公开了其作弊证据视频，令这场申诉演变成一场“公开处刑”，引发玩家社区热议。 IT之家获悉，X 平台一位用户 @AnYPtv_ 于 11 月 4 日发文联系《使命召唤》系列客服，询问自己的账号为何突然遭到永久封禁，称自己此前既没有收到违规警告，也没有被限制进入俗称“小黑屋”的作弊者专属匹配对局。 然而，第二天官方直接公开了一段记录该玩家作弊行为的游戏视频，可以看到该玩家利用游戏系统漏洞进入了特殊的机器人刷分对局。画面中，敌方角色仿佛失去行动能力一般，整齐地站在玩家",
-     "source": "IT之家",
-     "zh": "自取其辱：玩家向《使命召唤》官号反映游戏账号“无故被封”，官方调出其作弊视频公开处刑"
     },
     {
      "title": "Welcome to Weed Island",
@@ -1802,44 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达最大的风险不在芯片上，在黄仁勋的脑袋里"
     },
     {
-     "title": "俄乌冲突，何去何从",
-     "link": "https://www.huxiu.com/article/4904125.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 14:58:02 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：观察者网，原文标题：《《这就是中国》：俄乌冲突，何去何从》 俄乌冲突已延宕4年多，此时此刻再来观察战局，能看出什么？在东方卫视11月2日播出的《这就是中国》的节目中，复旦大学中国研究院院长张维为教授和中国社会科学院军控中心研究员、战略军事学者洪源教授，一起展开讨论。 洪源：今天我的演讲题目是“俄乌冲突正在走向何方”。 第一，是俄乌冲突战场的范围和定义。俄乌冲突究竟是什么？是东西方矛盾和对抗的又一轮发作过程。东欧平原国家作为东西方地缘战略走廊，几千年来永远是战争爆发的走廊。 我们知道经济决定政治，政治又决定了军事和战争。北约东扩的实质是一场金融霸权、资本力",
-     "source": "虎嗅",
-     "zh": "俄乌冲突，何去何从"
-    },
-    {
-     "title": "南非贸易官：这绝不是针对中国企业，我们也没有特别盯着中国企业",
-     "link": "https://www.huxiu.com/article/4904124.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 14:57:28 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：观察者网 第九届中国国际进口博览会（CIIE 2026）正在上海隆重举行。这届进博会汇聚162个国家、地区和国际组织，4142家境外企业参展；也吸引了多国政要在同期举办的《虹桥论坛》上商讨开放与贸易之道。 在虹桥论坛《自由公平贸易与产业竞争力合作》分论坛上，南非国际贸易管理委员会主席阿亚邦加·卡维（Ayabonga Cawe）与中国商务部贸易救济调查局局长彭涛、梅赛德斯奔驰股份公司董事会成员佟欧福等，坦诚交流了全球地缘政治下的公平贸易与合作。 作为中国在非洲的第一大贸易伙伴和最重要的投资目的地之一，南非与全球很多国家一样，遭遇全球关税战之苦：不但去年被美",
-     "source": "虎嗅",
-     "zh": "南非贸易官：这绝不是针对中国企业，我们也没有特别盯着中国企业"
-    },
-    {
-     "title": "雷神酷睿 Ultra 7 处理器 256V 迷你主机 MIX NEO 在售，到手价 3824.15 元起",
-     "link": "https://www.ithome.com/1/024/283.htm",
-     "pubDate": "Mon, 09 Nov 2026 06:56:54 GMT",
-     "summary": "IT之家 11 月 9 日消息，雷神 (THUNDEROBOT) 已于早些时候在电商平台上架了 MIX NEO 迷你主机。这一新品 基于英特尔酷睿 Ultra 7 处理器 256V ，集成 16GB LPDDR5X-8533 内存，到手价 3824.15 元起。 MIX NEO 三维 128×128×53.5 (mm)，体积不足 0.9L，质量约 480g， 满载噪声低至 29.5dB(A) ，附送壁挂套件。 其提供 2 个 M.2 2280 插槽，配备 Wi-Fi 6 &amp; 蓝牙 5.4 无线网卡；正面提供 1 个 USB-C 40Gbps、2 个 USB-A 10Gbps、1 个 3",
-     "source": "IT之家",
-     "zh": "雷神酷睿 Ultra 7 处理器 256V 迷你主机 MIX NEO 在售，到手价 3824.15 元起"
-    },
-    {
-     "title": "全空间保鲜 + EPP 超净系统：海尔云溪 503L 法式多门冰箱 7999 → 3499 元国补探新低",
-     "link": "https://www.ithome.com/1/024/279.htm",
-     "pubDate": "Mon, 09 Nov 2026 06:55:59 GMT",
-     "summary": "【京东活动可能随时变更，需以实付款为准】 海尔 · 云溪 503L 法式多门冰箱（型号：BCD-503WGHFD1CYXU1）官方定价 7999 元。 京东 11.11 大促期间，按下方步骤下单，今晚 20 点叠加 15% 国补后仅需 3499 元： 领 4000-500 元券： 点此查看 。 领 1000-120 元券： 点此查看 。 下单时选择“以旧换新 → 个护健康 → 电动牙刷（无需回收）”补贴 179 元。 晒单返 20 元。 京东 海尔 云溪 503L 法式多门冰箱 BCD-503WGHFD1CYXU1 以旧换新后 3499 元 直达链接 赠 10 年压缩机延保卡，支持延迟发货 6",
-     "source": "IT之家",
-     "zh": "全空间保鲜 + EPP 超净系统：海尔云溪 503L 法式多门冰箱 7999 → 3499 元国补探新低"
-    },
-    {
-     "title": "狗中“美队”，融了13亿",
-     "link": "https://www.huxiu.com/article/4904123.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 14:55:25 +0800",
-     "summary": "本文来自微信公众号： 投中网 ，作者：李馨婷 两大明星独角兽联合背书。 作者李馨婷 本文字数2536 手搓量丨100%AI含量丨0% 来，让我们先复习一下《美国队长》的经典剧情：身材瘦弱的布鲁克林青年史蒂夫·罗杰斯，在注射了厄斯金博士研发的超级士兵血清后，获得了远超常人的体能、速度与恢复力，从此化身美国队长，成为美国精神的象征。 漫威长久以来寄托着美国人对超能力的想象。如今，这一幕正在被搬进现实。只不过，接受改造的不是人类士兵，而是冲锋陷阵的工作犬。扮演厄斯金博士角色的，则是两家美国科技独角兽。 近日，由美国科技企业家本·拉姆（Ben Lamm）和帕尔默·拉基（Palmer Luckey）创立",
-     "source": "虎嗅",
-     "zh": "狗中“美队”，融了13亿"
+     "title": "Being a meat proxy for AI should be grounds for getting people fired",
+     "link": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+     "pubDate": "Mon, 09 Nov 2026 06:55:38 +0000",
+     "summary": "Article URL: https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired Comments URL: https://news.ycombinator.com/item?id=50422001 Points: 10 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Being a meat proxy for AI should be grounds for getting people fired"
     },
     {
      "title": "Google rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
@@ -1848,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jay Bonggolto / Android Central : Google rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more &nbsp; &mdash;&nbsp; Google's latest Googlebook update frees up to 6GB of RAM and fixes Chrome crashes. &hel",
      "source": "Techmeme",
      "zh": "Google rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)"
-    },
-    {
-     "title": "富士 2027 财年上半年归母净利润 1052.26 亿日元，同比下降 12.5%",
-     "link": "https://www.ithome.com/1/024/252.htm",
-     "pubDate": "Mon, 09 Nov 2026 06:31:44 GMT",
-     "summary": "IT之家 11 月 9 日消息，富士今日发布 2027 财年（2026 年 4 月 1 日～2027 年 3 月 31 日）上半年（2026 年 4 月 1 日～2026 年 9 月 30 日）业绩快报报告： 营业收入 ：17,115.14 亿日元 （IT之家注：现汇率约合 721.54 亿元人民币） ，同比增长 8.8% 毛利润 ：6,915.45 亿日元 （现汇率约合 291.54 亿元人民币） ，同比增长 7.2% 毛利率 ：40.4%，同比下降约 0.6 个百分点 营业利润 ：1,411.68 亿日元 （现汇率约合 59.51 亿元人民币） ，同比下降 10.9% 归母净利润 ：1,0",
-     "source": "IT之家",
-     "zh": "富士 2027 财年上半年归母净利润 1052.26 亿日元，同比下降 12.5%"
     },
     {
      "title": "Asahi Linux 从 MIT 许可证切换到 GPL 许可证",
@@ -1872,14 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "Peter Millard / Bloomberg : Sources: ByteDance seeks to expand its data center project in Ceara, Brazil, with a second phase larger than its ongoing $10B, 300MW project &nbsp; &mdash;&nbsp; TikTok owner ByteDance is considering expanding a data center project in northeastern Brazil, a move that woul",
      "source": "Techmeme",
      "zh": "Sources: ByteDance seeks to expand its data center project in Ceara, Brazil, with a second phase larger than its ongoing $10B, 300MW project (Peter Millard/Bloomberg)"
-    },
-    {
-     "title": "Apple capped engineers at a $200 daily AI budget",
-     "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
-     "pubDate": "Mon, 09 Nov 2026 05:30:11 +0000",
-     "summary": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1 Comments URL: https://news.ycombinator.com/item?id=50421426 Points: 51 # Comments: 52",
-     "source": "Hacker News",
-     "zh": "Apple capped engineers at a $200 daily AI budget"
     },
     {
      "title": "When talking about AI safety, President Trump says \"I don&apos;t mind guardrails. But I don&apos;t wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "A Critique of GPUI",
      "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
      "pubDate": "Mon, 09 Nov 2026 03:51:10 +0000",
-     "summary": "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui Comments URL: https://news.ycombinator.com/item?id=50420857 Points: 67 # Comments: 29",
+     "summary": "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui Comments URL: https://news.ycombinator.com/item?id=50420857 Points: 72 # Comments: 34",
      "source": "Hacker News",
      "zh": "A Critique of GPUI"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "The Qlobe: Rotating Quine (2010)",
      "link": "http://mamememo.blogspot.com/2010/09/qlobe.html",
      "pubDate": "Mon, 09 Nov 2026 03:15:17 +0000",
-     "summary": "Article URL: http://mamememo.blogspot.com/2010/09/qlobe.html Comments URL: https://news.ycombinator.com/item?id=50420599 Points: 15 # Comments: 0",
+     "summary": "Article URL: http://mamememo.blogspot.com/2010/09/qlobe.html Comments URL: https://news.ycombinator.com/item?id=50420599 Points: 19 # Comments: 0",
      "source": "Hacker News",
      "zh": "The Qlobe: Rotating Quine (2010)"
     },
@@ -1993,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Android Auto drops Android 9 and 10 as Google confirms new minimum requirements",
+     "link": "https://www.androidauthority.com/android-auto-android-11-minimum-requirement-3732760/",
+     "pubDate": "Mon, 09 Nov 2026 07:24:02 +0000",
+     "summary": "Android Auto minimum requirements jump to Android 11.",
+     "source": "Android Authority",
+     "zh": "Android Auto drops Android 9 and 10 as Google confirms new minimum requirements"
+    },
     {
      "title": "The Oppo Reno17 and Reno17 Pro are launching next week",
      "link": "https://www.gsmarena.com/the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400.php",
@@ -2178,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "7 apps that still look terrible on foldables, and Google should call them out first"
     },
     {
-     "title": "The best Android browser isn’t on the Play Store. Here’s how to install it",
-     "link": "https://www.androidauthority.com/solipsism-browser-android-how-to-download-3731532/",
-     "pubDate": "Sun, 08 Nov 2026 10:00:33 +0000",
-     "summary": "Chrome who? This browser plays by different rules.",
-     "source": "Android Authority",
-     "zh": "The best Android browser isn’t on the Play Store. Here’s how to install it"
-    },
-    {
      "title": "Deals: vivo X500 Pro and X500 Pro Max come with freebies, the Oppo Find X10 series has a small discount",
      "link": "https://www.gsmarena.com/deals_vivo_x500_pro_and_x500_pro_max_come_with_freebies_the_oppo_find_x10_series_has_a_small_discoun-news-75384.php",
      "pubDate": "Sun, 08 Nov 2026 10:01:02 +0100",
@@ -2242,52 +2250,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "英伟达美股夜盘跌幅扩大至逾5%，此前黄仁勋承认婚外情并致歉",
-     "link": "http://stock.eastmoney.com/news/1768,202611093926214073.html",
-     "pubDate": "Mon, 09 Nov 2026 15:04:29 +0800",
-     "summary": "英伟达 美股夜盘跌幅扩大至逾5%，此前黄仁勋承认婚外情并致歉。 （文章来源：哈富快讯）",
+     "title": "外交部：巴基斯坦航天员参加神舟24号载人飞行任务 将是中国载人航天史上首次中外航天员联合飞行",
+     "link": "http://finance.eastmoney.com/news/1351,202611093926225647.html",
+     "pubDate": "Mon, 09 Nov 2026 15:22:48 +0800",
+     "summary": "11月9日，外交部发言人郭嘉昆主持例行记者会。有记者提问，据报道，一名巴基斯坦航天员将以载荷专家身份参加神舟24号载人飞行任务，在完成短期在轨飞行后，随神舟23号载人飞船返回。请问中方对此有何评论？ 郭嘉昆表示，探索浩瀚宇宙、和平利用外空，是全人类的共同理想，关乎全人类共同福祉。中国一贯倡导和平利用外空，积极开展国际航天合作，推动在外空领域构建人类命运共同体。 郭嘉昆说，中国和巴基斯坦是全天候战略合作伙伴，巴基斯坦航天员参与有关飞行任务，将是中国载人 航天工程 历史上首次中外航天员联合飞行，也是中国空间站首次迎来外籍航天员到访，这是中巴建交75周年之际两国合作取得的又一重要成果。中方愿同巴方赓",
      "source": "东方财富股票",
-     "zh": "英伟达美股夜盘跌幅扩大至逾5%，此前黄仁勋承认婚外情并致歉"
+     "zh": "外交部：巴基斯坦航天员参加神舟24号载人飞行任务 将是中国载人航天史上首次中外航天员联合飞行"
     },
     {
-     "title": "三星SDI将为波士顿动力旗下机器人Atlas供应电池",
-     "link": "http://finance.eastmoney.com/news/1360,202611093926213956.html",
-     "pubDate": "Mon, 09 Nov 2026 15:02:24 +0800",
-     "summary": "三星SDI将为波士顿动力公司（现代 汽车 集团旗下 机器人 子公司）开发的人形 机器人 Atlas供应 电池 。尽管LG能源解决方案公司也被选为供应商，但由于产能有限，预计三星SDI将负责几乎所有初期出货，并在一段时间内保持独家供应商的地位。每台 机器人 将使用70个圆柱形2170 电池 单元，直径21毫米，高度70毫米。 （文章来源：科创板日报）",
+     "title": "今日全市场共54股涨停，连板股9只",
+     "link": "http://stock.eastmoney.com/news/11215,202611093926225310.html",
+     "pubDate": "Mon, 09 Nov 2026 15:21:52 +0800",
+     "summary": "南方财经11月9日电，今日全市场共54股涨停，连板股总数9只，44股封板未遂，封板率为55%（不含 ST股 、退市股）。焦点股方面， 光伏概念 股 闽发铝业 11天7板，短剧概念股 文投控股 14天7板、 大晟文化 6天4板，医疗板块 澳洋健康 9天5板。 （文章来源：南方财经网）",
      "source": "东方财富股票",
-     "zh": "三星SDI将为波士顿动力旗下机器人Atlas供应电池"
+     "zh": "今日全市场共54股涨停，连板股9只"
     },
     {
-     "title": "德国9月季调后贸易帐156亿欧元 预期196亿欧元",
-     "link": "http://finance.eastmoney.com/news/1351,202611093926213855.html",
-     "pubDate": "Mon, 09 Nov 2026 15:00:31 +0800",
-     "summary": "德国9月季调后贸易帐156亿欧元，预期196亿欧元，前值由195亿欧元修正为194亿欧元。 （文章来源：财联社）",
+     "title": "特朗普政府要求中国协助结束与伊朗冲突？外交部：相关方应该坚持和平选择",
+     "link": "http://finance.eastmoney.com/news/1345,202611093926225269.html",
+     "pubDate": "Mon, 09 Nov 2026 15:21:51 +0800",
+     "summary": "11月9日，外交部发言人郭嘉昆主持例行记者会。有外媒记者提问，据《华盛顿邮报》报道，特朗普政府要求中国协助其结束与伊朗的冲突，请问外交部能否证实？ 郭嘉昆指出，美伊战事延宕不符合当事方和国际社会的共同利益，相关方应该坚持和平选择，通过对话谈判化解争端，推动尽早恢复中东海湾地区的和平安宁。 （文章来源：澎湃新闻）",
      "source": "东方财富股票",
-     "zh": "德国9月季调后贸易帐156亿欧元 预期196亿欧元"
+     "zh": "特朗普政府要求中国协助结束与伊朗冲突？外交部：相关方应该坚持和平选择"
+    },
+    {
+     "title": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题 外交部回应",
+     "link": "http://finance.eastmoney.com/news/1345,202611093926225071.html",
+     "pubDate": "Mon, 09 Nov 2026 15:21:11 +0800",
+     "summary": "11月9日，外交部发言人郭嘉昆主持例行记者会。法新社记者提问，美国总统特朗普说，他可能会同中国和俄罗斯两国元首在APEC深圳峰会期间举行会晤，讨论终止美伊冲突以及无核化等问题。请问外交部能否就此提供更多细节？ 郭嘉昆表示，中方就中俄美元首会晤同相关方保持着沟通。“关于你提到的具体问题，我目前没有可以提供的信息。” （文章来源：澎湃新闻）",
+     "source": "东方财富股票",
+     "zh": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题 外交部回应"
+    },
+    {
+     "title": "搜狐Q3财报总收入1.33亿美元 营销服务收入同比增长10%",
+     "link": "http://stock.eastmoney.com/news/11228,202611093926225515.html",
+     "pubDate": "Mon, 09 Nov 2026 15:20:56 +0800",
+     "summary": "11月9日， 搜狐 公司公布了2026年第三季度财务报告。财报显示， 搜狐 第三季度总收入为1.33亿美元。其中， 搜狐 公司营销服务收入为1500万美元，在线游戏收入为1.14亿美元。 搜狐公司董事长兼首席执行官张朝阳评论：“2026年第三季度，我们的营销服务收入达到此前预期高线，在线游戏收入以及集团净亏损均符合此前预期。” 财报显示，第三季度营销服务收入为1500万美元，同比增长10%；在线游戏收入为1.14亿美元，同比下降30%；净亏损为1500万美元。 “在搜狐视频关注流方面，我们通过举办众多标志性活动，不断增强社交属性，促进各个垂类中用户之间的真人社交及活跃互动。同时，依托产品矩阵及",
+     "source": "东方财富股票",
+     "zh": "搜狐Q3财报总收入1.33亿美元 营销服务收入同比增长10%"
+    },
+    {
+     "title": "上海静安进博会意向采购订单创新高，欧莱雅、嘉吉等签约",
+     "link": "http://finance.eastmoney.com/news/1354,202611093926225451.html",
+     "pubDate": "Mon, 09 Nov 2026 15:19:19 +0800",
+     "summary": "11月7日，上海市静安区在国家会展中心举行第九届进博会交易会暨招商推介会。欧莱雅、嘉吉、Calvin Klein、蔻驰、佳丽宝、多特瑞、百佑佳、益持科技等企业在会上完成意向采购签约。 静安区介绍，本届进博会静安交易分团的意向采购订单创历届新高，美妆护肤、高端珠宝、时尚服饰、健康生活等领域的采购额持续增长。 会上，静安区启动“投资静安·未来合伙人”计划。该计划由静安区投资办牵头，联合区内产业部门、功能片区和街镇发起，推动企业在静安设立总部、建设研发载体和搭建产业链平台。 首批“未来合伙人”包括嘉吉美丽护理、维九量子、易才数科、盈康一生、Vely B（维丽比）、影目科技和守一秉常等，涉及美妆健康、",
+     "source": "东方财富股票",
+     "zh": "上海静安进博会意向采购订单创新高，欧莱雅、嘉吉等签约"
+    },
+    {
+     "title": "马斯克Terafab目标曝光：瞄准月产70万片存储芯片晶圆，接近三星DRAM总产能",
+     "link": "https://wallstreetcn.com/articles/3785534",
+     "pubDate": "Mon, 09 Nov 2026 15:18:58 +0800",
+     "summary": "马斯克旗下半导体合资企业Terafab正将触角伸向全球存储芯片产能的核心地带。据日经新闻报道，Terafab已向半导体设备供应商透露，计划于2032年实现月产100万片晶圆的产能目标，其中70万片用于存储芯片、30万片用于逻辑芯片。 这一目标的震撼之处在于其存储芯片规模：三星目前DRAM月产能约为65万至70万片晶圆， Terafab的存储芯片目标与之相当。对于一家尚处起步阶段的新进入者而言，能否在约六年内复制三星现有规模，将是对整个行业格局的重大考验。 据日经新闻，Terafab的调达团队已秘密访问日本制造装置厂商并洽谈订单，日本半导体业界人士将其列为当前\"最热话题\"，远超本土企业。与此同时",
+     "source": "华尔街见闻",
+     "zh": "马斯克Terafab目标曝光：瞄准月产70万片存储芯片晶圆，接近三星DRAM总产能"
+    },
+    {
+     "title": "【风口研报】马斯克抛太空算力蓝图!海内外发射任务密集推进 商业航天产业节奏有望提速",
+     "link": "http://stock.eastmoney.com/news/1405,202611093926219746.html",
+     "pubDate": "Mon, 09 Nov 2026 15:10:00 +0800",
+     "summary": "A股三大指数今日涨跌不一，沪指小幅上涨，深成指与创业板指冲高回落。截止收盘，沪指涨0.32%，深证成指跌0.27%，创业板指跌0.27%。沪深京三市成交额不足1.5万亿，较上一交易日缩量近2000亿。行业板块涨跌互现， 煤炭 、 机器人 、 稀土 、 元件 、航天装备板块涨幅居前， 能源金属 、 光伏设备 、 教育 、 酒店餐饮 板块跌幅居前。个股方面，上涨股票数量超过2200只，近60只股票涨停。 当地时间11月6日，马斯克在巴伦投资大会上披露， SpaceX 已订购6000个服务器机柜用于2027年太空 数据中心 ，目标2028年实现1GW在轨算力；Starlink V4单星标配10条10",
+     "source": "东方财富资讯",
+     "zh": "【风口研报】马斯克抛太空算力蓝图!海内外发射任务密集推进 商业航天产业节奏有望提速"
+    },
+    {
+     "title": "Asian stocks rebound after AI rout",
+     "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+     "pubDate": "Mon, 09 Nov 2026 07:09:17 GMT",
+     "summary": "Declines last week had pushed many indices into bear market territory",
+     "source": "Financial Times",
+     "zh": "Asian stocks rebound after AI rout"
+    },
+    {
+     "title": "12月1日起全国推行！公安部推出5项交管便民利企新措施",
+     "link": "http://www.eeo.com.cn/2026/1109/1088467.shtml",
+     "pubDate": "Mon, 09 Nov 2026 15:08:57 +0800",
+     "summary": "公安部推出进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施，将自12月1日起在全国全面推行。",
+     "source": "经济观察网",
+     "zh": "12月1日起全国推行！公安部推出5项交管便民利企新措施"
     },
     {
      "title": "沪指小幅收涨 深成指与创业板指冲高回落 煤炭与机器人板块走强",
      "link": "http://finance.eastmoney.com/news/1345,202611093926213181.html",
      "pubDate": "Mon, 09 Nov 2026 15:00:12 +0800",
      "summary": "A股三大指数今日涨跌不一，沪指小幅上涨，深成指与创业板指冲高回落。截止收盘，沪指涨0.32%，收报3660.79点；深证成指跌0.27%，收报11145.49点；创业板指跌0.27%，收报2458.56点。沪深京三市成交额1.49万亿，较上一交易日缩量1771亿。 行业板块涨跌互现，煤炭、机器人、稀土、 元件、 航天装备板块涨幅居前， 能源金属、 光伏设备、教育、酒店餐饮板块跌幅居前。 个股方面，上涨股票数量超过2200只，近60只股票涨停。煤炭板块走强，郑州煤电、安泰集团涨停； 机器人概念涨幅居前 ，华培动力、日盈电子、金固股份涨停； 冰雪经济表现活跃，冰山冷热、龙江交通走出8天4板，晶雪节",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "沪指小幅收涨 深成指与创业板指冲高回落 煤炭与机器人板块走强"
     },
     {
-     "title": "第四届中俄地方投资发展与贸易合作大会在沈阳开幕",
-     "link": "http://finance.eastmoney.com/news/1350,202611093926213485.html",
-     "pubDate": "Mon, 09 Nov 2026 14:59:00 +0800",
-     "summary": "据辽宁日报消息，11月9日，第四届中俄地方投资发展与贸易合作大会在沈阳开幕。辽宁省委副书记、省长王新伟说，辽宁愿与俄地方各界一道，赓续传统友好，深化互利合作，积极培育 跨境电商 、数字贸易、绿色贸易等新增长点，围绕生物医药、能源装备、精细化工、 新材料 、 农产品 精深加工、智能制造等领域加强产业链精准对接和协同创新，支持企业、高校和科研机构开展联合攻关、加快成果转化，密切 教育 、文化、艺术、旅游、体育等领域交流，不断增进友谊、实现共同发展。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "第四届中俄地方投资发展与贸易合作大会在沈阳开幕"
-    },
-    {
-     "title": "联博集团分析师Stacy Rasgon维持英伟达买入评级",
-     "link": "http://finance.eastmoney.com/news/1354,202611093926213089.html",
-     "pubDate": "Mon, 09 Nov 2026 14:58:23 +0800",
-     "summary": "联博集团分析师Stacy Rasgon维持 英伟达 买入评级，并将目标价从275美元上调至400美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "联博集团分析师Stacy Rasgon维持英伟达买入评级"
+     "title": "黄仁勋丑闻搅动市场，英伟达夜盘承压下跌6%，亚洲股市强势反弹、日经收涨2.3%，油价下跌",
+     "link": "https://wallstreetcn.com/articles/3785518",
+     "pubDate": "Mon, 09 Nov 2026 14:59:55 +0800",
+     "summary": "亚洲股市周一大幅反弹，从上周美国中期选举引发的科技股抛售中企稳。与此同时，英伟达首席执行官黄仁勋承认婚外情并公开致歉，令这家芯片巨头股价再度承压。 中国台湾证券交易所加权股价指数收涨4.9%，报41,661.70点，结束七连跌。日经225指数收涨2.3%，报58,775.50点；东证指数收涨3%，报3818.16点；韩国首尔综指收跌0.8%，报5018.85点。纳斯达克100指数期货亚市开盘一度下跌近1%，随后收复失地。 巴克莱（Barclays）策略师Themistoklis Fiotakis领衔撰写的客户报告指出，\"历史上不乏事后看来鲁莽冒险的案例，市场对人工智能的最终判断尚未明朗。尽管如",
+     "source": "华尔街见闻",
+     "zh": "黄仁勋丑闻搅动市场，英伟达夜盘承压下跌6%，亚洲股市强势反弹、日经收涨2.3%，油价下跌"
     },
     {
      "title": "从研究框架到原料开发，BeauEver加码抗老研发",
@@ -2354,44 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sohu.com GAAP EPS of -$0.60, revenue of $133M"
     },
     {
-     "title": "20多万元/只 实验猴身价不到1年翻倍！养殖企业：不预订 有需要明年初再来谈",
-     "link": "http://finance.eastmoney.com/news/1354,202611093926173635.html",
-     "pubDate": "Mon, 09 Nov 2026 14:03:40 +0800",
-     "summary": "近日，实验猴价格再度走高的消息引发关注。 11月9日，红星资本局以购猴者身份致电位于广东、广西、四川的部分实验动物养殖企业，均被告知食蟹猴已被订完。四川一家实验猴养殖企业的工作人员表示，目前食蟹猴价格在20万元出头，现在无法预订，如有需要可以等到明年初再来询问。 此外，广西、广东均有猴场表示，其养殖的实验猴是有固定合作客户的，不接外部订单，价格也不方便透露。 身价已突破20万 一年内实验猴价格翻倍 据财联社日前报道，有养殖企业给出的食蟹猴初步报价达到25万元-26万元/只。有生物医药企业相关人士表示，目前市场上还存在18万元-19万元/只的食蟹猴出厂价，养殖企业出厂价与最终采购价格并不相同，部",
-     "source": "东方财富资讯",
-     "zh": "20多万元/只 实验猴身价不到1年翻倍！养殖企业：不预订 有需要明年初再来谈"
-    },
-    {
-     "title": "全国多所学校推迟到校时间 要解决什么问题",
-     "link": "http://finance.eastmoney.com/news/11158,202611093926174174.html",
-     "pubDate": "Mon, 09 Nov 2026 13:58:30 +0800",
-     "summary": "近期，全国多地有学校宣布，将延迟学生到校时间，涵盖小学到高中。 据《扬子晚报》报道，11月起，南京多所中学的上下学时间有所调整。一位南京江宁高一学生家长告诉记者：“我们家以前6:40进班，晚上9:30下晚自习，现在调整为7:15进班，9:20下晚自习。”另据江阴发布，11月5日起，江阴中小学调整上学时间，计划本周落实到位，小学、初中、高中具体到校时间分别调整为：8:00、7:40和7:20。 多所学校调整上学时间的背后，是“学生在校时间过长”引发的广泛关注。 在今年10月27日《政风热线·我来帮你问厅长》直播中，江苏省内高中生家长反映，孩子在校时长普遍达到15小时，部分甚至超过16小时。江苏省",
-     "source": "东方财富资讯",
-     "zh": "全国多所学校推迟到校时间 要解决什么问题"
-    },
-    {
-     "title": "科技股经历疫情以来最惨烈一周，大摩：AI交易跑到了马拉松的“撞墙时刻”",
-     "link": "https://wallstreetcn.com/articles/3785522",
-     "pubDate": "Mon, 09 Nov 2026 13:51:36 +0800",
-     "summary": "美国科技股本周遭遇新冠疫情以来最猛烈的一次抛售，AI交易的核心逻辑正面临系统性拷问。摩根士丹利认为，这场行情不是短暂的风格轮动，而是一场马拉松跑到第20英里时的\"撞墙\"——最痛苦的考验，往往就在终点线看似触手可及之时。 周四，纳斯达克100指数单日暴跌6.4%，创2020年3月以来最差单日表现；费城半导体指数重挫12.2%，为历史第二大单日跌幅。摩根士丹利美国科技、媒体及电信动量因子较6月高点已累计下跌70%，创下有记录以来最大年度回撤。对冲基金净杠杆率一周内骤降至42%，处于2010年以来的第8百分位，过去一年更是处于第0百分位。 中期选举结果成为直接导火索。民主党在各州选举中的胜利引发外界",
-     "source": "华尔街见闻",
-     "zh": "科技股经历疫情以来最惨烈一周，大摩：AI交易跑到了马拉松的“撞墙时刻”"
-    },
-    {
      "title": "Alphabet maintains massive SpaceX bet, initiates $548M Qualcomm stake",
      "link": "https://seekingalpha.com/news/4668792-alphabet-maintains-massive-spacex-bet-initiates-548m-qualcomm-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 09 Nov 2026 00:47:02 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Alphabet maintains massive SpaceX bet, initiates $548M Qualcomm stake"
-    },
-    {
-     "title": "中美经贸罕见同步释放善意 最新解读",
-     "link": "http://stock.eastmoney.com/news/11215,202611093926166163.html",
-     "pubDate": "Mon, 09 Nov 2026 13:46:32 +0800",
-     "summary": "一周之内，中美经贸罕见地\"你来我往\"，且方向一致，这引发市场的高度关注。 先是11月6日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特、贸易代表格里尔举行视频通话。双方围绕落实好中美元首北京和华盛顿会晤重要共识与经贸磋商成果，就彼此关心的重要经贸问题进行了坦诚、深入、建设性的交流。中方就近期美对华经贸限制措施表达严正关切，双方同意在两国元首战略引领下，继续发挥好中美经贸磋商机制作用，持续加强合作、妥善管控分歧。 紧跟着，美方于11月8日落地实质动作。美国贸易代表办公室（USTR）公告，原定美东时间11月9日到期的178项对华301关税豁免顺利延期至2027年1月9日",
-     "source": "东方财富资讯",
-     "zh": "中美经贸罕见同步释放善意 最新解读"
     },
     {
      "title": "Constellation Software declares $1.00 dividend",
@@ -2464,22 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "To keep power and make real change, they need to tell the American people painful truths",
      "source": "Financial Times",
      "zh": "What Democrats must do now"
-    },
-    {
-     "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe&apos;s defenses",
-     "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
-     "pubDate": "Mon, 09 Nov 2026 05:00:01 GMT",
-     "summary": "Cyberattacks on fridges in supermarkets and a wave of bomb threats are testing Europe’s ability to withstand disruption to crucial infrastructure.",
-     "source": "CNBC",
-     "zh": "From supermarket fridges to passenger flights, a wave of threats is testing Europe&apos;s defenses"
-    },
-    {
-     "title": "Asian stocks rebound after AI rout",
-     "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
-     "pubDate": "Mon, 09 Nov 2026 04:54:20 GMT",
-     "summary": "Declines last week had pushed many indices into bear market territory",
-     "source": "Financial Times",
-     "zh": "Asian stocks rebound after AI rout"
     }
    ]
   },

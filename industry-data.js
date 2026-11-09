@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/10 04:32:33",
+ "generated_at": "2026/11/10 04:52:08",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Exploring the world's languages with Language Explorer",
+     "link": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+     "pubDate": "Mon, 09 Nov 2026 20:29:39 +0000",
+     "summary": "Natural Language Processing",
+     "source": "Google Research",
+     "zh": "Exploring the world's languages with Language Explorer"
+    },
     {
      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
      "source": "OpenAI",
      "zh": "Kuken Industries searches 70 years of drawings in minutes"
-    },
-    {
-     "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
-     "link": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
-     "pubDate": "Mon, 09 Nov 2026 07:55:18 +0000",
-     "summary": "0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider. The post 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and M",
-     "source": "MarkTechPost",
-     "zh": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP"
     }
    ]
   },
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "How early efforts to build autonomous clinical AI tools are approaching regulation",
+     "link": "https://endpoints.news/how-early-efforts-to-build-autonomous-clinical-ai-tools-are-approaching-regulation/",
+     "pubDate": "Mon, 09 Nov 2026 20:40:03 +0000",
+     "summary": "Multiple teams participating in ARPA-H’s Advocate program have already had an initial informational meeting with the FDA, less than two months after the clinical AI initiative launched, ARPA-H program manager Haider Warraich said on Thursday. ...",
+     "source": "Endpoints News",
+     "zh": "How early efforts to build autonomous clinical AI tools are approaching regulation"
+    },
+    {
      "title": "Trump’s drug pricing deals force tough choices on launches",
      "link": "https://endpoints.news/trumps-drug-pricing-deals-force-tough-choices-on-launches/",
      "pubDate": "Mon, 09 Nov 2026 20:00:21 +0000",
@@ -1176,14 +1184,6 @@ window.INDUSTRY_DATA = {
      "summary": "Plus, news about Immunovant, Abeona Therapeutics, Ellodi Pharmaceuticals, Spruce Biosciences, Adrenyx Biosciences, Edesa Biotech, Kyorin Pharmaceutical, Charles River Laboratories, Frontage, Compass Pathways, Johnson & Johnson, Veradermics and Valneva. CorMedix acquires Heron portfolio: CorMedix",
      "source": "Endpoints News",
      "zh": "Heron sells assets to CorMedix for $145M upfront; Faeth's stock tumbles"
-    },
-    {
-     "title": "Neuroplastogen biotech Delix raises $100M Series C",
-     "link": "https://endpoints.news/neuroplastogen-biotech-delix-raises-100m-series-c/",
-     "pubDate": "Mon, 09 Nov 2026 16:01:05 +0000",
-     "summary": "Delix Therapeutics has raised $100 million in a Series C to catch up to a budding crop of psychedelics and neuroplastogen drugmakers, cashing in on a new wave of medicines for psychiatric and mental health ...",
-     "source": "Endpoints News",
-     "zh": "Neuroplastogen biotech Delix raises $100M Series C"
     },
     {
      "title": "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+     "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+     "pubDate": "Mon, 09 Nov 2026 20:19:56 GMT",
+     "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
+     "source": "Dark Reading",
+     "zh": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India"
+    },
+    {
      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
      "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
      "pubDate": "Mon, 09 Nov 2026 13:32:42 -0500",
@@ -1730,14 +1738,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI Gave Your Incident Archive a Second Job"
     },
     {
-     "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-     "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-     "pubDate": "Fri, 06 Nov 2026 14:00:00 GMT",
-     "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-     "source": "Dark Reading",
-     "zh": "Why Europe's Freezer Hacks Spread So Far, So Fast"
-    },
-    {
      "title": "Want to Rent an Internet Address at the White House?",
      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
      "pubDate": "Thu, 05 Nov 2026 04:36:17 +0000",
@@ -1762,12 +1762,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+     "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+     "pubDate": "Mon, 09 Nov 2026 20:04:55 +0000",
+     "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 11 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far"
+    },
+    {
      "title": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
      "link": "https://www.techmeme.com/261109/p40#a261109p40",
      "pubDate": "Mon, 09 Nov 2026 15:00:51 -0500",
      "summary": "Frederic Lardinois / The New Stack : Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens &nbsp; &mdash;&nbsp; On Monday, Anthropic launched Claude Fable 5.2 and Mythos 5.2, the latest versions of ",
      "source": "Techmeme",
      "zh": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)"
+    },
+    {
+     "title": "USPS now offers official ZIP Code boundary polygons",
+     "link": "https://postalpro.usps.com/zcb",
+     "pubDate": "Mon, 09 Nov 2026 19:58:59 +0000",
+     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 57 # Comments: 26",
+     "source": "Hacker News",
+     "zh": "USPS now offers official ZIP Code boundary polygons"
     },
     {
      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "CUI – Native UI components for C",
      "link": "https://yappologistic.github.io/CUI/",
      "pubDate": "Mon, 09 Nov 2026 19:35:16 +0000",
-     "summary": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 27 # Comments: 3",
+     "summary": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 54 # Comments: 16",
      "source": "Hacker News",
      "zh": "CUI – Native UI components for C"
     },
@@ -1797,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
      "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
      "pubDate": "Mon, 09 Nov 2026 19:33:09 +0000",
-     "summary": "Article URL: https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges Comments URL: https://news.ycombinator.com/item?id=50430585 Points: 17 # Comments: 7",
+     "summary": "Article URL: https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges Comments URL: https://news.ycombinator.com/item?id=50430585 Points: 41 # Comments: 33",
      "source": "Hacker News",
      "zh": "Iran was behind cyber-attack on French supermarket freezers, Paris says"
     },
@@ -1853,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
      "pubDate": "Mon, 09 Nov 2026 18:56:29 +0000",
-     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 480 # Comments: 206",
+     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 596 # Comments: 300",
      "source": "Hacker News",
      "zh": "Claude Fable 5.2 and Mythos 5.2"
     },
@@ -1869,17 +1885,9 @@ window.INDUSTRY_DATA = {
      "title": "E-means: 10x faster k-means at equal loss",
      "link": "https://e-means.github.io/",
      "pubDate": "Mon, 09 Nov 2026 18:45:43 +0000",
-     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 55 # Comments: 2",
+     "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 88 # Comments: 3",
      "source": "Hacker News",
      "zh": "E-means: 10x faster k-means at equal loss"
-    },
-    {
-     "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-     "link": "https://meowdisplay.app/",
-     "pubDate": "Mon, 09 Nov 2026 18:39:22 +0000",
-     "summary": "Hey HN and Cats, thank you for checking this out! Github: https://github.com/raiseCatError/meowdisplay EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: https://github.com/peetzweg/opendisplay which provided the foundational screen capture, virtual display, encoding an",
-     "source": "Hacker News",
-     "zh": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse"
     },
     {
      "title": "Elliptic: hackers behind the $6.3B Binance heist created at least six memecoins on the NEAR blockchain network to launder about $430,000 of stolen funds (Emily Nicolle/Bloomberg)",
@@ -1888,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "Emily Nicolle / Bloomberg : Elliptic: hackers behind the $6.3B Binance heist created at least six memecoins on the NEAR blockchain network to launder about $430,000 of stolen funds &nbsp; &mdash;&nbsp; The hackers who stole $6.3 billion from Binance Holdings Ltd. in crypto's biggest ever heist have ",
      "source": "Techmeme",
      "zh": "Elliptic: hackers behind the $6.3B Binance heist created at least six memecoins on the NEAR blockchain network to launder about $430,000 of stolen funds (Emily Nicolle/Bloomberg)"
-    },
-    {
-     "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-     "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-     "pubDate": "Mon, 09 Nov 2026 18:33:58 +0000",
-     "summary": "Article URL: https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/ Comments URL: https://news.ycombinator.com/item?id=50429545 Points: 65 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "DeepX claims inference up to 100B parameters at less than 5 W"
     },
     {
      "title": "Meta releases Muse Ember, its smallest and most cost-efficient AI model yet, saying it delivers more intelligence per dollar than Haiku 5.5 and GPT-6 Luna (Russell Brandom/TechCrunch)",
@@ -2010,6 +2010,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
+     "link": "https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/",
+     "pubDate": "Mon, 09 Nov 2026 20:47:38 +0000",
+     "summary": "A new Financial Times report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026"
+    },
+    {
      "title": "From 13,500 submissions to 50 billboards: inside VSCO’s ambitious photo project",
      "link": "https://www.dpreview.com/interviews/from-13500-submissions-to-50-billboards-inside-vscos-ambitious-photo-project/",
      "pubDate": "Mon, 09 Nov 2026 20:28:16 +0000",
@@ -2112,14 +2120,6 @@ window.INDUSTRY_DATA = {
      "summary": "I’ve been on a Pelican kick this fall. It started with the Pelican MagSafe Wallet , then the Pelican MagSafe Battery Pack , and the reason is pretty simple: once the weather turns cool, I want iPhone accessories built for the outdoors because I am outside more. The Pelican Protector Magnetic Money C",
      "source": "9to5Mac",
      "zh": "MagSafe Monday: Pelican’s MagSafe wallet is built for the people who still carry cash"
-    },
-    {
-     "title": "Anthropic upgrades Claude with new Fable 5.2 model, details here",
-     "link": "https://9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here/",
-     "pubDate": "Mon, 09 Nov 2026 19:03:36 +0000",
-     "summary": "Anthropic is out with its second big update to Claude Fable 5 since introducing the model class back in June. Here’s what’s new with Claude Fable 5.2. more…",
-     "source": "9to5Mac",
-     "zh": "Anthropic upgrades Claude with new Fable 5.2 model, details here"
     },
     {
      "title": "Gmail users should know about this little-noticed feature",
@@ -2258,20 +2258,140 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Nvidia&apos;s CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-     "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-     "pubDate": "Mon, 09 Nov 2026 20:29:01 GMT",
-     "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
-     "source": "CNBC",
-     "zh": "Nvidia&apos;s CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight"
-    },
-    {
      "title": "Hegseth impeachment articles introduced by Rep. Massie",
      "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-     "pubDate": "Mon, 09 Nov 2026 20:25:23 GMT",
+     "pubDate": "Mon, 09 Nov 2026 20:49:14 GMT",
      "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth.",
      "source": "CNBC",
      "zh": "Hegseth impeachment articles introduced by Rep. Massie"
+    },
+    {
+     "title": "Analysts say these chip stocks are bargains. Is it time to buy?",
+     "link": "https://www.marketwatch.com/story/analysts-say-these-chip-stocks-are-bargains-is-it-time-to-buy-fb5fdde8?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 20:48:00 GMT",
+     "summary": "While some analysts view the steep drop in names like Nvidia, Micron and Sandisk as an overreaction, others are staying cautious.",
+     "source": "MarketWatch",
+     "zh": "Analysts say these chip stocks are bargains. Is it time to buy?"
+    },
+    {
+     "title": "Coherent continues rebound, rises 19%",
+     "link": "https://seekingalpha.com/news/4669202-coherent-continues-rebound-rises-19?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 15:44:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Coherent continues rebound, rises 19%"
+    },
+    {
+     "title": "GCM Grosvenor anticipates 7%-9% Q4 private markets management fee growth as 2026 fundraising aims to rival 2025",
+     "link": "https://seekingalpha.com/news/4669210-gcm-grosvenor-anticipates-7-percentminus-9-percent-q4-private-markets-management-fee-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 15:42:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GCM Grosvenor anticipates 7%-9% Q4 private markets management fee growth as 2026 fundraising aims to rival 2025"
+    },
+    {
+     "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+     "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 20:42:00 GMT",
+     "summary": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
+     "source": "MarketWatch",
+     "zh": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test."
+    },
+    {
+     "title": "法国外长巴罗9日称 伊朗对近期法国超市制冷系统受到网络攻击“负有责任”",
+     "link": "http://finance.eastmoney.com/news/1351,202611103926631697.html",
+     "pubDate": "Tue, 10 Nov 2026 04:41:59 +0800",
+     "summary": "法国外长巴罗9日称，伊朗对近期法国 超市 制冷系统受到网络攻击“负有责任”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "法国外长巴罗9日称 伊朗对近期法国超市制冷系统受到网络攻击“负有责任”"
+    },
+    {
+     "title": "As Nvidia probes Jensen Huang affair, here&apos;s the board member likely to play a big role",
+     "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+     "pubDate": "Mon, 09 Nov 2026 20:41:54 GMT",
+     "summary": "Stephen Neal is the board's lead independent director and head of corporate governance. Experts say how Nvidia handles the probe is crucial to retaining its reputation.",
+     "source": "CNBC",
+     "zh": "As Nvidia probes Jensen Huang affair, here&apos;s the board member likely to play a big role"
+    },
+    {
+     "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+     "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+     "pubDate": "Mon, 09 Nov 2026 20:41:38 GMT",
+     "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+     "source": "CNBC",
+     "zh": "PepsiCo to cut about 1,000 jobs as North American business struggles"
+    },
+    {
+     "title": "DOJ expected to opine on Union Pacific/Norfolk Southern deal in coming weeks - report",
+     "link": "https://seekingalpha.com/news/4669193-doj-expected-to-opine-on-union-pacificnorfolk-southern-deal-in-coming-weeks---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 15:38:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "DOJ expected to opine on Union Pacific/Norfolk Southern deal in coming weeks - report"
+    },
+    {
+     "title": "Tronox upgraded to Neutral at J.P. Morgan as shares near all-time lows",
+     "link": "https://seekingalpha.com/news/4669194-tronox-upgraded-to-neutral-at-jp-morgan-as-shares-near-all-time-lows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 15:36:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tronox upgraded to Neutral at J.P. Morgan as shares near all-time lows"
+    },
+    {
+     "title": "Warby Parker jumps 22%, continues earnings-inspired rally",
+     "link": "https://seekingalpha.com/news/4669199-warby-parker-jumps-22-continues-earnings-inspired-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 15:35:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Warby Parker jumps 22%, continues earnings-inspired rally"
+    },
+    {
+     "title": "美股三大指数均涨超2% 费城半导体指数涨超7% 国际油价走低",
+     "link": "http://finance.eastmoney.com/news/1345,202611093926568753.html",
+     "pubDate": "Tue, 10 Nov 2026 04:34:54 +0800",
+     "summary": "美东时间周一，美股三大指数走高，截至发稿， 纳斯达克 综合 指数涨3.03%，标普500指数涨2.60%，道琼斯指数涨2.33%。 大型科技股多数上涨，截至发稿，Meta涨5.19%， 特斯拉 涨5.15%， SpaceX 涨4.87%， 台积电 涨3.60%， 亚马逊 涨3.28%， 微软 涨2.33%， 苹果 涨2.01%， 谷歌-A 涨1.70%； 英伟达 跌5.56%，消息面上，黄仁勋个人丑闻发酵并遭内部调查。 美股 半导体 板块集体反弹，截至发稿，费城 半导体 指数涨7.55%。个股方面， 超威半导体 涨11.96%， 希捷科技 涨10.51%， 西部数据 涨10.15%， 博通 涨",
+     "source": "东方财富股票",
+     "zh": "美股三大指数均涨超2% 费城半导体指数涨超7% 国际油价走低"
+    },
+    {
+     "title": "Motorcar Parts of America expects $715M-$740M fiscal 2027 net sales as it cites $60M new annualized awards",
+     "link": "https://seekingalpha.com/news/4669206-motorcar-parts-of-america-expects-715m-740m-fiscal-2027-net-sales-as-it-cites-60m-new?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 15:32:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Motorcar Parts of America expects $715M-$740M fiscal 2027 net sales as it cites $60M new annualized awards"
+    },
+    {
+     "title": "黄仁勋的名字已从周一Anthropic CEO论坛议程中移除",
+     "link": "http://finance.eastmoney.com/news/1354,202611103926631510.html",
+     "pubDate": "Tue, 10 Nov 2026 04:31:50 +0800",
+     "summary": "黄仁勋的名字已从周一Anthropic CEO论坛议程中移除。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "黄仁勋的名字已从周一Anthropic CEO论坛议程中移除"
+    },
+    {
+     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 20:30:00 GMT",
+     "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+     "source": "MarketWatch",
+     "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
+    },
+    {
+     "title": "FCA explores use of quantum computing to tackle financial crime",
+     "link": "https://www.finextra.com/newsarticle/48730/fca-explores-use-of-quantum-computing-to-tackle-financial-crime?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 09 Nov 2026 20:29:00 GMT",
+     "summary": "The UK's Financial Conduct Authority is bringing together industry players to explore how quantum machine learning could help detect money laundering and fraud",
+     "source": "Finextra",
+     "zh": "FCA explores use of quantum computing to tackle financial crime"
+    },
+    {
+     "title": "国际油价9日显著下跌",
+     "link": "http://finance.eastmoney.com/news/1351,202611103926631036.html",
+     "pubDate": "Tue, 10 Nov 2026 04:28:51 +0800",
+     "summary": "截至当天收盘，纽约商品交易所12月交货的轻质原油 期货 价格下跌3.98美元，收于每桶86.85美元，跌幅为4.38%；1月交货的伦敦布伦特原油 期货 价格下跌5.75美元，收于每桶92.57美元，跌幅为5.85%。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "国际油价9日显著下跌"
     },
     {
      "title": "Jensen Huang affair puts Nvidia&apos;s future at risk, with no clear successor to the renowned CEO",
@@ -2282,20 +2402,20 @@ window.INDUSTRY_DATA = {
      "zh": "Jensen Huang affair puts Nvidia&apos;s future at risk, with no clear successor to the renowned CEO"
     },
     {
-     "title": "Winners and losers in the managed care repricing divide",
-     "link": "https://seekingalpha.com/news/4669019-winners-and-losers-in-the-managed-care-repricing-divide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 15:23:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Winners and losers in the managed care repricing divide"
+     "title": "上纬启元机器人生产基地落户杭州富阳",
+     "link": "http://finance.eastmoney.com/news/1354,202611103926631212.html",
+     "pubDate": "Tue, 10 Nov 2026 04:24:51 +0800",
+     "summary": "上纬新材 旗下启元 机器人 生产基地暨全国首个Expert个人 机器人 制造基地项目签约及上纬启元 机器人 全国总部运营中心揭牌活动11月9日在杭州 富阳 举行。上纬启元、 金固股份 、 富阳 产业投资集团三方在 富阳 开发区设立项目运营主体，并将同步设立上纬启元 机器人 全国总部运营中心，三方在具身智能与高端制造融合赛道进入实质落地阶段。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "上纬启元机器人生产基地落户杭州富阳"
     },
     {
-     "title": "LoanDepot expects $4.5B-$6.5B Q4 origination volume while targeting breakeven or profitability by first half or mid next year",
-     "link": "https://seekingalpha.com/news/4669198-loandepot-expects-4_5b-6_5b-q4-origination-volume-while-targeting-breakeven-or-profitability?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 15:21:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "LoanDepot expects $4.5B-$6.5B Q4 origination volume while targeting breakeven or profitability by first half or mid next year"
+     "title": "Anthropic路演最快本周二启动 AI抛售潮后IPO定价迎大考",
+     "link": "http://stock.eastmoney.com/news/1611,202611103926631170.html",
+     "pubDate": "Tue, 10 Nov 2026 04:24:13 +0800",
+     "summary": "AI概念股上周遭遇剧烈抛售之际，Anthropic的重磅IPO即将进入正式路演阶段。这家AI行业明星最快将于本周二启动IPO营销，力争在美国感恩节前完成上市，但市场对AI资产的风险偏好已经发生变化，其发行定价和投资者认购需求将接受严峻考验。 上周AI产业链股票集体重挫后，华尔街见闻提到，上周五的报道称，部分潜在投资者讨论的Anthropic估值已降至约1.2万亿至1.3万亿美元，甚至有人考虑低至1.1万亿美元，较此前1.4万亿至1.5万亿美元的市场预期明显下调，更远低于早前市场讨论的最高约2万亿美元估值。 这意味着，Anthropic即将面对的不仅是能否完成一笔超大型IPO，更是公开市场愿意为",
+     "source": "东方财富股票",
+     "zh": "Anthropic路演最快本周二启动 AI抛售潮后IPO定价迎大考"
     },
     {
      "title": "Anthropic路演最快本周二启动，AI抛售潮后IPO定价迎大考",
@@ -2306,44 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic路演最快本周二启动，AI抛售潮后IPO定价迎大考"
     },
     {
-     "title": "SpaceX plans $24B gas power plant, supercomputing facility in Texas",
-     "link": "https://seekingalpha.com/news/4669197-spacex-plans-24b-gas-power-plant-supercomputing-facility-in-texas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 15:16:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SpaceX plans $24B gas power plant, supercomputing facility in Texas"
-    },
-    {
      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
      "pubDate": "Mon, 09 Nov 2026 20:15:00 GMT",
      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
      "source": "MarketWatch",
      "zh": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home"
-    },
-    {
-     "title": "Cnh outlines $300M-$450M 2026 industrial free cash flow as Kobelco deal targets end-2027 close",
-     "link": "https://seekingalpha.com/news/4669196-cnh-outlines-300m-450m-2026-industrial-free-cash-flow-as-kobelco-deal-targets-endminus-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 15:12:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cnh outlines $300M-$450M 2026 industrial free cash flow as Kobelco deal targets end-2027 close"
-    },
-    {
-     "title": "Inflation is expected to remain stubborn in CPI's October reading",
-     "link": "https://seekingalpha.com/news/4669191-inflation-expected-to-remain-stubborn-in-cpis-october-reading?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 15:07:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Inflation is expected to remain stubborn in CPI's October reading"
-    },
-    {
-     "title": "Merck MASH asset efinopegdutide meets primary goal in mid-stage trial",
-     "link": "https://seekingalpha.com/news/4669185-merck-mash-asset-efinopegdutide-meets-primary-goal-mid-stage-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 15:02:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Merck MASH asset efinopegdutide meets primary goal in mid-stage trial"
     },
     {
      "title": "Nvidia shares fall as it probes alleged Chinese spy scandal",
@@ -2354,68 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia shares fall as it probes alleged Chinese spy scandal"
     },
     {
-     "title": "美股三大指数均涨超2% 费城半导体指数涨超6% 国际油价走低",
-     "link": "http://finance.eastmoney.com/news/1345,202611093926568753.html",
-     "pubDate": "Tue, 10 Nov 2026 03:52:54 +0800",
-     "summary": "美东时间周一，美股三大指数走高，截至发稿， 纳斯达克 综合 指数涨2.82%，标普500指数涨2.46%，道琼斯指数涨2.37%。 大型科技股多数上涨，截至发稿，Meta涨5.19%， 特斯拉 涨5.15%， SpaceX 涨4.87%， 台积电 涨3.60%， 亚马逊 涨3.28%， 微软 涨2.33%， 苹果 涨2.01%， 谷歌-A 涨1.70%； 英伟达 跌5.56%，消息面上，黄仁勋个人丑闻发酵并遭内部调查。 美股 半导体 板块集体反弹，截至发稿，费城 半导体 指数涨6.08%。个股方面， 超威半导体 涨11.96%， 希捷科技 涨10.51%， 西部数据 涨10.15%， 博通 涨",
-     "source": "东方财富股票",
-     "zh": "美股三大指数均涨超2% 费城半导体指数涨超6% 国际油价走低"
-    },
-    {
-     "title": "日元兑美元上涨0.5% 至157.68",
-     "link": "http://stock.eastmoney.com/news/1768,202611103926630139.html",
-     "pubDate": "Tue, 10 Nov 2026 03:50:48 +0800",
-     "summary": "日元兑美元上涨0.5%，至157.68。",
-     "source": "东方财富股票",
-     "zh": "日元兑美元上涨0.5% 至157.68"
-    },
-    {
-     "title": "国际油价短线走低",
-     "link": "http://stock.eastmoney.com/news/1768,202611103926630068.html",
-     "pubDate": "Tue, 10 Nov 2026 03:47:09 +0800",
-     "summary": "国际油价短线走低，截至目前，WTI原油 期货 价格跌5.73%，报85.625美元/桶；布伦特原油 期货 价格跌7.11%，报91.325美元/桶。",
-     "source": "东方财富股票",
-     "zh": "国际油价短线走低"
-    },
-    {
      "title": "Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still be the highest since 2000",
      "link": "https://www.marketwatch.com/story/gas-prices-are-finally-below-4-a-gallon-but-thanksgiving-fuel-costs-will-still-be-the-highest-since-2000-94a7865b?mod=mw_rss_topstories",
      "pubDate": "Mon, 09 Nov 2026 19:46:00 GMT",
      "summary": "‘I don’t think there’s much ability for us to avoid this being the most expensive Thanksgiving on record’ for gas prices, says Patrick De Haan at GasBuddy",
      "source": "MarketWatch",
      "zh": "Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still be the highest since 2000"
-    },
-    {
-     "title": "美国最高法院允许特朗普政府继续在大弯地区建设边境墙",
-     "link": "http://stock.eastmoney.com/news/1768,202611103926629935.html",
-     "pubDate": "Tue, 10 Nov 2026 03:45:49 +0800",
-     "summary": "美国最高法院允许特朗普政府继续在大弯地区建设边境墙。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国最高法院允许特朗普政府继续在大弯地区建设边境墙"
-    },
-    {
-     "title": "纳指短线升破3% 美、布两油短线下跌1.5美元 布油跌幅扩大至7%",
-     "link": "http://stock.eastmoney.com/news/1768,202611103926629849.html",
-     "pubDate": "Tue, 10 Nov 2026 03:44:36 +0800",
-     "summary": "纳指短线升破3%，美、布两油短线下跌1.5美元，布油跌幅扩大至7%；消息面上，据阿拉比亚电视台：阿拉伯消息人士称，华盛顿已允许伊朗境内浓缩丰度为3.67%的铀，德黑兰方面表示同意。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "纳指短线升破3% 美、布两油短线下跌1.5美元 布油跌幅扩大至7%"
-    },
-    {
-     "title": "美股三大指数涨幅扩大",
-     "link": "http://finance.eastmoney.com/news/1351,202611103926629323.html",
-     "pubDate": "Tue, 10 Nov 2026 03:42:12 +0800",
-     "summary": "美股三大指数涨幅扩大，截至目前，道琼斯指数涨2.43%，标普500指数涨2.61%， 纳斯达克 综合 指数涨3.02%。",
-     "source": "东方财富股票",
-     "zh": "美股三大指数涨幅扩大"
-    },
-    {
-     "title": "Elizabeth Warren set to take over the Senate banking committee. Here&apos;s what she plans to do",
-     "link": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
-     "pubDate": "Mon, 09 Nov 2026 19:34:43 GMT",
-     "summary": "Sen. Elizabeth Warren telegraphed her agenda for the Senate banking committee as Congress transfers to Democratic control",
-     "source": "CNBC",
-     "zh": "Elizabeth Warren set to take over the Senate banking committee. Here&apos;s what she plans to do"
     },
     {
      "title": "What employers should do to build a pipeline of talented Gen Z workers",
@@ -2442,36 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国民主党考虑以政府停摆为筹码，逼迫特朗普结束伊朗战争"
     },
     {
-     "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-     "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-     "pubDate": "Mon, 09 Nov 2026 18:33:00 GMT",
-     "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
-     "source": "MarketWatch",
-     "zh": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?"
-    },
-    {
-     "title": "Think the bond market is broken? History says a massive turnaround could be coming.",
-     "link": "https://www.marketwatch.com/story/think-the-bond-market-is-broken-history-says-a-massive-turnaround-could-be-coming-dfaae450?mod=mw_rss_topstories",
-     "pubDate": "Mon, 09 Nov 2026 18:26:00 GMT",
-     "summary": "Bond investors would do well to remember that it’s often darkest before the dawn.",
-     "source": "MarketWatch",
-     "zh": "Think the bond market is broken? History says a massive turnaround could be coming."
-    },
-    {
      "title": "纽约联储调查：美国消费者通胀预期稳定，失业率担忧升至2020年以来最高",
      "link": "https://wallstreetcn.com/articles/3785596",
      "pubDate": "Tue, 10 Nov 2026 02:22:20 +0800",
      "summary": "美国消费者对未来一年通胀预期保持稳定，但对劳动力市场的悲观情绪明显升温，折射出当前经济前景的内在矛盾。 纽约联储周一发布的月度消费者预期调查显示， 受访者对未来一年通胀的预期维持在3.9%，三年及五年通胀预期亦分别稳定在3.3%和3%。 与此同时，消费者对失业率上升的预期概率攀升至2020年4月以来最高水平，折射出民众对就业市场的隐忧。 通胀预期总体平稳，但就业前景的分歧将为美联储的政策路径提供重要参考。 多位美联储官员近期表示，需要通过渐进式加息将通胀压回2%的政策目标，10月消费者价格指数（CPI）数据将于周二公布，届时或进一步左右市场对货币政策走向的判断。 失业率担忧升至四年半高位，内部",
      "source": "华尔街见闻",
      "zh": "纽约联储调查：美国消费者通胀预期稳定，失业率担忧升至2020年以来最高"
-    },
-    {
-     "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
-     "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
-     "pubDate": "Mon, 09 Nov 2026 18:16:00 GMT",
-     "summary": "Rising prices point to the Fed increasing borrowing costs before Christmas.",
-     "source": "MarketWatch",
-     "zh": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track."
     },
     {
      "title": "Trump questions midterm election results, revives voting-machine conspiracy",
@@ -2488,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
      "source": "Financial Times",
      "zh": "How the world became too reliant on Jensen Huang"
-    },
-    {
-     "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
-     "link": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
-     "pubDate": "Mon, 09 Nov 2026 17:02:52 GMT",
-     "summary": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company",
-     "source": "Financial Times",
-     "zh": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?"
     }
    ]
   },

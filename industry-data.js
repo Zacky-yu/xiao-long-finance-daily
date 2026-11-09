@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/9 18:11:46",
+ "generated_at": "2026/11/9 18:31:54",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Precision Spatial Tracking for Autonomous Systems: Training Humanoid Robots and Drones with Optical Motion Capture",
+     "link": "https://roboticsandautomationnews.com/2026/11/09/precision-spatial-tracking-for-autonomous-systems-training-humanoid-robots-and-drones-with-optical-motion-capture/106784/",
+     "pubDate": "Mon, 09 Nov 2026 10:19:12 +0000",
+     "summary": "A robot can repeat a movement convincingly while still getting its position wrong. That leaves researchers with a measurement problem: a successful-looking demonstration doesn’t reveal whether the machine’s internal estimate matches its physical movement, especially when small errors carry through a",
+     "source": "Robotics & Automation",
+     "zh": "Precision Spatial Tracking for Autonomous Systems: Training Humanoid Robots and Drones with Optical Motion Capture"
+    },
+    {
      "title": "ARM Institute consortium grows to more than 500 organizations",
      "link": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations/",
      "pubDate": "Sun, 08 Nov 2026 13:00:23 +0000",
@@ -600,14 +608,6 @@ window.INDUSTRY_DATA = {
      "summary": "A fintech that processes a few hundred payments a day can still have someone look over them by hand. Once volumes climb into the tens of thousands, nobody can, and the monitoring has to run in software that scores each transaction and raises an alert when something looks wrong. Transaction monitorin",
      "source": "Robotics & Automation",
      "zh": "Top 6 AML Transaction Monitoring Tools for Fintech"
-    },
-    {
-     "title": "6 Best GEO Agencies for Brand Messaging Consistency",
-     "link": "https://roboticsandautomationnews.com/2026/11/05/6-best-geo-agencies-for-brand-messaging-consistency/106741/",
-     "pubDate": "Thu, 05 Nov 2026 14:22:58 +0000",
-     "summary": "As AI-powered search becomes more influential, consistency is becoming a competitive advantage. Platforms like ChatGPT, Gemini, Perplexity, Claude, and AI Overviews don’t evaluate a brand based on a single webpage. They build an understanding of a company using content, media coverage, thought leade",
-     "source": "Robotics & Automation",
-     "zh": "6 Best GEO Agencies for Brand Messaging Consistency"
     },
     {
      "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
@@ -842,6 +842,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Nordic-Power-Prices-Could-Soar-This-Winter-as-Hydropower-Reserves-Plunge.html",
+     "pubDate": "Mon, 09 Nov 2026 04:20:00 -0600",
+     "summary": "Low water levels in hydropower reservoirs and soaring natural gas prices are putting upward pressure on power prices in the Nordic countries as winter approaches, Denmark-based energy trader Mind Energy says. The surge in gas prices and potentially reduced hydropower generation in southern Norway an",
+     "source": "OilPrice",
+     "zh": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge"
+    },
+    {
+     "title": "European Energy and AirTrunk open 31MW Mulwala solar PV plant in New South Wales, Australia",
+     "link": "https://www.pv-tech.org/european-energy-and-airtrunk-open-31mw-mulwala-solar-pv-plant-in-new-south-wales-australia/",
+     "pubDate": "Mon, 09 Nov 2026 10:14:35 +0000",
+     "summary": "European Energy and data centre operator AirTrunk have officially opened the 31MW Mulwala solar PV plant in NSW.",
+     "source": "PV Tech",
+     "zh": "European Energy and AirTrunk open 31MW Mulwala solar PV plant in New South Wales, Australia"
+    },
+    {
      "title": "Every virtual megawatt needs a meter",
      "link": "https://www.utilitydive.com/spons/every-virtual-megawatt-needs-a-meter/873408/",
      "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
@@ -856,6 +872,22 @@ window.INDUSTRY_DATA = {
      "summary": "One study found $98M in missed revenue across 30 batteries. Better software controls can help capture it.",
      "source": "Utility Dive",
      "zh": "The next wave of energy storage capacity is already on the grid"
+    },
+    {
+     "title": "Beyond megawatts: Nuclear’s other capacity expansion challenge",
+     "link": "https://www.utilitydive.com/spons/beyond-megawatts-nuclears-other-capacity-expansion-challenge/873634/",
+     "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+     "summary": "In order to enable capital execution and capacity expansion, nuclear utilities must pair recruitment with strong retention and engagement.",
+     "source": "Utility Dive",
+     "zh": "Beyond megawatts: Nuclear’s other capacity expansion challenge"
+    },
+    {
+     "title": "Behind-the-meter power: An effective tool for bringing large utility customers online faster",
+     "link": "https://www.utilitydive.com/spons/behind-the-meter-power-an-effective-tool-for-bringing-large-utility-custom/833709/",
+     "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+     "summary": "Behind-the-meter (BTM) power is becoming an effective solution to bridge the gap between what the grid can provide and what data centers need to operate smoothly.",
+     "source": "Utility Dive",
+     "zh": "Behind-the-meter power: An effective tool for bringing large utility customers online faster"
     },
     {
      "title": "Solarwatt launches bifacial TOPCon solar module for BIPV applications",
@@ -994,14 +1026,6 @@ window.INDUSTRY_DATA = {
      "zh": "Democratic Win Set to Reshuffle U.S. Energy Policy"
     },
     {
-     "title": "The Global Race to Harness Solar Power From Space",
-     "link": "https://oilprice.com/Energy/Energy-General/The-Global-Race-to-Harness-Solar-Power-From-Space.html",
-     "pubDate": "Sun, 08 Nov 2026 14:00:00 -0600",
-     "summary": "Several countries around the globe are racing to develop space-based solar power (SBSP) systems to harness solar power from space. On Earth, solar power has become a popular form of renewable energy production. However, tapping solar power is limited by night, cloud cover, atmospheric conditions, an",
-     "source": "OilPrice",
-     "zh": "The Global Race to Harness Solar Power From Space"
-    },
-    {
      "title": "Bigger than Godzilla!",
      "link": "https://cleantechnica.com/2026/11/08/bigger-than-godzilla/",
      "pubDate": "Sun, 08 Nov 2026 19:29:31 +0000",
@@ -1056,30 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "PV Tech spoke with many industry experts about the midterm election results, covering topics such as permitting, state-level impact and investment appetite.",
      "source": "PV Tech",
      "zh": "Democratic sweep in US midterms brings reprieve for solar, but federal gridlock persists"
-    },
-    {
-     "title": "Voters gave a big middle finger to data centers",
-     "link": "https://www.canarymedia.com/articles/data-centers/data-center-voters-election-day",
-     "pubDate": "Fri, 06 Nov 2026 12:19:00 -0500",
-     "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Americans aren’t happy about the data center boom, and they made their displeasure pretty clear this Election Day. Voters not only selected a slate of Democratic candidates who campaigned aga",
-     "source": "Canary Media",
-     "zh": "Voters gave a big middle finger to data centers"
-    },
-    {
-     "title": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth",
-     "link": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
-     "pubDate": "Fri, 06 Nov 2026 11:10:36 -0500",
-     "summary": "&ldquo;It's too soon to tell exactly&rdquo; how the results of the midterm elections will impact Oncor, said CEO Allen Nye. &ldquo;We continue to believe that both parties want a strong and growing Texas.&rdquo;",
-     "source": "Utility Dive",
-     "zh": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth"
-    },
-    {
-     "title": "China’s soaring clean power curtailment highlights regulatory gaps",
-     "link": "https://www.pv-tech.org/chinas-soaring-clean-power-curtailment-highlights-regulatory-gaps/",
-     "pubDate": "Fri, 06 Nov 2026 16:09:34 +0000",
-     "summary": "In H1 2026, China rejected enough solar and wind to supply Mexico for a year. Carrie Xiao looks at the country’s curtailment problem.",
-     "source": "PV Tech",
-     "zh": "China’s soaring clean power curtailment highlights regulatory gaps"
     }
    ]
   },
@@ -1538,6 +1538,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+     "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+     "pubDate": "Mon, 09 Nov 2026 10:09:02 +0000",
+     "summary": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Over 3 Million People Hit by Frontline Education Data Breach"
+    },
+    {
      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
      "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
      "pubDate": "Mon, 09 Nov 2026 14:31:50 +0530",
@@ -1690,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days"
     },
     {
-     "title": "DigiCert Data Breach Impacts Business Customer Information",
-     "link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-     "pubDate": "Fri, 06 Nov 2026 14:00:07 +0000",
-     "summary": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "DigiCert Data Breach Impacts Business Customer Information"
-    },
-    {
      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
      "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
      "pubDate": "Fri, 06 Nov 2026 14:00:00 GMT",
@@ -1754,6 +1754,94 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Google AI 主管展示将《塞尔达传说：时之笛重制版》移植到苹果 iPhone Duo 上运行，招致版权争议最终删帖",
+     "link": "https://www.ithome.com/1/024/433.htm",
+     "pubDate": "Mon, 09 Nov 2026 10:26:33 GMT",
+     "summary": "IT之家 11 月 9 日消息，Google AI Studio 产品与设计主管 Ammaar Reshi 近期在 X 平台发文，展示其利用 AI 成功将任天堂《塞尔达传说：时之笛重制版》移植至 iPhone Duo 平台。 Ammaar Reshi 此次原本是想借此展示 Google 自家 Gemini 4 AI 模型能力，不过这种未经授权便对游戏进行逆向移植的做法本身严重侵犯任天堂版权，视频发布后引发大量用户批评，为了避免争议进一步升级，Ammaar Reshi 随后悄悄删除了相关贴文。 近期，业界已经出现多起利用 AI 对游戏进行逆向工程的案例，甚至有相关成果被用于勒索原开发者，进一步加",
+     "source": "IT之家",
+     "zh": "Google AI 主管展示将《塞尔达传说：时之笛重制版》移植到苹果 iPhone Duo 上运行，招致版权争议最终删帖"
+    },
+    {
+     "title": "北京人在冰岛",
+     "link": "https://www.huxiu.com/article/4904164.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 18:23:48 +0800",
+     "summary": "作者：轻舟，编辑：唐云路，题图来自：受访者供图 47岁的晓凌在冰岛工作，通常下午四点多就能下班。吃过晚饭，她会带狗出去走走，回来学冰岛语、追剧。 数年前一份偶然看到的招聘，把她带到了这个只有两千多人的小镇。那时，她刚读完自己的第二个硕士，还没决定留在冰岛还是回北京。她投了简历，和未来的主管聊得合拍，便决定留下来试试看。 这样的生活被报道之后，有人向往，也有人觉得&ldquo;谁受得了这样的生活？！&rdquo;晓凌和家人读着评论，都觉得很有意思。有些文章的标题用到了&ldquo;离婚后&rdquo;，她对此有一点小意见：那段婚姻很短暂，只是她人生中一段经历而已，与她来冰岛毫无关联，她甚至想不起",
+     "source": "虎嗅",
+     "zh": "北京人在冰岛"
+    },
+    {
+     "title": "对话田轩：稳住股市，究竟要稳住什么？",
+     "link": "https://www.huxiu.com/article/4904205.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 18:21:01 +0800",
+     "summary": "本文来自微信公众号： 和讯 ，作者：李悦 11月6日召开的国务院常务会议提出，完善资本市场稳市机制，增强股市内在稳定性，促进资本市场平稳健康发展。 这一最新部署，也让资本市场改革的下一程有了更清晰的落点：稳，不只是应对短期波动，更要形成支撑市场长期健康发展的制度能力。 新“国九条”以来，中国资本市场的制度拼图正在加速补齐。近70项配套政策文件密集出台，分红回购规模持续攀升，中长期资金入市通道不断拓宽，科创板、创业板、并购重组等改革纵深推进。 但制度供给的密集落地，并不意味着市场功能会自动实现。 上市门槛更加包容，为什么一些科技企业仍感觉股权融资不畅？新股“首日冲高、次日回落”，市场化定价还缺哪",
+     "source": "虎嗅",
+     "zh": "对话田轩：稳住股市，究竟要稳住什么？"
+    },
+    {
+     "title": "瑞银 CEO 安思杰：过去数周 AI 概念股大幅回调，源于投资者此前过高期望",
+     "link": "https://www.ithome.com/1/024/432.htm",
+     "pubDate": "Mon, 09 Nov 2026 10:19:11 GMT",
+     "summary": "IT之家 11 月 9 日消息，瑞银集团 CEO 安思杰今天（9 日）在悉尼举行的瑞银会议上指出，AI 概念股过去几周大幅回调，是因为投资者此前 对 AI 行业的期望过高 。 他表示，美国近期的中期选举结果，以及全球围绕基础设施扩建影响展开的讨论，都可能 拖慢 AI 行业取得预期成果的进程 。“直到不久前，市场定价都建立在 一切尽善尽美的预期 之上。当然，过去几周市场出现了一些回调。” 安思杰看好 AI 发展带来的经济效益，但认为市场对这些成果能够多快实现 过于乐观 。 上周，市场担忧美国民主党在选举中获胜后会推动收紧 AI 行业监管，导致全球股市市值蒸发数万亿美元。不过，美股在当地时间 6 ",
+     "source": "IT之家",
+     "zh": "瑞银 CEO 安思杰：过去数周 AI 概念股大幅回调，源于投资者此前过高期望"
+    },
+    {
+     "title": "传音预装带来的非洲用户，为什么留存被本地素材卡住了？",
+     "link": "https://www.baijing.cn/question/638623",
+     "pubDate": "Mon, 09 Nov 2026 10:14:28 +0000",
+     "summary": "我们在尼日利亚和肯尼亚做短剧，通过与传音预装合作拿到首批用户，起量阶段日新增约 8000，但 7 日留存只有 12%，低于自然量渠道的 19%。团队 9 人，内容本地化只有 2 人。试过把国内爆款剧直接配英文硬字幕、把都市霸总题材平移到拉各斯，也在南非投过一批本地演员翻拍的 15 秒素材，结果预装用户对“豪门继承”这类设定的完播率只有 23%，而家庭伦理、教会和彩礼冲突题材能到 41%。目前卡在不知道预装场景下的用户到底吃哪种叙事节奏和演员面孔，翻拍成本又压不住。想请教：判断非洲本地素材接受度，应该先看完播还是先看付费转化，取舍标准怎么定？",
+     "source": "白鲸出海",
+     "zh": "传音预装带来的非洲用户，为什么留存被本地素材卡住了？"
+    },
+    {
+     "title": "单机身 17999 → 13799 元：索尼 Alpha 7 Ⅴ 全画幅微单 11.11 国补直降",
+     "link": "https://www.ithome.com/1/024/429.htm",
+     "pubDate": "Mon, 09 Nov 2026 10:13:18 GMT",
+     "summary": "【京东活动可能随时变更，需以实付款为准】 索尼 Alpha 7 Ⅴ 全画幅微单相机（A7M5）发售于 2025 年 12 月 2 日，国行首发价为 17999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 13799 元： 点击下方卡片，可领 500 元券。 1000 元券：点击下方卡片 → 点击右上方 直播浮窗 → 直播间下单即可领取。 首购礼金立减 1896 元。 京东 索尼 ILCE-7M5 全画幅微单相机 单机身 国补后 13799 元 领 500 元券 国补可用地区 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽",
+     "source": "IT之家",
+     "zh": "单机身 17999 → 13799 元：索尼 Alpha 7 Ⅴ 全画幅微单 11.11 国补直降"
+    },
+    {
+     "title": "黄仁勋的麻烦，才刚开始",
+     "link": "https://www.huxiu.com/article/4904203.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 18:13:14 +0800",
+     "summary": "本文来自微信公众号： 版面之外 ，作者：画画 2024年6月台北的一场行业酒局上，身处声望顶峰的黄仁勋，被一众举杯敬酒的科技大佬环绕。紧靠在他身侧的，是一位身穿粉红色衣服的女性。 两年后，这张照片出现在《纽约时报》的报道中。 随后引发的这场风波，在黄仁勋11月8日发表公开道歉信后进一步升级。他在信中承认出轨，向妻子、家人，以及英伟达员工、董事会、合作伙伴和股东道歉。 这件事发展至今，早已超出一场简单的个人道德危机。 当一家市值数万亿美元的科技巨头，商业模式、全球客户信任乃至全球化议题，都与同一个人的个人声誉高度绑定时，个人风波就可能沿着公司的商业关系向外传导，最终触及全球AI产业链的信任基础。",
+     "source": "虎嗅",
+     "zh": "黄仁勋的麻烦，才刚开始"
+    },
+    {
+     "title": "生数科技冲刺上市，首部AI院线电影却帮了倒忙",
+     "link": "https://www.huxiu.com/article/4904201.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 18:10:27 +0800",
+     "summary": "本文来自微信公众号： 壹娱观察 ，作者：壹叔团队 《三星堆：未来往事》，国内第一部拿到龙标的AI院线电影，虽然噱头拉满，却并没有在票房上有太多建树。 上映11天，累计票房167.8万元，工作日场均人次甚至不足一人。 票房难看，首先难看的自然是出品方博纳影业，这也是市场讨论的重点喧嚣所在，不过对于“首席技术支持”生数科技来说，该电影扑街赶上的时机也同样尴尬。 这家成立不到四年的清华系AI公司，今年以来融资超过60亿元，据彭博社的报道，其B轮+后估值已超过20亿美元，目前正在筹备港股上市。 生数科技一直对外强调Vidu能进入影视生产，《三星堆》本该是最有说服力的样板，结果成了绕不开的反例。 当然，",
+     "source": "虎嗅",
+     "zh": "生数科技冲刺上市，首部AI院线电影却帮了倒忙"
+    },
+    {
+     "title": "零刻 ME Pro 358H 四盘位 NAS 上架，32GB + 1TB 起价 11499 元",
+     "link": "https://www.ithome.com/1/024/421.htm",
+     "pubDate": "Mon, 09 Nov 2026 10:10:09 GMT",
+     "summary": "IT之家 11 月 9 日消息，零刻 (Beelink) 现已在电商平台上架 ME Pro 358H 四盘位 NAS。其基于英特尔酷睿 Ultra X7 处理器 358H，包含 32GB LPDDR5X-9600 内存、1TB PCIe Gen4 TLC M.2 SSD。 ME Pro 358H 四盘位提供 4 个 3.5\" / 2.5\" SATA 盘位、2 个 M.2 2280 的 PCIe Gen5 ×2 插槽，内置均热板 + 涡轮风扇散热系统，M.2 插槽配备导热硅胶垫，搭载联发科技 Wi-Fi 6 无线网卡 MT7920。 其正面提供 1 个 USB-A 10Gbps；反面提供 2 个",
+     "source": "IT之家",
+     "zh": "零刻 ME Pro 358H 四盘位 NAS 上架，32GB + 1TB 起价 11499 元"
+    },
+    {
+     "title": "AI带得动这届双十一吗？",
+     "link": "https://www.huxiu.com/article/4904199.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 18:09:33 +0800",
+     "summary": "本文来自微信公众号： 铁骥ViewPoint ，作者：铁骥ViewPoint 双十一走到第十八个年头，AI第一次渗透进了从逛到买的全过程，直播间里念稿的是数字人主播，接你咨询的是AI客服，商品详情页的图出自AI生图。 买卖两端，AI都在接管越来越多的环节。淘天把千问接进淘宝，京东让AI购物助手东东全面上岗，抖音电商把豆包接进商城，快手喊出“AI提效、全域协同”，各家都把AI摆上了主舞台。 但一轮大促跑完，商家盘点投入和产出，AI省下的效率，却没能变成看得见的增长。 刘沛（化名）做电商运营十多年，目前在一家做蛋品销售的公司，天猫、淘宝、京东、拼多多四个平台的店铺体系是他一手搭起来的，今年双十一天",
+     "source": "虎嗅",
+     "zh": "AI带得动这届双十一吗？"
+    },
+    {
+     "title": "德国为什么就成了欧洲零售的垫底王？",
+     "link": "https://www.tmtpost.com/8197849.html",
+     "pubDate": "Mon, 09 Nov 2026 18:05:25 +0800",
+     "summary": "油价暴涨后，补贴的不只德国一家。德国人去哪里加油，取决于这个月哪个国家在补贴。",
+     "source": "钛媒体",
+     "zh": "德国为什么就成了欧洲零售的垫底王？"
+    },
+    {
      "title": "美国 AI 数据中心反对声浪高涨，软银考虑转向其他国家寻找增长机会",
      "link": "https://www.ithome.com/1/024/393.htm",
      "pubDate": "Mon, 09 Nov 2026 10:04:20 GMT",
@@ -1786,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "马斯克半导体工厂 Terafab 规划曝光，存储芯片产能直接对标三星"
     },
     {
-     "title": "2027年，中产大消失已开始？不是没钱，是被AI截断了",
-     "link": "https://www.huxiu.com/article/4903843.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 18:00:02 +0800",
-     "summary": "这一轮AI洗牌，第一个被扫下桌的不是底层那批人，而是中间那一层。",
-     "source": "虎嗅",
-     "zh": "2027年，中产大消失已开始？不是没钱，是被AI截断了"
-    },
-    {
      "title": "Analysts warn Russia&apos;s Rassvet broadband satellite network could come online as early as 2027 after its troubled development, enabling more deadly drone strikes (Financial Times)",
      "link": "https://www.techmeme.com/261109/p10#a261109p10",
      "pubDate": "Mon, 09 Nov 2026 05:00:01 -0500",
@@ -1818,54 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office"
     },
     {
-     "title": "中美管住分歧，欧盟或成最大输家？",
-     "link": "https://www.huxiu.com/article/4896603.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 18:00:00 +0800",
-     "summary": "中美管控分歧，让那些靠大国对抗混饭吃的中等强国头痛了，欧盟这只大肥鹅也终于有机会被啃上一口。",
-     "source": "虎嗅",
-     "zh": "中美管住分歧，欧盟或成最大输家？"
-    },
-    {
-     "title": "股价跌预期转，AI产业链并购或生变",
-     "link": "https://www.huxiu.com/article/4904195.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 17:59:35 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：徐锐 风口起落之间，资本博弈的本质终会浮出水面。 7月以来，A股市场AI产业链各板块深度回调，此前一些强势股股价大幅下挫。各路投资者大举抛售AI算力个股的表象背后，是对AI算力产业链前景预期的变化或担忧。而随着行业预期转变、乐观情绪降温、估值逻辑重构，一些A股公司早前力推的涉AI产业链并购，或随之生变。 “确实变了。今年6月份，我的一位券商同行给一家上市公司介绍了一个液冷并购项目，上市公司想借此快速切入液冷散热赛道。由于此次并购刚好贴合市场热点，消息披露后该公司股价连续两个涨停，但此后随着AI产业链板块深度调整，该公司股价也应声下跌，在此背景下，该公司以‘",
-     "source": "虎嗅",
-     "zh": "股价跌预期转，AI产业链并购或生变"
-    },
-    {
-     "title": "华硕 ROG 术士 98 X 键盘、斯巴达 X 65K 鼠标发售，到手价 999 / 1199 元",
-     "link": "https://www.ithome.com/1/024/387.htm",
-     "pubDate": "Mon, 09 Nov 2026 09:59:15 GMT",
-     "summary": "IT之家 11 月 9 日消息，华硕 (ASUS) 玩家国度 (ROG) 外设新品术士 98 X 键盘、斯巴达 X 65K 鼠标即将于今晚 20:00 开售，两者到手价分别为 999 元、1199 元。 术士 98 X (ROG Strix Morph 96 X Wireless) 三模机械键盘是原版术士 98 的升级型号， 配备红-白-灰撞色 PBT 材质染料热升华工艺键帽 、 加长型人体工学硅胶腕托 。 其由 CNC 加工铝合金上盖、ROG NX V2 机械轴、PC 定位板、硅胶泡棉、南向热插拔 PCB、硅胶垫、底壳构成，集成多功能按钮、滚轮与双侧灯条，2 对不同高度的键盘脚提供 3 种倾",
-     "source": "IT之家",
-     "zh": "华硕 ROG 术士 98 X 键盘、斯巴达 X 65K 鼠标发售，到手价 999 / 1199 元"
-    },
-    {
-     "title": "三星 One UI 9.5 有望将 Bixby 打造成 AI 智能体，真正“代你办事”",
-     "link": "https://www.ithome.com/1/024/386.htm",
-     "pubDate": "Mon, 09 Nov 2026 09:54:51 GMT",
-     "summary": "IT之家 11 月 9 日消息，外媒 Sammobile 今天（9 日）晚间公布了有关 One UI 9.5 的最新发现：三星准备对 Bixby 进行大幅升级，让语音助手进一步变成能够 代用户办事的个人 AI 智能体 。 该媒体在体验尚未发布的新版 Bixby 后发现，三星语音助手可以在后台处理 订酒店、预约等日常事务 。例如，在要求 Bixby 每天早上提供美元兑印度卢比的汇率 后，Bixby 便自动创建了一项每日任务，并将其列在应用的 Actions 栏目中。 ▲ 该媒体的测试截图，下同 用户只需向 Bixby 提出定期执行某项任务的要求，Bixby 便会理解指令并设置相应操作，等待用户确",
-     "source": "IT之家",
-     "zh": "三星 One UI 9.5 有望将 Bixby 打造成 AI 智能体，真正“代你办事”"
-    },
-    {
-     "title": "北京交大官宣唯一主校区在雄安，未来谁才是真“北京”？",
-     "link": "https://www.huxiu.com/article/4904194.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 17:53:50 +0800",
-     "summary": "本文来自微信公众号： 高校历史现况研究 ，作者：高历研 近期，北京交通大学秋季学期工作会相关内容对外公开，校方明确将雄安校区定位为学校唯一主校区与核心主阵地，规划2027年9月正式开学，整体办学格局调整为“北京高端卓越、雄安创新未来、威海对外开放”。消息一出，不少自媒体都把讨论焦点放在了北交大录取分数线会不会下行、学校未来发展前景如何、甚至调侃要不要改名“雄安交通大学”上。但在我看来，这些讨论都没触碰到核心。北京交通大学显然不可能改名，真正值得追问的问题是：当一所冠名“北京”的部属高校，把办学主阵地设在了北京市域之外，未来我们口中的“北京”，究竟指的是哪里？ 很多人没意识到，今天我们谈论的“北",
-     "source": "虎嗅",
-     "zh": "北京交大官宣唯一主校区在雄安，未来谁才是真“北京”？"
-    },
-    {
-     "title": "16家信用卡机构年内终止营业",
-     "link": "https://www.huxiu.com/article/4904192.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 17:51:13 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：江怡曼 近期，信用卡行业的结构性调整正在持续落地。界面新闻了解到，截至2026年11月7日，今年以来共有16家信用卡中心及下属分中心获金融监管局批复同意终止营业。 其中包括交通银行太平洋信用卡中心成都分中心，也包括民生银行、平安银行、华夏银行三家股份行合计7家信用卡分中心；广州银行涉及的机构最多，包括1家总行信用卡中心和7家下属分中心。 值得注意的是，7月10日，国家金融监督管理总局广东监管局批复同意广州银行信用卡中心终止营业，并注销其金融许可证，原信用卡各项业务、债权债务、合同权利义务由总行新设的信用卡部统一承接。这家具备独立金融牌照的总行级信用卡专营",
-     "source": "虎嗅",
-     "zh": "16家信用卡机构年内终止营业"
-    },
-    {
      "title": "Temu德国站包装法注册卡住，LUCID号没下来前广告还在烧，这钱该怎么控？",
      "link": "https://www.baijing.cn/question/638621",
      "pubDate": "Mon, 09 Nov 2026 09:50:09 +0000",
@@ -1880,22 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Adeel Hassan / New York Times : US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 &nbsp; &mdash;&nbsp; A federal indictment alleges that three men used generative A.I. to impersonate voices of c",
      "source": "Techmeme",
      "zh": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 (Adeel Hassan/New York Times)"
-    },
-    {
-     "title": "《塞尔达传说：时之笛》重制版文件现大师任务线索，或作为付费 DLC 推出",
-     "link": "https://www.ithome.com/1/024/384.htm",
-     "pubDate": "Mon, 09 Nov 2026 09:47:55 GMT",
-     "summary": "IT之家 11 月 9 日消息，上周在接受 IGN 采访时，《塞尔达传说》系列制作人青沼英二（Eiji Aonuma）和藤林秀麿（Hidemaro Fujibayashi）首次暗示，目前尚未出现在《塞尔达传说：时之笛》重制版中的高难度模式“Master Quest（大师任务）”，未来可能会以 DLC 的形式推出。 这一消息可能让不少玩家感到不满，尤其是如果想体验该模式还需要额外付费的话。如今，数据挖掘者的最新发现进一步增加了这一猜测的可信度。 IT之家注意到，数据挖掘者 MrCheeze 在游戏文件中发现了多个疑似与这一缺失模式有关的条目。除了多次出现缩写“MQ”外，代码中还包含“HasMQ”",
-     "source": "IT之家",
-     "zh": "《塞尔达传说：时之笛》重制版文件现大师任务线索，或作为付费 DLC 推出"
-    },
-    {
-     "title": "消息称 Sakana AI 最早 2027 秋 IPO，有望开日本人工智能实验室先河",
-     "link": "https://www.ithome.com/1/024/383.htm",
-     "pubDate": "Mon, 09 Nov 2026 09:46:03 GMT",
-     "summary": "IT之家 11 月 9 日消息，《日经亚洲》当地时间今日报道称， 日本人工智能实验室 Sakana AI 最早将于 2027 年秋季进行 IPO 。该企业近日已委任高盛担任其 IPO 顾问。 Sakana AI 有望成为首家 IPO 的日本 GenAI 开发企业，这次首次公开上市也有望成为日本历史上最大的初创企业 IPO 之一。Sakana AI 计划将募集资金用于模型开发、人才招聘、销售营销。 Sakana AI 于 2023 年创立，聚焦主权人工智能场景，推出了一系列路由模型。该企业于 2025 年 11 月 以 4000 亿日元的估值进行了 B 轮融资 。 报道表示， Sakana 正在",
-     "source": "IT之家",
-     "zh": "消息称 Sakana AI 最早 2027 秋 IPO，有望开日本人工智能实验室先河"
     },
     {
      "title": "短剧App在巴西投放素材被平台下调推荐量，新规后要怎么调整素材策略？",
@@ -1954,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "印度方言短剧付费转化卡在支付环节，UPI回款周期到底怎么算？"
     },
     {
-     "title": "肯尼亚买量新增的付费玩家，M-Pesa回款要等多久才不压现金流？",
-     "link": "https://www.baijing.cn/question/638617",
-     "pubDate": "Mon, 09 Nov 2026 09:08:46 +0000",
-     "summary": "我们在内罗毕做一款SLG手游，刚上线两个月，月买量预算约8万美元，主要跑Meta和Google UAC，CPI控制在0.35美元左右，付费率1.8%。现在卡在回款上：玩家用M-Pesa充值是实时的，但通过聚合支付服务商结算到我们香港账户，T+7到T+10才到账，遇到周末和肯尼亚公共假日还要顺延，最长一次等了13天。同期买量是日结扣款，等于每投1美元要先垫两周。已经试过换两家本地聚合通道、也问过直接对接Safaricom的可能性，但对方对流水门槛有要求。想请教在肯尼亚做买量的同行，你们把回款周期压到几天才算健康，是接受T+7还是必须做到T+3以内？",
-     "source": "白鲸出海",
-     "zh": "肯尼亚买量新增的付费玩家，M-Pesa回款要等多久才不压现金流？"
-    },
-    {
      "title": "As companies replace human workers with AI agents, determining managers&apos; grade and pay is becoming harder, as both often depend on how many people they manage (Pilita Clark/Financial Times)",
      "link": "https://www.techmeme.com/261109/p6#a261109p6",
      "pubDate": "Mon, 09 Nov 2026 04:00:13 -0500",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Aaron Swartz 出生于 1986 年 11 月 8 日，上周日原本是他四十岁生日。2011 年他因为从 MIT 网络下载数百万篇 JSTOR 学术论文计划免费公开而遭到逮捕，检方指控他犯有计算机欺诈等罪名，面临最高数十年监禁。2013 年 1 月 11 日他自杀身亡，年仅 26 岁。虽然他已去世 14 年但他的遗产仍然活着。Swartz 与 John Gruber 合作开发了 Markdown，一种简化的纯文本格式系统，允许用户使用普通文本创建结构化文档，不需要私有软件。Markdown 于 2004 年推出，二十多年后成为了最流行的文档和出版格式之一，广泛应用于论坛和维基等社区网站",
      "source": "Solidot",
      "zh": "Aaron Swartz 诞辰四十周年"
-    },
-    {
-     "title": "【Fintech 周报】六大行恢复大额存单发售；工行旗下村镇银行清零",
-     "link": "https://www.tmtpost.com/8197883.html",
-     "pubDate": "Mon, 09 Nov 2026 16:38:27 +0800",
-     "summary": "外汇局拟拓宽支付机构外汇业务范围至贸易新业态；利率自律机制核心成员扩容至18家；8款App被互金协会通报；普通型人身险预定利率研究值下调4个基点；10月不良贷款挂牌约238亿元；全国首笔数字人民币智能合约公积金“商转公”贷款在常州落地；农行500亿元二级资本债落地；招行日均消耗800亿Token；国宝人寿注册资本增至45.21亿元；太保系举牌中国神华H股；鲲鹏支付承认商户结算延迟；万事达卡与OpenAI达成Agent Pay战略合作。",
-     "source": "钛媒体",
-     "zh": "【Fintech 周报】六大行恢复大额存单发售；工行旗下村镇银行清零"
     }
    ]
   },
@@ -2250,6 +2250,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "中国市场成盈利洼地 跨国车企急寻新打法",
+     "link": "http://www.eeo.com.cn/2026/1109/1088568.shtml",
+     "pubDate": "Mon, 09 Nov 2026 18:26:23 +0800",
+     "summary": "在跨国车企的财报里，中国市场已经从“利润奶牛”变为“盈利洼地”，甚至开始反噬其全球利润。为了尽快止损，跨国车企选择重新定义中国资产，通过计提减值和打造出口基地，盘活闲置产能，恢复造血功能。",
+     "source": "经济观察网",
+     "zh": "中国市场成盈利洼地 跨国车企急寻新打法"
+    },
+    {
+     "title": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
+     "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 10:26:00 GMT",
+     "summary": "The S&P 500 could decline to the investment bank’s lower end of its downside target in the coming weeks, which would provide a good opportunity to add risk.",
+     "source": "MarketWatch",
+     "zh": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist"
+    },
+    {
+     "title": "Until sentiment in the AI trade improves, Citi tells investors it’s better to sit out the global tech trade",
+     "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 10:20:00 GMT",
+     "summary": "Despite recent weakness, Citi’s global strategy team thinks tech positioning needs to get cleaner before they would revert to their previous overweight stance.",
+     "source": "MarketWatch",
+     "zh": "Until sentiment in the AI trade improves, Citi tells investors it’s better to sit out the global tech trade"
+    },
+    {
+     "title": "Trump says he was kidding about making UFC boss press secretary",
+     "link": "https://seekingalpha.com/news/4668829-trump-says-he-was-kidding-about-making-ufc-boss-press-secretary?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 05:18:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump says he was kidding about making UFC boss press secretary"
+    },
+    {
+     "title": "‘We had the worst fight we’ve ever had’: I want my husband to retire at 65. But I don’t want to lose his $280,000 salary.",
+     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 10:15:00 GMT",
+     "summary": "“We have about $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account and my own IRA.”",
+     "source": "MarketWatch",
+     "zh": "‘We had the worst fight we’ve ever had’: I want my husband to retire at 65. But I don’t want to lose his $280,000 salary."
+    },
+    {
+     "title": "Biggest stock movers Monday: NVDA, VIR, and more",
+     "link": "https://seekingalpha.com/news/4668828-biggest-stock-movers-monday-nvda-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 05:14:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Biggest stock movers Monday: NVDA, VIR, and more"
+    },
+    {
+     "title": "Global stocks steady after AI rout",
+     "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+     "pubDate": "Mon, 09 Nov 2026 10:14:42 GMT",
+     "summary": "Declines last week pushed many indices into bear market territory",
+     "source": "Financial Times",
+     "zh": "Global stocks steady after AI rout"
+    },
+    {
+     "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+     "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+     "pubDate": "Mon, 09 Nov 2026 10:13:02 GMT",
+     "summary": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
+     "source": "CNBC",
+     "zh": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy"
+    },
+    {
      "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
      "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
      "pubDate": "Mon, 09 Nov 2026 10:04:00 GMT",
@@ -2264,6 +2328,14 @@ window.INDUSTRY_DATA = {
      "summary": "World Series champion Christian Yelich is looking to shed the contemporary Malibu mansion he bought for $5.5 million six years ago.",
      "source": "MarketWatch",
      "zh": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million"
+    },
+    {
+     "title": "Tech sell-off raises risks for SoftBank’s massive AI bet",
+     "link": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
+     "pubDate": "Mon, 09 Nov 2026 10:00:05 GMT",
+     "summary": "Founder Masayoshi Son grapples with falling values of holdings ahead of earnings report",
+     "source": "Financial Times",
+     "zh": "Tech sell-off raises risks for SoftBank’s massive AI bet"
     },
     {
      "title": "捷佳伟创：截至10月30日最新股东户数7.38万户，较上期减少1.64%",
@@ -2346,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "二十多年开发积累 吉利新一代甲醇电混技术首搭银河星耀6 E-fuel"
     },
     {
-     "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-     "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-     "pubDate": "Mon, 09 Nov 2026 09:37:44 GMT",
-     "summary": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
-     "source": "CNBC",
-     "zh": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy"
-    },
-    {
      "title": "黄仁勋无人接班",
      "link": "https://wallstreetcn.com/articles/3785579",
      "pubDate": "Mon, 09 Nov 2026 17:33:46 +0800",
@@ -2368,14 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "软银正为美国人工智能数据中心需求潜在降温做好应对准备，并将目光投向其他市场寻求增长。 据彭博9日报道， 软银旗下移动业务此前已着手在美国布局NeoCloud运营，但目前正在评估美国政治与舆论环境变化的潜在冲击。 软银移动业务首席执行官Junichi Miyakawa在东京的一场业绩说明会上对投资者表示， \"美国的重大进展不会对我们特别有利\"，并补充称，若美国形势进一步恶化，\"我们可能会率先在其他国家启动\"。 此番表态令市场对美国数据中心投资前景的担忧再度升温。硅谷投资人Chamath Palihapitiya此前也在All-In Podcast节目中对数据中心出走美国的前景发出警示，嘉宾Dav",
      "source": "华尔街见闻",
      "zh": "软银为美国数据中心业务放缓制定预案，考虑转向其他国家"
-    },
-    {
-     "title": "Global stocks steady after AI rout",
-     "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
-     "pubDate": "Mon, 09 Nov 2026 09:19:15 GMT",
-     "summary": "Declines last week pushed many indices into bear market territory",
-     "source": "Financial Times",
-     "zh": "Global stocks steady after AI rout"
     },
     {
      "title": "对话Columbia中国区总经理Pierre Lion：户外的下一程，不只有一条路",
@@ -2432,62 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月8日，2026年广西文化旅游产业招商推介会在贺州召开。 推介会现场 主办方 供图 本次活动聚焦文旅标志性项目、产业链补强项目、新业态项目和区域协作重大项目，围绕“人工智能+”、景区焕新、温泉度假、康养旅居、文化创意等内容，搭建资源方、运营商、投资商信息共享、合作的平台。 活动现场，贺州市、崇左市先后作城市招商推介，展示优质文旅资源、重点投资项目与合作政策。现场集中签约21个项目，涵...",
      "source": "经济观察网",
      "zh": "广西文化旅游产业招商推介会在贺州召开"
-    },
-    {
-     "title": "黑龙江启动冰雪旅游“百日行动”",
-     "link": "http://www.eeo.com.cn/2026/1109/1088528.shtml",
-     "pubDate": "Mon, 09 Nov 2026 17:05:41 +0800",
-     "summary": "近日，黑龙江省人民政府办公厅印发《黑龙江省冬季冰雪旅游“百日行动”实施方案（2026—2027年）》（以下简称《方案》）。 《方案》明确，本次行动于2026年11月8日至2027年2月28日开展，以“冰雪世界·燃情龙江”为主题，实施十大提升行动，聚焦打造世界级冰雪旅游度假胜地和冰雪经济高地。 哈尔滨冰雪大世界 景区 供图 十大提升行动涵盖旅游产品、文旅融合、旅游餐饮、旅游住宿、旅游交通、文旅消费、旅游服...",
-     "source": "经济观察网",
-     "zh": "黑龙江启动冰雪旅游“百日行动”"
-    },
-    {
-     "title": "黄仁勋丑闻搅动市场，英伟达美股盘前跌近5%，亚洲股市强势反弹，油价下跌",
-     "link": "https://wallstreetcn.com/articles/3785518",
-     "pubDate": "Mon, 09 Nov 2026 17:03:38 +0800",
-     "summary": "亚洲股市周一大幅反弹，从上周美国中期选举引发的科技股抛售中企稳。与此同时，英伟达首席执行官黄仁勋承认婚外情并公开致歉，令这家芯片巨头股价再度承压。 英伟达美股盘前跌近5%，欧洲斯托克50指数开盘跌0.2%，德国DAX指数平开，英国富时100指数跌0.1%，法国CAC 40指数跌0.3%。中国台湾证券交易所加权股价指数收涨4.9%，报41,661.70点，结束七连跌。日经225指数收涨2.3%，报58,775.50点；东证指数收涨3%，报3818.16点；韩国首尔综指收跌0.8%，报5018.85点。纳斯达克100指数期货亚市开盘一度下跌近1%，随后收复失地。 巴克莱（Barclays）策略师T",
-     "source": "华尔街见闻",
-     "zh": "黄仁勋丑闻搅动市场，英伟达美股盘前跌近5%，亚洲股市强势反弹，油价下跌"
-    },
-    {
-     "title": "黄仁勋去留“五五开”？伯恩斯坦警告：往轻了说是“严重干扰”，往重了说是给民主党“递刀”！",
-     "link": "https://wallstreetcn.com/articles/3785568",
-     "pubDate": "Mon, 09 Nov 2026 17:00:28 +0800",
-     "summary": "英伟达CEO黄仁勋承认婚外情的消息，迅速从一桩个人丑闻演变为一场牵动AI交易走向的市场事件。英伟达董事会宣布启动独立调查，美股盘前跌逾5%，这家全球最重要的AI芯片公司的不确定性骤然上升。 伯恩斯坦在周一的研报中警告，此事\"往好了说是严重干扰，往坏了说是给两党议员递刀\"—— 无论是AI强硬派，还是对黄仁勋与特朗普走近感到不满的民主党人，这一事件都可能成为在国会向英伟达施压的新弹药。伯恩斯坦维持\"跑赢大市\"评级及400美元目标价，但警告监管风险可能随之上升。 耶鲁大学管理学院教授Jeffrey Sonnenfeld将黄仁勋职业生涯的存续概率评估为\"大约五五开\"。 他认为此次事件体现出黄仁勋\"极差",
-     "source": "华尔街见闻",
-     "zh": "黄仁勋去留“五五开”？伯恩斯坦警告：往轻了说是“严重干扰”，往重了说是给民主党“递刀”！"
-    },
-    {
-     "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe&apos;s defenses",
-     "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
-     "pubDate": "Mon, 09 Nov 2026 08:59:16 GMT",
-     "summary": "Cyberattacks on fridges in supermarkets and a wave of bomb threats are testing Europe’s ability to withstand disruption to crucial infrastructure.",
-     "source": "CNBC",
-     "zh": "From supermarket fridges to passenger flights, a wave of threats is testing Europe&apos;s defenses"
-    },
-    {
-     "title": "European markets rebound as lower oil prices support market sentiment",
-     "link": "https://seekingalpha.com/news/4668799-european-markets-rebound-as-lower-oil-prices-support-market-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 03:48:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "European markets rebound as lower oil prices support market sentiment"
-    },
-    {
-     "title": "美民主党拟对马斯克等发起调查",
-     "link": "http://finance.eastmoney.com/news/1351,202611093926292692.html",
-     "pubDate": "Mon, 09 Nov 2026 16:47:06 +0800",
-     "summary": "美国国会民主党议员8日表示，明年1月民主党接管国会后，将对美国亿万富翁埃隆·马斯克、白宫办公厅主任斯蒂芬·米勒及部分企业发起调查。 民主党籍的联邦众议员罗伯特·加西亚与联邦参议员伊丽莎白·沃伦当天在电视访谈中作出上述表态。 在民主党接管众议院后，加西亚有望担任该院监督和政府改革委员会主席。他说，调查将聚焦马斯克在“政府效率部”解雇联邦雇员一事中扮演的角色，以及米勒在特朗普政府移民执法政策中发挥的作用。加西亚称米勒是“可怕、不公正”移民政策的设计者，处于政府重大政策决策的核心，理应受到监督和调查。 沃伦还对一些企业发出警告，但并未点名具体企业。她说，靠欺骗美国家庭和投资者牟利的企业“最好准备好接",
-     "source": "东方财富资讯",
-     "zh": "美民主党拟对马斯克等发起调查"
-    },
-    {
-     "title": "11月9日涨停复盘：57只股涨停 文投控股14天7板",
-     "link": "http://stock.eastmoney.com/news/11055,202611093926292121.html",
-     "pubDate": "Mon, 09 Nov 2026 16:47:00 +0800",
-     "summary": "今天沪指涨0.32%，深成指跌0.27%，创业板指跌0.27%，今日大盘成交额1.48万亿，较上个交易日缩量1751.81亿。 涨停个股数量方面，今日共计57股涨停，另有52只个股盘中一度触及涨停，封板率52.29%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富资讯",
-     "zh": "11月9日涨停复盘：57只股涨停 文投控股14天7板"
     }
    ]
   },

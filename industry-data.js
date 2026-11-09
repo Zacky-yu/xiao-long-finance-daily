@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/9 10:26:59",
+ "generated_at": "2026/11/9 10:31:46",
  "recent_days": 7,
  "industries": [
   {
@@ -18,12 +18,28 @@ window.INDUSTRY_DATA = {
      "zh": "227亿，史上最大AI界发电机大单来了！"
     },
     {
+     "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+     "link": "https://www.qbitai.com/2026/11/508498.html",
+     "pubDate": "Mon, 09 Nov 2026 00:40:50 +0000",
+     "summary": "英伟达暗盘跌2%",
+     "source": "量子位",
+     "zh": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查"
+    },
+    {
      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
      "pubDate": "Sun, 08 Nov 2026 21:00:11 +0000",
      "summary": "In a memo to the company, Huang admitted that he had an affair.",
      "source": "TechCrunch AI",
      "zh": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
+    },
+    {
+     "title": "终端侧AI：从单点应用走向智能体体验",
+     "link": "https://www.qbitai.com/2026/11/508478.html",
+     "pubDate": "Sun, 08 Nov 2026 11:05:23 +0000",
+     "summary": "高通在第九届进博会展出端侧MoE智能体",
+     "source": "量子位",
+     "zh": "终端侧AI：从单点应用走向智能体体验"
     },
     {
      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
@@ -194,14 +210,6 @@ window.INDUSTRY_DATA = {
      "zh": "NeurIPS'26 | 如何减少共情推理中的错误传播？"
     },
     {
-     "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-     "link": "https://www.qbitai.com/2026/11/508264.html",
-     "pubDate": "Sat, 07 Nov 2026 05:01:17 +0000",
-     "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
-     "source": "量子位",
-     "zh": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？"
-    },
-    {
      "title": "陶大程教授最新技术文章：一台机器人犯过的错，怎样让另一台少走弯路？",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651072774&idx=1&sn=17484407e18d75fca1e41a09be82bc03",
      "pubDate": "Sat, 07 Nov 2026 12:04:00 +0800",
@@ -224,14 +232,6 @@ window.INDUSTRY_DATA = {
      "summary": "研究社区探索可验证Agent学习的一个起点",
      "source": "机器之心",
      "zh": "NeurIPS 2026 | 从「先出题」到「先探索」：重新思考Tool-Calling Agent的训练数据合成"
-    },
-    {
-     "title": "AGENTS.MD，危险危险危险！！！",
-     "link": "https://www.qbitai.com/2026/11/508244.html",
-     "pubDate": "Sat, 07 Nov 2026 03:43:55 +0000",
-     "summary": "全新的电脑病毒",
-     "source": "量子位",
-     "zh": "AGENTS.MD，危险危险危险！！！"
     },
     {
      "title": "刚刚，OpenAI被曝又拿730亿，估值超8.3万亿",
@@ -1754,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "一汽大众取消两年“年终奖”，这项收入占部分员工年薪近半",
+     "link": "https://www.huxiu.com/article/4904040.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 10:24:55 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：武凯 周姝祺 界面新闻从多位一汽大众员工处获悉，公司上周在内部口头传达，2025年度和2026年度的BD奖金将取消发放。BD在内部也被称为“保单”，约占全年总收入的40%至45%。由于其金额较高、按年度核定，员工通常将其视为年终奖。 这项收入近年从对应年度结束后的次年8月起计入员工BD奖金账户。按这一发放节奏，2025年度BD奖金已经超过往年入账时间，2026年度BD奖金原本应在2027年发放。两年的重要收入同时被告知取消，是员工反应较大的主要原因。 一名一汽大众成都分公司工程师对界面新闻表示，公司近期开始向下小范围传达上述安排，多个科室已收到消息。界面",
+     "source": "虎嗅",
+     "zh": "一汽大众取消两年“年终奖”，这项收入占部分员工年薪近半"
+    },
+    {
+     "title": "何刚解释华为睿影 XMAGE 命名：三次升级始终保留了字母“X”，代表着未知",
+     "link": "https://www.ithome.com/1/024/064.htm",
+     "pubDate": "Mon, 09 Nov 2026 02:24:41 GMT",
+     "summary": "IT之家 11 月 9 日消息，华为董事、终端 BG CEO 何刚今日发布长文，回顾了华为影像大赛的发展历程，并宣布华为影像大赛颁奖盛典暨 10 周年展“温暖共生”将于 11 月 11 日至 15 日在巴黎大皇宫举行。 文中，何刚还解释了华为睿影 XMAGE 的命名： 从 2017 年的新影像 Next-Image，2022 年成为独立影像品牌 XMAGE，再到今年的华为睿影 XMAGE。 三次品牌升级，我们始终保留了字母“X”，代表着未知 ：下一张照片能拍得更好，下一部手机能带来更好的体验，移动影像还有无数可能性，等待我们和用户一起去探索、去发现。 据IT之家此前报道，今年 10 月 1 日",
+     "source": "IT之家",
+     "zh": "何刚解释华为睿影 XMAGE 命名：三次升级始终保留了字母“X”，代表着未知"
+    },
+    {
      "title": "Akko 空影 TAN8 鼠标新增 Master N2 版：升级 nRF54LM20 主控，329 元",
      "link": "https://www.ithome.com/1/024/063.htm",
      "pubDate": "Mon, 09 Nov 2026 02:21:20 GMT",
@@ -1768,6 +1784,14 @@ window.INDUSTRY_DATA = {
      "summary": "Annie Palmer / CNBC : Job listings show Amazon is building a &ldquo;new-to-world&rdquo; home robot to operate &ldquo;alongside family members&rdquo;, after its $1,450 Astro reached only a few thousand homes &nbsp; &mdash;&nbsp; Jeff Bezos made a bold bet in 2017.&nbsp; A sci-fi and robotics enthusia",
      "source": "Techmeme",
      "zh": "Job listings show Amazon is building a \"new-to-world\" home robot to operate \"alongside family members\", after its $1,450 Astro reached only a few thousand homes (Annie Palmer/CNBC)"
+    },
+    {
+     "title": "关于本轮下跌的三个想法和一些建议",
+     "link": "https://www.huxiu.com/article/4904013.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 10:20:00 +0800",
+     "summary": "本文来自微信公众号： 起朱楼宴宾客 ，作者：大卫翁 以下是一期临时加更节目的文字稿，想跟大家聊一聊我对最近这轮市场剧烈调整的一些想法，包括A股、港股和美股。 熟悉我节目的朋友可能都知道，我不是一个对短期市场看得很准的人，也很少对当下正在发生的股市行情谈自己的想法，暗戳戳地说一声“牛市后期”之类的已经是我的极限了。 我上一次录类似这样谈当下市场变化的节目，还是2024年十一期间。当时在924的政策刺激下，市场发生了一轮非常猛烈的上涨，我录了一期节目，叫《关于这一轮行情的一些想法和三个建议》。而这次的题目大家可以听出来，其实是一次对账——有始有终嘛。 那这一次为什么要聊市场呢？当然是因为行情的下跌",
+     "source": "虎嗅",
+     "zh": "关于本轮下跌的三个想法和一些建议"
     },
     {
      "title": "荣耀 700 系列手机新技术 11 月 13 日亮相，预约已开启",
@@ -1800,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 9 日消息，2027 款岚图知音汽车官宣将于 11 &nbsp;月 13 日上市 ，定位“智慧超充纯电大五座 SUV”。 IT之家从官方预热了解到，2027 款岚图知音搭载： 896 线双光路激光雷达 + 华为乾崑智驾 ADS 5 81 度电池 ，支持 5C 快充，CLTC 纯电续航 650km 90.8% 得房率，后排腿部空间达 1038mm 7L 冷暖冰箱、副驾零重力座椅、后排折叠小桌板、后排座椅一键放倒 / 升起 “暮山紫”外观车色、“极光紫”内饰车色 相关阅读： 《 全新岚图知音上市：标配华为乾崑智驾 ADS 4、首批搭载鸿蒙座舱 HarmonySpace 5，20",
      "source": "IT之家",
      "zh": "2027 款岚图知音汽车 11 月 13 日上市，896 线双光路激光雷达 + 81 度电池"
-    },
-    {
-     "title": "东风日产 NX7 全球首秀定档 11 月 13 日，即将开启预售",
-     "link": "https://www.ithome.com/1/024/058.htm",
-     "pubDate": "Mon, 09 Nov 2026 02:07:12 GMT",
-     "summary": "IT之家 11 月 9 日消息，东风日产今日宣布 The New NX7 全球首秀 11 月 13 日见，将正式开启预售。 据IT之家此前报道，插电式混合动力 SUV 东风日产 NX7 已在今年 8 月完成申报 ，尺寸为 4785×1932×1665mm， 轴距 2815mm ；搭载 40.9 度宁德时代电池；配备激光雷达，支持城市 NOA 功能。 据介绍，该车拥有 全舱可触面积 90% 软包 ，中控台、门板、扶手等全部圆角处理；256 色撞色氛围灯，采用「见光不见灯」的隐藏光源设计；AI 零压云毯座椅 2.0，支持 AI 自适应主动贴合，配备 12 点 SPA 级按摩、10 种按摩模式，还有",
-     "source": "IT之家",
-     "zh": "东风日产 NX7 全球首秀定档 11 月 13 日，即将开启预售"
     },
     {
      "title": "GDP增速再垫底，山西如何打破“资源诅咒”？",
@@ -1848,22 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧，题图来自：视觉中国 自我认为信息量很大，能写到这份上不错了，自己看自己理解吧。 特朗普输掉中期选举以后写了一篇文章，大意是美国搞不好就是明朝当年的党争，争着争着就会走向崇祯。 评论区里有读者不服气，群里也有读者表示不同意见，大致意思都是美国的政体和文化本身就与中国不同，设置的时候就是预留了&ldquo;争&rdquo;的空间的，不能用中国的答案去套美国的题。 其实如果这种&ldquo;争&rdquo;是&ldquo;君子和而不同&rdquo;的那种争，结论是成立的：大家只是在手段和方法上面争，争论到底哪种方法才对国家好对人民好，那争的越多越激",
      "source": "虎嗅",
      "zh": "崩塌的信仰和困在算法里的人"
-    },
-    {
-     "title": "科技要为黄仁勋的出轨买单吗？",
-     "link": "https://www.huxiu.com/article/4904019.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 09:50:21 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 好家伙，昨天晚上，黄仁勋发了一封公开信。 两百多个英文单词；大意就是出轨了，自己愿意承担全部责任。这件事没啥好辩解的。 麻烦的是，几乎同一时间，英伟达董事会也发了一份声明，说最近有报道指出：黄仁勋可能成为外国情报行动的目标，公司准备由独立董事牵头，再请外部律师，把事情查清楚。 声明还强调，目前没有理由认为国家安全或公司机密受到损害，对黄仁勋和他的管理团队仍然有信心。 一个晚上，这件事从八卦版跑到了财经版。问题来了，黄仁勋的麻烦，到底会让英伟达付出多大代价？ …… 先看股价。 11月5日，英伟达跌了9.26%，一天蒸发四千多亿美元市值。那时候，这封公",
-     "source": "虎嗅",
-     "zh": "科技要为黄仁勋的出轨买单吗？"
-    },
-    {
-     "title": "97年亿万富翁：无法活出自己想要的人生，是因为你太听话",
-     "link": "https://www.huxiu.com/article/4903095.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 09:46:20 +0800",
-     "summary": "本期视频，是我和97年亿万富翁 @徐皓天 在深圳展开的线下对话。徐皓天是97年创业者，港大本科，上学期间曾被学校劝退两次，自称\"应试教育的漏网之鱼\"，对名校、成功和人生选择有一套很不一样的判断。",
-     "source": "虎嗅",
-     "zh": "97年亿万富翁：无法活出自己想要的人生，是因为你太听话"
     },
     {
      "title": "Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a \"fine person\" and \"I haven&apos;t heard he&apos;s done anything wrong\" (Kate Sullivan/Bloomberg)",
@@ -2250,6 +2250,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+     "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+     "pubDate": "Mon, 09 Nov 2026 02:28:50 GMT",
+     "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+     "source": "CNBC",
+     "zh": "China wholesale inflation hits highest in more than four years as consumer measure slows"
+    },
+    {
      "title": "AI“沉船”风险会拖垮美元吗？",
      "link": "https://wallstreetcn.com/articles/3785508",
      "pubDate": "Mon, 09 Nov 2026 10:04:09 +0800",
@@ -2304,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "以下是 中石科技 在北京时间11月9日09:42分盘口异动快照： 11月9日， 中石科技 盘中快速反弹，5分钟内涨幅超过2%，截至9点42分，报65.01元，成交1.69亿元，换手率1.27%。 分笔 09:42:06 65.01 62↑ 09:42:03 64.80 26↓ 09:42:00 64.91 48↑ 09:41:57 64.83 53↑ 09:41:54 64.75 17↓ 09:41:51 64.83 38↑ 09:41:48 64.80 35↓ 09:41:45 64.82 22↓ 09:41:42 64.88 54↓ 09:41:39 64.95 37↓ 报价 卖五 65.",
      "source": "东方财富股票",
      "zh": "中石科技11月9日快速反弹"
-    },
-    {
-     "title": "China wholesale inflation hits over four-year high as consumer measure slows",
-     "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-     "pubDate": "Mon, 09 Nov 2026 01:40:11 GMT",
-     "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
-     "source": "CNBC",
-     "zh": "China wholesale inflation hits over four-year high as consumer measure slows"
     },
     {
      "title": "过去19年来最大的“意外”！高盛分析师复盘上周四的“科技股灾”",

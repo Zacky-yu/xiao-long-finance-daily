@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/10 06:12:08",
+ "generated_at": "2026/11/10 06:32:13",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "The race is on to sue Nvidia",
+     "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+     "pubDate": "Mon, 09 Nov 2026 22:23:42 +0000",
+     "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+     "source": "TechCrunch AI",
+     "zh": "The race is on to sue Nvidia"
+    },
     {
      "title": "Exploring the world's languages with Language Explorer",
      "link": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
@@ -97,20 +105,20 @@
      "zh": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records"
     },
     {
-     "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-     "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-     "pubDate": "Mon, 09 Nov 2026 16:12:28 +0000",
-     "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-     "source": "TechCrunch AI",
-     "zh": "Medium’s new TK app brings AI assistance directly into the writing process"
-    },
-    {
      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
      "pubDate": "Mon, 09 Nov 2026 15:05:57 GMT",
      "summary": "",
      "source": "Hugging Face",
      "zh": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context"
+    },
+    {
+     "title": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?",
+     "link": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
+     "pubDate": "Mon, 09 Nov 2026 15:00:00 +0000",
+     "summary": "4 classic leaks, planted in real data, tested cold on 4 models.",
+     "source": "KDnuggets",
+     "zh": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?"
     },
     {
      "title": "实测千问办公2.0：1个Team Agent和团队协作，2小时操盘一场热点营销",
@@ -121,12 +129,12 @@
      "zh": "实测千问办公2.0：1个Team Agent和团队协作，2小时操盘一场热点营销"
     },
     {
-     "title": "Introducing Control Room: Human control over AI workloads",
-     "link": "https://openai.com/index/introducing-control-room",
+     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+     "link": "https://openai.com/index/control-room",
      "pubDate": "Mon, 09 Nov 2026 13:00:00 GMT",
      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
      "source": "OpenAI",
-     "zh": "Introducing Control Room: Human control over AI workloads"
+     "zh": "Control Room: A central system to track and stop model workloads across our research infrastructure"
     },
     {
      "title": "Innovating with AI in the special chemicals industry",
@@ -135,6 +143,14 @@
      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
      "source": "MIT Tech Review AI",
      "zh": "Innovating with AI in the special chemicals industry"
+    },
+    {
+     "title": "5 Useful Python Automation Scripts for Beginners",
+     "link": "https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners",
+     "pubDate": "Mon, 09 Nov 2026 13:00:00 +0000",
+     "summary": "Learn how to use Python scripts to automate repetitive tasks, organize files, process images, and simplify daily workflows.",
+     "source": "KDnuggets",
+     "zh": "5 Useful Python Automation Scripts for Beginners"
     },
     {
      "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
@@ -231,22 +247,6 @@
      "summary": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test. The post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appeared first on MarkTec",
      "source": "MarkTechPost",
      "zh": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents"
-    },
-    {
-     "title": "CodeRabbit scales agentic software development and ships 20x more",
-     "link": "https://openai.com/index/coderabbit-codex-daybreak",
-     "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
-     "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-     "source": "OpenAI",
-     "zh": "CodeRabbit scales agentic software development and ships 20x more"
-    },
-    {
-     "title": "Kuken Industries searches 70 years of drawings in minutes",
-     "link": "https://openai.com/index/kuken",
-     "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
-     "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-     "source": "OpenAI",
-     "zh": "Kuken Industries searches 70 years of drawings in minutes"
     }
    ]
   },
@@ -281,12 +281,28 @@
      "zh": "Golden Testcases You Can Check With a Calculator"
     },
     {
+     "title": "Google expands its 8th-Gen TPU portfolio for agentic AI",
+     "link": "https://www.electronicsweekly.com/news/google-expands-its-8th-gen-tpu-portfolio-for-agentic-ai-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 17:28:12 +0000",
+     "summary": "Google has expanded its eighth generation TPU portfolio with the TPU 8tx and TPU 8i Max. Following on from the TPU 8t and TPU 8i releases in April, it marks […] The post Google expands its 8th-Gen TPU portfolio for agentic AI appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Google expands its 8th-Gen TPU portfolio for agentic AI"
+    },
+    {
      "title": "Curvilinear OPC and next-gen photomask optimization",
      "link": "https://semiwiki.com/eda/siemens-eda/376032-curvilinear-opc-and-next-gen-photomask-optimization/",
      "pubDate": "Mon, 09 Nov 2026 16:00:56 +0000",
      "summary": "A vector-based approach for semiconductor manufacturing By Sagar Saxena is a Senior Product Engineer at Siemens EDA Curvilinear OPC transforms advanced semiconductor manufacturing Modern semiconductor manufacturing is experiencing a fundamental shift in the way photomasks are created and optimized. ",
      "source": "SemiWiki",
      "zh": "Curvilinear OPC and next-gen photomask optimization"
+    },
+    {
+     "title": "Aratas introduces G6TA series of reed relays for safety-monitoring",
+     "link": "https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 15:26:00 +0000",
+     "summary": "Aratas is introducing its G6TA series of reed relays, providing 200V DC switching capability for safety-monitoring circuitry. Specifically, the relays comprise type-1a (SPST, single-pole single-throw) and type-2a (DPST, double-pole single-throw) […] The post Aratas introduces G6TA series of reed rel",
+     "source": "Electronics Weekly",
+     "zh": "Aratas introduces G6TA series of reed relays for safety-monitoring"
     },
     {
      "title": "Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit",
@@ -343,6 +359,14 @@
      "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over $300 million",
      "source": "IEEE Spectrum 半导体",
      "zh": "The Race to Build a “Find My” for AI Chips"
+    },
+    {
+     "title": "CesiumAstro satellite antenna specialist raises $730m",
+     "link": "https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 10:07:40 +0000",
+     "summary": "CesiumAstro, the satellite antenna specialist, has closed $730 million in Series D financing. Its payloads – the company highlights – combine active phased array antennas, RF front ends, analogue and […] The post CesiumAstro satellite antenna specialist raises $730m appeared first on Electronics Wee",
+     "source": "Electronics Weekly",
+     "zh": "CesiumAstro satellite antenna specialist raises $730m"
     },
     {
      "title": "Nvidia's Taiwan partners rally despite Jensen probe",
@@ -441,60 +465,36 @@
      "zh": "DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM"
     },
     {
+     "title": "Jensen Huang apologises: Nvidia board investigates",
+     "link": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:18:52 +0000",
+     "summary": "After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior executive at Singapore datacentre company Megaspeed, who US intelligence officials believe is a Chinese spy. The board of […] The post Jensen Huang apologises: Nvidia board investigates appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Jensen Huang apologises: Nvidia board investigates"
+    },
+    {
+     "title": "TSMC rumoured to be eyeing 3D DRAM",
+     "link": "https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:17:29 +0000",
+     "summary": "TSMC is said to have appointed vice-president Hsu Kuo-Chin to look at how the company could get into 3D DRAM, according to multiple industry reports, but it would seem that […] The post TSMC rumoured to be eyeing 3D DRAM appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "TSMC rumoured to be eyeing 3D DRAM"
+    },
+    {
+     "title": "Toshiba gets £20m government contract to commercialise quantum",
+     "link": "https://www.electronicsweekly.com/news/business/toshiba-gets-20-million-government-contract-to-commercialise-quantum-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 06:16:36 +0000",
+     "summary": "Toshiba Europe has been awarded a contract by Innovate UK, part of UK Research and Innovation (UKRI), to develop technologies that can help unlock the commercial potential of quantum networks. […] The post Toshiba gets £20m government contract to commercialise quantum appeared first on Electronics W",
+     "source": "Electronics Weekly",
+     "zh": "Toshiba gets £20m government contract to commercialise quantum"
+    },
+    {
      "title": "CEO Interview with Mark Rushworth of Finchetto",
      "link": "https://semiwiki.com/ceo-interviews/375759-ceo-interview-with-mark-rushworth-of-finchetto/",
      "pubDate": "Sun, 08 Nov 2026 20:00:11 +0000",
      "summary": "Mark Rushworth is CEO of the all-optical network switch company, Finchetto, a photonics startup developing fully optical network switching technology for AI and hyperscale data centers. He specializes in integrated photonics and optical networking, with a focus on reducing the power consumption and ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Mark Rushworth of Finchetto"
-    },
-    {
-     "title": "AOI announces equity grants under Inducement Plan",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-061126.shtml",
-     "pubDate": "Fri, 6 Nov 2026 16:09:02 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) says that the Compensation Committee of its board of directors granted inducement awards fo",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces equity grants under Inducement Plan"
-    },
-    {
-     "title": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-061126.shtml",
-     "pubDate": "Fri, 6 Nov 2026 14:37:32 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — has appointed David Bell as chairman of its board of directors, separating the chairman and chief executive offi",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman"
-    },
-    {
-     "title": "Chip Industry Week In Review",
-     "link": "https://semiengineering.com/chip-industry-week-in-review-163/",
-     "pubDate": "Fri, 06 Nov 2026 08:01:01 +0000",
-     "summary": "Updated 11/8: Nvidia CEO under investigation; HBM smuggling routes into China; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; mor",
-     "source": "Semiconductor Engineering",
-     "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Adding Network Security To AI, HPC, And Data Centers",
-     "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
-     "pubDate": "Thu, 05 Nov 2026 08:06:45 +0000",
-     "summary": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, HPC, And Data Centers appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Adding Network Security To AI, HPC, And Data Centers"
-    },
-    {
-     "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
-     "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
-     "pubDate": "Thu, 05 Nov 2026 08:05:35 +0000",
-     "summary": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Turning Conv2D Into A Practical GPU Compute Pattern"
-    },
-    {
-     "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
-     "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:55 +0000",
-     "summary": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. The post A System-Level Approach To Protecting 3D-IC Signal Integrity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "A System-Level Approach To Protecting 3D-IC Signal Integrity"
     }
    ]
   },
@@ -504,6 +504,22 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "The Best Techniques for Building a Business Case for Supply Planning Software",
+     "link": "https://roboticsandautomationnews.com/2026/11/09/the-best-techniques-for-building-a-business-case-for-supply-planning-software/106870/",
+     "pubDate": "Mon, 09 Nov 2026 22:23:36 +0000",
+     "summary": "Most supply planning software projects begin with a frustrated planner, but they only move forward once finance agrees to pay. The business case sits between those two moments. It translates daily pain points into numbers, risks, and returns that executives can compare with every other investment co",
+     "source": "Robotics & Automation",
+     "zh": "The Best Techniques for Building a Business Case for Supply Planning Software"
+    },
+    {
+     "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+     "link": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+     "pubDate": "Mon, 09 Nov 2026 21:52:05 +0000",
+     "summary": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies. The post NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL"
+    },
     {
      "title": "From TractEasy to TLD Robotics: A new chapter in autonomous airport operations",
      "link": "https://roboticsandautomationnews.com/2026/11/09/from-tracteasy-to-tld-robotics-a-new-chapter-in-autonomous-airport-operations/106859/",
@@ -553,14 +569,6 @@
      "zh": "Comau and Automha showcase integrated food and beverage automation at Cibus Tec 2026"
     },
     {
-     "title": "Opinion: Supervised autonomy in robotics starts with the robot’s worst day",
-     "link": "https://roboticsandautomationnews.com/2026/11/09/opinion-supervised-autonomy-in-robotics-starts-with-the-robots-worst-day/106840/",
-     "pubDate": "Mon, 09 Nov 2026 18:17:27 +0000",
-     "summary": "By Rafael Patron, president of the Scientific-Technical Committee, AIPIA Supervised autonomy in robotics is usually described from the robot’s side: the machine does the repetitive work, and a person steps in when something goes wrong. The harder design question sits on the human side, and many proj",
-     "source": "Robotics & Automation",
-     "zh": "Opinion: Supervised autonomy in robotics starts with the robot’s worst day"
-    },
-    {
      "title": "How to minimize Wi-Fi roaming interruptions for autonomous mobile robots",
      "link": "https://www.therobotreport.com/how-minimize-wi-fi-roaming-interruptions-autonomous-mobile-robots/",
      "pubDate": "Mon, 09 Nov 2026 15:40:41 +0000",
@@ -599,14 +607,6 @@
      "summary": "Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coordinate, and scale across real environments. The post How Point One turned GPS accuracy into a robotics platform appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "How Point One turned GPS accuracy into a robotics platform"
-    },
-    {
-     "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
-     "link": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
-     "pubDate": "Fri, 06 Nov 2026 21:34:44 +0000",
-     "summary": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years. The post Boston Dynamics built Stretch Gen 2 for reliable, consistent performance appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance"
     },
     {
      "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
@@ -1097,6 +1097,14 @@
    "total": 7,
    "items": [
     {
+     "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
+     "link": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
+     "pubDate": "Mon, 09 Nov 2026 22:28:43 +0000",
+     "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
+     "source": "STAT News",
+     "zh": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke"
+    },
+    {
      "title": "How Cancer-Associated Gene Triggers Cell Division Without Unpacking the Genome",
      "link": "https://www.genengnews.com/topics/cancer/how-cancer-associated-gene-triggers-cell-division-without-unpacking-the-genome/",
      "pubDate": "Mon, 09 Nov 2026 21:05:11 +0000",
@@ -1217,14 +1225,6 @@
      "zh": "Ramaswamy’s biotech baggage haunted his political run"
     },
     {
-     "title": "STAT+: Gene therapy’s long-debated cancer risk materializes",
-     "link": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss",
-     "pubDate": "Mon, 09 Nov 2026 14:36:12 +0000",
-     "summary": "For years, gene therapy researchers debated whether the viruses they use to ferry replacement genes into cells could cause tumors. A small number of cases now offer strong evidence that…",
-     "source": "STAT News",
-     "zh": "STAT+: Gene therapy’s long-debated cancer risk materializes"
-    },
-    {
      "title": "Childhood Cancers May Not Always Need Extra Mutations to Spread, Study Suggests",
      "link": "https://www.genengnews.com/topics/cancer/childhood-cancers-may-not-always-need-extra-mutations-to-spread-study-suggests/",
      "pubDate": "Mon, 09 Nov 2026 14:00:17 +0000",
@@ -1296,6 +1296,14 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026",
+     "pubDate": "Mon, 09 Nov 2026 22:11:05 +0000",
+     "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard"
+    },
     {
      "title": "Jupiter and Mars are set for a breathtaking close approach later this week: Here's how to see it",
      "link": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it",
@@ -1375,14 +1383,6 @@
      "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight.",
      "source": "NASA",
      "zh": "Astronauts Across Generations Share the Stage"
-    },
-    {
-     "title": "Netflix announces 'Stranger Things' spin-off 'Other Worlds', and it's already teasing a trip to Area 51 (video)",
-     "link": "https://www.space.com/entertainment/space-movies-shows/netflix-announces-stranger-things-spin-off-other-worlds-and-its-already-teasing-a-trip-to-area-51-video",
-     "pubDate": "Mon, 09 Nov 2026 16:53:47 +0000",
-     "summary": "The first trailer for Other World: A Stranger Things Adventure doesn't show much, but there are enough clues for fans to figure out what it's about here.",
-     "source": "Space.com",
-     "zh": "Netflix announces 'Stranger Things' spin-off 'Other Worlds', and it's already teasing a trip to Area 51 (video)"
     },
     {
      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+     "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+     "pubDate": "Mon, 09 Nov 2026 17:09:33 -0500",
+     "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+     "source": "BleepingComputer",
+     "zh": "SEGA newsletter data breach exposes 2.2 million email addresses"
+    },
+    {
      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
      "pubDate": "Mon, 09 Nov 2026 21:38:20 GMT",
@@ -1639,14 +1647,6 @@
      "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
      "source": "BleepingComputer",
      "zh": "Binance denies data breach after alleged ShinyHunters claims"
-    },
-    {
-     "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-     "pubDate": "Mon, 09 Nov 2026 11:04:57 -0500",
-     "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
-     "source": "BleepingComputer",
-     "zh": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems"
     },
     {
      "title": "NIST: Solo Shouldn't Mean Less Secure",
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "The Home Depot Best Early Black Friday Deals (2026)",
+     "link": "https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/",
+     "pubDate": "Mon, 09 Nov 2026 22:15:00 +0000",
+     "summary": "If you’re looking for a new appliance or vacuum, Home Depot’s sale is one you don’t want to miss.",
+     "source": "WIRED",
+     "zh": "The Home Depot Best Early Black Friday Deals (2026)"
+    },
+    {
      "title": "Jensen Huang&apos;s affair shines a spotlight on Nvidia&apos;s weak board and opaque succession planning at what has become the world&apos;s most important company (Semafor)",
      "link": "https://www.techmeme.com/261109/p43#a261109p43",
      "pubDate": "Mon, 09 Nov 2026 17:00:35 -0500",
@@ -1804,7 +1812,7 @@
      "title": "Supply chain attack on Qubole customers",
      "link": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
      "pubDate": "Mon, 09 Nov 2026 21:07:26 +0000",
-     "summary": "Article URL: https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack Comments URL: https://news.ycombinator.com/item?id=50432147 Points: 8 # Comments: 1",
+     "summary": "Article URL: https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack Comments URL: https://news.ycombinator.com/item?id=50432147 Points: 9 # Comments: 4",
      "source": "Hacker News",
      "zh": "Supply chain attack on Qubole customers"
     },
@@ -1844,7 +1852,7 @@
      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
      "pubDate": "Mon, 09 Nov 2026 20:04:55 +0000",
-     "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 117 # Comments: 65",
+     "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 150 # Comments: 79",
      "source": "Hacker News",
      "zh": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far"
     },
@@ -1860,7 +1868,7 @@
      "title": "USPS now offers official ZIP Code boundary polygons",
      "link": "https://postalpro.usps.com/zcb",
      "pubDate": "Mon, 09 Nov 2026 19:58:59 +0000",
-     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 240 # Comments: 116",
+     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 267 # Comments: 128",
      "source": "Hacker News",
      "zh": "USPS now offers official ZIP Code boundary polygons"
     },
@@ -1868,7 +1876,7 @@
      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
      "link": "https://parkgraph.com/parking-app-fees",
      "pubDate": "Mon, 09 Nov 2026 19:55:53 +0000",
-     "summary": "Article URL: https://parkgraph.com/parking-app-fees Comments URL: https://news.ycombinator.com/item?id=50430991 Points: 17 # Comments: 3",
+     "summary": "Article URL: https://parkgraph.com/parking-app-fees Comments URL: https://news.ycombinator.com/item?id=50430991 Points: 22 # Comments: 7",
      "source": "Hacker News",
      "zh": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)"
     },
@@ -1892,7 +1900,7 @@
      "title": "CUI – Native UI components for C",
      "link": "https://yappologistic.github.io/CUI/",
      "pubDate": "Mon, 09 Nov 2026 19:35:16 +0000",
-     "summary": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 86 # Comments: 52",
+     "summary": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 91 # Comments: 56",
      "source": "Hacker News",
      "zh": "CUI – Native UI components for C"
     },
@@ -1903,14 +1911,6 @@
      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
      "source": "TechCrunch",
      "zh": "AI hardware startup Nominal triples valuation to $3B in 8 months"
-    },
-    {
-     "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-     "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-     "pubDate": "Mon, 09 Nov 2026 19:19:24 +0000",
-     "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
-     "source": "TechCrunch",
-     "zh": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks"
     },
     {
      "title": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat&apos;s Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)",
@@ -1948,7 +1948,7 @@
      "title": "Claude Fable 5.2 and Mythos 5.2",
      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
      "pubDate": "Mon, 09 Nov 2026 18:56:29 +0000",
-     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 754 # Comments: 426",
+     "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 770 # Comments: 444",
      "source": "Hacker News",
      "zh": "Claude Fable 5.2 and Mythos 5.2"
     },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Today’s macOS updates fix security gap involving eMudhra certificates",
+     "link": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
+     "pubDate": "Mon, 09 Nov 2026 22:17:36 +0000",
+     "summary": "Apple today released macOS updates that address a security gap involving compromised eMudhra certificates, after initially blocking them in Safari, Mail, and other apps in October. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Today’s macOS updates fix security gap involving eMudhra certificates"
+    },
     {
      "title": "What’s new in Android’s November 2026 Google System Updates [U]",
      "link": "https://9to5google.com/2026/11/09/november-2026-google-system-updates/",
@@ -2119,14 +2127,6 @@
      "summary": "Today Apple released iOS 27.2.1 for iPhone with bug fixes and security updates, alongside a variety of related software updates on other platforms. Here are the security fix details for each update. more…",
      "source": "9to5Mac",
      "zh": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more"
-    },
-    {
-     "title": "Our favorite gear to elevate your new MacBook Pro setup",
-     "link": "https://9to5mac.com/2026/11/09/our-favorite-gear-to-elevate-your-new-macbook-pro-setup/",
-     "pubDate": "Mon, 09 Nov 2026 20:15:38 +0000",
-     "summary": "The all-new M6 MacBook and the touch display PROLED XDR have now arrived, and we are taking a look at some of our favorite accessories to upgrade the experience. From the latest Apple Magic Keyboard and Trackpad , as well as its World Travel kit , we also have MacBook stands to tidy up your workstat",
-     "source": "9to5Mac",
-     "zh": "Our favorite gear to elevate your new MacBook Pro setup"
     },
     {
      "title": "Hunter is killing Google Home, Alexa controls for its smart ceiling fans",
@@ -2257,52 +2257,76 @@
    "total": 13,
    "items": [
     {
-     "title": "Mesa Laboratories GAAP EPS of $0.75 beats by $0.39, revenue of $62.3M beats by $0.1M",
-     "link": "https://seekingalpha.com/news/4669377-mesa-laboratories-gaap-eps-of-0_75-beats-by-0_39-revenue-of-62_3m-beats-by-0_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 17:05:11 -0500",
+     "title": "EquipmentShare.com Inc. Non-GAAP EPS of $0.16 beats by $0.04, revenue of $1.47B beats by $90M",
+     "link": "https://seekingalpha.com/news/4669405-equipmentshare-com-inc-non-gaap-eps-of-0_16-beats-by-0_04-revenue-of-1_47b-beats-by-90m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 17:27:00 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Mesa Laboratories GAAP EPS of $0.75 beats by $0.39, revenue of $62.3M beats by $0.1M"
+     "zh": "EquipmentShare.com Inc. Non-GAAP EPS of $0.16 beats by $0.04, revenue of $1.47B beats by $90M"
     },
     {
-     "title": "Semiconductor rally takes KLAC higher by 9%",
-     "link": "https://seekingalpha.com/news/4669308-semiconductor-rally-takes-klac-higher-by-9?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 17:04:14 -0500",
+     "title": "Septerna, Inc. GAAP EPS of -$0.57, revenue of $18.88M",
+     "link": "https://seekingalpha.com/news/4669404-septerna-inc-gaap-eps-of-0_57-revenue-of-18_88m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 17:25:13 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Semiconductor rally takes KLAC higher by 9%"
+     "zh": "Septerna, Inc. GAAP EPS of -$0.57, revenue of $18.88M"
     },
     {
-     "title": "Endeavour Silver Non-GAAP EPS of $0.14 beats by $0.06, revenue of $184.5M misses by $4.36M",
-     "link": "https://seekingalpha.com/news/4669375-endeavour-silver-non-gaap-eps-of-0_14-beats-by-0_06-revenue-of-184_5m-misses-by-4_36m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 17:04:08 -0500",
+     "title": "Constellation Energy jumps 10% after earnings beat, guidance hike",
+     "link": "https://seekingalpha.com/news/4669356-constellation-energy-jumps-10-percent-after-earnings-beat-guidance-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 17:25:07 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Endeavour Silver Non-GAAP EPS of $0.14 beats by $0.06, revenue of $184.5M misses by $4.36M"
+     "zh": "Constellation Energy jumps 10% after earnings beat, guidance hike"
     },
     {
-     "title": "Hims & Hers Health declines following double miss, lowered guidance",
-     "link": "https://seekingalpha.com/news/4669312-hims-and-hers-health-declines-following-double-miss-lowered-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 17:04:07 -0500",
+     "title": "Life360 GAAP EPS of $0.26 beats by $0.17, revenue of $174.1M beats by $2.69M",
+     "link": "https://seekingalpha.com/news/4669403-life360-gaap-eps-of-026-beats-by-017-revenue-of-1741m-beats-by-269m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 17:24:01 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Hims & Hers Health declines following double miss, lowered guidance"
+     "zh": "Life360 GAAP EPS of $0.26 beats by $0.17, revenue of $174.1M beats by $2.69M"
     },
     {
-     "title": "Kaltura Non-GAAP EPS of $0.02 beats by $0.03, revenue of $47.3M beats by $1.2M",
-     "link": "https://seekingalpha.com/news/4669374-kaltura-non-gaap-eps-of-0_02-beats-by-0_03-revenue-of-47_3m-beats-by-1_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 17:03:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kaltura Non-GAAP EPS of $0.02 beats by $0.03, revenue of $47.3M beats by $1.2M"
+     "title": "3 unexpected reasons the October jobs report was so strong",
+     "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+     "pubDate": "Mon, 09 Nov 2026 22:23:56 GMT",
+     "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
+     "source": "CNBC",
+     "zh": "3 unexpected reasons the October jobs report was so strong"
     },
     {
-     "title": "Microvast Holdings Non-GAAP EPS of -$0.20 misses by $0.22, revenue of $45.8M misses by $34.44M",
-     "link": "https://seekingalpha.com/news/4669369-microvast-holdings-non-gaap-eps-of-0_20-misses-by-0_22-revenue-of-45_8m-misses-by-34_44m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 17:02:40 -0500",
+     "title": "Ranger Energy Services GAAP EPS of $0.29 in-line, revenue of $162.8M misses by $15.1M",
+     "link": "https://seekingalpha.com/news/4669400-ranger-energy-services-gaap-eps-of-0_29-in-line-revenue-of-162_8m-misses-by-15_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 17:22:47 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Microvast Holdings Non-GAAP EPS of -$0.20 misses by $0.22, revenue of $45.8M misses by $34.44M"
+     "zh": "Ranger Energy Services GAAP EPS of $0.29 in-line, revenue of $162.8M misses by $15.1M"
+    },
+    {
+     "title": "Intercorp Financial Services GAAP EPS of S/14.78",
+     "link": "https://seekingalpha.com/news/4669399-intercorp-financial-services-gaap-eps-of-s1478?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 17:21:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Intercorp Financial Services GAAP EPS of S/14.78"
+    },
+    {
+     "title": "两位美联储官员放鹰：Barkin称加息方向明确，节奏需审慎，Goolsbee称必须直面\"通胀失控\"",
+     "link": "https://wallstreetcn.com/articles/3785604",
+     "pubDate": "Tue, 10 Nov 2026 06:19:38 +0800",
+     "summary": "两位美联储官员相继发出鹰派信号，强调通胀压力持续，货币政策收紧方向明确，但执行节奏仍需谨慎权衡。 里士满联储主席Tom Barkin周一表示， 强劲需求与居高不下的通胀意味着利率仍需进一步上升，但他同时警示，任何加息行动都需以审慎步伐推进。 这一表态与近期多位联储官员的立场保持一致。 在消费端，Barkin指出，企业盈利表现亮眼，消费者支出依然具有韧性，经济正经历失业率持续处于4.5%或以下的历史性连续纪录。但他也对这一强势能否持续提出疑问，并指出企业与家庭均持续反映成本上涨压力，令通胀前景仍存不确定性。 值得关注的是，Barkin将AI热潮称为政策制定者面临的\"房间里的大象\"，认为其走向将对",
+     "source": "华尔街见闻",
+     "zh": "两位美联储官员放鹰：Barkin称加息方向明确，节奏需审慎，Goolsbee称必须直面\"通胀失控\""
+    },
+    {
+     "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+     "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+     "pubDate": "Mon, 09 Nov 2026 22:16:13 GMT",
+     "summary": "US company has been rocked by allegations its chief executive had affair with Chinese spy",
+     "source": "Financial Times",
+     "zh": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang"
     },
     {
      "title": "周二美国10月CPI报告将缺失同比数据，系2025年政府停摆所致",
@@ -2417,14 +2441,6 @@
      "zh": "Skydance outlines its $6 billion in planned cost savings. Here&apos;s the breakdown"
     },
     {
-     "title": "Nvidia shares fall as it probes alleged Chinese spy scandal",
-     "link": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
-     "pubDate": "Mon, 09 Nov 2026 21:24:32 GMT",
-     "summary": "Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair",
-     "source": "Financial Times",
-     "zh": "Nvidia shares fall as it probes alleged Chinese spy scandal"
-    },
-    {
      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
      "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
      "pubDate": "Mon, 09 Nov 2026 21:24:00 GMT",
@@ -2452,7 +2468,7 @@
      "title": "全球市场：美股三大指数均涨超2% 费城半导体指数涨近7% 国际油价大跌",
      "link": "http://stock.eastmoney.com/news/11784,202611103926634778.html",
      "pubDate": "Tue, 10 Nov 2026 05:15:08 +0800",
-     "summary": "美股市场： 美股三大指数11月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨1104.02点，收于52389.75点，涨幅为2.15%； 标准普尔 500种股票指数上涨173.08点，收于7549.94点，涨幅为2.35%； 纳斯达克 综合 指数上涨673.72点，收于25253.14点，涨幅为2.74%。 “科技七巨头”多数上涨， 特斯拉 涨5.54%，Meta涨5.12%， 亚马逊 涨2.94%， 微软 涨2.75%， 苹果 涨2.43%，谷歌涨1.18%； 英伟达 跌4.27%。 半导体 、光 通信 板块反弹，费城 半导体 指数涨近7%。个股方面，Coherent涨16",
+     "summary": "美股市场： 美股三大指数11月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨1104.02点，收于52389.75点，涨幅为2.15%； 标准普尔 500种股票指数上涨173.08点，收于7549.94点，涨幅为2.35%； 纳斯达克 综合 指数上涨673.72点，收于25253.14点，涨幅为2.74%。 “科技七巨头”多数上涨， 特斯拉 涨5.54%，Meta涨5.12%， 亚马逊 涨2.94%， 微软 涨2.75%， 苹果 涨2.43%，谷歌涨1.18%； 英伟达 跌4.27%创近七个月收盘新低，消息面上，黄仁勋个人丑闻发酵并遭内部调查。 半导体 、光 通信 板块反弹，",
      "source": "东方财富资讯",
      "zh": "全球市场：美股三大指数均涨超2% 费城半导体指数涨近7% 国际油价大跌"
     },
@@ -2479,22 +2495,6 @@
      "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
      "source": "CNBC",
      "zh": "A key report for where inflation stood in October comes out Tuesday. Here&apos;s what to expect"
-    },
-    {
-     "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-     "pubDate": "Mon, 9 Nov 2026 21:00:00 GMT",
-     "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-     "source": "Federal Reserve",
-     "zh": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc."
-    },
-    {
-     "title": "Children’s Place files for bankruptcy protection, seeks buyer",
-     "link": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
-     "pubDate": "Mon, 09 Nov 2026 20:57:46 GMT",
-     "summary": "The Children's Place has filed for chapter 11 bankruptcy protection and is seeking bids from potential new owners by Dec. 9.",
-     "source": "CNBC",
-     "zh": "Children’s Place files for bankruptcy protection, seeks buyer"
     }
    ]
   },

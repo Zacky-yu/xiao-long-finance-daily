@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/9 11:31:53",
+ "generated_at": "2026/11/9 11:52:03",
  "recent_days": 7,
  "industries": [
   {
@@ -642,6 +642,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Dongfeng Nissan sets NX7 debut in for November 13, pre-sales to open same day",
+     "link": "https://cnevpost.com/2026/11/09/dongfeng-nissan-nx7-debut-nov-13/",
+     "pubDate": "Mon, 09 Nov 2026 03:48:06 +0000",
+     "summary": "The NX7 plug-in hybrid SUV, the fourth model in Dongfeng Nissan's N series, is expected to go on sale this year. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Dongfeng Nissan sets NX7 debut in for November 13, pre-sales to open same day"
+    },
+    {
      "title": "BMW advances Neue Klasse roll-out in China with iX3 and i3 launches this month",
      "link": "https://cnevpost.com/2026/11/09/bmw-neue-klasse-ix3-i3-launches-china-nov/",
      "pubDate": "Mon, 09 Nov 2026 03:01:54 +0000",
@@ -768,14 +776,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla broke almost every promise it made about the Cybertruck. The result was unambiguous: A failure of historic proportions.",
      "source": "InsideEVs",
      "zh": "It’s Official: The Cybertruck Is One Of The Greatest Flops In Automotive History"
-    },
-    {
-     "title": "Geely adds new special editions to hot-selling Xingyuan EV after hitting 1-million milestone",
-     "link": "https://cnevpost.com/2026/11/06/geely-adds-special-editions-xingyuan/",
-     "pubDate": "Fri, 06 Nov 2026 12:42:52 +0000",
-     "summary": "The official guidance prices for the two new versions are both 91,800 yuan ($13,670), with a limited-time benefit price of 88,800 yuan. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Geely adds new special editions to hot-selling Xingyuan EV after hitting 1-million milestone"
     },
     {
      "title": "How Far Can Your EV Go After It Says It’s Empty?",
@@ -1754,12 +1754,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "深圳成为全球消费级 3D 打印第一城",
-     "link": "https://www.ithome.com/1/024/102.htm",
-     "pubDate": "Mon, 09 Nov 2026 03:28:59 GMT",
-     "summary": "IT之家 11 月 9 日消息，“广东发布”官方今日发文，今年上半年，深圳 3D 打印设备产量同比增长 58.1%，出口额同比增长 127.5%， 占全国同类产品出口总额的 86% 。 “广东发布”表示，深圳凭借强大的产业和科技创新能力，牢牢占据全球 3D 打印市场， 一举拿下全球消费级 3D 打印第一城的宝座 。 国家统计局数据显示，2026 年上半年，国内 3D 打印设备产量同比增长 48.5%，增速在主要工业产品中排名第一。出口端表现更为突出，上半年我国累计出口 3D 打印机 362 万台，同比增长 90.2%，出口金额达 96.11 亿元，同比增长 109.3%。 据财联社报道， 拓竹",
+     "title": "【视频】18万车主参与，第二届华为乾崑智驾公开赛进行中",
+     "link": "https://www.ithome.com/1/024/113.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:47:28 GMT",
+     "summary": "第二届华为乾崑智驾公开赛火热进行中！18 万车主参赛，一同感受华为乾崑智驾 ADS 5 真实路况表现。 点击关注IT之家视频号",
      "source": "IT之家",
-     "zh": "深圳成为全球消费级 3D 打印第一城"
+     "zh": "【视频】18万车主参与，第二届华为乾崑智驾公开赛进行中"
+    },
+    {
+     "title": "3299 → 656 元破冰新低：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平",
+     "link": "https://www.ithome.com/1/024/112.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:47:23 GMT",
+     "summary": "石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。 今日按下方步骤下单，仅需 656 元即可入手。 先领 88VIP 家电 1500-150 元消费券： 点此领券 。 下单前需咨询客服“ 返现金额 ”备注后下单，实付大于 1800 元， 晒单返 1187 元 。 按下方步骤下单实付 1843 元 ，返现后折合 656 元 破冰新低。 点击下方卡片跳转淘宝 App 后 → 点击 宝贝右上角“ … ” → 点击弹出页面 右下角“ 淘金币 ”* 点击此宝贝。 天猫 石头洗地机 A30 M",
+     "source": "IT之家",
+     "zh": "3299 → 656 元破冰新低：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平"
+    },
+    {
+     "title": "Anthropic 揭秘科学家用 Claude 都干啥：大多用来分析数据和写作",
+     "link": "https://www.ithome.com/1/024/111.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:41:26 GMT",
+     "summary": "IT之家 11 月 9 日消息，Anthropic 近日发布研究报告， 显示科学家主要将 Claude 用于数据分析和写作 ，收集数据、生成研究假设则较少使用 AI。 IT之家了解到，Anthropic 此次研究使用了 2026 年 8 月 2 日至 9 月 30 日的 20.7 万次科研会话，其中包含 12.9 万次 Claude 对话和 Cowork 会话，以及 7.8 万次 Claude Code 会话。系统只保留并研究会话所属的学科、研究子领域和具体任务等分类标签，不会提取或保存研究数据、假设、实验方法、初步发现或未发表论文等具体内容。所有结果均以汇总形式呈现，以保护隐私。 从学科来看",
+     "source": "IT之家",
+     "zh": "Anthropic 揭秘科学家用 Claude 都干啥：大多用来分析数据和写作"
+    },
+    {
+     "title": "公安部 12 月 1 日起推行 5 项交管便民利企新措施，进口小客车可网上一站上牌",
+     "link": "https://www.ithome.com/1/024/110.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:41:07 GMT",
+     "summary": "IT之家 11 月 9 日消息，公安部今日宣布，进一步提升交管服务便利化水平，提升群众企业办事体验，推出进口小客车新车上牌“一件事”等 5 项公安交管便民利企改革新措施，将自 12 月 1 日起在全国全面推行。 推行进口小客车新车上牌“一件事” 。在与税务、金融监管等部门共享车辆销售发票、购置税、保险等信息，实现国产小客车新车上牌“一件事”基础上，进一步加强与市场监管部门信息联网，共享进口小客车预查验信息。群众购买进口小客车后，可通过“交管 12123”App，网上一站办结所有选号上牌业务，不再需要到办事窗口办理业务，免于多部门、多窗口来回往返，减轻群众办事负担，实现足不出户登记上牌。 推行企",
+     "source": "IT之家",
+     "zh": "公安部 12 月 1 日起推行 5 项交管便民利企新措施，进口小客车可网上一站上牌"
+    },
+    {
+     "title": "Anthropic招股书，很多人都白看了",
+     "link": "https://www.huxiu.com/article/4904067.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 11:40:10 +0800",
+     "summary": "本文来自微信公众号： 牌桌 Poker Table ，作者：李戛 这两天，所有人都在读Anthropic的招股书，各种解读文章出了一万篇，一看观点都差不多，估计其中八千篇是AI代读的。 把这篇招股书逐字读完，我们发现很多有意思的事实被错过了。 有些事实虽然有人注意到了，但要么没解读，要么解读方向都歪了。 01 给达里奥请安保的钱，相当于他年薪的四倍。 2025年，达里奥·阿莫迪（Dario Amodei）和妹妹丹妮拉·阿莫迪（Daniela Amodei）的年薪都是65.4万美元。而Anthropic为两人支付的安保费，达里奥是274.6万美元，丹妮拉是129.4万美元。 招股书披露的达里奥2",
+     "source": "虎嗅",
+     "zh": "Anthropic招股书，很多人都白看了"
+    },
+    {
+     "title": "宝马公布 2026 广州车展阵容：新世代 BMW i3/iX3 领衔，MINI COUNTRYMAN 中国首秀",
+     "link": "https://www.ithome.com/1/024/109.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:32:49 GMT",
+     "summary": "IT之家 11 月 9 日消息，宝马集团今日公布广州车展参展阵容，活动时间为 11 月 27 日至 12 月 6 日。根据官方公布的信息来看，新世代 BMW i3、新世代 BMW iX3 将迎来上市，全新 MINI COUNTRYMAN 等车型也将迎来中国首秀。 据介绍，新世代 BMW i3 将于 11 月 27 日 正式上市，全国统一价模式，大订开启一步到位；新世代 BMW iX3 将于 11 月 25 日 正式上市，预订客户可转大订，店内试驾及车辆交付届时陆续开启。 此外，全新 BMW 7 系个性化定制双质感涂装即将迎来中国首秀，将高光和哑光放在同一台车上；全新 MINI COUNTRYM",
+     "source": "IT之家",
+     "zh": "宝马公布 2026 广州车展阵容：新世代 BMW i3/iX3 领衔，MINI COUNTRYMAN 中国首秀"
+    },
+    {
+     "title": "华为智选车产品总监彭磊：享界 G9 本月首周完成 ToC 交付 1435 辆，均价超 50 万元",
+     "link": "https://www.ithome.com/1/024/108.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:32:11 GMT",
+     "summary": "IT之家 11 月 9 日消息， 鸿蒙智行首款科技豪华硬派 SUV 享界 G9 已于今年 8 月上市发布 。华为智选车产品总监（享界系列）彭磊今日公布了这款车型最新动态： 随着享界超级工厂生产爬坡上量， 享界 G9 在 11 月第一周完成 ToC 交付 1435 辆 ，均价超过了 50 万， 全月目标 C 端交付量冲刺 5000 台 。 享界 G9 在 9 月底才开启首批交付， 10 月是第一个完整生产交付月 ，产能确实经历了爬坡的过程。 据IT之家此前报道，享界 G9 首发搭载鸿蒙智行智能全地形系统、800V 全主动可断开稳定杆、自适应牙嵌式差速锁等硬核配置，去露营还能升起电动顶帐、打开尾门",
+     "source": "IT之家",
+     "zh": "华为智选车产品总监彭磊：享界 G9 本月首周完成 ToC 交付 1435 辆，均价超 50 万元"
+    },
+    {
+     "title": "奔驰摊牌了：跳过L3，直接冲刺L4",
+     "link": "https://www.huxiu.com/article/4904063.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 11:29:46 +0800",
+     "summary": "本文来自微信公众号： 超电实验室 ，作者：在洲 11月7日，奔驰首席技术官约尔格·布尔策在一场媒体圆桌会议上，被问到为什么最新款S级在美国没有配Drive Pilot。 他的回答是，这套系统推出得太早了。 “抢先推出新技术，不代表就能满足消费者的实际需求。”他补了一句，“有时候技术推出得太早，反而会发现自己还得重新研究客户到底需要什么。” 翻译过来就是，奔驰做了五年L3，现在决定不做了。 新路线是，先把L2++做到极致，然后跳过L3直接冲L4，至于L4的量产时间，布尔策给的是2030年之后。 01 五年前它是全球第一个 2021年底，奔驰Drive Pilot拿到德国联邦运输管理局的批准，成为",
+     "source": "虎嗅",
+     "zh": "奔驰摊牌了：跳过L3，直接冲刺L4"
     },
     {
      "title": "我养了条大肥鱼，让它给我直播赚钱",
@@ -1768,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 光锥智能 ，作者：关注前沿科技的，原文标题：《实测｜我养了条大肥鱼，让它给我直播赚钱》 我要给大肥鱼完整的一生。 最近刷B站和抖音，总感觉像掉进了“鱼塘”。 一条蓝色的大肥鲸，自己注册账号、发视频、回评论、经营账号，主人偶尔看一眼就行。评论区被这些AI回复搞得“乌烟瘴气”，根本不知所云。 多刷刷视频，还能发现大肥鱼还出现在QQ里，会聊天、记日记、发表情包。再装上几个插件，还能刷视频、回评论，甚至开直播。DeepSeek图标上那条原本安安静静的鲸鱼，突然被网友们养出了电子生命的感觉。 甚至还出现了围绕大肥鱼的产业链。各平台自动起号，卖教程的、代养的跟着冒头。我也没忍住，用D",
      "source": "虎嗅",
      "zh": "我养了条大肥鱼，让它给我直播赚钱"
-    },
-    {
-     "title": "微信鸿蒙版 App 安装量超 9000 万次，华为 HarmonyOS 终端用户数预计本月突破 1 亿大关",
-     "link": "https://www.ithome.com/1/024/099.htm",
-     "pubDate": "Mon, 09 Nov 2026 03:24:40 GMT",
-     "summary": "IT之家 11 月 9 日消息，微信鸿蒙版 App 今日再迎里程碑时刻 —— 安装量正式突破 9000 万 （最新数据显示安装量为 9017 万次）。 值得一提的是，在 11 月 5 日的华为擎云 2026 鸿蒙办公产业峰会上，华为官方公布了 HarmonyOS 系统最新用户数据。 目前，华为 HarmonyOS 6&amp;7 终端设备数已突破 9000 万、华为终端设备款数 140+、可获取应用和服务数 45 万+ 。HarmonyOS 终端用户数也即将突破 1 亿，预计会在 11 月下旬达成这一目标。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 延",
-     "source": "IT之家",
-     "zh": "微信鸿蒙版 App 安装量超 9000 万次，华为 HarmonyOS 终端用户数预计本月突破 1 亿大关"
     },
     {
      "title": "国产大模型的困难才刚刚开始",
@@ -1794,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "沉迷AI 的老板和客户，正把设计师变成“像素搬运工”"
     },
     {
-     "title": "东风本田 CR-V 全能荣耀款明日上市，预计座舱等配置升级",
-     "link": "https://www.ithome.com/1/024/089.htm",
-     "pubDate": "Mon, 09 Nov 2026 03:15:13 GMT",
-     "summary": "IT之家 11 月 9 日消息，据东风本田官方，CR-V 全能荣耀款上市发布会将于 11 月 10 日 17:00 举行。目前官方暂未公布新车的配置及价格信息，预计主要升级智能座舱与智驾配置。 IT之家注意到，CR-V 全球 30 年荣耀款指导价为 18.59-24.99 万元， 提供燃油版和混动版双版本 。该车外观方面基本延续 2024 款车型设计，前脸带有大尺寸黑色格栅，继续配备细长造型大灯组和前包围黑色装饰条；车身提供传统造型门把手；车尾带有 L 形尾灯组。 作为参考，在售车型将悬浮式中控屏尺寸升级至 12.3 英寸，取消了屏幕左侧物理旋钮和空调出风口之间的网格装饰。车辆同时匹配三辐式方",
-     "source": "IT之家",
-     "zh": "东风本田 CR-V 全能荣耀款明日上市，预计座舱等配置升级"
-    },
-    {
      "title": "Tencent&apos;s chief AI scientist Yao Shunyu says AI&apos;s bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)",
      "link": "https://www.techmeme.com/261108/p21#a261108p21",
      "pubDate": "Sun, 08 Nov 2026 22:15:01 -0500",
@@ -1810,25 +1850,9 @@ window.INDUSTRY_DATA = {
      "zh": "Tencent&apos;s chief AI scientist Yao Shunyu says AI&apos;s bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)"
     },
     {
-     "title": "人民空军“新家伙”来了，我国攻击-11 无尾飞翼布局无人机大大方方展示",
-     "link": "https://www.ithome.com/1/024/088.htm",
-     "pubDate": "Mon, 09 Nov 2026 03:14:46 GMT",
-     "summary": "IT之家 11 月 9 日消息，央视军事今日发布视频，宣布人民空军“新家伙”来了， 并在视频中全方位展示了攻击-11 无尾飞翼布局无人机的外观细节 。 IT之家查询获悉，攻击-11 是我国自主研发的无尾飞翼布局无人机，其进气道在机背上方，尾部采用扁平化工艺， 所有武器都装载于机腹的内置弹舱中，弹舱可以容纳多种对面打击弹药 。该机还具备良好的隐身性能，续航时间长，攻击精度高，可遂行制空突击、压制防空等作战任务。 2019 年，在国庆 70 周年阅兵上，攻击-11 无人机首次露面；2021 年，在十三届中国航展上，攻击-11 模型首次参展；2024 年，在新加坡航展上，攻击-11 模型亮相国际舞台",
-     "source": "IT之家",
-     "zh": "人民空军“新家伙”来了，我国攻击-11 无尾飞翼布局无人机大大方方展示"
-    },
-    {
-     "title": "日本产业革新投资机构向三井化学和 DBJ 出售 JSR，总交易价值超 1.8 万亿日元",
-     "link": "https://www.ithome.com/1/024/086.htm",
-     "pubDate": "Mon, 09 Nov 2026 03:14:26 GMT",
-     "summary": "IT之家 11 月 9 日消息，日本产业革新投资机构 (JIC) 当地时间今日发布正式公告，将向三井化学 (Mitsui Chemicals) 和日本政策投资银行 (DBJ) 出售旗下企业 JSR，交易完成后 JSR 将成为三井化学控股子公司 。 本次交易对 JSR 股权估值 13921 亿日元，另有 4479 亿日元债务承担， 总交易价值超 1.8 万亿日元 （IT之家注：现汇率约合 758.84 亿元人民币） ，预计将于 2027 财年下半年完成。 JSR 是全球第二大光刻胶制造商 ，交易完成后三井化学将拥有更广泛的半导体材料产品线。JSR 旗下的生命科学业务将继续被视为非核心业务。此外，",
-     "source": "IT之家",
-     "zh": "日本产业革新投资机构向三井化学和 DBJ 出售 JSR，总交易价值超 1.8 万亿日元"
-    },
-    {
      "title": "英伟达启动独立调查：黄仁勋继续担任CEO",
      "link": "https://www.tmtpost.com/8198079.html",
-     "pubDate": "Mon, 09 Nov 2026 11:12:20 +0800",
+     "pubDate": "Mon, 09 Nov 2026 11:12:00 +0800",
      "summary": "亚洲芯片股反弹，英伟达场外合约仍在下跌。",
      "source": "钛媒体",
      "zh": "英伟达启动独立调查：黄仁勋继续担任CEO"
@@ -1840,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 陈志文观察 ，作者：陈志文 日前山西太原万柏林小学“无薪招聘跟岗教师”引起舆论普遍的愤慨和讨伐。这所小学面向社会招聘跟岗教师，工作内容包括“备课、磨课、批改作业，班级管理，课后服务、校园活动”等等，而且明确标注“无薪酬，食宿自理”，也就是说，除上课外，正式老师需要做的工作都需要做，但需要自带干粮“0元购”。唯一可能获得回报的是：如有岗位空缺，可择优签劳务派遣，月薪1900元。 据网上信息披露，这并非这个学校首次这个干，以前也多次发布过类似招聘信息。 澎湃发评论激烈抨击：哪来的权力和自信？ 这所学校的“底气”，显然来自当下艰难的就业形势。 2026年大学毕业生1270万，如",
      "source": "虎嗅",
      "zh": "从付费实习到无薪招聘：背后是什么？"
-    },
-    {
-     "title": "背屏支持心率血氧检测：荣耀 700 系列手机四色官图公布",
-     "link": "https://www.ithome.com/1/024/078.htm",
-     "pubDate": "Mon, 09 Nov 2026 03:10:18 GMT",
-     "summary": "IT之家 11 月 9 日消息，荣耀现已公布荣耀 700 系列手机四种配色的官图，新机的配色分别为「晴空」「粉雾」「冷白」「蓝调」。 IT之家注意到， 官图显示荣耀 700 系列的背屏支持心率血氧检测 ，并拥有后摄自拍、航班提醒等功能。 荣耀全球首席营销官关海涛曾于本月初表示，荣耀 700 系列新机方向很明确：继承旗舰级影像能力、探索 AI 时代年轻人的新鲜玩法，并守住荣耀一直以来的优势长板。 结合微博博主 @数码闲聊站 此前爆料， 荣耀 700 系列手机采用同档唯一双 8 芯片 ，拥有更强性能 + 更大电池 + 潜望镜 + 旗舰影像 + 自拍背屏。",
-     "source": "IT之家",
-     "zh": "背屏支持心率血氧检测：荣耀 700 系列手机四色官图公布"
     },
     {
      "title": "汽修店越开越多，为什么赚的钱却越来越少？",
@@ -1864,22 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "生意还在，溢价没了。",
      "source": "钛媒体",
      "zh": "消费三姐妹，为什么不香了？"
-    },
-    {
-     "title": "造车不行那就造机器人，贾跃亭的新项目靠谱吗？",
-     "link": "https://www.huxiu.com/article/4902608.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 10:52:25 +0800",
-     "summary": "造车不行那就造机器人，贾跃亭在北美的新买卖居然有点魔幻，今年10月FF机器人单月销售和出货351台，累计破千，卖得比他造车十几年还多。但也别太乐观，所谓销量包括渠道铺货和试点，真正落地还有限，即便全年卖2000台也只是刚起步。老问题像亏损、债务、退市风险都没解决，机器人业务还养不活整个公司。",
-     "source": "虎嗅",
-     "zh": "造车不行那就造机器人，贾跃亭的新项目靠谱吗？"
-    },
-    {
-     "title": "纽约随笔2026",
-     "link": "https://www.huxiu.com/article/4904018.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 10:45:17 +0800",
-     "summary": "本文来自微信公众号： 腾达资本 ，作者：刁扬 DY，题图来自：视觉中国 再回首：站在 2026 年的深秋回望，正值 AI 浪潮撞上资本市场剧烈震荡，历史不会简单重复，但总是似曾相识？ 2013 2013年是一个神奇的年份。多年后回忆，那个蛇年是一个承上启下的转折年，是一个经历了2011到2013年周期，从泡沫破裂、信心崩溃、搓磨沉淀，直到厚积薄发的年份。 三年之前，全球经济刚走出了2008年金融危机的阴影，市场烈火烹油，中国新一代互联网和科技公司扎堆去美国上市，其中就有电商 （麦考林、当当） 、应用平台 （SkyMobi） 、IT外包 （软通） 、垂直门户 （易车） 、网络视频 （优酷） 、内",
-     "source": "虎嗅",
-     "zh": "纽约随笔2026"
     },
     {
      "title": "Job listings show Amazon is building a \"new-to-world\" home robot to operate \"alongside family members\", after its $1,450 Astro reached only a few thousand homes (Annie Palmer/CNBC)",
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "RIP, Harvest",
      "link": "https://aphyr.com/posts/427-rip-harvest",
      "pubDate": "Mon, 09 Nov 2026 01:58:21 +0000",
-     "summary": "Article URL: https://aphyr.com/posts/427-rip-harvest Comments URL: https://news.ycombinator.com/item?id=50420035 Points: 24 # Comments: 2",
+     "summary": "Article URL: https://aphyr.com/posts/427-rip-harvest Comments URL: https://news.ycombinator.com/item?id=50420035 Points: 39 # Comments: 14",
      "source": "Hacker News",
      "zh": "RIP, Harvest"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Unlocking any car from X brand in most of the world",
      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
      "pubDate": "Mon, 09 Nov 2026 00:10:50 +0000",
-     "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 115 # Comments: 36",
+     "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 124 # Comments: 44",
      "source": "Hacker News",
      "zh": "Unlocking any car from X brand in most of the world"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
      "link": "https://isocpp.org/files/papers/P4454R0.pdf",
      "pubDate": "Sun, 08 Nov 2026 23:28:01 +0000",
-     "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 85 # Comments: 66",
+     "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 88 # Comments: 68",
      "source": "Hacker News",
      "zh": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Chimera Vocal Synth",
      "link": "https://chimera-vocal-synth.vercel.app/",
      "pubDate": "Sun, 08 Nov 2026 22:36:03 +0000",
-     "summary": "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 125 # Comments: 16",
+     "summary": "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 128 # Comments: 18",
      "source": "Hacker News",
      "zh": "Chimera Vocal Synth"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
      "link": "https://ketchup3d.github.io/app/",
      "pubDate": "Sun, 08 Nov 2026 22:35:35 +0000",
-     "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 263 # Comments: 79",
+     "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 271 # Comments: 80",
      "source": "Hacker News",
      "zh": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU"
     },
@@ -2250,6 +2250,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nvidia down as it opens review into alleged Chinese spy effort targeting CEO Huang",
+     "link": "https://seekingalpha.com/news/4668776-nvidia-opens-review-into-alleged-chinese-spy-effort-targeting-ceo-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 22:40:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia down as it opens review into alleged Chinese spy effort targeting CEO Huang"
+    },
+    {
+     "title": "沪指上涨0.46% 元件、航天装备领涨 两市半日缩量超1100亿",
+     "link": "http://finance.eastmoney.com/news/1345,202611093926101470.html",
+     "pubDate": "Mon, 09 Nov 2026 11:30:53 +0800",
+     "summary": "A股三大指数缩量小幅上涨，盘面上， 元件 、 航天装备、 6G概念 、 煤炭 、 光通信模块 、 卫星互联网 涨幅居前， 能源金属 、 锂矿概念 、 特钢、 酒店餐饮 、 光伏设备 、 微盘股 表现不佳，领跌市场。 截至午间收盘，沪指上涨0.46%，报3665.94点；深成指上涨0.27%，报11206.24点；创业板指上涨0.56%，报2478.94点；科创50指数上涨0.7%，报1261.95点；北证50指数上涨1.62%，报902.83点。全市场上涨个股有2650家，下跌个股有2707家，51只股涨停。两市半日合计成交10095亿。 今日要闻 国务院关税税则委员会：11月10日起2个月内",
+     "source": "东方财富资讯",
+     "zh": "沪指上涨0.46% 元件、航天装备领涨 两市半日缩量超1100亿"
+    },
+    {
      "title": "GUCCI母公司下场做足金，西方奢侈品开始向老铺黄金“抄作业”？",
      "link": "https://wallstreetcn.com/articles/3785512",
      "pubDate": "Mon, 09 Nov 2026 11:27:41 +0800",
@@ -2258,68 +2274,20 @@ window.INDUSTRY_DATA = {
      "zh": "GUCCI母公司下场做足金，西方奢侈品开始向老铺黄金“抄作业”？"
     },
     {
-     "title": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺",
+     "title": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺、特朗普也发声",
      "link": "https://wallstreetcn.com/articles/3785517",
      "pubDate": "Mon, 09 Nov 2026 11:26:20 +0800",
      "summary": "黄仁勋承认婚外情的消息，迅速从一桩个人丑闻演变为一场牵动AI交易走向的市场事件。硅谷与华尔街的声音在同一时间涌向X平台——有人力挺，有人看空，有人担忧英伟达从此失去灵魂。 事件发酵后，硅谷圈最具分量的表态来自马斯克。 红杉资本合伙人Shaun Maguire率先在X上发帖，列出五点立场： “黄仁勋是这一代最伟大的企业家之一；他干了一件极其愚蠢的事；这对美国不好；但我猜他并没有恶意；错上加错并不能变对，但我相信，黄仁勋对美国的AI领导力来说不可替代。” 该帖获得逾213万次浏览。 马斯克随即转发，只简短回复： “我同意。” Bill Ackman：黄仁勋是人，都会犯错，特朗普称愿带黄仁勋出访亚洲",
      "source": "华尔街见闻",
-     "zh": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺"
+     "zh": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺、特朗普也发声"
     },
     {
-     "title": "全国总工会和国家卫生健康委公布2026年爱心托育用人单位名单",
-     "link": "http://www.eeo.com.cn/2026/1109/1088368.shtml",
-     "pubDate": "Mon, 09 Nov 2026 11:24:19 +0800",
-     "summary": "据了解，150家爱心托育用人单位通过单独或联合举办全日托、半日托托育机构，主要为本单位职工提供3岁以下婴幼儿照护服务，管理规范、价格普惠，切实缓解职工生育养育的后顾之忧。",
-     "source": "经济观察网",
-     "zh": "全国总工会和国家卫生健康委公布2026年爱心托育用人单位名单"
-    },
-    {
-     "title": "世纪鼎利11月9日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926093736.html",
-     "pubDate": "Mon, 09 Nov 2026 11:23:41 +0800",
-     "summary": "以下是 世纪鼎利 在北京时间11月9日11:23分盘口异动快照： 11月9日， 世纪鼎利 盘中跌幅达5%，截至11点23分，报5.71元，成交8066.23万元，换手率2.50%。 分笔 11:23:33 5.71 1401↓ 11:23:30 5.72 98↑ 11:23:27 5.72 135↓ 11:23:24 5.73 37↑ 11:23:21 5.73 2035↓ 11:23:18 5.73 51↓ 11:23:15 5.74 178↑ 11:23:12 5.73 476↓ 11:23:09 5.74 100↑ 11:23:06 5.74 1↑ 报价 卖五 5.76 209 卖四 5",
-     "source": "东方财富股票",
-     "zh": "世纪鼎利11月9日盘中跌幅达5%"
-    },
-    {
-     "title": "CPO概念持续反弹 景旺电子涨停",
-     "link": "http://finance.eastmoney.com/news/11440,202611093926094814.html",
-     "pubDate": "Mon, 09 Nov 2026 11:22:59 +0800",
-     "summary": "CPO概念 持续反弹， 景旺电子 涨停， 源杰科技 涨超9%， 致尚科技 、 天通股份 、 蘅东光 等跟涨。",
-     "source": "东方财富股票",
-     "zh": "CPO概念持续反弹 景旺电子涨停"
-    },
-    {
-     "title": "天安新材11月9日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926093329.html",
-     "pubDate": "Mon, 09 Nov 2026 11:22:07 +0800",
-     "summary": "以下是 天安新材 在北京时间11月9日11:22分盘口异动快照： 11月9日， 天安新材 盘中快速上涨，5分钟内涨幅超过2%，截至11点22分，报11.55元，成交1.82亿元，换手率5.45%。 分笔 11:22:02 11.55 700↑ 11:21:59 11.50 2134↑ 11:21:56 11.45 141↑ 11:21:53 11.40 105↑ 11:21:50 11.36 55↑ 11:21:47 11.33 40↑ 11:21:44 11.32 246↑ 11:21:41 11.29 22↑ 11:21:38 11.28 59↓ 11:21:35 11.30 29↑ 报价",
-     "source": "东方财富股票",
-     "zh": "天安新材11月9日快速上涨"
-    },
-    {
-     "title": "鸿富诚11月9日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926092976.html",
-     "pubDate": "Mon, 09 Nov 2026 11:21:39 +0800",
-     "summary": "以下是 鸿富诚 在北京时间11月9日11:21分盘口异动快照： 11月9日， 鸿富诚 盘中快速上涨，5分钟内涨幅超过2%，截至11点21分，报383元，成交7.09亿元，换手率15.76%。 分笔 11:21:27 383.00 86↑ 11:21:24 381.90 15↑ 11:21:21 381.80 41↑ 11:21:18 381.20 37↑ 11:21:15 380.91 6↑ 11:21:12 380.55 28↑ 11:21:09 379.80 20↑ 11:21:06 379.57 2↑ 11:20:54 379.76 2↑ 11:20:51 379.76 3↓ 报价 卖五",
-     "source": "东方财富股票",
-     "zh": "鸿富诚11月9日快速上涨"
-    },
-    {
-     "title": "盛达资源11月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926092773.html",
-     "pubDate": "Mon, 09 Nov 2026 11:21:30 +0800",
-     "summary": "以下是 盛达资源 在北京时间11月9日11:21分盘口异动快照： 11月9日， 盛达资源 盘中涨幅达5%，截至11点21分，报27.87元，成交9.37亿元，换手率5.13%。 分笔 11:21:21 27.87 3742↑ 11:21:18 27.80 439↑ 11:21:15 27.76 448↑ 11:21:12 27.75 60↑ 11:21:09 27.70 88↑ 11:21:06 27.69 448↓ 11:21:03 27.76 256↑ 11:21:00 27.72 480↑ 11:20:57 27.69 164↑ 11:20:54 27.68 94↑ 报价 卖五 27.9",
-     "source": "东方财富股票",
-     "zh": "盛达资源11月9日盘中涨幅达5%"
-    },
-    {
-     "title": "盛达资源11月9日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926092680.html",
-     "pubDate": "Mon, 09 Nov 2026 11:21:30 +0800",
-     "summary": "以下是 盛达资源 在北京时间11月9日11:21分盘口异动快照： 11月9日， 盛达资源 盘中快速上涨，5分钟内涨幅超过2%，截至11点21分，报27.87元，成交9.37亿元，换手率5.13%。 分笔 11:21:21 27.87 3742↑ 11:21:18 27.80 439↑ 11:21:15 27.76 448↑ 11:21:12 27.75 60↑ 11:21:09 27.70 88↑ 11:21:06 27.69 448↓ 11:21:03 27.76 256↑ 11:21:00 27.72 480↑ 11:20:57 27.69 164↑ 11:20:54 27.68 94↑ ",
-     "source": "东方财富股票",
-     "zh": "盛达资源11月9日快速上涨"
+     "title": "无惧“黄仁勋绯闻”，亚洲股市强势反弹，台股一度涨逾6%",
+     "link": "https://wallstreetcn.com/articles/3785518",
+     "pubDate": "Mon, 09 Nov 2026 11:23:23 +0800",
+     "summary": "周一亚洲早盘，亚太股市出现大幅反弹。 截至午盘收盘， MSCI亚太指数涨2.5%至250.39点 ，创近三个月最大单日涨幅。分市场来看： 中国台湾加权指数 涨幅最为突出，盘中一度飙升6.7%，最终收涨约5.9%至42,084点，终结此前连续七个交易日的下跌； 日经225指数 涨3.4%，东证指数同步涨3.4%； 韩国首尔综指 涨幅扩大至2%； 港股恒生指数 小幅上涨0.2%， 上证综指 涨0.4%，表现相对温和； 澳大利亚ASX 200 涨0.1%，基本持平。 美股期货同步走强： 标普500期货涨0.6%，纳斯达克100期货涨0.7% ，延续上周五的反弹势头。 此前中国台湾承诺采取行动平息投资",
+     "source": "华尔街见闻",
+     "zh": "无惧“黄仁勋绯闻”，亚洲股市强势反弹，台股一度涨逾6%"
     },
     {
      "title": "宇树科技暴涨！人形机器人表现活跃 上周融资客布局这些股(名单)",
@@ -2328,22 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月9日早盘，三大股指震荡走高，人形 机器人 板块表现活跃。 其中， 祥明智能 20cm封板， 上纬新材 、 泛亚微透 、宇树科技等涨超10%；其中宇树科技一度超越 联讯仪器 ，成为A股第三高价股，截至发稿仍位居第四； 华培动力 、 爱仕达 、 光洋股份 、 金固股份 等多股涨停。 政策支持不断加码、央企场景开放、海外巨头技术背书与整机厂量产爬坡共振，人形 机器人 正从“舞台演示”加速走向工厂、家庭等真实场景，行业进入订单兑现的关键验证期。 具身智能产业催化密集落地 近日，民政部等六部门联合印发《关于培育多元场景促进适老用品产品消费的若干措施》，其中提出，以国家重大科技项目为牵引，加快推进具",
      "source": "东方财富资讯",
      "zh": "宇树科技暴涨！人形机器人表现活跃 上周融资客布局这些股(名单)"
-    },
-    {
-     "title": "国务院关税税则委员会：调整对原产于美国的进口商品加征关税措施",
-     "link": "http://www.eeo.com.cn/2026/1109/1088364.shtml",
-     "pubDate": "Mon, 09 Nov 2026 11:06:50 +0800",
-     "summary": "国务院关税税则委员会发布公告，自2026年11月10日13时01分起，调整《国务院关税税则委员会关于对原产于美国的进口商品加征关税的公告》（税委会公告2025年第4号）规定的加征关税措施，在2个月内继续暂停实施24%的对美加征关税税率，保留10%的对美加征关税税率。",
-     "source": "经济观察网",
-     "zh": "国务院关税税则委员会：调整对原产于美国的进口商品加征关税措施"
-    },
-    {
-     "title": "国家统计局城市司首席统计师解读2026年10月份CPI和PPI数据",
-     "link": "http://www.eeo.com.cn/2026/1109/1088362.shtml",
-     "pubDate": "Mon, 09 Nov 2026 11:00:49 +0800",
-     "summary": "2026年10月份CPI同比继续上涨，PPI环比涨幅回落，国家统计局城市司首席统计师董莉娟对数据进行了解读。",
-     "source": "经济观察网",
-     "zh": "国家统计局城市司首席统计师解读2026年10月份CPI和PPI数据"
     },
     {
      "title": "外交努力持续！今日特朗普和万斯将在白宫会见美伊关键调解人",
@@ -2362,28 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "China wholesale inflation hits highest in more than four years as consumer measure slows"
     },
     {
-     "title": "国家统计局：2026年10月份CPI同比上涨0.7%，PPI同比上涨5.7%",
-     "link": "http://www.eeo.com.cn/2026/1109/1088352.shtml",
-     "pubDate": "Mon, 09 Nov 2026 10:49:55 +0800",
-     "summary": "11月9日，国家统计局公布2026年10月份价格数据。",
-     "source": "经济观察网",
-     "zh": "国家统计局：2026年10月份CPI同比上涨0.7%，PPI同比上涨5.7%"
-    },
-    {
      "title": "低轨29组卫星成功发射！卫星互联网概念获杠杆资金青睐(名单)",
      "link": "http://finance.eastmoney.com/news/11822,202611093926064057.html",
      "pubDate": "Mon, 09 Nov 2026 10:47:39 +0800",
      "summary": "11月9日，我国成功发射 卫星互联网 低轨29组卫星 ，五院年内低轨组网发射任务圆满收官。 机构认为， 卫星互联网 产业逻辑正由主题催化转向组网加速与商业化兑现。 年内低轨组网发射任务收官 11月9日4时24分，我国在海南 商业航天 发射场使用长征十二号运载火箭，成功将 卫星互联网 低轨29组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 该组卫星由中国 航天科技 集团五院抓总研制，此次发射也标志着五院2026年卫星互联网低轨卫星发射任务正式收官。本次发射是长征系列运载火箭的第676次发射。 受此催化，11月9日A股卫星互联网概念走强， 信维通信 、 中国卫星 涨停， 超捷股份 、",
      "source": "东方财富资讯",
      "zh": "低轨29组卫星成功发射！卫星互联网概念获杠杆资金青睐(名单)"
-    },
-    {
-     "title": "RZR加码中国市场：当AI成为标配，广告科技公司靠什么赢得增长？",
-     "link": "http://www.eeo.com.cn/2026/1109/1088349.shtml",
-     "pubDate": "Mon, 09 Nov 2026 10:40:30 +0800",
-     "summary": "作者 戴莉娟 10月29日，全球效果广告平台RZR位于北京的新办公室正式启用。首席执行官Aman Sareen、首席运营官李王馨（Wangxin Li）、首席营收官Avi Das等多位高管齐聚北京。 对于一家服务全球市场的广告技术公司而言，新办公室的启用并不算特别的新闻。但RZR此次反复强调的一点值得关注：北京不再只是一个销售办事处，而是承担AI研发、数据分析、产品开发与增长运营职...",
-     "source": "经济观察网",
-     "zh": "RZR加码中国市场：当AI成为标配，广告科技公司靠什么赢得增长？"
     },
     {
      "title": "Novo Nordisk reports liver improvements with Wegovy in some patients",
@@ -2434,36 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI“沉船”风险会拖垮美元吗？"
     },
     {
-     "title": "无惧美股抛售？“木头姐”研判：忧虑筑起高墙 牛市走得更长！",
-     "link": "http://finance.eastmoney.com/news/1360,202611093925984275.html",
-     "pubDate": "Mon, 09 Nov 2026 10:02:22 +0800",
-     "summary": "华尔街明星基金经理、方舟投资（Ark Invest）的掌门人凯茜·伍德（Cathie Wood）对上周的市场波动不以为意，她甚至表示，投资者的担忧实际上增强了她对未来进一步上涨的乐观情绪。 美股上周四遭遇猛烈抛售，三大股指均创下2025年4月特朗普宣布“解放日”关税政策以来最大单日跌幅，纳指进入技术性回调区间。上周五，科技股出现初步反弹。 上周的抛售潮很大程度上源于市场担忧民主党掌控的国会将导致 数据中心 建设放缓。但需要注意的是，对 人工智能 （AI）的担忧——尤其是在资本支出、现金流、债务和循环融资方面——已在今年引发多次市场波动。 伍德的公司管理着多个专注于科技和创新领域的基金。她告诉媒",
-     "source": "东方财富资讯",
-     "zh": "无惧美股抛售？“木头姐”研判：忧虑筑起高墙 牛市走得更长！"
-    },
-    {
-     "title": "过去19年来最大的“意外”！高盛分析师复盘上周四的“科技股灾”",
-     "link": "https://wallstreetcn.com/articles/3785507",
-     "pubDate": "Mon, 09 Nov 2026 09:36:04 +0800",
-     "summary": "上周四，美股遭遇了一场令期权市场措手不及的历史性冲击。高盛衍生品策略师Brian Garrett在最新周末报告中指出，无论从市值蒸发规模、成交量、波动率跳升幅度还是投资者仓位来看，这一天的市场数据均与新冠疫情冲击、全球金融危机及所谓\"对等关税日\"的关税恐慌形成呼应——但其最大的特殊性在于， 此次下跌相对于期权市场此前定价的“意外程度”，是过去19年来之最 。 上周四，纳斯达克100指数单日暴跌6.4%，为2020年3月以来最大单日跌幅；标普500指数下跌4.4%，为所谓\"对等关税日\"以来最差表现。 当日，Cboe历史上单日认沽期权成交量创下纪录，约2.5万亿美元的纳斯达克100市值在一个交易日",
-     "source": "华尔街见闻",
-     "zh": "过去19年来最大的“意外”！高盛分析师复盘上周四的“科技股灾”"
-    },
-    {
      "title": "AbbVie reports improved facial satisfaction among weight-loss drug users",
      "link": "https://seekingalpha.com/news/4668783-abbvie-reports-improved-facial-satisfaction-among-weight-loss-drug-users?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 08 Nov 2026 20:33:09 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "AbbVie reports improved facial satisfaction among weight-loss drug users"
-    },
-    {
-     "title": "陈春花：资源共通，让资源在共生中生长的价值创造",
-     "link": "http://www.eeo.com.cn/2026/1109/1088324.shtml",
-     "pubDate": "Mon, 09 Nov 2026 09:32:51 +0800",
-     "summary": "共生型组织不是简单拥有更多资源，也不是把资源开放给更多伙伴。本期《共生课堂》回到共生型组织的重要特征“资源共通”，理解为什么资源只有进入共同价值创造，才可能从静态拥有转化为共生能力。",
-     "source": "经济观察网",
-     "zh": "陈春花：资源共通，让资源在共生中生长的价值创造"
     },
     {
      "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
@@ -2488,6 +2400,94 @@ window.INDUSTRY_DATA = {
      "summary": "The large-cap index is nowhere near as diversified as you think.",
      "source": "MarketWatch",
      "zh": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives."
+    },
+    {
+     "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+     "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 00:30:00 GMT",
+     "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+     "source": "MarketWatch",
+     "zh": "I’m second-guessing my adviser: Is an annuity the right move in this market?"
+    },
+    {
+     "title": "Rubio casts doubt on Iran peace deal as Trump signals reluctance to resume strikes",
+     "link": "https://seekingalpha.com/news/4668781-rubio-casts-doubt-on-iran-peace-deal-as-trump-signals-reluctance-to-resume-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 19:18:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rubio casts doubt on Iran peace deal as Trump signals reluctance to resume strikes"
+    },
+    {
+     "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 00:02:00 GMT",
+     "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+     "source": "MarketWatch",
+     "zh": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home"
+    },
+    {
+     "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+     "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 00:00:00 GMT",
+     "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
+     "source": "MarketWatch",
+     "zh": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out"
+    },
+    {
+     "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+     "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+     "pubDate": "Sun, 08 Nov 2026 23:50:00 GMT",
+     "summary": "The math should actually start with “if” — not “how much.”",
+     "source": "MarketWatch",
+     "zh": "How much in Roth conversions can you do in 2027 with the new tax brackets?"
+    },
+    {
+     "title": "Vir Biotechnology reports positive hepatitis results, early signs of possible cure",
+     "link": "https://seekingalpha.com/news/4668779-vir-biotechnology-reports-positive-hepatitis-results-early-signs-of-possible-cure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 18:27:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Vir Biotechnology reports positive hepatitis results, early signs of possible cure"
+    },
+    {
+     "title": "Asian stocks face new pressure as Nvidia spy probe rattles tech sector",
+     "link": "https://seekingalpha.com/news/4668780-asian-stocks-face-new-pressure-as-nvidia-spy-probe-rattles-tech-sector?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 18:12:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asian stocks face new pressure as Nvidia spy probe rattles tech sector"
+    },
+    {
+     "title": "Nvidia investigates CEO Jensen Huang&apos;s relationship with alleged Chinese spy",
+     "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+     "pubDate": "Sun, 08 Nov 2026 22:53:57 GMT",
+     "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+     "source": "CNBC",
+     "zh": "Nvidia investigates CEO Jensen Huang&apos;s relationship with alleged Chinese spy"
+    },
+    {
+     "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+     "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+     "pubDate": "Sun, 08 Nov 2026 21:53:02 GMT",
+     "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
+     "source": "CNBC",
+     "zh": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike"
+    },
+    {
+     "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+     "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+     "pubDate": "Sun, 08 Nov 2026 18:57:56 GMT",
+     "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
+     "source": "CNBC",
+     "zh": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers"
+    },
+    {
+     "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
+     "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
+     "pubDate": "Sun, 08 Nov 2026 18:10:24 GMT",
+     "summary": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers",
+     "source": "Financial Times",
+     "zh": "Democrats vow to impeach Trump officials and investigate Republican donors"
     }
    ]
   },

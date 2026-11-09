@@ -1050,6 +1050,22 @@ window.INDUSTRY_DATA = {
      "zh": "The next wave of energy storage capacity is already on the grid"
     },
     {
+     "title": "Beyond megawatts: Nuclear’s other capacity expansion challenge",
+     "link": "https://www.utilitydive.com/spons/beyond-megawatts-nuclears-other-capacity-expansion-challenge/873634/",
+     "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+     "summary": "In order to enable capital execution and capacity expansion, nuclear utilities must pair recruitment with strong retention and engagement.",
+     "source": "Utility Dive",
+     "zh": "Beyond megawatts: Nuclear’s other capacity expansion challenge"
+    },
+    {
+     "title": "Behind-the-meter power: An effective tool for bringing large utility customers online faster",
+     "link": "https://www.utilitydive.com/spons/behind-the-meter-power-an-effective-tool-for-bringing-large-utility-custom/833709/",
+     "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+     "summary": "Behind-the-meter (BTM) power is becoming an effective solution to bridge the gap between what the grid can provide and what data centers need to operate smoothly.",
+     "source": "Utility Dive",
+     "zh": "Behind-the-meter power: An effective tool for bringing large utility customers online faster"
+    },
+    {
      "title": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act",
      "link": "https://www.energy-storage.news/pacific-blue-refers-855mwh-battery-storage-system-in-victoria-to-australias-epbc-act/",
      "pubDate": "Mon, 09 Nov 2026 09:23:07 +0000",
@@ -1072,22 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "CHRISTIANA, Tenn. — As sunlight fell between the gaps in flinty November clouds, I found myself impressed by the quietness of the lawn mowers in a Middle Tennessee solar field. Instead of the obnoxious roar of diesel engines, they just produced an occasional moo. Six months ago, Tennessee’s largest ",
      "source": "Canary Media",
      "zh": "Where’s the beef? Under the solar panels."
-    },
-    {
-     "title": "After a gas furnace leak, this retiree went all-electric — for free",
-     "link": "https://www.canarymedia.com/articles/electrification/gas-furnace-leak-to-all-electric",
-     "pubDate": "Mon, 09 Nov 2026 03:30:00 -0500",
-     "summary": "A few years ago, a gas leak from Sherry Frazier's furnace forced her and her daughter out of Frazier’s Baltimore home. “Oh, it was awful,” said Frazier, a retired educator who worked with students with disabilities in Baltimore public schools. “We had bad headaches and were kind of dizzy, wobbly on ",
-     "source": "Canary Media",
-     "zh": "After a gas furnace leak, this retiree went all-electric — for free"
-    },
-    {
-     "title": "The Jackery HomePower 2000 Plus v2 Red Cross Edition — CleanTechnica Tested",
-     "link": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/",
-     "pubDate": "Sun, 08 Nov 2026 22:37:06 +0000",
-     "summary": "Jackery was one of the earliest portable power station producers to bring these beautiful creations into the mainstream. They have a line of portable power stations and proprietary portable, foldable solar panels that continues to make them one of the top go-to options for anyone looking for power o",
-     "source": "CleanTechnica",
-     "zh": "The Jackery HomePower 2000 Plus v2 Red Cross Edition — CleanTechnica Tested"
     }
    ]
   },
@@ -1854,6 +1854,14 @@ window.INDUSTRY_DATA = {
      "link": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
      "pubDate": "Mon, 09 Nov 2026 15:01:03 +0000",
      "summary": "Article URL: https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/ Comments URL: https://news.ycombinator.com/item?id=50426582 Points: 47 # Comments: 23",
+     "source": "Hacker News",
+     "zh": "I Saw Your HN Comment"
+    },
+    {
+     "title": "I Saw Your HN Comment",
+     "link": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+     "pubDate": "Mon, 09 Nov 2026 15:01:03 +0000",
+     "summary": "Article URL: https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/ Comments URL: https://news.ycombinator.com/item?id=50426582 Points: 6 # Comments: 0",
      "source": "Hacker News",
      "zh": "I Saw Your HN Comment"
     },

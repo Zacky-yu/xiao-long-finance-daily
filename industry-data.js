@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/10 07:32:05",
+ "generated_at": "2026/11/10 07:52:10",
  "recent_days": 7,
  "industries": [
   {
@@ -114,6 +114,14 @@ window.INDUSTRY_DATA = {
      "zh": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context"
     },
     {
+     "title": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?",
+     "link": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
+     "pubDate": "Mon, 09 Nov 2026 15:00:00 +0000",
+     "summary": "4 classic leaks, planted in real data, tested cold on 4 models.",
+     "source": "KDnuggets",
+     "zh": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?"
+    },
+    {
      "title": "实测千问办公2.0：1个Team Agent和团队协作，2小时操盘一场热点营销",
      "link": "https://zhidx.com/p/608469.html",
      "pubDate": "Mon, 09 Nov 2026 22:46:09 +0800",
@@ -136,6 +144,14 @@ window.INDUSTRY_DATA = {
      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
      "source": "MIT Tech Review AI",
      "zh": "Innovating with AI in the special chemicals industry"
+    },
+    {
+     "title": "5 Useful Python Automation Scripts for Beginners",
+     "link": "https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners",
+     "pubDate": "Mon, 09 Nov 2026 13:00:00 +0000",
+     "summary": "Learn how to use Python scripts to automate repetitive tasks, organize files, process images, and simplify daily workflows.",
+     "source": "KDnuggets",
+     "zh": "5 Useful Python Automation Scripts for Beginners"
     },
     {
      "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test. The post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appeared first on MarkTec",
      "source": "MarkTechPost",
      "zh": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents"
-    },
-    {
-     "title": "CodeRabbit scales agentic software development and ships 20x more",
-     "link": "https://openai.com/index/coderabbit-codex-daybreak",
-     "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
-     "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-     "source": "OpenAI",
-     "zh": "CodeRabbit scales agentic software development and ships 20x more"
-    },
-    {
-     "title": "Kuken Industries searches 70 years of drawings in minutes",
-     "link": "https://openai.com/index/kuken",
-     "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
-     "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-     "source": "OpenAI",
-     "zh": "Kuken Industries searches 70 years of drawings in minutes"
     }
    ]
   },
@@ -1762,12 +1762,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "《极盗车神》导演赖特执导苹果新宣传视频，Apple Pay 变身“功夫神器”",
+     "link": "https://www.ithome.com/1/024/578.htm",
+     "pubDate": "Mon, 09 Nov 2026 23:47:16 GMT",
+     "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Mac 昨日（11 月 9 日）发布博文，报道称苹果公司发布全新 Apple Pay 宣传视频短片， 由《极盗车神》（Baby Driver）、《僵尸肖恩》（Shaun of the Dead）导演埃德加 · 赖特（Edgar Wright）执导。 IT之家附上相关视频如下： 短片延续苹果近年“电影化营销”的路线，以功夫动作片为视觉语言，通过快速剪辑、急促变焦和夸张的打斗编排，突出 Apple Pay 在结账时的速度与便利。 该短片背景设定在一家便利店：主角在遭遇反派围攻后，先用 Apple Pay 完成支付，随后将货架上的商品变成“武器”反",
+     "source": "IT之家",
+     "zh": "《极盗车神》导演赖特执导苹果新宣传视频，Apple Pay 变身“功夫神器”"
+    },
+    {
+     "title": "当AI开始批量复活老游戏",
+     "link": "https://www.huxiu.com/article/4904303.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 07:40:16 +0800",
+     "summary": "本文来自微信公众号： 刺猬公社 ，作者：刺猬公社编辑部 游戏的“大复活时代”。 最近，一连串老游戏开始集体复活。 比如《扩散性百万亚瑟王》，9月以来，这款被不少人戏称为“二游先帝”的老游戏再度进入玩家视野。在B站等平台上，许多用户重新上传了《扩散性百万亚瑟王》的实机游玩视频，各种各样的复活版本顿时触动了一众“老二次元”的DNA。 弹幕之中，抒情派开始追忆往昔的“二游启蒙”，玩梗派发出“开服不叫我”的调侃声，IP老粉忍不住追问“《乖离性百万亚瑟王》有没有机会搭车重生”…… 震惊过后，更多的路人玩家则是开始畅想：既然停服10年之久的《扩散性百万亚瑟王》都能复活，那么这些年消亡的其他游戏，是不是也有",
+     "source": "虎嗅",
+     "zh": "当AI开始批量复活老游戏"
+    },
+    {
+     "title": "一个猛然凸显的新刚需",
+     "link": "https://www.huxiu.com/article/4904302.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 07:38:52 +0800",
+     "summary": "本文来自微信公众号： 老孙荐读 ，作者：立平坐看云起，原文标题：《孙立平｜一个猛然凸显的新刚需》 讨论消费疲软，常见的解释是收入增速放缓、消费信心不足、房价预期逆转。这些都有道理，但都停留在症状层面。 如果把视线拉长到消费结构变迁的视野中，我们将会看到，人类的消费是有一个阶段性的顺序的：温饱和日用品的刚性消费（第一阶段）→耐用必需品的改善性消费（第二阶段）→提高生活品质的弹性消费（第三阶段）。前两个阶段消费的共同特征是刚性，而第三个阶段需求的一个突出特征则是弹性。 目前我国的消费就是正处于从第二阶段向第三阶段跃迁的关口，而这种跃迁的前提，就是生计上的确定性。弹性消费本质上是一种对未来有信心前提",
+     "source": "虎嗅",
+     "zh": "一个猛然凸显的新刚需"
+    },
+    {
+     "title": "徕卡：M (Typ 240)/M10/M11 系列相机隐藏菜单仅用于诊断和维修，用户自行修改可能发生异常",
+     "link": "https://www.ithome.com/1/024/577.htm",
+     "pubDate": "Mon, 09 Nov 2026 23:37:16 GMT",
+     "summary": "IT之家 11 月 10 日消息，据科技媒体 Notebookcheck 今天报道，徕卡现已确认，部分 M10/11 相机用户自行发现的隐藏菜单仅面向维修设计，建议普通用户不要使用。 IT之家从原报道了解到，部分徕卡用户近期发现，只要通过特定的按键组合，就可以在 M (Typ 240)、M10、M11 系列相机，打开隐藏的服务菜单。该菜单能够显示相机快门数、剩余电池容量等信息，对于二手相机买家而言，这些信息具备一定参考价值。 不过有 Reddit 用户反馈，他们在维修菜单更改部分选项后，相机的显示屏就无法点亮。 该媒体就此事向徕卡询问，对方的回应是： 我们的相机产品并未将内部维修菜单，设计为普",
+     "source": "IT之家",
+     "zh": "徕卡：M (Typ 240)/M10/M11 系列相机隐藏菜单仅用于诊断和维修，用户自行修改可能发生异常"
+    },
+    {
+     "title": "A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang&apos;s relationship with Alice Huang as \"uncomfortably close\" (Sarah Perez/TechCrunch)",
+     "link": "https://www.techmeme.com/261109/p46#a261109p46",
+     "pubDate": "Mon, 09 Nov 2026 18:35:01 -0500",
+     "summary": "Sarah Perez / TechCrunch : A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang's relationship with Alice Huang as &ldquo;uncomfortably close&rdquo; &nbsp; &mdash;&nbsp; Six months before the Nvidia spy scandal emerged, the New York-based short seller ",
+     "source": "Techmeme",
+     "zh": "A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang&apos;s relationship with Alice Huang as \"uncomfortably close\" (Sarah Perez/TechCrunch)"
+    },
+    {
+     "title": "冲击“史上最大 IPO”：消息称 Anthropic 下周四 / 五上市，估值预期遭遇市场降温",
+     "link": "https://www.ithome.com/1/024/576.htm",
+     "pubDate": "Mon, 09 Nov 2026 23:32:38 GMT",
+     "summary": "IT之家 11 月 10 日消息，《华尔街日报》今天（11 月 10 日）发布博文，报道称 AI 厂商 Anthropic 正推进首次公开募股（IPO），目标是在下周四（11 月 19 日）或周五（20 日）开始在纳斯达克交易， 股票代码拟定为 ANT 。该公司预计将在本周初披露 IPO 估值区间、拟发行股份数量及发行价格等关键信息。 市场原本预计 Anthropic 的 IPO 估值约为 1.5 万亿美元 （IT之家注：现汇率约合 10.02 万亿元人民币） ，甚至一度有接近 2 万亿美元 （现汇率约合 13.36 万亿元人民币） 的讨论。但上周 AI 相关股票大幅回调后，部分重要机构投资者",
+     "source": "IT之家",
+     "zh": "冲击“史上最大 IPO”：消息称 Anthropic 下周四 / 五上市，估值预期遭遇市场降温"
+    },
+    {
+     "title": "工行的铁王座，坐不稳了",
+     "link": "https://www.huxiu.com/article/4903940.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 07:26:46 +0800",
+     "summary": "出品 | 妙投APP 作者 | 刘国辉 编辑 | 丁萍 头图 | AI制图 长期居银行股乃至整个A股市值第一的工商银行，这两年有点招架不住了。 近五年来看，在银行股中，工商银行凭借体量上的优势，长时间里一直是稳稳居首的。不过自2025年以来，工商银行 （以下简称&ldquo;工行&rdquo;） 市值相继被农业银行、建设银行 （以下分别简称&ldquo;农行&rdquo;、&ldquo;建行&rdquo;） 挑战。 2025年9月，农行凭借强劲的股价表现，总市值超过工行，一度登顶A股市值榜首。进入2026年，此前涨幅较大的农行出现回调，建行则接棒上涨，并于5月超过工行，登顶A股市值榜首。 &n",
+     "source": "虎嗅",
+     "zh": "工行的铁王座，坐不稳了"
+    },
+    {
      "title": "Mac 用户速更新：苹果 macOS 27.2.1 修复 eMudhra 证书漏洞残留风险",
      "link": "https://www.ithome.com/1/024/575.htm",
      "pubDate": "Mon, 09 Nov 2026 23:22:31 GMT",
      "summary": "IT之家 11 月 10 日消息，科技媒体 MacRumors 今天（11 月 10 日）发布博文，报道称在 macOS Golden Gate 27.2.1 系统中命令行工具中， 苹果修复了 eMudhra 证书漏洞残留风险。 IT之家此前报道，苹果公司于上月（2026 年 10 月）发布 macOS 更新， 在 Safari、邮件及采用苹果框架的应用中，屏蔽相关被泄露证书 ，但 curl、git 等命令行工具仍可能接受这些证书，导致开发者及高级用户面临潜在风险。 此次更新后，macOS 的命令行工具将不再信任受影响的 eMudhra 根证书，意味着通过终端执行网络请求、代码拉取或软件安装时",
      "source": "IT之家",
      "zh": "Mac 用户速更新：苹果 macOS 27.2.1 修复 eMudhra 证书漏洞残留风险"
+    },
+    {
+     "title": "【钛晨报】“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争",
+     "link": "https://www.tmtpost.com/8198851.html",
+     "pubDate": "Tue, 10 Nov 2026 07:20:00 +0800",
+     "summary": "中国10月CPI同比上涨0.7%，环比持平；李强签署国务院令，公布《中医药传统知识保护条例》；字节跳动发布豆包图像模型Seedream 5.5；英伟达宣布对多家韩国AI初创企业投资计划；媒体：黄仁勋或被英伟达免职，尚未指定接班人；AMD：第五代EPYC处理器为谷歌TPU 8tx提供主机基础设施",
+     "source": "钛媒体",
+     "zh": "【钛晨报】“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争"
     },
     {
      "title": "美国以外首个：苹果将在土耳其建立先进制造培训中心，为中小企业免费提供咨询和培训服务",
@@ -1810,28 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Hotel giant Wyndham exposed customer data after app security lapse"
     },
     {
-     "title": "Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch",
-     "link": "https://www.ithome.com/1/024/571.htm",
-     "pubDate": "Mon, 09 Nov 2026 22:58:32 GMT",
-     "summary": "IT之家 11 月 10 日消息，据科技媒体 MacRumors 昨天报道，Meta 现已更新 iOS 版 Muse 应用，新增 Apple Watch 支持。这意味着苹果 Apple Watch 用户现在可以使用这款个人 AI 智能体， 在腕上完成各种任务 。 据介绍，Apple Watch 版 Muse 的主界面带有吉祥物元素。用户可以选择打字、语音输入、拨打语音电话等交互方式，支持表盘。 据IT之家了解，Muse 是 Meta 推出的一款个人 AI 智能体，能够帮助用户完成各种任务。它提供独立应用，并已集成至 Instagram、Facebook 等 Meta 应用中。 Meta 为 M",
-     "source": "IT之家",
-     "zh": "Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch"
-    },
-    {
-     "title": "苹果推送 iOS 27.2.1 更新，修复 Message 群聊权限在内的 9 个漏洞",
-     "link": "https://www.ithome.com/1/024/572.htm",
-     "pubDate": "Mon, 09 Nov 2026 22:58:32 GMT",
-     "summary": "IT之家 11 月 10 日消息，苹果公司今天（11 月 10 日）开始推送 iOS 27.2.1 更新（内部开发代号为 24B156）， 属于小型维护更新，主要修复错误和整合安全更新。 在更新日志中，苹果说明为： “ 本更新为 iPhone 提供了错误修复和安全更新。 ” 苹果未在发布说明中列出具体修复的漏洞或功能细节。 更新方式上，用户前往设置 > 通用 > 软件更新，若看到 iOS 27.2.1，点按下载并安装。更新前建议先通过 iCloud 或电脑备份，并保持设备电量充足、连接 Wi‑Fi。 图源：@May_J_Ni IT之家查询苹果公司官方安全内容页面，目前最新 iOS 版本依然列为",
-     "source": "IT之家",
-     "zh": "苹果推送 iOS 27.2.1 更新，修复 Message 群聊权限在内的 9 个漏洞"
-    },
-    {
-     "title": "Take-Two CEO 泽尔尼克称《GTA 6》预购量远远超出预期，有望为公司树立新业绩基准",
-     "link": "https://www.ithome.com/1/024/570.htm",
-     "pubDate": "Mon, 09 Nov 2026 22:47:55 GMT",
-     "summary": "IT之家 11 月 10 日消息，Take-Two CEO 施特劳斯 · 泽尔尼克今天在公司 2027 财年第 2 财季电话会议中表示， 《GTA6》游戏预购量远远超出预期 ，并确信这款游戏的数字很快就会说明一切。 泽尔尼克承诺，《GTA5》和《GTA 线上模式》将继续获得更新，公司将服务接近 2.35 亿的存量玩家群体。 Take-Two 总裁卡尔 · 斯塔托夫（Karl Statoff）则认为，《GTA6》发售将成为全球娱乐产业的标志性时刻。泽尔尼克随后在问答环节表示，《GTA6》将为公司树立新的业绩标准。他指出：“公司各方面的未来都非常光明。” Take-Two 预计下一季度营收将达到 ",
-     "source": "IT之家",
-     "zh": "Take-Two CEO 泽尔尼克称《GTA 6》预购量远远超出预期，有望为公司树立新业绩基准"
+     "title": "Jensen Huang Scandal Sparks Speculation–Jensen's Wife Could Get Half",
+     "link": "https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/",
+     "pubDate": "Mon, 09 Nov 2026 22:50:35 +0000",
+     "summary": "Article URL: https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/ Comments URL: https://news.ycombinator.com/item?id=50433438 Points: 18 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Jensen Huang Scandal Sparks Speculation–Jensen's Wife Could Get Half"
     },
     {
      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
@@ -1877,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "TPUs",
      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
      "pubDate": "Mon, 09 Nov 2026 21:56:57 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 75 # Comments: 5",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 97 # Comments: 11",
      "source": "Hacker News",
      "zh": "TPUs"
     },
@@ -1904,6 +1952,14 @@ window.INDUSTRY_DATA = {
      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
      "source": "Ars Technica",
      "zh": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling"
+    },
+    {
+     "title": "Supply chain attack on Qubole customers",
+     "link": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
+     "pubDate": "Mon, 09 Nov 2026 21:07:26 +0000",
+     "summary": "Article URL: https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack Comments URL: https://news.ycombinator.com/item?id=50432147 Points: 12 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Supply chain attack on Qubole customers"
     },
     {
      "title": "SpaceX plans a gas-fired power plant and super-compute facility in Starbase, TX, with ~$24B of investment for initial phases, per a public hearing notice (Bloomberg)",
@@ -1941,65 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
      "pubDate": "Mon, 09 Nov 2026 20:04:55 +0000",
-     "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 216 # Comments: 129",
+     "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 228 # Comments: 144",
      "source": "Hacker News",
      "zh": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far"
-    },
-    {
-     "title": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
-     "link": "https://www.techmeme.com/261109/p40#a261109p40",
-     "pubDate": "Mon, 09 Nov 2026 15:00:51 -0500",
-     "summary": "Frederic Lardinois / The New Stack : Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens &nbsp; &mdash;&nbsp; On Monday, Anthropic launched Claude Fable 5.2 and Mythos 5.2, the latest versions of ",
-     "source": "Techmeme",
-     "zh": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)"
-    },
-    {
-     "title": "USPS now offers official ZIP Code boundary polygons",
-     "link": "https://postalpro.usps.com/zcb",
-     "pubDate": "Mon, 09 Nov 2026 19:58:59 +0000",
-     "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 344 # Comments: 170",
-     "source": "Hacker News",
-     "zh": "USPS now offers official ZIP Code boundary polygons"
-    },
-    {
-     "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-     "link": "https://parkgraph.com/parking-app-fees",
-     "pubDate": "Mon, 09 Nov 2026 19:55:53 +0000",
-     "summary": "Article URL: https://parkgraph.com/parking-app-fees Comments URL: https://news.ycombinator.com/item?id=50430991 Points: 34 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)"
-    },
-    {
-     "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-     "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-     "pubDate": "Mon, 09 Nov 2026 19:41:34 +0000",
-     "summary": "\"*sshole\" poses a serious threat to Internet security.",
-     "source": "Ars Technica",
-     "zh": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation"
-    },
-    {
-     "title": "CUI – Native UI components for C",
-     "link": "https://yappologistic.github.io/CUI/",
-     "pubDate": "Mon, 09 Nov 2026 19:35:16 +0000",
-     "summary": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 123 # Comments: 69",
-     "source": "Hacker News",
-     "zh": "CUI – Native UI components for C"
-    },
-    {
-     "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-     "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-     "pubDate": "Mon, 09 Nov 2026 19:08:37 +0000",
-     "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-     "source": "Ars Technica",
-     "zh": "Pentagon mulls placing fleet of military satellites around the Moon"
-    },
-    {
-     "title": "72岁王健林，回来收拾万达的残局",
-     "link": "https://www.huxiu.com/article/4904299.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 03:00:38 +0800",
-     "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 离开14年后，王健林重新坐回了万达商管董事长的位置。 工商信息显示，近日，大连万达商业管理集团股份有限公司发生人事变动，陈洪涛卸任董事长，王健林接任。调整后，陈洪涛仍担任公司董事、经理及法定代表人。 这不是一次普通的换帅。 王健林生于1954年，今年72岁。上一次担任这家公司董事长，还是2012年。那时的万达正处于上升期，万达广场加速扩张，酒店、文旅和商业地产齐头并进，上市也被提上日程。 14年后，王健林回到原来的位置，接手的却已经不是原来的万达。 酒店和文旅项目早已易主，电影业务不再由王健林控制，大量万达广场被陆续出售。万达最容易独立上市、也最受",
-     "source": "虎嗅",
-     "zh": "72岁王健林，回来收拾万达的残局"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Why you probably shouldn't buy gadgets with micro USB ports",
+     "link": "https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/",
+     "pubDate": "Mon, 09 Nov 2026 23:30:00 +0000",
+     "summary": "USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector.",
+     "source": "Engadget",
+     "zh": "Why you probably shouldn't buy gadgets with micro USB ports"
+    },
     {
      "title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing",
      "link": "https://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "One UI 9.5 leak reveals new Shorten and Translate shortcuts in Samsung Keyboard"
     },
     {
-     "title": "How to use your iPhone to take the best picture of the Moon",
-     "link": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
-     "pubDate": "Mon, 09 Nov 2026 19:30:00 +0000",
-     "summary": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model.",
-     "source": "Engadget",
-     "zh": "How to use your iPhone to take the best picture of the Moon"
-    },
-    {
      "title": "Samsung is focusing 70% of its Galaxy S27 production on the Ultra and Pro",
      "link": "https://www.androidauthority.com/galaxy-s27-ultra-pro-production-volume-3733071/",
      "pubDate": "Mon, 09 Nov 2026 19:25:54 +0000",
@@ -2258,12 +2258,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "中欧贸易在合作与摩擦中前进",
-     "link": "http://finance.eastmoney.com/news/1354,202611103926621849.html",
-     "pubDate": "Tue, 10 Nov 2026 07:24:15 +0800",
-     "summary": "2026年10月，中欧在北京就混合动力 汽车 贸易达成谅解。双方同意继续推进纯电动 汽车 的价格承诺程序，欧方也表示将与成员国协调，为部分对华两用物项出口许可提供便利。欧洲希望中国 汽车 卖得慢一些，中国希望欧洲有优势的设备卖得顺一些。双方都在争取市场，也都握着对方需要的东西。 欧洲逆差的两面 按欧盟统计局2026年4月发布的数据，2025年欧盟从中国进口货物5594亿欧元，对华出口1996亿欧元，逆差3598亿欧元，接近双边货物贸易总额的一半。与2024年相比，进口增长6.4%，出口下降6.5%。欧洲的焦虑有现实基础。进口虽然继续增加，出口却在下滑，这种走势让欧洲坐立不安。 同一年的贸易，中",
+     "title": "ETF通产品持续上新具有三重意义",
+     "link": "http://finance.eastmoney.com/news/1354,202611103926619179.html",
+     "pubDate": "Tue, 10 Nov 2026 07:45:00 +0800",
+     "summary": "随着11月9日10只香港上市ETF（交易型开放式指数基金）正式纳入港股通标的，南向ETF通再迎产品扩容，合资格ETF总数增至41只，覆盖科技、红利等领域。此外，北向ETF通产品也持续扩容，合资格ETF总数超440只，覆盖 银行 、 人工智能 、 新能源 等赛道。 ETF通是沪深港通框架下将合资格ETF纳入互联互通机制的制度安排：南向ETF通是指内地投资者经港股通配置香港上市ETF，北向ETF通则指境外投资者经沪 深股通 配置内地上市ETF。这一机制将互联互通的标的范围从个股延伸至一篮子股票，使跨境投资由选股变为选策略，进一步充实了跨境资产配置工具箱。 ETF通产品的持续上新，既完善了跨境投资产",
      "source": "东方财富股票",
-     "zh": "中欧贸易在合作与摩擦中前进"
+     "zh": "ETF通产品持续上新具有三重意义"
+    },
+    {
+     "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+     "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+     "pubDate": "Mon, 09 Nov 2026 23:31:17 GMT",
+     "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+     "source": "CNBC",
+     "zh": "PepsiCo to cut about 1,000 jobs as North American business struggles"
+    },
+    {
+     "title": "Key study for Barrick's Fourmile gold deposit faces uncertain timing, potential delays",
+     "link": "https://seekingalpha.com/news/4669408-key-study-for-barricks-fourmile-gold-deposit-faces-uncertain-timing-potential-delays?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 18:26:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key study for Barrick's Fourmile gold deposit faces uncertain timing, potential delays"
+    },
+    {
+     "title": "清晨大涨1104点！美联储最新发声",
+     "link": "http://finance.eastmoney.com/news/1344,202611103926676023.html",
+     "pubDate": "Tue, 10 Nov 2026 07:25:28 +0800",
+     "summary": "美股全线大涨！ 北京时间11月10日清晨，美股三大指数集体拉升。截至收盘，道指大涨1104点，涨幅为2.15%，创下7个月来最大单日涨幅； 纳斯达克 指数上涨2.74%，创7月30日以来最大单日涨幅；标普500指数上涨2.35%。 当天，美股迎来利好消息：特朗普淡化对伊朗发动新一轮大规模军事打击的可能性，推动国际油价大幅下跌，进而缓解通胀担忧并提振科技股。 芯片股大幅走高，费城 半导体 指数涨6.85%， 超威半导体 （AMD）涨超13%， 应用材料 涨超11%， 拉姆研究 涨超10%， 博通 涨近9%，ARM、 阿斯麦 涨超6%， 英特尔 涨超5%。 光 通信 、 存储芯片 等AI硬件方向集",
+     "source": "东方财富资讯",
+     "zh": "清晨大涨1104点！美联储最新发声"
     },
     {
      "title": "Corn prices fall to 4-mth low ahead of USDA supply report",
@@ -2272,46 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Corn prices fall to 4-mth low ahead of USDA supply report"
-    },
-    {
-     "title": "首发首展签单护航 上市公司进博会交出亮眼答卷",
-     "link": "http://finance.eastmoney.com/news/1354,202611103926623049.html",
-     "pubDate": "Tue, 10 Nov 2026 07:22:22 +0800",
-     "summary": "开放的“四叶草”展馆内，第九届中国国际进口博览会（以下简称“进博会”）成为A股上市公司展示创新实力、链接全球资源的重要舞台。 如今，进博会的合作内涵持续迭代，采购模式正从简单的“买买买”升级为深度“链全球”的产业协同。各家上市公司也轮番上演首发首展，积极开展战略签约，同时以公益服务、资源投入参与展会护航保障，在新品展示、经贸合作、社会责任多个维度交出亮眼答卷。 首发首展集中亮相 首发首展，依然是上市公司在进博会上亮眼的主线。不少企业带来全球、全国首发新品，硬核科技、国潮消费轮番登场。 沐曦股份作为本届进博会中国馆唯一入选的国产GPU企业，携两项国产算力硬核产品——曦景S600超节点、“沐曦股份",
-     "source": "东方财富股票",
-     "zh": "首发首展签单护航 上市公司进博会交出亮眼答卷"
-    },
-    {
-     "title": "拍照、泡茶、分拣、导诊 机器人越来越能干了",
-     "link": "http://finance.eastmoney.com/news/1354,202611103926622465.html",
-     "pubDate": "Tue, 10 Nov 2026 07:21:23 +0800",
-     "summary": "和前几年“能跑会跳”的炫技不同，今年的进博会上， 机器人 越来越能干了。 它们正从演示环境走向真实场景：在新闻中心给记者拍照留念、在 酒店 前台递水引导、在桌子上泡工夫茶、在药店进行药品分拣再送至柜台、和观众对打乒乓球…… 例如，在智元的展台上，公司首次公开两类新增应用场景：一类是北大人民 医院 智慧导诊，另一类是 酒店 交互服务场景。 其中，灵犀X2 机器人 可完成科室指引、就诊流程答疑、路线陪伴等服务；智元精灵G2 机器人 展示装配、泡茶及产线上下料等作业能力；远征A3系列 机器人 负责观众问询与 酒店 迎宾等。 “在工业制造领域，精灵G2 机器人 此前已进入某科技企业产线，承担物料上下料",
-     "source": "东方财富股票",
-     "zh": "拍照、泡茶、分拣、导诊 机器人越来越能干了"
-    },
-    {
-     "title": "美参议院民主党高层因爱泼斯坦关联向大型银行发难",
-     "link": "http://stock.eastmoney.com/news/1611,202611103926673719.html",
-     "pubDate": "Tue, 10 Nov 2026 07:19:55 +0800",
-     "summary": "参议院财政委员会候任民主党主席发出信号称，明年民主党接管该委员会后，三家与声名狼藉的金融家杰弗里·爱泼斯坦（Jeffrey Epstein）有关联的大型 银行 将成为该委员会的首要调查目标。参议员罗恩·怀登（Ron Wyden）周一在国会大厦对记者表示：“我们有三家华尔街 银行 ，如果它们这些年除了遵守法律之外什么都不做，我们本可以彻底阻止爱泼斯坦的罪行。”尽管怀登在周一的发言中没有点名这三家 银行 ，但他此前发布的一份报告指出， 美国银行 （Bank of America Corp.）、 摩根大通 （JPMorgan Chase & Co.）和 德意志银行 （Deutsche Bank AG",
-     "source": "东方财富股票",
-     "zh": "美参议院民主党高层因爱泼斯坦关联向大型银行发难"
-    },
-    {
-     "title": "共和党籍佐治亚州州长布莱恩·肯普在共和党中期选举失利后，正在考虑2028年竞选总统",
-     "link": "http://finance.eastmoney.com/news/1351,202611103926673995.html",
-     "pubDate": "Tue, 10 Nov 2026 07:19:54 +0800",
-     "summary": "据报道，共和党籍佐治亚州州长布莱恩·肯普在共和党中期选举失利后，正在考虑2028年竞选总统。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "共和党籍佐治亚州州长布莱恩·肯普在共和党中期选举失利后，正在考虑2028年竞选总统"
-    },
-    {
-     "title": "Lucid第三季度营收同比增长4%至3.5亿美元，现金消耗环比减少30%",
-     "link": "http://finance.eastmoney.com/news/1354,202611103926674114.html",
-     "pubDate": "Tue, 10 Nov 2026 07:19:29 +0800",
-     "summary": "当地时间11月9日，电动 汽车 制造商Lucid公布2026年第三季度业绩，营收同比增长4%至3.50亿美元，净亏损8.31亿美元，上年同期净亏损9.78亿美元。季度自由现金流消耗为10.4亿美元，环比减少30%。截至9月底，公司流动性总额为20亿美元。随着沙特公共投资基金（PIF）提供额外17.5亿美元融资额度，公司备考流动性增至37.5亿美元，预计可支持运营及重点投资至2027年第四季度。Lucid表示，计划于2027年下半年启动中型车型生产。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "Lucid第三季度营收同比增长4%至3.5亿美元，现金消耗环比减少30%"
     },
     {
      "title": "Skydance outlines its $6 billion in planned cost savings. Here&apos;s the breakdown",
@@ -2402,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "KORU Medical Systems Q3 2026 Earnings Preview"
     },
     {
-     "title": "Draganfly Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4668936-draganfly-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 17:35:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Draganfly Q3 2026 Earnings Preview"
-    },
-    {
      "title": "3 unexpected reasons the October jobs report was so strong",
      "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
      "pubDate": "Mon, 09 Nov 2026 22:23:56 GMT",
@@ -2458,12 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "周二美国10月CPI报告将缺失同比数据，系2025年政府停摆所致"
     },
     {
-     "title": "美国FDA要求GLP-1药物标签加注NAION视力风险警示，礼来与诺和诺德回应",
+     "title": "美国药监局要求司美等“减肥神药”增加“致盲风险警告”，数十名患者已起诉",
      "link": "https://wallstreetcn.com/articles/3785600",
      "pubDate": "Tue, 10 Nov 2026 06:00:21 +0800",
      "summary": "美国药品监管机构要求Ozempic、Zepbound等热门GLP-1药物在标签警告栏中注明潜在眼部风险，相关药企表示将配合评估，分析师认为市场影响有限。 美国食品药品监督管理局（FDA）周一要求所有具有GLP-1受体激动剂活性的药物，在标签\"警告与注意事项\"栏中新增关于非动脉炎性前部缺血性视神经病变（NAION）潜在风险的相关信息。 涉及药物包括 礼来 （Eli Lilly）的Mounjaro和Zepbound，以及 诺和诺德 （Novo Nordisk）的Ozempic和Wegovy。NAION是一种可导致突发性、无痛性视力丧失的眼部疾病，部分患者可能出现永久性视力损伤。 礼来发言人表示，F",
      "source": "华尔街见闻",
-     "zh": "美国FDA要求GLP-1药物标签加注NAION视力风险警示，礼来与诺和诺德回应"
+     "zh": "美国药监局要求司美等“减肥神药”增加“致盲风险警告”，数十名患者已起诉"
     },
     {
      "title": "东方财富财经早餐 11月10日周二",
@@ -2496,6 +2472,30 @@ window.INDUSTRY_DATA = {
      "summary": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
      "source": "MarketWatch",
      "zh": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet."
+    },
+    {
+     "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 21:45:00 GMT",
+     "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+     "source": "MarketWatch",
+     "zh": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?"
+    },
+    {
+     "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+     "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 21:43:00 GMT",
+     "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
+     "source": "MarketWatch",
+     "zh": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?"
+    },
+    {
+     "title": "A key report for where inflation stood in October comes out Tuesday. Here&apos;s what to expect",
+     "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+     "pubDate": "Mon, 09 Nov 2026 21:03:55 GMT",
+     "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+     "source": "CNBC",
+     "zh": "A key report for where inflation stood in October comes out Tuesday. Here&apos;s what to expect"
     }
    ]
   },
@@ -2505,6 +2505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Nazca infant had rare, fatal birth defect that left her with one central eye 1,600 years ago",
+     "link": "https://www.livescience.com/archaeology/americas/nazca-infant-had-rare-fatal-birth-defect-that-left-her-with-one-central-eye-1-600-years-ago",
+     "pubDate": "Mon, 09 Nov 2026 23:40:50 +0000",
+     "summary": "A DNA analysis has confirmed that a Nazca infant who lived in southern Peru 1,600 years ago had a rare congenital condition called trisomy 13.",
+     "source": "Live Science",
+     "zh": "Nazca infant had rare, fatal birth defect that left her with one central eye 1,600 years ago"
+    },
     {
      "title": "Did human sacrifice help lower violence? New research in Peru leaves intriguing question",
      "link": "https://www.livescience.com/archaeology/americas/did-human-sacrifice-help-lower-violence-new-research-in-peru-leaves-intriguing-question",
@@ -2648,14 +2656,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA's Swift Observatory went out in a blaze of glory this week, but it left behind millions of images of the universe that could fuel discoveries for decades.",
      "source": "Live Science",
      "zh": "NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda"
-    },
-    {
-     "title": "How frequently did Viking women fight in battle?",
-     "link": "https://www.livescience.com/archaeology/vikings/how-frequently-did-viking-women-fight-in-battle",
-     "pubDate": "Sun, 08 Nov 2026 10:00:00 +0000",
-     "summary": "The Vikings are famous for being warriors, but how frequently did Viking women take part in battles?",
-     "source": "Live Science",
-     "zh": "How frequently did Viking women fight in battle?"
     },
     {
      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",

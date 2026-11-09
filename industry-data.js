@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/9 10:12:03",
+ "generated_at": "2026/11/9 10:26:59",
  "recent_days": 7,
  "industries": [
   {
@@ -306,6 +306,14 @@ window.INDUSTRY_DATA = {
      "zh": "Adlink's shift beyond industrial PC hardware unlocks stronger margins, growth"
     },
     {
+     "title": "Ed Takes Advantage From Project Fear",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-takes-advantage-from-project-fear-2026-11/",
+     "pubDate": "Mon, 09 Nov 2026 01:01:18 +0000",
+     "summary": "The government is terrified that the behaviour of the revolting frogs will cross the channel and infect our own people who, enraged by the same problems of rising living costs […] The post Ed Takes Advantage From Project Fear appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Ed Takes Advantage From Project Fear"
+    },
+    {
      "title": "CEO Interview with Mark Rushworth of Finchetto",
      "link": "https://semiwiki.com/ceo-interviews/375759-ceo-interview-with-mark-rushworth-of-finchetto/",
      "pubDate": "Sun, 08 Nov 2026 20:00:11 +0000",
@@ -370,12 +378,36 @@ window.INDUSTRY_DATA = {
      "zh": "AOI announces equity grants under Inducement Plan"
     },
     {
+     "title": "Leap signs MoU to relaunch Sutherland space launches",
+     "link": "https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 16:03:52 +0000",
+     "summary": "Leap, a startup aiming to develop mass-producible launch vehicles, has signed a Memorandum of Understanding (MoU) with Highlands and Islands Enterprise (HIE). This is to develop, and relaunch, space launch […] The post Leap signs MoU to relaunch Sutherland space launches appeared first on Electronic",
+     "source": "Electronics Weekly",
+     "zh": "Leap signs MoU to relaunch Sutherland space launches"
+    },
+    {
      "title": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-061126.shtml",
      "pubDate": "Fri, 6 Nov 2026 14:37:32 GMT",
      "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — has appointed David Bell as chairman of its board of directors, separating the chairman and chief executive offi",
      "source": "Semiconductor Today",
      "zh": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman"
+    },
+    {
+     "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 14:33:14 +0000",
+     "summary": "What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions... The post What caught your eye? AI bust, Qualcomm MMIOs, RF emitters appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters"
+    },
+    {
+     "title": "Partying like it’s 1999 with the hangover in 2001",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 14:24:06 +0000",
+     "summary": "Partying like it’s 1999 without knowing that 2001 would see a 32% fall in the semi market, a chip analyst spun a rosy yarn A 1999 EW story started: ’The […] The post Partying like it’s 1999 with the hangover in 2001 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Partying like it’s 1999 with the hangover in 2001"
     },
     {
      "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
@@ -392,6 +424,22 @@ window.INDUSTRY_DATA = {
      "summary": "The market for wide bandgap semiconductor materials and devices has grown at a compound annual growth rate (CAGR) of 10.9% from $10.14bn in 2025 to a projected $11.24bn by 2026, driven mainly by increasing demand for power electronics with enhanced efficiency, wider use of silicon carbide (SiC) mate",
      "source": "Semiconductor Today",
      "zh": "Wide-bandgap materials and devices market to grow at 10.5% CAGR from $11.24bn in 2026 to $16.75bn by 2030"
+    },
+    {
+     "title": "Emerson NI PXIe instruments for AI-accelerated automated testing",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 11:03:56 +0000",
+     "summary": "Emerson has announced new NI PXI express instruments featuring an AI-accelerated approach to automated test. The goal, says the company, is to make the testing process more accessible to engineering […] The post Emerson NI PXIe instruments for AI-accelerated automated testing appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Emerson NI PXIe instruments for AI-accelerated automated testing"
+    },
+    {
+     "title": "MDA Space to provide digital antenna subsystems for IRIS² satellites",
+     "link": "https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 10:12:42 +0000",
+     "summary": "Canadian space company MDA Space has won a contract from Thales Alenia Space for work on the development of Europe’s IRIS² satellites. Specifically it will begin work on MDA AURORA […] The post MDA Space to provide digital antenna subsystems for IRIS² satellites appeared first on Electronics Weekly ",
+     "source": "Electronics Weekly",
+     "zh": "MDA Space to provide digital antenna subsystems for IRIS² satellites"
     },
     {
      "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
@@ -448,46 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sponsored: Infineon’s Andreas Urschitz and Maher Matta talk to EE Times at OktoberTech Silicon Valley 2026, looking back on a decade of innovation and growth. The post Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech"
-    },
-    {
-     "title": "Adding Network Security To AI, HPC, And Data Centers",
-     "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
-     "pubDate": "Thu, 05 Nov 2026 08:06:45 +0000",
-     "summary": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, HPC, And Data Centers appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Adding Network Security To AI, HPC, And Data Centers"
-    },
-    {
-     "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
-     "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
-     "pubDate": "Thu, 05 Nov 2026 08:05:35 +0000",
-     "summary": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Turning Conv2D Into A Practical GPU Compute Pattern"
-    },
-    {
-     "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
-     "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:55 +0000",
-     "summary": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. The post A System-Level Approach To Protecting 3D-IC Signal Integrity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "A System-Level Approach To Protecting 3D-IC Signal Integrity"
-    },
-    {
-     "title": "Fitting AI Models To Edge Applications",
-     "link": "https://semiengineering.com/fitting-ai-models-to-edge-applications/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:08 +0000",
-     "summary": "Compression can shrink AI models, but efficient edge deployment starts with matching the architecture to the workload and hardware limits. The post Fitting AI Models To Edge Applications appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Fitting AI Models To Edge Applications"
-    },
-    {
-     "title": "Why Testing Automated Driving Is Harder Than It Looks",
-     "link": "https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/",
-     "pubDate": "Thu, 05 Nov 2026 08:02:40 +0000",
-     "summary": "Instead of waiting for rare situations to occur on public roads, engineers can create those situations virtually. The post Why Testing Automated Driving Is Harder Than It Looks appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why Testing Automated Driving Is Harder Than It Looks"
     }
    ]
   },
@@ -1746,6 +1754,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Akko 空影 TAN8 鼠标新增 Master N2 版：升级 nRF54LM20 主控，329 元",
+     "link": "https://www.ithome.com/1/024/063.htm",
+     "pubDate": "Mon, 09 Nov 2026 02:21:20 GMT",
+     "summary": "IT之家 11 月 9 日消息，Akko 本月 7 日宣布为其空影 TAN8 系列鼠标新增 \"Master N2\" 版本。这一版本搭载 Nordic nRF54LM20 主控， 329 元的售价相比非 N2 原版 \"Master\" (nRF54L15) 高出 30 元 。 空影 TAN8 Master N2 采用复合碳纤维开孔壳体， 基于中大尺寸的对称式模具 ， 面向趴握与抓握姿势 ，三维 124.3 × 63.71 × 40.49 (mm)，内置 300mAh 电池，质量 55±3g。 该鼠标 配备原相 PAW3955 光学传感器 、欧姆龙 100M 光学微动、TTC 金轮 2M 编码器，拥",
+     "source": "IT之家",
+     "zh": "Akko 空影 TAN8 鼠标新增 Master N2 版：升级 nRF54LM20 主控，329 元"
+    },
+    {
+     "title": "Job listings show Amazon is building a \"new-to-world\" home robot to operate \"alongside family members\", after its $1,450 Astro reached only a few thousand homes (Annie Palmer/CNBC)",
+     "link": "https://www.techmeme.com/261108/p20#a261108p20",
+     "pubDate": "Sun, 08 Nov 2026 21:20:01 -0500",
+     "summary": "Annie Palmer / CNBC : Job listings show Amazon is building a &ldquo;new-to-world&rdquo; home robot to operate &ldquo;alongside family members&rdquo;, after its $1,450 Astro reached only a few thousand homes &nbsp; &mdash;&nbsp; Jeff Bezos made a bold bet in 2017.&nbsp; A sci-fi and robotics enthusia",
+     "source": "Techmeme",
+     "zh": "Job listings show Amazon is building a \"new-to-world\" home robot to operate \"alongside family members\", after its $1,450 Astro reached only a few thousand homes (Annie Palmer/CNBC)"
+    },
+    {
+     "title": "荣耀 700 系列手机新技术 11 月 13 日亮相，预约已开启",
+     "link": "https://www.ithome.com/1/024/062.htm",
+     "pubDate": "Mon, 09 Nov 2026 02:19:04 GMT",
+     "summary": "IT之家 11 月 9 日消息，荣耀今天宣布， 荣耀 700 系列手机新技术将于 11 月 13 日亮相 。从官方公布的预热视频来看， 这款手机的代言人预计是鞠婧祎 。 IT之家了解到，荣耀 700 系列手机已经在京东开启预约。 京东 荣耀 700 系列手机 待发布 立即预约 从商品页来看，该系列机型各版本提供的配置选择如下： 荣耀 700 12GB+256GB 16GB+256GB 12GB+512GB 16GB+512GB 荣耀 700 Pro 12GB+256GB 12GB+512GB 16GB+512GB 荣耀 700S 12GB+256GB 12GB+512GB 据微博博主 @数码闲",
+     "source": "IT之家",
+     "zh": "荣耀 700 系列手机新技术 11 月 13 日亮相，预约已开启"
+    },
+    {
+     "title": "宝马新世代 BMW iX3/ i3 即将开启大订，将于 11 月 25 日 / 27 日上市",
+     "link": "https://www.ithome.com/1/024/061.htm",
+     "pubDate": "Mon, 09 Nov 2026 02:15:48 GMT",
+     "summary": "IT之家 11 月 9 日消息，宝马中国今日宣布，新世代 BMW iX3 与新世代 BMW i3 双车大订，即将开启。 11 月 25 日，新世代 BMW iX3 正式上市，试驾及客户交付同步启动，采用全国统一价模式，已预订客户可直接转大订。 11 月 27 日，新世代 BMW i3 于广州车展正式上市，大订通道同步开放，采用全国统一价模式，无需小订，一步锁定。 IT之家从公开信息获悉，新世代宝马 iX3 长轴距版基于全新 Neue Klasse 纯电平台打造，轴距达 3005 mm，较海外标轴版加长 108 mm，该车尺寸为 4885 x 1895 x 1635mm，前脸配备 3D 光耀格栅",
+     "source": "IT之家",
+     "zh": "宝马新世代 BMW iX3/ i3 即将开启大订，将于 11 月 25 日 / 27 日上市"
+    },
+    {
+     "title": "OPPO Watch 5 智能手表外观公布：主打轻薄方表形态，11 月 16 日发布",
+     "link": "https://www.ithome.com/1/024/060.htm",
+     "pubDate": "Mon, 09 Nov 2026 02:14:12 GMT",
+     "summary": "IT之家 11 月 9 日消息，OPPO 官方刚刚公开了 OPPO Watch 5 智能手表的外观， 并宣布新品将在 11 月 16 日 19:00 发布 。 预热图画面显示，OPPO Watch 5 智能手表回归了方表造型，侧面边框采用亮面设计，表体右上角还配备了旋钮功能按键。 综合IT之家此前报道，OPPO Watch 数字系列此前一直采用方形表盘设计，直到 Watch S 系列的推出。数字系列最新款的 OPPO Watch 4 Pro 目前官网显示“已售罄”，其搭载骁龙 W5 可穿戴旗舰芯片，支持独立 eSIM，可下载微信手表版、支付宝、QQ 等应用。",
+     "source": "IT之家",
+     "zh": "OPPO Watch 5 智能手表外观公布：主打轻薄方表形态，11 月 16 日发布"
+    },
+    {
+     "title": "2027 款岚图知音汽车 11 月 13 日上市，896 线双光路激光雷达 + 81 度电池",
+     "link": "https://www.ithome.com/1/024/059.htm",
+     "pubDate": "Mon, 09 Nov 2026 02:12:16 GMT",
+     "summary": "IT之家 11 月 9 日消息，2027 款岚图知音汽车官宣将于 11 &nbsp;月 13 日上市 ，定位“智慧超充纯电大五座 SUV”。 IT之家从官方预热了解到，2027 款岚图知音搭载： 896 线双光路激光雷达 + 华为乾崑智驾 ADS 5 81 度电池 ，支持 5C 快充，CLTC 纯电续航 650km 90.8% 得房率，后排腿部空间达 1038mm 7L 冷暖冰箱、副驾零重力座椅、后排折叠小桌板、后排座椅一键放倒 / 升起 “暮山紫”外观车色、“极光紫”内饰车色 相关阅读： 《 全新岚图知音上市：标配华为乾崑智驾 ADS 4、首批搭载鸿蒙座舱 HarmonySpace 5，20",
+     "source": "IT之家",
+     "zh": "2027 款岚图知音汽车 11 月 13 日上市，896 线双光路激光雷达 + 81 度电池"
+    },
+    {
      "title": "东风日产 NX7 全球首秀定档 11 月 13 日，即将开启预售",
      "link": "https://www.ithome.com/1/024/058.htm",
      "pubDate": "Mon, 09 Nov 2026 02:07:12 GMT",
@@ -1762,12 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "GDP增速再垫底，山西如何打破“资源诅咒”？"
     },
     {
-     "title": "荣耀 700 系列手机背屏爆料：2 亿像素自拍、小游戏、灵动通知、行业独家支持 XXXX",
-     "link": "https://www.ithome.com/1/024/057.htm",
-     "pubDate": "Mon, 09 Nov 2026 02:03:15 GMT",
-     "summary": "IT之家 11 月 9 日消息，微博博主 @数码闲聊站 今日发文称，荣耀 700 系列手机已在部分门店展出。该机的 ID 设计迎来大换代，配备 6.57 英寸中屏 +0.98mm 窄边框 + 原生背屏，质感“很棒”。 博主透露，这款手机的背屏有很多实用小功能，比如 2 亿像素自拍、小游戏、灵动通知，以及“行业独家支持 XXXX”。 后续有用户在评论区询问：“独家支持啥？”，博主回复称：“背屏的一个花活儿， 硬件级 ， 行业首发 ，你们可以猜猜”；另一名用户则询问道：“屏幕怎么样？”，博主回应称：“6.57 英寸中屏，亮度护眼都算是同档 TOP 水平，而且是 0.98mm 四等边。” 据IT之家",
-     "source": "IT之家",
-     "zh": "荣耀 700 系列手机背屏爆料：2 亿像素自拍、小游戏、灵动通知、行业独家支持 XXXX"
+     "title": "涌入半导体的年轻人：两年红利，抵别人一辈子",
+     "link": "https://www.tmtpost.com/8197758.html",
+     "pubDate": "Mon, 09 Nov 2026 10:02:49 +0800",
+     "summary": "长坡厚雪，做时间的朋友。",
+     "source": "钛媒体",
+     "zh": "涌入半导体的年轻人：两年红利，抵别人一辈子"
     },
     {
      "title": "五家公司在压推理成本，工业机器人在找能反复干的活",
@@ -1786,22 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "乌镇夜话：AI主导的智能化剧变时刻真的到了？"
     },
     {
-     "title": "2027 款领克 08 EM-P 将支持选装 EVA 实体机器人，年内更新 FlymeAuto 2.5.0",
-     "link": "https://www.ithome.com/1/024/055.htm",
-     "pubDate": "Mon, 09 Nov 2026 01:53:50 GMT",
-     "summary": "IT之家 11 月 9 日消息，领克汽车今日发布 2027 款领克 08 EM-P 答网友问，其中提到，2026 款领克 08 EM-P 将于年内进行 LYNK FlymeAuto 2.5.0 版本更新。届时，可以通过领克 App 的服务商城购买 EVA 实体机器人，预约到领克门店进行安装。 IT之家注意到，2027 款领克 08 EM-P 于 11 月 5 日晚正式上市， 限时置换价 15.98 万元起 。该车尺寸为 4813×1915×1660mm、轴距 2842mm，提供极光银、拂晓白、极夜黑三款经典车色，并新增了一款跃动橙车色；内饰则提供暖云沙、星夜蓝两款配色。新车配备 20 英寸流光",
-     "source": "IT之家",
-     "zh": "2027 款领克 08 EM-P 将支持选装 EVA 实体机器人，年内更新 FlymeAuto 2.5.0"
-    },
-    {
-     "title": "美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO",
-     "link": "https://www.ithome.com/1/024/053.htm",
-     "pubDate": "Mon, 09 Nov 2026 01:52:55 GMT",
-     "summary": "IT之家 11 月 9 日消息，当地时间 11 月 8 日，英伟达创始人兼 CEO 黄仁勋向英伟达员工发布了公开信。信中， 他公开致歉并承认对妻子不忠 ，称自己的行为伤害了她和孩子，所做的一切没有任何借口。 美国总统特朗普在被福克斯新闻记者问及相关问题时表示：“我还没跟他谈过这件事。我只知道他是个很好的人，但谁也说不准到底发生了什么。我当然希望一切都好。他一直以来的表现非常出色。所以我真心希望一切都好。在我看来，他是个很好的人。” 他认为黄仁勋应该继续担任英伟达 CEO 。 据IT之家今日早些时候报道，韩国科学技术信息通信部透露， 英伟达首席执行官黄仁勋的长女、英伟达物理 AI 平台产品和技术",
-     "source": "IT之家",
-     "zh": "美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该继续担任英伟达 CEO"
-    },
-    {
      "title": "崩塌的信仰和困在算法里的人",
      "link": "https://www.huxiu.com/article/4903995.html?f=rss",
      "pubDate": "Mon, 09 Nov 2026 09:51:43 +0800",
@@ -1818,28 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "科技要为黄仁勋的出轨买单吗？"
     },
     {
-     "title": "LG 车辆通信控制模块率先获 TÜV 莱茵 ASIL D 认证，已被捷尼赛思 GV90 采用",
-     "link": "https://www.ithome.com/1/024/054.htm",
-     "pubDate": "Mon, 09 Nov 2026 01:48:24 GMT",
-     "summary": "IT之家 11 月 9 日消息，LG 电子当地时间今日宣布，其为 捷尼赛思 GV90 开发的中央通信单元 (CCU) 2.0 系统 获得 TÜV 莱茵为汽车中央网关颁发的首份 ISO 26262 ASIL D 认证 。 ASIL D 为 ISO 26262 标准为汽车安全完整性定义的最高等级，要求采取最严格的措施来预防和减轻安全相关故障。 这款 CCU 2.0 是车辆的通信枢纽 ，连接 ECU 并管理车内网络和外部网络之间的数据交换。 其在通过 CAN 和以太网路由数据时，能够准确传输安全相关消息，检测路由故障，并将相关故障信息传递给其他 ECU。该芯片还集成了针对 OTA 软件更新的功能安全",
-     "source": "IT之家",
-     "zh": "LG 车辆通信控制模块率先获 TÜV 莱茵 ASIL D 认证，已被捷尼赛思 GV90 采用"
-    },
-    {
      "title": "97年亿万富翁：无法活出自己想要的人生，是因为你太听话",
      "link": "https://www.huxiu.com/article/4903095.html?f=rss",
      "pubDate": "Mon, 09 Nov 2026 09:46:20 +0800",
      "summary": "本期视频，是我和97年亿万富翁 @徐皓天 在深圳展开的线下对话。徐皓天是97年创业者，港大本科，上学期间曾被学校劝退两次，自称\"应试教育的漏网之鱼\"，对名校、成功和人生选择有一套很不一样的判断。",
      "source": "虎嗅",
      "zh": "97年亿万富翁：无法活出自己想要的人生，是因为你太听话"
-    },
-    {
-     "title": "马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺",
-     "link": "https://www.ithome.com/1/024/052.htm",
-     "pubDate": "Mon, 09 Nov 2026 01:44:11 GMT",
-     "summary": "IT之家 11 月 9 日消息，特斯拉 CEO 埃隆 · 马斯克今日在 X 平台发文，回应英伟达 CEO 黄仁勋的出轨风波。 据悉，红杉资本合伙人肖恩 · 马奎尔（Shaun Maguire）最近谈到了黄仁勋，并给出了几条评价： 1、黄仁勋是这一代最杰出的企业家之一 2、他做了一件极其愚蠢的事儿 3、这对美国不利 4、他猜测黄仁勋并没有恶意 5、犯两次错，并不意味可以将错误合理化。他认为，黄仁勋对美国 AI 产业的领导地位不可或缺 马斯克转发了这条帖文，并附文：“我同意。” 据IT之家今日报道 ，黄仁勋已向英伟达员工发出一封道歉信，承认自己的出轨行为，并希望重新赢得家人和同事的信任。",
-     "source": "IT之家",
-     "zh": "马斯克回应黄仁勋出轨风波，同意其对美国 AI 产业不可或缺"
     },
     {
      "title": "Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a \"fine person\" and \"I haven&apos;t heard he&apos;s done anything wrong\" (Kate Sullivan/Bloomberg)",
@@ -1898,18 +1922,10 @@ window.INDUSTRY_DATA = {
      "zh": "价值判断：跌停板的投资机会和风险提示（11月6日）｜上市公司观察"
     },
     {
-     "title": "价值判断：涨停板的投资机会和风险提示（11月6日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8197859.html",
-     "pubDate": "Mon, 09 Nov 2026 08:31:56 +0800",
-     "summary": "11月6日是外部冲击落地、内部缩量承压的一天：五大指数全部收跌，创业板指跌近四个点，成交额缩到一万六千五百亿，涨停家数从八十四只降到三十三只，跌停则重新出现。杀跌集中在与海外算力绑定的硬件，防御性板块与低价题材承接了流出的资金。市场没有主线时，资金会去找辨识度最高、又不必研究基本面的容器，这一天的答案是两个字。",
-     "source": "钛媒体",
-     "zh": "价值判断：涨停板的投资机会和风险提示（11月6日）｜上市公司观察"
-    },
-    {
      "title": "Unlocking any car from X brand in most of the world",
      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
      "pubDate": "Mon, 09 Nov 2026 00:10:50 +0000",
-     "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 53 # Comments: 22",
+     "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 65 # Comments: 26",
      "source": "Hacker News",
      "zh": "Unlocking any car from X brand in most of the world"
     },
@@ -1925,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "I'm Not Convinced the AI Bubble Exists",
      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
      "pubDate": "Sun, 08 Nov 2026 23:44:36 +0000",
-     "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 19 # Comments: 6",
+     "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 29 # Comments: 12",
      "source": "Hacker News",
      "zh": "I'm Not Convinced the AI Bubble Exists"
     },
@@ -1933,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
      "link": "https://isocpp.org/files/papers/P4454R0.pdf",
      "pubDate": "Sun, 08 Nov 2026 23:28:01 +0000",
-     "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 62 # Comments: 41",
+     "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 69 # Comments: 47",
      "source": "Hacker News",
      "zh": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]"
     },
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Chimera Vocal Synth",
      "link": "https://chimera-vocal-synth.vercel.app/",
      "pubDate": "Sun, 08 Nov 2026 22:36:03 +0000",
-     "summary": "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 88 # Comments: 14",
+     "summary": "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 89 # Comments: 14",
      "source": "Hacker News",
      "zh": "Chimera Vocal Synth"
     },
@@ -1957,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
      "link": "https://ketchup3d.github.io/app/",
      "pubDate": "Sun, 08 Nov 2026 22:35:35 +0000",
-     "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 202 # Comments: 50",
+     "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 211 # Comments: 57",
      "source": "Hacker News",
      "zh": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU"
     },
@@ -1965,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
      "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
      "pubDate": "Sun, 08 Nov 2026 22:20:09 +0000",
-     "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 351 # Comments: 368",
+     "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 364 # Comments: 384",
      "source": "Hacker News",
      "zh": "Nvidia CEO Jensen Huang's letter to staff about affair"
     },
@@ -1976,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
      "source": "TechCrunch",
      "zh": "Apps to distract you from the endless cycle of doomscrolling"
-    },
-    {
-     "title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261108/p15#a261108p15",
-     "pubDate": "Sun, 08 Nov 2026 16:45:03 -0500",
-     "summary": "Ian Hodgson / Wall Street Journal : US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears &nbsp; &mdash;&nbsp; Strong hiring at law offices, consulting firms staves off fears of job apocalypse&",
-     "source": "Techmeme",
-     "zh": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)"
     }
    ]
   },

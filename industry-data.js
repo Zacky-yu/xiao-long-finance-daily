@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/9 11:11:58",
+ "generated_at": "2026/11/9 11:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -18,28 +18,12 @@ window.INDUSTRY_DATA = {
      "zh": "227亿，史上最大AI界发电机大单来了！"
     },
     {
-     "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
-     "link": "https://www.qbitai.com/2026/11/508498.html",
-     "pubDate": "Mon, 09 Nov 2026 00:40:50 +0000",
-     "summary": "英伟达暗盘跌2%",
-     "source": "量子位",
-     "zh": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查"
-    },
-    {
      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
      "pubDate": "Sun, 08 Nov 2026 21:00:11 +0000",
      "summary": "In a memo to the company, Huang admitted that he had an affair.",
      "source": "TechCrunch AI",
      "zh": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
-    },
-    {
-     "title": "终端侧AI：从单点应用走向智能体体验",
-     "link": "https://www.qbitai.com/2026/11/508478.html",
-     "pubDate": "Sun, 08 Nov 2026 11:05:23 +0000",
-     "summary": "高通在第九届进博会展出端侧MoE智能体",
-     "source": "量子位",
-     "zh": "终端侧AI：从单点应用走向智能体体验"
     },
     {
      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
@@ -210,6 +194,14 @@ window.INDUSTRY_DATA = {
      "zh": "NeurIPS'26 | 如何减少共情推理中的错误传播？"
     },
     {
+     "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+     "link": "https://www.qbitai.com/2026/11/508264.html",
+     "pubDate": "Sat, 07 Nov 2026 05:01:17 +0000",
+     "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+     "source": "量子位",
+     "zh": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？"
+    },
+    {
      "title": "陶大程教授最新技术文章：一台机器人犯过的错，怎样让另一台少走弯路？",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651072774&idx=1&sn=17484407e18d75fca1e41a09be82bc03",
      "pubDate": "Sat, 07 Nov 2026 12:04:00 +0800",
@@ -232,6 +224,14 @@ window.INDUSTRY_DATA = {
      "summary": "研究社区探索可验证Agent学习的一个起点",
      "source": "机器之心",
      "zh": "NeurIPS 2026 | 从「先出题」到「先探索」：重新思考Tool-Calling Agent的训练数据合成"
+    },
+    {
+     "title": "AGENTS.MD，危险危险危险！！！",
+     "link": "https://www.qbitai.com/2026/11/508244.html",
+     "pubDate": "Sat, 07 Nov 2026 03:43:55 +0000",
+     "summary": "全新的电脑病毒",
+     "source": "量子位",
+     "zh": "AGENTS.MD，危险危险危险！！！"
     },
     {
      "title": "刚刚，OpenAI被曝又拿730亿，估值超8.3万亿",
@@ -1010,12 +1010,12 @@ window.INDUSTRY_DATA = {
      "zh": "Voters gave a big middle finger to data centers"
     },
     {
-     "title": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth",
+     "title": "Sempra expects 20% increase to Oncor’s capex plan, driven by load growth",
      "link": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
      "pubDate": "Fri, 06 Nov 2026 11:10:36 -0500",
      "summary": "&ldquo;It's too soon to tell exactly&rdquo; how the results of the midterm elections will impact Oncor, said CEO Allen Nye. &ldquo;We continue to believe that both parties want a strong and growing Texas.&rdquo;",
      "source": "Utility Dive",
-     "zh": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth"
+     "zh": "Sempra expects 20% increase to Oncor’s capex plan, driven by load growth"
     },
     {
      "title": "China’s soaring clean power curtailment highlights regulatory gaps",
@@ -1037,7 +1037,7 @@ window.INDUSTRY_DATA = {
      "title": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO",
      "link": "https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/",
      "pubDate": "Fri, 06 Nov 2026 09:44:59 -0500",
-     "summary": "Eversource Energy&rsquo;s third-quarter income fell 22% year over year, to $346 million, driven in part by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
+     "summary": "Eversource Energy&rsquo;s third-quarter income fell 22% year over year to $346 million, partly driven by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
      "source": "Utility Dive",
      "zh": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO"
     },
@@ -1045,7 +1045,7 @@ window.INDUSTRY_DATA = {
      "title": "DTE expands investment plan 30%, will sell unregulated subsidiary to fund growth",
      "link": "https://www.utilitydive.com/news/dte-expands-5-year-electric-investment-plan-sells-unregulated-vantage/873974/",
      "pubDate": "Fri, 06 Nov 2026 09:15:24 -0500",
-     "summary": "After the $3 billion sale of DTE Vantage,&nbsp;DTE &ldquo;becomes a higher growth premium utility&rdquo; and &ldquo;a simpler business,&rdquo; CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multiyear rate making.",
+     "summary": "After the $3 billion sale of DTE Vantage,&nbsp;DTE &ldquo;becomes a higher growth premium utility&rdquo; and &ldquo;a simpler business,&rdquo; CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multi-year rate making.",
      "source": "Utility Dive",
      "zh": "DTE expands investment plan 30%, will sell unregulated subsidiary to fund growth"
     },
@@ -1754,28 +1754,100 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "英伟达发言人确认黄仁勋将继续履职公司 CEO 一职不中断，特朗普表态支持",
-     "link": "https://www.ithome.com/1/024/073.htm",
-     "pubDate": "Mon, 09 Nov 2026 03:01:58 GMT",
-     "summary": "IT之家 11 月 9 日消息，据 CNBC 报道，当地时间 11 月 8 日，英伟达发言人对外明确， 黄仁勋将继续担任公司首席执行官 （Chief Executive Officer，简称 CEO），履职不会中断，相关风波不会打乱英伟达正常经营节奏。 据IT之家今日早些时候报道，英伟达创始人兼 CEO 黄仁勋向英伟达员工发布了公开信。信中， 他公开致歉并承认对妻子不忠 ，称自己的行为伤害了她和孩子，所做的一切没有任何借口。 美国总统特朗普在被福克斯新闻记者问及相关问题时表示黄仁勋是个很好的人，并支持他继续担任英伟达 CEO。 相关阅读： 《 美国总统特朗普回应黄仁勋出轨：他是个很好的人，应该",
+     "title": "深圳成为全球消费级 3D 打印第一城",
+     "link": "https://www.ithome.com/1/024/102.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:28:59 GMT",
+     "summary": "IT之家 11 月 9 日消息，“广东发布”官方今日发文，今年上半年，深圳 3D 打印设备产量同比增长 58.1%，出口额同比增长 127.5%， 占全国同类产品出口总额的 86% 。 “广东发布”表示，深圳凭借强大的产业和科技创新能力，牢牢占据全球 3D 打印市场， 一举拿下全球消费级 3D 打印第一城的宝座 。 国家统计局数据显示，2026 年上半年，国内 3D 打印设备产量同比增长 48.5%，增速在主要工业产品中排名第一。出口端表现更为突出，上半年我国累计出口 3D 打印机 362 万台，同比增长 90.2%，出口金额达 96.11 亿元，同比增长 109.3%。 据财联社报道， 拓竹",
      "source": "IT之家",
-     "zh": "英伟达发言人确认黄仁勋将继续履职公司 CEO 一职不中断，特朗普表态支持"
+     "zh": "深圳成为全球消费级 3D 打印第一城"
     },
     {
-     "title": "全国高校首个“冷门绝学学院”成立",
-     "link": "https://www.ithome.com/1/024/076.htm",
-     "pubDate": "Mon, 09 Nov 2026 03:00:25 GMT",
-     "summary": "IT之家 11 月 9 日消息，全国高校首个冷门绝学学院于 11 月 6 日在中国社会科学院大学成立。 11 月 6 日，中国社会科学院大学冷门绝学学院成立仪式暨全国冷门绝学联盟启动大会在京举办。 IT之家从官方公告了解到，中国社会科学院大学冷门绝学学院的研究范围覆盖突厥文、西夏文、契丹文、女真文、满文、古藏文、古彝文、八思巴文、纳西东巴文、方块壮文等 10 余种民族古文字，统筹甲骨学、简帛学、古典学等特色研究方向，设立甲骨文与简帛文献、北方民族古文字、西南民族古文字、中西古典文明等教研部，配套建成数智绝学实验室，创办《冷门绝学研究》期刊， 开设本科生“鼎堂班”，构建本硕博贯通式人才培养体系 ",
-     "source": "IT之家",
-     "zh": "全国高校首个“冷门绝学学院”成立"
+     "title": "我养了条大肥鱼，让它给我直播赚钱",
+     "link": "https://www.huxiu.com/article/4904062.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 11:26:00 +0800",
+     "summary": "本文来自微信公众号： 光锥智能 ，作者：关注前沿科技的，原文标题：《实测｜我养了条大肥鱼，让它给我直播赚钱》 我要给大肥鱼完整的一生。 最近刷B站和抖音，总感觉像掉进了“鱼塘”。 一条蓝色的大肥鲸，自己注册账号、发视频、回评论、经营账号，主人偶尔看一眼就行。评论区被这些AI回复搞得“乌烟瘴气”，根本不知所云。 多刷刷视频，还能发现大肥鱼还出现在QQ里，会聊天、记日记、发表情包。再装上几个插件，还能刷视频、回评论，甚至开直播。DeepSeek图标上那条原本安安静静的鲸鱼，突然被网友们养出了电子生命的感觉。 甚至还出现了围绕大肥鱼的产业链。各平台自动起号，卖教程的、代养的跟着冒头。我也没忍住，用D",
+     "source": "虎嗅",
+     "zh": "我养了条大肥鱼，让它给我直播赚钱"
     },
     {
-     "title": "索尼 PlayStation Portal 串流掌机新增“午夜黑”配色，锁日区",
-     "link": "https://www.ithome.com/1/024/074.htm",
-     "pubDate": "Mon, 09 Nov 2026 02:59:00 GMT",
-     "summary": "IT之家 11 月 9 日消息，索尼互动娱乐（SIE）今日推出 PlayStation Portal 串流掌机午夜黑配色，建议零售价 39,980 日元 （IT之家注：现汇率约合 1,685 元人民币） ，随机附赠 1 个月 PS Plus 高级会员，12 月 10 日正式发售。 IT之家了解到，该款掌机名为「PlayStation Portal 玩家版」， 系统语言仅支持日语 ， 并且只能使用国家 / 地区设定为日本的 PSN 账号 。 同时，这款掌机配备 8 英寸 1080P 液晶屏幕，支持 60FPS 刷新率。集成自适应扳机、触觉反馈等功能，需要配合 PS5 主机使用，或者使用 PS P",
+     "title": "微信鸿蒙版 App 安装量超 9000 万次，华为 HarmonyOS 终端用户数预计本月突破 1 亿大关",
+     "link": "https://www.ithome.com/1/024/099.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:24:40 GMT",
+     "summary": "IT之家 11 月 9 日消息，微信鸿蒙版 App 今日再迎里程碑时刻 —— 安装量正式突破 9000 万 （最新数据显示安装量为 9017 万次）。 值得一提的是，在 11 月 5 日的华为擎云 2026 鸿蒙办公产业峰会上，华为官方公布了 HarmonyOS 系统最新用户数据。 目前，华为 HarmonyOS 6&amp;7 终端设备数已突破 9000 万、华为终端设备款数 140+、可获取应用和服务数 45 万+ 。HarmonyOS 终端用户数也即将突破 1 亿，预计会在 11 月下旬达成这一目标。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 延",
      "source": "IT之家",
-     "zh": "索尼 PlayStation Portal 串流掌机新增“午夜黑”配色，锁日区"
+     "zh": "微信鸿蒙版 App 安装量超 9000 万次，华为 HarmonyOS 终端用户数预计本月突破 1 亿大关"
+    },
+    {
+     "title": "国产大模型的困难才刚刚开始",
+     "link": "https://www.huxiu.com/article/4904056.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 11:19:42 +0800",
+     "summary": "本文来自微信公众号： 牌桌 Poker Table ，作者：牌桌编辑部 最近有两件事，严重削弱了国产开源模型6月以来的局部竞争优势。 一是Anthropic全面加入价格战： Opus-5.5的中等档位，性能高于Kimi-K3和GLM-5.3最高档，价格却低了三分之一。Haiku-5.5以Flash模型的价格，在Vals的四项长程编码基准上，性价比碾压Kimi-K3。 目前国模甜区，只剩下长上下文（单次输入大于10万token）、高缓存命中场景，DeepSeek-V4.1 Flash和GLM-5.3 Flash在这些场景仍保有API单价优势。 二是美国开源模型取得实质突破： Reflection",
+     "source": "虎嗅",
+     "zh": "国产大模型的困难才刚刚开始"
+    },
+    {
+     "title": "沉迷AI 的老板和客户，正把设计师变成“像素搬运工”",
+     "link": "https://www.huxiu.com/article/4904057.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 11:16:38 +0800",
+     "summary": "本文来自微信公众号： Fast Company中文版 ，作者：Rachel，原文标题：《沉迷 AI 的老板和客户，正把设计师变成“像素搬运工”》 Emily Foran是一位创意总监兼平面设计师，她已经有一年没有被客户要求从头构思一个原创点子了。 “这有点在扼杀我的灵魂，”Foran说，“新老客户都会把他们让Claude或ChatGPT做出来的烂东西发给我，然后让我要么修复错乱的地方，要么直接在此基础上干活。我讨厌这样。这是一种侮辱。” 如今，她觉得自己更像一个“像素搬运工”，而不是创意人。她的许多同行也有同感。Foran是美国平面艺术协会（AIGA）缅因分会的主席，也是Fast Compan",
+     "source": "虎嗅",
+     "zh": "沉迷AI 的老板和客户，正把设计师变成“像素搬运工”"
+    },
+    {
+     "title": "东风本田 CR-V 全能荣耀款明日上市，预计座舱等配置升级",
+     "link": "https://www.ithome.com/1/024/089.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:15:13 GMT",
+     "summary": "IT之家 11 月 9 日消息，据东风本田官方，CR-V 全能荣耀款上市发布会将于 11 月 10 日 17:00 举行。目前官方暂未公布新车的配置及价格信息，预计主要升级智能座舱与智驾配置。 IT之家注意到，CR-V 全球 30 年荣耀款指导价为 18.59-24.99 万元， 提供燃油版和混动版双版本 。该车外观方面基本延续 2024 款车型设计，前脸带有大尺寸黑色格栅，继续配备细长造型大灯组和前包围黑色装饰条；车身提供传统造型门把手；车尾带有 L 形尾灯组。 作为参考，在售车型将悬浮式中控屏尺寸升级至 12.3 英寸，取消了屏幕左侧物理旋钮和空调出风口之间的网格装饰。车辆同时匹配三辐式方",
+     "source": "IT之家",
+     "zh": "东风本田 CR-V 全能荣耀款明日上市，预计座舱等配置升级"
+    },
+    {
+     "title": "Tencent&apos;s chief AI scientist Yao Shunyu says AI&apos;s bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)",
+     "link": "https://www.techmeme.com/261108/p21#a261108p21",
+     "pubDate": "Sun, 08 Nov 2026 22:15:01 -0500",
+     "summary": "Vincent Chow / South China Morning Post : Tencent's chief AI scientist Yao Shunyu says AI's bio abilities will soon make it &ldquo;possible to do harm&rdquo; and Anthropic has a &ldquo;strong argument&rdquo; for closed models &nbsp; &mdash;&nbsp; Artificial intelligence models will soon be powerful ",
+     "source": "Techmeme",
+     "zh": "Tencent&apos;s chief AI scientist Yao Shunyu says AI&apos;s bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)"
+    },
+    {
+     "title": "人民空军“新家伙”来了，我国攻击-11 无尾飞翼布局无人机大大方方展示",
+     "link": "https://www.ithome.com/1/024/088.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:14:46 GMT",
+     "summary": "IT之家 11 月 9 日消息，央视军事今日发布视频，宣布人民空军“新家伙”来了， 并在视频中全方位展示了攻击-11 无尾飞翼布局无人机的外观细节 。 IT之家查询获悉，攻击-11 是我国自主研发的无尾飞翼布局无人机，其进气道在机背上方，尾部采用扁平化工艺， 所有武器都装载于机腹的内置弹舱中，弹舱可以容纳多种对面打击弹药 。该机还具备良好的隐身性能，续航时间长，攻击精度高，可遂行制空突击、压制防空等作战任务。 2019 年，在国庆 70 周年阅兵上，攻击-11 无人机首次露面；2021 年，在十三届中国航展上，攻击-11 模型首次参展；2024 年，在新加坡航展上，攻击-11 模型亮相国际舞台",
+     "source": "IT之家",
+     "zh": "人民空军“新家伙”来了，我国攻击-11 无尾飞翼布局无人机大大方方展示"
+    },
+    {
+     "title": "日本产业革新投资机构向三井化学和 DBJ 出售 JSR，总交易价值超 1.8 万亿日元",
+     "link": "https://www.ithome.com/1/024/086.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:14:26 GMT",
+     "summary": "IT之家 11 月 9 日消息，日本产业革新投资机构 (JIC) 当地时间今日发布正式公告，将向三井化学 (Mitsui Chemicals) 和日本政策投资银行 (DBJ) 出售旗下企业 JSR，交易完成后 JSR 将成为三井化学控股子公司 。 本次交易对 JSR 股权估值 13921 亿日元，另有 4479 亿日元债务承担， 总交易价值超 1.8 万亿日元 （IT之家注：现汇率约合 758.84 亿元人民币） ，预计将于 2027 财年下半年完成。 JSR 是全球第二大光刻胶制造商 ，交易完成后三井化学将拥有更广泛的半导体材料产品线。JSR 旗下的生命科学业务将继续被视为非核心业务。此外，",
+     "source": "IT之家",
+     "zh": "日本产业革新投资机构向三井化学和 DBJ 出售 JSR，总交易价值超 1.8 万亿日元"
+    },
+    {
+     "title": "英伟达启动独立调查：黄仁勋继续担任CEO",
+     "link": "https://www.tmtpost.com/8198079.html",
+     "pubDate": "Mon, 09 Nov 2026 11:12:20 +0800",
+     "summary": "亚洲芯片股反弹，英伟达场外合约仍在下跌。",
+     "source": "钛媒体",
+     "zh": "英伟达启动独立调查：黄仁勋继续担任CEO"
+    },
+    {
+     "title": "从付费实习到无薪招聘：背后是什么？",
+     "link": "https://www.huxiu.com/article/4904054.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 11:10:27 +0800",
+     "summary": "本文来自微信公众号： 陈志文观察 ，作者：陈志文 日前山西太原万柏林小学“无薪招聘跟岗教师”引起舆论普遍的愤慨和讨伐。这所小学面向社会招聘跟岗教师，工作内容包括“备课、磨课、批改作业，班级管理，课后服务、校园活动”等等，而且明确标注“无薪酬，食宿自理”，也就是说，除上课外，正式老师需要做的工作都需要做，但需要自带干粮“0元购”。唯一可能获得回报的是：如有岗位空缺，可择优签劳务派遣，月薪1900元。 据网上信息披露，这并非这个学校首次这个干，以前也多次发布过类似招聘信息。 澎湃发评论激烈抨击：哪来的权力和自信？ 这所学校的“底气”，显然来自当下艰难的就业形势。 2026年大学毕业生1270万，如",
+     "source": "虎嗅",
+     "zh": "从付费实习到无薪招聘：背后是什么？"
+    },
+    {
+     "title": "背屏支持心率血氧检测：荣耀 700 系列手机四色官图公布",
+     "link": "https://www.ithome.com/1/024/078.htm",
+     "pubDate": "Mon, 09 Nov 2026 03:10:18 GMT",
+     "summary": "IT之家 11 月 9 日消息，荣耀现已公布荣耀 700 系列手机四种配色的官图，新机的配色分别为「晴空」「粉雾」「冷白」「蓝调」。 IT之家注意到， 官图显示荣耀 700 系列的背屏支持心率血氧检测 ，并拥有后摄自拍、航班提醒等功能。 荣耀全球首席营销官关海涛曾于本月初表示，荣耀 700 系列新机方向很明确：继承旗舰级影像能力、探索 AI 时代年轻人的新鲜玩法，并守住荣耀一直以来的优势长板。 结合微博博主 @数码闲聊站 此前爆料， 荣耀 700 系列手机采用同档唯一双 8 芯片 ，拥有更强性能 + 更大电池 + 潜望镜 + 旗舰影像 + 自拍背屏。",
+     "source": "IT之家",
+     "zh": "背屏支持心率血氧检测：荣耀 700 系列手机四色官图公布"
     },
     {
      "title": "汽修店越开越多，为什么赚的钱却越来越少？",
@@ -1802,68 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "造车不行那就造机器人，贾跃亭的新项目靠谱吗？"
     },
     {
-     "title": "某阔直板手机正面图曝光，预计为华为星芒 OSTA O1 Pro",
-     "link": "https://www.ithome.com/1/024/072.htm",
-     "pubDate": "Mon, 09 Nov 2026 02:45:58 GMT",
-     "summary": "IT之家 11 月 9 日消息，博主 @数码闲聊站 今日曝光了某新机正面图，采用阔直板造型设计，评论区网友推测为华为星芒 OSTA O1 Pro。 IT之家注意到，该博主此前曾爆料华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA，第一款阔直板手机叫 OSTA O1 Pro。该机可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+512GB/16+1TB 容量。 “星芒”这一名称并非首次出现在公众视野。IT之家查询公开商标信息获悉，华为技术有限公司早在 2023 年 2 月便申请注册了“华为星芒”商标，并于 2023 年 9 月完成注册公告。2",
-     "source": "IT之家",
-     "zh": "某阔直板手机正面图曝光，预计为华为星芒 OSTA O1 Pro"
-    },
-    {
      "title": "纽约随笔2026",
      "link": "https://www.huxiu.com/article/4904018.html?f=rss",
      "pubDate": "Mon, 09 Nov 2026 10:45:17 +0800",
      "summary": "本文来自微信公众号： 腾达资本 ，作者：刁扬 DY，题图来自：视觉中国 再回首：站在 2026 年的深秋回望，正值 AI 浪潮撞上资本市场剧烈震荡，历史不会简单重复，但总是似曾相识？ 2013 2013年是一个神奇的年份。多年后回忆，那个蛇年是一个承上启下的转折年，是一个经历了2011到2013年周期，从泡沫破裂、信心崩溃、搓磨沉淀，直到厚积薄发的年份。 三年之前，全球经济刚走出了2008年金融危机的阴影，市场烈火烹油，中国新一代互联网和科技公司扎堆去美国上市，其中就有电商 （麦考林、当当） 、应用平台 （SkyMobi） 、IT外包 （软通） 、垂直门户 （易车） 、网络视频 （优酷） 、内",
      "source": "虎嗅",
      "zh": "纽约随笔2026"
-    },
-    {
-     "title": "智能体之争，大厂的下一场零和博弈",
-     "link": "https://www.huxiu.com/article/4904044.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 10:43:51 +0800",
-     "summary": "本文来自微信公众号： 嗅态 ，作者：嗅态 立冬前后，大厂在智能体赛道的交锋骤然升温。 11月6日，荣耀CEO李健在广州宣布，荣耀将联合中国移动等合作伙伴建设智能体服务网络，并计划在Magic9系列手机上尝试推出AI Token套餐。 一天前，蚂蚁集团公布了灵光2.0上线一周的成绩单。按照蚂蚁集团披露的数据，灵光已经帮助用户管理超过116万项事务，累计执行任务超过360万次，并接入钉钉、飞书、哈啰等40多项外部服务。 两家公司都想把AI推向实际履约，字节跳动走得更激进，碰到的阻力也更直观。 2025年底，搭载豆包手机助手的努比亚工程样机亮相，豆包可以识别屏幕内容，尝试代替用户操作手机。今年10月",
-     "source": "虎嗅",
-     "zh": "智能体之争，大厂的下一场零和博弈"
-    },
-    {
-     "title": "特朗普称 AI 风险可控，但不介意设置监管护栏",
-     "link": "https://www.ithome.com/1/024/071.htm",
-     "pubDate": "Mon, 09 Nov 2026 02:43:18 GMT",
-     "summary": "IT之家 11 月 9 日消息，据路透社今日报道，美国总统唐纳德 · 特朗普表示，AI 带来的风险是可控的，但其对监管措施持开放态度， 他“不介意设置护栏” 。 当被问及美国是否应该接受 AI 的风险时，特朗普表示这些危险是可控的，并表示愿意与民主党在监管措施方面进行合作。 特朗普此前支持让科技公司自我监管，而不是实施全面的政府限制。他的最新发言表明，其对 AI 监管持某种开放态度，尽管目前尚不清楚开放程度如何。 据IT之家此前报道，当地时间 9 月 14 日，英伟达 CEO 黄仁勋现身美国洛杉矶的 All-in Summit 峰会，公开驳斥了“AI 末日论”， 并且意外收到来自特朗普的来电 ",
-     "source": "IT之家",
-     "zh": "特朗普称 AI 风险可控，但不介意设置监管护栏"
-    },
-    {
-     "title": "美国网络服务商 Spectrum 推出限时免费千兆网速升级，只为助力《GTA6》下载",
-     "link": "https://www.ithome.com/1/024/070.htm",
-     "pubDate": "Mon, 09 Nov 2026 02:40:16 GMT",
-     "summary": "IT之家 11 月 9 日消息，美国网络服务提供商 Spectrum 最近宣布，公司将于 11 月 9 日-11 月 30 日，为符合条件的现有用户提供免费千兆网速升级，助力《GTA6》游戏下载。 Spectrum 表示，拥有兼容设备的客户可在其手机 App 上轻点一下， 就能限时免费升级至 1G 互联网套餐 。如果用户已经拥有 1G 套餐，则可以升级至 2G 套餐。11 月 10 日起，升级网速的可以全速预下载《GTA6》，避开发售日的下载高峰。 据IT之家此前报道 ，Rockstar 表示《GTA6》预载文件最高需要占用 212GB 存储空间。因此玩家们需要确保自己手里的游戏机拥有足够硬盘",
-     "source": "IT之家",
-     "zh": "美国网络服务商 Spectrum 推出限时免费千兆网速升级，只为助力《GTA6》下载"
-    },
-    {
-     "title": "保暖便宜的羽绒服，只用4步挑选",
-     "link": "https://www.huxiu.com/article/4903171.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 10:36:58 +0800",
-     "summary": "买羽绒服记住四步：翻缝线看跑绒，闻味道别买臭的，拍拍回弹要快，搓搓面料摸硬梗别选。照着来，保准你冬天朋友圈最暖！",
-     "source": "虎嗅",
-     "zh": "保暖便宜的羽绒服，只用4步挑选"
-    },
-    {
-     "title": "算力次贷隐忧：AGI热潮下的新云债务倒计时",
-     "link": "https://www.huxiu.com/article/4904041.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 10:32:47 +0800",
-     "summary": "本文来自微信公众号： 凌霄-科技投资人 ，作者：凌霄 卖铲子的人，也可能比淘金的人先缺钱。10月25日，马斯克在X上预警，新云行业将面临淘汰与整合。看这条消息，我更在意一个很朴素的问题：租金还没收够，买卡的钱先到期了怎么办？ 所谓“新云”，就是专门提供AI算力的云服务商。部分企业借钱采购GPU、租建数据中心，再把算力出租，像极了AGI时代的“数字化地产商”。但服务器不是可以慢慢收租几十年的楼房，债务合同也不会因为模型更聪明就自动延期。 AGI的长期需求可以继续增长，押注它的算力公司却未必都能熬到回本。原本被视为稳赚的“卖水人”生意，正在接受资金成本、客户回款和硬件迭代的共同检验。 01 借钱买",
-     "source": "虎嗅",
-     "zh": "算力次贷隐忧：AGI热潮下的新云债务倒计时"
-    },
-    {
-     "title": "一汽大众取消两年“年终奖”，这项收入占部分员工年薪近半",
-     "link": "https://www.huxiu.com/article/4904040.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 10:24:55 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：武凯 周姝祺 界面新闻从多位一汽大众员工处获悉，公司上周在内部口头传达，2025年度和2026年度的BD奖金将取消发放。BD在内部也被称为“保单”，约占全年总收入的40%至45%。由于其金额较高、按年度核定，员工通常将其视为年终奖。 这项收入近年从对应年度结束后的次年8月起计入员工BD奖金账户。按这一发放节奏，2025年度BD奖金已经超过往年入账时间，2026年度BD奖金原本应在2027年发放。两年的重要收入同时被告知取消，是员工反应较大的主要原因。 一名一汽大众成都分公司工程师对界面新闻表示，公司近期开始向下小范围传达上述安排，多个科室已收到消息。界面",
-     "source": "虎嗅",
-     "zh": "一汽大众取消两年“年终奖”，这项收入占部分员工年薪近半"
     },
     {
      "title": "Job listings show Amazon is building a \"new-to-world\" home robot to operate \"alongside family members\", after its $1,450 Astro reached only a few thousand homes (Annie Palmer/CNBC)",
@@ -1898,20 +1914,20 @@ window.INDUSTRY_DATA = {
      "zh": "涌入半导体的年轻人：两年红利，抵别人一辈子"
     },
     {
+     "title": "RIP, Harvest",
+     "link": "https://aphyr.com/posts/427-rip-harvest",
+     "pubDate": "Mon, 09 Nov 2026 01:58:21 +0000",
+     "summary": "Article URL: https://aphyr.com/posts/427-rip-harvest Comments URL: https://news.ycombinator.com/item?id=50420035 Points: 24 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "RIP, Harvest"
+    },
+    {
      "title": "Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a \"fine person\" and \"I haven&apos;t heard he&apos;s done anything wrong\" (Kate Sullivan/Bloomberg)",
      "link": "https://www.techmeme.com/261108/p19#a261108p19",
      "pubDate": "Sun, 08 Nov 2026 20:40:00 -0500",
      "summary": "Kate Sullivan / Bloomberg : Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a &ldquo;fine person&rdquo; and &ldquo;I haven't heard he's done anything wrong&rdquo; &nbsp; &mdash;&nbsp; President Donald Trump called Jensen Huang a &ldquo;fine person&rdquo; and",
      "source": "Techmeme",
      "zh": "Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a \"fine person\" and \"I haven&apos;t heard he&apos;s done anything wrong\" (Kate Sullivan/Bloomberg)"
-    },
-    {
-     "title": "Edge AI Daily 早报（11月9日）",
-     "link": "https://www.tmtpost.com/8197806.html",
-     "pubDate": "Mon, 09 Nov 2026 09:28:40 +0800",
-     "summary": "中期选举后美国46项数据中心公投否决扩张，AI基建进入许可时代；纳指单日跌5.5%、费半跌12%，亚洲市场熔断。Anthropic斥34亿美元购1.7GW燃气发电机，伯恩斯坦估OpenAI至2030年算力支出或达6140亿美元。苹果推进Siri自主智能体，世界模型竞赛升温。AI攻击链反转，网络安全进入黑暗时代；Snapchat、NHTSA、NASA与苹果税收监管同步演进。",
-     "source": "钛媒体",
-     "zh": "Edge AI Daily 早报（11月9日）"
     },
     {
      "title": "How Sequoia&apos;s Alfred Lin and Pat Grady erased Roelof Botha&apos;s legacy, halving GPs and unwinding his fund; sources say he joined SpaceX&apos;s board behind their backs (Financial Times)",
@@ -1925,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Unlocking any car from X brand in most of the world",
      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
      "pubDate": "Mon, 09 Nov 2026 00:10:50 +0000",
-     "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 104 # Comments: 32",
+     "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 115 # Comments: 36",
      "source": "Hacker News",
      "zh": "Unlocking any car from X brand in most of the world"
     },
@@ -1941,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
      "link": "https://isocpp.org/files/papers/P4454R0.pdf",
      "pubDate": "Sun, 08 Nov 2026 23:28:01 +0000",
-     "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 82 # Comments: 63",
+     "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 85 # Comments: 66",
      "source": "Hacker News",
      "zh": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]"
     },
@@ -1957,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Chimera Vocal Synth",
      "link": "https://chimera-vocal-synth.vercel.app/",
      "pubDate": "Sun, 08 Nov 2026 22:36:03 +0000",
-     "summary": "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 118 # Comments: 16",
+     "summary": "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 125 # Comments: 16",
      "source": "Hacker News",
      "zh": "Chimera Vocal Synth"
     },
@@ -1965,17 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
      "link": "https://ketchup3d.github.io/app/",
      "pubDate": "Sun, 08 Nov 2026 22:35:35 +0000",
-     "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 256 # Comments: 72",
+     "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 263 # Comments: 79",
      "source": "Hacker News",
      "zh": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-     "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-     "pubDate": "Sun, 08 Nov 2026 22:20:09 +0000",
-     "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 392 # Comments: 418",
-     "source": "Hacker News",
-     "zh": "Nvidia CEO Jensen Huang's letter to staff about affair"
     },
     {
      "title": "Apps to distract you from the endless cycle of doomscrolling",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
      "source": "TechCrunch",
      "zh": "Apps to distract you from the endless cycle of doomscrolling"
-    },
-    {
-     "title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261108/p15#a261108p15",
-     "pubDate": "Sun, 08 Nov 2026 16:45:03 -0500",
-     "summary": "Ian Hodgson / Wall Street Journal : US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears &nbsp; &mdash;&nbsp; Strong hiring at law offices, consulting firms staves off fears of job apocalypse&",
-     "source": "Techmeme",
-     "zh": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)"
     }
    ]
   },
@@ -2250,52 +2250,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "金百泽11月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926073590.html",
-     "pubDate": "Mon, 09 Nov 2026 11:03:57 +0800",
-     "summary": "以下是 金百泽 在北京时间11月9日11:03分盘口异动快照： 11月9日， 金百泽 盘中涨幅达5%，截至11点03分，报28.28元，成交1.29亿元，换手率5.90%。 分笔 11:03:51 28.28 176↑ 11:03:48 28.18 120↓ 11:03:45 28.19 94↑ 11:03:42 28.19 4↑ 11:03:39 28.19 189↑ 11:03:36 28.18 14↑ 11:03:33 28.15 28↑ 11:03:30 28.15 17↑ 11:03:27 28.15 245↑ 11:03:24 28.13 4↑ 报价 卖五 28.29 130 卖四",
-     "source": "东方财富股票",
-     "zh": "金百泽11月9日盘中涨幅达5%"
+     "title": "GUCCI母公司下场做足金，西方奢侈品开始向老铺黄金“抄作业”？",
+     "link": "https://wallstreetcn.com/articles/3785512",
+     "pubDate": "Mon, 09 Nov 2026 11:27:41 +0800",
+     "summary": "中国古法黄金品牌不断向奢侈品靠拢之际，国际奢侈品集团也开始反向切入中国黄金市场。 第九届中国国际进口博览会期间，开云集团旗下珠宝品牌Qeelin麒麟正式推出独立黄金品牌Qeelin GOLD，首家精品店将于11月20日在上海港汇恒隆广场开业。 与Qeelin此前主打18K金、钻石和宝石的珠宝产品不同，Qeelin GOLD以足金为核心材质，采用一口价定价模式。 虽然品牌并未明确将自身定义为“古法黄金”，但 其运用的花丝、炸珠、錾刻等传统金工，与老铺黄金等本土高端黄金品牌的工艺体系存在明显交集。 这并非开云首次布局中国高端黄金市场。2025年11月，集团曾参与本土高端黄金品牌寶蘭的A轮融资。从财",
+     "source": "华尔街见闻",
+     "zh": "GUCCI母公司下场做足金，西方奢侈品开始向老铺黄金“抄作业”？"
     },
     {
-     "title": "青岛食品11月9日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926073442.html",
-     "pubDate": "Mon, 09 Nov 2026 11:03:37 +0800",
-     "summary": "以下是 青岛食品 在北京时间11月9日11:03分盘口异动快照： 11月9日11点3分， 青岛食品 盘中打开涨停，现报24.7元，成交7.62亿元，换手率17.58%。该股之前于11点3分涨停。 分笔 11:03:27 24.70 3145↓ 11:03:24 24.74 3420↓ 11:03:21 24.74 1240↓ 11:03:18 24.74 1231↓ 11:03:15 24.74 1220↓ 11:03:12 24.74 2550↑ 11:03:09 24.73 6859↑ 11:03:06 24.70 1179↑ 11:03:03 24.60 528↑ 11:03:00 24",
-     "source": "东方财富股票",
-     "zh": "青岛食品11月9日打开涨停"
+     "title": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺",
+     "link": "https://wallstreetcn.com/articles/3785517",
+     "pubDate": "Mon, 09 Nov 2026 11:26:20 +0800",
+     "summary": "黄仁勋承认婚外情的消息，迅速从一桩个人丑闻演变为一场牵动AI交易走向的市场事件。硅谷与华尔街的声音在同一时间涌向X平台——有人力挺，有人看空，有人担忧英伟达从此失去灵魂。 事件发酵后，硅谷圈最具分量的表态来自马斯克。 红杉资本合伙人Shaun Maguire率先在X上发帖，列出五点立场： “黄仁勋是这一代最伟大的企业家之一；他干了一件极其愚蠢的事；这对美国不好；但我猜他并没有恶意；错上加错并不能变对，但我相信，黄仁勋对美国的AI领导力来说不可替代。” 该帖获得逾213万次浏览。 马斯克随即转发，只简短回复： “我同意。” Bill Ackman：黄仁勋是人，都会犯错，特朗普称愿带黄仁勋出访亚洲",
+     "source": "华尔街见闻",
+     "zh": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺"
     },
     {
-     "title": "11月9日印制电路板板块涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926073341.html",
-     "pubDate": "Mon, 09 Nov 2026 11:03:37 +0800",
-     "summary": "&emsp;&emsp;11月9日11点3分， 印制电路板 板块指数报10034.39点，涨幅达5%，成交436.88亿元，换手率3.68%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 满坤科技 报56.66元，涨11.80%； 世运电路 报33.58元，涨9.99%； 超声电子 报17.86元，涨9.98%； 奥士康 报58.15元，涨9.49%； 景旺电子 报58.85元，涨9.47%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "11月9日印制电路板板块涨幅达5%"
+     "title": "全国总工会和国家卫生健康委公布2026年爱心托育用人单位名单",
+     "link": "http://www.eeo.com.cn/2026/1109/1088368.shtml",
+     "pubDate": "Mon, 09 Nov 2026 11:24:19 +0800",
+     "summary": "据了解，150家爱心托育用人单位通过单独或联合举办全日托、半日托托育机构，主要为本单位职工提供3岁以下婴幼儿照护服务，管理规范、价格普惠，切实缓解职工生育养育的后顾之忧。",
+     "source": "经济观察网",
+     "zh": "全国总工会和国家卫生健康委公布2026年爱心托育用人单位名单"
     },
     {
-     "title": "致尚科技11月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926073264.html",
-     "pubDate": "Mon, 09 Nov 2026 11:03:29 +0800",
-     "summary": "以下是 致尚科技 在北京时间11月9日11:03分盘口异动快照： 11月9日， 致尚科技 盘中涨幅达5%，截至11点03分，报132.3元，成交4.08亿元，换手率4.38%。 分笔 11:03:18 132.30 7↑ 11:03:15 132.28 7↑ 11:03:12 132.20 1↑ 11:03:09 132.21 6↑ 11:03:06 132.21 6↑ 11:03:03 132.16 3↑ 11:03:00 132.00 2↑ 11:02:57 131.95 2↑ 11:02:54 131.88 3↓ 11:02:51 131.88 8↓ 报价 卖五 132.39 1 卖四 ",
+     "title": "世纪鼎利11月9日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611093926093736.html",
+     "pubDate": "Mon, 09 Nov 2026 11:23:41 +0800",
+     "summary": "以下是 世纪鼎利 在北京时间11月9日11:23分盘口异动快照： 11月9日， 世纪鼎利 盘中跌幅达5%，截至11点23分，报5.71元，成交8066.23万元，换手率2.50%。 分笔 11:23:33 5.71 1401↓ 11:23:30 5.72 98↑ 11:23:27 5.72 135↓ 11:23:24 5.73 37↑ 11:23:21 5.73 2035↓ 11:23:18 5.73 51↓ 11:23:15 5.74 178↑ 11:23:12 5.73 476↓ 11:23:09 5.74 100↑ 11:23:06 5.74 1↑ 报价 卖五 5.76 209 卖四 5",
      "source": "东方财富股票",
-     "zh": "致尚科技11月9日盘中涨幅达5%"
+     "zh": "世纪鼎利11月9日盘中跌幅达5%"
     },
     {
-     "title": "青岛食品11月9日盘中涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926073040.html",
-     "pubDate": "Mon, 09 Nov 2026 11:03:20 +0800",
-     "summary": "以下是 青岛食品 在北京时间11月9日11:03分盘口异动快照： 11月9日11点3分， 青岛食品 盘中涨停，报24.74元，目前封单4362手，折合1079.16万元。截至目前，成交7.36亿元，换手率17.04%。 分笔 11:03:12 24.74 2550↑ 11:03:09 24.73 6859↑ 11:03:06 24.70 1179↑ 11:03:03 24.60 528↑ 11:03:00 24.59 591↑ 11:02:57 24.50 198↑ 11:02:54 24.43 613↑ 11:02:51 24.31 134↓ 11:02:48 24.31 27↑ 11:02",
+     "title": "CPO概念持续反弹 景旺电子涨停",
+     "link": "http://finance.eastmoney.com/news/11440,202611093926094814.html",
+     "pubDate": "Mon, 09 Nov 2026 11:22:59 +0800",
+     "summary": "CPO概念 持续反弹， 景旺电子 涨停， 源杰科技 涨超9%， 致尚科技 、 天通股份 、 蘅东光 等跟涨。",
      "source": "东方财富股票",
-     "zh": "青岛食品11月9日盘中涨停"
+     "zh": "CPO概念持续反弹 景旺电子涨停"
     },
     {
-     "title": "天山生物11月9日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202611093926072964.html",
-     "pubDate": "Mon, 09 Nov 2026 11:03:11 +0800",
-     "summary": "以下是 天山生物 在北京时间11月9日11:03分盘口异动快照： 11月9日， 天山生物 盘中快速回调，5分钟内跌幅超过2%，截至11点03分，报11.61元，成交3.03亿元，换手率13.79%。 分笔 11:03:06 11.61 17↓ 11:03:03 11.62 16↑ 11:03:00 11.61 193↑ 11:02:57 11.58 44↑ 11:02:54 11.57 85↓ 11:02:51 11.58 25↑ 11:02:48 11.58 14↑ 11:02:45 11.57 165↓ 11:02:42 11.58 57↓ 11:02:39 11.58 167↓ 报价 卖",
+     "title": "天安新材11月9日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611093926093329.html",
+     "pubDate": "Mon, 09 Nov 2026 11:22:07 +0800",
+     "summary": "以下是 天安新材 在北京时间11月9日11:22分盘口异动快照： 11月9日， 天安新材 盘中快速上涨，5分钟内涨幅超过2%，截至11点22分，报11.55元，成交1.82亿元，换手率5.45%。 分笔 11:22:02 11.55 700↑ 11:21:59 11.50 2134↑ 11:21:56 11.45 141↑ 11:21:53 11.40 105↑ 11:21:50 11.36 55↑ 11:21:47 11.33 40↑ 11:21:44 11.32 246↑ 11:21:41 11.29 22↑ 11:21:38 11.28 59↓ 11:21:35 11.30 29↑ 报价",
      "source": "东方财富股票",
-     "zh": "天山生物11月9日快速回调"
+     "zh": "天安新材11月9日快速上涨"
+    },
+    {
+     "title": "鸿富诚11月9日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611093926092976.html",
+     "pubDate": "Mon, 09 Nov 2026 11:21:39 +0800",
+     "summary": "以下是 鸿富诚 在北京时间11月9日11:21分盘口异动快照： 11月9日， 鸿富诚 盘中快速上涨，5分钟内涨幅超过2%，截至11点21分，报383元，成交7.09亿元，换手率15.76%。 分笔 11:21:27 383.00 86↑ 11:21:24 381.90 15↑ 11:21:21 381.80 41↑ 11:21:18 381.20 37↑ 11:21:15 380.91 6↑ 11:21:12 380.55 28↑ 11:21:09 379.80 20↑ 11:21:06 379.57 2↑ 11:20:54 379.76 2↑ 11:20:51 379.76 3↓ 报价 卖五",
+     "source": "东方财富股票",
+     "zh": "鸿富诚11月9日快速上涨"
+    },
+    {
+     "title": "盛达资源11月9日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202611093926092773.html",
+     "pubDate": "Mon, 09 Nov 2026 11:21:30 +0800",
+     "summary": "以下是 盛达资源 在北京时间11月9日11:21分盘口异动快照： 11月9日， 盛达资源 盘中涨幅达5%，截至11点21分，报27.87元，成交9.37亿元，换手率5.13%。 分笔 11:21:21 27.87 3742↑ 11:21:18 27.80 439↑ 11:21:15 27.76 448↑ 11:21:12 27.75 60↑ 11:21:09 27.70 88↑ 11:21:06 27.69 448↓ 11:21:03 27.76 256↑ 11:21:00 27.72 480↑ 11:20:57 27.69 164↑ 11:20:54 27.68 94↑ 报价 卖五 27.9",
+     "source": "东方财富股票",
+     "zh": "盛达资源11月9日盘中涨幅达5%"
+    },
+    {
+     "title": "盛达资源11月9日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202611093926092680.html",
+     "pubDate": "Mon, 09 Nov 2026 11:21:30 +0800",
+     "summary": "以下是 盛达资源 在北京时间11月9日11:21分盘口异动快照： 11月9日， 盛达资源 盘中快速上涨，5分钟内涨幅超过2%，截至11点21分，报27.87元，成交9.37亿元，换手率5.13%。 分笔 11:21:21 27.87 3742↑ 11:21:18 27.80 439↑ 11:21:15 27.76 448↑ 11:21:12 27.75 60↑ 11:21:09 27.70 88↑ 11:21:06 27.69 448↓ 11:21:03 27.76 256↑ 11:21:00 27.72 480↑ 11:20:57 27.69 164↑ 11:20:54 27.68 94↑ ",
+     "source": "东方财富股票",
+     "zh": "盛达资源11月9日快速上涨"
+    },
+    {
+     "title": "宇树科技暴涨！人形机器人表现活跃 上周融资客布局这些股(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611093926082551.html",
+     "pubDate": "Mon, 09 Nov 2026 11:10:29 +0800",
+     "summary": "11月9日早盘，三大股指震荡走高，人形 机器人 板块表现活跃。 其中， 祥明智能 20cm封板， 上纬新材 、 泛亚微透 、宇树科技等涨超10%；其中宇树科技一度超越 联讯仪器 ，成为A股第三高价股，截至发稿仍位居第四； 华培动力 、 爱仕达 、 光洋股份 、 金固股份 等多股涨停。 政策支持不断加码、央企场景开放、海外巨头技术背书与整机厂量产爬坡共振，人形 机器人 正从“舞台演示”加速走向工厂、家庭等真实场景，行业进入订单兑现的关键验证期。 具身智能产业催化密集落地 近日，民政部等六部门联合印发《关于培育多元场景促进适老用品产品消费的若干措施》，其中提出，以国家重大科技项目为牵引，加快推进具",
+     "source": "东方财富资讯",
+     "zh": "宇树科技暴涨！人形机器人表现活跃 上周融资客布局这些股(名单)"
+    },
+    {
+     "title": "国务院关税税则委员会：调整对原产于美国的进口商品加征关税措施",
+     "link": "http://www.eeo.com.cn/2026/1109/1088364.shtml",
+     "pubDate": "Mon, 09 Nov 2026 11:06:50 +0800",
+     "summary": "国务院关税税则委员会发布公告，自2026年11月10日13时01分起，调整《国务院关税税则委员会关于对原产于美国的进口商品加征关税的公告》（税委会公告2025年第4号）规定的加征关税措施，在2个月内继续暂停实施24%的对美加征关税税率，保留10%的对美加征关税税率。",
+     "source": "经济观察网",
+     "zh": "国务院关税税则委员会：调整对原产于美国的进口商品加征关税措施"
     },
     {
      "title": "国家统计局城市司首席统计师解读2026年10月份CPI和PPI数据",
@@ -2304,6 +2344,14 @@ window.INDUSTRY_DATA = {
      "summary": "2026年10月份CPI同比继续上涨，PPI环比涨幅回落，国家统计局城市司首席统计师董莉娟对数据进行了解读。",
      "source": "经济观察网",
      "zh": "国家统计局城市司首席统计师解读2026年10月份CPI和PPI数据"
+    },
+    {
+     "title": "外交努力持续！今日特朗普和万斯将在白宫会见美伊关键调解人",
+     "link": "http://finance.eastmoney.com/news/1356,202611093926074764.html",
+     "pubDate": "Mon, 09 Nov 2026 11:00:01 +0800",
+     "summary": "在美伊局势持续处于僵局之际，结束冲突的外交努力仍在持续，美国总统特朗普和副总统万斯周一将分别在白宫会见卡塔尔首相。 综合 央视新闻等媒体报道，当地时间11月8日，白宫公布的日程显示， 美国总统特朗普将于9日中午在白宫会见卡塔尔首相兼外交大臣穆罕默德·本·阿卜杜勒拉赫曼·阿勒萨尼 。卡塔尔首相是美国和伊朗之间的关键调解人。 在华盛顿和德黑兰之间，卡塔尔一直扮演着关键的斡旋方角色，负责传递提议，并试图弥合双方在伊朗核计划以及结束冲突条款上的分歧。 卡塔尔首相兼外交大臣穆罕默德7日表示，卡塔尔在美国和伊朗之间的调解斡旋仍在继续，美国政府在中期选举后仍愿寻求伊朗问题的解决方案。 据此前美国方面消息称，",
+     "source": "东方财富资讯",
+     "zh": "外交努力持续！今日特朗普和万斯将在白宫会见美伊关键调解人"
     },
     {
      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
@@ -2394,36 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "无惧美股抛售？“木头姐”研判：忧虑筑起高墙 牛市走得更长！"
     },
     {
-     "title": "美股抛售尚未到头？凯投宏观警告：AI投资明年将放缓 2028年恐下滑10%",
-     "link": "http://stock.eastmoney.com/news/11228,202611093926039522.html",
-     "pubDate": "Mon, 09 Nov 2026 09:50:25 +0800",
-     "summary": "凯投宏观（Capital Economics）指出， 尽管投资者近期已遭受重创，但随着AI投资热潮逐渐消退，美股还将面临更严重的暴跌 。 该机构首席经济顾问Vicky Redwood在上周五的一份报告中表示，虽然AI具备提升生产力的潜力，但她对能否产生足够的收入来维持当前的投资增速持悲观态度。 少数几家超大规模云服务商今年的支出将达到8000亿美元，是去年的两倍，且2027年的投资额预计将达到1万亿美元或更多。很多预测认为，未来几年这些公司的年度资本支出将保持在1万亿美元以上。 但Redwood测算，若要证明如此庞大的支出是合理的，到2030年，来自外部客户的AI相关年度营收必须激增10倍。虽",
-     "source": "东方财富资讯",
-     "zh": "美股抛售尚未到头？凯投宏观警告：AI投资明年将放缓 2028年恐下滑10%"
-    },
-    {
-     "title": "胡塞武装袭击利雅得金融区 地标建筑沙特阿美大楼受损",
-     "link": "http://finance.eastmoney.com/news/1356,202611093925849285.html",
-     "pubDate": "Mon, 09 Nov 2026 09:36:44 +0800",
-     "summary": "周日，也门胡塞武装再次将矛头对准利雅得。一枚发射物击中了沙特首都利雅得金融区的一座标志性摩天大楼，成为该组织持续扰乱沙特社会秩序的空袭行动中，又一处遇袭的地标建筑。 据熟悉此事的当地官员称，沙特阿美石油大楼——又称“空中别墅”(Villas in the Sky)，在胡塞武装发动的 无人机 和导弹袭击中受损。 沙特当地媒体援引该国能源部一名人士的话称，大楼受损是由落在建筑上的弹片造成的。报道补充称，此次袭击事件中无人受伤。此前，打击胡塞武装的沙特领导的联军表示，已拦截并摧毁了该组织向利雅得发射的两枚弹道导弹。 此次对利雅得金融枢纽——阿卜杜拉国王金融区(KAFD)的罕见打击，对于已被数月地区冲",
-     "source": "东方财富资讯",
-     "zh": "胡塞武装袭击利雅得金融区 地标建筑沙特阿美大楼受损"
-    },
-    {
      "title": "过去19年来最大的“意外”！高盛分析师复盘上周四的“科技股灾”",
      "link": "https://wallstreetcn.com/articles/3785507",
      "pubDate": "Mon, 09 Nov 2026 09:36:04 +0800",
      "summary": "上周四，美股遭遇了一场令期权市场措手不及的历史性冲击。高盛衍生品策略师Brian Garrett在最新周末报告中指出，无论从市值蒸发规模、成交量、波动率跳升幅度还是投资者仓位来看，这一天的市场数据均与新冠疫情冲击、全球金融危机及所谓\"对等关税日\"的关税恐慌形成呼应——但其最大的特殊性在于， 此次下跌相对于期权市场此前定价的“意外程度”，是过去19年来之最 。 上周四，纳斯达克100指数单日暴跌6.4%，为2020年3月以来最大单日跌幅；标普500指数下跌4.4%，为所谓\"对等关税日\"以来最差表现。 当日，Cboe历史上单日认沽期权成交量创下纪录，约2.5万亿美元的纳斯达克100市值在一个交易日",
      "source": "华尔街见闻",
      "zh": "过去19年来最大的“意外”！高盛分析师复盘上周四的“科技股灾”"
-    },
-    {
-     "title": "美银Hartnett：中选标志着“AI见顶”，华尔街“牛市信念逐一崩坍”",
-     "link": "https://wallstreetcn.com/articles/3785505",
-     "pubDate": "Mon, 09 Nov 2026 09:35:42 +0800",
-     "summary": "民主党“蓝潮”横扫国会，一场选举重写了华尔街的交易逻辑。 美国银行首席投资策略师Michael Hartnett在最新一期《Flow Show》周报中，将2026年中期选举定性为 “AI股票集中度见顶” 的历史节点，并开出一张与过去两年截然相反的交易清单。 一夜之间，三大“牛市信念”轰然倒塌 今年夏天， 华尔街流行着四个“不会发生”：美联储不会加息、民主党不会横扫、AI资本开支不会削减、经济不会衰退。 现实一一打脸。 Hartnett在报告中直接点名：“华尔街夏季的牛市信念是'不着陆'、'不加息'、'不削减'、'不横扫'。根据美银7月全球基金经理调查，七成投资者认为中期选举前美联储不会加息，八",
-     "source": "华尔街见闻",
-     "zh": "美银Hartnett：中选标志着“AI见顶”，华尔街“牛市信念逐一崩坍”"
     },
     {
      "title": "AbbVie reports improved facial satisfaction among weight-loss drug users",
@@ -2440,30 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "共生型组织不是简单拥有更多资源，也不是把资源开放给更多伙伴。本期《共生课堂》回到共生型组织的重要特征“资源共通”，理解为什么资源只有进入共同价值创造，才可能从静态拥有转化为共生能力。",
      "source": "经济观察网",
      "zh": "陈春花：资源共通，让资源在共生中生长的价值创造"
-    },
-    {
-     "title": "学不动的孩子｜04 读懂孩子的\"躯体化承载\"",
-     "link": "http://www.eeo.com.cn/2026/1109/1088323.shtml",
-     "pubDate": "Mon, 09 Nov 2026 09:32:26 +0800",
-     "summary": "作者 韩明丽 有个男孩，十四岁了，来的时候是妈妈硬拽进咨询室的。 妈妈说，这孩子从上学期开始，每周都要请两三次假。理由是\"肚子疼\"。去了医院，胃镜做了，B超做了，血也抽了，什么都没查出来。医生说，并没有啥器质性问题。 <p class=\"ql-align-j...",
-     "source": "经济观察网",
-     "zh": "学不动的孩子｜04 读懂孩子的\"躯体化承载\""
-    },
-    {
-     "title": "目标函数不能吞并的价值：碳硅共生的制度设计",
-     "link": "http://www.eeo.com.cn/2026/1109/1088322.shtml",
-     "pubDate": "Mon, 09 Nov 2026 09:32:01 +0800",
-     "summary": "碳硅共生不能仅靠技术优化，需通过法律、政策、伦理的制度设计，把信任、审美、公平感这类不可压缩价值设为硬约束。本文提出：法律上以“可预见性边界”划分责任、以无过错责任与强制保险池兜底救济；政策上以“协作密度”区分替代型与增强型AI，用税差引导企业把人类留在关键终审节点；伦理上确立碳基福祉、基本权利可解释、退出权三条底线，并以阈值形式作为约束条件进入决策，不接受连续优化。制度设计的焦点是确保修改目标函数的权力始终挂在一条可追责的链条上。",
-     "source": "经济观察网",
-     "zh": "目标函数不能吞并的价值：碳硅共生的制度设计"
-    },
-    {
-     "title": "中国10月CPI同比增0.7%，数据存储设备涨45.4%，中国10月PPI同比增5.7%，创2022年6月以来最高",
-     "link": "https://wallstreetcn.com/articles/3785509",
-     "pubDate": "Mon, 09 Nov 2026 09:30:36 +0800",
-     "summary": "国家统计局周一（11月9日）公布数据显示，10月全国居民消费价格指数（CPI）同比上涨0.7%，涨幅较上月收窄0.2个百分点，环比持平。 其中，数据存储设备、平板电脑、计算机和移动电话机价格分别上涨45.4%、29.3%、23.0%和16.7%，四项合计影响CPI同比上涨约0.26个百分点。 与此同时，工业生产者出厂价格指数（PPI）同比上涨5.7%，涨幅较上月扩大0.7个百分点，延续上行势头。国家统计局城市司首席统计师董莉娟指出，能源相关行业价格上涨是推动PPI走高的主要动力，能源价格传导效应显著。 数据显示，煤炭开采和洗选业同比上涨36.6%，石油和天然气开采业、石油煤炭及其他燃料加工业分",
-     "source": "华尔街见闻",
-     "zh": "中国10月CPI同比增0.7%，数据存储设备涨45.4%，中国10月PPI同比增5.7%，创2022年6月以来最高"
     },
     {
      "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",

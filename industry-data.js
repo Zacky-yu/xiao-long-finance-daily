@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/9 12:31:58",
+ "generated_at": "2026/11/9 12:51:47",
  "recent_days": 7,
  "industries": [
   {
@@ -1754,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "华新110亿买巴西第二大水泥厂",
+     "link": "https://www.huxiu.com/article/4904081.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 12:40:38 +0800",
+     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 掏出约110亿元人民币，去买一家去年只赚两千多万美元、今年上半年还在账面亏损的巴西水泥厂，华新建材把中国水泥行业少见的一笔跨洲并购落在了纸面上。 2026年11月7日，华新与巴西国家钢铁公司（CSN）签署股权收购协议，收购巴西第二大水泥生产商CSN Cimentos 99.99%股权。 从7月底批准约束性报价，到10月底签下10天排他性协议，再到11月初董事会批准正式方案并签约，这笔交易推进了三个多月。 协定企业价值127亿雷亚尔，扣除目标净债务后，股权对价约16.42亿美元，折合约110亿元人民币。 这笔交易的分量，落在金额之外。 过",
+     "source": "虎嗅",
+     "zh": "华新110亿买巴西第二大水泥厂"
+    },
+    {
+     "title": "金河田：若二手显卡端子老化致使热烧毁，显卡损坏不属于电源质保范围",
+     "link": "https://www.ithome.com/1/024/137.htm",
+     "pubDate": "Mon, 09 Nov 2026 04:36:41 GMT",
+     "summary": "IT之家 11 月 9 日消息，电源等 PC 组件品牌金河田 (Golden Field) 今日发布重要公告《搭配二手显卡供电接口风险及售后说明》： 金河田表示，电源连接器的可靠性必须建立在“配对端子镀层完好、插拔循环在规范限值内、无氧化”的前提下。而 二手显卡普遍存在 12V 正极导针氧化发黑的问题 ，这会带来接触电阻升高，进而在高功率下电流分配失衡，最终端子烧毁；这种情况并非电源工艺缺陷。 在面对此类售后问题时，金河田将进行故障溯源分析。如果问题源于电源侧，则将赔偿直接（电源）和连带（其它硬件）损失； 如果是二手显卡端子导致 ，金河田将提供受损电源保修以及电源线材更换服务， 显卡不在赔偿范",
+     "source": "IT之家",
+     "zh": "金河田：若二手显卡端子老化致使热烧毁，显卡损坏不属于电源质保范围"
+    },
+    {
      "title": "星曜光学推出 APO M 35mm 1:1.7 ASPH.镜头，5299 元",
      "link": "https://www.ithome.com/1/024/136.htm",
      "pubDate": "Mon, 09 Nov 2026 04:27:18 GMT",
@@ -1802,6 +1818,14 @@ window.INDUSTRY_DATA = {
      "zh": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)"
     },
     {
+     "title": "中国讨论征收糖税",
+     "link": "https://www.solidot.org/story?sid=85831",
+     "pubDate": "Mon, 09 Nov 2026 12:03:16 +0800",
+     "summary": "随着肥胖与糖尿病风险上升，专家及媒体提议借当下消费税改革契机，对含糖饮料进行分级征税，促使民众减少糖分摄入。《健康时报》称，中国超重和肥胖者的比例已超 50%，精制糖摄入过量是重要诱因。文章指出，征收含糖税或许是大势所趋，并建议中国从审慎研究并有序试点开始，按含糖量设置阶梯税率，高糖高税、低糖轻税、无糖免税，并将税收定向用于校园健康饮食项目等。截至 2024 年 7 月，全球至少有 116 个国家对至少一种含糖饮料征收国家级消费税。世界卫生组织去年 7 月呼吁各国对含糖饮料征收至少达到零售价 20% 的税率，目标是到 2035 年将含糖饮料整体价格提高 50%。明年 3 月，中国新版预包装食品",
+     "source": "Solidot",
+     "zh": "中国讨论征收糖税"
+    },
+    {
      "title": "从336亿到4.86亿，粉笔跌去98.5%",
      "link": "https://www.huxiu.com/article/4904074.html?f=rss",
      "pubDate": "Mon, 09 Nov 2026 12:00:51 +0800",
@@ -1826,12 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "比亚迪仰望鼎曜旗舰轿车现身官网：确认支持应急浮水功能，意外落水自动激活"
     },
     {
-     "title": "今年前 10 月全国火灾起数同比下降 7%，电气故障为首要诱因",
-     "link": "https://www.ithome.com/1/024/115.htm",
-     "pubDate": "Mon, 09 Nov 2026 03:55:48 GMT",
-     "summary": "IT之家 11 月 9 日消息，据央视新闻报道，今天是第 35 个全国消防日，国家消防救援局发布了今年前 10 月全国火灾数据。据统计，今年前 10 月火灾起数同比有所下降，住宅是导致火灾伤亡的最主要场所， 电气故障是引发火灾的首要原因 。 今年 1 至 10 月，全国共接报火灾 69.6 万起，与去年同期相比， 火灾起数下降 7.0% 。从火灾发生地区情况看，今年前 10 月，在全国火灾总数中，东部地区占 43.3%，比重最高。与去年同期相比，东部、中部地区火灾起数有所下降，西部、东北地区有所上升。 报道提到，居民住宅火灾最为多发，伤亡人数最多。今年前 10 月， 各类住宅发生火灾 23.9",
-     "source": "IT之家",
-     "zh": "今年前 10 月全国火灾起数同比下降 7%，电气故障为首要诱因"
+     "title": "A Critique of GPUI",
+     "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+     "pubDate": "Mon, 09 Nov 2026 03:51:10 +0000",
+     "summary": "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui Comments URL: https://news.ycombinator.com/item?id=50420857 Points: 11 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "A Critique of GPUI"
     },
     {
      "title": "全国50强城市，又变了",
@@ -1858,18 +1882,10 @@ window.INDUSTRY_DATA = {
      "zh": "奔驰摊牌了：跳过L3，直接冲刺L4"
     },
     {
-     "title": "国产大模型的困难才刚刚开始",
-     "link": "https://www.huxiu.com/article/4904056.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 11:19:42 +0800",
-     "summary": "本文来自微信公众号： 牌桌 Poker Table ，作者：牌桌编辑部 最近有两件事，严重削弱了国产开源模型6月以来的局部竞争优势。 一是Anthropic全面加入价格战： Opus-5.5的中等档位，性能高于Kimi-K3和GLM-5.3最高档，价格却低了三分之一。Haiku-5.5以Flash模型的价格，在Vals的四项长程编码基准上，性价比碾压Kimi-K3。 目前国模甜区，只剩下长上下文（单次输入大于10万token）、高缓存命中场景，DeepSeek-V4.1 Flash和GLM-5.3 Flash在这些场景仍保有API单价优势。 二是美国开源模型取得实质突破： Reflection",
-     "source": "虎嗅",
-     "zh": "国产大模型的困难才刚刚开始"
-    },
-    {
      "title": "The Qlobe: Rotating Quine (2010)",
      "link": "http://mamememo.blogspot.com/2010/09/qlobe.html",
      "pubDate": "Mon, 09 Nov 2026 03:15:17 +0000",
-     "summary": "Article URL: http://mamememo.blogspot.com/2010/09/qlobe.html Comments URL: https://news.ycombinator.com/item?id=50420599 Points: 6 # Comments: 0",
+     "summary": "Article URL: http://mamememo.blogspot.com/2010/09/qlobe.html Comments URL: https://news.ycombinator.com/item?id=50420599 Points: 7 # Comments: 0",
      "source": "Hacker News",
      "zh": "The Qlobe: Rotating Quine (2010)"
     },
@@ -1909,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "A Bit about Email",
      "link": "https://maurycyz.com/misc/email/",
      "pubDate": "Mon, 09 Nov 2026 02:46:21 +0000",
-     "summary": "Article URL: https://maurycyz.com/misc/email/ Comments URL: https://news.ycombinator.com/item?id=50420383 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://maurycyz.com/misc/email/ Comments URL: https://news.ycombinator.com/item?id=50420383 Points: 10 # Comments: 1",
      "source": "Hacker News",
      "zh": "A Bit about Email"
     },
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "RIP, Harvest",
      "link": "https://aphyr.com/posts/427-rip-harvest",
      "pubDate": "Mon, 09 Nov 2026 01:58:21 +0000",
-     "summary": "Article URL: https://aphyr.com/posts/427-rip-harvest Comments URL: https://news.ycombinator.com/item?id=50420035 Points: 92 # Comments: 31",
+     "summary": "Article URL: https://aphyr.com/posts/427-rip-harvest Comments URL: https://news.ycombinator.com/item?id=50420035 Points: 120 # Comments: 38",
      "source": "Hacker News",
      "zh": "RIP, Harvest"
     },
@@ -1973,25 +1989,9 @@ window.INDUSTRY_DATA = {
      "title": "Unlocking any car from X brand in most of the world",
      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
      "pubDate": "Mon, 09 Nov 2026 00:10:50 +0000",
-     "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 147 # Comments: 52",
+     "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 153 # Comments: 53",
      "source": "Hacker News",
      "zh": "Unlocking any car from X brand in most of the world"
-    },
-    {
-     "title": "I'm not convinced the AI bubble exists",
-     "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-     "pubDate": "Sun, 08 Nov 2026 23:44:36 +0000",
-     "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 81 # Comments: 114",
-     "source": "Hacker News",
-     "zh": "I'm not convinced the AI bubble exists"
-    },
-    {
-     "title": "When a language's creator and its owners strongly disagree [pdf]",
-     "link": "https://isocpp.org/files/papers/P4454R0.pdf",
-     "pubDate": "Sun, 08 Nov 2026 23:28:01 +0000",
-     "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 93 # Comments: 75",
-     "source": "Hacker News",
-     "zh": "When a language's creator and its owners strongly disagree [pdf]"
     }
    ]
   },
@@ -2250,6 +2250,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "明新旭腾：水性超纤产品已进入量产阶段",
+     "link": "http://finance.eastmoney.com/news/1354,202611093926114657.html",
+     "pubDate": "Mon, 09 Nov 2026 12:38:00 +0800",
+     "summary": "明新旭腾 在2026年第三季度业绩说明会上表示，目前公司水性超纤产品已进入量产阶段，今年前三季度核心产品水性绒面超纤的收入占比较去年同期相比明显提升，并对公司整体业绩产生积极贡献。未来，公司将继续加大水性超纤产品的研发迭代和市场拓展工作，持续扩大公司产品的市场影响力。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "明新旭腾：水性超纤产品已进入量产阶段"
+    },
+    {
+     "title": "正荣地产：子公司Zhenro Hong Kong被下令清盘 其财务业绩不再综合入账",
+     "link": "http://finance.eastmoney.com/news/1354,202611093926114555.html",
+     "pubDate": "Mon, 09 Nov 2026 12:35:05 +0800",
+     "summary": "正荣地产 港交所公告，香港高等法院11月9日下令子公司Zhenro Hong Kong进行清盘，破产管理署署长同日获委任为临时清盘人。公司自2026年11月9日起失去对该子公司的控制权，其财务业绩不再 综合 入账。Zhenro Hong Kong持有381间附属公司，2025年未经审核总资产约849.05亿元，占集团总资产98.60%。出表后集团总资产降至约12.05亿元，总收入为零。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "正荣地产：子公司Zhenro Hong Kong被下令清盘 其财务业绩不再综合入账"
+    },
+    {
+     "title": "全球芯片LOF(501225)将于2026年11月9日下午开市起停牌至当日收市",
+     "link": "http://stock.eastmoney.com/news/11622,202611093926114417.html",
+     "pubDate": "Mon, 09 Nov 2026 12:33:43 +0800",
+     "summary": "全球芯片LOF(501225)将于2026年11月9日下午开市起停牌至当日收市，停牌期间赎回业务照常办理。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "全球芯片LOF(501225)将于2026年11月9日下午开市起停牌至当日收市"
+    },
+    {
+     "title": "映翰通：边缘AI计算机产品销售金额占比小 处于规模化市场推广阶段",
+     "link": "http://finance.eastmoney.com/news/1354,202611093926114369.html",
+     "pubDate": "Mon, 09 Nov 2026 12:33:25 +0800",
+     "summary": "映翰通 在2026年第三季度业绩说明会上表示，公司EC系列AI 边缘计算 机可以用于AI数据采集、边缘智能数据采集相关业务场景。目前，公司边缘AI 计算机 产品已导入工业自动化与制造、 电力 与 新能源 、 通信 与 物联网 、 电子 设备、 交通运输 等国内外多行业客户，但销售金额占比小，处于规模化市场推广阶段。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "映翰通：边缘AI计算机产品销售金额占比小 处于规模化市场推广阶段"
+    },
+    {
+     "title": "11月9日午间涨停复盘：51股涨停 文投控股14天7板",
+     "link": "http://stock.eastmoney.com/news/11781,202611093926114020.html",
+     "pubDate": "Mon, 09 Nov 2026 12:32:57 +0800",
+     "summary": "今日午盘沪指 涨 0.46%，深成指 涨 0.27%，创业板指 涨 0.56%，今日午盘大盘成交额1.01万亿，较上个交易日缩量1116.12亿。 涨停个股数量方面，今日午盘共计51股涨停，另有39只个股盘中一度触及涨停，封板率56.67%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "11月9日午间涨停复盘：51股涨停 文投控股14天7板"
+    },
+    {
+     "title": "沃尔核材：单通道448G高速线进度取决于客户技术方案和项目进度安排",
+     "link": "http://finance.eastmoney.com/news/1354,202611093926114278.html",
+     "pubDate": "Mon, 09 Nov 2026 12:30:48 +0800",
+     "summary": "沃尔核材 在互动平台表示，公司单通道448G高速线属于下一代更高速率的产品，其进度取决于客户的技术方案和项目进度安排，公司将持续跟进并配合客户的需求。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "沃尔核材：单通道448G高速线进度取决于客户技术方案和项目进度安排"
+    },
+    {
+     "title": "从文本到代码：刘子栋的“极端斯坦”跃迁",
+     "link": "http://www.eeo.com.cn/2026/1109/1088397.shtml",
+     "pubDate": "Mon, 09 Nov 2026 12:23:30 +0800",
+     "summary": "名医一天接诊三十人已是极限，而代码可以被无限复制。本文借用塔勒布《黑天鹅》中“平均斯坦”与“极端斯坦”的概念，讲述一位从医四十年的肾脏病医生借助 AI 亲手编写血液透析系统的经历。传统医疗软件要经过“医生→产品经理→程序员”两次折射，临床经验层层失真，最终沦为逼医护填表的“表单怪物”。生成式 AI 让认知者成为构建者：医生把经验直接编译进代码，化作守在透析机旁的“数字孪生医生”。文章认为，这类智能体系统不能用 SaaS 年费来衡量，它能让患者、家属、透析中心、基层医疗、医保监管与社会经济六方共赢。作者提出",
+     "source": "经济观察网",
+     "zh": "从文本到代码：刘子栋的“极端斯坦”跃迁"
+    },
+    {
+     "title": "极端气候+供给结构性收缩！煤炭股走强 11股2026年利润预测翻倍",
+     "link": "http://finance.eastmoney.com/news/11139,202611093926109116.html",
+     "pubDate": "Mon, 09 Nov 2026 12:16:20 +0800",
+     "summary": "煤炭 板块11月9日早盘表现强势，板块中 郑州煤电 、 安泰集团 涨停 ； 大有能源 、 云煤能源 、 新集能源 、 陕西黑猫 、 淮北矿业 等跟涨。 超强厄尔尼诺来了 市场人士表示， 煤炭 板块的走强，与当前气候面临的超强厄尔尼诺现象有关。 据气象部门预测，受超强厄尔尼诺事件影响，预计今冬我国气温总体偏高，但寒潮频次略多、冷暖起伏大，极端天气可能多发频发，预计将给能源保供带来挑战。 国家发改委也表示，在确保安全生产前提下全力组织 煤炭 生产，9月份全国煤炭产量3.85亿吨，10月份产量环比进一步提升，电煤库存保持高位，截至10月底， 全国统调电厂存煤超过2.1亿吨，可用36天 。 厦门大学中",
+     "source": "东方财富资讯",
+     "zh": "极端气候+供给结构性收缩！煤炭股走强 11股2026年利润预测翻倍"
+    },
+    {
+     "title": "高端算力涨价！光模块出口强劲 主力吸筹多股",
+     "link": "http://finance.eastmoney.com/news/11139,202611093926108011.html",
+     "pubDate": "Mon, 09 Nov 2026 12:15:18 +0800",
+     "summary": "周一光模块概念股大涨， 声迅股份 、 烽火通信 等多股涨停， 源杰科技 、 长飞光纤 等个股涨超7%。 光模块出口强劲 海外方面，近期美国AI监管与 数据中心 审批争议升温，市场开始担心资本开支放缓。 有机构分析认为，当前预期对政策约束计提较多，对应用扩张带来的需求增量考虑不足。审批变化会影响建设和交付节奏，但企业使用AI降本增效的动力仍在，不能把项目延期直接理解为算力需求消失。据Ornn数据，截至11月5日，H100、H200、B200按需租金较30日前分别上涨10.21%、27.22%、24.97%； 上海钢联 11月6日周报显示，国内H100包月 租赁 价格指数周涨9.36%。不同代际高",
+     "source": "东方财富资讯",
+     "zh": "高端算力涨价！光模块出口强劲 主力吸筹多股"
+    },
+    {
+     "title": "马斯克最新透露：特斯拉可能将出租而非出售Optimus机器人",
+     "link": "http://stock.eastmoney.com/news/11219,202611093926109332.html",
+     "pubDate": "Mon, 09 Nov 2026 12:08:09 +0800",
+     "summary": "特斯拉 的人形 机器人 Optimus是市场关注的焦点产品之一，其预计将在2027年底左右开始向外部客户交付，但交付形式可能与投资者此前想象不同。 马斯克上周表示， 特斯拉 很可能会向客户出租其人形 机器人 ，而不是出售。他还补充称，Optimus的初期成本可能与电动 汽车 差不多，但随着时间推移，成本将快速下降。每个 机器人 的初始成本约为3万美元，之后会降至2万美元左右。 马斯克预计Optimus至少需要一年时间才能达到全面量产。在对外交付前，Optimus将先在 特斯拉 的自有工厂中使用，据悉该 机器人 的工作效率将达到普通人的五倍左右。 目前，特斯拉已经在其弗里蒙特工厂启动了Optim",
+     "source": "东方财富资讯",
+     "zh": "马斯克最新透露：特斯拉可能将出租而非出售Optimus机器人"
+    },
+    {
      "title": "创业板冲高回落涨0.56%，AI硬件反弹，煤炭、商业航天爆发，恒科指接近转跌，科网股分化、美团跌5%",
      "link": "https://wallstreetcn.com/articles/3785511",
      "pubDate": "Mon, 09 Nov 2026 12:04:10 +0800",
@@ -2258,52 +2338,28 @@ window.INDUSTRY_DATA = {
      "zh": "创业板冲高回落涨0.56%，AI硬件反弹，煤炭、商业航天爆发，恒科指接近转跌，科网股分化、美团跌5%"
     },
     {
-     "title": "交通运输部：继续暂停对美船舶收取船舶特别港务费两个月至2027年1月10日",
-     "link": "http://finance.eastmoney.com/news/1350,202611093926104540.html",
-     "pubDate": "Mon, 09 Nov 2026 11:51:31 +0800",
-     "summary": "交通运输 部发布关于继续暂停对美船舶收取船舶特别港务费、暂停开展 航运 业造船业及相关产业链供应链安全和发展利益受影响情况调查的公告。为落实中美第八轮经贸磋商成果，经国务院批准，继续暂停实施《 交通运输 部关于对美船舶收取船舶特别港务费的公告》（ 交通运输 部公告2025年第54号）、《交通运输部办公厅关于印发〈对美船舶收取船舶特别港务费实施办法〉的通知》（交办水〔2025〕59号）、《交通运输部关于启动 航运 业、造船业及相关产业链供应链安全和发展利益受影响情况调查的公告》（交通运输部公告2025年第55号）至2027年1月10日。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "交通运输部：继续暂停对美船舶收取船舶特别港务费两个月至2027年1月10日"
+     "title": "“AI缺电”具象化了：Anthropic砸钱“截胡”发电设备订单 金额或创纪录",
+     "link": "http://finance.eastmoney.com/news/1354,202611093926107864.html",
+     "pubDate": "Mon, 09 Nov 2026 11:56:56 +0800",
+     "summary": "随着 数据中心 建设拉高 电力 需求，发电设备正逐渐成为“ 稀缺资源 ”。 据日前媒体报道，Anthropic 9月下旬与燃气发电设备供应商OnePWR Solutions达成一笔大规模交易，为 数据中心 采购燃气发电机组。 这次交易金额高达34亿美元，包括总装机容量达1.7GW的重型发电机组，以及安装这些发电机组所需的工程设计及施工部分。 据悉，这是目前已知的 AI实验室单笔规模最大的发电设备采购交易 。 在此之前，AI公司通常依赖 公用事业 公司或专业 电力 公司来满足 电力 需求，但如今随着燃气轮机与发电机组需求激增，设备制造的交付周期已拉长至数年，而AI公司开始利用自身雄厚的资金实力绕",
+     "source": "东方财富资讯",
+     "zh": "“AI缺电”具象化了：Anthropic砸钱“截胡”发电设备订单 金额或创纪录"
     },
     {
-     "title": "中国五矿在雄安成立城市发展投资公司",
-     "link": "http://finance.eastmoney.com/news/1354,202611093926104366.html",
-     "pubDate": "Mon, 09 Nov 2026 11:47:55 +0800",
-     "summary": "企查查APP显示，近日，五矿城市发展投资（雄安）有限公司成立，法定代表人为甄怀攀，注册资本为3.5亿元，经营范围包含： 房地产开发 经营；建设工程施工；信息技术咨询服务；数据处理服务； 房地产 咨询；办公服务等。企查查股权穿透显示，该公司由中国五矿集团有限公司旗下五矿地产集团有限公司全资持股。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "中国五矿在雄安成立城市发展投资公司"
+     "title": "603366，开盘超300万手封涨停！“东方”火了，概念股批量涨停",
+     "link": "http://stock.eastmoney.com/news/11134,202611093926106985.html",
+     "pubDate": "Mon, 09 Nov 2026 11:55:40 +0800",
+     "summary": "光伏板块迎多重利好。 日出东方 开盘超300万手封涨停 今日（11月9日）上午， 日出东方 （603366） 开盘涨停，集合竞价结束后封单一度超过300万手。截至上午收盘，该股报9.89元/股，上涨10.01%，涨停封单超过110万手。 从基本面来看，该股前三季度营收接近33亿元，同比增长近18%；归母净利8492.86万元，同比增长超131%。 在业内人士看来， 日出东方 股价异动一方面是“东方”字辈玄学炒作，比如早盘也有 东方通信 、 东方环宇 、 大东方 、 东方嘉盛 、 东方新能 等个股涨停，而 东方海洋 等此前更是连续涨停；另一方面则是光伏板块集体带动， 钧达股份 、 腾达科技 、 ",
+     "source": "东方财富资讯",
+     "zh": "603366，开盘超300万手封涨停！“东方”火了，概念股批量涨停"
     },
     {
-     "title": "华尔街“木头姐”研判：股市上涨行情将在2027年继续",
-     "link": "http://stock.eastmoney.com/news/1426,202611093926104477.html",
-     "pubDate": "Mon, 09 Nov 2026 11:47:30 +0800",
-     "summary": "华尔街明星基金经理、方舟投资（Ark Invest）的掌门人凯茜·伍德（Cathie Wood）对上周的市场波动不以为意，她甚至表示，投资者的担忧实际上增强了她对未来进一步上涨的乐观情绪。伍德的公司管理着多个专注于科技和创新领域的基金。她告诉媒体，目前金融市场弥漫着“忧虑之墙”。但她数十年的投资经验让她对当前的市场形势有着某种非传统的见解。“在市场波动剧烈时，如果出现反弹，就应该获利了结。这样，当市场出现抛售时，如果你已经获利了结，就有足够的心理承受能力重新入场，”她说道。 伍德强调，她预计股市上涨行情将在2027年继续。她谈到选举后的动荡时说：“这是两步前进，一步后退。明年这场变革的走向会越",
-     "source": "东方财富股票",
-     "zh": "华尔街“木头姐”研判：股市上涨行情将在2027年继续"
-    },
-    {
-     "title": "广西出台措施推动民间投资高质量发展",
-     "link": "http://finance.eastmoney.com/news/1350,202611093926104029.html",
-     "pubDate": "Mon, 09 Nov 2026 11:47:00 +0800",
-     "summary": "据广西日报，近日，自治区政府办公厅印发《广西推动民间投资高质量发展若干措施》，旨在进一步激发广西民间投资活力，发挥民间投资在优化投资结构、增强投资动能方面的重要作用。 《措施》明确支持民间资本参与重点领域建设，鼓励民营企业参与 有色金属 及关键金属材料、先进 钢铁 材料等重点产业建设，以及水网、新型电网、算力网等重点基础设施建设。同时，支持民间资本参与科技创新和产业创新，支持民营企业牵头或参与自治区技术创新中心、科技成果转化基地等科技创新平台基地建设。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "广西出台措施推动民间投资高质量发展"
-    },
-    {
-     "title": "【调研快报】光正眼科接待新恒通集团等18家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611093926103324.html",
-     "pubDate": "Mon, 09 Nov 2026 11:46:56 +0800",
-     "summary": "光正眼科 11月9日公告称， 11月8日 接待新恒通集团 等18家机构 调研。 接待人员包括董事、总经济师、董事会秘书 李俊英,上海新视界东区眼科 医院 副主任医师 孙琰,上海新视界东区眼科 医院 院长助理 张泽宇,证券事务代表 陈思菡。 公司就以下问题进行了回复： \" 1、公司2026年三季度业绩情况如何,全年扭亏为盈的可能性大吗?公司未来整体战略方向是什么? 回答:2026年前三季度,归母净利润2,265万元、同比增长 12,961%,归属于上市公司股东的扣除非经常性损益的净利润为 6,05.52 万元,同比增长202.71%,扣非首次前三季度累计转正。... 点击查看PDF原文 免责声明",
-     "source": "东方财富股票",
-     "zh": "【调研快报】光正眼科接待新恒通集团等18家机构调研"
-    },
-    {
-     "title": "中国长城：董沛武辞去独立董事等职位",
-     "link": "http://finance.eastmoney.com/news/1354,202611093926104188.html",
-     "pubDate": "Mon, 09 Nov 2026 11:46:00 +0800",
-     "summary": "南财智讯11月9日电， 中国长城 公告，因连续担任独立董事期限已满6年，董沛武申请辞去公司第八届董事会独立董事、董事会薪酬与考核委员会主任委员、董事会审计委员会委员及董事会提名委员会委员职务，辞职后不再担任公司任何职务，且未持有公司股份。鉴于其辞职将导致公司独立董事人数少于董事会人数的三分之一，在新任独立董事就任前，董沛武仍将按规定继续履行独立董事及董事会专门委员会的职责，公司将按照法定程序尽快完成独立董事补选工作。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "中国长城：董沛武辞去独立董事等职位"
+     "title": "突然爆发！19分钟 20%涨停！A股迎来双重利好",
+     "link": "http://stock.eastmoney.com/news/11134,202611093926106885.html",
+     "pubDate": "Mon, 09 Nov 2026 11:53:50 +0800",
+     "summary": "商业航天 和 机器人 爆发！ 早盘， 商业航天 概念股板块涨停或涨幅超10%的个股达32只， 机器人 板块涨停或涨幅超10%的个股亦达20只，宇树科技盘中一度暴涨超15%。而同时具备 机器人 和 商业航天 概念的 祥明智能 、 信维通信 皆在开盘后19分钟封死20%涨停。 那么，这两大板块有何利好？分析人士认为，这与周末热度蹿升的投资事件有关。 首先，商业航天板块的热度源自太空算力。当地时间11月6日，马斯克在巴伦投资大会上明确表示，预计2027年第三季度发射首批与 英伟达 联合设计的StarMind太空AI 计算机 ，2028年有望实现显著规模部署，2029年进一步大规模扩张。值得关注的是，",
+     "source": "东方财富资讯",
+     "zh": "突然爆发！19分钟 20%涨停！A股迎来双重利好"
     },
     {
      "title": "Nvidia down as it opens review into alleged Chinese spy effort targeting CEO Huang",
@@ -2320,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月8日，农业农村部党组书记、部长张柱在山西调研农业农村生态环境保护、常态化帮扶等工作。",
      "source": "经济观察网",
      "zh": "张柱在山西调研时强调 扎实推动农业发展全面绿色转型 加快构建农业农村高质量发展新格局"
-    },
-    {
-     "title": "沪指上涨0.46% 元件、航天装备领涨 两市半日缩量超1100亿",
-     "link": "http://finance.eastmoney.com/news/1345,202611093926101470.html",
-     "pubDate": "Mon, 09 Nov 2026 11:30:53 +0800",
-     "summary": "A股三大指数缩量小幅上涨，盘面上， 元件 、 航天装备、 6G概念 、 煤炭 、 光通信模块 、 卫星互联网 涨幅居前， 能源金属 、 锂矿概念 、 特钢、 酒店餐饮 、 光伏设备 、 微盘股 表现不佳，领跌市场。 截至午间收盘，沪指上涨0.46%，报3665.94点；深成指上涨0.27%，报11206.24点；创业板指上涨0.56%，报2478.94点；科创50指数上涨0.7%，报1261.95点；北证50指数上涨1.62%，报902.83点。全市场上涨个股有2650家，下跌个股有2707家，51只股涨停。两市半日合计成交10095亿。 今日要闻 国务院关税税则委员会：11月10日起2个月内",
-     "source": "东方财富资讯",
-     "zh": "沪指上涨0.46% 元件、航天装备领涨 两市半日缩量超1100亿"
     },
     {
      "title": "GUCCI母公司下场做足金，西方奢侈品开始向老铺黄金“抄作业”？",
@@ -2362,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "无惧“黄仁勋绯闻”，亚洲股市强势反弹，台股一度涨逾6%"
     },
     {
-     "title": "宇树科技暴涨！人形机器人表现活跃 上周融资客布局这些股(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611093926082551.html",
-     "pubDate": "Mon, 09 Nov 2026 11:10:29 +0800",
-     "summary": "11月9日早盘，三大股指震荡走高，人形 机器人 板块表现活跃。 其中， 祥明智能 20cm封板， 上纬新材 、 泛亚微透 、宇树科技等涨超10%；其中宇树科技一度超越 联讯仪器 ，成为A股第三高价股，截至发稿仍位居第四； 华培动力 、 爱仕达 、 光洋股份 、 金固股份 等多股涨停。 政策支持不断加码、央企场景开放、海外巨头技术背书与整机厂量产爬坡共振，人形 机器人 正从“舞台演示”加速走向工厂、家庭等真实场景，行业进入订单兑现的关键验证期。 具身智能产业催化密集落地 近日，民政部等六部门联合印发《关于培育多元场景促进适老用品产品消费的若干措施》，其中提出，以国家重大科技项目为牵引，加快推进具",
-     "source": "东方财富资讯",
-     "zh": "宇树科技暴涨！人形机器人表现活跃 上周融资客布局这些股(名单)"
-    },
-    {
      "title": "国务院关税税则委员会：调整对原产于美国的进口商品加征关税措施",
      "link": "http://www.eeo.com.cn/2026/1109/1088364.shtml",
      "pubDate": "Mon, 09 Nov 2026 11:06:50 +0800",
@@ -2386,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "国家统计局城市司首席统计师解读2026年10月份CPI和PPI数据"
     },
     {
-     "title": "外交努力持续！今日特朗普和万斯将在白宫会见美伊关键调解人",
-     "link": "http://finance.eastmoney.com/news/1356,202611093926074764.html",
-     "pubDate": "Mon, 09 Nov 2026 11:00:01 +0800",
-     "summary": "在美伊局势持续处于僵局之际，结束冲突的外交努力仍在持续，美国总统特朗普和副总统万斯周一将分别在白宫会见卡塔尔首相。 综合 央视新闻等媒体报道，当地时间11月8日，白宫公布的日程显示， 美国总统特朗普将于9日中午在白宫会见卡塔尔首相兼外交大臣穆罕默德·本·阿卜杜勒拉赫曼·阿勒萨尼 。卡塔尔首相是美国和伊朗之间的关键调解人。 在华盛顿和德黑兰之间，卡塔尔一直扮演着关键的斡旋方角色，负责传递提议，并试图弥合双方在伊朗核计划以及结束冲突条款上的分歧。 卡塔尔首相兼外交大臣穆罕默德7日表示，卡塔尔在美国和伊朗之间的调解斡旋仍在继续，美国政府在中期选举后仍愿寻求伊朗问题的解决方案。 据此前美国方面消息称，",
-     "source": "东方财富资讯",
-     "zh": "外交努力持续！今日特朗普和万斯将在白宫会见美伊关键调解人"
-    },
-    {
      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
      "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
      "pubDate": "Mon, 09 Nov 2026 02:50:22 GMT",
@@ -2402,52 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "China wholesale inflation hits highest in more than four years as consumer measure slows"
     },
     {
-     "title": "国家统计局：2026年10月份CPI同比上涨0.7%，PPI同比上涨5.7%",
-     "link": "http://www.eeo.com.cn/2026/1109/1088352.shtml",
-     "pubDate": "Mon, 09 Nov 2026 10:49:55 +0800",
-     "summary": "11月9日，国家统计局公布2026年10月份价格数据。",
-     "source": "经济观察网",
-     "zh": "国家统计局：2026年10月份CPI同比上涨0.7%，PPI同比上涨5.7%"
-    },
-    {
-     "title": "低轨29组卫星成功发射！卫星互联网概念获杠杆资金青睐(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611093926064057.html",
-     "pubDate": "Mon, 09 Nov 2026 10:47:39 +0800",
-     "summary": "11月9日，我国成功发射 卫星互联网 低轨29组卫星 ，五院年内低轨组网发射任务圆满收官。 机构认为， 卫星互联网 产业逻辑正由主题催化转向组网加速与商业化兑现。 年内低轨组网发射任务收官 11月9日4时24分，我国在海南 商业航天 发射场使用长征十二号运载火箭，成功将 卫星互联网 低轨29组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 该组卫星由中国 航天科技 集团五院抓总研制，此次发射也标志着五院2026年卫星互联网低轨卫星发射任务正式收官。本次发射是长征系列运载火箭的第676次发射。 受此催化，11月9日A股卫星互联网概念走强， 信维通信 、 中国卫星 涨停， 超捷股份 、",
-     "source": "东方财富资讯",
-     "zh": "低轨29组卫星成功发射！卫星互联网概念获杠杆资金青睐(名单)"
-    },
-    {
-     "title": "RZR加码中国市场：当AI成为标配，广告科技公司靠什么赢得增长？",
-     "link": "http://www.eeo.com.cn/2026/1109/1088349.shtml",
-     "pubDate": "Mon, 09 Nov 2026 10:40:30 +0800",
-     "summary": "作者 戴莉娟 10月29日，全球效果广告平台RZR位于北京的新办公室正式启用。首席执行官Aman Sareen、首席运营官李王馨（Wangxin Li）、首席营收官Avi Das等多位高管齐聚北京。 对于一家服务全球市场的广告技术公司而言，新办公室的启用并不算特别的新闻。但RZR此次反复强调的一点值得关注：北京不再只是一个销售办事处，而是承担AI研发、数据分析、产品开发与增长运营职...",
-     "source": "经济观察网",
-     "zh": "RZR加码中国市场：当AI成为标配，广告科技公司靠什么赢得增长？"
-    },
-    {
      "title": "Novo Nordisk reports liver improvements with Wegovy in some patients",
      "link": "https://seekingalpha.com/news/4668784-novo-nordisk-reports-liver-improvements-with-wegovy-in-some-patients?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 08 Nov 2026 21:38:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Novo Nordisk reports liver improvements with Wegovy in some patients"
-    },
-    {
-     "title": "国务院关税税则委员会：11月10日起2个月内继续暂停实施24%的对美加征关税税率 保留10%的对美加征关税税率",
-     "link": "http://finance.eastmoney.com/news/1345,202611093926051572.html",
-     "pubDate": "Mon, 09 Nov 2026 10:31:45 +0800",
-     "summary": "国务院关税税则委员会关于调整对原产于美国的进口商品加征关税措施的公告 税委会公告2026年第6号 为落实中美两国元首华盛顿会晤达成的成果共识，根据《中华人民共和国关税法》、《中华人民共和国海关法》、《中华人民共和国对外贸易法》等法律法规和国际法基本原则，经国务院批准，自2026年11月10日13时01分起，调整《国务院关税税则委员会关于对原产于美国的进口商品加征关税的公告》（税委会公告2025年第4号）规定的加征关税措施，在2个月内继续暂停实施24%的对美加征关税税率，保留10%的对美加征关税税率。 国务院关税税则委员会 2026年11月9日 国务院关税税则委员会发布公告调整对原产于美国的进口",
-     "source": "东方财富资讯",
-     "zh": "国务院关税税则委员会：11月10日起2个月内继续暂停实施24%的对美加征关税税率 保留10%的对美加征关税税率"
-    },
-    {
-     "title": "人工智能将迎来背水一战！今年剩下的唯一要事就是Anthropic的IPO",
-     "link": "http://finance.eastmoney.com/news/1344,202611093926048754.html",
-     "pubDate": "Mon, 09 Nov 2026 10:27:44 +0800",
-     "summary": "尽管科技股在上周迎来血腥暴跌，但 人工智能 领先实验室Anthropic仍坚持推进其高风险的上市计划，不过其估值据悉将从预期的2万亿美元下调至1.25万亿至1.75万亿美元之间。 市场研究机构Vital Knowledge分析师表示， 人工智能 股票正在被抛售，这使得Anthropic更难上市，因为资本市场对投资更加谨慎。 上周四， 纳斯达克 综合 指数遭遇了2025年4月以来的最大单日跌幅，跌幅高达6.4%，美股市值单日蒸发3.2万亿美元。抛售的主要原因是市场担忧 人工智能 基础设施建设热潮放缓。 Hennion & Walsh首席投资官Kevin Mahn指出，如果Anthropic决定推",
-     "source": "东方财富资讯",
-     "zh": "人工智能将迎来背水一战！今年剩下的唯一要事就是Anthropic的IPO"
     },
     {
      "title": "芯片股“投降式抛售”何时结束？美银：或在2027年初，股价回调通常领先基本面拐点6-9个月",
@@ -2488,6 +2480,14 @@ window.INDUSTRY_DATA = {
      "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison in message to employees",
      "source": "Financial Times",
      "zh": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy"
+    },
+    {
+     "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+     "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 00:40:00 GMT",
+     "summary": "The large-cap index is nowhere near as diversified as you think.",
+     "source": "MarketWatch",
+     "zh": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives."
     }
    ]
   },

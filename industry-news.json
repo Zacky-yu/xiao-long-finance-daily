@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/9 15:32:02",
+ "generated_at": "2026/11/9 15:52:49",
  "recent_days": 7,
  "industries": [
   {
@@ -641,6 +641,14 @@
    "total": 5,
    "items": [
     {
+     "title": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows",
+     "link": "https://cnevpost.com/2026/11/09/china-oct-2026-nev-retail-sales-cpca/",
+     "pubDate": "Mon, 09 Nov 2026 07:46:03 +0000",
+     "summary": "China's NEV retail sales totaled 1.109 million units in October, marking the 10th consecutive month of year-on-year decline. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows"
+    },
+    {
      "title": "Maserati reportedly to partner with Maextro on localized production in China",
      "link": "https://cnevpost.com/2026/11/09/maserati-partner-with-maextro-localized-production-china/",
      "pubDate": "Mon, 09 Nov 2026 06:50:47 +0000",
@@ -719,14 +727,6 @@
      "summary": "If you follow the EV industry in North America, you’d be forgiven for thinking that the future of transportation revolves around electric SUVs and pickups. Every week seems to bring another teaser from a startup promising to reinvent the family car or truck. The latest electric SUVs, “coming soon” t",
      "source": "Electrek",
      "zh": "Everyone wants an electric pickup truck. I want more electric 125cc motorcycles"
-    },
-    {
-     "title": "China's new cars get bigger as 56% of new SUVs measure 5 to 5.5 meters",
-     "link": "https://cnevpost.com/2026/11/08/china-new-cars-get-bigger/",
-     "pubDate": "Sun, 08 Nov 2026 05:01:31 +0000",
-     "summary": "Models measuring 5-5.5 meters accounted for 56% of new SUV launches in January-October, versus 17% in 2024. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "China's new cars get bigger as 56% of new SUVs measure 5 to 5.5 meters"
     },
     {
      "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
@@ -1009,12 +1009,12 @@
      "zh": "Voters gave a big middle finger to data centers"
     },
     {
-     "title": "Sempra expects 20% increase to Oncor’s capex plan, driven by load growth",
+     "title": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth",
      "link": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
      "pubDate": "Fri, 06 Nov 2026 11:10:36 -0500",
      "summary": "&ldquo;It's too soon to tell exactly&rdquo; how the results of the midterm elections will impact Oncor, said CEO Allen Nye. &ldquo;We continue to believe that both parties want a strong and growing Texas.&rdquo;",
      "source": "Utility Dive",
-     "zh": "Sempra expects 20% increase to Oncor’s capex plan, driven by load growth"
+     "zh": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth"
     },
     {
      "title": "China’s soaring clean power curtailment highlights regulatory gaps",
@@ -1036,7 +1036,7 @@
      "title": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO",
      "link": "https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/",
      "pubDate": "Fri, 06 Nov 2026 09:44:59 -0500",
-     "summary": "Eversource Energy&rsquo;s third-quarter income fell 22% year over year to $346 million, partly driven by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
+     "summary": "Eversource Energy&rsquo;s third-quarter income fell 22% year over year, to $346 million, driven in part by a lack of income from Aquarion, a water utility subsidiary the company sold in June.",
      "source": "Utility Dive",
      "zh": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO"
     },
@@ -1044,7 +1044,7 @@
      "title": "DTE expands investment plan 30%, will sell unregulated subsidiary to fund growth",
      "link": "https://www.utilitydive.com/news/dte-expands-5-year-electric-investment-plan-sells-unregulated-vantage/873974/",
      "pubDate": "Fri, 06 Nov 2026 09:15:24 -0500",
-     "summary": "After the $3 billion sale of DTE Vantage,&nbsp;DTE &ldquo;becomes a higher growth premium utility&rdquo; and &ldquo;a simpler business,&rdquo; CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multi-year rate making.",
+     "summary": "After the $3 billion sale of DTE Vantage,&nbsp;DTE &ldquo;becomes a higher growth premium utility&rdquo; and &ldquo;a simpler business,&rdquo; CEO Joi Harris told analysts Thursday. The company is also anticipating a push in the state legislature for multiyear rate making.",
      "source": "Utility Dive",
      "zh": "DTE expands investment plan 30%, will sell unregulated subsidiary to fund growth"
     },
@@ -1753,52 +1753,84 @@
    "total": 18,
    "items": [
     {
-     "title": "荣耀 MagicOS 11 系统第三批内测报名通道重新开放，覆盖 Robot Phone、Magic5 系列等 28 款机型",
-     "link": "https://www.ithome.com/1/024/308.htm",
-     "pubDate": "Mon, 09 Nov 2026 07:26:36 GMT",
-     "summary": "IT之家 11 月 9 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日宣布，MagicOS 11 系统第三批内测报名通道重新开放， 覆盖 Robot Phone、Magic5 系列等 28 款机型 。 手机： 荣耀 Robot Phone 、Magic Vs3、Magic V2 RSR 保时捷设计、Magic V2 至臻版、Magic V2、Magic5 至臻版、Magic5 Pro、Magic5、GT、300 Ultra、300 Pro、300、200 Pro、200、100 Pro、100、90 GT、Power、X80 Pro Max、X70 Pro Max、X70 焕新版、X70 平板",
+     "title": "三星 SDI 将为波士顿动力 Atlas 人形机器人供应电池",
+     "link": "https://www.ithome.com/1/024/339.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:50:07 GMT",
+     "summary": "IT之家 11 月 9 日消息，韩媒 The Elec 近日报道称，三星 SDI 将为波士顿动力（现代汽车集团旗下机器人子公司）开发的人形机器人 Atlas 供应电池。 虽然 LG 新能源也被选为供应商，但由于产能有限，预计三星 SDI 将负责几乎所有初期出货，并在一段时间内保持独家供应商的地位。 同时 Atlas 计划 2028 年或之后量产，现代汽车已将 Atlas 相关业务交由旗下汽车零部件子公司现代摩比斯（IT之家注：Hyundai Mobis）负责。这款机器人将搭载 70 节 2170 圆柱电池，电池直径为 21 毫米、高度为 70 毫米。每节电池容量为 5000mAh，组装成电池包",
      "source": "IT之家",
-     "zh": "荣耀 MagicOS 11 系统第三批内测报名通道重新开放，覆盖 Robot Phone、Magic5 系列等 28 款机型"
+     "zh": "三星 SDI 将为波士顿动力 Atlas 人形机器人供应电池"
     },
     {
-     "title": "限时一口价 20.69 万元起，2026 款凯迪拉克 CT5 上市",
-     "link": "https://www.ithome.com/1/024/307.htm",
-     "pubDate": "Mon, 09 Nov 2026 07:25:21 GMT",
-     "summary": "IT之家 11 月 9 日消息，据汽车之家报道，2026 款凯迪拉克 CT5 现已上市。新车主要是配置层面的调整，共计推出 4 款车型，售价 28.99 万元起， 限时一口价 20.69 万元起 。 该车各版本售价如下： 车型 售价（万元） 限时一口价（万元） 城市风尚版 28.99 20.69 城市运动版 29.99 21.59 赛道性能版 32.09 24.59 巅峰赛道选装包 34.59 26.59 据介绍，2026 款凯迪拉克 CT5 主要是微调了配置。其中，2026 款 28T 城市风尚版和 2026 款 28T 城市运动版 WLTC 综合油耗从 7.51L/100km 变为 7.6",
+     "title": "OPPO Reno17 系列手机配色公布：奇遇喵、冰月白、可可棕、初雪白",
+     "link": "https://www.ithome.com/1/024/338.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:47:38 GMT",
+     "summary": "IT之家 11 月 9 日消息，OPPO 官微今天（9 日）下午公布了 OPPO Reno17 系列手机的四款配色：奇遇喵、冰月白、可可棕、初雪白。 目前，Reno17、Reno17 Pro 两款新机均已开启预订。 京东 OPPO Reno17 奇遇喵 59999 元（此价格为占位符，下同） 直达链接 京东 OPPO Reno17 Pro 奇遇喵 59999 元 直达链接 今天早些时候，OPPO Reno17 系列宣传页面在微博等平台正式上线，新机外观也首次亮相。页面显示，该系列机型将于 11 月 16 日 19:00 正式发布。 目前新机的规格已经曝光： OPPO Reno17 标准版：6.",
      "source": "IT之家",
-     "zh": "限时一口价 20.69 万元起，2026 款凯迪拉克 CT5 上市"
+     "zh": "OPPO Reno17 系列手机配色公布：奇遇喵、冰月白、可可棕、初雪白"
     },
     {
-     "title": "AYANEO 攻氪 KONKR Pocket Advance 掌机新增“冰透粉”配色，11 月 10 日上市",
-     "link": "https://www.ithome.com/1/024/306.htm",
-     "pubDate": "Mon, 09 Nov 2026 07:25:01 GMT",
-     "summary": "IT之家 11 月 9 日消息，AYANEO 宣布为旗下攻氪 KONKR Pocket Advance 掌机新增一款“冰透粉配色”，该机采用半透明机身设计，将于 11 月 10 日晚 8 点上市。 该机尺寸为 151.3mm × 82.4mm × 22mm，重量约 224g。正面搭载一块 3.5 英寸 960 × 640 分辨率 3:2 LCD 屏，使用联发科 Helio G90T 处理器，主动散热系统通过风扇辅助散热，内置 4000mAh 电池；配备 USB-C 2.0 &nbsp;接口，搭载 MicroSD 卡槽和 3.5mm 耳机接口，支持 Wi-Fi 5 与蓝牙 5.0。",
-     "source": "IT之家",
-     "zh": "AYANEO 攻氪 KONKR Pocket Advance 掌机新增“冰透粉”配色，11 月 10 日上市"
+     "title": "孙正义悬了",
+     "link": "https://www.huxiu.com/article/4904139.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 15:43:36 +0800",
+     "summary": "本文来自微信公众号： 投资界 ，作者：周佳丽 迹象。 报道/投资界PEdaily “SoftBank is defaulting on their turbine orders.（软银正在违约其燃气轮机订单）” 马斯克一句短短的爆料，直接把软银股价砸懵了——上周五收盘暴跌超10%，孙正义个人身家缩水约39亿美元（约超260亿元人民币）。 至今，孙正义和软银并没有任何回应。但有人已经将这一幕形容为WeWork 2.0，那是孙正义生涯迄今最大的一笔失败。 而同一时间，美股AI基建板块蒸发约2万亿美元，芯片股跌至2020年以来的低谷，连史上最大IPO——Anthropic也接连被砍估值。 种种情绪之",
+     "source": "虎嗅",
+     "zh": "孙正义悬了"
     },
     {
-     "title": "微软申请新专利：AI 实时修改直播说话内容并同步嘴型",
-     "link": "https://www.ithome.com/1/024/305.htm",
-     "pubDate": "Mon, 09 Nov 2026 07:23:22 GMT",
-     "summary": "IT之家 11 月 9 日消息，微软近日提交了一项专利申请，计划利用人工智能技术，在直播及其他实时视频节目中近乎实时地修改人物说出的内容。更特别的是，这项技术还能重新绘制说话者的嘴唇动作，让观众难以察觉原本说出的话已经被替换。 这项专利的编号为 US 2026/0341309 A1，名称为《利用人工智能近乎实时增强直播活动的视频或增强现实（AR）演示》（Near Real-Time Artificial Intelligence (AI) Enhancement of Video or Augmented Reality (AR) Presentations of Live Events）。 ",
+     "title": "马斯克：特斯拉 Cybertruck 的订单量远超我们的产量，但生产该车的机会成本太高",
+     "link": "https://www.ithome.com/1/024/337.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:43:00 GMT",
+     "summary": "IT之家 11 月 9 日消息，特斯拉 CEO 埃隆 · 马斯克刚刚在 X 平台发文称，“Cybertruck 的订单增速远远超过我们的产能。我们会尽量多生产，这条产线大约 8 个月后停产，但届时不得不给大量客户退还定金。这并非像传统媒体不实报道所说的 Cybertruck 不盈利，真实原因是：Cybertruck 工艺复杂带来的机会成本，已经远远高于增产 Cybercab 所能创造的价值。” 延伸阅读 据IT之家了解，Cybertruck 最早于 2019 年 11 月以概念车身份亮相并开启预订，直到 2023 年 11 月 30 日才向首批车主交付，从发布到交付相隔约四年，其间多次延期。预",
      "source": "IT之家",
-     "zh": "微软申请新专利：AI 实时修改直播说话内容并同步嘴型"
+     "zh": "马斯克：特斯拉 Cybertruck 的订单量远超我们的产量，但生产该车的机会成本太高"
     },
     {
-     "title": "开发者在任天堂 Switch 游戏机上成功运行苹果 iPadOS 27，顺利启用液态玻璃效果",
-     "link": "https://www.ithome.com/1/024/304.htm",
-     "pubDate": "Mon, 09 Nov 2026 07:21:08 GMT",
-     "summary": "IT之家 11 月 9 日消息，开发者 brunostjohn 发文，宣布已成功将苹果 iPadOS 27.2 原生移植至任天堂 Switch 游戏机，并在设备上成功启用 Liquid Glass（液态玻璃）界面效果。 开发者表示，该系统并非通过模拟器跑动，而是直接在 Switch 搭载的 NVIDIA Tegra X1 芯片上运行，尽管当前 GPU 驱动仍有部分问题需要修复，不过目前液态玻璃效果已成功渲染，在部分场景下甚至可实现 60 FPS 帧率。 此外，开发者还对 iPadOS 进行了界面适配调整，解决了部分系统元素显示尺寸过小的问题，让系统在 Switch 屏幕上具备更好的实际可用性。",
+     "title": "调侃争议“内存”言论：工程师打造开源脚本，每天可向 OpenAI CEO 奥尔特曼汇报自己电脑闲置 RAM 量",
+     "link": "https://www.ithome.com/1/024/336.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:42:43 GMT",
+     "summary": "IT之家 11 月 9 日消息，OpenAI 首席执行官 Sam Altman 先前在谈及全球 DRAM 内存供应紧张问题时 声称“个人电脑中大量内存长期闲置，不符合全球资源分配效率” 。 上述言论因与消费者对内存容量的需求产生冲突而引发强烈争议。对此，一名工程师 IainKay 开发了名为「Ram-Altman」的 Bash 脚本，可以每天自动向 Altman 发送电子邮件，汇报用户自己电脑中有多少内存处于闲置状态。 IT之家获悉，该脚本通过 Linux 系统监控电脑内存使用情况，每隔 5 分钟检查一次 RAM，当可用内存超过总容量的 10% 时，便会向 Altman 发送电子邮件，详细列出",
      "source": "IT之家",
-     "zh": "开发者在任天堂 Switch 游戏机上成功运行苹果 iPadOS 27，顺利启用液态玻璃效果"
+     "zh": "调侃争议“内存”言论：工程师打造开源脚本，每天可向 OpenAI CEO 奥尔特曼汇报自己电脑闲置 RAM 量"
     },
     {
-     "title": "韩电商巨头 Coupang（酷澎）滥用外卖市场支配地位，被重罚超 3000 亿韩元",
-     "link": "https://www.ithome.com/1/024/303.htm",
-     "pubDate": "Mon, 09 Nov 2026 07:18:38 GMT",
-     "summary": "IT之家 11 月 9 日消息，据路透社报道，韩国公平交易委员会今天（9 日）宣布，对电商巨头 Coupang（下称酷澎）处以 3,009 亿韩元 （IT之家注：现汇率约合 14.82 亿元人民币） 罚款，认定其 滥用外卖市场支配地位，妨碍市场竞争 。 该国公平交易委员会指出，酷澎要求入驻商家提供 不逊于其他外卖平台的优惠条件 ， 并对不配合的商家采取惩罚措施 ，限制了外卖平台之间的竞争。 酷澎要求餐厅遵守六项规定，涵盖 菜品价格、最低起送金额、折扣和配送费 等方面。未达到要求的餐厅可能被取消特殊商家资格，从而无法再向酷澎付费会员提供折扣和免配送费服务。 监管数据显示，符合规定的餐厅比例从 2",
+     "title": "动力电池迎来退役高峰，一张“数字身份证”能否管住电池流向？",
+     "link": "https://www.huxiu.com/article/4904136.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 15:42:13 +0800",
+     "summary": "本文来自微信公众号： 车市睿见 ，编辑：杨果，作者：杨朔 2026年11月5日，工业和信息化部在官网发布一份征求意见稿，文件名为《新能源汽车动力电池数字身份证管理暂行规定》。文件一共二十条，主要集中在为每一块动力电池建立数字化档案，记录从出厂到回收的全过程，意见反馈截止到12月6日。 业内认为，这项动作背后对应的是一个越来越紧迫的现实问题：中国新能源汽车保有量已接近五千万辆，早期装车的电池正陆续进入退役期。退役电池流向哪里、由谁拆解、材料如何再利用？ ▍前端完整，后端仍然断档 数字身份证在这个时点推出，与电池退役规模直接相关。公安部数据显示，截至2025年年底，全国新能源汽车保有量为4397万",
+     "source": "虎嗅",
+     "zh": "动力电池迎来退役高峰，一张“数字身份证”能否管住电池流向？"
+    },
+    {
+     "title": "乘联分会报告披露小米汽车 10 月零售销量 50,168 辆",
+     "link": "https://www.ithome.com/1/024/335.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:41:07 GMT",
+     "summary": "IT之家 11 月 9 日消息，小米汽车官方本月初宣布， 2026 年 10 月，小米汽车交付量超过 50,000 台 。 小米汽车官方并未公布具体的交付数据，不过在乘联分会今日公布的 2026 年 10 月份全国乘用车市场分析中， IT之家查询到了其具体的零售销量为 50,123 辆 。 在 7 月 30 日的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军表示，2 年半的时间，小米汽车发布了两款车 —— 小米 SU7 和小米 YU7。这两款车都成了爆品，并且累计交付 70 多万台。小米汽车 2026 年各月交付量如下（小米官方口径）： 1 月交付量超 39,000 台 2 月交付量",
      "source": "IT之家",
-     "zh": "韩电商巨头 Coupang（酷澎）滥用外卖市场支配地位，被重罚超 3000 亿韩元"
+     "zh": "乘联分会报告披露小米汽车 10 月零售销量 50,168 辆"
+    },
+    {
+     "title": "599 元：创维推出 2027 款 G24 GT2 显示器，23.8 英寸 1080P 260Hz Fast IPS 面板",
+     "link": "https://www.ithome.com/1/024/334.htm",
+     "pubDate": "Mon, 09 Nov 2026 07:40:37 GMT",
+     "summary": "IT之家 11 月 9 日消息，创维现已推出 2027 款 G24 GT2 显示器，新品采用 23.8 英寸 Fast IPS 面板，最高刷新率可达 260Hz， 售价 599 元 。 据介绍，这款显示器的最高刷新率可达 260Hz（超频，原生 200Hz），峰值亮度 470nits，满足 HDR400 标准。灰阶响应时间为 1ms，可减少画面拖影、重影现象。 同时，该显示器覆盖 90% DCI-P3 色域，ΔE＜1，满足游戏之余的观影、日常办公需求。支持暗部增强、夜视仪等功能，拥有多种电竞模式。 此外，该显示器支持光感屏变，具备 AG25 防眩光层，支持硬件防蓝光。机身采用超薄设计，自带支架",
+     "source": "IT之家",
+     "zh": "599 元：创维推出 2027 款 G24 GT2 显示器，23.8 英寸 1080P 260Hz Fast IPS 面板"
+    },
+    {
+     "title": "MLCC大厂，掀起新一轮扩产潮？",
+     "link": "https://www.huxiu.com/article/4904135.html?f=rss",
+     "pubDate": "Mon, 09 Nov 2026 15:37:36 +0800",
+     "summary": "本文来自微信公众号： 芯世相 ，作者：石榴&浅土 10月30日，全球MLCC龙头村田制作所宣布，未来5年将投入约1万亿日元扩充MLCC产能，相当于其本财年预计营业利润的近两倍。这是村田迄今最大的一笔扩产投资，目标是到2030年度把MLCC营收做到翻倍。 村田不是唯一一家。今年以来，三星电机、太阳诱电、TDK，以及中国台湾和中国大陆的MLCC厂商，都在加码扩产。 阅读本文，你将了解： 1.村田、三星电机、太阳诱电、TDK、国巨等主要MLCC厂商的扩产计划与进展； 2.这一轮扩产为什么集中在现在，AI数据中心如何改变MLCC需求。 01 MLCC大厂，掀起新一轮扩产潮 村田：5年投资1万亿日元，M",
+     "source": "虎嗅",
+     "zh": "MLCC大厂，掀起新一轮扩产潮？"
+    },
+    {
+     "title": "短剧出海泰国，重走了一遍当年移动梦网的老路",
+     "link": "https://www.tmtpost.com/8197795.html",
+     "pubDate": "Mon, 09 Nov 2026 15:35:05 +0800",
+     "summary": "短剧在泰国，绕不开的两大卡点：支付和买量",
+     "source": "钛媒体",
+     "zh": "短剧出海泰国，重走了一遍当年移动梦网的老路"
     },
     {
      "title": "巴西水泥都产能过剩了，中国企业为什么还要买？",
@@ -1825,44 +1857,12 @@
      "zh": "哈尔滨银行拟出清930亿，时间换空间能走多远？"
     },
     {
-     "title": "创业成功，退出，我的复盘",
-     "link": "https://www.huxiu.com/article/4904120.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 15:01:47 +0800",
-     "summary": "本文来自微信公众号： 老杨在成长 ，首发于2026年2月5日，作者：杨昱轩，原文标题：《创业成功，退出，4000字复盘》，题图来自：AI生成 去年7月，我加入了一支AI智能硬件的创业团队。最近 （2026年2月） ，我决定从公司退伙，结束这段创业旅程。 做出这个决定是基于多方面的考虑，有对产品和市场发展前景的疑问，也有团队自身的原因，等等。 去年10月，我写了：《 消失3个月，我去做AI创业了，分享6个思考 》 ，其中讲过参与创业的目的，那就是用心体验这段经历： 我想体验的是： 与一群心力能量很高、价值观一致的伙伴工作，能创造出怎样的东西； 不带期待地行动，能获得一些什么； 我的智慧与能力，到",
-     "source": "虎嗅",
-     "zh": "创业成功，退出，我的复盘"
-    },
-    {
      "title": "Welcome to Weed Island",
      "link": "https://www.wired.com/story/welcome-to-weed-island-jersey/",
      "pubDate": "Mon, 09 Nov 2026 07:00:00 +0000",
      "summary": "How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.",
      "source": "WIRED",
      "zh": "Welcome to Weed Island"
-    },
-    {
-     "title": "出身决定起点，但决定不了终点",
-     "link": "https://www.huxiu.com/article/4901188.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 15:00:00 +0800",
-     "summary": "出身湖南大山，15岁辍学，日薪7元的流水线女工，周群飞硬是靠夜校自学、钻研技术，一步步闯进深圳，带着亲戚创业。2003年她攻克摩托罗拉特殊玻璃难题，成就V3全球爆款；2006年又成为苹果玻璃屏的救火英雄，让蓝思科技从无名小厂走到全球硬件核心。 AI造富风口已成潮流，蓝思却早已成为硬件底层支撑。别人靠风口起飞，她却成了风口离不开的地基。",
-     "source": "虎嗅",
-     "zh": "出身决定起点，但决定不了终点"
-    },
-    {
-     "title": "英伟达最大的风险不在芯片上，在黄仁勋的脑袋里",
-     "link": "https://www.huxiu.com/article/4904126.html?f=rss",
-     "pubDate": "Mon, 09 Nov 2026 14:58:50 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：世界科先声 刚刚过去的周末，国内外社交媒体上，即使是平日里不关注科技动向的网友，也多在热议一个硅谷“纯爱战士”的桃色丑闻。 美国当地时间11月8日，这则广受关注的传言迎来当事人的承认，渲染多年的“纯爱人设”轰然倒塌： 英伟达创始人兼CEO黄仁勋向公司员工发表内部信，承认自己对妻子不忠，并为此向家人、员工、董事会及股东道歉。他在信中表示，自己的行为伤害了妻子和孩子，没有任何借口，愿意承担全部责任。 与此同时，英伟达董事会宣布启动独立调查，以核实近期媒体报道所涉及的外国情报活动及相关国家安全问题。公司方面则表示，黄仁勋将继续担任CEO，正常履行领导职责。 黄",
-     "source": "虎嗅",
-     "zh": "英伟达最大的风险不在芯片上，在黄仁勋的脑袋里"
-    },
-    {
-     "title": "Being a meat proxy for AI should be grounds for getting people fired",
-     "link": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
-     "pubDate": "Mon, 09 Nov 2026 06:55:38 +0000",
-     "summary": "Article URL: https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired Comments URL: https://news.ycombinator.com/item?id=50422001 Points: 10 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Being a meat proxy for AI should be grounds for getting people fired"
     },
     {
      "title": "Google rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
@@ -1956,7 +1956,7 @@
      "title": "A Critique of GPUI",
      "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
      "pubDate": "Mon, 09 Nov 2026 03:51:10 +0000",
-     "summary": "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui Comments URL: https://news.ycombinator.com/item?id=50420857 Points: 72 # Comments: 34",
+     "summary": "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui Comments URL: https://news.ycombinator.com/item?id=50420857 Points: 74 # Comments: 38",
      "source": "Hacker News",
      "zh": "A Critique of GPUI"
     },
@@ -1964,7 +1964,7 @@
      "title": "The Qlobe: Rotating Quine (2010)",
      "link": "http://mamememo.blogspot.com/2010/09/qlobe.html",
      "pubDate": "Mon, 09 Nov 2026 03:15:17 +0000",
-     "summary": "Article URL: http://mamememo.blogspot.com/2010/09/qlobe.html Comments URL: https://news.ycombinator.com/item?id=50420599 Points: 19 # Comments: 0",
+     "summary": "Article URL: http://mamememo.blogspot.com/2010/09/qlobe.html Comments URL: https://news.ycombinator.com/item?id=50420599 Points: 21 # Comments: 0",
      "source": "Hacker News",
      "zh": "The Qlobe: Rotating Quine (2010)"
     },
@@ -2000,6 +2000,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung could soon start charging for Galaxy AI with a new $4.99 Premium subscription",
+     "link": "https://www.androidauthority.com/samsung-galaxy-ai-premium-subscription-report-3732775/",
+     "pubDate": "Mon, 09 Nov 2026 07:40:43 +0000",
+     "summary": "Samsung could test Galaxy AI Premium with Galaxy S27 users first.",
+     "source": "Android Authority",
+     "zh": "Samsung could soon start charging for Galaxy AI with a new $4.99 Premium subscription"
+    },
+    {
+     "title": "DroidDeck PC game emulator for Android now supports your Pixel and Exynos-powered Galaxy phones too",
+     "link": "https://www.androidauthority.com/droiddeck-pc-game-emulator-pixel-samsung-3732737/",
+     "pubDate": "Mon, 09 Nov 2026 07:39:36 +0000",
+     "summary": "Dual-screen mode gets better with a dedicated Linux-like desktop in one while the game runs in another.",
+     "source": "Android Authority",
+     "zh": "DroidDeck PC game emulator for Android now supports your Pixel and Exynos-powered Galaxy phones too"
+    },
     {
      "title": "Android Auto drops Android 9 and 10 as Google confirms new minimum requirements",
      "link": "https://www.androidauthority.com/android-auto-android-11-minimum-requirement-3732760/",
@@ -2177,22 +2193,6 @@
      "zh": "I played Android’s first AI frame-gen game: Mobile just had its DLSS moment"
     },
     {
-     "title": "Google wants to lock Android down, but Droynis teaches you how to stay safe instead",
-     "link": "https://www.androidauthority.com/droynis-open-source-android-security-app-3731115/",
-     "pubDate": "Sun, 08 Nov 2026 11:00:53 +0000",
-     "summary": "Droynis keeps me accountable for the security settings I select.",
-     "source": "Android Authority",
-     "zh": "Google wants to lock Android down, but Droynis teaches you how to stay safe instead"
-    },
-    {
-     "title": "7 apps that still look terrible on foldables, and Google should call them out first",
-     "link": "https://www.androidauthority.com/worst-android-apps-foldables-3729614/",
-     "pubDate": "Sun, 08 Nov 2026 10:30:58 +0000",
-     "summary": "Developers are gradually adapting to the iPhone Duo, but these app makers still haven't adapted to Android foldables.",
-     "source": "Android Authority",
-     "zh": "7 apps that still look terrible on foldables, and Google should call them out first"
-    },
-    {
      "title": "Deals: vivo X500 Pro and X500 Pro Max come with freebies, the Oppo Find X10 series has a small discount",
      "link": "https://www.gsmarena.com/deals_vivo_x500_pro_and_x500_pro_max_come_with_freebies_the_oppo_find_x10_series_has_a_small_discoun-news-75384.php",
      "pubDate": "Sun, 08 Nov 2026 10:01:02 +0100",
@@ -2249,52 +2249,84 @@
    "total": 13,
    "items": [
     {
-     "title": "外交部：巴基斯坦航天员参加神舟24号载人飞行任务 将是中国载人航天史上首次中外航天员联合飞行",
-     "link": "http://finance.eastmoney.com/news/1351,202611093926225647.html",
-     "pubDate": "Mon, 09 Nov 2026 15:22:48 +0800",
-     "summary": "11月9日，外交部发言人郭嘉昆主持例行记者会。有记者提问，据报道，一名巴基斯坦航天员将以载荷专家身份参加神舟24号载人飞行任务，在完成短期在轨飞行后，随神舟23号载人飞船返回。请问中方对此有何评论？ 郭嘉昆表示，探索浩瀚宇宙、和平利用外空，是全人类的共同理想，关乎全人类共同福祉。中国一贯倡导和平利用外空，积极开展国际航天合作，推动在外空领域构建人类命运共同体。 郭嘉昆说，中国和巴基斯坦是全天候战略合作伙伴，巴基斯坦航天员参与有关飞行任务，将是中国载人 航天工程 历史上首次中外航天员联合飞行，也是中国空间站首次迎来外籍航天员到访，这是中巴建交75周年之际两国合作取得的又一重要成果。中方愿同巴方赓",
+     "title": "【调研快报】江苏有线接待中金銀海(香港)等8家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611093926238179.html",
+     "pubDate": "Mon, 09 Nov 2026 15:45:59 +0800",
+     "summary": "江苏有线 11月9日公告称， 11月4日 接待中金銀海(香港) 等8家机构 调研。 接待人员包括 江苏有线 党委委员、董事会秘书 胡俊, 江苏有线 财务负责人 陆水琴,江苏有线董事会办公室主任 梁静,江苏有线大众事业部副总经理 高剑,江苏有线政企事业部副总经理 朱玲,苏服云(江苏)科技有限公司总经理 袁显,江苏有线华博在线副总经理 周愤悱,江苏有线 人工智能 技术创研中心经理 褚耀,江苏有线证券事务代表 魏夏露。 公司就以下问题进行了回复： 一、公司简介 江苏有线是省属大型国有文化与科技上市公司,成立于2008年4月29日,2015年4月在上交所A股主板上市(股票代码:600959),信用评级",
      "source": "东方财富股票",
-     "zh": "外交部：巴基斯坦航天员参加神舟24号载人飞行任务 将是中国载人航天史上首次中外航天员联合飞行"
+     "zh": "【调研快报】江苏有线接待中金銀海(香港)等8家机构调研"
     },
     {
-     "title": "今日全市场共54股涨停，连板股9只",
-     "link": "http://stock.eastmoney.com/news/11215,202611093926225310.html",
-     "pubDate": "Mon, 09 Nov 2026 15:21:52 +0800",
-     "summary": "南方财经11月9日电，今日全市场共54股涨停，连板股总数9只，44股封板未遂，封板率为55%（不含 ST股 、退市股）。焦点股方面， 光伏概念 股 闽发铝业 11天7板，短剧概念股 文投控股 14天7板、 大晟文化 6天4板，医疗板块 澳洋健康 9天5板。 （文章来源：南方财经网）",
+     "title": "凯迪股份：截至10月30日最新股东户数8075户，较上期减少9.39%",
+     "link": "http://stock.eastmoney.com/news/11111,202611093926236922.html",
+     "pubDate": "Mon, 09 Nov 2026 15:44:56 +0800",
+     "summary": "凯迪股份 最新披露数据显示，截至10月30日公司股东户数为8075户，较上期(2026年10月20日) 减少837户，降幅为9.39% 。户均持有流通股数量 由上期的1.10万股上升至1.22万股， 户均持股金额 由上期的65.53万元增加至71.44万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
      "source": "东方财富股票",
-     "zh": "今日全市场共54股涨停，连板股9只"
+     "zh": "凯迪股份：截至10月30日最新股东户数8075户，较上期减少9.39%"
     },
     {
-     "title": "特朗普政府要求中国协助结束与伊朗冲突？外交部：相关方应该坚持和平选择",
-     "link": "http://finance.eastmoney.com/news/1345,202611093926225269.html",
-     "pubDate": "Mon, 09 Nov 2026 15:21:51 +0800",
-     "summary": "11月9日，外交部发言人郭嘉昆主持例行记者会。有外媒记者提问，据《华盛顿邮报》报道，特朗普政府要求中国协助其结束与伊朗的冲突，请问外交部能否证实？ 郭嘉昆指出，美伊战事延宕不符合当事方和国际社会的共同利益，相关方应该坚持和平选择，通过对话谈判化解争端，推动尽早恢复中东海湾地区的和平安宁。 （文章来源：澎湃新闻）",
+     "title": "若美国寻求对华采取更加严格的科技限制 中方将如何应对？外交部回应",
+     "link": "http://finance.eastmoney.com/news/1351,202611093926237230.html",
+     "pubDate": "Mon, 09 Nov 2026 15:44:40 +0800",
+     "summary": "11月9日，外交部发言人郭嘉昆主持例行记者会。彭博社记者提问， 英伟达 CEO黄仁勋提倡销售更多芯片到中国，并主张采取更加宽松的监管措施。如果美国尤其是刚刚赢得国会两院多数地位的民主党寻求对中国采取更加严格的科技限制，中方将如何应对？ “正如我刚才所回答的，中方在美国输华芯片问题上的立场是一贯的。具体的情况建议向主管部门询问。”郭嘉昆说。 （文章来源：澎湃新闻）",
      "source": "东方财富股票",
-     "zh": "特朗普政府要求中国协助结束与伊朗冲突？外交部：相关方应该坚持和平选择"
+     "zh": "若美国寻求对华采取更加严格的科技限制 中方将如何应对？外交部回应"
     },
     {
-     "title": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题 外交部回应",
-     "link": "http://finance.eastmoney.com/news/1345,202611093926225071.html",
-     "pubDate": "Mon, 09 Nov 2026 15:21:11 +0800",
-     "summary": "11月9日，外交部发言人郭嘉昆主持例行记者会。法新社记者提问，美国总统特朗普说，他可能会同中国和俄罗斯两国元首在APEC深圳峰会期间举行会晤，讨论终止美伊冲突以及无核化等问题。请问外交部能否就此提供更多细节？ 郭嘉昆表示，中方就中俄美元首会晤同相关方保持着沟通。“关于你提到的具体问题，我目前没有可以提供的信息。” （文章来源：澎湃新闻）",
+     "title": "淮北矿业：截至10月20日最新股东户数2.69万户，较上期增加1.76%",
+     "link": "http://stock.eastmoney.com/news/11111,202611093926236475.html",
+     "pubDate": "Mon, 09 Nov 2026 15:43:53 +0800",
+     "summary": "淮北矿业 最新披露数据显示，截至10月20日公司股东户数为2.69万户，较上期(2026年10月9日) 增加466户，增幅为1.76% 。户均持有流通股数量 由上期的10.19万股下降至10.01万股， 户均持股金额 由上期的166.99万元减少至149.58万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此",
      "source": "东方财富股票",
-     "zh": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题 外交部回应"
+     "zh": "淮北矿业：截至10月20日最新股东户数2.69万户，较上期增加1.76%"
     },
     {
-     "title": "搜狐Q3财报总收入1.33亿美元 营销服务收入同比增长10%",
-     "link": "http://stock.eastmoney.com/news/11228,202611093926225515.html",
-     "pubDate": "Mon, 09 Nov 2026 15:20:56 +0800",
-     "summary": "11月9日， 搜狐 公司公布了2026年第三季度财务报告。财报显示， 搜狐 第三季度总收入为1.33亿美元。其中， 搜狐 公司营销服务收入为1500万美元，在线游戏收入为1.14亿美元。 搜狐公司董事长兼首席执行官张朝阳评论：“2026年第三季度，我们的营销服务收入达到此前预期高线，在线游戏收入以及集团净亏损均符合此前预期。” 财报显示，第三季度营销服务收入为1500万美元，同比增长10%；在线游戏收入为1.14亿美元，同比下降30%；净亏损为1500万美元。 “在搜狐视频关注流方面，我们通过举办众多标志性活动，不断增强社交属性，促进各个垂类中用户之间的真人社交及活跃互动。同时，依托产品矩阵及",
+     "title": "科创板收盘播报：科创综指涨0.44% 部分高端芯片股午后异动上扬",
+     "link": "http://stock.eastmoney.com/news/11134,202611093926237527.html",
+     "pubDate": "Mon, 09 Nov 2026 15:43:48 +0800",
+     "summary": "新华财经北京11月9日电（罗浩）科创50指数和科创综指9日早间分别以1.11%和1.46%的涨幅高开。两股指盘初快速下探后显著反弹，早盘盘中整体呈震荡回落态势，午间收盘前有所上扬，午后回落至平盘附近后有一波幅度较大的上涨行情，但此后再度震荡回落，收盘时均小幅上涨。 截至收盘，科创50指数报1256.96点，涨幅0.30%，成分股总成交额约717亿元，成交额较上一交易日显著缩量。科创综指收于1502.98点，涨幅0.44%，总成交额约2206亿元，总成交额较上一交易日显著缩量。 当日，科创板个股呈涨少跌多态势，276股收涨，占比约44.81%。细分领域中，人形 机器人 相关股在早盘期间领涨，部分",
      "source": "东方财富股票",
-     "zh": "搜狐Q3财报总收入1.33亿美元 营销服务收入同比增长10%"
+     "zh": "科创板收盘播报：科创综指涨0.44% 部分高端芯片股午后异动上扬"
     },
     {
-     "title": "上海静安进博会意向采购订单创新高，欧莱雅、嘉吉等签约",
-     "link": "http://finance.eastmoney.com/news/1354,202611093926225451.html",
-     "pubDate": "Mon, 09 Nov 2026 15:19:19 +0800",
-     "summary": "11月7日，上海市静安区在国家会展中心举行第九届进博会交易会暨招商推介会。欧莱雅、嘉吉、Calvin Klein、蔻驰、佳丽宝、多特瑞、百佑佳、益持科技等企业在会上完成意向采购签约。 静安区介绍，本届进博会静安交易分团的意向采购订单创历届新高，美妆护肤、高端珠宝、时尚服饰、健康生活等领域的采购额持续增长。 会上，静安区启动“投资静安·未来合伙人”计划。该计划由静安区投资办牵头，联合区内产业部门、功能片区和街镇发起，推动企业在静安设立总部、建设研发载体和搭建产业链平台。 首批“未来合伙人”包括嘉吉美丽护理、维九量子、易才数科、盈康一生、Vely B（维丽比）、影目科技和守一秉常等，涉及美妆健康、",
+     "title": "北汽福田发起联盟建5000座超充站，新能源商用车开始抱团补能",
+     "link": "http://www.eeo.com.cn/2026/1109/1088488.shtml",
+     "pubDate": "Mon, 09 Nov 2026 15:42:17 +0800",
+     "summary": "北汽福田的规划里，超充站落地模式分为三类，一是全投自建打造标杆示范场站，二是共投共建开展联合投资、收益共享，三是对外输出成套设备与技术方案赋能行业。",
+     "source": "经济观察网",
+     "zh": "北汽福田发起联盟建5000座超充站，新能源商用车开始抱团补能"
+    },
+    {
+     "title": "凯迪股份：截至10月20日最新股东户数8912户，较上期增加8.23%",
+     "link": "http://stock.eastmoney.com/news/11111,202611093926234729.html",
+     "pubDate": "Mon, 09 Nov 2026 15:41:57 +0800",
+     "summary": "凯迪股份 最新披露数据显示，截至10月20日公司股东户数为8912户，较上期(2026年10月9日) 增加678户，增幅为8.23% 。户均持有流通股数量 由上期的1.19万股下降至1.10万股， 户均持股金额 由上期的78.31万元减少至65.53万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
      "source": "东方财富股票",
-     "zh": "上海静安进博会意向采购订单创新高，欧莱雅、嘉吉等签约"
+     "zh": "凯迪股份：截至10月20日最新股东户数8912户，较上期增加8.23%"
+    },
+    {
+     "title": "发布舱驾融合芯片AC8035，四维图新要做“移动智能体伙伴”",
+     "link": "http://www.eeo.com.cn/2026/1109/1088486.shtml",
+     "pubDate": "Mon, 09 Nov 2026 15:40:50 +0800",
+     "summary": "除了发布芯片，本次大会上，四维图新的一大动作，是宣布将业务从汽车智能化拓展至移动智能体领域，定位升级为“移动智能体的超级伙伴”。",
+     "source": "经济观察网",
+     "zh": "发布舱驾融合芯片AC8035，四维图新要做“移动智能体伙伴”"
+    },
+    {
+     "title": "China inflation misses estimates as food prices extend decline",
+     "link": "https://seekingalpha.com/news/4668798-china-inflation-misses-estimates-as-food-prices-extend-decline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 02:37:20 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "China inflation misses estimates as food prices extend decline"
+    },
+    {
+     "title": "M8换装自研舱驾技术 东风奕派借“自研+共创”激活市场",
+     "link": "http://www.eeo.com.cn/2026/1109/1088479.shtml",
+     "pubDate": "Mon, 09 Nov 2026 15:35:12 +0800",
+     "summary": "奕派科技在东风集团体系内的战略权重正在快速上升，但权重上升的代价是其必须在一个尚未实现盈利的阶段，尽快扩大销量规模。就M8而言，前期依靠华为乾崑智驾版本打出了一定的高度，接下来将依靠搭载自研技术版本，以更低价格进一步打开市场。",
+     "source": "经济观察网",
+     "zh": "M8换装自研舱驾技术 东风奕派借“自研+共创”激活市场"
     },
     {
      "title": "马斯克Terafab目标曝光：瞄准月产70万片存储芯片晶圆，接近三星DRAM总产能",
@@ -2303,14 +2335,6 @@
      "summary": "马斯克旗下半导体合资企业Terafab正将触角伸向全球存储芯片产能的核心地带。据日经新闻报道，Terafab已向半导体设备供应商透露，计划于2032年实现月产100万片晶圆的产能目标，其中70万片用于存储芯片、30万片用于逻辑芯片。 这一目标的震撼之处在于其存储芯片规模：三星目前DRAM月产能约为65万至70万片晶圆， Terafab的存储芯片目标与之相当。对于一家尚处起步阶段的新进入者而言，能否在约六年内复制三星现有规模，将是对整个行业格局的重大考验。 据日经新闻，Terafab的调达团队已秘密访问日本制造装置厂商并洽谈订单，日本半导体业界人士将其列为当前\"最热话题\"，远超本土企业。与此同时",
      "source": "华尔街见闻",
      "zh": "马斯克Terafab目标曝光：瞄准月产70万片存储芯片晶圆，接近三星DRAM总产能"
-    },
-    {
-     "title": "【风口研报】马斯克抛太空算力蓝图!海内外发射任务密集推进 商业航天产业节奏有望提速",
-     "link": "http://stock.eastmoney.com/news/1405,202611093926219746.html",
-     "pubDate": "Mon, 09 Nov 2026 15:10:00 +0800",
-     "summary": "A股三大指数今日涨跌不一，沪指小幅上涨，深成指与创业板指冲高回落。截止收盘，沪指涨0.32%，深证成指跌0.27%，创业板指跌0.27%。沪深京三市成交额不足1.5万亿，较上一交易日缩量近2000亿。行业板块涨跌互现， 煤炭 、 机器人 、 稀土 、 元件 、航天装备板块涨幅居前， 能源金属 、 光伏设备 、 教育 、 酒店餐饮 板块跌幅居前。个股方面，上涨股票数量超过2200只，近60只股票涨停。 当地时间11月6日，马斯克在巴伦投资大会上披露， SpaceX 已订购6000个服务器机柜用于2027年太空 数据中心 ，目标2028年实现1GW在轨算力；Starlink V4单星标配10条10",
-     "source": "东方财富资讯",
-     "zh": "【风口研报】马斯克抛太空算力蓝图!海内外发射任务密集推进 商业航天产业节奏有望提速"
     },
     {
      "title": "Asian stocks rebound after AI rout",
@@ -2327,14 +2351,6 @@
      "summary": "公安部推出进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施，将自12月1日起在全国全面推行。",
      "source": "经济观察网",
      "zh": "12月1日起全国推行！公安部推出5项交管便民利企新措施"
-    },
-    {
-     "title": "沪指小幅收涨 深成指与创业板指冲高回落 煤炭与机器人板块走强",
-     "link": "http://finance.eastmoney.com/news/1345,202611093926213181.html",
-     "pubDate": "Mon, 09 Nov 2026 15:00:12 +0800",
-     "summary": "A股三大指数今日涨跌不一，沪指小幅上涨，深成指与创业板指冲高回落。截止收盘，沪指涨0.32%，收报3660.79点；深证成指跌0.27%，收报11145.49点；创业板指跌0.27%，收报2458.56点。沪深京三市成交额1.49万亿，较上一交易日缩量1771亿。 行业板块涨跌互现，煤炭、机器人、稀土、 元件、 航天装备板块涨幅居前， 能源金属、 光伏设备、教育、酒店餐饮板块跌幅居前。 个股方面，上涨股票数量超过2200只，近60只股票涨停。煤炭板块走强，郑州煤电、安泰集团涨停； 机器人概念涨幅居前 ，华培动力、日盈电子、金固股份涨停； 冰雪经济表现活跃，冰山冷热、龙江交通走出8天4板，晶雪节",
-     "source": "东方财富资讯",
-     "zh": "沪指小幅收涨 深成指与创业板指冲高回落 煤炭与机器人板块走强"
     },
     {
      "title": "黄仁勋丑闻搅动市场，英伟达夜盘承压下跌6%，亚洲股市强势反弹、日经收涨2.3%，油价下跌",
@@ -2361,28 +2377,12 @@
      "zh": "“新美联储通讯社”：特朗普“掌控美联储”计划迎最大障碍——参议院易主"
     },
     {
-     "title": "尊界将迎“大年”：切入50万级SUV赛道 或推“三品牌”策略",
-     "link": "http://finance.eastmoney.com/news/1354,202611093926203887.html",
-     "pubDate": "Mon, 09 Nov 2026 14:40:00 +0800",
-     "summary": "即将到来的2027年有望成为尊界的“品牌大年”，新的策略应运而生。 财联社记者从知情人士处独家获悉，在尊界基础上，华为、江淮或将推出一个全新尊界子品牌，该品牌旗下产品定价在40-50万元区间，主打SUV车型。“（新品牌）与玛莎拉蒂的合作分属于两个项目，目前具体细节暂未正式确定。”该知情人士表示。 若最终成型，尊界将组成由尊界子品牌（暂未定名）、尊界、玛莎拉蒂合作品牌（暂未定名）组成的三品牌矩阵。 首先，“尊界”母品牌将会继续坚守百万级定位。尊界品牌名称首次公开于2024年7月，四个月后的11月28日，尊界品牌首款车型——S800开启预订，并拿下48小时订单2108辆的成绩。随后，尊界连续多个月",
-     "source": "东方财富资讯",
-     "zh": "尊界将迎“大年”：切入50万级SUV赛道 或推“三品牌”策略"
-    },
-    {
      "title": "高盛：2027年美股牛市还有”最后一搏“，但随后的情形酷似2000年泡沫破灭前夕",
      "link": "https://wallstreetcn.com/articles/3785523",
      "pubDate": "Mon, 09 Nov 2026 14:25:03 +0800",
      "summary": "市场拐点正在临近。 高盛对冲基金业务全球主管Tony Pasquariello发出警告：美股牛市主趋势虽仍未断裂，但已进入倒计时。他预计标普500指数将完成最后一轮上涨，随后2027年将面临自2000年互联网泡沫破裂以来最大规模的净股票供给冲击。 Pasquariello在最新周报中指出， 驱动美股过去四年强劲表现的三大核心变量——盈利增长、资金流向与AI叙事——边际方向已同步恶化。他明确表示，\"预计标普将在转折前完成最后一次上冲，但2027年注定是回报更为贫乏的一年\"，并警告指数波动率的基准水平将趋势性上升。 值得关注的是，就在同一周，高盛另一位策略师Rich Privorotsky也在其题",
      "source": "华尔街见闻",
      "zh": "高盛：2027年美股牛市还有”最后一搏“，但随后的情形酷似2000年泡沫破灭前夕"
-    },
-    {
-     "title": "AI退潮反噬大宗！“焊料之王”锡遭血洗 背后究竟冤不冤？",
-     "link": "http://finance.eastmoney.com/news/1355,202611093926182342.html",
-     "pubDate": "Mon, 09 Nov 2026 14:17:17 +0800",
-     "summary": "随着投资者迅速重新评估美国 数据中心 的需求前景，AI概念股的暴跌正在迅速波及至金属市场…… 被誉为“焊料之王”的锡，凭借在 电子 焊接中的关键应用，此前曾深度受益于AI投资热潮。然而，由于市场担忧民主党人可能放缓AI 数据中心 的建设步伐，美股在上周四单日市值蒸发3.2万亿美元，锡价随之也遭遇重挫。 伦敦金属交易所(LME)三个月期锡在短短不到两周时间内，从每吨逾50000美元的高位一度急挫至45360美元的八个月低点。 不过，有意思的是，这轮由AI投资泡沫破裂疑云引发的抛售，恰好赶上了一个最不巧的时机——当前锡市场的现货供应紧缺程度正处于数月以来的峰值，这也令一些锡多头似乎颇感“冤枉”……",
-     "source": "东方财富资讯",
-     "zh": "AI退潮反噬大宗！“焊料之王”锡遭血洗 背后究竟冤不冤？"
     },
     {
      "title": "见闻历11.11大促最后5天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
@@ -2441,22 +2441,6 @@
      "zh": "New England Realty Associates Limited Partnership declares $0.40 dividend"
     },
     {
-     "title": "Cornerstone Total Return Fund Inc declares $0.1022 dividend",
-     "link": "https://seekingalpha.com/news/4668790-cornerstone-total-return-fund-inc-declares-0_1022-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 00:26:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cornerstone Total Return Fund Inc declares $0.1022 dividend"
-    },
-    {
-     "title": "双十一退货率为何成了“不能说的秘密”",
-     "link": "http://www.eeo.com.cn/2026/1109/1088415.shtml",
-     "pubDate": "Mon, 09 Nov 2026 13:07:01 +0800",
-     "summary": "在每年双十一后的战报发布会上，成交额、订单量、破亿品牌数，各种维度层层叠加，却唯独没有退货率的身影。这个数据被小心翼翼地收在后台，像房间里一头不该被提及的大象。 而在现实中，退货率已经大到无法忽视。退货缘何发生？一笔交易被取消后，已经产生的推广、履约和售后成本，又由谁承担？",
-     "source": "经济观察网",
-     "zh": "双十一退货率为何成了“不能说的秘密”"
-    },
-    {
      "title": "Democrat triumph offers China ‘window to catch up’ on AI",
      "link": "https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1",
      "pubDate": "Mon, 09 Nov 2026 05:00:48 GMT",
@@ -2487,6 +2471,22 @@
      "summary": "To keep power and make real change, they need to tell the American people painful truths",
      "source": "Financial Times",
      "zh": "What Democrats must do now"
+    },
+    {
+     "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe&apos;s defenses",
+     "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+     "pubDate": "Mon, 09 Nov 2026 05:00:01 GMT",
+     "summary": "Cyberattacks on fridges in supermarkets and a wave of bomb threats are testing Europe’s ability to withstand disruption to crucial infrastructure.",
+     "source": "CNBC",
+     "zh": "From supermarket fridges to passenger flights, a wave of threats is testing Europe&apos;s defenses"
+    },
+    {
+     "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+     "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+     "pubDate": "Mon, 09 Nov 2026 02:50:22 GMT",
+     "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+     "source": "CNBC",
+     "zh": "China wholesale inflation hits highest in more than four years as consumer measure slows"
     }
    ]
   },

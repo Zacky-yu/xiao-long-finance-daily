@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/10 08:15:52",
+ "generated_at": "2026/11/10 08:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -1097,6 +1097,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Bayer wins FDA approval for stroke prevention drug Sunharbo",
+     "link": "https://endpoints.news/bayer-wins-fda-approval-for-stroke-prevention-drug-sunharbo/",
+     "pubDate": "Tue, 10 Nov 2026 00:12:58 +0000",
+     "summary": "Bayer’s asundexian won FDA approval to reduce the risk of stroke in people who recently had a mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack. The agency on Monday greenlit the drug in ...",
+     "source": "Endpoints News",
+     "zh": "Bayer wins FDA approval for stroke prevention drug Sunharbo"
+    },
+    {
      "title": "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research",
      "link": "https://www.genengnews.com/topics/omics/illumina-offers-early-access-to-duplex-sequencing-for-mrd-tumor-evolution-research/",
      "pubDate": "Mon, 09 Nov 2026 23:57:15 +0000",
@@ -1215,14 +1223,6 @@
      "summary": "For $550 million up front, Argenx will take control of Unnatural Products&rsquo; &ldquo;macrocyclic peptide&rdquo; technology and direct it to develop oral, durable medicines for serious immune-mediated diseases.",
      "source": "BioPharma Dive",
      "zh": "Argenx to buy peptide platform in potentially billion-dollar deal"
-    },
-    {
-     "title": "Heron sells assets to CorMedix for $145M upfront; Faeth's stock tumbles",
-     "link": "https://endpoints.news/heron-sells-assets-to-cormedix-for-145m-upfront-faeths-stock-tumbles/",
-     "pubDate": "Mon, 09 Nov 2026 16:13:22 +0000",
-     "summary": "Plus, news about Immunovant, Abeona Therapeutics, Ellodi Pharmaceuticals, Spruce Biosciences, Adrenyx Biosciences, Edesa Biotech, Kyorin Pharmaceutical, Charles River Laboratories, Frontage, Compass Pathways, Johnson & Johnson, Veradermics and Valneva. CorMedix acquires Heron portfolio: CorMedix",
-     "source": "Endpoints News",
-     "zh": "Heron sells assets to CorMedix for $145M upfront; Faeth's stock tumbles"
     },
     {
      "title": "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
@@ -1761,6 +1761,30 @@
    "total": 18,
    "items": [
     {
+     "title": "苹果推出 50 美元 AI 使用包：Logic Pro 率先支持付费扩容，有效期 12 个月",
+     "link": "https://www.ithome.com/1/024/590.htm",
+     "pubDate": "Tue, 10 Nov 2026 00:21:34 GMT",
+     "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Mac 昨日（11 月 9 日）发布博文，报道称苹果开始为部分 Apple Intelligence 功能推出付费“智能使用包”（Intelligence Usage Packs）， 首个落地产品是音乐创作软件 Logic Pro，售价为 49.99 美元（IT之家注：现汇率约合 333.9 元人民币）。 购买路径方面，用户可在 Logic Pro 应用菜单栏依次选择“智能功能” → “显示使用情况”，再点击“购买更多使用量”完成购买。 购买方式上，不同于主流 AI 服务采用的按月订阅模式，“智能使用包”采用买断的额外用量包，有效期为 12 ",
+     "source": "IT之家",
+     "zh": "苹果推出 50 美元 AI 使用包：Logic Pro 率先支持付费扩容，有效期 12 个月"
+    },
+    {
+     "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+     "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+     "pubDate": "Tue, 10 Nov 2026 00:18:19 +0000",
+     "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+     "source": "WIRED",
+     "zh": "Jensen Huang’s Troubles Leave the AI Industry Reeling"
+    },
+    {
+     "title": "全网都在友综嗑CP，谁还想看《再见爱人》？",
+     "link": "https://www.huxiu.com/article/4904312.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 08:14:42 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：朴珍珠，编辑：陆一鸣 真正的问题也许从来不是“离婚综艺还能不能拍下去”，而是它还能不能拿出足够精良、复杂，也足够尊重人的内容。 “我去参加节目前每天都在哭，又不能18天不讲话，都当哑巴，但我又没有工作，我需要工作。可我又担心，节目播出了，会不会有人笑话我的孩子。” 最近，演员郭柯宇上陈鲁豫的视频播客，分享了自己在2021年参加《再见爱人》第一季录制时的感受。虽然她与前夫章贺的关系困境在节目内外收获了很多同情和支持，五年里，她也获得了更多工作机会和体面自在的生活，但这个敏感的演员依然有无限纠结。 毕竟，在她前半段人生里，结婚和生育都没有对外公开，但离婚这件私",
+     "source": "虎嗅",
+     "zh": "全网都在友综嗑CP，谁还想看《再见爱人》？"
+    },
+    {
      "title": "厦金大桥（厦门段）海上主线桥贯通，预计今年底建成通车",
      "link": "https://www.ithome.com/1/024/589.htm",
      "pubDate": "Tue, 10 Nov 2026 00:10:46 GMT",
@@ -1785,12 +1809,12 @@
      "zh": "Take-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI (Jason Schreier/Bloomberg)"
     },
     {
-     "title": "苹果 iOS/iPadOS 18.7.12 正式版发布",
+     "title": "苹果 iOS / iPadOS 18.7.12 正式版系统发布，修复 6 个安全漏洞",
      "link": "https://www.ithome.com/1/024/588.htm",
      "pubDate": "Tue, 10 Nov 2026 00:02:11 GMT",
-     "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.12 更新（内部版本号：22H390），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 18 发布历史： 2026-10-27：iOS 18.7.11 (22H384) 2026-08-11：iOS 18.7.10 (22H373) 2026-05-05：iOS 18.7.9 (22",
+     "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 18.7.12 更新（内部版本号：22H390）。本次更新主要带来 6 项重要安全修复，可以看出苹果并没有忘掉老系统用户。 IT之家附本次更新修复的漏洞如下： 隔空播放 适用设备： iPhone XS、iPhone XS Max、iPhone XR、iPad（第 7 代） 漏洞影响：蓝牙通信范围内的攻击者可能绕过配对码尝试次数限制。 漏洞描述：苹果通过改进状态管理，修复了一处逻辑问题。 CVE 编号： CVE-2026-113968 发现者：苹果 蓝牙 适用设备： iPhone XS",
      "source": "IT之家",
-     "zh": "苹果 iOS/iPadOS 18.7.12 正式版发布"
+     "zh": "苹果 iOS / iPadOS 18.7.12 正式版系统发布，修复 6 个安全漏洞"
     },
     {
      "title": "苹果 iPadOS 26.7.3 正式版发布",
@@ -1815,14 +1839,6 @@
      "summary": "IT之家 11 月 10 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2.1 更新（内部版本号：24N124），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-27：visionOS 27.2 (24N120) 2026-10-20：visionOS 27.2 RC (24N118) 2026-10-14：visionOS 27.2 B",
      "source": "IT之家",
      "zh": "苹果 visionOS 27.2.1 正式版发布"
-    },
-    {
-     "title": "苹果 iOS/iPadOS 27.2.1 正式版发布",
-     "link": "https://www.ithome.com/1/024/583.htm",
-     "pubDate": "Tue, 10 Nov 2026 00:02:09 GMT",
-     "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2.1 更新（内部版本号：24B156），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-27：iOS 27.2 (24B91020) 2026-10-27：iOS 27.2 (24B119) 2026-10-20：iOS 27.2 RC (24B115",
-     "source": "IT之家",
-     "zh": "苹果 iOS/iPadOS 27.2.1 正式版发布"
     },
     {
      "title": "大水取代大蓝桶，中国的“大家庭”时代结束了",
@@ -1857,22 +1873,6 @@
      "zh": "叙事主权之争：\"AI十年治愈大多数疾病\"言论，遭制药业集中反驳"
     },
     {
-     "title": "老黄搞黄",
-     "link": "https://www.huxiu.com/article/4904306.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 07:48:33 +0800",
-     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 霸道总裁爱上绝经期的我 上半年跟某坡县回来的朋友喝酒的时候，他无意中说：“你在新加坡一点要小心A开头的姑娘，无论她叫Alice还是叫Anna，也许她叫这个名字不见得是真喜欢这个名字，而是只想在你通讯录里面排名最靠前而已”。我没接茬但是心想：这不是当年王传福的AAA电池王总的梗么？这么多年了难道还有用？ 事实上证明可能真的是有用的，Alice Huang还真是搞定了Jenson Huang，直接导致英伟达所谓的秘密渠道暴露在大众视野里，有些人的生意被重创，有些人的钱包被重创。 要唐僧说这个点上这个事情爆出来的就很蹊跷：民主党刚刚胜选就出这么个新",
-     "source": "虎嗅",
-     "zh": "老黄搞黄"
-    },
-    {
-     "title": "Tracking the Harm of DOGE Cuts",
-     "link": "https://www.clasp.org/doge-tracker/",
-     "pubDate": "Mon, 09 Nov 2026 23:40:54 +0000",
-     "summary": "Article URL: https://www.clasp.org/doge-tracker/ Comments URL: https://news.ycombinator.com/item?id=50433978 Points: 67 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Tracking the Harm of DOGE Cuts"
-    },
-    {
      "title": "A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang&apos;s relationship with Alice Huang as \"uncomfortably close\" (Sarah Perez/TechCrunch)",
      "link": "https://www.techmeme.com/261109/p46#a261109p46",
      "pubDate": "Mon, 09 Nov 2026 18:35:01 -0500",
@@ -1887,6 +1887,14 @@
      "summary": "中国10月CPI同比上涨0.7%，环比持平；李强签署国务院令，公布《中医药传统知识保护条例》；字节跳动发布豆包图像模型Seedream 5.5；英伟达宣布对多家韩国AI初创企业投资计划；媒体：黄仁勋或被英伟达免职，尚未指定接班人；AMD：第五代EPYC处理器为谷歌TPU 8tx提供主机基础设施",
      "source": "钛媒体",
      "zh": "【钛晨报】“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争"
+    },
+    {
+     "title": "Fable 5.2 one-shotted my nephew's dream game",
+     "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+     "pubDate": "Mon, 09 Nov 2026 23:08:13 +0000",
+     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 23 # Comments: 9",
+     "source": "Hacker News",
+     "zh": "Fable 5.2 one-shotted my nephew's dream game"
     },
     {
      "title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
@@ -1908,7 +1916,7 @@
      "title": "Exact – a new cross platform UI framework by the Expo team",
      "link": "https://github.com/expo/exact",
      "pubDate": "Mon, 09 Nov 2026 22:59:13 +0000",
-     "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 11 # Comments: 5",
+     "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 14 # Comments: 6",
      "source": "Hacker News",
      "zh": "Exact – a new cross platform UI framework by the Expo team"
     },
@@ -1929,12 +1937,12 @@
      "zh": "Trump says the FBI is \"looking into\" Jensen Huang&apos;s affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)"
     },
     {
-     "title": "I did a meditation and it sort of changed my personality?",
-     "link": "https://www.benkuhn.net/meditation/",
-     "pubDate": "Mon, 09 Nov 2026 22:23:00 +0000",
-     "summary": "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50433129 Points: 11 # Comments: 0",
+     "title": "A year after the 100% AI mandate nobody understands our code",
+     "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+     "pubDate": "Mon, 09 Nov 2026 22:19:12 +0000",
+     "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 64 # Comments: 65",
      "source": "Hacker News",
-     "zh": "I did a meditation and it sort of changed my personality?"
+     "zh": "A year after the 100% AI mandate nobody understands our code"
     },
     {
      "title": "The Home Depot Best Early Black Friday Deals (2026)",
@@ -1964,7 +1972,7 @@
      "title": "TPUs",
      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
      "pubDate": "Mon, 09 Nov 2026 21:56:57 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 152 # Comments: 20",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 169 # Comments: 28",
      "source": "Hacker News",
      "zh": "TPUs"
     },
@@ -1991,14 +1999,6 @@
      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
      "source": "Ars Technica",
      "zh": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling"
-    },
-    {
-     "title": "Supply chain attack on Qubole customers",
-     "link": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
-     "pubDate": "Mon, 09 Nov 2026 21:07:26 +0000",
-     "summary": "Article URL: https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack Comments URL: https://news.ycombinator.com/item?id=50432147 Points: 15 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Supply chain attack on Qubole customers"
     }
    ]
   },
@@ -2257,12 +2257,20 @@
    "total": 13,
    "items": [
     {
-     "title": "Anthropic逆市推进IPO！最快周二路演，冲刺下周上市，估值或再打“八折”",
+     "title": "特朗普确认FBI调查黄仁勋，“连续第二天”表达支持：他是一个非常正直的人",
+     "link": "https://wallstreetcn.com/articles/3785612",
+     "pubDate": "Tue, 10 Nov 2026 08:11:43 +0800",
+     "summary": "特朗普连续两天公开为英伟达CEO黄仁勋背书，同时确认FBI正就其婚外情涉嫌外国情报渗透一事展开调查。与此同时， 中国外交部发言人郭嘉昆在同日例行记者会 上回应称， “所谓中国间谍的论调纯属捕风捉影，污蔑抹黑。” 据媒体11月10日报道， 特朗普周一在白宫一场即兴新闻发布会上表示，他当天早些时候已致电黄仁勋询问其近况，并称其为“一个非常正直的人”。 “我非常了解Jensen，我认为他是一个非常正直的人，他建立了一家伟大的美国公司，我认为他会没事的。”特朗普说。这是特朗普连续第二天公开为这位深陷困境的芯片大亨发声。 据 华尔街见闻文章 此前提及，澎湃新闻报道称，美国总统特朗普当地时间周日在返回华盛",
+     "source": "华尔街见闻",
+     "zh": "特朗普确认FBI调查黄仁勋，“连续第二天”表达支持：他是一个非常正直的人"
+    },
+    {
+     "title": "Anthropic逆市推进IPO！最快周二路演，冲刺下周四、五上市，估值或再打“八折”",
      "link": "https://wallstreetcn.com/articles/3785598",
      "pubDate": "Tue, 10 Nov 2026 08:09:18 +0800",
      "summary": "尽管AI板块近期遭遇剧烈抛售，Anthropic仍决定顶住市场压力推进IPO，此次大规模上市将直接测试公开市场对前沿AI资产的风险偏好与定价意愿。 据《华尔街日报》最新报道， 一周前，投资者预期Anthropic的估值目标约为1.5万亿美元，但在经历了AI公司股票的暴跌后，一些主要投资者现在希望目标估值更低。 目前，该公司高管一直在与高盛和摩根士丹利的银行家会面，商讨估值区间的最终确定。 据彭博6日援引一位知情人士透露，部分潜在投资者讨论的估值已降至约1.2万亿至1.3万亿美元，甚至有人考虑低至1.1万亿美元。 报道称，Anthropic本周已安排与关键投资者会面， 目标是让其股票在下周四或周",
      "source": "华尔街见闻",
-     "zh": "Anthropic逆市推进IPO！最快周二路演，冲刺下周上市，估值或再打“八折”"
+     "zh": "Anthropic逆市推进IPO！最快周二路演，冲刺下周四、五上市，估值或再打“八折”"
     },
     {
      "title": "中选后首度正式采访，特朗普表态：移民“可以谈”，投资“不清楚”，AI“必须赢”",
@@ -2487,14 +2495,6 @@
      "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie.",
      "source": "CNBC",
      "zh": "Hegseth impeachment articles introduced by Rep. Massie"
-    },
-    {
-     "title": "3 unexpected reasons the October jobs report was so strong",
-     "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-     "pubDate": "Mon, 09 Nov 2026 22:23:56 GMT",
-     "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
-     "source": "CNBC",
-     "zh": "3 unexpected reasons the October jobs report was so strong"
     }
    ]
   },

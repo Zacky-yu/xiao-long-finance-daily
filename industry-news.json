@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/11 01:32:08",
+ "generated_at": "2026/11/11 01:52:04",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+     "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+     "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
+     "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks"
+    },
     {
      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -71,14 +79,6 @@
      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
      "source": "TechCrunch AI",
      "zh": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion"
-    },
-    {
-     "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-     "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-     "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-     "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-     "source": "TechCrunch AI",
-     "zh": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter"
     },
     {
      "title": "苹果开卖334元AI“加油包”，额度不详，仅面向已订阅创作套件用户",
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Gritt and MasTec partner to bring physical AI to solar construction sites",
+     "link": "https://roboticsandautomationnews.com/2026/11/10/gritt-and-mastec-partner-to-bring-physical-ai-to-renewable-energy-construction-sites/106945/",
+     "pubDate": "Tue, 10 Nov 2026 17:39:45 +0000",
+     "summary": "Gritt has announced a partnership with MasTec, one of North America’s leading infrastructure builders, to deploy its AI-powered systems across MasTec Renewables projects and plans to explore applications in additional infrastructure sectors. Gritt develops intelligence for physical construction work",
+     "source": "Robotics & Automation",
+     "zh": "Gritt and MasTec partner to bring physical AI to solar construction sites"
+    },
+    {
      "title": "China blocks SoftBank’s $5.4 billion takeover of ABB Robotics",
      "link": "https://roboticsandautomationnews.com/2026/11/10/china-blocks-softbanks-5-4-billion-takeover-of-abb-robotics/106941/",
      "pubDate": "Tue, 10 Nov 2026 17:13:43 +0000",
@@ -559,14 +567,6 @@
      "summary": "As robots take on more responsibilities in the physical world, AGIBOT is proposing a new way to measure what matters after deployment: the useful work they actually complete. (See video below.) The robotics industry has made substantial progress in hardware, AI and large-scale manufacturing. Robots ",
      "source": "Robotics & Automation",
      "zh": "How Much Work Do Robots Really Deliver? The Thinking Behind Worken"
-    },
-    {
-     "title": "DHL opinion: Peak season, peak efficiency – solving supply chain complexity with confidence",
-     "link": "https://roboticsandautomationnews.com/2026/11/10/dhl-opinion-peak-season-peak-efficiency-solving-supply-chain-complexity-with-confidence/106921/",
-     "pubDate": "Tue, 10 Nov 2026 14:03:00 +0000",
-     "summary": "By Tim Tetzlaff, global head of digital transformation, DHL Supply Chain Years ago, peak season was defined by relatively predictable demand surges, such as Black Friday or the Christmas shopping rush. Supply chain operations could rely on historical data, anticipate recurring patterns, and schedule",
-     "source": "Robotics & Automation",
-     "zh": "DHL opinion: Peak season, peak efficiency – solving supply chain complexity with confidence"
     },
     {
      "title": "Axon invests $1.2B into Skydio and becomes its U.S. public safety distributor",
@@ -921,6 +921,22 @@
      "zh": "China’s Coal Buyers Resist Waiver Demands in New Indonesian Deals"
     },
     {
+     "title": "Permitting bill advances in Senate, but election results cast doubt on its future",
+     "link": "https://www.utilitydive.com/news/permitting-bill-advances-in-senate-but-its-future-is-uncertain-after-democ/874250/",
+     "pubDate": "Tue, 10 Nov 2026 10:02:14 -0500",
+     "summary": "The version of the bill that advanced this week included a manager&rsquo;s amendment that sought to address some concerns, including over tribal consultation&nbsp;and FERC authority, but Democrats in both chambers have said they want to see more changes.",
+     "source": "Utility Dive",
+     "zh": "Permitting bill advances in Senate, but election results cast doubt on its future"
+    },
+    {
+     "title": "Most generators prepared for extreme cold, but risks remain: NERC",
+     "link": "https://www.utilitydive.com/news/generators-prepared-extreme-cold-nerc/874248/",
+     "pubDate": "Tue, 10 Nov 2026 09:30:50 -0500",
+     "summary": "Despite improvements to cold-weather operations, the grid &ldquo;continues to face serious reliability risks during the winter period,&rdquo;&nbsp;NERC President and CEO Jim Robb said.",
+     "source": "Utility Dive",
+     "zh": "Most generators prepared for extreme cold, but risks remain: NERC"
+    },
+    {
      "title": "Ukraine Peace Talks Face an Uphill Battle as Winter Approaches",
      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Peace-Talks-Face-an-Uphill-Battle-as-Winter-Approaches.html",
      "pubDate": "Tue, 10 Nov 2026 08:30:00 -0600",
@@ -1079,22 +1095,6 @@
      "summary": "Sanjit “Bunker” Roy, who taught illiterate grandmothers to become solar engineers, passed away peacefully this morning at his home in Tilonia, Rajasthan, aged 81.[1] I first encountered his work not in India, but in the rain forests of Borneo. It was October 2016, and as night fell, the surrounding ",
      "source": "CleanTechnica",
      "zh": "A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers"
-    },
-    {
-     "title": "VIDEO: Improving BESS thermal and dielectric performance with PSA tape",
-     "link": "https://www.energy-storage.news/video-improving-bess-thermal-and-dielectric-performance-with-psa-tape/",
-     "pubDate": "Tue, 10 Nov 2026 10:08:50 +0000",
-     "summary": "Energy-Storage.news proudly presents our sponsored webinar with Argent International, 'New Ways to Improve BESS Thermal and Dielectric Performance.'",
-     "source": "Energy Storage News",
-     "zh": "VIDEO: Improving BESS thermal and dielectric performance with PSA tape"
-    },
-    {
-     "title": "The US offshore wind manufacturing boom that wasn’t",
-     "link": "https://www.canarymedia.com/articles/offshore-wind/us-offshore-wind-manufacturing",
-     "pubDate": "Tue, 10 Nov 2026 03:30:00 -0500",
-     "summary": "Akinlana Abdalla worked for years inside a sprawling Milwaukee factory repairing generators for onshore wind turbines. Ingeteam , a Spanish manufacturer, opened the plant in 2011 to serve America’s clean energy industries, fixing and producing equipment from its industrial site between the Milwaukee",
-     "source": "Canary Media",
-     "zh": "The US offshore wind manufacturing boom that wasn’t"
     }
    ]
   },
@@ -1104,6 +1104,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years",
+     "link": "https://www.genengnews.com/topics/cancer/how-breast-cancer-chemotherapy-may-impact-biological-aging-and-loss-of-healthy-life-years/",
+     "pubDate": "Tue, 10 Nov 2026 17:26:51 +0000",
+     "summary": "Chemotherapy helps many women survive breast cancer, but the results of new research suggest that chemotherapy may also accelerate biological aging beyond chronological age and increase the risk of earlier death from other causes. The post How Breast Cancer Chemotherapy May Impact Biological Aging a",
+     "source": "GEN",
+     "zh": "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years"
+    },
     {
      "title": "STAT+: Men’s use of chatbots for therapy, and earnings season highlights",
      "link": "https://www.statnews.com/2026/11/10/chatbots-for-men-and-earnings-highlights-health-tech/?utm_campaign=rss",
@@ -1263,14 +1271,6 @@
      "summary": "A seven-part proposal from the prominent lobbyist lays out a series of initiatives to accelerate drug development in the U.S. and counter China&rsquo;s fast rise.",
      "source": "BioPharma Dive",
      "zh": "BIO unveils plan for US to remain biotech’s ‘global leader’"
-    },
-    {
-     "title": "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research",
-     "link": "https://www.genengnews.com/topics/omics/illumina-offers-early-access-to-duplex-sequencing-for-mrd-tumor-evolution-research/",
-     "pubDate": "Mon, 09 Nov 2026 23:57:15 +0000",
-     "summary": "Illumina has announced an early access program to a duplex sequencing workflow that reads both DNA strands to detect trace ctDNA in molecular residual disease and tumor evolution studies. Kits are expected in early 2027. The post Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolu",
-     "source": "GEN",
-     "zh": "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research"
     },
     {
      "title": "Bayer wins FDA nod for a new kind of blood thinner",
@@ -1761,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft (Shirin Ghaffary/Bloomberg)",
+     "link": "https://www.techmeme.com/261110/p35#a261110p35",
+     "pubDate": "Tue, 10 Nov 2026 12:35:00 -0500",
+     "summary": "Shirin Ghaffary / Bloomberg : Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft &nbsp; &mdash;&nbsp; Anthropic PBC is releasing a suite of tools that weave the company's artificial intelligenc",
+     "source": "Techmeme",
+     "zh": "Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft (Shirin Ghaffary/Bloomberg)"
+    },
+    {
+     "title": "U.S. highways have 878 stretches of 50+ miles with no fast EV charger (map)",
+     "link": "https://chargingnear.me/nevi-charging-gaps",
+     "pubDate": "Tue, 10 Nov 2026 17:20:11 +0000",
+     "summary": "Article URL: https://chargingnear.me/nevi-charging-gaps Comments URL: https://news.ycombinator.com/item?id=50443313 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "U.S. highways have 878 stretches of 50+ miles with no fast EV charger (map)"
+    },
+    {
      "title": "New York Governor Kathy Hochul launches the US&apos; first effort to independently test AI systems and train a new generation of AI safety experts via a new center (Calder McHugh/Politico)",
      "link": "https://www.techmeme.com/261110/p34#a261110p34",
      "pubDate": "Tue, 10 Nov 2026 12:20:01 -0500",
@@ -1796,7 +1812,7 @@
      "title": "AMD's Zen 6 Family: Feeding the Beast",
      "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
      "pubDate": "Tue, 10 Nov 2026 17:02:32 +0000",
-     "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 19 # Comments: 5",
      "source": "Hacker News",
      "zh": "AMD's Zen 6 Family: Feeding the Beast"
     },
@@ -1836,7 +1852,7 @@
      "title": ".name Grandfathered",
      "link": "https://neil.fraser.name/news/2026/11/10/",
      "pubDate": "Tue, 10 Nov 2026 16:37:44 +0000",
-     "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 127 # Comments: 16",
+     "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 161 # Comments: 22",
      "source": "Hacker News",
      "zh": ".name Grandfathered"
     },
@@ -1844,7 +1860,7 @@
      "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
      "link": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
      "pubDate": "Tue, 10 Nov 2026 16:34:45 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/ Comments URL: https://news.ycombinator.com/item?id=50442691 Points: 34 # Comments: 15",
+     "summary": "Article URL: https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/ Comments URL: https://news.ycombinator.com/item?id=50442691 Points: 45 # Comments: 17",
      "source": "Hacker News",
      "zh": "Tailscale's DNS IPv6 spells out \"Tailscale\""
     },
@@ -1873,14 +1889,6 @@
      "zh": "2026 年全球化石燃料碳排放量预计下降 0.4%"
     },
     {
-     "title": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025 (Reuters)",
-     "link": "https://www.techmeme.com/261110/p29#a261110p29",
-     "pubDate": "Tue, 10 Nov 2026 11:20:07 -0500",
-     "summary": "Reuters : AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025 &nbsp; &mdash;&nbsp; Mercor said on Tuesday it had raised $750 million in a funding round that valued the AI training startup at $20 bil",
-     "source": "Techmeme",
-     "zh": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025 (Reuters)"
-    },
-    {
      "title": "One space station company sues another for copying its work",
      "link": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
      "pubDate": "Tue, 10 Nov 2026 16:17:51 +0000",
@@ -1900,7 +1908,7 @@
      "title": "Blender 5.3 released with Gaussian Splat support",
      "link": "https://www.blender.org/download/releases/5-3/",
      "pubDate": "Tue, 10 Nov 2026 16:15:43 +0000",
-     "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 166 # Comments: 25",
+     "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 195 # Comments: 27",
      "source": "Hacker News",
      "zh": "Blender 5.3 released with Gaussian Splat support"
     },
@@ -1935,14 +1943,6 @@
      "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
      "source": "TechCrunch",
      "zh": "Apple TV makes sign language interpretation a built-in accessibility feature"
-    },
-    {
-     "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-     "link": "https://text.npr.org/nx-s1-6029641",
-     "pubDate": "Tue, 10 Nov 2026 15:59:34 +0000",
-     "summary": "Article URL: https://text.npr.org/nx-s1-6029641 Comments URL: https://news.ycombinator.com/item?id=50442202 Points: 109 # Comments: 80",
-     "source": "Hacker News",
-     "zh": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress"
     },
     {
      "title": "波士顿动力为其人形机器人加入了轮子",
@@ -2009,6 +2009,78 @@
    "total": 7,
    "items": [
     {
+     "title": "New Apple TV 4K remote’s best feature requires a newer iPhone model",
+     "link": "https://9to5mac.com/2026/11/10/new-apple-tv-4k-remotes-best-feature-requires-a-newer-iphone-model/",
+     "pubDate": "Tue, 10 Nov 2026 17:47:32 +0000",
+     "summary": "A new Apple TV 4K releases this Friday ( pre-order here ), with an upgraded Siri Remote. But the new remote’s best feature might not work on your iPhone. more…",
+     "source": "9to5Mac",
+     "zh": "New Apple TV 4K remote’s best feature requires a newer iPhone model"
+    },
+    {
+     "title": "NVIDIA DLSS 4.5 has presets you should know about",
+     "link": "https://www.engadget.com/2307797/nvidia-dlss-4-5-presets-should-know/",
+     "pubDate": "Tue, 10 Nov 2026 17:45:00 +0000",
+     "summary": "These tweaks can help you squeeze better performance and cleaner visuals from your favorite PC gaming titles on multiple types of hardware.",
+     "source": "Engadget",
+     "zh": "NVIDIA DLSS 4.5 has presets you should know about"
+    },
+    {
+     "title": "Polestar is banned in the US, but we still want its latest concept car",
+     "link": "https://www.engadget.com/2312286/polestar-is-banned-in-the-us-but-we-still-want-its-latest-concept-car/",
+     "pubDate": "Tue, 10 Nov 2026 17:38:43 +0000",
+     "summary": "The Formula 2030 has inflatable seats, a pop-up LiDAR sensor and physical buttons.",
+     "source": "Engadget",
+     "zh": "Polestar is banned in the US, but we still want its latest concept car"
+    },
+    {
+     "title": "Amazon cuts $10 off INIU’s 45W mini portable charger",
+     "link": "https://www.androidauthority.com/iniu-mini-portable-charger-deal-3733563/",
+     "pubDate": "Tue, 10 Nov 2026 17:37:15 +0000",
+     "summary": "INIU’s 10,000mAh mini power bank drops to $29.99 on Amazon, with 45W USB-C charging in a pocket-friendly size.",
+     "source": "Android Authority",
+     "zh": "Amazon cuts $10 off INIU’s 45W mini portable charger"
+    },
+    {
+     "title": "Google turns Gemini towards medical paperwork",
+     "link": "https://www.engadget.com/2312279/google-turns-gemini-towards-medical-paperwork/",
+     "pubDate": "Tue, 10 Nov 2026 17:35:46 +0000",
+     "summary": "Gemini for healthcare is in preview now, with some big-name partners already on board.",
+     "source": "Engadget",
+     "zh": "Google turns Gemini towards medical paperwork"
+    },
+    {
+     "title": "Google Fi’s new Super Network brings automatic 5G switching, Pixel deals, and more",
+     "link": "https://www.androidauthority.com/google-fi-super-network-3733340/",
+     "pubDate": "Tue, 10 Nov 2026 17:30:05 +0000",
+     "summary": "Bad 5G signal? Your Pixel might have a clever escape plan.",
+     "source": "Android Authority",
+     "zh": "Google Fi’s new Super Network brings automatic 5G switching, Pixel deals, and more"
+    },
+    {
+     "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
+     "link": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
+     "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
+     "summary": "The company also has a new whiteboard app.",
+     "source": "Engadget",
+     "zh": "Anthropic takes on Google and Microsoft with Claude Sheets"
+    },
+    {
+     "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
+     "link": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
+     "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
+     "summary": "It's rolling out first on Pixel phones before wider availability arrives in 2027.",
+     "source": "Engadget",
+     "zh": "Google Fi announces super network automatic carrier switching for improved speed and reception"
+    },
+    {
+     "title": "Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel",
+     "link": "https://9to5google.com/2026/11/10/google-fi-network-switching/",
+     "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
+     "summary": "Google Fi Wireless is rolling out a big update today with the return of network switching thanks to a “secondary” partner. more…",
+     "source": "9to5Google",
+     "zh": "Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel"
+    },
+    {
      "title": "Save serious money with RedPocket’s Black Friday plans that start at $5 a month",
      "link": "https://9to5google.com/2026/11/10/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month-sponsored/",
      "pubDate": "Tue, 10 Nov 2026 17:24:50 +0000",
@@ -2039,14 +2111,6 @@
      "summary": "Ring’s flying security camera is making a comeback.",
      "source": "Android Authority",
      "zh": "Ring is launching a flying security camera to patrol your home"
-    },
-    {
-     "title": "Adobe and Google have teamed up to connect Drive, Gmail and Acrobat",
-     "link": "https://www.engadget.com/2312215/adobe-and-google-have-teamed-up-to-connect-drive-gmail-and-acrobat/",
-     "pubDate": "Tue, 10 Nov 2026 17:02:46 +0000",
-     "summary": "Some Adobe tools will end up in Google Search's AI mode, as well.",
-     "source": "Engadget",
-     "zh": "Adobe and Google have teamed up to connect Drive, Gmail and Acrobat"
     },
     {
      "title": "Xiaomi 18 Pro in for review",
@@ -2105,28 +2169,12 @@
      "zh": "Deals: Amazon early Black Friday sale, Dell Googlebook, Google Home Speaker, Galaxy Tab S12 Ultra up to $330 off, more"
     },
     {
-     "title": "Don't throw away your old phone box — you might need it in an emergency",
-     "link": "https://www.engadget.com/2307779/dont-throw-away-your-old-phone-box/",
-     "pubDate": "Tue, 10 Nov 2026 16:45:00 +0000",
-     "summary": "If you're thinking of tossing your old phone box, here are the practical reasons the packaging is worth holding onto, including what to do in an emergency.",
-     "source": "Engadget",
-     "zh": "Don't throw away your old phone box — you might need it in an emergency"
-    },
-    {
      "title": "Blink Mini Pan-Tilt 2K+ falls to $19.99 in first real discount",
      "link": "https://www.androidauthority.com/blink-mini-pan-tilt-2k-deal-3733531/",
      "pubDate": "Tue, 10 Nov 2026 16:40:20 +0000",
      "summary": "Amazon cut the Blink Mini Pan-Tilt 2K+ by 60% off RRP, bringing this new 2K security camera down to its all-time low price.",
      "source": "Android Authority",
      "zh": "Blink Mini Pan-Tilt 2K+ falls to $19.99 in first real discount"
-    },
-    {
-     "title": "A Google TV Ambient Mode issue is causing repetitive photo slideshows and frozen screens",
-     "link": "https://www.androidauthority.com/google-tv-ambient-mode-freezing-photos-bug-3733457/",
-     "pubDate": "Tue, 10 Nov 2026 16:38:12 +0000",
-     "summary": "Rolling back recent updates appears to fix the problem.",
-     "source": "Android Authority",
-     "zh": "A Google TV Ambient Mode issue is causing repetitive photo slideshows and frozen screens"
     },
     {
      "title": "The Z5IIC is small on price, not on image quality",
@@ -2137,36 +2185,12 @@
      "zh": "The Z5IIC is small on price, not on image quality"
     },
     {
-     "title": "Google and Adobe are teaming up to make editing PDFs and photos a whole lot easier",
-     "link": "https://www.androidauthority.com/google-adobe-partnership-3733512/",
-     "pubDate": "Tue, 10 Nov 2026 16:34:03 +0000",
-     "summary": "Adobe's bringing its editing tricks to Google, and we're not complaining.",
-     "source": "Android Authority",
-     "zh": "Google and Adobe are teaming up to make editing PDFs and photos a whole lot easier"
-    },
-    {
      "title": "Deals: M5 MacBook Air up to $300 off, M6 Mac mini, AirPods Pro 3, HomeView, Magic Trackpad, more",
      "link": "https://9to5mac.com/2026/11/10/deals-macbook-air-mac-mini-airpods-homeview-trackpad/",
      "pubDate": "Tue, 10 Nov 2026 16:31:02 +0000",
      "summary": "Amazon now $150 off and these Amazon all-time lows on Apple’s Magic Trackpad in white and black . We have Twelve South’s adjustable metal Curve Mini stand for your OLED iPad mini and/or iPhone Duo down at $40 , the popular Airfly Drive CarPlay wireless adapter back in-stock, and loads more accessory",
      "source": "9to5Mac",
      "zh": "Deals: M5 MacBook Air up to $300 off, M6 Mac mini, AirPods Pro 3, HomeView, Magic Trackpad, more"
-    },
-    {
-     "title": "One UI 9.5 might bring Pixel 11’s ‘Rambler’ feature to Samsung Keyboard before Google’s",
-     "link": "https://9to5google.com/2026/11/10/one-ui-9-5-rambler-samsung-galaxy-keyboard/",
-     "pubDate": "Tue, 10 Nov 2026 16:19:27 +0000",
-     "summary": "The Pixel 11 launched with one AI tool most people got on board with, called “Rambler.” It’s a transcription tool that overhauls and cleans up voice-to-text messages. Too bad this Rambler clone will only be available on Samsung Keyboard. more…",
-     "source": "9to5Google",
-     "zh": "One UI 9.5 might bring Pixel 11’s ‘Rambler’ feature to Samsung Keyboard before Google’s"
-    },
-    {
-     "title": "What is the difference between rest mode and shutdown for your PlayStation 5?",
-     "link": "https://www.engadget.com/2307774/playstation-5-shutdown-vs-rest-mode-differences/",
-     "pubDate": "Tue, 10 Nov 2026 16:15:00 +0000",
-     "summary": "Rest mode is more convenient, but shutting the console off could give you more piece of mind.",
-     "source": "Engadget",
-     "zh": "What is the difference between rest mode and shutdown for your PlayStation 5?"
     },
     {
      "title": "iPadOS 27.3 adds new iPad setting I instantly turned on",
@@ -2177,28 +2201,12 @@
      "zh": "iPadOS 27.3 adds new iPad setting I instantly turned on"
     },
     {
-     "title": "GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro",
-     "link": "https://www.engadget.com/2312120/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro/",
-     "pubDate": "Tue, 10 Nov 2026 16:12:44 +0000",
-     "summary": "Xbox Cloud Gaming support means you'll be able to stream GTA6 on Xbox One.",
-     "source": "Engadget",
-     "zh": "GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro"
-    },
-    {
      "title": "Apple TV launches new sign language accessibility feature",
      "link": "https://9to5mac.com/2026/11/10/apple-tv-new-sign-language-accessibility/",
      "pubDate": "Tue, 10 Nov 2026 16:06:43 +0000",
      "summary": "Apple today launched a neat new accessibility feature for the Apple TV streaming service. Users will now have the option to watch with a sign language interpretation for some of Apple’s original movies. The feature is launching this Friday with the debut of the new film Being Heumann , as well as F1",
      "source": "9to5Mac",
      "zh": "Apple TV launches new sign language accessibility feature"
-    },
-    {
-     "title": "Google's Gemini 4 Carbon is now widely available around the world",
-     "link": "https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide/",
-     "pubDate": "Tue, 10 Nov 2026 16:00:00 +0000",
-     "summary": "Google is rolling out Gemini 4 Carbon after a limited release to cybersecurity companies.",
-     "source": "Engadget",
-     "zh": "Google's Gemini 4 Carbon is now widely available around the world"
     },
     {
      "title": "Google Wallet gains support for overseas QR payments",
@@ -2215,14 +2223,6 @@
      "summary": "Apple Arcade just added new games last week, but today another title has debuted, and several more have been announced for release soon. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "Apple Arcade unveils three new games from hit franchises"
-    },
-    {
-     "title": "Apple’s new HomeView to add two major features not yet announced, per leaks",
-     "link": "https://9to5mac.com/2026/11/10/apples-new-homeview-to-add-two-major-features-not-yet-announced-per-leaks/",
-     "pubDate": "Tue, 10 Nov 2026 14:52:57 +0000",
-     "summary": "Apple’s HomeView arrives this Friday ( pre-order here ), but leaks indicate there are already two major new features in the works that haven’t been announced. Here’s what to expect. more…",
-     "source": "9to5Mac",
-     "zh": "Apple’s new HomeView to add two major features not yet announced, per leaks"
     },
     {
      "title": "iPhone Air 2 and iPhone 18 dummy models leak",
@@ -2257,60 +2257,140 @@
    "total": 13,
    "items": [
     {
-     "title": "GAIN anticipates $0.01 to $0.08 per share annual NII lift if SOFR rises 50 to 150 bps, while awaiting 85% of SFEG equity proceeds",
-     "link": "https://seekingalpha.com/news/4669986-gain-anticipates-0_01-to-0_08-per-share-annual-nii-lift-if-sofr-rises-50-to-150-bps-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 12:23:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GAIN anticipates $0.01 to $0.08 per share annual NII lift if SOFR rises 50 to 150 bps, while awaiting 85% of SFEG equity proceeds"
+     "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+     "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+     "pubDate": "Tue, 10 Nov 2026 17:49:07 GMT",
+     "summary": "Treasury yields moved higher after hotter-than-expected CPI report.",
+     "source": "CNBC",
+     "zh": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations"
     },
     {
-     "title": "D-Wave outlines plan for 100 logical qubits by 2032 as CHIPS Act deal offers up to $100M",
-     "link": "https://seekingalpha.com/news/4669985-d-wave-outlines-plan-for-100-logical-qubits-by-2032-as-chips-act-deal-offers-up-to-100m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 12:22:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "D-Wave outlines plan for 100 logical qubits by 2032 as CHIPS Act deal offers up to $100M"
+     "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
+     "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+     "pubDate": "Tue, 10 Nov 2026 17:48:47 GMT",
+     "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
+     "source": "CNBC",
+     "zh": "Pete Hegseth decries impeachment push, defends Iran war handling"
     },
     {
-     "title": "908 Devices expects $68.5M-$70M 2026 revenue while targeting mid-single-digit $M adjusted EBITDA loss",
-     "link": "https://seekingalpha.com/news/4669984-908-devices-expects-68_5m-70m-2026-revenue-while-targeting-mid-single-digit-m-adjusted-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 12:22:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "908 Devices expects $68.5M-$70M 2026 revenue while targeting mid-single-digit $M adjusted EBITDA loss"
+     "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 17:45:00 GMT",
+     "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+     "source": "MarketWatch",
+     "zh": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?"
     },
     {
-     "title": "Loop backs off Buy rating on Academy Sports on valuation, fundamentals remain upbeat",
-     "link": "https://seekingalpha.com/news/4669899-loop-backs-off-buy-rating-on-academy-sports-on-valuation-fundamentals-remain-upbeat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 12:22:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Loop backs off Buy rating on Academy Sports on valuation, fundamentals remain upbeat"
-    },
-    {
-     "title": "城市24小时 | 省长专题调研，为何是“这碗面”",
-     "link": "http://finance.eastmoney.com/news/1355,202611113927712061.html",
-     "pubDate": "Wed, 11 Nov 2026 01:21:13 +0800",
-     "summary": "甘肃省委副书记、省长孔绍逊11月9日在兰州市宣讲党的二十届五中全会精神并专题调研兰州牛肉拉面产业发展情况。调研中，孔绍逊察看兰州牛肉拉面上下游特色产品展示，了解产业链配套及品牌培育、市场拓展、技能培训、带动就业等情况。 他指出，兰州牛肉拉面历经百年传承和创新发展，已成为享誉全国乃至全球的特色饮食文化品牌，也是兰州的一张靓丽名片。要把兰州牛肉拉面产业作为推动经济发展、促进就业和文化传承的重要抓手，坚持市场主导、园区引领、集聚发展，做细产业规划，壮大发展规模，提升供应链保障能力，用好公用品牌，强化 食品安全 全链条监管，把兰州牛肉拉面打造成影响力更强、美誉度更高的“金字招牌”。 解读： 一道地方特",
+     "title": "珍宝岛玛巴洛沙韦原料药获准注册 项目累计研发投入871.73万元",
+     "link": "http://finance.eastmoney.com/news/1354,202611103927691948.html",
+     "pubDate": "Wed, 11 Nov 2026 01:42:23 +0800",
+     "summary": "珍宝岛 11月10日晚公告称，公司鸡西分公司近日收到国家药品监督管理局颁发的《 化学原料 药上市申请批准通知书》，所申报的玛巴洛沙韦 原料药 符合药品注册的有关要求，批准注册。 玛巴洛沙韦片适用于成人和5岁及以上儿童单纯性甲型和乙型 流感 患者，包括既往健康的患者以及存在 流感 相关并发症高风险的患者。玛巴洛沙韦干混悬剂适用于1至12岁以下单纯性甲型和乙型 流感 儿童患者，包括既往健康的患者以及存在流感并发症高风险的患者。 药智网数据显示，玛巴洛沙韦片2025年 医院 销售总额为8.91亿元，2026年上半年 医院 销售总额约2.93亿元；玛巴洛沙韦 原料药 2025年用量约0.46吨。 截至",
      "source": "东方财富股票",
-     "zh": "城市24小时 | 省长专题调研，为何是“这碗面”"
+     "zh": "珍宝岛玛巴洛沙韦原料药获准注册 项目累计研发投入871.73万元"
     },
     {
-     "title": "俄罗斯副外长里亚布科夫：现在评估阿布扎比正在进行的谈判还为时过早",
-     "link": "http://finance.eastmoney.com/news/1351,202611113927711936.html",
-     "pubDate": "Wed, 11 Nov 2026 01:20:49 +0800",
-     "summary": "俄罗斯副外长里亚布科夫：现在评估阿布扎比正在进行的谈判还为时过早。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯副外长里亚布科夫：现在评估阿布扎比正在进行的谈判还为时过早"
+     "title": "Wix outlines full-year 2026 ~16% free cash flow margin as Base44 nears $250M ARR and Q4 S&M rises",
+     "link": "https://seekingalpha.com/news/4669997-wix-outlines-full-year-2026-16-percent-free-cash-flow-margin-as-base44-nears-250m-arr-and-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 12:42:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wix outlines full-year 2026 ~16% free cash flow margin as Base44 nears $250M ARR and Q4 S&M rises"
     },
     {
-     "title": "英国首相伯纳姆拒绝英国与欧盟金融规则进行动态对齐",
-     "link": "http://finance.eastmoney.com/news/1351,202611113927711815.html",
-     "pubDate": "Wed, 11 Nov 2026 01:20:07 +0800",
-     "summary": "英国首相伯纳姆拒绝英国与欧盟金融规则进行动态对齐。 （文章来源：新浪财经快讯）",
+     "title": "Aviat outlines FY 2027 revenue of $450M-$475M while holding adjusted EBITDA at $50M-$55M",
+     "link": "https://seekingalpha.com/news/4669996-aviat-outlines-fy-2027-revenue-of-450m-475m-while-holding-adjusted-ebitda-at-50m-55m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 12:42:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Aviat outlines FY 2027 revenue of $450M-$475M while holding adjusted EBITDA at $50M-$55M"
+    },
+    {
+     "title": "MaxCyte falls after $151.8M deal to buy Akron Bio for cash and stock",
+     "link": "https://seekingalpha.com/news/4669980-maxcyte-stock-dips-deal-buy-akron-bio?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 12:40:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MaxCyte falls after $151.8M deal to buy Akron Bio for cash and stock"
+    },
+    {
+     "title": "Finning International declares CAD 0.325 dividend",
+     "link": "https://seekingalpha.com/news/4669995-finning-international-declares-cad-0_325-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 12:39:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Finning International declares CAD 0.325 dividend"
+    },
+    {
+     "title": "These healthcare stocks have tumbled in 2026, yet Quant ratings stay positive",
+     "link": "https://seekingalpha.com/news/4669981-these-healthcare-stocks-have-tumbled-in-2026-yet-quant-ratings-stay-positive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 12:38:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "These healthcare stocks have tumbled in 2026, yet Quant ratings stay positive"
+    },
+    {
+     "title": "Hydro One Limited declares $0.3531 dividend",
+     "link": "https://seekingalpha.com/news/4669994-hydro-one-limited-declares-0_3531-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 12:37:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hydro One Limited declares $0.3531 dividend"
+    },
+    {
+     "title": "Stocks fall as the 10-year Treasury yield reclaims 5%",
+     "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 17:34:00 GMT",
+     "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
+     "source": "MarketWatch",
+     "zh": "Stocks fall as the 10-year Treasury yield reclaims 5%"
+    },
+    {
+     "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+     "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 17:33:00 GMT",
+     "summary": "Anthropic could raise up to $63 billion in an IPO expected to take place next week.",
+     "source": "MarketWatch",
+     "zh": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion"
+    },
+    {
+     "title": "欧洲央行执行委员兼首席经济学家连恩：能源价格已开始回落 若这一趋势持续 整体通胀将下降",
+     "link": "http://finance.eastmoney.com/news/1351,202611113927713648.html",
+     "pubDate": "Wed, 11 Nov 2026 01:32:43 +0800",
+     "summary": "欧洲央行执行委员兼首席经济学家连恩：能源价格已开始回落，若这一趋势持续，整体通胀将下降，而潜在通胀将上升。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "英国首相伯纳姆拒绝英国与欧盟金融规则进行动态对齐"
+     "zh": "欧洲央行执行委员兼首席经济学家连恩：能源价格已开始回落 若这一趋势持续 整体通胀将下降"
+    },
+    {
+     "title": "欧洲央行执行委员兼首席经济学家连恩：潜在通胀是未来一年通胀的指引",
+     "link": "http://finance.eastmoney.com/news/1351,202611113927713377.html",
+     "pubDate": "Wed, 11 Nov 2026 01:31:52 +0800",
+     "summary": "欧洲央行执行委员兼首席经济学家连恩：潜在通胀是未来一年通胀的指引。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "欧洲央行执行委员兼首席经济学家连恩：潜在通胀是未来一年通胀的指引"
+    },
+    {
+     "title": "伊朗革命卫队发言人：美国导航辅助设备在霍尔木兹海峡南部被完全摧毁",
+     "link": "http://finance.eastmoney.com/news/1351,202611113927713450.html",
+     "pubDate": "Wed, 11 Nov 2026 01:31:49 +0800",
+     "summary": "伊朗革命卫队发言人：美国导航辅助设备在霍尔木兹海峡南部被完全摧毁。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗革命卫队发言人：美国导航辅助设备在霍尔木兹海峡南部被完全摧毁"
+    },
+    {
+     "title": "俄罗斯总统普京感谢白俄罗斯总统卢卡申科协助组织与乌克兰冲突相关的人道主义交流",
+     "link": "http://finance.eastmoney.com/news/1351,202611113927713572.html",
+     "pubDate": "Wed, 11 Nov 2026 01:31:46 +0800",
+     "summary": "俄罗斯总统普京感谢白俄罗斯总统卢卡申科协助组织与乌克兰冲突相关的人道主义交流。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯总统普京感谢白俄罗斯总统卢卡申科协助组织与乌克兰冲突相关的人道主义交流"
+    },
+    {
+     "title": "欧洲央行首席经济学家连恩 核心通胀尚未变动 属通常滞后反应",
+     "link": "http://finance.eastmoney.com/news/1351,202611113927713193.html",
+     "pubDate": "Wed, 11 Nov 2026 01:31:11 +0800",
+     "summary": "欧洲央行执行委员兼首席经济学家连恩：核心通胀尚未变动，这一点具有参考意义，意味着这属于通常的滞后反应。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "欧洲央行首席经济学家连恩 核心通胀尚未变动 属通常滞后反应"
     },
     {
      "title": "Wall Street’s only Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
@@ -2321,22 +2401,6 @@
      "zh": "Wall Street’s only Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’"
     },
     {
-     "title": "摩根士丹利将兆易创新A股评级下调至平配 目标价259元",
-     "link": "http://finance.eastmoney.com/news/1351,202611113927711785.html",
-     "pubDate": "Wed, 11 Nov 2026 01:18:54 +0800",
-     "summary": "摩根士丹利 将 兆易创新 A股评级下调至平配，目标价259元。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "摩根士丹利将兆易创新A股评级下调至平配 目标价259元"
-    },
-    {
-     "title": "Apple holds capex steady as peers accelerate AI infrastructure buildout",
-     "link": "https://seekingalpha.com/news/4669982-apple-holds-capex-steady-as-peers-accelerate-ai-infrastructure-buildout?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 12:18:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple holds capex steady as peers accelerate AI infrastructure buildout"
-    },
-    {
      "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
      "link": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
      "pubDate": "Tue, 10 Nov 2026 17:16:18 GMT",
@@ -2345,28 +2409,12 @@
      "zh": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds"
     },
     {
-     "title": "抢电力设备弄出37亿美元损失 软银调整规划引发燃气轮机龙头巨震",
-     "link": "http://finance.eastmoney.com/news/1354,202611113927711254.html",
-     "pubDate": "Wed, 11 Nov 2026 01:14:56 +0800",
-     "summary": "当地时间周二，豪赌AI产业的软银集团交出了一份令市场不安的财报：该公司在今年7月至9月间录得1.12万亿日元的亏损，近两年来首次出现净亏损，而分析师事前普遍预期公司能继续取得盈利。 更加令市场关注的是， 软银确认因调整AI 数据中心 发电设备采购计划，录得5972亿日元损失 。涉及的算力园区，包括OpenAI“星际之门”计划中的俄亥俄州项目。 受此消息影响，尽管软银并没有明说交易对手方，但美国燃气轮机巨头GE维诺瓦周二开盘后一度跳水超8%，随后跌幅有所收窄。 软银又怎么了？ 软银在财报说明会上披露，旗下Silver Bands 7（SB7）此前通过产能预订协议、设备采购合同等方式，提前锁定发电",
-     "source": "东方财富股票",
-     "zh": "抢电力设备弄出37亿美元损失 软银调整规划引发燃气轮机龙头巨震"
-    },
-    {
-     "title": "Google agrees to tighter privacy measures for Spirit employee data",
-     "link": "https://seekingalpha.com/news/4669973-google-agrees-to-tighter-privacy-measures-for-spirit-employee-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 12:04:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Google agrees to tighter privacy measures for Spirit employee data"
-    },
-    {
-     "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-     "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-     "pubDate": "Tue, 10 Nov 2026 16:44:11 GMT",
-     "summary": "Treasury yields moved higher after hotter-than-expected CPI report.",
-     "source": "CNBC",
-     "zh": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations"
+     "title": "美股三大指数震荡下跌 纳指跌超1% 国际金银价格下挫",
+     "link": "http://finance.eastmoney.com/news/1345,202611103927654526.html",
+     "pubDate": "Wed, 11 Nov 2026 00:53:34 +0800",
+     "summary": "美东时间周二，美股三大指数下跌，截至发稿，道琼斯指数跌0.70%，标普500指数跌0.85%， 纳斯达克 综合 指数跌1.23%。 半导体 板块走弱，费城 半导体 指数跌1.89%。个股方面， 博通 涨1.67%， 超威半导体 涨0.65%， 台积电 涨0.30%； 英特尔 跌3.24%， 美光科技 跌3.83%， 闪迪 跌4.83%， 英伟达 跌6.38%。其中 英伟达 股价较52周高点回撤约31%。 商品市场方面，国际原油探底回升、金银价格下挫。截至发稿，布伦特原油 期货 价格跌0.72%，报91.90美元/桶；现货 黄金 价格跌3.01%，报4016.51美元/盎司；现货 白银 价格跌4",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数震荡下跌 纳指跌超1% 国际金银价格下挫"
     },
     {
      "title": "Here&apos;s the inflation breakdown for October 2026 — in one chart",
@@ -2385,28 +2433,12 @@
      "zh": "U.S. gas prices fall below $4 for the first time since July"
     },
     {
-     "title": "Why stocks are falling and the 10-year Treasury yield is back near 5% after Tuesday’s inflation report",
-     "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 16:28:00 GMT",
-     "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
-     "source": "MarketWatch",
-     "zh": "Why stocks are falling and the 10-year Treasury yield is back near 5% after Tuesday’s inflation report"
-    },
-    {
      "title": "Alice Huang’s tangled web of connections",
      "link": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
      "pubDate": "Tue, 10 Nov 2026 16:17:20 GMT",
      "summary": "Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators",
      "source": "Financial Times",
      "zh": "Alice Huang’s tangled web of connections"
-    },
-    {
-     "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 16:15:00 GMT",
-     "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-     "source": "MarketWatch",
-     "zh": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?"
     },
     {
      "title": "‘Boneless couches’ are the new futons",
@@ -2423,14 +2455,6 @@
      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
      "source": "MarketWatch",
      "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
-    },
-    {
-     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 15:45:00 GMT",
-     "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-     "source": "MarketWatch",
-     "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
     },
     {
      "title": "Private banking fintech Light Frame raises $5.1m",
@@ -2471,30 +2495,6 @@
      "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
      "source": "CNBC",
      "zh": "Jensen Huang&apos;s affair with alleged Chinese spy further complicates Nvidia’s China problem"
-    },
-    {
-     "title": "美通胀数据超预期，美债收益率跳升，美股走低，黄金跳水，布油自8月首破90美元",
-     "link": "https://wallstreetcn.com/articles/3785613",
-     "pubDate": "Tue, 10 Nov 2026 22:59:13 +0800",
-     "summary": "美国10月消费者价格指数（CPI）数据 公布后，市场反应迅速而剧烈。美元指数、美债收益率短线走高，美股承压下挫，市场开始计价下月美联储加息50个基点的可能。 美国国债遭遇抛售，2年期至10年期收益率单日涨幅均超过10个基点，10年期美债报4.97%，美元指数短线拉升约20点，报102.02。现货黄金则短线下挫约30美元，报4049.50美元/盎司。 美股盘初，标普500指数跌0.49%，道琼斯工业平均指数跌0.43%，纳斯达克综合指数跌0.81%，纳斯达克100指数跌超1.1%，半导体指数跌超1.9%。 英伟达跌3.8%，最近两个交易日迄今累计跌幅达到7.8%，黄仁勋遭股东集体诉讼，指控涉嫌欺",
-     "source": "华尔街见闻",
-     "zh": "美通胀数据超预期，美债收益率跳升，美股走低，黄金跳水，布油自8月首破90美元"
-    },
-    {
-     "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
-     "link": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1",
-     "pubDate": "Tue, 10 Nov 2026 14:52:07 GMT",
-     "summary": "Wall Street bank projects AI start-up will increase sales by 130 times — and be cash flow positive — by end of the decade",
-     "source": "Financial Times",
-     "zh": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030"
-    },
-    {
-     "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
-     "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-     "pubDate": "Tue, 10 Nov 2026 14:48:34 GMT",
-     "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue-wave midterm election.",
-     "source": "CNBC",
-     "zh": "Pete Hegseth decries impeachment push, defends Iran war handling"
     }
    ]
   },

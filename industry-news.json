@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/11 06:52:05",
+ "generated_at": "2026/11/11 07:12:04",
  "recent_days": 7,
  "industries": [
   {
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Midterm Results Could Trip Trump’s Energy Independence Plans",
+     "link": "https://oilprice.com/Energy/Energy-General/Midterm-Results-Could-Trip-Trumps-Energy-Independence-Plans.html",
+     "pubDate": "Tue, 10 Nov 2026 17:00:00 -0600",
+     "summary": "The Democratic Party’s decisive victory in the U.S. midterm elections has been widely called bad news for Trump policies, but now, it could interfere with legislation that previously drew support from both parties in Congress—and the GOP’s ambitions for energy independence and dominance. The bill in",
+     "source": "OilPrice",
+     "zh": "Midterm Results Could Trip Trump’s Energy Independence Plans"
+    },
+    {
      "title": "A ‘Geologic Freak’ in Arkansas Is Big Oil’s New Lithium Bet",
      "link": "https://oilprice.com/Metals/Commodities/A-Geologic-Freak-in-Arkansas-Is-Big-Oils-New-Lithium-Bet.html",
      "pubDate": "Tue, 10 Nov 2026 16:00:00 -0600",
@@ -913,14 +921,6 @@
      "zh": "Turkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts"
     },
     {
-     "title": "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets",
-     "link": "https://oilprice.com/Energy/Energy-General/US-Midterm-Shake-Up-Could-Reshape-Global-Oil-and-Gas-Markets.html",
-     "pubDate": "Tue, 10 Nov 2026 13:00:00 -0600",
-     "summary": "The 2026 US midterm elections have delivered a significant political setback to President Donald Trump, but their implications for US policy and global energy markets are far from straightforward. Democratic control of Congress will constrain the administration's domestic legislative agenda and yet ",
-     "source": "OilPrice",
-     "zh": "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets"
-    },
-    {
      "title": "The AI boom could shift diesel generators from backup to everyday use",
      "link": "https://www.utilitydive.com/news/ai-boom-could-shift-diesel-generators-backup-everyday-use/873954/",
      "pubDate": "Tue, 10 Nov 2026 12:24:20 -0500",
@@ -953,10 +953,18 @@
      "zh": "Beyond wiring: how engineered EBOS solutions address Australia’s utility-scale solar project challenges"
     },
     {
+     "title": "Community engagement is key to on-site battery storage, experts say",
+     "link": "https://www.utilitydive.com/news/community-engagement-is-key-to-on-site-battery-energy-storage-experts-say/874194/",
+     "pubDate": "Tue, 10 Nov 2026 11:05:42 -0500",
+     "summary": "Building operators are turning to batteries to combat rising energy prices and add resiliency, but safety concerns means these projects require thoughtful planning, Greenbuild panelists say.",
+     "source": "Utility Dive",
+     "zh": "Community engagement is key to on-site battery storage, experts say"
+    },
+    {
      "title": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question",
      "link": "https://www.utilitydive.com/news/are-data-centers-really-paying-aes-indianas-google-deal-highlights-a-thor/873040/",
      "pubDate": "Tue, 10 Nov 2026 10:35:36 -0500",
-     "summary": "While local projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
+     "summary": "While local grid infrastructure projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
      "source": "Utility Dive",
      "zh": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question"
     },
@@ -1087,14 +1095,6 @@
      "summary": "Italian company Sizable Energy is developing a long-duration offshore energy storage system that uses deep-sea brine reservoirs to store electricity, with its first commercial projects planned for Calabria and Sicily and a demonstrator linked to a data center in Naples scheduled for 2027. The post I",
      "source": "pv magazine",
      "zh": "Italian startup plans offshore gravity storage projects"
-    },
-    {
-     "title": "Utilities should consider ‘taking a breather’ from rate cases: Minnesota PUC vice chair",
-     "link": "https://www.utilitydive.com/news/minnesota-puc-rate-case-affordability-naruc/874222/",
-     "pubDate": "Tue, 10 Nov 2026 06:09:21 -0500",
-     "summary": "&ldquo;Filing rate cases right now is really painful,&rdquo; Joseph Sullivan told Utility Dive in an interview where he also discussed his concerns with overly complex data center cost allocation and an erosion of public trust in institutions.",
-     "source": "Utility Dive",
-     "zh": "Utilities should consider ‘taking a breather’ from rate cases: Minnesota PUC vice chair"
     }
    ]
   },
@@ -1769,12 +1769,52 @@
    "total": 18,
    "items": [
     {
-     "title": "谷歌联合 Artificial Analysis 推出 MKA 基准测试：Gemini 4 Carbon 多模态知识工作测试获第二，任务成本仅为第一名六分之一",
-     "link": "https://www.ithome.com/1/025/205.htm",
-     "pubDate": "Tue, 10 Nov 2026 22:48:50 GMT",
-     "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布联合 AI 模型评测机构 Artificial Analysis 推出多模态知识智能体基准测试 MKA（Multimodal Knowledge Agent），用于评估 AI 智能体处理视觉复杂文件、完成现实世界知识工作任务的能力。 谷歌表示，其最新发布的 Gemini 4 Carbon 在该测试中取得了参测模型第二名的成绩，完成任务的平均成本仅为排名第一模型的约六分之一。 谷歌 DeepMind 高级产品经理 Rohan Doshi 和首席工程师 Ben Caine 介绍称，现有不少知识工作基准测试仅依赖文本即可完成，而",
+     "title": "Anthropic 发布 IPO 路演视频正式启动最高 643.5 亿美元募资计划，估值约在 1~1.4 万亿美元",
+     "link": "https://www.ithome.com/1/025/209.htm",
+     "pubDate": "Tue, 10 Nov 2026 23:08:45 GMT",
+     "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，Anthropic 正式宣布启动首次公开募股（IPO）路演，并公布股票发行计划。 根据公告，Anthropic 此次拟发行 8.25 亿股 A 类普通股，发行价格区间为每股 70 至 78 美元。按照发行价上限计算，本次基础发行规模最高约为 643.5 亿美元 （IT之家注：现汇率约合 4,302.82 亿元人民币） 。 根据 Anthropic 官方披露的发行安排，此次发行的 8.25 亿股股票中，有 8.01351354 亿股由 Anthropic 自身发行，另外 2364.8646 万股由部分现有股东出售。Anthropic",
      "source": "IT之家",
-     "zh": "谷歌联合 Artificial Analysis 推出 MKA 基准测试：Gemini 4 Carbon 多模态知识工作测试获第二，任务成本仅为第一名六分之一"
+     "zh": "Anthropic 发布 IPO 路演视频正式启动最高 643.5 亿美元募资计划，估值约在 1~1.4 万亿美元"
+    },
+    {
+     "title": "The US military seems to be getting nervous about the launch supply crunch",
+     "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+     "pubDate": "Tue, 10 Nov 2026 23:02:39 +0000",
+     "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+     "source": "Ars Technica",
+     "zh": "The US military seems to be getting nervous about the launch supply crunch"
+    },
+    {
+     "title": "谷歌宣布免费升级 Google Fi 超级网络：Pixel 9 系列支持双 5G 网络自动切换和数百万 Wi-Fi 热点",
+     "link": "https://www.ithome.com/1/025/208.htm",
+     "pubDate": "Tue, 10 Nov 2026 23:01:30 GMT",
+     "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布为旗下 Google Fi Wireless 推出全新的「超级网络」（Super Network），通过双 5G 蜂窝网络和数百万个 Wi-Fi 热点之间的自动切换，改善用户在室内、拥挤区域及偏远地区的网络连接体验。 谷歌 Google Store 与 Google Fi 副总裁 Mauria Finley 在官方博客中介绍称，该功能将面向符合条件的 Google Fi 用户免费提供。 即日起，该功能陆续向 Pixel 9 及更新机型开放。所有 Google Fi 套餐均可使用两张美国 5G 网络，当主网络信号减弱或连接中",
+     "source": "IT之家",
+     "zh": "谷歌宣布免费升级 Google Fi 超级网络：Pixel 9 系列支持双 5G 网络自动切换和数百万 Wi-Fi 热点"
+    },
+    {
+     "title": "微软 XBOX One 主机将支持《GTA6》云游戏，但 PC 玩家无缘",
+     "link": "https://www.ithome.com/1/025/207.htm",
+     "pubDate": "Tue, 10 Nov 2026 22:58:28 GMT",
+     "summary": "IT之家 11 月 11 日消息，微软 XBOX 昨天在 X 平台宣布，《GTA6》游戏将于 11 月 19 日登陆 XBOX Cloud Gaming 云游戏服务，XBOX Series X|S 和 XBOX One 主机无需下载，即可通过云游戏体验这款 R 星大作。 不过需要注意的是，《GTA 6》并没有 XBOX One 原生版本。 微软将通过云串流让这款老主机的用户无需购买次世代主机 ， 也能进入雷奥奈达州的广阔世界 。无论玩家使用什么主机进行云游戏，画面设置都是 XBOX Series S 的水平。 遗憾的是 ， PC 玩家并不能够通过 XBOX 云游戏游玩《GTA6》 。这种限制纯",
+     "source": "IT之家",
+     "zh": "微软 XBOX One 主机将支持《GTA6》云游戏，但 PC 玩家无缘"
+    },
+    {
+     "title": "OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告",
+     "link": "https://www.ithome.com/1/025/206.htm",
+     "pubDate": "Tue, 10 Nov 2026 22:55:36 GMT",
+     "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，OpenAI 宣布推出 ChatGPT Businesses 测试版，为企业提供商家信息认领、资料管理、用户互动数据分析以及 AI 智能体等服务，帮助企业通过 ChatGPT 接触潜在客户。 OpenAI 表示，目前全球每周有 12 亿人使用 ChatGPT。Businesses 功能将通过 Business Hub 提供，企业可以在其中认领自己在 ChatGPT 中的商家资料，并在完成身份验证后更新关键信息，还可以添加包含产品价格和库存情况的自助式产品数据源，让 ChatGPT 能够向用户提供更加准确、及时的商品和服务信息。 符",
+     "source": "IT之家",
+     "zh": "OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告"
+    },
+    {
+     "title": "谷歌最强 VLA 机器人模型：Gemini Robotics 2.5 登场，会系蝴蝶结、已在奔驰生产线上岗",
+     "link": "https://www.ithome.com/1/025/188.htm",
+     "pubDate": "Tue, 10 Nov 2026 22:54:44 GMT",
+     "summary": "IT之家 11 月 10 日消息，谷歌推出迄今为止能力最强的视觉-语言-动作（VLA）机器人模型 Gemini Robotics 2.5 ，大幅提升机器人可学习的技能广度与学习速度。 该模型增强了机器人的灵巧度、可靠性与安全性，助力机器人走出实验室，进入更非结构化的真实环境，协助人类完成更多类型的任务。 谷歌今年早些时候已为包括人形机器人在内的多种机器人引入 全身智能 。此次进展很大程度上得益于 Gemini 4 Argon 加速机器人研发的能力，进一步拓展了物理智能的边界。 谷歌在超过 200 项 不同任务中测试了 Gemini Robotics 2.5 的任务广度、性能与复杂度。 Gemi",
+     "source": "IT之家",
+     "zh": "谷歌最强 VLA 机器人模型：Gemini Robotics 2.5 登场，会系蝴蝶结、已在奔驰生产线上岗"
     },
     {
      "title": "Coframe, which uses AI to make websites that test and personalize themselves for each visitor, raised a $25M Series A, bringing its total funding to $35M (Ben Bergman/Business Insider)",
@@ -1785,30 +1825,6 @@
      "zh": "Coframe, which uses AI to make websites that test and personalize themselves for each visitor, raised a $25M Series A, bringing its total funding to $35M (Ben Bergman/Business Insider)"
     },
     {
-     "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程",
-     "link": "https://www.ithome.com/1/025/204.htm",
-     "pubDate": "Tue, 10 Nov 2026 22:43:46 GMT",
-     "summary": "IT之家 11 月 11 日消息，Anthropic 今日开始推出 Claude Whiteboards（白板）、Claude Sheets（表格）和 Claude Data（原 Claude Dashboards），把 AI 助手从“聊天问答”进一步推向团队协作工作台， 用户可以在白板上梳理计划、在表格中搭建追踪器，并把业务数据变成可共享的仪表盘、数据故事或解说视频。 三项产品面向所有付费计划提供，支持网页端、桌面端和移动端；其中白板应用 Whiteboards 与表格 Sheets 目前处于测试阶段，Claude Data 则已正式上线。 官方希望让 Claude 从生成文字、代码或文档，",
-     "source": "IT之家",
-     "zh": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程"
-    },
-    {
-     "title": "谷歌迄今最强模型 Gemini 4 Carbon 登场：主打复杂编程、科学研究与网络安全",
-     "link": "https://www.ithome.com/1/025/203.htm",
-     "pubDate": "Tue, 10 Nov 2026 22:43:37 GMT",
-     "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布正式开放 Gemini 4 Carbon 模型，面向开发者、企业、科研人员和消费者提供服务。 谷歌高级副总裁、DeepMind 首席 AI 架构师 Koray Kavukcuoglu 介绍称，该模型是谷歌目前能力最强的推理模型，重点面向复杂软件工程、多步骤智能体任务、科学研究和网络安全等场景。 Gemini 4 Carbon 于 10 月 28 日首次公布，此前通过 Fairwind Program（网络安全合作计划）向部分网络安全防御人员开放。此次则进一步扩大使用范围。 谷歌称，相较于同期推出的 Gemini 4 Arg",
-     "source": "IT之家",
-     "zh": "谷歌迄今最强模型 Gemini 4 Carbon 登场：主打复杂编程、科学研究与网络安全"
-    },
-    {
-     "title": "OpenAI 收购旅游初创公司 Odessia，探索 AI 旅行智能体业务",
-     "link": "https://www.ithome.com/1/025/202.htm",
-     "pubDate": "Tue, 10 Nov 2026 22:43:22 GMT",
-     "summary": "IT之家 11 月 11 日消息，Odessia 创始人弗朗西斯 · 戴维森（Francis Davidson）今天宣布，OpenAI 已收购 AI 旅行智能体公司 Odessia，他本人也已经加入 OpenAI， 帮助这家 AI 初创公司探索旅游业务发展方向 。 据悉，Odessia 成立仅一年，就拿到了红杉资本领投的 600 万美元 （IT之家注：现汇率约合 4,011.9 万元人民币） 种子前融资，并在大约 5 个月前推出了 AI 旅游智能体服务，帮助早期用户规划价值数百万美元的旅行行程。 OpenAI 发言人证实了上述信息，并表示：“我们非常欢迎戴维森加入 OpenAI，他是一名经验丰",
-     "source": "IT之家",
-     "zh": "OpenAI 收购旅游初创公司 Odessia，探索 AI 旅行智能体业务"
-    },
-    {
      "title": "Best Early Amazon Black Friday Deals (2026)",
      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
      "pubDate": "Tue, 10 Nov 2026 22:42:06 +0000",
@@ -1817,12 +1833,20 @@
      "zh": "Best Early Amazon Black Friday Deals (2026)"
     },
     {
-     "title": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件",
-     "link": "https://www.ithome.com/1/025/201.htm",
-     "pubDate": "Tue, 10 Nov 2026 22:32:07 GMT",
-     "summary": "IT之家 11 月 11 日消息，英伟达今日发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen &amp; Katz，负责开展一项全面、独立的调查。 IT之家注：此次调查此前已于 11 月 8 日对外宣布，调查工作将由金正贤及其所在律所参与推进。 此前，英伟达董事会表示，鉴于近期有关公司创始人兼 CEO 黄仁勋可能成为外国情报机构目标的报道，董事会决定启动独立调查。董事会将成立由独立董事组成的委员会，并在外部独立法律顾问协助下监督调查。 英伟达董事会此前还表示，目前没有理由认为美国国家安全或英伟达的商业机密已",
-     "source": "IT之家",
-     "zh": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件"
+     "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+     "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+     "pubDate": "Tue, 10 Nov 2026 22:35:01 +0000",
+     "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+     "source": "Ars Technica",
+     "zh": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot"
+    },
+    {
+     "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+     "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+     "pubDate": "Tue, 10 Nov 2026 22:17:56 +0000",
+     "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 38 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings"
     },
     {
      "title": "Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions (Jake Bleiberg/Bloomberg)",
@@ -1844,7 +1868,7 @@
      "title": "rVPN – stealth VPN with end-to-end encryption",
      "link": "https://rvpn.org/",
      "pubDate": "Tue, 10 Nov 2026 21:42:50 +0000",
-     "summary": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 21 # Comments: 11",
+     "summary": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 28 # Comments: 22",
      "source": "Hacker News",
      "zh": "rVPN – stealth VPN with end-to-end encryption"
     },
@@ -1868,7 +1892,7 @@
      "title": "Apple has new Mac app coming to make running local AI models easy",
      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
      "pubDate": "Tue, 10 Nov 2026 21:25:03 +0000",
-     "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 41 # Comments: 7",
+     "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 58 # Comments: 22",
      "source": "Hacker News",
      "zh": "Apple has new Mac app coming to make running local AI models easy"
     },
@@ -1889,20 +1913,28 @@
      "zh": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI"
     },
     {
+     "title": "CoreWeave 2026 财年前三季度报归母亏损 20.75 亿美元，同比亏损扩大 178.9%",
+     "link": "https://www.ithome.com/1/025/200.htm",
+     "pubDate": "Tue, 10 Nov 2026 21:11:03 GMT",
+     "summary": "IT之家 11 月 11 日消息，CoreWeave 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入 ：83.14 亿美元 （IT之家注：现汇率约合 555.92 亿元人民币） ，同比增长 133.6% 毛利润 ：55.36 亿美元 （现汇率约合 370.17 亿元人民币） ，同比增长 111.7% 毛利率 ：66.6%，同比下降 6.9 个百分点 归母净利润 ：-20.75 亿美元 （现汇率约合 -138.75 ",
+     "source": "IT之家",
+     "zh": "CoreWeave 2026 财年前三季度报归母亏损 20.75 亿美元，同比亏损扩大 178.9%"
+    },
+    {
      "title": "Six Math Essentials by Terence Tao",
      "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
      "pubDate": "Tue, 10 Nov 2026 20:58:44 +0000",
-     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 52 # Comments: 5",
+     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 70 # Comments: 10",
      "source": "Hacker News",
      "zh": "Six Math Essentials by Terence Tao"
     },
     {
-     "title": "Sherman Anti-Trust Act (1890",
+     "title": "Sherman Anti-Trust Act (1890)",
      "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
      "pubDate": "Tue, 10 Nov 2026 20:56:16 +0000",
-     "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 40 # Comments: 21",
+     "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 49 # Comments: 26",
      "source": "Hacker News",
-     "zh": "Sherman Anti-Trust Act (1890"
+     "zh": "Sherman Anti-Trust Act (1890)"
     },
     {
      "title": "S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO (Cory Weinberg/New York Times)",
@@ -1940,7 +1972,7 @@
      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
      "pubDate": "Tue, 10 Nov 2026 19:50:46 +0000",
-     "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 136 # Comments: 97",
+     "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 193 # Comments: 132",
      "source": "Hacker News",
      "zh": "Toyota brand Scion is back and it's going to sell a kei truck in America"
     },
@@ -1951,30 +1983,6 @@
      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
      "source": "Ars Technica",
      "zh": "Google Fi adds support for a second 5G network, won't say which one"
-    },
-    {
-     "title": "What objective is reasoning solving?",
-     "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-     "pubDate": "Tue, 10 Nov 2026 19:25:14 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 69 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "What objective is reasoning solving?"
-    },
-    {
-     "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
-     "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-     "pubDate": "Tue, 10 Nov 2026 19:00:26 +0000",
-     "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
-     "source": "Ars Technica",
-     "zh": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop"
-    },
-    {
-     "title": "Free video-streaming service Tubi lets users share curated watchlists now",
-     "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
-     "pubDate": "Tue, 10 Nov 2026 18:39:16 +0000",
-     "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
-     "source": "Ars Technica",
-     "zh": "Free video-streaming service Tubi lets users share curated watchlists now"
     },
     {
      "title": "印度年轻人为什么还是找不到好工作？",
@@ -1993,14 +2001,6 @@
      "zh": "Git security vulnerabilities announced"
     },
     {
-     "title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
-     "link": "https://www.ithome.com/1/025/195.htm",
-     "pubDate": "Tue, 10 Nov 2026 17:05:05 GMT",
-     "summary": "IT之家 11 月 11 日消息， AMD 今天（11 月 11 日）发布霄龙（EPYC）嵌入式 9006 系列 SP7 处理器 ，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。 不同于 9 月发布的 AMD 霄龙 9006 系列服务器 CPU（面向智能体 AI、云计算、企业应用等），本次发布的嵌入式 9006 系列 SP7 处理器主要面向半导体 ATE 测试设备、企业存储、高端网络防火墙等关键嵌入式场景。 在插槽规格方面，AMD 霄龙嵌入式 9006 系列",
-     "source": "IT之家",
-     "zh": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍"
-    },
-    {
      "title": "微软宣布 .NET 11",
      "link": "https://www.solidot.org/story?sid=85851",
      "pubDate": "Wed, 11 Nov 2026 00:50:48 +0800",
@@ -2016,6 +2016,38 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Nintendo will soon discontinue Google and Apple sign-ins",
+     "link": "https://9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins/",
+     "pubDate": "Tue, 10 Nov 2026 23:06:46 +0000",
+     "summary": "Nintendo Switch users have until January 25 to change how they sign in to the Nintendo Switch app on their smartphones. more…",
+     "source": "9to5Google",
+     "zh": "Nintendo will soon discontinue Google and Apple sign-ins"
+    },
+    {
+     "title": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update",
+     "link": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
+     "pubDate": "Tue, 10 Nov 2026 23:00:00 +0000",
+     "summary": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
+     "source": "Engadget",
+     "zh": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update"
+    },
+    {
+     "title": "Adobe's AI assistant learns to work in the background, and Google is helping out",
+     "link": "https://www.gsmarena.com/adobes_ai_assistant_learns_to_work_in_the_background_and_google_is_helping_out-news-75428.php",
+     "pubDate": "Tue, 10 Nov 2026 23:59:02 +0100",
+     "summary": "Adobe is holding its Max conference in Miami Beach today, and it has used the occasion to announce a bunch of new AI features, along with an expanded partnership with Google. The most interesting of the former is what Adobe calls always-on agents, which are coming to its Firefly AI Assistant in earl",
+     "source": "GSMArena",
+     "zh": "Adobe's AI assistant learns to work in the background, and Google is helping out"
+    },
+    {
+     "title": "CleanupBuddy 2.0 expands beyond the keyboard with new display cleaning features",
+     "link": "https://9to5mac.com/2026/11/10/cleanupbuddy-2-0-expands-beyond-the-keyboard-with-new-display-cleaning-features/",
+     "pubDate": "Tue, 10 Nov 2026 22:56:55 +0000",
+     "summary": "Developer Gui Rambo updated CleanupBuddy today, expanding its ability to prevent accidental inputs while cleaning your Mac from the keyboard to the touchscreen. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "CleanupBuddy 2.0 expands beyond the keyboard with new display cleaning features"
+    },
     {
      "title": "Google details everything new in Android 17 QPR2",
      "link": "https://www.androidauthority.com/android-17-qpr2-stable-3733645/",
@@ -2185,14 +2217,6 @@
      "zh": "New York will independently test AI models"
     },
     {
-     "title": "November Pixel Watch Drop: Create My Widget, Phone-to-Watch Unlock, and Wear OS 7.1",
-     "link": "https://9to5google.com/2026/11/10/november-2026-pixel-watch-drop/",
-     "pubDate": "Tue, 10 Nov 2026 19:01:00 +0000",
-     "summary": "Besides a big update for phones , there’s also a sizable Pixel Watch Drop today, but it’s mostly a preview of what’s to come. more…",
-     "source": "9to5Google",
-     "zh": "November Pixel Watch Drop: Create My Widget, Phone-to-Watch Unlock, and Wear OS 7.1"
-    },
-    {
      "title": "HiLight on Pixel 11 Pro phones now supports Google Messages",
      "link": "https://www.androidauthority.com/pixel-11-hilight-messages-3733139/",
      "pubDate": "Tue, 10 Nov 2026 19:00:51 +0000",
@@ -2207,14 +2231,6 @@
      "summary": "No longer a Pixel 11 exclusive.",
      "source": "Android Authority",
      "zh": "Gboard’s Rambler voice typing expands to the Pixel 10 series"
-    },
-    {
-     "title": "How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026?",
-     "link": "https://www.engadget.com/2307807/how-much-asus-rog-zephyrus-g14-cost-2020-vs-2026/",
-     "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
-     "summary": "You've adjusted for inflation, but the math isn't mathing. We can explain why you may be feeling sticker shock over the cost of a ASUS ROG Zephyrus G14.",
-     "source": "Engadget",
-     "zh": "How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026?"
     },
     {
      "title": "The Close-up Photographer of the Year shortlist shows off photos with an intimate perspective",
@@ -2239,22 +2255,6 @@
      "summary": "Now that we've wrapped up the Xiaomi 18 Pro Max unboxing, it's time to do the Xiaomi 18 Pro. Video unboxing on TikTok here. Like the Max, the Xiaomi 18 Pro comes with a USB-A to USB-C cable and a transparent case. The case is simple and solid. It adds a feel of reassurance, and it also has the benef",
      "source": "GSMArena",
      "zh": "Xiaomi 18 Pro in for review"
-    },
-    {
-     "title": "The Nikon Z5IIC is small on price, not on image quality",
-     "link": "https://www.dpreview.com/articles/z5iic-studio-scene-image-quality/",
-     "pubDate": "Tue, 10 Nov 2026 16:37:29 +0000",
-     "summary": "We've added the Z5IIC to our studio scene, and it's looking good.",
-     "source": "DPReview",
-     "zh": "The Nikon Z5IIC is small on price, not on image quality"
-    },
-    {
-     "title": "Google Wallet gains support for overseas QR payments",
-     "link": "https://www.gsmarena.com/google_wallet_gains_support_for_overseas_qr_payments-news-75423.php",
-     "pubDate": "Tue, 10 Nov 2026 16:31:02 +0100",
-     "summary": "With the release of the latest version of Google Play Services, Google Wallet has gained support for \"Traveler QR\". This will let you pay with QR codes when you're traveling. That's a huge help in some countries which don't have a lot of contactless payment infrastructure. When you get this feature,",
-     "source": "GSMArena",
-     "zh": "Google Wallet gains support for overseas QR payments"
     }
    ]
   },
@@ -2265,84 +2265,108 @@
    "total": 13,
    "items": [
     {
+     "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+     "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+     "pubDate": "Tue, 10 Nov 2026 23:08:40 GMT",
+     "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+     "source": "CNBC",
+     "zh": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns"
+    },
+    {
+     "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+     "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+     "pubDate": "Tue, 10 Nov 2026 23:06:44 GMT",
+     "summary": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China, told CNBC he expects answers about Jensen Huang's relationship.",
+     "source": "CNBC",
+     "zh": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security"
+    },
+    {
+     "title": "Hegseth impeachment effort torpedoed in House",
+     "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+     "pubDate": "Tue, 10 Nov 2026 23:06:42 GMT",
+     "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
+     "source": "CNBC",
+     "zh": "Hegseth impeachment effort torpedoed in House"
+    },
+    {
+     "title": "Mobile Infrastructure reiterates 2026 guidance with revenue at low end of $35M-$38M range",
+     "link": "https://seekingalpha.com/news/4670342-mobile-infrastructure-reiterates-2026-guidance-with-revenue-at-low-end-of-35m-38m-range?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 18:02:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mobile Infrastructure reiterates 2026 guidance with revenue at low end of $35M-$38M range"
+    },
+    {
+     "title": "Nine Energy projects Q4 revenue of $137M-$147M while returning a coiled tubing unit in December",
+     "link": "https://seekingalpha.com/news/4670341-nine-energy-projects-q4-revenue-of-137m-147m-while-returning-a-coiled-tubing-unit-in-december?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 18:02:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nine Energy projects Q4 revenue of $137M-$147M while returning a coiled tubing unit in December"
+    },
+    {
+     "title": "Co-Diagnostics outlines India TB submission with ~97.3% sensitivity and ~96% specificity as $6.2M Q3 operating expenses decline 12%",
+     "link": "https://seekingalpha.com/news/4670340-co-diagnostics-outlines-india-tb-submission-with-97_3-percent-sensitivity-and-96-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 18:02:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Co-Diagnostics outlines India TB submission with ~97.3% sensitivity and ~96% specificity as $6.2M Q3 operating expenses decline 12%"
+    },
+    {
+     "title": "Here are the major earnings before the open Wednesday",
+     "link": "https://seekingalpha.com/news/4669767-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 18:00:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Here are the major earnings before the open Wednesday"
+    },
+    {
+     "title": "Agilyx ASA reports Q3 results",
+     "link": "https://seekingalpha.com/news/4670338-agilyx-asa-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 17:57:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Agilyx ASA reports Q3 results"
+    },
+    {
+     "title": "One reason Children’s Place is going bankrupt? Not enough children.",
+     "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 22:56:00 GMT",
+     "summary": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
+     "source": "MarketWatch",
+     "zh": "One reason Children’s Place is going bankrupt? Not enough children."
+    },
+    {
+     "title": "抢在Anthropic IPO前出手！投资者据称兜售配售份额，溢价高达5%",
+     "link": "https://wallstreetcn.com/articles/3785685",
+     "pubDate": "Wed, 11 Nov 2026 06:55:28 +0800",
+     "summary": "新近消息显示，Anthropic IPO尚未正式定价，部分现有投资者已提前兜售预期获得的发行配售份额，向买家要求高于IPO发行价3%至5%的溢价。 据彭博社美东时间10日周二的报道，交易机构JonesTrading正代表部分投资者推介一笔最高达5亿美元的股票份额，显示市场对这场热门AI公司IPO的需求已提前升温。 以上消息并不意味着Anthropic股票已经在二级市场上市流通，而是代表，投资者提前转让预期获得的IPO配售份额。买家需要在最终发行价基础上额外支付溢价，以换取提前锁定股份的机会。 最高5亿美元配售份额待售，买家需支付额外溢价 据彭博社报道，JonesTrading正代表部分Anth",
+     "source": "华尔街见闻",
+     "zh": "抢在Anthropic IPO前出手！投资者据称兜售配售份额，溢价高达5%"
+    },
+    {
+     "title": "Dundee Preference shares Series 3 GAAP EPS of $0.53",
+     "link": "https://seekingalpha.com/news/4670337-dundee-preference-shares-series-3-gaap-eps-of-0_53?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 17:54:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dundee Preference shares Series 3 GAAP EPS of $0.53"
+    },
+    {
+     "title": "英伟达继续大跌，两日市值蒸发4300亿美元，微软一度重夺全球第二",
+     "link": "https://wallstreetcn.com/articles/3785679",
+     "pubDate": "Wed, 11 Nov 2026 06:50:30 +0800",
+     "summary": "英伟达股价连续第二个交易日下跌，周二跌幅一度超6%，两日市值损失4300亿美元。 周二，英伟达跌幅明显大于其他大型科技股，成为拖累科技股表现的重要因素。 微软收跌2.2%，Alphabet跌约0.4%，Meta收平，苹果跌约0.6%，特斯拉涨0.5%，亚马逊上涨约1.5%。标普500指数下跌约0.4%，纳斯达克100指数下跌0.6%。 美股盘中微软市值曾一度超越英伟达，成为全球市值第二大的上市公司。后由于Anthropic发布办公套件，微软跌幅扩大，再次落后于英伟达。 股东提起集体诉讼，公司治理风险进一步发酵 股价承压之际，英伟达还面临新的法律和公司治理压力。一名股东已于周一在加利福尼亚州提起",
+     "source": "华尔街见闻",
+     "zh": "英伟达继续大跌，两日市值蒸发4300亿美元，微软一度重夺全球第二"
+    },
+    {
      "title": "美国10年期国债票面利率升至5%，创2006年以来新高，拍卖需求降温",
      "link": "https://wallstreetcn.com/articles/3785682",
      "pubDate": "Wed, 11 Nov 2026 06:48:23 +0800",
      "summary": "美国财政部最新一轮10年期国债拍卖显示，美国中长期融资成本维持高位。 当地时间周二，美国财政部发行420亿美元10年期国债，得标收益率为5.020%，票面利率定为5%，创2006年以来最高水平。 与此同时，本次拍卖需求较上次有所减弱。投标倍数从10月7日的2.77降至2.46，不仅低于前次水平，也低于过去10次同期限国债拍卖2.54的平均值。 同日，美国公布 10月通胀数据 ，高于市场预期，加上 美联储官员持续释放鹰派信号 ，推动市场重新评估未来利率路径，进一步增加了债券市场的压力。 周二美国10年期国债收益率一度升至5.012%，截至发稿上行13个基点，报4.99%。 拍卖需求低于近期平均水",
      "source": "华尔街见闻",
      "zh": "美国10年期国债票面利率升至5%，创2006年以来新高，拍卖需求降温"
-    },
-    {
-     "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-     "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-     "pubDate": "Tue, 10 Nov 2026 22:47:13 GMT",
-     "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
-     "source": "CNBC",
-     "zh": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns"
-    },
-    {
-     "title": "Altius Minerals Non-GAAP EPS of C$0.18, revenue of C$19.6M",
-     "link": "https://seekingalpha.com/news/4670333-altius-minerals-non-gaap-eps-of-c018-revenue-of-c196m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 17:43:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Altius Minerals Non-GAAP EPS of C$0.18, revenue of C$19.6M"
-    },
-    {
-     "title": "Freenome GAAP EPS of $0.58 beats by $0.49, revenue of $183.49M beats by $98.64M",
-     "link": "https://seekingalpha.com/news/4670332-freenome-gaap-eps-of-0_58-beats-by-0_49-revenue-of-183_49m-beats-by-98_64m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 17:42:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Freenome GAAP EPS of $0.58 beats by $0.49, revenue of $183.49M beats by $98.64M"
-    },
-    {
-     "title": "PetMeds outlines turnaround plan as customer acquisition cost falls 32% to $51",
-     "link": "https://seekingalpha.com/news/4670331-petmeds-outlines-turnaround-plan-as-customer-acquisition-cost-falls-32-percent-to-51?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 17:42:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PetMeds outlines turnaround plan as customer acquisition cost falls 32% to $51"
-    },
-    {
-     "title": "Hamamatsu Photonics K.K. GAAP EPS of ¥67.94, revenue of ¥243.4B",
-     "link": "https://seekingalpha.com/news/4670330-hamamatsu-photonics-kk-gaap-eps-of-6794-revenue-of-2434b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 17:41:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hamamatsu Photonics K.K. GAAP EPS of ¥67.94, revenue of ¥243.4B"
-    },
-    {
-     "title": "Braveheart Bio, Inc. GAAP EPS of -$0.51 misses by $0.07",
-     "link": "https://seekingalpha.com/news/4670328-braveheart-bio-inc-gaap-eps-of-0_51-misses-by-0_07?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 17:40:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Braveheart Bio, Inc. GAAP EPS of -$0.51 misses by $0.07"
-    },
-    {
-     "title": "FalconStor Software reports Q3 results",
-     "link": "https://seekingalpha.com/news/4670326-falconstor-software-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 17:39:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FalconStor Software reports Q3 results"
-    },
-    {
-     "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-     "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-     "pubDate": "Tue, 10 Nov 2026 22:39:30 GMT",
-     "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
-     "source": "CNBC",
-     "zh": "Fossil CEO says turnaround is ahead of plan as sales return to growth"
-    },
-    {
-     "title": "House begins voting on Hegseth impeachment measure",
-     "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-     "pubDate": "Tue, 10 Nov 2026 22:38:14 GMT",
-     "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
-     "source": "CNBC",
-     "zh": "House begins voting on Hegseth impeachment measure"
     },
     {
      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
@@ -2361,12 +2385,28 @@
      "zh": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon."
     },
     {
-     "title": "CPI超预期叠加美联储放鹰，美股指承压，美债收益率跳升，美元大涨，黄金下挫",
+     "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
      "link": "https://wallstreetcn.com/articles/3785613",
      "pubDate": "Wed, 11 Nov 2026 06:23:19 +0800",
      "summary": "超预期的美国通胀数据与多位联储官员的鹰派信号共振，令市场对美联储更激进加息的押注骤然升温，债市首当其冲，科技股大幅回调，美元走强压制避险资产。 美国10月CPI环比涨幅超出预期，联储理事Christopher Waller随即警告若通胀数据偏强，12月会议上可能需要考虑加息50个基点，随后达拉斯联储主席Logan和堪萨斯城联储主席Jeff Schmid相继发表鹰派言论，市场对12月大幅加息的定价大幅重新调整。 2年期美债收益率单日飙升逾20个基点，创去年关税风波以来最大单日涨幅；10年期收益率重新突破5.00%关口。受此拖累，美股全线下挫，标普500指数收跌0.38%，纳斯达克综合指数跌0.7",
      "source": "华尔街见闻",
-     "zh": "CPI超预期叠加美联储放鹰，美股指承压，美债收益率跳升，美元大涨，黄金下挫"
+     "zh": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌"
+    },
+    {
+     "title": "全球市场：美股三大指数收跌 芯片股走势分化 英伟达跌超5%",
+     "link": "http://stock.eastmoney.com/news/11784,202611113927736276.html",
+     "pubDate": "Wed, 11 Nov 2026 06:15:48 +0800",
+     "summary": "美股市场： 美股三大指数11月10日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌157.86点，收于52231.89点，跌幅为0.3%； 标准普尔 500种股票指数下跌29.01点，收于7520.93点，跌幅为0.38%； 纳斯达克 综合 指数下跌187.27点，收于25065.87点，跌幅为0.74%。 “科技七巨头”涨跌不一， 亚马逊 涨1.48%， 特斯拉 涨0.46%，Meta持平； 谷歌-A 跌0.27%， 苹果 跌0.62%， 微软 跌2.20%， 英伟达 跌5.47%。 芯片股走势分化，存储板块表现疲软。个股方面， 博通 涨3.91%， 台积电 涨2.02%，恩智浦",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数收跌 芯片股走势分化 英伟达跌超5%"
+    },
+    {
+     "title": "CoreWeave Q3营收超预期大涨168%，全年指引上调｜财报见闻",
+     "link": "https://wallstreetcn.com/articles/3785683",
+     "pubDate": "Wed, 11 Nov 2026 06:06:58 +0800",
+     "summary": "AI云计算提供商CoreWeave发布强劲季报，并上调全年收入指引，暂时缓解了市场对这家高负债企业增长放缓的担忧。 公司周二公布第三季度营收36.61亿美元，同比增长168%，超出分析师预期，并将2026年全年收入指引上调至130亿至133亿美元。 受此消息提振，CoreWeave盘后股价上涨约2%，但该股今年以来累计跌幅仍达32%。 季报的超预期表现为近期饱受压力的AI云计算行业提供了一定支撑。然而，分析人士指出，高额债务成本与行业层面的政策逆风仍是悬于公司头顶的隐忧，结构性挑战短期内难以消解。 营收与利润双超预期 CoreWeave第三季度营收36.61亿美元，高于分析师预期的35.6亿美",
+     "source": "华尔街见闻",
+     "zh": "CoreWeave Q3营收超预期大涨168%，全年指引上调｜财报见闻"
     },
     {
      "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
@@ -2375,6 +2415,14 @@
      "summary": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation",
      "source": "MarketWatch",
      "zh": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal"
+    },
+    {
+     "title": "11月11日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11158,202611113927730855.html",
+     "pubDate": "Wed, 11 Nov 2026 06:03:27 +0800",
+     "summary": "11月11日(星期三)，今日报刊头条主要内容精华如下： 中国证券报 分拆 阿里平头哥申请独立上市 11月10日晚， 阿里巴巴 公告称，已申请旗下子公司平头哥在香港联交所主板独立上市。上市完成后，平头哥仍将是 阿里巴巴 子公司。公告显示，9月11日，平头哥以保密形式向香港联交所递交上市申请。IPO具体规模尚未最终确定。 近27亿元资金抢筹“易中天” 11月10日，A股三大指数集体收涨，光 通信 龙头再次成为A股主力资金集中买入的方向。数据显示， 新易盛 、 中际旭创 、 天孚通信 主力资金合计净流入26.96亿元，三只个股全部进入主力资金净流入额前十名榜单。从行业来看， 电子 、 传媒 、 通信",
+     "source": "东方财富资讯",
+     "zh": "11月11日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
      "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
@@ -2393,12 +2441,36 @@
      "zh": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress"
     },
     {
+     "title": "东方财富财经早餐 11月11日周三",
+     "link": "http://finance.eastmoney.com/news/11158,202611103927671985.html",
+     "pubDate": "Wed, 11 Nov 2026 06:00:38 +0800",
+     "summary": "每日精选 《基金会管理条例》修订 ： 国务院总理李强日前签署国务院令，公布修订后的《基金会管理条例》，自2027年1月1日起施行。 《条例》旨在加强基金会公信力建设，促进基金会健康有序发展 。其中提到，完善募捐、捐赠、资助等活动要求，对互联网公开募捐、合作公开募捐进行规范。加强财产管理，明确收益应当全部用于公益目的。严格项目管理，要求对项目实施情况跟踪管理。 美国10月CPI高于预期： 美国10月消费者价格指数（CPI）环比增长0.4%，预估为0.3%，前值为0.6%。美国劳工统计局表示，受去年政府停摆影响，不会公布10月CPI同比数据。美国10月核心消费者价格指数（CPI）环比增长0.3%，",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月11日周三"
+    },
+    {
+     "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+     "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+     "pubDate": "Tue, 10 Nov 2026 21:45:46 GMT",
+     "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
+     "source": "CNBC",
+     "zh": "White House vows to press ahead with tariffs despite midterm backlash over rising prices"
+    },
+    {
      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
      "pubDate": "Tue, 10 Nov 2026 21:42:00 GMT",
      "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
      "source": "MarketWatch",
      "zh": "Stocks fall as the 10-year Treasury yield nears 5% mark"
+    },
+    {
+     "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
+     "link": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1",
+     "pubDate": "Tue, 10 Nov 2026 21:38:55 GMT",
+     "summary": "British Counter Terrorism Policing’s investigation involves the FBI and American military",
+     "source": "Financial Times",
+     "zh": "Senior US soldier arrested in UK on suspicion of spying for Russia"
     },
     {
      "title": "How the stock market has performed after Veterans Day over the past decade",
@@ -2409,14 +2481,6 @@
      "zh": "How the stock market has performed after Veterans Day over the past decade"
     },
     {
-     "title": "My friend feels trapped at her job but won’t do anything about it. Am I supposed to step in?",
-     "link": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 21:22:00 GMT",
-     "summary": "“She’s handed over the fate of her happiness to this job.”",
-     "source": "MarketWatch",
-     "zh": "My friend feels trapped at her job but won’t do anything about it. Am I supposed to step in?"
-    },
-    {
      "title": "OpenAI推出ChatGPT企业功能，向谷歌广告市场发起挑战",
      "link": "https://wallstreetcn.com/articles/3785678",
      "pubDate": "Wed, 11 Nov 2026 05:12:07 +0800",
@@ -2425,84 +2489,20 @@
      "zh": "OpenAI推出ChatGPT企业功能，向谷歌广告市场发起挑战"
     },
     {
-     "title": "IPO路演日加码企业办公市场！Anthropic推出多款AI工具，正面挑战微软Office",
-     "link": "https://wallstreetcn.com/articles/3785673",
-     "pubDate": "Wed, 11 Nov 2026 05:11:55 +0800",
-     "summary": "Anthropic在启动IPO路演当天密集推出一系列企业办公工具，覆盖视频会议、电子表格、团队白板和企业数据分析等场景。在首次公开募股进入关键阶段之际，这家公司进一步展示了Claude在基础模型之外的企业应用布局，试图向投资者证明其商业化潜力不只来自AI模型本身，也来自对企业办公市场的持续渗透。 美东时间10日周二，Anthropic发布三项新工具：能够实时加入视频会议并执行任务的Claude Meetings、支持团队共同编辑的Claude Whiteboards，以及可由AI创建和修改的Claude Sheets。此外，原名Claude Dashboards的数据分析产品正式更名为Clau",
-     "source": "华尔街见闻",
-     "zh": "IPO路演日加码企业办公市场！Anthropic推出多款AI工具，正面挑战微软Office"
+     "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
+     "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
+     "pubDate": "Tue, 10 Nov 2026 20:05:21 GMT",
+     "summary": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
+     "source": "Financial Times",
+     "zh": "US commerce department delays Megaspeed’s inclusion on trade blacklist"
     },
     {
-     "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
-     "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-     "pubDate": "Tue, 10 Nov 2026 21:11:36 GMT",
-     "summary": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
-     "source": "CNBC",
-     "zh": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security"
-    },
-    {
-     "title": "Anthropic公布路演视频，瞄准35%长期经营利润目标",
-     "link": "https://wallstreetcn.com/articles/3785675",
-     "pubDate": "Wed, 11 Nov 2026 05:10:31 +0800",
-     "summary": "在美东时间10日周二公布的IPO路演视频中，Anthropic披露长期盈利目标：公司相信，随着算力效率提升、直接采购和租赁算力的比例增加，以及推理业务占比扩大，长期调整后经营利润率有望达到35%以上，较今年第三季度的15%提高20个百分点以上。 周二稍早Anthropic提交美国证监会的更新版招股书显示，七位联合创始人计划在IPO中合计出售约17.5亿美元股票；高盛分析师则预计，Anthropic到2030年的年度营收有望达到6850亿美元。 这意味着，Anthropic正试图在IPO路演中向投资者展示一条从高速增长走向高利润率的路径。不过，对于35%以上这个长期目标，该司并未给出明确实现时间",
-     "source": "华尔街见闻",
-     "zh": "Anthropic公布路演视频，瞄准35%长期经营利润目标"
-    },
-    {
-     "title": "Anthropic IPO定价在即：高盛预测2030年营收破6850亿，7位创始人IPO套现17.5亿美元",
-     "link": "https://wallstreetcn.com/articles/3785677",
-     "pubDate": "Wed, 11 Nov 2026 05:10:19 +0800",
-     "summary": "Anthropic正以史上最具野心的IPO姿态叩响资本市场大门，而其主承销行高盛的预测模型为这场盛宴提供了最强力的背书。 11月10日，据彭博社援引知情人士透露， 高盛研究团队预测Anthropic到2030年营收将达约6850亿美元，较该公司2025年的46亿美元增长逾130倍 。 与此同时 华尔街见闻提及 ，Anthropic已启动IPO路演，寻求以约1.4万亿美元的完全稀释后估值完成融资，计划于11月18日（周三）定价，次日开始交易。 承销银行周二上午已开始与潜在投资者举行会议，推介这笔目标融资规模达904亿美元（含260亿美元私募配售）的IPO。 公司七位联合创始人将在此次发行中合计套",
-     "source": "华尔街见闻",
-     "zh": "Anthropic IPO定价在即：高盛预测2030年营收破6850亿，7位创始人IPO套现17.5亿美元"
-    },
-    {
-     "title": "布莱恩·杰克当选美国共和党全国众议院竞选委员会主席",
-     "link": "http://finance.eastmoney.com/news/1351,202611113927732273.html",
-     "pubDate": "Wed, 11 Nov 2026 04:58:28 +0800",
-     "summary": "布莱恩·杰克当选美国共和党全国众议院竞选委员会主席。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "布莱恩·杰克当选美国共和党全国众议院竞选委员会主席"
-    },
-    {
-     "title": "图恩连任参议院共和党领袖 领导层基本维持不变",
-     "link": "http://finance.eastmoney.com/news/1351,202611113927732349.html",
-     "pubDate": "Wed, 11 Nov 2026 04:58:10 +0800",
-     "summary": "据Axios报道，参议院多数党领袖约翰·图恩周二成功连任参议院共和党领袖，将在共和党失去参议院多数席位后继续领导党团。此前，部分共和党参议员试图将领导层选举推迟至少一周，但最终以31票赞成、15票反对未能通过。共和党参议院领导团队基本维持不变，参议员伯尼·莫雷诺将接替蒂姆·斯科特，担任全国共和党参议员委员会主席。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "图恩连任参议院共和党领袖 领导层基本维持不变"
-    },
-    {
-     "title": "俄罗斯、美国与乌克兰之间的谈判将于11月11日莫斯科时间上午11点在阿布扎比开始",
-     "link": "http://finance.eastmoney.com/news/1351,202611113927732085.html",
-     "pubDate": "Wed, 11 Nov 2026 04:55:27 +0800",
-     "summary": "俄罗斯、美国与乌克兰之间的谈判将于11月11日莫斯科时间上午11点在阿布扎比开始。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯、美国与乌克兰之间的谈判将于11月11日莫斯科时间上午11点在阿布扎比开始"
-    },
-    {
-     "title": "桑德斯称美对以军事援助是敏感话题 须辩论讨论",
-     "link": "http://finance.eastmoney.com/news/1351,202611113927731973.html",
-     "pubDate": "Wed, 11 Nov 2026 04:53:17 +0800",
-     "summary": "美国民主党参议员桑德斯：我认为美国对以色列的军事援助在数千万民众中确实是一个非常敏感的话题。这些问题必须进行辩论和讨论。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "桑德斯称美对以军事援助是敏感话题 须辩论讨论"
-    },
-    {
-     "title": "美国司法部称 伊朗支持的武装分子在美国监狱中协助策划了对英国费尔福德基地的袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202611113927731830.html",
-     "pubDate": "Wed, 11 Nov 2026 04:48:43 +0800",
-     "summary": "美国司法部称，伊朗支持的武装分子在美国监狱中协助策划了对英国费尔福德基地的袭击。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国司法部称 伊朗支持的武装分子在美国监狱中协助策划了对英国费尔福德基地的袭击"
-    },
-    {
-     "title": "伊朗议会议长卡利巴夫：中国在推动结束战争方面发挥着重要作用",
-     "link": "http://finance.eastmoney.com/news/1351,202611113927731576.html",
-     "pubDate": "Wed, 11 Nov 2026 04:46:42 +0800",
-     "summary": "伊朗议会议长卡利巴夫：中国在推动结束战争方面发挥着重要作用。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗议会议长卡利巴夫：中国在推动结束战争方面发挥着重要作用"
+     "title": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
+     "link": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
+     "pubDate": "Tue, 10 Nov 2026 19:24:52 GMT",
+     "summary": "Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy",
+     "source": "Financial Times",
+     "zh": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe"
     }
    ]
   },

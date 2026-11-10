@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/10 08:12:02",
+ "generated_at": "2026/11/10 08:15:52",
  "recent_days": 7,
  "industries": [
   {
@@ -13,7 +13,7 @@ window.INDUSTRY_DATA = {
      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
      "pubDate": "Mon, 09 Nov 2026 23:28:37 +0000",
-     "summary": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+     "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
      "source": "TechCrunch AI",
      "zh": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago"
     },
@@ -914,14 +914,6 @@ window.INDUSTRY_DATA = {
      "zh": "Arizona’s longest-tenured utility commissioner on large loads, affordability and Western markets"
     },
     {
-     "title": "PPL increases capital plan to $25B with proposed Kentucky gas plant",
-     "link": "https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/",
-     "pubDate": "Mon, 09 Nov 2026 11:38:05 -0500",
-     "summary": "The company projects some 50 GW of potential load growth, mostly from data centers, across Kentucky and Pennsylvania.&nbsp;CEO Vincent Sorgi suggested those states could see a influx of projects due to restrictions in other regions.",
-     "source": "Utility Dive",
-     "zh": "PPL increases capital plan to $25B with proposed Kentucky gas plant"
-    },
-    {
      "title": "Global Solar Council to unveil 300 million solar rooftop declaration at COP31",
      "link": "https://www.pv-tech.org/global-solar-council-to-unveil-rooftop-solar-declaration-at-cop31-as-governments-commit-to-300m-solar-homes/",
      "pubDate": "Mon, 09 Nov 2026 15:11:11 +0000",
@@ -968,14 +960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Europe’s corporate renewable energy buyers and sellers have shifted their focus from price to risk allocation as negative prices erode solar-only contracts and battery-backed hybrid deals move to the center of the market, according to discussions last week at RE-Source 2026 in Amsterdam. The post Ke",
      "source": "pv magazine",
      "zh": "Key takeaways from RE-Source 2026 in Amsterdam"
-    },
-    {
-     "title": "Inside the ‘pressure cooker’: Electric utility regulators gather in wake of electoral earthquake",
-     "link": "https://www.utilitydive.com/news/grid-investment-affordability-naruc-state-policy/874080/",
-     "pubDate": "Mon, 09 Nov 2026 08:16:11 -0500",
-     "summary": "Newly elected leaders and customers are &ldquo;questioning our foundational regulatory approaches,&rdquo; Ann Rendahl, president of the National Association of Regulatory Utility Commissioners, told her peers and industry stakeholders.",
-     "source": "Utility Dive",
-     "zh": "Inside the ‘pressure cooker’: Electric utility regulators gather in wake of electoral earthquake"
     },
     {
      "title": "IEA forecasts 3.6TW of new solar PV by 2031",
@@ -1088,6 +1072,22 @@ window.INDUSTRY_DATA = {
      "summary": "In order to enable capital execution and capacity expansion, nuclear utilities must pair recruitment with strong retention and engagement.",
      "source": "Utility Dive",
      "zh": "Beyond megawatts: Nuclear’s other capacity expansion challenge"
+    },
+    {
+     "title": "Behind-the-meter power: An effective tool for bringing large utility customers online faster",
+     "link": "https://www.utilitydive.com/spons/behind-the-meter-power-an-effective-tool-for-bringing-large-utility-custom/833709/",
+     "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+     "summary": "Behind-the-meter (BTM) power is becoming an effective solution to bridge the gap between what the grid can provide and what data centers need to operate smoothly.",
+     "source": "Utility Dive",
+     "zh": "Behind-the-meter power: An effective tool for bringing large utility customers online faster"
+    },
+    {
+     "title": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/pacific-blue-refers-855mwh-battery-storage-system-in-victoria-to-australias-epbc-act/",
+     "pubDate": "Mon, 09 Nov 2026 09:23:07 +0000",
+     "summary": "Australian renewable energy generator and retailer Pacific Blue has referred an 855MWh BESS in Victoria to Australia's EPBC Act.",
+     "source": "Energy Storage News",
+     "zh": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act"
     }
    ]
   },
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "厦金大桥（厦门段）海上主线桥贯通，预计今年底建成通车",
+     "link": "https://www.ithome.com/1/024/589.htm",
+     "pubDate": "Tue, 10 Nov 2026 00:10:46 GMT",
+     "summary": "IT之家 11 月 10 日消息，据央视新闻报道，今天（11 月 10 日）凌晨，随着最后一榀钢箱梁吊装到位，厦金大桥（厦门段）海上主线桥顺利合龙，标志着厦金大桥（厦门段）海上主线桥主体结构建设完成，项目进入通车前的收尾阶段。 最后这一榀钢箱梁重达 3318 吨，体量大、吊装精度高，基准温度要控制在约 22℃，施工人员利用 5500 吨级浮吊船将钢箱梁吊起，缓缓送入合龙口，再通过千斤顶同步控制进行精调。 IT之家注意到，此次合龙的刘五店航道东侧非通航孔桥是厦金大桥（厦门段）海上主线桥最后一个合龙桥段。全长约 14.2 公里的海上主线桥由观音山互通主线桥、刘五店航道桥、金通航道桥等 12 个桥段",
+     "source": "IT之家",
+     "zh": "厦金大桥（厦门段）海上主线桥贯通，预计今年底建成通车"
+    },
+    {
+     "title": "说中国创新药BD收不到回款的，最近被打脸了",
+     "link": "https://www.huxiu.com/article/4904311.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 08:09:38 +0800",
+     "summary": "本文来自微信公众号： 动脉网 ，作者：王世薇 一直以来，数量与质量的错配，是人们谈及中国创新药BD兴起时绕不开的话题。而早期高企的退货率，也似乎验证了这种质疑。此前据动脉网统计，截至2025年4月，2020年落地的中国创新药BD，退货率达40%，2021年至2022年间的交易，退货率也近20%，远高于全球同期约8.6%的退货率。 而眼下，这一尴尬局面出现了裂痕。2025年下半年以来，公开披露的出海合作终止事件骤降至10起以下，尽管涉及的宜明昂科与Instil Bio、恒瑞与德国默克等大案曾引发广泛讨论，但更多的BD管线被留下，并受到买方重用。 10月20日，泽璟制药公告收到艾伯维支付的1000",
+     "source": "虎嗅",
+     "zh": "说中国创新药BD收不到回款的，最近被打脸了"
+    },
+    {
      "title": "Take-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI (Jason Schreier/Bloomberg)",
      "link": "https://www.techmeme.com/261109/p47#a261109p47",
      "pubDate": "Mon, 09 Nov 2026 19:05:01 -0500",
@@ -1810,14 +1826,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果 iOS/iPadOS 27.2.1 正式版发布"
     },
     {
-     "title": "全球首款配自动追踪灯的安防摄像头：安克 eufy 发布 TrackLight Cam S1，最远 12 米威慑可疑陌生人",
-     "link": "https://www.ithome.com/1/024/581.htm",
-     "pubDate": "Tue, 10 Nov 2026 00:01:58 GMT",
-     "summary": "IT之家 11 月 10 日消息，安克（Anker）旗下智能家居品牌 eufy 于 11 月 9 日推出户外安防摄像头 Eufy TrackLight Cam S1 。官方称其为全球首款配备“自动追踪灯”的户外安防摄像头，可通过光束主动锁定并跟随可疑人员，从而提升家庭安防的威慑能力。 当摄像头识别到可疑人员后，TrackLight 会从最远约 12 米（40 英尺）处锁定目标，并随其移动持续照射。光束会根据目标距离自动调整：目标较远时收窄，靠近时则扩大，从而让被追踪者始终处于照明范围内。摄像头支持 355 度水平旋转，追踪速度最高可达每秒 87 度。 在威慑功能上，用户可开启“追踪威慑模式”，",
-     "source": "IT之家",
-     "zh": "全球首款配自动追踪灯的安防摄像头：安克 eufy 发布 TrackLight Cam S1，最远 12 米威慑可疑陌生人"
-    },
-    {
      "title": "大水取代大蓝桶，中国的“大家庭”时代结束了",
      "link": "https://www.huxiu.com/article/4903533.html?f=rss",
      "pubDate": "Tue, 10 Nov 2026 08:00:00 +0800",
@@ -1856,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 霸道总裁爱上绝经期的我 上半年跟某坡县回来的朋友喝酒的时候，他无意中说：“你在新加坡一点要小心A开头的姑娘，无论她叫Alice还是叫Anna，也许她叫这个名字不见得是真喜欢这个名字，而是只想在你通讯录里面排名最靠前而已”。我没接茬但是心想：这不是当年王传福的AAA电池王总的梗么？这么多年了难道还有用？ 事实上证明可能真的是有用的，Alice Huang还真是搞定了Jenson Huang，直接导致英伟达所谓的秘密渠道暴露在大众视野里，有些人的生意被重创，有些人的钱包被重创。 要唐僧说这个点上这个事情爆出来的就很蹊跷：民主党刚刚胜选就出这么个新",
      "source": "虎嗅",
      "zh": "老黄搞黄"
-    },
-    {
-     "title": "Claude Fable5.2 - 审美与细节的绝对统治。",
-     "link": "https://www.huxiu.com/article/4904305.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 07:48:32 +0800",
-     "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克，原文标题：《实测Claude Fable 5.2 - 审美与细节的绝对统治。》 大半夜的，没等来GPT-6.2 Sol，刚准备睡。 然后，AIHOT小助手在飞书群里啪的一下给我弹了个消息。 好的，这下不用睡了。 凌晨3点，Claude终于正式发布了Claude Fable 5.2。 与此同时，OpenAI今晚正在卖200刀的掌机。 叫你上周不发GPT-6.2 Sol，明明口碑那么好，这下不尴尬了吗。。。 目前Claude Fable 5.2已经在全渠道正式上线，我的Claude桌面端里，已经能看到了。 同时，这一次Anthropic",
-     "source": "虎嗅",
-     "zh": "Claude Fable5.2 - 审美与细节的绝对统治。"
     },
     {
      "title": "Tracking the Harm of DOGE Cuts",
@@ -2016,6 +2016,14 @@ window.INDUSTRY_DATA = {
      "summary": "Following last week’s big update , Google Antigravity is rolling out a “Knowledge Work” user experience. more…",
      "source": "9to5Google",
      "zh": "Google Antigravity adds ‘Knowledge Work’ interface for non-coding work"
+    },
+    {
+     "title": "The safety reason TSA might ask you to turn on your phone",
+     "link": "https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason/",
+     "pubDate": "Tue, 10 Nov 2026 00:00:00 +0000",
+     "summary": "While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well.",
+     "source": "Engadget",
+     "zh": "The safety reason TSA might ask you to turn on your phone"
     },
     {
      "title": "Why you probably shouldn't buy gadgets with micro USB ports",
@@ -2194,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "Score $70 off the Skullcandy Crusher 720 in this Amazon deal"
     },
     {
-     "title": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up",
-     "link": "https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/",
-     "pubDate": "Mon, 09 Nov 2026 19:42:47 +0000",
-     "summary": "There's a checkbox that simply turns it off.",
-     "source": "Engadget",
-     "zh": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up"
-    },
-    {
      "title": "One UI 9.5 leak reveals new Shorten and Translate shortcuts in Samsung Keyboard",
      "link": "https://www.androidauthority.com/samsung-keyboard-one-ui-9-5-shorten-translate-leak-3733097/",
      "pubDate": "Mon, 09 Nov 2026 19:40:45 +0000",
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Anthropic逆市推进IPO！最快周二路演，冲刺下周上市，估值或再打“八折”",
+     "link": "https://wallstreetcn.com/articles/3785598",
+     "pubDate": "Tue, 10 Nov 2026 08:09:18 +0800",
+     "summary": "尽管AI板块近期遭遇剧烈抛售，Anthropic仍决定顶住市场压力推进IPO，此次大规模上市将直接测试公开市场对前沿AI资产的风险偏好与定价意愿。 据《华尔街日报》最新报道， 一周前，投资者预期Anthropic的估值目标约为1.5万亿美元，但在经历了AI公司股票的暴跌后，一些主要投资者现在希望目标估值更低。 目前，该公司高管一直在与高盛和摩根士丹利的银行家会面，商讨估值区间的最终确定。 据彭博6日援引一位知情人士透露，部分潜在投资者讨论的估值已降至约1.2万亿至1.3万亿美元，甚至有人考虑低至1.1万亿美元。 报道称，Anthropic本周已安排与关键投资者会面， 目标是让其股票在下周四或周",
+     "source": "华尔街见闻",
+     "zh": "Anthropic逆市推进IPO！最快周二路演，冲刺下周上市，估值或再打“八折”"
+    },
+    {
      "title": "中选后首度正式采访，特朗普表态：移民“可以谈”，投资“不清楚”，AI“必须赢”",
      "link": "https://wallstreetcn.com/articles/3785611",
      "pubDate": "Tue, 10 Nov 2026 08:04:45 +0800",
@@ -2272,6 +2280,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Onto Innovation outlines $430M-$450M Q4 revenue outlook as backlog reaches more than $1.3B"
+    },
+    {
+     "title": "PNC launches stablecoin payments for corporate clients",
+     "link": "https://www.finextra.com/newsarticle/48728/pnc-launches-stablecoin-payments-for-corporate-clients?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 10 Nov 2026 00:01:00 GMT",
+     "summary": "PNC Bank is working with Coinbase to make incoming stablecoin payments available to its corporate and institutional clients.",
+     "source": "Finextra",
+     "zh": "PNC launches stablecoin payments for corporate clients"
     },
     {
      "title": "ETF追踪丨11月9日股票型ETF净申购50亿元 资金加仓创业板ETF易方达",
@@ -2480,22 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
      "source": "CNBC",
      "zh": "3 unexpected reasons the October jobs report was so strong"
-    },
-    {
-     "title": "两位美联储官员放鹰：Barkin称加息方向明确，节奏需审慎，Goolsbee称必须直面\"通胀失控\"",
-     "link": "https://wallstreetcn.com/articles/3785604",
-     "pubDate": "Tue, 10 Nov 2026 06:19:38 +0800",
-     "summary": "两位美联储官员相继发出鹰派信号，强调通胀压力持续，货币政策收紧方向明确，但执行节奏仍需谨慎权衡。 里士满联储主席Tom Barkin周一表示， 强劲需求与居高不下的通胀意味着利率仍需进一步上升，但他同时警示，任何加息行动都需以审慎步伐推进。 这一表态与近期多位联储官员的立场保持一致。 在消费端，Barkin指出，企业盈利表现亮眼，消费者支出依然具有韧性，经济正经历失业率持续处于4.5%或以下的历史性连续纪录。但他也对这一强势能否持续提出疑问，并指出企业与家庭均持续反映成本上涨压力，令通胀前景仍存不确定性。 值得关注的是，Barkin将AI热潮称为政策制定者面临的\"房间里的大象\"，认为其走向将对",
-     "source": "华尔街见闻",
-     "zh": "两位美联储官员放鹰：Barkin称加息方向明确，节奏需审慎，Goolsbee称必须直面\"通胀失控\""
-    },
-    {
-     "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
-     "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
-     "pubDate": "Mon, 09 Nov 2026 22:16:13 GMT",
-     "summary": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
-     "source": "Financial Times",
-     "zh": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang"
     }
    ]
   },

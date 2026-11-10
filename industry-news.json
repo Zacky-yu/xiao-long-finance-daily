@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/11 00:26:05",
+ "generated_at": "2026/11/11 00:32:16",
  "recent_days": 7,
  "industries": [
   {
@@ -41,14 +41,6 @@
      "zh": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS"
     },
     {
-     "title": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM",
-     "link": "https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm",
-     "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-     "summary": "Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline for multilingual text classification, guided by two pre-trained language models handled by Scikit-LLM for translation and zero-shot classification.",
-     "source": "KDnuggets",
-     "zh": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM"
-    },
-    {
      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
      "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
      "pubDate": "Tue, 10 Nov 2026 14:59:09 +0000",
@@ -87,14 +79,6 @@
      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
      "source": "TechCrunch AI",
      "zh": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era"
-    },
-    {
-     "title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
-     "link": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
-     "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
-     "summary": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each technique.",
-     "source": "KDnuggets",
-     "zh": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank"
     },
     {
      "title": "苹果开卖334元AI“加油包”，额度不详，仅面向已订阅创作套件用户",
@@ -247,6 +231,22 @@
      "summary": "",
      "source": "新智元",
      "zh": "让机器人理解「抓哪里」：把「三维可供性」引入操作数据生成"
+    },
+    {
+     "title": "赶在IPO前，Claude最强模型空降！宾大教授感慨“几乎达到AGI”",
+     "link": "https://zhidx.com/p/608593.html",
+     "pubDate": "Tue, 10 Nov 2026 08:49:37 +0800",
+     "summary": "智东西 编译 | 程茜 王涵 编辑 | 心缘 迄今地表最强模型来了！？ 智东西11月10日消息，今日，Anthropic全新最强双模型 Claude Fable 5.2、Claude Mythos 5.2 正式登场，基准测试里 几乎碾压Fable 5.1、Opus 5.5、GPT-6 Astra 。 Claude Fable 5.2、Claude Mythos 5.2能干的事真的有点超出想象。Anthropic称，这两个模型在预发布测试中，帮工程师完成了原本无法实现的软件迁移、 从0设计出三台可用的电子设备 、解决了 两个黑洞物理学中的公开问题 ，甚至只用 30小时就完成了费马大定理的形式化证",
+     "source": "智东西",
+     "zh": "赶在IPO前，Claude最强模型空降！宾大教授感慨“几乎达到AGI”"
+    },
+    {
+     "title": "Decision Models in Hugging Face",
+     "link": "https://huggingface.co/blog/decision",
+     "pubDate": "Tue, 10 Nov 2026 00:00:00 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Decision Models in Hugging Face"
     }
    ]
   },
@@ -257,12 +257,28 @@
    "total": 9,
    "items": [
     {
+     "title": "Nexperia adds ultra-low-resistance GaN FETs for next-gen power density and efficiency",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/nexperia-101126.shtml",
+     "pubDate": "Tue, 10 Nov 2026 16:11:10 GMT",
+     "summary": "Discrete device designer and manufacturer Nexperia B.V. of Nijmegen, the Netherlands (which operates wafer fabs in Hamburg, Germany, and Hazel Grove Manchester, UK) has launched new ultra-low-ohmic gallium nitride (GaN) FETs, expanding its low- and medium-voltage GaN portfolio with devices spanning ",
+     "source": "Semiconductor Today",
+     "zh": "Nexperia adds ultra-low-resistance GaN FETs for next-gen power density and efficiency"
+    },
+    {
      "title": "Weebit Nano launches Matrix research program to test AI computing inside memory",
      "link": "https://semiwiki.com/ip/weebit-nano/375980-weebit-nano-launches-matrix-research-program-to-test-ai-computing-inside-memory/",
      "pubDate": "Tue, 10 Nov 2026 16:00:24 +0000",
      "summary": "Weebit Nano launched its Weebit Matrix In-Memory Compute Research Program on November 4, 2026, giving academic and industry researchers access to hardware built around its resistive random-access memory, or ReRAM. The program will let teams prototype AI algorithms, test ways to program the memory an",
      "source": "SemiWiki",
      "zh": "Weebit Nano launches Matrix research program to test AI computing inside memory"
+    },
+    {
+     "title": "Staera emerges from stealth with $4.6m in pre-seed funding",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/staera-101126.shtml",
+     "pubDate": "Tue, 10 Nov 2026 15:48:41 GMT",
+     "summary": "Staera Semiconductor of San Francisco, CA, USA has emerged from stealth with a technology that builds optical data links directly into silicon chips. It targets the problem that now limits how fast and how large AI systems can grow: moving data between chips. Formerly New Silicon Corp (NSC), the com",
+     "source": "Semiconductor Today",
+     "zh": "Staera emerges from stealth with $4.6m in pre-seed funding"
     },
     {
      "title": "ESA signs OHB for next-gen Sentinel-3 topography mission",
@@ -329,12 +345,28 @@
      "zh": "TSMC October revenues up 59.7% YoY"
     },
     {
+     "title": "Mitsubishi Electric suppresses frequency dispersion in GaN transistors using GaN substrates",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/mitsubishi-electric-101126.shtml",
+     "pubDate": "Tue, 10 Nov 2026 11:43:14 GMT",
+     "summary": "Tokyo-based Mitsubishi Electric Corp claims that, for the first time in the world, it has elucidated the effects of frequency dispersion (whereby current values and other characteristics of high-frequency devices vary depending on the operating frequency) caused by crystal defects in a gallium nitri",
+     "source": "Semiconductor Today",
+     "zh": "Mitsubishi Electric suppresses frequency dispersion in GaN transistors using GaN substrates"
+    },
+    {
      "title": "Infineon expects a €20bn 2027",
      "link": "https://www.electronicsweekly.com/news/business/infineon-expects-a-e20bn-2027-2026-11/",
      "pubDate": "Tue, 10 Nov 2026 11:08:24 +0000",
      "summary": "Infineon had Q4 FY 2026 revenue of €4.706 billion for profit of €1.119 billion at a margin of 23.8% For FY 2026 it had revenue of €16.353 billion, up 12up […] The post Infineon expects a €20bn 2027 appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Infineon expects a €20bn 2027"
+    },
+    {
+     "title": "onsemi introduces EliteSiC M4 fourth-gen silicon carbide platform, with up to 30% higher power density and 35% lower losses",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/onsemi-101126.shtml",
+     "pubDate": "Tue, 10 Nov 2026 11:06:42 GMT",
+     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA has introduced EliteSiC M4, its fourth-generation silicon carbide (SiC) platform built on a trench architecture and designed to set a new performance benchmark for next-generation power systems. With what is claimed to be in",
+     "source": "Semiconductor Today",
+     "zh": "onsemi introduces EliteSiC M4 fourth-gen silicon carbide platform, with up to 30% higher power density and 35% lower losses"
     },
     {
      "title": "Get the Gadget Master newsletter!",
@@ -463,38 +495,6 @@
      "summary": "GigaDevice officially lunches its new-generation GD32H7 MCU portfolio built on a unified chip architecture. Discover More. The post GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications appeared first on EE Times .",
      "source": "EE Times",
      "zh": "GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications"
-    },
-    {
-     "title": "CTO Interview with Ed Plowman of Imagination Technologies",
-     "link": "https://semiwiki.com/ip/imagination-technologies/375783-cto-interview-with-ed-plowman-of-imagination-technologies-2/",
-     "pubDate": "Mon, 09 Nov 2026 20:00:12 +0000",
-     "summary": "Ed Plowman is Chief Technology Officer at Imagination Technologies, where he leads technology strategy, advanced architecture research and long-term innovation initiatives. He focuses on the convergence of graphics, compute and artificial intelligence, helping shape the next generation of efficient ",
-     "source": "SemiWiki",
-     "zh": "CTO Interview with Ed Plowman of Imagination Technologies"
-    },
-    {
-     "title": "Golden Testcases You Can Check With a Calculator",
-     "link": "https://semiwiki.com/eda/376069-golden-testcases-you-can-check-with-a-calculator/",
-     "pubDate": "Mon, 09 Nov 2026 18:00:44 +0000",
-     "summary": "Two timing tools that agree can still both be wrong. A small testcase where you can re-derive every printed digit by hand shows that the engine is correct, and when it isn’t, it shows which term is wrong. By Dr. Sameer Pawanekar, Founder & CEO, Ramtera Inc. The problem: agreement is not correctness ",
-     "source": "SemiWiki",
-     "zh": "Golden Testcases You Can Check With a Calculator"
-    },
-    {
-     "title": "Curvilinear OPC and next-gen photomask optimization",
-     "link": "https://semiwiki.com/eda/siemens-eda/376032-curvilinear-opc-and-next-gen-photomask-optimization/",
-     "pubDate": "Mon, 09 Nov 2026 16:00:56 +0000",
-     "summary": "A vector-based approach for semiconductor manufacturing By Sagar Saxena is a Senior Product Engineer at Siemens EDA Curvilinear OPC transforms advanced semiconductor manufacturing Modern semiconductor manufacturing is experiencing a fundamental shift in the way photomasks are created and optimized. ",
-     "source": "SemiWiki",
-     "zh": "Curvilinear OPC and next-gen photomask optimization"
-    },
-    {
-     "title": "The Race to Build a “Find My” for AI Chips",
-     "link": "https://spectrum.ieee.org/find-my-ai-chip",
-     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
-     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -1105,6 +1105,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Beam says base-edited sickle cell therapy succeeds in Phase 1/2 study",
+     "link": "https://endpoints.news/beam-says-base-edited-sickle-cell-therapy-succeeds-in-phase-1-2-study/",
+     "pubDate": "Tue, 10 Nov 2026 16:23:21 +0000",
+     "summary": "Beam Therapeutics announced Tuesday that its base-edited sickle cell therapy succeeded in a clinical trial, meaning a third one-time therapy for the disease may soon enter the market. In Beam’s Phase 1/2 trial, known as ...",
+     "source": "Endpoints News",
+     "zh": "Beam says base-edited sickle cell therapy succeeds in Phase 1/2 study"
+    },
+    {
      "title": "PepGen's oligo succeeds in Phase 2; Ionis' and ImmunityBio's stocks sag",
      "link": "https://endpoints.news/pepgens-oligo-succeeds-in-phase-2-ionis-and-immunitybios-stocks-sag/",
      "pubDate": "Tue, 10 Nov 2026 16:09:58 +0000",
@@ -1207,14 +1215,6 @@
      "summary": "A seven-part proposal from the prominent lobbyist lays out a series of initiatives to accelerate drug development in the U.S. and counter China&rsquo;s fast rise.",
      "source": "BioPharma Dive",
      "zh": "BIO unveils plan for US to remain biotech’s ‘global leader’"
-    },
-    {
-     "title": "Bayer wins FDA approval for stroke prevention drug Sunharbo",
-     "link": "https://endpoints.news/bayer-wins-fda-approval-for-stroke-prevention-drug-sunharbo/",
-     "pubDate": "Tue, 10 Nov 2026 00:12:58 +0000",
-     "summary": "Bayer’s asundexian won FDA approval to reduce the risk of stroke in people who recently had a mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack. The agency on Monday greenlit the drug in ...",
-     "source": "Endpoints News",
-     "zh": "Bayer wins FDA approval for stroke prevention drug Sunharbo"
     },
     {
      "title": "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research",
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)",
+     "link": "https://www.techmeme.com/261110/p30#a261110p30",
+     "pubDate": "Tue, 10 Nov 2026 11:25:00 -0500",
+     "summary": "Koray Kavukcuoglu / Google : Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity &nbsp; &mdash;&nbsp; Developers, enterprises, scientists, and consumers can now try our latest frontier model.&nbs",
+     "source": "Techmeme",
+     "zh": "Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)"
+    },
+    {
      "title": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025 (Reuters)",
      "link": "https://www.techmeme.com/261110/p29#a261110p29",
      "pubDate": "Tue, 10 Nov 2026 11:20:07 -0500",
@@ -1769,12 +1777,28 @@
      "zh": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025 (Reuters)"
     },
     {
+     "title": "未来5年，水处理市场的5个新增量",
+     "link": "https://www.huxiu.com/article/4904585.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 00:17:08 +0800",
+     "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 过去二十多年，水处理行业判断市场还有多大，最习惯看的一个指标是：每天还有多少万吨污水需要处理。 一个城市缺20万吨处理能力，就再建一座厂；一个工业园区企业越来越多，就扩一条处理线。处理规模越大，工程越大，设备需求越多，市场自然也越大。 这套逻辑支撑了中国水务行业很长一段时间。 但到了今天，情况正在慢慢发生变化。 问题已经不仅仅是还有多少水没有处理，而越来越变成：进来的到底是什么水？污染从哪里来？不同的水为什么要混在一起处理？出了问题能不能迅速找到源头？同样一个排放标准，放在不同河流里是不是都合适？ 这可能才是未来五年水治理市场真正值得关注",
+     "source": "虎嗅",
+     "zh": "未来5年，水处理市场的5个新增量"
+    },
+    {
      "title": "IBM ends H-1B and green card sponsorships for most of the sponsored roles in IBM Consulting; source: workers can still work with IBM outside the US or leave IBM (Brody Ford/Bloomberg)",
      "link": "https://www.techmeme.com/261110/p28#a261110p28",
      "pubDate": "Tue, 10 Nov 2026 11:16:03 -0500",
      "summary": "Brody Ford / Bloomberg : IBM ends H-1B and green card sponsorships for most of the sponsored roles in IBM Consulting; source: workers can still work with IBM outside the US or leave IBM &nbsp; &mdash;&nbsp; International Business Machines Corp. is ending immigration sponsorship for some roles in its",
      "source": "Techmeme",
      "zh": "IBM ends H-1B and green card sponsorships for most of the sponsored roles in IBM Consulting; source: workers can still work with IBM outside the US or leave IBM (Brody Ford/Bloomberg)"
+    },
+    {
+     "title": "Blender 5.3 released with Gaussian Splat support",
+     "link": "https://www.blender.org/download/releases/5-3/",
+     "pubDate": "Tue, 10 Nov 2026 16:15:43 +0000",
+     "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 16 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Blender 5.3 released with Gaussian Splat support"
     },
     {
      "title": "一个小镇，竟有两家世界500强",
@@ -1804,7 +1828,7 @@
      "title": ".NET 11",
      "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
      "pubDate": "Tue, 10 Nov 2026 16:01:27 +0000",
-     "summary": "Article URL: https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/ Comments URL: https://news.ycombinator.com/item?id=50442225 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/ Comments URL: https://news.ycombinator.com/item?id=50442225 Points: 23 # Comments: 2",
      "source": "Hacker News",
      "zh": ".NET 11"
     },
@@ -1815,6 +1839,14 @@
      "summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
      "source": "TechCrunch",
      "zh": "Apple TV makes sign language interpretation a built-in accessibility feature"
+    },
+    {
+     "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+     "link": "https://text.npr.org/nx-s1-6029641",
+     "pubDate": "Tue, 10 Nov 2026 15:59:34 +0000",
+     "summary": "Article URL: https://text.npr.org/nx-s1-6029641 Comments URL: https://news.ycombinator.com/item?id=50442202 Points: 29 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress"
     },
     {
      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
@@ -1844,7 +1876,7 @@
      "title": "Smart home devices should work without the internet",
      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
      "pubDate": "Tue, 10 Nov 2026 15:25:20 +0000",
-     "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 17 # Comments: 7",
      "source": "Hacker News",
      "zh": "Smart home devices should work without the internet"
     },
@@ -1865,6 +1897,14 @@
      "zh": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列"
     },
     {
+     "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+     "link": "https://tinyvalencia.com/",
+     "pubDate": "Tue, 10 Nov 2026 15:12:16 +0000",
+     "summary": "Article URL: https://tinyvalencia.com/ Comments URL: https://news.ycombinator.com/item?id=50441518 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Show HN: Valencia, Spain in Sim City/Isometric View"
+    },
+    {
      "title": "第 39 届中国电影金鸡奖全名单公布，《浪浪山小妖怪》《窗外是蓝星》《给阿嬷的情书》等获奖",
      "link": "https://www.ithome.com/1/025/189.htm",
      "pubDate": "Tue, 10 Nov 2026 15:05:04 GMT",
@@ -1879,14 +1919,6 @@
      "summary": "The new model is up to twice as successful at some tasks.",
      "source": "Ars Technica",
      "zh": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\""
-    },
-    {
-     "title": "The Hardest Tarball?",
-     "link": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-     "pubDate": "Tue, 10 Nov 2026 15:00:39 +0000",
-     "summary": "Article URL: https://stoppels.ch/2026/11/07/the-hardest-tarball.html Comments URL: https://news.ycombinator.com/item?id=50441338 Points: 65 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "The Hardest Tarball?"
     },
     {
      "title": "Reddit is turning user conversations into AI-powered product reviews",
@@ -1945,14 +1977,6 @@
      "zh": "PS5 Pro 也不例外：R 星确认《GTA 6》所有主机目标帧率都是 30fps"
     },
     {
-     "title": "TSMC plans to invest up to $500M in Anthropic at its IPO price and up to $500M in OpenAI to acquire preferred stock (Reuters)",
-     "link": "https://www.techmeme.com/261110/p24#a261110p24",
-     "pubDate": "Tue, 10 Nov 2026 09:46:04 -0500",
-     "summary": "Reuters : TSMC plans to invest up to $500M in Anthropic at its IPO price and up to $500M in OpenAI to acquire preferred stock &nbsp; &mdash;&nbsp; TSMC (2330.TW) plans to invest up to $1 billion across leading AI developers Anthropic and OpenAI, highlighting the Taiwanese chipmaker's confidence in l",
-     "source": "Techmeme",
-     "zh": "TSMC plans to invest up to $500M in Anthropic at its IPO price and up to $500M in OpenAI to acquire preferred stock (Reuters)"
-    },
-    {
      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
      "pubDate": "Tue, 10 Nov 2026 14:43:49 +0000",
@@ -1975,30 +1999,6 @@
      "summary": "硬核办公国货，在京东11.11迎来破圈时刻。",
      "source": "钛媒体",
      "zh": "第三代国潮来袭：藏在桌面与旷野里的中国智造"
-    },
-    {
-     "title": "The Death Knell of Digital Search",
-     "link": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
-     "pubDate": "Tue, 10 Nov 2026 14:41:36 +0000",
-     "summary": "Article URL: https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search Comments URL: https://news.ycombinator.com/item?id=50441074 Points: 17 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "The Death Knell of Digital Search"
-    },
-    {
-     "title": "Polestar has a new look with its Formula 2030 concept",
-     "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
-     "pubDate": "Tue, 10 Nov 2026 14:22:02 +0000",
-     "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
-     "source": "Ars Technica",
-     "zh": "Polestar has a new look with its Formula 2030 concept"
-    },
-    {
-     "title": "4DX Movies Are Entering Their Thirsty Romance Era",
-     "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
-     "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-     "summary": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
-     "source": "WIRED",
-     "zh": "4DX Movies Are Entering Their Thirsty Romance Era"
     }
    ]
   },
@@ -2257,12 +2257,52 @@
    "total": 13,
    "items": [
     {
+     "title": "U.S. gas prices fall below $4 for the first time since July",
+     "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+     "pubDate": "Tue, 10 Nov 2026 16:29:09 GMT",
+     "summary": "Americans may finally find some relief at the pump.",
+     "source": "CNBC",
+     "zh": "U.S. gas prices fall below $4 for the first time since July"
+    },
+    {
+     "title": "Harrow stock jumps as eye-care products deliver record Q3 sales",
+     "link": "https://seekingalpha.com/news/4669816-harrow-stock-jumps-as-eye-care-products-deliver-record-q3-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 11:22:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Harrow stock jumps as eye-care products deliver record Q3 sales"
+    },
+    {
+     "title": "Rackspace targets 20 to 22 megawatts of AI compute by end of 2027 as it raises 2026 revenue outlook to $2.51B-$2.56B",
+     "link": "https://seekingalpha.com/news/4669959-rackspace-targets-20-to-22-megawatts-of-ai-compute-by-end-of-2027-as-it-raises-2026-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 11:22:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rackspace targets 20 to 22 megawatts of AI compute by end of 2027 as it raises 2026 revenue outlook to $2.51B-$2.56B"
+    },
+    {
+     "title": "AstraZeneca acquires preclinical biotech Omniose",
+     "link": "https://seekingalpha.com/news/4669905-astrazeneca-acquires-preclinical-biotech-omniose?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 11:21:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AstraZeneca acquires preclinical biotech Omniose"
+    },
+    {
      "title": "Wall Street bonuses seen advancing, but 2027 outlook softens - report",
      "link": "https://seekingalpha.com/news/4669872-wall-street-bonuses-seen-advancing-but-2027-outlook-softens-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 10 Nov 2026 11:20:14 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Wall Street bonuses seen advancing, but 2027 outlook softens - report"
+    },
+    {
+     "title": "Here&apos;s the inflation breakdown for October 2026 — in one chart",
+     "link": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
+     "pubDate": "Tue, 10 Nov 2026 16:18:20 GMT",
+     "summary": "The consumer price index rose 0.4% in October, a reduction from September but a level economists said is still uncomfortably high.",
+     "source": "CNBC",
+     "zh": "Here&apos;s the inflation breakdown for October 2026 — in one chart"
     },
     {
      "title": "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. ‘failed’ survivors",
@@ -2289,44 +2329,12 @@
      "zh": "McEwen tumbles 18% after third-quarter revenue miss"
     },
     {
-     "title": "Ukrainian drone strikes are said to disrupt 30% of Russia's oil refining",
-     "link": "https://seekingalpha.com/news/4669957-ukrainian-drone-strikes-are-said-to-disrupt-30-percent-of-russias-oil-refining?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 11:15:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ukrainian drone strikes are said to disrupt 30% of Russia's oil refining"
-    },
-    {
      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
      "pubDate": "Tue, 10 Nov 2026 16:15:00 GMT",
      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
      "source": "MarketWatch",
      "zh": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?"
-    },
-    {
-     "title": "Alta outlines 2026 adjusted EBITDA of $165M-$170M as material handling deliveries shift into early 2027",
-     "link": "https://seekingalpha.com/news/4669956-alta-outlines-2026-adjusted-ebitda-of-165m-170m-as-material-handling-deliveries-shift-into?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 11:12:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alta outlines 2026 adjusted EBITDA of $165M-$170M as material handling deliveries shift into early 2027"
-    },
-    {
-     "title": "Lineage expects $1.25B-$1.27B 2026 adjusted EBITDA while targeting 5.0x-5.5x leverage",
-     "link": "https://seekingalpha.com/news/4669954-lineage-expects-1_25b-1_27b-2026-adjusted-ebitda-while-targeting-5_0xminus-5_5x-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 11:12:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lineage expects $1.25B-$1.27B 2026 adjusted EBITDA while targeting 5.0x-5.5x leverage"
-    },
-    {
-     "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed&apos;s inflation fight",
-     "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-     "pubDate": "Tue, 10 Nov 2026 16:04:49 GMT",
-     "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
-     "source": "CNBC",
-     "zh": "Consumer prices rose 0.4% in October, more than expected, complicating Fed&apos;s inflation fight"
     },
     {
      "title": "‘Boneless couches’ are the new futons",
@@ -2409,14 +2417,6 @@
      "zh": "Nexi to sell Ratepay to Affirm"
     },
     {
-     "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
-     "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
-     "pubDate": "Tue, 10 Nov 2026 15:11:48 GMT",
-     "summary": "Rivian CEO RJ Scaringe says 2027 will be an “inflection year” as the EV maker scales R2 and invests in autonomy.",
-     "source": "CNBC",
-     "zh": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO"
-    },
-    {
      "title": "Jensen Huang&apos;s affair with alleged Chinese spy further complicates Nvidia’s China problem",
      "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
      "pubDate": "Tue, 10 Nov 2026 15:04:23 GMT",
@@ -2449,6 +2449,14 @@
      "zh": "Pete Hegseth decries impeachment push, defends Iran war handling"
     },
     {
+     "title": "美股三大指数集体低开 半导体板块持续反弹 国际原油、金银价格同步下挫",
+     "link": "http://finance.eastmoney.com/news/1345,202611103927654526.html",
+     "pubDate": "Tue, 10 Nov 2026 22:40:43 +0800",
+     "summary": "美东时间周二，美股三大指数下跌，截至发稿，道琼斯指数跌0.65%，标普500指数跌0.67%， 纳斯达克 综合 指数跌0.78%。 半导体 板块分化，费城 半导体 指数跌0.61%。个股方面， 超威半导体 涨3.87%， 博通 涨2.85%， 台积电 涨1.93%； 英特尔 跌1.77%， 美光科技 跌2.42%， 闪迪 跌3.33%， 英伟达 跌5.22%。其中 英伟达 股价较52周高点回撤约31%。 商品市场方面，国际原油、金银价格同步下挫。截至发稿，布伦特原油 期货 价格跌2.13%，报90.60美元/桶；现货 黄金 价格跌2.43%，报4040.54美元/盎司；现货 白银 价格跌3.5",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体低开 半导体板块持续反弹 国际原油、金银价格同步下挫"
+    },
+    {
      "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
      "link": "https://wallstreetcn.com/articles/3785664",
      "pubDate": "Tue, 10 Nov 2026 22:37:17 +0800",
@@ -2473,28 +2481,20 @@
      "zh": "Bud lands venture backing for US push"
     },
     {
-     "title": "长安马自达营销换将，电动化进入渠道调整期",
-     "link": "https://wallstreetcn.com/articles/3785663",
-     "pubDate": "Tue, 10 Nov 2026 21:26:58 +0800",
-     "summary": "11月9日，长安马自达宣布，销售分公司执行副总经理吴旭曦因工作调整将接受新的任命，刘斌即日起接任该职务。 刘斌做汽车销售和营销超过25年，曾任长安汽车销售有限公司分销中心总监，也管过长安欧尚在广州的区域业务。他接手时，长安马自达的新能源车已经卖到了欧洲，国内经销商还在摸索怎样把这两款车卖给更多中国买家。 2024年秋天，马自达与长安合作开发的新能源轿车EZ-6上市。按长安汽车披露的数据，那一整年，长安马自达净亏损2.78亿元。次年，SUV车型EZ-60跟上，两款车都有纯电和增程版本。 出口给南京工厂带来了增量。长安马自达去年3月开始出口新能源车，当年约1.5万辆。今年8月，EZ-60的海外版C",
-     "source": "华尔街见闻",
-     "zh": "长安马自达营销换将，电动化进入渠道调整期"
+     "title": "进出口两旺！10月外贸跑出年内新高 全球AI投资热潮未减",
+     "link": "http://finance.eastmoney.com/news/1355,202611103927573515.html",
+     "pubDate": "Tue, 10 Nov 2026 21:31:25 +0800",
+     "summary": "11月10日，海关总署发布最新数据。 今年前10个月，我国货物贸易进出口总值达到44.81万亿元人民币（下同），同比增长20%。其中，出口增长17.6%、进口增长23.6%。 从月度看，我国进出口同比增速已连续7个月保持两位数增长，10月份进出口总值达到4.87万亿元，增长31.2%，增速为年内新高。其中，出口2.79万亿元，增长28.7%；进口2.08万亿元，增长34.7%。 进口增速较出口高6个百分点 进口保持高增、进出口更为平衡是今年以来货物贸易发展的重要特征。根据海关统计，今年前10个月，进口累计增速比出口高6个百分点；其中，我国进口机电产品8.17万亿元，增长35%； 农产品 1.2",
+     "source": "东方财富资讯",
+     "zh": "进出口两旺！10月外贸跑出年内新高 全球AI投资热潮未减"
     },
     {
-     "title": "Standard Chartered powered bank Mox appoints Anshul Sabherwal as CEO",
-     "link": "https://www.finextra.com/newsarticle/48734/standard-chartered-powered-bank-mox-appoints-anshul-sabherwal-as-ceo?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 10 Nov 2026 13:12:00 GMT",
-     "summary": "The former head of product and payment of Standard Chartered Hong Kong Anshul Sabherwal has been appointed CEO of Mox, a digital bank licensed in Hong Kong, powered by Standard Chartered in partnership with PCCW, HKT and Trip.com.",
-     "source": "Finextra",
-     "zh": "Standard Chartered powered bank Mox appoints Anshul Sabherwal as CEO"
-    },
-    {
-     "title": "Anthropic targets valuation of up to $1.4tn in IPO",
-     "link": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1",
-     "pubDate": "Tue, 10 Nov 2026 13:07:48 GMT",
-     "summary": "The Claude maker plans to raise as much as $64bn in highly anticipated listing",
-     "source": "Financial Times",
-     "zh": "Anthropic targets valuation of up to $1.4tn in IPO"
+     "title": "美国10月CPI环比增长0.4% 高于市场预期 12月加息概率仍维持在100%",
+     "link": "http://finance.eastmoney.com/news/1345,202611103927569095.html",
+     "pubDate": "Tue, 10 Nov 2026 21:30:16 +0800",
+     "summary": "美国10月消费者价格指数（CPI）环比增长0.4%，预估为0.3%，前值为0.6%。美国劳工统计局表示，受去年政府停摆影响，不会公布10月CPI同比数据。 美国10月核心消费者价格指数（CPI）环比增长0.3%，预估为增长0.2%，前值为增长0.3%。 美国10月通胀数据公布后，交易员对12月美联储加息的预期仍维持在100%。交易员加大对美联储到2027年中期至少加息两次的押注。交易员提高对美联储下月加息0.5个百分点的押注。 数据公布后，现货 白银 日内跌幅扩大至3%，报51.75美元/盎司。现货 黄金 日内跌幅扩大至2%，报4043.4美元/盎司。 美国10月CPI环比增长超预期，道琼斯指",
+     "source": "东方财富资讯",
+     "zh": "美国10月CPI环比增长0.4% 高于市场预期 12月加息概率仍维持在100%"
     }
    ]
   },

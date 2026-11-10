@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 03:26:29",
+ "generated_at": "2026/11/11 03:32:12",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+     "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+     "pubDate": "Tue, 10 Nov 2026 19:23:34 +0000",
+     "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+     "source": "TechCrunch AI",
+     "zh": "Oura to acquire AI-native primary care startup Counsel Health for $625M"
+    },
     {
      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
@@ -72,14 +80,6 @@ window.INDUSTRY_DATA = {
      "summary": "Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and runs in real time in the browser The post Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters appeared first on MarkTech",
      "source": "MarkTechPost",
      "zh": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters"
-    },
-    {
-     "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-     "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-     "pubDate": "Tue, 10 Nov 2026 15:29:30 +0000",
-     "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-     "source": "TechCrunch AI",
-     "zh": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS"
     },
     {
      "title": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM",
@@ -290,6 +290,14 @@ window.INDUSTRY_DATA = {
      "zh": "Staera emerges from stealth with $4.6m in pre-seed funding"
     },
     {
+     "title": "ESA signs OHB for next-gen Sentinel-3 topography mission",
+     "link": "https://www.electronicsweekly.com/news/business/esa-signs-ohb-for-next-gen-sentinel-3-topography-mission-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 15:18:15 +0000",
+     "summary": "The German space systems integrator OHB has been awarded, by the European Space Agency (ESA), a €554 million contract for two next-gen Sentinel-3 topography satellites. The Sentinel-3 Next Generation Topography […] The post ESA signs OHB for next-gen Sentinel-3 topography mission appeared first on E",
+     "source": "Electronics Weekly",
+     "zh": "ESA signs OHB for next-gen Sentinel-3 topography mission"
+    },
+    {
      "title": "People Detection in Confined Spaces: Elevator Application",
      "link": "https://www.eetimes.com/people-detection-in-confined-spaces-elevator-application/",
      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
@@ -304,6 +312,14 @@ window.INDUSTRY_DATA = {
      "summary": "As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of the digital economy. The post The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk? appeared first on EE Times .",
      "source": "EE Times",
      "zh": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?"
+    },
+    {
+     "title": "Tardy",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/intel-sloth-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 14:25:42 +0000",
+     "summary": "According to tech Taiwan, reported by Wcctech, MediaTek people who are using Intel’s EMIB-T packaging technology have had a complaint from Intel engineers about their demands for quick answers to […] The post Tardy appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Tardy"
     },
     {
      "title": "Three-Dimensional Chess Anyone? The Challenges of Power Integrity for Multi-Die Designs",
@@ -322,6 +338,22 @@ window.INDUSTRY_DATA = {
      "zh": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences"
     },
     {
+     "title": "Nickel/aluminium is the smarter alternative to traditional silver/aluminium EMI shielding materials",
+     "link": "https://www.electronicsweekly.com/news/business/nickel-aluminium-is-the-smarter-alternative-to-traditional-silver-aluminium-emi-shielding-materials-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 12:00:03 +0000",
+     "summary": "Nickel-aluminium (Ni/Al) is emerging as an alternative to silver-aluminium (Ag/Al) in shielding applications, writes Rachid Ait El Cadi. For decades Ag/Al conductive elastomer gaskets have occupied a leading position in electromagnetic […] The post Nickel/aluminium is the smarter alternative to trad",
+     "source": "Electronics Weekly",
+     "zh": "Nickel/aluminium is the smarter alternative to traditional silver/aluminium EMI shielding materials"
+    },
+    {
+     "title": "TSMC October revenues up 59.7% YoY",
+     "link": "https://www.electronicsweekly.com/news/business/tsmc-october-revenues-up-59-7-yoy-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 11:46:02 +0000",
+     "summary": "TSMC today announced a 59.7% rise YoY and a $14.7% rise MoM for its October revenue of $17.8 billion. Revenue for January through October 2026 totaled $136.2 billion, an increase […] The post TSMC October revenues up 59.7% YoY appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "TSMC October revenues up 59.7% YoY"
+    },
+    {
      "title": "Mitsubishi Electric suppresses frequency dispersion in GaN transistors using GaN substrates",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/mitsubishi-electric-101126.shtml",
      "pubDate": "Tue, 10 Nov 2026 11:43:14 GMT",
@@ -330,12 +362,28 @@ window.INDUSTRY_DATA = {
      "zh": "Mitsubishi Electric suppresses frequency dispersion in GaN transistors using GaN substrates"
     },
     {
+     "title": "Infineon expects a €20bn 2027",
+     "link": "https://www.electronicsweekly.com/news/business/infineon-expects-a-e20bn-2027-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 11:08:24 +0000",
+     "summary": "Infineon had Q4 FY 2026 revenue of €4.706 billion for profit of €1.119 billion at a margin of 23.8% For FY 2026 it had revenue of €16.353 billion, up 12up […] The post Infineon expects a €20bn 2027 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Infineon expects a €20bn 2027"
+    },
+    {
      "title": "onsemi introduces EliteSiC M4 fourth-gen silicon carbide platform, with up to 30% higher power density and 35% lower losses",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/onsemi-101126.shtml",
      "pubDate": "Tue, 10 Nov 2026 11:06:42 GMT",
      "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA has introduced EliteSiC M4, its fourth-generation silicon carbide (SiC) platform built on a trench architecture and designed to set a new performance benchmark for next-generation power systems. With what is claimed to be in",
      "source": "Semiconductor Today",
      "zh": "onsemi introduces EliteSiC M4 fourth-gen silicon carbide platform, with up to 30% higher power density and 35% lower losses"
+    },
+    {
+     "title": "Get the Gadget Master newsletter!",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 10:57:29 +0000",
+     "summary": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Get the Gadget Master newsletter!"
     },
     {
      "title": "Spy probe highlights Nvidia's heavy reliance on CEO",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chang Ming delivers scarce semiconductors, with rigorous 9-step quality inspection & global supply chain support for European & American electronics buyers. The post We Source Chips Others Cannot Secure, 2026 appeared first on EE Times .",
      "source": "EE Times",
      "zh": "We Source Chips Others Cannot Secure, 2026"
-    },
-    {
-     "title": "GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications",
-     "link": "https://www.eetimes.com/gigadevice-new-gen-high-performance-mcu-portfolio-for-full-scenario-industrial-applications/",
-     "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000",
-     "summary": "GigaDevice officially lunches its new-generation GD32H7 MCU portfolio built on a unified chip architecture. Discover More. The post GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications"
-    },
-    {
-     "title": "CTO Interview with Ed Plowman of Imagination Technologies",
-     "link": "https://semiwiki.com/ip/imagination-technologies/375783-cto-interview-with-ed-plowman-of-imagination-technologies-2/",
-     "pubDate": "Mon, 09 Nov 2026 20:00:12 +0000",
-     "summary": "Ed Plowman is Chief Technology Officer at Imagination Technologies, where he leads technology strategy, advanced architecture research and long-term innovation initiatives. He focuses on the convergence of graphics, compute and artificial intelligence, helping shape the next generation of efficient ",
-     "source": "SemiWiki",
-     "zh": "CTO Interview with Ed Plowman of Imagination Technologies"
-    },
-    {
-     "title": "Golden Testcases You Can Check With a Calculator",
-     "link": "https://semiwiki.com/eda/376069-golden-testcases-you-can-check-with-a-calculator/",
-     "pubDate": "Mon, 09 Nov 2026 18:00:44 +0000",
-     "summary": "Two timing tools that agree can still both be wrong. A small testcase where you can re-derive every printed digit by hand shows that the engine is correct, and when it isn’t, it shows which term is wrong. By Dr. Sameer Pawanekar, Founder & CEO, Ramtera Inc. The problem: agreement is not correctness ",
-     "source": "SemiWiki",
-     "zh": "Golden Testcases You Can Check With a Calculator"
-    },
-    {
-     "title": "Infineon presents first functional power devices on 300mm SiC wafers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-091126.shtml",
-     "pubDate": "Mon, 9 Nov 2026 14:17:14 GMT",
-     "summary": "Infineon Technologies AG of Munich, Germany has processed 300mm silicon carbide (SiC) wafers into functional power devices at its fab in Villach, Austria, becoming the first company to pioneer this innovation in a full-scale semiconductor fab environment. The milestone was realized by utilizing exis",
-     "source": "Semiconductor Today",
-     "zh": "Infineon presents first functional power devices on 300mm SiC wafers"
-    },
-    {
-     "title": "The Race to Build a “Find My” for AI Chips",
-     "link": "https://spectrum.ieee.org/find-my-ai-chip",
-     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
-     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The Race to Build a “Find My” for AI Chips"
-    },
-    {
-     "title": "EPIGAP OSA launches multi-wavelength, high-power LED module, operating from visible to near-infrared",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epigap-osa-091126.shtml",
-     "pubDate": "Mon, 9 Nov 2026 09:34:29 GMT",
-     "summary": "LED and photodetector maker EPIGAP OSA Photonics GmbH of Berlin, Germany has introduced the OMC-704, a multi-wavelength high-power LED module with user-selectable wavelengths from 365nm to 2300nm...",
-     "source": "Semiconductor Today",
-     "zh": "EPIGAP OSA launches multi-wavelength, high-power LED module, operating from visible to near-infrared"
     }
    ]
   },
@@ -1677,7 +1677,7 @@ window.INDUSTRY_DATA = {
      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
      "link": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
      "pubDate": "Tue, 10 Nov 2026 13:00:00 GMT",
-     "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
+     "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
      "source": "Dark Reading",
      "zh": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier"
     },
@@ -1762,12 +1762,12 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-     "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-     "pubDate": "Tue, 10 Nov 2026 19:23:34 +0000",
-     "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-     "source": "TechCrunch",
-     "zh": "Oura to acquire AI-native primary care startup Counsel Health for $625M"
+     "title": "Nvidia hires law firm Wachtell Lipton to investigate Jensen Huang&apos;s affair with an alleged Chinese spy, to be led by former acting US attorney Joon H. Kim (New York Times)",
+     "link": "https://www.techmeme.com/261110/p43#a261110p43",
+     "pubDate": "Tue, 10 Nov 2026 14:25:00 -0500",
+     "summary": "New York Times : Nvidia hires law firm Wachtell Lipton to investigate Jensen Huang's affair with an alleged Chinese spy, to be led by former acting US attorney Joon H. Kim &nbsp; &mdash;&nbsp; Wachtell partner Joon H. Kim, a former acting U.S. attorney, is leading the inquiry into the chip maker's c",
+     "source": "Techmeme",
+     "zh": "Nvidia hires law firm Wachtell Lipton to investigate Jensen Huang&apos;s affair with an alleged Chinese spy, to be led by former acting US attorney Joon H. Kim (New York Times)"
     },
     {
      "title": "Updated S-1: Anthropic commits ~$10B more to Microsoft and Google cloud by 2033; it can cancel a $34.9B Lambda deal over a delay but doesn&apos;t currently plan to (Aaron Holmes/The Information)",
@@ -1864,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 8 # Comments: 1",
      "source": "Hacker News",
      "zh": "Claude Whiteboards, Claude Sheets, and Claude Data"
-    },
-    {
-     "title": "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)",
-     "link": "https://www.techmeme.com/261110/p37#a261110p37",
-     "pubDate": "Tue, 10 Nov 2026 12:55:01 -0500",
-     "summary": "Mark Gurman / Bloomberg : Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B &nbsp; &mdash;&nbsp; Oura Inc. agreed to acquire artificial intelligence and on-demand doctor service Counsel Healt",
-     "source": "Techmeme",
-     "zh": "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)"
     },
     {
      "title": "Val Town is winding down",
@@ -2000,6 +1992,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 10 日消息，据第一财经今天（10 日）晚间报道，奥迪 · 上汽战略合作 CEO 舒睿泽（Fred Schulze）透露， 未来三年将推出三款新车，规划已进入执行阶段 。 此外，奥迪在 L3 级自动驾驶领域也有明确的发展目标。对于是否出口到欧洲市场，舒睿泽称，AUDI 品牌车型专为中国消费者打造， 全力聚焦中国市场 是未来几年的核心任务。 据IT之家此前报道，今年 10 月，奥迪中国宣布分别与合作伙伴签署战略协议，旨在强化奥迪四环品牌与 AUDI (奥迪字母标) 品牌之间的差异化定位及各自的战略侧重，并进一步明确“双品牌、双合作伙伴”渠道架构。这一战略里程碑，体现了 奥迪、",
      "source": "IT之家",
      "zh": "奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车"
+    },
+    {
+     "title": "MiniMax 开源 H3-Image 生图模型，10 秒就能生成一张 4K 图像",
+     "link": "https://www.ithome.com/1/025/191.htm",
+     "pubDate": "Tue, 10 Nov 2026 15:25:52 GMT",
+     "summary": "IT之家 11 月 10 日消息，今天（10 日）深夜，MiniMax 宣布，MiniMax H3-Image 正式发布并 开放权重 。这是一款衍生自 H3 的图像生成模型，其具备 文本生成图像、图像参考和图像编辑能力 。 IT之家从官方介绍获悉，其能够在 10 秒内生成 一张 4096 x 4096 像素、约 16 MP（4K） 的高分辨率图像，同时呈现丰富、真实的细节，并具备优秀的指令遵循和多参考图理解能力。 MiniMax 称，在 H3 预训练赋予的广泛图像能力基础上，H3-Image 进一步强化了整个后训练链路，在数据、强化学习、步数压缩、PE、部署优化等方面做了许多扎实的工作。这些工",
+     "source": "IT之家",
+     "zh": "MiniMax 开源 H3-Image 生图模型，10 秒就能生成一张 4K 图像"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Today’s Android app deals and freebies: Undead Slayer, Level Come Again, Children of Morta, more",
+     "link": "https://9to5toys.com/2026/11/10/todays-highlight-google-play-deals-46/",
+     "pubDate": "Tue, 10 Nov 2026 19:24:24 +0000",
+     "summary": "Amazon has now launched its official giant early Black Friday sale , the all-time low on the Google Home Speaker is still flying, and today’s best Google Play app and game deals are ready, including Undead Slayer: Offline Premium, Level Come Again: Troll Game, Children of Morta, Old Man’s Journey, E",
+     "source": "9to5Google",
+     "zh": "Today’s Android app deals and freebies: Undead Slayer, Level Come Again, Children of Morta, more"
+    },
     {
      "title": "Apple has new Mac app coming to make running local AI models easy",
      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
@@ -2090,20 +2098,20 @@ window.INDUSTRY_DATA = {
      "zh": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too"
     },
     {
-     "title": "Google rolling out Android 17 QPR2 for Pixel",
-     "link": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
-     "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
-     "summary": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more…",
-     "source": "9to5Google",
-     "zh": "Google rolling out Android 17 QPR2 for Pixel"
-    },
-    {
      "title": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more",
      "link": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
      "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
      "summary": "Like last year, the next Pixel Drop is rolling out a month early in November. Coupled with Android 17 QPR2 , it’s quite a big Feature Drop for Gemini and other AI capabilities, as well as the Pixel 10 series. more…",
      "source": "9to5Google",
      "zh": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more"
+    },
+    {
+     "title": "Google rolling out Android 17 QPR2 for Pixel",
+     "link": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
+     "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
+     "summary": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more…",
+     "source": "9to5Google",
+     "zh": "Google rolling out Android 17 QPR2 for Pixel"
     },
     {
      "title": "The Close-up Photographer of the Year shortlist shows off photos with an intimate perspective",
@@ -2186,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google turns Gemini towards medical paperwork"
     },
     {
-     "title": "Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel",
-     "link": "https://9to5google.com/2026/11/10/google-fi-network-switching/",
-     "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
-     "summary": "Google Fi Wireless is rolling out a big update today with the return of network switching thanks to a “secondary” partner. more…",
-     "source": "9to5Google",
-     "zh": "Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel"
-    },
-    {
      "title": "Xiaomi 18 Pro in for review",
      "link": "https://www.gsmarena.com/xiaomi_18_pro_in_for_review-news-75422.php",
      "pubDate": "Tue, 10 Nov 2026 18:01:03 +0100",
@@ -2258,6 +2258,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+     "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+     "pubDate": "Tue, 10 Nov 2026 19:26:30 GMT",
+     "summary": "On Sunday, Huang admitted to having an affair with a woman who has been connected to Chinese intelligence by reports in The New York Times and Financial Times.",
+     "source": "CNBC",
+     "zh": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe"
+    },
+    {
+     "title": "McEwen targets 250,000 to 300,000 gold ounces by 2030 while keeping Los Azules FID on track for mid-2027",
+     "link": "https://seekingalpha.com/news/4670048-mcewen-targets-250000-to-300000-gold-ounces-by-2030-while-keeping-los-azules-fid-on-track-for?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 14:23:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "McEwen targets 250,000 to 300,000 gold ounces by 2030 while keeping Los Azules FID on track for mid-2027"
+    },
+    {
+     "title": "The Fed will not raise interest rates by 50 basis points – Goldman Sachs’s Robin Brooks",
+     "link": "https://seekingalpha.com/news/4670047-the-fed-will-not-raise-interest-rates-by-50-basis-points-goldman-sachs-s-robin-brooks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 14:20:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The Fed will not raise interest rates by 50 basis points – Goldman Sachs’s Robin Brooks"
+    },
+    {
      "title": "Acadia gains after oral arguments in Nuplazid patent dispute",
      "link": "https://seekingalpha.com/news/4670024-acadia-gains-oral-arguments-nuplazid-patent-row?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 10 Nov 2026 14:18:54 -0500",
@@ -2296,22 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Atour projects 33%-35% 2026 net revenue growth as it raises retail growth outlook to 50%-55%"
-    },
-    {
-     "title": "EquipmentShare targets $5.9B revenue and $2.2B adjusted core EBITDA for 2026 while expanding natural gas power to nearly 1 GW",
-     "link": "https://seekingalpha.com/news/4670044-equipmentshare-targets-5_9b-revenue-and-2_2b-adjusted-core-ebitda-for-2026-while-expanding?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 14:13:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "EquipmentShare targets $5.9B revenue and $2.2B adjusted core EBITDA for 2026 while expanding natural gas power to nearly 1 GW"
-    },
-    {
-     "title": "Hive outlines $200M gpu cloud ARR target for end of year while reporting $24.8M adjusted EBITDA",
-     "link": "https://seekingalpha.com/news/4670042-hive-outlines-200m-gpu-cloud-arr-target-for-end-of-year-while-reporting-24_8m-adjusted-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 14:12:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hive outlines $200M gpu cloud ARR target for end of year while reporting $24.8M adjusted EBITDA"
     },
     {
      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
@@ -2426,20 +2434,52 @@ window.INDUSTRY_DATA = {
      "zh": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds"
     },
     {
-     "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
-     "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-     "pubDate": "Tue, 10 Nov 2026 17:48:47 GMT",
-     "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
-     "source": "CNBC",
-     "zh": "Pete Hegseth decries impeachment push, defends Iran war handling"
+     "title": "华安鑫创：股东肖炎质押120.00万股 占公司总股本1.50%",
+     "link": "http://stock.eastmoney.com/news/11215,202611103927686360.html",
+     "pubDate": "Wed, 11 Nov 2026 01:55:51 +0800",
+     "summary": "11月10日， 华安鑫创 发布公告称，公司近日收到持股5%以上股东肖炎的通知，获悉其将所持有的部分公司股份办理了质押业务。本次质押数量为120.00万股，占其所持股份比例15.00%，占公司总股本比例1.50%，质押起始日为2026年11月9日，质押到期日为至解除质押之日止，质权人为晋江市汇鑫小额贷款有限公司，质押用途为个人资金需求；本次质押股份非限售股，亦非补充质押。 截至公告披露日，肖炎持有公司股份约799.95万股，占公司总股本的10.00%；本次质押前质押股份数量为546.40万股，本次质押后质押股份数量为666.40万股，占其所持股份比例83.31%，占公司总股本比例8.33%，已质",
+     "source": "东方财富股票",
+     "zh": "华安鑫创：股东肖炎质押120.00万股 占公司总股本1.50%"
+    },
+    {
+     "title": "华利集团拟投资不超5亿美元“追光”",
+     "link": "http://finance.eastmoney.com/news/1354,202611113927717127.html",
+     "pubDate": "Wed, 11 Nov 2026 01:53:50 +0800",
+     "summary": "◎记者何治民黎灵希 11月10日晚， 华利集团 公告，公司或全资子公司拟以自有资金不超过5亿美元，投资O-Net Technologies Group Limited（以下简称“O-Net Technologies”，或标的公司），取得其不超过25%的股权。 值得注意的是，O-Net Technologies旗下的核心经营主体昂纳科技（深圳）集团股份有限公司（简称“昂纳科技”），正是光 通信 赛道的热门拟IPO“考生”，而昂纳科技的第二大股东—— 深科技 ，刚在10月末公告拟挂牌清仓所持全部股权。两家上市公司在光 通信 赛道上的一进一退，背后有何隐情，颇值得玩味。 拟不超5亿美元“跨界” 华利",
+     "source": "东方财富股票",
+     "zh": "华利集团拟投资不超5亿美元“追光”"
     },
     {
      "title": "美股三大指数震荡下跌 纳指跌超1% 国际金银价格下挫",
      "link": "http://finance.eastmoney.com/news/1345,202611103927654526.html",
      "pubDate": "Wed, 11 Nov 2026 01:46:56 +0800",
      "summary": "美东时间周二，美股三大指数下跌，截至发稿，道琼斯指数跌0.61%，标普500指数跌0.96%， 纳斯达克 综合 指数跌1.57%。 半导体 板块走弱，费城 半导体 指数跌2.24%。个股方面， 博通 涨1.76%； 台积电 跌0.04%， 超威半导体 跌1.20%， 英特尔 跌3.81%， 美光科技 跌4.05%， 闪迪 跌6.07%， 英伟达 跌6.63%。 商品市场方面，国际原油探底回升、金银价格下挫。截至发稿，布伦特原油 期货 价格跌0.49%，报92.12美元/桶；现货 黄金 价格跌2.94%，报4019.32美元/盎司；现货 白银 价格跌4.12%，报51.23美元/盎司。 全球要闻",
-     "source": "东方财富资讯",
+     "source": "东方财富股票",
      "zh": "美股三大指数震荡下跌 纳指跌超1% 国际金银价格下挫"
+    },
+    {
+     "title": "电气化提速！电网投资迎四万亿周期 多股获资金逆势加仓(名单)",
+     "link": "http://stock.eastmoney.com/news/11791,202611113927713873.html",
+     "pubDate": "Wed, 11 Nov 2026 01:44:02 +0800",
+     "summary": "11月10日，COP31力推2035年全球电能占比升至35%，GE Vernova同日宣布扩建电网工厂。 国网\"十五五\"投资预计4万亿元， 特高压 招标已超2025年全年。 2035年电能占比拟提至35%，GE扩建电网工厂 据媒体当地时间11月10日报道，在土耳其安塔利亚举行的第31届联合国气候变化大会（COP31）上，国际可再生能源署（IRENA）总干事Francesco La Camera表示， 电力 正在交通、供暖和工业领域加速替代化石燃料。本届大会的一项核心目标，是争取各方承诺在2035年前将 电力 在全球终端能源消费中的占比，从目前的略高于20%提升至35%。 电气化已从气候议题升级",
+     "source": "东方财富股票",
+     "zh": "电气化提速！电网投资迎四万亿周期 多股获资金逆势加仓(名单)"
+    },
+    {
+     "title": "微软跌幅扩大至3% 此前Anthropic推出了Office工具",
+     "link": "http://finance.eastmoney.com/news/1354,202611113927714294.html",
+     "pubDate": "Wed, 11 Nov 2026 01:43:20 +0800",
+     "summary": "微软 跌幅扩大至3%，此前Anthropic推出了Office工具。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "微软跌幅扩大至3% 此前Anthropic推出了Office工具"
+    },
+    {
+     "title": "珍宝岛玛巴洛沙韦原料药获准注册 项目累计研发投入871.73万元",
+     "link": "http://finance.eastmoney.com/news/1354,202611103927691948.html",
+     "pubDate": "Wed, 11 Nov 2026 01:42:23 +0800",
+     "summary": "珍宝岛 11月10日晚公告称，公司鸡西分公司近日收到国家药品监督管理局颁发的《 化学原料 药上市申请批准通知书》，所申报的玛巴洛沙韦 原料药 符合药品注册的有关要求，批准注册。 玛巴洛沙韦片适用于成人和5岁及以上儿童单纯性甲型和乙型 流感 患者，包括既往健康的患者以及存在 流感 相关并发症高风险的患者。玛巴洛沙韦干混悬剂适用于1至12岁以下单纯性甲型和乙型 流感 儿童患者，包括既往健康的患者以及存在流感并发症高风险的患者。 药智网数据显示，玛巴洛沙韦片2025年 医院 销售总额为8.91亿元，2026年上半年 医院 销售总额约2.93亿元；玛巴洛沙韦 原料药 2025年用量约0.46吨。 截至",
+     "source": "东方财富股票",
+     "zh": "珍宝岛玛巴洛沙韦原料药获准注册 项目累计研发投入871.73万元"
     },
     {
      "title": "Defiant Hegseth defends Iran war as he faces impeachment vote",
@@ -2456,46 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "The consumer price index rose 0.4% in October, a reduction from September but a level economists said is still uncomfortably high.",
      "source": "CNBC",
      "zh": "Here&apos;s the inflation breakdown for October 2026 — in one chart"
-    },
-    {
-     "title": "U.S. gas prices fall below $4 for the first time since July",
-     "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-     "pubDate": "Tue, 10 Nov 2026 16:29:09 GMT",
-     "summary": "Americans may finally find some relief at the pump.",
-     "source": "CNBC",
-     "zh": "U.S. gas prices fall below $4 for the first time since July"
-    },
-    {
-     "title": "Alice Huang’s tangled web of connections",
-     "link": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
-     "pubDate": "Tue, 10 Nov 2026 16:17:20 GMT",
-     "summary": "Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators",
-     "source": "Financial Times",
-     "zh": "Alice Huang’s tangled web of connections"
-    },
-    {
-     "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
-     "pubDate": "Tue, 10 Nov 2026 11:15:35 -0500",
-     "summary": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its fundamental responsibility: protecting…",
-     "source": "SEC",
-     "zh": "SEC Announces Enforcement Annual Results for Fiscal Year 2026"
-    },
-    {
-     "title": "Top Fed official considers largest rate rise since 2022",
-     "link": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
-     "pubDate": "Tue, 10 Nov 2026 16:03:45 GMT",
-     "summary": "Governor Christopher Waller says policymakers should weigh a 50bp move if US inflation fails to slow",
-     "source": "Financial Times",
-     "zh": "Top Fed official considers largest rate rise since 2022"
-    },
-    {
-     "title": "见闻历11.11大促最后3天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Wed, 11 Nov 2026 00:02:52 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11大促最后3天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”"
     }
    ]
   },

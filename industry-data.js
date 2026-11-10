@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/10 11:22:58",
+ "generated_at": "2026/11/10 11:31:49",
  "recent_days": 7,
  "industries": [
   {
@@ -1754,12 +1754,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "英飞凌成功制造全球首个 300mm 碳化硅功率器件晶圆",
+     "link": "https://www.ithome.com/1/024/733.htm",
+     "pubDate": "Tue, 10 Nov 2026 03:27:37 GMT",
+     "summary": "IT之家 11 月 10 日消息，Infineon（英飞凌）当地时间 9 日宣布，其成功率先在全规模半导体晶圆厂环境中 将 300mm（12 英寸）碳化硅 (SiC) 晶圆加工为功率半导体器件 。 这一创举基于奥地利 Villach 晶圆厂的现有硅 (Si) 半导体制造设备，显示了大尺寸碳化硅晶圆在商业化上的实际潜力。英飞凌将与客户和合作伙伴密切合作规划 12 英寸 SiC 技术及量产时机，同时进一步推进其 200mm SiC 制造路线图。 此外，英飞凌还在其德国德累斯顿工厂 验证了其冷分片技术在 12 英寸 SiC 上的可行性 。这一工艺可提升晶锭到晶圆工艺的效率，同时减少加工损耗。",
+     "source": "IT之家",
+     "zh": "英飞凌成功制造全球首个 300mm 碳化硅功率器件晶圆"
+    },
+    {
+     "title": "第五代骁龙 8 + 165Hz 高刷，一加 Ace 6T 手机国补 2059 元 +6 期免息",
+     "link": "https://www.ithome.com/1/024/732.htm",
+     "pubDate": "Tue, 10 Nov 2026 03:27:35 GMT",
+     "summary": "一加 Ace 6T 手机 2025 年 12 月 3 日正式发布，首发搭载高通骁龙 8 Gen 5 处理器， 售价 2399 元起 。 12GB + 256GB 首销价 2399 元 16GB + 256GB 首销价 2699 元 12GB + 512GB 首销价 2899 元 16GB + 512GB 首销价 3199 元 16GB + 1TB 首销价 3699 元 京东 11.11 大促期间，叠加以下多重优惠，到手仅需 2059.22 元 +6 期免息（学生会员到手价更低）： 点击下方卡片可领 PLUS 专享满 100 享 9 折券（最高减 300 元）； 进入 App 商品页点击右上角悬",
+     "source": "IT之家",
+     "zh": "第五代骁龙 8 + 165Hz 高刷，一加 Ace 6T 手机国补 2059 元 +6 期免息"
+    },
+    {
+     "title": "Adobe 与迪士尼达成多年战略合作，将 AI 工具推广至迪士尼乐园、内容制作领域",
+     "link": "https://www.ithome.com/1/024/731.htm",
+     "pubDate": "Tue, 10 Nov 2026 03:26:36 GMT",
+     "summary": "IT之家 11 月 10 日消息，Adobe 公司昨日宣布与华特迪士尼公司达成一项为期多年的战略合作协议，为迪士尼业务开发定制 AI 模型， 计划将 AI 工具推广至迪士尼主题乐园、内容制作、体育内容传播等领域 。 IT之家从官方新闻稿获悉，Adobe 将成为迪士尼官方 AI 创新合作伙伴，为迪士尼提供 Adobe Firefly、Firefly Foundry、Premiere 和 Photoshop 等工具的优先使用权限，并派出工程和研究团队，为迪士尼工作流提供支持。 同时，双方还将利用 Firefly Foundry 开发生成式 AI 模型。这些模型将围绕迪士尼角色、场景环境和视觉风格进",
+     "source": "IT之家",
+     "zh": "Adobe 与迪士尼达成多年战略合作，将 AI 工具推广至迪士尼乐园、内容制作领域"
+    },
+    {
+     "title": "OPPO Watch 5 轻薄小方表五款配色公布，11 月 16 日发布",
+     "link": "https://www.ithome.com/1/024/730.htm",
+     "pubDate": "Tue, 10 Nov 2026 03:26:14 GMT",
+     "summary": "IT之家 11 月 10 日消息，OPPO 今日公布 Watch 5 轻薄小方表五款配色，分别为奇遇紫、月光白、星耀黑、仙踪绿、心愿橙，新品将于 11 月 16 日 19:00 发布。 IT之家注意到，OPPO 官方此前公布了这款新手表的核心配置信息，其采用 9.2mm 厚度 + 25g 轻量化设计，支持全场景流体云、灵感表盘 DIY、FatMax 超燃脂模式、13 项睡眠监测， 拥有最长 10 天续航能力 。 OPPO Watch 数字系列此前一直采用方形表盘设计，直到 Watch X 系列和 S 系列的推出。数字系列最新款的 OPPO Watch 4 Pro 目前官网显示“已售罄”，其搭载",
+     "source": "IT之家",
+     "zh": "OPPO Watch 5 轻薄小方表五款配色公布，11 月 16 日发布"
+    },
+    {
+     "title": "京东入局短剧带货赛道：内测“京东追剧福利社”，剧中同款可直接买",
+     "link": "https://www.ithome.com/1/024/729.htm",
+     "pubDate": "Tue, 10 Nov 2026 03:24:51 GMT",
+     "summary": "IT之家 11 月 10 日消息，据《读佳》今日报道，京东低调内测独立短剧产品“ 京东追剧福利社 ”，采用免费模式。 报道称，和抖音、快手主打信息流刷剧不同，京东这套产品逻辑，从一开始就带着浓厚的电商基因，据产品介绍， “京东追剧福利社”支持看剧领福利、领优惠 。 剧中同款可直接买，由京东发货 ，不过实际体验中，并没有看到相关的电商入口，或还在测试完善阶段。 综合IT之家此前报道， 根据 QuestMobile 发布的 2026 中国移动互联网秋季大报告 ，截止到 2026 年 9 月，移动互联网月活用户规模达到 12.81 亿，同比增长 0.9%。在用户使用时长上， 短剧视频、短视频的增长贡",
+     "source": "IT之家",
+     "zh": "京东入局短剧带货赛道：内测“京东追剧福利社”，剧中同款可直接买"
+    },
+    {
      "title": "微软升级 Win11 备份 / 还原功能：“恢复摘要”让换新电脑迁移更透明",
      "link": "https://www.ithome.com/1/024/728.htm",
      "pubDate": "Tue, 10 Nov 2026 03:19:42 GMT",
      "summary": "IT之家 11 月 10 日消息，微软于 11 月 9 日发布公告，宣布“Windows 设置备份和还原”功能的多项升级，官方表示本次升级覆盖设备更换、系统重装与故障恢复场景，为企业环境增强 Windows 基础韧性能力。 名称方面，该功能原名为“面向组织的 Windows 备份”（Windows Backup for Organizations）， 于 2026 年 7 月更名为“Windows 设置备份和还原”（Windows settings backup and restore）。 “面向组织的 Windows 备份”是微软面向企业推出的 Windows 设置备份与还原功能，于 202",
      "source": "IT之家",
      "zh": "微软升级 Win11 备份 / 还原功能：“恢复摘要”让换新电脑迁移更透明"
+    },
+    {
+     "title": "新能源汽车动力电池要配“身份证”了",
+     "link": "https://www.huxiu.com/article/4904370.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 11:18:01 +0800",
+     "summary": "本文来自微信公众号： 经济观察网 ，作者：霍婷婷 一张电池数字身份证串起全生命周期，让每一块动力电池去向可查、源头可溯、全程可控。这种从“软约束”向“可执行数字化工具”的转变，是在解决过去因数据孤岛导致的流向监控难、责任界定模糊等问题，确保废旧电池不再流入无序的“黑作坊”，能够进入规范的综合利用体系。 11月5日，工业和信息化部研究编制了《新能源汽车动力电池数字身份证管理暂行规定》，现向社会公开征求意见。动力电池“数字身份证”制度标志动力电池监管进入“一池一码、全程可溯”新阶段。 从碎片化溯源到全链条数字治理的跨越 新京报指出，近年来我国新能源汽车产销量持续攀升，随着早期销售使用的新能源汽车动",
+     "source": "虎嗅",
+     "zh": "新能源汽车动力电池要配“身份证”了"
     },
     {
      "title": "美股AI巨震，如何把握港A的AI产业链分化机遇？",
@@ -1778,28 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic IPO倒计时：最早11月16日上市"
     },
     {
-     "title": "Rapidus 社长小池淳义：计划在现有晶圆厂附近再建设 3 座工厂和 1 个研发基地",
-     "link": "https://www.ithome.com/1/024/727.htm",
-     "pubDate": "Tue, 10 Nov 2026 03:13:48 GMT",
-     "summary": "IT之家 11 月 10 日消息，据日本放送协会 (NHK) 报道，Rapidus 社长小池淳义当地时间本月 4 日在札幌出席日本贸易振兴机构 (JETRO) 举办的一次论坛时表示， 该企业计划在现有晶圆厂附近再建设 3 座工厂和 1 个研发基地 ，形成产研一体的半导体产业集群。 小池淳义提到，Rapidus 的 2nm 制造能力有助于遏制因人工智能普及等因素日益增长的电力消耗。其先进半导体预计将用于人工智能等高性能计算 (HPC) 领域，包括目前无人能够想象的下一代应用。 IT之家注意到，Rapidus 先进制程技术合作伙伴 IBM 近期在 Rapidus 晶圆厂所在的千岁市设立了办事处 ，",
-     "source": "IT之家",
-     "zh": "Rapidus 社长小池淳义：计划在现有晶圆厂附近再建设 3 座工厂和 1 个研发基地"
-    },
-    {
      "title": "南非独立站物流时效拖到12天，投放CPA涨了四成还要不要继续？",
      "link": "https://www.baijing.cn/question/638634",
      "pubDate": "Tue, 10 Nov 2026 03:12:42 +0000",
      "summary": "我们做南非市场的家居独立站，主投Meta和Google，团队5个人，月投放预算约8万人民币，现在日均30单左右。最近物流时效从下单到签收普遍拉到10-12天，约翰内斯堡和开普敦的客户催单明显变多，同一批广告的CPA从180元涨到250元上下，签收前的退款率也翻了一倍。已经试过换本地尾程合作方、把预计送达时间在落地页写得更保守，但转化率又掉了。卡在不知道该先压投放等物流改善，还是继续跑量摊薄固定成本。这种时效和CPA同时恶化的情况，你们一般用什么指标决定停投还是加投？",
      "source": "白鲸出海",
      "zh": "南非独立站物流时效拖到12天，投放CPA涨了四成还要不要继续？"
-    },
-    {
-     "title": "机械革命大师之路 X10 NVIDIA RTX Spark 新品发布会定档 11 月 19 日",
-     "link": "https://www.ithome.com/1/024/726.htm",
-     "pubDate": "Tue, 10 Nov 2026 03:11:29 GMT",
-     "summary": "IT之家 11 月 10 日消息，机械革命宣布，大师之路 X10 NVIDIA RTX Spark 新品发布会定档 11 月 19 日。 当想象与强大算力相遇 方寸之间，未来就此展开 机械革命大师之路 X10，让 AI 触手可及 11 月 19 日敬请期待，无限可能由你开启 IT之家注意到，在 6 月的 2026 台北国际电脑展主题演讲中， 英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器 。英伟达 RTX Spark 由联发科合作的 20 核 Grace CPU + 英伟达 Blackwell RTX GPU 组成（6144 CUDA 核心），AI 性能达到 1petaF",
-     "source": "IT之家",
-     "zh": "机械革命大师之路 X10 NVIDIA RTX Spark 新品发布会定档 11 月 19 日"
     },
     {
      "title": "厉娜能翻红，绝味鸭脖却翻不了身？",
@@ -1816,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 时代周报 ，编辑：韩迅，作者：周松清 韩迅 黄仁勋的坦白来得太突然。 11月9日，英伟达（NVIDIA）在官网发布《致公司全体同仁的一封信》，创始人兼CEO黄仁勋在信中亲口承认：“我对妻子不忠。我的行为伤害了她和我们的孩子。我所做的事情没有任何借口。” 英伟达在声明中表示，为调查此事，公司董事会已成立一个由独立董事组成的专项委员会，并聘请外部法律顾问开展调查。 截至目前，黄仁勋出轨对象身份并未确认，但此前有媒体将相关女性指向新加坡算力企业Megaspeed前高管Alice Huang。公司注册文件及相关资料显示，她亦使用Huang Le之名，中文媒体称其为黄乐。 随着事件",
      "source": "虎嗅",
      "zh": "“女主角”黄乐的A股往事"
-    },
-    {
-     "title": "黄仁勋出轨丑闻发酵，英伟达市值一夜蒸发逾 1900 亿美元",
-     "link": "https://www.ithome.com/1/024/722.htm",
-     "pubDate": "Tue, 10 Nov 2026 03:09:10 GMT",
-     "summary": "IT之家 11 月 10 日消息，北京时间 11 月 10 日，美股科技股全线收涨， 英伟达逆势大跌，盘初一度跌 8.8% 。 截至收盘，英伟达跌幅收窄至 4.27%，股价报 178.67 美元 （IT之家注：现汇率约合 1,195 元人民币） ，总市值 4.31 万亿美元 （现汇率约合 28.82 万亿元人民币） ， 创七个月以来收盘新低 ，市值一夜蒸发逾 1,900 亿美元 （现汇率约合 1.27 万亿元人民币） 。 消息面上， 英伟达 CEO 黄仁勋 11 月 9 日向公司员工发出一封道歉信 ，承认自己的出轨行为，并向家人、公司员工、董事会及股东公开道歉。 据 CNBC 报道，当地时间 ",
-     "source": "IT之家",
-     "zh": "黄仁勋出轨丑闻发酵，英伟达市值一夜蒸发逾 1900 亿美元"
     },
     {
      "title": "美股，暴涨暴跌成常态？",
@@ -1866,22 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "出国游也要担心“连坐”，低保成了穷人的枷锁"
     },
     {
-     "title": "任天堂 Switch 2/Switch 1 游戏机更新 23.5.0 固件，下周将支持赠送数字游戏功能",
-     "link": "https://www.ithome.com/1/024/721.htm",
-     "pubDate": "Tue, 10 Nov 2026 03:04:09 GMT",
-     "summary": "IT之家 11 月 10 日消息，任天堂今天宣布为 Switch 2 和 Switch 1 游戏机推送 23.5.0 固件更新。本次更新最大的亮点，是为机器新增赠送数字游戏功能。 据官方介绍， 赠送数字游戏功能将在 11 月 17 日开放 ， 用户可以向同一家庭组的成员赠送 eShop 商品 。如果您希望在家人生日、纪念日时送上一份礼物，不妨试试这项功能。 数字版游戏送出后，收礼人可以在购买时指定的游戏机上领取礼物（需关联相应任天堂账号）。 IT之家附该功能使用方法如下： 在 Nintendo eShop 中进入想要赠送商品的购买页面，选择「作为礼物赠送」，然后选择收礼人、包装方式等选项，最后",
-     "source": "IT之家",
-     "zh": "任天堂 Switch 2/Switch 1 游戏机更新 23.5.0 固件，下周将支持赠送数字游戏功能"
-    },
-    {
-     "title": "国家发改委：多渠道丰富老年教育资源供给，帮助老年人跨越“数字鸿沟”",
-     "link": "https://www.ithome.com/1/024/720.htm",
-     "pubDate": "Tue, 10 Nov 2026 03:02:48 GMT",
-     "summary": "IT之家 11 月 10 日消息，国家发展改革委今日召开奋进“十五五”系列新闻发布会，介绍增进民生福祉有关情况。 据界面新闻报道，国家发展改革委价格司副司长张璐琴表示，持续扩大优质产品和服务供给，更好满足老年人多样化消费需求。 一是拓展适老消费场景。加力推进“一刻钟便民生活圈”扩围升级，发展助餐助浴助洁等社区和居家上门服务，引导商超等设置特色老年用品体验区， 推动电商平台设立银发消费板块 ，让老年人消费更方便。 二是丰富银发消费业态。支持各地面向老年人开展更多文艺展演等活动、提供更多网络视听、舞台艺术产品，丰富老年人精神文化生活；增加银发旅游列车和邮轮游产品供给，打造高品质旅居养老目的地，为老",
-     "source": "IT之家",
-     "zh": "国家发改委：多渠道丰富老年教育资源供给，帮助老年人跨越“数字鸿沟”"
-    },
-    {
      "title": "悲观者正确，乐观者前行： AI 时代的失业焦虑",
      "link": "https://www.huxiu.com/article/4904360.html?f=rss",
      "pubDate": "Tue, 10 Nov 2026 11:00:37 +0800",
@@ -1922,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "巴基斯坦手游内购回款要45天，买量账期扛得住吗？"
     },
     {
-     "title": "全球头部电脑巨头兜兜转转，才发现中国产线是真香",
-     "link": "https://www.huxiu.com/article/4903625.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 10:47:36 +0800",
-     "summary": "全球电脑巨头三年前纷纷将产线搬去东南亚，想躲关税、分散风险，可最近又灰溜溜地搬回中国。原因很简单&mdash;&mdash;钱！巨头们兜兜转转，发现还是中国产线最香，喊口号没用，效率和成本才是硬道理。",
-     "source": "虎嗅",
-     "zh": "全球头部电脑巨头兜兜转转，才发现中国产线是真香"
-    },
-    {
      "title": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)",
      "link": "https://www.techmeme.com/261109/p48#a261109p48",
      "pubDate": "Mon, 09 Nov 2026 20:41:39 -0500",
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Locating the source of a mysterious beep",
      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
      "pubDate": "Tue, 10 Nov 2026 00:10:46 +0000",
-     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 30 # Comments: 12",
+     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 35 # Comments: 16",
      "source": "Hacker News",
      "zh": "Locating the source of a mysterious beep"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Horible public key tricks",
      "link": "https://maurycyz.com/projects/badcert/",
      "pubDate": "Tue, 10 Nov 2026 00:07:17 +0000",
-     "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 45 # Comments: 18",
+     "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 51 # Comments: 20",
      "source": "Hacker News",
      "zh": "Horible public key tricks"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Fable 5.2 one-shotted my nephew's dream game",
      "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
      "pubDate": "Mon, 09 Nov 2026 23:08:13 +0000",
-     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 210 # Comments: 145",
+     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 223 # Comments: 152",
      "source": "Hacker News",
      "zh": "Fable 5.2 one-shotted my nephew's dream game"
     },
@@ -2250,6 +2250,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "马斯克Terafab计划月产70万片存储芯片晶圆，科创半导体设备ETF鹏华涨超2%",
+     "link": "http://finance.eastmoney.com/news/1353,202611103927178192.html",
+     "pubDate": "Tue, 10 Nov 2026 11:20:46 +0800",
+     "summary": "半导体产业链开盘领涨，消息面上，马斯克旗下半导体合资企业Terafab已向半导体设备供应商透露，计划于2032年实现月产100万片晶圆的产能目标，其中70万片用于存储芯片、30万片用于逻辑芯片。 银河证券认为，近期半导体设备板块回调幅度最大，现企稳修复。国内存储厂扩产将是拉动设备厂商下一轮出货的重要驱动因素，经前期调整后半导体设备板块估值已低，且海外AI叙事波动将凸显国产链确定性。 截至2026年11月10日 11:14，科创半导体设备ETF鹏华上涨2.00%，成分股强一股份上涨6.21%，西安奕材上涨3.65%，兴福电子，安集科技等个股跟涨。 科创半导体设备ETF鹏华(589020)紧密跟踪",
+     "source": "东方财富股票",
+     "zh": "马斯克Terafab计划月产70万片存储芯片晶圆，科创半导体设备ETF鹏华涨超2%"
+    },
+    {
+     "title": "提前两连板！东方新能官宣9.12亿算力大单后再获涨停，公司回应跨界算力服务业务",
+     "link": "http://stock.eastmoney.com/news/11215,202611103927177971.html",
+     "pubDate": "Tue, 10 Nov 2026 11:19:13 +0800",
+     "summary": "21财经11月10日电，据21财经雷达， 东方新能 （002310.SZ）股价再封一字涨停，截至10:31，股价报2.81元/股，总市值为168.58亿元。消息面上，11月9日晚， 东方新能 公告称，公司计划由新能企管中心实施高性能算力集群项目，与经销商A签署销售合同，采购算力板卡，总金额约9.12亿元(含税)。本次采购的GPU产品主要用于 AI应用 推理、模型微调及图形渲染等场景，为公司拓展算力服务业务的首期投入。值得注意的是，或受“东方”概念炒作等市场因素催化， 东方新能 股价已提前于近两个交易日（11月6日、11月9日）录得涨停板。公司在11月9日晚异动公告中称，公司未发现近期公共 传媒",
+     "source": "东方财富股票",
+     "zh": "提前两连板！东方新能官宣9.12亿算力大单后再获涨停，公司回应跨界算力服务业务"
+    },
+    {
+     "title": "【环球财经】澳大利亚航空公司宣布外包部分总部工作 约850个岗位将受影响",
+     "link": "http://finance.eastmoney.com/news/1354,202611103927177264.html",
+     "pubDate": "Tue, 10 Nov 2026 11:18:43 +0800",
+     "summary": "新华财经悉尼11月10日电（记者李晓渝）澳大利亚最大的航空公司澳大利亚航空公司（Qantas）10日宣布与科技咨询公司 埃森哲 （Accenture）达成多年期合作协议，计划调整部分总部职能，预计未来几年约850个岗位将受到影响，首轮调整将于2027年年中启动。 据当地媒体报道，澳航首席执行官瓦妮莎·哈德森（Vanessa Hudson ）当天在发给员工的内部邮件中表示，此次调整将首先涉及财务、采购、人力资源和市场营销等部门。部分相关服务将转由 埃森哲 承接，主要由其在印度的团队提供，也有部分工作将在澳大利亚完成。 哈德森表示，澳航将与 埃森哲 共同重新设计和简化部分企业职能，以减少业务重复，",
+     "source": "东方财富股票",
+     "zh": "【环球财经】澳大利亚航空公司宣布外包部分总部工作 约850个岗位将受影响"
+    },
+    {
+     "title": "Keyera declares $0.5625 dividend",
+     "link": "https://seekingalpha.com/news/4669447-keyera-declares-0_5625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 22:18:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Keyera declares $0.5625 dividend"
+    },
+    {
+     "title": "BD 大单接连落地叠加外部风险缓释！港股通创新药ETF万家标的指数涨超2%",
+     "link": "http://finance.eastmoney.com/news/1353,202611103927178010.html",
+     "pubDate": "Tue, 10 Nov 2026 11:18:13 +0800",
+     "summary": "11月10日，截至10：00，港股通创新药ETF万家（520700）跟踪指数港股通创新药指数（931250）上涨2.30%， 个股方面，金斯瑞生物科技涨超10%，百奥赛图-B涨超4%，云顶新耀，药明康德等涨超3%。 热门ETF方面，港股通创新药ETF万家（520700）当前成交额已达1.55亿元，换手率约16.22%，开盘成交活跃度较高。 消息面上，中国生物制药于 11 月 4 日官宣和勃林格殷格翰达成 6 个临床前项目 BD 合作，首付款及近期付款 3.58 亿美元，潜在里程碑合计最高可达 70 亿美元，成为近期出海重磅交易；百济神州披露三季报业绩高增，大华继显上调其目标价至 300 港元。",
+     "source": "东方财富股票",
+     "zh": "BD 大单接连落地叠加外部风险缓释！港股通创新药ETF万家标的指数涨超2%"
+    },
+    {
+     "title": "Steel Dynamics declares $0.53 dividend",
+     "link": "https://seekingalpha.com/news/4669446-steel-dynamics-declares-0_53-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 22:17:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Steel Dynamics declares $0.53 dividend"
+    },
+    {
+     "title": "华大智造：涌生智能与迈维代谢签约全国首条代谢全流程自动化产线",
+     "link": "http://finance.eastmoney.com/news/1354,202611103927176520.html",
+     "pubDate": "Tue, 10 Nov 2026 11:16:47 +0800",
+     "summary": "据 华大智造 消息，11月6日，武汉迈维代谢生物科技股份有限公司（简称“迈维代谢”）与 华大智造 子公司深圳华大涌生智能科技有限公司（简称“涌生智能”）签约，宣布将共同落地全国首条代谢领域全流程自动化产线。双方将在 基因测序 、代谢质谱、自动化产线定制开发等领域开展全方位战略合作。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "华大智造：涌生智能与迈维代谢签约全国首条代谢全流程自动化产线"
+    },
+    {
      "title": "Genuine Parts declares $1.0625 dividend",
      "link": "https://seekingalpha.com/news/4669445-genuine-parts-declares-1_0625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 09 Nov 2026 22:16:39 -0500",
@@ -2258,20 +2314,20 @@ window.INDUSTRY_DATA = {
      "zh": "Genuine Parts declares $1.0625 dividend"
     },
     {
+     "title": "海关总署：前10个月我国出口机电产品16.81万亿元，同比增长25.2%",
+     "link": "http://finance.eastmoney.com/news/1346,202611103927177163.html",
+     "pubDate": "Tue, 10 Nov 2026 11:16:00 +0800",
+     "summary": "“海关发布”消息，据海关统计，2026年前10个月，我国货物贸易进出口总值44.81万亿元人民币，同比（下同）增长20%。从重点商品看，出口方面，前10个月，我国出口机电产品16.81万亿元，增长25.2%；劳密产品3.45万亿元，增长2.4%； 农产品 6220.8亿元，增长3.9%。进口方面，前10个月，我国进口机电产品8.17万亿元，增长35%；原油4亿吨，减少15.1%； 农产品 1.29万亿元，增长4.6%。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "海关总署：前10个月我国出口机电产品16.81万亿元，同比增长25.2%"
+    },
+    {
      "title": "Crescent Capital BDC declares $0.34/share & special dividend $0.03/share",
      "link": "https://seekingalpha.com/news/4669444-crescent-capital-bdc-declares-034share-special-dividend-003share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 09 Nov 2026 22:15:30 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Crescent Capital BDC declares $0.34/share & special dividend $0.03/share"
-    },
-    {
-     "title": "我国“星云星座计划”亮相，卫星ETF鹏华涨超2%",
-     "link": "http://finance.eastmoney.com/news/1353,202611103927174673.html",
-     "pubDate": "Tue, 10 Nov 2026 11:13:47 +0800",
-     "summary": "消息面上，11月9日，2026太空云产业生态大会上发布“星云星座计划”，标志着我国“太空云”生态建设从技术验证走向产业化布局。该计划由中国科学院空天信息创新研究院与国内科创企业联合研发，覆盖国产算力芯片到卫星应用全产业链，将构建“天地协同”统一算力网，为自然资源、防灾应急、低空经济等场景提供全球太空算力服务。未来太空将与地面算力无缝融合、统一调度，成为与地面地位同等、能力互补的一级算力节点。 中航证券指出，商业航天作为长周期、高壁垒、高附加值、大市场空间的属性有望持续得到资金加码，并进一步加快产业节奏，一二级市场打通则使得更多优质企业有望通过资本市场实现价值传递和价值重估，形成产业与资本共振的",
-     "source": "东方财富股票",
-     "zh": "我国“星云星座计划”亮相，卫星ETF鹏华涨超2%"
     },
     {
      "title": "Teradyne declares $0.13 dividend",
@@ -2290,68 +2346,20 @@ window.INDUSTRY_DATA = {
      "zh": "LifeVantage declares $0.05 dividend"
     },
     {
-     "title": "马斯克Terafab晶圆厂计划2032年追平三星DRAM产能，半导体ETF博时(159582)跟踪指数涨超1%",
-     "link": "http://finance.eastmoney.com/news/1353,202611103927173627.html",
-     "pubDate": "Tue, 10 Nov 2026 11:10:08 +0800",
-     "summary": "2026年11月10日盘中，半导体ETF博时(159582)跟踪指数中证半导体产业指数(931865)强势上涨1.38%，成分股江丰电子上涨6.24%，矽电股份上涨4.62%，金海通上涨3.97%，芯源微，神工股份等个股跟涨。拉长时间看，截至2026年11月9日，半导体ETF博时今年以来累计上涨26.09%。 流动性方面，半导体ETF博时盘中换手6.96%，成交5008.02万元。拉长时间看，截至11月9日，半导体ETF博时近1周日均成交1.28亿元。 隔夜费城半导体指数大涨近7%收复万点关口，AMD、博通、美光等涨幅居前。 11月，闪存龙头闪迪大幅调涨NAND闪存合约价格，涨幅高达50%。值",
-     "source": "东方财富股票",
-     "zh": "马斯克Terafab晶圆厂计划2032年追平三星DRAM产能，半导体ETF博时(159582)跟踪指数涨超1%"
-    },
-    {
-     "title": "印度对华未处理气相二氧化硅作出第一次反倾销日落复审终裁，建议继续征收为期5年的反倾销税",
-     "link": "http://finance.eastmoney.com/news/1354,202611103927172985.html",
-     "pubDate": "Tue, 10 Nov 2026 11:09:59 +0800",
-     "summary": "据中国贸易救济信息网，11月6日，印度商工部发布公告，对原产于或进口自中国的未处理气相二氧化硅作出第一次反倾销日落复审终裁，建议继续征收为期5年的反倾销税，税额为0－1296美元/吨，其中生产商瓦克化学气相二氧化硅（张家港）有限公司为0，山东东岳 有机硅 材料股份有限公司和中国其他生产商均为1296美元/吨。本案涉及印度海关编28112200项下的产品。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "印度对华未处理气相二氧化硅作出第一次反倾销日落复审终裁，建议继续征收为期5年的反倾销税"
-    },
-    {
-     "title": "深圳荣耀奇点智能科技有限公司成立，注册资本1亿",
-     "link": "http://finance.eastmoney.com/news/1354,202611103927172844.html",
-     "pubDate": "Tue, 10 Nov 2026 11:09:59 +0800",
-     "summary": "天眼查App显示，11月10日，深圳荣耀奇点智能科技有限公司成立，法定代表人为彭求恩，注册资本1亿元人民币，经营范围含服务消费 机器人 制造、服务消费 机器人 销售、智能 机器人 的研发等。股东信息显示，该公司由荣耀终端股份有限公司全资持股。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "深圳荣耀奇点智能科技有限公司成立，注册资本1亿"
-    },
-    {
-     "title": "宝马集团选择三星SDI为欧洲供应电池电芯",
-     "link": "http://stock.eastmoney.com/news/1438,202611103927174483.html",
-     "pubDate": "Tue, 10 Nov 2026 11:09:52 +0800",
-     "summary": "宝马集团选择三星SDI为欧洲供应 电池 电芯，选择LG能源解决方案为美国供应 电池 电芯。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "宝马集团选择三星SDI为欧洲供应电池电芯"
-    },
-    {
-     "title": "马来西亚基准毛棕榈油期货下跌3.01%，至每公吨4,130林吉特",
-     "link": "http://finance.eastmoney.com/news/1351,202611103927173065.html",
-     "pubDate": "Tue, 10 Nov 2026 11:09:21 +0800",
-     "summary": "马来西亚基准毛棕榈油 期货 下跌3.01%，至每公吨4,130林吉特。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "马来西亚基准毛棕榈油期货下跌3.01%，至每公吨4,130林吉特"
-    },
-    {
-     "title": "BitGo outlines goStocks push toward $70T capital markets while integrating NYDIG global markets",
-     "link": "https://seekingalpha.com/news/4669441-bitgo-outlines-gostocks-push-toward-70t-capital-markets-while-integrating-nydig-global?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 22:02:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BitGo outlines goStocks push toward $70T capital markets while integrating NYDIG global markets"
-    },
-    {
-     "title": "Plug reaffirms 15% to 16% revenue growth while forecasting roughly $280M in Q4 revenue and targeting positive EBITDAS",
-     "link": "https://seekingalpha.com/news/4669440-plug-reaffirms-15-percent-to-16-percent-revenue-growth-while-forecasting-roughly-280m-in-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 22:01:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Plug reaffirms 15% to 16% revenue growth while forecasting roughly $280M in Q4 revenue and targeting positive EBITDAS"
-    },
-    {
      "title": "Anthropic招股文件刚发就撤！693亿美元融资细节意外泄露，英伟达、微软、台积电等集体押注260亿",
      "link": "https://wallstreetcn.com/articles/3785616",
      "pubDate": "Tue, 10 Nov 2026 11:01:17 +0800",
      "summary": "Anthropic在首次公开募股进程中出现信息披露失误。据路透社报道，这家人工智能公司向承销银行发送了一份包含IPO定价细节的文件，随后又发出更正邮件，称相关定价信息有误，并表示将稍后更新文件。 11月9日，据路透社看到的邮件显示，Anthropic最初发出的文件显示，公司拟以每股70至80美元的价格区间发行约8.67亿股股票。此次IPO若按上述定价区间完成，规模将极为可观。同时Anthropic表示， 英伟达、AMD、博通、美光、微软及台积电七家科技巨头将以IPO发行价合计投入260亿美元进行私募配售 。 然而，Anthropic在随后发出的第二封邮件中明确表示， 定价相关细节存在错误，公司",
      "source": "华尔街见闻",
      "zh": "Anthropic招股文件刚发就撤！693亿美元融资细节意外泄露，英伟达、微软、台积电等集体押注260亿"
+    },
+    {
+     "title": "在进博会，寻找中国市场机遇｜进博会观察",
+     "link": "http://www.eeo.com.cn/2026/1110/1088854.shtml",
+     "pubDate": "Tue, 10 Nov 2026 10:59:00 +0800",
+     "summary": "进博会不仅是一个全球新品、新技术首发平台，更成为跨国企业对接中国市场、挖掘新机遇的重要载体。今年进博会现场，多位跨国公司负责人在采访中不约而同提到，新能源和健康领域是中国市场新的增长机会。",
+     "source": "经济观察网",
+     "zh": "在进博会，寻找中国市场机遇｜进博会观察"
     },
     {
      "title": "能控制机器人拧瓶盖、解魔方和画画！Fable 5.2的具身智能能力实现“惊人跃迁”",
@@ -2448,14 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "隔夜美股科技股大涨，纳斯达克100指数涨3.4%，芯片股指数单日飙升近7%。亚太股市周二跟随上涨，韩国KOSPI指数盘初大涨，韩国交易所对KOSPI指数启动程序化交易暂停机制，暂停程序化买盘。芯片巨头SK海力士和三星电子亦拉升，A股和港股的AI硬件普遍反弹。 11月10日，A股早盘集体高开，三大股指盘初上涨，创业板涨超2%，AI应用、机器人再度爆发，宇树科技涨超8%。AI硬件拉升，光模块、光芯片、光电路交换机等概念股齐涨，“易中天”涨幅居前，海运、油气、煤炭等板块陷入调整。 港股同样高开，恒指、恒科指盘初走高，恒科指涨1%，权重科网股多数上涨，光模块、芯片等科技股反弹，中际旭创大涨超11%。A",
      "source": "华尔街见闻",
      "zh": "创业板盘初涨超2%，AI硬件反弹、“易中天”拉升，机器人爆发、宇树市值重回3000亿，恒科指涨1%"
-    },
-    {
-     "title": "新能源汽车动力电池要配“身份证”了",
-     "link": "http://www.eeo.com.cn/2026/1110/1088746.shtml",
-     "pubDate": "Tue, 10 Nov 2026 09:54:52 +0800",
-     "summary": "一张电池数字身份证串起全生命周期，让每一块动力电池去向可查、源头可溯、全程可控。这种从“软约束”向“可执行数字化工具”的转变，是在解决过去因数据孤岛导致的流向监控难、责任界定模糊等问题，确保废旧电池不再流入无序的“黑作坊”，能够进入规范的综合利用体系。",
-     "source": "经济观察网",
-     "zh": "新能源汽车动力电池要配“身份证”了"
     },
     {
      "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",

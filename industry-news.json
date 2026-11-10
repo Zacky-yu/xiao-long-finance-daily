@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/10 17:12:01",
+ "generated_at": "2026/11/10 17:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -849,6 +849,38 @@
    "total": 9,
    "items": [
     {
+     "title": "SunDrive and Space Machines Company to develop Australian-made solar arrays for spacecraft",
+     "link": "https://www.pv-tech.org/sundrive-and-space-machines-company-to-develop-australian-made-solar-arrays-for-spacecraft/",
+     "pubDate": "Tue, 10 Nov 2026 09:28:09 +0000",
+     "summary": "Space Machines Company (SMC) and SunDrive Solar have started developing Australian-made solar arrays for spacecraft.",
+     "source": "PV Tech",
+     "zh": "SunDrive and Space Machines Company to develop Australian-made solar arrays for spacecraft"
+    },
+    {
+     "title": "SolarEdge ends direct solar sales in Australia and New Zealand",
+     "link": "https://www.pv-tech.org/solaredge-ends-direct-solar-sales-in-australia-and-new-zealand/",
+     "pubDate": "Tue, 10 Nov 2026 09:23:00 +0000",
+     "summary": "SolarEdge is ending its direct local sales and operations in Australia and New Zealand, according to an email sent to customers and seen by PV Tech.",
+     "source": "PV Tech",
+     "zh": "SolarEdge ends direct solar sales in Australia and New Zealand"
+    },
+    {
+     "title": "1.2GWh BESS in South Australia and ACEnergy’s Little River project referred to Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/1-2gwh-bess-in-south-australia-and-acenergys-little-river-project-referred-to-australias-epbc-act/",
+     "pubDate": "Tue, 10 Nov 2026 09:13:08 +0000",
+     "summary": "Two Australian BESS projects in South Australia and Victoria have been submitted to the federal government under the EPBC Act.",
+     "source": "Energy Storage News",
+     "zh": "1.2GWh BESS in South Australia and ACEnergy’s Little River project referred to Australia’s EPBC Act"
+    },
+    {
+     "title": "Australia’s Cheaper Home Batteries Program hits 16.8GWh installed capacity",
+     "link": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-hits-16-8gwh-installed-capacity/",
+     "pubDate": "Tue, 10 Nov 2026 09:10:58 +0000",
+     "summary": "Australia's federal Cheaper Home Batteries Program has passed 600,000 home battery storage systems sold, roughly 16.8GWh.",
+     "source": "Energy Storage News",
+     "zh": "Australia’s Cheaper Home Batteries Program hits 16.8GWh installed capacity"
+    },
+    {
      "title": "Silver from China’s retired PV modules peaks nine years before capacity",
      "link": "https://www.pv-magazine.com/2026/11/10/silver-from-chinas-retired-pv-modules-peaks-nine-years-before-capacity/",
      "pubDate": "Tue, 10 Nov 2026 08:45:00 +0000",
@@ -1055,38 +1087,6 @@
      "summary": "PV capacity in Türkiye is projected to increase from 26GW to 112GW by 2040 under a national energy vision published ahead of the COP31 summit.",
      "source": "PV Tech",
      "zh": "Türkiye sets 77% renewables goal for 2040"
-    },
-    {
-     "title": "BloombergNEF: US midterm results likely a ‘net positive’ for BESS despite data centre headwinds",
-     "link": "https://www.energy-storage.news/bloombergnef-us-midterm-results-likely-a-net-positive-for-bess-despite-data-centre-headwinds/",
-     "pubDate": "Mon, 09 Nov 2026 11:01:17 +0000",
-     "summary": "Derrick Flakoll, senior policy associate for North America at BloombergNEF, has offered a more measured take on how the Democrats' midterm victories could affect the battery energy storage system (BESS) sector.",
-     "source": "Energy Storage News",
-     "zh": "BloombergNEF: US midterm results likely a ‘net positive’ for BESS despite data centre headwinds"
-    },
-    {
-     "title": "Rezolv Energy secures VPPA for 1.3GW Dama solar PV project in Romania",
-     "link": "https://www.pv-tech.org/rezolv-energy-secures-vppa-dama-solar-pv-project-romania/",
-     "pubDate": "Mon, 09 Nov 2026 10:58:27 +0000",
-     "summary": "Rezolv and Ahold Delhaize inked a virtual offtake agreement for the 1.3GWp Dama solar park and the 300MW Dunarea East wind farm in Romania.",
-     "source": "PV Tech",
-     "zh": "Rezolv Energy secures VPPA for 1.3GW Dama solar PV project in Romania"
-    },
-    {
-     "title": "European Energy and AirTrunk open 31MW Mulwala solar PV plant in New South Wales, Australia",
-     "link": "https://www.pv-tech.org/european-energy-and-airtrunk-open-31mw-mulwala-solar-pv-plant-in-new-south-wales-australia/",
-     "pubDate": "Mon, 09 Nov 2026 10:14:35 +0000",
-     "summary": "European Energy and data centre operator AirTrunk have officially opened the 31MW Mulwala solar PV plant in NSW.",
-     "source": "PV Tech",
-     "zh": "European Energy and AirTrunk open 31MW Mulwala solar PV plant in New South Wales, Australia"
-    },
-    {
-     "title": "Every virtual megawatt needs a meter",
-     "link": "https://www.utilitydive.com/spons/every-virtual-megawatt-needs-a-meter/873408/",
-     "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
-     "summary": "GETs, demand response and VPPs all rely on one device utilities are about to replace by the millions.",
-     "source": "Utility Dive",
-     "zh": "Every virtual megawatt needs a meter"
     }
    ]
   },
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+     "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+     "pubDate": "Tue, 10 Nov 2026 14:38:20 +0530",
+     "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost set",
+     "source": "The Hacker News",
+     "zh": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites"
+    },
+    {
      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
      "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
      "pubDate": "Tue, 10 Nov 2026 03:51:25 -0500",
@@ -1681,14 +1689,6 @@
      "zh": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data"
     },
     {
-     "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-     "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-     "pubDate": "Mon, 09 Nov 2026 23:06:28 +0530",
-     "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its no",
-     "source": "The Hacker News",
-     "zh": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware"
-    },
-    {
      "title": "PwC's CISO on AI, Robots & What's Next for Security",
      "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
      "pubDate": "Mon, 09 Nov 2026 17:17:23 GMT",
@@ -1753,6 +1753,94 @@
    "total": 18,
    "items": [
     {
+     "title": "软银、Grab 签署合作协议，携手砂拉越石油开发马来西亚 AI 基础设施",
+     "link": "https://www.ithome.com/1/024/938.htm",
+     "pubDate": "Tue, 10 Nov 2026 09:26:41 GMT",
+     "summary": "IT之家 11 月 10 日消息，SoftBank（软银）当地时间昨日与东南亚出行平台 Grab 签署合作协议，两方将与砂拉越石油 (PETROS) 合作， 在马来西亚的砂拉越州和马来西亚半岛开发人工智能基础设施 。 双方计划在种子轮中分别向这两个项目分别投资 10 亿美元和 7.5 亿美元，砂拉越石油则将出资 1 亿美元。各方将寻求其它投资者和超大规模数据中心客户，以支持这一总设计规模超 5GW 的多年期项目的开发和扩张。 Grab 联合创始人兼首席执行官陈炳耀 (Anthony Tan) 预计将负责这两个项目的开发，并任命专门的管理团队负责日常运营。此外， 软银原则上同意对其持有的 Gra",
+     "source": "IT之家",
+     "zh": "软银、Grab 签署合作协议，携手砂拉越石油开发马来西亚 AI 基础设施"
+    },
+    {
+     "title": "黄仁勋承认出轨，最大赢家却是“娘家人”",
+     "link": "https://www.huxiu.com/article/4904480.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 17:21:52 +0800",
+     "summary": "本文来自微信公众号： 蓝字计划 ，作者：Chester 黄仁勋的家事，早已不只是黄家的家事。 在承认出轨并引发董事会启动独立调查之后，英伟达股价不仅在盘后交易和法兰克福市场接连受挫，更在11月9日美股开盘后一度暴跌8.8%，最终逆势收跌4.27%，单日市值蒸发约1930亿美元。 在中期选举尘埃落定、AI产业政策预期充满变数的微妙时刻，老黄这轨，出得属实有些给投资者添堵。 但极具戏剧性的是，同一天的美股半导体板块几乎全线飘红，30只费城半导体成分股中有29只上涨，唯独英伟达一个人在挨打。 而老黄家的表外甥女苏姿丰，正带着英伟达的老对手AMD一路狂飙：11月9日盘中大涨超12%，最终收涨13.26",
+     "source": "虎嗅",
+     "zh": "黄仁勋承认出轨，最大赢家却是“娘家人”"
+    },
+    {
+     "title": "时隔51个月，特斯拉国内月销再度跌破万辆",
+     "link": "https://www.huxiu.com/article/4904479.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 17:19:34 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，制图：界面新闻武凯，作者：武凯 8817辆，这是特斯拉今年10月的国内销量。上一次特斯拉国内月销量不足万辆，还是2022年7月。 与去年同期的2.6万辆相比，特斯拉今年10月国内销量下降66.1%。去年10月已经是特斯拉当季低谷，今年的下探幅度更深。其中，承担销量主力的Model Y，国内市场月销量排名从9月的冠军降至第66位。 特斯拉国内销量通常受季度出口节奏影响。季度初，特斯拉会将上海超级工厂的大批车辆运往海外，季度末再增加国内交付。今年前三个季度，特斯拉国内销量最低的月份均出现在季度首月。 “季度初的产能都供给国外市场了，所以国内交车量少。”11月10日",
+     "source": "虎嗅",
+     "zh": "时隔51个月，特斯拉国内月销再度跌破万辆"
+    },
+    {
+     "title": "具身智能“大降温”，从疯狂买入到想偷偷抛售",
+     "link": "https://www.huxiu.com/article/4904477.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 17:18:50 +0800",
+     "summary": "本文来自微信公众号： IT时报 ，作者：毛宇，原文标题：《具身智能“大降温”！从疯狂买入到想偷偷抛售》 初冬的北京，气温骤降。比气温更冷的，是具身智能投资人攒局的热情。CBD商圈的会议室里，话题悄然转向：半年前，大家还在盘算如何挤进明星项目的融资名单；如今，圈子里的谈资却变成是否要把当初好不容易抢到手的份额，悄悄卖掉。 资本开始犹豫了，身处研发一线的工程师也有自己的烦恼。 沈屿（化名）在一家中小型具身智能企业工作。他告诉《IT时报》记者，行业竞争越来越激烈，但一些企业的研发工作却陷入了频繁开会、反复“对齐”的循环。在他看来，管理层虽然急于看到成果，却又不愿给研发团队足够的自主权。即使花高薪请来",
+     "source": "虎嗅",
+     "zh": "具身智能“大降温”，从疯狂买入到想偷偷抛售"
+    },
+    {
+     "title": "China&apos;s trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand (Reuters)",
+     "link": "https://www.techmeme.com/261110/p6#a261110p6",
+     "pubDate": "Tue, 10 Nov 2026 04:15:55 -0500",
+     "summary": "Reuters : China's trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand &nbsp; &mdash;&nbsp; China's trade surplus surged past $1 trillion in the first 10 months as a global race to build AI infrastructu",
+     "source": "Techmeme",
+     "zh": "China&apos;s trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand (Reuters)"
+    },
+    {
+     "title": "一句指令让Codex自动赚钱，到底靠谱吗？",
+     "link": "https://www.huxiu.com/article/4904474.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 17:14:06 +0800",
+     "summary": "本文来自微信公众号： 寻空的营销启示录 ，作者：寻空2009 最近，我总刷到一种很诱人的Codex玩法。 你只需要给它发一句指令，让它在限定时间里赚到多少钱。然后，它就会自己找机会、接任务、做交付，最后把钱赚回来。 还有更夸张的版本，有人开了十几个会员，让它们赚回会员费，一周就赚到一万多美元。 看到这样的信息，说不动心是假的。这句指令我也能写，手里也有Codex，那我不是可以躺赚了？ 于是我给Codex发了一个任务，不管用什么方式，帮我把100元赚回来。 它先是到GitHub上寻找任务，没找到合适的之后，准备了一份100元口播改稿接单包，里面有服务介绍、样稿、报价和咨询回复，还打开了闲鱼。接下",
+     "source": "虎嗅",
+     "zh": "一句指令让Codex自动赚钱，到底靠谱吗？"
+    },
+    {
+     "title": "摩托罗拉宽折叠手机 Razr Flex 2027 首次官网确认，将配高通第五代骁龙 8 芯片",
+     "link": "https://www.ithome.com/1/024/921.htm",
+     "pubDate": "Tue, 10 Nov 2026 09:12:50 GMT",
+     "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Google 昨日（11 月 9 日）发布博文，报道称在澳大利亚摩托罗拉官方支持页面，出现了“motorola razr flex – 2027”的踪迹， 首次在官方支持文档中出现宽折叠手机 Razr Flex 2027，上市后将会和苹果 iPhone Duo 正面竞争。 不过本次官方支持文档并未提供其它有用信息，只显示这款折叠手机将于 2027 年发布，且相关支持信息为占位符，安全信息包括 2024 年 8 月发布、Android 16、支持至 2029 年 8 月以及“测试安全更新”标题。 IT之家曾于 10 月 20 日报道， 这款折叠",
+     "source": "IT之家",
+     "zh": "摩托罗拉宽折叠手机 Razr Flex 2027 首次官网确认，将配高通第五代骁龙 8 芯片"
+    },
+    {
+     "title": "7400 万年前古森林化石揭示：葡萄大小的果实早在恐龙时代就已出现",
+     "link": "https://www.ithome.com/1/024/918.htm",
+     "pubDate": "Tue, 10 Nov 2026 09:10:07 GMT",
+     "summary": "IT之家 11 月 10 日消息，一片保存在美国新墨西哥州、距今约 7400 万年的古森林，正在揭示远古植物演化过程中鲜为人知的一面。 恐龙可能比科学家此前认为的吃过更多种类的果实。新墨西哥州一处距今约 7400 万年的古森林中发现的化石显示， 早在导致非鸟类恐龙灭绝的小行星撞击地球数百万年前，一些开花植物就已经能够结出相当大的果实。 IT之家注意到，这项研究发表在《科学》（Science）期刊上，挑战了一项长期以来的观点：大型果实以及更复杂的种子传播方式，主要是在 6600 万年前白垩纪末期大灭绝事件之后才逐渐演化出来的。 研究还表明，恐龙及其他史前动物可能早在此前就已经参与了开花植物的种子",
+     "source": "IT之家",
+     "zh": "7400 万年前古森林化石揭示：葡萄大小的果实早在恐龙时代就已出现"
+    },
+    {
+     "title": "集英社的“阳谋”：《咒术回战》IP 授权的商业算计",
+     "link": "https://www.huxiu.com/article/4904472.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 17:09:56 +0800",
+     "summary": "本文来自微信公众号： 游戏寿司 ，作者：何北航 最近看漫画时，突然想起几年前在公司做IP引入和市场分析时碰到的一个真实案例。 当时高层非常看好正处于爆发期的《咒术回战》，一心想抢下手游/联动IP的授权。集英社那边也很快派人来洽谈，我负责对IP分析价值。 然而，在仔细审阅合同条款后，我们分析组注意到一个非常微妙且关键的限制： “本次授权所涉及的人物、剧情及世界观设定，仅限于‘涩谷事变’篇章之前。” 乍一看，对方给出的理由似乎很合情合理——“后面的剧情还在连载，为了版权保护和动画进度考虑”。 但只要拉出《周刊少年Jump》的历年调查表顺位（投票排名）数据做一次纵向剖析，你就会发现集英社这招“割裂式",
+     "source": "虎嗅",
+     "zh": "集英社的“阳谋”：《咒术回战》IP 授权的商业算计"
+    },
+    {
+     "title": "中超的一笔投入账：钱多未必赢，钱“活”才能胜",
+     "link": "https://www.huxiu.com/article/4904470.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 17:09:42 +0800",
+     "summary": "本文来自微信公众号： 体坛经济观察 ，作者：大飞，原文标题：《中超的一笔投入账：钱多未必赢，钱“活”才能胜｜行业观察》 中超后金元时代的分水岭。 2026年11月8日，济南奥体中心，2比3。几百公里外，大连梭鱼湾，3比1。两支球队同积52分，成都蓉城因为相互战绩劣势，把揣了二十九轮的冠军奖杯，亲手递给了大连英博。 领跑半个赛季，最多时领先18分，手里攥着七个冠军点，最后五轮1平4负只拿1分。世界足坛不缺崩盘，但以这种方式丢冠，已经不是“心态”两个字能兜住的了。 更值得拆开看的，是崩盘背后的那本账。据联合资信2026年6月发布的跟踪评级报告，成都蓉城母公司成都兴城投资集团截至2026年3月末总资",
+     "source": "虎嗅",
+     "zh": "中超的一笔投入账：钱多未必赢，钱“活”才能胜"
+    },
+    {
+     "title": "诺巴曼召回 4 款无电子围栏、感知避让功能的无人机，免费退货退款",
+     "link": "https://www.ithome.com/1/024/894.htm",
+     "pubDate": "Tue, 10 Nov 2026 09:09:33 GMT",
+     "summary": "IT之家 11 月 10 日消息，IT之家从国家市场监督管理总局获悉，日前，广东诺巴曼科技有限公司按照《消费品召回管理暂行规定》的要求，主动向国家市场监督管理总局报告了召回计划，自即日起： 召回生产日期为 2025 年 05 月 17 日制造的部分诺巴曼牌 GT6 型号遥控飞机模型（无人机），涉及数量为 4 台； 召回生产日期为 2025 年 04 月 17 日制造的部分诺巴曼牌 LF669GPS 型号遥控飞机模型（无人机），涉及数量为 6 台； 召回生产日期为 2025 年 04 月 15 日制造的部分诺巴曼牌 T3 型号遥控飞机模型（无人机），涉及数量为 8 台； 召回生产日期为 2025",
+     "source": "IT之家",
+     "zh": "诺巴曼召回 4 款无电子围栏、感知避让功能的无人机，免费退货退款"
+    },
+    {
      "title": "360、阿里云等首批 18 家网络产品安全漏洞收集平台签署自律公约",
      "link": "https://www.ithome.com/1/024/910.htm",
      "pubDate": "Tue, 10 Nov 2026 09:07:37 GMT",
@@ -1761,60 +1849,20 @@
      "zh": "360、阿里云等首批 18 家网络产品安全漏洞收集平台签署自律公约"
     },
     {
-     "title": "任天堂账户“轻松登入”功能 2027 年 1 月 26 日下线",
-     "link": "https://www.ithome.com/1/024/905.htm",
-     "pubDate": "Tue, 10 Nov 2026 09:06:00 GMT",
-     "summary": "IT之家 11 月 10 日消息，根据任天堂官方声明， Nintendo Account “轻松登入”功能将于 2027 年 1 月 26 日 15:00（北京时间）下线 。 Nintendo Account“轻松登入”目前仅剩对谷歌 / 苹果账号资料的支持。该功能下线后，任天堂也将不再支持以谷歌 / 苹果账号资料建立 Nintendo Account。My Nintendo 点数计划中与谷歌账号的连动任务亦会结束。 对于现在使用谷歌 / 苹果账号“轻松登入”Nintendo Account 的玩家，如果在那之后遇到登入画面，需使用同 Nintendo Account 配对的电子邮箱或登入 I",
+     "title": "Queens Public library under ransomware attack e-borrowing suspended",
+     "link": "https://connect.queenslibrary.org/",
+     "pubDate": "Tue, 10 Nov 2026 09:04:39 +0000",
+     "summary": "Article URL: https://connect.queenslibrary.org/ Comments URL: https://news.ycombinator.com/item?id=50437790 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Queens Public library under ransomware attack e-borrowing suspended"
+    },
+    {
+     "title": "可能发生伤人、坠机等事故，广东东象科技有限公司召回部分 XMRC 牌、科尔航牌四轴折叠航拍飞行器",
+     "link": "https://www.ithome.com/1/024/895.htm",
+     "pubDate": "Tue, 10 Nov 2026 09:02:10 GMT",
+     "summary": "IT之家 11 月 10 日消息，IT之家从国家市场监督管理总局获悉，日前，广东东象科技有限公司按照《消费品召回管理暂行规定》的要求，主动向国家市场监督管理总局报告了召回计划，自即日起： 召回 2024 年 3 月 15 日至 2024 年 6 月 25 日期间制造的部分 XMRC 牌 M10 型号四轴飞行器，涉及数量为 42 台； 召回 2025 年 4 月 10 日至 2025 年 6 月 20 日期间制造的部分 XMRC 牌 M11 型号四轴飞行器，涉及数量为 32 台； 召回 2025 年 6 月 4 日至 2025 年 12 月 28 日期间制造的部分科尔航牌 K11 Turbo 型",
      "source": "IT之家",
-     "zh": "任天堂账户“轻松登入”功能 2027 年 1 月 26 日下线"
-    },
-    {
-     "title": "豆包图片设计能力升级，官宣接入全新图像创作模型 Seedream 5.5",
-     "link": "https://www.ithome.com/1/024/896.htm",
-     "pubDate": "Tue, 10 Nov 2026 09:02:52 GMT",
-     "summary": "IT之家 11 月 10 日消息，豆包官方今日宣布，豆包图片设计能力升级，正式接入全新图像创作模型 Seedream 5.5。 据IT之家昨日报道， 字节跳动 Seed 团队发布了新一代图像创作模型 Seedream 5.5 ，重点带来三项核心能力升级： 更稳定的多轮编辑：实现非编辑区域的像素级保持，消除色彩偏移，降低连续修改中的细节丢失与画质衰减，支持围绕同一作品展开多达 100 轮的持续创作。 原生 RGBA 透明素材生成：直接输出带 Alpha 通道的透明或半透明图像，精细处理轮廓边缘与透明区域，省去后期抠图修边，让生成元素可以作为独立素材进入后续设计流程。 质感更自然，文字更清晰：进一",
-     "source": "IT之家",
-     "zh": "豆包图片设计能力升级，官宣接入全新图像创作模型 Seedream 5.5"
-    },
-    {
-     "title": "影目科技宣布召回 4701 副 INMO AIR3 智能眼镜，将进行 OTA 免费升级",
-     "link": "https://www.ithome.com/1/024/893.htm",
-     "pubDate": "Tue, 10 Nov 2026 09:01:16 GMT",
-     "summary": "IT之家 11 月 10 日消息，IT之家从国家市场监督管理总局获悉，日前，四川影目科技有限公司按照《消费品召回管理暂行规定》的要求，主动向国家市场监督管理总局和四川省市场监督管理局报告了召回计划。将自即日起，召回 2025 年 5 月-2026 年 6 月期间制造的部分 INMO AIR3 智能眼镜，共计 4701 副。 本次召回范围内的 INMO AIR3 智能眼镜，在搭载部分未经官方测试的第三方应用的运行中可能存在异常功耗调用，导致设备左镜腿在长时间使用时可能出现过热现象，存在烫伤安全隐患。 四川影目科技有限公司将通过 OTA 固件升级的方式对召回范围内的智能眼镜进行免费升级，并提醒用户",
-     "source": "IT之家",
-     "zh": "影目科技宣布召回 4701 副 INMO AIR3 智能眼镜，将进行 OTA 免费升级"
-    },
-    {
-     "title": "双11不买，豪车变电驴，大批\"假穷人\"出现",
-     "link": "https://www.huxiu.com/article/4903744.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 17:00:00 +0800",
-     "summary": "外账精打细算，内账该花就花，钱花在孩子、父母、健康上，每一分都踏实。与其把钱用于展示，不如留作底气。真正的宽裕，是不用靠买买买来证明自己。",
-     "source": "虎嗅",
-     "zh": "双11不买，豪车变电驴，大批\"假穷人\"出现"
-    },
-    {
-     "title": "在古巴，凌晨4点半，电终于来了",
-     "link": "https://www.huxiu.com/article/4904465.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 16:59:14 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：李昀 有些地方，即使从未去过，也总觉得自己已经见过无数次，古巴就是这样。 提起这个加勒比海岛国，脑海里总会浮现出那些仿佛永远停留在上个世纪的画面：五六十年代的美国老爷车驶过哈瓦那的街道，老人坐在斑驳的建筑门前，手里夹着雪茄，街角的墙上还留着几十年前的革命标语…… 2020年周杰伦演唱的歌曲《Mojito》，用各种标志性符号再次唤醒人们心中的古巴印象 作为摄影师，我很难不被这样的地方吸引。过去一年，我陆续去了不少中美洲国家，却始终没能去成古巴，它一直在我的旅行清单上占着特别的位置。只是这些年看过的古巴照片实在太多了，多到我有时会怀疑，自己对这个国家的认识，",
-     "source": "虎嗅",
-     "zh": "在古巴，凌晨4点半，电终于来了"
-    },
-    {
-     "title": "VR 游戏《收获日：Aces High》登陆 Meta Quest 及 Steam VR 平台，国区首发价 81 元",
-     "link": "https://www.ithome.com/1/024/892.htm",
-     "pubDate": "Tue, 10 Nov 2026 08:57:47 GMT",
-     "summary": "IT之家 11 月 10 日消息，开发商 Fast Travel Games 旗下以经典 IP《收获日（PAYDAY）》世界观为背景的 VR 游戏《收获日：Aces High》现已正式发售，登陆 Meta Quest 及 Steam VR 平台，目前游戏在 Steam 平台提供了忠实客户折扣，国区价格 90 元，首发 9 折后到手价 81 元，优惠至 2027 年 1 月 1 日，IT之家附游戏商品页（ https://store.steampowered.com/app/3456660/PAYDAY_Aces_High/ ）。 VR 游戏《收获日：Aces High》11 月 5 日登陆 M",
-     "source": "IT之家",
-     "zh": "VR 游戏《收获日：Aces High》登陆 Meta Quest 及 Steam VR 平台，国区首发价 81 元"
-    },
-    {
-     "title": "猛士 M817 Ultimate 座舱公布：全新汉白赭 / 帕因棕配色",
-     "link": "https://www.ithome.com/1/024/891.htm",
-     "pubDate": "Tue, 10 Nov 2026 08:57:04 GMT",
-     "summary": "IT之家 11 月 10 日消息，@猛士汽车 今天公布了猛士 M817 Ultimate 车型的座舱设计。预告图显示，该车运用了全新的汉白赭、帕因棕配色，采用“宝石凝光”和“山河入怀”的设计，强调豪华感。 新车保留现有车型的座舱布局，并在踏板、靠背等处嵌入 Ultimate 标识，配备丹拿音响。 猛士 M817 Ultimate 车型最早在今年 5 月亮相，官方曾宣布，该车将冠以“大师版”之名。猛士 M817 Ultimate 大师版搭载 同级唯一超 1000 匹马力、最大扭矩 1281N·m 的动力系统，还有同级唯一赛级氮气减震。 猛士 M817 Ultimate 大师版还配备同级唯一 华为",
-     "source": "IT之家",
-     "zh": "猛士 M817 Ultimate 座舱公布：全新汉白赭 / 帕因棕配色"
+     "zh": "可能发生伤人、坠机等事故，广东东象科技有限公司召回部分 XMRC 牌、科尔航牌四轴折叠航拍飞行器"
     },
     {
      "title": "Meituan releases weights for LongCat-2.5, a 1.6T-parameter MoE model for long-horizon agentic tasks, under the MIT license, after unveiling it on November 1 (Carl Franzen/VentureBeat)",
@@ -1823,14 +1871,6 @@
      "summary": "Carl Franzen / VentureBeat : Meituan releases weights for LongCat-2.5, a 1.6T-parameter MoE model for long-horizon agentic tasks, under the MIT license, after unveiling it on November 1 &nbsp; &mdash;&nbsp; Meituan released the weights for LongCat-2.5 on Nov. 9, one week after introducing the model.",
      "source": "Techmeme",
      "zh": "Meituan releases weights for LongCat-2.5, a 1.6T-parameter MoE model for long-horizon agentic tasks, under the MIT license, after unveiling it on November 1 (Carl Franzen/VentureBeat)"
-    },
-    {
-     "title": "英伟达一天蒸发4479亿美元，AI到底怎么了？",
-     "link": "https://www.huxiu.com/article/4903626.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 16:43:54 +0800",
-     "summary": "11月6日凌晨，美股罕见抛售：英伟达跌9.26%，市值蒸发4470亿美元，科技七巨头一天合计亏掉一万多亿美元。微软被曝取消数据中心租约，官方却解释为&ldquo;交付延迟&rdquo;。一条视频，把来龙去脉讲明白。",
-     "source": "虎嗅",
-     "zh": "英伟达一天蒸发4479亿美元，AI到底怎么了？"
     },
     {
      "title": "收费低至1元/平米，好好珍惜当下的恒大物业吧",
@@ -1873,30 +1913,6 @@
      "zh": "挖掘机一哥开挖AI大牛"
     },
     {
-     "title": "49元一杯的“酸奶界爱马仕”，中产喝不动了",
-     "link": "https://www.huxiu.com/article/4904451.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 16:30:39 +0800",
-     "summary": "本文来自微信公众号： 金角财经 ，作者：麦麦颖 “酸奶界爱马仕”Blueglass，正经历一场闭店潮。 10月底，南宁万象城的Blueglass贴出停业通知，宣布因合约到期，于10月31日正式闭店。此前，上海前滩太古里、龙湖宝山天街等商场里的Blueglass，也陆续撤场。 把时间拉长，情况更不乐观。 据窄门餐眼数据，2025年11月至2026年10月，Blueglass全国在营门店从214家降至148家，不到一年净减少66家，降幅超过三成。 乍看之下，这似乎也没什么意外。 毕竟一杯酸奶敢卖49元，星巴克都不敢贸然定这个价；成分表又长得像化学实验报告，动辄十几种营养物质、益生菌、膳食纤维往里加",
-     "source": "虎嗅",
-     "zh": "49元一杯的“酸奶界爱马仕”，中产喝不动了"
-    },
-    {
-     "title": "中国足球和中国股市哪个能先起来？",
-     "link": "https://www.huxiu.com/article/4904193.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 16:30:01 +0800",
-     "summary": "如果制度不变，足球反而更有戏，毕竟一两个天才就能带活全队，而股市里哪怕有世界级企业，也难以带动五千家上市公司。",
-     "source": "虎嗅",
-     "zh": "中国足球和中国股市哪个能先起来？"
-    },
-    {
-     "title": "算力首入“碳排放双控”体系：零碳算力设施迎来“物理绿电”硬约束",
-     "link": "https://www.huxiu.com/article/4904459.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 16:25:58 +0800",
-     "summary": "本文来自微信公众号： MIR睿工业 ，作者：MIR 黄铭 10月21日工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》，明确提出到2030年建设国家级零碳工厂和零碳算力设施500个左右、制定重点工业产品碳足迹核算规则标准400项左右，规模以上工业单位增加值二氧化碳排放比2025年降低17%以上。 算力设施第一次作为独立类别，与零碳工厂、零碳园区、低碳零碳供应链并列，进入国家级零碳标杆序列。 01 三个“硬约束”重塑考核规则 这项政策的实质变化，不在“又多了一个绿色认证”，而在于考核指标、准入机制和监管方式的全面收紧。 1）指标之变：PUE不再万能，绿电必",
-     "source": "虎嗅",
-     "zh": "算力首入“碳排放双控”体系：零碳算力设施迎来“物理绿电”硬约束"
-    },
-    {
      "title": "Agility上市，人形机器人开始计算“转化率”",
      "link": "https://www.tmtpost.com/8199724.html",
      "pubDate": "Tue, 10 Nov 2026 16:24:20 +0800",
@@ -1916,7 +1932,7 @@
      "title": "M John Harrison becomes first science fiction author to win the Booker prize",
      "link": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
      "pubDate": "Tue, 10 Nov 2026 07:40:52 +0000",
-     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize Comments URL: https://news.ycombinator.com/item?id=50437242 Points: 34 # Comments: 11",
+     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize Comments URL: https://news.ycombinator.com/item?id=50437242 Points: 39 # Comments: 14",
      "source": "Hacker News",
      "zh": "M John Harrison becomes first science fiction author to win the Booker prize"
     },
@@ -1929,18 +1945,18 @@
      "zh": "科学家在碲化锰观察到交替磁性证据"
     },
     {
-     "title": "SoftBank reports Q2 net loss of $7B vs. a ~$15.8B profit a year ago, on ~$14B revenue vs. ~$12.8B est. as tech selloff weighs on results; shares close up 13.9% (Jenny Lee/CNBC)",
+     "title": "SoftBank reports a Q2 net loss of $7B, down from a ~$15.8B profit in Q2 2025, and ~$14B revenue, above ~$12.8B est., as the tech selloff weighs on its results (Jenny Lee/CNBC)",
      "link": "https://www.techmeme.com/261110/p4#a261110p4",
      "pubDate": "Tue, 10 Nov 2026 02:25:01 -0500",
-     "summary": "Jenny Lee / CNBC : SoftBank reports Q2 net loss of $7B vs. a ~$15.8B profit a year ago, on ~$14B revenue vs. ~$12.8B est. as tech selloff weighs on results; shares close up 13.9% &nbsp; &mdash;&nbsp; - SoftBank Group reported a fiscal second-quarter net loss of 1.12 trillion yen&nbsp; &mdash;&nbsp; ",
+     "summary": "Jenny Lee / CNBC : SoftBank reports a Q2 net loss of $7B, down from a ~$15.8B profit in Q2 2025, and ~$14B revenue, above ~$12.8B est., as the tech selloff weighs on its results &nbsp; &mdash;&nbsp; SoftBank reported a fiscal second-quarter net loss of 1.12 trillion yen ($7 billion) on Tuesday, as l",
      "source": "Techmeme",
-     "zh": "SoftBank reports Q2 net loss of $7B vs. a ~$15.8B profit a year ago, on ~$14B revenue vs. ~$12.8B est. as tech selloff weighs on results; shares close up 13.9% (Jenny Lee/CNBC)"
+     "zh": "SoftBank reports a Q2 net loss of $7B, down from a ~$15.8B profit in Q2 2025, and ~$14B revenue, above ~$12.8B est., as the tech selloff weighs on its results (Jenny Lee/CNBC)"
     },
     {
      "title": "Fireworks AI security breach impacts Notion and their customers",
      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
      "pubDate": "Tue, 10 Nov 2026 07:19:38 +0000",
-     "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 14 # Comments: 3",
+     "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 19 # Comments: 4",
      "source": "Hacker News",
      "zh": "Fireworks AI security breach impacts Notion and their customers"
     },
@@ -1953,12 +1969,12 @@
      "zh": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information"
     },
     {
-     "title": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A (Ryan Lawler/Axios)",
+     "title": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A; FactSet led the Series A (Ryan Lawler/Axios)",
      "link": "https://www.techmeme.com/261110/p3#a261110p3",
      "pubDate": "Tue, 10 Nov 2026 01:45:01 -0500",
-     "summary": "Ryan Lawler / Axios : GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A &nbsp; &mdash;&nbsp; GeniosAI, which develops AI software for financial analysis and modeling, has raised $19.1 million in combined ",
+     "summary": "Ryan Lawler / Axios : GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A; FactSet led the Series A &nbsp; &mdash;&nbsp; GeniosAI, which develops AI software for financial analysis and modeling, has raised $19.1 million in combined seed an",
      "source": "Techmeme",
-     "zh": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A (Ryan Lawler/Axios)"
+     "zh": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A; FactSet led the Series A (Ryan Lawler/Axios)"
     },
     {
      "title": "FDA 警告 GLP-1 减肥药可能增加突然失明风险",
@@ -1975,22 +1991,6 @@
      "summary": "Andy Lin / Bloomberg : Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules &nbsp; &mdash;&nbsp; Moonshot AI accessed a trove of Nvidia Corp.'s most advanced chips this summer, according to do",
      "source": "Techmeme",
      "zh": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules (Andy Lin/Bloomberg)"
-    },
-    {
-     "title": "ClickHouse Acquires Xata",
-     "link": "https://xata.io/blog/xata-is-joining-clickhouse",
-     "pubDate": "Tue, 10 Nov 2026 06:14:51 +0000",
-     "summary": "Article URL: https://xata.io/blog/xata-is-joining-clickhouse Comments URL: https://news.ycombinator.com/item?id=50436706 Points: 10 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "ClickHouse Acquires Xata"
-    },
-    {
-     "title": "沙特TikTok Shop直播排班：3人小团队怎么扛住女性主播的时段与人力缺口？",
-     "link": "https://www.baijing.cn/question/638651",
-     "pubDate": "Tue, 10 Nov 2026 06:13:28 +0000",
-     "summary": "利雅得站点做了四个月，女装客单价80-120沙特里亚尔，现在日均GMV稳在3000里亚尔左右，但直播排期已经压到极限：本地女性主播只能覆盖晚8点到11点这一档，白天场和周末午后场全靠重播顶着，重播场次转化率只有真人场的三分之一。团队总共3个人，一个运营兼场控、一个剪辑兼投流、一个客服兼订单跟进，主播是外部签约的两位，单周最多各排4场。试过加钱让主播加场，对方家庭时间不允许；也试过找外籍阿语主播远程播，观众在评论区直接问“主播在沙特吗”，信任感掉得厉害。现在纠结的是：是先扩编招本地运营把白天场做成真人，还是把预算集中砸在晚间黄金档做深货盘？这个取舍的判断标准该怎么定？",
-     "source": "白鲸出海",
-     "zh": "沙特TikTok Shop直播排班：3人小团队怎么扛住女性主播的时段与人力缺口？"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung Galaxy S27 series' cameras detailed, Pro to get a lower resolution telephoto than previously rumored",
+     "link": "https://www.gsmarena.com/samsung_galaxy_s27_series_camera_setup_detailed-news-75416.php",
+     "pubDate": "Tue, 10 Nov 2026 10:16:03 +0100",
+     "summary": "We've heard multiple rumors about the Samsung Galaxy S27 lineup's cameras in the past few months. Now we have new information detailing the camera setup of the S27 series, expected to include four models - the Galaxy S27, the Galaxy S27+, the Galaxy S27 Pro, and the Galaxy S27 Ultra. According to th",
+     "source": "GSMArena",
+     "zh": "Samsung Galaxy S27 series' cameras detailed, Pro to get a lower resolution telephoto than previously rumored"
+    },
     {
      "title": "Google’s 2027 foldable app push has readers hopeful, but not convinced",
      "link": "https://www.androidauthority.com/google-play-store-incentives-foldable-phone-apps-poll-results-3733255/",
@@ -2145,14 +2153,6 @@
      "zh": "Sirui’s 15 and 24mm autofocus primes fill an underserved niche for L-mount"
     },
     {
-     "title": "Announcing the finalists for the GSMArena 2026 End-of-Year Awards",
-     "link": "https://www.gsmarena.com/announcing_the_nominees_for_the_gsmarena_2026_endofyear_awards-news-75263.php",
-     "pubDate": "Tue, 10 Nov 2026 01:31:02 +0100",
-     "summary": "2026 brought us some incredible smartphones, tablets and other gadgets and we wanted to recognize the best of them – here are the GSMArena 2026 End-of-Year Awards Nominees. There are thirteen categories and the winners will be decided in the coming days. Our team of expert reviewers has tested over ",
-     "source": "GSMArena",
-     "zh": "Announcing the finalists for the GSMArena 2026 End-of-Year Awards"
-    },
-    {
      "title": "How to turn on personal results on your Google Home",
      "link": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
      "pubDate": "Tue, 10 Nov 2026 00:30:00 +0000",
@@ -2249,52 +2249,100 @@
    "total": 13,
    "items": [
     {
-     "title": "福建金森：截至10月30日最新股东户数2.37万户，较上期减少14.78%",
-     "link": "http://stock.eastmoney.com/news/11111,202611103927363491.html",
-     "pubDate": "Tue, 10 Nov 2026 17:04:57 +0800",
-     "summary": "福建金森 最新披露数据显示，截至10月30日公司股东户数为2.37万户，较上期(2026年10月20日) 减少4108户，降幅为14.78% 。户均持有流通股数量 由上期的8481股上升至9951股， 户均持股金额 由上期的8.91万元增加至9.54万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "福建金森：截至10月30日最新股东户数2.37万户，较上期减少14.78%"
+     "title": "European markets advance, with Germany’s DAX nearing record levels",
+     "link": "https://seekingalpha.com/news/4669532-european-markets-advance-with-germanys-dax-nearing-record-levels?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 04:25:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "European markets advance, with Germany’s DAX nearing record levels"
     },
     {
-     "title": "美联储理事沃勒：10月愿意暂缓推进政策收紧；关键在于，已承诺的加息应在合理时间内落实",
-     "link": "http://hk.eastmoney.com/news/1533,202611103927363379.html",
-     "pubDate": "Tue, 10 Nov 2026 17:04:37 +0800",
-     "summary": "美联储理事沃勒：10月愿意暂缓推进政策收紧；关键在于，已承诺的加息应在合理时间内落实。 （文章来源：金十数据快讯）",
+     "title": "Rocket Lab stock slides despite record backlog, upbeat outlook",
+     "link": "https://seekingalpha.com/news/4669543-rocket-lab-stock-slides-despite-record-backlog-upbeat-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 04:23:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rocket Lab stock slides despite record backlog, upbeat outlook"
+    },
+    {
+     "title": "大宗交易：恒玄科技成交7836.80万元，折价7.00%（11-10）",
+     "link": "http://stock.eastmoney.com/news/11264,202611103927375594.html",
+     "pubDate": "Tue, 10 Nov 2026 17:22:37 +0800",
+     "summary": "2026年11月10日， 恒玄科技 发生7笔大宗交易，共成交62.00万股，成交金额7836.80万元 ，占其流通市值比例为0.24% 。 7笔大宗交易成交均价126.40元， 较该股当日收盘价135.91元折价7.00%。 其中，机构席位买入20.00万股，成交额2528.00万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承",
      "source": "东方财富股票",
-     "zh": "美联储理事沃勒：10月愿意暂缓推进政策收紧；关键在于，已承诺的加息应在合理时间内落实"
+     "zh": "大宗交易：恒玄科技成交7836.80万元，折价7.00%（11-10）"
+    },
+    {
+     "title": "大宗交易：奥浦迈成交2403.30万元，折价9.38%（11-10）",
+     "link": "http://stock.eastmoney.com/news/11264,202611103927375368.html",
+     "pubDate": "Tue, 10 Nov 2026 17:22:29 +0800",
+     "summary": "2026年11月10日， 奥浦迈 发生5笔大宗交易，共成交40.00万股，成交金额2403.30万元 ，占其流通市值比例为0.29% 。 5笔大宗交易成交均价60.08元， 较该股当日收盘价66.30元折价9.38%。 其中，机构席位买入10.00万股，成交额653.10万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，",
+     "source": "东方财富股票",
+     "zh": "大宗交易：奥浦迈成交2403.30万元，折价9.38%（11-10）"
+    },
+    {
+     "title": "大宗交易：传音控股成交1166.40万元（11-10）",
+     "link": "http://stock.eastmoney.com/news/11264,202611103927375213.html",
+     "pubDate": "Tue, 10 Nov 2026 17:22:29 +0800",
+     "summary": "2026年11月10日， 传音控股 发生2笔大宗交易，共成交18.00万股，成交金额1166.40万元 ，占其流通市值比例为0.02% 。 2笔大宗交易成交均价64.80元， 较该股当日收盘价64.80元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：传音控股成交1166.40万元（11-10）"
+    },
+    {
+     "title": "大宗交易：华友钴业成交402.09万元（11-10）",
+     "link": "http://stock.eastmoney.com/news/11264,202611103927375141.html",
+     "pubDate": "Tue, 10 Nov 2026 17:22:29 +0800",
+     "summary": "2026年11月10日， 华友钴业 发生1笔大宗交易，共成交12.30万股，成交金额402.09万元 。 该笔大宗交易成交均价32.69元， 较该股当日收盘价32.69元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：华友钴业成交402.09万元（11-10）"
+    },
+    {
+     "title": "大宗交易：长江电力成交899.01万元（11-10）",
+     "link": "http://stock.eastmoney.com/news/11264,202611103927374814.html",
+     "pubDate": "Tue, 10 Nov 2026 17:22:20 +0800",
+     "summary": "2026年11月10日， 长江电力 发生2笔大宗交易，共成交30.30万股，成交金额899.01万元 。 2笔大宗交易成交均价29.67元， 较该股当日收盘价29.67元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：长江电力成交899.01万元（11-10）"
+    },
+    {
+     "title": "大宗交易：ST南新成交521.55万元，折价12.16%（11-10）",
+     "link": "http://stock.eastmoney.com/news/11264,202611103927374682.html",
+     "pubDate": "Tue, 10 Nov 2026 17:22:20 +0800",
+     "summary": "2026年11月10日， ST南新 发生2笔大宗交易，共成交93.80万股，成交金额521.55万元 ，占其流通市值比例为0.30% 。 2笔大宗交易成交均价5.56元， 较该股当日收盘价6.33元折价12.16%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：ST南新成交521.55万元，折价12.16%（11-10）"
+    },
+    {
+     "title": "REPAY forecasts $16M-$18M 2026 political media revenue while raising KUBRA synergies run-rate target to $11M exiting 2026",
+     "link": "https://seekingalpha.com/news/4669567-repay-forecasts-16m-18m-2026-political-media-revenue-while-raising-kubra-synergies-run-rate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 04:21:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "REPAY forecasts $16M-$18M 2026 political media revenue while raising KUBRA synergies run-rate target to $11M exiting 2026"
+    },
+    {
+     "title": "Sanmina sees FY 2027 revenue reaching $19.5B as AI and cloud demand accelerates",
+     "link": "https://seekingalpha.com/news/4669545-sanmina-sees-fy-2027-revenue-reaching-195b-as-ai-and-cloud-demand-accelerates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 04:19:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sanmina sees FY 2027 revenue reaching $19.5B as AI and cloud demand accelerates"
+    },
+    {
+     "title": "Stock index futures mixed ahead of October CPI report",
+     "link": "https://seekingalpha.com/news/4669566-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 04:15:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stock index futures mixed ahead of October CPI report"
     },
     {
      "title": "李强签署国务院令 公布修订后的《基金会管理条例》",
      "link": "http://finance.eastmoney.com/news/1345,202611103927362337.html",
      "pubDate": "Tue, 10 Nov 2026 17:04:28 +0800",
      "summary": "国务院总理李强日前签署国务院令，公布修订后的《基金会管理条例》（以下简称《条例》），自2027年1月1日起施行。 《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。《条例》共8章79条，修订的主要内容如下。 一是完善总体原则要求。明确基金会工作坚持中国共产党的领导，强化党建工作要求，规定基金会从事公益活动应当遵循合法、自愿、诚信、公开、透明、非营利的原则。 二是健全登记管理制度。明确登记管理层级和注册资金，稳妥推进直接登记，明确变更登记程序要求，细化注销前清算程序。 三是完善内部治理机制。强化发起人、负责人责任，健全组织机构职权及议事规则，禁止负责人、理事、监事等利用关联关系损害基金会",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "李强签署国务院令 公布修订后的《基金会管理条例》"
-    },
-    {
-     "title": "金杨精密：截至10月30日最新股东户数1.53万户，较上期增加21.39%",
-     "link": "http://stock.eastmoney.com/news/11111,202611103927361626.html",
-     "pubDate": "Tue, 10 Nov 2026 17:03:50 +0800",
-     "summary": "金杨精密 最新披露数据显示，截至10月30日公司股东户数为1.53万户，较上期(2026年9月30日) 增加2702户，增幅为21.39% 。户均持有流通股数量 由上期的4871股下降至4013股， 户均持股金额 由上期的14.21万元减少至12.76万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
-     "source": "东方财富股票",
-     "zh": "金杨精密：截至10月30日最新股东户数1.53万户，较上期增加21.39%"
-    },
-    {
-     "title": "【调研快报】锦江航运接待参与公司2026年三季度业绩电话会及2026年三季度业绩说明会的投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611103927361521.html",
-     "pubDate": "Tue, 10 Nov 2026 17:03:50 +0800",
-     "summary": "锦江航运 11月10日公告称， 11月2日至11月4日 接待参与公司2026年三季度业绩电话会及2026年三季度业绩说明会的投资者 调研。 接待人员包括董事长 沈伟,董事、总经理 陈燕,独立董事 韩国敏,财务总监 邱倩,董事会秘书 汪蕊莹,证券事务代表 张振芳。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况: 1、财报显示,前三季度公司期间费用同比增长 3318.67 万元,其中财务费用同比大增 35%。请问财务总监,在营收增长向利润端传导效率有所放缓(前三季度利润总额仅微增 0.12%)的情况下,公司在降本增效、优化债务结构以及汇兑损益管控方面,下一步有何具体的财务策... 点",
-     "source": "东方财富股票",
-     "zh": "【调研快报】锦江航运接待参与公司2026年三季度业绩电话会及2026年三季度业绩说明会的投资者调研"
-    },
-    {
-     "title": "美联储理事沃勒：即使10月CPI较9月有所改善，仍将支持在12月加息25个基点",
-     "link": "http://hk.eastmoney.com/news/11617,202611103927361377.html",
-     "pubDate": "Tue, 10 Nov 2026 17:03:26 +0800",
-     "summary": "美联储理事沃勒：即使10月CPI较9月有所改善，仍将支持在12月加息25个基点。如果10月核心CPI涨幅在0.3%左右或更高，美联储12月可能需要加息50个基点。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储理事沃勒：即使10月CPI较9月有所改善，仍将支持在12月加息25个基点"
     },
     {
      "title": "Definium plans DT120 NDA filing in H1 2027 as cash runway extends into 2030",
@@ -2305,28 +2353,20 @@
      "zh": "Definium plans DT120 NDA filing in H1 2027 as cash runway extends into 2030"
     },
     {
-     "title": "LifeVantage outlines $3M-$3.5M annualized platform spend as it plans 2027 digital launches",
-     "link": "https://seekingalpha.com/news/4669563-lifevantage-outlines-3m-3_5m-annualized-platform-spend-as-it-plans-2027-digital-launches?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 04:02:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "LifeVantage outlines $3M-$3.5M annualized platform spend as it plans 2027 digital launches"
+     "title": "美联储最鹰信号！沃勒放话：若通胀居高不下，12月支持加息50个基点",
+     "link": "https://wallstreetcn.com/articles/3785652",
+     "pubDate": "Tue, 10 Nov 2026 17:00:57 +0800",
+     "summary": "美联储理事Christopher Waller（克里斯托弗·沃勒）周二表示支持12月加息，并警告若通胀压力持续，他将支持加息50个基点，以维护央行抗通胀的公信力。这是迄今为止美联储官员就12月政策行动发出的最强硬表态。 Waller在伦敦发表讲话时表示， 若今晚公布的10月消费者价格指数（CPI）数据出现改善，他倾向于支持加息25个基点。 但 若10月核心CPI环比涨幅维持在约0.3%或更高水平——与此前两个月的读数相近——则\"需要采取更强力的政策行动\"，届时应在12月会议上考虑加息50个基点。 华尔街见闻此前文章 提到，市场共识预期10月核心CPI环比上涨0.20%，高盛预期仅上涨0.16%",
+     "source": "华尔街见闻",
+     "zh": "美联储最鹰信号！沃勒放话：若通胀居高不下，12月支持加息50个基点"
     },
     {
-     "title": "Plug Power in charts: Q3 equipment sales hit $105.7M, fuel cell services surge 47% Y/Y",
-     "link": "https://seekingalpha.com/news/4669562-plug-power-in-charts-q3-equipment-sales-hit-1057m-fuel-cell-services-surge-47-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 04:01:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Plug Power in charts: Q3 equipment sales hit $105.7M, fuel cell services surge 47% Y/Y"
-    },
-    {
-     "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
-     "link": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
-     "pubDate": "Tue, 10 Nov 2026 09:01:37 GMT",
-     "summary": "SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027.",
+     "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+     "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+     "pubDate": "Tue, 10 Nov 2026 09:00:01 GMT",
+     "summary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
      "source": "CNBC",
-     "zh": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline"
+     "zh": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase"
     },
     {
      "title": "全球科技股反弹，欧洲斯托克600创新高，英伟达夜盘涨2%，布油自8月首破90美元",
@@ -2345,14 +2385,6 @@
      "zh": "布伦特原油期货跌破90美元/桶 创8月底以来最低水平"
     },
     {
-     "title": "Quantum projects fiscal Q3 2027 revenue of $91M±$2M while targeting 43% gross margin in 18 months",
-     "link": "https://seekingalpha.com/news/4669561-quantum-projects-fiscal-q3-2027-revenue-of-91m-2m-while-targeting-43-percent-gross-margin-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 03:52:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Quantum projects fiscal Q3 2027 revenue of $91M±$2M while targeting 43% gross margin in 18 months"
-    },
-    {
      "title": "黄仁勋若离职，谁能接管英伟达？AMD苏姿丰纳入媒体候选",
      "link": "https://wallstreetcn.com/articles/3785650",
      "pubDate": "Tue, 10 Nov 2026 16:47:07 +0800",
@@ -2367,22 +2399,6 @@
      "summary": "11月10日，多家上市公司发布投资者关系活动记录表公告，披露各自与机构之间的业务交流内容，其中透露出公司业务布局的诸多进展与亮点。 康冠科技 ：持续向AI硬件厂商转型 医显产品已覆盖部分头部客户 康冠科技 上周日与安信基金、富国基金、 国信证券 、太平资管等46家机构在线交流。公司围绕“AI硬件厂商”转型与医疗显示高增长业务，给出了端侧产品矩阵与商业化节奏。 康冠科技 表示，向“AI硬件厂商”转型是公司持续推进的战略之一，已与端侧大模型企业阶跃星辰达成深度合作，持续推进公司闺蜜机、智能交互平板等现有产品的迭代升级，并共同研发、打造新一代AI硬件产品，近期已落地mini AI PC。 自有品牌方",
      "source": "东方财富资讯",
      "zh": "机构调研丨端侧AI+AI眼镜 这家公司封板 智能交互平板出货量行业领先 携手阶跃星辰落地AI PC"
-    },
-    {
-     "title": "Hesai Group reports mixed Q3 results; gives Q4 outlook",
-     "link": "https://seekingalpha.com/news/4669558-hesai-group-reports-mixed-q3-results-gives-q4-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 03:45:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hesai Group reports mixed Q3 results; gives Q4 outlook"
-    },
-    {
-     "title": "Honda raises FY2027 profit outlook despite EV restructuring costs and China weakness",
-     "link": "https://seekingalpha.com/news/4669534-honda-raises-fy2027-profit-outlook-despite-ev-restructuring-costs-and-china-weakness?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 03:42:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Honda raises FY2027 profit outlook despite EV restructuring costs and China weakness"
     },
     {
      "title": "11月10日涨停复盘：95只股涨停 文投控股15天8板",
@@ -2420,17 +2436,9 @@
      "title": "新一轮俄美乌三方会谈在阿布扎比开始举行",
      "link": "http://finance.eastmoney.com/news/1345,202611103927327465.html",
      "pubDate": "Tue, 10 Nov 2026 16:15:08 +0800",
-     "summary": "据俄罗斯方面消息，新一轮俄美乌三方会谈10日在阿联酋首都阿布扎比开始举行。 相关报道 俄乌军方高官参加三方会谈 各方抓紧“喊话” 俄罗斯与乌克兰的代表团定于10日至11日在阿拉伯联合酋长国首都阿布扎比举行会谈，斡旋方美国参与。据俄新社10日报道，时隔9个月重启的此次谈判将以闭门形式举行。 俄方公布了代表团名单，首席谈判代表依然是俄总统助理弗拉基米尔·梅金斯基。他率领俄罗斯代表团参加了2022年3月在土耳其伊斯坦布尔举行的俄乌首次直接会谈以及随后的历次会谈。俄方代表团成员还包括外交部副部长谢尔盖·里亚布科夫和米哈伊尔·加卢津、武装力量总参谋部情报总局局长 伊戈尔 ·科斯秋科夫和总参谋部高级官员尤",
+     "summary": "据俄罗斯方面消息，新一轮俄美乌三方会谈10日在阿联酋首都阿布扎比开始举行。这是今年2月谈判陷入停滞以来，三方时隔9个月重启面对面磋商。 俄罗斯外长拉夫罗夫10日表示，相关方将在俄美乌三方会谈期间讨论保障集体安全问题，保障措施将在达成全面彻底的解决方案后生效。 乌克兰对外情报局局长、谈判代表团团长乌梅罗夫表示，本次三方会谈重点议题包括停止敌对行动、战后安全保障、乌克兰经济重建及人道主义安排相关事宜。他表示，先期协调会议旨在沟通、对齐各方立场，敲定下一阶段谈判的行动安排。 有消息称，解决乌克兰问题虽然重要，但这仅是阿布扎比会谈广泛讨论的议题之一。 据悉，俄方本次参与阿布扎比三方会谈的人员共11人，",
      "source": "东方财富资讯",
      "zh": "新一轮俄美乌三方会谈在阿布扎比开始举行"
-    },
-    {
-     "title": "11月10日港股收盘：恒指涨0.44% 恒生科技指数涨1.08%",
-     "link": "http://stock.eastmoney.com/news/11770,202611103927319025.html",
-     "pubDate": "Tue, 10 Nov 2026 16:10:18 +0800",
-     "summary": "港股11月10日收盘走高，恒生指数收报24557.04点，涨108.09点，涨幅0.44%；恒生科技指数收报4084.45点，涨43.72点，涨幅1.08%。恒生指数成分股中 舜宇光学科技 、 理想汽车 -W、 汇丰控股 涨幅居前， 中国铝业 、 中国宏桥 、 中国石油股份 跌幅靠前。恒生科技指数成分股中 天数智芯 、 智谱 、 MINIMAX-W 涨幅居前， 阿里巴巴 -W、 比亚迪股份 、 腾讯音乐 -SW跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，",
-     "source": "东方财富资讯",
-     "zh": "11月10日港股收盘：恒指涨0.44% 恒生科技指数涨1.08%"
     },
     {
      "title": "软银两年来首次季度亏损！AI暴跌重创愿景基金，美国数据中心项目遭巨额减值",
@@ -2447,22 +2455,6 @@
      "summary": "魏牌二代蓝山转向豪华 “ 方盒子 ” ，瞄准的是 30 万元左右 SUV 市场里的新客户。 11 月 9 日，魏牌二代蓝山开启预售，提供五座、六座共四款车型，预售价 28.98 万 —32.98 万元 ，新换代的车型 也承担起魏牌寻找新增客户的任务。 这款车推出时，魏牌正面临增长压力。长城汽车产销快报显示， 10 月魏牌销量为 8648 辆，同比下降 31.90% ；前十个月累计销量 75230 辆，同比下降 1.39% 。对于已经布局多款 SUV 和 MPV 的魏牌，接下来的重点是提高各款车的销量，让产品阵容的扩张转化为品牌规模的增长。 集团层面的盈利压力同样值得关注。今年前三季度，长城汽车",
      "source": "华尔街见闻",
      "zh": "魏牌二代蓝山换代，瞄准豪华“方盒子”市场"
-    },
-    {
-     "title": "马自达扭亏，下半财年要完成909亿日元营业利润",
-     "link": "https://wallstreetcn.com/articles/3785554",
-     "pubDate": "Tue, 10 Nov 2026 16:00:00 +0800",
-     "summary": "恢复盈利的马自达，接下来要靠新车型和降本，在下半年完成更重的利润任务。 11 月 9 日，马自达发布 2027 财年上半年业绩。 2026 年 4 月至 9 月，公司营收 2.6881 万亿日元，同比增长 20.1% ；营业利润 591 亿日元，上年同期为亏损 539 亿日元；归母净利润 442 亿日元，同样实现扭亏。 公司维持截至 2027 年 3 月的全年 1500 亿日元营业利润目标，预计下半财年完成 909 亿日元。与此同时，全年销量预期较 8 月下调 2.7 万辆，至 129.7 万辆。销量预期收缩、利润目标不变，新车能卖出怎样的价格、生产和销售成本如何下降，成为接下来的重点。 上半",
-     "source": "华尔街见闻",
-     "zh": "马自达扭亏，下半财年要完成909亿日元营业利润"
-    },
-    {
-     "title": "功能性食品升温 科学证据和行业标准需先行",
-     "link": "http://www.eeo.com.cn/2026/1110/1089222.shtml",
-     "pubDate": "Tue, 10 Nov 2026 15:23:25 +0800",
-     "summary": "中国食品工业协会特种食品工作委员会秘书长曾昭俊在会上提到，中国食协特食委正在完善药食同源露酒、药食同源饮品和药食同源休闲零食三项团标的立项建议书，拟在未来推进，并邀请相关机构参与。",
-     "source": "经济观察网",
-     "zh": "功能性食品升温 科学证据和行业标准需先行"
     },
     {
      "title": "Too big to fire",
@@ -2487,6 +2479,14 @@
      "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
      "source": "CNBC",
      "zh": "Jensen Huang affair puts Nvidia&apos;s future at risk, with no clear successor to the renowned CEO"
+    },
+    {
+     "title": "Trump’s C-SPAN call marks latest surprise post-midterm appearance",
+     "link": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html",
+     "pubDate": "Tue, 10 Nov 2026 06:19:09 GMT",
+     "summary": "Trump called C-SPAN's new primetime show unannounced after a surprise White House briefing-room and ballroom appearances.",
+     "source": "CNBC",
+     "zh": "Trump’s C-SPAN call marks latest surprise post-midterm appearance"
     }
    ]
   },

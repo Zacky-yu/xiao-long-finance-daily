@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 05:52:15",
+ "generated_at": "2026/11/11 05:58:41",
  "recent_days": 7,
  "industries": [
   {
@@ -1306,6 +1306,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "On this day in space! Nov. 10, 2013: Europe's GOCE satellite, the 'Ferrari of space,' fell out of orbit after mapping Earth's gravity field",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026",
+     "pubDate": "Tue, 10 Nov 2026 21:51:24 +0000",
+     "summary": "On Nov. 10, 2013, Europe's GOCE satellite fell to Earth after four years in orbit mapping the planet's gravitational field. Here's why it mattered.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 10, 2013: Europe's GOCE satellite, the 'Ferrari of space,' fell out of orbit after mapping Earth's gravity field"
+    },
+    {
      "title": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why",
      "link": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why",
      "pubDate": "Tue, 10 Nov 2026 21:00:00 +0000",
@@ -1376,14 +1384,6 @@ window.INDUSTRY_DATA = {
      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — w",
      "source": "NASA",
      "zh": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds"
-    },
-    {
-     "title": "A robot just built a structure autonomously in space for the 1st time ever",
-     "link": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
-     "pubDate": "Tue, 10 Nov 2026 16:00:00 +0000",
-     "summary": "A robot built part of an antenna in orbit recently, showcasing skills that could potentially allow the assembly of space telescopes and other large structures off Earth.",
-     "source": "Space.com",
-     "zh": "A robot just built a structure autonomously in space for the 1st time ever"
     },
     {
      "title": "CHAPEA Crew Leaves a Mark",
@@ -1570,6 +1570,14 @@ window.INDUSTRY_DATA = {
      "zh": "Japanese furniture giant Nitori says hackers stole 37.6M customer records"
     },
     {
+     "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+     "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+     "pubDate": "Tue, 10 Nov 2026 20:41:45 GMT",
+     "summary": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
+     "source": "Dark Reading",
+     "zh": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them"
+    },
+    {
      "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
      "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
      "pubDate": "Tue, 10 Nov 2026 20:35:34 GMT",
@@ -1738,14 +1746,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier"
     },
     {
-     "title": "People Are Getting Weird About AI",
-     "link": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
-     "pubDate": "Mon, 09 Nov 2026 23:06:22 GMT",
-     "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility.",
-     "source": "Dark Reading",
-     "zh": "People Are Getting Weird About AI"
-    },
-    {
      "title": "Want to Rent an Internet Address at the White House?",
      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
      "pubDate": "Thu, 05 Nov 2026 04:36:17 +0000",
@@ -1813,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
      "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
      "pubDate": "Tue, 10 Nov 2026 20:47:05 +0000",
-     "summary": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+     "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
      "source": "TechCrunch",
      "zh": "Proximal Ventures raises debut fund to back startups bringing AI to drug development"
     },
@@ -2010,6 +2010,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Your Google account will lose its ability to unlock your Nintendo account next year",
+     "link": "https://www.androidauthority.com/nintendo-ending-google-apple-account-linking-3733635/",
+     "pubDate": "Tue, 10 Nov 2026 21:49:50 +0000",
+     "summary": "Nintendo did not offer an explanation for the decision.",
+     "source": "Android Authority",
+     "zh": "Your Google account will lose its ability to unlock your Nintendo account next year"
+    },
+    {
      "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
      "link": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
      "pubDate": "Tue, 10 Nov 2026 21:34:43 +0000",
@@ -2178,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Pixel 11’s better Pixel Search is expanding to every Pixel launched since 2021"
     },
     {
-     "title": "Google’s November Pixel Drop brings over 12 new features, and Pixel 10 owners are the big winners",
-     "link": "https://www.androidauthority.com/google-pixel-drop-november-2026-all-new-features-3733178/",
-     "pubDate": "Tue, 10 Nov 2026 19:00:43 +0000",
-     "summary": "Pixel Solver, Create My Widget, and Gemini Call Screen lead the way, while Pixel 10 owners finally get Gemini Intelligence.",
-     "source": "Android Authority",
-     "zh": "Google’s November Pixel Drop brings over 12 new features, and Pixel 10 owners are the big winners"
-    },
-    {
      "title": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too",
      "link": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/",
      "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Fold Holdings, Inc. GAAP EPS of -$0.05 beats by $0.06, revenue of $4.16M misses by $3.57M",
+     "link": "https://seekingalpha.com/news/4670253-fold-holdings-inc-gaap-eps-of-0_05-beats-by-0_06-revenue-of-4_16m-misses-by-3_57m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:49:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fold Holdings, Inc. GAAP EPS of -$0.05 beats by $0.06, revenue of $4.16M misses by $3.57M"
+    },
+    {
      "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
      "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
      "pubDate": "Tue, 10 Nov 2026 21:48:48 GMT",
@@ -2266,60 +2274,52 @@ window.INDUSTRY_DATA = {
      "zh": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress"
     },
     {
+     "title": "Hyliion Holdings GAAP EPS of -$0.06 beats by $0.01, revenue of $7.45M beats by $2.65M",
+     "link": "https://seekingalpha.com/news/4670252-hyliion-holdings-gaap-eps-of-0_06-beats-by-0_01-revenue-of-7_45m-beats-by-2_65m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:48:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hyliion Holdings GAAP EPS of -$0.06 beats by $0.01, revenue of $7.45M beats by $2.65M"
+    },
+    {
+     "title": "QumulusAI, Inc. GAAP EPS of -$0.43 misses by $0.16, revenue of $14.8M misses by $0.6M",
+     "link": "https://seekingalpha.com/news/4670251-qumulusai-inc-gaap-eps-of--043-misses-by-016-revenue-of-148m-misses-by-06m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:48:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "QumulusAI, Inc. GAAP EPS of -$0.43 misses by $0.16, revenue of $14.8M misses by $0.6M"
+    },
+    {
+     "title": "Grove Collaborative Holdings GAAP EPS of -$0.01 beats by $0.04, revenue of $36.82M misses by $0.53M",
+     "link": "https://seekingalpha.com/news/4670250-grove-collaborative-holdings-gaap-eps-of-0_01-beats-by-0_04-revenue-of-36_82m-misses-by-0_53m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:46:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Grove Collaborative Holdings GAAP EPS of -$0.01 beats by $0.04, revenue of $36.82M misses by $0.53M"
+    },
+    {
+     "title": "Are markets open on Veterans Day?",
+     "link": "https://seekingalpha.com/news/4670223-are-markets-open-on-veterans-day?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:46:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Are markets open on Veterans Day?"
+    },
+    {
+     "title": "PepGen launches $125M stock offering to support clinical development",
+     "link": "https://seekingalpha.com/news/4670238-pepgen-launches-125m-stock-offering-to-support-clinical-development?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:46:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PepGen launches $125M stock offering to support clinical development"
+    },
+    {
      "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
      "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
      "pubDate": "Tue, 10 Nov 2026 21:45:46 GMT",
      "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
      "source": "CNBC",
      "zh": "White House vows to press ahead with tariffs despite midterm backlash over rising prices"
-    },
-    {
-     "title": "QT Imaging Holdings GAAP EPS of -$0.02 beats by $0.07, revenue of $7.34M misses by $3.45M",
-     "link": "https://seekingalpha.com/news/4670248-qt-imaging-holdings-gaap-eps-of-0_02-beats-by-0_07-revenue-of-7_34m-misses-by-3_45m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:45:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "QT Imaging Holdings GAAP EPS of -$0.02 beats by $0.07, revenue of $7.34M misses by $3.45M"
-    },
-    {
-     "title": "AVAX One brings total convertible debt balance to zero",
-     "link": "https://seekingalpha.com/news/4670226-avax-one-brings-total-convertible-debt-balance-to-zero?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:45:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AVAX One brings total convertible debt balance to zero"
-    },
-    {
-     "title": "Marchex Non-GAAP EPS of $0.04 in-line, revenue of $15.9M misses by $0.34M",
-     "link": "https://seekingalpha.com/news/4670247-marchex-non-gaap-eps-of-004-in-line-revenue-of-159m-misses-by-034m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:45:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Marchex Non-GAAP EPS of $0.04 in-line, revenue of $15.9M misses by $0.34M"
-    },
-    {
-     "title": "Mobile Infrastructure GAAP EPS of -$0.06 in-line, revenue of $9.58M beats by $0.04M",
-     "link": "https://seekingalpha.com/news/4670246-mobile-infrastructure-gaap-eps-of-0_06-in-line-revenue-of-9_58m-beats-by-0_04m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:44:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mobile Infrastructure GAAP EPS of -$0.06 in-line, revenue of $9.58M beats by $0.04M"
-    },
-    {
-     "title": "Stocks making big moves after hours: CRWV, STUB, LAND",
-     "link": "https://seekingalpha.com/news/4670242-stocks-making-big-moves-after-hours-crwv-stub-land?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:43:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stocks making big moves after hours: CRWV, STUB, LAND"
-    },
-    {
-     "title": "Freehold Royalties reports Q3 results",
-     "link": "https://seekingalpha.com/news/4670245-freehold-royalties-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:43:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Freehold Royalties reports Q3 results"
     },
     {
      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",

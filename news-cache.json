@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-11-10T21:31:28.654Z",
+  "generatedAt": "2026-11-10T21:49:19.559Z",
   "count": 40,
   "items": [
+    {
+      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
+      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "pubDate": "Tue, 10 Nov 2026 21:42:00 GMT",
+      "content": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
+      "source": "FED",
+      "category": "美联储"
+    },
     {
       "title": "How the stock market has performed after Veterans Day over the past decade",
       "link": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
@@ -71,14 +79,6 @@
       "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
       "pubDate": "Tue, 10 Nov 2026 19:29:00 GMT",
       "content": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-      "source": "US",
-      "category": "半导体"
-    },
-    {
-      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "pubDate": "Tue, 10 Nov 2026 19:17:00 GMT",
-      "content": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
       "source": "US",
       "category": "半导体"
     },

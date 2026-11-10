@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 05:34:21",
+ "generated_at": "2026/11/11 05:52:15",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,12 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
-     "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
      "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
      "source": "TechCrunch AI",
-     "zh": "OpenAI Acquires Odessia, travel startup created by Sonder founder"
+     "zh": "OpenAI acquires Odessia, travel startup created by Sonder founder"
     },
     {
      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
      "zh": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West"
     },
     {
+     "title": "Another novel nuclear project gets green light to start construction",
+     "link": "https://www.canarymedia.com/articles/nuclear/novel-nuclear-project-green-light-construction",
+     "pubDate": "Tue, 10 Nov 2026 15:30:00 -0500",
+     "summary": "The United States just cleared another novel nuclear energy project to begin construction. On Monday, the U.S. Nuclear Regulatory Commission approved a joint application by X-energy and Dow Chemical to build four Xe-100 advanced nuclear reactors at a Texas industrial site owned by the Michigan-based",
+     "source": "Canary Media",
+     "zh": "Another novel nuclear project gets green light to start construction"
+    },
+    {
      "title": "Norway’s Electric Snowplow Worked. Sweden Added Hydrogen Anyway.",
      "link": "https://cleantechnica.com/2026/11/10/norway-electric-snowplow-sweden-hydrogen-range-extender/",
      "pubDate": "Tue, 10 Nov 2026 20:27:29 +0000",
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sanjit “Bunker” Roy, who taught illiterate grandmothers to become solar engineers, passed away peacefully this morning at his home in Tilonia, Rajasthan, aged 81.[1] I first encountered his work not in India, but in the rain forests of Borneo. It was October 2016, and as night fell, the surrounding ",
      "source": "CleanTechnica",
      "zh": "A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers"
-    },
-    {
-     "title": "VIDEO: Improving BESS thermal and dielectric performance with PSA tape",
-     "link": "https://www.energy-storage.news/video-improving-bess-thermal-and-dielectric-performance-with-psa-tape/",
-     "pubDate": "Tue, 10 Nov 2026 10:08:50 +0000",
-     "summary": "Energy-Storage.news proudly presents our sponsored webinar with Argent International, 'New Ways to Improve BESS Thermal and Dielectric Performance.'",
-     "source": "Energy Storage News",
-     "zh": "VIDEO: Improving BESS thermal and dielectric performance with PSA tape"
     }
    ]
   },
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June (Jordan Novet/CNBC)",
+     "link": "https://www.techmeme.com/261110/p53#a261110p53",
+     "pubDate": "Tue, 10 Nov 2026 16:40:01 -0500",
+     "summary": "Jordan Novet / CNBC : CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June &nbsp; &mdash;&nbsp; CoreWeave reported better-than-expected quarterly revenue and lifted its 2026 guidance on Tuesday, showing that",
+     "source": "Techmeme",
+     "zh": "CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June (Jordan Novet/CNBC)"
+    },
+    {
+     "title": "Sources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion (Financial Times)",
+     "link": "https://www.techmeme.com/261110/p52#a261110p52",
+     "pubDate": "Tue, 10 Nov 2026 16:35:07 -0500",
+     "summary": "Financial Times : Sources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion &nbsp; &mdash;&nbsp; Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off &",
+     "source": "Techmeme",
+     "zh": "Sources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion (Financial Times)"
+    },
+    {
      "title": "Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 (The Information)",
      "link": "https://www.techmeme.com/261110/p51#a261110p51",
      "pubDate": "Tue, 10 Nov 2026 16:22:07 -0500",
@@ -1773,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Six Math Essentials by Terence Tao",
      "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
      "pubDate": "Tue, 10 Nov 2026 20:58:44 +0000",
-     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 31 # Comments: 2",
      "source": "Hacker News",
      "zh": "Six Math Essentials by Terence Tao"
     },
@@ -1781,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Sherman Anti-Trust Act (1890",
      "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
      "pubDate": "Tue, 10 Nov 2026 20:56:16 +0000",
-     "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 18 # Comments: 3",
+     "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 31 # Comments: 14",
      "source": "Hacker News",
      "zh": "Sherman Anti-Trust Act (1890"
     },
@@ -1826,26 +1842,10 @@ window.INDUSTRY_DATA = {
      "zh": "Lawsuit filing: Point72&apos;s quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor (Bloomberg)"
     },
     {
-     "title": "SpaceX announces Starlink Mini 2 with a swappable battery that it says can operate for over four hours without an external power source, reportedly for $999 (Andrew Liszewski/The Verge)",
-     "link": "https://www.techmeme.com/261110/p47#a261110p47",
-     "pubDate": "Tue, 10 Nov 2026 15:02:01 -0500",
-     "summary": "Andrew Liszewski / The Verge : SpaceX announces Starlink Mini 2 with a swappable battery that it says can operate for over four hours without an external power source, reportedly for $999 &nbsp; &mdash;&nbsp; The all-in-one satellite dish can now operate for over four hours without an external power",
-     "source": "Techmeme",
-     "zh": "SpaceX announces Starlink Mini 2 with a swappable battery that it says can operate for over four hours without an external power source, reportedly for $999 (Andrew Liszewski/The Verge)"
-    },
-    {
-     "title": "São Paulo-based Clara, which sells corporate spend management tools in Latin America, raised $105M, as a $65M Series C and $40M in renewed growth financing (Maria Clara Cobo/Bloomberg)",
-     "link": "https://www.techmeme.com/261110/p46#a261110p46",
-     "pubDate": "Tue, 10 Nov 2026 14:55:03 -0500",
-     "summary": "Maria Clara Cobo / Bloomberg : S&atilde;o Paulo-based Clara, which sells corporate spend management tools in Latin America, raised $105M, as a $65M Series C and $40M in renewed growth financing &nbsp; &mdash;&nbsp; Clara, a S&atilde;o Paulo-based corporate spending management startup, raised $105 mi",
-     "source": "Techmeme",
-     "zh": "São Paulo-based Clara, which sells corporate spend management tools in Latin America, raised $105M, as a $65M Series C and $40M in renewed growth financing (Maria Clara Cobo/Bloomberg)"
-    },
-    {
      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
      "pubDate": "Tue, 10 Nov 2026 19:50:46 +0000",
-     "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 21 # Comments: 1",
+     "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 67 # Comments: 41",
      "source": "Hacker News",
      "zh": "Toyota brand Scion is back and it's going to sell a kei truck in America"
     },
@@ -1861,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "What objective is reasoning solving?",
      "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
      "pubDate": "Tue, 10 Nov 2026 19:25:14 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 47 # Comments: 17",
+     "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 57 # Comments: 26",
      "source": "Hacker News",
      "zh": "What objective is reasoning solving?"
     },
@@ -1869,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "A comprehensive study of how fingerprintable users are",
      "link": "https://fingerprinting.study/",
      "pubDate": "Tue, 10 Nov 2026 19:03:54 +0000",
-     "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 34 # Comments: 3",
+     "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 39 # Comments: 8",
      "source": "Hacker News",
      "zh": "A comprehensive study of how fingerprintable users are"
     },
@@ -1893,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Starlink Mini 2",
      "link": "https://starlink.com/mini-2",
      "pubDate": "Tue, 10 Nov 2026 18:22:32 +0000",
-     "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 170 # Comments: 181",
+     "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 181 # Comments: 187",
      "source": "Hacker News",
      "zh": "Starlink Mini 2"
     },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
+     "link": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
+     "pubDate": "Tue, 10 Nov 2026 21:34:43 +0000",
+     "summary": "Reuters reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple to investigate accident that killed three workers at iPhone parts factory in India"
+    },
+    {
+     "title": "Samsung Galaxy S27 series dummy units surface in new leak",
+     "link": "https://www.gsmarena.com/samsung_galaxy_s27_series_dummy_units_surface_in_new_leak-news-75426.php",
+     "pubDate": "Tue, 10 Nov 2026 22:33:02 +0100",
+     "summary": "Earlier today, dummy units of Apple’s iPhone Air 2 and iPhone 18 surfaced online. Now, a new leak has given us a look at dummy models of Samsung's upcoming Galaxy S27 series. Prominent tipster Sonny Dickson has shared an image showing the dummy units of the Samsung Galaxy S27 Ultra, Galaxy S27 Pro, ",
+     "source": "GSMArena",
+     "zh": "Samsung Galaxy S27 series dummy units surface in new leak"
+    },
     {
      "title": "What is the 'Dead Internet Theory' and should humanity be worried?",
      "link": "https://www.engadget.com/2307790/what-is-dead-internet-theory/",
@@ -2210,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung officially details Gallery sync with Google storage"
     },
     {
-     "title": "Apple announces Swift Student Challenge 2027 with new twist",
-     "link": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
-     "pubDate": "Tue, 10 Nov 2026 18:11:28 +0000",
-     "summary": "Apple has announced details for 2027’s Swift Student Challenge, and there’s a new twist this year: students can submit an app for any Apple platform. more…",
-     "source": "9to5Mac",
-     "zh": "Apple announces Swift Student Challenge 2027 with new twist"
-    },
-    {
      "title": "Here's what to look for so you don't get scammed by a fake GPU",
      "link": "https://www.engadget.com/2307801/fake-gpu-scam-what-to-look-for/",
      "pubDate": "Tue, 10 Nov 2026 18:00:00 +0000",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "We've added the Z5IIC to our studio scene, and it's looking good.",
      "source": "DPReview",
      "zh": "The Nikon Z5IIC is small on price, not on image quality"
-    },
-    {
-     "title": "Google Wallet gains support for overseas QR payments",
-     "link": "https://www.gsmarena.com/google_wallet_gains_support_for_overseas_qr_payments-news-75423.php",
-     "pubDate": "Tue, 10 Nov 2026 16:31:02 +0100",
-     "summary": "With the release of the latest version of Google Play Services, Google Wallet has gained support for \"Traveler QR\". This will let you pay with QR codes when you're traveling. That's a huge help in some countries which don't have a lot of contactless payment infrastructure. When you get this feature,",
-     "source": "GSMArena",
-     "zh": "Google Wallet gains support for overseas QR payments"
     }
    ]
   },
@@ -2258,36 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+     "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+     "pubDate": "Tue, 10 Nov 2026 21:48:48 GMT",
+     "summary": "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress.",
+     "source": "CNBC",
+     "zh": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress"
+    },
+    {
+     "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+     "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+     "pubDate": "Tue, 10 Nov 2026 21:45:46 GMT",
+     "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
+     "source": "CNBC",
+     "zh": "White House vows to press ahead with tariffs despite midterm backlash over rising prices"
+    },
+    {
+     "title": "QT Imaging Holdings GAAP EPS of -$0.02 beats by $0.07, revenue of $7.34M misses by $3.45M",
+     "link": "https://seekingalpha.com/news/4670248-qt-imaging-holdings-gaap-eps-of-0_02-beats-by-0_07-revenue-of-7_34m-misses-by-3_45m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:45:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "QT Imaging Holdings GAAP EPS of -$0.02 beats by $0.07, revenue of $7.34M misses by $3.45M"
+    },
+    {
+     "title": "AVAX One brings total convertible debt balance to zero",
+     "link": "https://seekingalpha.com/news/4670226-avax-one-brings-total-convertible-debt-balance-to-zero?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:45:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AVAX One brings total convertible debt balance to zero"
+    },
+    {
+     "title": "Marchex Non-GAAP EPS of $0.04 in-line, revenue of $15.9M misses by $0.34M",
+     "link": "https://seekingalpha.com/news/4670247-marchex-non-gaap-eps-of-004-in-line-revenue-of-159m-misses-by-034m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:45:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Marchex Non-GAAP EPS of $0.04 in-line, revenue of $15.9M misses by $0.34M"
+    },
+    {
+     "title": "Mobile Infrastructure GAAP EPS of -$0.06 in-line, revenue of $9.58M beats by $0.04M",
+     "link": "https://seekingalpha.com/news/4670246-mobile-infrastructure-gaap-eps-of-0_06-in-line-revenue-of-9_58m-beats-by-0_04m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:44:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mobile Infrastructure GAAP EPS of -$0.06 in-line, revenue of $9.58M beats by $0.04M"
+    },
+    {
+     "title": "Stocks making big moves after hours: CRWV, STUB, LAND",
+     "link": "https://seekingalpha.com/news/4670242-stocks-making-big-moves-after-hours-crwv-stub-land?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:43:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stocks making big moves after hours: CRWV, STUB, LAND"
+    },
+    {
+     "title": "Freehold Royalties reports Q3 results",
+     "link": "https://seekingalpha.com/news/4670245-freehold-royalties-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:43:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Freehold Royalties reports Q3 results"
+    },
+    {
+     "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
+     "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 21:42:00 GMT",
+     "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
+     "source": "MarketWatch",
+     "zh": "Stocks fall as the 10-year Treasury yield nears 5% mark"
+    },
+    {
      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
      "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-     "pubDate": "Tue, 10 Nov 2026 21:30:22 GMT",
+     "pubDate": "Tue, 10 Nov 2026 21:35:02 GMT",
      "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
      "source": "CNBC",
      "zh": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns"
-    },
-    {
-     "title": "Annaly Capital Management 6.95% PFD SER F declares $0.583 dividend",
-     "link": "https://seekingalpha.com/news/4670202-annaly-capital-management-6_95-percent-pfd-ser-f-declares-0_583-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:29:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Annaly Capital Management 6.95% PFD SER F declares $0.583 dividend"
-    },
-    {
-     "title": "Clarivate sets final pricing for $500M senior notes tender offers",
-     "link": "https://seekingalpha.com/news/4670193-clarivate-sets-final-pricing-for-500m-senior-notes-tender-offers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:29:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Clarivate sets final pricing for $500M senior notes tender offers"
-    },
-    {
-     "title": "Annaly Capital Management, Inc. 8.875 PFD CUM J declares $0.5547 dividend",
-     "link": "https://seekingalpha.com/news/4670201-annaly-capital-management-inc-8_875-pfd-cum-j-declares-0_5547-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:29:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Annaly Capital Management, Inc. 8.875 PFD CUM J declares $0.5547 dividend"
     },
     {
      "title": "How the stock market has performed after Veterans Day over the past decade",
@@ -2296,30 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "The stock market is open Wednesday on Veterans Day, but not the bond market",
      "source": "MarketWatch",
      "zh": "How the stock market has performed after Veterans Day over the past decade"
-    },
-    {
-     "title": "Annaly Capital Management, Inc. PFD SER G declares $0.5436 dividend",
-     "link": "https://seekingalpha.com/news/4670200-annaly-capital-management-inc-pfd-ser-g-declares-0_5436-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:28:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Annaly Capital Management, Inc. PFD SER G declares $0.5436 dividend"
-    },
-    {
-     "title": "PetMed Express GAAP EPS of -$0.31 misses by $0.20, revenue of $35.8M",
-     "link": "https://seekingalpha.com/news/4670199-petmed-express-gaap-eps-of-0_31-misses-by-0_20-revenue-of-35_8m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:28:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PetMed Express GAAP EPS of -$0.31 misses by $0.20, revenue of $35.8M"
-    },
-    {
-     "title": "Costco gains after announcing its first special dividend in almost three years",
-     "link": "https://seekingalpha.com/news/4670188-costco-gains-after-announcing-its-first-special-dividend-in-almost-three-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:28:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Costco gains after announcing its first special dividend in almost three years"
     },
     {
      "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
@@ -2450,6 +2474,14 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal"
     },
     {
+     "title": "美联储理事鲍曼警告：若AI押注落空，股市或将大幅回调",
+     "link": "https://wallstreetcn.com/articles/3785680",
+     "pubDate": "Wed, 11 Nov 2026 04:32:03 +0800",
+     "summary": "美联储官员就金融市场风险发出警示，直指人工智能热潮可能埋下的系统性隐患，并暗示年内仍有加息空间。 美联储理事Michelle Bowman（米歇尔·鲍曼）周二在华盛顿发表讲话时警告， 若AI投资回报不及预期，股市估值可能面临大幅修正。她同时指出，通胀持续高于预期，暗示支持在12月会议上再度加息。 Bowman的表态与同日发布的通胀数据相互印证——美国劳工部数据显示，10月核心通胀环比上涨0.3%，高于预期。 此前两位美联储票委同日放鹰 ，美联储理事Christopher Waller当日早些时候呼吁12月会议考虑加息50个基点，达拉斯联储主席Lorie Logan则表示至少还需加息两次、每次2",
+     "source": "华尔街见闻",
+     "zh": "美联储理事鲍曼警告：若AI押注落空，股市或将大幅回调"
+    },
+    {
      "title": "美股三大指数震荡下跌 纳指跌近1% 国际金银价格下挫",
      "link": "http://finance.eastmoney.com/news/1345,202611103927654526.html",
      "pubDate": "Wed, 11 Nov 2026 04:31:10 +0800",
@@ -2458,44 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "美股三大指数震荡下跌 纳指跌近1% 国际金银价格下挫"
     },
     {
-     "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-     "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
-     "pubDate": "Tue, 10 Nov 2026 20:28:02 GMT",
-     "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
-     "source": "CNBC",
-     "zh": "White House vows to press ahead with tariffs despite midterm backlash over rising prices"
-    },
-    {
-     "title": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
-     "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 20:27:00 GMT",
-     "summary": "The Fed remains too optimistic on its ability to tame inflation, and markets may be too complacent, economist Neil Dutta warns.",
-     "source": "MarketWatch",
-     "zh": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist"
-    },
-    {
-     "title": "Jim Jordan elected House GOP leader",
-     "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-     "pubDate": "Tue, 10 Nov 2026 20:24:45 GMT",
-     "summary": "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress.",
-     "source": "CNBC",
-     "zh": "Jim Jordan elected House GOP leader"
-    },
-    {
      "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
      "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
      "pubDate": "Tue, 10 Nov 2026 20:05:21 GMT",
      "summary": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
      "source": "Financial Times",
      "zh": "US commerce department delays Megaspeed’s inclusion on trade blacklist"
-    },
-    {
-     "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
-     "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
-     "pubDate": "Tue, 10 Nov 2026 20:01:18 GMT",
-     "summary": "On Sunday, Huang admitted to having an affair with a woman who has been connected to Chinese intelligence by reports in The New York Times and Financial Times.",
-     "source": "CNBC",
-     "zh": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/10 12:11:50",
+ "generated_at": "2026/11/10 12:31:54",
  "recent_days": 7,
  "industries": [
   {
@@ -146,14 +146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context"
     },
     {
-     "title": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?",
-     "link": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
-     "pubDate": "Mon, 09 Nov 2026 15:00:00 +0000",
-     "summary": "4 classic leaks, planted in real data, tested cold on 4 models.",
-     "source": "KDnuggets",
-     "zh": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?"
-    },
-    {
      "title": "实测千问办公2.0：1个Team Agent和团队协作，2小时操盘一场热点营销",
      "link": "https://zhidx.com/p/608469.html",
      "pubDate": "Mon, 09 Nov 2026 22:46:09 +0800",
@@ -176,14 +168,6 @@ window.INDUSTRY_DATA = {
      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
      "source": "MIT Tech Review AI",
      "zh": "Innovating with AI in the special chemicals industry"
-    },
-    {
-     "title": "5 Useful Python Automation Scripts for Beginners",
-     "link": "https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners",
-     "pubDate": "Mon, 09 Nov 2026 13:00:00 +0000",
-     "summary": "Learn how to use Python scripts to automate repetitive tasks, organize files, process images, and simplify daily workflows.",
-     "source": "KDnuggets",
-     "zh": "5 Useful Python Automation Scripts for Beginners"
     },
     {
      "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "自带云电脑的 TeleAgent，打开智能体的更多可能。",
      "source": "机器之心",
      "zh": "你的AI同事，已经开始用「云电脑」上班了"
+    },
+    {
+     "title": "让AI「摸懂」物理世界，首个触觉推理模型Touch-R1，入选NeurIPS 2026",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651073140&idx=3&sn=788754bcaa053557f9c8ccd807058410",
+     "pubDate": "Mon, 09 Nov 2026 16:45:00 +0800",
+     "summary": "当视觉与触觉发生冲突，智能体会怎么办？",
+     "source": "机器之心",
+     "zh": "让AI「摸懂」物理世界，首个触觉推理模型Touch-R1，入选NeurIPS 2026"
+    },
+    {
+     "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+     "link": "https://www.qbitai.com/2026/11/507843.html",
+     "pubDate": "Mon, 09 Nov 2026 08:44:00 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满"
     }
    ]
   },
@@ -1754,6 +1754,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Analysis: Nvidia&apos;s 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure (Mackenzie Hawkins/Bloomberg)",
+     "link": "https://www.techmeme.com/261109/p52#a261109p52",
+     "pubDate": "Mon, 09 Nov 2026 23:25:01 -0500",
+     "summary": "Mackenzie Hawkins / Bloomberg : Analysis: Nvidia's 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure &nbsp; &mdash;&nbsp; Nvidia Corp.'s general counsel intervened in a US government probe of suspected smuggling ",
+     "source": "Techmeme",
+     "zh": "Analysis: Nvidia&apos;s 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure (Mackenzie Hawkins/Bloomberg)"
+    },
+    {
+     "title": "印尼站美妆类目突然要求上传清真认证，没证的链接是不是只能下架？",
+     "link": "https://www.baijing.cn/question/638640",
+     "pubDate": "Tue, 10 Nov 2026 04:24:12 +0000",
+     "summary": "上周后台收到通知，印尼站美妆个护部分叶子类目要求补充清真认证信息，我们店铺有 30 多个 SKU 被标记，其中 12 个是自有品牌彩妆，链接流量三天内掉了约 40%。团队 8 个人，主要做东南亚，印尼占六成营收，之前只办了 BPOM 注册，没走清真认证流程，现在卡在不知道哪些类目是强制、哪些只是提示。已经问过两家本地认证代理，报价和周期差得很多，也试过先把被标记 SKU 的库存转到马来西亚站，但那边转化只有印尼的三分之一。现在最想确认的是：这一轮规则变化里，没清真认证的链接是直接下架还是还能靠 BPOM 撑一段时间？",
+     "source": "白鲸出海",
+     "zh": "印尼站美妆类目突然要求上传清真认证，没证的链接是不是只能下架？"
+    },
+    {
+     "title": "原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业",
+     "link": "https://www.ithome.com/1/024/748.htm",
+     "pubDate": "Tue, 10 Nov 2026 04:21:39 GMT",
+     "summary": "IT之家 11 月 10 日消息，原今日头条 CEO 陈林昨日在个人公众号发表文章《我为什么还要做教育？》，谈到离职字节、筹备 AI 教育创业等事。 IT之家注意到，陈林在公众号简介中写着“小鹿爱学（银河智学）创始人，曾任今日头条 CEO，大力教育 CEO”。 这是自 2025 年市场传闻他从字节离职创业以来 ， 陈林首次公开正式承认 。 陈林在长文中提到，2022 年大力教育业务收缩后，他看着并肩作战的团队遗憾离场始终心怀愧疚，加上自身身体病痛，他选择退出字节一线岗位，开始长达两年半的休养期。在此期间他发现自己还是闲不住，试着做过投资，也在字节给几个部门当过顾问。 后来他动了重新创业的念头，",
+     "source": "IT之家",
+     "zh": "原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业"
+    },
+    {
+     "title": "亚马逊美国站 ACOS 从 22% 涨到 41%，备货和退货两头挤压，广告该不该继续压？",
+     "link": "https://www.baijing.cn/question/638639",
+     "pubDate": "Tue, 10 Nov 2026 04:12:04 +0000",
+     "summary": "做户外露营配件，美国站为主、加拿大站刚开，团队 6 人，月广告预算 1.2 万美元左右。去年 Q4 起 ACOS 从 22% 一路涨到 41%，同期退货率从 6% 爬到 11%，主要是炉具类密封件客诉。为压 ACOS 已经把自动广告否定词加到 400 多个、手动精准只留转化前 5 的词，ACOS 只回到 36%，但曝光掉了三成，日单从 180 跌到 120。麻烦的是供应链这边：炉具是提前 90 天备货，现在海外仓还压着 4000 多件，退货回来的货又不能二次销售，资金全卡在库存上。卡在不敢继续砍广告——再砍排名掉得更快，库存更难消化；不砍 ACOS 又吃利润。这种备货周期长、退货率还在涨的品类",
+     "source": "白鲸出海",
+     "zh": "亚马逊美国站 ACOS 从 22% 涨到 41%，备货和退货两头挤压，广告该不该继续压？"
+    },
+    {
+     "title": "具身智能迎来第一个资本寒冬",
+     "link": "https://www.huxiu.com/article/4904390.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 12:11:43 +0800",
+     "summary": "本文来自微信公众号： 量子位ROBO ，编辑：李欢欢，作者：关注前沿科技 一位投资人已经快半年没看具身智能的项目了。 另一位从2023年就开始看具身的投资人，今年下半年扫了一圈项目，只出手了一次。 还有一位投资人透露，最近几家头部具身智能公司正在融新一轮。但跟还是不跟，在不少老股东机构内部，争议很大。 很明显，具身智能已经进入资本冷静期。 产业服务平台“NE时代”发布的数据也印证了这一点：9月具身智能融资额相比8月缩水四成。 过去其他行业需要数年走完的融资历程，具身智能压缩到了两三年。估值一路狂飙，可技术、产品和商业化成熟的速度，却并没有跟上。 一头是企业居高不下的估值，一头是晦暗不明的预期，",
+     "source": "虎嗅",
+     "zh": "具身智能迎来第一个资本寒冬"
+    },
+    {
+     "title": "天才做出了产品，然后呢？硬件上限非常之低",
+     "link": "https://www.huxiu.com/article/4904383.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 12:11:15 +0800",
+     "summary": "我对现在一些硬件创业者的评价就三句：Ego 足够大，上限足够低，做事没底线。 货卖不动，他嫌人家没格局。代理商肯压一批货，他转头就在融资材料里写&ldquo;海外需求已验证&rdquo;。 这套生意短期内根本不需要把货卖给消费者，只要资本给的钱足够多，研发、模具、备货、补贴和退货都有人买单。 他可以花半年琢磨怎么说服一个投资人，却嫌问十个顾客为什么没买太耽误时间。 本文来自微信公众号： 小丸子酱酱酱聊商业 ，作者：tibimaruko666，题图来自：AI生成 天才做出了产品，然后呢？ 前几年，我有几个朋友凑在一起做硬件。学历好，技术强，单拎出来都是顶级投资人爱见的人，凑在一起，连&ldquo",
+     "source": "虎嗅",
+     "zh": "天才做出了产品，然后呢？硬件上限非常之低"
+    },
+    {
+     "title": "The US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations (Kanishka Singh/Reuters)",
+     "link": "https://www.techmeme.com/261109/p51#a261109p51",
+     "pubDate": "Mon, 09 Nov 2026 23:10:01 -0500",
+     "summary": "Kanishka Singh / Reuters : The US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations &nbsp; &mdash;&nbsp; The US Justice Department sued Lyft (LYFT.O) on Monday, alleging the ride-hailing services provider discrimi",
+     "source": "Techmeme",
+     "zh": "The US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations (Kanishka Singh/Reuters)"
+    },
+    {
      "title": "龙芯中科胡伟武：通用 CPU 3B6600、7A3000 即将回片",
      "link": "https://www.ithome.com/1/024/746.htm",
      "pubDate": "Tue, 10 Nov 2026 04:05:51 GMT",
@@ -1824,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 10 日消息，华为官方今日宣布全新鸿蒙小折叠电脑 —— MateBook Fold S 将于 11 月 14 日 10:08 开启预订。 官方预热海报显示，新机搭载 Live 小方屏， 提供云海蓝、天际白、幻夜黑三款配色 。IT之家注意到，目前华为官方已公开新品三色官图。 ▲ 云海蓝 ▲ 天际白 ▲ 幻夜黑 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东此前已经发布预告视频，新品采用了类似手机产品的全新背屏设计，预计将支持信息显示。此外，该产品展开后是一块 14.7 英寸显示屏。目前，关于这款新品的配置及价格信息还未公布，感兴趣的朋友可以关注IT之家后续报道",
      "source": "IT之家",
      "zh": "华为 MateBook Fold S 鸿蒙小折叠电脑三色外观公布：搭载 Live 小方屏，11 月 14 日预订"
-    },
-    {
-     "title": "消息称 Pro 和 Ultra 版占据三星 Galaxy S27 系列智能手机七成规划出货量",
-     "link": "https://www.ithome.com/1/024/741.htm",
-     "pubDate": "Tue, 10 Nov 2026 03:53:51 GMT",
-     "summary": "IT之家 11 月 10 日消息，韩媒 ETNEWS 当地时间昨日报道称，在三星电子 MX（移动体验）业务的规划中， Pro 和 Ultra 两个高阶版本将 Galaxy S27 系列智能手机整体出货量的七成左右 。 三星电子的 Galaxy S 系列旗舰手机年产能通常在 3500 万部上下，今年的情况也是如此。其中，高端的 Ultra 系列约占 1800 万部，略微超过半数。 S27 世代将打破 Galaxy S 的近年传统，在标准、Plus、Ultra 之外引入新的 Pro 变体。S Pro 的产品定义为“更小巧的 Ultra”，同样属于 Galaxy S 中的较高等级序列，但屏幕尺寸降低",
-     "source": "IT之家",
-     "zh": "消息称 Pro 和 Ultra 版占据三星 Galaxy S27 系列智能手机七成规划出货量"
     },
     {
      "title": "一家燃气公司，跑出半个核聚变赛道",
@@ -1906,14 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "瑞士清洁科技企业Climada研发气候风险分析SaaS软件，量化自然灾害经济损失"
     },
     {
-     "title": "郭庆离场，京东外卖降速寻活路",
-     "link": "https://www.huxiu.com/article/4904376.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 11:36:55 +0800",
-     "summary": "本文来自微信公众号： 透视商业 ，作者：透视商业，编辑：苏满 2025年初，当刘强东亲自为京东外卖站台，甚至穿上骑手服装送外卖时，京东对这场战争的野心不言而喻。 商家免佣、百亿补贴、全职骑手五险一金，一系列远超行业常规竞争强度的动作，让京东外卖在短时间内迅速抢到了市场。 日订单量从百万级跃升至千万级，再冲上2500万单，京东用一场近乎激进的闪电战，在美团和淘宝闪购长期盘踞的市场中撕开了一道口子。 但规模增长的另一面，是越来越沉重的财务账单。 2025年，京东新业务（主要包括京东外卖、京东产发、京喜及海外业务）经营亏损达到466.41亿元，集团归母净利润同比下降52.7%。 京东新业务经营亏损达",
-     "source": "虎嗅",
-     "zh": "郭庆离场，京东外卖降速寻活路"
-    },
-    {
      "title": "印尼短剧付费点在新规后掉了一半，是支付通道问题还是内容合规踩线？",
      "link": "https://www.baijing.cn/question/638635",
      "pubDate": "Tue, 10 Nov 2026 03:36:50 +0000",
@@ -1922,18 +1962,10 @@ window.INDUSTRY_DATA = {
      "zh": "印尼短剧付费点在新规后掉了一半，是支付通道问题还是内容合规踩线？"
     },
     {
-     "title": "10月中国出口同比增长35.2%",
-     "link": "https://www.huxiu.com/article/4904378.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 11:35:15 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：辛圆 海关总署周二公布数据称，以美元计，2026年10月，中国出口金额同比增长35.2%，较9月小幅回落1.1个百分点；进口同比增长41.6%，比上月加快10.6个百分点。1-10月累计，出口金额较上年同期增长22.7%，进口增长29%。 东方金诚首席宏观分析师王青对界面新闻表示，多重因素推动10月出口仍保持较高增速。一方面，全球AI投资热潮继续推动芯片等电子元件和电脑零部件价格上涨，带动出口额高增，这是当前最主要的出口拉动力。 另一方面，王青表示，近年国内制造业转型升级取得进展，新能源汽车、高技术产品出口竞争力明显增强。此外，10月摩根大通全球制造业P",
-     "source": "虎嗅",
-     "zh": "10月中国出口同比增长35.2%"
-    },
-    {
      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
      "pubDate": "Tue, 10 Nov 2026 03:20:06 +0000",
-     "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 23 # Comments: 0",
+     "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 42 # Comments: 9",
      "source": "Hacker News",
      "zh": "CoreWeave bond yield tops 16% as AI credit stress rises"
     },
@@ -1946,14 +1978,6 @@ window.INDUSTRY_DATA = {
      "zh": "美股AI巨震，如何把握港A的AI产业链分化机遇？"
     },
     {
-     "title": "南非独立站物流时效拖到12天，投放CPA涨了四成还要不要继续？",
-     "link": "https://www.baijing.cn/question/638634",
-     "pubDate": "Tue, 10 Nov 2026 03:12:42 +0000",
-     "summary": "我们做南非市场的家居独立站，主投Meta和Google，团队5个人，月投放预算约8万人民币，现在日均30单左右。最近物流时效从下单到签收普遍拉到10-12天，约翰内斯堡和开普敦的客户催单明显变多，同一批广告的CPA从180元涨到250元上下，签收前的退款率也翻了一倍。已经试过换本地尾程合作方、把预计送达时间在落地页写得更保守，但转化率又掉了。卡在不知道该先压投放等物流改善，还是继续跑量摊薄固定成本。这种时效和CPA同时恶化的情况，你们一般用什么指标决定停投还是加投？",
-     "source": "白鲸出海",
-     "zh": "南非独立站物流时效拖到12天，投放CPA涨了四成还要不要继续？"
-    },
-    {
      "title": "Trump Media Q3: $409.7M profit fueled by gains on digital assets, vs. a Q3 2025 $54.8M loss, and sales of $3M, $1.8M from subscriptions like Truth API, Truth+ (Elias Schisgall/Wall Street Journal)",
      "link": "https://www.techmeme.com/261109/p49#a261109p49",
      "pubDate": "Mon, 09 Nov 2026 22:00:34 -0500",
@@ -1962,36 +1986,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump Media Q3: $409.7M profit fueled by gains on digital assets, vs. a Q3 2025 $54.8M loss, and sales of $3M, $1.8M from subscriptions like Truth API, Truth+ (Elias Schisgall/Wall Street Journal)"
     },
     {
-     "title": "北美 AI 应用订阅定价改版后付费转化跌了 18%，小团队该先动价格锚点还是先补引导流程？",
-     "link": "https://www.baijing.cn/question/638633",
-     "pubDate": "Tue, 10 Nov 2026 02:57:36 +0000",
-     "summary": "我们做北美（美国 / 加拿大）的 AI 写作类订阅应用，去年 11 月从 9.99 美元月付改成 14.99 美元月付加 99 美元年付两档，改版后首月付费转化从 4.2% 掉到 3.4%，年付占比只有 11%，退款率反而涨了 2 个点。团队一共 6 个人，2 个研发 1 个设计，运营就我自己，这轮改版排期已经拖了三周，研发下个 sprint 全被安卓端适配占满，短期抽不出人手做完整的 paywall 重构。已经试过在现有 paywall 上加一行年付省 45% 的文案、把默认选中项从月付改成周付，转化只回升 0.2 个点。现在卡在是先小步调价格锚点（比如加一个 4.99 的周付档）还是先补引",
-     "source": "白鲸出海",
-     "zh": "北美 AI 应用订阅定价改版后付费转化跌了 18%，小团队该先动价格锚点还是先补引导流程？"
-    },
-    {
      "title": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)",
      "link": "https://www.techmeme.com/261109/p48#a261109p48",
      "pubDate": "Mon, 09 Nov 2026 20:41:39 -0500",
      "summary": "Echo Wang / Reuters : Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate &nbsp; &mdash;&nbsp; Anthropic sent out and then retracted details of its blockbuster IPO filing, according to emails to banke",
      "source": "Techmeme",
      "zh": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)"
-    },
-    {
-     "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-     "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-     "pubDate": "Tue, 10 Nov 2026 00:18:19 +0000",
-     "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-     "source": "WIRED",
-     "zh": "Jensen Huang’s Troubles Leave the AI Industry Reeling"
-    },
-    {
-     "title": "Locating the source of a mysterious beep",
-     "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-     "pubDate": "Tue, 10 Nov 2026 00:10:46 +0000",
-     "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 41 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "Locating the source of a mysterious beep"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Claude Fable 5.2 brings big gains in coding and robotics at a lower price",
+     "link": "https://www.androidauthority.com/anthropic-fable-5-2-mythos-5-2-released-3733161/",
+     "pubDate": "Tue, 10 Nov 2026 04:21:38 +0000",
+     "summary": "Claude Fable 5.2 is also faster and more affordable than Fable 5.1.",
+     "source": "Android Authority",
+     "zh": "Claude Fable 5.2 brings big gains in coding and robotics at a lower price"
+    },
     {
      "title": "vivo X500, X500 Pro, and X500 Pro Max prices for India leak",
      "link": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413.php",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Skullcandy Crusher 720 adds bass you can feel to music and games, and it is 33% off on Amazon.",
      "source": "Android Authority",
      "zh": "Score $70 off the Skullcandy Crusher 720 in this Amazon deal"
-    },
-    {
-     "title": "One UI 9.5 leak reveals new Shorten and Translate shortcuts in Samsung Keyboard",
-     "link": "https://www.androidauthority.com/samsung-keyboard-one-ui-9-5-shorten-translate-leak-3733097/",
-     "pubDate": "Mon, 09 Nov 2026 19:40:45 +0000",
-     "summary": "Samsung's next One UI update could give its keyboard a couple of extra tricks.",
-     "source": "Android Authority",
-     "zh": "One UI 9.5 leak reveals new Shorten and Translate shortcuts in Samsung Keyboard"
     }
    ]
   },
@@ -2249,6 +2249,38 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "“羊字辈”概念股：炒的是谐音，割的是跟风",
+     "link": "http://www.eeo.com.cn/2026/1110/1088983.shtml",
+     "pubDate": "Tue, 10 Nov 2026 12:24:47 +0800",
+     "summary": "临近羊年，“羊字辈”谐音概念股遭炒作又经一日反转，涨停与跌停之间，炒的是谐音，割的却是跟风者。",
+     "source": "经济观察网",
+     "zh": "“羊字辈”概念股：炒的是谐音，割的是跟风"
+    },
+    {
+     "title": "中国10月出口同比增长35.2%，AI硬件热潮为主引擎，进口同比增长41.6%",
+     "link": "https://wallstreetcn.com/articles/3785621",
+     "pubDate": "Tue, 10 Nov 2026 12:14:35 +0800",
+     "summary": "中国海关总署11月10日发布数据显示，中国10月以美元计价出口同比增长35.2%；中国10月以美元计价进口同比增长41.6%，预估为增长33.9%。单月贸易顺差为1053亿美元。AI硬件需求激增是关键驱动力。 与此同时，数据还显示，今年前10个月，中国货物贸易进出口44.81万亿元，同比增长20%，保持强劲增长态势。其中，出口25.99万亿元，同比增长17.6%；进口18.82万亿元，同比增长23.6%。 截至10月份，中国进口、出口均已经连续6个月保持两位数增长。 中国国泰君安国际首席经济学家Hao Zhou表示，贸易顺差数据“凸显了中国出口部门在全球贸易环境趋于严峻的背景下所具备的韧性与竞",
+     "source": "华尔街见闻",
+     "zh": "中国10月出口同比增长35.2%，AI硬件热潮为主引擎，进口同比增长41.6%"
+    },
+    {
+     "title": "AbCellera outlines plans to initiate ABCL635 late-stage development in 2027, while citing liquidity for at least the next 3 years",
+     "link": "https://seekingalpha.com/news/4669470-abcellera-outlines-plans-to-initiate-abcl635-late-stage-development-in-2027-while-citing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 23:11:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AbCellera outlines plans to initiate ABCL635 late-stage development in 2027, while citing liquidity for at least the next 3 years"
+    },
+    {
+     "title": "NRG Energy declares $0.475 dividend",
+     "link": "https://seekingalpha.com/news/4669469-nrg-energy-declares-0_475-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 23:08:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NRG Energy declares $0.475 dividend"
+    },
     {
      "title": "创业板半日涨近1.5%，AI硬件反弹、“易中天”拉升，机器人爆发、宇树市值重回3000亿，恒科指一度涨1%",
      "link": "https://wallstreetcn.com/articles/3785617",
@@ -2274,6 +2306,14 @@ window.INDUSTRY_DATA = {
      "zh": "YieldMax NVDA Performance & Distribution Target 25 ETF declares $0.2042 dividend"
     },
     {
+     "title": "证券之星第十四届“资本力量”年度品牌活动颁奖典礼在沪圆满落幕",
+     "link": "http://www.eeo.com.cn/2026/1110/1088944.shtml",
+     "pubDate": "Tue, 10 Nov 2026 12:04:15 +0800",
+     "summary": "2026年11月6日，由证券之星主办的第十四届&ldquo;资本力量&rdquo;年度品牌活动颁奖典礼暨证券之星30周年庆典在上海&middot;前滩中心&middot;云洞艺术空间圆满举办。活动以&ldquo;登高不止，望远无界&rdquo;为主题，超百位上市公司高管、金融机构负责人及行业专家齐聚一堂，共同...",
+     "source": "经济观察网",
+     "zh": "证券之星第十四届“资本力量”年度品牌活动颁奖典礼在沪圆满落幕"
+    },
+    {
      "title": "世界对黄仁勋依赖过深，英伟达应降低单一CEO风险",
      "link": "https://wallstreetcn.com/articles/3785624",
      "pubDate": "Tue, 10 Nov 2026 12:03:57 +0800",
@@ -2296,22 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Skydance targets $6B run-rate synergies in 3 years while outlining $10B free cash flow goal for 2030"
-    },
-    {
-     "title": "Trump Media outlines plan to close TAE merger by end of 2026 while keeping equity issuance off the table",
-     "link": "https://seekingalpha.com/news/4669464-trump-media-outlines-plan-to-close-tae-merger-by-end-of-2026-while-keeping-equity-issuance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 23:01:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump Media outlines plan to close TAE merger by end of 2026 while keeping equity issuance off the table"
-    },
-    {
-     "title": "WhiteHorse Finance declares $0.25 dividend",
-     "link": "https://seekingalpha.com/news/4669463-whitehorse-finance-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 22:59:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "WhiteHorse Finance declares $0.25 dividend"
     },
     {
      "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
@@ -2418,28 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "创业板指上涨1.49% 全市场超3800股飘红 影视院线爆发"
     },
     {
-     "title": "中国10月出口同比增长35.2%，AI硬件热潮为主引擎，进口同比增长41.6%",
-     "link": "https://wallstreetcn.com/articles/3785621",
-     "pubDate": "Tue, 10 Nov 2026 11:29:21 +0800",
-     "summary": "中国海关总署11月10日发布数据显示，中国10月以美元计价出口同比增长35.2%；中国10月以美元计价进口同比增长41.6%，预估为增长33.9%。单月贸易顺差为1053亿美元。AI硬件需求激增是关键驱动力。 与此同时，数据还显示，今年前10个月，中国货物贸易进出口44.81万亿元，同比增长20%，保持强劲增长态势。其中，出口25.99万亿元，同比增长17.6%；进口18.82万亿元，同比增长23.6%。 截至10月份，中国进口、出口均已经连续6个月保持两位数增长。 中国国泰君安国际首席经济学家Hao Zhou表示，贸易顺差数据“凸显了中国出口部门在全球贸易环境趋于严峻的背景下所具备的韧性与竞",
-     "source": "华尔街见闻",
-     "zh": "中国10月出口同比增长35.2%，AI硬件热潮为主引擎，进口同比增长41.6%"
-    },
-    {
      "title": "AI短剧催化不断！影视概念持续走强 多股获融资客抢筹(名单)",
      "link": "http://finance.eastmoney.com/news/11822,202611103927183731.html",
      "pubDate": "Tue, 10 Nov 2026 11:29:00 +0800",
      "summary": "AI短剧、漫剧产业催化密集落地，A股 影视概念 近期持续走强，多股获融资客抢筹。机构认为，AI正在重构影视生产全流程，产业链价值有望向IP与平台两端转移。 首部AI辅助制作动画长片上线，微短剧出海按下加速键 10月31日，国内首部标注\"AI辅助制作\"的动画长片《宝莲灯·凡心问天》上线，点燃板块行情。11月2日，影视板块指数单日收涨超9%，影视ETF银华、影视ETF国泰双双涨停，此后板块反复活跃。 政策层面，国家广播电视总局近期印发《广播电视和网络视听\"十五五\"规划》，明确提出实施\"微短剧+\"行动计划与微短剧出海领先计划，推动真人剧与AI剧双轨发展，打造\"世界故事工厂\"，并将\"十五五\"时期推出优",
      "source": "东方财富资讯",
      "zh": "AI短剧催化不断！影视概念持续走强 多股获融资客抢筹(名单)"
-    },
-    {
-     "title": "在进博会，寻找中国市场机遇｜进博会观察",
-     "link": "http://www.eeo.com.cn/2026/1110/1088854.shtml",
-     "pubDate": "Tue, 10 Nov 2026 10:59:00 +0800",
-     "summary": "进博会不仅是一个全球新品、新技术首发平台，更成为跨国企业对接中国市场、挖掘新机遇的重要载体。今年进博会现场，多位跨国公司负责人在采访中不约而同提到，新能源和健康领域是中国市场新的增长机会。",
-     "source": "经济观察网",
-     "zh": "在进博会，寻找中国市场机遇｜进博会观察"
     },
     {
      "title": "投行齐呼AI股跌过头！亚洲科技股强势反弹 韩股涨至熔断",
@@ -2480,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy.",
      "source": "CNBC",
      "zh": "Trump says Jensen Huang told him Monday he didn&apos;t know paramour &apos;was a spy&apos;"
-    },
-    {
-     "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
-     "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 00:48:00 GMT",
-     "summary": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research",
-     "source": "MarketWatch",
-     "zh": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips"
     }
    ]
   },

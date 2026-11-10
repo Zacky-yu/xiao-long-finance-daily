@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 04:12:06",
+ "generated_at": "2026/11/11 04:32:20",
  "recent_days": 7,
  "industries": [
   {
@@ -42,6 +42,14 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google"
     },
     {
+     "title": "How to Use AI for Enterprise BI",
+     "link": "https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi",
+     "pubDate": "Tue, 10 Nov 2026 18:00:30 +0000",
+     "summary": "Learn how AI can make enterprise business intelligence more accessible, automate reporting, uncover insights faster, and improve decision-making with the right governance.",
+     "source": "KDnuggets",
+     "zh": "How to Use AI for Enterprise BI"
+    },
+    {
      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
      "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
@@ -74,12 +82,28 @@ window.INDUSTRY_DATA = {
      "zh": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters"
     },
     {
+     "title": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM",
+     "link": "https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm",
+     "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+     "summary": "Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline for multilingual text classification, guided by two pre-trained language models handled by Scikit-LLM for translation and zero-shot classification.",
+     "source": "KDnuggets",
+     "zh": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM"
+    },
+    {
      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
      "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
      "pubDate": "Tue, 10 Nov 2026 14:59:09 +0000",
      "summary": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Sa",
      "source": "MarkTechPost",
      "zh": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards"
+    },
+    {
+     "title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
+     "link": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
+     "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
+     "summary": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each technique.",
+     "source": "KDnuggets",
+     "zh": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank"
     },
     {
      "title": "苹果开卖334元AI“加油包”，额度不详，仅面向已订阅创作套件用户",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "新智元",
      "zh": "Fable 5.2睁眼拼魔方，中国AI闭眼搓麻将！人类「手感」首次Token化"
-    },
-    {
-     "title": "1500万美元！OpenAI联手Anthropic，请数学家给AI「验卷」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652741625&idx=2&sn=7e85097eb21e4e059d1e9f257aa0b18b",
-     "pubDate": "Tue, 10 Nov 2026 11:38:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "1500万美元！OpenAI联手Anthropic，请数学家给AI「验卷」"
-    },
-    {
-     "title": "让机器人理解「抓哪里」：把「三维可供性」引入操作数据生成",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652741625&idx=3&sn=23d08fe7fcb417740a6ff32e6302eb62",
-     "pubDate": "Tue, 10 Nov 2026 11:38:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "让机器人理解「抓哪里」：把「三维可供性」引入操作数据生成"
-    },
-    {
-     "title": "赶在IPO前，Claude最强模型空降！宾大教授感慨“几乎达到AGI”",
-     "link": "https://zhidx.com/p/608593.html",
-     "pubDate": "Tue, 10 Nov 2026 08:49:37 +0800",
-     "summary": "智东西 编译 | 程茜 王涵 编辑 | 心缘 迄今地表最强模型来了！？ 智东西11月10日消息，今日，Anthropic全新最强双模型 Claude Fable 5.2、Claude Mythos 5.2 正式登场，基准测试里 几乎碾压Fable 5.1、Opus 5.5、GPT-6 Astra 。 Claude Fable 5.2、Claude Mythos 5.2能干的事真的有点超出想象。Anthropic称，这两个模型在预发布测试中，帮工程师完成了原本无法实现的软件迁移、 从0设计出三台可用的电子设备 、解决了 两个黑洞物理学中的公开问题 ，甚至只用 30小时就完成了费马大定理的形式化证",
-     "source": "智东西",
-     "zh": "赶在IPO前，Claude最强模型空降！宾大教授感慨“几乎达到AGI”"
     }
    ]
   },
@@ -290,12 +290,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nexperia adds ultra-low-resistance GaN FETs for next-gen power density and efficiency"
     },
     {
-     "title": "Weebit Nano launches Matrix research program to test AI computing inside memory",
+     "title": "Weebit Nano launches Matrix research program to explore AI computing inside memory",
      "link": "https://semiwiki.com/ip/weebit-nano/375980-weebit-nano-launches-matrix-research-program-to-test-ai-computing-inside-memory/",
      "pubDate": "Tue, 10 Nov 2026 16:00:24 +0000",
-     "summary": "Weebit Nano launched its Weebit Matrix In-Memory Compute Research Program on November 4, 2026, giving academic and industry researchers access to hardware built around its resistive random-access memory, or ReRAM. The program will let teams prototype AI algorithms, test ways to program the memory an",
+     "summary": "Weebit Nano launched its Weebit Matrix In-Memory Compute Research Program on November 4, 2026, giving academic and industry researchers access to hardware built around its resistive random-access memory, or ReRAM. The program will let teams prototype AI algorithms, research ways to program the memor",
      "source": "SemiWiki",
-     "zh": "Weebit Nano launches Matrix research program to test AI computing inside memory"
+     "zh": "Weebit Nano launches Matrix research program to explore AI computing inside memory"
     },
     {
      "title": "Staera emerges from stealth with $4.6m in pre-seed funding",
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A (Shubhangi Goel/Business Insider)",
+     "link": "https://www.techmeme.com/261110/p49#a261110p49",
+     "pubDate": "Tue, 10 Nov 2026 15:25:16 -0500",
+     "summary": "Shubhangi Goel / Business Insider : Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A &nbsp; &mdash;&nbsp; AI agents can write code, search databases, and carry out multistep tasks.&nbsp; But they can still",
+     "source": "Techmeme",
+     "zh": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A (Shubhangi Goel/Business Insider)"
+    },
+    {
      "title": "Lawsuit filing: Point72&apos;s quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor (Bloomberg)",
      "link": "https://www.techmeme.com/261110/p48#a261110p48",
      "pubDate": "Tue, 10 Nov 2026 15:05:01 -0500",
@@ -1794,6 +1802,14 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: despite Trump&apos;s denial, he was told at least twice in seven months about Huang&apos;s affair with an alleged spy, including by Rubio en route to China (New York Times)"
     },
     {
+     "title": "Google Fi adds support for a second 5G network, won't say which one",
+     "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+     "pubDate": "Tue, 10 Nov 2026 19:35:59 +0000",
+     "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+     "source": "Ars Technica",
+     "zh": "Google Fi adds support for a second 5G network, won't say which one"
+    },
+    {
      "title": "Google Fi launches \"super network\" for automatic carrier switching and Wi-Fi Auto-Connect+ to improve indoor connectivity in places like malls and airports (Sam Rutherford/Engadget)",
      "link": "https://www.techmeme.com/261110/p44#a261110p44",
      "pubDate": "Tue, 10 Nov 2026 14:35:02 -0500",
@@ -1805,25 +1821,33 @@ window.INDUSTRY_DATA = {
      "title": "What objective is reasoning solving?",
      "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
      "pubDate": "Tue, 10 Nov 2026 19:25:14 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 17 # Comments: 3",
      "source": "Hacker News",
      "zh": "What objective is reasoning solving?"
     },
     {
-     "title": "Nvidia hires law firm Wachtell Lipton to investigate Jensen Huang&apos;s affair with an alleged Chinese spy, to be led by former acting US attorney Joon H. Kim (New York Times)",
-     "link": "https://www.techmeme.com/261110/p43#a261110p43",
-     "pubDate": "Tue, 10 Nov 2026 14:25:00 -0500",
-     "summary": "New York Times : Nvidia hires law firm Wachtell Lipton to investigate Jensen Huang's affair with an alleged Chinese spy, to be led by former acting US attorney Joon H. Kim &nbsp; &mdash;&nbsp; Wachtell partner Joon H. Kim, a former acting U.S. attorney, is leading the inquiry into the chip maker's c",
-     "source": "Techmeme",
-     "zh": "Nvidia hires law firm Wachtell Lipton to investigate Jensen Huang&apos;s affair with an alleged Chinese spy, to be led by former acting US attorney Joon H. Kim (New York Times)"
+     "title": "Saltline: First-person shooter built by Fable 5.2",
+     "link": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+     "pubDate": "Tue, 10 Nov 2026 19:14:38 +0000",
+     "summary": "Article URL: https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp Comments URL: https://news.ycombinator.com/item?id=50444850 Points: 10 # Comments: 9",
+     "source": "Hacker News",
+     "zh": "Saltline: First-person shooter built by Fable 5.2"
     },
     {
      "title": "A comprehensive study of how fingerprintable users are",
      "link": "https://fingerprinting.study/",
      "pubDate": "Tue, 10 Nov 2026 19:03:54 +0000",
-     "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 15 # Comments: 0",
      "source": "Hacker News",
      "zh": "A comprehensive study of how fingerprintable users are"
+    },
+    {
+     "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+     "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+     "pubDate": "Tue, 10 Nov 2026 19:00:26 +0000",
+     "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+     "source": "Ars Technica",
+     "zh": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop"
     },
     {
      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
@@ -1834,10 +1858,18 @@ window.INDUSTRY_DATA = {
      "zh": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available"
     },
     {
+     "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+     "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+     "pubDate": "Tue, 10 Nov 2026 18:39:16 +0000",
+     "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+     "source": "Ars Technica",
+     "zh": "Free video-streaming service Tubi lets users share curated watchlists now"
+    },
+    {
      "title": "Starlink Mini 2",
      "link": "https://starlink.com/mini-2",
      "pubDate": "Tue, 10 Nov 2026 18:22:32 +0000",
-     "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 120 # Comments: 106",
+     "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 133 # Comments: 126",
      "source": "Hacker News",
      "zh": "Starlink Mini 2"
     },
@@ -1853,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Synaptics patent claims stop work on DisplayLink drivers",
      "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
      "pubDate": "Tue, 10 Nov 2026 18:02:02 +0000",
-     "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 115 # Comments: 51",
+     "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 126 # Comments: 54",
      "source": "Hacker News",
      "zh": "Synaptics patent claims stop work on DisplayLink drivers"
     },
@@ -1872,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "Git security vulnerabilities announced"
-    },
-    {
-     "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-     "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-     "pubDate": "Tue, 10 Nov 2026 17:55:07 +0000",
-     "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 42 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "Claude Whiteboards, Claude Sheets, and Claude Data"
     },
     {
      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
@@ -1976,30 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 11月8日，英伟达CEO黄仁勋写了一封全员信。 信里最重要的，是这句话：“我对妻子不忠。我的行为伤害了她和我们的孩子。对于我所做的一切，没有任何借口。” 消息很快冲上了热搜，我身边的朋友、大大小小的群聊，也都在关注和讨论这件事。我发现这些反应中，有两种观点，比较典型。 一种说，“男人有钱就变坏，意料之中。” 另一种观点是，“原配陪了快四十年，真离了分黄仁勋一半身家，也不亏。” 一个是在骂，一个是在算经济账。看起来讨论方向不同，但仔细想想看，这两种说法背后，其实藏着同一个前提。也就是，婚姻这件事，最终都可以用钱来解释。",
      "source": "虎嗅",
      "zh": "不要过度神话经济在婚姻中的作用"
-    },
-    {
-     "title": "波士顿动力为其人形机器人加入了轮子",
-     "link": "https://www.solidot.org/story?sid=85849",
-     "pubDate": "Tue, 10 Nov 2026 23:58:19 +0800",
-     "summary": "波士顿动力通过官方 YouTube 频道公布了一则新视频，展示了其人形机器人 Atlas 改用轮子在地面上移动。视频展示了 Atlas 能通过足部的轮子用脚尖旋转，以及做出其它高强度的动作。Atlas 能在平坦地面上的快速滚动与应对障碍物或不规则地面的关节式腿部运动之间实现平滑切换。Atlas 项目控制工程师 Andy Wu 称，系统在模拟环境中进行了训练，在模拟环境中学会所有动作后能在现实世界中以高准确度执行出来。Atlas 转换到移动模式仅需一个定制的适配器，就能将现有的滑板车轮毂安装到 Atlas 原有的踝关节执行器上。",
-     "source": "Solidot",
-     "zh": "波士顿动力为其人形机器人加入了轮子"
-    },
-    {
-     "title": "奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车",
-     "link": "https://www.ithome.com/1/025/192.htm",
-     "pubDate": "Tue, 10 Nov 2026 15:34:55 GMT",
-     "summary": "IT之家 11 月 10 日消息，据第一财经今天（10 日）晚间报道，奥迪 · 上汽战略合作 CEO 舒睿泽（Fred Schulze）透露， 未来三年将推出三款新车，规划已进入执行阶段 。 此外，奥迪在 L3 级自动驾驶领域也有明确的发展目标。对于是否出口到欧洲市场，舒睿泽称，AUDI 品牌车型专为中国消费者打造， 全力聚焦中国市场 是未来几年的核心任务。 据IT之家此前报道，今年 10 月，奥迪中国宣布分别与合作伙伴签署战略协议，旨在强化奥迪四环品牌与 AUDI (奥迪字母标) 品牌之间的差异化定位及各自的战略侧重，并进一步明确“双品牌、双合作伙伴”渠道架构。这一战略里程碑，体现了 奥迪、",
-     "source": "IT之家",
-     "zh": "奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车"
-    },
-    {
-     "title": "MiniMax 开源 H3-Image 生图模型，10 秒就能生成一张 4K 图像",
-     "link": "https://www.ithome.com/1/025/191.htm",
-     "pubDate": "Tue, 10 Nov 2026 15:25:52 GMT",
-     "summary": "IT之家 11 月 10 日消息，今天（10 日）深夜，MiniMax 宣布，MiniMax H3-Image 正式发布并 开放权重 。这是一款衍生自 H3 的图像生成模型，其具备 文本生成图像、图像参考和图像编辑能力 。 IT之家从官方介绍获悉，其能够在 10 秒内生成 一张 4096 x 4096 像素、约 16 MP（4K） 的高分辨率图像，同时呈现丰富、真实的细节，并具备优秀的指令遵循和多参考图理解能力。 MiniMax 称，在 H3 预训练赋予的广泛图像能力基础上，H3-Image 进一步强化了整个后训练链路，在数据、强化学习、步数压缩、PE、部署优化等方面做了许多扎实的工作。这些工",
-     "source": "IT之家",
-     "zh": "MiniMax 开源 H3-Image 生图模型，10 秒就能生成一张 4K 图像"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung is getting its Galaxy Wearable app ready for its smart glasses debut",
+     "link": "https://www.androidauthority.com/samsung-prepares-wearable-app-for-smart-glasses-3733581/",
+     "pubDate": "Tue, 10 Nov 2026 20:16:22 +0000",
+     "summary": "\"Intelligent Eyewear\" public demos are getting started as Samsung preps Galaxy Wearable app.",
+     "source": "Android Authority",
+     "zh": "Samsung is getting its Galaxy Wearable app ready for its smart glasses debut"
+    },
     {
      "title": "Apple just released new AirPods Pro 3 firmware and more",
      "link": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
@@ -2138,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google’s November Pixel Drop brings over 12 new features, and Pixel 10 owners are the big winners"
     },
     {
-     "title": "Google rolls out Create My Widget to Pixel 10 and 11 series, but the Pixel 10a misses out",
-     "link": "https://www.androidauthority.com/google-create-my-widget-pixel-feature-drop-3733311/",
-     "pubDate": "Tue, 10 Nov 2026 19:00:41 +0000",
-     "summary": "You can now use natural language commands to generate widgets, but not on the budget Pixel.",
-     "source": "Android Authority",
-     "zh": "Google rolls out Create My Widget to Pixel 10 and 11 series, but the Pixel 10a misses out"
-    },
-    {
      "title": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too",
      "link": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/",
      "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
@@ -2162,20 +2162,20 @@ window.INDUSTRY_DATA = {
      "zh": "How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026?"
     },
     {
-     "title": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more",
-     "link": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
-     "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
-     "summary": "Like last year, the next Pixel Drop is rolling out a month early in November. Coupled with Android 17 QPR2 , it’s quite a big Feature Drop for Gemini and other AI capabilities, as well as the Pixel 10 series. more…",
-     "source": "9to5Google",
-     "zh": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more"
-    },
-    {
      "title": "Google rolling out Android 17 QPR2 for Pixel",
      "link": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
      "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
      "summary": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more…",
      "source": "9to5Google",
      "zh": "Google rolling out Android 17 QPR2 for Pixel"
+    },
+    {
+     "title": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more",
+     "link": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
+     "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
+     "summary": "Like last year, the next Pixel Drop is rolling out a month early in November. Coupled with Android 17 QPR2 , it’s quite a big Feature Drop for Gemini and other AI capabilities, as well as the Pixel 10 series. more…",
+     "source": "9to5Google",
+     "zh": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more"
     },
     {
      "title": "The Close-up Photographer of the Year shortlist shows off photos with an intimate perspective",
@@ -2258,52 +2258,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Vodafone upgrades FY '27 outlook with 7% EBITDAaL and 21% free cash flow organic growth at midpoint",
-     "link": "https://seekingalpha.com/news/4670070-vodafone-upgrades-fy-27-outlook-with-7-percent-ebitdaal-and-21-percent-free-cash-flow-organic?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 15:03:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vodafone upgrades FY '27 outlook with 7% EBITDAaL and 21% free cash flow organic growth at midpoint"
+     "title": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
+     "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 20:27:00 GMT",
+     "summary": "The Fed remains too optimistic on its ability to tame inflation, and markets may be too complacent, economist Neil Dutta warns.",
+     "source": "MarketWatch",
+     "zh": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist"
     },
     {
-     "title": "Sally Beauty projects FY2027 EPS of $2.20 to $2.30 while planning ~100 new Sally Ignited locations",
-     "link": "https://seekingalpha.com/news/4670068-sally-beauty-projects-fy2027-eps-of-2_20-to-2_30-while-planning-100-new-sally-ignited?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 15:02:56 -0500",
+     "title": "LiveOne reports Preliminary 1H results",
+     "link": "https://seekingalpha.com/news/4670078-liveone-reports-preliminary-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 15:25:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Sally Beauty projects FY2027 EPS of $2.20 to $2.30 while planning ~100 new Sally Ignited locations"
+     "zh": "LiveOne reports Preliminary 1H results"
     },
     {
-     "title": "Ralph Lauren is viewed favorably by Cantor Fitzgerald",
-     "link": "https://seekingalpha.com/news/4669999-ralph-lauren-is-viewed-favorably-by-cantor-fitzgerald?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 15:02:46 -0500",
+     "title": "MIND C.T.I reports Q3 results",
+     "link": "https://seekingalpha.com/news/4670077-mind-c-t-i-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 15:23:17 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Ralph Lauren is viewed favorably by Cantor Fitzgerald"
+     "zh": "MIND C.T.I reports Q3 results"
     },
     {
-     "title": "Kemper outlines path to personal auto underwriting profit, targets sub-100 combined ratio in 2027",
-     "link": "https://seekingalpha.com/news/4670067-kemper-outlines-path-to-personal-auto-underwriting-profit-targets-subminus-100-combined-ratio?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 15:02:39 -0500",
+     "title": "SOL Strategies reports preliminary Q4 results",
+     "link": "https://seekingalpha.com/news/4670076-sol-strategies-reports-preliminary-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 15:21:48 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Kemper outlines path to personal auto underwriting profit, targets sub-100 combined ratio in 2027"
+     "zh": "SOL Strategies reports preliminary Q4 results"
     },
     {
-     "title": "Venture Global targets $10B-$10.3B 2026 EBITDA while advancing 5 GW AI utility plan by end of 2031",
-     "link": "https://seekingalpha.com/news/4670066-venture-global-targets-10b-10_3b-2026-ebitda-while-advancing-5-gw-ai-utility-plan-by-end-of?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 15:02:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Venture Global targets $10B-$10.3B 2026 EBITDA while advancing 5 GW AI utility plan by end of 2031"
+     "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+     "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+     "pubDate": "Tue, 10 Nov 2026 20:19:35 GMT",
+     "summary": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+     "source": "CNBC",
+     "zh": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security"
     },
     {
-     "title": "Protalix sees $3.2B Fabry market by 2031 while targeting PRX-115 Phase II top-line results in H2 next year",
-     "link": "https://seekingalpha.com/news/4670065-protalix-sees-3_2b-fabry-market-by-2031-while-targeting-prxminus-115-phase-ii-top-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 15:02:17 -0500",
+     "title": "Intelligent Bio Solutions GAAP EPS of -$0.86, revenue of $1.39M",
+     "link": "https://seekingalpha.com/news/4670074-intelligent-bio-solutions-gaap-eps-of-0_86-revenue-of-1_39m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 15:18:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Protalix sees $3.2B Fabry market by 2031 while targeting PRX-115 Phase II top-line results in H2 next year"
+     "zh": "Intelligent Bio Solutions GAAP EPS of -$0.86, revenue of $1.39M"
+    },
+    {
+     "title": "NVDA is ‘silly cheap,’ now is ‘the opportunity of an absolute lifetime’ – analysts",
+     "link": "https://seekingalpha.com/news/4670073-nvda-is-silly-cheap-now-is-the-opportunity-of-an-absolute-lifetime-analysts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 15:16:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NVDA is ‘silly cheap,’ now is ‘the opportunity of an absolute lifetime’ – analysts"
+    },
+    {
+     "title": "SEC filed 348 enforcement actions in FY2026",
+     "link": "https://seekingalpha.com/news/4670062-sec-filed-348-enforcment-actions-in-fy2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 15:15:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SEC filed 348 enforcement actions in FY2026"
+    },
+    {
+     "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
+     "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
+     "pubDate": "Tue, 10 Nov 2026 20:05:21 GMT",
+     "summary": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
+     "source": "Financial Times",
+     "zh": "US commerce department delays Megaspeed’s inclusion on trade blacklist"
     },
     {
      "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
@@ -2314,28 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe"
     },
     {
-     "title": "Jim Jordan elected House GOP leader",
-     "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-     "pubDate": "Tue, 10 Nov 2026 19:55:08 GMT",
-     "summary": "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress.",
-     "source": "CNBC",
-     "zh": "Jim Jordan elected House GOP leader"
-    },
-    {
      "title": "自民党为何对石破茂“动家法”？",
      "link": "http://finance.eastmoney.com/news/1351,202611113927723322.html",
      "pubDate": "Wed, 11 Nov 2026 03:54:02 +0800",
      "summary": "11月9日，日本执政党自民党决定，给予前首相石破茂等4人警告处分，原因是他们在消费税减税相关法案表决前离场、未投赞成票。据悉，这是日本首次有前首相受到这一处分。 减税法案虽已通过众议院表决，但财源争议尚未平息，接下来还将在执政党不占多数的参议院接受审议。分析认为，此次处分既是对公开违背自民党方针行为的回应，也意在约束后续投票。不过，高市早苗党同伐异的做法能否巩固其地位，仍有待观察。 政策异议走向公开 6日，日本国会众议院就高市政府推动的消费税减税相关法案进行表决。法案获得通过，但包括石破茂、前经济企划厅长官船田元、前法务大臣古川祯久以及自民党前选举对策委员长小渊优子在内的4名自民党议员在表决前",
      "source": "东方财富股票",
      "zh": "自民党为何对石破茂“动家法”？"
-    },
-    {
-     "title": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
-     "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 19:52:00 GMT",
-     "summary": "The Fed remains too sanguine on inflation, and markets too complacent, economist Neil Dutta warns.",
-     "source": "MarketWatch",
-     "zh": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027"
     },
     {
      "title": "Traders bet on a pop for Anthropic&apos;s historic IPO",
@@ -2392,6 +2400,14 @@ window.INDUSTRY_DATA = {
      "summary": "据环球时报援引美国《新闻周刊》11月9日报道，美国总统特朗普表示，以色列等美国盟友必须为伊朗战争花费买单，“偿还”美国的花销。此前，特朗普政府高层承认，美伊战事延宕8个月，成为共和党在中期选举失利的关键因素之一。 在美国哥伦比亚广播公司（CBS）8日播出的采访中，特朗普称：“那些我们保护过的国家，必须偿还我们在战争中产生的所有费用。”他还说，“如果没有我们，它们就不会存在……如果没有我们，以色列就不会存在。”报道称，他似乎是指2月28日美国和以色列发动“先发制人”打击后，伊朗发起多轮反击时遭到 无人机 和导弹袭击的中东国家。 《新闻周刊》称，五角大楼估算美军对伊朗的战争花费已升至470亿美元。",
      "source": "东方财富股票",
      "zh": "特朗普：这笔账，以色列等美国盟友必须买单"
+    },
+    {
+     "title": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
+     "link": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
+     "pubDate": "Tue, 10 Nov 2026 19:24:52 GMT",
+     "summary": "Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy",
+     "source": "Financial Times",
+     "zh": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe"
     },
     {
      "title": "伊媒：雷扎伊否认将与万斯会面",
@@ -2480,22 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国10月通胀再度超出市场预期，美债遭遇抛售，收益率全线大幅攀升；美元走强、利率上行预期升温，也令黄金和白银承压。美联储官员接连释放鹰派信号，市场不仅进一步押注12月加息，也开始评估更大幅度加息以及明年进一步收紧货币政策的可能性。 美东时间10日周二，美国CPI公布后，美国国债遭集中抛售，美债价格跳水、收益率加速上行。基准10年期美债收益率在CPI公布后升幅扩大，美联储官员洛根（Lorie Logan）讲话后，美股午盘时段一度升破5.01%，日内升超10个基点，对美联储政策利率预期更敏感的2年期美债收益率升幅更大，美股午盘曾升破4.77%，日内升超20个基点，势将创去年4月以来最大单日升幅。 ",
      "source": "华尔街见闻",
      "zh": "CPI暴击美债！2年期收益率盘中飙升逾20基点，金银大跌"
-    },
-    {
-     "title": "美CPI又超预期、沃勒警告应验！华尔街聚焦12月加息25还是50基点，“新美联储通讯社”：加加停停策略面临考验",
-     "link": "https://wallstreetcn.com/articles/3785666",
-     "pubDate": "Wed, 11 Nov 2026 02:15:30 +0800",
-     "summary": "美国10月通胀再度高于预期，令美联储12月加息的市场预期进一步升温，而更大幅度的加息也开始进入讨论范围。 美国劳工统计局（BLS）于11月10日周二公布，10月CPI环比上涨0.4%，低于9月涨幅0.6%，但高于经济学家预期的0.3%；核心CPI环比上涨0.3%、持平9月，高于市场预期的0.2%。这是整体CPI连续第三个月涨幅超出华尔街预期，核心CPI也连续第三个月环比涨0.3%。由于2025年10月美国联邦政府停摆期间未能采集CPI数据，BLS此次未能提供10月CPI同比涨幅。 这份报告恰好触及美联储理事沃勒此前提出的政策门槛。沃勒在CPI公布几小时前表示，如果10月核心CPI环比涨幅达到0",
-     "source": "华尔街见闻",
-     "zh": "美CPI又超预期、沃勒警告应验！华尔街聚焦12月加息25还是50基点，“新美联储通讯社”：加加停停策略面临考验"
-    },
-    {
-     "title": "MiniMax开源H3 Image：4K图像生成仅10秒，支持多达16张参考图，首周五折优惠",
-     "link": "https://wallstreetcn.com/articles/3785667",
-     "pubDate": "Wed, 11 Nov 2026 02:15:19 +0800",
-     "summary": "中国AI公司MiniMax再度加码图像生成赛道。 11月10日周二，MiniMax正式发布并开源新一代图像生成模型H3 Image，主打最高1600万像素（4096×4096）的4K图像生成，官方称最快约10秒即可完成，同时支持精准理解提示词、图像编辑以及最多16张参考图输入。 MiniMax将H3 Image的核心竞争力归纳为速度、画面质量和指令遵循三个方面：在速度上，模型能够在10至20秒内生成4K图像；在画质上，力求摆脱常见的AI生成感，呈现更丰富的细节和更强的真实感；在指令遵循上，官方称其达到开源图像模型中的最强水平，并支持多张参考图协同创作。 与仅开放API调用的闭源模型不同，Min",
-     "source": "华尔街见闻",
-     "zh": "MiniMax开源H3 Image：4K图像生成仅10秒，支持多达16张参考图，首周五折优惠"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 05:12:19",
+ "generated_at": "2026/11/11 05:31:12",
  "recent_days": 7,
  "industries": [
   {
@@ -1554,6 +1554,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+     "pubDate": "Tue, 10 Nov 2026 21:01:14 GMT",
+     "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
+     "source": "Dark Reading",
+     "zh": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon"
+    },
+    {
      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
      "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
      "pubDate": "Tue, 10 Nov 2026 15:54:55 -0500",
@@ -1738,14 +1746,6 @@ window.INDUSTRY_DATA = {
      "zh": "People Are Getting Weird About AI"
     },
     {
-     "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
-     "pubDate": "Mon, 09 Nov 2026 21:38:20 GMT",
-     "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
-     "source": "Dark Reading",
-     "zh": "CISA Announces Enhanced Reporting Form for Cyber Incidents"
-    },
-    {
      "title": "Want to Rent an Internet Address at the White House?",
      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
      "pubDate": "Thu, 05 Nov 2026 04:36:17 +0000",
@@ -1761,6 +1761,30 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 (The Information)",
+     "link": "https://www.techmeme.com/261110/p51#a261110p51",
+     "pubDate": "Tue, 10 Nov 2026 16:22:07 -0500",
+     "summary": "The Information : Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 &nbsp; &mdash;&nbsp; OpenAI has told investors that revenue jumped 50% to around $10 billion in the third quarter, rebounding from a period of slower growth as demand",
+     "source": "Techmeme",
+     "zh": "Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 (The Information)"
+    },
+    {
+     "title": "Six Math Essentials by Terence Tao",
+     "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+     "pubDate": "Tue, 10 Nov 2026 20:58:44 +0000",
+     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 11 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Six Math Essentials by Terence Tao"
+    },
+    {
+     "title": "Sherman Anti-Trust Act (1890",
+     "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+     "pubDate": "Tue, 10 Nov 2026 20:56:16 +0000",
+     "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 18 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Sherman Anti-Trust Act (1890"
+    },
     {
      "title": "S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO (Cory Weinberg/New York Times)",
      "link": "https://www.techmeme.com/261110/p50#a261110p50",
@@ -1786,12 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "X-energy gets green light to build its first small modular nuclear reactors"
     },
     {
-     "title": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A (Shubhangi Goel/Business Insider)",
+     "title": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across docs, videos, and images, raised a $35M Series A led by RRE Ventures (Shubhangi Goel/Business Insider)",
      "link": "https://www.techmeme.com/261110/p49#a261110p49",
      "pubDate": "Tue, 10 Nov 2026 15:25:16 -0500",
-     "summary": "Shubhangi Goel / Business Insider : Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A &nbsp; &mdash;&nbsp; AI agents can write code, search databases, and carry out multistep tasks.&nbsp; But they can still",
+     "summary": "Shubhangi Goel / Business Insider : Graphon, which wants to resolve AI agent memory limitations by mapping connections across docs, videos, and images, raised a $35M Series A led by RRE Ventures &nbsp; &mdash;&nbsp; AI agents can write code, search databases, and carry out multistep tasks.&nbsp; But",
      "source": "Techmeme",
-     "zh": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A (Shubhangi Goel/Business Insider)"
+     "zh": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across docs, videos, and images, raised a $35M Series A led by RRE Ventures (Shubhangi Goel/Business Insider)"
     },
     {
      "title": "Lawsuit filing: Point72&apos;s quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor (Bloomberg)",
@@ -1818,12 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "São Paulo-based Clara, which sells corporate spend management tools in Latin America, raised $105M, as a $65M Series C and $40M in renewed growth financing (Maria Clara Cobo/Bloomberg)"
     },
     {
-     "title": "Sources: despite Trump&apos;s denial, he was told at least twice in seven months about Huang&apos;s affair with an alleged spy, including by Rubio en route to China (New York Times)",
-     "link": "https://www.techmeme.com/261110/p45#a261110p45",
-     "pubDate": "Tue, 10 Nov 2026 14:50:00 -0500",
-     "summary": "New York Times : Sources: despite Trump's denial, he was told at least twice in seven months about Huang's affair with an alleged spy, including by Rubio en route to China &nbsp; &mdash;&nbsp; Before Jensen Huang boarded Air Force One en route to Beijing, the president was reminded of intelligence s",
-     "source": "Techmeme",
-     "zh": "Sources: despite Trump&apos;s denial, he was told at least twice in seven months about Huang&apos;s affair with an alleged spy, including by Rubio en route to China (New York Times)"
+     "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+     "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+     "pubDate": "Tue, 10 Nov 2026 19:50:46 +0000",
+     "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 21 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Toyota brand Scion is back and it's going to sell a kei truck in America"
     },
     {
      "title": "Google Fi adds support for a second 5G network, won't say which one",
@@ -1837,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "What objective is reasoning solving?",
      "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
      "pubDate": "Tue, 10 Nov 2026 19:25:14 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 44 # Comments: 16",
+     "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 47 # Comments: 17",
      "source": "Hacker News",
      "zh": "What objective is reasoning solving?"
     },
@@ -1845,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "A comprehensive study of how fingerprintable users are",
      "link": "https://fingerprinting.study/",
      "pubDate": "Tue, 10 Nov 2026 19:03:54 +0000",
-     "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 30 # Comments: 3",
+     "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 34 # Comments: 3",
      "source": "Hacker News",
      "zh": "A comprehensive study of how fingerprintable users are"
     },
@@ -1869,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Starlink Mini 2",
      "link": "https://starlink.com/mini-2",
      "pubDate": "Tue, 10 Nov 2026 18:22:32 +0000",
-     "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 163 # Comments: 176",
+     "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 170 # Comments: 181",
      "source": "Hacker News",
      "zh": "Starlink Mini 2"
     },
@@ -1882,36 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "印度年轻人为什么还是找不到好工作？"
     },
     {
-     "title": "Synaptics patent claims stop work on DisplayLink drivers",
-     "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-     "pubDate": "Tue, 10 Nov 2026 18:02:02 +0000",
-     "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 170 # Comments: 76",
-     "source": "Hacker News",
-     "zh": "Synaptics patent claims stop work on DisplayLink drivers"
-    },
-    {
-     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-     "link": "https://github.com/GoogleChrome/modern-web-guidance",
-     "pubDate": "Tue, 10 Nov 2026 18:01:15 +0000",
-     "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's",
-     "source": "Hacker News",
-     "zh": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives"
-    },
-    {
      "title": "Git security vulnerabilities announced",
      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
      "pubDate": "Tue, 10 Nov 2026 18:00:00 +0000",
      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "Git security vulnerabilities announced"
-    },
-    {
-     "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-     "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-     "pubDate": "Tue, 10 Nov 2026 17:55:07 +0000",
-     "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 96 # Comments: 78",
-     "source": "Hacker News",
-     "zh": "Claude Whiteboards, Claude Sheets, and Claude Data"
     },
     {
      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
@@ -2258,52 +2258,124 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Gevo Non-GAAP EPS of $0.12 beats by $0.07, revenue of $82.95M beats by $28.45M",
-     "link": "https://seekingalpha.com/news/4670125-gevo-non-gaap-eps-of-0_12-beats-by-0_07-revenue-of-82_95m-beats-by-28_45m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:06:21 -0500",
+     "title": "The Beachbody Company GAAP EPS of $0.38 beats by $0.52, revenue of $45.19M misses by $1.07M",
+     "link": "https://seekingalpha.com/news/4670191-the-beachbody-company-gaap-eps-of-0_38-beats-by-0_52-revenue-of-45_19m-misses-by-1_07m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:25:48 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Gevo Non-GAAP EPS of $0.12 beats by $0.07, revenue of $82.95M beats by $28.45M"
+     "zh": "The Beachbody Company GAAP EPS of $0.38 beats by $0.52, revenue of $45.19M misses by $1.07M"
     },
     {
-     "title": "Hyster-Yale Materials Handling declares $0.365 dividend",
-     "link": "https://seekingalpha.com/news/4670127-hyster-yale-materials-handling-declares-0_365-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:06:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hyster-Yale Materials Handling declares $0.365 dividend"
+     "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+     "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+     "pubDate": "Tue, 10 Nov 2026 21:25:35 GMT",
+     "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+     "source": "CNBC",
+     "zh": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns"
     },
     {
-     "title": "Silicon Laboratories Non-GAAP EPS of $1.05 beats by $0.20, revenue of $250.89M beats by $8.87M",
-     "link": "https://seekingalpha.com/news/4670122-silicon-laboratories-non-gaap-eps-of-1_05-beats-by-0_20-revenue-of-250_89m-beats-by-8_87m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:05:06 -0500",
+     "title": "Forward Industries adds 226K SOL in preliminary fiscal Q1 update",
+     "link": "https://seekingalpha.com/news/4670165-forward-industries-adds-226k-sol-in-preliminary-fiscal-q1-update?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:25:18 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Silicon Laboratories Non-GAAP EPS of $1.05 beats by $0.20, revenue of $250.89M beats by $8.87M"
+     "zh": "Forward Industries adds 226K SOL in preliminary fiscal Q1 update"
     },
     {
-     "title": "Usio GAAP EPS of $0.01 misses by $0.01, revenue of $23.76M misses by $0.13M",
-     "link": "https://seekingalpha.com/news/4670119-usio-gaap-eps-of-0_01-misses-by-0_01-revenue-of-23_76m-misses-by-0_13m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:04:27 -0500",
+     "title": "Equitable Holdings declares $0.30 dividend",
+     "link": "https://seekingalpha.com/news/4670190-equitable-holdings-declares-0_30-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:25:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Usio GAAP EPS of $0.01 misses by $0.01, revenue of $23.76M misses by $0.13M"
+     "zh": "Equitable Holdings declares $0.30 dividend"
     },
     {
-     "title": "Sonos Non-GAAP EPS of $0.04 misses by $0.01, revenue of $344.44M beats by $4.11M",
-     "link": "https://seekingalpha.com/news/4670123-sonos-non-gaap-eps-of-0_04-misses-by-0_01-revenue-of-344_44m-beats-by-4_11m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:04:26 -0500",
+     "title": "NVIDIA falls another 5% amid ongoing concerns about Huang probe and China exports",
+     "link": "https://seekingalpha.com/news/4670148-nvidia-falls-another-5-amid-ongoing-concerns-about-huang-probe-and-china-exports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:24:54 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Sonos Non-GAAP EPS of $0.04 misses by $0.01, revenue of $344.44M beats by $4.11M"
+     "zh": "NVIDIA falls another 5% amid ongoing concerns about Huang probe and China exports"
     },
     {
-     "title": "Exicure agrees to sell GPC-100 assets for $4.8M; shares rally over 21%",
-     "link": "https://seekingalpha.com/news/4670099-exicure-agrees-to-sell-gpc-100-assets-for-48m-shares-rally-over-21?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:04:17 -0500",
+     "title": "Prudential Financial declares $1.40 dividend",
+     "link": "https://seekingalpha.com/news/4670189-prudential-financial-declares-1_40-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:24:40 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Exicure agrees to sell GPC-100 assets for $4.8M; shares rally over 21%"
+     "zh": "Prudential Financial declares $1.40 dividend"
+    },
+    {
+     "title": "Carlsmed, Inc. Non-GAAP EPS of -$0.34 beats by $0.05, revenue of $21.6M beats by $2.44M",
+     "link": "https://seekingalpha.com/news/4670186-carlsmed-inc-non-gaap-eps-of--034-beats-by-005-revenue-of-216m-beats-by-244m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 16:24:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Carlsmed, Inc. Non-GAAP EPS of -$0.34 beats by $0.05, revenue of $21.6M beats by $2.44M"
+    },
+    {
+     "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+     "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+     "pubDate": "Tue, 10 Nov 2026 21:22:44 GMT",
+     "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
+     "source": "CNBC",
+     "zh": "Fossil CEO says turnaround is ahead of plan as sales return to growth"
+    },
+    {
+     "title": "My friend feels trapped at her job but won’t do anything about it. Am I supposed to step in?",
+     "link": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 21:22:00 GMT",
+     "summary": "“She’s handed over the fate of her happiness to this job.”",
+     "source": "MarketWatch",
+     "zh": "My friend feels trapped at her job but won’t do anything about it. Am I supposed to step in?"
+    },
+    {
+     "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+     "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 21:20:00 GMT",
+     "summary": "Here’s what might be coming for Social Security, Medicare and long-term care.",
+     "source": "MarketWatch",
+     "zh": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’"
+    },
+    {
+     "title": "OpenAI推出ChatGPT企业功能，向谷歌广告市场发起挑战",
+     "link": "https://wallstreetcn.com/articles/3785678",
+     "pubDate": "Wed, 11 Nov 2026 05:12:07 +0800",
+     "summary": "OpenAI正将ChatGPT打造成企业与消费者之间的新型连接平台，直接挑战谷歌在商业信息检索领域的主导地位。 周二， OpenAI宣布推出\"Businesses in ChatGPT\"测试版，允许企业认领并管理其在ChatGPT上的商业主页，追踪用户互动数据，并通过专属AI代理与潜在客户直接对话 。 此次推出的产品体系包括 两个核心工具 ：供企业管理信息和查看数据分析的 \"Business Hub\" ，以及允许用户与企业AI客服直接交互的 \"Business Agents\" 。 后者目前仅向美国境内符合条件的电商及在线服务企业开放 。企业还可以为其Business Agent投放赞助广告，作",
+     "source": "华尔街见闻",
+     "zh": "OpenAI推出ChatGPT企业功能，向谷歌广告市场发起挑战"
+    },
+    {
+     "title": "IPO路演日加码企业办公市场！Anthropic推出多款AI工具，正面挑战微软Office",
+     "link": "https://wallstreetcn.com/articles/3785673",
+     "pubDate": "Wed, 11 Nov 2026 05:11:55 +0800",
+     "summary": "Anthropic在启动IPO路演当天密集推出一系列企业办公工具，覆盖视频会议、电子表格、团队白板和企业数据分析等场景。在首次公开募股进入关键阶段之际，这家公司进一步展示了Claude在基础模型之外的企业应用布局，试图向投资者证明其商业化潜力不只来自AI模型本身，也来自对企业办公市场的持续渗透。 美东时间10日周二，Anthropic发布三项新工具：能够实时加入视频会议并执行任务的Claude Meetings、支持团队共同编辑的Claude Whiteboards，以及可由AI创建和修改的Claude Sheets。此外，原名Claude Dashboards的数据分析产品正式更名为Clau",
+     "source": "华尔街见闻",
+     "zh": "IPO路演日加码企业办公市场！Anthropic推出多款AI工具，正面挑战微软Office"
+    },
+    {
+     "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+     "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+     "pubDate": "Tue, 10 Nov 2026 21:11:36 GMT",
+     "summary": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+     "source": "CNBC",
+     "zh": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security"
+    },
+    {
+     "title": "Anthropic路演瞄准35%长期经营利润目标，创始人拟IPO套现17.5亿，高盛料2030年营收6850亿",
+     "link": "https://wallstreetcn.com/articles/3785675",
+     "pubDate": "Wed, 11 Nov 2026 05:10:31 +0800",
+     "summary": "在美东时间10日周二公布的IPO路演视频中，Anthropic披露长期盈利目标：公司相信，随着算力效率提升、直接采购和租赁算力的比例增加，以及推理业务占比扩大，长期调整后经营利润率有望达到35%以上，较今年第三季度的15%提高20个百分点以上。 周二稍早Anthropic提交美国证监会的更新版招股书显示，七位联合创始人计划在IPO中合计出售约17.5亿美元股票；高盛分析师则预计，Anthropic到2030年的年度营收有望达到6850亿美元。 这意味着，Anthropic正试图在IPO路演中向投资者展示一条从高速增长走向高利润率的路径。不过，对于35%以上这个长期目标，该司并未给出明确实现时间",
+     "source": "华尔街见闻",
+     "zh": "Anthropic路演瞄准35%长期经营利润目标，创始人拟IPO套现17.5亿，高盛料2030年营收6850亿"
+    },
+    {
+     "title": "Anthropic IPO定价在即：高盛预测2030年营收破6850亿，7位创始人IPO套现17.5亿美元",
+     "link": "https://wallstreetcn.com/articles/3785677",
+     "pubDate": "Wed, 11 Nov 2026 05:10:19 +0800",
+     "summary": "Anthropic正以史上最具野心的IPO姿态叩响资本市场大门，而其主承销行高盛的预测模型为这场盛宴提供了最强力的背书。 11月10日，据彭博社援引知情人士透露， 高盛研究团队预测Anthropic到2030年营收将达约6850亿美元，较该公司2025年的46亿美元增长逾130倍 。 与此同时 华尔街见闻提及 ，Anthropic已启动IPO路演，寻求以约1.4万亿美元的完全稀释后估值完成融资，计划于11月18日（周三）定价，次日开始交易。 承销银行周二上午已开始与潜在投资者举行会议，推介这笔目标融资规模达904亿美元（含260亿美元私募配售）的IPO。 公司七位联合创始人将在此次发行中合计套",
+     "source": "华尔街见闻",
+     "zh": "Anthropic IPO定价在即：高盛预测2030年营收破6850亿，7位创始人IPO套现17.5亿美元"
     },
     {
      "title": "布莱恩·杰克当选美国共和党全国众议院竞选委员会主席",
@@ -2370,18 +2442,10 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal"
     },
     {
-     "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
-     "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-     "pubDate": "Tue, 10 Nov 2026 20:33:52 GMT",
-     "summary": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
-     "source": "CNBC",
-     "zh": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security"
-    },
-    {
      "title": "美股三大指数震荡下跌 纳指跌近1% 国际金银价格下挫",
      "link": "http://finance.eastmoney.com/news/1345,202611103927654526.html",
      "pubDate": "Wed, 11 Nov 2026 04:31:10 +0800",
-     "summary": "美东时间周二，美股三大指数下跌，截至发稿，道琼斯指数跌0.37%，标普500指数跌0.42%， 纳斯达克 综合 指数跌0.78%。 半导体 板块走弱，费城 半导体 指数跌0.31%。个股方面， 博通 涨2.11%， 台积电 涨0.26%； 超威半导体 涨1.65%， 英特尔 跌3.57%， 美光科技 跌3.80%， 闪迪 跌5.29%， 英伟达 跌5.60%。 商品市场方面，国际原油探底回升、金银价格下挫。截至发稿，布伦特原油 期货 价格跌0.62%，报92.00美元/桶；现货 黄金 价格跌2.54%，报4035.67美元/盎司；现货 白银 价格跌3.44%，报51.60美元/盎司。 全球要闻",
+     "summary": "美东时间周二，美股三大指数集体收跌，截至收盘，纳指跌0.74%，道指跌0.3%，标普500指数跌0.38%。 芯片股走势分化，费城 半导体 指数跌0.35%， 英伟达 跌超5%， 英特尔 、ARM跌超2%； 博通 涨近4%，恩智浦、 台积电 涨超2%，AMD、 高通 涨超1%。 存储板块疲软，海力士跌超3%， 闪迪 跌2.99%。 美股“科技七巨头”集体走弱， 亚马逊 涨1.48%， 特斯拉 涨0.46%，Meta Platforms涨0.02%，谷歌跌0.39%， 苹果 跌0.61%， 微软 跌2.18%。 纳斯达克 中国金龙指数收跌1.21%。其中， 万国数据 跌3.82%， 蔚来 跌3.",
      "source": "东方财富资讯",
      "zh": "美股三大指数震荡下跌 纳指跌近1% 国际金银价格下挫"
     },
@@ -2426,76 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe"
     },
     {
-     "title": "Traders bet on a pop for Anthropic&apos;s historic IPO",
-     "link": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
-     "pubDate": "Tue, 10 Nov 2026 19:51:18 GMT",
-     "summary": "Perpetual futures traders see Anthropic popping on its IPO",
-     "source": "CNBC",
-     "zh": "Traders bet on a pop for Anthropic&apos;s historic IPO"
-    },
-    {
      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
      "pubDate": "Tue, 10 Nov 2026 19:47:00 GMT",
      "summary": "Anthropic could raise up to $63 billion in an IPO expected to take place next week.",
      "source": "MarketWatch",
      "zh": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion"
-    },
-    {
-     "title": "美联储再次放鹰！今年票委Logan：至少还需加息两次，步伐或将加快",
-     "link": "https://wallstreetcn.com/articles/3785671",
-     "pubDate": "Wed, 11 Nov 2026 03:45:37 +0800",
-     "summary": "美联储官员对通胀的担忧情绪明显升温，鹰派立场趋于强化。 今年FOMC轮值票委，达拉斯联储主席Lorie Logan周二表示， 美联储至少还需再加息两次，且冬季推进节奏或将快于今秋。 同日，美联储理事 Christopher Waller呼吁在12月会议上考虑加息50个基点 。与此同时， 美国10月CPI数据超预期 ，核心通胀环比升0.3%，进一步强化了市场对紧缩政策的预期。 受上述表态及通胀数据共同推动，美国国债收益率大幅攀升。两年期美债收益率单日跳涨19个基点至4.74%，创特朗普今年4月宣布关税以来的最大单日涨幅；美元兑所有主要货币全线走强。 市场对鹰派信号作出迅速反应，投资者对美联储未来",
-     "source": "华尔街见闻",
-     "zh": "美联储再次放鹰！今年票委Logan：至少还需加息两次，步伐或将加快"
-    },
-    {
-     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 19:30:00 GMT",
-     "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-     "source": "MarketWatch",
-     "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
-    },
-    {
-     "title": "Corporate America is making a trillion-dollar mistake about retirement",
-     "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 19:29:00 GMT",
-     "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-     "source": "MarketWatch",
-     "zh": "Corporate America is making a trillion-dollar mistake about retirement"
-    },
-    {
-     "title": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
-     "link": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
-     "pubDate": "Tue, 10 Nov 2026 19:24:52 GMT",
-     "summary": "Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy",
-     "source": "Financial Times",
-     "zh": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe"
-    },
-    {
-     "title": "Treasuries slide as ‘hot’ inflation sparks bets on Fed rate rise",
-     "link": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
-     "pubDate": "Tue, 10 Nov 2026 18:53:50 GMT",
-     "summary": "Two-year government bond yields soar most since 2024 as October consumer price growth tops forecasts",
-     "source": "Financial Times",
-     "zh": "Treasuries slide as ‘hot’ inflation sparks bets on Fed rate rise"
-    },
-    {
-     "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
-     "link": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 10 Nov 2026 18:46:00 GMT",
-     "summary": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg.",
-     "source": "Finextra",
-     "zh": "Banking giants commit $270m to stablecoin venture - Bloomberg"
-    },
-    {
-     "title": "EIA预计今年剩余时间布油现货维持100美元/桶，上调今明两年均价预测",
-     "link": "https://wallstreetcn.com/articles/3785670",
-     "pubDate": "Wed, 11 Nov 2026 02:34:02 +0800",
-     "summary": "美国能源信息署上调2026年和2027年布伦特原油价格预测，预计全球石油供应紧张局面仍将持续一段时间。与此同时，美国原油产量有望在2027年升至1430万桶/日，创历史新高。 美国能源信息署（EIA）周二发布的11月《短期能源展望》（STEO）显示， 预计2026年布伦特原油现货均价为97美元/桶，高于此前预测的96美元/桶；2027年均价预计为86美元/桶，较此前预测的84美元/桶上调2美元。 在供应端，EIA维持对美国原油产量的预测不变，预计2026年日产量为1390万桶，2027年进一步升至1430万桶，较2026年增长约3%，并创历史新高。 EIA此次上调油价预期，主要反映全球石油库存",
-     "source": "华尔街见闻",
-     "zh": "EIA预计今年剩余时间布油现货维持100美元/桶，上调今明两年均价预测"
     }
    ]
   },

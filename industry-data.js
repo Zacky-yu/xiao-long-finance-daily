@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 05:58:41",
+ "generated_at": "2026/11/11 06:12:12",
  "recent_days": 7,
  "industries": [
   {
@@ -858,6 +858,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "A ‘Geologic Freak’ in Arkansas Is Big Oil’s New Lithium Bet",
+     "link": "https://oilprice.com/Metals/Commodities/A-Geologic-Freak-in-Arkansas-Is-Big-Oils-New-Lithium-Bet.html",
+     "pubDate": "Tue, 10 Nov 2026 16:00:00 -0600",
+     "summary": "The world is electrifying at an unprecedented pace, and it’s only going to keep speeding up. COP 31, the latest iteration of the United Nations’ annual climate conference, kicked off today in Antalya, Türkiye, and achieving 35 percent global electrification by 2035 is going to be one of the event’s ",
+     "source": "OilPrice",
+     "zh": "A ‘Geologic Freak’ in Arkansas Is Big Oil’s New Lithium Bet"
+    },
+    {
+     "title": "API Shows Sharp Drop in US Crude Oil, Distillate Inventories",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Shows-Sharp-Drop-in-US-Crude-Oil-Distillate-Inventories.html",
+     "pubDate": "Tue, 10 Nov 2026 15:59:23 -0600",
+     "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by 9.8 million barrels in the week ending November 6. In the week prior, US crude oil inventories fell by 5.267 million barrels. Commercial crude oil inventories excluding the SPR have lost more tha",
+     "source": "OilPrice",
+     "zh": "API Shows Sharp Drop in US Crude Oil, Distillate Inventories"
+    },
+    {
      "title": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West",
      "link": "https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html",
      "pubDate": "Tue, 10 Nov 2026 15:00:00 -0600",
@@ -906,28 +922,20 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets"
     },
     {
-     "title": "The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan",
-     "link": "https://oilprice.com/Energy/Crude-Oil/The-Truth-Behind-Iraqs-Oil-Rebound-And-The-Secret-Red-Sea-Plan.html",
-     "pubDate": "Tue, 10 Nov 2026 12:00:00 -0600",
-     "summary": "No country aside from Iran itself has felt the economic consequences of the U.S./Israel-Iran war more than Iraq. Over 90 percent of its annual budget historically comes from oil and around 95 percent of that historically had to pass through the Strait of Hormuz before it could be monetised. When Ira",
-     "source": "OilPrice",
-     "zh": "The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan"
-    },
-    {
-     "title": "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Strikes-Disrupt-30-of-Russias-Oil-Refining-Capacity.html",
-     "pubDate": "Tue, 10 Nov 2026 12:00:00 -0600",
-     "summary": "Ukrainian drone strikes have disrupted refineries representing roughly 30% of Russia's total oil-processing capacity since late October, dealing another blow to Moscow's fuel supplies just as it attempts to increase diesel exports under a controversial agreement with Washington. Nine of Russia's 35 ",
-     "source": "OilPrice",
-     "zh": "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity"
-    },
-    {
      "title": "The AI boom could shift diesel generators from backup to everyday use",
      "link": "https://www.utilitydive.com/news/ai-boom-could-shift-diesel-generators-backup-everyday-use/873954/",
      "pubDate": "Tue, 10 Nov 2026 12:24:20 -0500",
      "summary": "Last week&rsquo;s election results demand community-friendly data centers. Overlooking the role of diesel backup could create more pollution and noise for residents, write experts from Inlyte Energy.",
      "source": "Utility Dive",
      "zh": "The AI boom could shift diesel generators from backup to everyday use"
+    },
+    {
+     "title": "GE Vernova to spend $34.5M expanding Louisiana transformer manufacturing capacity",
+     "link": "https://www.utilitydive.com/news/ge-vernova-to-spend-345m-expanding-transformer-manufacturing-capacity-in/874272/",
+     "pubDate": "Tue, 10 Nov 2026 12:03:44 -0500",
+     "summary": "&ldquo;Electricity demand is growing, and transformers are part of the critical grid equipment essential to delivering the power our customers and modern economies depend on,&rdquo; said the head of the company&rsquo;s&nbsp;electrification segment.",
+     "source": "Utility Dive",
+     "zh": "GE Vernova to spend $34.5M expanding Louisiana transformer manufacturing capacity"
     },
     {
      "title": "Turkish electricity exports generate US$500 million in revenue following strong renewable energy deployment",
@@ -946,10 +954,18 @@ window.INDUSTRY_DATA = {
      "zh": "Beyond wiring: how engineered EBOS solutions address Australia’s utility-scale solar project challenges"
     },
     {
+     "title": "Community engagement is key to on-site battery storage, experts say",
+     "link": "https://www.utilitydive.com/news/community-engagement-is-key-to-on-site-battery-energy-storage-experts-say/874194/",
+     "pubDate": "Tue, 10 Nov 2026 11:05:42 -0500",
+     "summary": "Building operators are turning to batteries to combat rising energy prices and add resiliency, but safety concerns means these projects require thoughtful planning, Greenbuild panelists say.",
+     "source": "Utility Dive",
+     "zh": "Community engagement is key to on-site battery storage, experts say"
+    },
+    {
      "title": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question",
      "link": "https://www.utilitydive.com/news/are-data-centers-really-paying-aes-indianas-google-deal-highlights-a-thor/873040/",
      "pubDate": "Tue, 10 Nov 2026 10:35:36 -0500",
-     "summary": "While local projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
+     "summary": "While local grid infrastructure projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
      "source": "Utility Dive",
      "zh": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question"
     },
@@ -960,6 +976,22 @@ window.INDUSTRY_DATA = {
      "summary": "Module manufacturer Heliene and perovskite solar company Caelux have started commercial-scale production of a hybrid-tandem solar module for the US market.",
      "source": "PV Tech",
      "zh": "Heliene, Caelux launch US-made perovskite glass hybrid tandem module"
+    },
+    {
+     "title": "Permitting bill advances in Senate, but election results cast doubt on its future",
+     "link": "https://www.utilitydive.com/news/permitting-bill-advances-in-senate-but-its-future-is-uncertain-after-democ/874250/",
+     "pubDate": "Tue, 10 Nov 2026 10:02:14 -0500",
+     "summary": "The version of the bill that advanced this week included a manager&rsquo;s amendment that sought to address some concerns, including over tribal consultation&nbsp;and FERC authority, but Democrats in both chambers have said they want to see more changes.",
+     "source": "Utility Dive",
+     "zh": "Permitting bill advances in Senate, but election results cast doubt on its future"
+    },
+    {
+     "title": "Most generators prepared for extreme cold, but risks remain: NERC",
+     "link": "https://www.utilitydive.com/news/generators-prepared-extreme-cold-nerc/874248/",
+     "pubDate": "Tue, 10 Nov 2026 09:30:50 -0500",
+     "summary": "Despite improvements to cold-weather operations, the grid &ldquo;continues to face serious reliability risks during the winter period,&rdquo;&nbsp;NERC President and CEO Jim Robb said.",
+     "source": "Utility Dive",
+     "zh": "Most generators prepared for extreme cold, but risks remain: NERC"
     },
     {
      "title": "Qcells US modules first to pass all reliability tests from Kiwa PVEL and RETC",
@@ -1064,38 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Italian company Sizable Energy is developing a long-duration offshore energy storage system that uses deep-sea brine reservoirs to store electricity, with its first commercial projects planned for Calabria and Sicily and a demonstrator linked to a data center in Naples scheduled for 2027. The post I",
      "source": "pv magazine",
      "zh": "Italian startup plans offshore gravity storage projects"
-    },
-    {
-     "title": "Utilities should consider ‘taking a breather’ from rate cases: Minnesota PUC vice chair",
-     "link": "https://www.utilitydive.com/news/minnesota-puc-rate-case-affordability-naruc/874222/",
-     "pubDate": "Tue, 10 Nov 2026 06:09:21 -0500",
-     "summary": "&ldquo;Filing rate cases right now is really painful,&rdquo; Joseph Sullivan told Utility Dive in an interview where he also discussed his concerns with overly complex data center cost allocation and an erosion of public trust in institutions.",
-     "source": "Utility Dive",
-     "zh": "Utilities should consider ‘taking a breather’ from rate cases: Minnesota PUC vice chair"
-    },
-    {
-     "title": "Oh, So That’s Who’s Buying All Those New Subaru Trailseeker EVs…",
-     "link": "https://cleantechnica.com/2026/11/10/subaru-ev-sales-trailseeker-pet-friendly-households/",
-     "pubDate": "Tue, 10 Nov 2026 10:44:52 +0000",
-     "summary": "Subaru has racked up a fairly respectable EV sales record so far this year for its new Trailseeker SUV, with household pets playing a featured role in its overall marketing campaign. The post Oh, So That’s Who’s Buying All Those New Subaru Trailseeker EVs… appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Oh, So That’s Who’s Buying All Those New Subaru Trailseeker EVs…"
-    },
-    {
-     "title": "NGEN puts Croatia’s first standalone, transmission-connected BESS online, with 60MW/120MWh capacity",
-     "link": "https://www.energy-storage.news/ngen-croatia-first-standalone-transmission-connected-bess-online-60mw-120mwh-capacity/",
-     "pubDate": "Tue, 10 Nov 2026 10:43:06 +0000",
-     "summary": "BESS owner-operator NGEN has put its Šibenik project into commercial operation in Croatia, claiming it as the first standalone project to connect at the transmission-level.",
-     "source": "Energy Storage News",
-     "zh": "NGEN puts Croatia’s first standalone, transmission-connected BESS online, with 60MW/120MWh capacity"
-    },
-    {
-     "title": "A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers",
-     "link": "https://cleantechnica.com/2026/11/10/a-tribute-to-bunker-roy-the-man-who-turned-village-grandmothers-into-solar-engineers/",
-     "pubDate": "Tue, 10 Nov 2026 10:42:33 +0000",
-     "summary": "Sanjit “Bunker” Roy, who taught illiterate grandmothers to become solar engineers, passed away peacefully this morning at his home in Tilonia, Rajasthan, aged 81.[1] I first encountered his work not in India, but in the rain forests of Borneo. It was October 2016, and as night fell, the surrounding ",
-     "source": "CleanTechnica",
-     "zh": "A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers"
     }
    ]
   },
@@ -1105,6 +1105,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Despite midterm losses, RFK Jr. is bullish on MAHA's future",
+     "link": "https://endpoints.news/despite-midterm-losses-rfk-jr-is-bullish-on-mahas-future/",
+     "pubDate": "Tue, 10 Nov 2026 22:06:43 +0000",
+     "summary": "Rumors and speculation have swirled all year about the fate of HHS Secretary Robert F. Kennedy Jr., the political face of the Make America Healthy Again movement. But, after a bruising midterm election for the ...",
+     "source": "Endpoints News",
+     "zh": "Despite midterm losses, RFK Jr. is bullish on MAHA's future"
+    },
     {
      "title": "STAT+: Wyden, Sanders hand-in-hand on ‘Medicare for All’ initiative",
      "link": "https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/?utm_campaign=rss",
@@ -1234,14 +1242,6 @@ window.INDUSTRY_DATA = {
      "zh": "PepGen's oligo succeeds in Phase 2; Ionis' and ImmunityBio's stocks sag"
     },
     {
-     "title": "Employers vs. consumers: Who stands to disrupt healthcare?",
-     "link": "https://endpoints.news/employers-vs-consumers-who-stands-to-disrupt-healthcare/",
-     "pubDate": "Tue, 10 Nov 2026 15:46:44 +0000",
-     "summary": "Last week, we hosted our second-ever Health Tech Day, with an in-person happy hour in New York. Thanks so much to everyone who tuned in for the virtual portion (find recaps of those convos starting ...",
-     "source": "Endpoints News",
-     "zh": "Employers vs. consumers: Who stands to disrupt healthcare?"
-    },
-    {
      "title": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk",
      "link": "https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/?utm_campaign=rss",
      "pubDate": "Tue, 10 Nov 2026 14:38:29 +0000",
@@ -1306,6 +1306,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir's sci-fi audio drama 'Exoplanet' (interview)",
+     "link": "https://www.space.com/entertainment/anthony-mackie-ariana-debose-and-john-leguizamo-reveal-why-they-joined-andy-weirs-sci-fi-audio-drama-exoplanet-interview",
+     "pubDate": "Tue, 10 Nov 2026 22:00:00 +0000",
+     "summary": "We hooked up with Mackie, DeBose, and Lequizamo to learn more about this renaissance of audio dramas and what attracted them to board Weir's sci-fi thriller.",
+     "source": "Space.com",
+     "zh": "Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir's sci-fi audio drama 'Exoplanet' (interview)"
+    },
+    {
      "title": "On this day in space! Nov. 10, 2013: Europe's GOCE satellite, the 'Ferrari of space,' fell out of orbit after mapping Earth's gravity field",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026",
      "pubDate": "Tue, 10 Nov 2026 21:51:24 +0000",
@@ -1368,14 +1376,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot",
      "source": "NASA",
      "zh": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston"
-    },
-    {
-     "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program",
-     "pubDate": "Tue, 10 Nov 2026 17:00:00 +0000",
-     "summary": "At the height of the Cold War, two amateur radio operators alleged they intercepted signals from Soviet cosmonauts who perished during missions that remained secret.",
-     "source": "Space.com",
-     "zh": "Were there 'lost cosmonauts' in the early Soviet space program?"
     },
     {
      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
@@ -1553,6 +1553,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+     "pubDate": "Tue, 10 Nov 2026 21:55:03 +0000",
+     "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important s",
+     "source": "Krebs on Security",
+     "zh": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
+    },
     {
      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
@@ -1762,6 +1770,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "rVPN – stealth VPN with end-to-end encryption",
+     "link": "https://rvpn.org/",
+     "pubDate": "Tue, 10 Nov 2026 21:42:50 +0000",
+     "summary": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 6 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "rVPN – stealth VPN with end-to-end encryption"
+    },
+    {
      "title": "CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June (Jordan Novet/CNBC)",
      "link": "https://www.techmeme.com/261110/p53#a261110p53",
      "pubDate": "Tue, 10 Nov 2026 16:40:01 -0500",
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Six Math Essentials by Terence Tao",
      "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
      "pubDate": "Tue, 10 Nov 2026 20:58:44 +0000",
-     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 31 # Comments: 2",
+     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 37 # Comments: 3",
      "source": "Hacker News",
      "zh": "Six Math Essentials by Terence Tao"
     },
@@ -1797,17 +1813,17 @@ window.INDUSTRY_DATA = {
      "title": "Sherman Anti-Trust Act (1890",
      "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
      "pubDate": "Tue, 10 Nov 2026 20:56:16 +0000",
-     "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 31 # Comments: 14",
+     "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 34 # Comments: 16",
      "source": "Hacker News",
      "zh": "Sherman Anti-Trust Act (1890"
     },
     {
-     "title": "S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO (Cory Weinberg/New York Times)",
+     "title": "S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO (Cory Weinberg/New York Times)",
      "link": "https://www.techmeme.com/261110/p50#a261110p50",
      "pubDate": "Tue, 10 Nov 2026 15:55:05 -0500",
-     "summary": "Cory Weinberg / New York Times : S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO &nbsp; &mdash;&nbsp; Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, th",
+     "summary": "Cory Weinberg / New York Times : S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO &nbsp; &mdash;&nbsp; Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, ",
      "source": "Techmeme",
-     "zh": "S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO (Cory Weinberg/New York Times)"
+     "zh": "S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO (Cory Weinberg/New York Times)"
     },
     {
      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
@@ -1845,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
      "pubDate": "Tue, 10 Nov 2026 19:50:46 +0000",
-     "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 67 # Comments: 41",
+     "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 85 # Comments: 60",
      "source": "Hacker News",
      "zh": "Toyota brand Scion is back and it's going to sell a kei truck in America"
     },
@@ -1861,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "What objective is reasoning solving?",
      "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
      "pubDate": "Tue, 10 Nov 2026 19:25:14 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 57 # Comments: 26",
+     "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 61 # Comments: 27",
      "source": "Hacker News",
      "zh": "What objective is reasoning solving?"
     },
@@ -1869,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "A comprehensive study of how fingerprintable users are",
      "link": "https://fingerprinting.study/",
      "pubDate": "Tue, 10 Nov 2026 19:03:54 +0000",
-     "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 39 # Comments: 8",
+     "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 43 # Comments: 11",
      "source": "Hacker News",
      "zh": "A comprehensive study of how fingerprintable users are"
     },
@@ -1888,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
      "source": "Ars Technica",
      "zh": "Free video-streaming service Tubi lets users share curated watchlists now"
-    },
-    {
-     "title": "Starlink Mini 2",
-     "link": "https://starlink.com/mini-2",
-     "pubDate": "Tue, 10 Nov 2026 18:22:32 +0000",
-     "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 181 # Comments: 187",
-     "source": "Hacker News",
-     "zh": "Starlink Mini 2"
     },
     {
      "title": "印度年轻人为什么还是找不到好工作？",
@@ -2010,6 +2018,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "The Disney+ app on Meta Quest now includes 3D movies",
+     "link": "https://www.engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies/",
+     "pubDate": "Tue, 10 Nov 2026 22:00:00 +0000",
+     "summary": "Meta is starting to sell 3D films too.",
+     "source": "Engadget",
+     "zh": "The Disney+ app on Meta Quest now includes 3D movies"
+    },
+    {
      "title": "Your Google account will lose its ability to unlock your Nintendo account next year",
      "link": "https://www.androidauthority.com/nintendo-ending-google-apple-account-linking-3733635/",
      "pubDate": "Tue, 10 Nov 2026 21:49:50 +0000",
@@ -2032,6 +2048,14 @@ window.INDUSTRY_DATA = {
      "summary": "Earlier today, dummy units of Apple’s iPhone Air 2 and iPhone 18 surfaced online. Now, a new leak has given us a look at dummy models of Samsung's upcoming Galaxy S27 series. Prominent tipster Sonny Dickson has shared an image showing the dummy units of the Samsung Galaxy S27 Ultra, Galaxy S27 Pro, ",
      "source": "GSMArena",
      "zh": "Samsung Galaxy S27 series dummy units surface in new leak"
+    },
+    {
+     "title": "The Sideload 051: Would you let Ring fly around your house?",
+     "link": "https://9to5google.com/2026/11/10/the-sideload-051-would-you-let-ring-fly-around-your-house/",
+     "pubDate": "Tue, 10 Nov 2026 21:30:00 +0000",
+     "summary": "Welcome to episode 51 of The Sideload, a 9to5Google podcast. This week, Will and Daniel discuss the looming threat of CES before digging into Ring’s newly-announced Drone Cam , something that either seems too dangerous to let into your house or the next big step for home security. They also discuss ",
+     "source": "9to5Google",
+     "zh": "The Sideload 051: Would you let Ring fly around your house?"
     },
     {
      "title": "What is the 'Dead Internet Theory' and should humanity be worried?",
@@ -2186,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Pixel 11’s better Pixel Search is expanding to every Pixel launched since 2021"
     },
     {
-     "title": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too",
-     "link": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/",
-     "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
-     "summary": "November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.",
-     "source": "Engadget",
-     "zh": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too"
-    },
-    {
      "title": "How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026?",
      "link": "https://www.engadget.com/2307807/how-much-asus-rog-zephyrus-g14-cost-2020-vs-2026/",
      "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
@@ -2202,12 +2218,12 @@ window.INDUSTRY_DATA = {
      "zh": "How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026?"
     },
     {
-     "title": "Google rolling out Android 17 QPR2 for Pixel",
-     "link": "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/",
+     "title": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too",
+     "link": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/",
      "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
-     "summary": "Android 17 QPR2 is rolling out to Google Pixel devices as a sizable release that comes a month early in a small deviation from the quarterly cycle. more…",
-     "source": "9to5Google",
-     "zh": "Google rolling out Android 17 QPR2 for Pixel"
+     "summary": "November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.",
+     "source": "Engadget",
+     "zh": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too"
     },
     {
      "title": "The Close-up Photographer of the Year shortlist shows off photos with an intimate perspective",
@@ -2224,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung is officially detailing its Gallery app's move to Google storage today. Back in September, we told you about Gallery's cloud sync switching to Google Photos right after direct OneDrive sync ended on September 30. Gallery sync with Google storage has started on select Galaxy phones and tablet",
      "source": "GSMArena",
      "zh": "Samsung officially details Gallery sync with Google storage"
-    },
-    {
-     "title": "Here's what to look for so you don't get scammed by a fake GPU",
-     "link": "https://www.engadget.com/2307801/fake-gpu-scam-what-to-look-for/",
-     "pubDate": "Tue, 10 Nov 2026 18:00:00 +0000",
-     "summary": "From tracking number heists to missing memory dies, don't waste your precious time and money on a bogus GPU bargain.",
-     "source": "Engadget",
-     "zh": "Here's what to look for so you don't get scammed by a fake GPU"
     },
     {
      "title": "Xiaomi 18 Pro in for review",
@@ -2258,60 +2266,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Fold Holdings, Inc. GAAP EPS of -$0.05 beats by $0.06, revenue of $4.16M misses by $3.57M",
-     "link": "https://seekingalpha.com/news/4670253-fold-holdings-inc-gaap-eps-of-0_05-beats-by-0_06-revenue-of-4_16m-misses-by-3_57m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:49:56 -0500",
+     "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+     "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+     "pubDate": "Tue, 10 Nov 2026 22:05:10 GMT",
+     "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+     "source": "CNBC",
+     "zh": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns"
+    },
+    {
+     "title": "Meren Energy GAAP EPS of $0.00",
+     "link": "https://seekingalpha.com/news/4670280-meren-energy-gaap-eps-of-0_00?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 17:05:07 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Fold Holdings, Inc. GAAP EPS of -$0.05 beats by $0.06, revenue of $4.16M misses by $3.57M"
+     "zh": "Meren Energy GAAP EPS of $0.00"
+    },
+    {
+     "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
+     "link": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 22:05:00 GMT",
+     "summary": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation",
+     "source": "MarketWatch",
+     "zh": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal"
+    },
+    {
+     "title": "Alto Neuroscience GAAP EPS of -$0.54 beats by $0.13",
+     "link": "https://seekingalpha.com/news/4670279-alto-neuroscience-gaap-eps-of-0_54-beats-by-0_13?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 17:04:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alto Neuroscience GAAP EPS of -$0.54 beats by $0.13"
+    },
+    {
+     "title": "Clearlake Capital is said to explore sale of packaging company IPG for $3.5B",
+     "link": "https://seekingalpha.com/news/4670277-clearlake-capital-is-said-to-explore-sale-of-packaging-company-ipg-for-3_5b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 17:04:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Clearlake Capital is said to explore sale of packaging company IPG for $3.5B"
+    },
+    {
+     "title": "Inhibikase Therapeutics GAAP EPS of -$0.10 beats by $0.01",
+     "link": "https://seekingalpha.com/news/4670278-inhibikase-therapeutics-gaap-eps-of-0_10-beats-by-0_01?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 17:03:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Inhibikase Therapeutics GAAP EPS of -$0.10 beats by $0.01"
+    },
+    {
+     "title": "NHI outlines $4.68-$4.70 2026 NFFO guidance while targeting high single-digit to low double-digit organic SHOP NOI growth",
+     "link": "https://seekingalpha.com/news/4670276-nhi-outlines-4_68-4_70-2026-nffo-guidance-while-targeting-high-single-digit-to-low-double?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 17:02:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NHI outlines $4.68-$4.70 2026 NFFO guidance while targeting high single-digit to low double-digit organic SHOP NOI growth"
+    },
+    {
+     "title": "NowVertical outlines growth plan around $550B AI readiness market with 30%+ CAGR following CAD 15.1M financing",
+     "link": "https://seekingalpha.com/news/4670274-nowvertical-outlines-growth-plan-around-550b-ai-readiness-market-with-30-percent-cagr?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 17:02:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NowVertical outlines growth plan around $550B AI readiness market with 30%+ CAGR following CAD 15.1M financing"
+    },
+    {
+     "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
+     "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+     "pubDate": "Tue, 10 Nov 2026 22:01:52 GMT",
+     "summary": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
+     "source": "CNBC",
+     "zh": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit"
     },
     {
      "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
      "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-     "pubDate": "Tue, 10 Nov 2026 21:48:48 GMT",
+     "pubDate": "Tue, 10 Nov 2026 22:00:40 GMT",
      "summary": "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress.",
      "source": "CNBC",
      "zh": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress"
-    },
-    {
-     "title": "Hyliion Holdings GAAP EPS of -$0.06 beats by $0.01, revenue of $7.45M beats by $2.65M",
-     "link": "https://seekingalpha.com/news/4670252-hyliion-holdings-gaap-eps-of-0_06-beats-by-0_01-revenue-of-7_45m-beats-by-2_65m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:48:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hyliion Holdings GAAP EPS of -$0.06 beats by $0.01, revenue of $7.45M beats by $2.65M"
-    },
-    {
-     "title": "QumulusAI, Inc. GAAP EPS of -$0.43 misses by $0.16, revenue of $14.8M misses by $0.6M",
-     "link": "https://seekingalpha.com/news/4670251-qumulusai-inc-gaap-eps-of--043-misses-by-016-revenue-of-148m-misses-by-06m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:48:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "QumulusAI, Inc. GAAP EPS of -$0.43 misses by $0.16, revenue of $14.8M misses by $0.6M"
-    },
-    {
-     "title": "Grove Collaborative Holdings GAAP EPS of -$0.01 beats by $0.04, revenue of $36.82M misses by $0.53M",
-     "link": "https://seekingalpha.com/news/4670250-grove-collaborative-holdings-gaap-eps-of-0_01-beats-by-0_04-revenue-of-36_82m-misses-by-0_53m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:46:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Grove Collaborative Holdings GAAP EPS of -$0.01 beats by $0.04, revenue of $36.82M misses by $0.53M"
-    },
-    {
-     "title": "Are markets open on Veterans Day?",
-     "link": "https://seekingalpha.com/news/4670223-are-markets-open-on-veterans-day?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:46:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Are markets open on Veterans Day?"
-    },
-    {
-     "title": "PepGen launches $125M stock offering to support clinical development",
-     "link": "https://seekingalpha.com/news/4670238-pepgen-launches-125m-stock-offering-to-support-clinical-development?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 16:46:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PepGen launches $125M stock offering to support clinical development"
     },
     {
      "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
@@ -2328,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
      "source": "MarketWatch",
      "zh": "Stocks fall as the 10-year Treasury yield nears 5% mark"
-    },
-    {
-     "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-     "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-     "pubDate": "Tue, 10 Nov 2026 21:35:02 GMT",
-     "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
-     "source": "CNBC",
-     "zh": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns"
     },
     {
      "title": "How the stock market has performed after Veterans Day over the past decade",
@@ -2466,14 +2490,6 @@ window.INDUSTRY_DATA = {
      "zh": "伊朗议会议长卡利巴夫：中国在推动结束战争方面发挥着重要作用"
     },
     {
-     "title": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal",
-     "link": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 20:37:00 GMT",
-     "summary": "“There is growing momentum for these bills in light of the Jensen Huang spy scandal,” one analyst says.",
-     "source": "MarketWatch",
-     "zh": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal"
-    },
-    {
      "title": "美联储理事鲍曼警告：若AI押注落空，股市或将大幅回调",
      "link": "https://wallstreetcn.com/articles/3785680",
      "pubDate": "Wed, 11 Nov 2026 04:32:03 +0800",
@@ -2488,14 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "美东时间周二，美股三大指数集体收跌，截至收盘，纳指跌0.74%，道指跌0.3%，标普500指数跌0.38%。 芯片股走势分化，费城 半导体 指数跌0.35%， 英伟达 跌超5%， 英特尔 、ARM跌超2%； 博通 涨近4%，恩智浦、 台积电 涨超2%，AMD、 高通 涨超1%。 存储板块疲软，海力士跌超3%， 闪迪 跌2.99%。 美股“科技七巨头”集体走弱， 亚马逊 涨1.48%， 特斯拉 涨0.46%，Meta Platforms涨0.02%，谷歌跌0.39%， 苹果 跌0.61%， 微软 跌2.18%。 纳斯达克 中国金龙指数收跌1.21%。其中， 万国数据 跌3.82%， 蔚来 跌3.",
      "source": "东方财富资讯",
      "zh": "美股三大指数震荡下跌 纳指跌近1% 国际金银价格下挫"
-    },
-    {
-     "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
-     "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
-     "pubDate": "Tue, 10 Nov 2026 20:05:21 GMT",
-     "summary": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
-     "source": "Financial Times",
-     "zh": "US commerce department delays Megaspeed’s inclusion on trade blacklist"
     }
    ]
   },

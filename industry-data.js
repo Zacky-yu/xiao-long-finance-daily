@@ -2410,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
     },
     {
-     "title": "Anthropic被曝IPO拟发行8.25亿股 每股70至78美元",
-     "link": "http://finance.eastmoney.com/news/1354,202611103927437358.html",
-     "pubDate": "Tue, 10 Nov 2026 18:38:45 +0800",
-     "summary": "媒体援引最新招股说明书草案报道，Anthropic计划在IPO中发行8.25亿股，指示性价格区间为每股70至78美元。 AMD、 博通 、谷歌、美光、 微软 、 英伟达 及 台积电 合作伙伴等将作为基石投资者，参与一项独立私募配售，合计认购260亿美元公司普通股。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "Anthropic被曝IPO拟发行8.25亿股 每股70至78美元"
-    },
-    {
      "title": "第三批互惠便利资金“火线入市”，至少10家券商官宣买入股票",
      "link": "https://wallstreetcn.com/articles/3785655",
      "pubDate": "Tue, 10 Nov 2026 18:21:26 +0800",
@@ -2450,36 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million"
     },
     {
-     "title": "11月10日龙虎榜复盘：富瀚微净买额居首",
-     "link": "http://stock.eastmoney.com/news/11783,202611103927410768.html",
-     "pubDate": "Tue, 10 Nov 2026 18:00:57 +0800",
-     "summary": "11月10日共有51只个股（含2只可转债）上榜龙虎榜，总上榜成交额207.94亿元。上榜个股中净买入额最高的是 富瀚微 ，金额为2.68亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富资讯",
-     "zh": "11月10日龙虎榜复盘：富瀚微净买额居首"
-    },
-    {
      "title": "Actor Justin Baldoni quietly sold his L.A. home for $2.1 million after moving to Nashville",
      "link": "https://www.marketwatch.com/story/actor-justin-baldoni-quietly-sold-his-l-a-home-for-2-1-million-after-moving-to-nashville-4cb8041e?mod=mw_rss_topstories",
      "pubDate": "Tue, 10 Nov 2026 09:58:00 GMT",
      "summary": "Actor Justin Baldoni discreetly offloaded his former Los Angeles home months after relocating to Nashville, Tenn., for a “fresh start.”",
      "source": "MarketWatch",
      "zh": "Actor Justin Baldoni quietly sold his L.A. home for $2.1 million after moving to Nashville"
-    },
-    {
-     "title": "业绩同比环比暴增+超跌的硬科技股 多股拟大举回购（附名单）",
-     "link": "http://finance.eastmoney.com/news/1345,202611103927403556.html",
-     "pubDate": "Tue, 10 Nov 2026 17:56:43 +0800",
-     "summary": "国内科技股基本面向好。 科技股大幅反弹 今日（11月10日），科技股大幅上涨。从概念板块来看，Seedance视频大模型、 智能音箱 、Kimi等指数均飙升逾5%，网络游戏、MCU芯片、 机器视觉 等指数均涨超4%。 当前市场主要焦点集中在 AI应用 ，而硬件表现相对一般。不过， 天风证券 近期发布研报表示，国内科技股基本面向好，产业生产与上市公司业绩相互印证。国家统计局数据显示，2026年前三季度，规模以上高技术制造业增加值同比增长14.3%，集成电路、工业 机器人 产量分别增长23.3%、29.1%，科技制造领域保持较强增长动能。上市公司层面，第三季度单季申万一级 电子 行业营业收入、归母",
-     "source": "东方财富资讯",
-     "zh": "业绩同比环比暴增+超跌的硬科技股 多股拟大举回购（附名单）"
-    },
-    {
-     "title": "俄外长：美俄柴油协议已落地 全球能源价格正降温",
-     "link": "http://stock.eastmoney.com/news/1768,202611103927400952.html",
-     "pubDate": "Tue, 10 Nov 2026 17:56:18 +0800",
-     "summary": "本周二，俄罗斯外长拉夫罗夫发表文章称，俄罗斯向美国及全球市场供应柴油的协议已经落地实施，并且已经起到了压低油价的显著作用。 拉夫罗夫在文章中写道： “自2022年以来，我们已经向欧洲供应了价值3200亿美元的能源资源。” “俄美领导人此前达成协议、暂停针对俄罗斯柴油出口的限制，为能源安全作出了重要贡献。我们已经启动协议执行，油价随即应声回落。” 10月9日，美国总统特朗普突然公布了美俄柴油协议：特朗普政府临时放宽了针对俄罗斯燃油的制裁，俄方同意立即向美国及全球市场投放30万吨（折合225万桶）柴油，11月再供应50万吨，之后继续投放100万吨，以期在美国中期选举前压低燃油价格。 拉夫罗夫在文章",
-     "source": "东方财富资讯",
-     "zh": "俄外长：美俄柴油协议已落地 全球能源价格正降温"
     },
     {
      "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",

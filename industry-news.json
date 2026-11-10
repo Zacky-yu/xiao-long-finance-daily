@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/10 08:15:52",
+ "generated_at": "2026/11/10 08:35:00",
  "recent_days": 7,
  "industries": [
   {
@@ -113,14 +113,6 @@
      "zh": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context"
     },
     {
-     "title": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?",
-     "link": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
-     "pubDate": "Mon, 09 Nov 2026 15:00:00 +0000",
-     "summary": "4 classic leaks, planted in real data, tested cold on 4 models.",
-     "source": "KDnuggets",
-     "zh": "Can AI Spot Data Leakage Before Your Model Hits 99% Accuracy?"
-    },
-    {
      "title": "实测千问办公2.0：1个Team Agent和团队协作，2小时操盘一场热点营销",
      "link": "https://zhidx.com/p/608469.html",
      "pubDate": "Mon, 09 Nov 2026 22:46:09 +0800",
@@ -143,14 +135,6 @@
      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
      "source": "MIT Tech Review AI",
      "zh": "Innovating with AI in the special chemicals industry"
-    },
-    {
-     "title": "5 Useful Python Automation Scripts for Beginners",
-     "link": "https://www.kdnuggets.com/5-useful-python-automation-scripts-for-beginners",
-     "pubDate": "Mon, 09 Nov 2026 13:00:00 +0000",
-     "summary": "Learn how to use Python scripts to automate repetitive tasks, organize files, process images, and simplify daily workflows.",
-     "source": "KDnuggets",
-     "zh": "5 Useful Python Automation Scripts for Beginners"
     },
     {
      "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
@@ -247,6 +231,22 @@
      "summary": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test. The post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appeared first on MarkTec",
      "source": "MarkTechPost",
      "zh": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents"
+    },
+    {
+     "title": "CodeRabbit scales agentic software development and ships 20x more",
+     "link": "https://openai.com/index/coderabbit-codex-daybreak",
+     "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+     "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+     "source": "OpenAI",
+     "zh": "CodeRabbit scales agentic software development and ships 20x more"
+    },
+    {
+     "title": "Kuken Industries searches 70 years of drawings in minutes",
+     "link": "https://openai.com/index/kuken",
+     "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+     "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+     "source": "OpenAI",
+     "zh": "Kuken Industries searches 70 years of drawings in minutes"
     }
    ]
   },
@@ -913,6 +913,14 @@
      "zh": "Arizona’s longest-tenured utility commissioner on large loads, affordability and Western markets"
     },
     {
+     "title": "PPL increases capital plan to $25B with proposed Kentucky gas plant",
+     "link": "https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/",
+     "pubDate": "Mon, 09 Nov 2026 11:38:05 -0500",
+     "summary": "The company projects some 50 GW of potential load growth, mostly from data centers, across Kentucky and Pennsylvania.&nbsp;CEO Vincent Sorgi suggested those states could see a influx of projects due to restrictions in other regions.",
+     "source": "Utility Dive",
+     "zh": "PPL increases capital plan to $25B with proposed Kentucky gas plant"
+    },
+    {
      "title": "Global Solar Council to unveil 300 million solar rooftop declaration at COP31",
      "link": "https://www.pv-tech.org/global-solar-council-to-unveil-rooftop-solar-declaration-at-cop31-as-governments-commit-to-300m-solar-homes/",
      "pubDate": "Mon, 09 Nov 2026 15:11:11 +0000",
@@ -959,6 +967,14 @@
      "summary": "Europe’s corporate renewable energy buyers and sellers have shifted their focus from price to risk allocation as negative prices erode solar-only contracts and battery-backed hybrid deals move to the center of the market, according to discussions last week at RE-Source 2026 in Amsterdam. The post Ke",
      "source": "pv magazine",
      "zh": "Key takeaways from RE-Source 2026 in Amsterdam"
+    },
+    {
+     "title": "Inside the ‘pressure cooker’: Electric utility regulators gather in wake of electoral earthquake",
+     "link": "https://www.utilitydive.com/news/grid-investment-affordability-naruc-state-policy/874080/",
+     "pubDate": "Mon, 09 Nov 2026 08:16:11 -0500",
+     "summary": "Newly elected leaders and customers are &ldquo;questioning our foundational regulatory approaches,&rdquo; Ann Rendahl, president of the National Association of Regulatory Utility Commissioners, told her peers and industry stakeholders.",
+     "source": "Utility Dive",
+     "zh": "Inside the ‘pressure cooker’: Electric utility regulators gather in wake of electoral earthquake"
     },
     {
      "title": "IEA forecasts 3.6TW of new solar PV by 2031",
@@ -1071,22 +1087,6 @@
      "summary": "In order to enable capital execution and capacity expansion, nuclear utilities must pair recruitment with strong retention and engagement.",
      "source": "Utility Dive",
      "zh": "Beyond megawatts: Nuclear’s other capacity expansion challenge"
-    },
-    {
-     "title": "Behind-the-meter power: An effective tool for bringing large utility customers online faster",
-     "link": "https://www.utilitydive.com/spons/behind-the-meter-power-an-effective-tool-for-bringing-large-utility-custom/833709/",
-     "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
-     "summary": "Behind-the-meter (BTM) power is becoming an effective solution to bridge the gap between what the grid can provide and what data centers need to operate smoothly.",
-     "source": "Utility Dive",
-     "zh": "Behind-the-meter power: An effective tool for bringing large utility customers online faster"
-    },
-    {
-     "title": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act",
-     "link": "https://www.energy-storage.news/pacific-blue-refers-855mwh-battery-storage-system-in-victoria-to-australias-epbc-act/",
-     "pubDate": "Mon, 09 Nov 2026 09:23:07 +0000",
-     "summary": "Australian renewable energy generator and retailer Pacific Blue has referred an 855MWh BESS in Victoria to Australia's EPBC Act.",
-     "source": "Energy Storage News",
-     "zh": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act"
     }
    ]
   },
@@ -1096,6 +1096,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Bayer wins FDA approval for stroke prevention drug Sunharbo",
+     "link": "https://endpoints.news/bayer-wins-fda-approval-for-stroke-prevention-drug-sunharbo/",
+     "pubDate": "Tue, 10 Nov 2026 00:12:58 +0000",
+     "summary": "Bayer’s asundexian won FDA approval to reduce the risk of stroke in people who recently had a mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack. The agency on Monday greenlit the drug in ...",
+     "source": "Endpoints News",
+     "zh": "Bayer wins FDA approval for stroke prevention drug Sunharbo"
+    },
     {
      "title": "Illumina Offers Early Access to Duplex Sequencing for MRD, Tumor Evolution Research",
      "link": "https://www.genengnews.com/topics/omics/illumina-offers-early-access-to-duplex-sequencing-for-mrd-tumor-evolution-research/",
@@ -1215,14 +1223,6 @@
      "summary": "For $550 million up front, Argenx will take control of Unnatural Products&rsquo; &ldquo;macrocyclic peptide&rdquo; technology and direct it to develop oral, durable medicines for serious immune-mediated diseases.",
      "source": "BioPharma Dive",
      "zh": "Argenx to buy peptide platform in potentially billion-dollar deal"
-    },
-    {
-     "title": "Heron sells assets to CorMedix for $145M upfront; Faeth's stock tumbles",
-     "link": "https://endpoints.news/heron-sells-assets-to-cormedix-for-145m-upfront-faeths-stock-tumbles/",
-     "pubDate": "Mon, 09 Nov 2026 16:13:22 +0000",
-     "summary": "Plus, news about Immunovant, Abeona Therapeutics, Ellodi Pharmaceuticals, Spruce Biosciences, Adrenyx Biosciences, Edesa Biotech, Kyorin Pharmaceutical, Charles River Laboratories, Frontage, Compass Pathways, Johnson & Johnson, Veradermics and Valneva. CorMedix acquires Heron portfolio: CorMedix",
-     "source": "Endpoints News",
-     "zh": "Heron sells assets to CorMedix for $145M upfront; Faeth's stock tumbles"
     },
     {
      "title": "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
@@ -1761,6 +1761,46 @@
    "total": 18,
    "items": [
     {
+     "title": "《GTA6》游戏 XBOX Series X|S 实体版包装泄露，支持杜比视界、杜比全景声",
+     "link": "https://www.ithome.com/1/024/591.htm",
+     "pubDate": "Tue, 10 Nov 2026 00:31:41 GMT",
+     "summary": "IT之家 11 月 10 日消息，X 平台博主 ben 今日发布了《GTA6》游戏 XBOX Series X|S 实体版的包装盒照片，显示本作 XBOX 版将支持杜比视界、杜比全景声技术。 IT之家了解到，本次泄露的实体版包装盒是美版，本作实体版仅提供兑换码，并没有实体光碟。XBOX Series X|S 用户可以在游戏中体验到杜比视界和杜比全景声技术，对比之下，PS5 并没有杜比视界，但支持 HDR10。 同时，XBOX Series X|S 支持杜比全景声，支持这项技术的游戏能够根据角色的动作、场景动效，精准呈现不同声音的空间位置。作为参考，PS5 于 2023 年 9 月系统更新中加入",
+     "source": "IT之家",
+     "zh": "《GTA6》游戏 XBOX Series X|S 实体版包装泄露，支持杜比视界、杜比全景声"
+    },
+    {
+     "title": "AI赌输了，美国很可能会拥抱社会主义",
+     "link": "https://www.huxiu.com/article/4904064.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 08:29:23 +0800",
+     "summary": "本文来自微信公众号： 牌桌 Poker Table ，文章首发时间：2026年10月29日，作者：森林好小子，题图来自：视觉中国 &ldquo;2028年大选，共和党无论派出万斯还是鲁比奥都很难赢，最终选出一个社会主义总统的概率是50%。&rdquo; 这是硅谷著名投资人、《从0到1》的作者彼得&middot;蒂尔 （Peter Thiel） 最近在播客上给出的判断。 蒂尔并不是在开玩笑，社会主义近年在美国影响力确实在迅速扩大： 宣称要结束资本主义制度的美国民主社会主义组织DSA，最近10年由6000人扩张至13万人，成为美国建国以来规模最大的社会主义团体。受民主社会主义思想影响很深的进步派众",
+     "source": "虎嗅",
+     "zh": "AI赌输了，美国很可能会拥抱社会主义"
+    },
+    {
+     "title": "苹果推出 50 美元 AI 使用包：Logic Pro 率先支持付费扩容，有效期 12 个月",
+     "link": "https://www.ithome.com/1/024/590.htm",
+     "pubDate": "Tue, 10 Nov 2026 00:21:34 GMT",
+     "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Mac 昨日（11 月 9 日）发布博文，报道称苹果开始为部分 Apple Intelligence 功能推出付费“智能使用包”（Intelligence Usage Packs）， 首个落地产品是音乐创作软件 Logic Pro，售价为 49.99 美元（IT之家注：现汇率约合 333.9 元人民币）。 购买路径方面，用户可在 Logic Pro 应用菜单栏依次选择“智能功能” → “显示使用情况”，再点击“购买更多使用量”完成购买。 购买方式上，不同于主流 AI 服务采用的按月订阅模式，“智能使用包”采用买断的额外用量包，有效期为 12 ",
+     "source": "IT之家",
+     "zh": "苹果推出 50 美元 AI 使用包：Logic Pro 率先支持付费扩容，有效期 12 个月"
+    },
+    {
+     "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+     "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+     "pubDate": "Tue, 10 Nov 2026 00:18:19 +0000",
+     "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+     "source": "WIRED",
+     "zh": "Jensen Huang’s Troubles Leave the AI Industry Reeling"
+    },
+    {
+     "title": "全网都在友综嗑CP，谁还想看《再见爱人》？",
+     "link": "https://www.huxiu.com/article/4904312.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 08:14:42 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：朴珍珠，编辑：陆一鸣 真正的问题也许从来不是“离婚综艺还能不能拍下去”，而是它还能不能拿出足够精良、复杂，也足够尊重人的内容。 “我去参加节目前每天都在哭，又不能18天不讲话，都当哑巴，但我又没有工作，我需要工作。可我又担心，节目播出了，会不会有人笑话我的孩子。” 最近，演员郭柯宇上陈鲁豫的视频播客，分享了自己在2021年参加《再见爱人》第一季录制时的感受。虽然她与前夫章贺的关系困境在节目内外收获了很多同情和支持，五年里，她也获得了更多工作机会和体面自在的生活，但这个敏感的演员依然有无限纠结。 毕竟，在她前半段人生里，结婚和生育都没有对外公开，但离婚这件私",
+     "source": "虎嗅",
+     "zh": "全网都在友综嗑CP，谁还想看《再见爱人》？"
+    },
+    {
      "title": "厦金大桥（厦门段）海上主线桥贯通，预计今年底建成通车",
      "link": "https://www.ithome.com/1/024/589.htm",
      "pubDate": "Tue, 10 Nov 2026 00:10:46 GMT",
@@ -1785,12 +1825,12 @@
      "zh": "Take-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI (Jason Schreier/Bloomberg)"
     },
     {
-     "title": "苹果 iOS/iPadOS 18.7.12 正式版发布",
+     "title": "苹果 iOS / iPadOS 18.7.12 正式版系统发布，修复 6 个安全漏洞",
      "link": "https://www.ithome.com/1/024/588.htm",
      "pubDate": "Tue, 10 Nov 2026 00:02:11 GMT",
-     "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 18.7.12 更新（内部版本号：22H390），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 18 发布历史： 2026-10-27：iOS 18.7.11 (22H384) 2026-08-11：iOS 18.7.10 (22H373) 2026-05-05：iOS 18.7.9 (22",
+     "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 18.7.12 更新（内部版本号：22H390）。本次更新主要带来 6 项重要安全修复，可以看出苹果并没有忘掉老系统用户。 IT之家附本次更新修复的漏洞如下： 隔空播放 适用设备： iPhone XS、iPhone XS Max、iPhone XR、iPad（第 7 代） 漏洞影响：蓝牙通信范围内的攻击者可能绕过配对码尝试次数限制。 漏洞描述：苹果通过改进状态管理，修复了一处逻辑问题。 CVE 编号： CVE-2026-113968 发现者：苹果 蓝牙 适用设备： iPhone XS",
      "source": "IT之家",
-     "zh": "苹果 iOS/iPadOS 18.7.12 正式版发布"
+     "zh": "苹果 iOS / iPadOS 18.7.12 正式版系统发布，修复 6 个安全漏洞"
     },
     {
      "title": "苹果 iPadOS 26.7.3 正式版发布",
@@ -1807,22 +1847,6 @@
      "summary": "IT之家 11 月 10 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2.1 更新（内部版本号：24S132），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-10-27：watchOS 27.2 (24S118) 2026-10-20：watchOS 27.2 RC (24S116) 2026-10-14：watchOS 27.2 Beta ",
      "source": "IT之家",
      "zh": "苹果 watchOS 27.2.1 正式版发布"
-    },
-    {
-     "title": "苹果 visionOS 27.2.1 正式版发布",
-     "link": "https://www.ithome.com/1/024/585.htm",
-     "pubDate": "Tue, 10 Nov 2026 00:02:10 GMT",
-     "summary": "IT之家 11 月 10 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2.1 更新（内部版本号：24N124），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-10-27：visionOS 27.2 (24N120) 2026-10-20：visionOS 27.2 RC (24N118) 2026-10-14：visionOS 27.2 B",
-     "source": "IT之家",
-     "zh": "苹果 visionOS 27.2.1 正式版发布"
-    },
-    {
-     "title": "苹果 iOS/iPadOS 27.2.1 正式版发布",
-     "link": "https://www.ithome.com/1/024/583.htm",
-     "pubDate": "Tue, 10 Nov 2026 00:02:09 GMT",
-     "summary": "IT之家 11 月 10 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2.1 更新（内部版本号：24B156），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-10-27：iOS 27.2 (24B91020) 2026-10-27：iOS 27.2 (24B119) 2026-10-20：iOS 27.2 RC (24B115",
-     "source": "IT之家",
-     "zh": "苹果 iOS/iPadOS 27.2.1 正式版发布"
     },
     {
      "title": "大水取代大蓝桶，中国的“大家庭”时代结束了",
@@ -1849,30 +1873,6 @@
      "zh": "牛肉自由，到头了"
     },
     {
-     "title": "叙事主权之争：\"AI十年治愈大多数疾病\"言论，遭制药业集中反驳",
-     "link": "https://www.huxiu.com/article/4904307.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 07:48:58 +0800",
-     "summary": "本文来自微信公众号： 医曜 ，作者：王喆 2026年9月，Anthropic首席执行官Dario Amodei在社交平台X上写下：\"在5到10年内治愈大多数人类疾病，实际上是可能的，尽管这听起来很疯狂。\" 这句话当时没有掀起太大波澜。直到11月3日，华尔街日报一篇报道把制药业高层的反驳集中推到台前。而到了本周，争论明显再度升温。 这是两条时间线之间的一次正面碰撞：硅谷的激进，与制药业的保守。而碰撞的本质，是估值叙事权之争。 01 硅谷的时间线 Amodei的豪言不是孤例。 他本人曾在公开文章中承认，AI进入物理世界面临数据缺失、内在复杂性和监管约束三大延迟。但他仍把\"治愈大多数疾病\"的时间窗口",
-     "source": "虎嗅",
-     "zh": "叙事主权之争：\"AI十年治愈大多数疾病\"言论，遭制药业集中反驳"
-    },
-    {
-     "title": "老黄搞黄",
-     "link": "https://www.huxiu.com/article/4904306.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 07:48:33 +0800",
-     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 霸道总裁爱上绝经期的我 上半年跟某坡县回来的朋友喝酒的时候，他无意中说：“你在新加坡一点要小心A开头的姑娘，无论她叫Alice还是叫Anna，也许她叫这个名字不见得是真喜欢这个名字，而是只想在你通讯录里面排名最靠前而已”。我没接茬但是心想：这不是当年王传福的AAA电池王总的梗么？这么多年了难道还有用？ 事实上证明可能真的是有用的，Alice Huang还真是搞定了Jenson Huang，直接导致英伟达所谓的秘密渠道暴露在大众视野里，有些人的生意被重创，有些人的钱包被重创。 要唐僧说这个点上这个事情爆出来的就很蹊跷：民主党刚刚胜选就出这么个新",
-     "source": "虎嗅",
-     "zh": "老黄搞黄"
-    },
-    {
-     "title": "Tracking the Harm of DOGE Cuts",
-     "link": "https://www.clasp.org/doge-tracker/",
-     "pubDate": "Mon, 09 Nov 2026 23:40:54 +0000",
-     "summary": "Article URL: https://www.clasp.org/doge-tracker/ Comments URL: https://news.ycombinator.com/item?id=50433978 Points: 67 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Tracking the Harm of DOGE Cuts"
-    },
-    {
      "title": "A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang&apos;s relationship with Alice Huang as \"uncomfortably close\" (Sarah Perez/TechCrunch)",
      "link": "https://www.techmeme.com/261109/p46#a261109p46",
      "pubDate": "Mon, 09 Nov 2026 18:35:01 -0500",
@@ -1887,6 +1887,14 @@
      "summary": "中国10月CPI同比上涨0.7%，环比持平；李强签署国务院令，公布《中医药传统知识保护条例》；字节跳动发布豆包图像模型Seedream 5.5；英伟达宣布对多家韩国AI初创企业投资计划；媒体：黄仁勋或被英伟达免职，尚未指定接班人；AMD：第五代EPYC处理器为谷歌TPU 8tx提供主机基础设施",
      "source": "钛媒体",
      "zh": "【钛晨报】“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争"
+    },
+    {
+     "title": "Fable 5.2 one-shotted my nephew's dream game",
+     "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+     "pubDate": "Mon, 09 Nov 2026 23:08:13 +0000",
+     "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 23 # Comments: 9",
+     "source": "Hacker News",
+     "zh": "Fable 5.2 one-shotted my nephew's dream game"
     },
     {
      "title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
@@ -1908,7 +1916,7 @@
      "title": "Exact – a new cross platform UI framework by the Expo team",
      "link": "https://github.com/expo/exact",
      "pubDate": "Mon, 09 Nov 2026 22:59:13 +0000",
-     "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 11 # Comments: 5",
+     "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 14 # Comments: 6",
      "source": "Hacker News",
      "zh": "Exact – a new cross platform UI framework by the Expo team"
     },
@@ -1929,12 +1937,12 @@
      "zh": "Trump says the FBI is \"looking into\" Jensen Huang&apos;s affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)"
     },
     {
-     "title": "I did a meditation and it sort of changed my personality?",
-     "link": "https://www.benkuhn.net/meditation/",
-     "pubDate": "Mon, 09 Nov 2026 22:23:00 +0000",
-     "summary": "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50433129 Points: 11 # Comments: 0",
+     "title": "A year after the 100% AI mandate nobody understands our code",
+     "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+     "pubDate": "Mon, 09 Nov 2026 22:19:12 +0000",
+     "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 64 # Comments: 65",
      "source": "Hacker News",
-     "zh": "I did a meditation and it sort of changed my personality?"
+     "zh": "A year after the 100% AI mandate nobody understands our code"
     },
     {
      "title": "The Home Depot Best Early Black Friday Deals (2026)",
@@ -1964,7 +1972,7 @@
      "title": "TPUs",
      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
      "pubDate": "Mon, 09 Nov 2026 21:56:57 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 152 # Comments: 20",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 169 # Comments: 28",
      "source": "Hacker News",
      "zh": "TPUs"
     },
@@ -1991,14 +1999,6 @@
      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
      "source": "Ars Technica",
      "zh": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling"
-    },
-    {
-     "title": "Supply chain attack on Qubole customers",
-     "link": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
-     "pubDate": "Mon, 09 Nov 2026 21:07:26 +0000",
-     "summary": "Article URL: https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack Comments URL: https://news.ycombinator.com/item?id=50432147 Points: 15 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Supply chain attack on Qubole customers"
     }
    ]
   },
@@ -2257,12 +2257,44 @@
    "total": 13,
    "items": [
     {
-     "title": "Anthropic逆市推进IPO！最快周二路演，冲刺下周上市，估值或再打“八折”",
+     "title": "Lincoln Educational raises 2026 revenue outlook to $600M-$605M while targeting 10%-12% start growth",
+     "link": "https://seekingalpha.com/news/4669415-lincoln-educational-raises-2026-revenue-outlook-to-600m-605m-while-targeting-10-percentminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 19:31:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lincoln Educational raises 2026 revenue outlook to $600M-$605M while targeting 10%-12% start growth"
+    },
+    {
+     "title": "Paradium AI outlines Q4 alpha launch of Tablation as updated content drives roughly 50% more page views",
+     "link": "https://seekingalpha.com/news/4669414-paradium-ai-outlines-q4-alpha-launch-of-tablation-as-updated-content-drives-roughly-50?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 09 Nov 2026 19:31:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Paradium AI outlines Q4 alpha launch of Tablation as updated content drives roughly 50% more page views"
+    },
+    {
+     "title": "亚太股市跟随隔夜美科技股涨势，韩国首尔综指盘初上涨5%，SK海力士拉升超7%，日经225涨超2%",
+     "link": "https://wallstreetcn.com/articles/3785613",
+     "pubDate": "Tue, 10 Nov 2026 08:27:48 +0800",
+     "summary": "亚太股市周二走高，人工智能硬件供应链集中的日本、韩国市场领涨，其中韩国首尔综指盘初上涨5%。韩国交易所启动SIDECAR机制，暂停KOSPI程序化买盘。日经225指数上涨2.4%。受益于美国芯片股的强劲反弹。这三个市场汇聚了全球人工智能基础设施建设的主要硬件供应商，对美国科技板块走势高度敏感。 芯片巨头三星电子和SK海力士涨幅居前，截至发稿，三星电子和SK海力士分别上涨5.32%和7.66%。 美国股市周一大幅反弹，科技股强势回升叠加油价大跌，共同推动标普500指数录得七个月来最大单日涨幅。标普500指数周一上涨2.3%，纳斯达克100指数涨3.4%，芯片股指数单日飙升近7%。与此同时，布伦特",
+     "source": "华尔街见闻",
+     "zh": "亚太股市跟随隔夜美科技股涨势，韩国首尔综指盘初上涨5%，SK海力士拉升超7%，日经225涨超2%"
+    },
+    {
+     "title": "特朗普确认FBI调查黄仁勋，“连续第二天”表达支持：他是一个非常正直的人",
+     "link": "https://wallstreetcn.com/articles/3785612",
+     "pubDate": "Tue, 10 Nov 2026 08:11:43 +0800",
+     "summary": "特朗普连续两天公开为英伟达CEO黄仁勋背书，同时确认FBI正就其婚外情涉嫌外国情报渗透一事展开调查。与此同时， 中国外交部发言人郭嘉昆在同日例行记者会 上回应称， “所谓中国间谍的论调纯属捕风捉影，污蔑抹黑。” 据媒体11月10日报道， 特朗普周一在白宫一场即兴新闻发布会上表示，他当天早些时候已致电黄仁勋询问其近况，并称其为“一个非常正直的人”。 “我非常了解Jensen，我认为他是一个非常正直的人，他建立了一家伟大的美国公司，我认为他会没事的。”特朗普说。这是特朗普连续第二天公开为这位深陷困境的芯片大亨发声。 据 华尔街见闻文章 此前提及，澎湃新闻报道称，美国总统特朗普当地时间周日在返回华盛",
+     "source": "华尔街见闻",
+     "zh": "特朗普确认FBI调查黄仁勋，“连续第二天”表达支持：他是一个非常正直的人"
+    },
+    {
+     "title": "Anthropic逆市推进IPO！最快周二路演，冲刺下周四、五上市，估值或再打“八折”",
      "link": "https://wallstreetcn.com/articles/3785598",
      "pubDate": "Tue, 10 Nov 2026 08:09:18 +0800",
      "summary": "尽管AI板块近期遭遇剧烈抛售，Anthropic仍决定顶住市场压力推进IPO，此次大规模上市将直接测试公开市场对前沿AI资产的风险偏好与定价意愿。 据《华尔街日报》最新报道， 一周前，投资者预期Anthropic的估值目标约为1.5万亿美元，但在经历了AI公司股票的暴跌后，一些主要投资者现在希望目标估值更低。 目前，该公司高管一直在与高盛和摩根士丹利的银行家会面，商讨估值区间的最终确定。 据彭博6日援引一位知情人士透露，部分潜在投资者讨论的估值已降至约1.2万亿至1.3万亿美元，甚至有人考虑低至1.1万亿美元。 报道称，Anthropic本周已安排与关键投资者会面， 目标是让其股票在下周四或周",
      "source": "华尔街见闻",
-     "zh": "Anthropic逆市推进IPO！最快周二路演，冲刺下周上市，估值或再打“八折”"
+     "zh": "Anthropic逆市推进IPO！最快周二路演，冲刺下周四、五上市，估值或再打“八折”"
     },
     {
      "title": "中选后首度正式采访，特朗普表态：移民“可以谈”，投资“不清楚”，AI“必须赢”",
@@ -2289,54 +2321,6 @@
      "zh": "PNC launches stablecoin payments for corporate clients"
     },
     {
-     "title": "ETF追踪丨11月9日股票型ETF净申购50亿元 资金加仓创业板ETF易方达",
-     "link": "http://stock.eastmoney.com/news/11868,202611103926851545.html",
-     "pubDate": "Tue, 10 Nov 2026 08:00:09 +0800",
-     "summary": "东方财富 Choice数据显示，11月9日，ETF资金整体净流入108.96亿元，其中，股票型净流入50.24亿元。 股票型ETF中，当日净申购前3依次为：创业板ETF易方达，净申购12.25亿元； 半导体 设备ETF国泰，净申购11.41亿元；上证50ETF华夏，净申购9.19亿元。 股票型ETF当日净赎回前3为： 中证500 ETF南方，净赎回7.70亿元；上证指数ETF富国，净赎回3.45亿元；红利ETF华泰柏瑞，净赎回3.04亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不",
-     "source": "东方财富股票",
-     "zh": "ETF追踪丨11月9日股票型ETF净申购50亿元 资金加仓创业板ETF易方达"
-    },
-    {
-     "title": "长钱长投特征凸显 三季度百亿私募重仓高股息与核心资产",
-     "link": "http://finance.eastmoney.com/news/1354,202611103926628140.html",
-     "pubDate": "Tue, 10 Nov 2026 07:59:15 +0800",
-     "summary": "A股上市公司三季报披露收官，知名百亿私募最新持仓版图浮出水面。根据Choice数据统计，2026年三季度末，共有44家百亿私募旗下产品合计现身176家A股公司的前10大流通股东名单之中，持股市值合计约818亿元。 其中，险资系私募与央企背景私募动作最受关注：国丰兴华、阳光恒益、太保致远三家险资系私募合计持仓超450亿元，重仓高股息传统 行业龙头 ；央企中国诚通旗下诚旸投资三季度新进4家公司、加仓3家公司，在市场调整期继续增持A股。同时，头部主观私募高毅资产、睿郡资产三季度则延续长期持有思路，对核心资产保持信心。 值得注意的是，私募排排网最新数据显示，从行业分布看， 食品饮料 、 石油石化 、 ",
-     "source": "东方财富股票",
-     "zh": "长钱长投特征凸显 三季度百亿私募重仓高股息与核心资产"
-    },
-    {
-     "title": "航宇科技：融资净买入264.36万元，融资余额3.16亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611103926851120.html",
-     "pubDate": "Tue, 10 Nov 2026 07:59:12 +0800",
-     "summary": "交易所最新数据显示， 航宇科技 于2026年11月9日获融资买入1370.69万元，融资偿还1106.34万元， 当日融资净买入264.36万元。 目前，该股融资余额3.16亿，占流通市值比例为3.91%。 该股当日无融券交易。目前，该股融券余量1.25万股，融券余额52.85万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担",
-     "source": "东方财富股票",
-     "zh": "航宇科技：融资净买入264.36万元，融资余额3.16亿元"
-    },
-    {
-     "title": "江苏银行：融资净偿还1007.2万元，融资余额35.44亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611103926851021.html",
-     "pubDate": "Tue, 10 Nov 2026 07:59:11 +0800",
-     "summary": "交易所最新数据显示， 江苏银行 于2026年11月9日获融资买入7879.00万元，融资偿还8886.21万元， 当日融资净偿还1007.2万元。 目前，该股融资余额35.44亿，占流通市值比例为1.51%。 该股当日融券卖出5.35万股，融券偿还5.81万股， 融券净偿还4600股。 目前，该股融券余量188.27万股，融券余额2413.62万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该",
-     "source": "东方财富股票",
-     "zh": "江苏银行：融资净偿还1007.2万元，融资余额35.44亿元"
-    },
-    {
-     "title": "清溢光电：融资净买入293.73万元，融资余额3.56亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611103926850939.html",
-     "pubDate": "Tue, 10 Nov 2026 07:59:09 +0800",
-     "summary": "交易所最新数据显示， 清溢光电 于2026年11月9日获融资买入2052.00万元，融资偿还1758.27万元， 当日融资净买入293.73万元。 目前，该股融资余额3.56亿，占流通市值比例为4.00%。 该股当日融券卖出0股，融券偿还500股， 融券净偿还500股。 目前，该股融券余量9976股，融券余额28.22万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
-     "source": "东方财富股票",
-     "zh": "清溢光电：融资净买入293.73万元，融资余额3.56亿元"
-    },
-    {
-     "title": "威迈斯：融资净偿还123.13万元，融资余额2.98亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611103926850839.html",
-     "pubDate": "Tue, 10 Nov 2026 07:59:09 +0800",
-     "summary": "交易所最新数据显示， 威迈斯 于2026年11月9日获融资买入306.83万元，融资偿还429.96万元， 当日融资净偿还123.13万元。 目前，该股融资余额2.98亿，占流通市值比例为4.44%。 该股当日融券卖出1000股，融券偿还0股， 融券净卖出1000股。 目前，该股融券余量12.81万股，融券余额334.99万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
-     "source": "东方财富股票",
-     "zh": "威迈斯：融资净偿还123.13万元，融资余额2.98亿元"
-    },
-    {
      "title": "Village Farms targets Delta 2 full 40 metric ton annual run rate by the middle of next year",
      "link": "https://seekingalpha.com/news/4669412-village-farms-targets-delta-2-full-40-metric-ton-annual-run-rate-by-the-middle-of-next-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 09 Nov 2026 18:52:05 -0500",
@@ -2353,36 +2337,12 @@
      "zh": "This retired professor has reinvented himself — as a Taylor Swift scholar"
     },
     {
-     "title": "药明康德：美国国防部将公司从1260H项下中国军工企业名单中移除",
-     "link": "http://finance.eastmoney.com/news/1345,202611103926781641.html",
-     "pubDate": "Tue, 10 Nov 2026 07:48:33 +0800",
-     "summary": "11月10日早间， 药明康德 在港交所公告，于2026年11月9日，公司获悉国防部决定将 药明康德 从1260H项下的CMC名单中移除。国防部副部长判定应遵从法院批准我们初步禁令动议的命令，将 药明康德 从国防部更新之1260H名单中移除。此决定使本公司免受该认定所带来的进一步不利影响。我们将继续致力于服务我们的客户，赋能其为病患研制拯救和改善生命之药物。 （文章来源：界面新闻）",
-     "source": "东方财富资讯",
-     "zh": "药明康德：美国国防部将公司从1260H项下中国军工企业名单中移除"
-    },
-    {
      "title": "Fervo Energy soars as Cape Station's first GeoBlock enters commercial operation",
      "link": "https://seekingalpha.com/news/4669410-fervo-energy-soars-as-cape-stations-first-geoblock-enters-commercial-operation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 09 Nov 2026 18:48:25 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Fervo Energy soars as Cape Station's first GeoBlock enters commercial operation"
-    },
-    {
-     "title": "内外共振！太空算力产业化按下快进键 行业景气度有望上行(附股)",
-     "link": "http://finance.eastmoney.com/news/11822,202611103926714256.html",
-     "pubDate": "Tue, 10 Nov 2026 07:38:01 +0800",
-     "summary": "“星云星座计划”发布，我国 太空算力网 加快部署，产业化落地迈出关键一步，海外巨头也在加速布局这一赛道。有机构认为，太空算力正从技术验证走向规模化供给，产业链或迎布局良机。 “太空云”产业化成果发布 11月9日，2026太空云产业生态大会举办，“星云星座计划”等我国 太空云产业化成果发布 ，标志着我国“太空云”生态建设迈出从技术验证走向产业化布局的关键一步。 “太空云”是指在轨协同的天基云服务系统，它改变传统卫星“单星观测、数据回传地面处理”模式，让天基资源可以按需调用、即连即用。本次发布的“星云星座计划”是中国科学院空天信息创新研究院与国内科创企业联合研发的全栈国产化 太空算力网 ，覆盖从国",
-     "source": "东方财富资讯",
-     "zh": "内外共振！太空算力产业化按下快进键 行业景气度有望上行(附股)"
-    },
-    {
-     "title": "688717，拟每10股派31.25元！“星云星座计划”发布，太空算力网部署传新进展（附股）",
-     "link": "http://finance.eastmoney.com/news/1354,202611103926729511.html",
-     "pubDate": "Tue, 10 Nov 2026 07:38:00 +0800",
-     "summary": "我国太空算力网部署传来新进展。 艾罗能源 拟 派发现金红利5亿元 艾罗能源 （688717） 11月9日晚间发布前三季度利润分配方案的公告，公司拟向全体股东每10股派发现金红利31.25元（含税），合计派发现金红利5亿元（含税）。 这也是公司上市以来，第三次发布前三季度分红方案，此前2024年、2025年三季度分红总额均为1.5亿元，此次分红方案为公司上市以来新高。 公告显示，根据公司首次公开发行股票时披露的现金分红规划，截至2026年12月31日，公司累计现金分红总额不低于8亿元。公司上市以来提升经营质量，更好回报投资者，虽然2026年前三季度出现阶段性亏损，净利润为-6032.34万元，但",
-     "source": "东方财富资讯",
-     "zh": "688717，拟每10股派31.25元！“星云星座计划”发布，太空算力网部署传新进展（附股）"
     },
     {
      "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
@@ -2401,22 +2361,6 @@
      "zh": "Key study for Barrick's Fourmile gold deposit faces uncertain timing, potential delays"
     },
     {
-     "title": "清晨大涨1104点！美联储最新发声",
-     "link": "http://finance.eastmoney.com/news/1344,202611103926676023.html",
-     "pubDate": "Tue, 10 Nov 2026 07:25:28 +0800",
-     "summary": "美股全线大涨！ 北京时间11月10日清晨，美股三大指数集体拉升。截至收盘，道指大涨1104点，涨幅为2.15%，创下7个月来最大单日涨幅； 纳斯达克 指数上涨2.74%，创7月30日以来最大单日涨幅；标普500指数上涨2.35%。 当天，美股迎来利好消息：特朗普淡化对伊朗发动新一轮大规模军事打击的可能性，推动国际油价大幅下跌，进而缓解通胀担忧并提振科技股。 芯片股大幅走高，费城 半导体 指数涨6.85%， 超威半导体 （AMD）涨超13%， 应用材料 涨超11%， 拉姆研究 涨超10%， 博通 涨近9%，ARM、 阿斯麦 涨超6%， 英特尔 涨超5%。 光 通信 、 存储芯片 等AI硬件方向集",
-     "source": "东方财富资讯",
-     "zh": "清晨大涨1104点！美联储最新发声"
-    },
-    {
-     "title": "Corn prices fall to 4-mth low ahead of USDA supply report",
-     "link": "https://seekingalpha.com/news/4669409-corn-prices-fall-to-4-mth-low-ahead-of-usda-supply-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 18:23:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Corn prices fall to 4-mth low ahead of USDA supply report"
-    },
-    {
      "title": "Skydance outlines its $6 billion in planned cost savings. Here&apos;s the breakdown",
      "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
      "pubDate": "Mon, 09 Nov 2026 23:14:38 GMT",
@@ -2431,14 +2375,6 @@
      "summary": "华见早安之声 市场概述 美伊和谈信号重创原油，黄仁勋风波未阻AI交易回暖，标普创七个月最大日涨，和道指均收涨超2%，纳指涨近3%， 芯片指数收涨近7%、两日累计涨11%，AMD涨超10%， 英伟达逆市跌超4% 。SpaceX涨5.5%；AI基础设施股延续上周五反弹，Coherent涨近18%、Bloom Energy和Lumentum涨超10%。 美伊核谈判进展消息后，盘中布油跌近8%，期金涨2% 。美债收益率两连升，脱离一个月低位。美元指数跌落一周高位。 比特币盘中跌破7.4万美元 ，创逾两个月新低。 要闻 中国10月CPI 同比增0.7%，数据存储设备涨45.4%， 10月PPI 同比增5",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年11月10日"
-    },
-    {
-     "title": "Here are the major earnings before the open Tuesday",
-     "link": "https://seekingalpha.com/news/4668908-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 09 Nov 2026 18:00:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "以下是周二开盘前的主要财报"
     },
     {
      "title": "Jensen Huang affair puts Nvidia&apos;s future at risk, with no clear successor to the renowned CEO",
@@ -2473,14 +2409,6 @@
      "zh": "铝市场遭遇供应挤压：LME铝库存创逾30年新低，现货溢价逼近多年高位"
     },
     {
-     "title": "AI电力缺口难填！国产燃机迎出海窗口 7股业绩倍增可期(名单)",
-     "link": "http://finance.eastmoney.com/news/1349,202611103926663866.html",
-     "pubDate": "Tue, 10 Nov 2026 06:43:54 +0800",
-     "summary": "11月9日，AI 电力 需求推动 数据中心 抢购二手与翻新涡轮机，美国新机交付要等六年。 机构认为，全球燃机订单已超产能四成，国产链正迎来出海窗口。 美国新机要等六年，二手涡轮机被抢购 人工智能 行业对 电力 的高需求，正推动 公用事业 公司、开发商与服务商竞相寻找二手或翻新涡轮机，这与当前市场的AI股抛售潮形成鲜明对比。设备服务提供商Ethos Energy首席执行官Ana Amicarella表示，二手市场非常火爆，设备价格正在上涨；能源咨询公司Wood Mackenzie高级分析师Aurora Tenorio则表示，美国市场对 电力 设备的讨论集中在如何于2030年至2031年交付。 供",
-     "source": "东方财富资讯",
-     "zh": "AI电力缺口难填！国产燃机迎出海窗口 7股业绩倍增可期(名单)"
-    },
-    {
      "title": "Hegseth impeachment articles introduced by Rep. Massie",
      "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
      "pubDate": "Mon, 09 Nov 2026 22:41:12 GMT",
@@ -2495,6 +2423,78 @@
      "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
      "source": "CNBC",
      "zh": "3 unexpected reasons the October jobs report was so strong"
+    },
+    {
+     "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+     "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+     "pubDate": "Mon, 09 Nov 2026 22:16:13 GMT",
+     "summary": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
+     "source": "Financial Times",
+     "zh": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang"
+    },
+    {
+     "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+     "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 21:55:00 GMT",
+     "summary": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
+     "source": "MarketWatch",
+     "zh": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal"
+    },
+    {
+     "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+     "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 21:52:00 GMT",
+     "summary": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
+     "source": "MarketWatch",
+     "zh": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet."
+    },
+    {
+     "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+     "pubDate": "Mon, 09 Nov 2026 21:45:00 GMT",
+     "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+     "source": "MarketWatch",
+     "zh": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?"
+    },
+    {
+     "title": "A key report for where inflation stood in October comes out Tuesday. Here&apos;s what to expect",
+     "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+     "pubDate": "Mon, 09 Nov 2026 21:03:55 GMT",
+     "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+     "source": "CNBC",
+     "zh": "A key report for where inflation stood in October comes out Tuesday. Here&apos;s what to expect"
+    },
+    {
+     "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+     "pubDate": "Mon, 9 Nov 2026 21:00:00 GMT",
+     "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+     "source": "Federal Reserve",
+     "zh": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc."
+    },
+    {
+     "title": "FCA explores use of quantum computing to tackle financial crime",
+     "link": "https://www.finextra.com/newsarticle/48730/fca-explores-use-of-quantum-computing-to-tackle-financial-crime?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 09 Nov 2026 20:29:00 GMT",
+     "summary": "The UK's Financial Conduct Authority is bringing together industry players to explore how quantum machine learning could help detect money laundering and fraud",
+     "source": "Finextra",
+     "zh": "FCA explores use of quantum computing to tackle financial crime"
+    },
+    {
+     "title": "How the world became too reliant on Jensen Huang",
+     "link": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
+     "pubDate": "Mon, 09 Nov 2026 17:52:01 GMT",
+     "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
+     "source": "Financial Times",
+     "zh": "How the world became too reliant on Jensen Huang"
+    },
+    {
+     "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
+     "link": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
+     "pubDate": "Mon, 09 Nov 2026 17:02:52 GMT",
+     "summary": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company",
+     "source": "Financial Times",
+     "zh": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?"
     }
    ]
   },

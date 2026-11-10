@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/10 19:34:53",
+ "generated_at": "2026/11/10 19:54:55",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Mitsubishi Electric suppresses frequency dispersion in GaN transistors using GaN substrates",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/mitsubishi-electric-101126.shtml",
+     "pubDate": "Tue, 10 Nov 2026 11:43:14 GMT",
+     "summary": "Tokyo-based Mitsubishi Electric Corp claims that, for the first time in the world, it has elucidated the effects of frequency dispersion (whereby current values and other characteristics of high-frequency devices vary depending on the operating frequency) caused by crystal defects in a gallium nitri",
+     "source": "Semiconductor Today",
+     "zh": "Mitsubishi Electric suppresses frequency dispersion in GaN transistors using GaN substrates"
+    },
+    {
      "title": "onsemi introduces EliteSiC M4 fourth-gen silicon carbide platform, with up to 30% higher power density and 35% lower losses",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/onsemi-101126.shtml",
      "pubDate": "Tue, 10 Nov 2026 11:06:42 GMT",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "On May 13, 2024, OpenAI demonstrated GPT-4o, a model that could carry on a spoken conversation with the timing and inflection of a person. One of its voices, called Sky, was warm, quick and more than a little flirtatious. After the demo, Sam Altman posted a single word on X: “her.” Nobody in the ind",
      "source": "SemiWiki",
      "zh": "Who Owns the Voice in Your Head?"
-    },
-    {
-     "title": "Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth",
-     "link": "https://www.eetimes.com/powering-ai-data-centers-rethinking-energy-infrastructure-for-the-next-wave-of-ai-growth/",
-     "pubDate": "Mon, 09 Nov 2026 14:00:51 +0000",
-     "summary": "AI data centers need faster, resilient power; learn how microgrids, storage, and intelligent controls can ease grid constraints in this partner interview. The post Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth"
     }
    ]
   },
@@ -505,6 +505,22 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "GenRobot AI raises $100 million to expand robot training data infrastructure",
+     "link": "https://roboticsandautomationnews.com/2026/11/10/genrobot-ai-raises-100-million-to-expand-robot-training-data-infrastructure/106905/",
+     "pubDate": "Tue, 10 Nov 2026 11:50:38 +0000",
+     "summary": "Chinese robotics technology company GenRobot AI has raised $100 million in a Series A+ funding round as investment continues to flow into the data infrastructure needed to train increasingly capable robots. The Beijing-based company completed the financing during the third quarter of 2026, with the ",
+     "source": "Robotics & Automation",
+     "zh": "GenRobot AI raises $100 million to expand robot training data infrastructure"
+    },
+    {
+     "title": "Luck Stone builds on autonomous hauling success with Caterpillar",
+     "link": "https://roboticsandautomationnews.com/2026/11/10/luck-stone-builds-on-autonomous-hauling-success-with-caterpillar/106901/",
+     "pubDate": "Tue, 10 Nov 2026 11:38:21 +0000",
+     "summary": "Following more than 18 months of successful autonomous hauling at Luck Stone’s Bull Run Quarry, Luck Stone and Caterpillar are expanding the technology to two additional Virginia operations. The expansion builds on proven results at Bull Run, where autonomous trucks have hauled more than 3.5 million",
+     "source": "Robotics & Automation",
+     "zh": "Luck Stone builds on autonomous hauling success with Caterpillar"
+    },
     {
      "title": "The Human Layer of the Automated Factory: Keeping People Informed on the Floor",
      "link": "https://roboticsandautomationnews.com/2026/11/10/the-human-layer-of-the-automated-factory-keeping-people-informed-on-the-floor/106896/",
@@ -546,22 +562,6 @@ window.INDUSTRY_DATA = {
      "zh": "From TractEasy to TLD Robotics: A new chapter in autonomous airport operations"
     },
     {
-     "title": "Nature Will launches 50-billion-parameter AI model for dexterous robot hands",
-     "link": "https://roboticsandautomationnews.com/2026/11/09/nature-will-launches-50-billion-parameter-ai-model-for-dexterous-robot-hands/106855/",
-     "pubDate": "Mon, 09 Nov 2026 19:39:03 +0000",
-     "summary": "Nature Will, a physical AI lab dedicated to building physical AGI, has announced the launch of Natura-1, a 50-billion-parameter physical general foundation model for dexterous hand control and zero-shot instruction following in advanced robotics applications. Pre-trained on over 1 million hours of e",
-     "source": "Robotics & Automation",
-     "zh": "Nature Will launches 50-billion-parameter AI model for dexterous robot hands"
-    },
-    {
-     "title": "Berkshire Grey unveils enhanced AI capabilities powered by BG Pilot software",
-     "link": "https://roboticsandautomationnews.com/2026/11/09/berkshire-grey-unveils-enhanced-ai-capabilities-powered-by-bg-pilot-software/106852/",
-     "pubDate": "Mon, 09 Nov 2026 19:33:03 +0000",
-     "summary": "Berkshire Grey, a wholly owned subsidiary of SoftBank Group, has announced new AI-enabled enhancements across its robotic automation portfolio, powered by BG Pilot software (BG Pilot), the company’s unified AI software platform. The enhancements span advanced perception for robotic trailer unloading",
-     "source": "Robotics & Automation",
-     "zh": "Berkshire Grey unveils enhanced AI capabilities powered by BG Pilot software"
-    },
-    {
      "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
      "link": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
      "pubDate": "Mon, 09 Nov 2026 18:34:38 +0000",
@@ -578,12 +578,12 @@ window.INDUSTRY_DATA = {
      "zh": "How to minimize Wi-Fi roaming interruptions for autonomous mobile robots"
     },
     {
-     "title": "Can Agentic Robotics Solve Robotics’ Data Scaling Problem?",
+     "title": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
      "link": "https://spectrum.ieee.org/agentic-robotics",
      "pubDate": "Mon, 09 Nov 2026 14:00:02 +0000",
      "summary": "Robotics companies are investing heavily in the belief that data will solve the most difficult problems in robotics. Once AI systems have ingested enough data from human demonstrations, the thinking goes, robots will be able to perform the vast majority of the manual tasks that humans now do. There ",
      "source": "IEEE Spectrum 机器人",
-     "zh": "Can Agentic Robotics Solve Robotics’ Data Scaling Problem?"
+     "zh": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?"
     },
     {
      "title": "ARM Institute consortium grows to more than 500 organizations",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Italian startup plans offshore gravity storage projects",
+     "link": "https://www.pv-magazine.com/2026/11/10/italian-startup-plans-offshore-gravity-storage-projects/",
+     "pubDate": "Tue, 10 Nov 2026 11:43:25 +0000",
+     "summary": "Italian company Sizable Energy is developing a long-duration offshore energy storage system that uses deep-sea brine reservoirs to store electricity, with its first commercial projects planned for Calabria and Sicily and a demonstrator linked to a data center in Naples scheduled for 2027. The post I",
+     "source": "pv magazine",
+     "zh": "Italian startup plans offshore gravity storage projects"
+    },
+    {
      "title": "U.S. Military Coordinates With Saudi Oil Tankers on Risky Hormuz Crossings",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Military-Coordinates-With-Saudi-Oil-Tankers-on-Risky-Hormuz-Crossings.html",
      "pubDate": "Tue, 10 Nov 2026 05:30:00 -0600",
@@ -1010,14 +1018,6 @@ window.INDUSTRY_DATA = {
      "zh": "Chicago program helps people transition from prison to solar jobs"
     },
     {
-     "title": "Bosch unveils residential air-to-air heat pumps",
-     "link": "https://www.pv-magazine.com/2026/11/10/bosch-unveils-residential-air-to-air-heat-pumps/",
-     "pubDate": "Tue, 10 Nov 2026 08:18:03 +0000",
-     "summary": "Bosch has introduced a new range of residential air-to-air heat pumps under its York brand, featuring fully modulating inverter compressors. The systems offer noise levels as low as 56 dB(A), while cold-climate variants can operate at outdoor temperatures down to −25 C. The post Bosch unveils reside",
-     "source": "pv magazine",
-     "zh": "Bosch unveils residential air-to-air heat pumps"
-    },
-    {
      "title": "LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Traffic-Through-Hormuz-Hits-Highest-Level-Since-Iran-War-Began.html",
      "pubDate": "Tue, 10 Nov 2026 00:45:00 -0600",
@@ -1082,12 +1082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Arizona’s longest-tenured utility commissioner on large loads, affordability and Western markets"
     },
     {
-     "title": "PPL increases capital plan to $25B with proposed Kentucky gas plant",
-     "link": "https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/",
-     "pubDate": "Mon, 09 Nov 2026 11:38:05 -0500",
-     "summary": "The company projects some 50 GW of potential load growth, mostly from data centers, across Kentucky and Pennsylvania.&nbsp;CEO Vincent Sorgi suggested those states could see a influx of projects due to restrictions in other regions.",
-     "source": "Utility Dive",
-     "zh": "PPL increases capital plan to $25B with proposed Kentucky gas plant"
+     "title": "Global Solar Council to unveil 300 million solar rooftop declaration at COP31",
+     "link": "https://www.pv-tech.org/global-solar-council-to-unveil-rooftop-solar-declaration-at-cop31-as-governments-commit-to-300m-solar-homes/",
+     "pubDate": "Mon, 09 Nov 2026 15:11:11 +0000",
+     "summary": "The Global Solar Council is set to unveil a ‘global rooftop solar declaration’ committing governments worldwide to 300 million new solar homes.",
+     "source": "PV Tech",
+     "zh": "Global Solar Council to unveil 300 million solar rooftop declaration at COP31"
     }
    ]
   },
@@ -1754,6 +1754,78 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "友望 S20 洗地机 2499 → 386 元低过闲鱼，推入式基站更方便 + IPX6 级随便冲洗",
+     "link": "https://www.ithome.com/1/025/128.htm",
+     "pubDate": "Tue, 10 Nov 2026 11:46:27 GMT",
+     "summary": "【京东活动可能随时变更，需以实付款为准】 友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 386.11 元： 领 200-20 元券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 PLUS 会员凑单 1 件（ 示例凑单品 ），下单后可立即退款。 晒单再返 100 元 E 卡。 京东 友望 S20 灵犀推入式洗地机 180° 躺平 毛发防缠绕系统 凑单后 486.11 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持",
+     "source": "IT之家",
+     "zh": "友望 S20 洗地机 2499 → 386 元低过闲鱼，推入式基站更方便 + IPX6 级随便冲洗"
+    },
+    {
+     "title": "Sources: Jensen Huang and Alice Huang&apos;s relationship dates back to at least 2023, facilitating $7.5B+ in Nvidia chip shipments via Chinese companies since then (The Information)",
+     "link": "https://www.techmeme.com/261110/p13#a261110p13",
+     "pubDate": "Tue, 10 Nov 2026 06:45:02 -0500",
+     "summary": "The Information : Sources: Jensen Huang and Alice Huang's relationship dates back to at least 2023, facilitating $7.5B+ in Nvidia chip shipments via Chinese companies since then &nbsp; &mdash;&nbsp; The relationship between Nvidia CEO Jensen Huang and Alice Huang, the woman that the U.S. government ",
+     "source": "Techmeme",
+     "zh": "Sources: Jensen Huang and Alice Huang&apos;s relationship dates back to at least 2023, facilitating $7.5B+ in Nvidia chip shipments via Chinese companies since then (The Information)"
+    },
+    {
+     "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+     "link": "https://www.ithome.com/1/025/127.htm",
+     "pubDate": "Tue, 10 Nov 2026 11:40:20 GMT",
+     "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元 （IT之家注：现汇率约合 4,306.16 亿元人民币） ，并准备启动上市推介。 招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者 融资 260 亿美元 （现汇率约合 1,738.51 亿元人民币） 。计入博通、美光、微软和台积电等其他基石投资者的出资后，Anthropic 此次股票发行的 募资规模最高可达 904 亿美元 （现汇率约合 6,044.67 亿元人民币） 。 ",
+     "source": "IT之家",
+     "zh": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即"
+    },
+    {
+     "title": "Anthropic launches its IPO roadshow, saying it plans to sell 825M shares of Class A common stock priced at $70 to $78 each, listing on the Nasdaq under ANT. (Anthropic)",
+     "link": "https://www.techmeme.com/261110/p12#a261110p12",
+     "pubDate": "Tue, 10 Nov 2026 06:40:01 -0500",
+     "summary": "Anthropic : Anthropic launches its IPO roadshow, saying it plans to sell 825M shares of Class A common stock priced at $70 to $78 each, listing on the Nasdaq under ANT. &nbsp; &mdash;&nbsp; Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stoc",
+     "source": "Techmeme",
+     "zh": "Anthropic launches its IPO roadshow, saying it plans to sell 825M shares of Class A common stock priced at $70 to $78 each, listing on the Nasdaq under ANT. (Anthropic)"
+    },
+    {
+     "title": "原生支持 3D 高斯泼溅，免费开源 3D 创作软件 Blender 5.3 发布",
+     "link": "https://www.ithome.com/1/025/126.htm",
+     "pubDate": "Tue, 10 Nov 2026 11:38:34 GMT",
+     "summary": "IT之家 11 月 10 日消息，免费开源 3D 创作软件 Blender 5.3 现已正式发布。新版本加入了原生 3D 高斯泼溅（Gaussian Splatting）支持，Linux 平台默认图形后端切换为 Vulkan，同时带来了全新的项目管理功能，以及渲染和视频剪辑工具方面的多项改进。 对于 Linux 用户来说，此次更新最显著的变化是 Vulkan 现已取代 OpenGL，成为默认图形后端。Windows 版本也进行了相同调整，但 ARM 设备除外。此外，新版本将 Vulkan 的最低版本要求降低至 1.1，并将部分 GPU 和驱动程序功能调整为可选项，以提升对不同硬件的兼容性。 B",
+     "source": "IT之家",
+     "zh": "原生支持 3D 高斯泼溅，免费开源 3D 创作软件 Blender 5.3 发布"
+    },
+    {
+     "title": "打工人还在等晴天，全中国的秋假娃已经占领了北京",
+     "link": "https://www.huxiu.com/article/4904529.html?f=rss",
+     "pubDate": "Tue, 10 Nov 2026 19:36:06 +0800",
+     "summary": "本文来自微信公众号： 闻旅 ，作者：柳知，编辑：Sette 1 朋友最近出差回北京。 发现平时不难买的车次，这次车票早早卖光了。车厢里，多了不少趁秋假带孩子来北京玩的家庭。 出了火车站转地铁，明明不是早晚通勤高峰的时间，座位也坐得满满当当，行李箱随处可见。 社交平台上，专门挑淡季来北京的游客也有点懵：避开了国庆，没避开秋假。 有人感叹，自己千挑万选的淡季，被秋假打破了。 现在的故宫在装修，国博凤冠也不展出，想去的地方各有各的遗憾，环球则是实打实的人多。 北京打工人也加入了讨论：这两天地铁里，都快没地方站了，行李箱随处可见。 原以为国庆过后，总该轮到北京旅游松口气了。结果，秋假娃来了。 游客在找",
+     "source": "虎嗅",
+     "zh": "打工人还在等晴天，全中国的秋假娃已经占领了北京"
+    },
+    {
+     "title": "BT CEO Allison Kirkby says a Starlink deal is \"ready to launch\" but the company is \"cautious on how Starlink might be viewed\" after the Ukraine service cutoff (Kieran Smith/Financial Times)",
+     "link": "https://www.techmeme.com/261110/p11#a261110p11",
+     "pubDate": "Tue, 10 Nov 2026 06:35:01 -0500",
+     "summary": "Kieran Smith / Financial Times : BT CEO Allison Kirkby says a Starlink deal is &ldquo;ready to launch&rdquo; but the company is &ldquo;cautious on how Starlink might be viewed&rdquo; after the Ukraine service cutoff &nbsp; &mdash;&nbsp; Launch will not proceed until &lsquo;noise has died down&rsquo;",
+     "source": "Techmeme",
+     "zh": "BT CEO Allison Kirkby says a Starlink deal is \"ready to launch\" but the company is \"cautious on how Starlink might be viewed\" after the Ukraine service cutoff (Kieran Smith/Financial Times)"
+    },
+    {
+     "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
+     "link": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
+     "pubDate": "Tue, 10 Nov 2026 11:30:00 +0000",
+     "summary": "The outspoken consumer rights advocate knows the incoming Democrat-heavy Congress has a lot to get done. But he hopes one of those things is letting you fix your own iPhone.",
+     "source": "WIRED",
+     "zh": "Louis Rossmann Wants More People to Care About the Right to Repair"
+    },
+    {
+     "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
+     "link": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
+     "pubDate": "Tue, 10 Nov 2026 11:30:00 +0000",
+     "summary": "Let your friend pick out their own hiking boots. For their next trip into the wild, try gifting a useful blade, merino socks, moka pot, or a nature journal.",
+     "source": "WIRED",
+     "zh": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)"
+    },
+    {
      "title": "NASA 两艘探测器完成特殊地球引力弹弓机动，正式奔赴火星",
      "link": "https://www.ithome.com/1/025/124.htm",
      "pubDate": "Tue, 10 Nov 2026 11:29:46 GMT",
@@ -1765,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "DOOGEE 预热 Note60 W 阔直板手机计划 12 月中旬上市，搭 6.38 英寸 90Hz 16:10 比例面板",
      "link": "https://www.ithome.com/1/025/123.htm",
      "pubDate": "Tue, 10 Nov 2026 11:25:42 GMT",
-     "summary": "IT之家 11 月 10 日消息，据 DOOGEE 公众号，DOOGEE 首款 16:10 阔面直屏手机 Note60 W 将于 2026 年 12 月中旬正式上市。 据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打破传统屏幕比例；机身厚度约 8.4mm，内置 6500mAh 大容量电池；同时预装最新 Android 17 系统。 值得一提的是，从官方公布的宣传海报来看，DOOGEE Note60 W 的外观与华为 Pura X View 极为相似，包括背部的相机模组造型、摄像头排布、条纹设计、品牌 LOGO 位置和机型壁纸。不过 DOOGEE 新",
+     "summary": "IT之家 11 月 10 日消息，据 DOOGEE 公众号，DOOGEE 首款 16:10 阔面直屏手机 Note60 W 将于 2026 年 12 月中旬正式上市。 据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打破传统屏幕比例；机身厚度约 8.4mm，搭载紫光展锐 T7250 处理器，内置 6500mAh 大容量电池；同时预装最新 Android 17 系统。 值得一提的是，从官方公布的宣传海报来看，DOOGEE Note60 W 的外观与华为 Pura X View 极为相似，包括背部的相机模组造型、摄像头排布、条纹设计、品牌 LOGO 位置",
      "source": "IT之家",
      "zh": "DOOGEE 预热 Note60 W 阔直板手机计划 12 月中旬上市，搭 6.38 英寸 90Hz 16:10 比例面板"
     },
@@ -1778,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "号称行业首个具身全模态端到端交互大模型，智元发布 WITA-Omni"
     },
     {
-     "title": "华为：鸿蒙电脑应用数量已突破 2.1 万款，通用办公基本盘稳固、多款专业软件已完成适配",
-     "link": "https://www.ithome.com/1/025/121.htm",
-     "pubDate": "Tue, 10 Nov 2026 11:22:07 GMT",
-     "summary": "IT之家 11 月 10 日消息，华为宣布旗下鸿蒙电脑应用数量已正式突破 2.1 万款，通用办公基本盘稳固，AI 赛道快速崛起，多款专业电脑应用也逐步向鸿蒙平台延伸，形成兼顾便携与专业的移动办公体验。 华为表示，目前 WPS Office、钉钉、飞书、企业微信等头部应用已全面适配鸿蒙系统，WorkBuddy、豆包、豆包办公、千问等应用陆续上架，千问办公三端一致首发上架鸿蒙电脑，可为鸿蒙电脑带来全场景 AI 体验。 同时，中望 CAD、中望 3D、MWORKS、悟空图像等专业软件已完成适配鸿蒙系统，填补工程设计、科学仿真等国产电脑生态空白，迎来自主工业软件窗口期。 在开源共建层面，华为联合生态伙",
-     "source": "IT之家",
-     "zh": "华为：鸿蒙电脑应用数量已突破 2.1 万款，通用办公基本盘稳固、多款专业软件已完成适配"
-    },
-    {
      "title": "Claude Fable 5又炸到谁了？",
      "link": "https://www.huxiu.com/article/4904502.html?f=rss",
      "pubDate": "Tue, 10 Nov 2026 19:21:17 +0800",
@@ -1794,12 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "Claude Fable 5又炸到谁了？"
     },
     {
-     "title": "Draft prospectus: Anthropic&apos;s IPO is set to raise up to $64.4B, pricing shares at $70 to $78 each; Anthropic will also raise $26B via cornerstone investors (Echo Wang/Reuters)",
+     "title": "IPO prospectus: Anthropic&apos;s IPO is set to raise up to $64.4B, and the company will also raise $26B via cornerstone investors like Google, AMD, and Nvidia (Echo Wang/Reuters)",
      "link": "https://www.techmeme.com/261110/p10#a261110p10",
      "pubDate": "Tue, 10 Nov 2026 06:20:00 -0500",
-     "summary": "Echo Wang / Reuters : Draft prospectus: Anthropic's IPO is set to raise up to $64.4B, pricing shares at $70 to $78 each; Anthropic will also raise $26B via cornerstone investors &nbsp; &mdash;&nbsp; Anthropic's IPO is set to raise as much as $64.4 billion, according to the latest draft prospectus se",
+     "summary": "Echo Wang / Reuters : IPO prospectus: Anthropic's IPO is set to raise up to $64.4B, and the company will also raise $26B via cornerstone investors like Google, AMD, and Nvidia &nbsp; &mdash;&nbsp; Anthropic's IPO is set to raise as much as $64.4 billion, a regulatory filing showed on Tuesday, in a l",
      "source": "Techmeme",
-     "zh": "Draft prospectus: Anthropic&apos;s IPO is set to raise up to $64.4B, pricing shares at $70 to $78 each; Anthropic will also raise $26B via cornerstone investors (Echo Wang/Reuters)"
+     "zh": "IPO prospectus: Anthropic&apos;s IPO is set to raise up to $64.4B, and the company will also raise $26B via cornerstone investors like Google, AMD, and Nvidia (Echo Wang/Reuters)"
     },
     {
      "title": "泰版《步步惊心》宫斗变“村斗”，国产剧海外改编也难？",
@@ -1816,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 在美国，争取科研预算曾有一张屡试不爽的牌——追赶中国。从国会议员到科研机构，不少声音都在强调中国研发投入增长带来的竞争压力。但随着中国科研实力持续提升，简单以对华竞争为由要求增加经费已经越来越难以服众。这套延续多年的说辞，如今为何逐渐失去说服力？ 美国企业研究所（AEI）非驻会高级研究员Roger Pielke Jr.撰文指出，以中国为由争取更多科研经费，无论作为政治动员还是政策策略，都难以奏效。文章从投入规模、科研方向和公众信任三个层面，分析美国研发体系面临的困境，并进一步探讨科研投入如何真正转化为公众看得见的收益。作者",
      "source": "虎嗅",
      "zh": "从科研投入到公众信任，美国研发体系的三重困境"
-    },
-    {
-     "title": "海贝推出 HIBY FC4 屏幕版解码耳放：双 CS43131 DAC 芯片、配 1.1 英寸 OLED 面板，首发价 311 元",
-     "link": "https://www.ithome.com/1/025/113.htm",
-     "pubDate": "Tue, 10 Nov 2026 11:15:35 GMT",
-     "summary": "IT之家 11 月 10 日消息，海贝现已在京东上架 HIBY FC4 屏幕版解码耳放，定价为 336 元， 首发价 311 元 。 京东 HiBy 海贝 FC4 屏幕版耳放 券后 311 元 领 25 元券 该产品尺寸为 63x26x13mm，重量约 21g，提供黑色、银色和绿色三种配色可选，整体采用赛博机甲风格设计，正面配备一块 1.1 英寸 OLED 彩色显示屏，可直观显示设备的运行状态与音频参数，机身侧边配有 30 级实体硬件音量按键与功能键，并具备音量记忆功能。 该机采用双 CS43131 DAC 芯片，结合 45.1584MHz 与 49.152MHz 两颗专用音频晶振，以降低时钟",
-     "source": "IT之家",
-     "zh": "海贝推出 HIBY FC4 屏幕版解码耳放：双 CS43131 DAC 芯片、配 1.1 英寸 OLED 面板，首发价 311 元"
     },
     {
      "title": "违约与天价大单齐飞，燃气轮机一机难求、二手货遭疯抢",
@@ -1848,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ethan Mollick / One Useful Thing : Anthropic's Fable 5.2 represents &ldquo;Jagged AGI&rdquo; that matches human expert levels on select tasks like game design, but lacks self-directed judgment and taste &nbsp; &mdash;&nbsp; General, often expert, and sometimes jagged &hellip; I have had the chance t",
      "source": "Techmeme",
      "zh": "Anthropic&apos;s Fable 5.2 represents \"Jagged AGI\" that matches human expert levels on select tasks like game design, but lacks self-directed judgment and taste (Ethan Mollick/One Useful Thing)"
-    },
-    {
-     "title": "年底了，“脑机量产元年”怎么没人提了？",
-     "link": "https://www.huxiu.com/article/4904516.html?f=rss",
-     "pubDate": "Tue, 10 Nov 2026 19:07:10 +0800",
-     "summary": "本文来自微信公众号： 第四波 ，编辑：王晓，作者：白岩 2026年，脑机接口产业化进程明显提速。 年初，脑虎科技在江西开建超级工厂，规划万套级交付能力；阶梯医疗同步搭建制造平台，补齐医疗级MEMS器件的生产与测试链条。与此同时，博睿康NEO拿到国内首张侵入式脑机接口三类医疗器械注册证，产品正式走出临床试验阶段，向着商业化落地迈进。 建厂扩产、临床推进、融资持续火热，再叠加政策扶持与资本加持，“量产元年”一度成为机构与业内人士讨论产业时的高频词。 开源证券3月发布研报，直言2026脑机量产元年已至；西南证券5月发文判断，产业正式从“讲故事”转向“看产出”；浙商证券7月进一步预判，今年有望成为侵入",
-     "source": "虎嗅",
-     "zh": "年底了，“脑机量产元年”怎么没人提了？"
     },
     {
      "title": "生成式 AI 过度美化现实",
@@ -1901,31 +1949,15 @@ window.INDUSTRY_DATA = {
      "title": "What Constant Surveillance Is Doing to Children",
      "link": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
      "pubDate": "Tue, 10 Nov 2026 10:47:18 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/ Comments URL: https://news.ycombinator.com/item?id=50438480 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/ Comments URL: https://news.ycombinator.com/item?id=50438480 Points: 18 # Comments: 8",
      "source": "Hacker News",
      "zh": "What Constant Surveillance Is Doing to Children"
-    },
-    {
-     "title": "Meet the Sad Wives of AI",
-     "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-     "pubDate": "Tue, 10 Nov 2026 10:40:51 +0000",
-     "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50438429 Points: 37 # Comments: 22",
-     "source": "Hacker News",
-     "zh": "Meet the Sad Wives of AI"
-    },
-    {
-     "title": "Sources: Nvidia board member and ex-Cooley CEO Stephen C Neal will probably lead the probe; Nvidia&apos;s corporate docs make no reference to \"succession planning\" (Financial Times)",
-     "link": "https://www.techmeme.com/261110/p7#a261110p7",
-     "pubDate": "Tue, 10 Nov 2026 05:40:01 -0500",
-     "summary": "Financial Times : Sources: Nvidia board member and ex-Cooley CEO Stephen C Neal will probably lead the probe; Nvidia's corporate docs make no reference to &ldquo;succession planning&rdquo; &nbsp; &mdash;&nbsp; Chipmaker's co-founder has no obvious successor as leader of world's second-largest compan",
-     "source": "Techmeme",
-     "zh": "Sources: Nvidia board member and ex-Cooley CEO Stephen C Neal will probably lead the probe; Nvidia&apos;s corporate docs make no reference to \"succession planning\" (Financial Times)"
     },
     {
      "title": "AI usage generates a fragile codebase",
      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
      "pubDate": "Tue, 10 Nov 2026 10:25:58 +0000",
-     "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 7 # Comments: 2",
+     "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 44 # Comments: 26",
      "source": "Hacker News",
      "zh": "AI usage generates a fragile codebase"
     },
@@ -1960,38 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "方兴未艾，暗流涌动。",
      "source": "钛媒体",
      "zh": "管窥AI游戏的产业现状，从Roblox这份“意外”的财报"
-    },
-    {
-     "title": "美女陪打LOL，腾讯入局AI游戏陪伴，会走米哈游的老路吗？",
-     "link": "https://www.tmtpost.com/8199749.html",
-     "pubDate": "Tue, 10 Nov 2026 18:05:53 +0800",
-     "summary": "行业长期趋势看，AI陪伴赛道已经告别“只要有好看数字人、会聊天就能吸引用户”的早期幻想。",
-     "source": "钛媒体",
-     "zh": "美女陪打LOL，腾讯入局AI游戏陪伴，会走米哈游的老路吗？"
-    },
-    {
-     "title": "百万销量只用了两年，这款中国车的成功能复制吗？",
-     "link": "https://www.tmtpost.com/8199891.html",
-     "pubDate": "Tue, 10 Nov 2026 18:05:49 +0800",
-     "summary": "价值战才能成就经典。",
-     "source": "钛媒体",
-     "zh": "百万销量只用了两年，这款中国车的成功能复制吗？"
-    },
-    {
-     "title": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane",
-     "link": "https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
-     "pubDate": "Tue, 10 Nov 2026 10:00:00 +0000",
-     "summary": "NASA announced the development of an experimental aircraft designed to explore new flight capabilities, although details about its design and operation remain under wraps.",
-     "source": "WIRED",
-     "zh": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane"
-    },
-    {
-     "title": "销量太好，Coach现在都不怎么想卖低价包了",
-     "link": "https://www.tmtpost.com/8199982.html",
-     "pubDate": "Tue, 10 Nov 2026 17:57:27 +0800",
-     "summary": "牢牢守住定价权。",
-     "source": "钛媒体",
-     "zh": "销量太好，Coach现在都不怎么想卖低价包了"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Your Galaxy phone could soon let you record WhatsApp, Telegram, and Google Meet calls",
+     "link": "https://www.androidauthority.com/one-ui-9-5-call-record-third-party-apps-leak-3733329/",
+     "pubDate": "Tue, 10 Nov 2026 11:36:37 +0000",
+     "summary": "One UI 9.5 could finally add native support for recording calls in third-party apps.",
+     "source": "Android Authority",
+     "zh": "Your Galaxy phone could soon let you record WhatsApp, Telegram, and Google Meet calls"
+    },
     {
      "title": "One UI 9.5 may introduce multiple new input options to Bixby widgets",
      "link": "https://www.androidauthority.com/samsung-one-ui-9-5-bixby-widgets-notes-3733294/",
@@ -2072,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "We've heard multiple rumors about the Samsung Galaxy S27 lineup's cameras in the past few months. Now we have new information detailing the camera setup of the S27 series, expected to include four models - the Galaxy S27, the Galaxy S27+, the Galaxy S27 Pro, and the Galaxy S27 Ultra. According to th",
      "source": "GSMArena",
      "zh": "Samsung Galaxy S27 series' cameras detailed, Pro to get a lower resolution telephoto than previously rumored"
-    },
-    {
-     "title": "Google’s 2027 foldable app push has readers hopeful, but not convinced",
-     "link": "https://www.androidauthority.com/google-play-store-incentives-foldable-phone-apps-poll-results-3733255/",
-     "pubDate": "Tue, 10 Nov 2026 08:56:19 +0000",
-     "summary": "Next year could usher in an era of optimized foldable phone apps should Google's plans materialize.",
-     "source": "Android Authority",
-     "zh": "Google’s 2027 foldable app push has readers hopeful, but not convinced"
     },
     {
      "title": "社区速递 165 | 透明工牌与派友十月购物清单",
@@ -2250,6 +2250,126 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Analysts are cautious on Lucid Group after earnings",
+     "link": "https://seekingalpha.com/news/4669639-analysts-are-cautious-on-lucid-group-after-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 06:48:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Analysts are cautious on Lucid Group after earnings"
+    },
+    {
+     "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches towards Nasdaq",
+     "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+     "pubDate": "Tue, 10 Nov 2026 11:47:54 GMT",
+     "summary": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
+     "source": "CNBC",
+     "zh": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches towards Nasdaq"
+    },
+    {
+     "title": "Sally Beauty Non-GAAP EPS of $0.62 beats by $0.02, revenue of $952.5M beats by $2.42M, issues FY guidance above consensus",
+     "link": "https://seekingalpha.com/news/4669642-sally-beauty-non-gaap-eps-of-062-beats-by-002-revenue-of-9525m-beats-by-242m-issues-fy-guidance-above-consensus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 06:47:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sally Beauty Non-GAAP EPS of $0.62 beats by $0.02, revenue of $952.5M beats by $2.42M, issues FY guidance above consensus"
+    },
+    {
+     "title": "Anthropic：预计在IPO发行价定为74美元（发行价格区间中点）并计入绿鞋机制及私募配售后，将获得937亿美元的净募资额",
+     "link": "http://hk.eastmoney.com/news/1533,202611103927479065.html",
+     "pubDate": "Tue, 10 Nov 2026 19:46:37 +0800",
+     "summary": "Anthropic：预计在IPO发行价定为74美元（发行价格区间中点）并计入绿鞋机制及私募配售后，将获得937亿美元的净募资额。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Anthropic：预计在IPO发行价定为74美元（发行价格区间中点）并计入绿鞋机制及私募配售后，将获得937亿美元的净募资额"
+    },
+    {
+     "title": "Anthropic：承诺支出中包括将在2030年12月31日之前发生的4516亿美元",
+     "link": "http://hk.eastmoney.com/news/1533,202611103927478991.html",
+     "pubDate": "Tue, 10 Nov 2026 19:46:18 +0800",
+     "summary": "Anthropic：承诺支出中包括将在2030年12月31日之前发生的4516亿美元。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Anthropic：承诺支出中包括将在2030年12月31日之前发生的4516亿美元"
+    },
+    {
+     "title": "Anthropic：公司已承诺支出总额约为9,009亿美元",
+     "link": "http://hk.eastmoney.com/news/1533,202611103927478732.html",
+     "pubDate": "Tue, 10 Nov 2026 19:46:03 +0800",
+     "summary": "Anthropic：公司已承诺支出总额约为9,009亿美元。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Anthropic：公司已承诺支出总额约为9,009亿美元"
+    },
+    {
+     "title": "【调研快报】杰理科技接待广东上市公司协会等4家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611103927478596.html",
+     "pubDate": "Tue, 10 Nov 2026 19:45:52 +0800",
+     "summary": "杰理科技 11月10日公告称， 11月9日 接待广东上市公司协会 等4家机构 调研。 接待人员包括副总经理 张启明,董事会秘书 胡向军,财务总监 李红岩,证券事务代表 毛孟黎。 公司就以下问题进行了回复： 本次投资者关系活动的主要问题及公司回复概要情况如下: 问题1:公司端侧 AI芯片 系列目前的技术迭代情况,后续还有哪些新产品规划? 回答:公司JL280N/JL380N/JL681N端侧 AI芯片 已经实现客户批量立项导入,芯片集成自研NPU单元,采用双核CPU+DSP异构架构,算力和功耗实现较好平衡,支持... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，",
+     "source": "东方财富股票",
+     "zh": "【调研快报】杰理科技接待广东上市公司协会等4家机构调研"
+    },
+    {
+     "title": "Anthropic：预计IPO将于下周三确定发行价格，并于下周四开始交易",
+     "link": "http://hk.eastmoney.com/news/1533,202611103927478689.html",
+     "pubDate": "Tue, 10 Nov 2026 19:45:43 +0800",
+     "summary": "Anthropic：预计IPO将于下周三确定发行价格，并于下周四开始交易。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Anthropic：预计IPO将于下周三确定发行价格，并于下周四开始交易"
+    },
+    {
+     "title": "Anthropic：截至9月30日之后的12个月内，公司有约707亿美元的承诺款项到期",
+     "link": "http://hk.eastmoney.com/news/1533,202611103927478425.html",
+     "pubDate": "Tue, 10 Nov 2026 19:45:22 +0800",
+     "summary": "Anthropic：截至9月30日之后的12个月内，公司有约707亿美元的承诺款项到期。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Anthropic：截至9月30日之后的12个月内，公司有约707亿美元的承诺款项到期"
+    },
+    {
+     "title": "Brightstar Lottery reports mixed Q3 results; updates FY26 outlook",
+     "link": "https://seekingalpha.com/news/4669641-brightstar-lottery-reports-mixed-q3-results-updates-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 06:44:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Brightstar Lottery reports mixed Q3 results; updates FY26 outlook"
+    },
+    {
+     "title": "The Trade Desk adds $731M to buyback authorization after Q3 results",
+     "link": "https://seekingalpha.com/news/4669610-the-trade-desk-adds-731m-to-buyback-authorization-after-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 06:42:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The Trade Desk adds $731M to buyback authorization after Q3 results"
+    },
+    {
+     "title": "贵州茅台业绩说明会：压货模式改了 还这样回应毛利率下降",
+     "link": "http://finance.eastmoney.com/news/1345,202611103927476690.html",
+     "pubDate": "Tue, 10 Nov 2026 19:39:09 +0800",
+     "summary": "11月10日， 贵州茅台 （600519）以网络方式召开2026年第三季度业绩说明会，上市公司董事王莉（代行总经理职责）、财务总监兼董秘余思明等高管出席参与交流，回应了压货模式、预收账款、毛利率、国际化、中期分红等核心问题。 三季报显示， 贵州茅台 前三季度营业收入1309.71亿元，同比增长1.96%，净利润644.67亿元，同比微降0.25%；第三季度单季营收回升至402.67亿元，净利润199.51亿元，分别同比增长3.08%和3.78%。 业绩回暖的同时，茅台高管对自身运营逻辑的表述也有所转向。会上，王莉明确表示，预收账款的规模大小已不再是衡量市场供求态势的主要指标。 改变渠道传统“压",
+     "source": "东方财富资讯",
+     "zh": "贵州茅台业绩说明会：压货模式改了 还这样回应毛利率下降"
+    },
+    {
+     "title": "Nvidia CEO's alleged affair helped facilitate $7.5B in chip shipments to China: report",
+     "link": "https://seekingalpha.com/news/4669625-nvidia-ceos-alleged-affair-helped-facilitate-75b-in-chip-shipments-to-china-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 06:39:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia CEO's alleged affair helped facilitate $7.5B in chip shipments to China: report"
+    },
+    {
+     "title": "Lithium Argentina GAAP EPS of $0.08 in-line",
+     "link": "https://seekingalpha.com/news/4669638-lithium-argentina-gaap-eps-of-0_08-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 06:38:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lithium Argentina GAAP EPS of $0.08 in-line"
+    },
+    {
+     "title": "11月10日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202611103927469391.html",
+     "pubDate": "Tue, 10 Nov 2026 19:32:45 +0800",
+     "summary": "沪深两市多家上市公司11月10日晚间发布公司公告，以下为重要公告汇总。 【品大事】 金溢科技 ：拟2160万元收购信联支付12%股权 深化智慧交通生态布局 金溢科技 (002869)11月10日公告，公司拟以现金2160万元，收购 山东高速 信联支付有限公司（简称“信联支付”）12%的股权。交易完成后，公司持有信联支付的股权将由23%增加至35%，信联支付仍为公司的参股公司。公司此次收购信联支付部分股权，系深化智慧交通生态布局的重要举措。完成股权增持后，公司将进一步加深双方业务场景绑定，打通硬件终端、支付结算、车后服务完整产业链路，同时巩固核心渠道资源、稳定并增厚参股分红收益，实现产业协同与投",
+     "source": "东方财富资讯",
+     "zh": "11月10日晚间沪深上市公司重大事项公告最新快递"
+    },
+    {
      "title": "Nvidia stock edges higher as investors weigh potential fallout of CEO&apos;s affair with alleged spy",
      "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
      "pubDate": "Tue, 10 Nov 2026 11:28:37 GMT",
@@ -2258,100 +2378,20 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia stock edges higher as investors weigh potential fallout of CEO&apos;s affair with alleged spy"
     },
     {
-     "title": "iA Financial reports Q3 results",
-     "link": "https://seekingalpha.com/news/4669627-ia-financial-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 06:27:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "iA Financial reports Q3 results"
+     "title": "史上最大IPO要来了？上市前夕再推新模型 万亿美元估值面临考验",
+     "link": "http://finance.eastmoney.com/news/1354,202611103927468337.html",
+     "pubDate": "Tue, 10 Nov 2026 19:26:47 +0800",
+     "summary": "据中证海外资讯，Anthropic计划于下周进行IPO，市场此前曾预期公司估值有望超过1万亿美元，募资规模最高可达1000亿美元。如果这一募资规模最终实现，Anthropic将超越今年6月募资的 SpaceX ，创下全球IPO规模的新纪录。 不过，近期美股AI板块的动荡走势，给这单备受瞩目的IPO增添了几分变数。 上市前夕再推新模型 Anthropic成立于2021年，总部位于美国旧金山，由OpenAI前高管达里奥·阿莫迪、丹妮拉·阿莫迪等人共同创立。 目前，Anthropic旗下的Claude是欧美市场主流AI大模型产品之一。根据Anthropic向美国证券交易委员会（SEC）提交的招股说明",
+     "source": "东方财富资讯",
+     "zh": "史上最大IPO要来了？上市前夕再推新模型 万亿美元估值面临考验"
     },
     {
-     "title": "Clearway Energy declares $0.4824 dividend",
-     "link": "https://seekingalpha.com/news/4669628-clearway-energy-declares-0_4824-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 06:26:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Clearway Energy declares $0.4824 dividend"
-    },
-    {
-     "title": "俄罗斯外长拉夫罗夫：俄罗斯不会同意欧洲提出的立即在乌克兰实现停火的要求",
-     "link": "http://hk.eastmoney.com/news/1533,202611103927464936.html",
-     "pubDate": "Tue, 10 Nov 2026 19:26:12 +0800",
-     "summary": "俄罗斯外长拉夫罗夫：俄罗斯不会同意欧洲提出的立即在乌克兰实现停火的要求；欧盟只是在试图争取时间。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯外长拉夫罗夫：俄罗斯不会同意欧洲提出的立即在乌克兰实现停火的要求"
-    },
-    {
-     "title": "美国防长赫格塞思面临弹劾投票 今晚将举行罕见发布会",
-     "link": "http://hk.eastmoney.com/news/1533,202611103927464385.html",
-     "pubDate": "Tue, 10 Nov 2026 19:24:24 +0800",
-     "summary": "美国国防部长赫格塞思将于当地时间周二上午在五角大楼举行罕见的新闻发布会，预计国会议员本周将就弹劾他的议案进行投票。新闻发布会定于美国东部时间上午8点（北京时间21点）举行。此前一天，共和党众议员Thomas Massie提交了针对赫格塞思的修订版弹劾条款。该决议指控赫格塞思滥用职权，包括未经国会批准发动伊朗战争、无视旨在尽量减少平民伤亡的法律，以及报复民主党参议员Mark Kelly等。根据众议院规则，众议院必须在两个立法日内安排投票。代表纽约州的众议院民主党领袖Hakeem Jeffries周一下午表示，他将坚定支持弹劾决议。他告诉记者，赫格塞思“滥用权力”，是“这场鲁莽、代价高昂且以失败告",
-     "source": "东方财富股票",
-     "zh": "美国防长赫格塞思面临弹劾投票 今晚将举行罕见发布会"
-    },
-    {
-     "title": "RB Global declares $0.33 dividend",
-     "link": "https://seekingalpha.com/news/4669626-rb-global-declares-0_33-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 06:24:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RB Global declares $0.33 dividend"
-    },
-    {
-     "title": "美国劳工统计局：受去年政府停摆影响 将不公布10月CPI同比数据",
-     "link": "http://finance.eastmoney.com/news/1346,202611103927464234.html",
-     "pubDate": "Tue, 10 Nov 2026 19:23:58 +0800",
-     "summary": "美国劳工统计局表示，受去年政府停摆影响，将不公布10月CPI同比数据。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国劳工统计局：受去年政府停摆影响 将不公布10月CPI同比数据"
-    },
-    {
-     "title": "云南锗业：现有磷化铟晶片产能及在建产能已被客户锁定至2027年底",
-     "link": "http://finance.eastmoney.com/news/1354,202611103927461840.html",
-     "pubDate": "Tue, 10 Nov 2026 19:22:25 +0800",
-     "summary": "云南锗业 (002428.SZ)发布投资者关系活动记录表公告，当前磷化铟晶片市场需求旺盛，公司现有产能及在建产能已被客户锁定至2027年底，客户涵盖国内外下游知名厂商。6英寸产品方面，公司自2026年6月起与下游客户签订多份正式销售合同，控股子公司云南鑫耀6英寸磷化铟晶片在手订单约1.3万片，金额合计约3亿元，客户主要为海外头部下游厂商。目前已有部分订单取得出口许可并处于持续交付中。原料保障方面，公司已与供应商签订采购合同，锁定了2027年度磷化铟产品原料供应。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "云南锗业：现有磷化铟晶片产能及在建产能已被客户锁定至2027年底"
-    },
-    {
-     "title": "【调研快报】力量钻石接待证券时报等24家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611103927461291.html",
-     "pubDate": "Tue, 10 Nov 2026 19:22:00 +0800",
-     "summary": "力量钻石 11月10日公告称， 11月10日 接待证券时报 等24家机构 调研。 接待人员包括董事长 邵增明,董事会秘书 孟浩。 公司就以下问题进行了回复： 一、现场参观 投资者参观公司厂区、生产车间、展厅,向投资者介绍公司新投产金刚石散热片生产研发项目情况、产品应用领域等。 二、互动问答 1、目前投产的 600 台无法满足市场需求,明年是否有扩产计划?假设只做单晶,明年产出大概有多少? 自 2024 年开始研发散热材料以来,我们... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东",
-     "source": "东方财富股票",
-     "zh": "【调研快报】力量钻石接待证券时报等24家机构调研"
-    },
-    {
-     "title": "【调研快报】华润材料接待通过全景路演参与“2026年常州上市公司投资者集体接待日活动”的投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611103927461146.html",
-     "pubDate": "Tue, 10 Nov 2026 19:21:53 +0800",
-     "summary": "华润材料 11月10日公告称， 11月10日 接待通过全景路演参与“2026年常州上市公司投资者集体接待日活动”的投资者 调研。 接待人员包括财务总监、董事会秘书 李小俊,投资者关系经理 张晶磊,证券事务代表 潘金良。 公司就以下问题进行了回复： 1.贵司三季报提到瓶片行业供需双弱、加工差回落,半年报提出通过投资并购等方式发展高端 新材料 。未来在 半导体 或医药 包装材料 领域,是否仍考虑引入具备成熟技术和客户验证能力的外部企业 尊敬的投资者,您好!公司将通过投资并购、合资共建、自主研发、联合开发及产业孵化等多种方式稳步推进高端 新材料 培育与发展,... 点击查看PDF原文 免责声明：本文",
-     "source": "东方财富股票",
-     "zh": "【调研快报】华润材料接待通过全景路演参与“2026年常州上市公司投资者集体接待日活动”的投资者调研"
-    },
-    {
-     "title": "James River declares $0.01 dividend",
-     "link": "https://seekingalpha.com/news/4669624-james-river-declares-0_01-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 06:20:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "James River declares $0.01 dividend"
-    },
-    {
-     "title": "Keyera GAAP EPS of -C$0.23; updates FY2026 outlook",
-     "link": "https://seekingalpha.com/news/4669623-keyera-gaap-eps-of-c023-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 06:16:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Keyera GAAP EPS of -C$0.23; updates FY2026 outlook"
-    },
-    {
-     "title": "H&R Block declares $0.46 dividend",
-     "link": "https://seekingalpha.com/news/4669619-h-and-r-block-declares-0_46-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 06:15:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "H&R Block declares $0.46 dividend"
+     "title": "全球最大养老基金 七成仓位在股市",
+     "link": "http://finance.eastmoney.com/news/11137,202611103927461426.html",
+     "pubDate": "Tue, 10 Nov 2026 19:21:03 +0800",
+     "summary": "近日，全球股市波动加剧，多国居民开始担忧 养老金 的缩水问题。对养老基金而言，股票仓位越高，股市涨跌对基金资产的影响通常越大。从全球规模前十的养老基金来看， 挪威超七成仓位在股市 ，美国、韩国也有基金的股票配比超50%。 按资产规模， 挪威政府全球养老基金以约2.11万亿美元居首 ，日本政府养老投资基金以约1.87万亿美元位列第二，美国联邦退休储蓄计划以1.07万亿美元居第三。 挪威这只基金的 股票占比达到71% ，而且全部配置海外股票，挪威政府主要以油气收入为这只基金注资。 日本的 养老金 股债配置五五开，国内外股票配置也近乎五五开； 美国联邦退休储蓄计划的股票占比约为66% ，主要投向美国",
+     "source": "东方财富资讯",
+     "zh": "全球最大养老基金 七成仓位在股市"
     },
     {
      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
@@ -2410,6 +2450,14 @@ window.INDUSTRY_DATA = {
      "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
     },
     {
+     "title": "Anthropic被曝IPO拟发行8.25亿股 每股70至78美元",
+     "link": "http://finance.eastmoney.com/news/1354,202611103927437358.html",
+     "pubDate": "Tue, 10 Nov 2026 18:38:45 +0800",
+     "summary": "媒体援引最新招股说明书草案报道，Anthropic计划在IPO中发行8.25亿股，指示性价格区间为每股70至78美元。 AMD、 博通 、谷歌、美光、 微软 、 英伟达 及 台积电 合作伙伴等将作为基石投资者，参与一项独立私募配售，合计认购260亿美元公司普通股。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "Anthropic被曝IPO拟发行8.25亿股 每股70至78美元"
+    },
+    {
      "title": "第三批互惠便利资金“火线入市”，至少10家券商官宣买入股票",
      "link": "https://wallstreetcn.com/articles/3785655",
      "pubDate": "Tue, 10 Nov 2026 18:21:26 +0800",
@@ -2426,14 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
     },
     {
-     "title": "AI信用风险正向上游迁移？芯片巨头CDS利差三个月来首超云厂商",
-     "link": "http://bond.eastmoney.com/news/1332,202611103927419363.html",
-     "pubDate": "Tue, 10 Nov 2026 18:01:49 +0800",
-     "summary": "市场对AI融资的关注点，正从“云厂商要借多少钱”转向“最终由谁承担风险”。尽管前些日子美股大跌后，信用指数整体依然保持相对平稳，但CDS市场近期已开始对芯片厂商的信用重新定价。 据媒体当地时间11月10日报道，华尔街投行 高盛 交易部门上周日发布的多份信用市场周报显示， 由 博通 、AMD、 英伟达 和 英特尔 组成的芯片巨头信用违约互换（CDS）篮子，利差已高于由 甲骨文 、 SpaceX 、Meta、 亚马逊 、谷歌母公司Alphabet和 微软 组成的超大规模云厂商篮子，为至少三个月来首次。 芯片巨头（红线）与超大规模云厂商（蓝线）CDS利差走势 CDS是一种为债务违约提供保护的金融衍生",
-     "source": "东方财富资讯",
-     "zh": "AI信用风险正向上游迁移？芯片巨头CDS利差三个月来首超云厂商"
-    },
-    {
      "title": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
      "link": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
      "pubDate": "Tue, 10 Nov 2026 10:01:00 GMT",
@@ -2448,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Actor Justin Baldoni discreetly offloaded his former Los Angeles home months after relocating to Nashville, Tenn., for a “fresh start.”",
      "source": "MarketWatch",
      "zh": "Actor Justin Baldoni quietly sold his L.A. home for $2.1 million after moving to Nashville"
-    },
-    {
-     "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
-     "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
-     "pubDate": "Tue, 10 Nov 2026 09:48:09 GMT",
-     "summary": "The agency has found evidence of a potential increased risk of a rare eye condition linked to the use of GLP-1 drugs used for weight management and diabetes.",
-     "source": "CNBC",
-     "zh": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound"
     }
    ]
   },

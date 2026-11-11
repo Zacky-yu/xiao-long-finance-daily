@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 05:52:55",
+ "generated_at": "2026/11/12 06:21:31",
  "recent_days": 7,
  "industries": [
   {
@@ -330,14 +330,6 @@ window.INDUSTRY_DATA = {
      "zh": "NVHBM: Can Custom HBM Change Who Builds the Memory Stack?"
     },
     {
-     "title": "UK semi company Fractile raises $720m at $7bn valuation",
-     "link": "https://www.electronicsweekly.com/news/business/uk-semi-company-fractile-raises-720m-at-7bn-valuation-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 15:12:59 +0000",
-     "summary": "Fractile, the four year-old UK semiconductor company, has raised $720 million at a $7 billion valuation. Investors were: Thrive Capital, Founders Fund, Conviction, Alphabet’s independent venture arm CapitalG, Lightspeed Venture […] The post UK semi company Fractile raises $720m at $7bn valuation app",
-     "source": "Electronics Weekly",
-     "zh": "UK semi company Fractile raises $720m at $7bn valuation"
-    },
-    {
      "title": "Three Axes, One Controller: Rethinking the Motor Drive Signal Chain for Factory Automation",
      "link": "https://www.eetimes.com/three-axes-one-controller-rethinking-the-motor-drive-signal-chain-for-factory-automation/",
      "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
@@ -346,28 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Three Axes, One Controller: Rethinking the Motor Drive Signal Chain for Factory Automation"
     },
     {
-     "title": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/electronica-quectel-5g-combo-rugged-antennas-combine-5g-gnss-wi-fi-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 14:30:21 +0000",
-     "summary": "Quectel is announcing ten new “5G combo” antennas, combining 5G, GNSS and Wi-Fi in compact, rugged designs. Possible applications including fleet management, industrial equipment and smart city infrastructure. The idea […] The post Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-F",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi"
-    },
-    {
      "title": "Why Video Processing Matters for the Next Generation of Robots",
      "link": "https://semiwiki.com/ip/chipsmedia/375958-why-video-processing-matters-for-the-next-generation-of-robots/",
      "pubDate": "Wed, 11 Nov 2026 14:00:59 +0000",
      "summary": "Mobilint has begun mass production of next-generation edge AI chips that incorporate video codec technology from Chips&Media, the companies announced on November 4. The South Korean partners are targeting robotics applications, including humanoids, where several cameras can generate more video than ",
      "source": "SemiWiki",
      "zh": "Why Video Processing Matters for the Next Generation of Robots"
-    },
-    {
-     "title": "Buffett And The AI Boom",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/buffett-and-the-ai-boom-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 13:13:09 +0000",
-     "summary": "Last week’s stock market sell-off, led by Al and technology stocks after the midterms showed how nervous investors currently are with respect to the staying power of the Al boom. […] The post Buffett And The AI Boom appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Buffett And The AI Boom"
     },
     {
      "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
@@ -384,30 +360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sivers Semiconductors AB of Kista, Sweden (which supplies RF beam-former ICs and lasers for AI data-center, SATCOM, defense and telecom applications) has announced a global distribution agreement with electronics and semiconductors distributor WT Microelectronics Co Ltd...",
      "source": "Semiconductor Today",
      "zh": "WT to distribute Sivers’ InP lasers and wireless solutions"
-    },
-    {
-     "title": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/electronica-onsemis-elitesic-m4-delivers-higher-power-density-and-lower-losses-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 12:06:01 +0000",
-     "summary": "onsemi claims its fourth-generation EliteSiC silicon carbide (SiC) platform delivers up to 30% higher power density and 35% lower losses than the previous generation. The EliteSiC M4 platform improves conduction […] The post Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower l",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses"
-    },
-    {
-     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 11:48:02 +0000",
-     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
-    },
-    {
-     "title": "Electronica – The latest news roundup",
-     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 11:41:27 +0000",
-     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Electronica – The latest news roundup"
     },
     {
      "title": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung Electronics acquired four US silicon photonics patents from UK-based Rockley Photonics in September 2026, South Korea's Shinailbo reported on November 11, citing US Patent and Trademark Office (USPTO) records. The reported acquisition could strengthen Samsung's intellectual property portfoli",
      "source": "DIGITIMES",
      "zh": "Samsung reportedly buys four silicon photonics patents from Rockley"
+    },
+    {
+     "title": "Canon to launch KrF lithography scanner rated at 400 wafers per hour in December",
+     "link": "https://www.digitimes.com/news/a20261111PR200/canon-launch-scanner-2026-wafer.html",
+     "pubDate": "Wed, 11 Nov 2026 07:30:00 GMT",
+     "summary": "Canon Inc. said on November 10, 2026, that it will launch the FPA-6400ES6a, a krypton fluoride (KrF) scanner for manufacturing memory and logic semiconductors, in early December 2026. The company's release gave no exact launch date, price, or shipment volume.",
+     "source": "DIGITIMES",
+     "zh": "Canon to launch KrF lithography scanner rated at 400 wafers per hour in December"
+    },
+    {
+     "title": "CXO Interview with Solaiman Rahim of ChipAgents",
+     "link": "https://semiwiki.com/eda/chipagents-ai/375937-cxo-interview-with-solaiman-rahim-of-chipagents/",
+     "pubDate": "Tue, 10 Nov 2026 20:00:32 +0000",
+     "summary": "Dr. Solaiman Rahim is a multidisciplinary technology executive with over 25 years of experience driving innovation in the chip automation space at the intersection of systems, semiconductors, high-performance computing, and AI. As Chief Product Officer at ChipAgents, he leads the scaling of the Agen",
+     "source": "SemiWiki",
+     "zh": "CXO Interview with Solaiman Rahim of ChipAgents"
+    },
+    {
+     "title": "Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps",
+     "link": "https://semiengineering.com/reducing-lithography-learning-cycles-to-accelerate-foplp-ramps/",
+     "pubDate": "Tue, 10 Nov 2026 08:08:35 +0000",
+     "summary": "How yield prediction technology can reduce trial-and-error in advanced packaging lithography. The post Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps"
+    },
+    {
+     "title": "Test Struggles To Keep Pace With AI",
+     "link": "https://semiengineering.com/test-struggles-to-keep-pace-with-ai/",
+     "pubDate": "Tue, 10 Nov 2026 08:07:24 +0000",
+     "summary": "Rapidly changing workloads, more test insertions, and fragmented data complicate chip testing. The post Test Struggles To Keep Pace With AI appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Test Struggles To Keep Pace With AI"
+    },
+    {
+     "title": "Which Passing Chips Need More Testing?",
+     "link": "https://semiengineering.com/which-passing-chips-need-more-testing/",
+     "pubDate": "Tue, 10 Nov 2026 08:05:20 +0000",
+     "summary": "Manufacturers are using test data and predictive models to identify marginal chips and determine when additional screening is justified. The post Which Passing Chips Need More Testing? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Which Passing Chips Need More Testing?"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -505,6 +505,38 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Serve Robotics expands beyond US with DoorDash robot delivery launch in Australia",
+     "link": "https://roboticsandautomationnews.com/2026/11/11/serve-robotics-expands-beyond-us-with-doordash-robot-delivery-launch-in-australia/107013/",
+     "pubDate": "Wed, 11 Nov 2026 22:17:00 +0000",
+     "summary": "Serve Robotics and DoorDash have launched Australia’s first footpath robot delivery service with an initial launch in the Gold Coast Health and Knowledge Precinct. Starting at the end of last month, DoorDash customers ordering from Gnocchi Gnocchi, Southport – the pilot’s first participating restaur",
+     "source": "Robotics & Automation",
+     "zh": "Serve Robotics expands beyond US with DoorDash robot delivery launch in Australia"
+    },
+    {
+     "title": "CMS brings six-axis Krearob robotic 3D printing system to Formnext 2026",
+     "link": "https://roboticsandautomationnews.com/2026/11/11/cms-brings-six-axis-krearob-robotic-3d-printing-system-to-formnext-2026/107007/",
+     "pubDate": "Wed, 11 Nov 2026 22:04:25 +0000",
+     "summary": "CMS, a provider of advanced manufacturing technologies, has announced that its six-axis Krearob robotic large format additive manufacturing (LFAM) system will make its Formnext debut (Hall 12.0 / Stand D51) in Frankfurt this year. Launched earlier this year, the advanced system enables the productio",
+     "source": "Robotics & Automation",
+     "zh": "CMS brings six-axis Krearob robotic 3D printing system to Formnext 2026"
+    },
+    {
+     "title": "Zipline makes drone deliveries quieter with real-time acoustic flight optimization",
+     "link": "https://roboticsandautomationnews.com/2026/11/11/zipline-makes-drone-deliveries-quieter-with-real-time-acoustic-flight-optimization/107003/",
+     "pubDate": "Wed, 11 Nov 2026 21:57:09 +0000",
+     "summary": "Zipline, the world’s largest drone delivery service, now has a quieter fleet, thanks to a breakthrough from its engineering team: sound-optimized dynamic flying. In an industry first, Zipline’s autonomous drones now use onboard sound modeling to optimize in real time for quiet flying. This upgrade, ",
+     "source": "Robotics & Automation",
+     "zh": "Zipline makes drone deliveries quieter with real-time acoustic flight optimization"
+    },
+    {
+     "title": "Massachusetts awards $10.5 million to 17 manufacturers to support commercialization",
+     "link": "https://roboticsandautomationnews.com/2026/11/11/healey-driscoll-administration-celebrates-statewide-manufacturing-industry-awards-10-5m-in-commercialization-grants-at-sixth-annual-massachusetts-manufacturing-mash-up/106999/",
+     "pubDate": "Wed, 11 Nov 2026 21:51:08 +0000",
+     "summary": "The Healey-Driscoll Administration of Massachusetts has announced nearly $10.5 million in grants to support the growth of advanced manufacturing companies across the state. The awards were announced at the annual Massachusetts Manufacturing Mash-Up, hosted by the administration and the Center for Ad",
+     "source": "Robotics & Automation",
+     "zh": "Massachusetts awards $10.5 million to 17 manufacturers to support commercialization"
+    },
     {
      "title": "ANYbotics begins deliveries of explosion-proof quadruped robot to industrial customers",
      "link": "https://roboticsandautomationnews.com/2026/11/11/anybotics-begins-deliveries-of-explosion-proof-quadruped-robot-to-industrial-customers/106995/",
@@ -520,38 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bureau Veritas Marine & Offshore is using the Nolvis X1 industrial drone to carry out remote inspections of confined and hazardous spaces aboard ships and offshore installations, reducing the need for personnel to enter potentially dangerous environments. Developed by Dallas-based Nolvis, the X1 is ",
      "source": "Robotics & Automation",
      "zh": "Bureau Veritas adopts Nolvis X1 drones for safer ship and offshore inspections"
-    },
-    {
-     "title": "Melotte reduces weekly 3D printing quality data handling from three hours to 20 minutes with amsight",
-     "link": "https://roboticsandautomationnews.com/2026/11/11/melotte-reduces-weekly-3d-printing-quality-data-handling-from-three-hours-to-20-minutes-with-amsight/106986/",
-     "pubDate": "Wed, 11 Nov 2026 20:44:22 +0000",
-     "summary": "Belgium-based industrial additive manufacturing specialist Melotte has significantly reduced the manual effort involved in managing additive manufacturing quality data after implementing amsight, while also accelerating root-cause analysis and strengthening the quality evidence available to customer",
-     "source": "Robotics & Automation",
-     "zh": "Melotte reduces weekly 3D printing quality data handling from three hours to 20 minutes with amsight"
-    },
-    {
-     "title": "Horkos integrates Meltio metal 3D printing technology into new hybrid machining system",
-     "link": "https://roboticsandautomationnews.com/2026/11/11/horkos-integrates-meltio-metal-3d-printing-technology-into-new-hybrid-machining-system/106982/",
-     "pubDate": "Wed, 11 Nov 2026 20:34:16 +0000",
-     "summary": "Horkos and Meltio 3D, a Spanish developer of wire laser metal deposition technology, have launched the NX70 Duo version AM, a twin-head non-bed machining center combining metal additive manufacturing and high-precision cutting in a single machine. Based on Horkos’s NX70 1510B machining center, the n",
-     "source": "Robotics & Automation",
-     "zh": "Horkos integrates Meltio metal 3D printing technology into new hybrid machining system"
-    },
-    {
-     "title": "Carbon reaches 1 million 3D-printed cycling saddles as additive manufacturing scales",
-     "link": "https://roboticsandautomationnews.com/2026/11/11/carbon-reaches-1-million-3d-printed-cycling-saddles-as-additive-manufacturing-scales/106973/",
-     "pubDate": "Wed, 11 Nov 2026 20:17:59 +0000",
-     "summary": "Carbon 3D, a product development and additive manufacturing technology company, says it has “reached a major milestone”, with more than 1 million cycling saddles now produced on its end-to-end additive manufacturing platform. The milestone reflects the growing role of Carbon Digital Light Synthesis ",
-     "source": "Robotics & Automation",
-     "zh": "Carbon reaches 1 million 3D-printed cycling saddles as additive manufacturing scales"
-    },
-    {
-     "title": "Interview with CynLr co-founder: Why robots need to understand objects, not just recognize them",
-     "link": "https://roboticsandautomationnews.com/2026/11/11/interview-with-cynlr-co-founder-why-robots-need-to-understand-objects-not-just-recognize-them/106968/",
-     "pubDate": "Wed, 11 Nov 2026 19:26:55 +0000",
-     "summary": "Industrial robots have become extraordinarily good at performing repetitive tasks with speed and precision. But ask one to pick up an unfamiliar object, work out how best to grasp it, or adjust when something moves unexpectedly, and the limitations of conventional automation quickly become apparent.",
-     "source": "Robotics & Automation",
-     "zh": "Interview with CynLr co-founder: Why robots need to understand objects, not just recognize them"
     },
     {
      "title": "AI100 report released: embodied AI highlighted as grand challenge",
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "BYD shows what its new ‘Cloud Carriage’ intelligent body control system can really do",
+     "link": "https://electrek.co/2026/11/11/byd-shows-new-cloud-carriage-body-control-system-video/",
+     "pubDate": "Wed, 11 Nov 2026 22:13:48 +0000",
+     "summary": "BYD’s new EV may be about the size of a Toyota Camry, but it’s playing in a whole different league when it comes to technology. more…",
+     "source": "Electrek",
+     "zh": "BYD shows what its new ‘Cloud Carriage’ intelligent body control system can really do"
+    },
+    {
      "title": "Kia just made history at Germany’s most prestigious auto awards",
      "link": "https://electrek.co/2026/11/11/kia-made-history-germanys-most-prestigious-auto-awards/",
      "pubDate": "Wed, 11 Nov 2026 20:41:03 +0000",
@@ -704,14 +712,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla has confirmed a new batch of Tesla Semi deliveries, with its official Semi account saying today that “Chicago’s first 50 Semis” are on their way to the city. It’s a rare data point. Tesla doesn’t disclose Semi deliveries, and it claims its new Nevada factory can build 50,000 of them a year. mo",
      "source": "Electrek",
      "zh": "Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago"
-    },
-    {
-     "title": "Hyundai is shaking up its 2027 electric vehicle lineup: Here’s what’s changing",
-     "link": "https://electrek.co/2026/11/11/hyundai-shaking-up-2027-ev-lineup-whats-changing/",
-     "pubDate": "Wed, 11 Nov 2026 17:23:27 +0000",
-     "summary": "Hyundai’s US electric vehicle lineup will look a bit different in 2027, including the new IONIQ 6 N, a new range-topping IONIQ 9 trim, and a handful of minor updates to the IONIQ 5. more…",
-     "source": "Electrek",
-     "zh": "Hyundai is shaking up its 2027 electric vehicle lineup: Here’s what’s changing"
     },
     {
      "title": "This BMW i3 Drove 3,658 Miles. It Needed Less Than 3 Hours Of Charging",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite",
+     "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Is-Being-Pitched-as-the-Fix-for-AIs-Runaway-Power-Appetite.html",
+     "pubDate": "Wed, 11 Nov 2026 16:00:00 -0600",
+     "summary": "Can quantum computing save artificial intelligence from itself? The energy and water needs of the AI sector are growing larger all the time, placing enormous pressure on the world’s finite resources and putting unprecedented strain on global energy grids. There is no closing Pandora’s box: AI is her",
+     "source": "OilPrice",
+     "zh": "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite"
+    },
+    {
      "title": "Was Corruption The Biggest Issue In The US Election?",
      "link": "https://cleantechnica.com/2026/11/11/was-corruption-the-biggest-issue-in-the-us-election/",
      "pubDate": "Wed, 11 Nov 2026 21:36:51 +0000",
@@ -912,14 +920,6 @@ window.INDUSTRY_DATA = {
      "summary": "Perovskite is a relatively inexpensive material that has attracted thousands of researchers since 2009, when a team of scientists in Japan first demonstrated its use in solar cells. They achieved a solar energy conversion efficiency of little more than 3%, but since science loves a challenge, that w",
      "source": "CleanTechnica",
      "zh": "The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US"
-    },
-    {
-     "title": "Crude Is Back at 80% in the Gulf, but Refined Products Are Stuck at 35%",
-     "link": "https://oilprice.com/Energy/Energy-General/Crude-Is-Back-at-80-in-the-Gulf-but-Refined-Products-Are-Stuck-at-35.html",
-     "pubDate": "Wed, 11 Nov 2026 12:00:00 -0600",
-     "summary": "The story in the Strait of Hormuz has been that Middle Eastern crude exports have recovered to about 80% to 85% of pre-war levels, including pipeline shipments, while refined-product exports remain muted. The uneven recovery shows how Gulf producers prioritize crude oil shipments over refined produc",
-     "source": "OilPrice",
-     "zh": "Crude Is Back at 80% in the Gulf, but Refined Products Are Stuck at 35%"
     },
     {
      "title": "Renowned Awards for the Newcomer: ID. Polo Wins Golden Steering Wheel, the Autonis Design Award and Is Voted German Car of the Year 2027",
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "NASA kick-starts a fresh push to bring Mars samples home",
+     "link": "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home",
+     "pubDate": "Wed, 11 Nov 2026 22:00:00 +0000",
+     "summary": "NASA is kickstarting a new initiative for Mars Sample Return (MSR), called the Perseverance Sample Retrieval Architecture.",
+     "source": "Space.com",
+     "zh": "NASA kick-starts a fresh push to bring Mars samples home"
+    },
+    {
      "title": "We can't see Fast Radio Bursts but we can now hear them thanks to a Finnish Cathedral",
      "link": "https://www.space.com/astronomy/we-cant-see-fast-radio-bursts-but-we-can-now-hear-them-thanks-to-a-finnish-cathedral",
      "pubDate": "Wed, 11 Nov 2026 21:00:00 +0000",
@@ -1344,14 +1352,6 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
-     "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
-     "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
-     "summary": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
-     "source": "Space.com",
-     "zh": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026"
     },
     {
      "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
@@ -1770,6 +1770,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Jensen Huang Said to Have Had Relationship with Nvidia Executive",
+     "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+     "pubDate": "Wed, 11 Nov 2026 22:03:58 +0000",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html Comments URL: https://news.ycombinator.com/item?id=50459321 Points: 18 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Jensen Huang Said to Have Had Relationship with Nvidia Executive"
+    },
+    {
+     "title": "Sources: Jensen Huang had an extramarital relationship with Nvidia&apos;s VP of healthcare, Kimberly Powell; their relationship has been discussed inside the company (New York Times)",
+     "link": "https://www.techmeme.com/261111/p43#a261111p43",
+     "pubDate": "Wed, 11 Nov 2026 17:03:12 -0500",
+     "summary": "New York Times : Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell; their relationship has been discussed inside the company &nbsp; &mdash;&nbsp; Mr. Huang, Nvidia's chief executive, is already facing scrutiny over an affair with a Chinese busines",
+     "source": "Techmeme",
+     "zh": "Sources: Jensen Huang had an extramarital relationship with Nvidia&apos;s VP of healthcare, Kimberly Powell; their relationship has been discussed inside the company (New York Times)"
+    },
+    {
+     "title": "Pete Hegseth Is About to Get His Ass Kicked",
+     "link": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
+     "pubDate": "Wed, 11 Nov 2026 22:00:00 +0000",
+     "summary": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.",
+     "source": "WIRED",
+     "zh": "Pete Hegseth Is About to Get His Ass Kicked"
+    },
+    {
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+     "pubDate": "Wed, 11 Nov 2026 21:24:35 +0000",
+     "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 65 # Comments: 38",
+     "source": "Hacker News",
+     "zh": "United Airlines bans AI agents from booking flights on behalf of travelers"
+    },
+    {
+     "title": "Play GTA5 on Browser",
+     "link": "https://playgta5.com/",
+     "pubDate": "Wed, 11 Nov 2026 21:10:35 +0000",
+     "summary": "Article URL: https://playgta5.com/ Comments URL: https://news.ycombinator.com/item?id=50458710 Points: 13 # Comments: 9",
+     "source": "Hacker News",
+     "zh": "Play GTA5 on Browser"
+    },
+    {
      "title": "OKX and ICE&apos;s joint venture OKXICE plans to launch a US tokenized stock venue on November 23 and list 70+ assets; 56 of the 62 companies it targeted objected (Scott Patterson/Bloomberg)",
      "link": "https://www.techmeme.com/261111/p42#a261111p42",
      "pubDate": "Wed, 11 Nov 2026 16:00:13 -0500",
@@ -1781,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "GitHub Incident with Webhooks, Actions, etc.",
      "link": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
      "pubDate": "Wed, 11 Nov 2026 20:54:37 +0000",
-     "summary": "Article URL: https://www.githubstatus.com/incidents/dvy0t3mvh1lg Comments URL: https://news.ycombinator.com/item?id=50458532 Points: 32 # Comments: 18",
+     "summary": "Article URL: https://www.githubstatus.com/incidents/dvy0t3mvh1lg Comments URL: https://news.ycombinator.com/item?id=50458532 Points: 54 # Comments: 27",
      "source": "Hacker News",
      "zh": "GitHub Incident with Webhooks, Actions, etc."
     },
@@ -1789,23 +1829,23 @@ window.INDUSTRY_DATA = {
      "title": "Tools for exploring the souls of large language models",
      "link": "https://oshea00.github.io/posts/tinygpt-visualizer/",
      "pubDate": "Wed, 11 Nov 2026 20:45:50 +0000",
-     "summary": "Article URL: https://oshea00.github.io/posts/tinygpt-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50458434 Points: 6 # Comments: 4",
+     "summary": "Article URL: https://oshea00.github.io/posts/tinygpt-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50458434 Points: 11 # Comments: 5",
      "source": "Hacker News",
      "zh": "Tools for exploring the souls of large language models"
     },
     {
-     "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+     "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
      "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
      "pubDate": "Wed, 11 Nov 2026 20:32:21 +0000",
      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
      "source": "Ars Technica",
-     "zh": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says"
+     "zh": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says"
     },
     {
      "title": "Emacs in the Age of Magic",
      "link": "https://commandlinesystems.com/magic.txt",
      "pubDate": "Wed, 11 Nov 2026 20:26:32 +0000",
-     "summary": "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 48 # Comments: 5",
+     "summary": "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 69 # Comments: 18",
      "source": "Hacker News",
      "zh": "Emacs in the Age of Magic"
     },
@@ -1818,28 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn&apos;t written or reviewed any code (Todd Bishop/GeekWire)"
     },
     {
-     "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-     "link": "https://github.com/huawei-csl/MACaQ",
-     "pubDate": "Wed, 11 Nov 2026 20:23:57 +0000",
-     "summary": "Article URL: https://github.com/huawei-csl/MACaQ Comments URL: https://news.ycombinator.com/item?id=50458166 Points: 19 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Huawei releases MACaQ, its internal quantizer for local inference"
-    },
-    {
      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
      "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
      "pubDate": "Wed, 11 Nov 2026 20:22:03 +0000",
      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
      "source": "Ars Technica",
      "zh": "Anduril says its first satellite can see adversaries maneuver in orbital night"
-    },
-    {
-     "title": "Why are we still working this hard?",
-     "link": "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/",
-     "pubDate": "Wed, 11 Nov 2026 20:05:29 +0000",
-     "summary": "Article URL: https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/ Comments URL: https://news.ycombinator.com/item?id=50457939 Points: 173 # Comments: 189",
-     "source": "Hacker News",
-     "zh": "Why are we still working this hard?"
     },
     {
      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
@@ -1856,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
      "source": "WIRED",
      "zh": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat"
-    },
-    {
-     "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-     "link": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-     "pubDate": "Wed, 11 Nov 2026 19:47:59 +0000",
-     "summary": "Article URL: https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027 Comments URL: https://news.ycombinator.com/item?id=50457669 Points: 27 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality"
     },
     {
      "title": "Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)",
@@ -1920,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
      "source": "Ars Technica",
      "zh": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs"
-    },
-    {
-     "title": "IBM unveils the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex computations (Kyt Dotson/SiliconANGLE)",
-     "link": "https://www.techmeme.com/261111/p37#a261111p37",
-     "pubDate": "Wed, 11 Nov 2026 12:40:01 -0500",
-     "summary": "Kyt Dotson / SiliconANGLE : IBM unveils the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex computations &nbsp; &mdash;&nbsp; IBM Corp. today announced the Quantum Nighthawk r3, its next-generation processor designed",
-     "source": "Techmeme",
-     "zh": "IBM unveils the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex computations (Kyt Dotson/SiliconANGLE)"
     },
     {
      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 智械岛 ，作者：霍如筠 2018年，马云从一堆候选名字里拍板，给阿里新成立的芯片公司取名平头哥，这是蜜獾的诨名，体型不大，但敢跟狮子叫板，被称作世界上最无所畏惧的动物，以生死看淡、不服就干闻名。 阿里想借这个名字传达的意思很简单，芯片行业竞争激烈，但我们不怕。 八年过去，这只“蜜獾”终于走到资本市场门口。2026年11月10日，阿里巴巴正式公告，拟分拆平头哥赴港独立上市。 此前关于平头哥上市的传闻在市场上反复出现，1月彭博社披露阿里的分拆意向，9月平头哥被传已秘密递表，但一直没有官方时间表。现在，靴子终于落地了。 资本市场给出的反馈是撕裂的。摩根士丹利的报告给出280亿至",
      "source": "虎嗅",
      "zh": "平头哥分拆，难在阿里云"
-    },
-    {
-     "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-     "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-     "pubDate": "Wed, 11 Nov 2026 15:30:00 +0000",
-     "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-     "source": "WIRED",
-     "zh": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway"
     }
    ]
   },
@@ -2266,36 +2266,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Oil prices rise as Iran nuclear dispute fuels supply concerns",
-     "link": "https://seekingalpha.com/news/4671034-oil-prices-rise-as-iran-nuclear-dispute-fuels-supply-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 16:47:45 -0500",
+     "title": "Magna Mining Inc. Non-GAAP EPS of -C$0.05, revenue of C$26.11M",
+     "link": "https://seekingalpha.com/news/4671050-magna-mining-inc-non-gaap-eps-of-c005-revenue-of-c2611m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 17:16:16 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Oil prices rise as Iran nuclear dispute fuels supply concerns"
+     "zh": "Magna Mining Inc. Non-GAAP EPS of -C$0.05, revenue of C$26.11M"
     },
     {
-     "title": "Octave acquires Cerebre to add connected plant model capabilities",
-     "link": "https://seekingalpha.com/news/4671033-octave-acquires-cerebre-to-add-connected-plant-model-capabilities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 16:47:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Octave acquires Cerebre to add connected plant model capabilities"
+     "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+     "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+     "pubDate": "Wed, 11 Nov 2026 22:14:02 GMT",
+     "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+     "source": "CNBC",
+     "zh": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports"
     },
     {
-     "title": "CareTrust REIT announces 17M-share public offering",
-     "link": "https://seekingalpha.com/news/4671030-caretrust-reit-announces-17m-share-public-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 16:43:51 -0500",
+     "title": "Ag Growth reports Q3 results",
+     "link": "https://seekingalpha.com/news/4671049-ag-growth-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 17:13:45 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "CareTrust REIT announces 17M-share public offering"
+     "zh": "Ag Growth reports Q3 results"
     },
     {
-     "title": "Stocks to watch on Wednesday after hours: EZPW, IRTC, EGP",
-     "link": "https://seekingalpha.com/news/4671026-stocks-to-watch-on-wednesday-after-hours-ezpw-irtc-egp?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 16:43:40 -0500",
+     "title": "Pro Real Estate Investment Trust GAAP EPS of C$0.18, revenue of C$31.19M",
+     "link": "https://seekingalpha.com/news/4671048-pro-real-estate-investment-trust-gaap-eps-of-c018-revenue-of-c3119m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 17:13:08 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Stocks to watch on Wednesday after hours: EZPW, IRTC, EGP"
+     "zh": "Pro Real Estate Investment Trust GAAP EPS of C$0.18, revenue of C$31.19M"
+    },
+    {
+     "title": "Bird Construction Non-GAAP EPS of C$1.13, revenue of C$1.3B",
+     "link": "https://seekingalpha.com/news/4671047-bird-construction-non-gaap-eps-of-c113-revenue-of-c13b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 17:11:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bird Construction Non-GAAP EPS of C$1.13, revenue of C$1.3B"
+    },
+    {
+     "title": "Agi Inc. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4671046-agi-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 17:11:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Agi Inc. reports Q3 results"
+    },
+    {
+     "title": "High Liner Foods Non-GAAP EPS of $0.69, revenue of $288.03M beats by $18.1M",
+     "link": "https://seekingalpha.com/news/4671045-high-liner-foods-non-gaap-eps-of-0_69-revenue-of-288_03m-beats-by-18_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 17:09:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "High Liner Foods Non-GAAP EPS of $0.69, revenue of $288.03M beats by $18.1M"
+    },
+    {
+     "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+     "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+     "pubDate": "Wed, 11 Nov 2026 22:05:00 GMT",
+     "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade"
+    },
+    {
+     "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+     "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+     "pubDate": "Wed, 11 Nov 2026 21:55:00 GMT",
+     "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+     "source": "MarketWatch",
+     "zh": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in."
     },
     {
      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
@@ -2306,20 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market"
     },
     {
-     "title": "AEVEX Corp. GAAP EPS of -$0.40 misses by $0.49, revenue of $189.7M beats by $38.82M",
-     "link": "https://seekingalpha.com/news/4671031-aevex-corp-gaap-eps-of-0_40-misses-by-0_49-revenue-of-189_7m-beats-by-38_82m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 16:41:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AEVEX Corp. GAAP EPS of -$0.40 misses by $0.49, revenue of $189.7M beats by $38.82M"
-    },
-    {
-     "title": "JetBlue lenders band together as airline's debt woes deepen",
-     "link": "https://seekingalpha.com/news/4671019-jetblue-lenders-band-together-as-airlines-debt-woes-deepen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 16:41:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "JetBlue lenders band together as airline's debt woes deepen"
+     "title": "AI交易热潮回归，CoreWeave单日暴涨24%，纳指100势将收复中选后失地",
+     "link": "https://wallstreetcn.com/articles/3785758",
+     "pubDate": "Thu, 12 Nov 2026 05:40:43 +0800",
+     "summary": "随着人工智能交易热情重燃，美国科技股周三大幅反弹，纳斯达克100指数盘中一度抹平美国中期选举以来的全部跌幅，AI基础设施建设的长期可持续性顾虑有所缓和。 11月11日周三，纳斯达克100指数涨2.28%，盘中升至11月4日以来最高水平。标普500指数上涨1.3%，道琼斯工业平均指数上涨0.5%。 CoreWeave业绩好于预期、Anthropic IPO需求旺盛，以及OpenAI亮眼的季度表现，共同点燃了投资者对AI交易的热情。 此前，市场对民主党横扫国会将压制AI基础设施投入的担忧持续升温，纳斯达克100指数遭到重挫，英伟达和美光科技等个股首当其冲。周三的反弹意味着，布局AI基础设施的投资者",
+     "source": "华尔街见闻",
+     "zh": "AI交易热潮回归，CoreWeave单日暴涨24%，纳指100势将收复中选后失地"
     },
     {
      "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
@@ -2378,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report"
     },
     {
-     "title": "AI交易热潮回归，纳斯达克100指数势将收复中期选举后全部失地",
-     "link": "https://wallstreetcn.com/articles/3785758",
-     "pubDate": "Thu, 12 Nov 2026 05:10:42 +0800",
-     "summary": "随着人工智能交易热情重燃，美国科技股周三大幅反弹，纳斯达克100指数盘中一度抹平美国中期选举以来的全部跌幅，AI基础设施建设的长期可持续性顾虑有所缓和。 截至纽约时间下午1时50分，纳斯达克100指数涨2.6%，盘中升至11月4日以来最高水平。 CoreWeave业绩好于预期、Anthropic IPO需求旺盛，以及OpenAI亮眼的季度表现，共同点燃了投资者对AI交易的热情。标普500指数上涨1.7%，道琼斯工业平均指数上涨0.5%。 此前，市场对民主党横扫国会将压制AI基础设施投入的担忧持续升温，纳斯达克100指数遭到重挫，英伟达和美光科技等个股首当其冲。周三的反弹意味着，布局AI基础设施",
-     "source": "华尔街见闻",
-     "zh": "AI交易热潮回归，纳斯达克100指数势将收复中期选举后全部失地"
-    },
-    {
      "title": "AI数据中心建设降温也不必担心？美国进口热潮短期难退，真正冲击或到2029年",
      "link": "https://wallstreetcn.com/articles/3785757",
      "pubDate": "Thu, 12 Nov 2026 05:10:30 +0800",
@@ -2426,20 +2450,52 @@ window.INDUSTRY_DATA = {
      "zh": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump"
     },
     {
-     "title": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.",
-     "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 20:53:00 GMT",
-     "summary": "A new bill would lower the Medicare age to 50, expanding coverage to an additional 60 million adults",
-     "source": "MarketWatch",
-     "zh": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50."
+     "title": "iHeart表示 它没有出售播客部门的计划",
+     "link": "http://finance.eastmoney.com/news/1351,202611123928815975.html",
+     "pubDate": "Thu, 12 Nov 2026 04:39:30 +0800",
+     "summary": "iHeart表示，它没有出售播客部门的计划。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "iHeart表示 它没有出售播客部门的计划"
     },
     {
-     "title": "The trillion-dollar mistake corporate America is making about retirement",
-     "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 20:46:00 GMT",
-     "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-     "source": "MarketWatch",
-     "zh": "The trillion-dollar mistake corporate America is making about retirement"
+     "title": "拉美资产受大宗商品提振及风险偏好回暖推动上",
+     "link": "http://finance.eastmoney.com/news/1351,202611123928816328.html",
+     "pubDate": "Thu, 12 Nov 2026 04:39:17 +0800",
+     "summary": "大多数拉美股市和货币上涨，大宗商品价格反弹以及更广泛的风险偏好回归，帮助投资者无视美元走强以及对美联储可能加息的担忧。 MSCI拉美股票指数上涨约0.7%，区域货币指数在周二触及七个月低点后上涨0.6%。 巴西雷亚尔兑美元上涨0.4%，而巴西Bovespa股指上涨0.6%，国有石油公司 巴西石油 （Petrobras）因第三季度利润不及预期而下跌，限制了股指涨幅。 墨西哥股市创 历史新高 ，上涨0.2%，而比索表现平淡。 哥伦比亚股市逆势下跌，基准股指下跌2%，因对该国财政状况恶化的担忧持续存在，而政府正寻求与国际货币基金组织（IMF）达成大规模贷款安排。 （文章来源：华尔街见闻）",
+     "source": "东方财富股票",
+     "zh": "拉美资产受大宗商品提振及风险偏好回暖推动上"
+    },
+    {
+     "title": "泽连斯基称与爱尔兰总理讨论无人机交易细节 优先海军无人机和海上安全",
+     "link": "http://finance.eastmoney.com/news/1351,202611123928816229.html",
+     "pubDate": "Thu, 12 Nov 2026 04:39:15 +0800",
+     "summary": "乌克兰总统泽连斯基：今天和爱尔兰总理讨论了 无人机 交易的细节。优先事项是海军 无人机 和海上安全，我们准备在这方面帮助爱尔兰。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "泽连斯基称与爱尔兰总理讨论无人机交易细节 优先海军无人机和海上安全"
+    },
+    {
+     "title": "市场消息：Anthropic的承销银行家正考虑将IPO估值至少提高至1.5万亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611123928815741.html",
+     "pubDate": "Thu, 12 Nov 2026 04:39:12 +0800",
+     "summary": "市场消息：Anthropic的承销 银行 家正考虑将IPO估值至少提高至1.5万亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：Anthropic的承销银行家正考虑将IPO估值至少提高至1.5万亿美元"
+    },
+    {
+     "title": "公募调研新动向浮现 电子、医药生物、机械设备行业获青睐",
+     "link": "http://finance.eastmoney.com/news/1354,202611123928815898.html",
+     "pubDate": "Thu, 12 Nov 2026 04:36:20 +0800",
+     "summary": "据公募排排网数据，11月首周（11月2日至11月8日），共有142家公募机构参与A股调研，覆盖27个申万一级行业的170只个股，合计调研2173次。行业分布方面， 电子 、 医药生物 、 机械设备 成为公募调研最集中的三个方向， 电子 行业以479次调研居首， 医药生物 、 机械设备 均不少于200次，三大行业合计被调研1114次，占调研总次数的51.27%。个股层面， 通信 行业的 中际旭创 获77家公募机构扎堆调研居首，同属 通信 行业的 德科立 亦入围前十名； 协创数据 、 东微半导 、 路维光电 、 民德电子 四只 电子 行业个股同样进入前十名。 业绩披露收官公募调研放量 从时间轴上看",
+     "source": "东方财富股票",
+     "zh": "公募调研新动向浮现 电子、医药生物、机械设备行业获青睐"
+    },
+    {
+     "title": "宁德时代归母净利润增长31.6% 沪光股份归母净利润下降超80%前三季业绩分化 汽车零部件企业寻求“第二增长曲线”",
+     "link": "http://finance.eastmoney.com/news/1354,202611123928815673.html",
+     "pubDate": "Thu, 12 Nov 2026 04:36:19 +0800",
+     "summary": "11月初，多家 汽车零部件 企业三季报及业绩说明会集中落地。财报显示，前三季度， 汽车零部件 行业依托智能电动化需求支撑保持增长，但企业经营表现明显分化。专家表示，零部件企业收入保持韧性，但盈利端也面临增长压力；企业海外业务贡献增量，新业务布局也在持续推进。 汽零板块总量稳增 企业盈利分化加剧 中国 汽车 工业协会数据显示，前三季度，我国 汽车 产销小幅下滑，市场总体呈现“内冷外热”运行态势。1月至9月， 汽车 产销分别完成2324.6万辆和2327.1万辆，同比均下降4.5%。零部件企业面对的是一个“总量微降、结构上行”的终端市场。 汽车零部件 行业整体营收保持了较强的增长韧性，但盈利端仍然",
+     "source": "东方财富股票",
+     "zh": "宁德时代归母净利润增长31.6% 沪光股份归母净利润下降超80%前三季业绩分化 汽车零部件企业寻求“第二增长曲线”"
     },
     {
      "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
@@ -2448,62 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "U.S.-Canada trade tensions persist as Trump's tariffs drive up costs, threaten investment and complicate negotiations between the two countries.",
      "source": "CNBC",
      "zh": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment"
-    },
-    {
-     "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
-     "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-     "pubDate": "Wed, 11 Nov 2026 19:55:39 GMT",
-     "summary": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
-     "source": "CNBC",
-     "zh": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes"
-    },
-    {
-     "title": "美股三大指数集体上涨 纳指涨近2% 费城半导体指数涨逾6%",
-     "link": "http://finance.eastmoney.com/news/1345,202611113928745779.html",
-     "pubDate": "Thu, 12 Nov 2026 03:35:43 +0800",
-     "summary": "美东时间周三，美股三大指数集体收涨，截止收盘， 纳斯达克 综合 指数收涨1.6%，道琼斯指数收涨0.48%，标普500指数收涨1.31%。 AI产业链交易热潮回归，费城 半导体 指数涨逾5%。存储板块方面， 闪迪 涨超13%， 美光科技 涨超11%，海力士涨超9%， 西部数据 涨超8%；AI云服务厂商方面，CoreWeave涨超24%，NEBIUS涨超15%， 甲骨文 涨超8%；光 通信 股方面， 迈威尔科技 涨超9%，Lumentum涨超10%，Coherent涨超9%； 半导体 设备方面， 拉姆研究 、 应用材料 涨超6%。 美股“科技七巨头”涨跌不一， 特斯拉 涨2.91%， 英伟达 涨",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体上涨 纳指涨近2% 费城半导体指数涨逾6%"
-    },
-    {
-     "title": "Bessent moved to military base amid &apos;growing threats&apos; from Iran",
-     "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-     "pubDate": "Wed, 11 Nov 2026 16:59:18 GMT",
-     "summary": "Bessent's role leading Operation Economic Outcast has made him one of the Trump administration's top targets of Iranian threats, The New York Times reported.",
-     "source": "CNBC",
-     "zh": "Bessent moved to military base amid &apos;growing threats&apos; from Iran"
-    },
-    {
-     "title": "Thousands of schools in Italy, Scotland and Ireland receive bomb threats",
-     "link": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1",
-     "pubDate": "Wed, 11 Nov 2026 15:39:44 GMT",
-     "summary": "Incidents appear to be latest co-ordinated attack aimed at disrupting life in Europe",
-     "source": "Financial Times",
-     "zh": "Thousands of schools in Italy, Scotland and Ireland receive bomb threats"
-    },
-    {
-     "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
-     "link": "https://www.finextra.com/newsarticle/48744/alta-raises-475m-to-build-blockchain-infrastructure-for-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 11 Nov 2026 15:06:00 GMT",
-     "summary": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building institutional-grade blockchain infrastructure for global finance.",
-     "source": "Finextra",
-     "zh": "Alta raises $47.5m to build blockchain infrastructure for financial institutions"
-    },
-    {
-     "title": "王毅同美国国务卿鲁比奥通电话",
-     "link": "http://finance.eastmoney.com/news/1345,202611113928765286.html",
-     "pubDate": "Wed, 11 Nov 2026 23:03:29 +0800",
-     "summary": "中共中央政治局委员、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。 王毅表示，习近平主席9月访美顺利、成功，两国元首一致同意丰富中美关系新定位的内涵，为探索中美正确相处之道提供了更加明确的战略指引。中美关系稳定势头来之不易，是两个大国从各自和共同利益出发作出的理性选择。中国对美政策保持稳定性和连续性，愿同美方加强沟通合作，妥善处理分歧和敏感问题，相互支持办好2026年亚太经合组织领导人非正式会议和二十国集团领导人峰会，推动中美建设性战略稳定关系落地见效。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "王毅同美国国务卿鲁比奥通电话"
-    },
-    {
-     "title": "RAF Fairford incident partly directed from New York jail, US claims",
-     "link": "https://www.ft.com/content/687acbbb-6296-4030-a1a0-c07936a6c9db?syn-25a6b1a6=1",
-     "pubDate": "Wed, 11 Nov 2026 14:14:04 GMT",
-     "summary": "US indictment links alleged plot to attack British air base to wider campaign across Europe targeting Jewish sites",
-     "source": "Financial Times",
-     "zh": "RAF Fairford incident partly directed from New York jail, US claims"
     }
    ]
   },

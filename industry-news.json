@@ -49,30 +49,6 @@
      "zh": "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
     },
     {
-     "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-     "link": "https://www.qbitai.com/2026/11/509146.html",
-     "pubDate": "Wed, 11 Nov 2026 06:41:26 +0000",
-     "summary": "价格、门槛全打穿",
-     "source": "量子位",
-     "zh": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替"
-    },
-    {
-     "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
-     "link": "https://www.qbitai.com/2026/11/509088.html",
-     "pubDate": "Wed, 11 Nov 2026 06:27:03 +0000",
-     "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
-     "source": "量子位",
-     "zh": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题"
-    },
-    {
-     "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-     "link": "https://www.qbitai.com/2026/11/509085.html",
-     "pubDate": "Wed, 11 Nov 2026 06:18:09 +0000",
-     "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
-     "source": "量子位",
-     "zh": "卷起来了！11月11日，大模型厂商在天猫打5折"
-    },
-    {
      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
      "link": "https://huggingface.co/blog/qvac/botpsy",
      "pubDate": "Wed, 11 Nov 2026 05:01:16 GMT",
@@ -135,14 +111,6 @@
      "summary": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared f",
      "source": "MarkTechPost",
      "zh": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms"
-    },
-    {
-     "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-     "link": "https://www.qbitai.com/2026/11/509052.html",
-     "pubDate": "Wed, 11 Nov 2026 03:43:31 +0000",
-     "summary": "L4无人化作业走向规模交付",
-     "source": "量子位",
-     "zh": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光"
     },
     {
      "title": "英伟达追投667亿！史上最大IPO启动路演，7名创始人将套现百亿",
@@ -247,6 +215,38 @@
      "summary": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each technique.",
      "source": "KDnuggets",
      "zh": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank"
+    },
+    {
+     "title": "苹果开卖334元AI“加油包”，额度不详，仅面向已订阅创作套件用户",
+     "link": "https://zhidx.com/p/608931.html",
+     "pubDate": "Tue, 10 Nov 2026 20:05:35 +0800",
+     "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月10日消息，11月9日，据科技媒体9to5Mac报道，苹果已针对其软件内置的AI助手 上线AI用量包 （Intelligence Usage Packs），在音乐制作软件Logic Pro中率先提供购买入口， 售价49.99美元（约合人民币334元） 。 ▲Logic Pro用量页面（图源：9to5Mac） Logic Pro内置的AI助手可以 根据自然语言指令创建音轨 、添加效果器、移动音乐片段，也能回答压缩器使用、乐器录音等音乐制作问题。它可以 直接执行部分软件操作 ，具备一定的Agent能力。 这款AI用量包面向 持有有效Apple ",
+     "source": "智东西",
+     "zh": "苹果开卖334元AI“加油包”，额度不详，仅面向已订阅创作套件用户"
+    },
+    {
+     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+     "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+     "pubDate": "Tue, 10 Nov 2026 12:02:28 +0000",
+     "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+     "source": "DeepMind",
+     "zh": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+    },
+    {
+     "title": "Helping caregivers use AI in everyday life",
+     "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+     "pubDate": "Tue, 10 Nov 2026 12:00:00 GMT",
+     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+     "source": "OpenAI",
+     "zh": "Helping caregivers use AI in everyday life"
+    },
+    {
+     "title": "Introducing Businesses in ChatGPT",
+     "link": "https://openai.com/index/introducing-businesses-chatgpt",
+     "pubDate": "Tue, 10 Nov 2026 10:00:00 GMT",
+     "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+     "source": "OpenAI",
+     "zh": "Introducing Businesses in ChatGPT"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/11 23:12:19",
+ "generated_at": "2026/11/11 23:27:35",
  "recent_days": 7,
  "industries": [
   {
@@ -857,12 +857,28 @@
    "total": 9,
    "items": [
     {
+     "title": "Austria’s solar and storage rebates exhausted in 29 seconds",
+     "link": "https://www.pv-magazine.com/2026/11/11/austrias-solar-and-storage-rebates-exhausted-in-29-seconds/",
+     "pubDate": "Wed, 11 Nov 2026 15:10:05 +0000",
+     "summary": "Austria’s third and final funding round for solar and storage in 2026 attracted more than 41,000 applications, but only 7,007 received approval. Funding for the smallest PV systems was exhausted within 29 seconds of the application window opening. The post Austria’s solar and storage rebates exhaust",
+     "source": "pv magazine",
+     "zh": "Austria’s solar and storage rebates exhausted in 29 seconds"
+    },
+    {
      "title": "German utility plans 30 MWh zinc-bromine BESS",
      "link": "https://www.pv-magazine.com/2026/11/11/german-utility-plans-30-mwh-zinc-bromine-bess/",
      "pubDate": "Wed, 11 Nov 2026 15:08:22 +0000",
      "summary": "Stadtwerke Gaggenau and Capac AG are planning a €15.2 million ($16.8 million) project featuring US manufacturer Eos’ stackable zinc-bromine battery technology, with construction due to begin in 2027 and commissioning scheduled for 2028. The post German utility plans 30 MWh zinc-bromine BESS appeared",
      "source": "pv magazine",
      "zh": "German utility plans 30 MWh zinc-bromine BESS"
+    },
+    {
+     "title": "The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors.",
+     "link": "https://cleantechnica.com/2026/11/11/dutch-electric-inland-shipping-subsidy-freight-corridors/",
+     "pubDate": "Wed, 11 Nov 2026 15:06:05 +0000",
+     "summary": "The Netherlands' new subsidy rewards cleaner vessel propulsion, but its principal cost denominator leaves out shared shore infrastructure that turns vessels into repeatable freight services. The post The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors",
+     "source": "CleanTechnica",
+     "zh": "The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors."
     },
     {
      "title": "Helleniq to invest over €1 billion in 1.3GW renewables and energy storage in Romania",
@@ -985,14 +1001,6 @@
      "zh": "Semi-solid state batteries for BESS: potential and challenges"
     },
     {
-     "title": "Agrivoltaics can increase profitability of indoor farming agrotunnels",
-     "link": "https://www.pv-magazine.com/2026/11/11/agrivoltaics-can-increase-profitability-of-indoor-farming-agrotunnels/",
-     "pubDate": "Wed, 11 Nov 2026 12:06:19 +0000",
-     "summary": "Researchers at Canada's Western University have found that PV-powered indoor farming agrotunnels could achieve returns on investment of up to 499%, with payback periods of less than three years. Their analysis covered six North American locations and identified basil prices and cultivation strategie",
-     "source": "pv magazine",
-     "zh": "Agrivoltaics can increase profitability of indoor farming agrotunnels"
-    },
-    {
      "title": "SpaceX orders HJT solar cell manufacturing equipment from Singulus Technologies",
      "link": "https://www.pv-tech.org/spacex-orders-hjt-solar-cell-manufacturing-equipment-from-singulus-technologies/",
      "pubDate": "Wed, 11 Nov 2026 11:54:24 +0000",
@@ -1087,14 +1095,6 @@
      "summary": "Looking at changes in BYD’s passenger vehicle sales overall, the company saw solid growth in October. Sales were up 11.8%, going from 436,856 in October 2025 to 483,125 in October 2026. However, that overall growth hides the fact that the company’s BEV (full electric vehicle) sales soared while its ",
      "source": "CleanTechnica",
      "zh": "BYD’s BEV Sales Soar While Its PHEV Sales Slide"
-    },
-    {
-     "title": "Trump Administration Continues Systematic Dismantling of Public Lands",
-     "link": "https://cleantechnica.com/2026/11/10/trump-administration-continues-systematic-dismantling-of-public-lands/",
-     "pubDate": "Wed, 11 Nov 2026 04:47:08 +0000",
-     "summary": "Proposed Rule Would Shut the Public Out and Allow the Administration to Make Sweeping Decisions About 250 Million Acres of Western Public Lands Behind Closed Doors Yesterday, the Administration announced a proposed Bureau of Land Management (BLM) rulemaking that would drastically weaken the public’s",
-     "source": "CleanTechnica",
-     "zh": "Trump Administration Continues Systematic Dismantling of Public Lands"
     }
    ]
   },
@@ -1104,6 +1104,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "STAT+: Why this former ER doc thinks giving AI less information is sometimes better",
+     "link": "https://www.statnews.com/2026/11/11/mdcalc-cofounder-graham-walker-on-crosscover-ai-prognosis/?utm_campaign=rss",
+     "pubDate": "Wed, 11 Nov 2026 15:20:23 +0000",
+     "summary": "In this edition of AI Prognosis: A conversation with Graham Walker, co-founder of MDCalc, about the company's new AI tool.",
+     "source": "STAT News",
+     "zh": "STAT+: Why this former ER doc thinks giving AI less information is sometimes better"
+    },
     {
      "title": "STAT+: Senate health committee schedules vote on FDA commissioner nominee Overton",
      "link": "https://www.statnews.com/2026/11/11/fda-commissioner-nominee-heidi-overton-senate-committee-vote/?utm_campaign=rss",
@@ -1183,14 +1191,6 @@
      "summary": "Federal health officials granted blanket ethics waivers to USPSTF panel members, some of whom own pharma stocks and private medical practices.",
      "source": "STAT News",
      "zh": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal"
-    },
-    {
-     "title": "A new tactic in the war over out-of-network bills: Health care providers are suing employers",
-     "link": "https://www.statnews.com/2026/11/11/no-surprises-act-phi-health-air-ambulance-sues-employers/?utm_campaign=rss",
-     "pubDate": "Wed, 11 Nov 2026 09:30:00 +0000",
-     "summary": "Providers increasingly are suing employers, claiming they are responsible for out-of-network medical bills that insurers haven’t fully paid or have delayed paying.",
-     "source": "STAT News",
-     "zh": "A new tactic in the war over out-of-network bills: Health care providers are suing employers"
     },
     {
      "title": "Despite midterm losses, RFK Jr. is bullish on MAHA's future",
@@ -1553,6 +1553,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+     "pubDate": "Wed, 11 Nov 2026 10:12:59 -0500",
+     "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+     "source": "BleepingComputer",
+     "zh": "Hackers use AntiFox AI agents in AWS credential-theft attacks"
+    },
+    {
      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
      "pubDate": "Wed, 11 Nov 2026 10:01:11 -0500",
@@ -1697,14 +1705,6 @@
      "zh": "November Patch Tuesday: An Overflowing Cornucopia of CVEs"
     },
     {
-     "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-     "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-     "pubDate": "Tue, 10 Nov 2026 17:20:19 -0500",
-     "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
-     "source": "BleepingComputer",
-     "zh": "Railway breach leads to $740,000 in fraudulent AI charges"
-    },
-    {
      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
      "pubDate": "Tue, 10 Nov 2026 21:55:03 +0000",
@@ -1768,6 +1768,38 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed (Tim Keary/Forbes)",
+     "link": "https://www.techmeme.com/261111/p33#a261111p33",
+     "pubDate": "Wed, 11 Nov 2026 10:21:00 -0500",
+     "summary": "Tim Keary / Forbes : Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more. &hellip; Big data analytics is being rei",
+     "source": "Techmeme",
+     "zh": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed (Tim Keary/Forbes)"
+    },
+    {
+     "title": "上海合晶定增方案调整：砍掉补流项目、7亿加码12英寸硅片，扩产资金七成靠举债",
+     "link": "https://www.tmtpost.com/8201705.html",
+     "pubDate": "Wed, 11 Nov 2026 23:15:01 +0800",
+     "summary": "股权融资杯水车薪，大头需银团贷款。",
+     "source": "钛媒体",
+     "zh": "上海合晶定增方案调整：砍掉补流项目、7亿加码12英寸硅片，扩产资金七成靠举债"
+    },
+    {
+     "title": "存储又涨价？真正原因找到了",
+     "link": "https://www.huxiu.com/article/4904875.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 23:11:33 +0800",
+     "summary": "本文来自微信公众号： 科创板日报 ，作者：陈俊清，原文标题：《存储又涨价？真正原因找到了！》 存储市场正呈现出一种并不常见的错位。 向上看，全球主要原厂的产能排期已卖到了2029年。SK海力士在季度财报会上称，DRAM与HBM产能近乎售罄，客户申报的采购需求达到现有供给能力的两倍以上；三星2027年的HBM供应谈判已经完成，产能也已全部售罄。 向下看，消费级存储的部分品类却上涨动能较弱，通用型MLC NAND 10月合约均价环比持平，有原厂判断NAND价格的上涨趋势可能在其下一财年停止。 《科创板日报》记者注意到，同一条产业链的两端，一边是排到三年之后的订单，一边是逐季转弱的终端需求。业内人士",
+     "source": "虎嗅",
+     "zh": "存储又涨价？真正原因找到了"
+    },
+    {
+     "title": "Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict genetic mutation effects, for non-commercial research (Robert Hart/The Verge)",
+     "link": "https://www.techmeme.com/261111/p32#a261111p32",
+     "pubDate": "Wed, 11 Nov 2026 10:10:04 -0500",
+     "summary": "Robert Hart / The Verge : Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict genetic mutation effects, for non-commercial research &nbsp; &mdash;&nbsp; DeepMind's new DNA model better predicts how mutations affect different cells, potentially opening ",
+     "source": "Techmeme",
+     "zh": "Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict genetic mutation effects, for non-commercial research (Robert Hart/The Verge)"
+    },
     {
      "title": "Plurai, founded by former Nexar staffers to use synthetic data and digital twins of corporate IT environments to assess AI agents, raised a $13M seed (Tim Fernholz/TechCrunch)",
      "link": "https://www.techmeme.com/261111/p31#a261111p31",
@@ -1860,7 +1892,7 @@
      "title": "Pharo in the Browser with WebAssembly",
      "link": "https://massimo-nocentini.github.io/pharo-vm/world.html",
      "pubDate": "Wed, 11 Nov 2026 14:21:27 +0000",
-     "summary": "Article URL: https://massimo-nocentini.github.io/pharo-vm/world.html Comments URL: https://news.ycombinator.com/item?id=50453763 Points: 23 # Comments: 5",
+     "summary": "Article URL: https://massimo-nocentini.github.io/pharo-vm/world.html Comments URL: https://news.ycombinator.com/item?id=50453763 Points: 29 # Comments: 6",
      "source": "Hacker News",
      "zh": "Pharo in the Browser with WebAssembly"
     },
@@ -1900,7 +1932,7 @@
      "title": "Atuin Threads: All your agent sessions on every machine",
      "link": "https://blog.atuin.sh/threads-agent-sessions/",
      "pubDate": "Wed, 11 Nov 2026 14:10:46 +0000",
-     "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 16 # Comments: 4",
+     "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 22 # Comments: 11",
      "source": "Hacker News",
      "zh": "Atuin Threads: All your agent sessions on every machine"
     },
@@ -1916,7 +1948,7 @@
      "title": "Apple is killing its Support Community forum next week",
      "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
      "pubDate": "Wed, 11 Nov 2026 14:02:11 +0000",
-     "summary": "Article URL: https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down Comments URL: https://news.ycombinator.com/item?id=50453555 Points: 34 # Comments: 18",
+     "summary": "Article URL: https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down Comments URL: https://news.ycombinator.com/item?id=50453555 Points: 47 # Comments: 20",
      "source": "Hacker News",
      "zh": "Apple is killing its Support Community forum next week"
     },
@@ -1932,7 +1964,7 @@
      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
      "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
      "pubDate": "Wed, 11 Nov 2026 13:56:05 +0000",
-     "summary": "Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 67 # Comments: 23",
+     "summary": "Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 82 # Comments: 31",
      "source": "Hacker News",
      "zh": "I asked every TV manufacturer 17 questions about how they spy on you"
     },
@@ -1945,12 +1977,12 @@
      "zh": "物业企业开始拿地是什么信号？"
     },
     {
-     "title": "Sources: Anthropic&apos;s IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday (Bailey Lipschultz/Bloomberg)",
-     "link": "https://www.techmeme.com/261111/p27#a261111p27",
-     "pubDate": "Wed, 11 Nov 2026 08:40:01 -0500",
-     "summary": "Bailey Lipschultz / Bloomberg : Sources: Anthropic's IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday &nbsp; &mdash;&nbsp; Anthropic PBC's initial public offering has drawn multiple times the orders for the sha",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic&apos;s IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday (Bailey Lipschultz/Bloomberg)"
+     "title": "Hyper-Realistic Sand with WebGL2",
+     "link": "https://av.github.io/safe-sand/",
+     "pubDate": "Wed, 11 Nov 2026 13:39:29 +0000",
+     "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Hyper-Realistic Sand with WebGL2"
     },
     {
      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
@@ -1964,7 +1996,7 @@
      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
      "link": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
      "pubDate": "Wed, 11 Nov 2026 13:34:24 +0000",
-     "summary": "No internet connection needed. Uses a locally-installed compiler for assembly generation. Comments URL: https://news.ycombinator.com/item?id=50453229 Points: 11 # Comments: 1",
+     "summary": "No internet connection needed. Uses a locally-installed compiler for assembly generation. Comments URL: https://news.ycombinator.com/item?id=50453229 Points: 16 # Comments: 1",
      "source": "Hacker News",
      "zh": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)"
     },
@@ -1975,38 +2007,6 @@
      "summary": "两笔交易的绝对金额都不算高，但放在中恒集团前三季度业绩承压、持续梳理存量资产的背景下，也是一个战略信号。",
      "source": "钛媒体",
      "zh": "退复星南宁、卖莱美老厂：中恒集团的收缩账"
-    },
-    {
-     "title": "平台比人民还想“杀死”双十一",
-     "link": "https://www.huxiu.com/article/4904857.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 21:30:17 +0800",
-     "summary": "本文来自微信公众号： 星海情报局 ，作者：星海老局 双十一才刚满十八岁，亲手把它养大的电商平台，就已经开始琢磨怎么干掉它了。 今年10月15日，天猫和京东不约而同地在同一天召开双十一发布会。放在前些年，这几乎就是两家电商巨头一年一度最热血的战前动员，折扣、补贴、流量、成交目标……但凡喊不出空前绝后的气势就算输了。 但今年，两家平台显然有了新的算盘。 天猫宣布有100万个品牌、7200万款商品参加大促。但比起折扣，天猫总裁家洛更愿意谈AI如何发现消费者尚未表达的需求，如何帮品牌找到新的生意。连过去主要面向程序员和企业客户的Token，都成了双十一的新商品，李佳琦11月2日半小时卖出了10万份千问",
-     "source": "虎嗅",
-     "zh": "平台比人民还想“杀死”双十一"
-    },
-    {
-     "title": "Salt Lake City-based energy storage startup Torus raised a $500M Series C led by Magnetar to build shipping container-sized AI data centers at 1MW to 20MW sizes (Mark Chediak/Bloomberg)",
-     "link": "https://www.techmeme.com/261111/p26#a261111p26",
-     "pubDate": "Wed, 11 Nov 2026 08:25:02 -0500",
-     "summary": "Mark Chediak / Bloomberg : Salt Lake City-based energy storage startup Torus raised a $500M Series C led by Magnetar to build shipping container-sized AI data centers at 1MW to 20MW sizes &nbsp; &mdash;&nbsp; Torus, an energy-storage startup, said it raised $500 million in funding to help launch a n",
-     "source": "Techmeme",
-     "zh": "Salt Lake City-based energy storage startup Torus raised a $500M Series C led by Magnetar to build shipping container-sized AI data centers at 1MW to 20MW sizes (Mark Chediak/Bloomberg)"
-    },
-    {
-     "title": "EventSourcingDB 1.3.0 Is Available",
-     "link": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
-     "pubDate": "Wed, 11 Nov 2026 13:19:45 +0000",
-     "summary": "Article URL: https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available Comments URL: https://news.ycombinator.com/item?id=50453080 Points: 7 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "EventSourcingDB 1.3.0 Is Available"
-    },
-    {
-     "title": "SpaceX与特斯拉合并：马斯克用37% 的股权换来56% 的投票权",
-     "link": "https://www.huxiu.com/article/4904853.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 21:12:41 +0800",
-     "summary": "本文来自微信公众号： 太空与网络 ，作者：老谭，原文标题：《SpaceX与特斯拉合并：马斯克用 37% 的股权换来 56% 的投票权》 SpaceX与特斯拉合并：马斯克用37%的股权换来56%的投票权 01 引言：37%的股权，56%的投票权 路透社11月3日报道，SpaceX与特斯拉若合并，马斯克可能只持有新公司约37%的股权，却掌握约56%的投票权。合并后公司值多少万亿美元，是估值问题；37%的股权拿到56%的投票权，才是控制权问题。 从公开信息看，这笔交易仍处于\"讨论—程序—未定价\"阶段，没有进入可表决的状态。10月19日特斯拉提交的股东大会委托书里，议程没有合并提案，股东在12月3日的",
-     "source": "虎嗅",
-     "zh": "SpaceX与特斯拉合并：马斯克用37% 的股权换来56% 的投票权"
     }
    ]
   },
@@ -2265,12 +2265,92 @@
    "total": 13,
    "items": [
     {
-     "title": "Goldman Sachs, HSBC partner for $150M financing to United Saudi Company - report",
-     "link": "https://seekingalpha.com/news/4670660-goldman-sachs-hsbc-partner-for-150m-financing-to-united-saudi-company---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 10:00:46 -0500",
+     "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+     "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+     "pubDate": "Wed, 11 Nov 2026 15:24:04 GMT",
+     "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
+     "source": "CNBC",
+     "zh": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program"
+    },
+    {
+     "title": "大摩警告：旧存储价格正在见顶，2028年供需或转向宽松",
+     "link": "https://wallstreetcn.com/articles/3785751",
+     "pubDate": "Wed, 11 Nov 2026 23:21:17 +0800",
+     "summary": "旧存储芯片市场的定价红利正逐步走向终结。摩根士丹利在最新报告中警告，云端资本支出不确定性上升、消费端需求持续疲软，以及供需关系料将于2028年前后趋于平衡，旧存储行业的盈利逻辑已从\"向上弹性\"转向\"向下防御\"。 据追风交易台，摩根士丹利发布报告指出， 美国中期选举后，预计2028年美国数据中心约20%的新增容量将推迟至2029年落地，涉及约5吉瓦的建设规模，相当于全球2028年新增容量的10%。 这一延迟可能在2028年为科技供应链制造\"断层\"，压缩旧存储芯片的定价空间，并引发库存积压风险。 与此同时，摩根士丹利对SLC NAND、MLC NAND、NOR及DDR4四大产品的供需模型进行更新后",
+     "source": "华尔街见闻",
+     "zh": "大摩警告：旧存储价格正在见顶，2028年供需或转向宽松"
+    },
+    {
+     "title": "Wall Street rebounds on a quieter day as the bond market is closed",
+     "link": "https://seekingalpha.com/news/4670670-wall-street-rebounds-on-a-quieter-day-as-the-bond-market-is-closed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 10:21:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Goldman Sachs, HSBC partner for $150M financing to United Saudi Company - report"
+     "zh": "Wall Street rebounds on a quieter day as the bond market is closed"
+    },
+    {
+     "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+     "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+     "pubDate": "Wed, 11 Nov 2026 15:15:00 GMT",
+     "summary": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
+     "source": "MarketWatch",
+     "zh": "Market angst is driving investors into low-volatility stocks as AI trade stumbles"
+    },
+    {
+     "title": "Biggest stock movers Wednesday: CRWV, RGTI, LWLG, and more",
+     "link": "https://seekingalpha.com/news/4670513-biggest-stock-movers-wednesday-crwv-rgti-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 10:14:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Biggest stock movers Wednesday: CRWV, RGTI, LWLG, and more"
+    },
+    {
+     "title": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
+     "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+     "pubDate": "Wed, 11 Nov 2026 15:13:39 GMT",
+     "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+     "source": "CNBC",
+     "zh": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report"
+    },
+    {
+     "title": "Coinbase adds new agent controls based on its servers",
+     "link": "https://seekingalpha.com/news/4670665-coinbase-adds-new-agent-controls-based-on-its-servers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 10:12:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Coinbase adds new agent controls based on its servers"
+    },
+    {
+     "title": "U.S. measles elimination status is at risk as regional WHO body holds annual meeting",
+     "link": "https://seekingalpha.com/news/4670667-us-measles-elimination-status-risk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 10:10:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. measles elimination status is at risk as regional WHO body holds annual meeting"
+    },
+    {
+     "title": "CoreWeave CEO says he's cancelled his 10b5-1 plan - CNBC",
+     "link": "https://seekingalpha.com/news/4670666-coreweave-ceo-says-hes-cancelled-his-10b5minus-1-plan-cnbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 10:09:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CoreWeave CEO says he's cancelled his 10b5-1 plan - CNBC"
+    },
+    {
+     "title": "Rigetti reports 'lumpy' Q3 results, but analysts focus on roadmap",
+     "link": "https://seekingalpha.com/news/4670663-rigetti-reports-lumpy-q3-results-but-analysts-focus-on-roadmap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 10:09:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rigetti reports 'lumpy' Q3 results, but analysts focus on roadmap"
+    },
+    {
+     "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
+     "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+     "pubDate": "Wed, 11 Nov 2026 15:08:00 GMT",
+     "summary": "Many service members face an often invisible financial trap when they step out of uniform.",
+     "source": "MarketWatch",
+     "zh": "From living in his car to a 756 credit score: How one veteran rebuilt his finances"
     },
     {
      "title": "JetBlue&apos;s CEO has pushed back on creditor fears and is betting on premium to return to profitability",
@@ -2281,38 +2361,6 @@
      "zh": "JetBlue&apos;s CEO has pushed back on creditor fears and is betting on premium to return to profitability"
     },
     {
-     "title": "Here are the major earnings after the close Wednesday",
-     "link": "https://seekingalpha.com/news/4669773-here-are-the-major-earnings-after-the-close-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 10:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings after the close Wednesday"
-    },
-    {
-     "title": "Meta, TikTok, and Google join forces to challenge Indonesia's copyright law",
-     "link": "https://seekingalpha.com/news/4670659-meta-tiktok-and-google-join-forces-to-challenge-indonesias-copyright-law?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 09:58:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Meta, TikTok, and Google join forces to challenge Indonesia's copyright law"
-    },
-    {
-     "title": "Refiners dominate energy stocks with longest-running Strong Buy Quant ratings",
-     "link": "https://seekingalpha.com/news/4670664-refiners-dominate-energy-stocks-with-longest-running-strong-buy-quant-ratings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 09:57:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Refiners dominate energy stocks with longest-running Strong Buy Quant ratings"
-    },
-    {
-     "title": "CoreWeave CEO says &apos;new political reality&apos; after midterms won&apos;t slow buildout",
-     "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-     "pubDate": "Wed, 11 Nov 2026 14:52:03 GMT",
-     "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
-     "source": "CNBC",
-     "zh": "CoreWeave CEO says &apos;new political reality&apos; after midterms won&apos;t slow buildout"
-    },
-    {
      "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
      "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
      "pubDate": "Wed, 11 Nov 2026 14:49:16 GMT",
@@ -2321,36 +2369,60 @@
      "zh": "CFTC investigates if Kalshi improperly self-certified event contracts"
     },
     {
-     "title": "AI infrastructure trade lifts Quanta Services, power beneficiaries",
-     "link": "https://seekingalpha.com/news/4670662-ai-infrastructure-trade-lifts-quanta-services-power-beneficiaries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 09:47:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AI infrastructure trade lifts Quanta Services, power beneficiaries"
-    },
-    {
-     "title": "T. Rowe Price AUM dips 1.6% on net outflows and market depreciation",
-     "link": "https://seekingalpha.com/news/4670656-t-rowe-price-aum-dips-16-on-net-outflows-and-market-depreciation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 09:42:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "T. Rowe Price AUM dips 1.6% on net outflows and market depreciation"
-    },
-    {
-     "title": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
-     "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-     "pubDate": "Wed, 11 Nov 2026 14:40:44 GMT",
-     "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
-     "source": "CNBC",
-     "zh": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns"
+     "title": "AI交易回暖，费半涨5%，CoreWeave暴涨15%，英伟达涨3%，油价反弹",
+     "link": "https://wallstreetcn.com/articles/3785732",
+     "pubDate": "Wed, 11 Nov 2026 22:45:20 +0800",
+     "summary": "美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。 美股盘初，标普500指数涨0.87%，道琼斯工业平均指数跌0.07%，纳斯达克综合指数涨1.53%。费城半导体指数涨4.7%，收复11月5日暴跌以来的全部失地。 英伟达涨2.9%，CoreWeave涨14.6%，Nebius Group涨13.3%，闪迪、希捷科技、西部数据、SK海力士ADR、美光、英特尔、迈威尔科技等至多涨约8%。SpaceX涨0.5%。 欧洲市场同步走强，斯托克600指数",
+     "source": "华尔街见闻",
+     "zh": "AI交易回暖，费半涨5%，CoreWeave暴涨15%，英伟达涨3%，油价反弹"
     },
     {
      "title": "美股三大指数走势分化 纳指涨超1% 费城半导体指数涨逾4%",
      "link": "http://finance.eastmoney.com/news/1345,202611113928745779.html",
      "pubDate": "Wed, 11 Nov 2026 22:40:10 +0800",
-     "summary": "美东时间周三，美股三大指数涨跌不一，截至发稿，道琼斯指数跌0.09%，标普500指数涨0.85%， 纳斯达克 综合 指数涨1.20%。 费城 半导体 指数涨3.88%，收复11月5日暴跌12%的全部跌幅。个股方面， 闪迪 涨11.31%，Lumentum涨9.46%， 美光科技 涨8.10%， 希捷科技 涨7.80%， SK海力士 涨7.22%， 英特尔 涨6.17%，Coherent涨5.87%， 博通 涨5.83%， 台积电 涨3.26%， 英伟达 涨2.34%。 国际油价走高，截至发稿，WTI原油 期货 价格涨1.58%，报87.40美元/桶；布伦特原油 期货 价格涨1.64%，报92.",
-     "source": "东方财富资讯",
+     "summary": "美东时间周三，美股三大指数涨跌不一，截至发稿，道琼斯指数跌0.15%，标普500指数涨0.84%， 纳斯达克 综合 指数涨1.25%。 费城 半导体 指数涨4.40%，收复11月5日暴跌12%的全部跌幅。个股方面， 闪迪 涨12.66%，Lumentum涨10.67%， 美光科技 涨9.52%， 希捷科技 涨9.28%，Coherent涨8.90%， SK海力士 涨8.13%， 英特尔 涨6.44%， 博通 涨5.79%， 台积电 涨2.91%， 英伟达 涨2.16%。 国际油价走高，截至发稿，布伦特原油 期货 价格涨2.00%，报93.32美元/桶；WTI原油 期货 价格涨1.91%，报87",
+     "source": "东方财富股票",
      "zh": "美股三大指数走势分化 纳指涨超1% 费城半导体指数涨逾4%"
+    },
+    {
+     "title": "受CoreWeave业绩公布提振 美国云计算服务商全线走高",
+     "link": "http://finance.eastmoney.com/news/1351,202611113928749477.html",
+     "pubDate": "Wed, 11 Nov 2026 22:39:27 +0800",
+     "summary": "受CoreWeave业绩公布提振，美国 云计算 服务商全线走高， Roundhill Neocloud ETF 上涨12%，Nebius升逾12%，IREN、 甲骨文 升逾5%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "受CoreWeave业绩公布提振 美国云计算服务商全线走高"
+    },
+    {
+     "title": "连日大跌，凤凰航运发布异动公告，正被证监会立案调查；股价较年内高点近乎“腰斩”",
+     "link": "http://finance.eastmoney.com/news/1354,202611113928750553.html",
+     "pubDate": "Wed, 11 Nov 2026 22:38:20 +0800",
+     "summary": "11月11日收盘后， 凤凰航运 （SZ000520，股价2.81元，市值28.44亿元）发布《关于公司股票交易异常波动的公告》。公告显示，公司股票于11月9日、11月10日、11月11日连续三个交易日收盘价格跌幅偏离值累计超过20%，根据《深圳证券交易所交易规则》有关规定，属于股票交易异常波动情形。其中11月11日，公司股价收于2.81元，单日跌幅5.07%。 将时间轴拉长看，前复权口径下，公司年内最高价出现在3月3日，盘中最高触及5.20元；此后股价震荡回落，进入11月后加速下行，11月9日至11月11日三个交易日接连收盘于3.12元、2.96元和2.81元。以此计算，公司当前股价较年内高点",
+     "source": "东方财富股票",
+     "zh": "连日大跌，凤凰航运发布异动公告，正被证监会立案调查；股价较年内高点近乎“腰斩”"
+    },
+    {
+     "title": "南非主要股指下跌1% 至113,538.40点",
+     "link": "http://finance.eastmoney.com/news/1351,202611113928749684.html",
+     "pubDate": "Wed, 11 Nov 2026 22:37:54 +0800",
+     "summary": "南非主要股指下跌1%，至113,538.40点。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "南非主要股指下跌1% 至113,538.40点"
+    },
+    {
+     "title": "美国 NEOCLOUD 盘前上涨 COREWEAVE 公布业绩 NEBIUS 涨 15.2% IREN 涨 8.4%",
+     "link": "http://finance.eastmoney.com/news/1351,202611113928750913.html",
+     "pubDate": "Wed, 11 Nov 2026 22:37:06 +0800",
+     "summary": "美国 NEOCLOUD 股票盘前上涨，COREWEAVE 公布业绩，NEBIUS 上涨 15.2%，IREN上涨 8.4%，NEBIUS上涨 15.2%，IREN上涨 8.4%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "美国 NEOCLOUD 盘前上涨 COREWEAVE 公布业绩 NEBIUS 涨 15.2% IREN 涨 8.4%"
+    },
+    {
+     "title": "覆铜板因品质问题被英伟达取消订货？生益科技：未接到任何终端取消订单的通知",
+     "link": "http://finance.eastmoney.com/news/1354,202611113928749545.html",
+     "pubDate": "Wed, 11 Nov 2026 22:37:01 +0800",
+     "summary": "覆 铜 板（CCL）龙头 生益科技 否认 英伟达 订单生变。 11月11日，有投资者在投资者互动平台向广东 生益科技 股份有限公司（ 生益科技 ，600183.SH）提问称，“今天有消息说，公司的M9因为品质问题，被 英伟达 取消了订货。有这个事情吗？公司是否有没有披露的重大事项？” 对此，生益科技回应称，公司未接到任何终端取消订单的通知，目前生产经营情况正常，订单饱满。对于近期网络流传的相关说法，公司对其来源与用意不予置评。 官网介绍，生益科技创始于1985年，是集研发、生产、销售、服务为一体的全球 电子 电路基材核心供应商。经过三十多年的发展，生益覆 铜 板（CCL） 板材 产量从建厂之初",
+     "source": "东方财富股票",
+     "zh": "覆铜板因品质问题被英伟达取消订货？生益科技：未接到任何终端取消订单的通知"
     },
     {
      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
@@ -2425,84 +2497,12 @@
      "zh": "Corporate America is making a trillion-dollar mistake about retirement"
     },
     {
-     "title": "Micron and other AI stocks surge as CoreWeave calms Wall Street’s worst fears",
-     "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 13:37:00 GMT",
-     "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around future debt are sparking a broad rally across the chip sector.",
-     "source": "MarketWatch",
-     "zh": "Micron and other AI stocks surge as CoreWeave calms Wall Street’s worst fears"
-    },
-    {
      "title": "反数据中心浪潮下，AI交易还能走多远？关键看GPU租赁价格",
      "link": "https://wallstreetcn.com/articles/3785745",
      "pubDate": "Wed, 11 Nov 2026 21:34:39 +0800",
      "summary": "数据中心的政治逆风正在重塑AI投资逻辑，但这场交易的生死，最终取决于一个鲜少被关注的价格信号——GPU租赁价格。 据彭博宏观策略师Simon White撰文指出，美国中期选举后，算力供给面临收紧风险，市场已率先作出反应。上周市场急剧下挫后虽有所企稳，但波动尚未平息。核心问题在于： 若数据中心建设受阻，GPU租赁价格能否通过上涨，足以弥补资本开支萎缩带来的损失？ 从市场已有的价格信号看，答案具有一定可行性。这一逻辑的成立，将驱动AI交易内部发生结构性轮动——从依赖持续扩张的AI实验室、新兴云服务商和数据中心建设链，转向坐拥大量存量算力的超大规模云厂商（hyperscalers）。 选举冲击：算力",
      "source": "华尔街见闻",
      "zh": "反数据中心浪潮下，AI交易还能走多远？关键看GPU租赁价格"
-    },
-    {
-     "title": "Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元",
-     "link": "https://wallstreetcn.com/articles/3785750",
-     "pubDate": "Wed, 11 Nov 2026 21:33:18 +0800",
-     "summary": "Anthropic的首次公开募股正成为市场焦点。据彭博11日知情人士透露，该公司IPO认购需求已达可售股份的数倍，有望创下史上最大规模上市纪录。 据彭博报道，本轮超额认购主要由所谓\"锚定规模\"的认购意向驱动。 Anthropic及其联合创始人寻求通过IPO及私募配售合计募资最高904亿美元，若与SpaceX未来IPO相比，此次发行规模将超越其历史纪录，成为有史以来规模最大的上市交易。 在估值方面，Anthropic目前将完全摊薄估值目标定为约1.4万亿美元，低于部分投资者此前的预期水平。此次上市由高盛和摩根士丹利联席主承销，另有20家银行参与，股票将在纳斯达克全球精选市场以\"ANT\"为代码交易",
-     "source": "华尔街见闻",
-     "zh": "Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元"
-    },
-    {
-     "title": "美银之后，大摩也将英伟达移除“首选股”名单！",
-     "link": "https://wallstreetcn.com/articles/3785748",
-     "pubDate": "Wed, 11 Nov 2026 21:25:01 +0800",
-     "summary": "英伟达正面临华尔街顶级机构的信心动摇。 继美国银行之后，摩根士丹利周三也将英伟达从其半导体板块\"首选股\"名单中移除，尽管两家机构均维持\"增持\"或\"买入\"评级。 这一连串降级动作，折射出华黄仁勋个人丑闻对英伟达投资逻辑的冲击正在蔓延。 摩根士丹利分析师在周三的研报中指出， 黄仁勋的领导力对英伟达的战略方向\"至关重要\"，而当前围绕其个人的不确定性已令风险收益比趋于不利。 此前，英伟达股价在周一和周二连续两日分别下跌4.3%和5.47%，两日累计跌幅接近10%，本周市值蒸发约4700亿美元。周三美股盘前，股价有所反弹，涨幅最高超过5%。 美国银行则早一步于11月10日将英伟达、美光科技（Micron",
-     "source": "华尔街见闻",
-     "zh": "美银之后，大摩也将英伟达移除“首选股”名单！"
-    },
-    {
-     "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 13:15:00 GMT",
-     "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-     "source": "MarketWatch",
-     "zh": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?"
-    },
-    {
-     "title": "11月11日东方财富财经晚报（附新闻联播）",
-     "link": "http://finance.eastmoney.com/news/1353,202611113928607588.html",
-     "pubDate": "Wed, 11 Nov 2026 21:00:00 +0800",
-     "summary": "热点聚焦 央行报告 ： 央行发布2026年第三季度中国货币政策执行报告，下一阶段货币政策主要思路：积极稳妥防范化解金融风险。构建覆盖全面的宏观审慎管理体系，完善系统性金融风险防范处置机制。拓展丰富中央 银行 宏观审慎与金融稳定功能，丰富完善工具箱，加力实施支持资本市场的两项货币政策工具， 用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行 。 外交部回应 ： 外交部发言人郭嘉昆主持例行记者会。路透社记者提问，在涉及 英伟达 首席执行官黄仁勋的相关指控出现后， 美国国会议员周二再次呼吁收紧对中国获取先进 人工智能 （AI）芯片的限制 。外交部对此有何评论？“中方在美国输华芯片问",
-     "source": "东方财富资讯",
-     "zh": "11月11日东方财富财经晚报（附新闻联播）"
-    },
-    {
-     "title": "显卡价格跳水？记者实探",
-     "link": "http://finance.eastmoney.com/news/1345,202611113928630376.html",
-     "pubDate": "Wed, 11 Nov 2026 20:59:19 +0800",
-     "summary": "日前，有消息称，近期高端显卡价格剧烈波动，部分型号价格从一个月前的1.8万元/张下跌至目前的1.4万元/张。 对此，11月11日下午，证券时报记者实地探访被称为“全国 电子 第一街”的 深圳华强 北，走访相关 电子 市场。多位主营显卡产品的商家向记者否认了“高端显卡价格大幅波动”的说法，表示大幅波动并不属实，只是近段时间以来的持续调整。 记者现场了解到，11月11日，市场主流用于AI或游戏的高端显卡RTX 5080价格约为1.43万元/张，RTX 5090价格则为4.85万元/张，主流用于电脑的RTX 5060价格则为3000多一张。 “最近变化不是很大，只是之前涨幅太大了，9月份之前，RTX",
-     "source": "东方财富资讯",
-     "zh": "显卡价格跳水？记者实探"
-    },
-    {
-     "title": "AI交易回暖，美股盘前纳指期货上涨2%，CoreWeave暴涨17%，英伟达涨4%，油价反弹",
-     "link": "https://wallstreetcn.com/articles/3785732",
-     "pubDate": "Wed, 11 Nov 2026 20:54:10 +0800",
-     "summary": "美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。 美股盘前，纳斯达克100指数期货涨幅扩大至2%。CoreWeave一度暴涨17%，公司三季度营收超预期并上调全年营收指引。存储芯片股普涨，SK海力士涨约7%，闪迪涨约7%。光通信股股普涨，Coherent涨约9%，Credo涨约8%，Lumentum涨约8%。英伟达美股盘前涨幅扩大至4%。 欧洲市场同步走强，斯托克600指数上涨0.7%，科技与矿业板块领涨；亚洲股市综合指标上涨1.5%。日本",
-     "source": "华尔街见闻",
-     "zh": "AI交易回暖，美股盘前纳指期货上涨2%，CoreWeave暴涨17%，英伟达涨4%，油价反弹"
-    },
-    {
-     "title": "Indonesia ranks social engineering scams as single biggest concern than any other fraud type",
-     "link": "https://www.finextra.com/newsarticle/48742/indonesia-ranks-social-engineering-scams-as-single-biggest-concern-than-any-other-fraud-type?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 11 Nov 2026 12:45:00 GMT",
-     "summary": "With the majority of scams originating on social media and messaging apps, a new Biocatch survey of 100 fraud management, AML and compliance team leaders at banks in Indonesia has found that social engineering scams remain the biggest concern.",
-     "source": "Finextra",
-     "zh": "Indonesia ranks social engineering scams as single biggest concern than any other fraud type"
-    },
-    {
-     "title": "重磅信号！连续两周逆势加仓！百亿私募嗅到了什么？",
-     "link": "http://fund.eastmoney.com/news/1623,202611113928621238.html",
-     "pubDate": "Wed, 11 Nov 2026 20:44:01 +0800",
-     "summary": "市场震荡之际，百亿私募仍在逆势加仓！ 私募排排网最新数据显示，截至10月30日，百亿私募仓位指数升至83.10%，连续两周上升，满仓百亿私募占比达到64.53%。 值得关注的是，近期海外AI板块遭遇明显调整，市场对科技巨头资本开支、算力需求及未来盈利能力的担忧持续升温。但多家百亿私募认为，AI长期发展趋势并未改变，短期市场仍将以结构性机会为主。 百亿私募连续两周加仓 尽管近期市场波动加剧，但利好消息不断：百亿私募逆势加仓，整体仓位持续攀升。 私募排排网数据显示，截至2026年10月30日，百亿私募仓位指数达到83.10%，较前一周上升1.47个百分点，已连续两周逆势加仓。 从仓位结构来看，满仓",
-     "source": "东方财富资讯",
-     "zh": "重磅信号！连续两周逆势加仓！百亿私募嗅到了什么？"
     }
    ]
   },
@@ -2512,6 +2512,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "How a Metabolic Spark Could Have Jump-Started Life",
+     "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+     "pubDate": "Wed, 11 Nov 2026 15:10:30 +0000",
+     "summary": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have Jump-Started Life first appeared on Quanta Magazine",
+     "source": "Quanta Magazine",
+     "zh": "How a Metabolic Spark Could Have Jump-Started Life"
+    },
     {
      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
      "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
@@ -2743,14 +2751,6 @@
      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
      "source": "Ars Technica Science",
      "zh": "Physicists listened to electrical noise to crack a superconductor mystery"
-    },
-    {
-     "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-     "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-     "pubDate": "Sat, 07 Nov 2026 12:15:55 +0000",
-     "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-     "source": "Ars Technica Science",
-     "zh": "The Bantu expansion changed Africa. Scientists are still tracing how."
     }
    ]
   }

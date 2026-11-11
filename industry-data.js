@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 15:12:00",
+ "generated_at": "2026/11/11 15:16:56",
  "recent_days": 7,
  "industries": [
   {
@@ -306,54 +306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Ingentec revenue jumps 79% in first 10 months"
     },
     {
-     "title": "Google pairs TPU with Arm Neoverse",
-     "link": "https://www.electronicsweekly.com/news/business/goggle-pairs-tpu-with-arm-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 06:32:39 +0000",
-     "summary": "Google Cloud is pairing​​ ​its TPU 8i Mac system​s​ ​with​ Arm-based ​Axion processors that are custom Arm Neoverse-based CPUs​ With TPU 8i Max, Google is extending its use of Axion […] The post Google pairs TPU with Arm Neoverse appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Google pairs TPU with Arm Neoverse"
-    },
-    {
-     "title": "Imec delivers baseline flows for NanoIC line interposer",
-     "link": "https://www.electronicsweekly.com/news/business/imec-delivers-baseline-flows-for-nanoic-interposed-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 06:10:13 +0000",
-     "summary": "Imec has delivered the baseline flows for the silicon interposer platform being developed within the NanoIC pilot line. Providing an early technical view of a key technology for chiplet integration, […] The post Imec delivers baseline flows for NanoIC line interposer appeared first on Electronics We",
-     "source": "Electronics Weekly",
-     "zh": "Imec delivers baseline flows for NanoIC line interposer"
-    },
-    {
-     "title": "Electronica: TME showcases the ‘Dual Brain’ Arduino VENTUNO Q",
-     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/electronica-tme-showcases-the-dual-brain-arduino-ventuno-q-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 06:10:04 +0000",
-     "summary": "Distributor TME (Transfer Multisort Elektronik) showcased the Arduino VENTUNO Q at this year’s electronica. The high-performance single-board computer (SBC) targets Edge AI, robotics, and real-time control applications, reflecting the prominence […] The post Electronica: TME showcases the ‘Dual Brai",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: TME showcases the ‘Dual Brain’ Arduino VENTUNO Q"
-    },
-    {
-     "title": "Electronica: Harwin launches XPi cable design and assembly service",
-     "link": "https://www.electronicsweekly.com/news/products/connectors/electronica-harwin-launches-xpi-cable-design-and-assembly-service-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 06:06:09 +0000",
-     "summary": "Harwin, the UK-based manufacturer of high-reliability interconnects, has launched an integration services unit to support customers using its products in harsh environments and safety-critical applications. The unit, called XPi, will […] The post Electronica: Harwin launches XPi cable design and ass",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Harwin launches XPi cable design and assembly service"
-    },
-    {
-     "title": "Spectrometer, light meter, and colour meter in one single portable product",
-     "link": "https://www.electronicsweekly.com/news/business/spectrometer-light-meter-and-colour-meter-in-one-single-portable-product-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 06:03:51 +0000",
-     "summary": "Edmund Optics offers Sekonic Industrial Spectrometer Light Meters for industrial and scientific light analysis. The portable instruments incorporate the functionality of a spectrometer, light meter, and color meter in one […] The post Spectrometer, light meter, and colour meter in one single portabl",
-     "source": "Electronics Weekly",
-     "zh": "Spectrometer, light meter, and colour meter in one single portable product"
-    },
-    {
-     "title": "Siemens buys Lauterbach",
-     "link": "https://www.electronicsweekly.com/news/business/siemens-buys-lauterbach-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 06:02:58 +0000",
-     "summary": "Siemens is to buy Lauterbach, the debug and trace specialist for embedded software and SoC architectures. Lauterbach sells development and verification tools for microprocessors and embedded CPU cores in the […] The post Siemens buys Lauterbach appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Siemens buys Lauterbach"
-    },
-    {
      "title": "Cree LED launches XLamp X21 Multi-Color LEDs",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-101126.shtml",
      "pubDate": "Tue, 10 Nov 2026 20:59:41 GMT",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturers are using test data and predictive models to identify marginal chips and determine when additional screening is justified. The post Which Passing Chips Need More Testing? appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Which Passing Chips Need More Testing?"
+    },
+    {
+     "title": "AI’s Efficiency Challenge For The Semiconductor Industry",
+     "link": "https://semiengineering.com/ais-efficiency-challenge-for-the-semiconductor-industry/",
+     "pubDate": "Tue, 10 Nov 2026 08:03:58 +0000",
+     "summary": "AI is reshaping the tools, data, and collaboration models used to design, manufacture, and test silicon. The post AI’s Efficiency Challenge For The Semiconductor Industry appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI’s Efficiency Challenge For The Semiconductor Industry"
+    },
+    {
+     "title": "The Definitive AFM Modes Handbook: 2026 Edition",
+     "link": "https://semiengineering.com/the-definitive-afm-modes-handbook-2026-edition/",
+     "pubDate": "Tue, 10 Nov 2026 08:01:35 +0000",
+     "summary": "A comprehensive guide to expanding materials research capabilities. The post The Definitive AFM Modes Handbook: 2026 Edition appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "The Definitive AFM Modes Handbook: 2026 Edition"
+    },
+    {
+     "title": "Streaming Scan Network Test Over PCIe",
+     "link": "https://semiengineering.com/streaming-scan-network-test-over-pcie/",
+     "pubDate": "Tue, 10 Nov 2026 08:01:27 +0000",
+     "summary": "Changing test strategies put a premium on how closely the design ecosystem and the test ecosystem line up. The post Streaming Scan Network Test Over PCIe appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Streaming Scan Network Test Over PCIe"
+    },
+    {
+     "title": "We Source Chips Others Cannot Secure, 2026",
+     "link": "https://www.eetimes.com/we-source-chips-others-cannot-secure-2026/",
+     "pubDate": "Tue, 10 Nov 2026 07:48:14 +0000",
+     "summary": "Chang Ming delivers scarce semiconductors, with rigorous 9-step quality inspection & global supply chain support for European & American electronics buyers. The post We Source Chips Others Cannot Secure, 2026 appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "We Source Chips Others Cannot Secure, 2026"
+    },
+    {
+     "title": "CTO Interview with Ed Plowman of Imagination Technologies",
+     "link": "https://semiwiki.com/ip/imagination-technologies/375783-cto-interview-with-ed-plowman-of-imagination-technologies-2/",
+     "pubDate": "Mon, 09 Nov 2026 20:00:12 +0000",
+     "summary": "Ed Plowman is Chief Technology Officer at Imagination Technologies, where he leads technology strategy, advanced architecture research and long-term innovation initiatives. He focuses on the convergence of graphics, compute and artificial intelligence, helping shape the next generation of efficient ",
+     "source": "SemiWiki",
+     "zh": "CTO Interview with Ed Plowman of Imagination Technologies"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -1770,6 +1770,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "币安示警 iPhone 18 Pro 等用户：苹果 iOS 27.2 等存在漏洞，恶意 App 可越界读取隐私文件",
+     "link": "https://www.ithome.com/1/025/484.htm",
+     "pubDate": "Wed, 11 Nov 2026 07:13:16 GMT",
+     "summary": "IT之家 11 月 11 日消息，币安（Binance）昨日（11 月 10 日）在 X 平台发出安全警告， 称苹果 iOS 26.7.1、iOS 27.0.1 和 iOS 27.2 系统存在安全风险，恶意应用可能读取其它应用保存的本地文件，涉及加密货币钱包助记词、私钥及登录凭证。 IT之家附上相关截图如下： 影响范围上，币安强调这是操作系统层面的问题，并非仅影响币安应用。科技媒体 bleepingcomputer 指出，目前没有查询到有用户反馈因该风险而导致加密货币损失的报道。 漏洞细节方面，该风险涉及名为“worse_query”的沙箱逃逸技术，可突破应用之间的数据隔离。相关概念验证工具 ",
+     "source": "IT之家",
+     "zh": "币安示警 iPhone 18 Pro 等用户：苹果 iOS 27.2 等存在漏洞，恶意 App 可越界读取隐私文件"
+    },
+    {
+     "title": "The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)",
+     "link": "https://www.techmeme.com/261111/p7#a261111p7",
+     "pubDate": "Wed, 11 Nov 2026 02:10:01 -0500",
+     "summary": "Owen Walker / Financial Times : The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls &nbsp; &mdash;&nbsp; A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washingt",
+     "source": "Techmeme",
+     "zh": "The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)"
+    },
+    {
+     "title": "国补后 8599 → 3088 元：美的“小西梅”嵌入式洗碗机新低，105℃ 热风烘干、20 套大容量",
+     "link": "https://www.ithome.com/1/025/482.htm",
+     "pubDate": "Wed, 11 Nov 2026 07:09:36 GMT",
+     "summary": "【京东活动可能随时变更，需以实付款为准】 美的“小西梅”嵌入式洗碗机 X6S Ultra 日常售价 8599 元，主打 20 套大容量与万向喷淋全腔深净。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 3087.55 元： 领 8 折厨卫券： 点此查看 。 下单时选择“ 以旧换新 ”，选择任何一部老、旧、坏电视等家电（京东回收价 35 元左右），京东补贴 50 元。 京东 美的 X6S Max 嵌入式洗碗机 105℃ 热风烘干 以旧换新后 3087.55 元 直达链接 * 以旧换新的电器无关品牌 + 无需功能完好，有这个东西的“尸体”就 OK（闲鱼上",
+     "source": "IT之家",
+     "zh": "国补后 8599 → 3088 元：美的“小西梅”嵌入式洗碗机新低，105℃ 热风烘干、20 套大容量"
+    },
+    {
      "title": "深度操作系统 deepin 25.3.0 正式版发布：新增防卡死保护，小 U 同学全面进化",
      "link": "https://www.ithome.com/1/025/472.htm",
      "pubDate": "Wed, 11 Nov 2026 07:05:42 GMT",
@@ -1810,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "当幼儿园陆续消失，一场育儿焦虑的退潮"
     },
     {
-     "title": "官方解释微信为何有“拍一拍”功能：像蚂蚁碰触角一样，用更轻的方式打个招呼",
-     "link": "https://www.ithome.com/1/025/478.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:56:22 GMT",
-     "summary": "IT之家 11 月 11 日消息，微信官方公众号“微信派”今日发文《 为什么微信要有拍一拍？ 》，谈到“拍一拍”功能的诞生原因。 官方表示，微信拍一拍的起源得从蚂蚁说起。两只蚂蚁见面，触角碰一碰、气味闻一闻，信息就传达到位了动作不大，意思到了。拍一拍也是一样， 有时想和对方打个招呼 ， 文字太郑重 、 语音太啰嗦 ， 所以需要个更轻松的选项 。 而且现实生活里本来也有不少需要“拍一拍”的瞬间。路上碰见熟人拍拍肩膀；同事开会走神，碰碰胳膊。不用多说，懂的都懂。如果你拍对方时 TA 刚好在聊天界面，手机就会轻轻震动一下，就像两只蚂蚁碰了碰触角。 如果 TA 不在聊天界面，手机不会推送通知，也不会有",
-     "source": "IT之家",
-     "zh": "官方解释微信为何有“拍一拍”功能：像蚂蚁碰触角一样，用更轻的方式打个招呼"
-    },
-    {
      "title": "中产的下一个抠门对象：超级双11",
      "link": "https://www.tmtpost.com/8201022.html",
      "pubDate": "Wed, 11 Nov 2026 14:55:52 +0800",
@@ -1832,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI投资持续加码，中国科技公司面临资金与盈利的双重考验。",
      "source": "钛媒体",
      "zh": "中国AI，越来越烧钱"
-    },
-    {
-     "title": "Iceflake 接手后首个扩展包：《都市：天际线 2》游戏 12 月推出“公园探险”DLC",
-     "link": "https://www.ithome.com/1/025/476.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:55:15 GMT",
-     "summary": "IT之家 11 月 11 日消息，《都市：天际线 2》（Cities: Skylines II）游戏今天（11 月 11 日）官宣将于 12 月 2 日上线《公园探险》（Park Adventures）扩展包，邀请玩家设计专属公园，定制丰富的游乐项目和配套设施。 Paradox Interactive 今年早些时候调整《都市：天际线 2》游戏，将开发工作从 Colossal Order 移交给 Iceflake Studios，本次推出的《公园探险》也是 Iceflake 接手后推出的首个原创扩展包。 新内容的核心是模块化公园：玩家可以自行划定区域、组合设施，打造动物园、游乐园、自然保护区或城",
-     "source": "IT之家",
-     "zh": "Iceflake 接手后首个扩展包：《都市：天际线 2》游戏 12 月推出“公园探险”DLC"
     },
     {
      "title": "AI 应用进德国市场，GDPR 合规排期该怎么挤进 3 人小团队？",
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this November.",
      "source": "WIRED",
      "zh": "Home Depot Promo Codes: 30% Off in November 2026"
-    },
-    {
-     "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
-     "link": "https://www.wired.com/story/ulta-coupon/",
-     "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
-     "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-     "source": "WIRED",
-     "zh": "Ulta Promo Codes: Up to 20% Off in November 2026"
     }
    ]
   },
@@ -2266,6 +2266,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "见闻历11.11大促最后3天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Wed, 11 Nov 2026 15:08:35 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "见闻历11.11大促最后3天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”"
+    },
+    {
+     "title": "Siemens Energy AG reports FY results; gives FY2027 outlook",
+     "link": "https://seekingalpha.com/news/4670469-siemens-energy-ag-reports-fy-results-gives-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 02:08:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Siemens Energy AG reports FY results; gives FY2027 outlook"
+    },
+    {
+     "title": "Neuronetics prices $30M public offering, shares slide 13%",
+     "link": "https://seekingalpha.com/news/4670467-neuronetics-prices-30m-public-offering-shares-slide-13?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 02:07:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Neuronetics prices $30M public offering, shares slide 13%"
+    },
+    {
+     "title": "Germany's inflation eases to 2.8% in October",
+     "link": "https://seekingalpha.com/news/4670459-germanys-inflation-eases-to-28-in-october?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 02:06:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Germany's inflation eases to 2.8% in October"
+    },
+    {
+     "title": "市场“新军”进入快速建仓期？首批主动ETF落地运作",
+     "link": "https://wallstreetcn.com/articles/3785716",
+     "pubDate": "Wed, 11 Nov 2026 15:06:05 +0800",
+     "summary": "备受瞩目的首批主动 ETF ，已经开始正式下场运作。 根据最新公布的基金净值，首批 18 只 主动管理 ET 的 16 只产品，日前公布了最新净值（截至 11 月 6 日）。其中不少产品净值已开始明显波动，后者意味着基金经理已在考虑建仓。 此外，另外两只产品也已完成募集，所有基金的原始份额均已售罄，后续 360 亿资金将会次第入市。 各家动作不一 从已披露的净值报告看， 16 家公布净值的产品收益率略有差异。 其中，永赢景气均衡以 +1.26% 的累计净值涨幅，表现相对居前，华夏质量甄选录得 +0.89% 涨幅，招商价值智选、易方达品质均衡也分别上涨 0.63% 、 0.61% 。 此外，摩根",
+     "source": "华尔街见闻",
+     "zh": "市场“新军”进入快速建仓期？首批主动ETF落地运作"
+    },
+    {
+     "title": "Flex LNG declares $0.75 dividend",
+     "link": "https://seekingalpha.com/news/4670468-flex-lng-declares-0_75-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 02:05:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Flex LNG declares $0.75 dividend"
+    },
+    {
+     "title": "2028年——美国中选给AI上游供应链“挖的一个坑”",
+     "link": "https://wallstreetcn.com/articles/3785713",
+     "pubDate": "Wed, 11 Nov 2026 15:02:22 +0800",
+     "summary": "一场选举，让华尔街重新审视AI建设节奏。 2026年11月，美国中期选举结果出炉。民主党不仅拿下国会两院，还在德州、俄亥俄州赢得州长席位——这两个州恰好是美国数据中心建设最密集的地区。 摩根士丹利最新研报 《Buy the Drop: AI Investment Opportunities Post the US Midterms》 判断，美国蓝色浪潮后，美国数据中心建设将有约5GW容量从2028年推迟至2029年，相当于美国当年新增容量的20%、全球新增容量的10%。 这一推迟带来的直接结果是：美国数据中心GW新增容量2028年同比下降4%，2029年反弹38%；全球层面，2028年同比增长",
+     "source": "华尔街见闻",
+     "zh": "2028年——美国中选给AI上游供应链“挖的一个坑”"
+    },
+    {
      "title": "abrdn Asia-Pacific Income Fund VCC declares CAD 0.0225 dividend",
      "link": "https://seekingalpha.com/news/4670465-abrdn-asia-pacific-income-fund-vcc-declares-cad-0_0225-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 11 Nov 2026 01:59:21 -0500",
@@ -2282,36 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Vestas Wind GAAP EPS of €1.13 beats by €0.97, revenue of €5.68B; narrows FY2026 outlook"
     },
     {
-     "title": "Costco declares $30.00 dividend",
-     "link": "https://seekingalpha.com/news/4670463-costco-declares-30_00-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:57:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Costco declares $30.00 dividend"
-    },
-    {
-     "title": "First Trust Income Opportunities ETF declares $0.1375 dividend",
-     "link": "https://seekingalpha.com/news/4670462-first-trust-income-opportunities-etf-declares-0_1375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:57:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "First Trust Income Opportunities ETF declares $0.1375 dividend"
-    },
-    {
-     "title": "Ares Dynamic Credit Allocation Fund declares $0.1125 dividend",
-     "link": "https://seekingalpha.com/news/4670461-ares-dynamic-credit-allocation-fund-declares-0_1125-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:55:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ares Dynamic Credit Allocation Fund declares $0.1125 dividend"
-    },
-    {
-     "title": "ICL Group declares $0.0488 dividend declines by 16% to $0.0488",
-     "link": "https://seekingalpha.com/news/4670460-icl-group-declares-00488-dividend-declines-by-16-to-00488?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:53:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ICL Group declares $0.0488 dividend declines by 16% to $0.0488"
+     "title": "国联民生的整合实验：“双向法人切换”如何重塑业务分工",
+     "link": "https://wallstreetcn.com/articles/3785715",
+     "pubDate": "Wed, 11 Nov 2026 14:51:07 +0800",
+     "summary": "国联民生证券历时近两年的业务整合，迎来新的进展。 11月9日，国联民生证券完成财富管理业务法人切换后的首个交易日，各项交易及清算交收业务运行平稳。 据公司披露，此次切换涉及215万名经纪客户、483个交易单元、沪深北三地结算路径，以及19家存管银行的银证签约关系。 对于投资者而言，账户号码、交易软件及持仓资产保持不变。后台则完成了业务主体的调整，相关客户的交易代理、结算交收等服务由民生证券承接。 这也是国联民生此次整合的一项特殊安排。 与传统券商并购中较为常见的吸收合并模式相比，国联民生采取了按业务类型划分经营主体的方式，将财富管理业务集中至民生证券，同时把固定收益、权益投资等自营业务向上市母",
+     "source": "华尔街见闻",
+     "zh": "国联民生的整合实验：“双向法人切换”如何重塑业务分工"
     },
     {
      "title": "阿里造芯八年，长出一家百亿公司：平头哥六成GPU算力卖给外部",
@@ -2354,20 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Investors pivot to defensive stocks as markets enter a ‘state of alert’"
     },
     {
-     "title": "创业板午后涨3%，算力硬件集体爆发，光模块龙头“易中天”大涨，恒科指跌近1%，权重股科网股回落",
-     "link": "https://wallstreetcn.com/articles/3785695",
-     "pubDate": "Wed, 11 Nov 2026 13:52:03 +0800",
-     "summary": "A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。 11月11日，A股午后震荡拉升，创业板涨3%。AI硬件爆发，光模块、光芯片、光通信、光电路交换机、电路板、覆铜板等概念股普遍拉升，剑桥科技涨停，“易中天”大涨。煤炭、海运等板块活跃，白酒、AI短剧、贵金属等陷入调整。 港股低开低走，恒指、恒科指盘初齐跌，恒科指跌超1%，权重科网股多数下跌，腾讯、快手、网易等下跌。光模块、芯片半导体等科技股反弹，剑桥科技H股大涨超18%。AI大模型股双雄纷纷回落，盘中一度跌5%，阿里官宣新一代千问大模型Qwen",
-     "source": "华尔街见闻",
-     "zh": "创业板午后涨3%，算力硬件集体爆发，光模块龙头“易中天”大涨，恒科指跌近1%，权重股科网股回落"
-    },
-    {
-     "title": "恐惧是最大的空头！大摩高喊抄底半导体：缺地缺电都不是问题，已批项目都供不过来",
-     "link": "https://wallstreetcn.com/articles/3785707",
-     "pubDate": "Wed, 11 Nov 2026 13:19:57 +0800",
-     "summary": "半导体板块近期遭遇抛售，但摩根士丹利认为，市场恐慌本身才是最大的风险来源，而非行业基本面。 据追风交易台消息，摩根士丹利分析师Joseph Moore在报告中明确表示，AI基础设施建设的业务能见度依然\"异常强劲\"，与半导体厂商客户的沟通显示，这一趋势具备持续性。尽管土地、电力和厂房（Land-Power-Shell，LPS）等制约因素引发市场担忧，但他指出， 恰恰是这些瓶颈使得行业增长更加稳定和持久。 从覆盖范围来看，该行标普中位股较峰值已累计下跌53%，分析师认为当前抛售已过度。 摩根士丹利坦承，中期选举后的政策不确定性，以及资本市场情绪对支出意愿的潜在传导影响，构成阶段性压制因素，板块可能",
-     "source": "华尔街见闻",
-     "zh": "恐惧是最大的空头！大摩高喊抄底半导体：缺地缺电都不是问题，已批项目都供不过来"
+     "title": "存储又在酝酿新一轮涨价 头部企业已向渠道商口头告知",
+     "link": "http://finance.eastmoney.com/news/1355,202611113928298848.html",
+     "pubDate": "Wed, 11 Nov 2026 13:38:33 +0800",
+     "summary": "存储市场的新一轮涨价，正以一种不太对称的方式展开。 近日，多位存储行业人士向蓝鲸科技记者透露，部分头部企业已向渠道商口头告知企业级颗粒的涨价意向，提价函尚未正式下发，但渠道端的价格已经先动了起来。 记者走访代理渠道，多位代理商证实了上述涨价信号。海力士代理商袁先生告诉记者：“每天都在涨”。他观察到，二手盘回收价格一直在往上走，并带动整体报价上行；价格调整的路径则是省代每周调价，代理产品价格再往下传，“我们跟着调”。 不过，三星代理商李明（化名）提醒记者，这轮涨价并不是全品类普涨：涨价主要集中在DRAM合约端和企业级SSD原厂/渠道端，并非消费级NAND的全面跟涨。“大头还是算力中心，基层反馈的",
+     "source": "东方财富资讯",
+     "zh": "存储又在酝酿新一轮涨价 头部企业已向渠道商口头告知"
     },
     {
      "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
@@ -2378,12 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says"
     },
     {
-     "title": "AI投资步入“幻灭谷底”，未来18个月将是生死大考！",
-     "link": "https://wallstreetcn.com/articles/3785701",
-     "pubDate": "Wed, 11 Nov 2026 13:02:51 +0800",
-     "summary": "每一轮计算基础设施的大规模投资，最终都会走到同一个路口——市场开始质疑回报。 高盛11月10日的研报指出，当前AI投资正处于\"幻灭谷底\"（trough of disillusionment）。权益市场和信用市场的近期波动、日趋复杂的循环融资结构，以及美国中期选举后新的监管不确定性，共同推动市场对AI资本支出能否持续产生疑问。 该行美国互联网股票研究首席分析师Eric Sheridan直接说： \"每一轮计算周期我分析下来都是同一个弧线——产品初期的兴奋、投资规模的扩张，然后是对回报的审视。\" 他强调，这不是这轮周期第一次出现幻灭情绪。过去12到18个月，围绕AI主题已出现过三次市场回调：去年秋冬",
-     "source": "华尔街见闻",
-     "zh": "AI投资步入“幻灭谷底”，未来18个月将是生死大考！"
+     "title": "美通胀超预期 黄金一夜跌逾百点濒临4000美元大关",
+     "link": "http://forex.eastmoney.com/news/1131,202611113928281251.html",
+     "pubDate": "Wed, 11 Nov 2026 13:08:00 +0800",
+     "summary": "黄金 多头的狂欢持续了不到一周，超出预期的美通胀数据，再度打压了刚站上4100美元的金价。昨夜今晨，国际 黄金 现货价格跌逾百点，再度濒临4000美元/盎司的关口。机构认为，当前实际利率仍对金价形成压制，金价较难单边持续上行。 上周，美国中期选举结束，民主党同时夺回参众两院控制权。同时，美伊战火暂歇，油价回落，金价触底反弹。国际 黄金 现货价格三个交易日反弹逾6%，连续收复4000、4100美元两道大关，最高摸至4146.39美元/盎司。 转折出现在昨夜，美10月CPI数据超出市场预期。根据美国劳工统计局的公布，10月CPI环比上涨0.4%，市场预期为0.3%，前值为0.6%；剔除食品和能源的",
+     "source": "东方财富资讯",
+     "zh": "美通胀超预期 黄金一夜跌逾百点濒临4000美元大关"
     },
     {
      "title": "Ukraine’s freedom must be defended",
@@ -2434,12 +2458,20 @@ window.INDUSTRY_DATA = {
      "zh": "伟伟道来 | 战争来到拐点，油价谨慎下行"
     },
     {
-     "title": "高盛为Anthropic IPO强力背书：预计2030年营收达6850亿美元，暴增逾130倍",
-     "link": "https://wallstreetcn.com/articles/3785677",
-     "pubDate": "Wed, 11 Nov 2026 12:42:07 +0800",
-     "summary": "Anthropic正以史上最具野心的IPO姿态叩响资本市场大门，而其主承销行高盛的预测模型为这场盛宴提供了最强力的背书。 11月10日，据彭博社援引知情人士透露， 高盛研究团队预测Anthropic到2030年营收将达约6850亿美元，较该公司2025年的46亿美元增长逾130倍 。 这一预测远超Anthropic公司自身的预期 。据报道，该公司内部预测2028年营收将达到1900亿至2000亿美元。不过，销售额增长迅速，仅第三季度就接近170亿美元。 华尔街见闻提及 ，Anthropic已启动IPO路演，寻求以约1.4万亿美元的完全稀释后估值完成融资，计划于11月18日（周三）定价，次日开始",
-     "source": "华尔街见闻",
-     "zh": "高盛为Anthropic IPO强力背书：预计2030年营收达6850亿美元，暴增逾130倍"
+     "title": "高盛更新美联储利率预测：明年3月第三度加息 降息推迟至明年底",
+     "link": "http://forex.eastmoney.com/news/1131,202611113928272875.html",
+     "pubDate": "Wed, 11 Nov 2026 12:53:50 +0800",
+     "summary": "受美国10月CPI大幅高于预期的通胀数据扰动，市场对美联储货币政策路径的预期再度调整。 美东时间周二， 高盛 首席美国经济学家戴维·梅里克尔（David Mericle）最新发布报告更新了美联储利率预测，认为美联储将在今年12月和明年3月分别加息25基点，同时紧缩周期将进一步拉长，降息时点延后一个季度。 美国3月或再度加息？ 根据美国劳工统计局的数据，美国10月份消费者价格指数（CPI）环比上涨0.4%，高于预期的0.3%，较9月份0.6%的涨幅略有回落。 剔除波动较大的食品和能源价格后的核心通胀率上涨0.3%，与9月份持平，高于此前预期的0.2%。 在这一数据发布后，美联储理事克里斯托弗·沃",
+     "source": "东方财富资讯",
+     "zh": "高盛更新美联储利率预测：明年3月第三度加息 降息推迟至明年底"
+    },
+    {
+     "title": "腾讯“鹅次元”亮相！游戏多股涨停 主力吸筹这些票(附股)",
+     "link": "http://finance.eastmoney.com/news/11139,202611113928271492.html",
+     "pubDate": "Wed, 11 Nov 2026 12:34:11 +0800",
+     "summary": "周三游戏板块大涨，截至午间收盘 涨超3% ，个股方面， 文投控股 、 凯撒文化 等多股涨停。 消息面上，11月10日，腾讯首款专属AI游戏陪伴 Agent “鹅次元”近日开启内测。这款产品面向PC玩家，提供拟人化的AI陪伴和实时语音互动。“鹅次元”主打游戏场景实时陪伴，AI能够看到用户的游戏画面，并根据画面信息与人互动。 如果玩家在游戏中遇到不懂的东西，可以随时向这款AI陪伴提问。同时，这款产品支持PC/手机QQ陪伴聊天，还具备桌宠、一键更换壁纸、嘴替/变声等功能（即将上线）。 主力资金：吸筹这些票 东方财富 Choice数据显示，自今年11月初以来，主力资金抢筹了一批 游戏概念 股。其中 天",
+     "source": "东方财富资讯",
+     "zh": "腾讯“鹅次元”亮相！游戏多股涨停 主力吸筹这些票(附股)"
     },
     {
      "title": "格力电器CMO朱磊：打造世界级中国品牌，答案就在“china”之中",
@@ -2448,6 +2480,14 @@ window.INDUSTRY_DATA = {
      "summary": "在一个习惯用出海衡量增长的时代，朱磊的演讲没有把世界级品牌讲成一场产品扩张。他反复回到瓷器、回到《天工开物》、回到《器经》，回到一个更慢也更硬的逻辑：先做出别人做不出来的东西，再把品质磨到七十二道工序，最后让器物有“气”。他对“中国文化，世界品牌”的理解，不是把中国元素贴到产品上，而是让产品本身成为被世界信任的中国制造。",
      "source": "经济观察网",
      "zh": "格力电器CMO朱磊：打造世界级中国品牌，答案就在“china”之中"
+    },
+    {
+     "title": "最新！中国诚通盯上这些股 聚焦硬科技（附名单）",
+     "link": "http://finance.eastmoney.com/news/1354,202611113928267031.html",
+     "pubDate": "Wed, 11 Nov 2026 12:07:53 +0800",
+     "summary": "大利好来袭。 中国诚通官宣大利好 近日，中国诚通举办新闻发布活动，介绍中国诚通推动“十五五”稳健开局的做法与成效。相关负责人在会上表示：“十五五”时期，中国诚通计划新增基金投资总额约1500亿元， 将重点布局战略性新兴产业和未来产业 ，新增投入科技创新领域的投资占比不低于80%。同时设置专项量化目标， 投向集成电路、 工业母机 、工业软件、科学仪器等“卡脖子”领域的投资占比不低于24% 。 资料显示，中国诚通成立于1992年，为国务院国资委监管的中央企业，在市场关键节点发挥“稳定器”作用。 例如，2026年7月19日晚间，中国诚通公告，中国诚通及所属诚通资本、诚旸投资聚焦国资央企大额增持中国股",
+     "source": "东方财富资讯",
+     "zh": "最新！中国诚通盯上这些股 聚焦硬科技（附名单）"
     },
     {
      "title": "Bessent reportedly moved to military base over Iranian threats on his life",
@@ -2464,46 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "淅川楚国贵族墓群的重见天日，源于一场特大干旱。",
      "source": "经济观察网",
      "zh": "淅川楚墓群：丹淅之畔的千年回响"
-    },
-    {
-     "title": "寿县楚文化博物馆：楚国最后都城的地下遗存",
-     "link": "http://www.eeo.com.cn/2026/1111/1089974.shtml",
-     "pubDate": "Wed, 11 Nov 2026 12:02:57 +0800",
-     "summary": "寿春成为楚国最后的都城，五代楚王于此营建都邑，直至前223年楚亡。这段不足二十年的都城岁月，熔铸了楚国最后的文明辉煌。",
-     "source": "经济观察网",
-     "zh": "寿县楚文化博物馆：楚国最后都城的地下遗存"
-    },
-    {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 02:15:00 GMT",
-     "summary": "There is already a demographic ‘run’ on Social Security.",
-     "source": "MarketWatch",
-     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
-    },
-    {
-     "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-     "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 01:54:00 GMT",
-     "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
-     "source": "MarketWatch",
-     "zh": "One reason Children’s Place is filing for bankruptcy? Not enough children."
-    },
-    {
-     "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-     "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 01:12:00 GMT",
-     "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
-     "source": "MarketWatch",
-     "zh": "CoreWeave’s stock pops as new financing playbook eases debt concerns"
-    },
-    {
-     "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 00:30:00 GMT",
-     "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-     "source": "MarketWatch",
-     "zh": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?"
     }
    ]
   },

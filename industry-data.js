@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 17:18:01",
+ "generated_at": "2026/11/11 17:31:59",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
      "source": "OpenAI",
      "zh": "Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+     "title": "刚刚，腾讯版搜索引擎来了！几乎没广告，能搜公众号",
+     "link": "https://zhidx.com/p/609206.html",
+     "pubDate": "Wed, 11 Nov 2026 17:24:50 +0800",
+     "summary": "智东西 作者 | 毕伟豪 编辑｜心缘 智东西11月11日报道，今天，腾讯正式推出 面向普通用户的全新搜索产品“元宝搜索” ，通过独立网站和QQ浏览器入口提供搜索服务。 此次上线的元宝搜索，主打 权威信源优先、AI深度融合 等能力，不仅能够直接生成AI总结、连续追问，还支持原始信息溯源。 此外，元宝搜索接入 微信公众号、视频号 等内容来源，提供 学术科普、组织机构、主流媒体 等专门频道，并针对汽车、影视、健康等场景推出结构化卡片。 在与智东西等媒体交流时，腾讯元宝搜索网页版产品负责人李锐章透露，元宝搜索未来会持续丰富功能模块，但不会朝着AI助手的方向演进，会 专注于搜索本身，通过AI能力优化用户",
+     "source": "智东西",
+     "zh": "刚刚，腾讯版搜索引擎来了！几乎没广告，能搜公众号"
     },
     {
      "title": "推理成本降78%，API成本降97%，北大系创企开源4B上下文压缩模型",
@@ -56,30 +64,6 @@ window.INDUSTRY_DATA = {
      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
      "source": "TechCrunch AI",
      "zh": "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
-    },
-    {
-     "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-     "link": "https://www.qbitai.com/2026/11/509146.html",
-     "pubDate": "Wed, 11 Nov 2026 06:41:26 +0000",
-     "summary": "价格、门槛全打穿",
-     "source": "量子位",
-     "zh": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替"
-    },
-    {
-     "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
-     "link": "https://www.qbitai.com/2026/11/509088.html",
-     "pubDate": "Wed, 11 Nov 2026 06:27:03 +0000",
-     "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
-     "source": "量子位",
-     "zh": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题"
-    },
-    {
-     "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-     "link": "https://www.qbitai.com/2026/11/509085.html",
-     "pubDate": "Wed, 11 Nov 2026 06:18:09 +0000",
-     "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
-     "source": "量子位",
-     "zh": "卷起来了！11月11日，大模型厂商在天猫打5折"
     },
     {
      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -146,20 +130,20 @@ window.INDUSTRY_DATA = {
      "zh": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms"
     },
     {
-     "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-     "link": "https://www.qbitai.com/2026/11/509052.html",
-     "pubDate": "Wed, 11 Nov 2026 03:43:31 +0000",
-     "summary": "L4无人化作业走向规模交付",
-     "source": "量子位",
-     "zh": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光"
-    },
-    {
      "title": "奇袭Claude！谷歌Gemini新旗舰全面上线，一夜复刻OpenCode桌面应用",
      "link": "https://zhidx.com/p/608996.html",
      "pubDate": "Wed, 11 Nov 2026 11:00:48 +0800",
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月11日消息，今天凌晨，谷歌宣布其 最强AI模型Gemini 4 Carbon 正式向开发者、企业、科研人员和消费者开放。Gemini 4 Carbon在 网络安全能力 和复杂知识工作、软件工程和科学推理等领域的 长程Agent工作流 中，均达到前沿水平。 ▲谷歌宣布开放Gemini 4 Carbon（图源：X） 两周前（10月28日）， Gemini 4 Carbon发布 ，并通过Fairwind计划向一批网络安全工作人员开放。此次扩大开放后，开发者和企业用户可通过Google AI Studio和Gemini for business调",
      "source": "智东西",
      "zh": "奇袭Claude！谷歌Gemini新旗舰全面上线，一夜复刻OpenCode桌面应用"
+    },
+    {
+     "title": "Claude奇袭Office！端出AI办公全家桶，微软股价大跌",
+     "link": "https://zhidx.com/p/609002.html",
+     "pubDate": "Wed, 11 Nov 2026 08:48:48 +0800",
+     "summary": "智东西 编译 | 程茜 编辑 | 心缘 智东西11月11日消息，今日，Anthropic发布多款AI办公工具，包括 表格工具 Claude Sheets、白板工具Claude Whiteboards和数据分析工具Claude Data 。 Claude Whiteboards是企业团队与Claude共同头脑风暴的共享画板，Claude Sheets支持Claude与用户共同构建、编辑电子表格，Claude Data新增了为数据生成解说、认证查询以及实时共享功能。 此外，Anthropic还升级了 交互式连接器 ，即日起，合作方可以把自家应用直接嵌入Claude中，开发者无需切换标签页，就能在A",
+     "source": "智东西",
+     "zh": "Claude奇袭Office！端出AI办公全家桶，微软股价大跌"
     },
     {
      "title": "英伟达追投667亿！史上最大IPO启动路演，7名创始人将套现百亿",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline for multilingual text classification, guided by two pre-trained language models handled by Scikit-LLM for translation and zero-shot classification.",
      "source": "KDnuggets",
      "zh": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM"
+    },
+    {
+     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
+     "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
+     "pubDate": "Tue, 10 Nov 2026 14:59:09 +0000",
+     "summary": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Sa",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards"
+    },
+    {
+     "title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
+     "link": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
+     "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
+     "summary": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each technique.",
+     "source": "KDnuggets",
+     "zh": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Diamond Foundry unveils first 200mm single-crystal diamond",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/diamondfoundry-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 09:18:11 GMT",
+     "summary": "Diamond Foundry Inc of San Francisco, CA, USA has unveiled the first 200mm-diameter single-crystal diamond. The announcement accompanied a keynote presentation by CEO Martin Roscheisen, delivered by video at CarbonSemi 2026 (the 6th Industry Development Summit of Carbon-based Semiconductor & Devices",
+     "source": "Semiconductor Today",
+     "zh": "Diamond Foundry unveils first 200mm single-crystal diamond"
+    },
     {
      "title": "AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story",
      "link": "https://www.digitimes.com/news/a20261111VL220/ai-server-revenue-chassis-2025-taiwan.html",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tokyo-based Mitsubishi Electric Corp claims that, for the first time in the world, it has elucidated the effects of frequency dispersion (whereby current values and other characteristics of high-frequency devices vary depending on the operating frequency) caused by crystal defects in a gallium nitri",
      "source": "Semiconductor Today",
      "zh": "Mitsubishi Electric suppresses frequency dispersion in GaN transistors using GaN substrates"
-    },
-    {
-     "title": "onsemi introduces EliteSiC M4 fourth-gen silicon carbide platform, with up to 30% higher power density and 35% lower losses",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/onsemi-101126.shtml",
-     "pubDate": "Tue, 10 Nov 2026 11:06:42 GMT",
-     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA has introduced EliteSiC M4, its fourth-generation silicon carbide (SiC) platform built on a trench architecture and designed to set a new performance benchmark for next-generation power systems. With what is claimed to be in",
-     "source": "Semiconductor Today",
-     "zh": "onsemi introduces EliteSiC M4 fourth-gen silicon carbide platform, with up to 30% higher power density and 35% lower losses"
     }
    ]
   },
@@ -1770,12 +1770,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "神龙科技与字节火山引擎全面战略合作，全新新能源车型将搭载最新一代 AI 座舱解决方案",
+     "link": "https://www.ithome.com/1/025/618.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:28:29 GMT",
+     "summary": "IT之家 11 月 11 日消息，神龙科技与火山引擎全面战略合作签约仪式今日在北京举行。双方将围绕企业 AI 转型、产品技术共创、用户全周期服务三大维度开展合作。 神龙科技表示， 将在全新新能源车型上搭载火山引擎最新一代 AI 座舱解决方案 ，并成为合资品牌首家与火山引擎全链路深度共创的车企。 神龙科技总经理吕海涛表示：“神龙科技接下来的全新新能源车型，会装上火山引擎最新一代的 AI 座舱系统。经典的 i-Cockpit 将进化为 Ai-Cockpit，我们要给用户的是‘让技术悄悄退到幕后，让体验走到台前’。座舱之外，产品研发、用户体验，到市场营销、企业管理， 甚至海外业务都会引入火山引擎的 ",
+     "source": "IT之家",
+     "zh": "神龙科技与字节火山引擎全面战略合作，全新新能源车型将搭载最新一代 AI 座舱解决方案"
+    },
+    {
+     "title": "AI 十年内攻克癌症？Anthropic CEO 阿莫迪预测引医学界质疑",
+     "link": "https://www.ithome.com/1/025/617.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:24:53 GMT",
+     "summary": "IT之家 11 月 11 日消息，“癌症、阿尔茨海默病、心脏病和精神疾病，我认为这些疾病将在不到十年的时间里成为历史。”Claude 开发商 Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）近日作出了这一大胆预测。 这些并非罕见疾病，它们影响着数百万个家庭，其中一些至今仍是医学界最难攻克的挑战。 阿莫迪表示：“我认为，如果我们能正确利用这项技术，就有望开启一个奇迹时代，让人类解决那些数千年来始终无法攻克的难题。” 在他看来，人工智能有望大幅加速生物学研究、药物研发以及医学突破的进程。 IT之家注意到，持有类似观点的并不只有阿莫迪。其他人工智能领域的领军人物，包括埃隆",
+     "source": "IT之家",
+     "zh": "AI 十年内攻克癌症？Anthropic CEO 阿莫迪预测引医学界质疑"
+    },
+    {
+     "title": "九阳净利润大跌近75%，它的美国“亲戚”怎么越赚越多？",
+     "link": "https://www.huxiu.com/article/4904771.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 17:17:51 +0800",
+     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《九阳净利润大跌近 75%，它的美国「亲戚」怎么越赚越多？| 声动早咖啡》 欢迎来到今天的轻解读。上周，美国家电企业SharkNinja发布了今年第三季度的财报，他们的季度收入接近20亿美元。最近六个季度，这家公司的营收增速都保持在15%以上，净利润的增速也都在三成左右。 根据SharkNinja官网的介绍，这家公司1994年在加拿大蒙特利尔创办，早期经营家用电器，后来公司总部搬到了美国。他们旗下有两个品牌，分别就是公司名字里的Shark还有Ninja。其中Shark主要销售吸尘器、吹风机等等和戴森进行竞争的品类，Ninja",
+     "source": "虎嗅",
+     "zh": "九阳净利润大跌近75%，它的美国“亲戚”怎么越赚越多？"
+    },
+    {
+     "title": "微软 Project Zenith 正式上线，为 AMD 锐龙 AI Halo 带来开箱即用编程体验",
+     "link": "https://www.ithome.com/1/025/613.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:17:46 GMT",
+     "summary": "IT之家 11 月 11 日消息，AMD 当地时间 9 日宣布，Microsoft（微软）Project Zenith 率先登陆基于锐龙 AI Max+ PRO 495 处理器的新一代锐龙 AI Halo 开发者平台，其它锐龙 AI Max 设备也即将支持。 Project Zenith 将强大的开发者级硬件与预配置的 Windows 环境相结合， 旨在帮助开发者更快地进入实际工作 。其预装了涵盖各种语言和运行时环境的常用开发工具、源代码控制工具以及生产力工具，还配置了旨在创建优化开发环境的 Windows 设置。 而在 Project Zenith 的基础上，AMD 还为锐龙 AI Halo",
+     "source": "IT之家",
+     "zh": "微软 Project Zenith 正式上线，为 AMD 锐龙 AI Halo 带来开箱即用编程体验"
+    },
+    {
+     "title": "政府补贴“共享儿女”，多地探索",
+     "link": "https://www.huxiu.com/article/4904770.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 17:17:26 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：赵孟 最近，长沙市芙蓉区文艺路街道推出的“共享儿女”居家养老服务引发舆论热议。老人月付199元起，就能请人上门保洁、陪诊、助浴，街道主导、专业机构运营，被称为“国内首个街道背书的共享儿女项目”。 界面新闻记者梳理发现，此类项目并非长沙独有。这种由政府补贴加老人自付、市场化机构上门服务的养老服务模式，目前已在全国多地铺开。差异只在资金来源：长沙的项目由地方财政试点经费支持，而2026年1月1日起在全国推开的中度以上失能老人养老服务消费券，则由中央和地方财政共担。但两者服务内容类似，都涵盖助餐、助洁、助医、陪诊、情感陪伴等。 这项政策设计的初衷，除了完善失能",
+     "source": "虎嗅",
+     "zh": "政府补贴“共享儿女”，多地探索"
+    },
+    {
      "title": "国内首个具身智能压力表全自动检定装置研发成功：效率提升 3.5 倍以上，中国石化牵头",
      "link": "https://www.ithome.com/1/025/612.htm",
      "pubDate": "Wed, 11 Nov 2026 09:15:18 GMT",
      "summary": "IT之家 11 月 11 日消息，中国石化今日宣布，近日，中国石化牵头成功研发国内首个具身智能压力表全自动检定装置。 据介绍，压力表是工业生产中感知压力的关键终端，在石油石化装置区几乎每条管线、每台机泵都装有指针压力表，示值准确直接关系生产本质安全。 据统计，天津石化全厂在用压力表约 2 万台，遍布全部装置区， 人工检定 4 块表一般需要 20 分钟左右 ， 且易产生误差 ，如何快速、准确地完成检定对装置安全平稳运行意义重大。 该装置可同时完成 4 块指针压力表全流程检定并生成检定证书， 全程只需 5 至 6 分钟 ，大幅提升工作效率，标志着指针压力表检定从“人测”走向“机测”。 这套装置把机",
      "source": "IT之家",
      "zh": "国内首个具身智能压力表全自动检定装置研发成功：效率提升 3.5 倍以上，中国石化牵头"
+    },
+    {
+     "title": "上纬新材押注机器人：股价创历史新高，市值突破950亿，第三季度研发暴增23倍",
+     "link": "https://www.huxiu.com/article/4904768.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 17:14:04 +0800",
+     "summary": "本文来自微信公众号： 时代周报 ，编辑：郭儒逸，作者：刘娟 人形机器人热门概念股上纬新材（688585.SH）近期股价持续高涨。11月11日，该股盘中一度涨到244.2元/股，创下历史新高，截至收盘报240.31元/股，涨幅9.8%，最新市值969.32亿元。 11月9日，上纬新材发布风险提示公告称，股价近期累计涨幅超100%，市盈率为1767.36倍，显著高于行业平均水平。公司消费级智能机器人业务处于发展初期及规模化量产爬坡、商业化验证阶段，存在产能爬坡不及预期、良品率波动等风险。 上纬新材还表示，公司营业收入主要来自新材料业务，消费级具身智能机器人收入占总营收的比例较低。 去年7月，智元机",
+     "source": "虎嗅",
+     "zh": "上纬新材押注机器人：股价创历史新高，市值突破950亿，第三季度研发暴增23倍"
+    },
+    {
+     "title": "Anthropic估值现共识，中国AI模型公司告别“叙事支撑估值”阶段",
+     "link": "https://www.huxiu.com/article/4904767.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 17:14:03 +0800",
+     "summary": "本文来自微信公众号： 明亮公司 ，作者：主编24小时在线，原文标题：《Anthropic估值现共识，中国AI模型公司告别「叙事支撑估值」阶段｜估值叙事32》 11月9日，Anthropic发布Claude Fable 5.2。一天后，Anthropic公司启动IPO路演，按询价上限计算，发行后股本对应的隐含市值约为1.02万亿美元，完全摊薄估值约为1.4万亿美元。同一周，OpenAI第三季度收入也有了最新数据，据WSJ，该季度收入约100亿美元，环比增长近50%。 回看中国模型，其在7月夏季的模型发布高峰已经过去。「明亮公司」整理的8家厂商样本中，9月1日前后两个等长窗口内，发布事件从10次减",
+     "source": "虎嗅",
+     "zh": "Anthropic估值现共识，中国AI模型公司告别“叙事支撑估值”阶段"
+    },
+    {
+     "title": "澎程放量、问界腰斩，增程车的出路在哪？",
+     "link": "https://www.huxiu.com/article/4904766.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 17:13:27 +0800",
+     "summary": "本文来自微信公众号： 豹变 ，作者：陈法善，编辑：刘杨 10月新势力销量两极分化：增程在国内退潮，头部车企各自转向，靠空间玩法突围的新品和海外市场，成了增程的新出路。 小米汽车月销量站上5万辆，理想跌破3万辆，鸿蒙智行滑落至3.3万辆，其中问界单品牌同比下滑54.7%至2.2万辆。10月，头部“新势力”交出的销量成绩单，形成了鲜明反差。 就在之前的8-9月，小米的交付分别为3万和4万辆，9-10月的连续攀升，主要靠9月上市的增程系列澎程拉动。而理想、问界的走低也在意料之中，今年以来，整个增程赛道持续萎缩，二者销量的滑坡，既是行情变化最直观的体现，也有各自战略与经营层面的原因。 同在一条赛道，为",
+     "source": "虎嗅",
+     "zh": "澎程放量、问界腰斩，增程车的出路在哪？"
+    },
+    {
+     "title": "AI替掉的人，又被高价请了回来",
+     "link": "https://www.huxiu.com/article/4904764.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 17:11:34 +0800",
+     "summary": "本文来自微信公众号： 盖雅学苑 ，作者：盖雅学苑编辑部 很多企业做AI转型，往往想要先在这件事上拿到结果——替代了多少人。 但在海外，第一批拿到这个结果的企业，已经遭受到了“AI回旋镖”。 SHL是全球人才洞察和人才测评机构。它在2026年10月发布的《2026年职场人才流动：隐形劳动力》报告里，给出了的数据：19%的美国受访劳动者表示，自己曾被AI替代，后来又被原公司请了回去。 尽管大多数重新就业的受访者愿意回来，但他们希望双方的关系条款能够有所改变： 51%的人希望在重返工作岗位前获得大幅加薪。 42%的人希望得到关于未来工作保障的具体保证。 40%的人希望未来人工智能在其工作中的应用完全",
+     "source": "虎嗅",
+     "zh": "AI替掉的人，又被高价请了回来"
     },
     {
      "title": "华为鸿蒙 HarmonyOS 7 (API 26.0.1)Developer Beta 开启定向招募，Mate 80 Pro 等机型可报名",
@@ -1794,28 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "IDC：上半年中国液冷服务器收入同比增长 153.1%，开始按“柜”交付"
     },
     {
-     "title": "本田逐步减少电动汽车投入，转而投 30 亿美元发展混动车型",
-     "link": "https://www.ithome.com/1/025/609.htm",
-     "pubDate": "Wed, 11 Nov 2026 09:08:39 GMT",
-     "summary": "IT之家 11 月 11 日消息，当地时间 10 日，据外媒 insideevs 报道，本田计划斥资约 30 亿美元 （IT之家注：现汇率约合 200.63 亿元人民币） 在美国新建一座汽车工厂，主要生产混动和燃油车型。这将是本田在俄亥俄州的第四座整车工厂，也是其在美国的第九座汽车生产基地。 新工厂是本田混动战略的一部分。按照规划，本田将在全球推出 至少 15 款全新混动车型 。与此同时，本田开始从此前受挫的纯电战略中转向。 此前，公司为纯电车型开发了全新平台，并规划推出三款车型，结果还没等到量产车下线， 整个平台和三款新车就全被取消 。 本田原计划在俄亥俄州新建的电动汽车工厂生产讴歌 RSX",
-     "source": "IT之家",
-     "zh": "本田逐步减少电动汽车投入，转而投 30 亿美元发展混动车型"
-    },
-    {
-     "title": "Diraq 全球首台硅自旋量子计算机落地商业数据中心",
-     "link": "https://www.ithome.com/1/025/608.htm",
-     "pubDate": "Wed, 11 Nov 2026 09:06:50 GMT",
-     "summary": "IT之家 11 月 11 日消息，量子计算企业 Diraq 当地时间 10 日宣布，其已在 Equinix 位于澳大利亚悉尼的商业数据中心中安装并投运了世界上首台硅自旋量子计算机。 Diraq 的硅自旋技术路线意味着其 QPU 采用与经典计算机芯片相同的半导体工艺， 用户在升级 QPU 的同时无需大幅改造配套基础设施 。Equinix 悉尼数据中心的量子计算机规模有望在一年内从 8 量子比特扩展至 64 量子比特。 该企业当前量子计算系统功耗＜20kW，占地面积 172 平方英尺 （约 16 平方米） ；Diraq 预计未来的公用事业级系统的功耗将在 300kW 左右，占地面积有望降至 54 ",
-     "source": "IT之家",
-     "zh": "Diraq 全球首台硅自旋量子计算机落地商业数据中心"
-    },
-    {
-     "title": "马斯克力挺特斯拉 Cybercab：其发展前景明眼人都能看懂",
-     "link": "https://www.ithome.com/1/025/607.htm",
-     "pubDate": "Wed, 11 Nov 2026 09:05:38 GMT",
-     "summary": "IT之家 11 月 11 日消息，埃隆 · 马斯克（Elon Musk）表示，在获准运营的地区，特斯拉 Cybercab 未来将承担“大部分乘客出行里程”。他还直言，这一点对“任何有眼睛和头脑的人来说都是显而易见的”。 IT之家注意到，马斯克发表这番言论，是在进一步强调特斯拉此前决定停产 Cybertruck、将其生产空间转为 Cybercab 生产线的决定。这一调整已经在特斯拉社区引发了激烈争论，支持者和反对者各执一词。 但无论你站在哪一边，这件事都已经成为现实。 从马斯克近期的表态来看，他似乎也不想再反复讨论这一决定。不得不承认，这对他本人和特斯拉而言，或许都是一个相当艰难的选择，并非经过",
-     "source": "IT之家",
-     "zh": "马斯克力挺特斯拉 Cybercab：其发展前景明眼人都能看懂"
+     "title": "OSS projects banning AI-generated contributions",
+     "link": "https://osssaysno.com",
+     "pubDate": "Wed, 11 Nov 2026 08:51:45 +0000",
+     "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 4 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "OSS projects banning AI-generated contributions"
     },
     {
      "title": "比黄仁勋婚外情更大的风暴，才刚刚到来",
@@ -1842,60 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "Kimi开始\"出租\"数字员工：Agent计价锚点，正从软件预算滑向人力预算"
     },
     {
-     "title": "Rokid Color开启“iPhone时代”？结论下得太早了",
-     "link": "https://www.huxiu.com/article/4904756.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 16:42:31 +0800",
-     "summary": "本文来自微信公众号： 芯流智库 ，作者：王启鑫 10月27日，Rokid创始人祝铭明在Jungle 2026发布会上，将全新发布的全彩AI眼镜Rokid Color定义为行业的“初代iPhone时刻”。这副55克的全彩AI眼镜，能显示图片、视频，还能配合智能戒指完成手势操作。相比过去只能显示简单文字的产品，确实是迈出了一大步。 将单款产品的技术突破对标初代iPhone对消费电子行业的重构，显然高估了当前的产业阶段。Rokid Color尚未摆脱对手机与云端算力的依赖，4999元的起售价与尚不完善的原生应用生态，决定了它还远非成熟的独立计算终端。叠加当前智能眼镜赛道多路线并行、终局形态未定的行业",
-     "source": "虎嗅",
-     "zh": "Rokid Color开启“iPhone时代”？结论下得太早了"
-    },
-    {
-     "title": "超1.6亿浏览，06年大专生的“专升本说唱”如何引发全网二创？",
-     "link": "https://www.huxiu.com/article/4904755.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 16:42:16 +0800",
-     "summary": "本文来自微信公众号： 新榜 ，作者：哪吒，编辑：小八hachiko，原文标题：《超1.6亿浏览，06年大专生的“专升本说唱”如何引发全网二创？｜对话“上饶天选之子”》 继“亚细亚旷世奇才”、“河南说唱之神”之后，中文互联网又迎来一位Rap新星—— “上饶天选之子”。 这位来自江西上饶的20岁大专生，近期凭借一首《升本后醒来》走红互联网。 歌曲以介于结巴、梦话和说唱之间的抽象唱腔，配合清新带劲的Beat、精准卡在“本升——专”上的鼓点，在抖音斩获单条视频超2000万次播放，相关话题#升本后醒来播放量超1.6亿次。 在这首歌里，延续多年的学历鄙视链终于迎来了史诗级颠覆。 “上饶天选之子”饰演一位成",
-     "source": "虎嗅",
-     "zh": "超1.6亿浏览，06年大专生的“专升本说唱”如何引发全网二创？"
-    },
-    {
      "title": "Shengshu’s First AI Feature Film Misses the Mark as Its Hong Kong IPO Nears",
      "link": "https://www.tmtpost.com/8201282.html",
      "pubDate": "Wed, 11 Nov 2026 16:41:04 +0800",
      "summary": "China’s first AI-assisted theatrical film posted weak box office just as Shengshu Technology prepares a Hong Kong listing. The company is strong in controllable video generation and is reframing itself as a world-model play. Investors are asking for revenue, not demos.",
      "source": "钛媒体",
      "zh": "Shengshu’s First AI Feature Film Misses the Mark as Its Hong Kong IPO Nears"
-    },
-    {
-     "title": "黄仁勋背后，藏着个大问题",
-     "link": "https://www.huxiu.com/article/4904750.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 16:33:31 +0800",
-     "summary": "本文来自微信公众号： 正和岛 ，作者：谭长春 黄仁勋道歉了。 2026年11月8日，一封致全体员工的信挂上英伟达官网。他承认对妻子不忠。“没有任何借口。”向家人、员工、董事会、股东，挨个道歉。 同一天，董事会启动独立调查。独立董事组成委员会，外聘法律顾问。查什么？查这件事有没有碰到国家安全，有没有泄公司机密。 资本市场没耐心听解释。消息出来，英伟达夜盘跳水，盘初一度跌超8%，收盘跌幅收窄到4.27%，市值停在4.31万亿美元，七个月新低。 但比股价更值得追问的，是一个此前被晾在一边的问题：如果黄仁勋明天不能坐在这把椅子上，英伟达谁接？ 答案是：没有人。 这不是一句气话。这家市值4.5万亿美元的",
-     "source": "虎嗅",
-     "zh": "黄仁勋背后，藏着个大问题"
-    },
-    {
-     "title": "瑞幸的“戒断反应”：利润大增45%，为什么同店销售却跌了11%？",
-     "link": "https://www.huxiu.com/article/4903278.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 16:33:00 +0800",
-     "summary": "瑞幸刚交出史上最赚钱的季报，利润暴涨45%，但自营门店同店销售却跌了11%，像体检指标全A体重狂降，怎么看都怪怪的。这背后藏着什么秘密？",
-     "source": "虎嗅",
-     "zh": "瑞幸的“戒断反应”：利润大增45%，为什么同店销售却跌了11%？"
-    },
-    {
-     "title": "战火中遭受重创的乌克兰能源设施及其教训",
-     "link": "https://www.huxiu.com/article/4904744.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 16:23:21 +0800",
-     "summary": "本文来自微信公众号： 全说能源 ，作者：全说能源 战火中遭受重创的乌克兰能源设施及其教训 乌克兰能源设施受到俄罗斯四年多持续系统攻击，展现现代战争中能源设施高度脆弱的同时更为如何保障能源和电力安全提供了现实的样本。 王能全 俄罗斯与乌克兰之间战争爆发以来，炼油厂、码头、发电厂和电网等能源基础设施，是双方相互攻击的重要目标，其中乌克兰的能源设施持续受到俄罗斯的系统性攻击。依据“乌克兰战争分析”、“乌克兰国家新闻”网站和国际能源署等机构的材料，本文将介绍四年多来乌克兰能源设施受到攻击的概况、2026-2027年冬季乌克兰需采取的行动，以及从乌克兰能源设施受持续系统性攻击得出的10点教训，以便从乌克",
-     "source": "虎嗅",
-     "zh": "战火中遭受重创的乌克兰能源设施及其教训"
-    },
-    {
-     "title": "Agent开始进入企业核心流程，组织的“数字劳动力”如何管理？",
-     "link": "https://www.huxiu.com/article/4904743.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 16:20:10 +0800",
-     "summary": "本文来自微信公众号： ANO Lab ，作者：小艾，原文标题：《AI组织进化周报002丨Agent开始进入企业核心流程，组织的“数字劳动力”如何管理？》 本期主题：Agent开始进入企业核心流程，组织的“数字劳动力”如何管理？ 监测周期：2026年11月4日—11月11日。重点追踪全球AI企业、企业级Agent、业务流程重构、数据与知识基础设施、Agent治理，以及中国企业的组织借鉴价值。 一、本期核心判断 本周最值得关注的变化，是企业AI正在从单点应用走向成体系的业务执行。 IBM与Microsoft联合推出面向行业流程的Agent平台；Adobe把Agent带进内容供应链；Box开始让Ag",
-     "source": "虎嗅",
-     "zh": "Agent开始进入企业核心流程，组织的“数字劳动力”如何管理？"
     },
     {
      "title": "VR pioneer Jaron Lanier says Silicon Valley is sabotaging itself by poorly pitching AI and treating areas designated for data centers as sacrifice zones (Jaron Lanier/New York Times)",
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "AMD 披露了 Zen 6 CPU 家族的细节。从表面看，Zen 6 是 Zen 5 的自然演进，核心扩展了乱序执行结构以及其它方面的迭代改进。但深入内部会发现 AMD 对核心的多个方面进行了重构，其改进类似从 Zen 1 到 Zen 2。 Zen 6 分支预测错误开销从 Zen 5 的 3.5-4 纳秒缩短到了 3-3.5 纳秒，降低了分支预测错误延迟。Zen 6 能在 L1 指令缓存内实现每周期处理 2 个分支，指令足迹超出 L1 缓存容量后会降至每周期处理 1 个分支，Zen 6 主要提升了分支目标缓冲器（BTB）的速度而非容量。Zen 6 的分支预测单元精确度接近 Zen 5，执行速度",
      "source": "Solidot",
      "zh": "AMD 公布 Zen 6 CPU 细节"
-    },
-    {
-     "title": "A profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband (New York Times)",
-     "link": "https://www.techmeme.com/261111/p5#a261111p5",
-     "pubDate": "Wed, 11 Nov 2026 01:20:15 -0500",
-     "summary": "New York Times : A profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband &nbsp; &mdash;&nbsp; Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of",
-     "source": "Techmeme",
-     "zh": "A profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband (New York Times)"
     }
    ]
   },
@@ -2017,6 +2017,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung’s Galaxy Enhance-X editing app is getting an overhaul in One UI 9.5",
+     "link": "https://www.androidauthority.com/samsung-galaxy-enhance-x-one-ui-9-5-3733756/",
+     "pubDate": "Wed, 11 Nov 2026 09:16:36 +0000",
+     "summary": "Samsung's image editing app is getting a UI upgrade in One UI 9.5.",
+     "source": "Android Authority",
+     "zh": "Samsung’s Galaxy Enhance-X editing app is getting an overhaul in One UI 9.5"
+    },
     {
      "title": "Samsung’s slidable phone is still a rumor, but its dimensions might be starting to take shape",
      "link": "https://www.androidauthority.com/samsung-slidable-phone-flexible-display-3733765/",
@@ -2088,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "The vast majority 'hate' the changes. Are you one of them?",
      "source": "Android Authority",
      "zh": "Survey says YouTube’s new Android app redesign is a massive miss"
-    },
-    {
-     "title": "Google rolls out Gemini 4 Carbon to AI Ultra subscribers",
-     "link": "https://www.androidauthority.com/google-gemini-4-carbon-rollout-3733702/",
-     "pubDate": "Wed, 11 Nov 2026 06:11:13 +0000",
-     "summary": "Google’s most capable AI model moves beyond its limited preview.",
-     "source": "Android Authority",
-     "zh": "Google rolls out Gemini 4 Carbon to AI Ultra subscribers"
     },
     {
      "title": "Samsung reportedly working on a phone with an expandable display",
@@ -2266,12 +2266,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns",
+     "title": "European stocks advance as investors read inflation, oil and AI developments",
+     "link": "https://seekingalpha.com/news/4670501-european-stocks-advance-as-investors-read-inflation-oil-and-ai-developments?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 04:23:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "European stocks advance as investors read inflation, oil and AI developments"
+    },
+    {
+     "title": "CoreWeave stock pops 13% after outlook raise eases AI slowdown concerns",
      "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-     "pubDate": "Wed, 11 Nov 2026 09:14:08 GMT",
+     "pubDate": "Wed, 11 Nov 2026 09:18:44 GMT",
      "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
      "source": "CNBC",
-     "zh": "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns"
+     "zh": "CoreWeave stock pops 13% after outlook raise eases AI slowdown concerns"
+    },
+    {
+     "title": "Fed Speak: Goolsbee calls CPI 'borderline disturbing,' Paulson backs gradual tightening",
+     "link": "https://seekingalpha.com/news/4670490-fed-rate-outlook-inflation-goolsbee-paulson?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 04:14:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fed Speak: Goolsbee calls CPI 'borderline disturbing,' Paulson backs gradual tightening"
+    },
+    {
+     "title": "uCloudlink Group beats top-line and bottom-line estimates; gives Q4 and updates FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4670514-ucloudlink-group-beats-top-line-and-bottom-line-estimates-gives-q4-and-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 04:14:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "uCloudlink Group beats top-line and bottom-line estimates; gives Q4 and updates FY2026 outlook"
     },
     {
      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
@@ -2386,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sunrise Communications GAAP EPS of CHF 0.00, revenue of CHF 732M; reaffirms FY2026 outlook"
     },
     {
-     "title": "Electromed targets $1.05M–$1.15M home care revenue per rep as CEO plans April 2027 retirement",
-     "link": "https://seekingalpha.com/news/4670508-electromed-targets-1_05m-1_15m-home-care-revenue-per-rep-as-ceo-plans-april-2027-retirement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 03:31:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Electromed targets $1.05M–$1.15M home care revenue per rep as CEO plans April 2027 retirement"
-    },
-    {
      "title": "离岸信托收益征税平稳有序推进 累计申报离岸信托个人所得税超1600亿元",
      "link": "http://finance.eastmoney.com/news/1345,202611113928436023.html",
      "pubDate": "Wed, 11 Nov 2026 16:31:35 +0800",
@@ -2410,28 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "American soldier arrested on suspicion of spying for Russia"
     },
     {
-     "title": "Phoenix New Media Non-GAAP EPADS of -$0.02, revenue of $32.5M; gives Q4 outlook",
-     "link": "https://seekingalpha.com/news/4670507-phoenix-new-media-non-gaap-eps-of-002-revenue-of-325m-gives-q4-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 03:26:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Phoenix New Media Non-GAAP EPADS of -$0.02, revenue of $32.5M; gives Q4 outlook"
-    },
-    {
      "title": "平头哥分拆上市值多少？大摩给出最高830亿美元估值",
      "link": "https://wallstreetcn.com/articles/3785719",
      "pubDate": "Wed, 11 Nov 2026 16:22:01 +0800",
      "summary": "阿里巴巴旗下芯片部门平头哥的分拆上市计划，正在为这家中国科技巨头的估值打开新的想象空间。摩根士丹利分析师Gary Yu等在最新研报中给出平头哥独立估值区间 280亿至830亿美元 ，并认为此次分拆是释放阿里巴巴资产价值的重要催化剂。 阿里巴巴已正式提出将平头哥在香港上市，但具体发行细节尚未敲定。分析师指出，平头哥上市后将维持阿里巴巴子公司地位，阿里巴巴现有股东不享有平头哥股份的确定性认购权利。 平头哥目标是将其算力贡献占比从目前逾10%提升至40%至50%，以支撑阿里巴巴2032年实现20GW全球算力目标。 估值区间：280亿至830亿美元 分析师Gary Yu在研报中表示，平头哥的独立估值区",
      "source": "华尔街见闻",
      "zh": "平头哥分拆上市值多少？大摩给出最高830亿美元估值"
-    },
-    {
-     "title": "Usio reiterates 14%-16% 2026 revenue growth as it targets “several hundred million dollars” of additional ION deposits",
-     "link": "https://seekingalpha.com/news/4670506-usio-reiterates-14-percentminus-16-percent-2026-revenue-growth-as-it-targets-several-hundred?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 03:22:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Usio reiterates 14%-16% 2026 revenue growth as it targets “several hundred million dollars” of additional ION deposits"
     },
     {
      "title": "科技老将：Anthropic IPO将是美股AI行情高点，有机会就“大举做多中国AI”",

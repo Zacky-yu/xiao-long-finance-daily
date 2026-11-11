@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 16:12:01",
+ "generated_at": "2026/11/11 16:30:52",
  "recent_days": 7,
  "industries": [
   {
@@ -48,30 +48,6 @@ window.INDUSTRY_DATA = {
      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
      "source": "TechCrunch AI",
      "zh": "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
-    },
-    {
-     "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-     "link": "https://www.qbitai.com/2026/11/509146.html",
-     "pubDate": "Wed, 11 Nov 2026 06:41:26 +0000",
-     "summary": "价格、门槛全打穿",
-     "source": "量子位",
-     "zh": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替"
-    },
-    {
-     "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
-     "link": "https://www.qbitai.com/2026/11/509088.html",
-     "pubDate": "Wed, 11 Nov 2026 06:27:03 +0000",
-     "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
-     "source": "量子位",
-     "zh": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题"
-    },
-    {
-     "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-     "link": "https://www.qbitai.com/2026/11/509085.html",
-     "pubDate": "Wed, 11 Nov 2026 06:18:09 +0000",
-     "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
-     "source": "量子位",
-     "zh": "卷起来了！11月11日，大模型厂商在天猫打5折"
     },
     {
      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -136,14 +112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared f",
      "source": "MarkTechPost",
      "zh": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms"
-    },
-    {
-     "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-     "link": "https://www.qbitai.com/2026/11/509052.html",
-     "pubDate": "Wed, 11 Nov 2026 03:43:31 +0000",
-     "summary": "L4无人化作业走向规模交付",
-     "source": "量子位",
-     "zh": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光"
     },
     {
      "title": "英伟达追投667亿！史上最大IPO启动路演，7名创始人将套现百亿",
@@ -248,6 +216,38 @@ window.INDUSTRY_DATA = {
      "summary": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each technique.",
      "source": "KDnuggets",
      "zh": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank"
+    },
+    {
+     "title": "苹果开卖334元AI“加油包”，额度不详，仅面向已订阅创作套件用户",
+     "link": "https://zhidx.com/p/608931.html",
+     "pubDate": "Tue, 10 Nov 2026 20:05:35 +0800",
+     "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月10日消息，11月9日，据科技媒体9to5Mac报道，苹果已针对其软件内置的AI助手 上线AI用量包 （Intelligence Usage Packs），在音乐制作软件Logic Pro中率先提供购买入口， 售价49.99美元（约合人民币334元） 。 ▲Logic Pro用量页面（图源：9to5Mac） Logic Pro内置的AI助手可以 根据自然语言指令创建音轨 、添加效果器、移动音乐片段，也能回答压缩器使用、乐器录音等音乐制作问题。它可以 直接执行部分软件操作 ，具备一定的Agent能力。 这款AI用量包面向 持有有效Apple ",
+     "source": "智东西",
+     "zh": "苹果开卖334元AI“加油包”，额度不详，仅面向已订阅创作套件用户"
+    },
+    {
+     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+     "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+     "pubDate": "Tue, 10 Nov 2026 12:02:28 +0000",
+     "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+     "source": "DeepMind",
+     "zh": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+    },
+    {
+     "title": "Helping caregivers use AI in everyday life",
+     "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+     "pubDate": "Tue, 10 Nov 2026 12:00:00 GMT",
+     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+     "source": "OpenAI",
+     "zh": "Helping caregivers use AI in everyday life"
+    },
+    {
+     "title": "Introducing Businesses in ChatGPT",
+     "link": "https://openai.com/index/introducing-businesses-chatgpt",
+     "pubDate": "Tue, 10 Nov 2026 10:00:00 GMT",
+     "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+     "source": "OpenAI",
+     "zh": "Introducing Businesses in ChatGPT"
     }
    ]
   },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Chinese scientists build 54.80 cm² methylammonium-free perovskite solar module with 22.7% efficiency",
+     "link": "https://www.pv-magazine.com/2026/11/11/chinese-scientists-build-54-80-cm%c2%b2-methylammonium-free-perovskite-solar-module-with-22-7-efficiency/",
+     "pubDate": "Wed, 11 Nov 2026 08:14:10 +0000",
+     "summary": "Chinese researchers have developed a methylammonium-free perovskite solar cell technology using ambient-air slot-die coating and a dual-additive strategy, achieving a power conversion efficiency of 26.16%. The approach also improved operational stability, with unencapsulated devices retaining 97.76%",
+     "source": "pv magazine",
+     "zh": "Chinese scientists build 54.80 cm² methylammonium-free perovskite solar module with 22.7% efficiency"
+    },
+    {
      "title": "Poland's Orlen Becomes First Buyer to Cancel Long-Term Qatar LNG Deal",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Polands-Orlen-Becomes-First-Buyer-to-Cancel-Long-Term-Qatar-LNG-Deal.html",
      "pubDate": "Wed, 11 Nov 2026 01:30:00 -0600",
@@ -906,6 +914,14 @@ window.INDUSTRY_DATA = {
      "zh": "Outcome pending on polysilicon action"
     },
     {
+     "title": "BYD Commercial Vehicle Sales Rise 68% in October!",
+     "link": "https://cleantechnica.com/2026/11/10/byd-commercial-vehicle-sales-rise-68-in-october/",
+     "pubDate": "Wed, 11 Nov 2026 04:53:43 +0000",
+     "summary": "Following up our usual monthly report on BYD’s passenger vehicle sales, let’s have a look at the companies commercial vehicle sales — all electric, of course. The company’s bus sales were up 62.1% year over year in October, rising from 367 in October 2025 to 600 in October 2026. Month ... [continued",
+     "source": "CleanTechnica",
+     "zh": "BYD Commercial Vehicle Sales Rise 68% in October!"
+    },
+    {
      "title": "Tesla Robotaxis Extend into San Antonio",
      "link": "https://cleantechnica.com/2026/11/10/tesla-robotaxis-extend-into-san-antonio/",
      "pubDate": "Wed, 11 Nov 2026 04:53:25 +0000",
@@ -952,14 +968,6 @@ window.INDUSTRY_DATA = {
      "summary": "WASHINGTON D.C. — Following is a statement from Tim Pawlenty, CEO of the Solar Energy Industries Association (SEIA) on the Bipartisan American Affordability and Jobs Act (BAAJA) clearing its first procedural hurdle in the U.S. Senate: “Americans urgently need lower energy costs, a better electric gr",
      "source": "CleanTechnica",
      "zh": "Solar & Storage Industry Statement on Bipartisan Permitting Reform Bill Passing First Procedural Vote"
-    },
-    {
-     "title": "Introducing the Waymo Accessibility Network UK: Co-Designing the Future of Autonomous Mobility",
-     "link": "https://cleantechnica.com/2026/11/10/introducing-the-waymo-accessibility-network-uk-co-designing-the-future-of-autonomous-mobility/",
-     "pubDate": "Wed, 11 Nov 2026 00:44:46 +0000",
-     "summary": "Today, we’re launching the Waymo Accessibility Network UK to inform the future of autonomous mobility in the UK and enable a more independent future of transport. Whether it’s travelling to work, visiting friends, attending an appointment or simply enjoying everything a place has to offer, everyone ",
-     "source": "CleanTechnica",
-     "zh": "Introducing the Waymo Accessibility Network UK: Co-Designing the Future of Autonomous Mobility"
     },
     {
      "title": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
@@ -1026,18 +1034,10 @@ window.INDUSTRY_DATA = {
      "zh": "Beyond wiring: how engineered EBOS solutions address Australia’s utility-scale solar project challenges"
     },
     {
-     "title": "Community engagement is key to on-site battery storage, experts say",
-     "link": "https://www.utilitydive.com/news/community-engagement-is-key-to-on-site-battery-energy-storage-experts-say/874194/",
-     "pubDate": "Tue, 10 Nov 2026 11:05:42 -0500",
-     "summary": "Building operators are turning to batteries to combat rising energy prices and add resiliency, but safety concerns means these projects require thoughtful planning, Greenbuild panelists say.",
-     "source": "Utility Dive",
-     "zh": "Community engagement is key to on-site battery storage, experts say"
-    },
-    {
      "title": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question",
      "link": "https://www.utilitydive.com/news/are-data-centers-really-paying-aes-indianas-google-deal-highlights-a-thor/873040/",
      "pubDate": "Tue, 10 Nov 2026 10:35:36 -0500",
-     "summary": "While local grid infrastructure projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
+     "summary": "While local projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
      "source": "Utility Dive",
      "zh": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question"
     },
@@ -1090,12 +1090,12 @@ window.INDUSTRY_DATA = {
      "zh": "Huaneng commissions dual-flywheel frequency regulation system, claims China single-unit power record"
     },
     {
-     "title": "Dual-oxide diffusion barrier boosts efficiency of mass-produced TOPCon solar cells by 0.07 percentage points",
-     "link": "https://www.pv-magazine.com/2026/11/10/dual-oxide-diffusion-barrier-boosts-efficiency-of-mass-produced-topcon-solar-cells-by-0-07-percentage-points/",
-     "pubDate": "Tue, 10 Nov 2026 13:25:38 +0000",
-     "summary": "Chinese researchers have developed a dual silicon oxide diffusion barrier strategy that improves phosphorus distribution and reduces contact resistance and optical losses in TOPCon solar cells. The industry-compatible process increased average cell efficiency from 27.15% to 27.22%, an absolute gain ",
-     "source": "pv magazine",
-     "zh": "Dual-oxide diffusion barrier boosts efficiency of mass-produced TOPCon solar cells by 0.07 percentage points"
+     "title": "Canada: Alectra-Convergent complete 320MWh portfolio in Ontario, Rodan advances country’s largest BTM BESS",
+     "link": "https://www.energy-storage.news/canada-alectra-convergent-complete-320mwh-portfolio-in-ontario-rodan-advances-countrys-largest-btm-bess/",
+     "pubDate": "Tue, 10 Nov 2026 13:02:06 +0000",
+     "summary": "Alectra Energy Solutions and Convergent Energy & Power have completed a 320MWh BESS portfolio at three sites in Ontario.",
+     "source": "Energy Storage News",
+     "zh": "Canada: Alectra-Convergent complete 320MWh portfolio in Ontario, Rodan advances country’s largest BTM BESS"
     }
    ]
   },
@@ -1770,28 +1770,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "阿维塔 1300 台「战损车基地」曝光，副总裁雍军曾透露价值约 6 个亿",
-     "link": "https://www.ithome.com/1/025/566.htm",
-     "pubDate": "Wed, 11 Nov 2026 08:08:58 GMT",
-     "summary": "IT之家 11 月 11 日消息，阿维塔科技官方今日曝光了其 1300 台「战损车基地」，阿维塔科技副总裁雍军此前在直播中透露， 该基地价值约 6 个亿 。 阿维塔官方还宣布， 将在 11 月 12 日在现场进行直播，介绍战损车基地的情况 。雍军昨日发文表示，汽车研发没有捷径，研发测试的钱一分都不能省。阿维塔坚决不造速成车，车一旦速成，一个家庭没了的可能性就会增大。 参考IT之家此前报道，工业和信息化部等四部门 10 月 10 日公开发布关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）。此次出台的文件重点面向三个方向： 一是研发测试验证，明确测试周期和里程的硬性要求",
+     "title": "京东物流首次开通西藏班列，4000 米高原快递坐火车出藏最快“次日达”",
+     "link": "https://www.ithome.com/1/025/584.htm",
+     "pubDate": "Wed, 11 Nov 2026 08:28:23 GMT",
+     "summary": "IT之家 11 月 11 日消息，京东今日宣布，近日，京东物流拉萨 — 西宁铁路班列正式开通。 这一班列沿着青藏铁路，经停那曲、安多、雁石坪、沱沱河、不冻泉等地，单程 20.5 小时，主要承运西藏特产和消费品 。这是京东物流首次在西藏开通铁路班列，开通后，快递进出西藏时效较此前平 均提前 2 天，出藏最快可“次日达”。 IT之家获悉，在开通西藏铁路班列之外，京东物流还同步推出“空转陆”服务， 西藏至成都段空运，成都至下一目的地陆运 。相比全程空运服务，价格降低超五成，低至 9 元 / Kg；相比全程陆运服务，时效大幅提升，最快次日达。 据介绍，拉萨智能仓配备了 100 余台自研的“地狼”搬运机",
      "source": "IT之家",
-     "zh": "阿维塔 1300 台「战损车基地」曝光，副总裁雍军曾透露价值约 6 个亿"
+     "zh": "京东物流首次开通西藏班列，4000 米高原快递坐火车出藏最快“次日达”"
     },
     {
-     "title": "洛图科技：2026 年第三季度中国笔记本电脑线上销量同比下滑 14.0%，均价 7759 元上涨 13.4%",
-     "link": "https://www.ithome.com/1/025/564.htm",
-     "pubDate": "Wed, 11 Nov 2026 08:03:58 GMT",
-     "summary": "IT之家 11 月 11 日消息，洛图科技最新数据显示，2026 年第三季度，中国笔记本电脑市场在线上全渠道平台的销量为 312 万台， 同比下降 14.0% ；销额为 241 亿元， 同比下降 2.6% 。 第三季度的市场表现延续了上半年的低迷走势，并且是自 2025 年第四季度起连续第四个季度的同比下滑。全年预测调低至 1200 万台，同比降幅为 10.7%。 ▲ 2026Q3 中国笔记本电脑线上市场季度销量及变化，单位：万台 IT之家获悉， 当季的主流电商销售均价为 7759 元，同比上涨 13.4% 。4000–5999 元价位的销量份额同比提升 9.9 个百分点，至 30.4%，已是",
+     "title": "我国加快推进“人工智能+自然资源”深度融合，计划 2030 年集成打造智能化国土空间治理基础平台",
+     "link": "https://www.ithome.com/1/025/575.htm",
+     "pubDate": "Wed, 11 Nov 2026 08:24:53 GMT",
+     "summary": "IT之家 11 月 11 日消息，据央视新闻今日报道，自然资源部、国家发展改革委近日发布关于 “人工智能 + 自然资源” 的实施意见，加快推动人工智能在自然资源领域规模化、产业化创新应用，服务国土空间规划“一张图”智能化升级。 其中，意见明确分阶段发展目标： 到 2028 年，实现人工智能在自然资源领域的示范应用， 建成时空地理信息、国土空间规划与治理、海洋、地质矿产、林业草原等重点方向的高质量数据集、大模型和智能体 ，“一张图”智能化水平全面提升，形成可复制、可推广的典型应用场景，助推自然资源新质生产力发展。 到 2030 年，人工智能深度融入自然资源管理全链条，集成打造智能化国土空间治理基",
      "source": "IT之家",
-     "zh": "洛图科技：2026 年第三季度中国笔记本电脑线上销量同比下滑 14.0%，均价 7759 元上涨 13.4%"
+     "zh": "我国加快推进“人工智能+自然资源”深度融合，计划 2030 年集成打造智能化国土空间治理基础平台"
     },
     {
-     "title": "B 社：未来一段时间内不会有《上古卷轴 6：哨兵》的新消息",
-     "link": "https://www.ithome.com/1/025/562.htm",
-     "pubDate": "Wed, 11 Nov 2026 08:00:29 GMT",
-     "summary": "IT之家 11 月 11 日消息，贝塞斯达（Bethesda）近日在 Reddit 论坛表示，他们不会在 11 月 11 日发布任何重大公告， 并且未来一段时间内也不会有《上古卷轴 6：哨兵》游戏的新消息 。 据IT之家了解，近期曾有部分海外博主声称，他们从 B 社内部人士打探到消息，说《上古卷轴 5：天际》发售 15 年（本作于 2011 年 11 月 11 日发售）之际会有重大情报出现。 同时，B 社于 11 月 3 日发布的工作室成立 40 周年纪念视频中暗示，《上古卷轴 6：哨兵》的剧情可能发生在锤落省。除此之外，相关内容并没有透露《上古卷轴 6》新消息。 此外，彭博社记者杰森 · 施",
+     "title": "佳能发布 KrF 半导体光刻机 FPA-6400ES6a，宣称实现高生产率和业界高水平套刻精度",
+     "link": "https://www.ithome.com/1/025/574.htm",
+     "pubDate": "Wed, 11 Nov 2026 08:24:18 GMT",
+     "summary": "IT之家 11 月 11 日消息，11 月 10 日，佳能在日本东京宣布，将于 2026 年 12 月上旬发售面向存储和逻辑芯片的 KrF（IT之家注：氟化氪）扫描式半导体光刻机“FPA-6400ES6a”。 ▲ KrF 扫描式半导体光刻机“FPA-6400ES6a” 官方表示，通过新开发的超高加速度载台缩短驱动时间，这款 KrF 扫描式半导体光刻机新产品具备 每小时 400 片晶圆的高产能 ；同时新开发了即使在高速驱动时也能进行稳定高精度位置控制的震动抑制技术，以及降低设备内气流不均匀、使激光光路温度均一化的空调控制技术，从而实现 业界 高水平的 4.0nm 套刻精度 。 此外，在佳能独有的",
      "source": "IT之家",
-     "zh": "B 社：未来一段时间内不会有《上古卷轴 6：哨兵》的新消息"
+     "zh": "佳能发布 KrF 半导体光刻机 FPA-6400ES6a，宣称实现高生产率和业界高水平套刻精度"
+    },
+    {
+     "title": "战火中遭受重创的乌克兰能源设施及其教训",
+     "link": "https://www.huxiu.com/article/4904744.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 16:23:21 +0800",
+     "summary": "本文来自微信公众号： 全说能源 ，作者：全说能源 战火中遭受重创的乌克兰能源设施及其教训 乌克兰能源设施受到俄罗斯四年多持续系统攻击，展现现代战争中能源设施高度脆弱的同时更为如何保障能源和电力安全提供了现实的样本。 王能全 俄罗斯与乌克兰之间战争爆发以来，炼油厂、码头、发电厂和电网等能源基础设施，是双方相互攻击的重要目标，其中乌克兰的能源设施持续受到俄罗斯的系统性攻击。依据“乌克兰战争分析”、“乌克兰国家新闻”网站和国际能源署等机构的材料，本文将介绍四年多来乌克兰能源设施受到攻击的概况、2026-2027年冬季乌克兰需采取的行动，以及从乌克兰能源设施受持续系统性攻击得出的10点教训，以便从乌克",
+     "source": "虎嗅",
+     "zh": "战火中遭受重创的乌克兰能源设施及其教训"
+    },
+    {
+     "title": "Agent开始进入企业核心流程，组织的“数字劳动力”如何管理？",
+     "link": "https://www.huxiu.com/article/4904743.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 16:20:10 +0800",
+     "summary": "本文来自微信公众号： ANO Lab ，作者：小艾，原文标题：《AI组织进化周报002丨Agent开始进入企业核心流程，组织的“数字劳动力”如何管理？》 本期主题：Agent开始进入企业核心流程，组织的“数字劳动力”如何管理？ 监测周期：2026年11月4日—11月11日。重点追踪全球AI企业、企业级Agent、业务流程重构、数据与知识基础设施、Agent治理，以及中国企业的组织借鉴价值。 一、本期核心判断 本周最值得关注的变化，是企业AI正在从单点应用走向成体系的业务执行。 IBM与Microsoft联合推出面向行业流程的Agent平台；Adobe把Agent带进内容供应链；Box开始让Ag",
+     "source": "虎嗅",
+     "zh": "Agent开始进入企业核心流程，组织的“数字劳动力”如何管理？"
+    },
+    {
+     "title": "林肯中国总裁贾鸣镝：全新车型飞行家 EX8 将于明年上半年上市",
+     "link": "https://www.ithome.com/1/025/572.htm",
+     "pubDate": "Wed, 11 Nov 2026 08:19:15 GMT",
+     "summary": "IT之家 11 月 11 日消息，据“新车情报局”，在今天（11 日）的林肯汽车沟通会上，林肯中国总裁贾鸣镝披露了林肯全新车型的更多消息：新车命名为林肯飞行家 EX8，定位林肯 全球首款豪华智擎超混车型 。 他透露，新车造型设计和体量感“更像领航员”，但由于尺寸更接近飞行家，所以选择沿用了飞行家的名字。值得一提的是，这也是 林肯首次选用中国的命名提案 。 至于“EX8”三个字母，则是用来体现车型的市场定位。 E 代表新能源、X 代表 SUV 的多功能性、8 代表 8 系大五座 。 产品规划方面，新车将会在 2026 广州车展亮相， 明年上半年上市 。 就在本月早些时候，工信部发布第 413 批",
+     "source": "IT之家",
+     "zh": "林肯中国总裁贾鸣镝：全新车型飞行家 EX8 将于明年上半年上市"
+    },
+    {
+     "title": "芬兰批准特斯拉辅助驾驶系统 TAD 上路使用，成为第 11 个放行的欧洲国家",
+     "link": "https://www.ithome.com/1/025/571.htm",
+     "pubDate": "Wed, 11 Nov 2026 08:16:38 GMT",
+     "summary": "IT之家 11 月 11 日消息，据路透社报道，芬兰交通与通信局（Traficom）当地时间周三表示，特斯拉辅助驾驶系统 Tesla Assisted Driving（TAD）已获准在芬兰道路上使用。至此，芬兰成为继拉脱维亚之后第 11 个批准该系统的欧洲国家。 该机构在声明中称，这意味着特斯拉可以立即开始向芬兰用户提供这套系统，符合条件的车辆也可以在芬兰道路上启用该功能。 今年 6 月，芬兰曾表示，可能在欧盟层面作出统一决定之前，率先批准特斯拉这套系统。目前，欧盟范围内的相关审批仍在等待结果。 IT之家注意到，今年 4 月，荷兰成为欧洲首个临时批准该系统的国家。这项审批被视为推动该技术未来在",
+     "source": "IT之家",
+     "zh": "芬兰批准特斯拉辅助驾驶系统 TAD 上路使用，成为第 11 个放行的欧洲国家"
+    },
+    {
+     "title": "港珠澳大桥口岸经海关跨境电商平台出口破千亿元，包裹日均超 300 万个",
+     "link": "https://www.ithome.com/1/025/570.htm",
+     "pubDate": "Wed, 11 Nov 2026 08:15:37 GMT",
+     "summary": "IT之家 11 月 11 日消息，据央视新闻今日报道，海关统计数据显示，今年前 10 个月， 经港珠澳大桥珠海公路口岸通过海关跨境电商管理平台出口达 1120 亿元 ，同比增长 33.1%，已超 2025 年全年。 目前，经港珠澳大桥珠海公路口岸出口的包裹日均超 300 万个， 覆盖全球 200 多个国家和地区 。 据IT之家此前报道，今年 6 月，港珠澳大桥香港口岸推出 2 条“无感 e-道”。通关人员完成登记后，系统将通过容貌识别与人工智能影像分析技术核验身份，全程无需驻足， 仅约 5 秒即可完成出境手续 ，较传统“e-道”提速约 2 秒。 此外，截至今年 5 月 25 日上午 11 时 ",
+     "source": "IT之家",
+     "zh": "港珠澳大桥口岸经海关跨境电商平台出口破千亿元，包裹日均超 300 万个"
     },
     {
      "title": "世界小姐现场走秀，菲律宾手机发布会看点拉满",
@@ -1800,30 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "菲律宾手机发布会现场一片勃艮第红，还硬插了个走秀环节。原来这款&ldquo;菲机&rdquo;其实是深圳传音的Techno Camon Slim 5G。",
      "source": "虎嗅",
      "zh": "世界小姐现场走秀，菲律宾手机发布会看点拉满"
-    },
-    {
-     "title": "玛莎拉蒂将在迪拜打造品牌住宅岛：配游艇接驳、海上餐厅，首批住宅 2030 年交付",
-     "link": "https://www.ithome.com/1/025/561.htm",
-     "pubDate": "Wed, 11 Nov 2026 07:59:40 GMT",
-     "summary": "IT之家 11 月 11 日消息，玛莎拉蒂这次把三叉戟标志从汽车引擎盖搬到了住宅大门上。当地时间 2026 年 11 月 9 日，意大利豪华汽车制造商玛莎拉蒂与迪拜房地产开发商 Samana Collecta 联合宣布，将在迪拜海岸附近的“世界群岛”项目中打造一座品牌住宅岛，命名为“玛莎拉蒂岛”（Maserati Island）。 这是玛莎拉蒂首次涉足全年居住型房地产项目。根据双方公布的信息，玛莎拉蒂岛计划建设 840 套品牌住宅，首批住宅预计从 2030 年开始交付。 整个项目规划了三种住宅类型，包括普通品牌公寓、7 栋水上别墅和 2 栋树屋别墅，所有住宅均冠以玛莎拉蒂品牌名称。双方在联合发",
-     "source": "IT之家",
-     "zh": "玛莎拉蒂将在迪拜打造品牌住宅岛：配游艇接驳、海上餐厅，首批住宅 2030 年交付"
-    },
-    {
-     "title": "消息称 OpenAI 今年 Q3 营收首次达百亿美元，环比大增近 50%",
-     "link": "https://www.ithome.com/1/025/560.htm",
-     "pubDate": "Wed, 11 Nov 2026 07:57:27 GMT",
-     "summary": "IT之家 11 月 11 日消息，据彭博社今天（11 日）凌晨援引知情人士消息称，受最新 AI 产品需求旺盛推动，OpenAI 第三季度营收 首次达到 100 亿美元 （IT之家注：现汇率约合 668.78 亿元人民币） ，环比增长近 50%，达到去年同期的近 3 倍。 一名知情人士披露，OpenAI 第三季度调整后营业利润率从上一季度的-150% 改善至-109%，亏损幅度有所收窄。此外，OpenAI 在电话会议上透露，截至 9 月底，年化营收规模约为 500 亿美元 （现汇率约合 3,343.88 亿元人民币） 。 今年，OpenAI 在部分指标上曾落后于长期竞争对手 Anthropic，",
-     "source": "IT之家",
-     "zh": "消息称 OpenAI 今年 Q3 营收首次达百亿美元，环比大增近 50%"
-    },
-    {
-     "title": "开发者 AI 自制工具追踪室内异响，将声源锁定至约 40 厘米范围",
-     "link": "https://www.ithome.com/1/025/559.htm",
-     "pubDate": "Wed, 11 Nov 2026 07:56:43 GMT",
-     "summary": "IT之家 11 月 11 日消息，软件开发者西蒙 · 威利森（Simon Willison）于 11 月 9 日发布博文，借助 AI 编程工具 Claude Code，开发名为 Beep Locator 的声音定位系统， 可以将声源锁定至约 40 厘米范围。 IT之家援引博文介绍，开发该 Beep Locator 系统的初衷，是威利森搬家后储物室堆积了较多尚未拆封的纸箱，而不时传来短促的“哔哔”电子声。由于鸣叫间隔较长，靠耳朵很难确定来源。于是他借助 Claude Code 编写程序， 让分散摆放的五台手机、平板和电脑通过网页调用麦克风，共同捕捉声音。 在技术实现方面，该系统主要比较同一声音抵",
-     "source": "IT之家",
-     "zh": "开发者 AI 自制工具追踪室内异响，将声源锁定至约 40 厘米范围"
     },
     {
      "title": "高新技术企业“摘牌”加速",
@@ -1866,28 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nintendo sold 5.2M copies of its The Legend of Zelda: Ocarina of Time remake in just four days, giving the Switch 2 the blockbuster hit it had been waiting for (Vlad Savov/Bloomberg)"
     },
     {
-     "title": "反派少女派遣中心破千万，AI番剧冲击业界",
-     "link": "https://www.huxiu.com/article/4904188.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 15:35:47 +0800",
-     "summary": "日本动画业界做一部新番要200人熬三年，如今中国up主单枪匹马靠AI半月爆火涨粉20万，野生AI番剧播放量轻松破千万。AI打穿制作门槛，让追番少年自己上手造番。你刷到过AI番剧吗？会不会有一天它们真的取代大厂？",
-     "source": "虎嗅",
-     "zh": "反派少女派遣中心破千万，AI番剧冲击业界"
-    },
-    {
      "title": "黄仁勋危局：CEO职位恐不保，一段婚外情背后的出口管制风暴",
      "link": "https://www.tmtpost.com/8201159.html",
      "pubDate": "Wed, 11 Nov 2026 15:22:00 +0800",
      "summary": "网络安全专家 Alperovitch 在 CNBC 访谈中断言黄仁勋几乎不可能保住 CEO 职位：真正致命的不是婚外情，而是涉嫌绕过美国出口管制、干预联邦调查的系列指控。",
      "source": "钛媒体",
      "zh": "黄仁勋危局：CEO职位恐不保，一段婚外情背后的出口管制风暴"
-    },
-    {
-     "title": "“我认识的投资人，一半都不在这行了”",
-     "link": "https://www.huxiu.com/article/4904730.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 15:21:43 +0800",
-     "summary": "本文来自微信公众号： 小饭桌 ，作者：关注科技的，编辑：张丽娟 最近一年多，投资人去向最密集的绝对是具身智能。 最近和几个投资人朋友闲聊，大家不约而同地提到一个感受：过去圈子里熟识的人，现在差不多有一半都不在这个行业了。 这半年，具身智能的一级融资一下子踩了刹车，机构招聘紧跟节奏。别说扩招，最近圈里都没什么机构还在招投资人看具身了。至于要冷多久，谁也不知道。 那些不想在机构里熬“垃圾时间”的投资人，干脆直接去被投企业找了点事儿做。 除了去具身智能的，像AI应用公司、AI芯片企业，最近都有投资人加入。当然，也有不少人选择去大厂。 投资人去企业，早就不是什么新鲜事。把时间线拉长来看，这更像是一条体",
-     "source": "虎嗅",
-     "zh": "“我认识的投资人，一半都不在这行了”"
     },
     {
      "title": "AI短剧混战：大厂争夺的是剧本，还是下一代流量入口",
@@ -2266,6 +2266,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "平头哥分拆上市值多少？大摩给出最高830亿美元估值",
+     "link": "https://wallstreetcn.com/articles/3785719",
+     "pubDate": "Wed, 11 Nov 2026 16:22:01 +0800",
+     "summary": "阿里巴巴旗下芯片部门平头哥的分拆上市计划，正在为这家中国科技巨头的估值打开新的想象空间。摩根士丹利分析师Gary Yu等在最新研报中给出平头哥独立估值区间 280亿至830亿美元 ，并认为此次分拆是释放阿里巴巴资产价值的重要催化剂。 阿里巴巴已正式提出将平头哥在香港上市，但具体发行细节尚未敲定。分析师指出，平头哥上市后将维持阿里巴巴子公司地位，阿里巴巴现有股东不享有平头哥股份的确定性认购权利。 平头哥目标是将其算力贡献占比从目前逾10%提升至40%至50%，以支撑阿里巴巴2032年实现20GW全球算力目标。 估值区间：280亿至830亿美元 分析师Gary Yu在研报中表示，平头哥的独立估值区",
+     "source": "华尔街见闻",
+     "zh": "平头哥分拆上市值多少？大摩给出最高830亿美元估值"
+    },
+    {
+     "title": "Usio reiterates 14%-16% 2026 revenue growth as it targets “several hundred million dollars” of additional ION deposits",
+     "link": "https://seekingalpha.com/news/4670506-usio-reiterates-14-percentminus-16-percent-2026-revenue-growth-as-it-targets-several-hundred?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 03:22:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Usio reiterates 14%-16% 2026 revenue growth as it targets “several hundred million dollars” of additional ION deposits"
+    },
+    {
+     "title": "科技老将：Anthropic IPO将是美股AI行情高点，有机会就“大举做多中国AI”",
+     "link": "https://wallstreetcn.com/articles/3785720",
+     "pubDate": "Wed, 11 Nov 2026 16:21:54 +0800",
+     "summary": "在AI热潮推动下，Anthropic正筹备一宗规模高达1000亿美元的IPO，但一位长期看空AI的科技老将发出警告：Anthropic IPO可能成为AI行情高点，禁售期届满后或引发连锁式回调。 创投公司Copper Sky负责人、Peter Thiel家族办公室管理合伙人Jack Selby周三接受彭博电视采访时表示，“如果这家最受期待的AI公司IPO远远低于预期估值，想象一下锁定期到期之后会发生什么。一场表现不佳的Anthropic IPO，必将成为AI市场一场相当大规模回调中的核心推手。” Anthropic目前正寻求通过IPO、私募配售及潜在超额配售选择权，合计筹资最多1000亿美元。",
+     "source": "华尔街见闻",
+     "zh": "科技老将：Anthropic IPO将是美股AI行情高点，有机会就“大举做多中国AI”"
+    },
+    {
+     "title": "Anthropic IPO估值1.3万亿美元，创始人人均身家180亿美元",
+     "link": "https://wallstreetcn.com/articles/3785717",
+     "pubDate": "Wed, 11 Nov 2026 16:19:57 +0800",
+     "summary": "Anthropic正以硅谷近年来规模最大的IPO之一冲击公开市场，七位联合创始人将在上市后各自坐拥约180亿美元身家，彰显这家AI公司自2021年成立以来的惊人增长速度。 据华尔街日报报道，Anthropic周二（11月10日）提交的文件显示， Anthropic计划最快下周上市，目标估值约1.3万亿美元，拟通过股票发行及向谷歌等大型投资者定向配售相结合的方式，募资约800亿美元或更多。 此次IPO发行价区间定为每股70至78美元。 七位创始人各自计划在IPO中套现约2.5亿美元，出售约340万股。上市后，每位创始人仍将持有公司约3.2%的A类股份，按发行价区间中点计算， 对应市值约为180亿",
+     "source": "华尔街见闻",
+     "zh": "Anthropic IPO估值1.3万亿美元，创始人人均身家180亿美元"
+    },
+    {
+     "title": "Wilmington Capital Management GAAP EPS of C$0.03, revenue of C$0.27M",
+     "link": "https://seekingalpha.com/news/4670504-wilmington-capital-management-gaap-eps-of-c003-revenue-of-c027m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 03:16:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wilmington Capital Management GAAP EPS of C$0.03, revenue of C$0.27M"
+    },
+    {
+     "title": "北京具身智能三年方案发布，提出20万台年产能和50个标杆场景目标",
+     "link": "https://wallstreetcn.com/articles/3785725",
+     "pubDate": "Wed, 11 Nov 2026 16:15:50 +0800",
+     "summary": "11月11日，北京市经济和信息化局印发《北京市具身智能机器人产业高质量发展行动方案（2026-2028年）》。方案提出，力争到2028年培育不少于5家国际一流、10家国内领先的人形机器人整机企业，京津冀区域整机产能占全国25%，关键零部件配套率超过60%，在京形成20万台/年的整机生产能力。 配套制度上，方案提出新增建设总规模超过50000PFlops的具身智能专用算力集群，推动具身智能重点企业与算力节点建设单位以“结对子”方式形成算力供需协同；构建具身智能机器人“一机一码”全过程管理体系，覆盖研发、生产、报废、回收全周期；建立整机企业上市“一对一”服务机制。方案自印发之日起实施，有效期至20",
+     "source": "华尔街见闻",
+     "zh": "北京具身智能三年方案发布，提出20万台年产能和50个标杆场景目标"
+    },
+    {
+     "title": "创业板午后涨超3%，算力硬件集体爆发，光模块龙头“易中天”均大涨超13%，恒科指跌超1%，权重科网股回落",
+     "link": "https://wallstreetcn.com/articles/3785695",
+     "pubDate": "Wed, 11 Nov 2026 16:14:46 +0800",
+     "summary": "A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，中际旭创、新易盛均创年内最大单日升幅。有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。 11月11日，A股午后震荡拉升，创业板涨超3%。AI硬件爆发，光模块、光芯片、光通信、光电路交换机、电路板、覆铜板等概念股普遍拉升，剑桥科技涨停，“易中天”均大涨超13%。煤炭、海运等板块活跃，白酒、AI短剧、贵金属等陷入调整。银行板块尾盘转跌。 港股全天低开低走，恒指、恒科指齐跌，恒科指跌超1%，权重科网股多数下跌，美团、腾讯、快手、网易等下跌。光模块、芯片半导体等科技股反弹，剑桥科技H股大涨超23%。",
+     "source": "华尔街见闻",
+     "zh": "创业板午后涨超3%，算力硬件集体爆发，光模块龙头“易中天”均大涨超13%，恒科指跌超1%，权重科网股回落"
+    },
+    {
+     "title": "Eupraxia Pharmaceuticals reports Q3 results",
+     "link": "https://seekingalpha.com/news/4670503-eupraxia-pharmaceuticals-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 03:11:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Eupraxia Pharmaceuticals reports Q3 results"
+    },
+    {
+     "title": "International Tower Hill Mines Ltd. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4670502-international-tower-hill-mines-ltd-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 03:10:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "International Tower Hill Mines Ltd. reports Q3 results"
+    },
+    {
      "title": "37亿美元“数据中心发电设备预付款”不要了！“燃气轮机最积极买家”软银看到了什么？",
      "link": "https://wallstreetcn.com/articles/3785724",
      "pubDate": "Wed, 11 Nov 2026 16:08:26 +0800",
@@ -2322,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "甬金股份：截至11月10日最新股东户数1.56万户，较上期增加6.25%"
     },
     {
-     "title": "Nova Leap Health reports Q3 results",
-     "link": "https://seekingalpha.com/news/4670498-nova-leap-health-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 02:57:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nova Leap Health reports Q3 results"
-    },
-    {
      "title": "俄美乌在阿布扎比开始第二日会谈",
      "link": "http://finance.eastmoney.com/news/1351,202611113928393672.html",
      "pubDate": "Wed, 11 Nov 2026 15:57:08 +0800",
@@ -2344,30 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "佳驰科技 11月11日公告称， 11月3日至11月5日 接待中银基金 等6家机构 调研。 接待人员包括董事会秘书 杨柳青。 公司就以下问题进行了回复： 1、请介绍一下公司当前的业务布局及进展? 答:公司聚焦 EMMS(电磁功能材料与结构)主营业务,致力于成为 EMMS 领域国际领先的高科技企业。当前,公司主要产品和服务应用于国防 军工 领域和民用 电子 信息领域。在国防 军工 领域,公司产品全面覆盖电磁功能涂层材料、电磁功能结构件、电磁维护材料;在民用电... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息",
      "source": "东方财富股票",
      "zh": "【调研快报】佳驰科技接待中银基金等6家机构调研"
-    },
-    {
-     "title": "Invesque reports Q3 results",
-     "link": "https://seekingalpha.com/news/4670497-invesque-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 02:54:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Invesque reports Q3 results"
-    },
-    {
-     "title": "RFA Financial Inc. reports Q3 results",
-     "link": "https://seekingalpha.com/news/4670495-rfa-financial-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 02:52:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RFA Financial Inc. reports Q3 results"
-    },
-    {
-     "title": "GreenFirst Forest Products GAAP EPS of -C$0.30, revenue of C$87.65M",
-     "link": "https://seekingalpha.com/news/4670496-greenfirst-forest-products-gaap-eps-of-c030-revenue-of-c8765m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 02:52:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GreenFirst Forest Products GAAP EPS of -C$0.30, revenue of C$87.65M"
     },
     {
      "title": "“易中天”同日涨超13%！这次能否打破“次日必跌”的魔咒？",
@@ -2402,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "汽车“双11”进行时：余承东预告“新车、新品牌” 超廿品牌集中促销"
     },
     {
-     "title": "“照常上班”、“照常开例会”，婚外情曝光后黄仁勋重返工作岗位",
-     "link": "https://wallstreetcn.com/articles/3785714",
-     "pubDate": "Wed, 11 Nov 2026 15:15:29 +0800",
-     "summary": "英伟达首席执行官黄仁勋在公开承认婚外情后迅速回归工作岗位，试图向外界传递\"一切如常\"的信号。然而，这家全球最重要的AI芯片制造商内部情绪趋于低落，董事会调查也在同步推进。 据CNBC11日援引知情人士透露，黄仁勋于周一返回英伟达位于加利福尼亚州圣克拉拉的总部，主持了与高层管理人员的例行晨会。就在前一天，这位63岁的CEO刚刚向员工披露了自己的婚外情。 据报道，黄仁勋在会议伊始就提及此事，向员工表达歉意，随后迅速将议程转向日常业务，全程未开放提问环节。周二，他同样在办公室出现，继续参加各项会议——此时距公司季度财报发布仅剩一周。 员工向CNBC形容公司内部气氛\"令人沉重\"。与此同时，英伟达董事会",
-     "source": "华尔街见闻",
-     "zh": "“照常上班”、“照常开例会”，婚外情曝光后黄仁勋重返工作岗位"
-    },
-    {
      "title": "【风口研报】微软施压光模块禁令现转机 海内外算力需求扩容 光通信板块有望延续高增长",
      "link": "http://stock.eastmoney.com/news/1405,202611113928359323.html",
      "pubDate": "Wed, 11 Nov 2026 15:10:00 +0800",
@@ -2418,44 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "【风口研报】微软施压光模块禁令现转机 海内外算力需求扩容 光通信板块有望延续高增长"
     },
     {
-     "title": "见闻历11.11大促最后3天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Wed, 11 Nov 2026 15:08:35 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11大促最后3天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”"
-    },
-    {
-     "title": "市场“新军”进入快速建仓期？首批主动ETF落地运作",
-     "link": "https://wallstreetcn.com/articles/3785716",
-     "pubDate": "Wed, 11 Nov 2026 15:06:05 +0800",
-     "summary": "备受瞩目的首批主动 ETF ，已经开始正式下场运作。 根据最新公布的基金净值，首批 18 只 主动管理 ET 的 16 只产品，日前公布了最新净值（截至 11 月 6 日）。其中不少产品净值已开始明显波动，后者意味着基金经理已在考虑建仓。 此外，另外两只产品也已完成募集，所有基金的原始份额均已售罄，后续 360 亿资金将会次第入市。 各家动作不一 从已披露的净值报告看， 16 家公布净值的产品收益率略有差异。 其中，永赢景气均衡以 +1.26% 的累计净值涨幅，表现相对居前，华夏质量甄选录得 +0.89% 涨幅，招商价值智选、易方达品质均衡也分别上涨 0.63% 、 0.61% 。 此外，摩根",
-     "source": "华尔街见闻",
-     "zh": "市场“新军”进入快速建仓期？首批主动ETF落地运作"
-    },
-    {
      "title": "存储酝酿新一轮涨价！渠道价格已先动 多股获融资客抢筹(名单)",
      "link": "http://finance.eastmoney.com/news/11822,202611113928357381.html",
      "pubDate": "Wed, 11 Nov 2026 15:05:50 +0800",
      "summary": "存储市场正酝酿新一轮涨价，部分头部企业已向渠道商口头告知企业级颗粒涨价意向。机构认为本轮存储涨价将长期延续，A股存储 芯片概念 股近一周获资金明显流入。 头部企业口头告知涨价意向，DRAM合约端与企业级SSD领涨 据科创板日报11月11日报道，多位存储行业人士透露，部分头部企业已向渠道商口头告知企业级颗粒的涨价意向，提价函尚未正式下发，但渠道端价格已经先动了起来。多位代理商证实了上述涨价信号，有海力士代理商表示\"每天都在涨\"，二手盘回收价格一路上行带动整体报价走高；价格调整的路径则是省代每周调价，代理产品价格再逐级向下传导。 本轮涨价并非全品类普涨。有三星代理商表示，此轮涨价主要集中在DRAM",
      "source": "东方财富资讯",
      "zh": "存储酝酿新一轮涨价！渠道价格已先动 多股获融资客抢筹(名单)"
-    },
-    {
-     "title": "2028年——美国中选给AI上游供应链“挖的一个坑”",
-     "link": "https://wallstreetcn.com/articles/3785713",
-     "pubDate": "Wed, 11 Nov 2026 15:02:22 +0800",
-     "summary": "一场选举，让华尔街重新审视AI建设节奏。 2026年11月，美国中期选举结果出炉。民主党不仅拿下国会两院，还在德州、俄亥俄州赢得州长席位——这两个州恰好是美国数据中心建设最密集的地区。 摩根士丹利最新研报 《Buy the Drop: AI Investment Opportunities Post the US Midterms》 判断，美国蓝色浪潮后，美国数据中心建设将有约5GW容量从2028年推迟至2029年，相当于美国当年新增容量的20%、全球新增容量的10%。 这一推迟带来的直接结果是：美国数据中心GW新增容量2028年同比下降4%，2029年反弹38%；全球层面，2028年同比增长",
-     "source": "华尔街见闻",
-     "zh": "2028年——美国中选给AI上游供应链“挖的一个坑”"
-    },
-    {
-     "title": "国联民生的整合实验：“双向法人切换”如何重塑业务分工",
-     "link": "https://wallstreetcn.com/articles/3785715",
-     "pubDate": "Wed, 11 Nov 2026 14:51:07 +0800",
-     "summary": "国联民生证券历时近两年的业务整合，迎来新的进展。 11月9日，国联民生证券完成财富管理业务法人切换后的首个交易日，各项交易及清算交收业务运行平稳。 据公司披露，此次切换涉及215万名经纪客户、483个交易单元、沪深北三地结算路径，以及19家存管银行的银证签约关系。 对于投资者而言，账户号码、交易软件及持仓资产保持不变。后台则完成了业务主体的调整，相关客户的交易代理、结算交收等服务由民生证券承接。 这也是国联民生此次整合的一项特殊安排。 与传统券商并购中较为常见的吸收合并模式相比，国联民生采取了按业务类型划分经营主体的方式，将财富管理业务集中至民生证券，同时把固定收益、权益投资等自营业务向上市母",
-     "source": "华尔街见闻",
-     "zh": "国联民生的整合实验：“双向法人切换”如何重塑业务分工"
     },
     {
      "title": "仰望重金砸向全球市场 向传统豪门“宣战”",

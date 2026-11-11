@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/11 08:44:39",
+ "generated_at": "2026/11/11 08:52:19",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
      "source": "OpenAI",
      "zh": "Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+     "title": "英伟达追投667亿！史上最大IPO启动路演，7名创始人将套现百亿",
+     "link": "https://zhidx.com/p/608995.html",
+     "pubDate": "Wed, 11 Nov 2026 07:42:07 +0800",
+     "summary": "智东西 作者 | 江宇 编辑 | 心缘 智东西11月11日消息，昨晚， Anthropic正式启动首次公开募股（IPO）路演 ，公布股票发行价格区间为每股70至78美元（约合人民币466.9至520.2元），计划发行8.25亿股股票。 按发行价上限计算，此次IPO最高募资643.5亿美元（约合人民币4292.4亿元）， Anthropic完全稀释后的估值最高可达1.405万亿美元 （约合人民币9.3万亿元）。 据CNBC援引知情人士报道， Anthropic计划于美国东部时间11月18日确定最终发行价，11月19日在纳斯达克开始交易。 除了公开发行股票，Anthropic还将通过一笔260亿美",
+     "source": "智东西",
+     "zh": "英伟达追投667亿！史上最大IPO启动路演，7名创始人将套现百亿"
     },
     {
      "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
@@ -239,14 +247,6 @@
      "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西11月10日报道，10月9日，在Agentic Infra操作系统大会&openEuler Summit 2026媒体预沟通会上，国内开源操作系统openEuler预告其将发布其 面向Agentic Infra的技术突破以及支持超节点的落地进展 ，内容覆盖Agent可观测与安全治理、极速沙箱、智能体记忆系统以及KV Cache优化。 OpenAtom openEuler社区执行总监刘飞谈道，智能体基础设施需要同时解决 启动速度、并发密度和任务生命周期 等问题。一次智能体会话可能同时拉起10个甚至100个任务，如果每个沙箱都需要较长时间启动，等待",
      "source": "智东西",
      "zh": "操作系统如何适配Agent时代？openEuler新方案来了"
-    },
-    {
-     "title": "美团1.6万亿参数大模型开源！累计Token用量破千亿，四项测试位列第一",
-     "link": "https://zhidx.com/p/608737.html",
-     "pubDate": "Tue, 10 Nov 2026 13:14:44 +0800",
-     "summary": "智东西 作者 | 孙小雯 编辑 | 程茜 智东西11月10日报道，昨晚，美团LongCat团队开源原生多模态模型LongCat-2.5。据OpenCode公开数据，截至今日上午12时，LongCat-2.5在该平台的 累计Token用量约1090亿 ，独立用户约4700名，已完成约5万次会话。 ▲LongCat-2.5在OpenCode上的公开数据（图源：OpenCode） LongCat-2.5采用MIT协议开放这款 1.6万亿 参数模型，支持商用推理部署与二次训练，无需额外授权。 一位X上的网友赞称，如此大规模的模型采用 较为宽松的MIT协议 开放，对开发者来说是一大利好消息。 ▲一位开发",
-     "source": "智东西",
-     "zh": "美团1.6万亿参数大模型开源！累计Token用量破千亿，四项测试位列第一"
     }
    ]
   },
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Introducing the Waymo Accessibility Network UK: Co-Designing the Future of Autonomous Mobility",
+     "link": "https://cleantechnica.com/2026/11/10/introducing-the-waymo-accessibility-network-uk-co-designing-the-future-of-autonomous-mobility/",
+     "pubDate": "Wed, 11 Nov 2026 00:44:46 +0000",
+     "summary": "Today, we’re launching the Waymo Accessibility Network UK to inform the future of autonomous mobility in the UK and enable a more independent future of transport. Whether it’s travelling to work, visiting friends, attending an appointment or simply enjoying everything a place has to offer, everyone ",
+     "source": "CleanTechnica",
+     "zh": "Introducing the Waymo Accessibility Network UK: Co-Designing the Future of Autonomous Mobility"
+    },
+    {
      "title": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
      "link": "https://oilprice.com/Energy/Crude-Oil/South-Sudan-Courts-Oil-Investors-as-Sudans-Warring-Forces-Take-Their-Share.html",
      "pubDate": "Tue, 10 Nov 2026 18:00:00 -0600",
@@ -1087,14 +1095,6 @@
      "summary": "Power firms RWE and BNZ have both announced construction on large-scale BESS projects in Italy, all-in-all totalling nearly 500MWh of capacity.",
      "source": "Energy Storage News",
      "zh": "Italy: RWE and BNZ launch construction on large-scale battery projects"
-    },
-    {
-     "title": "Italian startup plans offshore gravity storage projects",
-     "link": "https://www.pv-magazine.com/2026/11/10/italian-startup-plans-offshore-gravity-storage-projects/",
-     "pubDate": "Tue, 10 Nov 2026 11:43:25 +0000",
-     "summary": "Italian company Sizable Energy is developing a long-duration offshore energy storage system that uses deep-sea brine reservoirs to store electricity, with its first commercial projects planned for Calabria and Sicily and a demonstrator linked to a data center in Naples scheduled for 2027. The post I",
-     "source": "pv magazine",
-     "zh": "Italian startup plans offshore gravity storage projects"
     }
    ]
   },
@@ -1769,12 +1769,44 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: Anthropic&apos;s bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more (Financial Times)",
+     "link": "https://www.techmeme.com/261110/p60#a261110p60",
+     "pubDate": "Tue, 10 Nov 2026 19:45:01 -0500",
+     "summary": "Financial Times : Sources: Anthropic's bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more &nbsp; &mdash;&nbsp; Claude maker's listing price expected to rise after strong demand from investors&nbsp; &mdash;&nbsp; Anthro",
+     "source": "Techmeme",
+     "zh": "Sources: Anthropic&apos;s bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more (Financial Times)"
+    },
+    {
+     "title": "华为鸿蒙智行享界 V8 及星芒品牌发布会定档 11 月 20 日",
+     "link": "https://www.ithome.com/1/025/230.htm",
+     "pubDate": "Wed, 11 Nov 2026 00:43:30 GMT",
+     "summary": "IT之家 11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。 全新享界 V8 是鸿蒙智行旗下享界品牌首款 MPV，已于 11 月 7 日开启全国试驾，预售价 32.98 万元起。参考IT之家此前报道，该车提供纯电与增程两种动力形式，全系标配 800V 高压平台、±12° 后轮转向和华为乾崑智驾系统。 华为官网显示，享界 V8 采用七座布局设计，分 Ultra+、Ultra、Max+ 和 Max 四个版本。除 Max+ 外，享界 V8 其余版本均可选 800V 增程或 800V 纯电动力。 享界 V8 Ultra+ ",
+     "source": "IT之家",
+     "zh": "华为鸿蒙智行享界 V8 及星芒品牌发布会定档 11 月 20 日"
+    },
+    {
      "title": "华擎更新 ASRVBFlash 显卡刷写工具，修复 AMD RX 7900 XT / XTX 变砖问题",
      "link": "https://www.ithome.com/1/025/229.htm",
      "pubDate": "Wed, 11 Nov 2026 00:41:59 GMT",
      "summary": "IT之家 11 月 11 日消息，科技媒体 TechPowerUp 昨日（11 月 10 日）发布博文， 报道称华擎（ASRock）发布 1.0.6 版显卡固件刷写工具 ASRVBFlash，修复此前 1.0.5 版本给 Radeon RX 7900 XT / XTX 用户带来的问题。 IT之家注：ASRVBFlash 是华擎（ASRock）为自家 AMD Radeon 显卡提供的 VBIOS 刷写工具，用于更新显卡上的固件（Video BIOS），主要面向需要修复兼容性问题、调整显卡出厂设置或应用官方固件更新的用户。 部分 Radeon RX 7900 XT / XTX 显卡此前反馈使用 1",
      "source": "IT之家",
      "zh": "华擎更新 ASRVBFlash 显卡刷写工具，修复 AMD RX 7900 XT / XTX 变砖问题"
+    },
+    {
+     "title": "2026，AI应用的钱都流向了哪里？",
+     "link": "https://www.huxiu.com/article/4904608.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 08:37:16 +0800",
+     "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 视频、图像和3D拿走大头。 定焦One（dingjiaoone）原创 2026年，AI融资市场最“大笔”的钱，依然流向大模型、算力等基础能力。但越来越频繁的融资故事，开始发生在应用层。 据智东西统计，2026年上半年，国内AI产业链上亿元融资中，AI应用方向融资事件最多，共33起。其中，视频、图像和3D生成占了近四成，AI Agent约占两成，企业应用、AI医疗/药物、AI金融、AI营销等方向也都出现了亿元级融资。 Megan是原点社区GTM公益社区发起人，也是一名国内C端应用出海操盘手，她告诉「定焦One」，从和投资机构交",
+     "source": "虎嗅",
+     "zh": "2026，AI应用的钱都流向了哪里？"
+    },
+    {
+     "title": "Edge AI Daily 早报（11月11日）",
+     "link": "https://www.tmtpost.com/8200609.html",
+     "pubDate": "Wed, 11 Nov 2026 08:34:54 +0800",
+     "summary": "Anthropic以发行8.25亿股、70—78美元定价冲刺纳斯达克（代码ANT），含七家芯片与云巨头260亿美元私募配售，募资上限约900亿美元，估值自2万亿美元退守至1.2万亿—1.3万亿美元区间；招股书显示前九月营收332亿美元、净亏损1040亿美元，8954亿美元算力承诺与Q3算力成本占营收58%构成核心矛盾。同期发布Fable 5.2与Mythos 5.2，千级智能体8天从零构建可启动操作系统、30小时完成费马大定理形式化，API降价20%。谷歌一年四发TPU并以Gemini Intelligence扩分发，Meta用Muse Ember把竞争推向单位任务成本，OpenAI收购旅行代",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（11月11日）"
     },
     {
      "title": "苹果 iCloud 服务全球性故障，影响注册登录、照片同步和查找 iPhone 等",
@@ -1849,14 +1881,6 @@
      "zh": "硅谷那套盖园区的方式，正在搬进实验室"
     },
     {
-     "title": "谷歌发布 Android 17 QPR2 正式版及 Pixel 11 月更新，新增通知管理和隐私控制功能",
-     "link": "https://www.ithome.com/1/025/223.htm",
-     "pubDate": "Wed, 11 Nov 2026 00:16:53 GMT",
-     "summary": "IT之家 11 月 11 日消息，谷歌于当地时间 11 月 10 日宣布向 Pixel 系列手机及平板电脑推送 Android 17 QPR2 正式版更新。 此次更新比原定季度发布时间提前约一个月，同时整合了 2026 年 11 月 Pixel Feature Drop 功能更新和当月安全补丁，带来界面定制、通知管理、隐私控制及系统稳定性方面的多项改进。 据 9to5Google 报道，QPR2 调整了主屏幕长按菜单的布局，并为系统主题增加了更灵活的颜色选择功能。用户进入「壁纸和风格」设置后，可以通过颜色选择滑块自定义系统强调色，还能在 Neutral、Soft、Bright 和 Bold 四",
-     "source": "IT之家",
-     "zh": "谷歌发布 Android 17 QPR2 正式版及 Pixel 11 月更新，新增通知管理和隐私控制功能"
-    },
-    {
      "title": "丘成桐谈AI：不管黑猫白猫，先找到真理再说",
      "link": "https://www.huxiu.com/article/4904604.html?f=rss",
      "pubDate": "Wed, 11 Nov 2026 08:13:22 +0800",
@@ -1873,28 +1897,12 @@
      "zh": "凌晨4点的脑机接口，站着一群“江湖骗子”"
     },
     {
-     "title": "亚朵：零售“续命”，酒店“失血”，“小清新”还能扛多久？",
-     "link": "https://www.huxiu.com/article/4904598.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 08:12:57 +0800",
-     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君 北京时间 2026 年 11 月 10 日美股盘前，亚朵（ATAT）发布了 2026 年 3 季度财报。整体收入依然是超预期的，公司也把全年收入指引从此前的 +30% 进一步上调到 +33%-35%；利润端，剔除股权激励后的利润同样好于预期，但不好的点在于酒店同店继续走弱，叠加一笔大额股权激励，GAAP 净利润同比出现了小幅下滑。 具体要点如下： 1、RevPAR 勉强为正，同店继续走弱。从最核心的经营指标每间可售房收入（RevPAR）看，三季度亚朵 RevPAR 为 373 元/晚，同比增长 0.5%，勉强维持正增长。其中 ADR 同比增长 1",
-     "source": "虎嗅",
-     "zh": "亚朵：零售“续命”，酒店“失血”，“小清新”还能扛多久？"
-    },
-    {
      "title": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation (Maria Armental/Wall Street Journal)",
      "link": "https://www.techmeme.com/261110/p58#a261110p58",
      "pubDate": "Tue, 10 Nov 2026 19:00:53 -0500",
      "summary": "Maria Armental / Wall Street Journal : NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation &nbsp; &mdash;&nbsp; The $80 million investment in Daylight Security highlights growing demand for securi",
      "source": "Techmeme",
      "zh": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation (Maria Armental/Wall Street Journal)"
-    },
-    {
-     "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
-     "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
-     "pubDate": "Tue, 10 Nov 2026 23:41:41 +0000",
-     "summary": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md Comments URL: https://news.ycombinator.com/item?id=50447900 Points: 7 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)"
     },
     {
      "title": "In a report, Railway says it believes the October hack targeted AI provider keys for resale, and unauthorized spend on the stolen keys was estimated at ~$740K (Lawrence Abrams/BleepingComputer)",
@@ -1961,30 +1969,6 @@
      "zh": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot"
     },
     {
-     "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-     "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-     "pubDate": "Tue, 10 Nov 2026 22:17:56 +0000",
-     "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 135 # Comments: 44",
-     "source": "Hacker News",
-     "zh": "After 7 months, Glasswing overwelms maintainers with underwhelming findings"
-    },
-    {
-     "title": "Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions (Jake Bleiberg/Bloomberg)",
-     "link": "https://www.techmeme.com/261110/p54#a261110p54",
-     "pubDate": "Tue, 10 Nov 2026 17:15:00 -0500",
-     "summary": "Jake Bleiberg / Bloomberg : Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions &nbsp; &mdash;&nbsp; At least 11 National Security Agency and US Cyber Command workers died by suicide over rough",
-     "source": "Techmeme",
-     "zh": "Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions (Jake Bleiberg/Bloomberg)"
-    },
-    {
-     "title": "$30M Raised to Redo the CPU",
-     "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
-     "pubDate": "Tue, 10 Nov 2026 22:14:03 +0000",
-     "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 8 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "$30M Raised to Redo the CPU"
-    },
-    {
      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
      "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
      "pubDate": "Tue, 10 Nov 2026 21:55:26 +0000",
@@ -1993,20 +1977,36 @@
      "zh": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr"
     },
     {
-     "title": "rVPN – stealth VPN with end-to-end encryption",
-     "link": "https://rvpn.org/",
-     "pubDate": "Tue, 10 Nov 2026 21:42:50 +0000",
-     "summary": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 55 # Comments: 46",
-     "source": "Hacker News",
-     "zh": "rVPN – stealth VPN with end-to-end encryption"
+     "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+     "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+     "pubDate": "Tue, 10 Nov 2026 21:12:59 +0000",
+     "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+     "source": "Ars Technica",
+     "zh": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI"
     },
     {
-     "title": "Apple has new Mac app coming to make running local AI models easy",
-     "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-     "pubDate": "Tue, 10 Nov 2026 21:25:03 +0000",
-     "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 96 # Comments: 57",
-     "source": "Hacker News",
-     "zh": "Apple has new Mac app coming to make running local AI models easy"
+     "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+     "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+     "pubDate": "Tue, 10 Nov 2026 20:47:05 +0000",
+     "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+     "source": "TechCrunch",
+     "zh": "Proximal Ventures raises debut fund to back startups bringing AI to drug development"
+    },
+    {
+     "title": "X-energy gets green light to build its first small modular nuclear reactors",
+     "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+     "pubDate": "Tue, 10 Nov 2026 20:43:55 +0000",
+     "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+     "source": "TechCrunch",
+     "zh": "X-energy gets green light to build its first small modular nuclear reactors"
+    },
+    {
+     "title": "What happens to mathematics when AI becomes an oracle?",
+     "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+     "pubDate": "Tue, 10 Nov 2026 20:30:01 +0000",
+     "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
+     "source": "Ars Technica",
+     "zh": "What happens to mathematics when AI becomes an oracle?"
     }
    ]
   },
@@ -2265,12 +2265,20 @@
    "total": 13,
    "items": [
     {
-     "title": "CoreWeave电话会：算力需求推动大幅提价，拒绝无担保发债，2028年实现盈利",
+     "title": "Seer outlines $13.5M-$14.5M 2026 revenue outlook while refocusing commercial efforts after special committee review",
+     "link": "https://seekingalpha.com/news/4670356-seer-outlines-13_5m-14_5m-2026-revenue-outlook-while-refocusing-commercial-efforts-after?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 19:41:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Seer outlines $13.5M-$14.5M 2026 revenue outlook while refocusing commercial efforts after special committee review"
+    },
+    {
+     "title": "CoreWeave电话会：拒绝无担保发债，算力需求推动大幅提价，2028年实现盈利",
      "link": "https://wallstreetcn.com/articles/3785686",
      "pubDate": "Wed, 11 Nov 2026 08:35:33 +0800",
      "summary": "AI云计算基础设施提供商CoreWeave在最新财报电话会上传递出强烈的供需信号：公司算力资源在2027年前已基本售罄，2028年需求更是远超可用容量数倍，同时公司宣布大幅上调旗下服务价格，并表示将以客户预付款取代无担保债务作为主要融资手段。 华尔街见闻提及 ，11月10日周二美股盘后，CoreWeave公布第三季度营收36.61亿美元，同比增长168%，超出分析师预期，并将2026年全年收入指引上调至130亿至133亿美元。 电话会上，CoreWeave首席执行官Michael Intrator表示，季度内完成了多项关键里程碑： 运营利润率 从二季度的5%跃升至10%，提前一个季度达成年初既",
      "source": "华尔街见闻",
-     "zh": "CoreWeave电话会：算力需求推动大幅提价，拒绝无担保发债，2028年实现盈利"
+     "zh": "CoreWeave电话会：拒绝无担保发债，算力需求推动大幅提价，2028年实现盈利"
     },
     {
      "title": "TELA Bio outlines $76M-$78M 2027 expense range following $17M cost reduction plan",
@@ -2345,14 +2353,6 @@
      "zh": "Ipm targets positive adjusted EBITDA in Q4 while advancing AdTech acquisition"
     },
     {
-     "title": "GrowGeneration narrows 2026 revenue outlook to $163M-$165M while planning 4-5 more store closures and withdrawing EBITDA guidance",
-     "link": "https://seekingalpha.com/news/4670350-growgeneration-narrows-2026-revenue-outlook-to-163m-165m-while-planning-4minus-5-more-store?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 19:02:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GrowGeneration narrows 2026 revenue outlook to $163M-$165M while planning 4-5 more store closures and withdrawing EBITDA guidance"
-    },
-    {
      "title": "AI could cut banking industry's cost base by 20% - McKinsey's",
      "link": "https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinseys?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Wed, 11 Nov 2026 00:01:00 GMT",
@@ -2369,68 +2369,12 @@
      "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
     },
     {
-     "title": "济民健康：融资净买入409.51万元，融资余额1.04亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611113927919553.html",
-     "pubDate": "Wed, 11 Nov 2026 07:55:13 +0800",
-     "summary": "交易所最新数据显示，济民健康于2026年11月10日获融资买入635.65万元，融资偿还226.14万元， 当日融资净买入409.51万元。 目前，该股融资余额1.04亿，占流通市值比例为2.78%。 该股当日无融券交易。目前，该股融券余量8700股，融券余额6.18万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作",
-     "source": "东方财富股票",
-     "zh": "济民健康：融资净买入409.51万元，融资余额1.04亿元"
-    },
-    {
-     "title": "东航物流：融资净偿还267.57万元，融资余额8.3亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611113927919746.html",
-     "pubDate": "Wed, 11 Nov 2026 07:55:13 +0800",
-     "summary": "交易所最新数据显示，东航物流于2026年11月10日获融资买入586.35万元，融资偿还853.92万元， 当日融资净偿还267.57万元。 目前，该股融资余额8.30亿，占流通市值比例为4.50%。 该股当日融券卖出9600股，融券偿还1.11万股， 融券净偿还1500股。 目前，该股融券余量25.54万股，融券余额498.8万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈",
-     "source": "东方财富股票",
-     "zh": "东航物流：融资净偿还267.57万元，融资余额8.3亿元"
-    },
-    {
-     "title": "上海医药：融资净买入183.62万元，融资余额7.35亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611113927919487.html",
-     "pubDate": "Wed, 11 Nov 2026 07:55:13 +0800",
-     "summary": "交易所最新数据显示， 上海医药 于2026年11月10日获融资买入1120.64万元，融资偿还937.01万元， 当日融资净买入183.62万元。 目前，该股融资余额7.35亿，占流通市值比例为1.60%。 该股当日融券卖出4600股，融券偿还5300股， 融券净偿还700股。 目前，该股融券余量21.52万股，融券余额353.81万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
-     "source": "东方财富股票",
-     "zh": "上海医药：融资净买入183.62万元，融资余额7.35亿元"
-    },
-    {
-     "title": "恒润股份：融资净偿还139.81万元，融资余额3.42亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611113927919198.html",
-     "pubDate": "Wed, 11 Nov 2026 07:55:11 +0800",
-     "summary": "交易所最新数据显示， 恒润股份 于2026年11月10日获融资买入579.61万元，融资偿还719.42万元， 当日融资净偿还139.81万元。 目前，该股融资余额3.42亿，占流通市值比例为5.37%。 该股当日无融券交易。目前，该股融券余量2.61万股，融券余额37.69万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风",
-     "source": "东方财富股票",
-     "zh": "恒润股份：融资净偿还139.81万元，融资余额3.42亿元"
-    },
-    {
-     "title": "中国瑞林：融资净偿还249.57万元，融资余额1.23亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611113927918939.html",
-     "pubDate": "Wed, 11 Nov 2026 07:55:09 +0800",
-     "summary": "交易所最新数据显示，中国瑞林于2026年11月10日获融资买入368.01万元，融资偿还617.58万元， 当日融资净偿还249.57万元。 目前，该股融资余额1.23亿，占流通市值比例为10.40%。 该股当日无融券交易。目前，该股融券余量5300股，融券余额25.23万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此",
-     "source": "东方财富股票",
-     "zh": "中国瑞林：融资净偿还249.57万元，融资余额1.23亿元"
-    },
-    {
-     "title": "陕西黑猫：融资净偿还269.42万元，融资余额1.01亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611113927919069.html",
-     "pubDate": "Wed, 11 Nov 2026 07:55:09 +0800",
-     "summary": "交易所最新数据显示，陕西黑猫于2026年11月10日获融资买入988.63万元，融资偿还1258.05万元， 当日融资净偿还269.42万元。 目前，该股融资余额1.01亿，占流通市值比例为1.50%。 该股当日无融券交易。目前，该股融券余量26.67万股，融券余额88.54万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富",
-     "source": "东方财富股票",
-     "zh": "陕西黑猫：融资净偿还269.42万元，融资余额1.01亿元"
-    },
-    {
      "title": "Hegseth impeachment effort torpedoed in House",
      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
      "pubDate": "Tue, 10 Nov 2026 23:46:41 GMT",
      "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
      "source": "CNBC",
      "zh": "Hegseth impeachment effort torpedoed in House"
-    },
-    {
-     "title": "多重催化共振！端侧AI硬件创新提速 产业链价值重估开启(附股)",
-     "link": "http://finance.eastmoney.com/news/11822,202611113927843322.html",
-     "pubDate": "Wed, 11 Nov 2026 07:42:59 +0800",
-     "summary": "政策补贴加持叠加海内外新品密集发布，端侧AI产业加速从概念走向落地，A股相关板块关注度持续升温。 端侧AI产业加速扩容 北京经开区近日印发 信创 产业支持措施，明确支持AI终端、超级智能体首试首用， 单个项目最高给予3000万元资金支持 。 此外，多地已将智能眼镜等AI终端纳入数码产品以旧换新补贴范围， 按售价15%补贴、单件最高封顶500元 ，北京、上海、深圳等地同步落地配套政策，直接从需求端拉动消费级AI硬件放量。 消费级硬件也即将进入新品密集发布期。据行业媒体报道，字节跳动旗下PICO Space Pro定档12月2日发布，市场预期该机搭载自研头显芯片与全链路光学方案，系统延迟压低至10",
-     "source": "东方财富资讯",
-     "zh": "多重催化共振！端侧AI硬件创新提速 产业链价值重估开启(附股)"
     },
     {
      "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
@@ -2455,14 +2399,6 @@
      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
      "source": "MarketWatch",
      "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
-    },
-    {
-     "title": "凌晨！霍尔木兹海峡传出大消息！",
-     "link": "http://finance.eastmoney.com/news/1344,202611113927771768.html",
-     "pubDate": "Wed, 11 Nov 2026 07:21:48 +0800",
-     "summary": "美伊局势仍存变数！ 昨夜今晨，美股三大指数集体下跌，截至收盘，纳指跌0.74%，标普500指数跌0.38%，道指跌0.30%。大型科技股多数下跌， 英伟达 大跌5.53%， 微软 跌超2%， 苹果 跌0.62%，谷歌A跌0.27%， 亚马逊 涨1.48%， 特斯拉 涨0.46%。芯片股走势分化， 博通 涨近4%， 台积电 涨超2%， 高通 涨超1%， 英特尔 、ARM跌超2%， 美光科技 跌超1%。 美伊局势最新消息方面，据央视新闻11日凌晨报道，伊朗伊斯兰革命卫队海军当地时间10日晚表示，当天下午，第三艘油轮在霍尔木兹海峡沿未经伊朗授权的航线航行时，触碰水雷并发生爆炸。 另据伊朗方面10日消",
-     "source": "东方财富资讯",
-     "zh": "凌晨！霍尔木兹海峡传出大消息！"
     },
     {
      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
@@ -2503,6 +2439,70 @@
      "summary": "新近消息显示，Anthropic IPO尚未正式定价，部分现有投资者已提前兜售预期获得的发行配售份额，向买家要求高于IPO发行价3%至5%的溢价。 据彭博社美东时间10日周二的报道，交易机构JonesTrading正代表部分投资者推介一笔最高达5亿美元的股票份额，显示市场对这场热门AI公司IPO的需求已提前升温。 以上消息并不意味着Anthropic股票已经在二级市场上市流通，而是代表，投资者提前转让预期获得的IPO配售份额。买家需要在最终发行价基础上额外支付溢价，以换取提前锁定股份的机会。 最高5亿美元配售份额待售，买家需支付额外溢价 据彭博社报道，JonesTrading正代表部分Anth",
      "source": "华尔街见闻",
      "zh": "抢在Anthropic IPO前出手！投资者据称兜售配售份额，溢价高达5%"
+    },
+    {
+     "title": "英伟达继续大跌，两日市值蒸发4300亿美元，微软一度重夺全球第二",
+     "link": "https://wallstreetcn.com/articles/3785679",
+     "pubDate": "Wed, 11 Nov 2026 06:50:30 +0800",
+     "summary": "英伟达股价连续第二个交易日下跌，周二跌幅一度超6%，两日市值损失4300亿美元。 周二，英伟达跌幅明显大于其他大型科技股，成为拖累科技股表现的重要因素。 微软收跌2.2%，Alphabet跌约0.4%，Meta收平，苹果跌约0.6%，特斯拉涨0.5%，亚马逊上涨约1.5%。标普500指数下跌约0.4%，纳斯达克100指数下跌0.6%。 美股盘中微软市值曾一度超越英伟达，成为全球市值第二大的上市公司。后由于Anthropic发布办公套件，微软跌幅扩大，再次落后于英伟达。 股东提起集体诉讼，公司治理风险进一步发酵 股价承压之际，英伟达还面临新的法律和公司治理压力。一名股东已于周一在加利福尼亚州提起",
+     "source": "华尔街见闻",
+     "zh": "英伟达继续大跌，两日市值蒸发4300亿美元，微软一度重夺全球第二"
+    },
+    {
+     "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+     "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+     "pubDate": "Tue, 10 Nov 2026 22:37:00 GMT",
+     "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
+     "source": "MarketWatch",
+     "zh": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins"
+    },
+    {
+     "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
+     "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+     "pubDate": "Tue, 10 Nov 2026 22:08:25 GMT",
+     "summary": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
+     "source": "CNBC",
+     "zh": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy"
+    },
+    {
+     "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
+     "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+     "pubDate": "Tue, 10 Nov 2026 22:01:52 GMT",
+     "summary": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
+     "source": "CNBC",
+     "zh": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit"
+    },
+    {
+     "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+     "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+     "pubDate": "Tue, 10 Nov 2026 21:45:46 GMT",
+     "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
+     "source": "CNBC",
+     "zh": "White House vows to press ahead with tariffs despite midterm backlash over rising prices"
+    },
+    {
+     "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
+     "link": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 10 Nov 2026 18:46:00 GMT",
+     "summary": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg.",
+     "source": "Finextra",
+     "zh": "Banking giants commit $270m to stablecoin venture - Bloomberg"
+    },
+    {
+     "title": "Alice Huang’s tangled web of connections",
+     "link": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
+     "pubDate": "Tue, 10 Nov 2026 16:17:20 GMT",
+     "summary": "Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators",
+     "source": "Financial Times",
+     "zh": "Alice Huang’s tangled web of connections"
+    },
+    {
+     "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
+     "link": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+     "pubDate": "Tue, 10 Nov 2026 11:15:35 -0500",
+     "summary": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its fundamental responsibility: protecting…",
+     "source": "SEC",
+     "zh": "SEC Announces Enforcement Annual Results for Fiscal Year 2026"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 14:32:11",
+ "generated_at": "2026/11/11 14:52:02",
  "recent_days": 7,
  "industries": [
   {
@@ -306,6 +306,14 @@ window.INDUSTRY_DATA = {
      "zh": "AI demand drives record revenue for Altos through October"
     },
     {
+     "title": "Top Ten (less 5) Server Manufacturers",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-server-manufacturers-2-2026-11/",
+     "pubDate": "Wed, 11 Nov 2026 01:01:51 +0000",
+     "summary": "Thanks to BizTech – the top five server vendors: Dell Technologies: ~10.0% Supermicro: ~9.5% IEIT Systems: ~4.1% Lenovo: ~4.0% HPE:~3.1% The post Top Ten (less 5) Server Manufacturers appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Top Ten (less 5) Server Manufacturers"
+    },
+    {
      "title": "Cree LED launches XLamp X21 Multi-Color LEDs",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-101126.shtml",
      "pubDate": "Tue, 10 Nov 2026 20:59:41 GMT",
@@ -370,6 +378,14 @@ window.INDUSTRY_DATA = {
      "zh": "Staera emerges from stealth with $4.6m in pre-seed funding"
     },
     {
+     "title": "ESA signs OHB for next-gen Sentinel-3 topography mission",
+     "link": "https://www.electronicsweekly.com/news/business/esa-signs-ohb-for-next-gen-sentinel-3-topography-mission-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 15:18:15 +0000",
+     "summary": "The German space systems integrator OHB has been awarded, by the European Space Agency (ESA), a €554 million contract for two next-gen Sentinel-3 topography satellites. The Sentinel-3 Next Generation Topography […] The post ESA signs OHB for next-gen Sentinel-3 topography mission appeared first on E",
+     "source": "Electronics Weekly",
+     "zh": "ESA signs OHB for next-gen Sentinel-3 topography mission"
+    },
+    {
      "title": "People Detection in Confined Spaces: Elevator Application",
      "link": "https://www.eetimes.com/people-detection-in-confined-spaces-elevator-application/",
      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
@@ -384,6 +400,14 @@ window.INDUSTRY_DATA = {
      "summary": "As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of the digital economy. The post The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk? appeared first on EE Times .",
      "source": "EE Times",
      "zh": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?"
+    },
+    {
+     "title": "Tardy",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/intel-sloth-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 14:25:42 +0000",
+     "summary": "According to tech Taiwan, reported by Wcctech, MediaTek people who are using Intel’s EMIB-T packaging technology have had a complaint from Intel engineers about their demands for quick answers to […] The post Tardy appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Tardy"
     },
     {
      "title": "Three-Dimensional Chess Anyone? The Challenges of Power Integrity for Multi-Die Designs",
@@ -402,12 +426,36 @@ window.INDUSTRY_DATA = {
      "zh": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences"
     },
     {
+     "title": "Nickel/aluminium is the smarter alternative to traditional silver/aluminium EMI shielding materials",
+     "link": "https://www.electronicsweekly.com/news/business/nickel-aluminium-is-the-smarter-alternative-to-traditional-silver-aluminium-emi-shielding-materials-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 12:00:03 +0000",
+     "summary": "Nickel-aluminium (Ni/Al) is emerging as an alternative to silver-aluminium (Ag/Al) in shielding applications, writes Rachid Ait El Cadi. For decades Ag/Al conductive elastomer gaskets have occupied a leading position in electromagnetic […] The post Nickel/aluminium is the smarter alternative to trad",
+     "source": "Electronics Weekly",
+     "zh": "Nickel/aluminium is the smarter alternative to traditional silver/aluminium EMI shielding materials"
+    },
+    {
+     "title": "TSMC October revenues up 59.7% YoY",
+     "link": "https://www.electronicsweekly.com/news/business/tsmc-october-revenues-up-59-7-yoy-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 11:46:02 +0000",
+     "summary": "TSMC today announced a 59.7% rise YoY and a $14.7% rise MoM for its October revenue of $17.8 billion. Revenue for January through October 2026 totaled $136.2 billion, an increase […] The post TSMC October revenues up 59.7% YoY appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "TSMC October revenues up 59.7% YoY"
+    },
+    {
      "title": "Mitsubishi Electric suppresses frequency dispersion in GaN transistors using GaN substrates",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/mitsubishi-electric-101126.shtml",
      "pubDate": "Tue, 10 Nov 2026 11:43:14 GMT",
      "summary": "Tokyo-based Mitsubishi Electric Corp claims that, for the first time in the world, it has elucidated the effects of frequency dispersion (whereby current values and other characteristics of high-frequency devices vary depending on the operating frequency) caused by crystal defects in a gallium nitri",
      "source": "Semiconductor Today",
      "zh": "Mitsubishi Electric suppresses frequency dispersion in GaN transistors using GaN substrates"
+    },
+    {
+     "title": "Infineon expects a €20bn 2027",
+     "link": "https://www.electronicsweekly.com/news/business/infineon-expects-a-e20bn-2027-2026-11/",
+     "pubDate": "Tue, 10 Nov 2026 11:08:24 +0000",
+     "summary": "Infineon had Q4 FY 2026 revenue of €4.706 billion for profit of €1.119 billion at a margin of 23.8% For FY 2026 it had revenue of €16.353 billion, up 12up […] The post Infineon expects a €20bn 2027 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Infineon expects a €20bn 2027"
     },
     {
      "title": "onsemi introduces EliteSiC M4 fourth-gen silicon carbide platform, with up to 30% higher power density and 35% lower losses",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturers are using test data and predictive models to identify marginal chips and determine when additional screening is justified. The post Which Passing Chips Need More Testing? appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Which Passing Chips Need More Testing?"
-    },
-    {
-     "title": "AI’s Efficiency Challenge For The Semiconductor Industry",
-     "link": "https://semiengineering.com/ais-efficiency-challenge-for-the-semiconductor-industry/",
-     "pubDate": "Tue, 10 Nov 2026 08:03:58 +0000",
-     "summary": "AI is reshaping the tools, data, and collaboration models used to design, manufacture, and test silicon. The post AI’s Efficiency Challenge For The Semiconductor Industry appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI’s Efficiency Challenge For The Semiconductor Industry"
-    },
-    {
-     "title": "The Definitive AFM Modes Handbook: 2026 Edition",
-     "link": "https://semiengineering.com/the-definitive-afm-modes-handbook-2026-edition/",
-     "pubDate": "Tue, 10 Nov 2026 08:01:35 +0000",
-     "summary": "A comprehensive guide to expanding materials research capabilities. The post The Definitive AFM Modes Handbook: 2026 Edition appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "The Definitive AFM Modes Handbook: 2026 Edition"
-    },
-    {
-     "title": "Streaming Scan Network Test Over PCIe",
-     "link": "https://semiengineering.com/streaming-scan-network-test-over-pcie/",
-     "pubDate": "Tue, 10 Nov 2026 08:01:27 +0000",
-     "summary": "Changing test strategies put a premium on how closely the design ecosystem and the test ecosystem line up. The post Streaming Scan Network Test Over PCIe appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Streaming Scan Network Test Over PCIe"
-    },
-    {
-     "title": "We Source Chips Others Cannot Secure, 2026",
-     "link": "https://www.eetimes.com/we-source-chips-others-cannot-secure-2026/",
-     "pubDate": "Tue, 10 Nov 2026 07:48:14 +0000",
-     "summary": "Chang Ming delivers scarce semiconductors, with rigorous 9-step quality inspection & global supply chain support for European & American electronics buyers. The post We Source Chips Others Cannot Secure, 2026 appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "We Source Chips Others Cannot Secure, 2026"
-    },
-    {
-     "title": "CTO Interview with Ed Plowman of Imagination Technologies",
-     "link": "https://semiwiki.com/ip/imagination-technologies/375783-cto-interview-with-ed-plowman-of-imagination-technologies-2/",
-     "pubDate": "Mon, 09 Nov 2026 20:00:12 +0000",
-     "summary": "Ed Plowman is Chief Technology Officer at Imagination Technologies, where he leads technology strategy, advanced architecture research and long-term innovation initiatives. He focuses on the convergence of graphics, compute and artificial intelligence, helping shape the next generation of efficient ",
-     "source": "SemiWiki",
-     "zh": "CTO Interview with Ed Plowman of Imagination Technologies"
-    },
-    {
-     "title": "The Race to Build a “Find My” for AI Chips",
-     "link": "https://spectrum.ieee.org/find-my-ai-chip",
-     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
-     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -658,6 +658,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "China NEV sales rise 13.1% to record 1.94 million in October, CAAM data shows",
+     "link": "https://cnevpost.com/2026/11/11/china-nev-sales-oct-2026-caam/",
+     "pubDate": "Wed, 11 Nov 2026 06:46:54 +0000",
+     "summary": "BEVs continued to lead growth, with October sales reaching a record 1.353 million units, up 22% year-on-year. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "China NEV sales rise 13.1% to record 1.94 million in October, CAAM data shows"
+    },
+    {
      "title": "BYD apologizes to owners, blames supplier coding error for Da Tang wheel rim mix-up",
      "link": "https://cnevpost.com/2026/11/11/byd-apologizes-da-tang-wheel-rim-mix-up/",
      "pubDate": "Wed, 11 Nov 2026 04:56:00 +0000",
@@ -784,14 +792,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Yangwang Altior will reportedly make its China debut at the Guangzhou Auto Show, which opens on November 27. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "BYD Yangwang Altior heading to Guangzhou Auto Show after Abu Dhabi world debut"
-    },
-    {
-     "title": "Li Auto accelerates Asia-Pacific expansion as 5 markets including Thailand and Hong Kong prepare for launch",
-     "link": "https://cnevpost.com/2026/11/10/li-auto-asia-pacific-expansion-5-markets-prepare-launch/",
-     "pubDate": "Tue, 10 Nov 2026 09:57:33 +0000",
-     "summary": "The right-hand-drive Li Mega MPV will debut in Thailand in December, followed by a launch in Hong Kong. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Li Auto accelerates Asia-Pacific expansion as 5 markets including Thailand and Hong Kong prepare for launch"
     },
     {
      "title": "Polestar’s Next EVs Will Borrow From This Gorgeous New Concept",
@@ -1770,20 +1770,92 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "我国首款商用级中小型纯太阳能无人机“轻骑兵”首飞成功：翼展 8 米，设计续航 30 小时",
-     "link": "https://www.ithome.com/1/025/446.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:28:43 GMT",
-     "summary": "IT之家 11 月 11 日消息，中国航天科技集团十一院今日宣布，我国自主研发的“轻骑兵”中小型太阳能无人机于西北某机场完成首飞。 该机以太阳能为唯一动力源，依靠机翼表面铺设的光伏电池在日照条件下持续获取能量。“轻骑兵”定位为商用级纯电飞行器，机身长 3.2 米，翼展 8 米，最大设计续航时间 30 小时。 该机采用模块化载荷设计，可快速适配通信中继、遥感观测等任务设备。起飞方式上，“轻骑兵”支持车载起飞，地面准备时间约 20 分钟，对起降场地要求较低。这一部署方式使其能够在缺乏跑道条件的区域使用，适合应急通信、临时监测等对响应速度有要求的场景。 “轻骑兵”首飞成功标志着国内太阳能无人机从技术",
+     "title": "腾讯全新搜索产品“元宝搜索”正式上线：能搜微信公众号、视频号，广告与答案明确区分",
+     "link": "https://www.ithome.com/1/025/471.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:47:56 GMT",
+     "summary": "IT之家 11 月 11 日消息，腾讯云今日宣布， 腾讯全新搜索产品「元宝搜索」正式上线 。在任意浏览器地址栏输入网址 so.qq.com 即可使用；也可将 QQ 浏览器升级至最新版本，在引擎设置选项中切换为“元宝搜索”。 IT之家获悉，元宝搜索基于元宝的大模型能力，重新构建了从理解、检索、排序到答案组织的整条搜索链路。依托千亿级索引， 搜索范围覆盖全网网页、公众号、视频号等腾讯生态内容和学术文献 。 在结果呈现上，元宝搜索优先展示权威机构与官方来源的内容， 并将广告与答案明确区分 ，支持「收起广告」，整块折叠。 据介绍，元宝搜索接入 157 个权威信源；能搜公众号、视频号；学术内容更好搜，通",
      "source": "IT之家",
-     "zh": "我国首款商用级中小型纯太阳能无人机“轻骑兵”首飞成功：翼展 8 米，设计续航 30 小时"
+     "zh": "腾讯全新搜索产品“元宝搜索”正式上线：能搜微信公众号、视频号，广告与答案明确区分"
     },
     {
-     "title": "部分 Win11 用户反馈安装微软 11 月累积更新报错，故障指向沙盒功能",
-     "link": "https://www.ithome.com/1/025/445.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:27:32 GMT",
-     "summary": "IT之家 11 月 11 日消息，科技媒体 NeoWin 今天（11 月 11 日）发布博文，报道称部分 Windows 11 设备用户反馈，无法正常安装微软 11 月累积更新（ 包括 KB5132061 和 KB5131087 ）， 安装过程遇到 0x800f0989、0x800f0915 和 0x80070306 等错误。 网友 Forceflow 随后在 elevenforum 论坛上发帖，通过调用 Claude 扫描 CBS.log 文件查找异常，初步锁定本次安装报错是由于 Windows Sandbox 兼容性故障导致的。 日志提示，系统组件目录中缺少 Professional.xm",
+     "title": "Switch 2《塞尔达传说：时之笛》重制版发售 4 天全球销量突破 520 万份，创任天堂新纪录",
+     "link": "https://www.ithome.com/1/025/470.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:46:03 GMT",
+     "summary": "IT之家 11 月 11 日消息，任天堂宣布，于 2026 年 11 月 5 日发售的 Nintendo Switch 2 游戏《塞尔达传说：时之笛》在上市前四天内，全球累计销量已突破 520 万份（其中日本国内销量为 81 万份）。这也创下任天堂发行的所有 Switch 2 游戏首发前 4 天的最高全球销量纪录。 据IT之家了解，于 11 月 5 日在全球同步发售的 Switch 2 版《塞尔达传说：时之笛》，是 1998 年在 Nintendo 64 平台首发的同名经典作品的全方位重制版。玩家将操控林克（Link）穿梭于少年与成年两个时代，借助不同时期的独特能力与道具展开冒险。本作针对 N",
      "source": "IT之家",
-     "zh": "部分 Win11 用户反馈安装微软 11 月累积更新报错，故障指向沙盒功能"
+     "zh": "Switch 2《塞尔达传说：时之笛》重制版发售 4 天全球销量突破 520 万份，创任天堂新纪录"
+    },
+    {
+     "title": "澳新海外仓退货换标后回款周期拉长到45天，是物流时效问题还是支付结算环节卡住了？",
+     "link": "https://www.baijing.cn/question/638670",
+     "pubDate": "Wed, 11 Nov 2026 06:42:56 +0000",
+     "summary": "我们做户外储能配件，客单价120澳元上下，去年Q4进澳大利亚市场，目前月订单约1800单，团队6个人，用Shopify独立站加澳洲本地支付网关。为处理退换货，在悉尼租了第三方海外仓做换标和二次上架，但发现退货入仓到重新可售平均要9天，退款却要在买家寄回后3天内发起，导致资金占用明显；同时支付服务商结算从T+7变成T+14，整体回款周期从28天拉长到45天。已经试过把退货审核前置、要求买家上传物流单号才触发退款，也跟仓库谈过加急上架，但只把入仓时效压到7天，回款没改善。卡在分不清是海外仓作业慢还是支付侧风控压结算，想先确认该优先压哪一头。",
+     "source": "白鲸出海",
+     "zh": "澳新海外仓退货换标后回款周期拉长到45天，是物流时效问题还是支付结算环节卡住了？"
+    },
+    {
+     "title": "酷派 COOL X Wide 百元阔直板手机开售 3 天销量破万，999~1399 元",
+     "link": "https://www.ithome.com/1/025/469.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:42:51 GMT",
+     "summary": "IT之家 11 月 11 日消息，安卓阵营首款阔直板手机 —— 酷派首款阔直板手机 Cool X Wide 已于 11 月 8 日正式开售。其中，8GB+128GB 版本 999 元、8GB+256GB 版本 1199 元、12GB+256GB 版本 1399 元。 酷派手机旗舰店账号“coolpad 方块数码”宣布， 酷派 COOL X Wide 百元阔直板手机开售 3 天，首销破万台 。 据IT之家了解，酷派 COOL X Wide 阔直板手机配备 6.38 英寸 16:10 屏幕（分辨率 720×1158），支持 90Hz 高刷；有鎏白、岩黑、嫣红三种配色可选，后置 5000 万像素摄像",
+     "source": "IT之家",
+     "zh": "酷派 COOL X Wide 百元阔直板手机开售 3 天销量破万，999~1399 元"
+    },
+    {
+     "title": "MONTECH 推出 KING 95 3D 三面玻璃机箱、LINK FAN INF 120 磁吸风扇",
+     "link": "https://www.ithome.com/1/025/468.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:42:46 GMT",
+     "summary": "IT之家 11 月 11 日消息，MONTECH（君主科技 / 蒙泰克）今日宣布推出 KING 95 3D 双舱式 ATX 中塔机箱、LINK FAN INF 120 磁吸风扇，以迎接品牌十周年。 KING 95 3D 在承袭 KING 95 系列 15° 曲面玻璃设计的基础上加入 顶部强化玻璃 ，构成三面展示视野；机身整合共有 118 颗 LED 灯珠的 轮廓 ARGB 灯条 ；另有 铝合金 I/O 面板 、MONTECH 十周年纪念铭牌 。 该机箱支持 ATX 主板，兼容背插；扩展卡限长 450mm、ATX 电源限长 220mm、处理器散热限高 172mm；可同时安装 1 个 3.5\" 硬",
+     "source": "IT之家",
+     "zh": "MONTECH 推出 KING 95 3D 三面玻璃机箱、LINK FAN INF 120 磁吸风扇"
+    },
+    {
+     "title": "亚马逊 Ring 推出两款安防机器人：一款飞着看家，一款巡逻商铺",
+     "link": "https://www.ithome.com/1/025/465.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:41:37 GMT",
+     "summary": "IT之家 11 月 11 日消息，亚马逊旗下安防品牌 Ring 昨日（11 月 10 日）宣布扩展推出 Ring Robotics 产品线， 首批产品包括面向家庭的飞行摄像头 Drone Cam，以及面向商业场所的轮式机器人 Rover Cam。 两款设备均搭载 AI Pilot 系统，结合摄像头、传感器、视觉模型和云端处理实现自主导航。首次设置后，设备会绘制室内地图，建议重点监控门窗、走廊等位置；配置完成后，可自主避障，并响应现有 Ring 设备发出的警报。 Drone Cam 配备 2K 摄像头，支持 148 度视角和 360 度旋转，弱光下可自动开启 LED 灯。用户可通过应用设置飞行路",
+     "source": "IT之家",
+     "zh": "亚马逊 Ring 推出两款安防机器人：一款飞着看家，一款巡逻商铺"
+    },
+    {
+     "title": "Sources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips (Takashi Mochizuki/Bloomberg)",
+     "link": "https://www.techmeme.com/261111/p6#a261111p6",
+     "pubDate": "Wed, 11 Nov 2026 01:40:01 -0500",
+     "summary": "Takashi Mochizuki / Bloomberg : Sources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips &nbsp; &mdash;&nbsp; Japanese government-backed startup Rapidus Corp. has fallen behind schedule on its hig",
+     "source": "Techmeme",
+     "zh": "Sources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips (Takashi Mochizuki/Bloomberg)"
+    },
+    {
+     "title": "AI短剧混战：大厂争夺的是剧本，还是下一代流量入口",
+     "link": "https://www.huxiu.com/article/4904719.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 14:39:50 +0800",
+     "summary": "本文来自微信公众号： 万点研究 ，编辑：默默，作者：风翎 2026年，AI短剧成了中文互联网上最热的赛道之一。 从QuestMobile发布的数据看，2026年9月短剧视频总使用时长净增长达到133.29亿小时；红果免费短剧的月活跃用户已超过4.3亿，在抖音集团内部，它的用户数甚至比豆包还多，是仅次于抖音的第二大应用。 也是在这一年，字节跳动、腾讯、快手、百度四巨头陆续进场，有的做独立APP，有的铺小程序矩阵，把视频大模型的能力拆成一个个独立的业务模块，再各自配上AI短剧创作激励计划。 表面上看，巨头之间的角逐集中在三件事上：谁自己做APP，谁的分账政策更能打动制作团队，谁的剧本库更厚。但真正",
+     "source": "虎嗅",
+     "zh": "AI短剧混战：大厂争夺的是剧本，还是下一代流量入口"
+    },
+    {
+     "title": "11998 → 7558 元：海信 E5S Pro 热泵洗烘多筒洗衣洗鞋机 11.11 破冰新低",
+     "link": "https://www.ithome.com/1/025/462.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:39:17 GMT",
+     "summary": "海信 · 大薄荷 2.0 E5S Pro 热泵洗烘多筒洗衣洗鞋机 17kg 配备 4 筒，4 筒独立水路，3 直驱 8 变频 8 减震： 1kg 洗烘一体机 * 2 个（DD 直驱） 3kg 洗鞋机 / 护鞋机（独立变频电机） 12kg 洗烘一体机（DD 直驱，支持 8kg 热泵烘干 ） 官方定价 11998 元，今日仅需 7558 元京东自营破冰新低，3 年整机质保 + 12 年电机质保。 点击下方卡片 → 点击宝贝右上方 直播浮窗 → 在直播间中 点击此宝贝 （直播间加购，加赠锅具套装） 点击售价下方“ 京东组合购 ”选择任意商品一起加购 去结算 在下单页面选择“ 以旧换新 ” → 个护健",
+     "source": "IT之家",
+     "zh": "11998 → 7558 元：海信 E5S Pro 热泵洗烘多筒洗衣洗鞋机 11.11 破冰新低"
+    },
+    {
+     "title": "中国AI，越来越烧钱",
+     "link": "https://www.huxiu.com/article/4904714.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 14:31:12 +0800",
+     "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，制图：奇帆商业，作者：钱喆 11月9日，SpaceX一项预计投资240亿美元的计划浮出水面。按照公开听证文件，这家公司准备在美国得克萨斯州建设燃气发电厂和超级计算中心。 项目尚未获批，但一家以航天业务闻名的科技公司，已经开始考虑自己解决算力设施的电力供应。 微软、谷歌、亚马逊和Meta正在持续增加AI资本开支。芯片、服务器和数据中心之外，电力供应逐渐成为影响项目进度和建设成本的重要因素。 AI竞争的投入范围，已经从计算设备延伸到能源基础设施。 中国互联网大厂同样在扩大投资。阿里、腾讯和百度持续采购芯片、扩建算力设施，AI业务收入也在增长。先进芯片供",
+     "source": "虎嗅",
+     "zh": "中国AI，越来越烧钱"
+    },
+    {
+     "title": "别再画地为牢了，日本人杀疯了",
+     "link": "https://www.huxiu.com/article/4904717.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 14:30:47 +0800",
+     "summary": "本文来自微信公众号： 叶檀财经 ，作者：锡难老 AI风险不断攀升，消费成了资金避险地，投资者下意识的取舍反映了底层逻辑。 对中国而言，消费低迷是公认的，共识度最高的思路是刺激消费。 但消费到底是刺激出来的，还是创造出来的？这是一个被大多数人忽视，但又至关重要的问题。 11月9日，国家统计局公布了最新一季的CPI数据，结果同比上涨0.7%，涨幅较上个月减少了0.2个百分点，创6月份以来新低。 剔除食品和能源的核心CPI，同比增速从1%放慢至0.8%，为九个月以来的最低水平。 两个数据均低于市场预期。 国内历来有金九银十的消费节奏，CPI反映的价格趋势，说明消费旺季呈现疲态。 其实，此前的城市消费",
+     "source": "虎嗅",
+     "zh": "别再画地为牢了，日本人杀疯了"
     },
     {
      "title": "欧洲独立站 Cookie 同意弹窗改版后，只有 2 个人怎么排期才能不拖累转化？",
@@ -1802,28 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "从促销变成“考试”，双11不再创造奇迹"
     },
     {
-     "title": "“小米换机”应用上架华为鸿蒙应用市场，支持将 HarmonyOS 数据迁移至小米设备",
-     "link": "https://www.ithome.com/1/025/443.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:21:41 GMT",
-     "summary": "IT之家 11 月 11 日消息，据多名用户投稿，“小米换机”应用程序已在今日上架华为鸿蒙 App Gallery 应用市场， 版本号 1.0.0 ， 开发者为北京小米移动软件有限公司南京分公司 。 据介绍，“小米换机”应用可以帮助用户将旧手机的图片、短信、音视频文件迁移至新机，支持华为鸿蒙 HarmonyOS 设备迁移至小米设备，协助用户快速上手小米新机。 作为参考，行业首家支持鸿蒙 HarmonyOS NEXT 换机克隆的品牌是荣耀。 据IT之家此前报道 ，荣耀去年 8 月更新“换机克隆”App 后，实现了“全品牌换机克隆”，覆盖安卓、iOS、鸿蒙 HarmonyOS NEXT 三大系统。",
-     "source": "IT之家",
-     "zh": "“小米换机”应用上架华为鸿蒙应用市场，支持将 HarmonyOS 数据迁移至小米设备"
-    },
-    {
      "title": "A profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband (New York Times)",
      "link": "https://www.techmeme.com/261111/p5#a261111p5",
      "pubDate": "Wed, 11 Nov 2026 01:20:15 -0500",
      "summary": "New York Times : A profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband &nbsp; &mdash;&nbsp; Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of",
      "source": "Techmeme",
      "zh": "A profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband (New York Times)"
-    },
-    {
-     "title": "DEEPX 2nm 低功耗 AI 芯片 DX-M2 实物芯片预计 2027 年初面世",
-     "link": "https://www.ithome.com/1/025/442.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:20:09 GMT",
-     "summary": "IT之家 11 月 11 日消息，韩国边缘能效 AI 芯片开发商 DEEPX 昨日宣布，其下一代芯片 DX-M2 荣获 CES 2027 人工智能类别创新奖。 DX-M2 基于三星晶圆代工 2nm 工艺，集成 80TOPs NPU 算力， 至高支持 128bit 的 LPDDR5X-9600 内存 ，可本地运行超 10B 参数的 LLM 和 VLM 模型，同时功耗仅有 5W。除单芯片外，DX-M2 还将提供封装集成内存的版本。 DEEPX 表示，DX-M2 近日成功实现“光罩（掩膜）流片”，这为 2027 年初首批芯片的面世打下了基础。",
-     "source": "IT之家",
-     "zh": "DEEPX 2nm 低功耗 AI 芯片 DX-M2 实物芯片预计 2027 年初面世"
     },
     {
      "title": "传音预装带来的非洲短剧用户，7日留存只有11%，是内容问题还是预装渠道本身就这样？",
@@ -1842,22 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "Records show China&apos;s Northwestern Polytechnical University, which has close PLA ties, has access to Nvidia H200 AI chips despite being on a US export blacklist (Eduardo Baptista/Reuters)"
     },
     {
-     "title": "国补后 2999 → 1588 元：KTC 显示器 M27P6S 新低，4K 160Hz/1080P 320Hz 双模 Mini LED",
-     "link": "https://www.ithome.com/1/025/439.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:11:29 GMT",
-     "summary": "【京东活动可能随时变更，需以实付款为准】 KTC 27 英寸显示器 M27P6S 开售于 2026 年 4 月，该机主打 4K 160Hz/1080P 320Hz 双模，定价 2999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 1588.27 元： 点击下方卡片，可领 190 元券。 领 8.8 折 PLUS 券：宝贝详情页系统自动发放。 京东 KTC 27 英寸 4K QD-MiniLED 显示器 M27P6S 国补后 1588.27 元 领 190 元券 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 该机配",
-     "source": "IT之家",
-     "zh": "国补后 2999 → 1588 元：KTC 显示器 M27P6S 新低，4K 160Hz/1080P 320Hz 双模 Mini LED"
-    },
-    {
-     "title": "中汽协会：我国 10 月汽车产销量双双超过 300 万辆，新能源销量同比增长 13.1%",
-     "link": "https://www.ithome.com/1/025/438.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:11:28 GMT",
-     "summary": "IT之家 11 月 11 日消息，据央视新闻报道，中国汽车工业协会今天（11 日）发布的最新数据显示， 10 月份，我国汽车产销量双双超过 300 万辆 ，比上月呈现一定幅度的增长，其中，新能源汽车市场销量占比持续走高。 最新数据显示，10 月份，我国新能源汽车产销量分别完成 201.7 万辆和 194 万辆， 同比分别增长 13.8% 和 13.1% ，新能源汽车新车销量达到汽车新车总销量的 64.3%。 今年以来，我国新能源汽车市场主体地位不断巩固，累计销量占比持续提升，1 至 10 月达到 54.8%。 以新能源乘用车为例，10 月份国内市场占比更是超过了七成 。专家表示，我国新能源汽车",
-     "source": "IT之家",
-     "zh": "中汽协会：我国 10 月汽车产销量双双超过 300 万辆，新能源销量同比增长 13.1%"
-    },
-    {
      "title": "沙特阿语短剧上线两个月，Mada 支付成功率只有六成多，回款周期还拖到 T+15，这正常吗？",
      "link": "https://www.baijing.cn/question/638667",
      "pubDate": "Wed, 11 Nov 2026 06:05:20 +0000",
@@ -1872,14 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Dan Goodin / Ars Technica : Researchers find that Grok Build is leaking data of over 35,000 apps via shareable links, including proprietary information, some belonging to SpaceXSI &nbsp; &mdash;&nbsp; Grok Build, the vibe-coding agent from SpaceXSI, is leaking data&mdash;some of it proprietary busin",
      "source": "Techmeme",
      "zh": "Researchers find that Grok Build is leaking data of over 35,000 apps via shareable links, including proprietary information, some belonging to SpaceXSI (Dan Goodin/Ars Technica)"
-    },
-    {
-     "title": "OnePlus Promo Codes: 30% Off November 2026",
-     "link": "https://www.wired.com/story/oneplus-promo-code/",
-     "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
-     "summary": "Save 30% with a OnePlus coupon in November 2026, plus save up to 10% on earbuds, phones, and more.",
-     "source": "WIRED",
-     "zh": "OnePlus Promo Codes: 30% Off November 2026"
     },
     {
      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
@@ -1922,6 +1954,14 @@ window.INDUSTRY_DATA = {
      "zh": "NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026"
     },
     {
+     "title": "Google Workspace Promo Codes: 14% Off for November 2026",
+     "link": "https://www.wired.com/story/google-workspace-promo-code/",
+     "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
+     "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+     "source": "WIRED",
+     "zh": "Google Workspace Promo Codes: 14% Off for November 2026"
+    },
+    {
      "title": "肯尼亚 M-Pesa 收款对接，3 人团队排期怎么安排才不拖上线？",
      "link": "https://www.baijing.cn/question/638666",
      "pubDate": "Wed, 11 Nov 2026 05:54:15 +0000",
@@ -1954,14 +1994,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple says its Apple Support Community forum will close permanently on November 20 and starting today the site is read-only and no longer accepts new posts (Marcus Mendes/9to5Mac)"
     },
     {
-     "title": "日本海外仓备货周转从45天压到28天，两个人怎么排补货节奏？",
-     "link": "https://www.baijing.cn/question/638664",
-     "pubDate": "Wed, 11 Nov 2026 05:37:03 +0000",
-     "summary": "日本站做家居收纳，月销约1200单，团队就我和一个运营，没有专职供应链。目前用大阪的第三方海外仓，备货靠Excel加海运整柜，从下单到入仓平均45天，周转慢，两个SKU已经压了60多万日元库存。试过按周看销量调补货量，但运营一半时间在盯广告和客服，排期经常拖到船期前三天才定，赶不上就改空运，单票成本多出近40%。现在卡在没人手做稳定的补货节奏：是按固定周期滚动备货，还是按SKU分层只给头部保安全库存？两个人的人力下哪种排期更扛得住？",
-     "source": "白鲸出海",
-     "zh": "日本海外仓备货周转从45天压到28天，两个人怎么排补货节奏？"
-    },
-    {
      "title": "当幼儿园陆续消失，一场育儿焦虑的退潮",
      "link": "https://www.huxiu.com/article/4904696.html?f=rss",
      "pubDate": "Wed, 11 Nov 2026 13:34:09 +0800",
@@ -1976,38 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "阿里巴巴决定让平头哥自己去资本市场拿钱。​",
      "source": "钛媒体",
      "zh": "八年平头哥闯关港股，阿里分拆背后的算力资本局"
-    },
-    {
-     "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-     "link": "https://github.com/gmkurtzer/ginux",
-     "pubDate": "Wed, 11 Nov 2026 05:25:54 +0000",
-     "summary": "Article URL: https://github.com/gmkurtzer/ginux Comments URL: https://news.ycombinator.com/item?id=50450007 Points: 18 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Greg Kurtzer's Ginux is now a userspace kernel"
-    },
-    {
-     "title": "中产的下一个抠门对象：超级双11",
-     "link": "https://www.huxiu.com/article/4904694.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 13:12:21 +0800",
-     "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 2009年秋天，阿里巴巴总部一间大会议室里，几桌零食饮料，几十家媒体，一场简短的开场。 没有大屏幕，更没有后来那些滚动的成交额数字。当时天猫的前身——淘宝商城刚完成品牌升级。 时任淘宝商城负责人的张勇后来回忆，做双11的初衷很简单，就是“生存”。至于为什么选11月11日，他在接受媒体采访时的原话是，“11月份得干点啥，把成交往上拉一拉。” 那时美国有黑色星期五，中国电商人也认为该有自己的购物节，而11月恰好夹在国庆和圣诞之间，是消费的空白期。后来，团队告诉他这天是大学校园里的光棍节，张勇觉得挺好，“光棍很孤独，要在网上抒发自己的内心。” 16年",
-     "source": "虎嗅",
-     "zh": "中产的下一个抠门对象：超级双11"
-    },
-    {
-     "title": "塞尔达时之笛被移植到iPhone Duo，正版玩家也侵权吗？",
-     "link": "https://www.huxiu.com/article/4904692.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 13:10:43 +0800",
-     "summary": "本文作者：游云庭律师，题图来自：视觉中国 近日，Switch 2上的《塞尔达传说：时之笛》重制版正式发售，笔者电商平台第一时间购买的游戏卡带还在香港清关，谷歌的一位员工就发帖得瑟，他用AI把游戏移植到了iPhone&nbsp;Duo上了，虽然他说软件是从自己购买的游戏卡带上提取的，但大批网友还是对其破解行为进行了批评，争议发生后其删除了帖子。今天就和大家聊聊，用AI改编合法购买的游戏软件，移植到其他平台上运行，根据中国法律算不算侵权？ 一、事件缘起。 先介绍下事情的经过，11月5日，《塞尔达传说：时之笛》重制版正式发售，11月7日，谷歌DeepMind的员工Ammaar Reshi发帖称，他已",
-     "source": "虎嗅",
-     "zh": "塞尔达时之笛被移植到iPhone Duo，正版玩家也侵权吗？"
-    },
-    {
-     "title": "Sources: Jensen Huang&apos;s affair has significantly raised the chances of Congress enacting chip export limits this year via the National Defense Authorization Act (Politico)",
-     "link": "https://www.techmeme.com/261111/p1#a261111p1",
-     "pubDate": "Wed, 11 Nov 2026 00:05:26 -0500",
-     "summary": "Politico : Sources: Jensen Huang's affair has significantly raised the chances of Congress enacting chip export limits this year via the National Defense Authorization Act &nbsp; &mdash;&nbsp; The espionage scandal surrounding Nvidia CEO Jensen Huang is posing an escalating threat to one of the chip",
-     "source": "Techmeme",
-     "zh": "Sources: Jensen Huang&apos;s affair has significantly raised the chances of Congress enacting chip export limits this year via the National Defense Authorization Act (Politico)"
     }
    ]
   },
@@ -2017,6 +2017,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Survey says YouTube’s new Android app redesign is a massive miss",
+     "link": "https://www.androidauthority.com/youtube-android-app-redesign-poll-results-3733713/",
+     "pubDate": "Wed, 11 Nov 2026 06:44:06 +0000",
+     "summary": "The vast majority 'hate' the changes. Are you one of them?",
+     "source": "Android Authority",
+     "zh": "Survey says YouTube’s new Android app redesign is a massive miss"
+    },
     {
      "title": "Google rolls out Gemini 4 Carbon to AI Ultra subscribers",
      "link": "https://www.androidauthority.com/google-gemini-4-carbon-rollout-3733702/",
@@ -2248,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "At around $100, the Boox Picco offers one of the most portable e-reader experiences you can get. You add MagSafe-like capability with a refreshingly simple UI, and you have a delightful way to read, literally wherever you are. more…",
      "source": "9to5Google",
      "zh": "I’ve waited a long time for the Boox Picco, and I’m not disappointed"
-    },
-    {
-     "title": "Android 17 QPR2 November update rolling out with 33 Pixel fixes",
-     "link": "https://9to5google.com/2026/11/10/android-17-qpr2-november-pixel-update/",
-     "pubDate": "Tue, 10 Nov 2026 20:00:00 +0000",
-     "summary": "Android 17 QPR2 is rolling out a month early with the November 2026 Feature Drop and security patch. The update is available for the Pixel 6a, 7, 7 Pro, 7a, Tablet, Fold, 8, 8 Pro, 8a, 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a, 10, 10 Pro, 10 Pro XL, 10a, 11, 11 Pro, 11 Pro XL, and 11 Pro Fold. There are P",
-     "source": "9to5Google",
-     "zh": "Android 17 QPR2 November update rolling out with 33 Pixel fixes"
     }
    ]
   },
@@ -2266,12 +2266,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "CitroTech Inc. reports Q3 results",
-     "link": "https://seekingalpha.com/news/4670451-citrotech-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:20:20 -0500",
+     "title": "CCL Industries Inc. declares CAD 0.36 dividend",
+     "link": "https://seekingalpha.com/news/4670456-ccl-industries-inc-declares-cad-0_36-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 01:44:14 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "CitroTech Inc. reports Q3 results"
+     "zh": "CCL Industries Inc. declares CAD 0.36 dividend"
+    },
+    {
+     "title": "Fold outlines balance-first strategy while scaling credit card after reaching 2,500 cardholders",
+     "link": "https://seekingalpha.com/news/4670455-fold-outlines-balance-first-strategy-while-scaling-credit-card-after-reaching-2500?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 01:42:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fold outlines balance-first strategy while scaling credit card after reaching 2,500 cardholders"
+    },
+    {
+     "title": "POSaBIT appoints Emily Eagon as CFO",
+     "link": "https://seekingalpha.com/news/4670454-posabit-appoints-emily-eagon-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 01:40:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "POSaBIT appoints Emily Eagon as CFO"
+    },
+    {
+     "title": "Flex LNG beats top-line and bottom-line estimates; reaffirms FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4670453-flex-lng-beats-top-line-and-bottom-line-estimates-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 01:37:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Flex LNG beats top-line and bottom-line estimates; reaffirms FY2026 outlook"
+    },
+    {
+     "title": "RWE and KKR form 50:50 joint venture for 2.8 GW UK wind farm development",
+     "link": "https://seekingalpha.com/news/4670448-rwe-and-kkr-form-5050-joint-venture-for-28-gw-uk-wind-farm-development?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 01:32:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "RWE and KKR form 50:50 joint venture for 2.8 GW UK wind farm development"
+    },
+    {
+     "title": "CoreWeave targets H1 2028 profitability, cites higher pricing and GPU renewals",
+     "link": "https://seekingalpha.com/news/4670409-coreweave-targets-h1-2028-profitability-cites-higher-pricing-and-gpu-renewals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 01:31:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CoreWeave targets H1 2028 profitability, cites higher pricing and GPU renewals"
+    },
+    {
+     "title": "阿里造芯八年，长出一家百亿公司：平头哥六成GPU算力卖给外部",
+     "link": "https://wallstreetcn.com/articles/3785710",
+     "pubDate": "Wed, 11 Nov 2026 14:30:24 +0800",
+     "summary": "阿里造芯八年，已经长出一家年化收入百亿量级的公司。它的自研GPU算力产能，逾六成服务外部客户。现在，这家公司要单独送去港交所。 11月10日，阿里巴巴集团控股有限公司在港交所发布公告，拟分拆全资子公司平头哥（上海）技术股份有限公司，在港交所主板独立上市。联交所已确认可进行该建议分拆。平头哥已于9月11日以保密形式递交A1申请表格，拟全球发售H股，包括香港公开发售和向机构及专业投资者配售。 据追风交易台消息，据杰富瑞（Jefferies）最新研究报告，平头哥年化营收已达百亿元人民币规模（依据2025年12月季度业绩电话会议数据），其自研GPU芯片超过六成算力已对外部客户提供服务，显示这家此前定位",
+     "source": "华尔街见闻",
+     "zh": "阿里造芯八年，长出一家百亿公司：平头哥六成GPU算力卖给外部"
     },
     {
      "title": "从夜盘到挂单，银行做细积存金生意",
@@ -2280,46 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "银行正在为积存金增加按价格执行交易的功能。 11月9日，中信银行公告，拟于11月16日起新增积存金挂单功能，并将个人客户业务协议升级至2.0版，具体上线时间以APP为准。 此前，兴业银行已于6月8日为积存金活期产品增加挂单购买、赎回功能，南京银行也于10月26日推出个人积存金委托挂单。 客户预先设置价格、数量和有效期，银行系统在约定范围内监测报价、执行交易。 挂单承接的是客户已经有买卖意向、尚在等待价格的需求。 这类需求原本依赖客户自行盯盘，并在价格合适时手动操作。增加挂单后，客户可以提前提交委托，银行也由此获得承接后续交易的机会。 随着交易时段延长、委托方式增加，积存金业务的竞争进一步落到了",
      "source": "华尔街见闻",
      "zh": "从夜盘到挂单，银行做细积存金生意"
-    },
-    {
-     "title": "Stran & Company GAAP EPS of $0.00, revenue of $28.1M",
-     "link": "https://seekingalpha.com/news/4670450-stran-company-gaap-eps-of-000-revenue-of-281m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:17:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stran & Company GAAP EPS of $0.00, revenue of $28.1M"
-    },
-    {
-     "title": "Firefly updates 2026 revenue outlook to $440m-$450m amid $1.3b AST SpaceMobile partnership",
-     "link": "https://seekingalpha.com/news/4670449-firefly-updates-2026-revenue-outlook-to-440m-450m-amid-1_3b-ast-spacemobile-partnership?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:11:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Firefly updates 2026 revenue outlook to $440m-$450m amid $1.3b AST SpaceMobile partnership"
-    },
-    {
-     "title": "Michael Burry calls Nvidia 'a heck of a trade' while betting big on MercadoLibre",
-     "link": "https://seekingalpha.com/news/4670413-michael-burry-calls-nvidia-a-heck-of-a-trade-while-betting-big-on-mercadolibre?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:08:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Michael Burry calls Nvidia 'a heck of a trade' while betting big on MercadoLibre"
-    },
-    {
-     "title": "QuickLogic forecasts 55% sequential Q4 revenue increase while targeting non-GAAP net income of $1.3M",
-     "link": "https://seekingalpha.com/news/4670447-quicklogic-forecasts-55-percent-sequential-q4-revenue-increase-while-targeting-non-gaap-net?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:02:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "QuickLogic forecasts 55% sequential Q4 revenue increase while targeting non-GAAP net income of $1.3M"
-    },
-    {
-     "title": "Body forecasts Q4 revenue of $38M-$42M while targeting $125M adjusted EBITDA breakeven after restructuring",
-     "link": "https://seekingalpha.com/news/4670446-body-forecasts-q4-revenue-of-38m-42m-while-targeting-125m-adjusted-ebitda-breakeven-after?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:02:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Body forecasts Q4 revenue of $38M-$42M while targeting $125M adjusted EBITDA breakeven after restructuring"
     },
     {
      "title": "仰望重金砸向全球市场 向传统豪门“宣战”",
@@ -2456,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic正以史上最具野心的IPO姿态叩响资本市场大门，而其主承销行高盛的预测模型为这场盛宴提供了最强力的背书。 11月10日，据彭博社援引知情人士透露， 高盛研究团队预测Anthropic到2030年营收将达约6850亿美元，较该公司2025年的46亿美元增长逾130倍 。 这一预测远超Anthropic公司自身的预期 。据报道，该公司内部预测2028年营收将达到1900亿至2000亿美元。不过，销售额增长迅速，仅第三季度就接近170亿美元。 华尔街见闻提及 ，Anthropic已启动IPO路演，寻求以约1.4万亿美元的完全稀释后估值完成融资，计划于11月18日（周三）定价，次日开始",
      "source": "华尔街见闻",
      "zh": "高盛为Anthropic IPO强力背书：预计2030年营收达6850亿美元，暴增逾130倍"
-    },
-    {
-     "title": "Anthropic的核心隐忧：收入随时可被撤回，算力成本却被锁死长达20年",
-     "link": "https://wallstreetcn.com/articles/3785700",
-     "pubDate": "Wed, 11 Nov 2026 12:37:57 +0800",
-     "summary": "浙商证券最新研报指出，在Anthropic收入实现指数级扩张的亮眼数据之下，潜藏着一个结构性风险： 公司的核心约束并非持续亏损本身，而是收入端与成本端之间高达数十年的期限缺口，客户可随时削减支出，而算力承诺已被锁死最长20年。 11月9日，浙商证券分析师冯翠婷发表研报，认为Anthropic收入呈用量驱动的指数级扩张。今年前三季度收入合计332.42亿美元，九个月同比增长约1,206%，经营利润率在二季度首次转正（8.4%）后又于三季度重回亏损（-3.3%）。 浙商证券认为，这一波动本身即是上述结构性缺口的具体体现： 收入仍以即期用量为主、剩余履约义务(RPO)仅覆盖约5.1个月年化收入，而成",
-     "source": "华尔街见闻",
-     "zh": "Anthropic的核心隐忧：收入随时可被撤回，算力成本却被锁死长达20年"
     },
     {
      "title": "腾讯“鹅次元”亮相！游戏多股涨停 主力吸筹这些票(附股)",

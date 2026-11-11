@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 23:27:35",
+ "generated_at": "2026/11/11 23:32:08",
  "recent_days": 7,
  "industries": [
   {
@@ -266,28 +266,12 @@ window.INDUSTRY_DATA = {
      "zh": "Three Axes, One Controller: Rethinking the Motor Drive Signal Chain for Factory Automation"
     },
     {
-     "title": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/electronica-quectel-5g-combo-rugged-antennas-combine-5g-gnss-wi-fi-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 14:30:21 +0000",
-     "summary": "Quectel is announcing ten new “5G combo” antennas, combining 5G, GNSS and Wi-Fi in compact, rugged designs. Possible applications including fleet management, industrial equipment and smart city infrastructure. The idea […] The post Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-F",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi"
-    },
-    {
      "title": "Why Video Processing Matters for the Next Generation of Robots",
      "link": "https://semiwiki.com/ip/chipsmedia/375958-why-video-processing-matters-for-the-next-generation-of-robots/",
      "pubDate": "Wed, 11 Nov 2026 14:00:59 +0000",
      "summary": "Mobilint has begun mass production of next-generation edge AI chips that incorporate video codec technology from Chips&Media, the companies announced on November 4. The South Korean partners are targeting robotics applications, including humanoids, where several cameras can generate more video than ",
      "source": "SemiWiki",
      "zh": "Why Video Processing Matters for the Next Generation of Robots"
-    },
-    {
-     "title": "Buffett And The AI Boom",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/buffett-and-the-ai-boom-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 13:13:09 +0000",
-     "summary": "Last week’s stock market sell-off, led by Al and technology stocks after the midterms showed how nervous investors currently are with respect to the staying power of the Al boom. […] The post Buffett And The AI Boom appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Buffett And The AI Boom"
     },
     {
      "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
@@ -306,44 +290,12 @@ window.INDUSTRY_DATA = {
      "zh": "WT to distribute Sivers’ InP lasers and wireless solutions"
     },
     {
-     "title": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/electronica-onsemis-elitesic-m4-delivers-higher-power-density-and-lower-losses-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 12:06:01 +0000",
-     "summary": "onsemi claims its fourth-generation EliteSiC silicon carbide (SiC) platform delivers up to 30% higher power density and 35% lower losses than the previous generation. The EliteSiC M4 platform improves conduction […] The post Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower l",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses"
-    },
-    {
-     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 11:48:02 +0000",
-     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
-    },
-    {
-     "title": "Electronica – The latest news roundup",
-     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 11:41:27 +0000",
-     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Electronica – The latest news roundup"
-    },
-    {
      "title": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/nexperia-111126.shtml",
      "pubDate": "Wed, 11 Nov 2026 11:25:41 GMT",
      "summary": "Discrete device designer and manufacturer Nexperia B.V. of Nijmegen, the Netherlands (which operates wafer fabs in Hamburg, Germany, and Hazel Grove Manchester, UK) has launched a new family of 750V silicon carbide (SiC) trench MOSFETs, combining low switching losses, temperature-stable RDS(on) char",
      "source": "Semiconductor Today",
      "zh": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion"
-    },
-    {
-     "title": "Electronica: Minew MG10 Bluetooth base station builds sub-meter indoor positioning",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/minew-mg10-bluetooth-base-station-builds-sub-meter-indoor-positioning-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 11:05:10 +0000",
-     "summary": "Minew is introducing the MG10, a Bluetooth AoA (Angle of Arrival) positioning base station, supporting 0.1 to 1 meter accuracy. It is designed to enable high-precision indoor positioning in real-time […] The post Electronica: Minew MG10 Bluetooth base station builds sub-meter indoor positioning appe",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Minew MG10 Bluetooth base station builds sub-meter indoor positioning"
     },
     {
      "title": "Moonshot AI reportedly accessed restricted Nvidia chips in China despite US ban",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of the digital economy. The post The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk? appeared first on EE Times .",
      "source": "EE Times",
      "zh": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?"
+    },
+    {
+     "title": "Three-Dimensional Chess Anyone? The Challenges of Power Integrity for Multi-Die Designs",
+     "link": "https://semiwiki.com/3dic/376045-challenges-of-power-integrity-for-multi-die-designs/",
+     "pubDate": "Tue, 10 Nov 2026 14:00:08 +0000",
+     "summary": "Power integrity has been a substantial design challenge for a long time. In the multi-die era, the problems associated with EMIR analysis must now move beyond the chip to consider interactions across the entire stack. The effects to be analyzed span a multi-dimensional, multi-material space. The gra",
+     "source": "SemiWiki",
+     "zh": "Three-Dimensional Chess Anyone? The Challenges of Power Integrity for Multi-Die Designs"
+    },
+    {
+     "title": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences",
+     "link": "https://www.eetimes.com/bluetooth-high-data-throughput-a-foundation-for-next-generation-wireless-experiences/",
+     "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+     "summary": "Bluetooth® High Data Throughput enables faster data transfer, greater capacity, energy efficiency, and reliability for advanced wireless applications. The post Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences"
+    },
+    {
+     "title": "Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps",
+     "link": "https://semiengineering.com/reducing-lithography-learning-cycles-to-accelerate-foplp-ramps/",
+     "pubDate": "Tue, 10 Nov 2026 08:08:35 +0000",
+     "summary": "How yield prediction technology can reduce trial-and-error in advanced packaging lithography. The post Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps"
+    },
+    {
+     "title": "Test Struggles To Keep Pace With AI",
+     "link": "https://semiengineering.com/test-struggles-to-keep-pace-with-ai/",
+     "pubDate": "Tue, 10 Nov 2026 08:07:24 +0000",
+     "summary": "Rapidly changing workloads, more test insertions, and fragmented data complicate chip testing. The post Test Struggles To Keep Pace With AI appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Test Struggles To Keep Pace With AI"
+    },
+    {
+     "title": "Which Passing Chips Need More Testing?",
+     "link": "https://semiengineering.com/which-passing-chips-need-more-testing/",
+     "pubDate": "Tue, 10 Nov 2026 08:05:20 +0000",
+     "summary": "Manufacturers are using test data and predictive models to identify marginal chips and determine when additional screening is justified. The post Which Passing Chips Need More Testing? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Which Passing Chips Need More Testing?"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Plans for UK’s largest PV project rejected",
+     "link": "https://www.pv-tech.org/plans-for-uks-largest-pv-project-rejected/",
+     "pubDate": "Wed, 11 Nov 2026 15:24:18 +0000",
+     "summary": "A proposed 840MW PV project in southern England that would have become the country’s largest has been turned down by the UK government.",
+     "source": "PV Tech",
+     "zh": "Plans for UK’s largest PV project rejected"
+    },
+    {
      "title": "Austria’s solar and storage rebates exhausted in 29 seconds",
      "link": "https://www.pv-magazine.com/2026/11/11/austrias-solar-and-storage-rebates-exhausted-in-29-seconds/",
      "pubDate": "Wed, 11 Nov 2026 15:10:05 +0000",
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla’s nascent robotaxi service has extended into San Antonio, to some extent. “Tesla launched its robotaxi service Monday in San Antonio,” Axios reports. “Robotaxi available in San Antonio starting tomorrow, 5am,” the Tesla Robotaxi account tweeted on Monday. The Tesla robotaxi webpage also now sh",
      "source": "CleanTechnica",
      "zh": "Tesla Robotaxis Extend into San Antonio"
-    },
-    {
-     "title": "BYD’s BEV Sales Soar While Its PHEV Sales Slide",
-     "link": "https://cleantechnica.com/2026/11/10/byds-bev-sales-soar-while-its-phev-sales-slide/",
-     "pubDate": "Wed, 11 Nov 2026 04:50:01 +0000",
-     "summary": "Looking at changes in BYD’s passenger vehicle sales overall, the company saw solid growth in October. Sales were up 11.8%, going from 436,856 in October 2025 to 483,125 in October 2026. However, that overall growth hides the fact that the company’s BEV (full electric vehicle) sales soared while its ",
-     "source": "CleanTechnica",
-     "zh": "BYD’s BEV Sales Soar While Its PHEV Sales Slide"
     }
    ]
   },
@@ -1322,20 +1322,20 @@ window.INDUSTRY_DATA = {
      "zh": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push"
     },
     {
-     "title": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review",
-     "link": "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-seestar-s30-plus-smart-telescope-for-beginners-full-review",
-     "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
-     "summary": "I photographed galaxies, nebulas and star clusters from a city with the Seestar S30 Plus. Here’s why I think it’s the best affordable smart telescope for beginners.",
-     "source": "Space.com",
-     "zh": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review"
-    },
-    {
      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
      "link": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
      "summary": "NASA's new UVEX space telescope will study the universe in ultraviolet light to reveal the violent and turbulent events that bubble under what appears to be a cosmic sea of tranquility.",
      "source": "Space.com",
      "zh": "NASA's new UVEX space telescope will peer deep into the universe's most violent events"
+    },
+    {
+     "title": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review",
+     "link": "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-seestar-s30-plus-smart-telescope-for-beginners-full-review",
+     "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+     "summary": "I photographed galaxies, nebulas and star clusters from a city with the Seestar S30 Plus. Here’s why I think it’s the best affordable smart telescope for beginners.",
+     "source": "Space.com",
+     "zh": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review"
     },
     {
      "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
@@ -1770,12 +1770,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "中传去殡葬，北大卖猪肉、现在轮到哈工大硕士卖气球了",
+     "link": "https://www.huxiu.com/article/4904876.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 23:25:02 +0800",
+     "summary": "本文来自微信公众号： 开水与白面包 ，作者：开水与白面包 “这个男人叫小帅”，他今年40岁，是哈工大信息与通信工程硕士毕业生，现在的他，在长沙街头卖气球。 “读这么多书有什么用，还不是在夜市卖气球？” 我知道你点进来是想看什么的。 北大卖猪肉，中传去殡葬，现在轮到哈工大硕士卖气球——一条比一条惨，一级比一级低。 你大概是想看看，读书这件事到底还行不行；或者心里已经替他们叹完气了：唉，这年头。 这不是一个悲剧，这是一个不服输的人一步都没有后退过。 卖气球的陶伟胜陶硕士，是湖北黄冈人，1986年生，2012年哈尔滨工业大学信息与通信工程硕士毕业，2020年，他和几个同伴创业做软件开发。 用他自己的",
+     "source": "虎嗅",
+     "zh": "中传去殡葬，北大卖猪肉、现在轮到哈工大硕士卖气球了"
+    },
+    {
      "title": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed (Tim Keary/Forbes)",
      "link": "https://www.techmeme.com/261111/p33#a261111p33",
      "pubDate": "Wed, 11 Nov 2026 10:21:00 -0500",
      "summary": "Tim Keary / Forbes : Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more. &hellip; Big data analytics is being rei",
      "source": "Techmeme",
      "zh": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed (Tim Keary/Forbes)"
+    },
+    {
+     "title": "谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型：识别致病变异能力提升近一倍",
+     "link": "https://www.ithome.com/1/025/822.htm",
+     "pubDate": "Wed, 11 Nov 2026 15:19:51 GMT",
+     "summary": "IT之家 11 月 11 日消息，谷歌 DeepMind 发布新一代 DNA 序列模型 AlphaGenome 2 ，可预测 DNA 序列及其变异对特定人体细胞类型的影响，为科研人员挖掘疾病的细胞驱动因素提供全新工具。 人体每个细胞携带相同的 DNA 蓝图，但不同细胞类型会通过开关不同基因完成特定功能。全球的人类细胞图谱项目已对数百万细胞的基因表达进行绘制，但预测细微 DNA 变异如何影响细胞基因表达，仍是尚未解决的难题。 此前谷歌已推出初代 AlphaGenome ，可预测 DNA 变异对宽泛组织的分子活性影响，并推出了覆盖人类基因组全部 90 亿种单字母变异预测的 AlphaGenome ",
+     "source": "IT之家",
+     "zh": "谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型：识别致病变异能力提升近一倍"
     },
     {
      "title": "上海合晶定增方案调整：砍掉补流项目、7亿加码12英寸硅片，扩产资金七成靠举债",
@@ -1864,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 11 日消息，据央视新闻报道，当地时间 10 日，俄罗斯国家原子能公司首席执行官利哈乔夫表示，该公司计划于 2027 年选定月球核电站方案。 利哈乔夫在当日举行的政府航天发展战略会议后透露，俄罗斯国家原子能公司正在 研究 5 种月球核电站方案 ，将于 2027 年选定其中一种。当前，国家原子能公司、俄罗斯库尔恰托夫研究所与俄罗斯科学院正在联合研究相关课题。 他进一步表示：“这里说的是功率可达 10 千瓦的月球核电站，计划于 21 世纪 30 年代中期 开始运行。目前我们正在深入研究 5 种构型，从把核能直接转换为电能，到建造相应的涡轮装置。我们必须在明年选定构型并启动相关工",
      "source": "IT之家",
      "zh": "俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行"
-    },
-    {
-     "title": "热泵洗烘一体机破冰新低：海信 12kg 洗 +8kg 烘 6199 → 3238 元限 1 小时",
-     "link": "https://www.ithome.com/1/025/816.htm",
-     "pubDate": "Wed, 11 Nov 2026 14:46:10 GMT",
-     "summary": "12kg 洗 + 8kg 烘 海信 · 大薄荷 E3S 热泵洗烘一体机 灰白双色可选 ，日常大促价 6199 元。 今日 11.11 下单仅需 3668 元， 11 月 11 日 下单返 400 元 E 卡，折合仅需 3268 元。 京东家电“多买多返”返 30 元 E 卡（售价下方可见活动标签），折合仅需 3238 元官方好价： 下单时需选择“ 以旧换新 ” → 家庭小电 → 普通餐具： 京东 海信 热泵洗烘一体机 大薄荷 2.0 E3S 灰白两色可选 以旧换新 3668 元 领 9 折券 13kg 洗涤 + 9kg 烘 海信 E8Q 热泵洗烘一体机 灰白双色可选 ，日常大促价 7999 元",
-     "source": "IT之家",
-     "zh": "热泵洗烘一体机破冰新低：海信 12kg 洗 +8kg 烘 6199 → 3238 元限 1 小时"
     },
     {
      "title": "Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valuation (Morgan Chittum/Fortune)",
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "No internet connection needed. Uses a locally-installed compiler for assembly generation. Comments URL: https://news.ycombinator.com/item?id=50453229 Points: 16 # Comments: 1",
      "source": "Hacker News",
      "zh": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)"
-    },
-    {
-     "title": "退复星南宁、卖莱美老厂：中恒集团的收缩账",
-     "link": "https://www.tmtpost.com/8201586.html",
-     "pubDate": "Wed, 11 Nov 2026 21:32:08 +0800",
-     "summary": "两笔交易的绝对金额都不算高，但放在中恒集团前三季度业绩承压、持续梳理存量资产的背景下，也是一个战略信号。",
-     "source": "钛媒体",
-     "zh": "退复星南宁、卖莱美老厂：中恒集团的收缩账"
     }
    ]
   },
@@ -2017,6 +2017,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "You can now buy the Pixel Tag, cases from Bellroy & Spigen available",
+     "link": "https://9to5google.com/2026/11/11/buy-pixel-tag/",
+     "pubDate": "Wed, 11 Nov 2026 15:28:54 +0000",
+     "summary": "The Pixel Tag is now available for purchase at the Google Store and Amazon. more…",
+     "source": "9to5Google",
+     "zh": "You can now buy the Pixel Tag, cases from Bellroy & Spigen available"
+    },
     {
      "title": "iOS 27.3 adds new setting to bypass website cookie popups (eventually)",
      "link": "https://9to5mac.com/2026/11/11/ios-27-3-adds-new-setting-to-bypass-website-cookie-popups-eventually/",
@@ -2248,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？ 查看全文",
      "source": "少数派",
      "zh": "从优胜美地到金门大桥：跟着 macOS 游览加州"
-    },
-    {
-     "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
-     "link": "https://sspai.com/post/118458",
-     "pubDate": "Wed, 11 Nov 2026 11:13:04 +0800",
-     "summary": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。 查看全文",
-     "source": "少数派",
-     "zh": "RetroSweeper Go：复古外观、更有手感的扫雷游戏"
     }
    ]
   },
@@ -2268,10 +2268,34 @@ window.INDUSTRY_DATA = {
     {
      "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
      "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-     "pubDate": "Wed, 11 Nov 2026 15:24:04 GMT",
+     "pubDate": "Wed, 11 Nov 2026 15:28:29 GMT",
      "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
      "source": "CNBC",
      "zh": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program"
+    },
+    {
+     "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+     "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+     "pubDate": "Wed, 11 Nov 2026 15:26:00 GMT",
+     "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade"
+    },
+    {
+     "title": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+     "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+     "pubDate": "Wed, 11 Nov 2026 15:25:00 GMT",
+     "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage with an outstanding balance of $295,000.”",
+     "source": "MarketWatch",
+     "zh": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?"
+    },
+    {
+     "title": "Nebius Q3 Preview: Compute demand, contracts, and financing plans in focus",
+     "link": "https://seekingalpha.com/news/4670674-nebius-q3-preview-compute-demand-contracts-and-financing-plans-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 10:23:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nebius Q3 Preview: Compute demand, contracts, and financing plans in focus"
     },
     {
      "title": "大摩警告：旧存储价格正在见顶，2028年供需或转向宽松",
@@ -2338,20 +2362,20 @@ window.INDUSTRY_DATA = {
      "zh": "CoreWeave CEO says he's cancelled his 10b5-1 plan - CNBC"
     },
     {
-     "title": "Rigetti reports 'lumpy' Q3 results, but analysts focus on roadmap",
-     "link": "https://seekingalpha.com/news/4670663-rigetti-reports-lumpy-q3-results-but-analysts-focus-on-roadmap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 10:09:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rigetti reports 'lumpy' Q3 results, but analysts focus on roadmap"
-    },
-    {
      "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
      "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
      "pubDate": "Wed, 11 Nov 2026 15:08:00 GMT",
      "summary": "Many service members face an often invisible financial trap when they step out of uniform.",
      "source": "MarketWatch",
      "zh": "From living in his car to a 756 credit score: How one veteran rebuilt his finances"
+    },
+    {
+     "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
+     "link": "https://www.finextra.com/newsarticle/48744/alta-raises-475m-to-build-blockchain-infrastructure-for-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 11 Nov 2026 15:06:00 GMT",
+     "summary": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building institutional-grade blockchain infrastructure for global finance.",
+     "source": "Finextra",
+     "zh": "Alta raises $47.5m to build blockchain infrastructure for financial institutions"
     },
     {
      "title": "JetBlue&apos;s CEO has pushed back on creditor fears and is betting on premium to return to profitability",
@@ -2381,49 +2405,9 @@ window.INDUSTRY_DATA = {
      "title": "美股三大指数走势分化 纳指涨超1% 费城半导体指数涨逾4%",
      "link": "http://finance.eastmoney.com/news/1345,202611113928745779.html",
      "pubDate": "Wed, 11 Nov 2026 22:40:10 +0800",
-     "summary": "美东时间周三，美股三大指数涨跌不一，截至发稿，道琼斯指数跌0.15%，标普500指数涨0.84%， 纳斯达克 综合 指数涨1.25%。 费城 半导体 指数涨4.40%，收复11月5日暴跌12%的全部跌幅。个股方面， 闪迪 涨12.66%，Lumentum涨10.67%， 美光科技 涨9.52%， 希捷科技 涨9.28%，Coherent涨8.90%， SK海力士 涨8.13%， 英特尔 涨6.44%， 博通 涨5.79%， 台积电 涨2.91%， 英伟达 涨2.16%。 国际油价走高，截至发稿，布伦特原油 期货 价格涨2.00%，报93.32美元/桶；WTI原油 期货 价格涨1.91%，报87",
-     "source": "东方财富股票",
+     "summary": "美东时间周三，美股三大指数涨跌不一，截至发稿，道琼斯指数跌0.15%，标普500指数涨0.84%， 纳斯达克 综合 指数涨1.25%。 费城 半导体 指数涨4.40%，收复11月5日暴跌12%的全部跌幅。个股方面， 闪迪 涨12.66%，Lumentum涨10.67%， 美光科技 涨9.52%， 希捷科技 涨9.28%，Coherent涨8.90%， SK海力士 涨8.13%， 英特尔 涨6.44%， 博通 涨5.79%， 台积电 涨2.91%， 英伟达 涨2.16%。 CoreWeave涨幅扩大至20%，该公司CEO在三季报强劲之际重申AI计算需求。 国际油价走高，截至发稿，布伦特原油 期货",
+     "source": "东方财富资讯",
      "zh": "美股三大指数走势分化 纳指涨超1% 费城半导体指数涨逾4%"
-    },
-    {
-     "title": "受CoreWeave业绩公布提振 美国云计算服务商全线走高",
-     "link": "http://finance.eastmoney.com/news/1351,202611113928749477.html",
-     "pubDate": "Wed, 11 Nov 2026 22:39:27 +0800",
-     "summary": "受CoreWeave业绩公布提振，美国 云计算 服务商全线走高， Roundhill Neocloud ETF 上涨12%，Nebius升逾12%，IREN、 甲骨文 升逾5%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "受CoreWeave业绩公布提振 美国云计算服务商全线走高"
-    },
-    {
-     "title": "连日大跌，凤凰航运发布异动公告，正被证监会立案调查；股价较年内高点近乎“腰斩”",
-     "link": "http://finance.eastmoney.com/news/1354,202611113928750553.html",
-     "pubDate": "Wed, 11 Nov 2026 22:38:20 +0800",
-     "summary": "11月11日收盘后， 凤凰航运 （SZ000520，股价2.81元，市值28.44亿元）发布《关于公司股票交易异常波动的公告》。公告显示，公司股票于11月9日、11月10日、11月11日连续三个交易日收盘价格跌幅偏离值累计超过20%，根据《深圳证券交易所交易规则》有关规定，属于股票交易异常波动情形。其中11月11日，公司股价收于2.81元，单日跌幅5.07%。 将时间轴拉长看，前复权口径下，公司年内最高价出现在3月3日，盘中最高触及5.20元；此后股价震荡回落，进入11月后加速下行，11月9日至11月11日三个交易日接连收盘于3.12元、2.96元和2.81元。以此计算，公司当前股价较年内高点",
-     "source": "东方财富股票",
-     "zh": "连日大跌，凤凰航运发布异动公告，正被证监会立案调查；股价较年内高点近乎“腰斩”"
-    },
-    {
-     "title": "南非主要股指下跌1% 至113,538.40点",
-     "link": "http://finance.eastmoney.com/news/1351,202611113928749684.html",
-     "pubDate": "Wed, 11 Nov 2026 22:37:54 +0800",
-     "summary": "南非主要股指下跌1%，至113,538.40点。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "南非主要股指下跌1% 至113,538.40点"
-    },
-    {
-     "title": "美国 NEOCLOUD 盘前上涨 COREWEAVE 公布业绩 NEBIUS 涨 15.2% IREN 涨 8.4%",
-     "link": "http://finance.eastmoney.com/news/1351,202611113928750913.html",
-     "pubDate": "Wed, 11 Nov 2026 22:37:06 +0800",
-     "summary": "美国 NEOCLOUD 股票盘前上涨，COREWEAVE 公布业绩，NEBIUS 上涨 15.2%，IREN上涨 8.4%，NEBIUS上涨 15.2%，IREN上涨 8.4%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "美国 NEOCLOUD 盘前上涨 COREWEAVE 公布业绩 NEBIUS 涨 15.2% IREN 涨 8.4%"
-    },
-    {
-     "title": "覆铜板因品质问题被英伟达取消订货？生益科技：未接到任何终端取消订单的通知",
-     "link": "http://finance.eastmoney.com/news/1354,202611113928749545.html",
-     "pubDate": "Wed, 11 Nov 2026 22:37:01 +0800",
-     "summary": "覆 铜 板（CCL）龙头 生益科技 否认 英伟达 订单生变。 11月11日，有投资者在投资者互动平台向广东 生益科技 股份有限公司（ 生益科技 ，600183.SH）提问称，“今天有消息说，公司的M9因为品质问题，被 英伟达 取消了订货。有这个事情吗？公司是否有没有披露的重大事项？” 对此，生益科技回应称，公司未接到任何终端取消订单的通知，目前生产经营情况正常，订单饱满。对于近期网络流传的相关说法，公司对其来源与用意不予置评。 官网介绍，生益科技创始于1985年，是集研发、生产、销售、服务为一体的全球 电子 电路基材核心供应商。经过三十多年的发展，生益覆 铜 板（CCL） 板材 产量从建厂之初",
-     "source": "东方财富股票",
-     "zh": "覆铜板因品质问题被英伟达取消订货？生益科技：未接到任何终端取消订单的通知"
     },
     {
      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
@@ -2482,28 +2466,44 @@ window.INDUSTRY_DATA = {
      "zh": "Western Union ditches Intermax acquisition"
     },
     {
-     "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-     "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 13:55:00 GMT",
-     "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-     "source": "MarketWatch",
-     "zh": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’"
-    },
-    {
-     "title": "Corporate America is making a trillion-dollar mistake about retirement",
-     "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 13:52:00 GMT",
-     "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-     "source": "MarketWatch",
-     "zh": "Corporate America is making a trillion-dollar mistake about retirement"
-    },
-    {
      "title": "反数据中心浪潮下，AI交易还能走多远？关键看GPU租赁价格",
      "link": "https://wallstreetcn.com/articles/3785745",
      "pubDate": "Wed, 11 Nov 2026 21:34:39 +0800",
      "summary": "数据中心的政治逆风正在重塑AI投资逻辑，但这场交易的生死，最终取决于一个鲜少被关注的价格信号——GPU租赁价格。 据彭博宏观策略师Simon White撰文指出，美国中期选举后，算力供给面临收紧风险，市场已率先作出反应。上周市场急剧下挫后虽有所企稳，但波动尚未平息。核心问题在于： 若数据中心建设受阻，GPU租赁价格能否通过上涨，足以弥补资本开支萎缩带来的损失？ 从市场已有的价格信号看，答案具有一定可行性。这一逻辑的成立，将驱动AI交易内部发生结构性轮动——从依赖持续扩张的AI实验室、新兴云服务商和数据中心建设链，转向坐拥大量存量算力的超大规模云厂商（hyperscalers）。 选举冲击：算力",
      "source": "华尔街见闻",
      "zh": "反数据中心浪潮下，AI交易还能走多远？关键看GPU租赁价格"
+    },
+    {
+     "title": "Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元",
+     "link": "https://wallstreetcn.com/articles/3785750",
+     "pubDate": "Wed, 11 Nov 2026 21:33:18 +0800",
+     "summary": "Anthropic的首次公开募股正成为市场焦点。据彭博11日知情人士透露，该公司IPO认购需求已达可售股份的数倍，有望创下史上最大规模上市纪录。 据彭博报道，本轮超额认购主要由所谓\"锚定规模\"的认购意向驱动。 Anthropic及其联合创始人寻求通过IPO及私募配售合计募资最高904亿美元，若与SpaceX未来IPO相比，此次发行规模将超越其历史纪录，成为有史以来规模最大的上市交易。 在估值方面，Anthropic目前将完全摊薄估值目标定为约1.4万亿美元，低于部分投资者此前的预期水平。此次上市由高盛和摩根士丹利联席主承销，另有20家银行参与，股票将在纳斯达克全球精选市场以\"ANT\"为代码交易",
+     "source": "华尔街见闻",
+     "zh": "Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元"
+    },
+    {
+     "title": "美银之后，大摩也将英伟达移除“首选股”名单！",
+     "link": "https://wallstreetcn.com/articles/3785748",
+     "pubDate": "Wed, 11 Nov 2026 21:25:01 +0800",
+     "summary": "英伟达正面临华尔街顶级机构的信心动摇。 继美国银行之后，摩根士丹利周三也将英伟达从其半导体板块\"首选股\"名单中移除，尽管两家机构均维持\"增持\"或\"买入\"评级。 这一连串降级动作，折射出华黄仁勋个人丑闻对英伟达投资逻辑的冲击正在蔓延。 摩根士丹利分析师在周三的研报中指出， 黄仁勋的领导力对英伟达的战略方向\"至关重要\"，而当前围绕其个人的不确定性已令风险收益比趋于不利。 此前，英伟达股价在周一和周二连续两日分别下跌4.3%和5.47%，两日累计跌幅接近10%，本周市值蒸发约4700亿美元。周三美股盘前，股价有所反弹，涨幅最高超过5%。 美国银行则早一步于11月10日将英伟达、美光科技（Micron",
+     "source": "华尔街见闻",
+     "zh": "美银之后，大摩也将英伟达移除“首选股”名单！"
+    },
+    {
+     "title": "11月11日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202611113928607588.html",
+     "pubDate": "Wed, 11 Nov 2026 21:00:00 +0800",
+     "summary": "热点聚焦 央行报告 ： 央行发布2026年第三季度中国货币政策执行报告，下一阶段货币政策主要思路：积极稳妥防范化解金融风险。构建覆盖全面的宏观审慎管理体系，完善系统性金融风险防范处置机制。拓展丰富中央 银行 宏观审慎与金融稳定功能，丰富完善工具箱，加力实施支持资本市场的两项货币政策工具， 用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行 。 外交部回应 ： 外交部发言人郭嘉昆主持例行记者会。路透社记者提问，在涉及 英伟达 首席执行官黄仁勋的相关指控出现后， 美国国会议员周二再次呼吁收紧对中国获取先进 人工智能 （AI）芯片的限制 。外交部对此有何评论？“中方在美国输华芯片问",
+     "source": "东方财富资讯",
+     "zh": "11月11日东方财富财经晚报（附新闻联播）"
+    },
+    {
+     "title": "显卡价格跳水？记者实探",
+     "link": "http://finance.eastmoney.com/news/1345,202611113928630376.html",
+     "pubDate": "Wed, 11 Nov 2026 20:59:19 +0800",
+     "summary": "日前，有消息称，近期高端显卡价格剧烈波动，部分型号价格从一个月前的1.8万元/张下跌至目前的1.4万元/张。 对此，11月11日下午，证券时报记者实地探访被称为“全国 电子 第一街”的 深圳华强 北，走访相关 电子 市场。多位主营显卡产品的商家向记者否认了“高端显卡价格大幅波动”的说法，表示大幅波动并不属实，只是近段时间以来的持续调整。 记者现场了解到，11月11日，市场主流用于AI或游戏的高端显卡RTX 5080价格约为1.43万元/张，RTX 5090价格则为4.85万元/张，主流用于电脑的RTX 5060价格则为3000多一张。 “最近变化不是很大，只是之前涨幅太大了，9月份之前，RTX",
+     "source": "东方财富资讯",
+     "zh": "显卡价格跳水？记者实探"
     }
    ]
   },
@@ -2513,6 +2513,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "'The possibilities are truly breathtaking': NASA's Roman Space Telescope will take better images and last longer than experts predicted",
+     "link": "https://www.livescience.com/space/space-exploration/the-possibilities-are-truly-breathtaking-nasas-roman-space-telescope-will-take-better-images-and-last-longer-than-experts-predicted",
+     "pubDate": "Wed, 11 Nov 2026 15:24:44 +0000",
+     "summary": "NASA's Nancy Grace Roman Space Telescope could capture images 30% sharper than — and remain operational for twice as long as — initially expected. Researchers say these \"remarkable\" developments could greatly enhance the volume and quality of the data they will analyze.",
+     "source": "Live Science",
+     "zh": "'The possibilities are truly breathtaking': NASA's Roman Space Telescope will take better images and last longer than experts predicted"
+    },
     {
      "title": "How a Metabolic Spark Could Have Jump-Started Life",
      "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
@@ -2640,14 +2648,6 @@ window.INDUSTRY_DATA = {
      "summary": "As neurotechnology aims to restore seamless speech to those who can no longer talk, what’s next for the science, and for the people it promises to help?",
      "source": "Science News",
      "zh": "Science to restore speech is moving fast. Here’s what’s next"
-    },
-    {
-     "title": "'The first species we might be able to communicate with, interact with vocally, might be a bird': An animal researcher explains how she decoded birdsong",
-     "link": "https://www.livescience.com/animals/birds/the-first-species-we-might-be-able-to-communicate-with-interact-with-vocally-might-be-a-bird-an-animal-researcher-explains-how-she-decoded-birdsong",
-     "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000",
-     "summary": "Julie Elie , an ethologist at the University of California, Berkeley, tells Live Science about using AI to decode the vocalizations of zebra finches.",
-     "source": "Live Science",
-     "zh": "'The first species we might be able to communicate with, interact with vocally, might be a bird': An animal researcher explains how she decoded birdsong"
     },
     {
      "title": "Toxic secrets are hiding in Arctic ice",

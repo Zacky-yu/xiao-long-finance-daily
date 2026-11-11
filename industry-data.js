@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/11 14:52:02",
+ "generated_at": "2026/11/11 14:58:55",
  "recent_days": 7,
  "industries": [
   {
@@ -962,14 +962,6 @@ window.INDUSTRY_DATA = {
      "zh": "The AI boom could shift diesel generators from backup to everyday use"
     },
     {
-     "title": "GE Vernova to spend $34.5M expanding Louisiana transformer manufacturing capacity",
-     "link": "https://www.utilitydive.com/news/ge-vernova-to-spend-345m-expanding-transformer-manufacturing-capacity-in/874272/",
-     "pubDate": "Tue, 10 Nov 2026 12:03:44 -0500",
-     "summary": "&ldquo;Electricity demand is growing, and transformers are part of the critical grid equipment essential to delivering the power our customers and modern economies depend on,&rdquo; said the head of the company&rsquo;s&nbsp;electrification segment.",
-     "source": "Utility Dive",
-     "zh": "GE Vernova to spend $34.5M expanding Louisiana transformer manufacturing capacity"
-    },
-    {
      "title": "Turkish electricity exports generate US$500 million in revenue following strong renewable energy deployment",
      "link": "https://www.pv-tech.org/turkish-electricty-exports-us500-million-revenue-strong-renewable-energy-deployment/",
      "pubDate": "Tue, 10 Nov 2026 16:07:09 +0000",
@@ -986,18 +978,10 @@ window.INDUSTRY_DATA = {
      "zh": "Beyond wiring: how engineered EBOS solutions address Australia’s utility-scale solar project challenges"
     },
     {
-     "title": "Community engagement is key to on-site battery storage, experts say",
-     "link": "https://www.utilitydive.com/news/community-engagement-is-key-to-on-site-battery-energy-storage-experts-say/874194/",
-     "pubDate": "Tue, 10 Nov 2026 11:05:42 -0500",
-     "summary": "Building operators are turning to batteries to combat rising energy prices and add resiliency, but safety concerns means these projects require thoughtful planning, Greenbuild panelists say.",
-     "source": "Utility Dive",
-     "zh": "Community engagement is key to on-site battery storage, experts say"
-    },
-    {
      "title": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question",
      "link": "https://www.utilitydive.com/news/are-data-centers-really-paying-aes-indianas-google-deal-highlights-a-thor/873040/",
      "pubDate": "Tue, 10 Nov 2026 10:35:36 -0500",
-     "summary": "While local grid infrastructure projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
+     "summary": "While local projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
      "source": "Utility Dive",
      "zh": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question"
     },
@@ -1008,22 +992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Module manufacturer Heliene and perovskite solar company Caelux have started commercial-scale production of a hybrid-tandem solar module for the US market.",
      "source": "PV Tech",
      "zh": "Heliene, Caelux launch US-made perovskite glass hybrid tandem module"
-    },
-    {
-     "title": "Permitting bill advances in Senate, but election results cast doubt on its future",
-     "link": "https://www.utilitydive.com/news/permitting-bill-advances-in-senate-but-its-future-is-uncertain-after-democ/874250/",
-     "pubDate": "Tue, 10 Nov 2026 10:02:14 -0500",
-     "summary": "The version of the bill that advanced this week included a manager&rsquo;s amendment that sought to address some concerns, including over tribal consultation&nbsp;and FERC authority, but Democrats in both chambers have said they want to see more changes.",
-     "source": "Utility Dive",
-     "zh": "Permitting bill advances in Senate, but election results cast doubt on its future"
-    },
-    {
-     "title": "Most generators prepared for extreme cold, but risks remain: NERC",
-     "link": "https://www.utilitydive.com/news/generators-prepared-extreme-cold-nerc/874248/",
-     "pubDate": "Tue, 10 Nov 2026 09:30:50 -0500",
-     "summary": "Despite improvements to cold-weather operations, the grid &ldquo;continues to face serious reliability risks during the winter period,&rdquo;&nbsp;NERC President and CEO Jim Robb said.",
-     "source": "Utility Dive",
-     "zh": "Most generators prepared for extreme cold, but risks remain: NERC"
     },
     {
      "title": "Qcells US modules first to pass all reliability tests from Kiwa PVEL and RETC",
@@ -1096,6 +1064,38 @@ window.INDUSTRY_DATA = {
      "summary": "Japan’s state energy research agency says it is seeking renewable and energy storage options outside established areas such as solar that could suit regional conditions. The post Japan to assess renewable, storage technologies beyond PV and wind appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Japan to assess renewable, storage technologies beyond PV and wind"
+    },
+    {
+     "title": "Sumitomo Corporation, Greenvolt deploy BESS at both ends of scale in Japan’s layered market",
+     "link": "https://www.energy-storage.news/sumitomo-corporation-greenvolt-deploy-bess-japan/",
+     "pubDate": "Tue, 10 Nov 2026 12:20:17 +0000",
+     "summary": "Battery energy storage system (BESS) projects in Japan by Sumitomo Corporation and Greenvolt provide an interesting snapshot of the country’s development landscape.",
+     "source": "Energy Storage News",
+     "zh": "Sumitomo Corporation, Greenvolt deploy BESS at both ends of scale in Japan’s layered market"
+    },
+    {
+     "title": "Swelect HHV secures ingot growers for 1 GW factory in India",
+     "link": "https://www.pv-magazine.com/2026/11/10/raana-semiconductors-to-supply-cz12-ingot-growers-to-swelect-hhv-solar/",
+     "pubDate": "Tue, 10 Nov 2026 12:15:08 +0000",
+     "summary": "Raana Semiconductors will supply CZ12 silicon ingot growers to Swelect HHV Solar Photovoltaics for its 1 GW ingot and wafer manufacturing facility in India. The agreement also covers process optimization, recipe development and technical training. The post Swelect HHV secures ingot growers for 1 GW ",
+     "source": "pv magazine",
+     "zh": "Swelect HHV secures ingot growers for 1 GW factory in India"
+    },
+    {
+     "title": "Italy: RWE and BNZ launch construction on large-scale battery projects",
+     "link": "https://www.energy-storage.news/italy-rwe-and-bnz-launch-construction-on-large-scale-battery-projects/",
+     "pubDate": "Tue, 10 Nov 2026 12:11:44 +0000",
+     "summary": "Power firms RWE and BNZ have both announced construction on large-scale BESS projects in Italy, all-in-all totalling nearly 500MWh of capacity.",
+     "source": "Energy Storage News",
+     "zh": "Italy: RWE and BNZ launch construction on large-scale battery projects"
+    },
+    {
+     "title": "Utilities should consider ‘taking a breather’ from rate cases: Minnesota PUC vice chair",
+     "link": "https://www.utilitydive.com/news/minnesota-puc-rate-case-affordability-naruc/874222/",
+     "pubDate": "Tue, 10 Nov 2026 06:09:21 -0500",
+     "summary": "&ldquo;Filing rate cases right now is really painful,&rdquo; Joseph Sullivan told Utility Dive in an interview where he also discussed his concerns with overly complex data center cost allocation and an erosion of public trust in institutions.",
+     "source": "Utility Dive",
+     "zh": "Utilities should consider ‘taking a breather’ from rate cases: Minnesota PUC vice chair"
     }
    ]
   },
@@ -1770,6 +1770,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "官方解释微信为何有“拍一拍”功能：像蚂蚁碰触角一样，用更轻的方式打个招呼",
+     "link": "https://www.ithome.com/1/025/478.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:56:22 GMT",
+     "summary": "IT之家 11 月 11 日消息，微信官方公众号“微信派”今日发文《 为什么微信要有拍一拍？ 》，谈到“拍一拍”功能的诞生原因。 官方表示，微信拍一拍的起源得从蚂蚁说起。两只蚂蚁见面，触角碰一碰、气味闻一闻，信息就传达到位了动作不大，意思到了。拍一拍也是一样， 有时想和对方打个招呼 ， 文字太郑重 、 语音太啰嗦 ， 所以需要个更轻松的选项 。 而且现实生活里本来也有不少需要“拍一拍”的瞬间。路上碰见熟人拍拍肩膀；同事开会走神，碰碰胳膊。不用多说，懂的都懂。如果你拍对方时 TA 刚好在聊天界面，手机就会轻轻震动一下，就像两只蚂蚁碰了碰触角。 如果 TA 不在聊天界面，手机不会推送通知，也不会有",
+     "source": "IT之家",
+     "zh": "官方解释微信为何有“拍一拍”功能：像蚂蚁碰触角一样，用更轻的方式打个招呼"
+    },
+    {
+     "title": "Iceflake 接手后首个扩展包：《都市：天际线 2》游戏 12 月推出“公园探险”DLC",
+     "link": "https://www.ithome.com/1/025/476.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:55:15 GMT",
+     "summary": "IT之家 11 月 11 日消息，《都市：天际线 2》（Cities: Skylines II）游戏今天（11 月 11 日）官宣将于 12 月 2 日上线《公园探险》（Park Adventures）扩展包，邀请玩家设计专属公园，定制丰富的游乐项目和配套设施。 Paradox Interactive 今年早些时候调整《都市：天际线 2》游戏，将开发工作从 Colossal Order 移交给 Iceflake Studios，本次推出的《公园探险》也是 Iceflake 接手后推出的首个原创扩展包。 新内容的核心是模块化公园：玩家可以自行划定区域、组合设施，打造动物园、游乐园、自然保护区或城",
+     "source": "IT之家",
+     "zh": "Iceflake 接手后首个扩展包：《都市：天际线 2》游戏 12 月推出“公园探险”DLC"
+    },
+    {
+     "title": "罗技宣布首次全公司范围“游戏日”：员工获得 1 天游戏假期",
+     "link": "https://www.ithome.com/1/025/475.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:53:53 GMT",
+     "summary": "IT之家 11 月 11 日消息，Logitech（罗技）当地时间昨日宣布设立“罗技游戏日”， 给予员工额外一天假期用于游戏娱乐并正式认可游戏活动对认知和职业发展的益处 。这将是罗技首次全公司范围的“游戏日”。 罗技近日的一项研究显示，81% 的游戏玩家认为游戏能够增强现实生活中的自信心，减轻焦虑，并与更佳的日常工作表现相关；其另一项研究也发现，98.8% 的企业 IT 决策者表示，游戏技能可以直接转化为工作能力，包括战略思维、复杂问题解决能力和抗压能力。 罗技首席执行官 Hanneke Faber 表示： 是时候打破游戏浪费时间的刻板印象了。作为一家致力于为工作和娱乐设计产品的公司，我们每天",
+     "source": "IT之家",
+     "zh": "罗技宣布首次全公司范围“游戏日”：员工获得 1 天游戏假期"
+    },
+    {
+     "title": "AI 应用进德国市场，GDPR 合规排期该怎么挤进 3 人小团队？",
+     "link": "https://www.baijing.cn/question/638671",
+     "pubDate": "Wed, 11 Nov 2026 06:52:04 +0000",
+     "summary": "团队 4 人，3 个研发 1 个运营，AI 写作类 App 刚在德国和法国上线两个月，日活 8000 左右。上周收到德国一家数据保护机构的用户问询转来的邮件，要求说明训练数据来源和用户输入内容的处理依据，我们才发现隐私政策里对模型推理环节的描述是照抄模板的。现在卡在两件事：一是 DPIA 到底要不要做、由谁签字，我们没人有合规背景；二是运营手上还压着西语版本地化和投放素材，排期已经排到月底。试过找外部律所报价，单次 DPIA 就要五位数欧元，预算吃不下。想直接问：像我们这种规模的团队，是先停掉德国新用户注册把合规补完，还是边跑边补、先只改隐私政策和数据处理协议？",
+     "source": "白鲸出海",
+     "zh": "AI 应用进德国市场，GDPR 合规排期该怎么挤进 3 人小团队？"
+    },
+    {
+     "title": "黑鲨游戏手机微信公众号账号迁移，主体变更为深圳铭源电玩科技股份有限公司",
+     "link": "https://www.ithome.com/1/025/473.htm",
+     "pubDate": "Wed, 11 Nov 2026 06:50:45 GMT",
+     "summary": "IT之家 11 月 11 日消息，黑鲨游戏手机公众号今日发布《关于账号进行迁移的说明》。 因运营需要，你所关注的账号“黑鲨游戏手机”将进行账号迁移。届时本账号的业务、功能将转移至新账号“黑鲨 BLACK SHARK”。迁移详情如下： 旧账号名称：黑鲨游戏手机 旧账号主体：南昌黑鲨科技有限公司 新账号名称：黑鲨 BLACK SHARK 新账号主体：深圳铭源电玩科技股份有限公司 IT之家查询获悉，深圳铭源电玩科技股份有限公司 (简称铭源电玩)，股票代码 870045，曾于 2016 年 12 月 12 日在新三板挂牌。公司成立于 2010 年 2 月 4 日，曾用名深圳市铭源电子有限公司，法定代表",
+     "source": "IT之家",
+     "zh": "黑鲨游戏手机微信公众号账号迁移，主体变更为深圳铭源电玩科技股份有限公司"
+    },
+    {
+     "title": "资本市场短视，AMD苏姿丰：我依然看好AI",
+     "link": "https://www.huxiu.com/article/4904356.html?f=rss",
+     "pubDate": "Wed, 11 Nov 2026 14:48:26 +0800",
+     "summary": "AMD CEO苏姿丰坚定看好AI。公司拥有丰富资源和能力，正推动数据中心业务从Q3到Q4环比增长50%，并计划明年实现业务翻倍。她认为，算力等同于智能，拥有更多计算力就有更强的问题解决能力和业务加速力。",
+     "source": "虎嗅",
+     "zh": "资本市场短视，AMD苏姿丰：我依然看好AI"
+    },
+    {
      "title": "腾讯全新搜索产品“元宝搜索”正式上线：能搜微信公众号、视频号，广告与答案明确区分",
      "link": "https://www.ithome.com/1/025/471.htm",
      "pubDate": "Wed, 11 Nov 2026 06:47:56 GMT",
@@ -1794,30 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "澳新海外仓退货换标后回款周期拉长到45天，是物流时效问题还是支付结算环节卡住了？"
     },
     {
-     "title": "酷派 COOL X Wide 百元阔直板手机开售 3 天销量破万，999~1399 元",
-     "link": "https://www.ithome.com/1/025/469.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:42:51 GMT",
-     "summary": "IT之家 11 月 11 日消息，安卓阵营首款阔直板手机 —— 酷派首款阔直板手机 Cool X Wide 已于 11 月 8 日正式开售。其中，8GB+128GB 版本 999 元、8GB+256GB 版本 1199 元、12GB+256GB 版本 1399 元。 酷派手机旗舰店账号“coolpad 方块数码”宣布， 酷派 COOL X Wide 百元阔直板手机开售 3 天，首销破万台 。 据IT之家了解，酷派 COOL X Wide 阔直板手机配备 6.38 英寸 16:10 屏幕（分辨率 720×1158），支持 90Hz 高刷；有鎏白、岩黑、嫣红三种配色可选，后置 5000 万像素摄像",
-     "source": "IT之家",
-     "zh": "酷派 COOL X Wide 百元阔直板手机开售 3 天销量破万，999~1399 元"
-    },
-    {
-     "title": "MONTECH 推出 KING 95 3D 三面玻璃机箱、LINK FAN INF 120 磁吸风扇",
-     "link": "https://www.ithome.com/1/025/468.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:42:46 GMT",
-     "summary": "IT之家 11 月 11 日消息，MONTECH（君主科技 / 蒙泰克）今日宣布推出 KING 95 3D 双舱式 ATX 中塔机箱、LINK FAN INF 120 磁吸风扇，以迎接品牌十周年。 KING 95 3D 在承袭 KING 95 系列 15° 曲面玻璃设计的基础上加入 顶部强化玻璃 ，构成三面展示视野；机身整合共有 118 颗 LED 灯珠的 轮廓 ARGB 灯条 ；另有 铝合金 I/O 面板 、MONTECH 十周年纪念铭牌 。 该机箱支持 ATX 主板，兼容背插；扩展卡限长 450mm、ATX 电源限长 220mm、处理器散热限高 172mm；可同时安装 1 个 3.5\" 硬",
-     "source": "IT之家",
-     "zh": "MONTECH 推出 KING 95 3D 三面玻璃机箱、LINK FAN INF 120 磁吸风扇"
-    },
-    {
-     "title": "亚马逊 Ring 推出两款安防机器人：一款飞着看家，一款巡逻商铺",
-     "link": "https://www.ithome.com/1/025/465.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:41:37 GMT",
-     "summary": "IT之家 11 月 11 日消息，亚马逊旗下安防品牌 Ring 昨日（11 月 10 日）宣布扩展推出 Ring Robotics 产品线， 首批产品包括面向家庭的飞行摄像头 Drone Cam，以及面向商业场所的轮式机器人 Rover Cam。 两款设备均搭载 AI Pilot 系统，结合摄像头、传感器、视觉模型和云端处理实现自主导航。首次设置后，设备会绘制室内地图，建议重点监控门窗、走廊等位置；配置完成后，可自主避障，并响应现有 Ring 设备发出的警报。 Drone Cam 配备 2K 摄像头，支持 148 度视角和 360 度旋转，弱光下可自动开启 LED 灯。用户可通过应用设置飞行路",
-     "source": "IT之家",
-     "zh": "亚马逊 Ring 推出两款安防机器人：一款飞着看家，一款巡逻商铺"
-    },
-    {
      "title": "Sources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips (Takashi Mochizuki/Bloomberg)",
      "link": "https://www.techmeme.com/261111/p6#a261111p6",
      "pubDate": "Wed, 11 Nov 2026 01:40:01 -0500",
@@ -1834,12 +1858,52 @@ window.INDUSTRY_DATA = {
      "zh": "AI短剧混战：大厂争夺的是剧本，还是下一代流量入口"
     },
     {
-     "title": "11998 → 7558 元：海信 E5S Pro 热泵洗烘多筒洗衣洗鞋机 11.11 破冰新低",
-     "link": "https://www.ithome.com/1/025/462.htm",
-     "pubDate": "Wed, 11 Nov 2026 06:39:17 GMT",
-     "summary": "海信 · 大薄荷 2.0 E5S Pro 热泵洗烘多筒洗衣洗鞋机 17kg 配备 4 筒，4 筒独立水路，3 直驱 8 变频 8 减震： 1kg 洗烘一体机 * 2 个（DD 直驱） 3kg 洗鞋机 / 护鞋机（独立变频电机） 12kg 洗烘一体机（DD 直驱，支持 8kg 热泵烘干 ） 官方定价 11998 元，今日仅需 7558 元京东自营破冰新低，3 年整机质保 + 12 年电机质保。 点击下方卡片 → 点击宝贝右上方 直播浮窗 → 在直播间中 点击此宝贝 （直播间加购，加赠锅具套装） 点击售价下方“ 京东组合购 ”选择任意商品一起加购 去结算 在下单页面选择“ 以旧换新 ” → 个护健",
-     "source": "IT之家",
-     "zh": "11998 → 7558 元：海信 E5S Pro 热泵洗烘多筒洗衣洗鞋机 11.11 破冰新低"
+     "title": "假如BLG夺冠了，谁会成为商业上的大赢家？",
+     "link": "https://www.tmtpost.com/8200288.html",
+     "pubDate": "Wed, 11 Nov 2026 14:35:16 +0800",
+     "summary": "允许医美",
+     "source": "钛媒体",
+     "zh": "假如BLG夺冠了，谁会成为商业上的大赢家？"
+    },
+    {
+     "title": "中国55%的Token烧在短剧，美国58%烧在代码：Token的流向，暴露了AI的两种“活法”",
+     "link": "https://www.tmtpost.com/8198782.html",
+     "pubDate": "Wed, 11 Nov 2026 14:35:11 +0800",
+     "summary": "本文通过核验 GitHub Copilot 用户与付费订阅数据、AI 短剧算力成本，厘清行业容易混淆的两组关键数字，对比流量型与生产力型 AI 的差异，拆解 Token 流向背后的商业逻辑，剥离行业流传的不实叙事，还原当下 AI 产业真实的付费与成本面貌。",
+     "source": "钛媒体",
+     "zh": "中国55%的Token烧在短剧，美国58%烧在代码：Token的流向，暴露了AI的两种“活法”"
+    },
+    {
+     "title": "姚期智杨植麟联手，让数学家松了一口气",
+     "link": "https://www.tmtpost.com/8200965.html",
+     "pubDate": "Wed, 11 Nov 2026 14:35:07 +0800",
+     "summary": "没有任何模型能真正解决开放猜想。",
+     "source": "钛媒体",
+     "zh": "姚期智杨植麟联手，让数学家松了一口气"
+    },
+    {
+     "title": "便宜5000元的加拿大鹅，治不好山姆的会员焦虑",
+     "link": "https://www.tmtpost.com/8200306.html",
+     "pubDate": "Wed, 11 Nov 2026 14:35:01 +0800",
+     "summary": "越扩张，越难独特",
+     "source": "钛媒体",
+     "zh": "便宜5000元的加拿大鹅，治不好山姆的会员焦虑"
+    },
+    {
+     "title": "很多人都错怪了泡泡玛特",
+     "link": "https://www.tmtpost.com/8200747.html",
+     "pubDate": "Wed, 11 Nov 2026 14:34:57 +0800",
+     "summary": "别把LABUBU当成了泡泡玛特的全部本事。",
+     "source": "钛媒体",
+     "zh": "很多人都错怪了泡泡玛特"
+    },
+    {
+     "title": "让4亿用户上头后，红果开始踩刹车",
+     "link": "https://www.tmtpost.com/8200778.html",
+     "pubDate": "Wed, 11 Nov 2026 14:34:53 +0800",
+     "summary": "红果为什么这样红？",
+     "source": "钛媒体",
+     "zh": "让4亿用户上头后，红果开始踩刹车"
     },
     {
      "title": "中国AI，越来越烧钱",
@@ -1914,14 +1978,6 @@ window.INDUSTRY_DATA = {
      "zh": "Researchers find that Grok Build is leaking data of over 35,000 apps via shareable links, including proprietary information, some belonging to SpaceXSI (Dan Goodin/Ars Technica)"
     },
     {
-     "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
-     "link": "https://www.wired.com/story/noom-promo-code/",
-     "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
-     "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
-     "source": "WIRED",
-     "zh": "Noom Promo Codes: 50% Off Best Deals for November 2026"
-    },
-    {
      "title": "Best Buy Discount Codes: 60% Off",
      "link": "https://www.wired.com/story/best-buy-discount-code/",
      "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
@@ -1952,62 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
      "source": "WIRED",
      "zh": "NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026"
-    },
-    {
-     "title": "Google Workspace Promo Codes: 14% Off for November 2026",
-     "link": "https://www.wired.com/story/google-workspace-promo-code/",
-     "pubDate": "Wed, 11 Nov 2026 06:00:00 +0000",
-     "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-     "source": "WIRED",
-     "zh": "Google Workspace Promo Codes: 14% Off for November 2026"
-    },
-    {
-     "title": "肯尼亚 M-Pesa 收款对接，3 人团队排期怎么安排才不拖上线？",
-     "link": "https://www.baijing.cn/question/638666",
-     "pubDate": "Wed, 11 Nov 2026 05:54:15 +0000",
-     "summary": "我们做的是面向肯尼亚市场的线上订阅工具，刚上线两个月，日活 800 左右，团队一共 3 个人，其中只有 1 个后端能碰支付。现在想接 M-Pesa 收款，已经试过让用户手动输 Paybill 号转账，结果对账全靠人工，每天要花两小时核对，还出现约 7% 的订单因为用户填错号而漏单。卡在不知道是先接 Daraja 的 STK Push 还是先做 C2B 回调，两个方案都要后端改接口和测试，按现在人手排期至少两周，但下个月就要投第一波广告。想请教有实际对接经验的同行，这种人手和排期约束下，先上哪个方案、测试和上线怎么排更稳妥？",
-     "source": "白鲸出海",
-     "zh": "肯尼亚 M-Pesa 收款对接，3 人团队排期怎么安排才不拖上线？"
-    },
-    {
-     "title": "金灿荣、陈凤馨：特朗普的否决权，能否保住“黄仁勋们”？",
-     "link": "https://www.huxiu.com/article/4904699.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 13:42:19 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：两岸圆桌派 黄仁勋卷入婚外情风波，英伟达宣布就相关安全疑虑启动独立调查。与此同时，民主党在中期选举后掌控国会两院，硅谷科技巨头可能面临更密集的调查与监管压力。特朗普政府的人事震荡、白宫与国会的正面冲突，也让美国科技政策的不确定性陡然上升。 这场政治变局会怎样影响黄仁勋、马斯克等科技企业家？特朗普能否凭借否决权和行政命令继续为AI产业护航？美国数据中心项目放缓，又会给台积电及台湾科技产业带来多大冲击？ 本期《两岸圆桌派》，主持人苏恒邀请台湾资深媒体人、财经评论员陈凤馨与中国人民大学国际关系学院教授、美国问题专家金灿荣，围绕美国政党博弈、AI竞争及台湾供应链",
-     "source": "虎嗅",
-     "zh": "金灿荣、陈凤馨：特朗普的否决权，能否保住“黄仁勋们”？"
-    },
-    {
-     "title": "肯尼亚手游买量 CPI 波动大，两人小团队该如何排期投放？",
-     "link": "https://www.baijing.cn/question/638665",
-     "pubDate": "Wed, 11 Nov 2026 05:42:11 +0000",
-     "summary": "在内罗毕做休闲手游投放三个月，团队就我和一个运营，预算每月 8000 美金左右。同一套素材在肯尼亚白天 CPI 约 0.18 美金，晚上八点后能飙到 0.45，Safaricom 网络高峰时段落地页加载经常超过 6 秒，导致点击到安装的转化率从 22% 掉到 9%。我们试过把预算集中到上午和凌晨、压缩落地页图片、换用本地 CDN，但夜里那段流量还是不敢完全放弃，毕竟占日活的四成。现在两个人轮班盯盘已经顶不住，想请教有非洲买量经验的同行：在肯尼亚这种网络波动明显的市场，你们是直接砍掉晚间时段，还是按小时拆计划单独控价？判断标准主要看哪几个指标？",
-     "source": "白鲸出海",
-     "zh": "肯尼亚手游买量 CPI 波动大，两人小团队该如何排期投放？"
-    },
-    {
-     "title": "Apple says its Apple Support Community forum will close permanently on November 20 and starting today the site is read-only and no longer accepts new posts (Marcus Mendes/9to5Mac)",
-     "link": "https://www.techmeme.com/261111/p2#a261111p2",
-     "pubDate": "Wed, 11 Nov 2026 00:40:01 -0500",
-     "summary": "Marcus Mendes / 9to5Mac : Apple says its Apple Support Community forum will close permanently on November 20 and starting today the site is read-only and no longer accepts new posts &nbsp; &mdash;&nbsp; Users visiting the Apple Support Community tonight were greeted with a message informing them tha",
-     "source": "Techmeme",
-     "zh": "Apple says its Apple Support Community forum will close permanently on November 20 and starting today the site is read-only and no longer accepts new posts (Marcus Mendes/9to5Mac)"
-    },
-    {
-     "title": "当幼儿园陆续消失，一场育儿焦虑的退潮",
-     "link": "https://www.huxiu.com/article/4904696.html?f=rss",
-     "pubDate": "Wed, 11 Nov 2026 13:34:09 +0800",
-     "summary": "本文来自微信公众号： 显微故事 ，编辑：方园婧，作者：显微故事编辑部 曾经悬在无数家庭头顶的“入学难”，好像悄悄退出了公共讨论。 它曾经是一代人的集体记忆：怀孕就要抢建档，入园名额一票难求，学区房的价格牵动全城。 短短数年，这一套焦虑链条正在松动。变化藏在官方数据里：全国幼儿园数量在2021年抵达峰值，到2025年，四年之内，六万多所幼儿园陆续退出。 一条又一条幼儿园关停的消息划过信息流，大众记住的往往只是冰冷的统计数字。 数字背后，是被这一场人口浪潮裹挟、完整走过起落的普通人，很少有人听见他们的声音。 本期显微故事讲述的是身处这场剧烈转向里的人： 他们之中，有的人当年在医院楼下排队，拿到了那",
-     "source": "虎嗅",
-     "zh": "当幼儿园陆续消失，一场育儿焦虑的退潮"
-    },
-    {
-     "title": "八年平头哥闯关港股，阿里分拆背后的算力资本局",
-     "link": "https://www.tmtpost.com/8200942.html",
-     "pubDate": "Wed, 11 Nov 2026 13:26:13 +0800",
-     "summary": "阿里巴巴决定让平头哥自己去资本市场拿钱。​",
-     "source": "钛媒体",
-     "zh": "八年平头哥闯关港股，阿里分拆背后的算力资本局"
     }
    ]
   },
@@ -2266,12 +2266,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "ICL Group declares $0.0488 dividend declines by 16% to $0.0488",
+     "link": "https://seekingalpha.com/news/4670460-icl-group-declares-00488-dividend-declines-by-16-to-00488?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 01:53:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ICL Group declares $0.0488 dividend declines by 16% to $0.0488"
+    },
+    {
+     "title": "ExxonMobil CEO skips UN climate talks, breaking three-year attendance streak",
+     "link": "https://seekingalpha.com/news/4670457-exxonmobil-ceo-skips-un-climate-talks-breaking-three-year-attendance-streak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 01:51:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ExxonMobil CEO skips UN climate talks, breaking three-year attendance streak"
+    },
+    {
      "title": "CCL Industries Inc. declares CAD 0.36 dividend",
+     "link": "https://seekingalpha.com/news/4670458-ccl-industries-inc-declares-cad-036-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 01:49:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CCL Industries Inc. declares CAD 0.36 dividend"
+    },
+    {
+     "title": "CCL Industries Inc. declares CAD 0.36575dividend",
      "link": "https://seekingalpha.com/news/4670456-ccl-industries-inc-declares-cad-0_36-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 11 Nov 2026 01:44:14 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "CCL Industries Inc. declares CAD 0.36 dividend"
+     "zh": "CCL Industries Inc. declares CAD 0.36575dividend"
     },
     {
      "title": "Fold outlines balance-first strategy while scaling credit card after reaching 2,500 cardholders",
@@ -2290,30 +2314,6 @@ window.INDUSTRY_DATA = {
      "zh": "POSaBIT appoints Emily Eagon as CFO"
     },
     {
-     "title": "Flex LNG beats top-line and bottom-line estimates; reaffirms FY2026 outlook",
-     "link": "https://seekingalpha.com/news/4670453-flex-lng-beats-top-line-and-bottom-line-estimates-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:37:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Flex LNG beats top-line and bottom-line estimates; reaffirms FY2026 outlook"
-    },
-    {
-     "title": "RWE and KKR form 50:50 joint venture for 2.8 GW UK wind farm development",
-     "link": "https://seekingalpha.com/news/4670448-rwe-and-kkr-form-5050-joint-venture-for-28-gw-uk-wind-farm-development?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:32:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RWE and KKR form 50:50 joint venture for 2.8 GW UK wind farm development"
-    },
-    {
-     "title": "CoreWeave targets H1 2028 profitability, cites higher pricing and GPU renewals",
-     "link": "https://seekingalpha.com/news/4670409-coreweave-targets-h1-2028-profitability-cites-higher-pricing-and-gpu-renewals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 01:31:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CoreWeave targets H1 2028 profitability, cites higher pricing and GPU renewals"
-    },
-    {
      "title": "阿里造芯八年，长出一家百亿公司：平头哥六成GPU算力卖给外部",
      "link": "https://wallstreetcn.com/articles/3785710",
      "pubDate": "Wed, 11 Nov 2026 14:30:24 +0800",
@@ -2330,22 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "从夜盘到挂单，银行做细积存金生意"
     },
     {
-     "title": "仰望重金砸向全球市场 向传统豪门“宣战”",
-     "link": "http://www.eeo.com.cn/2026/1111/1090130.shtml",
-     "pubDate": "Wed, 11 Nov 2026 14:00:41 +0800",
-     "summary": "仰望品牌的下一阶段，指向海外市场和更高端的产品层级。根据规划，仰望品牌于2026年初从中东市场开始全球推广，后续拓展至欧洲，再进入美洲。此次仰望品牌中东系列活动，即是其今年在海外市场的关键动作。",
-     "source": "经济观察网",
-     "zh": "仰望重金砸向全球市场 向传统豪门“宣战”"
-    },
-    {
-     "title": "低价电动车退潮，吉利星愿为何逆流而上",
-     "link": "http://www.eeo.com.cn/2026/1111/1090129.shtml",
-     "pubDate": "Wed, 11 Nov 2026 14:00:13 +0800",
-     "summary": "在市场竞争层面，星愿通过改变产品定义、提供越级配置等方法，在小型车市场动荡的环境中实现逆流而上。",
-     "source": "经济观察网",
-     "zh": "低价电动车退潮，吉利星愿为何逆流而上"
-    },
-    {
      "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
      "link": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
      "pubDate": "Wed, 11 Nov 2026 06:00:01 GMT",
@@ -2360,6 +2344,54 @@ window.INDUSTRY_DATA = {
      "summary": "A股和港股的光模块概念股大涨，新易盛、天孚通信、中际旭创等龙头股涨幅居前，有报道称，微软据传正敦促特朗普政府放弃一项涉及特定光学通信元器件进口限制政策。 11月11日，A股午后震荡拉升，创业板涨3%。AI硬件爆发，光模块、光芯片、光通信、光电路交换机、电路板、覆铜板等概念股普遍拉升，剑桥科技涨停，“易中天”大涨。煤炭、海运等板块活跃，白酒、AI短剧、贵金属等陷入调整。 港股低开低走，恒指、恒科指盘初齐跌，恒科指跌超1%，权重科网股多数下跌，腾讯、快手、网易等下跌。光模块、芯片半导体等科技股反弹，剑桥科技H股大涨超18%。AI大模型股双雄纷纷回落，盘中一度跌5%，阿里官宣新一代千问大模型Qwen",
      "source": "华尔街见闻",
      "zh": "创业板午后涨3%，算力硬件集体爆发，光模块龙头“易中天”大涨，恒科指跌近1%，权重股科网股回落"
+    },
+    {
+     "title": "创业板指涨幅扩大至3%",
+     "link": "http://finance.eastmoney.com/news/11440,202611113928308137.html",
+     "pubDate": "Wed, 11 Nov 2026 13:46:56 +0800",
+     "summary": "创业板指涨幅扩大至3%， 新易盛 涨超15%， 中际旭创 涨超13%， 天孚通信 涨超11%。",
+     "source": "东方财富股票",
+     "zh": "创业板指涨幅扩大至3%"
+    },
+    {
+     "title": "上海迪士尼第三座主题酒店将于12月16日开幕",
+     "link": "http://finance.eastmoney.com/news/1354,202611113928307447.html",
+     "pubDate": "Wed, 11 Nov 2026 13:46:03 +0800",
+     "summary": "11月10日，《中国经营报》记者获悉，作为上海 迪士尼 度假区第三座 迪士尼 主题 酒店 ，上海 迪士尼 星愿 酒店 将于2026年12月16日开幕。 上海迪士尼星愿 酒店 坐落于星愿湖畔、毗邻上海迪士尼乐园酒店，拥有400间客房，目前酒店部分房型已开放预订。 上海迪士尼度假区总裁及总经理包兆天（Andrew Bolstein）表示：“上海迪士尼星愿酒店是上海迪士尼度假区持续发展进程的新篇章。凭借匠心设计、沉浸式的迪士尼故事讲述，以及面向家庭和各年龄段宾客打造的多重体验，新酒店将为宾客带来别具一格的高雅住宿体验。” 作为上海迪士尼度假区的第三座主题酒店，上海迪士尼星愿酒店是度假区向多日度假目的",
+     "source": "东方财富股票",
+     "zh": "上海迪士尼第三座主题酒店将于12月16日开幕"
+    },
+    {
+     "title": "存储厂商酝酿新一轮涨价，先涨的是企业级",
+     "link": "http://finance.eastmoney.com/news/1354,202611113928307820.html",
+     "pubDate": "Wed, 11 Nov 2026 13:45:32 +0800",
+     "summary": "蓝鲸新闻11月11日讯（记者翟智超） 存储市场的新一轮涨价，正以一种不太对称的方式展开。 近日，多位存储行业人士向蓝鲸科技记者透露， 部分头部企业已向渠道商口头告知企业级颗粒的涨价意向，提价函尚未正式下发，但渠道端的价格已经先动了起来。 记者走访代理渠道，多位代理商证实了上述涨价信号。海力士代理商袁先生告诉记者： “每天都在涨”。他观察到，二手盘回收价格一直在往上走，并带动整体报价上行；价格调整的路径则是省代每周调价，代理产品价格再往下传，“我们跟着调”。 不过，三星代理商李明（化名）提醒记者，这轮涨价并不是全品类普涨： 涨价主要集中在DRAM合约端和企业级SSD原厂/渠道端，并非消费级NAN",
+     "source": "东方财富股票",
+     "zh": "存储厂商酝酿新一轮涨价，先涨的是企业级"
+    },
+    {
+     "title": "科创创业人工智能ETF景顺(159142)跟踪指数涨超2.03%，平头哥拟独立上市，国产算力景气持续验证",
+     "link": "http://stock.eastmoney.com/news/11622,202611113928308536.html",
+     "pubDate": "Wed, 11 Nov 2026 13:44:38 +0800",
+     "summary": "截至2026年11月11日13:10，科创创业 人工智能 ETF 景顺 (159142)跟踪指数科创创业AI强势上涨2.03%，成分股 中际旭创 上涨11.26%， 新易盛 上涨10.87%， 协创数据 上涨5.57%， 芯原股份 ， 君正股份 等个股表现分化。（以上所列股票仅为指数成份股，无特定推荐之意） 流动性方面，科创创业 人工智能 ETF 景顺 盘中换手率3.79%，成交额4388.88万元。拉长时间看，科创创业 人工智能 ETF 景顺 近1月日均成交额8555.07万元。 消息面上， 阿里巴巴 11月10日晚公告已正式申请旗下芯片子公司平头哥独立上市，有望通过上市加大研发与人才投入、",
+     "source": "东方财富股票",
+     "zh": "科创创业人工智能ETF景顺(159142)跟踪指数涨超2.03%，平头哥拟独立上市，国产算力景气持续验证"
+    },
+    {
+     "title": "动量因子适配反弹行情，创成长指数大幅拉升",
+     "link": "http://stock.eastmoney.com/news/11622,202611113928309257.html",
+     "pubDate": "Wed, 11 Nov 2026 13:44:37 +0800",
+     "summary": "截至2026年11月11日13:27，A股三大指数集体拉升，上证指数涨0.19%，深证成指涨0.92%，创业板指涨2.17%。 创成长指数上涨4.67%，表现明显好于创业板指数，成分股方面 新易盛 上涨14.22%， 中际旭创 上涨13.48%， 天孚通信 上涨9.71%， 光智科技 上涨9.59%， 光库科技 上涨9.04%。 创业板成长ETF华夏（159967）跟踪创成长指数，采用 \"成长因子+动量因子\"的双重选股模型，成长因子负责精选基本面过硬的优质企业，而动量因子则负责筛选股性活跃、势头良好的个股，双因子策略同时追逐企业基本面向上趋势和股价的强势延续。一旦市场走出\"右侧交易\"逻辑，绩优",
+     "source": "东方财富股票",
+     "zh": "动量因子适配反弹行情，创成长指数大幅拉升"
+    },
+    {
+     "title": "我国炼化相对竞争力有望提升，石油ETF华夏（159189）持续获益",
+     "link": "http://stock.eastmoney.com/news/11622,202611113928308840.html",
+     "pubDate": "Wed, 11 Nov 2026 13:44:37 +0800",
+     "summary": "截至2026年11月11日13:25，油气板块强势上涨，石油ETF华夏（159189）盘中表现强势，成分股方面涨跌互现， 胜利股份 上涨9.87%， 德龙汇能 上涨8.34%， 如通股份 上涨7.25%， 佛燃能源 上涨5.31%， 洪田股份 上涨4.24%； 杰瑞股份 下跌5.81%， 中泰股份 下跌0.81%， 九丰能源 下跌0.8%， 兰石重装 下跌0.73%， 广聚能源 下跌0.65%。 东海证券指出，国内炼油行业已进入高位结构调整期，行业发展逻辑从增量扩张转向减量置换并向高端化工材料延伸。我国炼化一体化基地具备规模与产业链协同优势，虽当前炼厂利用率低于美国，但沿海大型基地可通过公用工",
+     "source": "东方财富股票",
+     "zh": "我国炼化相对竞争力有望提升，石油ETF华夏（159189）持续获益"
     },
     {
      "title": "存储又在酝酿新一轮涨价 头部企业已向渠道商口头告知",
@@ -2442,14 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "Inside Ken Griffin’s $5bn Miami takeover"
     },
     {
-     "title": "伟伟道来 | 战争来到拐点，油价谨慎下行",
-     "link": "http://www.eeo.com.cn/2026/1111/1090061.shtml",
-     "pubDate": "Wed, 11 Nov 2026 12:58:00 +0800",
-     "summary": "战事趋缓、油价下行的背后，是两种动力的较量。一种是战争的动力，其特点是猛烈但不持久；一种是市场的动力，其特点是充沛而持久。政客发动战争，资本家操控市场。当战争的动力枯竭，市场的动力就会喷涌而出。",
-     "source": "经济观察网",
-     "zh": "伟伟道来 | 战争来到拐点，油价谨慎下行"
-    },
-    {
      "title": "高盛更新美联储利率预测：明年3月第三度加息 降息推迟至明年底",
      "link": "http://forex.eastmoney.com/news/1131,202611113928272875.html",
      "pubDate": "Wed, 11 Nov 2026 12:53:50 +0800",
@@ -2474,36 +2498,12 @@ window.INDUSTRY_DATA = {
      "zh": "腾讯“鹅次元”亮相！游戏多股涨停 主力吸筹这些票(附股)"
     },
     {
-     "title": "格力电器CMO朱磊：打造世界级中国品牌，答案就在“china”之中",
-     "link": "http://www.eeo.com.cn/2026/1111/1090074.shtml",
-     "pubDate": "Wed, 11 Nov 2026 12:33:00 +0800",
-     "summary": "在一个习惯用出海衡量增长的时代，朱磊的演讲没有把世界级品牌讲成一场产品扩张。他反复回到瓷器、回到《天工开物》、回到《器经》，回到一个更慢也更硬的逻辑：先做出别人做不出来的东西，再把品质磨到七十二道工序，最后让器物有“气”。他对“中国文化，世界品牌”的理解，不是把中国元素贴到产品上，而是让产品本身成为被世界信任的中国制造。",
-     "source": "经济观察网",
-     "zh": "格力电器CMO朱磊：打造世界级中国品牌，答案就在“china”之中"
-    },
-    {
      "title": "最新！中国诚通盯上这些股 聚焦硬科技（附名单）",
      "link": "http://finance.eastmoney.com/news/1354,202611113928267031.html",
      "pubDate": "Wed, 11 Nov 2026 12:07:53 +0800",
      "summary": "大利好来袭。 中国诚通官宣大利好 近日，中国诚通举办新闻发布活动，介绍中国诚通推动“十五五”稳健开局的做法与成效。相关负责人在会上表示：“十五五”时期，中国诚通计划新增基金投资总额约1500亿元， 将重点布局战略性新兴产业和未来产业 ，新增投入科技创新领域的投资占比不低于80%。同时设置专项量化目标， 投向集成电路、 工业母机 、工业软件、科学仪器等“卡脖子”领域的投资占比不低于24% 。 资料显示，中国诚通成立于1992年，为国务院国资委监管的中央企业，在市场关键节点发挥“稳定器”作用。 例如，2026年7月19日晚间，中国诚通公告，中国诚通及所属诚通资本、诚旸投资聚焦国资央企大额增持中国股",
      "source": "东方财富资讯",
      "zh": "最新！中国诚通盯上这些股 聚焦硬科技（附名单）"
-    },
-    {
-     "title": "Bessent reportedly moved to military base over Iranian threats on his life",
-     "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-     "pubDate": "Wed, 11 Nov 2026 04:06:47 GMT",
-     "summary": "The move comes as the Department of Justice said late Tuesday that three Iranian nationals have been indicted on terrorism-related charges.",
-     "source": "CNBC",
-     "zh": "Bessent reportedly moved to military base over Iranian threats on his life"
-    },
-    {
-     "title": "淅川楚墓群：丹淅之畔的千年回响",
-     "link": "http://www.eeo.com.cn/2026/1111/1089979.shtml",
-     "pubDate": "Wed, 11 Nov 2026 12:06:18 +0800",
-     "summary": "淅川楚国贵族墓群的重见天日，源于一场特大干旱。",
-     "source": "经济观察网",
-     "zh": "淅川楚墓群：丹淅之畔的千年回响"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/11 17:31:59",
+ "generated_at": "2026/11/11 17:51:52",
  "recent_days": 7,
  "industries": [
   {
@@ -65,6 +65,30 @@
      "zh": "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
     },
     {
+     "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+     "link": "https://www.qbitai.com/2026/11/509146.html",
+     "pubDate": "Wed, 11 Nov 2026 06:41:26 +0000",
+     "summary": "价格、门槛全打穿",
+     "source": "量子位",
+     "zh": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替"
+    },
+    {
+     "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+     "link": "https://www.qbitai.com/2026/11/509088.html",
+     "pubDate": "Wed, 11 Nov 2026 06:27:03 +0000",
+     "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+     "source": "量子位",
+     "zh": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题"
+    },
+    {
+     "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+     "link": "https://www.qbitai.com/2026/11/509085.html",
+     "pubDate": "Wed, 11 Nov 2026 06:18:09 +0000",
+     "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+     "source": "量子位",
+     "zh": "卷起来了！11月11日，大模型厂商在天猫打5折"
+    },
+    {
      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
      "link": "https://huggingface.co/blog/qvac/botpsy",
      "pubDate": "Wed, 11 Nov 2026 05:01:16 GMT",
@@ -127,6 +151,14 @@
      "summary": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared f",
      "source": "MarkTechPost",
      "zh": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms"
+    },
+    {
+     "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+     "link": "https://www.qbitai.com/2026/11/509052.html",
+     "pubDate": "Wed, 11 Nov 2026 03:43:31 +0000",
+     "summary": "L4无人化作业走向规模交付",
+     "source": "量子位",
+     "zh": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光"
     },
     {
      "title": "奇袭Claude！谷歌Gemini新旗舰全面上线，一夜复刻OpenCode桌面应用",
@@ -215,38 +247,6 @@
      "summary": "",
      "source": "DeepMind",
      "zh": "Gemini 4 Carbon is now available"
-    },
-    {
-     "title": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
-     "link": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
-     "pubDate": "Tue, 10 Nov 2026 15:42:55 +0000",
-     "summary": "Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and runs in real time in the browser The post Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters appeared first on MarkTech",
-     "source": "MarkTechPost",
-     "zh": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters"
-    },
-    {
-     "title": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM",
-     "link": "https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm",
-     "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-     "summary": "Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline for multilingual text classification, guided by two pre-trained language models handled by Scikit-LLM for translation and zero-shot classification.",
-     "source": "KDnuggets",
-     "zh": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM"
-    },
-    {
-     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
-     "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
-     "pubDate": "Tue, 10 Nov 2026 14:59:09 +0000",
-     "summary": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Sa",
-     "source": "MarkTechPost",
-     "zh": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards"
-    },
-    {
-     "title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
-     "link": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
-     "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
-     "summary": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each technique.",
-     "source": "KDnuggets",
-     "zh": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank"
     }
    ]
   },
@@ -657,6 +657,22 @@
    "total": 5,
    "items": [
     {
+     "title": "This New Electric Paver Can Lay Down 1,200 Tonnes Of Asphalt A Day",
+     "link": "https://insideevs.com/news/815123/ammann-eabg-electric-asphalt-paver-volvo-penta/",
+     "pubDate": "Wed, 11 Nov 2026 09:41:18 +0000",
+     "summary": "Switzerland’s Ammann tapped Volvo Penta to electrify one of its best-known asphalt pavers.",
+     "source": "InsideEVs",
+     "zh": "This New Electric Paver Can Lay Down 1,200 Tonnes Of Asphalt A Day"
+    },
+    {
+     "title": "China NEV retail sales fall 7% in first 8 days of November as penetration reaches 74.9%",
+     "link": "https://cnevpost.com/2026/11/11/china-nev-retail-first-8-days-nov-2026/",
+     "pubDate": "Wed, 11 Nov 2026 09:38:33 +0000",
+     "summary": "NEV retail sales totaled 219,000 from November 1-8, down 7% year-on-year, outperforming a 21% decline in the overall passenger car market. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "China NEV retail sales fall 7% in first 8 days of November as penetration reaches 74.9%"
+    },
+    {
      "title": "Nio ES9 reaches 40,000 deliveries, adding latest 10,000 in 49 days",
      "link": "https://cnevpost.com/2026/11/11/nio-es9-40000-deliveries/",
      "pubDate": "Wed, 11 Nov 2026 07:33:11 +0000",
@@ -785,22 +801,6 @@
      "zh": "Automakers' shares of China's NEV exports in October: BYD leads with 28.3%, Tesla rises to 10.1%"
     },
     {
-     "title": "China NEV market share in October: BYD leads with 22.4%, Tesla drops out of top 10",
-     "link": "https://cnevpost.com/2026/11/10/china-nev-share-oct-2026/",
-     "pubDate": "Tue, 10 Nov 2026 12:12:37 +0000",
-     "summary": "Xiaomi rose to sixth, while GWM and Xpeng entered the October NEV retail top 10. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "China NEV market share in October: BYD leads with 22.4%, Tesla drops out of top 10"
-    },
-    {
-     "title": "Polestar’s Next EVs Will Borrow From This Gorgeous New Concept",
-     "link": "https://insideevs.com/news/814974/polestar-formula-2030-concept-reveal/",
-     "pubDate": "Tue, 10 Nov 2026 09:52:18 +0000",
-     "summary": "The Formula 2030 previews design details headed for the next Polestar 2 and 7 and brings customizable physical controls.",
-     "source": "InsideEVs",
-     "zh": "Polestar’s Next EVs Will Borrow From This Gorgeous New Concept"
-    },
-    {
      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
      "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
      "pubDate": "Mon, 09 Nov 2026 17:00:00 +0000",
@@ -856,6 +856,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Over 90% of China’s solar supply chain is reporting losses, says IEA",
+     "link": "https://www.pv-magazine.com/2026/11/11/over-90-of-chinas-solar-supply-chain-is-reporting-losses-says-iea/",
+     "pubDate": "Wed, 11 Nov 2026 09:36:03 +0000",
+     "summary": "International Energy Agency says that despite consolidation and manufacturing growth in other regions, solar supply chains will remain highly concentrated in China through 2031, particularly for polysilicon and wafer production. The post Over 90% of China’s solar supply chain is reporting losses, sa",
+     "source": "pv magazine",
+     "zh": "Over 90% of China’s solar supply chain is reporting losses, says IEA"
+    },
     {
      "title": "ju:niz Energy enlists Envision for 442MWh grid-forming BESS in Germany",
      "link": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
@@ -959,14 +967,6 @@
      "summary": "Crude oil prices reversed their fall from earlier this week as traders grew less optimistic about a peace deal between the United States and Iran amid continuing tanker attacks in the Strait of Hormuz, with a record number of such attacks in October. At the time of writing, Brent crude was trading a",
      "source": "OilPrice",
      "zh": "Oil Prices Rise as Iran Peace Optimism Fades"
-    },
-    {
-     "title": "Outcome pending on polysilicon action",
-     "link": "https://www.pv-magazine.com/2026/11/11/outcome-pending-on-polysilicon-action/",
-     "pubDate": "Wed, 11 Nov 2026 05:00:00 +0000",
-     "summary": "China’s polysilicon output fell to around 105,000 metric tons (MT) in October, according to the Silicon Branch of the China Nonferrous Metals Industry Association. This was down from 120,400 MT in September, following three consecutive months of... The post Outcome pending on polysilicon action appe",
-     "source": "pv magazine",
-     "zh": "Outcome pending on polysilicon action"
     },
     {
      "title": "BYD Commercial Vehicle Sales Rise 68% in October!",
@@ -1105,6 +1105,38 @@
    "total": 7,
    "items": [
     {
+     "title": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools",
+     "link": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
+     "pubDate": "Wed, 11 Nov 2026 09:30:00 +0000",
+     "summary": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots.",
+     "source": "STAT News",
+     "zh": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools"
+    },
+    {
+     "title": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal",
+     "link": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
+     "pubDate": "Wed, 11 Nov 2026 09:30:00 +0000",
+     "summary": "Federal health officials granted blanket ethics waivers to USPSTF panel members, some of whom own pharma stocks and private medical practices.",
+     "source": "STAT News",
+     "zh": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal"
+    },
+    {
+     "title": "A new tactic in the war over out-of-network bills: Health care providers are suing employers",
+     "link": "https://www.statnews.com/2026/11/11/no-surprises-act-phi-health-air-ambulance-sues-employers/?utm_campaign=rss",
+     "pubDate": "Wed, 11 Nov 2026 09:30:00 +0000",
+     "summary": "Providers increasingly are suing employers, claiming they are responsible for out-of-network medical bills that insurers haven’t fully paid or have delayed paying.",
+     "source": "STAT News",
+     "zh": "A new tactic in the war over out-of-network bills: Health care providers are suing employers"
+    },
+    {
+     "title": "Opinion: Low-income parents can’t afford to take chances with nutritious food their picky eaters might reject",
+     "link": "https://www.statnews.com/2026/11/11/picky-eating-kids-low-income-families-snap-wic/?utm_campaign=rss",
+     "pubDate": "Wed, 11 Nov 2026 09:30:00 +0000",
+     "summary": "“Children's food refusals come at a cost — one that few cash-strapped families can afford,” experts write.",
+     "source": "STAT News",
+     "zh": "Opinion: Low-income parents can’t afford to take chances with nutritious food their picky eaters might reject"
+    },
+    {
      "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
      "link": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
      "pubDate": "Tue, 10 Nov 2026 23:55:00 +0000",
@@ -1153,14 +1185,6 @@
      "zh": "Oura to buy AI care startup Counsel Health for $625M"
     },
     {
-     "title": "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug",
-     "link": "https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/?utm_campaign=rss",
-     "pubDate": "Tue, 10 Nov 2026 18:04:30 +0000",
-     "summary": "A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claiming the company was inappropriately promoting its Mounjaro diabetes drug to combat weight loss.",
-     "source": "STAT News",
-     "zh": "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug"
-    },
-    {
      "title": "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years",
      "link": "https://www.genengnews.com/topics/cancer/how-breast-cancer-chemotherapy-may-impact-biological-aging-and-loss-of-healthy-life-years/",
      "pubDate": "Tue, 10 Nov 2026 17:26:51 +0000",
@@ -1169,28 +1193,12 @@
      "zh": "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years"
     },
     {
-     "title": "STAT+: Men’s use of chatbots for therapy, and earnings season highlights",
-     "link": "https://www.statnews.com/2026/11/10/chatbots-for-men-and-earnings-highlights-health-tech/?utm_campaign=rss",
-     "pubDate": "Tue, 10 Nov 2026 17:18:42 +0000",
-     "summary": "In this edition of STAT Health Tech: Growing optimism around chatbots and men who avoid therapy, and highlights from the earnings season.",
-     "source": "STAT News",
-     "zh": "STAT+: Men’s use of chatbots for therapy, and earnings season highlights"
-    },
-    {
      "title": "Democrats ramp up oversight of MFN deals after midterm wins",
      "link": "https://endpoints.news/democrats-ramp-up-oversight-of-mfn-deals-after-midterm-wins/",
      "pubDate": "Tue, 10 Nov 2026 17:17:29 +0000",
      "summary": "Congressional Democrats on Monday sent new requests to all pharmaceutical companies that have struck drug pricing deals with the Trump administration to share the unredacted versions of their agreements, a source familiar with the communications ...",
      "source": "Endpoints News",
      "zh": "Democrats ramp up oversight of MFN deals after midterm wins"
-    },
-    {
-     "title": "STAT+: Oura to acquire Counsel Health for $625 million, placing a big bet on AI care",
-     "link": "https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/?utm_campaign=rss",
-     "pubDate": "Tue, 10 Nov 2026 17:14:42 +0000",
-     "summary": "Oura, the smart ring maker that recently delayed plans to go public, said it will pay $625 million to acquire Counsel Health, a clinical AI startup.",
-     "source": "STAT News",
-     "zh": "STAT+: Oura to acquire Counsel Health for $625 million, placing a big bet on AI care"
     },
     {
      "title": "Beam’s base editing therapy for sickle cell hits goal in pivotal trial",
@@ -1255,14 +1263,6 @@
      "summary": "Plus news about Coherus Oncology, JW Therapeutics and PsiThera. PepGen’s positive mid-stage results in DM1: PepGen said its oligonucleotide therapy PGN-EDODM1 showed positive early signals in a cohort of Phase 2 patients with myotonic dystrophy ...",
      "source": "Endpoints News",
      "zh": "PepGen's oligo succeeds in Phase 2; Ionis' and ImmunityBio's stocks sag"
-    },
-    {
-     "title": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk",
-     "link": "https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/?utm_campaign=rss",
-     "pubDate": "Tue, 10 Nov 2026 14:38:29 +0000",
-     "summary": "The FDA warned that GLP-1 drugs carry a potential risk of a rare but serious eye condition sometimes referred to as an “eye stroke.”",
-     "source": "STAT News",
-     "zh": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk"
     },
     {
      "title": "London biotech Oyster harvests $60M for tau-targeting brain drugs",
@@ -1769,6 +1769,38 @@
    "total": 18,
    "items": [
     {
+     "title": "长城汽车法务部：有批量账号以组织化方式实施恶意攻击行为，将依法追究相关主体的法律责任",
+     "link": "https://www.ithome.com/1/025/631.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:43:31 GMT",
+     "summary": "IT之家 11 月 11 日消息，长城汽车谭健今日发文曝光，魏牌二代蓝山车型遭到水军攻击： 同一个主贴，相同到秒的时间，几乎相同的评论； 同样的时间，同一个链接下面，几乎一样的评论； 同样的内容，同样的账号，集中时间发布内容。 IT之家注意到，长城汽车法务部随后转发该微博，并表示始终尊重每一位消费者的真实评价与合理建议；但对于此类有组织的恶意诋毁行为，绝不姑息，必将依法追究相关主体的法律责任。 近期，国家相关部委持续推进“清朗行动”、“净网行动”、“深化扫黑除恶专项斗争”等专项行动，但在高压整治背景下， 仍有批量账号以组织化方式实施恶意攻击行为 。 魏牌二代蓝山发布周期内，发现有大量账号在同一",
+     "source": "IT之家",
+     "zh": "长城汽车法务部：有批量账号以组织化方式实施恶意攻击行为，将依法追究相关主体的法律责任"
+    },
+    {
+     "title": "人民空军成立 77 周年：AI 微电影《明日之翼》首播，空天母舰等未来空战装备集群亮相",
+     "link": "https://www.ithome.com/1/025/624.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:41:21 GMT",
+     "summary": "IT之家 11 月 11 日消息，今天是人民空军成立 77 周年，AI 微电影《明日之翼》正式播出。 IT之家查询获悉，影片采用实拍与 AIGC 深度融合的制作方式， 以面向未来的科幻视角，呈现未来空战装备集群 ，包括：统筹指挥无人僚机编组作战的“惊鸿”、发射兆瓦级激光光束的“烛龙”、集群出击的“玄蜂”，以及空天母舰、等离子护盾...... IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
+     "source": "IT之家",
+     "zh": "人民空军成立 77 周年：AI 微电影《明日之翼》首播，空天母舰等未来空战装备集群亮相"
+    },
+    {
+     "title": "AMD 宣布 EPYC 9006 SP7 处理器上市发货，支持 16 通道 DDR5 内存",
+     "link": "https://www.ithome.com/1/025/621.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:38:07 GMT",
+     "summary": "IT之家 11 月 11 日消息，AMD 当地时间 10 日宣布，EPYC 9006 家族首个成员 9006 SP7 现已上市发货。该系列 支持 8 个 32 核 Zen6c CCD 或 8 个 12 核 Zen6 CCD ，分别可扩展至 256 核心与 96 核心，默认功耗可达 600W。 EPYC 9006 SP7 支持 16 通道 DDR5 内存 ，搭配 RDIMM 时支持 8000MT/s，搭配 MRDIMM 时支持 12800MT/s，允许 1DPC 配置，单插槽最大内存容量为 8TB。 EPYC 9006 SP7 处理器支持单路与双路，单路下可提供 96 条 PCIe Gen6 通",
+     "source": "IT之家",
+     "zh": "AMD 宣布 EPYC 9006 SP7 处理器上市发货，支持 16 通道 DDR5 内存"
+    },
+    {
+     "title": "三星与 AMD 合作升级半导体测试系统，引入 Zen6 架构 EPYC 嵌入式 9006 系列 SP7 处理器",
+     "link": "https://www.ithome.com/1/025/619.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:30:26 GMT",
+     "summary": "IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）凌晨发布了 霄龙（EPYC）嵌入式 9006 系列 SP7 处理器 ，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。 三星电子宣布与 AMD 合作，提升下一代半导体制造测试基础设施的性能。 此次合作旨在将三星电子的先进内存解决方案与 AMD 高性能处理器结合 ，快速处理半导体测试过程中产生的海量数据，提升计算效率。 此次合作涉及将三星电子的 DDR5 RDIMM 和 MRDIMM 内存、基于",
+     "source": "IT之家",
+     "zh": "三星与 AMD 合作升级半导体测试系统，引入 Zen6 架构 EPYC 嵌入式 9006 系列 SP7 处理器"
+    },
+    {
      "title": "神龙科技与字节火山引擎全面战略合作，全新新能源车型将搭载最新一代 AI 座舱解决方案",
      "link": "https://www.ithome.com/1/025/618.htm",
      "pubDate": "Wed, 11 Nov 2026 09:28:29 GMT",
@@ -1793,28 +1825,12 @@
      "zh": "九阳净利润大跌近75%，它的美国“亲戚”怎么越赚越多？"
     },
     {
-     "title": "微软 Project Zenith 正式上线，为 AMD 锐龙 AI Halo 带来开箱即用编程体验",
-     "link": "https://www.ithome.com/1/025/613.htm",
-     "pubDate": "Wed, 11 Nov 2026 09:17:46 GMT",
-     "summary": "IT之家 11 月 11 日消息，AMD 当地时间 9 日宣布，Microsoft（微软）Project Zenith 率先登陆基于锐龙 AI Max+ PRO 495 处理器的新一代锐龙 AI Halo 开发者平台，其它锐龙 AI Max 设备也即将支持。 Project Zenith 将强大的开发者级硬件与预配置的 Windows 环境相结合， 旨在帮助开发者更快地进入实际工作 。其预装了涵盖各种语言和运行时环境的常用开发工具、源代码控制工具以及生产力工具，还配置了旨在创建优化开发环境的 Windows 设置。 而在 Project Zenith 的基础上，AMD 还为锐龙 AI Halo",
-     "source": "IT之家",
-     "zh": "微软 Project Zenith 正式上线，为 AMD 锐龙 AI Halo 带来开箱即用编程体验"
-    },
-    {
      "title": "政府补贴“共享儿女”，多地探索",
      "link": "https://www.huxiu.com/article/4904770.html?f=rss",
      "pubDate": "Wed, 11 Nov 2026 17:17:26 +0800",
      "summary": "本文来自微信公众号： 界面新闻 ，作者：赵孟 最近，长沙市芙蓉区文艺路街道推出的“共享儿女”居家养老服务引发舆论热议。老人月付199元起，就能请人上门保洁、陪诊、助浴，街道主导、专业机构运营，被称为“国内首个街道背书的共享儿女项目”。 界面新闻记者梳理发现，此类项目并非长沙独有。这种由政府补贴加老人自付、市场化机构上门服务的养老服务模式，目前已在全国多地铺开。差异只在资金来源：长沙的项目由地方财政试点经费支持，而2026年1月1日起在全国推开的中度以上失能老人养老服务消费券，则由中央和地方财政共担。但两者服务内容类似，都涵盖助餐、助洁、助医、陪诊、情感陪伴等。 这项政策设计的初衷，除了完善失能",
      "source": "虎嗅",
      "zh": "政府补贴“共享儿女”，多地探索"
-    },
-    {
-     "title": "国内首个具身智能压力表全自动检定装置研发成功：效率提升 3.5 倍以上，中国石化牵头",
-     "link": "https://www.ithome.com/1/025/612.htm",
-     "pubDate": "Wed, 11 Nov 2026 09:15:18 GMT",
-     "summary": "IT之家 11 月 11 日消息，中国石化今日宣布，近日，中国石化牵头成功研发国内首个具身智能压力表全自动检定装置。 据介绍，压力表是工业生产中感知压力的关键终端，在石油石化装置区几乎每条管线、每台机泵都装有指针压力表，示值准确直接关系生产本质安全。 据统计，天津石化全厂在用压力表约 2 万台，遍布全部装置区， 人工检定 4 块表一般需要 20 分钟左右 ， 且易产生误差 ，如何快速、准确地完成检定对装置安全平稳运行意义重大。 该装置可同时完成 4 块指针压力表全流程检定并生成检定证书， 全程只需 5 至 6 分钟 ，大幅提升工作效率，标志着指针压力表检定从“人测”走向“机测”。 这套装置把机",
-     "source": "IT之家",
-     "zh": "国内首个具身智能压力表全自动检定装置研发成功：效率提升 3.5 倍以上，中国石化牵头"
     },
     {
      "title": "上纬新材押注机器人：股价创历史新高，市值突破950亿，第三季度研发暴增23倍",
@@ -1849,26 +1865,10 @@
      "zh": "AI替掉的人，又被高价请了回来"
     },
     {
-     "title": "华为鸿蒙 HarmonyOS 7 (API 26.0.1)Developer Beta 开启定向招募，Mate 80 Pro 等机型可报名",
-     "link": "https://www.ithome.com/1/025/611.htm",
-     "pubDate": "Wed, 11 Nov 2026 09:10:12 GMT",
-     "summary": "IT之家 11 月 11 日消息， 华为鸿蒙 HarmonyOS 开发套件 26.0.1 Beta1 今日正式发布 ，该版本为 26.0.0 的增量版本，仅供对新增特性有需求的开发者尝鲜使用。 IT之家注意到， 华为开发者联盟已开启 HarmonyOS 7 (API 26.0.1)Developer Beta 定向招募 。开发者可通过活动提前获取版本体验新能力，开展应用开发、适配与调测，并反馈使用过程中的问题。 需要注意的是，本次活动仅面向开发者开放，优先面向已上架鸿蒙应用的开发者招募。本次活动仅支持在中国大陆使用且符合基线版本的以下机型： HUAWEI Mate 80 Pro HUAWEI ",
-     "source": "IT之家",
-     "zh": "华为鸿蒙 HarmonyOS 7 (API 26.0.1)Developer Beta 开启定向招募，Mate 80 Pro 等机型可报名"
-    },
-    {
-     "title": "IDC：上半年中国液冷服务器收入同比增长 153.1%，开始按“柜”交付",
-     "link": "https://www.ithome.com/1/025/599.htm",
-     "pubDate": "Wed, 11 Nov 2026 09:09:19 GMT",
-     "summary": "IT之家 11 月 11 日消息，IDC 今日发布报告称，过去两年，中国液冷服务器市场快速增长。IDC 中国液冷服务器追踪显示， 2026 年上半年中国液冷服务器市场厂商收入同比增长 153.1%，未来五年出货量年均复合增长率预计接近 49% 。 但比增速更值得注意的，是采购端正在发生的变化：越来越多高密度算力项目不再以“台”为单位选型，而是把计算节点、节点间互联、供电和柜内液冷配套作为一整套系统配置和交付。 机柜，正在从机房里的物理容器，变成算力采购的交付单元。 当整柜成为交付单元，服务器厂商交付的是一套已集成的系统，数据中心承接的也不再是若干台设备，而是一组对供电、冷却和接口条件有明确要求",
-     "source": "IT之家",
-     "zh": "IDC：上半年中国液冷服务器收入同比增长 153.1%，开始按“柜”交付"
-    },
-    {
      "title": "OSS projects banning AI-generated contributions",
      "link": "https://osssaysno.com",
      "pubDate": "Wed, 11 Nov 2026 08:51:45 +0000",
-     "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://osssaysno.com Comments URL: https://news.ycombinator.com/item?id=50451102 Points: 41 # Comments: 41",
      "source": "Hacker News",
      "zh": "OSS projects banning AI-generated contributions"
     },
@@ -1903,6 +1903,14 @@
      "summary": "China’s first AI-assisted theatrical film posted weak box office just as Shengshu Technology prepares a Hong Kong listing. The company is strong in controllable video generation and is reframing itself as a world-model play. Investors are asking for revenue, not demos.",
      "source": "钛媒体",
      "zh": "Shengshu’s First AI Feature Film Misses the Mark as Its Hong Kong IPO Nears"
+    },
+    {
+     "title": "CERN 如何为 LHC 研发下一代磁体",
+     "link": "https://www.solidot.org/story?sid=85856",
+     "pubDate": "Wed, 11 Nov 2026 16:20:35 +0800",
+     "summary": "CERN 的大强子对撞机（LHC）利用极其强大的磁体，使粒子接近光速发生碰撞，将粒子撞碎成更小的组成部分以供研究。当前状态下的 LHC 每秒能让约 60 个粒子发生碰撞，碰撞频率高达每秒 4000 万次。这一能力已经促成了本世纪粒子物理学领域一些最重要的发现。CERN 的科学家并没有止步。他们正对 LHC 进行升级，为计划于 2030&nbsp; 年之后开始的实验做准备。新一代粒子对撞机被称为高亮度大型强子对撞机（High-Luminosity LHC 或 HL-LHC），高亮度指的是粒子碰撞数量的增加。CERN 的目标是每次实验将碰撞涉及的粒子数量提高到 140-200 个，增加观测到罕见粒",
+     "source": "Solidot",
+     "zh": "CERN 如何为 LHC 研发下一代磁体"
     },
     {
      "title": "VR pioneer Jaron Lanier says Silicon Valley is sabotaging itself by poorly pitching AI and treating areas designated for data centers as sacrifice zones (Jaron Lanier/New York Times)",
@@ -1999,14 +2007,6 @@
      "summary": "我们做欧洲独立站，德国和法国是主力市场，卖的是家居收纳类目，月均订单 4000 单左右，团队一共 6 个人，其中负责站点运营和合规的只有 2 个人。上个月按 GDPR 要求把 Cookie 同意弹窗从默认勾选改成分类授权，德国站加购率从 8.2% 掉到 6.9%，法国站也掉了约 1 个百分点。已经试过把弹窗文案改短、把“全部接受”按钮做得更显眼，但转化没回来，又担心改过头被投诉。现在卡在排期上：两个人既要盯投放素材又要处理同意日志留存，根本抽不出时间做 A/B 测试。想请教像我们这种人力的团队，是优先改弹窗交互还是先补同意记录的技术方案，判断标准是什么？",
      "source": "白鲸出海",
      "zh": "欧洲独立站 Cookie 同意弹窗改版后，只有 2 个人怎么排期才能不拖累转化？"
-    },
-    {
-     "title": "AMD 公布 Zen 6 CPU 细节",
-     "link": "https://www.solidot.org/story?sid=85852",
-     "pubDate": "Wed, 11 Nov 2026 14:25:09 +0800",
-     "summary": "AMD 披露了 Zen 6 CPU 家族的细节。从表面看，Zen 6 是 Zen 5 的自然演进，核心扩展了乱序执行结构以及其它方面的迭代改进。但深入内部会发现 AMD 对核心的多个方面进行了重构，其改进类似从 Zen 1 到 Zen 2。 Zen 6 分支预测错误开销从 Zen 5 的 3.5-4 纳秒缩短到了 3-3.5 纳秒，降低了分支预测错误延迟。Zen 6 能在 L1 指令缓存内实现每周期处理 2 个分支，指令足迹超出 L1 缓存容量后会降至每周期处理 1 个分支，Zen 6 主要提升了分支目标缓冲器（BTB）的速度而非容量。Zen 6 的分支预测单元精确度接近 Zen 5，执行速度",
-     "source": "Solidot",
-     "zh": "AMD 公布 Zen 6 CPU 细节"
     }
    ]
   },
@@ -2016,6 +2016,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iFixit teardown reveals the tech behind the MacBook PROLED's light up Apple logo",
+     "link": "https://www.gsmarena.com/ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434.php",
+     "pubDate": "Wed, 11 Nov 2026 10:37:02 +0100",
+     "summary": "Apple's new MacBook Pros made headlines mostly because they're the first to use OLED technology and the first to be touch-enabled. But they're also lighter and bring back the glowing Apple logo, both notable improvements among Apple faithfuls. The touchscreen MacBook Pro PROLED weighs 1.82kg, down f",
+     "source": "GSMArena",
+     "zh": "iFixit teardown reveals the tech behind the MacBook PROLED's light up Apple logo"
+    },
     {
      "title": "Samsung’s Galaxy Enhance-X editing app is getting an overhaul in One UI 9.5",
      "link": "https://www.androidauthority.com/samsung-galaxy-enhance-x-one-ui-9-5-3733756/",
@@ -2145,14 +2153,6 @@
      "zh": "Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro"
     },
     {
-     "title": "Poco X8s is now available in Europe, here's how much it costs",
-     "link": "https://www.gsmarena.com/poco_x8s_is_now_available_in_europe_heres_how_much_it_costs-news-75427.php",
-     "pubDate": "Wed, 11 Nov 2026 02:01:02 +0100",
-     "summary": "Poco launched the Poco X8s back in late October, and today the compact handset is making its way to Europe, starting with Germany. It's also the first phone in the X series to have a telephoto camera - not even the X8 Pro and X8 Pro Max can boast that. [#InlinePriceWidget,15038,1#] In case you need ",
-     "source": "GSMArena",
-     "zh": "Poco X8s is now available in Europe, here's how much it costs"
-    },
-    {
      "title": "What is the average lifespan of recordable Blu-ray discs?",
      "link": "https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs/",
      "pubDate": "Wed, 11 Nov 2026 01:00:00 +0000",
@@ -2265,20 +2265,44 @@
    "total": 13,
    "items": [
     {
+     "title": "Stock futures rise as CoreWeave results boost tech sector",
+     "link": "https://seekingalpha.com/news/4670517-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 04:40:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stock futures rise as CoreWeave results boost tech sector"
+    },
+    {
+     "title": "Neocloud stocks surge as CoreWeave's outlook eases AI spending concerns",
+     "link": "https://seekingalpha.com/news/4670515-neocloud-stocks-surge-as-coreweaves-outlook-eases-ai-spending-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 04:38:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Neocloud stocks surge as CoreWeave's outlook eases AI spending concerns"
+    },
+    {
+     "title": "ASOS shares rise as GXO extends logistics partnership to 2034",
+     "link": "https://seekingalpha.com/news/4670516-asos-shares-rise-as-gxo-extends-logistics-partnership-to-2034?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 04:35:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ASOS shares rise as GXO extends logistics partnership to 2034"
+    },
+    {
+     "title": "CoreWeave stock pops 13% after outlook raise eases AI slowdown concerns",
+     "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+     "pubDate": "Wed, 11 Nov 2026 09:34:18 GMT",
+     "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+     "source": "CNBC",
+     "zh": "CoreWeave stock pops 13% after outlook raise eases AI slowdown concerns"
+    },
+    {
      "title": "European stocks advance as investors read inflation, oil and AI developments",
      "link": "https://seekingalpha.com/news/4670501-european-stocks-advance-as-investors-read-inflation-oil-and-ai-developments?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 11 Nov 2026 04:23:38 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "European stocks advance as investors read inflation, oil and AI developments"
-    },
-    {
-     "title": "CoreWeave stock pops 13% after outlook raise eases AI slowdown concerns",
-     "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-     "pubDate": "Wed, 11 Nov 2026 09:18:44 GMT",
-     "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
-     "source": "CNBC",
-     "zh": "CoreWeave stock pops 13% after outlook raise eases AI slowdown concerns"
     },
     {
      "title": "Fed Speak: Goolsbee calls CPI 'borderline disturbing,' Paulson backs gradual tightening",
@@ -2305,14 +2329,6 @@
      "zh": "CoreWeave’s stock pops as new financing playbook eases debt concerns"
     },
     {
-     "title": "The Tel-Aviv Stock Exchange reports Q3 results",
-     "link": "https://seekingalpha.com/news/4670512-the-tel-aviv-stock-exchange-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 04:08:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "The Tel-Aviv Stock Exchange reports Q3 results"
-    },
-    {
      "title": "中国市场承压，日产再降全年销量预期",
      "link": "https://wallstreetcn.com/articles/3785551",
      "pubDate": "Wed, 11 Nov 2026 17:06:13 +0800",
@@ -2327,14 +2343,6 @@
      "summary": "美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。 美股盘前，CoreWeave一度暴涨17%，公司三季度营收超预期并上调全年营收指引。 存储芯片股普涨，SK海力士涨约7%，闪迪涨约7%。光通信股股普涨，Coherent涨约9%，Credo涨约8%，Lumentum涨约8%。美股三大股指期货均上涨，纳斯达克100指数期货涨1.6%，标普500指数期货涨0.7%，道指期货涨0.2%。 欧洲市场同步走强，斯托克600指数上涨0.7%，科技与矿业板",
      "source": "华尔街见闻",
      "zh": "AI交易回暖，美股盘前存储芯片股、光通信股普涨，CoreWeave暴涨17%，油价止跌"
-    },
-    {
-     "title": "Worksport GAAP EPS of -$0.26 misses by $0.02, revenue of $7.23M misses by $5.27M",
-     "link": "https://seekingalpha.com/news/4670511-worksport-gaap-eps-of--026-misses-by-002-revenue-of-723m-misses-by-527m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 03:55:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Worksport GAAP EPS of -$0.26 misses by $0.02, revenue of $7.23M misses by $5.27M"
     },
     {
      "title": "“过剩交易”卷土重来！摩根大通：美伊若达成协议，布油或跌至70美元中段",
@@ -2399,14 +2407,6 @@
      "summary": "英伟达下一代AI芯片架构所催生的共封装光学（CPO）需求，正推动光学通信行业进入一个规模远超当前预期的新增长周期。 据追风交易台消息，据伯恩斯坦分析师Daniel Zhu在最新研报中测算，基于Coherent披露的每100 Tbps芯片对应1.5万美元内容价值这一数据， 一个8机架Rubin Ultra计算集群（Pod）所产生的光学内容机会约达540万美元，较此前Vera Rubin NVL72架构下约100万美元的规模扩大逾5倍。 结合伯恩斯坦亚洲半导体团队（Mark Li）的出货量预测，这意味着Coherent在英伟达Rubin Ultra平台上的市场机会2027年约为94亿美元，2028",
      "source": "华尔街见闻",
      "zh": "英伟达Rubin Ultra将催生多少CPO需求？伯恩斯坦：单Pod光学价值量翻5倍"
-    },
-    {
-     "title": "Sunrise Communications GAAP EPS of CHF 0.00, revenue of CHF 732M; reaffirms FY2026 outlook",
-     "link": "https://seekingalpha.com/news/4670509-sunrise-communications-gaap-eps-of-chf-000-revenue-of-chf-732m-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 03:32:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sunrise Communications GAAP EPS of CHF 0.00, revenue of CHF 732M; reaffirms FY2026 outlook"
     },
     {
      "title": "离岸信托收益征税平稳有序推进 累计申报离岸信托个人所得税超1600亿元",

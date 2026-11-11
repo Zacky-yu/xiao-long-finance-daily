@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/11 17:12:04",
+ "generated_at": "2026/11/11 17:18:01",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
      "source": "OpenAI",
      "zh": "Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+     "title": "推理成本降78%，API成本降97%，北大系创企开源4B上下文压缩模型",
+     "link": "https://zhidx.com/p/609168.html",
+     "pubDate": "Wed, 11 Nov 2026 17:06:03 +0800",
+     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西11月11日报道，今日，孵化自北京大学软件工程研究所的AI编程创企硅心科技（aiXcoder）开源 上下文压缩专用模型aiXcompact-4B 。该模型主要面向编程Agent的长程复杂研发任务场景，参数量仅 4B ， 支持单张A100-40GB显卡私有化部署 。 aiXcompact-4B进行上下文压缩时，能够针对编程Agent的历史轨迹进行结构化处理： 保留 关键原始信息， 精简 文件读取、代码搜索和测试运行等工具返回结果， 删除 重复或失去参考价值的中间记录，并 生成结构化任务摘要 ，以较低成本减少后续重复输入带来的Token开销。 根据",
+     "source": "智东西",
+     "zh": "推理成本降78%，API成本降97%，北大系创企开源4B上下文压缩模型"
     },
     {
      "title": "ChatGPT Plus for veterans and servicemembers",
@@ -47,6 +55,30 @@
      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
      "source": "TechCrunch AI",
      "zh": "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
+    },
+    {
+     "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+     "link": "https://www.qbitai.com/2026/11/509146.html",
+     "pubDate": "Wed, 11 Nov 2026 06:41:26 +0000",
+     "summary": "价格、门槛全打穿",
+     "source": "量子位",
+     "zh": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替"
+    },
+    {
+     "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+     "link": "https://www.qbitai.com/2026/11/509088.html",
+     "pubDate": "Wed, 11 Nov 2026 06:27:03 +0000",
+     "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+     "source": "量子位",
+     "zh": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题"
+    },
+    {
+     "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+     "link": "https://www.qbitai.com/2026/11/509085.html",
+     "pubDate": "Wed, 11 Nov 2026 06:18:09 +0000",
+     "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+     "source": "量子位",
+     "zh": "卷起来了！11月11日，大模型厂商在天猫打5折"
     },
     {
      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -111,6 +143,14 @@
      "summary": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared f",
      "source": "MarkTechPost",
      "zh": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms"
+    },
+    {
+     "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+     "link": "https://www.qbitai.com/2026/11/509052.html",
+     "pubDate": "Wed, 11 Nov 2026 03:43:31 +0000",
+     "summary": "L4无人化作业走向规模交付",
+     "source": "量子位",
+     "zh": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光"
     },
     {
      "title": "奇袭Claude！谷歌Gemini新旗舰全面上线，一夜复刻OpenCode桌面应用",
@@ -207,46 +247,6 @@
      "summary": "Learn, in a few easy steps, how to build a two-stage scikit-learn pipeline for multilingual text classification, guided by two pre-trained language models handled by Scikit-LLM for translation and zero-shot classification.",
      "source": "KDnuggets",
      "zh": "Integrating LLM Translation into Your Scikit-Learn Pipelines with Scikit-LLM"
-    },
-    {
-     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
-     "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
-     "pubDate": "Tue, 10 Nov 2026 14:59:09 +0000",
-     "summary": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Sa",
-     "source": "MarkTechPost",
-     "zh": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards"
-    },
-    {
-     "title": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank",
-     "link": "https://www.kdnuggets.com/5-techniques-for-fine-tuning-llms-without-breaking-the-bank",
-     "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
-     "summary": "Learn five practical ways to fine-tune LLMs on a budget, from LoRA and QLoRA to Unsloth, DPO, and right-sizing your GPU, with working code for each technique.",
-     "source": "KDnuggets",
-     "zh": "5 Techniques for Fine-Tuning LLMs Without Breaking the Bank"
-    },
-    {
-     "title": "苹果开卖334元AI“加油包”，额度不详，仅面向已订阅创作套件用户",
-     "link": "https://zhidx.com/p/608931.html",
-     "pubDate": "Tue, 10 Nov 2026 20:05:35 +0800",
-     "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月10日消息，11月9日，据科技媒体9to5Mac报道，苹果已针对其软件内置的AI助手 上线AI用量包 （Intelligence Usage Packs），在音乐制作软件Logic Pro中率先提供购买入口， 售价49.99美元（约合人民币334元） 。 ▲Logic Pro用量页面（图源：9to5Mac） Logic Pro内置的AI助手可以 根据自然语言指令创建音轨 、添加效果器、移动音乐片段，也能回答压缩器使用、乐器录音等音乐制作问题。它可以 直接执行部分软件操作 ，具备一定的Agent能力。 这款AI用量包面向 持有有效Apple ",
-     "source": "智东西",
-     "zh": "苹果开卖334元AI“加油包”，额度不详，仅面向已订阅创作套件用户"
-    },
-    {
-     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-     "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "pubDate": "Tue, 10 Nov 2026 12:02:28 +0000",
-     "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-     "source": "DeepMind",
-     "zh": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
-    },
-    {
-     "title": "Helping caregivers use AI in everyday life",
-     "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-     "pubDate": "Tue, 10 Nov 2026 12:00:00 GMT",
-     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-     "source": "OpenAI",
-     "zh": "Helping caregivers use AI in everyday life"
     }
    ]
   },
@@ -1769,6 +1769,30 @@
    "total": 18,
    "items": [
     {
+     "title": "国内首个具身智能压力表全自动检定装置研发成功：效率提升 3.5 倍以上，中国石化牵头",
+     "link": "https://www.ithome.com/1/025/612.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:15:18 GMT",
+     "summary": "IT之家 11 月 11 日消息，中国石化今日宣布，近日，中国石化牵头成功研发国内首个具身智能压力表全自动检定装置。 据介绍，压力表是工业生产中感知压力的关键终端，在石油石化装置区几乎每条管线、每台机泵都装有指针压力表，示值准确直接关系生产本质安全。 据统计，天津石化全厂在用压力表约 2 万台，遍布全部装置区， 人工检定 4 块表一般需要 20 分钟左右 ， 且易产生误差 ，如何快速、准确地完成检定对装置安全平稳运行意义重大。 该装置可同时完成 4 块指针压力表全流程检定并生成检定证书， 全程只需 5 至 6 分钟 ，大幅提升工作效率，标志着指针压力表检定从“人测”走向“机测”。 这套装置把机",
+     "source": "IT之家",
+     "zh": "国内首个具身智能压力表全自动检定装置研发成功：效率提升 3.5 倍以上，中国石化牵头"
+    },
+    {
+     "title": "华为鸿蒙 HarmonyOS 7 (API 26.0.1)Developer Beta 开启定向招募，Mate 80 Pro 等机型可报名",
+     "link": "https://www.ithome.com/1/025/611.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:10:12 GMT",
+     "summary": "IT之家 11 月 11 日消息， 华为鸿蒙 HarmonyOS 开发套件 26.0.1 Beta1 今日正式发布 ，该版本为 26.0.0 的增量版本，仅供对新增特性有需求的开发者尝鲜使用。 IT之家注意到， 华为开发者联盟已开启 HarmonyOS 7 (API 26.0.1)Developer Beta 定向招募 。开发者可通过活动提前获取版本体验新能力，开展应用开发、适配与调测，并反馈使用过程中的问题。 需要注意的是，本次活动仅面向开发者开放，优先面向已上架鸿蒙应用的开发者招募。本次活动仅支持在中国大陆使用且符合基线版本的以下机型： HUAWEI Mate 80 Pro HUAWEI ",
+     "source": "IT之家",
+     "zh": "华为鸿蒙 HarmonyOS 7 (API 26.0.1)Developer Beta 开启定向招募，Mate 80 Pro 等机型可报名"
+    },
+    {
+     "title": "IDC：上半年中国液冷服务器收入同比增长 153.1%，开始按“柜”交付",
+     "link": "https://www.ithome.com/1/025/599.htm",
+     "pubDate": "Wed, 11 Nov 2026 09:09:19 GMT",
+     "summary": "IT之家 11 月 11 日消息，IDC 今日发布报告称，过去两年，中国液冷服务器市场快速增长。IDC 中国液冷服务器追踪显示， 2026 年上半年中国液冷服务器市场厂商收入同比增长 153.1%，未来五年出货量年均复合增长率预计接近 49% 。 但比增速更值得注意的，是采购端正在发生的变化：越来越多高密度算力项目不再以“台”为单位选型，而是把计算节点、节点间互联、供电和柜内液冷配套作为一整套系统配置和交付。 机柜，正在从机房里的物理容器，变成算力采购的交付单元。 当整柜成为交付单元，服务器厂商交付的是一套已集成的系统，数据中心承接的也不再是若干台设备，而是一组对供电、冷却和接口条件有明确要求",
+     "source": "IT之家",
+     "zh": "IDC：上半年中国液冷服务器收入同比增长 153.1%，开始按“柜”交付"
+    },
+    {
      "title": "本田逐步减少电动汽车投入，转而投 30 亿美元发展混动车型",
      "link": "https://www.ithome.com/1/025/609.htm",
      "pubDate": "Wed, 11 Nov 2026 09:08:39 GMT",
@@ -1791,30 +1815,6 @@
      "summary": "IT之家 11 月 11 日消息，埃隆 · 马斯克（Elon Musk）表示，在获准运营的地区，特斯拉 Cybercab 未来将承担“大部分乘客出行里程”。他还直言，这一点对“任何有眼睛和头脑的人来说都是显而易见的”。 IT之家注意到，马斯克发表这番言论，是在进一步强调特斯拉此前决定停产 Cybertruck、将其生产空间转为 Cybercab 生产线的决定。这一调整已经在特斯拉社区引发了激烈争论，支持者和反对者各执一词。 但无论你站在哪一边，这件事都已经成为现实。 从马斯克近期的表态来看，他似乎也不想再反复讨论这一决定。不得不承认，这对他本人和特斯拉而言，或许都是一个相当艰难的选择，并非经过",
      "source": "IT之家",
      "zh": "马斯克力挺特斯拉 Cybercab：其发展前景明眼人都能看懂"
-    },
-    {
-     "title": "消息称大众安徽 2027 至 2028 年暂无新车规划",
-     "link": "https://www.ithome.com/1/025/606.htm",
-     "pubDate": "Wed, 11 Nov 2026 09:05:07 GMT",
-     "summary": "IT之家 11 月 11 日消息，据路透社报道，两位知情人士透露，大众汽车在华电动汽车合资公司大众安徽尚未为 2027 年或 2028 年规划任何新车型。 一位知情人士表示，大众安徽管理层此前认为， 现有产品阵容足以支撑该品牌立足并推动销售直至 2028 年 。 此外，大众安徽此前曾考虑在 2028 年推出一款 CUV（以轿车底盘为平台的多用途跨界车型），但目前该项目已被搁置。 大众汽车中国在发给该媒体的声明中表示， 公司正专注于“扩充并优化”大众安徽的经销商网络 ，以触达更多客户并实现可持续发展；大众方面拒绝就产品战略问题置评。 目前，大众安徽已推出四款车型，分别为与众 06、07、08、0",
-     "source": "IT之家",
-     "zh": "消息称大众安徽 2027 至 2028 年暂无新车规划"
-    },
-    {
-     "title": "度小满、蚂蚁科技、腾讯、京东科技、抖音等参加互联网贷款自律相关会议，筹备成立工作委员会",
-     "link": "https://www.ithome.com/1/025/604.htm",
-     "pubDate": "Wed, 11 Nov 2026 08:58:44 GMT",
-     "summary": "IT之家 11 月 11 日消息，据中国互联网金融协会今日消息，11 月 6 日，中国互联网金融协会互联网贷款自律工作委员会筹备组第三次会议在京召开。协会秘书处主持会议， 度小满、蚂蚁科技、腾讯、京东科技、抖音等筹备组成员单位出席会议 。 会议审议通过筹备工作报告，同意按流程提请成立工作委员会。会议认为，筹备组自成立以来，重点聚焦互联网助贷业务领域，密切关注行业发展动态，深入推动政策贯彻落实，研究报送多期热点前沿问题情况专报，组织开展信贷资金挪用风险专项审计，以高标准、严要求的实际行动引领助贷平台规范健康发展。 会议强调，工作委员会是组织实施助贷平台自律管理的机制保障。成员单位应当具备强烈的合",
-     "source": "IT之家",
-     "zh": "度小满、蚂蚁科技、腾讯、京东科技、抖音等参加互联网贷款自律相关会议，筹备成立工作委员会"
-    },
-    {
-     "title": "微信鸿蒙版 App 获 8.0.23.37 邀测升级，小微 AI 助手更多功能灰度中",
-     "link": "https://www.ithome.com/1/025/601.htm",
-     "pubDate": "Wed, 11 Nov 2026 08:54:14 GMT",
-     "summary": "IT之家 11 月 11 日消息，据用户反馈，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.23.37 (8394533) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/10-2026/12/10。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 反馈，8.0.23 版本的微信新增了如下特性： 部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗细； 更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐； 发表视频号内容时新增添加标注，视频号已发布",
-     "source": "IT之家",
-     "zh": "微信鸿蒙版 App 获 8.0.23.37 邀测升级，小微 AI 助手更多功能灰度中"
     },
     {
      "title": "比黄仁勋婚外情更大的风暴，才刚刚到来",
@@ -2265,18 +2265,42 @@
    "total": 13,
    "items": [
     {
-     "title": "CoreWeave stock pops 16% after outlook raise eases AI slowdown concerns",
+     "title": "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns",
      "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-     "pubDate": "Wed, 11 Nov 2026 09:09:07 GMT",
+     "pubDate": "Wed, 11 Nov 2026 09:14:08 GMT",
      "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
      "source": "CNBC",
-     "zh": "CoreWeave stock pops 16% after outlook raise eases AI slowdown concerns"
+     "zh": "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns"
+    },
+    {
+     "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+     "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+     "pubDate": "Wed, 11 Nov 2026 09:11:00 GMT",
+     "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave’s stock pops as new financing playbook eases debt concerns"
+    },
+    {
+     "title": "The Tel-Aviv Stock Exchange reports Q3 results",
+     "link": "https://seekingalpha.com/news/4670512-the-tel-aviv-stock-exchange-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 04:08:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The Tel-Aviv Stock Exchange reports Q3 results"
+    },
+    {
+     "title": "中国市场承压，日产再降全年销量预期",
+     "link": "https://wallstreetcn.com/articles/3785551",
+     "pubDate": "Wed, 11 Nov 2026 17:06:13 +0800",
+     "summary": "日产汽车今年六成的营业利润，要在下半财年实现。 11月11日，日产公布了2027年财年（2026年4月1日至2027年3月31日）的上半财年及第二季度（2026年7月1日至9月30日）业绩，将全年全球销量预期从315万辆下调至297万—300万辆，维持2000亿日元的营业利润预期。 这是日产本财年第二次下调销量预期。8月发布2027年财年一季报时，公司已因中国市场承压，将原先的330万辆下调至315万辆。 2027年财年二季度，日产营收同比增长8.2%至3.11万亿日元，营业利润从上年同期的515亿日元降至21亿日元。日产解释，去年同期美国排放相关费用下降带来的收益，今年没有再出现。同期，归母",
+     "source": "华尔街见闻",
+     "zh": "中国市场承压，日产再降全年销量预期"
     },
     {
      "title": "AI交易回暖，美股盘前存储芯片股、光通信股普涨，CoreWeave暴涨17%，油价止跌",
      "link": "https://wallstreetcn.com/articles/3785732",
      "pubDate": "Wed, 11 Nov 2026 17:04:15 +0800",
-     "summary": "美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。 美股盘前，CoreWeave涨约17%，公司三季度营收超预期并上调全年营收指引。存储芯片股普涨，SK海力士涨约7%，闪迪涨约7%。光通信股股普涨，Coherent涨约9%，Credo涨约8%，Lumentum涨约8%。美股三大股指期货均上涨，纳斯达克100指数期货涨1.6%，标普500指数期货涨0.7%，道指期货涨0.2%。 欧洲市场同步走强，斯托克600指数上涨0.7%，科技与矿业板块领涨",
+     "summary": "美国人工智能板块交易情绪显著回升，推动科技股期货走高。新兴云计算公司CoreWeave强劲的季度业绩驱散了市场对该行业的部分疑虑，Anthropic IPO需求旺盛则进一步印证投资者对AI赛道的持续兴趣。 美股盘前，CoreWeave一度暴涨17%，公司三季度营收超预期并上调全年营收指引。 存储芯片股普涨，SK海力士涨约7%，闪迪涨约7%。光通信股股普涨，Coherent涨约9%，Credo涨约8%，Lumentum涨约8%。美股三大股指期货均上涨，纳斯达克100指数期货涨1.6%，标普500指数期货涨0.7%，道指期货涨0.2%。 欧洲市场同步走强，斯托克600指数上涨0.7%，科技与矿业板",
      "source": "华尔街见闻",
      "zh": "AI交易回暖，美股盘前存储芯片股、光通信股普涨，CoreWeave暴涨17%，油价止跌"
     },
@@ -2287,6 +2311,14 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Worksport GAAP EPS of -$0.26 misses by $0.02, revenue of $7.23M misses by $5.27M"
+    },
+    {
+     "title": "“过剩交易”卷土重来！摩根大通：美伊若达成协议，布油或跌至70美元中段",
+     "link": "https://wallstreetcn.com/articles/3785726",
+     "pubDate": "Wed, 11 Nov 2026 16:54:17 +0800",
+     "summary": "布伦特原油隔夜短暂跌破每桶90美元，创八月以来新低，十天内累计下跌逾20%。市场押注民主党中期选举胜选后，美国对中东冲突的资金支持将趋于收紧，地缘风险溢价随之消退。摩根大通警告，原油市场已重新陷入供应过剩，若美伊达成正式协议，布伦特油价可能进一步向80美元乃至70美元中段滑落。 据追风交易台消息，据中东政策专家Dr. Trita Parsi研判， 特朗普政府可供升级或谈判的有效窗口约为三周。 12月11日联邦政府资金将告耗尽，国会国防预算授权法案最早须于12月或明年1月通过，共和党要求1.5万亿美元，民主党预计不会批准超过1万亿美元。民主党1月3日重新掌控众议院后，战争部长Pete Hegse",
+     "source": "华尔街见闻",
+     "zh": "“过剩交易”卷土重来！摩根大通：美伊若达成协议，布油或跌至70美元中段"
     },
     {
      "title": "冠捷科技：截至11月10日最新股东户数12.80万户，较上期减少0.78%",
@@ -2409,30 +2441,6 @@
      "zh": "科技老将：Anthropic IPO将是美股AI行情高点，有机会就“大举做多中国AI”"
     },
     {
-     "title": "Anthropic IPO估值1.3万亿美元，创始人人均身家180亿美元",
-     "link": "https://wallstreetcn.com/articles/3785717",
-     "pubDate": "Wed, 11 Nov 2026 16:19:57 +0800",
-     "summary": "Anthropic正以硅谷近年来规模最大的IPO之一冲击公开市场，七位联合创始人将在上市后各自坐拥约180亿美元身家，彰显这家AI公司自2021年成立以来的惊人增长速度。 据华尔街日报报道，Anthropic周二（11月10日）提交的文件显示， Anthropic计划最快下周上市，目标估值约1.3万亿美元，拟通过股票发行及向谷歌等大型投资者定向配售相结合的方式，募资约800亿美元或更多。 此次IPO发行价区间定为每股70至78美元。 七位创始人各自计划在IPO中套现约2.5亿美元，出售约340万股。上市后，每位创始人仍将持有公司约3.2%的A类股份，按发行价区间中点计算， 对应市值约为180亿",
-     "source": "华尔街见闻",
-     "zh": "Anthropic IPO估值1.3万亿美元，创始人人均身家180亿美元"
-    },
-    {
-     "title": "Wilmington Capital Management GAAP EPS of C$0.03, revenue of C$0.27M",
-     "link": "https://seekingalpha.com/news/4670504-wilmington-capital-management-gaap-eps-of-c003-revenue-of-c027m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 03:16:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wilmington Capital Management GAAP EPS of C$0.03, revenue of C$0.27M"
-    },
-    {
-     "title": "北京具身智能三年方案发布，提出20万台年产能和50个标杆场景目标",
-     "link": "https://wallstreetcn.com/articles/3785725",
-     "pubDate": "Wed, 11 Nov 2026 16:15:50 +0800",
-     "summary": "11月11日，北京市经济和信息化局印发《北京市具身智能机器人产业高质量发展行动方案（2026-2028年）》。方案提出，力争到2028年培育不少于5家国际一流、10家国内领先的人形机器人整机企业，京津冀区域整机产能占全国25%，关键零部件配套率超过60%，在京形成20万台/年的整机生产能力。 配套制度上，方案提出新增建设总规模超过50000PFlops的具身智能专用算力集群，推动具身智能重点企业与算力节点建设单位以“结对子”方式形成算力供需协同；构建具身智能机器人“一机一码”全过程管理体系，覆盖研发、生产、报废、回收全周期；建立整机企业上市“一对一”服务机制。方案自印发之日起实施，有效期至20",
-     "source": "华尔街见闻",
-     "zh": "北京具身智能三年方案发布，提出20万台年产能和50个标杆场景目标"
-    },
-    {
      "title": "“易中天”集体暴走 “光”又回来了？",
      "link": "http://finance.eastmoney.com/news/11139,202611113928421667.html",
      "pubDate": "Wed, 11 Nov 2026 16:14:29 +0800",
@@ -2473,12 +2481,12 @@
      "zh": "“易中天”同日涨超13%！这次能否打破“次日必跌”的魔咒？"
     },
     {
-     "title": "Ukraine’s freedom must be defended",
+     "title": "Democracy’s future is at stake in Ukraine",
      "link": "https://www.ft.com/content/64131ac1-a9bb-429b-b937-183a08f72bc6?syn-25a6b1a6=1",
      "pubDate": "Wed, 11 Nov 2026 05:00:31 GMT",
      "summary": "Elections show the importance of victory in the conflict between despotism and democracy",
      "source": "Financial Times",
-     "zh": "Ukraine’s freedom must be defended"
+     "zh": "Democracy’s future is at stake in Ukraine"
     },
     {
      "title": "How Singapore became a linchpin of China’s AI chip trade",
@@ -2495,14 +2503,6 @@
      "summary": "As the Claude maker prepares to make its Wall Street debut, the FT’s interactive valuation calculator can help readers decide whether the AI giant is worth $500bn or $4tn",
      "source": "Financial Times",
      "zh": "Anthropic IPO valuation calculator: How much is it really worth?"
-    },
-    {
-     "title": "France pressures Germany over nuclear risks of long-range missiles",
-     "link": "https://www.ft.com/content/7f61b561-bcbd-4900-afd7-553ff76d6217?syn-25a6b1a6=1",
-     "pubDate": "Wed, 11 Nov 2026 05:00:12 GMT",
-     "summary": "Paris asks Berlin to clarify when it would use ‘deep precision strikes’ against Russia to avoid nuclear retaliation",
-     "source": "Financial Times",
-     "zh": "France pressures Germany over nuclear risks of long-range missiles"
     }
    ]
   },

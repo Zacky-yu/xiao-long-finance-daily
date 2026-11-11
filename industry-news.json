@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/11 08:32:04",
+ "generated_at": "2026/11/11 08:44:39",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Gilbert + Tobin rethinks the business of law with AI",
+     "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+     "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+     "source": "OpenAI",
+     "zh": "Gilbert + Tobin rethinks the business of law with AI"
+    },
     {
      "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
      "link": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
@@ -239,14 +247,6 @@
      "summary": "智东西 作者 | 孙小雯 编辑 | 程茜 智东西11月10日报道，昨晚，美团LongCat团队开源原生多模态模型LongCat-2.5。据OpenCode公开数据，截至今日上午12时，LongCat-2.5在该平台的 累计Token用量约1090亿 ，独立用户约4700名，已完成约5万次会话。 ▲LongCat-2.5在OpenCode上的公开数据（图源：OpenCode） LongCat-2.5采用MIT协议开放这款 1.6万亿 参数模型，支持商用推理部署与二次训练，无需额外授权。 一位X上的网友赞称，如此大规模的模型采用 较为宽松的MIT协议 开放，对开发者来说是一大利好消息。 ▲一位开发",
      "source": "智东西",
      "zh": "美团1.6万亿参数大模型开源！累计Token用量破千亿，四项测试位列第一"
-    },
-    {
-     "title": "便宜得离谱！Meta甩出“最省钱模型”，1/3成本追平Claude Haiku 5.5",
-     "link": "https://zhidx.com/p/608698.html",
-     "pubDate": "Tue, 10 Nov 2026 12:12:04 +0800",
-     "summary": "智东西 编译 | 黄菲 编辑 | 江宇 智东西11月10日消息，今日，Meta正式发布最新模型Muse Ember， 主打复杂推理和智能体任务 。Meta称，这是其迄今体量 最小、效率最高 的模型，能够跨应用执行工作流、连续调用工具、运行测试并修复代码。Muse Ember 持100万Token上下文窗口 ，具备对文本、图像、音频和视频的原生理解能力， 可处理大规模文档和多模态输入 。 Meta创始人兼CEO马克·扎克伯格（Mark Zuckerberg）也在社交平台X上宣布了这一消息，他谈道：“Muse Ember是Meta目前最小的模型，在同类模型中能够以更低的成本提供更强的算力，专为Ag",
-     "source": "智东西",
-     "zh": "便宜得离谱！Meta甩出“最省钱模型”，1/3成本追平Claude Haiku 5.5"
     }
    ]
   },
@@ -929,6 +929,14 @@
      "zh": "The AI boom could shift diesel generators from backup to everyday use"
     },
     {
+     "title": "GE Vernova to spend $34.5M expanding Louisiana transformer manufacturing capacity",
+     "link": "https://www.utilitydive.com/news/ge-vernova-to-spend-345m-expanding-transformer-manufacturing-capacity-in/874272/",
+     "pubDate": "Tue, 10 Nov 2026 12:03:44 -0500",
+     "summary": "&ldquo;Electricity demand is growing, and transformers are part of the critical grid equipment essential to delivering the power our customers and modern economies depend on,&rdquo; said the head of the company&rsquo;s&nbsp;electrification segment.",
+     "source": "Utility Dive",
+     "zh": "GE Vernova to spend $34.5M expanding Louisiana transformer manufacturing capacity"
+    },
+    {
      "title": "Turkish electricity exports generate US$500 million in revenue following strong renewable energy deployment",
      "link": "https://www.pv-tech.org/turkish-electricty-exports-us500-million-revenue-strong-renewable-energy-deployment/",
      "pubDate": "Tue, 10 Nov 2026 16:07:09 +0000",
@@ -945,10 +953,18 @@
      "zh": "Beyond wiring: how engineered EBOS solutions address Australia’s utility-scale solar project challenges"
     },
     {
+     "title": "Community engagement is key to on-site battery storage, experts say",
+     "link": "https://www.utilitydive.com/news/community-engagement-is-key-to-on-site-battery-energy-storage-experts-say/874194/",
+     "pubDate": "Tue, 10 Nov 2026 11:05:42 -0500",
+     "summary": "Building operators are turning to batteries to combat rising energy prices and add resiliency, but safety concerns means these projects require thoughtful planning, Greenbuild panelists say.",
+     "source": "Utility Dive",
+     "zh": "Community engagement is key to on-site battery storage, experts say"
+    },
+    {
      "title": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question",
      "link": "https://www.utilitydive.com/news/are-data-centers-really-paying-aes-indianas-google-deal-highlights-a-thor/873040/",
      "pubDate": "Tue, 10 Nov 2026 10:35:36 -0500",
-     "summary": "While local projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
+     "summary": "While local grid infrastructure projects are fairly easy to trace back to a specific data center, regional system upgrades raise more complex questions about who benefits and cost allocation across jurisdictions, one expert told Utility Dive.",
      "source": "Utility Dive",
      "zh": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question"
     },
@@ -959,6 +975,22 @@
      "summary": "Module manufacturer Heliene and perovskite solar company Caelux have started commercial-scale production of a hybrid-tandem solar module for the US market.",
      "source": "PV Tech",
      "zh": "Heliene, Caelux launch US-made perovskite glass hybrid tandem module"
+    },
+    {
+     "title": "Permitting bill advances in Senate, but election results cast doubt on its future",
+     "link": "https://www.utilitydive.com/news/permitting-bill-advances-in-senate-but-its-future-is-uncertain-after-democ/874250/",
+     "pubDate": "Tue, 10 Nov 2026 10:02:14 -0500",
+     "summary": "The version of the bill that advanced this week included a manager&rsquo;s amendment that sought to address some concerns, including over tribal consultation&nbsp;and FERC authority, but Democrats in both chambers have said they want to see more changes.",
+     "source": "Utility Dive",
+     "zh": "Permitting bill advances in Senate, but election results cast doubt on its future"
+    },
+    {
+     "title": "Most generators prepared for extreme cold, but risks remain: NERC",
+     "link": "https://www.utilitydive.com/news/generators-prepared-extreme-cold-nerc/874248/",
+     "pubDate": "Tue, 10 Nov 2026 09:30:50 -0500",
+     "summary": "Despite improvements to cold-weather operations, the grid &ldquo;continues to face serious reliability risks during the winter period,&rdquo;&nbsp;NERC President and CEO Jim Robb said.",
+     "source": "Utility Dive",
+     "zh": "Most generators prepared for extreme cold, but risks remain: NERC"
     },
     {
      "title": "Qcells US modules first to pass all reliability tests from Kiwa PVEL and RETC",
@@ -1063,38 +1095,6 @@
      "summary": "Italian company Sizable Energy is developing a long-duration offshore energy storage system that uses deep-sea brine reservoirs to store electricity, with its first commercial projects planned for Calabria and Sicily and a demonstrator linked to a data center in Naples scheduled for 2027. The post I",
      "source": "pv magazine",
      "zh": "Italian startup plans offshore gravity storage projects"
-    },
-    {
-     "title": "Utilities should consider ‘taking a breather’ from rate cases: Minnesota PUC vice chair",
-     "link": "https://www.utilitydive.com/news/minnesota-puc-rate-case-affordability-naruc/874222/",
-     "pubDate": "Tue, 10 Nov 2026 06:09:21 -0500",
-     "summary": "&ldquo;Filing rate cases right now is really painful,&rdquo; Joseph Sullivan told Utility Dive in an interview where he also discussed his concerns with overly complex data center cost allocation and an erosion of public trust in institutions.",
-     "source": "Utility Dive",
-     "zh": "Utilities should consider ‘taking a breather’ from rate cases: Minnesota PUC vice chair"
-    },
-    {
-     "title": "Oh, So That’s Who’s Buying All Those New Subaru Trailseeker EVs…",
-     "link": "https://cleantechnica.com/2026/11/10/subaru-ev-sales-trailseeker-pet-friendly-households/",
-     "pubDate": "Tue, 10 Nov 2026 10:44:52 +0000",
-     "summary": "Subaru has racked up a fairly respectable EV sales record so far this year for its new Trailseeker SUV, with household pets playing a featured role in its overall marketing campaign. The post Oh, So That’s Who’s Buying All Those New Subaru Trailseeker EVs… appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Oh, So That’s Who’s Buying All Those New Subaru Trailseeker EVs…"
-    },
-    {
-     "title": "NGEN puts Croatia’s first standalone, transmission-connected BESS online, with 60MW/120MWh capacity",
-     "link": "https://www.energy-storage.news/ngen-croatia-first-standalone-transmission-connected-bess-online-60mw-120mwh-capacity/",
-     "pubDate": "Tue, 10 Nov 2026 10:43:06 +0000",
-     "summary": "BESS owner-operator NGEN has put its Šibenik project into commercial operation in Croatia, claiming it as the first standalone project to connect at the transmission-level.",
-     "source": "Energy Storage News",
-     "zh": "NGEN puts Croatia’s first standalone, transmission-connected BESS online, with 60MW/120MWh capacity"
-    },
-    {
-     "title": "A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers",
-     "link": "https://cleantechnica.com/2026/11/10/a-tribute-to-bunker-roy-the-man-who-turned-village-grandmothers-into-solar-engineers/",
-     "pubDate": "Tue, 10 Nov 2026 10:42:33 +0000",
-     "summary": "Sanjit “Bunker” Roy, who taught illiterate grandmothers to become solar engineers, passed away peacefully this morning at his home in Tilonia, Rajasthan, aged 81.[1] I first encountered his work not in India, but in the rain forests of Borneo. It was October 2016, and as night fell, the surrounding ",
-     "source": "CleanTechnica",
-     "zh": "A Tribute to Bunker Roy: The Man Who Turned Village Grandmothers into Solar Engineers"
     }
    ]
   },
@@ -1769,6 +1769,30 @@
    "total": 18,
    "items": [
     {
+     "title": "华擎更新 ASRVBFlash 显卡刷写工具，修复 AMD RX 7900 XT / XTX 变砖问题",
+     "link": "https://www.ithome.com/1/025/229.htm",
+     "pubDate": "Wed, 11 Nov 2026 00:41:59 GMT",
+     "summary": "IT之家 11 月 11 日消息，科技媒体 TechPowerUp 昨日（11 月 10 日）发布博文， 报道称华擎（ASRock）发布 1.0.6 版显卡固件刷写工具 ASRVBFlash，修复此前 1.0.5 版本给 Radeon RX 7900 XT / XTX 用户带来的问题。 IT之家注：ASRVBFlash 是华擎（ASRock）为自家 AMD Radeon 显卡提供的 VBIOS 刷写工具，用于更新显卡上的固件（Video BIOS），主要面向需要修复兼容性问题、调整显卡出厂设置或应用官方固件更新的用户。 部分 Radeon RX 7900 XT / XTX 显卡此前反馈使用 1",
+     "source": "IT之家",
+     "zh": "华擎更新 ASRVBFlash 显卡刷写工具，修复 AMD RX 7900 XT / XTX 变砖问题"
+    },
+    {
+     "title": "苹果 iCloud 服务全球性故障，影响注册登录、照片同步和查找 iPhone 等",
+     "link": "https://www.ithome.com/1/025/227.htm",
+     "pubDate": "Wed, 11 Nov 2026 00:31:09 GMT",
+     "summary": "IT之家 11 月 11 日消息， 苹果 iCloud 服务今早突发全球性故障 。本次故障从北京时间清晨 06:49 左右开始，迄今接近两个小时。核心登录注册服务为瘫痪状态，购买 iPhone 18 Pro 或 iPhone Duo 新机的用户也将无法通过 iCloud 备份恢复来恢复数据。 IT之家查询苹果系统状态页面获悉，苹果 iCloud 账户登录 / 注册、iCloud 日历、iCloud 通讯录、iCloud 邮件、照片、Game Center 目前处于服务中断状态。而“查找”（以前称为 Find My iPhone）、iCloud 版 iWork 等服务处于问题状态。 截至目前， ",
+     "source": "IT之家",
+     "zh": "苹果 iCloud 服务全球性故障，影响注册登录、照片同步和查找 iPhone 等"
+    },
+    {
+     "title": "Hong Kong IPOs Stall as Issuers Pull Deals at the Last Step",
+     "link": "https://www.tmtpost.com/8200654.html",
+     "pubDate": "Wed, 11 Nov 2026 08:28:05 +0800",
+     "summary": "Companies that had cleared hearings and opened books are delaying listings, citing market conditions. Fresh first filings have gone quiet even as a long queue remains. Weak secondary demand, not a shortage of applicants, is resetting the calendar.",
+     "source": "钛媒体",
+     "zh": "Hong Kong IPOs Stall as Issuers Pull Deals at the Last Step"
+    },
+    {
      "title": "挑战微软 Win11：原生 AI 系统 KORA 登场，将率先适配高通骁龙 X2 Elite 芯片",
      "link": "https://www.ithome.com/1/025/226.htm",
      "pubDate": "Wed, 11 Nov 2026 00:27:15 GMT",
@@ -1857,22 +1881,6 @@
      "zh": "亚朵：零售“续命”，酒店“失血”，“小清新”还能扛多久？"
     },
     {
-     "title": "经典塔防游戏回归：《植物大战僵尸：重植版》12 月 3 日登陆苹果 Apple Arcade",
-     "link": "https://www.ithome.com/1/025/222.htm",
-     "pubDate": "Wed, 11 Nov 2026 00:10:47 GMT",
-     "summary": "IT之家 11 月 11 日消息，苹果公司昨日（11 月 10 日）发布公告，宣布其游戏服务 Apple Arcade 将于 12 月 3 日上线 4 款游戏，其中最值得关注的是经典塔防游戏《植物大战僵尸：高清重植版》（Plants vs. Zombies: Replanted）。 IT之家发稿前查询 App Store 页面，《植物大战僵尸：高清重植版》已经上线，显示 12 月 3 日发布，支持 iPhone、iPad、Mac、Apple TV 及 Apple Vision Pro 等苹果设备。 本次“重植版”基于 2009 年原作重制，由 PopCap Games 与 The Lost P",
-     "source": "IT之家",
-     "zh": "经典塔防游戏回归：《植物大战僵尸：重植版》12 月 3 日登陆苹果 Apple Arcade"
-    },
-    {
-     "title": "索尼、微软确认《GTA 6》成 PlayStation、Xbox 商店史上预购量最高游戏，具体数量未公布",
-     "link": "https://www.ithome.com/1/025/221.htm",
-     "pubDate": "Wed, 11 Nov 2026 00:04:45 GMT",
-     "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，索尼互动娱乐及微软发布博客，宣布《侠盗猎车手 6》（GTA 6）已成为 PlayStation 以及 Xbox 商店中历史预购量最高的游戏，但均未公布具体预购量。 索尼表示，鉴于《GTA 6》预购需求超出预期，已与 Rockstar Games 合作提前九天开放游戏预下载，以便玩家在正式发售前完成安装。IT之家注意到，Xbox 版本同样也已开放预载。 《GTA 6》数字版于 2026 年 6 月 25 日开启预购，港区标准版定价为 568 港币 （现汇率约合 484.4 元人民币） ，终极版为 708 港币 （现汇率约合 603.",
-     "source": "IT之家",
-     "zh": "索尼、微软确认《GTA 6》成 PlayStation、Xbox 商店史上预购量最高游戏，具体数量未公布"
-    },
-    {
      "title": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation (Maria Armental/Wall Street Journal)",
      "link": "https://www.techmeme.com/261110/p58#a261110p58",
      "pubDate": "Tue, 10 Nov 2026 19:00:53 -0500",
@@ -1884,7 +1892,7 @@
      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
      "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
      "pubDate": "Tue, 10 Nov 2026 23:41:41 +0000",
-     "summary": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md Comments URL: https://news.ycombinator.com/item?id=50447900 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md Comments URL: https://news.ycombinator.com/item?id=50447900 Points: 7 # Comments: 0",
      "source": "Hacker News",
      "zh": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)"
     },
@@ -1953,12 +1961,12 @@
      "zh": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot"
     },
     {
-     "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+     "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
      "pubDate": "Tue, 10 Nov 2026 22:17:56 +0000",
-     "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 118 # Comments: 37",
+     "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 135 # Comments: 44",
      "source": "Hacker News",
-     "zh": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings"
+     "zh": "After 7 months, Glasswing overwelms maintainers with underwhelming findings"
     },
     {
      "title": "Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions (Jake Bleiberg/Bloomberg)",
@@ -1967,6 +1975,14 @@
      "summary": "Jake Bleiberg / Bloomberg : Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions &nbsp; &mdash;&nbsp; At least 11 National Security Agency and US Cyber Command workers died by suicide over rough",
      "source": "Techmeme",
      "zh": "Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions (Jake Bleiberg/Bloomberg)"
+    },
+    {
+     "title": "$30M Raised to Redo the CPU",
+     "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
+     "pubDate": "Tue, 10 Nov 2026 22:14:03 +0000",
+     "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "$30M Raised to Redo the CPU"
     },
     {
      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
@@ -1980,7 +1996,7 @@
      "title": "rVPN – stealth VPN with end-to-end encryption",
      "link": "https://rvpn.org/",
      "pubDate": "Tue, 10 Nov 2026 21:42:50 +0000",
-     "summary": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 54 # Comments: 44",
+     "summary": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 55 # Comments: 46",
      "source": "Hacker News",
      "zh": "rVPN – stealth VPN with end-to-end encryption"
     },
@@ -1988,25 +2004,9 @@
      "title": "Apple has new Mac app coming to make running local AI models easy",
      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
      "pubDate": "Tue, 10 Nov 2026 21:25:03 +0000",
-     "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 89 # Comments: 48",
+     "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 96 # Comments: 57",
      "source": "Hacker News",
      "zh": "Apple has new Mac app coming to make running local AI models easy"
-    },
-    {
-     "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-     "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-     "pubDate": "Tue, 10 Nov 2026 21:12:59 +0000",
-     "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-     "source": "Ars Technica",
-     "zh": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI"
-    },
-    {
-     "title": "Six Math Essentials by Terence Tao",
-     "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-     "pubDate": "Tue, 10 Nov 2026 20:58:44 +0000",
-     "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 98 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "Six Math Essentials by Terence Tao"
     }
    ]
   },
@@ -2016,6 +2016,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Why your Roku might be plugged into the wrong HDMI port",
+     "link": "https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/",
+     "pubDate": "Wed, 11 Nov 2026 00:30:00 +0000",
+     "summary": "A Roku isn't as sensitive to the chosen HDMI port as a game console or sound bar, but you should still choose the right one for the job.",
+     "source": "Engadget",
+     "zh": "Why your Roku might be plugged into the wrong HDMI port"
+    },
     {
      "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
      "link": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
@@ -2119,14 +2127,6 @@
      "summary": "Now start counting down the days until QPR3!",
      "source": "Android Authority",
      "zh": "Google details everything new in Android 17 QPR2"
-    },
-    {
-     "title": "Meta warns some of its AI glasses may get 'too warm' if they get wet",
-     "link": "https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/",
-     "pubDate": "Tue, 10 Nov 2026 22:05:37 +0000",
-     "summary": "A software update will tell users if they're affected and direct them to Meta's customer support for a full replacement.",
-     "source": "Engadget",
-     "zh": "Meta warns some of its AI glasses may get 'too warm' if they get wet"
     },
     {
      "title": "Your Google account will lose its ability to unlock your Nintendo account next year",
@@ -2265,6 +2265,54 @@
    "total": 13,
    "items": [
     {
+     "title": "CoreWeave电话会：算力需求推动大幅提价，拒绝无担保发债，2028年实现盈利",
+     "link": "https://wallstreetcn.com/articles/3785686",
+     "pubDate": "Wed, 11 Nov 2026 08:35:33 +0800",
+     "summary": "AI云计算基础设施提供商CoreWeave在最新财报电话会上传递出强烈的供需信号：公司算力资源在2027年前已基本售罄，2028年需求更是远超可用容量数倍，同时公司宣布大幅上调旗下服务价格，并表示将以客户预付款取代无担保债务作为主要融资手段。 华尔街见闻提及 ，11月10日周二美股盘后，CoreWeave公布第三季度营收36.61亿美元，同比增长168%，超出分析师预期，并将2026年全年收入指引上调至130亿至133亿美元。 电话会上，CoreWeave首席执行官Michael Intrator表示，季度内完成了多项关键里程碑： 运营利润率 从二季度的5%跃升至10%，提前一个季度达成年初既",
+     "source": "华尔街见闻",
+     "zh": "CoreWeave电话会：算力需求推动大幅提价，拒绝无担保发债，2028年实现盈利"
+    },
+    {
+     "title": "TELA Bio outlines $76M-$78M 2027 expense range following $17M cost reduction plan",
+     "link": "https://seekingalpha.com/news/4670354-tela-bio-outlines-76m-78m-2027-expense-range-following-17m-cost-reduction-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 19:32:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TELA Bio outlines $76M-$78M 2027 expense range following $17M cost reduction plan"
+    },
+    {
+     "title": "Dolphin Entertainment anticipates 4 ventures in 2027, with at least 1 in market in Q1",
+     "link": "https://seekingalpha.com/news/4670355-dolphin-entertainment-anticipates-4-ventures-in-2027-with-at-least-1-in-market-in-q1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 10 Nov 2026 19:32:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dolphin Entertainment anticipates 4 ventures in 2027, with at least 1 in market in Q1"
+    },
+    {
+     "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+     "pubDate": "Wed, 11 Nov 2026 00:30:00 GMT",
+     "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+     "source": "MarketWatch",
+     "zh": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?"
+    },
+    {
+     "title": "费城联储主席Paulson支持渐进加息，但警告通胀仍“卡在”目标上方",
+     "link": "https://wallstreetcn.com/articles/3785690",
+     "pubDate": "Wed, 11 Nov 2026 08:29:39 +0800",
+     "summary": "2026年FOMC票委、费城联储主席Anna Paulson周二（11月10日）表态支持渐进式加息路径，但同时发出明确警告：核心通胀持续高于2%目标且未见回落，关税、能源成本上升及数据中心建设热潮均构成持续价格压力。与此同时，多位美联储官员同日发表鹰派言论，就12月会议的加息幅度释放出更强硬信号，美联储内部围绕加息节奏的分歧正在浮出水面。 当日公布的10月通胀数据为这场争论提供了新的注脚。 华尔街见闻文章 写道，美国劳工统计局最新公布的数据显示，剔除食品和能源的核心CPI环比上涨0.3%，超出市场预期。对此，Paulson表示，这份报告表明价格压力“仍然非常真实”，核心通胀指标已“卡在”2.5",
+     "source": "华尔街见闻",
+     "zh": "费城联储主席Paulson支持渐进加息，但警告通胀仍“卡在”目标上方"
+    },
+    {
+     "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+     "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+     "pubDate": "Wed, 11 Nov 2026 00:27:38 GMT",
+     "summary": "Claude maker’s listing price expected to rise after strong demand from investors",
+     "source": "Financial Times",
+     "zh": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more"
+    },
+    {
      "title": "Carlsmed anticipates $78M-$80M 2026 revenue amid new DRG tailwinds and Q4 product launches",
      "link": "https://seekingalpha.com/news/4670353-carlsmed-anticipates-78m-80m-2026-revenue-amid-new-drg-tailwinds-and-q4-product-launches?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 10 Nov 2026 19:12:41 -0500",
@@ -2385,14 +2433,6 @@
      "zh": "多重催化共振！端侧AI硬件创新提速 产业链价值重估开启(附股)"
     },
     {
-     "title": "Cumberland outlines plan to fund operations for over 5 years as it prepares rolling NDA submission for ifetroban in DMD",
-     "link": "https://seekingalpha.com/news/4670349-cumberland-outlines-plan-to-fund-operations-for-over-5-years-as-it-prepares-rolling-nda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 18:42:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cumberland outlines plan to fund operations for over 5 years as it prepares rolling NDA submission for ifetroban in DMD"
-    },
-    {
      "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
      "link": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1",
      "pubDate": "Tue, 10 Nov 2026 23:36:56 GMT",
@@ -2407,14 +2447,6 @@
      "summary": "There is already a demographic ‘run’ on Social Security.",
      "source": "MarketWatch",
      "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
-    },
-    {
-     "title": "RTX sees margin expansion, cash flow growth in 2027",
-     "link": "https://seekingalpha.com/news/4670345-rtx-sees-margin-expansion-cash-flow-growth-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 10 Nov 2026 18:25:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RTX sees margin expansion, cash flow growth in 2027"
     },
     {
      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
@@ -2471,38 +2503,6 @@
      "summary": "新近消息显示，Anthropic IPO尚未正式定价，部分现有投资者已提前兜售预期获得的发行配售份额，向买家要求高于IPO发行价3%至5%的溢价。 据彭博社美东时间10日周二的报道，交易机构JonesTrading正代表部分投资者推介一笔最高达5亿美元的股票份额，显示市场对这场热门AI公司IPO的需求已提前升温。 以上消息并不意味着Anthropic股票已经在二级市场上市流通，而是代表，投资者提前转让预期获得的IPO配售份额。买家需要在最终发行价基础上额外支付溢价，以换取提前锁定股份的机会。 最高5亿美元配售份额待售，买家需支付额外溢价 据彭博社报道，JonesTrading正代表部分Anth",
      "source": "华尔街见闻",
      "zh": "抢在Anthropic IPO前出手！投资者据称兜售配售份额，溢价高达5%"
-    },
-    {
-     "title": "英伟达继续大跌，两日市值蒸发4300亿美元，微软一度重夺全球第二",
-     "link": "https://wallstreetcn.com/articles/3785679",
-     "pubDate": "Wed, 11 Nov 2026 06:50:30 +0800",
-     "summary": "英伟达股价连续第二个交易日下跌，周二跌幅一度超6%，两日市值损失4300亿美元。 周二，英伟达跌幅明显大于其他大型科技股，成为拖累科技股表现的重要因素。 微软收跌2.2%，Alphabet跌约0.4%，Meta收平，苹果跌约0.6%，特斯拉涨0.5%，亚马逊上涨约1.5%。标普500指数下跌约0.4%，纳斯达克100指数下跌0.6%。 美股盘中微软市值曾一度超越英伟达，成为全球市值第二大的上市公司。后由于Anthropic发布办公套件，微软跌幅扩大，再次落后于英伟达。 股东提起集体诉讼，公司治理风险进一步发酵 股价承压之际，英伟达还面临新的法律和公司治理压力。一名股东已于周一在加利福尼亚州提起",
-     "source": "华尔街见闻",
-     "zh": "英伟达继续大跌，两日市值蒸发4300亿美元，微软一度重夺全球第二"
-    },
-    {
-     "title": "美国10年期国债票面利率升至5%，创2006年以来新高，拍卖需求降温",
-     "link": "https://wallstreetcn.com/articles/3785682",
-     "pubDate": "Wed, 11 Nov 2026 06:48:23 +0800",
-     "summary": "美国财政部最新一轮10年期国债拍卖显示，美国中长期融资成本维持高位。 当地时间周二，美国财政部发行420亿美元10年期国债，得标收益率为5.020%，票面利率定为5%，创2006年以来最高水平。 与此同时，本次拍卖需求较上次有所减弱。投标倍数从10月7日的2.77降至2.46，不仅低于前次水平，也低于过去10次同期限国债拍卖2.54的平均值。 同日，美国公布 10月通胀数据 ，高于市场预期，加上 美联储官员持续释放鹰派信号 ，推动市场重新评估未来利率路径，进一步增加了债券市场的压力。 周二美国10年期国债收益率一度升至5.012%，截至发稿上行13个基点，报4.99%。 拍卖需求低于近期平均水",
-     "source": "华尔街见闻",
-     "zh": "美国10年期国债票面利率升至5%，创2006年以来新高，拍卖需求降温"
-    },
-    {
-     "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-     "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 22:37:00 GMT",
-     "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
-     "source": "MarketWatch",
-     "zh": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins"
-    },
-    {
-     "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
-     "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
-     "pubDate": "Tue, 10 Nov 2026 22:30:00 GMT",
-     "summary": "Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key “lines in the sand,” that define technical battleground areas above and below current levels.",
-     "source": "MarketWatch",
-     "zh": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon."
     }
    ]
   },

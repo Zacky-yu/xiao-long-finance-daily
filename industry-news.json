@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/12 15:12:02",
+ "generated_at": "2026/11/12 15:32:03",
  "recent_days": 7,
  "industries": [
   {
@@ -23,6 +23,14 @@
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月12日报道，昨日，亚马逊云科技宣布，在全球领先、可信赖、懂行业和本地化四大核心优势的基础上，进一步升级在华的技术能力、安全能力和本地化支持。 此次升级将进一步完善Agentic AI全栈技术能力、强化AI安全防护能力，并通过面向客户的多层次技术协作、开发方法赋能与人才培养强化本地化支持，助力企业推动AI Agent从概念验证走向规模化应用，将AI创新转化为实际业务价值。 亚马逊云科技成长型企业及新兴业务总经理倪殿令谈道：“我们认为，成功的AI转型需要以业务战略为中心，围绕场景、数据和人才构建‘黄金三角’，找到真正创造价值的业务场景，充分释",
      "source": "智东西",
      "zh": "亚马逊云科技宣布在华三大能力升级，进一步完善Agentic AI全栈技术能力"
+    },
+    {
+     "title": "输出不要钱？100个问题仅用0.41秒！谷歌Gemini Decisions API上线",
+     "link": "https://zhidx.com/p/609608.html",
+     "pubDate": "Thu, 12 Nov 2026 12:00:16 +0800",
+     "summary": "智东西 编译 | 黄菲 编辑 | 江宇 智东西11月12日消息，今日，谷歌宣布推出Gemini Decisions API，该API可通过同日新发布的模型Gemini Decision 1调用。与传统生成式模型不同，Gemini Decision 1可以直接评估输入内容，并针对最多1000个预设问题一次性作出判断。该模型支持文本、图像、音频、视频和PDF等多模态输入，且不收取输出Token费用。 性能方面，谷歌称，在最多16K Token的多模态输入场景下，Gemini Decision 1的中位模型计算延迟为50至100毫秒，端到端延迟为150至250毫秒。 价格方面，Gemini Deci",
+     "source": "智东西",
+     "zh": "输出不要钱？100个问题仅用0.41秒！谷歌Gemini Decisions API上线"
     },
     {
      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -169,14 +177,6 @@
      "zh": "曝OpenAI三季度收入突破670亿！"
     },
     {
-     "title": "刚刚，腾讯版搜索引擎来了！几乎没广告，能搜公众号",
-     "link": "https://zhidx.com/p/609206.html",
-     "pubDate": "Wed, 11 Nov 2026 17:24:50 +0800",
-     "summary": "智东西 作者 | 毕伟豪 编辑｜心缘 智东西11月11日报道，今天，腾讯正式推出 面向普通用户的全新搜索产品“元宝搜索” ，通过独立网站和QQ浏览器入口提供搜索服务。 此次上线的元宝搜索，主打 权威信源优先、AI深度融合 等能力，不仅能够直接生成AI总结、连续追问，还支持原始信息溯源。 此外，元宝搜索接入 微信公众号、视频号 等内容来源，提供 学术科普、组织机构、主流媒体 等专门频道，并针对汽车、影视、健康等场景推出结构化卡片。 在与智东西等媒体交流时，腾讯元宝搜索网页版产品负责人李锐章透露，元宝搜索未来会持续丰富功能模块，但不会朝着AI助手的方向演进，会 专注于搜索本身，通过AI能力优化用户",
-     "source": "智东西",
-     "zh": "刚刚，腾讯版搜索引擎来了！几乎没广告，能搜公众号"
-    },
-    {
      "title": "ChatGPT Plus for veterans and servicemembers",
      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
      "pubDate": "Wed, 11 Nov 2026 08:00:00 GMT",
@@ -303,54 +303,6 @@
      "summary": "Kwang-Hwa Electronic reported consolidated revenue of NT$1.315 billion in the third quarter of 2026, down 2.78% quarter-on-quarter and 3.01% year-on-year. Gross profit was NT$324 million, up 8.61% quarter-on-quarter but down 9.07% year-on-year. Supported by foreign-exchange gains, the company swung ",
      "source": "DIGITIMES",
      "zh": "Kwang-Hwa swings to profit in 3Q26 as EPF film line nears launch"
-    },
-    {
-     "title": "Ron Neale",
-     "link": "https://www.electronicsweekly.com/news/business/ron-neale-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:16:05 +0000",
-     "summary": "Ron Neale, who died yesterday, was an electronics engineer, researcher, inventor, and editor. He was best known for his long career in solid-state memory technology, especially phase-change memory (PCM). After […] The post Ron Neale appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Ron Neale"
-    },
-    {
-     "title": "Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time",
-     "link": "https://www.electronicsweekly.com/news/products/electronica-trias-osm-sb-ep5-aims-to-shorten-concept-to-product-time-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:10:34 +0000",
-     "summary": "Tria Technologies’ OSM-SB-EP5 is a carrier board for the evaluation, validation and prototyping of OSM-based embedded systems. It is intended for teams building embedded products around the Open Standard Module […] The post Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time appea",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time"
-    },
-    {
-     "title": "Electronica: Pickering advances high-voltage relay technology",
-     "link": "https://www.electronicsweekly.com/news/business/electronica-pickering-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:09:48 +0000",
-     "summary": "Pickering Electronics of Clacton-on-Sea, a manufacturer of high-performance reed relays, is advancing its high-voltage relay technology through the evaluation of partial discharge (PD) testing, initially focusing on its Series 600 […] The post Electronica: Pickering advances high-voltage relay techn",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Pickering advances high-voltage relay technology"
-    },
-    {
-     "title": "Fintech funding falls",
-     "link": "https://www.electronicsweekly.com/news/business/fintech-funding-falls-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:07:08 +0000",
-     "summary": "Europe FinTech companies raised $5.6B in the first nine months of 2026 – down 6% from $6.0B in 9M 2025, reports Tracxn Technologies. Series A and later rounds fell 29% […] The post Fintech funding falls appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fintech funding falls"
-    },
-    {
-     "title": "Electronica: Nexperia adds 750V SiC trench MOSFETs and TOLL packaging",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/electronica-nexperia-adds-750v-sic-trench-mosfets-and-toll-packaging-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:06:55 +0000",
-     "summary": "Nexperia has expanded its portfolio of SiC-based power semiconductors with a family of 750V trench MOSFETs. Designed for demanding industrial and automotive applications, the devices combine robust switching performance, low […] The post Electronica: Nexperia adds 750V SiC trench MOSFETs and TOLL pa",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Nexperia adds 750V SiC trench MOSFETs and TOLL packaging"
-    },
-    {
-     "title": "Melexis claims smallest contactless  temperature sensor",
-     "link": "https://www.electronicsweekly.com/news/business/melexis-claims-smallest-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:03:20 +0000",
-     "summary": "Melexis claims to have produced the world’s smallest contactless temperature sensor delivering medical accuracy, for potential use in wearable digital health devices. Medical accuracy implies it delivers ±0.2°C accuracy* across […] The post Melexis claims smallest contactless temperature sensor appe",
-     "source": "Electronics Weekly",
-     "zh": "Melexis claims smallest contactless  temperature sensor"
     },
     {
      "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
@@ -495,6 +447,54 @@
      "summary": "Sivers Semiconductors AB of Kista, Sweden (which supplies RF beam-former ICs and lasers for AI data-center, SATCOM, defense and telecom applications) has announced a global distribution agreement with electronics and semiconductors distributor WT Microelectronics Co Ltd...",
      "source": "Semiconductor Today",
      "zh": "WT to distribute Sivers’ InP lasers and wireless solutions"
+    },
+    {
+     "title": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/nexperia-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 11:25:41 GMT",
+     "summary": "Discrete device designer and manufacturer Nexperia B.V. of Nijmegen, the Netherlands (which operates wafer fabs in Hamburg, Germany, and Hazel Grove Manchester, UK) has launched a new family of 750V silicon carbide (SiC) trench MOSFETs, combining low switching losses, temperature-stable RDS(on) char",
+     "source": "Semiconductor Today",
+     "zh": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion"
+    },
+    {
+     "title": "Diamond Foundry unveils first 200mm single-crystal diamond",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/diamondfoundry-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 09:18:11 GMT",
+     "summary": "Diamond Foundry Inc of San Francisco, CA, USA has unveiled the first 200mm-diameter single-crystal diamond. The announcement accompanied a keynote presentation by CEO Martin Roscheisen, delivered by video at CarbonSemi 2026 (the 6th Industry Development Summit of Carbon-based Semiconductor & Devices",
+     "source": "Semiconductor Today",
+     "zh": "Diamond Foundry unveils first 200mm single-crystal diamond"
+    },
+    {
+     "title": "Variable-Length Prompts on Chimera GPNPU",
+     "link": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/",
+     "pubDate": "Wed, 11 Nov 2026 08:02:29 +0000",
+     "summary": "How a flexible binary can serve every length up to the capacity you set. The post Variable-Length Prompts on Chimera GPNPU appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Variable-Length Prompts on Chimera GPNPU"
+    },
+    {
+     "title": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs",
+     "link": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/",
+     "pubDate": "Wed, 11 Nov 2026 08:01:52 +0000",
+     "summary": "The differences and engineering considerations behind choosing and implementing UCIe connectivity for advanced multi-die designs. The post UCIe Connectivity for 2.5D and 3D Multi-Die Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs"
+    },
+    {
+     "title": "CXO Interview with Solaiman Rahim of ChipAgents",
+     "link": "https://semiwiki.com/eda/chipagents-ai/375937-cxo-interview-with-solaiman-rahim-of-chipagents/",
+     "pubDate": "Tue, 10 Nov 2026 20:00:32 +0000",
+     "summary": "Dr. Solaiman Rahim is a multidisciplinary technology executive with over 25 years of experience driving innovation in the chip automation space at the intersection of systems, semiconductors, high-performance computing, and AI. As Chief Product Officer at ChipAgents, he leads the scaling of the Agen",
+     "source": "SemiWiki",
+     "zh": "CXO Interview with Solaiman Rahim of ChipAgents"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -859,7 +859,7 @@
     {
      "title": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Sink-as-Iran-and-Ukraine-Peace-Optimism-Builds.html",
-     "pubDate": "Thu, 12 Nov 2026 00:35:48 -0600",
+     "pubDate": "Thu, 12 Nov 2026 00:35:00 -0600",
      "summary": "Crude oil prices extended their decline today, with both Brent crude and WTI shedding over $1 in Asian trade earlier in the day on growing hopes for peace in Ukraine and Iran. At the time of writing, Brent crude was trading at $91.32 per barrel, and West Texas Intermediate was changing hands for $85",
      "source": "OilPrice",
      "zh": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds"
@@ -871,6 +871,14 @@
      "summary": "More than 70 renewable energy projects, with a combined value of $2.2 billion, are currently in progress across 14 independent Pacific Island nations. Research compiled for the new “Pacific 100% Renewable Energy Investment Prospectus (PREIP)” report finds that around $14 billion would be needed over",
      "source": "pv magazine",
      "zh": "Pacific prospects"
+    },
+    {
+     "title": "The High-Rise Bottleneck: Why EV Charging in Indian Apartments Is an Engineering Puzzle",
+     "link": "https://cleantechnica.com/2026/11/11/the-high-rise-bottleneck-why-ev-charging-in-indian-apartments-is-an-engineering-puzzle/",
+     "pubDate": "Thu, 12 Nov 2026 04:53:39 +0000",
+     "summary": "By Atharva Shinde Most Western clean-energy reporting takes a very specific picture of home charging for granted. You pull into a private driveway, plug into an attached garage wall-box, and pull cheap power while you sleep. That reality does not exist for most urban drivers in India. Data from Kaza",
+     "source": "CleanTechnica",
+     "zh": "The High-Rise Bottleneck: Why EV Charging in Indian Apartments Is an Engineering Puzzle"
     },
     {
      "title": "To Honor Veterans, How About We Stop The Oil Wars?",
@@ -1063,14 +1071,6 @@
      "summary": "Raana Semiconductors has signed a pre-order deal to supply domestically produced ingot-growing equipment to Indian PV manufacturer Swelect HHV Solar Photovoltaics.",
      "source": "PV Tech",
      "zh": "Swelect places order for Indian-made ingot equipment for 1GW wafer line"
-    },
-    {
-     "title": "Science For The People, Right On!",
-     "link": "https://cleantechnica.com/2026/11/11/science-for-the-people-right-on/",
-     "pubDate": "Wed, 11 Nov 2026 13:21:40 +0000",
-     "summary": "Today United for the Future launches at COP31 today with a plan to unite 100 million people in peaceful, non-partisan marches in cities worldwide. Their goal is to assemble the largest coordinated climate demonstration in history in order to put climate action back at the top of the political agenda",
-     "source": "CleanTechnica",
-     "zh": "Science For The People, Right On!"
     },
     {
      "title": "California orders utilities to develop joint DER orchestration framework",
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+     "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+     "pubDate": "Thu, 12 Nov 2026 12:12:47 +0530",
+     "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI wo",
+     "source": "The Hacker News",
+     "zh": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories"
+    },
+    {
      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
      "pubDate": "Thu, 12 Nov 2026 10:42:26 +0530",
@@ -1721,14 +1729,6 @@
      "zh": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices"
     },
     {
-     "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-     "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-     "pubDate": "Wed, 11 Nov 2026 17:49:40 +0530",
-     "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps wer",
-     "source": "The Hacker News",
-     "zh": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords"
-    },
-    {
      "title": "Fortinet Patches Nearly 100 Vulnerabilities",
      "link": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
      "pubDate": "Wed, 11 Nov 2026 12:10:14 +0000",
@@ -1760,6 +1760,14 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Munich-based Agile Robots, which develops humanoids, mobile robots, robotic arms, and control software, raised $500M led by SoftBank at an $8.5B valuation (Marilen Martin/Bloomberg)",
+     "link": "https://www.techmeme.com/261112/p6#a261112p6",
+     "pubDate": "Thu, 12 Nov 2026 02:10:00 -0500",
+     "summary": "Marilen Martin / Bloomberg : Munich-based Agile Robots, which develops humanoids, mobile robots, robotic arms, and control software, raised $500M led by SoftBank at an $8.5B valuation &nbsp; &mdash;&nbsp; Agile Robots SE raised funds valuing the German robotics maker at $8.5 billion in a round led b",
+     "source": "Techmeme",
+     "zh": "Munich-based Agile Robots, which develops humanoids, mobile robots, robotic arms, and control software, raised $500M led by SoftBank at an $8.5B valuation (Marilen Martin/Bloomberg)"
+    },
     {
      "title": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection (Emily Mullin/Wired)",
      "link": "https://www.techmeme.com/261112/p5#a261112p5",
@@ -1849,20 +1857,20 @@
      "zh": "Lenovo Coupon Codes: 15% Off in November 2026"
     },
     {
-     "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
-     "link": "https://www.wired.com/story/airdoctor-coupon-code/",
-     "pubDate": "Thu, 12 Nov 2026 06:00:00 +0000",
-     "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-     "source": "WIRED",
-     "zh": "AirDoctor Coupon Codes: 40% Off | November 2026"
-    },
-    {
      "title": "HelloFresh Promo Codes: 55% Off for November 2026",
      "link": "https://www.wired.com/story/hellofresh-coupon/",
      "pubDate": "Thu, 12 Nov 2026 06:00:00 +0000",
      "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in November 2026. Discover our best codes and discounts to let you save time and money.",
      "source": "WIRED",
      "zh": "HelloFresh Promo Codes: 55% Off for November 2026"
+    },
+    {
+     "title": "Hydrow Discount Code: Save Up to $150 | November 2026",
+     "link": "https://www.wired.com/story/hydrow-discount-code/",
+     "pubDate": "Thu, 12 Nov 2026 06:00:00 +0000",
+     "summary": "Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.",
+     "source": "WIRED",
+     "zh": "Hydrow Discount Code: Save Up to $150 | November 2026"
     },
     {
      "title": "黄仁勋的麻烦，才刚开始",
@@ -1884,7 +1892,7 @@
      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
      "link": "https://www.getlazarus.org/forums/topic/17/",
      "pubDate": "Thu, 12 Nov 2026 05:49:34 +0000",
-     "summary": "Article URL: https://www.getlazarus.org/forums/topic/17/ Comments URL: https://news.ycombinator.com/item?id=50463540 Points: 12 # Comments: 1",
+     "summary": "Article URL: https://www.getlazarus.org/forums/topic/17/ Comments URL: https://news.ycombinator.com/item?id=50463540 Points: 16 # Comments: 2",
      "source": "Hacker News",
      "zh": "I'm Working on a FOSS Linux Pinbal Simulation Engine"
     },
@@ -1991,14 +1999,6 @@
      "summary": "神坛之下，公司才真正开始。",
      "source": "钛媒体",
      "zh": "黄仁勋的裂缝，英伟达等来了创始人的凡人时刻"
-    },
-    {
-     "title": "越南版号下来后首月投放 CPI 涨到 0.42 美元，这个成本还能继续放量吗？",
-     "link": "https://www.baijing.cn/question/638686",
-     "pubDate": "Thu, 12 Nov 2026 05:02:54 +0000",
-     "summary": "我们是一款 SLG 手游，团队 12 人，去年 Q4 拿到越南版号后正式上线，主投 Google Ads 和 TikTok，首月买量预算约 8 万美元。上线首周越南 CPI 还在 0.28 美元左右，第二周开始一路涨到 0.42 美元，同期 D7 留存只有 11%，付费率 1.3%。已经试过换素材方向、把预算往 TikTok 倾斜、加开印尼和泰国做对比，但越南本地 CPA 还是压不下去，卡在不知道该继续在越南放量还是先把预算挪去印尼验证。想直接问：在越南市场这个 CPI 和留存组合下，同行判断继续放量还是先收缩的标准是什么？",
-     "source": "白鲸出海",
-     "zh": "越南版号下来后首月投放 CPI 涨到 0.42 美元，这个成本还能继续放量吗？"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google says it’s working to fix missing daily vitals in Health app",
+     "link": "https://www.androidauthority.com/google-confirms-health-missing-vitals-bug-3734221/",
+     "pubDate": "Thu, 12 Nov 2026 07:18:25 +0000",
+     "summary": "Google Health's missing vitals problem is officially on the company's radar.",
+     "source": "Android Authority",
+     "zh": "Google says it’s working to fix missing daily vitals in Health app"
+    },
     {
      "title": "Motorola’s new wireless Android Auto dongle is finally here, but it has a big price hike",
      "link": "https://www.androidauthority.com/motorola-ma2-android-auto-dongle-price-increase-3734208/",
@@ -2177,14 +2185,6 @@
      "zh": "Apple reportedly met with Thai officials over spyware alerts sent to politicians"
     },
     {
-     "title": "Henry Cavill’s Mustache Protocol Googlebook game is now ready to play",
-     "link": "https://www.androidauthority.com/henry-cavill-launches-mustache-protocol-3734108/",
-     "pubDate": "Wed, 11 Nov 2026 20:11:42 +0000",
-     "summary": "It's time to stop those rogue CGI artists from erasing innocent mustaches.",
-     "source": "Android Authority",
-     "zh": "Henry Cavill’s Mustache Protocol Googlebook game is now ready to play"
-    },
-    {
      "title": "Adobe’s showing off experimental features that may shape the future of Photoshop",
      "link": "https://www.dpreview.com/news/adobes-showing-off-experimental-features-that-may-shape-the-future-of-photoshop/",
      "pubDate": "Wed, 11 Nov 2026 20:10:28 +0000",
@@ -2257,52 +2257,68 @@
    "total": 13,
    "items": [
     {
-     "title": "UK Q3 GDP rises 0.7%, driven by steady monthly growth",
-     "link": "https://seekingalpha.com/news/4671123-uk-q3-gdp-rises-07-driven-by-steady-monthly-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 02:05:54 -0500",
+     "title": "Adecco Group AG Non-GAAP EPS of €0.79, revenue of €5.99B",
+     "link": "https://seekingalpha.com/news/4671134-adecco-group-ag-non-gaap-eps-of-079-revenue-of-599b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:27:15 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "UK Q3 GDP rises 0.7%, driven by steady monthly growth"
+     "zh": "Adecco Group AG Non-GAAP EPS of €0.79, revenue of €5.99B"
     },
     {
-     "title": "Salzgitter AG reports 9M results",
-     "link": "https://seekingalpha.com/news/4671127-salzgitter-ag-reports-9m-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 02:04:53 -0500",
+     "title": "Merck KGaA Non-GAAP EPS of €2.32, revenue of €5.63B; raises FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4671133-merck-kgaa-non-gaap-eps-of-232-revenue-of-563b-raises-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:23:34 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Salzgitter AG reports 9M results"
+     "zh": "Merck KGaA Non-GAAP EPS of €2.32, revenue of €5.63B; raises FY2026 outlook"
     },
     {
-     "title": "Zurich Insurance reports results for the nine months ended September 30",
-     "link": "https://seekingalpha.com/news/4671128-zurich-insurance-reports-results-for-the-nine-months-ended-september-30?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 02:03:57 -0500",
+     "title": "Endeavour Mining beats top-line estimates; updates FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4671132-endeavour-mining-beats-top-line-estimates-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:20:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Zurich Insurance reports results for the nine months ended September 30"
+     "zh": "Endeavour Mining beats top-line estimates; updates FY2026 outlook"
     },
     {
-     "title": "Munich Re lifts FY profit target after reporting Q3 results",
-     "link": "https://seekingalpha.com/news/4671125-munich-re-lifts-fy-profit-target-after-reporting-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 02:00:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Munich Re lifts FY profit target after reporting Q3 results"
+     "title": "陈春花：真正的协同共生是生成新价值、新关系、新秩序",
+     "link": "http://www.eeo.com.cn/2026/1112/1091036.shtml",
+     "pubDate": "Thu, 12 Nov 2026 15:19:43 +0800",
+     "summary": "很多组织并不缺少协同项目，却常常缺少由协同带来的持续成长。项目完成只是一次任务结束，协同共生关注的是增效、成长与系统自进化。本期《共生课堂》回到《协同共生论》的核心判断，理解协同如何从一次性交互，进入协同共生的动态过程。",
+     "source": "经济观察网",
+     "zh": "陈春花：真正的协同共生是生成新价值、新关系、新秩序"
     },
     {
-     "title": "Foxconn Technology GAAP EPS of NT$5.51, revenue of NT$3015.63B; lifts FY2026 guidance, sees high double-digit AI rack growth in FY27",
-     "link": "https://seekingalpha.com/news/4671126-foxconn-technology-gaap-eps-of-t551-revenue-of-t301563b-lifts-fy2026-guidance-sees-high-double-digit-ai-rack-growth-in-fy27?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 01:55:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Foxconn Technology GAAP EPS of NT$5.51, revenue of NT$3015.63B; lifts FY2026 guidance, sees high double-digit AI rack growth in FY27"
+     "title": "学不动的孩子｜06 孩子为什么越管越颓",
+     "link": "http://www.eeo.com.cn/2026/1112/1091032.shtml",
+     "pubDate": "Thu, 12 Nov 2026 15:17:17 +0800",
+     "summary": "孩子不去上学以后，这个家里发生的事，用他的话说是\"全员上阵\"。妈妈每天盯着，爸爸实在憋不住了就吼一阵，爷爷奶奶轮番劝，外公外婆打电话碎碎念。所有人都在按开关。灯还是不亮。",
+     "source": "经济观察网",
+     "zh": "学不动的孩子｜06 孩子为什么越管越颓"
     },
     {
-     "title": "Telefónica raises EBITDA and free cash flow outlook after Q3 results",
-     "link": "https://seekingalpha.com/news/4671122-telefonica-raises-ebitda-and-free-cash-flow-outlook-after-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 01:51:25 -0500",
+     "title": "PLDT reports 9M results",
+     "link": "https://seekingalpha.com/news/4671130-pldt-reports-9m-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:16:17 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Telefónica raises EBITDA and free cash flow outlook after Q3 results"
+     "zh": "PLDT reports 9M results"
+    },
+    {
+     "title": "Caledonia Mining reports mixed Q3 results; updates FY26 outlook",
+     "link": "https://seekingalpha.com/news/4671131-caledonia-mining-reports-mixed-q3-results-updates-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:15:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Caledonia Mining reports mixed Q3 results; updates FY26 outlook"
+    },
+    {
+     "title": "Global EV sales bounce back in October on European gains and Chinese exports",
+     "link": "https://seekingalpha.com/news/4671124-global-ev-sales-bounce-back-in-october-on-european-gains-and-chinese-exports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:07:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global EV sales bounce back in October on European gains and Chinese exports"
     },
     {
      "title": "婚外情风波下、英伟达股价重挫，“大空头”：短期或是“绝佳交易”但长期仍看空",
@@ -2409,6 +2425,14 @@
      "zh": "20CM快报｜AI算力硬件回暖，科创综指ETF富国（589600）飘红，硬科技宽基配置价值凸显"
     },
     {
+     "title": "热度拉满！Anthropic上市首日散户净买入或达2.5亿美元 为SpaceX纪录两倍",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929373974.html",
+     "pubDate": "Thu, 12 Nov 2026 13:39:39 +0800",
+     "summary": "美东时间周三，金融市场研究公司Vanda Research发布研报称，Anthropic的上市首日或将迎来创纪录的散户资金买入，规模有望超过 SpaceX ，成为史上散户单日买入规模最大的标的之一。 Vanda Research结合上市首日散户交易规律、以及Hyperliquid平台上Anthropic的IPO前永续 期货 成交数据测算，预计该股上市首日散户净买入规模约2.5亿美元，达到 SpaceX 此前1.18亿美元散户买入纪录的两倍。 Vanda Research全球宏观策略师维拉杰·帕特尔（Viraj Patel）在报告中表示：“从IPO前永续合约的交易表现来看，Anthropic有望",
+     "source": "东方财富资讯",
+     "zh": "热度拉满！Anthropic上市首日散户净买入或达2.5亿美元 为SpaceX纪录两倍"
+    },
+    {
      "title": "Growth investing or gambling?",
      "link": "https://www.ft.com/content/92eb0eca-aee8-45af-b336-7a9a20da0a64?syn-25a6b1a6=1",
      "pubDate": "Thu, 12 Nov 2026 05:00:12 GMT",
@@ -2425,6 +2449,30 @@
      "zh": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang"
     },
     {
+     "title": "从“鼓吹降息”到“加息50基点”？起底美联储“变脸王”沃勒！",
+     "link": "http://finance.eastmoney.com/news/1344,202611123929355411.html",
+     "pubDate": "Thu, 12 Nov 2026 12:40:19 +0800",
+     "summary": "美联储主席凯文·沃什对利率“前瞻性指引”的唾弃是显而易见。然而令人唏嘘的是，其同僚似乎把“这一招”玩出了新花样…… 自5月接替鲍威尔出任美联储主席以来，沃什一直致力于全面改革美联储的运作机制——从减少每年的政策会议次数到彻底重组决策框架，几乎涵盖了各个方面。 然而如今，信息传达混乱反而已成为新阶段美联储的一大特征。 虽然沃什曾多次引导市场不要过度看重单一数据点，并主张美联储不应将自身束缚在预测之上。但周二在伦敦，美联储理事沃勒的做法却“恰恰相反”。 沃勒表示，如果原定于当天晚些时候公布的美国10月份核心消费者物价指数(CPI)环比涨幅达到0.3%或更高，那么下个月加息50个基点就应纳入考虑范围",
+     "source": "东方财富资讯",
+     "zh": "从“鼓吹降息”到“加息50基点”？起底美联储“变脸王”沃勒！"
+    },
+    {
+     "title": "4500亿搏杀！A50突然异动！",
+     "link": "http://finance.eastmoney.com/news/1344,202611123929354834.html",
+     "pubDate": "Thu, 12 Nov 2026 12:37:50 +0800",
+     "summary": "流动性和叙事逻辑一个都不能少！ 今日早盘，A50突然直线拉升，涨幅一度超过1%。与此同时，A股 半导体 集体拉升（GPU表现尤其突出）， 寒武纪 、燧原科技、 盛合晶微 、盛科 通信 涨超10%， 通富微电 一度涨停。芯片板块上午成交量突破4500亿元。 AI应用 也大涨， 鸿博股份 涨停， 蓝色光标 、 易点天下 、 福石控股 、 利欧股份 、 汉得信息 等跟涨。 电子 元件 板块持续走高， 景旺电子 、 博敏电子 涨停， 奥士康 、 东山精密 、 沪电股份 、 生益电子 纷纷上扬。 分析人士认为，市场主要有两大变量助力： 一是流动性。据研究机构统计，本轮机构暴露20日累计收益首次回正，出现",
+     "source": "东方财富资讯",
+     "zh": "4500亿搏杀！A50突然异动！"
+    },
+    {
+     "title": "高盛预计明年涨价122%！融资客抢筹HBM概念股",
+     "link": "http://finance.eastmoney.com/news/11139,202611123929353059.html",
+     "pubDate": "Thu, 12 Nov 2026 12:25:16 +0800",
+     "summary": "周四 高带宽内存 (HBM)概念大涨，截至午间收盘， 赛腾股份 、西安奕材、中巨芯、 精智达 等表现强势。 HBM需求旺盛 北美三大云厂商三季度云业务收入均保持较快增长，资本开支继续向AI基础设施倾斜， SK海力士 和三星 电子 存储业务业绩创下新高，HBM等高端产品需求旺盛，长期供应协议进一步锁定未来产能。 国盛证券 认为，AI基础设施建设对高端存储需求的拉动已逐步体现为企业收入和利润增长，存储市场供需偏紧的局面仍在延续。 市场分析机构Counterpoint最新报告显示，随着新一代HBM产品推出及价格持续上涨，主要存储供应商有望在第四季度创下新的营收纪录。 2026年第三季度，三星以38%",
+     "source": "东方财富资讯",
+     "zh": "高盛预计明年涨价122%！融资客抢筹HBM概念股"
+    },
+    {
      "title": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington",
      "link": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1",
      "pubDate": "Thu, 12 Nov 2026 04:19:48 GMT",
@@ -2433,68 +2481,20 @@
      "zh": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington"
     },
     {
-     "title": "见闻历11.11大促最后2天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Thu, 12 Nov 2026 12:08:57 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11大促最后2天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”"
+     "title": "阿里平头哥冲刺IPO！A股“朋友圈”来了 黑马抢先爆发（附名单）",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929352034.html",
+     "pubDate": "Thu, 12 Nov 2026 12:19:00 +0800",
+     "summary": "平头哥独立上市的申请助推国产算力高景气。 阿里平头哥拟IPO 11月10日晚， 阿里巴巴 集团发布公告称，已向香港联交所提交分拆旗下全资子公司平头哥独立上市的申请。待上市完成后，预计平头哥仍将是 阿里巴巴 子公司。 公告显示，今年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。 据券商中国报道，截至目前，国内拥有算力、存储、网络全栈 数据中心 芯片自研能力的厂商，主要为华为与平头哥。 在单芯片层面，平头哥已推出真武系列 AI芯片 、倚天系列 CPU、ICN互联芯片、磐脉智能网卡和镇岳存储主控芯片，性能均处于第一梯队。此外，平头",
+     "source": "东方财富资讯",
+     "zh": "阿里平头哥冲刺IPO！A股“朋友圈”来了 黑马抢先爆发（附名单）"
     },
     {
-     "title": "Nvidia shares tumble in after-market trading",
-     "link": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
-     "pubDate": "Thu, 12 Nov 2026 03:39:25 GMT",
-     "summary": "Stock sinks almost 9 per cent in after-market trading as chief executive’s fate hangs in balance following more revelations",
-     "source": "Financial Times",
-     "zh": "Nvidia shares tumble in after-market trading"
-    },
-    {
-     "title": "The world&apos;s super-rich are piling into alternative investments. Here&apos;s why",
-     "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-     "pubDate": "Thu, 12 Nov 2026 03:36:44 GMT",
-     "summary": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.",
-     "source": "CNBC",
-     "zh": "The world&apos;s super-rich are piling into alternative investments. Here&apos;s why"
-    },
-    {
-     "title": "Elon Musk says it would be an &apos;honor&apos; to hire Nvidia&apos;s Jensen Huang",
-     "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
-     "pubDate": "Thu, 12 Nov 2026 03:25:05 GMT",
-     "summary": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
-     "source": "CNBC",
-     "zh": "Elon Musk says it would be an &apos;honor&apos; to hire Nvidia&apos;s Jensen Huang"
-    },
-    {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 03:15:00 GMT",
-     "summary": "There is already a demographic ‘run’ on Social Security.",
-     "source": "MarketWatch",
-     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
-    },
-    {
-     "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-     "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 03:10:00 GMT",
-     "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-     "source": "MarketWatch",
-     "zh": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’"
-    },
-    {
-     "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
-     "link": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-     "pubDate": "Thu, 12 Nov 2026 03:02:03 GMT",
-     "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
-     "source": "CNBC",
-     "zh": "What we know so far about Nvidia partner Megaspeed’s Asia footprint"
-    },
-    {
-     "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 02:52:00 GMT",
-     "summary": "Nvidia’s board of directors reportedly met late Wednesday to determine the CEO’s fate.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang"
+     "title": "证监会副主席刘浩凌：中国政府高度重视资本市场平稳健康发展 中国资产的安全、韧性和创新价值将持续凸显",
+     "link": "http://finance.eastmoney.com/news/1345,202611123929347043.html",
+     "pubDate": "Thu, 12 Nov 2026 12:09:40 +0800",
+     "summary": "中国证监会副主席刘浩凌在2026年上海证券交易所国际投资者大会上致辞。刘浩凌表示，中国政府高度重视资本市场平稳健康发展。中国证监会将坚决贯彻党中央决策部署，落实近日国务院常务会议要求，完善稳市机制，增强股市内在稳定性，会同相关部门协同发力，打好稳市场、稳预期政策组合拳。用好用足两项结构性货币政策工具，证券、基金公司已开展第三批互换便利操作1000亿元。支持上市公司加大回购增持力度，今年以来上市公司新披露的回购计划金额、实际回购金额、回购注销金额及占比均创 历史新高 。丰富市场投资工具，加大权益类产品供给和创新力度，引导和鼓励主动ETF加快投资建仓。进一步拓宽中长期资金来源、渠道和入市方式，促进",
+     "source": "东方财富资讯",
+     "zh": "证监会副主席刘浩凌：中国政府高度重视资本市场平稳健康发展 中国资产的安全、韧性和创新价值将持续凸显"
     }
    ]
   },

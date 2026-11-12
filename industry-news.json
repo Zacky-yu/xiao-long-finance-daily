@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/12 11:31:54",
+ "generated_at": "2026/11/12 11:52:02",
  "recent_days": 7,
  "industries": [
   {
@@ -15,14 +15,6 @@
      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
      "source": "TechCrunch AI",
      "zh": "Who could replace Jensen Huang? A highly unscientific list of possible successors"
-    },
-    {
-     "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
-     "link": "https://www.qbitai.com/2026/11/509281.html",
-     "pubDate": "Thu, 12 Nov 2026 01:45:04 +0000",
-     "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
-     "source": "量子位",
-     "zh": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段"
     },
     {
      "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -137,22 +129,6 @@
      "zh": "9 Key LLM Inference Metrics Explained in 5 Minutes"
     },
     {
-     "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
-     "link": "https://www.qbitai.com/2026/11/509224.html",
-     "pubDate": "Wed, 11 Nov 2026 12:43:54 +0000",
-     "summary": "模型即将开源",
-     "source": "量子位",
-     "zh": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了"
-    },
-    {
-     "title": "上海造、香港连，中国AI加速走向全球",
-     "link": "https://www.qbitai.com/2026/11/509214.html",
-     "pubDate": "Wed, 11 Nov 2026 12:22:34 +0000",
-     "summary": "WAIC把中国AI的年度日历排满了",
-     "source": "量子位",
-     "zh": "上海造、香港连，中国AI加速走向全球"
-    },
-    {
      "title": "10秒直出4K图，能画CAD、拆机械，MiniMax这个开源图像模型有点东西",
      "link": "https://zhidx.com/p/609469.html",
      "pubDate": "Wed, 11 Nov 2026 19:51:25 +0800",
@@ -175,14 +151,6 @@
      "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月11日消息，今日，The Information援引知情人士报道，OpenAI在一场投资者电话会上披露，其第三季度收入 达到100亿美元 （约合人民币672亿元），为去年同期的 2.6倍 ，环比增幅从第二季度的17%升至近50%。 该报道同时称，OpenAI正寻求以 1.25万亿美元 （约合人民币8.4万亿元）的估值推进新一轮融资。 今日，OpenAI CFO萨拉·弗莱尔（Sarah Friar）在接受Yahoo Finance采访时透露，第三季度企业业务环比翻倍，消费者业务收入环比增长20%，目前两部分业务各贡献约一半收入。 收入提速降低",
      "source": "智东西",
      "zh": "曝OpenAI三季度收入突破670亿！"
-    },
-    {
-     "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
-     "link": "https://www.qbitai.com/2026/11/509203.html",
-     "pubDate": "Wed, 11 Nov 2026 09:58:49 +0000",
-     "summary": "复刻一个物理世界",
-     "source": "量子位",
-     "zh": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了"
     },
     {
      "title": "刚刚，腾讯版搜索引擎来了！几乎没广告，能搜公众号",
@@ -241,12 +209,44 @@
      "zh": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题"
     },
     {
+     "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+     "link": "https://www.qbitai.com/2026/11/509085.html",
+     "pubDate": "Wed, 11 Nov 2026 06:18:09 +0000",
+     "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+     "source": "量子位",
+     "zh": "卷起来了！11月11日，大模型厂商在天猫打5折"
+    },
+    {
      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
      "link": "https://huggingface.co/blog/qvac/botpsy",
      "pubDate": "Wed, 11 Nov 2026 05:01:16 GMT",
      "summary": "",
      "source": "Hugging Face",
      "zh": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
+    },
+    {
+     "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+     "link": "https://arxiv.org/abs/2611.12933",
+     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, u",
+     "source": "arXiv cs.AI",
+     "zh": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation"
+    },
+    {
+     "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+     "link": "https://arxiv.org/abs/2611.12934",
+     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: th",
+     "source": "arXiv cs.AI",
+     "zh": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery"
+    },
+    {
+     "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+     "link": "https://arxiv.org/abs/2611.12935",
+     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes.",
+     "source": "arXiv cs.AI",
+     "zh": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring"
     }
    ]
   },
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "GWM to launch Ferrari-rivaling hybrid supercar in 2027",
+     "link": "https://cnevpost.com/2026/11/12/gwm-launch-hybrid-supercar-2027/",
+     "pubDate": "Thu, 12 Nov 2026 03:48:10 +0000",
+     "summary": "GWM chairman acknowledged a gap in overall performance between its supercar and the Ferrari SF90, but expects to deliver a surprise at launch. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "GWM to launch Ferrari-rivaling hybrid supercar in 2027"
+    },
+    {
      "title": "VW Anhui reportedly has no new models planned for 2027-2028 as ID. UNYX sales disappoint",
      "link": "https://cnevpost.com/2026/11/12/vw-anhui-no-new-models-2027-2028/",
      "pubDate": "Thu, 12 Nov 2026 02:51:37 +0000",
@@ -783,14 +791,6 @@
      "summary": "NEV retail sales totaled 219,000 from November 1-8, down 7% year-on-year, outperforming a 21% decline in the overall passenger car market. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "China NEV retail sales fall 7% in first 8 days of November as penetration reaches 74.9%"
-    },
-    {
-     "title": "Nio ES9 reaches 40,000 deliveries, adding latest 10,000 in 49 days",
-     "link": "https://cnevpost.com/2026/11/11/nio-es9-40000-deliveries/",
-     "pubDate": "Wed, 11 Nov 2026 07:33:11 +0000",
-     "summary": "Nio ES9 reached the latest milestone less than 6 months after deliveries began. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Nio ES9 reaches 40,000 deliveries, adding latest 10,000 in 49 days"
     },
     {
      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
@@ -1769,12 +1769,84 @@
    "total": 18,
    "items": [
     {
-     "title": "遏制烦人的网页 Cookie 弹窗，苹果 Safari 27.3 浏览器拟引入新隐私选项",
-     "link": "https://www.ithome.com/1/025/916.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:26:46 GMT",
-     "summary": "IT之家 11 月 12 日消息，科技媒体 9to5Mac 昨日（11 月 11 日）发布博文，报道称在 iOS 27.3 首个 Beta 开发者预览版中， 苹果公司计划为 Safari 浏览器引入“全局隐私控制”（Global Privacy Control，简称 GPC）选项，未来有望减少用户反复处理 Cookie 同意弹窗的麻烦。 IT之家援引博文介绍，该选项位于“设置 → 应用 → Safari 浏览器 → 高级”中。按照苹果的说明，开启后，Safari 可以要求网站不要出售或共享用户数据。不过，苹果同时提醒，这可能导致部分网站无法正常运行，甚至完全无法使用。 新闻记者 Nick He",
+     "title": "百度昆仑芯 M300 明年推出，2028 年发布基于全新 N 架构的多颗芯片",
+     "link": "https://www.ithome.com/1/025/971.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:46:35 GMT",
+     "summary": "IT之家 11 月 12 日现场消息，在今日（11 月 12 日）举办的百度世界 2026 开幕式上，百度创始人李彦宏在谈及 AI 芯片时表示，过去 AI 算力需求主要以训练为主，而现在是训练与推理并重的格局，尤其是智能体应用的规模化，带动了推理计算需求的大爆发。“我们相信， 推理将成为 AI 芯片长期持续增长的主要推动力 。” IT之家在大会现场了解到，昆仑芯介绍了下一步产品计划。目前 M100 已如期上市， M300 将于明年推出 。其中，M100 主打极致性价比；而作为旗舰款 M300，则在算力、存储、互联等多个维度，实现了全方位能力跃升。 到 2028 年，基于全新 N 架构的多颗芯片",
      "source": "IT之家",
-     "zh": "遏制烦人的网页 Cookie 弹窗，苹果 Safari 27.3 浏览器拟引入新隐私选项"
+     "zh": "百度昆仑芯 M300 明年推出，2028 年发布基于全新 N 架构的多颗芯片"
+    },
+    {
+     "title": "网友喊话马斯克聘请黄仁勋，马斯克回应称“那将会是我的荣幸”",
+     "link": "https://www.ithome.com/1/025/970.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:44:31 GMT",
+     "summary": "IT之家 11 月 12 日消息，由于黄仁勋深陷婚外情风波，英伟达董事会面临压力或将解雇黄仁勋。 后续，有人在 X 上喊话马斯克，希望他能够在黄仁勋被解雇后为其提供一份工作。马斯克本人则回复称，如果能雇佣到黄仁勋，“那将会是我的荣幸”。 值得一提的是，马斯克旗下多个企业都是英伟达 GPU 的重要客户，黄仁勋在芯片和人工智能领域的专业经验对这些企业具有价值。 此前，黄仁勋已公开承认对妻子不忠，并向家人及英伟达员工致歉。英伟达董事会也已启动独立调查，黄仁勋表示将配合调查。 相关阅读： 《 黄仁勋遭美国议员要求辞职，英伟达面临国会问询压力 》 《 英伟达董事会已聘请外部机构物色新 CEO 候选人以接",
+     "source": "IT之家",
+     "zh": "网友喊话马斯克聘请黄仁勋，马斯克回应称“那将会是我的荣幸”"
+    },
+    {
+     "title": "TikTok Shop 美国站达人寄样后，为什么同一套素材在美东和美西的转化差这么多？",
+     "link": "https://www.baijing.cn/question/638678",
+     "pubDate": "Thu, 12 Nov 2026 03:43:00 +0000",
+     "summary": "我们做的是厨房小家电，去年底在 TikTok Shop 美国站起量，团队 6 个人，每月寄样预算大概 8000 美金，合作过 40 多个达人。遇到一个很怪的现象：同一批寄样视频素材，达人自己在美东发的时候转化率能到 3.2%，但美西几个达人用几乎一样的脚本，转化只有 1.1% 左右，退货率还高出快一倍。我们试过把美东达人原片直接投 Spark Ads，也试过让美西达人重拍，但效果都没拉回来。现在卡在不知道该按区域重做素材，还是干脆只签美东达人。想直接问：这种区域接受度差异，到底该看哪些指标来判断是素材问题还是达人受众问题？",
+     "source": "白鲸出海",
+     "zh": "TikTok Shop 美国站达人寄样后，为什么同一套素材在美东和美西的转化差这么多？"
+    },
+    {
+     "title": "电影《八仙！》四轮密钥延期至 2026 年 12 月 17 日，累计票房已破 20 亿",
+     "link": "https://www.ithome.com/1/025/959.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:40:03 GMT",
+     "summary": "IT之家 11 月 12 日消息， 国产动画电影《八仙！》今日官宣四轮密钥延期至 2026 年 12 月 17 日 23:59 ，目前本片的累计票房为 20.63 亿。 《八仙！》于 2026 年 7 月 18 日上映，类型覆盖神话、喜剧、冒险，评分 9.6 分。导演为牟正洋，李绍哲、陈浩、立冬参与创作，讲述以下故事： 在蓬莱仙境内，八个凡人为闯入只有神仙可以通行的藏宝阁，假扮神仙瞒天过海，面对阁中“十辈子花不完”的泼天富贵，众人一拍即合，“草台班子”就地成立，一起踏上寻宝求财路。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
+     "source": "IT之家",
+     "zh": "电影《八仙！》四轮密钥延期至 2026 年 12 月 17 日，累计票房已破 20 亿"
+    },
+    {
+     "title": "演员赵丽颖起诉红果短剧侵犯肖像权",
+     "link": "https://www.ithome.com/1/025/939.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:36:47 GMT",
+     "summary": "IT之家 11 月 12 日消息，据南华视频报道，红果短剧的运营主体 —— 北京笔墨留香科技有限公司新增开庭公告， 案由涉及肖像权纠纷，原告方为赵丽颖 ，被告方为北京抖音信息服务有限公司、北京笔墨留香科技有限公司、史某伦。开庭法院为北京市门头沟区人民法院云法庭，开庭时间为 2026 年 11 月 10 日。 北京笔墨留香科技有限公司成立于 2021 年 7 月，注册资本 100 万元，经营范围包含广播电视节目制作、电视剧制作、互联网信息服务、电影发行等，由北京抖音信息服务有限公司全资持股，旗下产品为红果短剧 App。 IT之家注意到，网传多家报道提及索赔 81 万元，但该金额存在口径分歧，有媒",
+     "source": "IT之家",
+     "zh": "演员赵丽颖起诉红果短剧侵犯肖像权"
+    },
+    {
+     "title": "Mac 版 ChatGPT 新增“财务”入口：让 AI 替你管账、查消费、盯投资",
+     "link": "https://www.ithome.com/1/025/934.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:36:01 GMT",
+     "summary": "IT之家 11 月 12 日消息，OpenAI 今天（11 月 12 日）在 X 平台发布推文，宣布 ChatGPT Finances 功能正式扩展至 Mac 桌面应用。用户更新 ChatGPT 应用后， 即可在侧边栏的“财务”入口连接银行、信用卡及投资账户，直接在 macOS 上查看余额、分析消费、管理订阅并跟踪投资组合。 该功能通过金融数据服务商 Plaid 接入账户，ChatGPT 可基于真实交易、余额和投资数据回答问题。例如，用户可以直接询问“这个月我在哪儿花钱最多？”或“哪些订阅应该取消？”，AI 会结合账户信息给出个性化分析。IT之家附上相关截图如下： ChatGPT Financ",
+     "source": "IT之家",
+     "zh": "Mac 版 ChatGPT 新增“财务”入口：让 AI 替你管账、查消费、盯投资"
+    },
+    {
+     "title": "英 AI 芯片初创企业 Fractile 获该国政府资金支持，估值达 70 亿美元",
+     "link": "https://www.ithome.com/1/025/927.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:34:04 GMT",
+     "summary": "IT之家 11 月 12 日消息，英国人工智能芯片初创企业 Fractile 当地时间昨日宣布完成了超 7.2 亿美元 （IT之家注：现汇率约合 48.14 亿元人民币） 的 C 轮融资。根据路透社的报道，该企业估值达到 70 亿美元 （现汇率约合 468.01 亿元人民币） 。 英国政府主权人工智能风险投资基金和英国商业银行在本轮融资中向 Fractile 提供了支持 ，其它投资者包括谷歌风投部门、贝莱德等。 Fractile 目标是构建出真正意义上更快的 AI 推理计算硬件，无需在吞吐、模型尺寸、上下文长度上进行权衡。此外有消息称，Anthropic 有意于 2027 年部署 Fracti",
+     "source": "IT之家",
+     "zh": "英 AI 芯片初创企业 Fractile 获该国政府资金支持，估值达 70 亿美元"
+    },
+    {
+     "title": "日本电视台，被老人救活了",
+     "link": "https://www.tmtpost.com/8202109.html",
+     "pubDate": "Thu, 12 Nov 2026 11:31:00 +0800",
+     "summary": "日本电视不会被剪线，也不能加广告。",
+     "source": "钛媒体",
+     "zh": "日本电视台，被老人救活了"
+    },
+    {
+     "title": "北美 AI 应用订阅定价改版后转化跌 18%，两人团队该怎么排测试节奏？",
+     "link": "https://www.baijing.cn/question/638677",
+     "pubDate": "Thu, 12 Nov 2026 03:28:50 +0000",
+     "summary": "我们做北美市场的 AI 写作类应用，团队就我和一个兼职运营，产品刚过冷启动、月流水在 1 万美元上下。上个月把 Pro 档从 9.99 美元/月改成 14.99 美元/月，同时加了一个 99 美元/年的年付选项，结果首周付费转化率从 4.2% 掉到 3.4%，年付占比只有 11%，退款率还涨了 2 个百分点。已经在 Stripe 上跑了三个价格点的小流量测试，但两个人一周只能排两轮，样本量一直不够，App Store 的订阅价格组审核又要等。现在卡在不知道先测年付折扣力度还是先回调月付价格，按我们这种人力和排期，应该优先验证哪一个变量？",
+     "source": "白鲸出海",
+     "zh": "北美 AI 应用订阅定价改版后转化跌 18%，两人团队该怎么排测试节奏？"
+    },
+    {
+     "title": "Grok Bot大升级，AI同事开始抢活干",
+     "link": "https://www.tmtpost.com/8202042.html",
+     "pubDate": "Thu, 12 Nov 2026 11:26:00 +0800",
+     "summary": "网友：@bot帮我总结这次更新。",
+     "source": "钛媒体",
+     "zh": "Grok Bot大升级，AI同事开始抢活干"
     },
     {
      "title": "Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)",
@@ -1785,20 +1857,12 @@
      "zh": "Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)"
     },
     {
-     "title": "中央国家机关台式机集采大单落地：2680 台总金额 1309.6 万元，清一色国产操作系统",
-     "link": "https://www.ithome.com/1/025/914.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:23:58 GMT",
-     "summary": "IT之家 11 月 12 日消息，中央国家机关 2026 年台式计算机批量集中采购项目-11 月中标公告于 11 月 11 日发布， 2,680 台设备总金额 1,309.6 万元，清一色国产操作系统 。 IT之家从中标公告了解到，紫光、联硕合计拿下超七成份额， 所有中标机型均支持麒麟、统信 UOS、中科方德等国产操作系统 。 紫光计算机以 668.73 万元中标金额位居第一，中标第五标包 1357 台，响应产品为紫光 UNIS D3830 G3s 0775，裸机单价 4928 元。 联硕电脑（重庆）以 327.63 万元位列第二，中标第三标包 670 台，响应产品为联硕弘道 DZ700MR-",
-     "source": "IT之家",
-     "zh": "中央国家机关台式机集采大单落地：2680 台总金额 1309.6 万元，清一色国产操作系统"
-    },
-    {
-     "title": "雷蛇发布《崩坏：星穹铁道》银狼 LV.999 联名外设四件套",
-     "link": "https://www.ithome.com/1/025/913.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:20:08 GMT",
-     "summary": "IT之家 11 月 12 日消息，Razer（雷蛇）当地时间昨日宣布携手米哈游推出 《崩坏：星穹铁道》银狼 LV.999 联名外设四件套 。该系列产品展现了这位“无敌玩家”的天才黑客风格，融合她独特审美和竞技精神。 此次联名产品包括风神 V2 X NewGen 座椅、黑寡妇蜘蛛 V4 竞技极速版键盘、毒蝰 V3 专业版 SE 鼠标、旋风黑鲨 V3 X 极速版耳麦，所有实体硬件产品均附带游戏内虚拟权益。",
-     "source": "IT之家",
-     "zh": "雷蛇发布《崩坏：星穹铁道》银狼 LV.999 联名外设四件套"
+     "title": "光模块，开启大反攻？",
+     "link": "https://www.tmtpost.com/8202010.html",
+     "pubDate": "Thu, 12 Nov 2026 11:22:00 +0800",
+     "summary": "不畏浮云遮望眼。",
+     "source": "钛媒体",
+     "zh": "光模块，开启大反攻？"
     },
     {
      "title": "华灿光电2026年定增9.98亿，京东方只掏三成",
@@ -1825,14 +1889,6 @@
      "zh": "被折叠的芯片资产：阿里分拆平头哥的逻辑与悬念"
     },
     {
-     "title": "长城首款 V8 混动超跑官宣：明年上市，魏建军称其对标法拉利 SF90",
-     "link": "https://www.ithome.com/1/025/912.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:18:52 GMT",
-     "summary": "IT之家 11 月 12 日消息，长城汽车董事长魏建军正式公布了长城首台超跑。魏建军表示，这款超级跑车的对标目标是法拉利，同时放出了新车与法拉利 SF90 的对比测试视频。 据魏建军介绍，新车预计于 2026 年年底正式亮相，2027 年上市。 魏建军表示，该车搭载的是国内首款自主研发的 4.0L 双涡轮增压 V8 发动机，并与 PHEV 插混系统结合。 这台 V8 发动机的技术细节在 2026 年北京车展期间已部分公开。长城为超跑与 GT3 赛车同步开发的 GF 高性能架构中，4.0T V8 采用 90 度 V 角与 HOT V 型双涡轮布局，配备了赛道级电控软件和干式润滑系统。与之匹配的是",
-     "source": "IT之家",
-     "zh": "长城首款 V8 混动超跑官宣：明年上市，魏建军称其对标法拉利 SF90"
-    },
-    {
      "title": "波兰仓配布局后，亚马逊欧洲站广告CPA涨了40%，是仓储半径问题还是投放结构问题？",
      "link": "https://www.baijing.cn/question/638676",
      "pubDate": "Thu, 12 Nov 2026 03:18:37 +0000",
@@ -1857,28 +1913,12 @@
      "zh": "华发“开卖”豪华酒店资产？第一笔就是2......"
     },
     {
-     "title": "盖世小鸡 G7 Pro 手柄迈阿密风情双色国行发售，到手价 449 元",
-     "link": "https://www.ithome.com/1/025/910.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:12:35 GMT",
-     "summary": "IT之家 11 月 12 日消息，盖世小鸡 (GameSir) 现已在中国大陆电商平台销售 XBOX 授权手柄控制器天王星 G7 Pro 的全新日落大道 / 海洋微风配色。这两个版本 均以美国佛罗里达州城市迈阿密为设计灵感来源 ，到手价 449 元。 日落大道款定格黄昏公路的浪漫 ，拥有深蓝摇杆帽、蓝透 D-Pad 键帽、落日黄 ABXY 键帽，充电底座为半透黄粉渐变； 海洋微风款则展现了白日海滩的风情 ，拥有薄荷绿摇杆帽、粉透 D-Pad 键帽、浅粉 ABXY 键帽，充电底座为半透蓝粉渐变。 天王星 G7 Pro 手柄配备 TMR 摇杆、霍尔 / 微动双切扳机、光学微动 ABXY、微动 D-",
-     "source": "IT之家",
-     "zh": "盖世小鸡 G7 Pro 手柄迈阿密风情双色国行发售，到手价 449 元"
-    },
-    {
      "title": "年内最后一批储蓄国债“秒光”，低利差下为何仍遭抢购？",
      "link": "https://www.huxiu.com/article/4904951.html?f=rss",
      "pubDate": "Thu, 12 Nov 2026 11:09:09 +0800",
      "summary": "本文来自微信公众号： 经济观察网 ，作者：刘轩宇 存款利率回升、利差几乎抹平，年内最后一批储蓄国债仍然开售即“秒光”。 11月10日8时30分，2026年第九期、第十期储蓄国债（电子式）正式开售，这也是今年最后一批储蓄国债。开售仅数分钟，多家银行APP的渠道额度即告售罄。 虽然储蓄国债历来都会被抢购，但值得注意的是，这几个月随着大额存单的回归，银行定存利率已悄然回升，储蓄国债与存款之间的利差已相差无几。即便如此，开售即“秒光”的情形仍再度上演。 收官批次开售即罄，储蓄国债热度延续 本次发行的两期储蓄国债均为固定利率、固定期限品种：第九期期限3年，票面年利率1.63%，最大发行额249.04亿元",
      "source": "虎嗅",
      "zh": "年内最后一批储蓄国债“秒光”，低利差下为何仍遭抢购？"
-    },
-    {
-     "title": "IDC：2026 年 Q3 中国平板电脑出货 660 万台同比下滑 22.3% 创疫情来最大跌幅，华为苹果联想小米荣耀位列前五",
-     "link": "https://www.ithome.com/1/025/907.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:08:40 GMT",
-     "summary": "IT之家 11 月 12 日消息，IDC 最新数据显示，2026 年第三季度中国平板电脑市场出货量为 660 万台，同比下降 22.3%，成本压力加速向需求端传导，市场调整幅度进一步扩大。 IDC 表示，Q3 消费市场受涨价影响持续收缩，商用市场则在需求前置后逐步回归常态，厂商竞争及市场需求结构也随之发生变化。 IDC 指出，伴随成本上涨压力充分向销售端传导，市场出货量降幅较上半年显著扩大，单季度出货量在连续 12 个季度后 首次低于 700 万台 ，降幅也创下 2020 年第一季度新冠疫情以来的最大值，市场首次迎来同比双位数下滑。 从市场表现来看，第三季度有三个值得关注的变化：一是消费与商用",
-     "source": "IT之家",
-     "zh": "IDC：2026 年 Q3 中国平板电脑出货 660 万台同比下滑 22.3% 创疫情来最大跌幅，华为苹果联想小米荣耀位列前五"
     },
     {
      "title": "血战威士忌，百润股份再投10亿买桶",
@@ -1897,14 +1937,6 @@
      "zh": "孟加拉COD回款要压45天，达卡以外订单物流覆盖怎么算得过账？"
     },
     {
-     "title": "破产转行搞芯片的房企，又准备把酒店交给华住？",
-     "link": "https://www.tmtpost.com/8201970.html",
-     "pubDate": "Thu, 12 Nov 2026 11:02:00 +0800",
-     "summary": "还要不要自己做酒店？",
-     "source": "钛媒体",
-     "zh": "破产转行搞芯片的房企，又准备把酒店交给华住？"
-    },
-    {
      "title": "一个PDF文档，竟然能玩游戏，还能跑Linux？PDF 到底是个什么东西？",
      "link": "https://www.huxiu.com/article/4903889.html?f=rss",
      "pubDate": "Thu, 12 Nov 2026 11:00:00 +0800",
@@ -1913,28 +1945,12 @@
      "zh": "一个PDF文档，竟然能玩游戏，还能跑Linux？PDF 到底是个什么东西？"
     },
     {
-     "title": "光伏龙头通威花14亿“养猪”，刘汉元不甘心只赢一次",
-     "link": "https://www.tmtpost.com/8201663.html",
-     "pubDate": "Thu, 12 Nov 2026 10:58:00 +0800",
-     "summary": "一个周期不够亏，两个周期才够味。",
-     "source": "钛媒体",
-     "zh": "光伏龙头通威花14亿“养猪”，刘汉元不甘心只赢一次"
-    },
-    {
      "title": "AI超创倒是不用投流，他们赚到钱了吗？",
      "link": "https://www.huxiu.com/article/4904948.html?f=rss",
      "pubDate": "Thu, 12 Nov 2026 10:57:55 +0800",
      "summary": "本文来自微信公众号： 影视独舌 ，作者：许心强，原文标题：《调查丨AI超创倒是不用投流，他们赚到钱了吗？》 为什么那么多人看AI短剧，新闻上却总说做AI短剧不赚钱？ 最近，网上关于AI短剧的新闻呈现出两种截然不同的景象： 一边是“54岁大哥靠AI短剧还清负债”的暴富故事，一边是“盈利的AI短剧只有1.3%”的行业现实。 新火集团首席经济学家付鹏在接受采访时谈到，过去三个月，大多数做AI漫剧的公司账面上都没有赚到钱。AI虽然大幅提升了制作效率，却没有改变短剧原有的商业模式。作品仍然需要通过流量竞价争夺用户，生产环节省下来的钱，又花在了投流上。 不过，这些AI短剧，主要是以平台为发行对象和发布出口",
      "source": "虎嗅",
      "zh": "AI超创倒是不用投流，他们赚到钱了吗？"
-    },
-    {
-     "title": "通威集团吞下天邦食品",
-     "link": "https://www.tmtpost.com/8201946.html",
-     "pubDate": "Thu, 12 Nov 2026 10:53:00 +0800",
-     "summary": "斥资超14亿元参与重整。",
-     "source": "钛媒体",
-     "zh": "通威集团吞下天邦食品"
     },
     {
      "title": "亚马逊波兰仓做欧洲泛欧布局，广告CPA涨到18欧还值得继续投吗？",
@@ -1964,7 +1980,7 @@
      "title": "Lean Grimoire",
      "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
      "pubDate": "Thu, 12 Nov 2026 02:36:48 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/ Comments URL: https://news.ycombinator.com/item?id=50462375 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/ Comments URL: https://news.ycombinator.com/item?id=50462375 Points: 8 # Comments: 0",
      "source": "Hacker News",
      "zh": "Lean Grimoire"
     },
@@ -1985,28 +2001,12 @@
      "zh": "The Best Early Black Friday MacBook Air Deal: $200 Off"
     },
     {
-     "title": "欧洲本地支付方式接入后回款周期反而变长，是清算行选错了吗？",
-     "link": "https://www.baijing.cn/question/638672",
-     "pubDate": "Thu, 12 Nov 2026 02:30:11 +0000",
-     "summary": "欧洲市场上线 iDEAL 和 Bancontact 后，支付成功率从 71% 提到 86%，但回款周期从 T+3 拉到 T+9，现金流一下紧了。团队 12 人，做 SaaS 订阅工具，月流水约 18 万欧元，用的是 Adyen 收单加 Stripe 备用。已经让财务对过结算报表，发现荷兰和比利时的本地清算行周末不处理，卡在清算行对账这一步。想确认这是本地支付方式的固有结算节奏，还是我们清算行选错了、换一家能压回 T+3？",
-     "source": "白鲸出海",
-     "zh": "欧洲本地支付方式接入后回款周期反而变长，是清算行选错了吗？"
-    },
-    {
      "title": "Critical RCE Vulnerability in Apache HTTP Server",
      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
      "pubDate": "Thu, 12 Nov 2026 02:11:11 +0000",
-     "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 13 # Comments: 6",
+     "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 19 # Comments: 11",
      "source": "Hacker News",
      "zh": "Critical RCE Vulnerability in Apache HTTP Server"
-    },
-    {
-     "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
-     "link": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
-     "pubDate": "Thu, 12 Nov 2026 01:53:24 +0000",
-     "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.",
-     "source": "WIRED",
-     "zh": "Walking Pad Deals to Shop Ahead of Black Friday (2026)"
     }
    ]
   },
@@ -2265,52 +2265,92 @@
    "total": 13,
    "items": [
     {
-     "title": "Sempra declares $0.6575 dividend",
-     "link": "https://seekingalpha.com/news/4671089-sempra-declares-0_6575-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:24:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sempra declares $0.6575 dividend"
+     "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
+     "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+     "pubDate": "Thu, 12 Nov 2026 03:46:56 GMT",
+     "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+     "source": "CNBC",
+     "zh": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening"
     },
     {
-     "title": "HNI Corporation declares $0.35 dividend",
-     "link": "https://seekingalpha.com/news/4671088-hni-corporation-declares-0_35-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:22:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HNI Corporation declares $0.35 dividend"
+     "title": "AI热潮或步19世纪铁路泡沫后尘，建造者未必是最终赢家",
+     "link": "https://wallstreetcn.com/articles/3785782",
+     "pubDate": "Thu, 12 Nov 2026 11:45:59 +0800",
+     "summary": "英伟达市值从1万亿美元攀升至最高5.8万亿美元，随后跌回18个月低点。这一轮涨跌，让高盛策略师Bobby Molavi想起了180年前的英国铁路狂热。 Molavi在其最新一期\"沉思录\"（Ruminations）策略笔记中提出一个核心问题：如果这是一场泡沫，价值最终会落在谁手里？他的答案，借鉴了历史上多次资本支出狂潮的经验——\"很可能不是那些建造它的人。\" 泡沫和最终效用是两回事。技术创新可以是划时代的，却不一定能立刻创造价值。以之前的泡沫为例——互联网、铁路和郁金香——没有哪个泡沫破灭后，让这项技术本身消失了。我个人就很爱郁金香。 郁金香活下来了，互联网也活下来了，铁路也是。真正发生变化的，",
+     "source": "华尔街见闻",
+     "zh": "AI热潮或步19世纪铁路泡沫后尘，建造者未必是最终赢家"
     },
     {
-     "title": "IDEX declares $0.73 dividend",
-     "link": "https://seekingalpha.com/news/4671087-idex-declares-0_73-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:22:28 -0500",
+     "title": "Sagicor Financial declares $0.075 dividend",
+     "link": "https://seekingalpha.com/news/4671096-sagicor-financial-declares-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:37:19 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "IDEX declares $0.73 dividend"
+     "zh": "Sagicor Financial declares $0.075 dividend"
     },
     {
-     "title": "Avista declares $0.4925 dividend",
-     "link": "https://seekingalpha.com/news/4671086-avista-declares-0_4925-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:22:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Avista declares $0.4925 dividend"
+     "title": "如果Anthropic下周的上市顺利、股价上涨，那AI“一切照旧”，否则“一些公司会倒闭”",
+     "link": "https://wallstreetcn.com/articles/3785778",
+     "pubDate": "Thu, 12 Nov 2026 11:35:26 +0800",
+     "summary": "人工智能（AI）初创企业的估值正面临现实的考验。行业领军企业OpenAI和Anthropic下调估值预期的举动，加剧了风险投资界对初创企业估值全面回调的担忧，这也使得Anthropic即将到来的首次公开募股（IPO）成为决定整个AI行业走向的关键时刻。 据彭博11月12日报道，知情人士透露， OpenAI近期面临市场环境恶化及投资者反馈，将其目标估值从1.4万亿美元下调至1.25万亿美元，并将融资目标削减了三分之一 。与此同时， 其竞争对手Anthropic决定以低于预期的1.4万亿美元完全摊薄估值推进IPO ，这一数字远低于部分银行家此前预期的2万亿美元。 这些缩减规模的交易给本就因公开市场",
+     "source": "华尔街见闻",
+     "zh": "如果Anthropic下周的上市顺利、股价上涨，那AI“一切照旧”，否则“一些公司会倒闭”"
     },
     {
-     "title": "Corby Spirit and Wine Limited declares $0.25 dividend",
-     "link": "https://seekingalpha.com/news/4671085-corby-spirit-and-wine-limited-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:21:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Corby Spirit and Wine Limited declares $0.25 dividend"
+     "title": "586GW变199GW：美国三分之二的AI数据中心计划只是PPT？",
+     "link": "https://wallstreetcn.com/articles/3785784",
+     "pubDate": "Thu, 12 Nov 2026 11:35:19 +0800",
+     "summary": "华尔街目前正沉浸在一种“错误”的恐慌情绪中：大选后的政治阻力（如各州的暂停建设令）将大幅削减美国AI数据中心的产能扩张。然而，基于Bernstein对北美8858个数据中心项目的最新卫星级逐月追踪与信用模型分析，市场完全找错了风险焦点。 Bernstein分析师Madison Rezaei团队在10月11日更新了其数据中心可信度模型，为中期选举之后首次更新，对Aterio数据库中北美全部8858个项目进行筛查，结论触目惊心： 在586GW的已宣布/在建/土地储备容量中，仅有199GW（34%）具备真实可信度，另外387GW——约三分之二——是\"吹牛瓦特\"（Bragawatts）， 仅仅停留在P",
+     "source": "华尔街见闻",
+     "zh": "586GW变199GW：美国三分之二的AI数据中心计划只是PPT？"
     },
     {
-     "title": "Corby Spirit and Wine Limited declares CAD 0.25 dividend",
-     "link": "https://seekingalpha.com/news/4671084-corby-spirit-and-wine-limited-declares-cad-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:21:37 -0500",
+     "title": "Franco-Nevada declares $0.44 dividend",
+     "link": "https://seekingalpha.com/news/4671095-franco-nevada-declares-0_44-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:34:25 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Corby Spirit and Wine Limited declares CAD 0.25 dividend"
+     "zh": "Franco-Nevada declares $0.44 dividend"
+    },
+    {
+     "title": "Tetra Tech declares $0.072 dividend",
+     "link": "https://seekingalpha.com/news/4671094-tetra-tech-declares-0_072-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:32:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tetra Tech declares $0.072 dividend"
+    },
+    {
+     "title": "Allspring Utilities and High Income Fund declares $0.0859 dividend declines by 1.3% to $0.0859",
+     "link": "https://seekingalpha.com/news/4671093-allspring-utilities-and-high-income-fund-declares-00859-dividend-declines-by-13-to-00859?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:29:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Allspring Utilities and High Income Fund declares $0.0859 dividend declines by 1.3% to $0.0859"
+    },
+    {
+     "title": "Allspring Multi-Sector Income Fund declares $0.0719 dividend",
+     "link": "https://seekingalpha.com/news/4671092-allspring-multi-sector-income-fund-declares-0_0719-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:29:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Allspring Multi-Sector Income Fund declares $0.0719 dividend"
+    },
+    {
+     "title": "Allspring Income Opportunities Fund declares $0.0523 dividend",
+     "link": "https://seekingalpha.com/news/4671091-allspring-income-opportunities-fund-declares-0_0523-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:28:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Allspring Income Opportunities Fund declares $0.0523 dividend"
+    },
+    {
+     "title": "净多头处于两年极低水平，白银逼空行情或已悄然启动",
+     "link": "https://wallstreetcn.com/articles/3785786",
+     "pubDate": "Thu, 12 Nov 2026 11:20:44 +0800",
+     "summary": "过去这个秋天，做空白银的交易者大赚特赚。 从10月初到美国中期选举前，白银价格一路下泄，一度短暂跌破50美元/盎司。The Market Ear将这段行情称之为 \"白银血洗：从FOMO到彻底恐慌\" 。这个价位，较1月29日创下的历史高点121.67美元，累计跌幅超过55%。 然后，中期选举结果改变了走向。11月3日至9日，白银价格反弹约6%。 高盛大宗商品策略师Robert Quinn在最新报告中对白银的走势进行了复盘。根据美国商品期货交易委员会（CFTC）的持仓报告（COT），非交易商在10月6日至11月3日期间 每周持续净卖出，累计净卖出规模达23亿美元 。 从交易结构看， 本轮仓位下降主",
+     "source": "华尔街见闻",
+     "zh": "净多头处于两年极低水平，白银逼空行情或已悄然启动"
     },
     {
      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
@@ -2327,6 +2367,14 @@
      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
      "source": "MarketWatch",
      "zh": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’"
+    },
+    {
+     "title": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒科指跌超1%，阿里跌超5%",
+     "link": "https://wallstreetcn.com/articles/3785781",
+     "pubDate": "Thu, 12 Nov 2026 11:07:40 +0800",
+     "summary": "隔夜，CoreWeave业绩超预期、Anthropic IPO超额认购、OpenAI季度营收首破百亿美元，三重催化剂重振AI交易热情，推动美股科技板块大幅反弹，A股算力硬件再度拉升，推动科创50大涨超3%。 11月12日，A股早盘高开，三大股指盘初集体上涨，科创综指涨超2%，科创50大涨超3%，半导体板块爆发，半导体设备、GPU、存储芯片、光模块等概念股延续反弹势头，寒武纪涨超9%。贵金属、物理AI、人形机器人等陷入调整。 港股低开低走，恒指、恒科指早盘双双跌超1%，权重科网股继续下跌，京东、快手、哔哩哔哩等跌幅居前。光模块、芯片等算力硬件股拉升，剑桥科技涨超8%。AI大模型股调整，智谱、MI",
+     "source": "华尔街见闻",
+     "zh": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒科指跌超1%，阿里跌超5%"
     },
     {
      "title": "第十届西藏智库国际论坛：西藏5G通达率已居全国第一",
@@ -2455,54 +2503,6 @@
      "summary": "伦敦金属交易所(LME)的 铝 市场目前正面临数十年来最严峻的逼仓局面——因为支撑合约的库存急剧下降，而剩余的大部分库存仅由两家交易商掌控。 周三，这一关键 工业金属 的现货价格飙升，较该交易所基准三个月期 期货 价格每吨高出147美元，创下逾30年来的最高水平。 直到10月中旬，该价差还曾处于贴水状态，但随着LME仓库的 铝 库存暴跌至1990年以来的最低水平，该价差已呈螺旋式急剧上升。 这种被称为现货升水的现象，是自20世纪80年代末以来LME 铝 合约中最陡峭的一次——当年Marc Rich公司对市场进行逼仓，曾将现货与三个月期 期货 的价差推高至每吨1000美元以上。自那以后，LME出",
      "source": "东方财富资讯",
      "zh": "伦铝市场遭遇历史性逼仓！两家实体掌控近八成可用库存？"
-    },
-    {
-     "title": "“英伟达亲儿子”能否成为AI交易的“救世主”？",
-     "link": "http://www.eeo.com.cn/2026/1112/1090619.shtml",
-     "pubDate": "Thu, 12 Nov 2026 10:11:25 +0800",
-     "summary": "算力需求是否放缓，出租算力的公司往往会最先察觉。",
-     "source": "经济观察网",
-     "zh": "“英伟达亲儿子”能否成为AI交易的“救世主”？"
-    },
-    {
-     "title": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒指、恒科指齐跌超1%",
-     "link": "https://wallstreetcn.com/articles/3785781",
-     "pubDate": "Thu, 12 Nov 2026 10:09:53 +0800",
-     "summary": "隔夜，CoreWeave业绩超预期、Anthropic IPO超额认购、OpenAI季度营收首破百亿美元，三重催化剂重振AI交易热情，推动美股科技板块大幅反弹，A股算力硬件再度拉升，推动科创50大涨超3%。 11月12日，A股早盘高开，三大股指盘初集体上涨，科创综指、科创50大涨超2%，半导体板块爆发，半导体设备、GPU、存储芯片、光模块等概念股延续反弹势头，寒武纪涨超9%。贵金属、物理AI、人形机器人等陷入调整。 港股低开低走，恒指、恒科指早盘双双跌超1%，权重科网股继续下跌，京东、快手、哔哩哔哩等跌幅居前。光模块、芯片等算力硬件股拉升，剑桥科技涨超8%。AI大模型股调整，智谱、MINIMA",
-     "source": "华尔街见闻",
-     "zh": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒指、恒科指齐跌超1%"
-    },
-    {
-     "title": "当黄土遇见彩：仰韶文明的彩陶传奇",
-     "link": "http://www.eeo.com.cn/2026/1112/1090616.shtml",
-     "pubDate": "Thu, 12 Nov 2026 10:02:17 +0800",
-     "summary": "土为胎、水调和、火淬炼，天地自然三者相融共生，造就了仰韶先民精妙绝伦的制陶技艺，所以它一度被称为“彩陶文化”。",
-     "source": "经济观察网",
-     "zh": "当黄土遇见彩：仰韶文明的彩陶传奇"
-    },
-    {
-     "title": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分",
-     "link": "https://wallstreetcn.com/articles/3785777",
-     "pubDate": "Thu, 12 Nov 2026 09:59:57 +0800",
-     "summary": "OpenAI首席执行官在三星高管闭门会议上罕见坦承AI基础设施需求存在重复计算，并提出与三星联合开发下一代AI终端设备。 据韩国《金融新闻》报道，Sam Altman在上月底赴韩访问期间，向三星集团旗下约50名事业部社长级高管发出警告： AI内存及数据中心需求在短期内可能出现波动， 市场上存在需求重复计算的情况。 与此同时，奥特曼在同一场合向三星抛出合作橄榄枝， 表示希望与三星共同开发下一代AI终端设备 ，目标直指\"后智能手机\"时代，被外界解读为OpenAI意图联合三星对抗苹果生态主导地位的战略布局。 短期需求存在泡沫风险 Altman在回应三星高管关于AI及内存需求未来5至10年是否会饱和或",
-     "source": "华尔街见闻",
-     "zh": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分"
-    },
-    {
-     "title": "互联网泡沫“龙头”亲历者！前思科高管对比：互联网大基建 vs AI大基建",
-     "link": "https://wallstreetcn.com/articles/3785780",
-     "pubDate": "Thu, 12 Nov 2026 09:57:19 +0800",
-     "summary": "2026年11月11日，就在CoreWeave三季报超预期、NeoCloud板块单日暴涨逾12%、市场短暂从“AI回报焦虑”中喘过一口气的节骨眼上，a16z发布了一期对话： 前思科高级副总裁Mike Volpi坐在a16z合伙人Raghu Raghuram和Guido Appenzeller对面，被问到同一个问题——这轮AI大基建，和你们当年亲手搭建的互联网大基建，到底像不像？ Volpi是极少数有资格回答这个问题的人。1994年加入思科，到2000年离开并购岗位转岗业务，他亲手主导了约70起收购，其中包括让思科一举拿下全球最大以太网交换机市场的关键战役，那段时间里思科一度成为全球市值最高的公",
-     "source": "华尔街见闻",
-     "zh": "互联网泡沫“龙头”亲历者！前思科高管对比：互联网大基建 vs AI大基建"
-    },
-    {
-     "title": "曾被称为特斯拉“史上最好产品”！马斯克官宣：Cybertruck停产时间有变",
-     "link": "http://stock.eastmoney.com/news/11228,202611123929286947.html",
-     "pubDate": "Thu, 12 Nov 2026 09:37:38 +0800",
-     "summary": "曾被马斯克称为 特斯拉 “史上最好产品”的电动皮卡Cybertruck的停产时间有了新的变化。 当地时间周三， 特斯拉 CEO埃隆·马斯克在X上发帖称， Cybertruck的生产将“延长至2027年夏末”，因为 特斯拉 正在“处理更多Cybertruck积压订单” 。 就在五天前（上周五），马斯克表示，特斯拉将在2027年年中左右停产Cybertruck，将更多产能转向Cybercab，后者是一款没有方向盘的自动驾驶出租车。 对于这款一度让特斯拉热度高涨的 汽车 而言，这样的收场显得不甚体面。这款皮卡原本要展示特斯拉最新的电动 汽车 技术，同时打开利润丰厚的皮卡市场。马斯克曾告诉投资者，它将",
-     "source": "东方财富资讯",
-     "zh": "曾被称为特斯拉“史上最好产品”！马斯克官宣：Cybertruck停产时间有变"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/12 14:12:10",
+ "generated_at": "2026/11/12 14:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "百度孙天祥首秀！文心5.5做出百秒鹈鹕骑车短片，李彦宏对谈杨元庆",
+     "link": "https://zhidx.com/p/609680.html",
+     "pubDate": "Thu, 12 Nov 2026 13:46:28 +0800",
+     "summary": "智东西 作者 | 程茜 编辑 | 心缘 智东西11月12日报道，刚刚，在百度世界大会2026上，百度甩出一系列基础模型、应用、云基础设施更新。 在基础模型方面，百度正式发布了2800亿参数ERNIE 5.5 Flash Preview，并推出两款文心应用模型。今年7月加入百度并任职百度基础模型研发部（BMU）负责人孙天祥首次公开亮相，他提到，百度新发的ERNIE 5.5 Flash Preview重点优化了编程、知识工作、设计创作等能力。 在应用方面，百度搭子、百度库库、百度伐谋、百度一镜等应用全面升级，百度的数字人平台百度一镜制作了一个数字人希加加和李彦宏对话的视频，希加加抛出问题想要替代李",
+     "source": "智东西",
+     "zh": "百度孙天祥首秀！文心5.5做出百秒鹈鹕骑车短片，李彦宏对谈杨元庆"
+    },
     {
      "title": "亚马逊云科技宣布在华三大能力升级，进一步完善Agentic AI全栈技术能力",
      "link": "https://zhidx.com/p/609679.html",
@@ -97,6 +105,14 @@
      "zh": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching"
     },
     {
+     "title": "Where Does Abacus.AI’s Smaug Model Improve Performance the Most?",
+     "link": "https://www.kdnuggets.com/2026/11/abacus/where-does-abacus-ais-smaug-model-improve-performance-the-most",
+     "pubDate": "Wed, 11 Nov 2026 18:00:46 +0000",
+     "summary": "Abacus.AI applied the same fine-tuning recipe to three very different open-weight models. The gains landed in completely different places & that tells you more than any single benchmark score.",
+     "source": "KDnuggets",
+     "zh": "Where Does Abacus.AI’s Smaug Model Improve Performance the Most?"
+    },
+    {
      "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
      "link": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
      "pubDate": "Wed, 11 Nov 2026 15:51:14 +0000",
@@ -111,6 +127,22 @@
      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
      "source": "DeepMind",
      "zh": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
+    },
+    {
+     "title": "What Senior Data Science Job Postings Actually Ask for in 2026",
+     "link": "https://www.kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026",
+     "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
+     "summary": "A data-backed breakdown of the skills, credentials, and capabilities that hiring managers are screening for in senior roles right now.",
+     "source": "KDnuggets",
+     "zh": "What Senior Data Science Job Postings Actually Ask for in 2026"
+    },
+    {
+     "title": "9 Key LLM Inference Metrics Explained in 5 Minutes",
+     "link": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
+     "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+     "summary": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
+     "source": "KDnuggets",
+     "zh": "9 Key LLM Inference Metrics Explained in 5 Minutes"
     },
     {
      "title": "10秒直出4K图，能画CAD、拆机械，MiniMax这个开源图像模型有点东西",
@@ -143,14 +175,6 @@
      "summary": "智东西 作者 | 毕伟豪 编辑｜心缘 智东西11月11日报道，今天，腾讯正式推出 面向普通用户的全新搜索产品“元宝搜索” ，通过独立网站和QQ浏览器入口提供搜索服务。 此次上线的元宝搜索，主打 权威信源优先、AI深度融合 等能力，不仅能够直接生成AI总结、连续追问，还支持原始信息溯源。 此外，元宝搜索接入 微信公众号、视频号 等内容来源，提供 学术科普、组织机构、主流媒体 等专门频道，并针对汽车、影视、健康等场景推出结构化卡片。 在与智东西等媒体交流时，腾讯元宝搜索网页版产品负责人李锐章透露，元宝搜索未来会持续丰富功能模块，但不会朝着AI助手的方向演进，会 专注于搜索本身，通过AI能力优化用户",
      "source": "智东西",
      "zh": "刚刚，腾讯版搜索引擎来了！几乎没广告，能搜公众号"
-    },
-    {
-     "title": "推理成本降78%，API成本降97%，北大系创企开源4B上下文压缩模型",
-     "link": "https://zhidx.com/p/609168.html",
-     "pubDate": "Wed, 11 Nov 2026 17:06:03 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西11月11日报道，今日，孵化自北京大学软件工程研究所的AI编程创企硅心科技（aiXcoder）开源 上下文压缩专用模型aiXcompact-4B 。该模型主要面向编程Agent的长程复杂研发任务场景，参数量仅 4B ， 支持单张A100-40GB显卡私有化部署 。 aiXcompact-4B进行上下文压缩时，能够针对编程Agent的历史轨迹进行结构化处理： 保留 关键原始信息， 精简 文件读取、代码搜索和测试运行等工具返回结果， 删除 重复或失去参考价值的中间记录，并 生成结构化任务摘要 ，以较低成本减少后续重复输入带来的Token开销。 根据",
-     "source": "智东西",
-     "zh": "推理成本降78%，API成本降97%，北大系创企开源4B上下文压缩模型"
     },
     {
      "title": "ChatGPT Plus for veterans and servicemembers",
@@ -223,30 +247,6 @@
      "summary": "Agent正在从「回答一个问题」走向「承担一份工作」！",
      "source": "机器之心",
      "zh": "HyperAgent：openJiuwen对未来Agent架构的思考和实践"
-    },
-    {
-     "title": "GEAR：打造 Scikit-learn 式的模块化 RSI 框架，让 Agent 从真实任务中持续进化",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651073583&idx=3&sn=79fcb81defc98a744a413df8129044cf",
-     "pubDate": "Wed, 11 Nov 2026 12:12:00 +0800",
-     "summary": "让开发者能够组合、替换和比较不同的进化策略，复用已有的任务执行、评测和版本管理能力。",
-     "source": "机器之心",
-     "zh": "GEAR：打造 Scikit-learn 式的模块化 RSI 框架，让 Agent 从真实任务中持续进化"
-    },
-    {
-     "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-     "link": "https://www.qbitai.com/2026/11/509052.html",
-     "pubDate": "Wed, 11 Nov 2026 03:43:31 +0000",
-     "summary": "L4无人化作业走向规模交付",
-     "source": "量子位",
-     "zh": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光"
-    },
-    {
-     "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-     "link": "https://openai.com/index/jiostar-vijay-seshadri",
-     "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
-     "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-     "source": "OpenAI",
-     "zh": "JioStar’s chief architect on AI discovery at 500M-user scale"
     }
    ]
   },
@@ -303,14 +303,6 @@
      "summary": "At the opening panel of electronica 2026 in Munich on November 10, industry leaders agreed that the primary bottleneck in artificial intelligence is shifting from computing power to energy delivery. Panelists warned that power semiconductors are quickly becoming the tech sector's next critical suppl",
      "source": "DIGITIMES",
      "zh": "AI bottleneck shifts from compute to power; European supply chain sees power semiconductors as next shortage"
-    },
-    {
-     "title": "No Trust In Politicians",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/no-trust-in-politicians-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 01:01:32 +0000",
-     "summary": "One of the main drivers of Donald Trump’s political rise in the run-up to the 2016 presidential election was the fact that he was not a politician, at least not […] The post No Trust In Politicians appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "No Trust In Politicians"
     },
     {
      "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
@@ -433,36 +425,12 @@
      "zh": "NVHBM: Can Custom HBM Change Who Builds the Memory Stack?"
     },
     {
-     "title": "UK semi company Fractile raises $720m at $7bn valuation",
-     "link": "https://www.electronicsweekly.com/news/business/uk-semi-company-fractile-raises-720m-at-7bn-valuation-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 15:12:59 +0000",
-     "summary": "Fractile, the four year-old UK semiconductor company, has raised $720 million at a $7 billion valuation. Investors were: Thrive Capital, Founders Fund, Conviction, Alphabet’s independent venture arm CapitalG, Lightspeed Venture […] The post UK semi company Fractile raises $720m at $7bn valuation app",
-     "source": "Electronics Weekly",
-     "zh": "UK semi company Fractile raises $720m at $7bn valuation"
-    },
-    {
-     "title": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/electronica-quectel-5g-combo-rugged-antennas-combine-5g-gnss-wi-fi-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 14:30:21 +0000",
-     "summary": "Quectel is announcing ten new “5G combo” antennas, combining 5G, GNSS and Wi-Fi in compact, rugged designs. Possible applications including fleet management, industrial equipment and smart city infrastructure. The idea […] The post Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-F",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi"
-    },
-    {
      "title": "Why Video Processing Matters for the Next Generation of Robots",
      "link": "https://semiwiki.com/ip/chipsmedia/375958-why-video-processing-matters-for-the-next-generation-of-robots/",
      "pubDate": "Wed, 11 Nov 2026 14:00:59 +0000",
      "summary": "Mobilint has begun mass production of next-generation edge AI chips that incorporate video codec technology from Chips&Media, the companies announced on November 4. The South Korean partners are targeting robotics applications, including humanoids, where several cameras can generate more video than ",
      "source": "SemiWiki",
      "zh": "Why Video Processing Matters for the Next Generation of Robots"
-    },
-    {
-     "title": "Buffett And The AI Boom",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/buffett-and-the-ai-boom-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 13:13:09 +0000",
-     "summary": "Last week’s stock market sell-off, led by Al and technology stocks after the midterms showed how nervous investors currently are with respect to the staying power of the Al boom. […] The post Buffett And The AI Boom appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Buffett And The AI Boom"
     },
     {
      "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
@@ -481,20 +449,52 @@
      "zh": "WT to distribute Sivers’ InP lasers and wireless solutions"
     },
     {
-     "title": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/electronica-onsemis-elitesic-m4-delivers-higher-power-density-and-lower-losses-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 12:06:01 +0000",
-     "summary": "onsemi claims its fourth-generation EliteSiC silicon carbide (SiC) platform delivers up to 30% higher power density and 35% lower losses than the previous generation. The EliteSiC M4 platform improves conduction […] The post Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower l",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses"
+     "title": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/nexperia-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 11:25:41 GMT",
+     "summary": "Discrete device designer and manufacturer Nexperia B.V. of Nijmegen, the Netherlands (which operates wafer fabs in Hamburg, Germany, and Hazel Grove Manchester, UK) has launched a new family of 750V silicon carbide (SiC) trench MOSFETs, combining low switching losses, temperature-stable RDS(on) char",
+     "source": "Semiconductor Today",
+     "zh": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion"
     },
     {
-     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 11:48:02 +0000",
-     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
+     "title": "Diamond Foundry unveils first 200mm single-crystal diamond",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/diamondfoundry-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 09:18:11 GMT",
+     "summary": "Diamond Foundry Inc of San Francisco, CA, USA has unveiled the first 200mm-diameter single-crystal diamond. The announcement accompanied a keynote presentation by CEO Martin Roscheisen, delivered by video at CarbonSemi 2026 (the 6th Industry Development Summit of Carbon-based Semiconductor & Devices",
+     "source": "Semiconductor Today",
+     "zh": "Diamond Foundry unveils first 200mm single-crystal diamond"
+    },
+    {
+     "title": "Variable-Length Prompts on Chimera GPNPU",
+     "link": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/",
+     "pubDate": "Wed, 11 Nov 2026 08:02:29 +0000",
+     "summary": "How a flexible binary can serve every length up to the capacity you set. The post Variable-Length Prompts on Chimera GPNPU appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Variable-Length Prompts on Chimera GPNPU"
+    },
+    {
+     "title": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs",
+     "link": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/",
+     "pubDate": "Wed, 11 Nov 2026 08:01:52 +0000",
+     "summary": "The differences and engineering considerations behind choosing and implementing UCIe connectivity for advanced multi-die designs. The post UCIe Connectivity for 2.5D and 3D Multi-Die Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs"
+    },
+    {
+     "title": "CXO Interview with Solaiman Rahim of ChipAgents",
+     "link": "https://semiwiki.com/eda/chipagents-ai/375937-cxo-interview-with-solaiman-rahim-of-chipagents/",
+     "pubDate": "Tue, 10 Nov 2026 20:00:32 +0000",
+     "summary": "Dr. Solaiman Rahim is a multidisciplinary technology executive with over 25 years of experience driving innovation in the chip automation space at the intersection of systems, semiconductors, high-performance computing, and AI. As Chief Product Officer at ChipAgents, he leads the scaling of the Agen",
+     "source": "SemiWiki",
+     "zh": "CXO Interview with Solaiman Rahim of ChipAgents"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -1761,12 +1761,76 @@
    "total": 18,
    "items": [
     {
+     "title": "重庆：力争到 2028 年全市可调度智算规模超 10 万 P",
+     "link": "https://www.ithome.com/1/026/066.htm",
+     "pubDate": "Thu, 12 Nov 2026 06:28:54 GMT",
+     "summary": "IT之家 11 月 12 日消息，重庆市人民政府办公厅近日印发《重庆市促进词元驱动的数据产业高质量发展行动计划（2026—2028 年）》，结合该市实际情况深化数字重庆建设。 IT之家从重庆市人民政府官网获悉，该《计划》提出力争到 2028 年， 全市可调度智算规模超 10 万 P（PFLOPS） ，围绕城市治理、工业制造、医疗健康、物流运输等领域构建词元试验场。 此外该《计划》还提到，重点打造 20 个以上词元创新平台矩阵、40 个以上行业垂类模型和智能体集群、100 个以上面向重点领域的高质量数据集和可信数据空间，带动全市建设高质量数据集 3000 个以上；打造特色数据产业园 10 个，引",
+     "source": "IT之家",
+     "zh": "重庆：力争到 2028 年全市可调度智算规模超 10 万 P"
+    },
+    {
+     "title": "微软 11 月 Win11 更新收紧 PowerShell 安全检查，不规范脚本将失灵",
+     "link": "https://www.ithome.com/1/026/065.htm",
+     "pubDate": "Thu, 12 Nov 2026 06:24:37 GMT",
+     "summary": "IT之家 11 月 12 日消息，科技媒体 NeoWin 今天（11 月 12 日）发布博文，报道称本月补丁星期二面向 Windows 11 推送的累积更新中，微软收紧安全检查， 因此可能导致部分旧 PowerShell 脚本无法正常工作。 报道指出 Windows 11 系统在安装 11 月累积更新之后，对 PowerShell 脚本的签名及验证引入了更严格的文本编码检查，尤其是包含错误 UTF-8 编码的文件。Windows 11 此前版本在解码这些不规范的 PowerShell 脚本时，可能通过替换无效字符接受这些文件。 而新规则明确拒绝此类编码，因此旧脚本即使已经签名，也可能被识别为“",
+     "source": "IT之家",
+     "zh": "微软 11 月 Win11 更新收紧 PowerShell 安全检查，不规范脚本将失灵"
+    },
+    {
+     "title": "不用驾照也能“自驾游”，萝卜快跑、神州租车打造全球首个无人车租车服务",
+     "link": "https://www.ithome.com/1/026/064.htm",
+     "pubDate": "Thu, 12 Nov 2026 06:23:10 GMT",
+     "summary": "IT之家 11 月 12 日现场消息，百度世界 2026 于今日（11 月 12 日）在北京举办。会上，百度宣布旗下萝卜快跑与神州租车携手， 开创了全球唯一的无人车“自驾游”服务模式 。 该服务将传统自驾游与无人驾驶技术深度融合，打造文旅出行全新业态。目前， 无人车“自驾游”已在海南落地 ，平稳运营服务用户满一年。 IT之家在大会现场了解到，百度创始人李彦宏表示：“很多人对我说，我也想买一辆萝卜。今天，我告诉大家，你现在就可以租一辆萝卜！” 据介绍，区别于传统“自驾游”， 这项全新服务打破了自驾出行必须持有驾照的门槛 。无人“自驾游”拥有五大特色体验： 免驾驶导游式包车服务； 随叫随到， 无需",
+     "source": "IT之家",
+     "zh": "不用驾照也能“自驾游”，萝卜快跑、神州租车打造全球首个无人车租车服务"
+    },
+    {
+     "title": "消息称某厂 2nm 中杯机型备案有顶配 16GB+1TB，预计为小米 18 标准版",
+     "link": "https://www.ithome.com/1/026/059.htm",
+     "pubDate": "Thu, 12 Nov 2026 06:14:31 GMT",
+     "summary": "IT之家 11 月 12 日消息，据微博博主 @数码闲聊站 今日透露，某厂 2nm 中杯机型有顶配 16GB+1TB，配备更强的定制超清屏幕 + 更强 2 亿像素大底影像 + 更大百瓦单电池，重量约 200g，核心配置和档期都不变。 后续有用户在评论区表示，小尺寸机型 200g 重量还是有些重。博主回应称，又要堆大电池堆影像又要轻，这事很难办。至于一加是否会有新机，博主回复称春节前还有 Turbo。 结合博主文中暗示和评论区用户猜测，该机预计为小米 18 标准版。 据IT之家此前报道 ，一款型号为 M261DB 的小米手机于 11 月 6 日通过了工信部 3C 认证，支持 100W 快充。据微",
+     "source": "IT之家",
+     "zh": "消息称某厂 2nm 中杯机型备案有顶配 16GB+1TB，预计为小米 18 标准版"
+    },
+    {
+     "title": "当算力遇上“电墙”，英飞凌豪赌300毫米氮化镓背后",
+     "link": "https://www.tmtpost.com/8202543.html",
+     "pubDate": "Thu, 12 Nov 2026 14:14:30 +0800",
+     "summary": "AI竞赛大背景下，从芯片制程延伸到电力供给，氮化镓正从充电器市场的\"网红材料\"，升级为数据中心供电架构的底层选择。",
+     "source": "钛媒体",
+     "zh": "当算力遇上“电墙”，英飞凌豪赌300毫米氮化镓背后"
+    },
+    {
+     "title": "亚马逊确认 2028 年游戏《古墓丽影：催化剂》将登陆 Nintendo Switch 2 平台",
+     "link": "https://www.ithome.com/1/026/058.htm",
+     "pubDate": "Thu, 12 Nov 2026 06:12:34 GMT",
+     "summary": "IT之家 11 月 12 日消息，根据 Amazon（亚马逊）官网当地时间本月 9 日对一篇此前新闻稿的更新，计划 2028 年推出的游戏 《古墓丽影：催化剂》将登陆 Nintendo Switch 2 平台 。该作此前已宣称会在 PlayStation 5、Xbox Series X|S、Steam 上推出。 《古墓丽影：催化剂》是这一 IP 迄今为止规模最为宏大的作品，将讲述业已成熟的劳拉 · 克劳馥穿越印度北部，经历古代世界与现代世界碰撞的故事。 而在 2028 年登场的《古墓丽影：催化剂》之前，致敬系列初代的《古墓丽影：亚特兰蒂斯遗产》将于 2027 年 2 月 12 日发售，同样登陆",
+     "source": "IT之家",
+     "zh": "亚马逊确认 2028 年游戏《古墓丽影：催化剂》将登陆 Nintendo Switch 2 平台"
+    },
+    {
+     "title": "微软 Win11 自带照片应用将接入 Adobe AI，恐成订阅推广新入口",
+     "link": "https://www.ithome.com/1/026/057.htm",
+     "pubDate": "Thu, 12 Nov 2026 06:11:12 GMT",
+     "summary": "IT之家 11 月 12 日消息，科技媒体 Windows Latest 今天（11 月 12 日）发布博文，报道称微软公司计划于 12 月开始以预览版方式， 邀请 Windows Insider 项目成员测试新版 Windows 11 自带照片（Photos）应用，将引入 Adobe 提供的 AI 编辑功能。 消息称微软已和 Adobe 谈妥相关合作，在 Windows 11 自带照片应用中打通 Adobe Express 设计流程。用户可先查看照片套入个性化模板后的效果，再转至 Adobe Express 继续设计。IT之家附上相关截图如下： Windows 11 照片编辑器中的“扩展”工",
+     "source": "IT之家",
+     "zh": "微软 Win11 自带照片应用将接入 Adobe AI，恐成订阅推广新入口"
+    },
+    {
      "title": "美国手游买量素材迭代一次要花多少？CPA从18美元涨到34美元正常吗？",
      "link": "https://www.baijing.cn/question/638691",
      "pubDate": "Thu, 12 Nov 2026 06:06:31 +0000",
      "summary": "我们做的是北美休闲解谜手游，iOS美区加加拿大，现在月投放预算大概12万美元，主要跑Meta和Google UAC。上个月同一批素材跑了三周，CPI从2.1美元涨到3.6美元，付费CPA从18美元一路涨到34美元，ROI直接掉到0.7。我们试过每周换3套新素材、做15秒和30秒两个版本、也找了外包做真人实拍，单条素材成本从800美元到2500美元不等，但新素材上线后前两天CPA能回到20美元左右，第五天又开始往上走。现在卡在素材迭代频率和制作成本之间：一个月烧在素材上的钱大概2万美元，但真正跑量超过一周的只有两条。想直接问，北美休闲游戏买量，素材迭代的合理周期和单条制作成本应该控制在什么区间，",
      "source": "白鲸出海",
      "zh": "美国手游买量素材迭代一次要花多少？CPA从18美元涨到34美元正常吗？"
+    },
+    {
+     "title": "老黄现在的处境，跟当年的比尔·盖茨神似",
+     "link": "https://www.huxiu.com/article/4904998.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 14:05:08 +0800",
+     "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培 在过去72小时之内，黄仁勋的命运出现了戏剧性反转。11月9日，绝大多数分析师和媒体都认为，英伟达董事会罢免老黄职务的可能性很低；有机构投资者建议老黄“暂时请假”，但几乎没有人认真对待这个提议。 11月11日，《纽约时报》爆出了老黄的第二次绯闻，对象是英伟达负责医疗算力业务的副总裁Kimberly Powell.紧接着，《华尔街日报》报道英伟达董事会已经对老黄失去信心，计划发起罢免，最早有可能于当地时间12日晚上决定。 请注意，上述报道都来自严肃的、有证据的媒体，而不是某个博主的小道消息。英伟达投资人立即陷入恐慌之中，11月11日盘后股",
+     "source": "虎嗅",
+     "zh": "老黄现在的处境，跟当年的比尔·盖茨神似"
     },
     {
      "title": "Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal (Reuters)",
@@ -1935,70 +1999,6 @@
      "summary": "仍隔着几轮试验。",
      "source": "钛媒体",
      "zh": "华东医药的80.3%，还不是MASH的完整答案"
-    },
-    {
-     "title": "黄仁勋的裂缝，英伟达等来了创始人的凡人时刻",
-     "link": "https://www.tmtpost.com/8201671.html",
-     "pubDate": "Thu, 12 Nov 2026 13:08:44 +0800",
-     "summary": "神坛之下，公司才真正开始。",
-     "source": "钛媒体",
-     "zh": "黄仁勋的裂缝，英伟达等来了创始人的凡人时刻"
-    },
-    {
-     "title": "越南版号下来后首月投放 CPI 涨到 0.42 美元，这个成本还能继续放量吗？",
-     "link": "https://www.baijing.cn/question/638686",
-     "pubDate": "Thu, 12 Nov 2026 05:02:54 +0000",
-     "summary": "我们是一款 SLG 手游，团队 12 人，去年 Q4 拿到越南版号后正式上线，主投 Google Ads 和 TikTok，首月买量预算约 8 万美元。上线首周越南 CPI 还在 0.28 美元左右，第二周开始一路涨到 0.42 美元，同期 D7 留存只有 11%，付费率 1.3%。已经试过换素材方向、把预算往 TikTok 倾斜、加开印尼和泰国做对比，但越南本地 CPA 还是压不下去，卡在不知道该继续在越南放量还是先把预算挪去印尼验证。想直接问：在越南市场这个 CPI 和留存组合下，同行判断继续放量还是先收缩的标准是什么？",
-     "source": "白鲸出海",
-     "zh": "越南版号下来后首月投放 CPI 涨到 0.42 美元，这个成本还能继续放量吗？"
-    },
-    {
-     "title": "零售巨头MUJI，为什么反复开酒店？",
-     "link": "https://www.tmtpost.com/8202380.html",
-     "pubDate": "Thu, 12 Nov 2026 13:02:26 +0800",
-     "summary": "全球四家，中国独占三家。",
-     "source": "钛媒体",
-     "zh": "零售巨头MUJI，为什么反复开酒店？"
-    },
-    {
-     "title": "6月被约谈，8月会员创新高：山姆这笔账要到明年才算",
-     "link": "https://www.huxiu.com/article/4904987.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 12:55:38 +0800",
-     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 10月17日晚，“山姆品质暴跌你还敢去吗”登上微博热搜第一。 两天后，山姆声明：数千条雷同内容是AI伪造的，视频后半段在推销从没上架的洗发水和奶粉。 这套东西有一半是假的。 但另一半不难查。 四个多月前的6月15日，市场监管总局因山姆多发的食品安全问题，约谈了沃尔玛中国。 两个月后，中国区销售额增长20.7%，会员数创纪录。 一半是谣言，一半是下滑。 它们为什么能同时成立。 ⑴一次被AI点燃的集体出气 先把这批视频的成色说清楚。 据每日经济新闻拿到的核查情况，它们用同一套模板批量生产：开场是AI合成语音或嫁接画面，宣称山姆品质暴跌，甚至把外地商场",
-     "source": "虎嗅",
-     "zh": "6月被约谈，8月会员创新高：山姆这笔账要到明年才算"
-    },
-    {
-     "title": "为什么你宁愿痛苦，也不去解决问题？",
-     "link": "https://www.huxiu.com/article/4904986.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 12:50:29 +0800",
-     "summary": "本文来自微信公众号： 张良计 ，作者：张良计 你并不是走不出困境，而是不想走出来。 我做这么多年职场咨询，发现很多人虽然面临的困境不同，但诡异的是面对困境的态度出奇的一致。 那就是抱怨但不逃避，痛苦但不解决，内耗死自己也不想办法在外部做出改变。 比如工作环境明明糟糕透顶了，领导打压，同事蛐蛐，成长停滞，抱怨了三年五年，却始终不改一份简历，不学一项新技能，不做任何实质性的尝试。 宁可继续煎熬，也不愿花一年时间认真想一想：我的职业生涯到底要往哪里走。 男女关系中也是如此。 一段关系早已千疮百孔，双方的消耗远大于滋养，却始终下不了决心做个了断，重启自己的生活。反而在心里不停许愿，对方会改变的吧，TA",
-     "source": "虎嗅",
-     "zh": "为什么你宁愿痛苦，也不去解决问题？"
-    },
-    {
-     "title": "胖东来卖的“日本洗发水”，商标为何由广州企业申请？",
-     "link": "https://www.huxiu.com/article/4904985.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 12:47:19 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：王力 胖东来为一瓶洗发水专门去了趟日本，查清了生产地，却没能终结围绕其品牌身世的争议。 近日，胖东来发布声明称，今年1月已赴日本科思美碧优蒂总部，实地核查卡蓓诺（CABELO）洗发水的生产车间、报关单、原产地证明等资料，确认产品原产地为日本，不存在网传的国内生产冒充进口情况。目前，胖东来及其中国贸易商均已提起诉讼。 但一个问题随之浮出水面：日本生产的洗发水，就一定是消费者理解的日本本土品牌吗？ 卡蓓诺在商品页面宣称1992年创立于日本，但其日本商标于2019年由广州企业申请。品牌今年4月还曾宣布拓展日本药妆渠道，11月10日，日本大型药妆连锁松本清却明确",
-     "source": "虎嗅",
-     "zh": "胖东来卖的“日本洗发水”，商标为何由广州企业申请？"
-    },
-    {
-     "title": "Darling Development Update – Q4 2026",
-     "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-     "pubDate": "Thu, 12 Nov 2026 04:32:31 +0000",
-     "summary": "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/ Comments URL: https://news.ycombinator.com/item?id=50463103 Points: 9 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Darling Development Update – Q4 2026"
-    },
-    {
-     "title": "Sources: some Trump officials questioned Jensen Huang&apos;s push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261111/p54#a261111p54",
-     "pubDate": "Wed, 11 Nov 2026 23:00:57 -0500",
-     "summary": "Wall Street Journal : Sources: some Trump officials questioned Jensen Huang's push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public &nbsp; &mdash;&nbsp; U.S. officials have repeatedly raised concerns about Nvidia CEO's influence with the president an",
-     "source": "Techmeme",
-     "zh": "Sources: some Trump officials questioned Jensen Huang&apos;s push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public (Wall Street Journal)"
     }
    ]
   },
@@ -2257,6 +2257,38 @@
    "total": 13,
    "items": [
     {
+     "title": "马斯克又发声：如果能聘请黄仁勋，那将是我的荣幸",
+     "link": "https://wallstreetcn.com/articles/3785792",
+     "pubDate": "Thu, 12 Nov 2026 14:26:36 +0800",
+     "summary": "英伟达CEO黄仁勋婚外情风波持续发酵，围绕其去留的讨论已从个人丑闻演变为一场牵动AI产业走向的市场事件。 当地时间11月12日，知名财经评论账号ZeroHedge在社交平台X上发文，向马斯克喊话： “Elon please hire Jensen”（埃隆，请雇佣黄仁勋）。 马斯克随即回复： “That would be an honor”（那将是我的荣幸）。 此前，据《华尔街日报》报道，英伟达董事会正准备解雇黄仁勋，导火索是其两段婚外情。 受上述消息影响，华尔街对英伟达前景的担忧明显升温，部分基金经理表示将在未来数周减持英伟达股票。 马斯克隔空\"接盘\"，呼应硅谷圈力挺声浪 目前马斯克这一表态仅",
+     "source": "华尔街见闻",
+     "zh": "马斯克又发声：如果能聘请黄仁勋，那将是我的荣幸"
+    },
+    {
+     "title": "Asian markets retreat as Nvidia leadership turmoil rattles tech sector; Japan PPI beats forecasts",
+     "link": "https://seekingalpha.com/news/4671105-asian-markets-retreat-as-nvidia-leadership-turmoil-rattles-tech-sector-japan-ppi-beats-forecasts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 01:26:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asian markets retreat as Nvidia leadership turmoil rattles tech sector; Japan PPI beats forecasts"
+    },
+    {
+     "title": "苏姿丰、库克、陈立武…谁能接黄仁勋的班？“Nobody”！分权或是更好的解法",
+     "link": "https://wallstreetcn.com/articles/3785791",
+     "pubDate": "Thu, 12 Nov 2026 14:15:51 +0800",
+     "summary": "英伟达正面临其历史上最严峻的领导层危机。随着黄仁勋深陷调查漩涡，一个令投资者不安的问题浮出水面：这家市值约4万亿美元的全球最重要人工智能芯片公司，究竟有没有人能够接掌帅印？ 据彭博社报道，英伟达董事会已与外部机构合作物色黄仁勋的潜在继任者，讨论先任命临时CEO、再寻找长期人选的过渡方案，董事会成员于11月11日晚举行会议，详细讨论黄仁勋去留问题。 包括英特尔CEO陈立武、AMD CEO苏姿丰以及博通CEO陈福阳甚至苹果库克等业界大佬都被媒体视为潜在人选。 消息传出后，周三美股盘后，英伟达股价重挫逾8%，AMD与博通则各涨约3%。 然而，业内分析人士普遍认为，这场继任者搜寻注定困难重重。顾问机构",
+     "source": "华尔街见闻",
+     "zh": "苏姿丰、库克、陈立武…谁能接黄仁勋的班？“Nobody”！分权或是更好的解法"
+    },
+    {
+     "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
+     "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+     "pubDate": "Thu, 12 Nov 2026 06:11:16 GMT",
+     "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+     "source": "CNBC",
+     "zh": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening"
+    },
+    {
      "title": "Security National reports Q3 results",
      "link": "https://seekingalpha.com/news/4671116-security-national-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 12 Nov 2026 01:07:05 -0500",
@@ -2279,6 +2311,14 @@
      "summary": "云计算公司CoreWeave交出了一份几乎无可挑剔的季报，却未能说服华尔街最坚定的两位空头改变立场。 华尔街见闻文章 写道， CoreWeave周三盘中一度飙升逾27%，创逾一年来最佳单日表现。 此前一天， 公司发布第三季度财报 ：营收36.6亿美元超出预期，利润率双双超预期，全年收入及运营利润指引双双上调，合同积压订单达1325亿美元，首席执行官Michael Intrator将其称为\"突破性季度\"。这份财报暂时缓解了市场对AI基础设施需求放缓的担忧，Zack投资管理公司首席市场策略师Brian Mulberry表示，如果CoreWeave能连续几个季度保持这样的执行表现，市场的担忧将逐步消",
      "source": "华尔街见闻",
      "zh": "CoreWeave季报史上最强，但伯恩斯坦和汇丰仍坚持\"卖出\""
+    },
+    {
+     "title": "业绩创新高却股价大跌，姆巴佩风波后昂跑CEO首次回应",
+     "link": "http://www.eeo.com.cn/2026/1112/1090947.shtml",
+     "pubDate": "Thu, 12 Nov 2026 13:55:26 +0800",
+     "summary": "以中国为主的亚太区是昂跑增长最高的区域，也是本次财报增长的重要引擎。姆巴佩相关言论发酵后，众多品牌纷纷与姆巴佩解约，昂跑却未见相关动作。这是因为姆巴佩对昂跑来说不仅是代言人那么简单。",
+     "source": "经济观察网",
+     "zh": "业绩创新高却股价大跌，姆巴佩风波后昂跑CEO首次回应"
     },
     {
      "title": "China’s central bank vows ample liquidity and yuan stability in Q3 monetary policy report",
@@ -2343,14 +2383,6 @@
      "summary": "阿联酋拉斯海马酋长国因漏油事件关闭多处海滩后重新开放。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "阿联酋拉斯海马酋长国因漏油事件关闭多处海滩后重新开放"
-    },
-    {
-     "title": "CoreWeave seeks at least $4B in high-grade loan financing - report",
-     "link": "https://seekingalpha.com/news/4671100-coreweave-seeks-at-least-4b-in-high-grade-loan-financing---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 00:41:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CoreWeave seeks at least $4B in high-grade loan financing - report"
     },
     {
      "title": "20CM快报｜AI算力硬件回暖，科创综指ETF富国（589600）飘红，硬科技宽基配置价值凸显",
@@ -2449,14 +2481,6 @@
      "zh": "科创50大涨超2%，GPU爆发，寒武纪重返千元、燧原科技创新高，恒科指跌超1%，阿里跌5%"
     },
     {
-     "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
-     "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-     "pubDate": "Thu, 12 Nov 2026 03:46:56 GMT",
-     "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
-     "source": "CNBC",
-     "zh": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening"
-    },
-    {
      "title": "AI热潮或步19世纪铁路泡沫后尘，建造者未必是最终赢家",
      "link": "https://wallstreetcn.com/articles/3785782",
      "pubDate": "Thu, 12 Nov 2026 11:45:59 +0800",
@@ -2471,30 +2495,6 @@
      "summary": "Stock sinks almost 9 per cent in after-market trading as chief executive’s fate hangs in balance following more revelations",
      "source": "Financial Times",
      "zh": "Nvidia shares tumble in after-market trading"
-    },
-    {
-     "title": "The world&apos;s super-rich are piling into alternative investments. Here&apos;s why",
-     "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-     "pubDate": "Thu, 12 Nov 2026 03:36:44 GMT",
-     "summary": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.",
-     "source": "CNBC",
-     "zh": "The world&apos;s super-rich are piling into alternative investments. Here&apos;s why"
-    },
-    {
-     "title": "如果Anthropic下周的上市顺利、股价上涨，那AI“一切照旧”，否则“一些公司会倒闭”",
-     "link": "https://wallstreetcn.com/articles/3785778",
-     "pubDate": "Thu, 12 Nov 2026 11:35:26 +0800",
-     "summary": "人工智能（AI）初创企业的估值正面临现实的考验。行业领军企业OpenAI和Anthropic下调估值预期的举动，加剧了风险投资界对初创企业估值全面回调的担忧，这也使得Anthropic即将到来的首次公开募股（IPO）成为决定整个AI行业走向的关键时刻。 据彭博11月12日报道，知情人士透露， OpenAI近期面临市场环境恶化及投资者反馈，将其目标估值从1.4万亿美元下调至1.25万亿美元，并将融资目标削减了三分之一 。与此同时， 其竞争对手Anthropic决定以低于预期的1.4万亿美元完全摊薄估值推进IPO ，这一数字远低于部分银行家此前预期的2万亿美元。 这些缩减规模的交易给本就因公开市场",
-     "source": "华尔街见闻",
-     "zh": "如果Anthropic下周的上市顺利、股价上涨，那AI“一切照旧”，否则“一些公司会倒闭”"
-    },
-    {
-     "title": "586GW变199GW：美国三分之二的AI数据中心计划只是PPT？",
-     "link": "https://wallstreetcn.com/articles/3785784",
-     "pubDate": "Thu, 12 Nov 2026 11:35:19 +0800",
-     "summary": "华尔街目前正沉浸在一种“错误”的恐慌情绪中：大选后的政治阻力（如各州的暂停建设令）将大幅削减美国AI数据中心的产能扩张。然而，基于Bernstein对北美8858个数据中心项目的最新卫星级逐月追踪与信用模型分析，市场完全找错了风险焦点。 Bernstein分析师Madison Rezaei团队在10月11日更新了其数据中心可信度模型，为中期选举之后首次更新，对Aterio数据库中北美全部8858个项目进行筛查，结论触目惊心： 在586GW的已宣布/在建/土地储备容量中，仅有199GW（34%）具备真实可信度，另外387GW——约三分之二——是\"吹牛瓦特\"（Bragawatts）， 仅仅停留在P",
-     "source": "华尔街见闻",
-     "zh": "586GW变199GW：美国三分之二的AI数据中心计划只是PPT？"
     }
    ]
   },

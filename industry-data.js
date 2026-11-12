@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 15:03:15",
+ "generated_at": "2026/11/12 15:12:02",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,54 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "SoftBank rejects Musk's default claim, books JPY597.2B data-center loss",
+     "link": "https://www.digitimes.com/news/a20261112PD226/loss-2026-equipment-spacex-elon-musk.html",
+     "pubDate": "Thu, 12 Nov 2026 06:57:38 GMT",
+     "summary": "SoftBank Group (SBG) has denied SpaceX CEO Elon Musk's claim on X that the company defaulted after ordering turbines, while saying its AI infrastructure plans remain on track. However, SBG recorded a JPY597.2 billion (US$3.73 billion) loss in the second quarter of fiscal 2026 (July&ndash;September 2",
+     "source": "DIGITIMES",
+     "zh": "SoftBank rejects Musk's default claim, books JPY597.2B data-center loss"
+    },
+    {
+     "title": "Sharp sells LCD color filter plant to Nitto Denko for JPY22.2B",
+     "link": "https://www.digitimes.com/news/a20261112PD232/sharp-plant-nitto-denko-lcd-business.html",
+     "pubDate": "Thu, 12 Nov 2026 06:55:00 GMT",
+     "summary": "Sharp is accelerating efforts to address its loss-making display component business. According to Nikkei , Sharp will sell its Hisai plant in Tsu, Mie Prefecture, Japan, which produces color filters for LCD panels, to Nitto Denko. Sharp officially announced the sale on the morning of November 12. Th",
+     "source": "DIGITIMES",
+     "zh": "Sharp sells LCD color filter plant to Nitto Denko for JPY22.2B"
+    },
+    {
+     "title": "Amtran's 3Q26 profit tops 1H26 total as non-TV shipments surge",
+     "link": "https://www.digitimes.com/news/a20261112PD236/profit-2026-earnings-shipments-revenue.html",
+     "pubDate": "Thu, 12 Nov 2026 06:55:00 GMT",
+     "summary": "Amtran Technology reported a sharp profit increase in the third quarter of 2026, driven by stronger shipments of high-value non-TV products and an optimized product mix. Third-quarter earnings per share reached NT$0.59 (US$0.018), up 103% quarter-over-quarter, while earnings for the first three quar",
+     "source": "DIGITIMES",
+     "zh": "Amtran's 3Q26 profit tops 1H26 total as non-TV shipments surge"
+    },
+    {
+     "title": "Sam Altman warns Samsung of short-term AI demand volatility",
+     "link": "https://www.digitimes.com/news/a20261112PD219/samsung-demand-openai-sam-altman-ceo.html",
+     "pubDate": "Thu, 12 Nov 2026 06:45:03 GMT",
+     "summary": "OpenAI CEO Sam Altman warned Samsung Electronics executives that AI memory demand could fluctuate in the short term, with the market potentially counting the same demand more than once. He nevertheless expects long-term AI demand to surge, creating shortages of chips and data centers and underscorin",
+     "source": "DIGITIMES",
+     "zh": "Sam Altman warns Samsung of short-term AI demand volatility"
+    },
+    {
+     "title": "Chinese media question timing of Huang allegations amid chip controls",
+     "link": "https://www.digitimes.com/news/a20261112PD221/nvidia-apec-ceo-policy-technology.html",
+     "pubDate": "Thu, 12 Nov 2026 06:44:54 GMT",
+     "summary": "With Chinese and US leaders expected to meet on October 18 during the APEC Economic Leaders' Meeting, allegations involving Nvidia CEO Jensen Huang's extramarital affair and supposed links to Chinese espionage continue to escalate. China's state-run Global Times questioned whether the closely timed ",
+     "source": "DIGITIMES",
+     "zh": "Chinese media question timing of Huang allegations amid chip controls"
+    },
+    {
+     "title": "Kwang-Hwa swings to profit in 3Q26 as EPF film line nears launch",
+     "link": "https://www.digitimes.com/news/a20261112PD238/profit-2026-revenue-production-loss.html",
+     "pubDate": "Thu, 12 Nov 2026 06:44:41 GMT",
+     "summary": "Kwang-Hwa Electronic reported consolidated revenue of NT$1.315 billion in the third quarter of 2026, down 2.78% quarter-on-quarter and 3.01% year-on-year. Gross profit was NT$324 million, up 8.61% quarter-on-quarter but down 9.07% year-on-year. Supported by foreign-exchange gains, the company swung ",
+     "source": "DIGITIMES",
+     "zh": "Kwang-Hwa swings to profit in 3Q26 as EPF film line nears launch"
+    },
+    {
      "title": "Ron Neale",
      "link": "https://www.electronicsweekly.com/news/business/ron-neale-2026-11/",
      "pubDate": "Thu, 12 Nov 2026 06:16:05 +0000",
@@ -304,54 +352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Melexis claims to have produced the world’s smallest contactless temperature sensor delivering medical accuracy, for potential use in wearable digital health devices. Medical accuracy implies it delivers ±0.2°C accuracy* across […] The post Melexis claims smallest contactless temperature sensor appe",
      "source": "Electronics Weekly",
      "zh": "Melexis claims smallest contactless  temperature sensor"
-    },
-    {
-     "title": "Intel China wants to turn untapped renewable energy into AI tokens with computing pods slated for 1H27",
-     "link": "https://www.digitimes.com/news/a20261112PD211/intel-china-renewable-energy-chipmakers-ai-inference-demand.html",
-     "pubDate": "Thu, 12 Nov 2026 05:58:38 GMT",
-     "summary": "As demand for AI computing expands across industries and applications, chipmakers are seeking opportunities beyond conventional data centers, extending into enterprise deployments and personal devices. At the ninth China International Import Expo (CIIE) in 2026, Intel China showcased three AI comput",
-     "source": "DIGITIMES",
-     "zh": "Intel China wants to turn untapped renewable energy into AI tokens with computing pods slated for 1H27"
-    },
-    {
-     "title": "Samsung moves up HBM packaging plant opening to June 2028",
-     "link": "https://www.digitimes.com/news/a20261112VL209/samsung-hbm-packaging-2028-plant.html",
-     "pubDate": "Thu, 12 Nov 2026 05:57:08 GMT",
-     "summary": "Samsung Electronics said on November 12 it had moved up the planned opening of its new high-bandwidth memory (HBM) packaging plant in South Korea by one year to June 2028 to meet rising demand for AI server memory.",
-     "source": "DIGITIMES",
-     "zh": "Samsung moves up HBM packaging plant opening to June 2028"
-    },
-    {
-     "title": "DIGITIMES Insight: Entering glass substrate era, core layers are no longer an exclusive process for substrate makers",
-     "link": "https://www.digitimes.com/news/a20261112PD229/digitimes-substrate-glass-substrate-production-tgv.html",
-     "pubDate": "Thu, 12 Nov 2026 04:48:21 GMT",
-     "summary": "DIGITIMES observes that as AI accelerators continue to grow in size, substrate dimensions are gradually moving beyond 100x100mm. Warpage issues in organic substrates have also become increasingly pronounced, prompting industry players to invest in the development of different core-layer materials. G",
-     "source": "DIGITIMES",
-     "zh": "DIGITIMES Insight: Entering glass substrate era, core layers are no longer an exclusive process for substrate makers"
-    },
-    {
-     "title": "DFI targets industrial edge AI, with automation leading 42% of opportunities",
-     "link": "https://www.digitimes.com/news/a20261112PD228/dfi-industrial-automation-ipc-2025.html",
-     "pubDate": "Thu, 12 Nov 2026 04:27:04 GMT",
-     "summary": "Industrial computer (IPC) maker DFI reported higher revenue and profit in the third quarter of 2026, with earnings per share (EPS) reaching NT$1.29 (US$0.039), up sharply from NT$0.66 in the same period of 2025. The company is focusing on industrial automation, semiconductors and industrial equipmen",
-     "source": "DIGITIMES",
-     "zh": "DFI targets industrial edge AI, with automation leading 42% of opportunities"
-    },
-    {
-     "title": "South Korea&rsquo;s HBM demand drives 54% surge in Taiwan glass fiber exports",
-     "link": "https://www.digitimes.com/news/a20261112PD207/taiwan-demand-exports-hbm-2026.html",
-     "pubDate": "Thu, 12 Nov 2026 04:24:49 GMT",
-     "summary": "Taiwan&rsquo;s glass fiber exports to South Korea rose 54.0% year-over-year in the first nine months of 2026 as demand for high-bandwidth memory (HBM) and advanced packaging expanded. South Korea has also become Taiwan&rsquo;s largest trade deficit partner, with Taiwan&rsquo;s deficit reaching US$59",
-     "source": "DIGITIMES",
-     "zh": "South Korea&rsquo;s HBM demand drives 54% surge in Taiwan glass fiber exports"
-    },
-    {
-     "title": "AI bottleneck shifts from compute to power; European supply chain sees power semiconductors as next shortage",
-     "link": "https://www.digitimes.com/news/a20261112PD214/2026-panel-supply-chain-power-semiconductors-data.html",
-     "pubDate": "Thu, 12 Nov 2026 04:24:37 GMT",
-     "summary": "At the opening panel of electronica 2026 in Munich on November 10, industry leaders agreed that the primary bottleneck in artificial intelligence is shifting from computing power to energy delivery. Panelists warned that power semiconductors are quickly becoming the tech sector's next critical suppl",
-     "source": "DIGITIMES",
-     "zh": "AI bottleneck shifts from compute to power; European supply chain sees power semiconductors as next shortage"
     },
     {
      "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
      "zh": "Pacific prospects"
     },
     {
+     "title": "To Honor Veterans, How About We Stop The Oil Wars?",
+     "link": "https://cleantechnica.com/2026/11/11/to-honor-veterans-how-about-we-stop-the-oil-wars/",
+     "pubDate": "Thu, 12 Nov 2026 04:50:38 +0000",
+     "summary": "Today is Veterans Day in the United States. Naturally, across the country, people have spent at least part of the day thinking about veterans they know as well as veterans they don’t and thanking them for their service. Whether you agree with the various wars the United States has gotten ... [contin",
+     "source": "CleanTechnica",
+     "zh": "To Honor Veterans, How About We Stop The Oil Wars?"
+    },
+    {
      "title": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
      "link": "https://oilprice.com/Energy/Crude-Oil/Who-Will-Buy-Sables-Oil-if-California-Keeps-Closing-Refineries.html",
      "pubDate": "Wed, 11 Nov 2026 19:00:00 -0600",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "What are semi-solid-state batteries, what potential do they hold for battery energy storage system (BESS) applications, and when are we likely to see them come to market?",
      "source": "Energy Storage News",
      "zh": "Semi-solid state batteries for BESS: potential and challenges"
-    },
-    {
-     "title": "SpaceX orders HJT solar cell manufacturing equipment from Singulus Technologies",
-     "link": "https://www.pv-tech.org/spacex-orders-hjt-solar-cell-manufacturing-equipment-from-singulus-technologies/",
-     "pubDate": "Wed, 11 Nov 2026 11:54:24 +0000",
-     "summary": "German solar cell production equipment company Singulus Technologies has secured a supply contract with SpaceX.",
-     "source": "PV Tech",
-     "zh": "SpaceX orders HJT solar cell manufacturing equipment from Singulus Technologies"
     }
    ]
   },
@@ -1885,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
      "link": "https://www.getlazarus.org/forums/topic/17/",
      "pubDate": "Thu, 12 Nov 2026 05:49:34 +0000",
-     "summary": "Article URL: https://www.getlazarus.org/forums/topic/17/ Comments URL: https://news.ycombinator.com/item?id=50463540 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://www.getlazarus.org/forums/topic/17/ Comments URL: https://news.ycombinator.com/item?id=50463540 Points: 12 # Comments: 1",
      "source": "Hacker News",
      "zh": "I'm Working on a FOSS Linux Pinbal Simulation Engine"
     },
@@ -2258,12 +2258,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Foxconn Technology GAAP EPS of T$5.51, revenue of T$3015.63B; lifts FY2026 guidance, sees high double-digit AI rack growth in FY27",
+     "title": "UK Q3 GDP rises 0.7%, driven by steady monthly growth",
+     "link": "https://seekingalpha.com/news/4671123-uk-q3-gdp-rises-07-driven-by-steady-monthly-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:05:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "UK Q3 GDP rises 0.7%, driven by steady monthly growth"
+    },
+    {
+     "title": "Salzgitter AG reports 9M results",
+     "link": "https://seekingalpha.com/news/4671127-salzgitter-ag-reports-9m-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:04:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Salzgitter AG reports 9M results"
+    },
+    {
+     "title": "Zurich Insurance reports results for the nine months ended September 30",
+     "link": "https://seekingalpha.com/news/4671128-zurich-insurance-reports-results-for-the-nine-months-ended-september-30?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:03:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Zurich Insurance reports results for the nine months ended September 30"
+    },
+    {
+     "title": "Munich Re lifts FY profit target after reporting Q3 results",
+     "link": "https://seekingalpha.com/news/4671125-munich-re-lifts-fy-profit-target-after-reporting-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 02:00:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Munich Re lifts FY profit target after reporting Q3 results"
+    },
+    {
+     "title": "Foxconn Technology GAAP EPS of NT$5.51, revenue of NT$3015.63B; lifts FY2026 guidance, sees high double-digit AI rack growth in FY27",
      "link": "https://seekingalpha.com/news/4671126-foxconn-technology-gaap-eps-of-t551-revenue-of-t301563b-lifts-fy2026-guidance-sees-high-double-digit-ai-rack-growth-in-fy27?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 12 Nov 2026 01:55:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Foxconn Technology GAAP EPS of T$5.51, revenue of T$3015.63B; lifts FY2026 guidance, sees high double-digit AI rack growth in FY27"
+     "zh": "Foxconn Technology GAAP EPS of NT$5.51, revenue of NT$3015.63B; lifts FY2026 guidance, sees high double-digit AI rack growth in FY27"
     },
     {
      "title": "Telefónica raises EBITDA and free cash flow outlook after Q3 results",
@@ -2274,22 +2306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Telefónica raises EBITDA and free cash flow outlook after Q3 results"
     },
     {
-     "title": "Siemens Q4 adjusted EPS rises to €3.01 as revenue grows 11%",
-     "link": "https://seekingalpha.com/news/4671121-siemens-q4-adjusted-eps-rises-to-301-as-revenue-grows-11?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 01:47:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Siemens Q4 adjusted EPS rises to €3.01 as revenue grows 11%"
-    },
-    {
-     "title": "enGene reports positive LEGEND trial data, plans detalimogene BLA submission",
-     "link": "https://seekingalpha.com/news/4671119-engene-reports-positive-legend-trial-data-plans-detalimogene-bla-submission?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 01:39:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "enGene reports positive LEGEND trial data, plans detalimogene BLA submission"
-    },
-    {
      "title": "婚外情风波下、英伟达股价重挫，“大空头”：短期或是“绝佳交易”但长期仍看空",
      "link": "https://wallstreetcn.com/articles/3785794",
      "pubDate": "Thu, 12 Nov 2026 14:36:56 +0800",
@@ -2298,28 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "婚外情风波下、英伟达股价重挫，“大空头”：短期或是“绝佳交易”但长期仍看空"
     },
     {
-     "title": "CareTrust REIT prices $637.5M stock offering",
-     "link": "https://seekingalpha.com/news/4671118-caretrust-reit-prices-6375m-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 01:31:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CareTrust REIT prices $637.5M stock offering"
-    },
-    {
      "title": "马斯克又发声：如果能聘请黄仁勋，那将是我的荣幸",
      "link": "https://wallstreetcn.com/articles/3785792",
      "pubDate": "Thu, 12 Nov 2026 14:26:36 +0800",
      "summary": "英伟达CEO黄仁勋婚外情风波持续发酵，围绕其去留的讨论已从个人丑闻演变为一场牵动AI产业走向的市场事件。 当地时间11月12日，知名财经评论账号ZeroHedge在社交平台X上发文，向马斯克喊话： “Elon please hire Jensen”（埃隆，请雇佣黄仁勋）。 马斯克随即回复： “That would be an honor”（那将是我的荣幸）。 此前，据《华尔街日报》报道，英伟达董事会正准备解雇黄仁勋，导火索是其两段婚外情。 受上述消息影响，华尔街对英伟达前景的担忧明显升温，部分基金经理表示将在未来数周减持英伟达股票。 马斯克隔空\"接盘\"，呼应硅谷圈力挺声浪 目前马斯克这一表态仅",
      "source": "华尔街见闻",
      "zh": "马斯克又发声：如果能聘请黄仁勋，那将是我的荣幸"
-    },
-    {
-     "title": "Nikkei leads Asian sell-off after reports of Nvidia shake-up weigh on U.S. futures; Japan PPI beats forecasts",
-     "link": "https://seekingalpha.com/news/4671105-asian-markets-retreat-as-nvidia-leadership-turmoil-rattles-tech-sector-japan-ppi-beats-forecasts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 01:26:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nikkei leads Asian sell-off after reports of Nvidia shake-up weigh on U.S. futures; Japan PPI beats forecasts"
     },
     {
      "title": "太平基金四位基金经理集体离任，保险央企麾下公募出路何在？",
@@ -2362,12 +2362,52 @@ window.INDUSTRY_DATA = {
      "zh": "业绩创新高却股价大跌，姆巴佩风波后昂跑CEO首次回应"
     },
     {
-     "title": "热度拉满！Anthropic上市首日散户净买入或达2.5亿美元 为SpaceX纪录两倍",
-     "link": "http://finance.eastmoney.com/news/1354,202611123929373974.html",
-     "pubDate": "Thu, 12 Nov 2026 13:39:39 +0800",
-     "summary": "美东时间周三，金融市场研究公司Vanda Research发布研报称，Anthropic的上市首日或将迎来创纪录的散户资金买入，规模有望超过 SpaceX ，成为史上散户单日买入规模最大的标的之一。 Vanda Research结合上市首日散户交易规律、以及Hyperliquid平台上Anthropic的IPO前永续 期货 成交数据测算，预计该股上市首日散户净买入规模约2.5亿美元，达到 SpaceX 此前1.18亿美元散户买入纪录的两倍。 Vanda Research全球宏观策略师维拉杰·帕特尔（Viraj Patel）在报告中表示：“从IPO前永续合约的交易表现来看，Anthropic有望",
-     "source": "东方财富资讯",
-     "zh": "热度拉满！Anthropic上市首日散户净买入或达2.5亿美元 为SpaceX纪录两倍"
+     "title": "ST路通：截至11月10日最新股东户数5307户，较上期减少0.97%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929391051.html",
+     "pubDate": "Thu, 12 Nov 2026 13:43:26 +0800",
+     "summary": "ST路通 最新披露数据显示，截至11月10日公司股东户数为5307户，较上期(2026年10月20日) 减少52户，降幅为0.97% 。户均持有流通股数量 由上期的3.70万股上升至3.73万股， 户均持股金额 由上期的41.50万元减少至41.09万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "ST路通：截至11月10日最新股东户数5307户，较上期减少0.97%"
+    },
+    {
+     "title": "AI观察｜手机里预装的智能体要“持证上岗”了",
+     "link": "http://finance.eastmoney.com/news/1355,202611123929390445.html",
+     "pubDate": "Thu, 12 Nov 2026 13:43:00 +0800",
+     "summary": "你会让智能手机替你自动回微信、点外卖、订机票吗？ 随着 AI手机 的上市销售，出厂即预装、开机就能自主执行任务的预置智能体，正越来越多地介入日常事务。 便利之余，问题也随之而来：这些会学习、能调用其他应用的智能体，能被放心地“托付”吗？ 中国 工业互联网 研究院11月6日发布的智能体十大应用风险警示中，“越权自主行动”被列为风险类别之一：智能体“未经用户确认，自行检索并调用更高权限的凭证或能力继续执行任务”，此类行为“不产生任何审批记录”，却可能触发删除、下发等高危操作。 如何在鼓励行业发展的同时为广大消费者筑牢安全的底线？监管正在给出答案。近日，工业和信息化部办公厅印发《关于加强智能体终端设",
+     "source": "东方财富股票",
+     "zh": "AI观察｜手机里预装的智能体要“持证上岗”了"
+    },
+    {
+     "title": "阿联酋哈伊马角媒体办公室：此前因漏油事件关闭的多处海滩现已重新开放",
+     "link": "http://finance.eastmoney.com/news/1351,202611123929391785.html",
+     "pubDate": "Thu, 12 Nov 2026 13:42:36 +0800",
+     "summary": "阿联酋哈伊马角媒体办公室：此前因漏油事件关闭的多处海滩现已重新开放。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "阿联酋哈伊马角媒体办公室：此前因漏油事件关闭的多处海滩现已重新开放"
+    },
+    {
+     "title": "巴克莱：高能源成本给日本带来的通胀压力料将延续",
+     "link": "http://finance.eastmoney.com/news/1351,202611123929391564.html",
+     "pubDate": "Thu, 12 Nov 2026 13:42:36 +0800",
+     "summary": "日本央行周四公布的数据显示，10月进口价格较上年同期涨24.8%，9月涨幅为23.8%。 巴克莱 经济学家称，原油再度推高了日本10月进口价格，表明高能源成本带来的通胀压力可能还会持续一段时间。受中东局势影响的能源价格走势再次变得重要起来。短期内，自7月以来原油价格上涨的影响可能会滞后传导，并推高价格，主要集中在 电力 和 天然气 领域。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "巴克莱：高能源成本给日本带来的通胀压力料将延续"
+    },
+    {
+     "title": "阿联酋拉斯海马酋长国因漏油事件关闭多处海滩后重新开放",
+     "link": "http://finance.eastmoney.com/news/11790,202611123929393719.html",
+     "pubDate": "Thu, 12 Nov 2026 13:41:34 +0800",
+     "summary": "阿联酋拉斯海马酋长国因漏油事件关闭多处海滩后重新开放。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "阿联酋拉斯海马酋长国因漏油事件关闭多处海滩后重新开放"
+    },
+    {
+     "title": "20CM快报｜AI算力硬件回暖，科创综指ETF富国（589600）飘红，硬科技宽基配置价值凸显",
+     "link": "http://stock.eastmoney.com/news/11622,202611123929389815.html",
+     "pubDate": "Thu, 12 Nov 2026 13:41:00 +0800",
+     "summary": "11月12日， 半导体 与AI算力方向延续反弹，科创综指ETF富国（589600）盘中上涨1.43%。从标的指数成分股表现看，盛科 通信 涨超15%， 中船特气 、沐曦股份等多只个股涨超12%， 寒武纪 、摩尔线程等多只个股涨超10%， 半导体 产业链上游与关键材料环节领涨。 产业层面，市场传闻部分头部存储企业已向渠道商口头告知企业级颗粒涨价意向，渠道端价格先行反应，四季度原厂报价呈小幅上行态势；机构调研亦显示，国内存储厂扩产对应设备采购规模明年有望接近翻倍，四季度国产零部件放量推动设备交付环比改善。 研究机构认为，AI算力芯片及国产化放量有望继续提速，国内存储与先进逻辑持续扩产将推动设备和零",
+     "source": "东方财富股票",
+     "zh": "20CM快报｜AI算力硬件回暖，科创综指ETF富国（589600）飘红，硬科技宽基配置价值凸显"
     },
     {
      "title": "Growth investing or gambling?",
@@ -2386,52 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang"
     },
     {
-     "title": "从“鼓吹降息”到“加息50基点”？起底美联储“变脸王”沃勒！",
-     "link": "http://finance.eastmoney.com/news/1344,202611123929355411.html",
-     "pubDate": "Thu, 12 Nov 2026 12:40:19 +0800",
-     "summary": "美联储主席凯文·沃什对利率“前瞻性指引”的唾弃是显而易见。然而令人唏嘘的是，其同僚似乎把“这一招”玩出了新花样…… 自5月接替鲍威尔出任美联储主席以来，沃什一直致力于全面改革美联储的运作机制——从减少每年的政策会议次数到彻底重组决策框架，几乎涵盖了各个方面。 然而如今，信息传达混乱反而已成为新阶段美联储的一大特征。 虽然沃什曾多次引导市场不要过度看重单一数据点，并主张美联储不应将自身束缚在预测之上。但周二在伦敦，美联储理事沃勒的做法却“恰恰相反”。 沃勒表示，如果原定于当天晚些时候公布的美国10月份核心消费者物价指数(CPI)环比涨幅达到0.3%或更高，那么下个月加息50个基点就应纳入考虑范围",
-     "source": "东方财富资讯",
-     "zh": "从“鼓吹降息”到“加息50基点”？起底美联储“变脸王”沃勒！"
-    },
-    {
-     "title": "4500亿搏杀！A50突然异动！",
-     "link": "http://finance.eastmoney.com/news/1344,202611123929354834.html",
-     "pubDate": "Thu, 12 Nov 2026 12:37:50 +0800",
-     "summary": "流动性和叙事逻辑一个都不能少！ 今日早盘，A50突然直线拉升，涨幅一度超过1%。与此同时，A股 半导体 集体拉升（GPU表现尤其突出）， 寒武纪 、燧原科技、 盛合晶微 、盛科 通信 涨超10%， 通富微电 一度涨停。芯片板块上午成交量突破4500亿元。 AI应用 也大涨， 鸿博股份 涨停， 蓝色光标 、 易点天下 、 福石控股 、 利欧股份 、 汉得信息 等跟涨。 电子 元件 板块持续走高， 景旺电子 、 博敏电子 涨停， 奥士康 、 东山精密 、 沪电股份 、 生益电子 纷纷上扬。 分析人士认为，市场主要有两大变量助力： 一是流动性。据研究机构统计，本轮机构暴露20日累计收益首次回正，出现",
-     "source": "东方财富资讯",
-     "zh": "4500亿搏杀！A50突然异动！"
-    },
-    {
-     "title": "高盛预计明年涨价122%！融资客抢筹HBM概念股",
-     "link": "http://finance.eastmoney.com/news/11139,202611123929353059.html",
-     "pubDate": "Thu, 12 Nov 2026 12:25:16 +0800",
-     "summary": "周四 高带宽内存 (HBM)概念大涨，截至午间收盘， 赛腾股份 、西安奕材、中巨芯、 精智达 等表现强势。 HBM需求旺盛 北美三大云厂商三季度云业务收入均保持较快增长，资本开支继续向AI基础设施倾斜， SK海力士 和三星 电子 存储业务业绩创下新高，HBM等高端产品需求旺盛，长期供应协议进一步锁定未来产能。 国盛证券 认为，AI基础设施建设对高端存储需求的拉动已逐步体现为企业收入和利润增长，存储市场供需偏紧的局面仍在延续。 市场分析机构Counterpoint最新报告显示，随着新一代HBM产品推出及价格持续上涨，主要存储供应商有望在第四季度创下新的营收纪录。 2026年第三季度，三星以38%",
-     "source": "东方财富资讯",
-     "zh": "高盛预计明年涨价122%！融资客抢筹HBM概念股"
-    },
-    {
      "title": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington",
      "link": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1",
      "pubDate": "Thu, 12 Nov 2026 04:19:48 GMT",
      "summary": "AI kingmaker’s opponents see ‘blood in the water’ after affair with suspected Chinese spy",
      "source": "Financial Times",
      "zh": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington"
-    },
-    {
-     "title": "阿里平头哥冲刺IPO！A股“朋友圈”来了 黑马抢先爆发（附名单）",
-     "link": "http://finance.eastmoney.com/news/1354,202611123929352034.html",
-     "pubDate": "Thu, 12 Nov 2026 12:19:00 +0800",
-     "summary": "平头哥独立上市的申请助推国产算力高景气。 阿里平头哥拟IPO 11月10日晚， 阿里巴巴 集团发布公告称，已向香港联交所提交分拆旗下全资子公司平头哥独立上市的申请。待上市完成后，预计平头哥仍将是 阿里巴巴 子公司。 公告显示，今年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。 据券商中国报道，截至目前，国内拥有算力、存储、网络全栈 数据中心 芯片自研能力的厂商，主要为华为与平头哥。 在单芯片层面，平头哥已推出真武系列 AI芯片 、倚天系列 CPU、ICN互联芯片、磐脉智能网卡和镇岳存储主控芯片，性能均处于第一梯队。此外，平头",
-     "source": "东方财富资讯",
-     "zh": "阿里平头哥冲刺IPO！A股“朋友圈”来了 黑马抢先爆发（附名单）"
-    },
-    {
-     "title": "证监会副主席刘浩凌：中国政府高度重视资本市场平稳健康发展 中国资产的安全、韧性和创新价值将持续凸显",
-     "link": "http://finance.eastmoney.com/news/1345,202611123929347043.html",
-     "pubDate": "Thu, 12 Nov 2026 12:09:40 +0800",
-     "summary": "中国证监会副主席刘浩凌在2026年上海证券交易所国际投资者大会上致辞。刘浩凌表示，中国政府高度重视资本市场平稳健康发展。中国证监会将坚决贯彻党中央决策部署，落实近日国务院常务会议要求，完善稳市机制，增强股市内在稳定性，会同相关部门协同发力，打好稳市场、稳预期政策组合拳。用好用足两项结构性货币政策工具，证券、基金公司已开展第三批互换便利操作1000亿元。支持上市公司加大回购增持力度，今年以来上市公司新披露的回购计划金额、实际回购金额、回购注销金额及占比均创 历史新高 。丰富市场投资工具，加大权益类产品供给和创新力度，引导和鼓励主动ETF加快投资建仓。进一步拓宽中长期资金来源、渠道和入市方式，促进",
-     "source": "东方财富资讯",
-     "zh": "证监会副主席刘浩凌：中国政府高度重视资本市场平稳健康发展 中国资产的安全、韧性和创新价值将持续凸显"
     },
     {
      "title": "见闻历11.11大促最后2天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",

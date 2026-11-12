@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 10:13:05",
+ "generated_at": "2026/11/12 10:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -1770,28 +1770,100 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "中消协就网购“AB 货”发声：算法画像区别发货，同时侵害个人信息权益与公平交易权",
-     "link": "https://www.ithome.com/1/025/889.htm",
-     "pubDate": "Thu, 12 Nov 2026 02:10:20 GMT",
-     "summary": "IT之家 11 月 12 日消息，据央视新闻今日报道，中国消费者协会就近期持续升温的网购“AB 货”争议公开发声。 所谓“AB 货”，指部分电商经营者以同一链接、同一价格销售同一商品时，针对不同消费者区别发送品质明显不同的商品：展示的是“A 货”，实际发出的却是“B 货”；偏远农村消费者因退货不便、维权成本高，被定向发送降级商品，而城区或维权意识较强的消费者则收到品质正常的版本。 中消协将这一行为的法律性质拆解为三个层面： 其一，商家以次充好，侵害消费者知情权和自主选择权。《消费者权益保护法》第二十条、第二十三条规定，经营者应真实、全面提供商品质量、性能等信息，以广告、实物样品等方式表明质量状",
+     "title": "华硕推出 Pro WS LC 360-4710 液冷：支持英特尔工作站平台",
+     "link": "https://www.ithome.com/1/025/897.htm",
+     "pubDate": "Thu, 12 Nov 2026 02:27:08 GMT",
+     "summary": "IT之家 11 月 12 日消息，华硕 (ASUS) 现已在其官网上线一体式液冷散热器 Pro WS LC 360-4710。这一型号 面向英特尔的 LGA 4667 / 4710 至强工作站处理器平台 ，能提供可靠高效的冷却能力。 Pro WS LC 360-4710 基于 Asetek 方案，水泵采用 3450RPM 电机，搭配 465mm 套筒橡胶管、38mm 加厚铝制冷排；吹排风扇为 12028 规格，可提供 99.66CFM 风量、6.34mmAq 静压，噪声 39.1dB(A)。 这款 AIO 冷头内嵌 ARGB 灯珠， 支持实时显示系统关键硬件温度 。华硕为该液冷提供 6 年质保",
      "source": "IT之家",
-     "zh": "中消协就网购“AB 货”发声：算法画像区别发货，同时侵害个人信息权益与公平交易权"
+     "zh": "华硕推出 Pro WS LC 360-4710 液冷：支持英特尔工作站平台"
     },
     {
-     "title": "亚马逊 AWS 掌门人谈太空 AI 算力：未来 10 至 20 年难具商业可行性",
-     "link": "https://www.ithome.com/1/025/888.htm",
-     "pubDate": "Thu, 12 Nov 2026 02:09:55 GMT",
-     "summary": "IT之家 11 月 12 日消息，昨日（11 月 11 日）作客 Sources 播客节目时，亚马逊云计算业务 AWS 首席执行官马特 · 加曼（Matt Garman）表示， 未来 10 至 20 年内，太空数据中心很难在经济性和实际运营层面达到可行要求。 图源：Sources 播客节目截图 太空数据中心的构想，是将计算设备送入轨道，利用太阳能为 AI 计算供电。但加曼认为， 从概念走向商业运营，仍需跨越发射成本、运载能力、散热和设备维护等多重障碍。技术上虽然能够实现，并不意味着成本足以支撑大规模应用。 加曼首先关注的是运输能力。太空数据中心需要送入轨道的，不仅是服务器和 GPU，还包括太阳",
+     "title": "百度李彦宏对话联想杨元庆：AI 还替代不了 CEO 出差",
+     "link": "https://www.ithome.com/1/025/895.htm",
+     "pubDate": "Thu, 12 Nov 2026 02:24:04 GMT",
+     "summary": "IT之家 11 月 12 日现场消息，在今日的百度世界大会 2026 活动中，百度创始人李彦宏发表演讲，并在现场对话联想集团董事长兼 CEO 杨元庆。 李彦宏询问杨元庆最近出差多吗，并表示“ 现在 AI 还是替代不了 CEO 出差 ”。 杨元庆回答：（最近出差）挺多的，最近从欧美回来。 人和人之间的情感链接还是非常重要的 。所以这次出差也是见了不少的客户，和分析师开了不少的圆桌会。 杨元庆提到，从 2024 年开始是联想的第五个十年，也是联想第五次创业，毫无疑问就是围绕着 AI 时代的创业。 IT之家在大会现场了解到，杨元庆透露 联想正在用 AI 变革所有的业务 ，三大主要业务都会因 AI 获",
      "source": "IT之家",
-     "zh": "亚马逊 AWS 掌门人谈太空 AI 算力：未来 10 至 20 年难具商业可行性"
+     "zh": "百度李彦宏对话联想杨元庆：AI 还替代不了 CEO 出差"
     },
     {
-     "title": "700 号段来了可放心接听，央视提醒 4 种电话别接、别回、别点",
-     "link": "https://www.ithome.com/1/025/887.htm",
-     "pubDate": "Thu, 12 Nov 2026 02:05:20 GMT",
-     "summary": "IT之家 11 月 12 日消息，工业和信息化部近日批复 10 家企业开展号码保护服务业务试点， 并为相关企业核配 700 专用码号资源 。这一试点落地，将依托专用虚拟码号搭建起一道“数字隔离屏障”，在外卖、网约车等高频场景，为广大用户的真实手机号披上一层“隐身外衣”。 据央视新闻今日报道， 号码保护服务业务也叫中间号业务 ，试点推行 700 开头的中间号是为了更有效防范治理电信网络诈骗、加强商业营销电话防控。 用户下单时如果勾选号码保护服务，与外卖员、网约车司机之间将以 700 开头的 15 位专用号码完成联系，通信双方真实手机号码互不展示 。同时，依托来电显示、接通前语音播报等方式，用户可",
+     "title": "Claude API 新增调节 effort 能力：让 AI 按任务使劲，从闲聊转复杂分析可中途“换挡”",
+     "link": "https://www.ithome.com/1/025/894.htm",
+     "pubDate": "Thu, 12 Nov 2026 02:23:54 GMT",
+     "summary": "IT之家 11 月 12 日消息，Anthropic 为 Claude API 新增一项 Beta 功能，开发者可以在消息中调整 effort。这意味着， 同一段对话不必始终沿用相同设置，开发者可根据后续任务需要，中途改变模型回答的“努力程度”。 IT之家注：effort 可以理解为让 Claude 回答问题时，“投入多少功夫”的档位。它帮助开发者在回答的充分程度、响应速度和使用成本之间做取舍。effort 调整的不只是最后写多少字，还会影响模型在思考、调用工具和组织回答等环节的资源投入。 在操作方面，用户可以在消息序列中插入一条内容为空的 system 消息，并通过新的 output_con",
      "source": "IT之家",
-     "zh": "700 号段来了可放心接听，央视提醒 4 种电话别接、别回、别点"
+     "zh": "Claude API 新增调节 effort 能力：让 AI 按任务使劲，从闲聊转复杂分析可中途“换挡”"
+    },
+    {
+     "title": "航运巨头马士基遭数据泄露，勒索团伙索要 500 万美元赎金",
+     "link": "https://www.ithome.com/1/025/893.htm",
+     "pubDate": "Thu, 12 Nov 2026 02:23:49 GMT",
+     "summary": "IT之家 11 月 12 日消息，丹麦航运巨头马士基近期遭遇数据泄露，黑客入侵了该公司此前收购的一家子公司。 马士基表示，公司网络安全团队发现问题后立刻展开调查，目前没有迹象表明其他马士基系统，或通过 API、EDI 等集成方式与马士基连接的客户及合作伙伴系统受到影响。 同时马士基表示，本次事件不会对客户业务造成影响，他们仍可照常使用马士基平台管理货运业务。 结合 BleepingComputer 报道，勒索软件团伙 WhiteArmor 声称对此次攻击负责。该团伙上周末在自己的数据泄露网站公布了马士基的名称， 并索要 500 万美元 （IT之家注：现汇率约合 3,342.9 万元人民币） 赎",
+     "source": "IT之家",
+     "zh": "航运巨头马士基遭数据泄露，勒索团伙索要 500 万美元赎金"
+    },
+    {
+     "title": "LG 预热 2027 款电视：T6 透明 OLED、W7 壁画 OLED 均获 CES 创新奖",
+     "link": "https://www.ithome.com/1/025/892.htm",
+     "pubDate": "Thu, 12 Nov 2026 02:19:36 GMT",
+     "summary": "IT之家 11 月 12 日消息，CES 消费电子展现已在其官网逐步公开 2027 年度创新奖获奖名单，各品牌也启动了自身获奖产品的宣传。 根据 LG 电子当地时间 10 月 10 日的新闻稿，该企业有两款 2027 年电视新品获得了这一荣誉，其中 LG SIGNATURE OLED T6 在艺术科技类别得到“最佳创新奖”，这是 其 OLED 电视产品连续五年获此殊荣 。 LG SIGNATURE OLED T6 采用一块 77\" 4K 透明 OLED 面板，支持 60GHz 毫米波 Zero Connect 数据传输系统。其支持 T-Shade、T-Objet、T-Entertainment",
+     "source": "IT之家",
+     "zh": "LG 预热 2027 款电视：T6 透明 OLED、W7 壁画 OLED 均获 CES 创新奖"
+    },
+    {
+     "title": "黄仁勋再曝婚外情，英伟达董事会拟启动罢免：谁能接班？",
+     "link": "https://www.huxiu.com/article/4904929.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 10:18:05 +0800",
+     "summary": "头图来自：AI生成 当地时间11月11日，英伟达股价盘后跌幅一度超过8%，逼近9%。这一次，市场担心的已经不只是黄仁勋的个人声誉，而是这位执掌英伟达33年的创始人，是否可能突然离开。 当天，《纽约时报》披露，黄仁勋除了此前承认的婚外情，还曾与英伟达医疗业务副总裁Kimberly Powell存在婚外关系。报道援引五名曾在英伟达工作的人士称，Powell直接向黄仁勋汇报。 消息曝光后，《华尔街日报》报道称，英伟达董事会正准备罢免黄仁勋，并计划最早于11月11日召开会议，讨论他的去留。Reuters随后援引知情人士称，董事会正在讨论是否解除黄仁勋的CEO职务。 对于一家市值约4万亿美元的公司来说，",
+     "source": "虎嗅",
+     "zh": "黄仁勋再曝婚外情，英伟达董事会拟启动罢免：谁能接班？"
+    },
+    {
+     "title": "印度年轻人为什么还是找不到好工作？",
+     "link": "https://www.tmtpost.com/8201711.html",
+     "pubDate": "Thu, 12 Nov 2026 10:16:57 +0800",
+     "summary": "IT外包恢复招聘，普通毕业生的门槛却更高了。",
+     "source": "钛媒体",
+     "zh": "印度年轻人为什么还是找不到好工作？"
+    },
+    {
+     "title": "做AI漫剧闷声赚钱，我在“大红果时代”拿下百万大结果",
+     "link": "https://www.tmtpost.com/8201631.html",
+     "pubDate": "Thu, 12 Nov 2026 10:16:52 +0800",
+     "summary": "影视创作的快消化。",
+     "source": "钛媒体",
+     "zh": "做AI漫剧闷声赚钱，我在“大红果时代”拿下百万大结果"
+    },
+    {
+     "title": "日本电视台，被老人救活了",
+     "link": "https://www.huxiu.com/article/4904930.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 10:16:24 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2025年，美国传统电视的核心广告收入预计下降7%，这是研究机构MoffettNathanson的估算，其中全国有线电视网下降10%。只看全国电视网，广告预测机构Madison and Wall估计的降幅达到11.4%。2024年美国有夏季奥运会，基数偏高，但下滑早已开始：2021至2024年，美国线性电视广告支出年均下降3.5%。 同一年，日本电视媒体广告费（含地上波和卫星电视）为1.7556万亿日元，只下降0.3%。 两个国家的年轻人都在离开电视。NHK今年6月公布的调查显示，工作日每天实时看电视至少15分钟的20多岁日本人，",
+     "source": "虎嗅",
+     "zh": "日本电视台，被老人救活了"
+    },
+    {
+     "title": "百度李彦宏：未来的岗位不会消失但会收敛，大致会分为两类",
+     "link": "https://www.ithome.com/1/025/891.htm",
+     "pubDate": "Thu, 12 Nov 2026 02:13:27 GMT",
+     "summary": "IT之家 11 月 12 日现场消息，在今日的百度世界大会 2026 活动中，百度创始人李彦宏发表演讲，预言未来的岗位不会消失但会收敛。 李彦宏认为， 未来，岗位不会消失但会收敛，大致会分为两类岗位 ： 一类是 Builder，负责创造新东西； 另一类是 Seller，负责人与人之间的沟通和连接，让对方对你产生情感、建立信任。 IT之家在大会现场获悉，李彦宏表示“组织智能是企业最深的护城河”，提到了新的组织进化三原则： 打破岗位边界，释放组织活力 沉淀隐性知识，构建组织智能 设计流程闭环，推动组织进化 李彦宏表示，去年百度世界大会上他提出“内化 AI 能力，打造原生 AI 组织”。一年来，百度",
+     "source": "IT之家",
+     "zh": "百度李彦宏：未来的岗位不会消失但会收敛，大致会分为两类"
+    },
+    {
+     "title": "平头哥分拆，难在阿里云",
+     "link": "https://www.tmtpost.com/8201753.html",
+     "pubDate": "Thu, 12 Nov 2026 10:09:05 +0800",
+     "summary": "离开阿里云，平头哥还是平头哥吗？",
+     "source": "钛媒体",
+     "zh": "平头哥分拆，难在阿里云"
+    },
+    {
+     "title": "比亚迪要走向高端化，为什么没走大众和丰田的老路？",
+     "link": "https://www.tmtpost.com/8201756.html",
+     "pubDate": "Thu, 12 Nov 2026 10:08:59 +0800",
+     "summary": "比亚迪自己在修梯子。",
+     "source": "钛媒体",
+     "zh": "比亚迪要走向高端化，为什么没走大众和丰田的老路？"
     },
     {
      "title": "双11数据不再惊艳，但这却是新的开始？",
@@ -1808,38 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "《持械入宋》的火爆出圈，预示着AI短剧正在从“电子榨菜”走向“新大众文艺”。但AI降本、降门槛不等于降标准、好赚钱，看似简单的表面，背后则是一种结构性的矛盾：商业幻觉以及内容治理层面的深层冲突。",
      "source": "钛媒体",
      "zh": "AI短剧的造富幻觉和内容重构"
-    },
-    {
-     "title": "流媒体平台 Roku 计划逐步退出智能家居硬件市场",
-     "link": "https://www.ithome.com/1/025/886.htm",
-     "pubDate": "Thu, 12 Nov 2026 02:03:43 GMT",
-     "summary": "IT之家 11 月 12 日消息，根据外媒 Lowpass 从 Roku 处得到的通知， 这家电视流媒体平台在正式被福克斯收购后将更加专注于其核心业务 ，计划逐步停止智能家居硬件的销售。Roku 仍将为现有产品提供支持和服务。 IT之家注意到，Roku 在官网列出了电视、流媒体播放器、智能家居、音频设备等产品。其中， 该企业的智能家居硬件阵容涵盖摄像头、可视化门铃、智能照明、智能插座和家庭监控解决方案 ，但多数产品已处于售罄状态。",
-     "source": "IT之家",
-     "zh": "流媒体平台 Roku 计划逐步退出智能家居硬件市场"
-    },
-    {
-     "title": "最贵双十一，疲软的手机PC还在为AI买单",
-     "link": "https://www.tmtpost.com/8201800.html",
-     "pubDate": "Thu, 12 Nov 2026 10:01:19 +0800",
-     "summary": "在这场没有赢家的博弈里，不当\"冤大头\"成了双11期间，供需两端共同的心理底色。",
-     "source": "钛媒体",
-     "zh": "最贵双十一，疲软的手机PC还在为AI买单"
-    },
-    {
-     "title": "摩尔线程 MUSA 开发者大会 · 2026 定档 12 月 29 日，全新重磅产品将发布",
-     "link": "https://www.ithome.com/1/025/884.htm",
-     "pubDate": "Thu, 12 Nov 2026 02:00:11 GMT",
-     "summary": "IT之家 11 月 12 日消息，摩尔线程最近在官网宣布，MUSA 开发者大会 · 2026（MDC 2026）将于 12 月 29 日至 12 月 30 日，在北京中关村国际创新中心举办。 据官方介绍 ，本次大会将带来摩尔线程 MUSA 平台的最新进展 。从下一代 GPU 架构的深入解析，到全新升级的软件开发工具与库，帮助开发者充分释放硬件性能，创造出卓越的 AI 智能应用。 同时，本次大会的主题演讲定在 12 月 29 日上午， 官方将在此带来全新重磅产品 、 技术及解决方案 ，并呈现摩尔线程全功能 GPU 与 MUSA 架构的最新发展成果。 此外，本次大会的双日通票价格为 188 元，单",
-     "source": "IT之家",
-     "zh": "摩尔线程 MUSA 开发者大会 · 2026 定档 12 月 29 日，全新重磅产品将发布"
-    },
-    {
-     "title": "黄仁勋遭美国议员要求辞职，英伟达面临国会问询压力",
-     "link": "https://www.ithome.com/1/025/883.htm",
-     "pubDate": "Thu, 12 Nov 2026 01:57:44 GMT",
-     "summary": "IT之家 11 月 12 日消息，CNBC 昨日（11 月 11 日）发布博文， 报道称美国多名两党国会议员要求英伟达首席执行官黄仁勋辞职 ，部分众议院委员会负责人表示， 已考虑在必要时动用传票，要求其就婚外情等出席闭门说明会。 众议院中国问题特别委员会主席约翰 · 穆勒纳尔当天表示，黄仁勋须在当日结束前回应此前的出席要求。如果他既不同意参加，也不提出其他日期，议员很可能发出传票。众议院外交委员会主席布赖恩 · 马斯特也表示，委员会正准备传票，如黄仁勋不回应，将采取行动。 参议员凯文 · 克莱默（Kevin Cramer）以可能遭受勒索、涉及国家安全风险为由，要求其离职；民主党众议员苏哈斯 ·",
-     "source": "IT之家",
-     "zh": "黄仁勋遭美国议员要求辞职，英伟达面临国会问询压力"
     },
     {
      "title": "当你有点儿钱，钱又不够，还想做点儿事情",
@@ -1874,30 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Megaspeed founder Alice Huang has returned to her home country and is currently living in Beijing with the knowledge of security officials (Bloomberg)"
     },
     {
-     "title": "Personal AI 开战，它是如何引爆全球的",
-     "link": "https://www.tmtpost.com/8200985.html",
-     "pubDate": "Thu, 12 Nov 2026 09:42:00 +0800",
-     "summary": "AI第一次，开始替你过日子。",
-     "source": "钛媒体",
-     "zh": "Personal AI 开战，它是如何引爆全球的"
-    },
-    {
-     "title": "二手车市场重新算账，奔驰宝马的品牌溢价正在缩水",
-     "link": "https://www.tmtpost.com/8201840.html",
-     "pubDate": "Thu, 12 Nov 2026 09:34:57 +0800",
-     "summary": "国产高端SUV保值率超越传统豪华品牌，二手车市场正重新衡量品牌溢价。",
-     "source": "钛媒体",
-     "zh": "二手车市场重新算账，奔驰宝马的品牌溢价正在缩水"
-    },
-    {
-     "title": "临一云川完成天使轮系列融资，累计数亿资本入场加速高空风能商业化",
-     "link": "https://www.tmtpost.com/8201710.html",
-     "pubDate": "Thu, 12 Nov 2026 09:23:27 +0800",
-     "summary": "高空蕴藏的风能超过人类社会当前能源总需求的一百多倍",
-     "source": "钛媒体",
-     "zh": "临一云川完成天使轮系列融资，累计数亿资本入场加速高空风能商业化"
-    },
-    {
      "title": "深度｜全球供应链“安全优先”的账单，最后寄给了谁？",
      "link": "https://www.huxiu.com/article/4904910.html?f=rss",
      "pubDate": "Thu, 12 Nov 2026 09:22:43 +0800",
@@ -1912,22 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 资本不熬夜 ，作者：不熬夜研究院 每天更新的社交账号突然静默一个月，面对外界的风言风语，一向以“大嘴”著称的余承东也罕见没有解释，自然引发业界揣测。 2026年11月1日，华为鸿蒙智行公布10月交付数据后，华为汽车担当余承东的个人微博却毫无动静，这本该是他“战报”式的时刻，往年他都会转发销量公告并加以点评。 直到11月7日他才突然在微博为享界V8试驾开幕配文“发布会临近，敬请期待”。媒体随即把这看作辟谣信号，而11月11日华为官方宣布将于11月20日举办享界V8新车发布会，也未提组织调整。 这一个月的传闻不仅关乎“余承东是否退居二线”，而是过去三年华为汽车业务运作方式的深",
      "source": "虎嗅",
      "zh": "余承东一个人的微博，与一套制度的三年"
-    },
-    {
-     "title": "年轻人的拼团游，已经卷到北极了",
-     "link": "https://www.huxiu.com/article/4904901.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 09:06:21 +0800",
-     "summary": "本文来自微信公众号： ELLEMEN睿士 ，作者：明亮，编辑：Sebastian，题图来自：视觉中国 2026年6月6日至17日，团子和三个朋友用12天11晚，完成了一次北极&ldquo;穷游&rdquo;。 半年前，她们曾经咨询过极地邮轮，近10万元一个人的报价，让四个人重新考虑了旅行方式。她们决定不通过旅行社，自己把所有行程拼起来。这趟旅行，团子一行人均最终仅花费33730元。 过去几年，中国游客前往南北极的兴趣正在增加。2025年3月，界面新闻曾报道，社交平台上与南极旅游相关的帖子超过8万篇，北极旅游笔记超过35万篇。旅行社推出的极地邮轮产品也受到关注，部分南极航线提前数月售罄。 这并不",
-     "source": "虎嗅",
-     "zh": "年轻人的拼团游，已经卷到北极了"
-    },
-    {
-     "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
-     "link": "https://www.huxiu.com/article/4904905.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 08:45:47 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的 上一次科技公司的创始人兼CEO遭遇如此级别的逼宫事件，还是在1985年的苹果。 当时年仅30岁的乔布斯在库比提诺，和自己亲自从百事公司挖来的约翰·斯考利正面对决。董事会最终站在了职业经理人那一边，将创始人赶出了自己亲手创办的公司。 40年后，黄仁勋发现处在风口浪尖的自己已经越来越难站稳。 更棘手的是，黄仁勋的婚外情传闻如今又牵扯出敏感商业往来，甚至所谓的情报活动，事态正朝着他最难控制的方向发展。 但煎熬与审判远未结束。11月11～12日，几条新闻先后传出，再次向黄仁勋使出了更多杀手锏： 首先，《纽约时报》记者Ryan Mac等人报道称，黄仁",
-     "source": "虎嗅",
-     "zh": "我们正目睹乔布斯后科技史上最严重的逼宫"
     },
     {
      "title": "Roku says it will wind down sales of smart home hardware to focus on streaming, days after Fox closed its acquisition; it will keep supporting existing devices (Janko Roettgers/Lowpass)",
@@ -1970,6 +1970,14 @@ window.INDUSTRY_DATA = {
      "zh": "CEO Jensen Huang's job is suddenly on the line at Nvidia"
     },
     {
+     "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+     "link": "https://github.com/tylertms/Stela",
+     "pubDate": "Wed, 11 Nov 2026 23:02:38 +0000",
+     "summary": "Article URL: https://github.com/tylertms/Stela Comments URL: https://news.ycombinator.com/item?id=50460154 Points: 54 # Comments: 17",
+     "source": "Hacker News",
+     "zh": "A general purpose Apple Silicon layer for x86-64 PCs"
+    },
+    {
      "title": "Sources: Scott Bessent confronted Howard Lutnick last week over the Commerce Dept. not adding Megaspeed to the Entity List; Commerce denies the confrontation (Axios)",
      "link": "https://www.techmeme.com/261111/p45#a261111p45",
      "pubDate": "Wed, 11 Nov 2026 17:45:00 -0500",
@@ -1978,36 +1986,28 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Scott Bessent confronted Howard Lutnick last week over the Commerce Dept. not adding Megaspeed to the Entity List; Commerce denies the confrontation (Axios)"
     },
     {
-     "title": "Pete Hegseth Is About to Get His Ass Kicked",
-     "link": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
-     "pubDate": "Wed, 11 Nov 2026 22:00:00 +0000",
-     "summary": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.",
-     "source": "WIRED",
-     "zh": "Pete Hegseth Is About to Get His Ass Kicked"
+     "title": "93% of paint splatters are valid Perl programs (2019)",
+     "link": "https://www.mcmillen.dev/sigbovik/",
+     "pubDate": "Wed, 11 Nov 2026 22:34:23 +0000",
+     "summary": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 168 # Comments: 26",
+     "source": "Hacker News",
+     "zh": "93% of paint splatters are valid Perl programs (2019)"
     },
     {
-     "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
-     "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
-     "pubDate": "Wed, 11 Nov 2026 20:32:21 +0000",
-     "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
-     "source": "Ars Technica",
-     "zh": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says"
+     "title": "Nvidia is preparing to oust Jensen Huang",
+     "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+     "pubDate": "Wed, 11 Nov 2026 22:31:06 +0000",
+     "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 544 # Comments: 796",
+     "source": "Hacker News",
+     "zh": "Nvidia is preparing to oust Jensen Huang"
     },
     {
-     "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
-     "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
-     "pubDate": "Wed, 11 Nov 2026 20:22:03 +0000",
-     "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
-     "source": "Ars Technica",
-     "zh": "Anduril says its first satellite can see adversaries maneuver in orbital night"
-    },
-    {
-     "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-     "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-     "pubDate": "Wed, 11 Nov 2026 20:04:28 +0000",
-     "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-     "source": "TechCrunch",
-     "zh": "Olaf Sakkers is betting he can beat the emerging-manager squeeze"
+     "title": "Lock Your GitHub Actions",
+     "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+     "pubDate": "Wed, 11 Nov 2026 22:16:41 +0000",
+     "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 139 # Comments: 22",
+     "source": "Hacker News",
+     "zh": "Lock Your GitHub Actions"
     }
    ]
   },
@@ -2266,6 +2266,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "“英伟达亲儿子”能否成为AI交易的“救世主”？",
+     "link": "http://www.eeo.com.cn/2026/1112/1090619.shtml",
+     "pubDate": "Thu, 12 Nov 2026 10:11:25 +0800",
+     "summary": "算力需求是否放缓，出租算力的公司往往会最先察觉。",
+     "source": "经济观察网",
+     "zh": "“英伟达亲儿子”能否成为AI交易的“救世主”？"
+    },
+    {
+     "title": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒指、恒科指齐跌超1%",
+     "link": "https://wallstreetcn.com/articles/3785781",
+     "pubDate": "Thu, 12 Nov 2026 10:09:53 +0800",
+     "summary": "隔夜，CoreWeave业绩超预期、Anthropic IPO超额认购、OpenAI季度营收首破百亿美元，三重催化剂重振AI交易热情，推动美股科技板块大幅反弹，A股算力硬件再度拉升，推动科创50大涨超3%。 11月12日，A股早盘高开，三大股指盘初集体上涨，科创综指、科创50大涨超2%，半导体板块爆发，半导体设备、GPU、存储芯片、光模块等概念股延续反弹势头，寒武纪涨超9%。贵金属、物理AI、人形机器人等陷入调整。 港股低开低走，恒指、恒科指早盘双双跌超1%，权重科网股继续下跌，京东、快手、哔哩哔哩等跌幅居前。光模块、芯片等算力硬件股拉升，剑桥科技涨超8%。AI大模型股调整，智谱、MINIMA",
+     "source": "华尔街见闻",
+     "zh": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒指、恒科指齐跌超1%"
+    },
+    {
      "title": "当黄土遇见彩：仰韶文明的彩陶传奇",
      "link": "http://www.eeo.com.cn/2026/1112/1090616.shtml",
      "pubDate": "Thu, 12 Nov 2026 10:02:17 +0800",
@@ -2354,6 +2370,14 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang"
     },
     {
+     "title": "11月12日集合竞价：亚玛顿、锋龙股份4连板",
+     "link": "http://stock.eastmoney.com/news/11752,202611123929278713.html",
+     "pubDate": "Thu, 12 Nov 2026 09:26:06 +0800",
+     "summary": "11月12日，三大指数集体低开，上证指数低开0.21%，深证成指低开0.25%，创业板指低开0.5%。板块方面， 卫浴电器 领涨， 日出东方 涨5.26%， 长材 、 诊断服务 等开盘涨幅居前。 个股方面，11股竞价涨停，其中 亚玛顿 4连板、 锋龙股份 4连板、 达意隆 3连板、 凯撒文化 3连板、 北纬科技 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏",
+     "source": "东方财富资讯",
+     "zh": "11月12日集合竞价：亚玛顿、锋龙股份4连板"
+    },
+    {
      "title": "Cramer&apos;s stance on Nvidia&apos;s stock amid reports that CEO Jensen Huang may be ousted",
      "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
      "pubDate": "Thu, 12 Nov 2026 01:14:21 GMT",
@@ -2394,12 +2418,36 @@ window.INDUSTRY_DATA = {
      "zh": "万斯考虑与伊朗强硬派“直接谈”，伊朗议长：美国必须满足伊方提出的七项条件"
     },
     {
+     "title": "万斯拟与伊朗强硬派面对面谈判？据悉特朗普持开放态度并已授权",
+     "link": "http://finance.eastmoney.com/news/1344,202611123929100925.html",
+     "pubDate": "Thu, 12 Nov 2026 08:54:01 +0800",
+     "summary": "据不具名美国及中东官员透露，美国副总统JD万斯正考虑与伊朗最高国家安全委员会高级官员举行直接会谈，美国副总统万斯对此持开放态度。 万斯现已成为美国对伊谈判的首席代表，美方希望尽快借此结束这场被视作拖累共和党的战争。 万斯或重启美伊谈判？ 据美国和中东地区官员称，近几日，特朗普总统已向高级幕僚以及相关方面表态，他对万斯重启美伊谈判持开放态度，并授权万斯开展谈判工作。 但美国官员强调，有关派遣万斯直接会见伊朗官员的相关磋商仍处在初步阶段。 据中国新闻网报道，当天早些时候，伊朗最高国家安全委员会秘书雷扎伊否认了有关其计划与美国副总统万斯会面的传言，称相关说法“完全不实、毫无根据”。 万斯已主导对伊外",
+     "source": "东方财富资讯",
+     "zh": "万斯拟与伊朗强硬派面对面谈判？据悉特朗普持开放态度并已授权"
+    },
+    {
+     "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成 但中国模型不想只卖API了",
+     "link": "http://finance.eastmoney.com/news/1344,202611123929078085.html",
+     "pubDate": "Thu, 12 Nov 2026 08:49:03 +0800",
+     "summary": "美国企业开源模型支出中，近九成资金流向中国模型产品。 硅谷风投机构Menlo Ventures最新发布的《2026年企业AI发展现状》报告显示，2026年全球企业AI支出预计达到1768亿美元。其中， 美国企业的开源模型支出里，89%流向中国模型 ：月之暗面旗下Kimi占比61%，DeepSeek占比15%， 智谱 GLM占比11%。 不过，《科创板日报》记者注意到，报告另一组对照数据同样值得关注： 开源模型在企业Token消耗中的占比已从11%升至19%，但对应支出占比从6%降至4% ，模型用量与营收的剪刀差仍在持续扩大。 当前，中国模型已深度融入全球企业工作流程， 行业下一阶段核心问题，是",
+     "source": "东方财富资讯",
+     "zh": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成 但中国模型不想只卖API了"
+    },
+    {
      "title": "CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了",
      "link": "https://wallstreetcn.com/articles/3785774",
      "pubDate": "Thu, 12 Nov 2026 08:43:39 +0800",
      "summary": "CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。 在CoreWeave股价单日大涨约25%的带动下，新云（NeoCloud）板块盘中涨幅一度超过12%，纳指也收复了中期选举后的失地。 市场的乐观情绪还受到两则消息强化：Anthropic据报正讨论高达1.5万亿美元以上的IPO估值，打消了此前公司估值将大幅下调的担忧；此外，OpenAI单季营收强劲、首次达到100亿美元。 而对于即将在下周登陆资本市场的Anthropic而言，这份财报来得恰逢其时—— CoreWeave是Anth",
      "source": "华尔街见闻",
      "zh": "CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了"
+    },
+    {
+     "title": "全球市场新风暴眼？加息预期全面引爆：美元攀上19个月高位！",
+     "link": "http://futures.eastmoney.com/news/1514,202611123929075045.html",
+     "pubDate": "Thu, 12 Nov 2026 08:40:45 +0800",
+     "summary": "随着交易员为美联储下月恢复加息做准备，美元指数周三一路攀升至19个月来的高点，延续了过去两个月来的强劲涨势。 行情数据显示，衡量美元对一篮子货币汇率表现的ICE美元指数(DXY)周三最高触及102.96，创下自2025年4月以来的最高水平。 另一颇受业内关注的彭博美元指数则创下6月以来最大两日涨幅，盘中同样触及2025年5月以来最高水平，美元兑所有主要货币当天几乎均走高。 美元的涨势本周二受到了明显提振，当时多位美联储官员发表鹰派言论，同时数据显示美国10月消费者价格连续第三个月涨幅高于预期， 交易员开始消化美联储12月一口气加息50个基点的小概率可能性，推动短期美债收益率飙升。 利差变动显然",
+     "source": "东方财富资讯",
+     "zh": "全球市场新风暴眼？加息预期全面引爆：美元攀上19个月高位！"
     },
     {
      "title": "今日看点｜成品油价预计将迎年内第六降",
@@ -2410,12 +2458,28 @@ window.INDUSTRY_DATA = {
      "zh": "今日看点｜成品油价预计将迎年内第六降"
     },
     {
+     "title": "A股热点前瞻丨探源计划探路者卫星成功发射；腾讯入局AI游戏陪伴",
+     "link": "http://finance.eastmoney.com/news/11874,202611123929073193.html",
+     "pubDate": "Thu, 12 Nov 2026 08:32:40 +0800",
+     "summary": "①CoreWeave业绩亮眼、股价大涨，海外算力需求持续验证； ②腾讯AI游戏陪伴Agent开启内测， AI应用 落地再添新场景； ③探源计划 探路者 卫星成功发射，太空探源布局加速落地； ④ 剑桥科技 拟再扩产千万支高速光模块，算力硬件高景气获产业验证； ⑤北京具身智能 机器人 行动方案印发，人形 机器人 整机培育目标明确； ⑥存储厂商酝酿企业级颗粒涨价，供需紧张格局或将延续。 盘面回顾： 11月11日，A股三大指数集体收涨，沪指涨0.46%，创业板指涨3.11%，两市成交1.68万亿元、放量约1700亿元，全市场超3500股上涨。算力硬件全线爆发，CPO、 PCB 方向领涨， 机器人 、存",
+     "source": "东方财富资讯",
+     "zh": "A股热点前瞻丨探源计划探路者卫星成功发射；腾讯入局AI游戏陪伴"
+    },
+    {
      "title": "中选结束清算开始！民主党誓言揭露\"特朗普执政贪腐\"，白宫以调查反击",
      "link": "https://wallstreetcn.com/articles/3785775",
      "pubDate": "Thu, 12 Nov 2026 08:31:08 +0800",
      "summary": "美国中期选举落幕，两党对抗随即进入新阶段。民主党赢得国会控制权后，迅速将矛头指向特朗普政府，誓言展开大规模腐败调查；白宫则率先出手，警告民主党议员其调查行为\"可能涉嫌犯罪\"，华盛顿政治对决骤然升温。 据 新华社 报道，白宫法律顾问Will Scharf于11月9日致信众议院监督委员会主席、民主党人Robert Garcia，指责民主党人意图利用国会调查程序恐吓和骚扰政府官员，并警告称若相关调查旨在阻止行政官员履职或以滥权恐吓调查对象，可能构成\"犯罪\"。Garcia随即反击，称“看来特朗普有什么事情想要隐瞒”，并强调国会权力来自宪法，而非白宫的批准。 民主党在此次中期选举中取得重大胜利，计划在新",
      "source": "华尔街见闻",
      "zh": "中选结束清算开始！民主党誓言揭露\"特朗普执政贪腐\"，白宫以调查反击"
+    },
+    {
+     "title": "汇宇制药获得3亿元和解金 同源康核心产品“一女二嫁”案纷争了结",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929072829.html",
+     "pubDate": "Thu, 12 Nov 2026 08:26:34 +0800",
+     "summary": "昨日晚间，汇宇制药发布公告称，公司与浙江同源康医药（以下简称同源康）签署《和解协议书》，一揽子终局解决双方围绕肺癌靶向新药TY-9591（甲磺酸氘申艾替尼片，卡达沙）全国总代理协议产生的全部诉讼争议， 同源康向汇宇制药支付合计3亿元和解金。 这场持续数月，一度引发行业关注的 创新药 商业化代理权之争，就此落定。 按照和解协议约定，3亿元和解金分两期支付，协议生效后，双方共同向管辖法院申请中止案件审理。同源康完成首期和解金支付后的3个工作日内，汇宇制药向法院提交撤诉申请。待全部和解金足额兑付完成，双方就合作事项、案涉协议及涉案未决案件的所有争议彻底了结。 回溯事件脉络，纠纷核心围绕同源康核心管线",
+     "source": "东方财富资讯",
+     "zh": "汇宇制药获得3亿元和解金 同源康核心产品“一女二嫁”案纷争了结"
     },
     {
      "title": "Scott Colom wins historic Senate race in Mississippi",
@@ -2440,70 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "AEVEX shares jump as drone maker tops revenue estimates, raises outlook"
-    },
-    {
-     "title": "Can India clean up Delhi’s deadly smog?",
-     "link": "https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1",
-     "pubDate": "Thu, 12 Nov 2026 00:08:12 GMT",
-     "summary": "Residents ask why a country that can land a spacecraft on the Moon cannot prevent citizens in its capital choking on bad air",
-     "source": "Financial Times",
-     "zh": "Can India clean up Delhi’s deadly smog?"
-    },
-    {
-     "title": "今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO",
-     "link": "https://wallstreetcn.com/articles/3785773",
-     "pubDate": "Thu, 12 Nov 2026 07:59:17 +0800",
-     "summary": "英伟达正面临一场可能重塑这家全球最高市值人工智能芯片制造商领导架构的严峻危机。因首席执行官黄仁勋卷入多起婚外情丑闻，公司董事会目前正积极寻找潜在的继任者，以应对可能出现的权力真空。 据彭博和《华尔街日报》报道， 英伟达董事会于周三召开内部会议以决定黄仁勋的去留，并已与外部机构合作遴选新任CEO候选人，其中包括考虑任命一位过渡时期首席执行官。 此前，《纽约时报》最新披露了黄仁勋与一名直接下属存在不正当关系，这一消息进一步加剧了早前关于其与一名中国女性有染的严重指控。 （以上图片由AI生成） 继任不确定性迅速引发了金融市场的剧烈反应。在周三的盘后交易中，英伟达股价一度重挫9%，不仅单日抹去巨额市值",
-     "source": "华尔街见闻",
-     "zh": "今日开会决定“黄仁勋是否下台”！英伟达董事会已开始遴选新CEO，考虑任命过渡CEO"
-    },
-    {
-     "title": "Mosaic downgraded by Freedom Broker as sulfur costs squeeze profits",
-     "link": "https://seekingalpha.com/news/4671068-mosaic-downgraded-by-freedom-broker-as-sulfur-costs-squeeze-profits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 18:41:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mosaic downgraded by Freedom Broker as sulfur costs squeeze profits"
-    },
-    {
-     "title": "Hyliion forecasts $18M 2026 revenue while targeting 200-kilowatt output by year-end",
-     "link": "https://seekingalpha.com/news/4671070-hyliion-forecasts-18m-2026-revenue-while-targeting-200-kilowatt-output-by-year-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 18:40:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hyliion forecasts $18M 2026 revenue while targeting 200-kilowatt output by year-end"
-    },
-    {
-     "title": "Seastar Medical anticipates NEUTRALIZE-AKI enrollment completion by midyear 2027 while preparing modular PMA submissions",
-     "link": "https://seekingalpha.com/news/4671069-seastar-medical-anticipates-neutralize-aki-enrollment-completion-by-midyear-2027-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 18:40:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Seastar Medical anticipates NEUTRALIZE-AKI enrollment completion by midyear 2027 while preparing modular PMA submissions"
-    },
-    {
-     "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
-     "link": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
-     "pubDate": "Wed, 11 Nov 2026 23:31:37 GMT",
-     "summary": "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
-     "source": "CNBC",
-     "zh": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith"
-    },
-    {
-     "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-     "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-     "pubDate": "Wed, 11 Nov 2026 23:30:00 GMT",
-     "summary": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
-     "source": "MarketWatch",
-     "zh": "Your holiday credit-card bills are going up. What you can do to ease the pain."
-    },
-    {
-     "title": "Here are the major earnings before the open Thursday",
-     "link": "https://seekingalpha.com/news/4670591-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 18:00:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings before the open Thursday"
     }
    ]
   },

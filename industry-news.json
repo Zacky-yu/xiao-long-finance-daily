@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/12 20:00:48",
+ "generated_at": "2026/11/12 20:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,22 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+     "link": "https://www.qbitai.com/2026/11/509404.html",
+     "pubDate": "Thu, 12 Nov 2026 10:45:33 +0000",
+     "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
+     "source": "量子位",
+     "zh": "从通用大模型到学习过程智能，AI如何真正进入课堂？"
+    },
+    {
+     "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+     "link": "https://www.qbitai.com/2026/11/509381.html",
+     "pubDate": "Thu, 12 Nov 2026 10:11:29 +0000",
+     "summary": "全世界都在踩刹车，达里奥一个人踩油门",
+     "source": "量子位",
+     "zh": "Anthropic启动IPO路演，估值已缩水6000亿美元"
+    },
     {
      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
      "link": "https://www.qbitai.com/2026/11/509355.html",
@@ -73,14 +89,6 @@
      "zh": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条"
     },
     {
-     "title": "百曜科技入选全球 The Information 50！",
-     "link": "https://www.qbitai.com/2026/11/509285.html",
-     "pubDate": "Thu, 12 Nov 2026 06:13:22 +0000",
-     "summary": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
-     "source": "量子位",
-     "zh": "百曜科技入选全球 The Information 50！"
-    },
-    {
      "title": "百度孙天祥首秀！文心5.5做出百秒鹈鹕骑车短片，李彦宏对谈杨元庆",
      "link": "https://zhidx.com/p/609680.html",
      "pubDate": "Thu, 12 Nov 2026 13:46:28 +0800",
@@ -143,14 +151,6 @@
      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
      "source": "TechCrunch AI",
      "zh": "Who could replace Jensen Huang? A highly unscientific list of possible successors"
-    },
-    {
-     "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
-     "link": "https://www.qbitai.com/2026/11/509281.html",
-     "pubDate": "Thu, 12 Nov 2026 01:45:04 +0000",
-     "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
-     "source": "量子位",
-     "zh": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段"
     },
     {
      "title": "Supporting research on AI and children’s safety",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech",
+     "link": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
+     "pubDate": "Thu, 12 Nov 2026 11:59:58 +0000",
+     "summary": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises.",
+     "source": "Energy Storage News",
+     "zh": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech"
+    },
+    {
      "title": "Viessmann launches propane ground-source heat pump compatible with PVT systems",
      "link": "https://www.pv-magazine.com/2026/11/12/viessmann-launches-propane-ground-source-heat-pump-compatible-with-pvt-systems/",
      "pubDate": "Thu, 12 Nov 2026 11:57:17 +0000",
@@ -1079,14 +1087,6 @@
      "summary": "North America’s first small modular reactor project is running into two familiar challenges for the nuclear industry: timing and cost. Ontario Power Generation said in a Tuesday earnings release that the first BWRX-300 unit at its Darlington site will not come online by its October 2030 target and w",
      "source": "Canary Media",
      "zh": "Leading small modular nuclear reactor will be late and over budget"
-    },
-    {
-     "title": "Constellation pursues hybrid capacity contracts alongside nuclear uprates",
-     "link": "https://www.utilitydive.com/news/constellation-pursues-hybrid-nuclearcapacity-contracts-alongside-uprates/874408/",
-     "pubDate": "Wed, 11 Nov 2026 12:07:19 -0500",
-     "summary": "The offering gives Constellation &ldquo;a new way to pair the existing fleet with incremental capacity&rdquo; by adding batteries, generation and demand response, CEO Joe Dominguez said.",
-     "source": "Utility Dive",
-     "zh": "Constellation pursues hybrid capacity contracts alongside nuclear uprates"
     }
    ]
   },
@@ -1096,6 +1096,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "American Cancer Society revises guidelines, urges routine PSA screening for prostate cancer",
+     "link": "https://www.statnews.com/2026/11/12/prostate-cancer-screening-guidelines-updated-acs/?utm_campaign=rss",
+     "pubDate": "Thu, 12 Nov 2026 12:00:00 +0000",
+     "summary": "The American Cancer Society recommended routine PSA screening for prostate cancer, changing guidelines in place since 2010.",
+     "source": "STAT News",
+     "zh": "American Cancer Society revises guidelines, urges routine PSA screening for prostate cancer"
+    },
     {
      "title": "STAT+: Alnylam, once in the hunt to be a $100 billion biotech, needs to solve its heart drug problem",
      "link": "https://www.statnews.com/2026/11/12/alnylam-amvuttra-heart-drug-growth/?utm_campaign=rss",
@@ -1143,14 +1151,6 @@
      "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?",
      "source": "STAT News",
      "zh": "Newly elected doctors and scientists hope to restore trust in science. It won’t be easy"
-    },
-    {
-     "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
-     "link": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/?utm_campaign=rss",
-     "pubDate": "Wed, 11 Nov 2026 21:37:27 +0000",
-     "summary": "A study of nearly 100,000 diverse Americans identified thousands of new variants in genes that influence our responses to prescription drugs",
-     "source": "STAT News",
-     "zh": "All of Us study finds thousands of new genetic variants affecting drug responses"
     },
     {
      "title": "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets",
@@ -1761,6 +1761,70 @@
    "total": 18,
    "items": [
     {
+     "title": "Google launches Tabletop, an experimental AI platform to build customizable, collaborative personal planning and coordination hubs, in beta via a waitlist (Jess Weatherbed/The Verge)",
+     "link": "https://www.techmeme.com/261112/p21#a261112p21",
+     "pubDate": "Thu, 12 Nov 2026 07:05:00 -0500",
+     "summary": "Jess Weatherbed / The Verge : Google launches Tabletop, an experimental AI platform to build customizable, collaborative personal planning and coordination hubs, in beta via a waitlist &nbsp; &mdash;&nbsp; Tabletop provides customizable, collaborative spaces for all your personal planning needs.",
+     "source": "Techmeme",
+     "zh": "Google launches Tabletop, an experimental AI platform to build customizable, collaborative personal planning and coordination hubs, in beta via a waitlist (Jess Weatherbed/The Verge)"
+    },
+    {
+     "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
+     "link": "https://www.wired.com/story/best-open-earbuds/",
+     "pubDate": "Thu, 12 Nov 2026 12:02:00 +0000",
+     "summary": "I’ve tested dozens of open earbuds. My favorites let you hear the world and your tunes equally well.",
+     "source": "WIRED",
+     "zh": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More"
+    },
+    {
+     "title": "Sources: Nvidia employees, known for their fierce loyalty to Jensen Huang, have been left stunned and some are angry at the news of his extramarital affairs (Michael Acton/Financial Times)",
+     "link": "https://www.techmeme.com/261112/p20#a261112p20",
+     "pubDate": "Thu, 12 Nov 2026 07:00:50 -0500",
+     "summary": "Michael Acton / Financial Times : Sources: Nvidia employees, known for their fierce loyalty to Jensen Huang, have been left stunned and some are angry at the news of his extramarital affairs &nbsp; &mdash;&nbsp; Chip giant co-founder's future as chief executive is uncertain following report of a sec",
+     "source": "Techmeme",
+     "zh": "Sources: Nvidia employees, known for their fierce loyalty to Jensen Huang, have been left stunned and some are angry at the news of his extramarital affairs (Michael Acton/Financial Times)"
+    },
+    {
+     "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
+     "link": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
+     "pubDate": "Thu, 12 Nov 2026 12:00:37 +0000",
+     "summary": "Apple's M6 keeps the iMac current without shaking things up much.",
+     "source": "Ars Technica",
+     "zh": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk"
+    },
+    {
+     "title": "裁员风声一来，大厂女性们开始战略性怀孕",
+     "link": "https://www.huxiu.com/article/4903219.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 20:00:00 +0800",
+     "summary": "裁员风声一起，大厂女性们纷纷开启战略性怀孕，既是避险，也是职场自保。工作晋升与生育的机会成本让很多人迟迟不敢要孩子，如今风险加剧，干脆先生再说。大厂职场规则优胜劣汰，母职惩罚真实存在。",
+     "source": "虎嗅",
+     "zh": "裁员风声一来，大厂女性们开始战略性怀孕"
+    },
+    {
+     "title": "当“攻略”不再可信",
+     "link": "https://www.huxiu.com/article/4905102.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 19:56:16 +0800",
+     "summary": "本文来自微信公众号： 机核 ，作者：机核编辑部，编辑：柏亚舟 你是说攻略里出现了全新的人物？ 今年8月，一位正在游玩《Tears of Metal》的玩家，遇上了一件颇为离奇的事情。（注：Tears of Metal是一款中世纪风格的合作型roguelike游戏，玩家将与强大的苏格兰军团一起，穿越敌人的阵线，夺回自己的岛屿）。 按照他在网上找到的一份游戏Wiki，这款游戏除了已经开放的三名可操作角色之外，还存在一名叫作“Vanguard Tracker”的隐藏角色。攻略甚至把解锁条件写得十分详细：玩家需要在游戏第二幕的第12个事件中完成一项救援任务，才能将其收入麾下。 只是令人始料未及的事，这",
+     "source": "虎嗅",
+     "zh": "当“攻略”不再可信"
+    },
+    {
+     "title": "新加坡星展银行 PayLah! 电子钱包接入支付宝、微信，用户可双向扫码支付",
+     "link": "https://www.ithome.com/1/026/365.htm",
+     "pubDate": "Thu, 12 Nov 2026 11:53:51 GMT",
+     "summary": "IT之家 11 月 12 日消息，新加坡星展银行今天（12 日）宣布与蚂蚁国际及腾讯旗下跨境支付平台 TenPay Global 达成合作，超过 300 万名星展银行 PayLah! 电子钱包用户，现已可在中国境内超过 1 亿家支付宝与微信支付合作商户实现便捷消费。 IT之家从官方新闻稿获悉，PayLah! 用户在中国无需下载新应用， 只需打开电子钱包 ，即可扫描商户的支付宝或微信支付收款码， 或向商户出示自己的付款码 完成支付。 结合此前已打通的银联（UnionPay）二维码网络，星展银行现已成为 新加坡首家且唯一一家 全面支持中国三大主流二维码支付生态的银行。 此外，DBS PayLah!",
+     "source": "IT之家",
+     "zh": "新加坡星展银行 PayLah! 电子钱包接入支付宝、微信，用户可双向扫码支付"
+    },
+    {
+     "title": "消息称 2027 年安卓旗舰手机在重新评估双层 OLED 屏幕",
+     "link": "https://www.ithome.com/1/026/364.htm",
+     "pubDate": "Thu, 12 Nov 2026 11:51:43 GMT",
+     "summary": "IT之家 11 月 12 日消息，博主 @数码闲聊站 今日爆料， 2027 年安卓旗舰在重新评估双层 OLED 屏幕 。 有网友表示“目前只有京东方和维信诺能做吧”，博主在评论区进一步补充称“华星和天马也有了”。 IT之家注：荣耀 Magic6 RSR 保时捷设计是全球首款在手机端量产商用双层 OLED 的机型（此外还有荣耀 Magic6 至臻版），这块屏幕与京东方联合研发，命名为“叠光绿洲护眼屏”，HDR 峰值亮度可达 5000nits，屏幕寿命提升至 600%。 而到了下一代的荣耀 Magic7 RSR，荣耀取消了双层 OLED 方案，采用单层 绿洲护眼屏 。 此外，本月发布的 摩托罗拉 ",
+     "source": "IT之家",
+     "zh": "消息称 2027 年安卓旗舰手机在重新评估双层 OLED 屏幕"
+    },
+    {
      "title": "AI正在杀死廉价劳动力",
      "link": "https://www.huxiu.com/article/4905101.html?f=rss",
      "pubDate": "Thu, 12 Nov 2026 19:51:32 +0800",
@@ -1775,6 +1839,30 @@
      "summary": "Bloomberg : Beijing says &ldquo;the US should stop fabricating the so-called Chinese spy narrative as a pretext for imposing technology restrictions&rdquo;; Trump and Xi meet next week &nbsp; &mdash;&nbsp; The US should stop using allegations of Chinese spying on Nvidia Corp. Chief Executive Officer",
      "source": "Techmeme",
      "zh": "Beijing says \"the US should stop fabricating the so-called Chinese spy narrative as a pretext for imposing technology restrictions\"; Trump and Xi meet next week (Bloomberg)"
+    },
+    {
+     "title": "Epic CEO 斯威尼力挺黄仁勋：英伟达若罢免他，堪比当年苹果解雇乔布斯",
+     "link": "https://www.ithome.com/1/026/363.htm",
+     "pubDate": "Thu, 12 Nov 2026 11:48:31 GMT",
+     "summary": "IT之家 11 月 12 日消息，继不久前承认有过一段婚外情后，英伟达 CEO 黄仁勋又传出另一起婚外情的疑云，英伟达董事会因此考虑将他解职。 消息一出，科技界多位重量级人物在 X 上纷纷发声。这其中，Epic Games CEO 蒂姆 · 斯威尼的态度尤为鲜明。 斯威尼在推文中呼吁“救救黄仁勋”。“如果英伟达董事会真的这么做，那就跟当年 苹果解雇史蒂夫 · 乔布斯 一样愚蠢，还会严重损害美国的利益。从游戏 GPU 时代到 CUDA，再到 AI 超级计算机，老黄始终是一位 富有远见、引领科技未来发展 的人物。” 同一天，有 X 用户向埃隆 · 马斯克提议聘用黄仁勋。马斯克回应：“那将是我的荣幸",
+     "source": "IT之家",
+     "zh": "Epic CEO 斯威尼力挺黄仁勋：英伟达若罢免他，堪比当年苹果解雇乔布斯"
+    },
+    {
+     "title": "Anthropic IPO",
+     "link": "https://ipo.anthropic.com/us/",
+     "pubDate": "Thu, 12 Nov 2026 11:46:41 +0000",
+     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 14 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Anthropic IPO"
+    },
+    {
+     "title": "谷歌 14.9 亿欧元反垄断罚款案再起波澜：欧盟法院顾问认为撤销罚款的裁决有问题",
+     "link": "https://www.ithome.com/1/026/362.htm",
+     "pubDate": "Thu, 12 Nov 2026 11:46:17 GMT",
+     "summary": "IT之家 11 月 12 日消息，谷歌在欧盟面临的一起反垄断案件再起波澜。当地时间周四，欧盟最高法院的一名法律顾问对下级法院此前撤销谷歌 14.9 亿欧元 （IT之家注：现汇率约合 110.65 亿元人民币） 反垄断罚款的裁决提出质疑。这笔罚款最初由欧盟委员会于 7 年前开出，涉及谷歌在线广告业务中的反竞争行为。 2024 年，欧盟普通法院曾驳回欧盟委员会对谷歌作出的相关处罚决定。随后，欧盟委员会向位于卢森堡的欧盟法院（欧盟法院体系中的最高司法机构）提起上诉。 欧盟委员会是欧盟负责竞争事务监管的机构。2019 年，该机构认定，谷歌在与网站出版商签订的合同中使用了限制性条款，阻止竞争对手在这些网",
+     "source": "IT之家",
+     "zh": "谷歌 14.9 亿欧元反垄断罚款案再起波澜：欧盟法院顾问认为撤销罚款的裁决有问题"
     },
     {
      "title": "Alibaba’s Chip Unit Heads for Hong Kong With Cloud Still in the Way",
@@ -1793,6 +1881,14 @@
      "zh": "当饭圈女爱上电竞男"
     },
     {
+     "title": "2022 年 TGA 最佳独立游戏《迷失》实体版登陆任天堂 Switch 2，29.99 美元",
+     "link": "https://www.ithome.com/1/026/361.htm",
+     "pubDate": "Thu, 12 Nov 2026 11:42:40 GMT",
+     "summary": "IT之家 11 月 12 日消息，BlueTwelve Studio 工作室旗下赛博猫咪游戏《迷失（Stray）》实体版现已正式登陆任天堂 Switch 2 平台，定价为 29.99 美元 （IT之家注：现汇率约合 200.5 元人民币） 。游戏支持 4K 60 帧运行，同时适配了 Switch 2 Joy-Con 手柄的鼠标操作模式。 《迷失》是一款以猫为主角的第三人称冒险游戏，由 BlueTwelve Studio 开发、Annapurna Interactive 发行。值得一提的是，本作还获得了 2022 年 TGA 最佳独立游戏奖项。 故事发生在一座日渐衰败的赛博城市，这里有着刻画细致",
+     "source": "IT之家",
+     "zh": "2022 年 TGA 最佳独立游戏《迷失》实体版登陆任天堂 Switch 2，29.99 美元"
+    },
+    {
      "title": "中国餐饮正在进入“地方菜时代”",
      "link": "https://www.huxiu.com/article/4905098.html?f=rss",
      "pubDate": "Thu, 12 Nov 2026 19:41:38 +0800",
@@ -1809,10 +1905,18 @@
      "zh": "中国现在，非常缺猴，20万一只了"
     },
     {
+     "title": "法拉利 499P Modificata 首次公开拍卖：成交价近 6600 万元，不能上路也不能参赛",
+     "link": "https://www.ithome.com/1/026/360.htm",
+     "pubDate": "Thu, 12 Nov 2026 11:37:02 GMT",
+     "summary": "IT之家 11 月 12 日消息，一辆专为赛道驾驶打造的法拉利，近日在公开拍卖会上拍出了许多现代赛车都难以企及的高价。 当地时间 11 月 8 日，在瑞士日内瓦举行的拍卖会上，古丁 · 佳士得（Gooding Christie’s）以 821.75 万瑞士法郎（约合人民币 6587 万元，含买家佣金）的价格，拍出了一辆 2024 款法拉利 499P Modificata。这也是该车型首次出现在公开拍卖会上。 据IT之家了解，此次拍卖是古丁 · 佳士得首次在瑞士举办的专场拍卖会，整场拍卖共成交 2107.38 万瑞士法郎（约合人民币 1.7 亿元）。拍品以法拉利车型为主，整体表现相当亮眼。 49",
+     "source": "IT之家",
+     "zh": "法拉利 499P Modificata 首次公开拍卖：成交价近 6600 万元，不能上路也不能参赛"
+    },
+    {
      "title": "Russian pranksters tricked three OpenAI natsec and policy executives into a video meeting by posing as Ukrainian officials; OpenAI says it \"acted internally\" (Sam Biddle/The Intercept)",
      "link": "https://www.techmeme.com/261112/p18#a261112p18",
      "pubDate": "Thu, 12 Nov 2026 06:35:22 -0500",
-     "summary": "Sam Biddle / The Intercept : Russian pranksters tricked three OpenAI natsec and policy executives into a video meeting by posing as Ukrainian officials; OpenAI says it &ldquo;acted internally&rdquo; &nbsp; &mdash;&nbsp; &ldquo;We want to have as deep a relationship as we possibly can with Ukraine.&n",
+     "summary": "Sam Biddle / The Intercept : Russian pranksters tricked three OpenAI natsec and policy executives into a video meeting by posing as Ukrainian officials; OpenAI says it &ldquo;acted internally&rdquo; &nbsp; &mdash;&nbsp; A Russian internet comedy duo tricked three of OpenAI's highest ranking military",
      "source": "Techmeme",
      "zh": "Russian pranksters tricked three OpenAI natsec and policy executives into a video meeting by posing as Ukrainian officials; OpenAI says it \"acted internally\" (Sam Biddle/The Intercept)"
     },
@@ -1833,84 +1937,12 @@
      "zh": "A look at Russian ransomware-as-a-service group Qilin, which has become the world&apos;s most active gang, likely run by 36-year-old Aleksey Mikhailovich Yakovtsev (Brian Krebs/Krebs on Security)"
     },
     {
-     "title": "《艾尔登法环》战鬼 1/6 雕像开启预订：售价 469.99 美元，明年春季发售",
-     "link": "https://www.ithome.com/1/026/358.htm",
-     "pubDate": "Thu, 12 Nov 2026 11:23:35 GMT",
-     "summary": "IT之家 11 月 12 日消息，FromSoftware 旗下人气动作 RPG《艾尔登法环》（Elden Ring）将在 2027 年迎来一款新的重磅周边，为这款自 2022 年发售以来大获成功的游戏粉丝带来新的收藏选择。此周边是游戏中最具辨识度的经典装备之一 —— 战鬼铠甲（Raging Wolf Armor）。 《艾尔登法环》为玩家提供了丰富的角色自定义选项，冒险过程中可以收集和装备数十套不同的盔甲。不过，很少有装备能像战鬼铠甲一样令人印象深刻。这套盔甲曾多次出现在游戏最初的宣传材料中，其独特的头盔、磨损的金属护甲以及红色装饰，已经成为褪色者形象的重要标志。 如今，这套经典造型将以全新的",
-     "source": "IT之家",
-     "zh": "《艾尔登法环》战鬼 1/6 雕像开启预订：售价 469.99 美元，明年春季发售"
-    },
-    {
-     "title": "中科宇航：力擎系列发动机完成关键试车考核，取得圆满成功",
-     "link": "https://www.ithome.com/1/026/357.htm",
-     "pubDate": "Thu, 12 Nov 2026 11:22:35 GMT",
-     "summary": "IT之家 11 月 12 日消息，中科宇航今日宣布，近日，中科宇航自主研制的 力擎一号、力擎二号针栓式液氧煤油发动机陆续完成关键试车考核 ，试车取得圆满成功，进一步推进了两型发动机的性能验证与可靠性验证。 IT之家获悉， 30 吨级力擎一号发动机圆满完成多次起动及连续变工况试车考核 。此次试车先后完成 4 次起动点火，覆盖 100%~40% 推力范围内的连续变推工况， 发动机起动关机正常、工作平稳、性能稳定 ，累计试车时长 700 余秒，其中单次最长工作时间 300 秒。截至目前， 力擎一号发动机累计可靠性试车超 2000 秒 。 力擎一号发动机作为力鸿二号可重复使用运载器的主动力系统， 能够",
-     "source": "IT之家",
-     "zh": "中科宇航：力擎系列发动机完成关键试车考核，取得圆满成功"
-    },
-    {
-     "title": "从呼叫中心职员到慧与科技 CEO，安东尼奥 · 内里分享职场晋升心得",
-     "link": "https://www.ithome.com/1/026/356.htm",
-     "pubDate": "Thu, 12 Nov 2026 11:21:07 GMT",
-     "summary": "IT之家 11 月 12 日消息，慧与 CEO 安东尼奥 · 内里认为，想在职场上获得更多机会，首先要做到一件最基本的事：说到做到。 内里接受《商业内幕》采访时指出，职场发展的第一步，就是兑现自己的承诺。对于如何获得上司赏识、实现职业晋升，内里颇有心得。 20 世纪 90 年代中期，内里加入当时的惠普，从阿姆斯特丹一家呼叫中心的岗位做起，此后一路晋升，于 2018 年成为慧与 CEO 。 内里建议，员工除了做好本职工作，还应主动向上司 说明未来三到五年的职业规划 。“要督促上司履行职责，但更重要的是，也要对自己负责。职业发展需要双方共同努力。” 想要获得晋升，还应该主动争取能够锻炼自身能力的机",
-     "source": "IT之家",
-     "zh": "从呼叫中心职员到慧与科技 CEO，安东尼奥 · 内里分享职场晋升心得"
-    },
-    {
      "title": "A look at Nvidia&apos;s 10-person board, many of whom have known Jensen Huang for decades, including attorney Stephen Neal, VC Tench Coxe, and academic John Dabiri (Bloomberg)",
      "link": "https://www.techmeme.com/261112/p16#a261112p16",
      "pubDate": "Thu, 12 Nov 2026 06:20:01 -0500",
      "summary": "Bloomberg : A look at Nvidia's 10-person board, many of whom have known Jensen Huang for decades, including attorney Stephen Neal, VC Tench Coxe, and academic John Dabiri &nbsp; &mdash;&nbsp; Nvidia Corp.'s board of directors is meeting to discuss the fate of Chief Executive Officer Jensen Huang fol",
      "source": "Techmeme",
      "zh": "A look at Nvidia&apos;s 10-person board, many of whom have known Jensen Huang for decades, including attorney Stephen Neal, VC Tench Coxe, and academic John Dabiri (Bloomberg)"
-    },
-    {
-     "title": "90%会被赶走，黄仁勋2段婚外情，董事会为何要彻查？",
-     "link": "https://www.huxiu.com/article/4905093.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 19:13:19 +0800",
-     "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心，原文标题：《90%会被赶走！黄仁勋2段婚外情，董事会为何要彻查？》 摘要： 如果换成任何一个普通大厂高管，仅“直属汇报线存在桃色利益输送”这一条，当天就可能被法务和人事请出办公楼。这也是ESG公司治理的一条红线。 →这是《环球零碳》的第2203篇原创 2段婚外情曝光，让全球AI芯片巨头英伟达瞬间蒸发超5000亿美元。CEO的私生活，怎么就成了公司治理的雷点？ 11月8日，英伟达创始人兼CEO黄仁勋在致员工的信中承认婚外关系。据媒体报道，与黄仁勋有婚外情的Alice Huang，曾任职于英伟达客户Megaspeed，两者可能涉",
-     "source": "虎嗅",
-     "zh": "90%会被赶走，黄仁勋2段婚外情，董事会为何要彻查？"
-    },
-    {
-     "title": "成年人最缺的关系原来是它（不是恋爱）：",
-     "link": "https://www.huxiu.com/article/4905092.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 19:10:44 +0800",
-     "summary": "本文来自微信公众号： 简单心理 ，作者：简单心理 不久前，我在社交媒体上刷到一个帖子，里面写着：「我不想谈恋爱，不想要暧昧，也不想打游戏，我想要有人陪我玩。」发帖的人说，自己最大的痛苦，就是没有人陪她玩。 图源小红书@Aloha 小时候，和别人玩在一起好像容易得多。 问一句「要不要一起玩」，就能成为玩伴。我们在院子里撒欢、跳皮筋，或者挤在沙发上看电视，常常玩到天黑，才依依不舍地分开。 那时，我们不必先介绍自己，也不用想这段关系会走向哪里。只要一起玩得开心，就足够了。 长大以后，认识一个人似乎多了不少步骤： 要先找到合适的场合，再想好怎么开口、聊些什么。话题也很容易进入deep talk，一不小",
-     "source": "虎嗅",
-     "zh": "成年人最缺的关系原来是它（不是恋爱）："
-    },
-    {
-     "title": "Sources: Alice Huang&apos;s business partner and husband Kang Wei spoke openly of her Jensen Huang relationship; Wei, who knew Jensen for a decade, introduced them (Lingling Wei/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261112/p15#a261112p15",
-     "pubDate": "Thu, 12 Nov 2026 06:10:14 -0500",
-     "summary": "Lingling Wei / Wall Street Journal : Sources: Alice Huang's business partner and husband Kang Wei spoke openly of her Jensen Huang relationship; Wei, who knew Jensen for a decade, introduced them &nbsp; &mdash;&nbsp; Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationshi",
-     "source": "Techmeme",
-     "zh": "Sources: Alice Huang&apos;s business partner and husband Kang Wei spoke openly of her Jensen Huang relationship; Wei, who knew Jensen for a decade, introduced them (Lingling Wei/Wall Street Journal)"
-    },
-    {
-     "title": "OpenAI CEO 奥尔特曼现身超跑聚会，身旁停着数百万美元柯尼塞格",
-     "link": "https://www.ithome.com/1/026/355.htm",
-     "pubDate": "Thu, 12 Nov 2026 11:08:23 GMT",
-     "summary": "IT之家 11 月 12 日消息，萨姆 · 奥尔特曼（Sam Altman）不仅是硅谷科技圈的风云人物，也是一位不折不扣的汽车发烧友。 上周日，一名 TikTok 用户发布了一段视频，展示了一场颇为壮观的跑车聚会。视频中，大量跑车和豪华超跑停在一条蜿蜒的公路旁，车型从福特 Mustang、讴歌 NSX，到帕加尼 Utopia 和柯尼塞格 Regera。 而就在一辆银色雷克萨斯 LFA 旁边，站着一位意想不到的人物：OpenAI CEO 萨姆 · 奥尔特曼。 据视频发布者米格尔 · 戈迪内斯（Miguel Godinez）向 Business Insider 透露，这场聚会完全是偶然发生的。 当",
-     "source": "IT之家",
-     "zh": "OpenAI CEO 奥尔特曼现身超跑聚会，身旁停着数百万美元柯尼塞格"
-    },
-    {
-     "title": "月之暗面徐天天：AI 迭代速度将继续加快",
-     "link": "https://www.ithome.com/1/026/353.htm",
-     "pubDate": "Thu, 12 Nov 2026 11:07:44 GMT",
-     "summary": "IT之家 11 月 12 日消息，据新浪财经报道，在今日“以发展应变局”为主题的第十七届财新峰会上，月之暗面金融行业与生态负责人徐天天发表讲话。 针对“AI 迭代速度是否还会加快”问题，徐天天表示， 当前整个 AI 智能远远未达到上限 。 她指出，这背后有三条增长曲线：其一，预训练算力曲线；其二，后训练与推理端曲线，AI 已从快思考转变为慢思考，展现思考链路；其三，智能体设计曲线，智能体设计越来越复杂，将导致智能上限提高。这三条曲线都在增长，三者叠加， 导致 AI 迭代速度加快 。 IT之家注意到，徐天天指出，AI 智能体独自能完成的任务时长还在增长，也正在加速。这意味着， AI 从最初的“打",
-     "source": "IT之家",
-     "zh": "月之暗面徐天天：AI 迭代速度将继续加快"
-    },
-    {
-     "title": "A look at potential Nvidia CEO candidates, including CFO Colette Kress, CUDA inventor Ian Buck, Arm CEO Rene Haas, and Apple Chief Hardware Officer Johny Srouji (Bloomberg)",
-     "link": "https://www.techmeme.com/261112/p14#a261112p14",
-     "pubDate": "Thu, 12 Nov 2026 06:00:31 -0500",
-     "summary": "Bloomberg : A look at potential Nvidia CEO candidates, including CFO Colette Kress, CUDA inventor Ian Buck, Arm CEO Rene Haas, and Apple Chief Hardware Officer Johny Srouji &nbsp; &mdash;&nbsp; Nvidia Corp. is searching for a replacement for larger-than-life Chief Executive Officer Jensen Huang, a d",
-     "source": "Techmeme",
-     "zh": "A look at potential Nvidia CEO candidates, including CFO Colette Kress, CUDA inventor Ian Buck, Arm CEO Rene Haas, and Apple Chief Hardware Officer Johny Srouji (Bloomberg)"
     },
     {
      "title": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
@@ -1961,44 +1993,12 @@
      "zh": "一把厨刀引发的风波，和一家太空站里的黑心小店：《深空当铺》到底卖的是什么?"
     },
     {
-     "title": "华硕 2026 财年前三季度归母净利润 504.76 亿新台币，同比增长 52.25%",
-     "link": "https://www.ithome.com/1/026/346.htm",
-     "pubDate": "Thu, 12 Nov 2026 10:35:47 GMT",
-     "summary": "IT之家 11 月 12 日消息，华硕今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）报告： 2026 年前三季度 营业总收入 ：7,424.31 亿新台币 （IT之家注：现汇率约合 1,505.65 亿元人民币） ，同比增长 38.52% 毛利润 ：1,206.93 亿新台币 （现汇率约合 244.77 亿元人民币） ，同比增长约 52.26% 毛利率 ：16.26%，同比提高约 1.47 个百分点 归母净利润 ：504.76 亿新台币 （现汇率约合 102.37 亿元人民币） ，同比增长约 52.25% 基本每股",
-     "source": "IT之家",
-     "zh": "华硕 2026 财年前三季度归母净利润 504.76 亿新台币，同比增长 52.25%"
-    },
-    {
      "title": "车企自研芯片开始外供，能否打开新市场？",
      "link": "https://www.tmtpost.com/8203138.html",
      "pubDate": "Thu, 12 Nov 2026 18:35:13 +0800",
      "summary": "从自家车型走向外部客户，车企造芯的下一场较量，已经从技术研发延伸到市场争夺。",
      "source": "钛媒体",
      "zh": "车企自研芯片开始外供，能否打开新市场？"
-    },
-    {
-     "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-     "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-     "pubDate": "Thu, 12 Nov 2026 10:30:00 +0000",
-     "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
-     "source": "WIRED",
-     "zh": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently"
-    },
-    {
-     "title": "Why Writing Correct Software Is Hard",
-     "link": "https://pron.github.io/posts/correctness-and-complexity",
-     "pubDate": "Thu, 12 Nov 2026 10:28:26 +0000",
-     "summary": "Article URL: https://pron.github.io/posts/correctness-and-complexity Comments URL: https://news.ycombinator.com/item?id=50465352 Points: 35 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Why Writing Correct Software Is Hard"
-    },
-    {
-     "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
-     "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
-     "pubDate": "Thu, 12 Nov 2026 10:15:00 +0000",
-     "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
-     "source": "WIRED",
-     "zh": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "You can get the REDMAGIC 12 Pro a day early, here is how",
+     "link": "https://www.gsmarena.com/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244.php",
+     "pubDate": "Thu, 12 Nov 2026 13:00:02 +0100",
+     "summary": "Per tradition, REDMAGIC is allowing its biggest fans to get its latest gaming flagship a day early – here is how to get into the REDMAGIC 12 Pro early access program and earn some perks too. Early Bird Vouchers will be available on November 12. One costs $1 / €1 / £1 and is your ticket to buying the",
+     "source": "GSMArena",
+     "zh": "You can get the REDMAGIC 12 Pro a day early, here is how"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang set to be fired, with Johny Srouji listed among possible replacements",
+     "link": "https://9to5mac.com/2026/11/12/nvidia-ceo-jensen-huang-set-to-be-fired-with-johny-srouji-listed-among-possible-replacements/",
+     "pubDate": "Thu, 12 Nov 2026 11:59:29 +0000",
+     "summary": "Following reports of a potential second affair – this time with a subordinate – Nvidia CEO Jensen Huang looks certain to be fired by the company’s board, probably later today (though he may be allowed to ‘resign’). Apple’s chief hardware officer Johny Srouji has been listed among the potential repla",
+     "source": "9to5Mac",
+     "zh": "Nvidia CEO Jensen Huang set to be fired, with Johny Srouji listed among possible replacements"
+    },
     {
      "title": "Here’s Apple’s new ad for the holiday season, featuring MacBook Neo",
      "link": "https://9to5mac.com/2026/11/12/heres-apples-new-ad-for-the-holiday-season-featuring-macbook-neo/",
@@ -2153,14 +2169,6 @@
      "zh": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验"
     },
     {
-     "title": "The iQOO 16R (or 16s) is headed to India",
-     "link": "https://www.gsmarena.com/the_iqoo_16r_or_16s_is_headed_to_india-news-75443.php",
-     "pubDate": "Thu, 12 Nov 2026 02:02:02 +0100",
-     "summary": "The iQOO 16 is rumored to be headed to India, although it may come at a very high price. Now it seems like the iQOO 16R or 16s is also going to be launched in the country, since it was just certified for sale by the Bureau of Indian Standards (BIS) with the model number I2606. This model number was ",
-     "source": "GSMArena",
-     "zh": "The iQOO 16R (or 16s) is headed to India"
-    },
-    {
      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
      "link": "https://sspai.com/post/118935",
      "pubDate": "Thu, 12 Nov 2026 08:22:09 +0800",
@@ -2209,14 +2217,6 @@
      "zh": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched"
     },
     {
-     "title": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
-     "link": "https://9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added/",
-     "pubDate": "Wed, 11 Nov 2026 21:08:46 +0000",
-     "summary": "Apple Invites, an iCloud+ feature, just added two new features in this month’s update. more…",
-     "source": "9to5Mac",
-     "zh": "Apple Invites app now lets hosts poll guests, plus new emoji effect added"
-    },
-    {
      "title": "The Lenovo Legion Tab Gen 5 would be my perfect Steam tablet if it didn’t cost $900",
      "link": "https://9to5google.com/2026/11/11/lenovo-legion-tab-gen-5-review/",
      "pubDate": "Wed, 11 Nov 2026 20:30:00 +0000",
@@ -2257,52 +2257,76 @@
    "total": 13,
    "items": [
     {
-     "title": "York Space Systems plans acquisition of Outlook Industries to expand into unmanned systems",
-     "link": "https://seekingalpha.com/news/4671293-york-space-systems-plans-acquisition-of-outlook-industries-to-expand-into-unmanned-systems?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 06:53:48 -0500",
+     "title": "Hyperion DeFi reports mixed Q3 results; reaffirms FY26 outlook",
+     "link": "https://seekingalpha.com/news/4671310-hyperion-defi-reports-mixed-q3-results-reaffirms-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 07:08:32 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "York Space Systems plans acquisition of Outlook Industries to expand into unmanned systems"
+     "zh": "Hyperion DeFi reports mixed Q3 results; reaffirms FY26 outlook"
     },
     {
-     "title": "Pharvaris reports Q3 results",
-     "link": "https://seekingalpha.com/news/4671296-pharvaris-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 06:51:53 -0500",
+     "title": "MediWound Non-GAAP EPS of -$0.65 beats by $0.08, revenue of $3.57M misses by $3.16M",
+     "link": "https://seekingalpha.com/news/4671309-mediwound-non-gaap-eps-of-0_65-beats-by-0_08-revenue-of-3_57m-misses-by-3_16m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 07:07:25 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Pharvaris reports Q3 results"
+     "zh": "MediWound Non-GAAP EPS of -$0.65 beats by $0.08, revenue of $3.57M misses by $3.16M"
     },
     {
-     "title": "AIR Global plans $0.28 annual dividend",
-     "link": "https://seekingalpha.com/news/4671295-air-global-plans-028-annual-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 06:50:29 -0500",
+     "title": "Democrat Scott Colom set to be Mississippi's senator after historic win",
+     "link": "https://seekingalpha.com/news/4671142-democrat-scott-colom-set-to-be-mississippi-senator-after-historic-win?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 07:07:23 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "AIR Global plans $0.28 annual dividend"
+     "zh": "Democrat Scott Colom set to be Mississippi's senator after historic win"
     },
     {
-     "title": "Manchester United sacks its manager as it looks to turn around a woeful season",
-     "link": "https://seekingalpha.com/news/4671292-manchester-united-sacks-its-manager-as-it-looks-to-turn-around-woeful-season?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 06:50:00 -0500",
+     "title": "EyePoint Pharmaceuticals GAAP EPS of -$1.07 misses by $0.15, revenue of $0.8M beats by $0.57M",
+     "link": "https://seekingalpha.com/news/4671308-eyepoint-pharmaceuticals-gaap-eps-of-1_07-misses-by-0_15-revenue-of-0_8m-beats-by-0_57m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 07:06:51 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Manchester United sacks its manager as it looks to turn around a woeful season"
+     "zh": "EyePoint Pharmaceuticals GAAP EPS of -$1.07 misses by $0.15, revenue of $0.8M beats by $0.57M"
     },
     {
-     "title": "Vista Gold GAAP EPS of -$0.05",
-     "link": "https://seekingalpha.com/news/4671294-vista-gold-gaap-eps-of--005?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 06:48:23 -0500",
+     "title": "Aya Gold &amp; Silver GAAP EPS of $0.22, revenue of $103.29M",
+     "link": "https://seekingalpha.com/news/4671307-aya-gold-and-silver-gaap-eps-of-0_22-revenue-of-103_29m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 07:06:29 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Vista Gold GAAP EPS of -$0.05"
+     "zh": "Aya Gold &amp; Silver GAAP EPS of $0.22, revenue of $103.29M"
     },
     {
-     "title": "Figure Technology Solutions Q3 revenue jumps 83%",
-     "link": "https://seekingalpha.com/news/4671291-figure-technology-solutions-q3-revenue-jumps-83?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 06:47:42 -0500",
+     "title": "Aveanna Healthcare Holdings Non-GAAP EPS of $0.23 beats by $0.02, revenue of $695.5M beats by $14.88M",
+     "link": "https://seekingalpha.com/news/4671305-aveanna-healthcare-holdings-non-gaap-eps-of-023-beats-by-002-revenue-of-6955m-beats-by-1488m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 07:05:44 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Figure Technology Solutions Q3 revenue jumps 83%"
+     "zh": "Aveanna Healthcare Holdings Non-GAAP EPS of $0.23 beats by $0.02, revenue of $695.5M beats by $14.88M"
+    },
+    {
+     "title": "Nvidia stock falls 8% as investors await Jensen Huang’s fate",
+     "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+     "pubDate": "Thu, 12 Nov 2026 12:05:42 GMT",
+     "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
+     "source": "CNBC",
+     "zh": "Nvidia stock falls 8% as investors await Jensen Huang’s fate"
+    },
+    {
+     "title": "霍华德·马克斯：一个外行对AI的思考，谁能从AI投资中赚到钱？",
+     "link": "https://wallstreetcn.com/articles/3785818",
+     "pubDate": "Thu, 12 Nov 2026 19:52:58 +0800",
+     "summary": "橡树资本联合创始人霍华德·马克斯（Howard Marks）在最新备忘录中，以一个\"外行\"的视角系统梳理了围绕人工智能投资的核心问题。他的结论并不乐观： AI投资涉及的关键变量数量异常庞大，预测难度远超以往任何一次技术革命，而真正能从中获利的究竟是谁，目前在很大程度上仍是一个信仰问题。 马克斯在备忘录中援引Anthropic旗下AI模型Claude的评估指出， AI整体的可预测性评分仅为3分（满分10分）。其中，技术方向的可预测性尚可达到6、7分，但投资者真正关心的问题——盈利速度、利润规模以及利润归属——可预测性仅约2分。这一判断直接指向AI投资的核心困境：方向清晰，但回报高度不确定。 马克",
+     "source": "华尔街见闻",
+     "zh": "霍华德·马克斯：一个外行对AI的思考，谁能从AI投资中赚到钱？"
+    },
+    {
+     "title": "财政部：未来三年，紧盯重大财务造假案件",
+     "link": "http://www.eeo.com.cn/2026/1112/1091401.shtml",
+     "pubDate": "Thu, 12 Nov 2026 19:48:48 +0800",
+     "summary": "财政部将开展财会监督质效提升三年行动（2026—2028年），坚持严的基调，保持打击财务造假高压态势，持续加大监督检查力度。",
+     "source": "经济观察网",
+     "zh": "财政部：未来三年，紧盯重大财务造假案件"
     },
     {
      "title": "李强主持国务院第二十二次专题学习：强化社保基金安全监管和保值增值",
@@ -2417,14 +2441,6 @@
      "zh": "伯恩斯坦：为什么现在绝对不能抄底英伟达？"
     },
     {
-     "title": "Nvidia stock falls 7% as investors await Jensen Huang’s fate",
-     "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-     "pubDate": "Thu, 12 Nov 2026 11:25:09 GMT",
-     "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
-     "source": "CNBC",
-     "zh": "Nvidia stock falls 7% as investors await Jensen Huang’s fate"
-    },
-    {
      "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
      "link": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
      "pubDate": "Thu, 12 Nov 2026 11:23:04 GMT",
@@ -2479,22 +2495,6 @@
      "summary": "11月12日，A股冲高回落，三大指数集体收跌， 白酒 板块逆势走强 ，收涨0.74%，涨幅居行业板块前列。个股方面， 皇台酒业 涨停， 金种子酒 涨超6%， 古井贡酒 涨超2%， 迎驾贡酒 涨超1%， 山西汾酒 、 伊力特 、 贵州茅台 、 五粮液 等跟涨。 今年下半年以来， 白酒 板块累计涨幅为14.24%。 双11酒类战报出炉 消息方面，11月12日， 京东 酒业发布战报显示，10月9日00:00至11月11日24:00， 京东 名酒11.11全时期成交额同比增长25% 。品牌层面，茅台、 五粮液 、 泸州老窖 成交同比分别增长10%、13%、10%。单品层面，茅台飞天2021年整箱成交额",
      "source": "东方财富资讯",
      "zh": "白酒股逆势走强！双11名酒战报出炉 成交同比增25%"
-    },
-    {
-     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 10:15:00 GMT",
-     "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-     "source": "MarketWatch",
-     "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
-    },
-    {
-     "title": "世界计算大会进入倒计时 多只绩优算力概念股“超跌”",
-     "link": "http://finance.eastmoney.com/news/1345,202611123929725965.html",
-     "pubDate": "Thu, 12 Nov 2026 18:14:39 +0800",
-     "summary": "国产算力需求加速释放，在资本开支持续加码的驱动下，产业链正迈入业绩兑现期。 今日（11月12日），A股大盘指数午后走低，上证指数收盘下跌0.67%，创业板指收盘下跌2.44%。科创50指数盘中一度涨近5%，收盘涨幅回落至0.73%。云游戏、工业软件、人形 机器人 、 减速器 、短剧游戏等题材跌幅靠前。 截至收盘，超4600股飘绿，37股涨停。 东方海洋 （002086）是近期最热门股票之一，该股今日收盘涨停，至此该股近14个交易日内已录得9个涨停板，是同期涨停板最多的股票。此外， 东方海洋 最新收盘价创近7年来新高，A股市值重回百亿元以上。 东方海洋 主要从事海水苗种繁育、养殖，水产品加工，生",
-     "source": "东方财富资讯",
-     "zh": "世界计算大会进入倒计时 多只绩优算力概念股“超跌”"
     }
    ]
   },

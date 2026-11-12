@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 17:12:01",
+ "generated_at": "2026/11/12 17:31:52",
  "recent_days": 7,
  "industries": [
   {
@@ -362,54 +362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Naver signs US$1.5 billion AI cloud deal with US firm"
     },
     {
-     "title": "Ron Neale",
-     "link": "https://www.electronicsweekly.com/news/business/ron-neale-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:16:05 +0000",
-     "summary": "Ron Neale, who died yesterday, was an electronics engineer, researcher, inventor and editor. He was best known for his long career in solid-state memory technology, especially phase-change memory (PCM). After […] The post Ron Neale appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Ron Neale"
-    },
-    {
-     "title": "Jensen Huang’s fate may be decided today",
-     "link": "https://www.electronicsweekly.com/news/business/jensen-huangs-fate-may-be-decided-today-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:13:42 +0000",
-     "summary": "The Nvidia board is meeting today to decide if CEO Jensen Huang should be replaced and, if so, by who. Leading candidates are vice-president for hyperscale and HPC Ian Buck […] The post Jensen Huang’s fate may be decided today appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Jensen Huang’s fate may be decided today"
-    },
-    {
-     "title": "Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time",
-     "link": "https://www.electronicsweekly.com/news/products/electronica-trias-osm-sb-ep5-aims-to-shorten-concept-to-product-time-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:10:34 +0000",
-     "summary": "Tria Technologies’ OSM-SB-EP5 is a carrier board for the evaluation, validation and prototyping of OSM-based embedded systems. It is intended for teams building embedded products around the Open Standard Module […] The post Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time appea",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time"
-    },
-    {
-     "title": "Electronica: Pickering advances high-voltage relay technology",
-     "link": "https://www.electronicsweekly.com/news/business/electronica-pickering-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:09:48 +0000",
-     "summary": "Pickering Electronics of Clacton-on-Sea, a manufacturer of high-performance reed relays, is advancing its high-voltage relay technology through the evaluation of partial discharge (PD) testing, initially focusing on its Series 600 […] The post Electronica: Pickering advances high-voltage relay techn",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Pickering advances high-voltage relay technology"
-    },
-    {
-     "title": "Fintech funding falls",
-     "link": "https://www.electronicsweekly.com/news/business/fintech-funding-falls-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:07:08 +0000",
-     "summary": "Europe FinTech companies raised $5.6B in the first nine months of 2026 – down 6% from $6.0B in 9M 2025, reports Tracxn Technologies. Series A and later rounds fell 29% […] The post Fintech funding falls appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fintech funding falls"
-    },
-    {
-     "title": "Electronica: Nexperia adds 750V SiC trench MOSFETs and TOLL packaging",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/electronica-nexperia-adds-750v-sic-trench-mosfets-and-toll-packaging-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 06:06:55 +0000",
-     "summary": "Nexperia has expanded its portfolio of SiC-based power semiconductors with a family of 750V trench MOSFETs. Designed for demanding industrial and automotive applications, the devices combine robust switching performance, low […] The post Electronica: Nexperia adds 750V SiC trench MOSFETs and TOLL pa",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Nexperia adds 750V SiC trench MOSFETs and TOLL packaging"
-    },
-    {
      "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
      "link": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/",
      "pubDate": "Wed, 11 Nov 2026 23:39:41 +0000",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Mobilint has begun mass production of next-generation edge AI chips that incorporate video codec technology from Chips&Media, the companies announced on November 4. The South Korean partners are targeting robotics applications, including humanoids, where several cameras can generate more video than ",
      "source": "SemiWiki",
      "zh": "Why Video Processing Matters for the Next Generation of Robots"
+    },
+    {
+     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
+     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
+     "source": "Semiconductor Today",
+     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
+    },
+    {
+     "title": "WT to distribute Sivers’ InP lasers and wireless solutions",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/sivers-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 12:11:07 GMT",
+     "summary": "Sivers Semiconductors AB of Kista, Sweden (which supplies RF beam-former ICs and lasers for AI data-center, SATCOM, defense and telecom applications) has announced a global distribution agreement with electronics and semiconductors distributor WT Microelectronics Co Ltd...",
+     "source": "Semiconductor Today",
+     "zh": "WT to distribute Sivers’ InP lasers and wireless solutions"
+    },
+    {
+     "title": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/nexperia-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 11:25:41 GMT",
+     "summary": "Discrete device designer and manufacturer Nexperia B.V. of Nijmegen, the Netherlands (which operates wafer fabs in Hamburg, Germany, and Hazel Grove Manchester, UK) has launched a new family of 750V silicon carbide (SiC) trench MOSFETs, combining low switching losses, temperature-stable RDS(on) char",
+     "source": "Semiconductor Today",
+     "zh": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion"
+    },
+    {
+     "title": "Diamond Foundry unveils first 200mm single-crystal diamond",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/diamondfoundry-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 09:18:11 GMT",
+     "summary": "Diamond Foundry Inc of San Francisco, CA, USA has unveiled the first 200mm-diameter single-crystal diamond. The announcement accompanied a keynote presentation by CEO Martin Roscheisen, delivered by video at CarbonSemi 2026 (the 6th Industry Development Summit of Carbon-based Semiconductor & Devices",
+     "source": "Semiconductor Today",
+     "zh": "Diamond Foundry unveils first 200mm single-crystal diamond"
+    },
+    {
+     "title": "CXO Interview with Solaiman Rahim of ChipAgents",
+     "link": "https://semiwiki.com/eda/chipagents-ai/375937-cxo-interview-with-solaiman-rahim-of-chipagents/",
+     "pubDate": "Tue, 10 Nov 2026 20:00:32 +0000",
+     "summary": "Dr. Solaiman Rahim is a multidisciplinary technology executive with over 25 years of experience driving innovation in the chip automation space at the intersection of systems, semiconductors, high-performance computing, and AI. As Chief Product Officer at ChipAgents, he leads the scaling of the Agen",
+     "source": "SemiWiki",
+     "zh": "CXO Interview with Solaiman Rahim of ChipAgents"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -850,12 +850,28 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Solar-storage project provides round-the-clock power in DRC Congo",
+     "title": "Researchers show LBIC phase mapping accurately detects solar module interconnection defect",
+     "link": "https://www.pv-magazine.com/2026/11/12/researchers-demonstrate-that-lbic-phase-mapping-can-accurately-detect-interconnection-defects-in-solar-modules/",
+     "pubDate": "Thu, 12 Nov 2026 09:15:39 +0000",
+     "summary": "Researchers in Sweden have demonstrated that LBIC phase mapping can detect interconnection defects in solar modules by identifying local variations in electrical resistance and contact quality. The technique enables high-resolution analysis of electrical contacts before and after lamination, helping",
+     "source": "pv magazine",
+     "zh": "Researchers show LBIC phase mapping accurately detects solar module interconnection defect"
+    },
+    {
+     "title": "Data centre operator AirTrunk secures exclusivity on 1GW Hunter solar, wind and storage projects in Australia",
+     "link": "https://www.pv-tech.org/data-centre-operator-airtrunk-secures-exclusivity-on-1gw-hunter-solar-wind-and-storage-projects-in-australia/",
+     "pubDate": "Thu, 12 Nov 2026 09:10:35 +0000",
+     "summary": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 1GW of solar, BESS and wind projects.",
+     "source": "PV Tech",
+     "zh": "Data centre operator AirTrunk secures exclusivity on 1GW Hunter solar, wind and storage projects in Australia"
+    },
+    {
+     "title": "Major solar-storage project provides round-the-clock power in DRC Congo",
      "link": "https://www.pv-magazine.com/2026/11/12/solar-storage-project-providing-round-the-clock-power-in-drc-congo/",
      "pubDate": "Thu, 12 Nov 2026 09:03:16 +0000",
-     "summary": "The facility, featuring a 233 MWp solar array, provides a guaranteed 30 MW of baseload power around the clock to Africa’s largest copper mine. It displaced around 4 million liters of diesel in its first month of operation. The post Solar-storage project provides round-the-clock power in DRC Congo ap",
+     "summary": "The facility, featuring a 233 MW solar array, provides a guaranteed 30 MW of baseload power around the clock to Africa’s largest copper mine. It displaced around 4 million liters of diesel in its first month of operation. The post Major solar-storage project provides round-the-clock power in DRC Con",
      "source": "pv magazine",
-     "zh": "Solar-storage project provides round-the-clock power in DRC Congo"
+     "zh": "Major solar-storage project provides round-the-clock power in DRC Congo"
     },
     {
      "title": "Alinta Energy’s 200MWh Wagerup BESS online in Western Australia after ‘significant redesign’",
@@ -952,14 +968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Crude oil prices extended their decline today, with both Brent crude and WTI shedding over $1 in Asian trade earlier in the day on growing hopes for peace in Ukraine and Iran. At the time of writing, Brent crude was trading at $91.32 per barrel, and West Texas Intermediate was changing hands for $85",
      "source": "OilPrice",
      "zh": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds"
-    },
-    {
-     "title": "Pacific prospects",
-     "link": "https://www.pv-magazine.com/2026/11/12/pacific-prospects/",
-     "pubDate": "Thu, 12 Nov 2026 05:00:00 +0000",
-     "summary": "More than 70 renewable energy projects, with a combined value of $2.2 billion, are currently in progress across 14 independent Pacific Island nations. Research compiled for the new “Pacific 100% Renewable Energy Investment Prospectus (PREIP)” report finds that around $14 billion would be needed over",
-     "source": "pv magazine",
-     "zh": "Pacific prospects"
     },
     {
      "title": "The High-Rise Bottleneck: Why EV Charging in Indian Apartments Is an Engineering Puzzle",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "LONGi launches two BC solar modules in Australia, aiming to outvalue TOPCon and push integrated PV-plus-storage systems in its top market.",
      "source": "PV Tech",
      "zh": "‘One of the most valuable markets’: LONGi brings BC solar modules and LONGi ONE strategy to Australia"
-    },
-    {
-     "title": "Lydian’s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
-     "link": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/",
-     "pubDate": "Wed, 11 Nov 2026 14:25:09 +0000",
-     "summary": "Excelsior Energy Capital-backed developer Lydian Energy has brought its 150MW/600MWh Faraday battery energy storage system (BESS) project in Utah County, Utah, US into commercial operation.",
-     "source": "Energy Storage News",
-     "zh": "Lydian’s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre"
     }
    ]
   },
@@ -1762,44 +1762,100 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "奔驰 CEO 称在中国车要大得惊人，深蓝汽车董事长邓承浩表示“很有共鸣”",
+     "link": "https://www.ithome.com/1/026/283.htm",
+     "pubDate": "Thu, 12 Nov 2026 09:25:46 GMT",
+     "summary": "IT之家 11 月 12 日消息，当地时间 11 日，梅赛德斯-奔驰集团 CEO 康林松出席第 20 届《汽车周刊》大会开幕活动，IT之家此前已进行详细报道。 值得一提的是，康林松提出了有关在华战略的观点：产品规划必须完全围绕中国消费者的喜好展开，“ 在中国，车要大，非常大，大得惊人 ”。 在今天（12 日），深蓝汽车董事长邓承浩对康林松的这番言论表达了认同：“ 同为造车人，很有共鸣 。不管是外资巨头还是中国品牌，大家都在研究同一个课题：中国用户到底需要什么样的车？ 其实大只是第一步，不是终点线 。中国用户对大车的偏爱，根源是中国真实的家庭结构， 带长辈、带娃，一家人整整齐齐出行，空间大就是刚",
+     "source": "IT之家",
+     "zh": "奔驰 CEO 称在中国车要大得惊人，深蓝汽车董事长邓承浩表示“很有共鸣”"
+    },
+    {
+     "title": "大唐推出基于海光 1400 系列处理器的 FX1400 迷你主机",
+     "link": "https://www.ithome.com/1/026/278.htm",
+     "pubDate": "Thu, 12 Nov 2026 09:17:42 GMT",
+     "summary": "IT之家 11 月 12 日消息，大唐计算机 (Maxtang) 今日宣布推出基于 海光 1400 新品处理器 的 FX1400 迷你主机。其内置 M.2 2280 PCIe 插槽， 支持 NVMe SSD 存储或 M.2 外形规格的 AI 加速卡 ；工作温度 -10~+50℃。 FX1400 三维 208×190×45 (mm)， 配备 4 核 3.0GHz 15W 处理器 ，拥有 1 个 DDR4 SO-DIMM 内存插槽、1 个 M.2 SATA SSD 盘位，可选板载 eMMC 5.0，提供 1 个 Mini PCIe 插槽。 而在外部，这一迷你主机提供 6 个 USB-A 接口、2 ",
+     "source": "IT之家",
+     "zh": "大唐推出基于海光 1400 系列处理器的 FX1400 迷你主机"
+    },
+    {
+     "title": "鸿海董事长刘扬伟：2027 年芯片、内存及部分关键零部件供需吃紧将持续",
+     "link": "https://www.ithome.com/1/026/277.htm",
+     "pubDate": "Thu, 12 Nov 2026 09:17:10 GMT",
+     "summary": "IT之家 11 月 12 日消息，据台媒经济日报，鸿海董事长刘扬伟今日下午表示， 2027 年 AI 整体需求预期仍将大于供给，供需吃紧将持续 。他预计未来 3 到 5 年，鸿海在 AI 相关云端产品业绩占比，将提高至超过 6 成。 刘扬伟表示，目前芯片、内存及部分关键零部件供应吃紧，是整体产业共同面临的挑战，虽然随着新产能陆续开出，供应瓶颈将逐渐缓解，但展望明年， 整体需求预期仍将大于供给 ， 供需吃紧的情况可能还会持续一段时间 。 展望明年市场情况，刘扬伟表示，全球产业将持续呈现 K 型发展，AI 相关产业将受惠全球算力需求以及基础设施投资，成长拉货动能仍非常强劲。 IT之家注意到，展望个",
+     "source": "IT之家",
+     "zh": "鸿海董事长刘扬伟：2027 年芯片、内存及部分关键零部件供需吃紧将持续"
+    },
+    {
+     "title": "估值150亿，画地为牢啊，Oura",
+     "link": "https://www.huxiu.com/article/4905047.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 17:16:33 +0800",
+     "summary": "本文来自微信公众号： 霞光社 ，作者：周晗驰，编辑：洋紫，原文标题：《估值150亿，画地为牢啊，Oura ｜ShineBrand》 《后会友期》近日大火，而除了在荧幕上赚足了观众眼泪之外，许飞带的戒指也被网友认出是Oura Ring。这枚戒指看起来像一件时尚配饰，内部却集成了多种传感器，可持续监测睡眠、心率、血氧等健康指标，数学家王虹、奥运冠军谷爱凌、英格兰球星哈里·凯恩，都曾被拍到佩戴Oura Ring。 因用户可以通过手机App查看睡眠状况、身体恢复情况和运动表现，了解自己的身体状态，Oura也成为消费者选择健康、智能的标签。 今年9月，Oura Ring全球累计销量已经突破550万枚，同",
+     "source": "虎嗅",
+     "zh": "估值150亿，画地为牢啊，Oura"
+    },
+    {
+     "title": "Meta 基础设施负责人将卸任：掌舵 17 年后交棒，亚马逊老将接任",
+     "link": "https://www.ithome.com/1/026/276.htm",
+     "pubDate": "Thu, 12 Nov 2026 09:16:28 GMT",
+     "summary": "IT之家 11 月 12 日消息，Meta 一位推动公司成长为社交媒体和科技行业巨头的关键人物即将离职。 Meta 向科技媒体 TechCrunch 证实，公司长期负责基础设施业务、同时担任工程部门联合负责人的桑托什 · 贾纳尔丹（Santosh Janardhan）将卸任现有职务。接替他的是戴夫 · 布朗（Dave Brown），布朗今年早些时候加入 Meta，担任基础设施副总裁。 在加入 Meta 之前，布朗曾在亚马逊工作 19 年，主要负责计算基础设施、云计算和人工智能相关业务。 贾纳尔丹短期内不会立即离开 Meta，但预计将在明年正式离职。Meta 一名发言人表示：“桑托什将在过渡期间",
+     "source": "IT之家",
+     "zh": "Meta 基础设施负责人将卸任：掌舵 17 年后交棒，亚马逊老将接任"
+    },
+    {
+     "title": "AI已经学会自己建群，“我们剩下的时间正在越来越少”",
+     "link": "https://www.huxiu.com/article/4905046.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 17:12:37 +0800",
+     "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 “如果民主党能够同时控制国会众议院和参议院，就可能对特朗普施加一定压力，推动放慢人工智能的发展速度。”一周多前，普林斯顿大学进化心理学教授、美国作家罗伯特·赖特（Robert Wright）对我们说，他刚刚出版了一本讨论AI失控风险的新书《造神之后》。 11月4日晚，美国中期选举结果出炉，民主党在参众两院逆转占多数席位。 AI和数据中心是这场选举中不可忽视的议题。在德州这个传统共和党大本营、美国未来数据中心建设的重要阵地，反对数据中心建设成了民主党候选人争取选民、最终击败共和党的重要筹码。据Ballotpedia追踪，全美41项涉",
+     "source": "虎嗅",
+     "zh": "AI已经学会自己建群，“我们剩下的时间正在越来越少”"
+    },
+    {
+     "title": "腾讯“混元试点”和“陆军转海军”的底层逻辑",
+     "link": "https://www.huxiu.com/article/4905045.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 17:12:16 +0800",
+     "summary": "本文来自微信公众号： 游戏寿司 ，作者：何北航，原文标题：《腾讯“混元试点”和“陆军转海军” 的底层逻辑》 11月12日，据媒体报道，在腾讯28周年Linktime线上直播中，腾讯管理层明确表达了加快组织变革的决心。 管理层强调，这一次与几年前的“降本增效”有着本质区别：过去更多是面对经营压力的被动收缩，核心在于“降本”；而这一次则是面向AI时代的主动调整，重点在于“增效”，通过激发一线员工的创造力、压缩中间管理层级，让组织变得更加扁平和灵活。 腾讯内部也提出了类似“陆军”与“海军”的资源分配思路：约50%的员工继续深耕现有核心业务，通过提升效率守好基本盘；另外50%则主动拥抱AI浪潮，探索A",
+     "source": "虎嗅",
+     "zh": "腾讯“混元试点”和“陆军转海军”的底层逻辑"
+    },
+    {
+     "title": "R 星展开新一轮《GTA6》游戏营销，悄悄开新账号放出罪恶城海滩道路画面",
+     "link": "https://www.ithome.com/1/026/274.htm",
+     "pubDate": "Thu, 12 Nov 2026 09:11:23 GMT",
+     "summary": "IT之家 11 月 12 日消息，据 IGN 报道，近期 Instagram 平台一个新账号「Only in Dade」突然发布了一段视频，其中展示了《GTA 6》游戏画面，主要从汽车后排窗外视角录制了海岸道路旁停放的一排豪华汽车。 起初，不少玩家怀疑这段视频是 AI 生成内容，直到 Rockstar Games 转发并点赞了这段视频，玩家才确认相应账号是游戏中的真实画面。 IGN 进一步考证获悉，这段游戏画面实际上复刻了上个月发生在现实世界中的一段视频。当时，Rockstar 与汽车改装公司 West Coast Customs 合作，将《GTA 6》中的汽车搬到现实世界，并在整个 10 月",
+     "source": "IT之家",
+     "zh": "R 星展开新一轮《GTA6》游戏营销，悄悄开新账号放出罪恶城海滩道路画面"
+    },
+    {
+     "title": "刻行时空融资近亿元：数据卖出去，还要证明能让机器人变聪明",
+     "link": "https://www.huxiu.com/article/4905039.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 17:10:45 +0800",
+     "summary": "本文来自微信公众号： 科技C位 ，作者：东木褚 在上海复兴岛，一台宇树机器人执行椅子归位任务。 对旁观者来说，这只是一次普通操作；对数据采集者来说，机器人看到了什么、关节怎样运动、任务在哪一步失败，都要沿着同一条时间轴被记录下来。 这些记录经过筛选、标注和质量检查，才可能成为模型训练材料。 机器人本体、摄像头位置、夹爪或灵巧手不同，数据的使用对象也会改变。采集完成，离数据卖出还有很长一段工程流程。 刻行时空正在把这段流程做成生意。 2026年11月9日，公司披露完成新一轮近亿元融资，由咏归基金领投，深圳长盈鑫投资有限公司、常州智融等跟投，资金将投向预部署环境、数据理解模型和“采集、训练、仿真、",
+     "source": "虎嗅",
+     "zh": "刻行时空融资近亿元：数据卖出去，还要证明能让机器人变聪明"
+    },
+    {
+     "title": "Linux 版 Steam 客户端正式升级为 64 位，用上游戏同款独立运行环境",
+     "link": "https://www.ithome.com/1/026/266.htm",
+     "pubDate": "Thu, 12 Nov 2026 09:09:17 GMT",
+     "summary": "IT之家 11 月 12 日消息，Steam 客户端今日迎来更新， 正式将 Linux 版客户端升级为 64 位应用 。 此外，Linux 版 Steam 客户端现在运行在 独立的 Steam Runtime 容器中 ，不再依赖特定 Linux 发行版的系统库文件，可以保证在多个发行版之间提供更一致的体验。这也是 Steam 游戏使用的技术。 Linux 版 Steam 客户端还重新设计了 Steam 更新器界面，修复了部分用户无法显示的情况。 IT之家注意到，Steam 成就集合（Achievement Sets）功能及全新改版的成就页面， 今日已正式面向所有 Steam 用户开放 。该功能",
+     "source": "IT之家",
+     "zh": "Linux 版 Steam 客户端正式升级为 64 位，用上游戏同款独立运行环境"
+    },
+    {
+     "title": "国贸之后再关三里屯，耐克为什么接连放弃大店？",
+     "link": "https://www.huxiu.com/article/4905041.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 17:09:11 +0800",
+     "summary": "本文来自微信公众号： 体坛经济观察 ，作者：迭戈，原文标题：《国贸之后再关三里屯，耐克为什么接连放弃大店？｜大公司》 新贵插旗占位，旧王黯然离场。 继今年4月北京国贸商城北区的耐克RISE大型体验店正式撤出后，近日，耐克位于三里屯太古里西区的2800平方米概念店也被曝闭店。 现场流出的照片显示，这家2022年开业的超大耐克门店已经开始围挡，外立面的品牌标识也被拆除。 截图来源于小红书 而与此前On昂跑、Salomon萨洛蒙接棒国贸耐克旧址的情况类似，此次三里屯门店的新围挡及新店情报中，也出现了迪桑特、KOLON SPORT可隆的开店计划。 曾经由耐克占据的北京核心商圈黄金铺位，正在迎来更多高端",
+     "source": "虎嗅",
+     "zh": "国贸之后再关三里屯，耐克为什么接连放弃大店？"
+    },
+    {
      "title": "千万级投入、180万票房，首部AI院线电影何以遇冷？",
      "link": "https://www.huxiu.com/article/4905038.html?f=rss",
      "pubDate": "Thu, 12 Nov 2026 16:55:57 +0800",
      "summary": "本文来自微信公众号： 界面新闻 ，作者：伍洋宇 11月12日，登陆院线第21天，《三星堆：未来往事》在北京全城还有17家影院安排的29场放映。中午时分，它还没有卖出去一张票。 据猫眼数据，自上映以来，这部影片累计票房180.2万元，最新单日票房（11月11日）为0.39万。 首映前三日，也即10月23日至25日，是它票房最高的时候，单日票房分别达到30.07万、46.44万和37.96万。场均人次也是最高的时候，均突破了1人。这种情形随后经历了断崖式下跌。 如果不是因为AI，它会跟许多票房不佳的国产电影一样悄无声息消失在大众视野里。但作为国内首部运用AI技术制作并取得国家电影局公映许可证的院线",
      "source": "虎嗅",
      "zh": "千万级投入、180万票房，首部AI院线电影何以遇冷？"
-    },
-    {
-     "title": "机器人泡沫在老股市场漏了气",
-     "link": "https://www.huxiu.com/article/4905036.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 16:55:03 +0800",
-     "summary": "本文来自微信公众号： 冯伟冯大白 ，作者：冯大白 具身智能最热的时候，投资人得抢着进下一轮。到了今年10月，部分老股东愿意按上一轮估值的六五折到八折找买家，接手的人仍然谨慎。同一个月，做绳驱机器人的星尘智能宣布融了10亿元，新一轮估值升到150亿元。6月，它刚宣布估值超过100亿元。 打折卖股和公司继续融资，可以同时发生。新投资人认购公司新增股份，出的是等下一代产品做出来的钱。老股东卖的是手里的股份，基金快到期就要考虑怎么给出资人回款，没那么容易多等两年。有人愿意给明星公司开出更高的价，未必有人愿意接下另一家公司的老股。眼下松动的是部分股东对退出价格的预期。机器人还在增加出货，过去觉得转手容易",
-     "source": "虎嗅",
-     "zh": "机器人泡沫在老股市场漏了气"
-    },
-    {
-     "title": "无印良品运营方就 109 万条会员信息泄露道歉，承认管理疏漏",
-     "link": "https://www.ithome.com/1/026/180.htm",
-     "pubDate": "Thu, 12 Nov 2026 08:45:52 GMT",
-     "summary": "IT之家 11 月 12 日消息，据共同社报道，运营“无印良品”的良品计划公司社长清水智 12 日就遭遇非法访问问题在东京都内召开记者会，致歉称：“给大家带来了巨大担忧与困扰，对此由衷道歉。” 清水智承认信息管理存在疏漏，称部分系统存在漏洞，未能阻止非法访问。 据悉，包括已经解约的在内，信用卡的完整号码等可能已有约 109 万条信息泄露。 本应废弃的信用卡信息仍被保存 ，清水智表示“将推进建立不持有非必要信息的机制”。对于信息有可能泄露的信用卡， 他表态说将承担换发新卡的手续费 。 据IT之家此前报道，此次涉事对象为截至 2021 年 7 月前加入的“MUJI Card（信用卡）”联名卡会员，",
-     "source": "IT之家",
-     "zh": "无印良品运营方就 109 万条会员信息泄露道歉，承认管理疏漏"
-    },
-    {
-     "title": "MTE 支持回归后，GrapheneOS 即将实现谷歌 Pixel 11 系列智能手机适配",
-     "link": "https://www.ithome.com/1/026/179.htm",
-     "pubDate": "Thu, 12 Nov 2026 08:45:46 GMT",
-     "summary": "IT之家 11 月 12 日消息，GrapheneOS 官方昨日表示，随着上游 Android 17 QPR2 为 Pixel 11 系列带回对 MTE 功能的支持， 该第三方 Android 发行版也将正式适配谷歌最新一代智能手机 。 MTE 全称内存标记扩展，可实时检测内存错误，大幅降低漏洞被利用风险。这项安全功能在一般 Android 发行版中甚少被利用，但却是 GrapheneOS 这个主打安全性的版本的关键基石。 此前的多代 Pixel 智能手机都支持 MTE，但 Pixel 11 系列在发售伊始缺乏该功能 ，导致 GrapheneOS 的适配工作遇到阻碍。",
-     "source": "IT之家",
-     "zh": "MTE 支持回归后，GrapheneOS 即将实现谷歌 Pixel 11 系列智能手机适配"
-    },
-    {
-     "title": "10 月全球新能源汽车销量 209 万辆重回增长，中国出口创单月纪录",
-     "link": "https://www.ithome.com/1/026/177.htm",
-     "pubDate": "Thu, 12 Nov 2026 08:43:58 GMT",
-     "summary": "IT之家 11 月 12 日消息，据路透社 12 日报道，英国研究机构 Benchmark Mineral Intelligence 周四公布的数据显示，10 月全球纯电和插混车型销量重回增长，主要受到 美国去年同期基数极低，以及欧洲市场持续增长 的影响。 Benchmark 数据经理查尔斯 · 莱斯特接受路透社采访时说：“虽然中国国内市场销量下滑，但这也促使许多车企加大出口力度，显著带动了其他地区的销量增长。” 10 月全球纯电和插混汽车新车 销量达到 209 万辆，同比增长 8% ；今年前 10 个月累计销量 1750 万辆，同比增长 5%。 莱斯特指出，中国市场销量同比降幅收窄至 12%",
-     "source": "IT之家",
-     "zh": "10 月全球新能源汽车销量 209 万辆重回增长，中国出口创单月纪录"
     },
     {
      "title": "从华尔街到5900亿魏桥集团，黄然非的隐秘资本版图",
@@ -1818,38 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "想做AI视频，不知道用哪款模型？我们帮你测完了"
     },
     {
-     "title": "谁想扳倒黄仁勋？",
-     "link": "https://www.huxiu.com/article/4905031.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 16:39:51 +0800",
-     "summary": "本文来自微信公众号： 动察Beating ，作者：Sleepy 11月11日美东时间下午五点半左右，《华尔街日报》发出独家消息，英伟达董事会正在准备罢免黄仁勋。 就在二十多分钟前，《纽约时报》刚刚曝光了他的第二段婚外情，对象是向他直接汇报了9年的英伟达医疗业务副总裁金伯莉·鲍威尔。当晚，彭博社跟进称董事会已经在接触外部猎头。盘后，英伟达跌去约9%。 作为历史上第一家市值突破5万亿美元的公司，黄仁勋执掌英伟达整整33年。 有意思的是，过去两周里密集抛出、试图扳倒黄仁勋的这些材料，没有一件是新发生的事情。 第一段婚外情的照片拍于2024年6月；美国商务部的调查始于2024年9月；情报部门的监听在2",
-     "source": "虎嗅",
-     "zh": "谁想扳倒黄仁勋？"
-    },
-    {
-     "title": "消息称 Take-Two 疑似对粉丝饭制《GTA 6》游戏地图项目发起版权打击",
-     "link": "https://www.ithome.com/1/026/168.htm",
-     "pubDate": "Thu, 12 Nov 2026 08:39:08 GMT",
-     "summary": "IT之家 11 月 12 日消息，据外媒 NoteBook Check 报道，Take-Two Interactive 近期疑似采取版权措施，针对粉丝饭制 GTA 6 游戏地图“GTA 6 Mapping Project”项目发起 DMCA 版权打击，目前相应项目的 Discord 服务器已下线，项目正常运营受到较大影响。 外媒怀疑，Take-Two 对“GTA 6 Mapping Mapping Project”进行版权打击的主要原因是相应项目使用了 Cyberleek 泄露事件中的实机画面绘制地图，不过目前尚未有实际证据曝光。 不过，目前“GTA 6 Mapping Project”项目打",
-     "source": "IT之家",
-     "zh": "消息称 Take-Two 疑似对粉丝饭制《GTA 6》游戏地图项目发起版权打击"
-    },
-    {
-     "title": "从Z世代抗议到PISA成绩新低：德国基础教育怎么了？",
-     "link": "https://www.huxiu.com/article/4905030.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 16:37:47 +0800",
-     "summary": "本文来自微信公众号： 非严肃De说 ，作者：梅花十三 大家好，我是梅花十三。 最近几个月，德国教育接连成为公共讨论的焦点。 9月8日公布的PISA（由OECD组织的国际学生评估项目）2025结果显示，德国15岁学生在阅读、数学和科学三个领域的平均成绩，均处于德国参加测评以来的历史最低水平，近十年急剧下滑。 ▲标语：德国15岁学生在PISA中的表现，从左至右分别是科学、数学、阅读 10月31日，由Z世代发起的“Gen Z regelt”抗议在德国多个城市举行。增加教育投入、改善公共服务，与生活成本上涨和代际公平等议题一起，进入年轻人的诉求清单。 一边是基础教育阶段学生能力的大幅下降，一边是部分年",
-     "source": "虎嗅",
-     "zh": "从Z世代抗议到PISA成绩新低：德国基础教育怎么了？"
-    },
-    {
-     "title": "特斯拉 Robotaxi 得州注册车辆数量反超 Waymo，Cybercab 已占近半",
-     "link": "https://www.ithome.com/1/026/167.htm",
-     "pubDate": "Thu, 12 Nov 2026 08:36:03 GMT",
-     "summary": "IT之家 11 月 12 日消息，特斯拉 Robotaxi 的注册车辆数量首次超过 Waymo，成为美国得克萨斯州自动驾驶车辆登记名单中规模最大的车队。 根据得克萨斯州机动车辆管理局（TxDMV）的公开登记数据，截至 11 月 10 日，特斯拉旗下 Tesla Robotaxi, LLC 名下共有 1302 辆登记车辆，略高于 Waymo 的 1297 辆。 这次反超幅度虽然不大，但确实反映在官方登记记录中。经过 11 月 10 日的一轮扩充， 特斯拉在得州的 Robotaxi 车队目前包括 729 辆 Model Y 和 573 辆专为自动驾驶出租车服务打造的 Cybercab 。 Waym",
-     "source": "IT之家",
-     "zh": "特斯拉 Robotaxi 得州注册车辆数量反超 Waymo，Cybercab 已占近半"
-    },
-    {
      "title": "AI短剧越做越快，红果为何被一张脸难住？",
      "link": "https://www.tmtpost.com/8202950.html",
      "pubDate": "Thu, 12 Nov 2026 16:35:52 +0800",
@@ -1858,36 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI短剧越做越快，红果为何被一张脸难住？"
     },
     {
-     "title": "腾讯裁员50%？员工吃不下饭，知情人士称是误读",
-     "link": "https://www.huxiu.com/article/4905029.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 16:35:23 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：周琦 11月11日晚，腾讯28周年司庆的Linktime线上直播结束后不久，一些腾讯员工的情绪先“崩”了。 有认证为腾讯员工的脉脉用户在脉脉发帖称，“‘组织变革，人员调整’要来喽，pony亲自说的，准备迎接翻天覆地的变化吧”。 另有员工表示，“这次的总办表述用词已经很激烈了吧”。 “老板措辞这么严厉……五年第一次见”，还有人注意到一个细节：“小马哥全程都没啥笑脸。” 一场直播引发的“裁员”传闻 一份在社交平台流传的聊天记录，呈现了管理层讲话的更多细节。 记录显示，马化腾在直播中称“我看一些在岸上的人还不是很紧张，但是已经是生死存亡的时候了”，并表示“今天",
-     "source": "虎嗅",
-     "zh": "腾讯裁员50%？员工吃不下饭，知情人士称是误读"
-    },
-    {
-     "title": "路虎验牌比亚迪，这次彻底栽了",
-     "link": "https://www.huxiu.com/article/4905016.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 16:32:53 +0800",
-     "summary": "出品｜虎嗅汽车组 作者｜杨杰 题图｜视觉中国 当下的市场里有一种声音认为，中国市场新车层出不穷，但实质上只有两款车：一个是保时捷，一个是路虎。 主攻年轻人的轿跑都像718，方盒子SUV都像卫士；再往下数，灯组像保时捷，车尾像路虎，轮拱像大G。 这套说法流传很广，久到&ldquo;中国车只会抄外观&rdquo;几乎成了一句不需要举证的常识。 2026年11月11日，荷兰海牙地区法院的一份裁定，给这句&ldquo;常识&rdquo;撕开了一道口子。 突袭搜查与法院审理 2026年8月，持有法院许可的执行人员，以近乎&ldquo;偷袭&rdquo;的模式进入比亚迪欧洲公司在荷兰斯希丹的办公室，随后是",
-     "source": "虎嗅",
-     "zh": "路虎验牌比亚迪，这次彻底栽了"
-    },
-    {
      "title": "超市入口的新三样：烘焙、鲜花和果切",
      "link": "https://www.tmtpost.com/8202699.html",
      "pubDate": "Thu, 12 Nov 2026 16:32:01 +0800",
      "summary": "入口是一次能力筛选。",
      "source": "钛媒体",
      "zh": "超市入口的新三样：烘焙、鲜花和果切"
-    },
-    {
-     "title": "起亚计划投资约 20 亿美元新建工厂，在印度年产能提升至 63 万辆",
-     "link": "https://www.ithome.com/1/026/160.htm",
-     "pubDate": "Thu, 12 Nov 2026 08:31:50 GMT",
-     "summary": "IT之家 11 月 12 日消息，据印度媒体 PTI 报道， 起亚印度公司将投资 20 亿美元 （IT之家注：现汇率约合 133.72 亿元人民币） ，在印度安得拉邦新建一座制造工厂，使这家韩国汽车制造商的年产能突破 60 万辆。 起亚印度公司董事总经理兼首席执行官李光九（Gwanggu Lee）今日在印度工业联合会合作伙伴峰会上发言时宣布，起亚将通过新建一座制造工厂，进一步扩大在安得拉邦的业务布局。 据悉，该项目预计将创造约 1.2 万个就业岗位， 并将起亚印度公司的年产能提升至 63 万辆 。 IT之家注意到，现代汽车和起亚所属的现代汽车集团去年在印度汽车市场占有率突破 19%。 相关阅读",
-     "source": "IT之家",
-     "zh": "起亚计划投资约 20 亿美元新建工厂，在印度年产能提升至 63 万辆"
     },
     {
      "title": "腾讯走进百度后院，悄悄地",
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Humble Bundle just killed most of their security through vibecoding",
      "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
      "pubDate": "Thu, 12 Nov 2026 06:52:48 +0000",
-     "summary": "Article URL: https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/ Comments URL: https://news.ycombinator.com/item?id=50463899 Points: 204 # Comments: 94",
+     "summary": "Article URL: https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/ Comments URL: https://news.ycombinator.com/item?id=50463899 Points: 260 # Comments: 131",
      "source": "Hacker News",
      "zh": "Humble Bundle just killed most of their security through vibecoding"
     },
@@ -2260,74 +2260,82 @@ window.INDUSTRY_DATA = {
     {
      "title": "Nvidia stock falls 7% as investors await Jensen Huang’s fate",
      "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-     "pubDate": "Thu, 12 Nov 2026 09:06:42 GMT",
-     "summary": "",
+     "pubDate": "Thu, 12 Nov 2026 09:27:03 GMT",
+     "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
      "source": "CNBC",
      "zh": "Nvidia stock falls 7% as investors await Jensen Huang’s fate"
     },
     {
-     "title": "Fidelis Insurance Holdings boosts dividend by 46.7% to $0.22 a share",
-     "link": "https://seekingalpha.com/news/4671222-fidelis-insurance-holdings-boosts-dividend-by-467-to-022-a-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 03:57:54 -0500",
+     "title": "American Homes 4 Rent 6.25% CUM PFD H declares $0.3906 dividend",
+     "link": "https://seekingalpha.com/news/4671227-american-homes-4-rent-625-cum-pfd-h-declares-03906-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:24:08 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Fidelis Insurance Holdings boosts dividend by 46.7% to $0.22 a share"
+     "zh": "American Homes 4 Rent 6.25% CUM PFD H declares $0.3906 dividend"
     },
     {
-     "title": "Gabelli Global Small & Mid Cap Value Trust declares $0.21 dividend",
-     "link": "https://seekingalpha.com/news/4671221-gabelli-global-small--mid-cap-value-trust-declares-021-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 03:54:52 -0500",
+     "title": "From AI king to exit odds: traders bet on Huang’s Nvidia future",
+     "link": "https://seekingalpha.com/news/4671224-from-ai-king-to-exit-odds-traders-bet-on-huangs-nvidia-future?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:23:38 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Gabelli Global Small & Mid Cap Value Trust declares $0.21 dividend"
+     "zh": "From AI king to exit odds: traders bet on Huang’s Nvidia future"
     },
     {
-     "title": "PepGen prices $125M public offering at $5 per share",
-     "link": "https://seekingalpha.com/news/4671186-pepgen-prices-125m-public-offering-at-5-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 03:53:29 -0500",
+     "title": "American Homes 4 Rent 5.875% CUM PFD G declares $0.3672 dividend",
+     "link": "https://seekingalpha.com/news/4671226-american-homes-4-rent-5875-cum-pfd-g-declares-03672-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:23:34 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "PepGen prices $125M public offering at $5 per share"
+     "zh": "American Homes 4 Rent 5.875% CUM PFD G declares $0.3672 dividend"
     },
     {
-     "title": "车市“金九银十”国内褪色，但出口猛增",
-     "link": "http://www.eeo.com.cn/2026/1112/1091175.shtml",
-     "pubDate": "Thu, 12 Nov 2026 16:53:08 +0800",
-     "summary": "继“金九”落空后，车市也未能迎来“银十”。",
-     "source": "经济观察网",
-     "zh": "车市“金九银十”国内褪色，但出口猛增"
-    },
-    {
-     "title": "Okeanis Eco Tankers declares $7.00 dividend",
-     "link": "https://seekingalpha.com/news/4671220-okeanis-eco-tankers-declares-700-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 03:52:02 -0500",
+     "title": "Russian diesel exports double, but none reach U.S. amid buyer reluctance",
+     "link": "https://seekingalpha.com/news/4671140-russian-diesel-exports-double-but-none-reach-us?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:20:09 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Okeanis Eco Tankers declares $7.00 dividend"
+     "zh": "Russian diesel exports double, but none reach U.S. amid buyer reluctance"
     },
     {
-     "title": "李彦宏对话杨元庆：AI变革会踩一些坑",
-     "link": "http://www.eeo.com.cn/2026/1112/1091181.shtml",
-     "pubDate": "Thu, 12 Nov 2026 16:49:00 +0800",
-     "summary": "在一项革命性技术发展的初期，不宜过早强调投入产出比。",
-     "source": "经济观察网",
-     "zh": "李彦宏对话杨元庆：AI变革会踩一些坑"
-    },
-    {
-     "title": "OTC Markets declares $0.30 quarterly dividend and $1.75 special dividend",
-     "link": "https://seekingalpha.com/news/4671212-otc-markets-declares-030-quarterly-dividend-and-175-special-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 03:48:14 -0500",
+     "title": "European markets advance, Germany's DAX sets fresh record",
+     "link": "https://seekingalpha.com/news/4671151-european-markets-advance-germanys-dax-sets-fresh-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:14:12 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "OTC Markets declares $0.30 quarterly dividend and $1.75 special dividend"
+     "zh": "European markets advance, Germany's DAX sets fresh record"
     },
     {
-     "title": "Biggest stock movers Thursday: NVDA rivals, CRWV, AVEX and more",
-     "link": "https://seekingalpha.com/news/4671129-biggest-stock-movers-thursday-nvda-rivals-crwv-avex-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 03:48:13 -0500",
+     "title": "Stock futures lower as Nvidia leadership uncertainty weighs on market sentiment",
+     "link": "https://seekingalpha.com/news/4671223-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:11:26 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Biggest stock movers Thursday: NVDA rivals, CRWV, AVEX and more"
+     "zh": "Stock futures lower as Nvidia leadership uncertainty weighs on market sentiment"
+    },
+    {
+     "title": "Nvidia shares slide as board considers Huang’s future",
+     "link": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
+     "pubDate": "Thu, 12 Nov 2026 09:09:28 GMT",
+     "summary": "Stock down more than 7 per cent ahead of Wall Street open as chief executive’s fate hangs in balance",
+     "source": "Financial Times",
+     "zh": "Nvidia shares slide as board considers Huang’s future"
+    },
+    {
+     "title": "黄仁勋丑闻冲击，英伟达美股盘前大跌7%，存储、光通信普跌，黄金再跌破4000关口，油价连续两日反弹",
+     "link": "https://wallstreetcn.com/articles/3785806",
+     "pubDate": "Thu, 12 Nov 2026 17:01:42 +0800",
+     "summary": "英伟达的管理层危机把风险从一家公司扩散到整条人工智能供应链，投资者不得不重新为今年最拥挤的交易定价。 周四美股盘前，英伟达跌约7%，黄仁勋被曝光第二件婚外情，董事会正筹划将其解职。 CoreWeave跌约7%，报道称该公司准备出售投资级贷款来募集至少40亿美元。 存储芯片股普跌，SK海力士跌约4%，闪迪跌约4%。光通信股普跌，Coherent跌约4%，Lumentum跌约4%。 避险情绪随即外溢。纳斯达克100指数期货下跌0.9%，该指数原本有望录得5月以来最佳单周涨幅；标普500指数期货下跌0.4%，道琼斯工业平均指数期货基本持平。 亚洲市场同时承压，韩国Kospi指数下跌0.6%，中国台湾",
+     "source": "华尔街见闻",
+     "zh": "黄仁勋丑闻冲击，英伟达美股盘前大跌7%，存储、光通信普跌，黄金再跌破4000关口，油价连续两日反弹"
+    },
+    {
+     "title": "马斯克带头、商界大佬集体发声，反对英伟达董事会仓促解雇黄仁勋",
+     "link": "https://wallstreetcn.com/articles/3785804",
+     "pubDate": "Thu, 12 Nov 2026 16:47:02 +0800",
+     "summary": "马斯克与多位商界领袖公开呼吁英伟达董事会不要在调查结束前解雇黄仁勋，并要求把去留决定交给股东。一桩个人私德风波，正在演变为牵动公司治理、股东权利与AI交易走向的市场事件。 当地时间11月11日晚间，《纽约时报》曝出黄仁勋的第二段婚外情——与下属金伯利·鲍威尔的恋爱关系。随后《华尔街日报》报道，英伟达董事会已成立由独立董事主导、外部律师参与的调查委员会，并正在准备解除黄仁勋的职务。部分董事倾向由首席财务官Colette Kress出任过渡期CEO，同时公司已委托外部猎头机构启动新CEO搜寻工作。 面对潜在的领导层更迭，多位科技巨头与风投机构高管通过社交媒体平台呼吁英伟达董事会保持克制。Atrei",
+     "source": "华尔街见闻",
+     "zh": "马斯克带头、商界大佬集体发声，反对英伟达董事会仓促解雇黄仁勋"
     },
     {
      "title": "雪峰科技：截至11月10日最新股东户数3.28万户，较上期减少0.59%",
@@ -2434,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "需求增长+新增产能难放量 电子布价格短期或将继续上行"
     },
     {
-     "title": "Nvidia shares tumble in after-market trading",
-     "link": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
-     "pubDate": "Thu, 12 Nov 2026 08:10:33 GMT",
-     "summary": "Stock sinks almost 9 per cent after-market as chief executive’s fate hangs in balance following more revelations",
-     "source": "Financial Times",
-     "zh": "Nvidia shares tumble in after-market trading"
-    },
-    {
      "title": "机构预计Anthropic上市首日散户净买入约2.5亿美元，或达SpaceX纪录两倍",
      "link": "https://wallstreetcn.com/articles/3785801",
      "pubDate": "Thu, 12 Nov 2026 16:07:10 +0800",
@@ -2490,12 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy."
     },
     {
-     "title": "陈春花：真正的协同共生是生成新价值、新关系、新秩序",
-     "link": "http://www.eeo.com.cn/2026/1112/1091036.shtml",
-     "pubDate": "Thu, 12 Nov 2026 15:19:43 +0800",
-     "summary": "很多组织并不缺少协同项目，却常常缺少由协同带来的持续成长。项目完成只是一次任务结束，协同共生关注的是增效、成长与系统自进化。本期《共生课堂》回到《协同共生论》的核心判断，理解协同如何从一次性交互，进入协同共生的动态过程。",
-     "source": "经济观察网",
-     "zh": "陈春花：真正的协同共生是生成新价值、新关系、新秩序"
+     "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+     "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 04:41:00 GMT",
+     "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+     "source": "MarketWatch",
+     "zh": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang"
     }
    ]
   },

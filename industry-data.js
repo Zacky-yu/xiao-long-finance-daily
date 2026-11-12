@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 13:11:56",
+ "generated_at": "2026/11/12 13:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -306,14 +306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Taiwan PCB equipment maker Ta Liang's four-digit backlog sets stage for high-margin TM4 growth"
     },
     {
-     "title": "No Trust In Politicians",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/no-trust-in-politicians-2026-11/",
-     "pubDate": "Thu, 12 Nov 2026 01:01:32 +0000",
-     "summary": "One of the main drivers of Donald Trump’s political rise in the run-up to the 2016 presidential election was the fact that he was not a politician, at least not […] The post No Trust In Politicians appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "No Trust In Politicians"
-    },
-    {
      "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
      "link": "https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am/",
      "pubDate": "Thu, 12 Nov 2026 00:59:35 +0000",
@@ -434,36 +426,12 @@ window.INDUSTRY_DATA = {
      "zh": "NVHBM: Can Custom HBM Change Who Builds the Memory Stack?"
     },
     {
-     "title": "UK semi company Fractile raises $720m at $7bn valuation",
-     "link": "https://www.electronicsweekly.com/news/business/uk-semi-company-fractile-raises-720m-at-7bn-valuation-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 15:12:59 +0000",
-     "summary": "Fractile, the four year-old UK semiconductor company, has raised $720 million at a $7 billion valuation. Investors were: Thrive Capital, Founders Fund, Conviction, Alphabet’s independent venture arm CapitalG, Lightspeed Venture […] The post UK semi company Fractile raises $720m at $7bn valuation app",
-     "source": "Electronics Weekly",
-     "zh": "UK semi company Fractile raises $720m at $7bn valuation"
-    },
-    {
-     "title": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/electronica-quectel-5g-combo-rugged-antennas-combine-5g-gnss-wi-fi-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 14:30:21 +0000",
-     "summary": "Quectel is announcing ten new “5G combo” antennas, combining 5G, GNSS and Wi-Fi in compact, rugged designs. Possible applications including fleet management, industrial equipment and smart city infrastructure. The idea […] The post Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-F",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi"
-    },
-    {
      "title": "Why Video Processing Matters for the Next Generation of Robots",
      "link": "https://semiwiki.com/ip/chipsmedia/375958-why-video-processing-matters-for-the-next-generation-of-robots/",
      "pubDate": "Wed, 11 Nov 2026 14:00:59 +0000",
      "summary": "Mobilint has begun mass production of next-generation edge AI chips that incorporate video codec technology from Chips&Media, the companies announced on November 4. The South Korean partners are targeting robotics applications, including humanoids, where several cameras can generate more video than ",
      "source": "SemiWiki",
      "zh": "Why Video Processing Matters for the Next Generation of Robots"
-    },
-    {
-     "title": "Buffett And The AI Boom",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/buffett-and-the-ai-boom-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 13:13:09 +0000",
-     "summary": "Last week’s stock market sell-off, led by Al and technology stocks after the midterms showed how nervous investors currently are with respect to the staying power of the Al boom. […] The post Buffett And The AI Boom appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Buffett And The AI Boom"
     },
     {
      "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
@@ -482,20 +450,52 @@ window.INDUSTRY_DATA = {
      "zh": "WT to distribute Sivers’ InP lasers and wireless solutions"
     },
     {
-     "title": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/electronica-onsemis-elitesic-m4-delivers-higher-power-density-and-lower-losses-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 12:06:01 +0000",
-     "summary": "onsemi claims its fourth-generation EliteSiC silicon carbide (SiC) platform delivers up to 30% higher power density and 35% lower losses than the previous generation. The EliteSiC M4 platform improves conduction […] The post Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower l",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses"
+     "title": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/nexperia-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 11:25:41 GMT",
+     "summary": "Discrete device designer and manufacturer Nexperia B.V. of Nijmegen, the Netherlands (which operates wafer fabs in Hamburg, Germany, and Hazel Grove Manchester, UK) has launched a new family of 750V silicon carbide (SiC) trench MOSFETs, combining low switching losses, temperature-stable RDS(on) char",
+     "source": "Semiconductor Today",
+     "zh": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion"
     },
     {
-     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-     "pubDate": "Wed, 11 Nov 2026 11:48:02 +0000",
-     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
+     "title": "Diamond Foundry unveils first 200mm single-crystal diamond",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/diamondfoundry-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 09:18:11 GMT",
+     "summary": "Diamond Foundry Inc of San Francisco, CA, USA has unveiled the first 200mm-diameter single-crystal diamond. The announcement accompanied a keynote presentation by CEO Martin Roscheisen, delivered by video at CarbonSemi 2026 (the 6th Industry Development Summit of Carbon-based Semiconductor & Devices",
+     "source": "Semiconductor Today",
+     "zh": "Diamond Foundry unveils first 200mm single-crystal diamond"
+    },
+    {
+     "title": "Variable-Length Prompts on Chimera GPNPU",
+     "link": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/",
+     "pubDate": "Wed, 11 Nov 2026 08:02:29 +0000",
+     "summary": "How a flexible binary can serve every length up to the capacity you set. The post Variable-Length Prompts on Chimera GPNPU appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Variable-Length Prompts on Chimera GPNPU"
+    },
+    {
+     "title": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs",
+     "link": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/",
+     "pubDate": "Wed, 11 Nov 2026 08:01:52 +0000",
+     "summary": "The differences and engineering considerations behind choosing and implementing UCIe connectivity for advanced multi-die designs. The post UCIe Connectivity for 2.5D and 3D Multi-Die Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs"
+    },
+    {
+     "title": "CXO Interview with Solaiman Rahim of ChipAgents",
+     "link": "https://semiwiki.com/eda/chipagents-ai/375937-cxo-interview-with-solaiman-rahim-of-chipagents/",
+     "pubDate": "Tue, 10 Nov 2026 20:00:32 +0000",
+     "summary": "Dr. Solaiman Rahim is a multidisciplinary technology executive with over 25 years of experience driving innovation in the chip automation space at the intersection of systems, semiconductors, high-performance computing, and AI. As Chief Product Officer at ChipAgents, he leads the scaling of the Agen",
+     "source": "SemiWiki",
+     "zh": "CXO Interview with Solaiman Rahim of ChipAgents"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos)",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
+     "pubDate": "Thu, 12 Nov 2026 05:24:54 +0000",
+     "summary": "SpaceX launched a classified mission for the U.S. Space Force from California tonight (Nov. 11), the second such mission for the company in a six-day span.",
+     "source": "Space.com",
+     "zh": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos)"
+    },
+    {
      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
      "pubDate": "Thu, 12 Nov 2026 00:41:35 +0000",
@@ -1352,14 +1360,6 @@ window.INDUSTRY_DATA = {
      "summary": "For over a century astronomers have speculated that comets could have delivered organic molecules necessary for life to Earth, but new modeling shows these molecules wouldn't have survived impact.",
      "source": "Space.com",
      "zh": "Did comets bring building blocks of life to Earth? Scientists aren't so sure anymore"
-    },
-    {
-     "title": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million",
-     "pubDate": "Wed, 11 Nov 2026 16:00:00 +0000",
-     "summary": "Rocket Lab has raised the launch cost of its next-gen Neutron rocket by more than 25%, an increase that reflects high demand amid a looming liftoff bottleneck.",
-     "source": "Space.com",
-     "zh": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million"
     },
     {
      "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
@@ -1762,6 +1762,126 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "苹果揭秘 iPhone 18 Pro / Max 提示小圆点：硬件死守隐私红线，不亮绝不放行麦克风 / 摄像头调用",
+     "link": "https://www.ithome.com/1/026/043.htm",
+     "pubDate": "Thu, 12 Nov 2026 05:28:40 GMT",
+     "summary": "IT之家 11 月 12 日消息，苹果公司今天（11 月 12 日）发布新博文，详细介绍了面向 iPhone 18 Pro 等设备的全新“安全隔离区”（Secure Exclaves）架构，并揭秘了指示灯这个隐私“守门员”。 iPhone 18 Pro 等用户主要依赖设备上的指示灯（硬件 LED 或屏幕上的小圆点）来判断摄像头或麦克风是否被打开， 那么这个提示小圆点会不会被恶意软件遮住或调暗，让用户在不知情时遭到偷拍、偷听？ 对此苹果公司在新博文中指出，针对该顾虑，苹果公司专门设立了一个名为“指示器控制器”（Exclave Indicator Controller）的隔离组件作为总闸门。只有确",
+     "source": "IT之家",
+     "zh": "苹果揭秘 iPhone 18 Pro / Max 提示小圆点：硬件死守隐私红线，不亮绝不放行麦克风 / 摄像头调用"
+    },
+    {
+     "title": "百度李彦宏：今天的具身智能大约相当于 2016 年前后的无人驾驶",
+     "link": "https://www.ithome.com/1/026/042.htm",
+     "pubDate": "Thu, 12 Nov 2026 05:27:15 GMT",
+     "summary": "IT之家 11 月 12 日现场消息，在今日举办的百度世界 2026 大会开幕式上，百度创始人李彦宏表示， 今天的具身智能大约相当于 2016 年前后无人驾驶的发展水平 。 李彦宏表示，无人驾驶是百度坚持了十几年的技术方向，百度的无人驾驶目前处在全球第一梯队。他相信， 无人驾驶将是人工智能技术竞争当中不可或缺的一环 ，也非常相信萝卜快跑有着非常好的发展前景。 IT之家在大会现场获悉，李彦宏还提到，很多人说想买一辆萝卜快跑，今天可以告诉大家，现在至少可以去租一辆萝卜快跑的汽车。萝卜快跑和神州租车的团队携手，把传统的租车服务和无人车深度融合， 开创了目前全球唯一的无人车租车模式 ，已经运营了超过一",
+     "source": "IT之家",
+     "zh": "百度李彦宏：今天的具身智能大约相当于 2016 年前后的无人驾驶"
+    },
+    {
+     "title": "助力 Anthropic IPO：Claude 10 月网站访问量 12.53 亿次创历史新高，超过 OpenAI ChatGPT 和谷歌 Gemini",
+     "link": "https://www.ithome.com/1/026/041.htm",
+     "pubDate": "Thu, 12 Nov 2026 05:26:26 GMT",
+     "summary": "IT之家 11 月 12 日消息，《福布斯》当地时间 11 月 11 日报道称，就在 Anthropic 准备首次公开募股（IPO）之际，旗下 Claude 的网站访问量实现大幅增长，增幅超过同期主要竞争对手。 根据数字市场分析机构 Similarweb 提供的数据，Anthropic 旗下 AI 聊天机器人 Claude 今年 10 月的网站访问量约 13 亿次，环比增长 23.8% 创下历史新高。 此前，从今年 5 月至 9 月，Claude 的月访问量基本维持在 9.5 亿至 10 亿次之间。与去年同期相比，Claude 今年 10 月的访问量同比增长了 536.3%。 在目前主流 AI",
+     "source": "IT之家",
+     "zh": "助力 Anthropic IPO：Claude 10 月网站访问量 12.53 亿次创历史新高，超过 OpenAI ChatGPT 和谷歌 Gemini"
+    },
+    {
+     "title": "AMD shares rose 4%+ after hours after closing up 7.3%, while Broadcom gained 2.4% after hours following a 4% gain, as Nvidia&apos;s board weighs ousting CEO Huang (Financial Times)",
+     "link": "https://www.techmeme.com/261112/p1#a261112p1",
+     "pubDate": "Thu, 12 Nov 2026 00:25:01 -0500",
+     "summary": "Financial Times : AMD shares rose 4%+ after hours after closing up 7.3%, while Broadcom gained 2.4% after hours following a 4% gain, as Nvidia's board weighs ousting CEO Huang &nbsp; &mdash;&nbsp; Stock sinks almost 9 per cent in after-market trading as chief executive's fate hangs in balance follow",
+     "source": "Techmeme",
+     "zh": "AMD shares rose 4%+ after hours after closing up 7.3%, while Broadcom gained 2.4% after hours following a 4% gain, as Nvidia&apos;s board weighs ousting CEO Huang (Financial Times)"
+    },
+    {
+     "title": "日本独立站日语客服外包怎么选？备货退货节奏全被打乱",
+     "link": "https://www.baijing.cn/question/638688",
+     "pubDate": "Thu, 12 Nov 2026 05:23:02 +0000",
+     "summary": "做日本独立站家居杂货，团队6人，月订单约1200单，客单价4500日元左右。日语客服一直靠外包，但响应慢，邮件平均要9小时才回，退货咨询拖到第3天才处理，导致退货率从4%涨到7%。备货也受影响：外包客服反馈的尺码、色差问题不统一，采购不敢按原计划补第二批量。试过两家日本本地客服外包，一家按件计费太贵，一家只用翻译软件回，客户投诉语气生硬。现在卡在要不要自建1名日语客服加外包夜班，还是继续纯外包但换按小时计费的。想请教：在日本站做家居杂货，客服外包的响应时效和退货处理权限该怎么设，才能不拖累备货和补单节奏？",
+     "source": "白鲸出海",
+     "zh": "日本独立站日语客服外包怎么选？备货退货节奏全被打乱"
+    },
+    {
+     "title": "苹果详解 Secure Exclaves 安全架构：Siri、摄像头和麦克风隐私保护升级，主系统也无法访问原始信息",
+     "link": "https://www.ithome.com/1/026/040.htm",
+     "pubDate": "Thu, 12 Nov 2026 05:17:45 GMT",
+     "summary": "IT之家 11 月 12 日消息，苹果今日发布了一篇技术文章，详细介绍了其 Apple Silicon 芯片中的安全架构 Secure Exclaves（安全隔离区），解释这套机制如何在处理摄像头和麦克风采集的数据时，避免原始音视频信息被操作系统、应用程序甚至苹果自身访问。 苹果安全工程与架构团队（SEAR）和核心操作系统团队（Core OS）于 11 月 12 日在苹果安全研究博客发布了题为《Secure Exclaves and Ambient Sensing》的文章，介绍了 Secure Exclaves 的设计原理、底层架构以及实际应用场景。 苹果表示，随着设备逐渐具备更加智能的环境感",
+     "source": "IT之家",
+     "zh": "苹果详解 Secure Exclaves 安全架构：Siri、摄像头和麦克风隐私保护升级，主系统也无法访问原始信息"
+    },
+    {
+     "title": "机器人要进工厂，光靠机器人公司还不够",
+     "link": "https://www.tmtpost.com/8202019.html",
+     "pubDate": "Thu, 12 Nov 2026 13:17:00 +0800",
+     "summary": "机器人公司负责造机器人，但服装厂和机床企业已经开始参与产品与模型研发。从晨风的真实工位测试，到创造力与智元的联合开发，制造企业究竟在为机器人提供什么？",
+     "source": "钛媒体",
+     "zh": "机器人要进工厂，光靠机器人公司还不够"
+    },
+    {
+     "title": "孟加拉bKash收款接入后，投放CPA涨到3.2美元正常吗？",
+     "link": "https://www.baijing.cn/question/638687",
+     "pubDate": "Thu, 12 Nov 2026 05:16:59 +0000",
+     "summary": "刚上线的工具类App，主攻孟加拉市场，团队6人，月投放预算1.5万美元。接入bKash和Nagad做本地收款后，Google Ads的CPA从1.8美元涨到3.2美元，转化率反而降到2.1%，同期巴基斯坦和印度市场CPA基本没动。已经试过拆开渠道单独跑、把落地页从英文换成孟加拉语、也加了本地客服号，都没压下来。现在卡在不知道是支付通道本身拖慢了加载，还是本地用户看到bKash入口反而犹豫。这笔预算下，是该先换通道还是先砍投放？",
+     "source": "白鲸出海",
+     "zh": "孟加拉bKash收款接入后，投放CPA涨到3.2美元正常吗？"
+    },
+    {
+     "title": "全球每三把卷尺，就有两把来自河南的这个县",
+     "link": "https://www.tmtpost.com/8202393.html",
+     "pubDate": "Thu, 12 Nov 2026 13:13:00 +0800",
+     "summary": "虞城在全球制造业里的地位属于整个县，议价能力要每家企业自己去挣。",
+     "source": "钛媒体",
+     "zh": "全球每三把卷尺，就有两把来自河南的这个县"
+    },
+    {
+     "title": "起底美联储“变脸王”沃勒",
+     "link": "https://www.huxiu.com/article/4904990.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 13:11:01 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 美联储主席凯文·沃什对利率“前瞻性指引”的唾弃是显而易见。然而令人唏嘘的是，其同僚似乎把“这一招”玩出了新花样…… 自5月接替鲍威尔出任美联储主席以来，沃什一直致力于全面改革美联储的运作机制——从减少每年的政策会议次数到彻底重组决策框架，几乎涵盖了各个方面。 然而如今，信息传达混乱反而已成为新阶段美联储的一大特征。虽然沃什曾多次引导市场不要过度看重单一数据点，并主张美联储不应将自身束缚在预测之上。但周二在伦敦，美联储理事沃勒的做法却“恰恰相反”。 沃勒表示，如果原定于当天晚些时候公布的美国10月份核心消费者物价指数(CPI)环比涨幅达到0.3%或更高",
+     "source": "虎嗅",
+     "zh": "起底美联储“变脸王”沃勒"
+    },
+    {
+     "title": "消息称 AMD 游戏显卡 GPU 第四季度供应量至少大减 20%-50%，紧缺至明年 1 月",
+     "link": "https://www.ithome.com/1/026/038.htm",
+     "pubDate": "Thu, 12 Nov 2026 05:10:49 GMT",
+     "summary": "IT之家 11 月 12 日消息，博板堂旗下公众号 ChannelGate 视博合聚今日爆料了 AMD GPU 游戏显卡中国区 Q4 货源供应策略。 爆料称，从 10 月份（Q4）开始， AMD GPU 供应量至少大减 20%-50% ，每月供应量不太明确，AIB（IT之家注：AMD 官方授权显卡合作伙伴）厂商每月的供应量也在不断被减少，据了解 AMD GPU 直到 1 月份供应数量都非常非常紧缺。 爆料提到，AMD 系列显卡缺货程度不亚于 NV 系列显卡，AMD 根本就没有多少游戏芯片卖给 AIB 品牌商。 爆料人士 Kepler_L2 今年 10 月则表示 ，AMD 下一代 RDNA 5 ",
+     "source": "IT之家",
+     "zh": "消息称 AMD 游戏显卡 GPU 第四季度供应量至少大减 20%-50%，紧缺至明年 1 月"
+    },
+    {
+     "title": "Windows NTLM 安全机制调整：微软计划 2027 年 5 月起拒绝未签名连接，降低中继攻击风险",
+     "link": "https://www.ithome.com/1/026/037.htm",
+     "pubDate": "Thu, 12 Nov 2026 05:10:48 GMT",
+     "summary": "IT之家 11 月 12 日消息，微软官方宣布，即日起通过 Windows 更新逐步加强 NTLM 身份验证安全机制，要求 Windows 客户端默认在所有连接中提供 NTLM 消息签名，以降低中间人攻击和 NTLM 中继攻击风险。 微软表示，此次调整分两个阶段进行，第二阶段将于 2027 年 5 月启动，届时 Windows Server 将默认强制要求客户端使用 NTLM 签名，未提供签名的客户端将被拒绝连接。 根据微软最新发布的 KB5135557 支持文档，此次安全改进旨在修复编号为 CVE-2026-118737 的安全漏洞，也是微软针对 NTLM 消息签名机制推出的第一阶段改进。 ",
+     "source": "IT之家",
+     "zh": "Windows NTLM 安全机制调整：微软计划 2027 年 5 月起拒绝未签名连接，降低中继攻击风险"
+    },
+    {
+     "title": "英伟达，可能失去黄仁勋",
+     "link": "https://www.tmtpost.com/8202462.html",
+     "pubDate": "Thu, 12 Nov 2026 13:09:03 +0800",
+     "summary": "黄仁勋去留成疑，英伟达面临估值与管理层双重考验。",
+     "source": "钛媒体",
+     "zh": "英伟达，可能失去黄仁勋"
+    },
+    {
+     "title": "华东医药的80.3%，还不是MASH的完整答案",
+     "link": "https://www.tmtpost.com/8202391.html",
+     "pubDate": "Thu, 12 Nov 2026 13:08:51 +0800",
+     "summary": "仍隔着几轮试验。",
+     "source": "钛媒体",
+     "zh": "华东医药的80.3%，还不是MASH的完整答案"
+    },
+    {
+     "title": "黄仁勋的裂缝，英伟达等来了创始人的凡人时刻",
+     "link": "https://www.tmtpost.com/8201671.html",
+     "pubDate": "Thu, 12 Nov 2026 13:08:44 +0800",
+     "summary": "神坛之下，公司才真正开始。",
+     "source": "钛媒体",
+     "zh": "黄仁勋的裂缝，英伟达等来了创始人的凡人时刻"
+    },
+    {
      "title": "越南版号下来后首月投放 CPI 涨到 0.42 美元，这个成本还能继续放量吗？",
      "link": "https://www.baijing.cn/question/638686",
      "pubDate": "Thu, 12 Nov 2026 05:02:54 +0000",
@@ -1776,30 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "全球四家，中国独占三家。",
      "source": "钛媒体",
      "zh": "零售巨头MUJI，为什么反复开酒店？"
-    },
-    {
-     "title": "卫星化学再投207亿元，连云港补上C3产业链",
-     "link": "https://www.tmtpost.com/8202394.html",
-     "pubDate": "Thu, 12 Nov 2026 13:02:21 +0800",
-     "summary": "行业处于低景气阶段。",
-     "source": "钛媒体",
-     "zh": "卫星化学再投207亿元，连云港补上C3产业链"
-    },
-    {
-     "title": "我国未来 3-5 年陆续研制发射“鸿蒙计划”“夸父二号”、系外地球巡天、增强型 X 射线时变与偏振空间天文台",
-     "link": "https://www.ithome.com/1/026/036.htm",
-     "pubDate": "Thu, 12 Nov 2026 05:00:30 GMT",
-     "summary": "IT之家 11 月 12 日消息，2026 年 11 月 11 日 19 时 41 分，我国在酒泉卫星发射中心使用长征二号丁（CZ-2D）Y108 运载火箭，以一箭四星组合体方式， 成功将探源计划探路者卫星发射升空 。卫星顺利进入预定轨道，发射任务取得圆满成功。 据国家空间科学中心介绍， 探路者卫星是太空探源科学卫星计划的技术试验星 ，将对“鸿蒙计划”“夸父二号”以及国家空间科学中长期发展规划中具有引领性和重大应用前景的有效载荷关键技术进行在轨验证并开展在轨试验。在验证任务结束后，开展空间环境监测示范探测和研究。卫星设计寿命 2 年，运行于轨道高度 600km 的太阳同步晨昏轨道。 探路者卫星",
-     "source": "IT之家",
-     "zh": "我国未来 3-5 年陆续研制发射“鸿蒙计划”“夸父二号”、系外地球巡天、增强型 X 射线时变与偏振空间天文台"
-    },
-    {
-     "title": "最近，投资人流行投“有眼力见儿”的AI",
-     "link": "https://www.tmtpost.com/8202382.html",
-     "pubDate": "Thu, 12 Nov 2026 12:56:42 +0800",
-     "summary": "当智能开始拥有不同形态的身体，如何与人类共同生活，正在成为AI 产业必须回答的新问题。",
-     "source": "钛媒体",
-     "zh": "最近，投资人流行投“有眼力见儿”的AI"
     },
     {
      "title": "6月被约谈，8月会员创新高：山姆这笔账要到明年才算",
@@ -1818,14 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "孟加拉最后一公里COD签收率跌到六成，投放CPA还能压得住吗？"
     },
     {
-     "title": "马斯克回应 Anthropic“提前终止 SpaceX 算力租赁合作”：我们乐意收回，但对方实际情况可能相反",
-     "link": "https://www.ithome.com/1/026/035.htm",
-     "pubDate": "Thu, 12 Nov 2026 04:53:18 GMT",
-     "summary": "IT之家 11 月 12 日消息，针对 Anthropic 可能会在 2027 年后停止租用 SpaceX 算力的消息，埃隆 · 马斯克在 X 上回应称，公司乐意收回相关算力，但他认为实际情况与大家猜测的可能恰恰相反。 据 Anthropic 于当地时间 11 月 10 日向美国证券交易委员会（SEC）提交的更新版 S-1/A 招股文件，该公司在 2026 年 5 月至 10 月期间，与 SpaceX 旗下 SpaceX.AI LLC 签署并修改了多份算力服务协议。相关协议涉及英伟达 GPU 算力，合同期限延续至 2029 年，累计支出上限约为 1,205 亿美元 （IT之家注：现汇率约合 8",
-     "source": "IT之家",
-     "zh": "马斯克回应 Anthropic“提前终止 SpaceX 算力租赁合作”：我们乐意收回，但对方实际情况可能相反"
-    },
-    {
      "title": "为什么你宁愿痛苦，也不去解决问题？",
      "link": "https://www.huxiu.com/article/4904986.html?f=rss",
      "pubDate": "Thu, 12 Nov 2026 12:50:29 +0800",
@@ -1834,44 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "为什么你宁愿痛苦，也不去解决问题？"
     },
     {
-     "title": "华软系12亿股解禁在即，主业亏损的盈新发展，“弃房追芯”胜算几何？",
-     "link": "https://www.tmtpost.com/8202156.html",
-     "pubDate": "Thu, 12 Nov 2026 12:49:20 +0800",
-     "summary": "老牌房企，艰难转身。",
-     "source": "钛媒体",
-     "zh": "华软系12亿股解禁在即，主业亏损的盈新发展，“弃房追芯”胜算几何？"
-    },
-    {
-     "title": "芒果不怕红果？",
-     "link": "https://www.tmtpost.com/8202345.html",
-     "pubDate": "Thu, 12 Nov 2026 12:49:15 +0800",
-     "summary": "《后会友期》赢麻了。",
-     "source": "钛媒体",
-     "zh": "芒果不怕红果？"
-    },
-    {
      "title": "胖东来卖的“日本洗发水”，商标为何由广州企业申请？",
      "link": "https://www.huxiu.com/article/4904985.html?f=rss",
      "pubDate": "Thu, 12 Nov 2026 12:47:19 +0800",
      "summary": "本文来自微信公众号： 大橘财经 ，作者：王力 胖东来为一瓶洗发水专门去了趟日本，查清了生产地，却没能终结围绕其品牌身世的争议。 近日，胖东来发布声明称，今年1月已赴日本科思美碧优蒂总部，实地核查卡蓓诺（CABELO）洗发水的生产车间、报关单、原产地证明等资料，确认产品原产地为日本，不存在网传的国内生产冒充进口情况。目前，胖东来及其中国贸易商均已提起诉讼。 但一个问题随之浮出水面：日本生产的洗发水，就一定是消费者理解的日本本土品牌吗？ 卡蓓诺在商品页面宣称1992年创立于日本，但其日本商标于2019年由广州企业申请。品牌今年4月还曾宣布拓展日本药妆渠道，11月10日，日本大型药妆连锁松本清却明确",
      "source": "虎嗅",
      "zh": "胖东来卖的“日本洗发水”，商标为何由广州企业申请？"
-    },
-    {
-     "title": "VC投地方独角兽，都要“配货”了？",
-     "link": "https://www.tmtpost.com/8202379.html",
-     "pubDate": "Thu, 12 Nov 2026 12:46:28 +0800",
-     "summary": "一级市场进入“爱马仕时代”：VC买份额，先配三条丝巾。",
-     "source": "钛媒体",
-     "zh": "VC投地方独角兽，都要“配货”了？"
-    },
-    {
-     "title": "熊出没官方辟谣“熊大被写死了”：部分自媒体将“熊大失踪”断章取义改写为“熊大死亡”引流",
-     "link": "https://www.ithome.com/1/026/034.htm",
-     "pubDate": "Thu, 12 Nov 2026 04:46:15 GMT",
-     "summary": "IT之家 11 月 12 日消息，国民动画 IP《熊出没》登上风口浪尖。“《熊出没》新预告中光头强称熊大已经死了十年”“熊大是熊二臆想出来的”等说法引发热议，“ 曝熊大被写死了 ”相关话题登上微博热搜。 11 月 11 日，“熊二动漫”发布澄清声明，称网传“熊大死了”系不实谣言。 “熊二动漫”表示，传言源头为线下粉丝交流活动观众的个人主观转述，部分自媒体将“熊大失踪”断章取义改写为“熊大死亡”引流。 IT之家查询国家电影局备案梗概发现， 《熊出没 · 我们》仅写到熊二找不到熊大，全文未提及熊大死亡或牺牲 。 文章还称，熊大是 IP 核心主角，系列一贯传递温情治愈价值观，呼吁观众以官方发布为准，",
-     "source": "IT之家",
-     "zh": "熊出没官方辟谣“熊大被写死了”：部分自媒体将“熊大失踪”断章取义改写为“熊大死亡”引流"
     },
     {
      "title": "民主党胜选，100种性别会“卷土重来”吗？",
@@ -1898,36 +1954,12 @@ window.INDUSTRY_DATA = {
      "zh": "德国站KYC补件后回款晚了11天，欧洲四国审核会不会连带影响放款？"
     },
     {
-     "title": "到手价约 949 元：SANC 盛色推出星舰 S9 便携式显示器，16 寸 2.5K 240Hz IPS 面板",
-     "link": "https://www.ithome.com/1/026/033.htm",
-     "pubDate": "Thu, 12 Nov 2026 04:40:16 GMT",
-     "summary": "IT之家 11 月 12 日消息，SANC 盛色现已推出星舰 S9 便携式显示器。新品采用金属撞色设计，支持 Type-C 一线通，配备 16 英寸 IPS 面板，标价 1174 元， 使用政府补贴等优惠后到手价约 948.6 元 。 据介绍，这款显示器采用一体式金属机身，自带隐藏式支架，内置精密阻尼转轴，可在横屏 / 竖屏姿态随心切换。屏幕分辨率为 2560*1600，PPI 为 188，最高支持 240Hz 刷新率。 同时，该显示器覆盖 108% sRGB 色域，ΔE≤2，静态对比度为 1200:1，支持 VRR 可变刷新率、ALLM 自动低延迟，峰值亮度 300nits。内置立体声扬声器",
-     "source": "IT之家",
-     "zh": "到手价约 949 元：SANC 盛色推出星舰 S9 便携式显示器，16 寸 2.5K 240Hz IPS 面板"
-    },
-    {
-     "title": "比亚迪 Ti 7 知识产权纠纷迎来关键程序性裁定，荷兰法院驳回捷豹路虎突击取证申请",
-     "link": "https://www.ithome.com/1/026/032.htm",
-     "pubDate": "Thu, 12 Nov 2026 04:37:07 GMT",
-     "summary": "IT之家 11 月 12 日消息，捷豹路虎与比亚迪 Ti 7 的知识产权纠纷于当地时间 11 月 11 日迎来关键程序性裁定。 荷兰海牙法院正式驳回捷豹路虎提出的证据保全申请 ，不同意其对比亚迪相关办公资料开展突击搜查、调取内部研发文件的诉求。 此前，捷豹路虎以外观争议为由，在荷兰提交申请，希望通过法院突击调取比亚迪大量研发文档、技术数据等核心资料。 本次法院裁定， 核心认定本次大范围突击取证缺乏充分必要性 。 IT之家注意到， 比亚迪 Ti 7 现阶段尚未在欧盟市场上市销售 ，也是法院认定本次大规模取证关联性不足的重要考量。这也释放出清晰信号：海外知识产权维权，取证范围需要和产品市场、举证需",
-     "source": "IT之家",
-     "zh": "比亚迪 Ti 7 知识产权纠纷迎来关键程序性裁定，荷兰法院驳回捷豹路虎突击取证申请"
-    },
-    {
      "title": "Darling Development Update – Q4 2026",
      "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
      "pubDate": "Thu, 12 Nov 2026 04:32:31 +0000",
-     "summary": "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/ Comments URL: https://news.ycombinator.com/item?id=50463103 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/ Comments URL: https://news.ycombinator.com/item?id=50463103 Points: 4 # Comments: 2",
      "source": "Hacker News",
      "zh": "Darling Development Update – Q4 2026"
-    },
-    {
-     "title": "“教你本事，还要发你薪水吗？”",
-     "link": "https://www.huxiu.com/article/4904978.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 12:31:46 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：张倩楠 近日，山西太原市万柏林区育华小学一则“无薪酬招募跟岗教师”的公告引发热议。跟岗教师工作内容涉及参与备课、听课、磨课、试教、作业批改、班级管理、课后服务、校园活动组织等，无薪酬待遇，食宿问题需自行解决，但学校会提供“教育教学资源”。 11月5日，当地人社部门明确表示，该校无薪招聘的要求不合规。校方回应称，原本想搭建教学实践平台，因考虑不够周全，已停止招募。 目前，“无薪酬招募跟岗教师”的公告已经撤下。但这背后，劳动力市场的系统性无偿用工并不鲜见。北京中银律师事务所高级合伙人杨保全告诉界面新闻，“无薪学徒”与“无薪跟岗”的内核一致，两者的做法都是把已",
-     "source": "虎嗅",
-     "zh": "“教你本事，还要发你薪水吗？”"
     },
     {
      "title": "肯尼亚手游买量 CPI 涨到 0.42 美元，是网络环境问题还是素材老化？",
@@ -1936,30 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们做休闲益智手游，去年 Q4 进肯尼亚，现在起量阶段，团队 6 人，月买量预算约 3 万美元，主要跑 Google Ads 和 Meta，本地支付接的是 M-Pesa。最近两周肯尼亚 CPI 从 0.28 美元涨到 0.42 美元，次日留存从 31% 掉到 24%，同一批素材在尼日利亚和南非没这个跌幅。已试过换素材方向、把预算往 Wi-Fi 时段倾斜、压缩包体到 45MB 以内，都没压住。想确认这种涨幅到底是本地网络环境（低端机加载失败率高）导致的转化损耗，还是买量侧竞价变贵，判断标准该看哪个指标？",
      "source": "白鲸出海",
      "zh": "肯尼亚手游买量 CPI 涨到 0.42 美元，是网络环境问题还是素材老化？"
-    },
-    {
-     "title": "肯尼亚 M-Pesa 收款对接后，为什么投放 CPA 从 1.8 美元涨到 4.2 美元？",
-     "link": "https://www.baijing.cn/question/638682",
-     "pubDate": "Thu, 12 Nov 2026 04:24:23 +0000",
-     "summary": "我们在肯尼亚做小额付费工具类 App，团队 12 人，月投放预算约 1.2 万美元，主要跑 Meta 和 Google UAC。上个月接完 M-Pesa 的 STK Push 收款，支付成功率从 61% 提到 78%，但同期投放 CPA 从 1.8 美元涨到 4.2 美元，首日 ROAS 反而掉了 0.3。已经试过拆开看：把 M-Pesa 单独接入的落地页和旧版落地页分组跑，素材没换，出价也没动；也排查过回调延迟，平均 8 秒。现在卡在分不清是渠道把支付成功用户算进了转化、导致出价模型跑偏，还是肯尼亚本地支付环节本身拉高了获客成本。判断标准到底该看首日 ROAS，还是看支付成功后的 7 日留存",
-     "source": "白鲸出海",
-     "zh": "肯尼亚 M-Pesa 收款对接后，为什么投放 CPA 从 1.8 美元涨到 4.2 美元？"
-    },
-    {
-     "title": "打破全天候监听疑云：苹果详解 iPhone 18 Pro / Max 处理 Hey Siri 背后流程",
-     "link": "https://www.ithome.com/1/026/029.htm",
-     "pubDate": "Thu, 12 Nov 2026 04:19:48 GMT",
-     "summary": "IT之家 11 月 12 日消息，苹果公司今天（11 月 12 日）发布新博文，详细介绍了面向 iPhone 18 Pro 等设备的全新“安全隔离区”（Secure Exclaves）架构， 并详细介绍了“Hey Siri”背后的流程。 根据官方博文内容，在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，苹果为“Hey Siri”语音唤醒词设计了“先低功耗初筛、再隔离区复核、最后经屏幕指示校验后才放行音频”的流程，从而减少误唤醒，并让用户能直观看到设备何时真正开始收音。 在运转流程方面，IT之家援引博文介绍，附上运转流程如下： 常驻低功耗监听： Always-On P",
-     "source": "IT之家",
-     "zh": "打破全天候监听疑云：苹果详解 iPhone 18 Pro / Max 处理 Hey Siri 背后流程"
-    },
-    {
-     "title": "尼日利亚短剧投放CPA涨到3.8美元，本地化内容还值得继续加预算吗？",
-     "link": "https://www.baijing.cn/question/638681",
-     "pubDate": "Thu, 12 Nov 2026 04:13:21 +0000",
-     "summary": "我们在尼日利亚和肯尼亚做短剧出海，团队12人，月投放预算约8万美元，主要跑Meta和TikTok。最近两周尼日利亚CPA从2.1美元涨到3.8美元，肯尼亚也从1.7涨到2.9，付费率卡在0.9%上不去。已经试过换素材前3秒、加本地演员配音、把字幕改成英语混皮金语，效果都不明显。现在纠结的是：非洲本地化拍摄成本比国内译制高不少，单集成本差3倍，但CPA还是压不下来。想直接问，在非洲这种ARPU偏低的市场，本地化内容投入的回收周期到底该怎么算，还是说应该先砍预算等成本回落？",
-     "source": "白鲸出海",
-     "zh": "尼日利亚短剧投放CPA涨到3.8美元，本地化内容还值得继续加预算吗？"
     },
     {
      "title": "Sources: some Trump officials questioned Jensen Huang&apos;s push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public (Wall Street Journal)",
@@ -1978,28 +1986,20 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)"
     },
     {
+     "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+     "link": "https://github.com/DaleFranks/ramasite",
+     "pubDate": "Thu, 12 Nov 2026 02:53:22 +0000",
+     "summary": "I'm new here, and little nervous about posting, but here goes. I'm not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9-year stint as active duty military, I've spent 46 years either personally or professionally working in tech.",
+     "source": "Hacker News",
+     "zh": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS"
+    },
+    {
      "title": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)",
      "link": "https://www.techmeme.com/261111/p52#a261111p52",
      "pubDate": "Wed, 11 Nov 2026 21:45:00 -0500",
      "summary": "Semafor : Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting &nbsp; &mdash;&nbsp; Some members of Nvidia's board favor appointing Chief Financial Officer Colette Kress as interim CEO, accordi",
      "source": "Techmeme",
      "zh": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)"
-    },
-    {
-     "title": "Lean Grimoire",
-     "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-     "pubDate": "Thu, 12 Nov 2026 02:36:48 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/ Comments URL: https://news.ycombinator.com/item?id=50462375 Points: 17 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Lean Grimoire"
-    },
-    {
-     "title": "Letter: Sens. Elizabeth Warren and Chris Coons ask the Trump administration to preserve all documents tied to Nvidia&apos;s chip exports to China and Huang&apos;s affair (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261111/p51#a261111p51",
-     "pubDate": "Wed, 11 Nov 2026 21:35:01 -0500",
-     "summary": "Wall Street Journal : Letter: Sens. Elizabeth Warren and Chris Coons ask the Trump administration to preserve all documents tied to Nvidia's chip exports to China and Huang's affair &nbsp; &mdash;&nbsp; Sens. Elizabeth Warren and Chris Coons ask for documents to be preserved, often an initial step b",
-     "source": "Techmeme",
-     "zh": "Letter: Sens. Elizabeth Warren and Chris Coons ask the Trump administration to preserve all documents tied to Nvidia&apos;s chip exports to China and Huang&apos;s affair (Wall Street Journal)"
     }
    ]
   },
@@ -2258,12 +2258,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "BCP Investment Corporation GAAP NII of $0.37 beats by $0.01, TII of $13.9M misses by $0.53M",
+     "link": "https://seekingalpha.com/news/4671110-bcp-investment-corporation-gaap-nii-of-037-beats-by-001-tii-of-139m-misses-by-053m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 00:23:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BCP Investment Corporation GAAP NII of $0.37 beats by $0.01, TII of $13.9M misses by $0.53M"
+    },
+    {
+     "title": "硕贝德：截至11月10日最新股东户数5.88万户，较上期增加4.59%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929373449.html",
+     "pubDate": "Thu, 12 Nov 2026 13:22:23 +0800",
+     "summary": "硕贝德 最新披露数据显示，截至11月10日公司股东户数为5.88万户，较上期(2026年10月30日) 增加2581户，增幅为4.59% 。户均持有流通股数量 由上期的7836股下降至7491股， 户均持股金额 由上期的10.67万元增加至11.96万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "硕贝德：截至11月10日最新股东户数5.88万户，较上期增加4.59%"
+    },
+    {
+     "title": "科士达：截至11月10日最新股东户数5.40万户，较上期增加1.89%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929373238.html",
+     "pubDate": "Thu, 12 Nov 2026 13:21:28 +0800",
+     "summary": "科士达 最新披露数据显示，截至11月10日公司股东户数为5.40万户，较上期(2026年10月20日) 增加1000户，增幅为1.89% 。户均持有流通股数量 由上期的1.07万股下降至1.05万股， 户均持股金额 由上期的30.94万元减少至28.54万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
+     "source": "东方财富股票",
+     "zh": "科士达：截至11月10日最新股东户数5.40万户，较上期增加1.89%"
+    },
+    {
+     "title": "Exxon signs non-binding MoU to evaluate seven oil blocks in Venezuela: Reuters",
+     "link": "https://seekingalpha.com/news/4671108-exxon-signs-non-binding-mou-to-evaluate-seven-oil-blocks-in-venezuela-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 00:21:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Exxon signs non-binding MoU to evaluate seven oil blocks in Venezuela: Reuters"
+    },
+    {
+     "title": "Medexus Pharmaceuticals reports Q2 results",
+     "link": "https://seekingalpha.com/news/4671109-medexus-pharmaceuticals-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 00:19:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Medexus Pharmaceuticals reports Q2 results"
+    },
+    {
+     "title": "鹏飞绿能：截至11月10日最新股东户数3.62万户，较上期增加0.56%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929370969.html",
+     "pubDate": "Thu, 12 Nov 2026 13:19:25 +0800",
+     "summary": "鹏飞绿能 最新披露数据显示，截至11月10日公司股东户数为3.62万户，较上期(2026年10月30日) 增加200户，增幅为0.56% 。户均持有流通股数量 由上期的3.64万股下降至3.62万股， 户均持股金额 由上期的8.23万元增加至8.44万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "鹏飞绿能：截至11月10日最新股东户数3.62万户，较上期增加0.56%"
+    },
+    {
+     "title": "慈文传媒：截至11月10日最新股东户数7.60万户，较上期减少6.61%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929370176.html",
+     "pubDate": "Thu, 12 Nov 2026 13:18:25 +0800",
+     "summary": "慈文传媒 最新披露数据显示，截至11月10日公司股东户数为7.60万户，较上期(2026年10月30日) 减少5382户，降幅为6.61% 。户均持有流通股数量 由上期的5819股上升至6231股， 户均持股金额 由上期的4.70万元增加至5.81万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
+     "source": "东方财富股票",
+     "zh": "慈文传媒：截至11月10日最新股东户数7.60万户，较上期减少6.61%"
+    },
+    {
+     "title": "上海莱士：截至11月10日最新股东户数11.59万户，较上期减少1.02%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929368943.html",
+     "pubDate": "Thu, 12 Nov 2026 13:17:27 +0800",
+     "summary": "上海莱士 最新披露数据显示，截至11月10日公司股东户数为11.59万户，较上期(2026年10月20日) 减少1192户，降幅为1.02% 。户均持有流通股数量 由上期的5.63万股上升至5.69万股， 户均持股金额 由上期的27.46万元增加至27.80万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不",
+     "source": "东方财富股票",
+     "zh": "上海莱士：截至11月10日最新股东户数11.59万户，较上期减少1.02%"
+    },
+    {
+     "title": "创业板指跌逾1% 早盘一度涨近2%",
+     "link": "http://stock.eastmoney.com/news/1407,202611123929371721.html",
+     "pubDate": "Thu, 12 Nov 2026 13:17:16 +0800",
+     "summary": "指数走弱，创业板指下挫跌逾1%，沪指跌0.21%，深成指跌0.68%。 贵金属 、短剧、游戏、 机器人 、 煤炭 等方向跌幅居前，沪深京三市下跌个股近3900只。",
+     "source": "东方财富股票",
+     "zh": "创业板指跌逾1% 早盘一度涨近2%"
+    },
+    {
      "title": "Tecogen GAAP EPS of -$0.05 beats by $0.01, revenue of $7.87M beats by $1.46M",
      "link": "https://seekingalpha.com/news/4671104-tecogen-gaap-eps-of-0_05-beats-by-0_01-revenue-of-7_87m-beats-by-1_46m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 12 Nov 2026 00:05:41 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tecogen GAAP EPS of -$0.05 beats by $0.01, revenue of $7.87M beats by $1.46M"
+    },
+    {
+     "title": "Growth investing or gambling?",
+     "link": "https://www.ft.com/content/92eb0eca-aee8-45af-b336-7a9a20da0a64?syn-25a6b1a6=1",
+     "pubDate": "Thu, 12 Nov 2026 05:00:12 GMT",
+     "summary": "The current extreme risk-taking in equity markets might present a once-in-a-career investment opportunity",
+     "source": "Financial Times",
+     "zh": "Growth investing or gambling?"
     },
     {
      "title": "Thursday’s Economic Calendar",
@@ -2282,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "H.B. Fuller unveils seven site closures, targets $75M in long-term savings"
     },
     {
-     "title": "Chip rivals AMD, Broadcom rally as Nvidia board weighs ousting CEO Jensen Huang",
-     "link": "https://seekingalpha.com/news/4671101-chip-rivals-amd-broadcom-rally-as-nvidia-board-weighs-ousting-ceo-jensen-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 23:46:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Chip rivals AMD, Broadcom rally as Nvidia board weighs ousting CEO Jensen Huang"
-    },
-    {
      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
      "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
      "pubDate": "Thu, 12 Nov 2026 04:41:00 GMT",
@@ -2306,12 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "从“鼓吹降息”到“加息50基点”？起底美联储“变脸王”沃勒！"
     },
     {
-     "title": "Elon Musk says it would be an ‘honor’ to hire Nvidia’s Jensen Huang",
-     "link": "https://seekingalpha.com/news/4671098-elon-musk-says-it-would-be-an-honor-to-hire-nvidia-s-jensen-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 23:28:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Elon Musk says it would be an ‘honor’ to hire Nvidia’s Jensen Huang"
+     "title": "4500亿搏杀！A50突然异动！",
+     "link": "http://finance.eastmoney.com/news/1344,202611123929354834.html",
+     "pubDate": "Thu, 12 Nov 2026 12:37:50 +0800",
+     "summary": "流动性和叙事逻辑一个都不能少！ 今日早盘，A50突然直线拉升，涨幅一度超过1%。与此同时，A股 半导体 集体拉升（GPU表现尤其突出）， 寒武纪 、燧原科技、 盛合晶微 、盛科 通信 涨超10%， 通富微电 一度涨停。芯片板块上午成交量突破4500亿元。 AI应用 也大涨， 鸿博股份 涨停， 蓝色光标 、 易点天下 、 福石控股 、 利欧股份 、 汉得信息 等跟涨。 电子 元件 板块持续走高， 景旺电子 、 博敏电子 涨停， 奥士康 、 东山精密 、 沪电股份 、 生益电子 纷纷上扬。 分析人士认为，市场主要有两大变量助力： 一是流动性。据研究机构统计，本轮机构暴露20日累计收益首次回正，出现",
+     "source": "东方财富资讯",
+     "zh": "4500亿搏杀！A50突然异动！"
     },
     {
      "title": "高盛预计明年涨价122%！融资客抢筹HBM概念股",
@@ -2336,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "平头哥独立上市的申请助推国产算力高景气。 阿里平头哥拟IPO 11月10日晚， 阿里巴巴 集团发布公告称，已向香港联交所提交分拆旗下全资子公司平头哥独立上市的申请。待上市完成后，预计平头哥仍将是 阿里巴巴 子公司。 公告显示，今年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。 据券商中国报道，截至目前，国内拥有算力、存储、网络全栈 数据中心 芯片自研能力的厂商，主要为华为与平头哥。 在单芯片层面，平头哥已推出真武系列 AI芯片 、倚天系列 CPU、ICN互联芯片、磐脉智能网卡和镇岳存储主控芯片，性能均处于第一梯队。此外，平头",
      "source": "东方财富资讯",
      "zh": "阿里平头哥冲刺IPO！A股“朋友圈”来了 黑马抢先爆发（附名单）"
-    },
-    {
-     "title": "Nvidia working with outside firm to identify CEO candidates: report",
-     "link": "https://seekingalpha.com/news/4671097-nvidia-working-with-outside-firm-to-identify-ceo-candidates-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 23:12:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia working with outside firm to identify CEO candidates: report"
     },
     {
      "title": "证监会副主席刘浩凌：中国政府高度重视资本市场平稳健康发展 中国资产的安全、韧性和创新价值将持续凸显",
@@ -2418,14 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "586GW变199GW：美国三分之二的AI数据中心计划只是PPT？"
     },
     {
-     "title": "科创50指数上涨2.35% 水产概念、科技股走强 两市半日放量超2900亿",
-     "link": "http://finance.eastmoney.com/news/1345,202611123929335769.html",
-     "pubDate": "Thu, 12 Nov 2026 11:30:52 +0800",
-     "summary": "A股三大指数小幅上涨，科创50指数涨逾2%。盘面上， 水产概念 、 光刻机 、 高带宽内存 、 地面兵装、燃气、 氦气概念 涨幅居前， 贵金属 、 PLC概念 、 影视院线 、 AI语料 、 电子竞技 、 出版 表现不佳，领跌市场。 截至午间收盘，沪指上涨0.20%，报3688.05点；深成指上涨0.06%，报11396.86点；创业板指上涨0.06%，报2573.52点；科创50指数上涨2.35%，报1330.95点；北证50指数上涨0.09%，报924.10点。全市场上涨个股有2348家，下跌个股有2997家，46只股涨停。两市半日合计成交12215亿。 今日要闻 被曝新婚外情？黄仁勋据悉",
-     "source": "东方财富资讯",
-     "zh": "科创50指数上涨2.35% 水产概念、科技股走强 两市半日放量超2900亿"
-    },
-    {
      "title": "Elon Musk says it would be an &apos;honor&apos; to hire Nvidia&apos;s Jensen Huang",
      "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
      "pubDate": "Thu, 12 Nov 2026 03:25:05 GMT",
@@ -2440,62 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "过去这个秋天，做空白银的交易者大赚特赚。 从10月初到美国中期选举前，白银价格一路下泄，一度短暂跌破50美元/盎司。The Market Ear将这段行情称之为 \"白银血洗：从FOMO到彻底恐慌\" 。这个价位，较1月29日创下的历史高点121.67美元，累计跌幅超过55%。 然后，中期选举结果改变了走向。11月3日至9日，白银价格反弹约6%。 高盛大宗商品策略师Robert Quinn在最新报告中对白银的走势进行了复盘。根据美国商品期货交易委员会（CFTC）的持仓报告（COT），非交易商在10月6日至11月3日期间 每周持续净卖出，累计净卖出规模达23亿美元 。 从交易结构看， 本轮仓位下降主",
      "source": "华尔街见闻",
      "zh": "净多头处于两年极低水平，白银逼空行情或已悄然启动"
-    },
-    {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 03:15:00 GMT",
-     "summary": "There is already a demographic ‘run’ on Social Security.",
-     "source": "MarketWatch",
-     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
-    },
-    {
-     "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-     "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 03:10:00 GMT",
-     "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-     "source": "MarketWatch",
-     "zh": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’"
-    },
-    {
-     "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
-     "link": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-     "pubDate": "Thu, 12 Nov 2026 03:02:03 GMT",
-     "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
-     "source": "CNBC",
-     "zh": "What we know so far about Nvidia partner Megaspeed’s Asia footprint"
-    },
-    {
-     "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 02:52:00 GMT",
-     "summary": "Nvidia’s board of directors reportedly met late Wednesday to determine the CEO’s fate.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang"
-    },
-    {
-     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 02:45:00 GMT",
-     "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-     "source": "MarketWatch",
-     "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
-    },
-    {
-     "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-     "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 02:31:00 GMT",
-     "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
-     "source": "MarketWatch",
-     "zh": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?"
-    },
-    {
-     "title": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分",
-     "link": "https://wallstreetcn.com/articles/3785777",
-     "pubDate": "Thu, 12 Nov 2026 09:59:57 +0800",
-     "summary": "OpenAI首席执行官在三星高管闭门会议上罕见坦承AI基础设施需求存在重复计算，并提出与三星联合开发下一代AI终端设备。 据韩国《金融新闻》报道，Sam Altman在上月底赴韩访问期间，向三星集团旗下约50名事业部社长级高管发出警告： AI内存及数据中心需求在短期内可能出现波动， 市场上存在需求重复计算的情况。 与此同时，奥特曼在同一场合向三星抛出合作橄榄枝， 表示希望与三星共同开发下一代AI终端设备 ，目标直指\"后智能手机\"时代，被外界解读为OpenAI意图联合三星对抗苹果生态主导地位的战略布局。 短期需求存在泡沫风险 Altman在回应三星高管关于AI及内存需求未来5至10年是否会饱和或",
-     "source": "华尔街见闻",
-     "zh": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分"
     }
    ]
   },

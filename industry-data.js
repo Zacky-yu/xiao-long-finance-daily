@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 11:11:53",
+ "generated_at": "2026/11/12 11:28:24",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+     "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+     "pubDate": "Thu, 12 Nov 2026 03:13:10 +0000",
+     "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+     "source": "TechCrunch AI",
+     "zh": "Who could replace Jensen Huang? A highly unscientific list of possible successors"
+    },
     {
      "title": "Gilbert + Tobin rethinks the business of law with AI",
      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -72,14 +80,6 @@ window.INDUSTRY_DATA = {
      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
      "source": "TechCrunch AI",
      "zh": "Meta is losing its longtime head of  infrastructure"
-    },
-    {
-     "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-     "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-     "pubDate": "Wed, 11 Nov 2026 20:02:14 +0000",
-     "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
-     "source": "TechCrunch AI",
-     "zh": "How backlash and red tape continue to slow data centers post-Blue Wave"
     },
     {
      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
@@ -1114,12 +1114,12 @@ window.INDUSTRY_DATA = {
      "zh": "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets"
     },
     {
-     "title": "How Hims plans to revive its business after pivoting to branded GLP-1s",
+     "title": "How Hims plans to reinvigorate its business",
      "link": "https://endpoints.news/how-hims-plans-to-revive-its-business-after-pivoting-to-branded-glp-1s/",
      "pubDate": "Wed, 11 Nov 2026 20:20:26 +0000",
      "summary": "Hims & Hers, once obsessed with delivering \"personalized care\" through compounded drug products, is now banking on brand-name treatments and the pharmaceutical giants it previously tried to undercut. Hims struck a deal with Eli Lilly ...",
      "source": "Endpoints News",
-     "zh": "How Hims plans to revive its business after pivoting to branded GLP-1s"
+     "zh": "How Hims plans to reinvigorate its business"
     },
     {
      "title": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad",
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+     "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+     "pubDate": "Thu, 12 Nov 2026 00:41:35 +0000",
+     "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretati",
+     "source": "NASA",
+     "zh": "Curiosity Blog, Sols 5063-5069 Rocks and Chips"
+    },
+    {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
@@ -1370,6 +1378,22 @@ window.INDUSTRY_DATA = {
      "zh": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push"
     },
     {
+     "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+     "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+     "pubDate": "Wed, 11 Nov 2026 05:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w",
+     "source": "NASA",
+     "zh": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact"
+    },
+    {
+     "title": "Water Surges Into Navajo Reservoir",
+     "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+     "pubDate": "Wed, 11 Nov 2026 05:01:00 +0000",
+     "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+     "source": "NASA",
+     "zh": "Water Surges Into Navajo Reservoir"
+    },
+    {
      "title": "Isaacman lays out SLS path to the 2030s",
      "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
      "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
@@ -1378,12 +1402,36 @@ window.INDUSTRY_DATA = {
      "zh": "Isaacman lays out SLS path to the 2030s"
     },
     {
+     "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+     "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+     "pubDate": "Tue, 10 Nov 2026 19:22:45 +0000",
+     "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecra",
+     "source": "NASA",
+     "zh": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities"
+    },
+    {
      "title": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave",
      "link": "https://payloadspace.com/rep-mike-haridopolos-on-nasas-future-after-the-blue-wave/",
      "pubDate": "Tue, 10 Nov 2026 18:45:00 +0000",
      "summary": "Rep. Mike Haridopolos survived the Blue Wave—and he’s optimistic bipartisan support for NASA’s Artemis program means the program will survive the political upheaval on Capitol Hill as well. The post Rep. Mike Haridopolos on NASA’s Future After the Blue Wave appeared first on Payload .",
      "source": "Payload",
      "zh": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave"
+    },
+    {
+     "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+     "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+     "pubDate": "Tue, 10 Nov 2026 18:06:33 +0000",
+     "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot",
+     "source": "NASA",
+     "zh": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston"
+    },
+    {
+     "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+     "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+     "pubDate": "Tue, 10 Nov 2026 16:00:26 +0000",
+     "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — w",
+     "source": "NASA",
+     "zh": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds"
     },
     {
      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
@@ -1488,46 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "Liftoff from pad 4E at Vandenberg Space Force Base occurred at 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
      "source": "Spaceflight Now",
      "zh": "Falcon 9 launches from California on classified mission for U.S. Space Force"
-    },
-    {
-     "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
-     "link": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
-     "pubDate": "Fri, 06 Nov 2026 21:19:28 +0000",
-     "summary": "Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property… The post Stoke Space evaluating expansion of Cape site for second Nova pad appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Stoke Space evaluating expansion of Cape site for second Nova pad"
-    },
-    {
-     "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
-     "pubDate": "Fri, 06 Nov 2026 15:31:51 +0000",
-     "summary": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch… The post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15, a dual catch attempt, awaits FAA green light"
-    },
-    {
-     "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
-     "link": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
-     "pubDate": "Thu, 05 Nov 2026 22:34:58 +0000",
-     "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
-     "source": "Spaceflight Now",
-     "zh": "Blue Origin reveals new kick stage, engines for its New Glenn rockets"
-    },
-    {
-     "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
-     "link": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
-     "pubDate": "Thu, 05 Nov 2026 22:30:36 +0000",
-     "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
-     "source": "Spaceflight Now",
-     "zh": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array"
-    },
-    {
-     "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
-     "link": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
-     "pubDate": "Thu, 05 Nov 2026 22:28:40 +0000",
-     "summary": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
-     "source": "Spaceflight Now",
-     "zh": "Spacewalkers complete five-year effort to upgrade space station power supply"
     }
    ]
   },
@@ -1762,20 +1770,124 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "中央国家机关台式机集采大单落地：2680 台总金额 1309.6 万元，清一色国产操作系统",
+     "link": "https://www.ithome.com/1/025/914.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:23:58 GMT",
+     "summary": "IT之家 11 月 12 日消息，中央国家机关 2026 年台式计算机批量集中采购项目-11 月中标公告于 11 月 11 日发布， 2,680 台设备总金额 1,309.6 万元，清一色国产操作系统 。 IT之家从中标公告了解到，紫光、联硕合计拿下超七成份额， 所有中标机型均支持麒麟、统信 UOS、中科方德等国产操作系统 。 紫光计算机以 668.73 万元中标金额位居第一，中标第五标包 1357 台，响应产品为紫光 UNIS D3830 G3s 0775，裸机单价 4928 元。 联硕电脑（重庆）以 327.63 万元位列第二，中标第三标包 670 台，响应产品为联硕弘道 DZ700MR-",
+     "source": "IT之家",
+     "zh": "中央国家机关台式机集采大单落地：2680 台总金额 1309.6 万元，清一色国产操作系统"
+    },
+    {
+     "title": "雷蛇发布《崩坏：星穹铁道》银狼 LV.999 联名外设四件套",
+     "link": "https://www.ithome.com/1/025/913.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:20:08 GMT",
+     "summary": "IT之家 11 月 12 日消息，Razer（雷蛇）当地时间昨日宣布携手米哈游推出 《崩坏：星穹铁道》银狼 LV.999 联名外设四件套 。该系列产品展现了这位“无敌玩家”的天才黑客风格，融合她独特审美和竞技精神。 此次联名产品包括风神 V2 X NewGen 座椅、黑寡妇蜘蛛 V4 竞技极速版键盘、毒蝰 V3 专业版 SE 鼠标、旋风黑鲨 V3 X 极速版耳麦，所有实体硬件产品均附带游戏内虚拟权益。",
+     "source": "IT之家",
+     "zh": "雷蛇发布《崩坏：星穹铁道》银狼 LV.999 联名外设四件套"
+    },
+    {
+     "title": "华灿光电2026年定增9.98亿，京东方只掏三成",
+     "link": "https://www.huxiu.com/article/4904954.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 11:20:02 +0800",
+     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 华灿光电这次定向增发，最多只能发97,939,156股，方案正处于监管问询后的审核阶段。 公司对外说的募资额是不超过9.98亿元，由控股股东京东方全额认购，全部用来补充流动资金。 两个数一除，每股正好十块一毛九。募资上限是按这个价格发满股数才拿得到的钱。而这个价格，今年7月已经从方案里拿掉了。 公开报道里常见的说法是京东方全额认购近十亿元。但是募集说明书里写的是「不超过」，而这三个字眼下分量不轻。 方案在上半年过了股东会，三季度末获深交所受理，随后收到交易所的监管问询函（审核函〔2026〕020095号）。11月10日，公司披露了问询回",
+     "source": "虎嗅",
+     "zh": "华灿光电2026年定增9.98亿，京东方只掏三成"
+    },
+    {
+     "title": "詹森黄和詹森不等式",
+     "link": "https://www.huxiu.com/article/4904957.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 11:19:58 +0800",
+     "summary": "本文来自微信公众号： 肖小跑 ，作者：肖小跑 01 黄教主的瓜出现时，我正在为一个模型找方法，抓耳挠腮地试图理解“詹森不等式”（Jensen’s inequality）。瓜和这件事本来一点关系都没有，但看新闻时，这两件事突然出现了奇妙的化学反应：因为黄教主的英文名就是Jensen。 这个梗太冷了。其实不只是名字一样，还因为詹森不等式和詹森本人，都很好地诠释了一句叫做“屋漏偏逢连夜雨”的老话。 詹森黄老师这次站不稳了，原来在他身上成立那东西，可能不成立了，现在所有新闻都像在他脸上画出各种不等号。婚外情（2个）、WSJ报董事会准备罢免、盘后重挫8%（过去10天已经累计跌去了23%）、国会准备向其发",
+     "source": "虎嗅",
+     "zh": "詹森黄和詹森不等式"
+    },
+    {
+     "title": "被折叠的芯片资产：阿里分拆平头哥的逻辑与悬念",
+     "link": "https://www.tmtpost.com/8202083.html",
+     "pubDate": "Thu, 12 Nov 2026 11:19:00 +0800",
+     "summary": "在百度（09888.HK）宣布分拆昆仑芯赴港上市时，就有传闻阿里巴巴（09988.HK）也有意分拆全资半导体芯片业务主体平头哥上市。",
+     "source": "钛媒体",
+     "zh": "被折叠的芯片资产：阿里分拆平头哥的逻辑与悬念"
+    },
+    {
+     "title": "长城首款 V8 混动超跑官宣：明年上市，魏建军称其对标法拉利 SF90",
+     "link": "https://www.ithome.com/1/025/912.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:18:52 GMT",
+     "summary": "IT之家 11 月 12 日消息，长城汽车董事长魏建军正式公布了长城首台超跑。魏建军表示，这款超级跑车的对标目标是法拉利，同时放出了新车与法拉利 SF90 的对比测试视频。 据魏建军介绍，新车预计于 2026 年年底正式亮相，2027 年上市。 魏建军表示，该车搭载的是国内首款自主研发的 4.0L 双涡轮增压 V8 发动机，并与 PHEV 插混系统结合。 这台 V8 发动机的技术细节在 2026 年北京车展期间已部分公开。长城为超跑与 GT3 赛车同步开发的 GF 高性能架构中，4.0T V8 采用 90 度 V 角与 HOT V 型双涡轮布局，配备了赛道级电控软件和干式润滑系统。与之匹配的是",
+     "source": "IT之家",
+     "zh": "长城首款 V8 混动超跑官宣：明年上市，魏建军称其对标法拉利 SF90"
+    },
+    {
+     "title": "波兰仓配布局后，亚马逊欧洲站广告CPA涨了40%，是仓储半径问题还是投放结构问题？",
+     "link": "https://www.baijing.cn/question/638676",
+     "pubDate": "Thu, 12 Nov 2026 03:18:37 +0000",
+     "summary": "去年Q4把欧洲站的仓储从德国FBA拆了一部分到波兰，想着覆盖中东欧订单、压一压配送时长，结果今年1月到3月站内Sponsored Products的CPA从9.2欧涨到13欧左右，ACOS从18%拉到26%，月广告预算大概1.5万欧，团队5个人，做的是家用小电器，客单价45欧上下。波兰仓发货的SKU时效确实快了一天，但转化率没起来，反而德国、法国的老链接曝光掉了。已经试过把预算往老仓SKU倾斜、砍掉低效长尾词，CPA只回到12欧附近就卡住了，再降就得动竞价，单量又保不住。现在拿不准是波兰仓覆盖的站点流量质量本身差，还是仓储拆分后Listing的配送时效展示和Buy Box权重被稀释了，想直接问",
+     "source": "白鲸出海",
+     "zh": "波兰仓配布局后，亚马逊欧洲站广告CPA涨了40%，是仓储半径问题还是投放结构问题？"
+    },
+    {
+     "title": "看似谁都没错的系统，带来最深的无力感",
+     "link": "https://www.huxiu.com/article/4904955.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 11:16:57 +0800",
+     "summary": "本文来自微信公众号： 散人懂四六 ，作者：飞哥爱思考 编者按 房地产金融，是飞哥的专业。什么是好的社区，在他的标准里自带人文视角。 这篇文章，让我想起多年前在大厂做O2O投资的时，对外卖业务的商业模型所做的测算和猜测。 结论当然是能跑通。如今我意识到，有许多成本我们都没有算进去，因为那些成本，在当时甚至还没出现。 然而，成本一旦出现，不会凭空消失，只是会转移。 飞哥文中，没有人过得容易。外卖员需要赶时间以谋口饭吃，居民们希望能在小区里安全地走路，店主好不容易有个能赚钱的营生不肯改业态，社区工作人员要安抚居民以应对12345的核查。 那么问题来了，这些成本到底该谁承担呢？文章的高潮出现在1234",
+     "source": "虎嗅",
+     "zh": "看似谁都没错的系统，带来最深的无力感"
+    },
+    {
+     "title": "华发“开卖”豪华酒店资产？第一笔就是2......",
+     "link": "https://www.tmtpost.com/8202060.html",
+     "pubDate": "Thu, 12 Nov 2026 11:15:00 +0800",
+     "summary": "国企酒店的尴尬。",
+     "source": "钛媒体",
+     "zh": "华发“开卖”豪华酒店资产？第一笔就是2......"
+    },
+    {
+     "title": "盖世小鸡 G7 Pro 手柄迈阿密风情双色国行发售，到手价 449 元",
+     "link": "https://www.ithome.com/1/025/910.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:12:35 GMT",
+     "summary": "IT之家 11 月 12 日消息，盖世小鸡 (GameSir) 现已在中国大陆电商平台销售 XBOX 授权手柄控制器天王星 G7 Pro 的全新日落大道 / 海洋微风配色。这两个版本 均以美国佛罗里达州城市迈阿密为设计灵感来源 ，到手价 449 元。 日落大道款定格黄昏公路的浪漫 ，拥有深蓝摇杆帽、蓝透 D-Pad 键帽、落日黄 ABXY 键帽，充电底座为半透黄粉渐变； 海洋微风款则展现了白日海滩的风情 ，拥有薄荷绿摇杆帽、粉透 D-Pad 键帽、浅粉 ABXY 键帽，充电底座为半透蓝粉渐变。 天王星 G7 Pro 手柄配备 TMR 摇杆、霍尔 / 微动双切扳机、光学微动 ABXY、微动 D-",
+     "source": "IT之家",
+     "zh": "盖世小鸡 G7 Pro 手柄迈阿密风情双色国行发售，到手价 449 元"
+    },
+    {
+     "title": "苹果更新 1.13 版邀请 App：聚会主题、菜单可让宾客投票决定",
+     "link": "https://www.ithome.com/1/025/909.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:09:29 GMT",
+     "summary": "IT之家 11 月 12 日消息，科技媒体 9to5Mac 昨日（11 月 11 日）发布博文，报道称苹果更新邀请（Apple Invites）应用， 在最新 1.13 版本中新增宾客投票和表情符号特效两项功能。 本次更新最大的亮点是宾客投票功能，组织者可以直接在邀请函中设置投票，请宾客参与决定活动细节。例如，聚会采用什么主题、菜单如何安排，都可以交由受邀者表达意见。 另一项更新是表情符号特效。组织者可以添加符合活动氛围的表情符号，让其在邀请函上飘动，从而丰富邀请函的视觉呈现，为不同主题的聚会增添个性化元素。IT之家附上相关截图如下：",
+     "source": "IT之家",
+     "zh": "苹果更新 1.13 版邀请 App：聚会主题、菜单可让宾客投票决定"
+    },
+    {
+     "title": "年内最后一批储蓄国债“秒光”，低利差下为何仍遭抢购？",
+     "link": "https://www.huxiu.com/article/4904951.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 11:09:09 +0800",
+     "summary": "本文来自微信公众号： 经济观察网 ，作者：刘轩宇 存款利率回升、利差几乎抹平，年内最后一批储蓄国债仍然开售即“秒光”。 11月10日8时30分，2026年第九期、第十期储蓄国债（电子式）正式开售，这也是今年最后一批储蓄国债。开售仅数分钟，多家银行APP的渠道额度即告售罄。 虽然储蓄国债历来都会被抢购，但值得注意的是，这几个月随着大额存单的回归，银行定存利率已悄然回升，储蓄国债与存款之间的利差已相差无几。即便如此，开售即“秒光”的情形仍再度上演。 收官批次开售即罄，储蓄国债热度延续 本次发行的两期储蓄国债均为固定利率、固定期限品种：第九期期限3年，票面年利率1.63%，最大发行额249.04亿元",
+     "source": "虎嗅",
+     "zh": "年内最后一批储蓄国债“秒光”，低利差下为何仍遭抢购？"
+    },
+    {
+     "title": "IDC：2026 年 Q3 中国平板电脑出货 660 万台同比下滑 22.3% 创疫情来最大跌幅，华为苹果联想小米荣耀位列前五",
+     "link": "https://www.ithome.com/1/025/907.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:08:40 GMT",
+     "summary": "IT之家 11 月 12 日消息，IDC 最新数据显示，2026 年第三季度中国平板电脑市场出货量为 660 万台，同比下降 22.3%，成本压力加速向需求端传导，市场调整幅度进一步扩大。 IDC 表示，Q3 消费市场受涨价影响持续收缩，商用市场则在需求前置后逐步回归常态，厂商竞争及市场需求结构也随之发生变化。 IDC 指出，伴随成本上涨压力充分向销售端传导，市场出货量降幅较上半年显著扩大，单季度出货量在连续 12 个季度后 首次低于 700 万台 ，降幅也创下 2020 年第一季度新冠疫情以来的最大值，市场首次迎来同比双位数下滑。 从市场表现来看，第三季度有三个值得关注的变化：一是消费与商用",
+     "source": "IT之家",
+     "zh": "IDC：2026 年 Q3 中国平板电脑出货 660 万台同比下滑 22.3% 创疫情来最大跌幅，华为苹果联想小米荣耀位列前五"
+    },
+    {
+     "title": "血战威士忌，百润股份再投10亿买桶",
+     "link": "https://www.tmtpost.com/8201940.html",
+     "pubDate": "Thu, 12 Nov 2026 11:07:00 +0800",
+     "summary": "鸡尾酒见顶，豪赌威士忌。",
+     "source": "钛媒体",
+     "zh": "血战威士忌，百润股份再投10亿买桶"
+    },
+    {
      "title": "孟加拉COD回款要压45天，达卡以外订单物流覆盖怎么算得过账？",
      "link": "https://www.baijing.cn/question/638675",
      "pubDate": "Thu, 12 Nov 2026 03:05:21 +0000",
      "summary": "我们在孟加拉做3C配件独立站，起量阶段，日均180单左右，团队6个人。现在达卡市区走本地快递2-3天能签收，但吉大港、锡尔赫特这些二线城市覆盖率明显掉，达卡以外订单占比到35%后，COD签收率从78%掉到61%，回款周期被拉长到平均45天，现金流压得很紧。已经试过换两家本地COD服务商、把偏远地区改成预付打折，但预付转化率只有9%。现在卡在要不要为了覆盖率去铺二线城市的自提点，还是干脆把达卡以外订单收缩。想直接问：孟加拉COD模式下，达卡以外的物流覆盖和回款周期，你们是按什么标准判断该扩还是该收的？",
      "source": "白鲸出海",
      "zh": "孟加拉COD回款要压45天，达卡以外订单物流覆盖怎么算得过账？"
-    },
-    {
-     "title": "特努斯掌舵以来涨幅 9.38%：苹果股价再创新高站上 355 美元，市值超英伟达约 1 万亿美元",
-     "link": "https://www.ithome.com/1/025/906.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:02:27 GMT",
-     "summary": "IT之家 11 月 12 日消息， 在美国当地时间 11 月 4 日刷新历史最高收盘价后 ，苹果公司股价高歌猛进，在当地时间 11 月 11 日收盘（对应北京时间 11 月 12 日凌晨 5 点）后， 苹果公司股价再次创造历史，收盘价为 355.63 美元（IT之家注：现汇率约合 2,378 元人民币），市值为 5.17 万亿。 苹果公司昨日美股收盘价格为 355.63 美元 （现汇率约合 2,378 元人民币） ，上涨 7.12 美元 （现汇率约合 47.6 元人民币） ，涨幅为 2.04%；盘后（北京时间凌晨 5 点到 9 点）股价为 356.13 美元 （现汇率约合 2,381 元人民币",
-     "source": "IT之家",
-     "zh": "特努斯掌舵以来涨幅 9.38%：苹果股价再创新高站上 355 美元，市值超英伟达约 1 万亿美元"
     },
     {
      "title": "破产转行搞芯片的房企，又准备把酒店交给华住？",
@@ -1810,36 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI超创倒是不用投流，他们赚到钱了吗？"
     },
     {
-     "title": "思特威推出安防应用 5MP CMOS 图像传感器 SC538HAI / SC536HAI，支持全时录像",
-     "link": "https://www.ithome.com/1/025/905.htm",
-     "pubDate": "Thu, 12 Nov 2026 02:56:33 GMT",
-     "summary": "IT之家 11 月 12 日消息， 思特威今天宣布推出两款面向智能安防应用的 5MP 高分辨率 CMOS 图像传感器：SC538HAI 和 SC536HAI。新品基于 SmartClarity -3 工艺技术打造，兼具低功耗、低噪声、高动态范围等特性并支持全时录像（AOV）功能，满足安防设备的全天候运行需求。 据介绍，SC538HAI 和 SC536HAI 均搭载思特威升级 SmartAOV 2.1 技术，支持全时录像（AOV，Always-On Video）功能。以 SC538HAI 为例：当检测到事件发生时，SC538HAI 能够快速切换至 60fps 常规帧率进行实时录制；无事件发生时，",
-     "source": "IT之家",
-     "zh": "思特威推出安防应用 5MP CMOS 图像传感器 SC538HAI / SC536HAI，支持全时录像"
-    },
-    {
-     "title": "Qwen4 Max：代码、3D提升，审美略弱，追Fable5.2任重道远",
-     "link": "https://www.huxiu.com/article/4904947.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 10:56:27 +0800",
-     "summary": "本文来自微信公众号： 硅星人Pro ，作者：董道力，原文标题：《实测Qwen 4 Max：代码、3D提升，审美略弱，追Fable5.2任重道远》 Next Week了半天，Qwen4-Max-Preview终于落地了。随着预览版正式上线，一个悬念也跟着揭晓。前几天，Qoder放出一个叫「Qoduck」的匿名模型，其实就是Qwen4-Max-Preview。 Qwen没有披露具体参数规模、基准测试成绩和训练数据。只在官方公告中提到，这一代补强了底层的世界知识与多模态感知，也提升了Coding和Agentic能力。 结合此前的报道来看，Qwen4这次对底层模型架构进行改动，这套新架构究竟带来什么变",
-     "source": "虎嗅",
-     "zh": "Qwen4 Max：代码、3D提升，审美略弱，追Fable5.2任重道远"
-    },
-    {
      "title": "通威集团吞下天邦食品",
      "link": "https://www.tmtpost.com/8201946.html",
      "pubDate": "Thu, 12 Nov 2026 10:53:00 +0800",
      "summary": "斥资超14亿元参与重整。",
      "source": "钛媒体",
      "zh": "通威集团吞下天邦食品"
-    },
-    {
-     "title": "百度李彦宏发布大模型的交易所“词元所”：宣称中立、可信，给模型提供商打分",
-     "link": "https://www.ithome.com/1/025/903.htm",
-     "pubDate": "Thu, 12 Nov 2026 02:52:44 GMT",
-     "summary": "IT之家 11 月 12 日现场消息，在今日的百度世界大会 2026 活动中，百度创始人李彦宏宣布推出一个全新的大模型服务平台 —— 词元所 。 李彦宏表示，当一个开发者或者一家企业，真正想把模型用起来的时候，往往会发现模型越多，选择越困难。同一款模型有的贵，有的便宜，来源五花八门，质量参差不齐，选来选去就是不放心，不敢用。 词元所就是为了解决这个难题而生， 宣称是一个中立、可信的大模型交易平台 。李彦宏介绍称，这个交易所可以类比证券交易所。证券交易所吸引好的公司上市，让投资人发现和投资好的公司；词元所则是希望汇聚好的模型和模型提供商，让企业和个人能够便捷地找到购买和使用可信的模型。 IT之家",
-     "source": "IT之家",
-     "zh": "百度李彦宏发布大模型的交易所“词元所”：宣称中立、可信，给模型提供商打分"
     },
     {
      "title": "亚马逊波兰仓做欧洲泛欧布局，广告CPA涨到18欧还值得继续投吗？",
@@ -1850,68 +1938,12 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊波兰仓做欧洲泛欧布局，广告CPA涨到18欧还值得继续投吗？"
     },
     {
-     "title": "融资腰斩、IPO收窄：具身智能的冬天筛掉谁？",
-     "link": "https://www.tmtpost.com/8201689.html",
-     "pubDate": "Thu, 12 Nov 2026 10:50:54 +0800",
-     "summary": "泡沫破掉的时候，真正做事的人松了一口气。",
-     "source": "钛媒体",
-     "zh": "融资腰斩、IPO收窄：具身智能的冬天筛掉谁？"
-    },
-    {
-     "title": "盖茨再“吹哨”：AI猛于核武，人类别大难临头才醒",
-     "link": "https://www.tmtpost.com/8201134.html",
-     "pubDate": "Thu, 12 Nov 2026 10:47:07 +0800",
-     "summary": "盖茨再谈AI风险与人类未来。",
-     "source": "钛媒体",
-     "zh": "盖茨再“吹哨”：AI猛于核武，人类别大难临头才醒"
-    },
-    {
-     "title": "别把环节当产业：人形机器人数采的钱最后落在谁手里",
-     "link": "https://www.huxiu.com/article/4904938.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 10:47:00 +0800",
-     "summary": "本文来自微信公众号： 四生围 ，作者：四生围 十月底这几天，A股但凡跟“数据采集”沾边的票，集体起飞。福莱新材六天四个板，汉威科技、奥比中光、奥普特涨幅都过了30%。盘面一片红，“数采”两个字被标了个高价。但把这轮行情拆开看，结论跟直觉是拧着的：数采确实是门大生意，只是站在赚钱位置上的，未必是服务商。 这轮行情起来得快，逻辑倒算不上新鲜：只要有“缺口”两个字，资金就愿意先给个估值。数采的缺口是真的，可缺口的位置，和股价上涨的位置，未必对得上。 01·THE BRAIN 大脑的饥荒 人形机器人的硬件方案，这两年基本收敛了。电机、减速器、丝杠，各家参数咬得很紧，差距在肉眼可见地缩小。真正拉开身位的",
-     "source": "虎嗅",
-     "zh": "别把环节当产业：人形机器人数采的钱最后落在谁手里"
-    },
-    {
-     "title": "8元进校，88元陪逛：当大学参观成一门生意",
-     "link": "https://www.huxiu.com/article/4904941.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 10:46:44 +0800",
-     "summary": "本文来自微信公众号： 青年志Youthology ，编辑：oi，作者：oscar 39岁的老武坐在从机场开往南京大学的地铁上，问了豆包一个问题：南京大学能不能预约进校？ 按着AI的指点，他在南大公众号上找到工作日入校预约入口，填到一半停住了——需要校内人员审核，还要填校内人员的联系方式。他没有像第一次遇到这种情况时那样烦躁、手足无措。 每次出差顺路去当地有名的大学逛一逛，已经成了老武的习惯。“好不容易来一次”，他不想轻易放弃。此时他已经去过近30所极有历史感的高校校园。他熟练地打开闲鱼，搜索“南京大学”“入校”，很快弹出十几个链接。 看看地铁还有一个多小时，老武不急不忙地一一联系六七位卖家，最",
-     "source": "虎嗅",
-     "zh": "8元进校，88元陪逛：当大学参观成一门生意"
-    },
-    {
-     "title": "伦铝市场，遭遇历史性逼仓",
-     "link": "https://www.huxiu.com/article/4904940.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 10:46:17 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 伦敦金属交易所(LME)的铝市场目前正面临数十年来最严峻的逼仓局面——因为支撑合约的库存急剧下降，而剩余的大部分库存仅由两家交易商掌控。 周三，这一关键工业金属的现货价格飙升，较该交易所基准三个月期期货价格每吨高出147美元，创下逾30年来的最高水平。直到10月中旬，该价差还曾处于贴水状态，但随着LME仓库的铝库存暴跌至1990年以来的最低水平，该价差已呈螺旋式急剧上升。 这种被称为现货升水的现象，是自20世纪80年代末以来LME铝合约中最陡峭的一次——当年Marc Rich公司对市场进行逼仓，曾将现货与三个月期期货的价差推高至每吨1000美元以上。",
-     "source": "虎嗅",
-     "zh": "伦铝市场，遭遇历史性逼仓"
-    },
-    {
-     "title": "阿里平头哥递表港交所背后，云厂商押注芯片所为何？",
-     "link": "https://www.tmtpost.com/8201856.html",
-     "pubDate": "Thu, 12 Nov 2026 10:46:09 +0800",
-     "summary": "芯片这门生意，从设计到量产要烧掉的钱，远不是一句技术自主能够覆盖的。",
-     "source": "钛媒体",
-     "zh": "阿里平头哥递表港交所背后，云厂商押注芯片所为何？"
-    },
-    {
      "title": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)",
      "link": "https://www.techmeme.com/261111/p52#a261111p52",
      "pubDate": "Wed, 11 Nov 2026 21:45:00 -0500",
      "summary": "Semafor : Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting &nbsp; &mdash;&nbsp; Some members of Nvidia's board favor appointing Chief Financial Officer Colette Kress as interim CEO, accordi",
      "source": "Techmeme",
      "zh": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)"
-    },
-    {
-     "title": "玄铁发布高吞吐互联 IP XL-300：支持 8 核异步连接，数据位宽 256bit",
-     "link": "https://www.ithome.com/1/025/902.htm",
-     "pubDate": "Thu, 12 Nov 2026 02:42:16 GMT",
-     "summary": "IT之家 11 月 12 日消息，阿里巴巴达摩院旗下 RISC-V 品牌玄铁 (XuanTie) 近日发布了高吞吐缓存一致性互联 IP 设计 XL-300 。 XL-300 支持最多 8 个核心异步连接与 256bit 数据位宽，支持最大 32MB 可配 L3 Cache， 8 核并发线性度达到 90% 以上 ， 带宽上限相比前代 XL-200 提升约 1 倍 。其新增 Direct Memory Transfer 支持，绕过传统路径，突破大容量 L3 与高总线延迟带来的吞吐瓶颈。",
-     "source": "IT之家",
-     "zh": "玄铁发布高吞吐互联 IP XL-300：支持 8 核异步连接，数据位宽 256bit"
     },
     {
      "title": "巴西手游接入 Pix 后付费率涨了，但退款和坏账怎么算进备货模型？",
@@ -1922,12 +1954,12 @@ window.INDUSTRY_DATA = {
      "zh": "巴西手游接入 Pix 后付费率涨了，但退款和坏账怎么算进备货模型？"
     },
     {
-     "title": "年内三轮涨价后，消息称意法半导体酝酿 2027 年 1 月再提价",
-     "link": "https://www.ithome.com/1/025/901.htm",
-     "pubDate": "Thu, 12 Nov 2026 02:39:57 GMT",
-     "summary": "IT之家 11 月 12 日消息，集邦咨询（Trendforce）今天（11 月 12 日）发布博文， 报道称意法半导体（STMicroelectronics）计划 2027 年 1 月 1 日上调部分产品价格，该公司在 2026 年已发布 3 轮调价通知。 IT之家援引博文介绍，网络上流出一份来自意法半导体的调价函，计划明年开始上调部分产品价格，但目前尚不清楚具体涉及哪些产品，以及涨幅多大。 此次调价主要源于持续上升的运营及供应链成本。相关函件提到，2026 年以来，原材料、物流、人工及其他生产相关支出不断增加。公司表示，虽已采取提升效率、控制成本等措施，但仍需持续投入技术研发和制造能力建设",
-     "source": "IT之家",
-     "zh": "年内三轮涨价后，消息称意法半导体酝酿 2027 年 1 月再提价"
+     "title": "Lean Grimoire",
+     "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+     "pubDate": "Thu, 12 Nov 2026 02:36:48 +0000",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/ Comments URL: https://news.ycombinator.com/item?id=50462375 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Lean Grimoire"
     },
     {
      "title": "Letter: Sens. Elizabeth Warren and Chris Coons ask the Trump administration to preserve all documents tied to Nvidia&apos;s chip exports to China and Huang&apos;s affair (Wall Street Journal)",
@@ -1957,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Critical RCE Vulnerability in Apache HTTP Server",
      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
      "pubDate": "Thu, 12 Nov 2026 02:11:11 +0000",
-     "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 8 # Comments: 1",
+     "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 13 # Comments: 6",
      "source": "Hacker News",
      "zh": "Critical RCE Vulnerability in Apache HTTP Server"
     },
@@ -1976,30 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Sources: Megaspeed founder Alice Huang has returned to China; a source says she is currently living in Beijing with the knowledge of security officials &nbsp; &mdash;&nbsp; The suspected Chinese spy at the heart of a scandal that threatens to take down Nvidia Corp. Chief Executive Office",
      "source": "Techmeme",
      "zh": "Sources: Megaspeed founder Alice Huang has returned to China; a source says she is currently living in Beijing with the knowledge of security officials (Bloomberg)"
-    },
-    {
-     "title": "Roku says it will wind down sales of smart home hardware to focus on streaming, days after Fox closed its acquisition; it will keep supporting existing devices (Janko Roettgers/Lowpass)",
-     "link": "https://www.techmeme.com/261111/p49#a261111p49",
-     "pubDate": "Wed, 11 Nov 2026 19:45:01 -0500",
-     "summary": "Janko Roettgers / Lowpass : Roku says it will wind down sales of smart home hardware to focus on streaming, days after Fox closed its acquisition; it will keep supporting existing devices &nbsp; &mdash;&nbsp; No more cheap cameras and light bulbs &hellip; Roku is done with light bulbs and smart swit",
-     "source": "Techmeme",
-     "zh": "Roku says it will wind down sales of smart home hardware to focus on streaming, days after Fox closed its acquisition; it will keep supporting existing devices (Janko Roettgers/Lowpass)"
-    },
-    {
-     "title": "Source: Nvidia&apos;s board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)",
-     "link": "https://www.techmeme.com/261111/p48#a261111p48",
-     "pubDate": "Wed, 11 Nov 2026 19:15:00 -0500",
-     "summary": "Bloomberg : Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search &nbsp; &mdash;&nbsp; Nvidia Corp.'s board has been working with an outside firm to identify potential replacements for Chief Execu",
-     "source": "Techmeme",
-     "zh": "Source: Nvidia&apos;s board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)"
-    },
-    {
-     "title": "Sources: CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds&apos; yield (Jeannine Amodeo/Bloomberg)",
-     "link": "https://www.techmeme.com/261111/p47#a261111p47",
-     "pubDate": "Wed, 11 Nov 2026 18:50:01 -0500",
-     "summary": "Jeannine Amodeo / Bloomberg : Sources: CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds' yield &nbsp; &mdash;&nbsp; CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offeri",
-     "source": "Techmeme",
-     "zh": "Sources: CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds&apos; yield (Jeannine Amodeo/Bloomberg)"
     }
    ]
   },
@@ -2258,6 +2266,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "IDEX declares $0.73 dividend",
+     "link": "https://seekingalpha.com/news/4671087-idex-declares-0_73-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:22:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "IDEX declares $0.73 dividend"
+    },
+    {
+     "title": "Avista declares $0.4925 dividend",
+     "link": "https://seekingalpha.com/news/4671086-avista-declares-0_4925-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:22:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Avista declares $0.4925 dividend"
+    },
+    {
+     "title": "Corby Spirit and Wine Limited declares $0.25 dividend",
+     "link": "https://seekingalpha.com/news/4671085-corby-spirit-and-wine-limited-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:21:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Corby Spirit and Wine Limited declares $0.25 dividend"
+    },
+    {
+     "title": "Corby Spirit and Wine Limited declares CAD 0.25 dividend",
+     "link": "https://seekingalpha.com/news/4671084-corby-spirit-and-wine-limited-declares-cad-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:21:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Corby Spirit and Wine Limited declares CAD 0.25 dividend"
+    },
+    {
+     "title": "Kimberly-Clark declares $1.28 dividend",
+     "link": "https://seekingalpha.com/news/4671083-kimberly-clark-declares-1_28-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:19:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kimberly-Clark declares $1.28 dividend"
+    },
+    {
+     "title": "Vox Royalty Corp. declares CAD 0.015 dividend",
+     "link": "https://seekingalpha.com/news/4671082-vox-royalty-corp-declares-cad-0_015-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:19:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Vox Royalty Corp. declares CAD 0.015 dividend"
+    },
+    {
+     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 03:15:00 GMT",
+     "summary": "There is already a demographic ‘run’ on Social Security.",
+     "source": "MarketWatch",
+     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
+    },
+    {
+     "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+     "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 03:10:00 GMT",
+     "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+     "source": "MarketWatch",
+     "zh": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’"
+    },
+    {
      "title": "第十届西藏智库国际论坛：西藏5G通达率已居全国第一",
      "link": "http://www.eeo.com.cn/2026/1112/1090683.shtml",
      "pubDate": "Thu, 12 Nov 2026 11:02:56 +0800",
@@ -2346,22 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "白宫据悉扩充法律顾问团队以应对民主党调查"
     },
     {
-     "title": "Nvidia board weighs CFO Colette Kress as interim CEO amid Jensen Huang scrutiny: Semafor",
-     "link": "https://seekingalpha.com/news/4671073-nvidia-board-weighs-cfo-colette-kress-as-interim-ceo-amid-jensen-huang-scrutiny-semafor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 21:38:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia board weighs CFO Colette Kress as interim CEO amid Jensen Huang scrutiny: Semafor"
-    },
-    {
-     "title": "Anthropic与SpaceX算力协议据悉难以长久 马斯克秒回：乐意收回所有算力",
-     "link": "http://finance.eastmoney.com/news/1354,202611123929315461.html",
-     "pubDate": "Thu, 12 Nov 2026 10:32:40 +0800",
-     "summary": "Anthropic与 SpaceX 的算力合作可能无法长久，据Anthropic高管和卖方分析师最近一次会面时传出的信息，两家公司的算力合同不会延长至明年年中或2027年第二季度后。 根据此前订立的合同，Anthropic自5月起每月向 SpaceX 支付12.5亿美元的算力 租赁 费用，而在今年12月合作扩大后，月租费用将上调至31亿美元。 SpaceX 发布的第三季度财报显示，该公司第三季度近三分之一的收入来自于Anthropic，预计到2029财年累计收入将达到1205亿美元。 然而，来自Anthropic的最新消息意味着，SpaceX对这笔交易的预期显然出现了一些偏差。不过，Space",
-     "source": "东方财富资讯",
-     "zh": "Anthropic与SpaceX算力协议据悉难以长久 马斯克秒回：乐意收回所有算力"
-    },
-    {
      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
      "pubDate": "Thu, 12 Nov 2026 02:31:00 GMT",
@@ -2376,22 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月11日深夜，倪润峰去世消息披露之后，长虹集团的网站主页已变成黑白色，悼念这位引领长虹集团发展的传奇人物。",
      "source": "经济观察网",
      "zh": "倪润峰去世，曾带领长虹走向全国"
-    },
-    {
-     "title": "罕见！美国军机紧急撤离",
-     "link": "http://finance.eastmoney.com/news/1344,202611123929312459.html",
-     "pubDate": "Thu, 12 Nov 2026 10:19:37 +0800",
-     "summary": "美军有新动向！ 据央视新闻报道，当地时间10日，据美国方面消息，美国空军已将部分军机从英国米尔登霍尔空军基地撤出。消息称，大约10架KC-135加油机和3架“鱼鹰”倾转旋翼机从米尔登霍尔空军基地飞往德国、西班牙，以及英国其他基地。 目前美国军方尚未证实此事。美国媒体报道称，美军重新部署军机的决定或与潜在安全威胁有关。 当地时间11日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗决心建立一个由波斯湾沿岸八国组成的联盟，希望该联盟涵盖经济和安全领域的合作，并涉及多个层面的协作。 他表示，如果敌人试图对伊朗发动新的袭击，根据推算，冲突持续的时间不会超过4到5天。雷扎伊表示，如果美国犯下错误，发动针对镐",
-     "source": "东方财富资讯",
-     "zh": "罕见！美国军机紧急撤离"
-    },
-    {
-     "title": "伦铝市场遭遇历史性逼仓！两家实体掌控近八成可用库存？",
-     "link": "http://finance.eastmoney.com/news/1355,202611123929308619.html",
-     "pubDate": "Thu, 12 Nov 2026 10:15:00 +0800",
-     "summary": "伦敦金属交易所(LME)的 铝 市场目前正面临数十年来最严峻的逼仓局面——因为支撑合约的库存急剧下降，而剩余的大部分库存仅由两家交易商掌控。 周三，这一关键 工业金属 的现货价格飙升，较该交易所基准三个月期 期货 价格每吨高出147美元，创下逾30年来的最高水平。 直到10月中旬，该价差还曾处于贴水状态，但随着LME仓库的 铝 库存暴跌至1990年以来的最低水平，该价差已呈螺旋式急剧上升。 这种被称为现货升水的现象，是自20世纪80年代末以来LME 铝 合约中最陡峭的一次——当年Marc Rich公司对市场进行逼仓，曾将现货与三个月期 期货 的价差推高至每吨1000美元以上。自那以后，LME出",
-     "source": "东方财富资讯",
-     "zh": "伦铝市场遭遇历史性逼仓！两家实体掌控近八成可用库存？"
     },
     {
      "title": "“英伟达亲儿子”能否成为AI交易的“救世主”？",
@@ -2432,38 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "2026年11月11日，就在CoreWeave三季报超预期、NeoCloud板块单日暴涨逾12%、市场短暂从“AI回报焦虑”中喘过一口气的节骨眼上，a16z发布了一期对话： 前思科高级副总裁Mike Volpi坐在a16z合伙人Raghu Raghuram和Guido Appenzeller对面，被问到同一个问题——这轮AI大基建，和你们当年亲手搭建的互联网大基建，到底像不像？ Volpi是极少数有资格回答这个问题的人。1994年加入思科，到2000年离开并购岗位转岗业务，他亲手主导了约70起收购，其中包括让思科一举拿下全球最大以太网交换机市场的关键战役，那段时间里思科一度成为全球市值最高的公",
      "source": "华尔街见闻",
      "zh": "互联网泡沫“龙头”亲历者！前思科高管对比：互联网大基建 vs AI大基建"
-    },
-    {
-     "title": "年内最后一批储蓄国债“秒光”，低利差下为何仍遭抢购？",
-     "link": "http://www.eeo.com.cn/2026/1112/1090608.shtml",
-     "pubDate": "Thu, 12 Nov 2026 09:50:22 +0800",
-     "summary": "存款利率回升、利差几乎抹平，年内最后一批储蓄国债仍然开售即“秒光”。",
-     "source": "经济观察网",
-     "zh": "年内最后一批储蓄国债“秒光”，低利差下为何仍遭抢购？"
-    },
-    {
-     "title": "曾被称为特斯拉“史上最好产品”！马斯克官宣：Cybertruck停产时间有变",
-     "link": "http://stock.eastmoney.com/news/11228,202611123929286947.html",
-     "pubDate": "Thu, 12 Nov 2026 09:37:38 +0800",
-     "summary": "曾被马斯克称为 特斯拉 “史上最好产品”的电动皮卡Cybertruck的停产时间有了新的变化。 当地时间周三， 特斯拉 CEO埃隆·马斯克在X上发帖称， Cybertruck的生产将“延长至2027年夏末”，因为 特斯拉 正在“处理更多Cybertruck积压订单” 。 就在五天前（上周五），马斯克表示，特斯拉将在2027年年中左右停产Cybertruck，将更多产能转向Cybercab，后者是一款没有方向盘的自动驾驶出租车。 对于这款一度让特斯拉热度高涨的 汽车 而言，这样的收场显得不甚体面。这款皮卡原本要展示特斯拉最新的电动 汽车 技术，同时打开利润丰厚的皮卡市场。马斯克曾告诉投资者，它将",
-     "source": "东方财富资讯",
-     "zh": "曾被称为特斯拉“史上最好产品”！马斯克官宣：Cybertruck停产时间有变"
-    },
-    {
-     "title": "年内创业板“募资王”来了！超聚变今日迎考 多只概念股业绩有望高增",
-     "link": "http://finance.eastmoney.com/news/11822,202611123929281169.html",
-     "pubDate": "Thu, 12 Nov 2026 09:29:54 +0800",
-     "summary": "脱胎于华为x86服务器业务的算力巨头超聚变今日就将上会，公司 拟募资80亿元 ，是年内创业板上会项目中募资额最高的一个。在算力板块经历估值再定价的当下，这场“大考”引发市场关注。 河南最大“ 独角兽 ”今日上会 11月12日，深交所上市审核委员会将召开第61次上市审核委员会审议会议，审核超聚变数字技术股份有限公司的首发事项。 资料显示，超聚变成立于2021年9月，前身为华为x86服务器业务部门。2021年华为将相关业务整体剥离，公司独立运营并落户郑州。 目前公司实控人为河南省国资委，股东名单里也国资 云集 ：第二大股东中移资本持股15.14%， 中国电信 投资、国调基金、人保资本等均在列。 业",
-     "source": "东方财富资讯",
-     "zh": "年内创业板“募资王”来了！超聚变今日迎考 多只概念股业绩有望高增"
-    },
-    {
-     "title": "11月12日集合竞价：亚玛顿、锋龙股份4连板",
-     "link": "http://stock.eastmoney.com/news/11752,202611123929278713.html",
-     "pubDate": "Thu, 12 Nov 2026 09:26:06 +0800",
-     "summary": "11月12日，三大指数集体低开，上证指数低开0.21%，深证成指低开0.25%，创业板指低开0.5%。板块方面， 卫浴电器 领涨， 日出东方 涨5.26%， 长材 、 诊断服务 等开盘涨幅居前。 个股方面，11股竞价涨停，其中 亚玛顿 4连板、 锋龙股份 4连板、 达意隆 3连板、 凯撒文化 3连板、 北纬科技 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏",
-     "source": "东方财富资讯",
-     "zh": "11月12日集合竞价：亚玛顿、锋龙股份4连板"
     },
     {
      "title": "Cramer&apos;s stance on Nvidia&apos;s stock amid reports that CEO Jensen Huang may be ousted",

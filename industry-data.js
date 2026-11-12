@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 13:31:56",
+ "generated_at": "2026/11/12 13:52:01",
  "recent_days": 7,
  "industries": [
   {
@@ -306,6 +306,14 @@ window.INDUSTRY_DATA = {
      "zh": "Taiwan PCB equipment maker Ta Liang's four-digit backlog sets stage for high-margin TM4 growth"
     },
     {
+     "title": "No Trust In Politicians",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/no-trust-in-politicians-2026-11/",
+     "pubDate": "Thu, 12 Nov 2026 01:01:32 +0000",
+     "summary": "One of the main drivers of Donald Trump’s political rise in the run-up to the 2016 presidential election was the fact that he was not a politician, at least not […] The post No Trust In Politicians appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "No Trust In Politicians"
+    },
+    {
      "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
      "link": "https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am/",
      "pubDate": "Thu, 12 Nov 2026 00:59:35 +0000",
@@ -426,12 +434,36 @@ window.INDUSTRY_DATA = {
      "zh": "NVHBM: Can Custom HBM Change Who Builds the Memory Stack?"
     },
     {
+     "title": "UK semi company Fractile raises $720m at $7bn valuation",
+     "link": "https://www.electronicsweekly.com/news/business/uk-semi-company-fractile-raises-720m-at-7bn-valuation-2026-11/",
+     "pubDate": "Wed, 11 Nov 2026 15:12:59 +0000",
+     "summary": "Fractile, the four year-old UK semiconductor company, has raised $720 million at a $7 billion valuation. Investors were: Thrive Capital, Founders Fund, Conviction, Alphabet’s independent venture arm CapitalG, Lightspeed Venture […] The post UK semi company Fractile raises $720m at $7bn valuation app",
+     "source": "Electronics Weekly",
+     "zh": "UK semi company Fractile raises $720m at $7bn valuation"
+    },
+    {
+     "title": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi",
+     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/electronica-quectel-5g-combo-rugged-antennas-combine-5g-gnss-wi-fi-2026-11/",
+     "pubDate": "Wed, 11 Nov 2026 14:30:21 +0000",
+     "summary": "Quectel is announcing ten new “5G combo” antennas, combining 5G, GNSS and Wi-Fi in compact, rugged designs. Possible applications including fleet management, industrial equipment and smart city infrastructure. The idea […] The post Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-F",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi"
+    },
+    {
      "title": "Why Video Processing Matters for the Next Generation of Robots",
      "link": "https://semiwiki.com/ip/chipsmedia/375958-why-video-processing-matters-for-the-next-generation-of-robots/",
      "pubDate": "Wed, 11 Nov 2026 14:00:59 +0000",
      "summary": "Mobilint has begun mass production of next-generation edge AI chips that incorporate video codec technology from Chips&Media, the companies announced on November 4. The South Korean partners are targeting robotics applications, including humanoids, where several cameras can generate more video than ",
      "source": "SemiWiki",
      "zh": "Why Video Processing Matters for the Next Generation of Robots"
+    },
+    {
+     "title": "Buffett And The AI Boom",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/buffett-and-the-ai-boom-2026-11/",
+     "pubDate": "Wed, 11 Nov 2026 13:13:09 +0000",
+     "summary": "Last week’s stock market sell-off, led by Al and technology stocks after the midterms showed how nervous investors currently are with respect to the staying power of the Al boom. […] The post Buffett And The AI Boom appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Buffett And The AI Boom"
     },
     {
      "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
@@ -450,52 +482,20 @@ window.INDUSTRY_DATA = {
      "zh": "WT to distribute Sivers’ InP lasers and wireless solutions"
     },
     {
-     "title": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/nexperia-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 11:25:41 GMT",
-     "summary": "Discrete device designer and manufacturer Nexperia B.V. of Nijmegen, the Netherlands (which operates wafer fabs in Hamburg, Germany, and Hazel Grove Manchester, UK) has launched a new family of 750V silicon carbide (SiC) trench MOSFETs, combining low switching losses, temperature-stable RDS(on) char",
-     "source": "Semiconductor Today",
-     "zh": "Nexperia expands SiC portfolio with 750V trench MOSFETs for high-efficiency power conversion"
+     "title": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/electronica-onsemis-elitesic-m4-delivers-higher-power-density-and-lower-losses-2026-11/",
+     "pubDate": "Wed, 11 Nov 2026 12:06:01 +0000",
+     "summary": "onsemi claims its fourth-generation EliteSiC silicon carbide (SiC) platform delivers up to 30% higher power density and 35% lower losses than the previous generation. The EliteSiC M4 platform improves conduction […] The post Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower l",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses"
     },
     {
-     "title": "Diamond Foundry unveils first 200mm single-crystal diamond",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/diamondfoundry-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 09:18:11 GMT",
-     "summary": "Diamond Foundry Inc of San Francisco, CA, USA has unveiled the first 200mm-diameter single-crystal diamond. The announcement accompanied a keynote presentation by CEO Martin Roscheisen, delivered by video at CarbonSemi 2026 (the 6th Industry Development Summit of Carbon-based Semiconductor & Devices",
-     "source": "Semiconductor Today",
-     "zh": "Diamond Foundry unveils first 200mm single-crystal diamond"
-    },
-    {
-     "title": "Variable-Length Prompts on Chimera GPNPU",
-     "link": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/",
-     "pubDate": "Wed, 11 Nov 2026 08:02:29 +0000",
-     "summary": "How a flexible binary can serve every length up to the capacity you set. The post Variable-Length Prompts on Chimera GPNPU appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Variable-Length Prompts on Chimera GPNPU"
-    },
-    {
-     "title": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs",
-     "link": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/",
-     "pubDate": "Wed, 11 Nov 2026 08:01:52 +0000",
-     "summary": "The differences and engineering considerations behind choosing and implementing UCIe connectivity for advanced multi-die designs. The post UCIe Connectivity for 2.5D and 3D Multi-Die Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs"
-    },
-    {
-     "title": "CXO Interview with Solaiman Rahim of ChipAgents",
-     "link": "https://semiwiki.com/eda/chipagents-ai/375937-cxo-interview-with-solaiman-rahim-of-chipagents/",
-     "pubDate": "Tue, 10 Nov 2026 20:00:32 +0000",
-     "summary": "Dr. Solaiman Rahim is a multidisciplinary technology executive with over 25 years of experience driving innovation in the chip automation space at the intersection of systems, semiconductors, high-performance computing, and AI. As Chief Product Officer at ChipAgents, he leads the scaling of the Agen",
-     "source": "SemiWiki",
-     "zh": "CXO Interview with Solaiman Rahim of ChipAgents"
-    },
-    {
-     "title": "The Race to Build a “Find My” for AI Chips",
-     "link": "https://spectrum.ieee.org/find-my-ai-chip",
-     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
-     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The Race to Build a “Find My” for AI Chips"
+     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
+     "pubDate": "Wed, 11 Nov 2026 11:48:02 +0000",
+     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
     }
    ]
   },
@@ -1306,6 +1306,22 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos)"
     },
     {
+     "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+     "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+     "pubDate": "Thu, 12 Nov 2026 05:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writt",
+     "source": "NASA",
+     "zh": "APOD: 2026 November 12 – Moon, Venus and Spica Meet"
+    },
+    {
+     "title": "Scotland’s Flow Country",
+     "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+     "pubDate": "Thu, 12 Nov 2026 05:01:00 +0000",
+     "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+     "source": "NASA",
+     "zh": "Scotland’s Flow Country"
+    },
+    {
      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
      "pubDate": "Thu, 12 Nov 2026 00:41:35 +0000",
@@ -1416,22 +1432,6 @@ window.INDUSTRY_DATA = {
      "summary": "Rep. Mike Haridopolos survived the Blue Wave—and he’s optimistic bipartisan support for NASA’s Artemis program means the program will survive the political upheaval on Capitol Hill as well. The post Rep. Mike Haridopolos on NASA’s Future After the Blue Wave appeared first on Payload .",
      "source": "Payload",
      "zh": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave"
-    },
-    {
-     "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-     "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
-     "pubDate": "Tue, 10 Nov 2026 18:06:33 +0000",
-     "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot",
-     "source": "NASA",
-     "zh": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston"
-    },
-    {
-     "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-     "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-     "pubDate": "Tue, 10 Nov 2026 16:00:26 +0000",
-     "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — w",
-     "source": "NASA",
-     "zh": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds"
     },
     {
      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
@@ -1545,6 +1545,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+     "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+     "pubDate": "Thu, 12 Nov 2026 10:42:26 +0530",
+     "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Re",
+     "source": "The Hacker News",
+     "zh": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
+    },
     {
      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
@@ -1730,14 +1738,6 @@ window.INDUSTRY_DATA = {
      "zh": "Fortinet Patches Nearly 100 Vulnerabilities"
     },
     {
-     "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-     "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-     "pubDate": "Wed, 11 Nov 2026 17:31:59 +0530",
-     "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think thr",
-     "source": "The Hacker News",
-     "zh": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned."
-    },
-    {
      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
      "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
      "pubDate": "Tue, 10 Nov 2026 22:26:51 GMT",
@@ -1761,6 +1761,54 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "中国天眼 FAST 数据中发现疑似“人造特征”信号，论文作者更倾向于干扰而非外星文明",
+     "link": "https://www.ithome.com/1/026/047.htm",
+     "pubDate": "Thu, 12 Nov 2026 05:48:24 GMT",
+     "summary": "IT之家 11 月 12 日消息，今日有一项基于中国天眼 FAST 历史数据的分析结果引发关注。 中国科学家领衔团队在扫描 33 个系外行星系统时，从约 238 光年外的 K2-155 红矮星系统方向，识别出一道具有“人造特征”的窄带无线电信号，编号 NBS 260108。 相关论文已发表于《天文学期刊》（The Astronomical Journal），第一作者为北京师范大学的 Zi-Qi Li。 NBS 260108 之所以被筛选出来，在于它同时具备 SETI（搜寻地外文明）研究中备受关注的两个特征。其一是极窄的频带。 科学家在搜索外星技术信号时通常重点关注窄带信号，因为自然天体辐射多为",
+     "source": "IT之家",
+     "zh": "中国天眼 FAST 数据中发现疑似“人造特征”信号，论文作者更倾向于干扰而非外星文明"
+    },
+    {
+     "title": "最多识别 6 人：苹果揭秘 HomeView 识人流程，只传“暗号”不传照片",
+     "link": "https://www.ithome.com/1/026/046.htm",
+     "pubDate": "Thu, 12 Nov 2026 05:45:58 GMT",
+     "summary": "IT之家 11 月 12 日消息，苹果公司今天（11 月 12 日）发布新博文，在介绍适用于 iPhone 18 Pro 和 iPhone 18 Pro Max 的“安全隔离区”（Secure Exclaves）架构同时， 还公开其首款智能家居中枢 HomeView 的人员识别流程。 IT之家此前报道， 在家庭环境下，苹果 HomeView 最多识别 6 位用户，并依据识别结果提供个性化体验。 HomeView 不使用 Face ID，主要通过 Center Stage 摄像头进行面部识别，并结合语音识别判断在场的是哪位家庭成员。 前置条件方面，用户须拥有一台支持 Apple Intellig",
+     "source": "IT之家",
+     "zh": "最多识别 6 人：苹果揭秘 HomeView 识人流程，只传“暗号”不传照片"
+    },
+    {
+     "title": "三星电子韩国温阳产区新 HBM 产线动工，总投资额 46 万亿韩元",
+     "link": "https://www.ithome.com/1/026/045.htm",
+     "pubDate": "Thu, 12 Nov 2026 05:45:21 GMT",
+     "summary": "IT之家 11 月 12 日消息，韩国当地时间今日在忠清南道牙山市的三星电子温阳产区新产线动工现场举行忠清圈“超级项目”动工仪式，该国总统李在明出席并致辞。 ▲ 三星电子温阳产区 此次动工建设的三星电子温阳产区 新产线为 HBM 后端先进封装设施 ，包括 5 条生产线，项目总投资达 46 万亿韩元 （IT之家注：现汇率约合 2,295.4 亿元人民币） ，包括 6 万亿韩元的厂房投资和 40 万亿韩元的设备投资。 今日启动施工的新工厂将建成一座地上三层的生产设施，总洁净室面积达 3.1 万平方米。项目计划 2028 年投产，三星电子温阳产区的总建筑面积将从此前的 27 万平方米提升至 42 万",
+     "source": "IT之家",
+     "zh": "三星电子韩国温阳产区新 HBM 产线动工，总投资额 46 万亿韩元"
+    },
+    {
+     "title": "China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls as Nvidia CEO Jensen Huang falls out of favor in DC (Joe Miller/Financial Times)",
+     "link": "https://www.techmeme.com/261112/p3#a261112p3",
+     "pubDate": "Thu, 12 Nov 2026 00:45:05 -0500",
+     "summary": "Joe Miller / Financial Times : China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls as Nvidia CEO Jensen Huang falls out of favor in DC &nbsp; &mdash;&nbsp; AI kingmaker's opponents see &lsquo;blood in the water&rsquo; after affair with suspect",
+     "source": "Techmeme",
+     "zh": "China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls as Nvidia CEO Jensen Huang falls out of favor in DC (Joe Miller/Financial Times)"
+    },
+    {
+     "title": "Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megaspeed on a blocklist (Jonathan Weil/Wall Street Journal)",
+     "link": "https://www.techmeme.com/261112/p2#a261112p2",
+     "pubDate": "Thu, 12 Nov 2026 00:35:00 -0500",
+     "summary": "Jonathan Weil / Wall Street Journal : Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megaspeed on a blocklist &nbsp; &mdash;&nbsp; Last year, just as scrutiny of Megaspeed was rising, Nvidia stopped reporting Sing",
+     "source": "Techmeme",
+     "zh": "Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megaspeed on a blocklist (Jonathan Weil/Wall Street Journal)"
+    },
+    {
+     "title": "Temu 北美全托管核价被压到成本线以下，3人小队还要不要继续跟？",
+     "link": "https://www.baijing.cn/question/638689",
+     "pubDate": "Thu, 12 Nov 2026 05:34:07 +0000",
+     "summary": "我们做厨房小家电配件，去年底切入 Temu 北美全托管，美国站为主、加拿大站刚开。团队就 3 个人：一个盯选品和核价、一个跟工厂和备货、一个兼客服和后台。上周有 4 个 SKU 被平台核价打回，报价被压到比我们出厂含税成本还低 8% 左右，其中 2 个是主推款，占当前出单量近六成。已经试过重新拆解包装降体积重、换更便宜的包材、跟工厂谈阶梯价，也按要求改过几轮报价说明，但核价结果还是卡在同一个价位，后台只提示价格竞争力不足，没给更细的依据。现在人手就这么多，一边要跟核价一边还要排加拿大站的上架节奏，实在排不开。想问问做过北美全托管核价的同行：这种被压到成本线以下的 SKU，你们判断是直接放弃还是",
+     "source": "白鲸出海",
+     "zh": "Temu 北美全托管核价被压到成本线以下，3人小队还要不要继续跟？"
+    },
     {
      "title": "苹果揭秘 iPhone 18 Pro / Max 提示小圆点：硬件死守隐私红线，不亮绝不放行麦克风 / 摄像头调用",
      "link": "https://www.ithome.com/1/026/043.htm",
@@ -1802,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "日本独立站日语客服外包怎么选？备货退货节奏全被打乱"
     },
     {
-     "title": "苹果详解 Secure Exclaves 安全架构：Siri、摄像头和麦克风隐私保护升级，主系统也无法访问原始信息",
-     "link": "https://www.ithome.com/1/026/040.htm",
-     "pubDate": "Thu, 12 Nov 2026 05:17:45 GMT",
-     "summary": "IT之家 11 月 12 日消息，苹果今日发布了一篇技术文章，详细介绍了其 Apple Silicon 芯片中的安全架构 Secure Exclaves（安全隔离区），解释这套机制如何在处理摄像头和麦克风采集的数据时，避免原始音视频信息被操作系统、应用程序甚至苹果自身访问。 苹果安全工程与架构团队（SEAR）和核心操作系统团队（Core OS）于 11 月 12 日在苹果安全研究博客发布了题为《Secure Exclaves and Ambient Sensing》的文章，介绍了 Secure Exclaves 的设计原理、底层架构以及实际应用场景。 苹果表示，随着设备逐渐具备更加智能的环境感",
-     "source": "IT之家",
-     "zh": "苹果详解 Secure Exclaves 安全架构：Siri、摄像头和麦克风隐私保护升级，主系统也无法访问原始信息"
-    },
-    {
      "title": "机器人要进工厂，光靠机器人公司还不够",
      "link": "https://www.tmtpost.com/8202019.html",
      "pubDate": "Thu, 12 Nov 2026 13:17:00 +0800",
@@ -1840,22 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 美联储主席凯文·沃什对利率“前瞻性指引”的唾弃是显而易见。然而令人唏嘘的是，其同僚似乎把“这一招”玩出了新花样…… 自5月接替鲍威尔出任美联储主席以来，沃什一直致力于全面改革美联储的运作机制——从减少每年的政策会议次数到彻底重组决策框架，几乎涵盖了各个方面。 然而如今，信息传达混乱反而已成为新阶段美联储的一大特征。虽然沃什曾多次引导市场不要过度看重单一数据点，并主张美联储不应将自身束缚在预测之上。但周二在伦敦，美联储理事沃勒的做法却“恰恰相反”。 沃勒表示，如果原定于当天晚些时候公布的美国10月份核心消费者物价指数(CPI)环比涨幅达到0.3%或更高",
      "source": "虎嗅",
      "zh": "起底美联储“变脸王”沃勒"
-    },
-    {
-     "title": "消息称 AMD 游戏显卡 GPU 第四季度供应量至少大减 20%-50%，紧缺至明年 1 月",
-     "link": "https://www.ithome.com/1/026/038.htm",
-     "pubDate": "Thu, 12 Nov 2026 05:10:49 GMT",
-     "summary": "IT之家 11 月 12 日消息，博板堂旗下公众号 ChannelGate 视博合聚今日爆料了 AMD GPU 游戏显卡中国区 Q4 货源供应策略。 爆料称，从 10 月份（Q4）开始， AMD GPU 供应量至少大减 20%-50% ，每月供应量不太明确，AIB（IT之家注：AMD 官方授权显卡合作伙伴）厂商每月的供应量也在不断被减少，据了解 AMD GPU 直到 1 月份供应数量都非常非常紧缺。 爆料提到，AMD 系列显卡缺货程度不亚于 NV 系列显卡，AMD 根本就没有多少游戏芯片卖给 AIB 品牌商。 爆料人士 Kepler_L2 今年 10 月则表示 ，AMD 下一代 RDNA 5 ",
-     "source": "IT之家",
-     "zh": "消息称 AMD 游戏显卡 GPU 第四季度供应量至少大减 20%-50%，紧缺至明年 1 月"
-    },
-    {
-     "title": "Windows NTLM 安全机制调整：微软计划 2027 年 5 月起拒绝未签名连接，降低中继攻击风险",
-     "link": "https://www.ithome.com/1/026/037.htm",
-     "pubDate": "Thu, 12 Nov 2026 05:10:48 GMT",
-     "summary": "IT之家 11 月 12 日消息，微软官方宣布，即日起通过 Windows 更新逐步加强 NTLM 身份验证安全机制，要求 Windows 客户端默认在所有连接中提供 NTLM 消息签名，以降低中间人攻击和 NTLM 中继攻击风险。 微软表示，此次调整分两个阶段进行，第二阶段将于 2027 年 5 月启动，届时 Windows Server 将默认强制要求客户端使用 NTLM 签名，未提供签名的客户端将被拒绝连接。 根据微软最新发布的 KB5135557 支持文档，此次安全改进旨在修复编号为 CVE-2026-118737 的安全漏洞，也是微软针对 NTLM 消息签名机制推出的第一阶段改进。 ",
-     "source": "IT之家",
-     "zh": "Windows NTLM 安全机制调整：微软计划 2027 年 5 月起拒绝未签名连接，降低中继攻击风险"
     },
     {
      "title": "英伟达，可能失去黄仁勋",
@@ -1957,17 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "Darling Development Update – Q4 2026",
      "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
      "pubDate": "Thu, 12 Nov 2026 04:32:31 +0000",
-     "summary": "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/ Comments URL: https://news.ycombinator.com/item?id=50463103 Points: 4 # Comments: 2",
+     "summary": "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/ Comments URL: https://news.ycombinator.com/item?id=50463103 Points: 6 # Comments: 2",
      "source": "Hacker News",
      "zh": "Darling Development Update – Q4 2026"
-    },
-    {
-     "title": "肯尼亚手游买量 CPI 涨到 0.42 美元，是网络环境问题还是素材老化？",
-     "link": "https://www.baijing.cn/question/638683",
-     "pubDate": "Thu, 12 Nov 2026 04:29:26 +0000",
-     "summary": "我们做休闲益智手游，去年 Q4 进肯尼亚，现在起量阶段，团队 6 人，月买量预算约 3 万美元，主要跑 Google Ads 和 Meta，本地支付接的是 M-Pesa。最近两周肯尼亚 CPI 从 0.28 美元涨到 0.42 美元，次日留存从 31% 掉到 24%，同一批素材在尼日利亚和南非没这个跌幅。已试过换素材方向、把预算往 Wi-Fi 时段倾斜、压缩包体到 45MB 以内，都没压住。想确认这种涨幅到底是本地网络环境（低端机加载失败率高）导致的转化损耗，还是买量侧竞价变贵，判断标准该看哪个指标？",
-     "source": "白鲸出海",
-     "zh": "肯尼亚手游买量 CPI 涨到 0.42 美元，是网络环境问题还是素材老化？"
     },
     {
      "title": "Sources: some Trump officials questioned Jensen Huang&apos;s push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public (Wall Street Journal)",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Leo Schwartz / The Information : Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &nbsp; &mdash;&nbsp; The Commerce Department is finalizing a long-awaited rule that will prevent Chinese AI f",
      "source": "Techmeme",
      "zh": "Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)"
-    },
-    {
-     "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
-     "link": "https://github.com/DaleFranks/ramasite",
-     "pubDate": "Thu, 12 Nov 2026 02:53:22 +0000",
-     "summary": "I'm new here, and little nervous about posting, but here goes. I'm not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9-year stint as active duty military, I've spent 46 years either personally or professionally working in tech.",
-     "source": "Hacker News",
-     "zh": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS"
-    },
-    {
-     "title": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)",
-     "link": "https://www.techmeme.com/261111/p52#a261111p52",
-     "pubDate": "Wed, 11 Nov 2026 21:45:00 -0500",
-     "summary": "Semafor : Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting &nbsp; &mdash;&nbsp; Some members of Nvidia's board favor appointing Chief Financial Officer Colette Kress as interim CEO, accordi",
-     "source": "Techmeme",
-     "zh": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)"
     }
    ]
   },
@@ -2258,84 +2258,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "BCP Investment Corporation GAAP NII of $0.37 beats by $0.01, TII of $13.9M misses by $0.53M",
-     "link": "https://seekingalpha.com/news/4671110-bcp-investment-corporation-gaap-nii-of-037-beats-by-001-tii-of-139m-misses-by-053m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 00:23:09 -0500",
+     "title": "Ingram Micro set to join S&P SmallCap 600 following Viatris-Pacira deal",
+     "link": "https://seekingalpha.com/news/4671113-ingram-micro-set-to-join-sp-smallcap-600-following-viatris-pacira-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 00:47:43 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "BCP Investment Corporation GAAP NII of $0.37 beats by $0.01, TII of $13.9M misses by $0.53M"
+     "zh": "Ingram Micro set to join S&P SmallCap 600 following Viatris-Pacira deal"
     },
     {
-     "title": "硕贝德：截至11月10日最新股东户数5.88万户，较上期增加4.59%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929373449.html",
-     "pubDate": "Thu, 12 Nov 2026 13:22:23 +0800",
-     "summary": "硕贝德 最新披露数据显示，截至11月10日公司股东户数为5.88万户，较上期(2026年10月30日) 增加2581户，增幅为4.59% 。户均持有流通股数量 由上期的7836股下降至7491股， 户均持股金额 由上期的10.67万元增加至11.96万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "硕贝德：截至11月10日最新股东户数5.88万户，较上期增加4.59%"
-    },
-    {
-     "title": "科士达：截至11月10日最新股东户数5.40万户，较上期增加1.89%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929373238.html",
-     "pubDate": "Thu, 12 Nov 2026 13:21:28 +0800",
-     "summary": "科士达 最新披露数据显示，截至11月10日公司股东户数为5.40万户，较上期(2026年10月20日) 增加1000户，增幅为1.89% 。户均持有流通股数量 由上期的1.07万股下降至1.05万股， 户均持股金额 由上期的30.94万元减少至28.54万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "科士达：截至11月10日最新股东户数5.40万户，较上期增加1.89%"
-    },
-    {
-     "title": "Exxon signs non-binding MoU to evaluate seven oil blocks in Venezuela: Reuters",
-     "link": "https://seekingalpha.com/news/4671108-exxon-signs-non-binding-mou-to-evaluate-seven-oil-blocks-in-venezuela-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 00:21:18 -0500",
+     "title": "Portman Ridge Finance declares $0.09 dividend",
+     "link": "https://seekingalpha.com/news/4671114-portman-ridge-finance-declares-0_09-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 00:47:42 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Exxon signs non-binding MoU to evaluate seven oil blocks in Venezuela: Reuters"
+     "zh": "Portman Ridge Finance declares $0.09 dividend"
     },
     {
-     "title": "Medexus Pharmaceuticals reports Q2 results",
-     "link": "https://seekingalpha.com/news/4671109-medexus-pharmaceuticals-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 00:19:27 -0500",
+     "title": "CoreWeave seeks at least $4B in high-grade loan financing - report",
+     "link": "https://seekingalpha.com/news/4671100-coreweave-seeks-at-least-4b-in-high-grade-loan-financing---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 00:41:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Medexus Pharmaceuticals reports Q2 results"
+     "zh": "CoreWeave seeks at least $4B in high-grade loan financing - report"
     },
     {
-     "title": "鹏飞绿能：截至11月10日最新股东户数3.62万户，较上期增加0.56%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929370969.html",
-     "pubDate": "Thu, 12 Nov 2026 13:19:25 +0800",
-     "summary": "鹏飞绿能 最新披露数据显示，截至11月10日公司股东户数为3.62万户，较上期(2026年10月30日) 增加200户，增幅为0.56% 。户均持有流通股数量 由上期的3.64万股下降至3.62万股， 户均持股金额 由上期的8.23万元增加至8.44万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "title": "20CM快报｜AI算力硬件回暖，科创综指ETF富国（589600）飘红，硬科技宽基配置价值凸显",
+     "link": "http://stock.eastmoney.com/news/11622,202611123929389815.html",
+     "pubDate": "Thu, 12 Nov 2026 13:41:00 +0800",
+     "summary": "11月12日， 半导体 与AI算力方向延续反弹，科创综指ETF富国（589600）盘中上涨1.43%。从标的指数成分股表现看，盛科 通信 涨超15%， 中船特气 、沐曦股份等多只个股涨超12%， 寒武纪 、摩尔线程等多只个股涨超10%， 半导体 产业链上游与关键材料环节领涨。 产业层面，市场传闻部分头部存储企业已向渠道商口头告知企业级颗粒涨价意向，渠道端价格先行反应，四季度原厂报价呈小幅上行态势；机构调研亦显示，国内存储厂扩产对应设备采购规模明年有望接近翻倍，四季度国产零部件放量推动设备交付环比改善。 研究机构认为，AI算力芯片及国产化放量有望继续提速，国内存储与先进逻辑持续扩产将推动设备和零",
      "source": "东方财富股票",
-     "zh": "鹏飞绿能：截至11月10日最新股东户数3.62万户，较上期增加0.56%"
+     "zh": "20CM快报｜AI算力硬件回暖，科创综指ETF富国（589600）飘红，硬科技宽基配置价值凸显"
     },
     {
-     "title": "慈文传媒：截至11月10日最新股东户数7.60万户，较上期减少6.61%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929370176.html",
-     "pubDate": "Thu, 12 Nov 2026 13:18:25 +0800",
-     "summary": "慈文传媒 最新披露数据显示，截至11月10日公司股东户数为7.60万户，较上期(2026年10月30日) 减少5382户，降幅为6.61% 。户均持有流通股数量 由上期的5819股上升至6231股， 户均持股金额 由上期的4.70万元增加至5.81万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
+     "title": "热度拉满！Anthropic上市首日散户净买入或达2.5亿美元 为SpaceX纪录两倍",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929373974.html",
+     "pubDate": "Thu, 12 Nov 2026 13:39:39 +0800",
+     "summary": "美东时间周三，金融市场研究公司Vanda Research发布研报称，Anthropic的上市首日或将迎来创纪录的散户资金买入，规模有望超过 SpaceX ，成为史上散户单日买入规模最大的标的之一。 Vanda Research结合上市首日散户交易规律、以及Hyperliquid平台上Anthropic的IPO前永续 期货 成交数据测算，预计该股上市首日散户净买入规模约2.5亿美元，达到 SpaceX 此前1.18亿美元散户买入纪录的两倍。 Vanda Research全球宏观策略师维拉杰·帕特尔（Viraj Patel）在报告中表示：“从IPO前永续合约的交易表现来看，Anthropic有望",
      "source": "东方财富股票",
-     "zh": "慈文传媒：截至11月10日最新股东户数7.60万户，较上期减少6.61%"
+     "zh": "热度拉满！Anthropic上市首日散户净买入或达2.5亿美元 为SpaceX纪录两倍"
     },
     {
-     "title": "上海莱士：截至11月10日最新股东户数11.59万户，较上期减少1.02%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929368943.html",
-     "pubDate": "Thu, 12 Nov 2026 13:17:27 +0800",
-     "summary": "上海莱士 最新披露数据显示，截至11月10日公司股东户数为11.59万户，较上期(2026年10月20日) 减少1192户，降幅为1.02% 。户均持有流通股数量 由上期的5.63万股上升至5.69万股， 户均持股金额 由上期的27.46万元增加至27.80万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不",
+     "title": "湖北宜化成立新星科技公司 注册资本2亿",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929388825.html",
+     "pubDate": "Thu, 12 Nov 2026 13:38:56 +0800",
+     "summary": "天眼查App显示，近日， 湖北宜化 新星科技有限公司成立，法定代表人为王丰华，注册资本2亿元人民币，经营范围包括化工产品生产、化工产品销售、基础 化学原料 制造等。股东信息显示，该公司由 湖北宜化 旗下 湖北宜化 楚星生态科技有限公司全资持股。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "上海莱士：截至11月10日最新股东户数11.59万户，较上期减少1.02%"
+     "zh": "湖北宜化成立新星科技公司 注册资本2亿"
     },
     {
-     "title": "创业板指跌逾1% 早盘一度涨近2%",
-     "link": "http://stock.eastmoney.com/news/1407,202611123929371721.html",
-     "pubDate": "Thu, 12 Nov 2026 13:17:16 +0800",
-     "summary": "指数走弱，创业板指下挫跌逾1%，沪指跌0.21%，深成指跌0.68%。 贵金属 、短剧、游戏、 机器人 、 煤炭 等方向跌幅居前，沪深京三市下跌个股近3900只。",
+     "title": "午后爆发！000995，突然涨停！",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929389114.html",
+     "pubDate": "Thu, 12 Nov 2026 13:38:18 +0800",
+     "summary": "白酒 概念股11月12日午后活跃， 皇台酒业 （000995）直线涨停， 古井贡酒 、 金徽酒 、 五粮液 跟涨。 消息面上，11月12日， 京东 发布 京东 名酒“双11”全时期战报。战报显示，10月8日至11月11日， 京东 酒类成交额同比增长25%，茅台成交同比增长10%， 五粮液 增长13%， 泸州老窖 增长10%。 另外， 白酒 行业三季报披露后，多家机构认为板块报表端出清延续、收入与利润降幅收窄，渠道库存去化取得阶段性成效，行业基本面出现筑底迹象。 皇台酒业 2026年三季报显示，公司前三季度实现营业收入7162.05万元，同比下降17.76%；实现净利润-1789.80万元，同比",
      "source": "东方财富股票",
-     "zh": "创业板指跌逾1% 早盘一度涨近2%"
+     "zh": "午后爆发！000995，突然涨停！"
     },
     {
-     "title": "Tecogen GAAP EPS of -$0.05 beats by $0.01, revenue of $7.87M beats by $1.46M",
-     "link": "https://seekingalpha.com/news/4671104-tecogen-gaap-eps-of-0_05-beats-by-0_01-revenue-of-7_87m-beats-by-1_46m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 00:05:41 -0500",
+     "title": "中国建筑成立核电特构制造公司，注册资本1亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929389098.html",
+     "pubDate": "Thu, 12 Nov 2026 13:37:54 +0800",
+     "summary": "企查查APP显示，近日，中建核电特构制造（广东）有限公司成立，法定代表人为李庆弘，注册资本为1亿元，经营范围包含：金属结构制造；金属结构销售； 专用设备 修理；建设工程质量检测；特种设备检验检测等。企查查股权穿透显示，该公司由 中国建筑 （601668）间接全资持股。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "中国建筑成立核电特构制造公司，注册资本1亿元"
+    },
+    {
+     "title": "连涨3天！半导体设备ETF国泰（159516）连续4日“吸金”超34亿元，指数估值处于近1年低位",
+     "link": "http://stock.eastmoney.com/news/11622,202611123929390155.html",
+     "pubDate": "Thu, 12 Nov 2026 13:37:48 +0800",
+     "summary": "11月12日，A股三大指数集体飘红上涨，创业板指涨0.53%领涨两市，上证指数涨幅0.34%，深证成指涨幅0.34%。相关ETF方面， 半导体 设备ETF国泰（159516）标的指数大涨3.6%，已连续上涨3天，市场交投热情显著回暖。 资金流向方面， 半导体 设备ETF国泰备受资金青睐。最新数据显示，该ETF已连续4个交易日实现资金净流入，连续期间资金净流入合计达34.65亿元；近5日资金净流入也达到16.92亿元，展现出场外资金积极逢低布局的态势。 半导体 设备板块当前为何值得投资？半导体行业作为现代信息技术产业的基石，其材料与设备环节具备极高的技术壁垒与国产替代空间。随着国内晶圆厂扩产进程",
+     "source": "东方财富股票",
+     "zh": "连涨3天！半导体设备ETF国泰（159516）连续4日“吸金”超34亿元，指数估值处于近1年低位"
+    },
+    {
+     "title": "Japan's producer inflation accelerates to 7.1% in October; BoJ urges caution on rate hikes",
+     "link": "https://seekingalpha.com/news/4671107-japans-producer-inflation-accelerates-to-71-in-october-boj-urges-caution-on-rate-hikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 00:37:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Tecogen GAAP EPS of -$0.05 beats by $0.01, revenue of $7.87M beats by $1.46M"
+     "zh": "Japan's producer inflation accelerates to 7.1% in October; BoJ urges caution on rate hikes"
+    },
+    {
+     "title": "Team GAAP EPS of -$3.10, revenue of $220.4M; updates FY 2026 outlook",
+     "link": "https://seekingalpha.com/news/4671112-team-gaap-eps-of-310-revenue-of-2204m-updates-fy-2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 00:29:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Team GAAP EPS of -$3.10, revenue of $220.4M; updates FY 2026 outlook"
+    },
+    {
+     "title": "Investcorp Credit Management BDC GAAP EPS of -$0.33, TII of $3.14M",
+     "link": "https://seekingalpha.com/news/4671111-investcorp-credit-management-bdc-gaap-eps-of-033-tii-of-314m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 00:26:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Investcorp Credit Management BDC GAAP EPS of -$0.33, TII of $3.14M"
     },
     {
      "title": "Growth investing or gambling?",
@@ -2344,22 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "The current extreme risk-taking in equity markets might present a once-in-a-career investment opportunity",
      "source": "Financial Times",
      "zh": "Growth investing or gambling?"
-    },
-    {
-     "title": "Thursday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4670635-thursdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 00:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Thursday’s Economic Calendar"
-    },
-    {
-     "title": "H.B. Fuller unveils seven site closures, targets $75M in long-term savings",
-     "link": "https://seekingalpha.com/news/4671103-hb-fuller-unveils-seven-site-closures-targets-75m-in-long-term-savings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 23:55:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "H.B. Fuller unveils seven site closures, targets $75M in long-term savings"
     },
     {
      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
@@ -2426,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "科创50大涨超2%，GPU爆发，寒武纪重返千元、燧原科技创新高，恒科指跌超1%，阿里跌5%"
     },
     {
-     "title": "芯片股明显超卖？寒武纪等龙头走强 10股预测2026利润翻倍",
-     "link": "http://finance.eastmoney.com/news/11139,202611123929343541.html",
-     "pubDate": "Thu, 12 Nov 2026 12:00:30 +0800",
-     "summary": "AI 芯片概念 11月12日早盘表现强势，板块中 寒武纪 、沐曦股份、摩尔线程、云天励飞、 海光信息 涨幅靠前。 平头哥已秘密交表 消息面上，据财联社报道，11月10日晚， 阿里巴巴 （09988.HK，下称“阿里”）宣布，其已向香港联交所交表，申请旗下 AI芯片 公司平头哥独立上市，预计上市完成后，平头哥仍将是阿里子公司。 公告显示，今年9月11日，平头哥向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。有业内人士在与《华夏时报》记者交流时认为，平头哥采取秘密交表方式，是出于芯片设计公司的敏感性与分拆上市战略复杂性的考虑，也可避免过早影响阿里股价。 公开资料显示，平头哥成立于20",
-     "source": "东方财富资讯",
-     "zh": "芯片股明显超卖？寒武纪等龙头走强 10股预测2026利润翻倍"
-    },
-    {
      "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
      "pubDate": "Thu, 12 Nov 2026 03:46:56 GMT",
@@ -2496,6 +2488,14 @@ window.INDUSTRY_DATA = {
      "summary": "过去这个秋天，做空白银的交易者大赚特赚。 从10月初到美国中期选举前，白银价格一路下泄，一度短暂跌破50美元/盎司。The Market Ear将这段行情称之为 \"白银血洗：从FOMO到彻底恐慌\" 。这个价位，较1月29日创下的历史高点121.67美元，累计跌幅超过55%。 然后，中期选举结果改变了走向。11月3日至9日，白银价格反弹约6%。 高盛大宗商品策略师Robert Quinn在最新报告中对白银的走势进行了复盘。根据美国商品期货交易委员会（CFTC）的持仓报告（COT），非交易商在10月6日至11月3日期间 每周持续净卖出，累计净卖出规模达23亿美元 。 从交易结构看， 本轮仓位下降主",
      "source": "华尔街见闻",
      "zh": "净多头处于两年极低水平，白银逼空行情或已悄然启动"
+    },
+    {
+     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 03:15:00 GMT",
+     "summary": "There is already a demographic ‘run’ on Social Security.",
+     "source": "MarketWatch",
+     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
     }
    ]
   },

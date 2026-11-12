@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/13 04:07:06",
+ "generated_at": "2026/11/13 04:11:31",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "CTO Interview With Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA",
+     "link": "https://semiwiki.com/eda/siemens-eda/376086-cto-interview-with-uan-rey-senior-vp-and-general-manager-of-calibre-and-cto-of-siemens-eda/",
+     "pubDate": "Thu, 12 Nov 2026 20:00:22 +0000",
+     "summary": "By Juan Rey, Chief Technology Officer, Siemens Juan Rey is Head of Technology and Innovation for Electronic Design Automation (EDA) at Siemens and Vice President and General Manager for Calibre. He joined Mentor Graphics, now Siemens EDA, in 2001 and led engineering, research, development, and quali",
+     "source": "SemiWiki",
+     "zh": "CTO Interview With Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA"
+    },
+    {
      "title": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/polarlight-121126.shtml",
      "pubDate": "Thu, 12 Nov 2026 18:08:30 GMT",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Kevin Robinson is VP of Operations at yieldHUB, where he leads global operations, program delivery, and customer execution. He oversees structured onboarding, customer delivery, and the scalability of yieldHUB’s operations worldwide. Kevin brings more than 25 years of semiconductor experience across",
      "source": "SemiWiki",
      "zh": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB"
-    },
-    {
-     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
-     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
     }
    ]
   },
@@ -861,7 +861,7 @@ window.INDUSTRY_DATA = {
      "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
      "link": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
      "pubDate": "Thu, 12 Nov 2026 13:25:33 -0500",
-     "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base that is expected to supply almost a quarter of 2027 consumption, EIA said.",
+     "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base expected to supply almost a quarter of 2027 consumption, EIA said.",
      "source": "Utility Dive",
      "zh": "As coal burn declines, rising power demand will be primarily met by renewables: EIA"
     },
@@ -928,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Terra-Gen completes PV park in California, Duke Energy Florida plans four new solar arrays, and Altus Power acquires another 92 projects.",
      "source": "PV Tech",
      "zh": "US ROUND-UP: Duke Energy Florida, Terra-Gen in California and Altus Power continues acquisition strategy"
-    },
-    {
-     "title": "Around 400 onshore wind projects await DOD action, official tells court",
-     "link": "https://www.utilitydive.com/news/around-400-onshore-wind-projects-await-dod-action-official-says-in-court/874521/",
-     "pubDate": "Thu, 12 Nov 2026 10:48:08 -0500",
-     "summary": "Assistant Secretary of Defense&nbsp;Dale Marks told a federal court that the Pentagon doesn&rsquo;t have enough staff to review permits. A coalition suing DOD says the process ground &ldquo;to a halt&rdquo; after Marks was confirmed.",
-     "source": "Utility Dive",
-     "zh": "Around 400 onshore wind projects await DOD action, official tells court"
     },
     {
      "title": "Diversified portfolios, rather than hybrid projects, offer promise for European renewables traders – Pexapark",
@@ -1080,6 +1072,14 @@ window.INDUSTRY_DATA = {
      "summary": "Democrats have finally managed to gain footing in Ohio’s halls of power — a shift that bodes well for clean energy in a state that’s become particularly hostile toward solar and wind. Last week, voters ended Republicans’ 15-year-long trifecta in Ohio, picking Democrat Amy Acton to be their next gove",
      "source": "Canary Media",
      "zh": "The GOP lost its iron grip on Ohio. What’s the outlook for clean energy?"
+    },
+    {
+     "title": "Bay Area finalizes rules to boost heat-pump water heater adoption",
+     "link": "https://www.canarymedia.com/articles/heat-pumps/bay-area-heat-pump-water-heater-rules",
+     "pubDate": "Thu, 12 Nov 2026 03:30:00 -0500",
+     "summary": "San Francisco Bay Area regulators have finalized a long-awaited rule that limits pollution from residential water heaters. In 2023, the Bay Area Air District board passed first-in-the-nation regulations setting zero-nitrogen-oxides (NO x ) emissions standards on new home water heaters and space-heat",
+     "source": "Canary Media",
+     "zh": "Bay Area finalizes rules to boost heat-pump water heater adoption"
     }
    ]
   },
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
      "zh": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology"
     },
     {
+     "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
+     "link": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
+     "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
+     "summary": "\"It should be very bright, considerably brighter than the Starlink satellites due to its size.\"",
+     "source": "Space.com",
+     "zh": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?"
+    },
+    {
      "title": "What role does industry play in Europe’s space sovereignty push?",
      "link": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/",
      "pubDate": "Thu, 12 Nov 2026 19:40:35 +0000",
@@ -1368,14 +1376,6 @@ window.INDUSTRY_DATA = {
      "summary": "I photographed nebulas and star clusters over multiple nights with the Vaonis Vespera 3. It’s one of the most capable smart telescopes I’ve used, but it won’t be for everyone.",
      "source": "Space.com",
      "zh": "I used the Vaonis Vespera 3 for weeks and here’s who I would recommend it to — full review"
-    },
-    {
-     "title": "Satellite snaps rare birds-eye view of the ISS | Space photo of the day for Nov. 12, 2026",
-     "link": "https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026",
-     "pubDate": "Thu, 12 Nov 2026 15:00:00 +0000",
-     "summary": "A commercial satellite has spotted the International Space Station, giving us a unique view of the orbiting lab from above.",
-     "source": "Space.com",
-     "zh": "Satellite snaps rare birds-eye view of the ISS | Space photo of the day for Nov. 12, 2026"
     },
     {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+     "link": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
+     "pubDate": "Thu, 12 Nov 2026 20:01:33 +0000",
+     "summary": "Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers.",
+     "source": "WIRED",
+     "zh": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email"
+    },
+    {
      "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
      "pubDate": "Thu, 12 Nov 2026 19:59:59 +0000",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 版面之外 ，作者：画画、版君 掌舵33年后，这位一手将英伟达带入AI时代的创始人，离开了自己建立的公司。 11月12日，英伟达公告，黄仁勋辞任CEO，即刻生效。 此前几天，一场私人生活风波将他卷入国会问询、董事会调查和国家安全争议。 一个人的离开，为什么会成为整个科技产业的大事？ 如果把时间拨回工业革命以来的商业史，会发现这样的时刻并不陌生。 瓦特改良蒸汽机，让动力开始大规模进入工厂，洛克菲勒整合石油产业，让能源成为现代工业体系的重要支柱。 每一次生产要素发生迁移，都会有人站到产业周期的中心。 今天，这个位置属于黄仁勋。 他的黑色皮衣、英伟达的GPU，以及全球不断扩张的数",
      "source": "虎嗅",
      "zh": "黄仁勋，是一种周期"
-    },
-    {
-     "title": "把高频日常写成SOP，真的非常爽",
-     "link": "https://www.huxiu.com/article/4905191.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 00:14:06 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《把高频日常写成 SOP，真的非常爽》 在我手机里，有一份最常用的文档，名字简单又直接，就叫《出差需要带的东西》。 文档里有这么几个分类：重要、随身物品、电子设备、办公用品、洗漱用品、换洗衣物和其他。 每一类别下面，又列了具体的物品名称。比如“重要”这一列，就只有“伸手要钱”四种东西，也就是身份证、手机、家门钥匙和钱包。 有的东西后面，还跟着一句备注，比如“充电宝：收在背包侧袋，不要塞行李箱”。这样方便随时取用，也方便坐飞机的时候过安检。 这份文档是三年前写的。我记得写它的那个晚上，我刚出差回家。那次出差又",
-     "source": "虎嗅",
-     "zh": "把高频日常写成SOP，真的非常爽"
     }
    ]
   },
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Elton John’s Apple Music show to feature King Charles in November 14 special",
+     "link": "https://9to5mac.com/2026/11/12/elton-johns-apple-music-show-to-feature-king-charles-in-november-14-special/",
+     "pubDate": "Thu, 12 Nov 2026 20:07:30 +0000",
+     "summary": "Apple Music and Buckingham Palace today announced that King Charles will join the next episode of Sir Elton John’s Rocket Hour to discuss the 50th anniversary of his charity and the role music has played in its work over the years. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Elton John’s Apple Music show to feature King Charles in November 14 special"
+    },
+    {
+     "title": "X now lets you share 5x more photos and videos per post",
+     "link": "https://9to5mac.com/2026/11/12/x-now-lets-you-share-5x-more-photos-and-videos-per-post/",
+     "pubDate": "Thu, 12 Nov 2026 20:05:12 +0000",
+     "summary": "Since the Twitter days, X has limited media-per-post to four items. As of today, you can share five times more photos and videos per post. more…",
+     "source": "9to5Mac",
+     "zh": "X now lets you share 5x more photos and videos per post"
+    },
     {
      "title": "Google’s Intelligent Eyewear is great at translation, but I wouldn’t use it to have a conversation",
      "link": "https://www.androidauthority.com/smart-glasses-translation-3734126/",
@@ -2100,9 +2116,9 @@ window.INDUSTRY_DATA = {
     {
      "title": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence",
      "link": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
-     "pubDate": "Thu, 12 Nov 2026 18:20:44 +0000",
+     "pubDate": "Thu, 12 Nov 2026 18:01:41 +0000",
      "summary": "After this week’s Carbon availability , Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.” more…",
-     "source": "9to5Mac",
+     "source": "9to5Google",
      "zh": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence"
     },
     {
@@ -2170,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple Sports adds live UFC updates"
     },
     {
-     "title": "Apple Sports adds UFC events with real-time stats and results",
-     "link": "https://9to5mac.com/2026/11/12/apple-sports-adds-ufc-events-with-real-time-stats-and-results/",
-     "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
-     "summary": "Apple continues to expand the appeal of its free Sports app, which focuses on delivering real-time sports scores and stats, across many different sports. Today, Apple is adding UFC into the mix, so MMA fans can track the fights live through the unified Apple Sports experience. more…",
-     "source": "9to5Mac",
-     "zh": "Apple Sports adds UFC events with real-time stats and results"
-    },
-    {
      "title": "Deals: Galaxy SmartTag 3 up to 30% off, Chromebooks, Google Home Speaker, Walmart early Black Friday now live, more",
      "link": "https://9to5google.com/2026/11/12/deals-smarttag-3-chromebook-walmart-early-black-friday/",
      "pubDate": "Thu, 12 Nov 2026 16:48:00 +0000",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Following their announcement back in July, Samsung has now opened pre-orders for its Intelligent Eyewear smart glasses. They come in 30 distinct designs co-developed with Warby Parker and Gentle Monster. Pricing starts at $395, with the glasses scheduled to be available in just two markets – South K",
      "source": "GSMArena",
      "zh": "Samsung’s Intelligent Eyewear glasses are now up for pre-order"
-    },
-    {
-     "title": "Leica’s legacy-inspired “hammertone” finish is available in analog and digital flavors",
-     "link": "https://www.dpreview.com/news/leica-hammertone-m11-p-m-a-special-edition/",
-     "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
-     "summary": "Leica has announced two new special edition cameras: it’s making versions of its digital M11-P and film M-A with a “hammertone” finish on their brass top and bottom plates. Beyond just changing the color of the camera, the company says the “distinctive texture is formed during the drying process whe",
-     "source": "DPReview",
-     "zh": "Leica’s legacy-inspired “hammertone” finish is available in analog and digital flavors"
     }
    ]
   },

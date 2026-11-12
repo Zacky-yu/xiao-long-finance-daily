@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 18:31:58",
+ "generated_at": "2026/11/12 18:44:39",
  "recent_days": 7,
  "industries": [
   {
@@ -1410,14 +1410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Water Surges Into Navajo Reservoir"
     },
     {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
-    },
-    {
      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
      "pubDate": "Tue, 10 Nov 2026 19:22:45 +0000",
@@ -1466,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "ESCAPADE on its way to Mars after Earth flybys"
     },
     {
-     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
-     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
-    },
-    {
      "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
      "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
@@ -1506,22 +1490,6 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Unveils Moon Base Awards at MAX POWER"
     },
     {
-     "title": "NASA’s Moon Base plan gains a PROMISE",
-     "link": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
-     "pubDate": "Sun, 08 Nov 2026 04:43:57 +0000",
-     "summary": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar… The post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "NASA’s Moon Base plan gains a PROMISE"
-    },
-    {
-     "title": "NASA announces search for new astronauts",
-     "link": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/",
-     "pubDate": "Sat, 07 Nov 2026 18:00:32 +0000",
-     "summary": "For the first time in two years, NASA is opening applications for its next astronaut… The post NASA announces search for new astronauts appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "NASA announces search for new astronauts"
-    },
-    {
      "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
      "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
      "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
@@ -1536,6 +1504,30 @@ window.INDUSTRY_DATA = {
      "summary": "Liftoff from pad 4E at Vandenberg Space Force Base occurred at 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
      "source": "Spaceflight Now",
      "zh": "Falcon 9 launches from California on classified mission for U.S. Space Force"
+    },
+    {
+     "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
+     "link": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
+     "pubDate": "Thu, 05 Nov 2026 22:34:58 +0000",
+     "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
+     "source": "Spaceflight Now",
+     "zh": "Blue Origin reveals new kick stage, engines for its New Glenn rockets"
+    },
+    {
+     "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
+     "link": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
+     "pubDate": "Thu, 05 Nov 2026 22:30:36 +0000",
+     "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
+     "source": "Spaceflight Now",
+     "zh": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array"
+    },
+    {
+     "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
+     "link": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
+     "pubDate": "Thu, 05 Nov 2026 22:28:40 +0000",
+     "summary": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
+     "source": "Spaceflight Now",
+     "zh": "Spacewalkers complete five-year effort to upgrade space station power supply"
     }
    ]
   },
@@ -1545,6 +1537,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+     "link": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+     "pubDate": "Thu, 12 Nov 2026 10:39:34 +0000",
+     "summary": "The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Hackers Deploy Malware in Fresh ScreenConnect Campaign"
+    },
     {
      "title": "Microsoft confirms Windows security updates installation issues",
      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
@@ -1730,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "Critical Xen Orchestra Flaws Exploited in Attacks"
     },
     {
-     "title": "Asus, Zoom Release Security Patches",
-     "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
-     "pubDate": "Wed, 11 Nov 2026 13:58:38 +0000",
-     "summary": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Asus, Zoom Release Security Patches"
-    },
-    {
      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
      "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
      "pubDate": "Tue, 10 Nov 2026 22:26:51 GMT",
@@ -1761,6 +1753,78 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "车企自研芯片开始外供，能否打开新市场？",
+     "link": "https://www.tmtpost.com/8203138.html",
+     "pubDate": "Thu, 12 Nov 2026 18:35:13 +0800",
+     "summary": "从自家车型走向外部客户，车企造芯的下一场较量，已经从技术研发延伸到市场争夺。",
+     "source": "钛媒体",
+     "zh": "车企自研芯片开始外供，能否打开新市场？"
+    },
+    {
+     "title": "Sources: Tencent founder Pony Ma says in his annual speech that he is willing to deploy half of the company&apos;s 100,000-strong workforce to AI-native businesses (Bloomberg)",
+     "link": "https://www.techmeme.com/261112/p11#a261112p11",
+     "pubDate": "Thu, 12 Nov 2026 05:35:08 -0500",
+     "summary": "Bloomberg : Sources: Tencent founder Pony Ma says in his annual speech that he is willing to deploy half of the company's 100,000-strong workforce to AI-native businesses &nbsp; &mdash;&nbsp; Tencent Holdings Ltd.'s billionaire founder Pony Ma said he's willing to deploy half of his troops to AI-nat",
+     "source": "Techmeme",
+     "zh": "Sources: Tencent founder Pony Ma says in his annual speech that he is willing to deploy half of the company&apos;s 100,000-strong workforce to AI-native businesses (Bloomberg)"
+    },
+    {
+     "title": "国产合金已经卖到几万吨了，东风为什么还用美铝的牌号？",
+     "link": "https://www.tmtpost.com/8203150.html",
+     "pubDate": "Thu, 12 Nov 2026 18:35:08 +0800",
+     "summary": "两米长的铸件，车企买的是一套数据。",
+     "source": "钛媒体",
+     "zh": "国产合金已经卖到几万吨了，东风为什么还用美铝的牌号？"
+    },
+    {
+     "title": "平头哥独立上市，阿里图什么？",
+     "link": "https://www.tmtpost.com/8203164.html",
+     "pubDate": "Thu, 12 Nov 2026 18:35:02 +0800",
+     "summary": "国产第二的平头哥，要上市了。",
+     "source": "钛媒体",
+     "zh": "平头哥独立上市，阿里图什么？"
+    },
+    {
+     "title": "A look at the AI community&apos;s \"handoverism\" ideas, which envision humanity entrusting \"the direction of its future to AI\", and what it may look like in practice (Ruxandra Teslo/Ruxandra&apos;s Substack)",
+     "link": "https://www.techmeme.com/261112/p10#a261112p10",
+     "pubDate": "Thu, 12 Nov 2026 05:30:05 -0500",
+     "summary": "Ruxandra Teslo / Ruxandra's Substack : A look at the AI community's &ldquo;handoverism&rdquo; ideas, which envision humanity entrusting &ldquo;the direction of its future to AI&rdquo;, and what it may look like in practice &nbsp; &mdash;&nbsp; Even the optimistic visions of a post-AGI future leave l",
+     "source": "Techmeme",
+     "zh": "A look at the AI community&apos;s \"handoverism\" ideas, which envision humanity entrusting \"the direction of its future to AI\", and what it may look like in practice (Ruxandra Teslo/Ruxandra&apos;s Substack)"
+    },
+    {
+     "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+     "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+     "pubDate": "Thu, 12 Nov 2026 10:30:00 +0000",
+     "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+     "source": "WIRED",
+     "zh": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently"
+    },
+    {
+     "title": "直播间里被叫“家人”，是大促限定款吗？",
+     "link": "https://www.huxiu.com/article/4905076.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 18:29:22 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，编辑：尤蕾，作者：L 资本与技术联手，以前所未有的效率生产和复制一整套话语体系，把它塞进几亿人的嘴巴里。或许你我正在经历一场前所未有的语言实验。 你是否还记得，上一次被叫“家人”是什么时候？是在家庭聚会的饭桌上，还是在某个直播间里？相信你的答案大概率是后者，也很可能配上这样的画面：一个素未谋面的主播对着镜头，热情洋溢地张开双臂，喊出亲切的称谓后，紧跟着的是“3，2，1，上链接”。 这些司空见惯的表达，已然成为互联网上出现频率最高的语言。它们从直播间里生长而出，爬进生活，之后影响着你我的日常表达。于是，我们看到，“家人们谁懂啊”成了短视频的万能开头，“上车”也不再",
+     "source": "虎嗅",
+     "zh": "直播间里被叫“家人”，是大促限定款吗？"
+    },
+    {
+     "title": "左手拼低价，右手抢超创，能解得了Agent的同质竞争焦虑吗",
+     "link": "https://www.huxiu.com/article/4905075.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 18:28:56 +0800",
+     "summary": "本文来自微信公众号： 叁拾代 ，作者：叁拾代 针对大模型局限进行补齐的空间变小，依靠堆叠功能、拼凑工作流很难再赢得市场，Agent竞争焦点已经从单纯的功能补齐转向了创作者生态绑定与商业模式探索的深水区。 双十一的战火烧到了AI视频工具市场。 LibTV开启双十一狂欢季，Wan3.0、Kling4.0、Minimax H3三大视频模型最长30天0积分无限用，并叠加立减，时长、积分赠送等多项福利；即梦个人年包低至4.5折、团队年包低至4.2折、季度会员4.3折起；主打影视协作平台的AniShort首购低至2.3折，最高立减超三万。 双十一只是近半年愈演愈烈的AI视频工具价格战的一个具体缩影。今年三",
+     "source": "虎嗅",
+     "zh": "左手拼低价，右手抢超创，能解得了Agent的同质竞争焦虑吗"
+    },
+    {
+     "title": "两城双子星，正在完成中国AI产业闭环。",
+     "link": "https://www.tmtpost.com/8202784.html",
+     "pubDate": "Thu, 12 Nov 2026 18:22:22 +0800",
+     "summary": "谁能提供真正的\"超级接口“",
+     "source": "钛媒体",
+     "zh": "两城双子星，正在完成中国AI产业闭环。"
+    },
     {
      "title": "摩根大通：到 2030 年，美国人形机器人产量将达 30 万至 40 万台",
      "link": "https://www.ithome.com/1/026/334.htm",
@@ -1858,22 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece"
     },
     {
-     "title": "腾讯拒绝硅谷式裁员，选择了一条更难走的路",
-     "link": "https://www.huxiu.com/article/4905037.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 18:05:25 +0800",
-     "summary": "作者：监正，题图来自：视觉中国 11月11日是腾讯28岁生日。深圳大铲湾的新总部里，马化腾、刘炽平等高管给员工派发定制的企鹅蛋糕，QQ农场被搬进园区做成打卡点，约2.9万名员工参加了庆典。 腾讯不久前发布了Hy4大语音模型，成功跻身全球开源模型第一梯队，办公AI产品Workbuddy如日中天；此外，微信和游戏业务依然稳健，这有助于确保公司现金流稳定。有钱且充满雄心，也让腾讯从上半年被质疑为&ldquo;老登&rdquo;公司，逐渐扭转口碑，变成一家敢于拥抱AI浪潮的科技巨头。 但司庆当晚的气氛，却是另一回事。司庆期间的Linktime线上直播结束后，脉脉上的腾讯同事圈一度因为访问量过大而崩溃。",
-     "source": "虎嗅",
-     "zh": "腾讯拒绝硅谷式裁员，选择了一条更难走的路"
-    },
-    {
-     "title": "平头哥独立上市，阿里图什么？",
-     "link": "https://www.huxiu.com/article/4905063.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 18:04:22 +0800",
-     "summary": "本文来自微信公众号： AIX财经 ，作者：AIX财经团队，编辑：魏佳 国产第二的平头哥，要上市了。 AIX财经（AIXcaijing）原创 阿里准备把自家的芯片公司送上市了。 11月10日，阿里巴巴公告，旗下全资子公司平头哥已于9月11日以保密形式向港交所递交上市申请，拟在主板独立上市。分拆完成后，平头哥预计仍将是阿里的子公司。 这意味着，阿里希望为这张算力底牌引入外部资本，同时继续将它留在自己的AI版图中。 平头哥已有一定的经营规模，今年3月，阿里CEO吴泳铭披露，平头哥年化营收已达百亿元级别；到8月，阿里披露，真武芯片已通过阿里云，在20多个行业的超过650家外部客户中实现商业化应用。不过",
-     "source": "虎嗅",
-     "zh": "平头哥独立上市，阿里图什么？"
-    },
-    {
      "title": "Lumbra, which is developing tech to orchestrate AI agents in ultra-secure computing environments for the intelligence community, raised a $25M Series A (Mike Wheatley/SiliconANGLE)",
      "link": "https://www.techmeme.com/261112/p8#a261112p8",
      "pubDate": "Thu, 12 Nov 2026 05:03:47 -0500",
@@ -1906,14 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "微星 2026 年 Q1~Q3 归母净利润 104.49 亿新台币，同比增长 153.9%"
     },
     {
-     "title": "社会力量支持基础研究大会在沪召开，共议科学慈善\"耐心\"之道",
-     "link": "https://www.tmtpost.com/8203022.html",
-     "pubDate": "Thu, 12 Nov 2026 17:36:11 +0800",
-     "summary": "天桥脑科学研究院宣布投入两亿元启动两项新计划，国内首份科学慈善\"画像报告\"与《2026科学慈善共建倡议（上海）》同期发布。",
-     "source": "钛媒体",
-     "zh": "社会力量支持基础研究大会在沪召开，共议科学慈善\"耐心\"之道"
-    },
-    {
      "title": "巴西独立站接Pix后，本地素材转化差3倍是哪里出了问题？",
      "link": "https://www.baijing.cn/question/638692",
      "pubDate": "Thu, 12 Nov 2026 09:36:03 +0000",
@@ -1922,36 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "巴西独立站接Pix后，本地素材转化差3倍是哪里出了问题？"
     },
     {
-     "title": "粤宏远A的转型赌注：5.5亿买一条“有利润、没现金”的曲线｜并购一线",
-     "link": "https://www.tmtpost.com/8202821.html",
-     "pubDate": "Thu, 12 Nov 2026 17:23:25 +0800",
-     "summary": "并购转型面临回款考验。",
-     "source": "钛媒体",
-     "zh": "粤宏远A的转型赌注：5.5亿买一条“有利润、没现金”的曲线｜并购一线"
-    },
-    {
      "title": "M87 星系黑洞存在甜甜圈结构",
      "link": "https://www.solidot.org/story?sid=85868",
      "pubDate": "Thu, 12 Nov 2026 16:43:31 +0800",
      "summary": "作为人类首张黑洞照片，距地球约 5500 万光年、质量超太阳 60 亿倍的 M87 星系中心超大质量黑洞(M87*黑洞)被形象称为“甜甜圈”的图像，自 7 年多前发布以来广受关注，学界对其独特环状结构是否存在也有争议。一项研究独立验证了M87*黑洞经典重建图像中的独特环状结构，确认“甜甜圈”图像无误，最新的重建结果利用一款新开发的独立成像算法，其生成的新图像与原始图像高度重合。研究人员将 M87* 黑洞数据集输入一个成像算法，以验证之前的图像重建结果。该算法将望远镜按闭合三站而不是两两配对进行划分，再综合个体望远镜的测量结果，这么做能计算校准误差，最后得到了一组符合这些标准的重建图像。",
      "source": "Solidot",
      "zh": "M87 星系黑洞存在甜甜圈结构"
-    },
-    {
-     "title": "从华尔街到5900亿魏桥集团，黄然非的隐秘资本版图",
-     "link": "https://www.tmtpost.com/8201514.html",
-     "pubDate": "Thu, 12 Nov 2026 16:41:44 +0800",
-     "summary": "5900亿魏桥集团，与背后神秘的黄然非。",
-     "source": "钛媒体",
-     "zh": "从华尔街到5900亿魏桥集团，黄然非的隐秘资本版图"
-    },
-    {
-     "title": "想做AI视频，不知道用哪款模型？我们帮你测完了",
-     "link": "https://www.tmtpost.com/8202837.html",
-     "pubDate": "Thu, 12 Nov 2026 16:41:39 +0800",
-     "summary": "四大视频模型发布时没告诉你的真相，我们测出来了。",
-     "source": "钛媒体",
-     "zh": "想做AI视频，不知道用哪款模型？我们帮你测完了"
     },
     {
      "title": "《Python 之禅》作者 Tim Peters 去世",
@@ -1976,30 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "在 LG 电视监视用户的报道引发广泛关注之后，The Verge 联系了亚马逊、苹果、Google、海信、LG、松下、Roku、三星、索尼、TCL 和 Vizio 等机顶盒和电视厂商，询问了相同的问题，其中海信、松下等无任何回应，TCL 等厂商很多问题也没有直接回应，而 LG 即便被发现监视用户但其代表在回应时基本上完全予以否认。举例来说，电视是否会在用户观看内容时收集屏幕截图、录制视频或音频——即使用自动内容识别（Automatic Content Recognition）技术：亚马逊、Google 和苹果都否认使用 ACR 技术，而 LG 声称它的 ACR 功能不会收集或存储电视上的屏幕截",
      "source": "Solidot",
      "zh": "电视厂商回应有关监视的提问"
-    },
-    {
-     "title": "A growing number of young victims whose photos were sexualized using Grok are seeking to hold xAI legally accountable for allowing users to generate such images (Alexandra S. Levine/Bloomberg)",
-     "link": "https://www.techmeme.com/261112/p7#a261112p7",
-     "pubDate": "Thu, 12 Nov 2026 02:30:01 -0500",
-     "summary": "Alexandra S. Levine / Bloomberg : A growing number of young victims whose photos were sexualized using Grok are seeking to hold xAI legally accountable for allowing users to generate such images &nbsp; &mdash;&nbsp; Jane Doe hadn't thought about her middle school graduation in years &mdash; until a ",
-     "source": "Techmeme",
-     "zh": "A growing number of young victims whose photos were sexualized using Grok are seeking to hold xAI legally accountable for allowing users to generate such images (Alexandra S. Levine/Bloomberg)"
-    },
-    {
-     "title": "Munich-based Agile Robots, which develops humanoids, mobile robots, robotic arms, and control software, raised $500M led by SoftBank at an $8.5B valuation (Marilen Martin/Bloomberg)",
-     "link": "https://www.techmeme.com/261112/p6#a261112p6",
-     "pubDate": "Thu, 12 Nov 2026 02:10:00 -0500",
-     "summary": "Marilen Martin / Bloomberg : Munich-based Agile Robots, which develops humanoids, mobile robots, robotic arms, and control software, raised $500M led by SoftBank at an $8.5B valuation &nbsp; &mdash;&nbsp; Agile Robots SE raised funds valuing the German robotics maker at $8.5 billion in a round led b",
-     "source": "Techmeme",
-     "zh": "Munich-based Agile Robots, which develops humanoids, mobile robots, robotic arms, and control software, raised $500M led by SoftBank at an $8.5B valuation (Marilen Martin/Bloomberg)"
-    },
-    {
-     "title": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection (Emily Mullin/Wired)",
-     "link": "https://www.techmeme.com/261112/p5#a261112p5",
-     "pubDate": "Thu, 12 Nov 2026 01:55:13 -0500",
-     "summary": "Emily Mullin / Wired : Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection &nbsp; &mdash;&nbsp; Startup Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens wi",
-     "source": "Techmeme",
-     "zh": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection (Emily Mullin/Wired)"
     }
    ]
   },
@@ -2009,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "I stopped letting my old Amazon Fire tablets collect dust — here are 5 ways I use them",
+     "link": "https://www.androidauthority.com/i-stopped-letting-my-old-amazon-fire-tablets-collect-dust-3733012/",
+     "pubDate": "Thu, 12 Nov 2026 10:30:28 +0000",
+     "summary": "There is still plenty of life left.",
+     "source": "Android Authority",
+     "zh": "I stopped letting my old Amazon Fire tablets collect dust — here are 5 ways I use them"
+    },
     {
      "title": "The Galaxy S27 Ultra camera leak has me worried Samsung learned nothing",
      "link": "https://www.androidauthority.com/galaxy-s27-ultra-camera-concerns-3733812/",
@@ -2088,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Motorola MA2 is ~$30 more expensive than first claimed.",
      "source": "Android Authority",
      "zh": "Motorola’s new wireless Android Auto dongle is finally here, but it has a big price hike"
-    },
-    {
-     "title": "Google Home gets more reliable Gemini commands, faster timers, and Nest camera fixes",
-     "link": "https://www.androidauthority.com/google-home-gemini-nest-camera-fixes-3734201/",
-     "pubDate": "Thu, 12 Nov 2026 06:00:04 +0000",
-     "summary": "Small fixes that could make a big difference at home.",
-     "source": "Android Authority",
-     "zh": "Google Home gets more reliable Gemini commands, faster timers, and Nest camera fixes"
     },
     {
      "title": "Huawei's Osta sub-brand now has an official launch date",
@@ -2258,6 +2250,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Orica Limited reports FY results",
+     "link": "https://seekingalpha.com/news/4671249-orica-limited-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 05:37:20 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Orica Limited reports FY results"
+    },
+    {
+     "title": "Aurora Mobile GAAP EPS of $0.01, revenue of $15.88M; revises FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4671248-aurora-mobile-gaap-eps-of-001-revenue-of-1588m-revises-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 05:36:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Aurora Mobile GAAP EPS of $0.01, revenue of $15.88M; revises FY2026 outlook"
+    },
+    {
+     "title": "Google faces EU court hurdles after adviser questions AdSense fine reversal",
+     "link": "https://seekingalpha.com/news/4671246-google-faces-eu-court-hurdles-after-adviser-questions-adsense-fine-reversal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 05:36:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Google faces EU court hurdles after adviser questions AdSense fine reversal"
+    },
+    {
+     "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+     "link": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+     "pubDate": "Thu, 12 Nov 2026 10:30:07 GMT",
+     "summary": "Starshield is SpaceX's military-grade satellite network designed for government and national security use, building on the technology developed for Starlink.",
+     "source": "CNBC",
+     "zh": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin"
+    },
+    {
      "title": "Minerva S.A. reports Q3 results",
      "link": "https://seekingalpha.com/news/4671245-minerva-sa-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 12 Nov 2026 05:28:10 -0500",
@@ -2282,28 +2306,20 @@ window.INDUSTRY_DATA = {
      "zh": "Flagship Communities Real Estate Investment Trust reports Q3 results"
     },
     {
-     "title": "freenet AG GAAP EPS of €1.26, revenue of €2.29B; reaffirms FY2026 outlook",
-     "link": "https://seekingalpha.com/news/4671242-freenet-ag-gaap-eps-of-126-revenue-of-229b-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 05:15:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "freenet AG GAAP EPS of €1.26, revenue of €2.29B; reaffirms FY2026 outlook"
-    },
-    {
-     "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-     "link": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
-     "pubDate": "Thu, 12 Nov 2026 10:15:02 GMT",
-     "summary": "Starshield is SpaceX's military-grade satellite network designed for government and national security use, building on the technology developed for Starlink.",
-     "source": "CNBC",
-     "zh": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin"
-    },
-    {
      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
      "pubDate": "Thu, 12 Nov 2026 10:15:00 GMT",
      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
      "source": "MarketWatch",
      "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
+    },
+    {
+     "title": "Nvidia shares slide as board considers Huang’s future",
+     "link": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
+     "pubDate": "Thu, 12 Nov 2026 10:14:25 GMT",
+     "summary": "Stock down more than 6% ahead of Wall Street open as chief executive’s fate hangs in balance",
+     "source": "Financial Times",
+     "zh": "Nvidia shares slide as board considers Huang’s future"
     },
     {
      "title": "Alice开始走出wind终端",
@@ -2322,22 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "10月新能源重卡渗透率超50%，快充和换电向干线延伸"
     },
     {
-     "title": "MSCI announces November index changes, adds Moderna to World Index",
-     "link": "https://seekingalpha.com/news/4671238-msci-announces-november-index-changes-adds-moderna-to-world-index?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 05:12:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MSCI announces November index changes, adds Moderna to World Index"
-    },
-    {
-     "title": "Central Puerto GAAP EPS of $0.25, revenue of $532.4M",
-     "link": "https://seekingalpha.com/news/4671240-central-puerto-gaap-eps-of-025-revenue-of-5324m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 05:08:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Central Puerto GAAP EPS of $0.25, revenue of $532.4M"
-    },
-    {
      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
      "pubDate": "Thu, 12 Nov 2026 10:07:00 GMT",
@@ -2352,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Prince Harry and Meghan Markle have reportedly moved into a new Cotswolds home on their friend’s estate after returning to the U.K. with their children in August.",
      "source": "MarketWatch",
      "zh": "Prince Harry and Meghan Markle move into new home in Cotswolds"
-    },
-    {
-     "title": "Nvidia shares slide as board considers Huang’s future",
-     "link": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
-     "pubDate": "Thu, 12 Nov 2026 10:02:30 GMT",
-     "summary": "Stock down more than 6% ahead of Wall Street open as chief executive’s fate hangs in balance",
-     "source": "Financial Times",
-     "zh": "Nvidia shares slide as board considers Huang’s future"
     },
     {
      "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
@@ -2418,54 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "中芯国际Q3归母净利润同比增长87.6%，环比下降逾8%，预计Q4收入环比增长4%-6% | 财报见闻"
     },
     {
-     "title": "雪峰科技：截至11月10日最新股东户数3.28万户，较上期减少0.59%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929653311.html",
-     "pubDate": "Thu, 12 Nov 2026 16:40:42 +0800",
-     "summary": "雪峰科技 最新披露数据显示，截至11月10日公司股东户数为3.28万户，较上期(2026年10月30日) 减少194户，降幅为0.59% 。户均持有流通股数量 由上期的3.25万股上升至3.27万股， 户均持股金额 由上期的21.91万元增加至22.66万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "雪峰科技：截至11月10日最新股东户数3.28万户，较上期减少0.59%"
-    },
-    {
-     "title": "张雪机车第10万台下线，“小目标”兑现",
-     "link": "http://finance.eastmoney.com/news/1354,202611123929655327.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:58 +0800",
-     "summary": "11月11日，张雪机车第10万台整车在重庆生产基地正式下线，提前实现今年9月摩博会上提出的“年末10万台产量”目标。张雪在社交平台晒出10月成绩单时说：“一个小目标今年已经挣到了。” 支撑这句话的是一组销量数据。10月，张雪机车单月售出近5000台，总量居行业第二；主力车型500RR单月售出2697台，在仿赛类目中销量为第二名的三倍多。9月，张雪机车以9979台登顶国内250cc以上国产品牌中大排量零售榜，超过春风（9153台）和无极（7610台）。 产能爬坡的节奏与之同步。自2025年3月首台量产车下线以来，月产量从首月的1723台起步，2025年11月达到3000台，2026年4月提升至5",
-     "source": "东方财富股票",
-     "zh": "张雪机车第10万台下线，“小目标”兑现"
-    },
-    {
-     "title": "张一鸣：字节有能力与OpenAI和Anthropic展开竞争",
-     "link": "http://stock.eastmoney.com/news/1416,202611123929656142.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:55 +0800",
-     "summary": "11月12日，据澎湃新闻，近期字节跳动创始人张一鸣再次在内部分享中谈到AI业务。 据了解，张一鸣在近期一次面向AI团队的全员会议上表示，字节有能力与OpenAI和Anthropic展开竞争，但真正追平前沿技术，“最早也要到2029年或2030年”。字节跳动的大模型要对标国际第一梯队。 张一鸣称，与海外顶尖AI公司相比，字节Seed系列模型的预训练数据集规模仍然少了，这是字节AI当下最需要关注的问题。 记者注意到，在摆脱日常公司事务之后，近年来张一鸣将工作中心逐渐转向AI战略规划，尤其是长期关注人才招聘与培养工作上。 在去年一次活动上，张一鸣称，他注意到很多人才潜力没有被充分挖掘。他以机器学习模",
-     "source": "东方财富股票",
-     "zh": "张一鸣：字节有能力与OpenAI和Anthropic展开竞争"
-    },
-    {
-     "title": "【调研快报】京东方A接待国联民生证券调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611123929652369.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:41 +0800",
-     "summary": "京东方A 11月3日公告称， 11月3日 接待 国联民生 证券 调研。 接待人员包括董事会秘书室工作人员 张妍。 公司就以下问题进行了回复： 讨论的主要内容为回答投资者提问,问答情况如下: 1、近期显示行业情况? 答:2026年第三季度以来,存储短缺和涨价影响持续冲击 消费电子 行业,相应成本压力传导到消费端,引发部分产品因售价上涨导致销量同比、环比大幅回落,中小尺寸显示产品出货明显承压。 LCD方面,根据咨询机构数据分析,第三季度全球笔记本... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立",
-     "source": "东方财富股票",
-     "zh": "【调研快报】京东方A接待国联民生证券调研"
-    },
-    {
-     "title": "飞猪2026双11履约GMV同比增60% “囤旅游”走向实效兑现",
-     "link": "http://finance.eastmoney.com/news/1373,202611123929654886.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:29 +0800",
-     "summary": "新华财经北京11月12日电（记者李振北）11月12日，飞猪发布2026年双11大促数据。平台活动商品履约GMV同比增长60%，交易用户数同比提升41%。旅游双11以“先囤后约”套餐商品为核心，履约GMV走高、核销预约增多，意味着今年飞猪双11期间，“囤旅游”走向实效兑现。 数据显示，头部品牌持续领跑，亿元成交阵营进一步扩容。万豪、希尔顿、洲际、凯悦、 华住 、开元旅业、ClubMed、万达、雅高等国内外 酒店 集团，上海 迪士尼 、北京环球度假区、上海乐高乐园、长隆、松赞旅行、沙坡头旅游度假区、上海薄荷国旅等品牌，活动商品成交额均破亿元。 与此同时，特色商家加速崛起，今年成交额翻倍的商家较去年",
-     "source": "东方财富股票",
-     "zh": "飞猪2026双11履约GMV同比增60% “囤旅游”走向实效兑现"
-    },
-    {
-     "title": "恒生科技指数跌超2%，互联网巨头集体走低，光通信股回调，长飞光纤光缆跌超6%；医药股逆势走高｜港股收盘",
-     "link": "http://hk.eastmoney.com/news/11223,202611123929656348.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:28 +0800",
-     "summary": "恒生指数收跌1.26%，恒生科技指数收跌2.36%。 互联网巨头集体走低， 阿里巴巴 重挫近7%，腾讯、 百度 跌超2%。 光 通信 股回调， 长飞光纤光缆 跌超6%， 中际旭创 跌近4%， 剑桥科技 跌近6%。 医药股逆势走高， 凯莱英 涨超1%， 昭衍新药 涨近2%， 药明康德 涨超2%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "恒生科技指数跌超2%，互联网巨头集体走低，光通信股回调，长飞光纤光缆跌超6%；医药股逆势走高｜港股收盘"
-    },
-    {
      "title": "私募量化指增策略风光不再 蒙玺、弈倍旗下产品不到半年亏成“6毛基”",
      "link": "http://finance.eastmoney.com/news/1345,202611123929646127.html",
      "pubDate": "Thu, 12 Nov 2026 16:31:49 +0800",
@@ -2496,6 +2440,54 @@ window.INDUSTRY_DATA = {
      "summary": "港股11月12日收盘走低，恒生指数收报24008.55点，跌307.37点，跌幅1.26%；恒生科技指数收报3931.93点，跌95.13点，跌幅2.36%。恒生指数成分股中 领展房产基金 、 华虹宏力 、 药明康德 涨幅居前， 阿里巴巴 -W、 快手-W 、 洛阳钼业 跌幅靠前。恒生科技指数成分股中 天数智芯 、 华虹宏力 涨幅居前， 智谱 、 MINIMAX-W 、 阿里巴巴 -W跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定",
      "source": "东方财富资讯",
      "zh": "11月12日港股收盘：恒指跌1.26% 恒生科技指数跌2.36%"
+    },
+    {
+     "title": "需求增长+新增产能难放量 电子布价格短期或将继续上行",
+     "link": "http://stock.eastmoney.com/news/11218,202611123929633256.html",
+     "pubDate": "Thu, 12 Nov 2026 16:12:01 +0800",
+     "summary": "AI算力需求大增拉动下， PCB （ 印刷 电路板）上游 电子 布行业的行情正被推向新的高点。 供给端，超薄、低介电特种布等品类供不应求、库存告急，产业链上市公司紧锣密鼓布局新产能；需求端， 英伟达 新架构测试无 电子 布计算背板的传闻扰动行业预期。在此背景下，相关上市公司如何布局？新增产能何时能够放量？ 电子 布价格短期趋势如何？ 财联社记者采访获悉，供需错配是本轮电子布涨价的主导因素，目前行业呈现“常规布缺口+特种布严重缺货”的双紧格局，叠加新增产能短期内难以放量，预计电子布价格短期内将继续上行。 对于近期传闻的 英伟达 下一代Rubin Ultra计算背板在测试无电子布方案，有上市公司坦",
+     "source": "东方财富资讯",
+     "zh": "需求增长+新增产能难放量 电子布价格短期或将继续上行"
+    },
+    {
+     "title": "尾盘A股突变！背后发生了什么？机器人、物理AI概念股走低",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929610169.html",
+     "pubDate": "Thu, 12 Nov 2026 16:05:32 +0800",
+     "summary": "今天的市场，真的没想到会走成这样，隔夜美股科技暴涨，尽管今天有 英伟达 事件的发酵影响，但纳指 期货 也只是小跌1%意思一下，没想到创业板指数跌超2%，科创指数几乎回吐了盘中所有的涨幅。 一起看看怎么回事吧。 11月12日，市场全天冲高回落，创业板指午后跌超2%。截至收盘，沪指跌0.67%，深成指跌1.68%，创业板指跌2.44%。 市场共875只个股上涨，37只个股涨停，4635只个股下跌。 燃气股逆市走强， 东方环宇 4连板， 洪通燃气 涨停。 消费股表现活跃， 好当家 、 广百股份 、 惠发食品 等涨停。 算力芯片股盘中拉升，燧原科技涨超10%， 寒武纪 、沐曦股份涨超8%。 下跌方面，",
+     "source": "东方财富资讯",
+     "zh": "尾盘A股突变！背后发生了什么？机器人、物理AI概念股走低"
+    },
+    {
+     "title": "Who could run Nvidia after Jensen Huang?",
+     "link": "https://www.ft.com/content/e47f7d4a-88d7-41e4-8c77-8ea8e0769353?syn-25a6b1a6=1",
+     "pubDate": "Thu, 12 Nov 2026 07:54:52 GMT",
+     "summary": "Chip giant co-founder’s future as chief executive is uncertain following report of a second affair",
+     "source": "Financial Times",
+     "zh": "Who could run Nvidia after Jensen Huang?"
+    },
+    {
+     "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
+     "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 07:30:00 GMT",
+     "summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?",
+     "source": "MarketWatch",
+     "zh": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy."
+    },
+    {
+     "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+     "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 04:41:00 GMT",
+     "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+     "source": "MarketWatch",
+     "zh": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang"
+    },
+    {
+     "title": "Huang falls out of favour in Washington",
+     "link": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1",
+     "pubDate": "Thu, 12 Nov 2026 04:19:48 GMT",
+     "summary": "AI kingmaker’s opponents see ‘blood in the water’ after affair with suspected Chinese spy",
+     "source": "Financial Times",
+     "zh": "Huang falls out of favour in Washington"
     }
    ]
   },

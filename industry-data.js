@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 19:57:12",
+ "generated_at": "2026/11/12 20:00:48",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Viessmann launches propane ground-source heat pump compatible with PVT systems",
+     "link": "https://www.pv-magazine.com/2026/11/12/viessmann-launches-propane-ground-source-heat-pump-compatible-with-pvt-systems/",
+     "pubDate": "Thu, 12 Nov 2026 11:57:17 +0000",
+     "summary": "The Vitocal 300-G intelligent energy uses R290 refrigerant and delivers heating capacities ranging from 6 kW to 16 kW, with a maximum flow temperature of 70 C and a seasonal coefficient of performance (SCOP) of up to 5.5. The post Viessmann launches propane ground-source heat pump compatible with PV",
+     "source": "pv magazine",
+     "zh": "Viessmann launches propane ground-source heat pump compatible with PVT systems"
+    },
+    {
      "title": "Nearly 2GW of PV on offer in Saudi Arabia’s renewables latest tender",
      "link": "https://www.pv-tech.org/nearly-2gw-of-pv-on-offer-in-saudi-arabias-renewables-latest-tender/",
      "pubDate": "Thu, 12 Nov 2026 11:48:40 +0000",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "AgRadiance has launched an open-access atlas mapping 2,697 agrivoltaic projects across 109 countries. The interactive platform also tracks regulations, support policies, and court rulings, allowing users to assess project development and regulatory conditions worldwide. The post New open-access atla",
      "source": "pv magazine",
      "zh": "New open-access atlas maps 2,697 agrivoltaic projects across 109 countries"
-    },
-    {
-     "title": "Longi launches new products for the Australian market",
-     "link": "https://www.pv-magazine.com/2026/11/12/longi-launches-new-products-for-the-australian-market/",
-     "pubDate": "Thu, 12 Nov 2026 10:00:00 +0000",
-     "summary": "At All Energy Australia, LONGi unveiled new solar PV modules and showcased the company’s energy storage products. Brett Robinson, senior manager for LONGi Solar Australia, says the new X12 module is well-suited for the country’s compact roofs. Dennis She, VP at LONGi Group and CEO of LONGi Energy St",
-     "source": "pv magazine",
-     "zh": "Longi launches new products for the Australian market"
     },
     {
      "title": "China Targets Global Gas Turbine Market as AI Power Demand Explodes",
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "York Space Systems plans acquisition of Outlook Industries to expand into unmanned systems",
+     "link": "https://seekingalpha.com/news/4671293-york-space-systems-plans-acquisition-of-outlook-industries-to-expand-into-unmanned-systems?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 06:53:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "York Space Systems plans acquisition of Outlook Industries to expand into unmanned systems"
+    },
+    {
      "title": "Pharvaris reports Q3 results",
      "link": "https://seekingalpha.com/news/4671296-pharvaris-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 12 Nov 2026 06:51:53 -0500",
@@ -2298,12 +2306,20 @@ window.INDUSTRY_DATA = {
      "zh": "Figure Technology Solutions Q3 revenue jumps 83%"
     },
     {
-     "title": "AIR Global PLC reports Q3 results",
-     "link": "https://seekingalpha.com/news/4671290-air-global-plc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 06:45:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AIR Global PLC reports Q3 results"
+     "title": "李强主持国务院第二十二次专题学习：强化社保基金安全监管和保值增值",
+     "link": "http://finance.eastmoney.com/news/1345,202611123929783682.html",
+     "pubDate": "Thu, 12 Nov 2026 19:43:37 +0800",
+     "summary": "11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于社会保障工作的重要指示精神和党中央决策部署，进一步深化社会保障制度改革，健全覆盖全民、统筹城乡、公平统一、安全规范、可持续的多层次社会保障体系，推动现代化建设成果更多更公平惠及全体人民。 中国人民大学教授郑功成作讲解。国务院副总理何立峰、刘国中，国务委员谌贻琴作交流发言。 李强在听取讲解和交流发言后指出，我国已基本建成世界上规模最大、功能完备的社会保障体系。当前经济社会发展形势呈现许多新特点，人口结构变化、技术进步、就业方式",
+     "source": "东方财富资讯",
+     "zh": "李强主持国务院第二十二次专题学习：强化社保基金安全监管和保值增值"
+    },
+    {
+     "title": "股价跌破1元！600180紧急提示：面临退市风险",
+     "link": "http://finance.eastmoney.com/news/1345,202611123929781122.html",
+     "pubDate": "Thu, 12 Nov 2026 19:40:44 +0800",
+     "summary": "股价跌破1元面值， *ST瑞茂 紧急公告。 继11月2日股价跌破1元后，11月12日 *ST瑞茂 (600180)再度跌破1元面值。 此前于11月2日， *ST瑞茂 股票收盘价为0.97元/股，低于1元，公司于11月3日公告，提示公司股票存在可能因股价低于面值被终止上市的风险。此后公司股价重回1元以上。 11月12日再度跌破1元/股后，当晚*ST瑞茂披露公告，提示公司股票存在可能因股价低于1元而终止上市的风险。 除存在面值退市风险外，*ST瑞茂还面临财务类退市风险。因公司2025年度财务会计报告被出具了无法表示意见的审计报告，2025年12月31日的财务报告内部控制被出具了否定意见的审计报告，",
+     "source": "东方财富资讯",
+     "zh": "股价跌破1元！600180紧急提示：面临退市风险"
     },
     {
      "title": "【调研快报】张家港行接待广发证券等2家机构调研",
@@ -2360,6 +2376,22 @@ window.INDUSTRY_DATA = {
      "summary": "美国总统特朗普：还记得我第一任总统任期内，反美的民主党人曾不遗余力地试图获取我的个人纳税申报表吗？除了唐纳德·J·特朗普本人之外，任何人都无权获取这些资料，这一点向来不容侵犯。令人震惊的是，他们竟然在美国最高法院赢得了这项前所未有的权利，并聘请了全国最优秀、最严苛的会计师，试图“搞垮特朗普”。经过一年的密集调查，这些受民主党人指使的杰出会计师最终一无所获，唯一发现的事实就是我足额缴税且一切合规。如今，为了转移公众对蓝州大规模腐败和犯罪问题的关注，他们又故伎重演，公然非法威胁共和党人，提出他们明知不实的指控和罪名。除了作弊之外，这就是他们赢得中期选举的手段——但我们绝不会让自己的国家走向地狱！ ",
      "source": "东方财富股票",
      "zh": "特朗普：民主党曾竭力调查我的个人纳税申报表，如今又故伎重演"
+    },
+    {
+     "title": "11月12日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202611123929779813.html",
+     "pubDate": "Thu, 12 Nov 2026 19:32:29 +0800",
+     "summary": "沪深两市多家上市公司11月12日晚间发布公司公告，以下为重要公告汇总。 【品大事】 中际旭创 ：全资子公司拟5000万元参与投资光合叁期基金 中际旭创 (300308)11月12日公告，公司全资子公司旭 创投 资拟以5000万元，认购杭州光合叁期创业投资合伙企业（有限合伙）（简称“光合叁期”）的出资份额，投资完成后，旭 创投 资将持有合伙企业3.28%的出资份额。该基金主要投资于 人工智能 、硬科技、 新材料 和绿色科技、医疗科技、绿色低碳及前沿科技等领域的早期及成长期项目。 福事特 ：拟发行可转债募资不超4.46亿元 用于流体传动智能制造基地等项目 福事特 (301446)11月12日公告，",
+     "source": "东方财富资讯",
+     "zh": "11月12日晚间沪深上市公司重大事项公告最新快递"
+    },
+    {
+     "title": "盘点因“桃色风波”下台的全球十大知名高管",
+     "link": "http://finance.eastmoney.com/news/11137,202611123929779939.html",
+     "pubDate": "Thu, 12 Nov 2026 19:31:24 +0800",
+     "summary": "黄仁勋婚外情风波升级 ，这次被曝涉及其直属下属， 英伟达 董事会据报已讨论是否罢免他。高管因私人关系离任确实有先例， 波音 、 惠普 、 英特尔 CEO都曾在类似风波后辞职， 麦当劳 、雀巢曾直接解雇CEO。 据媒体援引知情人士消息， 英伟达 董事会正准备罢免公司创始人兼首席执行官黄仁勋 。据悉， 英伟达 董事会最早可能于当地时间周四（11月12日）举行会议，以决定黄仁勋的去留。 媒体援引五名曾在英伟达工作的人士称，黄仁勋曾与直接向他汇报的医疗健康业务副总裁金伯利·鲍威尔有过婚外关系。 从图中十起案例来看， 多数涉及高管与本公司员工的私人关系 。事实上，全球不少公司对上下级恋情都有限制或申报要",
+     "source": "东方财富资讯",
+     "zh": "盘点因“桃色风波”下台的全球十大知名高管"
     },
     {
      "title": "到2028年，山东科技成果转化到账经费三年累计将超400亿元",
@@ -2442,6 +2474,14 @@ window.INDUSTRY_DATA = {
      "zh": "China warns US not to use Nvidia scandal as pretext for tech curbs"
     },
     {
+     "title": "白酒股逆势走强！双11名酒战报出炉 成交同比增25%",
+     "link": "http://finance.eastmoney.com/news/11822,202611123929728068.html",
+     "pubDate": "Thu, 12 Nov 2026 18:18:12 +0800",
+     "summary": "11月12日，A股冲高回落，三大指数集体收跌， 白酒 板块逆势走强 ，收涨0.74%，涨幅居行业板块前列。个股方面， 皇台酒业 涨停， 金种子酒 涨超6%， 古井贡酒 涨超2%， 迎驾贡酒 涨超1%， 山西汾酒 、 伊力特 、 贵州茅台 、 五粮液 等跟涨。 今年下半年以来， 白酒 板块累计涨幅为14.24%。 双11酒类战报出炉 消息方面，11月12日， 京东 酒业发布战报显示，10月9日00:00至11月11日24:00， 京东 名酒11.11全时期成交额同比增长25% 。品牌层面，茅台、 五粮液 、 泸州老窖 成交同比分别增长10%、13%、10%。单品层面，茅台飞天2021年整箱成交额",
+     "source": "东方财富资讯",
+     "zh": "白酒股逆势走强！双11名酒战报出炉 成交同比增25%"
+    },
+    {
      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
      "pubDate": "Thu, 12 Nov 2026 10:15:00 GMT",
@@ -2450,52 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
     },
     {
-     "title": "Alice开始走出wind终端",
-     "link": "https://wallstreetcn.com/articles/3785813",
-     "pubDate": "Thu, 12 Nov 2026 18:13:56 +0800",
-     "summary": "11月10日，万得为终端之外的个人用户，开出了一张新的价目表。 这一天，Alice Market上线个人订阅。用户可以购买套餐，在自己常用的AI里调用万得的数据和工具。研究从别人的界面开始，专业服务仍然向万得购买。 这个连接外部AI的平台，属于金融智能品牌Alice。10月，这个从万得终端中成长起来的智能金融助理，刚刚以独立品牌、官网和新的业务分工走到台前。 一张订阅账单背后，是万得过去半年不断加快的动作。 3月，Alice推出个人版，WindClaw也向个人投资者开放； 7月，万得成立全资子公司万得艾思； 到了秋天，此前并行的产品开始收拢，WindClaw并入Alice，最初分散在不同入口的",
-     "source": "华尔街见闻",
-     "zh": "Alice开始走出wind终端"
-    },
-    {
-     "title": "10月新能源重卡渗透率超50%，快充和换电向干线延伸",
-     "link": "https://wallstreetcn.com/articles/3785812",
-     "pubDate": "Thu, 12 Nov 2026 18:12:35 +0800",
-     "summary": "新能源在重卡领域的渗透率正在快速攀升。 11月11日，中国汽车工业协会发布数据显示，10月我国新能源重卡单月渗透率超过50%，新能源车型在当月重卡新车销量中已占多数。 中国汽车技术研究中心同日披露，新一代新能源重卡进入量产阶段，满载续航可达500公里级，兆瓦超充和快速换电等补能方式也在向高速干线延伸。 重卡电动化已经带动电池装机增长。 高工产业研究院根据交强险数据统计，2026年前三季度，国内新能源重卡用锂电池装机量达97.8吉瓦时，同比增长75%，超过2025年全年的94.8吉瓦时。电池企业也开始针对港口短倒、矿区重载和高速干线，分别设计产品。 10月20日，宁德时代发布四款天行Ⅱ重卡充电电",
-     "source": "华尔街见闻",
-     "zh": "10月新能源重卡渗透率超50%，快充和换电向干线延伸"
-    },
-    {
-     "title": "大众搁置沃尔夫斯堡压铸项目，燃油高尔夫迁产再起争议",
-     "link": "https://wallstreetcn.com/articles/3785811",
-     "pubDate": "Thu, 12 Nov 2026 18:10:45 +0800",
-     "summary": "大众在沃尔夫斯堡的工厂改造计划生变。 据大众职工委员会透露，沃尔夫斯堡主工厂的新压铸车间原定于11月中旬动工。 11月11日，大众向外确认，公司将不再按原计划实施“Gamechanger”制造方案。原拟建设的大型压铸中心随之搁置。大众发言人表示，集团正审查各项投资，下一代电动车平台SSP仍将继续开发。 大型压铸是这次工厂改造的重要组成部分。它把原本需要拼装的多个车身零件整合成较大的铸件，可以减少装配工序，但要先投入厂房、设备和模具。大众原本计划在沃尔夫斯堡引入这套工艺，为本十年末投产的SSP车型做准备。 工厂改造也关系到2024年12月达成的劳资协议。按照当时的安排，大众计划到2030年在德国",
-     "source": "华尔街见闻",
-     "zh": "大众搁置沃尔夫斯堡压铸项目，燃油高尔夫迁产再起争议"
-    },
-    {
-     "title": "EnerSys数据中心业务两位数增长，UPS锂电方案获首单",
-     "link": "https://wallstreetcn.com/articles/3785810",
-     "pubDate": "Thu, 12 Nov 2026 18:09:35 +0800",
-     "summary": "数据中心需求正在带动EnerSys的基础设施业务增长。 北京时间11月12日凌晨，美国工业电池厂商EnerSys公布2027财年第二季度（2026年7月6日 – 2026年10月4日）业绩。截至10月4日，公司季度净销售额为9.499亿美元，同比下降0.1%，低于此前给出的9.55亿至9.95亿美元指引。公司将营收微降和未达指引归因于汇率折算。 三项业务的表现分化。网络与基础设施解决方案部门录得4.49亿美元收入，同比增长3.3%，其中数据中心业务保持两位数增长。精密电源解决方案收入增长21%，军用电源等产品需求提供了支撑。面向叉车等设备的工业动力解决方案收入下降7.8%，物料搬运业务仍承压。",
-     "source": "华尔街见闻",
-     "zh": "EnerSys数据中心业务两位数增长，UPS锂电方案获首单"
-    },
-    {
-     "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 10:07:00 GMT",
-     "summary": "Nvidia’s board of directors reportedly met late Wednesday to determine the CEO’s fate.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang"
-    },
-    {
-     "title": "Prince Harry and Meghan Markle move into new home in Cotswolds",
-     "link": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 10:03:00 GMT",
-     "summary": "Prince Harry and Meghan Markle have reportedly moved into a new Cotswolds home on their friend’s estate after returning to the U.K. with their children in August.",
-     "source": "MarketWatch",
-     "zh": "Prince Harry and Meghan Markle move into new home in Cotswolds"
+     "title": "世界计算大会进入倒计时 多只绩优算力概念股“超跌”",
+     "link": "http://finance.eastmoney.com/news/1345,202611123929725965.html",
+     "pubDate": "Thu, 12 Nov 2026 18:14:39 +0800",
+     "summary": "国产算力需求加速释放，在资本开支持续加码的驱动下，产业链正迈入业绩兑现期。 今日（11月12日），A股大盘指数午后走低，上证指数收盘下跌0.67%，创业板指收盘下跌2.44%。科创50指数盘中一度涨近5%，收盘涨幅回落至0.73%。云游戏、工业软件、人形 机器人 、 减速器 、短剧游戏等题材跌幅靠前。 截至收盘，超4600股飘绿，37股涨停。 东方海洋 （002086）是近期最热门股票之一，该股今日收盘涨停，至此该股近14个交易日内已录得9个涨停板，是同期涨停板最多的股票。此外， 东方海洋 最新收盘价创近7年来新高，A股市值重回百亿元以上。 东方海洋 主要从事海水苗种繁育、养殖，水产品加工，生",
+     "source": "东方财富资讯",
+     "zh": "世界计算大会进入倒计时 多只绩优算力概念股“超跌”"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 18:44:39",
+ "generated_at": "2026/11/12 18:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,28 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
+     "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+     "link": "https://www.qbitai.com/2026/11/509355.html",
+     "pubDate": "Thu, 12 Nov 2026 10:08:24 +0000",
+     "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
+     "source": "量子位",
+     "zh": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光"
+    },
+    {
      "title": "千亿美元AI云市场，算力军备竞赛之后拼什么？",
      "link": "https://zhidx.com/p/609492.html",
      "pubDate": "Thu, 12 Nov 2026 18:00:45 +0800",
      "summary": "智东西 作者 | 三北 编辑 | 漠影 近日，一位智算云企业的工作人员告诉智东西，最近半年，客户的需求点发生了显著变化：过去他们问“ 一张卡多少钱、能租多久 ”，现在问题变成了“ 一百万Token花多少钱、任务能不能稳定跑完 ”。 问题的变化，折射出 AI基础设施的一次重要升级。 全球AI云市场仍在高速扩张。知名行研机构Gartner预计，到2030年AI云市场将达到 2670亿美元 （约合人民币1.78万亿元），其中新云（NeoCloud）厂商有望拿下其中 20% 的份额，后者也是一个3500亿元人民币级别的市场。 但另一面，算力 资源利用效率 仍然是产业迫切需要解决的问题。知名行研机构ID",
      "source": "智东西",
      "zh": "千亿美元AI云市场，算力军备竞赛之后拼什么？"
+    },
+    {
+     "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+     "link": "https://www.qbitai.com/2026/11/509349.html",
+     "pubDate": "Thu, 12 Nov 2026 09:34:06 +0000",
+     "summary": "企业 AI 的难题，不只是模型够不够强",
+     "source": "量子位",
+     "zh": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施"
     },
     {
      "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -40,6 +56,30 @@ window.INDUSTRY_DATA = {
      "summary": "IBM announced Quantum Nighthawk r3, a 520-qubit processor designed for 10,000 quantum operations. 2 r3 chips will link into a 1,040-qubit system in 2027, while Nighthawk r2 already posts up to 19x speedups over Heron. The post IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Qu",
      "source": "MarkTechPost",
      "zh": "IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits"
+    },
+    {
+     "title": "马斯克已准备好聘请黄仁勋",
+     "link": "https://www.qbitai.com/2026/11/509334.html",
+     "pubDate": "Thu, 12 Nov 2026 08:16:11 +0000",
+     "summary": "老黄出轨认错、再曝婚外恋",
+     "source": "量子位",
+     "zh": "马斯克已准备好聘请黄仁勋"
+    },
+    {
+     "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+     "link": "https://www.qbitai.com/2026/11/509291.html",
+     "pubDate": "Thu, 12 Nov 2026 07:55:11 +0000",
+     "summary": "只管挖不管埋。",
+     "source": "量子位",
+     "zh": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条"
+    },
+    {
+     "title": "百曜科技入选全球 The Information 50！",
+     "link": "https://www.qbitai.com/2026/11/509285.html",
+     "pubDate": "Thu, 12 Nov 2026 06:13:22 +0000",
+     "summary": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
+     "source": "量子位",
+     "zh": "百曜科技入选全球 The Information 50！"
     },
     {
      "title": "百度孙天祥首秀！文心5.5做出百秒鹈鹕骑车短片，李彦宏对谈杨元庆",
@@ -104,6 +144,14 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
      "source": "TechCrunch AI",
      "zh": "Who could replace Jensen Huang? A highly unscientific list of possible successors"
+    },
+    {
+     "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+     "link": "https://www.qbitai.com/2026/11/509281.html",
+     "pubDate": "Thu, 12 Nov 2026 01:45:04 +0000",
+     "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+     "source": "量子位",
+     "zh": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段"
     },
     {
      "title": "Supporting research on AI and children’s safety",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost .",
      "source": "MarkTechPost",
      "zh": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension"
-    },
-    {
-     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-     "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-     "pubDate": "Wed, 11 Nov 2026 15:00:15 +0000",
-     "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-     "source": "DeepMind",
-     "zh": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
-    },
-    {
-     "title": "What Senior Data Science Job Postings Actually Ask for in 2026",
-     "link": "https://www.kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026",
-     "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
-     "summary": "A data-backed breakdown of the skills, credentials, and capabilities that hiring managers are screening for in senior roles right now.",
-     "source": "KDnuggets",
-     "zh": "What Senior Data Science Job Postings Actually Ask for in 2026"
-    },
-    {
-     "title": "清华系团队死磕20年！攻破71%盲区，最强深海AI大脑诞生",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742286&idx=1&sn=7412d40e19e2c81d1c7c921926efb698",
-     "pubDate": "Wed, 11 Nov 2026 21:15:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "清华系团队死磕20年！攻破71%盲区，最强深海AI大脑诞生"
-    },
-    {
-     "title": "狂肝11小时搓出虚幻5大作！文心5.5 Flash Preview发布",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742286&idx=2&sn=c52effcf422a1c9f2503cbf18ffe0d8d",
-     "pubDate": "Wed, 11 Nov 2026 21:15:00 +0800",
-     "summary": "连拿两项基准测试第一",
-     "source": "新智元",
-     "zh": "狂肝11小时搓出虚幻5大作！文心5.5 Flash Preview发布"
-    },
-    {
-     "title": "难题多算、简单题秒答！同个循环决策模型：准确率直升13%",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742286&idx=3&sn=2d2f63ac99eb3e6097b8287f59297220",
-     "pubDate": "Wed, 11 Nov 2026 21:15:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "难题多算、简单题秒答！同个循环决策模型：准确率直升13%"
-    },
-    {
-     "title": "9 Key LLM Inference Metrics Explained in 5 Minutes",
-     "link": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
-     "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
-     "summary": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
-     "source": "KDnuggets",
-     "zh": "9 Key LLM Inference Metrics Explained in 5 Minutes"
     }
    ]
   },
@@ -850,6 +850,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Clean Energy Regulator suspends Solar Power Nation from Australia’s rooftop solar rebate scheme",
+     "link": "https://www.pv-tech.org/clean-energy-regulator-suspends-solar-power-nation-from-australias-rooftop-solar-rebate-scheme/",
+     "pubDate": "Thu, 12 Nov 2026 10:48:24 +0000",
+     "summary": "Australia's CER has permanently suspended rooftop solar retailer Solar Power Nation from the Small-scale Renewable Energy Scheme (SRES).",
+     "source": "PV Tech",
+     "zh": "Clean Energy Regulator suspends Solar Power Nation from Australia’s rooftop solar rebate scheme"
+    },
+    {
+     "title": "Japan enters final months of new ground-mounted solar certifications",
+     "link": "https://www.pv-magazine.com/2026/11/12/japan-enters-final-months-of-new-ground-mounted-solar-certifications/",
+     "pubDate": "Thu, 12 Nov 2026 10:45:00 +0000",
+     "summary": "Japan has published its last application deadlines for feed-in tariff (FIT) and feed-in premium (FIP) support before ground-mounted commercial solar closes to new projects. The post Japan enters final months of new ground-mounted solar certifications appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Japan enters final months of new ground-mounted solar certifications"
+    },
+    {
      "title": "Financial institutions back 2 GW of solar in Türkiye",
      "link": "https://www.pv-magazine.com/2026/11/12/financial-institutions-back-2-gw-of-solar-in-turkiye/",
      "pubDate": "Thu, 12 Nov 2026 10:11:47 +0000",
@@ -912,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 1GW of solar, BESS and wind projects.",
      "source": "PV Tech",
      "zh": "Data centre operator AirTrunk secures exclusivity on 1GW Hunter solar, wind and storage projects in Australia"
-    },
-    {
-     "title": "Major solar-storage project provides round-the-clock power in DRC Congo",
-     "link": "https://www.pv-magazine.com/2026/11/12/solar-storage-project-providing-round-the-clock-power-in-drc-congo/",
-     "pubDate": "Thu, 12 Nov 2026 09:03:16 +0000",
-     "summary": "The facility, featuring a 233 MW solar array, provides a guaranteed 30 MW of baseload power around the clock to Africa’s largest copper mine. It displaced around 4 million liters of diesel in its first month of operation. The post Major solar-storage project provides round-the-clock power in DRC Con",
-     "source": "pv magazine",
-     "zh": "Major solar-storage project provides round-the-clock power in DRC Congo"
     },
     {
      "title": "Alinta Energy’s 200MWh Wagerup BESS online in Western Australia after ‘significant redesign’",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "A proposed 840MW PV project in southern England that would have become the country’s largest has been turned down by the UK government.",
      "source": "PV Tech",
      "zh": "Plans for UK’s largest PV project rejected"
-    },
-    {
-     "title": "Helleniq to invest over €1 billion in 1.3GW renewables and energy storage in Romania",
-     "link": "https://www.pv-tech.org/helleniq-invest-over-billion-euros-1-3gw-renewables-energy-storage-romania/",
-     "pubDate": "Wed, 11 Nov 2026 15:02:23 +0000",
-     "summary": "Greek energy group Helleniq Energy is planning to invest over €1 billion (US$1.1 billion) in clean energy projects in Romania by 2030.",
-     "source": "PV Tech",
-     "zh": "Helleniq to invest over €1 billion in 1.3GW renewables and energy storage in Romania"
     }
    ]
   },
@@ -1410,6 +1410,14 @@ window.INDUSTRY_DATA = {
      "zh": "Water Surges Into Navajo Reservoir"
     },
     {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
+    },
+    {
      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
      "pubDate": "Tue, 10 Nov 2026 19:22:45 +0000",
@@ -1458,6 +1466,14 @@ window.INDUSTRY_DATA = {
      "zh": "ESCAPADE on its way to Mars after Earth flybys"
     },
     {
+     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
+     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
+    },
+    {
      "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
      "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
@@ -1490,6 +1506,22 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Unveils Moon Base Awards at MAX POWER"
     },
     {
+     "title": "NASA’s Moon Base plan gains a PROMISE",
+     "link": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+     "pubDate": "Sun, 08 Nov 2026 04:43:57 +0000",
+     "summary": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar… The post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "NASA’s Moon Base plan gains a PROMISE"
+    },
+    {
+     "title": "NASA announces search for new astronauts",
+     "link": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/",
+     "pubDate": "Sat, 07 Nov 2026 18:00:32 +0000",
+     "summary": "For the first time in two years, NASA is opening applications for its next astronaut… The post NASA announces search for new astronauts appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "NASA announces search for new astronauts"
+    },
+    {
      "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
      "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
      "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
@@ -1504,30 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "Liftoff from pad 4E at Vandenberg Space Force Base occurred at 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
      "source": "Spaceflight Now",
      "zh": "Falcon 9 launches from California on classified mission for U.S. Space Force"
-    },
-    {
-     "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
-     "link": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
-     "pubDate": "Thu, 05 Nov 2026 22:34:58 +0000",
-     "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
-     "source": "Spaceflight Now",
-     "zh": "Blue Origin reveals new kick stage, engines for its New Glenn rockets"
-    },
-    {
-     "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
-     "link": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
-     "pubDate": "Thu, 05 Nov 2026 22:30:36 +0000",
-     "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
-     "source": "Spaceflight Now",
-     "zh": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array"
-    },
-    {
-     "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
-     "link": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
-     "pubDate": "Thu, 05 Nov 2026 22:28:40 +0000",
-     "summary": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
-     "source": "Spaceflight Now",
-     "zh": "Spacewalkers complete five-year effort to upgrade space station power supply"
     }
    ]
   },
@@ -1754,6 +1762,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "London-based Uforce, which makes unmanned air, sea, and land vehicles, raised $700M co-led by the UK National Wealth Fund and Valor Equity at a $6B valuation (Yazhou Sun/Bloomberg)",
+     "link": "https://www.techmeme.com/261112/p12#a261112p12",
+     "pubDate": "Thu, 12 Nov 2026 05:45:09 -0500",
+     "summary": "Yazhou Sun / Bloomberg : London-based Uforce, which makes unmanned air, sea, and land vehicles, raised $700M co-led by the UK National Wealth Fund and Valor Equity at a $6B valuation &nbsp; &mdash;&nbsp; The UK National Wealth Fund made its largest defense investment as part of a $700 million financ",
+     "source": "Techmeme",
+     "zh": "London-based Uforce, which makes unmanned air, sea, and land vehicles, raised $700M co-led by the UK National Wealth Fund and Valor Equity at a $6B valuation (Yazhou Sun/Bloomberg)"
+    },
+    {
+     "title": "00后华人女孩们，成硅谷AI新贵",
+     "link": "https://www.tmtpost.com/8203090.html",
+     "pubDate": "Thu, 12 Nov 2026 18:36:18 +0800",
+     "summary": "名校退学、大厂离职， 5位华人女孩拿下600亿估值。",
+     "source": "钛媒体",
+     "zh": "00后华人女孩们，成硅谷AI新贵"
+    },
+    {
+     "title": "BAT新旗舰杀回第一阵营，压力来到字节这边",
+     "link": "https://www.tmtpost.com/8203160.html",
+     "pubDate": "Thu, 12 Nov 2026 18:36:08 +0800",
+     "summary": "百度、阿里、腾讯在同一周交了卷，而Seed 2.1已经将近半年没更新了。",
+     "source": "钛媒体",
+     "zh": "BAT新旗舰杀回第一阵营，压力来到字节这边"
+    },
+    {
+     "title": "一把厨刀引发的风波，和一家太空站里的黑心小店：《深空当铺》到底卖的是什么?",
+     "link": "https://www.tmtpost.com/8202153.html",
+     "pubDate": "Thu, 12 Nov 2026 18:36:03 +0800",
+     "summary": "前段时间，出现了《深空当铺：可能是偷的》这个今年的独游黑马。",
+     "source": "钛媒体",
+     "zh": "一把厨刀引发的风波，和一家太空站里的黑心小店：《深空当铺》到底卖的是什么?"
+    },
+    {
      "title": "车企自研芯片开始外供，能否打开新市场？",
      "link": "https://www.tmtpost.com/8203138.html",
      "pubDate": "Thu, 12 Nov 2026 18:35:13 +0800",
@@ -1816,14 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 叁拾代 ，作者：叁拾代 针对大模型局限进行补齐的空间变小，依靠堆叠功能、拼凑工作流很难再赢得市场，Agent竞争焦点已经从单纯的功能补齐转向了创作者生态绑定与商业模式探索的深水区。 双十一的战火烧到了AI视频工具市场。 LibTV开启双十一狂欢季，Wan3.0、Kling4.0、Minimax H3三大视频模型最长30天0积分无限用，并叠加立减，时长、积分赠送等多项福利；即梦个人年包低至4.5折、团队年包低至4.2折、季度会员4.3折起；主打影视协作平台的AniShort首购低至2.3折，最高立减超三万。 双十一只是近半年愈演愈烈的AI视频工具价格战的一个具体缩影。今年三",
      "source": "虎嗅",
      "zh": "左手拼低价，右手抢超创，能解得了Agent的同质竞争焦虑吗"
-    },
-    {
-     "title": "两城双子星，正在完成中国AI产业闭环。",
-     "link": "https://www.tmtpost.com/8202784.html",
-     "pubDate": "Thu, 12 Nov 2026 18:22:22 +0800",
-     "summary": "谁能提供真正的\"超级接口“",
-     "source": "钛媒体",
-     "zh": "两城双子星，正在完成中国AI产业闭环。"
     },
     {
      "title": "摩根大通：到 2030 年，美国人形机器人产量将达 30 万至 40 万台",
@@ -1930,22 +1962,6 @@ window.INDUSTRY_DATA = {
      "zh": "Lumbra, which is developing tech to orchestrate AI agents in ultra-secure computing environments for the intelligence community, raised a $25M Series A (Mike Wheatley/SiliconANGLE)"
     },
     {
-     "title": "机器人泡沫在老股市场漏了气",
-     "link": "https://www.tmtpost.com/8203031.html",
-     "pubDate": "Thu, 12 Nov 2026 17:42:30 +0800",
-     "summary": "具身智能融资仍热，星尘智能新一轮 10 亿、估值 150 亿；但部分老股东按上轮估值六五至八折出让老股，买家谨慎。新资金看能否量产和订单能否接续，老股看谁等得起，退出预期先松动。",
-     "source": "钛媒体",
-     "zh": "机器人泡沫在老股市场漏了气"
-    },
-    {
-     "title": "聊聊中国版MUSE：蚂蚁灵光2.0，支付宝，超级App的生态优势与挑战",
-     "link": "https://www.tmtpost.com/8203056.html",
-     "pubDate": "Thu, 12 Nov 2026 17:42:22 +0800",
-     "summary": "对话蚂蚁灵光CTO。",
-     "source": "钛媒体",
-     "zh": "聊聊中国版MUSE：蚂蚁灵光2.0，支付宝，超级App的生态优势与挑战"
-    },
-    {
      "title": "微星 2026 年 Q1~Q3 归母净利润 104.49 亿新台币，同比增长 153.9%",
      "link": "https://www.ithome.com/1/026/289.htm",
      "pubDate": "Thu, 12 Nov 2026 09:37:42 GMT",
@@ -1984,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "These Arctic currents have never broken down so early in the season. Combined with an unprecedented El Niño, the outcomes aren’t easy to predict.",
      "source": "WIRED",
      "zh": "The Polar Vortex Is About to Make Weather Weird From the UK to the US"
-    },
-    {
-     "title": "电视厂商回应有关监视的提问",
-     "link": "https://www.solidot.org/story?sid=85866",
-     "pubDate": "Thu, 12 Nov 2026 15:39:21 +0800",
-     "summary": "在 LG 电视监视用户的报道引发广泛关注之后，The Verge 联系了亚马逊、苹果、Google、海信、LG、松下、Roku、三星、索尼、TCL 和 Vizio 等机顶盒和电视厂商，询问了相同的问题，其中海信、松下等无任何回应，TCL 等厂商很多问题也没有直接回应，而 LG 即便被发现监视用户但其代表在回应时基本上完全予以否认。举例来说，电视是否会在用户观看内容时收集屏幕截图、录制视频或音频——即使用自动内容识别（Automatic Content Recognition）技术：亚马逊、Google 和苹果都否认使用 ACR 技术，而 LG 声称它的 ACR 功能不会收集或存储电视上的屏幕截",
-     "source": "Solidot",
-     "zh": "电视厂商回应有关监视的提问"
     }
    ]
   },
@@ -2250,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Costamare Bulkers reports Q3 results",
+     "link": "https://seekingalpha.com/news/4671250-costamare-bulkers-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 05:41:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Costamare Bulkers reports Q3 results"
+    },
+    {
      "title": "Orica Limited reports FY results",
      "link": "https://seekingalpha.com/news/4671249-orica-limited-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 12 Nov 2026 05:37:20 -0500",
@@ -2296,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SLC Agricola reports Q3 results"
-    },
-    {
-     "title": "Flagship Communities Real Estate Investment Trust reports Q3 results",
-     "link": "https://seekingalpha.com/news/4671243-flagship-communities-real-estate-investment-trust-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 05:19:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Flagship Communities Real Estate Investment Trust reports Q3 results"
     },
     {
      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
@@ -2410,52 +2418,52 @@ window.INDUSTRY_DATA = {
      "zh": "中芯国际Q3归母净利润同比增长87.6%，环比下降逾8%，预计Q4收入环比增长4%-6% | 财报见闻"
     },
     {
-     "title": "私募量化指增策略风光不再 蒙玺、弈倍旗下产品不到半年亏成“6毛基”",
-     "link": "http://finance.eastmoney.com/news/1345,202611123929646127.html",
-     "pubDate": "Thu, 12 Nov 2026 16:31:49 +0800",
-     "summary": "量化指数增强型私募产品中也跌出了“6毛基”，即产品自成立以来的累计净值已回撤至0.6-0.7之间。 Wind数据显示，截至11月6日，百亿私募蒙玺投资旗下的两只产品“蒙玺优优至臻中证1000指数量化2号1期”和“蒙玺优优至臻中证1000指数量化1号1期 ”最新累计净值分别仅为0.6624和0.6753。 上述两只产品分别成立于今年5月26日和5月19日，成立仅五个多月累计亏损率已经达33.76%和32.47%，而同一时期两只产品所跟踪的中证1000指数区间跌幅为25.4%，期间最大跌幅为31.39%。 蒙玺投资成立于2016年1月，公司实际控制人、总经理李骧曾供职于北京富睿科拓资产、上海高频投",
-     "source": "东方财富资讯",
-     "zh": "私募量化指增策略风光不再 蒙玺、弈倍旗下产品不到半年亏成“6毛基”"
+     "title": "雪峰科技：截至11月10日最新股东户数3.28万户，较上期减少0.59%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929653311.html",
+     "pubDate": "Thu, 12 Nov 2026 16:40:42 +0800",
+     "summary": "雪峰科技 最新披露数据显示，截至11月10日公司股东户数为3.28万户，较上期(2026年10月30日) 减少194户，降幅为0.59% 。户均持有流通股数量 由上期的3.25万股上升至3.27万股， 户均持股金额 由上期的21.91万元增加至22.66万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
+     "source": "东方财富股票",
+     "zh": "雪峰科技：截至11月10日最新股东户数3.28万户，较上期减少0.59%"
     },
     {
-     "title": "国内首个口服减重GLP-1类药物获批上市",
-     "link": "http://finance.eastmoney.com/news/1354,202611123929643196.html",
-     "pubDate": "Thu, 12 Nov 2026 16:23:00 +0800",
-     "summary": "11月12日，国家药品监督管理局官网显示， 礼来 申报的1类 创新药 奥氟格列隆钙片（商品名称：穆优达）获批上市。该药品适用于在控制饮食和增加运动基础上，用于肥胖或超重并伴有至少一种体重相关合并症的成人体重管理。 记者从 礼来 中国获悉，这是国内首个获批用于成人体重管理的口服GLP-1受体激动剂，中国也因此成为全球首批批准该药物的国家之一。其成人2型糖尿病适应症正在国家药监局审批过程中。价格方面，该药物将在商业化上市以后，参照正规医药机构定价。 据悉，奥氟格列隆是口服小分子非肽类胰高血糖素样肽受体激动剂（GLP-1 RA），该药物每日一片，可在全天任何时间服用，不受饮食和饮水限制。 南京证券 ",
-     "source": "东方财富资讯",
-     "zh": "国内首个口服减重GLP-1类药物获批上市"
+     "title": "张雪机车第10万台下线，“小目标”兑现",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929655327.html",
+     "pubDate": "Thu, 12 Nov 2026 16:39:58 +0800",
+     "summary": "11月11日，张雪机车第10万台整车在重庆生产基地正式下线，提前实现今年9月摩博会上提出的“年末10万台产量”目标。张雪在社交平台晒出10月成绩单时说：“一个小目标今年已经挣到了。” 支撑这句话的是一组销量数据。10月，张雪机车单月售出近5000台，总量居行业第二；主力车型500RR单月售出2697台，在仿赛类目中销量为第二名的三倍多。9月，张雪机车以9979台登顶国内250cc以上国产品牌中大排量零售榜，超过春风（9153台）和无极（7610台）。 产能爬坡的节奏与之同步。自2025年3月首台量产车下线以来，月产量从首月的1723台起步，2025年11月达到3000台，2026年4月提升至5",
+     "source": "东方财富股票",
+     "zh": "张雪机车第10万台下线，“小目标”兑现"
     },
     {
-     "title": "11月12日涨停复盘：37只股涨停 日出东方5连板",
-     "link": "http://stock.eastmoney.com/news/11055,202611123929629961.html",
-     "pubDate": "Thu, 12 Nov 2026 16:12:40 +0800",
-     "summary": "今天沪指跌0.67%，深成指跌1.68%，创业板指跌2.44%，今日大盘成交额1.93万亿，较上个交易日放量2558.03亿。 涨停个股数量方面，今日共计37股涨停，另有41只个股盘中一度触及涨停，封板率47.44%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富资讯",
-     "zh": "11月12日涨停复盘：37只股涨停 日出东方5连板"
+     "title": "张一鸣：字节有能力与OpenAI和Anthropic展开竞争",
+     "link": "http://stock.eastmoney.com/news/1416,202611123929656142.html",
+     "pubDate": "Thu, 12 Nov 2026 16:39:55 +0800",
+     "summary": "11月12日，据澎湃新闻，近期字节跳动创始人张一鸣再次在内部分享中谈到AI业务。 据了解，张一鸣在近期一次面向AI团队的全员会议上表示，字节有能力与OpenAI和Anthropic展开竞争，但真正追平前沿技术，“最早也要到2029年或2030年”。字节跳动的大模型要对标国际第一梯队。 张一鸣称，与海外顶尖AI公司相比，字节Seed系列模型的预训练数据集规模仍然少了，这是字节AI当下最需要关注的问题。 记者注意到，在摆脱日常公司事务之后，近年来张一鸣将工作中心逐渐转向AI战略规划，尤其是长期关注人才招聘与培养工作上。 在去年一次活动上，张一鸣称，他注意到很多人才潜力没有被充分挖掘。他以机器学习模",
+     "source": "东方财富股票",
+     "zh": "张一鸣：字节有能力与OpenAI和Anthropic展开竞争"
     },
     {
-     "title": "11月12日港股收盘：恒指跌1.26% 恒生科技指数跌2.36%",
-     "link": "http://stock.eastmoney.com/news/11770,202611123929628422.html",
-     "pubDate": "Thu, 12 Nov 2026 16:12:27 +0800",
-     "summary": "港股11月12日收盘走低，恒生指数收报24008.55点，跌307.37点，跌幅1.26%；恒生科技指数收报3931.93点，跌95.13点，跌幅2.36%。恒生指数成分股中 领展房产基金 、 华虹宏力 、 药明康德 涨幅居前， 阿里巴巴 -W、 快手-W 、 洛阳钼业 跌幅靠前。恒生科技指数成分股中 天数智芯 、 华虹宏力 涨幅居前， 智谱 、 MINIMAX-W 、 阿里巴巴 -W跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定",
-     "source": "东方财富资讯",
-     "zh": "11月12日港股收盘：恒指跌1.26% 恒生科技指数跌2.36%"
+     "title": "【调研快报】京东方A接待国联民生证券调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611123929652369.html",
+     "pubDate": "Thu, 12 Nov 2026 16:39:41 +0800",
+     "summary": "京东方A 11月3日公告称， 11月3日 接待 国联民生 证券 调研。 接待人员包括董事会秘书室工作人员 张妍。 公司就以下问题进行了回复： 讨论的主要内容为回答投资者提问,问答情况如下: 1、近期显示行业情况? 答:2026年第三季度以来,存储短缺和涨价影响持续冲击 消费电子 行业,相应成本压力传导到消费端,引发部分产品因售价上涨导致销量同比、环比大幅回落,中小尺寸显示产品出货明显承压。 LCD方面,根据咨询机构数据分析,第三季度全球笔记本... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立",
+     "source": "东方财富股票",
+     "zh": "【调研快报】京东方A接待国联民生证券调研"
     },
     {
-     "title": "需求增长+新增产能难放量 电子布价格短期或将继续上行",
-     "link": "http://stock.eastmoney.com/news/11218,202611123929633256.html",
-     "pubDate": "Thu, 12 Nov 2026 16:12:01 +0800",
-     "summary": "AI算力需求大增拉动下， PCB （ 印刷 电路板）上游 电子 布行业的行情正被推向新的高点。 供给端，超薄、低介电特种布等品类供不应求、库存告急，产业链上市公司紧锣密鼓布局新产能；需求端， 英伟达 新架构测试无 电子 布计算背板的传闻扰动行业预期。在此背景下，相关上市公司如何布局？新增产能何时能够放量？ 电子 布价格短期趋势如何？ 财联社记者采访获悉，供需错配是本轮电子布涨价的主导因素，目前行业呈现“常规布缺口+特种布严重缺货”的双紧格局，叠加新增产能短期内难以放量，预计电子布价格短期内将继续上行。 对于近期传闻的 英伟达 下一代Rubin Ultra计算背板在测试无电子布方案，有上市公司坦",
-     "source": "东方财富资讯",
-     "zh": "需求增长+新增产能难放量 电子布价格短期或将继续上行"
+     "title": "飞猪2026双11履约GMV同比增60% “囤旅游”走向实效兑现",
+     "link": "http://finance.eastmoney.com/news/1373,202611123929654886.html",
+     "pubDate": "Thu, 12 Nov 2026 16:39:29 +0800",
+     "summary": "新华财经北京11月12日电（记者李振北）11月12日，飞猪发布2026年双11大促数据。平台活动商品履约GMV同比增长60%，交易用户数同比提升41%。旅游双11以“先囤后约”套餐商品为核心，履约GMV走高、核销预约增多，意味着今年飞猪双11期间，“囤旅游”走向实效兑现。 数据显示，头部品牌持续领跑，亿元成交阵营进一步扩容。万豪、希尔顿、洲际、凯悦、 华住 、开元旅业、ClubMed、万达、雅高等国内外 酒店 集团，上海 迪士尼 、北京环球度假区、上海乐高乐园、长隆、松赞旅行、沙坡头旅游度假区、上海薄荷国旅等品牌，活动商品成交额均破亿元。 与此同时，特色商家加速崛起，今年成交额翻倍的商家较去年",
+     "source": "东方财富股票",
+     "zh": "飞猪2026双11履约GMV同比增60% “囤旅游”走向实效兑现"
     },
     {
-     "title": "尾盘A股突变！背后发生了什么？机器人、物理AI概念股走低",
-     "link": "http://finance.eastmoney.com/news/1354,202611123929610169.html",
-     "pubDate": "Thu, 12 Nov 2026 16:05:32 +0800",
-     "summary": "今天的市场，真的没想到会走成这样，隔夜美股科技暴涨，尽管今天有 英伟达 事件的发酵影响，但纳指 期货 也只是小跌1%意思一下，没想到创业板指数跌超2%，科创指数几乎回吐了盘中所有的涨幅。 一起看看怎么回事吧。 11月12日，市场全天冲高回落，创业板指午后跌超2%。截至收盘，沪指跌0.67%，深成指跌1.68%，创业板指跌2.44%。 市场共875只个股上涨，37只个股涨停，4635只个股下跌。 燃气股逆市走强， 东方环宇 4连板， 洪通燃气 涨停。 消费股表现活跃， 好当家 、 广百股份 、 惠发食品 等涨停。 算力芯片股盘中拉升，燧原科技涨超10%， 寒武纪 、沐曦股份涨超8%。 下跌方面，",
-     "source": "东方财富资讯",
-     "zh": "尾盘A股突变！背后发生了什么？机器人、物理AI概念股走低"
+     "title": "恒生科技指数跌超2%，互联网巨头集体走低，光通信股回调，长飞光纤光缆跌超6%；医药股逆势走高｜港股收盘",
+     "link": "http://hk.eastmoney.com/news/11223,202611123929656348.html",
+     "pubDate": "Thu, 12 Nov 2026 16:39:28 +0800",
+     "summary": "恒生指数收跌1.26%，恒生科技指数收跌2.36%。 互联网巨头集体走低， 阿里巴巴 重挫近7%，腾讯、 百度 跌超2%。 光 通信 股回调， 长飞光纤光缆 跌超6%， 中际旭创 跌近4%， 剑桥科技 跌近6%。 医药股逆势走高， 凯莱英 涨超1%， 昭衍新药 涨近2%， 药明康德 涨超2%。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "恒生科技指数跌超2%，互联网巨头集体走低，光通信股回调，长飞光纤光缆跌超6%；医药股逆势走高｜港股收盘"
     },
     {
      "title": "Who could run Nvidia after Jensen Huang?",

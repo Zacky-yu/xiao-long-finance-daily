@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 10:45:28",
+ "generated_at": "2026/11/12 10:51:55",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
-     "link": "https://www.qbitai.com/2026/11/509281.html",
-     "pubDate": "Thu, 12 Nov 2026 01:45:04 +0000",
-     "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
-     "source": "量子位",
-     "zh": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段"
-    },
     {
      "title": "Gilbert + Tobin rethinks the business of law with AI",
      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -138,22 +130,6 @@ window.INDUSTRY_DATA = {
      "zh": "9 Key LLM Inference Metrics Explained in 5 Minutes"
     },
     {
-     "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
-     "link": "https://www.qbitai.com/2026/11/509224.html",
-     "pubDate": "Wed, 11 Nov 2026 12:43:54 +0000",
-     "summary": "模型即将开源",
-     "source": "量子位",
-     "zh": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了"
-    },
-    {
-     "title": "上海造、香港连，中国AI加速走向全球",
-     "link": "https://www.qbitai.com/2026/11/509214.html",
-     "pubDate": "Wed, 11 Nov 2026 12:22:34 +0000",
-     "summary": "WAIC把中国AI的年度日历排满了",
-     "source": "量子位",
-     "zh": "上海造、香港连，中国AI加速走向全球"
-    },
-    {
      "title": "10秒直出4K图，能画CAD、拆机械，MiniMax这个开源图像模型有点东西",
      "link": "https://zhidx.com/p/609469.html",
      "pubDate": "Wed, 11 Nov 2026 19:51:25 +0800",
@@ -168,14 +144,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月11日消息，今日，The Information援引知情人士报道，OpenAI在一场投资者电话会上披露，其第三季度收入 达到100亿美元 （约合人民币672亿元），为去年同期的 2.6倍 ，环比增幅从第二季度的17%升至近50%。 该报道同时称，OpenAI正寻求以 1.25万亿美元 （约合人民币8.4万亿元）的估值推进新一轮融资。 今日，OpenAI CFO萨拉·弗莱尔（Sarah Friar）在接受Yahoo Finance采访时透露，第三季度企业业务环比翻倍，消费者业务收入环比增长20%，目前两部分业务各贡献约一半收入。 收入提速降低",
      "source": "智东西",
      "zh": "曝OpenAI三季度收入突破670亿！"
-    },
-    {
-     "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
-     "link": "https://www.qbitai.com/2026/11/509203.html",
-     "pubDate": "Wed, 11 Nov 2026 09:58:49 +0000",
-     "summary": "复刻一个物理世界",
-     "source": "量子位",
-     "zh": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了"
     },
     {
      "title": "刚刚，腾讯版搜索引擎来了！几乎没广告，能搜公众号",
@@ -234,6 +202,14 @@ window.INDUSTRY_DATA = {
      "zh": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题"
     },
     {
+     "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+     "link": "https://www.qbitai.com/2026/11/509085.html",
+     "pubDate": "Wed, 11 Nov 2026 06:18:09 +0000",
+     "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+     "source": "量子位",
+     "zh": "卷起来了！11月11日，大模型厂商在天猫打5折"
+    },
+    {
      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
      "link": "https://huggingface.co/blog/qvac/botpsy",
      "pubDate": "Wed, 11 Nov 2026 05:01:16 GMT",
@@ -248,6 +224,30 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, u",
      "source": "arXiv cs.AI",
      "zh": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation"
+    },
+    {
+     "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+     "link": "https://arxiv.org/abs/2611.12934",
+     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: th",
+     "source": "arXiv cs.AI",
+     "zh": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery"
+    },
+    {
+     "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+     "link": "https://arxiv.org/abs/2611.12935",
+     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes.",
+     "source": "arXiv cs.AI",
+     "zh": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring"
+    },
+    {
+     "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+     "link": "https://arxiv.org/abs/2611.12936",
+     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these lim",
+     "source": "arXiv cs.AI",
+     "zh": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding"
     }
    ]
   },
@@ -1770,6 +1770,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)",
+     "link": "https://www.techmeme.com/261111/p52#a261111p52",
+     "pubDate": "Wed, 11 Nov 2026 21:45:00 -0500",
+     "summary": "Semafor : Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting &nbsp; &mdash;&nbsp; Some members of Nvidia's board favor appointing Chief Financial Officer Colette Kress as interim CEO, accordi",
+     "source": "Techmeme",
+     "zh": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)"
+    },
+    {
      "title": "玄铁发布高吞吐互联 IP XL-300：支持 8 核异步连接，数据位宽 256bit",
      "link": "https://www.ithome.com/1/025/902.htm",
      "pubDate": "Thu, 12 Nov 2026 02:42:16 GMT",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jeannine Amodeo / Bloomberg : Sources: CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds' yield &nbsp; &mdash;&nbsp; CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offeri",
      "source": "Techmeme",
      "zh": "Sources: CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds&apos; yield (Jeannine Amodeo/Bloomberg)"
-    },
-    {
-     "title": "Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved curbs for a third time in 2026 on November 5 (Axios)",
-     "link": "https://www.techmeme.com/261111/p46#a261111p46",
-     "pubDate": "Wed, 11 Nov 2026 18:20:05 -0500",
-     "summary": "Axios : Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved curbs for a third time in 2026 on November 5 &nbsp; &mdash;&nbsp; President Trump on Thursday authorized a crack down on companies suspected of diverting Nvidia's advanced AI c",
-     "source": "Techmeme",
-     "zh": "Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved curbs for a third time in 2026 on November 5 (Axios)"
     },
     {
      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
@@ -2266,6 +2266,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 02:45:00 GMT",
+     "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+     "source": "MarketWatch",
+     "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
+    },
+    {
+     "title": "本立科技：截至11月10日最新股东户数9143户，较上期减少0.96%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929319030.html",
+     "pubDate": "Thu, 12 Nov 2026 10:41:21 +0800",
+     "summary": "本立科技 最新披露数据显示，截至11月10日公司股东户数为9143户，较上期(2026年10月30日) 减少89户，降幅为0.96% 。户均持有流通股数量 由上期的9346股上升至9437股， 户均持股金额 由上期的16.02万元增加至16.68万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "本立科技：截至11月10日最新股东户数9143户，较上期减少0.96%"
+    },
+    {
+     "title": "美元指数突破103关口",
+     "link": "http://finance.eastmoney.com/news/11440,202611123929318995.html",
+     "pubDate": "Thu, 12 Nov 2026 10:40:56 +0800",
+     "summary": "美元指数突破103关口，日内涨0.08%。",
+     "source": "东方财富股票",
+     "zh": "美元指数突破103关口"
+    },
+    {
+     "title": "南山智尚：截至11月10日最新股东户数2.83万户，较上期减少0.24%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929318733.html",
+     "pubDate": "Thu, 12 Nov 2026 10:40:23 +0800",
+     "summary": "南山智尚 最新披露数据显示，截至11月10日公司股东户数为2.83万户，较上期(2026年10月30日) 减少69户，降幅为0.24% 。户均持有流通股数量 为1.79万股， 与上期基本持平， 户均持股金额 由上期的19.44万元增加至20.96万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "南山智尚：截至11月10日最新股东户数2.83万户，较上期减少0.24%"
+    },
+    {
+     "title": "光智科技年产120万片磷化铟衬底项目预计明年下半年投产",
+     "link": "http://stock.eastmoney.com/news/11219,202611123929317518.html",
+     "pubDate": "Thu, 12 Nov 2026 10:39:24 +0800",
+     "summary": "按照项目建设计划，新增产能预计于2027年下半年具备投产条件。从业务发展来看，磷化铟衬底已成为 光智科技 新的增长方向。 （文章来源：新华财经）",
+     "source": "东方财富股票",
+     "zh": "光智科技年产120万片磷化铟衬底项目预计明年下半年投产"
+    },
+    {
+     "title": "锡装股份：截至11月10日最新股东户数1.37万户，较上期减少0.60%",
+     "link": "http://stock.eastmoney.com/news/11111,202611123929318428.html",
+     "pubDate": "Thu, 12 Nov 2026 10:39:20 +0800",
+     "summary": "锡装股份 最新披露数据显示，截至11月10日公司股东户数为1.37万户，较上期(2026年10月30日) 减少83户，降幅为0.60% 。户均持有流通股数量 由上期的4939股上升至4969股， 户均持股金额 由上期的10.42万元增加至11.08万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
+     "source": "东方财富股票",
+     "zh": "锡装股份：截至11月10日最新股东户数1.37万户，较上期减少0.60%"
+    },
+    {
+     "title": "白宫据悉扩充法律顾问团队以应对民主党调查",
+     "link": "http://finance.eastmoney.com/news/1351,202611123929318834.html",
+     "pubDate": "Thu, 12 Nov 2026 10:39:15 +0800",
+     "summary": "据报道，白宫预计民主党控制的国会将加大监督力度，并展开立法调查，因此已开始扩充其法律顾问办公室的人员编制，迄今为止已增聘15人，以应对可能的法律战。预计国会调查力度将在1月份加大。“上次民主党人发出传票的时机把握得非常谨慎，”曾任众议院监督委员会民主党法律顾问的布兰登·里奥斯说道，“这次，如果1月份没收到传票，我会感到非常惊讶。” （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "白宫据悉扩充法律顾问团队以应对民主党调查"
+    },
+    {
      "title": "Nvidia board weighs CFO Colette Kress as interim CEO amid Jensen Huang scrutiny: Semafor",
      "link": "https://seekingalpha.com/news/4671073-nvidia-board-weighs-cfo-colette-kress-as-interim-ceo-amid-jensen-huang-scrutiny-semafor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 11 Nov 2026 21:38:05 -0500",
@@ -2274,52 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia board weighs CFO Colette Kress as interim CEO amid Jensen Huang scrutiny: Semafor"
     },
     {
-     "title": "万通智控：截至11月10日最新股东户数1.35万户，较上期减少0.50%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929316361.html",
-     "pubDate": "Thu, 12 Nov 2026 10:34:28 +0800",
-     "summary": "万通智控 最新披露数据显示，截至11月10日公司股东户数为1.35万户，较上期(2026年10月30日) 减少68户，降幅为0.50% 。户均持有流通股数量 为1.71万股， 与上期基本持平， 户均持股金额 由上期的28.30万元增加至28.32万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
-     "source": "东方财富股票",
-     "zh": "万通智控：截至11月10日最新股东户数1.35万户，较上期减少0.50%"
-    },
-    {
-     "title": "爱克股份：截至11月10日最新股东户数1.28万户，较上期减少1.89%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929316226.html",
-     "pubDate": "Thu, 12 Nov 2026 10:34:20 +0800",
-     "summary": "爱克股份 最新披露数据显示，截至11月10日公司股东户数为1.28万户，较上期(2026年10月20日) 减少247户，降幅为1.89% 。户均持有流通股数量 由上期的1.15万股上升至1.17万股， 户均持股金额 由上期的21.39万元减少至20.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "爱克股份：截至11月10日最新股东户数1.28万户，较上期减少1.89%"
-    },
-    {
-     "title": "AI制药概念震荡反弹 贝瑞基因涨停",
-     "link": "http://finance.eastmoney.com/news/11440,202611123929316481.html",
-     "pubDate": "Thu, 12 Nov 2026 10:33:56 +0800",
-     "summary": "AI制药概念盘中震荡反弹， 贝瑞基因 涨停， 百奥赛图 ， 万邦医药 、 普蕊斯 、 百普赛斯 、 成都先导 、 皓元医药 跟涨。消息面上，近日，Anthropic首席执行官达里奥·阿莫代伊在公司IPO路演视频中表示，他认为癌症、阿尔茨海默病、心脏病及精神疾病等，在不到10年内可能成为过去。此前，阿莫代伊曾表示，AI未来有望帮助找到治疗大多数癌症的方法、预防阿尔茨海默病，甚至将人类寿命延长一倍。",
-     "source": "东方财富股票",
-     "zh": "AI制药概念震荡反弹 贝瑞基因涨停"
-    },
-    {
-     "title": "泰禾股份：截至11月10日最新股东户数1.12万户，较上期增加1.48%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929315963.html",
-     "pubDate": "Thu, 12 Nov 2026 10:33:27 +0800",
-     "summary": "泰禾股份 最新披露数据显示，截至11月10日公司股东户数为1.12万户，较上期(2026年10月30日) 增加164户，增幅为1.48% 。户均持有流通股数量 由上期的9402股下降至9265股， 户均持股金额 由上期的18.52万元增加至18.69万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "泰禾股份：截至11月10日最新股东户数1.12万户，较上期增加1.48%"
-    },
-    {
-     "title": "交大思诺：截至11月10日最新股东户数9057户，较上期减少6.92%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929315861.html",
-     "pubDate": "Thu, 12 Nov 2026 10:33:19 +0800",
-     "summary": "交大思诺 最新披露数据显示，截至11月10日公司股东户数为9057户，较上期(2026年10月9日) 减少673户，降幅为6.92% 。户均持有流通股数量 由上期的5823股上升至6256股， 户均持股金额 由上期的14.41万元减少至13.36万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
-     "source": "东方财富股票",
-     "zh": "交大思诺：截至11月10日最新股东户数9057户，较上期减少6.92%"
-    },
-    {
-     "title": "德固特：截至11月10日最新股东户数1.30万户，较上期减少0.25%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929315730.html",
-     "pubDate": "Thu, 12 Nov 2026 10:33:19 +0800",
-     "summary": "德固特 最新披露数据显示，截至11月10日公司股东户数为1.30万户，较上期(2026年10月30日) 减少33户，降幅为0.25% 。户均持有流通股数量 由上期的7494股上升至7513股， 户均持股金额 由上期的12.03万元增加至12.82万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
-     "source": "东方财富股票",
-     "zh": "德固特：截至11月10日最新股东户数1.30万户，较上期减少0.25%"
+     "title": "Anthropic与SpaceX算力协议据悉难以长久 马斯克秒回：乐意收回所有算力",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929315461.html",
+     "pubDate": "Thu, 12 Nov 2026 10:32:40 +0800",
+     "summary": "Anthropic与 SpaceX 的算力合作可能无法长久，据Anthropic高管和卖方分析师最近一次会面时传出的信息，两家公司的算力合同不会延长至明年年中或2027年第二季度后。 根据此前订立的合同，Anthropic自5月起每月向 SpaceX 支付12.5亿美元的算力 租赁 费用，而在今年12月合作扩大后，月租费用将上调至31亿美元。 SpaceX 发布的第三季度财报显示，该公司第三季度近三分之一的收入来自于Anthropic，预计到2029财年累计收入将达到1205亿美元。 然而，来自Anthropic的最新消息意味着，SpaceX对这笔交易的预期显然出现了一些偏差。不过，Space",
+     "source": "东方财富资讯",
+     "zh": "Anthropic与SpaceX算力协议据悉难以长久 马斯克秒回：乐意收回所有算力"
     },
     {
      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
@@ -2336,6 +2352,14 @@ window.INDUSTRY_DATA = {
      "summary": "美军有新动向！ 据央视新闻报道，当地时间10日，据美国方面消息，美国空军已将部分军机从英国米尔登霍尔空军基地撤出。消息称，大约10架KC-135加油机和3架“鱼鹰”倾转旋翼机从米尔登霍尔空军基地飞往德国、西班牙，以及英国其他基地。 目前美国军方尚未证实此事。美国媒体报道称，美军重新部署军机的决定或与潜在安全威胁有关。 当地时间11日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗决心建立一个由波斯湾沿岸八国组成的联盟，希望该联盟涵盖经济和安全领域的合作，并涉及多个层面的协作。 他表示，如果敌人试图对伊朗发动新的袭击，根据推算，冲突持续的时间不会超过4到5天。雷扎伊表示，如果美国犯下错误，发动针对镐",
      "source": "东方财富资讯",
      "zh": "罕见！美国军机紧急撤离"
+    },
+    {
+     "title": "伦铝市场遭遇历史性逼仓！两家实体掌控近八成可用库存？",
+     "link": "http://finance.eastmoney.com/news/1355,202611123929308619.html",
+     "pubDate": "Thu, 12 Nov 2026 10:15:00 +0800",
+     "summary": "伦敦金属交易所(LME)的 铝 市场目前正面临数十年来最严峻的逼仓局面——因为支撑合约的库存急剧下降，而剩余的大部分库存仅由两家交易商掌控。 周三，这一关键 工业金属 的现货价格飙升，较该交易所基准三个月期 期货 价格每吨高出147美元，创下逾30年来的最高水平。 直到10月中旬，该价差还曾处于贴水状态，但随着LME仓库的 铝 库存暴跌至1990年以来的最低水平，该价差已呈螺旋式急剧上升。 这种被称为现货升水的现象，是自20世纪80年代末以来LME 铝 合约中最陡峭的一次——当年Marc Rich公司对市场进行逼仓，曾将现货与三个月期 期货 的价差推高至每吨1000美元以上。自那以后，LME出",
+     "source": "东方财富资讯",
+     "zh": "伦铝市场遭遇历史性逼仓！两家实体掌控近八成可用库存？"
     },
     {
      "title": "“英伟达亲儿子”能否成为AI交易的“救世主”？",
@@ -2458,36 +2482,12 @@ window.INDUSTRY_DATA = {
      "zh": "万斯考虑与伊朗强硬派“直接谈”，伊朗议长：美国必须满足伊方提出的七项条件"
     },
     {
-     "title": "万斯拟与伊朗强硬派面对面谈判？据悉特朗普持开放态度并已授权",
-     "link": "http://finance.eastmoney.com/news/1344,202611123929100925.html",
-     "pubDate": "Thu, 12 Nov 2026 08:54:01 +0800",
-     "summary": "据不具名美国及中东官员透露，美国副总统JD万斯正考虑与伊朗最高国家安全委员会高级官员举行直接会谈，美国副总统万斯对此持开放态度。 万斯现已成为美国对伊谈判的首席代表，美方希望尽快借此结束这场被视作拖累共和党的战争。 万斯或重启美伊谈判？ 据美国和中东地区官员称，近几日，特朗普总统已向高级幕僚以及相关方面表态，他对万斯重启美伊谈判持开放态度，并授权万斯开展谈判工作。 但美国官员强调，有关派遣万斯直接会见伊朗官员的相关磋商仍处在初步阶段。 据中国新闻网报道，当天早些时候，伊朗最高国家安全委员会秘书雷扎伊否认了有关其计划与美国副总统万斯会面的传言，称相关说法“完全不实、毫无根据”。 万斯已主导对伊外",
-     "source": "东方财富资讯",
-     "zh": "万斯拟与伊朗强硬派面对面谈判？据悉特朗普持开放态度并已授权"
-    },
-    {
-     "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成 但中国模型不想只卖API了",
-     "link": "http://finance.eastmoney.com/news/1344,202611123929078085.html",
-     "pubDate": "Thu, 12 Nov 2026 08:49:03 +0800",
-     "summary": "美国企业开源模型支出中，近九成资金流向中国模型产品。 硅谷风投机构Menlo Ventures最新发布的《2026年企业AI发展现状》报告显示，2026年全球企业AI支出预计达到1768亿美元。其中， 美国企业的开源模型支出里，89%流向中国模型 ：月之暗面旗下Kimi占比61%，DeepSeek占比15%， 智谱 GLM占比11%。 不过，《科创板日报》记者注意到，报告另一组对照数据同样值得关注： 开源模型在企业Token消耗中的占比已从11%升至19%，但对应支出占比从6%降至4% ，模型用量与营收的剪刀差仍在持续扩大。 当前，中国模型已深度融入全球企业工作流程， 行业下一阶段核心问题，是",
-     "source": "东方财富资讯",
-     "zh": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成 但中国模型不想只卖API了"
-    },
-    {
      "title": "CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了",
      "link": "https://wallstreetcn.com/articles/3785774",
      "pubDate": "Thu, 12 Nov 2026 08:43:39 +0800",
      "summary": "CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。 在CoreWeave股价单日大涨约25%的带动下，新云（NeoCloud）板块盘中涨幅一度超过12%，纳指也收复了中期选举后的失地。 市场的乐观情绪还受到两则消息强化：Anthropic据报正讨论高达1.5万亿美元以上的IPO估值，打消了此前公司估值将大幅下调的担忧；此外，OpenAI单季营收强劲、首次达到100亿美元。 而对于即将在下周登陆资本市场的Anthropic而言，这份财报来得恰逢其时—— CoreWeave是Anth",
      "source": "华尔街见闻",
      "zh": "CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了"
-    },
-    {
-     "title": "今日看点｜成品油价预计将迎年内第六降",
-     "link": "http://www.eeo.com.cn/2026/1112/1090590.shtml",
-     "pubDate": "Thu, 12 Nov 2026 08:39:11 +0800",
-     "summary": "国内成品油新一轮调价窗口将于11月12日24时开启。综合机构观点，本轮成品油价将迎来年内第六次下调。",
-     "source": "经济观察网",
-     "zh": "今日看点｜成品油价预计将迎年内第六降"
     },
     {
      "title": "中选结束清算开始！民主党誓言揭露\"特朗普执政贪腐\"，白宫以调查反击",

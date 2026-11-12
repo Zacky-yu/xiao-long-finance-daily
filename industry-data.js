@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 12:31:59",
+ "generated_at": "2026/11/12 12:52:02",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "亚马逊云科技宣布在华三大能力升级，进一步完善Agentic AI全栈技术能力",
+     "link": "https://zhidx.com/p/609679.html",
+     "pubDate": "Thu, 12 Nov 2026 12:43:29 +0800",
+     "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月12日报道，昨日，亚马逊云科技宣布，在全球领先、可信赖、懂行业和本地化四大核心优势的基础上，进一步升级在华的技术能力、安全能力和本地化支持。 此次升级将进一步完善Agentic AI全栈技术能力、强化AI安全防护能力，并通过面向客户的多层次技术协作、开发方法赋能与人才培养强化本地化支持，助力企业推动AI Agent从概念验证走向规模化应用，将AI创新转化为实际业务价值。 亚马逊云科技成长型企业及新兴业务总经理倪殿令谈道：“我们认为，成功的AI转型需要以业务战略为中心，围绕场景、数据和人才构建‘黄金三角’，找到真正创造价值的业务场景，充分释",
+     "source": "智东西",
+     "zh": "亚马逊云科技宣布在华三大能力升级，进一步完善Agentic AI全栈技术能力"
+    },
     {
      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
@@ -90,14 +98,6 @@ window.INDUSTRY_DATA = {
      "zh": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching"
     },
     {
-     "title": "Where Does Abacus.AI’s Smaug Model Improve Performance the Most?",
-     "link": "https://www.kdnuggets.com/2026/11/abacus/where-does-abacus-ais-smaug-model-improve-performance-the-most",
-     "pubDate": "Wed, 11 Nov 2026 18:00:46 +0000",
-     "summary": "Abacus.AI applied the same fine-tuning recipe to three very different open-weight models. The gains landed in completely different places & that tells you more than any single benchmark score.",
-     "source": "KDnuggets",
-     "zh": "Where Does Abacus.AI’s Smaug Model Improve Performance the Most?"
-    },
-    {
      "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
      "link": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
      "pubDate": "Wed, 11 Nov 2026 15:51:14 +0000",
@@ -112,22 +112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
      "source": "DeepMind",
      "zh": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
-    },
-    {
-     "title": "What Senior Data Science Job Postings Actually Ask for in 2026",
-     "link": "https://www.kdnuggets.com/what-senior-data-science-job-postings-actually-ask-for-in-2026",
-     "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
-     "summary": "A data-backed breakdown of the skills, credentials, and capabilities that hiring managers are screening for in senior roles right now.",
-     "source": "KDnuggets",
-     "zh": "What Senior Data Science Job Postings Actually Ask for in 2026"
-    },
-    {
-     "title": "9 Key LLM Inference Metrics Explained in 5 Minutes",
-     "link": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
-     "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
-     "summary": "Learn how to measure LLM inference performance using key metrics and formulas for latency, token generation speed, and system load.",
-     "source": "KDnuggets",
-     "zh": "9 Key LLM Inference Metrics Explained in 5 Minutes"
     },
     {
      "title": "10秒直出4K图，能画CAD、拆机械，MiniMax这个开源图像模型有点东西",
@@ -186,14 +170,6 @@ window.INDUSTRY_DATA = {
      "zh": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI"
     },
     {
-     "title": "泰克科技发布1系列DPO示波器：仅4.8磅重，小巧便携，可连智能体",
-     "link": "https://zhidx.com/p/609235.html",
-     "pubDate": "Wed, 11 Nov 2026 15:33:09 +0800",
-     "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月11日报道，今日，在2026年泰克创新论坛（TIF）大会上，美国示波器龙头泰克公司发布示波器家族新成员——全新1系列DPO示波器。 全新1系列DPO示波器是一款“高性价比的优质之选”，采用紧凑型设计，仅重4.8磅，专为入门场景设计，将日常所需的全部基本测量功能，集成于便携小巧的机身之中，并依托泰克软件生态系统实现可持续成长。 这是一台理想的学习型示波器，提供多达4个模拟通道、100MHz–200MHz带宽、12位垂直分辨率、7英寸触控屏、串行协议分析以及特定型号上集成的信号发生功能，为学生提供了超越基础测量的空间，同时为经验丰富的工程师提",
-     "source": "智东西",
-     "zh": "泰克科技发布1系列DPO示波器：仅4.8磅重，小巧便携，可连智能体"
-    },
-    {
      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
      "link": "https://www.qbitai.com/2026/11/509146.html",
      "pubDate": "Wed, 11 Nov 2026 06:41:26 +0000",
@@ -248,6 +224,30 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes.",
      "source": "arXiv cs.AI",
      "zh": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring"
+    },
+    {
+     "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+     "link": "https://arxiv.org/abs/2611.12936",
+     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these lim",
+     "source": "arXiv cs.AI",
+     "zh": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding"
+    },
+    {
+     "title": "Tracing Psychometric Inference in Large Language Models",
+     "link": "https://arxiv.org/abs/2611.12937",
+     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from two families (Llama 3 a",
+     "source": "arXiv cs.AI",
+     "zh": "Tracing Psychometric Inference in Large Language Models"
+    },
+    {
+     "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+     "link": "https://arxiv.org/abs/2611.12938",
+     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.12938v1 Announce Type: new Abstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP and CWQ questions and six VLMs within a fixed KGQA pipeline, we compare text-onl",
+     "source": "arXiv cs.AI",
+     "zh": "Graph Visualizations in Prompts for Knowledge Graph Question Answering"
     }
    ]
   },
@@ -258,52 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Tekscend's cost strategy and global edge",
-     "link": "https://www.digitimes.com/news/a20261110VL215/cost-market-production-manufacturing-taiwan.html",
-     "pubDate": "Thu, 12 Nov 2026 03:59:24 GMT",
-     "summary": "As global foundry capacity expands and market dynamics shift, competitive pressures have intensified significantly across major manufacturing regions, particularly in mature process nodes, where regional suppliers are rapidly building domestic production capacity. In an interview with DIGITIMES , Ju",
+     "title": "DFI targets industrial edge AI, with automation leading 42% of opportunities",
+     "link": "https://www.digitimes.com/news/a20261112PD228/dfi-industrial-automation-ipc-2025.html",
+     "pubDate": "Thu, 12 Nov 2026 04:27:04 GMT",
+     "summary": "Industrial computer (IPC) maker DFI reported higher revenue and profit in the third quarter of 2026, with earnings per share (EPS) reaching NT$1.29 (US$0.039), up sharply from NT$0.66 in the same period of 2025. The company is focusing on industrial automation, semiconductors and industrial equipmen",
      "source": "DIGITIMES",
-     "zh": "Tekscend's cost strategy and global edge"
+     "zh": "DFI targets industrial edge AI, with automation leading 42% of opportunities"
     },
     {
-     "title": "Innovation, AI investments will shape the future, says Kinpo president Hsu",
-     "link": "https://www.digitimes.com/news/a20261111PD267/kinpo-award-k.-t.-li-president-taiwan.html",
-     "pubDate": "Thu, 12 Nov 2026 03:54:07 GMT",
-     "summary": "The award ceremony for the fourth K. T. Li Award was held in Taipei on November 10, with this year's awards presented by former President Ing-wen Tsai to Kinpo-Compal Group president Rock Hsu and Quanta Computer founder Barry Lam.",
+     "title": "South Korea&rsquo;s HBM demand drives 54% surge in Taiwan glass fiber exports",
+     "link": "https://www.digitimes.com/news/a20261112PD207/taiwan-demand-exports-hbm-2026.html",
+     "pubDate": "Thu, 12 Nov 2026 04:24:49 GMT",
+     "summary": "Taiwan&rsquo;s glass fiber exports to South Korea rose 54.0% year-over-year in the first nine months of 2026 as demand for high-bandwidth memory (HBM) and advanced packaging expanded. South Korea has also become Taiwan&rsquo;s largest trade deficit partner, with Taiwan&rsquo;s deficit reaching US$59",
      "source": "DIGITIMES",
-     "zh": "Innovation, AI investments will shape the future, says Kinpo president Hsu"
+     "zh": "South Korea&rsquo;s HBM demand drives 54% surge in Taiwan glass fiber exports"
     },
     {
-     "title": "The China chip self-sufficiency paradox: YMTC eyes 2027 IPO as restricted Nvidia GPUs reach Chinese universities",
-     "link": "https://www.digitimes.com/news/a20261112VL202/nvidia-ipo-ymtc-2027-military.html",
-     "pubDate": "Thu, 12 Nov 2026 03:50:12 GMT",
-     "summary": "China is advancing its domestic semiconductor ambitions while continuing to access restricted US AI processors, exposing the limits of Washington's export controls and the challenges facing Beijing's pursuit of technological self-sufficiency.",
+     "title": "AI bottleneck shifts from compute to power; European supply chain sees power semiconductors as next shortage",
+     "link": "https://www.digitimes.com/news/a20261112PD214/2026-panel-supply-chain-power-semiconductors-data.html",
+     "pubDate": "Thu, 12 Nov 2026 04:24:37 GMT",
+     "summary": "At the opening panel of electronica 2026 in Munich on November 10, industry leaders agreed that the primary bottleneck in artificial intelligence is shifting from computing power to energy delivery. Panelists warned that power semiconductors are quickly becoming the tech sector's next critical suppl",
      "source": "DIGITIMES",
-     "zh": "The China chip self-sufficiency paradox: YMTC eyes 2027 IPO as restricted Nvidia GPUs reach Chinese universities"
+     "zh": "AI bottleneck shifts from compute to power; European supply chain sees power semiconductors as next shortage"
     },
     {
-     "title": "AUO and Innolux target 2028 commercial breakthrough in semiconductor packaging",
-     "link": "https://www.digitimes.com/news/a20261112PD217/auo-innolux-packaging-demand-commercial.html",
-     "pubDate": "Thu, 12 Nov 2026 03:46:37 GMT",
-     "summary": "Faced with sluggish end-user demand, chronic overcapacity, and intensifying market competition, global display manufacturers are under pressure to reinvent themselves. In Taiwan, leading panel makers are accelerating asset optimization and cross-domain technology integration to unlock new growth dri",
+     "title": "DB HiTek 3Q26 shows  power-chip demand lifts operating profit, but net income falls",
+     "link": "https://www.digitimes.com/news/a20261112VL208/demand-operating-profit-capacity-power-semiconductors-investment.html",
+     "pubDate": "Thu, 12 Nov 2026 04:22:39 GMT",
+     "summary": "DB HiTek's third-quarter 2026 results point to continued strength in its core foundry operations, even as a steep decline in net income shows that operating momentum did not carry through to the bottom line. The South Korean chipmaker said demand for power semiconductors kept utilization at virtuall",
      "source": "DIGITIMES",
-     "zh": "AUO and Innolux target 2028 commercial breakthrough in semiconductor packaging"
+     "zh": "DB HiTek 3Q26 shows  power-chip demand lifts operating profit, but net income falls"
     },
     {
-     "title": "Samsung Display, BOE weigh low-cost OLED panels as phone sales fall",
-     "link": "https://www.digitimes.com/news/a20261112VL207/sdc-boe-sales-shipments-tianma.html",
-     "pubDate": "Thu, 12 Nov 2026 03:43:40 GMT",
-     "summary": "Samsung Display, BOE Technology Group, and Tianma Microelectronics are considering lower-cost OLED panels for entry-level smartphones as falling handset sales put pressure on display manufacturers to improve factory utilization, ZDNet Korea reported on November 9, citing industry sources.",
+     "title": "Taiwan PCB equipment maker Ta Liang's four-digit backlog sets stage for high-margin TM4 growth",
+     "link": "https://www.digitimes.com/news/a20261112PD215/equipment-pcb-ccd-shipments-capacity.html",
+     "pubDate": "Thu, 12 Nov 2026 04:21:26 GMT",
+     "summary": "Taiwan-based Ta Liang Technology, a printed circuit board (PCB) equipment manufacturer, said its order visibility for PCB and semiconductor equipment extends through 2027, with its PCB equipment backlog reaching four digits and production scheduled for every month of next year. Average lead times st",
      "source": "DIGITIMES",
-     "zh": "Samsung Display, BOE weigh low-cost OLED panels as phone sales fall"
+     "zh": "Taiwan PCB equipment maker Ta Liang's four-digit backlog sets stage for high-margin TM4 growth"
     },
     {
-     "title": "Apple, Samsung reportedly developing new foldable glass for 2028",
-     "link": "https://www.digitimes.com/news/a20261112VL206/apple-samsung-foldable-2028-utg.html",
-     "pubDate": "Thu, 12 Nov 2026 03:34:52 GMT",
-     "summary": "Apple and Samsung Electronics are working with suppliers on a new foldable glass design that could improve screen durability while maintaining flexibility, with potential adoption targeted for 2028 smartphones, ZDNet Korea reported, citing industry sources.",
+     "title": "Taiwan's quantum push gathers momentum as Asus, Compal and global tech giants join forces",
+     "link": "https://www.digitimes.com/news/a20261112PD223/taiwan-technology-quantum-compal-asus.html",
+     "pubDate": "Thu, 12 Nov 2026 04:19:32 GMT",
+     "summary": "Taiwan is strengthening its quantum technology ecosystem through coordinated government research and industry collaboration, bringing together international technology companies, academic institutions and domestic suppliers to accelerate the development of quantum computing and related applications.",
      "source": "DIGITIMES",
-     "zh": "Apple, Samsung reportedly developing new foldable glass for 2028"
+     "zh": "Taiwan's quantum push gathers momentum as Asus, Compal and global tech giants join forces"
     },
     {
      "title": "No Trust In Politicians",
@@ -1752,14 +1752,6 @@ window.INDUSTRY_DATA = {
      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important s",
      "source": "Krebs on Security",
      "zh": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
-    },
-    {
-     "title": "Want to Rent an Internet Address at the White House?",
-     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-     "pubDate": "Thu, 05 Nov 2026 04:36:17 +0000",
-     "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was g",
-     "source": "Krebs on Security",
-     "zh": "Want to Rent an Internet Address at the White House?"
     }
    ]
   },
@@ -1769,6 +1761,62 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "熊出没官方辟谣“熊大被写死了”：部分自媒体将“熊大失踪”断章取义改写为“熊大死亡”引流",
+     "link": "https://www.ithome.com/1/026/034.htm",
+     "pubDate": "Thu, 12 Nov 2026 04:46:15 GMT",
+     "summary": "IT之家 11 月 12 日消息，国民动画 IP《熊出没》登上风口浪尖。“《熊出没》新预告中光头强称熊大已经死了十年”“熊大是熊二臆想出来的”等说法引发热议，“ 曝熊大被写死了 ”相关话题登上微博热搜。 11 月 11 日，“熊二动漫”发布澄清声明，称网传“熊大死了”系不实谣言。 “熊二动漫”表示，传言源头为线下粉丝交流活动观众的个人主观转述，部分自媒体将“熊大失踪”断章取义改写为“熊大死亡”引流。 IT之家查询国家电影局备案梗概发现， 《熊出没 · 我们》仅写到熊二找不到熊大，全文未提及熊大死亡或牺牲 。 文章还称，熊大是 IP 核心主角，系列一贯传递温情治愈价值观，呼吁观众以官方发布为准，",
+     "source": "IT之家",
+     "zh": "熊出没官方辟谣“熊大被写死了”：部分自媒体将“熊大失踪”断章取义改写为“熊大死亡”引流"
+    },
+    {
+     "title": "德国站KYC补件后回款晚了11天，欧洲四国审核会不会连带影响放款？",
+     "link": "https://www.baijing.cn/question/638684",
+     "pubDate": "Thu, 12 Nov 2026 04:40:31 +0000",
+     "summary": "上个月德国站后台弹出KYC补充材料通知，要求补法人地址证明和受益人信息，我们当天就提交了，结果德国站回款周期从原来的14天拖到25天，整整晚了11天。我们做汽配类目，欧洲四国（德法英西）同时在卖，团队6个人，月销售额大概12万欧元，用的是亚马逊官方收款和FBA，西班牙和法国站目前还没收到补件通知。现在担心的是：德国站审核没走完，英法西三个站的放款和FBA入仓时效会不会被连带卡住？已经试过开case催审、也找过账户经理确认材料格式，但对方只说等审核结果。想直接问有经历过欧洲多国KYC联动审核的同行，你们当时是分站点独立处理还是整账户一起卡？",
+     "source": "白鲸出海",
+     "zh": "德国站KYC补件后回款晚了11天，欧洲四国审核会不会连带影响放款？"
+    },
+    {
+     "title": "到手价约 949 元：SANC 盛色推出星舰 S9 便携式显示器，16 寸 2.5K 240Hz IPS 面板",
+     "link": "https://www.ithome.com/1/026/033.htm",
+     "pubDate": "Thu, 12 Nov 2026 04:40:16 GMT",
+     "summary": "IT之家 11 月 12 日消息，SANC 盛色现已推出星舰 S9 便携式显示器。新品采用金属撞色设计，支持 Type-C 一线通，配备 16 英寸 IPS 面板，标价 1174 元， 使用政府补贴等优惠后到手价约 948.6 元 。 据介绍，这款显示器采用一体式金属机身，自带隐藏式支架，内置精密阻尼转轴，可在横屏 / 竖屏姿态随心切换。屏幕分辨率为 2560*1600，PPI 为 188，最高支持 240Hz 刷新率。 同时，该显示器覆盖 108% sRGB 色域，ΔE≤2，静态对比度为 1200:1，支持 VRR 可变刷新率、ALLM 自动低延迟，峰值亮度 300nits。内置立体声扬声器",
+     "source": "IT之家",
+     "zh": "到手价约 949 元：SANC 盛色推出星舰 S9 便携式显示器，16 寸 2.5K 240Hz IPS 面板"
+    },
+    {
+     "title": "比亚迪 Ti 7 知识产权纠纷迎来关键程序性裁定，荷兰法院驳回捷豹路虎突击取证申请",
+     "link": "https://www.ithome.com/1/026/032.htm",
+     "pubDate": "Thu, 12 Nov 2026 04:37:07 GMT",
+     "summary": "IT之家 11 月 12 日消息，捷豹路虎与比亚迪 Ti 7 的知识产权纠纷于当地时间 11 月 11 日迎来关键程序性裁定。 荷兰海牙法院正式驳回捷豹路虎提出的证据保全申请 ，不同意其对比亚迪相关办公资料开展突击搜查、调取内部研发文件的诉求。 此前，捷豹路虎以外观争议为由，在荷兰提交申请，希望通过法院突击调取比亚迪大量研发文档、技术数据等核心资料。 本次法院裁定， 核心认定本次大范围突击取证缺乏充分必要性 。 IT之家注意到， 比亚迪 Ti 7 现阶段尚未在欧盟市场上市销售 ，也是法院认定本次大规模取证关联性不足的重要考量。这也释放出清晰信号：海外知识产权维权，取证范围需要和产品市场、举证需",
+     "source": "IT之家",
+     "zh": "比亚迪 Ti 7 知识产权纠纷迎来关键程序性裁定，荷兰法院驳回捷豹路虎突击取证申请"
+    },
+    {
+     "title": "“教你本事，还要发你薪水吗？”",
+     "link": "https://www.huxiu.com/article/4904978.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 12:31:46 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：张倩楠 近日，山西太原市万柏林区育华小学一则“无薪酬招募跟岗教师”的公告引发热议。跟岗教师工作内容涉及参与备课、听课、磨课、试教、作业批改、班级管理、课后服务、校园活动组织等，无薪酬待遇，食宿问题需自行解决，但学校会提供“教育教学资源”。 11月5日，当地人社部门明确表示，该校无薪招聘的要求不合规。校方回应称，原本想搭建教学实践平台，因考虑不够周全，已停止招募。 目前，“无薪酬招募跟岗教师”的公告已经撤下。但这背后，劳动力市场的系统性无偿用工并不鲜见。北京中银律师事务所高级合伙人杨保全告诉界面新闻，“无薪学徒”与“无薪跟岗”的内核一致，两者的做法都是把已",
+     "source": "虎嗅",
+     "zh": "“教你本事，还要发你薪水吗？”"
+    },
+    {
+     "title": "肯尼亚手游买量 CPI 涨到 0.42 美元，是网络环境问题还是素材老化？",
+     "link": "https://www.baijing.cn/question/638683",
+     "pubDate": "Thu, 12 Nov 2026 04:29:26 +0000",
+     "summary": "我们做休闲益智手游，去年 Q4 进肯尼亚，现在起量阶段，团队 6 人，月买量预算约 3 万美元，主要跑 Google Ads 和 Meta，本地支付接的是 M-Pesa。最近两周肯尼亚 CPI 从 0.28 美元涨到 0.42 美元，次日留存从 31% 掉到 24%，同一批素材在尼日利亚和南非没这个跌幅。已试过换素材方向、把预算往 Wi-Fi 时段倾斜、压缩包体到 45MB 以内，都没压住。想确认这种涨幅到底是本地网络环境（低端机加载失败率高）导致的转化损耗，还是买量侧竞价变贵，判断标准该看哪个指标？",
+     "source": "白鲸出海",
+     "zh": "肯尼亚手游买量 CPI 涨到 0.42 美元，是网络环境问题还是素材老化？"
+    },
+    {
+     "title": "本科起招、择优转正、大一就签约......复旦秋招会上，企业要找怎样的人才？",
+     "link": "https://www.huxiu.com/article/4904977.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 12:28:40 +0800",
+     "summary": "本文来自微信公众号： 复旦青年 ，作者：找工作的，原文标题：《数览 | 本科起招、择优转正、大一就签约......复旦秋招会上，企业要找怎样的人才？》 “ 我们梳理了复旦大学2026综合秋季招聘会现场335家企业的1332条岗位信息，发现本科学历在求职市场中仍有一定竞争力。过半岗位本科起招，人工智能方向本科起招岗位中，超过半数预期月薪在2万元以上。 随着技术不断发展，机会之外，企业的筛选标准也在变化：不限专业的岗位中，53.9%要求具备AI能力；18.7%的岗位明确要求先实习、再择优转正，有企业甚至鼓励学生在大一就签约，累计实习满720小时并通过考核后可录用。 从学历、专业到AI能力与实习经历",
+     "source": "虎嗅",
+     "zh": "本科起招、择优转正、大一就签约......复旦秋招会上，企业要找怎样的人才？"
+    },
     {
      "title": "肯尼亚 M-Pesa 收款对接后，为什么投放 CPA 从 1.8 美元涨到 4.2 美元？",
      "link": "https://www.baijing.cn/question/638682",
@@ -1842,22 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "限摩20年：冻结的牌照，膨胀的价格，不断调整的存在方式"
     },
     {
-     "title": "百度天池 1024 卡超节点发布：可支撑 5 万亿参数模型训练，明年上市",
-     "link": "https://www.ithome.com/1/026/026.htm",
-     "pubDate": "Thu, 12 Nov 2026 04:09:14 GMT",
-     "summary": "IT之家 11 月 12 日现场消息，在今日举办的百度世界 2026 大会开幕式上，百度集团执行副总裁沈抖发布 百度天池 1024 卡超节点 ，这套算力集群将于明年推向市场。 百度天池 1024 卡超节点搭载业界领先光引擎技术，卡间互联带宽提升 3 倍，实现高速数据互联，对比上一代产品，训练性能提升 2.5 倍、推理性能提升 3 倍。 百度天池 1024 卡超节点配套 G3.5 KV Cache 显存加速柜，强化缓存复用能力，长上下文推理性能提升 2 倍；在多轮对话缓存命中场景，TTFT（首 token 等待时间）降低 90%，整体吞吐提升 7 倍。 单套天池 1024 卡超节点可支撑 5 万",
-     "source": "IT之家",
-     "zh": "百度天池 1024 卡超节点发布：可支撑 5 万亿参数模型训练，明年上市"
-    },
-    {
-     "title": "华为旧部干出河南最大IPO",
-     "link": "https://www.huxiu.com/article/4904969.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 12:05:41 +0800",
-     "summary": "本文来自微信公众号： 小饭桌 ，作者：关注科技的，编辑：张丽娟 创业板年内最大上会项目来了。 今天（11月12日），一家名叫“超聚变”的AI服务器整机厂商上会。 这家公司拟募资80亿，是年内创业板上会项目里最大的一单。按发行方案粗算，估值区间落在400-800亿元之间。如果足额募资，将会是河南历史规模最大的IPO。 但真正让这家公司在创投圈里被反复提起的，除了募资额，还有背后的那群人。 五年前，华为x86服务器业务剥离，原班核心团队跟着业务从深圳搬到郑州，创立超聚变。3479名员工，持股率93.72%，几乎人人有股，按800亿元估值的上限粗算，人均浮盈超200万元。 “一次干脆的剥离” 202",
-     "source": "虎嗅",
-     "zh": "华为旧部干出河南最大IPO"
-    },
-    {
      "title": "美国短剧 App 投放 CPA 涨到 18 美元，ROI 打正还有空间吗？",
      "link": "https://www.baijing.cn/question/638680",
      "pubDate": "Thu, 12 Nov 2026 04:02:08 +0000",
@@ -1874,30 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: some Trump officials questioned Jensen Huang&apos;s push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public (Wall Street Journal)"
     },
     {
-     "title": "R 星入驻抖音，首条视频喊玩家马上预载《GTA6》",
-     "link": "https://www.ithome.com/1/026/006.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:57:34 GMT",
-     "summary": "IT之家 11 月 12 日消息，游戏开发商 RockstarGames 今日入驻抖音， 认证信息显示为“ROCKSTAR INTERNATIONAL LIMITED” ，IP 属地上海。 目前 R 星已经发布他们的第一条抖音视频，为 11 月 19 日发售的《GTA6》游戏做宣传，视频内容是将昨天发布的预载宣传片进行重新剪辑，适配竖屏播放场景。官方称《Grand Theft Auto VI》现已开放预载， 并呼吁玩家马上预载本作 。 IT之家注意到，此次入驻抖音并非 R 星第一次布局国内市场。早在 2023 年，R 星就已经开设B站账号，宣传《GTA》和《荒野大镖客》等系列游戏，当时的玩家们",
-     "source": "IT之家",
-     "zh": "R 星入驻抖音，首条视频喊玩家马上预载《GTA6》"
-    },
-    {
-     "title": "全球每三把卷尺，就有两把来自河南的这个县",
-     "link": "https://www.huxiu.com/article/4904966.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 11:56:48 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2017年，河南虞城的卷尺厂老板梁生，在外地一家超市的货架上看到了自己工厂生产的卷尺。尺子贴着国外品牌的商标，标价大约是出厂价的四倍。 他后来对媒体讲过当时的心情：产品被海外市场认可，品牌和销售却握在别人手里。 九年后，梁生的珂铭工量具已经是当地的大厂。今年1月，公司海外订单超过8000万元，发往30多个国家和地区。6条生产线24小时运转，120多名工人三班倒，日产量从3万把提高到5万把。按一年开工300天计算，年产1500万把。 这个数字放进虞城，只占全县年产量的1%。 据《人民日报》2026年报道，虞城年产钢卷尺约15亿只，占",
-     "source": "虎嗅",
-     "zh": "全球每三把卷尺，就有两把来自河南的这个县"
-    },
-    {
-     "title": "知情人士回应“腾讯裁员 50%”系谣言误读，该说法完全不属实",
-     "link": "https://www.ithome.com/1/026/001.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:56:14 GMT",
-     "summary": "IT之家 11 月 12 日消息，针对社交媒体上流传的“腾讯裁员 50%”“裁员 8000 人”等说法，接近腾讯的知情人士今日回应新浪科技称，相关传言系对内部讲话的误读，该说法完全不属实。 这一传闻的起点是 11 月 11 日腾讯 28 周年司庆期间的 Linktime 线上直播。 据上述知情人士描述，腾讯管理层在直播中表达了加快组织变革的决心，并用一组比喻解释资源重配的思路：公司业务基本盘是“陆军”，AI Native 业务是“海军”；“陆军”要借助 AI 提升效能，同时调整 50% 的人员转向“海军”，支持 AI Native 业务的探索。 IT之家注：AI Native 指从产品设计之初",
-     "source": "IT之家",
-     "zh": "知情人士回应“腾讯裁员 50%”系谣言误读，该说法完全不属实"
-    },
-    {
      "title": "日本亚马逊本土店开店后，广告 CPA 飙到 4800 日元，是投放结构问题还是本土店权重没起来？",
      "link": "https://www.baijing.cn/question/638679",
      "pubDate": "Thu, 12 Nov 2026 03:53:02 +0000",
@@ -1906,28 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "日本亚马逊本土店开店后，广告 CPA 飙到 4800 日元，是投放结构问题还是本土店权重没起来？"
     },
     {
-     "title": "TikTok Shop 美国站达人寄样后，为什么同一套素材在美东和美西的转化差这么多？",
-     "link": "https://www.baijing.cn/question/638678",
-     "pubDate": "Thu, 12 Nov 2026 03:43:00 +0000",
-     "summary": "我们做的是厨房小家电，去年底在 TikTok Shop 美国站起量，团队 6 个人，每月寄样预算大概 8000 美金，合作过 40 多个达人。遇到一个很怪的现象：同一批寄样视频素材，达人自己在美东发的时候转化率能到 3.2%，但美西几个达人用几乎一样的脚本，转化只有 1.1% 左右，退货率还高出快一倍。我们试过把美东达人原片直接投 Spark Ads，也试过让美西达人重拍，但效果都没拉回来。现在卡在不知道该按区域重做素材，还是干脆只签美东达人。想直接问：这种区域接受度差异，到底该看哪些指标来判断是素材问题还是达人受众问题？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 美国站达人寄样后，为什么同一套素材在美东和美西的转化差这么多？"
-    },
-    {
      "title": "日本电视台，被老人救活了",
      "link": "https://www.tmtpost.com/8202109.html",
      "pubDate": "Thu, 12 Nov 2026 11:31:00 +0800",
      "summary": "日本电视不会被剪线，也不能加广告。",
      "source": "钛媒体",
      "zh": "日本电视台，被老人救活了"
-    },
-    {
-     "title": "北美 AI 应用订阅定价改版后转化跌 18%，两人团队该怎么排测试节奏？",
-     "link": "https://www.baijing.cn/question/638677",
-     "pubDate": "Thu, 12 Nov 2026 03:28:50 +0000",
-     "summary": "我们做北美市场的 AI 写作类应用，团队就我和一个兼职运营，产品刚过冷启动、月流水在 1 万美元上下。上个月把 Pro 档从 9.99 美元/月改成 14.99 美元/月，同时加了一个 99 美元/年的年付选项，结果首周付费转化率从 4.2% 掉到 3.4%，年付占比只有 11%，退款率还涨了 2 个百分点。已经在 Stripe 上跑了三个价格点的小流量测试，但两个人一周只能排两轮，样本量一直不够，App Store 的订阅价格组审核又要等。现在卡在不知道先测年付折扣力度还是先回调月付价格，按我们这种人力和排期，应该优先验证哪一个变量？",
-     "source": "白鲸出海",
-     "zh": "北美 AI 应用订阅定价改版后转化跌 18%，两人团队该怎么排测试节奏？"
     },
     {
      "title": "Grok Bot大升级，AI同事开始抢活干",
@@ -1989,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Lean Grimoire",
      "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
      "pubDate": "Thu, 12 Nov 2026 02:36:48 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/ Comments URL: https://news.ycombinator.com/item?id=50462375 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/ Comments URL: https://news.ycombinator.com/item?id=50462375 Points: 14 # Comments: 2",
      "source": "Hacker News",
      "zh": "Lean Grimoire"
     },
@@ -2266,6 +2258,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Chip rivals AMD, Broadcom rally as Nvidia board weighs ousting CEO Jensen Huang",
+     "link": "https://seekingalpha.com/news/4671101-chip-rivals-amd-broadcom-rally-as-nvidia-board-weighs-ousting-ceo-jensen-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 23:46:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Chip rivals AMD, Broadcom rally as Nvidia board weighs ousting CEO Jensen Huang"
+    },
+    {
+     "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+     "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 04:41:00 GMT",
+     "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+     "source": "MarketWatch",
+     "zh": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang"
+    },
+    {
+     "title": "Elon Musk says it would be an ‘honor’ to hire Nvidia’s Jensen Huang",
+     "link": "https://seekingalpha.com/news/4671098-elon-musk-says-it-would-be-an-honor-to-hire-nvidia-s-jensen-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 23:28:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Elon Musk says it would be an ‘honor’ to hire Nvidia’s Jensen Huang"
+    },
+    {
      "title": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington",
      "link": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1",
      "pubDate": "Thu, 12 Nov 2026 04:19:48 GMT",
@@ -2362,22 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tetra Tech declares $0.072 dividend"
     },
     {
-     "title": "Allspring Utilities and High Income Fund declares $0.0859 dividend declines by 1.3% to $0.0859",
-     "link": "https://seekingalpha.com/news/4671093-allspring-utilities-and-high-income-fund-declares-00859-dividend-declines-by-13-to-00859?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:29:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Allspring Utilities and High Income Fund declares $0.0859 dividend declines by 1.3% to $0.0859"
-    },
-    {
-     "title": "Allspring Multi-Sector Income Fund declares $0.0719 dividend",
-     "link": "https://seekingalpha.com/news/4671092-allspring-multi-sector-income-fund-declares-0_0719-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:29:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Allspring Multi-Sector Income Fund declares $0.0719 dividend"
-    },
-    {
      "title": "净多头处于两年极低水平，白银逼空行情或已悄然启动",
      "link": "https://wallstreetcn.com/articles/3785786",
      "pubDate": "Thu, 12 Nov 2026 11:20:44 +0800",
@@ -2421,7 +2421,7 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
      "pubDate": "Thu, 12 Nov 2026 02:52:00 GMT",
-     "summary": "Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.",
+     "summary": "Nvidia’s board of directors reportedly met late Wednesday to determine the CEO’s fate.",
      "source": "MarketWatch",
      "zh": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang"
     },
@@ -2434,62 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
     },
     {
-     "title": "本立科技：截至11月10日最新股东户数9143户，较上期减少0.96%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929319030.html",
-     "pubDate": "Thu, 12 Nov 2026 10:41:21 +0800",
-     "summary": "本立科技 最新披露数据显示，截至11月10日公司股东户数为9143户，较上期(2026年10月30日) 减少89户，降幅为0.96% 。户均持有流通股数量 由上期的9346股上升至9437股， 户均持股金额 由上期的16.02万元增加至16.68万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
-     "source": "东方财富股票",
-     "zh": "本立科技：截至11月10日最新股东户数9143户，较上期减少0.96%"
-    },
-    {
-     "title": "美元指数突破103关口",
-     "link": "http://finance.eastmoney.com/news/11440,202611123929318995.html",
-     "pubDate": "Thu, 12 Nov 2026 10:40:56 +0800",
-     "summary": "美元指数突破103关口，日内涨0.08%。",
-     "source": "东方财富股票",
-     "zh": "美元指数突破103关口"
-    },
-    {
-     "title": "南山智尚：截至11月10日最新股东户数2.83万户，较上期减少0.24%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929318733.html",
-     "pubDate": "Thu, 12 Nov 2026 10:40:23 +0800",
-     "summary": "南山智尚 最新披露数据显示，截至11月10日公司股东户数为2.83万户，较上期(2026年10月30日) 减少69户，降幅为0.24% 。户均持有流通股数量 为1.79万股， 与上期基本持平， 户均持股金额 由上期的19.44万元增加至20.96万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
-     "source": "东方财富股票",
-     "zh": "南山智尚：截至11月10日最新股东户数2.83万户，较上期减少0.24%"
-    },
-    {
-     "title": "光智科技年产120万片磷化铟衬底项目预计明年下半年投产",
-     "link": "http://stock.eastmoney.com/news/11219,202611123929317518.html",
-     "pubDate": "Thu, 12 Nov 2026 10:39:24 +0800",
-     "summary": "按照项目建设计划，新增产能预计于2027年下半年具备投产条件。从业务发展来看，磷化铟衬底已成为 光智科技 新的增长方向。 （文章来源：新华财经）",
-     "source": "东方财富股票",
-     "zh": "光智科技年产120万片磷化铟衬底项目预计明年下半年投产"
-    },
-    {
-     "title": "锡装股份：截至11月10日最新股东户数1.37万户，较上期减少0.60%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929318428.html",
-     "pubDate": "Thu, 12 Nov 2026 10:39:20 +0800",
-     "summary": "锡装股份 最新披露数据显示，截至11月10日公司股东户数为1.37万户，较上期(2026年10月30日) 减少83户，降幅为0.60% 。户均持有流通股数量 由上期的4939股上升至4969股， 户均持股金额 由上期的10.42万元增加至11.08万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "锡装股份：截至11月10日最新股东户数1.37万户，较上期减少0.60%"
-    },
-    {
-     "title": "白宫据悉扩充法律顾问团队以应对民主党调查",
-     "link": "http://finance.eastmoney.com/news/1351,202611123929318834.html",
-     "pubDate": "Thu, 12 Nov 2026 10:39:15 +0800",
-     "summary": "据报道，白宫预计民主党控制的国会将加大监督力度，并展开立法调查，因此已开始扩充其法律顾问办公室的人员编制，迄今为止已增聘15人，以应对可能的法律战。预计国会调查力度将在1月份加大。“上次民主党人发出传票的时机把握得非常谨慎，”曾任众议院监督委员会民主党法律顾问的布兰登·里奥斯说道，“这次，如果1月份没收到传票，我会感到非常惊讶。” （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "白宫据悉扩充法律顾问团队以应对民主党调查"
-    },
-    {
-     "title": "Anthropic与SpaceX算力协议据悉难以长久 马斯克秒回：乐意收回所有算力",
-     "link": "http://finance.eastmoney.com/news/1354,202611123929315461.html",
-     "pubDate": "Thu, 12 Nov 2026 10:32:40 +0800",
-     "summary": "Anthropic与 SpaceX 的算力合作可能无法长久，据Anthropic高管和卖方分析师最近一次会面时传出的信息，两家公司的算力合同不会延长至明年年中或2027年第二季度后。 根据此前订立的合同，Anthropic自5月起每月向 SpaceX 支付12.5亿美元的算力 租赁 费用，而在今年12月合作扩大后，月租费用将上调至31亿美元。 SpaceX 发布的第三季度财报显示，该公司第三季度近三分之一的收入来自于Anthropic，预计到2029财年累计收入将达到1205亿美元。 然而，来自Anthropic的最新消息意味着，SpaceX对这笔交易的预期显然出现了一些偏差。不过，Space",
-     "source": "东方财富资讯",
-     "zh": "Anthropic与SpaceX算力协议据悉难以长久 马斯克秒回：乐意收回所有算力"
-    },
-    {
      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
      "pubDate": "Thu, 12 Nov 2026 02:31:00 GMT",
@@ -2498,12 +2442,60 @@ window.INDUSTRY_DATA = {
      "zh": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?"
     },
     {
-     "title": "罕见！美国军机紧急撤离",
-     "link": "http://finance.eastmoney.com/news/1344,202611123929312459.html",
-     "pubDate": "Thu, 12 Nov 2026 10:19:37 +0800",
-     "summary": "美军有新动向！ 据央视新闻报道，当地时间10日，据美国方面消息，美国空军已将部分军机从英国米尔登霍尔空军基地撤出。消息称，大约10架KC-135加油机和3架“鱼鹰”倾转旋翼机从米尔登霍尔空军基地飞往德国、西班牙，以及英国其他基地。 目前美国军方尚未证实此事。美国媒体报道称，美军重新部署军机的决定或与潜在安全威胁有关。 当地时间11日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗决心建立一个由波斯湾沿岸八国组成的联盟，希望该联盟涵盖经济和安全领域的合作，并涉及多个层面的协作。 他表示，如果敌人试图对伊朗发动新的袭击，根据推算，冲突持续的时间不会超过4到5天。雷扎伊表示，如果美国犯下错误，发动针对镐",
-     "source": "东方财富资讯",
-     "zh": "罕见！美国军机紧急撤离"
+     "title": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分",
+     "link": "https://wallstreetcn.com/articles/3785777",
+     "pubDate": "Thu, 12 Nov 2026 09:59:57 +0800",
+     "summary": "OpenAI首席执行官在三星高管闭门会议上罕见坦承AI基础设施需求存在重复计算，并提出与三星联合开发下一代AI终端设备。 据韩国《金融新闻》报道，Sam Altman在上月底赴韩访问期间，向三星集团旗下约50名事业部社长级高管发出警告： AI内存及数据中心需求在短期内可能出现波动， 市场上存在需求重复计算的情况。 与此同时，奥特曼在同一场合向三星抛出合作橄榄枝， 表示希望与三星共同开发下一代AI终端设备 ，目标直指\"后智能手机\"时代，被外界解读为OpenAI意图联合三星对抗苹果生态主导地位的战略布局。 短期需求存在泡沫风险 Altman在回应三星高管关于AI及内存需求未来5至10年是否会饱和或",
+     "source": "华尔街见闻",
+     "zh": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分"
+    },
+    {
+     "title": "Cramer&apos;s stance on Nvidia&apos;s stock amid reports that CEO Jensen Huang may be ousted",
+     "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+     "pubDate": "Thu, 12 Nov 2026 01:14:21 GMT",
+     "summary": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
+     "source": "CNBC",
+     "zh": "Cramer&apos;s stance on Nvidia&apos;s stock amid reports that CEO Jensen Huang may be ousted"
+    },
+    {
+     "title": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
+     "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
+     "pubDate": "Thu, 12 Nov 2026 01:13:24 GMT",
+     "summary": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy",
+     "source": "Financial Times",
+     "zh": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate"
+    },
+    {
+     "title": "Scott Colom wins historic Senate race in Mississippi",
+     "link": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1",
+     "pubDate": "Thu, 12 Nov 2026 00:24:56 GMT",
+     "summary": "Democrat becomes the first Black person to represent the state since Reconstruction era",
+     "source": "Financial Times",
+     "zh": "Scott Colom wins historic Senate race in Mississippi"
+    },
+    {
+     "title": "Can India clean up Delhi’s deadly smog?",
+     "link": "https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1",
+     "pubDate": "Thu, 12 Nov 2026 00:08:12 GMT",
+     "summary": "Residents ask why a country that can land a spacecraft on the Moon cannot prevent citizens in its capital choking on bad air",
+     "source": "Financial Times",
+     "zh": "Can India clean up Delhi’s deadly smog?"
+    },
+    {
+     "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+     "link": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+     "pubDate": "Wed, 11 Nov 2026 23:31:37 GMT",
+     "summary": "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
+     "source": "CNBC",
+     "zh": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith"
+    },
+    {
+     "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+     "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+     "pubDate": "Wed, 11 Nov 2026 22:46:29 GMT",
+     "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+     "source": "CNBC",
+     "zh": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports"
     }
    ]
   },
@@ -2513,6 +2505,22 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Scientists discover a common sugar may help cancer cells break free and spread",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
+     "pubDate": "Wed, 11 Nov 2026 23:39:31 EST",
+     "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together,",
+     "source": "ScienceDaily",
+     "zh": "Scientists discover a common sugar may help cancer cells break free and spread"
+    },
+    {
+     "title": "Walking and weight training may not be enough to keep your bones strong",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
+     "pubDate": "Wed, 11 Nov 2026 19:10:23 EST",
+     "summary": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction. Researchers found that activities such as football and handball in",
+     "source": "ScienceDaily",
+     "zh": "Walking and weight training may not be enough to keep your bones strong"
+    },
     {
      "title": "2,200-year-old gold bear figurine and surprising number of bones found in massive burial mound in Kazakhstan",
      "link": "https://www.livescience.com/archaeology/2-200-year-old-gold-bear-figurine-and-surprising-number-of-bones-found-in-massive-burial-mound-in-kazakhstan",
@@ -2642,14 +2650,6 @@ window.INDUSTRY_DATA = {
      "zh": "Even occasional marijuana use linked to 40% higher odds of stroke"
     },
     {
-     "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-     "pubDate": "Tue, 10 Nov 2026 20:36:04 EST",
-     "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodent",
-     "source": "ScienceDaily",
-     "zh": "Scientists discover a giant 66-pound rodent that lived 34 million years ago"
-    },
-    {
      "title": "What happens to mathematics when AI becomes an oracle?",
      "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
      "pubDate": "Tue, 10 Nov 2026 20:30:01 +0000",
@@ -2704,14 +2704,6 @@ window.INDUSTRY_DATA = {
      "summary": "A new study of the country’s bureaucracy shows the challenges of state-building at the moment of independence.",
      "source": "MIT News",
      "zh": "In postcolonial Ghana, a fresh start but not a blank slate"
-    },
-    {
-     "title": "Why heart attacks can still happen even when bad cholesterol is low",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
-     "pubDate": "Mon, 09 Nov 2026 20:54:15 EST",
-     "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond choleste",
-     "source": "ScienceDaily",
-     "zh": "Why heart attacks can still happen even when bad cholesterol is low"
     },
     {
      "title": "Fossil fuel emissions are down in 2026. Green energy isn’t the reason",

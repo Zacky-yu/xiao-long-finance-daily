@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 11:28:24",
+ "generated_at": "2026/11/12 11:31:54",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
      "source": "TechCrunch AI",
      "zh": "Who could replace Jensen Huang? A highly unscientific list of possible successors"
+    },
+    {
+     "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+     "link": "https://www.qbitai.com/2026/11/509281.html",
+     "pubDate": "Thu, 12 Nov 2026 01:45:04 +0000",
+     "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+     "source": "量子位",
+     "zh": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段"
     },
     {
      "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -130,6 +138,22 @@ window.INDUSTRY_DATA = {
      "zh": "9 Key LLM Inference Metrics Explained in 5 Minutes"
     },
     {
+     "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+     "link": "https://www.qbitai.com/2026/11/509224.html",
+     "pubDate": "Wed, 11 Nov 2026 12:43:54 +0000",
+     "summary": "模型即将开源",
+     "source": "量子位",
+     "zh": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了"
+    },
+    {
+     "title": "上海造、香港连，中国AI加速走向全球",
+     "link": "https://www.qbitai.com/2026/11/509214.html",
+     "pubDate": "Wed, 11 Nov 2026 12:22:34 +0000",
+     "summary": "WAIC把中国AI的年度日历排满了",
+     "source": "量子位",
+     "zh": "上海造、香港连，中国AI加速走向全球"
+    },
+    {
      "title": "10秒直出4K图，能画CAD、拆机械，MiniMax这个开源图像模型有点东西",
      "link": "https://zhidx.com/p/609469.html",
      "pubDate": "Wed, 11 Nov 2026 19:51:25 +0800",
@@ -152,6 +176,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月11日消息，今日，The Information援引知情人士报道，OpenAI在一场投资者电话会上披露，其第三季度收入 达到100亿美元 （约合人民币672亿元），为去年同期的 2.6倍 ，环比增幅从第二季度的17%升至近50%。 该报道同时称，OpenAI正寻求以 1.25万亿美元 （约合人民币8.4万亿元）的估值推进新一轮融资。 今日，OpenAI CFO萨拉·弗莱尔（Sarah Friar）在接受Yahoo Finance采访时透露，第三季度企业业务环比翻倍，消费者业务收入环比增长20%，目前两部分业务各贡献约一半收入。 收入提速降低",
      "source": "智东西",
      "zh": "曝OpenAI三季度收入突破670亿！"
+    },
+    {
+     "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
+     "link": "https://www.qbitai.com/2026/11/509203.html",
+     "pubDate": "Wed, 11 Nov 2026 09:58:49 +0000",
+     "summary": "复刻一个物理世界",
+     "source": "量子位",
+     "zh": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了"
     },
     {
      "title": "刚刚，腾讯版搜索引擎来了！几乎没广告，能搜公众号",
@@ -210,44 +242,12 @@ window.INDUSTRY_DATA = {
      "zh": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题"
     },
     {
-     "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-     "link": "https://www.qbitai.com/2026/11/509085.html",
-     "pubDate": "Wed, 11 Nov 2026 06:18:09 +0000",
-     "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
-     "source": "量子位",
-     "zh": "卷起来了！11月11日，大模型厂商在天猫打5折"
-    },
-    {
      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
      "link": "https://huggingface.co/blog/qvac/botpsy",
      "pubDate": "Wed, 11 Nov 2026 05:01:16 GMT",
      "summary": "",
      "source": "Hugging Face",
      "zh": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
-    },
-    {
-     "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-     "link": "https://arxiv.org/abs/2611.12933",
-     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, u",
-     "source": "arXiv cs.AI",
-     "zh": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation"
-    },
-    {
-     "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-     "link": "https://arxiv.org/abs/2611.12934",
-     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: th",
-     "source": "arXiv cs.AI",
-     "zh": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery"
-    },
-    {
-     "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-     "link": "https://arxiv.org/abs/2611.12935",
-     "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes.",
-     "source": "arXiv cs.AI",
-     "zh": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring"
     }
    ]
   },
@@ -1770,6 +1770,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "遏制烦人的网页 Cookie 弹窗，苹果 Safari 27.3 浏览器拟引入新隐私选项",
+     "link": "https://www.ithome.com/1/025/916.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:26:46 GMT",
+     "summary": "IT之家 11 月 12 日消息，科技媒体 9to5Mac 昨日（11 月 11 日）发布博文，报道称在 iOS 27.3 首个 Beta 开发者预览版中， 苹果公司计划为 Safari 浏览器引入“全局隐私控制”（Global Privacy Control，简称 GPC）选项，未来有望减少用户反复处理 Cookie 同意弹窗的麻烦。 IT之家援引博文介绍，该选项位于“设置 → 应用 → Safari 浏览器 → 高级”中。按照苹果的说明，开启后，Safari 可以要求网站不要出售或共享用户数据。不过，苹果同时提醒，这可能导致部分网站无法正常运行，甚至完全无法使用。 新闻记者 Nick He",
+     "source": "IT之家",
+     "zh": "遏制烦人的网页 Cookie 弹窗，苹果 Safari 27.3 浏览器拟引入新隐私选项"
+    },
+    {
+     "title": "Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)",
+     "link": "https://www.techmeme.com/261111/p53#a261111p53",
+     "pubDate": "Wed, 11 Nov 2026 22:25:00 -0500",
+     "summary": "Leo Schwartz / The Information : Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &nbsp; &mdash;&nbsp; The Commerce Department is finalizing a long-awaited rule that will prevent Chinese AI f",
+     "source": "Techmeme",
+     "zh": "Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)"
+    },
+    {
      "title": "中央国家机关台式机集采大单落地：2680 台总金额 1309.6 万元，清一色国产操作系统",
      "link": "https://www.ithome.com/1/025/914.htm",
      "pubDate": "Thu, 12 Nov 2026 03:23:58 GMT",
@@ -1848,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 12 日消息，盖世小鸡 (GameSir) 现已在中国大陆电商平台销售 XBOX 授权手柄控制器天王星 G7 Pro 的全新日落大道 / 海洋微风配色。这两个版本 均以美国佛罗里达州城市迈阿密为设计灵感来源 ，到手价 449 元。 日落大道款定格黄昏公路的浪漫 ，拥有深蓝摇杆帽、蓝透 D-Pad 键帽、落日黄 ABXY 键帽，充电底座为半透黄粉渐变； 海洋微风款则展现了白日海滩的风情 ，拥有薄荷绿摇杆帽、粉透 D-Pad 键帽、浅粉 ABXY 键帽，充电底座为半透蓝粉渐变。 天王星 G7 Pro 手柄配备 TMR 摇杆、霍尔 / 微动双切扳机、光学微动 ABXY、微动 D-",
      "source": "IT之家",
      "zh": "盖世小鸡 G7 Pro 手柄迈阿密风情双色国行发售，到手价 449 元"
-    },
-    {
-     "title": "苹果更新 1.13 版邀请 App：聚会主题、菜单可让宾客投票决定",
-     "link": "https://www.ithome.com/1/025/909.htm",
-     "pubDate": "Thu, 12 Nov 2026 03:09:29 GMT",
-     "summary": "IT之家 11 月 12 日消息，科技媒体 9to5Mac 昨日（11 月 11 日）发布博文，报道称苹果更新邀请（Apple Invites）应用， 在最新 1.13 版本中新增宾客投票和表情符号特效两项功能。 本次更新最大的亮点是宾客投票功能，组织者可以直接在邀请函中设置投票，请宾客参与决定活动细节。例如，聚会采用什么主题、菜单如何安排，都可以交由受邀者表达意见。 另一项更新是表情符号特效。组织者可以添加符合活动氛围的表情符号，让其在邀请函上飘动，从而丰富邀请函的视觉呈现，为不同主题的聚会增添个性化元素。IT之家附上相关截图如下：",
-     "source": "IT之家",
-     "zh": "苹果更新 1.13 版邀请 App：聚会主题、菜单可让宾客投票决定"
     },
     {
      "title": "年内最后一批储蓄国债“秒光”，低利差下为何仍遭抢购？",
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.",
      "source": "WIRED",
      "zh": "Walking Pad Deals to Shop Ahead of Black Friday (2026)"
-    },
-    {
-     "title": "Sources: Megaspeed founder Alice Huang has returned to China; a source says she is currently living in Beijing with the knowledge of security officials (Bloomberg)",
-     "link": "https://www.techmeme.com/261111/p50#a261111p50",
-     "pubDate": "Wed, 11 Nov 2026 20:45:02 -0500",
-     "summary": "Bloomberg : Sources: Megaspeed founder Alice Huang has returned to China; a source says she is currently living in Beijing with the knowledge of security officials &nbsp; &mdash;&nbsp; The suspected Chinese spy at the heart of a scandal that threatens to take down Nvidia Corp. Chief Executive Office",
-     "source": "Techmeme",
-     "zh": "Sources: Megaspeed founder Alice Huang has returned to China; a source says she is currently living in Beijing with the knowledge of security officials (Bloomberg)"
     }
    ]
   },
@@ -2266,6 +2266,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Sempra declares $0.6575 dividend",
+     "link": "https://seekingalpha.com/news/4671089-sempra-declares-0_6575-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:24:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sempra declares $0.6575 dividend"
+    },
+    {
+     "title": "HNI Corporation declares $0.35 dividend",
+     "link": "https://seekingalpha.com/news/4671088-hni-corporation-declares-0_35-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 22:22:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HNI Corporation declares $0.35 dividend"
+    },
+    {
      "title": "IDEX declares $0.73 dividend",
      "link": "https://seekingalpha.com/news/4671087-idex-declares-0_73-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 11 Nov 2026 22:22:28 -0500",
@@ -2296,22 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Corby Spirit and Wine Limited declares CAD 0.25 dividend"
-    },
-    {
-     "title": "Kimberly-Clark declares $1.28 dividend",
-     "link": "https://seekingalpha.com/news/4671083-kimberly-clark-declares-1_28-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:19:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kimberly-Clark declares $1.28 dividend"
-    },
-    {
-     "title": "Vox Royalty Corp. declares CAD 0.015 dividend",
-     "link": "https://seekingalpha.com/news/4671082-vox-royalty-corp-declares-cad-0_015-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 22:19:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vox Royalty Corp. declares CAD 0.015 dividend"
     },
     {
      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
@@ -2418,6 +2418,14 @@ window.INDUSTRY_DATA = {
      "zh": "白宫据悉扩充法律顾问团队以应对民主党调查"
     },
     {
+     "title": "Anthropic与SpaceX算力协议据悉难以长久 马斯克秒回：乐意收回所有算力",
+     "link": "http://finance.eastmoney.com/news/1354,202611123929315461.html",
+     "pubDate": "Thu, 12 Nov 2026 10:32:40 +0800",
+     "summary": "Anthropic与 SpaceX 的算力合作可能无法长久，据Anthropic高管和卖方分析师最近一次会面时传出的信息，两家公司的算力合同不会延长至明年年中或2027年第二季度后。 根据此前订立的合同，Anthropic自5月起每月向 SpaceX 支付12.5亿美元的算力 租赁 费用，而在今年12月合作扩大后，月租费用将上调至31亿美元。 SpaceX 发布的第三季度财报显示，该公司第三季度近三分之一的收入来自于Anthropic，预计到2029财年累计收入将达到1205亿美元。 然而，来自Anthropic的最新消息意味着，SpaceX对这笔交易的预期显然出现了一些偏差。不过，Space",
+     "source": "东方财富资讯",
+     "zh": "Anthropic与SpaceX算力协议据悉难以长久 马斯克秒回：乐意收回所有算力"
+    },
+    {
      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
      "pubDate": "Thu, 12 Nov 2026 02:31:00 GMT",
@@ -2432,6 +2440,22 @@ window.INDUSTRY_DATA = {
      "summary": "11月11日深夜，倪润峰去世消息披露之后，长虹集团的网站主页已变成黑白色，悼念这位引领长虹集团发展的传奇人物。",
      "source": "经济观察网",
      "zh": "倪润峰去世，曾带领长虹走向全国"
+    },
+    {
+     "title": "罕见！美国军机紧急撤离",
+     "link": "http://finance.eastmoney.com/news/1344,202611123929312459.html",
+     "pubDate": "Thu, 12 Nov 2026 10:19:37 +0800",
+     "summary": "美军有新动向！ 据央视新闻报道，当地时间10日，据美国方面消息，美国空军已将部分军机从英国米尔登霍尔空军基地撤出。消息称，大约10架KC-135加油机和3架“鱼鹰”倾转旋翼机从米尔登霍尔空军基地飞往德国、西班牙，以及英国其他基地。 目前美国军方尚未证实此事。美国媒体报道称，美军重新部署军机的决定或与潜在安全威胁有关。 当地时间11日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗决心建立一个由波斯湾沿岸八国组成的联盟，希望该联盟涵盖经济和安全领域的合作，并涉及多个层面的协作。 他表示，如果敌人试图对伊朗发动新的袭击，根据推算，冲突持续的时间不会超过4到5天。雷扎伊表示，如果美国犯下错误，发动针对镐",
+     "source": "东方财富资讯",
+     "zh": "罕见！美国军机紧急撤离"
+    },
+    {
+     "title": "伦铝市场遭遇历史性逼仓！两家实体掌控近八成可用库存？",
+     "link": "http://finance.eastmoney.com/news/1355,202611123929308619.html",
+     "pubDate": "Thu, 12 Nov 2026 10:15:00 +0800",
+     "summary": "伦敦金属交易所(LME)的 铝 市场目前正面临数十年来最严峻的逼仓局面——因为支撑合约的库存急剧下降，而剩余的大部分库存仅由两家交易商掌控。 周三，这一关键 工业金属 的现货价格飙升，较该交易所基准三个月期 期货 价格每吨高出147美元，创下逾30年来的最高水平。 直到10月中旬，该价差还曾处于贴水状态，但随着LME仓库的 铝 库存暴跌至1990年以来的最低水平，该价差已呈螺旋式急剧上升。 这种被称为现货升水的现象，是自20世纪80年代末以来LME 铝 合约中最陡峭的一次——当年Marc Rich公司对市场进行逼仓，曾将现货与三个月期 期货 的价差推高至每吨1000美元以上。自那以后，LME出",
+     "source": "东方财富资讯",
+     "zh": "伦铝市场遭遇历史性逼仓！两家实体掌控近八成可用库存？"
     },
     {
      "title": "“英伟达亲儿子”能否成为AI交易的“救世主”？",
@@ -2474,36 +2498,12 @@ window.INDUSTRY_DATA = {
      "zh": "互联网泡沫“龙头”亲历者！前思科高管对比：互联网大基建 vs AI大基建"
     },
     {
-     "title": "Cramer&apos;s stance on Nvidia&apos;s stock amid reports that CEO Jensen Huang may be ousted",
-     "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
-     "pubDate": "Thu, 12 Nov 2026 01:14:21 GMT",
-     "summary": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
-     "source": "CNBC",
-     "zh": "Cramer&apos;s stance on Nvidia&apos;s stock amid reports that CEO Jensen Huang may be ousted"
-    },
-    {
-     "title": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
-     "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-     "pubDate": "Thu, 12 Nov 2026 01:13:24 GMT",
-     "summary": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy",
-     "source": "Financial Times",
-     "zh": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate"
-    },
-    {
-     "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-     "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 01:12:00 GMT",
-     "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
-     "source": "MarketWatch",
-     "zh": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang"
-    },
-    {
-     "title": "万斯考虑与伊朗强硬派“直接谈”，伊朗议长：美国必须满足伊方提出的七项条件",
-     "link": "https://wallstreetcn.com/articles/3785776",
-     "pubDate": "Thu, 12 Nov 2026 08:56:30 +0800",
-     "summary": "美伊之间的外交试探正在升温。 据媒体最新报道，美国副总统万斯正考虑与伊朗强硬派安全官员Mohsen Rezaei进行直接会谈，特朗普已向幕僚和外国对应方表示，支持万斯重启对伊谈判并授权其主导这一进程。 伊朗一方则表示，美国必须全面满足伊方七项条件，方可重开霍尔木兹海峡、重启谈判。据 央视新闻 12日报道，伊朗议会议长卡利巴夫表示，伊朗已向美方给出了明确且直白的答复，阐述了伊朗的正当诉求。 万斯浮出水面，主导对伊外交 据美国和中东官员以及知情人士向媒体透露，万斯近期在对伊外交中扮演的角色，已超过特使Steve Witkoff和Jared Kushner——后两人同时还在处理俄乌停战谈判事务。 万",
-     "source": "华尔街见闻",
-     "zh": "万斯考虑与伊朗强硬派“直接谈”，伊朗议长：美国必须满足伊方提出的七项条件"
+     "title": "曾被称为特斯拉“史上最好产品”！马斯克官宣：Cybertruck停产时间有变",
+     "link": "http://stock.eastmoney.com/news/11228,202611123929286947.html",
+     "pubDate": "Thu, 12 Nov 2026 09:37:38 +0800",
+     "summary": "曾被马斯克称为 特斯拉 “史上最好产品”的电动皮卡Cybertruck的停产时间有了新的变化。 当地时间周三， 特斯拉 CEO埃隆·马斯克在X上发帖称， Cybertruck的生产将“延长至2027年夏末”，因为 特斯拉 正在“处理更多Cybertruck积压订单” 。 就在五天前（上周五），马斯克表示，特斯拉将在2027年年中左右停产Cybertruck，将更多产能转向Cybercab，后者是一款没有方向盘的自动驾驶出租车。 对于这款一度让特斯拉热度高涨的 汽车 而言，这样的收场显得不甚体面。这款皮卡原本要展示特斯拉最新的电动 汽车 技术，同时打开利润丰厚的皮卡市场。马斯克曾告诉投资者，它将",
+     "source": "东方财富资讯",
+     "zh": "曾被称为特斯拉“史上最好产品”！马斯克官宣：Cybertruck停产时间有变"
     }
    ]
   },

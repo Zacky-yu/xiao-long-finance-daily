@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/12 21:32:01",
+ "generated_at": "2026/11/12 21:51:57",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Viam Launchpad aims to accelerate robotics deployments",
+     "link": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+     "pubDate": "Thu, 12 Nov 2026 13:30:31 +0000",
+     "summary": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment. The post Viam Launchpad aims to accelerate robotics deployments appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Viam Launchpad aims to accelerate robotics deployments"
+    },
+    {
+     "title": "Runway’s Praxis-1 world action model for robotics is now available",
+     "link": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+     "pubDate": "Thu, 12 Nov 2026 13:18:47 +0000",
+     "summary": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra. Developers can now use it with open weights. The post Runway’s Praxis-1 world action model for robotics is now available appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Runway’s Praxis-1 world action model for robotics is now available"
+    },
+    {
      "title": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion",
      "link": "https://roboticsandautomationnews.com/2026/11/12/estun-robotics-and-robodk-announce-strategic-partnership-at-dfactory-barcelona-to-simplify-and-accelerate-the-adoption-of-industrial-robots-in-europe/107047/",
      "pubDate": "Thu, 12 Nov 2026 00:40:29 +0000",
@@ -593,22 +609,6 @@
      "zh": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots"
     },
     {
-     "title": "Why predictive maintenance matters more as factories add robots",
-     "link": "https://www.therobotreport.com/why-predictive-maintenance-matters-more-as-factories-add-robots/",
-     "pubDate": "Tue, 10 Nov 2026 16:13:40 +0000",
-     "summary": "As robotics scales across industries, companies need a maintenance strategy to collect and use the right data to minimize downtime. The post Why predictive maintenance matters more as factories add robots appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Why predictive maintenance matters more as factories add robots"
-    },
-    {
-     "title": "Intel and Altera expand collaboration to simplify sensor integration for physical AI",
-     "link": "https://www.therobotreport.com/intel-altera-expand-collaboration-simplify-sensor-integration-physical-ai/",
-     "pubDate": "Tue, 10 Nov 2026 14:47:10 +0000",
-     "summary": "Altera and Intel are working to make it easier to connect diverse sensors, turn data into real-time insights, and develop robotics. The post Intel and Altera expand collaboration to simplify sensor integration for physical AI appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Intel and Altera expand collaboration to simplify sensor integration for physical AI"
-    },
-    {
      "title": "AIhub coffee corner: Are humanoids the future of embodied AI?",
      "link": "https://robohub.org/aihub-coffee-corner-are-humanoids-the-future-of-embodied-ai/",
      "pubDate": "Mon, 09 Nov 2026 14:21:13 +0000",
@@ -648,6 +648,14 @@
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup",
+     "link": "https://cnevpost.com/2026/11/12/denza-updated-n8-returns-as-5-seater/",
+     "pubDate": "Thu, 12 Nov 2026 13:43:00 +0000",
+     "summary": "The updated Denza N8 offers battery electric and plug-in hybrid variants, with the BEV versions delivering up to 1,003 km of range. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "BYD Denza's updated N8 returns as 5-seater, expanding family SUV lineup"
+    },
     {
      "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
      "link": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/",
@@ -719,14 +727,6 @@
      "summary": "GWM chairman acknowledged a gap in overall performance between its supercar and the Ferrari SF90, but expects to deliver a surprise at launch. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "GWM to launch Ferrari-rivaling hybrid supercar in 2027"
-    },
-    {
-     "title": "VW Anhui reportedly has no new models planned for 2027-2028 as ID. UNYX sales disappoint",
-     "link": "https://cnevpost.com/2026/11/12/vw-anhui-no-new-models-2027-2028/",
-     "pubDate": "Thu, 12 Nov 2026 02:51:37 +0000",
-     "summary": "Volkswagen Anhui had considered launching a crossover in 2028, but that project has also been put on hold. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "VW Anhui reportedly has no new models planned for 2027-2028 as ID. UNYX sales disappoint"
     },
     {
      "title": "Europe’s electric car sales jump 49% as global EV sales grow",
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Predicting power output from artistic BIPV pixel by pixel",
+     "link": "https://www.pv-magazine.com/2026/11/12/predicting-power-output-and-hot-spot-risk-in-artistic-bipv/",
+     "pubDate": "Thu, 12 Nov 2026 13:30:00 +0000",
+     "summary": "Researchers have developed a model linking artwork colors to power output and potential hot-spot risks in colored BIPV arrays. Simulations of 50 masterpieces show how selectively darkening bright pixels can improve electrical performance. The post Predicting power output from artistic BIPV pixel by ",
+     "source": "pv magazine",
+     "zh": "Predicting power output from artistic BIPV pixel by pixel"
+    },
+    {
+     "title": "Turkey Agrees to Record $1.6 Billion Climate Policy Funding Deal",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-Agrees-to-Record-16-Billion-Climate-Policy-Funding-Deal.html",
+     "pubDate": "Thu, 12 Nov 2026 07:30:00 -0600",
+     "summary": "Turkey and the Asian Infrastructure Investment Bank (AIIB) on Thursday agreed on a $1.6-billion climate financing package to support Turkey’s climate goals in the biggest climate-focused deal of the Asian bank to date. The deal was announced in Antalya, where Turkey is hosting the COP31 global clima",
+     "source": "OilPrice",
+     "zh": "Turkey Agrees to Record $1.6 Billion Climate Policy Funding Deal"
+    },
+    {
      "title": "Testing challenges, BESS and changing procurement landscape lead PV ModuleTech Europe 2026 discussions",
      "link": "https://www.pv-tech.org/testing-challenges-bess-changing-procurement-landscape-pv-moduletech-europe/",
      "pubDate": "Thu, 12 Nov 2026 12:55:40 +0000",
@@ -961,14 +977,6 @@
      "zh": "Clean Energy Regulator suspends Solar Power Nation from Australia’s rooftop solar rebate scheme"
     },
     {
-     "title": "Japan enters final months of new ground-mounted solar certifications",
-     "link": "https://www.pv-magazine.com/2026/11/12/japan-enters-final-months-of-new-ground-mounted-solar-certifications/",
-     "pubDate": "Thu, 12 Nov 2026 10:45:00 +0000",
-     "summary": "Japan has published its last application deadlines for feed-in tariff (FIT) and feed-in premium (FIP) support before ground-mounted commercial solar closes to new projects. The post Japan enters final months of new ground-mounted solar certifications appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Japan enters final months of new ground-mounted solar certifications"
-    },
-    {
      "title": "China Targets Global Gas Turbine Market as AI Power Demand Explodes",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Targets-Global-Gas-Turbine-Market-as-AI-Power-Demand-Explodes.html",
      "pubDate": "Thu, 12 Nov 2026 04:00:00 -0600",
@@ -1047,14 +1055,6 @@
      "summary": "The Association of Southeast Asian Nations has agreed to set up a joint crude oil stockpiling scheme in response to the supply disruption from the war in Iran, which severely affected countries in the region. The scheme will comprise storage sites in Indonesia and Thailand, Reuters reported today, f",
      "source": "OilPrice",
      "zh": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis"
-    },
-    {
-     "title": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Sink-as-Iran-and-Ukraine-Peace-Optimism-Builds.html",
-     "pubDate": "Thu, 12 Nov 2026 00:35:00 -0600",
-     "summary": "Crude oil prices extended their decline today, with both Brent crude and WTI shedding over $1 in Asian trade earlier in the day on growing hopes for peace in Ukraine and Iran. At the time of writing, Brent crude was trading at $91.32 per barrel, and West Texas Intermediate was changing hands for $85",
-     "source": "OilPrice",
-     "zh": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds"
     },
     {
      "title": "The High-Rise Bottleneck: Why EV Charging in Indian Apartments Is an Engineering Puzzle",
@@ -1545,6 +1545,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+     "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+     "pubDate": "Thu, 12 Nov 2026 13:42:09 +0000",
+     "summary": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180 Vulnerabilities appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities"
+    },
+    {
+     "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+     "link": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
+     "pubDate": "Thu, 12 Nov 2026 13:39:03 +0000",
+     "summary": "Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories. The post Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign"
+    },
+    {
      "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
      "link": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
      "pubDate": "Thu, 12 Nov 2026 13:12:11 +0000",
@@ -1657,22 +1673,6 @@
      "zh": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover"
     },
     {
-     "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
-     "link": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
-     "pubDate": "Thu, 12 Nov 2026 09:23:21 +0000",
-     "summary": "Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access. The post Critical Red Hat Quay Vulnerability Could Expose Private Container Images appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images"
-    },
-    {
-     "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-     "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
-     "pubDate": "Thu, 12 Nov 2026 08:38:47 +0000",
-     "summary": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt"
-    },
-    {
      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
      "pubDate": "Thu, 12 Nov 2026 01:00:00 GMT",
@@ -1761,12 +1761,44 @@
    "total": 18,
    "items": [
     {
+     "title": "南山巨头，也开始财源广进",
+     "link": "https://www.huxiu.com/article/4905126.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 21:34:21 +0800",
+     "summary": "本文来自微信公众号： 嬉笑创客 ，作者：CB，题图来自：AI生成 小马哥的脸，听说很黑。 危机感是很强的。财源广进是迫在眉睫的。 大领导似乎都喜欢用比喻。他似乎将 AI 比作海浪，浪不断地卷过来。那些还留在陆地上的人，必须要学会怎么上船。 不能上船的，都要面临淘汰。 什么是陆地？大概就是那些有险可守、有深度护城河的业务，比如有社交关系作为粘性的微信。但这样的陆地在 AI 的冲击下无疑越来越小。如果你看过《未来水世界》的话，应该知道这种绝望。 他先提了搜索，近在咫尺的是核心业务受威胁的谷歌。但别忘了，他也是看着百度从一代霸主、几千亿的市值萎缩到如今的几百亿美元。甚至一些国产大模型公司的估值已经追",
+     "source": "虎嗅",
+     "zh": "南山巨头，也开始财源广进"
+    },
+    {
+     "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
+     "link": "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/",
+     "pubDate": "Thu, 12 Nov 2026 13:30:00 +0000",
+     "summary": "The sustainable phone maker is teaming up with its first US carrier to sell wireless plans alongside its fully repairable smartphone.",
+     "source": "WIRED",
+     "zh": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile"
+    },
+    {
      "title": "新华三发布全新国产双路旗舰服务器 R4930 G7，单线程 IPC 性能提升超 15%",
      "link": "https://www.ithome.com/1/026/391.htm",
      "pubDate": "Thu, 12 Nov 2026 13:26:54 GMT",
      "summary": "IT之家 11 月 12 日消息，新紫光集团今日宣布，旗下新华三完成 H3C UniServer R4930 G7 服务器核心平台迭代升级。这款自研国产双路旗舰 搭载全新一代国产处理器 ，从计算内核、内存带宽、AI 向量加速到底层 BMC 安全底座全方位跃升。 R4930 G7 单机 最高 192 核，支持 768 线程 ，整机计算性能较上代实现大幅度提升， 单线程 IPC（每时钟周期指令数）性能提升超 15% ，核心规模扩容 50%、线程规模翻倍。 同等机架和功耗下，单机可承载的虚拟机、容器或业务实例明显增加。若上代单机稳定承载 80 个中等负载虚拟机，新平台可提升至约 120 个， 相当于",
      "source": "IT之家",
      "zh": "新华三发布全新国产双路旗舰服务器 R4930 G7，单线程 IPC 性能提升超 15%"
+    },
+    {
+     "title": "今天起，豆包工作接入更多模型了",
+     "link": "https://www.tmtpost.com/8202629.html",
+     "pubDate": "Thu, 12 Nov 2026 21:23:33 +0800",
+     "summary": "11月12日，豆包工作宣布正式接入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型，并推出限时特惠计划。",
+     "source": "钛媒体",
+     "zh": "今天起，豆包工作接入更多模型了"
+    },
+    {
+     "title": "实测百度文心5.5 Flash Preview：审美依然在线，编程全力争先",
+     "link": "https://www.tmtpost.com/8202831.html",
+     "pubDate": "Thu, 12 Nov 2026 21:23:09 +0800",
+     "summary": "百度发布最新基础模型，编程、3D 建模、知识工作、内容创作等表现突出。",
+     "source": "钛媒体",
+     "zh": "实测百度文心5.5 Flash Preview：审美依然在线，编程全力争先"
     },
     {
      "title": "AMD 拟入股量子计算公司 PsiQuantum，将扩大合作、共同开发基础设施",
@@ -1823,14 +1855,6 @@
      "summary": "本文来自微信公众号： 电动星球 ，作者：木俞、Wallace，原文标题：《10 月中国车销量 TOP10：一月代步油费 2000 元，纯电两厢车「屠榜」》 两厢纯电车拯救了「代步一月，油费2000元」的油车用户？ 乘联会零售数据显示，10月份全国乘用车累计销量为164.3万台，其中新能源车占110.9万台，燃油车跑出了近乎「腰斩」的同比变化，大盘整体同比下降了27.1%。连「金九银十」也带不动了。 回到新能源轿车，10月零售42.77万台，环比下跌0.4%，对比去年同期有约29%的跌幅。 把目光锁定在TOP10上面，两厢纯电小车几乎称得上「屠榜」。 一方面，吉利星愿以50190台牢牢锁定榜单第",
      "source": "虎嗅",
      "zh": "10月中国车销量TOP10：一月代步油费2000元，纯电两厢车“屠榜”"
-    },
-    {
-     "title": "卫星批量化制造时代：效率革命的收益与风险并存",
-     "link": "https://www.huxiu.com/article/4905132.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 21:09:17 +0800",
-     "summary": "本文来自微信公众号： 太空与网络 ，作者：毕星，原文标题：《卫星批量化制造时代——效率革命的收益与风险并存》 卫星批量化制造时代——效率革命的收益与风险并存 PART 01 引言： 卫星制造正在发生范式级切换 长久以来，航天卫星研制沿用单星定制模式，是典型的高端装备\"手工作业\"。传统航天任务以高轨卫星、专项探测、重大工程为主，追求极致可靠性与任务适配性，行业由此形成一星一方案、一星一设计、一星一测试的研制体系。这套模式支撑了我国航天高可靠、高精度、高成功率的产业底色，但其小批量、长周期、高投入的特征，也决定了产能与成本的天然上限。 随着低轨卫星互联网、商用遥感星座、太空物联网等新业态加速落地，",
-     "source": "虎嗅",
-     "zh": "卫星批量化制造时代：效率革命的收益与风险并存"
     },
     {
      "title": "R 星回应未来《侠盗猎车手》游戏舞台是否只有美国：凡事没有绝对",
@@ -1932,7 +1956,7 @@
      "title": "Anthropic IPO",
      "link": "https://ipo.anthropic.com/us/",
      "pubDate": "Thu, 12 Nov 2026 11:46:41 +0000",
-     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 154 # Comments: 177",
+     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 180 # Comments: 204",
      "source": "Hacker News",
      "zh": "Anthropic IPO"
     },
@@ -1964,7 +1988,7 @@
      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
      "link": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
      "pubDate": "Thu, 12 Nov 2026 10:46:20 +0000",
-     "summary": "Article URL: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/ Comments URL: https://news.ycombinator.com/item?id=50465453 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/ Comments URL: https://news.ycombinator.com/item?id=50465453 Points: 20 # Comments: 6",
      "source": "Hacker News",
      "zh": "Researchers discover rare star system that emits radio signals every 8 minutes"
     },
@@ -1975,30 +1999,6 @@
      "summary": "国盛证券因替公募承担境外调研费用遭警示，暴露佣金收缩下卖方违规套路；其自营亏损、经纪业务依赖度超57%且遭暂停开户，研究人才流失，转型乏力。",
      "source": "钛媒体",
      "zh": "替公募海外调研买单，国盛证券踩中连环雷"
-    },
-    {
-     "title": "00后华人女孩们，成硅谷AI新贵",
-     "link": "https://www.tmtpost.com/8203090.html",
-     "pubDate": "Thu, 12 Nov 2026 18:36:18 +0800",
-     "summary": "名校退学、大厂离职， 5位华人女孩拿下600亿估值。",
-     "source": "钛媒体",
-     "zh": "00后华人女孩们，成硅谷AI新贵"
-    },
-    {
-     "title": "BAT新旗舰杀回第一阵营，压力来到字节这边",
-     "link": "https://www.tmtpost.com/8203160.html",
-     "pubDate": "Thu, 12 Nov 2026 18:36:08 +0800",
-     "summary": "百度、阿里、腾讯在同一周交了卷，而Seed 2.1已经将近半年没更新了。",
-     "source": "钛媒体",
-     "zh": "BAT新旗舰杀回第一阵营，压力来到字节这边"
-    },
-    {
-     "title": "一把厨刀引发的风波，和一家太空站里的黑心小店：《深空当铺》到底卖的是什么?",
-     "link": "https://www.tmtpost.com/8202153.html",
-     "pubDate": "Thu, 12 Nov 2026 18:36:03 +0800",
-     "summary": "前段时间，出现了《深空当铺：可能是偷的》这个今年的独游黑马。",
-     "source": "钛媒体",
-     "zh": "一把厨刀引发的风波，和一家太空站里的黑心小店：《深空当铺》到底卖的是什么?"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Peacock thinks vertical video will make you watch one more hour per month",
+     "link": "https://9to5mac.com/2026/11/12/peacock-thinks-vertical-video-will-make-you-watch-one-more-hour-per-month/",
+     "pubDate": "Thu, 12 Nov 2026 13:42:00 +0000",
+     "summary": "NBCUniversal has announced what it describes as the largest mobile update ever to the Peacock iPhone app, with a bigger emphasis on vertical video. The company reportedly expects this to increase average usage of the app by one hour per user per month … more…",
+     "source": "9to5Mac",
+     "zh": "Peacock thinks vertical video will make you watch one more hour per month"
+    },
     {
      "title": "Galaxy S27 wallpapers leak, giving us early clues on expected colors",
      "link": "https://www.androidauthority.com/samsung-galaxy-s27-series-wallpapers-leak-3734394/",
@@ -2177,14 +2185,6 @@
      "zh": "Huawei's Osta sub-brand now has an official launch date"
     },
     {
-     "title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
-     "link": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
-     "pubDate": "Thu, 12 Nov 2026 04:01:11 +0000",
-     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more"
-    },
-    {
      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
      "link": "https://sspai.com/post/118921",
      "pubDate": "Thu, 12 Nov 2026 11:12:02 +0800",
@@ -2257,12 +2257,132 @@
    "total": 13,
    "items": [
     {
+     "title": "Seanergy Maritime Non-GAAP EPS of $1.25 beats by $0.34, revenue of $57.5M beats by $2.77M",
+     "link": "https://seekingalpha.com/news/4671433-seanergy-maritime-non-gaap-eps-of-1_25-beats-by-0_34-revenue-of-57_5m-beats-by-2_77m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 08:48:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Seanergy Maritime Non-GAAP EPS of $1.25 beats by $0.34, revenue of $57.5M beats by $2.77M"
+    },
+    {
+     "title": "KALA BIO announces 1-for-30 reverse stock split",
+     "link": "https://seekingalpha.com/news/4671424-kala-bio-announces-1-forminus-30-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 08:48:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "KALA BIO announces 1-for-30 reverse stock split"
+    },
+    {
+     "title": "4 stocks to watch on Thursday: NBIS, GOOG, GIS, and MANU",
+     "link": "https://seekingalpha.com/news/4671406-4-stocks-to-watch-on-thursday-nbis-goog-gis-and-manu?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 08:48:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "4 stocks to watch on Thursday: NBIS, GOOG, GIS, and MANU"
+    },
+    {
+     "title": "Monopar Therapeutics GAAP EPS of -$0.72 in-line",
+     "link": "https://seekingalpha.com/news/4671432-monopar-therapeutics-gaap-eps-of--072-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 08:48:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Monopar Therapeutics GAAP EPS of -$0.72 in-line"
+    },
+    {
+     "title": "AI infrastructure spending races toward $2T by 2028, Morgan Stanley estimates",
+     "link": "https://seekingalpha.com/news/4671419-ai-infrastructure-spending-races-toward-2t-by-2028-morgan-stanley-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 08:47:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AI infrastructure spending races toward $2T by 2028, Morgan Stanley estimates"
+    },
+    {
+     "title": "Artelo Biosciences GAAP EPS of -$3.19",
+     "link": "https://seekingalpha.com/news/4671429-artelo-biosciences-gaap-eps-of-3_19?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 08:46:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Artelo Biosciences GAAP EPS of -$3.19"
+    },
+    {
      "title": "Trump says ‘we don’t need a deal with Iran’",
      "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-     "pubDate": "Thu, 12 Nov 2026 13:28:58 GMT",
+     "pubDate": "Thu, 12 Nov 2026 13:44:24 GMT",
      "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
      "source": "CNBC",
      "zh": "Trump says ‘we don’t need a deal with Iran’"
+    },
+    {
+     "title": "【图解财报】中芯国际三季报盈利73.14亿人民币，同比增加91.57%",
+     "link": "http://stock.eastmoney.com/news/11837,202611123929914764.html",
+     "pubDate": "Thu, 12 Nov 2026 21:38:51 +0800",
+     "summary": "中芯国际 11月12日发布 三季报 业绩，截至2026年9月30日的 9 个月内，该公司营业收入606.18亿人民币，同比 增长22.43%； 公司权益持有人应占溢利（归母净利润）73.14亿人民币， 同比增长91.57% 。 中芯国际 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个",
+     "source": "东方财富股票",
+     "zh": "【图解财报】中芯国际三季报盈利73.14亿人民币，同比增加91.57%"
+    },
+    {
+     "title": "欧洲斯托克600指数回吐早盘涨幅",
+     "link": "http://finance.eastmoney.com/news/11440,202611123929914944.html",
+     "pubDate": "Thu, 12 Nov 2026 21:38:27 +0800",
+     "summary": "欧洲斯托克600指数回吐早盘涨幅，日内转跌。",
+     "source": "东方财富股票",
+     "zh": "欧洲斯托克600指数回吐早盘涨幅"
+    },
+    {
+     "title": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.",
+     "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 13:38:00 GMT",
+     "summary": "A new bill would lower the Medicare age to 50, expanding coverage to an additional 60 million adults",
+     "source": "MarketWatch",
+     "zh": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50."
+    },
+    {
+     "title": "据BNO新闻：警方通报，美国华盛顿特区洛根圆环社区发生一起持枪袭击事件，至少有4名受害者",
+     "link": "http://finance.eastmoney.com/news/1351,202611123929914839.html",
+     "pubDate": "Thu, 12 Nov 2026 21:37:43 +0800",
+     "summary": "据BNO新闻：警方通报，美国华盛顿特区洛根圆环社区发生一起持枪袭击事件，至少有4名受害者。嫌疑人尚未被警方拘捕。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "据BNO新闻：警方通报，美国华盛顿特区洛根圆环社区发生一起持枪袭击事件，至少有4名受害者"
+    },
+    {
+     "title": "英国政府：同时对斯拉夫石油公司（Slavneft）实施制裁",
+     "link": "http://finance.eastmoney.com/news/1351,202611123929915039.html",
+     "pubDate": "Thu, 12 Nov 2026 21:37:42 +0800",
+     "summary": "英国政府：同时对斯拉夫石油公司（Slavneft）实施制裁。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "英国政府：同时对斯拉夫石油公司（Slavneft）实施制裁"
+    },
+    {
+     "title": "英国政府：制裁对象包括“影子船队”船只、煤炭企业以及俄罗斯石油公司的东方石油项目",
+     "link": "http://finance.eastmoney.com/news/1351,202611123929911995.html",
+     "pubDate": "Thu, 12 Nov 2026 21:35:42 +0800",
+     "summary": "英国政府：制裁对象包括“影子船队”船只、 煤炭 企业以及俄罗斯石油公司的东方石油项目。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "英国政府：制裁对象包括“影子船队”船只、煤炭企业以及俄罗斯石油公司的东方石油项目"
+    },
+    {
+     "title": "英国政府：英国制裁俄罗斯十大石油生产商",
+     "link": "http://finance.eastmoney.com/news/1351,202611123929909366.html",
+     "pubDate": "Thu, 12 Nov 2026 21:35:42 +0800",
+     "summary": "英国政府：英国制裁俄罗斯十大石油生产商。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "英国政府：英国制裁俄罗斯十大石油生产商"
+    },
+    {
+     "title": "Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价盘前跌逾14% | 财报见闻",
+     "link": "https://wallstreetcn.com/articles/3785826",
+     "pubDate": "Thu, 12 Nov 2026 21:32:11 +0800",
+     "summary": "AI云计算公司Nebius Group公布第三季度业绩，营收与利润双双超出市场预期，但ARR增长指引下调与资本开支大幅上调的组合，令投资者对其盈利路径产生疑虑，股价盘前一度跌逾14%。 Nebius三季度营收达9.81亿美元，较市场预期的9.19亿美元高出约6.7%；调整后EBITDA为4.66亿美元，亦大幅超出预期的3.57亿美元。 然而，公司将年化经常性收入（ARR）目标从此前承诺的\"2026年12月前达到70亿至90亿美元\"下调至\"2027年2月前达到70亿美元以上\"，与此同时，公司还表示\"ARR不再是衡量业务的正确指标\"， 令外界对其战略方向的清晰度产生质疑。 值得注意的是，同日半导体",
+     "source": "华尔街见闻",
+     "zh": "Nebius Q3业绩超预期，资本开支升至270亿美元、ARR目标延期，股价盘前跌逾14% | 财报见闻"
+    },
+    {
+     "title": "美国上周首次申领失业救济人数为20万人 略高于市场预期",
+     "link": "http://finance.eastmoney.com/news/1345,202611123929902273.html",
+     "pubDate": "Thu, 12 Nov 2026 21:30:35 +0800",
+     "summary": "美国上周首次申领失业救济人数为20万人，预估为19.5万人，前值为18.9万人。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "美国上周首次申领失业救济人数为20万人 略高于市场预期"
     },
     {
      "title": "黄仁勋丑闻持续发酵，美股盘前英伟达大跌9%，纳指期货下跌1.4%，Nebius绩后跌13%，油价短线上扬",
@@ -2273,52 +2393,12 @@
      "zh": "黄仁勋丑闻持续发酵，美股盘前英伟达大跌9%，纳指期货下跌1.4%，Nebius绩后跌13%，油价短线上扬"
     },
     {
-     "title": "Micron, Sandisk lead ten technology stocks with months-long Strong Buy ratings",
-     "link": "https://seekingalpha.com/news/4671388-micron-sandisk-lead-ten-technology-stocks-with-months-long-strong-buy-ratings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 08:25:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Micron, Sandisk lead ten technology stocks with months-long Strong Buy ratings"
-    },
-    {
-     "title": "Movano GAAP EPS of -$0.60 misses by $0.36, revenue of $5M misses by $0.54M",
-     "link": "https://seekingalpha.com/news/4671404-movano-gaap-eps-of--060-misses-by-036-revenue-of-5m-misses-by-054m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 08:23:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Movano GAAP EPS of -$0.60 misses by $0.36, revenue of $5M misses by $0.54M"
-    },
-    {
-     "title": "Data I/O GAAP EPS of -$0.27 misses by $0.28, revenue of $4.9M misses by $1.35M",
-     "link": "https://seekingalpha.com/news/4671401-data-io-gaap-eps-of--027-misses-by-028-revenue-of-49m-misses-by-135m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 08:21:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Data I/O GAAP EPS of -$0.27 misses by $0.28, revenue of $4.9M misses by $1.35M"
-    },
-    {
-     "title": "Hancock Whitney to buy Trustmark in ~$3.2B all-stock deal",
-     "link": "https://seekingalpha.com/news/4671380-hancock-whitney-to-buy-trustmark-in-32b-all-stock-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 08:21:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hancock Whitney to buy Trustmark in ~$3.2B all-stock deal"
-    },
-    {
-     "title": "SES AI reports mixed Q3 results; reaffirms FY26 outlook",
-     "link": "https://seekingalpha.com/news/4671398-ses-ai-reports-mixed-q3-results-reaffirms-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 08:19:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SES AI reports mixed Q3 results; reaffirms FY26 outlook"
-    },
-    {
-     "title": "HubSpot rises as co-founder Halligan returns as CEO",
-     "link": "https://seekingalpha.com/news/4671376-hubspot-rises-as-co-founder-halligan-returns-as-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 08:19:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HubSpot rises as co-founder Halligan returns as CEO"
+     "title": "特朗普称美国不需要与伊朗达成协议，油价直线拉升",
+     "link": "https://wallstreetcn.com/articles/3785827",
+     "pubDate": "Thu, 12 Nov 2026 21:20:55 +0800",
+     "summary": "特朗普表示美国无需与伊朗达成协议，令中东局势前景更趋不明朗，市场对该地区供应风险的担忧重燃。 据央视新闻，当地时间11月12日， 美国总统特朗普表示，美国不需要与伊朗达成协议。 特朗普称，那样的日子早已过去。他声称，美国已经掌握了伊朗数千亿美元的资金以及霍尔木兹海峡。 话音一落，原油直线拉升，布油转涨，截至发稿，日内涨幅超过1%。 特朗普表示，副总统JD·万斯应把重点放在国内事务上，尤其是调查美国各地由民主党掌管的城市和州所涉腐败问题。而据媒体此前报道， 万斯正考虑与伊朗强硬派安全官员Mohsen Rezaei进行直接会谈 ，特朗普已向幕僚和外国对应方表示，支持万斯重启对伊谈判并授权其主导这一",
+     "source": "华尔街见闻",
+     "zh": "特朗普称美国不需要与伊朗达成协议，油价直线拉升"
     },
     {
      "title": "Dior假日广告惹AI争议，奢侈品牌的“手工叙事”遭遇信任考验",
@@ -2327,6 +2407,14 @@
      "summary": "当AI越来越容易模仿手工质感，品牌如何证明创意背后的真实价值？",
      "source": "经济观察网",
      "zh": "Dior假日广告惹AI争议，奢侈品牌的“手工叙事”遭遇信任考验"
+    },
+    {
+     "title": "特朗普称美国不需要与伊朗达成协议",
+     "link": "http://finance.eastmoney.com/news/1345,202611123929897074.html",
+     "pubDate": "Thu, 12 Nov 2026 21:12:22 +0800",
+     "summary": "当地时间11月12日，美国总统特朗普表示，美国不需要与伊朗达成协议。 特朗普称，那样的日子早已过去。他声称，美国已经掌握了伊朗数千亿美元的资金以及霍尔木兹海峡。 （文章来源：央视新闻客户端）",
+     "source": "东方财富资讯",
+     "zh": "特朗普称美国不需要与伊朗达成协议"
     },
     {
      "title": "Unions helped Democrats win big in 2026. Now they want action",
@@ -2377,6 +2465,22 @@
      "zh": "How the U.S. government’s equity holdings have surged during Trump’s second term — in one chart"
     },
     {
+     "title": "11月12日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202611123929818842.html",
+     "pubDate": "Thu, 12 Nov 2026 21:00:00 +0800",
+     "summary": "热点聚焦 社保基金长期可持续发展 ： 11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。李强在会上强调，要增强社保基金长期可持续性，完善并落实职工养老保险全国统筹制度，推进基本医疗保险省级统筹， 强化社保基金安全监管和保值增值 。要适应形势变化，及时修订完善社会保障相关法律法规，进一步夯实法治支撑。 中美经贸 ： 商务部新闻发言人何亚东在12日举行的商务部例行新闻发布会上说，“300亿对300亿”对等降税框架安排有利于稳定和拓展中美双边贸易，中美两国工商界对此都抱有较高期待。 目前，中美双方就实施这一安排保持密切沟通 。希望美方与中方",
+     "source": "东方财富资讯",
+     "zh": "11月12日东方财富财经晚报（附新闻联播）"
+    },
+    {
+     "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+     "link": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+     "pubDate": "Thu, 12 Nov 2026 12:56:27 GMT",
+     "summary": "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
+     "source": "CNBC",
+     "zh": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith"
+    },
+    {
      "title": "伊朗强硬派高官：美军若再袭击，其欧洲基地也将成为打击目标",
      "link": "https://wallstreetcn.com/articles/3785824",
      "pubDate": "Thu, 12 Nov 2026 20:56:02 +0800",
@@ -2391,110 +2495,6 @@
      "summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?",
      "source": "MarketWatch",
      "zh": "The ‘bank of Nvidia’ is in jeopardy, threatening the entire AI boom"
-    },
-    {
-     "title": "Ukraine says Starlink restrictions are back as US envoys land in Moscow",
-     "link": "https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1",
-     "pubDate": "Thu, 12 Nov 2026 12:46:59 GMT",
-     "summary": "Army struggles to intercept Russian jet-powered drones, just as Steve Witkoff and Jared Kushner meet Vladimir Putin",
-     "source": "Financial Times",
-     "zh": "Ukraine says Starlink restrictions are back as US envoys land in Moscow"
-    },
-    {
-     "title": "前热后冷，气价变化影响燃气重卡销量",
-     "link": "http://www.eeo.com.cn/2026/1112/1091410.shtml",
-     "pubDate": "Thu, 12 Nov 2026 20:46:18 +0800",
-     "summary": "在传统认知中，电动重卡高频出现在港口、钢厂、矿山短倒场景，日均里程多在300公里以内，LNG重卡则牢牢占据气源丰富的中长途干线牵引车市场，柴油重卡退守超长干线、极寒工况和海外市场。",
-     "source": "经济观察网",
-     "zh": "前热后冷，气价变化影响燃气重卡销量"
-    },
-    {
-     "title": "百度想重构大模型调度的入口",
-     "link": "https://wallstreetcn.com/articles/3785825",
-     "pubDate": "Thu, 12 Nov 2026 20:46:12 +0800",
-     "summary": "11月12日的百度世界大会上，李彦宏谈起了大模型市场里的一门常见的生意——中转站的商业痛点。 “这些中转站它们把各种模型提供方聚合起来，提供给开发者来调用，但它们并不对模型的效果、服务的稳定性、响应速度等负责，甚至有时候这个模型的真实性都无从考证，它如果说用一个flash来代替，或者它生成一个Pro版本基本上也不会在中转站遇到什么阻力。” 模型厂商和第三方推理服务商越来越多，同一款模型往往有多个供应渠道，价格和服务表现各不相同，增加了开发者的选型成本。一批中转平台由此出现，通过聚合模型资源、提供统一接口，向开发者出售调用服务。 针对这一痛点，百度推出了自己的大模型交易平台词元所。词元所产品经理",
-     "source": "华尔街见闻",
-     "zh": "百度想重构大模型调度的入口"
-    },
-    {
-     "title": "Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man",
-     "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 12:29:00 GMT",
-     "summary": "Huang’s exit could fray tight bonds among AI businesses. Plus, Oracle’s potential AI catalyst, a $1.5 trillion Social Security stock proposal and what the oil-yield split may mean for inflation.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man"
-    },
-    {
-     "title": "霍华德·马克斯：一个外行对AI的思考，谁能从AI投资中赚到钱？",
-     "link": "https://wallstreetcn.com/articles/3785818",
-     "pubDate": "Thu, 12 Nov 2026 19:52:58 +0800",
-     "summary": "橡树资本联合创始人霍华德·马克斯（Howard Marks）在最新备忘录中，以一个\"外行\"的视角系统梳理了围绕人工智能投资的核心问题。他的结论并不乐观： AI投资涉及的关键变量数量异常庞大，预测难度远超以往任何一次技术革命，而真正能从中获利的究竟是谁，目前在很大程度上仍是一个信仰问题。 马克斯在备忘录中援引Anthropic旗下AI模型Claude的评估指出， AI整体的可预测性评分仅为3分（满分10分）。其中，技术方向的可预测性尚可达到6、7分，但投资者真正关心的问题——盈利速度、利润规模以及利润归属——可预测性仅约2分。这一判断直接指向AI投资的核心困境：方向清晰，但回报高度不确定。 马克",
-     "source": "华尔街见闻",
-     "zh": "霍华德·马克斯：一个外行对AI的思考，谁能从AI投资中赚到钱？"
-    },
-    {
-     "title": "财政部：未来三年，紧盯重大财务造假案件",
-     "link": "http://www.eeo.com.cn/2026/1112/1091401.shtml",
-     "pubDate": "Thu, 12 Nov 2026 19:48:48 +0800",
-     "summary": "财政部将开展财会监督质效提升三年行动（2026—2028年），坚持严的基调，保持打击财务造假高压态势，持续加大监督检查力度。",
-     "source": "经济观察网",
-     "zh": "财政部：未来三年，紧盯重大财务造假案件"
-    },
-    {
-     "title": "李强主持国务院第二十二次专题学习：强化社保基金安全监管和保值增值",
-     "link": "http://finance.eastmoney.com/news/1345,202611123929783682.html",
-     "pubDate": "Thu, 12 Nov 2026 19:43:37 +0800",
-     "summary": "11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于社会保障工作的重要指示精神和党中央决策部署，进一步深化社会保障制度改革，健全覆盖全民、统筹城乡、公平统一、安全规范、可持续的多层次社会保障体系，推动现代化建设成果更多更公平惠及全体人民。 中国人民大学教授郑功成作讲解。国务院副总理何立峰、刘国中，国务委员谌贻琴作交流发言。 李强在听取讲解和交流发言后指出，我国已基本建成世界上规模最大、功能完备的社会保障体系。当前经济社会发展形势呈现许多新特点，人口结构变化、技术进步、就业方式",
-     "source": "东方财富资讯",
-     "zh": "李强主持国务院第二十二次专题学习：强化社保基金安全监管和保值增值"
-    },
-    {
-     "title": "股价跌破1元！600180紧急提示：面临退市风险",
-     "link": "http://finance.eastmoney.com/news/1345,202611123929781122.html",
-     "pubDate": "Thu, 12 Nov 2026 19:40:44 +0800",
-     "summary": "股价跌破1元面值， *ST瑞茂 紧急公告。 继11月2日股价跌破1元后，11月12日 *ST瑞茂 (600180)再度跌破1元面值。 此前于11月2日， *ST瑞茂 股票收盘价为0.97元/股，低于1元，公司于11月3日公告，提示公司股票存在可能因股价低于面值被终止上市的风险。此后公司股价重回1元以上。 11月12日再度跌破1元/股后，当晚*ST瑞茂披露公告，提示公司股票存在可能因股价低于1元而终止上市的风险。 除存在面值退市风险外，*ST瑞茂还面临财务类退市风险。因公司2025年度财务会计报告被出具了无法表示意见的审计报告，2025年12月31日的财务报告内部控制被出具了否定意见的审计报告，",
-     "source": "东方财富资讯",
-     "zh": "股价跌破1元！600180紧急提示：面临退市风险"
-    },
-    {
-     "title": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
-     "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 11:34:00 GMT",
-     "summary": "Jim Thorne, Wellington-Altus Private Wealth’s chief market strategist, says investors should not get tempted too fast into a tech stock bounce.",
-     "source": "MarketWatch",
-     "zh": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait"
-    },
-    {
-     "title": "11月12日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202611123929779813.html",
-     "pubDate": "Thu, 12 Nov 2026 19:32:29 +0800",
-     "summary": "沪深两市多家上市公司11月12日晚间发布公司公告，以下为重要公告汇总。 【品大事】 中际旭创 ：全资子公司拟5000万元参与投资光合叁期基金 中际旭创 (300308)11月12日公告，公司全资子公司旭 创投 资拟以5000万元，认购杭州光合叁期创业投资合伙企业（有限合伙）（简称“光合叁期”）的出资份额，投资完成后，旭 创投 资将持有合伙企业3.28%的出资份额。该基金主要投资于 人工智能 、硬科技、 新材料 和绿色科技、医疗科技、绿色低碳及前沿科技等领域的早期及成长期项目。 福事特 ：拟发行可转债募资不超4.46亿元 用于流体传动智能制造基地等项目 福事特 (301446)11月12日公告，",
-     "source": "东方财富资讯",
-     "zh": "11月12日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "盘点因“桃色风波”下台的全球十大知名高管",
-     "link": "http://finance.eastmoney.com/news/11137,202611123929779939.html",
-     "pubDate": "Thu, 12 Nov 2026 19:31:24 +0800",
-     "summary": "黄仁勋婚外情风波升级 ，这次被曝涉及其直属下属， 英伟达 董事会据报已讨论是否罢免他。高管因私人关系离任确实有先例， 波音 、 惠普 、 英特尔 CEO都曾在类似风波后辞职， 麦当劳 、雀巢曾直接解雇CEO。 据媒体援引知情人士消息， 英伟达 董事会正准备罢免公司创始人兼首席执行官黄仁勋 。据悉， 英伟达 董事会最早可能于当地时间周四（11月12日）举行会议，以决定黄仁勋的去留。 媒体援引五名曾在英伟达工作的人士称，黄仁勋曾与直接向他汇报的医疗健康业务副总裁金伯利·鲍威尔有过婚外关系。 从图中十起案例来看， 多数涉及高管与本公司员工的私人关系 。事实上，全球不少公司对上下级恋情都有限制或申报要",
-     "source": "东方财富资讯",
-     "zh": "盘点因“桃色风波”下台的全球十大知名高管"
-    },
-    {
-     "title": "到2028年，山东科技成果转化到账经费三年累计将超400亿元",
-     "link": "http://www.eeo.com.cn/2026/1112/1091396.shtml",
-     "pubDate": "Thu, 12 Nov 2026 19:30:51 +0800",
-     "summary": "《山东省促进科技成果转化行动方案（2026－2028年）》总体目标是，到2028年，山东省级中试示范基地将达到80家、概念验证中心达到20家、技术转移服务机构达到100家，培养技术经理人12000名，全省高校、科研院所科技成果转化到账经费三年累计超400亿元。",
-     "source": "经济观察网",
-     "zh": "到2028年，山东科技成果转化到账经费三年累计将超400亿元"
-    },
-    {
-     "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-     "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-     "pubDate": "Thu, 12 Nov 2026 11:30:01 GMT",
-     "summary": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
-     "source": "CNBC",
-     "zh": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion"
     }
    ]
   },

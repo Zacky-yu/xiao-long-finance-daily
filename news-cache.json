@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-11-12T01:09:22.380Z",
+  "generatedAt": "2026-11-12T01:29:18.185Z",
   "count": 40,
   "items": [
+    {
+      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+      "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+      "pubDate": "Thu, 12 Nov 2026 01:12:00 GMT",
+      "content": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+      "source": "US",
+      "category": "半导体"
+    },
     {
       "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
       "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
@@ -73,14 +81,6 @@
       "content": "CoreWeave’s upbeat outlook helped calm nerves around the energy company.",
       "source": "US",
       "category": "美股市场"
-    },
-    {
-      "title": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.",
-      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-      "pubDate": "Wed, 11 Nov 2026 20:53:00 GMT",
-      "content": "A new bill would lower the Medicare age to 50, expanding coverage to an additional 60 million adults",
-      "source": "US",
-      "category": "全球综合"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

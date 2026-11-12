@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/12 17:31:52",
+ "generated_at": "2026/11/12 17:52:03",
  "recent_days": 7,
  "industries": [
   {
@@ -657,14 +657,6 @@
      "zh": "BAIC launches Xingtan 5X, expanding boxy NEV SUV lineup"
     },
     {
-     "title": "Tesla’s Cheapest Cybertruck Ever Is An RC Racer That Goes 37 MPH",
-     "link": "https://insideevs.com/news/815226/tesla-cybertruck-rc-racer-specs-price/",
-     "pubDate": "Thu, 12 Nov 2026 08:27:22 +0000",
-     "summary": "The real Cybertruck is more expensive than ever, and it’s going away next year. Now, though, there’s a miniature version, too.",
-     "source": "InsideEVs",
-     "zh": "Tesla’s Cheapest Cybertruck Ever Is An RC Racer That Goes 37 MPH"
-    },
-    {
      "title": "Google’s Gemini AI Assistant Now Works On Apple CarPlay",
      "link": "https://insideevs.com/news/815215/google-gemini-ai-apple-carplay-official/",
      "pubDate": "Thu, 12 Nov 2026 07:42:46 +0000",
@@ -777,6 +769,14 @@
      "zh": "Tesla Is Squeezing More Money Out Of The Cybertruck Before It Dies"
     },
     {
+     "title": "Rivian's New Robots Will Initially Handle 20% Of Factory Tasks. The Goal Is 80%, CEO Says",
+     "link": "https://insideevs.com/news/815147/rivian-robots-80-percent-factory-tasks-ceo/",
+     "pubDate": "Wed, 11 Nov 2026 12:49:26 +0000",
+     "summary": "The automaker’s Mind Robotics spinoff is working on replacing boring, repetitive jobs with some sort of industrial robots.",
+     "source": "InsideEVs",
+     "zh": "Rivian's New Robots Will Initially Handle 20% Of Factory Tasks. The Goal Is 80%, CEO Says"
+    },
+    {
      "title": "Chery recalls 23,667 vehicles in South Africa as watchdog probes recall reporting",
      "link": "https://cnevpost.com/2026/11/11/chery-recalls-south-africa/",
      "pubDate": "Wed, 11 Nov 2026 12:29:07 +0000",
@@ -848,6 +848,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Sungrow launches C&I storage solution with modular scenario dock and full SiC PCS",
+     "link": "https://www.pv-magazine.com/2026/11/12/sungrow-launches-ci-storage-solution-with-modular-scenario-dock-and-full-sic-pcs/",
+     "pubDate": "Thu, 12 Nov 2026 09:38:47 +0000",
+     "summary": "Sungrow has unveiled its third-generation commercial and industrial storage system, built around a modular expansion-dock architecture for multiple use cases. The post Sungrow launches C&I storage solution with modular scenario dock and full SiC PCS appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Sungrow launches C&I storage solution with modular scenario dock and full SiC PCS"
+    },
     {
      "title": "Researchers show LBIC phase mapping accurately detects solar module interconnection defect",
      "link": "https://www.pv-magazine.com/2026/11/12/researchers-demonstrate-that-lbic-phase-mapping-can-accurately-detect-interconnection-defects-in-solar-modules/",
@@ -951,14 +959,6 @@
      "summary": "The Association of Southeast Asian Nations has agreed to set up a joint crude oil stockpiling scheme in response to the supply disruption from the war in Iran, which severely affected countries in the region. The scheme will comprise storage sites in Indonesia and Thailand, Reuters reported today, f",
      "source": "OilPrice",
      "zh": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis"
-    },
-    {
-     "title": "Australia cancels solar panel recycling pilot, considers ‘next steps’",
-     "link": "https://www.pv-magazine.com/2026/11/12/federal-government-cancels-panel-recycling-pilot-considers-next-steps/",
-     "pubDate": "Thu, 12 Nov 2026 06:57:22 +0000",
-     "summary": "The Australian government is considering 'next steps' for procuring a National Solar Panel Recycling Pilot administrator after cancelling the search on the same day an ongoing six month suspension of the procurement was also lifted. The post Australia cancels solar panel recycling pilot, considers ‘",
-     "source": "pv magazine",
-     "zh": "Australia cancels solar panel recycling pilot, considers ‘next steps’"
     },
     {
      "title": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
@@ -1097,6 +1097,30 @@
    "total": 7,
    "items": [
     {
+     "title": "Opinion: 3 things new governors must do to lead on health",
+     "link": "https://www.statnews.com/2026/11/12/new-governors-2027-health-priorities-agenda/?utm_campaign=rss",
+     "pubDate": "Thu, 12 Nov 2026 09:30:00 +0000",
+     "summary": "“On day one, governors should know kindergarten vaccination rates by county,” write Mandy Cohen and Ellen Montz.",
+     "source": "STAT News",
+     "zh": "Opinion: 3 things new governors must do to lead on health"
+    },
+    {
+     "title": "Opinion: I research MAHA and Black Americans. The relationship is complicated — and fascinating",
+     "link": "https://www.statnews.com/2026/11/12/maha-black-american-activists-voters-health-care-midterms/?utm_campaign=rss",
+     "pubDate": "Thu, 12 Nov 2026 09:30:00 +0000",
+     "summary": "“Even as Kennedy and MAHA have cribbed from the Black activist playbook, they’ve actively undermined” Black Americans, writes Jerel Ezell.",
+     "source": "STAT News",
+     "zh": "Opinion: I research MAHA and Black Americans. The relationship is complicated — and fascinating"
+    },
+    {
+     "title": "Newly elected doctors and scientists hope to restore trust in science. It won’t be easy",
+     "link": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
+     "pubDate": "Thu, 12 Nov 2026 09:30:00 +0000",
+     "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?",
+     "source": "STAT News",
+     "zh": "Newly elected doctors and scientists hope to restore trust in science. It won’t be easy"
+    },
+    {
      "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
      "link": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/?utm_campaign=rss",
      "pubDate": "Wed, 11 Nov 2026 21:37:27 +0000",
@@ -1145,36 +1169,12 @@
      "zh": "Drug price hikes in Germany could push US costs higher, study says"
     },
     {
-     "title": "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds",
-     "link": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
-     "pubDate": "Wed, 11 Nov 2026 16:00:00 +0000",
-     "summary": "A newly proposed way of identifying obesity could flip the diagnoses of millions of people. Proponents argue it could lead to more precise care.",
-     "source": "STAT News",
-     "zh": "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds"
-    },
-    {
      "title": "Flagship merges two startups; J&J scores a bipolar mania success",
      "link": "https://endpoints.news/flagship-merges-two-startups-jj-scores-a-bipolar-mania-success/",
      "pubDate": "Wed, 11 Nov 2026 15:44:23 +0000",
      "summary": "Plus, news about AstraZeneca, BrightGene, PepGen and Prime Medicine. Another Flagship merger: Valo Health and Montai Therapeutics, two Flagship Pioneering startups, are combining into one company. The merged company will operate ...",
      "source": "Endpoints News",
      "zh": "Flagship merges two startups; J&J scores a bipolar mania success"
-    },
-    {
-     "title": "STAT+: Why this former ER doc thinks giving AI less information is sometimes better",
-     "link": "https://www.statnews.com/2026/11/11/mdcalc-cofounder-graham-walker-on-crosscover-ai-prognosis/?utm_campaign=rss",
-     "pubDate": "Wed, 11 Nov 2026 15:20:23 +0000",
-     "summary": "In this edition of AI Prognosis: A conversation with Graham Walker, co-founder of MDCalc, about the company's new AI tool.",
-     "source": "STAT News",
-     "zh": "STAT+: Why this former ER doc thinks giving AI less information is sometimes better"
-    },
-    {
-     "title": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
-     "link": "https://www.statnews.com/2026/11/11/fda-commissioner-nominee-heidi-overton-senate-committee-vote/?utm_campaign=rss",
-     "pubDate": "Wed, 11 Nov 2026 15:07:28 +0000",
-     "summary": "Cassidy said he and other GOP lawmakers are undecided on Heidi Overton to lead the FDA.",
-     "source": "STAT News",
-     "zh": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA"
     },
     {
      "title": "Beeline reveals Phase 2 lupus data from old Bristol Myers drug",
@@ -1545,6 +1545,30 @@
    "total": 5,
    "items": [
     {
+     "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+     "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
+     "pubDate": "Thu, 12 Nov 2026 09:39:55 +0000",
+     "summary": "The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Hackers Target N-central Zero-Days as N-able Rushes Patches"
+    },
+    {
+     "title": "Hackers plant GSocket on Linux servers for persistent access",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+     "pubDate": "Thu, 12 Nov 2026 04:38:00 -0500",
+     "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+     "source": "BleepingComputer",
+     "zh": "Hackers plant GSocket on Linux servers for persistent access"
+    },
+    {
+     "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+     "link": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+     "pubDate": "Thu, 12 Nov 2026 09:23:21 +0000",
+     "summary": "Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access. The post Critical Red Hat Quay Vulnerability Could Expose Private Container Images appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images"
+    },
+    {
      "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
      "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
      "pubDate": "Thu, 12 Nov 2026 08:38:47 +0000",
@@ -1705,36 +1729,12 @@
      "zh": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets"
     },
     {
-     "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-     "pubDate": "Wed, 11 Nov 2026 10:12:59 -0500",
-     "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
-     "source": "BleepingComputer",
-     "zh": "Hackers use AntiFox AI agents in AWS credential-theft attacks"
-    },
-    {
      "title": "Asus, Zoom Release Security Patches",
      "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
      "pubDate": "Wed, 11 Nov 2026 13:58:38 +0000",
      "summary": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "Asus, Zoom Release Security Patches"
-    },
-    {
-     "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
-     "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
-     "pubDate": "Wed, 11 Nov 2026 13:37:19 +0000",
-     "summary": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities"
-    },
-    {
-     "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
-     "link": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
-     "pubDate": "Wed, 11 Nov 2026 12:24:33 +0000",
-     "summary": "The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices"
     },
     {
      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
@@ -1761,12 +1761,44 @@
    "total": 18,
    "items": [
     {
+     "title": "巴西独立站接Pix后，本地素材转化差3倍是哪里出了问题？",
+     "link": "https://www.baijing.cn/question/638692",
+     "pubDate": "Thu, 12 Nov 2026 09:36:03 +0000",
+     "summary": "我们做葡语饰品独立站，刚上线巴西站，5人小团队月投2万雷亚尔。接了Pix后支付成功率从信用卡的41%提到68%，但同一批素材投下来，巴西本地模特实拍图的加购率只有1.9%，而国内模特图反而有5.4%，墨西哥站同样素材又是另一个结果。已经试过换文案、调落地页首屏、把Pix折扣标在主图，都没拉起来。卡在不知道是素材里的场景、肤色还是价格呈现方式跟当地预期不符。想问问判断素材本地接受度该看哪些先行指标，而不是等转化数据出来再改？",
+     "source": "白鲸出海",
+     "zh": "巴西独立站接Pix后，本地素材转化差3倍是哪里出了问题？"
+    },
+    {
+     "title": "贾国龙的千亿上市梦，不是罗永浩打碎的",
+     "link": "https://www.huxiu.com/article/4905053.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 17:28:17 +0800",
+     "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 内蒙古西贝餐饮集团有限公司（以下简称“西贝”）创始人、董事长贾国龙，又把自己直接持有的西贝股权全部质押给了银行。 2020年12月21日，他将直接持有的2660.4027万元出资额对应股权质押给中国民生银行股份有限公司北京分行（以下简称“民生银行北京分行”）。六年后的2026年11月2日，同一认缴出资额对应的直接股权再次被全部质押，质权人换成了上海浦东发展银行股份有限公司北京分行（以下简称“浦发银行北京分行”）。 在此之前的9月2日，西贝董事张丽平已将直接持有的540.0005万元出资额对应股权全部质押给中国工商银行股份有限公司呼和浩特如意开发区支",
+     "source": "虎嗅",
+     "zh": "贾国龙的千亿上市梦，不是罗永浩打碎的"
+    },
+    {
      "title": "奔驰 CEO 称在中国车要大得惊人，深蓝汽车董事长邓承浩表示“很有共鸣”",
      "link": "https://www.ithome.com/1/026/283.htm",
      "pubDate": "Thu, 12 Nov 2026 09:25:46 GMT",
      "summary": "IT之家 11 月 12 日消息，当地时间 11 日，梅赛德斯-奔驰集团 CEO 康林松出席第 20 届《汽车周刊》大会开幕活动，IT之家此前已进行详细报道。 值得一提的是，康林松提出了有关在华战略的观点：产品规划必须完全围绕中国消费者的喜好展开，“ 在中国，车要大，非常大，大得惊人 ”。 在今天（12 日），深蓝汽车董事长邓承浩对康林松的这番言论表达了认同：“ 同为造车人，很有共鸣 。不管是外资巨头还是中国品牌，大家都在研究同一个课题：中国用户到底需要什么样的车？ 其实大只是第一步，不是终点线 。中国用户对大车的偏爱，根源是中国真实的家庭结构， 带长辈、带娃，一家人整整齐齐出行，空间大就是刚",
      "source": "IT之家",
      "zh": "奔驰 CEO 称在中国车要大得惊人，深蓝汽车董事长邓承浩表示“很有共鸣”"
+    },
+    {
+     "title": "粤宏远A的转型赌注：5.5亿买一条“有利润、没现金”的曲线｜并购一线",
+     "link": "https://www.tmtpost.com/8202821.html",
+     "pubDate": "Thu, 12 Nov 2026 17:23:25 +0800",
+     "summary": "并购转型面临回款考验。",
+     "source": "钛媒体",
+     "zh": "粤宏远A的转型赌注：5.5亿买一条“有利润、没现金”的曲线｜并购一线"
+    },
+    {
+     "title": "国药账上趴着2283个“小目标”",
+     "link": "https://www.huxiu.com/article/4905049.html?f=rss",
+     "pubDate": "Thu, 12 Nov 2026 17:21:17 +0800",
+     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 国药控股账上，趴着2283个“小目标”。 可惜不是现金，而是等着收回来的货款。 10月26日，国药控股披露2026年前三季度未经审计财务报表。截至9月末，公司应收账款2282.84亿元，比去年底增加393.72亿元，增幅20.84%。 同期，国药控股营业收入4276.13亿元，经营活动现金净流出239.35亿元。虽然现金净流出比去年同期明显收窄，但应收账款仍在增加。 做医药流通，货卖出去不难，收钱却未必容易。 国药控股的客户包括公立医院、药店及其他医药商业企业。2283亿元当然不能全部算成医院欠款，更不能都视为逾期。 不过，公立医院作为医药流",
+     "source": "虎嗅",
+     "zh": "国药账上趴着2283个“小目标”"
     },
     {
      "title": "大唐推出基于海光 1400 系列处理器的 FX1400 迷你主机",
@@ -1841,20 +1873,12 @@
      "zh": "Linux 版 Steam 客户端正式升级为 64 位，用上游戏同款独立运行环境"
     },
     {
-     "title": "国贸之后再关三里屯，耐克为什么接连放弃大店？",
-     "link": "https://www.huxiu.com/article/4905041.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 17:09:11 +0800",
-     "summary": "本文来自微信公众号： 体坛经济观察 ，作者：迭戈，原文标题：《国贸之后再关三里屯，耐克为什么接连放弃大店？｜大公司》 新贵插旗占位，旧王黯然离场。 继今年4月北京国贸商城北区的耐克RISE大型体验店正式撤出后，近日，耐克位于三里屯太古里西区的2800平方米概念店也被曝闭店。 现场流出的照片显示，这家2022年开业的超大耐克门店已经开始围挡，外立面的品牌标识也被拆除。 截图来源于小红书 而与此前On昂跑、Salomon萨洛蒙接棒国贸耐克旧址的情况类似，此次三里屯门店的新围挡及新店情报中，也出现了迪桑特、KOLON SPORT可隆的开店计划。 曾经由耐克占据的北京核心商圈黄金铺位，正在迎来更多高端",
-     "source": "虎嗅",
-     "zh": "国贸之后再关三里屯，耐克为什么接连放弃大店？"
-    },
-    {
-     "title": "千万级投入、180万票房，首部AI院线电影何以遇冷？",
-     "link": "https://www.huxiu.com/article/4905038.html?f=rss",
-     "pubDate": "Thu, 12 Nov 2026 16:55:57 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：伍洋宇 11月12日，登陆院线第21天，《三星堆：未来往事》在北京全城还有17家影院安排的29场放映。中午时分，它还没有卖出去一张票。 据猫眼数据，自上映以来，这部影片累计票房180.2万元，最新单日票房（11月11日）为0.39万。 首映前三日，也即10月23日至25日，是它票房最高的时候，单日票房分别达到30.07万、46.44万和37.96万。场均人次也是最高的时候，均突破了1人。这种情形随后经历了断崖式下跌。 如果不是因为AI，它会跟许多票房不佳的国产电影一样悄无声息消失在大众视野里。但作为国内首部运用AI技术制作并取得国家电影局公映许可证的院线",
-     "source": "虎嗅",
-     "zh": "千万级投入、180万票房，首部AI院线电影何以遇冷？"
+     "title": "M87 星系黑洞存在甜甜圈结构",
+     "link": "https://www.solidot.org/story?sid=85868",
+     "pubDate": "Thu, 12 Nov 2026 16:43:31 +0800",
+     "summary": "作为人类首张黑洞照片，距地球约 5500 万光年、质量超太阳 60 亿倍的 M87 星系中心超大质量黑洞(M87*黑洞)被形象称为“甜甜圈”的图像，自 7 年多前发布以来广受关注，学界对其独特环状结构是否存在也有争议。一项研究独立验证了M87*黑洞经典重建图像中的独特环状结构，确认“甜甜圈”图像无误，最新的重建结果利用一款新开发的独立成像算法，其生成的新图像与原始图像高度重合。研究人员将 M87* 黑洞数据集输入一个成像算法，以验证之前的图像重建结果。该算法将望远镜按闭合三站而不是两两配对进行划分，再综合个体望远镜的测量结果，这么做能计算校准误差，最后得到了一组符合这些标准的重建图像。",
+     "source": "Solidot",
+     "zh": "M87 星系黑洞存在甜甜圈结构"
     },
     {
      "title": "从华尔街到5900亿魏桥集团，黄然非的隐秘资本版图",
@@ -1889,20 +1913,20 @@
      "zh": "超市入口的新三样：烘焙、鲜花和果切"
     },
     {
+     "title": "《Python 之禅》作者 Tim Peters 去世",
+     "link": "https://www.solidot.org/story?sid=85867",
+     "pubDate": "Thu, 12 Nov 2026 16:30:55 +0800",
+     "summary": "Python 语言作者 Guido van Rossum 发表文章悼念了 2026 年 7 月 15 日去世的 Tim Peters（享年 74 岁）。他写道：Tim Peters 最为人熟知的贡献是撰写了《Python 之禅》，“但对我而言他是我的良师益友，也是这门语言的共同设计者之一。”Tim Peters 很早就接触了 Python 语言，说服 Guido 让 Pytho 支持整数（int）与浮点数（float）之间的混合运算，他在邮件列表上非常活跃，总是细致耐心回答用户的各种问题，以至于获得了 Timbot 这一绰号。他在 2002 年带来 一种全新的排序算法 Timsort，它后来被",
+     "source": "Solidot",
+     "zh": "《Python 之禅》作者 Tim Peters 去世"
+    },
+    {
      "title": "腾讯走进百度后院，悄悄地",
      "link": "https://www.tmtpost.com/8202626.html",
      "pubDate": "Thu, 12 Nov 2026 16:19:22 +0800",
      "summary": "入口每变一次，平台与用户之间的关系就重写一次。",
      "source": "钛媒体",
      "zh": "腾讯走进百度后院，悄悄地"
-    },
-    {
-     "title": "中国买矿不再任人定价，必和必拓低头，福德士河陷入僵局",
-     "link": "https://www.tmtpost.com/8202435.html",
-     "pubDate": "Thu, 12 Nov 2026 16:19:17 +0800",
-     "summary": "矿商各有算盘，定价规则松动，新供应让买方多了一张牌。",
-     "source": "钛媒体",
-     "zh": "中国买矿不再任人定价，必和必拓低头，福德士河陷入僵局"
     },
     {
      "title": "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
@@ -1945,14 +1969,6 @@
      "zh": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection (Emily Mullin/Wired)"
     },
     {
-     "title": "Humble Bundle just killed most of their security through vibecoding",
-     "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-     "pubDate": "Thu, 12 Nov 2026 06:52:48 +0000",
-     "summary": "Article URL: https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/ Comments URL: https://news.ycombinator.com/item?id=50463899 Points: 260 # Comments: 131",
-     "source": "Hacker News",
-     "zh": "Humble Bundle just killed most of their security through vibecoding"
-    },
-    {
      "title": "腾讯计划将半数员工部署到 AI 原生业务",
      "link": "https://www.solidot.org/story?sid=85865",
      "pubDate": "Thu, 12 Nov 2026 14:49:27 +0800",
@@ -1983,22 +1999,6 @@
      "summary": "Reuters : Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal &nbsp; &mdash;&nbsp; Chinese artificial intelligence companies are trying to rent Nvidia-powered computing capacity at data centres ou",
      "source": "Techmeme",
      "zh": "Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal (Reuters)"
-    },
-    {
-     "title": "TurboTax Full Service Coupons This November 2026",
-     "link": "https://www.wired.com/story/turbotax-coupon/",
-     "pubDate": "Thu, 12 Nov 2026 06:00:00 +0000",
-     "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-     "source": "WIRED",
-     "zh": "TurboTax Full Service Coupons This November 2026"
-    },
-    {
-     "title": "Lovehoney Coupon Offers: 70% Off",
-     "link": "https://www.wired.com/story/lovehoney-discount-code/",
-     "pubDate": "Thu, 12 Nov 2026 06:00:00 +0000",
-     "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
-     "source": "WIRED",
-     "zh": "Lovehoney Coupon Offers: 70% Off"
     }
    ]
   },
@@ -2015,6 +2015,14 @@
      "summary": "Your group chat's biggest problem might finally have a solution.",
      "source": "Android Authority",
      "zh": "Google’s new Tabletop experiment wants to fix the worst part of making plans with friends"
+    },
+    {
+     "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+     "link": "https://sspai.com/post/118366",
+     "pubDate": "Thu, 12 Nov 2026 16:37:25 +0800",
+     "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ... 查看全文",
+     "source": "少数派",
+     "zh": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好"
     },
     {
      "title": "Samsung’s Phone app in One UI 9.5 could bring a more convenient bottom search bar",
@@ -2239,14 +2247,6 @@
      "summary": "The Chinese company wants to compete with Meta's Muse.",
      "source": "Engadget",
      "zh": "ByteDance is reportedly working on its own AI agent"
-    },
-    {
-     "title": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers",
-     "link": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
-     "pubDate": "Wed, 11 Nov 2026 19:30:00 +0000",
-     "summary": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more. more…",
-     "source": "9to5Google",
-     "zh": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers"
     }
    ]
   },
@@ -2257,60 +2257,68 @@
    "total": 13,
    "items": [
     {
-     "title": "Nvidia stock falls 7% as investors await Jensen Huang’s fate",
+     "title": "Nvidia stock falls 6% as investors await Jensen Huang’s fate",
      "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-     "pubDate": "Thu, 12 Nov 2026 09:27:03 GMT",
+     "pubDate": "Thu, 12 Nov 2026 09:49:21 GMT",
      "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
      "source": "CNBC",
-     "zh": "Nvidia stock falls 7% as investors await Jensen Huang’s fate"
+     "zh": "Nvidia stock falls 6% as investors await Jensen Huang’s fate"
     },
     {
-     "title": "American Homes 4 Rent 6.25% CUM PFD H declares $0.3906 dividend",
-     "link": "https://seekingalpha.com/news/4671227-american-homes-4-rent-625-cum-pfd-h-declares-03906-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 04:24:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "American Homes 4 Rent 6.25% CUM PFD H declares $0.3906 dividend"
+     "title": "“拯救黄仁勋”！马斯克等商界大佬集体声援：调查结束前不应解雇",
+     "link": "https://wallstreetcn.com/articles/3785804",
+     "pubDate": "Thu, 12 Nov 2026 17:46:06 +0800",
+     "summary": "马斯克与多位商界领袖公开呼吁英伟达董事会不要在调查结束前解雇黄仁勋，并要求把去留决定交给股东。一桩个人私德风波，正在演变为牵动公司治理、股东权利与AI交易走向的市场事件。 当地时间11月11日晚间，《纽约时报》曝出黄仁勋的第二段婚外情——与下属金伯利·鲍威尔的恋爱关系。随后《华尔街日报》报道，英伟达董事会已成立由独立董事主导、外部律师参与的调查委员会，并正在准备解除黄仁勋的职务。部分董事倾向由首席财务官Colette Kress出任过渡期CEO，同时公司已委托外部猎头机构启动新CEO搜寻工作。 面对潜在的领导层更迭，多位科技巨头与风投机构高管通过社交媒体平台呼吁英伟达董事会保持克制。 Atre",
+     "source": "华尔街见闻",
+     "zh": "“拯救黄仁勋”！马斯克等商界大佬集体声援：调查结束前不应解雇"
     },
     {
-     "title": "From AI king to exit odds: traders bet on Huang’s Nvidia future",
-     "link": "https://seekingalpha.com/news/4671224-from-ai-king-to-exit-odds-traders-bet-on-huangs-nvidia-future?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 04:23:38 -0500",
+     "title": "Grupo Clarín S.A. reports results for the first nine month of 2026",
+     "link": "https://seekingalpha.com/news/4671235-grupo-clarn-sa-reports-results-for-the-first-nine-month-of-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:38:25 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "From AI king to exit odds: traders bet on Huang’s Nvidia future"
+     "zh": "Grupo Clarín S.A. reports results for the first nine month of 2026"
     },
     {
-     "title": "American Homes 4 Rent 5.875% CUM PFD G declares $0.3672 dividend",
-     "link": "https://seekingalpha.com/news/4671226-american-homes-4-rent-5875-cum-pfd-g-declares-03672-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 04:23:34 -0500",
+     "title": "Who’s next in line to lead Nvidia? Prediction markets pick their favorites",
+     "link": "https://seekingalpha.com/news/4671228-whos-next-in-line-to-lead-nvidia-prediction-markets-pick-their-favorites?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:35:56 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "American Homes 4 Rent 5.875% CUM PFD G declares $0.3672 dividend"
+     "zh": "Who’s next in line to lead Nvidia? Prediction markets pick their favorites"
     },
     {
-     "title": "Russian diesel exports double, but none reach U.S. amid buyer reluctance",
-     "link": "https://seekingalpha.com/news/4671140-russian-diesel-exports-double-but-none-reach-us?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 04:20:09 -0500",
+     "title": "Yum China reaches 20,000-store milestone, targets 30,000 by 2030",
+     "link": "https://seekingalpha.com/news/4671231-yum-china-reaches-20000-store-milestone-targets-30000-by-2030?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:35:05 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Russian diesel exports double, but none reach U.S. amid buyer reluctance"
+     "zh": "Yum China reaches 20,000-store milestone, targets 30,000 by 2030"
     },
     {
-     "title": "European markets advance, Germany's DAX sets fresh record",
-     "link": "https://seekingalpha.com/news/4671151-european-markets-advance-germanys-dax-sets-fresh-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 04:14:12 -0500",
+     "title": "Sagicor Financial GAAP EPS of $0.28 in-line",
+     "link": "https://seekingalpha.com/news/4671233-sagicor-financial-gaap-eps-of-028-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:34:56 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "European markets advance, Germany's DAX sets fresh record"
+     "zh": "Sagicor Financial GAAP EPS of $0.28 in-line"
     },
     {
-     "title": "Stock futures lower as Nvidia leadership uncertainty weighs on market sentiment",
-     "link": "https://seekingalpha.com/news/4671223-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 04:11:26 -0500",
+     "title": "Ingram Micro to join S&P SmallCap 600, replacing Pacira BioSciences",
+     "link": "https://seekingalpha.com/news/4671229-ingram-micro-to-join-s-and-p-smallcap-600-replacing-pacira-biosciences?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:34:05 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Stock futures lower as Nvidia leadership uncertainty weighs on market sentiment"
+     "zh": "Ingram Micro to join S&P SmallCap 600, replacing Pacira BioSciences"
+    },
+    {
+     "title": "Anaergia reports Q3 results",
+     "link": "https://seekingalpha.com/news/4671232-anaergia-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 04:32:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anaergia reports Q3 results"
     },
     {
      "title": "Nvidia shares slide as board considers Huang’s future",
@@ -2329,60 +2337,20 @@
      "zh": "黄仁勋丑闻冲击，英伟达美股盘前大跌7%，存储、光通信普跌，黄金再跌破4000关口，油价连续两日反弹"
     },
     {
-     "title": "马斯克带头、商界大佬集体发声，反对英伟达董事会仓促解雇黄仁勋",
-     "link": "https://wallstreetcn.com/articles/3785804",
-     "pubDate": "Thu, 12 Nov 2026 16:47:02 +0800",
-     "summary": "马斯克与多位商界领袖公开呼吁英伟达董事会不要在调查结束前解雇黄仁勋，并要求把去留决定交给股东。一桩个人私德风波，正在演变为牵动公司治理、股东权利与AI交易走向的市场事件。 当地时间11月11日晚间，《纽约时报》曝出黄仁勋的第二段婚外情——与下属金伯利·鲍威尔的恋爱关系。随后《华尔街日报》报道，英伟达董事会已成立由独立董事主导、外部律师参与的调查委员会，并正在准备解除黄仁勋的职务。部分董事倾向由首席财务官Colette Kress出任过渡期CEO，同时公司已委托外部猎头机构启动新CEO搜寻工作。 面对潜在的领导层更迭，多位科技巨头与风投机构高管通过社交媒体平台呼吁英伟达董事会保持克制。Atrei",
-     "source": "华尔街见闻",
-     "zh": "马斯克带头、商界大佬集体发声，反对英伟达董事会仓促解雇黄仁勋"
+     "title": "车市“金九银十”国内褪色，但出口猛增",
+     "link": "http://www.eeo.com.cn/2026/1112/1091175.shtml",
+     "pubDate": "Thu, 12 Nov 2026 16:53:08 +0800",
+     "summary": "继“金九”落空后，车市也未能迎来“银十”。",
+     "source": "经济观察网",
+     "zh": "车市“金九银十”国内褪色，但出口猛增"
     },
     {
-     "title": "雪峰科技：截至11月10日最新股东户数3.28万户，较上期减少0.59%",
-     "link": "http://stock.eastmoney.com/news/11111,202611123929653311.html",
-     "pubDate": "Thu, 12 Nov 2026 16:40:42 +0800",
-     "summary": "雪峰科技 最新披露数据显示，截至11月10日公司股东户数为3.28万户，较上期(2026年10月30日) 减少194户，降幅为0.59% 。户均持有流通股数量 由上期的3.25万股上升至3.27万股， 户均持股金额 由上期的21.91万元增加至22.66万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "雪峰科技：截至11月10日最新股东户数3.28万户，较上期减少0.59%"
-    },
-    {
-     "title": "张雪机车第10万台下线，“小目标”兑现",
-     "link": "http://finance.eastmoney.com/news/1354,202611123929655327.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:58 +0800",
-     "summary": "11月11日，张雪机车第10万台整车在重庆生产基地正式下线，提前实现今年9月摩博会上提出的“年末10万台产量”目标。张雪在社交平台晒出10月成绩单时说：“一个小目标今年已经挣到了。” 支撑这句话的是一组销量数据。10月，张雪机车单月售出近5000台，总量居行业第二；主力车型500RR单月售出2697台，在仿赛类目中销量为第二名的三倍多。9月，张雪机车以9979台登顶国内250cc以上国产品牌中大排量零售榜，超过春风（9153台）和无极（7610台）。 产能爬坡的节奏与之同步。自2025年3月首台量产车下线以来，月产量从首月的1723台起步，2025年11月达到3000台，2026年4月提升至5",
-     "source": "东方财富股票",
-     "zh": "张雪机车第10万台下线，“小目标”兑现"
-    },
-    {
-     "title": "张一鸣：字节有能力与OpenAI和Anthropic展开竞争",
-     "link": "http://stock.eastmoney.com/news/1416,202611123929656142.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:55 +0800",
-     "summary": "11月12日，据澎湃新闻，近期字节跳动创始人张一鸣再次在内部分享中谈到AI业务。 据了解，张一鸣在近期一次面向AI团队的全员会议上表示，字节有能力与OpenAI和Anthropic展开竞争，但真正追平前沿技术，“最早也要到2029年或2030年”。字节跳动的大模型要对标国际第一梯队。 张一鸣称，与海外顶尖AI公司相比，字节Seed系列模型的预训练数据集规模仍然少了，这是字节AI当下最需要关注的问题。 记者注意到，在摆脱日常公司事务之后，近年来张一鸣将工作中心逐渐转向AI战略规划，尤其是长期关注人才招聘与培养工作上。 在去年一次活动上，张一鸣称，他注意到很多人才潜力没有被充分挖掘。他以机器学习模",
-     "source": "东方财富股票",
-     "zh": "张一鸣：字节有能力与OpenAI和Anthropic展开竞争"
-    },
-    {
-     "title": "【调研快报】京东方A接待国联民生证券调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611123929652369.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:41 +0800",
-     "summary": "京东方A 11月3日公告称， 11月3日 接待 国联民生 证券 调研。 接待人员包括董事会秘书室工作人员 张妍。 公司就以下问题进行了回复： 讨论的主要内容为回答投资者提问,问答情况如下: 1、近期显示行业情况? 答:2026年第三季度以来,存储短缺和涨价影响持续冲击 消费电子 行业,相应成本压力传导到消费端,引发部分产品因售价上涨导致销量同比、环比大幅回落,中小尺寸显示产品出货明显承压。 LCD方面,根据咨询机构数据分析,第三季度全球笔记本... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立",
-     "source": "东方财富股票",
-     "zh": "【调研快报】京东方A接待国联民生证券调研"
-    },
-    {
-     "title": "飞猪2026双11履约GMV同比增60% “囤旅游”走向实效兑现",
-     "link": "http://finance.eastmoney.com/news/1373,202611123929654886.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:29 +0800",
-     "summary": "新华财经北京11月12日电（记者李振北）11月12日，飞猪发布2026年双11大促数据。平台活动商品履约GMV同比增长60%，交易用户数同比提升41%。旅游双11以“先囤后约”套餐商品为核心，履约GMV走高、核销预约增多，意味着今年飞猪双11期间，“囤旅游”走向实效兑现。 数据显示，头部品牌持续领跑，亿元成交阵营进一步扩容。万豪、希尔顿、洲际、凯悦、 华住 、开元旅业、ClubMed、万达、雅高等国内外 酒店 集团，上海 迪士尼 、北京环球度假区、上海乐高乐园、长隆、松赞旅行、沙坡头旅游度假区、上海薄荷国旅等品牌，活动商品成交额均破亿元。 与此同时，特色商家加速崛起，今年成交额翻倍的商家较去年",
-     "source": "东方财富股票",
-     "zh": "飞猪2026双11履约GMV同比增60% “囤旅游”走向实效兑现"
-    },
-    {
-     "title": "恒生科技指数跌超2%，互联网巨头集体走低，光通信股回调，长飞光纤光缆跌超6%；医药股逆势走高｜港股收盘",
-     "link": "http://hk.eastmoney.com/news/11223,202611123929656348.html",
-     "pubDate": "Thu, 12 Nov 2026 16:39:28 +0800",
-     "summary": "恒生指数收跌1.26%，恒生科技指数收跌2.36%。 互联网巨头集体走低， 阿里巴巴 重挫近7%，腾讯、 百度 跌超2%。 光 通信 股回调， 长飞光纤光缆 跌超6%， 中际旭创 跌近4%， 剑桥科技 跌近6%。 医药股逆势走高， 凯莱英 涨超1%， 昭衍新药 涨近2%， 药明康德 涨超2%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "恒生科技指数跌超2%，互联网巨头集体走低，光通信股回调，长飞光纤光缆跌超6%；医药股逆势走高｜港股收盘"
+     "title": "李彦宏对话杨元庆：AI变革会踩一些坑",
+     "link": "http://www.eeo.com.cn/2026/1112/1091181.shtml",
+     "pubDate": "Thu, 12 Nov 2026 16:49:00 +0800",
+     "summary": "在一项革命性技术发展的初期，不宜过早强调投入产出比。",
+     "source": "经济观察网",
+     "zh": "李彦宏对话杨元庆：AI变革会踩一些坑"
     },
     {
      "title": "私募量化指增策略风光不再 蒙玺、弈倍旗下产品不到半年亏成“6毛基”",
@@ -2495,6 +2463,38 @@
      "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
      "source": "MarketWatch",
      "zh": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang"
+    },
+    {
+     "title": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington",
+     "link": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1",
+     "pubDate": "Thu, 12 Nov 2026 04:19:48 GMT",
+     "summary": "AI kingmaker’s opponents see ‘blood in the water’ after affair with suspected Chinese spy",
+     "source": "Financial Times",
+     "zh": "State dinners to scrutiny: Nvidia’s Huang falls out of favour in Trump’s Washington"
+    },
+    {
+     "title": "Elon Musk says it would be an &apos;honor&apos; to hire Nvidia&apos;s Jensen Huang",
+     "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
+     "pubDate": "Thu, 12 Nov 2026 03:25:05 GMT",
+     "summary": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
+     "source": "CNBC",
+     "zh": "Elon Musk says it would be an &apos;honor&apos; to hire Nvidia&apos;s Jensen Huang"
+    },
+    {
+     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 03:15:00 GMT",
+     "summary": "There is already a demographic ‘run’ on Social Security.",
+     "source": "MarketWatch",
+     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
+    },
+    {
+     "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+     "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 03:10:00 GMT",
+     "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+     "source": "MarketWatch",
+     "zh": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’"
     }
    ]
   },
@@ -2504,6 +2504,22 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
+     "pubDate": "Thu, 12 Nov 2026 04:34:53 EST",
+     "summary": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals found in everyday products.",
+     "source": "ScienceDaily",
+     "zh": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer"
+    },
+    {
+     "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+     "pubDate": "Thu, 12 Nov 2026 03:38:42 EST",
+     "summary": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formati",
+     "source": "ScienceDaily",
+     "zh": "Earth's fiery birth may have created hundreds of oceans' worth of water"
+    },
     {
      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
      "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
@@ -2540,7 +2556,7 @@
      "title": "The Grand Canyon is missing over a billion years of rocks. Now scientists know why.",
      "link": "https://www.livescience.com/planet-earth/geology/the-grand-canyon-is-missing-over-a-billion-years-of-rocks-now-scientists-know-why",
      "pubDate": "Wed, 11 Nov 2026 20:53:42 +0000",
-     "summary": "The mission 1.2 billion years of geological history at the Grand Canyon finally has an explanation.",
+     "summary": "The missing 1.2 billion years of geological history at the Grand Canyon finally has an explanation.",
      "source": "Live Science",
      "zh": "The Grand Canyon is missing over a billion years of rocks. Now scientists know why."
     },
@@ -2617,14 +2633,6 @@
      "zh": "How a Metabolic Spark Could Have Jump-Started Life"
     },
     {
-     "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-     "pubDate": "Wed, 11 Nov 2026 08:10:51 EST",
-     "summary": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks. Young adults accounted for nearly half of the cardiovascular rep",
-     "source": "ScienceDaily",
-     "zh": "Energy drinks linked to 11 times more reports of cardiac arrest"
-    },
-    {
      "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
      "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
      "pubDate": "Wed, 11 Nov 2026 07:32:48 EST",
@@ -2647,14 +2655,6 @@
      "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potenti",
      "source": "ScienceDaily",
      "zh": "Where are all the males? Ancient human fossils reveal a startling mystery"
-    },
-    {
-     "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
-     "pubDate": "Tue, 10 Nov 2026 22:47:25 EST",
-     "summary": "New research involving more than 440,000 Americans links cannabis use to increased cardiovascular risk, with occasional users showing 40% higher odds of reporting a history of stroke. The findings suggest that even infrequent marijuana use may warrant concern, although researchers have not establish",
-     "source": "ScienceDaily",
-     "zh": "Even occasional marijuana use linked to 40% higher odds of stroke"
     },
     {
      "title": "What happens to mathematics when AI becomes an oracle?",

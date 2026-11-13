@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/13 17:12:09",
+ "generated_at": "2026/11/13 17:32:07",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "<new>",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/navitas-renesas-131126.shtml",
+     "pubDate": "Fri, 13 Nov 2026 09:15:24 GMT",
+     "summary": "Navitas Semiconductor Corp of Torrance, CA, USA — which provides GaNFast gallium nitride (GaN), GeneSiC silicon carbide (SiC) power semiconductors and integrated voltage regulator (IVR) technologies — has filed a lawsuit in the US District Court for the Eastern District of Texas charging Renesas Ele",
+     "source": "Semiconductor Today",
+     "zh": "<new>"
+    },
+    {
      "title": "Commentary: From industry definer to industry participant? Nvidia's 2035 outlook in post-Jensen Huang Era",
      "link": "https://www.digitimes.com/news/a20261113VL234/2035-nvidia-jensen-huang-ai-outlook.html",
      "pubDate": "Fri, 13 Nov 2026 08:35:48 GMT",
@@ -312,6 +320,54 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics division.",
      "source": "DIGITIMES",
      "zh": "Samsung weighs separating memory and mobile leadership"
+    },
+    {
+     "title": "Panmesia and Intel hook up on CXL",
+     "link": "https://www.electronicsweekly.com/news/business/panmesia-and-intel-hook-up-on-cxl-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 06:14:02 +0000",
+     "summary": "Panmnesia, the Korean developer of link solutions for AI infrastructure, has signed an MOU with Intel Korea to collaborate on CXL technology. The agreement aims to bring CXL-based servers into […] The post Panmesia and Intel hook up on CXL appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Panmesia and Intel hook up on CXL"
+    },
+    {
+     "title": "Imec and Japan’s ASR standardise auto chiplets",
+     "link": "https://www.electronicsweekly.com/news/business/imec-and-japans-asr-standardise-auto-chiplets-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 06:13:37 +0000",
+     "summary": "Imec and Japan’s Advanced SoC Research for Automotive (ASRA), have published the Automotive Chiplet Interoperability Requirement (ACIR) establishing a common set of architectural requirements for interoperable automotive chiplets. Unveiled at […] The post Imec and Japan’s ASR standardise auto chiple",
+     "source": "Electronics Weekly",
+     "zh": "Imec and Japan’s ASR standardise auto chiplets"
+    },
+    {
+     "title": "Lam Research and LEGO expand access to STEM education",
+     "link": "https://www.electronicsweekly.com/news/design/stem/lam-research-and-lego-expand-access-to-stem-education-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 06:10:02 +0000",
+     "summary": "Lam Research and LEGO have partnered to expand access to hands-on science, technology, engineering and math (STEM) learning experiences for children and teens, helping foster future generations of innovators. As the […] The post Lam Research and LEGO expand access to STEM education appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Lam Research and LEGO expand access to STEM education"
+    },
+    {
+     "title": "Morse Micro and CamThink to bring long-range WiFi Halow to the edge",
+     "link": "https://www.electronicsweekly.com/news/business/morse-micro-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 06:07:48 +0000",
+     "summary": "Morse Micro, the Wi-Fi HaLow specialist, is collaborating with CamThink to bring long-range, low-power Wi-Fi HaLow technology to developer-accessible Edge AI hardware. With this announcement, Wi-Fi HaLow is now integrated […] The post Morse Micro and CamThink to bring long-range WiFi Halow to the ed",
+     "source": "Electronics Weekly",
+     "zh": "Morse Micro and CamThink to bring long-range WiFi Halow to the edge"
+    },
+    {
+     "title": "Electronica: Samtec’s Nitrowave RF cables preserve signal integrity during flexing",
+     "link": "https://www.electronicsweekly.com/news/electronica/electronica-samtecs-nitrowave-rf-cables-preserve-signal-integrity-during-flexing-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 06:06:08 +0000",
+     "summary": "In many RF applications, particularly test and measurement, cables are moved and repositioned repeatedly. Bending conventional cable can cause changes in their electrical performance. Samtec’s Nitrowave family of high-performance microwave […] The post Electronica: Samtec’s Nitrowave RF cables prese",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Samtec’s Nitrowave RF cables preserve signal integrity during flexing"
+    },
+    {
+     "title": "Cliff Electronics updates USB 2.0 and 3.0 feed through connectors",
+     "link": "https://www.electronicsweekly.com/news/products/connectors/cliff-electronics-updates-its-usb-2-0-and-usb-3-0-feedthrough-connectors-wi-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 06:03:43 +0000",
+     "summary": "Cliff Electronics has updated its USB 2.0 and USB 3.0 feedthrough connectors with a cleaner appearance, reduced depth and improved material specifications. The updates cover USB 2.0 and USB 3.0 […] The post Cliff Electronics updates USB 2.0 and 3.0 feed through connectors appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Cliff Electronics updates USB 2.0 and 3.0 feed through connectors"
     },
     {
      "title": "Jensen Resigns Over Second Affair",
@@ -440,62 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Explore the road to Level 4 autonomy as experts tackle safety, AI, regulation, and trust—watch the Automotive Tech Forum panel. The post Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving"
-    },
-    {
-     "title": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB",
-     "link": "https://semiwiki.com/eda/yieldhub/375794-cto-interview-kevin-robinson-vp-of-operations-yieldhub/",
-     "pubDate": "Wed, 11 Nov 2026 20:00:08 +0000",
-     "summary": "Kevin Robinson is VP of Operations at yieldHUB, where he leads global operations, program delivery, and customer execution. He oversees structured onboarding, customer delivery, and the scalability of yieldHUB’s operations worldwide. Kevin brings more than 25 years of semiconductor experience across",
-     "source": "SemiWiki",
-     "zh": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB"
-    },
-    {
-     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
-     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
-    },
-    {
-     "title": "JX and OXIDE enter into capital and business alliance agreement",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/jx-oxide-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 19:39:19 GMT",
-     "summary": "Tokyo-based JX Advanced Metals Corp and OXIDE Corp of Yamanashi, Japan (which specializes in optical crystals and frequency-conversion technology) have entered into a capital and business alliance agreement. JX plans to subscribe for shares to be issued by OXIDE through a third-party allotment and a",
-     "source": "Semiconductor Today",
-     "zh": "JX and OXIDE enter into capital and business alliance agreement"
-    },
-    {
-     "title": "Semiconductors and SOI: From Bulk Wafers to Engineered Substrates",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/soitec/376187-semiconductors-and-soi-from-bulk-wafers-to-engineered-substrates/",
-     "pubDate": "Wed, 11 Nov 2026 18:00:58 +0000",
-     "summary": "1. Why the substrate matters Every transistor sits in, or on, a few hundred nanometres of crystal; the rest of the wafer is mechanical support and, often, a liability. Silicon won because it combines a moderate bandgap (1.12 eV), a native oxide (SiO2) of excellent quality, and the ability to be grow",
-     "source": "SemiWiki",
-     "zh": "Semiconductors and SOI: From Bulk Wafers to Engineered Substrates"
-    },
-    {
-     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
-     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
-     "source": "Semiconductor Today",
-     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
-    },
-    {
-     "title": "WT to distribute Sivers’ InP lasers and wireless solutions",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/sivers-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 12:11:07 GMT",
-     "summary": "Sivers Semiconductors AB of Kista, Sweden (which supplies RF beam-former ICs and lasers for AI data-center, SATCOM, defense and telecom applications) has announced a global distribution agreement with electronics and semiconductors distributor WT Microelectronics Co Ltd...",
-     "source": "Semiconductor Today",
-     "zh": "WT to distribute Sivers’ InP lasers and wireless solutions"
-    },
-    {
-     "title": "The Race to Build a “Find My” for AI Chips",
-     "link": "https://spectrum.ieee.org/find-my-ai-chip",
-     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
-     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -850,6 +850,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "US firm claims 96,000-wafer-per-hour deposition line for tandem cells",
+     "link": "https://www.pv-magazine.com/2026/11/13/us-firm-claims-96000-wafer-per-hour-deposition-line-for-tandem-cells/",
+     "pubDate": "Fri, 13 Nov 2026 09:19:36 +0000",
+     "summary": "NAED Energy Holding has said its new vertical deposition platform is rated at 96,000 wafers per hour and designed to make perovskite-silicon tandem cells targeting 30% efficiency. The post US firm claims 96,000-wafer-per-hour deposition line for tandem cells appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "US firm claims 96,000-wafer-per-hour deposition line for tandem cells"
+    },
+    {
+     "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
+     "pubDate": "Fri, 13 Nov 2026 09:10:33 +0000",
+     "summary": "West Arthur Energy, a project company owned by Western Australian developer Lacour Energy, has referred a wind generation site with a 4,000MWh battery energy storage system (BESS) to Australia's EPBC Act.",
+     "source": "Energy Storage News",
+     "zh": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act"
+    },
+    {
      "title": "China’s highways could generate 182 TWh of solar annually",
      "link": "https://www.pv-magazine.com/2026/11/13/chinas-highways-could-generate-182-twh-of-solar-annually/",
      "pubDate": "Fri, 13 Nov 2026 09:04:41 +0000",
@@ -912,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mexico has raised its planned investment in 38 renewable energy projects involving private partners to $10.6 billion, with the portfolio now including 8,026 MW of generation capacity and more than 2,500 MW of storage power. The post Mexico lifts planned investment to $10.6 billion for 8 GW renewable",
      "source": "pv magazine",
      "zh": "Mexico lifts planned investment to $10.6 billion for 8 GW renewables"
-    },
-    {
-     "title": "India’s ReNew plans polysilicon manufacturing",
-     "link": "https://www.pv-magazine.com/2026/11/13/renew-plans-polysilicon-manufacturing-and-1-gw-green-hyperscale-data-centre-in-andhra-pradesh/",
-     "pubDate": "Fri, 13 Nov 2026 07:40:27 +0000",
-     "summary": "ReNew plans to invest around INR 80,000 crore ($8.9 billion) in Andhra Pradesh, including a 1 GW renewable energy-powered data center, polysilicon and metallurgical silicon manufacturing facilities, and a permanent magnet production plant. The post India’s ReNew plans polysilicon manufacturing appea",
-     "source": "pv magazine",
-     "zh": "India’s ReNew plans polysilicon manufacturing"
     },
     {
      "title": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "When sales increase more than costs, rates should decline. But some utilities are using lower historical sales data with updated cost assumptions to try and &ldquo;lock in&rdquo; higher rates,&nbsp;writes&nbsp;Edward Burgess of Current Energy Group.",
      "source": "Utility Dive",
      "zh": "Data centers could lower your electricity bill. Will utilities let them?"
-    },
-    {
-     "title": "Testing challenges, BESS and changing procurement landscape lead PV ModuleTech Europe 2026 discussions",
-     "link": "https://www.pv-tech.org/testing-challenges-bess-changing-procurement-landscape-pv-moduletech-europe/",
-     "pubDate": "Thu, 12 Nov 2026 12:55:40 +0000",
-     "summary": "Module testing challenges, the role of BESS and the procurement landscape were key topics of conversation at PV ModuleTech Europe 2026.",
-     "source": "PV Tech",
-     "zh": "Testing challenges, BESS and changing procurement landscape lead PV ModuleTech Europe 2026 discussions"
     }
    ]
   },
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+     "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+     "pubDate": "Fri, 13 Nov 2026 09:21:01 +0000",
+     "summary": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools"
+    },
+    {
      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
      "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
      "pubDate": "Fri, 13 Nov 2026 08:50:36 +0000",
@@ -1565,7 +1573,7 @@ window.INDUSTRY_DATA = {
      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
      "pubDate": "Fri, 13 Nov 2026 13:35:49 +0530",
-     "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege escalation flaw in Gaia OS&nbsp; to deploy a backdoor called TSGA. The activity, detailed by Check Poi",
+     "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS&nbsp; to deploy a backdoor called TSGA. The activity, detailed by Check P",
      "source": "The Hacker News",
      "zh": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files"
     },
@@ -1706,14 +1714,6 @@ window.INDUSTRY_DATA = {
      "zh": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry"
     },
     {
-     "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
-     "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-     "pubDate": "Thu, 12 Nov 2026 15:38:31 +0000",
-     "summary": "The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled. The post Apache Patches Critical HTTP Server RCE Found by Anthropic, Google appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google"
-    },
-    {
      "title": "Inside an AI Attack Against a US Retailer",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
      "pubDate": "Thu, 12 Nov 2026 11:00:00 GMT",
@@ -1762,12 +1762,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "不乱花钱，是成年人最真的体面",
+     "link": "https://www.huxiu.com/article/4905423.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 17:19:20 +0800",
+     "summary": "本文来自微信公众号： Vogue Business ，作者：Jodie Zhou，编辑：YilingPan 2026年双十一，李佳琦直播间的维达棉韧卷纸多了一个新选项。 同样的卷纸，去年消费者要么花81.1元买54卷，要么花117.3元买81卷。今年多了一个更小规格的选项：消费者还可以花45.9元，只买27卷。新组合的单卷价格比两个大包装都高，却把这笔订单的最低付款金额降了下来。 同一个购物节里，一些消费者又在想办法把订单做大。10月30日，上海迪士尼乐园的一轮双十一年卡优惠限时开卖。因为几张卡凑成一单更划算，社交平台上出现了大量找人拼单和比较不同买法的帖子。 买纸巾时已经不愿囤货，买年卡时却",
+     "source": "虎嗅",
+     "zh": "不乱花钱，是成年人最真的体面"
+    },
+    {
+     "title": "和平饭店｜51万小票，抓了15人",
+     "link": "https://www.huxiu.com/article/4905417.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 17:16:25 +0800",
+     "summary": "本文来自微信公众号： 公关人 ，作者：老杨，原文标题：《和平饭店｜51万小票，抓了15人》 一张假小票，把外滩那家老饭店挂了五天。最后出来还它清白的，不是它自己。 11月8日，一张上海和平饭店的消费小票在社交平台传开：6个人，9道菜，3样酒水，51.7万余元。 五天后，警方通报，账单是AI改的，15人被抓。这五天里，被点名的那家饭店，公开说出口的只有一句“不真实”。 1、那张小票，破绽写在明面上 那张票到底写了什么，值得先摊开看。网传小票的票面显示，6人用餐，9道菜小计9272元，3样酒水小计460844元，其中两瓶标注1997年罗曼尼-康帝的酒单价23万，再加服务费47011.60元，合计5",
+     "source": "虎嗅",
+     "zh": "和平饭店｜51万小票，抓了15人"
+    },
+    {
+     "title": "前热后冷，气价变化影响燃气重卡销量",
+     "link": "https://www.huxiu.com/article/4905420.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 17:14:58 +0800",
+     "summary": "本文来自微信公众号： 经观汽车 ，作者：濮振宇 2026年的燃气重卡（主要为LNG液化天然气重卡）市场，走出了一条先高后低的抛物线。 3月，国内燃气重卡交强险终端实销3.20万辆，同比增长48%，不仅刷新了史上最佳3月纪录，在燃气重卡月度销量上也仅次于2019年6月的3.91万辆。4月热度延续，燃气重卡终端销量再度突破3万辆。 但到了9月，燃气重卡实销仅7263辆，同比下降69%，同比降幅较8月的62%进一步扩大。当月燃气重卡在重卡终端实销中的份额萎缩至11.05%，与3月的36.50%相比，半年间失去了超过25个百分点。 为何一季度还是重卡市场的增长引擎，三季度就回落了？ 气价与油价的变化 ",
+     "source": "虎嗅",
+     "zh": "前热后冷，气价变化影响燃气重卡销量"
+    },
+    {
+     "title": "理想、小米接连布局自研电池，宁德时代的好日子到头了吗？",
+     "link": "https://www.huxiu.com/article/4905416.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 17:10:39 +0800",
+     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《理想、小米接连布局自研电池，宁德时代的好日子到头了吗？| 声动早咖啡》 欢迎来到每周五咖啡豆回复时间。我们的听友「黄蜂」想知道，为什么理想、小米这些车企，最近都在推进自研电池？ 公开信息显示，10月底，小米的子公司出资17亿元，入股了一家名为欣旺达动力的电池企业。根据行业数据，今年前9个月，欣旺达动力的动力电池装车量排名国内第七，市场份额在3%左右。这笔交易完成后，小米将会间接持有欣旺达动力大约5%的股份，成为他们的第三大股东。而在9月，理想汽车才刚刚以26.5亿元的代价，成为了欣旺达动力的第二大股东。理想当时宣布，他们负",
+     "source": "虎嗅",
+     "zh": "理想、小米接连布局自研电池，宁德时代的好日子到头了吗？"
+    },
+    {
      "title": "重点突出“安全”“环保”，《汽车改装管理办法》公开征求意见",
      "link": "https://www.ithome.com/1/026/863.htm",
      "pubDate": "Fri, 13 Nov 2026 09:08:39 GMT",
      "summary": "IT之家 11 月 13 日消息，据央视新闻记者今天（13 日）从工业和信息化部获悉，多部门联合编制的《汽车改装管理办法》，开始公开征求意见。这是国家层面将出台的 首个系统性推进汽车改装管理的政策规范性文件 ，也是培育汽车后市场消费新增长点的关键举措。 据IT之家了解，《汽车改装管理办法》当前主要面向量大面广的非营运乘用车改装，实施一类、二类改装管理。其中， 一类改装是指对 车身颜色、内外饰 等不涉及安全、环保等性能的改装。 二类改装是指对 制动系统、悬架 等涉及车辆安全、环保等性能的改装。 工业和信息化部已制定第一批改装项目清单共 43 项，其中一类改装 29 项，二类改装 14 项。在管理",
      "source": "IT之家",
      "zh": "重点突出“安全”“环保”，《汽车改装管理办法》公开征求意见"
+    },
+    {
+     "title": "The Dawn of the Data Intelligence Engineer",
+     "link": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+     "pubDate": "Fri, 13 Nov 2026 09:08:18 +0000",
+     "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 4 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "The Dawn of the Data Intelligence Engineer"
     },
     {
      "title": "华硕推出“VG27AQL5F 吹雪”27 英寸显示器：2K 220Hz + 双扬，1249 元",
@@ -1834,30 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "独家｜石头前国内销售负责人李明加入追觅，出任中国区核心高管"
     },
     {
-     "title": "Token出海赚的钱，跟不上飙升的存储成本了",
-     "link": "https://www.huxiu.com/article/4905402.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 16:48:56 +0800",
-     "summary": "本文来自微信公众号： 硅碳变量 ，作者：温宁 硅谷知名风险投资机构门罗风投（Menlo Ventures）发布的《2026年企业AI现状报告》显示，美国企业用于开源模型的支出中，89%付给了中国模型。前三名中，Kimi占61%，DeepSeek占15%，GLM占11%。 市场很愿意接受一套简洁叙事：依靠性能与定价，国产大模型抢走海外开发者预算。 但同一份报告里还有另一组数字：虽然开源模型在Token使用量上已经拿下了接近五分之一的份额（19%），但开源模型实际上仅占了企业模型总体支出的4%，绝大部分的企业AI预算依然流向了闭源大模型。 换句话说，89%是一份浓度很高但体量有限的份额。 体量本身",
-     "source": "虎嗅",
-     "zh": "Token出海赚的钱，跟不上飙升的存储成本了"
-    },
-    {
-     "title": "33年黄仁勋时代落幕，英伟达将走向何方？",
-     "link": "https://www.huxiu.com/article/4905404.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 16:47:39 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：徐美慧等，原文标题：《33年黄仁勋时代落幕，英伟达将走向何方？丨商业头条NO.151》 1993年一手创办英伟达的黄仁勋（Jensen Huang），在执掌公司33年后突然离开。 当地时间11月12日，英伟达宣布，黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。根据英伟达提交给美国证券交易委员会的文件，董事会已于11月11日接受其辞呈。公司首席财务官科莱特·克雷斯（Colette Kress）临时接任CEO，董事会同时启动永久继任者遴选程序，考虑内部和外部候选人。 这场人事变动来得相当突然。 就在11月8日，英伟达董事会还公开表示，对黄仁勋及其领导团",
-     "source": "虎嗅",
-     "zh": "33年黄仁勋时代落幕，英伟达将走向何方？"
-    },
-    {
-     "title": "China-first：全球巨头，开始在中国寻找创新答案",
-     "link": "https://www.huxiu.com/article/4905403.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 16:46:43 +0800",
-     "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略 跨国巨头在中国做生意的逻辑，正在发生一场深刻变化。 2018年首届进博会举办时，许多跨国企业的目标很明确，把欧美总部研发的新技术、成熟产品，更快地带到中国。那时候，中国是重要的销售市场和制造基地，但在不少跨国企业的研发体系中，产品定义和核心决策主要掌握在海外总部。 这套模式有其合理性。总部集中研发，既能统一技术标准、减少重复投入，也能通过全球销售分摊成本。 但中国市场正在改变这套逻辑。在新能源汽车、智能制造等领域，本土企业不断加快产品迭代，一些成熟的全球产品已经跟不上中国客户的需求。如果凡事还要等海外总部拍板，市场机会可能就错过了。 与其坐在数",
-     "source": "虎嗅",
-     "zh": "China-first：全球巨头，开始在中国寻找创新答案"
-    },
-    {
      "title": "黄仁勋辞职，英伟达为什么偏偏选中她…...",
      "link": "https://www.tmtpost.com/8203680.html",
      "pubDate": "Fri, 13 Nov 2026 16:41:42 +0800",
@@ -1882,14 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "腾讯早该动刀子了"
     },
     {
-     "title": "2天吸金80亿，债基爆卖，基金发行冷热分化，36只基金延长募集",
-     "link": "https://www.huxiu.com/article/4905401.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 16:39:47 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：卢泳志，作者：黄宇昆，原文标题：《2天吸金80亿，债基爆卖！基金发行冷热分化，36只基金延长募集》 11月12日，东财基金旗下东财悦安63个月封闭式债券发布提前结束募集公告，并宣布截至11月11日，该基金募集期内累计申请份额总额已超过募集上限80亿份，折合金额为80亿元，此时距离该基金开始募集仅过去了两天。 受权益市场震荡调整影响，11月以来，主打低波动、收益稳健的债基获得资金青睐，多只债基宣布提前结束募集，将原本一两个月的募集时间缩短至数日。 另据Wind数据，截至11月12日，当月有36只基金宣布延长募集期，其中部分基金已经是第二次发布延期公告。从基",
-     "source": "虎嗅",
-     "zh": "2天吸金80亿，债基爆卖，基金发行冷热分化，36只基金延长募集"
-    },
-    {
      "title": "谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动",
      "link": "https://www.tmtpost.com/8201775.html",
      "pubDate": "Fri, 13 Nov 2026 15:45:31 +0800",
@@ -1904,6 +1912,14 @@ window.INDUSTRY_DATA = {
      "summary": "李彦宏的“下一幕”，从改变自己开始。",
      "source": "钛媒体",
      "zh": "李彦宏：不仅是预言家，还是先行者"
+    },
+    {
+     "title": "TSMC Hacked",
+     "link": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
+     "pubDate": "Fri, 13 Nov 2026 07:39:55 +0000",
+     "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm Comments URL: https://news.ycombinator.com/item?id=50479721 Points: 19 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "TSMC Hacked"
     },
     {
      "title": "美客多墨西哥本土店入驻，3人团队排期该怎么分配才不拖垮现有店铺？",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Sources: Samsung is in talks to buy Modine Manufacturing, a US maker of data center cooling systems, as soon as the coming weeks; Modine's market value is $5.6B &nbsp; &mdash;&nbsp; Samsung Electronics Co. is in talks to acquire Modine Manufacturing Co., a maker of cooling systems for da",
      "source": "Techmeme",
      "zh": "Sources: Samsung is in talks to buy Modine Manufacturing, a US maker of data center cooling systems, as soon as the coming weeks; Modine&apos;s market value is $5.6B (Bloomberg)"
-    },
-    {
-     "title": "Global Microsoft Outage",
-     "link": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
-     "pubDate": "Fri, 13 Nov 2026 06:18:23 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk Comments URL: https://news.ycombinator.com/item?id=50479098 Points: 65 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Global Microsoft Outage"
-    },
-    {
-     "title": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO (Financial Times)",
-     "link": "https://www.techmeme.com/261113/p3#a261113p3",
-     "pubDate": "Fri, 13 Nov 2026 01:01:16 -0500",
-     "summary": "Financial Times : Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO &nbsp; &mdash;&nbsp; Nvidia-backed &lsquo;neocloud&rsquo; tells investors it must obtain additional financing to fulfil An",
-     "source": "Techmeme",
-     "zh": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO (Financial Times)"
     }
    ]
   },
@@ -2009,6 +2009,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google Messages’ big search redesign is now rolling out to beta testers",
+     "link": "https://www.androidauthority.com/google-messages-search-redesign-beta-rollout-3734872/",
+     "pubDate": "Fri, 13 Nov 2026 09:20:32 +0000",
+     "summary": "Finding old texts, photos, and links is getting easier.",
+     "source": "Android Authority",
+     "zh": "Google Messages’ big search redesign is now rolling out to beta testers"
+    },
+    {
+     "title": "Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop",
+     "link": "https://www.androidauthority.com/lenovo-googlebook-15-best-buy-3734380/",
+     "pubDate": "Fri, 13 Nov 2026 09:06:56 +0000",
+     "summary": "High-end laptop with easy access to Google's best features.",
+     "source": "Android Authority",
+     "zh": "Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop"
+    },
+    {
+     "title": "The Pixel Journal app now lets you record and add audio via Recorder",
+     "link": "https://www.androidauthority.com/google-pixel-journal-recorder-app-recording-support-3734817/",
+     "pubDate": "Fri, 13 Nov 2026 09:06:06 +0000",
+     "summary": "The 'Record new audio' button appeared a few days ago, but it wasn't functional at the time. That changes today.",
+     "source": "Android Authority",
+     "zh": "The Pixel Journal app now lets you record and add audio via Recorder"
+    },
     {
      "title": "Oppo's pocket gimbal camera said to debut this year, wide-foldable also coming soon",
      "link": "https://www.gsmarena.com/oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466.php",
@@ -2074,22 +2098,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google Sheets now lets others explore your data without accessing your spreadsheet"
     },
     {
-     "title": "Google rolls out a fix for missing Health app vitals and step counts",
-     "link": "https://www.androidauthority.com/google-health-missing-vitals-fixed-3734799/",
-     "pubDate": "Fri, 13 Nov 2026 06:17:50 +0000",
-     "summary": "Affected readings were never deleted.",
-     "source": "Android Authority",
-     "zh": "Google rolls out a fix for missing Health app vitals and step counts"
-    },
-    {
-     "title": "Outlook, Teams, and other Microsoft 365 services are still down as exec expresses ‘regret’",
-     "link": "https://www.androidauthority.com/microsoft-outlook-still-down-3734796/",
-     "pubDate": "Fri, 13 Nov 2026 05:53:08 +0000",
-     "summary": "Outlook and other Microsoft 365 services are still down, almost 12 hours after the initial outage.",
-     "source": "Android Authority",
-     "zh": "Outlook, Teams, and other Microsoft 365 services are still down as exec expresses ‘regret’"
-    },
-    {
      "title": "Huawei Mate X8 now has a rumored launch date",
      "link": "https://www.gsmarena.com/huawei_mate_x8_now_has_a_rumored_launch_date-news-75463.php",
      "pubDate": "Fri, 13 Nov 2026 06:01:02 +0100",
@@ -2144,14 +2152,6 @@ window.INDUSTRY_DATA = {
      "summary": "The AI agent can schedule appointments, make reservations and wait on hold for you.",
      "source": "Engadget",
      "zh": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)"
-    },
-    {
-     "title": "Google Fitbit Air syncing issues leave some iPhone users unable to access health data",
-     "link": "https://www.androidauthority.com/google-fitbit-air-iphone-syncing-issues-3734762/",
-     "pubDate": "Thu, 12 Nov 2026 22:58:31 +0000",
-     "summary": "Google reportedly knows about the issue.",
-     "source": "Android Authority",
-     "zh": "Google Fitbit Air syncing issues leave some iPhone users unable to access health data"
     },
     {
      "title": "9to5Mac Daily: November 12, 2026 – OLED iPad Air rumors, MacBook Pro teardown",
@@ -2258,6 +2258,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Anthropic's IPO said to be six times oversubscribed",
+     "link": "https://seekingalpha.com/news/4672156-anthropics-ipo-six-times-oversubscribed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 04:21:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic's IPO said to be six times oversubscribed"
+    },
+    {
+     "title": "Nagarro SE reports Q3 results",
+     "link": "https://seekingalpha.com/news/4672201-nagarro-se-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 04:21:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nagarro SE reports Q3 results"
+    },
+    {
+     "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+     "pubDate": "Fri, 13 Nov 2026 09:19:49 GMT",
+     "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
+     "source": "CNBC",
+     "zh": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure"
+    },
+    {
+     "title": "ByteDance plans $6B share buyback at $400B valuation - reports",
+     "link": "https://seekingalpha.com/news/4672179-bytedance-plans-6b-share-buyback-at-400b-valuation---reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 04:18:20 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ByteDance plans $6B share buyback at $400B valuation - reports"
+    },
+    {
+     "title": "Land Securities GAAP EPS of 25.90p, revenue of £287M",
+     "link": "https://seekingalpha.com/news/4672199-land-securities-gaap-eps-of-2590p-revenue-of-287m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 04:10:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Land Securities GAAP EPS of 25.90p, revenue of £287M"
+    },
+    {
+     "title": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
+     "link": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 09:09:00 GMT",
+     "summary": "“She’s 69 and otherwise healthy as a horse.”",
+     "source": "MarketWatch",
+     "zh": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?"
+    },
+    {
      "title": "Mizuho Financial GAAP EPS of ¥368.81, revenue of ¥4993.08B; updates FY2026 outlook",
      "link": "https://seekingalpha.com/news/4672197-mizuho-financial-gaap-eps-of-36881-revenue-of-499308b-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 13 Nov 2026 04:05:41 -0500",
@@ -2274,30 +2322,6 @@ window.INDUSTRY_DATA = {
      "zh": "Crown Crafts outlines warehouse consolidation around April to May 2028 while focusing on higher-margin mix"
     },
     {
-     "title": "Smith Micro forecasts Q4 revenue of $5.4M-$5.6M while expanding SafePath Connect and SafePath OS deployments",
-     "link": "https://seekingalpha.com/news/4672194-smith-micro-forecasts-q4-revenue-of-5_4m-5_6m-while-expanding-safepath-connect-and-safepath?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 03:59:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Smith Micro forecasts Q4 revenue of $5.4M-$5.6M while expanding SafePath Connect and SafePath OS deployments"
-    },
-    {
-     "title": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
-     "link": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 08:58:00 GMT",
-     "summary": "“She’s 69 and otherwise healthy as a horse.”",
-     "source": "MarketWatch",
-     "zh": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?"
-    },
-    {
-     "title": "Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report",
-     "link": "https://seekingalpha.com/news/4672155-banned-nvidia-chips-traced-to-alice-huang-linked-data-center-in-shanghai---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 03:57:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Banned Nvidia chips traced to Alice Huang-linked data center in Shanghai - report"
-    },
-    {
      "title": "Treasury yields rise as traders strengthen Fed rate hike bets",
      "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
      "pubDate": "Fri, 13 Nov 2026 08:50:43 GMT",
@@ -2306,28 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Treasury yields rise as traders strengthen Fed rate hike bets"
     },
     {
-     "title": "Ebara Corporation GAAP EPS of ¥156.57, revenue of ¥745.94B; reaffirms FY2026 outlook",
-     "link": "https://seekingalpha.com/news/4672175-ebara-corporation-gaap-eps-of-15657-revenue-of-74594b-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 03:48:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ebara Corporation GAAP EPS of ¥156.57, revenue of ¥745.94B; reaffirms FY2026 outlook"
-    },
-    {
      "title": "黄仁勋辞职拖累AI交易，美股三大期指集体下跌，英伟达盘前企稳，布油反弹突破96美元",
      "link": "https://wallstreetcn.com/articles/3785885",
      "pubDate": "Fri, 13 Nov 2026 16:45:05 +0800",
      "summary": "黄仁勋卸任消息冲击市场情绪，欧美股市走低，投资者将目光转向今晚公布的美国PPI数据。 周五，美股期指下跌，欧洲股市低开，日韩股市涨跌不一。美国国债价格基本持稳，国际油价延续涨势。黄金则在连续三个交易日下跌后反弹。外汇市场方面，日元走势受到密切关注。美元兑日元汇率自9月以来首次跌破160关口，重新引发市场对日本当局可能出手干预汇市的担忧。 AT Global Markets驻悉尼首席市场分析师尼克·特威代尔表示：“显然，英伟达的处境在下周财报发布前仍然令投资者忧心忡忡，因 此周末市场将面临一定压力。说实话，只有PPI数据大幅下滑才能改变市场情绪。” 核心市场走势如下： 纳斯达克100指数期货跌超",
      "source": "华尔街见闻",
      "zh": "黄仁勋辞职拖累AI交易，美股三大期指集体下跌，英伟达盘前企稳，布油反弹突破96美元"
-    },
-    {
-     "title": "Rakuten GAAP EPS of -¥33.85, revenue of ¥2006.12B; reaffirms FY2026 outlook",
-     "link": "https://seekingalpha.com/news/4672167-rakuten-gaap-eps-of-3385-revenue-of-200612b-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 03:44:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rakuten GAAP EPS of -¥33.85, revenue of ¥2006.12B; reaffirms FY2026 outlook"
     },
     {
      "title": "美国财政再亮红灯：10月赤字创历史同期新高，过去一年28%的税收拿去付利息",
@@ -2488,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "余承东亮相问界新车发布会。 11月13日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东在问界新M8上市发布会上表示，“华为和 赛力斯 一起打造了鸿蒙智行的第一个合作品牌问界，今天问界将进入一个新的合作阶段，我们华为继续主导核心技术、产品定义、产品设计以及质量流程的体系能力； 赛力斯 来主导整车制造、研发工程实施、营销、销售、服务和升级与维护，我们双方共同研发、联合设计。” 他强调，“我们华为主导的工作， 赛力斯 参与； 赛力斯 主导的工作，华为也是全面参与，双方一起紧密地在一起合作。我们双方既在各自擅长的领域各司其职，又将紧密合作、紧密联系在一起，为用户持续提供更好的体验与服务。",
      "source": "东方财富资讯",
      "zh": "余承东再回应问界新合作阶段：联合开发 赛力斯主导的工作华为也将全面参与"
-    },
-    {
-     "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
-     "pubDate": "Fri, 13 Nov 2026 07:15:01 GMT",
-     "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
-     "source": "CNBC",
-     "zh": "Why Singapore keeps turning up in the fight over Nvidia chips and China"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/13 16:13:14",
+ "generated_at": "2026/11/13 16:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -378,14 +378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Explore the road to Level 4 autonomy as experts tackle safety, AI, regulation, and trust—watch the Automotive Tech Forum panel. The post Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving"
+    },
+    {
+     "title": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB",
+     "link": "https://semiwiki.com/eda/yieldhub/375794-cto-interview-kevin-robinson-vp-of-operations-yieldhub/",
+     "pubDate": "Wed, 11 Nov 2026 20:00:08 +0000",
+     "summary": "Kevin Robinson is VP of Operations at yieldHUB, where he leads global operations, program delivery, and customer execution. He oversees structured onboarding, customer delivery, and the scalability of yieldHUB’s operations worldwide. Kevin brings more than 25 years of semiconductor experience across",
+     "source": "SemiWiki",
+     "zh": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "China’s TOPCon M10 cell prices slip as export rush fades, domestic demand weakens",
+     "link": "https://www.pv-magazine.com/2026/11/13/chinas-topcon-m10-cell-prices-slip-as-export-rush-fades-domestic-demand-weakens/",
+     "pubDate": "Fri, 13 Nov 2026 08:19:42 +0000",
+     "summary": "In a new weekly update for pv magazine , OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry. The post China’s TOPCon M10 cell prices slip as export rush fades, domestic demand weakens appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "China’s TOPCon M10 cell prices slip as export rush fades, domestic demand weakens"
+    },
+    {
      "title": "Mexico lifts planned investment to $10.6 billion for 8 GW renewables",
      "link": "https://www.pv-magazine.com/2026/11/13/mexico-lifts-planned-investment-to-10-6-billion-for-8-gw-renewables/",
      "pubDate": "Fri, 13 Nov 2026 07:50:15 +0000",
@@ -888,14 +896,6 @@ window.INDUSTRY_DATA = {
      "summary": "Executive Decree 530, signed by Ecuadorian President Daniel Noboa, sets the value-added tax (VAT) and tax on foreign currency outflows (ISD) at 0% for certain equipment and components used in the electricity sector, including solar power generation and energy storage. The post Ecuador scraps two tax",
      "source": "pv magazine",
      "zh": "Ecuador scraps two taxes on solar equipment and energy storage systems"
-    },
-    {
-     "title": "Heliene announces commercial production of perovskite tandem modules using Caelux glass",
-     "link": "https://www.pv-magazine.com/2026/11/13/heliene-announces-commercial-production-of-perovskite-tandem-modules-using-caelux-glass/",
-     "pubDate": "Fri, 13 Nov 2026 06:45:39 +0000",
-     "summary": "The companies say their perovskite-silicon tandem modules will be available for shipment in 2027 and can achieve efficiencies of 27% or greater, with a roadmap targeting 29% by 2028. The post Heliene announces commercial production of perovskite tandem modules using Caelux glass appeared first on pv",
-     "source": "pv magazine",
-     "zh": "Heliene announces commercial production of perovskite tandem modules using Caelux glass"
     },
     {
      "title": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
@@ -1338,6 +1338,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15 to attempt first catch of both stages",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history… The post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15 to attempt first catch of both stages"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1418,6 +1426,14 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Ames Stars of the Month: November 2026"
     },
     {
+     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1474,6 +1490,14 @@ window.INDUSTRY_DATA = {
      "zh": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push"
     },
     {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
+    },
+    {
      "title": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave",
      "link": "https://payloadspace.com/rep-mike-haridopolos-on-nasas-future-after-the-blue-wave/",
      "pubDate": "Tue, 10 Nov 2026 18:45:00 +0000",
@@ -1490,20 +1514,28 @@ window.INDUSTRY_DATA = {
      "zh": "Exclusive: Lyra Systems Emerges from Stealth to Solve the Valley of Death"
     },
     {
-     "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
-     "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
-     "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
-     "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
-     "source": "Spaceflight Now",
-     "zh": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
+     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
+     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     },
     {
-     "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
-     "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-     "pubDate": "Fri, 06 Nov 2026 22:00:39 +0000",
-     "summary": "Liftoff from pad 4E at Vandenberg Space Force Base occurred at 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
-     "source": "Spaceflight Now",
-     "zh": "Falcon 9 launches from California on classified mission for U.S. Space Force"
+     "title": "NASA’s Moon Base plan gains a PROMISE",
+     "link": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+     "pubDate": "Sun, 08 Nov 2026 04:43:57 +0000",
+     "summary": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar… The post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "NASA’s Moon Base plan gains a PROMISE"
+    },
+    {
+     "title": "NASA announces search for new astronauts",
+     "link": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/",
+     "pubDate": "Sat, 07 Nov 2026 18:00:32 +0000",
+     "summary": "For the first time in two years, NASA is opening applications for its next astronaut… The post NASA announces search for new astronauts appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "NASA announces search for new astronauts"
     }
    ]
   },
@@ -1513,6 +1545,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+     "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+     "pubDate": "Fri, 13 Nov 2026 13:35:49 +0530",
+     "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege escalation flaw in Gaia OS&nbsp; to deploy a backdoor called TSGA. The activity, detailed by Check Poi",
+     "source": "The Hacker News",
+     "zh": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files"
+    },
     {
      "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
      "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
@@ -1658,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
     },
     {
-     "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-     "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-     "pubDate": "Thu, 12 Nov 2026 21:08:49 +0530",
-     "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed be",
-     "source": "The Hacker News",
-     "zh": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass"
-    },
-    {
      "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
      "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
      "pubDate": "Thu, 12 Nov 2026 15:38:31 +0000",
@@ -1730,6 +1762,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "双11热火朝天，带货主播时薪低至15元？",
+     "link": "https://www.huxiu.com/article/4905391.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 16:12:34 +0800",
+     "summary": "本文来自微信公众号： 亿邦动力 ，编辑：石航千，作者：李金津 高薪、流量和财富故事退潮之后。 直播电商最热的时候，带货主播站在风口尖上。 “羽绒服主播年入百万”“杭州遍地时薪500元”“一场直播两万”——真假难辨的财富故事，替这个职业镀上一层金边。好像年轻人走进直播间，就能离流量和高薪更近一步。 几年过去，金边开始褪色。 今年双11，贾乃亮一天卖5.7亿的热搜被反复谈论。干着同样工作的迢迢却说，“这跟整个行业没多大关系。就像明星，有顶流，就有十八线的。” 而她口中的“十八线”，眼下正经历一场坠落。 他们称自己为“打工主播”——没有身份光环，没有鲜明人设，没有专属账号，工作随着一个又一个直播间的",
+     "source": "虎嗅",
+     "zh": "双11热火朝天，带货主播时薪低至15元？"
+    },
+    {
+     "title": "考研报名人数止跌，但考研热已经回不去了",
+     "link": "https://www.huxiu.com/article/4905390.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 16:11:19 +0800",
+     "summary": "本文来自微信公众号： 陈志文观察 ，作者：陈志文 2027年全国硕士研究生考试报名人数公布：347万人，比2026年的343万人增加4万人。 虽然略有回升，但考虑到此前连续三年大幅下降，这个数字更像是考研报名人数开始企稳，而不是新一轮考研热的到来。 2023年，考研报名人数达到历史最高峰474万人。此后连续三年下降：2024年减少36万人，2025年减少50万人，2026年再减少45万人，三年累计减少131万人，降幅接近28%。 从2015年的164.9万人，到2023年的474万人，考研报名人数连续多年快速增长，尤其是疫情期间，增长更为猛烈。2022年一年就增加80万人，创下历史纪录。 如今",
+     "source": "虎嗅",
+     "zh": "考研报名人数止跌，但考研热已经回不去了"
+    },
+    {
+     "title": "消息称字节跳动规划新一轮股票回购，4000 亿美元估值较去年增长两成",
+     "link": "https://www.ithome.com/1/026/803.htm",
+     "pubDate": "Fri, 13 Nov 2026 08:05:53 GMT",
+     "summary": "IT之家 11 月 13 日消息，彭博社北京时间今日援引 The Information 报道称，字节跳动在致投资者信中表示， 该企业计划进行新一轮 60 亿美元股票回购 。 字节跳动此轮回购价为每股 241.35 美元，对应 4,000 亿美元 （IT之家注：现汇率约合 2.67 万亿元人民币） 的整体估值。 这一数额相较一年前上轮回购时的水平高出 20% 。 知情人士透露，字节跳动还提议将“上市或授予外部股东出售全部持股的权利”的截止日期推迟四年至 2030 年 12 月 11 日；该企业还在文件中详细描述了向 AI 部门员工提供总计 3 亿股与 AI 业务价值挂钩的股份的计划。",
+     "source": "IT之家",
+     "zh": "消息称字节跳动规划新一轮股票回购，4000 亿美元估值较去年增长两成"
+    },
+    {
+     "title": "三星 Galaxy S27 系列手机壁纸曝光：5 种颜色，折叠丝带设计吸睛",
+     "link": "https://www.ithome.com/1/026/802.htm",
+     "pubDate": "Fri, 13 Nov 2026 08:04:40 GMT",
+     "summary": "IT之家 11 月 13 日消息，科技媒体 sammyguru 昨日（11 月 12 日）发布博文，分享了一组照片，声称是三星 Galaxy S27 系列手机默认壁纸，共有 5 种配色，采用折叠丝带设计，暗示三星最新旗舰手机也会采用这 5 种颜色。 通常情况下，三星会为 Galaxy S 系列旗舰手机的不同颜色，推出专属壁纸。IT之家援引博文介绍，以 Galaxy S26 Ultra 为例，三星分别推出了黑色、白色、蓝色、紫色、粉色和灰色共计 6 种颜色壁纸，分别对应旷宇黑、映雪白、浅云蓝、幽夜紫四种常规颜色，以及绯霞金和镜月银两种专属色。 该媒体推测三星 Galaxy S27 系列会沿用这种",
+     "source": "IT之家",
+     "zh": "三星 Galaxy S27 系列手机壁纸曝光：5 种颜色，折叠丝带设计吸睛"
+    },
+    {
+     "title": "国际中文教育垂直大模型亮相，为全球中文学习者等群体提供智能化服务",
+     "link": "https://www.ithome.com/1/026/801.htm",
+     "pubDate": "Fri, 13 Nov 2026 08:01:08 GMT",
+     "summary": "IT之家 11 月 13 日消息，据央视新闻报道，11 月 13 日，2026 世界中文大会在北京开幕，会上发布语飞国际中文教育垂直大模型，为全球中文学习者、教师和教育机构提供智能化服务。 面向全球中文学习者，模型可提供 即时反馈的学习评测、随问随答的个性化辅导 ；面向教师，支持在多轮对话中快速生成覆盖 课前备课、课堂互动、课后巩固 的教学素材，提升教学效率；面向全球中文教育机构，提供标准化接口，连接各方、赋能应用，让数智化创新在更多教学场景落地生根。 IT之家从该报道中获悉，该模型将人工智能技术与国际中文教育实际需求相结合，深度融入专业知识、教学规律与真实场景，专项适配教与学各个环节，推动优",
+     "source": "IT之家",
+     "zh": "国际中文教育垂直大模型亮相，为全球中文学习者等群体提供智能化服务"
+    },
+    {
      "title": "黄仁勋自嘲是“人渣”，英伟达员工集体喊话求回归",
      "link": "https://www.huxiu.com/article/4905382.html?f=rss",
      "pubDate": "Fri, 13 Nov 2026 16:00:33 +0800",
@@ -1752,6 +1824,14 @@ window.INDUSTRY_DATA = {
      "summary": "真菌真的有机会入侵控制人体吗？本期节目我们就来讲讲真菌与人类之间是如何展开攻防竞赛的。",
      "source": "虎嗅",
      "zh": "为了对抗真菌感染，人类都做了什么？"
+    },
+    {
+     "title": "The Netherlands Is Dismantling the International Criminal Court",
+     "link": "https://rightsforum.org/en/diplomatic-sources-the-netherlands-is-negotiating-the-dismantling-of-the-international-criminal-court/",
+     "pubDate": "Fri, 13 Nov 2026 07:55:49 +0000",
+     "summary": "Article URL: https://rightsforum.org/en/diplomatic-sources-the-netherlands-is-negotiating-the-dismantling-of-the-international-criminal-court/ Comments URL: https://news.ycombinator.com/item?id=50479876 Points: 51 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "The Netherlands Is Dismantling the International Criminal Court"
     },
     {
      "title": "国产全飞秒设备进入临床试验阶段，未来近视手术有望降价",
@@ -1786,38 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果憋了近10年的人形机器人，最后用上了宇树"
     },
     {
-     "title": "长安汽车拟挂牌转让阿维塔 10% 股权，阿维塔回应称与 IPO 无关",
-     "link": "https://www.ithome.com/1/026/797.htm",
-     "pubDate": "Fri, 13 Nov 2026 07:52:51 GMT",
-     "summary": "IT之家 11 月 13 日消息，上海联合产权交易所显示，重庆长安汽车股份有限公司 11 月 12 日挂牌转让持有的阿维塔科技（重庆）股份有限公司 10% 股权，交易价格为 31.828 亿元。交易完成后， 长安汽车仍为阿维塔科技第一大股东 。 据每日经济新闻报道，阿维塔科技相关负责人透露，此次长安汽车转让其持有的 10% 股权， 与阿维塔科技 IPO 无关 。 “随着品牌进入高端化与全球化并行阶段，我们的核心诉求已从资金支持转向与产品序列、海外布局相匹配的产业资源协同。”阿维塔科技方面表示， 本次拟引入的投资方，将重点在高端品牌渠道建设、海外市场拓展等环节提供助力 。 IT之家注意到，阿维塔",
-     "source": "IT之家",
-     "zh": "长安汽车拟挂牌转让阿维塔 10% 股权，阿维塔回应称与 IPO 无关"
-    },
-    {
-     "title": "这晚，我们把200位AI创业者聚在一个罐子里",
-     "link": "https://www.huxiu.com/article/4905360.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 15:49:37 +0800",
-     "summary": "11月21日晚，我们想约200位AI创业者见一面，带上今年真正做过的决定，也带上还想找人聊聊的问题。 2026 虎嗅F&M创新节 夜间特别环节：F&M之夜&mdash;&mdash;「共识前夜」 11月21日 19:00&mdash;21:00，18:30开始签到 北京798艺术区 看看现在有哪些人决定来了 扫码进入虎嗅F&M创新节小程序，查看F&M之夜现场嘉宾名单（部分）&mdash;&mdash; 为什么叫「共识前夜」？因为遍布分歧，方向还没被认可，共识尚未形成。 我们想趁答案还没定下来，把大家约到一起。 看看彼此正在做什么，为什么这样选。至于聊完之后同不同意，可以到现场再说。 先和阳萌聊",
-     "source": "虎嗅",
-     "zh": "这晚，我们把200位AI创业者聚在一个罐子里"
-    },
-    {
-     "title": "游戏《巴士模拟器 27》上新免费 DLC，内含比亚迪 K9UD、K11U 两款电动车型",
-     "link": "https://www.ithome.com/1/026/795.htm",
-     "pubDate": "Fri, 13 Nov 2026 07:49:05 GMT",
-     "summary": "IT之家 11 月 13 日消息，驾驶模拟游戏《巴士模拟器 27》本月 12 日宣布 以免费形式推出比亚迪巴士包 。这一 DLC 包含 2 款比亚迪面向海外市场开发的纯电动客车：一般结构的 K9UD 和铰链式的 K11U。 《巴士模拟器 27》本体于 2026 年 9 月 8 日发行，定价 109 人民币，Steam 全语言总体评测“褒贬不一”、最近评测“特别好评”。 参考 https://store.steampowered.com/app/5360160/%E5%B7%B4%E5%A3%AB%E6%A8%A1%E6%8B%9F%E5%99%A8_27_%E6%AF%94%E4%BA%9A%",
-     "source": "IT之家",
-     "zh": "游戏《巴士模拟器 27》上新免费 DLC，内含比亚迪 K9UD、K11U 两款电动车型"
-    },
-    {
-     "title": "字节开始催豆包挣钱",
-     "link": "https://www.huxiu.com/article/4905374.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 15:47:27 +0800",
-     "summary": "本文来自微信公众号： 冯伟冯大白 ，作者：冯大白 10月29日，豆包工作把DeepSeek、Kimi和智谱GLM放进团队版和企业版。客户用这些模型，直接扣豆包工作账户里的AI点数，连合同都不用跟模型厂商另签。企业挑中别家的模型，仍然在字节的产品里付费。 豆包App在9月有4.19亿月活。字节眼下做出规模的AI收入，主要靠企业付费使用模型。按上半年的市场份额估算，光火山引擎的模型服务就有约48亿元。豆包工作把这门生意带进办公室。过去统计有多少人打开豆包，现在还要算有多少工作每周都得做一次，最后能不能进企业的账单。 调用量开始让位给收入 《晚点》披露，火山引擎年初还在追求更大的模型调用量，年中把商",
-     "source": "虎嗅",
-     "zh": "字节开始催豆包挣钱"
-    },
-    {
      "title": "谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动",
      "link": "https://www.tmtpost.com/8201775.html",
      "pubDate": "Fri, 13 Nov 2026 15:45:31 +0800",
@@ -1832,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "李彦宏的“下一幕”，从改变自己开始。",
      "source": "钛媒体",
      "zh": "李彦宏：不仅是预言家，还是先行者"
-    },
-    {
-     "title": "玩家开箱《GTA6》盒装实体版游戏：盒内仅含下载码与封面海报，并未提供实体地图",
-     "link": "https://www.ithome.com/1/026/792.htm",
-     "pubDate": "Fri, 13 Nov 2026 07:37:33 GMT",
-     "summary": "IT之家 11 月 13 日消息，随着《GTA6》实体版开售，目前玩家们已陆续发布各种游戏盒开箱视频，相应包装盒仅包含数字下载码和一张特殊海报。 IT之家注意到，《GTA6》盒装实体版并未提供地图，仅带有游戏封面图的放大光面印刷品海报。作为参考，《GTA》先前历代作品实体版均随附游戏地图，而对于《GTA6》玩家来说，其只能购买价值 400 美元的 Goodtime State – Vice City Collection，才能获得实体地图。 其他方面，《GTA6》游戏盒右侧仍保留传统光盘放置槽，不过其中并无光盘。游戏盒背面主要列出了游戏介绍、文件容量等信息，同时提到新的多人模式信息，不过目前对",
-     "source": "IT之家",
-     "zh": "三星 Galaxy S27 系列手机壁纸曝光：5 种颜色，折叠丝带设计吸睛"
     },
     {
      "title": "美客多墨西哥本土店入驻，3人团队排期该怎么分配才不拖垮现有店铺？",
@@ -1957,17 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Global Microsoft Outage",
      "link": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
      "pubDate": "Fri, 13 Nov 2026 06:18:23 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk Comments URL: https://news.ycombinator.com/item?id=50479098 Points: 36 # Comments: 0",
+     "summary": "Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk Comments URL: https://news.ycombinator.com/item?id=50479098 Points: 43 # Comments: 1",
      "source": "Hacker News",
      "zh": "Global Microsoft Outage"
-    },
-    {
-     "title": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO (Financial Times)",
-     "link": "https://www.techmeme.com/261113/p3#a261113p3",
-     "pubDate": "Fri, 13 Nov 2026 01:01:16 -0500",
-     "summary": "Financial Times : Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO &nbsp; &mdash;&nbsp; Nvidia-backed &lsquo;neocloud&rsquo; tells investors it must obtain additional financing to fulfil An",
-     "source": "Techmeme",
-     "zh": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO (Financial Times)"
     }
    ]
   },
@@ -1977,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "BYD admits wheel assembly error on its flagship electric SUV",
+     "link": "https://www.engadget.com/2315638/byd-wheel-assembly-error-great-tang-electric-suv/",
+     "pubDate": "Fri, 13 Nov 2026 08:12:48 +0000",
+     "summary": "The electric automaker has apologized and said it will fix the issue for affected vehicles.",
+     "source": "Engadget",
+     "zh": "BYD admits wheel assembly error on its flagship electric SUV"
+    },
+    {
+     "title": "Color OS wins over more OnePlus fans than expected in our latest poll",
+     "link": "https://www.androidauthority.com/oneplus-oxygenos-vs-coloros-poll-results-3734814/",
+     "pubDate": "Fri, 13 Nov 2026 08:10:07 +0000",
+     "summary": "OxygenOS is dead, yet the backlash to its replacement isn't nearly as bad as we expected.",
+     "source": "Android Authority",
+     "zh": "Color OS wins over more OnePlus fans than expected in our latest poll"
+    },
     {
      "title": "Meta brings Pixel-like Call for Me features to Muse for $20/month",
      "link": "https://www.androidauthority.com/meta-muse-phone-calls-us-paid-subscribers-3734830/",
@@ -2114,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "9to5Mac Daily: November 12, 2026 – OLED iPad Air rumors, MacBook Pro teardown"
     },
     {
-     "title": "Google is officially entering its ‘Hey Gemini’ era",
-     "link": "https://www.androidauthority.com/hey-gemini-3734702/",
-     "pubDate": "Thu, 12 Nov 2026 22:41:39 +0000",
-     "summary": "Support for the latest wake word arrives with Intelligent Eyewear Android XR smart glasses.",
-     "source": "Android Authority",
-     "zh": "Google is officially entering its ‘Hey Gemini’ era"
-    },
-    {
      "title": "Galaxy SmartTag 3 at $20 makes a compelling case to skip the Google Pixel Tag",
      "link": "https://9to5google.com/2026/11/12/samsungs-galaxy-smarttag-3-deal/",
      "pubDate": "Thu, 12 Nov 2026 22:05:00 +0000",
@@ -2208,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "After this week’s Carbon availability , Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.” more…",
      "source": "9to5Google",
      "zh": "Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence"
-    },
-    {
-     "title": "Ex-NVIDIA CEO Jensen Huang is set to testify before Congress this month",
-     "link": "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/",
-     "pubDate": "Thu, 12 Nov 2026 17:53:08 +0000",
-     "summary": "House Foreign Affairs Chair Brian Mast said a hearing with Jensen Huang will take place before Thanksgiving.",
-     "source": "Engadget",
-     "zh": "Ex-NVIDIA CEO Jensen Huang is set to testify before Congress this month"
     }
    ]
   },
@@ -2228,10 +2260,58 @@ window.INDUSTRY_DATA = {
     {
      "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here&apos;s what we know",
      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
-     "pubDate": "Fri, 13 Nov 2026 08:07:52 GMT",
+     "pubDate": "Fri, 13 Nov 2026 08:27:07 GMT",
      "summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
      "source": "CNBC",
      "zh": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here&apos;s what we know"
+    },
+    {
+     "title": "“这是世代级错误”“不会再买英伟达股票”！黄仁勋走了，硅谷吵翻了，Twitter前CEO预测他3年后王者归来",
+     "link": "https://wallstreetcn.com/articles/3785879",
+     "pubDate": "Fri, 13 Nov 2026 16:25:26 +0800",
+     "summary": "北京时间2026年11月12日，这一晚注定会被写进科技史。 33年前，一个亚洲面孔在硅谷的车库里创办了一家芯片公司。33年后，他亲手将这家公司送上了全球市值之巅。然后，在一个普通的周四早晨，被自己的董事会扫地出门—— 英伟达创始人黄仁勋，正式辞去CEO职务。 消息传出的那一刻，科技圈、华尔街、华盛顿，几乎所有人都停下手头的事，开始争论同一个问题： 这到底是英伟达的自救，还是一场无法挽回的历史性错误？ 有人说，这是一个时代的终结 黄仁勋传记作者斯蒂芬·维特（Stephen Witt）在CNBC上说出了很多人心里的话： \"黄仁勋就是英伟达。就像公牛队没有乔丹。我不知道他们怎么替代这个人。\" 他还讲",
+     "source": "华尔街见闻",
+     "zh": "“这是世代级错误”“不会再买英伟达股票”！黄仁勋走了，硅谷吵翻了，Twitter前CEO预测他3年后王者归来"
+    },
+    {
+     "title": "ams-OSRAM AG Non-GAAP EPS of -€0.36, revenue of €829M; gives Q4 outlook",
+     "link": "https://seekingalpha.com/news/4672162-ams-osram-ag-non-gaap-eps-of-036-revenue-of-829m-gives-q4-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 03:21:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ams-OSRAM AG Non-GAAP EPS of -€0.36, revenue of €829M; gives Q4 outlook"
+    },
+    {
+     "title": "BW LPG sells vessel BW Mistral for $104M, expects $37M book gain",
+     "link": "https://seekingalpha.com/news/4672160-bw-lpg-sells-vessel-bw-mistral-for-104m-expects-37m-book-gain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 03:21:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BW LPG sells vessel BW Mistral for $104M, expects $37M book gain"
+    },
+    {
+     "title": "创业板午后跌超3%，银行逆势拉升，光模块龙头“易中天”大跌，恒科指跌超3%，科网股集体调整",
+     "link": "https://wallstreetcn.com/articles/3785855",
+     "pubDate": "Fri, 13 Nov 2026 16:17:19 +0800",
+     "summary": "科技股的分化表现体现在英伟达黄仁勋正式辞职引发的算力链再定价——\"英伟达链\"的CPO、PCB、光模块集体下挫，而中芯国际三季报超预期支撑国产替代相对抗跌。算力芯片相对强势，寒武纪、海光信息、沐曦股份逆势上涨，寒武纪盘中更是一度涨超4%。 11月13日，A股午后加速下跌，三大股指集体走低，深市显著弱于沪市，深成指跌2%，创业板跌超3%，沪指下跌0.59%，上证50逆势涨0.1%，因银行股拉升，多只银行股创新高。此外，科创50亦跌超2%，盘中一度涨超2%。算力硬件龙头股再度下跌，“易中天”齐跌，工业富联、源杰科技、联讯仪器等领跌。，算力芯片冲高回落，寒武纪盘中一度涨超4%。石油天然气、白酒、银行、",
+     "source": "华尔街见闻",
+     "zh": "创业板午后跌超3%，银行逆势拉升，光模块龙头“易中天”大跌，恒科指跌超3%，科网股集体调整"
+    },
+    {
+     "title": "无实控人公司的“明牌”之战 | 格物致知",
+     "link": "http://www.eeo.com.cn/2026/1113/1092150.shtml",
+     "pubDate": "Fri, 13 Nov 2026 16:10:46 +0800",
+     "summary": "上市公司控制权争夺战屡见不鲜，而公司直接指认多个股东构成一致行动人并起诉到法院的情形并不常见。这可能是因为原控股股东因股票质押被平仓等原因出局后，银禧科技已经成为无实际控制人的公司。因此，即便若干持股比例不高于5%的小股东或明或暗地联系起来，也会成为一件很重要的事。",
+     "source": "经济观察网",
+     "zh": "无实控人公司的“明牌”之战 | 格物致知"
+    },
+    {
+     "title": "Marpai reports Q3 results",
+     "link": "https://seekingalpha.com/news/4672161-marpai-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 03:09:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Marpai reports Q3 results"
     },
     {
      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
@@ -2322,38 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Jaguar Mining reports Q3 results"
     },
     {
-     "title": "Compagnie Financière Richemont SA GAAP EPS of €4.29, revenue of €12.28B",
-     "link": "https://seekingalpha.com/news/4672153-compagnie-financire-richemont-sa-gaap-eps-of-429-revenue-of-1228b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 02:45:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Compagnie Financière Richemont SA GAAP EPS of €4.29, revenue of €12.28B"
-    },
-    {
-     "title": "Standard Lithium reports Q3 results",
-     "link": "https://seekingalpha.com/news/4672147-standard-lithium-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 02:44:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Standard Lithium reports Q3 results"
-    },
-    {
-     "title": "创业板午后跌超3%，银行逆势拉升，光模块龙头“易中天”大跌，恒科指跌超2%，科网股集体调整",
-     "link": "https://wallstreetcn.com/articles/3785855",
-     "pubDate": "Fri, 13 Nov 2026 15:43:30 +0800",
-     "summary": "科技股的分化表现体现在英伟达黄仁勋正式辞职引发的算力链再定价——\"英伟达链\"的CPO、PCB、光模块集体下挫，而中芯国际三季报超预期支撑国产替代相对抗跌。算力芯片相对强势，寒武纪、海光信息、沐曦股份逆势上涨，寒武纪盘中更是一度涨超4%。 11月13日，A股午后加速下跌，三大股指集体走低，深市显著弱于沪市，深成指跌2%，创业板跌超3%，沪指下跌0.59%，上证50逆势涨0.1%，因银行股拉升。此外，科创50亦跌超2%，盘中一度涨超2%。算力硬件龙头股再度下跌，“易中天”齐跌，工业富联、源杰科技、联讯仪器等领跌。AI短剧、农业、银行、白酒等板块再度拉升，算力芯片冲高回落，寒武纪盘中一度涨超4%。 ",
-     "source": "华尔街见闻",
-     "zh": "创业板午后跌超3%，银行逆势拉升，光模块龙头“易中天”大跌，恒科指跌超2%，科网股集体调整"
-    },
-    {
-     "title": "Birchcliff Energy declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4672151-birchcliff-energy-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 02:42:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Birchcliff Energy declares $0.03 dividend"
-    },
-    {
      "title": "段永平：目前不会卖出英伟达，未来黄仁勋或以“影子CEO”回归",
      "link": "https://wallstreetcn.com/articles/3785880",
      "pubDate": "Fri, 13 Nov 2026 15:34:05 +0800",
@@ -2432,22 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "A股三大指数今日集体回调，截止收盘，沪指跌0.59%，收报3634.35点；深证成指跌2.05%，收报10968.79点；创业板指跌3.32%，收报2426.08点。沪深京三市成交额1.67万亿，较昨日缩量2788亿。 行业板块多数收跌，影视院线、银行、保险板块涨幅居前，元件、 地面兵装、 稀土、非金属材料、医疗服务、小金属、玻璃玻纤板块跌幅居前。 个股方面，上涨股票数量接近800只，近40只股票涨停。影视院线板块逆市大涨，幸福蓝海20cm涨停，横店影视、中国电影、金逸影视、儒意电影涨停。 行业资金流向：13.87亿净流入 影视院线 行业资金方面，截至收盘， 影视院线 、 银行 、IT服务等净",
      "source": "东方财富资讯",
      "zh": "A股三大指数收跌 影视板块逆市大涨 银行板块走强"
-    },
-    {
-     "title": "黄仁勋丑闻发酵前，量化之王精准清仓英伟达！",
-     "link": "https://wallstreetcn.com/articles/3785873",
-     "pubDate": "Fri, 13 Nov 2026 14:56:56 +0800",
-     "summary": "量化投资巨头文艺复兴科技（Renaissance Technologies）第三季度大幅调整股票组合，在英伟达丑闻发酵前，就早已几乎清仓该股，同时大举增持美光科技、AMD及闪迪。 根据最新提交的13F文件，截至9月30日， 文艺复兴科技持有的英伟达股票从第二季度末的709万股降至2.317万股，减持99.7%。Meta持股则从202万股降至1577股，减持99.9%，两家公司的持仓几乎被清空。 与大幅削减英伟达形成鲜明对比的是， 文艺复兴科技将美光持股增加618.7%至152万股，期末持仓市值约16.2亿美元。 AMD持股增加140.5%至近200万股，持仓价值约12.1亿美元，闪迪持股也大幅",
-     "source": "华尔街见闻",
-     "zh": "黄仁勋丑闻发酵前，量化之王精准清仓英伟达！"
-    },
-    {
-     "title": "江西省博物馆：江南赣鄱文明的史诗",
-     "link": "http://www.eeo.com.cn/2026/1113/1092002.shtml",
-     "pubDate": "Fri, 13 Nov 2026 14:36:05 +0800",
-     "summary": "若论其学术价值的巅峰，新干大洋洲遗址的发现，毫无疑问是博物馆最核心的叙事地标。这一遗址的横空出世，彻底改变了学术界对于长江流域早期文明格局的认知。",
-     "source": "经济观察网",
-     "zh": "江西省博物馆：江南赣鄱文明的史诗"
     },
     {
      "title": "Value Nvidia, not Huang",

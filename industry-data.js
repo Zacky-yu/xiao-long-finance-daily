@@ -450,6 +450,14 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -1434,14 +1442,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15 to attempt first catch of both stages",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history… The post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15 to attempt first catch of both stages"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1482,14 +1482,6 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
-     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1522,20 +1514,12 @@ window.INDUSTRY_DATA = {
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
     },
     {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
-    },
-    {
-     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
-     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
+     "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+     "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
+     "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
+     "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
+     "source": "Spaceflight Now",
+     "zh": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
     }
    ]
   },

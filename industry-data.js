@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/13 15:11:50",
+ "generated_at": "2026/11/13 15:31:55",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Anthropic新AI红客来了！只用人类1/235的请求量，就找到严重漏洞",
+     "link": "https://zhidx.com/p/610115.html",
+     "pubDate": "Fri, 13 Nov 2026 12:16:10 +0800",
+     "summary": "智东西 编译 | 黄菲 编辑 | 江宇 智东西11月13日消息，今日，Anthropic公布了一套名为Anvil的自动化红队测试系统。该系统基于Claude构建，能够自主寻找模型安全防护机制中的漏洞，并在生物安全、网络安全和信息安全三个领域展开测试。Anthropic称，Anvil在多项测试中的表现已经超过人类红队测试人员，部分漏洞发现速度从数周缩短至数小时。 ▲Anthropic官方技术博文。来源：Anthropic 随后，Anthropic安全与AI安全研究员Javier Rando也在X平台发文介绍了这项工作，并感谢了Anthropic官方技术文章列出的前三位共同作者Nate Rahn、",
+     "source": "智东西",
+     "zh": "Anthropic新AI红客来了！只用人类1/235的请求量，就找到严重漏洞"
+    },
     {
      "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
      "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
@@ -122,12 +130,28 @@ window.INDUSTRY_DATA = {
      "zh": "北京国际科幻与未来产业博览会定档！2027年3月启幕"
     },
     {
+     "title": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit",
+     "link": "https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit",
+     "pubDate": "Thu, 12 Nov 2026 15:00:00 +0000",
+     "summary": "Learn how graph-enhanced RAG connects related facts that plain vector search misses, then build a multi-hop research assistant with AWS Labs' open-source graphrag-toolkit, Neo4j, and pgvector.",
+     "source": "KDnuggets",
+     "zh": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit"
+    },
+    {
      "title": "突发！黄仁勋辞职，英伟达CEO换人",
      "link": "https://zhidx.com/p/610028.html",
      "pubDate": "Thu, 12 Nov 2026 22:29:24 +0800",
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月12日报道，刚刚，英伟达董事会宣布，黄仁勋已辞去总裁、CEO和董事会成员职务，立即生效。 根据公告，英伟达现任执行副总裁兼CFO 科莱特·克雷斯 （Colette Kress）已同意担任临时CEO。 在任命正式继任者之前，克雷斯将继续担任执行副总裁兼CFO。 英伟达董事会已启动正式CEO的遴选工作，并将考虑内部和外部候选人。 自2013年9月加入英伟达以来，克雷斯一直担任执行副总裁兼CFO。任职期间，她领导了公司的财务团队，并在英伟达的成长和发展中发挥了关键作用。 加入英伟达之前，克雷斯曾在思科和微软等领先的科技公司担任财务职务近25年。",
      "source": "智东西",
      "zh": "突发！黄仁勋辞职，英伟达CEO换人"
+    },
+    {
+     "title": "7 FREE Books to Learn About Building AI Systems",
+     "link": "https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems",
+     "pubDate": "Thu, 12 Nov 2026 13:00:00 +0000",
+     "summary": "Building an AI agent is easy. Building one that actually works in production is not. These 7 free books cover the engineering knowledge you need to make that jump.",
+     "source": "KDnuggets",
+     "zh": "7 FREE Books to Learn About Building AI Systems"
     },
     {
      "title": "B2A崛起！Agent 14大应用与Infra赛道一文看懂",
@@ -210,14 +234,6 @@ window.INDUSTRY_DATA = {
      "zh": "Holiday Extras is rethinking what it can build with Codex"
     },
     {
-     "title": "20万台年产能！北京发具身智能十九条，新增50000P专项算力",
-     "link": "https://zhidx.com/p/609903.html",
-     "pubDate": "Thu, 12 Nov 2026 17:17:27 +0800",
-     "summary": "▲图片由AI生成 智东西 作者 | 李水青 编辑 | 心缘 智东西11月12日消息，11月11日，北京市经济和信息化局发布《北京市具身智能机器人产业高质量发展行动方案（2026-2028年）》（以下简称《行动方案》）。 ▲《行动方案》发布公告 《行动方案》提出，到2028年，北京力争要培育不少于 5家 国际一流、 10家 国内领先的人形机器人整机企业；京津冀区域整机产能占全国 25% ，关键零部件配套率超过 60% ；并提出构建安全治理体系等目标，冲刺国际一流水平。 《行动方案》将重点实施具身智能跃升、京津冀产业链协进、技术创新策源、规模应用推广、产业生态引领、安全治理先行 六大工程 ，覆盖“",
-     "source": "智东西",
-     "zh": "20万台年产能！北京发具身智能十九条，新增50000P专项算力"
-    },
-    {
      "title": "IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits",
      "link": "https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/",
      "pubDate": "Thu, 12 Nov 2026 08:42:21 +0000",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "老黄出轨认错、再曝婚外恋",
      "source": "量子位",
      "zh": "马斯克已准备好聘请黄仁勋"
-    },
-    {
-     "title": "250名三甲医生输给中国AI！引发中美医疗权威热议",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742394&idx=1&sn=578bf5c6b8b6e59b99b01953e0c3f53a",
-     "pubDate": "Thu, 12 Nov 2026 12:34:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "250名三甲医生输给中国AI！引发中美医疗权威热议"
-    },
-    {
-     "title": "谷歌发布首个决策模型！输出全免费，百万Token低至0.1美元",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742394&idx=2&sn=0553a73ecdae11a616eb6a7896eea195",
-     "pubDate": "Thu, 12 Nov 2026 12:34:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "谷歌发布首个决策模型！输出全免费，百万Token低至0.1美元"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Rinnai launches new residential heat pump water heaters",
+     "link": "https://www.pv-magazine.com/2026/11/13/rinnai-launches-new-residential-heat-pump-water-heaters/",
+     "pubDate": "Fri, 13 Nov 2026 07:14:16 +0000",
+     "summary": "Japanese heating equipment manufacturer Rinnai has introduced a new range of residential heat pump water heaters for the US market. The REHPW series is available in three storage capacities of 189 liters, 246 liters and 303 liters, with a uniform energy factor (UEF) of up to 4.0. The systems use R13",
+     "source": "pv magazine",
+     "zh": "Rinnai launches new residential heat pump water heaters"
+    },
+    {
      "title": "Ecuador scraps two taxes on solar equipment and energy storage systems",
      "link": "https://www.pv-magazine.com/2026/11/13/ecuador-scraps-two-taxes-on-solar-equipment-and-energy-storage-systems/",
      "pubDate": "Fri, 13 Nov 2026 06:54:08 +0000",
@@ -1048,14 +1056,6 @@ window.INDUSTRY_DATA = {
      "summary": "SMA Solar has narrowed its full-year guidance for 2026 towards the upper half of its previously raised range after reporting improved financial results for the first nine months of 2026.",
      "source": "PV Tech",
      "zh": "SMA Solar narrows 2026 guidance off strong nine-month performance"
-    },
-    {
-     "title": "Octopus aims to mobilize $600 million for Asian renewables",
-     "link": "https://www.pv-magazine.com/2026/11/12/octopus-aims-to-mobilize-600-million-for-asian-renewables/",
-     "pubDate": "Thu, 12 Nov 2026 14:15:00 +0000",
-     "summary": "Octopus Energy has launched an Asia fund whose first investment backs a Manila developer targeting 450 MW of solar and 350 MWh of battery storage by 2030. The post Octopus aims to mobilize $600 million for Asian renewables appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Octopus aims to mobilize $600 million for Asian renewables"
     },
     {
      "title": "Data centers could lower your electricity bill. Will utilities let them?",
@@ -1762,6 +1762,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them (Jessica Lyons/The Register)",
+     "link": "https://www.techmeme.com/261113/p5#a261113p5",
+     "pubDate": "Fri, 13 Nov 2026 02:25:02 -0500",
+     "summary": "Jessica Lyons / The Register : OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them &nbsp; &mdash;&nbsp; OpenAI has launched two new security products, one for penetration testing and another for de",
+     "source": "Techmeme",
+     "zh": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them (Jessica Lyons/The Register)"
+    },
+    {
+     "title": "95后卡牌少年，白手起家，买了一家上市公司",
+     "link": "https://www.huxiu.com/article/4905366.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 15:20:41 +0800",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：陈浩 协议可以在一天内签完，收藏需要时间来证明，运营一家上市公司也一样。 11月9日，一份《股份转让协议》把两个毫不相干的生意联系到了一起。 光伏玻璃上市公司亚玛顿的控股股东拟将20%的股份，转让给上海骑形网络，总价6.8亿元，而后者是一家潮玩卡牌公司。交易完成后，骑形网络将成为控股股东，其创始人赵云鹏将成为实际控制人。 资本市场迅速给出反应。11月10日，亚玛顿复牌涨停，此后两日继续涨停。加上停牌前的一个涨停板，已走出四连板。截至11月12日，公司股价25.66元，市值49.54亿元。停牌前，这个数字约为37亿元。 买方和卖方看上去很难同桌“吃饭",
+     "source": "虎嗅",
+     "zh": "95后卡牌少年，白手起家，买了一家上市公司"
+    },
+    {
+     "title": "尼日利亚海外仓备货，回款周期拖到45天，周转怎么算才不亏？",
+     "link": "https://www.baijing.cn/question/638711",
+     "pubDate": "Fri, 13 Nov 2026 07:17:21 +0000",
+     "summary": "拉各斯海外仓这批货压了快两个月：本地支付网关结算T+7到T+14，但实际到账经常拖到30-45天，叠加清关和尾程派送，一笔货款从出库到回款接近60天。我们做3C配件，团队8人，刚起量阶段，月备货预算大概15万人民币，用的是Paystack收款加本地第三方仓。现在的问题是备货周转率算下来只有2.1次/年，但账期占用的现金流已经吃掉毛利的三成。试过缩短备货周期到30天、也试过让客户预付一部分，但转化率掉了12%。卡在不知道该怎么在回款不确定的情况下定安全库存和补货节奏。这种情况下备货周转的安全阈值到底按回款天数还是按动销天数来定？",
+     "source": "白鲸出海",
+     "zh": "尼日利亚海外仓备货，回款周期拖到45天，周转怎么算才不亏？"
+    },
+    {
+     "title": "肯尼亚 M-Pesa 收款对接后回款要 3 天，是正常还是我们被卡了？",
+     "link": "https://www.baijing.cn/question/638710",
+     "pubDate": "Fri, 13 Nov 2026 07:10:10 +0000",
+     "summary": "做东非跨境电商，主发肯尼亚，团队 6 人，月 GMV 约 4 万美元，刚起量阶段。M-Pesa 收款通过 Daraja API 对接了 STK Push，用户付款成功率只有 62%，失败集中在 Safaricom 侧超时；更头疼的是钱先进了本地聚合商账户，结算到我们香港公司要 T+3 到 T+5，而物流端内罗毕尾程妥投平均 5 天，等于回款周期比履约还慢。已经试过换两家本地支付服务商、把 STK Push 超时重试从 1 次加到 3 次，成功率只涨了 5 个点。现在卡在不知道是 Daraja 的 shortcode 权限问题，还是聚合商清算环节压款。想直接问：肯尼亚 M-Pesa 商户号直连和",
+     "source": "白鲸出海",
+     "zh": "肯尼亚 M-Pesa 收款对接后回款要 3 天，是正常还是我们被卡了？"
+    },
+    {
+     "title": "权益之路为何没有越走越宽？",
+     "link": "https://www.huxiu.com/article/4905363.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 15:07:45 +0800",
+     "summary": "本文来自微信公众号： 过客财经 ，作者：DBS路人甲 先看一组不算陌生的数字。2006年末，公募基金权益类资产规模约7353.37亿元；到2026年三季末，股混基金规模合计约8.91万亿元，二季末一度到过9.72万亿元。二十年，十倍增长，没人能否认公募基金在权益上取得的成绩。 但规模是规模，结构是结构。权益基金当年占全部基金资产净值的85.86%，2007年末更冲到89.80%；如今，债券基金约12.67万亿元、货币基金约15.80万亿元，固收合计占公募总规模39.30万亿元的七成以上，权益占比已经不足四分之一。路修长了，走的人反而少了。 /规模涨了十倍，占比却退回四分之一/ 如果只站在公募行",
+     "source": "虎嗅",
+     "zh": "权益之路为何没有越走越宽？"
+    },
+    {
      "title": "李小龙谈华为首个动态血糖仪“维感 G1”：开发周期最长的一款产品，首次佩戴至今已 35 个月",
      "link": "https://www.ithome.com/1/026/755.htm",
      "pubDate": "Fri, 13 Nov 2026 07:03:32 GMT",
@@ -1898,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "南亚买量CPI涨到0.12美元，休闲手游还能靠激励视频回本吗？"
     },
     {
-     "title": "打倒“骑墙派”黄仁勋",
-     "link": "https://www.huxiu.com/article/4905354.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 14:40:01 +0800",
-     "summary": "本文来自微信公众号： 数字力场 ，作者：佘宗明，原文标题：《打倒「骑墙派」黄仁勋》 黄仁勋的困局根源就在于此：到处都是革命派，他却是个想走「修正主义路线」的骑墙派。 作家诺曼·马内阿曾说过：随着新秩序的统治力的扩张，你能灵活机动地使用的灰色地带会变得更加有限，常态的飞地也是如此。 「AI教父」黄仁勋的「因罗曼蒂克而消亡史」，就让我想起了这段话。 「新秩序扩张」和「灰色地带受限」，也许是理解黄仁勋此次危机的题眼。 01/ 秦二世未必「必须死」，但黄仁勋非「死」不可。 他本来有一万个理由不用「死」。 比如，没有黄仁勋，就没有英伟达，没有英伟达，未必有美国在芯片战争中的制霸权。 在黄仁勋辞职后，硅谷",
-     "source": "虎嗅",
-     "zh": "打倒“骑墙派”黄仁勋"
-    },
-    {
      "title": "德国站VAT递延后，清关时效从3天拖到9天，回款周期怎么算？",
      "link": "https://www.baijing.cn/question/638707",
      "pubDate": "Fri, 13 Nov 2026 06:33:30 +0000",
@@ -1922,14 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Samsung is in talks to buy Modine Manufacturing, a US maker of data center cooling systems, as soon as the coming weeks; Modine&apos;s market value is $5.6B (Bloomberg)"
     },
     {
-     "title": "黄仁勋离职，存储芯片巨头的生意会变吗？",
-     "link": "https://www.huxiu.com/article/4905348.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 14:21:24 +0800",
-     "summary": "本文来自微信公众号： 芯世相 ，作者：李在林 台媒报道，英伟达CEO黄仁勋辞去CEO一职，或牵动台韩供应链。有分析指出其真正的变数在于尚处投资初期的AI工厂、机器人及自动驾驶业务计划。 Omdia首席分析师苏廉节警告，若英伟达执行速度放慢或产品蓝图不再明确，竞争对手将获得更多追赶空间。韩国企业可能必须分散半导体客户，中国台湾供应链也得重新评估产能扩张节奏。 这一变局对亚洲半导体供应链意味着什么？韩国媒体从SK海力士和三星的角度进行了分析，我们也结合其他报道，对相关影响作了进一步梳理。 11月12日（当地时间），黄仁勋辞去了他共同创立的英伟达的所有职务，包括总裁、CEO和董事会成员，董事会任命首",
-     "source": "虎嗅",
-     "zh": "黄仁勋离职，存储芯片巨头的生意会变吗？"
-    },
-    {
      "title": "韩国上线前被GRAC退回两次，备货节奏该怎么排？",
      "link": "https://www.baijing.cn/question/638706",
      "pubDate": "Fri, 13 Nov 2026 06:21:13 +0000",
@@ -1938,20 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "韩国上线前被GRAC退回两次，备货节奏该怎么排？"
     },
     {
-     "title": "北美手游买量素材两周衰减四成，素材供应链怎么排产？",
-     "link": "https://www.baijing.cn/question/638705",
-     "pubDate": "Fri, 13 Nov 2026 06:09:59 +0000",
-     "summary": "我们做北美休闲SLG手游，团队12人，月投放预算约8万美元，主要跑Meta和Google UGC，AppLovin做补充。素材工厂按每周12条排产，但最近两轮测试发现新素材上线第3天CTR还有1.8%，到第14天掉到1.0%左右，CPI从2.4美元涨到3.6美元，等于一半产能砸在已经衰减的素材上。目前是策划提需求、外包剪辑、投放侧再改，周期要9天，根本追不上衰减速度。备货上不敢一次压太多，怕做出来跑不动全砸手里；退货就是素材直接作废，上个月废了30多条。想请教素材供应链到底该按什么节奏排产和淘汰？",
-     "source": "白鲸出海",
-     "zh": "北美手游买量素材两周衰减四成，素材供应链怎么排产？"
-    },
-    {
-     "title": "三年亏5.7亿的“太空AI第一股”，上市首日破发了",
-     "link": "https://www.tmtpost.com/8204205.html",
-     "pubDate": "Fri, 13 Nov 2026 14:03:25 +0800",
-     "summary": "高增长的卫星赛道，能否支撑起一只持续失血的百亿独角兽？",
-     "source": "钛媒体",
-     "zh": "三年亏5.7亿的“太空AI第一股”，上市首日破发了"
+     "title": "Global Microsoft Outage",
+     "link": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+     "pubDate": "Fri, 13 Nov 2026 06:18:23 +0000",
+     "summary": "Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk Comments URL: https://news.ycombinator.com/item?id=50479098 Points: 15 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Global Microsoft Outage"
     },
     {
      "title": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO (Financial Times)",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
      "source": "WIRED",
      "zh": "Peacock Promo Codes: 40% Off November 2026"
-    },
-    {
-     "title": "LG Promo Codes and Coupons for November 2026",
-     "link": "https://www.wired.com/story/lg-promo-code/",
-     "pubDate": "Fri, 13 Nov 2026 06:00:00 +0000",
-     "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-     "source": "WIRED",
-     "zh": "LG Promo Codes and Coupons for November 2026"
-    },
-    {
-     "title": "Western Digital Promo Code: 15% Off",
-     "link": "https://www.wired.com/story/western-digital-promo-code/",
-     "pubDate": "Fri, 13 Nov 2026 06:00:00 +0000",
-     "summary": "Get 15% off your first order at Western Digital when you register your email.",
-     "source": "WIRED",
-     "zh": "Western Digital Promo Code: 15% Off"
     }
    ]
   },
@@ -2258,52 +2258,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+     "pubDate": "Fri, 13 Nov 2026 07:26:19 GMT",
+     "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+     "source": "CNBC",
+     "zh": "Widespread Microsoft outage takes down Outlook and other 365 services"
+    },
+    {
+     "title": "Innventure outlines ~$3.2M quarterly parent-level cash expense target as strategic review evaluates liquidity options",
+     "link": "https://seekingalpha.com/news/4672144-innventure-outlines-3_2m-quarterly-parent-level-cash-expense-target-as-strategic-review?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 02:20:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innventure outlines ~$3.2M quarterly parent-level cash expense target as strategic review evaluates liquidity options"
+    },
+    {
+     "title": "Digital Realty Trust, 5.850% Cum Red Pfd Series K declares $1.22 dividend",
+     "link": "https://seekingalpha.com/news/4672143-digital-realty-trust-5_850-percent-cum-red-pfd-series-k-declares-1_22-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 02:18:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Digital Realty Trust, 5.850% Cum Red Pfd Series K declares $1.22 dividend"
+    },
+    {
+     "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+     "pubDate": "Fri, 13 Nov 2026 07:15:01 GMT",
+     "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
+     "source": "CNBC",
+     "zh": "Why Singapore keeps turning up in the fight over Nvidia chips and China"
+    },
+    {
+     "title": "Adams Natural Resources Fund declares $0.84 dividend",
+     "link": "https://seekingalpha.com/news/4672142-adams-natural-resources-fund-declares-0_84-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 02:14:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Adams Natural Resources Fund declares $0.84 dividend"
+    },
+    {
+     "title": "Adams Diversified Equity Fund declares $0.56 dividend",
+     "link": "https://seekingalpha.com/news/4672141-adams-diversified-equity-fund-declares-0_56-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 02:11:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Adams Diversified Equity Fund declares $0.56 dividend"
+    },
+    {
+     "title": "Alliance Entertainment anticipates Best Buy music test could expand to 100 to 300 stores in 2027",
+     "link": "https://seekingalpha.com/news/4672140-alliance-entertainment-anticipates-best-buy-music-test-could-expand-to-100-to-300-stores-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 02:09:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alliance Entertainment anticipates Best Buy music test could expand to 100 to 300 stores in 2027"
+    },
+    {
      "title": "Federal Agricultural Mortgage Corporation 6.875 NON CUM PF declares $0.4297 dividend",
      "link": "https://seekingalpha.com/news/4672139-federal-agricultural-mortgage-corporation-6875-non-cum-pf-declares-04297-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 13 Nov 2026 02:03:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Federal Agricultural Mortgage Corporation 6.875 NON CUM PF declares $0.4297 dividend"
-    },
-    {
-     "title": "Federal Agricultural Mortgage Corporation 6.5 NON CUM SR H declares $0.4063 dividend",
-     "link": "https://seekingalpha.com/news/4672138-federal-agricultural-mortgage-corporation-65-non-cum-sr-h-declares-04063-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 02:02:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Federal Agricultural Mortgage Corporation 6.5 NON CUM SR H declares $0.4063 dividend"
-    },
-    {
-     "title": "Federal Agricultural Mortgage Corporation 5.25 NCUM PFD F declares $0.3281 dividend",
-     "link": "https://seekingalpha.com/news/4672137-federal-agricultural-mortgage-corporation-525-ncum-pfd-f-declares-03281-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 02:01:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Federal Agricultural Mortgage Corporation 5.25 NCUM PFD F declares $0.3281 dividend"
-    },
-    {
-     "title": "Federal Agricultural Mortgage Corporation 5.750 NCUM PFD E declares $0.3594 dividend",
-     "link": "https://seekingalpha.com/news/4672136-federal-agricultural-mortgage-corporation-5750-ncum-pfd-e-declares-03594-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 02:00:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Federal Agricultural Mortgage Corporation 5.750 NCUM PFD E declares $0.3594 dividend"
-    },
-    {
-     "title": "Caliber projects $15M-$17M 2026 revenue as financing delays push expected closings into 2027",
-     "link": "https://seekingalpha.com/news/4672134-caliber-projects-15m-17m-2026-revenue-as-financing-delays-push-expected-closings-into-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 02:00:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Caliber projects $15M-$17M 2026 revenue as financing delays push expected closings into 2027"
-    },
-    {
-     "title": "Federal Agricultural Mortgage Corporation 4.875% NON CUMULATIVE PREF STOCK SR G declares $0.3047 dividend",
-     "link": "https://seekingalpha.com/news/4672135-federal-agricultural-mortgage-corporation-4875-non-cumulative-pref-stock-sr-g-declares-03047-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 02:00:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Federal Agricultural Mortgage Corporation 4.875% NON CUMULATIVE PREF STOCK SR G declares $0.3047 dividend"
     },
     {
      "title": "黄仁勋丑闻发酵前，量化之王精准清仓英伟达！",
@@ -2322,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿”"
     },
     {
-     "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-     "pubDate": "Fri, 13 Nov 2026 06:42:27 GMT",
-     "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-     "source": "CNBC",
-     "zh": "Widespread Microsoft outage takes down Outlook and other 365 services"
-    },
-    {
      "title": "江西省博物馆：江南赣鄱文明的史诗",
      "link": "http://www.eeo.com.cn/2026/1113/1092002.shtml",
      "pubDate": "Fri, 13 Nov 2026 14:36:05 +0800",
@@ -2344,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "美联储\"三把手\"、纽约联储主席威廉姆斯（John Williams）发出鹰派信号，明确表示通胀依然过高，货币政策调整仍有工作要做，并强调需要采取进一步行动以确保通胀及时且持续回落至2%目标。 据彭博11月13日报道，威廉姆斯当地时间周四（11月12日）晚间在纽约的一场活动上表示， “通胀水平过高，最新数据依然显示通胀居高不下。” 他进一步指出，“随着时间的推移，我们需要采取行动，确保通胀及时且持续地回落至我们2%的目标。”他同时强调， “在将货币政策调整至合适位置方面，我们仍有许多工作要做。” 威廉姆斯此番表态较此前更为明确。 此前他曾表示支持美联储先收集信息再确定政策立场，而此次讲话则进一步",
      "source": "华尔街见闻",
      "zh": "美联储三把手“放鹰”：通胀仍过高，需采取行动使通胀及时回到2%"
-    },
-    {
-     "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
-     "pubDate": "Fri, 13 Nov 2026 06:34:07 GMT",
-     "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
-     "source": "CNBC",
-     "zh": "Why Singapore keeps turning up in the fight over Nvidia chips and China"
     },
     {
      "title": "Value Nvidia, not Huang",

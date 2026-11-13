@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 06:52:02",
+ "generated_at": "2026/11/14 07:12:05",
  "recent_days": 7,
  "industries": [
   {
@@ -449,14 +449,6 @@
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -495,6 +487,14 @@
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Iran Braces for a Budget Without Oil Revenue",
+     "link": "https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html",
+     "pubDate": "Fri, 13 Nov 2026 17:00:00 -0600",
+     "summary": "Iran is drafting next year’s budget under the premise that oil revenue could fall to zero, with senior budget official Mohammad Ghasemi telling the government on Monday to prepare for that scenario, as the country appears to be weeks away from that eventuality. Iran has loaded no crude since August ",
+     "source": "OilPrice",
+     "zh": "Iran Braces for a Budget Without Oil Revenue"
+    },
+    {
+     "title": "Your Holiday Gifts Don’t Have To Be Delivered By Diesel",
+     "link": "https://cleantechnica.com/2026/11/13/your-holiday-gifts-dont-have-to-be-delivered-by-diesel/",
+     "pubDate": "Fri, 13 Nov 2026 22:50:24 +0000",
+     "summary": "The 2026 holiday shopping season is soon to be upon us, with gift buyers and bargain hunters perusing stores in person and online. Behind the scenes, the US freight system has been working hard to transport the goods and gifts, traveling mostly by truck as they make their way through ... [continued]",
+     "source": "CleanTechnica",
+     "zh": "Your Holiday Gifts Don’t Have To Be Delivered By Diesel"
+    },
+    {
      "title": "Ask a Scientist: Who Has a Voice in Clean Air Protections?",
      "link": "https://cleantechnica.com/2026/11/13/ask-a-scientist-who-has-a-voice-in-clean-air-protections/",
      "pubDate": "Fri, 13 Nov 2026 22:38:11 +0000",
@@ -905,14 +921,6 @@
      "zh": "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record"
     },
     {
-     "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
-     "pubDate": "Fri, 13 Nov 2026 11:30:00 -0600",
-     "summary": "Iraq’s crude oil production hit 4.6 million barrels per day (bpd) in October, the highest since 2019, data from the International Energy Agency’s monthly report showed on Friday, as OPEC’s second-largest producer hiked output by 540,000 bpd from September. Kuwait and Saudi Arabia also boosted their ",
-     "source": "OilPrice",
-     "zh": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge"
-    },
-    {
      "title": "Utility, tech officials see opportunities to increase grid utilization",
      "link": "https://www.utilitydive.com/news/utility-tech-officials-see-opportunities-to-increase-grid-utilization/874644/",
      "pubDate": "Fri, 13 Nov 2026 12:26:00 -0500",
@@ -924,7 +932,7 @@
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -975,14 +983,6 @@
      "summary": "Tesla is an interesting company at an interesting phase of the electric vehicle transition. Well, it has always been an interesting company in this transition. However, lately, as the industry has moved quickly into a new phase, I have been wondering where Tesla will sit amidst it in the coming ... ",
      "source": "CleanTechnica",
      "zh": "Is Tesla The Apple Of The EV Industry?"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1433,6 +1433,14 @@
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15 to attempt first catch of both stages",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history… The post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15 to attempt first catch of both stages"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1473,6 +1481,14 @@
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1505,12 +1521,20 @@
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
     },
     {
-     "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
-     "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
-     "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
-     "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
-     "source": "Spaceflight Now",
-     "zh": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
+    },
+    {
+     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
+     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     }
    ]
   },
@@ -1737,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "一小时10元，她把自己卖给机器人",
+     "link": "https://www.huxiu.com/article/4905184.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 07:00:03 +0800",
+     "summary": "出品｜虎嗅科技组 作者｜易玉琴 编辑｜苗正卿 头图｜AI 生成 10元一小时，张莉（化名）把自己&ldquo;蒸馏&rdquo;了。 她是制衣厂的一名缝纫工。几个月前，工厂给工人们发了一套新设备，外形有点像头灯，通过绑带固定在头部，前端装着一个小型摄像头。 厂里说，只要戴着它正常上班，每小时就能额外获得10元补贴。 张莉没多想。工作还是原来的工作，只是头上多了个东西，戴久了有些累，但好歹能多挣点钱。 很快，厂里几乎所有工人都戴上了设备。缝纫机照常运转，工人们每天重复着铺平布料、翻折、缝合等动作，只是这一切，如今都被头顶的摄像头记录下来。 他们只知道，自己多了一笔收入。至于这些视频最终会流向哪里",
+     "source": "虎嗅",
+     "zh": "一小时10元，她把自己卖给机器人"
+    },
+    {
+     "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+     "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+     "pubDate": "Fri, 13 Nov 2026 23:00:00 +0000",
+     "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+     "source": "TechCrunch",
+     "zh": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price"
+    },
+    {
      "title": "美国突发全国性航班停飞：8000 架次延误 + 3100 架飞机在空中，FBI 初步排除网络攻击",
      "link": "https://www.ithome.com/1/026/999.htm",
      "pubDate": "Fri, 13 Nov 2026 22:43:32 GMT",
@@ -1753,12 +1793,28 @@
      "zh": "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人"
     },
     {
+     "title": "Claude Meetings",
+     "link": "https://claude.com/resources/articles/claude-meetings",
+     "pubDate": "Fri, 13 Nov 2026 22:39:15 +0000",
+     "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 15 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Claude Meetings"
+    },
+    {
      "title": "Best Early Black Friday AirPods Deals (2026)",
      "link": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
      "pubDate": "Fri, 13 Nov 2026 22:30:29 +0000",
      "summary": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
      "source": "WIRED",
      "zh": "Best Early Black Friday AirPods Deals (2026)"
+    },
+    {
+     "title": "Home Assistant: the password is not the key – token secrets in cleartext",
+     "link": "https://seclists.org/fulldisclosure/2026/Nov/34",
+     "pubDate": "Fri, 13 Nov 2026 22:30:10 +0000",
+     "summary": "Article URL: https://seclists.org/fulldisclosure/2026/Nov/34 Comments URL: https://news.ycombinator.com/item?id=50490967 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Home Assistant: the password is not the key – token secrets in cleartext"
     },
     {
      "title": "Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn&apos;t believe it was due to a cyberattack or criminality (Myles Miller/Bloomberg)",
@@ -1772,7 +1828,7 @@
      "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
      "link": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
      "pubDate": "Fri, 13 Nov 2026 22:16:11 +0000",
-     "summary": "Article URL: https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage Comments URL: https://news.ycombinator.com/item?id=50490778 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage Comments URL: https://news.ycombinator.com/item?id=50490778 Points: 32 # Comments: 4",
      "source": "Hacker News",
      "zh": "National Weather Service reports nationwide radar website outage amid FAA stop"
     },
@@ -1788,7 +1844,7 @@
      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
      "link": "https://orcasairband.com/",
      "pubDate": "Fri, 13 Nov 2026 22:04:24 +0000",
-     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 33 # Comments: 11",
+     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 46 # Comments: 18",
      "source": "Hacker News",
      "zh": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped"
     },
@@ -1836,7 +1892,7 @@
      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
      "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
      "pubDate": "Fri, 13 Nov 2026 21:08:49 +0000",
-     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 84 # Comments: 25",
+     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 89 # Comments: 25",
      "source": "Hacker News",
      "zh": "FAA issues nationwide ground stop due to \"extraordinary circumstances\""
     },
@@ -1844,17 +1900,9 @@
      "title": "All US airports are currently ground stopped",
      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
      "pubDate": "Fri, 13 Nov 2026 21:06:52 +0000",
-     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 99 # Comments: 22",
+     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 106 # Comments: 23",
      "source": "Hacker News",
      "zh": "All US airports are currently ground stopped"
-    },
-    {
-     "title": "FAA Issues National Ground Stop",
-     "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-     "pubDate": "Fri, 13 Nov 2026 21:05:53 +0000",
-     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111 Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 786 # Comments: 446",
-     "source": "Hacker News",
-     "zh": "FAA Issues National Ground Stop"
     },
     {
      "title": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump&apos;s name to get license approvals expedited (Semafor)",
@@ -1863,14 +1911,6 @@
      "summary": "Semafor : How Nvidia used a &ldquo;scorched earth, adversarial attitude&rdquo; targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited &nbsp; &mdash;&nbsp; THE SCOOP&nbsp; &mdash;&nbsp; In January, the general counsel for what was then the world's most",
      "source": "Techmeme",
      "zh": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump&apos;s name to get license approvals expedited (Semafor)"
-    },
-    {
-     "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-     "link": "https://atg.science/careers",
-     "pubDate": "Fri, 13 Nov 2026 21:01:11 +0000",
-     "summary": "Article URL: https://atg.science/careers Comments URL: https://news.ycombinator.com/item?id=50489589 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth"
     },
     {
      "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
@@ -1959,22 +1999,6 @@
      "summary": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
      "source": "WIRED",
      "zh": "The Microsoft Outage Is a Warning for the World"
-    },
-    {
-     "title": "旅行者 1 号距离地球的距离达到一光日",
-     "link": "https://www.solidot.org/story?sid=85883",
-     "pubDate": "Sat, 14 Nov 2026 01:14:47 +0800",
-     "summary": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连续两次未能收到探测器预期发出的信号。直到 20 日，信号才重新出现，异常原因仍在调查中。对于一艘运行近半个世纪的探测器而言，设备老化始终是地面团队面临的挑战。旅",
-     "source": "Solidot",
-     "zh": "旅行者 1 号距离地球的距离达到一光日"
-    },
-    {
-     "title": "非洲加速发展太阳能",
-     "link": "https://www.solidot.org/story?sid=85882",
-     "pubDate": "Sat, 14 Nov 2026 01:07:22 +0800",
-     "summary": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures Lab 研究总监 Joel Nana 表示，我们正见证一场自下而上的革命。多种因素共同推动了非洲太阳能的普及：光伏电池板成本的下降、市电供应的不稳定性、日益加剧的",
-     "source": "Solidot",
-     "zh": "非洲加速发展太阳能"
     }
    ]
   },
@@ -1984,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
+     "link": "https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/",
+     "pubDate": "Fri, 13 Nov 2026 23:00:00 +0000",
+     "summary": "Software used to be a one-time purchase, but over time, with the addition of cloud storage and services, everything has become a subscription. One company even tried to make your car seat heaters a subscription . Count the subscriptions you’re paying for right now: iCloud, a password manager, a coup",
+     "source": "9to5Mac",
+     "zh": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue"
+    },
+    {
+     "title": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
+     "link": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/",
+     "pubDate": "Fri, 13 Nov 2026 22:50:13 +0000",
+     "summary": "The box was already for decoration, and now maybe more so.",
+     "source": "Engadget",
+     "zh": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box"
+    },
     {
      "title": "Motorola Razr 50 Ultra's Android 17 update becomes available in Europe, with a catch",
      "link": "https://www.gsmarena.com/motorola_razr_50_ultra_starts_getting_android_17_in_europe-news-75480.php",
@@ -2137,14 +2177,6 @@
      "zh": "You can get a new phone plan for as low as $6.50/month for Black Friday"
     },
     {
-     "title": "iOS 27.3 adds three new features I’ve used almost every day",
-     "link": "https://9to5mac.com/2026/11/13/ios-27-3-adds-three-new-features-ive-used-almost-every-day/",
-     "pubDate": "Fri, 13 Nov 2026 18:56:41 +0000",
-     "summary": "iOS 27.3 is coming next month , and during the beta so far there are three new features I’ve been using almost every day. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27.3 adds three new features I’ve used almost every day"
-    },
-    {
      "title": "Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more",
      "link": "https://9to5toys.com/2026/11/13/todays-highlight-google-play-deals-49/",
      "pubDate": "Fri, 13 Nov 2026 18:53:06 +0000",
@@ -2193,14 +2225,6 @@
      "zh": "The Motorola Signature 27 is a beast"
     },
     {
-     "title": "Why Apple's HomeView relies so heavily on your iPhone",
-     "link": "https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/",
-     "pubDate": "Fri, 13 Nov 2026 14:00:00 +0000",
-     "summary": "To make the HomeView both personal and communal, there was only one place to go.",
-     "source": "Engadget",
-     "zh": "Why Apple's HomeView relies so heavily on your iPhone"
-    },
-    {
      "title": "Honor 700 series launch date is official just as a carrier listing reveals most specs",
      "link": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php",
      "pubDate": "Fri, 13 Nov 2026 14:17:02 +0100",
@@ -2233,6 +2257,102 @@
    "total": 13,
    "items": [
     {
+     "title": "索罗斯基金Q3大举加码英特尔、Meta，新进SK海力士，减持英伟达",
+     "link": "https://wallstreetcn.com/articles/3785924",
+     "pubDate": "Sat, 14 Nov 2026 07:07:17 +0800",
+     "summary": "索罗斯基金管理公司（Soros Fund Management）2026年第三季度大幅调整美股持仓：新建仓韩国存储芯片巨头SK海力士ADR，大幅增持英特尔和Meta，同时减持英伟达，并清仓KKR和ServiceNow。 从持仓变化看，该基金在继续布局AI产业链的同时，对芯片行业内部的配置进行了调整。英特尔和Meta获得大幅加仓，英伟达普通股持仓则有所下降，SK海力士的加入也使其投资组合进一步覆盖AI存储领域。 根据SEC第三季度13F文件，截至2026年9月30日，索罗斯基金披露的持仓涉及247项投资，据统计，13F组合市值约为64.81亿美元。 新进SK海力士ADR，布局AI存储产业链 第三",
+     "source": "华尔街见闻",
+     "zh": "索罗斯基金Q3大举加码英特尔、Meta，新进SK海力士，减持英伟达"
+    },
+    {
+     "title": "避免流动性支持被视为QE，美联储洛根提议市场功能性购债单独记账、尽快出售",
+     "link": "https://wallstreetcn.com/articles/3785920",
+     "pubDate": "Sat, 14 Nov 2026 07:06:51 +0800",
+     "summary": "美联储官员正推动对央行资产负债表管理框架进行结构性调整，核心诉求是 将市场功能性购债与货币政策操作彻底分离，以消除市场对流动性干预是否变相压制长端收益率的疑虑。 达拉斯联储主席Lorie Logan（洛根）周四在达拉斯联储联合主办的银行融资会议上表示， 美联储应将为维护市场功能而购入的资产单独记账，并承诺尽快出售，以防此类操作在无意间提供额外刺激。 她同时指出，国债收益率的快速攀升本身并不必然意味着市场出现了需要央行介入的失序状态，联储更依赖买卖价差、市场深度和价格冲击等流动性指标作为研判依据。 上述表态折射出美联储内部对危机时期市场干预与量化宽松界限模糊问题的持续关注。 官员们历来依靠沟通来",
+     "source": "华尔街见闻",
+     "zh": "避免流动性支持被视为QE，美联储洛根提议市场功能性购债单独记账、尽快出售"
+    },
+    {
+     "title": "AI应用商业化提速 游戏产业投资机遇凸显",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931105676.html",
+     "pubDate": "Sat, 14 Nov 2026 07:03:28 +0800",
+     "summary": "近期， 人工智能 （AI）技术向应用端落地的步伐明显加快，游戏产业作为数字内容的重要阵地，正迎来技术赋能与产业升级交汇的关键节点。随着生成式AI及大模型能力的持续跃升，AI技术正逐步深入游戏研发、内容生产及运营推广等核心环节。 业内人士认为，凭借高度数字化的产业特征及成熟的商业化体系，游戏行业有望成为 AI应用 率先实现规模化落地的领域，该板块的长期投资价值与产业变革机遇也正日益显现。 游戏板块表现活跃 本周游戏板块的强势表现，与政策端、产业端的多重利好形成共振。Wind数据显示，万得网络 游戏概念 指数11月以来累计上涨超过13%。指数成分股中， 北纬科技 、 大晟文化 近10个交易日累计上",
+     "source": "东方财富股票",
+     "zh": "AI应用商业化提速 游戏产业投资机遇凸显"
+    },
+    {
+     "title": "头部公司领衔回购 港股回购阵营持续扩容",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931105512.html",
+     "pubDate": "Sat, 14 Nov 2026 07:03:24 +0800",
+     "summary": "Wind数据显示，截至11月13日，年内已有375家港股上市公司实施回购，回购金额超1332亿港元； 腾讯控股 以324.44亿港元的回购金额位居榜首， 友邦保险 、小米集团、 中国宏桥 紧随其后。科技行业、医药行业和消费行业的港股上市公司在回购市场中呈现多点开花的态势，中小市值公司也不再是回购市场的旁观者，港股回购正从少数巨头的资本操作演变为全行业、全市值梯队的集体行动。 科技龙头引领 从资金体量上来看，科技行业上市公司仍在这一波港股回购潮中起到引领作用，腾讯自8月中旬起密集回购股份，合计回购6827.67万股，耗资324.44亿港元，稳居全市场首位。小米集团跟随其后，年内累计回购金额达12",
+     "source": "东方财富股票",
+     "zh": "头部公司领衔回购 港股回购阵营持续扩容"
+    },
+    {
+     "title": "晶正电子总裁胡文：十六年磨一剑 啃下“光学硅”硬骨头",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931105457.html",
+     "pubDate": "Sat, 14 Nov 2026 07:03:24 +0800",
+     "summary": "“做硬科技没有捷径，既需要企业耐住寂寞深耕工艺，也需要资本放下短期逐利思维，做长期‘陪跑人’。”济南晶正 电子 科技有限公司创始人、总裁胡文日前在接受中国证券报记者专访时表示。 谈起那一片薄至几百纳米的铌酸 锂 单晶薄膜，胡文语速平缓，眼底藏着十六年闯关的滚烫故事。从9人初创团队，到如今服务全球300余家科研与产业客户的薄膜铌酸 锂 头部企业，在济南科创金融体系的陪伴下，这家扎根泉城的硬科技企业，啃下了光电领域的关键材料这块硬骨头。 深耕光学硅赛道 “做硬科技，注定要经历一段漫长煎熬的时光。”作为济南市首批引进的高层次人才，他从加拿大归国，对比多地之后，最终落脚济南——山东大学晶体材料研究所雄",
+     "source": "东方财富股票",
+     "zh": "晶正电子总裁胡文：十六年磨一剑 啃下“光学硅”硬骨头"
+    },
+    {
+     "title": "多家券商披露招聘计划 财富管理、投研及金融科技成补员重点",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931105318.html",
+     "pubDate": "Sat, 14 Nov 2026 07:03:22 +0800",
+     "summary": "近一个月，多家券商陆续披露校园招聘和社会招聘计划。 国元证券 拟招聘约100名财富管理管 培生 ， 西南证券 和 中银证券 均招聘 电子 、 通信 方向研究人员， 广发证券 则拟招聘20名金融科技人员。 分析人士认为，买方投顾试点将客户留存率等指标纳入考核，对投资顾问持续服务客户的能力提出了更高要求。研究条线在补充行业研究人员的同时，也在充实服务机构客户的销售队伍。部分券商还将运用 人工智能 工具处理数据列入研究员职责，技术应用能力正成为部分业务岗位的招聘条件。 买方投顾试点将客户留存纳入考核 从近一个月披露的招聘计划看，投顾是多家券商集中补员的方向。 国元证券 拟面向2027届毕业生招聘约1",
+     "source": "东方财富股票",
+     "zh": "多家券商披露招聘计划 财富管理、投研及金融科技成补员重点"
+    },
+    {
+     "title": "中信建投于海宁：科技股定价回归基本面 看好AI长期成长空间",
+     "link": "http://finance.eastmoney.com/news/1360,202611143931105790.html",
+     "pubDate": "Sat, 14 Nov 2026 07:03:18 +0800",
+     "summary": "股价回落，产业预期却仍在上修，科技股一度走出了两条方向不同的曲线。如何理解这道“剪刀差”，也成为观察本轮行情变化的一个切口。 日前， 中信建投 证券科技研究组负责人于海宁在接受中国证券报记者专访时表示，资本市场会提前交易未来增长的担忧，产业发展则有自身的节奏。外部不确定性逐步落地后，科技股定价仍将回到订单、需求和盈利预期。他认为，AI产业革命远未走完，经过阶段性调整，市场对产业的认识出现分化，但长期成长空间依然值得看好。 不确定性落地定价重心回到产业 美国中期选举是近期影响科技股走势的重要因素，市场关注的一个问题是，美国 数据中心 项目的审批和建设节奏会不会发生变化。选举带来的政策预期变化，牵",
+     "source": "东方财富股票",
+     "zh": "中信建投于海宁：科技股定价回归基本面 看好AI长期成长空间"
+    },
+    {
+     "title": "一线调研培育钻石产业：毛坯价格上涨与终端饰品打折并行",
+     "link": "http://finance.eastmoney.com/news/1348,202611143931105864.html",
+     "pubDate": "Sat, 14 Nov 2026 07:02:59 +0800",
+     "summary": "● 本报记者董添 近期，国际金价出现较为明显的回调， 黄金 珠宝零售市场迎来促销窗口，多家主流 黄金 品牌加大优惠力度，推出克减、满减、折扣等多种活动，优惠力度较平日明显放大。记者调研发现，随着金价回落，钻石 饰品 折扣力度较大，一些品牌钻石类产品5折起步，其中既包括天然钻石也包括 培育钻石 。 与此同时， 培育钻石 毛坯出现涨价苗头。记者多方采访了解到，目前 培育钻石 毛坯售价并不透明，对于首饰端来说，切割费、加工费、镶嵌费占比较大，毛坯原材料涨价对终端影响有限。 钻石类产品折扣力度大 记者走访了解到，目前，主流珠宝品牌一般还是采用天然钻石，培育钻石一般会专门成立自有品牌。 记者走访线下看到",
+     "source": "东方财富股票",
+     "zh": "一线调研培育钻石产业：毛坯价格上涨与终端饰品打折并行"
+    },
+    {
+     "title": "US aviation regulator grounds all departing flights",
+     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+     "pubDate": "Fri, 13 Nov 2026 23:00:26 GMT",
+     "summary": "Airports across the country ordered by Federal Aviation Administration to halt all take-offs",
+     "source": "Financial Times",
+     "zh": "US aviation regulator grounds all departing flights"
+    },
+    {
+     "title": "Trinity Place Holdings GAAP EPS of $0.00",
+     "link": "https://seekingalpha.com/news/4672723-trinity-place-holdings-gaap-eps-of-0_00?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 17:57:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trinity Place Holdings GAAP EPS of $0.00"
+    },
+    {
+     "title": "More gold analysts turning bearish as $4,000 support breaks",
+     "link": "https://seekingalpha.com/news/4672708-more-gold-analysts-turning-bearish-as-4000-support-breaks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 17:55:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "More gold analysts turning bearish as $4,000 support breaks"
+    },
+    {
+     "title": "纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万",
+     "link": "https://wallstreetcn.com/articles/3785885",
+     "pubDate": "Sat, 14 Nov 2026 06:54:12 +0800",
+     "summary": "英伟达领导层动荡持续发酵，叠加通胀压力高企与美联储加息预期升温，美股指周五表现分化，标普、纳指收跌，道指则在消费股支撑下收涨。 美国10月生产者价格指数（PPI）同比上涨6.5%，创2022年11月以来最快年增速，尽管数据略低于市场预期，但仍强化了美联储12月继续加息的预期。BMO资本市场分析师Vail Hartman指出，PPI中纳入美联储首选通胀指标的分项数据在10月有所回落。LPL Financial首席经济学家Jeffrey Roach表示： 考虑到整体经济的脆弱性，50个基点的加息幅度可能带来不必要的风险，预计美联储将加息25个基点。 周五费城半导体指数下跌3.4%，纳斯达克100指",
+     "source": "华尔街见闻",
+     "zh": "纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万"
+    },
+    {
      "title": "4 expert tips for signing up for Medicare",
      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 22:45:00 GMT",
@@ -2249,30 +2369,6 @@
      "zh": "FAA declares rare nationwide ground stop on flights, with nearly 10,000 canceled so far"
     },
     {
-     "title": "穆林：看不出微软与全美停飞有关联 两者是独立问题",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931101081.html",
-     "pubDate": "Sat, 14 Nov 2026 06:42:37 +0800",
-     "summary": "被问及 微软 昨天的事是否与联邦航空管理局今天（全美停飞）的事是否存在关联时，美国国土安全部长穆林表示：我看不出有任何理由把这两件事联系起来。它们是彼此独立的问题。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "穆林：看不出微软与全美停飞有关联 两者是独立问题"
-    },
-    {
-     "title": "航空数据显示 本次停飞令已经导致美国超过1万架次航班延误或被取消",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931100612.html",
-     "pubDate": "Sat, 14 Nov 2026 06:41:49 +0800",
-     "summary": "航空数据显示，本次停飞令已经导致美国超过1万架次航班延误或被取消。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "航空数据显示 本次停飞令已经导致美国超过1万架次航班延误或被取消"
-    },
-    {
-     "title": "SpaceX：今日发射将部署26颗Starlink V3卫星 推进占据互联网51%份额目标",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931100571.html",
-     "pubDate": "Sat, 14 Nov 2026 06:41:41 +0800",
-     "summary": "SpaceX ：今日发射将部署26颗Starlink V3卫星，进一步推进Starlink占据互联网51%份额的目标。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "SpaceX：今日发射将部署26颗Starlink V3卫星 推进占据互联网51%份额目标"
-    },
-    {
      "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
      "pubDate": "Fri, 13 Nov 2026 22:41:04 GMT",
@@ -2281,28 +2377,12 @@
      "zh": "FAA grounds departing flights nationwide, citing air traffic communication system outage"
     },
     {
-     "title": "周六你需要知道的隔夜全球要闻：英伟达创18个月来最差单周表现；美国下令所有航班暂停起飞；消息称哈塞特将离开白宫，但本人否认",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931100472.html",
-     "pubDate": "Sat, 14 Nov 2026 06:38:39 +0800",
-     "summary": "全球要闻 1、有消息称美国白宫经济顾问哈塞特将离开白宫，贝森特或Zervos可能接任。但哈塞特称有关他将离开白宫的报道“不属实”。 2、美国联邦航空管理局因 通信 问题发布地面停飞令，所有 机场 地面停飞，直至另行通知。 3、美国国家气象局表示，该机构正遭遇全国范围的互联网与 通信 问题，技术人员正在积极处理，以尽快恢复。 4、美联储周五在半年度金融稳定报告中指出， 人工智能 和高企的资产估值可能带来潜在脆弱性。 5、美联储公布了11月至12月的短期国债购买计划，将准备金管理购买的暂停期延长至12月中旬；同时，美联储将购买140亿美元的短期国债，用于抵押贷款支持证券（MBS）的再投资。 6、美",
-     "source": "东方财富股票",
-     "zh": "周六你需要知道的隔夜全球要闻：英伟达创18个月来最差单周表现；美国下令所有航班暂停起飞；消息称哈塞特将离开白宫，但本人否认"
-    },
-    {
      "title": "Core Critical Metals launches $500K flow-through private placement",
      "link": "https://seekingalpha.com/news/4672720-core-critical-metals-launches-500k-flow-through-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 13 Nov 2026 17:38:06 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Core Critical Metals launches $500K flow-through private placement"
-    },
-    {
-     "title": "欧洲主要股指收盘多数上涨",
-     "link": "http://stock.eastmoney.com/news/1438,202611143931100846.html",
-     "pubDate": "Sat, 14 Nov 2026 06:36:31 +0800",
-     "summary": "欧洲主要股指收盘多数上涨，英国富时100指数涨0.36%，法国CAC40指数涨0.07%，德国DAX30指数跌0.06%，富时意大利MIB指数涨0.10%。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "欧洲主要股指收盘多数上涨"
     },
     {
      "title": "Grupo Supervielle Q3 2026 Earnings Preview",
@@ -2321,36 +2401,12 @@
      "zh": "Insight Molecular Diagnostics Inc. Q3 2026 Earnings Preview"
     },
     {
-     "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931100319.html",
-     "pubDate": "Sat, 14 Nov 2026 06:35:41 +0800",
-     "summary": "昨夜今晨，尽管有低于预期的美国PPI数据助阵，但科技板块仍未走出 英伟达 管理层更迭的动荡。与此同时， 红利板块的代表、被股民们称为“美国茅台”的 可口可乐 再创新高，科技避险股代表 苹果 ，以及医药龙头 礼来 也刷新收盘 历史新高 。 截至收盘，标普500指数跌0.4%，报7561.67点； 纳斯达克 综合 指数跌0.91%，报25136.27点；道琼斯工业平均指数涨0.1%，报52347.55点。 （纳指日线图，来源：TradingView） 整周表现方面，标普500指数涨2.51%、纳指涨2.27%， 结束此前周线“四连跌”的节奏 ，道指涨2.07%。 围绕着“谁能接班黄仁勋”的疑问， ",
-     "source": "东方财富股票",
-     "zh": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸"
-    },
-    {
      "title": "Soluna Holdings Q3 2026 Earnings Preview",
      "link": "https://seekingalpha.com/news/4672501-soluna-holdings-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 13 Nov 2026 17:35:39 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Soluna Holdings Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "Aytu BioPharma Q3 2027 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4672502-aytu-biopharma-q3-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 17:35:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Aytu BioPharma Q3 2027 Earnings Preview"
-    },
-    {
-     "title": "Dare Bioscience Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4672503-dare-bioscience-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 17:35:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dare Bioscience Q3 2026 Earnings Preview"
     },
     {
      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -2425,30 +2481,6 @@
      "zh": "英伟达物色新CEO，接触Arm CEO Rene Haas，其曾是黄仁勋门生"
     },
     {
-     "title": "黄金或创六月来最大单周跌幅，美联储加息押注升温施压贵金属",
-     "link": "https://wallstreetcn.com/articles/3785918",
-     "pubDate": "Sat, 14 Nov 2026 05:54:09 +0800",
-     "summary": "黄金本周遭遇重挫，受通胀顽固与美联储紧缩预期升温双重打压，势将创下自六月以来最大单周跌幅。 周五现货黄金一度小幅收复部分失地，但仍难掩整周颓势。截至纽约时间周五下午4时10分，现货金报每盎司3876美元，持平于周四纽约尾盘价格，本周累计跌幅达4.78%。 此前一日，金价曾跌至13个月低点。美国消费者价格指数连续第三个月超出预期，触发市场对美联储激进加息的重新定价，美元走强、美债收益率攀升，构成黄金的双重逆风。 美联储官员本周集体释放鹰派信号。联储理事沃勒表示，若通胀持续加速，他将支持单次加息50个基点。纽约联储主席John Williams、芝加哥联储主席Austan Goolsbee及波士顿",
-     "source": "华尔街见闻",
-     "zh": "黄金或创六月来最大单周跌幅，美联储加息押注升温施压贵金属"
-    },
-    {
-     "title": "US aviation regulator grounds all departing flights",
-     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-     "pubDate": "Fri, 13 Nov 2026 21:38:38 GMT",
-     "summary": "Airports across the country ordered to close by Federal Aviation Administration",
-     "source": "Financial Times",
-     "zh": "US aviation regulator grounds all departing flights"
-    },
-    {
-     "title": "美联储金融稳定报告：AI热情推动美股估值虚高，网络安全风险上升",
-     "link": "https://wallstreetcn.com/articles/3785921",
-     "pubDate": "Sat, 14 Nov 2026 05:37:28 +0800",
-     "summary": "美联储在最新金融稳定报告中点名人工智能，警告其对资产估值和金融稳定构成潜在威胁。 美联储周五发布半年度金融稳定报告， 指出股票估值持续处于高位，部分由市场对\"超级智能\"的热情推动。 美联储监管副主席Michelle Bowman本周早些时候也发出警告， 若AI投资回报不及预期，股市可能面临急剧下跌风险。 报告还汇集了政策制定者、社区团体及市场参与者的调查反馈。 受访者将AI技术进步催生的网络攻击风险列为日益突出的威胁，同时对风险资产回调、长端利率走高及美国财政债务可持续性表达了近期隐忧。 纳斯达克100 ETF美股盘后跌0.7%，道富银行SPDR标普500 ETF跌0.4%。 估值偏高，AI热",
-     "source": "华尔街见闻",
-     "zh": "美联储金融稳定报告：AI热情推动美股估值虚高，网络安全风险上升"
-    },
-    {
      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 21:32:00 GMT",
@@ -2463,14 +2495,6 @@
      "summary": "当地时间周五下午， 美国航空 运输系统突发大范围运行中断。 综合 多家媒体报道， 美国联邦航空管理局（FAA）正以“特殊情况及安全原因”为由，发布全国性地面停飞令，要求待起飞航班留在地面，直至另行通知。 FAA同时表示，入境国际航班将逐一处理。截至发稿，监管机构尚未进一步解释此次采取全国性措施的具体原因。 据悉，在全国性停飞令发布前， FAA已报告严重的空管 通信 问题，并暂停了芝加哥航空交通 。随后，限制措施扩大至全国。FAA在通知中要求，所有离场航班继续留在地面，等待进一步通知。 需要区分的是，此次措施属于“地面停飞”（ground stop），即将航班留在出发地、暂停起飞，并不等同于要求",
      "source": "东方财富资讯",
      "zh": "突发：美国联邦航空管理局下令所有航班暂停起飞"
-    },
-    {
-     "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-     "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-     "pubDate": "Fri, 13 Nov 2026 21:18:30 GMT",
-     "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-     "source": "CNBC",
-     "zh": "AI risks are the biggest threat to the financial system, Fed survey finds"
     }
    ]
   },

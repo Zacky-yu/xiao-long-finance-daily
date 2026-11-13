@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 05:52:14",
+ "generated_at": "2026/11/14 06:12:12",
  "recent_days": 7,
  "industries": [
   {
@@ -26,12 +26,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI agent startup LangChain hits $3B valuation"
     },
     {
-     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
      "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
      "source": "TechCrunch AI",
-     "zh": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!"
+     "zh": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!"
     },
     {
      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -98,6 +98,14 @@ window.INDUSTRY_DATA = {
      "zh": "Introducing ChatGPT Wallet"
     },
     {
+     "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
+     "link": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
+     "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
+     "summary": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0 shipped in April 2026 with a stable specification and guaranteed backward compatibility.",
+     "source": "KDnuggets",
+     "zh": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour"
+    },
+    {
      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
      "pubDate": "Fri, 13 Nov 2026 14:44:48 +0000",
@@ -112,6 +120,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+    },
+    {
+     "title": "5 FREE Open-Source Alternatives to Jev",
+     "link": "https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev",
+     "pubDate": "Fri, 13 Nov 2026 13:00:00 +0000",
+     "summary": "Looking for a free alternative to Jev? Here are 5 open-source decision models you can run locally, from high-accuracy options to lightweight models for AI agents.",
+     "source": "KDnuggets",
+     "zh": "5 FREE Open-Source Alternatives to Jev"
     },
     {
      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "建立下一代具身数据的金标准。",
      "source": "机器之心",
      "zh": "后GPT-6时代，具身数据怎么做？Ropedia发布Xperience 2，给出下一代数据基石金标准"
-    },
-    {
-     "title": "斯坦福让GPT-6 Astra直接修改机器人参数：只动65行词嵌入，修复一类指令失灵",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=2&sn=5a8b2bef8739a7443d5e57b276c4d80a",
-     "pubDate": "Fri, 13 Nov 2026 14:28:00 +0800",
-     "summary": "含被改词元的 335 条留出指令，成功率从 74.3%升至 87.5%；另外 430 个回合，成败结果逐一不变。",
-     "source": "机器之心",
-     "zh": "斯坦福让GPT-6 Astra直接修改机器人参数：只动65行词嵌入，修复一类指令失灵"
-    },
-    {
-     "title": "ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=3&sn=da18bc335c6b6345ee976e60b4009347",
-     "pubDate": "Fri, 13 Nov 2026 14:28:00 +0800",
-     "summary": "能否在不影响任务完成的前提下压缩上下文？",
-     "source": "机器之心",
-     "zh": "ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+     "link": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
+     "pubDate": "Fri, 13 Nov 2026 21:53:30 +0000",
+     "summary": "Tharunya Yogananda and Wantong Li of the University of California, Riverside published a technical paper titled “Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies.” Abstract Excerpt: “Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base di",
+     "source": "Semiconductor Engineering",
+     "zh": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)"
+    },
     {
      "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
      "link": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
-    },
-    {
-     "title": "Rethinking Memory For AI Inference",
-     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
-     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
-     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -650,12 +650,12 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
-     "title": "U.S. government grounds all flights across the United States ‘due to extraordinary cirumstances’",
+     "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
      "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
      "pubDate": "Fri, 13 Nov 2026 21:44:38 +0000",
-     "summary": "The Federal Aviation Administration grounded flights across the United States citing \"extraordinary circumstances\" and for \"reasons of safety.\"",
+     "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers.\"",
      "source": "TechCrunch Transport",
-     "zh": "U.S. government grounds all flights across the United States ‘due to extraordinary cirumstances’"
+     "zh": "US government grounds all flights across the United States ‘due to extraordinary circumstances’"
     },
     {
      "title": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens",
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "DCIS Cell Atlas Reveals Clues to Invasive Breast Cancer Progression",
+     "link": "https://www.genengnews.com/topics/cancer/dcis-cell-atlas-reveals-clues-to-invasive-breast-cancer-progression/",
+     "pubDate": "Fri, 13 Nov 2026 22:04:09 +0000",
+     "summary": "Researchers created a detailed map of the tumor microenvironment surrounding estrogen receptor-positive ductal carcinoma in situ , which may help better predict progression to invasive breast cancer and inform on future therapeutic strategies. The post DCIS Cell Atlas Reveals Clues to Invasive Breas",
+     "source": "GEN",
+     "zh": "DCIS Cell Atlas Reveals Clues to Invasive Breast Cancer Progression"
+    },
+    {
      "title": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
      "link": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
      "pubDate": "Fri, 13 Nov 2026 21:46:05 +0000",
@@ -1280,14 +1288,6 @@ window.INDUSTRY_DATA = {
      "summary": "The agency is still recovering from a mass staff exodus last year that left it shorthanded. Here&rsquo;s what it means for the industry.",
      "source": "BioPharma Dive",
      "zh": "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma"
-    },
-    {
-     "title": "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years",
-     "link": "https://www.genengnews.com/topics/cancer/how-breast-cancer-chemotherapy-may-impact-biological-aging-and-loss-of-healthy-life-years/",
-     "pubDate": "Tue, 10 Nov 2026 17:26:51 +0000",
-     "summary": "Chemotherapy helps many women survive breast cancer, but the results of new research suggest that chemotherapy may also accelerate biological aging beyond chronological age and increase the risk of earlier death from other causes. The post How Breast Cancer Chemotherapy May Impact Biological Aging a",
-     "source": "GEN",
-     "zh": "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years"
     }
    ]
   },
@@ -1512,14 +1512,6 @@ window.INDUSTRY_DATA = {
      "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
      "source": "Spaceflight Now",
      "zh": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
-    },
-    {
-     "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
-     "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-     "pubDate": "Fri, 06 Nov 2026 22:00:39 +0000",
-     "summary": "Liftoff from pad 4E at Vandenberg Space Force Base occurred at 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
-     "source": "Spaceflight Now",
-     "zh": "Falcon 9 launches from California on classified mission for U.S. Space Force"
     }
    ]
   },
@@ -1746,10 +1738,26 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors&apos; stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261113/p31#a261113p31",
+     "pubDate": "Fri, 13 Nov 2026 17:01:42 -0500",
+     "summary": "Wall Street Journal : Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO &nbsp; &mdash;&nbsp; Chinese artificial-intelligence startup Moonshot AI is wrapping up a corporate restructuring tha",
+     "source": "Techmeme",
+     "zh": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors&apos; stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)"
+    },
+    {
+     "title": "Millions in US use unapproved GLP-1s—and use them in unapproved ways",
+     "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+     "pubDate": "Fri, 13 Nov 2026 21:59:01 +0000",
+     "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+     "source": "Ars Technica",
+     "zh": "Millions in US use unapproved GLP-1s—and use them in unapproved ways"
+    },
+    {
      "title": "FAA Grounds All US Flights Until Further Notice",
      "link": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
      "pubDate": "Fri, 13 Nov 2026 21:42:57 +0000",
-     "summary": "The government cited a nationwide communications failure among air traffic control system as the reason for the sudden grounding on Friday.",
+     "summary": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
      "source": "WIRED",
      "zh": "FAA Grounds All US Flights Until Further Notice"
     },
@@ -1765,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
      "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
      "pubDate": "Fri, 13 Nov 2026 21:08:49 +0000",
-     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 68 # Comments: 19",
+     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 74 # Comments: 20",
      "source": "Hacker News",
      "zh": "FAA issues nationwide ground stop due to \"extraordinary circumstances\""
     },
@@ -1773,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "All US airports are currently ground stopped",
      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
      "pubDate": "Fri, 13 Nov 2026 21:06:52 +0000",
-     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 50 # Comments: 10",
+     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 66 # Comments: 16",
      "source": "Hacker News",
      "zh": "All US airports are currently ground stopped"
     },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "FAA Issues National Ground Stop",
      "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
      "pubDate": "Fri, 13 Nov 2026 21:05:53 +0000",
-     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111 Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 350 # Comments: 115",
+     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111 Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 480 # Comments: 196",
      "source": "Hacker News",
      "zh": "FAA Issues National Ground Stop"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Big tech is here to let us down",
      "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
      "pubDate": "Fri, 13 Nov 2026 20:20:30 +0000",
-     "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 111 # Comments: 83",
+     "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 131 # Comments: 105",
      "source": "Hacker News",
      "zh": "Big tech is here to let us down"
     },
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Live-migration support in FreeBSD and bhyve coming",
      "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
      "pubDate": "Fri, 13 Nov 2026 19:58:42 +0000",
-     "summary": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 24 # Comments: 2",
+     "summary": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 30 # Comments: 2",
      "source": "Hacker News",
      "zh": "Live-migration support in FreeBSD and bhyve coming"
     },
@@ -1880,14 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
      "source": "Ars Technica",
      "zh": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good"
-    },
-    {
-     "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
-     "link": "https://www.techmeme.com/261113/p25#a261113p25",
-     "pubDate": "Fri, 13 Nov 2026 14:20:01 -0500",
-     "summary": "Bloomberg : Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's &ldquo;deepest business dilemma&rdquo; due to the unpredictability of revenue &nbsp; &mdash;&nbsp; Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the a",
-     "source": "Techmeme",
-     "zh": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)"
     },
     {
      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
@@ -1976,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
      "source": "WIRED",
      "zh": "Jensen Huang and the End of the Founder Fairy Tale"
-    },
-    {
-     "title": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能",
-     "link": "https://www.ithome.com/1/026/995.htm",
-     "pubDate": "Fri, 13 Nov 2026 15:57:27 GMT",
-     "summary": "IT之家 11 月 13 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— 华为凌霄子母路由 Q7 电线版 。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连， 对比传统 WiFi，可降低游戏网络卡顿率 。 IT之家注意到，华为 MatePad Pro 13.2 2023 等机型推送了鸿蒙 HarmonyOS 7.0.0.111 SP16 版本升级，带来了星闪电竞专链功能 —— 支持与具备星闪电竞专链特性的华为路由， 基于星闪连接技术建立专属连接 ，提升游戏运行的流畅度与稳定性。 作为参考，华为官网显示，",
-     "source": "IT之家",
-     "zh": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能"
     }
    ]
   },
@@ -1993,6 +1985,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What you should know before using Adobe’s latest photo-editing tools",
+     "link": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
+     "pubDate": "Fri, 13 Nov 2026 22:07:53 +0000",
+     "summary": "Demonstrations with Adobe’s product managers offered more insight into how the new features work. Trying them myself raised a few more questions.",
+     "source": "DPReview",
+     "zh": "What you should know before using Adobe’s latest photo-editing tools"
+    },
+    {
+     "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
+     "link": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
+     "pubDate": "Fri, 13 Nov 2026 22:00:00 +0000",
+     "summary": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much work as the company’s ",
+     "source": "9to5Google",
+     "zh": "Pixelated 125: Google’s glasses, Meta’s baggage"
+    },
+    {
+     "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
+     "link": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
+     "pubDate": "Fri, 13 Nov 2026 21:59:21 +0000",
+     "summary": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple details HomeView facial recognition, repair options, and more in new support guides"
+    },
     {
      "title": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter",
      "link": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
@@ -2130,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more"
     },
     {
-     "title": "9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available",
-     "link": "https://9to5mac.com/2026/11/13/daily-november-13-2026/",
-     "pubDate": "Fri, 13 Nov 2026 18:04:08 +0000",
-     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available"
-    },
-    {
      "title": "You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’",
      "link": "https://9to5google.com/2026/11/13/gemini-google-wallet/",
      "pubDate": "Fri, 13 Nov 2026 17:51:44 +0000",
@@ -2152,14 +2160,6 @@ window.INDUSTRY_DATA = {
      "summary": "The new Wallet feature will allow its AI agents to make purchases on your behalf.",
      "source": "Engadget",
      "zh": "You can now tempt fate and give your banking information to ChatGPT"
-    },
-    {
-     "title": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps",
-     "link": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
-     "pubDate": "Fri, 13 Nov 2026 16:45:47 +0000",
-     "summary": "The Xiaomi 18 Pro series’ rear displays might actually be useful, after all. more…",
-     "source": "9to5Google",
-     "zh": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps"
     },
     {
      "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
@@ -2224,14 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "Motorola introduced the Signature 27 in September and fully unveiled it last week. The smartphone packs a 7,000 mAh battery. However, Motorola initially said it would come with a 5,500 mAh battery in Germany. Thankfully, that's not the case. That confirmation comes straight from Motorola Germany, wh",
      "source": "GSMArena",
      "zh": "Motorola Signature 27's battery capacity in Germany is the same as other regions"
-    },
-    {
-     "title": "vivo X300 Ultra gets new OriginOS 7 update with camera and battery optimizations",
-     "link": "https://www.gsmarena.com/vivo_x300_ultra_china_originos_7_camera_update-news-75467.php",
-     "pubDate": "Fri, 13 Nov 2026 10:46:02 +0100",
-     "summary": "The vivo X300 Ultra, launched with Android 16-based OriginOS 6, is receiving a new OriginOS 7 update based on Android 17. The update is rolling out for the vivo X300 Ultra's Chinese model, and it comes with quite a few camera optimizations. For starters, vivo has redesigned the default Camera app's ",
-     "source": "GSMArena",
-     "zh": "vivo X300 Ultra gets new OriginOS 7 update with camera and battery optimizations"
     }
    ]
   },
@@ -2242,60 +2234,132 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Cingulate reports Q3 results",
-     "link": "https://seekingalpha.com/news/4672689-cingulate-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:49:04 -0500",
+     "title": "Incyte won't move ahead with phase 3 trial of ovarian cancer asset",
+     "link": "https://seekingalpha.com/news/4672698-incyte-wont-move-ahead-phase-3-trial-ovarian-cancer-asset?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 17:09:04 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Cingulate reports Q3 results"
+     "zh": "Incyte won't move ahead with phase 3 trial of ovarian cancer asset"
+    },
+    {
+     "title": "Cheetah Net Supply Chain Services GAAP EPS of $0.00, revenue of $3.56M beats by $2.96M",
+     "link": "https://seekingalpha.com/news/4672707-cheetah-net-supply-chain-services-gaap-eps-of-0_00-revenue-of-3_56m-beats-by-2_96m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 17:09:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cheetah Net Supply Chain Services GAAP EPS of $0.00, revenue of $3.56M beats by $2.96M"
+    },
+    {
+     "title": "Intelligent Living Application GAAP EPS of -$0.78, revenue of $2.35M",
+     "link": "https://seekingalpha.com/news/4672706-intelligent-living-application-gaap-eps-of-0_78-revenue-of-2_35m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 17:08:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Intelligent Living Application GAAP EPS of -$0.78, revenue of $2.35M"
     },
     {
      "title": "FAA issues nationwide ground stop citing communication issues affecting ‘multiple’ air traffic control facilities",
      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-     "pubDate": "Fri, 13 Nov 2026 21:48:49 GMT",
+     "pubDate": "Fri, 13 Nov 2026 22:07:16 GMT",
      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
      "source": "CNBC",
      "zh": "FAA issues nationwide ground stop citing communication issues affecting ‘multiple’ air traffic control facilities"
     },
     {
-     "title": "Cybin GAAP EPS of -$1.41 misses by $0.68",
-     "link": "https://seekingalpha.com/news/4672687-cybin-gaap-eps-of-1_41-misses-by-0_68?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:48:20 -0500",
+     "title": "Sherritt International Corporation Non-GAAP EPS of -$0.07, revenue of $39.7M",
+     "link": "https://seekingalpha.com/news/4672704-sherritt-international-corporation-non-gaap-eps-of-0_07-revenue-of-39_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 17:06:53 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Cybin GAAP EPS of -$1.41 misses by $0.68"
+     "zh": "Sherritt International Corporation Non-GAAP EPS of -$0.07, revenue of $39.7M"
     },
     {
-     "title": "Olympia Financial Group Inc. GAAP EPS of $5.58, revenue of $64.16M",
-     "link": "https://seekingalpha.com/news/4672686-olympia-financial-group-inc-gaap-eps-of-5_58-revenue-of-64_16m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:48:04 -0500",
+     "title": "Fly-E Group GAAP EPS of -$1.07, revenue of $2.6M",
+     "link": "https://seekingalpha.com/news/4672703-fly-e-group-gaap-eps-of-1_07-revenue-of-2_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 17:06:51 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Olympia Financial Group Inc. GAAP EPS of $5.58, revenue of $64.16M"
+     "zh": "Fly-E Group GAAP EPS of -$1.07, revenue of $2.6M"
     },
     {
-     "title": "Nuvve GAAP EPS of -$4.02, revenue of $1.09M",
-     "link": "https://seekingalpha.com/news/4672684-nuvve-gaap-eps-of-4_02-revenue-of-1_09m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:45:01 -0500",
+     "title": "Steppe Gold Ltd. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4672702-steppe-gold-ltd-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 17:05:31 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Nuvve GAAP EPS of -$4.02, revenue of $1.09M"
+     "zh": "Steppe Gold Ltd. reports Q3 results"
     },
     {
-     "title": "Yiren Digital not in compliance with NYSE stock price requirement",
-     "link": "https://seekingalpha.com/news/4672678-yiren-digital-not-in-compliance-with-nyse-stock-price-requirement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:44:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Yiren Digital not in compliance with NYSE stock price requirement"
+     "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+     "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 22:04:00 GMT",
+     "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+     "source": "MarketWatch",
+     "zh": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel."
     },
     {
-     "title": "Chemtrade Logistics Income Fund reports  results",
-     "link": "https://seekingalpha.com/news/4672683-chemtrade-logistics-income-fund-reports-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:44:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Chemtrade Logistics Income Fund reports  results"
+     "title": "高盛2027年宏观展望：全球经济略为提速但道路崎岖，下行风险不容忽视",
+     "link": "https://wallstreetcn.com/articles/3785912",
+     "pubDate": "Sat, 14 Nov 2026 06:03:01 +0800",
+     "summary": "全球经济在经历2026年伊朗战争冲击后展现出超预期韧性，但高盛警告，2027年的增长路径将更为崎岖，风险天平明显向下倾斜。 高盛首席经济学家Jan Hatzius领衔撰写的2027年宏观展望报告预测，全球GDP增速将从2026年的2.7%小幅升至2.8%，略高于潜在增速。 报告的核心判断是：能源价格正常化与持续强劲的AI资本开支将构成主要支撑，但金融条件收紧与财政刺激退潮将形成对冲，整体增长格局\"稳健但平淡\"。与此同时，高盛明确指出三大下行风险——伊朗局势再度升级、债券市场动荡以及AI投资周期提前见顶——并认为市场面临的挑战将比宏观经济本身更为严峻。 在货币政策层面，高盛预计美联储将在12月和",
+     "source": "华尔街见闻",
+     "zh": "高盛2027年宏观展望：全球经济略为提速但道路崎岖，下行风险不容忽视"
+    },
+    {
+     "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+     "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 22:00:00 GMT",
+     "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+     "source": "MarketWatch",
+     "zh": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
+    },
+    {
+     "title": "FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’",
+     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 22:00:00 GMT",
+     "summary": "Nearly 8,000 flights are delayed so far.",
+     "source": "MarketWatch",
+     "zh": "FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’"
+    },
+    {
+     "title": "贝森特与美联储高官交锋：通胀源于能源冲击还是需求过热，美联储加息路径争论升温",
+     "link": "https://wallstreetcn.com/articles/3785917",
+     "pubDate": "Sat, 14 Nov 2026 05:54:36 +0800",
+     "summary": "美国财政部长与芝加哥联储主席就当前通胀根源公开交锋，折射出华盛顿与美联储之间日益加深的政策分歧，并为美联储12月议息会议蒙上更多不确定性。 美财政部长Scott Bessent（贝森特） 周五接受CNBC采访时呼吁美联储不应因伊朗战争引发的\"能源供应冲击\"而激进加息。 芝加哥联储主席Austan Goolsbee（古尔斯比） 随即在同一节目中予以回应，指出通胀已蔓延至服务业、医疗等与油价关联度低的领域，并受到AI数据中心建设带动的强劲需求推升，远非能源价格上涨所能解释。 Goolsbee明确表示，美联储\"还有大量工作要做\"以重建政策公信力。 近期强于预期的就业与通胀数据进一步强化了美联储继续加",
+     "source": "华尔街见闻",
+     "zh": "贝森特与美联储高官交锋：通胀源于能源冲击还是需求过热，美联储加息路径争论升温"
+    },
+    {
+     "title": "英伟达物色新CEO，接触Arm CEO Rene Haas，其曾是黄仁勋门生",
+     "link": "https://wallstreetcn.com/articles/3785915",
+     "pubDate": "Sat, 14 Nov 2026 05:54:26 +0800",
+     "summary": "英伟达董事会在创始人黄仁勋因婚外情丑闻辞职后，启动了一场关乎这家4万亿美元市值AI芯片巨头命运的接班人搜寻。 11月13日，据英国《金融时报》报道， 英伟达董事会已就继任事宜接触Arm Holdings首席执行官Rene Haas。 （Arm首席执行官Rene Haas，图源：Arm官网） 这一消息提振了市场情绪，Arm美股盘中跌幅有所收窄，但仍下跌4.8%；英伟达股价同日下跌逾2%。 英伟达董事会在声明中表示，正\"遴选猎头公司\"，尚未\"正式接触\"任何候选人，并称一切有关候选人的猜测\"为时尚早\"。 黄仁勋于周四宣布辞职，结束了长达33年的执掌生涯。其离任导火索是外界披露他曾与至少一名下属以及一",
+     "source": "华尔街见闻",
+     "zh": "英伟达物色新CEO，接触Arm CEO Rene Haas，其曾是黄仁勋门生"
+    },
+    {
+     "title": "黄金或创六月来最大单周跌幅，美联储加息押注升温施压贵金属",
+     "link": "https://wallstreetcn.com/articles/3785918",
+     "pubDate": "Sat, 14 Nov 2026 05:54:09 +0800",
+     "summary": "黄金本周遭遇重挫，受通胀顽固与美联储紧缩预期升温双重打压，势将创下自六月以来最大单周跌幅。 周五现货黄金一度小幅收复部分失地，但仍难掩整周颓势。截至纽约时间周五下午4时10分，现货金报每盎司3876美元，持平于周四纽约尾盘价格，本周累计跌幅达4.78%。 此前一日，金价曾跌至13个月低点。美国消费者价格指数连续第三个月超出预期，触发市场对美联储激进加息的重新定价，美元走强、美债收益率攀升，构成黄金的双重逆风。 美联储官员本周集体释放鹰派信号。联储理事沃勒表示，若通胀持续加速，他将支持单次加息50个基点。纽约联储主席John Williams、芝加哥联储主席Austan Goolsbee及波士顿",
+     "source": "华尔街见闻",
+     "zh": "黄金或创六月来最大单周跌幅，美联储加息押注升温施压贵金属"
+    },
+    {
+     "title": "US aviation regulator grounds all departing flights",
+     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+     "pubDate": "Fri, 13 Nov 2026 21:38:38 GMT",
+     "summary": "Airports across the country ordered to close by Federal Aviation Administration",
+     "source": "Financial Times",
+     "zh": "US aviation regulator grounds all departing flights"
+    },
+    {
+     "title": "美联储金融稳定报告：AI热情推动美股估值虚高，网络安全风险上升",
+     "link": "https://wallstreetcn.com/articles/3785921",
+     "pubDate": "Sat, 14 Nov 2026 05:37:28 +0800",
+     "summary": "美联储在最新金融稳定报告中点名人工智能，警告其对资产估值和金融稳定构成潜在威胁。 美联储周五发布半年度金融稳定报告， 指出股票估值持续处于高位，部分由市场对\"超级智能\"的热情推动。 美联储监管副主席Michelle Bowman本周早些时候也发出警告， 若AI投资回报不及预期，股市可能面临急剧下跌风险。 报告还汇集了政策制定者、社区团体及市场参与者的调查反馈。 受访者将AI技术进步催生的网络攻击风险列为日益突出的威胁，同时对风险资产回调、长端利率走高及美国财政债务可持续性表达了近期隐忧。 纳斯达克100 ETF美股盘后跌0.7%，道富银行SPDR标普500 ETF跌0.4%。 估值偏高，AI热",
+     "source": "华尔街见闻",
+     "zh": "美联储金融稳定报告：AI热情推动美股估值虚高，网络安全风险上升"
     },
     {
      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
@@ -2322,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO"
     },
     {
-     "title": "US federal aviation regulator grounds all departing flights",
-     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-     "pubDate": "Fri, 13 Nov 2026 21:18:48 GMT",
-     "summary": "Airports across the country ordered to close by Federal Aviation Administration",
-     "source": "Financial Times",
-     "zh": "US federal aviation regulator grounds all departing flights"
-    },
-    {
      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
      "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
      "pubDate": "Fri, 13 Nov 2026 21:18:30 GMT",
@@ -2354,36 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang"
     },
     {
-     "title": "The trillion-dollar mistake corporate America is making about retirement",
-     "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 21:09:00 GMT",
-     "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-     "source": "MarketWatch",
-     "zh": "The trillion-dollar mistake corporate America is making about retirement"
-    },
-    {
      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
      "pubDate": "Fri, 13 Nov 2026 21:04:43 GMT",
      "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
      "source": "CNBC",
      "zh": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning"
-    },
-    {
-     "title": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?",
-     "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 20:45:00 GMT",
-     "summary": "This back-of-the-napkin calculation can help you see if you’re buying too much coverage",
-     "source": "MarketWatch",
-     "zh": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?"
-    },
-    {
-     "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
-     "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 20:19:00 GMT",
-     "summary": "The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.",
-     "source": "MarketWatch",
-     "zh": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks."
     },
     {
      "title": "Meta据悉正在员工内部测试一款新的预测市场应用",
@@ -2440,46 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.",
      "source": "CNBC",
      "zh": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker"
-    },
-    {
-     "title": "通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队",
-     "link": "https://wallstreetcn.com/articles/3785914",
-     "pubDate": "Sat, 14 Nov 2026 02:36:04 +0800",
-     "summary": "新近报道显示，GPT-6 Astra等通用前沿模型展现出直接控制机器人的能力，正在引发业界对机器人专用模型发展路线的重新审视。OpenAI也因此调整机器人研发战略，解散独立机器人团队，将相关研究人员并入公司的核心研究和应用部门。 美东时间11月13日周五，《财富》杂志援引知情情况报道称，OpenAI已解散独立机器人团队。OpenAI向《财富》确认了这一调整，强调机器人仍是公司的长期核心愿景，并称重组是为了加快通用机器人研发，而非退出这一领域。 根据OpenAI的安排，机器人研究团队将并入公司核心研究团队，向首席研究官Mark Chen汇报；应用机器人和硬件团队则将并入规模更大的应用部门，由Op",
-     "source": "华尔街见闻",
-     "zh": "通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队"
-    },
-    {
-     "title": "景林资产Q3瞄准巨头：新进英伟达、阿里，大幅增持台积电",
-     "link": "https://wallstreetcn.com/articles/3785913",
-     "pubDate": "Sat, 14 Nov 2026 02:33:50 +0800",
-     "summary": "知名私募景林资产三季度大举调整美股持仓，新建仓英伟达和中概阿里巴巴，同时增持台积电、亚朵和华住，重仓股中谷歌母公司Alphabet和英特尔获增持，减持满帮集团，并清仓携程和奇富科技。 此次调仓显示，景林一方面重新布局AI芯片龙头，另一方面继续调整中概股配置。 以景林资产管理香港有限公司（Greenwoods Asset Management Hong Kong Ltd.）递交美国证监会的13F文件估算，截至2026年三季度末，该公司披露的21项投资总市值约29.5亿美元。 Q2清仓后又建仓英伟达，台积电持股增超十倍 科技股方面，景林三季度新建仓英伟达（NVDA），重新买入这家AI芯片巨头11.",
-     "source": "华尔街见闻",
-     "zh": "景林资产Q3瞄准巨头：新进英伟达、阿里，大幅增持台积电"
-    },
-    {
-     "title": "OpenAI launches ChatGPT Wallet",
-     "link": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 13 Nov 2026 18:28:00 GMT",
-     "summary": "OpenAI has unveiled ChatGPT Wallet, enabling AI agents to pay for purchases on users' behalf without accessing their card details.",
-     "source": "Finextra",
-     "zh": "OpenAI launches ChatGPT Wallet"
-    },
-    {
-     "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-     "pubDate": "Fri, 13 Nov 2026 18:18:28 GMT",
-     "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-     "source": "CNBC",
-     "zh": "Microsoft apologizes for massive outage that took down Outlook and other 365 services"
-    },
-    {
-     "title": "Scott Colom: the Democrat who conquered the reddest of red states",
-     "link": "https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a?syn-25a6b1a6=1",
-     "pubDate": "Fri, 13 Nov 2026 17:08:50 GMT",
-     "summary": "High turnout and viral ads helped propel him to victory in a deeply conservative state that hasn’t had a Black senator since 1881",
-     "source": "Financial Times",
-     "zh": "Scott Colom: the Democrat who conquered the reddest of red states"
     }
    ]
   },
@@ -2520,6 +2512,14 @@ window.INDUSTRY_DATA = {
      "summary": "Infernogallus – the ‘hell chicken’ dinosaur – evolved to eat a fruit-heavy diet. It may be the first evidence of fruit-eating adaptations among non-avian dinosaurs.",
      "source": "Science News",
      "zh": "The ‘hell chicken’ dinosaur was a real terror — to fruit"
+    },
+    {
+     "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+     "link": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+     "pubDate": "Fri, 13 Nov 2026 15:09:39 +0000",
+     "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
+     "source": "Ars Technica Science",
+     "zh": "It's the end of the world as we know it, per a physicist's 1960 prediction"
     },
     {
      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
@@ -2720,14 +2720,6 @@ window.INDUSTRY_DATA = {
      "summary": "The new design approach could improve impact absorption for helmets, packaging, and armor.",
      "source": "MIT News",
      "zh": "Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials”"
-    },
-    {
-     "title": "This magic mushroom can kill",
-     "link": "https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin",
-     "pubDate": "Wed, 11 Nov 2026 16:00:00 +0000",
-     "summary": "Researchers in Florida unearthed a “dark magic mushroom” that boasts a combination of hallucinogenic and poisonous traits.",
-     "source": "Science News",
-     "zh": "This magic mushroom can kill"
     }
    ]
   }

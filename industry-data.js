@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 04:12:16",
+ "generated_at": "2026/11/14 04:32:13",
  "recent_days": 7,
  "industries": [
   {
@@ -266,12 +266,28 @@ window.INDUSTRY_DATA = {
      "zh": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs"
     },
     {
+     "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 17:59:01 +0000",
+     "summary": "One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car. The post Picture of the Day: Lemo drives Sauber F1 to Electronica appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Picture of the Day: Lemo drives Sauber F1 to Electronica"
+    },
+    {
      "title": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout",
      "link": "https://semiwiki.com/eda/quilter/376102-ceo-interview-with-sergiy-nesterenko-of-quilter-on-ai-pcb-layout/",
      "pubDate": "Fri, 13 Nov 2026 17:00:32 +0000",
      "summary": "Sergiy Nesterenko is founder and CEO of Quilter, which builds physics-driven AI for printed circuit board (PCB) layout. He triple majored in mathematics, physics, and chemistry at UC Berkeley and worked in the electromagnetic interference and compatibility (EMI/EMC) group at SpaceX during the early ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout"
+    },
+    {
+     "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 15:17:38 +0000",
+     "summary": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
+     "source": "Electronics Weekly",
+     "zh": "Jedec creates Subcommittee to address System Level Reliability Testing"
     },
     {
      "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
@@ -290,12 +306,44 @@ window.INDUSTRY_DATA = {
      "zh": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage"
     },
     {
+     "title": "Technologies Which Died",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 14:05:31 +0000",
+     "summary": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Technologies Which Died"
+    },
+    {
+     "title": "Electronica: Renesas adds Xplorer Developer Hub",
+     "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 13:58:00 +0000",
+     "summary": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Renesas adds Xplorer Developer Hub"
+    },
+    {
      "title": "Jensen Huang and the Cost of Unchecked Influence",
      "link": "https://semiwiki.com/semiconductor-manufacturers/376254-jensen-huang-and-the-accountability-crisis-at-nvidia/",
      "pubDate": "Fri, 13 Nov 2026 13:00:18 +0000",
      "summary": "As a semiconductor professional with 45 years in the industry, born and raised in Silicon Valley, I’ve followed Nvidia and Jensen Huang from the beginning. Jensen has been my No. 1 semiconductor CEO for many years, and he still is today. My wife and I have met Jensen and his wife, Lori, on several s",
      "source": "SemiWiki",
      "zh": "Jensen Huang and the Cost of Unchecked Influence"
+    },
+    {
+     "title": "Electronica – The latest news roundup",
+     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 11:12:27 +0000",
+     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Electronica – The latest news roundup"
+    },
+    {
+     "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 11:09:27 +0000",
+     "summary": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications"
     },
     {
      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. The post Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall"
-    },
-    {
-     "title": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI",
-     "link": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/",
-     "pubDate": "Thu, 12 Nov 2026 08:06:49 +0000",
-     "summary": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI"
-    },
-    {
-     "title": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall",
-     "link": "https://semiengineering.com/designing-edge-ai-socs-at-near-threshold-why-foundation-ip-can-help-you-break-down-the-power-wall/",
-     "pubDate": "Thu, 12 Nov 2026 08:05:04 +0000",
-     "summary": "Traditional voltage scaling is no longer sufficient to deliver real-time performance within tight energy and thermal limits. The post Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall"
-    },
-    {
-     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
-     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
-    },
-    {
-     "title": "JX and OXIDE enter into capital and business alliance agreement",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/jx-oxide-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 19:39:19 GMT",
-     "summary": "Tokyo-based JX Advanced Metals Corp and OXIDE Corp of Yamanashi, Japan (which specializes in optical crystals and frequency-conversion technology) have entered into a capital and business alliance agreement. JX plans to subscribe for shares to be issued by OXIDE through a third-party allotment and a",
-     "source": "Semiconductor Today",
-     "zh": "JX and OXIDE enter into capital and business alliance agreement"
-    },
-    {
-     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
-     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
-     "source": "Semiconductor Today",
-     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
-    },
-    {
-     "title": "The Race to Build a “Find My” for AI Chips",
-     "link": "https://spectrum.ieee.org/find-my-ai-chip",
-     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
-     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -1802,6 +1802,14 @@ window.INDUSTRY_DATA = {
      "zh": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites"
     },
     {
+     "title": "No AI Slop: A Manifesto",
+     "link": "https://www.slopmanifesto.com/",
+     "pubDate": "Fri, 13 Nov 2026 19:51:56 +0000",
+     "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 20 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "No AI Slop: A Manifesto"
+    },
+    {
      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
      "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
      "pubDate": "Fri, 13 Nov 2026 19:49:16 +0000",
@@ -1810,26 +1818,50 @@ window.INDUSTRY_DATA = {
      "zh": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good"
     },
     {
+     "title": "Someone's Impersonating This Blog",
+     "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+     "pubDate": "Fri, 13 Nov 2026 19:41:09 +0000",
+     "summary": "Article URL: https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/ Comments URL: https://news.ycombinator.com/item?id=50488664 Points: 24 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Someone's Impersonating This Blog"
+    },
+    {
+     "title": "Technology as a Search Problem",
+     "link": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+     "pubDate": "Fri, 13 Nov 2026 19:27:15 +0000",
+     "summary": "Article URL: https://www.construction-physics.com/p/technology-as-a-search-problem Comments URL: https://news.ycombinator.com/item?id=50488490 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Technology as a Search Problem"
+    },
+    {
+     "title": "Found: A protein that drives ageing without unleashing inflammation",
+     "link": "https://www.nature.com/articles/d41586-026-03638-3",
+     "pubDate": "Fri, 13 Nov 2026 19:25:21 +0000",
+     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 10 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Found: A protein that drives ageing without unleashing inflammation"
+    },
+    {
      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
      "pubDate": "Fri, 13 Nov 2026 19:24:47 +0000",
-     "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 19 # Comments: 3",
      "source": "Hacker News",
      "zh": "Perplexity Decider v1.3: Training, eval, and use cases"
     },
     {
-     "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Shirin Ghaffary/Bloomberg)",
+     "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
      "link": "https://www.techmeme.com/261113/p25#a261113p25",
      "pubDate": "Fri, 13 Nov 2026 14:20:01 -0500",
-     "summary": "Shirin Ghaffary / Bloomberg : Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's &ldquo;deepest business dilemma&rdquo; due to the unpredictability of revenue &nbsp; &mdash;&nbsp; Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing pow",
+     "summary": "Bloomberg : Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's &ldquo;deepest business dilemma&rdquo; due to the unpredictability of revenue &nbsp; &mdash;&nbsp; Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the a",
      "source": "Techmeme",
-     "zh": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Shirin Ghaffary/Bloomberg)"
+     "zh": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)"
     },
     {
      "title": "FM-1 Workbench",
      "link": "https://open.m-vave.com/fm1-workbench",
      "pubDate": "Fri, 13 Nov 2026 19:14:02 +0000",
-     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 33 # Comments: 12",
+     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 59 # Comments: 30",
      "source": "Hacker News",
      "zh": "FM-1 Workbench"
     },
@@ -1856,38 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "Allison Johnson / The Verge : Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags &nbsp; &mdash;&nbsp; Normally, the products I test don't offer to help me write up my experience with them.&nbsp; ",
      "source": "Techmeme",
      "zh": "Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags (Allison Johnson/The Verge)"
-    },
-    {
-     "title": "The avalanche that hit math is coming for AI development",
-     "link": "https://www.dwarkesh.com/p/rsi",
-     "pubDate": "Fri, 13 Nov 2026 18:39:42 +0000",
-     "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 44 # Comments: 45",
-     "source": "Hacker News",
-     "zh": "The avalanche that hit math is coming for AI development"
-    },
-    {
-     "title": "Models can now transmit viruses in weight-space",
-     "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-     "pubDate": "Fri, 13 Nov 2026 18:33:35 +0000",
-     "summary": "Article URL: https://www.alphaxiv.org/abs/2611.weight-space-misfolding Comments URL: https://news.ycombinator.com/item?id=50487762 Points: 60 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "Models can now transmit viruses in weight-space"
-    },
-    {
-     "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-     "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-     "pubDate": "Fri, 13 Nov 2026 18:23:49 +0000",
-     "summary": "Article URL: https://toninoble.com/post/ctrlc-ctrlv-ctrlcve Comments URL: https://news.ycombinator.com/item?id=50487605 Points: 22 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures"
-    },
-    {
-     "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-     "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-     "pubDate": "Fri, 13 Nov 2026 18:18:37 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/ Comments URL: https://news.ycombinator.com/item?id=50487522 Points: 96 # Comments: 43",
-     "source": "Hacker News",
-     "zh": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad"
     },
     {
      "title": "Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week (Mithil Aggarwal/NBC News)",
@@ -2010,6 +2010,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Google Maps, Spotify, and more are coming to Xiaomi 18 Pro’s rear display",
+     "link": "https://www.androidauthority.com/xiaomi-18-pro-rear-display-features-3735180/",
+     "pubDate": "Fri, 13 Nov 2026 20:19:37 +0000",
+     "summary": "Xiaomi wants you to spend more time looking at your phone's back.",
+     "source": "Android Authority",
+     "zh": "Google Maps, Spotify, and more are coming to Xiaomi 18 Pro’s rear display"
+    },
+    {
      "title": "Epic formally asks SCOTUS to uphold contempt ruling against Apple",
      "link": "https://9to5mac.com/2026/11/13/epic-formally-asks-scotus-to-uphold-contempt-ruling-against-apple/",
      "pubDate": "Fri, 13 Nov 2026 20:00:50 +0000",
@@ -2128,14 +2136,6 @@ window.INDUSTRY_DATA = {
      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
      "source": "9to5Mac",
      "zh": "9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available"
-    },
-    {
-     "title": "Pixel users report workplace and school Wi-Fi connectivity issues after November update",
-     "link": "https://www.androidauthority.com/google-pixel-november-update-enterprise-wifi-issues-3735105/",
-     "pubDate": "Fri, 13 Nov 2026 17:55:59 +0000",
-     "summary": "Google is looking into the complaints.",
-     "source": "Android Authority",
-     "zh": "Pixel users report workplace and school Wi-Fi connectivity issues after November update"
     },
     {
      "title": "You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’",
@@ -2258,12 +2258,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "HealthWarehouse.com GAAP EPS of -$0.01, revenue of $6.49M",
-     "link": "https://seekingalpha.com/news/4672608-healthwarehouse-com-gaap-eps-of-0_01-revenue-of-6_49m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 15:03:07 -0500",
+     "title": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;",
+     "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+     "pubDate": "Fri, 13 Nov 2026 20:27:47 GMT",
+     "summary": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks.",
+     "source": "CNBC",
+     "zh": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;"
+    },
+    {
+     "title": "Seabridge Gold Inc. GAAP EPS of $0.06",
+     "link": "https://seekingalpha.com/news/4672614-seabridge-gold-inc-gaap-eps-of-0_06?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:27:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "HealthWarehouse.com GAAP EPS of -$0.01, revenue of $6.49M"
+     "zh": "Seabridge Gold Inc. GAAP EPS of $0.06"
+    },
+    {
+     "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+     "pubDate": "Fri, 13 Nov 2026 20:21:46 GMT",
+     "summary": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
+     "source": "CNBC",
+     "zh": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC"
+    },
+    {
+     "title": "Enovix smacked with at least three brokerage downgrades on smartphone exit",
+     "link": "https://seekingalpha.com/news/4672607-enovix-smacked-with-at-least-three-brokerage-downgrades-on-smartphone-exit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:21:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Enovix smacked with at least three brokerage downgrades on smartphone exit"
+    },
+    {
+     "title": "Measles cases rise to over 5,400 across US",
+     "link": "https://seekingalpha.com/news/4672609-measles-cases-rise-to-over-5400-across-us?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:21:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Measles cases rise to over 5,400 across US"
+    },
+    {
+     "title": "TuHURA Biosciences reports Q3 results",
+     "link": "https://seekingalpha.com/news/4672612-tuhura-biosciences-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:20:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TuHURA Biosciences reports Q3 results"
+    },
+    {
+     "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
+     "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 20:19:00 GMT",
+     "summary": "The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.",
+     "source": "MarketWatch",
+     "zh": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks."
+    },
+    {
+     "title": "Canlan Ice Sports GAAP EPS of -$0.08, revenue of $22.84M",
+     "link": "https://seekingalpha.com/news/4672611-canlan-ice-sports-gaap-eps-of-0_08-revenue-of-22_84m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:13:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Canlan Ice Sports GAAP EPS of -$0.08, revenue of $22.84M"
+    },
+    {
+     "title": "SA Asks: How much will Jensen Huang's departure hurt Nvidia?",
+     "link": "https://seekingalpha.com/news/4672606-sa-asks-how-much-will-jensen-huangs-departure-hurt-nvidia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:10:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How much will Jensen Huang's departure hurt Nvidia?"
     },
     {
      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
@@ -2282,36 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?"
     },
     {
-     "title": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;",
-     "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
-     "pubDate": "Fri, 13 Nov 2026 19:59:17 GMT",
-     "summary": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks.",
-     "source": "CNBC",
-     "zh": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;"
-    },
-    {
-     "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-     "pubDate": "Fri, 13 Nov 2026 19:54:06 GMT",
-     "summary": "Speculation has swirled around who Nvidia's board will select to permanently succeed Huang.",
-     "source": "CNBC",
-     "zh": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC"
-    },
-    {
      "title": "Meta据悉正在员工内部测试一款新的预测市场应用",
      "link": "http://finance.eastmoney.com/news/1351,202611143931077175.html",
      "pubDate": "Sat, 14 Nov 2026 03:52:25 +0800",
      "summary": "Meta据悉正在员工内部测试一款新的预测市场应用。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "Meta据悉正在员工内部测试一款新的预测市场应用"
-    },
-    {
-     "title": "AstraZeneca eliminates 600 respiratory and immunology sales reps: Bloomberg",
-     "link": "https://seekingalpha.com/news/4672599-astrazeneca-eliminates-600-respiratory-and-immunology-sales-reps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 14:51:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AstraZeneca eliminates 600 respiratory and immunology sales reps: Bloomberg"
     },
     {
      "title": "哈塞特称有关他将离开白宫的报道“不属实”",
@@ -2322,44 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "哈塞特称有关他将离开白宫的报道“不属实”"
     },
     {
-     "title": "Suncrete, Inc. GAAP EPS of -$0.01 misses by $0.06, revenue of $140.96M misses by $5.23M",
-     "link": "https://seekingalpha.com/news/4672605-suncrete-inc-gaap-eps-of-0_01-misses-by-0_06-revenue-of-140_96m-misses-by-5_23m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 14:46:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Suncrete, Inc. GAAP EPS of -$0.01 misses by $0.06, revenue of $140.96M misses by $5.23M"
-    },
-    {
      "title": "英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%",
      "link": "http://finance.eastmoney.com/news/1351,202611143931076927.html",
      "pubDate": "Sat, 14 Nov 2026 03:46:04 +0800",
      "summary": "英仕曼集团 的Matthew Rowe表示，他越来越担心美国经济陷入滞胀，并认为这一风险可能推动10年期美国国债收益率在明年初升至5.5%。管理着2,710亿美元资产的 英仕曼集团 的高级投资组合经理兼解决方案部门董事总经理Rowe表示，随着美联储将利率推高至足以引发温和衰退的水平，各期限债券收益率可能继续上升。10年期美债收益率周五小幅升至5.14%。与此同时，伊朗战争带来的石油冲击、美国总统唐纳德·特朗普的关税以及 人工智能 投资热潮可能令通胀维持高位，这种局面可能导致经济陷入相比1970年代的滞胀较温和的版本。“由于通胀持续不退，加之美联储目前陷入困境，滞胀已经悄然进入基准情景，”Row",
      "source": "东方财富股票",
      "zh": "英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%"
-    },
-    {
-     "title": "Ecolab upgraded at Wells Fargo, touting CoolIT and Ovivo acquisitions",
-     "link": "https://seekingalpha.com/news/4672596-ecolab-upgraded-at-wells-fargo-touting-coolit-and-ovivo-acquisitions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 14:42:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ecolab upgraded at Wells Fargo, touting CoolIT and Ovivo acquisitions"
-    },
-    {
-     "title": "LunR Royalties Corp. GAAP EPS of $0.00 in-line, revenue of $2.2M",
-     "link": "https://seekingalpha.com/news/4672604-lunr-royalties-corp-gaap-eps-of-0_00-in-line-revenue-of-2_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 14:42:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "LunR Royalties Corp. GAAP EPS of $0.00 in-line, revenue of $2.2M"
-    },
-    {
-     "title": "Suncrete expects $200m-$250m 2027 revenue from 2026 acquisitions as it revises 2026 outlook",
-     "link": "https://seekingalpha.com/news/4672603-suncrete-expects-200m-250m-2027-revenue-from-2026-acquisitions-as-it-revises-2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 14:40:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Suncrete expects $200m-$250m 2027 revenue from 2026 acquisitions as it revises 2026 outlook"
     },
     {
      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
@@ -2416,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
      "source": "MarketWatch",
      "zh": "The scandal at Nvidia is exactly what’s wrong with the S&P 500"
-    },
-    {
-     "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets",
-     "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 19:19:00 GMT",
-     "summary": "Meanwhile, top officials from Nvidia and the Commerce Department face a series of congressional hearings next month.",
-     "source": "MarketWatch",
-     "zh": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets"
     },
     {
      "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",

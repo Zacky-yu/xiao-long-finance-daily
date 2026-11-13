@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/13 14:25:19",
+ "generated_at": "2026/11/13 14:31:59",
  "recent_days": 7,
  "industries": [
   {
@@ -972,7 +972,7 @@
      "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
      "link": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
      "pubDate": "Thu, 12 Nov 2026 13:25:33 -0500",
-     "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base expected to supply almost a quarter of 2027 consumption, EIA said.",
+     "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base that is expected to supply almost a quarter of 2027 consumption, EIA said.",
      "source": "Utility Dive",
      "zh": "As coal burn declines, rising power demand will be primarily met by renewables: EIA"
     },
@@ -999,6 +999,14 @@
      "summary": "Terra-Gen completes PV park in California, Duke Energy Florida plans four new solar arrays, and Altus Power acquires another 92 projects.",
      "source": "PV Tech",
      "zh": "US ROUND-UP: Duke Energy Florida, Terra-Gen in California and Altus Power continues acquisition strategy"
+    },
+    {
+     "title": "Around 400 onshore wind projects await DOD action, official tells court",
+     "link": "https://www.utilitydive.com/news/around-400-onshore-wind-projects-await-dod-action-official-says-in-court/874521/",
+     "pubDate": "Thu, 12 Nov 2026 10:48:08 -0500",
+     "summary": "Assistant Secretary of Defense&nbsp;Dale Marks told a federal court that the Pentagon doesn&rsquo;t have enough staff to review permits. A coalition suing DOD says the process ground &ldquo;to a halt&rdquo; after Marks was confirmed.",
+     "source": "Utility Dive",
+     "zh": "Around 400 onshore wind projects await DOD action, official tells court"
     },
     {
      "title": "Diversified portfolios, rather than hybrid projects, offer promise for European renewables traders – Pexapark",
@@ -1079,14 +1087,6 @@
      "summary": "If two modules carry a Class A designation, how much can we actually conclude about their fire performance?",
      "source": "PV Tech",
      "zh": "Class A fire ratings leave differences in PV module performance unresolved"
-    },
-    {
-     "title": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech",
-     "link": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
-     "pubDate": "Thu, 12 Nov 2026 11:59:58 +0000",
-     "summary": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises.",
-     "source": "Energy Storage News",
-     "zh": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech"
     }
    ]
   },
@@ -1100,7 +1100,7 @@
      "title": "Windward prices $175M IPO to advance China-licensed lung drugs",
      "link": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
      "pubDate": "Thu, 12 Nov 2026 20:22:00 -0500",
-     "summary": "The Swiss biotech, which pocketed another $50 million through a concurrent private share sale to Sanofi, is developing a potential competitor to the blockbuster asthma treatment Tezspire.",
+     "summary": "The Swiss biotech has two prospects it sees as having the potential to outcompete AstraZeneca and Amgen's blockbuster asthma treatment Tezspire.",
      "source": "BioPharma Dive",
      "zh": "Windward prices $175M IPO to advance China-licensed lung drugs"
     },
@@ -1761,6 +1761,30 @@
    "total": 18,
    "items": [
     {
+     "title": "黄仁勋离职，存储芯片巨头的生意会变吗？",
+     "link": "https://www.huxiu.com/article/4905348.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 14:21:24 +0800",
+     "summary": "本文来自微信公众号： 芯世相 ，作者：李在林 台媒报道，英伟达CEO黄仁勋辞去CEO一职，或牵动台韩供应链。有分析指出其真正的变数在于尚处投资初期的AI工厂、机器人及自动驾驶业务计划。 Omdia首席分析师苏廉节警告，若英伟达执行速度放慢或产品蓝图不再明确，竞争对手将获得更多追赶空间。韩国企业可能必须分散半导体客户，中国台湾供应链也得重新评估产能扩张节奏。 这一变局对亚洲半导体供应链意味着什么？韩国媒体从SK海力士和三星的角度进行了分析，我们也结合其他报道，对相关影响作了进一步梳理。 11月12日（当地时间），黄仁勋辞去了他共同创立的英伟达的所有职务，包括总裁、CEO和董事会成员，董事会任命首",
+     "source": "虎嗅",
+     "zh": "黄仁勋离职，存储芯片巨头的生意会变吗？"
+    },
+    {
+     "title": "韩国上线前被GRAC退回两次，备货节奏该怎么排？",
+     "link": "https://www.baijing.cn/question/638706",
+     "pubDate": "Fri, 13 Nov 2026 06:21:13 +0000",
+     "summary": "我们做二次元卡牌手游，团队20人，准备4月进韩国，GRAC分级第一次因概率类道具公示材料不全被退回，补交后第二次又卡在青少年可接触性说明上，前后耗了五周。现在发行商催着定上线日，但工厂那边周边备货（亚克力立牌、徽章）已经按原档期下了首批3000套，退货条款只覆盖质量问题、不覆盖延期。已经试过找本地代理预审、也把抽卡概率表重做了一版，卡在分级证没下来就不敢锁投放和物流入仓。想请教：在GRAC结果不确定的情况下，备货和退货风险该怎么和工厂谈才不至于压死现金流？",
+     "source": "白鲸出海",
+     "zh": "韩国上线前被GRAC退回两次，备货节奏该怎么排？"
+    },
+    {
+     "title": "观察｜汽车出海的下半场：建一座工厂容易，扎下一条产业链很难",
+     "link": "https://www.huxiu.com/article/4905345.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 14:19:40 +0800",
+     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《观察｜汽车出海的下半场：建一座工厂容易，扎下一条产业链很难》 2026年6月，中国汽车月度出口第一次越过100万辆。前三季度，整车出口820.5万辆，同比增长65.8%，已超过2025年全年的709.8万辆（中汽协口径；海关统计口径为832万辆）；新能源汽车出口400.6万辆，同比增长127.9%，从6月起出口占比连续四个月超过50%。中汽协副秘书长陈士华给出的全年预测是：有望超过1000万辆。 数字在往上冲，但出海的方式正在往下沉。奇瑞上半年海外营收占比69.1%，长城55%，比亚迪52.6%——海外市场第一次在多家头部车企的收入结",
+     "source": "虎嗅",
+     "zh": "观察｜汽车出海的下半场：建一座工厂容易，扎下一条产业链很难"
+    },
+    {
      "title": "腾讯和百度，不再养“闲人”",
      "link": "https://www.huxiu.com/article/4905343.html?f=rss",
      "pubDate": "Fri, 13 Nov 2026 14:12:17 +0800",
@@ -1905,14 +1929,6 @@
      "zh": "古尔曼嘲讽“苹果库克接掌英伟达”传闻：简直荒谬"
     },
     {
-     "title": "黄仁勋辞职，对游戏玩家来说不是个好消息",
-     "link": "https://www.huxiu.com/article/4905326.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 13:36:47 +0800",
-     "summary": "本文来自微信公众号： BB姬 ，作者：mikasa 一个由白发皮衣男上台发布最新款游戏显卡的时代，戛然而止。 就在11月12日晚上，英伟达宣布，公司董事会已经批准黄仁勋辞去公司总裁、CEO及董事职务。公司现任副总裁兼CFO Colette Kress将担任临时CEO，董事会启动了新任CEO遴选程序，同时考虑内部和外部候选人。 至此，在一周内，经历两起出轨事件曝光（可能还有潜在的第三起）、公司股价持续下跌、董事会内部协商后，黄仁勋正式离开了自己创办了33年的公司。 这不止是一个八卦狗血故事，黄仁勋离任的影响之深远，肯定会波及全球芯片、AI、游戏等多个行业。 回头来看，英伟达之所以能发展到今天的规",
-     "source": "虎嗅",
-     "zh": "黄仁勋辞职，对游戏玩家来说不是个好消息"
-    },
-    {
      "title": "日本市场AI订阅工具用Stripe还是本地支付，人手只够维护一套怎么选？",
      "link": "https://www.baijing.cn/question/638702",
      "pubDate": "Fri, 13 Nov 2026 05:35:36 +0000",
@@ -1945,14 +1961,6 @@
      "zh": "微软云服务全球宕机"
     },
     {
-     "title": "300余只狗被跨省运输2000公里4次受检后折返，救狗者花18万买下",
-     "link": "https://www.huxiu.com/article/4905323.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 13:30:07 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：张钰馨 一辆载着300余只狗的货车，从西藏出发，途经云南、广西，跨省行驶约2000公里。沿途，有网友查询车辆轨迹，跟车追赶、联系有关部门介入核查。 对于这车狗的命运，救助者各执一词。有人主张出钱买下，有人主张等候执法部门处理。 对涉嫌违规调运动物的货车，由农业农村部门依法开展防疫监督检查，理应没有歧义。根据有关规定，运输动物的车辆进入或途经一个省份时，须走当地设立的指定通道。指定通道检查站人员人数需满足24小时轮班值守需求。 途中查验是必要的。以流向餐桌的生猪、牛为例，动物启运前要接受产地检疫，取得检疫合格证明，进场屠宰前还要接受宰前检查。走指定通道核查",
-     "source": "虎嗅",
-     "zh": "300余只狗被跨省运输2000公里4次受检后折返，救狗者花18万买下"
-    },
-    {
      "title": "印度短剧用泰米尔语配音、印地语字幕，为什么完播率反而比纯印地语低一截？",
      "link": "https://www.baijing.cn/question/638701",
      "pubDate": "Fri, 13 Nov 2026 05:21:23 +0000",
@@ -1967,14 +1975,6 @@
      "summary": "IT之家 11 月 13 日消息，微软执行副总裁查尔斯 · 拉曼纳（Charles Lamanna）今天（11 月 13 日）在 X 平台发布推文， 就本次 Outlook、Exchange Online 等办公服务出现故障公开致歉，团队正在努力解决问题，并持续通报最新修复状态。 此次故障最初涉及 Teams，随后微软确认 Exchange Online 和 Outlook 也受到影响。故障还波及邮件之外的办公功能。Teams、SharePoint Online、Microsoft 365 Copilot 等服务中，部分依赖 Exchange 的功能受到牵连。 截至IT之家发稿前，相关服务故障",
      "source": "IT之家",
      "zh": "微软高管回应 Outlook 等服务中断：深感遗憾，正全力修复"
-    },
-    {
-     "title": "尼日利亚站接入本地支付后，3人团队怎么排期才扛得住对账和拒付？",
-     "link": "https://www.baijing.cn/question/638700",
-     "pubDate": "Fri, 13 Nov 2026 05:16:24 +0000",
-     "summary": "我们做的是面向尼日利亚市场的快消类电商独立站，刚上线三个月，日订单在300-500单之间，团队一共3个人，其中只有1个兼职财务。上个月接了Paystack和Flutterwave两个本地通道，本来指望银行转账和USSD能拉高转化，结果转化率确实从1.8%涨到2.6%，但麻烦也来了：银行转账的到账确认要人工核对，每天大概有40-60单状态对不上，拒付和退款申诉一周能积到20多单，财务一个人根本追不过来。现在想砍掉一个通道又怕影响转化，不砍的话排期已经排到两周后了。想问问同样是小团队做尼日利亚的，你们是按订单金额还是按通道成功率来决定保留哪个本地支付方式的？",
-     "source": "白鲸出海",
-     "zh": "尼日利亚站接入本地支付后，3人团队怎么排期才扛得住对账和拒付？"
     },
     {
      "title": "Scientists claim the universe is twice as old as believed",
@@ -2259,58 +2259,58 @@
     {
      "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
-     "pubDate": "Fri, 13 Nov 2026 06:16:37 GMT",
+     "pubDate": "Fri, 13 Nov 2026 06:28:54 GMT",
      "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
      "source": "CNBC",
      "zh": "Why Singapore keeps turning up in the fight over Nvidia chips and China"
     },
     {
-     "title": "Asian equities retreat amid Nvidia turmoil and rising yields ahead of Anthropic IPO; Bitcoin drops below $70K",
-     "link": "https://seekingalpha.com/news/4672108-asian-equities-retreat-amid-nvidia-turmoil-and-rising-yields-ahead-of-anthropic-ipo-bitcoin-drops-below-70k?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 01:14:27 -0500",
+     "title": "KeyCorp declares $0.205 dividend",
+     "link": "https://seekingalpha.com/news/4672126-keycorp-declares-0205-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 01:26:36 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Asian equities retreat amid Nvidia turmoil and rising yields ahead of Anthropic IPO; Bitcoin drops below $70K"
+     "zh": "KeyCorp declares $0.205 dividend"
     },
     {
-     "title": "Martinrea reaffirms 2026 outlook of $4.5B-$4.9B sales while accelerating Europe restructuring",
-     "link": "https://seekingalpha.com/news/4672120-martinrea-reaffirms-2026-outlook-of-4_5b-4_9b-sales-while-accelerating-europe-restructuring?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 01:12:35 -0500",
+     "title": "KeyCorp Deposit Shs Repr Non-Cum Perp Pfd Registered Shs Series E declares $0.3828 dividend",
+     "link": "https://seekingalpha.com/news/4672125-keycorp-deposit-shs-repr-non-cum-perp-pfd-registered-shs-series-e-declares-03828-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 01:23:53 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Martinrea reaffirms 2026 outlook of $4.5B-$4.9B sales while accelerating Europe restructuring"
+     "zh": "KeyCorp Deposit Shs Repr Non-Cum Perp Pfd Registered Shs Series E declares $0.3828 dividend"
     },
     {
-     "title": "Bitcoin slips 4% below $70K mark as broader crypto market faces heavy liquidations",
-     "link": "https://seekingalpha.com/news/4672110-bitcoin-slips-4-below-70k-mark-as-broader-crypto-market-faces-heavy-liquidations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 01:10:49 -0500",
+     "title": "KeyCorp DEP SHS PFD F declares $0.3531 dividend",
+     "link": "https://seekingalpha.com/news/4672124-keycorp-dep-shs-pfd-f-declares-03531-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 01:23:08 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Bitcoin slips 4% below $70K mark as broader crypto market faces heavy liquidations"
+     "zh": "KeyCorp DEP SHS PFD F declares $0.3531 dividend"
     },
     {
-     "title": "Berkshire's latest Japan bond sale comes at higher borrowing costs - report",
-     "link": "https://seekingalpha.com/news/4672103-berkshires-latest-japan-bond-sale-comes-at-higher-borrowing-costs---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 01:07:46 -0500",
+     "title": "KeyCorp DP SHS PFD G declares $0.3516 dividend",
+     "link": "https://seekingalpha.com/news/4672123-keycorp-dp-shs-pfd-g-declares-03516-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 01:22:38 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Berkshire's latest Japan bond sale comes at higher borrowing costs - report"
+     "zh": "KeyCorp DP SHS PFD G declares $0.3516 dividend"
     },
     {
-     "title": "Knightscope outlines plan to convert approximately $27M in awards into revenue as K7 manufacturing begins for Q4 2026 deployments",
-     "link": "https://seekingalpha.com/news/4672119-knightscope-outlines-plan-to-convert-approximately-27m-in-awards-into-revenue-as-k7?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 00:59:58 -0500",
+     "title": "KeyCorp 6.2% DP SH PFD H declares $0.3875 dividend",
+     "link": "https://seekingalpha.com/news/4672122-keycorp-62-dp-sh-pfd-h-declares-03875-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 01:22:06 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Knightscope outlines plan to convert approximately $27M in awards into revenue as K7 manufacturing begins for Q4 2026 deployments"
+     "zh": "KeyCorp 6.2% DP SH PFD H declares $0.3875 dividend"
     },
     {
-     "title": "G Mining Ventures Non-GAAP EPS of $0.32, revenue of $172.73M misses by $11M; updates FY outlook",
-     "link": "https://seekingalpha.com/news/4672118-g-mining-ventures-non-gaap-eps-of-032-revenue-of-17273m-misses-by-11m-updates-fy-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 00:58:26 -0500",
+     "title": "Proficient Auto Logistics targets 95%-97% OR in 2027 as synergies rise to $20M-$30M",
+     "link": "https://seekingalpha.com/news/4672121-proficient-auto-logistics-targets-95-percentminus-97-percent-or-in-2027-as-synergies-rise-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 01:19:58 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "G Mining Ventures Non-GAAP EPS of $0.32, revenue of $172.73M misses by $11M; updates FY outlook"
+     "zh": "Proficient Auto Logistics targets 95%-97% OR in 2027 as synergies rise to $20M-$30M"
     },
     {
      "title": "英伟达暴跌后，散户抄底、半小时买入逾1亿美元",

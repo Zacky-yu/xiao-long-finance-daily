@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 02:12:03",
+ "generated_at": "2026/11/14 02:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -74,14 +74,6 @@ window.INDUSTRY_DATA = {
      "zh": "Introducing ChatGPT Wallet"
     },
     {
-     "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
-     "link": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
-     "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
-     "summary": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0 shipped in April 2026 with a stable specification and guaranteed backward compatibility.",
-     "source": "KDnuggets",
-     "zh": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour"
-    },
-    {
      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
      "pubDate": "Fri, 13 Nov 2026 14:44:48 +0000",
@@ -96,14 +88,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
-    },
-    {
-     "title": "5 FREE Open-Source Alternatives to Jev",
-     "link": "https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev",
-     "pubDate": "Fri, 13 Nov 2026 13:00:00 +0000",
-     "summary": "Looking for a free alternative to Jev? Here are 5 open-source decision models you can run locally, from high-accuracy options to lightweight models for AI agents.",
-     "source": "KDnuggets",
-     "zh": "5 FREE Open-Source Alternatives to Jev"
     },
     {
      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "能否在不影响任务完成的前提下压缩上下文？",
      "source": "机器之心",
      "zh": "ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销"
+    },
+    {
+     "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+     "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+     "pubDate": "Thu, 12 Nov 2026 22:43:26 +0000",
+     "summary": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec ",
+     "source": "MarkTechPost",
+     "zh": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec"
+    },
+    {
+     "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+     "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+     "pubDate": "Thu, 12 Nov 2026 22:42:51 +0000",
+     "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+     "source": "TechCrunch AI",
+     "zh": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump"
     }
    ]
   },
@@ -274,14 +274,6 @@ window.INDUSTRY_DATA = {
      "zh": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout"
     },
     {
-     "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 15:17:38 +0000",
-     "summary": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
-     "source": "Electronics Weekly",
-     "zh": "Jedec creates Subcommittee to address System Level Reliability Testing"
-    },
-    {
      "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
      "link": "https://www.eetimes.com/newspace-grade-nor-flash-right-sized-reliability-for-space-missions/",
      "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
@@ -298,22 +290,6 @@ window.INDUSTRY_DATA = {
      "zh": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage"
     },
     {
-     "title": "Technologies Which Died",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 14:05:31 +0000",
-     "summary": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Technologies Which Died"
-    },
-    {
-     "title": "Electronica: Renesas adds Xplorer Developer Hub",
-     "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 13:58:00 +0000",
-     "summary": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Renesas adds Xplorer Developer Hub"
-    },
-    {
      "title": "Jensen Huang and the Cost of Unchecked Influence",
      "link": "https://semiwiki.com/semiconductor-manufacturers/376254-jensen-huang-and-the-accountability-crisis-at-nvidia/",
      "pubDate": "Fri, 13 Nov 2026 13:00:18 +0000",
@@ -322,36 +298,12 @@ window.INDUSTRY_DATA = {
      "zh": "Jensen Huang and the Cost of Unchecked Influence"
     },
     {
-     "title": "Electronica – The latest news roundup",
-     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:12:27 +0000",
-     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Electronica – The latest news roundup"
-    },
-    {
-     "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:09:27 +0000",
-     "summary": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications"
-    },
-    {
      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
      "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
      "pubDate": "Fri, 13 Nov 2026 10:41:03 +0000",
      "summary": "NOVOSENSE NovoGenius MCU+ chips integrate analog, power, and drivers, adding intelligence to automotive edge nodes for motor control, sensing and lighting. The post How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node appeared first on EE Times .",
      "source": "EE Times",
      "zh": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node"
-    },
-    {
-     "title": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK",
-     "link": "https://www.electronicsweekly.com/news/design/stem/stem-for-space-uk-space-agency-invests-4-5m-for-esero-uk-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 10:08:56 +0000",
-     "summary": "The UK Space Agency (UKSA) is partnering with the European Space Agency (ESA) for the latest ESERO-UK programme. Investing £4.5 million, the programme aims to inspire young people into space […] The post STEM for space – UK Space Agency invests £4.5m for ESERO-UK appeared first on Electronics Weekly",
-     "source": "Electronics Weekly",
-     "zh": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK"
     },
     {
      "title": "<new>",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. The post Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall"
+    },
+    {
+     "title": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI",
+     "link": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/",
+     "pubDate": "Thu, 12 Nov 2026 08:06:49 +0000",
+     "summary": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI"
+    },
+    {
+     "title": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall",
+     "link": "https://semiengineering.com/designing-edge-ai-socs-at-near-threshold-why-foundation-ip-can-help-you-break-down-the-power-wall/",
+     "pubDate": "Thu, 12 Nov 2026 08:05:04 +0000",
+     "summary": "Traditional voltage scaling is no longer sufficient to deliver real-time performance within tight energy and thermal limits. The post Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall"
+    },
+    {
+     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
+     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
+    },
+    {
+     "title": "JX and OXIDE enter into capital and business alliance agreement",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/jx-oxide-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:39:19 GMT",
+     "summary": "Tokyo-based JX Advanced Metals Corp and OXIDE Corp of Yamanashi, Japan (which specializes in optical crystals and frequency-conversion technology) have entered into a capital and business alliance agreement. JX plans to subscribe for shares to be issued by OXIDE through a third-party allotment and a",
+     "source": "Semiconductor Today",
+     "zh": "JX and OXIDE enter into capital and business alliance agreement"
+    },
+    {
+     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
+     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
+     "source": "Semiconductor Today",
+     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -536,6 +536,14 @@ window.INDUSTRY_DATA = {
      "summary": "Claire chatted to Daniela Shchegelskaya from the University of Twente about getting robots to operate reliably in safety-critical environments. Daniela Shchegelskaya is an electronics and robotics engineer specialising in autonomous systems, control engineering, and Al-driven robotics for industrial",
      "source": "Robohub",
      "zh": "Robot Talk Episode 170 – Robots in the real world, with Daniela Shchegelskaya"
+    },
+    {
+     "title": "Narwal builds robot vacuums to serve regional needs",
+     "link": "https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/",
+     "pubDate": "Fri, 13 Nov 2026 13:18:05 +0000",
+     "summary": "Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets. The post Narwal builds robot vacuums to serve regional needs appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Narwal builds robot vacuums to serve regional needs"
     },
     {
      "title": "XPENG expands UK operations with new vehicles, robotaxis and humanoid robots",
@@ -618,14 +626,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI100 report released: embodied AI highlighted as grand challenge"
     },
     {
-     "title": "Serve Robotics opens robot delivery network for others to build on",
-     "link": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
-     "pubDate": "Wed, 11 Nov 2026 13:43:29 +0000",
-     "summary": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots. The post Serve Robotics opens robot delivery network for others to build on appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Serve Robotics opens robot delivery network for others to build on"
-    },
-    {
      "title": "AIhub coffee corner: Are humanoids the future of embodied AI?",
      "link": "https://robohub.org/aihub-coffee-corner-are-humanoids-the-future-of-embodied-ai/",
      "pubDate": "Mon, 09 Nov 2026 14:21:13 +0000",
@@ -649,6 +649,14 @@ window.INDUSTRY_DATA = {
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+     "link": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
+     "pubDate": "Fri, 13 Nov 2026 18:13:44 +0000",
+     "summary": "Tesla is now only selling one version of the Cybertruck in the US: the tri-motor Cyberbeast, which just got another $7,500 price hike to $109,990. The Dual Motor and Premium AWD trims are still listed on Tesla’s configurator, but both are greyed out and can’t be selected. So the cheapest Cybertruck ",
+     "source": "Electrek",
+     "zh": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast"
+    },
     {
      "title": "Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all",
      "link": "https://electrek.co/2026/11/13/hyundai-overhauling-kona-ev/",
@@ -720,14 +728,6 @@ window.INDUSTRY_DATA = {
      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
      "source": "TechCrunch Transport",
      "zh": "Uber confirms hackers stole thousands of drivers’ license information in data breach"
-    },
-    {
-     "title": "Zonveer ZX3 review: one of the best-value electric dirt bikes for beginners",
-     "link": "https://electrek.co/2026/11/13/zonveer-zx3-review-1299-electric-dirt-bike-beginners/",
-     "pubDate": "Fri, 13 Nov 2026 14:06:44 +0000",
-     "summary": "The Zonveer ZX3 is one of the best values I’ve seen in electric off-road riding, and one of the most fun things I’ve ridden to date – value for the dollar. Its Black Friday sale brings the 2,800W electric dirt bike down to $1,299, $500 off its $1,799 list price. For that money, you get a 1,200Wh bat",
-     "source": "Electrek",
-     "zh": "Zonveer ZX3 review: one of the best-value electric dirt bikes for beginners"
     },
     {
      "title": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "U.S. Oil Rigs Hold at 463 as Crude Output Hits Another Record",
+     "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rigs-Hold-at-463-as-Crude-Output-Hits-Another-Record.html",
+     "pubDate": "Fri, 13 Nov 2026 12:11:09 -0600",
+     "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling to 601, up 52 from this same time last year. The number of active oil rigs stayed the same at 463 duri",
+     "source": "OilPrice",
+     "zh": "U.S. Oil Rigs Hold at 463 as Crude Output Hits Another Record"
+    },
+    {
      "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
      "pubDate": "Fri, 13 Nov 2026 11:30:00 -0600",
@@ -952,14 +960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla is an interesting company at an interesting phase of the electric vehicle transition. Well, it has always been an interesting company in this transition. However, lately, as the industry has moved quickly into a new phase, I have been wondering where Tesla will sit amidst it in the coming ... ",
      "source": "CleanTechnica",
      "zh": "Is Tesla The Apple Of The EV Industry?"
-    },
-    {
-     "title": "How Global Energy Markets Survived Eight Months of Iran War Disruptions",
-     "link": "https://oilprice.com/Energy/Energy-General/How-Global-Energy-Markets-Survived-Eight-Months-of-Iran-War-Disruptions.html",
-     "pubDate": "Fri, 13 Nov 2026 08:30:00 -0600",
-     "summary": "Six months ago, I wrote that Americans were experiencing the Iran war primarily through higher prices, while much of the rest of the world was confronting something more serious: actual shortages of fuel and other critical products. In “The U.S. Feels Higher Prices While The World Is Facing Fuel Sho",
-     "source": "OilPrice",
-     "zh": "How Global Energy Markets Survived Eight Months of Iran War Disruptions"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1762,12 +1762,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week (Mithil Aggarwal/NBC News)",
+     "link": "https://www.techmeme.com/261113/p22#a261113p22",
+     "pubDate": "Fri, 13 Nov 2026 13:15:06 -0500",
+     "summary": "Mithil Aggarwal / NBC News : Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week &nbsp; &mdash;&nbsp; Reports of resigned CEO Jensen Huang's relationship with an alleged Chinese spy may lead to t",
+     "source": "Techmeme",
+     "zh": "Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week (Mithil Aggarwal/NBC News)"
+    },
+    {
      "title": "2026.46: The End of Jensen",
      "link": "https://stratechery.com/2026/the-end-of-jensen/",
      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
      "summary": "The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
      "source": "Stratechery",
      "zh": "2026.46: The End of Jensen"
+    },
+    {
+     "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+     "link": "https://isometricsf.com/",
+     "pubDate": "Fri, 13 Nov 2026 17:58:37 +0000",
+     "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landm",
+     "source": "Hacker News",
+     "zh": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area"
+    },
+    {
+     "title": "After 600 experiments, here's what I discovered about JEPA world models",
+     "link": "https://haddyalchaer.com/jepa",
+     "pubDate": "Fri, 13 Nov 2026 17:55:28 +0000",
+     "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "After 600 experiments, here's what I discovered about JEPA world models"
     },
     {
      "title": "Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally (Bruce Gil/Gizmodo)",
@@ -1781,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
      "pubDate": "Fri, 13 Nov 2026 17:30:10 +0000",
-     "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 38 # Comments: 2",
+     "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 80 # Comments: 6",
      "source": "Hacker News",
      "zh": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems"
     },
@@ -1826,10 +1850,18 @@ window.INDUSTRY_DATA = {
      "zh": "旅行者 1 号距离地球的距离达到一光日"
     },
     {
+     "title": "Concurrent Shell Command Queues",
+     "link": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+     "pubDate": "Fri, 13 Nov 2026 17:13:01 +0000",
+     "summary": "Article URL: https://emmer.dev/blog/concurrent-shell-command-queues/ Comments URL: https://news.ycombinator.com/item?id=50486521 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Concurrent Shell Command Queues"
+    },
+    {
      "title": "Arm boss Rene Haas approached in Nvidia CEO search",
      "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926",
      "pubDate": "Fri, 13 Nov 2026 17:10:33 +0000",
-     "summary": "Article URL: https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926 Comments URL: https://news.ycombinator.com/item?id=50486489 Points: 37 # Comments: 28",
+     "summary": "Article URL: https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926 Comments URL: https://news.ycombinator.com/item?id=50486489 Points: 46 # Comments: 40",
      "source": "Hacker News",
      "zh": "Arm boss Rene Haas approached in Nvidia CEO search"
     },
@@ -1845,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "\"LibreOffice works 365 days a year. Just saying.\"",
      "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
      "pubDate": "Fri, 13 Nov 2026 17:09:58 +0000",
-     "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 318 # Comments: 102",
+     "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 368 # Comments: 125",
      "source": "Hacker News",
      "zh": "\"LibreOffice works 365 days a year. Just saying.\""
     },
@@ -1866,36 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Nvidia&apos;s board has approached Arm CEO Rene Haas in its search for a potential successor to Jensen Huang; Haas worked at Nvidia more than a decade ago (Michael Acton/Financial Times)"
     },
     {
-     "title": "Apify Security Incident",
-     "link": "https://status.apify.com/incidents/sxd1dj5j6749",
-     "pubDate": "Fri, 13 Nov 2026 16:55:59 +0000",
-     "summary": "Article URL: https://status.apify.com/incidents/sxd1dj5j6749 Comments URL: https://news.ycombinator.com/item?id=50486258 Points: 39 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Apify Security Incident"
-    },
-    {
-     "title": "North Korean hackers used fake video calls in $400M crypto hack, says FBI",
-     "link": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
-     "pubDate": "Fri, 13 Nov 2026 16:50:22 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cqdj1ellpd70o Comments URL: https://news.ycombinator.com/item?id=50486178 Points: 28 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "North Korean hackers used fake video calls in $400M crypto hack, says FBI"
-    },
-    {
      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
      "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
      "pubDate": "Fri, 13 Nov 2026 16:26:32 +0000",
      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
      "source": "Ars Technica",
      "zh": "Windows 0-day dropped by disgruntled researcher hands hackers System rights"
-    },
-    {
-     "title": "Paytm gets tentative approval to revive its digital wallet, which effectively died after India&apos;s central bank canceled Paytm Payments Bank&apos;s license in April (Sankalp Phartiyal/Bloomberg)",
-     "link": "https://www.techmeme.com/261113/p16#a261113p16",
-     "pubDate": "Fri, 13 Nov 2026 11:25:03 -0500",
-     "summary": "Sankalp Phartiyal / Bloomberg : Paytm gets tentative approval to revive its digital wallet, which effectively died after India's central bank canceled Paytm Payments Bank's license in April &nbsp; &mdash;&nbsp; Paytm has received a tentative approval from India's central bank to operate its digital ",
-     "source": "Techmeme",
-     "zh": "Paytm gets tentative approval to revive its digital wallet, which effectively died after India&apos;s central bank canceled Paytm Payments Bank&apos;s license in April (Sankalp Phartiyal/Bloomberg)"
     },
     {
      "title": "汽车芯片再次告急，这次是晶圆厂不想生产了",
@@ -1936,14 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 13 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— 华为凌霄子母路由 Q7 电线版 。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连， 对比传统 WiFi，可降低游戏网络卡顿率 。 IT之家注意到，华为 MatePad Pro 13.2 2023 等机型推送了鸿蒙 HarmonyOS 7.0.0.111 SP16 版本升级，带来了星闪电竞专链功能 —— 支持与具备星闪电竞专链特性的华为路由， 基于星闪连接技术建立专属连接 ，提升游戏运行的流畅度与稳定性。 作为参考，华为官网显示，",
      "source": "IT之家",
      "zh": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能"
-    },
-    {
-     "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
-     "link": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
-     "pubDate": "Fri, 13 Nov 2026 15:52:04 +0000",
-     "summary": "Article URL: https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e Comments URL: https://news.ycombinator.com/item?id=50485295 Points: 120 # Comments: 36",
-     "source": "Hacker News",
-     "zh": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers"
     },
     {
      "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Save 30% on a four-pack of Kasa Smart Plug Ultra Minis",
+     "link": "https://www.androidauthority.com/kasa-smart-plug-ultra-mini-amazon-deal-3735143/",
+     "pubDate": "Fri, 13 Nov 2026 18:11:55 +0000",
+     "summary": "Get $9 off four compact Wi-Fi plugs that work with Alexa and Google Assistant, no hub needed.",
+     "source": "Android Authority",
+     "zh": "Save 30% on a four-pack of Kasa Smart Plug Ultra Minis"
+    },
     {
      "title": "Recompa simplifies Android handheld installs so you can spend more time playing",
      "link": "https://www.androidauthority.com/recompa-android-app-for-handhelds-3735102/",
@@ -2146,14 +2154,6 @@ window.INDUSTRY_DATA = {
      "zh": "iOS 27.2 has two CarPlay improvements, here’s what’s new"
     },
     {
-     "title": "Nothing Ear (3a) earbuds get a $30 discount, now $69",
-     "link": "https://www.androidauthority.com/nothing-ear-3a-deal-3735098/",
-     "pubDate": "Fri, 13 Nov 2026 15:58:47 +0000",
-     "summary": "Nothing Ear (3a) earbuds are 30% off in an Early Black Friday Deal, cutting the price to an all-time low on Amazon.",
-     "source": "Android Authority",
-     "zh": "Nothing Ear (3a) earbuds get a $30 discount, now $69"
-    },
-    {
      "title": "Pixel Watch update brings a sweet redesign I wish was on more apps",
      "link": "https://9to5google.com/2026/11/13/google-pixel-watch-media-controls-redesign-update/",
      "pubDate": "Fri, 13 Nov 2026 15:55:00 +0000",
@@ -2258,28 +2258,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "WhiteHawk anticipates cash available for distribution \"well over $3\" in 2028 as acquisitions top $157M since IPO",
-     "link": "https://seekingalpha.com/news/4672560-whitehawk-anticipates-cash-available-for-distribution-well-over-3-in-2028-as-acquisitions-top?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 13:00:20 -0500",
+     "title": "NextEra Energy stock struggles: Oversold bounce or another leg lower?",
+     "link": "https://seekingalpha.com/news/4672572-nextera-energy-stock-struggles-oversold-bounce-or-another-leg-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 13:27:48 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "WhiteHawk anticipates cash available for distribution \"well over $3\" in 2028 as acquisitions top $157M since IPO"
+     "zh": "NextEra Energy stock struggles: Oversold bounce or another leg lower?"
     },
     {
-     "title": "Digi Power X targets $250M-$300M annualized revenue run rate by end of Q3 2027 as Columbiana Phase 1 billing nears",
-     "link": "https://seekingalpha.com/news/4672559-digi-power-x-targets-250m-300m-annualized-revenue-run-rate-by-end-of-q3-2027-as-columbiana?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 13:00:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Digi Power X targets $250M-$300M annualized revenue run rate by end of Q3 2027 as Columbiana Phase 1 billing nears"
+     "title": "The epic $29 trillion battle for Social Security has begun",
+     "link": "https://www.marketwatch.com/story/the-epic-29-trillion-battle-for-social-security-has-begun-a5e57f5a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 18:25:00 GMT",
+     "summary": "The future of Social Security affects everyone. Too many people aren’t paying attention.",
+     "source": "MarketWatch",
+     "zh": "The epic $29 trillion battle for Social Security has begun"
     },
     {
-     "title": "Coca-Cola prints a new all-time high as the 'boring cash machine' rolls on",
-     "link": "https://seekingalpha.com/news/4672558-coca-cola-prints-a-new-all-time-high-as-the-boring-cash-machine-rolls-on?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 12:57:17 -0500",
+     "title": "Eledon Pharmaceuticals GAAP EPS of -$0.03 beats by $0.14",
+     "link": "https://seekingalpha.com/news/4672573-eledon-pharmaceuticals-gaap-eps-of-0_03-beats-by-0_14?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 13:20:47 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Coca-Cola prints a new all-time high as the 'boring cash machine' rolls on"
+     "zh": "Eledon Pharmaceuticals GAAP EPS of -$0.03 beats by $0.14"
+    },
+    {
+     "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+     "pubDate": "Fri, 13 Nov 2026 18:18:28 GMT",
+     "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+     "source": "CNBC",
+     "zh": "Microsoft apologizes for massive outage that took down Outlook and other 365 services"
+    },
+    {
+     "title": "Don't see lot of displacement from AI, but see less need to hire more: San Francisco Fed's Daly",
+     "link": "https://seekingalpha.com/news/4672529-dont-see-lot-of-displacement-from-ai-but-see-less-need-to-hire-more-san-francisco-feds-daly?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 13:17:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Don't see lot of displacement from AI, but see less need to hire more: San Francisco Fed's Daly"
+    },
+    {
+     "title": "Quantum BioPharma Non-GAAP EPS of -$0.06",
+     "link": "https://seekingalpha.com/news/4672571-quantum-biopharma-non-gaap-eps-of-0_06?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 13:17:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Quantum BioPharma Non-GAAP EPS of -$0.06"
+    },
+    {
+     "title": "York Space Systems downgraded at Jefferies, citing delayed path to positive EBITDA",
+     "link": "https://seekingalpha.com/news/4672557-york-space-systems-downgraded-at-jefferies-citing-delayed-path-to-positive-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 13:17:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "York Space Systems downgraded at Jefferies, citing delayed path to positive EBITDA"
+    },
+    {
+     "title": "Cincinnati Financial declares $0.094 dividend",
+     "link": "https://seekingalpha.com/news/4672570-cincinnati-financial-declares-0_094-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 13:16:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cincinnati Financial declares $0.094 dividend"
     },
     {
      "title": "I am turning 18 next month and want to start investing. What do I do first?",
@@ -2290,36 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "I am turning 18 next month and want to start investing. What do I do first?"
     },
     {
-     "title": "Muse's gains slow in October, while Google's volumes remain 'robust,' Wells Fargo says",
-     "link": "https://seekingalpha.com/news/4672555-muses-gains-slow-in-october-while-googles-volumes-remain-robust-wells-fargo-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 12:53:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Muse's gains slow in October, while Google's volumes remain 'robust,' Wells Fargo says"
-    },
-    {
-     "title": "FTC sues to block $3.5B Covetrus-MWI deal (update)",
-     "link": "https://seekingalpha.com/news/4672318-ftc-plans-to-sue-to-block-3_5b-covetrus-mwi-deal-semafor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 12:53:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FTC sues to block $3.5B Covetrus-MWI deal (update)"
-    },
-    {
-     "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-     "pubDate": "Fri, 13 Nov 2026 17:52:30 GMT",
-     "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-     "source": "CNBC",
-     "zh": "Microsoft apologizes for massive outage that took down Outlook and other 365 services"
-    },
-    {
-     "title": "Nvidia dip-buyers shrug off Jensen Huang exit fears",
-     "link": "https://seekingalpha.com/news/4672556-nvidia-dip-buyers-shrug-off-jensen-huang-exit-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 12:52:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia dip-buyers shrug off Jensen Huang exit fears"
+     "title": "美联储戴利：没有太多证据表明人工智能正在推高劳动生产率",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931065257.html",
+     "pubDate": "Sat, 14 Nov 2026 01:16:35 +0800",
+     "summary": "美联储戴利：没有太多证据表明 人工智能 正在推高劳动生产率。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储戴利：没有太多证据表明人工智能正在推高劳动生产率"
     },
     {
      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
@@ -2328,6 +2344,46 @@ window.INDUSTRY_DATA = {
      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
      "source": "MarketWatch",
      "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
+    },
+    {
+     "title": "加拿大阿尔伯塔省土地所有者团体呼吁农民与牧场主抵制石油开发",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931065161.html",
+     "pubDate": "Sat, 14 Nov 2026 01:14:17 +0800",
+     "summary": "加拿大石油重镇阿尔伯塔省一个土地所有者维权组织正在敦促农民和牧场主“积极抵制”在其土地上进行新的油气开发。这一史无前例的举动凸显出加拿大主要能源产区内，能源行业与农村居民之间日益紧张的关系。 在这个长期支持石油行业的省份，对油气开发日益高涨的反对声音，可能会对总理马克·卡尼提高石油产量、建设新管道以及为加拿大能源开拓新市场的努力构成挑战。 （文章来源：华尔街见闻）",
+     "source": "东方财富股票",
+     "zh": "加拿大阿尔伯塔省土地所有者团体呼吁农民与牧场主抵制石油开发"
+    },
+    {
+     "title": "美联储戴利：经济表现良好 但存在一个问题 即通胀",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931065036.html",
+     "pubDate": "Sat, 14 Nov 2026 01:14:13 +0800",
+     "summary": "美联储戴利：经济表现良好，但存在一个问题，即通胀。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储戴利：经济表现良好 但存在一个问题 即通胀"
+    },
+    {
+     "title": "美联储戴利：我们面临的关键问题是通胀",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931064974.html",
+     "pubDate": "Sat, 14 Nov 2026 01:13:31 +0800",
+     "summary": "美联储戴利：我们面临的关键问题是通胀。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储戴利：我们面临的关键问题是通胀"
+    },
+    {
+     "title": "市场消息：OpenAI解散其机器人团队",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931064813.html",
+     "pubDate": "Sat, 14 Nov 2026 01:12:53 +0800",
+     "summary": "市场消息：OpenAI解散其 机器人 团队。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：OpenAI解散其机器人团队"
+    },
+    {
+     "title": "Atom Computing：敲定美国商务部1亿美元研发奖励 加速容错公用事业规模量子计算",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931064666.html",
+     "pubDate": "Sat, 14 Nov 2026 01:11:44 +0800",
+     "summary": "Atom Computing：敲定美国商务部1亿美元研发奖励，以加速容错、 公用事业 规模的量子计算。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "Atom Computing：敲定美国商务部1亿美元研发奖励 加速容错公用事业规模量子计算"
     },
     {
      "title": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
@@ -2386,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX is about to attempt the ‘holy grail’ of rocketry"
     },
     {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 16:30:00 GMT",
-     "summary": "There is already a demographic ‘run’ on Social Security.",
-     "source": "MarketWatch",
-     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
-    },
-    {
      "title": "高盛2027年全球市场展望：AI投资冲动见顶，成长的烦恼来袭",
      "link": "https://wallstreetcn.com/articles/3785910",
      "pubDate": "Sat, 14 Nov 2026 00:28:24 +0800",
@@ -2405,7 +2453,7 @@ window.INDUSTRY_DATA = {
      "title": "美股走低 纳指跌超1% 费城半导体指数跌超5% 英伟达跌超3%",
      "link": "http://finance.eastmoney.com/news/1345,202611133931007038.html",
      "pubDate": "Sat, 14 Nov 2026 00:27:06 +0800",
-     "summary": "美东时间周五，美股三大指数集体下跌，截至发稿，道琼斯指数跌0.14%， 纳斯达克 综合 指数跌1.18% ， 标普500指数 跌 0.71%。 费城 半导体 指数跌超4%， 英伟达 高开低走，跌幅超2%；AMD跌超10%， 博通 跌超5%， SK海力士 跌超4%。 苹果 涨近1%，股价再创 历史新高 。 AI芯片 公司Cerebras涨超9%。公司第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。 全球要闻 海湾石油出口强势反弹 全球油市八个月来首次供过于求 自中东战争爆发以来，全球石油市场首次转向供应过剩。但分析师警告称，要恢复此前大幅消耗的石油库存，仍需数月时间。根据国际能源署（IE",
+     "summary": "美东时间周五，美股三大指数集体下跌，截至发稿，道琼斯指数跌0.17%， 纳斯达克 综合 指数跌1.26% ， 标普500指数 跌 0.76%。 费城 半导体 指数跌超4%， 英伟达 高开低走，跌幅超3%；AMD跌超10%， 博通 跌超5%， SK海力士 跌超5%。 苹果 涨近1%，股价再创 历史新高 。 AI芯片 公司Cerebras涨超11%。公司第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。 全球要闻 海湾石油出口强势反弹 全球油市八个月来首次供过于求 自中东战争爆发以来，全球石油市场首次转向供应过剩。但分析师警告称，要恢复此前大幅消耗的石油库存，仍需数月时间。根据国际能源署（I",
      "source": "东方财富资讯",
      "zh": "美股走低 纳指跌超1% 费城半导体指数跌超5% 英伟达跌超3%"
     },
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
      "source": "CNBC",
      "zh": "OpenAI launches ChatGPT Wallet, allowing its &apos;dots&apos; AI agents to make purchases for users"
-    },
-    {
-     "title": "微软故障叠加黄仁勋风波，美股转跌，英伟达跌超3%，布油反弹突破96美元",
-     "link": "https://wallstreetcn.com/articles/3785885",
-     "pubDate": "Fri, 13 Nov 2026 23:13:44 +0800",
-     "summary": "美国股市高开低走，尽管略低于预期的美国PPI数据缓解了市场对美联储进一步加息的担忧，但微软全球软件故障及英伟达相关动荡仍令投资者保持谨慎，科技股承压拖累大盘回落。 标普500指数下跌0.4%，以科技股为主的纳斯达克100指数下跌0.9%。美股费城半导体指数跌幅扩大至5%，英伟达跌3.31%，博通跌5.75%，美光跌4.67%，英特尔跌5.29%，AMD跌9.02%，高通跌3.66%，台积电跌2.87%，阿斯麦跌1.82%。 美国10月生产者价格指数（PPI）环比上涨0.3%，同比上涨6.5%，创四年来最快增速，但整体略低于市场预期。这在一定程度上缓解了市场对美联储12月加息的担忧。此前，本周早",
-     "source": "华尔街见闻",
-     "zh": "微软故障叠加黄仁勋风波，美股转跌，英伟达跌超3%，布油反弹突破96美元"
-    },
-    {
-     "title": "German banks form financial crime fighting JV",
-     "link": "https://www.finextra.com/newsarticle/48758/german-banks-form-financial-crime-fighting-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 13 Nov 2026 15:12:00 GMT",
-     "summary": "Commerzbank, Deutsche Bank and the German Savings Banks Association have set up joint venture to tackle financial crime.",
-     "source": "Finextra",
-     "zh": "German banks form financial crime fighting JV"
-    },
-    {
-     "title": "贝森特：不应因能源冲击而加息，继续施压伊朗，英伟达能摆脱黄仁勋继续发展",
-     "link": "https://wallstreetcn.com/articles/3785907",
-     "pubDate": "Fri, 13 Nov 2026 23:08:33 +0800",
-     "summary": "美国财长贝森特周五警告美联储，不应将伊朗战争引发的能源价格波动作为加息依据，同时强调近期国债拍卖表现强劲、美元买盘旺盛，显示市场对美国经济信心稳固。 周五在CNBC采访中， 贝森特将当前通胀压力定性为\"能源供给冲击\"，主张美联储应着眼未来而非被短期噪音数据左右。 他表示，自己对美国经济状况\"非常有信心\"，目前\"没有任何迹象引起警觉\"。 上周超预期的就业报告重燃市场对美联储进一步加息的预期，但这一前景与能源冲击背景下的经济不确定性形成张力。贝森特的公开发声，或将为市场加息预期降温。 贝森特还表示， 过去20年表现最为强劲的几次国债拍卖中，有四次发生在近期，且伴随\"美元买盘强劲\"。 此外， 贝森特",
-     "source": "华尔街见闻",
-     "zh": "贝森特：不应因能源冲击而加息，继续施压伊朗，英伟达能摆脱黄仁勋继续发展"
-    },
-    {
-     "title": "Lloyds appoints Manija Poulatova as group chief security officer",
-     "link": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 13 Nov 2026 14:43:00 GMT",
-     "summary": "Lloyds Banking Group has promoted former Googler Manija Poulatova to group chief security officer.",
-     "source": "Finextra",
-     "zh": "Lloyds appoints Manija Poulatova as group chief security officer"
-    },
-    {
-     "title": "Chicago Fed&apos;s Goolsbee says central bank &apos;has definitely got work to do&apos; on inflation",
-     "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-     "pubDate": "Fri, 13 Nov 2026 14:22:07 GMT",
-     "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-     "source": "CNBC",
-     "zh": "Chicago Fed&apos;s Goolsbee says central bank &apos;has definitely got work to do&apos; on inflation"
-    },
-    {
-     "title": "经济观察报 第1296期",
-     "link": "http://www.eeo.com.cn/2026/1113/1092494.shtml",
-     "pubDate": "Fri, 13 Nov 2026 21:43:12 +0800",
-     "summary": "经济观察报 第1296期",
-     "source": "经济观察网",
-     "zh": "经济观察报 第1296期"
     }
    ]
   },

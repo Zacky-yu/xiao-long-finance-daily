@@ -2386,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
     },
     {
+     "title": "美股走低 纳指跌超1% 费城半导体指数跌超5% 英伟达跌超3%",
+     "link": "http://finance.eastmoney.com/news/1345,202611133931007038.html",
+     "pubDate": "Fri, 13 Nov 2026 23:52:06 +0800",
+     "summary": "美东时间周五，美股三大指数集体下跌，截至发稿，道琼斯指数跌0.03%， 纳斯达克 综合 指数跌1.36% ， 标普500指数 跌 0.80%。 费城 半导体 指数跌超5%， 英伟达 高开低走，跌幅超3%；AMD跌超9%， 博通 跌超6%， SK海力士 跌超5%。 苹果 涨超1%，股价再创 历史新高 。 AI芯片 公司Cerebras涨超6%。公司第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。 全球要闻 海湾石油出口强势反弹 全球油市八个月来首次供过于求 自中东战争爆发以来，全球石油市场首次转向供应过剩。但分析师警告称，要恢复此前大幅消耗的石油库存，仍需数月时间。根据国际能源署（IEA",
+     "source": "东方财富资讯",
+     "zh": "美股走低 纳指跌超1% 费城半导体指数跌超5% 英伟达跌超3%"
+    },
+    {
      "title": "\"美元已死\"？不，美元强势归来：DXY突破关键位，空头再遭重创",
      "link": "https://wallstreetcn.com/articles/3785908",
      "pubDate": "Fri, 13 Nov 2026 23:45:15 +0800",

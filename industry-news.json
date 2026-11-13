@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 05:32:07",
+ "generated_at": "2026/11/14 05:52:14",
  "recent_days": 7,
  "industries": [
   {
@@ -97,14 +97,6 @@
      "zh": "Introducing ChatGPT Wallet"
     },
     {
-     "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
-     "link": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
-     "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
-     "summary": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0 shipped in April 2026 with a stable specification and guaranteed backward compatibility.",
-     "source": "KDnuggets",
-     "zh": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour"
-    },
-    {
      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
      "pubDate": "Fri, 13 Nov 2026 14:44:48 +0000",
@@ -119,14 +111,6 @@
      "summary": "",
      "source": "Hugging Face",
      "zh": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
-    },
-    {
-     "title": "5 FREE Open-Source Alternatives to Jev",
-     "link": "https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev",
-     "pubDate": "Fri, 13 Nov 2026 13:00:00 +0000",
-     "summary": "Looking for a free alternative to Jev? Here are 5 open-source decision models you can run locally, from high-accuracy options to lightweight models for AI agents.",
-     "source": "KDnuggets",
-     "zh": "5 FREE Open-Source Alternatives to Jev"
     },
     {
      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -247,6 +231,22 @@
      "summary": "建立下一代具身数据的金标准。",
      "source": "机器之心",
      "zh": "后GPT-6时代，具身数据怎么做？Ropedia发布Xperience 2，给出下一代数据基石金标准"
+    },
+    {
+     "title": "斯坦福让GPT-6 Astra直接修改机器人参数：只动65行词嵌入，修复一类指令失灵",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=2&sn=5a8b2bef8739a7443d5e57b276c4d80a",
+     "pubDate": "Fri, 13 Nov 2026 14:28:00 +0800",
+     "summary": "含被改词元的 335 条留出指令，成功率从 74.3%升至 87.5%；另外 430 个回合，成败结果逐一不变。",
+     "source": "机器之心",
+     "zh": "斯坦福让GPT-6 Astra直接修改机器人参数：只动65行词嵌入，修复一类指令失灵"
+    },
+    {
+     "title": "ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=3&sn=da18bc335c6b6345ee976e60b4009347",
+     "pubDate": "Fri, 13 Nov 2026 14:28:00 +0800",
+     "summary": "能否在不影响任务完成的前提下压缩上下文？",
+     "source": "机器之心",
+     "zh": "ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销"
     }
    ]
   },
@@ -441,6 +441,14 @@
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -487,14 +495,6 @@
      "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Rethinking Memory For AI Inference"
-    },
-    {
-     "title": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall",
-     "link": "https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/",
-     "pubDate": "Thu, 12 Nov 2026 08:08:39 +0000",
-     "summary": "Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. The post Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall"
     }
    ]
   },
@@ -504,6 +504,22 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Automated Warehouses: Why Safety Infrastructure Matters More Than Ever",
+     "link": "https://roboticsandautomationnews.com/2026/11/13/automated-warehouses-why-safety-infrastructure-matters-more-than-ever/107070/",
+     "pubDate": "Fri, 13 Nov 2026 21:48:47 +0000",
+     "summary": "Automated warehouses are changing how logistics work through intelligent material-handling systems, robotics and autonomous vehicles. However, increased automation in the workplace is introducing new safety challenges as machinery, moving equipment and people share the same complex environment. The ",
+     "source": "Robotics & Automation",
+     "zh": "Automated Warehouses: Why Safety Infrastructure Matters More Than Ever"
+    },
+    {
+     "title": "What Makes Modern Dentistry an Appealing Career Choice",
+     "link": "https://roboticsandautomationnews.com/2026/11/13/what-makes-modern-dentistry-an-appealing-career-choice/107065/",
+     "pubDate": "Fri, 13 Nov 2026 21:38:23 +0000",
+     "summary": "Modern dentistry combines patient care, practical problem-solving, and opportunities to work with evolving technology. It offers several professional directions, from general practice to education and research, rather than one fixed career track. For anyone exploring a modern dentistry career, the a",
+     "source": "Robotics & Automation",
+     "zh": "What Makes Modern Dentistry an Appealing Career Choice"
+    },
     {
      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
      "link": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
@@ -601,22 +617,6 @@
      "zh": "Agility Robotics completes merger and secures $465 million in capital ahead of Nasdaq listing"
     },
     {
-     "title": "Austrian Space Forum tests robotic rover for 2027 Mars analog mission at Gebrüder Weiss facility",
-     "link": "https://roboticsandautomationnews.com/2026/11/11/austrian-space-forum-tests-robotic-rover-for-2027-mars-analog-mission-at-gebruder-weiss-facility/107035/",
-     "pubDate": "Wed, 11 Nov 2026 23:13:35 +0000",
-     "summary": "The Gebrüder Weiss site in Wels became a testing ground for the AMADEE-27 Mars analog mission recently. The Austrian Space Forum (ÖWF), the University of Applied Sciences Upper Austria (FH Oberösterreich), and other research partners last month tested scientific experiments and technical systems for",
-     "source": "Robotics & Automation",
-     "zh": "Austrian Space Forum tests robotic rover for 2027 Mars analog mission at Gebrüder Weiss facility"
-    },
-    {
-     "title": "Niqo Robotics unveils 50-foot AI weeder for large specialty crop farms",
-     "link": "https://roboticsandautomationnews.com/2026/11/11/niqo-robotics-unveils-50-foot-ai-weeder-for-large-specialty-crop-farms/107030/",
-     "pubDate": "Wed, 11 Nov 2026 23:03:52 +0000",
-     "summary": "Niqo Robotics, the physical AI company building the intelligence layer for farm machines, is expanding its US lineup of AI weeding robots built to fit local farms with the RoboWeeder F50, North America’s widest hooded AI weeder. This wide-format weeder has a 46-foot working width extendable to 50 fe",
-     "source": "Robotics & Automation",
-     "zh": "Niqo Robotics unveils 50-foot AI weeder for large specialty crop farms"
-    },
-    {
      "title": "AI100 report released: embodied AI highlighted as grand challenge",
      "link": "https://robohub.org/ai100-report-released-embodied-ai-highlighted-as-grand-challenge/",
      "pubDate": "Wed, 11 Nov 2026 13:48:55 +0000",
@@ -648,6 +648,22 @@
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "U.S. government grounds all flights across the United States ‘due to extraordinary cirumstances’",
+     "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+     "pubDate": "Fri, 13 Nov 2026 21:44:38 +0000",
+     "summary": "The Federal Aviation Administration grounded flights across the United States citing \"extraordinary circumstances\" and for \"reasons of safety.\"",
+     "source": "TechCrunch Transport",
+     "zh": "U.S. government grounds all flights across the United States ‘due to extraordinary cirumstances’"
+    },
+    {
+     "title": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens",
+     "link": "https://electrek.co/2026/11/13/byd-opens-tang-ev-orders-two-enormous-screens-for-34000/",
+     "pubDate": "Fri, 13 Nov 2026 21:38:04 +0000",
+     "summary": "BYD opened pre-orders for the third-generation Tang starting at about $34,000 in China. This five-seat flagship SUV packs more than you’d expect for the money, with two massive 30-inch-plus screens inside and up to 850 km (528 miles) of CLTC range. more…",
+     "source": "Electrek",
+     "zh": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens"
+    },
     {
      "title": "Podcast: Tesla trims are falling like flies, Hyundai 2027 lineup, and BYD’s Rolls-Royce",
      "link": "https://electrek.co/2026/11/13/podcast-tesla-trims-are-falling-like-flies-hyundai-2027-lineup-and-byds-rolls-royce/",
@@ -703,14 +719,6 @@
      "summary": "May Mobility plans to bring 10,000 driverless ID. Buzzes to a road near you.",
      "source": "InsideEVs",
      "zh": "The VW ID. Buzz Is Getting A New Job As A Robotaxi"
-    },
-    {
-     "title": "Volkswagen trademark hints at a name for its upcoming affordable €20,000 EV",
-     "link": "https://electrek.co/2026/11/13/volkswagen-trademark-name-affordable-e20000-ev/",
-     "pubDate": "Fri, 13 Nov 2026 15:39:13 +0000",
-     "summary": "Volkswagen is getting ready to bring a €20,000 ($22,000) electric car to market in 2027, and it looks like the entry-level EV may no longer be nameless. A newly filed trademark could have just given away what VW plans to call it. more…",
-     "source": "Electrek",
-     "zh": "Volkswagen trademark hints at a name for its upcoming affordable €20,000 EV"
     },
     {
      "title": "Audi A4 EV Delayed Amid VW Group Financial Troubles: Report",
@@ -831,14 +839,6 @@
      "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
      "source": "TechCrunch Transport",
      "zh": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production"
-    },
-    {
-     "title": "Tesla expands robotaxi service to San Antonio",
-     "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-     "pubDate": "Mon, 09 Nov 2026 11:30:24 +0000",
-     "summary": "This will be the next Texas city in which Tesla will launch robotaxis.",
-     "source": "TechCrunch Transport",
-     "zh": "Tesla expands robotaxi service to San Antonio"
     }
    ]
   },
@@ -916,7 +916,7 @@
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -967,6 +967,14 @@
      "summary": "Tesla is an interesting company at an interesting phase of the electric vehicle transition. Well, it has always been an interesting company in this transition. However, lately, as the industry has moved quickly into a new phase, I have been wondering where Tesla will sit amidst it in the coming ... ",
      "source": "CleanTechnica",
      "zh": "Is Tesla The Apple Of The EV Industry?"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1079,14 +1087,6 @@
      "summary": "West Arthur Energy, a project company owned by Western Australian developer Lacour Energy, has referred a wind generation site with a 4,000MWh battery energy storage system (BESS) to Australia's EPBC Act.",
      "source": "Energy Storage News",
      "zh": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act"
-    },
-    {
-     "title": "Solar PAC got revenge on clean energy’s enemies in Congress",
-     "link": "https://www.canarymedia.com/articles/politics/solar-pac-revenge-in-congress",
-     "pubDate": "Fri, 13 Nov 2026 03:30:00 -0500",
-     "summary": "Before this election cycle, it was hard to identify any politician who feared the solar industry. The Invest in Tomorrow Coalition PAC set out to change that, and now has a roster of wins to back up its threats. The super PAC, funded and led by solar entrepreneurs and investors, emerged during the m",
-     "source": "Canary Media",
-     "zh": "Solar PAC got revenge on clean energy’s enemies in Congress"
     }
    ]
   },
@@ -1096,6 +1096,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
+     "link": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
+     "pubDate": "Fri, 13 Nov 2026 21:46:05 +0000",
+     "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
+     "source": "STAT News",
+     "zh": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals"
+    },
     {
      "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
      "link": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/?utm_campaign=rss",
@@ -1201,14 +1209,6 @@
      "zh": "Opinion: New organ donation rules are unfair to families"
     },
     {
-     "title": "Brain implant startup pauses trials",
-     "link": "https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/?utm_campaign=rss",
-     "pubDate": "Fri, 13 Nov 2026 14:40:32 +0000",
-     "summary": "Synchron has paused clinical trials of its second-generation brain-computer interface. Leaders say the pause is not safety related.",
-     "source": "STAT News",
-     "zh": "Brain implant startup pauses trials"
-    },
-    {
      "title": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties",
      "link": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
      "pubDate": "Fri, 13 Nov 2026 09:36:00 -0500",
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
+     "pubDate": "Fri, 13 Nov 2026 21:25:55 +0000",
+     "summary": "On Nov. 13, 1971, Mariner 9 became the first spacecraft to orbit Mars. Here's why it mattered.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface"
+    },
+    {
      "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
      "link": "https://www.space.com/stargazing/meteor-showers/60-years-ago-the-leonid-meteor-shower-produced-144-000-meteors-per-hour-could-it-happen-again",
      "pubDate": "Fri, 13 Nov 2026 21:00:00 +0000",
@@ -1351,14 +1359,6 @@
      "summary": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […] The post Commercial Space Federation Welcomes CesiumAstro as a New Associate Member app",
      "source": "SpaceNews",
      "zh": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member"
-    },
-    {
-     "title": "'Martian Isolation' is an upcoming sci-fi survival horror game that looks like 'The Martian' and 'Event Horizon' had a horrific child",
-     "link": "https://www.space.com/entertainment/space-games/martian-isolation-is-an-upcoming-sci-fi-survival-horror-game-that-looks-like-the-martian-and-event-horizon-had-a-horrific-child",
-     "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
-     "summary": "It looks like 'The Martian,' but due to international copyright laws, it's not.",
-     "source": "Space.com",
-     "zh": "'Martian Isolation' is an upcoming sci-fi survival horror game that looks like 'The Martian' and 'Event Horizon' had a horrific child"
     },
     {
      "title": "Outbursts from a Massive Star",
@@ -1433,14 +1433,6 @@
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15 to attempt first catch of both stages",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history… The post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15 to attempt first catch of both stages"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1481,14 +1473,6 @@
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
-     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1521,20 +1505,20 @@
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
     },
     {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
+     "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+     "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
+     "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
+     "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
+     "source": "Spaceflight Now",
+     "zh": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
     },
     {
-     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
-     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
+     "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
+     "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+     "pubDate": "Fri, 06 Nov 2026 22:00:39 +0000",
+     "summary": "Liftoff from pad 4E at Vandenberg Space Force Base occurred at 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
+     "source": "Spaceflight Now",
+     "zh": "Falcon 9 launches from California on classified mission for U.S. Space Force"
     }
    ]
   },
@@ -1544,6 +1528,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
+     "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+     "pubDate": "Fri, 13 Nov 2026 21:33:27 +0000",
+     "summary": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’"
+    },
     {
      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
@@ -1689,14 +1681,6 @@
      "zh": "Check Point warns of zero-day flaw exploited for root access"
     },
     {
-     "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
-     "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
-     "pubDate": "Fri, 13 Nov 2026 09:36:56 +0000",
-     "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Citrix Patches 10 Critical NetScaler Vulnerabilities"
-    },
-    {
      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
      "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
      "pubDate": "Thu, 12 Nov 2026 22:46:05 GMT",
@@ -1761,10 +1745,26 @@
    "total": 18,
    "items": [
     {
+     "title": "FAA Grounds All US Flights Until Further Notice",
+     "link": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
+     "pubDate": "Fri, 13 Nov 2026 21:42:57 +0000",
+     "summary": "The government cited a nationwide communications failure among air traffic control system as the reason for the sudden grounding on Friday.",
+     "source": "WIRED",
+     "zh": "FAA Grounds All US Flights Until Further Notice"
+    },
+    {
+     "title": "The FAA issues a nationwide ground stop for all US airports following \"communication issues impacting multiple Air Route Traffic Control Centers\" (Alex Fitzpatrick/Axios)",
+     "link": "https://www.techmeme.com/261113/p30#a261113p30",
+     "pubDate": "Fri, 13 Nov 2026 16:35:01 -0500",
+     "summary": "Alex Fitzpatrick / Axios : The FAA issues a nationwide ground stop for all US airports following &ldquo;communication issues impacting multiple Air Route Traffic Control Centers&rdquo; &nbsp; &mdash;&nbsp; The FAA issued an extremely rare nationwide ground stop at all airports due to &ldquo;extraord",
+     "source": "Techmeme",
+     "zh": "The FAA issues a nationwide ground stop for all US airports following \"communication issues impacting multiple Air Route Traffic Control Centers\" (Alex Fitzpatrick/Axios)"
+    },
+    {
      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
      "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
      "pubDate": "Fri, 13 Nov 2026 21:08:49 +0000",
-     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 51 # Comments: 15",
+     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 68 # Comments: 19",
      "source": "Hacker News",
      "zh": "FAA issues nationwide ground stop due to \"extraordinary circumstances\""
     },
@@ -1772,7 +1772,7 @@
      "title": "All US airports are currently ground stopped",
      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
      "pubDate": "Fri, 13 Nov 2026 21:06:52 +0000",
-     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 34 # Comments: 10",
+     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 50 # Comments: 10",
      "source": "Hacker News",
      "zh": "All US airports are currently ground stopped"
     },
@@ -1780,7 +1780,7 @@
      "title": "FAA Issues National Ground Stop",
      "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
      "pubDate": "Fri, 13 Nov 2026 21:05:53 +0000",
-     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111 Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 145 # Comments: 28",
+     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111 Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 350 # Comments: 115",
      "source": "Hacker News",
      "zh": "FAA Issues National Ground Stop"
     },
@@ -1820,7 +1820,7 @@
      "title": "Big tech is here to let us down",
      "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
      "pubDate": "Fri, 13 Nov 2026 20:20:30 +0000",
-     "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 94 # Comments: 57",
+     "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 111 # Comments: 83",
      "source": "Hacker News",
      "zh": "Big tech is here to let us down"
     },
@@ -1852,7 +1852,7 @@
      "title": "Live-migration support in FreeBSD and bhyve coming",
      "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
      "pubDate": "Fri, 13 Nov 2026 19:58:42 +0000",
-     "summary": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 19 # Comments: 2",
+     "summary": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 24 # Comments: 2",
      "source": "Hacker News",
      "zh": "Live-migration support in FreeBSD and bhyve coming"
     },
@@ -1887,14 +1887,6 @@
      "summary": "Bloomberg : Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's &ldquo;deepest business dilemma&rdquo; due to the unpredictability of revenue &nbsp; &mdash;&nbsp; Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the a",
      "source": "Techmeme",
      "zh": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)"
-    },
-    {
-     "title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
-     "link": "https://www.techmeme.com/261113/p24#a261113p24",
-     "pubDate": "Fri, 13 Nov 2026 14:10:01 -0500",
-     "summary": "New York Times : Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops &nbsp; &mdash;&nbsp; Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies,",
-     "source": "Techmeme",
-     "zh": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)"
     },
     {
      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
@@ -1991,14 +1983,6 @@
      "summary": "IT之家 11 月 13 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— 华为凌霄子母路由 Q7 电线版 。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连， 对比传统 WiFi，可降低游戏网络卡顿率 。 IT之家注意到，华为 MatePad Pro 13.2 2023 等机型推送了鸿蒙 HarmonyOS 7.0.0.111 SP16 版本升级，带来了星闪电竞专链功能 —— 支持与具备星闪电竞专链特性的华为路由， 基于星闪连接技术建立专属连接 ，提升游戏运行的流畅度与稳定性。 作为参考，华为官网显示，",
      "source": "IT之家",
      "zh": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能"
-    },
-    {
-     "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
-     "link": "https://www.ithome.com/1/026/994.htm",
-     "pubDate": "Fri, 13 Nov 2026 15:49:08 GMT",
-     "summary": "IT之家 11 月 13 日消息，OpenAI 今天（13 日）宣布推出支付功能 ChatGPT Wallet，让旗下 dot AI 智能体代替用户购物。 ChatGPT Wallet 由 OpenAI 与美国运通、万事达卡和 Visa 合作开发，用户使用现有信用卡付款时，仍可享受原有的积分奖励和权益保障。符合条件的用户只需录入一次银行卡信息， 随后便可让 dot 智能体帮忙寻找商品，每笔交易都需要通过安全验证才能完成 。 OpenAI 强调，dot 智能体 不会接触用户的真实银行卡信息 。支付网络会为每笔交易生成专用的支付令牌，其中包含 限定用途的卡号、安全码和有效期 ，供智能体完成付款。 ",
-     "source": "IT之家",
-     "zh": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet"
     }
    ]
   },
@@ -2257,68 +2241,92 @@
    "total": 13,
    "items": [
     {
+     "title": "Cingulate reports Q3 results",
+     "link": "https://seekingalpha.com/news/4672689-cingulate-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:49:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cingulate reports Q3 results"
+    },
+    {
      "title": "FAA issues nationwide ground stop citing communication issues affecting ‘multiple’ air traffic control facilities",
      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-     "pubDate": "Fri, 13 Nov 2026 21:28:07 GMT",
+     "pubDate": "Fri, 13 Nov 2026 21:48:49 GMT",
      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
      "source": "CNBC",
      "zh": "FAA issues nationwide ground stop citing communication issues affecting ‘multiple’ air traffic control facilities"
     },
     {
-     "title": "Indaptus Therapeutics GAAP EPS of -$0.01",
-     "link": "https://seekingalpha.com/news/4672668-indaptus-therapeutics-gaap-eps-of-0_01?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:28:05 -0500",
+     "title": "Cybin GAAP EPS of -$1.41 misses by $0.68",
+     "link": "https://seekingalpha.com/news/4672687-cybin-gaap-eps-of-1_41-misses-by-0_68?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:48:20 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Indaptus Therapeutics GAAP EPS of -$0.01"
+     "zh": "Cybin GAAP EPS of -$1.41 misses by $0.68"
     },
     {
-     "title": "Meta testing prediction market app \"Takes\"",
-     "link": "https://seekingalpha.com/news/4672623-meta-testing-prediction-market-app-takes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:27:41 -0500",
+     "title": "Olympia Financial Group Inc. GAAP EPS of $5.58, revenue of $64.16M",
+     "link": "https://seekingalpha.com/news/4672686-olympia-financial-group-inc-gaap-eps-of-5_58-revenue-of-64_16m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:48:04 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Meta testing prediction market app \"Takes\""
+     "zh": "Olympia Financial Group Inc. GAAP EPS of $5.58, revenue of $64.16M"
     },
     {
-     "title": "High Roller Technologies GAAP EPS of -$0.25, revenue of $2.4M misses by $0.6M",
-     "link": "https://seekingalpha.com/news/4672667-high-roller-technologies-gaap-eps-of-0_25-revenue-of-2_4m-misses-by-0_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:26:23 -0500",
+     "title": "Nuvve GAAP EPS of -$4.02, revenue of $1.09M",
+     "link": "https://seekingalpha.com/news/4672684-nuvve-gaap-eps-of-4_02-revenue-of-1_09m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:45:01 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "High Roller Technologies GAAP EPS of -$0.25, revenue of $2.4M misses by $0.6M"
+     "zh": "Nuvve GAAP EPS of -$4.02, revenue of $1.09M"
     },
     {
-     "title": "Bitcoin could fall even further if investors cash out to buy into the Anthropic IPO",
+     "title": "Yiren Digital not in compliance with NYSE stock price requirement",
+     "link": "https://seekingalpha.com/news/4672678-yiren-digital-not-in-compliance-with-nyse-stock-price-requirement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:44:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Yiren Digital not in compliance with NYSE stock price requirement"
+    },
+    {
+     "title": "Chemtrade Logistics Income Fund reports  results",
+     "link": "https://seekingalpha.com/news/4672683-chemtrade-logistics-income-fund-reports-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:44:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Chemtrade Logistics Income Fund reports  results"
+    },
+    {
+     "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 21:32:00 GMT",
+     "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+     "source": "MarketWatch",
+     "zh": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?"
+    },
+    {
+     "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+     "pubDate": "Fri, 13 Nov 2026 21:27:15 GMT",
+     "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+     "source": "CNBC",
+     "zh": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion"
+    },
+    {
+     "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
      "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 21:26:00 GMT",
      "summary": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
      "source": "MarketWatch",
-     "zh": "Bitcoin could fall even further if investors cash out to buy into the Anthropic IPO"
+     "zh": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO"
     },
     {
-     "title": "U.S. drilling rig count slips in latest Baker Hughes survey",
-     "link": "https://seekingalpha.com/news/4672656-u-s-drilling-rig-count-slips-in-latest-baker-hughes-survey?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:25:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. drilling rig count slips in latest Baker Hughes survey"
-    },
-    {
-     "title": "American Strategic Investment GAAP EPS of -$2.14, revenue of $7.1M",
-     "link": "https://seekingalpha.com/news/4672666-american-strategic-investment-gaap-eps-of-2_14-revenue-of-7_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:24:13 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "American Strategic Investment GAAP EPS of -$2.14, revenue of $7.1M"
-    },
-    {
-     "title": "AstraZeneca gains additional bladder cancer indication for Imfinzi",
-     "link": "https://seekingalpha.com/news/4672640-astrazeneca-gains-additional-bladder-cancer-indication-for-imfinzi?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:23:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AstraZeneca gains additional bladder cancer indication for Imfinzi"
+     "title": "US federal aviation regulator grounds all departing flights",
+     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+     "pubDate": "Fri, 13 Nov 2026 21:18:48 GMT",
+     "summary": "Airports across the country ordered to close by Federal Aviation Administration",
+     "source": "Financial Times",
+     "zh": "US federal aviation regulator grounds all departing flights"
     },
     {
      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
@@ -2369,28 +2377,12 @@
      "zh": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?"
     },
     {
-     "title": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;",
-     "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
-     "pubDate": "Fri, 13 Nov 2026 20:27:47 GMT",
-     "summary": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks.",
-     "source": "CNBC",
-     "zh": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;"
-    },
-    {
      "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
      "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 20:19:00 GMT",
      "summary": "The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.",
      "source": "MarketWatch",
      "zh": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks."
-    },
-    {
-     "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
-     "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 20:02:00 GMT",
-     "summary": "Here’s what might be coming for Social Security, Medicare and long-term care.",
-     "source": "MarketWatch",
-     "zh": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’"
     },
     {
      "title": "Meta据悉正在员工内部测试一款新的预测市场应用",
@@ -2457,12 +2449,12 @@
      "zh": "通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队"
     },
     {
-     "title": "景林资产三季度瞄准巨头：新进英伟达、阿里，大幅增持台积电",
+     "title": "景林资产Q3瞄准巨头：新进英伟达、阿里，大幅增持台积电",
      "link": "https://wallstreetcn.com/articles/3785913",
      "pubDate": "Sat, 14 Nov 2026 02:33:50 +0800",
      "summary": "知名私募景林资产三季度大举调整美股持仓，新建仓英伟达和中概阿里巴巴，同时增持台积电、亚朵和华住，重仓股中谷歌母公司Alphabet和英特尔获增持，减持满帮集团，并清仓携程和奇富科技。 此次调仓显示，景林一方面重新布局AI芯片龙头，另一方面继续调整中概股配置。 以景林资产管理香港有限公司（Greenwoods Asset Management Hong Kong Ltd.）递交美国证监会的13F文件估算，截至2026年三季度末，该公司披露的21项投资总市值约29.5亿美元。 Q2清仓后又建仓英伟达，台积电持股增超十倍 科技股方面，景林三季度新建仓英伟达（NVDA），重新买入这家AI芯片巨头11.",
      "source": "华尔街见闻",
-     "zh": "景林资产三季度瞄准巨头：新进英伟达、阿里，大幅增持台积电"
+     "zh": "景林资产Q3瞄准巨头：新进英伟达、阿里，大幅增持台积电"
     },
     {
      "title": "OpenAI launches ChatGPT Wallet",
@@ -2479,14 +2471,6 @@
      "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
      "source": "CNBC",
      "zh": "Microsoft apologizes for massive outage that took down Outlook and other 365 services"
-    },
-    {
-     "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-     "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-     "pubDate": "Fri, 13 Nov 2026 17:45:54 GMT",
-     "summary": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
-     "source": "Financial Times",
-     "zh": "Arm boss Rene Haas approached in Nvidia CEO search"
     },
     {
      "title": "Scott Colom: the Democrat who conquered the reddest of red states",

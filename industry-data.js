@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 04:32:13",
+ "generated_at": "2026/11/14 04:52:12",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Advancing science & engineering with Antigravity’s /teamwork",
+     "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+     "pubDate": "Fri, 13 Nov 2026 20:47:18 +0000",
+     "summary": "Education Innovation",
+     "source": "Google Research",
+     "zh": "Advancing science & engineering with Antigravity’s /teamwork"
+    },
     {
      "title": "AI agent startup LangChain hits $3B valuation",
      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -90,14 +98,6 @@ window.INDUSTRY_DATA = {
      "zh": "Introducing ChatGPT Wallet"
     },
     {
-     "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
-     "link": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
-     "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
-     "summary": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0 shipped in April 2026 with a stable specification and guaranteed backward compatibility.",
-     "source": "KDnuggets",
-     "zh": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour"
-    },
-    {
      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
      "pubDate": "Fri, 13 Nov 2026 14:44:48 +0000",
@@ -112,14 +112,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
-    },
-    {
-     "title": "5 FREE Open-Source Alternatives to Jev",
-     "link": "https://www.kdnuggets.com/5-free-open-source-alternatives-to-jev",
-     "pubDate": "Fri, 13 Nov 2026 13:00:00 +0000",
-     "summary": "Looking for a free alternative to Jev? Here are 5 open-source decision models you can run locally, from high-accuracy options to lightweight models for AI agents.",
-     "source": "KDnuggets",
-     "zh": "5 FREE Open-Source Alternatives to Jev"
     },
     {
      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "含被改词元的 335 条留出指令，成功率从 74.3%升至 87.5%；另外 430 个回合，成败结果逐一不变。",
      "source": "机器之心",
      "zh": "斯坦福让GPT-6 Astra直接修改机器人参数：只动65行词嵌入，修复一类指令失灵"
+    },
+    {
+     "title": "ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=3&sn=da18bc335c6b6345ee976e60b4009347",
+     "pubDate": "Fri, 13 Nov 2026 14:28:00 +0800",
+     "summary": "能否在不影响任务完成的前提下压缩上下文？",
+     "source": "机器之心",
+     "zh": "ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Podcast: Tesla trims are falling like flies, Hyundai 2027 lineup, and BYD’s Rolls-Royce",
+     "link": "https://electrek.co/2026/11/13/podcast-tesla-trims-are-falling-like-flies-hyundai-2027-lineup-and-byds-rolls-royce/",
+     "pubDate": "Fri, 13 Nov 2026 20:49:15 +0000",
+     "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla trims falling like flies, Hyundai’s 2027 lineup, and BYD’s Rolls-Royce. more…",
+     "source": "Electrek",
+     "zh": "Podcast: Tesla trims are falling like flies, Hyundai 2027 lineup, and BYD’s Rolls-Royce"
+    },
+    {
      "title": "Volkswagen is delaying another EV based on the SSP",
      "link": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/",
      "pubDate": "Fri, 13 Nov 2026 19:03:28 +0000",
@@ -704,14 +712,6 @@ window.INDUSTRY_DATA = {
      "summary": "Volkswagen is getting ready to bring a €20,000 ($22,000) electric car to market in 2027, and it looks like the entry-level EV may no longer be nameless. A newly filed trademark could have just given away what VW plans to call it. more…",
      "source": "Electrek",
      "zh": "Volkswagen trademark hints at a name for its upcoming affordable €20,000 EV"
-    },
-    {
-     "title": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026",
-     "link": "https://electrek.co/2026/11/13/here-are-the-coolest-e-motorcycles-and-gear-we-saw-at-eicma-2026/",
-     "pubDate": "Fri, 13 Nov 2026 15:39:00 +0000",
-     "summary": "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase. That means that all of the newest electric motorcycle announcements happen in one place, and we get a chance to check",
-     "source": "Electrek",
-     "zh": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026"
     },
     {
      "title": "Audi A4 EV Delayed Amid VW Group Financial Troubles: Report",
@@ -849,6 +849,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "How California Gov.-elect Becerra could be better on climate than Newsom",
+     "link": "https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate",
+     "pubDate": "Fri, 13 Nov 2026 15:00:00 -0500",
+     "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it weekly via Substack. Welcome back, everyone! Well, we may have finally caught a break when it comes to making progress on climate and energy. The midterm elections have given ",
+     "source": "Canary Media",
+     "zh": "How California Gov.-elect Becerra could be better on climate than Newsom"
+    },
     {
      "title": "Trump Extends Jones Act Waiver For Another 90 Days",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Before this election cycle, it was hard to identify any politician who feared the solar industry. The Invest in Tomorrow Coalition PAC set out to change that, and now has a roster of wins to back up its threats. The super PAC, funded and led by solar entrepreneurs and investors, emerged during the m",
      "source": "Canary Media",
      "zh": "Solar PAC got revenge on clean energy’s enemies in Congress"
-    },
-    {
-     "title": "The Iran war will cause global fossil fuel emissions to fall",
-     "link": "https://www.canarymedia.com/articles/emissions-reduction/turns-out-the-worlds-fossil-fuel-emissions-will-actually-drop-this-year",
-     "pubDate": "Fri, 13 Nov 2026 03:30:00 -0500",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Global fossil fuel emissions are expected to dip this year for the first time since 2020. This time it was not plague but war driving the decline. The Iran war has caused brutal increases in oil and natural gas prices, leading many countries",
-     "source": "Canary Media",
-     "zh": "The Iran war will cause global fossil fuel emissions to fall"
     }
    ]
   },
@@ -1097,6 +1097,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
+     "link": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/?utm_campaign=rss",
+     "pubDate": "Fri, 13 Nov 2026 20:45:42 +0000",
+     "summary": "The American Society of Addiction Medicine has released the first national guidance for recognizing and treating patients who have taken medetomidine.",
+     "source": "STAT News",
+     "zh": "New addiction society guidance on medetomidine’s brutal withdrawal"
+    },
     {
      "title": "How Vancomycin-Resistant Enterococcus Evolved in a Danish Hospital",
      "link": "https://www.genengnews.com/topics/infectious-diseases/how-vancomycin-resistant-enterococcus-evolved-in-a-danish-hospital/",
@@ -1208,14 +1216,6 @@ window.INDUSTRY_DATA = {
      "summary": "Novo views the medicine, acquired in a billion-dollar deal, as a future blockbuster. Meanwhile, a pair of startups forged an RNA editing pact and Astellas lined up two new trials in pancreatic cancer.",
      "source": "BioPharma Dive",
      "zh": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties"
-    },
-    {
-     "title": "STAT+: Pharmalittle: We’re reading about Lilly conflict questions, a DEA OK for a narcolepsy pill, and more",
-     "link": "https://www.statnews.com/pharmalot/2026/11/13/lilly-conflict-questions-dea-okays-takeda-narcolepsy-pill/?utm_campaign=rss",
-     "pubDate": "Fri, 13 Nov 2026 14:33:16 +0000",
-     "summary": "A deal for smart-ring maker Oura to acquire a telehealth company is raising conflict-of-interest questions for Eli Lilly",
-     "source": "STAT News",
-     "zh": "STAT+: Pharmalittle: We’re reading about Lilly conflict questions, a DEA OK for a narcolepsy pill, and more"
     },
     {
      "title": "This week in charts: Brain drugs are back on venture capitalists’ minds",
@@ -1762,6 +1762,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
+     "link": "https://www.techmeme.com/261113/p28#a261113p28",
+     "pubDate": "Fri, 13 Nov 2026 15:40:02 -0500",
+     "summary": "@microsoft : Microsoft apologizes for the outage, calling it a &ldquo;technical issue&rdquo; from a &ldquo;network capacity upgrade&rdquo;, and says it was &ldquo;not related to cyber or AI/agents&rdquo; &nbsp; &mdash;&nbsp; We are deeply sorry for the disruption this incident has caused our custome",
+     "source": "Techmeme",
+     "zh": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)"
+    },
+    {
+     "title": "Nvidia board says it is \"in the process of selecting a search firm\" for the CEO role and it has \"not formally engaged any potential candidates\" (CNBC)",
+     "link": "https://www.techmeme.com/261113/p27#a261113p27",
+     "pubDate": "Fri, 13 Nov 2026 15:35:01 -0500",
+     "summary": "CNBC : Nvidia board says it is &ldquo;in the process of selecting a search firm&rdquo; for the CEO role and it has &ldquo;not formally engaged any potential candidates&rdquo; &nbsp; &mdash;&nbsp; Nvidia hasn't yet selected a search firm to work with in identifying a successor for former CEO Jensen H",
+     "source": "Techmeme",
+     "zh": "Nvidia board says it is \"in the process of selecting a search firm\" for the CEO role and it has \"not formally engaged any potential candidates\" (CNBC)"
+    },
+    {
+     "title": "Big tech is here to let us down",
+     "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+     "pubDate": "Fri, 13 Nov 2026 20:20:30 +0000",
+     "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 10 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Big tech is here to let us down"
+    },
+    {
      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
      "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
      "pubDate": "Fri, 13 Nov 2026 20:07:24 +0000",
@@ -1805,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "No AI Slop: A Manifesto",
      "link": "https://www.slopmanifesto.com/",
      "pubDate": "Fri, 13 Nov 2026 19:51:56 +0000",
-     "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 20 # Comments: 3",
+     "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 35 # Comments: 9",
      "source": "Hacker News",
      "zh": "No AI Slop: A Manifesto"
     },
@@ -1821,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Someone's Impersonating This Blog",
      "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
      "pubDate": "Fri, 13 Nov 2026 19:41:09 +0000",
-     "summary": "Article URL: https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/ Comments URL: https://news.ycombinator.com/item?id=50488664 Points: 24 # Comments: 0",
+     "summary": "Article URL: https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/ Comments URL: https://news.ycombinator.com/item?id=50488664 Points: 34 # Comments: 0",
      "source": "Hacker News",
      "zh": "Someone's Impersonating This Blog"
     },
@@ -1829,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Technology as a Search Problem",
      "link": "https://www.construction-physics.com/p/technology-as-a-search-problem",
      "pubDate": "Fri, 13 Nov 2026 19:27:15 +0000",
-     "summary": "Article URL: https://www.construction-physics.com/p/technology-as-a-search-problem Comments URL: https://news.ycombinator.com/item?id=50488490 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://www.construction-physics.com/p/technology-as-a-search-problem Comments URL: https://news.ycombinator.com/item?id=50488490 Points: 8 # Comments: 0",
      "source": "Hacker News",
      "zh": "Technology as a Search Problem"
     },
@@ -1837,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Found: A protein that drives ageing without unleashing inflammation",
      "link": "https://www.nature.com/articles/d41586-026-03638-3",
      "pubDate": "Fri, 13 Nov 2026 19:25:21 +0000",
-     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 20 # Comments: 2",
      "source": "Hacker News",
      "zh": "Found: A protein that drives ageing without unleashing inflammation"
     },
@@ -1845,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
      "pubDate": "Fri, 13 Nov 2026 19:24:47 +0000",
-     "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 19 # Comments: 3",
+     "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 30 # Comments: 7",
      "source": "Hacker News",
      "zh": "Perplexity Decider v1.3: Training, eval, and use cases"
     },
@@ -1856,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's &ldquo;deepest business dilemma&rdquo; due to the unpredictability of revenue &nbsp; &mdash;&nbsp; Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the a",
      "source": "Techmeme",
      "zh": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)"
-    },
-    {
-     "title": "FM-1 Workbench",
-     "link": "https://open.m-vave.com/fm1-workbench",
-     "pubDate": "Fri, 13 Nov 2026 19:14:02 +0000",
-     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 59 # Comments: 30",
-     "source": "Hacker News",
-     "zh": "FM-1 Workbench"
     },
     {
      "title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
@@ -1890,28 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags (Allison Johnson/The Verge)"
     },
     {
-     "title": "Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week (Mithil Aggarwal/NBC News)",
-     "link": "https://www.techmeme.com/261113/p22#a261113p22",
-     "pubDate": "Fri, 13 Nov 2026 13:15:06 -0500",
-     "summary": "Mithil Aggarwal / NBC News : Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week &nbsp; &mdash;&nbsp; Reports of resigned CEO Jensen Huang's relationship with an alleged Chinese spy may lead to t",
-     "source": "Techmeme",
-     "zh": "Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week (Mithil Aggarwal/NBC News)"
-    },
-    {
      "title": "2026.46: The End of Jensen",
      "link": "https://stratechery.com/2026/the-end-of-jensen/",
      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
      "summary": "The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
      "source": "Stratechery",
      "zh": "2026.46: The End of Jensen"
-    },
-    {
-     "title": "Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally (Bruce Gil/Gizmodo)",
-     "link": "https://www.techmeme.com/261113/p21#a261113p21",
-     "pubDate": "Fri, 13 Nov 2026 12:50:02 -0500",
-     "summary": "Bruce Gil / Gizmodo : Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally &nbsp; &mdash;&nbsp; The tech giant is racing to fully restore Outlook, Teams, and other Microsoft 365 services following",
-     "source": "Techmeme",
-     "zh": "Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally (Bruce Gil/Gizmodo)"
     },
     {
      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
@@ -2258,6 +2258,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?",
+     "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 20:45:00 GMT",
+     "summary": "This back-of-the-napkin calculation can help you see if you’re buying too much coverage",
+     "source": "MarketWatch",
+     "zh": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?"
+    },
+    {
+     "title": "Sigma Lithium outlines 330,000 tons 2027 production plan backed by $125M 5-year convertible note",
+     "link": "https://seekingalpha.com/news/4672620-sigma-lithium-outlines-330000-tons-2027-production-plan-backed-by-125m-5-year-convertible?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:42:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sigma Lithium outlines 330,000 tons 2027 production plan backed by $125M 5-year convertible note"
+    },
+    {
+     "title": "Interpump forecasts 2026 organic growth of 1% to 3% while targeting 22% to 22.5% EBITDA margin",
+     "link": "https://seekingalpha.com/news/4672616-interpump-forecasts-2026-organic-growth-of-1-percent-to-3-percent-while-targeting-22-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:31:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Interpump forecasts 2026 organic growth of 1% to 3% while targeting 22% to 22.5% EBITDA margin"
+    },
+    {
+     "title": "Noodles & Company tightens 2026 outlook to $35M-$37M adjusted EBITDA as ramen becomes a permanent menu category",
+     "link": "https://seekingalpha.com/news/4672615-noodles-and-company-tightens-2026-outlook-to-35m-37m-adjusted-ebitda-as-ramen-becomes-a?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:30:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Noodles & Company tightens 2026 outlook to $35M-$37M adjusted EBITDA as ramen becomes a permanent menu category"
+    },
+    {
      "title": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;",
      "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
      "pubDate": "Fri, 13 Nov 2026 20:27:47 GMT",
@@ -2298,36 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Measles cases rise to over 5,400 across US"
     },
     {
-     "title": "TuHURA Biosciences reports Q3 results",
-     "link": "https://seekingalpha.com/news/4672612-tuhura-biosciences-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 15:20:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TuHURA Biosciences reports Q3 results"
-    },
-    {
      "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
      "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 20:19:00 GMT",
      "summary": "The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.",
      "source": "MarketWatch",
      "zh": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks."
-    },
-    {
-     "title": "Canlan Ice Sports GAAP EPS of -$0.08, revenue of $22.84M",
-     "link": "https://seekingalpha.com/news/4672611-canlan-ice-sports-gaap-eps-of-0_08-revenue-of-22_84m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 15:13:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Canlan Ice Sports GAAP EPS of -$0.08, revenue of $22.84M"
-    },
-    {
-     "title": "SA Asks: How much will Jensen Huang's departure hurt Nvidia?",
-     "link": "https://seekingalpha.com/news/4672606-sa-asks-how-much-will-jensen-huangs-departure-hurt-nvidia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 15:10:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: How much will Jensen Huang's departure hurt Nvidia?"
     },
     {
      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
@@ -2416,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
      "source": "MarketWatch",
      "zh": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers."
-    },
-    {
-     "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
-     "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 19:19:00 GMT",
-     "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
-     "source": "MarketWatch",
-     "zh": "The scandal at Nvidia is exactly what’s wrong with the S&P 500"
     },
     {
      "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",

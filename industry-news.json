@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/13 10:55:01",
+ "generated_at": "2026/11/13 11:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -257,52 +257,52 @@
    "total": 9,
    "items": [
     {
-     "title": "Nvidia's roadmap is set through 2028, but its tempo, talent bench were built around Huang",
-     "link": "https://www.digitimes.com/news/a20261113VL208/nvidia-ceo-roadmap-2028-jensen-huang.html",
-     "pubDate": "Fri, 13 Nov 2026 01:56:00 GMT",
-     "summary": "Nvidia's product pipeline is locked in for the next two years, analysts say, but Jensen Huang's resignation calls into question the annual upgrade cadence he personally drove and exposes how thin the company's formal leadership bench is beneath a CEO who ran it with dozens of direct reports and no s",
+     "title": "Commentary: Can Nvidia's AI moat survive without Jensen Huang?",
+     "link": "https://www.digitimes.com/news/a20261113PD228/nvidia-ceo-jensen-huang-president-market.html",
+     "pubDate": "Fri, 13 Nov 2026 02:59:57 GMT",
+     "summary": "Under mounting pressure, Nvidia founder Jensen Huang has resigned as president, CEO, and board member, effective immediately. Executive vice president and chief financial officer Colette Kress will serve as interim CEO, while the board launches an internal and external search for a successor.",
      "source": "DIGITIMES",
-     "zh": "Nvidia's roadmap is set through 2028, but its tempo, talent bench were built around Huang"
+     "zh": "Commentary: Can Nvidia's AI moat survive without Jensen Huang?"
     },
     {
-     "title": "Compal splits server R&D and sales into subsidiary",
-     "link": "https://www.digitimes.com/news/a20261113PD202/compal-sales-subsidiary-business-cloud.html",
-     "pubDate": "Fri, 13 Nov 2026 01:54:59 GMT",
-     "summary": "Compal Electronics will transfer the research and development and sales operations of its server-related Infrastructure Solutions Business Group (ISBG) to its wholly owned subsidiary Fusionite Corporation, while retaining manufacturing, under a board-approved spin-off plan.",
+     "title": "AI memory may balance after mid-2028 while compute and supporting chips stay short, SMIC says",
+     "link": "https://www.digitimes.com/news/a20261113VL218/smic-chips-capacity-demand-equipment.html",
+     "pubDate": "Fri, 13 Nov 2026 02:58:28 GMT",
+     "summary": "Semiconductor Manufacturing International Corp. (SMIC) expects artificial intelligence (AI) demand to keep chip supply tight through mid-2028, even as equipment lead times of up to two years slow its own capacity build-out, executives said on the company's third-quarter 2026 earnings call.",
      "source": "DIGITIMES",
-     "zh": "Compal splits server R&D and sales into subsidiary"
+     "zh": "AI memory may balance after mid-2028 while compute and supporting chips stay short, SMIC says"
     },
     {
-     "title": "AMD, Broadcom, custom chips eye an opening as Nvidia loses its founder CEO",
-     "link": "https://www.digitimes.com/news/a20261113VL207/nvidia-amd-broadcom-jensen-huang-ceo.html",
-     "pubDate": "Fri, 13 Nov 2026 01:47:33 GMT",
-     "summary": "Jensen Huang's departure from Nvidia has given AMD, Broadcom, and in-house chip programs at the largest cloud providers their clearest opening in years, analysts say. They expect existing orders to hold, with any meaningful shift in market share more likely from 2027 onward.",
+     "title": "Former Nvidia CEO Jensen Huang agrees to testify before Congress",
+     "link": "https://www.digitimes.com/news/a20261113PD235/nvidia-ceo-jensen-huang-policy-business.html?chid=10",
+     "pubDate": "Fri, 13 Nov 2026 02:54:41 GMT",
+     "summary": "Nvidia founder and former CEO Jensen Huang has agreed to appear before the US House of Representatives ahead of the holiday break, addressing export controls and related controversies. Several senior lawmakers had previously threatened to subpoena Huang over Nvidia's business strategy in China and r",
      "source": "DIGITIMES",
-     "zh": "AMD, Broadcom, custom chips eye an opening as Nvidia loses its founder CEO"
+     "zh": "Former Nvidia CEO Jensen Huang agrees to testify before Congress"
     },
     {
-     "title": "SMIC posts record third-quarter revenue as factory utilization nears full capacity",
-     "link": "https://www.digitimes.com/news/a20261113VL204/smic-revenue-capacity-growth-operating-profit.html",
-     "pubDate": "Fri, 13 Nov 2026 01:40:34 GMT",
-     "summary": "SMIC's record third-quarter revenue and sharper rise in operating profit point to stronger factory throughput, while the lower net result against the prior quarter shows how investment-related income can obscure the underlying manufacturing trend. The company expects sales to keep growing in the fou",
+     "title": "Cerebras lifts third-quarter revenue 55% as cloud inference overtakes hardware sales",
+     "link": "https://www.digitimes.com/news/a20261113VL212/cerebras-cloud-business-hardware-revenue-sales.html",
+     "pubDate": "Fri, 13 Nov 2026 02:42:40 GMT",
+     "summary": "Cerebras Systems has become more of a cloud inference business than a hardware supplier. In the third quarter ended September 30, 2026, the company reported record GAAP revenue of US$210.8 million, up 55% from a year earlier. Cloud and other services now account for about two-thirds of the total. Re",
      "source": "DIGITIMES",
-     "zh": "SMIC posts record third-quarter revenue as factory utilization nears full capacity"
+     "zh": "Cerebras lifts third-quarter revenue 55% as cloud inference overtakes hardware sales"
     },
     {
-     "title": "Huang's exit leaves Nvidia's role as the AI industry's financier without its dealmaker",
-     "link": "https://www.digitimes.com/news/a20261113VL206/nvidia-jensen-huang-ceo-chips-funding.html",
-     "pubDate": "Fri, 13 Nov 2026 01:26:14 GMT",
-     "summary": "Jensen Huang's resignation removes the executive who turned Nvidia's balance sheet into a funding source for the AI buildout, raising questions about whether the company will keep writing the guarantees, investments, and capacity deals that helped its customers buy its chips, even as financial exper",
+     "title": "CMC Magnetics' operating profit surges 20-fold in 1Q&ndash;3Q26",
+     "link": "https://www.digitimes.com/news/a20261113PD206/cmc-magnetics-cmc-revenue-operating-profit-2026.html",
+     "pubDate": "Fri, 13 Nov 2026 02:26:48 GMT",
+     "summary": "CMC Magnetics reported consolidated revenue of NT$6.17 billion (US$187.29 million) for the first three quarters of 2026, up 17% year on year, as its core businesses grew and its Storage & Power (S'n'P) strategy began to show results. Operating profit reached NT$311 million, nearly 20 times its level",
      "source": "DIGITIMES",
-     "zh": "Huang's exit leaves Nvidia's role as the AI industry's financier without its dealmaker"
+     "zh": "CMC Magnetics' operating profit surges 20-fold in 1Q&ndash;3Q26"
     },
     {
-     "title": "Nvidia's interim CEO Colette Kress signals stability first as board weighs future after Huang",
-     "link": "https://www.digitimes.com/news/a20261113VL205/nvidia-ceo-jensen-huang-technology-president.html",
-     "pubDate": "Fri, 13 Nov 2026 01:13:58 GMT",
-     "summary": "By handing the top job to its chief financial officer rather than an engineer, Nvidia's board has signaled that its priority after Jensen Huang's abrupt exit is to steady investors, customers, and operations, while the bigger strategic call on who will set the company's technology direction has been",
+     "title": "E Ink Holdings' assets hit record NT$127.4B as it targets AI materials",
+     "link": "https://www.digitimes.com/news/a20261113PD203/e-ink-materials-e-paper-revenue-2026.html",
+     "pubDate": "Fri, 13 Nov 2026 02:25:41 GMT",
+     "summary": "E Ink Holdings, a leading e-paper maker, reported third-quarter 2026 consolidated revenue of NT$9.936 billion (US$301.60 million), down 5% from a year earlier. Net income attributable to the parent was NT$2.652 billion, and quarterly earnings per share were NT$2.3.",
      "source": "DIGITIMES",
-     "zh": "Nvidia's interim CEO Colette Kress signals stability first as board weighs future after Huang"
+     "zh": "E Ink Holdings' assets hit record NT$127.4B as it targets AI materials"
     },
     {
      "title": "Idle Wafers",
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It",
+     "link": "https://cleantechnica.com/2026/11/12/senate-republicans-begin-the-process-of-jamming-baaja-while-trump-threatens-to-ignore-it/",
+     "pubDate": "Fri, 13 Nov 2026 03:30:22 +0000",
+     "summary": "Democrats Must Fight to Fix Draft Legislation Washington, DC — Following Monday’s vote to open debate on the legislation, a number of Senate Democrats called for an amendment process to fix the “Bipartisan American Affordability and Jobs Act of 2026.” However, on November 11th, Republicans began the",
+     "source": "CleanTechnica",
+     "zh": "Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It"
+    },
+    {
+     "title": "Hoosiers Call on EPA Not to Weaken Coal Ash Rules at Public Hearing",
+     "link": "https://cleantechnica.com/2026/11/12/hoosiers-call-on-epa-not-to-weaken-coal-ash-rules-at-public-hearing/",
+     "pubDate": "Fri, 13 Nov 2026 03:20:50 +0000",
+     "summary": "INDIANAPOLIS — Today, Hoosiers turned out to speak against toxic coal ash pollution at the EPA’s public hearing on Indiana’s proposed Coal Ash permitting program, which would allow the state to disregard federal protections for communities in favor of statewide rules that would provide fewer safegua",
+     "source": "CleanTechnica",
+     "zh": "Hoosiers Call on EPA Not to Weaken Coal Ash Rules at Public Hearing"
+    },
+    {
      "title": "What Happens in Vegas Should Inform the Rest of the Country",
      "link": "https://cleantechnica.com/2026/11/12/what-happens-in-vegas-should-inform-the-rest-of-the-country/",
      "pubDate": "Fri, 13 Nov 2026 02:29:28 +0000",
@@ -951,14 +967,6 @@
      "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base expected to supply almost a quarter of 2027 consumption, EIA said.",
      "source": "Utility Dive",
      "zh": "As coal burn declines, rising power demand will be primarily met by renewables: EIA"
-    },
-    {
-     "title": "Build Clean: Accelerating Affordable Energy While Advancing Community and Environmental Stewardship",
-     "link": "https://cleantechnica.com/2026/11/12/build-clean-accelerating-affordable-energy-while-advancing-community-and-environmental-stewardship/",
-     "pubDate": "Thu, 12 Nov 2026 17:28:11 +0000",
-     "summary": "NRDC is pushing to expand clean energy development in ways that strengthen communities, protect nature, and deliver lasting economic benefits. America needs to build clean energy faster—and build it right. Meeting the climate challenge means roughly quadrupling U.S. clean electricity generation and ",
-     "source": "CleanTechnica",
-     "zh": "Build Clean: Accelerating Affordable Energy While Advancing Community and Environmental Stewardship"
     },
     {
      "title": "When the rules change faster than the project",
@@ -1079,14 +1087,6 @@
      "summary": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises.",
      "source": "Energy Storage News",
      "zh": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech"
-    },
-    {
-     "title": "Nearly 2GW of PV on offer in Saudi Arabia’s renewables latest tender",
-     "link": "https://www.pv-tech.org/nearly-2gw-of-pv-on-offer-in-saudi-arabias-renewables-latest-tender/",
-     "pubDate": "Thu, 12 Nov 2026 11:48:40 +0000",
-     "summary": "Almost 2GW of PV capacity is to be put out to tender in the latest phase of Saudi Arabia’s renewable energy procurement programme.",
-     "source": "PV Tech",
-     "zh": "Nearly 2GW of PV on offer in Saudi Arabia’s renewables latest tender"
     }
    ]
   },
@@ -1761,6 +1761,142 @@
    "total": 18,
    "items": [
     {
+     "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+     "link": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
+     "pubDate": "Fri, 13 Nov 2026 03:47:52 +0000",
+     "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+     "source": "Stratechery",
+     "zh": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge"
+    },
+    {
+     "title": "Sources: US officials disagree on whether Alice Huang spied on Jensen Huang for China; some at ODNI and CIA say intelligence collected so far doesn&apos;t prove it (CNN)",
+     "link": "https://www.techmeme.com/261112/p72#a261112p72",
+     "pubDate": "Thu, 12 Nov 2026 22:40:01 -0500",
+     "summary": "CNN : Sources: US officials disagree on whether Alice Huang spied on Jensen Huang for China; some at ODNI and CIA say intelligence collected so far doesn't prove it &nbsp; &mdash;&nbsp; The US intelligence community is still working to understand the relationship between a Chinese businesswoman who ",
+     "source": "Techmeme",
+     "zh": "Sources: US officials disagree on whether Alice Huang spied on Jensen Huang for China; some at ODNI and CIA say intelligence collected so far doesn&apos;t prove it (CNN)"
+    },
+    {
+     "title": "主导苹果 M1 芯片的传奇架构师谈 AI 电力危机：用造 iPhone 芯片的“抠门”哲学建超算",
+     "link": "https://www.ithome.com/1/026/591.htm",
+     "pubDate": "Fri, 13 Nov 2026 03:33:29 GMT",
+     "summary": "IT之家 11 月 13 日消息，在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）邀请苹果前 CPU 首席架构师杰拉德 · 威廉姆斯三世（Gerard Williams III）作客，探讨当前的 AI 浪潮。 IT之家查询公开资料，Williams 是一位深耕 CPU 架构数十年的芯片工程师，也是苹果自研芯片从手机走向 Mac 的关键人物之一。他曾在苹果主导 A 系列和 M 系列处理器的 CPU 架构，后创办 AI 数据中心芯片公司 NUVACORE ，主张把“每瓦性能”从移动设备带入云端。 2019 年离开苹果联合创立 NUVIA，公司后被高通收购",
+     "source": "IT之家",
+     "zh": "主导苹果 M1 芯片的传奇架构师谈 AI 电力危机：用造 iPhone 芯片的“抠门”哲学建超算"
+    },
+    {
+     "title": "Cheap AI Tracks Are Crowding Human Arrangers Out of China’s Playlist Economy",
+     "link": "https://www.tmtpost.com/8204075.html",
+     "pubDate": "Fri, 13 Nov 2026 11:33:04 +0800",
+     "summary": "Chinese music platforms now add more than 100,000 songs a day, and a rising share is machine-made. Clients who once paid thousands for an arrangement now shop for a few hundred yuan and a menu of AI drafts. The middle of the profession is getting squeezed; the top and the pure commodity layers are s",
+     "source": "钛媒体",
+     "zh": "Cheap AI Tracks Are Crowding Human Arrangers Out of China’s Playlist Economy"
+    },
+    {
+     "title": "Hyodol：一只陪伴布偶，怎么卖进了公共养老体系？",
+     "link": "https://www.huxiu.com/article/4905286.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 11:32:40 +0800",
+     "summary": "本文来自微信公众号： 倔牛聊陪伴AI ，作者：倔牛聊陪伴AI 陪伴Agent研究·第四季「银发AI陪伴企业深度研究」·第02篇 2019年4月，韩国全罗南道光阳市开始向独居老人家庭发放一种特殊的礼物：300只会说话的布偶。 它们有着孩子的模样，老人摸摸头、握握手，布偶就会开口回应。到了吃饭、吃药的时间，还会主动提醒。 这只布偶就是Hyodol。 有意思的是，300户老人并不是分别走进商店，花钱把它买回家。决定引入这批产品的是光阳市政府。它与Hyodol的开发公司一起，参与了韩国机器人产业振兴院支持的公共福利项目。 如果我们只从老人使用的角度看，会觉得这是政府送给老人的一份关怀。可换到创业公司的",
+     "source": "虎嗅",
+     "zh": "Hyodol：一只陪伴布偶，怎么卖进了公共养老体系？"
+    },
+    {
+     "title": "京东云，为什么没能成为第二个阿里云",
+     "link": "https://www.huxiu.com/article/4905284.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 11:29:48 +0800",
+     "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，制图：奇帆商业，作者：钱喆 京东又把云计算和金融科技分开了。 11月10日，京东科技传出组织调整消息，云科技与金融科技被划分为两大事业群，徐丰负责云科技，JoyAI等研发团队据称也将纳入其中。五年前，京东刚刚把这些业务整合在一起，希望借助金融和产业客户扩大技术服务市场。 京东云曾跻身国内IaaS市场前列，却没能把这一优势延续下去。同样从电商业务起家，阿里云已经成为阿里巴巴的重要增长业务，京东云仍在寻找自己的市场位置。 01 京东云，曾经有机会 京东云起步时，手里握着一份不错的技术履历。 京东自营零售涉及采购、库存、订单、仓储和配送等复杂业务。每年大",
+     "source": "虎嗅",
+     "zh": "京东云，为什么没能成为第二个阿里云"
+    },
+    {
+     "title": "黄仁勋离任背后，Anthropic与英伟达的分歧与合作",
+     "link": "https://www.huxiu.com/article/4905285.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 11:27:31 +0800",
+     "summary": "本文来自微信公众号： 明亮公司 ，作者：主编24小时在线 11月12日，英伟达（NVDA.US）宣布，黄仁勋已辞去公司总裁、首席执行官和董事职务，即时生效，当天英伟达股价收跌4.34%，报166.19美元。同一天，据彭博，即将IPO的Anthropic已收到约为拟发行股数6倍的认购订单。 两天前，Anthropic在招股书修订稿中披露，英伟达和谷歌各拟认购约100亿美元的N类普通股，交割取决于IPO完成及其他条件。这两家公司将成为同一轮私募的投资者，也都在为Anthropic提供算力。 不过，四年前，黄仁勋与Anthropic创始人达里奥·阿莫代伊（Dario Amodei）曾有一次并不愉快的",
+     "source": "虎嗅",
+     "zh": "黄仁勋离任背后，Anthropic与英伟达的分歧与合作"
+    },
+    {
+     "title": "Apple Sports 应用 4.6 更新：支持中超联赛，实时比分与赛程可查",
+     "link": "https://www.ithome.com/1/026/589.htm",
+     "pubDate": "Fri, 13 Nov 2026 03:24:49 GMT",
+     "summary": "IT之家 11 月 13 日消息，苹果 Apple Sports 应用于 11 月 12 日更新至 4.6 版本，正式加入中国足球超级联赛的赛事支持，用户现可在该应用中关注中超联赛的实时比分与赛程。 此次更新同时引入 UFC 赛事内容。据更新日志，Apple Sports 为男子和女子 UFC 赛事提供每场比赛的完整卡片，可查看多轮角逐的动态更新以及击打部位热力图。足球联赛阵容继续扩充，除中超外，本次新增的还有俄罗斯足球超级联赛和瑞典足球超级联赛。 IT之家注：实时活动（Live Activities）是 iOS 的一项锁屏功能，可在不打开应用的情况下持续显示比赛比分等动态信息。 Apple ",
+     "source": "IT之家",
+     "zh": "Apple Sports 应用 4.6 更新：支持中超联赛，实时比分与赛程可查"
+    },
+    {
+     "title": "小米超级岛官宣支持《王者荣耀》手游，复活时间实时提醒",
+     "link": "https://www.ithome.com/1/026/588.htm",
+     "pubDate": "Fri, 13 Nov 2026 03:21:33 GMT",
+     "summary": "IT之家 11 月 13 日消息，小米澎湃 OS 今日宣布，小米超级岛现已支持《王者荣耀》，复活时间实时提醒。 官方海报显示，为保障使用体验，用户需要将手机管家升级至 13.8.0 版本及以上，游戏空间升级至 9.52.55 版本及以上； 使用王者荣耀上岛功能需升级至小米澎湃 OS 4 。不同机型、版本对上述功能的支持情况及升级情况请以实际为准。 IT之家注意到，小米在去年 8 月发布的 澎湃 OS 3 中推出了“超级岛”功能 ，接入实时导航、航班进度查询、查看包裹状态、显示取餐码、查看打车信息等多项功能。",
+     "source": "IT之家",
+     "zh": "小米超级岛官宣支持《王者荣耀》手游，复活时间实时提醒"
+    },
+    {
+     "title": "7万人的全球科技峰会，中国公司正在结束硅谷叙事",
+     "link": "https://www.huxiu.com/article/4905197.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 11:21:29 +0800",
+     "summary": "出品｜虎嗅科技组 作者｜陈伊凡 编辑｜苗正卿 头图｜WebSummit官网 每年11月的这一周，里斯本像是换了一批居民。我走在街上，感觉迎面过来的十个人里，有九个是来参加&nbsp;Web Summit&nbsp;。 这是全球最大的科技峰会之一，每年把约7万人带进这座城市，这其中有全球顶尖投资机构、企业以及初创企业。它对葡萄牙值多少钱，安永（EY）在一份新报告里算了笔账：十年下来，Web Summit 为葡萄牙经济贡献了约25亿欧元，平均每年2.5亿欧元。钱来自三处：参会者的消费，增加的外国投资，以及本地创业公司更快的成长。扣掉办会成本，葡萄牙每年仍净赚2.3亿欧元以上。仅2025年一年，大会",
+     "source": "虎嗅",
+     "zh": "7万人的全球科技峰会，中国公司正在结束硅谷叙事"
+    },
+    {
+     "title": "Letter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback (The Information)",
+     "link": "https://www.techmeme.com/261112/p71#a261112p71",
+     "pubDate": "Thu, 12 Nov 2026 22:20:00 -0500",
+     "summary": "The Information : Letter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback &nbsp; &mdash;&nbsp; ByteDance, the Chinese owner of TikTok, is planning to buy back up to $6 billion worth of shares from ",
+     "source": "Techmeme",
+     "zh": "Letter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback (The Information)"
+    },
+    {
+     "title": "猫头鹰正式推出 NT-CP1 碳纳米管导热垫，定价 24.95 欧元 / 美元",
+     "link": "https://www.ithome.com/1/026/585.htm",
+     "pubDate": "Fri, 13 Nov 2026 03:17:52 GMT",
+     "summary": "IT之家 11 月 13 日消息，Noctua（猫头鹰）当地时间 12 日正式推出了面向 AMD Socket AM5 / AM4 平台的 NT-CP1 导热垫。这一 TIM（热界面材料） 基于 Carbice 的碳纳米管技术 。 NT-CP1 由碳纳米管、相变聚合物涂层、铝制骨架组成， 导热性能不仅不会随时间衰减 ， 还会随着贴合度的改进而提升 。这一面向 AMD 平台的版本长宽均为 33mm，厚度 90μm。 Noctua 对 NT-CP1 导热垫定价 24.95 欧元 / 24.95 美元 （IT之家注：现汇率约合 184.6 / 166.8 元人民币） 。",
+     "source": "IT之家",
+     "zh": "猫头鹰正式推出 NT-CP1 碳纳米管导热垫，定价 24.95 欧元 / 美元"
+    },
+    {
+     "title": "AI生成国产3A大作《几猫》，这么快就翻车了？",
+     "link": "https://www.huxiu.com/article/4905282.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 11:16:29 +0800",
+     "summary": "本文来自微信公众号： CG世界 ，作者：小岛一颗聪 最近两天有没有人和小编一样， 被一款名为《几猫3A大作》的第一人称射击游戏刷屏了？ 什么来头？那来头可就大了。 传说中的国人自制3A游戏、具有中国特色的高品质FPS！ 不需要下载，浏览器直接运行，支持鼠标键盘、触屏和手柄，自动适配画质。 这款名为《几猫3A大作》的游戏， 最初是以1.4MB的HTML文件形式，在绿泡泡群里传播。 虽然只有1.4MB， 但人家麻雀虽小、五脏俱全； 用网友的话说就是有点牛XX，可玩性非常高。 重点来了（是的，上面说了这么多还没说到重点）， 按照文件内自带的项目介绍， 这款游戏是该团队使用Anthripic最新发布的",
+     "source": "虎嗅",
+     "zh": "AI生成国产3A大作《几猫》，这么快就翻车了？"
+    },
+    {
+     "title": "英伟达官网更新黄仁勋简介并放入“创始人”一栏，临时 CEO 克雷斯现排第一位",
+     "link": "https://www.ithome.com/1/026/583.htm",
+     "pubDate": "Fri, 13 Nov 2026 03:10:57 GMT",
+     "summary": "IT之家 11 月 13 日消息， 英伟达董事会于北京时间 11 月 12 日晚宣布 ，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副总裁和 CFO。 英伟达官网现已更新管理层介绍页面， 临时 CEO 科莱特 · 克雷斯被列在了第一位 ，黄仁勋则被放在了“创始人”一栏中。 IT之家注意到，黄仁勋的个人简介页面也进行了更新，提到“黄仁勋于 1993 创立了 NVIDIA， 此前曾担任 NVIDIA 总裁兼首席执行官，以及董事会成员 ”。",
+     "source": "IT之家",
+     "zh": "英伟达官网更新黄仁勋简介并放入“创始人”一栏，临时 CEO 克雷斯现排第一位"
+    },
+    {
+     "title": "OPPO 多款新品曝光：Pocket 云台相机预计年底前后登场，阔折、阔直板都在路上",
+     "link": "https://www.ithome.com/1/026/582.htm",
+     "pubDate": "Fri, 13 Nov 2026 03:10:38 GMT",
+     "summary": "IT之家 11 月 13 日消息，博主 @数码闲聊站 今日曝光多款旗舰线产品信息，预计为 OPPO 旗下。 据其爆料，该品牌的 Pocket 云台相机预计 年底前后登场 ；阔折也已经蓄势待发，搭载 2nm 骁龙 AI 旗舰芯，采用宽屏无感折痕设计，后置 2 亿云台影像； 阔直板手机加速推进中 ，搭载天玑 9 旗舰芯，配备 16:9 窄边框定制屏，后置 2 亿大底影像。 IT之家注意到，早在今年 6 月，该博主便爆料称 OPPO 和 vivo 的手持 Pocket 云台相机将采用 200Mp 1/1.12\" 超级大底主摄，有望与哈苏 / 蔡司联名，内置“旗舰级”芯片，支持生态互联，无缝存图修图发",
+     "source": "IT之家",
+     "zh": "OPPO 多款新品曝光：Pocket 云台相机预计年底前后登场，阔折、阔直板都在路上"
+    },
+    {
+     "title": "每一家车企都在合法量产“近光刺客”",
+     "link": "https://www.huxiu.com/article/4904511.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 11:06:54 +0800",
+     "summary": "出品｜虎嗅汽车组 作者｜杨杰 题图｜视觉中国 凛冬将至，长夜开启。 当你正常开车回家，对向车道一束冷光掠过，在视网膜上留下三到五秒的黑。 你什么都看不见，只能松油门、眯着眼，凭肌肉记忆把方向盘稳住。 问题是，这并非偶发事件，而是由新车近光灯过亮引发的&ldquo;近光刺客&rdquo;话题。 如果说，人人喊打的&ldquo;远光狗&rdquo;是行为道德问题，责任清晰，罚则明确；那么，当下频发的&ldquo;近光刺客&rdquo;现象就是一场看似无解的结构问题： 因为司机合规，车企合规，检测也合格，但结果照样是让人看不见前路。 一位曾任职于中汽研的工程分析师向虎嗅提到： &ldquo;近两年，",
+     "source": "虎嗅",
+     "zh": "每一家车企都在合法量产“近光刺客”"
+    },
+    {
+     "title": "Senate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear (Jasper Goodman/Politico)",
+     "link": "https://www.techmeme.com/261112/p70#a261112p70",
+     "pubDate": "Thu, 12 Nov 2026 22:01:46 -0500",
+     "summary": "Jasper Goodman / Politico : Senate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear &nbsp; &mdash;&nbsp; Senate Banking Chair Tim Scott on Thursday called on fallen Nvidia CEO Jensen Huang and Comm",
+     "source": "Techmeme",
+     "zh": "Senate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear (Jasper Goodman/Politico)"
+    },
+    {
      "title": "花七年造一辆两座小车，smart这笔账怎么算？",
      "link": "https://www.tmtpost.com/8200981.html",
      "pubDate": "Fri, 13 Nov 2026 10:45:02 +0800",
@@ -1793,60 +1929,12 @@
      "zh": "上市公司TOP5济安评估（11月2日至11月8日）"
     },
     {
-     "title": "医院集团花1元反向收购市值30亿药企，上一任实控人已身陷囹圄",
-     "link": "https://www.huxiu.com/article/4905263.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 10:32:51 +0800",
-     "summary": "本文来自微信公众号： 深蓝观 ，编辑：王晨，作者：深蓝观团队 一家市值30多亿元的上市药企，22个月内两次以1元股权对价易主。第一次接手它的实际控制人，后来因涉嫌职务侵占被捕；第二次接手它的，是一家IPO长跑六年的骨科医院集团。 更耐人寻味的是，第二位买家刚刚取得控制权，便承诺未来36个月不向上市公司注入旗下资产。 这场交易发生在2026年10月。北大医药公告，控股股东西南合成医药集团的上层股权发生变更，公司实际控制人由新优势产业集团创始人徐晰人变更为邦尔骨科创始人程栋。此次交易的股权对价仅为1元，另涉及3000万元债权。 22个月前，徐晰人曾以几乎相同的交易结构，从中国平安手中取得西南合成控",
-     "source": "虎嗅",
-     "zh": "医院集团花1元反向收购市值30亿药企，上一任实控人已身陷囹圄"
-    },
-    {
-     "title": "Alphacool 推出 Apex Benchtable 开放式测试平台，专为水冷 PC 系统优化",
-     "link": "https://www.ithome.com/1/026/530.htm",
-     "pubDate": "Fri, 13 Nov 2026 02:31:52 GMT",
-     "summary": "IT之家 11 月 13 日消息，电脑散热及相关零组件制造商 Alphacool 当地时间昨日宣布推出专为水冷 PC 系统优化的 Apex Benchtable 开放式测试平台。 Apex Benchtable 采用模块化设计，整个测试平台都能完全拆解。其 由碳纤维支架、CNC 铝合金接头构成 ，兼容最大 E-ATX 的主板，提供 ATX 电源安装支架，拥有 3 个不同尺寸的冷排安装位。 IT之家了解到，Alphacool Apex Benchtable 的 不含增值税定价为 499.98 欧元 （IT之家注：现汇率约合 3,699 元人民币） 。",
-     "source": "IT之家",
-     "zh": "Alphacool 推出 Apex Benchtable 开放式测试平台，专为水冷 PC 系统优化"
-    },
-    {
-     "title": "“我算个什么东西”：黄仁勋离任英伟达 CEO 最后时刻心力交瘁，把“随便”和“我不在乎”挂在嘴边",
-     "link": "https://www.ithome.com/1/026/529.htm",
-     "pubDate": "Fri, 13 Nov 2026 02:29:41 GMT",
-     "summary": "IT之家 11 月 13 日消息，彭博社今天（11 月 13 日）发布博文，报道称黄仁勋在董事会施压下，辞去英伟达首席执行官职务之后心力交瘁，昔日的活力荡然无存。 据一位知情人士透露，黄仁勋此前雷厉风行，但近期开始把“随便吧”和“我不在乎”之类的话挂在嘴边。 IT之家附上相关截图如下： 报道指出在离任英伟达 CEO 的最后阶段，黄仁勋显得精力耗尽，以往强势主导局面的姿态已经消退。在执掌英伟达的 33 年生涯中，黄仁勋摸爬滚打将英伟达打造成市值数万亿美元的人工智能芯片巨头，从芯片架构到公司最基层员工的薪酬待遇事必躬亲，且凭借直率的个性和充沛的精力，成为 AI 时代的领军人物。 而由于深陷桃色丑闻",
-     "source": "IT之家",
-     "zh": "“我算个什么东西”：黄仁勋离任英伟达 CEO 最后时刻心力交瘁，把“随便”和“我不在乎”挂在嘴边"
-    },
-    {
-     "title": "比亚迪公开第二代海豹 07 车型 AES 自动紧急转向测试视频，90~130km/h 避让成功",
-     "link": "https://www.ithome.com/1/026/527.htm",
-     "pubDate": "Fri, 13 Nov 2026 02:26:17 GMT",
-     "summary": "IT之家 11 月 13 日消息，比亚迪海洋网官方昨日放出了一段测试视频，展示了在深圳・湾区智联实验场做的第二代海豹 07 AES 自动紧急转向测试结果。 比亚迪此次测试共设置四个项目，车辆均成功完成避让，包括： 高速消失的前车紧急避让：测试车速 130km/h 通过 前后夹击紧急避让：测试车速 90km/h 通过 儿童鬼探头紧急避让：测试车速 90km/h 通过 IT之家注：AES（自动紧急转向）和常见的 AEB（自动紧急制动）是互补关系：AEB 负责“刹得住”，AES 在制动距离不足时接管方向盘，在相邻车道安全的前提下变道避让。 在视频画面里，我们能看到青绿色海豹 07 在封闭测试道路上行",
-     "source": "IT之家",
-     "zh": "比亚迪公开第二代海豹 07 车型 AES 自动紧急转向测试视频，90~130km/h 避让成功"
-    },
-    {
-     "title": "华为鸿蒙电脑更新 7.0.0.115 SP11 版本，小艺 Work 支持文档处理、PPT 制作等",
-     "link": "https://www.ithome.com/1/026/526.htm",
-     "pubDate": "Fri, 13 Nov 2026 02:24:31 GMT",
-     "summary": "IT之家 11 月 13 日消息，华为鸿蒙电脑今日发布 7.0.0.115 SP11 版本更新，小艺 Work 全新上线，可以帮用户进行文档处理、PPT 制作、网页设计、周报总结、信息检索等工作，无线投屏支持自动按投屏设备屏幕大小自适应投屏。 IT之家整理主要内容如下（各机型或存在细微差异，以实际推送为准）： 小艺 小艺 Work 支持文档处理、PPT 制作、网页设计、周报总结、信息检索、定时任务、桌面文件图标整理，以及一句话安装字体等功能（小艺 > 点击左上角“办公”标签） 新增小艺帮记跨端同步功能，支持内容收藏及智能合集在手机、平板、电脑多端间同步，无论切换哪台设备，都能轻松延续使用，实现",
-     "source": "IT之家",
-     "zh": "华为鸿蒙电脑更新 7.0.0.115 SP11 版本，小艺 Work 支持文档处理、PPT 制作等"
-    },
-    {
-     "title": "海盗船正式推出 HX1000i SHIFT CRYSTAL 电源：三面透明侧板，ARGB 风扇",
-     "link": "https://www.ithome.com/1/026/525.htm",
-     "pubDate": "Fri, 13 Nov 2026 02:24:28 GMT",
-     "summary": "IT之家 11 月 13 日消息，CORSAIR（海盗船）当地时间 12 日正式推出了 PC 电源新品 HX1000i SHIFT CRYSTAL。这一型号大胆地采用了 三面聚碳酸酯 (PC) 透明侧板设计 ，配备 140mm 的磁吸式圆顶轴承 ARGB 风扇。 HX1000i SHIFT CRYSTAL 采用 ATX 外形规格，符合 ATX12V 3.1 规范，获得 Cybenetics 铂金能效认证。其采用全模组布线，模块接口 SHIFT 侧置； 率先搭载 PinProtect+ 主动式 12V-2×6 单针过流保护 ；集成的系统集线器可连接至多 24 个 iCUE LINK 设备。 这款",
-     "source": "IT之家",
-     "zh": "海盗船正式推出 HX1000i SHIFT CRYSTAL 电源：三面透明侧板，ARGB 风扇"
-    },
-    {
-     "title": "黄仁勋时代落幕，全球AI产业链痛失“带头大哥”",
-     "link": "https://www.huxiu.com/article/4905259.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 10:23:52 +0800",
-     "summary": "本文来自微信公众号： 冰川思享号 ，作者：张明扬的阳明山 黄仁勋离开之后，谁还有能力、声望和热情去为全球AI产业鼓与呼，去为全行业遮风挡雨，乃至成为下一个“AI首席维稳官”？ 美国当地时间周四（11月12日）清晨，英伟达董事会宣布，黄仁勋已辞去总裁、首席执行官及董事，即刻生效；英伟达现任执行副总裁兼首席财务官科莱特·克雷斯（Colette Kress）已同意担任临时CEO，直至任命正式继任者。 图/NVIDIA官网 英伟达不仅是AI时代的“卖铲人”，更是“总龙头”，黄仁勋的离职，对最近业已风雨飘摇的全球AI产业链无疑是一记重击，甚至让人开始担忧AI时代的未来。 英伟达的股价似乎也证明了这一点：",
-     "source": "虎嗅",
-     "zh": "黄仁勋时代落幕，全球AI产业链痛失“带头大哥”"
+     "title": "Africa's solar revolution is vast and speedy",
+     "link": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+     "pubDate": "Fri, 13 Nov 2026 02:28:15 +0000",
+     "summary": "Article URL: https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy Comments URL: https://news.ycombinator.com/item?id=50477331 Points: 76 # Comments: 19",
+     "source": "Hacker News",
+     "zh": "Africa's solar revolution is vast and speedy"
     },
     {
      "title": "视频号的逆袭路，绿泡泡走不了",
@@ -1857,28 +1945,12 @@
      "zh": "视频号的逆袭路，绿泡泡走不了"
     },
     {
-     "title": "中芯国际赵海军：AI 算力供不应求，2027 年半导体代工产能将非常紧缺",
-     "link": "https://www.ithome.com/1/026/524.htm",
-     "pubDate": "Fri, 13 Nov 2026 02:21:15 GMT",
-     "summary": "IT之家 11 月 13 日消息，在今天举行的中芯国际 2026 年第三季度业绩会上，中芯国际联合 CEO 赵海军表达了对半导体代工业未来发展的积极正面看法。 他认为，目前 AI 发展“方兴未艾”，算力需求供不应求。目前行业共识是， 2027 年将是产能非常紧缺的一年，预计持续到 2028 年中期至下半年 。2028 年中期之后，与 AI 相关的存储器需求或达到基本供需平衡，算力或其他配套芯片或仍然紧缺。 从具体晶圆收入来看， 手机、中低端消费类产品需求走弱 ，未来或仍持下降趋势。 他还提到，公司业绩淡季不淡，虽然手机、部分消费类订单有所走弱，但公司充分发挥多工艺平台的协调性调配能力， 将释放",
-     "source": "IT之家",
-     "zh": "中芯国际赵海军：AI 算力供不应求，2027 年半导体代工产能将非常紧缺"
-    },
-    {
      "title": "Nvidia employees petition to bring back Jensen Huang",
      "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
      "pubDate": "Fri, 13 Nov 2026 02:16:24 +0000",
-     "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 27 # Comments: 4",
+     "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 146 # Comments: 95",
      "source": "Hacker News",
      "zh": "Nvidia employees petition to bring back Jensen Huang"
-    },
-    {
-     "title": "蚂蚁起诉百度、易小满，要求将“花呗”加入搜索白名单",
-     "link": "https://www.huxiu.com/article/4905256.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 10:15:20 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 用户在百度搜索“花呗”，可能看到叫“花贝”“呗花”等贷款推广链接。近日，蚂蚁集团因此将百度及一家贷款中介告上法庭。 11月11日，据人民法院公告网信息，北京市海淀区人民法院已受理蚂蚁科技集团股份有限公司、重庆蚂蚁消费金融有限公司诉深圳市易小满投资咨询有限公司、北京百度网讯科技有限公司侵害商标权及不正当竞争纠纷一案。 根据法院公告，蚂蚁方面指控，易小满将其“花呗”注册商标作为搜索关键词进行广告投放，要求易小满立即停止相关行为，并赔偿经济损失及合理开支共计50万元，在《中国知识产权报》刊登声明消除影响。 此案的特别之处在于被告名单，以往同类案件中，权",
-     "source": "虎嗅",
-     "zh": "蚂蚁起诉百度、易小满，要求将“花呗”加入搜索白名单"
     },
     {
      "title": "Sources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang&apos;s exit (Bloomberg)",
@@ -1889,28 +1961,12 @@
      "zh": "Sources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang&apos;s exit (Bloomberg)"
     },
     {
-     "title": "今年国内车市，为何没有“金九银十”",
-     "link": "https://www.huxiu.com/article/4905255.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 10:09:19 +0800",
-     "summary": "本文来自微信公众号： 经济观察网 ，作者：霍婷婷 当前车市进入需求“空窗消化期”，单纯依赖旺季冲量和降价促销的效益递减。车企需从规模冲量转向技术突破、海外出口与精细化运营，通过增程与纯电路线并行、自研芯片和高阶智驾等构筑竞争力，并提升用户全生命周期价值。 往年九月、十月一般是国内汽车市场的旺季，但今年呈现出“旺季不旺”的局面。 乘联分会发布的数据显示，9月狭义乘用车零售161.8万辆，同比下滑28%。10月零售169.3万辆、同比下降25%，连续两个月都在大幅下跌。 需求透支、补贴退坡与价格战共振导致车市“金九银十”规律失灵，车企从简单的规模冲量转向技术出海与精细化运营，可能是一个有效解决的方",
-     "source": "虎嗅",
-     "zh": "今年国内车市，为何没有“金九银十”"
-    },
-    {
-     "title": "是时候重建美利坚了",
-     "link": "https://www.huxiu.com/article/4905210.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 10:09:00 +0800",
-     "summary": "本文来自微信公众号： AI时代仍不辍思考 ，作者：创业思考碎片 注：在a16z官网it's time to build栏目看到的一篇有意思的文章（作者Matt Cronin），让AI翻译过来，让我们看看美国人怎么看待美国的过去和未来。 在大萧条初期，面对看似不可能完成的工程挑战，旧金山开始建造金门大桥。这座桥曾长期被嘲讽为“不可能建成的桥”。工人们在湍急的水流、浓雾和狂风中，建造了当时世界上最长、最高的悬索桥。工程于1933年1月开工，1937年5月汽车即可通车。耗资3500万美元。这项壮举堪比几年前帝国大厦的建造：仅用410天就建成了102层，比原计划提前了一个月。那是一个建筑狂潮的时代，在",
-     "source": "虎嗅",
-     "zh": "是时候重建美利坚了"
-    },
-    {
-     "title": "价值判断：涨停板的投资机会和风险提示（11月10日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8203905.html",
-     "pubDate": "Fri, 13 Nov 2026 10:00:49 +0800",
-     "summary": "本期六只标的分两头：三只首板、收盘只有济安定价的三分之一至六成，分属家用器械、智能终端与游戏IP；三只连板、高于七成九至九成五。三只折价的成色不同——一只的利润来自资产重估，一只的业绩已连续十个报告期增长，一只刚从连年亏损里爬出来。",
-     "source": "钛媒体",
-     "zh": "价值判断：涨停板的投资机会和风险提示（11月10日）｜上市公司观察"
+     "title": "NYC Council passes ban on 'surveillance pricing'",
+     "link": "https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data",
+     "pubDate": "Fri, 13 Nov 2026 02:04:39 +0000",
+     "summary": "Article URL: https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data Comments URL: https://news.ycombinator.com/item?id=50477155 Points: 22 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "NYC Council passes ban on 'surveillance pricing'"
     },
     {
      "title": "Sources close to Jensen Huang say he has taken a penitent turn, castigated himself as a \"piece of shit\", and claims to not care what happens to himself (Bloomberg)",
@@ -1919,14 +1975,6 @@
      "summary": "Bloomberg : Sources close to Jensen Huang say he has taken a penitent turn, castigated himself as a &ldquo;piece of shit&rdquo;, and claims to not care what happens to himself &nbsp; &mdash;&nbsp; At the end, Jensen Huang looked broken and shattered, his legendary energy depleted.&nbsp; After weeks ",
      "source": "Techmeme",
      "zh": "Sources close to Jensen Huang say he has taken a penitent turn, castigated himself as a \"piece of shit\", and claims to not care what happens to himself (Bloomberg)"
-    },
-    {
-     "title": "业务骨干混成了劳务派遣",
-     "link": "https://www.huxiu.com/article/4905240.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 09:47:48 +0800",
-     "summary": "本文来自微信公众号： 九边 ，作者：九边 时迁在梁山一百零八将里排第一百零七，倒数第二，只比偷马的段景住高一名。这个排名初看非常不合理。 因为梁山虽然号称高手如云，但你要真拿着花名册逐个研究，就会发现这里面有相当多的水货，你很难理解他到底是来干什么的。反而时迁是少数业务能力超强的。 比如宋江的弟弟宋清，外号“铁扇子”。 这个外号初听很唬人，感觉兵器应该是一把铁扇，舞起来虎虎生威。结果宋清既不会武功，也没立过什么大功，主要工作是安排酒席，负责梁山的大型团建、商务接待和领导聚餐。原来你是个大堂经理啊。 但人家排第七十六。 还有白胜，染个黄毛的地痞流氓，嗜好赌博，参加过智取生辰纲，项目刚结束就被抓了",
-     "source": "虎嗅",
-     "zh": "业务骨干混成了劳务派遣"
     },
     {
      "title": "Sources: President Trump&apos;s and Howard Lutnick&apos;s close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales (New York Times)",
@@ -1945,60 +1993,12 @@
      "zh": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return"
     },
     {
-     "title": "Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail (New York Times)",
-     "link": "https://www.techmeme.com/261112/p66#a261112p66",
-     "pubDate": "Thu, 12 Nov 2026 19:35:01 -0500",
-     "summary": "New York Times : Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail &nbsp; &mdash;&nbsp; The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy sc",
-     "source": "Techmeme",
-     "zh": "Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail (New York Times)"
-    },
-    {
-     "title": "New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A (CJ Fairfield/CRN)",
-     "link": "https://www.techmeme.com/261112/p65#a261112p65",
-     "pubDate": "Thu, 12 Nov 2026 19:30:00 -0500",
-     "summary": "CJ Fairfield / CRN : New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A &nbsp; &mdash;&nbsp; 'Small businesses are trying to figure out how to transform themselves right now into being AI-first or AI-native, and it's a j",
-     "source": "Techmeme",
-     "zh": "New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A (CJ Fairfield/CRN)"
-    },
-    {
      "title": "GitHub availability report: October 2026",
      "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
      "pubDate": "Fri, 13 Nov 2026 00:20:16 +0000",
      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "GitHub availability report: October 2026"
-    },
-    {
-     "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
-     "link": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
-     "pubDate": "Thu, 12 Nov 2026 23:54:58 +0000",
-     "summary": "The brand’s official Black Friday sales start next week, but some of its best vacuums are already discounted.",
-     "source": "WIRED",
-     "zh": "Roborock Robot Vacuum Early Black Friday Deals (2026)"
-    },
-    {
-     "title": "Cisco reports Q1 revenue up 24% YoY to $18.5B, above $18.14B est., adjusted EPS above estimates, and raises its FY 2027 revenue forecast (Anzar Mehraj/Reuters)",
-     "link": "https://www.techmeme.com/261112/p64#a261112p64",
-     "pubDate": "Thu, 12 Nov 2026 18:50:00 -0500",
-     "summary": "Anzar Mehraj / Reuters : Cisco reports Q1 revenue up 24% YoY to $18.5B, above $18.14B est., adjusted EPS above estimates, and raises its FY 2027 revenue forecast &nbsp; &mdash;&nbsp; Cisco (CSCO.O) beat Wall Street estimates for first-quarter results and raised its annual revenue forecast on Thursda",
-     "source": "Techmeme",
-     "zh": "Cisco reports Q1 revenue up 24% YoY to $18.5B, above $18.14B est., adjusted EPS above estimates, and raises its FY 2027 revenue forecast (Anzar Mehraj/Reuters)"
-    },
-    {
-     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-     "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-     "pubDate": "Thu, 12 Nov 2026 23:06:17 +0000",
-     "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 69 # Comments: 18",
-     "source": "Hacker News",
-     "zh": "Edge0-145B: Frontier AI Capabilities on Your Own Computer"
-    },
-    {
-     "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-     "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-     "pubDate": "Thu, 12 Nov 2026 22:59:51 +0000",
-     "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-     "source": "Ars Technica",
-     "zh": "In reversal, American Cancer Society urges routine prostate cancer screening"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Oppo confirms the Reno17 Pro's main camera and the chipsets powering it and the Reno17",
+     "link": "https://www.gsmarena.com/oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462.php",
+     "pubDate": "Fri, 13 Nov 2026 04:13:01 +0100",
+     "summary": "Oppo is fully unveiling the Reno17 and Reno17 Pro in China on November 16, and just yesterday the company officially confirmed that the Reno17 will come with four 50MP cameras, including the main wide one. Today, Oppo has confirmed that the Reno17 Pro's main camera will be 200MP, just like its prede",
+     "source": "GSMArena",
+     "zh": "Oppo confirms the Reno17 Pro's main camera and the chipsets powering it and the Reno17"
+    },
     {
      "title": "Apple TV just debuted three new originals, including a heist thriller series",
      "link": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
@@ -2201,14 +2209,6 @@
      "zh": "Multiple Microsoft 365 services are experiencing an outage"
     },
     {
-     "title": "Jensen Huang steps down as Nvidia CEO following reports of two affairs",
-     "link": "https://www.gsmarena.com/jensen_huang_steps_down_as_nvidia_ceo_after_a_week_of_scandal_reports-news-75459.php",
-     "pubDate": "Thu, 12 Nov 2026 19:49:02 +0100",
-     "summary": "Nvidia announced today that Jensen Huang has resigned as president, CEO, and member of the board, effective immediately. The decision followed a late-night board meeting on Wednesday, and the company has appointed current CFO Colette Kress as interim CEO while it searches for a permanent successor, ",
-     "source": "GSMArena",
-     "zh": "Jensen Huang steps down as Nvidia CEO following reports of two affairs"
-    },
-    {
      "title": "Pebblebee’s latest Android Find Hub trackers try some festive colors, but fall short on sparkle",
      "link": "https://9to5google.com/2026/11/12/pebblebees-latest-android-find-hub-trackers-try-some-festive-colors-but-fall-short-on-sparkle/",
      "pubDate": "Thu, 12 Nov 2026 18:45:00 +0000",
@@ -2257,20 +2257,100 @@
    "total": 13,
    "items": [
     {
+     "title": "债市震荡，低风险银行理财又不“稳”了",
+     "link": "http://www.eeo.com.cn/2026/1113/1091718.shtml",
+     "pubDate": "Fri, 13 Nov 2026 11:44:42 +0800",
+     "summary": "近期债市走弱引发银行理财市场新一轮净值波动，部分中低风险的R1、R2级固收类理财产品连续多天出现单日净值下跌，投资者产品出现收益浮亏，却无法提前赎回离场。",
+     "source": "经济观察网",
+     "zh": "债市震荡，低风险银行理财又不“稳”了"
+    },
+    {
+     "title": "Infrastrutture Wireless Italiane S.p.A. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4672054-infrastrutture-wireless-italiane-s-p-a-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 22:42:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Infrastrutture Wireless Italiane S.p.A. reports Q3 results"
+    },
+    {
+     "title": "Nippon Paint Holdings reports 9M results",
+     "link": "https://seekingalpha.com/news/4672050-nippon-paint-holdings-reports-9m-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 22:40:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nippon Paint Holdings reports 9M results"
+    },
+    {
+     "title": "Streamex anticipates GLDY going live on Equity Trust next week while USGY targets 10.1% APY",
+     "link": "https://seekingalpha.com/news/4672053-streamex-anticipates-gldy-going-live-on-equity-trust-next-week-while-usgy-targets-10_1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 22:40:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Streamex anticipates GLDY going live on Equity Trust next week while USGY targets 10.1% APY"
+    },
+    {
+     "title": "HawkEye 360 raises 2026 outlook to $225M-$227M revenue and $38M-$40M adjusted EBITDA as international revenue nears half of business",
+     "link": "https://seekingalpha.com/news/4672052-hawkeye-360-raises-2026-outlook-to-225m-227m-revenue-and-38m-40m-adjusted-ebitda-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 22:40:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HawkEye 360 raises 2026 outlook to $225M-$227M revenue and $38M-$40M adjusted EBITDA as international revenue nears half of business"
+    },
+    {
+     "title": "HeartFlow raises 2026 revenue outlook to $262M-$264M as Plaque nears 1,300 active accounts",
+     "link": "https://seekingalpha.com/news/4672051-heartflow-raises-2026-revenue-outlook-to-262m-264m-as-plaque-nears-1300-active-accounts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 22:39:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HeartFlow raises 2026 revenue outlook to $262M-$264M as Plaque nears 1,300 active accounts"
+    },
+    {
+     "title": "Nissin Foods Holdings GAAP EPS of ¥76.25, revenue of ¥408.74B",
+     "link": "https://seekingalpha.com/news/4672049-nissin-foods-holdings-gaap-eps-of-7625-revenue-of-40874b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 22:38:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nissin Foods Holdings GAAP EPS of ¥76.25, revenue of ¥408.74B"
+    },
+    {
+     "title": "黄仁勋下台，AI新玩家的“最大金主”也没了",
+     "link": "https://wallstreetcn.com/articles/3785857",
+     "pubDate": "Fri, 13 Nov 2026 11:07:13 +0800",
+     "summary": "黄仁勋的突然离职，不仅终结了英伟达一个时代，也令整个AI创业生态系统最重要的资金来源陷入深度不确定性。 过去三年，英伟达在黄仁勋主导下累计向AI初创企业、云计算提供商及前沿AI实验室投入逾1400亿美元，成为这一行业无可替代的“最大金主”。如今，随着这位创始人的出局，这条资金管道能否延续，市场正在重新定价。 英伟达股价在黄仁勋辞职消息公布后的周四（11月12日）盘中一度下跌近7%，过去两周累计跌幅已超过25%。 与此同时，英伟达持股的新兴云计算公司CoreWeave和Iren股价当日均下跌约7%。据科技媒体The Information报道，风险投资人、初创企业创始人及半导体高管普遍预计，英伟",
+     "source": "华尔街见闻",
+     "zh": "黄仁勋下台，AI新玩家的“最大金主”也没了"
+    },
+    {
+     "title": "青州博物馆：改写美术史的“青州微笑”",
+     "link": "http://www.eeo.com.cn/2026/1113/1091657.shtml",
+     "pubDate": "Fri, 13 Nov 2026 10:59:52 +0800",
+     "summary": "原大英博物馆东方部主任罗森女士直言，青州造像的雕塑艺术不仅早于欧洲文艺复兴，水平也极高，堪称“东方维纳斯”，可以说“改写了世界美术史”。",
+     "source": "经济观察网",
+     "zh": "青州博物馆：改写美术史的“青州微笑”"
+    },
+    {
+     "title": "肖家屋脊简陋的瓮棺葬中，为何随葬珍贵玉器",
+     "link": "http://www.eeo.com.cn/2026/1113/1091648.shtml",
+     "pubDate": "Fri, 13 Nov 2026 10:53:35 +0800",
+     "summary": "石家河遗址是长江中游地区面积最大、延续时间最长、等级最高、附属聚落最多的史前城址聚落。",
+     "source": "经济观察网",
+     "zh": "肖家屋脊简陋的瓮棺葬中，为何随葬珍贵玉器"
+    },
+    {
+     "title": "Cerebras电话会：拿下微软大单，HBM短缺反而是机会，WSE-5芯片明年夏天量产",
+     "link": "https://wallstreetcn.com/articles/3785852",
+     "pubDate": "Fri, 13 Nov 2026 10:51:55 +0800",
+     "summary": "AI芯片初创公司Cerebras在2026年第三季度交出首次实现净利润转正的答卷，并宣布微软成为其六个月内拿下的第三家超大规模云服务商客户，公司重申2027年营收将实现三倍增长的强劲指引。 华尔街见闻提及 ，当地时间11月12日，备受市场瞩目的Cerebras公布2026年第三季度财报。公司当季核心营收达到2.309亿美元，同比增长70%，高于分析师平均预期的2.147亿美元。 公司首次作为上市公司实现了非公认会计准则（Non-GAAP）下的净利润转正，达到3000万美元。 随后电话会上，Cerebras联合创始人兼CEO Andrew Feldman表示， 公司同步上调第四季度及全年指引，预",
+     "source": "华尔街见闻",
+     "zh": "Cerebras电话会：拿下微软大单，HBM短缺反而是机会，WSE-5芯片明年夏天量产"
+    },
+    {
      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
      "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
      "pubDate": "Fri, 13 Nov 2026 02:43:26 GMT",
      "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
      "source": "CNBC",
      "zh": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal"
-    },
-    {
-     "title": "Virgin Galactic outlines plan to lift capacity to 150 flights per year as commercial service shifts to early Q2 2027",
-     "link": "https://seekingalpha.com/news/4672026-virgin-galactic-outlines-plan-to-lift-capacity-to-150-flights-per-year-as-commercial-service?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 21:39:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Virgin Galactic outlines plan to lift capacity to 150 flights per year as commercial service shifts to early Q2 2027"
     },
     {
      "title": "范·霍伦欲挑战舒默，角逐美国参议院民主党领袖",
@@ -2321,46 +2401,6 @@
      "zh": "银行板块大面积回暖 江苏银行、南京银行双双创历史新高"
     },
     {
-     "title": "NeuroPace expects ~15% RNS growth in 2027 as it revises 2026 revenue guidance to $91M-$92M",
-     "link": "https://seekingalpha.com/news/4672025-neuropace-expects-15-percent-rns-growth-in-2027-as-it-revises-2026-revenue-guidance-to-91m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 21:30:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NeuroPace expects ~15% RNS growth in 2027 as it revises 2026 revenue guidance to $91M-$92M"
-    },
-    {
-     "title": "Cibus targets biofragrance peak revenue up to $100M while aiming for rice launch as early as 2028",
-     "link": "https://seekingalpha.com/news/4672024-cibus-targets-biofragrance-peak-revenue-up-to-100m-while-aiming-for-rice-launch-as-early-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 21:30:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cibus targets biofragrance peak revenue up to $100M while aiming for rice launch as early as 2028"
-    },
-    {
-     "title": "Cytosorbents outlines early 2027 DrugSorb-ATR De Novo plan with $300M initial U.S./Canada market",
-     "link": "https://seekingalpha.com/news/4672023-cytosorbents-outlines-early-2027-drugsorb-atr-de-novo-plan-with-300m-initial-u-s-canada?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 21:19:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cytosorbents outlines early 2027 DrugSorb-ATR De Novo plan with $300M initial U.S./Canada market"
-    },
-    {
-     "title": "Cisco outlines FY 2027 revenue of $74.8B-$75.8B as it projects $9B in hyperscaler AI infrastructure revenue",
-     "link": "https://seekingalpha.com/news/4672022-cisco-outlines-fy-2027-revenue-of-74_8b-75_8b-as-it-projects-9b-in-hyperscaler-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 21:19:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cisco outlines FY 2027 revenue of $74.8B-$75.8B as it projects $9B in hyperscaler AI infrastructure revenue"
-    },
-    {
-     "title": "Rekor outlines operating model for profitability at approximately $50M annual revenue while prioritizing December note refinancing",
-     "link": "https://seekingalpha.com/news/4672021-rekor-outlines-operating-model-for-profitability-at-approximately-50m-annual-revenue-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 21:09:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rekor outlines operating model for profitability at approximately $50M annual revenue while prioritizing December note refinancing"
-    },
-    {
      "title": "创业板早盘一度跌1%，科创50涨超1%，GPU再拉升，光模块龙头“易中天”齐跌，恒指、恒科指齐跌",
      "link": "https://wallstreetcn.com/articles/3785855",
      "pubDate": "Fri, 13 Nov 2026 10:09:46 +0800",
@@ -2385,14 +2425,6 @@
      "zh": "直击中芯国际业绩会：上游设备采购价格提高、交付周期拉长 AI配套芯片代工价格维持上行趋势"
     },
     {
-     "title": "黄仁勋时代落幕，英伟达33年来首次换帅",
-     "link": "http://www.eeo.com.cn/2026/1113/1091577.shtml",
-     "pubDate": "Fri, 13 Nov 2026 10:00:39 +0800",
-     "summary": "如今，由黄仁勋主导的时代就此结束，英伟达以及围绕它建立起来的AI算力产业链，都要面对黄仁勋离开之后的变化。",
-     "source": "经济观察网",
-     "zh": "黄仁勋时代落幕，英伟达33年来首次换帅"
-    },
-    {
      "title": "“英伟达劲敌”盘后大涨17%！Cerebras业绩大幅超预期 拿下微软订单",
      "link": "http://finance.eastmoney.com/news/1354,202611133930551089.html",
      "pubDate": "Fri, 13 Nov 2026 09:59:02 +0800",
@@ -2407,38 +2439,6 @@
      "summary": "科技巨头 微软 多项服务宕机。 美东时间周四，据CCTV国际时讯， 微软 旗下Microsoft 365、Outlook（ 电子 邮件）、Teams（即时通讯）及其他应用于美国东部时间11月12日持续中断多个小时，影响大批用户。此次宕机还波及美国开放 人工智能 研究中心（OpenAI）和安特罗匹克公司（Anthropic） 人工智能 服务所使用的连接组件。 截至美国东部时间下午6点， 微软 表示仍在努力让受影响的服务器恢复服务，并已观察到有限恢复，用户正逐步重新连接。据故障追踪网站数据，美国东部时间下午1点左右，Outlook问题报告量一度达到峰值138058起，到傍晚已降至约34490起。截",
      "source": "东方财富资讯",
      "zh": "微软多项服务大规模宕机：涉及Outlook等 服务器意外离线导致负载过高"
-    },
-    {
-     "title": "新鲜零食扎堆商场，光靠“新鲜”还能火多久？",
-     "link": "http://www.eeo.com.cn/2026/1113/1091564.shtml",
-     "pubDate": "Fri, 13 Nov 2026 09:51:43 +0800",
-     "summary": "主打短保现制的新鲜零食扎堆进驻商场，金粒门、几多全等品牌快速扩张，靠着“新鲜”抓住不少消费者。不过新鲜意味着更高损耗、品控难题，产品也容易被模仿。热度之下，只靠“新鲜”这一个卖点，这条赛道能走多远？",
-     "source": "经济观察网",
-     "zh": "新鲜零食扎堆商场，光靠“新鲜”还能火多久？"
-    },
-    {
-     "title": "陈春花：控制——AI时代最容易被误读的职能",
-     "link": "http://www.eeo.com.cn/2026/1113/1091555.shtml",
-     "pubDate": "Fri, 13 Nov 2026 09:45:26 +0800",
-     "summary": "提到“控制”，很多人想到的是“管人”“盯着”“约束”。但我在《管理的常识》中讲得很清楚：控制是保障达成绩效的核心职能。这篇文章，我们从《管理的常识》出发，聊聊控制到底是什么，以及AI时代它该如何做。",
-     "source": "经济观察网",
-     "zh": "陈春花：控制——AI时代最容易被误读的职能"
-    },
-    {
-     "title": "学不动的孩子｜ 07  复学波动期的\"三次退行\"",
-     "link": "http://www.eeo.com.cn/2026/1113/1091554.shtml",
-     "pubDate": "Fri, 13 Nov 2026 09:44:52 +0800",
-     "summary": "在复学的过程中，孩子大概率会经历三次比较明显的\"退回\"。每一次，看起来都像\"又不行了\"，但底层的东西其实不一样。",
-     "source": "经济观察网",
-     "zh": "学不动的孩子｜ 07  复学波动期的\"三次退行\""
-    },
-    {
-     "title": "金价波动，多家银行上线积存金“挂单”功能",
-     "link": "http://www.eeo.com.cn/2026/1113/1091553.shtml",
-     "pubDate": "Fri, 13 Nov 2026 09:43:40 +0800",
-     "summary": "金价高频振荡，多家银行上线积存金挂单功能，个人炒金进入“条件单”时代。但挂单只是中性工具，便利背后投资者仍要树立理性稳健的配置理念。",
-     "source": "经济观察网",
-     "zh": "金价波动，多家银行上线积存金“挂单”功能"
     },
     {
      "title": "The Silicon Valley veterans now steering Nvidia",

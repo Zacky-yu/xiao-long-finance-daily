@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 07:12:05",
+ "generated_at": "2026/11/14 07:32:00",
  "recent_days": 7,
  "industries": [
   {
@@ -274,28 +274,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs"
     },
     {
-     "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 17:59:01 +0000",
-     "summary": "One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car. The post Picture of the Day: Lemo drives Sauber F1 to Electronica appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Picture of the Day: Lemo drives Sauber F1 to Electronica"
-    },
-    {
      "title": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout",
      "link": "https://semiwiki.com/eda/quilter/376102-ceo-interview-with-sergiy-nesterenko-of-quilter-on-ai-pcb-layout/",
      "pubDate": "Fri, 13 Nov 2026 17:00:32 +0000",
      "summary": "Sergiy Nesterenko is founder and CEO of Quilter, which builds physics-driven AI for printed circuit board (PCB) layout. He triple majored in mathematics, physics, and chemistry at UC Berkeley and worked in the electromagnetic interference and compatibility (EMI/EMC) group at SpaceX during the early ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout"
-    },
-    {
-     "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 15:17:38 +0000",
-     "summary": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
-     "source": "Electronics Weekly",
-     "zh": "Jedec creates Subcommittee to address System Level Reliability Testing"
     },
     {
      "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
@@ -314,44 +298,12 @@ window.INDUSTRY_DATA = {
      "zh": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage"
     },
     {
-     "title": "Technologies Which Died",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 14:05:31 +0000",
-     "summary": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Technologies Which Died"
-    },
-    {
-     "title": "Electronica: Renesas adds Xplorer Developer Hub",
-     "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 13:58:00 +0000",
-     "summary": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Renesas adds Xplorer Developer Hub"
-    },
-    {
      "title": "Jensen Huang and the Cost of Unchecked Influence",
      "link": "https://semiwiki.com/semiconductor-manufacturers/376254-jensen-huang-and-the-accountability-crisis-at-nvidia/",
      "pubDate": "Fri, 13 Nov 2026 13:00:18 +0000",
      "summary": "As a semiconductor professional with 45 years in the industry, born and raised in Silicon Valley, I’ve followed Nvidia and Jensen Huang from the beginning. Jensen has been my No. 1 semiconductor CEO for many years, and he still is today. My wife and I have met Jensen and his wife, Lori, on several s",
      "source": "SemiWiki",
      "zh": "Jensen Huang and the Cost of Unchecked Influence"
-    },
-    {
-     "title": "Electronica – The latest news roundup",
-     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:12:27 +0000",
-     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Electronica – The latest news roundup"
-    },
-    {
-     "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:09:27 +0000",
-     "summary": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications"
     },
     {
      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Rethinking Memory For AI Inference"
+    },
+    {
+     "title": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall",
+     "link": "https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/",
+     "pubDate": "Thu, 12 Nov 2026 08:08:39 +0000",
+     "summary": "Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. The post Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall"
+    },
+    {
+     "title": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI",
+     "link": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/",
+     "pubDate": "Thu, 12 Nov 2026 08:06:49 +0000",
+     "summary": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI"
+    },
+    {
+     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
+     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
+    },
+    {
+     "title": "JX and OXIDE enter into capital and business alliance agreement",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/jx-oxide-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:39:19 GMT",
+     "summary": "Tokyo-based JX Advanced Metals Corp and OXIDE Corp of Yamanashi, Japan (which specializes in optical crystals and frequency-conversion technology) have entered into a capital and business alliance agreement. JX plans to subscribe for shares to be issued by OXIDE through a third-party allotment and a",
+     "source": "Semiconductor Today",
+     "zh": "JX and OXIDE enter into capital and business alliance agreement"
+    },
+    {
+     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
+     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
+     "source": "Semiconductor Today",
+     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Hydropower Generation in the Southwest Fell to Record Lows This Summer",
+     "link": "https://cleantechnica.com/2026/11/13/hydropower-generation-in-the-southwest-fell-to-record-lows-this-summer/",
+     "pubDate": "Fri, 13 Nov 2026 23:17:06 +0000",
+     "summary": "Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply region, which includes Arizona, New Mexico, and small parts of Nevada and California. Hydropower generation from April through August 2026 was 19",
+     "source": "CleanTechnica",
+     "zh": "Hydropower Generation in the Southwest Fell to Record Lows This Summer"
+    },
+    {
      "title": "Iran Braces for a Budget Without Oil Revenue",
      "link": "https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html",
      "pubDate": "Fri, 13 Nov 2026 17:00:00 -0600",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Teraco has selected JA to deliver n-type solar PV modules to its 120MW Sediba solar PV project in Parys, Free State province, South Africa.",
      "source": "PV Tech",
      "zh": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South Africa"
-    },
-    {
-     "title": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
-     "link": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
-     "pubDate": "Fri, 13 Nov 2026 10:01:42 +0000",
-     "summary": "Another edition of our BESS Industry Buzz, this week looking at new details on CATL's sodium-ion technology, BESS availability, BAAJA trade-offs and the price of speed to power.",
-     "source": "Energy Storage News",
-     "zh": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power"
     }
    ]
   },
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+     "pubDate": "Fri, 13 Nov 2026 23:20:03 +0000",
+     "summary": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
+     "source": "Space.com",
+     "zh": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)"
+    },
+    {
      "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
      "pubDate": "Fri, 13 Nov 2026 21:25:55 +0000",
@@ -1344,14 +1352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Liftoff of the integrated Starship vehicle from Starbase in Texas is scheduled during a 75-minute launch window that opens at 4:45 p.m. CST (5:45 p.m. EST / 2245 UTC) on Friday, Nov. 13.",
      "source": "Spaceflight Now",
      "zh": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch"
-    },
-    {
-     "title": "Think you have good eyesight? Try counting the stars in the Pleiades tonight",
-     "link": "https://www.space.com/stargazing/think-you-have-good-eyesight-try-counting-the-stars-in-the-pleiades-tonight",
-     "pubDate": "Fri, 13 Nov 2026 19:00:00 +0000",
-     "summary": "Every November, I give myself a completely unscientific eyesight test using one of my favorite sights in the night sky — the Pleiades. How many stars can you see?",
-     "source": "Space.com",
-     "zh": "Think you have good eyesight? Try counting the stars in the Pleiades tonight"
     },
     {
      "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
@@ -1762,6 +1762,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "FAA orders third nationwide ground stop in its history",
+     "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+     "pubDate": "Fri, 13 Nov 2026 23:17:38 +0000",
+     "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+     "source": "Ars Technica",
+     "zh": "FAA orders third nationwide ground stop in its history"
+    },
+    {
+     "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+     "link": "https://www.ithome.com/1/027/004.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:17:38 GMT",
+     "summary": "IT之家 11 月 14 日消息，《财富》昨日（11 月 13 日）发布博文，爆料称 OpenAI 已解散独立机器人团队，并将相关人员调至公司其他部门。OpenAI 向该媒体确认了此次组织调整， 只是强调本次调整并非退出机器人领域，机器人仍是其长期愿景的核心，重组旨在加快研发。 在架构调整方面，机器人研究人员并入核心研究团队，向首席研究官马克 · 陈（Mark Chen）汇报；应用机器人与硬件团队则转入规模更大的应用部门，该部门由公司总裁格雷格 · 布罗克曼（Greg Brockman）负责。IT之家附上相关截图如下;d 对于本次架构调整的根源，OpenAI 官方回应称包括 GPT-6 Ast",
+     "source": "IT之家",
+     "zh": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队"
+    },
+    {
+     "title": "腾讯“裁员50%”刷屏背后，其实是时代的悲哀",
+     "link": "https://www.huxiu.com/article/4905537.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 07:17:12 +0800",
+     "summary": "本文来自微信公众号： 中外管理传媒 ，作者：大国奇谈 腾讯内部用陆军海军比喻资源配置，传到外界却演化成裁员比例，真正令人不安的不是谣言编得巧，而是过去组织调整反复落地，让员工对“变革”早有心理剧本，传播只是替这种集体焦虑提前开口。 11月11日傍晚，腾讯28周年的内部直播里，管理层用了一个比方。第二天中午，这个比方变成了一个数字：五万多人要走！ 原话是这样的：为了应对AI时代的变革，内部需要主动思考新打法和新战场，50%的人像陆军，守土有责，通过提效做好现有的核心业务；另50%的人像海军，拥抱浪潮，探索AI原生，拓展新的发展空间。 陆军、海军。一个讲守，一个讲攻。说的人显然是想把一件抽象的事讲",
+     "source": "虎嗅",
+     "zh": "腾讯“裁员50%”刷屏背后，其实是时代的悲哀"
+    },
+    {
+     "title": "微软：没有迹象表明全美国航班停飞与 M365 服务宕机有关",
+     "link": "https://www.ithome.com/1/027/003.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:13:11 GMT",
+     "summary": "IT之家 11 月 14 日消息，针对美国联邦航空管理局（FAA）突发全国性航班地面停飞事件带来的猜测，微软刚刚在 X 上回应称，目前没有迹象表明 FAA 的全国性地面停飞与微软的任何服务有关。 此次回应受到关注，与微软此前发生的大规模服务故障时间接近有关。当地时间 11 月 12 日，微软旗下 Outlook、Microsoft Teams、OneDrive 等多项服务出现大范围异常，影响多个国家和地区的用户。微软随后启动故障排查及服务恢复工作。 而在当地时间 11 月 13 日，美国 FAA 因空中交通管制通信问题下令全美机场暂停航班起飞。美国交通部长肖恩 · 达菲表示，通信故障影响全美 ",
+     "source": "IT之家",
+     "zh": "微软：没有迹象表明全美国航班停飞与 M365 服务宕机有关"
+    },
+    {
+     "title": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年",
+     "link": "https://www.ithome.com/1/027/002.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:07:34 GMT",
+     "summary": "IT之家 11 月 14 日消息，金融时报昨日（11 月 13 日）发布博文，报道称英伟达董事会已聘请外部机构物色新 CEO 候选人， 除了苹果芯片负责人约翰尼 · 斯鲁吉（Johny Srouji）外 ，Arm 首席执行官雷内 · 哈斯（Rene Haas）也被列为潜在考虑对象。 路透社表示英伟达董事会有意向接触哈斯，但目前哈斯只是英伟达董事会考虑的多名人选之一，是否会获得邀约、是否愿意接受，均未确定。 图源：Arm 官网 IT之家援引博文介绍，哈斯曾在该公司工作七年，担任计算产品业务副总裁兼总经理，2013 年加入 Arm，2022 年出任首席执行官，并带领 Arm 于 2023 年登陆纳",
+     "source": "IT之家",
+     "zh": "路透社：Arm 掌门人哈斯进入接棒黄仁勋候选视野，曾在英伟达工作 7 年"
+    },
+    {
+     "title": "Terminal borders that don't cost a cell",
+     "link": "https://www.joshka.net/cell-borders/",
+     "pubDate": "Fri, 13 Nov 2026 23:06:40 +0000",
+     "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Terminal borders that don't cost a cell"
+    },
+    {
      "title": "一小时10元，她把自己卖给机器人",
      "link": "https://www.huxiu.com/article/4905184.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 07:00:03 +0800",
@@ -1778,26 +1826,34 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price"
     },
     {
+     "title": "微软称 Outlook 等服务陆续恢复并趋稳，部分用户仍待恢复",
+     "link": "https://www.ithome.com/1/027/001.htm",
+     "pubDate": "Fri, 13 Nov 2026 22:57:13 GMT",
+     "summary": "IT之家 11 月 14 日消息，微软官方账号 @MSFT365Status 于北京时间 11 月 14 日发布的推文， 微软宣布其 Outlook 等各项服务均呈现全面恢复和稳定态势。不过，微软公开声明同时表示，仍在为剩余受影响客户和地区恢复服务。 根据微软官方 MO1550821 公告内容，本次 Microsoft 365 服务故障从美国东部时间 2026 年 11 月 12 日 13:25 左右（IT之家注：北京时间 11 月 13 日凌晨 2:25 左右）开始，影响 Outlook、Teams、Copilot、OneDrive 等多项微软服务。 此次故障最初涉及 Teams，随后微软确",
+     "source": "IT之家",
+     "zh": "微软称 Outlook 等服务陆续恢复并趋稳，部分用户仍待恢复"
+    },
+    {
+     "title": "SpaceX 星舰第 15 次试飞升空：超重型助推器中途改道墨西哥湾溅落放弃回收，飞船继续飞行中",
+     "link": "https://www.ithome.com/1/027/000.htm",
+     "pubDate": "Fri, 13 Nov 2026 22:54:42 GMT",
+     "summary": "IT之家 11 月 14 日消息，美国太空探索技术公司（SpaceX）重型运载火箭“星舰”于美国中部时间 13 日下午从得克萨斯州发射升空，实施第 15 次试飞。 发射窗口于美国中部时间当天下午 4 时 45 分开启，星舰从轨道发射台 2 号升空。 此次任务使用超重型助推器 B22 号和飞船 S42 号，原计划首次实现助推器与飞船双双返回发射场并由发射塔机械臂实施空中捕获回收，同时部署 26 颗第三代星链卫星。 发射升空后不久，星舰及超重助推器完成热分离，飞船猛禽发动机成功点火，超重型助推器按计划执行返回机动。 不过 SpaceX 官方随即确认，超重型助推器已改道至墨西哥湾近海溅落着陆，发射塔",
+     "source": "IT之家",
+     "zh": "SpaceX 星舰第 15 次试飞升空：超重型助推器中途改道墨西哥湾溅落放弃回收，飞船继续飞行中"
+    },
+    {
      "title": "美国突发全国性航班停飞：8000 架次延误 + 3100 架飞机在空中，FBI 初步排除网络攻击",
      "link": "https://www.ithome.com/1/026/999.htm",
      "pubDate": "Fri, 13 Nov 2026 22:43:32 GMT",
-     "summary": "IT之家 11 月 14 日消息，北京时间 11 月 14 日凌晨，美国航空交通管制系统发生大规模通信故障，美国联邦航空管理局（FAA）随后下令全美机场暂停航班起飞。 此次事件最初发生在芝加哥奥黑尔国际机场，随后迅速扩大至全国，影响全美航空交通运行。 据美联社 11 月 13 日报道，美国交通部长肖恩 · 达菲证实，通信故障影响了全美 22 个区域航路交通管制中心。FAA 以安全为由实施全国性地面停飞，要求所有待起飞航班留在地面，飞往美国的国际航班则根据具体情况分别处理。 根据目前披露的事件时间线，北京时间 4 时 46 分，芝加哥奥黑尔国际机场首先报告通信问题，并实施地面停飞。4 时 57 ",
+     "summary": "IT之家 11 月 14 日消息，北京时间 11 月 14 日凌晨，美国航空交通管制系统发生大规模通信故障，美国联邦航空管理局（FAA）在约半小时内将局部停飞升级为全国性地面停飞，要求所有待起飞航班留在地面，直至另行通知。 此次事件最早于北京时间 4 时 46 分发生在芝加哥奥黑尔国际机场，11 分钟后扩大至全美，飞往美国的国际航班按个案处理，已在空中的航班则可正常降落。 据美联社 11 月 13 日报道，美国交通部长肖恩 · 达菲证实，通信故障影响了全美 22 个区域航路交通管制中心。FAA 以安全为由实施全国性地面停飞，要求所有待起飞航班留在地面，飞往美国的国际航班则根据具体情况分别处理。",
      "source": "IT之家",
      "zh": "美国突发全国性航班停飞：8000 架次延误 + 3100 架飞机在空中，FBI 初步排除网络攻击"
-    },
-    {
-     "title": "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人",
-     "link": "https://www.ithome.com/1/026/998.htm",
-     "pubDate": "Fri, 13 Nov 2026 22:39:32 GMT",
-     "summary": "IT之家 11 月 14 日消息，英国《金融时报》报道称，英伟达董事会曾接触芯片设计公司 Arm 首席执行官雷内・哈斯（Rene Haas），将其作为潜在继任人选。 当地时间 11 月 13 日，英伟达董事会针对外界对新任 CEO 人选的猜测回应 CNBC 称，公司尚未选定负责首席执行官招聘工作的猎头机构，也尚未正式联系任何潜在候选人。 IT之家此前报道，英伟达于当地时间 11 月 12 日宣布，黄仁勋辞去公司总裁、CEO 及董事会成员职务，即刻生效。公司 CFO 科莱特・克雷斯（Colette Kress）出任临时 CEO，同时继续担任 CFO。 根据英伟达公布的安排，董事会将在内部和外部候",
-     "source": "IT之家",
-     "zh": "英伟达董事会澄清：尚未选定 CEO 招聘猎头，也未正式接触候选人"
     },
     {
      "title": "Claude Meetings",
      "link": "https://claude.com/resources/articles/claude-meetings",
      "pubDate": "Fri, 13 Nov 2026 22:39:15 +0000",
-     "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 15 # Comments: 4",
+     "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 32 # Comments: 16",
      "source": "Hacker News",
      "zh": "Claude Meetings"
     },
@@ -1808,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
      "source": "WIRED",
      "zh": "Best Early Black Friday AirPods Deals (2026)"
-    },
-    {
-     "title": "Home Assistant: the password is not the key – token secrets in cleartext",
-     "link": "https://seclists.org/fulldisclosure/2026/Nov/34",
-     "pubDate": "Fri, 13 Nov 2026 22:30:10 +0000",
-     "summary": "Article URL: https://seclists.org/fulldisclosure/2026/Nov/34 Comments URL: https://news.ycombinator.com/item?id=50490967 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Home Assistant: the password is not the key – token secrets in cleartext"
     },
     {
      "title": "Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn&apos;t believe it was due to a cyberattack or criminality (Myles Miller/Bloomberg)",
@@ -1829,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
      "link": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
      "pubDate": "Fri, 13 Nov 2026 22:16:11 +0000",
-     "summary": "Article URL: https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage Comments URL: https://news.ycombinator.com/item?id=50490778 Points: 32 # Comments: 4",
+     "summary": "Article URL: https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage Comments URL: https://news.ycombinator.com/item?id=50490778 Points: 58 # Comments: 13",
      "source": "Hacker News",
      "zh": "National Weather Service reports nationwide radar website outage amid FAA stop"
     },
@@ -1845,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
      "link": "https://orcasairband.com/",
      "pubDate": "Fri, 13 Nov 2026 22:04:24 +0000",
-     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 46 # Comments: 18",
+     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 56 # Comments: 21",
      "source": "Hacker News",
      "zh": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped"
     },
@@ -1893,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
      "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
      "pubDate": "Fri, 13 Nov 2026 21:08:49 +0000",
-     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 89 # Comments: 25",
+     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 92 # Comments: 26",
      "source": "Hacker News",
      "zh": "FAA issues nationwide ground stop due to \"extraordinary circumstances\""
     },
@@ -1901,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "All US airports are currently ground stopped",
      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
      "pubDate": "Fri, 13 Nov 2026 21:06:52 +0000",
-     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 106 # Comments: 23",
+     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 112 # Comments: 23",
      "source": "Hacker News",
      "zh": "All US airports are currently ground stopped"
     },
@@ -1952,54 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
      "source": "WIRED",
      "zh": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites"
-    },
-    {
-     "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-     "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-     "pubDate": "Fri, 13 Nov 2026 19:49:16 +0000",
-     "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-     "source": "Ars Technica",
-     "zh": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good"
-    },
-    {
-     "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-     "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-     "pubDate": "Fri, 13 Nov 2026 19:08:57 +0000",
-     "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-     "source": "WIRED",
-     "zh": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage"
-    },
-    {
-     "title": "微软发布 Win11 Beta / Experimental / RP 多版本预览版：含 28020.3532 等多版本推送",
-     "link": "https://www.ithome.com/1/026/997.htm",
-     "pubDate": "Fri, 13 Nov 2026 18:07:19 GMT",
-     "summary": "IT之家 11 月 14 日消息，微软昨天（11 月 13 日）发布博文，邀请 Beta、Experimental、Release Preview 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。 其中常规 Beta、Experimental 主通道本周暂不推送更新，相关常规更新将在下周正式发布，本次推送的版本分别为： Beta（26H1）通道：Build 28020.3532 Experimental（26H1）通道：Build 28120.3542 Experimental（Future Platforms）通道：Build 29708.1",
-     "source": "IT之家",
-     "zh": "微软发布 Win11 Beta / Experimental / RP 多版本预览版：含 28020.3532 等多版本推送"
-    },
-    {
-     "title": "2026.46: The End of Jensen",
-     "link": "https://stratechery.com/2026/the-end-of-jensen/",
-     "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
-     "summary": "The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
-     "source": "Stratechery",
-     "zh": "2026.46: The End of Jensen"
-    },
-    {
-     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-     "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-     "pubDate": "Fri, 13 Nov 2026 17:25:45 +0000",
-     "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-     "source": "Ars Technica",
-     "zh": "OpenAI board member worries an AI \"takeover\" of society could be months away"
-    },
-    {
-     "title": "The Microsoft Outage Is a Warning for the World",
-     "link": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
-     "pubDate": "Fri, 13 Nov 2026 17:15:54 +0000",
-     "summary": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
-     "source": "WIRED",
-     "zh": "The Microsoft Outage Is a Warning for the World"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Tested in the wild: Best survival tech!",
+     "link": "https://www.androidauthority.com/tested-in-the-wild-best-survival-tech-3735211/",
+     "pubDate": "Fri, 13 Nov 2026 23:20:29 +0000",
+     "summary": "Our team of intrepid adventurers went out into the Canadian wilderness to test some of the best outdoor tech you can buy.",
+     "source": "Android Authority",
+     "zh": "Tested in the wild: Best survival tech!"
+    },
     {
      "title": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
      "link": "https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/",
@@ -2154,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google now lets people connect Gemini to their bank accounts"
     },
     {
-     "title": "OpenAI rolls out ChatGPT Wallet to let Dots AI agents make purchases",
-     "link": "https://www.androidauthority.com/chatgpt-wallet-3735154/",
-     "pubDate": "Fri, 13 Nov 2026 19:05:13 +0000",
-     "summary": "Wallet is available to US-based ChatGPT Pro subscribers.",
-     "source": "Android Authority",
-     "zh": "OpenAI rolls out ChatGPT Wallet to let Dots AI agents make purchases"
-    },
-    {
      "title": "Disney's 3D movies shine on Meta's Quest 3, it's just a shame it took so long",
      "link": "https://www.engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on/",
      "pubDate": "Fri, 13 Nov 2026 19:00:00 +0000",
@@ -2258,6 +2258,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
+     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+     "pubDate": "Fri, 13 Nov 2026 23:28:31 GMT",
+     "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
+     "source": "CNBC",
+     "zh": "FAA grounds departing flights nationwide, citing air traffic communication system outage"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年11月14日",
+     "link": "https://wallstreetcn.com/articles/3785925",
+     "pubDate": "Sat, 14 Nov 2026 07:12:44 +0800",
+     "summary": "华见早安之声 要闻精选 中国10月新增社融1.15万亿元，人民币贷款单月减少1000亿元，M2同比增长7.1%，M2与M1剪刀差由4.0个百分点收窄至2.7个百分点。 央视网评：离岸信托个税申报超1600亿，不是“劫富”，是收旧账。 美国联邦航空管理局因空管通信频率故障发布全国地面停飞令，出港航班全部暂停，入境国际航班逐案处理。 美联储半年度金融稳定报告称资产估值压力持续处于高位，股票估值指标居高不下，部分源于市场对超级智能的预期。芝加哥联储主席古尔斯比与波士顿联储主席柯林斯同日警告通胀正向更多商品和服务扩散，称很快需要进一步收紧政策。 美国财长贝森特称美联储不应因伊朗战争引发的能源冲击加息，",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年11月14日"
+    },
+    {
+     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 23:12:00 GMT",
+     "summary": "There is already a demographic ‘run’ on Social Security.",
+     "source": "MarketWatch",
+     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
+    },
+    {
+     "title": "美国FDA：批准Gazyva（奥妥珠单抗）注射液用于治疗成人原发性膜性肾病",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931107734.html",
+     "pubDate": "Sat, 14 Nov 2026 07:11:46 +0800",
+     "summary": "美国FDA：批准Gazyva（奥妥珠单抗）注射液用于治疗成人原发性膜性肾病。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国FDA：批准Gazyva（奥妥珠单抗）注射液用于治疗成人原发性膜性肾病"
+    },
+    {
+     "title": "特朗普：正与两党合作推进《电影、电视和娱乐振兴法案》 称娱乐产业被其他国家税收优惠“掏空”",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931107875.html",
+     "pubDate": "Sat, 14 Nov 2026 07:11:25 +0800",
+     "summary": "美国总统特朗普：我正在与共和党与民主党人合作，共同推进《电影、电视和娱乐振兴法案》。推动这件事、把娱乐产业带回美国所获得的支持和受欢迎程度令人难以置信！好莱坞以及许多其他地方，几乎被其他国家提供的税收优惠和其他政策“掏空”了。每个人都对电影和电视产业感受强烈，我也是，我们都想拯救它。它是美国制造的，必须留在美国。娱乐产业已大量转移到加拿大、英国、澳大利亚和其他国家，但演员、制片人和其他所有相关方都想回到家乡！重要的是，这项法案的通过将极大地惠及数十万蓝领工人。在这些税收优惠上投入的资金，将以涌入财政部国库的资金十倍收回。目前正在定期与两党领导人安排会议，以推动此事完成！这是一项非常两党共同推进",
+     "source": "东方财富股票",
+     "zh": "特朗普：正与两党合作推进《电影、电视和娱乐振兴法案》 称娱乐产业被其他国家税收优惠“掏空”"
+    },
+    {
+     "title": "巴拉圭将柴油价格下调300巴拉圭镑/升",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931107647.html",
+     "pubDate": "Sat, 14 Nov 2026 07:11:22 +0800",
+     "summary": "巴拉圭将柴油价格下调300巴拉圭镑/升。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "巴拉圭将柴油价格下调300巴拉圭镑/升"
+    },
+    {
      "title": "索罗斯基金Q3大举加码英特尔、Meta，新进SK海力士，减持英伟达",
      "link": "https://wallstreetcn.com/articles/3785924",
      "pubDate": "Sat, 14 Nov 2026 07:07:17 +0800",
@@ -2266,12 +2314,28 @@ window.INDUSTRY_DATA = {
      "zh": "索罗斯基金Q3大举加码英特尔、Meta，新进SK海力士，减持英伟达"
     },
     {
+     "title": "SunPower sinks to 52-week low after delaying 10-Q filing, sees Q3 revenue below guidance",
+     "link": "https://seekingalpha.com/news/4672685-sunpower-sinks-to-52-week-low-after-delaying-10-q-filing-sees-q3-revenue-below-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 18:07:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SunPower sinks to 52-week low after delaying 10-Q filing, sees Q3 revenue below guidance"
+    },
+    {
      "title": "避免流动性支持被视为QE，美联储洛根提议市场功能性购债单独记账、尽快出售",
      "link": "https://wallstreetcn.com/articles/3785920",
      "pubDate": "Sat, 14 Nov 2026 07:06:51 +0800",
      "summary": "美联储官员正推动对央行资产负债表管理框架进行结构性调整，核心诉求是 将市场功能性购债与货币政策操作彻底分离，以消除市场对流动性干预是否变相压制长端收益率的疑虑。 达拉斯联储主席Lorie Logan（洛根）周四在达拉斯联储联合主办的银行融资会议上表示， 美联储应将为维护市场功能而购入的资产单独记账，并承诺尽快出售，以防此类操作在无意间提供额外刺激。 她同时指出，国债收益率的快速攀升本身并不必然意味着市场出现了需要央行介入的失序状态，联储更依赖买卖价差、市场深度和价格冲击等流动性指标作为研判依据。 上述表态折射出美联储内部对危机时期市场干预与量化宽松界限模糊问题的持续关注。 官员们历来依靠沟通来",
      "source": "华尔街见闻",
      "zh": "避免流动性支持被视为QE，美联储洛根提议市场功能性购债单独记账、尽快出售"
+    },
+    {
+     "title": "SpaceX Flight 15 booster diverts to splashdown, missing planned double catch",
+     "link": "https://seekingalpha.com/news/4672724-spacex-flight-15-booster-diverts-to-splashdown-missing-planned-double-catch?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 18:06:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SpaceX Flight 15 booster diverts to splashdown, missing planned double catch"
     },
     {
      "title": "AI应用商业化提速 游戏产业投资机遇凸显",
@@ -2296,30 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "“做硬科技没有捷径，既需要企业耐住寂寞深耕工艺，也需要资本放下短期逐利思维，做长期‘陪跑人’。”济南晶正 电子 科技有限公司创始人、总裁胡文日前在接受中国证券报记者专访时表示。 谈起那一片薄至几百纳米的铌酸 锂 单晶薄膜，胡文语速平缓，眼底藏着十六年闯关的滚烫故事。从9人初创团队，到如今服务全球300余家科研与产业客户的薄膜铌酸 锂 头部企业，在济南科创金融体系的陪伴下，这家扎根泉城的硬科技企业，啃下了光电领域的关键材料这块硬骨头。 深耕光学硅赛道 “做硬科技，注定要经历一段漫长煎熬的时光。”作为济南市首批引进的高层次人才，他从加拿大归国，对比多地之后，最终落脚济南——山东大学晶体材料研究所雄",
      "source": "东方财富股票",
      "zh": "晶正电子总裁胡文：十六年磨一剑 啃下“光学硅”硬骨头"
-    },
-    {
-     "title": "多家券商披露招聘计划 财富管理、投研及金融科技成补员重点",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931105318.html",
-     "pubDate": "Sat, 14 Nov 2026 07:03:22 +0800",
-     "summary": "近一个月，多家券商陆续披露校园招聘和社会招聘计划。 国元证券 拟招聘约100名财富管理管 培生 ， 西南证券 和 中银证券 均招聘 电子 、 通信 方向研究人员， 广发证券 则拟招聘20名金融科技人员。 分析人士认为，买方投顾试点将客户留存率等指标纳入考核，对投资顾问持续服务客户的能力提出了更高要求。研究条线在补充行业研究人员的同时，也在充实服务机构客户的销售队伍。部分券商还将运用 人工智能 工具处理数据列入研究员职责，技术应用能力正成为部分业务岗位的招聘条件。 买方投顾试点将客户留存纳入考核 从近一个月披露的招聘计划看，投顾是多家券商集中补员的方向。 国元证券 拟面向2027届毕业生招聘约1",
-     "source": "东方财富股票",
-     "zh": "多家券商披露招聘计划 财富管理、投研及金融科技成补员重点"
-    },
-    {
-     "title": "中信建投于海宁：科技股定价回归基本面 看好AI长期成长空间",
-     "link": "http://finance.eastmoney.com/news/1360,202611143931105790.html",
-     "pubDate": "Sat, 14 Nov 2026 07:03:18 +0800",
-     "summary": "股价回落，产业预期却仍在上修，科技股一度走出了两条方向不同的曲线。如何理解这道“剪刀差”，也成为观察本轮行情变化的一个切口。 日前， 中信建投 证券科技研究组负责人于海宁在接受中国证券报记者专访时表示，资本市场会提前交易未来增长的担忧，产业发展则有自身的节奏。外部不确定性逐步落地后，科技股定价仍将回到订单、需求和盈利预期。他认为，AI产业革命远未走完，经过阶段性调整，市场对产业的认识出现分化，但长期成长空间依然值得看好。 不确定性落地定价重心回到产业 美国中期选举是近期影响科技股走势的重要因素，市场关注的一个问题是，美国 数据中心 项目的审批和建设节奏会不会发生变化。选举带来的政策预期变化，牵",
-     "source": "东方财富股票",
-     "zh": "中信建投于海宁：科技股定价回归基本面 看好AI长期成长空间"
-    },
-    {
-     "title": "一线调研培育钻石产业：毛坯价格上涨与终端饰品打折并行",
-     "link": "http://finance.eastmoney.com/news/1348,202611143931105864.html",
-     "pubDate": "Sat, 14 Nov 2026 07:02:59 +0800",
-     "summary": "● 本报记者董添 近期，国际金价出现较为明显的回调， 黄金 珠宝零售市场迎来促销窗口，多家主流 黄金 品牌加大优惠力度，推出克减、满减、折扣等多种活动，优惠力度较平日明显放大。记者调研发现，随着金价回落，钻石 饰品 折扣力度较大，一些品牌钻石类产品5折起步，其中既包括天然钻石也包括 培育钻石 。 与此同时， 培育钻石 毛坯出现涨价苗头。记者多方采访了解到，目前 培育钻石 毛坯售价并不透明，对于首饰端来说，切割费、加工费、镶嵌费占比较大，毛坯原材料涨价对终端影响有限。 钻石类产品折扣力度大 记者走访了解到，目前，主流珠宝品牌一般还是采用天然钻石，培育钻石一般会专门成立自有品牌。 记者走访线下看到",
-     "source": "东方财富股票",
-     "zh": "一线调研培育钻石产业：毛坯价格上涨与终端饰品打折并行"
     },
     {
      "title": "US aviation regulator grounds all departing flights",
@@ -2362,20 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "4 expert tips for signing up for Medicare"
     },
     {
-     "title": "FAA declares rare nationwide ground stop on flights, with nearly 10,000 canceled so far",
+     "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 22:44:00 GMT",
      "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack.",
      "source": "MarketWatch",
-     "zh": "FAA declares rare nationwide ground stop on flights, with nearly 10,000 canceled so far"
-    },
-    {
-     "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
-     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-     "pubDate": "Fri, 13 Nov 2026 22:41:04 GMT",
-     "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
-     "source": "CNBC",
-     "zh": "FAA grounds departing flights nationwide, citing air traffic communication system outage"
+     "zh": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far"
     },
     {
      "title": "Core Critical Metals launches $500K flow-through private placement",
@@ -2392,22 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Grupo Supervielle Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "Insight Molecular Diagnostics Inc. Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4672506-insight-molecular-diagnostics-inc-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 17:35:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Insight Molecular Diagnostics Inc. Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "Soluna Holdings Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4672501-soluna-holdings-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 17:35:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Soluna Holdings Q3 2026 Earnings Preview"
     },
     {
      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -2472,22 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国财政部长与芝加哥联储主席就当前通胀根源公开交锋，折射出华盛顿与美联储之间日益加深的政策分歧，并为美联储12月议息会议蒙上更多不确定性。 美财政部长Scott Bessent（贝森特） 周五接受CNBC采访时呼吁美联储不应因伊朗战争引发的\"能源供应冲击\"而激进加息。 芝加哥联储主席Austan Goolsbee（古尔斯比） 随即在同一节目中予以回应，指出通胀已蔓延至服务业、医疗等与油价关联度低的领域，并受到AI数据中心建设带动的强劲需求推升，远非能源价格上涨所能解释。 Goolsbee明确表示，美联储\"还有大量工作要做\"以重建政策公信力。 近期强于预期的就业与通胀数据进一步强化了美联储继续加",
      "source": "华尔街见闻",
      "zh": "贝森特与美联储高官交锋：通胀源于能源冲击还是需求过热，美联储加息路径争论升温"
-    },
-    {
-     "title": "英伟达物色新CEO，接触Arm CEO Rene Haas，其曾是黄仁勋门生",
-     "link": "https://wallstreetcn.com/articles/3785915",
-     "pubDate": "Sat, 14 Nov 2026 05:54:26 +0800",
-     "summary": "英伟达董事会在创始人黄仁勋因婚外情丑闻辞职后，启动了一场关乎这家4万亿美元市值AI芯片巨头命运的接班人搜寻。 11月13日，据英国《金融时报》报道， 英伟达董事会已就继任事宜接触Arm Holdings首席执行官Rene Haas。 （Arm首席执行官Rene Haas，图源：Arm官网） 这一消息提振了市场情绪，Arm美股盘中跌幅有所收窄，但仍下跌4.8%；英伟达股价同日下跌逾2%。 英伟达董事会在声明中表示，正\"遴选猎头公司\"，尚未\"正式接触\"任何候选人，并称一切有关候选人的猜测\"为时尚早\"。 黄仁勋于周四宣布辞职，结束了长达33年的执掌生涯。其离任导火索是外界披露他曾与至少一名下属以及一",
-     "source": "华尔街见闻",
-     "zh": "英伟达物色新CEO，接触Arm CEO Rene Haas，其曾是黄仁勋门生"
-    },
-    {
-     "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 21:32:00 GMT",
-     "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-     "source": "MarketWatch",
-     "zh": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?"
     },
     {
      "title": "突发：美国联邦航空管理局下令所有航班暂停起飞",

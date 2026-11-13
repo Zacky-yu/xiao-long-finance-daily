@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/13 18:12:15",
+ "generated_at": "2026/11/13 18:32:01",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Nio signs phase 2 Clean Parks deal with UNDP to expand low-carbon conservation efforts",
+     "link": "https://cnevpost.com/2026/11/13/nio-phase-2-clean-parks-deal-undp/",
+     "pubDate": "Fri, 13 Nov 2026 10:29:14 +0000",
+     "summary": "The two parties will expand Clean Parks to more protected areas in the second phase. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Nio signs phase 2 Clean Parks deal with UNDP to expand low-carbon conservation efforts"
+    },
+    {
      "title": "A Record Number Of Uber Miles Are Happening In EVs",
      "link": "https://insideevs.com/news/815368/uber-evs-record-miles-global-q3-2026/",
      "pubDate": "Fri, 13 Nov 2026 09:50:50 +0000",
@@ -696,14 +704,6 @@ window.INDUSTRY_DATA = {
      "summary": "The 6-seat electric SUV went on sale on September 16, priced at 369,800 yuan ($55,070) in China. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Li Auto's 6-seat electric flagship i9 tops 10,000 deliveries less than 2 months after launch"
-    },
-    {
-     "title": "BYD opens pre-sales for third-gen Tang, expanding 5-seat electric SUV lineup",
-     "link": "https://cnevpost.com/2026/11/13/byd-opens-pre-sales-3rd-gen-tang/",
-     "pubDate": "Fri, 13 Nov 2026 01:29:24 +0000",
-     "summary": "The SUV starts at a pre-sales price of 225,000 yuan ($33,510) and offers a CLTC range of up to 850 km. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD opens pre-sales for third-gen Tang, expanding 5-seat electric SUV lineup"
     },
     {
      "title": "sonnen’s new smart breakers help your home battery last longer",
@@ -849,6 +849,22 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South Africa",
+     "link": "https://www.pv-tech.org/ja-supply-n-type-modules-teracos-120mw-sediba-solar-project-south-africa/",
+     "pubDate": "Fri, 13 Nov 2026 10:26:53 +0000",
+     "summary": "Teraco has selected JA to deliver n-type solar PV modules to its 120MW Sediba solar PV project in Parys, Free State province, South Africa.",
+     "source": "PV Tech",
+     "zh": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South Africa"
+    },
+    {
+     "title": "India Seeks Private Investors for $910 Million Oil Reserve",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Seeks-Private-Investors-for-910-Million-Oil-Reserve.html",
+     "pubDate": "Fri, 13 Nov 2026 04:15:00 -0600",
+     "summary": "India is looking for private investors to build and operate the nation’s largest strategic petroleum reserve site, which will boost India’s SPR capacity by 80% and cost an estimated $910 million, local media reported on Friday, citing tender documents. The proposed SPR site will be located at Chandi",
+     "source": "OilPrice",
+     "zh": "India Seeks Private Investors for $910 Million Oil Reserve"
+    },
     {
      "title": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
      "link": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
@@ -1026,14 +1042,6 @@ window.INDUSTRY_DATA = {
      "zh": "Four of Seven Dutch Green Hydrogen Projects Have Been Cancelled. The Subsidies Keep Coming."
     },
     {
-     "title": "More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks",
-     "link": "https://oilprice.com/Energy/Crude-Oil/More-Drilling-Wont-Shield-US-Consumers-From-Oil-Price-Shocks.html",
-     "pubDate": "Thu, 12 Nov 2026 16:00:00 -0600",
-     "summary": "Another month, another distressing Consumer Price Index report. As the war in Iran drags on, inflation in the United States is remaining stubbornly high, driven in large part by sky-high food and energy costs. Overall, prices rose four-tenths of a percent over the last month, and are expected to fin",
-     "source": "OilPrice",
-     "zh": "More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks"
-    },
-    {
      "title": "Ohio GOP circulates bill that would stymie coal plant closures",
      "link": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 -0500",
@@ -1053,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
      "link": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
      "pubDate": "Thu, 12 Nov 2026 13:25:33 -0500",
-     "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base that is expected to supply almost a quarter of 2027 consumption, EIA said.",
+     "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base expected to supply almost a quarter of 2027 consumption, EIA said.",
      "source": "Utility Dive",
      "zh": "As coal burn declines, rising power demand will be primarily met by renewables: EIA"
     },
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Terra-Gen completes PV park in California, Duke Energy Florida plans four new solar arrays, and Altus Power acquires another 92 projects.",
      "source": "PV Tech",
      "zh": "US ROUND-UP: Duke Energy Florida, Terra-Gen in California and Altus Power continues acquisition strategy"
-    },
-    {
-     "title": "Around 400 onshore wind projects await DOD action, official tells court",
-     "link": "https://www.utilitydive.com/news/around-400-onshore-wind-projects-await-dod-action-official-says-in-court/874521/",
-     "pubDate": "Thu, 12 Nov 2026 10:48:08 -0500",
-     "summary": "Assistant Secretary of Defense&nbsp;Dale Marks told a federal court that the Pentagon doesn&rsquo;t have enough staff to review permits. A coalition suing DOD says the process ground &ldquo;to a halt&rdquo; after Marks was confirmed.",
-     "source": "Utility Dive",
-     "zh": "Around 400 onshore wind projects await DOD action, official tells court"
     },
     {
      "title": "Diversified portfolios, rather than hybrid projects, offer promise for European renewables traders – Pexapark",
@@ -1141,7 +1141,7 @@ window.INDUSTRY_DATA = {
      "title": "Windward prices $175M IPO to advance China-licensed lung drugs",
      "link": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
      "pubDate": "Thu, 12 Nov 2026 20:22:00 -0500",
-     "summary": "The Swiss biotech, which pocketed another $50 million through a concurrent private share sale to Sanofi, is developing a potential competitor to the blockbuster asthma treatment Tezspire.",
+     "summary": "The Swiss biotech has two prospects it sees as having the potential to outcompete AstraZeneca and Amgen's blockbuster asthma treatment Tezspire.",
      "source": "BioPharma Dive",
      "zh": "Windward prices $175M IPO to advance China-licensed lung drugs"
     },
@@ -1762,20 +1762,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Claude Is Down",
+     "link": "https://status.claude.com/history",
+     "pubDate": "Fri, 13 Nov 2026 10:20:09 +0000",
+     "summary": "Article URL: https://status.claude.com/history Comments URL: https://news.ycombinator.com/item?id=50481220 Points: 9 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Claude Is Down"
+    },
+    {
+     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+     "link": "https://status.claude.com/incidents/nn11wk485zfn",
+     "pubDate": "Fri, 13 Nov 2026 10:18:13 +0000",
+     "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 40 # Comments: 24",
+     "source": "Hacker News",
+     "zh": "Elevated errors on claude.ai, Claude Code, and platform.claude.com"
+    },
+    {
+     "title": "为什么全世界都在为数据中心吵架？",
+     "link": "https://www.huxiu.com/article/4905442.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 18:17:38 +0800",
+     "summary": "本文来自微信公众号： 电厂 ，编辑：高宇雷，作者：翟芳雪，原文标题：《为什么全世界都在为数据中心吵架？ | 电厂》 11月6日，阿姆斯特丹西港，一群抗议者手挽着手走向一座数据中心的工地。有人翻过围栏，爬上起重机，把气球系在设备上。路透社报道，当天有超过100人聚集在工地。这座装机容量78兆瓦的园区已经有了唯一的租户微软。 同一周末，爱尔兰都柏林和西班牙萨拉戈萨也举行了抗议。抗议组织方公开称，计划中的行动覆盖16个国家。 在欧洲抗议集中爆发的三天前，美国中期选举同样因数据中心的建设产生风暴。11月3日，美国有41项涉及数据中心的地方议题交由选民表决，其中40项的结果倾向消极的限制开发。主张暂停数",
+     "source": "虎嗅",
+     "zh": "为什么全世界都在为数据中心吵架？"
+    },
+    {
+     "title": "硅谷进入华裔女的全盛时代了？",
+     "link": "https://www.huxiu.com/article/4905441.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 18:16:12 +0800",
+     "summary": "本文来自微信公众号： 雷叔说事 ，作者：小林 最近有个段子叫：“硅谷进入华裔女的全盛时代了。” 说的是大佬们不是跟华裔女结婚，就是跟她们出轨。 她们尽管可能不懂技术，还不够绝美，但就是能在竞争中胜出。 这个梗其实也在讽刺华裔女生有心机。 有心机也就算了，甚至还可能给大佬造成严重心理创伤。 A社的创始人达里奥也曾眉清目秀，2012年520这天，他跟一位女生合影。那是他上海出生，芝加哥长大的美国女友。 知乎网友想吐槽达里奥很久了，遇到黄仁勋出轨的事，他们就顺手写了段子： “一个在百度工作过，谈过华裔女孩，高中时可能被华裔男生霸凌，后来被摘了睾丸的家伙，对人类做出什么样的行为都不奇怪。” （此为网友",
+     "source": "虎嗅",
+     "zh": "硅谷进入华裔女的全盛时代了？"
+    },
+    {
+     "title": "14亿人等待的“降脂药”宣告失败，投了上亿美元",
+     "link": "https://www.huxiu.com/article/4905440.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 18:15:38 +0800",
+     "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：科学·专业·善良 等待近7年后，一款能将不良血脂指标降低80%的在研药物，却没能给患者带来任何健康获益。 失败的原因是什么？Lp(a）这一靶点是否还有希望？ 一款累计投入上亿美元、可以将不良血脂指标降低80%的药物，却没能转化为患者健康的任何获益。在11月7日举办的美国心脏协会科学年会上，研究人员公布了可能是近年来最让人失望的临床试验结果。 在III期临床试验中，制药巨头诺华旗下治疗“脂蛋白(a)[Lp(a)]”升高的药物——pelacarsen全面失败。 相关统计数据显示，全球约14亿人存在Lp(a)升高，主要是由遗传因素导致，目前没有针对性",
+     "source": "虎嗅",
+     "zh": "14亿人等待的“降脂药”宣告失败，投了上亿美元"
+    },
+    {
+     "title": "英伟达蒸发1万亿，黄仁勋辞职，但AI世界还要面对五重冲击",
+     "link": "https://www.huxiu.com/article/4905422.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 18:15:09 +0800",
+     "summary": "11月12日英伟达一度跌10%，市值奔着跌破4万亿美元，你还当道德瓜吃？",
+     "source": "虎嗅",
+     "zh": "英伟达蒸发1万亿，黄仁勋辞职，但AI世界还要面对五重冲击"
+    },
+    {
+     "title": "朱鹤谈中国后房地产时代：新经济想要接棒房地产，还有多久",
+     "link": "https://www.huxiu.com/article/4905438.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 18:12:00 +0800",
+     "summary": "本文来自微信公众号： 和讯 ，作者：高歌 房地产究竟见底了吗？新经济能不能接得住？宏观政策下一步往哪里走？围绕这三个问题，和讯与中国金融四十人论坛（CF40）高级研究员朱鹤展开交流。 他的核心判断是，2026年起中国经济正式进入“后房地产时代”。这并非一个新周期，而是一套新的观察框架：以房地产和信用为主导的旧循环已经结束，新循环想要追上其规模，还需要三到五年的时间。 房地产已经结构性企稳，但未来不再是一个同步调的全国性市场，而是正收缩为三十到五十个核心城市的市场；财政仍面临严格的纪律约束，财政年内支出节奏或成为造成短期波动的主线；新经济已在规模上追平并超过房地产，但拉动来自投资和出口，消费对新",
+     "source": "虎嗅",
+     "zh": "朱鹤谈中国后房地产时代：新经济想要接棒房地产，还有多久"
+    },
+    {
+     "title": "国家队4.38万亿持仓，谁在守、谁在调？",
+     "link": "https://www.huxiu.com/article/4905437.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 18:11:41 +0800",
+     "summary": "本文来自微信公众号： 和讯 ，作者：和讯财经研究 进入11月，资本市场稳市政策接连加码。 11月12日，中国证监会相关负责人在2026年上交所国际投资者大会上表示，证监会将完善稳市机制，增强股市内在稳定性，会同相关部门协同发力，打好稳市场、稳预期政策组合拳，全力维护市场平稳运行。 此前一天，央行三季度货币政策执行报告提出，加力实施两项资本市场工具，用好债市非银大额赎回互换便利，维护股债汇市场平稳运行。此前，股票回购增持再贷款转为长期制度性安排，利率降至1%，新一批互换便利操作加快落地；金融工作报告和国务院常务会议则进一步强调发挥中央汇金类平准基金作用、拓宽中长期资金入市渠道、增强股市内在稳定性",
+     "source": "虎嗅",
+     "zh": "国家队4.38万亿持仓，谁在守、谁在调？"
+    },
+    {
      "title": "福特汽车：有不法分子向部分车主发送产品召回虚假短信，请广大车主提高警惕",
      "link": "https://www.ithome.com/1/026/888.htm",
      "pubDate": "Fri, 13 Nov 2026 10:04:15 GMT",
      "summary": "IT之家 11 月 13 日消息，福特汽车官方今日发文，近日，福特汽车（中国）有限公司及其关联方连续收到多例举报和咨询， 发现有不法分子冒用福特汽车品牌和 / 或相关监管部门的名义，向部分车主发送有关产品召回的虚假短信，并通过非官方链接诱导车主提供个人信息、办理所谓召回手续及实施其他不法行为 。用户一旦点击，可能造成个人信息泄露甚至陷入诈骗陷阱，产生财产损失。 福特汽车官方声明称：上述短信及所附文件均非由福特汽车官方发布，相关印章和召回信息均系伪造。 请广大车主提高警惕，切勿点击可疑链接、回复相关信息或向不明来源提供个人及车辆信息 ，谨防上当受骗造成财产损失。如任何人确认遭遇诈骗，应尽快向公安",
      "source": "IT之家",
      "zh": "福特汽车：有不法分子向部分车主发送产品召回虚假短信，请广大车主提高警惕"
-    },
-    {
-     "title": "上海公布基因编辑事件调查结果：533万元与一条生命",
-     "link": "https://www.huxiu.com/article/4905432.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 18:02:58 +0800",
-     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 11月13日，上海公布“交大医学院基因编辑研究事件”调查结果。 一名患有罕见病的儿童，接受基因编辑治疗7天后死亡。为这次治疗背后的研究，患儿家属出资533.7万元。 钱花在哪里，通报交代得很清楚：345.8万元用于病毒载体制备，137.9万元用于大动物毒理研究，另外50万元捐赠给一家教育发展基金会。 然而，最应该发挥作用的动物实验安全性报告，却没能及时传递到临床研究负责人手中。 更糟糕的是，医院伦理委员会明知前期安全性证据不足，要求补充资料，却在材料没有补齐的情况下批准了研究。 最终，两名核心科研人员被开除，多名医院管理人员受到处分，相关医疗",
-     "source": "虎嗅",
-     "zh": "上海公布基因编辑事件调查结果：533万元与一条生命"
     },
     {
      "title": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
@@ -1866,28 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "郑州日产 NV200 PHEV 亮相，前脸造型调整"
     },
     {
-     "title": "拿玛瑙换冰雹？这件看似会让人“破产”的事，我们坚持了10年",
-     "link": "https://www.huxiu.com/article/4905428.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 17:50:58 +0800",
-     "summary": "本文来自微信公众号： 格致论道讲坛 ，作者：张庆红，原文标题：《拿玛瑙换冰雹？这件看似会让人“破产”的事，我们坚持了10年 | 张庆红》 未来的人会说， 从公元2016年开始， 有一群人在收集冰雹。 张庆红·北京大学物理学院 格致论道第132期|2026年9月10日上海 大家好，欢迎来到格致论道讲坛，我是张庆红。今天我跟大家分享一个非常小众的极端灾害天气现象。 大概在10年前，我开始研究冰雹。原来我是研究台风的，从台风转到冰雹的时候，我当时就在想，可能我未来的职业生涯，就是在岁月静好中安安静静地享受自己的科研。但是我没有想到，在2025年5月13日的那天晚上，我成了众多媒体关注的对象。原因是什",
-     "source": "虎嗅",
-     "zh": "拿玛瑙换冰雹？这件看似会让人“破产”的事，我们坚持了10年"
-    },
-    {
      "title": "英国在数据中心上对自由放任说不，避免重演美国式争议",
      "link": "https://www.ithome.com/1/026/875.htm",
      "pubDate": "Fri, 13 Nov 2026 09:41:14 GMT",
      "summary": "IT之家 11 月 13 日消息，据彭博社当地时间 11 日报道，英国财政大臣 John Healey 在同日进行的财政部特别委员会上表示， 该国在数据中心监管上不会采用美国式的自由放任策略 ，“不想看到美国的数据中心辩论在英国重演”。 整体上来看，美国对数据中心项目的监管相对粗放，这与容量不足的水电基础设施一道造成了一系列问题，引发公众和政界的强烈反对，已开始反过来阻碍对 AI 的投资。 图源：Pexels John Healey“准备对那些不能带来社区利益的数据中心说不”。他同时强调了主权 AI 基础设施对该国韧性与独立性的重要性。英国计划到 2030 年实现 6GW 的算力容量，这一水平",
      "source": "IT之家",
      "zh": "英国在数据中心上对自由放任说不，避免重演美国式争议"
-    },
-    {
-     "title": "瑞幸越来越不像一家咖啡公司了",
-     "link": "https://www.huxiu.com/article/4905425.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 17:38:05 +0800",
-     "summary": "本文来自微信公众号： 品牌棱镜BrandPrism ，作者：赵凯琦，编辑：田甜 一个咖啡品牌的菜单里，究竟应该有多少杯咖啡？ 瑞幸正在给出一个颇为反直觉的答案：占比越少越好。 2026年以来，瑞幸的点单页面变得愈发热闹。轻乳茶、果茶、冰奶、果蔬茶、酸奶饮品，以及最近加入的珍珠奶茶、木薯桃胶炖奶，正在陆续挤进原本属于美式、拿铁和澳白的地盘。 更反直觉的是，频繁上新的瑞幸，其非咖业务却没有多少品类上的新故事。 轻乳茶、果蔬茶早已被霸王茶姬、喜茶等品牌验证过；珍珠奶茶和木薯桃胶炖奶更是流行了几十年的老生意，从街边糖水铺到全国连锁品牌，珍珠和木薯不知道在多少杯奶茶、糖水里沉浮过。 在咖啡店开始卖奶茶、",
-     "source": "虎嗅",
-     "zh": "瑞幸越来越不像一家咖啡公司了"
     },
     {
      "title": "AI server maker xFusion gets approval from the Shenzhen Stock Exchange for a ChiNext IPO; filing: the company aims to raise ~$1.2B by issuing up to 220M shares (Sangmi Cha/Bloomberg)",
@@ -1898,34 +1938,10 @@ window.INDUSTRY_DATA = {
      "zh": "AI server maker xFusion gets approval from the Shenzhen Stock Exchange for a ChiNext IPO; filing: the company aims to raise ~$1.2B by issuing up to 220M shares (Sangmi Cha/Bloomberg)"
     },
     {
-     "title": "10月金融数据出炉",
-     "link": "https://www.huxiu.com/article/4905424.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 17:31:17 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：李婷 中国人民银行今日公布10月金融数据。数据显示，初步统计，2026年10月末社会融资规模存量为469.16万亿元，同比增长7.2%。2026年前10月社会融资规模增量累计为28.61万亿元，比上年同期少2.29万亿元。 10月末，广义货币（M2）余额359.06万亿元，同比增长7.1%。狭义货币（M1）余额116.9万亿元，同比增长4.4%。流通中货币（M0）余额15万亿元，同比增长10.7%。前10个月净投放现金9023亿元。 存款方面，10月末，人民币存款余额350.65万亿元，同比增长7.7%。前10月人民币存款增加21.97万亿元。贷款方面，1",
-     "source": "虎嗅",
-     "zh": "10月金融数据出炉"
-    },
-    {
-     "title": "不乱花钱，是成年人最真的体面",
-     "link": "https://www.huxiu.com/article/4905423.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 17:19:20 +0800",
-     "summary": "本文来自微信公众号： Vogue Business ，作者：Jodie Zhou，编辑：YilingPan 2026年双十一，李佳琦直播间的维达棉韧卷纸多了一个新选项。 同样的卷纸，去年消费者要么花81.1元买54卷，要么花117.3元买81卷。今年多了一个更小规格的选项：消费者还可以花45.9元，只买27卷。新组合的单卷价格比两个大包装都高，却把这笔订单的最低付款金额降了下来。 同一个购物节里，一些消费者又在想办法把订单做大。10月30日，上海迪士尼乐园的一轮双十一年卡优惠限时开卖。因为几张卡凑成一单更划算，社交平台上出现了大量找人拼单和比较不同买法的帖子。 买纸巾时已经不愿囤货，买年卡时却",
-     "source": "虎嗅",
-     "zh": "不乱花钱，是成年人最真的体面"
-    },
-    {
-     "title": "和平饭店｜51万小票，抓了15人",
-     "link": "https://www.huxiu.com/article/4905417.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 17:16:25 +0800",
-     "summary": "本文来自微信公众号： 公关人 ，作者：老杨，原文标题：《和平饭店｜51万小票，抓了15人》 一张假小票，把外滩那家老饭店挂了五天。最后出来还它清白的，不是它自己。 11月8日，一张上海和平饭店的消费小票在社交平台传开：6个人，9道菜，3样酒水，51.7万余元。 五天后，警方通报，账单是AI改的，15人被抓。这五天里，被点名的那家饭店，公开说出口的只有一句“不真实”。 1、那张小票，破绽写在明面上 那张票到底写了什么，值得先摊开看。网传小票的票面显示，6人用餐，9道菜小计9272元，3样酒水小计460844元，其中两瓶标注1997年罗曼尼-康帝的酒单价23万，再加服务费47011.60元，合计5",
-     "source": "虎嗅",
-     "zh": "和平饭店｜51万小票，抓了15人"
-    },
-    {
      "title": "The Dawn of the Data Intelligence Engineer",
      "link": "https://motherduck.com/blog/the-data-intelligence-engineer/",
      "pubDate": "Fri, 13 Nov 2026 09:08:18 +0000",
-     "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 11 # Comments: 10",
+     "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 22 # Comments: 22",
      "source": "Hacker News",
      "zh": "The Dawn of the Data Intelligence Engineer"
     },
@@ -1957,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "TSMC Hacked",
      "link": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
      "pubDate": "Fri, 13 Nov 2026 07:39:55 +0000",
-     "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm Comments URL: https://news.ycombinator.com/item?id=50479721 Points: 31 # Comments: 5",
+     "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm Comments URL: https://news.ycombinator.com/item?id=50479721 Points: 47 # Comments: 6",
      "source": "Hacker News",
      "zh": "TSMC Hacked"
     },
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "拉各斯海外仓这批货压了快两个月：本地支付网关结算T+7到T+14，但实际到账经常拖到30-45天，叠加清关和尾程派送，一笔货款从出库到回款接近60天。我们做3C配件，团队8人，刚起量阶段，月备货预算大概15万人民币，用的是Paystack收款加本地第三方仓。现在的问题是备货周转率算下来只有2.1次/年，但账期占用的现金流已经吃掉毛利的三成。试过缩短备货周期到30天、也试过让客户预付一部分，但转化率掉了12%。卡在不知道该怎么在回款不确定的情况下定安全库存和补货节奏。这种情况下备货周转的安全阈值到底按回款天数还是按动销天数来定？",
      "source": "白鲸出海",
      "zh": "尼日利亚海外仓备货，回款周期拖到45天，周转怎么算才不亏？"
-    },
-    {
-     "title": "肯尼亚 M-Pesa 收款对接后回款要 3 天，是正常还是我们被卡了？",
-     "link": "https://www.baijing.cn/question/638710",
-     "pubDate": "Fri, 13 Nov 2026 07:10:10 +0000",
-     "summary": "做东非跨境电商，主发肯尼亚，团队 6 人，月 GMV 约 4 万美元，刚起量阶段。M-Pesa 收款通过 Daraja API 对接了 STK Push，用户付款成功率只有 62%，失败集中在 Safaricom 侧超时；更头疼的是钱先进了本地聚合商账户，结算到我们香港公司要 T+3 到 T+5，而物流端内罗毕尾程妥投平均 5 天，等于回款周期比履约还慢。已经试过换两家本地支付服务商、把 STK Push 超时重试从 1 次加到 3 次，成功率只涨了 5 个点。现在卡在不知道是 Daraja 的 shortcode 权限问题，还是聚合商清算环节压款。想直接问：肯尼亚 M-Pesa 商户号直连和",
-     "source": "白鲸出海",
-     "zh": "肯尼亚 M-Pesa 收款对接后回款要 3 天，是正常还是我们被卡了？"
-    },
-    {
-     "title": "澳新客户看到英文帮助中心里的美式表达，续费率掉了 8 个点，本地化素材该怎么改？",
-     "link": "https://www.baijing.cn/question/638709",
-     "pubDate": "Fri, 13 Nov 2026 06:56:50 +0000",
-     "summary": "我们做的是面向中小团队的在线协作 SaaS，澳新是除国内外的第二大市场，目前月活里澳新用户约占 18%，团队 12 人，客服只有 2 个人轮班。产品本身支持多语言，但帮助中心和 onboarding 素材一直是英文直译，里面还留着不少美式说法和美元计价的示例。上个月复盘发现，澳新试用转付费的转化比英国区低约 6 个百分点，续费率环比掉了 8 个点，工单里频繁出现用户问“这个价格是 USD 还是 AUD”“support 时间能不能对上澳洲时区”。我们已经把帮助中心机器翻译成了 en-AU，也加了时区说明，但素材里的案例、截图和语气还是偏美式，用户反馈说看着不像给本地人做的。现在卡在预算有限、没",
-     "source": "白鲸出海",
-     "zh": "澳新客户看到英文帮助中心里的美式表达，续费率掉了 8 个点，本地化素材该怎么改？"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola Signature 27 could have a downgraded 5,500mAh battery in some markets",
+     "link": "https://www.androidauthority.com/motorola-signature-27-battery-downgrade-3734887/",
+     "pubDate": "Fri, 13 Nov 2026 10:19:14 +0000",
+     "summary": "It looks like Motorola's flagship phone won't have a 7,000mAh battery everywhere.",
+     "source": "Android Authority",
+     "zh": "Motorola Signature 27 could have a downgraded 5,500mAh battery in some markets"
+    },
     {
      "title": "6 reasons I’d still buy the Galaxy S26 Ultra instead of the Motorola Signature 27",
      "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-motorola-signature-27-3732992/",
@@ -2072,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "The electric automaker has apologized and said it will fix the issue for affected vehicles.",
      "source": "Engadget",
      "zh": "BYD admits wheel assembly error on its flagship electric SUV"
-    },
-    {
-     "title": "Color OS wins over more OnePlus fans than expected in our latest poll",
-     "link": "https://www.androidauthority.com/oneplus-oxygenos-vs-coloros-poll-results-3734814/",
-     "pubDate": "Fri, 13 Nov 2026 08:10:07 +0000",
-     "summary": "OxygenOS is dead, yet the backlash to its replacement isn't nearly as bad as we expected.",
-     "source": "Android Authority",
-     "zh": "Color OS wins over more OnePlus fans than expected in our latest poll"
     },
     {
      "title": "Samsung Galaxy A18 5G gets Bluetooth certified",
@@ -2258,6 +2258,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nam Tai Property reports Q3 results",
+     "link": "https://seekingalpha.com/news/4672223-nam-tai-property-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 05:24:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nam Tai Property reports Q3 results"
+    },
+    {
+     "title": "AI’s big buildout has yet to deliver a productivity boom",
+     "link": "https://seekingalpha.com/news/4672224-ais-big-buildout-has-yet-to-deliver-a-productivity-boom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 05:20:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AI’s big buildout has yet to deliver a productivity boom"
+    },
+    {
+     "title": "Eurozone Q3 GDP expands 0.4%; annual growth rises to 1.3%",
+     "link": "https://seekingalpha.com/news/4672225-eurozone-q3-gdp-expands-04-annual-growth-rises-to-13?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 05:17:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Eurozone Q3 GDP expands 0.4%; annual growth rises to 1.3%"
+    },
+    {
+     "title": "‘She has a history of financial mismanagement’: My brother cut my sister out of his will. I’m getting everything. Do I tell her?",
+     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 10:15:00 GMT",
+     "summary": "“I’m torn between respecting my brother’s wishes, being fair to my sister, and preserving a relationship that means a great deal to me.”",
+     "source": "MarketWatch",
+     "zh": "‘She has a history of financial mismanagement’: My brother cut my sister out of his will. I’m getting everything. Do I tell her?"
+    },
+    {
+     "title": "Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends.",
+     "link": "https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 10:14:00 GMT",
+     "summary": "Earnings growth is almost halving across major indices in 2027 but stocks have already discounted much of that deceleration. Goldman recommends investors focus closely on those companies still delivering strong growth – as strong growth becomes a scarce commodity.",
+     "source": "MarketWatch",
+     "zh": "Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends."
+    },
+    {
+     "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+     "pubDate": "Fri, 13 Nov 2026 10:10:11 GMT",
+     "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+     "source": "CNBC",
+     "zh": "Widespread Microsoft outage takes down Outlook and other 365 services"
+    },
+    {
+     "title": "Interactive Brokers gives European clients access to Anthropic IPO",
+     "link": "https://seekingalpha.com/news/4672222-interactive-brokers-gives-european-clients-access-to-anthropic-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 05:08:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Interactive Brokers gives European clients access to Anthropic IPO"
+    },
+    {
      "title": "Goldman sees two more Fed hikes, then cuts, as 2027 growth edges up",
      "link": "https://seekingalpha.com/news/4672217-goldman-sees-two-more-fed-hikes-then-cuts-as-2027-growth-edges-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 13 Nov 2026 05:04:07 -0500",
@@ -2274,22 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "China Gold International Resources reports Q3 results"
     },
     {
-     "title": "VitalHub reports Q3 results",
-     "link": "https://seekingalpha.com/news/4672220-vitalhub-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 05:01:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "VitalHub reports Q3 results"
-    },
-    {
-     "title": "Biggest stock movers Friday: CBRS, FLO, and more",
-     "link": "https://seekingalpha.com/news/4672196-biggest-stock-movers-friday-cbrs-flo-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 05:01:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Biggest stock movers Friday: CBRS, FLO, and more"
-    },
-    {
      "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
      "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
      "pubDate": "Fri, 13 Nov 2026 10:00:37 GMT",
@@ -2298,20 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure"
     },
     {
-     "title": "ADARx Pharmaceuticals reports Q3 results",
-     "link": "https://seekingalpha.com/news/4672219-adarx-pharmaceuticals-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 05:00:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ADARx Pharmaceuticals reports Q3 results"
-    },
-    {
-     "title": "Obsidian Therapeutics, Inc. reports Q3 results",
-     "link": "https://seekingalpha.com/news/4672218-obsidian-therapeutics-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 04:58:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Obsidian Therapeutics, Inc. reports Q3 results"
+     "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
+     "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+     "pubDate": "Fri, 13 Nov 2026 10:00:26 GMT",
+     "summary": "The most recent inflation reading for October had beaten expectations, coming in at 0.4% for the month.",
+     "source": "CNBC",
+     "zh": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight"
     },
     {
      "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
@@ -2320,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
      "source": "CNBC",
      "zh": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans"
-    },
-    {
-     "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-     "pubDate": "Fri, 13 Nov 2026 09:38:44 GMT",
-     "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-     "source": "CNBC",
-     "zh": "Widespread Microsoft outage takes down Outlook and other 365 services"
     },
     {
      "title": "中国10月新增社融1.15万亿元，人民币贷款减少1000亿元，M2同比增长7.1%",
@@ -2370,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "吉利、名爵刚卖过万，埃安也来抢年轻人轿跑生意"
     },
     {
-     "title": "Treasury yields rise as traders strengthen Fed rate hike bets",
-     "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-     "pubDate": "Fri, 13 Nov 2026 08:50:43 GMT",
-     "summary": "Treasury yields moved higher as investor expectations for a December rate hike by the Federal Reserve gain strength.",
-     "source": "CNBC",
-     "zh": "Treasury yields rise as traders strengthen Fed rate hike bets"
-    },
-    {
      "title": "黄仁勋辞职拖累AI交易，美股三大期指集体下跌，英伟达盘前企稳，布油反弹突破96美元",
      "link": "https://wallstreetcn.com/articles/3785885",
      "pubDate": "Fri, 13 Nov 2026 16:45:05 +0800",
@@ -2392,6 +2408,54 @@ window.INDUSTRY_DATA = {
      "summary": "美国财政状况在10月明显恶化。作为2027财年的首月，10月美国财政赤字创下历史同期最高纪录，财政开局创下历年最差表现。 美国财政部最新数据显示， 10月美国财政赤字达到4040亿美元，较去年同期的2840亿美元大幅扩大，也远超9月的270亿美元。赤字激增主要受到国防支出异常增长和债务利息支出持续攀升的双重推动。 与此同时，政府收入同比下降8.8%，进一步扩大了财政收支缺口。 更值得关注的是，美国债务利息负担已达到新的危险水平。 过去12个月，联邦政府利息支出占税收收入的比例升至28.2%，创历史新高，意味着政府每征收1美元税款，就有超过28美分用于支付债务利息。 收入增长乏力，支出扩张加速，",
      "source": "华尔街见闻",
      "zh": "美国财政再亮红灯：10月赤字创历史同期新高，过去一年28%的税收拿去付利息"
+    },
+    {
+     "title": "机构调研丨负极材料+锂电+储能 这家公司Q3业绩反转、订单排产饱满 自有产能明年将突破70万吨",
+     "link": "http://finance.eastmoney.com/news/11822,202611133930707774.html",
+     "pubDate": "Fri, 13 Nov 2026 16:23:53 +0800",
+     "summary": "11月13日，多家上市公司发布投资者关系活动记录表公告，披露各自与机构之间的业务交流内容，其中透露出公司业务布局的诸多进展与亮点。 尚太科技 ：供不应求之下外协与自建并进 山西四期投产在即 尚太科技 近日在业绩说明会上表示，第三季度，公司负极材料产品仍处于供不应求状态，自有产能无法满足客户和市场需求，外协加工采购比重继续提升；正积极加快一体化产能建设，山西四期项目投产在即，山西五期项目建设加速。 财报显示，公司前三季度营收71.01亿元，同比增长28.98%，归母净利润7.50亿元；其中 第三季度归母净利3.50亿元，同比增长50.92% ，扭转上半年同比下滑态势。 尚太科技 表示，受益于下游",
+     "source": "东方财富资讯",
+     "zh": "机构调研丨负极材料+锂电+储能 这家公司Q3业绩反转、订单排产饱满 自有产能明年将突破70万吨"
+    },
+    {
+     "title": "11月13日港股收盘：恒指跌1.55% 恒生科技指数跌3.02%",
+     "link": "http://stock.eastmoney.com/news/11770,202611133930694423.html",
+     "pubDate": "Fri, 13 Nov 2026 16:10:09 +0800",
+     "summary": "港股11月13日收盘走低，恒生指数收报23637.6点，跌370.95点，跌幅1.55%；恒生科技指数收报3813.19点，跌118.74点，跌幅3.02%。恒生指数成分股中 中国石油股份 、 舜宇光学科技 、 中国石油化工股份 涨幅居前， 龙湖集团 、 联想集团 、 华虹宏力 跌幅靠前。恒生科技指数成分股中 舜宇光学科技 、 美的集团 涨幅居前， 智谱 、 MINIMAX-W 、 联想集团 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证",
+     "source": "东方财富资讯",
+     "zh": "11月13日港股收盘：恒指跌1.55% 恒生科技指数跌3.02%"
+    },
+    {
+     "title": "午后A股突变！CPO、PCB板块大幅下跌 到底发生了什么？",
+     "link": "http://finance.eastmoney.com/news/1349,202611133930685353.html",
+     "pubDate": "Fri, 13 Nov 2026 15:49:08 +0800",
+     "summary": "昨晚美股科技出了那么大的事情，都能低开高走，没想到今天，亚洲市场基本高开低走。 按照惯例，一起找找原因吧。 11月13日，市场全天高开低走，创业板指午后跌超3%。截至收盘，沪指跌0.59%，深成指跌2.05%，创业板指跌3.32%。 市场共765只个股上涨，38只个股涨停，4748只个股下跌。 AI漫剧概念股逆市大涨， 幸福蓝海 、 文投控股 、 横店影视 、 中国电影 等多股涨停。 猪肉股集体拉升， 金新农 、 天邦食品 涨停。 银行 板块继续走强， 青岛银行 、 江苏银行 、 南京银行 、 成都银行 、 杭州银行 均创 历史新高 。 下跌方面，算力硬件方向领跌， 生益科技 、 东山精密 、",
+     "source": "东方财富资讯",
+     "zh": "午后A股突变！CPO、PCB板块大幅下跌 到底发生了什么？"
+    },
+    {
+     "title": "A股再度午后跳水 与“黄仁勋辞职”有多大关系？",
+     "link": "http://finance.eastmoney.com/news/1345,202611133930682153.html",
+     "pubDate": "Fri, 13 Nov 2026 15:46:51 +0800",
+     "summary": "11月13日，创业板指、深成指高开低走，科创50指数冲高回落，此前一度涨超2%。截至收盘，沪指跌0.59%，深成指跌2.05%，创业板指跌3.32%。 盘面上，AI漫剧概念走强， 银行 板块表现活跃，算力芯片、猪肉盘中走强。下跌方面，算力硬件概念集体下挫，CPO、 PCB 方向领跌。 全市场超4700只个股下跌。沪深两市成交额1.66万亿元，较上一个交易日缩量2764亿元。 又是一周行情走完，前3天还风平浪静的A股，周四、周五连续出现午后跳水。 对指数下跌影响最大的，仍是“易中天”这类海外链科技 权重股 。 消息面来看，“黄仁勋辞职”成为最显著催化。 区别在于，周四的A股还在“交易预期”，周五",
+     "source": "东方财富资讯",
+     "zh": "A股再度午后跳水 与“黄仁勋辞职”有多大关系？"
+    },
+    {
+     "title": "午后A股消费龙头股持续上涨 美的集团股价创历史新高",
+     "link": "http://stock.eastmoney.com/news/11215,202611133930683820.html",
+     "pubDate": "Fri, 13 Nov 2026 15:44:00 +0800",
+     "summary": "11月13日午后，A股 白色家电 龙头 美的集团 股价持续攀升，现报90.66元/股，创五年新高，日涨幅超3%，最新总市值攀升至6894亿元，成交额为23.5亿元。 部分 家用电器 股涨幅明显， 格力电器 涨2.73%， 朗特智能 、 富佳股份 、 横河精密 等个股同步走高。 消费龙头股持续攀升， 泸州老窖 涨超4%， 山西汾酒 涨超3%， 牧原股份 、 海尔智家 、 伊利股份 等涨超2%， 贵州茅台 涨1.82%， 海天味业 上涨。 消息面上，11月13日，商务部等部门接连出台两份促消费政策文件，分别为《关于推动商品消费扩容升级的实施意见》《关于进一步激发下沉市场活力活跃县域消费的意见》，精",
+     "source": "东方财富资讯",
+     "zh": "午后A股消费龙头股持续上涨 美的集团股价创历史新高"
+    },
+    {
+     "title": "余承东再回应问界新合作阶段：联合开发 赛力斯主导的工作华为也将全面参与",
+     "link": "http://finance.eastmoney.com/news/1354,202611133930676938.html",
+     "pubDate": "Fri, 13 Nov 2026 15:31:15 +0800",
+     "summary": "余承东亮相问界新车发布会。 11月13日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东在问界新M8上市发布会上表示，“华为和 赛力斯 一起打造了鸿蒙智行的第一个合作品牌问界，今天问界将进入一个新的合作阶段，我们华为继续主导核心技术、产品定义、产品设计以及质量流程的体系能力； 赛力斯 来主导整车制造、研发工程实施、营销、销售、服务和升级与维护，我们双方共同研发、联合设计。” 他强调，“我们华为主导的工作， 赛力斯 参与； 赛力斯 主导的工作，华为也是全面参与，双方一起紧密地在一起合作。我们双方既在各自擅长的领域各司其职，又将紧密合作、紧密联系在一起，为用户持续提供更好的体验与服务。",
+     "source": "东方财富资讯",
+     "zh": "余承东再回应问界新合作阶段：联合开发 赛力斯主导的工作华为也将全面参与"
     },
     {
      "title": "Value Nvidia, not Huang",
@@ -2418,14 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "The downfall of Jensen Huang"
     },
     {
-     "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-     "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
-     "pubDate": "Fri, 13 Nov 2026 02:56:35 GMT",
-     "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
-     "source": "CNBC",
-     "zh": "How the Jensen Huang affair changes the outlook for U.S.-China relations"
-    },
-    {
      "title": "The Silicon Valley veterans now steering Nvidia",
      "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
      "pubDate": "Fri, 13 Nov 2026 01:42:30 GMT",
@@ -2440,62 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mastercard has opened an innovation centre of excellence in Singapore that will eventually house 250 specialists working in areas such as AI, digital commerce and cybersecurity.",
      "source": "Finextra",
      "zh": "Mastercard opens Singapore innovation centre of excellence"
-    },
-    {
-     "title": "Visa and Anchorage Digital bring Western Union stablecoin to settlement network",
-     "link": "https://www.finextra.com/newsarticle/48752/visa-and-anchorage-digital-bring-western-union-stablecoin-to-settlement-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 13 Nov 2026 00:01:00 GMT",
-     "summary": "Visa is working with Anchorage Digital to support select stablecoins as native settlement assets on the payment giant's network, starting with Western Union's USDPT.",
-     "source": "Finextra",
-     "zh": "Visa and Anchorage Digital bring Western Union stablecoin to settlement network"
-    },
-    {
-     "title": "US lawmakers pile pressure on Lutnick as Nvidia scandal widens",
-     "link": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
-     "pubDate": "Thu, 12 Nov 2026 23:35:11 GMT",
-     "summary": "Legislators demand commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy",
-     "source": "Financial Times",
-     "zh": "US lawmakers pile pressure on Lutnick as Nvidia scandal widens"
-    },
-    {
-     "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-     "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 22:57:00 GMT",
-     "summary": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
-     "source": "MarketWatch",
-     "zh": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles."
-    },
-    {
-     "title": "Huang’s fall is an indictment of founder mode at Big Tech",
-     "link": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
-     "pubDate": "Thu, 12 Nov 2026 22:50:43 GMT",
-     "summary": "The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear",
-     "source": "Financial Times",
-     "zh": "Huang’s fall is an indictment of founder mode at Big Tech"
-    },
-    {
-     "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-     "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-     "pubDate": "Thu, 12 Nov 2026 22:47:28 GMT",
-     "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
-     "source": "CNBC",
-     "zh": "Alice Huang tied to Nvidia’s biggest Chinese competitor"
-    },
-    {
-     "title": "Opening trading-card packs has become a $2 billion market",
-     "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 22:38:00 GMT",
-     "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
-     "source": "MarketWatch",
-     "zh": "Opening trading-card packs has become a $2 billion market"
-    },
-    {
-     "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-     "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 22:16:00 GMT",
-     "summary": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
-     "source": "MarketWatch",
-     "zh": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes"
     }
    ]
   },

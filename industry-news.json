@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/13 21:32:00",
+ "generated_at": "2026/11/13 21:52:10",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "How Rhoda AI is using video data to create generalized AI models for robots",
+     "link": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
+     "pubDate": "Fri, 13 Nov 2026 13:30:44 +0000",
+     "summary": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "How Rhoda AI is using video data to create generalized AI models for robots"
+    },
+    {
      "title": "Robot Talk Episode 170 – Robots in the real world, with Daniela Shchegelskaya",
      "link": "https://robohub.org/robot-talk-episode-170-robots-in-the-real-world-with-daniela-shchegelskaya/",
      "pubDate": "Fri, 13 Nov 2026 13:22:49 +0000",
@@ -609,14 +617,6 @@
      "zh": "Memories.ai builds standardized egocentric video pipeline"
     },
     {
-     "title": "Can AI agents program industrial robots without training data? Berkeley says yes",
-     "link": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/",
-     "pubDate": "Wed, 11 Nov 2026 12:55:16 +0000",
-     "summary": "UC Berkeley and NVIDIA have released open-source tools for teams of AI coding agents that write, simulate, and refine readable robot programs. The post Can AI agents program industrial robots without training data? Berkeley says yes appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Can AI agents program industrial robots without training data? Berkeley says yes"
-    },
-    {
      "title": "AIhub coffee corner: Are humanoids the future of embodied AI?",
      "link": "https://robohub.org/aihub-coffee-corner-are-humanoids-the-future-of-embodied-ai/",
      "pubDate": "Mon, 09 Nov 2026 14:21:13 +0000",
@@ -639,14 +639,6 @@
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN, TEXAS Humanoids",
      "source": "IEEE Spectrum 机器人",
      "zh": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up"
-    },
-    {
-     "title": "Robot Talk Episode 169 – Robot sensing inspired by nature, with Dexter Shepherd",
-     "link": "https://robohub.org/robot-talk-episode-169-robot-sensing-inspired-by-nature-with-dexter-shepherd/",
-     "pubDate": "Fri, 06 Nov 2026 13:39:37 +0000",
-     "summary": "Claire chatted to Dexter Shepherd from the University of Sussex about using artificial intelligence to help robots understand and adapt to their environment. Dexter Shepherd is a Postdoctoral Researcher at the University of Sussex, exploring machine learning for bio-inspired tactile sensing and robo",
-     "source": "Robohub",
-     "zh": "Robot Talk Episode 169 – Robot sensing inspired by nature, with Dexter Shepherd"
     }
    ]
   },
@@ -656,6 +648,22 @@
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "Wheel-E Podcast: Juiced Scrambler Core, battery passports, Engwe M20, more",
+     "link": "https://electrek.co/2026/11/13/wheel-e-podcast-juiced-scrambler-core-battery-passports-engwe-m20-more/",
+     "pubDate": "Fri, 13 Nov 2026 13:43:28 +0000",
+     "summary": "This week on Electrek ’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes Juiced launching new e-bikes, Europe’s battery passport could mean something in the US, new motorcycles from Yamaha",
+     "source": "Electrek",
+     "zh": "Wheel-E Podcast: Juiced Scrambler Core, battery passports, Engwe M20, more"
+    },
+    {
+     "title": "Review: Engwe’s M20 3.0 is a 60V Super73 killer at a fraction of the price",
+     "link": "https://electrek.co/2026/11/13/review-engwes-m20-3-0-is-a-60v-super73-killer-at-a-fraction-of-the-price/",
+     "pubDate": "Fri, 13 Nov 2026 13:32:11 +0000",
+     "summary": "Engwe has impressed us repeatedly with its value e-bikes at l ower-than-believable prices . But lately, the brand is climbing the value chain with impressive e-bikes that aren’t just great value but also pack strong specs and impressive features . The Engwe M20 3.0 is a great example… more…",
+     "source": "Electrek",
+     "zh": "Review: Engwe’s M20 3.0 is a 60V Super73 killer at a fraction of the price"
+    },
     {
      "title": "CATL targets 6,000 passenger car battery swap stations in 2027, potentially overtaking Nio",
      "link": "https://cnevpost.com/2026/11/13/catl-targets-6000-passenger-car-swap-stations-2027/",
@@ -775,22 +783,6 @@
      "summary": "It's expensive, enormous, and weighs as much as a building. But it made me smile regardless.",
      "source": "InsideEVs",
      "zh": "The 2026 Chevy Silverado EV Trail Boss Makes No Sense. I Loved It Anyway"
-    },
-    {
-     "title": "Kia is giving the EV5 an update, and leaked images show what’s next",
-     "link": "https://electrek.co/2026/11/12/kia-giving-ev5-update-leaked-images/",
-     "pubDate": "Thu, 12 Nov 2026 19:39:04 +0000",
-     "summary": "Kia isn’t wasting any time updating its Sportage-sized EV5 electric SUV. Leaked images just gave us our first look at what’s changing. more…",
-     "source": "Electrek",
-     "zh": "Kia is giving the EV5 an update, and leaked images show what’s next"
-    },
-    {
-     "title": "Ride1Up VORSA e-bikes at Black Friday lows, EGO Power+ cordless snow blowers $220 off, Bluetti + EcoFlow power stations, more",
-     "link": "https://electrek.co/2026/11/12/ride1up-vorsa-e-bikes-ego-power-cordless-snow-blowers-bluetti-ecoflow-power-stations-more/",
-     "pubDate": "Thu, 12 Nov 2026 19:00:00 +0000",
-     "summary": "The November seasonal savings aren’t slowing down anytime soon, and leading our Green Deals group today is the Ride1Up Black Friday e-bike savings , with offers like the VORSA Modular Multi-Use e-bikes at their lows starting from $1,345 , while others start from $845. Likewise, there’s also Heybike’",
-     "source": "Electrek",
-     "zh": "Ride1Up VORSA e-bikes at Black Friday lows, EGO Power+ cordless snow blowers $220 off, Bluetti + EcoFlow power stations, more"
     },
     {
      "title": "Scout's New Factory Is Already Making Trucks. But You Won't Be Able To Buy One For A While",
@@ -1105,6 +1097,14 @@
    "total": 7,
    "items": [
     {
+     "title": "The future of heart drug research in the wake of study setbacks",
+     "link": "https://www.statnews.com/2026/11/13/cardiovascular-disease-heart-drug-failures-readout-loud-podcast/?utm_campaign=rss",
+     "pubDate": "Fri, 13 Nov 2026 13:34:45 +0000",
+     "summary": "What does the failure of two closely watched heart disease medicines mean for the future of drug research in the field? Find out on this week's episode of \"The Readout…",
+     "source": "STAT News",
+     "zh": "The future of heart drug research in the wake of study setbacks"
+    },
+    {
      "title": "Gubra CEO gets the quick hook; Ex-HHS official Brett Giroir takes over at cancer biotech",
      "link": "https://endpoints.news/gubra-ceo-gets-the-quick-hook-ex-hhs-official-brett-giroir-takes-over-at-cancer-biotech/",
      "pubDate": "Fri, 13 Nov 2026 12:00:11 +0000",
@@ -1156,7 +1156,7 @@
      "title": "Windward prices $175M IPO to advance China-licensed lung drugs",
      "link": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
      "pubDate": "Thu, 12 Nov 2026 20:22:00 -0500",
-     "summary": "The Swiss biotech, which pocketed another $50 million through a concurrent private share sale to Sanofi, is developing a potential competitor to the blockbuster asthma treatment Tezspire.",
+     "summary": "The Swiss biotech has two prospects it sees as having the potential to outcompete AstraZeneca and Amgen's blockbuster asthma treatment Tezspire.",
      "source": "BioPharma Dive",
      "zh": "Windward prices $175M IPO to advance China-licensed lung drugs"
     },
@@ -1223,14 +1223,6 @@
      "summary": "The deal will support a sprawling Phase 3 program for a monthly GLP-1 shot Pfizer acquired by winning a bidding war for the drug&rsquo;s previous owner, Metsera.",
      "source": "BioPharma Dive",
      "zh": "Blackstone bets $1.5B on Pfizer’s obesity drug"
-    },
-    {
-     "title": "STAT+: Blackstone backs Pfizer’s bet on monthly obesity treatment",
-     "link": "https://www.statnews.com/2026/11/12/biotech-news-blackstone-backs-pfizer-bet-on-monthly-obesity-treatment/?utm_campaign=rss",
-     "pubDate": "Thu, 12 Nov 2026 16:31:10 +0000",
-     "summary": "Pfizer spent up to $10 billion to buy Metsera last year. Now, it’s bringing in private equity behemoth Blackstone to help pay for the deal.",
-     "source": "STAT News",
-     "zh": "STAT+: Blackstone backs Pfizer’s bet on monthly obesity treatment"
     },
     {
      "title": "EnGene seeks comeback from May bladder cancer crash",
@@ -1304,6 +1296,14 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Canadian Lunar Rovers Ready for Next Phase—And An Earlier Launch",
+     "link": "https://payloadspace.com/canadian-lunar-rovers-ready-for-next-phase-and-an-earlier-launch/",
+     "pubDate": "Fri, 13 Nov 2026 13:30:00 +0000",
+     "summary": "Canadensys, MDA Space, and Mission Control collectively received a Phase 0 lunar-utility-rover study supporting Artemis. And now, work is almost done. The post Canadian Lunar Rovers Ready for Next Phase—And An Earlier Launch appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Canadian Lunar Rovers Ready for Next Phase—And An Earlier Launch"
+    },
     {
      "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
@@ -1519,14 +1519,6 @@
      "summary": "Rep. Mike Haridopolos survived the Blue Wave—and he’s optimistic bipartisan support for NASA’s Artemis program means the program will survive the political upheaval on Capitol Hill as well. The post Rep. Mike Haridopolos on NASA’s Future After the Blue Wave appeared first on Payload .",
      "source": "Payload",
      "zh": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave"
-    },
-    {
-     "title": "Exclusive: Lyra Systems Emerges from Stealth to Solve the Valley of Death",
-     "link": "https://payloadspace.com/exclusive-lyra-systems-emerges-from-stealth-to-solve-the-valley-of-death/",
-     "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-     "summary": "Lyra Systems announced an agreement with the DoD aimed at helping early-stage technologies traverse unscathed across the Valley of Death. The post Exclusive: Lyra Systems Emerges from Stealth to Solve the Valley of Death appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Exclusive: Lyra Systems Emerges from Stealth to Solve the Valley of Death"
     },
     {
      "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
@@ -1769,6 +1761,38 @@
    "total": 18,
    "items": [
     {
+     "title": "德国小厂拿下马斯克光伏订单，中国设备商为何未在列？",
+     "link": "https://www.huxiu.com/article/4905509.html?f=rss",
+     "pubDate": "Fri, 13 Nov 2026 21:41:59 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：席菁华 马斯克的一则订单，引发A股光伏设备板震荡。 北京时间11月11日，埃隆·马斯克在社交媒体平台X上转发SpaceX推文称：“SpaceX已向德国SINGULUS订购了每年100 GW产能的HJT太阳能电池制造设备。这是为了让Starmind创造一颗有感知能力的太阳。” 当地时间11月10日，SINGULUS在官网公告，已与SpaceX签署首条HJT太阳能电池交钥匙生产线供应合同，订单金额超过6000万欧元（约合人民币4.42亿元），计划于2027年上半年交付。 订单落给德国公司，导致市场对国内光伏设备参与马斯克太阳能制造布局与拿单预期的重估。 今年",
+     "source": "虎嗅",
+     "zh": "德国小厂拿下马斯克光伏订单，中国设备商为何未在列？"
+    },
+    {
+     "title": "寻找“下一个英伟达”：台积电拟设立 5 亿美元创投基金",
+     "link": "https://www.ithome.com/1/026/953.htm",
+     "pubDate": "Fri, 13 Nov 2026 13:39:10 GMT",
+     "summary": "IT之家 11 月 13 日消息，据日经亚洲今天（13 日）上午报道，台积电计划设立一只规模 5 亿美元 （IT之家注：现汇率约合 33.43 亿元人民币） 的创投基金，扶持有望成长为下一个英伟达或博通的芯片初创企业。 台积电业务开发及全球销售资深副总经理、副联席首席运营官张晓强透露，随着 AI 产业蓬勃发展，公司希望通过新基金扩大产业生态，并建立更加规范的投资机制。本周公布的新基金还可能投资供应商及其他上游合作伙伴，不再将投资对象局限于直接客户。 张晓强首次透露设立专门投资部门的原因：“我们认为， 是时候建立正式的投资机制了 。我们也希望扩大投资范围，不再只面向直接客户，而是借此发展更广泛的",
+     "source": "IT之家",
+     "zh": "寻找“下一个英伟达”：台积电拟设立 5 亿美元创投基金"
+    },
+    {
+     "title": "铁路 12306 开始卖国际机票，后续规划国际空铁联运等产品",
+     "link": "https://www.ithome.com/1/026/952.htm",
+     "pubDate": "Fri, 13 Nov 2026 13:33:21 GMT",
+     "summary": "IT之家 11 月 13 日消息，铁路 12306 官方今日宣布，联合厦门航空共同打造 国际机票产品及服务 ，国际及地区航线覆盖悉尼、墨尔本、阿姆斯特丹、巴黎、东京等 30+ 核心城市，并通达中国香港、中国澳门、中国台湾。 官方表示，此次上线国际机票产品，标志着 12306 平台从“国内通达”向“国际连接”迈出实质性的第一步。 后续规划上线的国际空铁联运等产品，让火车票、机票在同一张订单里完成 。未来，12306 将持续丰富国际航线网络，深化与航空公司协同合作，持续改善旅客出行体验。 IT之家获悉，12306 机票板块为旅客提供全程出行服务，包含航班动态查询、在线选座、机票电子发票申请。",
+     "source": "IT之家",
+     "zh": "铁路 12306 开始卖国际机票，后续规划国际空铁联运等产品"
+    },
+    {
+     "title": "韩企雄心勃勃规划吉瓦级数据中心，但目前仅有兆瓦级规模设施落地",
+     "link": "https://www.ithome.com/1/026/951.htm",
+     "pubDate": "Fri, 13 Nov 2026 13:30:11 GMT",
+     "summary": "IT之家 11 月 13 日消息，据韩媒 The Elec 今天（13 日）晚间报道，为满足日益增长的 AI 需求，KT、SK 电讯、Naver 和 NHN Cloud 等韩国企业纷纷提出建设吉瓦级数据中心的计划，但现有设施的容量仍 只有数十至数百兆瓦 。 相比之下，海外运营商的规模则早已突破 1GW，韩国企业可能因此陷入争夺客户不利、扩建计划延误的恶性循环。 截至 11 月 13 日，韩国企业公布的财报及季度报告显示，KT 和 SK 电讯运营的数据中心容量分别为 152MW 和 137MW，仅相当于各自 1GW 规划目标的 13% 至 15%。 KT 在第三季度财报电话会议上提出，到 203",
+     "source": "IT之家",
+     "zh": "韩企雄心勃勃规划吉瓦级数据中心，但目前仅有兆瓦级规模设施落地"
+    },
+    {
      "title": "GDP增速连续三年跑输全国，这五大省会，要注意了",
      "link": "https://www.huxiu.com/article/4905501.html?f=rss",
      "pubDate": "Fri, 13 Nov 2026 21:19:37 +0800",
@@ -1791,6 +1815,14 @@
      "summary": "本文来自微信公众号： 食栗派ChestnutMates ，编辑：山楂，作者：食栗派，原文标题：《秋天别错过！是优质碳水也是高VC蔬菜，抗氧化竟然比大蒜还猛》 美味步骤 菠菜、杏鲍菇都可以换成其他你喜欢的绿叶菜和菌菇。 不喜欢酱油味，烹饪时也可以不放酱油；煎好之后，单独准备一碟你喜欢的蘸水，蘸着吃。 酸奶水果，可以作为下午的点心。 酸奶推荐选无糖的，买不到希腊式酸奶，普通的酸奶也可以的。 如果不喜欢纯酸奶的酸味，推荐你用天然水果调味，比加糖、加蜂蜜调味来得更营养、更健康。 水果除了提供甜味，还能提供多种维生素、矿物质、膳食纤维和天然抗氧化物质。 新鲜水果或者原味水果干都可以。加新鲜水果的话，最好",
      "source": "虎嗅",
      "zh": "是优质碳水也是高VC蔬菜，抗氧化竟然比大蒜还猛"
+    },
+    {
+     "title": "大连理工大学成功研制国内首款 20 公斤级氢能动力无人直升机，完成海上 6 级大风巡航任务",
+     "link": "https://www.ithome.com/1/026/949.htm",
+     "pubDate": "Fri, 13 Nov 2026 13:11:56 GMT",
+     "summary": "IT之家 11 月 13 日消息，大连理工大学今日宣布，近日，该校化工学院毛庆副教授研发团队成功研制 国内首款 20 公斤级氢能动力无人直升机 ，布局纯氢燃料电池、氢-锂混动双技术路线。 IT之家获悉，本次研发推出两款作业机型，分别搭载 5L 与 12L 氢气瓶：5L-35MPa 氢-锂混动机型 续航 1.5 小时 ，12L-35MPa 氢燃料电池机型 续航可达 3 小时 ，较传统锂电无人机 30 分钟左右的续航实现数倍提升。 核心技术层面，该校研发团队自主研制空冷燃料电池动力系统，针对核心电堆开展温度、湿度、盐雾等多工况严苛测试， 证实系统性能优异、运行稳定、环境耐受性强 。其中，自研膜电极",
+     "source": "IT之家",
+     "zh": "大连理工大学成功研制国内首款 20 公斤级氢能动力无人直升机，完成海上 6 级大风巡航任务"
     },
     {
      "title": "AI 不是万能药，治不了CEO 的裁员病",
@@ -1828,7 +1860,7 @@
      "title": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
      "link": "https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/",
      "pubDate": "Fri, 13 Nov 2026 13:08:48 +0000",
-     "summary": "Article URL: https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/ Comments URL: https://news.ycombinator.com/item?id=50482992 Points: 13 # Comments: 6",
+     "summary": "Article URL: https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/ Comments URL: https://news.ycombinator.com/item?id=50482992 Points: 37 # Comments: 18",
      "source": "Hacker News",
      "zh": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory"
     },
@@ -1857,52 +1889,12 @@
      "zh": "8000家店和100多家店：硬折扣的规模，为什么救不了单店"
     },
     {
-     "title": "亚马逊秘密构想曝光：欲打造“世界商品图谱”，包揽全网商品数据",
-     "link": "https://www.ithome.com/1/026/945.htm",
-     "pubDate": "Fri, 13 Nov 2026 12:37:16 GMT",
-     "summary": "IT之家 11 月 13 日消息，据路透社报道，亚马逊有一项秘密计划，旨在让消费者从此无需离开其平台，拥有世界上的商品信息。 据该媒体审阅的一份内部文件及知情人士透露，这项名为“世界商品图谱”（World Product Graph）的计划， 试图将全球几乎所有在售商品的数据悉数收入囊中 —— 无论亚马逊是否备有这些商品的库存。 借此，亚马逊可以真正成为“万货商店”，不仅能提供海量商品的深度数据、切入谷歌在在线搜索领域的腹地，还能有效抵御竞争对手沃尔玛不断扩张的电商业务。 这一举措也是为了应对 AI 购物智能体的持续崛起。该内部文件指出，亚马逊自家的 AI 搜索智能体目前经常提供不准确的信息。",
-     "source": "IT之家",
-     "zh": "亚马逊秘密构想曝光：欲打造“世界商品图谱”，包揽全网商品数据"
-    },
-    {
-     "title": "最清醒的年轻人，在结婚前签好离婚协议",
-     "link": "https://www.huxiu.com/article/4905488.html?f=rss",
-     "pubDate": "Fri, 13 Nov 2026 20:34:57 +0800",
-     "summary": "本文原载于《新周刊》总第718期《中国式离婚2026》，原标题：《真正向往婚姻的年轻人，在婚前聊离婚》，来自微信公众号： 新周刊 ，作者：Fleming，编辑：詹腾宇，题图来自：AI生成 谈钱、签协议、提前规划离婚，这听起来有点像影视剧里的豪门故事。娱乐新闻也时常热议泰勒&middot;斯威夫特这样的明星会如何安排婚前财产，仿佛只有拥有巨额身家的人，才需要操心爱情结束后的事情。 但对于一些年轻人来说，婚前研究离婚已不算稀奇。有越来越多人在领证前找到律师，认真询问如果有一天跟对方过不下去，房子、存款和孩子该怎么办。 婚姻家事律师桂芳芳发现，主动咨询婚姻风险的年轻人变多了。他们在意的不只有财产，还",
-     "source": "虎嗅",
-     "zh": "最清醒的年轻人，在结婚前签好离婚协议"
-    },
-    {
      "title": "3 Best Walking Pad Treadmills for Homes and Offices (2026)",
      "link": "https://www.wired.com/story/best-walking-pads/",
      "pubDate": "Fri, 13 Nov 2026 12:34:00 +0000",
      "summary": "Our team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
      "source": "WIRED",
      "zh": "3 Best Walking Pad Treadmills for Homes and Offices (2026)"
-    },
-    {
-     "title": "马斯克转发《气垫传奇》电影片段致敬黄仁勋：有些事物是永恒的",
-     "link": "https://www.ithome.com/1/026/944.htm",
-     "pubDate": "Fri, 13 Nov 2026 12:31:13 GMT",
-     "summary": "IT之家 11 月 13 日消息，黄仁勋离任英伟达 CEO 后，全球首富埃隆 · 马斯克在社交媒体上发文向他致敬。 今天下午，马斯克在 X 上转发了一段两分钟的电影片段，出自 2023 年上映的《气垫传奇》。影片讲述了耐克与迈克尔 · 乔丹合作，以及 Air Jordan 品牌诞生的故事。 片段中，马特 · 达蒙饰演的耐克高管桑尼 · 瓦卡罗试图说服年轻的乔丹签下球鞋代言合同，并发表了一段仿佛预见未来的独白。“当他们把你捧到最高处，接下来就会把你拉下来。 你能不能鼓起勇气，忍受所有痛苦，继续奋战，再次站起来？ ” 这段视频最早由风险投资公司 Andreessen Horowitz 于周四晚间发",
-     "source": "IT之家",
-     "zh": "马斯克转发《气垫传奇》电影片段致敬黄仁勋：有些事物是永恒的"
-    },
-    {
-     "title": "上汽奥迪 AUDI E5 Sportback 热猎限定版、E7X 先锋 quattro 必福版上市，26.59 万 / 33.8888 万元",
-     "link": "https://www.ithome.com/1/026/943.htm",
-     "pubDate": "Fri, 13 Nov 2026 12:23:07 GMT",
-     "summary": "IT之家 11 月 13 日消息，在今天晚间的 AUDI Day 2026 特别活动中，上汽奥迪 AUDI E5 Sportback 热猎限定版和 AUDI E7X 先锋 quattro 必福版正式上市，上市权益价分别为 26.59 万元和 338888 元。 AUDI E5 Sportback 热猎限定版 新车采用“撞色美学”设计，提供挚热红、流光银（IT之家注：均为黑色车顶）的撞色车漆，配有 20 英寸 8 辐铝合金曜黑轮毂、Brembo 高性能制动卡钳。 该车尺寸与现款一致，仍为长 4881mm、宽 1960mm、高 1479mm，轴距 2950mm。 该车座舱两侧屏幕配有磁吸功能，车内",
-     "source": "IT之家",
-     "zh": "上汽奥迪 AUDI E5 Sportback 热猎限定版、E7X 先锋 quattro 必福版上市，26.59 万 / 33.8888 万元"
-    },
-    {
-     "title": "AOC 推出“Q25G5ZE8”24.5 英寸显示器：2K 275Hz，1099 元",
-     "link": "https://www.ithome.com/1/026/942.htm",
-     "pubDate": "Fri, 13 Nov 2026 12:17:53 GMT",
-     "summary": "IT之家 11 月 13 日消息，AOC 现已在京东上架“Q25G5ZE8”24.5 英寸显示器，该机主打 2K 275Hz，定价为 1099 元。 京东 AOC Q25G5ZE8 显示器 1099 元 直达链接 该机配备一块 2560x1440 分辨率 275Hz Fast IPS 面板，显示器亮度 450 尼特，GtG 响应速度 1ms，覆盖 95% DCI-P3 色域，显示器采用固定支架，本体支持 VESA 壁挂，提供 HDMI 2.0 和 DP 1.4 接口。 IT之家附显示器参数：",
-     "source": "IT之家",
-     "zh": "AOC 推出“Q25G5ZE8”24.5 英寸显示器：2K 275Hz，1099 元"
     },
     {
      "title": "South Korea-based DeepX tapes out DX-M2, an edge AI chip to run inference of 100B-parameter LLMs on robots and drones, targeting fall 2027 for mass production (Sally Ward-Foxton/EE Times)",
@@ -1916,7 +1908,7 @@
      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
      "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
      "pubDate": "Fri, 13 Nov 2026 12:10:24 +0000",
-     "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 116 # Comments: 56",
+     "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 139 # Comments: 73",
      "source": "Hacker News",
      "zh": "Doomsday: Friday, 13 November, A.D. 2026 (1960)"
     },
@@ -2265,60 +2257,164 @@
    "total": 13,
    "items": [
     {
-     "title": "FTC plans to sue to block $3.5B Covetrus-MWI deal - Semafor",
-     "link": "https://seekingalpha.com/news/4672318-ftc-plans-to-sue-to-block-3_5b-covetrus-mwi-deal-semafor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 08:26:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FTC plans to sue to block $3.5B Covetrus-MWI deal - Semafor"
+     "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+     "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+     "pubDate": "Fri, 13 Nov 2026 13:48:57 GMT",
+     "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
+     "source": "CNBC",
+     "zh": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years"
     },
     {
-     "title": "Global Atomic Corporation reports Q3 results",
-     "link": "https://seekingalpha.com/news/4672337-global-atomic-corporation-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 08:25:32 -0500",
+     "title": "Sienna Senior Living declares CAD 0.078 dividend",
+     "link": "https://seekingalpha.com/news/4672368-sienna-senior-living-declares-cad-0_078-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 08:48:21 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Global Atomic Corporation reports Q3 results"
+     "zh": "Sienna Senior Living declares CAD 0.078 dividend"
     },
     {
-     "title": "VIQ Solutions Q3 GAAP EPS of -$0.06, revenue of $5.22M",
-     "link": "https://seekingalpha.com/news/4672334-viq-solutions-q3-gaap-eps-of--006-revenue-of-522m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 08:24:33 -0500",
+     "title": "Aardvark Therapeutics GAAP EPS of -$0.88",
+     "link": "https://seekingalpha.com/news/4672366-aardvark-therapeutics-gaap-eps-of-0_88?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 08:47:59 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "VIQ Solutions Q3 GAAP EPS of -$0.06, revenue of $5.22M"
+     "zh": "Aardvark Therapeutics GAAP EPS of -$0.88"
     },
     {
-     "title": "Andersen Group reports mixed Q2 results; gives FY2027 outlook",
-     "link": "https://seekingalpha.com/news/4672336-andersen-group-reports-mixed-q2-results-gives-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 08:24:22 -0500",
+     "title": "Onex Corporation declares CAD 0.10 dividend",
+     "link": "https://seekingalpha.com/news/4672365-onex-corporation-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 08:47:08 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Andersen Group reports mixed Q2 results; gives FY2027 outlook"
+     "zh": "Onex Corporation declares CAD 0.10 dividend"
+    },
+    {
+     "title": "Atlas Energy reports Q3 results",
+     "link": "https://seekingalpha.com/news/4672362-atlas-energy-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 08:46:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Atlas Energy reports Q3 results"
     },
     {
      "title": "Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge",
      "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-     "pubDate": "Fri, 13 Nov 2026 13:24:11 GMT",
+     "pubDate": "Fri, 13 Nov 2026 13:46:33 GMT",
      "summary": "",
      "source": "CNBC",
      "zh": "Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge"
     },
     {
-     "title": "Columbia Banking System raises dividend by 2.7% to $0.38",
-     "link": "https://seekingalpha.com/news/4672335-columbia-banking-system-raises-dividend-by-27-to-038?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 08:23:48 -0500",
+     "title": "Stock futures gain as PPI comes in cooler than expected",
+     "link": "https://seekingalpha.com/news/4672205-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 08:46:32 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Columbia Banking System raises dividend by 2.7% to $0.38"
+     "zh": "Stock futures gain as PPI comes in cooler than expected"
     },
     {
-     "title": "Decisive Dividend declares CAD 0.045 dividend",
-     "link": "https://seekingalpha.com/news/4672332-decisive-dividend-declares-cad-0_045-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 08:21:42 -0500",
+     "title": "Nova Minerals reports Q1 results",
+     "link": "https://seekingalpha.com/news/4672364-nova-minerals-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 08:46:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Decisive Dividend declares CAD 0.045 dividend"
+     "zh": "Nova Minerals reports Q1 results"
+    },
+    {
+     "title": "Midterm elections provided the hyperscalers with the excuse they needed to cut back on spending, says Jefferies strategist",
+     "link": "https://www.marketwatch.com/story/midterm-elections-provided-the-hyperscalers-with-the-excuse-they-needed-to-cut-back-on-spending-says-jefferies-strategist-de6349ec?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 13:43:00 GMT",
+     "summary": "If the AI capex narrative is losing momentum then Jefferies strategist Chris Wood can recommen some sectors , like pharma, and some markets like India, Brazil and China, as ways to play that slowdown.",
+     "source": "MarketWatch",
+     "zh": "Midterm elections provided the hyperscalers with the excuse they needed to cut back on spending, says Jefferies strategist"
+    },
+    {
+     "title": "小鹏汽车：2027年计划面向英国导入5款全新右舵车型",
+     "link": "http://finance.eastmoney.com/news/1354,202611133930964924.html",
+     "pubDate": "Fri, 13 Nov 2026 21:42:07 +0800",
+     "summary": "小鹏 汽车 表示，2027年计划面向英国导入5款全新右舵车型，并将搭载VLA 2.0的下一代NGP驾驶辅助系统引入英国。未来一年，小鹏计划在全英国建立约100个零售及服务网点。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "小鹏汽车：2027年计划面向英国导入5款全新右舵车型"
+    },
+    {
+     "title": "美国10月PPI数据公布后 市场下调对美联储加息的预期",
+     "link": "http://stock.eastmoney.com/news/1768,202611133930965427.html",
+     "pubDate": "Fri, 13 Nov 2026 21:42:00 +0800",
+     "summary": "美国10月PPI数据公布后，市场下调对美联储加息的预期。美股三大期指短线拉升，标普500指数 期货 、纳指 期货 涨0.5%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国10月PPI数据公布后 市场下调对美联储加息的预期"
+    },
+    {
+     "title": "毕得医药印度子公司收到当地海关通知：可能追缴关税，甚至罚款",
+     "link": "http://finance.eastmoney.com/news/1354,202611133930964720.html",
+     "pubDate": "Fri, 13 Nov 2026 21:41:19 +0800",
+     "summary": "11月13日晚间， 毕得医药 （SH688073，股价63.88元，市值58.06亿元）披露公告，公司下属印度子公司BLD Pharmatech（India）Private Limited（以下简称BLDIND）近日收到印度班加罗尔海关相关主管机关出具的《SHOW CAUSE NOTICE》（《说明原因通知书》，以下简称SCN）。 按公告所述，该海关拟对BLDIND部分历史进口货物的完税价格作出调整，包括对相关进口货物的申报价格进行一定比例的价格加成，以及将公司及相关子公司向BLDIND收取的部分产品研发服务费用计入完税价格，并据此追缴可能产生的差额关税及利息，同时涉及可能的罚款等事项。 公司",
+     "source": "东方财富股票",
+     "zh": "毕得医药印度子公司收到当地海关通知：可能追缴关税，甚至罚款"
+    },
+    {
+     "title": "港股风向标｜全球AI调整情绪扩散 空头发力恒指失守24000点",
+     "link": "http://finance.eastmoney.com/news/1354,202611133930965839.html",
+     "pubDate": "Fri, 13 Nov 2026 21:40:00 +0800",
+     "summary": "财联社11月13日讯 今日港股全天单边下行，三大指数集体收跌。截至收盘，恒生指数跌1.55%失守24000点，国企指数跌1.48%，恒生科技指数大挫约3%。 【资金面缺乏承接恒指失守24000点】 盘面上，今日大型科网股集体领跌，快手跌4.5%创历史新低，小米跌3.74%， 阿里巴巴 跌3.46%， 百度 、美团、腾讯跌超3%。 其他方向上，AI硬件产业链反弹后再度下杀，存储、 PCB 、光 通信 全线大挫。此外，地产、 汽车 、 黄金 、医药、保险股也纷纷下行。 上涨的板块中， 银行 股逆势走强，家电、油气等高息红利资产也表现活跃。 整体上，港股短线连续下行，盘面压力加重。恒指今日成交195",
+     "source": "东方财富股票",
+     "zh": "港股风向标｜全球AI调整情绪扩散 空头发力恒指失守24000点"
+    },
+    {
+     "title": "港股公告精选｜TCL电子前三季盈利同比增约四成 中国中冶年内新签合同额近5500亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202611133930965591.html",
+     "pubDate": "Fri, 13 Nov 2026 21:40:00 +0800",
+     "summary": "财联社11月13日讯 财联社为您带来今日港股重要公告 1）公司要闻 TCL电子 (01070.HK)： 前9个月收入957.93亿港元，同比增长15.7%；净利润21.04亿港元，同比增长43.6%。 中国中冶 (01618.HK)： 前10月新签合同额人民币5487.5亿元，其中新签海外合同额人民币513.8亿元。 国银金租 (01606.HK)： 拟18.19亿元采购信息技术 计算机设备 。 中国神华 (01088.HK)： 前10月 煤炭 销售量约5.13亿吨，同比增长0.3%。10月销售量为5260万吨，同比增长2.1%。 中教控股 (00839.HK)：预计截至2026年8月31日的",
+     "source": "东方财富股票",
+     "zh": "港股公告精选｜TCL电子前三季盈利同比增约四成 中国中冶年内新签合同额近5500亿元"
+    },
+    {
+     "title": "中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响",
+     "link": "http://finance.eastmoney.com/news/1354,202611133930965143.html",
+     "pubDate": "Fri, 13 Nov 2026 21:40:00 +0800",
+     "summary": "中富通 (300560)11月13日在互动平台表示，公司子公司天创信息长期服务公安政府部门，公司推出的AI政务服务 机器人 能够为群众提供24小时不间断的政务服务咨询，具备智能问答系统、业务办理指引、预约服务等核心能力，2025年4月已在福州一派出所试点应用；目前该业务处于研发阶段，尚未量产，对业绩无实质影响。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响"
+    },
+    {
+     "title": "Microsoft Outlook outage stretches into a second day. What to know.",
+     "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 13:36:00 GMT",
+     "summary": "Microsoft notes ‘no evidence of malicious activity’ as it works to restore access to email and other services.",
+     "source": "MarketWatch",
+     "zh": "Microsoft Outlook outage stretches into a second day. What to know."
+    },
+    {
+     "title": "美PPI低于预期，美股期指拉升，英伟达盘前企稳，布油反弹突破96美元",
+     "link": "https://wallstreetcn.com/articles/3785885",
+     "pubDate": "Fri, 13 Nov 2026 21:34:52 +0800",
+     "summary": "美国10月PPI同比上涨6.5%，低于市场预期的6.6%，但较前值6.3%进一步走高；核心PPI同比上涨5.0%，与市场预期及前值持平。 数据公布后，美元指数短线下跌约10点，报103.13；纳斯达克100指数期货短线拉升，涨幅扩大至0.5%。美国10年期国债收益率回落至5.144%，现货黄金短线拉升逾10美元，报3894.95美元/盎司。 外汇市场方面，日元走势受到密切关注。美元兑日元汇率自9月以来首次跌破160关口，重新引发市场对日本当局可能出手干预汇市的担忧。 AT Global Markets驻悉尼首席市场分析师尼克·特威代尔表示：“显然，英伟达的处境在下周财报发布前仍然令投资者忧心忡",
+     "source": "华尔街见闻",
+     "zh": "美PPI低于预期，美股期指拉升，英伟达盘前企稳，布油反弹突破96美元"
+    },
+    {
+     "title": "见闻历11.11大促最后3小时！买日历送超千元知识礼包，送什么都不如送“搞钱的智慧”！",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Fri, 13 Nov 2026 21:32:41 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "见闻历11.11大促最后3小时！买日历送超千元知识礼包，送什么都不如送“搞钱的智慧”！"
+    },
+    {
+     "title": "法国之后，比利时债务危机风险升温，欧元区或面临新一轮财政压力",
+     "link": "https://wallstreetcn.com/articles/3785904",
+     "pubDate": "Fri, 13 Nov 2026 21:30:26 +0800",
+     "summary": "比利时正成为继法国之后，欧元区又一个备受关注的主权债务风险点。预算赤字居高不下、政府财政谈判陷入僵局，加上国债收益率持续攀升，正使这个欧盟机构所在地面临越来越大的财政压力。 据报道， 比利时今年预算赤字预计将达到GDP的5.2%，远超欧盟《马斯特里赫特条约》规定的3%上限，公共债务规模也已超过GDP的110%。 总理Bart De Wever推动的财政整顿计划因联合政府内部严重分歧而受阻，并于11月2日提出辞职。尽管国王Philippe尚未接受其辞呈，但已要求其重启谈判，政府能否达成财政整顿方案仍不明朗。 债券市场已经开始反映这一风险。比利时十年期国债收益率数月内从约3.5%升至4.25%，政",
+     "source": "华尔街见闻",
+     "zh": "法国之后，比利时债务危机风险升温，欧元区或面临新一轮财政压力"
+    },
+    {
+     "title": "美国10月PPI同比增长6.5% 低于市场预期",
+     "link": "http://finance.eastmoney.com/news/1345,202611133930933912.html",
+     "pubDate": "Fri, 13 Nov 2026 21:30:15 +0800",
+     "summary": "美国10月生产者价格指数（PPI）同比增长6.5%，预估为6.6%，前值为6.3%。环比上涨0.3%，预估为0.4%。 美国10月核心PPI同比增长5%，预期5%，前值5%；10月核心PPI环比增长0.3%，预期0.3%，前值由0.7%修正为0.8%。 PPI报告公布后，交易员下调对美联储收紧政策的预期。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "美国10月PPI同比增长6.5% 低于市场预期"
     },
     {
      "title": "Outlook outage continues as Microsoft flags &apos;encouraging recovery signals&apos;",
@@ -2327,6 +2423,14 @@
      "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
      "source": "CNBC",
      "zh": "Outlook outage continues as Microsoft flags &apos;encouraging recovery signals&apos;"
+    },
+    {
+     "title": "高盛预计标普500指数未来一年上涨14%：超大规模云计算企业估值已跌至历史低位",
+     "link": "http://stock.eastmoney.com/news/11228,202611133930927743.html",
+     "pubDate": "Fri, 13 Nov 2026 21:09:33 +0800",
+     "summary": "高盛 集团策略师看好2027年美国股市表现，预计未来一年标普500指数将上涨14%，升至8700点。他们认为，在近期科技股遭遇抛售后，已使超大规模 云计算 企业的估值降至历史低位，投资吸引力正在显现。 以Peter Oppenheimer为首的 高盛 策略师团队表示，明年将超配美国和日本股票。在一份致客户的报告中，该团队预计，未来12个月标普500指数将升至8700点。尽管如此，他们预计标普500成分股的盈利增速将明显放缓。今年以来，标普500指数已累计上涨11%。 高盛 发布这一乐观预测之际， 纳斯达克 100指数已较10月初创下的高点下跌9%。 人工智能 (AI)基础设施建设前景引发的担忧",
+     "source": "东方财富资讯",
+     "zh": "高盛预计标普500指数未来一年上涨14%：超大规模云计算企业估值已跌至历史低位"
     },
     {
      "title": "Trump says he wants to ‘get Cuba done’ before leaving office, would consider military force",
@@ -2345,6 +2449,14 @@
      "zh": "国会山又现“股神”？民主党议员夫妇高位减持英伟达"
     },
     {
+     "title": "11月13日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202611133930880015.html",
+     "pubDate": "Fri, 13 Nov 2026 21:00:23 +0800",
+     "summary": "热点聚焦 央行数据 ： 央行数据显示，10月末，广义货币(M2)余额359.06万亿元，同比增长7.1%。狭义货币(M1)余额116.9万亿元，同比增长4.4%。流通中货币(M0)余额15万亿元，同比增长10.7%。前十个月净投放现金9023亿元。此外前十个月人民币贷款增加11.42万亿元， 前十个月社会融资规模增量累计为28.61万亿元，比上年同期少2.29万亿元 。 外交部回应 ： 外交部发言人毛宁主持例行记者会。彭博社记者提问， 美国议员和商务部正在推动通过芯片法案来阻止中国公司通过国外渠道来获取美国算力 ，请问中国是否认为这些限制措施违反了中美的贸易休战协议？鉴于APEC峰会即将召开，",
+     "source": "东方财富资讯",
+     "zh": "11月13日东方财富财经晚报（附新闻联播）"
+    },
+    {
      "title": "The science of vaccines is rapidly advancing — despite the anti-vax movement",
      "link": "https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 13:00:00 GMT",
@@ -2361,14 +2473,6 @@
      "zh": "What&apos;s ahead for AI financing after Nvidia CEO Jensen Huang departs"
     },
     {
-     "title": "CNBC&apos;s Official NHL Team Valuations 2026: How the 32 franchises stack up",
-     "link": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html",
-     "pubDate": "Fri, 13 Nov 2026 12:47:16 GMT",
-     "summary": "The average NHL team is worth $2.71 billion, 23% more than a year ago.",
-     "source": "CNBC",
-     "zh": "CNBC&apos;s Official NHL Team Valuations 2026: How the 32 franchises stack up"
-    },
-    {
      "title": "被燕京啤酒超越后，重庆啤酒八年主帅离任",
      "link": "http://www.eeo.com.cn/2026/1113/1092446.shtml",
      "pubDate": "Fri, 13 Nov 2026 20:45:14 +0800",
@@ -2377,132 +2481,20 @@
      "zh": "被燕京啤酒超越后，重庆啤酒八年主帅离任"
     },
     {
+     "title": "11月13日晚间上市公司利好消息一览(附名单)",
+     "link": "http://finance.eastmoney.com/news/1354,202611133930905154.html",
+     "pubDate": "Fri, 13 Nov 2026 20:40:39 +0800",
+     "summary": "沪深两市多家上市公司11月13日晚间发布重要公告，以下为利好的消息汇总： 利扬芯片 ：拟3.06亿元收购众望达51%股权 完善“光存算”测试领域产业布局 利扬芯片 (688135)11月13日公告，公司与深圳市众望达光电有限公司（简称“众望达”）股东郑鸿章、邓荣辉签署《股权收购协议》，筹划以现金收购众望达51%的股权。收购完成后，众望达将成为公司的控股子公司。众望达整体估值为6亿元，其51%股权交易对价为3.06亿元（含税）。 利扬芯片 称，众望达专注于光通讯、有源及无源模块、光芯片测试领域的 仪器仪表 的研发、生产与销售，处于光芯片测试上游设备环节，此次股权收购契合公司现有主业未来聚焦“光存",
+     "source": "东方财富资讯",
+     "zh": "11月13日晚间上市公司利好消息一览(附名单)"
+    },
+    {
      "title": "The prostate-cancer screening rules just changed. Here’s when men should get tested.",
      "link": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 12:37:00 GMT",
      "summary": "The American Cancer Society now recommends most men get their first PSA test when they turn 50. Black men and other men considered high risk should start screening at age 45.",
      "source": "MarketWatch",
      "zh": "The prostate-cancer screening rules just changed. Here’s when men should get tested."
-    },
-    {
-     "title": "Jensen Huang’s years-long effort to get close to China",
-     "link": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
-     "pubDate": "Fri, 13 Nov 2026 12:36:28 GMT",
-     "summary": "Former Nvidia chief executive is facing intense scrutiny over ties to Beijing",
-     "source": "Financial Times",
-     "zh": "Jensen Huang’s years-long effort to get close to China"
-    },
-    {
-     "title": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth.",
-     "link": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 12:25:00 GMT",
-     "summary": "Can Nvidia keep its lead in AI chips without Jensen Huang? Plus, what investors are watching on inflation.",
-     "source": "MarketWatch",
-     "zh": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth."
-    },
-    {
-     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 12:15:00 GMT",
-     "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-     "source": "MarketWatch",
-     "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
-    },
-    {
-     "title": "Microsoft stock slumps on outage that includes the Copilot tool it has been heavily promoting",
-     "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 12:14:00 GMT",
-     "summary": "Microsoft stock fell in premarket trade Friday as the company struggled to address a worldwide outage of its popular products.",
-     "source": "MarketWatch",
-     "zh": "Microsoft stock slumps on outage that includes the Copilot tool it has been heavily promoting"
-    },
-    {
-     "title": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
-     "link": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html",
-     "pubDate": "Fri, 13 Nov 2026 12:03:24 GMT",
-     "summary": "The DOJ said it was taking action against the North Korean government's \"schemes to fund its regime through the massive theft of cryptocurrency.\"",
-     "source": "CNBC",
-     "zh": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance"
-    },
-    {
-     "title": "见闻历11.11大促最后3小时！买日历送超千元知识礼包，送什么都不如送“搞钱的智慧”！",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Fri, 13 Nov 2026 20:00:33 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11大促最后3小时！买日历送超千元知识礼包，送什么都不如送“搞钱的智慧”！"
-    },
-    {
-     "title": "亚马逊秘密打造全球商品数据库，意在围堵AI购物代理、守住广告收入",
-     "link": "https://wallstreetcn.com/articles/3785901",
-     "pubDate": "Fri, 13 Nov 2026 19:59:26 +0800",
-     "summary": "亚马逊正计划将商品数据库扩展至全网，以争夺购物搜索入口，并抵御AI购物代理对其流量和广告业务的冲击。 11月13日，据路透社获得的一份内部文件显示， 亚马逊正在推进一项代号为“World Product Graph”的计划，试图收录全球几乎所有在售商品的数据，无论这些商品是否在其平台上销售。 该计划旨在将亚马逊打造成真正意义上的“万货商店”，通过掌握最全面的商品信息，吸引用户无需离开平台即可完成从商品研究到购买的全部流程。 该文件以新闻稿形式撰写，将2027年10月1日设定为对外发布的目标日期。 亚马逊对此回应称，该文件属于“草稿性、已过时的文件”，“不一定反映公司当前计划”，但同时表示，公司",
-     "source": "华尔街见闻",
-     "zh": "亚马逊秘密打造全球商品数据库，意在围堵AI购物代理、守住广告收入"
-    },
-    {
-     "title": "Nvidia’s Jensen Huang steps down, interim CEO appointed as stocks plummet",
-     "link": "https://www.finextra.com/newsarticle/48756/nvidias-jensen-huang-steps-down-interim-ceo-appointed-as-stocks-plummet?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 13 Nov 2026 11:52:00 GMT",
-     "summary": "Nvidia CEO Jensen Huang resigned on Thursday following reports of multiple extramarital affairs, plunging company stocks.",
-     "source": "Finextra",
-     "zh": "Nvidia’s Jensen Huang steps down, interim CEO appointed as stocks plummet"
-    },
-    {
-     "title": "Profit surprises are normalizing — and that may signal a healthier stock market, say Citi strategists",
-     "link": "https://www.marketwatch.com/story/profit-surprises-are-normalizing-and-that-may-signal-a-healthier-stock-market-say-citi-strategists-d8cce7c2?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 11:41:00 GMT",
-     "summary": "Although the majority of S&P 500 companies reported earnings above analysts’ expectations, the beats were significantly lower than in more recent quarters.",
-     "source": "MarketWatch",
-     "zh": "Profit surprises are normalizing — and that may signal a healthier stock market, say Citi strategists"
-    },
-    {
-     "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit?",
-     "link": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
-     "pubDate": "Fri, 13 Nov 2026 11:29:14 GMT",
-     "summary": "Someone is enjoying an early Christmas",
-     "source": "Financial Times",
-     "zh": "OK who just made $200mn shorting Nvidia ahead of Jensxit?"
-    },
-    {
-     "title": "Paraguay's digital bank collapse triggers political crisis",
-     "link": "https://www.finextra.com/newsarticle/48755/paraguays-digital-bank-collapse-triggers-political-crisis?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 13 Nov 2026 11:28:00 GMT",
-     "summary": "Paraguay’s digital bank ueno collapsed last Tuesday, freezing the savings of nearly 3 million customers and revealing political scandal.",
-     "source": "Finextra",
-     "zh": "Paraguay's digital bank collapse triggers political crisis"
-    },
-    {
-     "title": "英伟达跌出14年最低估值！“大多头”Tom Lee喊抄底，散户越跌越买，华尔街却出现分歧",
-     "link": "https://wallstreetcn.com/articles/3785898",
-     "pubDate": "Fri, 13 Nov 2026 19:19:34 +0800",
-     "summary": "英伟达股价遭遇重挫，远期市盈率已降至约12倍，创2012年以来最低水平。但估值跌至历史低位，并未换来华尔街的一致看多。随着创始人兼CEO黄仁勋离职，市场对这家AI芯片巨头的信心正出现明显分化。 周四，英伟达股价早盘一度暴跌超过14%，随后在紧急公关和逢低买盘推动下逐步收复失地，最终收跌4.34%，报166.19美元。相比10月6日创下的阶段高点243.37美元，该股累计跌幅已超过30%。 股价暴跌之际，散户却在大举抄底。Vanda Research数据显示， 周四开盘后首个半小时，散户净买入英伟达的资金达到1.11亿美元，创历史同期纪录。Fundstrat Global Advisors的To",
-     "source": "华尔街见闻",
-     "zh": "英伟达跌出14年最低估值！“大多头”Tom Lee喊抄底，散户越跌越买，华尔街却出现分歧"
-    },
-    {
-     "title": "上汽大众想抢回10万元级市场话语权",
-     "link": "https://wallstreetcn.com/articles/3785899",
-     "pubDate": "Fri, 13 Nov 2026 19:04:51 +0800",
-     "summary": "上汽大众把新一代纯电SUV推向了10万元级市场。 11月12日晚，ID.ERA 5X在北京上市。新车推出四个版本，建议零售价为11.99万至15.99万元，限时权益价为9.99万至13.99万元。 它是大众在中国开发的CMP平台首款量产车型，也是上汽大众ID.ERA系列的首款纯电SUV。上汽大众汽车有限公司大众品牌营销事业执行副总监陈峰在发布会后的沟通中表示，希望5X做到月销过万。 5X上市前，上汽大众这几个月推出的新能源新车已经开始贡献销量。 插混轿车5S在10月交付7100辆，增程SUV 8X于10月12日上市，当月交付3500辆。今年前10个月，上汽大众累计销售新能源车约7.4万辆，同比",
-     "source": "华尔街见闻",
-     "zh": "上汽大众想抢回10万元级市场话语权"
-    },
-    {
-     "title": "IEA月报：下修未来两年石油需求、上调生物燃料供应，油市供给压力加剧",
-     "link": "https://wallstreetcn.com/articles/3785897",
-     "pubDate": "Fri, 13 Nov 2026 18:53:06 +0800",
-     "summary": "国际能源署（IEA）在最新月度报告中下调了2026年和2027年全球石油需求预测，同时上调生物燃料供应预期，整体信号指向全球石油市场供应压力持续积聚。 IEA将2026年全球石油需求预测下调至每日10229万桶，较上月预测减少9万桶/日； 2027年需求预测同步下修至每日10430万桶，减少8万桶/日。 与此同时，IEA将2025至2027年全球生物燃料供应增量预测上调13万桶/日，进一步加剧市场供给端压力。 需求端走软与供给端扩张形成叠加效应，对油价前景构成压制。IEA指出，全球石油供应链正常化的预期将为2027年需求反弹提供支撑，但仍处高位的远期燃油价格将继续拖累消费复苏。 需求持续收缩，",
-     "source": "华尔街见闻",
-     "zh": "IEA月报：下修未来两年石油需求、上调生物燃料供应，油市供给压力加剧"
-    },
-    {
-     "title": "Klarna taps Robinhood VP Chris Koegel as CFO",
-     "link": "https://www.finextra.com/newsarticle/48754/klarna-taps-robinhood-vp-chris-koegel-as-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 13 Nov 2026 10:31:00 GMT",
-     "summary": "Klarna has appointed Chris Koegel as their new chief financial officer starting from January 2027.",
-     "source": "Finextra",
-     "zh": "Klarna taps Robinhood VP Chris Koegel as CFO"
     }
    ]
   },

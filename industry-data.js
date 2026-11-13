@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 06:12:12",
+ "generated_at": "2026/11/14 06:16:57",
  "recent_days": 7,
  "industries": [
   {
@@ -450,14 +450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1434,6 +1434,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15 to attempt first catch of both stages",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history… The post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15 to attempt first catch of both stages"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1474,6 +1482,14 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1506,12 +1522,20 @@ window.INDUSTRY_DATA = {
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
     },
     {
-     "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
-     "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
-     "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
-     "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
-     "source": "Spaceflight Now",
-     "zh": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
+    },
+    {
+     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
+     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     }
    ]
   },
@@ -1738,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "The FAA announced on Thursday that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)",
+     "link": "https://www.techmeme.com/261113/p32#a261113p32",
+     "pubDate": "Fri, 13 Nov 2026 17:10:02 -0500",
+     "summary": "Jeremy Hsu / Ars Technica : The FAA announced on Thursday that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US &nbsp; &mdash;&nbsp; The US government has expanded the use of an AI tool for advising air traffic controllers to assis",
+     "source": "Techmeme",
+     "zh": "The FAA announced on Thursday that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)"
+    },
+    {
      "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors&apos; stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
      "link": "https://www.techmeme.com/261113/p31#a261113p31",
      "pubDate": "Fri, 13 Nov 2026 17:01:42 -0500",
@@ -1840,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
      "source": "TechCrunch",
      "zh": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board"
-    },
-    {
-     "title": "Sources: Meta staffers are testing a prediction-market app called Takes, letting users wager on the outcome of questions or events using \"cred\", not real money (Meghan Bobrowsky/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261113/p26#a261113p26",
-     "pubDate": "Fri, 13 Nov 2026 15:05:01 -0500",
-     "summary": "Meghan Bobrowsky / Wall Street Journal : Sources: Meta staffers are testing a prediction-market app called Takes, letting users wager on the outcome of questions or events using &ldquo;cred&rdquo;, not real money &nbsp; &mdash;&nbsp; On the app, currently called Takes, employees can wager on the out",
-     "source": "Techmeme",
-     "zh": "Sources: Meta staffers are testing a prediction-market app called Takes, letting users wager on the outcome of questions or events using \"cred\", not real money (Meghan Bobrowsky/Wall Street Journal)"
     },
     {
      "title": "In elephants, the resilience of communities has its limits",
@@ -1985,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola Razr 50 Ultra's Android 17 update becomes available in Europe, with a catch",
+     "link": "https://www.gsmarena.com/motorola_razr_50_ultra_starts_getting_android_17_in_europe-news-75480.php",
+     "pubDate": "Fri, 13 Nov 2026 23:08:02 +0100",
+     "summary": "The Motorola Razr 50 Ultra, which is sold in the US as the Razr+ 2024, joined Motorola's Android 17 beta program back in April. Newer models like the Razr Ultra 2026 have since received the stable release, and now it's finally the two-year-old foldable's turn. A Razr 50 Ultra owner on Reddit says th",
+     "source": "GSMArena",
+     "zh": "Motorola Razr 50 Ultra's Android 17 update becomes available in Europe, with a catch"
+    },
     {
      "title": "What you should know before using Adobe’s latest photo-editing tools",
      "link": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
@@ -2216,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Microsoft is experiencing a major server outage affecting all its cloud services, including Outlook, Teams, Microsoft 365 (Business and Enterprise), Azure, OneNote, OneDrive, and Microsoft ToDo. Microsoft says a malicious cyberattack didn't cause the issue. A statement from the company basically say",
      "source": "GSMArena",
      "zh": "Microsoft Teams, Outlook, and 365 services are down, more than 12 hours now"
-    },
-    {
-     "title": "Motorola Signature 27's battery capacity in Germany is the same as other regions",
-     "link": "https://www.gsmarena.com/motorola_signature_27_battery_capacity_germany-news-75468.php",
-     "pubDate": "Fri, 13 Nov 2026 11:47:02 +0100",
-     "summary": "Motorola introduced the Signature 27 in September and fully unveiled it last week. The smartphone packs a 7,000 mAh battery. However, Motorola initially said it would come with a 5,500 mAh battery in Germany. Thankfully, that's not the case. That confirmation comes straight from Motorola Germany, wh",
-     "source": "GSMArena",
-     "zh": "Motorola Signature 27's battery capacity in Germany is the same as other regions"
     }
    ]
   },
@@ -2233,6 +2257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’",
+     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 22:10:00 GMT",
+     "summary": "Nearly 8,000 flights are delayed so far.",
+     "source": "MarketWatch",
+     "zh": "FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’"
+    },
     {
      "title": "Incyte won't move ahead with phase 3 trial of ovarian cancer asset",
      "link": "https://seekingalpha.com/news/4672698-incyte-wont-move-ahead-phase-3-trial-ovarian-cancer-asset?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2312,14 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
      "source": "MarketWatch",
      "zh": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
-    },
-    {
-     "title": "FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’",
-     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 22:00:00 GMT",
-     "summary": "Nearly 8,000 flights are delayed so far.",
-     "source": "MarketWatch",
-     "zh": "FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’"
     },
     {
      "title": "贝森特与美联储高官交锋：通胀源于能源冲击还是需求过热，美联储加息路径争论升温",

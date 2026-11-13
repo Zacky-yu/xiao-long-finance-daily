@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 05:16:11",
+ "generated_at": "2026/11/14 05:32:07",
  "recent_days": 7,
  "industries": [
   {
@@ -1762,12 +1762,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+     "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+     "pubDate": "Fri, 13 Nov 2026 21:08:49 +0000",
+     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 51 # Comments: 15",
+     "source": "Hacker News",
+     "zh": "FAA issues nationwide ground stop due to \"extraordinary circumstances\""
+    },
+    {
+     "title": "All US airports are currently ground stopped",
+     "link": "https://twitter.com/flightradar24/status/2121347654714077605",
+     "pubDate": "Fri, 13 Nov 2026 21:06:52 +0000",
+     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 34 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "All US airports are currently ground stopped"
+    },
+    {
+     "title": "FAA Issues National Ground Stop",
+     "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+     "pubDate": "Fri, 13 Nov 2026 21:05:53 +0000",
+     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111 Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 145 # Comments: 28",
+     "source": "Hacker News",
+     "zh": "FAA Issues National Ground Stop"
+    },
+    {
      "title": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump&apos;s name to get license approvals expedited (Semafor)",
      "link": "https://www.techmeme.com/261113/p29#a261113p29",
      "pubDate": "Fri, 13 Nov 2026 16:01:40 -0500",
      "summary": "Semafor : How Nvidia used a &ldquo;scorched earth, adversarial attitude&rdquo; targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited &nbsp; &mdash;&nbsp; THE SCOOP&nbsp; &mdash;&nbsp; In January, the general counsel for what was then the world's most",
      "source": "Techmeme",
      "zh": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump&apos;s name to get license approvals expedited (Semafor)"
+    },
+    {
+     "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+     "link": "https://atg.science/careers",
+     "pubDate": "Fri, 13 Nov 2026 21:01:11 +0000",
+     "summary": "Article URL: https://atg.science/careers Comments URL: https://news.ycombinator.com/item?id=50489589 Points: 0 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth"
     },
     {
      "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
@@ -1789,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Big tech is here to let us down",
      "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
      "pubDate": "Fri, 13 Nov 2026 20:20:30 +0000",
-     "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 26 # Comments: 7",
+     "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 94 # Comments: 57",
      "source": "Hacker News",
      "zh": "Big tech is here to let us down"
     },
@@ -1818,6 +1850,14 @@ window.INDUSTRY_DATA = {
      "zh": "In elephants, the resilience of communities has its limits"
     },
     {
+     "title": "Live-migration support in FreeBSD and bhyve coming",
+     "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+     "pubDate": "Fri, 13 Nov 2026 19:58:42 +0000",
+     "summary": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 19 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Live-migration support in FreeBSD and bhyve coming"
+    },
+    {
      "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
      "link": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
      "pubDate": "Fri, 13 Nov 2026 19:58:41 +0000",
@@ -1834,52 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites"
     },
     {
-     "title": "No AI Slop: A Manifesto",
-     "link": "https://www.slopmanifesto.com/",
-     "pubDate": "Fri, 13 Nov 2026 19:51:56 +0000",
-     "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 54 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "No AI Slop: A Manifesto"
-    },
-    {
      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
      "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
      "pubDate": "Fri, 13 Nov 2026 19:49:16 +0000",
      "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
      "source": "Ars Technica",
      "zh": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good"
-    },
-    {
-     "title": "Someone's Impersonating This Blog",
-     "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
-     "pubDate": "Fri, 13 Nov 2026 19:41:09 +0000",
-     "summary": "Article URL: https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/ Comments URL: https://news.ycombinator.com/item?id=50488664 Points: 37 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Someone's Impersonating This Blog"
-    },
-    {
-     "title": "Technology as a Search Problem",
-     "link": "https://www.construction-physics.com/p/technology-as-a-search-problem",
-     "pubDate": "Fri, 13 Nov 2026 19:27:15 +0000",
-     "summary": "Article URL: https://www.construction-physics.com/p/technology-as-a-search-problem Comments URL: https://news.ycombinator.com/item?id=50488490 Points: 10 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Technology as a Search Problem"
-    },
-    {
-     "title": "Found: A protein that drives ageing without unleashing inflammation",
-     "link": "https://www.nature.com/articles/d41586-026-03638-3",
-     "pubDate": "Fri, 13 Nov 2026 19:25:21 +0000",
-     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 27 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Found: A protein that drives ageing without unleashing inflammation"
-    },
-    {
-     "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-     "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-     "pubDate": "Fri, 13 Nov 2026 19:24:47 +0000",
-     "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 35 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Perplexity Decider v1.3: Training, eval, and use cases"
     },
     {
      "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
@@ -2010,6 +2010,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter",
+     "link": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
+     "pubDate": "Fri, 13 Nov 2026 21:23:59 +0000",
+     "summary": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection , delivering cameras, speakers, and more that bring the bulk of the functionality and processing directly to your home. more…",
+     "source": "9to5Google",
+     "zh": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter"
+    },
+    {
+     "title": "Google Pixel bug reveals hidden Private Space when switching between light and dark mode",
+     "link": "https://www.androidauthority.com/google-pixel-private-space-persistent-bug-3735167/",
+     "pubDate": "Fri, 13 Nov 2026 21:17:51 +0000",
+     "summary": "Google’s November update fixed plenty of bugs, but this Private Space issue wasn’t one of them.",
+     "source": "Android Authority",
+     "zh": "Google Pixel bug reveals hidden Private Space when switching between light and dark mode"
+    },
+    {
+     "title": "Nothing Headphone (a) with 135-hour battery is 45% off on Amazon",
+     "link": "https://www.androidauthority.com/nothing-headphone-a-black-friday-3735126/",
+     "pubDate": "Fri, 13 Nov 2026 21:14:23 +0000",
+     "summary": "Nothing's long-lasting over-ear headphones are $90 off, matching their all-time low on Amazon.",
+     "source": "Android Authority",
+     "zh": "Nothing Headphone (a) with 135-hour battery is 45% off on Amazon"
+    },
+    {
      "title": "Google gets ready to kill off Pixel 10 Magic Cue in favor of Proactive Assistance",
      "link": "https://www.androidauthority.com/google-kill-magic-cue-3735173/",
      "pubDate": "Fri, 13 Nov 2026 21:10:02 +0000",
@@ -2122,22 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more"
     },
     {
-     "title": "Google Wallet now lets Gemini analyze your spending and suggest ways to save",
-     "link": "https://www.androidauthority.com/google-wallet-gemini-integration-us-3735150/",
-     "pubDate": "Fri, 13 Nov 2026 18:42:12 +0000",
-     "summary": "Gemini now knows where your money goes, even when you don't.",
-     "source": "Android Authority",
-     "zh": "Google Wallet now lets Gemini analyze your spending and suggest ways to save"
-    },
-    {
-     "title": "Save 30% on a four-pack of Kasa Smart Plug Ultra Minis",
-     "link": "https://www.androidauthority.com/kasa-smart-plug-ultra-mini-amazon-deal-3735143/",
-     "pubDate": "Fri, 13 Nov 2026 18:11:55 +0000",
-     "summary": "Get $9 off four compact Wi-Fi plugs that work with Alexa and Google Assistant, no hub needed.",
-     "source": "Android Authority",
-     "zh": "Save 30% on a four-pack of Kasa Smart Plug Ultra Minis"
-    },
-    {
      "title": "9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available",
      "link": "https://9to5mac.com/2026/11/13/daily-november-13-2026/",
      "pubDate": "Fri, 13 Nov 2026 18:04:08 +0000",
@@ -2168,14 +2176,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Xiaomi 18 Pro series’ rear displays might actually be useful, after all. more…",
      "source": "9to5Google",
      "zh": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps"
-    },
-    {
-     "title": "Android Auto 18.2 update starts rolling out with more light mode teases",
-     "link": "https://9to5google.com/2026/11/13/android-auto-18-2-update-beta-release/",
-     "pubDate": "Fri, 13 Nov 2026 16:45:00 +0000",
-     "summary": "Google has started rolling out the Android Auto 18.2 update, but don’t expect much to change on your car’s display. more…",
-     "source": "9to5Google",
-     "zh": "Android Auto 18.2 update starts rolling out with more light mode teases"
     },
     {
      "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
@@ -2258,44 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Enveric Biosciences GAAP EPS of -$0.57",
-     "link": "https://seekingalpha.com/news/4672651-enveric-biosciences-gaap-eps-of-0_57?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:13:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Enveric Biosciences GAAP EPS of -$0.57"
+     "title": "FAA issues nationwide ground stop citing communication issues affecting ‘multiple’ air traffic control facilities",
+     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+     "pubDate": "Fri, 13 Nov 2026 21:28:07 GMT",
+     "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
+     "source": "CNBC",
+     "zh": "FAA issues nationwide ground stop citing communication issues affecting ‘multiple’ air traffic control facilities"
     },
     {
-     "title": "Freightos not in compliance with Nasdaq's minimum bid price requirement",
-     "link": "https://seekingalpha.com/news/4672644-freightos-not-in-compliance-with-nasdaqs-minimum-bid-price-requirement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:12:57 -0500",
+     "title": "Indaptus Therapeutics GAAP EPS of -$0.01",
+     "link": "https://seekingalpha.com/news/4672668-indaptus-therapeutics-gaap-eps-of-0_01?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:28:05 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Freightos not in compliance with Nasdaq's minimum bid price requirement"
+     "zh": "Indaptus Therapeutics GAAP EPS of -$0.01"
     },
     {
-     "title": "S&P 500 scores weekly advance despite Friday's tech-led decline",
-     "link": "https://seekingalpha.com/news/4672648-s-and-p-500-scores-weekly-advance-despite-fridays-tech-led-decline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:12:12 -0500",
+     "title": "Meta testing prediction market app \"Takes\"",
+     "link": "https://seekingalpha.com/news/4672623-meta-testing-prediction-market-app-takes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:27:41 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "S&P 500 scores weekly advance despite Friday's tech-led decline"
+     "zh": "Meta testing prediction market app \"Takes\""
     },
     {
-     "title": "VistaGen Therapeutics GAAP EPS of -$0.24 beats by $0.14, revenue of $0.14M misses by $0.11M",
-     "link": "https://seekingalpha.com/news/4672649-vistagen-therapeutics-gaap-eps-of-0_24-beats-by-0_14-revenue-of-0_14m-misses-by-0_11m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:10:47 -0500",
+     "title": "High Roller Technologies GAAP EPS of -$0.25, revenue of $2.4M misses by $0.6M",
+     "link": "https://seekingalpha.com/news/4672667-high-roller-technologies-gaap-eps-of-0_25-revenue-of-2_4m-misses-by-0_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:26:23 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "VistaGen Therapeutics GAAP EPS of -$0.24 beats by $0.14, revenue of $0.14M misses by $0.11M"
+     "zh": "High Roller Technologies GAAP EPS of -$0.25, revenue of $2.4M misses by $0.6M"
     },
     {
-     "title": "Cineverse reaffirms $115M-$120M FY2027 revenue outlook while targeting $10M-$20M adjusted EBITDA",
-     "link": "https://seekingalpha.com/news/4672647-cineverse-reaffirms-115m-120m-fy2027-revenue-outlook-while-targeting-10m-20m-adjusted-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:10:04 -0500",
+     "title": "Bitcoin could fall even further if investors cash out to buy into the Anthropic IPO",
+     "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 21:26:00 GMT",
+     "summary": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
+     "source": "MarketWatch",
+     "zh": "Bitcoin could fall even further if investors cash out to buy into the Anthropic IPO"
+    },
+    {
+     "title": "U.S. drilling rig count slips in latest Baker Hughes survey",
+     "link": "https://seekingalpha.com/news/4672656-u-s-drilling-rig-count-slips-in-latest-baker-hughes-survey?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:25:37 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Cineverse reaffirms $115M-$120M FY2027 revenue outlook while targeting $10M-$20M adjusted EBITDA"
+     "zh": "U.S. drilling rig count slips in latest Baker Hughes survey"
+    },
+    {
+     "title": "American Strategic Investment GAAP EPS of -$2.14, revenue of $7.1M",
+     "link": "https://seekingalpha.com/news/4672666-american-strategic-investment-gaap-eps-of-2_14-revenue-of-7_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:24:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "American Strategic Investment GAAP EPS of -$2.14, revenue of $7.1M"
+    },
+    {
+     "title": "AstraZeneca gains additional bladder cancer indication for Imfinzi",
+     "link": "https://seekingalpha.com/news/4672640-astrazeneca-gains-additional-bladder-cancer-indication-for-imfinzi?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:23:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AstraZeneca gains additional bladder cancer indication for Imfinzi"
+    },
+    {
+     "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+     "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+     "pubDate": "Fri, 13 Nov 2026 21:18:30 GMT",
+     "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+     "source": "CNBC",
+     "zh": "AI risks are the biggest threat to the financial system, Fed survey finds"
+    },
+    {
+     "title": "Agencies extend comment period for proposed third-party risk management guidance",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+     "pubDate": "Fri, 13 Nov 2026 21:15:00 GMT",
+     "summary": "Agencies extend comment period for proposed third-party risk management guidance",
+     "source": "Federal Reserve",
+     "zh": "Agencies extend comment period for proposed third-party risk management guidance"
     },
     {
      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
@@ -2306,14 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang"
     },
     {
-     "title": "FAA issues nationwide ground stop",
-     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-     "pubDate": "Fri, 13 Nov 2026 21:09:09 GMT",
-     "summary": "",
-     "source": "CNBC",
-     "zh": "FAA issues nationwide ground stop"
-    },
-    {
      "title": "The trillion-dollar mistake corporate America is making about retirement",
      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 21:09:00 GMT",
@@ -2322,12 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "The trillion-dollar mistake corporate America is making about retirement"
     },
     {
-     "title": "OpenAI dissolves stand-alone robotics team: report",
-     "link": "https://seekingalpha.com/news/4672622-openai-dissolves-stand-alone-robotics-team-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:08:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "OpenAI dissolves stand-alone robotics team: report"
+     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+     "pubDate": "Fri, 13 Nov 2026 21:04:43 GMT",
+     "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+     "source": "CNBC",
+     "zh": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning"
     },
     {
      "title": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?",
@@ -2346,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;"
     },
     {
-     "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-     "pubDate": "Fri, 13 Nov 2026 20:21:46 GMT",
-     "summary": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
-     "source": "CNBC",
-     "zh": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC"
-    },
-    {
      "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
      "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 20:19:00 GMT",
@@ -2368,14 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "Here’s what might be coming for Social Security, Medicare and long-term care.",
      "source": "MarketWatch",
      "zh": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’"
-    },
-    {
-     "title": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
-     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 20:00:00 GMT",
-     "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-     "source": "MarketWatch",
-     "zh": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?"
     },
     {
      "title": "Meta据悉正在员工内部测试一款新的预测市场应用",
@@ -2410,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理"
     },
     {
-     "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
-     "link": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
-     "pubDate": "Fri, 13 Nov 2026 19:30:36 GMT",
-     "summary": "By deploying a persistent covered call strategy, investors can leverage the exact fear driving the stock down to generate robust, risk-reducing income.",
-     "source": "CNBC",
-     "zh": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process"
-    },
-    {
      "title": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司",
      "link": "http://finance.eastmoney.com/news/1351,202611143931076747.html",
      "pubDate": "Sat, 14 Nov 2026 03:27:46 +0800",
@@ -2429,7 +2437,7 @@ window.INDUSTRY_DATA = {
      "title": "美股走势分化 纳指跌近1% 费城半导体指数跌近4% 英伟达跌超2%",
      "link": "http://finance.eastmoney.com/news/1345,202611133931007038.html",
      "pubDate": "Sat, 14 Nov 2026 03:26:06 +0800",
-     "summary": "美东时间周五，美股三大指数涨跌不一，截至发稿，道琼斯指数涨0.02%， 纳斯达克 综合 指数跌0.90% ， 标普500指数 跌 0.49%。 费城 半导体 指数跌近4%， 英伟达 高开低走，跌幅超2%；AMD跌超10%， 博通 跌超5%， SK海力士 跌超5%。 苹果 涨近1%，股价再创 历史新高 。 AI芯片 公司Cerebras涨超11%。公司第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。 全球要闻 海湾石油出口强势反弹 全球油市八个月来首次供过于求 自中东战争爆发以来，全球石油市场首次转向供应过剩。但分析师警告称，要恢复此前大幅消耗的石油库存，仍需数月时间。根据国际能源署（I",
+     "summary": "美东时间周五，美股三大指数涨跌不一，截至收盘，道指涨0.1%，纳指跌0.91%，标普500指数跌0.4%。 芯片股下挫，费城 半导体 指数跌3.43%，AMD跌超8%， 闪迪 、 西部数据 跌超5%， 博通 、ARM跌超4%， 拉姆研究 、 希捷科技 跌超3%。 美股“科技七巨头”涨跌不一，Meta Platforms涨2.90%， 苹果 涨0.39%， 微软 涨0.17%， 亚马逊 跌0.29%，谷歌跌0.96%， 特斯拉 跌1.82%， 英伟达 跌2%。 英伟达 股价本周下跌13%，创2025年4月以来最大单周跌幅，并且为连续第六周下跌，创2012年以来最长连跌纪录，本周市值蒸发逾5730",
      "source": "东方财富股票",
      "zh": "美股走势分化 纳指跌近1% 费城半导体指数跌近4% 英伟达跌超2%"
     },
@@ -2488,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "High turnout and viral ads helped propel him to victory in a deeply conservative state that hasn’t had a Black senator since 1881",
      "source": "Financial Times",
      "zh": "Scott Colom: the Democrat who conquered the reddest of red states"
-    },
-    {
-     "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
-     "pubDate": "Fri, 13 Nov 2026 11:57:00 -0500",
-     "summary": "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-based and materiality-driven, providing investors with clearer, more concise, and less complex…",
-     "source": "SEC",
-     "zh": "SEC Proposes Executive and Director Compensation Disclosure Reforms"
     }
    ]
   },

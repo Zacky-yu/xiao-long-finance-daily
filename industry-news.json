@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 00:32:11",
+ "generated_at": "2026/11/14 00:38:54",
  "recent_days": 7,
  "industries": [
   {
@@ -257,14 +257,6 @@
    "total": 9,
    "items": [
     {
-     "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 15:17:38 +0000",
-     "summary": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
-     "source": "Electronics Weekly",
-     "zh": "Jedec creates Subcommittee to address System Level Reliability Testing"
-    },
-    {
      "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
      "link": "https://www.eetimes.com/newspace-grade-nor-flash-right-sized-reliability-for-space-missions/",
      "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
@@ -281,22 +273,6 @@
      "zh": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage"
     },
     {
-     "title": "Technologies Which Died",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 14:05:31 +0000",
-     "summary": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Technologies Which Died"
-    },
-    {
-     "title": "Electronica: Renesas adds Xplorer Developer Hub",
-     "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 13:58:00 +0000",
-     "summary": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Renesas adds Xplorer Developer Hub"
-    },
-    {
      "title": "Jensen Huang and the Cost of Unchecked Influence",
      "link": "https://semiwiki.com/semiconductor-manufacturers/376254-jensen-huang-and-the-accountability-crisis-at-nvidia/",
      "pubDate": "Fri, 13 Nov 2026 13:00:18 +0000",
@@ -305,36 +281,12 @@
      "zh": "Jensen Huang and the Cost of Unchecked Influence"
     },
     {
-     "title": "Electronica – The latest news roundup",
-     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:12:27 +0000",
-     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Electronica – The latest news roundup"
-    },
-    {
-     "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:09:27 +0000",
-     "summary": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications"
-    },
-    {
      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
      "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
      "pubDate": "Fri, 13 Nov 2026 10:41:03 +0000",
      "summary": "NOVOSENSE NovoGenius MCU+ chips integrate analog, power, and drivers, adding intelligence to automotive edge nodes for motor control, sensing and lighting. The post How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node appeared first on EE Times .",
      "source": "EE Times",
      "zh": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node"
-    },
-    {
-     "title": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK",
-     "link": "https://www.electronicsweekly.com/news/design/stem/stem-for-space-uk-space-agency-invests-4-5m-for-esero-uk-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 10:08:56 +0000",
-     "summary": "The UK Space Agency (UKSA) is partnering with the European Space Agency (ESA) for the latest ESERO-UK programme. Investing £4.5 million, the programme aims to inspire young people into space […] The post STEM for space – UK Space Agency invests £4.5m for ESERO-UK appeared first on Electronics Weekly",
-     "source": "Electronics Weekly",
-     "zh": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK"
     },
     {
      "title": "<new>",
@@ -495,6 +447,54 @@
      "summary": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI"
+    },
+    {
+     "title": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall",
+     "link": "https://semiengineering.com/designing-edge-ai-socs-at-near-threshold-why-foundation-ip-can-help-you-break-down-the-power-wall/",
+     "pubDate": "Thu, 12 Nov 2026 08:05:04 +0000",
+     "summary": "Traditional voltage scaling is no longer sufficient to deliver real-time performance within tight energy and thermal limits. The post Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall"
+    },
+    {
+     "title": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB",
+     "link": "https://semiwiki.com/eda/yieldhub/375794-cto-interview-kevin-robinson-vp-of-operations-yieldhub/",
+     "pubDate": "Wed, 11 Nov 2026 20:00:08 +0000",
+     "summary": "Kevin Robinson is VP of Operations at yieldHUB, where he leads global operations, program delivery, and customer execution. He oversees structured onboarding, customer delivery, and the scalability of yieldHUB’s operations worldwide. Kevin brings more than 25 years of semiconductor experience across",
+     "source": "SemiWiki",
+     "zh": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB"
+    },
+    {
+     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
+     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
+    },
+    {
+     "title": "JX and OXIDE enter into capital and business alliance agreement",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/jx-oxide-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:39:19 GMT",
+     "summary": "Tokyo-based JX Advanced Metals Corp and OXIDE Corp of Yamanashi, Japan (which specializes in optical crystals and frequency-conversion technology) have entered into a capital and business alliance agreement. JX plans to subscribe for shares to be issued by OXIDE through a third-party allotment and a",
+     "source": "Semiconductor Today",
+     "zh": "JX and OXIDE enter into capital and business alliance agreement"
+    },
+    {
+     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
+     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
+     "source": "Semiconductor Today",
+     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -849,20 +849,20 @@
    "total": 9,
    "items": [
     {
+     "title": "India's Road Fuel Demand Won't Peak Until 2034",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Road-Fuel-Demand-Wont-Peak-Until-2034.html",
+     "pubDate": "Fri, 13 Nov 2026 10:30:00 -0600",
+     "summary": "India’s fuel demand for road transportation is nearly a decade away from peaking despite rising sales of electric two- and three-wheelers, as commercial transport and conventional fleets will keep using greater volumes of gasoline and diesel, BloombergNEF has said. India’s fuel demand for road trans",
+     "source": "OilPrice",
+     "zh": "India's Road Fuel Demand Won't Peak Until 2034"
+    },
+    {
      "title": "Germany Is Dismantling a Nord Stream Power Plant for Ukraine",
      "link": "https://oilprice.com/Energy/Energy-General/Germany-Is-Dismantling-a-Nord-Stream-Power-Plant-for-Ukraine.html",
      "pubDate": "Fri, 13 Nov 2026 10:10:00 -0600",
      "summary": "A power plant built at the landfall of the Nord Stream gas pipelines in northeastern Germany was shut down after the pipelines were sabotaged. Now the facility is being dismantled and sent to Ukraine. The Greifswald industrial power plant in Lubmin is majority owned by Germany’s Securing Energy for ",
      "source": "OilPrice",
      "zh": "Germany Is Dismantling a Nord Stream Power Plant for Ukraine"
-    },
-    {
-     "title": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman",
-     "link": "https://www.pv-tech.org/drinda-jietai-scraps-5gw-topcon-cell-manufacturing-facility-oman/",
-     "pubDate": "Fri, 13 Nov 2026 15:44:18 +0000",
-     "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
-     "source": "PV Tech",
-     "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
     },
     {
      "title": "Shinsung E&G unveils 650 W bifacial TOPCon solar modules with 23.25% efficiency",
@@ -945,44 +945,12 @@
      "zh": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz"
     },
     {
-     "title": "Metlen starts construction at 252MW/375MWh solar-plus-storage plant in Greece",
-     "link": "https://www.pv-tech.org/metlen-starts-construction-at-252mw-375mwh-solar-plus-storage-plant-in-greece/",
-     "pubDate": "Fri, 13 Nov 2026 12:42:19 +0000",
-     "summary": "Greek developer Metlen Energy and Metals and Greek maritime company Tsakos Group have started construction at a 251.9MW solar-plus-storage project in Greece.",
-     "source": "PV Tech",
-     "zh": "Metlen starts construction at 252MW/375MWh solar-plus-storage plant in Greece"
-    },
-    {
-     "title": "DS1 takes on construction of Lithuania’s ‘largest’ PV project",
-     "link": "https://www.pv-tech.org/ds1-builds-300mw-jonova-pv-lithuania-energix/",
-     "pubDate": "Fri, 13 Nov 2026 12:34:32 +0000",
-     "summary": "Energy infrastructure contractor DS1 has been tasked with constructing a 300MW PV power plant in Lithuania, billed as the Baltic country’s largest.",
-     "source": "PV Tech",
-     "zh": "DS1 takes on construction of Lithuania’s ‘largest’ PV project"
-    },
-    {
-     "title": "Nvidia Spy Scandal Threatens the Gulf’s AI Ambitions",
-     "link": "https://oilprice.com/Energy/Energy-General/Nvidia-Spy-Scandal-Threatens-the-Gulfs-AI-Ambitions.html",
-     "pubDate": "Fri, 13 Nov 2026 06:30:00 -0600",
-     "summary": "Politics, Geopolitics & Conflict A car bomb killed the chief navigator of Russia’s St. Petersburg-based 6th Guards Air and Air Defence Forces Army on Thursday morning, a day after Ukrainian drones set an oil terminal at Ust-Luga on fire and forced flight restrictions at St. Petersburg’s Pulkovo airp",
-     "source": "OilPrice",
-     "zh": "Nvidia Spy Scandal Threatens the Gulf’s AI Ambitions"
-    },
-    {
      "title": "Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market",
      "link": "https://www.energy-storage.news/toll-makes-way-for-floor-offtake-contracting-beginning-to-standardise-in-uk-bess-market/",
      "pubDate": "Fri, 13 Nov 2026 12:24:56 +0000",
      "summary": "Floors are increasingly the offtake structure of choice in the UK market, and the contracting for them is beginning to standardise, industry experts said.",
      "source": "Energy Storage News",
      "zh": "Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market"
-    },
-    {
-     "title": "US midterms: Data centre backlash could slow solar’s AI boom",
-     "link": "https://www.pv-tech.org/us-midterms-data-centre-backlash-could-slow-solars-ai-boom/",
-     "pubDate": "Fri, 13 Nov 2026 12:08:37 +0000",
-     "summary": "As US voters backed data centre moratoriums in the midterms, this raises questions over solar PV's AI-linked growth in the years ahead.",
-     "source": "PV Tech",
-     "zh": "US midterms: Data centre backlash could slow solar’s AI boom"
     },
     {
      "title": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
@@ -1009,28 +977,12 @@
      "zh": "Dark clouds gather over Germany’s solar sector"
     },
     {
-     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
-     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
-     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
-     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
-     "source": "PV Tech",
-     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
-    },
-    {
      "title": "Sodium-ion batteries close gap with lithium-ion as utility-scale storage opportunities grow",
      "link": "https://www.pv-magazine.com/2026/11/13/sodium-ion-batteries-close-gap-with-lithium-ion-as-utility-scale-storage-opportunities-grow/",
      "pubDate": "Fri, 13 Nov 2026 10:37:49 +0000",
      "summary": "Sodium-ion batteries are approaching lithium-ion performance in key areas, with commercial cells reaching energy densities of 175 Wh/kg and offering strong low-temperature performance. Silvia Bodoardo, professor at the Polytechnic University of Turin, told pv magazine that utility-scale energy stora",
      "source": "pv magazine",
      "zh": "Sodium-ion batteries close gap with lithium-ion as utility-scale storage opportunities grow"
-    },
-    {
-     "title": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South Africa",
-     "link": "https://www.pv-tech.org/ja-supply-n-type-modules-teracos-120mw-sediba-solar-project-south-africa/",
-     "pubDate": "Fri, 13 Nov 2026 10:26:53 +0000",
-     "summary": "Teraco has selected JA to deliver n-type solar PV modules to its 120MW Sediba solar PV project in Parys, Free State province, South Africa.",
-     "source": "PV Tech",
-     "zh": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South Africa"
     },
     {
      "title": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
@@ -1087,6 +1039,54 @@
      "summary": "Democrats Must Fight to Fix Draft Legislation Washington, DC — Following Monday’s vote to open debate on the legislation, a number of Senate Democrats called for an amendment process to fix the “Bipartisan American Affordability and Jobs Act of 2026.” However, on November 11th, Republicans began the",
      "source": "CleanTechnica",
      "zh": "Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It"
+    },
+    {
+     "title": "Hoosiers Call on EPA Not to Weaken Coal Ash Rules at Public Hearing",
+     "link": "https://cleantechnica.com/2026/11/12/hoosiers-call-on-epa-not-to-weaken-coal-ash-rules-at-public-hearing/",
+     "pubDate": "Fri, 13 Nov 2026 03:20:50 +0000",
+     "summary": "INDIANAPOLIS — Today, Hoosiers turned out to speak against toxic coal ash pollution at the EPA’s public hearing on Indiana’s proposed Coal Ash permitting program, which would allow the state to disregard federal protections for communities in favor of statewide rules that would provide fewer safegua",
+     "source": "CleanTechnica",
+     "zh": "Hoosiers Call on EPA Not to Weaken Coal Ash Rules at Public Hearing"
+    },
+    {
+     "title": "Ohio GOP circulates bill that would stymie coal plant closures",
+     "link": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
+     "pubDate": "Thu, 12 Nov 2026 17:00:00 -0500",
+     "summary": "Republican lawmakers in Ohio are circulating a plan to keep coal plants open, even if an owner has a contractual obligation to close a facility. And they hope to pass it fast, before the new Democratic governor-elect, Amy Acton, takes office. A draft bill obtained by Canary Media would block coal-fi",
+     "source": "Canary Media",
+     "zh": "Ohio GOP circulates bill that would stymie coal plant closures"
+    },
+    {
+     "title": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia",
+     "link": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/",
+     "pubDate": "Thu, 12 Nov 2026 21:12:52 +0000",
+     "summary": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW.",
+     "source": "Energy Storage News",
+     "zh": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia"
+    },
+    {
+     "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
+     "link": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
+     "pubDate": "Thu, 12 Nov 2026 13:25:33 -0500",
+     "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base that is expected to supply almost a quarter of 2027 consumption, EIA said.",
+     "source": "Utility Dive",
+     "zh": "As coal burn declines, rising power demand will be primarily met by renewables: EIA"
+    },
+    {
+     "title": "ConEd joins utilities seeking to loosen New York restrictions on owning generation",
+     "link": "https://www.utilitydive.com/news/coned-says-resource-adequacy-environmental-compliance-drive-planning/874511/",
+     "pubDate": "Thu, 12 Nov 2026 11:05:13 -0500",
+     "summary": "The company says reforms would boost renewables and help it achieve resource adequacy and environmental compliance targets. It has also asked regulators to expand distribution and transmission-connected storage options.",
+     "source": "Utility Dive",
+     "zh": "ConEd joins utilities seeking to loosen New York restrictions on owning generation"
+    },
+    {
+     "title": "Around 400 onshore wind projects await DOD action, official tells court",
+     "link": "https://www.utilitydive.com/news/around-400-onshore-wind-projects-await-dod-action-official-says-in-court/874521/",
+     "pubDate": "Thu, 12 Nov 2026 10:48:08 -0500",
+     "summary": "Assistant Secretary of Defense&nbsp;Dale Marks told a federal court that the Pentagon doesn&rsquo;t have enough staff to review permits. A coalition suing DOD says the process ground &ldquo;to a halt&rdquo; after Marks was confirmed.",
+     "source": "Utility Dive",
+     "zh": "Around 400 onshore wind projects await DOD action, official tells court"
     }
    ]
   },
@@ -1096,6 +1096,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Windward Bio hits Nasdaq with $175M IPO, plus another $50M from Sanofi",
+     "link": "https://endpoints.news/windward-bio-hits-nasdaq-with-175m-ipo-plus-another-50m-from-sanofi/",
+     "pubDate": "Fri, 13 Nov 2026 16:30:30 +0000",
+     "summary": "Windward Bio, a biotech developing drugs for respiratory diseases, made its public debut after putting together $175 million in its IPO. The company began trading Friday with an initial share price {$WWB} of $17 apiece ...",
+     "source": "Endpoints News",
+     "zh": "Windward Bio hits Nasdaq with $175M IPO, plus another $50M from Sanofi"
+    },
     {
      "title": "Moderna readies commercial cancer vaccine production ahead of FDA filing",
      "link": "https://endpoints.news/moderna-readies-commercial-cancer-vaccine-production-ahead-of-fda-filing/",
@@ -1231,14 +1239,6 @@
      "summary": "Following President Donald Trump’s executive order in the spring to make psychedelics research a priority, HHS on Thursday announced a flurry of new funding and studies into the field, with a special focus on ibogaine. ...",
      "source": "Endpoints News",
      "zh": "HHS directs new funds, research for psychedelics work"
-    },
-    {
-     "title": "Rezera postpones a planned $200M IPO shortly before expected debut",
-     "link": "https://endpoints.news/rezera-postpones-a-planned-200m-ipo-shortly-before-expected-debut/",
-     "pubDate": "Thu, 12 Nov 2026 19:52:42 +0000",
-     "summary": "Rezera, a biotech developing drugs for cardio and inflammatory diseases, has delayed its IPO that was scheduled for Friday, a company spokesperson confirmed to Endpoints News. The spokesperson cited “current market conditions” as the reason ...",
-     "source": "Endpoints News",
-     "zh": "Rezera postpones a planned $200M IPO shortly before expected debut"
     },
     {
      "title": "Neuroprotective Protein Atlas Positions the Blood-Brain Barrier as a Selective Checkpoint",
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+     "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+     "pubDate": "Fri, 13 Nov 2026 16:26:32 +0000",
+     "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+     "source": "Ars Technica",
+     "zh": "Windows 0-day dropped by disgruntled researcher hands hackers System rights"
+    },
+    {
      "title": "Paytm gets tentative approval to revive its digital wallet, which effectively died after India&apos;s central bank canceled Paytm Payments Bank&apos;s license in April (Sankalp Phartiyal/Bloomberg)",
      "link": "https://www.techmeme.com/261113/p16#a261113p16",
      "pubDate": "Fri, 13 Nov 2026 11:25:03 -0500",
@@ -1991,14 +1999,6 @@
      "summary": "\"You can simplify it as a big tank feeding engines.\"",
      "source": "Ars Technica",
      "zh": "Rocket Report: Starship set for historic test flight; a century of Electron"
-    },
-    {
-     "title": "TCL QM7L Mini-LED TV Review (2026)",
-     "link": "https://www.wired.com/review/tcl-qm7l/",
-     "pubDate": "Fri, 13 Nov 2026 12:00:00 +0000",
-     "summary": "$1,500 buys you vibrant color, deep blacks, and a fast screen fit for just about anything. Just be sure the wide pedestal fits your setup.",
-     "source": "WIRED",
-     "zh": "TCL QM7L Mini-LED TV Review (2026)"
     }
    ]
   },
@@ -2257,6 +2257,62 @@
    "total": 13,
    "items": [
     {
+     "title": "Microsoft says email delivery and service availability &apos;improving&apos; across more infrastructure",
+     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+     "pubDate": "Fri, 13 Nov 2026 16:35:48 GMT",
+     "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+     "source": "CNBC",
+     "zh": "Microsoft says email delivery and service availability &apos;improving&apos; across more infrastructure"
+    },
+    {
+     "title": "Benitec GAAP EPS of -$0.26 beats by $0.03",
+     "link": "https://seekingalpha.com/news/4672522-benitec-gaap-eps-of-0_26-beats-by-0_03?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 11:32:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Benitec GAAP EPS of -$0.26 beats by $0.03"
+    },
+    {
+     "title": "From radiators to riches: Modine's data center pivot makes it an attractive target",
+     "link": "https://seekingalpha.com/news/4672369-from-radiators-to-riches-modines-data-center-pivot-makes-it-an-attractive-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 11:32:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "From radiators to riches: Modine's data center pivot makes it an attractive target"
+    },
+    {
+     "title": "Silexion Therapeutics GAAP EPS of -$13.70",
+     "link": "https://seekingalpha.com/news/4672521-silexion-therapeutics-gaap-eps-of-13_70?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 11:31:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Silexion Therapeutics GAAP EPS of -$13.70"
+    },
+    {
+     "title": "GH Research GAAP EPS of -$0.18 beats by $0.13",
+     "link": "https://seekingalpha.com/news/4672520-gh-research-gaap-eps-of-0_18-beats-by-0_13?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 11:30:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GH Research GAAP EPS of -$0.18 beats by $0.13"
+    },
+    {
+     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 16:30:00 GMT",
+     "summary": "There is already a demographic ‘run’ on Social Security.",
+     "source": "MarketWatch",
+     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
+    },
+    {
+     "title": "NeXGold Mining Corp. GAAP EPS of -C$0.07",
+     "link": "https://seekingalpha.com/news/4672518-nexgold-mining-corp-gaap-eps-of-c007?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 11:29:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NeXGold Mining Corp. GAAP EPS of -C$0.07"
+    },
+    {
      "title": "高盛2027年全球市场展望：AI投资冲动见顶，成长的烦恼来袭",
      "link": "https://wallstreetcn.com/articles/3785910",
      "pubDate": "Sat, 14 Nov 2026 00:28:24 +0800",
@@ -2265,12 +2321,12 @@
      "zh": "高盛2027年全球市场展望：AI投资冲动见顶，成长的烦恼来袭"
     },
     {
-     "title": "SPAR Non-GAAP EPS of $0.01, revenue of $33.5M",
-     "link": "https://seekingalpha.com/news/4672514-spar-non-gaap-eps-of-0_01-revenue-of-33_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 11:26:19 -0500",
+     "title": "IRulya Therapeutics GAAP EPS of -$2.31 beats by $0.82",
+     "link": "https://seekingalpha.com/news/4672517-irulya-therapeutics-gaap-eps-of-231-beats-by-082?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 11:28:09 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "SPAR Non-GAAP EPS of $0.01, revenue of $33.5M"
+     "zh": "IRulya Therapeutics GAAP EPS of -$2.31 beats by $0.82"
     },
     {
      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
@@ -2279,94 +2335,6 @@
      "summary": "Nvidia has wiped out $657 billion in market capitalization this week — its sixth consecutive week of stock declines.",
      "source": "MarketWatch",
      "zh": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?"
-    },
-    {
-     "title": "PDS Biotechnology GAAP EPS of -$0.11 misses by $0.02",
-     "link": "https://seekingalpha.com/news/4672513-pds-biotechnology-gaap-eps-of-0_11-misses-by-0_02?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 11:25:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PDS Biotechnology GAAP EPS of -$0.11 misses by $0.02"
-    },
-    {
-     "title": "MetaVia GAAP EPS of -$0.69 beats by $0.04",
-     "link": "https://seekingalpha.com/news/4672512-metavia-gaap-eps-of-0_69-beats-by-0_04?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 11:24:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MetaVia GAAP EPS of -$0.69 beats by $0.04"
-    },
-    {
-     "title": "欧洲央行管委纳格尔 定价链早期阶段显示存在上行压力 潜在通胀仍处高位",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931059077.html",
-     "pubDate": "Sat, 14 Nov 2026 00:23:50 +0800",
-     "summary": "欧洲央行管委纳格尔：定价链早期阶段显示存在上行压力。潜在通胀仍处高位。短期通胀预期已上升。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "欧洲央行管委纳格尔 定价链早期阶段显示存在上行压力 潜在通胀仍处高位"
-    },
-    {
-     "title": "Careful adjustment of policy is appropriate, says Susan Collins on 50 bps rate hike",
-     "link": "https://seekingalpha.com/news/4672436-careful-adjustment-of-policy-is-appropriate-says-susan-collins-on-50-bps-rate-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 11:23:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Careful adjustment of policy is appropriate, says Susan Collins on 50 bps rate hike"
-    },
-    {
-     "title": "Lifeward GAAP EPS of -$1.32 misses by $0.50, revenue of $5.43M misses by $1.81M",
-     "link": "https://seekingalpha.com/news/4672511-lifeward-gaap-eps-of-1_32-misses-by-0_50-revenue-of-5_43m-misses-by-1_81m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 11:22:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lifeward GAAP EPS of -$1.32 misses by $0.50, revenue of $5.43M misses by $1.81M"
-    },
-    {
-     "title": "Anthropic’s IPO to be ‘a bellwether moment’ for the markets – Gary Cohn",
-     "link": "https://seekingalpha.com/news/4672510-anthropic-s-ipo-to-be-a-bellwether-moment-for-the-markets-gary-cohn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 11:22:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic’s IPO to be ‘a bellwether moment’ for the markets – Gary Cohn"
-    },
-    {
-     "title": "欧洲央行管委兼德国央行行长Nagel：欧洲央行再次行动的可能性很高",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931059168.html",
-     "pubDate": "Sat, 14 Nov 2026 00:22:15 +0800",
-     "summary": "欧洲央行管委兼德国央行行长Nagel：欧洲央行再次行动的可能性很高。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "欧洲央行管委兼德国央行行长Nagel：欧洲央行再次行动的可能性很高"
-    },
-    {
-     "title": "委内瑞拉国家石油公司 佩拉海上天然气项目增量产量将经管道出口哥伦比亚",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931058070.html",
-     "pubDate": "Sat, 14 Nov 2026 00:20:54 +0800",
-     "summary": "委内瑞拉国家石油公司（PDVSA）负责人表示，根据新协议，委内瑞拉佩拉海上 天然气 项目的增量产量将通过管道出口至哥伦比亚。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "委内瑞拉国家石油公司 佩拉海上天然气项目增量产量将经管道出口哥伦比亚"
-    },
-    {
-     "title": "法国极右翼总统候选人勒庞准备与乌克兰总统泽连斯基会面 并提议在布鲁塞尔举行",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931057961.html",
-     "pubDate": "Sat, 14 Nov 2026 00:19:14 +0800",
-     "summary": "法国极右翼总统候选人勒庞准备与乌克兰总统泽连斯基会面，并提议在布鲁塞尔举行。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "法国极右翼总统候选人勒庞准备与乌克兰总统泽连斯基会面 并提议在布鲁塞尔举行"
-    },
-    {
-     "title": "利扬芯片拟斥资3.06亿元收购众望达51%股权 标的主营光通讯、光芯片测试领域仪器仪表",
-     "link": "http://stock.eastmoney.com/news/11134,202611143931058697.html",
-     "pubDate": "Sat, 14 Nov 2026 00:18:30 +0800",
-     "summary": "11月13日， 利扬芯片 （688135.SH）发布公告称，公司与深圳市众望达光电有限公司股东郑鸿章、邓荣辉签署股权收购协议，拟以现金方式收购众望达51%股权，交易对价为3.06亿元，本次交易对应众望达整体估值为6亿元。交易完成后，众望达将成为 利扬芯片 的控股子公司。据披露，众望达专注于光通讯、有源及无源模块、光芯片测试领域的 仪器仪表 的研发、生产与销售，本次收购契合公司现有主业未来聚焦“光存算”测试领域的战略布局方向。本次交易完成后，双方将在技术研发、产品方案及研发制造等层面形成系统性协同。（央广财经） （文章来源：央广财经）",
-     "source": "东方财富股票",
-     "zh": "利扬芯片拟斥资3.06亿元收购众望达51%股权 标的主营光通讯、光芯片测试领域仪器仪表"
-    },
-    {
-     "title": "*ST准油：隋卓明辞去董事长等全部职务",
-     "link": "http://stock.eastmoney.com/news/11215,202611143931057644.html",
-     "pubDate": "Sat, 14 Nov 2026 00:18:30 +0800",
-     "summary": "11月13日， *ST准油 （002207.SZ）对外披露公告，隋卓明因个人原因辞去公司第八届董事会董事长、董事及董事会战略发展委员会主任委员、委员职务，辞职后不在公司及子公司担任任何职务。本次辞职不会导致公司董事会成员低于法定人数，不会对公司董事会正常工作、规范运作及正常生产经营造成影响。隋卓明不持有公司股票，公司将按照相关规定尽快完成董事补选、新任董事长选举及董事会专门委员会架构完善等工作。（央广财经） （文章来源：央广财经）",
-     "source": "东方财富股票",
-     "zh": "*ST准油：隋卓明辞去董事长等全部职务"
     },
     {
      "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
@@ -2383,6 +2351,14 @@
      "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
      "source": "CNBC",
      "zh": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China"
+    },
+    {
+     "title": "2027见闻历，财经人的桌面必备“神历”",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Sat, 14 Nov 2026 00:03:32 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
@@ -2425,14 +2401,6 @@
      "zh": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years"
     },
     {
-     "title": "Microsoft Outlook outage stretches into a second day, causing widespread disruption",
-     "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 15:44:00 GMT",
-     "summary": "The outage could result in a $100 million to $400 million negative impact to Microsoft if the company offers credits and other compensation to customers, one analyst said.",
-     "source": "MarketWatch",
-     "zh": "Microsoft Outlook outage stretches into a second day, causing widespread disruption"
-    },
-    {
      "title": "OpenAI推出ChatGPT钱包，AI智能体可代表用户购物付款",
      "link": "https://wallstreetcn.com/articles/3785909",
      "pubDate": "Fri, 13 Nov 2026 23:43:04 +0800",
@@ -2473,14 +2441,6 @@
      "zh": "German banks form financial crime fighting JV"
     },
     {
-     "title": "Microsoft says email queues &apos;approaching normal levels&apos; as Outlook issues persist",
-     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-     "pubDate": "Fri, 13 Nov 2026 15:10:20 GMT",
-     "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-     "source": "CNBC",
-     "zh": "Microsoft says email queues &apos;approaching normal levels&apos; as Outlook issues persist"
-    },
-    {
      "title": "贝森特：不应因能源冲击而加息，继续施压伊朗，英伟达能摆脱黄仁勋继续发展",
      "link": "https://wallstreetcn.com/articles/3785907",
      "pubDate": "Fri, 13 Nov 2026 23:08:33 +0800",
@@ -2489,12 +2449,52 @@
      "zh": "贝森特：不应因能源冲击而加息，继续施压伊朗，英伟达能摆脱黄仁勋继续发展"
     },
     {
-     "title": "见闻历11.11大促最后1小时！买日历送超千元知识礼包，送什么都不如送“搞钱的智慧”！",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Fri, 13 Nov 2026 22:53:55 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "见闻历11.11大促最后1小时！买日历送超千元知识礼包，送什么都不如送“搞钱的智慧”！"
+     "title": "Lloyds appoints Manija Poulatova as group chief security officer",
+     "link": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 13 Nov 2026 14:43:00 GMT",
+     "summary": "Lloyds Banking Group has promoted former Googler Manija Poulatova to group chief security officer.",
+     "source": "Finextra",
+     "zh": "Lloyds appoints Manija Poulatova as group chief security officer"
+    },
+    {
+     "title": "Chicago Fed&apos;s Goolsbee says central bank &apos;has definitely got work to do&apos; on inflation",
+     "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+     "pubDate": "Fri, 13 Nov 2026 14:22:07 GMT",
+     "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
+     "source": "CNBC",
+     "zh": "Chicago Fed&apos;s Goolsbee says central bank &apos;has definitely got work to do&apos; on inflation"
+    },
+    {
+     "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
+     "link": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
+     "pubDate": "Fri, 13 Nov 2026 14:11:36 GMT",
+     "summary": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal",
+     "source": "Financial Times",
+     "zh": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed"
+    },
+    {
+     "title": "经济观察报 第1296期",
+     "link": "http://www.eeo.com.cn/2026/1113/1092494.shtml",
+     "pubDate": "Fri, 13 Nov 2026 21:43:12 +0800",
+     "summary": "经济观察报 第1296期",
+     "source": "经济观察网",
+     "zh": "经济观察报 第1296期"
+    },
+    {
+     "title": "Will Jensen Huang sell his $135bn of stock?",
+     "link": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1",
+     "pubDate": "Fri, 13 Nov 2026 13:22:54 GMT",
+     "summary": "Any attempt by Nvidia co-founder to offload his shares would unnerve investors but is fraught with legal and price risks",
+     "source": "Financial Times",
+     "zh": "Will Jensen Huang sell his $135bn of stock?"
+    },
+    {
+     "title": "Jensen Huang’s years-long effort to get close to China",
+     "link": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
+     "pubDate": "Fri, 13 Nov 2026 12:36:28 GMT",
+     "summary": "Former Nvidia chief executive is facing intense scrutiny over ties to Beijing",
+     "source": "Financial Times",
+     "zh": "Jensen Huang’s years-long effort to get close to China"
     }
    ]
   },

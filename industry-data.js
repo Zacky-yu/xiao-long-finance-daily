@@ -74,28 +74,12 @@ window.INDUSTRY_DATA = {
      "zh": "为Agent全生命周期量身定制！海光掏出全家桶方案，打通Agent落地每一层"
     },
     {
-     "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
-     "link": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
-     "pubDate": "Fri, 13 Nov 2026 10:32:26 +0000",
-     "summary": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first",
-     "source": "MarkTechPost",
-     "zh": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs"
-    },
-    {
      "title": "88比12！在攻克癌症这件事上，垂类AI比国际主流通用大模型和人类医生都在行？",
      "link": "https://zhidx.com/p/609636.html",
      "pubDate": "Fri, 13 Nov 2026 18:00:12 +0800",
      "summary": "智东西 作者 | 王涵 编辑 | 漠影 攻克癌症一直是全球医学界最重大的命题之一，现在这一目标也被AI盯上了。 近期，生物医药公司Generate Biomedicines借助Claude Code重新设计CAR-T疗法中的细胞内信号结构域，尝试在缩短组件长度的同时提升免疫细胞活性。实验中，一项AI参与生成的设计将信号结构域缩短约70%，使细胞表面受体数量 增加约10倍 ，并展现出 更强的肿瘤细胞杀伤能力 。 随着通用大模型的不断发展，其正逐渐从整理医学知识、辅助科研，走向疾病研究和临床诊疗。 但在医疗领域，面对真实复杂病例，医生需要综合患者的身体状况、既往治疗和最新医学证据，在多种可能的方案",
      "source": "智东西",
      "zh": "88比12！在攻克癌症这件事上，垂类AI比国际主流通用大模型和人类医生都在行？"
-    },
-    {
-     "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
-     "link": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:48 +0000",
-     "summary": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on Mark",
-     "source": "MarkTechPost",
-     "zh": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash"
     },
     {
      "title": "近20项全球首发！TCL华星亮出AI显示全家桶，对话印刷OLED中心总经理曹蔚然",
@@ -186,14 +170,6 @@ window.INDUSTRY_DATA = {
      "zh": "ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销"
     },
     {
-     "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
-     "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
-     "pubDate": "Thu, 12 Nov 2026 22:43:26 +0000",
-     "summary": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec ",
-     "source": "MarkTechPost",
-     "zh": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec"
-    },
-    {
      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
      "pubDate": "Thu, 12 Nov 2026 22:42:51 +0000",
@@ -208,14 +184,6 @@ window.INDUSTRY_DATA = {
      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
      "source": "TechCrunch AI",
      "zh": "Muse can now place calls to US businesses — if you pay"
-    },
-    {
-     "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
-     "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
-     "pubDate": "Thu, 12 Nov 2026 21:45:36 +0000",
-     "summary": "CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail. The post CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Co",
-     "source": "MarkTechPost",
-     "zh": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance"
     },
     {
      "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -248,6 +216,38 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
+    },
+    {
+     "title": "Introducing Gemini 4 Hydrogen",
+     "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+     "pubDate": "Thu, 12 Nov 2026 18:00:50 +0000",
+     "summary": "",
+     "source": "DeepMind",
+     "zh": "Introducing Gemini 4 Hydrogen"
+    },
+    {
+     "title": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit",
+     "link": "https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit",
+     "pubDate": "Thu, 12 Nov 2026 15:00:00 +0000",
+     "summary": "Learn how graph-enhanced RAG connects related facts that plain vector search misses, then build a multi-hop research assistant with AWS Labs' open-source graphrag-toolkit, Neo4j, and pgvector.",
+     "source": "KDnuggets",
+     "zh": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit"
+    },
+    {
+     "title": "7 FREE Books to Learn About Building AI Systems",
+     "link": "https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems",
+     "pubDate": "Thu, 12 Nov 2026 13:00:00 +0000",
+     "summary": "Building an AI agent is easy. Building one that actually works in production is not. These 7 free books cover the engineering knowledge you need to make that jump.",
+     "source": "KDnuggets",
+     "zh": "7 FREE Books to Learn About Building AI Systems"
+    },
+    {
+     "title": "10秒生成4K图：MiniMax再次拿出开源SOTA",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074135&idx=1&sn=94195be03009adcb3b3e390782573b38",
+     "pubDate": "Thu, 12 Nov 2026 20:27:00 +0800",
+     "summary": "「GPT is cooked.」",
+     "source": "机器之心",
+     "zh": "10秒生成4K图：MiniMax再次拿出开源SOTA"
     }
    ]
   },
@@ -274,44 +274,12 @@ window.INDUSTRY_DATA = {
      "zh": "Jensen Huang and the Cost of Unchecked Influence"
     },
     {
-     "title": "Electronica – The latest news roundup",
-     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:12:27 +0000",
-     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Electronica – The latest news roundup"
-    },
-    {
-     "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:09:27 +0000",
-     "summary": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications"
-    },
-    {
      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
      "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
      "pubDate": "Fri, 13 Nov 2026 10:41:03 +0000",
      "summary": "NOVOSENSE NovoGenius MCU+ chips integrate analog, power, and drivers, adding intelligence to automotive edge nodes for motor control, sensing and lighting. The post How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node appeared first on EE Times .",
      "source": "EE Times",
      "zh": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node"
-    },
-    {
-     "title": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK",
-     "link": "https://www.electronicsweekly.com/news/design/stem/stem-for-space-uk-space-agency-invests-4-5m-for-esero-uk-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 10:08:56 +0000",
-     "summary": "The UK Space Agency (UKSA) is partnering with the European Space Agency (ESA) for the latest ESERO-UK programme. Investing £4.5 million, the programme aims to inspire young people into space […] The post STEM for space – UK Space Agency invests £4.5m for ESERO-UK appeared first on Electronics Weekly",
-     "source": "Electronics Weekly",
-     "zh": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK"
-    },
-    {
-     "title": "Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-electronica-2026-7nm-fdsoi-3d-dram-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 10:05:53 +0000",
-     "summary": "The most popular articles on the site cover TME showcasing the Arduino VENTUNO Q, our latest news from Electronica, and an apology from Jensen Huang... The post Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM"
     },
     {
      "title": "<new>",
@@ -376,22 +344,6 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics division.",
      "source": "DIGITIMES",
      "zh": "Samsung weighs separating memory and mobile leadership"
-    },
-    {
-     "title": "Panmesia and Intel hook up on CXL",
-     "link": "https://www.electronicsweekly.com/news/business/panmesia-and-intel-hook-up-on-cxl-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 06:14:02 +0000",
-     "summary": "Panmnesia, the Korean developer of link solutions for AI infrastructure, has signed an MOU with Intel Korea to collaborate on CXL technology. The agreement aims to bring CXL-based servers into […] The post Panmesia and Intel hook up on CXL appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Panmesia and Intel hook up on CXL"
-    },
-    {
-     "title": "Imec and Japan’s ASR standardise auto chiplets",
-     "link": "https://www.electronicsweekly.com/news/business/imec-and-japans-asr-standardise-auto-chiplets-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 06:13:37 +0000",
-     "summary": "Imec and Japan’s Advanced SoC Research for Automotive (ASRA), have published the Automotive Chiplet Interoperability Requirement (ACIR) establishing a common set of architectural requirements for interoperable automotive chiplets. Unveiled at […] The post Imec and Japan’s ASR standardise auto chiple",
-     "source": "Electronics Weekly",
-     "zh": "Imec and Japan’s ASR standardise auto chiplets"
     },
     {
      "title": "Jensen Resigns Over Second Affair",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI"
+    },
+    {
+     "title": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall",
+     "link": "https://semiengineering.com/designing-edge-ai-socs-at-near-threshold-why-foundation-ip-can-help-you-break-down-the-power-wall/",
+     "pubDate": "Thu, 12 Nov 2026 08:05:04 +0000",
+     "summary": "Traditional voltage scaling is no longer sufficient to deliver real-time performance within tight energy and thermal limits. The post Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break Down The Power Wall"
+    },
+    {
+     "title": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB",
+     "link": "https://semiwiki.com/eda/yieldhub/375794-cto-interview-kevin-robinson-vp-of-operations-yieldhub/",
+     "pubDate": "Wed, 11 Nov 2026 20:00:08 +0000",
+     "summary": "Kevin Robinson is VP of Operations at yieldHUB, where he leads global operations, program delivery, and customer execution. He oversees structured onboarding, customer delivery, and the scalability of yieldHUB’s operations worldwide. Kevin brings more than 25 years of semiconductor experience across",
+     "source": "SemiWiki",
+     "zh": "CTO Interview Kevin Robinson, VP of Operations, yieldHUB"
+    },
+    {
+     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
+     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
+    },
+    {
+     "title": "JX and OXIDE enter into capital and business alliance agreement",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/jx-oxide-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:39:19 GMT",
+     "summary": "Tokyo-based JX Advanced Metals Corp and OXIDE Corp of Yamanashi, Japan (which specializes in optical crystals and frequency-conversion technology) have entered into a capital and business alliance agreement. JX plans to subscribe for shares to be issued by OXIDE through a third-party allotment and a",
+     "source": "Semiconductor Today",
+     "zh": "JX and OXIDE enter into capital and business alliance agreement"
+    },
+    {
+     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
+     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
+     "source": "Semiconductor Today",
+     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },

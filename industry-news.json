@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 03:52:13",
+ "generated_at": "2026/11/14 04:12:16",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "AI agent startup LangChain hits $3B valuation",
+     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+     "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
+     "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+     "source": "TechCrunch AI",
+     "zh": "AI agent startup LangChain hits $3B valuation"
+    },
     {
      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
@@ -119,14 +127,6 @@
      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
      "source": "TechCrunch AI",
      "zh": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil"
-    },
-    {
-     "title": "Jensen Huang didn’t show confidence in his successor, report says",
-     "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-     "pubDate": "Fri, 13 Nov 2026 12:28:23 +0000",
-     "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-     "source": "TechCrunch AI",
-     "zh": "Jensen Huang didn’t show confidence in his successor, report says"
     },
     {
      "title": "阿里发布AI音乐App，我用它写了首黄仁勋告别曲",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Trump Extends Jones Act Waiver For Another 90 Days",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html",
+     "pubDate": "Fri, 13 Nov 2026 13:30:00 -0600",
+     "summary": "President Donald Trump extended the Jones Act waiver for another 90 days on Friday, keeping foreign-flagged tankers eligible to move oil and other commodities between U.S. ports as the war with Iran continues to drive up fuel costs. The extension, confirmed by a White House official who spoke to Reu",
+     "source": "OilPrice",
+     "zh": "Trump Extends Jones Act Waiver For Another 90 Days"
+    },
+    {
      "title": "Beijing Turns to Soft Power as Washington Expands Central Asia Ties",
      "link": "https://oilprice.com/Geopolitics/Asia/Beijing-Turns-to-Soft-Power-as-Washington-Expands-Central-Asia-Ties.html",
      "pubDate": "Fri, 13 Nov 2026 13:00:00 -0600",
@@ -865,12 +873,12 @@
      "zh": "Germany Eyes €4 Billion Buyout of RWE and E.ON’s Urenco Stake"
     },
     {
-     "title": "U.S. Oil Rigs Hold at 463 as Crude Output Hits Another Record",
+     "title": "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rigs-Hold-at-463-as-Crude-Output-Hits-Another-Record.html",
-     "pubDate": "Fri, 13 Nov 2026 12:11:09 -0600",
+     "pubDate": "Fri, 13 Nov 2026 12:11:00 -0600",
      "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling to 601, up 52 from this same time last year. The number of active oil rigs stayed the same at 463 duri",
      "source": "OilPrice",
-     "zh": "U.S. Oil Rigs Hold at 463 as Crude Output Hits Another Record"
+     "zh": "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record"
     },
     {
      "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
@@ -903,14 +911,6 @@
      "summary": "Oil prices bounced back in early trading on Friday as geopolitical risk returns and optimism surrounding potential peace deals fades. Friday, November 6, 2026The initial days of the US’ post-midterms price collapse are gradually making way for a return to the pre-November status quo, with President ",
      "source": "OilPrice",
      "zh": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate"
-    },
-    {
-     "title": "India's Road Fuel Demand Won't Peak Until 2034",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Road-Fuel-Demand-Wont-Peak-Until-2034.html",
-     "pubDate": "Fri, 13 Nov 2026 10:30:00 -0600",
-     "summary": "India’s fuel demand for road transportation is nearly a decade away from peaking despite rising sales of electric two- and three-wheelers, as commercial transport and conventional fleets will keep using greater volumes of gasoline and diesel, BloombergNEF has said. India’s fuel demand for road trans",
-     "source": "OilPrice",
-     "zh": "India's Road Fuel Demand Won't Peak Until 2034"
     },
     {
      "title": "‘Electrify everything’ hits the global stage",
@@ -1097,6 +1097,14 @@
    "total": 7,
    "items": [
     {
+     "title": "How Vancomycin-Resistant Enterococcus Evolved in a Danish Hospital",
+     "link": "https://www.genengnews.com/topics/infectious-diseases/how-vancomycin-resistant-enterococcus-evolved-in-a-danish-hospital/",
+     "pubDate": "Fri, 13 Nov 2026 20:02:36 +0000",
+     "summary": "A genomic study reveals how genetic mutations, recombination, and resistance-carrying plasmids shaped the evolution, diversification, and decline of vancomycin-resistant Enterococcus faecium in Danish hospitals between 2012 and 2020. The post How Vancomycin-Resistant Enterococcus Evolved in a Danish",
+     "source": "GEN",
+     "zh": "How Vancomycin-Resistant Enterococcus Evolved in a Danish Hospital"
+    },
+    {
      "title": "Argenx is spending billions to push beyond Vyvgart",
      "link": "https://endpoints.news/argenx-is-spending-billions-to-push-beyond-vyvgart/",
      "pubDate": "Fri, 13 Nov 2026 18:50:58 +0000",
@@ -1279,14 +1287,6 @@
      "summary": "Chemotherapy helps many women survive breast cancer, but the results of new research suggest that chemotherapy may also accelerate biological aging beyond chronological age and increase the risk of earlier death from other causes. The post How Breast Cancer Chemotherapy May Impact Biological Aging a",
      "source": "GEN",
      "zh": "How Breast Cancer Chemotherapy May Impact Biological Aging and Loss of Healthy Life Years"
-    },
-    {
-     "title": "From Farm Waste to Medical Nanoparticles",
-     "link": "https://www.genengnews.com/topics/bioprocessing/from-farm-waste-to-medical-nanoparticles/",
-     "pubDate": "Tue, 10 Nov 2026 17:00:31 +0000",
-     "summary": "Fruit peels, rice husks, and other crop leftovers can yield biomedical nanoparticles, but variable feedstocks, scale-up hurdles, and thin safety data still stand between lab promise and reliable commercial bioprocessing. The post From Farm Waste to Medical Nanoparticles appeared first on GEN - Genet",
-     "source": "GEN",
-     "zh": "From Farm Waste to Medical Nanoparticles"
     }
    ]
   },
@@ -1296,6 +1296,22 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
+     "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
+     "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
+     "summary": "How the 'Dune' director turned a little-known short story into one of the best sci-fi movies of the 21st century",
+     "source": "Space.com",
+     "zh": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk"
+    },
+    {
+     "title": "Rocket Lab launching 100th space mission early on Nov. 14: Watch it live",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+     "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
+     "summary": "Rocket Lab will launch its 100th space mission shortly after midnight on Saturday (Nov. 14), and you can watch the milestone liftoff live.",
+     "source": "Space.com",
+     "zh": "Rocket Lab launching 100th space mission early on Nov. 14: Watch it live"
+    },
     {
      "title": "California's brand-new Air & Space Center, home of the space shuttle Endeavour, opens today",
      "link": "https://www.space.com/space-exploration/californias-brand-new-air-and-space-center-home-of-the-space-shuttle-endeavour-opens-today",
@@ -1359,22 +1375,6 @@
      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon",
      "source": "NASA",
      "zh": "Gemini Astronaut Photos Inspired Early Earth Observation Program"
-    },
-    {
-     "title": "Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we're hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird",
-     "link": "https://www.space.com/entertainment/space-movies-shows/netflixs-ray-gunn-gets-2nd-trailer-and-were-hyped-for-this-animated-sci-fi-noir-from-incredibles-director-brad-bird",
-     "pubDate": "Fri, 13 Nov 2026 16:00:00 +0000",
-     "summary": "'This city has corruption, secrets and murder. It's my job to discover the truth'",
-     "source": "Space.com",
-     "zh": "Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we're hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird"
-    },
-    {
-     "title": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
-     "link": "https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
-     "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
-     "summary": "Celestron’s StarSense Explorer tech makes this 150mm Dobsonian so easy to operate — but its tabletop design makes me wonder whether beginners should go bigger.",
-     "source": "Space.com",
-     "zh": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review"
     },
     {
      "title": "Exclusive: Sagittarius Logistics Raises $1.2M to Build Inland Launch Capabilities",
@@ -1761,12 +1761,60 @@
    "total": 18,
    "items": [
     {
-     "title": "AI agent startup LangChain hits $3B valuation",
-     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-     "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
-     "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+     "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+     "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+     "pubDate": "Fri, 13 Nov 2026 20:07:24 +0000",
+     "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
      "source": "TechCrunch",
-     "zh": "AI agent startup LangChain hits $3B valuation"
+     "zh": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board"
+    },
+    {
+     "title": "Sources: Meta staffers are testing a prediction-market app called Takes, letting users wager on the outcome of questions or events using \"cred\", not real money (Meghan Bobrowsky/Wall Street Journal)",
+     "link": "https://www.techmeme.com/261113/p26#a261113p26",
+     "pubDate": "Fri, 13 Nov 2026 15:05:01 -0500",
+     "summary": "Meghan Bobrowsky / Wall Street Journal : Sources: Meta staffers are testing a prediction-market app called Takes, letting users wager on the outcome of questions or events using &ldquo;cred&rdquo;, not real money &nbsp; &mdash;&nbsp; On the app, currently called Takes, employees can wager on the out",
+     "source": "Techmeme",
+     "zh": "Sources: Meta staffers are testing a prediction-market app called Takes, letting users wager on the outcome of questions or events using \"cred\", not real money (Meghan Bobrowsky/Wall Street Journal)"
+    },
+    {
+     "title": "In elephants, the resilience of communities has its limits",
+     "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+     "pubDate": "Fri, 13 Nov 2026 20:03:13 +0000",
+     "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+     "source": "Ars Technica",
+     "zh": "In elephants, the resilience of communities has its limits"
+    },
+    {
+     "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
+     "link": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
+     "pubDate": "Fri, 13 Nov 2026 19:58:41 +0000",
+     "summary": "For Black Friday, a new quarterly option delivers three bags at a time, each from a different country.",
+     "source": "WIRED",
+     "zh": "Atlas Coffee Club’s Black Friday Deals (2026)"
+    },
+    {
+     "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+     "link": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/",
+     "pubDate": "Fri, 13 Nov 2026 19:57:56 +0000",
+     "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+     "source": "WIRED",
+     "zh": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites"
+    },
+    {
+     "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+     "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+     "pubDate": "Fri, 13 Nov 2026 19:49:16 +0000",
+     "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+     "source": "Ars Technica",
+     "zh": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good"
+    },
+    {
+     "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+     "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+     "pubDate": "Fri, 13 Nov 2026 19:24:47 +0000",
+     "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Perplexity Decider v1.3: Training, eval, and use cases"
     },
     {
      "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Shirin Ghaffary/Bloomberg)",
@@ -1780,7 +1828,7 @@
      "title": "FM-1 Workbench",
      "link": "https://open.m-vave.com/fm1-workbench",
      "pubDate": "Fri, 13 Nov 2026 19:14:02 +0000",
-     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 33 # Comments: 12",
      "source": "Hacker News",
      "zh": "FM-1 Workbench"
     },
@@ -1812,7 +1860,7 @@
      "title": "The avalanche that hit math is coming for AI development",
      "link": "https://www.dwarkesh.com/p/rsi",
      "pubDate": "Fri, 13 Nov 2026 18:39:42 +0000",
-     "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 35 # Comments: 24",
+     "summary": "Article URL: https://www.dwarkesh.com/p/rsi Comments URL: https://news.ycombinator.com/item?id=50487854 Points: 44 # Comments: 45",
      "source": "Hacker News",
      "zh": "The avalanche that hit math is coming for AI development"
     },
@@ -1820,7 +1868,7 @@
      "title": "Models can now transmit viruses in weight-space",
      "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
      "pubDate": "Fri, 13 Nov 2026 18:33:35 +0000",
-     "summary": "Article URL: https://www.alphaxiv.org/abs/2611.weight-space-misfolding Comments URL: https://news.ycombinator.com/item?id=50487762 Points: 47 # Comments: 22",
+     "summary": "Article URL: https://www.alphaxiv.org/abs/2611.weight-space-misfolding Comments URL: https://news.ycombinator.com/item?id=50487762 Points: 60 # Comments: 29",
      "source": "Hacker News",
      "zh": "Models can now transmit viruses in weight-space"
     },
@@ -1828,7 +1876,7 @@
      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
      "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
      "pubDate": "Fri, 13 Nov 2026 18:23:49 +0000",
-     "summary": "Article URL: https://toninoble.com/post/ctrlc-ctrlv-ctrlcve Comments URL: https://news.ycombinator.com/item?id=50487605 Points: 17 # Comments: 3",
+     "summary": "Article URL: https://toninoble.com/post/ctrlc-ctrlv-ctrlcve Comments URL: https://news.ycombinator.com/item?id=50487605 Points: 22 # Comments: 5",
      "source": "Hacker News",
      "zh": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures"
     },
@@ -1836,7 +1884,7 @@
      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
      "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
      "pubDate": "Fri, 13 Nov 2026 18:18:37 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/ Comments URL: https://news.ycombinator.com/item?id=50487522 Points: 75 # Comments: 35",
+     "summary": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/ Comments URL: https://news.ycombinator.com/item?id=50487522 Points: 96 # Comments: 43",
      "source": "Hacker News",
      "zh": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad"
     },
@@ -1857,28 +1905,12 @@
      "zh": "2026.46: The End of Jensen"
     },
     {
-     "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-     "link": "https://isometricsf.com/",
-     "pubDate": "Fri, 13 Nov 2026 17:58:37 +0000",
-     "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landm",
-     "source": "Hacker News",
-     "zh": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area"
-    },
-    {
      "title": "Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally (Bruce Gil/Gizmodo)",
      "link": "https://www.techmeme.com/261113/p21#a261113p21",
      "pubDate": "Fri, 13 Nov 2026 12:50:02 -0500",
      "summary": "Bruce Gil / Gizmodo : Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally &nbsp; &mdash;&nbsp; The tech giant is racing to fully restore Outlook, Teams, and other Microsoft 365 services following",
      "source": "Techmeme",
      "zh": "Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally (Bruce Gil/Gizmodo)"
-    },
-    {
-     "title": "Wall Street fears Jensen Huang&apos;s ouster will slow Nvidia&apos;s AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)",
-     "link": "https://www.techmeme.com/261113/p20#a261113p20",
-     "pubDate": "Fri, 13 Nov 2026 12:30:02 -0500",
-     "summary": "New York Times : Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit &nbsp; &mdash;&nbsp; The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
-     "source": "Techmeme",
-     "zh": "Wall Street fears Jensen Huang&apos;s ouster will slow Nvidia&apos;s AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)"
     },
     {
      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
@@ -1967,38 +1999,6 @@
      "summary": "IT之家 11 月 13 日消息，OpenAI 今天（13 日）宣布推出支付功能 ChatGPT Wallet，让旗下 dot AI 智能体代替用户购物。 ChatGPT Wallet 由 OpenAI 与美国运通、万事达卡和 Visa 合作开发，用户使用现有信用卡付款时，仍可享受原有的积分奖励和权益保障。符合条件的用户只需录入一次银行卡信息， 随后便可让 dot 智能体帮忙寻找商品，每笔交易都需要通过安全验证才能完成 。 OpenAI 强调，dot 智能体 不会接触用户的真实银行卡信息 。支付网络会为每笔交易生成专用的支付令牌，其中包含 限定用途的卡号、安全码和有效期 ，供智能体完成付款。 ",
      "source": "IT之家",
      "zh": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet"
-    },
-    {
-     "title": "华为麒麟 9050 系列芯片新一代灵犀 CPU 详细信息公开：9 核 16 线程并行调度，支持内存压缩加速",
-     "link": "https://www.ithome.com/1/026/993.htm",
-     "pubDate": "Fri, 13 Nov 2026 15:47:34 GMT",
-     "summary": "IT之家 11 月 13 日消息，华为麒麟官方公众号继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 新一代灵犀 CPU 详情已公开 。 据介绍，麒麟 9050 系列搭载新一代灵犀 CPU， 支持 9 核 16 线程超线程技术 ，多核性能提升 23%、GPU 渲染性能提升 40%、NPU 性能提升 140%，配合鸿蒙应用并行化与智能调度，多任务更流畅。 重载场景（应用启动、大文件加载、游戏运行）由 1 超大核 + 2 性能大核负责；多任务场景（UX 交互、悬浮窗、视频通话、分屏）由 4 能效大核负责；日常场景（浏览资讯、短视频）由 2 小核负责。 此外，麒麟 9",
-     "source": "IT之家",
-     "zh": "华为麒麟 9050 系列芯片新一代灵犀 CPU 详细信息公开：9 核 16 线程并行调度，支持内存压缩加速"
-    },
-    {
-     "title": "大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展",
-     "link": "https://www.ithome.com/1/026/992.htm",
-     "pubDate": "Fri, 13 Nov 2026 15:38:20 GMT",
-     "summary": "IT之家 11 月 13 日消息，据彭博社今天（13 日）深夜报道，微软旗下主要软件服务的恢复工作取得进展。这场大规模故障导致 全球多地政府机构、金融交易员和企业业务 陷入瘫痪。 微软在纽约时间 13 日上午 9 时许（IT之家注：对应北京时间 22 时）发布的通报确认，服务运行情况有所改善，积压邮件数量大幅减少，接近正常水平。但 20 多款产品和服务仍可能出现错误。 时间来到当地时间今天上午，用户连续第二天遭遇会议邀请无法送达、网页无响应等问题。微软以往的服务故障 很少持续数小时以上 。 自当地时间 12 日下午故障发生以来，微软 几乎每小时都会公布修复进展 ，包括排查系统故障、将用户流量转",
-     "source": "IT之家",
-     "zh": "大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展"
-    },
-    {
-     "title": "麒麟 8000 系也有份：华为更多机型更新 HarmonyOS 7 系统后补齐沉浸光感粒子动效",
-     "link": "https://www.ithome.com/1/026/991.htm",
-     "pubDate": "Fri, 13 Nov 2026 15:27:11 GMT",
-     "summary": "IT之家 11 月 13 日消息，据多位用户反馈，华为 nova 12 系列、nova Flip、畅享 90 系列、畅享 70X 等机型已开启鸿蒙 HarmonyOS 7.0.0.111 新版本（SP 后缀随机型不同有所区别）升级， 新增粒子动效 。 值得一提的是， 此次补齐沉浸光感粒子动效的机型部分搭载的是麒麟 8000 系处理器 ，这意味着该特性不再是旗舰专属。 参考IT之家此前报道，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚正式发布了鸿蒙 HarmonyOS 7 操作系统。 华为在鸿蒙 Harmo",
-     "source": "IT之家",
-     "zh": "麒麟 8000 系也有份：华为更多机型更新 HarmonyOS 7 系统后补齐沉浸光感粒子动效"
-    },
-    {
-     "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-     "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-     "pubDate": "Fri, 13 Nov 2026 15:26:53 +0000",
-     "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
-     "source": "Ars Technica",
-     "zh": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Epic formally asks SCOTUS to uphold contempt ruling against Apple",
+     "link": "https://9to5mac.com/2026/11/13/epic-formally-asks-scotus-to-uphold-contempt-ruling-against-apple/",
+     "pubDate": "Fri, 13 Nov 2026 20:00:50 +0000",
+     "summary": "Epic Games has submitted its official response to Apple’s Supreme Court appeal, urging the justices to uphold the contempt ruling over App Store payment restrictions. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Epic formally asks SCOTUS to uphold contempt ruling against Apple"
+    },
     {
      "title": "YouTube is having problems with the new Apple TV 4K",
      "link": "https://www.androidauthority.com/youtube-apple-tv-4k-problems-3735158/",
@@ -2153,14 +2161,6 @@
      "zh": "This tiny iOS 27 camera feature really makes a huge difference"
     },
     {
-     "title": "Apple Maps in iOS 27 has hidden new feature I’ve been loving",
-     "link": "https://9to5mac.com/2026/11/13/apple-maps-in-ios-27-has-hidden-new-feature-ive-been-loving/",
-     "pubDate": "Fri, 13 Nov 2026 16:59:38 +0000",
-     "summary": "iOS 27 gave Apple Maps a handful of new features , and my favorite is one that keeps offering fresh updates every week: Local Lists. more…",
-     "source": "9to5Mac",
-     "zh": "Apple Maps in iOS 27 has hidden new feature I’ve been loving"
-    },
-    {
      "title": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps",
      "link": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
      "pubDate": "Fri, 13 Nov 2026 16:45:47 +0000",
@@ -2257,20 +2257,68 @@
    "total": 13,
    "items": [
     {
+     "title": "HealthWarehouse.com GAAP EPS of -$0.01, revenue of $6.49M",
+     "link": "https://seekingalpha.com/news/4672608-healthwarehouse-com-gaap-eps-of-0_01-revenue-of-6_49m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 15:03:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HealthWarehouse.com GAAP EPS of -$0.01, revenue of $6.49M"
+    },
+    {
+     "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+     "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 20:02:00 GMT",
+     "summary": "Here’s what might be coming for Social Security, Medicare and long-term care.",
+     "source": "MarketWatch",
+     "zh": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’"
+    },
+    {
+     "title": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 20:00:00 GMT",
+     "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+     "source": "MarketWatch",
+     "zh": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?"
+    },
+    {
+     "title": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;",
+     "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+     "pubDate": "Fri, 13 Nov 2026 19:59:17 GMT",
+     "summary": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks.",
+     "source": "CNBC",
+     "zh": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;"
+    },
+    {
      "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
      "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-     "pubDate": "Fri, 13 Nov 2026 19:48:05 GMT",
+     "pubDate": "Fri, 13 Nov 2026 19:54:06 GMT",
      "summary": "Speculation has swirled around who Nvidia's board will select to permanently succeed Huang.",
      "source": "CNBC",
      "zh": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC"
     },
     {
-     "title": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;",
-     "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
-     "pubDate": "Fri, 13 Nov 2026 19:47:28 GMT",
-     "summary": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks.",
-     "source": "CNBC",
-     "zh": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;"
+     "title": "Meta据悉正在员工内部测试一款新的预测市场应用",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931077175.html",
+     "pubDate": "Sat, 14 Nov 2026 03:52:25 +0800",
+     "summary": "Meta据悉正在员工内部测试一款新的预测市场应用。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "Meta据悉正在员工内部测试一款新的预测市场应用"
+    },
+    {
+     "title": "AstraZeneca eliminates 600 respiratory and immunology sales reps: Bloomberg",
+     "link": "https://seekingalpha.com/news/4672599-astrazeneca-eliminates-600-respiratory-and-immunology-sales-reps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 14:51:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AstraZeneca eliminates 600 respiratory and immunology sales reps: Bloomberg"
+    },
+    {
+     "title": "哈塞特称有关他将离开白宫的报道“不属实”",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931077050.html",
+     "pubDate": "Sat, 14 Nov 2026 03:47:49 +0800",
+     "summary": "哈塞特称有关他将离开白宫的报道“不属实”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "哈塞特称有关他将离开白宫的报道“不属实”"
     },
     {
      "title": "Suncrete, Inc. GAAP EPS of -$0.01 misses by $0.06, revenue of $140.96M misses by $5.23M",
@@ -2313,14 +2361,6 @@
      "zh": "Suncrete expects $200m-$250m 2027 revenue from 2026 acquisitions as it revises 2026 outlook"
     },
     {
-     "title": "Autocanada expects margins to stabilize and improve starting spring 2027 while targeting 2 to 3x leverage",
-     "link": "https://seekingalpha.com/news/4672601-autocanada-expects-margins-to-stabilize-and-improve-starting-spring-2027-while-targeting-2-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 14:40:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Autocanada expects margins to stabilize and improve starting spring 2027 while targeting 2 to 3x leverage"
-    },
-    {
      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
      "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 19:40:00 GMT",
@@ -2337,12 +2377,12 @@
      "zh": "阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理"
     },
     {
-     "title": "Supreme Court will hear Robinhood effort to toss IPO info omissions lawsuit",
-     "link": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
-     "pubDate": "Fri, 13 Nov 2026 19:33:26 GMT",
-     "summary": "The Trump administration had urged the Supreme Court to hear an appeal by Robinhood of a lower-court's decision to revive an investors' lawsuit over the IPO.",
+     "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
+     "link": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
+     "pubDate": "Fri, 13 Nov 2026 19:30:36 GMT",
+     "summary": "By deploying a persistent covered call strategy, investors can leverage the exact fear driving the stock down to generate robust, risk-reducing income.",
      "source": "CNBC",
-     "zh": "Supreme Court will hear Robinhood effort to toss IPO info omissions lawsuit"
+     "zh": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process"
     },
     {
      "title": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司",
@@ -2369,14 +2409,6 @@
      "zh": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers."
     },
     {
-     "title": "National Economic Council Director Hassett to leave White House",
-     "link": "https://seekingalpha.com/news/4672597-national-economic-council-director-hassett-to-leave-white-house?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 14:24:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "National Economic Council Director Hassett to leave White House"
-    },
-    {
      "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 19:19:00 GMT",
@@ -2393,44 +2425,12 @@
      "zh": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets"
     },
     {
-     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 19:16:00 GMT",
-     "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-     "source": "MarketWatch",
-     "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
-    },
-    {
-     "title": "美国白宫经济顾问哈塞特据悉预计将离开白宫 贝森特或Zervos可能接任",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931076437.html",
-     "pubDate": "Sat, 14 Nov 2026 03:14:01 +0800",
-     "summary": "美国白宫经济顾问哈塞特据悉预计将离开白宫，贝森特或Zervos可能接任。哈塞特预计将在未来几周内离职。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国白宫经济顾问哈塞特据悉预计将离开白宫 贝森特或Zervos可能接任"
-    },
-    {
      "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
      "pubDate": "Fri, 13 Nov 2026 19:11:13 GMT",
      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.",
      "source": "CNBC",
      "zh": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker"
-    },
-    {
-     "title": "中国公民尽快撤离！我使馆紧急提醒",
-     "link": "http://global.eastmoney.com/news/11798,202611143931076623.html",
-     "pubDate": "Sat, 14 Nov 2026 03:10:00 +0800",
-     "summary": "近日，中国驻刚果民主共和国大使馆发布刚果（金）安全形势通报（2026年11月12日）。内容如下： 一、近期重要案件 （一）11月9日，刚果（金）卫生部发布埃博拉疫情数据，伊图里、北基伍、南基伍、上韦莱、下韦莱、乔波、南乌班吉和北乌班吉八省累计报告11042例确诊病例，累计死亡5387例。 （二）11月7日至8日，北基伍省马西西地区洛阿希接连发生两起不明武装袭击，造成至少十名平民遇难、两人失踪。 （三）11月7日夜间至8日凌晨，上加丹加省基普希市的伊马·卡富布天主教学校遭约20名身着军装武装人员袭击，学校负责人遭暴力殴打，校内多处设施遭破坏，贵重财物与钱款被洗劫。 （四）11月8日，伊图里省居古",
-     "source": "东方财富股票",
-     "zh": "中国公民尽快撤离！我使馆紧急提醒"
-    },
-    {
-     "title": "‘Strangely calming and unnerving’: How Microsoft’s massive outage upended the corporate workday",
-     "link": "https://www.marketwatch.com/story/strangely-calming-and-unnerving-how-microsofts-massive-outage-upended-the-corporate-workday-9a78d000?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 19:01:00 GMT",
-     "summary": "A widespread Outlook outage delayed a corporate earnings report, and left users scrambling to submit their schoolwork or find alternate forms of communication.",
-     "source": "MarketWatch",
-     "zh": "‘Strangely calming and unnerving’: How Microsoft’s massive outage upended the corporate workday"
     },
     {
      "title": "通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队",
@@ -2535,6 +2535,14 @@
      "summary": "Infernogallus – the ‘hell chicken’ dinosaur – evolved to eat a fruit-heavy diet. It may be the first evidence of fruit-eating adaptations among non-avian dinosaurs.",
      "source": "Science News",
      "zh": "The ‘hell chicken’ dinosaur was a real terror — to fruit"
+    },
+    {
+     "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+     "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+     "pubDate": "Fri, 13 Nov 2026 14:29:15 +0000",
+     "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
+     "source": "Ars Technica Science",
+     "zh": "Scientists warn 1.5°C climate change threshold could arrive by 2029"
     },
     {
      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
@@ -2735,14 +2743,6 @@
      "summary": "Researchers in Florida unearthed a “dark magic mushroom” that boasts a combination of hallucinogenic and poisonous traits.",
      "source": "Science News",
      "zh": "This magic mushroom can kill"
-    },
-    {
-     "title": "How a Metabolic Spark Could Have Jump-Started Life",
-     "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-     "pubDate": "Wed, 11 Nov 2026 15:10:30 +0000",
-     "summary": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have Jump-Started Life first appeared on Quanta Magazine",
-     "source": "Quanta Magazine",
-     "zh": "How a Metabolic Spark Could Have Jump-Started Life"
     }
    ]
   }

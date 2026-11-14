@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 13:51:56",
+ "generated_at": "2026/11/14 14:13:53",
  "recent_days": 7,
  "industries": [
   {
@@ -258,14 +258,6 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "After Jensen: A Window for Nvidia’s Rivals, a Problem for Its Suppliers",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/376352-after-jensen-a-window-for-nvidias-rivals-a-problem-for-its-suppliers/",
-     "pubDate": "Sat, 14 Nov 2026 05:46:58 +0000",
-     "summary": "On November 12, Nvidia announced that Jensen Huang had resigned as president, CEO, and director, effective immediately. CFO Colette Kress is interim CEO, longtime director Harvey Jones becomes the board’s first chair, and on November 17 the company reports quarterly results without its founder for t",
-     "source": "SemiWiki",
-     "zh": "After Jensen: A Window for Nvidia’s Rivals, a Problem for Its Suppliers"
-    },
-    {
      "title": "AI server tracker: Aspeed tops NT$2 billion as cable suppliers diverge",
      "link": "https://www.digitimes.com/news/a20261111VL224/aspeed-bizlink-growth-revenue-sales.html",
      "pubDate": "Sat, 14 Nov 2026 03:41:29 GMT",
@@ -480,6 +472,14 @@ window.INDUSTRY_DATA = {
      "summary": "Battery-powered sensors and detectors underpin modern safety and security systems, yet they create a constant maintenance burden. Hundreds of devices need manual battery swaps, often in hard-to-reach places, interrupting reliability and raising costs.This document paper shows hardware and system des",
      "source": "EE Times",
      "zh": "Design Smarter – Energy Harvesting for Battery-Free and Low-Maintenance Devices in Safety & Security applications"
+    },
+    {
+     "title": "Bring Your Innovation to Silicon Valley at DAC 2027",
+     "link": "https://semiwiki.com/events/375295-bring-your-innovation-to-silicon-valley-at-dac-2027/",
+     "pubDate": "Thu, 12 Nov 2026 14:00:40 +0000",
+     "summary": "The next generation of electronic systems starts with conversations between people solving difficult design challenges. For companies developing EDA tools, semiconductor IP, design services, and supporting technologies, DAC 2027 offers an opportunity to turn those conversations into customer relatio",
+     "source": "SemiWiki",
+     "zh": "Bring Your Innovation to Silicon Valley at DAC 2027"
     },
     {
      "title": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity",
@@ -1322,20 +1322,20 @@ window.INDUSTRY_DATA = {
      "zh": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?"
     },
     {
-     "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
-     "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
-     "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
-     "summary": "How the 'Dune' director turned a little-known short story into one of the best sci-fi movies of the 21st century",
-     "source": "Space.com",
-     "zh": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk"
-    },
-    {
      "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
      "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
      "summary": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
      "source": "Space.com",
      "zh": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)"
+    },
+    {
+     "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
+     "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
+     "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
+     "summary": "How the 'Dune' director turned a little-known short story into one of the best sci-fi movies of the 21st century",
+     "source": "Space.com",
+     "zh": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk"
     },
     {
      "title": "California's brand-new Air & Space Center, home of the space shuttle Endeavour, opens today",
@@ -1762,6 +1762,118 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "GPSR 标签不合规被下架，欧洲站广告 CPA 从 12 欧涨到 31 欧怎么办？",
+     "link": "https://www.baijing.cn/question/638730",
+     "pubDate": "Sat, 14 Nov 2026 06:01:18 +0000",
+     "summary": "我们做小家电配件独立站，德国、法国、西班牙三个站点刚起量，月投放预算 8000 欧左右，主要跑 Meta 和 Google Shopping。GPSR 生效后，一批产品因为缺少欧盟责任人信息和警示标签被平台限流，德国站 CPA 从 12 欧涨到 31 欧，转化率掉了四成。已经补印了标签、换了包装，但广告素材和落地页还没同步改，审核也卡在责任人信息展示上。现在纠结是先停投把合规链路跑通，还是边改边投保住账户权重，这个取舍怎么判断？",
+     "source": "白鲸出海",
+     "zh": "GPSR 标签不合规被下架，欧洲站广告 CPA 从 12 欧涨到 31 欧怎么办？"
+    },
+    {
+     "title": "商保养大的药，医保开始接手",
+     "link": "https://www.huxiu.com/article/4905594.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 14:00:35 +0800",
+     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 11月14日，新版国家医保药品目录在苏州公布。 新增107种药品，51个一类新药，再创纪录。商保创新药目录也没闲着，新增12种，扩容至28种。 不过，比这些数字更值得关注的，是两款去年才进入商保目录的抗癌药，今年已经开始敲基本医保的大门。 一个是合源生物的纳基奥仑赛，一个是药明巨诺的瑞基奥仑赛。 两款都是CAR-T细胞治疗药物，价格不菲。2025年，它们进入首版商保创新药目录；今年9月6日，两家企业的负责人先后走出国家医保谈判现场。 此前，百万元级的CAR-T疗法一直难以跨过基本医保的准入门槛。 现在，门开了一道缝。 商保先接，医保再谈。高价",
+     "source": "虎嗅",
+     "zh": "商保养大的药，医保开始接手"
+    },
+    {
+     "title": "Dell Coupon Codes: 20% Off for November 2026",
+     "link": "https://www.wired.com/story/dell-coupon-code/",
+     "pubDate": "Sat, 14 Nov 2026 06:00:00 +0000",
+     "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+     "source": "WIRED",
+     "zh": "Dell Coupon Codes: 20% Off for November 2026"
+    },
+    {
+     "title": "Paramount+ Coupon Codes and Deals for 2026",
+     "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+     "pubDate": "Sat, 14 Nov 2026 06:00:00 +0000",
+     "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+     "source": "WIRED",
+     "zh": "Paramount+ Coupon Codes and Deals for 2026"
+    },
+    {
+     "title": "Disney Plus Discount Codes: 52% Off November 2026",
+     "link": "https://www.wired.com/story/disney-plus-discounts/",
+     "pubDate": "Sat, 14 Nov 2026 06:00:00 +0000",
+     "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+     "source": "WIRED",
+     "zh": "Disney Plus Discount Codes: 52% Off November 2026"
+    },
+    {
+     "title": "30% Off Canon Promo Codes | November 2026",
+     "link": "https://www.wired.com/story/canon-promo-code/",
+     "pubDate": "Sat, 14 Nov 2026 06:00:00 +0000",
+     "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
+     "source": "WIRED",
+     "zh": "30% Off Canon Promo Codes | November 2026"
+    },
+    {
+     "title": "Wayfair Coupons: Up to 80% Off November 2026",
+     "link": "https://www.wired.com/story/wayfair-promo-code/",
+     "pubDate": "Sat, 14 Nov 2026 06:00:00 +0000",
+     "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+     "source": "WIRED",
+     "zh": "Wayfair Coupons: Up to 80% Off November 2026"
+    },
+    {
+     "title": "Klook Promo Code: 20% Off November 2026",
+     "link": "https://www.wired.com/story/klook-promo-code/",
+     "pubDate": "Sat, 14 Nov 2026 06:00:00 +0000",
+     "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
+     "source": "WIRED",
+     "zh": "Klook Promo Code: 20% Off November 2026"
+    },
+    {
+     "title": "《后会友期》爆火，青春期隐秘的社交硬仗更残酷",
+     "link": "https://www.huxiu.com/article/4905593.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 13:56:08 +0800",
+     "summary": "本文来自微信公众号： 谷雨星球 ，作者：Miley 大家好，我是Miley，一位心理老师。 最近爆火的《后会友期》，又把被很多人忽视的「友情」摆上了讨论桌。 就像有人说的：「爱这个字被‘爱情’霸占了太久，也该还一点给友情了」。 ■很多人都喜欢《后会友期》的文案 作为一名天天和青春期孩子打交道的老师，我太清楚「与同龄人的友情」对他们的重要性了。 比如就在不久前，在心理辅导室里，我接待了一位特殊的来访者。她叫小雅，是大家眼中的「模范生」，成绩优异，性格乖巧。但在最近的一次模拟考中，她因为发挥失常，排名掉了两名，整个人非常崩溃。 她坐在我面前，双手紧紧绞在一起，声音颤抖地说：「老师，我觉得完蛋了。我",
+     "source": "虎嗅",
+     "zh": "《后会友期》爆火，青春期隐秘的社交硬仗更残酷"
+    },
+    {
+     "title": "巴西手游接Pix后付费转化不升反降，是通道选错还是运营节奏问题？",
+     "link": "https://www.baijing.cn/question/638729",
+     "pubDate": "Sat, 14 Nov 2026 05:55:12 +0000",
+     "summary": "我们做休闲竞技手游，巴西和墨西哥是主力市场，月流水刚过30万美元，团队一共11个人，其中运营只有2个，支付这块一直是我兼着。今年Q1在巴西接了Pix，走的是本地聚合通道，上线头两周付费转化从1.9%涨到2.6%，但第三周开始掉回1.7%，比接之前还低。我们排查过后台，Pix下单成功率高，问题出在生成二维码后用户不回来扫码付款，24小时内完成支付的不到四成。现在手上就两个人，一边要盯墨西哥的本地钱包测试，一边要改Pix的引导流程，排期已经排到月底。想问问做过巴西Pix的同行，这种掉单到底是通道的轮询机制问题，还是我们支付页的跳转和提醒节奏没设计对？",
+     "source": "白鲸出海",
+     "zh": "巴西手游接Pix后付费转化不升反降，是通道选错还是运营节奏问题？"
+    },
+    {
+     "title": "Cambridge, UK-based Tendrils, which is designing a CPU architecture with thousands of cores operating in parallel, raised $30M led by Benchmark (John Reynolds/Tech.eu)",
+     "link": "https://www.techmeme.com/261114/p2#a261114p2",
+     "pubDate": "Sat, 14 Nov 2026 00:55:01 -0500",
+     "summary": "John Reynolds / Tech.eu : Cambridge, UK-based Tendrils, which is designing a CPU architecture with thousands of cores operating in parallel, raised $30M led by Benchmark &nbsp; &mdash;&nbsp; Tendrils Compute is one of several UK chip startups which investors are backing.&nbsp; &mdash;&nbsp; A UK sta",
+     "source": "Techmeme",
+     "zh": "Cambridge, UK-based Tendrils, which is designing a CPU architecture with thousands of cores operating in parallel, raised $30M led by Benchmark (John Reynolds/Tech.eu)"
+    },
+    {
+     "title": "Shopify 北美站转化率卡在 1.1%，广告 CPA 涨到 48 美元还该继续投吗？",
+     "link": "https://www.baijing.cn/question/638728",
+     "pubDate": "Sat, 14 Nov 2026 05:49:10 +0000",
+     "summary": "我们做户外露营配件独立站，Shopify 建站，团队 5 个人，主要卖美国、加拿大，现在月广告预算 3 万美元左右，Meta 和 Google 各一半。上个月起量后转化率从 1.8% 掉到 1.1%，同期 CPA 从 32 美元涨到 48 美元，加购率还有 7% 但结账页流失明显。已经试过换主图、加信任徽章、把运费门槛从 79 降到 59 美元，也装了热力图看结账流程，效果都不明显。现在纠结的是：这个 CPA 在北美户外品类到底算不算正常水位，是该先压投放保 ROI，还是继续烧钱把转化率优化出来？想听同行判断的标准。",
+     "source": "白鲸出海",
+     "zh": "Shopify 北美站转化率卡在 1.1%，广告 CPA 涨到 48 美元还该继续投吗？"
+    },
+    {
+     "title": "极狐贝塔 S3 激光换电版上市：宁德时代电池，限时补贴价 7.88 万元起",
+     "link": "https://www.ithome.com/1/027/120.htm",
+     "pubDate": "Sat, 14 Nov 2026 05:49:03 GMT",
+     "summary": "IT之家 11 月 14 日消息，11 月 13 日，极狐贝塔 S3 535Ultra+ 激光换电版在国内上市，限时补贴价 7.88 万元起（电池租用）。 据官方公布信息，此次电池租用提供两档方案：家庭尊享礼月租金 399 元、月里程额度 5000 公里；畅行尊享礼月租金 599 元、不限月里程额度。 产品层面，该车搭载宁德时代巧克力换电电池，支持 99 秒极速换电 ；采用前置前驱布局与永磁同步电机，最大功率 159kW，峰值扭矩 250N・m，0-100km/h 加速 7.1 秒，最高车速 165km/h， CLTC 续航 535km 。 座舱配备 15.6 英寸悬浮式中控屏与 8.8 英寸",
+     "source": "IT之家",
+     "zh": "极狐贝塔 S3 激光换电版上市：宁德时代电池，限时补贴价 7.88 万元起"
+    },
+    {
+     "title": "微软下月移除 Win10/Win11 版 Word 部分“兼容模式”遗留设置，恐影响旧文档排版",
+     "link": "https://www.ithome.com/1/027/119.htm",
+     "pubDate": "Sat, 14 Nov 2026 05:48:56 GMT",
+     "summary": "IT之家 11 月 14 日消息，根据管理中心官方公告 MC1551147， 微软计划于 2026 年 12 月开始调整 Windows 10/Windows 11 桌面版 Word，移除“兼容模式”中的部分遗留设置。 而 macOS 桌面版 Word 将于 2027 年 5 月启动。 官方公告中并未明确移除哪些遗留设置，不过 Word 的兼容模式主要便于用户查询使用旧版 Word 创建的文档。IT之家援引博文介绍，在移除相关设置后，可能出现文字重新排列、间距和页数变化，以及图片、形状位置偏移等问题。 微软表示，此次精简旨在简化文档布局处理，并提供更一致的跨平台体验。对于仍需查阅旧文档、且要求",
+     "source": "IT之家",
+     "zh": "微软下月移除 Win10/Win11 版 Word 部分“兼容模式”遗留设置，恐影响旧文档排版"
+    },
+    {
      "title": "印度短剧要做泰米尔语和泰卢固语配音，4人内容团队这个排期撑得住吗？",
      "link": "https://www.baijing.cn/question/638727",
      "pubDate": "Sat, 14 Nov 2026 05:43:55 +0000",
@@ -1818,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "微软 14 年 AI 老将离职：称创新难落地，降本研究未获认真考虑"
     },
     {
-     "title": "TikTok Shop巴西达人佣金给到18%，回款周期压到T+14还能撑住吗？",
-     "link": "https://www.baijing.cn/question/638724",
-     "pubDate": "Sat, 14 Nov 2026 05:04:38 +0000",
-     "summary": "巴西站小店起量第三个月，服饰配件类目，日均80单左右，团队5个人。达人带货占比七成，现在佣金普遍给到15%-18%，头部达人还要额外寄样。问题是回款：TikTok Shop巴西站结算加本地支付通道清算，实际到账大概T+14到T+18，而达人的佣金我们承诺的是订单完成后7天内结，等于每个月有近两周的佣金和货款是垫着的。上个月光垫付佣金就压了约4万雷亚尔，现金流明显吃紧。已经试过把佣金改成阶梯制、只对GMV前20%的达人给高佣，但达人不买账，挂车率掉了。现在卡在到底是降佣金保现金流，还是维持佣金靠外部垫资扛回款周期，这个取舍该怎么定？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop巴西达人佣金给到18%，回款周期压到T+14还能撑住吗？"
-    },
-    {
      "title": "匹克球在越南何以“火爆”？我们能学什么？",
      "link": "https://www.huxiu.com/article/4905588.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 13:03:07 +0800",
@@ -1874,68 +1978,12 @@ window.INDUSTRY_DATA = {
      "zh": "苹果推出宝可梦 30 周年限定礼品卡：可领 3 款专属壁纸，日本 11 月 16 日开售"
     },
     {
-     "title": "日本市场日语客服外包，单条咨询成本比投放CPA还高，该砍还是该换？",
-     "link": "https://www.baijing.cn/question/638723",
-     "pubDate": "Sat, 14 Nov 2026 04:49:36 +0000",
-     "summary": "日本上线三个月，投放端CPA稳定在3200日元左右，但客服侧算下来单条咨询成本接近1800日元——我们用的是东京一家日语外包团队，按坐席包月28万日元，实际日均只接到40来条咨询，大量时间在等。产品是工具类订阅App，起量阶段，团队6个人，没有日语全职。试过把FAQ和自助退款流程补全，咨询量降了约两成，但成本摊下来还是压不住。现在纠结的是：这个阶段该继续养外包坐席，还是改成按量计费的日语客服平台？判断标准到底看咨询占比还是看续费率？",
-     "source": "白鲸出海",
-     "zh": "日本市场日语客服外包，单条咨询成本比投放CPA还高，该砍还是该换？"
-    },
-    {
-     "title": "传音应用商店上架后，尼日利亚和肯尼亚的付款回款周期差这么多正常吗？",
-     "link": "https://www.baijing.cn/question/638722",
-     "pubDate": "Sat, 14 Nov 2026 04:42:36 +0000",
-     "summary": "我们做的是面向非洲的轻量工具类应用，起量中阶段，团队6个人，主要通过传音应用商店分发，尼日利亚和肯尼亚两个市场都在跑。上个月在尼日利亚走本地支付渠道收订阅费，用户付款到我们账户平均要T+7，肯尼亚M-Pesa那边T+2就能到，但尼日利亚的失败率还高出一截，大概18%的订单卡在支付渠道回调上。已经试过换支付服务商、缩短回调轮询间隔，还是卡在尼日利亚的结算时效上。想先确认：传音商店分发的应用在这两个市场的回款周期差异，是渠道本身结算节奏决定的，还是我们接入方式有问题？",
-     "source": "白鲸出海",
-     "zh": "传音应用商店上架后，尼日利亚和肯尼亚的付款回款周期差这么多正常吗？"
-    },
-    {
-     "title": "比亚迪辅助驾驶车型保有量超 419 万辆，天神之眼日数据达 2.6 亿公里",
-     "link": "https://www.ithome.com/1/027/076.htm",
-     "pubDate": "Sat, 14 Nov 2026 04:41:54 GMT",
-     "summary": "IT之家 11 月 14 日消息，比亚迪汽车今日公布的最新数据显示，其辅助驾驶车型保有量已超过 419 万辆，天神之眼系统每天生成的数据量超过 2.6 亿公里。 比亚迪今年 5 月彼时保有量超 315 万辆、日数据超 2 亿公里；8 月底升至 372 万辆和 2.3 亿公里；9 月底进一步达到 395 万辆和 2.4 亿公里。不到半年时间保有量净增逾百万辆，日数据生成量同步抬升。 天神之眼（IT之家注：比亚迪全栈自研的高阶智能驾驶辅助系统，按配置和品牌分为 A、B、C 三档）的规模扩张，直接对应的是真实路况数据的采集广度和长尾场景覆盖密度。 当前智驾行业正从规则驱动向端到端大模型迁移，后者依赖",
-     "source": "IT之家",
-     "zh": "比亚迪辅助驾驶车型保有量超 419 万辆，天神之眼日数据达 2.6 亿公里"
-    },
-    {
-     "title": "这妹子拉了梁文锋一把",
-     "link": "https://www.huxiu.com/article/4905405.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 12:41:17 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜苗正卿 题图｜AI生成 蓝色头发、鲸鱼&ldquo;耳&rdquo;、鲸鱼尾巴、蓝白色长裙，名为&ldquo;DeepSeek鲸鱼娘&rdquo;的二次元萌妹，正成为梁文锋的最强盟友。 这并非DeepSeek官方原创的IP，而是开发者社区、二次元爱好者的DIY狂欢产物。 但她成为了当下在AI开发者社区人气最高的&ldquo;拟人娘&rdquo;。 &ldquo;DeepSeek鲸鱼娘&rdquo;和DeepSeek10月发布的DeepSeek Harness有极强&rdquo;天然&ldquo;联动效应&mdash;&mdash;由于DeepSeek Harness奉行",
-     "source": "虎嗅",
-     "zh": "这妹子拉了梁文锋一把"
-    },
-    {
-     "title": "国内车市很可能几年都爬不出坑了",
-     "link": "https://www.huxiu.com/article/4905581.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 12:26:19 +0800",
-     "summary": "本文来自微信公众号： 冯伟冯大白 ，作者：冯大白 今年前10个月，国内狭义乘用车零售少了约430万辆，其中约286万辆是轿车。原来动辄月销两三万辆的朗逸、速腾和轩逸，去年10月合计卖了8.1万辆，今年同月只剩3.5万辆。新能源渗透率在10月升到67.5%，同月的新能源车也少卖了13.7%。 即使明年开始回暖，国内车市也很难很快卖回去。乘联分会预计今年全年零售约1850万辆，明年在政策和市场环境没有超预期变化的情况下，可能增长0%至5%。按最乐观的5%算，明年约卖1943万辆，离2025年的2374万辆仍差约432万辆。以1850万辆为起点，单年涨28%左右才能回到那个位置。换成一个简单的算术情",
-     "source": "虎嗅",
-     "zh": "国内车市很可能几年都爬不出坑了"
-    },
-    {
      "title": "Analysis: Sam Bankman-Fried&apos;s $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
      "link": "https://www.techmeme.com/261113/p42#a261113p42",
      "pubDate": "Fri, 13 Nov 2026 23:25:01 -0500",
      "summary": "George Hammond / Financial Times : Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B &nbsp; &mdash;&nbsp; Jailed cryptocurrency mogul loses out on windfall from early investment in the AI l",
      "source": "Techmeme",
      "zh": "Analysis: Sam Bankman-Fried&apos;s $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)"
-    },
-    {
-     "title": "中国商飞 10 吨级电动商用飞机 CE-25A 有人驾驶首飞成功",
-     "link": "https://www.ithome.com/1/027/075.htm",
-     "pubDate": "Sat, 14 Nov 2026 04:08:13 GMT",
-     "summary": "IT之家 11 月 14 日消息，据央视新闻今日报道，中国商飞研制的 10 吨级电动商用飞机 CE-25A 在山东滨州完成首次有人驾驶智能飞行。 当天机上搭载 2 名飞行员和 1 名试飞工程师，飞行过程中飞机状态正常，各项指标符合预期。这是继 2026 年 2 月 2 日该机完成无人驾驶智能首飞后，研制进程中的又一个节点。 CE-25A 是中国商飞第一款电动商用飞机，定位城市间商业飞行，可搭载 19 名乘客，最大起飞重量 10 吨，巡航速度 300 公里 / 小时，巡航高度 2400 米，航程 400 公里。 此次飞行的核心看点在于“有人驾驶”与“智能飞行”的结合。此前的 19 次验证均为无人",
-     "source": "IT之家",
-     "zh": "中国商飞 10 吨级电动商用飞机 CE-25A 有人驾驶首飞成功"
-    },
-    {
-     "title": "Run Cloudflare Workers Anywhere",
-     "link": "https://openorange.dev/",
-     "pubDate": "Sat, 14 Nov 2026 03:58:32 +0000",
-     "summary": "Article URL: https://openorange.dev/ Comments URL: https://news.ycombinator.com/item?id=50493731 Points: 12 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Run Cloudflare Workers Anywhere"
     },
     {
      "title": "Free speech group FIRE says DOJ and DHS will end efforts to curb \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up iOS app, which report on ICE activity (Kanishka Singh/Reuters)",
@@ -1952,54 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Dan Mangan / CNBC : US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi &nbsp; &mdash;&nbsp; President Donald Trump is not expected to raise allegations of a Chinese intelligence operation involvin",
      "source": "Techmeme",
      "zh": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)"
-    },
-    {
-     "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-     "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-     "pubDate": "Sat, 14 Nov 2026 02:52:59 +0000",
-     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 209 # Comments: 114",
-     "source": "Hacker News",
-     "zh": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
-    },
-    {
-     "title": "宁夏“龙头酒庄”斩获近亿元融资，跨产区运作的压力给到西鸽酒庄",
-     "link": "https://www.tmtpost.com/8204938.html",
-     "pubDate": "Sat, 14 Nov 2026 10:30:00 +0800",
-     "summary": "国产葡萄酒新玩家的野心、机遇与隐忧。",
-     "source": "钛媒体",
-     "zh": "宁夏“龙头酒庄”斩获近亿元融资，跨产区运作的压力给到西鸽酒庄"
-    },
-    {
-     "title": "Ggml v1.0.0",
-     "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-     "pubDate": "Sat, 14 Nov 2026 02:28:29 +0000",
-     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 119 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "Ggml v1.0.0"
-    },
-    {
-     "title": "Tesla says \"select customers\" can now place orders for its Cybercab \"for personal use\", for $30K plus a required $299/month Autonomy Subscription to operate (Kara Carlson/Bloomberg)",
-     "link": "https://www.techmeme.com/261113/p39#a261113p39",
-     "pubDate": "Fri, 13 Nov 2026 21:25:00 -0500",
-     "summary": "Kara Carlson / Bloomberg : Tesla says &ldquo;select customers&rdquo; can now place orders for its Cybercab &ldquo;for personal use&rdquo;, for $30K plus a required $299/month Autonomy Subscription to operate &nbsp; &mdash;&nbsp; Tesla Inc. invited select customers to place orders for the Cybercab in",
-     "source": "Techmeme",
-     "zh": "Tesla says \"select customers\" can now place orders for its Cybercab \"for personal use\", for $30K plus a required $299/month Autonomy Subscription to operate (Kara Carlson/Bloomberg)"
-    },
-    {
-     "title": "英伟达“跌倒”，会是平头哥和昆仑芯的窗口期吗？",
-     "link": "https://www.tmtpost.com/8204784.html",
-     "pubDate": "Sat, 14 Nov 2026 10:25:00 +0800",
-     "summary": "终于来了么？",
-     "source": "钛媒体",
-     "zh": "英伟达“跌倒”，会是平头哥和昆仑芯的窗口期吗？"
-    },
-    {
-     "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-     "pubDate": "Sat, 14 Nov 2026 02:21:36 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 127 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal"
     }
    ]
   },
@@ -2258,6 +2258,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "ArrowMark Financial declares $0.15 dividend",
+     "link": "https://seekingalpha.com/news/4672756-arrowmark-financial-declares-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 14 Nov 2026 01:01:23 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ArrowMark Financial declares $0.15 dividend"
+    },
+    {
+     "title": "Seritage Growth Properties 7% CUM PFD SR A declares $0.4375 dividend",
+     "link": "https://seekingalpha.com/news/4672755-seritage-growth-properties-7-percent-cum-pfd-sr-a-declares-0_4375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 14 Nov 2026 01:00:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Seritage Growth Properties 7% CUM PFD SR A declares $0.4375 dividend"
+    },
+    {
+     "title": "Eagle Capital Growth Fund declares $0.49 dividend",
+     "link": "https://seekingalpha.com/news/4672754-eagle-capital-growth-fund-declares-0_49-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 14 Nov 2026 00:58:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Eagle Capital Growth Fund declares $0.49 dividend"
+    },
+    {
+     "title": "ECA Marcellus Trust I declares $0.021 dividend",
+     "link": "https://seekingalpha.com/news/4672753-eca-marcellus-trust-i-declares-0_021-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 14 Nov 2026 00:58:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ECA Marcellus Trust I declares $0.021 dividend"
+    },
+    {
      "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
      "pubDate": "Sat, 14 Nov 2026 05:08:24 GMT",
@@ -2298,38 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "K-Bro Linen declares CAD 0.10 dividend"
     },
     {
-     "title": "Lowe's declares $1.25 dividend",
-     "link": "https://seekingalpha.com/news/4672750-lowes-declares-1_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 23:43:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lowe's declares $1.25 dividend"
-    },
-    {
-     "title": "Cathay General Bancorp declares $0.38 dividend",
-     "link": "https://seekingalpha.com/news/4672749-cathay-general-bancorp-declares-0_38-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 23:41:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cathay General Bancorp declares $0.38 dividend"
-    },
-    {
-     "title": "Atlanticus Holdings declares $0.4766 dividend",
-     "link": "https://seekingalpha.com/news/4672748-atlanticus-holdings-declares-0_4766-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 23:40:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Atlanticus Holdings declares $0.4766 dividend"
-    },
-    {
-     "title": "CMS.PR.C declares $0.2625 dividend",
-     "link": "https://seekingalpha.com/news/4672747-cms-pr-c-declares-0_2625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 23:39:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CMS.PR.C declares $0.2625 dividend"
-    },
-    {
      "title": "12款药新入商保创新药目录，价格协商成功率100%",
      "link": "http://www.eeo.com.cn/2026/1114/1092864.shtml",
      "pubDate": "Sat, 14 Nov 2026 12:39:32 +0800",
@@ -2344,54 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达CEO黄仁勋的离职令科技股前景蒙上阴影，著名空头Michael Burry借势加码做空押注，断言AI热潮正在上演一场\"牛市陷阱\"。 Burry在其Substack上撰文， 将纳斯达克100指数今年10月6日触及的高点比作2000年3月互联网泡沫破裂前夕的顶部，并表示已于11月12日利用指数反弹至27000点之际，将纳斯达克100指数的看跌期权仓位翻倍——行权日期定于2027年初，当前虚值幅度约20%。 与此同时，他还重新建立了此前已平仓的VanEck半导体指数看跌期权头寸。 Burry的核心判断是，芯片股及整体科技板块将在2027年中前遭受显著回调。黄仁勋的突然离职进一步强化了他的看空逻",
      "source": "华尔街见闻",
      "zh": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”"
-    },
-    {
-     "title": "马斯克：将签名支持黄仁勋复职",
-     "link": "http://finance.eastmoney.com/news/1344,202611143931318775.html",
-     "pubDate": "Sat, 14 Nov 2026 12:16:45 +0800",
-     "summary": "黄仁勋辞职事件仍在发酵，马斯克继续为黄仁勋发声。在一名网友的留言下，马斯克表示，自己将签名支持黄仁勋回归。 黄仁勋辞职前，一位资深工程师曾在 英伟达 内网“建议箱”发帖，希望董事会采取行动前，先听听员工的意见。内部 通信 显示，该帖已有超过1600多条评论，超过97%的员工希望黄仁勋留任。 员工们纷纷表示“ 英伟达 就是黄仁勋，黄仁勋就是 英伟达 ”“我们都是人，都会犯错，黄仁勋做过那么多正确的事，他需要第二次机会”。 11月13日，有网友在社交平台上分享2023年传记电影《AIR》（气垫传奇）中的台词：你将永远被铭记，因为有些东西是永恒的。马斯克回复：“老黄（Jensen）。” 据报道，特朗",
-     "source": "东方财富资讯",
-     "zh": "马斯克：将签名支持黄仁勋复职"
-    },
-    {
-     "title": "吴清：提升资本市场抵御各类“黑天鹅”等风险事件的能力",
-     "link": "http://finance.eastmoney.com/news/1350,202611143931315884.html",
-     "pubDate": "Sat, 14 Nov 2026 12:03:09 +0800",
-     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，全球资本市场正在经历新一轮的资产再定价、再平衡。这需要积极践行全球治理倡议，深化资本市场监管合作，共同研究应对不确定难预料因素，增强确定性制度供给，不断提升资本市场抵御各类“黑天鹅”“灰犀牛”等重大风险事件的能力和韧性。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的小川副主席，忠明市长，贺青副市长， 尊敬的戴维斯主席，萨金特教授、李扬教授、姜纬教授，各位专家， 女士们、先生们、朋友们： 大家上午好！首先我代表中国证监会和中国资本市场学会热烈欢迎各位海内外嘉宾莅临首届中国资本市场学术年会！衷心感谢大家长期",
-     "source": "东方财富资讯",
-     "zh": "吴清：提升资本市场抵御各类“黑天鹅”等风险事件的能力"
-    },
-    {
-     "title": "吴清：长钱长投的制度体系不断完善",
-     "link": "http://finance.eastmoney.com/news/1350,202611143931313466.html",
-     "pubDate": "Sat, 14 Nov 2026 11:59:03 +0800",
-     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，2024年以来，社保、保险、年金净买入A股超1.5万亿元，专业机构力量稳步壮大，指数、ETF等产品供给持续丰富，长钱长投的制度体系不断完善。融资端，发行上市、并购重组、再融资等制度包容性适应性持续提升。今年前九个月，股票、债券等直接融资占社会融资增量的比重已近50％。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的小川副主席，忠明市长，贺青副市长， 尊敬的戴维斯主席，萨金特教授、李扬教授、姜纬教授，各位专家， 女士们、先生们、朋友们： 大家上午好！首先我代表中国证监会和中国资本市场学会热烈欢迎各位海内外嘉",
-     "source": "东方财富资讯",
-     "zh": "吴清：长钱长投的制度体系不断完善"
-    },
-    {
-     "title": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动",
-     "link": "http://finance.eastmoney.com/news/1350,202611143931312639.html",
-     "pubDate": "Sat, 14 Nov 2026 11:58:11 +0800",
-     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，进一步深化市场稳定长效机制研究，中国资本市场从未像今天这样与全球资本市场高度联动、传导共振。面对高度不确定的外部环境和输入性风险，需要我们加强对全球资本市场周期变化、资产定价逻辑演变、风险传导联动等规律性认识，进一步强化跨境跨市场跨行业风险的研究应对，系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的小川副主席，忠明市长，贺青副市长， 尊敬的戴维斯主席，萨金特教授、李扬教授、姜纬教授，各位专家， 女士们、先生们、朋友们： 大家上午好！首先我代表中国",
-     "source": "东方财富资讯",
-     "zh": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动"
-    },
-    {
-     "title": "钠电池最新突破！机构看好未来行业出货量 8只概念股兼具低PE+高股息",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931314414.html",
-     "pubDate": "Sat, 14 Nov 2026 11:57:31 +0800",
-     "summary": "钠离子电池 作为 锂 电池 的重要补充，近年来受到业界、科研界、 资本界 高度关注，产业化进程明显提速。 无负极钠 电池 取得突破 兼顾长寿命与低温性能 据中国科学报消息，近日，西安交通大学材料学院金属材料强度全国重点实验室微纳尺度材料行为研究中心教授薛伟江课题组，提出了一种基于1, 3-二氧六环（DOX）醚的“界面可控聚合”电解液分子设计策略，通过同时促进高度可逆的钠沉积并抑制电解质分解，从而缓解活性钠损失，推动无负极钠金属 电池 实现长循环和宽温域工作。相关成果发表在《自然-能源》上。 团队研究发现，DOX与钠离子之间存在弱配位作用，能够助力钠离子脱溶剂化，实现可逆的金属钠沉积。同时，DO",
-     "source": "东方财富资讯",
-     "zh": "钠电池最新突破！机构看好未来行业出货量 8只概念股兼具低PE+高股息"
-    },
-    {
-     "title": "吴清：科学把握节奏的同时加强对科技企业发行上市的制度适配性研究",
-     "link": "http://finance.eastmoney.com/news/1350,202611143931311546.html",
-     "pubDate": "Sat, 14 Nov 2026 11:55:07 +0800",
-     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，进一步深化制度包容性适应性研究。资本市场作为市场化资源配置的重要平台，要进一步研究深化投融资 综合 改革，加快构建适应创新规律、产业规律的直接融资体系，统筹发挥私募市场与公开市场、股票市场与债券市场的协同功能，尤其是要在科学把握节奏的同时，加强对大型和新型科技企业发行上市的制度适配性和风险应对机制研究。同时，要全面准确理解新质生产力发展的科学内涵，深入研究支持新型消费、传统产业升级等不同领域优质企业上市发展，不断改善和优化上市公司结构，促进市场均衡协调发展。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的",
-     "source": "东方财富资讯",
-     "zh": "吴清：科学把握节奏的同时加强对科技企业发行上市的制度适配性研究"
     },
     {
      "title": "AI短剧制作迁入长三角机房",
@@ -2434,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "US aviation regulator lifts order that grounded thousands of flights"
     },
     {
-     "title": "年轻人，新农机",
-     "link": "http://www.eeo.com.cn/2026/1114/1092732.shtml",
-     "pubDate": "Sat, 14 Nov 2026 11:02:10 +0800",
-     "summary": "在新疆库尔勒的棉田与玉米地之间，一台采用“银河之光灰”主色、辅以“粒子绿”涂装的农机正在深翻土地。车身线条凌厉，带着机甲风格，驾驶室里的抖音视频取代了传统农机震耳欲聋的柴油轰鸣。 驾驶农机的是31岁的王延。今年是他做农机手的第十个年头。在库尔勒的农机圈里，他属于不折不扣的“年轻人”——这个行业的主力，是45岁以上的人。 <p class=\"ql-align-jus...",
-     "source": "经济观察网",
-     "zh": "年轻人，新农机"
-    },
-    {
      "title": "传统的圣诞行情，今年的美股还有吗？",
      "link": "https://wallstreetcn.com/articles/3785929",
      "pubDate": "Sat, 14 Nov 2026 10:49:13 +0800",
@@ -2456,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
      "source": "MarketWatch",
      "zh": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
-    },
-    {
-     "title": "英伟达没了黄仁勋",
-     "link": "http://www.eeo.com.cn/2026/1114/1092701.shtml",
-     "pubDate": "Sat, 14 Nov 2026 10:25:28 +0800",
-     "summary": "国内供应链企业普遍认为，英伟达换帅在短期内不会影响机柜的出货和当前的订单，变数在于英伟达此后的平台升级能否保持原有的节奏和幅度。",
-     "source": "经济观察网",
-     "zh": "英伟达没了黄仁勋"
     },
     {
      "title": "14 dividend stocks selected for long-term growth",
@@ -2496,6 +2432,70 @@ window.INDUSTRY_DATA = {
      "summary": "黄仁勋辞去英伟达CEO职务的余波正在硅谷迅速蔓延，以马斯克为代表的科技界领军人物正积极介入，试图推动这位灵魂人物重掌帅印。 北京时间今天清晨，马斯克在社交媒体上公开确认，自己正在签署一份请求黄仁勋复职的请愿书。与此同时， 承载一请愿活动的网站 因访问量激增而面临服务器压力，目前已收集到超过1.4万人的签名支持。 曾在英伟达工作过的核心工程师的公开表态暗示，如果高层未能妥善处理此次变动，公司可能遭遇关键技术人员的离职抗议，这将直接影响英伟达的业务根基。 在科技界看来，强行剥离一位具有行业定义能力的创始人往往伴随着巨大代价。多位知名投资人和行业观察家已经将此次事件与苹果和Uber的历史教训相提并论",
      "source": "华尔街见闻",
      "zh": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”"
+    },
+    {
+     "title": "SpaceX launches Starship in key test flight of massive rocket",
+     "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+     "pubDate": "Sat, 14 Nov 2026 01:18:51 GMT",
+     "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+     "source": "CNBC",
+     "zh": "SpaceX launches Starship in key test flight of massive rocket"
+    },
+    {
+     "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
+     "link": "https://wallstreetcn.com/articles/3785914",
+     "pubDate": "Sat, 14 Nov 2026 09:09:09 +0800",
+     "summary": "OpenAI解散独立机器人团队，押注通用模型直驱具身智能。 11月13日，据《财富》杂志报道， OpenAI已解散独立运营的机器人团队，将相关研究人员分拨至其他部门 。公司表示，此举的直接导火索是GPT-6 Astra等通用前沿模型的意外突破。 研究人员发现，这些模型可被直接应用于机器人控制任务，无需为机器人单独开发专用模型。 在英伟达的一项测试中，由Astra驱动的智能体在模拟操作基准测试中达到74.8%的成功率，优于该榜单上最佳专用机器人模型报告的51.0%。 此次重组同样发生在OpenAI承压削减成本的背景之下 。据报道，该公司最近一个季度的运营亏损高达109亿美元，同时正寻求完成新一轮",
+     "source": "华尔街见闻",
+     "zh": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型"
+    },
+    {
+     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+     "pubDate": "Fri, 13 Nov 2026 23:54:36 GMT",
+     "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+     "source": "CNBC",
+     "zh": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning"
+    },
+    {
+     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 23:12:00 GMT",
+     "summary": "There is already a demographic ‘run’ on Social Security.",
+     "source": "MarketWatch",
+     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
+    },
+    {
+     "title": "4 expert tips for signing up for Medicare",
+     "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 22:45:00 GMT",
+     "summary": "A day in the life of a Medicare counselor",
+     "source": "MarketWatch",
+     "zh": "4 expert tips for signing up for Medicare"
+    },
+    {
+     "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 22:21:00 GMT",
+     "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?"
+    },
+    {
+     "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+     "pubDate": "Fri, 13 Nov 2026 22:18:43 GMT",
+     "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+     "source": "CNBC",
+     "zh": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion"
+    },
+    {
+     "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+     "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 22:04:00 GMT",
+     "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+     "source": "MarketWatch",
+     "zh": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel."
     }
    ]
   },

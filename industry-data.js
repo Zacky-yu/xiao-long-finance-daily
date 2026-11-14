@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 10:51:54",
+ "generated_at": "2026/11/14 11:11:59",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,30 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "EXPOLINE Successfully Completes Multimodal Logistics project for advanced physical AI robots",
+     "link": "https://roboticsandautomationnews.com/2026/11/14/expoline-successfully-completes-multimodal-logistics-project-for-advanced-physical-ai-robots/107092/",
+     "pubDate": "Sat, 14 Nov 2026 03:08:04 +0000",
+     "summary": "Expoline, a South Korean specialist in international exhibition and special cargo logistics, has successfully completed a multimodal transportation and on-site logistics project involving advanced humanoid robots developed by a global physical AI robotics company. The project supported the company’s",
+     "source": "Robotics & Automation",
+     "zh": "EXPOLINE Successfully Completes Multimodal Logistics project for advanced physical AI robots"
+    },
+    {
+     "title": "ABB Robotics brings industrial-grade physical AI to fashion logistics",
+     "link": "https://roboticsandautomationnews.com/2026/11/14/abb-robotics-brings-industrial-grade-physical-ai-to-fashion-logistics/107087/",
+     "pubDate": "Sat, 14 Nov 2026 02:59:04 +0000",
+     "summary": "ABB Robotics has launched its first end-to-end vision-based industrial-grade physical AI solution, integrating AI Robot Trainer into its Fashion Inductor module to help system integrators deploy, scale and continuously optimize AI-powered fashion logistics applications with significantly reduced eff",
+     "source": "Robotics & Automation",
+     "zh": "ABB Robotics brings industrial-grade physical AI to fashion logistics"
+    },
+    {
+     "title": "Queue introduces robotic pharmacy kiosk that fills prescriptions in 30 seconds",
+     "link": "https://roboticsandautomationnews.com/2026/11/14/queue-introduces-robotic-pharmacy-kiosk-that-fills-prescriptions-in-30-seconds/107084/",
+     "pubDate": "Sat, 14 Nov 2026 02:52:19 +0000",
+     "summary": "California-based healthcare technology company Queue has introduced an autonomous robotic pharmacy kiosk designed to fill, verify and label prescription medications in approximately 30 seconds. The system can accommodate 340 different medications and uses machine vision to verify every pill before d",
+     "source": "Robotics & Automation",
+     "zh": "Queue introduces robotic pharmacy kiosk that fills prescriptions in 30 seconds"
+    },
+    {
      "title": "NEXCOM expands RoboWIZ robotics platform with new technology partners",
      "link": "https://roboticsandautomationnews.com/2026/11/14/nexcom-expands-robowiz-robotics-platform-with-new-technology-partners/107080/",
      "pubDate": "Sat, 14 Nov 2026 02:44:21 +0000",
@@ -528,14 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Automated warehouses are changing how logistics work through intelligent material-handling systems, robotics and autonomous vehicles. However, increased automation in the workplace is introducing new safety challenges as machinery, moving equipment and people share the same complex environment. The ",
      "source": "Robotics & Automation",
      "zh": "Automated Warehouses: Why Safety Infrastructure Matters More Than Ever"
-    },
-    {
-     "title": "What Makes Modern Dentistry an Appealing Career Choice",
-     "link": "https://roboticsandautomationnews.com/2026/11/13/what-makes-modern-dentistry-an-appealing-career-choice/107065/",
-     "pubDate": "Fri, 13 Nov 2026 21:38:23 +0000",
-     "summary": "Modern dentistry combines patient care, practical problem-solving, and opportunities to work with evolving technology. It offers several professional directions, from general practice to education and research, rather than one fixed career track. For anyone exploring a modern dentistry career, the a",
-     "source": "Robotics & Automation",
-     "zh": "What Makes Modern Dentistry an Appealing Career Choice"
     },
     {
      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
@@ -578,14 +594,6 @@ window.INDUSTRY_DATA = {
      "zh": "Narwal builds robot vacuums to serve regional needs"
     },
     {
-     "title": "XPENG expands UK operations with new vehicles, robotaxis and humanoid robots",
-     "link": "https://roboticsandautomationnews.com/2026/11/12/xpeng-expands-uk-operations-with-new-vehicles-robotaxis-and-humanoid-robots/107054/",
-     "pubDate": "Thu, 12 Nov 2026 20:00:28 +0000",
-     "summary": "XPENG is taking its ambitions in the UK to the next level, setting out a long-term growth strategy that extends beyond expanding its electric vehicle presence to bringing its vision for physical AI to British consumers. At its first UK Brand Day, introduced by Brian Gu, vice chairman and president o",
-     "source": "Robotics & Automation",
-     "zh": "XPENG expands UK operations with new vehicles, robotaxis and humanoid robots"
-    },
-    {
      "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
      "link": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
      "pubDate": "Thu, 12 Nov 2026 16:33:17 +0000",
@@ -608,14 +616,6 @@ window.INDUSTRY_DATA = {
      "summary": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra. Developers can now use it with open weights. The post Runway’s Praxis-1 world action model for robotics is now available appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Runway’s Praxis-1 world action model for robotics is now available"
-    },
-    {
-     "title": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion",
-     "link": "https://roboticsandautomationnews.com/2026/11/12/estun-robotics-and-robodk-announce-strategic-partnership-at-dfactory-barcelona-to-simplify-and-accelerate-the-adoption-of-industrial-robots-in-europe/107047/",
-     "pubDate": "Thu, 12 Nov 2026 00:40:29 +0000",
-     "summary": "ESTUN Robotics and RoboDK have formalized a Strategic Partnership to drive the integration of their technologies and facilitate the development, simulation and programming of industrial robotic applications. The agreement brings together ESTUN Robotics, China’s largest industrial robot manufacturer,",
-     "source": "Robotics & Automation",
-     "zh": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion"
     },
     {
      "title": "AI100 report released: embodied AI highlighted as grand challenge",
@@ -949,7 +949,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1000,14 +1000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla is an interesting company at an interesting phase of the electric vehicle transition. Well, it has always been an interesting company in this transition. However, lately, as the industry has moved quickly into a new phase, I have been wondering where Tesla will sit amidst it in the coming ... ",
      "source": "CleanTechnica",
      "zh": "Is Tesla The Apple Of The EV Industry?"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
      "source": "PV Tech",
      "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
+    },
+    {
+     "title": "Sodium-ion batteries close gap with lithium-ion as utility-scale storage opportunities grow",
+     "link": "https://www.pv-magazine.com/2026/11/13/sodium-ion-batteries-close-gap-with-lithium-ion-as-utility-scale-storage-opportunities-grow/",
+     "pubDate": "Fri, 13 Nov 2026 10:37:49 +0000",
+     "summary": "Sodium-ion batteries are approaching lithium-ion performance in key areas, with commercial cells reaching energy densities of 175 Wh/kg and offering strong low-temperature performance. Silvia Bodoardo, professor at the Polytechnic University of Turin, told pv magazine that utility-scale energy stora",
+     "source": "pv magazine",
+     "zh": "Sodium-ion batteries close gap with lithium-ion as utility-scale storage opportunities grow"
     }
    ]
   },
@@ -1730,20 +1730,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "荣耀被曝测试多款豪威影像传感器，“最顶”主摄为 2 亿像素 OVB0D",
+     "link": "https://www.ithome.com/1/027/067.htm",
+     "pubDate": "Sat, 14 Nov 2026 03:03:47 GMT",
+     "summary": "IT之家 11 月 14 日消息，据博主 @数码闲聊站 今日爆料，荣耀手机正在测试多款豪威旗下的影像传感器。 据其透露，目前测试“最顶”的主摄为 200Mp 1/1.12\" OVB0D LOFIC 1X-2X ，中高端主摄为 200Mp 1/1.55\" OV52F，中高端潜望长焦为 64Mp 1/2\" OV64D，原生方形前摄为 68Mp OV68F。 IT之家注意到，豪威于去年 12 月发布 OVB0D 手机 CMOS 传感器 ，旨在对标索尼 LYTIA 901。OVB0D 传感器拥有 40 万 full-well（满阱容量，每个像素能容纳的最大电荷量）、108dB 动态范围、二代 DCG（",
+     "source": "IT之家",
+     "zh": "荣耀被曝测试多款豪威影像传感器，“最顶”主摄为 2 亿像素 OVB0D"
+    },
+    {
+     "title": "“苹果最暗产品”：苹果首款智能家居中枢 HomeView 屏幕最低仅 0.3 尼特",
+     "link": "https://www.ithome.com/1/027/066.htm",
+     "pubDate": "Sat, 14 Nov 2026 02:57:26 GMT",
+     "summary": "IT之家 11 月 14 日消息，昨日（11 月 13 日）在接受 TechRadar 采访时，苹果硬件工程副总裁 Matthew Costello 表示， 苹果首款智能家居中枢 HomeView 屏幕最低仅 0.3 尼特，高管笑称是“最暗的苹果产品”。 IT之家翻译 Costello 采访时回应内容如下： 我非常喜欢 HomeView，这是我们迄今为止设计的产品中最暗的产品，最低亮度降至 0.3 尼特。 所以官方来说，我打造的是苹果公司有史以来最暗的产品。我不知道这是好事还是坏事，但我对此非常自豪。 尼特（nit）是描述屏幕亮度的单位，1 尼特等于 1 坎德拉／平方米。数值越小，意味着在相同",
+     "source": "IT之家",
+     "zh": "“苹果最暗产品”：苹果首款智能家居中枢 HomeView 屏幕最低仅 0.3 尼特"
+    },
+    {
+     "title": "上汽大通 27 款大拿 M1 上市：83 度宁德时代天行电池，19.28 万元起",
+     "link": "https://www.ithome.com/1/027/065.htm",
+     "pubDate": "Sat, 14 Nov 2026 02:52:02 GMT",
+     "summary": "IT之家 11 月 14 日消息，11 月 13 日，上汽大通 27 款大拿 M1 在国内正式上市，售价 19.28 万元起，搭载 83 度宁德时代天行电池。 IT之家从数据获悉，该车提供 9 座布局 （2+2+2+3 独立、2+2+2+3 联排两种形式），最大座椅间距 750mm，内部空间高度 1675mm。高顶车型车高 2180mm，可畅行 2.2 米以下地库或城市限高路段。 空间方面，该车后厢可容纳 8 个 20 寸登机箱，提供高顶对开尾门与低顶举升尾门两种开启形式；二排为滑动独立座椅，配备前后冷暖空调，侧窗透光面积近 2m²，并标配 USB 接口。 三电方面，该车搭载 83kWh 宁德",
+     "source": "IT之家",
+     "zh": "上汽大通 27 款大拿 M1 上市：83 度宁德时代天行电池，19.28 万元起"
+    },
+    {
+     "title": "巴西独立站接Pix，3人运营团队排期该怎么排才不压垮上线节奏？",
+     "link": "https://www.baijing.cn/question/638715",
+     "pubDate": "Sat, 14 Nov 2026 02:50:01 +0000",
+     "summary": "我们做拉美独立站，主推巴西市场，团队一共3个人：1个前端兼运维、1个运营、1个客服兼内容，月投放预算大概1.5万美元。现在要接Pix，本地支付服务商给了两种方案，一种是托管收银台跳转，一种是API直连自己拼结账页。我们试过先上跳转方案，结果结账页多一次跳转后移动端下单转化从3.1%掉到1.9%，客服每天要处理十几条Pix二维码过期和CPF填错的咨询。现在想改直连，但3个人里没人有巴西支付对接经验，运营还要同时盯墨西哥站的选品上新。想请教的是：在只有3个人、墨西哥站不能停更的前提下，Pix直连该排在哪个节点做、要不要先招一个懂本地支付的兼职？",
+     "source": "白鲸出海",
+     "zh": "巴西独立站接Pix，3人运营团队排期该怎么排才不压垮上线节奏？"
+    },
+    {
+     "title": "全家共用一块屏幕，私人消息怎么办？苹果解释 HomeView 如何守护隐私",
+     "link": "https://www.ithome.com/1/027/064.htm",
+     "pubDate": "Sat, 14 Nov 2026 02:44:02 GMT",
+     "summary": "IT之家 11 月 14 日消息，昨日（11 月 13 日）接受科技媒体 TechRader 采访时，苹果硬件工程副总裁 Matthew Costello 与家居产品营销负责人 Cecilia Dantas 介绍了苹果首款智能家居中枢 HomeView 如何守住聊天隐私的。 IT之家援引博文介绍，在采访中，Costello 表示苹果 HomeView 无需手动登录、退出或切换个人资料，可以识别最多 6 名家庭成员。而且用户离开后，设备会撤下其个人信息。显示私人内容前，系统还会检查配对 iPhone 是否在网络中，以及近期是否解锁。 隐私方面，该媒体记者 Jacob Krol 实测他正在 Hom",
+     "source": "IT之家",
+     "zh": "全家共用一块屏幕，私人消息怎么办？苹果解释 HomeView 如何守护隐私"
+    },
+    {
+     "title": "微信鸿蒙版 App 获 8.0.23.38 邀测升级",
+     "link": "https://www.ithome.com/1/027/063.htm",
+     "pubDate": "Sat, 14 Nov 2026 02:42:54 GMT",
+     "summary": "IT之家 11 月 14 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.23.38 (8394534) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/13-2026/12/13。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 以及 MeoW 反馈，8.0.23 版微信中发现的新特性包括但不限于（IT之家注：不局限于 8.0.23.38）： 0.部分 Flutter 跨端页面（如朋友圈、听一听等页面）响应系统字体粗细； 1.更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化",
+     "source": "IT之家",
+     "zh": "微信鸿蒙版 App 获 8.0.23.38 邀测升级"
+    },
+    {
+     "title": "格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产",
+     "link": "https://www.ithome.com/1/027/062.htm",
+     "pubDate": "Sat, 14 Nov 2026 02:42:39 GMT",
+     "summary": "IT之家 11 月 14 日消息，GlobalFoundries（格罗方德）当地时间昨日宣布， 其计划根据美日合作协议建设的两座晶圆厂中的首座于其美国纽约州马耳他市厂区动工 ，预计 2029 年投产。 根据此前宣布的协议， 这两座晶圆厂将采取日本提供资金、格罗方德提供技术的模式 ，投资总额可达 210 亿美元。此次建设的首座晶圆厂获得了约 100 亿美元的初期投资以及纽约州的 5.7 亿美元财政激励，第二座晶圆厂的投资也在 100 亿美元上下。 该美日合作晶圆厂项目预计将为当地带来 2.7 万个建筑及生态系统相关岗位、超 1 千个高技能制造业岗位。 每座晶圆厂的月产能约为 7.5 万片 300",
+     "source": "IT之家",
+     "zh": "格罗方德美国新晶圆厂动工：日本提供资金支持，首座 2029 年投产"
+    },
+    {
      "title": "6人小团队做非洲短剧，传音预装带来的量怎么排人力接得住？",
      "link": "https://www.baijing.cn/question/638714",
      "pubDate": "Sat, 14 Nov 2026 02:35:56 +0000",
      "summary": "我们6个人做短剧出海，主攻尼日利亚和肯尼亚，刚上线3个月。上个月通过传音预装渠道进来一批量，尼日利亚日活从8000冲到4.2万，但留存次留只有19%，付费率0.6%。现在问题在人手：2个运营要同时管斯瓦希里语和英语字幕、每周上4部新剧、还要盯预装渠道的素材更新，排期已经排到两周后。试过把字幕外包给本地兼职，交付延迟3天，质量也不稳。卡在预装量还在涨，但内容供给和本地化节奏跟不上，怕砸了渠道关系。这种人手约束下，是先砍上新频率保质量，还是加钱扩编本地运营？",
      "source": "白鲸出海",
      "zh": "6人小团队做非洲短剧，传音预装带来的量怎么排人力接得住？"
-    },
-    {
-     "title": "索尼宣布《战神：斯巴达之子》推出 PS4 版，新增两种游戏模式",
-     "link": "https://www.ithome.com/1/027/058.htm",
-     "pubDate": "Sat, 14 Nov 2026 02:33:06 GMT",
-     "summary": "IT之家 11 月 14 日消息，索尼圣莫尼卡工作室宣布 2D 动作平台游戏《战神：斯巴达之子》将于 11 月 16 日登陆 PS4，发售时间为当地时间午夜。 《战神：斯巴达之子》此前已于 2026 年 2 月 12 日率先登陆 PS5，由 Mega Cat Studios 与 Santa Monica Studio 合作开发，是一款采用复古像素美术风格的 2D 动作平台游戏。故事以年轻时期的奎托斯为主角，讲述他与弟弟戴莫斯在斯巴达接受严酷训练期间的经历。 价格方面，游戏标准版售价为 29.99 美元 / 29.99 欧元 / 24.99 英镑 / 3,480 日元 （IT之家注：现汇率约合 ",
-     "source": "IT之家",
-     "zh": "索尼宣布《战神：斯巴达之子》推出 PS4 版，新增两种游戏模式"
     },
     {
      "title": "谁最痛恨柏林墙的倒塌？是失去铁饭碗的前既得利益者",
@@ -1762,6 +1810,14 @@ window.INDUSTRY_DATA = {
      "zh": "宁夏“龙头酒庄”斩获近亿元融资，跨产区运作的压力给到西鸽酒庄"
     },
     {
+     "title": "Ggml v1.0.0",
+     "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+     "pubDate": "Sat, 14 Nov 2026 02:28:29 +0000",
+     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Ggml v1.0.0"
+    },
+    {
      "title": "腾讯“裁员”风波背后：物理AI正在重塑大厂的权力序列",
      "link": "https://www.huxiu.com/article/4905443.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 10:27:06 +0800",
@@ -1776,14 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "去年10月旺季，我们日本独立站（美妆个护，客单价约6000日元）日均咨询从80条涨到260条，3人运营团队里只有1个N2能回日语邮件，响应时长从4小时拉到19小时，退款率跟着涨了2.3个点。今年想外包日语客服，但排期卡住了：外包商报的是工作日9-18点、周末仅邮件，可日本用户夜间和周日咨询占比接近四成；我们自己的运营还要盯投放和上新，没法长期兼夜班。试过用翻译工具加模板顶夜间，结果敬语出错被客诉。现在纠结的是外包时段怎么和自有人手错峰、旺季临时加人按什么标准验收，是先包夜间还是先包周末？",
      "source": "白鲸出海",
      "zh": "日本独立站日语客服外包，3人团队旺季排期怎么排才不崩？"
-    },
-    {
-     "title": "配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场",
-     "link": "https://www.ithome.com/1/027/057.htm",
-     "pubDate": "Sat, 14 Nov 2026 02:26:45 GMT",
-     "summary": "IT之家 11 月 14 日消息，在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露， 苹果将会在 2027 年春季发布 iPhone 18 和 iPhone 18e 两款手机，将会搭载 A20 芯片。 在上述视频的约 36:43~37:00 分，古尔曼表示：“iPhone 18 和 iPhone 18e 将于明年春季搭载普通版 A20 芯片”。 IT之家此前报道， 消息称 iPhone 18 将配备 6.3 英寸 1.5K 120Hz OLED 常规灵动岛屏幕 ，搭载 2nm 制程工艺的 A20 芯片，拥有 Face ID、48MP 双摄，同",
-     "source": "IT之家",
-     "zh": "配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场"
     },
     {
      "title": "Tesla says \"select customers\" can now place orders for its Cybercab \"for personal use\", for $30K plus a required $299/month Autonomy Subscription to operate (Kara Carlson/Bloomberg)",
@@ -1802,20 +1850,20 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达“跌倒”，会是平头哥和昆仑芯的窗口期吗？"
     },
     {
-     "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-     "pubDate": "Sat, 14 Nov 2026 02:21:36 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 7 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal"
+     "title": "九州云箭：不造火箭只卖“心脏”，百亿估值的动力供应商启动IPO辅导",
+     "link": "https://www.tmtpost.com/8205186.html",
+     "pubDate": "Sat, 14 Nov 2026 10:23:17 +0800",
+     "summary": "公司背后已聚集市场化创投、产业资本及多地国资平台，投后估值达100亿元，跻身商业航天“独角兽”行列。",
+     "source": "钛媒体",
+     "zh": "九州云箭：不造火箭只卖“心脏”，百亿估值的动力供应商启动IPO辅导"
     },
     {
-     "title": "上汽大通 27 款大拿 V1 上市：标配宁德时代天行电池，8.88 万元起",
-     "link": "https://www.ithome.com/1/027/054.htm",
-     "pubDate": "Sat, 14 Nov 2026 02:20:47 GMT",
-     "summary": "IT之家 11 月 14 日消息，11 月 13 日，上汽大通 27 款大拿 V1 在国内正式上市，售价 8.88 万元起。 IT之家从官方数据获悉，该车长宽高分别为 4800mm、1870mm、1960mm，内部空间 7m³。多功能版提供 2+3、3+3、3+2 三种座椅布局，营运版提供 7/8/9 座（2+2+3、3+2+3、3+3+3）。 装载一侧，该车配备 270° 最大开合角后尾门，地板高度 520mm，行李区最大纵深 1.42m。官方称其最小转弯半径为 5.75m，顶高 1.96m 可畅行 2 米限高地库，离地间隙 185mm，涉水深度 300mm。 三电方面，该车 CLTC 续航",
-     "source": "IT之家",
-     "zh": "上汽大通 27 款大拿 V1 上市：标配宁德时代天行电池，8.88 万元起"
+     "title": "高端鸡蛋卖到近3元一枚，时隔九年重启IPO的圣迪乐村能否跨过鸡周期",
+     "link": "https://www.tmtpost.com/8205183.html",
+     "pubDate": "Sat, 14 Nov 2026 10:23:06 +0800",
+     "summary": "一家卖“高端鸡蛋”的公司，利润依然会被普通鸡蛋的价格周期所左右。",
+     "source": "钛媒体",
+     "zh": "高端鸡蛋卖到近3元一枚，时隔九年重启IPO的圣迪乐村能否跨过鸡周期"
     },
     {
      "title": "医学真人秀不能拿“盲猜”当看点",
@@ -1850,42 +1898,10 @@ window.INDUSTRY_DATA = {
      "zh": "银泰到底姓什么？43亿REITs背后的招牌之争"
     },
     {
-     "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订：折叠 10.7 英寸，展开 14.7 英寸",
-     "link": "https://www.ithome.com/1/027/053.htm",
-     "pubDate": "Sat, 14 Nov 2026 02:12:25 GMT",
-     "summary": "IT之家 11 月 14 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 今日 10:08 正式开启预订（IT之家注：价格暂未公布，只表示国补 1500 元，暗示超过 9999 元），提供幻夜黑、天际白、云海蓝三种配色，以及四种存储版本，11 月 24 日付尾款： 16GB/256GB（含键盘 + 内胆包） 16GB/512GB（含键盘 + 内胆包） 24GB/512GB（含键盘 + 内胆包） 32GB/1TB（含键盘 + 手写笔 + 内胆包） 该产品采用纵向小尺寸折叠形态，将折叠 PC 的机身尺寸压缩至接近书本大小，折叠状态 10.7 英寸，展开 14.7 英寸，可容纳文档处",
-     "source": "IT之家",
-     "zh": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订：折叠 10.7 英寸，展开 14.7 英寸"
-    },
-    {
-     "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
-     "link": "https://www.ithome.com/1/027/052.htm",
-     "pubDate": "Sat, 14 Nov 2026 02:11:43 GMT",
-     "summary": "IT之家 11 月 14 日消息，科技媒体 MacRumors 今天（11 月 14 日）发布博文，报道称苹果已推送 tvOS 27.2.1 以及 HomePod Software 27.2.1，内部开发代号均为 24K157。 本次 tvOS 27.2.1 更新最大的亮点， 是苹果面向第二代和第三代 Apple TV 4K 推送 Siri AI 支持 。对这些设备的用户而言，无须更换新款硬件，即可获得此次语音助手升级。 IT之家附上更新日志内容如下： 此次更新为 Apple TV 4K 带来了更强大且更具对话性的 Siri AI。它还增加了最多四个 HomePod 扬声器连接到 Apple ",
-     "source": "IT之家",
-     "zh": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持"
-    },
-    {
-     "title": "英伟达第一次没有黄仁勋",
-     "link": "https://www.tmtpost.com/8204046.html",
-     "pubDate": "Sat, 14 Nov 2026 10:09:00 +0800",
-     "summary": "谁来押注下一个十年？",
-     "source": "钛媒体",
-     "zh": "英伟达第一次没有黄仁勋"
-    },
-    {
-     "title": "瑞幸越来越不像一家咖啡公司了",
-     "link": "https://www.tmtpost.com/8204697.html",
-     "pubDate": "Sat, 14 Nov 2026 10:04:53 +0800",
-     "summary": "做加法往往比做减法容易，同时也危险得多。",
-     "source": "钛媒体",
-     "zh": "瑞幸越来越不像一家咖啡公司了"
-    },
-    {
      "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
      "pubDate": "Sat, 14 Nov 2026 02:02:42 +0000",
-     "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 17 # Comments: 2",
      "source": "Hacker News",
      "zh": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks"
     },
@@ -1898,20 +1914,20 @@ window.INDUSTRY_DATA = {
      "zh": "字节阿里携程，开始拆部门墙了"
     },
     {
-     "title": "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工",
-     "link": "https://www.ithome.com/1/027/050.htm",
-     "pubDate": "Sat, 14 Nov 2026 01:58:31 GMT",
-     "summary": "IT之家 11 月 14 日消息，Perplexity 今天（11 月 14 日）发布公告，邀请付费 Max 订阅用户，在 Mac 平台版 Perplexity 应用上体验 AI 智能体功能“队友”（Teammates）。 该功能此前仅支持 iOS 和网页端，如今进一步覆盖桌面办公场景。 Teammates 可以理解为一组各有分工的“AI 队友”。与需要用户反复提问、逐步下达指令的聊天方式不同，它主打围绕一项职责持续推进工作。用户交代任务后，AI 会规划执行步骤，并跟进至结果可供用户审阅。IT之家附上相关介绍视频如下： 根据 Perplexity 的介绍，用户可以让这些“队友”管理增长营销活动",
-     "source": "IT之家",
-     "zh": "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工"
-    },
-    {
      "title": "AI&apos;s impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
      "link": "https://www.techmeme.com/261113/p38#a261113p38",
      "pubDate": "Fri, 13 Nov 2026 20:55:00 -0500",
      "summary": "Dwarkesh Patel / Dwarkesh Podcast : AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away &nbsp; &mdash;&nbsp; Many thanks to Max Farrens, Gabe Fried, and Thomas Larsen for pairing with me through significan",
      "source": "Techmeme",
      "zh": "AI&apos;s impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)"
+    },
+    {
+     "title": "GigChain Keys – a free, open-source MainStage alternative",
+     "link": "https://github.com/xDarkzx/GigChain-Keys",
+     "pubDate": "Sat, 14 Nov 2026 01:47:30 +0000",
+     "summary": "Article URL: https://github.com/xDarkzx/GigChain-Keys Comments URL: https://news.ycombinator.com/item?id=50492727 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "GigChain Keys – a free, open-source MainStage alternative"
     },
     {
      "title": "The FAA Nationwide Ground Stop Is Over",
@@ -1933,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "FAA lifted National Ground Stop at 0119Z",
      "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
      "pubDate": "Sat, 14 Nov 2026 01:30:01 +0000",
-     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 131 # Comments: 114",
+     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 172 # Comments: 155",
      "source": "Hacker News",
      "zh": "FAA lifted National Ground Stop at 0119Z"
     },
@@ -1949,25 +1965,9 @@ window.INDUSTRY_DATA = {
      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
      "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
      "pubDate": "Sat, 14 Nov 2026 01:10:22 +0000",
-     "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 130 # Comments: 27",
+     "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 170 # Comments: 59",
      "source": "Hacker News",
      "zh": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks"
-    },
-    {
-     "title": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
-     "link": "https://www.techmeme.com/261113/p36#a261113p36",
-     "pubDate": "Fri, 13 Nov 2026 20:00:12 -0500",
-     "summary": "Reuters : Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang &nbsp; &mdash;&nbsp; Former Nvidia CEO Jensen Huang misled several of the company's leaders, including general counsel Tim Teter and ",
-     "source": "Techmeme",
-     "zh": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)"
-    },
-    {
-     "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-     "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-     "pubDate": "Sat, 14 Nov 2026 00:52:29 +0000",
-     "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 117 # Comments: 35",
-     "source": "Hacker News",
-     "zh": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop"
     }
    ]
   },
@@ -2226,6 +2226,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "年轻人，新农机",
+     "link": "http://www.eeo.com.cn/2026/1114/1092732.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:02:10 +0800",
+     "summary": "在新疆库尔勒的棉田与玉米地之间，一台采用“银河之光灰”主色、辅以“粒子绿”涂装的农机正在深翻土地。车身线条凌厉，带着机甲风格，驾驶室里的抖音视频取代了传统农机震耳欲聋的柴油轰鸣。 驾驶农机的是31岁的王延。今年是他做农机手的第十个年头。在库尔勒的农机圈里，他属于不折不扣的“年轻人”——这个行业的主力，是45岁以上的人。 <p class=\"ql-align-jus...",
+     "source": "经济观察网",
+     "zh": "年轻人，新农机"
+    },
+    {
      "title": "传统的圣诞行情，今年的美股还有吗？",
      "link": "https://wallstreetcn.com/articles/3785929",
      "pubDate": "Sat, 14 Nov 2026 10:49:13 +0800",
@@ -2456,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "成绩是学习结果的一项指标，不是心理健康的“体检报告”。真正值得关注的是：孩子为了维持成绩，是否正在牺牲睡眠、兴趣、关系、自尊和基本安全感。",
      "source": "经济观察网",
      "zh": "成绩没有下降 孩子却快撑不住了 警惕中小学生藏在优秀背后的情绪危机"
-    },
-    {
-     "title": "美国星舰开展第15次试飞 “筷子”回收超重助推器计划落空",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931287121.html",
-     "pubDate": "Sat, 14 Nov 2026 08:57:30 +0800",
-     "summary": "美东时间周五， SpaceX 开展了星舰（Starship）第15次试飞，这也是该公司首次尝试回收火箭的超重助推器和上级飞船。 不过在火箭升空后不久，超重助推器未按原计划返回发射场，在墨西哥湾海域受控溅落。接下来星舰的上级飞船将继续执行飞行任务，部署26颗新一代“星链”V3卫星。 火箭助推器受控溅落墨西哥湾海域 本次试飞任务中，重型运载火箭“星舰”于在当地时间下午4点47分（北京时间周六早间6点47分）点火升空。周五早些时候， SpaceX 拿到了美国联邦航空管理局（FAA）的发射许可。 值得一提的是，此前FAA通报称多个空管中心出现 通信 故障，随即发布全美范围内停飞指令。FAA发言人对媒体",
-     "source": "东方财富资讯",
-     "zh": "美国星舰开展第15次试飞 “筷子”回收超重助推器计划落空"
     }
    ]
   },

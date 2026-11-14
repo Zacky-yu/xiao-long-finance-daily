@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 13:11:59",
+ "generated_at": "2026/11/14 13:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -973,7 +973,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1008,6 +1008,14 @@ window.INDUSTRY_DATA = {
      "summary": "The hydrogen will be transported through a roughly 25 km former natural gas pipeline converted to carry hydrogen, with deliveries to a TotalEnergies' refinery scheduled to begin in 2027. The post The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany appeared f",
      "source": "pv magazine",
      "zh": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Solar module prices are stagnating, while battery energy storage system prices are expected to rise for the first time. Germany’s solar market could face significant challenges if policymakers fail to push through reforms to Germany's Renewable Energy Sources Act (EEG) in time, according to Martin S",
      "source": "pv magazine",
      "zh": "Dark clouds gather over Germany’s solar sector"
-    },
-    {
-     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
-     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
-     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
-     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
-     "source": "PV Tech",
-     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1762,6 +1762,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "传音预装带来的尼日利亚短剧用户，付费转化卡在支付回款周期上怎么办？",
+     "link": "https://www.baijing.cn/question/638725",
+     "pubDate": "Sat, 14 Nov 2026 05:24:42 +0000",
+     "summary": "我们在尼日利亚做短剧出海，刚上线三个月，团队8人，主要靠传音预装拿到首批量，日活约1.2万，但付费率只有0.6%。用户点付费后走的是本地话费代扣和银行卡两条路，话费代扣成功率不到四成，银行卡回款周期T+7到T+10，现金流压得很难受。已经试过接Paystack和Flutterwave的聚合收单，也调过首集免费时长，但卡在代扣通道覆盖的运营商不全、回款慢导致没法持续买量。想确认的是：在尼日利亚做短剧预装起量，支付通道和回款周期该怎么取舍，是先牺牲转化率保回款速度，还是继续扛账期换付费率？",
+     "source": "白鲸出海",
+     "zh": "传音预装带来的尼日利亚短剧用户，付费转化卡在支付回款周期上怎么办？"
+    },
+    {
+     "title": "微软承认 10 月 Win10/Win11 更新导致数据库连接异常，部分服务器可能越跑越慢",
+     "link": "https://www.ithome.com/1/027/097.htm",
+     "pubDate": "Sat, 14 Nov 2026 05:14:59 GMT",
+     "summary": "IT之家 11 月 14 日消息，科技媒体 BornCity 今天（11 月 14 日）发布博文，报道称微软已承认部分 Windows 11、Windows 10 系统安装 10 月 13 日发布的累积更新后， 部分使用 SQL Server 的环境可能出现数据库连接无法正常关闭的问题，且 11 月更新尚未修复该问题。 在影响范围方面，IT之家援引博文介绍，微软承认该问题影响以下版本： Windows 11, version 26H1 Windows 11, version 25H2 Windows 11, version 24H2 Windows 11, version 23H2 Windo",
+     "source": "IT之家",
+     "zh": "微软承认 10 月 Win10/Win11 更新导致数据库连接异常，部分服务器可能越跑越慢"
+    },
+    {
+     "title": "内罗毕摩的小哥为什么不肯换电动车 | 长颈鹿笔记",
+     "link": "https://www.huxiu.com/article/4905589.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 13:09:02 +0800",
+     "summary": "本文来自微信公众号： 南瞻 ，作者：南瞻，原文标题：《内罗毕摩的小哥为什么不肯换电动车 | 长颈鹿笔记》 全篇阅读时间约2-3分钟 南瞻： “ 丧失掌控感、频繁跑空、在换电站杵着眼睁睁看着同行在路上拉客的焦虑感，远超过了账面上可能多赚一点点钱带来的快乐 ” 如果只说一句：电动摩的在账面上确实能赚多一些钱，但焦虑啊 满街摩托车的景象，我印象当中只存在于20年前的西南某省会城市，以及10多年前在台北看到的街景，后来在北京就几乎再也没有看到了。前些年在欧洲，大街上更多是自行车，摩托车是不多见的。直到来到非洲 有欧洲的朋友问我，“我知道内罗毕堵车很厉害。我看到网络照片里街上有很多摩托车，但电动摩托车好",
+     "source": "虎嗅",
+     "zh": "内罗毕摩的小哥为什么不肯换电动车 | 长颈鹿笔记"
+    },
+    {
+     "title": "微软 14 年 AI 老将离职：称创新难落地，降本研究未获认真考虑",
+     "link": "https://www.ithome.com/1/027/078.htm",
+     "pubDate": "Sat, 14 Nov 2026 05:05:18 GMT",
+     "summary": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 今天（11 月 14 日）发布博文， 报道称在微软任职逾 14 年的 AI 科学家、AI Frontiers 实验室联合创始人约翰 · 兰福德（John Langford）已离职。 他表示，离开的关键原因是研究成果看不到实际应用的路径，创新想法甚至难以获得认真考虑。 微软任职逾 14 年的 AI 科学家、AI Frontiers 实验室联合创始人约翰 · 兰福德（John Langford），图源：微软 IT之家查询公开资料，兰福德是机器学习领域资深且有影响力的研究者，长期从事机器学习与学习理论研究，其重要贡献是推进 C",
+     "source": "IT之家",
+     "zh": "微软 14 年 AI 老将离职：称创新难落地，降本研究未获认真考虑"
+    },
+    {
      "title": "TikTok Shop巴西达人佣金给到18%，回款周期压到T+14还能撑住吗？",
      "link": "https://www.baijing.cn/question/638724",
      "pubDate": "Sat, 14 Nov 2026 05:04:38 +0000",
@@ -1874,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "Analysis: Sam Bankman-Fried&apos;s $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)"
     },
     {
-     "title": "AI进步属于全人类，凑合生活丢给普通人",
-     "link": "https://www.huxiu.com/article/4905084.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 12:21:00 +0800",
-     "summary": "出品 | 虎嗅青年文化组 作者 | 渣渣郡 本文首发于虎嗅年轻内容公众号&ldquo;那个NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 2026年的AI大爆炸与具身机器人风口，让人类文明再次狂飙突进。 身处这趟飞驰的时代列车之中，总让人觉得距离共产主义就差一次版本更新。 然而，当各国工程师在如此振奋人心的历史进程中勇攀科技树的时候，大众的日常生活却出现了一些不太体面的场面，人们惊觉自己越来越难买到一件经得起折腾的普通商品： 衣服穿不了几次就起球、刚过保修期就罢工的小家电、质量越来越烂的玩具，以及在人工智能时代工作近乎于智障的机器人... 这",
-     "source": "虎嗅",
-     "zh": "AI进步属于全人类，凑合生活丢给普通人"
-    },
-    {
      "title": "亚马逊欧洲 KYC 审核卡在地址证明，德国站和西班牙站要求为何差这么多？",
      "link": "https://www.baijing.cn/question/638720",
      "pubDate": "Sat, 14 Nov 2026 04:14:23 +0000",
@@ -1898,12 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "中国商飞 10 吨级电动商用飞机 CE-25A 有人驾驶首飞成功"
     },
     {
-     "title": "TikTok Shop 美国站达人邀约成本涨到多少了，还要不要继续铺？",
-     "link": "https://www.baijing.cn/question/638719",
-     "pubDate": "Sat, 14 Nov 2026 04:08:11 +0000",
-     "summary": "上个月在 TikTok Shop 美国站给一款厨房小工具做达人邀约，团队 6 个人、月预算约 1.2 万美元，主要靠达人广场批量发邀约加少量寄样。3 月还能做到单条带货视频成本 40 美元左右，4 月同样的邀约话术和选人标准，回复率从 18% 掉到 9%，寄样转化率不到 5%，实际 CPA 冲到 70 美元以上，已经接近这款产品毛利线。试过提高佣金到 20%、换短版邀约话术、只筛 1 万到 5 万粉的尾部达人，效果都不明显。现在卡在要不要继续加预算铺量，还是转去谈少量中腰部达人做深度合作。想直接问：按现在的成本水平，美国站达人邀约的 CPA 红线该定在多少，超过就该停？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 美国站达人邀约成本涨到多少了，还要不要继续铺？"
+     "title": "Run Cloudflare Workers Anywhere",
+     "link": "https://openorange.dev/",
+     "pubDate": "Sat, 14 Nov 2026 03:58:32 +0000",
+     "summary": "Article URL: https://openorange.dev/ Comments URL: https://news.ycombinator.com/item?id=50493731 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Run Cloudflare Workers Anywhere"
     },
     {
      "title": "预计到 2030 年，我国新增清洁能源电量将覆盖新增用电量",
@@ -1922,22 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "Free speech group FIRE says DOJ and DHS will end efforts to curb \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up iOS app, which report on ICE activity (Kanishka Singh/Reuters)"
     },
     {
-     "title": "用户反馈《GTA 6》实体包装盒存在漏洞：强光照射可直接透视下载码，无需拆封即可兑换",
-     "link": "https://www.ithome.com/1/027/073.htm",
-     "pubDate": "Sat, 14 Nov 2026 03:39:34 GMT",
-     "summary": "IT之家 11 月 14 日消息，有用户发现，部分《侠盗猎车手 6》（GTA 6）实体盒装版本存在兑换码泄露风险：即使不拆开包装，也能通过强光手电筒从包装侧面照射，从而直接看到盒内印刷的下载码。 据 Engadget 今日报道，这些兑换码并非印在单独的纸质卡片上，也没有采用常见的刮刮涂层保护，而是直接印刷在游戏盒内侧封面上。 ResetEra 论坛和 X 平台上已经出现相关照片，展示用户从游戏盒侧面斜向照射强光后，能够透过包装看到兑换码。 目前流出的照片数量较少，尚无法确定这一问题是否普遍存在。ResetEra 上有人指出，问题可能主要涉及部分国际版，至少美国版的盒体采用了额外的遮挡设计，可以",
-     "source": "IT之家",
-     "zh": "用户反馈《GTA 6》实体包装盒存在漏洞：强光照射可直接透视下载码，无需拆封即可兑换"
-    },
-    {
-     "title": "Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场",
-     "link": "https://www.ithome.com/1/027/072.htm",
-     "pubDate": "Sat, 14 Nov 2026 03:30:13 GMT",
-     "summary": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 昨日（11 月 13 日）发布博文，报道称在 Outlook 等服务大面积宕机停服的情况下， 微软官方账号 @MicrosoftLearn 不合时宜地询问：“初学者应该尽早养成哪一个 AI 使用习惯？”。 该推文的发布时机恰好是 Outlook 等服务停服的时段，因此迅速成为网友集中表达不满的留言区。IT之家发稿前，该条推文浏览量超过 218.9 万，回复推文数量达到 1,664 条。 其中一条获得逾 4,000 次点赞的回复写道：“确保你的产品不会出故障。”回复还附上微软服务状态页面截图，列出多项服务连接异常的提示。 ",
-     "source": "IT之家",
-     "zh": "Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场"
-    },
-    {
      "title": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)",
      "link": "https://www.techmeme.com/261113/p40#a261113p40",
      "pubDate": "Fri, 13 Nov 2026 22:10:01 -0500",
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
      "pubDate": "Sat, 14 Nov 2026 02:52:59 +0000",
-     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 128 # Comments: 59",
+     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 175 # Comments: 102",
      "source": "Hacker News",
      "zh": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Ggml v1.0.0",
      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
      "pubDate": "Sat, 14 Nov 2026 02:28:29 +0000",
-     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 92 # Comments: 15",
+     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 109 # Comments: 18",
      "source": "Hacker News",
      "zh": "Ggml v1.0.0"
     },
@@ -1989,17 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
      "pubDate": "Sat, 14 Nov 2026 02:21:36 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 89 # Comments: 25",
+     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 113 # Comments: 28",
      "source": "Hacker News",
      "zh": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal"
-    },
-    {
-     "title": "苹果不想一直“躺赢”",
-     "link": "https://www.tmtpost.com/8204097.html",
-     "pubDate": "Sat, 14 Nov 2026 10:17:00 +0800",
-     "summary": "新任CEO坐不住了。",
-     "source": "钛媒体",
-     "zh": "苹果不想一直“躺赢”"
     }
    ]
   },
@@ -2266,28 +2266,20 @@ window.INDUSTRY_DATA = {
      "zh": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend"
     },
     {
-     "title": "“人间净土变成了人间炼狱”！美国小城被“星际之门”数据中心逼疯 该国机构实地考察中国乌兰察布同类园区后震惊：美国难以复制",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931322544.html",
-     "pubDate": "Sat, 14 Nov 2026 12:57:19 +0800",
-     "summary": "得克萨斯州是全美 数据中心 增长最快的地区，但如今，当地正掀起反对浪潮。 2026年美国中期选举中，主张暂停新增 数据中心 审批的民主党人吉娜·希诺霍萨击败共和党现任州长阿博特，拿下得州州长之位。 在OpenAI“星际之门” 数据中心 旗舰项目所在地、得州小城阿比林，居民正承受着24小时噪声、夜间强光、住房租金飙升等影响。有当地居民表示， “我们小小的人间净土，现在变成了人间炼狱。” 与此同时，在中国内蒙古乌兰察布，一座规划容量与阿比林相当的算力园区，却以不到一年的建设周期、美国同类项目五分之一的成本交付首期工程。乌兰察布算力模式依托当地地广人稀的条件，把算力集群布局在远离居民区的独立工业园区",
-     "source": "东方财富股票",
-     "zh": "“人间净土变成了人间炼狱”！美国小城被“星际之门”数据中心逼疯 该国机构实地考察中国乌兰察布同类园区后震惊：美国难以复制"
+     "title": "The Nvidia board’s artificial independence",
+     "link": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a",
+     "pubDate": "Sat, 14 Nov 2026 05:00:37 GMT",
+     "summary": "Bored of governance",
+     "source": "Financial Times",
+     "zh": "The Nvidia board’s artificial independence"
     },
     {
-     "title": "高质量数据集和数据标注先行先试现场会在厦门市召开",
-     "link": "http://finance.eastmoney.com/news/1355,202611143931322493.html",
-     "pubDate": "Sat, 14 Nov 2026 12:52:00 +0800",
-     "summary": "国家数据局消息，11月10日下午，高质量数据集和数据标注先行先试建设现场会在厦门市召开。会议强调，国家数据局将深入贯彻落实党中央、国务院关于 人工智能 发展的决策部署，加快推进高质量数据集建设和数据标注产业发展。一是更加注重顺应 人工智能 发展供给高质量数据。模型企业对数据集的需求已经从“有没有数据”，转向“有没有对的、够用的、高质量的数据”。要紧密围绕 人工智能 发展趋势，坚持需求牵引、场景优先，明确人工智能用数需求，把真实场景优势变成数据优势，再转化为模型能力和产业竞争力。二是更加注重做好高质量数据集建设方法的总结。高质量数据集的建设方法可以概括为“一条主线、四个环节、一个闭环”，即以场景",
-     "source": "东方财富股票",
-     "zh": "高质量数据集和数据标注先行先试现场会在厦门市召开"
-    },
-    {
-     "title": "又一轮券商罚单集中开出 有券商分支负责人遭数百万级罚没",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931322372.html",
-     "pubDate": "Sat, 14 Nov 2026 12:48:46 +0800",
-     "summary": "监管穿透式问责再亮剑。11月13日，监管密集披露6张券商罚单，覆盖 中信证券 、申港证券、 国盛证券 三家券商。其中， 中信证券 北京复外大街证券营业部及员工李学森、王晓艳被北京证监局采取出具警示函措施；申港证券江苏分公司及负责人李季被江苏证监局采取责令改正行政监管措施。 国盛证券 时任浙江分公司负责人吴蝶、时任宁波桑田路营业部总经理匡文邦分别被罚没226.59万元、28.19万元。叠加此前同被罚18万元，吴蝶、匡文邦分别合计遭罚没244.59万元、46.19万元。 记者进一步获悉， 国盛证券 的罚单或远不止已披露的这几张，湘财证券同级别人员的罚单亦处于“隐身”状态。穿透这些罚单不难发现，相关",
-     "source": "东方财富股票",
-     "zh": "又一轮券商罚单集中开出 有券商分支负责人遭数百万级罚没"
+     "title": "Nvidia’s cult of personality was bound to end badly",
+     "link": "https://www.ft.com/content/546ec5eb-fbc2-4600-9794-12b1749c1a04",
+     "pubDate": "Sat, 14 Nov 2026 05:00:37 GMT",
+     "summary": "It is worth paying attention to the warning signs of corporate hubris — they often mean something bad is about to happen",
+     "source": "Financial Times",
+     "zh": "Nvidia’s cult of personality was bound to end badly"
     },
     {
      "title": "Sagicor Financial declares $0.075 dividend",
@@ -2314,14 +2306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Lowe's declares $1.25 dividend"
     },
     {
-     "title": "蔚来与联合国开发计划署续签生态共建协议",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931322233.html",
-     "pubDate": "Sat, 14 Nov 2026 12:43:00 +0800",
-     "summary": "11月13日， 蔚来 与联合国开发计划署（UNDP）在北京签署Clean Parks清朗国家公园生态共建计划二期合作协议。该项目是车企发起的自然保护地共建平台，目前已在全球落地19个保护地，覆盖国内五大国家公园。国家林草局相关代表出席签约仪式。 据悉，一期合作期间，双方在多处保护地落地光储充微电网、电动巡护等示范项目，发布制造业生物多样性供应链相关指南，探索企业力量参与生态保护的路径。按照二期协议，双方将进一步拓展示范保护地范围，提炼保护地低碳能源、绿色交通的可复制标准，推进生物多样性能力建设、青年生态创新项目，并开展国际经验交流，助力落实《昆明—蒙特利尔全球生物多样性框架》。 本次合作将引入",
-     "source": "东方财富股票",
-     "zh": "蔚来与联合国开发计划署续签生态共建协议"
-    },
-    {
      "title": "Cathay General Bancorp declares $0.38 dividend",
      "link": "https://seekingalpha.com/news/4672749-cathay-general-bancorp-declares-0_38-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 13 Nov 2026 23:41:32 -0500",
@@ -2346,20 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "CMS.PR.C declares $0.2625 dividend"
     },
     {
-     "title": "百济神州宣布百悦达新增纳入2026年国家新版基本医保药品目录",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931322189.html",
-     "pubDate": "Sat, 14 Nov 2026 12:39:00 +0800",
-     "summary": "百济神州 今日宣布其自主研发的1类新药新型BCL2抑制剂百悦达&reg;（索托克拉片）携两项适应症首次进入国家医疗保障局发布的《国家基本医疗保险、生育保险和工伤保险药品目录（2026年）》。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "百济神州宣布百悦达新增纳入2026年国家新版基本医保药品目录"
-    },
-    {
-     "title": "证监会主席吴清：A股总市值突破100万亿元",
-     "link": "http://stock.eastmoney.com/news/11215,202611143931322068.html",
-     "pubDate": "Sat, 14 Nov 2026 12:34:38 +0800",
-     "summary": "中国证监会主席吴清11月14日在2026中国资本市场学术年会上表示，资本市场板块建设不断向纵深推进，错位发展、功能互补的股权市场体系基本健全，A股总市值突破100万亿元。交易所与 银行 间市场共同构成的中国债券市场规模超210万亿元，科创债、绿色债、REITs精准对接国家战略需求。涵盖商品、金融各类 期货 期权品种170多个，基本覆盖国民经济主要产业领域。 （文章来源：上海证券报·中国证券网）",
-     "source": "东方财富股票",
-     "zh": "证监会主席吴清：A股总市值突破100万亿元"
+     "title": "12款药新入商保创新药目录，价格协商成功率100%",
+     "link": "http://www.eeo.com.cn/2026/1114/1092864.shtml",
+     "pubDate": "Sat, 14 Nov 2026 12:39:32 +0800",
+     "summary": "所有参与2026年商保创新药目录价格协商的药品，都成功纳入目录。",
+     "source": "经济观察网",
+     "zh": "12款药新入商保创新药目录，价格协商成功率100%"
     },
     {
      "title": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”",
@@ -2368,6 +2344,30 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达CEO黄仁勋的离职令科技股前景蒙上阴影，著名空头Michael Burry借势加码做空押注，断言AI热潮正在上演一场\"牛市陷阱\"。 Burry在其Substack上撰文， 将纳斯达克100指数今年10月6日触及的高点比作2000年3月互联网泡沫破裂前夕的顶部，并表示已于11月12日利用指数反弹至27000点之际，将纳斯达克100指数的看跌期权仓位翻倍——行权日期定于2027年初，当前虚值幅度约20%。 与此同时，他还重新建立了此前已平仓的VanEck半导体指数看跌期权头寸。 Burry的核心判断是，芯片股及整体科技板块将在2027年中前遭受显著回调。黄仁勋的突然离职进一步强化了他的看空逻",
      "source": "华尔街见闻",
      "zh": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”"
+    },
+    {
+     "title": "AI短剧制作迁入长三角机房",
+     "link": "http://www.eeo.com.cn/2026/1114/1092774.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:47:02 +0800",
+     "summary": "经济观察报记者联系多家北方短剧团队获悉，近两个月来，AI短剧行业出现了算力南迁趋势，不少北方团队正把渲染集群迁往长三角。沪苏浙皖四地发展和改革部门近日联合发布的《数字长三角发展报告（2026）》显示，长三角的智能算力规模占全国近三成。这轮全民刷屏的AI短剧热潮里，利润正沿着产业链，从做剧的人手里，传导至供应算力的机房。",
+     "source": "经济观察网",
+     "zh": "AI短剧制作迁入长三角机房"
+    },
+    {
+     "title": "书店，在创造“相遇”中重光",
+     "link": "http://www.eeo.com.cn/2026/1114/1092781.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:34:52 +0800",
+     "summary": "卖书最冷的时代，恰恰是读书人与写书人互动最为热切的时代。",
+     "source": "经济观察网",
+     "zh": "书店，在创造“相遇”中重光"
+    },
+    {
+     "title": "算力抢铟",
+     "link": "http://www.eeo.com.cn/2026/1114/1092775.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:30:00 +0800",
+     "summary": "过去，铟最主要的用途是做显示面板。手机、电视的屏幕里，都需要用到它。最近一年，随着人工智能和算力产业链升温，铟又多了一个重要去处：生产光芯片。",
+     "source": "经济观察网",
+     "zh": "算力抢铟"
     },
     {
      "title": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器",
@@ -2386,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "US aviation regulator lifts order that grounded thousands of flights"
     },
     {
+     "title": "年轻人，新农机",
+     "link": "http://www.eeo.com.cn/2026/1114/1092732.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:02:10 +0800",
+     "summary": "在新疆库尔勒的棉田与玉米地之间，一台采用“银河之光灰”主色、辅以“粒子绿”涂装的农机正在深翻土地。车身线条凌厉，带着机甲风格，驾驶室里的抖音视频取代了传统农机震耳欲聋的柴油轰鸣。 驾驶农机的是31岁的王延。今年是他做农机手的第十个年头。在库尔勒的农机圈里，他属于不折不扣的“年轻人”——这个行业的主力，是45岁以上的人。 <p class=\"ql-align-jus...",
+     "source": "经济观察网",
+     "zh": "年轻人，新农机"
+    },
+    {
      "title": "传统的圣诞行情，今年的美股还有吗？",
      "link": "https://wallstreetcn.com/articles/3785929",
      "pubDate": "Sat, 14 Nov 2026 10:49:13 +0800",
@@ -2400,6 +2408,14 @@ window.INDUSTRY_DATA = {
      "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
      "source": "MarketWatch",
      "zh": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
+    },
+    {
+     "title": "英伟达没了黄仁勋",
+     "link": "http://www.eeo.com.cn/2026/1114/1092701.shtml",
+     "pubDate": "Sat, 14 Nov 2026 10:25:28 +0800",
+     "summary": "国内供应链企业普遍认为，英伟达换帅在短期内不会影响机柜的出货和当前的订单，变数在于英伟达此后的平台升级能否保持原有的节奏和幅度。",
+     "source": "经济观察网",
+     "zh": "英伟达没了黄仁勋"
     },
     {
      "title": "14 dividend stocks selected for long-term growth",
@@ -2480,22 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
      "source": "MarketWatch",
      "zh": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?"
-    },
-    {
-     "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-     "pubDate": "Fri, 13 Nov 2026 22:18:43 GMT",
-     "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
-     "source": "CNBC",
-     "zh": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion"
-    },
-    {
-     "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-     "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 22:04:00 GMT",
-     "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
-     "source": "MarketWatch",
-     "zh": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel."
     }
    ]
   },

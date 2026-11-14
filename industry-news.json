@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 14:32:05",
+ "generated_at": "2026/11/14 14:52:10",
  "recent_days": 7,
  "industries": [
   {
@@ -857,6 +857,14 @@
      "zh": "When trackers don’t talk"
     },
     {
+     "title": "Tesla Starts Selling Cybercab — $30,000*",
+     "link": "https://cleantechnica.com/2026/11/13/tesla-starts-selling-cybercab-30000/",
+     "pubDate": "Sat, 14 Nov 2026 04:57:57 +0000",
+     "summary": "Well, it’s a big day in Tesla World. The company has officially launched Cybercab sales. You can now order a Cybercab for the starting price of $30,000 (technically, $29,900). That said, there is an asterisk here — actually, there are two asterisks here. First of all, only people who have ... [conti",
+     "source": "CleanTechnica",
+     "zh": "Tesla Starts Selling Cybercab — $30,000*"
+    },
+    {
      "title": "Who Can Weather the Health Storm?",
      "link": "https://cleantechnica.com/2026/11/13/who-can-weather-the-health-storm/",
      "pubDate": "Sat, 14 Nov 2026 03:44:59 +0000",
@@ -903,14 +911,6 @@
      "summary": "The 2026 holiday shopping season is soon to be upon us, with gift buyers and bargain hunters perusing stores in person and online. Behind the scenes, the US freight system has been working hard to transport the goods and gifts, traveling mostly by truck as they make their way through ... [continued]",
      "source": "CleanTechnica",
      "zh": "Your Holiday Gifts Don’t Have To Be Delivered By Diesel"
-    },
-    {
-     "title": "Ask a Scientist: Who Has a Voice in Clean Air Protections?",
-     "link": "https://cleantechnica.com/2026/11/13/ask-a-scientist-who-has-a-voice-in-clean-air-protections/",
-     "pubDate": "Fri, 13 Nov 2026 22:38:11 +0000",
-     "summary": "If developers and planners decide to site an industrial chemical plant next door to your home, you’d want the chance to speak up about it. Soliciting input from the communities and individuals affected by pollution is an essential part of how environmental and public health laws are enforced. Under ",
-     "source": "CleanTechnica",
-     "zh": "Ask a Scientist: Who Has a Voice in Clean Air Protections?"
     },
     {
      "title": "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?",
@@ -1761,6 +1761,86 @@
    "total": 18,
    "items": [
     {
+     "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
+     "link": "https://www.techmeme.com/261114/p4#a261114p4",
+     "pubDate": "Sat, 14 Nov 2026 01:35:00 -0500",
+     "summary": "Jessica Hagen / MobiHealthNews : Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners &nbsp; &mdash;&nbsp; The round is the company's third in less than two years and brings its total funding to $",
+     "source": "Techmeme",
+     "zh": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)"
+    },
+    {
+     "title": "想用AI造芯片？芯片工程师笑了",
+     "link": "https://www.tmtpost.com/8205198.html",
+     "pubDate": "Sat, 14 Nov 2026 14:33:00 +0800",
+     "summary": "AI芯片设计的冷与热。",
+     "source": "钛媒体",
+     "zh": "想用AI造芯片？芯片工程师笑了"
+    },
+    {
+     "title": "出海非洲：从农机到油脂加工，中国企业如何打通农业产业链？",
+     "link": "https://www.tmtpost.com/8204229.html",
+     "pubDate": "Sat, 14 Nov 2026 14:32:54 +0800",
+     "summary": "原料组织、价格波动与成本控制，成为产业链投资的重要考验。",
+     "source": "钛媒体",
+     "zh": "出海非洲：从农机到油脂加工，中国企业如何打通农业产业链？"
+    },
+    {
+     "title": "奔赴工业沃土：中国半导体企业齐聚欧洲",
+     "link": "https://www.tmtpost.com/8205203.html",
+     "pubDate": "Sat, 14 Nov 2026 14:32:50 +0800",
+     "summary": "国产半导体出海正当时。",
+     "source": "钛媒体",
+     "zh": "奔赴工业沃土：中国半导体企业齐聚欧洲"
+    },
+    {
+     "title": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)",
+     "link": "https://www.techmeme.com/261114/p3#a261114p3",
+     "pubDate": "Sat, 14 Nov 2026 01:30:09 -0500",
+     "summary": "Chris Metinko / Axios : Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A &nbsp; &mdash;&nbsp; Luminal, a search compiler and inference cloud provider, raised a $25 million Series A led by Standard",
+     "source": "Techmeme",
+     "zh": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)"
+    },
+    {
+     "title": "Temu 美国全托管备货 3000 件，退货率 18% 的品还要继续补吗？",
+     "link": "https://www.baijing.cn/question/638732",
+     "pubDate": "Sat, 14 Nov 2026 06:29:28 +0000",
+     "summary": "Temu 美国站全托管，我们 6 人小团队做厨房小工具，起量 4 个月，日销从 200 单爬到 900 单。上个月主推的硅胶折叠沥水篮备货 3000 件，平台买手要求 7 天内入仓，我们压了两批货在东莞仓，结果退货率 18%，比同类高 6 个点，主要是尺寸和图片预期不符。已经改过主图和详情，也换过一次包装，退货还是没降。现在买手又催下一轮备货，我卡在要不要继续压这个品，还是砍掉换低退货的品。你们判断一个品该不该续备，看退货率还是看动销周转？",
+     "source": "白鲸出海",
+     "zh": "Temu 美国全托管备货 3000 件，退货率 18% 的品还要继续补吗？"
+    },
+    {
+     "title": "超 5 万人请愿恢复黄仁勋英伟达 CEO 职务，马斯克参与签名",
+     "link": "https://www.ithome.com/1/027/125.htm",
+     "pubDate": "Sat, 14 Nov 2026 06:27:33 GMT",
+     "summary": "IT之家 11 月 14 日消息，近日，一个名为“Stand with Jensen”的请愿活动在网上流传开来，标题为“三十三年值得一个答案”，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之家发文，该活动已收集超过 5.6 万个签名 。 该网站显示，本次活动的组织者和签名者担心，黄仁勋可能在 未经正当程序、甚至没有几天时间为自己申辩 的情况下被迫离职。这正是要求英伟达董事会做出解释的原因。 IT之家附公开信原文如下： 致 NVIDIA 董事会成员： 我们是 NVIDIA 的现任及前任员工、合作伙伴、股东和支持者。我们怀着对 Jensen Huang 的感激之情写下这封信，并向董事会提出",
+     "source": "IT之家",
+     "zh": "超 5 万人请愿恢复黄仁勋英伟达 CEO 职务，马斯克参与签名"
+    },
+    {
+     "title": "全球储能第一的比亚迪，把欧洲第一家电芯工厂选在了葡萄牙",
+     "link": "https://www.tmtpost.com/8205217.html",
+     "pubDate": "Sat, 14 Nov 2026 14:27:31 +0800",
+     "summary": "比亚迪洽谈葡萄牙棕地建厂，若落地将是其欧洲首座电芯厂，适配储能本地化需求，项目尚未官宣。",
+     "source": "钛媒体",
+     "zh": "全球储能第一的比亚迪，把欧洲第一家电芯工厂选在了葡萄牙"
+    },
+    {
+     "title": "97%支持率，最怕黄仁勋离开的，为何是员工",
+     "link": "https://www.tmtpost.com/8204717.html",
+     "pubDate": "Sat, 14 Nov 2026 14:27:26 +0800",
+     "summary": "是价值认同也是利益算计。",
+     "source": "钛媒体",
+     "zh": "97%支持率，最怕黄仁勋离开的，为何是员工"
+    },
+    {
+     "title": "路透社：黄仁勋被指就婚外情误导英伟达高层，董事会已启动独立调查",
+     "link": "https://www.ithome.com/1/027/123.htm",
+     "pubDate": "Sat, 14 Nov 2026 06:24:04 GMT",
+     "summary": "IT之家 11 月 14 日消息，路透社今天（11 月 14 日）发布博文，在查阅英伟达公司内部邮件，并从两名知情人士处获悉，黄仁勋在婚外情信息方面， 误导了包括总法律顾问蒂姆 · 泰特（Tim Teter）、首席营销官艾莉森 · 瓦贡菲尔德（Alison Wagonfeld）在内的公司高层。 IT之家援引博文介绍，路透社查阅了 2026 年 10 月的多条内部往来消息，其中两条独立的消息中，黄仁勋告诉英伟达高管（包括泰特和瓦贡菲尔德），他与 Alice Huang 的往来属于与客户的正常业务交往。 在其他消息中，他称自己与 Megaspeed International 的往来是例行公事，而",
+     "source": "IT之家",
+     "zh": "路透社：黄仁勋被指就婚外情误导英伟达高层，董事会已启动独立调查"
+    },
+    {
      "title": "TikTok 美区短视频挂车转化不到 0.8%，是选品供应链拖累还是内容问题？",
      "link": "https://www.baijing.cn/question/638731",
      "pubDate": "Sat, 14 Nov 2026 06:16:23 +0000",
@@ -1905,30 +1985,6 @@
      "zh": "印度短剧要做泰米尔语和泰卢固语配音，4人内容团队这个排期撑得住吗？"
     },
     {
-     "title": "谷歌高管借 Gemini AI 成功让苹果 iPhone Duo 运行微软 Win11",
-     "link": "https://www.ithome.com/1/027/118.htm",
-     "pubDate": "Sat, 14 Nov 2026 05:31:28 GMT",
-     "summary": "IT之家 11 月 14 日消息，谷歌 AI Studio 产品与设计负责人阿马尔 · 雷希（Ammaar Reshi）于 11 月 12 日在 X 平台发布推文，分享了一段视频， 演示在苹果首款折叠手机 iPhone Duo 上运行 Windows 11 系统，并在 GitHub 上开源 WindowsiOS 项目。 雷希表示借助谷歌 Gemini 4 Carbon 模型，成功开发 WindowsiOS 项目，通过虚拟机方式，在 iPhone Duo 上运行 Windows 11 on Arm 24H2 系统镜像，并支持触控操作。 根据演示效果，在 iPhone Duo 半折叠状态下，上半屏",
-     "source": "IT之家",
-     "zh": "谷歌高管借 Gemini AI 成功让苹果 iPhone Duo 运行微软 Win11"
-    },
-    {
-     "title": "沙特COD订单回款拖到45天，5人团队该不该自建本地催收？",
-     "link": "https://www.baijing.cn/question/638726",
-     "pubDate": "Sat, 14 Nov 2026 05:30:48 +0000",
-     "summary": "我们做沙特和阿联酋的时尚配饰独立站，COD占比七成，团队5个人，其中2人全职盯物流和回款。现在沙特COD回款周期从签收后平均28天拉长到45天，阿联酋大概35天，导致现金流每周缺口约8万里亚尔。已经试过换过两家本地派送商、把COD结算改成T+7自动对账，但末端网点签收数据回传还是慢3-5天，催收只能靠WhatsApp逐个问。卡在要不要专门加1个人做本地催收，还是把COD比例压到五成转预付。按现在的人手排期，加人就得砍掉选品上新，这个取舍你们怎么判断？",
-     "source": "白鲸出海",
-     "zh": "沙特COD订单回款拖到45天，5人团队该不该自建本地催收？"
-    },
-    {
-     "title": "微软承认 10 月 Win10/Win11 更新导致数据库连接异常，部分服务器可能越跑越慢",
-     "link": "https://www.ithome.com/1/027/097.htm",
-     "pubDate": "Sat, 14 Nov 2026 05:14:59 GMT",
-     "summary": "IT之家 11 月 14 日消息，科技媒体 BornCity 今天（11 月 14 日）发布博文，报道称微软已承认部分 Windows 11、Windows 10 系统安装 10 月 13 日发布的累积更新后， 部分使用 SQL Server 的环境可能出现数据库连接无法正常关闭的问题，且 11 月更新尚未修复该问题。 在影响范围方面，IT之家援引博文介绍，微软承认该问题影响以下版本： Windows 11, version 26H1 Windows 11, version 25H2 Windows 11, version 24H2 Windows 11, version 23H2 Windo",
-     "source": "IT之家",
-     "zh": "微软承认 10 月 Win10/Win11 更新导致数据库连接异常，部分服务器可能越跑越慢"
-    },
-    {
      "title": "内罗毕摩的小哥为什么不肯换电动车 | 长颈鹿笔记",
      "link": "https://www.huxiu.com/article/4905589.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 13:09:02 +0800",
@@ -1943,62 +1999,6 @@
      "summary": "本文来自微信公众号： 张琨随笔 ，作者：张琨，原文标题：《张琨｜匹克球在越南何以“火爆”？我们能学什么？》 我和北大医院匹克球协会刘会长参加了密云举办的一场匹克球比赛，拿到第五名。作为刚入门的球员，这个成绩我自己挺满意，有几局还把对手打了个“光屁溜”（一分没拿到），可见这几个月成长很快。 在场边休息时，我想起了之前在越南围观过的匹克球赛。恍惚间感觉气氛很像：民间的热度都已经实实在在地起来了。 文旅部的老部长之前给我留过一道题：越南为什么能把一项美国发源的运动发展成全民热爱？他们到底做了什么？我们能学什么？ 这份简报就是我的答卷，结论有三句话：匹克球在越南的热度集中在大城市，距离全民运动还有距离",
      "source": "虎嗅",
      "zh": "匹克球在越南何以“火爆”？我们能学什么？"
-    },
-    {
-     "title": "JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU&apos;s approval of the deal (Tomoko Wakasugi/Nikkei Asia)",
-     "link": "https://www.techmeme.com/261114/p1#a261114p1",
-     "pubDate": "Sat, 14 Nov 2026 00:02:28 -0500",
-     "summary": "Tomoko Wakasugi / Nikkei Asia : JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU's approval of the deal &nbsp; &mdash;&nbsp; SHANGHAI &mdash; JD.com has completed an acquisition of German consumer electronics retailer Ce",
-     "source": "Techmeme",
-     "zh": "JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU&apos;s approval of the deal (Tomoko Wakasugi/Nikkei Asia)"
-    },
-    {
-     "title": "AI时代，公司越来越扁平，也越来越官僚",
-     "link": "https://www.huxiu.com/article/4905587.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 12:59:12 +0800",
-     "summary": "本文来自微信公众号： 防冷书斋 ，作者：防冷涂的蜡 假设你是一家连锁餐饮店的店长。上午十一点，顾客开始排队，你刚准备进后厨帮忙，手机又收到总部发来的经营异常清单：昨天有一项指标低于标准，需要解释原因、提交处理办法。昨天的回复刚发完，今天的新清单又到了。门店没有多一个员工，总部却好像突然多出了一双每天盯着你的眼睛。 这样的场景有了现实中的技术基础。2026年9月，徐升记高级副总裁刘帅介绍，公司过去每周需要8名运营人员花一天半，才能整理340多家门店、50多项经营数据。接入美团“妙手·智能掌柜”后，相关分析可以按天完成，再分发给区域负责人和门店，系统还能生成巡检报告与经营报表。 从总部看，这是一笔",
-     "source": "虎嗅",
-     "zh": "AI时代，公司越来越扁平，也越来越官僚"
-    },
-    {
-     "title": "黄仁勋创办了英伟达，英伟达为什么还能让他走？",
-     "link": "https://www.tmtpost.com/8204790.html",
-     "pubDate": "Sat, 14 Nov 2026 12:57:00 +0800",
-     "summary": "黄仁勋的离开，留下了一个极具宿命感的商业悖论：他花了33年时间，把英伟达打造成全球人工智能基础设施中不可替代的底座；但在这个过程中，他也把自己变成了英伟达内部唯一不可替代的中央处理器。",
-     "source": "钛媒体",
-     "zh": "黄仁勋创办了英伟达，英伟达为什么还能让他走？"
-    },
-    {
-     "title": "超过23万例死亡可归因于气候变化：两项《自然-健康》研究揭示欧洲高温的健康代价",
-     "link": "https://www.huxiu.com/article/4905586.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 12:54:12 +0800",
-     "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio 2026年夏天，欧洲经历了一系列极端热浪。研究人员估计，仅在欧洲854座城市，三个月内就出现了超过5万例高温相关超额死亡，其中约三分之二可归因于人为气候变暖。 这并非一次孤立的极端事件。另一项覆盖2000至2025年的研究显示，过去26年间，欧洲854座城市超过23万例高温相关超额死亡可归因于人为气候变化，而且这一影响还在不断增强。 近期，来自帝国理工学院、伦敦卫生与热带医学院等机构的研究团队在《自然-健康》（Nature Health）发表两项研究，分别从长期趋势和最新极端高温事件出发，评估人为气候变化对欧洲城市高温相",
-     "source": "虎嗅",
-     "zh": "超过23万例死亡可归因于气候变化：两项《自然-健康》研究揭示欧洲高温的健康代价"
-    },
-    {
-     "title": "Analysis: Sam Bankman-Fried&apos;s $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
-     "link": "https://www.techmeme.com/261113/p42#a261113p42",
-     "pubDate": "Fri, 13 Nov 2026 23:25:01 -0500",
-     "summary": "George Hammond / Financial Times : Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B &nbsp; &mdash;&nbsp; Jailed cryptocurrency mogul loses out on windfall from early investment in the AI l",
-     "source": "Techmeme",
-     "zh": "Analysis: Sam Bankman-Fried&apos;s $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)"
-    },
-    {
-     "title": "Free speech group FIRE says DOJ and DHS will end efforts to curb \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up iOS app, which report on ICE activity (Kanishka Singh/Reuters)",
-     "link": "https://www.techmeme.com/261113/p41#a261113p41",
-     "pubDate": "Fri, 13 Nov 2026 22:45:01 -0500",
-     "summary": "Kanishka Singh / Reuters : Free speech group FIRE says DOJ and DHS will end efforts to curb &ldquo;ICE Sightings - Chicagoland&rdquo; Facebook group and Eyes Up iOS app, which report on ICE activity &nbsp; &mdash;&nbsp; Free speech group FIRE said on Friday the US government agreed to end efforts to",
-     "source": "Techmeme",
-     "zh": "Free speech group FIRE says DOJ and DHS will end efforts to curb \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up iOS app, which report on ICE activity (Kanishka Singh/Reuters)"
-    },
-    {
-     "title": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)",
-     "link": "https://www.techmeme.com/261113/p40#a261113p40",
-     "pubDate": "Fri, 13 Nov 2026 22:10:01 -0500",
-     "summary": "Dan Mangan / CNBC : US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi &nbsp; &mdash;&nbsp; President Donald Trump is not expected to raise allegations of a Chinese intelligence operation involvin",
-     "source": "Techmeme",
-     "zh": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "FAA allows flights to resume after hours-long ground stop across the US",
+     "link": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
+     "pubDate": "Sat, 14 Nov 2026 06:35:40 +0000",
+     "summary": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+     "source": "Engadget",
+     "zh": "FAA allows flights to resume after hours-long ground stop across the US"
+    },
     {
      "title": "Huawei's next nova Flip could switch to a wide form factor",
      "link": "https://www.gsmarena.com/huaweis_next_nova_flip_could_switch_to_a_wide_form_factor-news-75479.php",
@@ -2239,14 +2247,6 @@
      "summary": "Xiaomi launched the 18 Pro and 18 Pro Max in China back in late September, and the duo is going global on November 17. Now the Xiaomi 18 Pro has taken an important step in its journey towards launching in India as well. The handset's Indian variant, with the model number 2609BPN61I, has been certifi",
      "source": "GSMArena",
      "zh": "Xiaomi 18 Pro gets one step closer to launching in India"
-    },
-    {
-     "title": "The Motorola Signature 27 is a beast",
-     "link": "https://www.engadget.com/2315452/motorola-signature-27-hands-on/",
-     "pubDate": "Fri, 13 Nov 2026 14:00:00 +0000",
-     "summary": "Motorola's latest phone has a monstrous tandem OLED display, a huge 7,000mah battery, fancy cameras and a massive $1,600 price tag.",
-     "source": "Engadget",
-     "zh": "The Motorola Signature 27 is a beast"
     }
    ]
   },
@@ -2256,6 +2256,14 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？",
+     "link": "https://wallstreetcn.com/articles/3785938",
+     "pubDate": "Sat, 14 Nov 2026 14:29:17 +0800",
+     "summary": "执掌英伟达33年后，黄仁勋的离职令外界将目光投向他手中价值逾千亿美元的股票。这批筹码的命运，已成为悬在英伟达股价上方的一块巨石。 黄仁勋目前持有约8.12亿股英伟达股票 ，市值约1350亿美元，是公司最大的个人股东。据William Blair分析师本周表示， 这一庞大持仓在近期对英伟达股价构成\"重大压制\"。 市场普遍关注的问题在于，黄仁勋何时能够、以及是否会选择开始大规模减持。哈佛大学公司治理专家Jesse Fried指出， 只要黄仁勋仍掌握可能压低股价的未公开重大信息，他就无法合规出售股票。 英伟达定于下周二发布业绩，若届时相关负面信息得以披露，或将为其减持扫清部分法律障碍。 三十年积累，",
+     "source": "华尔街见闻",
+     "zh": "坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？"
+    },
     {
      "title": "ArrowMark Financial declares $0.15 dividend",
      "link": "https://seekingalpha.com/news/4672756-arrowmark-financial-declares-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2377,6 +2385,14 @@
      "zh": "蔚来与联合国开发计划署续签生态共建协议"
     },
     {
+     "title": "12款药新入商保创新药目录，价格协商成功率100%",
+     "link": "http://www.eeo.com.cn/2026/1114/1092864.shtml",
+     "pubDate": "Sat, 14 Nov 2026 12:39:32 +0800",
+     "summary": "所有参与2026年商保创新药目录价格协商的药品，都成功纳入目录。",
+     "source": "经济观察网",
+     "zh": "12款药新入商保创新药目录，价格协商成功率100%"
+    },
+    {
      "title": "百济神州宣布百悦达新增纳入2026年国家新版基本医保药品目录",
      "link": "http://finance.eastmoney.com/news/1354,202611143931322189.html",
      "pubDate": "Sat, 14 Nov 2026 12:39:00 +0800",
@@ -2441,6 +2457,30 @@
      "zh": "吴清：科学把握节奏的同时加强对科技企业发行上市的制度适配性研究"
     },
     {
+     "title": "AI短剧制作迁入长三角机房",
+     "link": "http://www.eeo.com.cn/2026/1114/1092774.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:47:02 +0800",
+     "summary": "经济观察报记者联系多家北方短剧团队获悉，近两个月来，AI短剧行业出现了算力南迁趋势，不少北方团队正把渲染集群迁往长三角。沪苏浙皖四地发展和改革部门近日联合发布的《数字长三角发展报告（2026）》显示，长三角的智能算力规模占全国近三成。这轮全民刷屏的AI短剧热潮里，利润正沿着产业链，从做剧的人手里，传导至供应算力的机房。",
+     "source": "经济观察网",
+     "zh": "AI短剧制作迁入长三角机房"
+    },
+    {
+     "title": "书店，在创造“相遇”中重光",
+     "link": "http://www.eeo.com.cn/2026/1114/1092781.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:34:52 +0800",
+     "summary": "卖书最冷的时代，恰恰是读书人与写书人互动最为热切的时代。",
+     "source": "经济观察网",
+     "zh": "书店，在创造“相遇”中重光"
+    },
+    {
+     "title": "算力抢铟",
+     "link": "http://www.eeo.com.cn/2026/1114/1092775.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:30:00 +0800",
+     "summary": "过去，铟最主要的用途是做显示面板。手机、电视的屏幕里，都需要用到它。最近一年，随着人工智能和算力产业链升温，铟又多了一个重要去处：生产光芯片。",
+     "source": "经济观察网",
+     "zh": "算力抢铟"
+    },
+    {
      "title": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器",
      "link": "https://wallstreetcn.com/articles/3785933",
      "pubDate": "Sat, 14 Nov 2026 11:22:50 +0800",
@@ -2455,46 +2495,6 @@
      "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
      "source": "Financial Times",
      "zh": "US aviation regulator lifts order that grounded thousands of flights"
-    },
-    {
-     "title": "传统的圣诞行情，今年的美股还有吗？",
-     "link": "https://wallstreetcn.com/articles/3785929",
-     "pubDate": "Sat, 14 Nov 2026 10:49:13 +0800",
-     "summary": "美股在经历一轮剧烈抛售后，技术面与仓位面同步修复，高盛等华尔街主要机构相继发出年末反弹信号。但这场潜在的\"圣诞行情\"背后，潜伏着一个更难忽视的风险：通胀压力正以超越新冠疫情时期的速度积聚，账单将在明年一月如期呈上。 11月13日，高盛策略师Cosimo Codacci-Pisanelli在最新宏观报告中开门见山地问道：\"圣诞节能提前到来吗？\"他给出的答案是肯定的。 近期股市大幅回调、估值倍数下移、市场仓位大幅减轻，以及季节性因素的支撑，共同构成了年末风险资产向上轧空的条件。 与此同时，摩根士丹利与摩根大通也相继发出类似信号， 前者的数据显示，AI板块正经历15年多来最大规模的集中平仓与降杠杆，",
-     "source": "华尔街见闻",
-     "zh": "传统的圣诞行情，今年的美股还有吗？"
-    },
-    {
-     "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 02:42:00 GMT",
-     "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-     "source": "MarketWatch",
-     "zh": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
-    },
-    {
-     "title": "14 dividend stocks selected for long-term growth",
-     "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 01:58:00 GMT",
-     "summary": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
-     "source": "MarketWatch",
-     "zh": "14 dividend stocks selected for long-term growth"
-    },
-    {
-     "title": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”",
-     "link": "https://wallstreetcn.com/articles/3785931",
-     "pubDate": "Sat, 14 Nov 2026 09:37:31 +0800",
-     "summary": "Anthropic正在冲刺史上最大规模IPO之一，其首席执行官Dario Amodei在上市前路演中展现出刻意低调的姿态——他表示公司希望\"少承诺、多兑现\"，并对上市时机的市场波动表现出相当的淡定。 据《华尔街日报》报道，Amodei于周五在摩根大通纽约总部与摩根大通CEO Jamie Dimon进行了一场直播炉边对话，现有和潜在投资者、Anthropic首席财务官Krishna Rao及Amodei的妻子均在场。 Amodei在对话中表示，公司采取了保守定价策略，他曾多次收到\"永远不要让公司的估值超过其真实价值哪怕一美元\"的建议，并认同这一思路。 Anthropic此次IPO正值市场剧烈震荡",
-     "source": "华尔街见闻",
-     "zh": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”"
-    },
-    {
-     "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-     "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-     "pubDate": "Sat, 14 Nov 2026 01:34:11 GMT",
-     "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-     "source": "CNBC",
-     "zh": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials"
     }
    ]
   },

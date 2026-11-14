@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 14:13:53",
+ "generated_at": "2026/11/14 14:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -433,12 +433,12 @@
      "zh": "Jensen Resigns Over Second Affair"
     },
     {
-     "title": "CTO Interview With Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA",
+     "title": "CTO Interview with Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA",
      "link": "https://semiwiki.com/eda/siemens-eda/376086-cto-interview-with-uan-rey-senior-vp-and-general-manager-of-calibre-and-cto-of-siemens-eda/",
      "pubDate": "Thu, 12 Nov 2026 20:00:22 +0000",
      "summary": "By Juan Rey, Chief Technology Officer, Siemens Juan Rey is Head of Technology and Innovation for Electronic Design Automation (EDA) at Siemens and Vice President and General Manager for Calibre. He joined Mentor Graphics, now Siemens EDA, in 2001 and led engineering, research, development, and quali",
      "source": "SemiWiki",
-     "zh": "CTO Interview With Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA"
+     "zh": "CTO Interview with Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA"
     },
     {
      "title": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform",
@@ -972,7 +972,7 @@
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1007,14 +1007,6 @@
      "summary": "The hydrogen will be transported through a roughly 25 km former natural gas pipeline converted to carry hydrogen, with deliveries to a TotalEnergies' refinery scheduled to begin in 2027. The post The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany appeared f",
      "source": "pv magazine",
      "zh": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1087,6 +1079,14 @@
      "summary": "Solar module prices are stagnating, while battery energy storage system prices are expected to rise for the first time. Germany’s solar market could face significant challenges if policymakers fail to push through reforms to Germany's Renewable Energy Sources Act (EEG) in time, according to Martin S",
      "source": "pv magazine",
      "zh": "Dark clouds gather over Germany’s solar sector"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1321,20 +1321,20 @@
      "zh": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?"
     },
     {
-     "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
-     "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
-     "summary": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
-     "source": "Space.com",
-     "zh": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)"
-    },
-    {
      "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
      "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
      "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
      "summary": "How the 'Dune' director turned a little-known short story into one of the best sci-fi movies of the 21st century",
      "source": "Space.com",
      "zh": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk"
+    },
+    {
+     "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+     "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
+     "summary": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
+     "source": "Space.com",
+     "zh": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)"
     },
     {
      "title": "California's brand-new Air & Space Center, home of the space shuttle Endeavour, opens today",
@@ -1761,6 +1761,30 @@
    "total": 18,
    "items": [
     {
+     "title": "TikTok 美区短视频挂车转化不到 0.8%，是选品供应链拖累还是内容问题？",
+     "link": "https://www.baijing.cn/question/638731",
+     "pubDate": "Sat, 14 Nov 2026 06:16:23 +0000",
+     "summary": "我们做北美家居收纳类目，TikTok 美区小店刚起量阶段，团队 6 人，短视频挂车跑了三周，日均消耗 400 美金左右，播放量能到 5 万上下，但挂车点击率只有 1.2%，成交转化 0.7% 左右。选品是从 1688 找的折叠收纳箱和厨房置物架，客单价 19-29 美金，备货走了海外仓，首批各 300 件，退货率目前 6%，主要是尺寸和承重跟视频展示有落差。试过换钩子前 3 秒、加字幕对比图、把挂车位置从评论区改到视频内嵌，转化没明显起色。现在卡在不确定该先换品重做供应链，还是继续磨内容素材，判断标准该怎么定？",
+     "source": "白鲸出海",
+     "zh": "TikTok 美区短视频挂车转化不到 0.8%，是选品供应链拖累还是内容问题？"
+    },
+    {
+     "title": "Nothing 手机阵容明年翻倍至少 6 款，A036 等 3 款机型已现踪迹",
+     "link": "https://www.ithome.com/1/027/122.htm",
+     "pubDate": "Sat, 14 Nov 2026 06:09:10 GMT",
+     "summary": "IT之家 11 月 14 日消息，科技媒体 Smartprix 昨日（11 月 13 日）发布博文， 报道称 Nothing 的手机阵容在 2027 年将扩至 6 款，目前已出现 A006、A010 以及 A036 三款机型。 IT之家援引博文介绍，Nothing 联合创始人、印度区总裁 Akis Evangelidis 于 10 月 30 日表示，公司 2027 年智能手机新品数量将超过 2026 年的两倍。以今年已推出的 Phone (4a)、Phone (4a) Pro 和 Phone (4b) 三款产品计算，明年新品至少为 6 款。 该媒体指出 2027 年阵容中，A006 和 A01",
+     "source": "IT之家",
+     "zh": "Nothing 手机阵容明年翻倍至少 6 款，A036 等 3 款机型已现踪迹"
+    },
+    {
+     "title": "比亚迪：网传“某数字能源出售给比亚迪”不实",
+     "link": "https://www.ithome.com/1/027/121.htm",
+     "pubDate": "Sat, 14 Nov 2026 06:04:05 GMT",
+     "summary": "IT之家 11 月 14 日消息，比亚迪网络举报中心公众号今日发文称，针对网络流传“某数字能源出售给比亚迪”相关信息，经核实： 该消息无任何事实依据，属于虚假信息 。 公告称：“网络不是法外之地，对于编造、传播虚假信息扰乱网络秩序的行为，我们将保留追究相关主体法律责任的权利。” IT之家附比亚迪公告截图如下：",
+     "source": "IT之家",
+     "zh": "比亚迪：网传“某数字能源出售给比亚迪”不实"
+    },
+    {
      "title": "GPSR 标签不合规被下架，欧洲站广告 CPA 从 12 欧涨到 31 欧怎么办？",
      "link": "https://www.baijing.cn/question/638730",
      "pubDate": "Sat, 14 Nov 2026 06:01:18 +0000",
@@ -1897,14 +1921,6 @@
      "zh": "沙特COD订单回款拖到45天，5人团队该不该自建本地催收？"
     },
     {
-     "title": "传音预装带来的尼日利亚短剧用户，付费转化卡在支付回款周期上怎么办？",
-     "link": "https://www.baijing.cn/question/638725",
-     "pubDate": "Sat, 14 Nov 2026 05:24:42 +0000",
-     "summary": "我们在尼日利亚做短剧出海，刚上线三个月，团队8人，主要靠传音预装拿到首批量，日活约1.2万，但付费率只有0.6%。用户点付费后走的是本地话费代扣和银行卡两条路，话费代扣成功率不到四成，银行卡回款周期T+7到T+10，现金流压得很难受。已经试过接Paystack和Flutterwave的聚合收单，也调过首集免费时长，但卡在代扣通道覆盖的运营商不全、回款慢导致没法持续买量。想确认的是：在尼日利亚做短剧预装起量，支付通道和回款周期该怎么取舍，是先牺牲转化率保回款速度，还是继续扛账期换付费率？",
-     "source": "白鲸出海",
-     "zh": "传音预装带来的尼日利亚短剧用户，付费转化卡在支付回款周期上怎么办？"
-    },
-    {
      "title": "微软承认 10 月 Win10/Win11 更新导致数据库连接异常，部分服务器可能越跑越慢",
      "link": "https://www.ithome.com/1/027/097.htm",
      "pubDate": "Sat, 14 Nov 2026 05:14:59 GMT",
@@ -1919,14 +1935,6 @@
      "summary": "本文来自微信公众号： 南瞻 ，作者：南瞻，原文标题：《内罗毕摩的小哥为什么不肯换电动车 | 长颈鹿笔记》 全篇阅读时间约2-3分钟 南瞻： “ 丧失掌控感、频繁跑空、在换电站杵着眼睁睁看着同行在路上拉客的焦虑感，远超过了账面上可能多赚一点点钱带来的快乐 ” 如果只说一句：电动摩的在账面上确实能赚多一些钱，但焦虑啊 满街摩托车的景象，我印象当中只存在于20年前的西南某省会城市，以及10多年前在台北看到的街景，后来在北京就几乎再也没有看到了。前些年在欧洲，大街上更多是自行车，摩托车是不多见的。直到来到非洲 有欧洲的朋友问我，“我知道内罗毕堵车很厉害。我看到网络照片里街上有很多摩托车，但电动摩托车好",
      "source": "虎嗅",
      "zh": "内罗毕摩的小哥为什么不肯换电动车 | 长颈鹿笔记"
-    },
-    {
-     "title": "微软 14 年 AI 老将离职：称创新难落地，降本研究未获认真考虑",
-     "link": "https://www.ithome.com/1/027/078.htm",
-     "pubDate": "Sat, 14 Nov 2026 05:05:18 GMT",
-     "summary": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 今天（11 月 14 日）发布博文， 报道称在微软任职逾 14 年的 AI 科学家、AI Frontiers 实验室联合创始人约翰 · 兰福德（John Langford）已离职。 他表示，离开的关键原因是研究成果看不到实际应用的路径，创新想法甚至难以获得认真考虑。 微软任职逾 14 年的 AI 科学家、AI Frontiers 实验室联合创始人约翰 · 兰福德（John Langford），图源：微软 IT之家查询公开资料，兰福德是机器学习领域资深且有影响力的研究者，长期从事机器学习与学习理论研究，其重要贡献是推进 C",
-     "source": "IT之家",
-     "zh": "微软 14 年 AI 老将离职：称创新难落地，降本研究未获认真考虑"
     },
     {
      "title": "匹克球在越南何以“火爆”？我们能学什么？",
@@ -1967,14 +1975,6 @@
      "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio 2026年夏天，欧洲经历了一系列极端热浪。研究人员估计，仅在欧洲854座城市，三个月内就出现了超过5万例高温相关超额死亡，其中约三分之二可归因于人为气候变暖。 这并非一次孤立的极端事件。另一项覆盖2000至2025年的研究显示，过去26年间，欧洲854座城市超过23万例高温相关超额死亡可归因于人为气候变化，而且这一影响还在不断增强。 近期，来自帝国理工学院、伦敦卫生与热带医学院等机构的研究团队在《自然-健康》（Nature Health）发表两项研究，分别从长期趋势和最新极端高温事件出发，评估人为气候变化对欧洲城市高温相",
      "source": "虎嗅",
      "zh": "超过23万例死亡可归因于气候变化：两项《自然-健康》研究揭示欧洲高温的健康代价"
-    },
-    {
-     "title": "苹果推出宝可梦 30 周年限定礼品卡：可领 3 款专属壁纸，日本 11 月 16 日开售",
-     "link": "https://www.ithome.com/1/027/077.htm",
-     "pubDate": "Sat, 14 Nov 2026 04:50:17 GMT",
-     "summary": "IT之家 11 月 14 日消息，苹果昨日宣布推出宝可梦 30 周年限定版 Apple Gift Card，将于 11 月 16 日至 11 月 30 日在日本全国 11 家 Apple Store 零售店限量发售。 此次活动是苹果与宝可梦合作推出的特别企划，礼品卡采用苹果主题宝可梦“啃果虫”设计。 据苹果官方介绍，这款礼品卡名为 Apple Gift Card Pokémon Special Edition，卡面印有啃果虫形象。 用户可以在购买时自行设定充值金额，范围为 1,000 日元至 25 万日元 （IT之家注：现汇率约合 41.8 元至 10,452 元人民币） ，每人最多购买 3 ",
-     "source": "IT之家",
-     "zh": "苹果推出宝可梦 30 周年限定礼品卡：可领 3 款专属壁纸，日本 11 月 16 日开售"
     },
     {
      "title": "Analysis: Sam Bankman-Fried&apos;s $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
@@ -2273,6 +2273,14 @@
      "zh": "Seritage Growth Properties 7% CUM PFD SR A declares $0.4375 dividend"
     },
     {
+     "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+     "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+     "pubDate": "Sat, 14 Nov 2026 06:00:01 GMT",
+     "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.",
+     "source": "CNBC",
+     "zh": "Ecuador wants to monetize its biodiversity — while still drilling for oil"
+    },
+    {
      "title": "Eagle Capital Growth Fund declares $0.49 dividend",
      "link": "https://seekingalpha.com/news/4672754-eagle-capital-growth-fund-declares-0_49-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 14 Nov 2026 00:58:56 -0500",
@@ -2361,12 +2369,12 @@
      "zh": "K-Bro Linen declares CAD 0.10 dividend"
     },
     {
-     "title": "12款药新入商保创新药目录，价格协商成功率100%",
-     "link": "http://www.eeo.com.cn/2026/1114/1092864.shtml",
-     "pubDate": "Sat, 14 Nov 2026 12:39:32 +0800",
-     "summary": "所有参与2026年商保创新药目录价格协商的药品，都成功纳入目录。",
-     "source": "经济观察网",
-     "zh": "12款药新入商保创新药目录，价格协商成功率100%"
+     "title": "蔚来与联合国开发计划署续签生态共建协议",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931322233.html",
+     "pubDate": "Sat, 14 Nov 2026 12:43:00 +0800",
+     "summary": "11月13日， 蔚来 与联合国开发计划署（UNDP）在北京签署Clean Parks清朗国家公园生态共建计划二期合作协议。该项目是车企发起的自然保护地共建平台，目前已在全球落地19个保护地，覆盖国内五大国家公园。国家林草局相关代表出席签约仪式。 据悉，一期合作期间，双方在多处保护地落地光储充微电网、电动巡护等示范项目，发布制造业生物多样性供应链相关指南，探索企业力量参与生态保护的路径。按照二期协议，双方将进一步拓展示范保护地范围，提炼保护地低碳能源、绿色交通的可复制标准，推进生物多样性能力建设、青年生态创新项目，并开展国际经验交流，助力落实《昆明—蒙特利尔全球生物多样性框架》。 本次合作将引入",
+     "source": "东方财富股票",
+     "zh": "蔚来与联合国开发计划署续签生态共建协议"
     },
     {
      "title": "百济神州宣布百悦达新增纳入2026年国家新版基本医保药品目录",
@@ -2385,28 +2393,52 @@
      "zh": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”"
     },
     {
-     "title": "AI短剧制作迁入长三角机房",
-     "link": "http://www.eeo.com.cn/2026/1114/1092774.shtml",
-     "pubDate": "Sat, 14 Nov 2026 11:47:02 +0800",
-     "summary": "经济观察报记者联系多家北方短剧团队获悉，近两个月来，AI短剧行业出现了算力南迁趋势，不少北方团队正把渲染集群迁往长三角。沪苏浙皖四地发展和改革部门近日联合发布的《数字长三角发展报告（2026）》显示，长三角的智能算力规模占全国近三成。这轮全民刷屏的AI短剧热潮里，利润正沿着产业链，从做剧的人手里，传导至供应算力的机房。",
-     "source": "经济观察网",
-     "zh": "AI短剧制作迁入长三角机房"
+     "title": "马斯克：将签名支持黄仁勋复职",
+     "link": "http://finance.eastmoney.com/news/1344,202611143931318775.html",
+     "pubDate": "Sat, 14 Nov 2026 12:16:45 +0800",
+     "summary": "黄仁勋辞职事件仍在发酵，马斯克继续为黄仁勋发声。在一名网友的留言下，马斯克表示，自己将签名支持黄仁勋回归。 黄仁勋辞职前，一位资深工程师曾在 英伟达 内网“建议箱”发帖，希望董事会采取行动前，先听听员工的意见。内部 通信 显示，该帖已有超过1600多条评论，超过97%的员工希望黄仁勋留任。 员工们纷纷表示“ 英伟达 就是黄仁勋，黄仁勋就是 英伟达 ”“我们都是人，都会犯错，黄仁勋做过那么多正确的事，他需要第二次机会”。 11月13日，有网友在社交平台上分享2023年传记电影《AIR》（气垫传奇）中的台词：你将永远被铭记，因为有些东西是永恒的。马斯克回复：“老黄（Jensen）。” 据报道，特朗",
+     "source": "东方财富资讯",
+     "zh": "马斯克：将签名支持黄仁勋复职"
     },
     {
-     "title": "书店，在创造“相遇”中重光",
-     "link": "http://www.eeo.com.cn/2026/1114/1092781.shtml",
-     "pubDate": "Sat, 14 Nov 2026 11:34:52 +0800",
-     "summary": "卖书最冷的时代，恰恰是读书人与写书人互动最为热切的时代。",
-     "source": "经济观察网",
-     "zh": "书店，在创造“相遇”中重光"
+     "title": "吴清：提升资本市场抵御各类“黑天鹅”等风险事件的能力",
+     "link": "http://finance.eastmoney.com/news/1350,202611143931315884.html",
+     "pubDate": "Sat, 14 Nov 2026 12:03:09 +0800",
+     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，全球资本市场正在经历新一轮的资产再定价、再平衡。这需要积极践行全球治理倡议，深化资本市场监管合作，共同研究应对不确定难预料因素，增强确定性制度供给，不断提升资本市场抵御各类“黑天鹅”“灰犀牛”等重大风险事件的能力和韧性。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的小川副主席，忠明市长，贺青副市长， 尊敬的戴维斯主席，萨金特教授、李扬教授、姜纬教授，各位专家， 女士们、先生们、朋友们： 大家上午好！首先我代表中国证监会和中国资本市场学会热烈欢迎各位海内外嘉宾莅临首届中国资本市场学术年会！衷心感谢大家长期",
+     "source": "东方财富资讯",
+     "zh": "吴清：提升资本市场抵御各类“黑天鹅”等风险事件的能力"
     },
     {
-     "title": "算力抢铟",
-     "link": "http://www.eeo.com.cn/2026/1114/1092775.shtml",
-     "pubDate": "Sat, 14 Nov 2026 11:30:00 +0800",
-     "summary": "过去，铟最主要的用途是做显示面板。手机、电视的屏幕里，都需要用到它。最近一年，随着人工智能和算力产业链升温，铟又多了一个重要去处：生产光芯片。",
-     "source": "经济观察网",
-     "zh": "算力抢铟"
+     "title": "吴清：长钱长投的制度体系不断完善",
+     "link": "http://finance.eastmoney.com/news/1350,202611143931313466.html",
+     "pubDate": "Sat, 14 Nov 2026 11:59:03 +0800",
+     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，2024年以来，社保、保险、年金净买入A股超1.5万亿元，专业机构力量稳步壮大，指数、ETF等产品供给持续丰富，长钱长投的制度体系不断完善。融资端，发行上市、并购重组、再融资等制度包容性适应性持续提升。今年前九个月，股票、债券等直接融资占社会融资增量的比重已近50％。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的小川副主席，忠明市长，贺青副市长， 尊敬的戴维斯主席，萨金特教授、李扬教授、姜纬教授，各位专家， 女士们、先生们、朋友们： 大家上午好！首先我代表中国证监会和中国资本市场学会热烈欢迎各位海内外嘉",
+     "source": "东方财富资讯",
+     "zh": "吴清：长钱长投的制度体系不断完善"
+    },
+    {
+     "title": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动",
+     "link": "http://finance.eastmoney.com/news/1350,202611143931312639.html",
+     "pubDate": "Sat, 14 Nov 2026 11:58:11 +0800",
+     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，进一步深化市场稳定长效机制研究，中国资本市场从未像今天这样与全球资本市场高度联动、传导共振。面对高度不确定的外部环境和输入性风险，需要我们加强对全球资本市场周期变化、资产定价逻辑演变、风险传导联动等规律性认识，进一步强化跨境跨市场跨行业风险的研究应对，系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的小川副主席，忠明市长，贺青副市长， 尊敬的戴维斯主席，萨金特教授、李扬教授、姜纬教授，各位专家， 女士们、先生们、朋友们： 大家上午好！首先我代表中国",
+     "source": "东方财富资讯",
+     "zh": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动"
+    },
+    {
+     "title": "钠电池最新突破！机构看好未来行业出货量 8只概念股兼具低PE+高股息",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931314414.html",
+     "pubDate": "Sat, 14 Nov 2026 11:57:31 +0800",
+     "summary": "钠离子电池 作为 锂 电池 的重要补充，近年来受到业界、科研界、 资本界 高度关注，产业化进程明显提速。 无负极钠 电池 取得突破 兼顾长寿命与低温性能 据中国科学报消息，近日，西安交通大学材料学院金属材料强度全国重点实验室微纳尺度材料行为研究中心教授薛伟江课题组，提出了一种基于1, 3-二氧六环（DOX）醚的“界面可控聚合”电解液分子设计策略，通过同时促进高度可逆的钠沉积并抑制电解质分解，从而缓解活性钠损失，推动无负极钠金属 电池 实现长循环和宽温域工作。相关成果发表在《自然-能源》上。 团队研究发现，DOX与钠离子之间存在弱配位作用，能够助力钠离子脱溶剂化，实现可逆的金属钠沉积。同时，DO",
+     "source": "东方财富资讯",
+     "zh": "钠电池最新突破！机构看好未来行业出货量 8只概念股兼具低PE+高股息"
+    },
+    {
+     "title": "吴清：科学把握节奏的同时加强对科技企业发行上市的制度适配性研究",
+     "link": "http://finance.eastmoney.com/news/1350,202611143931311546.html",
+     "pubDate": "Sat, 14 Nov 2026 11:55:07 +0800",
+     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，进一步深化制度包容性适应性研究。资本市场作为市场化资源配置的重要平台，要进一步研究深化投融资 综合 改革，加快构建适应创新规律、产业规律的直接融资体系，统筹发挥私募市场与公开市场、股票市场与债券市场的协同功能，尤其是要在科学把握节奏的同时，加强对大型和新型科技企业发行上市的制度适配性和风险应对机制研究。同时，要全面准确理解新质生产力发展的科学内涵，深入研究支持新型消费、传统产业升级等不同领域优质企业上市发展，不断改善和优化上市公司结构，促进市场均衡协调发展。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的",
+     "source": "东方财富资讯",
+     "zh": "吴清：科学把握节奏的同时加强对科技企业发行上市的制度适配性研究"
     },
     {
      "title": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器",
@@ -2463,78 +2495,6 @@
      "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
      "source": "CNBC",
      "zh": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials"
-    },
-    {
-     "title": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”",
-     "link": "https://wallstreetcn.com/articles/3785930",
-     "pubDate": "Sat, 14 Nov 2026 09:29:54 +0800",
-     "summary": "黄仁勋辞去英伟达CEO职务的余波正在硅谷迅速蔓延，以马斯克为代表的科技界领军人物正积极介入，试图推动这位灵魂人物重掌帅印。 北京时间今天清晨，马斯克在社交媒体上公开确认，自己正在签署一份请求黄仁勋复职的请愿书。与此同时， 承载一请愿活动的网站 因访问量激增而面临服务器压力，目前已收集到超过1.4万人的签名支持。 曾在英伟达工作过的核心工程师的公开表态暗示，如果高层未能妥善处理此次变动，公司可能遭遇关键技术人员的离职抗议，这将直接影响英伟达的业务根基。 在科技界看来，强行剥离一位具有行业定义能力的创始人往往伴随着巨大代价。多位知名投资人和行业观察家已经将此次事件与苹果和Uber的历史教训相提并论",
-     "source": "华尔街见闻",
-     "zh": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”"
-    },
-    {
-     "title": "SpaceX launches Starship in key test flight of massive rocket",
-     "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-     "pubDate": "Sat, 14 Nov 2026 01:18:51 GMT",
-     "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
-     "source": "CNBC",
-     "zh": "SpaceX launches Starship in key test flight of massive rocket"
-    },
-    {
-     "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
-     "link": "https://wallstreetcn.com/articles/3785914",
-     "pubDate": "Sat, 14 Nov 2026 09:09:09 +0800",
-     "summary": "OpenAI解散独立机器人团队，押注通用模型直驱具身智能。 11月13日，据《财富》杂志报道， OpenAI已解散独立运营的机器人团队，将相关研究人员分拨至其他部门 。公司表示，此举的直接导火索是GPT-6 Astra等通用前沿模型的意外突破。 研究人员发现，这些模型可被直接应用于机器人控制任务，无需为机器人单独开发专用模型。 在英伟达的一项测试中，由Astra驱动的智能体在模拟操作基准测试中达到74.8%的成功率，优于该榜单上最佳专用机器人模型报告的51.0%。 此次重组同样发生在OpenAI承压削减成本的背景之下 。据报道，该公司最近一个季度的运营亏损高达109亿美元，同时正寻求完成新一轮",
-     "source": "华尔街见闻",
-     "zh": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型"
-    },
-    {
-     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-     "pubDate": "Fri, 13 Nov 2026 23:54:36 GMT",
-     "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
-     "source": "CNBC",
-     "zh": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning"
-    },
-    {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 23:12:00 GMT",
-     "summary": "There is already a demographic ‘run’ on Social Security.",
-     "source": "MarketWatch",
-     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
-    },
-    {
-     "title": "4 expert tips for signing up for Medicare",
-     "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 22:45:00 GMT",
-     "summary": "A day in the life of a Medicare counselor",
-     "source": "MarketWatch",
-     "zh": "4 expert tips for signing up for Medicare"
-    },
-    {
-     "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 22:21:00 GMT",
-     "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?"
-    },
-    {
-     "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-     "pubDate": "Fri, 13 Nov 2026 22:18:43 GMT",
-     "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
-     "source": "CNBC",
-     "zh": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion"
-    },
-    {
-     "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-     "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 22:04:00 GMT",
-     "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
-     "source": "MarketWatch",
-     "zh": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel."
     }
    ]
   },

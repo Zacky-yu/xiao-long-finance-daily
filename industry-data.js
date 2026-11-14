@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 16:32:00",
+ "generated_at": "2026/11/14 16:42:27",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Clarifying the CATL Tener Sodium, with new specifications and availability",
+     "link": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
+     "pubDate": "Sat, 14 Nov 2026 08:30:00 +0000",
+     "summary": "New specs for CATL’s four-hour sodium-ion battery reveal how the company will market the product for cost benefits over LFP-based batteries. International deliveries are due to begin in summer 2027. The post Clarifying the CATL Tener Sodium, with new specifications and availability appeared first on",
+     "source": "pv magazine",
+     "zh": "Clarifying the CATL Tener Sodium, with new specifications and availability"
+    },
+    {
      "title": "Transparent bamboo boosts energy performance of solar PV skylights",
      "link": "https://www.pv-magazine.com/2026/11/14/transparent-bamboo-boosts-energy-performance-of-solar-pv-skylights/",
      "pubDate": "Sat, 14 Nov 2026 08:00:00 +0000",
@@ -1040,14 +1048,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chang Beom Kang, Head of the ESS Battery Division at LG Energy Solution, discusses his view of the changing market and the company's strategy for future growth.",
      "source": "Energy Storage News",
      "zh": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market"
-    },
-    {
-     "title": "Chinese PV Industry Brief: Energy China shortlists 23 module suppliers for 15 GW tender",
-     "link": "https://www.pv-magazine.com/2026/11/13/chinese-pv-industry-brief-energy-china-shortlists-23-module-suppliers-for-15-gw-tender/",
-     "pubDate": "Fri, 13 Nov 2026 13:11:19 +0000",
-     "summary": "In other news, JinkoSolar has secured certification under new Chinese PV standards and Trina Solar is expanding into AI data center energy solutions, Drinda has canceled its Oman factory project, while GCL SI has secured a module supply contract, and polysilicon oversupply continues to weigh on pric",
-     "source": "pv magazine",
-     "zh": "Chinese PV Industry Brief: Energy China shortlists 23 module suppliers for 15 GW tender"
     },
     {
      "title": "Metlen starts construction at 252MW/375MWh solar-plus-storage plant in Greece",
@@ -1730,12 +1730,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "小心打着《GTA 6》PC 版旗号的诈骗：可盗取 Steam 账号和加密钱包数据",
+     "link": "https://www.ithome.com/1/027/170.htm",
+     "pubDate": "Sat, 14 Nov 2026 08:29:14 GMT",
+     "summary": "IT之家 11 月 14 日消息，据外媒 Neowin 今天（14 日）下午报道，网络安全公司 Cynet 发现，有人在谷歌 Colab 笔记本中发布了虚假的“GTA 6 EXE 文件下载”链接。 Cynet 并未说明研究人员最初如何发现该笔记本。调查发现，链接指向一个 名为“Windows Software Hub”的网页 ，其网址使用了 WooCommerce 字样。 为了骗取用户信任，下载页面不仅标注了软件版本号和下载次数，还贴上 “无病毒”“安全”“已验证”等标签 ，甚至声称没有检测到任何安全威胁。 不过，网页标注的 下载文件只有 72MB ，实际下载的压缩包更是可疑。里面只有一个 7",
+     "source": "IT之家",
+     "zh": "小心打着《GTA 6》PC 版旗号的诈骗：可盗取 Steam 账号和加密钱包数据"
+    },
+    {
+     "title": "郑州日产 Z9 新能源皮卡 · 悦享版上市：110km NEDC 纯电续航，14.99 万元起",
+     "link": "https://www.ithome.com/1/027/169.htm",
+     "pubDate": "Sat, 14 Nov 2026 08:27:45 GMT",
+     "summary": "IT之家 11 月 14 日消息，郑州日产宣布推出 Z9 新能源皮卡 · 悦享版，售价 14.99 万元起。厂家提供不限车型增换购补贴 7000 元 / 台或现金促销 5000 元 / 台，同时可享 8 万 2 年 0 息或 5050 金融政策，更享首任非营运车主电池终身质保。 该车采用“Z-vision”全新设计语言，前脸提供 Z 字形专属车灯，使用悬浮顶设计，后车门开启角度达 90°，尾部线条采用上翘设计。 该车座舱搭载 10 寸液晶仪表 + 12.8 寸中控屏，提供定速巡航、后排出风口、多功能方向盘、感应雨刷、电动调节后视镜、后排可翻折座椅等功能，并支持远程控车、预约充电、插枪保温等功能",
+     "source": "IT之家",
+     "zh": "郑州日产 Z9 新能源皮卡 · 悦享版上市：110km NEDC 纯电续航，14.99 万元起"
+    },
+    {
+     "title": "中国科学院揭示大脑仅用少量神经元就能解码手部三维运动轨迹，打开脑机接口研发新路径",
+     "link": "https://www.ithome.com/1/027/168.htm",
+     "pubDate": "Sat, 14 Nov 2026 08:21:48 GMT",
+     "summary": "IT之家 11 月 14 日消息，据新华社昨晚报道，中国科学院自动化研究所团队通过灵长类动物实验研究， 揭示大脑仅用少量神经元就能解码手部三维运动轨迹 ，为研发更高效的新一代脑机接口提供神经科学依据。 在以往的运动皮层研究中，实验往往将猕猴的运动范围限于少量离散位置，研究人员难以分辨神经元的编码方式。 为了解开这个难题，研究团队设计了一个无约束的三维抓取任务，并在猕猴左侧的初级运动皮层和前运动皮层植入微电极阵列。通过对三维空间运动过程中细胞放电率的计算，研究人员发现负责规划运动的前运动皮层，以及发出运动执行指令的初级运动皮层中，都有部分神经元对手的实时位置进行编码，从而呈现手在空间中运动的位置",
+     "source": "IT之家",
+     "zh": "中国科学院揭示大脑仅用少量神经元就能解码手部三维运动轨迹，打开脑机接口研发新路径"
+    },
+    {
+     "title": "Camp Snap 推出复古摄像机 CS-8 Micro：盲盒形式销售，可挂在钥匙链上随身携带，39.99 美元",
+     "link": "https://www.ithome.com/1/027/166.htm",
+     "pubDate": "Sat, 14 Nov 2026 08:20:35 GMT",
+     "summary": "IT之家 11 月 14 日消息，据外媒 The Verge 报道，制造商 Camp Snap 宣布推出一款复古摄像机 CS-8 Micro，该产品将于 11 月 17 日发售，售价为 39.99 美元 （IT之家注：现汇率约合 267.3 元人民币） 。 该产品采用密封盲盒形式销售，提供亮粉色、丁香紫、青柠绿和橙色等常规版本以及相对稀有的“黑色复古经典款”及“夜光款”。其整体长度约为 3 英寸（约 7.6 厘米），重量仅 1.5 盎司（约 42.5 克），可以挂在钥匙链上随身携带。 CS-8 Micro 配备了一块 LCD 屏幕，但仅用于取景，无法直接在摄像机上查看、编辑或删除已拍摄的视频。",
+     "source": "IT之家",
+     "zh": "Camp Snap 推出复古摄像机 CS-8 Micro：盲盒形式销售，可挂在钥匙链上随身携带，39.99 美元"
+    },
+    {
      "title": "史上最遗憾一笔投资",
      "link": "https://www.huxiu.com/article/4905609.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 16:18:53 +0800",
      "summary": "本文来自微信公众号： 投资界 ，作者：陈佳 戏剧性。 报道/投资界PEdaily Anthropic敲钟在即，一笔投资往事浮现。 时间回到2021年，身家百亿美元的90后币圈天才Sam Bankman-Fried（下称SBF），向尚未推出Claude的Anthropic投入5亿美元，一度间接持股约13.56%，成为其最大的早期投资人。 如今回看，他的这笔投资异常成功，Anthropic从一个名不见经传的AI实验室，一路成长为估值万亿美元的行业巨头。 只可惜，SBF错失了大结果，拿到大后果——后来他因诈骗锒铛入狱，投向Anthropic的5亿美元被清仓偿债。若持有至今，按Anthropic拟IP",
      "source": "虎嗅",
      "zh": "史上最遗憾一笔投资"
+    },
+    {
+     "title": "11.11 过后迎全年探底：bilibili 超级大会员年卡 388 → 124 元，支持电视端",
+     "link": "https://www.ithome.com/1/027/165.htm",
+     "pubDate": "Sat, 14 Nov 2026 08:14:18 GMT",
+     "summary": "bilibili 超级大会员双年卡官方售价为 776 元，今日天猫官旗直降至 248 元。 活动仅限 11 月 14 日 10 点 ~11 月 15 日 23 点 59 分，约为官方 3.2 折。 适用平台： 支持电视端 / 手机 / 平板 / 电脑。 天猫 哔哩哔哩 超级大会员 双年卡 支持电视端 券后 248 元 领 528 元券 填写手机号自动充值（不支持 QQ、微信号等第三方账号充值，不支持海外、港澳手机号） 天猫 哔哩哔哩 超级大会员 双年卡 支持电视端 券后 248 元 领 528 元券",
+     "source": "IT之家",
+     "zh": "11.11 过后迎全年探底：bilibili 超级大会员年卡 388 → 124 元，支持电视端"
+    },
+    {
+     "title": "大众把换标上汽大通 V90 轻客卖到巴西，拿下当地超千份订单",
+     "link": "https://www.ithome.com/1/027/164.htm",
+     "pubDate": "Sat, 14 Nov 2026 08:13:33 GMT",
+     "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Carscoops 报道，大众在巴西推出了全新 Tempest 轻客，实际上就是上汽大通 V90 的换标车型。自 2019 年起，该车还以 Maxus Deliver 9、LDV Deliver 9 等名称在不同市场销售。 Tempest 由上汽集团提供，属于大众卡车与客车部门 3 亿巴西雷亚尔 （IT之家注：现汇率约合 5,400 万美元，3.61 亿元人民币） 投资计划的一部分。双方还计划于 2027 年在南美推出一款电气化 Amarok 皮卡，同样基于上汽集团的平台打造，在阿根廷生产。 外观方面，Tempest 基本沿用原型车",
+     "source": "IT之家",
+     "zh": "大众把换标上汽大通 V90 轻客卖到巴西，拿下当地超千份订单"
     },
     {
      "title": "从大厂转型看技术平权与新社会契约",
@@ -1784,54 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 科创板日报 ，作者：郑远方 英伟达的黄仁勋时代正式落幕。 当地时间11月12日，黄仁勋宣布辞去公司总裁、CEO及董事职务。现任CFO Colette Kress暂代CEO，英伟达董事会同时启动新任CEO遴选。 执掌英伟达超过30年，黄仁勋一手将英伟达带到了全球AI产业的核心位置。如今，随着这位创始人突然离场，市场开始重新审视英伟达过去高度依赖个人推动的经营模式：没有黄仁勋，英伟达还能否保持原有的技术决策速度？那些由他推动的巨额投资和融资支持，是否会随着管理层更替而收缩？供应链会否和过去一样，围绕英伟达的技术路线和产能需求提前布局？ 英伟达乃至整个AI产业，可能都需要重新适",
      "source": "虎嗅",
      "zh": "黄仁勋时代落幕，英伟达面临三重考验"
-    },
-    {
-     "title": "日本大阪市行政系统用户约 108 万条邮箱地址外泄，市长道歉",
-     "link": "https://www.ithome.com/1/027/162.htm",
-     "pubDate": "Sat, 14 Nov 2026 07:54:42 GMT",
-     "summary": "IT之家 11 月 14 日消息，据共同社报道，日本大阪市 13 日就该市在线行政系统的邮件发送服务表示， 该服务用户的约 108 万条邮箱地址遭泄露 。提供服务的 arara 公司遭遇了非法访问。据悉，未确认到姓名和个人编号信息外泄。 大阪市称，2 日接到了委托 arara 发送邮件的在线行政系统运营商报告称可能发生了信息泄露。经调查发现， 7 至 10 月期间由系统发送邮件的收件人邮箱地址已外泄 。 IT之家获悉，大阪市 13 日还表示，获得“优惠商品券”业务订单的企业也使用 arara 服务，受到了非法访问的影响。据悉，邮件发送服务用户的约 3.4 万条邮箱地址、参与商户的约 1.5 万",
-     "source": "IT之家",
-     "zh": "日本大阪市行政系统用户约 108 万条邮箱地址外泄，市长道歉"
-    },
-    {
-     "title": "极狐贝塔 T1 换电版上市：电池月租 399 元起，终端零售价 5.2 万元起",
-     "link": "https://www.ithome.com/1/027/161.htm",
-     "pubDate": "Sat, 14 Nov 2026 07:51:50 GMT",
-     "summary": "IT之家 11 月 14 日消息，11 月 13 日，极狐贝塔 T1 换电版在国内上市，终端零售价 5.20 万元起（电池租用）。其中，530 Pro 换电版价格 5.20 万元，530 MAX 换电版为 6.00 万元。 IT之家从官方公布信息获悉，该车搭载宁德时代 54 度巧克力换电电池， CLTC 续航 530km ，支持 99 秒极速换电。此次电池租用提供两档方案：月租 399 元、月里程额度 5000 公里；月租 599 元、不限月里程额度。 动力与尺寸方面，该车采用前驱布局与永磁同步电机，最大功率 95kW，长宽高为 4375×1860×1572mm， 轴距 2770mm ，并配备",
-     "source": "IT之家",
-     "zh": "极狐贝塔 T1 换电版上市：电池月租 399 元起，终端零售价 5.2 万元起"
-    },
-    {
-     "title": "299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右",
-     "link": "https://www.ithome.com/1/027/159.htm",
-     "pubDate": "Sat, 14 Nov 2026 07:46:58 GMT",
-     "summary": "IT之家 11 月 14 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（11 月 14 日）在 X 平台发布推文，回应科技博主 @MKBHD 关于“Cybercab 每月 299 美元 （IT之家注：现汇率约合 1,999 元人民币） 的订阅费用过高”情况， 认为合理价格应该在 115 美元 （现汇率约合 768.8 元人民币） 左右。 IT之家今天报道，特斯拉开始向部分个人用户开放 Cybercab 购买渠道，起售价为 29,990 美元 （现汇率约合 20 万元人民币） ，首批车辆预计于 12 月交付。按照现有购买安排，符合资格的用户需支付 1,000 美元 （现汇率约合 6",
-     "source": "IT之家",
-     "zh": "299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右"
-    },
-    {
-     "title": "谷歌推送 Android Auto 18.2 测试版，代码显示官方正持续开发浅色模式菜单界面",
-     "link": "https://www.ithome.com/1/027/158.htm",
-     "pubDate": "Sat, 14 Nov 2026 07:44:43 GMT",
-     "summary": "IT之家 11 月 14 日消息，外媒 9to5Google 在拆解谷歌 Android Auto 18.2 测试版时发现，谷歌仍在继续开发 Android Auto 的浅色模式菜单界面。 具体来看，官方在本次更新中悄悄调整了超过 100 项界面资源文件，主要涉及按钮等用户界面元素。 res/drawable/ic_mr_button_connected_14_dark.xml res/drawable/ic_mr_button_connected_15_dark.xml 外媒表示，谷歌最近的每次更新都在不断完善浅色模式功能，至于相应功能确切上线时间，目前还不得而知。 值得一提的是，过去几个月",
-     "source": "IT之家",
-     "zh": "谷歌推送 Android Auto 18.2 测试版，代码显示官方正持续开发浅色模式菜单界面"
-    },
-    {
-     "title": "国内首获：一汽解放 CA6DV1 发动机成功通过欧六 e+ 法规认证",
-     "link": "https://www.ithome.com/1/027/157.htm",
-     "pubDate": "Sat, 14 Nov 2026 07:44:22 GMT",
-     "summary": "IT之家 11 月 14 日消息，一汽解放今日宣布，近日，一汽解放自主正向研发的 CA6DV1-E66C 重型柴油发动机顺利完成全部试验，成功通过欧盟欧六 e+ 排放法规全套认证， 成为国内首个取得该严苛法规认证的重型柴油机机型 ，实现国产重型动力在高端海外排放准入领域的重大突破。 官方表示，这一里程碑成果， 标志着中国自主重型柴油机排放控制技术正式比肩全球顶尖水平 ，打破海外高端动力在欧洲市场的技术壁垒。 据介绍，欧六 e+ 排放法规是当前欧盟重型柴油机领域技术门槛极高的排放法规，对整车道路实际排放、后处理耐久、车载诊断系统及能耗监测等多维度设置严苛考核指标，试验链条长、验证标准严，是进入欧",
-     "source": "IT之家",
-     "zh": "国内首获：一汽解放 CA6DV1 发动机成功通过欧六 e+ 法规认证"
-    },
-    {
-     "title": "微软确认消费者产品服务已恢复，企业服务仍在监控",
-     "link": "https://www.ithome.com/1/027/156.htm",
-     "pubDate": "Sat, 14 Nov 2026 07:38:30 GMT",
-     "summary": "IT之家 11 月 14 日消息，微软今天（14 日）通报称，截至协调世界时 13 日 16 时 10 分（IT之家注：北京时间 11 月 14 日 0 时 10 分），面向 个人用户的产品和服务已全面恢复 ，Microsoft 365 企业服务也出现了持续恢复的迹象。 对于企业服务故障，微软仍在监测此次事件期间积压的邮件，尚未确认问题完全解决。 微软在服务状态页面的更新中指出：“考虑到此次事件造成的严重影响， 我们将延长监测时间 ，确保不需要采取进一步的补救措施。” 相关阅读： 《 堪比蓝屏“灭霸”事件：微软 2026 最严重宕机重创全球金融业，交易员被迫改用传真 》 《 Outlook 等",
-     "source": "IT之家",
-     "zh": "微软确认消费者产品服务已恢复，企业服务仍在监控"
     },
     {
      "title": "Sources: despite Nvidia&apos;s 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing&apos;s chip self-sufficiency campaign (Eleanor Olcott/Financial Times)",
@@ -1977,6 +1977,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung Galaxy A18 4G launched in Singapore, but with a different chip",
+     "link": "https://www.gsmarena.com/samsung_galaxy_a18_4g_singapore_price_sale_date-news-75483.php",
+     "pubDate": "Sat, 14 Nov 2026 09:31:02 +0100",
+     "summary": "The Samsung Galaxy A18 4G, unveiled in Europe in September, has debuted in Singapore, but with a different chip under the hood. The Galaxy A18 4G available in Europe is powered by Samsung's Exynos 1610 SoC, while the Singapore model uses MediaTek's Helio G99+ SoC. Aside from having different chips, ",
+     "source": "GSMArena",
+     "zh": "Samsung Galaxy A18 4G launched in Singapore, but with a different chip"
+    },
     {
      "title": "FAA allows flights to resume after hours-long ground stop across the US",
      "link": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
@@ -2208,14 +2216,6 @@ window.INDUSTRY_DATA = {
      "summary": "The House of Representatives, health care providers, schools and many other organizations were affected.",
      "source": "Engadget",
      "zh": "Microsoft services are returning after an outage took down Outlook, Teams and more"
-    },
-    {
-     "title": "Xiaomi 18 Pro gets one step closer to launching in India",
-     "link": "https://www.gsmarena.com/xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472.php",
-     "pubDate": "Fri, 13 Nov 2026 15:51:02 +0100",
-     "summary": "Xiaomi launched the 18 Pro and 18 Pro Max in China back in late September, and the duo is going global on November 17. Now the Xiaomi 18 Pro has taken an important step in its journey towards launching in India as well. The handset's Indian variant, with the model number 2609BPN61I, has been certifi",
-     "source": "GSMArena",
-     "zh": "Xiaomi 18 Pro gets one step closer to launching in India"
     }
    ]
   },
@@ -2225,6 +2225,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "“坏事全部撞在一起\"，美股却逆势反弹：华尔街上演“无票可卖”式逼空！",
+     "link": "https://wallstreetcn.com/articles/3785940",
+     "pubDate": "Sat, 14 Nov 2026 16:34:01 +0800",
+     "summary": "一周之内，英伟达创始人丑闻缠身后黯然离任，美国CPI连续第三个月超预期，PPI攀升至四年新高，美联储官员放风12月加息50个基点——所有利空同时引爆，美股却逆势收涨，标普500周涨2%，费城半导体指数创4月以来最佳单周表现。 答案只有一个： 空头已无牌可打。 这是一场典型的\"无票可卖\"式逼空。高盛Prime数据显示，对冲基金在中期选举当周大幅削减杠杆，净多头仓位降至五年最低。进入本周，空头已基本出清，坏消息砸下来，市场找不到足够的卖盘承接压力，股市非但没有崩塌，反而借助轧空一路拉升。与此同时，债市独自扛下了所有的宏观冲击——2年期美债收益率单周飙升35个基点，创2024年10月以来最大周度涨幅",
+     "source": "华尔街见闻",
+     "zh": "“坏事全部撞在一起\"，美股却逆势反弹：华尔街上演“无票可卖”式逼空！"
+    },
     {
      "title": "Merlin Properties signals 2026 FFO guidance of €0.58 as it reshapes 704 MW data center plan amid Spain’s Royal Decree",
      "link": "https://seekingalpha.com/news/4672758-merlin-properties-signals-2026-ffo-guidance-of-0_58-as-it-reshapes-704-mw-data-center-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2240,54 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
      "source": "CNBC",
      "zh": "Microsoft apologizes for massive outage that took down Outlook and other 365 services"
-    },
-    {
-     "title": "中国商飞：自主研制电动商用飞机完成首次有人驾驶智能飞行",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931341476.html",
-     "pubDate": "Sat, 14 Nov 2026 15:57:00 +0800",
-     "summary": "11月14日，中国商飞方面披露，自主研制的10吨级电动商用飞机CE-25A在山东滨州完成首次有人驾驶智能飞行，各项指标符合预期。这是继CE-25A今年2月2日无人驾驶智能首飞之后，该机研制的又一里程碑。 CE-25A是中国商飞公司研制的第一款电动商用飞机，主要用于城市间商业飞行，可搭载19名乘客，最大起飞重量10吨，巡航速度300公里/小时，巡航高度2400米，航程400公里。 CE-25A由中国商飞联合 宁德时代 、上海交通大学等国内合作伙伴共同研制，已累计开展19次无人自主飞行验证。目前，中国民航局已受理CE-25A型号合格证申请。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "中国商飞：自主研制电动商用飞机完成首次有人驾驶智能飞行"
-    },
-    {
-     "title": "《“十五五”新型储能实施方案》发布 支持氢储能等前沿技术储备",
-     "link": "http://finance.eastmoney.com/news/1355,202611143931340618.html",
-     "pubDate": "Sat, 14 Nov 2026 15:50:02 +0800",
-     "summary": "新华财经北京11月14日电（记者余蕊陆宇航）国家发展改革委、国家能源局近日发布《“十五五”新型储能实施方案》（以下简称“方案”）。方案提出支持 固态电池 、热泵储电、热储能、氢储能等前沿技术储备；针对跨日及更长时间调节需求，探索推动储电、储热、储氢等多类型技术协调发展和优化配置。 据介绍，氢储能是以氢气为能量载体的化学储能。狭义上讲，即在用电低谷期，利用富余的可再生能源 电力 电解水制取氢气，并以高压气态、低温液态、有机液态或固态材料等形式储存下来；在用电高峰期，再将储存的氢通过燃料 电池 或氢气透平装置进行发电，并入公共电网。 业内专家表示，氢既可以作为储能介质，也可以作为能源。储能技术是未",
-     "source": "东方财富股票",
-     "zh": "《“十五五”新型储能实施方案》发布 支持氢储能等前沿技术储备"
-    },
-    {
-     "title": "中信证券：看好中国光通信的长期发展趋势 建议重点关注深度受益于全球AI基建的核心龙头标的",
-     "link": "http://finance.eastmoney.com/news/1378,202611143931341213.html",
-     "pubDate": "Sat, 14 Nov 2026 15:48:00 +0800",
-     "summary": "中信证券 指出，光互联产业的技术升级与需求爆发仍在持续演进，光模块向高速率加速迭代，光网络向NPO/CPO/OCS多维拓展。近期市场对海外地缘政策传闻存在担忧， 中信证券 认为，不宜过度博弈短期的政策情绪，而应回归全球AI算力建设的真实需求。结合产业基本面看，中国光 通信 企业已从光模块、光芯片、底层材料到光纤光缆、无源器件等各个环节构筑起系统性壁垒；在技术迭代、产能规模与成本交付等方面具备突出的 综合 竞争力，短期政策扰动难以撼动中国厂商在全球供应链中的中坚地位。在当前算力持续扩张与供需紧平衡的背景下，中国光 通信 行业的向上成长态势依然强劲。看好中国光 通信 的长期发展趋势，建议重点关注深",
-     "source": "东方财富股票",
-     "zh": "中信证券：看好中国光通信的长期发展趋势 建议重点关注深度受益于全球AI基建的核心龙头标的"
-    },
-    {
-     "title": "A股新经济公司数量、营收、市值占比均超一半",
-     "link": "http://finance.eastmoney.com/news/1346,202611143931339298.html",
-     "pubDate": "Sat, 14 Nov 2026 15:47:33 +0800",
-     "summary": "中国证监会主席吴清在首届中国资本市场学术年会开幕式上表示，目前，A股5500多家上市公司中，新经济领域公司数量、营收、市值在全市场占比均超过一半。 证监会14日披露了相关信息。吴清表示，中国资本市场始终与中国经济改革同频共振，与实体经济发展共生共荣，在探索创新中不断成长壮大，逐步发展成为与中国经济体量大致匹配、具有全球影响力的重要市场。 基础制度架构基本成型。以证券法、公司法、基金法、 期货 和衍生品法等为主体，资本市场法律制度的“四梁八柱”基本建成。新世纪以来大约每10年出台一个“国九条”，推动资本市场制度规则体系整体性、深层次优化。 多层次市场体系日益完善。A股总市值突破100万亿元(人民",
-     "source": "东方财富股票",
-     "zh": "A股新经济公司数量、营收、市值占比均超一半"
-    },
-    {
-     "title": "英伟达回应黄仁勋继任者传闻：尚未“正式接触”，一切为时尚早；安谋CEO雷内·哈斯曾在英伟达工作约7年，受黄仁勋提携，与其保持密切关系",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931340583.html",
-     "pubDate": "Sat, 14 Nov 2026 15:44:00 +0800",
-     "summary": "据英国《金融时报》13日报道， 英伟达 董事会已就CEO继任事宜接触英国芯片设计公司安谋控股（Arm Holdings）首席执行官雷内·哈斯。 英伟达 董事会回应称，尚未“正式接触”任何候选人，并称一切有关候选人的猜测“为时尚早”。 据悉，雷内·哈斯曾在 英伟达 工作约七年，升任计算产品业务副总裁兼总经理，是黄仁勋提携的高管，二人至今仍保持密切关系。2013年，雷内·哈斯加入安谋控股；2022年出任该公司首席执行官，并于次年主导完成公司在 纳斯达克 的上市。 分析师预计，下一任首席执行官将面临向更具机构化管理风格转型的压力，同时英伟达还需应对美国国会寻求进一步管制芯片出口的政策压力。 来源：央",
-     "source": "东方财富股票",
-     "zh": "英伟达回应黄仁勋继任者传闻：尚未“正式接触”，一切为时尚早；安谋CEO雷内·哈斯曾在英伟达工作约7年，受黄仁勋提携，与其保持密切关系"
-    },
-    {
-     "title": "东阳光药1类降糖新药奥洛格列净纳入国家医保目录",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931339049.html",
-     "pubDate": "Sat, 14 Nov 2026 15:42:32 +0800",
-     "summary": "11月14日，国家医保局正式公布2026年国家医保药品目录及商保 创新药 目录。 东阳光药 （06887.HK）自主研发的1类创新降糖药奥洛格列净胶囊（商品名：东泽安&reg;）成功纳入本次医保目录。 奥洛格列净是“十三五”国家科技重大专项支持品种，也是国产拥有完全自主 知识产权 、可适度抑制SGLT-1的SGLT-2抑制剂。 资料显示，与传统SGLT-2抑制剂仅靶向肾脏不同，该产品采用双通道协同作用机制：一方面抑制肾脏SGLT-2，促进尿糖排泄；另一方面适度抑制肠道SGLT-1，减少葡萄糖、半乳糖吸收，同步管控空腹及餐后血糖，更契合国内2型糖尿病患者餐后高血糖突出的临床特点。 适应症方面，奥",
-     "source": "东方财富股票",
-     "zh": "东阳光药1类降糖新药奥洛格列净纳入国家医保目录"
     },
     {
      "title": "盯上马斯克？美民主党人要求保留“星链”限速记录",
@@ -2450,20 +2410,60 @@ window.INDUSTRY_DATA = {
      "zh": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”"
     },
     {
-     "title": "AI短剧制作迁入长三角机房",
-     "link": "http://www.eeo.com.cn/2026/1114/1092774.shtml",
-     "pubDate": "Sat, 14 Nov 2026 11:47:02 +0800",
-     "summary": "经济观察报记者联系多家北方短剧团队获悉，近两个月来，AI短剧行业出现了算力南迁趋势，不少北方团队正把渲染集群迁往长三角。沪苏浙皖四地发展和改革部门近日联合发布的《数字长三角发展报告（2026）》显示，长三角的智能算力规模占全国近三成。这轮全民刷屏的AI短剧热潮里，利润正沿着产业链，从做剧的人手里，传导至供应算力的机房。",
-     "source": "经济观察网",
-     "zh": "AI短剧制作迁入长三角机房"
+     "title": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器",
+     "link": "https://wallstreetcn.com/articles/3785933",
+     "pubDate": "Sat, 14 Nov 2026 11:22:50 +0800",
+     "summary": "SpaceX雄心勃勃的\"双回收\"首秀在第一个环节便遭遇挫折，但飞船任务仍在继续。 美国当地时间11月13日下午， 星舰完成第十五次综合飞行测试发射，然而在级间分离后，V3版本超重型助推器Booster 22未能按计划返回发射场，最终溅落墨西哥湾并发生爆炸，错失由发射塔机械臂捕获的机会。 与此同时，上级飞船Ship 42继续执行轨道任务，部署26颗星链V3卫星，并计划于次日下午尝试返回发射场，由机械臂完成捕获。 星舰超重型助推器溅落发生爆炸，未能按计划完成回收，来源SpaceX 此次任务原本有望创造历史——SpaceX CEO埃隆·马斯克此前将同时回收助推器与飞船称为\"深刻的技术里程碑\"。助推器",
+     "source": "华尔街见闻",
+     "zh": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器"
     },
     {
-     "title": "书店，在创造“相遇”中重光",
-     "link": "http://www.eeo.com.cn/2026/1114/1092781.shtml",
-     "pubDate": "Sat, 14 Nov 2026 11:34:52 +0800",
-     "summary": "卖书最冷的时代，恰恰是读书人与写书人互动最为热切的时代。",
-     "source": "经济观察网",
-     "zh": "书店，在创造“相遇”中重光"
+     "title": "US aviation regulator lifts order that grounded thousands of flights",
+     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+     "pubDate": "Sat, 14 Nov 2026 03:21:57 GMT",
+     "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
+     "source": "Financial Times",
+     "zh": "US aviation regulator lifts order that grounded thousands of flights"
+    },
+    {
+     "title": "传统的圣诞行情，今年的美股还有吗？",
+     "link": "https://wallstreetcn.com/articles/3785929",
+     "pubDate": "Sat, 14 Nov 2026 10:49:13 +0800",
+     "summary": "美股在经历一轮剧烈抛售后，技术面与仓位面同步修复，高盛等华尔街主要机构相继发出年末反弹信号。但这场潜在的\"圣诞行情\"背后，潜伏着一个更难忽视的风险：通胀压力正以超越新冠疫情时期的速度积聚，账单将在明年一月如期呈上。 11月13日，高盛策略师Cosimo Codacci-Pisanelli在最新宏观报告中开门见山地问道：\"圣诞节能提前到来吗？\"他给出的答案是肯定的。 近期股市大幅回调、估值倍数下移、市场仓位大幅减轻，以及季节性因素的支撑，共同构成了年末风险资产向上轧空的条件。 与此同时，摩根士丹利与摩根大通也相继发出类似信号， 前者的数据显示，AI板块正经历15年多来最大规模的集中平仓与降杠杆，",
+     "source": "华尔街见闻",
+     "zh": "传统的圣诞行情，今年的美股还有吗？"
+    },
+    {
+     "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+     "pubDate": "Sat, 14 Nov 2026 02:42:00 GMT",
+     "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
+     "source": "MarketWatch",
+     "zh": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
+    },
+    {
+     "title": "14 dividend stocks selected for long-term growth",
+     "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+     "pubDate": "Sat, 14 Nov 2026 01:58:00 GMT",
+     "summary": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
+     "source": "MarketWatch",
+     "zh": "14 dividend stocks selected for long-term growth"
+    },
+    {
+     "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+     "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+     "pubDate": "Sat, 14 Nov 2026 01:34:11 GMT",
+     "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+     "source": "CNBC",
+     "zh": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials"
+    },
+    {
+     "title": "SpaceX launches Starship in key test flight of massive rocket",
+     "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+     "pubDate": "Sat, 14 Nov 2026 01:18:51 GMT",
+     "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+     "source": "CNBC",
+     "zh": "SpaceX launches Starship in key test flight of massive rocket"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 07:55:06",
+ "generated_at": "2026/11/14 08:12:03",
  "recent_days": 7,
  "industries": [
   {
@@ -449,14 +449,6 @@
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -657,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Tesla Opens Cybercab Orders To 'Select Customers' At $29,990 Plus $299 Per Month",
+     "link": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
+     "pubDate": "Sat, 14 Nov 2026 00:06:29 +0000",
+     "summary": "Tesla says customer Cybercab deliveries for personal use will start as soon as next month.",
+     "source": "InsideEVs",
+     "zh": "Tesla Opens Cybercab Orders To 'Select Customers' At $29,990 Plus $299 Per Month"
+    },
+    {
      "title": "Volkswagen may have just hinted at the name of its next affordable EV",
      "link": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/",
      "pubDate": "Fri, 13 Nov 2026 22:14:38 +0000",
@@ -807,14 +807,6 @@
      "summary": "Xpeng plans to introduce 5 new right-hand-drive models in the UK over the next 12 months and bring its VLA 2.0-powered NGP system to the market in 2027. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Xpeng launches Mona L03 and G9L in UK, plans about 100 retail and service locations in 2027"
-    },
-    {
-     "title": "Slate Is Selling A $30 'Screenless GPS' For Its Low-Tech Truck",
-     "link": "https://insideevs.com/news/815316/slate-truck-gps-screenless-just-map/",
-     "pubDate": "Thu, 12 Nov 2026 22:00:44 +0000",
-     "summary": "You can use your phone to navigate places in the screen-free Slate Truck. Or you can buy this Slate-branded map.",
-     "source": "InsideEVs",
-     "zh": "Slate Is Selling A $30 'Screenless GPS' For Its Low-Tech Truck"
     },
     {
      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
@@ -1441,6 +1433,14 @@
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "After 14 full-stack flights, SpaceX was attempting something no one in spaceflight history has done:… The post Starship Flight 15: Ship 42 orbital, Booster diverts to ocean appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1481,6 +1481,14 @@
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1513,12 +1521,20 @@
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
     },
     {
-     "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
-     "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
-     "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
-     "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
-     "source": "Spaceflight Now",
-     "zh": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
+    },
+    {
+     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
+     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     }
    ]
   },
@@ -1745,6 +1761,54 @@
    "total": 18,
    "items": [
     {
+     "title": "拳头公布 2027《英雄联盟》赛事规划：先锋赛落地中国，全球总决赛首进日本（横跨日韩两地）",
+     "link": "https://www.ithome.com/1/027/015.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:58:58 GMT",
+     "summary": "IT之家 11 月 14 日消息，拳头游戏在 2026 全球总决赛期间公布了 2027 年英雄联盟赛事的整体规划。 三项国际赛事将分别落地中国、西班牙和日本、韩国，其中全球总决赛将首次走进日本，季中冠军赛则首次来到西班牙。 2027 赛季的揭幕战将是特别版全球先锋赛“First Stand: All In”，举办地为中国。这一赛事仅限 2027 年举办，拳头游戏称其规模将超过以往任何一届全球先锋赛。原定于东南亚举办的 2027 年全球先锋赛因此调整至中国，东南亚则顺延至 2028 年承办常规赛制的全球先锋赛。 全球先锋赛（IT之家注：First Stand，是拳头游戏于 2025 年新增的国际",
+     "source": "IT之家",
+     "zh": "拳头公布 2027《英雄联盟》赛事规划：先锋赛落地中国，全球总决赛首进日本（横跨日韩两地）"
+    },
+    {
+     "title": "英特尔酷睿 Ultra 7 260K 低调上市：20 核处理器性能比肩 265K，但仅随整机销售",
+     "link": "https://www.ithome.com/1/027/014.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:55:06 GMT",
+     "summary": "IT之家 11 月 14 日消息，Tom's Hardware 发现英特尔近日悄悄推出了一款酷睿 Ultra 7 260K 处理器，搭载该 CPU 的整机已经出现在新蛋网（Newegg）中。 这款处理器拥有 20 颗物理核心，但目前不提供独立零售，仅面向 ABS 品牌整机销售。新蛋网向该媒体确认，这款处理器为平台独占型号，只会通过旗下 ABS 品牌预装整机销售。 Tom's Hardware 后续更新称，英特尔已向该媒体确认，这是一款限量供应（limited-availability）的 SKU 型号，目前不会以盒装零售处理器的形式单独销售，相关规格预计将在随后几天公布。 从目前已公开的信息来",
+     "source": "IT之家",
+     "zh": "英特尔酷睿 Ultra 7 260K 低调上市：20 核处理器性能比肩 265K，但仅随整机销售"
+    },
+    {
+     "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)",
+     "link": "https://www.techmeme.com/261113/p35#a261113p35",
+     "pubDate": "Fri, 13 Nov 2026 18:55:00 -0500",
+     "summary": "CBS News : Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash &nbsp; &mdash;&nbsp; Kierra Frazier is a news editor for CBS News & Stations.&nbsp; &mdash;&nbsp; Faris Tanyos is a news editor for CBS",
+     "source": "Techmeme",
+     "zh": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)"
+    },
+    {
+     "title": "目标替代微软 Office：欧洲开源办公软件 Euro-Office 桌面版上线，断网也能办公",
+     "link": "https://www.ithome.com/1/027/013.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:51:46 GMT",
+     "summary": "IT之家 11 月 14 日消息，欧洲开源办公软件 Euro-Office 正式走出浏览器，以 Nextcloud Office Desktop 的名称， 推出可直接安装的桌面版本，覆盖 Windows、macOS 和 Linux 平台，希望成为微软 Office 的替代选择。 新版应用集成文档、电子表格、演示文稿及 PDF 编辑功能。官方称，其对微软 Office 的 DOCX、XLSX、PPTX 格式以及 ODT、ODS、ODP 等开放格式具有较高兼容性。用户无需联网即可编辑本地文件，并自行决定哪些资料保留在电脑上、哪些放入云端。IT之家附上相关图片如下： 需要团队协作时，用户可连接 Ne",
+     "source": "IT之家",
+     "zh": "目标替代微软 Office：欧洲开源办公软件 Euro-Office 桌面版上线，断网也能办公"
+    },
+    {
+     "title": "高速上开智驾睡觉还载着一家人？青岛交警查处最新违法案例公布",
+     "link": "https://www.ithome.com/1/027/012.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:48:19 GMT",
+     "summary": "IT之家 11 月 14 日消息，据公安部交通管理局今日披露的最新案例，2026 年 11 月 7 日，山东青岛一名驾驶人因在高速公路上使用智能辅助驾驶功能时躺倒睡觉，被高速交警查处。 据介绍，当天高速交警接到群众举报，称一辆红色 SUV 在高速公路行驶过程中，驾驶人竟然躺着睡觉，疑似依靠车辆的智能辅助驾驶功能控制车辆。 经交警调查，该驾驶人当天载着一家四口出行。由于认为高速公路路况平稳、车流量不大，他开启车辆的智能辅助驾驶功能后，便将座椅放倒，闭目休息， 自认为这样不会影响行车安全 。 进一步检查发现， 车内副驾驶位置上的乘员未满 12 周岁 。此外，该驾驶人此前还曾多次在开启智能辅助驾驶功",
+     "source": "IT之家",
+     "zh": "高速上开智驾睡觉还载着一家人？青岛交警查处最新违法案例公布"
+    },
+    {
+     "title": "工信部：将筹备成立工业操作系统标准工作组",
+     "link": "https://www.ithome.com/1/027/011.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:47:57 GMT",
+     "summary": "IT之家 11 月 14 日消息，据央视新闻今日报道，记者从工业和信息化部了解到，工业软件标准化技术委员会正 加快推进工业操作系统标准工作组筹建 ，同步推进重点标准研制与验证应用，为工业操作系统规模化应用提供支撑。 据悉，工业操作系统是联接装备、贯通数据、融合智能的关键底座，是人工智能赋能工业的“关键一环”。中国电子信息产业发展研究院发布的《工业操作系统技术产业探索与实践报告（2026）》显示，工业操作系统加快向工业级、专业化、一体化和智能化演进， 正在从单点应用探索向体系化产品供给转变 。 中国软件评测中心副主任翟艳芬介绍，工业操作系统正在从围绕单个项目开展建设转向通用底座和行业能力协同发展",
+     "source": "IT之家",
+     "zh": "工信部：将筹备成立工业操作系统标准工作组"
+    },
+    {
      "title": "SpaceX 洽购发射场周边约 526.19 万平方米土地，拟将一半永久用于保护",
      "link": "https://www.ithome.com/1/027/010.htm",
      "pubDate": "Fri, 13 Nov 2026 23:39:33 GMT",
@@ -1753,52 +1817,12 @@
      "zh": "SpaceX 洽购发射场周边约 526.19 万平方米土地，拟将一半永久用于保护"
     },
     {
-     "title": "马克龙宣布 12 月 2 日在法国巴黎召开科技企业会议，推动欧洲科技自主",
-     "link": "https://www.ithome.com/1/027/009.htm",
-     "pubDate": "Fri, 13 Nov 2026 23:36:30 GMT",
-     "summary": "IT之家 11 月 14 日消息，据央视新闻今日报道，法国总统埃马纽埃尔 · 马克龙宣布将于 12 月 2 日与荷兰首相罗布 · 耶滕（Rob Jetten）共同在巴黎召集科技企业负责人举行会议，推动欧洲政府与科技行业加强合作，提升欧洲科技自主能力。 据英国《卫报》报道，马克龙是在爱尔兰首都都柏林出席欧盟领导人非正式会议后作出上述表态的。他还在 X 上发文并强调“我们的独立自主不能外包，必须在欧洲本土建立起来”。 此次欧盟领导人非正式会议的重要议题之一是人工智能。欧盟领导人与法国人工智能企业 Mistral AI 首席执行官阿瑟 · 门施（Arthur Mensch）等人士讨论了欧洲人工智能产",
-     "source": "IT之家",
-     "zh": "马克龙宣布 12 月 2 日在法国巴黎召开科技企业会议，推动欧洲科技自主"
-    },
-    {
-     "title": "流程工业智能工厂建设有了统一标尺，新国标明年 5 月 1 日起实施",
-     "link": "https://www.ithome.com/1/027/008.htm",
-     "pubDate": "Fri, 13 Nov 2026 23:35:26 GMT",
-     "summary": "IT之家 11 月 14 日消息，近日，市场监管总局（国家标准委）批准发布《智能制 造 流 程工业智能工厂业务管理规范》（GB/T 48536—2026）国家标准，自 2027 年 5 月 1 日起正式实施。 公告称，流程工业是支撑国民经济发展的基础性产业，涵盖 石油化工、钢铁、制药、建材、有色金属、食品加工 等领域，具备生产连续化、工艺耦合度高、安全风险较高等特点。当前，流程工业企业在智能工厂建设中仍面临管理框架不统一、系统间协同不足、数据难以共享、技术应用与管理需求衔接不充分等问题。该标准立足流程工业特点，对智能工厂主要业务活动提出系统性要求。 构建统一框架，让智能工厂建设“有章可循”。 ",
-     "source": "IT之家",
-     "zh": "流程工业智能工厂建设有了统一标尺，新国标明年 5 月 1 日起实施"
-    },
-    {
      "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
      "link": "https://www.techmeme.com/261113/p34#a261113p34",
      "pubDate": "Fri, 13 Nov 2026 18:35:00 -0500",
      "summary": "Asi / @airspaceintel : ASI, developer of AI tool SMART, says the FAA outage &ldquo;is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC&rdquo; &nbsp; &mdash;&nbsp; The current ground stop is not based on or a result of the SMART system, any product",
      "source": "Techmeme",
      "zh": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)"
-    },
-    {
-     "title": "微软面向 Win10 发布紧急带外更新，专项修复系统激活时“参数无效”报错",
-     "link": "https://www.ithome.com/1/027/007.htm",
-     "pubDate": "Fri, 13 Nov 2026 23:27:42 GMT",
-     "summary": "IT之家 11 月 14 日消息，微软昨日（11 月 13 日）发布公告，面向 Windows 10 22H2 和 21H2 系统，推送 KB5136493 非安全紧急带外（non-security out-of-band）更新， 重点修复部分系统许可与激活操作失败的问题。 适用版本方面，IT之家援引博文介绍，本次更新适用于以下版本： Windows 10 Enterprise LTSC 2021（安装后版本号升至 19044.7850） Windows 10 IoT Enterprise LTSC 2021（安装后版本号升至 19044.7850） 处于扩展服务支持（ESU）状态下的 Win",
-     "source": "IT之家",
-     "zh": "微软面向 Win10 发布紧急带外更新，专项修复系统激活时“参数无效”报错"
-    },
-    {
-     "title": "Epic 指责苹果以 27% 佣金规避法院禁令：增聘最高法院资深律师，双方诉讼将于明年 1 月继续",
-     "link": "https://www.ithome.com/1/027/006.htm",
-     "pubDate": "Fri, 13 Nov 2026 23:21:47 GMT",
-     "summary": "IT之家 11 月 14 日消息，苹果与 Epic Games 围绕 App Store 应用商店政策展开的法律争端再有进展。 当地时间 11 月 13 日，Epic Games 向美国最高法院提交最新法律文件，要求驳回苹果此前提出的上诉，维持下级法院对苹果作出的藐视法庭裁定。 据路透社今日报道，Epic 此次还扩大了法律团队，聘请来自美国律师事务所 Mayer Brown 的资深律师妮可 · 萨哈尔斯基（Nicole Saharsky），协助应对即将到来的最高法院诉讼。 萨哈尔斯基曾在美国最高法院参与辩论 32 起案件，目前将与 Epic 长期合作的 Cravath, Swaine &amp",
-     "source": "IT之家",
-     "zh": "Epic 指责苹果以 27% 佣金规避法院禁令：增聘最高法院资深律师，双方诉讼将于明年 1 月继续"
-    },
-    {
-     "title": "微软就全球服务中断致歉：底层问题已解决，与网络攻击无关",
-     "link": "https://www.ithome.com/1/027/005.htm",
-     "pubDate": "Fri, 13 Nov 2026 23:21:39 GMT",
-     "summary": "IT之家 11 月 14 日消息，微软北京时间今日凌晨在 X 上发布声明，就此次全球性服务中断向客户和合作伙伴致歉，称故障由一次网络容量升级引发，与网络攻击及人工智能 / 智能体无关。 官方称，对本次事件给客户和合作伙伴造成的服务中断“深表歉意”。微软表示，公司清楚客户对其服务寄予的信任，并高度重视这一责任；目前各项服务已出现大范围恢复，并趋于稳定。 官方介绍称，此次事件由一次更早的网络容量升级中的问题引入，在近期一次网络变更后暴露。微软强调，这属于技术故障， 与网络攻击或人工智能 / 智能体无关 。 微软表示，底层问题已经解决，公司仍在为剩余受影响的客户和地区恢复服务。官方称，鉴于需求规模，",
-     "source": "IT之家",
-     "zh": "微软就全球服务中断致歉：底层问题已解决，与网络攻击无关"
     },
     {
      "title": "FAA orders third nationwide ground stop in its history",
@@ -1815,14 +1839,6 @@
      "summary": "本文来自微信公众号： 中外管理传媒 ，作者：大国奇谈 腾讯内部用陆军海军比喻资源配置，传到外界却演化成裁员比例，真正令人不安的不是谣言编得巧，而是过去组织调整反复落地，让员工对“变革”早有心理剧本，传播只是替这种集体焦虑提前开口。 11月11日傍晚，腾讯28周年的内部直播里，管理层用了一个比方。第二天中午，这个比方变成了一个数字：五万多人要走！ 原话是这样的：为了应对AI时代的变革，内部需要主动思考新打法和新战场，50%的人像陆军，守土有责，通过提效做好现有的核心业务；另50%的人像海军，拥抱浪潮，探索AI原生，拓展新的发展空间。 陆军、海军。一个讲守，一个讲攻。说的人显然是想把一件抽象的事讲",
      "source": "虎嗅",
      "zh": "腾讯“裁员50%”刷屏背后，其实是时代的悲哀"
-    },
-    {
-     "title": "Terminal borders that don't cost a cell",
-     "link": "https://www.joshka.net/cell-borders/",
-     "pubDate": "Fri, 13 Nov 2026 23:06:40 +0000",
-     "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 21 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Terminal borders that don't cost a cell"
     },
     {
      "title": "一小时10元，她把自己卖给机器人",
@@ -1844,7 +1860,7 @@
      "title": "US National Weather Service reports nationwide internet, communications issues",
      "link": "https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/",
      "pubDate": "Fri, 13 Nov 2026 22:46:53 +0000",
-     "summary": "Article URL: https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/ Comments URL: https://news.ycombinator.com/item?id=50491209 Points: 16 # Comments: 5",
+     "summary": "Article URL: https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/ Comments URL: https://news.ycombinator.com/item?id=50491209 Points: 23 # Comments: 8",
      "source": "Hacker News",
      "zh": "US National Weather Service reports nationwide internet, communications issues"
     },
@@ -1852,7 +1868,7 @@
      "title": "Claude Meetings",
      "link": "https://claude.com/resources/articles/claude-meetings",
      "pubDate": "Fri, 13 Nov 2026 22:39:15 +0000",
-     "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 55 # Comments: 47",
+     "summary": "Article URL: https://claude.com/resources/articles/claude-meetings Comments URL: https://news.ycombinator.com/item?id=50491097 Points: 59 # Comments: 53",
      "source": "Hacker News",
      "zh": "Claude Meetings"
     },
@@ -1884,7 +1900,7 @@
      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
      "link": "https://orcasairband.com/",
      "pubDate": "Fri, 13 Nov 2026 22:04:24 +0000",
-     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 96 # Comments: 27",
+     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 117 # Comments: 31",
      "source": "Hacker News",
      "zh": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped"
     },
@@ -1932,7 +1948,7 @@
      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
      "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
      "pubDate": "Fri, 13 Nov 2026 21:08:49 +0000",
-     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 98 # Comments: 28",
+     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 102 # Comments: 28",
      "source": "Hacker News",
      "zh": "FAA issues nationwide ground stop due to \"extraordinary circumstances\""
     },
@@ -1940,17 +1956,17 @@
      "title": "All US airports are currently ground stopped",
      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
      "pubDate": "Fri, 13 Nov 2026 21:06:52 +0000",
-     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 128 # Comments: 27",
+     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 135 # Comments: 29",
      "source": "Hacker News",
      "zh": "All US airports are currently ground stopped"
     },
     {
-     "title": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump&apos;s name to get license approvals expedited (Semafor)",
-     "link": "https://www.techmeme.com/261113/p29#a261113p29",
-     "pubDate": "Fri, 13 Nov 2026 16:01:40 -0500",
-     "summary": "Semafor : How Nvidia used a &ldquo;scorched earth, adversarial attitude&rdquo; targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited &nbsp; &mdash;&nbsp; THE SCOOP&nbsp; &mdash;&nbsp; In January, the general counsel for what was then the world's most",
-     "source": "Techmeme",
-     "zh": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump&apos;s name to get license approvals expedited (Semafor)"
+     "title": "FAA issues national ground stop",
+     "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+     "pubDate": "Fri, 13 Nov 2026 21:05:53 +0000",
+     "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1101 # Comments: 669",
+     "source": "Hacker News",
+     "zh": "FAA issues national ground stop"
     },
     {
      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
@@ -2241,6 +2257,38 @@
    "total": 13,
    "items": [
     {
+     "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
+     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+     "pubDate": "Fri, 13 Nov 2026 23:56:10 GMT",
+     "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
+     "source": "CNBC",
+     "zh": "FAA grounds departing flights nationwide, citing air traffic communication system outage"
+    },
+    {
+     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+     "pubDate": "Fri, 13 Nov 2026 23:54:36 GMT",
+     "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+     "source": "CNBC",
+     "zh": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning"
+    },
+    {
+     "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+     "pubDate": "Fri, 13 Nov 2026 23:54:00 GMT",
+     "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack.",
+     "source": "MarketWatch",
+     "zh": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far"
+    },
+    {
+     "title": "OptimumBank outlines $48M-$50M annual pretax pre-provision run rate as it targets 2027 HUD license",
+     "link": "https://seekingalpha.com/news/4672725-optimumbank-outlines-48m-50m-annual-pretax-pre-provision-run-rate-as-it-targets-2027-hud?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 18:49:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "OptimumBank outlines $48M-$50M annual pretax pre-provision run rate as it targets 2027 HUD license"
+    },
+    {
      "title": "英伟达创18个月最差单周表现，黄仁勋离职引发市场重估",
      "link": "https://wallstreetcn.com/articles/3785919",
      "pubDate": "Sat, 14 Nov 2026 07:44:21 +0800",
@@ -2255,22 +2303,6 @@
      "summary": "Anthropic正寻求打破SpaceX创下的史上最大IPO纪录，但在定价策略上，这家Claude开发商选择了一条截然不同的路径——将更多主动权交给机构投资者，而非单方面设定价格。 华尔街见闻提及，Anthropic正以每股70至78美元的区间价格向投资者询价，目标完全稀释估值约为1.4万亿美元，计划通过IPO募资最多644亿美元，另通过私募融资260亿美元。 据彭博社报道，这与SpaceX在营销阶段直接设定每股135美元固定价格的\"要么接受、要么放弃\"模式形成鲜明对比 。与此同时，当前人工智能板块交易环境趋于复杂，此前市场流传的Anthropic 2万亿美元估值预期已悄然消退。 报道指出，相",
      "source": "华尔街见闻",
      "zh": "同样是科技巨头IPO，Anthropic为何比SpaceX上市定价更保守"
-    },
-    {
-     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-     "pubDate": "Fri, 13 Nov 2026 23:43:35 GMT",
-     "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
-     "source": "CNBC",
-     "zh": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning"
-    },
-    {
-     "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
-     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-     "pubDate": "Fri, 13 Nov 2026 23:28:31 GMT",
-     "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
-     "source": "CNBC",
-     "zh": "FAA grounds departing flights nationwide, citing air traffic communication system outage"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月14日",
@@ -2409,28 +2441,12 @@
      "zh": "4 expert tips for signing up for Medicare"
     },
     {
-     "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
-     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 22:44:00 GMT",
-     "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack.",
-     "source": "MarketWatch",
-     "zh": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far"
-    },
-    {
      "title": "Core Critical Metals launches $500K flow-through private placement",
      "link": "https://seekingalpha.com/news/4672720-core-critical-metals-launches-500k-flow-through-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 13 Nov 2026 17:38:06 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Core Critical Metals launches $500K flow-through private placement"
-    },
-    {
-     "title": "Grupo Supervielle Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4672507-grupo-supervielle-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 17:35:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Grupo Supervielle Q3 2026 Earnings Preview"
     },
     {
      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",

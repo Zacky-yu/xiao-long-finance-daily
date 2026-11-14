@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 11:31:55",
+ "generated_at": "2026/11/14 11:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,54 @@
    "total": 9,
    "items": [
     {
+     "title": "AI server tracker: Aspeed tops NT$2 billion as cable suppliers diverge",
+     "link": "https://www.digitimes.com/news/a20261111VL224/aspeed-bizlink-growth-revenue-sales.html",
+     "pubDate": "Sat, 14 Nov 2026 03:41:29 GMT",
+     "summary": "Aspeed Technology posted its highest monthly revenue in records dating back to January 2019. BizLink's October sales also rose sharply, partly reflecting its first full month of consolidating Interplex Datacom. Four other cable and connector suppliers reported lower revenue than in September, althou",
+     "source": "DIGITIMES",
+     "zh": "AI server tracker: Aspeed tops NT$2 billion as cable suppliers diverge"
+    },
+    {
+     "title": "Huang's resignation unlikely to disrupt Taiwan's AI industry, Acer founder says",
+     "link": "https://www.digitimes.com/news/a20261113PD245/taiwan-nvidia-jensen-huang-ceo-acer.html",
+     "pubDate": "Sat, 14 Nov 2026 03:40:57 GMT",
+     "summary": "Jensen Huang's resignation as Nvidia's CEO is unlikely to disrupt Taiwan's technology industry or the broader development of artificial intelligence, Acer founder Stan Shih said. His comments signal that Taiwan's chip and server capabilities remain important to Nvidia's expansion, while highlighting",
+     "source": "DIGITIMES",
+     "zh": "Huang's resignation unlikely to disrupt Taiwan's AI industry, Acer founder says"
+    },
+    {
+     "title": "Jensen Huang&rsquo;s exit threatens to upend Nvidia&rsquo;s global AI funding network",
+     "link": "https://www.digitimes.com/news/a20261113PD239/nvidia-jensen-huang-funding-ceo-investment.html",
+     "pubDate": "Sat, 14 Nov 2026 03:40:39 GMT",
+     "summary": "Nvidia CEO Jensen Huang's forced resignation over a personal controversy, alongside looming regulatory and legal battles, is set to reverberate far beyond GPU orders and product roadmaps. His departure directly threatens the sprawling global AI investment and financing network he personally orchestr",
+     "source": "DIGITIMES",
+     "zh": "Jensen Huang&rsquo;s exit threatens to upend Nvidia&rsquo;s global AI funding network"
+    },
+    {
+     "title": "UK steel city's deep-tech push faces mass-production and talent hurdles",
+     "link": "https://www.digitimes.com/news/a20261113PD232/uk-manufacturing-development-startup-design.html",
+     "pubDate": "Sat, 14 Nov 2026 03:40:14 GMT",
+     "summary": "The United Kingdom's steelmaking hub of Sheffield is transforming from a heavy-industry center into a deep-tech startup cluster, but securing a foothold in the AI, quantum, and photonics wave will require the city to overcome both the mass-production barriers facing high-tech products and a shortage",
+     "source": "DIGITIMES",
+     "zh": "UK steel city's deep-tech push faces mass-production and talent hurdles"
+    },
+    {
+     "title": "AI lifts Foxconn profits as ROE targets 12%",
+     "link": "https://www.digitimes.com/news/a20261113PD207/foxconn-demand-2025-2027-2026.html",
+     "pubDate": "Sat, 14 Nov 2026 03:40:00 GMT",
+     "summary": "Foxconn (Hon Hai) expects continued operational growth in 2027 as AI demand expands, chairman Young Liu said at the company's third-quarter 2026 earnings briefing on November 12. However, he warned that supply-chain constraints and global economic and political uncertainty will continue to affect th",
+     "source": "DIGITIMES",
+     "zh": "AI lifts Foxconn profits as ROE targets 12%"
+    },
+    {
+     "title": "Jensen Huang's Nvidia era may be over. But Taiwan isn't ready to say goodbye.",
+     "link": "https://www.digitimes.com/news/a20261114VL200/nvidia-taiwan-2022-jensen-huang-taipei.html",
+     "pubDate": "Sat, 14 Nov 2026 03:39:48 GMT",
+     "summary": "On a early November evening in 2022, two young women were performing on a street near Taipei Expo Park when a man in a black leather jacket stopped to listen.",
+     "source": "DIGITIMES",
+     "zh": "Jensen Huang's Nvidia era may be over. But Taiwan isn't ready to say goodbye."
+    },
+    {
      "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
      "link": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
      "pubDate": "Fri, 13 Nov 2026 21:53:30 +0000",
@@ -369,60 +417,12 @@
      "zh": "<new>"
     },
     {
-     "title": "Commentary: From industry definer to industry participant? Nvidia's 2035 outlook in post-Jensen Huang Era",
-     "link": "https://www.digitimes.com/news/a20261113VL234/2035-nvidia-jensen-huang-ai-outlook.html",
-     "pubDate": "Fri, 13 Nov 2026 08:35:48 GMT",
-     "summary": "When Jensen Huang's resignation took effect on November 12, most of the market's attention turned to who would be Nvidia's next CEO. However, a better starting point for judging what Nvidia will look like a decade from now is to ask the reverse question: had Huang stayed on, what kind of company wou",
-     "source": "DIGITIMES",
-     "zh": "Commentary: From industry definer to industry participant? Nvidia's 2035 outlook in post-Jensen Huang Era"
-    },
-    {
-     "title": "DEEPX tapes out AI chip on Samsung's 2nm process",
-     "link": "https://www.digitimes.com/news/a20261113VL232/ai-chip-samsung-2nm-production-processor.html",
-     "pubDate": "Fri, 13 Nov 2026 08:35:00 GMT",
-     "summary": "South Korean AI chip developer DEEPX has completed the tape-out of its next-generation DX-M2 processor using Samsung Electronics' second-generation 2nm process, advancing plans to bring generative AI to robots and industrial equipment while reducing their reliance on cloud computing.",
-     "source": "DIGITIMES",
-     "zh": "DEEPX tapes out AI chip on Samsung's 2nm process"
-    },
-    {
-     "title": "E Ink targets 2027 revenue from PTFE materials for AI data centers",
-     "link": "https://www.digitimes.com/news/a20261113PD230/materials-e-ink-revenue-2027-data-center.html",
-     "pubDate": "Fri, 13 Nov 2026 08:25:00 GMT",
-     "summary": "E Ink Holdings is expanding into materials for AI data centers through a partnership with Taiflex Scientific. The electronic paper maker expects its first revenue from polytetrafluoroethylene (PTFE) materials in 2027, with production ramping up in 2028.",
-     "source": "DIGITIMES",
-     "zh": "E Ink targets 2027 revenue from PTFE materials for AI data centers"
-    },
-    {
-     "title": "Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27",
-     "link": "https://www.digitimes.com/news/a20261113PD208/mars-semiconductor-revenue-growth-2026-ddr.html",
-     "pubDate": "Fri, 13 Nov 2026 08:15:00 GMT",
-     "summary": "Mars Semiconductor's cumulative revenue for the first three quarters of 2026 edged up from the same period in 2025, while quarterly results rose steadily and EPS growth was significant, company Vice President and spokesperson Ho Tsung-ming said at an investor conference this week. Looking ahead to 2",
-     "source": "DIGITIMES",
-     "zh": "Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27"
-    },
-    {
-     "title": "DIGITIMES Chairman urges Taiwan to become sovereign AI partner",
-     "link": "https://www.digitimes.com/news/a20261113PD248/digitimes-colley-hwang-ai-manufacturing-taiwan-2026.html",
-     "pubDate": "Fri, 13 Nov 2026 08:04:53 GMT",
-     "summary": "Digitimes Chairman and CEO Colley Hwang said Taiwan should leverage its strengths in chip manufacturing, advanced packaging, and ICT hardware production to pursue sovereign AI opportunities outside the US and China. Speaking at the 2026 Avnet Ecosystem Technology Forum on November 13, Hwang said AI ",
-     "source": "DIGITIMES",
-     "zh": "DIGITIMES Chairman urges Taiwan to become sovereign AI partner"
-    },
-    {
      "title": "Chip Industry Week In Review",
      "link": "https://semiengineering.com/chip-industry-week-in-review-164/",
      "pubDate": "Fri, 13 Nov 2026 08:01:34 +0000",
      "summary": "300mm SiC breakthrough; Nvidia faces questions about security and oversight; Siemens buys Lauterbach; chiplet standards; new memory bets; imec interposer process flow; TPUs with CPUs; 2D transistors; anti-smuggling tools for chips. The post Chip Industry Week In Review appeared first on Semiconducto",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Samsung weighs separating memory and mobile leadership",
-     "link": "https://www.digitimes.com/news/a20261113VL233/samsung-mobile-development-revenue-business.html",
-     "pubDate": "Fri, 13 Nov 2026 07:55:00 GMT",
-     "summary": "Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics division.",
-     "source": "DIGITIMES",
-     "zh": "Samsung weighs separating memory and mobile leadership"
     },
     {
      "title": "Jensen Resigns Over Second Affair",
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Neura Robotics partners with E.ON to bring humanoid robots to energy infrastructure",
+     "link": "https://roboticsandautomationnews.com/2026/11/14/neura-robotics-partners-with-e-on-to-bring-humanoid-robots-to-energy-infrastructure/107100/",
+     "pubDate": "Sat, 14 Nov 2026 03:48:43 +0000",
+     "summary": "Neura Robotics, E.ON and German energy company enviaM have announced a partnership to develop physical AI applications for electricity networks, with initial real-world trials planned for 2027. The collaboration will focus on using intelligent robots to inspect and monitor energy infrastructure, inc",
+     "source": "Robotics & Automation",
+     "zh": "Neura Robotics partners with E.ON to bring humanoid robots to energy infrastructure"
+    },
+    {
      "title": "Gecko Robotics unveils faster Raptor inspection robot, with ADNOC as first customer",
      "link": "https://roboticsandautomationnews.com/2026/11/14/gecko-robotics-unveils-faster-raptor-inspection-robot-with-adnoc-as-first-customer/107096/",
      "pubDate": "Sat, 14 Nov 2026 03:15:32 +0000",
@@ -543,14 +551,6 @@
      "summary": "NEXCOM and its robotics subsidiary NexCOBOT have showcased their RoboWIZ AI Robotics Platform at Nvidia GTC Berlin, highlighting an open development ecosystem designed to simplify the integration of artificial intelligence, motion control, perception and safety technologies into robotic systems. The",
      "source": "Robotics & Automation",
      "zh": "NEXCOM expands RoboWIZ robotics platform with new technology partners"
-    },
-    {
-     "title": "Why Build a Humanoid Robot From the Sensor Up? The Thinking Behind GENTO’s CoRL 2026 Debut",
-     "link": "https://roboticsandautomationnews.com/2026/11/13/why-build-a-humanoid-robot-from-the-sensor-up-the-thinking-behind-gentos-corl-2026-debut/107075/",
-     "pubDate": "Fri, 13 Nov 2026 22:18:16 +0000",
-     "summary": "At CoRL 2026 in Austin, GENTO showed humanoid robots and a new dexterous hand that sit on top of a stack Tianji Intelligence has been building since 2015, starting with a single component most people never see. Most conversations about humanoid robots start with the AI model. Far fewer start with th",
-     "source": "Robotics & Automation",
-     "zh": "Why Build a Humanoid Robot From the Sensor Up? The Thinking Behind GENTO’s CoRL 2026 Debut"
     },
     {
      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
@@ -1761,6 +1761,54 @@
    "total": 18,
    "items": [
     {
+     "title": "东南亚买量素材本地化：4人团队怎么排期才不被素材产能拖死？",
+     "link": "https://www.baijing.cn/question/638718",
+     "pubDate": "Sat, 14 Nov 2026 03:45:56 +0000",
+     "summary": "我们是4人小团队，一款SLG手游去年底在印尼、越南、泰国上线，现在月买量预算8万美元左右，主要在Meta和TikTok投放。问题是素材本地化完全跟不上：印尼语和越南语各要单独配音、改字幕，泰国还要换角色立绘，一条素材从脚本到过审要5天，我们一周最多出6条。上个月印尼CTR从2.1%掉到1.3%，明显是素材疲劳，但排期根本补不上。试过外包给本地freelancer，交付质量不稳定，返工又多花两天；也试过一稿多语言套用，结果越南市场转化率只有印尼的一半。现在卡在人力就这么多、预算又不敢全压在一个国家，想请教有同类小团队经验的人：这种人手约束下，你们是按国家优先级砍素材量，还是把本地化拆成模块外包？",
+     "source": "白鲸出海",
+     "zh": "东南亚买量素材本地化：4人团队怎么排期才不被素材产能拖死？"
+    },
+    {
+     "title": "Free speech group FIRE says DOJ and DHS will end efforts to curb \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up iOS app, which report on ICE activity (Kanishka Singh/Reuters)",
+     "link": "https://www.techmeme.com/261113/p41#a261113p41",
+     "pubDate": "Fri, 13 Nov 2026 22:45:01 -0500",
+     "summary": "Kanishka Singh / Reuters : Free speech group FIRE says DOJ and DHS will end efforts to curb &ldquo;ICE Sightings - Chicagoland&rdquo; Facebook group and Eyes Up iOS app, which report on ICE activity &nbsp; &mdash;&nbsp; Free speech group FIRE said on Friday the US government agreed to end efforts to",
+     "source": "Techmeme",
+     "zh": "Free speech group FIRE says DOJ and DHS will end efforts to curb \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up iOS app, which report on ICE activity (Kanishka Singh/Reuters)"
+    },
+    {
+     "title": "西西弗买了200块的书但咖啡区不让坐，合理吗？",
+     "link": "https://www.huxiu.com/article/4905575.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 11:43:33 +0800",
+     "summary": "本文来自微信公众号： 半佛仙人 ，作者：白团 半佛 1 周末不卷，随便写点。 前几天不是刚写了大悦城嘛，提了一嘴西西弗书店，结果就刷到了这个新闻，大家看一看一下。 向下滑动查看所有内容 （新闻来自光明日报&江苏新闻&九派新闻） 事情很简单，有个顾客在西西弗书店买了近200块钱书，落座咖啡区结果店员不让坐，要求这个顾客单独买饮品。 网上有人觉得这个店员不懂事儿，不知道变通，一点小事给整个品牌都送上了热搜。 而且人家顾客也不是没花钱了，买了将近200块的书呢，也不是一个白嫖位置的，人家真给钱了。 但，没用。 因为这个事情其实非常非常复合逻辑。 注意，符合逻辑不代表正确，只代表可解释性。 这个店员既",
+     "source": "虎嗅",
+     "zh": "西西弗买了200块的书但咖啡区不让坐，合理吗？"
+    },
+    {
+     "title": "欧洲市场支付失败率12%，投放CPA涨到38欧还要继续加预算吗？",
+     "link": "https://www.baijing.cn/question/638717",
+     "pubDate": "Sat, 14 Nov 2026 03:32:42 +0000",
+     "summary": "我们做的是面向德国和法国的独立站订阅工具，团队8人，月投放预算大概2万欧元，主要跑Meta和Google。最近两周发现一个怪现象：落地页转化率没怎么掉，但支付环节失败率到了12%，Stripe后台看主要是3DS验证和本地支付方式缺失导致的。结果就是投放CPA从26欧涨到38欧，ROI直接压到盈亏线以下。已经试过加PayPal和SEPA，也调过3DS触发规则，但失败率只降到9%左右。现在纠结的是继续加预算摊薄获客，还是先把支付成功率做上去再放量，这个取舍该怎么判断？",
+     "source": "白鲸出海",
+     "zh": "欧洲市场支付失败率12%，投放CPA涨到38欧还要继续加预算吗？"
+    },
+    {
+     "title": "我们已经能够创造未来，为什么还在重复过去？",
+     "link": "https://www.huxiu.com/article/4905574.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 11:32:09 +0800",
+     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 2026年11月12日，英伟达发布了一份并不长的公告。 黄仁勋辞去了CEO、总裁和董事职务。那家由他创立并领导了三十三年的公司，开始寻找下一位掌舵者。 公告的措辞很平静。感谢过去的贡献，宣布新的安排，表达对未来的信心。对于一家上市公司而言，一切都需要按照既定程序继续运转。 可这几行文字背后，是一个极不寻常的时代反差。 就在不久前，黄仁勋还是全球人工智能浪潮中最具象征性的人物之一。他和他的公司，几乎成了这一代人理解未来的一种方式。 从图形计算到CUDA，从数据中心到大模型训练，人类不断扩张的计算能力，背后始终有英伟达的身影。人们谈论下一代人",
+     "source": "虎嗅",
+     "zh": "我们已经能够创造未来，为什么还在重复过去？"
+    },
+    {
+     "title": "英伟达的技术、泡泡玛特的运营都不是看十年的护城河",
+     "link": "https://www.huxiu.com/article/4905572.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 11:29:03 +0800",
+     "summary": "本文来自微信公众号： 方伟看十年 ，作者：投资向善 “也许可以给个未必合适的比喻，商业模式像马，管理层加企业文化像骑师，经营结果就是比赛结果。不过企业经营不像赛马那么短时间而已...“护城河”是用来判断公司内在价值的一个重要手段（不是唯一的）。企业文化是“护城河”的重要部分。很难想象一个没有很强企业文化的企业，可以有个很宽的“护城河”。” ——段永平 昨天刷到一条今日资本徐新老师的一条视频（下图）：“我在良品铺子学到一个词，叫——绽放。良品铺子搞了一个“掌柜承包责任制”：店长要竞选上岗，业绩超过基准，提成给到27%，而且上不封顶。我们拿100个店长做试点，跑了一年：没承包的老店，同比只涨5%；",
+     "source": "虎嗅",
+     "zh": "英伟达的技术、泡泡玛特的运营都不是看十年的护城河"
+    },
+    {
      "title": "马斯克：正在签署请求黄仁勋复职的请愿书",
      "link": "https://www.huxiu.com/article/4905571.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 11:26:51 +0800",
@@ -1783,6 +1831,14 @@
      "summary": "本文来自微信公众号： 影视独舌 ，作者：安吉玛 过去几年，随着各类喜剧综艺的崛起，围绕喜剧创作，行业反复强调两个关键词：创新和年轻化。仿佛脱离了这两个方向，喜剧就很难跟上时代。 但在剧集领域，赵家班却朝着反方向行进。 从各个层面来看，《走马上任》似乎都有些“不合时宜”。喜剧密度和题材新意不及《鹊刀门传奇》，演员阵容和故事结构也谈不上年轻化。 然而，这样一部看起来并不追逐潮流、口碑一言难尽的作品，却创下了腾讯视频板凳单元新的热度纪录（26495）。 赵家班与当下喜剧创作潮流之间的反差，值得行业重新审视。 创作在退步 与《鹊刀门传奇》不同，《走马上任》把故事背景放在了民国。 赵本山特别主演“舅爷”",
      "source": "虎嗅",
      "zh": "赵本山：老剧常看常新，新剧越看越旧"
+    },
+    {
+     "title": "这只AI广告股迎史上最强单日表现，分析师称其股价可能翻倍",
+     "link": "https://www.tmtpost.com/8205214.html",
+     "pubDate": "Sat, 14 Nov 2026 11:25:40 +0800",
+     "summary": "Liftoff Mobile 的人工智能改进推动利润增长，超出预期。",
+     "source": "钛媒体",
+     "zh": "这只AI广告股迎史上最强单日表现，分析师称其股价可能翻倍"
     },
     {
      "title": "Take-Two CEO：实体游戏不会消失，但未来会像黑胶唱片一样小众",
@@ -1825,14 +1881,6 @@
      "zh": "全球最大业载无人货运飞机：白鲸航线 W5000 成功完成技术验证试飞"
     },
     {
-     "title": "黄仁勋夫人，还一言不发？",
-     "link": "https://www.huxiu.com/article/4905530.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 11:05:00 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐，头图来自：AI生成 一 这一阵，黄家的事一天一个样。 11月8日，星期天，黄仁勋给全公司发信，认了对妻子不忠。信的后半段，他对同事、董事、合作伙伴和股东说，&ldquo;领导英伟达是我一生的荣幸，我会全心投入英伟达，把大家的信任一点点挣回来&rdquo;。董事会说先查，让他留任。 11月11日，星期三，事情又往下沉了一截。晚上，《纽约时报》报道，他跟公司里一位直接向他汇报的女高管，也有过婚外的关系。几分钟以后，《华尔街日报》报道，董事会准备让他走。那一天，英伟达的股票在白天还涨了将近三个点，收盘以后消息一出来，盘后一下跌了近一成。董事会当晚开会，",
-     "source": "虎嗅",
-     "zh": "黄仁勋夫人，还一言不发？"
-    },
-    {
      "title": "荣耀被曝测试多款豪威影像传感器，“最顶”主摄为 2 亿像素 OVB0D",
      "link": "https://www.ithome.com/1/027/067.htm",
      "pubDate": "Sat, 14 Nov 2026 03:03:47 GMT",
@@ -1852,7 +1900,7 @@
      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
      "pubDate": "Sat, 14 Nov 2026 02:52:59 +0000",
-     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 13 # Comments: 1",
+     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 27 # Comments: 2",
      "source": "Hacker News",
      "zh": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
     },
@@ -1881,14 +1929,6 @@
      "zh": "6人小团队做非洲短剧，传音预装带来的量怎么排人力接得住？"
     },
     {
-     "title": "谁最痛恨柏林墙的倒塌？是失去铁饭碗的前既得利益者",
-     "link": "https://www.huxiu.com/article/4905561.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 10:30:48 +0800",
-     "summary": "本文来自微信公众号： 欧洲价值 ，作者：叶克飞，编辑：郑大钱 柏林墙倒塌37周年（6） 柏林墙倒塌后，德国媒体每年都会进行各种关于柏林墙的社会调查，尤其是在五周年、十周年这类整数纪念年份，类似调查更是铺天盖地。进行调查的媒体很多，涉及的地区和样本不同，不同年份又有区别，所以可以参考的数据非常多，有兴趣的人可以自行查阅。 数据虽多，但大方向趋同，也可以见到德国人普遍的价值观。比如说，不管是德国的经济低迷期还是高速发展期，不管是顺风顺水的时代还是危机当口，大多数人都认为柏林墙的倒塌是正确的。 为了让数据更能说明问题，类似调查一般会将前东西德地区分开，形成两组数据相互观照。多年来，前西德人赞同柏林墙",
-     "source": "虎嗅",
-     "zh": "谁最痛恨柏林墙的倒塌？是失去铁饭碗的前既得利益者"
-    },
-    {
      "title": "宁夏“龙头酒庄”斩获近亿元融资，跨产区运作的压力给到西鸽酒庄",
      "link": "https://www.tmtpost.com/8204938.html",
      "pubDate": "Sat, 14 Nov 2026 10:30:00 +0800",
@@ -1900,17 +1940,9 @@
      "title": "Ggml v1.0.0",
      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
      "pubDate": "Sat, 14 Nov 2026 02:28:29 +0000",
-     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 30 # Comments: 1",
      "source": "Hacker News",
      "zh": "Ggml v1.0.0"
-    },
-    {
-     "title": "腾讯“裁员”风波背后：物理AI正在重塑大厂的权力序列",
-     "link": "https://www.huxiu.com/article/4905443.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 10:27:06 +0800",
-     "summary": "本文来自微信公众号： 针尖 ，作者：针尖，头图来自：AI生成 AI时代，信息即权力。 信息差是现代政治经济组织的第一重基础，再往上是财权和人事权。管理层通过操纵信息差以获得后两重资源的分配合理性。 这些信息分为五层： 1.纵向层级差：高层知道战略，中层知道分解，执行层知道动作。 2.横向部门差：销售不知道研发进度，研发不知道财务底线。 3.内外差：公司知道而外部不知道，或者反过来。 4.时序差：先知道和后知道。 5.解释权差：同一件事，谁有资格定义它&ldquo;意味着什么&rdquo;。 这套信息分层机制广泛应用于所有现代政治经济组织中，信息获取和分配权限亦是权力金字塔的塔基。 而在刚刚发生",
-     "source": "虎嗅",
-     "zh": "腾讯“裁员”风波背后：物理AI正在重塑大厂的权力序列"
     },
     {
      "title": "日本独立站日语客服外包，3人团队旺季排期怎么排才不崩？",
@@ -1956,7 +1988,7 @@
      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
      "pubDate": "Sat, 14 Nov 2026 02:21:36 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 33 # Comments: 9",
+     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 44 # Comments: 11",
      "source": "Hacker News",
      "zh": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal"
     },
@@ -1967,38 +1999,6 @@
      "summary": "新任CEO坐不住了。",
      "source": "钛媒体",
      "zh": "苹果不想一直“躺赢”"
-    },
-    {
-     "title": "银泰到底姓什么？43亿REITs背后的招牌之争",
-     "link": "https://www.tmtpost.com/8204078.html",
-     "pubDate": "Sat, 14 Nov 2026 10:13:00 +0800",
-     "summary": "“天下甬商是一家”的招牌不能丢。",
-     "source": "钛媒体",
-     "zh": "银泰到底姓什么？43亿REITs背后的招牌之争"
-    },
-    {
-     "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
-     "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-     "pubDate": "Sat, 14 Nov 2026 02:02:42 +0000",
-     "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 33 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks"
-    },
-    {
-     "title": "AI&apos;s impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
-     "link": "https://www.techmeme.com/261113/p38#a261113p38",
-     "pubDate": "Fri, 13 Nov 2026 20:55:00 -0500",
-     "summary": "Dwarkesh Patel / Dwarkesh Podcast : AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away &nbsp; &mdash;&nbsp; Many thanks to Max Farrens, Gabe Fried, and Thomas Larsen for pairing with me through significan",
-     "source": "Techmeme",
-     "zh": "AI&apos;s impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)"
-    },
-    {
-     "title": "The FAA Nationwide Ground Stop Is Over",
-     "link": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
-     "pubDate": "Sat, 14 Nov 2026 01:46:40 +0000",
-     "summary": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
-     "source": "WIRED",
-     "zh": "The FAA Nationwide Ground Stop Is Over"
     }
    ]
   },
@@ -2257,12 +2257,36 @@
    "total": 13,
    "items": [
     {
+     "title": "书店，在创造“相遇”中重光",
+     "link": "http://www.eeo.com.cn/2026/1114/1092781.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:34:52 +0800",
+     "summary": "卖书最冷的时代，恰恰是读书人与写书人互动最为热切的时代。",
+     "source": "经济观察网",
+     "zh": "书店，在创造“相遇”中重光"
+    },
+    {
+     "title": "算力抢铟",
+     "link": "http://www.eeo.com.cn/2026/1114/1092775.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:30:00 +0800",
+     "summary": "过去，铟最主要的用途是做显示面板。手机、电视的屏幕里，都需要用到它。最近一年，随着人工智能和算力产业链升温，铟又多了一个重要去处：生产光芯片。",
+     "source": "经济观察网",
+     "zh": "算力抢铟"
+    },
+    {
      "title": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器",
      "link": "https://wallstreetcn.com/articles/3785933",
      "pubDate": "Sat, 14 Nov 2026 11:22:50 +0800",
      "summary": "SpaceX雄心勃勃的\"双回收\"首秀在第一个环节便遭遇挫折，但飞船任务仍在继续。 美国当地时间11月13日下午， 星舰完成第十五次综合飞行测试发射，然而在级间分离后，V3版本超重型助推器Booster 22未能按计划返回发射场，最终溅落墨西哥湾并发生爆炸，错失由发射塔机械臂捕获的机会。 与此同时，上级飞船Ship 42继续执行轨道任务，部署26颗星链V3卫星，并计划于次日下午尝试返回发射场，由机械臂完成捕获。 星舰超重型助推器溅落发生爆炸，未能按计划完成回收，来源SpaceX 此次任务原本有望创造历史——SpaceX CEO埃隆·马斯克此前将同时回收助推器与飞船称为\"深刻的技术里程碑\"。助推器",
      "source": "华尔街见闻",
      "zh": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器"
+    },
+    {
+     "title": "US aviation regulator lifts order that grounded thousands of flights",
+     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+     "pubDate": "Sat, 14 Nov 2026 03:21:57 GMT",
+     "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
+     "source": "Financial Times",
+     "zh": "US aviation regulator lifts order that grounded thousands of flights"
     },
     {
      "title": "年轻人，新农机",
@@ -2295,14 +2319,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Loma Negra GAAP EPS of Arg$26.07, revenue of Arg$270.1B"
-    },
-    {
-     "title": "US aviation regulator lifts order that grounded thousands of flights",
-     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-     "pubDate": "Sat, 14 Nov 2026 02:37:04 GMT",
-     "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
-     "source": "Financial Times",
-     "zh": "US aviation regulator lifts order that grounded thousands of flights"
     },
     {
      "title": "Canagold Resources GAAP EPS of $0.00",
@@ -2377,6 +2393,14 @@
      "zh": "比亚迪海外抗辩取得阶段性成果 荷兰海牙法院驳回捷豹路虎突击取证申请"
     },
     {
+     "title": "突然！多国联军发动空袭！",
+     "link": "http://finance.eastmoney.com/news/1344,202611143931299019.html",
+     "pubDate": "Sat, 14 Nov 2026 10:10:50 +0800",
+     "summary": "中东局势，依然变幻莫测。 据央视新闻报道，当地时间13日晚，也门胡塞武装发布声明称，过去24小时内，沙特主导的联军对也门拉赫季省、塔伊兹省、萨达省、焦夫省、马里卜省和阿姆兰省发动了85次空袭和导弹袭击。自新一轮局势升级以来，沙特主导的联军对也门发动的空袭和导弹袭击总次数已达4948次。 同日晚间，也门胡塞武装称，当晚针对沙特目标实施了两次军事行动。第一次使用 无人机 袭击沙特首都利雅得的哈立德国王国际 机场 ，并称行动已命中目标。第二次使用 无人机 袭击了沙特首都利雅得以东的东西输油管道3号泵站，并称行动达到预定目标。 也门胡塞武装稍早前还发布信息称，使用两枚弹道导弹袭击了沙特阿拉伯吉赞省的沙",
+     "source": "东方财富资讯",
+     "zh": "突然！多国联军发动空袭！"
+    },
+    {
      "title": "14 dividend stocks selected for long-term growth",
      "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
      "pubDate": "Sat, 14 Nov 2026 01:58:00 GMT",
@@ -2433,6 +2457,14 @@
      "zh": "伊朗革命卫队称处于最高战备状态"
     },
     {
+     "title": "历时约4小时！美国罕见全国停飞令解除 特朗普：都是设施老旧惹的祸！",
+     "link": "http://global.eastmoney.com/news/1959,202611143931297288.html",
+     "pubDate": "Sat, 14 Nov 2026 09:42:41 +0800",
+     "summary": "美东时间周六，美国联邦航空管理局(FAA)罕见地对全美所有 机场 发布了停飞令，已导致美国数千航班被取消，上万架次航班被延误。 北京时间9点20分左右，美国联邦航空管理局取消空中交通管制，此次全美地面停飞令持续了约4个小时。 美国总统特朗普当天在接受该媒体记者采访时表示，美国空管系统故障与网络攻击或与 人工智能 无关，而是由老旧、破损的基础设施导致。 美国上万架次航班延误 美东时间周五下午4点（北京时间周六早间5点）左右，美国联邦航空管理局（FAA）罕见地下令暂停了全国范围内的离港航班。 这是自2001年9月11日以来，美国第二次全国性地面停飞。美国联邦航空管理局发布地面停飞令时表示， 通信 ",
+     "source": "东方财富资讯",
+     "zh": "历时约4小时！美国罕见全国停飞令解除 特朗普：都是设施老旧惹的祸！"
+    },
+    {
      "title": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”",
      "link": "https://wallstreetcn.com/articles/3785931",
      "pubDate": "Sat, 14 Nov 2026 09:37:31 +0800",
@@ -2463,38 +2495,6 @@
      "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
      "source": "CNBC",
      "zh": "SpaceX launches Starship in key test flight of massive rocket"
-    },
-    {
-     "title": "医学真人秀不能拿“盲猜”当看点",
-     "link": "http://www.eeo.com.cn/2026/1114/1092581.shtml",
-     "pubDate": "Sat, 14 Nov 2026 09:18:16 +0800",
-     "summary": "“盲猜”“写病历只是套路”等表述为何出现在镜头里？当流量成为内容生产的重要考量，综艺节目又该如何兼顾娱乐性、真实性与社会价值？",
-     "source": "经济观察网",
-     "zh": "医学真人秀不能拿“盲猜”当看点"
-    },
-    {
-     "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
-     "link": "https://wallstreetcn.com/articles/3785914",
-     "pubDate": "Sat, 14 Nov 2026 09:09:09 +0800",
-     "summary": "OpenAI解散独立机器人团队，押注通用模型直驱具身智能。 11月13日，据《财富》杂志报道， OpenAI已解散独立运营的机器人团队，将相关研究人员分拨至其他部门 。公司表示，此举的直接导火索是GPT-6 Astra等通用前沿模型的意外突破。 研究人员发现，这些模型可被直接应用于机器人控制任务，无需为机器人单独开发专用模型。 在英伟达的一项测试中，由Astra驱动的智能体在模拟操作基准测试中达到74.8%的成功率，优于该榜单上最佳专用机器人模型报告的51.0%。 此次重组同样发生在OpenAI承压削减成本的背景之下 。据报道，该公司最近一个季度的运营亏损高达109亿美元，同时正寻求完成新一轮",
-     "source": "华尔街见闻",
-     "zh": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型"
-    },
-    {
-     "title": "美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11",
-     "link": "https://wallstreetcn.com/articles/3785927",
-     "pubDate": "Sat, 14 Nov 2026 09:05:38 +0800",
-     "summary": "据 新华社 报道，美国联邦航空管理局11月13日以“特殊情况和安全原因”为由，发布全国范围的航班暂停起飞指令。该事件造成逾万架次航班延误或取消，成为近年来美国航空史上影响最为深远的停飞事件之一。 此次停飞令于美东时间下午3时53分生效，起因为影响全美空中航路交通管制中心的通信系统故障。航班追踪网站FlightAware的数据显示， 截至当日下午6时40分，全美已有逾3300架次航班被取消，另有逾10200架次出现延误；与此同时，各大航空公司已开始删减周末航班，周六已有逾300个航班遭到取消。 美国国土安全部长马克韦恩·马林在白宫表示，此次事件为电信系统中断，\"目前没有任何迹象表明这是一起针对我",
-     "source": "华尔街见闻",
-     "zh": "美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11"
-    },
-    {
-     "title": "成绩没有下降 孩子却快撑不住了 警惕中小学生藏在优秀背后的情绪危机",
-     "link": "http://www.eeo.com.cn/2026/1114/1084124.shtml",
-     "pubDate": "Sat, 14 Nov 2026 09:03:02 +0800",
-     "summary": "成绩是学习结果的一项指标，不是心理健康的“体检报告”。真正值得关注的是：孩子为了维持成绩，是否正在牺牲睡眠、兴趣、关系、自尊和基本安全感。",
-     "source": "经济观察网",
-     "zh": "成绩没有下降 孩子却快撑不住了 警惕中小学生藏在优秀背后的情绪危机"
     }
    ]
   },

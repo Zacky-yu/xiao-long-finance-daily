@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/15 04:30:16",
+ "generated_at": "2026/11/15 04:50:10",
  "recent_days": 7,
  "industries": [
   {
@@ -1729,12 +1729,28 @@
    "total": 18,
    "items": [
     {
+     "title": "USD-pegged stablecoins are taking a growing share of Latin America&apos;s crypto activity, serving as a store of value and an efficient cross-border payment system (Maria Clara Cobo/Bloomberg)",
+     "link": "https://www.techmeme.com/261114/p19#a261114p19",
+     "pubDate": "Sat, 14 Nov 2026 15:45:34 -0500",
+     "summary": "Maria Clara Cobo / Bloomberg : USD-pegged stablecoins are taking a growing share of Latin America's crypto activity, serving as a store of value and an efficient cross-border payment system &nbsp; &mdash;&nbsp; Stablecoins are proving useful not only as a store of value but as a payment system &mdas",
+     "source": "Techmeme",
+     "zh": "USD-pegged stablecoins are taking a growing share of Latin America&apos;s crypto activity, serving as a store of value and an efficient cross-border payment system (Maria Clara Cobo/Bloomberg)"
+    },
+    {
      "title": "Letter: Altimeter&apos;s Brad Gerstner and Atreides&apos;s Gavin Baker urge Nvidia&apos;s board to consider \"the potential return of Jensen Huang\"; they own $2.13B in Nvidia (Katie Tarasov/CNBC)",
      "link": "https://www.techmeme.com/261114/p18#a261114p18",
      "pubDate": "Sat, 14 Nov 2026 14:55:01 -0500",
      "summary": "Katie Tarasov / CNBC : Letter: Altimeter's Brad Gerstner and Atreides's Gavin Baker urge Nvidia's board to consider &ldquo;the potential return of Jensen Huang&rdquo;; they own $2.13B in Nvidia &nbsp; &mdash;&nbsp; Two major Nvidia shareholders are calling on the board of directors to weigh all opti",
      "source": "Techmeme",
      "zh": "Letter: Altimeter&apos;s Brad Gerstner and Atreides&apos;s Gavin Baker urge Nvidia&apos;s board to consider \"the potential return of Jensen Huang\"; they own $2.13B in Nvidia (Katie Tarasov/CNBC)"
+    },
+    {
+     "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+     "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+     "pubDate": "Sat, 14 Nov 2026 19:23:40 +0000",
+     "summary": "Article URL: https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year Comments URL: https://news.ycombinator.com/item?id=50499945 Points: 12 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Dartmouth (Guarini) will not admit math PhD cohort this year"
     },
     {
      "title": "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
@@ -1748,7 +1764,7 @@
      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
      "pubDate": "Sat, 14 Nov 2026 18:56:47 +0000",
-     "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 64 # Comments: 13",
+     "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 79 # Comments: 24",
      "source": "Hacker News",
      "zh": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation"
     },
@@ -1777,26 +1793,18 @@
      "zh": "Got an iPhone Duo? These 9 settings make it easier to use"
     },
     {
-     "title": "US IRS free online tax filing open source repo",
+     "title": "US IRS free online tax filing open source repo (2025)",
      "link": "https://github.com/IRS-Public/direct-file",
      "pubDate": "Sat, 14 Nov 2026 17:48:20 +0000",
-     "summary": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 90 # Comments: 26",
+     "summary": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 101 # Comments: 40",
      "source": "Hacker News",
-     "zh": "US IRS free online tax filing open source repo"
-    },
-    {
-     "title": "The 'europoors' rants reflect an American insecurity",
-     "link": "https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american",
-     "pubDate": "Sat, 14 Nov 2026 17:45:35 +0000",
-     "summary": "Article URL: https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american Comments URL: https://news.ycombinator.com/item?id=50499041 Points: 33 # Comments: 34",
-     "source": "Hacker News",
-     "zh": "The 'europoors' rants reflect an American insecurity"
+     "zh": "US IRS free online tax filing open source repo (2025)"
     },
     {
      "title": "A Family Tree of Software Job Titles",
      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
      "pubDate": "Sat, 14 Nov 2026 17:45:19 +0000",
-     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 76 # Comments: 23",
+     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 85 # Comments: 32",
      "source": "Hacker News",
      "zh": "A Family Tree of Software Job Titles"
     },
@@ -1812,9 +1820,17 @@
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "link": "https://www.crissyfield.de/research/lovable-en/",
      "pubDate": "Sat, 14 Nov 2026 17:43:10 +0000",
-     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 313 # Comments: 97",
+     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 368 # Comments: 128",
      "source": "Hacker News",
      "zh": "Lovable apps expose passport details and more than 200K private messages"
+    },
+    {
+     "title": "Will we put data centers in space?",
+     "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+     "pubDate": "Sat, 14 Nov 2026 17:35:33 +0000",
+     "summary": "Article URL: https://www.forethought.org/research/will-we-really-put-data-centers-in-space Comments URL: https://news.ycombinator.com/item?id=50498945 Points: 20 # Comments: 51",
+     "source": "Hacker News",
+     "zh": "Will we put data centers in space?"
     },
     {
      "title": "Sean Duffy blames Friday&apos;s FAA outage on copper-to-fiber wiring work at a remote facility, saying contractor L3Harris may have installed a \"faulty router\" (Joseph Pisani/Wall Street Journal)",
@@ -1831,22 +1847,6 @@
      "summary": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。今年报告的病例几乎所有患者此前都未接种过麻疹、腮腺炎和风疹（MMR）疫苗，或者其疫苗接种状况不明。根据美国各州的报告，至少 10 人在感染麻疹后死亡。",
      "source": "Solidot",
      "zh": "美国失去麻疹消除地位"
-    },
-    {
-     "title": "Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a \"bitcoin treasury,\" as its shares are down 60+% this year (Financial Times)",
-     "link": "https://www.techmeme.com/261114/p13#a261114p13",
-     "pubDate": "Sat, 14 Nov 2026 11:35:01 -0500",
-     "summary": "Financial Times : Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a &ldquo;bitcoin treasury,&rdquo; as its shares are down 60+% this year &nbsp; &mdash;&nbsp; Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets o",
-     "source": "Techmeme",
-     "zh": "Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a \"bitcoin treasury,\" as its shares are down 60+% this year (Financial Times)"
-    },
-    {
-     "title": "Creating a self booting ZIP archive",
-     "link": "https://goliath32.com/blog/ziphead.html",
-     "pubDate": "Sat, 14 Nov 2026 16:29:05 +0000",
-     "summary": "Article URL: https://goliath32.com/blog/ziphead.html Comments URL: https://news.ycombinator.com/item?id=50498295 Points: 16 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Creating a self booting ZIP archive"
     },
     {
      "title": "德国本土的汽车工业正在经历一次大收缩",
@@ -1977,6 +1977,30 @@
    "total": 7,
    "items": [
     {
+     "title": "Is your car tracking your location? Here's how to check and opt out",
+     "link": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
+     "pubDate": "Sat, 14 Nov 2026 20:30:00 +0000",
+     "summary": "Modern cars are great for farming user data, and big tech companies know it. It's important to know how this information is collected and how to opt out.",
+     "source": "Engadget",
+     "zh": "Is your car tracking your location? Here's how to check and opt out"
+    },
+    {
+     "title": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
+     "link": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
+     "pubDate": "Sat, 14 Nov 2026 20:30:00 +0000",
+     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Apple finally released its new HomeView this week, a smart display that serves at the center of your hom",
+     "source": "9to5Mac",
+     "zh": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard"
+    },
+    {
+     "title": "This built-in Windows tool can diagnose your PC's battery health",
+     "link": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
+     "pubDate": "Sat, 14 Nov 2026 20:15:00 +0000",
+     "summary": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report. We'll show you how to use it.",
+     "source": "Engadget",
+     "zh": "This built-in Windows tool can diagnose your PC's battery health"
+    },
+    {
      "title": "Deals: Samsung Galaxy S26 Ultra and Z Fold8 on sale, Nothing Phone (3) gets a price cut",
      "link": "https://www.gsmarena.com/deals_samsung_galaxy_s26_ultra_and_z_fold8_on_sale_nothing_phone_3_gets_a_price_cut-news-75470.php",
      "pubDate": "Sat, 14 Nov 2026 21:07:02 +0100",
@@ -2015,22 +2039,6 @@
      "summary": "The Switch 2's battery life varies depending on what game you're playing, but changing some settings can also help you maximize how long it lasts.",
      "source": "Engadget",
      "zh": "How to make your Nintendo Switch 2 battery last longer"
-    },
-    {
-     "title": "5 excellent free Apple Watch apps every owner should know about",
-     "link": "https://www.engadget.com/2311959/free-apple-watch-apps/",
-     "pubDate": "Sat, 14 Nov 2026 19:00:00 +0000",
-     "summary": "You can enjoy great Apple Watch apps without having to shell out for a subscription.",
-     "source": "Engadget",
-     "zh": "5 excellent free Apple Watch apps every owner should know about"
-    },
-    {
-     "title": "Your Apple AirPods Pro can test your hearing in five minutes, but are they accurate?",
-     "link": "https://www.engadget.com/2311946/apple-airpods-pro-test-hearing-five-minutes-accuracy/",
-     "pubDate": "Sat, 14 Nov 2026 18:45:00 +0000",
-     "summary": "Apple AirPods use an industry-recognized standard when testing a user's hearing, but there are various factors that can give inaccurate results.",
-     "source": "Engadget",
-     "zh": "Your Apple AirPods Pro can test your hearing in five minutes, but are they accurate?"
     },
     {
      "title": "Here’s a HomeView feature that should come to every Apple device",
@@ -2207,14 +2215,6 @@
      "summary": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection , delivering cameras, speakers, and more that bring the bulk of the functionality and processing directly to your home. more…",
      "source": "9to5Google",
      "zh": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter"
-    },
-    {
-     "title": "9to5Mac Overtime 090: iPhone Duo honeymoon",
-     "link": "https://9to5mac.com/2026/11/13/9to5mac-overtime-090-iphone-duo-honeymoon/",
-     "pubDate": "Fri, 13 Nov 2026 21:00:00 +0000",
-     "summary": "The Overtime crew revisits the iPhone Duo after prolonged usage. Is it still worth it without a telephoto lens or Face ID? We dig into its multitasking chops, standout FaceTime features, and how it stacks up against the Galaxy Z Fold 8. Plus, we break down Apple’s unprecedented product blitz and rum",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Overtime 090: iPhone Duo honeymoon"
     }
    ]
   },

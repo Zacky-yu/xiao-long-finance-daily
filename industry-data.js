@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 09:51:58",
+ "generated_at": "2026/11/14 10:12:01",
  "recent_days": 7,
  "industries": [
   {
@@ -1762,12 +1762,124 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "瑞幸越来越不像一家咖啡公司了",
+     "link": "https://www.tmtpost.com/8204697.html",
+     "pubDate": "Sat, 14 Nov 2026 10:04:53 +0800",
+     "summary": "做加法往往比做减法容易，同时也危险得多。",
+     "source": "钛媒体",
+     "zh": "瑞幸越来越不像一家咖啡公司了"
+    },
+    {
+     "title": "等离子电源小巨人上会迎考，神州股份砍掉3亿补流，中微公司身兼两角",
+     "link": "https://www.tmtpost.com/8204937.html",
+     "pubDate": "Sat, 14 Nov 2026 10:04:43 +0800",
+     "summary": "订单高度集中，产能消化成核心考题。",
+     "source": "钛媒体",
+     "zh": "等离子电源小巨人上会迎考，神州股份砍掉3亿补流，中微公司身兼两角"
+    },
+    {
+     "title": "汽车芯片再次告急，这次是晶圆厂不想生产了",
+     "link": "https://www.tmtpost.com/8204916.html",
+     "pubDate": "Sat, 14 Nov 2026 10:02:11 +0800",
+     "summary": "汽车每年买这么多芯片，晶圆厂为什么还嫌订单小？",
+     "source": "钛媒体",
+     "zh": "汽车芯片再次告急，这次是晶圆厂不想生产了"
+    },
+    {
+     "title": "国潮风云：两次转型赌局，“户外鼻祖”探路者弄丢了自己",
+     "link": "https://www.tmtpost.com/8204930.html",
+     "pubDate": "Sat, 14 Nov 2026 10:02:06 +0800",
+     "summary": "探路者因一轮户外潮崛起，又失落于新一轮户外潮。",
+     "source": "钛媒体",
+     "zh": "国潮风云：两次转型赌局，“户外鼻祖”探路者弄丢了自己"
+    },
+    {
+     "title": "字节阿里携程，开始拆部门墙了",
+     "link": "https://www.huxiu.com/article/4905554.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 09:59:56 +0800",
+     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 产品经理给程序员打绩效，程序员向运营汇报。 这种在大厂听起来有些魔幻的场景，可能真的要出现了。 据某自媒体爆料，携程上周召开全员大会，宣布开始推广一项名为“产研融合”的组织改革。 具体怎么改？原来分属不同部门的产品、运营、前端、后端、算法、测试等人员，全部按项目重新组队。一个团队里，每个工种可能只有1到2个人，由一名直接负责人（DRI）统一管理。 项目负责人可以是产品经理，也可以是运营或者技术负责人。团队内部，工程师能自己提需求、自己开发；产品和运营有了想法，也可以借助AI直接实现。 甚至连汇报关系和绩效考核，都可能打破原来的职能边界。 携",
+     "source": "虎嗅",
+     "zh": "字节阿里携程，开始拆部门墙了"
+    },
+    {
+     "title": "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工",
+     "link": "https://www.ithome.com/1/027/050.htm",
+     "pubDate": "Sat, 14 Nov 2026 01:58:31 GMT",
+     "summary": "IT之家 11 月 14 日消息，Perplexity 今天（11 月 14 日）发布公告，邀请付费 Max 订阅用户，在 Mac 平台版 Perplexity 应用上体验 AI 智能体功能“队友”（Teammates）。 该功能此前仅支持 iOS 和网页端，如今进一步覆盖桌面办公场景。 Teammates 可以理解为一组各有分工的“AI 队友”。与需要用户反复提问、逐步下达指令的聊天方式不同，它主打围绕一项职责持续推进工作。用户交代任务后，AI 会规划执行步骤，并跟进至结果可供用户审阅。IT之家附上相关介绍视频如下： 根据 Perplexity 的介绍，用户可以让这些“队友”管理增长营销活动",
+     "source": "IT之家",
+     "zh": "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工"
+    },
+    {
+     "title": "又一款10万元内合资纯电车上市，低价能拯救它们吗？",
+     "link": "https://www.tmtpost.com/8204812.html",
+     "pubDate": "Sat, 14 Nov 2026 09:56:57 +0800",
+     "summary": "真正机会在于“价值感”。",
+     "source": "钛媒体",
+     "zh": "又一款10万元内合资纯电车上市，低价能拯救它们吗？"
+    },
+    {
+     "title": "AI&apos;s impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
+     "link": "https://www.techmeme.com/261113/p38#a261113p38",
+     "pubDate": "Fri, 13 Nov 2026 20:55:00 -0500",
+     "summary": "Dwarkesh Patel / Dwarkesh Podcast : AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away &nbsp; &mdash;&nbsp; Many thanks to Max Farrens, Gabe Fried, and Thomas Larsen for pairing with me through significan",
+     "source": "Techmeme",
+     "zh": "AI&apos;s impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)"
+    },
+    {
+     "title": "消息称某厂 6.3 英寸 1.5K 小屏机立项，预计小米 REDMI 旗下",
+     "link": "https://www.ithome.com/1/027/048.htm",
+     "pubDate": "Sat, 14 Nov 2026 01:52:54 GMT",
+     "summary": "IT之家 11 月 14 日消息，博主 @数码闲聊站 今日发布超前瞻爆料，某厂子系有 6.3 英寸小屏机立项， 采用 1.5K LTPO+LIPO 四等边设计 。结合该博主的爆料习惯，预计新机为小米 REDMI 旗下。 目前尚不清楚这款新机的具体型号，仅从屏幕尺寸上看，新机大小预计与小米 17 标准版接近。 作为参考，小米 17 标准版手机便搭载了 6.3 英寸 1.5K 低功耗超级阳光屏 ，分辨率为 2656x1220，支持最高 120Hz 刷新率及 3500nits 多场景峰值亮度。 IT之家注意到，该博主此前还爆料某厂子系测试了 4 台 7 英寸大屏 + 万级大电池，包含有 2nm 旗舰",
+     "source": "IT之家",
+     "zh": "消息称某厂 6.3 英寸 1.5K 小屏机立项，预计小米 REDMI 旗下"
+    },
+    {
+     "title": "外卖大战一年后，大厂亲自下场开店",
+     "link": "https://www.tmtpost.com/8204490.html",
+     "pubDate": "Sat, 14 Nov 2026 09:49:27 +0800",
+     "summary": "淘宝京东美团都有了“自营厨房”。",
+     "source": "钛媒体",
+     "zh": "外卖大战一年后，大厂亲自下场开店"
+    },
+    {
+     "title": "部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载",
+     "link": "https://www.ithome.com/1/027/047.htm",
+     "pubDate": "Sat, 14 Nov 2026 01:49:15 GMT",
+     "summary": "IT之家 11 月 14 日消息，美国联邦航空管理局（FAA）宣布解除全美航班地面停飞令后，美国国土安全部部长马克韦恩・穆林（Markwayne Mullin）和交通部长肖恩・达菲先后就此次事件作出回应。 穆林表示，目前没有发现网络攻击或人工智能攻击的证据，此次事件与微软无关，但调查仍在进行，不排除网络攻击的可能性。 穆林表示，公众从未处于危险之中，此次实施全美地面停飞是出于高度谨慎。他称，目前情况似乎正朝着正确方向发展，相关部门仍在调查故障原因。对于是否存在网络攻击，他表示目前没有发现相关证据，但不能完全排除这种可能性。 美国交通部长达菲则介绍了此次故障涉及的基础设施问题。他表示，当地时间 ",
+     "source": "IT之家",
+     "zh": "部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载"
+    },
+    {
+     "title": "The FAA Nationwide Ground Stop Is Over",
+     "link": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
+     "pubDate": "Sat, 14 Nov 2026 01:46:40 +0000",
+     "summary": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+     "source": "WIRED",
+     "zh": "The FAA Nationwide Ground Stop Is Over"
+    },
+    {
+     "title": "CNET 耐久测试：苹果首款折叠 iPhone Duo 撑过 45.7 万次开合，铰链磨损变松 / 屏幕未见裂纹",
+     "link": "https://www.ithome.com/1/027/046.htm",
+     "pubDate": "Sat, 14 Nov 2026 01:45:35 GMT",
+     "summary": "IT之家 11 月 14 日消息，科技媒体 CNET 昨日（11 月 13 日）结束第 15 天直播后， 苹果首款折叠 iPhone Duo 手机已经历 457,053 次折叠，目前仍能运行，屏幕未见裂纹，但铰链已出现明显磨损迹象。 IT之家附上相关截图如下： 测试人员表示变化最早出现在约 39 万次折叠时，可以感觉到铰链变松。次数增至约 44.03 万次后，手机在机器下一次合拢前已来不及完全展开，距离完全展开还差 5 至 10 度，原先明显的开合到位感也不再出现。 本次折叠测试仍在继续，团队设定的终止条件包括设备断电、传感器无法正确识别屏幕状态，以及屏幕黑屏等。按每天折叠 100 次计算，4",
+     "source": "IT之家",
+     "zh": "CNET 耐久测试：苹果首款折叠 iPhone Duo 撑过 45.7 万次开合，铰链磨损变松 / 屏幕未见裂纹"
+    },
+    {
      "title": "英伟达，还有比黄仁勋离任更大的麻烦",
      "link": "https://www.huxiu.com/article/4905552.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 09:41:45 +0800",
      "summary": "本文来自微信公众号： 降噪NoNoise ，编辑：小维，作者：刘诗雨 英伟达的黄仁勋时代落幕了。 11月12日，黄仁勋辞去英伟达总裁、首席执行官及董事职务，结束了长达33年的掌舵生涯。公司执行副总裁兼首席财务官科莱特·克雷斯（Colette Kress）出任临时CEO，直至正式继任者确定。 自1993年英伟达创立以来，黄仁勋几乎就是这家公司的代名词。英伟达长期采用高度扁平化的管理架构，约60名下属直接向黄仁勋汇报，公司没有公认的二号人物。黄仁勋的每个战略抉择，都会在整个AI产业掀起连锁反应。 这场突如其来的人事巨变，让英伟达迎来了前所未有的考验。 目前来看，黄仁勋为英伟达留下了短期难以逾越的护",
      "source": "虎嗅",
      "zh": "英伟达，还有比黄仁勋离任更大的麻烦"
+    },
+    {
+     "title": "南方电网：南方五省区新能源汽车产业链前 10 月贡献全网用电增量超三成",
+     "link": "https://www.ithome.com/1/027/045.htm",
+     "pubDate": "Sat, 14 Nov 2026 01:40:55 GMT",
+     "summary": "IT之家 11 月 14 日消息，据中国南方电网有限责任公司消息，今年 1 至 10 月，南方五省区新能源汽车产业链售电量占全网售电量的 17.1%，同比增长 14.8%，对全网用电增量的贡献率达到 34.1%。每新增 3 度电，就有 1 度多流向新能源汽车产业链。 IT之家从报告获悉，2026 年 1 至 10 月，南方五省区化学原料和化学制品制造业售电量同比增长 15.5%，10 月单月同比上涨 11.9%。海外产能受限之下，国内氟化工企业抢抓市场窗口开足马力组织生产，行业用电随之快速走高。 与之形成对比的是有色金属冶炼和压延加工业。受广西、云南去年同期高基数影响，行业连续两个月下降。一增",
+     "source": "IT之家",
+     "zh": "南方电网：南方五省区新能源汽车产业链前 10 月贡献全网用电增量超三成"
     },
     {
      "title": "胖东来又上热搜：一瓶洗发水背后，我交过的三笔“洋牌”学费",
@@ -1778,6 +1890,14 @@ window.INDUSTRY_DATA = {
      "zh": "胖东来又上热搜：一瓶洗发水背后，我交过的三笔“洋牌”学费"
     },
     {
+     "title": "苹果首款智能家居中枢 HomeView 开售：戴墨镜可能认不出你",
+     "link": "https://www.ithome.com/1/027/043.htm",
+     "pubDate": "Sat, 14 Nov 2026 01:34:41 GMT",
+     "summary": "IT之家 11 月 14 日消息，苹果首款智能家居中枢 HomeView 昨日（11 月 13 日）在美国等市场发售后，官方随后更新了多份支持文档，详细披露了该产品的诸多日常使用细节， 涵盖照镜子、睡眠定时、访客权限及个人信息保护等功能。 1、识别功能 苹果表示，如果你戴着遮盖的脸，包括戴着墨镜，HomeView 很可能无法识别你。如果 HomeView 无法识别你，苹果建议移除所有阻碍摄像头看到你脸部的内容。 HomeView 的屏幕需要朝向你的脸部，如果周围有其他人，你必须处于画面中心并靠近摄像头，而且 HomeView 不能被悬垂的架子和橱柜挡住。苹果表示 HomeView 需要正面且均",
+     "source": "IT之家",
+     "zh": "苹果首款智能家居中枢 HomeView 开售：戴墨镜可能认不出你"
+    },
+    {
      "title": "淘宝新“销冠”FPA栽在AI模特图上",
      "link": "https://www.huxiu.com/article/4905550.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 09:33:25 +0800",
@@ -1786,20 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "淘宝新“销冠”FPA栽在AI模特图上"
     },
     {
-     "title": "MiniMax，狂卷字节、OpenAI",
-     "link": "https://www.tmtpost.com/8204649.html",
-     "pubDate": "Sat, 14 Nov 2026 09:31:14 +0800",
-     "summary": "AI生图赛道，三家密集更新。",
-     "source": "钛媒体",
-     "zh": "MiniMax，狂卷字节、OpenAI"
-    },
-    {
-     "title": "英伟达CFO临危受命，硅谷大厂CFO藏着多少接班人？",
-     "link": "https://www.tmtpost.com/8204816.html",
-     "pubDate": "Sat, 14 Nov 2026 09:31:00 +0800",
-     "summary": "英伟达财务老将，接棒黄仁勋任临时CEO。",
-     "source": "钛媒体",
-     "zh": "英伟达CFO临危受命，硅谷大厂CFO藏着多少接班人？"
+     "title": "FAA lifted National Ground Stop at 0119Z",
+     "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+     "pubDate": "Sat, 14 Nov 2026 01:30:01 +0000",
+     "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 74 # Comments: 34",
+     "source": "Hacker News",
+     "zh": "FAA lifted National Ground Stop at 0119Z"
     },
     {
      "title": "同店跌11%，利润涨55%：瑞幸的真正对手是谁？",
@@ -1808,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 谢璞笔记 ，作者：谢璞 捷报与血迹，装订在同一份财报里 瑞幸咖啡发布2026年第三季度财报，值得研究。 这份成绩单一面是捷报：单季营业利润27.56亿元，同比增长55.1%，是上市以来最赚钱的一个季度；Non-GAAP净利润21.45亿元，创单季历史新高。 另一面却是血迹。翻到自营门店那一页：同店销售同比下滑11.1%，连续第三个季度负增长，降幅逐季扩大。 最赚钱的季报，和最疲软的同店，出现在同一家门店数逼近4万家的公司身上。捷报与血迹装订在同一份文件里，这就有意思了—— 所以，瑞幸的利润从哪里来？寒意又从哪里来？ 01｜最赚钱的季报 我们先把三个数字摆上桌。2026年第",
      "source": "虎嗅",
      "zh": "同店跌11%，利润涨55%：瑞幸的真正对手是谁？"
-    },
-    {
-     "title": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
-     "link": "https://www.ithome.com/1/027/038.htm",
-     "pubDate": "Sat, 14 Nov 2026 01:20:21 GMT",
-     "summary": "IT之家 11 月 14 日消息， 有开发者在 chat.deepseek.com 的前端代码中发现了一整套额度管理逻辑，提示文案包括“使用额度已达上限，请额度恢复后再试”。 此外，其代码还包含额度耗尽后的错误处理分支，以及“分享对话后继续聊”场景下对 quotas 数组中 is_exhausted 状态的检查 。 根据开发者们挖出的信息，最新前端 commit 已经支持「额度状态轮询」：页面可见时每 5 分钟同步各模型额度、禁言状态与服务端文案。当 额度耗尽时，DeepSeek 输入框上方会直接出提示条，首页欢迎区也改为服务端下发的额度说明。 这套前端体系涵盖剩余额度实时同步、额度耗尽即时提",
-     "source": "IT之家",
-     "zh": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案"
     },
     {
      "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals&apos; sites (Greg Bensinger/Reuters)",
@@ -1834,28 +1938,12 @@ window.INDUSTRY_DATA = {
      "zh": "京沪之外，谁能竞争商业航天的“新一线”？"
     },
     {
-     "title": "礼来 CEO 回应“AI 十年内攻克癌症”：愿景很美好，但不太可能",
-     "link": "https://www.ithome.com/1/027/037.htm",
-     "pubDate": "Sat, 14 Nov 2026 01:10:57 GMT",
-     "summary": "IT之家 11 月 14 日消息，礼来（Eli Lilly）董事长兼首席执行官戴夫 · 里克斯（Dave Ricks）于 11 月 12 日在 X 平台发布推文，回应 Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）有关“AI 将在不到十年内攻克癌症等疾病”的预测， 称这一愿景“令人向往”，但实现的可能性不大。 IT之家此前报道，在面向投资者的路演视频中，阿莫代伊表示癌症、阿尔茨海默病、心脏病和精神疾病，有望在不到十年内成为“过去式”。 这番对 AI 医疗前景的乐观判断，引发医药界人士质疑 。 里克斯在推文中表示：“如果这个愿景真得令人向往，但是我认为这不太可能发",
-     "source": "IT之家",
-     "zh": "礼来 CEO 回应“AI 十年内攻克癌症”：愿景很美好，但不太可能"
-    },
-    {
      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
      "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
      "pubDate": "Sat, 14 Nov 2026 01:10:22 +0000",
-     "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 24 # Comments: 7",
+     "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.com/item?id=50492456 Points: 85 # Comments: 17",
      "source": "Hacker News",
      "zh": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks"
-    },
-    {
-     "title": "比亚迪方程豹钛 9 官宣 11 月 19 日上市，闪充技术 + 二代刀片电池加持",
-     "link": "https://www.ithome.com/1/027/036.htm",
-     "pubDate": "Sat, 14 Nov 2026 01:09:29 GMT",
-     "summary": "IT之家 11 月 14 日消息，比亚迪方程豹事业部总经理熊甜波昨晚宣布，方程豹钛 9 车型将于 11 月 19 日上市，车辆已抵达全国 12 城 21 门店，新增 20 城已发运在途即将抵达。 IT之家注意到，钛 9 是方程豹品牌当前唯一一款 9 系旗舰车型，全系标配四项技术： 首发首搭 DMS 全新混动平台：DMS 专为钛系列打造，从底盘结构到动力调校全面优化； 比亚迪闪充技术 + 二代刀片电池 ：能实现 5 分钟充好，9 分钟充饱，零下 30° 只多 3 分钟； 云辇-A 车身控制系统 (含路面预瞄)：提前感知前方路面起伏，主动调节悬架阻尼，铺装路面、非铺装路面从容通过； iATS 智能",
-     "source": "IT之家",
-     "zh": "比亚迪方程豹钛 9 官宣 11 月 19 日上市，闪充技术 + 二代刀片电池加持"
     },
     {
      "title": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
@@ -1866,36 +1954,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)"
     },
     {
-     "title": "特斯拉 Cybercab 面向个人用户开放销售：售 29990 美元，每月还需支付 299 美元自动驾驶订阅费用",
-     "link": "https://www.ithome.com/1/027/034.htm",
-     "pubDate": "Sat, 14 Nov 2026 00:59:11 GMT",
-     "summary": "IT之家 11 月 14 日消息，特斯拉宣布开始向部分个人用户开放 Cybercab 无人驾驶汽车购买渠道，起售价为 29,990 美元 （IT之家注：现汇率约合 20 万元人民币） ，首批车辆预计将于 2026 年 12 月交付。 不过，目前特斯拉 Cybercab 个人购买资格仅向特定受邀客户开放，首批交付范围也暂时集中在美国得克萨斯州奥斯汀地区。 除了 29990 美元的购车价格外，用户还需支付 1000 美元不可退还的订购定金。此外，车辆必须搭配每月 299 美元的自动驾驶订阅服务才能运行。 由于 Cybercab 没有方向盘和脚踏板，车主需要依赖特斯拉提供的自动驾驶软件及相关服务。特",
-     "source": "IT之家",
-     "zh": "特斯拉 Cybercab 面向个人用户开放销售：售 29990 美元，每月还需支付 299 美元自动驾驶订阅费用"
-    },
-    {
-     "title": "马斯克声援黄仁勋：将签署请愿，支持其重返英伟达 CEO 岗位",
-     "link": "https://www.ithome.com/1/027/033.htm",
-     "pubDate": "Sat, 14 Nov 2026 00:56:42 GMT",
-     "summary": "IT之家 11 月 14 日消息，全球首富埃隆 · 马斯克（Elon Musk）昨日（11 月 13 日）发布推文，回应网友关于“ 约 1600 名英伟达员工呼吁黄仁勋回归 ”的推文， 表示“一项要求让黄仁勋复职的请愿正在进行，我也会签署。” 网友 @yunta_tsai 主张，希望黄仁勋回归的员工可以通过辞职表达立场，并强调工程师对公司的重要性。他认为：“优秀的 GPU 工程师非常难找，甚至比机器学习工程师更难被替换。如果工程师热爱这家公司，就应该掌握自己的命运。他们塑造并实现公司的使命，而不是董事会。” 马斯克随后转发该条推文，声援支持黄仁勋回归，并表示将会签署请愿，让黄仁勋重返英伟达 C",
-     "source": "IT之家",
-     "zh": "马斯克声援黄仁勋：将签署请愿，支持其重返英伟达 CEO 岗位"
-    },
-    {
      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
      "pubDate": "Sat, 14 Nov 2026 00:52:29 +0000",
-     "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 79 # Comments: 16",
+     "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 102 # Comments: 30",
      "source": "Hacker News",
      "zh": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop"
-    },
-    {
-     "title": "Edge AI Daily 早报（11月14日）",
-     "link": "https://www.tmtpost.com/8204969.html",
-     "pubDate": "Sat, 14 Nov 2026 08:51:28 +0800",
-     "summary": "英伟达黄仁勋辞任触发治理与出口审查重估，股价盘中跌破4万亿美元后修复；微软365全球中断暴露云集中化单点风险。Anthropic IPO获六倍认购并签SpaceX月12.5亿美元算力合同，OpenAI融资150亿美元但亏损扩大；谷歌Gemini 4 Hydrogen与Claude默认模型推进AI执行层，SpaceX拟投740亿美元建算力设施，AI巨头因末日预言被诉。中国开放权重模型硬件指纹、230亿元项目依赖受限英伟达芯片、欧盟涉华铜管反倾销及A股产业链抗波动，显示出口管制与贸易壁垒重塑算力与制造供应链；Rust 1.100强化供应链治理。",
-     "source": "钛媒体",
-     "zh": "Edge AI Daily 早报（11月14日）"
     },
     {
      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
@@ -1914,28 +1978,20 @@ window.INDUSTRY_DATA = {
      "zh": "Show HN: Light control for MacBook charger status light (open-source)"
     },
     {
-     "title": "拜雅推出 4 款新 Pro X 限量黑色特别版耳机，售价 1499 元起",
-     "link": "https://www.ithome.com/1/027/031.htm",
-     "pubDate": "Sat, 14 Nov 2026 00:44:52 GMT",
-     "summary": "IT之家 11 月 14 日消息，拜雅（beyerdynamic）昨日（11 月 13 日）发布公告，宣布扩充 PRO X 系列， 推出 DT 770 PRO X、DT 990 PRO X、DT 700 PRO X 和 DT 900 PRO X 四款全黑特别版耳机 ，通过官网及授权零售商限量发售，建议零售价 199 欧元 （IT之家注：现汇率约合 1,468 元人民币） 起。 外观方面，此次新品以全黑外观为主要亮点，连天鹅绒耳垫也采用黑色设计。制作背景方面，LITTLE BIG BEAT STUDIOS 工作室为了筹备耳机音乐会（现场录制使用超过 100 台耳机），希望减少反光及视觉干扰，因此",
-     "source": "IT之家",
-     "zh": "拜雅推出 4 款新 Pro X 限量黑色特别版耳机，售价 1499 元起"
-    },
-    {
-     "title": "迪安诊断的千万份AI报告值多少钱？",
-     "link": "https://www.huxiu.com/article/4905545.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 08:41:31 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 迪安诊断的病理AI，已经跑通了按病例计费的流程。 今年5月13日的投资者关系记录里，有投资者问，病理AI的按效付费模式落地了多少家，收费标准和回款怎么样。 公司的回应是： 目前还在从试点向规模化复制过渡，重庆、浙江、江苏等地已经完成了装机试用、正式启用到按病例计费的流程验证，单例收费标准通常在75到105元之间，主要参考各地落地政策。 公司还提到，跟软硬件销售相比，按效付费前期需要承担部署和市场教育成本，等病例量上来，成熟期毛利率通常更高。 说起来，这套模式挺好理解，以前卖软硬件，卖出去就算一单；现在按实际使用量收费，病例越多，生意才越有可能做大。",
-     "source": "虎嗅",
-     "zh": "迪安诊断的千万份AI报告值多少钱？"
-    },
-    {
      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
      "link": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
      "pubDate": "Sat, 14 Nov 2026 00:28:11 +0000",
-     "summary": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 22 # Comments: 4",
      "source": "Hacker News",
      "zh": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free"
+    },
+    {
+     "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+     "link": "https://unsloth.ai/docs/models/qwen3.8",
+     "pubDate": "Sat, 14 Nov 2026 00:06:04 +0000",
+     "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update"
     },
     {
      "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (Kierra Frazier/CBS News)",
@@ -1944,62 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Kierra Frazier / CBS News : Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash &nbsp; &mdash;&nbsp; Kierra Frazier is a news editor for CBS News & Stations.&nbsp; &mdash;&nbsp; Faris Tanyos is a ne",
      "source": "Techmeme",
      "zh": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (Kierra Frazier/CBS News)"
-    },
-    {
-     "title": "What Happened to 3Com?",
-     "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-     "pubDate": "Fri, 13 Nov 2026 23:48:59 +0000",
-     "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 36 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "What Happened to 3Com?"
-    },
-    {
-     "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
-     "link": "https://www.techmeme.com/261113/p34#a261113p34",
-     "pubDate": "Fri, 13 Nov 2026 18:35:00 -0500",
-     "summary": "Asi / @airspaceintel : ASI, developer of AI tool SMART, says the FAA outage &ldquo;is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC&rdquo; &nbsp; &mdash;&nbsp; The current ground stop is not based on or a result of the SMART system, any product",
-     "source": "Techmeme",
-     "zh": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)"
-    },
-    {
-     "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-     "link": "https://grounds.top/",
-     "pubDate": "Fri, 13 Nov 2026 23:17:39 +0000",
-     "summary": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 19 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop"
-    },
-    {
-     "title": "FAA orders third nationwide ground stop in its history",
-     "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-     "pubDate": "Fri, 13 Nov 2026 23:17:38 +0000",
-     "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
-     "source": "Ars Technica",
-     "zh": "FAA orders third nationwide ground stop in its history"
-    },
-    {
-     "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-     "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-     "pubDate": "Fri, 13 Nov 2026 23:00:00 +0000",
-     "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-     "source": "TechCrunch",
-     "zh": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price"
-    },
-    {
-     "title": "Best Early Black Friday AirPods Deals (2026)",
-     "link": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
-     "pubDate": "Fri, 13 Nov 2026 22:30:29 +0000",
-     "summary": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
-     "source": "WIRED",
-     "zh": "Best Early Black Friday AirPods Deals (2026)"
-    },
-    {
-     "title": "Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn&apos;t believe it was due to a cyberattack or criminality (Myles Miller/Bloomberg)",
-     "link": "https://www.techmeme.com/261113/p33#a261113p33",
-     "pubDate": "Fri, 13 Nov 2026 17:20:00 -0500",
-     "summary": "Myles Miller / Bloomberg : Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn't believe it was due to a cyberattack or criminality &nbsp; &mdash;&nbsp; The Federal Bureau of Investigation doesn't believe the communication issue affecting air traffic control ",
-     "source": "Techmeme",
-     "zh": "Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn&apos;t believe it was due to a cyberattack or criminality (Myles Miller/Bloomberg)"
     }
    ]
   },
@@ -2258,20 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "FAA lifts rare nationwide ground stop; flights may take days to recover",
+     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+     "pubDate": "Sat, 14 Nov 2026 02:00:00 GMT",
+     "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
+     "source": "MarketWatch",
+     "zh": "FAA lifts rare nationwide ground stop; flights may take days to recover"
+    },
+    {
+     "title": "14 dividend stocks selected for long-term growth",
+     "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+     "pubDate": "Sat, 14 Nov 2026 01:58:00 GMT",
+     "summary": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
+     "source": "MarketWatch",
+     "zh": "14 dividend stocks selected for long-term growth"
+    },
+    {
+     "title": "US aviation regulator lifts order that grounded thousands of flights",
+     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+     "pubDate": "Sat, 14 Nov 2026 01:57:52 GMT",
+     "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
+     "source": "Financial Times",
+     "zh": "US aviation regulator lifts order that grounded thousands of flights"
+    },
+    {
      "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-     "pubDate": "Sat, 14 Nov 2026 01:44:39 GMT",
+     "pubDate": "Sat, 14 Nov 2026 01:54:38 GMT",
      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
      "source": "CNBC",
      "zh": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend"
     },
     {
-     "title": "3D打印拉动需求，这一材料迎多轮涨价",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931293328.html",
-     "pubDate": "Sat, 14 Nov 2026 09:38:00 +0800",
-     "summary": "“调价函还在发，产线满负荷运转。”上证报记者近期从乳酸产业链多家企业处获悉，受 3D打印 需求向好支撑等，乳酸产业链产品价格已迎来多轮上调，目前价格维持高位。数据显示，国内聚乳酸（PLA）工业级树脂主流参考价格稳定在18500元/吨至19500元/吨，进口PLA价格在22000元/吨至23000元/吨。 聚乳酸供需趋紧 头部企业接连调价 “聚乳酸价格上涨受地缘政治及供应链重构影响，硫酸等关键原材料价格走高，直接推高乳酸生产成本。”行业头部生产企业负责人向上证报记者介绍，此外因 3D打印 需求的快速增长，供应端出现稍微紧缺状态，直接导致价格上升。 行业头部企业已陆续上调出厂价格，例如， 金丹科技",
+     "title": "美国称停飞事件非网络攻击或AI干预",
+     "link": "http://finance.eastmoney.com/news/11790,202611143931297530.html",
+     "pubDate": "Sat, 14 Nov 2026 09:52:34 +0800",
+     "summary": "美国交通部长达菲当地时间11月13日对媒体表示，目前希望国会提供紧急资金500亿美元用于空中交通管制系统升级。达菲说，从13日的全美停飞事件中恢复过来还需要时间，目前有数以万计的旅客滞留，许多人可能被迫在 机场 过夜。美国国土安全部部长马林在回答记者提问时说，没有看到网络攻击或 人工智能 干预的证据，公共安全没有受到威胁。他表示，系统老旧，数据过载，才是国家安全的隐患。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "3D打印拉动需求，这一材料迎多轮涨价"
+     "zh": "美国称停飞事件非网络攻击或AI干预"
+    },
+    {
+     "title": "美媒：停飞令已解除；特朗普最新发声",
+     "link": "http://global.eastmoney.com/news/1959,202611143931297625.html",
+     "pubDate": "Sat, 14 Nov 2026 09:50:00 +0800",
+     "summary": "美媒：全美航班停飞令已解除 据美国媒体13日报道，全美航班停飞令已解除。 进出美国及美国内已有近1.5万架次航班延误或取消 据美国航班跟踪网站13日的数据，当天进出美国及美国内已有近1.5万架次航班延误或取消。 特朗普说美空管系统故障与网络攻击无关 据美国福克斯新闻频道13日报道，美国总统特朗普当天在接受该媒体记者采访时说，美国空管系统故障与网络攻击或 人工智能 无关，而是由老旧、破损的基础设施导致。 报道援引特朗普的话说，“这看起来不像是网络攻击或 人工智能 之类的……没有人出来认领。如果真的有人对关键基础设施发动了这样的大规模网络攻击，通常会有人出来认领”。 特朗普还说，有关方面第一时间排",
+     "source": "东方财富股票",
+     "zh": "美媒：停飞令已解除；特朗普最新发声"
+    },
+    {
+     "title": "从“可选项”到“必选项”：国际资金圆桌共识——新兴市场看中国",
+     "link": "http://stock.eastmoney.com/news/11215,202611143931296976.html",
+     "pubDate": "Sat, 14 Nov 2026 09:49:19 +0800",
+     "summary": "财联社11月14日讯（记者方彦博） “中国是必选项——不仅在过去、现在，更在未来；它也是未来资产走向全球化的第一站。”在13日举行的2026上海证券交易所国际投资者大会“新兴市场看中国”主题圆桌上，韩国未来资产证券上海首席代表查凌睿坚定地表示。 同台的巴林Blue Aster Capital创始人兼首席执行官西达尔斯·索加尼给出相近判断：“中国过去是可选项，如今已是不可或缺的市场。” 这场汇聚中东、马来西亚、韩国多家头部资管机构高管的圆桌论坛，围绕中国资产的配置价值、投资工具迭代、风险收益与市场期待展开深度交流——从“可选项”到“必选项”，国际资金对中国资产的定位正在发生清晰转向。 增配中国成",
+     "source": "东方财富股票",
+     "zh": "从“可选项”到“必选项”：国际资金圆桌共识——新兴市场看中国"
+    },
+    {
+     "title": "新疆阿克苏地区库车市发生5.0级地震 水利部迅即启动水利抗震救灾调度指挥机制",
+     "link": "http://finance.eastmoney.com/news/1350,202611143931296488.html",
+     "pubDate": "Sat, 14 Nov 2026 09:49:00 +0800",
+     "summary": "2026年11月14日0时17分，新疆阿克苏地区库车市发生5.0级地震（北纬42.22度，东经83.64度），震源深度20千米。水利部迅即启动水利抗震救灾调度指挥机制，组织专题会商，分析地震对水利工程和农村供水影响，研判震区雨水情形势，安排部署水利抗震救灾工作。 水利部根据全国“水利一张图”，迅即排查震区河流、湖泊及水利工程分布情况，第一时间通报新疆维吾尔自治区水利厅，督促指导地方水利部门抓紧摸排震区水利工程震损情况，确保人员安全。目前，震区河湖水情平稳，水利工程运行正常。 震区昨日无降水，预报未来3天仅16日有雨夹雪。水利部将密切关注震区雨情、水情及水利工程运行情况，指导地方水利部门继续做好",
+     "source": "东方财富股票",
+     "zh": "新疆阿克苏地区库车市发生5.0级地震 水利部迅即启动水利抗震救灾调度指挥机制"
+    },
+    {
+     "title": "3.06亿元 利扬芯片拟收购众望达51%股权",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931296654.html",
+     "pubDate": "Sat, 14 Nov 2026 09:46:00 +0800",
+     "summary": "《科创板日报》11月14日讯 利扬芯片 昨日晚间公告称，其与深圳市众望达光电有限公司股东郑鸿章、邓荣辉签署股权收购协议，拟以现金方式收购众望达51%股权，交易对价为3.06亿元，标的公司整体估值为6亿元。 交易完成后，众望达将成为 利扬芯片 控股子公司。此次交易不构成关联交易、不构成重大资产重组；资金来源为自有+自筹，自筹部分 利扬芯片 拟通过商业 银行 专项融资，不高于交易总额80%。 据披露，众望达成立于2004年，是国家级高新技术企业、深圳市 专精特新 中小企业，专注光通讯检测、自动化测试技术、自动化耦合的研发、设计、生产、销售与技术服务，面向光器件、光模块、硅光、CPO、光纤传感、光纤",
+     "source": "东方财富股票",
+     "zh": "3.06亿元 利扬芯片拟收购众望达51%股权"
+    },
+    {
+     "title": "伊朗革命卫队称处于最高战备状态",
+     "link": "http://finance.eastmoney.com/news/11790,202611143931295638.html",
+     "pubDate": "Sat, 14 Nov 2026 09:45:12 +0800",
+     "summary": "伊朗伊斯兰革命卫队总司令瓦希迪11月13日称，伊朗军队已处于“最高战备状态”，以应对任何可能的袭击。一旦遭袭，伊朗将 “深入敌方领土打击敌人，不受任何地理限制”。伊朗近日在多个城市为新近寻获的350名两伊战争期间阵亡的将士遗骸举行葬礼。伊朗总统佩泽希齐扬及多名军方高级官员出席。（CCTV国际时讯） （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗革命卫队称处于最高战备状态"
     },
     {
      "title": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”",
@@ -2282,14 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”"
     },
     {
-     "title": "2026年版国家基本医保药品目录即将发布",
-     "link": "http://finance.eastmoney.com/news/1350,202611143931294215.html",
-     "pubDate": "Sat, 14 Nov 2026 09:36:46 +0800",
-     "summary": "2026 创新药 高质量发展大会今天（14日）在江苏苏州举行。会上，国家医疗保障局、人力资源社会保障部将发布2026年版《国家基本医疗保险、生育保险和工伤保险药品目录》和《商业健康保险 创新药 品目录》。这是国家医保局成立以来连续第9次对国家基本医保药品目录进行调整。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "2026年版国家基本医保药品目录即将发布"
-    },
-    {
      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
      "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
      "pubDate": "Sat, 14 Nov 2026 01:34:11 GMT",
@@ -2298,52 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials"
     },
     {
-     "title": "亿元大单频出 杭州一顶豪项目卖出独立行情",
-     "link": "http://finance.eastmoney.com/news/1359,202611143931292336.html",
-     "pubDate": "Sat, 14 Nov 2026 09:33:33 +0800",
-     "summary": "延续“金九银十”的热度，杭州高端市场再爆大单。 《中国经营报》记者从滨江·传麒府方面了解到，一位买家以2.1亿元的总价，以“打包”方式购入该项目4号楼的上下两套叠加别墅，其中，上叠面积约610平方米、单价13.69万元/平方米，下叠约590平方米，单价21.27万元/平方米，上下叠合计总面积约1200平方米，总价2.1亿元。除前述2.1亿元单子，另外两单的价格分别为1.2亿元和1.5亿元，也是同一位业主及其家庭一次性购买2套房源构成。 事实上，滨江传麒府是杭州高端住宅市场的热盘之一，最近一周内认购3笔亿元级大单，累计金额近5亿元，再度获得市场关注。据杭州透明售房网数据显示，该项目近日推出30套",
-     "source": "东方财富股票",
-     "zh": "亿元大单频出 杭州一顶豪项目卖出独立行情"
-    },
-    {
-     "title": "英伟达连跌6周，超11万亿元市值蒸发",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931294460.html",
-     "pubDate": "Sat, 14 Nov 2026 09:31:50 +0800",
-     "summary": "11月14日消息，随着黄仁勋辞去 英伟达 总裁、首席执行官等相关职务， 英伟达 股价也遭遇惨烈下跌，在周五收跌2%后，其股价本周跌幅近13%，市值蒸发逾5733亿美元（约合人民币3.82万亿元），创下18个月来最差单周表现，而这也是 英伟达 股价连续第6周下跌，累计跌幅超30%，超1.71万亿美元市值蒸发（约合人民币11.43万亿元）。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "英伟达连跌6周，超11万亿元市值蒸发"
-    },
-    {
-     "title": "向买方进发·T份额 | “双轨”七年：投资者算不清“糊涂账”，机构未挣脱“路径锁”",
-     "link": "http://fund.eastmoney.com/news/11246,202611143931293622.html",
-     "pubDate": "Sat, 14 Nov 2026 09:30:25 +0800",
-     "summary": "编者按/7年试点，公募基金投顾终于迎来制度性的“关键一跃”。日前，中国证券投资基金业协会正式下发《关于做好公开募集证券投资基金投资顾问份额设立工作的通知》，就行业有序设立基金投资顾问专属份额（“T类份额”）提出了明确的指导与规范。基金投顾T类份额通过免申购费、免尾佣、投顾费单列，从制度根源物理切断了渠道与投顾的利益绑定。当“卖产品赚佣金”的捷径被切断，“凭专业管账户”成为机构生存的唯一出路。 这是一场从“卖方销售”向“买方投顾”的彻底重构。基金公司被迫回归投研本源，代销渠道直面尾佣退潮的阵痛，而投顾机构则需纯粹靠专业陪伴能力立足。本期专题，我们将穿透费率表象，深度拆解T类份额的政策内核，全景剖",
-     "source": "东方财富股票",
-     "zh": "向买方进发·T份额 | “双轨”七年：投资者算不清“糊涂账”，机构未挣脱“路径锁”"
-    },
-    {
-     "title": "向买方进发·T份额 | T份额落地：费率结构大调整、适用边界新划定、利益链条重新分",
-     "link": "http://fund.eastmoney.com/news/11246,202611143931293521.html",
-     "pubDate": "Sat, 14 Nov 2026 09:30:18 +0800",
-     "summary": "11月上旬，基金业协会下发《关于做好公开募集证券投资基金投资顾问份额设立工作的通知》（以下简称《通知》），标志着公募基金投顾份额（T类份额）正式落地。 作为买方投顾行业里程碑式顶层制度调整，投顾份额直面行业长久存在的双重收费、利益冲突、调仓损耗、尾随佣金失衡等痛点，重塑基金管理人、代销渠道、投顾机构之间的利益分配链条，也将深刻改变普通基民的投资成本与理财选择逻辑。 围绕这一重大行业变革，《中国经营报》记者采访高校学者、基金管理人、科技服务商、券商机构等多方业内人士，从费率重构、适用边界、落地实操三大维度，解码投顾份额的改革内核。 费率结构大调整以“清洁份额”厘清模糊收费地带 《通知》要求，T类",
-     "source": "东方财富股票",
-     "zh": "向买方进发·T份额 | T份额落地：费率结构大调整、适用边界新划定、利益链条重新分"
-    },
-    {
      "title": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”",
      "link": "https://wallstreetcn.com/articles/3785930",
      "pubDate": "Sat, 14 Nov 2026 09:29:54 +0800",
      "summary": "黄仁勋辞去英伟达CEO职务的余波正在硅谷迅速蔓延，以马斯克为代表的科技界领军人物正积极介入，试图推动这位灵魂人物重掌帅印。 北京时间今天清晨，马斯克在社交媒体上公开确认，自己正在签署一份请求黄仁勋复职的请愿书。与此同时， 承载一请愿活动的网站 因访问量激增而面临服务器压力，目前已收集到超过1.4万人的签名支持。 曾在英伟达工作过的核心工程师的公开表态暗示，如果高层未能妥善处理此次变动，公司可能遭遇关键技术人员的离职抗议，这将直接影响英伟达的业务根基。 在科技界看来，强行剥离一位具有行业定义能力的创始人往往伴随着巨大代价。多位知名投资人和行业观察家已经将此次事件与苹果和Uber的历史教训相提并论",
      "source": "华尔街见闻",
      "zh": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”"
-    },
-    {
-     "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled",
-     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 01:28:00 GMT",
-     "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
-     "source": "MarketWatch",
-     "zh": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled"
     },
     {
      "title": "SpaceX launches Starship in key test flight of massive rocket",
@@ -2400,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Cresud expects a 'very good year' as planted area rises 3%"
-    },
-    {
-     "title": "US aviation regulator grounds flights across the country",
-     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-     "pubDate": "Sat, 14 Nov 2026 00:45:56 GMT",
-     "summary": "Airports ordered by Federal Aviation Administration to halt take-offs because of ‘telecommunications outage’",
-     "source": "Financial Times",
-     "zh": "US aviation regulator grounds flights across the country"
     },
     {
      "title": "High Roller expects prediction markets to drive 2027 growth while outlining 24-month Crypto.com exclusivity",
@@ -2488,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "近日，海关总署披露10月份集成电路出口情况。今年10月，集成电路出口金额395.94亿美元，同比增长137.1%；出口数量268.13亿个。 集成电路产业出口额 占比创 历史新高 近年来，我国集成电路产业出海动能持续释放，在全球供应链格局调整中跑出增长曲线。 自今年5月份以来，集成电路连续6个月出口金额超过350亿美元；今年3—9月，连续7个月出口数量超过300亿个。 拉长时间来看，自2024年以来，集成电路出口数量、出口金额稳步上升。2025年出口金额首次突破2000亿美元，出口数量也接近3500亿个。今年1—10月，我国集成电路出口金额合计约3411亿美元，出口数量超过3020亿个；出口金",
      "source": "东方财富资讯",
      "zh": "红利持续释放 集成电路出海大爆发！14只绩优成长股筹划回购稳信心"
-    },
-    {
-     "title": "第三批互换便利有何不同？高股息资产受捧 沪深北交易所全覆盖",
-     "link": "http://forex.eastmoney.com/news/1131,202611143931111482.html",
-     "pubDate": "Sat, 14 Nov 2026 07:28:41 +0800",
-     "summary": "近期，新一批互换便利操作落地，十多家券商已公告完成股票买入，相关标的市场关注度较高。 其中， 国联民生 证券于日前公告完成互换便利操作，买入标的涵盖沪、深、北交易所上市股票，兼顾各板块投资机会，丰富持仓结构。 证券时报记者从券商自营业务人士处了解到，第三批参与互换便利的券商 综合 成本有所下降，机构参与意愿更强、建仓节奏更快。此次买入标的以高股息资产、宽基ETF为主，同时券商也会结合自身投资偏好，适时布局成长股，优化持仓结构。 值得注意的是，和前两批相比，第三批互换便利整体规模更大、参与机构更多。 买入股票覆盖沪深北交易所 自11月3日，央行宣布开展了第三批证券、基金、保险公司互换便利操作，参",
-     "source": "东方财富资讯",
-     "zh": "第三批互换便利有何不同？高股息资产受捧 沪深北交易所全覆盖"
     }
    ]
   },

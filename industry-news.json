@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 15:12:07",
+ "generated_at": "2026/11/14 15:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -449,6 +449,14 @@
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -487,14 +495,6 @@
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
-    },
-    {
-     "title": "Rethinking Memory For AI Inference",
-     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
-     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
-     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1433,14 +1433,6 @@
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "After 14 full-stack flights, SpaceX was attempting something no one in spaceflight history has done:… The post Starship Flight 15: Ship 42 orbital, Booster diverts to ocean appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1481,14 +1473,6 @@
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
-     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1519,22 +1503,6 @@
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
-    },
-    {
-     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
-     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     }
    ]
   },
@@ -1761,12 +1729,84 @@
    "total": 18,
    "items": [
     {
+     "title": "HMD 2320 Flip 4G 功能机曝光：紫光展锐 T127 芯片，1.77 英寸外屏",
+     "link": "https://www.ithome.com/1/027/151.htm",
+     "pubDate": "Sat, 14 Nov 2026 07:23:19 GMT",
+     "summary": "IT之家 11 月 14 日消息，消息源 smashx_60 发文，曝光了 HMD 2320 Flip 4G 翻盖功能机规格信息，该机外观预计和 HMD 2360 Flip 大致相同。 该机配备 1.77 英寸外屏和 2.4 英寸 LCD 内屏，内置 0.3Mp 摄像头。使用紫光展锐 T127 芯片，匹配 64MB RAM 和 128GB 存储空间，搭载 1450mAh 电池（支持 2.75W 充电）。",
+     "source": "IT之家",
+     "zh": "HMD 2320 Flip 4G 功能机曝光：紫光展锐 T127 芯片，1.77 英寸外屏"
+    },
+    {
+     "title": "AI时代，公司越来越扁平，也越来越官僚",
+     "link": "https://www.tmtpost.com/8205239.html",
+     "pubDate": "Sat, 14 Nov 2026 15:21:00 +0800",
+     "summary": "未来最有活力的公司，也许不是每件事都管得最细的公司，而是有人敢说：这条规则，该改了。",
+     "source": "钛媒体",
+     "zh": "AI时代，公司越来越扁平，也越来越官僚"
+    },
+    {
+     "title": "新西兰最大零售商 The Warehouse 爆发员工抗议：如厕时间都用 AI 管",
+     "link": "https://www.ithome.com/1/027/150.htm",
+     "pubDate": "Sat, 14 Nov 2026 07:16:26 GMT",
+     "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据英国《独立报》报道，新西兰最大零售商 The Warehouse 集团的员工指控，公司 利用 AI 监控如厕时间 ，导致部分员工不得不在配送中心的通道里大小便。 本周，The Warehouse 集团位于奥克兰和基督城的配送中心有 300 多名员工举行抗议，担心 AI 监控侵犯隐私 ，以及新技术的应用可能引发大规模裁员。 员工认为，公司对机器人的重视程度 甚至超过了员工 ，也对自己的工作前景表达了担忧。IT之家从报道中获悉，一名在配送中心工作了 23 年的员工质问道：“我看着像机器人吗？当然不是。我们之所以来抗议，就是因为这些工作 应该由",
+     "source": "IT之家",
+     "zh": "新西兰最大零售商 The Warehouse 爆发员工抗议：如厕时间都用 AI 管"
+    },
+    {
+     "title": "日产中国：今年合资公司的产品将会出口到 30 多个国家，明年将再翻一倍",
+     "link": "https://www.ithome.com/1/027/149.htm",
+     "pubDate": "Sat, 14 Nov 2026 07:14:18 GMT",
+     "summary": "IT之家 11 月 14 日消息，11 月 13 日，由日产（中国）、东风日产、郑州日产共同打造的 NISSAN DAY 在珠海国际会展中心举行。 据介绍，2026 年，日产汽车已经实现多款在中国研发制造的车型发运到海外，包括已在墨西哥和菲律宾启动销售的锋坦 Frontier Pro 和在菲律宾上市的 N7。 IT之家从官方新闻稿获悉， 今年，合资公司的产品将会出口到 30 多个国家，明年将再翻一倍 。届时，锋坦 Frontier Pro 将进入澳大利亚和新西兰等首批右舵市场，NX8 等车型也将规划出海。 相关阅读： 《 东风日产 NX7 插混 SUV 预售：全系宁德时代电池，12.99 万元",
+     "source": "IT之家",
+     "zh": "日产中国：今年合资公司的产品将会出口到 30 多个国家，明年将再翻一倍"
+    },
+    {
+     "title": "特斯拉和SpaceX最快12月合并？没那么简单，还有3.47万亿美元卡在弃权票上",
+     "link": "https://www.tmtpost.com/8205220.html",
+     "pubDate": "Sat, 14 Nov 2026 15:13:00 +0800",
+     "summary": "SpaceX 与特斯拉推进全股票合并谈判，面临股东表决、多国监管等多重不确定性。",
+     "source": "钛媒体",
+     "zh": "特斯拉和SpaceX最快12月合并？没那么简单，还有3.47万亿美元卡在弃权票上"
+    },
+    {
+     "title": "Astra之后的机器人行业",
+     "link": "https://www.huxiu.com/article/4905567.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 15:11:08 +0800",
+     "summary": "本文来自微信公众号： AI Dancer ，作者：薛定谔的爆米花，原文标题：《没忍住写了五千字：Astra之后的机器人行业》，头图来自：AI生成 这两个月具身圈聊得最多的，应该就是 GPT-6 Astra 了。 一个通用大模型，没有专门为机器人训练过，接上机械臂就能干活。RoboCurve 让它把方块放进碗里，20 次成功 19 次。NVIDIA 拿 120 个仿真任务测，它的成功率是 74.8%，这个榜上之前最好的专用机器人模型是 51%。它还在 RoboDojo 榜上冲到过第一，然后在真机测试里把人家的硬件弄坏了hh。国内凤凰网报道梁文锋最近在密集见具身创业者，DeepSeek 在考虑要不",
+     "source": "虎嗅",
+     "zh": "Astra之后的机器人行业"
+    },
+    {
+     "title": "法国暴乱，波兰“政变”…5000场针对欧洲普通人的访谈, 直指一个被忽略的症结",
+     "link": "https://www.huxiu.com/article/4905600.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 15:09:46 +0800",
+     "summary": "本文来自微信公众号： 文化纵横 ，编辑：王致虚，作者：邵彬瑞 (编译)，原文标题：《法国暴乱 波兰“政变”…5000场针对欧洲普通人的访谈, 直指一个被忽略的症结》 【导读】近期，法国爆发了严重的暴力骚乱，随后，这场暴动扩散到西班牙、意大利等其他欧洲国家。曾经执世界之牛耳、风光无限的欧洲怎么了？从历史的角度看，两次世界大战之后，曾经的欧洲列强们在政治上地位下滑，经济上依赖“马歇尔计划”所提供的援助，安全上则依赖以美国为主导的北约保护。在这一背景下，欧洲开始探索一体化的可能，从煤钢共同体开始，成立欧盟，启用欧元，去缔造一个更强大、更团结、更独立的欧洲。 但是，当下的欧洲正面临着生活成本高企、难民",
+     "source": "虎嗅",
+     "zh": "法国暴乱，波兰“政变”…5000场针对欧洲普通人的访谈, 直指一个被忽略的症结"
+    },
+    {
+     "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现",
+     "link": "https://www.ithome.com/1/027/148.htm",
+     "pubDate": "Sat, 14 Nov 2026 07:09:10 GMT",
+     "summary": "IT之家 11 月 14 日消息，据摩尔线程公众号，近日，清华大学自动化系江瑞课题组发布了面向单细胞蛋白组的基础模型 ProtCell，完成了论文《ProtCell:a foundation model for single-cell proteomics》。该模型汇集约 3.8 亿个细胞、98 个公开数据集用于预训练与评估，能够精准映射细胞状态、推断未测蛋白表达，为药物研发与前沿“虚拟细胞”构建提供了关键底座支撑。 论文同时披露， 团队在摩尔线程旗舰级 AI 训推一体智算卡 MTT S5000 上成功完成了 ProtCell 的全流程预训练复现，主要定量评测指标与国际主流 GPU 平台的差异",
+     "source": "IT之家",
+     "zh": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现"
+    },
+    {
      "title": "国能卖壳，宝丰接盘，英力特这笔交易赌的不是光伏，是出清期的生存权",
      "link": "https://www.tmtpost.com/8205215.html",
      "pubDate": "Sat, 14 Nov 2026 15:08:00 +0800",
      "summary": "国能出清亏损英力特，宝丰接壳注入光伏谋新融资平台。",
      "source": "钛媒体",
      "zh": "国能卖壳，宝丰接盘，英力特这笔交易赌的不是光伏，是出清期的生存权"
+    },
+    {
+     "title": "《巫师 3》新 DLC 杰洛特波兰语配音演员中风后声音沙哑，CDPR 利用 AI 技术还原其早期声线",
+     "link": "https://www.ithome.com/1/027/147.htm",
+     "pubDate": "Sat, 14 Nov 2026 07:05:48 GMT",
+     "summary": "IT之家 11 月 14 日消息，CD Projekt Red 确认，《巫师 3：狂猎》新剧情扩展包《Songs of the Past》杰洛特的波兰语配音将采用 Respeecher 的 AI 语音转换技术进行处理。 IT之家获悉，自 2007 年首部《巫师》游戏推出以来，演员 Jacek Rozenek 一直担任杰洛特的波兰语配音演员，但在 2019 年其中风后声音变得低沉、沙哑。对此， CDPR 没有选择更换配音演员，而是让 Rozenek 亲自继续录制所有新台词，再通过 AI 技术将声音调整至接近早期作品中的效果 。 CDPR 本地化制作人 Mikołaj Szwed 透露，大约一年前",
+     "source": "IT之家",
+     "zh": "《巫师 3》新 DLC 杰洛特波兰语配音演员中风后声音沙哑，CDPR 利用 AI 技术还原其早期声线"
     },
     {
      "title": "A股公司赴港上市潮涌：40家募资超2700亿港元，超110家排队",
@@ -1785,28 +1825,12 @@
      "zh": "车内没有导航的另类解决方案？美车企 Slate 为“2.5 万美元极简皮卡”推出纸质地图"
     },
     {
-     "title": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
-     "link": "https://www.ithome.com/1/027/144.htm",
-     "pubDate": "Sat, 14 Nov 2026 07:02:25 GMT",
-     "summary": "IT之家 11 月 14 日消息，由埃里克 · 特朗普（Eric Trump）投资支持机器人公司 Foundation 的联合创始人迈克 · 勒布朗（Mike LeBlanc）表示， 未来 5~10 年内，全球大部分主要战斗将由机器完成。 在接受福克斯新闻数字版（Fox News Digital）采访时，勒布朗表示：“我预计未来五到十年，人形机器人、地面车辆和无人机将承担大部分主要作战任务，人类只负责特种部队、特种作战以及一些小规模的精准行动。” IT之家援引博文介绍，Foundation 公司已经于今年 2 月交付 2 台 Phantom MK-1 机器人，下一代 MK 2 已接近交付。MK",
-     "source": "IT之家",
-     "zh": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打"
-    },
-    {
      "title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
      "link": "https://www.techmeme.com/261114/p6#a261114p6",
      "pubDate": "Sat, 14 Nov 2026 02:02:17 -0500",
      "summary": "Lucinda Shen / Axios : Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation &nbsp; &mdash;&nbsp; Operand, which uses AI to do due diligence for private equity firms, raised $31 million in seed and Seri",
      "source": "Techmeme",
      "zh": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)"
-    },
-    {
-     "title": "OPPO Reno17 系列参数曝光：2 亿像素主摄，11 月 16 日发布",
-     "link": "https://www.ithome.com/1/027/143.htm",
-     "pubDate": "Sat, 14 Nov 2026 07:00:13 GMT",
-     "summary": "IT之家 11 月 14 日消息，博主 @数码闲聊站 今日对 OPPO Reno17 系列手机参数进行了爆料汇总，新机将于 11 月 16 日 19:00 正式发布。 IT之家附曝光配置如下： OPPO Reno17 6.56 英寸 1.5K LTPS 直屏 骁龙 7 Gen4 处理器 前置 50Mp 镜头，后置 50Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦 8000mAh 电池 +80W 快充 金属中框，光学指纹 OPPO Reno17 Pro 6.32 英寸 1.5K LTPS 直屏 天玑 8550 SUPER 处理器 前置 50Mp，后置 200Mp 主摄 +50M",
-     "source": "IT之家",
-     "zh": "OPPO Reno17 系列参数曝光：2 亿像素主摄，11 月 16 日发布"
     },
     {
      "title": "Outlook Went Down? Microsoft May Owe You Money",
@@ -1817,36 +1841,12 @@
      "zh": "Outlook Went Down? Microsoft May Owe You Money"
     },
     {
-     "title": "TCL 华星赵军：武汉 t12 产线产能已提升至 9K 大板，首款印刷 OLED 产品良率超 70%",
-     "link": "https://www.ithome.com/1/027/142.htm",
-     "pubDate": "Sat, 14 Nov 2026 06:58:27 GMT",
-     "summary": "IT之家 11 月 14 日消息，2026 年 TCL 华星全球显示生态大会（DTC2026）昨日（13 日）举行，推出印刷 OLED 氧化物内补 QHD 500Hz 电竞显示 (27\")。 据财联社报道，TCL 科技集团高级副总裁、TCL 华星首席执行官赵军接受采访时表示， 该产品正在进行相应的开发和进一步完善 ，具体上市时间需根据品牌客户的产品规划节奏确定。 对于市场关注的印刷 OLED 产线爬坡情况，赵军表示，目前武汉的 t12 产线生产情况良好，产能已从过去的每月 3K 大板提升至 9K 大板，且产线良率提升迅速， 首款产品 4 月投入量产后，良率已从刚投产时的个位数提升至目前的约 7",
-     "source": "IT之家",
-     "zh": "TCL 华星赵军：武汉 t12 产线产能已提升至 9K 大板，首款印刷 OLED 产品良率超 70%"
-    },
-    {
-     "title": "谷歌 Gemini 个人智能功能接入 Google Wallet 钱包应用：可为用户消费习惯提供个性化分析建议",
-     "link": "https://www.ithome.com/1/027/141.htm",
-     "pubDate": "Sat, 14 Nov 2026 06:57:17 GMT",
-     "summary": "IT之家 11 月 14 日消息，谷歌宣布 Gemini 的 Personal Intelligence（个人智能）功能已正式支持 Google Wallet 钱包，用户在完成授权后，Gemini 便能根据谷歌 Gemini 个人智能功能接入 Google Wallet：可为用户消费习惯提供个性化分析建议。 谷歌表示，用户只需在 Gemini 对话中输入 @Google Wallet，即可询问个人财务状况、消费情况以及预算规划等问题。用户还可通过 Plaid 将信用卡和银行账户关联至 Google Wallet，以获取更加全面的财务信息。 在具体功能方面，例如 Gemini 可以分析用户上一季",
-     "source": "IT之家",
-     "zh": "谷歌 Gemini 个人智能功能接入 Google Wallet 钱包应用：可为用户消费习惯提供个性化分析建议"
-    },
-    {
      "title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
      "link": "https://www.techmeme.com/261114/p5#a261114p5",
      "pubDate": "Sat, 14 Nov 2026 01:55:00 -0500",
      "summary": "Alice Tecotzky / Business Insider : WhiteMatter, which builds &ldquo;guardian&rdquo; AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A &nbsp; &mdash;&nbsp; A startup using AI agents to keep rogue AI in line has raised $20 milli",
      "source": "Techmeme",
      "zh": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)"
-    },
-    {
-     "title": "谷歌利用多个专业 AI 智能体打造 Teamwork 系统，成功验证多项复杂数学证明",
-     "link": "https://www.ithome.com/1/027/140.htm",
-     "pubDate": "Sat, 14 Nov 2026 06:53:32 GMT",
-     "summary": "IT之家 11 月 14 日消息，谷歌宣布进一步扩展旗下 Antigravity 多智能体系统，利用多个由 Gemini 模型驱动的专业智能体组成 Teamwork 系统，号称可解决“长期悬而未决的数学难题”、“验证复杂数学证明”，并优化各种软件系统性能。 例如，谷歌已成功对韦伊猜想（Weil conjectures）进行形式化证明。这是一组关于有限域上多项式方程解的数量的重要数学结论，最初由数学家皮埃尔 · 德利涅（Pierre Deligne）于 1974 年证明。谷歌 Teamwork-LEAP 系统通过约 2.88 万次子智能体调用，累计生成约 180 万行 Lean 代码，完成了相关",
-     "source": "IT之家",
-     "zh": "谷歌利用多个专业 AI 智能体打造 Teamwork 系统，成功验证多项复杂数学证明"
     },
     {
      "title": "2026欧洲生鲜零售现状",
@@ -1887,22 +1887,6 @@
      "summary": "本文来自微信公众号： 每经头条 ，编辑：金冥羽高涵易启江，作者：每经记者，原文标题：《“人间净土变成了人间炼狱”！美国小城被“星际之门”数据中心逼疯，该国机构实地考察中国乌兰察布同类园区后震惊：美国难以复制》 得克萨斯州是全美数据中心增长最快的地区，但如今，当地正掀起反对浪潮。 2026年美国中期选举中，主张暂停新增数据中心审批的民主党人吉娜·希诺霍萨击败共和党现任州长阿博特，拿下得州州长之位。 在OpenAI“星际之门”数据中心旗舰项目所在地、得州小城阿比林，居民正承受着24小时噪声、夜间强光、住房租金飙升等影响。有当地居民表示，“我们小小的人间净土，现在变成了人间炼狱。” 与此同时，在中国",
      "source": "虎嗅",
      "zh": "“人间净土变成了人间炼狱”，美国小城被“星际之门”数据中心逼疯，该国机构实地考察中国乌兰察布同类园区后震惊：美国难以复制"
-    },
-    {
-     "title": "字节跳动4000亿估值回购：不上市的巨头，正在用现金“定价”自己",
-     "link": "https://www.tmtpost.com/8204099.html",
-     "pubDate": "Sat, 14 Nov 2026 14:44:47 +0800",
-     "summary": "字节以4000亿估值回购60亿美元的股份。",
-     "source": "钛媒体",
-     "zh": "字节跳动4000亿估值回购：不上市的巨头，正在用现金“定价”自己"
-    },
-    {
-     "title": "劝爸妈别刷AI短剧，我太难了",
-     "link": "https://www.tmtpost.com/8205193.html",
-     "pubDate": "Sat, 14 Nov 2026 14:44:43 +0800",
-     "summary": "删掉App、设了限额，都没用。",
-     "source": "钛媒体",
-     "zh": "劝爸妈别刷AI短剧，我太难了"
     },
     {
      "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
@@ -1983,22 +1967,6 @@
      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
      "source": "WIRED",
      "zh": "30% Off Canon Promo Codes | November 2026"
-    },
-    {
-     "title": "Wayfair Coupons: Up to 80% Off November 2026",
-     "link": "https://www.wired.com/story/wayfair-promo-code/",
-     "pubDate": "Sat, 14 Nov 2026 06:00:00 +0000",
-     "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-     "source": "WIRED",
-     "zh": "Wayfair Coupons: Up to 80% Off November 2026"
-    },
-    {
-     "title": "《后会友期》爆火，青春期隐秘的社交硬仗更残酷",
-     "link": "https://www.huxiu.com/article/4905593.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 13:56:08 +0800",
-     "summary": "本文来自微信公众号： 谷雨星球 ，作者：Miley 大家好，我是Miley，一位心理老师。 最近爆火的《后会友期》，又把被很多人忽视的「友情」摆上了讨论桌。 就像有人说的：「爱这个字被‘爱情’霸占了太久，也该还一点给友情了」。 ■很多人都喜欢《后会友期》的文案 作为一名天天和青春期孩子打交道的老师，我太清楚「与同龄人的友情」对他们的重要性了。 比如就在不久前，在心理辅导室里，我接待了一位特殊的来访者。她叫小雅，是大家眼中的「模范生」，成绩优异，性格乖巧。但在最近的一次模拟考中，她因为发挥失常，排名掉了两名，整个人非常崩溃。 她坐在我面前，双手紧紧绞在一起，声音颤抖地说：「老师，我觉得完蛋了。我",
-     "source": "虎嗅",
-     "zh": "《后会友期》爆火，青春期隐秘的社交硬仗更残酷"
     }
    ]
   },
@@ -2079,14 +2047,6 @@
      "summary": "The Motorola Razr 50 Ultra, which is sold in the US as the Razr+ 2024, joined Motorola's Android 17 beta program back in April. Newer models like the Razr Ultra 2026 have since received the stable release, and now it's finally the two-year-old foldable's turn. A Razr 50 Ultra owner on Reddit says th",
      "source": "GSMArena",
      "zh": "Motorola Razr 50 Ultra's Android 17 update becomes available in Europe, with a catch"
-    },
-    {
-     "title": "What you should know before using Adobe’s latest photo-editing tools",
-     "link": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
-     "pubDate": "Fri, 13 Nov 2026 22:07:53 +0000",
-     "summary": "Demonstrations with Adobe’s product managers offered more insight into how the new features work. Trying them myself raised a few more questions.",
-     "source": "DPReview",
-     "zh": "What you should know before using Adobe’s latest photo-editing tools"
     },
     {
      "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
@@ -2247,6 +2207,14 @@
      "summary": "Xiaomi launched the 18 Pro and 18 Pro Max in China back in late September, and the duo is going global on November 17. Now the Xiaomi 18 Pro has taken an important step in its journey towards launching in India as well. The handset's Indian variant, with the model number 2609BPN61I, has been certifi",
      "source": "GSMArena",
      "zh": "Xiaomi 18 Pro gets one step closer to launching in India"
+    },
+    {
+     "title": "Honor 700 series launch date is official just as a carrier listing reveals most specs",
+     "link": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php",
+     "pubDate": "Fri, 13 Nov 2026 14:17:02 +0100",
+     "summary": "Honor already revealed the design of the Honor 700 series last week, and now the company has finally given it a launch date too. The Honor 700, Honor 700 Pro, and Honor 700S will be unveiled in China on November 23 at 2:30 PM local time, and singer and actress Ju Jingyi has been named the lineup's b",
+     "source": "GSMArena",
+     "zh": "Honor 700 series launch date is official just as a carrier listing reveals most specs"
     }
    ]
   },
@@ -2257,6 +2225,70 @@
    "total": 13,
    "items": [
     {
+     "title": "英伟达回应CEO继任者传闻",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931337128.html",
+     "pubDate": "Sat, 14 Nov 2026 15:19:15 +0800",
+     "summary": "据英国《金融时报》13日报道， 英伟达 董事会已就CEO继任事宜接触英国芯片设计公司安谋控股（Arm Holdings）首席执行官雷内·哈斯。 英伟达 董事会回应称，尚未“正式接触”任何候选人，并称一切有关候选人的猜测“为时尚早”。据悉，雷内·哈斯曾在 英伟达 工作约七年，升任计算产品业务副总裁兼总经理，是黄仁勋提携的高管，二人至今仍保持密切关系。2013年，雷内·哈斯加入安谋控股；2022年出任该公司首席执行官，并于次年主导完成公司在 纳斯达克 的上市。分析师预计，下一任首席执行官将面临向更具机构化管理风格转型的压力，同时英伟达还需应对美国国会寻求进一步管制芯片出口的政策压力。 （文章来源：",
+     "source": "东方财富股票",
+     "zh": "英伟达回应CEO继任者传闻"
+    },
+    {
+     "title": "Meta据悉内部测试一款预测市场应用",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931337028.html",
+     "pubDate": "Sat, 14 Nov 2026 15:18:00 +0800",
+     "summary": "据报道，Meta Platforms的员工已开始测试一款名为“Takes”的预测市场应用。报道称，该应用目前尚未向公众开放，至于其未来是否会以及何时发布，目前尚不清楚。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "Meta据悉内部测试一款预测市场应用"
+    },
+    {
+     "title": "超5万人请愿恢复黄仁勋英伟达CEO职务 马斯克参与签名",
+     "link": "http://finance.eastmoney.com/news/11158,202611143931336748.html",
+     "pubDate": "Sat, 14 Nov 2026 15:12:49 +0800",
+     "summary": "11 月 14 日消息，近日，一个名为“Stand with Jensen”的请愿活动在网上流传开来，标题为“三十三年值得一个答案”，要求 英伟达 董事会恢复黄仁勋的 CEO 职务。截至IT之家发文，该活动已收集超过 5.6 万个签名 。 该网站显示，本次活动的组织者和签名者担心，黄仁勋可能在 未经正当程序、甚至没有几天时间为自己申辩 的情况下被迫离职。这正是要求 英伟达 董事会做出解释的原因。 公开信向董事会提出明确要求：在独立调查核实事实的同时，请让黄仁勋回归，除非且直到你们能提供令人信服的证据，证明他的离职符合 英伟达 的最佳利益。 三十三年来，Jensen 全心全意投入到 NVIDIA",
+     "source": "东方财富股票",
+     "zh": "超5万人请愿恢复黄仁勋英伟达CEO职务 马斯克参与签名"
+    },
+    {
+     "title": "马斯克：Cybercab每月299美元自动驾驶订阅费太高",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931336688.html",
+     "pubDate": "Sat, 14 Nov 2026 15:12:20 +0800",
+     "summary": "特斯拉 宣布开始向部分个人用户开放Cybercab购买渠道，起售价 29990 美元，首批车辆预计将于12月交付。不过，目前 Cybercab个人购买资格仅向特定受邀客户开放，首批交付范围也暂时集中在德克萨斯州奥斯汀地区。用户还需支付 1000 美元不可退还的订购定金。此外，车辆必须搭配每月 299 美元的自动驾驶订阅服务才能运行。马斯克在X平台上回应一位用户发布的相关帖子时称：“一旦获得监管批准，该服务将在全美范围内推出。不过它的月费太高了，其定价应与 特斯拉 其他车型上的 FSD（全自动驾驶）及联网服务费用相当，即每月约115 美元。” （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "马斯克：Cybercab每月299美元自动驾驶订阅费太高"
+    },
+    {
+     "title": "长安汽车拟32亿出让10%股权，阿维塔IPO关口突生变数",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931336912.html",
+     "pubDate": "Sat, 14 Nov 2026 15:10:56 +0800",
+     "summary": "冲击港股IPO的关键时期， 长安汽车 却把阿维塔科技（重庆）股份有限公司（下称“阿维塔”）的股权搬上了“货架”。 11月12日，据上海联合产权交易所披露， 长安汽车 拟挂牌转让其所持有的阿维塔10%股权，转让底价为31.83亿元，交易价款需一次性支付。若交易最终落地， 长安汽车 持股比例将由40.99%降至30.99%，仍为阿维塔第一大股东。 这桩交易的核心关注点在于， 股权转让 是否会影响阿维塔的IPO进程。数位熟悉资本市场上市流程的行业人士持有一致观点，认为在招股书递表、但尚未过聆讯期间，标的公司的大股东可以实施 股权转让 ，但此举将触发申报文件更新，需要重新递交上市材料。 “发生的概率极",
+     "source": "东方财富股票",
+     "zh": "长安汽车拟32亿出让10%股权，阿维塔IPO关口突生变数"
+    },
+    {
+     "title": "德国高官：特斯拉汽车可能有间谍风险",
+     "link": "http://stock.eastmoney.com/news/1611,202611143931336155.html",
+     "pubDate": "Sat, 14 Nov 2026 15:10:56 +0800",
+     "summary": "德国图林根州宪法保卫局局长斯特凡·克雷默警告称，马斯克旗下的 特斯拉 汽车 可能构成间谍风险。 克雷默此番表态正值德国官员呼吁限制联网 汽车 停放在政府与军事敏感设施附近之际。 克雷默警告说：“联网 汽车 上的摄像头和定位追踪系统会捕捉敏感信息。”他还建议，公务员和公共雇员不要在联网车辆内讨论机密事项。 克雷默称：“我们不应该想当然地认为朋友之间不会互相监视。同样的安保标准应该适用于 特斯拉 和所有其他制造商。” 特斯拉 在柏林附近运营着一家大型工厂，使其成为少数几家在德国拥有重要生产基地的外国汽车制造商之一。 德国联邦信息安全办公室（BSI）称，德国销售的大多数新车都具备收集信息（包括位置数",
+     "source": "东方财富股票",
+     "zh": "德国高官：特斯拉汽车可能有间谍风险"
+    },
+    {
+     "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+     "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+     "pubDate": "Sat, 14 Nov 2026 07:08:45 GMT",
+     "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
+     "source": "CNBC",
+     "zh": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one"
+    },
+    {
+     "title": "集体跳水！美联储突发警告",
+     "link": "http://finance.eastmoney.com/news/1344,202611143931335717.html",
+     "pubDate": "Sat, 14 Nov 2026 15:07:18 +0800",
+     "summary": "科技股持续走弱。 当地时间周五，美股科技股集体跳水，芯片、AI硬件股领跌，费城 半导体 指数收盘跌超3%。值得注意的是，美股盘后，科技股继续调整， 英伟达 、 SK海力士 跌超1%， 美光科技 、 康宁 、 迈威尔科技 、 SpaceX 等跌超2%。 当天，美联储在一份报告中警示， 人工智能 和高企的资产估值可能构成潜在脆弱性。美联储表示：“资产估值压力仍处高位。股票估值指标持续高企，部分原因是市场对AI的热情。”美联储还称，对企业资本支出和债务发行计划的担忧已使这种热情有所降温。 来看详细报道！ 美联储的最新警告 当地时间周五，美联储发布半年度《金融稳定报告》。报告显示，与 人工智能 行业相",
+     "source": "东方财富资讯",
+     "zh": "集体跳水！美联储突发警告"
+    },
+    {
      "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
      "link": "http://finance.eastmoney.com/news/1345,202611143931334025.html",
      "pubDate": "Sat, 14 Nov 2026 14:51:51 +0800",
@@ -2265,12 +2297,20 @@
      "zh": "中美举行中美经贸磋商机制项下贸易理事会首次会议"
     },
     {
-     "title": "高盛全球股市展望：明年AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”",
+     "title": "高盛2027年全球股市展望：AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”",
      "link": "https://wallstreetcn.com/articles/3785935",
      "pubDate": "Sat, 14 Nov 2026 14:49:41 +0800",
      "summary": "随着AI资本开支热潮接近顶点，全球股市盈利增长引擎正在降速。高盛在最新发布的2027年全球股票策略展望中指出，尽管盈利增速将大幅放缓，当前被市场抛售的成长股——尤其是美国超大规模云计算企业反而具备了布局价值。 高盛首席全球股票策略师Peter Oppenheimer在最新《Finding Value in Growth》的报告中指出， AI相关企业估值已大幅回调，反映出市场对AI资本开支见顶及回报放缓的担忧，这为投资者提供了具有吸引力的入场时机。 云巨头目前以19.7倍预期市盈率交易，不仅低于过去20年历史区间下沿，更低于必需消费品板块的21.0倍，高盛将其定性为\"相对防御性\"资产。 这份展望",
      "source": "华尔街见闻",
-     "zh": "高盛全球股市展望：明年AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”"
+     "zh": "高盛2027年全球股市展望：AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”"
+    },
+    {
+     "title": "美国罕见全国停飞超4小时：空管通信系统故障 上万架次航班受影响",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931336435.html",
+     "pubDate": "Sat, 14 Nov 2026 14:49:15 +0800",
+     "summary": "美国联邦航空管理局（FAA）因空中交通管制 通信 系统故障，罕见地对全国 机场 发布航班暂停起飞指令。 当地时间11月13日，FAA以“特殊情况和安全原因”为由，要求美国所有 机场 暂停航班起飞。此次停飞持续超过4小时，随后FAA宣布解除限制。但预计今明两天仍会出现大范围的航班取消或后续延误状况。 美国交通部长肖恩·达菲（Sean Duffy）表示，故障涉及空管 通信 系统的交换机和路由器，相关设备因数据负荷过大出现异常。 截至记者发稿，FAA尚未公布针对此次全美停飞的完整调查报告。 全美停飞超四小时 据FAA空中交通管制系统指挥中心（ATCSCC）11月13日发布的第111号通告，美国东部时",
+     "source": "东方财富资讯",
+     "zh": "美国罕见全国停飞超4小时：空管通信系统故障 上万架次航班受影响"
     },
     {
      "title": "坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？",
@@ -2345,28 +2385,12 @@
      "zh": "OpenAI撤销独立机器人团队 通用模型“打穿”具身智能？"
     },
     {
-     "title": "特朗普下周访问亚洲 被曝会带马斯克 回避提及英伟达、黄仁勋",
-     "link": "http://finance.eastmoney.com/news/11158,202611143931326337.html",
-     "pubDate": "Sat, 14 Nov 2026 13:19:22 +0800",
-     "summary": "据美联社报道，美国总统特朗普计划下周访问亚洲时带上马斯克。匿名政府官员透露，作为 SpaceX 和 特斯拉 的掌门人，马斯克在经济和国家安全方面拥有重要利益，这使他成为特朗普的宝贵顾问。 官员还透露，特朗普并不打算提及黄仁勋相关事件，美国政府认为 英伟达 事件不会对此次访问产生任何影响。 特朗普将于下周二抵达菲律宾，与东盟各国领导人会晤。在马尼拉期间，他计划与泰国签署贸易协议，并与由美国、印度、澳大利亚和日本组成的“四方安全对话”（Quad）组织举行会晤。 （文章来源：中国新闻社）",
-     "source": "东方财富资讯",
-     "zh": "特朗普下周访问亚洲 被曝会带马斯克 回避提及英伟达、黄仁勋"
-    },
-    {
      "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
      "pubDate": "Sat, 14 Nov 2026 05:08:24 GMT",
      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
      "source": "CNBC",
      "zh": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend"
-    },
-    {
-     "title": "美联储重磅报告：“AI热”正推高资产估值 或对金融系统构成风险",
-     "link": "http://forex.eastmoney.com/news/1131,202611143931323910.html",
-     "pubDate": "Sat, 14 Nov 2026 13:08:16 +0800",
-     "summary": "美东时间周五，美联储发布半年度金融稳定报告中称，美联储正密切关注 数据中心 大规模建设浪潮中的杠杆风险。 美联储还在报告中警告称，一旦美国 人工智能 行业进入下行周期，相关债务违约规模可能高于当前企业资产负债表所体现的水平。 “AI狂热”导致各类资产估值过高 美联储在报告指出，他们在调查中发现， 人工智能 带来的风险以及该领域投资的快速增长已经成为受访者对于金融稳定的首要担忧。 美联储还发现，从股票、公司债到 房地产 ， 各类资产的估值都处于高位；对冲基金当前杠杆水平也已创下2013年以来新高。 “资产估值压力持续处于高位。股票估值指标一直居高不下，部分原因是市场对‘超级智能’（super i",
-     "source": "东方财富资讯",
-     "zh": "美联储重磅报告：“AI热”正推高资产估值 或对金融系统构成风险"
     },
     {
      "title": "The Nvidia board’s artificial independence",
@@ -2439,62 +2463,6 @@
      "summary": "过去，铟最主要的用途是做显示面板。手机、电视的屏幕里，都需要用到它。最近一年，随着人工智能和算力产业链升温，铟又多了一个重要去处：生产光芯片。",
      "source": "经济观察网",
      "zh": "算力抢铟"
-    },
-    {
-     "title": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器",
-     "link": "https://wallstreetcn.com/articles/3785933",
-     "pubDate": "Sat, 14 Nov 2026 11:22:50 +0800",
-     "summary": "SpaceX雄心勃勃的\"双回收\"首秀在第一个环节便遭遇挫折，但飞船任务仍在继续。 美国当地时间11月13日下午， 星舰完成第十五次综合飞行测试发射，然而在级间分离后，V3版本超重型助推器Booster 22未能按计划返回发射场，最终溅落墨西哥湾并发生爆炸，错失由发射塔机械臂捕获的机会。 与此同时，上级飞船Ship 42继续执行轨道任务，部署26颗星链V3卫星，并计划于次日下午尝试返回发射场，由机械臂完成捕获。 星舰超重型助推器溅落发生爆炸，未能按计划完成回收，来源SpaceX 此次任务原本有望创造历史——SpaceX CEO埃隆·马斯克此前将同时回收助推器与飞船称为\"深刻的技术里程碑\"。助推器",
-     "source": "华尔街见闻",
-     "zh": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器"
-    },
-    {
-     "title": "US aviation regulator lifts order that grounded thousands of flights",
-     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-     "pubDate": "Sat, 14 Nov 2026 03:21:57 GMT",
-     "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
-     "source": "Financial Times",
-     "zh": "US aviation regulator lifts order that grounded thousands of flights"
-    },
-    {
-     "title": "传统的圣诞行情，今年的美股还有吗？",
-     "link": "https://wallstreetcn.com/articles/3785929",
-     "pubDate": "Sat, 14 Nov 2026 10:49:13 +0800",
-     "summary": "美股在经历一轮剧烈抛售后，技术面与仓位面同步修复，高盛等华尔街主要机构相继发出年末反弹信号。但这场潜在的\"圣诞行情\"背后，潜伏着一个更难忽视的风险：通胀压力正以超越新冠疫情时期的速度积聚，账单将在明年一月如期呈上。 11月13日，高盛策略师Cosimo Codacci-Pisanelli在最新宏观报告中开门见山地问道：\"圣诞节能提前到来吗？\"他给出的答案是肯定的。 近期股市大幅回调、估值倍数下移、市场仓位大幅减轻，以及季节性因素的支撑，共同构成了年末风险资产向上轧空的条件。 与此同时，摩根士丹利与摩根大通也相继发出类似信号， 前者的数据显示，AI板块正经历15年多来最大规模的集中平仓与降杠杆，",
-     "source": "华尔街见闻",
-     "zh": "传统的圣诞行情，今年的美股还有吗？"
-    },
-    {
-     "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 02:42:00 GMT",
-     "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-     "source": "MarketWatch",
-     "zh": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
-    },
-    {
-     "title": "14 dividend stocks selected for long-term growth",
-     "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 01:58:00 GMT",
-     "summary": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
-     "source": "MarketWatch",
-     "zh": "14 dividend stocks selected for long-term growth"
-    },
-    {
-     "title": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”",
-     "link": "https://wallstreetcn.com/articles/3785931",
-     "pubDate": "Sat, 14 Nov 2026 09:37:31 +0800",
-     "summary": "Anthropic正在冲刺史上最大规模IPO之一，其首席执行官Dario Amodei在上市前路演中展现出刻意低调的姿态——他表示公司希望\"少承诺、多兑现\"，并对上市时机的市场波动表现出相当的淡定。 据《华尔街日报》报道，Amodei于周五在摩根大通纽约总部与摩根大通CEO Jamie Dimon进行了一场直播炉边对话，现有和潜在投资者、Anthropic首席财务官Krishna Rao及Amodei的妻子均在场。 Amodei在对话中表示，公司采取了保守定价策略，他曾多次收到\"永远不要让公司的估值超过其真实价值哪怕一美元\"的建议，并认同这一思路。 Anthropic此次IPO正值市场剧烈震荡",
-     "source": "华尔街见闻",
-     "zh": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”"
-    },
-    {
-     "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-     "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-     "pubDate": "Sat, 14 Nov 2026 01:34:11 GMT",
-     "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-     "source": "CNBC",
-     "zh": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials"
     }
    ]
   },

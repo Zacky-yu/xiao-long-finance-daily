@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 08:32:02",
+ "generated_at": "2026/11/14 08:52:03",
  "recent_days": 7,
  "industries": [
   {
@@ -450,14 +450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -941,7 +941,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -992,14 +992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla is an interesting company at an interesting phase of the electric vehicle transition. Well, it has always been an interesting company in this transition. However, lately, as the industry has moved quickly into a new phase, I have been wondering where Tesla will sit amidst it in the coming ... ",
      "source": "CleanTechnica",
      "zh": "Is Tesla The Apple Of The EV Industry?"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "Sodium-ion batteries are approaching lithium-ion performance in key areas, with commercial cells reaching energy densities of 175 Wh/kg and offering strong low-temperature performance. Silvia Bodoardo, professor at the Polytechnic University of Turin, told pv magazine that utility-scale energy stora",
      "source": "pv magazine",
      "zh": "Sodium-ion batteries close gap with lithium-ion as utility-scale storage opportunities grow"
+    },
+    {
+     "title": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South Africa",
+     "link": "https://www.pv-tech.org/ja-supply-n-type-modules-teracos-120mw-sediba-solar-project-south-africa/",
+     "pubDate": "Fri, 13 Nov 2026 10:26:53 +0000",
+     "summary": "Teraco has selected JA to deliver n-type solar PV modules to its 120MW Sediba solar PV project in Parys, Free State province, South Africa.",
+     "source": "PV Tech",
+     "zh": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South Africa"
     }
    ]
   },
@@ -1434,6 +1434,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "After 14 full-stack flights, SpaceX was attempting something no one in spaceflight history has done:… The post Starship Flight 15: Ship 42 orbital, Booster diverts to ocean appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1474,6 +1482,14 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1506,12 +1522,20 @@ window.INDUSTRY_DATA = {
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
     },
     {
-     "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
-     "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
-     "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
-     "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
-     "source": "Spaceflight Now",
-     "zh": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
+    },
+    {
+     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
+     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     }
    ]
   },
@@ -1738,20 +1762,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "英特尔新一代酷睿露面：Razor Lake 台式机、笔记本型号标识获确认",
-     "link": "https://www.ithome.com/1/027/025.htm",
-     "pubDate": "Sat, 14 Nov 2026 00:26:20 GMT",
-     "summary": "IT之家 11 月 14 日消息，科技媒体 TechPowerUp 昨日（11 月 13 日）发布博文，报道称英特尔本月（2026 年 11 月）更新的《架构指令集扩展编程参考》（第 063 版）中，新增了 Razor Lake 消费级处理器与 Coral Rapids 至强服务器处理器的型号标识。 第 063 版文档显示，Razor Lake 与 Nova Lake 同属编号为 18（十六进制 12H）的处理器家族。其中，12_06H、12_0AH 对应台式机，12_07H、12_09H 对应笔记本。这些是供软件识别处理器的底层标识，并非消费者购买时看到的商品型号。 新功能方面，Razor ",
-     "source": "IT之家",
-     "zh": "英特尔新一代酷睿露面：Razor Lake 台式机、笔记本型号标识获确认"
+     "title": "迪安诊断的千万份AI报告值多少钱？",
+     "link": "https://www.huxiu.com/article/4905545.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 08:41:31 +0800",
+     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 迪安诊断的病理AI，已经跑通了按病例计费的流程。 今年5月13日的投资者关系记录里，有投资者问，病理AI的按效付费模式落地了多少家，收费标准和回款怎么样。 公司的回应是： 目前还在从试点向规模化复制过渡，重庆、浙江、江苏等地已经完成了装机试用、正式启用到按病例计费的流程验证，单例收费标准通常在75到105元之间，主要参考各地落地政策。 公司还提到，跟软硬件销售相比，按效付费前期需要承担部署和市场教育成本，等病例量上来，成熟期毛利率通常更高。 说起来，这套模式挺好理解，以前卖软硬件，卖出去就算一单；现在按实际使用量收费，病例越多，生意才越有可能做大。",
+     "source": "虎嗅",
+     "zh": "迪安诊断的千万份AI报告值多少钱？"
     },
     {
-     "title": "日产 Z NISMO 硬顶跑车国内首发：售价 66 万元，半年内全国仅 9 台配额",
-     "link": "https://www.ithome.com/1/027/024.htm",
-     "pubDate": "Sat, 14 Nov 2026 00:21:22 GMT",
-     "summary": "IT之家 11 月 14 日消息，11 月 13 日，在 NISSAN DAY 现场，日产 Z NISMO 硬顶跑车国内首发，建议售价 66 万元。 新车承袭日产赛道冠军血统，由传奇赛车运动团队打造，主打赛道取向调校。该车型尺寸为 4399*1869*1316mm，轴距为 2550mm。 动力上，日产 Z NISMO 搭载 NISMO 专属调校的 3.0 升双涡轮增压 DOHC 24 气门 V6 发动机，最大功率 313kW（420 马力），峰值扭矩 521N・m，匹配经过强化的 9 速自动变速箱，并新增“Sport+ Drive Mode”运动 + 驾驶模式。 IT之家附主要硬件配置如下： ",
-     "source": "IT之家",
-     "zh": "日产 Z NISMO 硬顶跑车国内首发：售价 66 万元，半年内全国仅 9 台配额"
+     "title": "「智能组织」还需要百度吗",
+     "link": "https://www.huxiu.com/article/4905543.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 08:41:18 +0800",
+     "summary": "本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部，原文标题：《「智能组织」还需要百度吗》 AI行业最容易制造一种错觉：谁先把趋势说出口，谁就有资格领导趋势。 11月12日，李彦宏在百度世界2026上把“智能组织”称为AI的下一幕。他用了一个颇具传播力的类比：AI是新电能，智能组织就是AI时代的新厂房。企业只更换AI工具，相当于给旧工厂换了一台电机；只有重新设计组织，生产力才能真正被释放。 这个判断没有错，甚至可能是今年大厂组织变革最准确的一句概括。 但百度需要回答的不是“智能组织会不会来”，而是“它凭什么由百度来定义”。 看见未来和拥有未来，是两回事。 百度过去并不缺少前一种能力，它始终",
+     "source": "虎嗅",
+     "zh": "「智能组织」还需要百度吗"
+    },
+    {
+     "title": "“早7晚12”、一场只赚十几块，农村女性为何还要做直播",
+     "link": "https://www.huxiu.com/article/4905544.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 08:40:19 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：叶橙子，编辑：贾小凡 自媒体成为这些农村女性目之所及的唯一“工作”，为她们的人生带来了意想不到的冲击与改变。 江子祎快要赶到做田野研究的村庄时，收到了来自访谈对象的消息。对方告诉她，原本答应好的研究访谈做不成了。 从对方的自媒体账号上，江子祎了解到了前因。此前，这名访谈对象因心情不好，与女性友人一同离开村子，去附近的镇子上散心，住了一晚。隔天，她的婆婆传出谣言称她出轨了，从外地打工回来的丈夫因此同她发生矛盾。这之后，丈夫便不希望她再和外界有过多接触，包括接受访谈。 江子祎是一名年轻创作者，她的毕业课题关注农村女性自媒体创作者的劳动处境，课题灵感则源自近年来",
+     "source": "虎嗅",
+     "zh": "“早7晚12”、一场只赚十几块，农村女性为何还要做直播"
+    },
+    {
+     "title": "从电商包裹到高科技货物，全球空运的增长引擎变了",
+     "link": "https://www.huxiu.com/article/4905542.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 08:30:31 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月3日，阿联酋航空货运公司推出了一项新业务，叫AI Tech。 这项服务专门运输服务器、GPU、半导体和数据中心设备。客户可以获得优先装机、特殊货物操作和全程追踪。迪拜货运控制中心负责监控运输节点，处理途中出现的异常情况。 阿联酋航空在公告中特别提到了一种货物：服务器机柜。 一台装满设备的机柜，重量可能超过3.5吨，高度超过2米。普通货物使用的装卸设备很难处理这样的大家伙。部分精密设备还需要保持固定姿态，避免运输途中发生倾斜和冲击。 航空公司为此安排专门的装卸流程，提前确认机场设备和飞机货舱能否容纳。 阿联酋航空今年7月已经运",
+     "source": "虎嗅",
+     "zh": "从电商包裹到高科技货物，全球空运的增长引擎变了"
     },
     {
      "title": "雷蛇辉月神专业版电竞椅发布：六马达多区域触觉反馈、THX 扬声器、RGB 灯效，7999 元",
@@ -1786,6 +1826,14 @@ window.INDUSTRY_DATA = {
      "zh": "脑机接口开始抢“生意人”"
     },
     {
+     "title": "First Strike",
+     "link": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html",
+     "pubDate": "Sat, 14 Nov 2026 00:00:59 +0000",
+     "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html Comments URL: https://news.ycombinator.com/item?id=50491944 Points: 29 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "First Strike"
+    },
+    {
      "title": "拳头公布 2027《英雄联盟》赛事规划：先锋赛 All In 中国，全球总决赛首进日本（横跨日韩两地）、MSI 首次落地西班牙",
      "link": "https://www.ithome.com/1/027/015.htm",
      "pubDate": "Fri, 13 Nov 2026 23:58:58 GMT",
@@ -1794,12 +1842,44 @@ window.INDUSTRY_DATA = {
      "zh": "拳头公布 2027《英雄联盟》赛事规划：先锋赛 All In 中国，全球总决赛首进日本（横跨日韩两地）、MSI 首次落地西班牙"
     },
     {
+     "title": "英特尔酷睿 Ultra 7 260K 低调上市：20 核处理器性能比肩 265K，但仅随整机销售",
+     "link": "https://www.ithome.com/1/027/014.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:55:06 GMT",
+     "summary": "IT之家 11 月 14 日消息，Tom's Hardware 发现英特尔近日悄悄推出了一款酷睿 Ultra 7 260K 处理器，搭载该 CPU 的整机已经出现在新蛋网（Newegg）中。 这款处理器拥有 20 颗物理核心，但目前不提供独立零售，仅面向 ABS 品牌整机销售。新蛋网向该媒体确认，这款处理器为平台独占型号，只会通过旗下 ABS 品牌预装整机销售。 Tom's Hardware 后续更新称，英特尔已向该媒体确认，这是一款限量供应（limited-availability）的 SKU 型号，目前不会以盒装零售处理器的形式单独销售，相关规格预计将在随后几天公布。 从目前已公开的信息来",
+     "source": "IT之家",
+     "zh": "英特尔酷睿 Ultra 7 260K 低调上市：20 核处理器性能比肩 265K，但仅随整机销售"
+    },
+    {
      "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)",
      "link": "https://www.techmeme.com/261113/p35#a261113p35",
      "pubDate": "Fri, 13 Nov 2026 18:55:00 -0500",
      "summary": "CBS News : Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash &nbsp; &mdash;&nbsp; Kierra Frazier is a news editor for CBS News & Stations.&nbsp; &mdash;&nbsp; Faris Tanyos is a news editor for CBS",
      "source": "Techmeme",
      "zh": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)"
+    },
+    {
+     "title": "目标替代微软 Office：欧洲开源办公软件 Euro-Office 桌面版上线，断网也能办公",
+     "link": "https://www.ithome.com/1/027/013.htm",
+     "pubDate": "Fri, 13 Nov 2026 23:51:46 GMT",
+     "summary": "IT之家 11 月 14 日消息，欧洲开源办公软件 Euro-Office 正式走出浏览器，以 Nextcloud Office Desktop 的名称， 推出可直接安装的桌面版本，覆盖 Windows、macOS 和 Linux 平台，希望成为微软 Office 的替代选择。 新版应用集成文档、电子表格、演示文稿及 PDF 编辑功能。官方称，其对微软 Office 的 DOCX、XLSX、PPTX 格式以及 ODT、ODS、ODP 等开放格式具有较高兼容性。用户无需联网即可编辑本地文件，并自行决定哪些资料保留在电脑上、哪些放入云端。IT之家附上相关图片如下： 需要团队协作时，用户可连接 Ne",
+     "source": "IT之家",
+     "zh": "目标替代微软 Office：欧洲开源办公软件 Euro-Office 桌面版上线，断网也能办公"
+    },
+    {
+     "title": "What Happened to 3Com?",
+     "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+     "pubDate": "Fri, 13 Nov 2026 23:48:59 +0000",
+     "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 9 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "What Happened to 3Com?"
+    },
+    {
+     "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
+     "link": "https://github.com/mjha-arya/DOC-foundry",
+     "pubDate": "Fri, 13 Nov 2026 23:40:12 +0000",
+     "summary": "Article URL: https://github.com/mjha-arya/DOC-foundry Comments URL: https://news.ycombinator.com/item?id=50491753 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Doc-foundry – AI writes Security detection rules, then proves they work"
     },
     {
      "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
@@ -1829,17 +1909,17 @@ window.INDUSTRY_DATA = {
      "title": "Terminal borders that don't cost a cell",
      "link": "https://www.joshka.net/cell-borders/",
      "pubDate": "Fri, 13 Nov 2026 23:06:40 +0000",
-     "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 26 # Comments: 11",
+     "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 29 # Comments: 13",
      "source": "Hacker News",
      "zh": "Terminal borders that don't cost a cell"
     },
     {
-     "title": "一小时10元，她把自己卖给机器人",
-     "link": "https://www.huxiu.com/article/4905184.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 07:00:03 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜易玉琴 编辑｜苗正卿 头图｜AI 生成 10元一小时，张莉（化名）把自己&ldquo;蒸馏&rdquo;了。 她是制衣厂的一名缝纫工。几个月前，工厂给工人们发了一套新设备，外形有点像头灯，通过绑带固定在头部，前端装着一个小型摄像头。 厂里说，只要戴着它正常上班，每小时就能额外获得10元补贴。 张莉没多想。工作还是原来的工作，只是头上多了个东西，戴久了有些累，但好歹能多挣点钱。 很快，厂里几乎所有工人都戴上了设备。缝纫机照常运转，工人们每天重复着铺平布料、翻折、缝合等动作，只是这一切，如今都被头顶的摄像头记录下来。 他们只知道，自己多了一笔收入。至于这些视频最终会流向哪里",
-     "source": "虎嗅",
-     "zh": "一小时10元，她把自己卖给机器人"
+     "title": "How Not to Build a Music Player",
+     "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+     "pubDate": "Fri, 13 Nov 2026 23:04:30 +0000",
+     "summary": "Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "How Not to Build a Music Player"
     },
     {
      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
@@ -1850,12 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price"
     },
     {
-     "title": "US National Weather Service reports nationwide internet, communications issues",
-     "link": "https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/",
-     "pubDate": "Fri, 13 Nov 2026 22:46:53 +0000",
-     "summary": "Article URL: https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/ Comments URL: https://news.ycombinator.com/item?id=50491209 Points: 24 # Comments: 8",
+     "title": "Lying to Zed to get its remote server running on FreeBSD",
+     "link": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
+     "pubDate": "Fri, 13 Nov 2026 22:54:47 +0000",
+     "summary": "Article URL: https://hayzam.com/blog/03-lying-to-zeds-remote-editor/ Comments URL: https://news.ycombinator.com/item?id=50491295 Points: 3 # Comments: 0",
      "source": "Hacker News",
-     "zh": "US National Weather Service reports nationwide internet, communications issues"
+     "zh": "Lying to Zed to get its remote server running on FreeBSD"
     },
     {
      "title": "Best Early Black Friday AirPods Deals (2026)",
@@ -1880,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jeremy Hsu / Ars Technica : The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US &nbsp; &mdash;&nbsp; The US government has expanded the use of an AI tool for advising air traffic controllers to as",
      "source": "Techmeme",
      "zh": "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)"
-    },
-    {
-     "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-     "link": "https://orcasairband.com/",
-     "pubDate": "Fri, 13 Nov 2026 22:04:24 +0000",
-     "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 135 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped"
     },
     {
      "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors&apos; stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
@@ -1928,54 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
      "source": "Ars Technica",
      "zh": "FAA expands AI advice to manage air traffic congestion across entire US airspace"
-    },
-    {
-     "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
-     "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
-     "pubDate": "Fri, 13 Nov 2026 21:08:49 +0000",
-     "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop Comments URL: https://news.ycombinator.com/item?id=50489678 Points: 105 # Comments: 31",
-     "source": "Hacker News",
-     "zh": "FAA issues nationwide ground stop due to \"extraordinary circumstances\""
-    },
-    {
-     "title": "All US airports are currently ground stopped",
-     "link": "https://twitter.com/flightradar24/status/2121347654714077605",
-     "pubDate": "Fri, 13 Nov 2026 21:06:52 +0000",
-     "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 144 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "All US airports are currently ground stopped"
-    },
-    {
-     "title": "FAA issues national ground stop",
-     "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-     "pubDate": "Fri, 13 Nov 2026 21:05:53 +0000",
-     "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1153 # Comments: 692",
-     "source": "Hacker News",
-     "zh": "FAA issues national ground stop"
-    },
-    {
-     "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-     "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-     "pubDate": "Fri, 13 Nov 2026 20:07:24 +0000",
-     "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-     "source": "TechCrunch",
-     "zh": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board"
-    },
-    {
-     "title": "In elephants, the resilience of communities has its limits",
-     "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
-     "pubDate": "Fri, 13 Nov 2026 20:03:13 +0000",
-     "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
-     "source": "Ars Technica",
-     "zh": "In elephants, the resilience of communities has its limits"
-    },
-    {
-     "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
-     "link": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
-     "pubDate": "Fri, 13 Nov 2026 19:58:41 +0000",
-     "summary": "For Black Friday, a new quarterly option delivers three bags at a time, each from a different country.",
-     "source": "WIRED",
-     "zh": "Atlas Coffee Club’s Black Friday Deals (2026)"
     }
    ]
   },
@@ -2234,20 +2258,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
+     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+     "pubDate": "Sat, 14 Nov 2026 00:43:55 GMT",
+     "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
+     "source": "CNBC",
+     "zh": "FAA grounds departing flights nationwide, citing air traffic communication system outage"
+    },
+    {
      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 00:21:00 GMT",
+     "pubDate": "Sat, 14 Nov 2026 00:40:00 GMT",
      "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
      "source": "MarketWatch",
      "zh": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far"
     },
     {
-     "title": "US aviation regulator grounds all departing flights",
+     "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+     "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+     "pubDate": "Sat, 14 Nov 2026 00:37:03 GMT",
+     "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+     "source": "CNBC",
+     "zh": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials"
+    },
+    {
+     "title": "SpaceX launches Starship in key test flight of massive rocket",
+     "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+     "pubDate": "Sat, 14 Nov 2026 00:36:29 GMT",
+     "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+     "source": "CNBC",
+     "zh": "SpaceX launches Starship in key test flight of massive rocket"
+    },
+    {
+     "title": "High Roller expects prediction markets to drive 2027 growth while outlining 24-month Crypto.com exclusivity",
+     "link": "https://seekingalpha.com/news/4672727-high-roller-expects-prediction-markets-to-drive-2027-growth-while-outlining-24-month-crypto?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 19:29:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "High Roller expects prediction markets to drive 2027 growth while outlining 24-month Crypto.com exclusivity"
+    },
+    {
+     "title": "US aviation regulator grounds flights across the country",
      "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
      "pubDate": "Sat, 14 Nov 2026 00:17:09 GMT",
-     "summary": "Airports across the country ordered by Federal Aviation Administration to halt all take-offs",
+     "summary": "Airports ordered by Federal Aviation Administration to halt take-offs because of ‘telecommunications outage’",
      "source": "Financial Times",
-     "zh": "US aviation regulator grounds all departing flights"
+     "zh": "US aviation regulator grounds flights across the country"
     },
     {
      "title": "ESS Tech ceases operations, files for Chapter 7 bankruptcy",
@@ -2256,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "ESS Tech ceases operations, files for Chapter 7 bankruptcy"
-    },
-    {
-     "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
-     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-     "pubDate": "Fri, 13 Nov 2026 23:56:10 GMT",
-     "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
-     "source": "CNBC",
-     "zh": "FAA grounds departing flights nationwide, citing air traffic communication system outage"
     },
     {
      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -2314,30 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
     },
     {
-     "title": "美国FDA：批准Gazyva（奥妥珠单抗）注射液用于治疗成人原发性膜性肾病",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931107734.html",
-     "pubDate": "Sat, 14 Nov 2026 07:11:46 +0800",
-     "summary": "美国FDA：批准Gazyva（奥妥珠单抗）注射液用于治疗成人原发性膜性肾病。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国FDA：批准Gazyva（奥妥珠单抗）注射液用于治疗成人原发性膜性肾病"
-    },
-    {
-     "title": "特朗普：正与两党合作推进《电影、电视和娱乐振兴法案》 称娱乐产业被其他国家税收优惠“掏空”",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931107875.html",
-     "pubDate": "Sat, 14 Nov 2026 07:11:25 +0800",
-     "summary": "美国总统特朗普：我正在与共和党与民主党人合作，共同推进《电影、电视和娱乐振兴法案》。推动这件事、把娱乐产业带回美国所获得的支持和受欢迎程度令人难以置信！好莱坞以及许多其他地方，几乎被其他国家提供的税收优惠和其他政策“掏空”了。每个人都对电影和电视产业感受强烈，我也是，我们都想拯救它。它是美国制造的，必须留在美国。娱乐产业已大量转移到加拿大、英国、澳大利亚和其他国家，但演员、制片人和其他所有相关方都想回到家乡！重要的是，这项法案的通过将极大地惠及数十万蓝领工人。在这些税收优惠上投入的资金，将以涌入财政部国库的资金十倍收回。目前正在定期与两党领导人安排会议，以推动此事完成！这是一项非常两党共同推进",
-     "source": "东方财富股票",
-     "zh": "特朗普：正与两党合作推进《电影、电视和娱乐振兴法案》 称娱乐产业被其他国家税收优惠“掏空”"
-    },
-    {
-     "title": "巴拉圭将柴油价格下调300巴拉圭镑/升",
-     "link": "http://finance.eastmoney.com/news/1351,202611143931107647.html",
-     "pubDate": "Sat, 14 Nov 2026 07:11:22 +0800",
-     "summary": "巴拉圭将柴油价格下调300巴拉圭镑/升。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "巴拉圭将柴油价格下调300巴拉圭镑/升"
-    },
-    {
      "title": "索罗斯基金Q3大举加码英特尔、Meta，新进SK海力士，减持英伟达",
      "link": "https://wallstreetcn.com/articles/3785924",
      "pubDate": "Sat, 14 Nov 2026 07:07:17 +0800",
@@ -2370,44 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX Flight 15 booster diverts to splashdown, missing planned double catch"
     },
     {
-     "title": "AI应用商业化提速 游戏产业投资机遇凸显",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931105676.html",
-     "pubDate": "Sat, 14 Nov 2026 07:03:28 +0800",
-     "summary": "近期， 人工智能 （AI）技术向应用端落地的步伐明显加快，游戏产业作为数字内容的重要阵地，正迎来技术赋能与产业升级交汇的关键节点。随着生成式AI及大模型能力的持续跃升，AI技术正逐步深入游戏研发、内容生产及运营推广等核心环节。 业内人士认为，凭借高度数字化的产业特征及成熟的商业化体系，游戏行业有望成为 AI应用 率先实现规模化落地的领域，该板块的长期投资价值与产业变革机遇也正日益显现。 游戏板块表现活跃 本周游戏板块的强势表现，与政策端、产业端的多重利好形成共振。Wind数据显示，万得网络 游戏概念 指数11月以来累计上涨超过13%。指数成分股中， 北纬科技 、 大晟文化 近10个交易日累计上",
-     "source": "东方财富股票",
-     "zh": "AI应用商业化提速 游戏产业投资机遇凸显"
-    },
-    {
-     "title": "头部公司领衔回购 港股回购阵营持续扩容",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931105512.html",
-     "pubDate": "Sat, 14 Nov 2026 07:03:24 +0800",
-     "summary": "Wind数据显示，截至11月13日，年内已有375家港股上市公司实施回购，回购金额超1332亿港元； 腾讯控股 以324.44亿港元的回购金额位居榜首， 友邦保险 、小米集团、 中国宏桥 紧随其后。科技行业、医药行业和消费行业的港股上市公司在回购市场中呈现多点开花的态势，中小市值公司也不再是回购市场的旁观者，港股回购正从少数巨头的资本操作演变为全行业、全市值梯队的集体行动。 科技龙头引领 从资金体量上来看，科技行业上市公司仍在这一波港股回购潮中起到引领作用，腾讯自8月中旬起密集回购股份，合计回购6827.67万股，耗资324.44亿港元，稳居全市场首位。小米集团跟随其后，年内累计回购金额达12",
-     "source": "东方财富股票",
-     "zh": "头部公司领衔回购 港股回购阵营持续扩容"
-    },
-    {
-     "title": "晶正电子总裁胡文：十六年磨一剑 啃下“光学硅”硬骨头",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931105457.html",
-     "pubDate": "Sat, 14 Nov 2026 07:03:24 +0800",
-     "summary": "“做硬科技没有捷径，既需要企业耐住寂寞深耕工艺，也需要资本放下短期逐利思维，做长期‘陪跑人’。”济南晶正 电子 科技有限公司创始人、总裁胡文日前在接受中国证券报记者专访时表示。 谈起那一片薄至几百纳米的铌酸 锂 单晶薄膜，胡文语速平缓，眼底藏着十六年闯关的滚烫故事。从9人初创团队，到如今服务全球300余家科研与产业客户的薄膜铌酸 锂 头部企业，在济南科创金融体系的陪伴下，这家扎根泉城的硬科技企业，啃下了光电领域的关键材料这块硬骨头。 深耕光学硅赛道 “做硬科技，注定要经历一段漫长煎熬的时光。”作为济南市首批引进的高层次人才，他从加拿大归国，对比多地之后，最终落脚济南——山东大学晶体材料研究所雄",
-     "source": "东方财富股票",
-     "zh": "晶正电子总裁胡文：十六年磨一剑 啃下“光学硅”硬骨头"
-    },
-    {
      "title": "Trinity Place Holdings GAAP EPS of $0.00",
      "link": "https://seekingalpha.com/news/4672723-trinity-place-holdings-gaap-eps-of-0_00?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 13 Nov 2026 17:57:50 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Trinity Place Holdings GAAP EPS of $0.00"
-    },
-    {
-     "title": "More gold analysts turning bearish as $4,000 support breaks",
-     "link": "https://seekingalpha.com/news/4672708-more-gold-analysts-turning-bearish-as-4000-support-breaks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 17:55:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "More gold analysts turning bearish as $4,000 support breaks"
     },
     {
      "title": "纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万",
@@ -2472,6 +2464,38 @@ window.INDUSTRY_DATA = {
      "summary": "当地时间周五下午， 美国航空 运输系统突发大范围运行中断。 综合 多家媒体报道， 美国联邦航空管理局（FAA）正以“特殊情况及安全原因”为由，发布全国性地面停飞令，要求待起飞航班留在地面，直至另行通知。 FAA同时表示，入境国际航班将逐一处理。截至发稿，监管机构尚未进一步解释此次采取全国性措施的具体原因。 据悉，在全国性停飞令发布前， FAA已报告严重的空管 通信 问题，并暂停了芝加哥航空交通 。随后，限制措施扩大至全国。FAA在通知中要求，所有离场航班继续留在地面，等待进一步通知。 需要区分的是，此次措施属于“地面停飞”（ground stop），即将航班留在出发地、暂停起飞，并不等同于要求",
      "source": "东方财富资讯",
      "zh": "突发：美国联邦航空管理局下令所有航班暂停起飞"
+    },
+    {
+     "title": "Agencies extend comment period for proposed third-party risk management guidance",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+     "pubDate": "Fri, 13 Nov 2026 21:15:00 GMT",
+     "summary": "Agencies extend comment period for proposed third-party risk management guidance",
+     "source": "Federal Reserve",
+     "zh": "Agencies extend comment period for proposed third-party risk management guidance"
+    },
+    {
+     "title": "OpenAI launches ChatGPT Wallet",
+     "link": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 13 Nov 2026 18:28:00 GMT",
+     "summary": "OpenAI has unveiled ChatGPT Wallet, enabling AI agents to pay for purchases on users' behalf without accessing their card details.",
+     "source": "Finextra",
+     "zh": "OpenAI launches ChatGPT Wallet"
+    },
+    {
+     "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+     "pubDate": "Fri, 13 Nov 2026 18:18:28 GMT",
+     "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+     "source": "CNBC",
+     "zh": "Microsoft apologizes for massive outage that took down Outlook and other 365 services"
+    },
+    {
+     "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+     "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
+     "pubDate": "Fri, 13 Nov 2026 17:45:54 GMT",
+     "summary": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
+     "source": "Financial Times",
+     "zh": "Arm boss Rene Haas approached in Nvidia CEO search"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 12:32:07",
+ "generated_at": "2026/11/14 12:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -322,28 +322,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs"
     },
     {
-     "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 17:59:01 +0000",
-     "summary": "One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car. The post Picture of the Day: Lemo drives Sauber F1 to Electronica appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Picture of the Day: Lemo drives Sauber F1 to Electronica"
-    },
-    {
      "title": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout",
      "link": "https://semiwiki.com/eda/quilter/376102-ceo-interview-with-sergiy-nesterenko-of-quilter-on-ai-pcb-layout/",
      "pubDate": "Fri, 13 Nov 2026 17:00:32 +0000",
      "summary": "Sergiy Nesterenko is founder and CEO of Quilter, which builds physics-driven AI for printed circuit board (PCB) layout. He triple majored in mathematics, physics, and chemistry at UC Berkeley and worked in the electromagnetic interference and compatibility (EMI/EMC) group at SpaceX during the early ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout"
-    },
-    {
-     "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 15:17:38 +0000",
-     "summary": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
-     "source": "Electronics Weekly",
-     "zh": "Jedec creates Subcommittee to address System Level Reliability Testing"
     },
     {
      "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
@@ -362,44 +346,12 @@ window.INDUSTRY_DATA = {
      "zh": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage"
     },
     {
-     "title": "Technologies Which Died",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 14:05:31 +0000",
-     "summary": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Technologies Which Died"
-    },
-    {
-     "title": "Electronica: Renesas adds Xplorer Developer Hub",
-     "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 13:58:00 +0000",
-     "summary": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Renesas adds Xplorer Developer Hub"
-    },
-    {
      "title": "Jensen Huang and the Cost of Unchecked Influence",
      "link": "https://semiwiki.com/semiconductor-manufacturers/376254-jensen-huang-and-the-accountability-crisis-at-nvidia/",
      "pubDate": "Fri, 13 Nov 2026 13:00:18 +0000",
      "summary": "As a semiconductor professional with 45 years in the industry, born and raised in Silicon Valley, I’ve followed Nvidia and Jensen Huang from the beginning. Jensen has been my No. 1 semiconductor CEO for many years, and he still is today. My wife and I have met Jensen and his wife, Lori, on several s",
      "source": "SemiWiki",
      "zh": "Jensen Huang and the Cost of Unchecked Influence"
-    },
-    {
-     "title": "Electronica – The latest news roundup",
-     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:12:27 +0000",
-     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Electronica – The latest news roundup"
-    },
-    {
-     "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:09:27 +0000",
-     "summary": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications"
     },
     {
      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Rethinking Memory For AI Inference"
+    },
+    {
+     "title": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall",
+     "link": "https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/",
+     "pubDate": "Thu, 12 Nov 2026 08:08:39 +0000",
+     "summary": "Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. The post Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall"
+    },
+    {
+     "title": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI",
+     "link": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/",
+     "pubDate": "Thu, 12 Nov 2026 08:06:49 +0000",
+     "summary": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI"
+    },
+    {
+     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
+     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
+    },
+    {
+     "title": "JX and OXIDE enter into capital and business alliance agreement",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/jx-oxide-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:39:19 GMT",
+     "summary": "Tokyo-based JX Advanced Metals Corp and OXIDE Corp of Yamanashi, Japan (which specializes in optical crystals and frequency-conversion technology) have entered into a capital and business alliance agreement. JX plans to subscribe for shares to be issued by OXIDE through a third-party allotment and a",
+     "source": "Semiconductor Today",
+     "zh": "JX and OXIDE enter into capital and business alliance agreement"
+    },
+    {
+     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
+     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
+     "source": "Semiconductor Today",
+     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -1762,6 +1762,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "传音应用商店上架后，尼日利亚和肯尼亚的付款回款周期差这么多正常吗？",
+     "link": "https://www.baijing.cn/question/638722",
+     "pubDate": "Sat, 14 Nov 2026 04:42:36 +0000",
+     "summary": "我们做的是面向非洲的轻量工具类应用，起量中阶段，团队6个人，主要通过传音应用商店分发，尼日利亚和肯尼亚两个市场都在跑。上个月在尼日利亚走本地支付渠道收订阅费，用户付款到我们账户平均要T+7，肯尼亚M-Pesa那边T+2就能到，但尼日利亚的失败率还高出一截，大概18%的订单卡在支付渠道回调上。已经试过换支付服务商、缩短回调轮询间隔，还是卡在尼日利亚的结算时效上。想先确认：传音商店分发的应用在这两个市场的回款周期差异，是渠道本身结算节奏决定的，还是我们接入方式有问题？",
+     "source": "白鲸出海",
+     "zh": "传音应用商店上架后，尼日利亚和肯尼亚的付款回款周期差这么多正常吗？"
+    },
+    {
+     "title": "这妹子拉了梁文锋一把",
+     "link": "https://www.huxiu.com/article/4905405.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 12:41:17 +0800",
+     "summary": "出品｜虎嗅科技组 作者｜苗正卿 题图｜AI生成 蓝色头发、鲸鱼&ldquo;耳&rdquo;、鲸鱼尾巴、蓝白色长裙，名为&ldquo;DeepSeek鲸鱼娘&rdquo;的二次元萌妹，正成为梁文锋的最强盟友。 这并非DeepSeek官方原创的IP，而是开发者社区、二次元爱好者的DIY狂欢产物。 但她成为了当下在AI开发者社区人气最高的&ldquo;拟人娘&rdquo;。 &ldquo;DeepSeek鲸鱼娘&rdquo;和DeepSeek10月发布的DeepSeek Harness有极强&rdquo;天然&ldquo;联动效应&mdash;&mdash;由于DeepSeek Harness奉行",
+     "source": "虎嗅",
+     "zh": "这妹子拉了梁文锋一把"
+    },
+    {
+     "title": "日本手游预约期买量，CPS从2800日元涨到4100日元，该继续追还是等上线？",
+     "link": "https://www.baijing.cn/question/638721",
+     "pubDate": "Sat, 14 Nov 2026 04:29:26 +0000",
+     "summary": "我们是一款SLG手游，团队12人，刚上线日本预约期两周，用Meta和X（原Twitter）投放，预约CPS从初期的2800日元涨到4100日元，预约转化率只有1.8%。已经试过换素材、收窄兴趣定向、把预算从日均15万日元加到25万日元，但成本还是往上走。现在卡在要不要继续加预算冲预约量，还是先等上线后看首日留存再决定。另外预约期没有收入，回款要等上线后App Store和Google Play的结算周期，日本区大概要60天左右，现金流压力不小。想直接问：在这种CPS涨幅下，判断继续追预约量还是踩刹车的标准是什么？",
+     "source": "白鲸出海",
+     "zh": "日本手游预约期买量，CPS从2800日元涨到4100日元，该继续追还是等上线？"
+    },
+    {
      "title": "国内车市很可能几年都爬不出坑了",
      "link": "https://www.huxiu.com/article/4905581.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 12:26:19 +0800",
@@ -1834,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "TikTok Shop 美国站达人邀约成本涨到多少了，还要不要继续铺？"
     },
     {
-     "title": "黄仁勋走了，“达链”老板们开始盘订单",
-     "link": "https://www.huxiu.com/article/4905576.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 12:03:09 +0800",
-     "summary": "本文来自微信公众号： 经济观察报 ，作者：郑晨烨 过去，英伟达每一代产品采用什么规格、向上游预订多少产能、给下游客户提供多少资金支持，主要由黄仁勋本人决定。如今他已离任，英伟达未来两年的产品和订单虽已排定，更长远的规划却要交到继任者手中，身处这条产业链的A股上市公司，也因此增加了变数。 北京时间11月12日22时，距离美股开盘还有半个小时，英伟达（NVDA.O）在官网发布公告称，创始人黄仁勋已辞去总裁、首席执行官及董事职务，即刻生效。消息公布后，英伟达股价在当天开盘后一度下跌超过14%，收盘时跌幅收窄至4.34%。 根据公告，英伟达执行副总裁兼首席财务官科莱特·克雷斯（Colette Kres",
-     "source": "虎嗅",
-     "zh": "黄仁勋走了，“达链”老板们开始盘订单"
-    },
-    {
      "title": "预计到 2030 年，我国新增清洁能源电量将覆盖新增用电量",
      "link": "https://www.ithome.com/1/027/074.htm",
      "pubDate": "Sat, 14 Nov 2026 03:52:20 GMT",
@@ -1898,14 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "Take-Two CEO：实体游戏不会消失，但未来会像黑胶唱片一样小众"
     },
     {
-     "title": "巴基斯坦手游充值走本地渠道，3人团队怎么排期才不崩？",
-     "link": "https://www.baijing.cn/question/638716",
-     "pubDate": "Sat, 14 Nov 2026 03:11:31 +0000",
-     "summary": "我们是一款中轻度卡牌手游，刚在巴基斯坦上线两个月，日活约1.2万，团队一共3个人，我兼运营和支付对接。目前Google Play内购之外，接了本地JazzCash和Easypaisa的手动到账流程，但用户充值到账平均要等40分钟，客服每天处理约60条催单，退款率到了8%。试过让用户改用银行卡，转化反而掉了一半；也问过两家聚合支付服务商，报价和结算周期都还没谈拢。现在人手只够每天盯两轮后台，排期上根本抽不出人做渠道对账和异常单跟进。想请教在这种人力约束下，巴基斯坦本地支付渠道该先砍掉哪一环、还是先加人？",
-     "source": "白鲸出海",
-     "zh": "巴基斯坦手游充值走本地渠道，3人团队怎么排期才不崩？"
-    },
-    {
      "title": "打开耗时缩短约 8.7%：微软 Win11 下月将迎新“运行”窗口，支持深色模式",
      "link": "https://www.ithome.com/1/027/069.htm",
      "pubDate": "Sat, 14 Nov 2026 03:11:23 GMT",
@@ -1925,17 +1933,9 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
      "pubDate": "Sat, 14 Nov 2026 02:52:59 +0000",
-     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 80 # Comments: 35",
+     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 109 # Comments: 45",
      "source": "Hacker News",
      "zh": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
-    },
-    {
-     "title": "巴西独立站接Pix，3人运营团队排期该怎么排才不压垮上线节奏？",
-     "link": "https://www.baijing.cn/question/638715",
-     "pubDate": "Sat, 14 Nov 2026 02:50:01 +0000",
-     "summary": "我们做拉美独立站，主推巴西市场，团队一共3个人：1个前端兼运维、1个运营、1个客服兼内容，月投放预算大概1.5万美元。现在要接Pix，本地支付服务商给了两种方案，一种是托管收银台跳转，一种是API直连自己拼结账页。我们试过先上跳转方案，结果结账页多一次跳转后移动端下单转化从3.1%掉到1.9%，客服每天要处理十几条Pix二维码过期和CPF填错的咨询。现在想改直连，但3个人里没人有巴西支付对接经验，运营还要同时盯墨西哥站的选品上新。想请教的是：在只有3个人、墨西哥站不能停更的前提下，Pix直连该排在哪个节点做、要不要先招一个懂本地支付的兼职？",
-     "source": "白鲸出海",
-     "zh": "巴西独立站接Pix，3人运营团队排期该怎么排才不压垮上线节奏？"
     },
     {
      "title": "宁夏“龙头酒庄”斩获近亿元融资，跨产区运作的压力给到西鸽酒庄",
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Ggml v1.0.0",
      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
      "pubDate": "Sat, 14 Nov 2026 02:28:29 +0000",
-     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 67 # Comments: 4",
+     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 79 # Comments: 10",
      "source": "Hacker News",
      "zh": "Ggml v1.0.0"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
      "pubDate": "Sat, 14 Nov 2026 02:21:36 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 68 # Comments: 22",
+     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 79 # Comments: 23",
      "source": "Hacker News",
      "zh": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal"
     },
@@ -2258,6 +2258,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "K-Bro Linen declares CAD 0.10 dividend",
+     "link": "https://seekingalpha.com/news/4672751-k-bro-linen-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 23:44:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "K-Bro Linen declares CAD 0.10 dividend"
+    },
+    {
+     "title": "Lowe's declares $1.25 dividend",
+     "link": "https://seekingalpha.com/news/4672750-lowes-declares-1_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 23:43:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lowe's declares $1.25 dividend"
+    },
+    {
+     "title": "Cathay General Bancorp declares $0.38 dividend",
+     "link": "https://seekingalpha.com/news/4672749-cathay-general-bancorp-declares-0_38-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 23:41:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cathay General Bancorp declares $0.38 dividend"
+    },
+    {
+     "title": "Atlanticus Holdings declares $0.4766 dividend",
+     "link": "https://seekingalpha.com/news/4672748-atlanticus-holdings-declares-0_4766-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 23:40:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Atlanticus Holdings declares $0.4766 dividend"
+    },
+    {
+     "title": "CMS.PR.C declares $0.2625 dividend",
+     "link": "https://seekingalpha.com/news/4672747-cms-pr-c-declares-0_2625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 23:39:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CMS.PR.C declares $0.2625 dividend"
+    },
+    {
+     "title": "12款药新入商保创新药目录，价格协商成功率100%",
+     "link": "http://www.eeo.com.cn/2026/1114/1092864.shtml",
+     "pubDate": "Sat, 14 Nov 2026 12:39:32 +0800",
+     "summary": "所有参与2026年商保创新药目录价格协商的药品，都成功纳入目录。",
+     "source": "经济观察网",
+     "zh": "12款药新入商保创新药目录，价格协商成功率100%"
+    },
+    {
+     "title": "Thomasville Bancshares raises dividend by 16.7% to $1.75",
+     "link": "https://seekingalpha.com/news/4672746-thomasville-bancshares-raises-dividend-by-167-to-175?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 23:38:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Thomasville Bancshares raises dividend by 16.7% to $1.75"
+    },
+    {
      "title": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”",
      "link": "https://wallstreetcn.com/articles/3785936",
      "pubDate": "Sat, 14 Nov 2026 12:21:06 +0800",
@@ -2270,48 +2326,8 @@ window.INDUSTRY_DATA = {
      "link": "http://finance.eastmoney.com/news/1344,202611143931318775.html",
      "pubDate": "Sat, 14 Nov 2026 12:16:45 +0800",
      "summary": "黄仁勋辞职事件仍在发酵，马斯克继续为黄仁勋发声。在一名网友的留言下，马斯克表示，自己将签名支持黄仁勋回归。 黄仁勋辞职前，一位资深工程师曾在 英伟达 内网“建议箱”发帖，希望董事会采取行动前，先听听员工的意见。内部 通信 显示，该帖已有超过1600多条评论，超过97%的员工希望黄仁勋留任。 员工们纷纷表示“ 英伟达 就是黄仁勋，黄仁勋就是 英伟达 ”“我们都是人，都会犯错，黄仁勋做过那么多正确的事，他需要第二次机会”。 11月13日，有网友在社交平台上分享2023年传记电影《AIR》（气垫传奇）中的台词：你将永远被铭记，因为有些东西是永恒的。马斯克回复：“老黄（Jensen）。” 据报道，特朗",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "马斯克：将签名支持黄仁勋复职"
-    },
-    {
-     "title": "微软否认与全美航班停飞事件有关",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931318598.html",
-     "pubDate": "Sat, 14 Nov 2026 12:15:20 +0800",
-     "summary": "美国 微软 公司在社交媒体当地时间11月13日发文称，没有迹象表明美国联邦航空管理局在美全国范围内发布的航班停飞令与任何 微软 服务有关。美国土安全部长马林当天也表示，此次全美航班停飞事件与 微软 无关。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "微软否认与全美航班停飞事件有关"
-    },
-    {
-     "title": "百利天恒：宜泽康成功纳入国家医保目录",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931318635.html",
-     "pubDate": "Sat, 14 Nov 2026 12:15:00 +0800",
-     "summary": "11月14日， 百利天恒 宣布，公司自主研发的EGFR×HER3双抗ADC宜泽康&reg;（伦康依隆妥单抗/iza-bren），通过国家医保谈判，成功纳入《2026年国家基本医疗保险、生育保险和工伤保险药品目录》。新版国家医保目录将于2027年1月1日起正式实施。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "百利天恒：宜泽康成功纳入国家医保目录"
-    },
-    {
-     "title": "黄仁勋辞职：英伟达跌了 谁在上涨？",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931314372.html",
-     "pubDate": "Sat, 14 Nov 2026 12:14:00 +0800",
-     "summary": "市值近28年增超7000倍。 丑闻接踵而至，“压倒”黄仁勋。 当地时间11月12日， 英伟达 公司宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，并任命科莱特·克雷斯为临时首席执行官。 英伟达 的“灵魂人物”辞职，直接冲击了这一AI巨头企业的股价。从 英伟达 董事会于11月8日宣布启动对黄仁勋独立调查，到11月12日黄仁勋黯然离场，英伟达股价四个交易日累计下跌10.96%，市值蒸发逾4800亿美元。 回望过去三十余年，黄仁勋的创业经历颇具传奇色彩。1993年，黄仁勋与两名联合创始人共同创办英伟达，并长期担任CEO，这家最初以图形芯片为主要业务的企业，逐渐成为全球 人工智能 算力市场的重要供应",
-     "source": "东方财富股票",
-     "zh": "黄仁勋辞职：英伟达跌了 谁在上涨？"
-    },
-    {
-     "title": "吴清：深化人工智能与资本市场双向赋能研究",
-     "link": "http://finance.eastmoney.com/news/1350,202611143931317355.html",
-     "pubDate": "Sat, 14 Nov 2026 12:05:44 +0800",
-     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，进一步深化 人工智能 与资本市场双向赋能研究。资本市场既要积极适应新技术变革，在估值定价、信息披露等方面加强制度研究，精准支持相关“硬科技”企业发展壮大并有效增进社会福祉；又要深入研究 人工智能 对生产力和生产关系重塑在资本市场的传导映射，加快研究责任认定、客户保护、系统安全，有效防范算法黑箱、AI网络攻击、提升金融基础设施韧性等重点问题，推动 人工智能 安全规范应用。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "吴清：深化人工智能与资本市场双向赋能研究"
-    },
-    {
-     "title": "吴清：资本市场改革要统筹好稳与进等关系",
-     "link": "http://finance.eastmoney.com/news/1350,202611143931317134.html",
-     "pubDate": "Sat, 14 Nov 2026 12:05:14 +0800",
-     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，新形势下推进资本市场改革发展稳定，有很多重大理论和实践问题需要抓紧深化研究。A股市场有2亿多股票投资者、8亿多基金持有人，这要求在市场建设中，既要研究借鉴成熟市场发展的一般规律，更要深入研究中国的市场特点和面临的结构性问题，坚持市场化、法治化、国际化改革方向的同时，统筹好稳与进、效率与公平、发展与安全等辩证关系，坚定走好中国特色金融发展之路。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "吴清：资本市场改革要统筹好稳与进等关系"
     },
     {
      "title": "吴清：提升资本市场抵御各类“黑天鹅”等风险事件的能力",
@@ -2338,20 +2354,20 @@ window.INDUSTRY_DATA = {
      "zh": "吴清：进一步深化市场稳定长效机制研究 防范市场异常波动"
     },
     {
+     "title": "钠电池最新突破！机构看好未来行业出货量 8只概念股兼具低PE+高股息",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931314414.html",
+     "pubDate": "Sat, 14 Nov 2026 11:57:31 +0800",
+     "summary": "钠离子电池 作为 锂 电池 的重要补充，近年来受到业界、科研界、 资本界 高度关注，产业化进程明显提速。 无负极钠 电池 取得突破 兼顾长寿命与低温性能 据中国科学报消息，近日，西安交通大学材料学院金属材料强度全国重点实验室微纳尺度材料行为研究中心教授薛伟江课题组，提出了一种基于1, 3-二氧六环（DOX）醚的“界面可控聚合”电解液分子设计策略，通过同时促进高度可逆的钠沉积并抑制电解质分解，从而缓解活性钠损失，推动无负极钠金属 电池 实现长循环和宽温域工作。相关成果发表在《自然-能源》上。 团队研究发现，DOX与钠离子之间存在弱配位作用，能够助力钠离子脱溶剂化，实现可逆的金属钠沉积。同时，DO",
+     "source": "东方财富资讯",
+     "zh": "钠电池最新突破！机构看好未来行业出货量 8只概念股兼具低PE+高股息"
+    },
+    {
      "title": "吴清：科学把握节奏的同时加强对科技企业发行上市的制度适配性研究",
      "link": "http://finance.eastmoney.com/news/1350,202611143931311546.html",
      "pubDate": "Sat, 14 Nov 2026 11:55:07 +0800",
      "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，进一步深化制度包容性适应性研究。资本市场作为市场化资源配置的重要平台，要进一步研究深化投融资 综合 改革，加快构建适应创新规律、产业规律的直接融资体系，统筹发挥私募市场与公开市场、股票市场与债券市场的协同功能，尤其是要在科学把握节奏的同时，加强对大型和新型科技企业发行上市的制度适配性和风险应对机制研究。同时，要全面准确理解新质生产力发展的科学内涵，深入研究支持新型消费、传统产业升级等不同领域优质企业上市发展，不断改善和优化上市公司结构，促进市场均衡协调发展。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的",
      "source": "东方财富资讯",
      "zh": "吴清：科学把握节奏的同时加强对科技企业发行上市的制度适配性研究"
-    },
-    {
-     "title": "吴清：研究评估量化、减持等制度的优化和公平合理的监管安排",
-     "link": "http://finance.eastmoney.com/news/1350,202611143931311453.html",
-     "pubDate": "Sat, 14 Nov 2026 11:53:41 +0800",
-     "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，进一步深化市场微观结构研究。为进一步提升市场定价和发展质量，需要深入研究改善资本供给结构，加快发展壮大长期资本、耐心资本；深入研究改善预期引导机制，减少“羊群效应”“短期化”交易带来的市场波动；还要深入研究评估量化交易、股份减持等制度规则的优化和公平合理的监管安排，切实保护好投资者合法权益。 全文 证监会主席吴清在首届中国资本市场学术年会开幕式上致辞 尊敬的小川副主席，忠明市长，贺青副市长， 尊敬的戴维斯主席，萨金特教授、李扬教授、姜纬教授，各位专家， 女士们、先生们、朋友们： 大家上午好！首先我代表中国证监会和中国资本市场",
-     "source": "东方财富资讯",
-     "zh": "吴清：研究评估量化、减持等制度的优化和公平合理的监管安排"
     },
     {
      "title": "AI短剧制作迁入长三角机房",
@@ -2418,60 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
     },
     {
-     "title": "Loma Negra GAAP EPS of Arg$26.07, revenue of Arg$270.1B",
-     "link": "https://seekingalpha.com/news/4672738-loma-negra-gaap-eps-of-arg2607-revenue-of-arg2701b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 21:37:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Loma Negra GAAP EPS of Arg$26.07, revenue of Arg$270.1B"
-    },
-    {
-     "title": "Canagold Resources GAAP EPS of $0.00",
-     "link": "https://seekingalpha.com/news/4672737-canagold-resources-gaap-eps-of-0_00?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 21:34:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Canagold Resources GAAP EPS of $0.00"
-    },
-    {
      "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
      "pubDate": "Sat, 14 Nov 2026 02:33:48 GMT",
      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
      "source": "CNBC",
      "zh": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend"
-    },
-    {
-     "title": "Airlines aim to get passengers on their way as ground stop lifted",
-     "link": "https://seekingalpha.com/news/4672730-airlines-aim-get-passengers-on-their-way-ground-stop-lifted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 21:33:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Airlines aim to get passengers on their way as ground stop lifted"
-    },
-    {
-     "title": "DataMEDS AI GAAP EPS of $2.72, revenue of $2.67M",
-     "link": "https://seekingalpha.com/news/4672736-datameds-ai-gaap-eps-of-272-revenue-of-267m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 21:32:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "DataMEDS AI GAAP EPS of $2.72, revenue of $2.67M"
-    },
-    {
-     "title": "Brookfield Business GAAP EPS of $0.09, revenue of $6.99B",
-     "link": "https://seekingalpha.com/news/4672735-brookfield-business-gaap-eps-of-0_09-revenue-of-6_99b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 21:31:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Brookfield Business GAAP EPS of $0.09, revenue of $6.99B"
-    },
-    {
-     "title": "COSCIENS Biopharma Inc. GAAP EPS of -$3.45, revenue of $2.5M",
-     "link": "https://seekingalpha.com/news/4672733-cosciens-biopharma-inc-gaap-eps-of-3_45-revenue-of-2_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 21:28:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "COSCIENS Biopharma Inc. GAAP EPS of -$3.45, revenue of $2.5M"
     },
     {
      "title": "英伟达没了黄仁勋",
@@ -2482,20 +2450,52 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达没了黄仁勋"
     },
     {
-     "title": "各路玩家抢滩重卡智驾：算不清的账与跨不过的省",
-     "link": "http://www.eeo.com.cn/2026/1114/1092668.shtml",
-     "pubDate": "Sat, 14 Nov 2026 10:15:08 +0800",
-     "summary": "当前重卡智驾迎来了资本与技术叙事的推波助澜，但最终能在竞争中活下来的，还是那些能够在复杂现实运输条件下算得过账的企业。",
-     "source": "经济观察网",
-     "zh": "各路玩家抢滩重卡智驾：算不清的账与跨不过的省"
-    },
-    {
      "title": "14 dividend stocks selected for long-term growth",
      "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
      "pubDate": "Sat, 14 Nov 2026 01:58:00 GMT",
      "summary": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
      "source": "MarketWatch",
      "zh": "14 dividend stocks selected for long-term growth"
+    },
+    {
+     "title": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”",
+     "link": "https://wallstreetcn.com/articles/3785931",
+     "pubDate": "Sat, 14 Nov 2026 09:37:31 +0800",
+     "summary": "Anthropic正在冲刺史上最大规模IPO之一，其首席执行官Dario Amodei在上市前路演中展现出刻意低调的姿态——他表示公司希望\"少承诺、多兑现\"，并对上市时机的市场波动表现出相当的淡定。 据《华尔街日报》报道，Amodei于周五在摩根大通纽约总部与摩根大通CEO Jamie Dimon进行了一场直播炉边对话，现有和潜在投资者、Anthropic首席财务官Krishna Rao及Amodei的妻子均在场。 Amodei在对话中表示，公司采取了保守定价策略，他曾多次收到\"永远不要让公司的估值超过其真实价值哪怕一美元\"的建议，并认同这一思路。 Anthropic此次IPO正值市场剧烈震荡",
+     "source": "华尔街见闻",
+     "zh": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”"
+    },
+    {
+     "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+     "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+     "pubDate": "Sat, 14 Nov 2026 01:34:11 GMT",
+     "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+     "source": "CNBC",
+     "zh": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials"
+    },
+    {
+     "title": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”",
+     "link": "https://wallstreetcn.com/articles/3785930",
+     "pubDate": "Sat, 14 Nov 2026 09:29:54 +0800",
+     "summary": "黄仁勋辞去英伟达CEO职务的余波正在硅谷迅速蔓延，以马斯克为代表的科技界领军人物正积极介入，试图推动这位灵魂人物重掌帅印。 北京时间今天清晨，马斯克在社交媒体上公开确认，自己正在签署一份请求黄仁勋复职的请愿书。与此同时， 承载一请愿活动的网站 因访问量激增而面临服务器压力，目前已收集到超过1.4万人的签名支持。 曾在英伟达工作过的核心工程师的公开表态暗示，如果高层未能妥善处理此次变动，公司可能遭遇关键技术人员的离职抗议，这将直接影响英伟达的业务根基。 在科技界看来，强行剥离一位具有行业定义能力的创始人往往伴随着巨大代价。多位知名投资人和行业观察家已经将此次事件与苹果和Uber的历史教训相提并论",
+     "source": "华尔街见闻",
+     "zh": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”"
+    },
+    {
+     "title": "SpaceX launches Starship in key test flight of massive rocket",
+     "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+     "pubDate": "Sat, 14 Nov 2026 01:18:51 GMT",
+     "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+     "source": "CNBC",
+     "zh": "SpaceX launches Starship in key test flight of massive rocket"
+    },
+    {
+     "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
+     "link": "https://wallstreetcn.com/articles/3785914",
+     "pubDate": "Sat, 14 Nov 2026 09:09:09 +0800",
+     "summary": "OpenAI解散独立机器人团队，押注通用模型直驱具身智能。 11月13日，据《财富》杂志报道， OpenAI已解散独立运营的机器人团队，将相关研究人员分拨至其他部门 。公司表示，此举的直接导火索是GPT-6 Astra等通用前沿模型的意外突破。 研究人员发现，这些模型可被直接应用于机器人控制任务，无需为机器人单独开发专用模型。 在英伟达的一项测试中，由Astra驱动的智能体在模拟操作基准测试中达到74.8%的成功率，优于该榜单上最佳专用机器人模型报告的51.0%。 此次重组同样发生在OpenAI承压削减成本的背景之下 。据报道，该公司最近一个季度的运营亏损高达109亿美元，同时正寻求完成新一轮",
+     "source": "华尔街见闻",
+     "zh": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型"
     }
    ]
   },

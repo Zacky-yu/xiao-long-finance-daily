@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 11:51:54",
+ "generated_at": "2026/11/14 12:12:06",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Wing invests $125 million in US drone manufacturing to support nationwide expansion",
+     "link": "https://roboticsandautomationnews.com/2026/11/14/wing-invests-125-million-in-us-drone-manufacturing-to-support-nationwide-expansion/107107/",
+     "pubDate": "Sat, 14 Nov 2026 04:04:48 +0000",
+     "summary": "Wing, the drone delivery company owned by Alphabet, is investing up to $125 million in US manufacturing over the next two years as it prepares to expand its autonomous delivery network across the country. The investment includes a new 15,000-square-foot manufacturing facility in Fort Worth, Texas, w",
+     "source": "Robotics & Automation",
+     "zh": "Wing invests $125 million in US drone manufacturing to support nationwide expansion"
+    },
+    {
+     "title": "Zipline raises an unbelievable $1.5 billion to build nationwide drone delivery network",
+     "link": "https://roboticsandautomationnews.com/2026/11/14/zipline-raises-an-unbelievable-1-5-billion-to-build-nationwide-drone-delivery-network/107104/",
+     "pubDate": "Sat, 14 Nov 2026 03:56:44 +0000",
+     "summary": "Zipline has announced an extraordinary $1.5 billion raise at a $21.5 billion post-money valuation, led by Paradigm, WCM Investment Management, and Layer Global with participation from Valor Equity Partners, Fidelity Management & Research Company, Uber, Tiger Global, J.P. Morgan, ARK Invest, and Sale",
+     "source": "Robotics & Automation",
+     "zh": "Zipline raises an unbelievable $1.5 billion to build nationwide drone delivery network"
+    },
+    {
      "title": "Neura Robotics partners with E.ON to bring humanoid robots to energy infrastructure",
      "link": "https://roboticsandautomationnews.com/2026/11/14/neura-robotics-partners-with-e-on-to-bring-humanoid-robots-to-energy-infrastructure/107100/",
      "pubDate": "Sat, 14 Nov 2026 03:48:43 +0000",
@@ -535,22 +551,6 @@
      "summary": "ABB Robotics has launched its first end-to-end vision-based industrial-grade physical AI solution, integrating AI Robot Trainer into its Fashion Inductor module to help system integrators deploy, scale and continuously optimize AI-powered fashion logistics applications with significantly reduced eff",
      "source": "Robotics & Automation",
      "zh": "ABB Robotics brings industrial-grade physical AI to fashion logistics"
-    },
-    {
-     "title": "Queue introduces robotic pharmacy kiosk that fills prescriptions in 30 seconds",
-     "link": "https://roboticsandautomationnews.com/2026/11/14/queue-introduces-robotic-pharmacy-kiosk-that-fills-prescriptions-in-30-seconds/107084/",
-     "pubDate": "Sat, 14 Nov 2026 02:52:19 +0000",
-     "summary": "California-based healthcare technology company Queue has introduced an autonomous robotic pharmacy kiosk designed to fill, verify and label prescription medications in approximately 30 seconds. The system can accommodate 340 different medications and uses machine vision to verify every pill before d",
-     "source": "Robotics & Automation",
-     "zh": "Queue introduces robotic pharmacy kiosk that fills prescriptions in 30 seconds"
-    },
-    {
-     "title": "NEXCOM expands RoboWIZ robotics platform with new technology partners",
-     "link": "https://roboticsandautomationnews.com/2026/11/14/nexcom-expands-robowiz-robotics-platform-with-new-technology-partners/107080/",
-     "pubDate": "Sat, 14 Nov 2026 02:44:21 +0000",
-     "summary": "NEXCOM and its robotics subsidiary NexCOBOT have showcased their RoboWIZ AI Robotics Platform at Nvidia GTC Berlin, highlighting an open development ecosystem designed to simplify the integration of artificial intelligence, motion control, perception and safety technologies into robotic systems. The",
-     "source": "Robotics & Automation",
-     "zh": "NEXCOM expands RoboWIZ robotics platform with new technology partners"
     },
     {
      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Who Can Weather the Health Storm?",
+     "link": "https://cleantechnica.com/2026/11/13/who-can-weather-the-health-storm/",
+     "pubDate": "Sat, 14 Nov 2026 03:44:59 +0000",
+     "summary": "States facing the greatest health damage from climate change are the least equipped to protect their residents. Across the United States, climate change is intensifying extreme weather events, resulting in escalating public health harms and severe economic damage. For example, devastating inland flo",
+     "source": "CleanTechnica",
+     "zh": "Who Can Weather the Health Storm?"
+    },
+    {
      "title": "Comparative Cost Analysis for Residential Curbside Organics Collection Programs",
      "link": "https://cleantechnica.com/2026/11/13/comparative-cost-analysis-for-residential-curbside-organics-collection-programs/",
      "pubDate": "Sat, 14 Nov 2026 03:23:44 +0000",
@@ -991,14 +999,6 @@
      "summary": "The hydrogen will be transported through a roughly 25 km former natural gas pipeline converted to carry hydrogen, with deliveries to a TotalEnergies' refinery scheduled to begin in 2027. The post The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany appeared f",
      "source": "pv magazine",
      "zh": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany"
-    },
-    {
-     "title": "Europe’s Hydrogen Strategy Should Begin With the Industrial Customer",
-     "link": "https://cleantechnica.com/2026/11/13/eu-hydrogen-strategy-industrial-demand-pipeline-cost/",
-     "pubDate": "Fri, 13 Nov 2026 15:28:46 +0000",
-     "summary": "Europe is revising hydrogen policy. Industrial products and paying customers should determine hydrogen demand before new pipelines receive support. The post Europe’s Hydrogen Strategy Should Begin With the Industrial Customer appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Europe’s Hydrogen Strategy Should Begin With the Industrial Customer"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1761,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "黄仁勋走了，“达链”老板们开始盘订单",
+     "link": "https://www.huxiu.com/article/4905576.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 12:03:09 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：郑晨烨 过去，英伟达每一代产品采用什么规格、向上游预订多少产能、给下游客户提供多少资金支持，主要由黄仁勋本人决定。如今他已离任，英伟达未来两年的产品和订单虽已排定，更长远的规划却要交到继任者手中，身处这条产业链的A股上市公司，也因此增加了变数。 北京时间11月12日22时，距离美股开盘还有半个小时，英伟达（NVDA.O）在官网发布公告称，创始人黄仁勋已辞去总裁、首席执行官及董事职务，即刻生效。消息公布后，英伟达股价在当天开盘后一度下跌超过14%，收盘时跌幅收窄至4.34%。 根据公告，英伟达执行副总裁兼首席财务官科莱特·克雷斯（Colette Kres",
+     "source": "虎嗅",
+     "zh": "黄仁勋走了，“达链”老板们开始盘订单"
+    },
+    {
+     "title": "太空AI第一股：欠款难收，35亿忙理财？",
+     "link": "https://www.huxiu.com/article/4905296.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 11:51:27 +0800",
+     "summary": "出品 | 妙投APP 作者 | 丁萍 头图 | 视觉中国 11月13日，国星宇航 （06935） 正式登陆港交所，成为&ldquo;太空AI第一股&rdquo;。 资本市场已经给出了不低的期待。截至11月13日，国星宇航市值约152亿港元，折合人民币约129亿元。按照2026年上半年营业收入简单年化计算，对应市销率约28.5倍。 当然，卫星订单交付主要集中在下半年，简单年化可能低估全年收入。但对于一家仍在亏损的企业而言，这样的估值显然已经包含了较高的成长预期。 国星宇航也确实有值得期待的地方。 2025年5月，国星宇航成功发射由12颗AI智算卫星组成的星座，试图将AI计算能力部署到太空。截至2",
+     "source": "虎嗅",
+     "zh": "太空AI第一股：欠款难收，35亿忙理财？"
+    },
+    {
      "title": "东南亚买量素材本地化：4人团队怎么排期才不被素材产能拖死？",
      "link": "https://www.baijing.cn/question/638718",
      "pubDate": "Sat, 14 Nov 2026 03:45:56 +0000",
@@ -1785,6 +1801,14 @@
      "zh": "西西弗买了200块的书但咖啡区不让坐，合理吗？"
     },
     {
+     "title": "用户反馈《GTA 6》实体包装盒存在漏洞：强光照射可直接透视下载码，无需拆封即可兑换",
+     "link": "https://www.ithome.com/1/027/073.htm",
+     "pubDate": "Sat, 14 Nov 2026 03:39:34 GMT",
+     "summary": "IT之家 11 月 14 日消息，有用户发现，部分《侠盗猎车手 6》（GTA 6）实体盒装版本存在兑换码泄露风险：即使不拆开包装，也能通过强光手电筒从包装侧面照射，从而直接看到盒内印刷的下载码。 据 Engadget 今日报道，这些兑换码并非印在单独的纸质卡片上，也没有采用常见的刮刮涂层保护，而是直接印刷在游戏盒内侧封面上。 ResetEra 论坛和 X 平台上已经出现相关照片，展示用户从游戏盒侧面斜向照射强光后，能够透过包装看到兑换码。 目前流出的照片数量较少，尚无法确定这一问题是否普遍存在。ResetEra 上有人指出，问题可能主要涉及部分国际版，至少美国版的盒体采用了额外的遮挡设计，可以",
+     "source": "IT之家",
+     "zh": "用户反馈《GTA 6》实体包装盒存在漏洞：强光照射可直接透视下载码，无需拆封即可兑换"
+    },
+    {
      "title": "欧洲市场支付失败率12%，投放CPA涨到38欧还要继续加预算吗？",
      "link": "https://www.baijing.cn/question/638717",
      "pubDate": "Sat, 14 Nov 2026 03:32:42 +0000",
@@ -1801,6 +1825,14 @@
      "zh": "我们已经能够创造未来，为什么还在重复过去？"
     },
     {
+     "title": "Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场",
+     "link": "https://www.ithome.com/1/027/072.htm",
+     "pubDate": "Sat, 14 Nov 2026 03:30:13 GMT",
+     "summary": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 昨日（11 月 13 日）发布博文，报道称在 Outlook 等服务大面积宕机停服的情况下， 微软官方账号 @MicrosoftLearn 不合时宜地询问：“初学者应该尽早养成哪一个 AI 使用习惯？”。 该推文的发布时机恰好是 Outlook 等服务停服的时段，因此迅速成为网友集中表达不满的留言区。IT之家发稿前，该条推文浏览量超过 218.9 万，回复推文数量达到 1,664 条。 其中一条获得逾 4,000 次点赞的回复写道：“确保你的产品不会出故障。”回复还附上微软服务状态页面截图，列出多项服务连接异常的提示。 ",
+     "source": "IT之家",
+     "zh": "Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场"
+    },
+    {
      "title": "英伟达的技术、泡泡玛特的运营都不是看十年的护城河",
      "link": "https://www.huxiu.com/article/4905572.html?f=rss",
      "pubDate": "Sat, 14 Nov 2026 11:29:03 +0800",
@@ -1815,30 +1847,6 @@
      "summary": "本文来自微信公众号： 瓦砾村夫 ，作者：瓦砾老瓦 1. 黄仁勋辞去英伟达CEO职务后，马斯克多次发帖转帖表达对黄仁勋的支持。 北京时间今天清晨4点51分，马斯克在回复特斯拉资深工程师Yun-Ta Tsai时写道：“有一份请求让黄仁勋复职的请愿书正在推进，我也在签署。” 在原贴中，曾在英伟达工作过的Yun-Ta Tsai写道： “如果英伟达的员工想请黄仁勋回来，就应当从‘没有员工，就没有英伟达’这句话做起——辞职，先歇一歇。优秀的GPU工程师很难找，甚至比机器学习工程师更难替换。工程师如果爱这家公司，就该把自己的命运握在自己手里。塑造并兑现公司使命的是工程师，不是董事会。” 他还写到，自己曾在英",
      "source": "虎嗅",
      "zh": "马斯克：正在签署请求黄仁勋复职的请愿书"
-    },
-    {
-     "title": "“让黄仁勋回归，”马斯克带头，万人请愿挤爆服务器",
-     "link": "https://www.huxiu.com/article/4905570.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 11:26:51 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：叶桢，原文标题：《“让黄仁勋回归！”马斯克带头，万人请愿挤爆服务器》 黄仁勋辞去英伟达CEO职务的余波正在硅谷迅速蔓延，以马斯克为代表的科技界领军人物正积极介入，试图推动这位灵魂人物重掌帅印。 北京时间今天清晨，马斯克在社交媒体上公开确认，自己正在签署一份请求黄仁勋复职的请愿书。与此同时，承载一请愿活动的网站因访问量激增而面临服务器压力，目前已收集到超过1.4万人的签名支持。 曾在英伟达工作过的核心工程师的公开表态暗示，如果高层未能妥善处理此次变动，公司可能遭遇关键技术人员的离职抗议，这将直接影响英伟达的业务根基。 在科技界看来，强行剥离一位具有行业定",
-     "source": "虎嗅",
-     "zh": "“让黄仁勋回归，”马斯克带头，万人请愿挤爆服务器"
-    },
-    {
-     "title": "赵本山：老剧常看常新，新剧越看越旧",
-     "link": "https://www.huxiu.com/article/4905569.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 11:26:50 +0800",
-     "summary": "本文来自微信公众号： 影视独舌 ，作者：安吉玛 过去几年，随着各类喜剧综艺的崛起，围绕喜剧创作，行业反复强调两个关键词：创新和年轻化。仿佛脱离了这两个方向，喜剧就很难跟上时代。 但在剧集领域，赵家班却朝着反方向行进。 从各个层面来看，《走马上任》似乎都有些“不合时宜”。喜剧密度和题材新意不及《鹊刀门传奇》，演员阵容和故事结构也谈不上年轻化。 然而，这样一部看起来并不追逐潮流、口碑一言难尽的作品，却创下了腾讯视频板凳单元新的热度纪录（26495）。 赵家班与当下喜剧创作潮流之间的反差，值得行业重新审视。 创作在退步 与《鹊刀门传奇》不同，《走马上任》把故事背景放在了民国。 赵本山特别主演“舅爷”",
-     "source": "虎嗅",
-     "zh": "赵本山：老剧常看常新，新剧越看越旧"
-    },
-    {
-     "title": "这只AI广告股迎史上最强单日表现，分析师称其股价可能翻倍",
-     "link": "https://www.tmtpost.com/8205214.html",
-     "pubDate": "Sat, 14 Nov 2026 11:25:40 +0800",
-     "summary": "Liftoff Mobile 的人工智能改进推动利润增长，超出预期。",
-     "source": "钛媒体",
-     "zh": "这只AI广告股迎史上最强单日表现，分析师称其股价可能翻倍"
     },
     {
      "title": "Take-Two CEO：实体游戏不会消失，但未来会像黑胶唱片一样小众",
@@ -1889,28 +1897,12 @@
      "zh": "荣耀被曝测试多款豪威影像传感器，“最顶”主摄为 2 亿像素 OVB0D"
     },
     {
-     "title": "“苹果最暗产品”：苹果首款智能家居中枢 HomeView 屏幕最低仅 0.3 尼特",
-     "link": "https://www.ithome.com/1/027/066.htm",
-     "pubDate": "Sat, 14 Nov 2026 02:57:26 GMT",
-     "summary": "IT之家 11 月 14 日消息，昨日（11 月 13 日）在接受 TechRadar 采访时，苹果硬件工程副总裁 Matthew Costello 表示， 苹果首款智能家居中枢 HomeView 屏幕最低仅 0.3 尼特，高管笑称是“最暗的苹果产品”。 IT之家翻译 Costello 采访时回应内容如下： 我非常喜欢 HomeView，这是我们迄今为止设计的产品中最暗的产品，最低亮度降至 0.3 尼特。 所以官方来说，我打造的是苹果公司有史以来最暗的产品。我不知道这是好事还是坏事，但我对此非常自豪。 尼特（nit）是描述屏幕亮度的单位，1 尼特等于 1 坎德拉／平方米。数值越小，意味着在相同",
-     "source": "IT之家",
-     "zh": "“苹果最暗产品”：苹果首款智能家居中枢 HomeView 屏幕最低仅 0.3 尼特"
-    },
-    {
      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
      "pubDate": "Sat, 14 Nov 2026 02:52:59 +0000",
-     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 27 # Comments: 2",
+     "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 44 # Comments: 10",
      "source": "Hacker News",
      "zh": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
-    },
-    {
-     "title": "上汽大通 27 款大拿 M1 上市：83 度宁德时代天行电池，19.28 万元起",
-     "link": "https://www.ithome.com/1/027/065.htm",
-     "pubDate": "Sat, 14 Nov 2026 02:52:02 GMT",
-     "summary": "IT之家 11 月 14 日消息，11 月 13 日，上汽大通 27 款大拿 M1 在国内正式上市，售价 19.28 万元起，搭载 83 度宁德时代天行电池。 IT之家从数据获悉，该车提供 9 座布局 （2+2+2+3 独立、2+2+2+3 联排两种形式），最大座椅间距 750mm，内部空间高度 1675mm。高顶车型车高 2180mm，可畅行 2.2 米以下地库或城市限高路段。 空间方面，该车后厢可容纳 8 个 20 寸登机箱，提供高顶对开尾门与低顶举升尾门两种开启形式；二排为滑动独立座椅，配备前后冷暖空调，侧窗透光面积近 2m²，并标配 USB 接口。 三电方面，该车搭载 83kWh 宁德",
-     "source": "IT之家",
-     "zh": "上汽大通 27 款大拿 M1 上市：83 度宁德时代天行电池，19.28 万元起"
     },
     {
      "title": "巴西独立站接Pix，3人运营团队排期该怎么排才不压垮上线节奏？",
@@ -1940,7 +1932,7 @@
      "title": "Ggml v1.0.0",
      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
      "pubDate": "Sat, 14 Nov 2026 02:28:29 +0000",
-     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 30 # Comments: 1",
+     "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 40 # Comments: 1",
      "source": "Hacker News",
      "zh": "Ggml v1.0.0"
     },
@@ -1969,26 +1961,10 @@
      "zh": "英伟达“跌倒”，会是平头哥和昆仑芯的窗口期吗？"
     },
     {
-     "title": "九州云箭：不造火箭只卖“心脏”，百亿估值的动力供应商启动IPO辅导",
-     "link": "https://www.tmtpost.com/8205186.html",
-     "pubDate": "Sat, 14 Nov 2026 10:23:17 +0800",
-     "summary": "公司背后已聚集市场化创投、产业资本及多地国资平台，投后估值达100亿元，跻身商业航天“独角兽”行列。",
-     "source": "钛媒体",
-     "zh": "九州云箭：不造火箭只卖“心脏”，百亿估值的动力供应商启动IPO辅导"
-    },
-    {
-     "title": "高端鸡蛋卖到近3元一枚，时隔九年重启IPO的圣迪乐村能否跨过鸡周期",
-     "link": "https://www.tmtpost.com/8205183.html",
-     "pubDate": "Sat, 14 Nov 2026 10:23:06 +0800",
-     "summary": "一家卖“高端鸡蛋”的公司，利润依然会被普通鸡蛋的价格周期所左右。",
-     "source": "钛媒体",
-     "zh": "高端鸡蛋卖到近3元一枚，时隔九年重启IPO的圣迪乐村能否跨过鸡周期"
-    },
-    {
      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
      "pubDate": "Sat, 14 Nov 2026 02:21:36 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 44 # Comments: 11",
+     "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 49 # Comments: 18",
      "source": "Hacker News",
      "zh": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal"
     },
@@ -1999,6 +1975,30 @@
      "summary": "新任CEO坐不住了。",
      "source": "钛媒体",
      "zh": "苹果不想一直“躺赢”"
+    },
+    {
+     "title": "银泰到底姓什么？43亿REITs背后的招牌之争",
+     "link": "https://www.tmtpost.com/8204078.html",
+     "pubDate": "Sat, 14 Nov 2026 10:13:00 +0800",
+     "summary": "“天下甬商是一家”的招牌不能丢。",
+     "source": "钛媒体",
+     "zh": "银泰到底姓什么？43亿REITs背后的招牌之争"
+    },
+    {
+     "title": "英伟达第一次没有黄仁勋",
+     "link": "https://www.tmtpost.com/8204046.html",
+     "pubDate": "Sat, 14 Nov 2026 10:09:00 +0800",
+     "summary": "谁来押注下一个十年？",
+     "source": "钛媒体",
+     "zh": "英伟达第一次没有黄仁勋"
+    },
+    {
+     "title": "瑞幸越来越不像一家咖啡公司了",
+     "link": "https://www.tmtpost.com/8204697.html",
+     "pubDate": "Sat, 14 Nov 2026 10:04:53 +0800",
+     "summary": "做加法往往比做减法容易，同时也危险得多。",
+     "source": "钛媒体",
+     "zh": "瑞幸越来越不像一家咖啡公司了"
     }
    ]
   },
@@ -2257,6 +2257,14 @@
    "total": 13,
    "items": [
     {
+     "title": "AI短剧制作迁入长三角机房",
+     "link": "http://www.eeo.com.cn/2026/1114/1092774.shtml",
+     "pubDate": "Sat, 14 Nov 2026 11:47:02 +0800",
+     "summary": "经济观察报记者联系多家北方短剧团队获悉，近两个月来，AI短剧行业出现了算力南迁趋势，不少北方团队正把渲染集群迁往长三角。沪苏浙皖四地发展和改革部门近日联合发布的《数字长三角发展报告（2026）》显示，长三角的智能算力规模占全国近三成。这轮全民刷屏的AI短剧热潮里，利润正沿着产业链，从做剧的人手里，传导至供应算力的机房。",
+     "source": "经济观察网",
+     "zh": "AI短剧制作迁入长三角机房"
+    },
+    {
      "title": "书店，在创造“相遇”中重光",
      "link": "http://www.eeo.com.cn/2026/1114/1092781.shtml",
      "pubDate": "Sat, 14 Nov 2026 11:34:52 +0800",
@@ -2383,14 +2391,6 @@
      "summary": "当前重卡智驾迎来了资本与技术叙事的推波助澜，但最终能在竞争中活下来的，还是那些能够在复杂现实运输条件下算得过账的企业。",
      "source": "经济观察网",
      "zh": "各路玩家抢滩重卡智驾：算不清的账与跨不过的省"
-    },
-    {
-     "title": "比亚迪海外抗辩取得阶段性成果 荷兰海牙法院驳回捷豹路虎突击取证申请",
-     "link": "http://www.eeo.com.cn/2026/1114/1092666.shtml",
-     "pubDate": "Sat, 14 Nov 2026 10:14:40 +0800",
-     "summary": "这次裁定是比亚迪在程序层面的阶段性成功，阻止了捷豹路虎获取自身核心研发数据。但其并未洗清侵权嫌疑，关于Ti7是否实质性抄袭卫士的实体问题，仍有待荷兰法院的进一步审理。鉴于逆向工程指控本身的举证难度，以及Ti7上市时间表带来的紧迫性，这起跨境知识产权纠纷预计难以在短期内彻底了结。",
-     "source": "经济观察网",
-     "zh": "比亚迪海外抗辩取得阶段性成果 荷兰海牙法院驳回捷豹路虎突击取证申请"
     },
     {
      "title": "突然！多国联军发动空袭！",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/16 00:52:03",
+ "generated_at": "2026/11/16 01:02:15",
  "recent_days": 7,
  "industries": [
   {
@@ -1977,6 +1977,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Why do some USB connectors have those 2 square holes?",
+     "link": "https://www.engadget.com/2313749/why-some-usb-connectors-have-2-square-holes/",
+     "pubDate": "Sun, 15 Nov 2026 16:45:00 +0000",
+     "summary": "Some USB connectors, including USB-A, feature two small holes that have an important purpose. Other USB connectors lack these holes for a reason, too.",
+     "source": "Engadget",
+     "zh": "Why do some USB connectors have those 2 square holes?"
+    },
+    {
      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
      "link": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/",
      "pubDate": "Sun, 15 Nov 2026 16:36:12 +0000",
@@ -2047,14 +2055,6 @@
      "summary": "When it comes to 3-in-1 travel chargers, I look at two main things: How fast it can charge my iPhone and how portable it is. I have tested plenty of travel chargers that aim to be as portable as possible by using lightweight materials or folding into a smaller footprint, but there usually seems to b",
      "source": "9to5Mac",
      "zh": "Hands-on: This 25W MagSafe charger is thinner than an iPhone: KUXIU K4 Air [Video]"
-    },
-    {
-     "title": "How much electricity does your home sound system typically use?",
-     "link": "https://www.engadget.com/2313696/how-much-electricity-sound-system-uses/",
-     "pubDate": "Sun, 15 Nov 2026 15:15:00 +0000",
-     "summary": "A home sound system is a great upgrade, but it does use electricity which means you're paying for the power. Here's how to measure how much power it's using.",
-     "source": "Engadget",
-     "zh": "How much electricity does your home sound system typically use?"
     },
     {
      "title": "Tilta Khronos Oppo Find X10 Pro Max Creator Kit hands-on",
@@ -2225,12 +2225,52 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+     "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+     "pubDate": "Sun, 15 Nov 2026 16:56:40 GMT",
+     "summary": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
+     "source": "CNBC",
+     "zh": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration"
+    },
+    {
+     "title": "Nvidia defends employee in Taiwan AI chip smuggling case",
+     "link": "https://seekingalpha.com/news/4672793-nvidia-defends-employee-in-taiwan-ai-chip-smuggling-case?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 11:53:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia defends employee in Taiwan AI chip smuggling case"
+    },
+    {
+     "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+     "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+     "pubDate": "Sun, 15 Nov 2026 16:49:11 GMT",
+     "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
+     "source": "CNBC",
+     "zh": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO"
+    },
+    {
+     "title": "乌克兰总统泽连斯基：如果欧洲不够强大，欧洲所珍视的一切都将丧失",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931526873.html",
+     "pubDate": "Mon, 16 Nov 2026 00:41:55 +0800",
+     "summary": "乌克兰总统泽连斯基：如果欧洲不够强大，欧洲所珍视的一切都将丧失。我们有能力阻止这一切，方法就是让乌克兰成为欧洲的一部分，建设一个更加强大的欧洲，并将欧洲的力量与乌克兰的力量结合起来。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "乌克兰总统泽连斯基：如果欧洲不够强大，欧洲所珍视的一切都将丧失"
+    },
+    {
      "title": "以色列10月CPI同比上涨1.1% 为2021年4月以来最低水平",
      "link": "http://finance.eastmoney.com/news/1346,202611163931526555.html",
      "pubDate": "Mon, 16 Nov 2026 00:40:53 +0800",
      "summary": "以色列10月CPI同比上涨1.1%，为2021年4月以来最低水平；环比下降0.1%。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "以色列10月CPI同比上涨1.1% 为2021年4月以来最低水平"
+    },
+    {
+     "title": "乌克兰总统泽连斯基：俄罗斯总统普京正在推动俄罗斯与欧洲对立",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931526773.html",
+     "pubDate": "Mon, 16 Nov 2026 00:39:55 +0800",
+     "summary": "乌克兰总统泽连斯基：俄罗斯总统普京正在推动俄罗斯与欧洲对立，反对每一位欧洲人所珍视的一切，无论其政治立场如何。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "乌克兰总统泽连斯基：俄罗斯总统普京正在推动俄罗斯与欧洲对立"
     },
     {
      "title": "总台曝光后，浙江金华成立联合调查组",
@@ -2257,14 +2297,6 @@
      "zh": "以色列统计局：以色列10月消费者物价指数(CPI)环比-0.1%，9月为-0.5%"
     },
     {
-     "title": "以色列统计局：以色列10月CPI同比上涨1.1%，9月为上涨1.6%",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931525791.html",
-     "pubDate": "Mon, 16 Nov 2026 00:32:29 +0800",
-     "summary": "以色列统计局：以色列10月CPI同比上涨1.1%，9月为上涨1.6%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "以色列统计局：以色列10月CPI同比上涨1.1%，9月为上涨1.6%"
-    },
-    {
      "title": "Key deals this week: Samsung, Oura, Greenland Energy, Siemens, and more",
      "link": "https://seekingalpha.com/news/4672791-key-deals-this-week-samsung-oura-greenland-energy-siemens-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 11:31:15 -0500",
@@ -2279,14 +2311,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Bessent calls for Nvidia leadership overhaul as export scrutiny intensifies"
-    },
-    {
-     "title": "多项先行指标传递经济发展暖意",
-     "link": "http://finance.eastmoney.com/news/1352,202611163931526398.html",
-     "pubDate": "Mon, 16 Nov 2026 00:28:00 +0800",
-     "summary": "■苏诗钰 日前，国家发展改革委国家信息中心发布的多项先行指标显示，10月份，新型基础设施、新兴产业等领域投资持续升温，消费市场活力稳步释放。多项数据同向共振，勾勒出投资实物工作量加快落地、产业结构持续向新、内需循环逐步畅通的图景。 全国 工程机械 开工率是观察投资落地最直观的窗口。数据显示，10月份全国 工程机械 开工率同比提升0.7个百分点，连续两个月同比、环比增速双双转正，反映出工程项目施工节奏稳步加快。从区域结构看，西北依托风光大基地项目开工热度走高，西南、华南、华东地区交通基建、产业配套项目提速推进，这与政策部署加快推进“六张网”重大 工程建设 的导向相互印证。可以看出，稳投资政策效果",
-     "source": "东方财富股票",
-     "zh": "多项先行指标传递经济发展暖意"
     },
     {
      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
@@ -2327,14 +2351,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Firmus pursues $3B private funding after shelving IPO"
-    },
-    {
-     "title": "NANO Nuclear sees reactor sales opportunity as Air Force work advances",
-     "link": "https://seekingalpha.com/news/4672663-nano-nuclear-sees-reactor-sales-opportunity-as-air-force-work-advances?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 10:03:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NANO Nuclear sees reactor sales opportunity as Air Force work advances"
     },
     {
      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
@@ -2447,22 +2463,6 @@
      "summary": "葛卫东再出手，最新布局方向是 物理AI 。 11月13日，创业公司易博图证实，在其最新一轮融资名单中，知名投资人葛卫东现身。易博图成立于2026年2月，聚焦重载工业 物理AI 领域。梳理发现，葛卫东布局科技板块笃定坚决，在今年三季度科技板块的剧烈调整行情中，葛卫东家族持仓基本不变。 葛卫东出手 锚定AI主线，葛卫东再出手。近日，易博图连续完成两轮融资，合计金额近4亿元。投资方包括葛卫东、辰韬资本、弘毅投资、零一 汽车 、兴富资本、猎鹰投资旗下星奇基金等。 易博图公司的官方公众号转载相关报道予以证实。 梳理发现，易博图成立于2026年2月，聚焦重载工业 物理AI ，核心业务是研发面向重载场景的“",
      "source": "东方财富资讯",
      "zh": "葛卫东再出手 最新布局方向是物理AI"
-    },
-    {
-     "title": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931472510.html",
-     "pubDate": "Sun, 15 Nov 2026 19:53:01 +0800",
-     "summary": "据伊朗塔斯尼姆通讯社15日报道，伊朗议会国家安全与外交政策委员会发言人卡什卡维说，该委员会已完成霍尔木兹海峡相关方案的专业审议，就有关通行航道“与两个沿岸国家达成协议”。 卡什卡维表示，伊朗方面曾在伊首都德黑兰和阿曼首都马斯喀特举行多轮会谈。商定的航道将先以临时方式实施，之后转为永久性安排。目前，委员会已完成相关方案的专业审议，正等待议会主席团将其列入全体会议议程，提交表决。 卡什卡维还表示，伊朗从未主动发动侵略，目前处于防御状态。根据国际法，伊方认为本国目前在波斯湾和阿曼湾地区都处于战争状态。 （文章来源：新华社）",
-     "source": "东方财富资讯",
-     "zh": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议"
-    },
-    {
-     "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
-     "link": "https://wallstreetcn.com/articles/3785932",
-     "pubDate": "Sun, 15 Nov 2026 19:41:52 +0800",
-     "summary": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话会，数据中心收入与下季指引若能扛住，AI链获得企稳锚点；若指引转弱，本周已流向AMD、博通的轮动资金将再度失据。同日，黄仁勋须赴美国众议院三委员会联合听证，或将聚焦对外芯片销售与公司治理问答。 同时，",
-     "source": "华尔街见闻",
-     "zh": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报"
     }
    ]
   },

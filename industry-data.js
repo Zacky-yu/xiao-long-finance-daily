@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 05:31:55",
+ "generated_at": "2026/11/16 05:44:33",
  "recent_days": 7,
  "industries": [
   {
@@ -466,14 +466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1458,6 +1458,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1498,6 +1506,14 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1520,6 +1536,14 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1746,12 +1770,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Your Agent Will Pick the Hackable One",
+     "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+     "pubDate": "Sun, 15 Nov 2026 21:10:39 +0000",
+     "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Your Agent Will Pick the Hackable One"
+    },
+    {
      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
      "pubDate": "Sun, 15 Nov 2026 20:37:28 +0000",
-     "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 30 # Comments: 3",
      "source": "Hacker News",
      "zh": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost"
+    },
+    {
+     "title": "WebGL Flight Simulator with seed generated terrain",
+     "link": "https://baron.by.dai.studio/",
+     "pubDate": "Sun, 15 Nov 2026 20:20:05 +0000",
+     "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "WebGL Flight Simulator with seed generated terrain"
     },
     {
      "title": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
@@ -1765,15 +1805,23 @@ window.INDUSTRY_DATA = {
      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
      "link": "https://arkanumdata.com/research/house-trades",
      "pubDate": "Sun, 15 Nov 2026 19:46:02 +0000",
-     "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 60 # Comments: 36",
+     "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 75 # Comments: 54",
      "source": "Hacker News",
      "zh": "Do House members' stock trades beat the market? A test of 8,900 trades"
+    },
+    {
+     "title": "Handwriting, as a Font",
+     "link": "https://ductus.sorenblank.com",
+     "pubDate": "Sun, 15 Nov 2026 19:42:13 +0000",
+     "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Handwriting, as a Font"
     },
     {
      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
      "link": "https://bruceroettgers.eu/blog/protomaps/",
      "pubDate": "Sun, 15 Nov 2026 19:26:22 +0000",
-     "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 14 # Comments: 2",
+     "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 22 # Comments: 6",
      "source": "Hacker News",
      "zh": "Protomaps: Self-hosting map tiles has gotten cheap and easy"
     },
@@ -1802,36 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China (Financial Times)"
     },
     {
-     "title": "Eclipse Mosquitto – An open source MQTT broker",
-     "link": "https://github.com/eclipse-mosquitto/mosquitto",
-     "pubDate": "Sun, 15 Nov 2026 18:36:40 +0000",
-     "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 36 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "Eclipse Mosquitto – An open source MQTT broker"
-    },
-    {
-     "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-     "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-     "pubDate": "Sun, 15 Nov 2026 18:36:10 +0000",
-     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 189 # Comments: 85",
-     "source": "Hacker News",
-     "zh": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests"
-    },
-    {
      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
      "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
      "pubDate": "Sun, 15 Nov 2026 18:29:14 +0000",
      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
      "source": "TechCrunch",
      "zh": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending"
-    },
-    {
-     "title": "A short explainer on how El Niño works [video]",
-     "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-     "pubDate": "Sun, 15 Nov 2026 18:23:21 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 100 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "A short explainer on how El Niño works [video]"
     },
     {
      "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
@@ -1994,6 +2018,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]",
+     "link": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
+     "pubDate": "Sun, 15 Nov 2026 21:36:43 +0000",
+     "summary": "Google teased last month that detachable Googlebooks are coming soon, and a leak today provides the best look at the “Lenovo Googlebook Duet 13” yet. more…",
+     "source": "9to5Google",
+     "zh": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]"
+    },
+    {
+     "title": "Wi-Fi 8 is an attempt to fix the biggest problem with wireless internet",
+     "link": "https://www.engadget.com/2313896/wifi-8-attempt-fix-biggest-problem-wireless-internet/",
+     "pubDate": "Sun, 15 Nov 2026 21:15:00 +0000",
+     "summary": "With current Wi-Fi standards reaching beyond consumer-level speeds, Wi-Fi 8 is entering the fray with a fix that makes those speeds mean something.",
+     "source": "Engadget",
+     "zh": "Wi-Fi 8 is an attempt to fix the biggest problem with wireless internet"
+    },
+    {
      "title": "Spotting a fake SD card is easier than you think",
      "link": "https://www.engadget.com/2313899/how-to-spot-fake-sd-cards/",
      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
@@ -2040,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "There are a few other tasks your Apple TV can handle.",
      "source": "Engadget",
      "zh": "How you can give your old Apple TV new purpose"
-    },
-    {
-     "title": "What's the meaning of the \"A\" on your USB-A ports?",
-     "link": "https://www.engadget.com/2313849/usb-port-letter-a-meaning/",
-     "pubDate": "Sun, 15 Nov 2026 20:00:00 +0000",
-     "summary": "The truth is, there's no surprising meaning for the \"A\" in USB-A. Discover what this connector is used for and if it's becoming obsolete.",
-     "source": "Engadget",
-     "zh": "What's the meaning of the \"A\" on your USB-A ports?"
     },
     {
      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
@@ -2224,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "From printing and projecting to developing and timing.",
      "source": "DPReview",
      "zh": "Adam Savage continues his journey into the IMAX film process"
-    },
-    {
-     "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-     "link": "https://sspai.com/post/118276",
-     "pubDate": "Sat, 14 Nov 2026 15:40:21 +0800",
-     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-     "source": "少数派",
-     "zh": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA"
     }
    ]
   },
@@ -2241,6 +2265,30 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 21:32:00 GMT",
+     "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+     "source": "MarketWatch",
+     "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
+    },
+    {
+     "title": "Senators demand Lutnick testimony over alleged Nvidia chip diversions to China",
+     "link": "https://seekingalpha.com/news/4672809-senators-demand-lutnick-testimony-over-alleged-nvidia-chip-diversions-to-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 16:31:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Senators demand Lutnick testimony over alleged Nvidia chip diversions to China"
+    },
+    {
+     "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+     "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 21:31:00 GMT",
+     "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+     "source": "MarketWatch",
+     "zh": "Budget airlines are going upscale with first-class seats and faster wifi"
+    },
     {
      "title": "Fed’s Schmid warns inflation fight has grown harder",
      "link": "https://seekingalpha.com/news/4672808-fed-s-schmid-warns-inflation-fight-has-grown-harder?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2288,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
      "source": "MarketWatch",
      "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
-    },
-    {
-     "title": "Diamondback nears $5B deal for Double Eagle’s Permian assets, FT reports",
-     "link": "https://seekingalpha.com/news/4672803-diamondback-nears-5b-deal-for-double-eagle-s-permian-assets-ft-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 15:12:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Diamondback nears $5B deal for Double Eagle’s Permian assets, FT reports"
     },
     {
      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
@@ -2418,36 +2458,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?"
     },
     {
-     "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
-     "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 15:22:00 GMT",
-     "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
-     "source": "MarketWatch",
-     "zh": "China’s hottest stocks these days have one thing in common: names that sound like sheep"
-    },
-    {
-     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 15:00:00 GMT",
-     "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-     "source": "MarketWatch",
-     "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
-    },
-    {
      "title": "中国“星链”走到商用前夜",
      "link": "http://www.eeo.com.cn/2026/1115/1094089.shtml",
      "pubDate": "Sun, 15 Nov 2026 22:07:13 +0800",
      "summary": "随着年底的节点临近，国产低轨星座的商用，正在面临卫星、用户和收入三个环节的检验。",
      "source": "经济观察网",
      "zh": "中国“星链”走到商用前夜"
-    },
-    {
-     "title": "高端显卡价格跳水？记者实探深圳华强北",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931489260.html",
-     "pubDate": "Sun, 15 Nov 2026 21:20:46 +0800",
-     "summary": "近日，有报道称，近期高端显卡价格剧烈波动，部分型号产品售价从10月的1.8万元降至1.4万元。11月15日，中国证券报记者在 深圳华强 北实探时，有商户表示，目前显卡售价高昂，今年8月开始显卡价格涨幅显著，进入11月价格稍有回落。 显卡最初主要用于图形渲染，目前也大量承担AI算力运算任务。据媒体报道，此前受海外停产传闻刺激，10月中旬，RTX 50系列显卡价格连续上涨，一口气连涨11个交易日。 一位华强北电脑组装商户表示，今年8月开始，高端显卡涨价势头很猛，价格长期处于高位，近期稍有回落。他举例称，RTX 5080显卡售价从7月份的8000多元上涨至10月的超1.5万元，现在售价约1.4万元。",
-     "source": "东方财富资讯",
-     "zh": "高端显卡价格跳水？记者实探深圳华强北"
     },
     {
      "title": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季",
@@ -2458,14 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季"
     },
     {
-     "title": "11月15日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931479061.html",
-     "pubDate": "Sun, 15 Nov 2026 21:00:03 +0800",
-     "summary": "今日摘要 2013年以来，习近平主席以深邃历史眼光把握时代大势，一次次提出清晰主张与务实倡议，倡导亚太大家庭同心相向，引领亚太向着正确方向前行。系列报道【建设亚太共同体促进共同繁荣】今天播出：共担时代责任，共促亚太发展。 中共中央印发《中国共产党地方委员会工作条例》。 李强会见泰国国王。 学习贯彻党的二十届五中全会精神中央宣讲团成员在云南省、辽宁省、黑龙江省宣讲。 新时代以来，人民法院以高质量司法护航中国式现代化。 多国人士期待中国同亚太伙伴共享机遇、共启发展繁荣新航程。 内容速览 【建设亚太共同体 促进共同繁荣】共担时代责任 共促亚太发展 亚太经合组织是亚太地区层级最高、领域最广、影响力最大",
-     "source": "东方财富资讯",
-     "zh": "11月15日晚间央视新闻联播要闻集锦"
-    },
-    {
      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
      "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
      "pubDate": "Sun, 15 Nov 2026 13:00:02 GMT",
@@ -2474,12 +2482,28 @@ window.INDUSTRY_DATA = {
      "zh": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins"
     },
     {
-     "title": "AI应用爆发！主线切换还是资金轮动？基金经理最新解读",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931476671.html",
-     "pubDate": "Sun, 15 Nov 2026 20:40:35 +0800",
-     "summary": "近期， AI应用 板块接连爆发，成为市场关注焦点。其中，AI短剧指数在11月前两周涨幅超过25%，端侧AI呈现集体异动， 物理AI 同期涨幅超10%，振幅明显放大。 本轮行情背后的逻辑是什么？是否意味着新主线已经形成？当前处于什么阶段？哪些细分方向值得布局？ 对此，中国基金报记者采访了： 博时基金指数与量化投资部基金经理李庆阳； 鑫元基金权益投资部负责人、基金经理李彪； 国泰基金基金经理李星全； 平安鼎越基金经理林清源； 恒生前海消费升级混合基金经理胡启聪。 上述基金经理普遍认为，近期 AI应用 板块爆发本质上是资金从交易拥挤的算力硬件向低位、有产业催化的应用端进行的高低切换与结构性轮动，而非",
-     "source": "东方财富资讯",
-     "zh": "AI应用爆发！主线切换还是资金轮动？基金经理最新解读"
+     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+     "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+     "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
+     "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+     "source": "CNBC",
+     "zh": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
+    },
+    {
+     "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+     "link": "https://wallstreetcn.com/articles/3785932",
+     "pubDate": "Sun, 15 Nov 2026 19:41:52 +0800",
+     "summary": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话会，数据中心收入与下季指引若能扛住，AI链获得企稳锚点；若指引转弱，本周已流向AMD、博通的轮动资金将再度失据。同日，黄仁勋须赴美国众议院三委员会联合听证，或将聚焦对外芯片销售与公司治理问答。 同时，",
+     "source": "华尔街见闻",
+     "zh": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报"
+    },
+    {
+     "title": "From culture war to class war: US Democrats ditch woke politics",
+     "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
+     "pubDate": "Sun, 15 Nov 2026 11:00:04 GMT",
+     "summary": "The newly emboldened party shifts gears after its sweeping midterm election victory",
+     "source": "Financial Times",
+     "zh": "From culture war to class war: US Democrats ditch woke politics"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 01:52:04",
+ "generated_at": "2026/11/16 02:12:09",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "IEDM 2026 Reveals New Paths to Faster, More Efficient AI",
+     "link": "https://semiwiki.com/events/376230-iedm-2026-reveals-new-paths-to-faster-more-efficient-ai/",
+     "pubDate": "Sun, 15 Nov 2026 18:00:47 +0000",
+     "summary": "The semiconductor industry is entering an unusually promising period. Artificial intelligence is demanding more computing power, faster memory, and better energy efficiency, and researchers are responding across the entire technology stack. The upcoming 2026 IEEE International Electron Devices Meeti",
+     "source": "SemiWiki",
+     "zh": "IEDM 2026 Reveals New Paths to Faster, More Efficient AI"
+    },
+    {
      "title": "CEO Interview with Daisuke Okanohara of Matlantis",
      "link": "https://semiwiki.com/ceo-interviews/376079-ceo-interview-with-daisuke-okanohara-of-matlantis/",
      "pubDate": "Sun, 15 Nov 2026 16:00:20 +0000",
@@ -448,14 +456,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia CEO’s second affair scandal in a week prompted his resignation, and the board is now searching for a new leader for the company. The post Jensen Resigns Over Second Affair appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Jensen Resigns Over Second Affair"
-    },
-    {
-     "title": "CTO Interview with Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA",
-     "link": "https://semiwiki.com/eda/siemens-eda/376086-cto-interview-with-uan-rey-senior-vp-and-general-manager-of-calibre-and-cto-of-siemens-eda/",
-     "pubDate": "Thu, 12 Nov 2026 20:00:22 +0000",
-     "summary": "Juan Rey is Head of Technology and Innovation for Electronic Design Automation (EDA) at Siemens and Vice President and General Manager for Calibre. He joined Mentor Graphics, now Siemens EDA, in 2001 and led engineering, research, development, and quality for Calibre before retiring in late 2021. He",
-     "source": "SemiWiki",
-     "zh": "CTO Interview with Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA"
     },
     {
      "title": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform",
@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1032,14 +1032,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1490,12 +1490,12 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
-     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+     "title": "ULA’s Vulcan returns to flight with first Amazon Leo payload",
      "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
      "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after being grounded since… The post ULA’s Vulcan returns to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
+     "zh": "ULA’s Vulcan returns to flight with first Amazon Leo payload"
     },
     {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
@@ -1778,14 +1778,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)"
     },
     {
-     "title": "What Picasso taught me about building AI Agents",
-     "link": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
-     "pubDate": "Sun, 15 Nov 2026 16:16:26 +0000",
-     "summary": "Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50508076 Points: 5 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "What Picasso taught me about building AI Agents"
-    },
-    {
      "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
      "link": "https://www.ithome.com/1/027/461.htm",
      "pubDate": "Sun, 15 Nov 2026 16:14:44 GMT",
@@ -1813,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "The Atheist Bible",
      "link": "https://suchanek.name/texts/atheism/",
      "pubDate": "Sun, 15 Nov 2026 16:05:53 +0000",
-     "summary": "Article URL: https://suchanek.name/texts/atheism/ Comments URL: https://news.ycombinator.com/item?id=50507989 Points: 7 # Comments: 5",
+     "summary": "Article URL: https://suchanek.name/texts/atheism/ Comments URL: https://news.ycombinator.com/item?id=50507989 Points: 17 # Comments: 18",
      "source": "Hacker News",
      "zh": "The Atheist Bible"
     },
@@ -1845,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
      "link": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
      "pubDate": "Sun, 15 Nov 2026 15:45:42 +0000",
-     "summary": "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 58 # Comments: 12",
+     "summary": "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 80 # Comments: 24",
      "source": "Hacker News",
      "zh": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story"
     },
@@ -1853,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Emacs Is My Browser",
      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
      "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
-     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 49 # Comments: 18",
+     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 69 # Comments: 25",
      "source": "Hacker News",
      "zh": "Emacs Is My Browser"
     },
@@ -1869,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "All AI-generated code should be Open Source",
      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
      "pubDate": "Sun, 15 Nov 2026 14:46:58 +0000",
-     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 456 # Comments: 280",
+     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 550 # Comments: 321",
      "source": "Hacker News",
      "zh": "All AI-generated code should be Open Source"
     },
@@ -1893,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
      "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
      "pubDate": "Sun, 15 Nov 2026 14:31:52 +0000",
-     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 62 # Comments: 27",
+     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 64 # Comments: 27",
      "source": "Hacker News",
      "zh": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)"
     },
@@ -1920,6 +1912,14 @@ window.INDUSTRY_DATA = {
      "summary": "因 Meta 的 Android 版 Facebook 应用未经用户明确同意或充分披露的情况下访问用户的手机相册和视频，意大利监管机构对其处以 8.05 亿欧元罚款。调查人员发现，该功能默认开启，而 Facebook 在申请访问用户相册权限时，将该权限与多种不同用途的应用功能捆绑在一起，通过单一授权请求获取访问权。意大利要求 Meta 在 60 天内禁用该功能，对该功能的启用额外征求用户同意。意大利约有 2000 万 Android 用户，此次罚款是意大利对科技巨头开出的金额最高的罚单之一。意大利监管机构表示，在做出处罚决定时，考虑了受影响人数巨大以及 Meta 不配合等因素。对这一处罚，Me",
      "source": "Solidot",
      "zh": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款"
+    },
+    {
+     "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+     "link": "https://github.com/db-branch/db-branch",
+     "pubDate": "Sun, 15 Nov 2026 13:50:51 +0000",
+     "summary": "Article URL: https://github.com/db-branch/db-branch Comments URL: https://news.ycombinator.com/item?id=50506940 Points: 6 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS"
     },
     {
      "title": "香港迪士尼乐园 1.7 万张电子门票被盗",
@@ -2010,6 +2010,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Open-ear vs. in-ear earbuds: Which is actually better for your ears?",
+     "link": "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better/",
+     "pubDate": "Sun, 15 Nov 2026 17:45:00 +0000",
+     "summary": "Open-ear and in-ear earbuds are designed differently, but those differences can have a bigger impact on daily listening than many people realize.",
+     "source": "Engadget",
+     "zh": "Open-ear vs. in-ear earbuds: Which is actually better for your ears?"
+    },
+    {
      "title": "Italy orders Meta to pay $887M for not obtaining specific consent over user photos",
      "link": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/",
      "pubDate": "Sun, 15 Nov 2026 17:44:06 +0000",
@@ -2056,14 +2064,6 @@ window.INDUSTRY_DATA = {
      "summary": "Next fall, Apple will introduce its second-generation iPhone Duo. It’s unclear what it’ll offer in terms of meaningful upgrades outside of the usual chip upgrades and camera improvements, but Apple engineers are reportedly attempting to bake Face ID into the device. That said, the feature might not ",
      "source": "9to5Mac",
      "zh": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report"
-    },
-    {
-     "title": "Vibe coding is changing how musicians customize their gear",
-     "link": "https://www.engadget.com/2313717/vibe-coding-changing-how-musicians-customize-gear/",
-     "pubDate": "Sun, 15 Nov 2026 16:30:00 +0000",
-     "summary": "AI is changing just about every industry even music. This is how musicians are using vibe coding to alter their sound, their gear and how music is made.",
-     "source": "Engadget",
-     "zh": "Vibe coding is changing how musicians customize their gear"
     },
     {
      "title": "The new Apple TV has twice as much RAM as the previous model, but apps and games can’t use it",
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "US and allies sign accord to protect AI supply chains from China",
+     "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+     "pubDate": "Sun, 15 Nov 2026 17:47:43 GMT",
+     "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+     "source": "Financial Times",
+     "zh": "US and allies sign accord to protect AI supply chains from China"
+    },
+    {
      "title": "India stands to gain as investors look beyond AI, Jefferies’ Wood says",
      "link": "https://seekingalpha.com/news/4672794-india-stands-to-gain-as-investors-look-beyond-ai-jefferies-wood-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 12:42:47 -0500",
@@ -2418,6 +2426,14 @@ window.INDUSTRY_DATA = {
      "zh": "&apos;We slept here.&apos; Flight delays linger as airlines scramble to recover from ground stop"
     },
     {
+     "title": "中国“星链”走到商用前夜",
+     "link": "http://www.eeo.com.cn/2026/1115/1094089.shtml",
+     "pubDate": "Sun, 15 Nov 2026 22:07:13 +0800",
+     "summary": "随着年底的节点临近，国产低轨星座的商用，正在面临卫星、用户和收入三个环节的检验。",
+     "source": "经济观察网",
+     "zh": "中国“星链”走到商用前夜"
+    },
+    {
      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
      "pubDate": "Sun, 15 Nov 2026 14:00:00 GMT",
@@ -2480,22 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "沪深两市多家上市公司11月15日晚间发布公司公告，以下为重要公告汇总。 【品大事】 *ST闻泰 ：企业法庭就安世境外追加临时措施申请作出裁定，公司拟上诉 *ST闻泰 (600745)11月15日公告，公司境外子公司安世 半导体 控股有限公司和安世 半导体 有限公司前期向荷兰阿姆斯特丹上诉法院企业法庭（以下简称“企业法庭”）提交追加临时措施的申请，企业法庭于10月30日开庭审理，于11月11日作出临时措施裁定，责令公司、裕成控股及安世中国尊重并容忍管理人履行其职责、准许并容忍安世 半导体 及管理人开展市场调研、接洽市场主体，撤回部分中国境内诉讼诉求、禁止执行东莞中院部分行为保全裁定等。此次裁定仅",
      "source": "东方财富资讯",
      "zh": "11月15日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-     "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-     "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
-     "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
-     "source": "CNBC",
-     "zh": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
-    },
-    {
-     "title": "葛卫东再出手 最新布局方向是物理AI",
-     "link": "http://stock.eastmoney.com/news/11215,202611153931478784.html",
-     "pubDate": "Sun, 15 Nov 2026 19:56:23 +0800",
-     "summary": "葛卫东再出手，最新布局方向是 物理AI 。 11月13日，创业公司易博图证实，在其最新一轮融资名单中，知名投资人葛卫东现身。易博图成立于2026年2月，聚焦重载工业 物理AI 领域。梳理发现，葛卫东布局科技板块笃定坚决，在今年三季度科技板块的剧烈调整行情中，葛卫东家族持仓基本不变。 葛卫东出手 锚定AI主线，葛卫东再出手。近日，易博图连续完成两轮融资，合计金额近4亿元。投资方包括葛卫东、辰韬资本、弘毅投资、零一 汽车 、兴富资本、猎鹰投资旗下星奇基金等。 易博图公司的官方公众号转载相关报道予以证实。 梳理发现，易博图成立于2026年2月，聚焦重载工业 物理AI ，核心业务是研发面向重载场景的“",
-     "source": "东方财富资讯",
-     "zh": "葛卫东再出手 最新布局方向是物理AI"
     }
    ]
   },
@@ -2505,6 +2505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Which animal would you most want to talk to, if you could?",
+     "link": "https://www.livescience.com/animals/which-animal-would-you-most-want-to-talk-to-if-you-could",
+     "pubDate": "Sun, 15 Nov 2026 18:00:00 +0000",
+     "summary": "Recently, researchers used AI to \"decode\" segments of birdsong. In the wake of this, Live Science asks its readers which animal they'd want to communicate with.",
+     "source": "Live Science",
+     "zh": "Which animal would you most want to talk to, if you could?"
+    },
     {
      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
      "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
@@ -2592,14 +2600,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this excerpt from \"The Secrets of our DNA,\" geneticist Turi King examines how DNA was used to reveal the ultimate fate of the last members of the House of Romanov.",
      "source": "Live Science",
      "zh": "'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family"
-    },
-    {
-     "title": "Measles is back in the United States, WHO authorities say",
-     "link": "https://www.livescience.com/health/viruses-infections-disease/measles-is-back-in-the-united-states-who-authorities-say",
-     "pubDate": "Sat, 14 Nov 2026 04:07:49 +0000",
-     "summary": "The Pan American Health Organization has determined that the U.S. has lost its measles elimination status, meaning domestic spread of the virus is now significant and sustained.",
-     "source": "Live Science",
-     "zh": "Measles is back in the United States, WHO authorities say"
     },
     {
      "title": "In elephants, the resilience of communities has its limits",

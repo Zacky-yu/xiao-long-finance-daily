@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 01:02:15",
+ "generated_at": "2026/11/16 01:12:04",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+     "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+     "pubDate": "Sun, 15 Nov 2026 17:05:00 +0000",
+     "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+     "source": "TechCrunch Transport",
+     "zh": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry"
+    },
+    {
      "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
      "link": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
      "pubDate": "Sun, 15 Nov 2026 16:31:24 +0000",
@@ -832,14 +840,6 @@ window.INDUSTRY_DATA = {
      "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
      "source": "TechCrunch Transport",
      "zh": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis"
-    },
-    {
-     "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-     "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-     "pubDate": "Mon, 09 Nov 2026 15:24:59 +0000",
-     "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
-     "source": "TechCrunch Transport",
-     "zh": "Waymo robotaxis kept illegally passing school buses after software fix, feds say"
     }
    ]
   },
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
+     "link": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes",
+     "pubDate": "Sun, 15 Nov 2026 17:00:00 +0000",
+     "summary": "Sufferin' succotash! The Monstars and Tune Squad interplanetary slam arrived 30 years ago, and it's still a clinic in interplanetary conflict resolution.",
+     "source": "Space.com",
+     "zh": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes"
+    },
+    {
      "title": "On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026",
      "pubDate": "Sun, 15 Nov 2026 15:34:00 +0000",
@@ -1344,14 +1352,6 @@ window.INDUSTRY_DATA = {
      "summary": "On Episode 236 of This Week In Space, Tariq Malik and Rod Pyle are joined by Mikhail Tikhonov to talk about how life can take more unusual forms, ones we might not even recognize.",
      "source": "Space.com",
      "zh": "This Week In Space podcast: Episode 236 — Alienspotting"
-    },
-    {
-     "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
-     "link": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
-     "pubDate": "Sat, 14 Nov 2026 15:00:00 +0000",
-     "summary": "We're scared of the Xenomorphs again, but Aliens: Fireteam Elite 2 knows old-fashioned bug hunts shouldn't be a thing of the past.",
-     "source": "Space.com",
-     "zh": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs"
     },
     {
      "title": "Starship returns to Starbase and a successful tower catch",
@@ -1789,23 +1789,15 @@ window.INDUSTRY_DATA = {
      "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
      "link": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
      "pubDate": "Sun, 15 Nov 2026 15:45:42 +0000",
-     "summary": "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 18 # Comments: 3",
+     "summary": "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 32 # Comments: 8",
      "source": "Hacker News",
      "zh": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story"
-    },
-    {
-     "title": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
-     "link": "https://blackoutapp.io/",
-     "pubDate": "Sun, 15 Nov 2026 15:37:52 +0000",
-     "summary": "Hi, I made a tiny app that lets you turn off the MacBook screen when you work on external monitors. It does NOT just dim the brightness to zero, the screen is actually turned off via the Apple hardware API, the according desktop is removed, so you have a clean \"one big monitor\" setup. - Safe fallbac",
-     "source": "Hacker News",
-     "zh": "Show HN: A tiny macOS app that turns off the MacBook display [free license]"
     },
     {
      "title": "Emacs Is My Browser",
      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
      "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
-     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 29 # Comments: 6",
+     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 35 # Comments: 9",
      "source": "Hacker News",
      "zh": "Emacs Is My Browser"
     },
@@ -1821,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "All AI-generated code should be Open Source",
      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
      "pubDate": "Sun, 15 Nov 2026 14:46:58 +0000",
-     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 296 # Comments: 189",
+     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 347 # Comments: 216",
      "source": "Hacker News",
      "zh": "All AI-generated code should be Open Source"
     },
@@ -1845,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
      "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
      "pubDate": "Sun, 15 Nov 2026 14:31:52 +0000",
-     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 53 # Comments: 23",
+     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 55 # Comments: 26",
      "source": "Hacker News",
      "zh": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)"
     },
@@ -1877,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
      "link": "https://prog21.dadgum.com/116.html",
      "pubDate": "Sun, 15 Nov 2026 13:44:16 +0000",
-     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 78 # Comments: 24",
+     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 83 # Comments: 31",
      "source": "Hacker News",
      "zh": "Things That Turbo Pascal Is Smaller Than (2011)"
     },
@@ -1888,6 +1880,14 @@ window.INDUSTRY_DATA = {
      "summary": "香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。报道称，乐园门票由 Cityline 负责网上票务售卖，园方资讯科技部于 11 月 12 日晚侦测到公司电脑系统有异常活动，发现一万七千个二维码在网上票务系统被盗。香港资讯科技商会荣誉会长方保侨称：以往黑客是写程序或手动追漏洞，现在 AI 发展令黑客用 AI 寻找网络漏洞，从而攻击，近期这么多事件，我们相信只会愈来愈多。因为 AI 攻击太快，人手根本抵挡不到，开始提倡用 AI 防守，而市面上亦有这些方案。",
      "source": "Solidot",
      "zh": "香港迪士尼乐园 1.7 万张电子门票被盗"
+    },
+    {
+     "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+     "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+     "pubDate": "Sun, 15 Nov 2026 13:15:22 +0000",
+     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 204 # Comments: 102",
+     "source": "Hacker News",
+     "zh": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
     },
     {
      "title": "亚洲象种群数量减少变得更孤立",
@@ -2226,6 +2226,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "马来西亚11月1日至15日棕榈油出口量为794717吨",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931527250.html",
+     "pubDate": "Mon, 16 Nov 2026 00:58:14 +0800",
+     "summary": "马来西亚11月1日至15日棕榈油出口量为794717吨。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "马来西亚11月1日至15日棕榈油出口量为794717吨"
+    },
+    {
+     "title": "埃及公共部门最低工资标准自1月起上调",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931527197.html",
+     "pubDate": "Mon, 16 Nov 2026 00:57:48 +0800",
+     "summary": "埃及公共部门最低工资标准自1月起上调。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "埃及公共部门最低工资标准自1月起上调"
+    },
+    {
+     "title": "埃及将公共部门最低工资上调至每月8500埃及镑（约合159美元）",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931527080.html",
+     "pubDate": "Mon, 16 Nov 2026 00:57:47 +0800",
+     "summary": "埃及将公共部门最低工资上调至每月8500埃及镑（约合159美元）。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "埃及将公共部门最低工资上调至每月8500埃及镑（约合159美元）"
+    },
+    {
      "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
      "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
      "pubDate": "Sun, 15 Nov 2026 16:56:40 GMT",
@@ -2250,6 +2274,14 @@ window.INDUSTRY_DATA = {
      "zh": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO"
     },
     {
+     "title": "美国航空系统故障进入第三天周日逾5200架次航班受影响",
+     "link": "http://stock.eastmoney.com/news/1436,202611163931526924.html",
+     "pubDate": "Mon, 16 Nov 2026 00:49:04 +0800",
+     "summary": "美国航空 交通中断已持续第三天，截至当地时间周日，受影响航班超过5200架次。美国交通部长达菲预计，航空交通将在周一恢复正常。航空数据网站FlightAware的数据显示，周日全美有超过1600架次航班被取消，近3600架次航班延误。达菲表示，航班运营将在周日恢复正常，但可能要到周一才能完全恢复正常。达菲周日称，在阿肯色州埃尔多拉多的一处FAA设施更换路由器后，引发了得州阿马里洛一台近期刚更换的路由器出现问题，后者开始向外广播大量数据，导致其他空管中心的路由器负荷过重。FAA周日表示，已经禁用了最初引发问题的路由器的相关功能，并对空管系统中约60台类似路由器采取了相同措施。但达菲表示，FAA仍",
+     "source": "东方财富股票",
+     "zh": "美国航空系统故障进入第三天周日逾5200架次航班受影响"
+    },
+    {
      "title": "乌克兰总统泽连斯基：如果欧洲不够强大，欧洲所珍视的一切都将丧失",
      "link": "http://finance.eastmoney.com/news/1351,202611163931526873.html",
      "pubDate": "Mon, 16 Nov 2026 00:41:55 +0800",
@@ -2264,38 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "以色列10月CPI同比上涨1.1%，为2021年4月以来最低水平；环比下降0.1%。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "以色列10月CPI同比上涨1.1% 为2021年4月以来最低水平"
-    },
-    {
-     "title": "乌克兰总统泽连斯基：俄罗斯总统普京正在推动俄罗斯与欧洲对立",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931526773.html",
-     "pubDate": "Mon, 16 Nov 2026 00:39:55 +0800",
-     "summary": "乌克兰总统泽连斯基：俄罗斯总统普京正在推动俄罗斯与欧洲对立，反对每一位欧洲人所珍视的一切，无论其政治立场如何。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "乌克兰总统泽连斯基：俄罗斯总统普京正在推动俄罗斯与欧洲对立"
-    },
-    {
-     "title": "总台曝光后，浙江金华成立联合调查组",
-     "link": "http://finance.eastmoney.com/news/1350,202611163931526487.html",
-     "pubDate": "Mon, 16 Nov 2026 00:37:53 +0800",
-     "summary": "11月15日，总台《财经调查》栏目曝光 部分城市周边、农村地区，建筑垃圾非法倾倒问题多发，甚至一些耕地、基本农田内也出现了建筑垃圾违规堆放的问题。 其中， 浙江省金华市 存在相关问题。 节目播出后，浙江省金华市金东区高度重视， 于11月15日晚成立由住建、农业农村、资规等部门和属地乡镇组成的联合调查组，组织开展全面调查和整改整治工作 ，后续将依据调查结果依纪依法处置。 浙江金华：建筑垃圾侵占基本农田 整改一个月后仍原封未动 节目中，记者调查发现，在浙江省金华市金东区曹宅镇横溪村，一处通过政府审批、正在建设的渣土消纳场，却将垃圾倾倒在了基本农田里。记者在项目工地看到， 这座只能接收渣土的消纳场违",
-     "source": "东方财富股票",
-     "zh": "总台曝光后，浙江金华成立联合调查组"
-    },
-    {
-     "title": "全球航运界人士“维港对话” 聚焦中外合作新空间",
-     "link": "http://finance.eastmoney.com/news/1355,202611153931510227.html",
-     "pubDate": "Mon, 16 Nov 2026 00:32:42 +0800",
-     "summary": "由香港航商总会主办的“维港对话”15日在港举行，60多位中外 航运 和经贸企业以及智库代表围绕 航运 政策、香港国际 航运 中心定位、贸易格局变化及绿色转型等议题深入交流。 全国政协副主席、香港航商总会荣誉顾问梁振英提出，进一步推动内地、香港与世界的规则衔接、标准互认，加快构建国际绿色航运走廊，维护海运供应链稳定畅通，深化航运人才培育与共用；依托香港优势，壮大航运金融、海事仲裁、船舶 租赁 、海上保险等业态，提升全球航运产业链附加值与话语权。 交通运输 部副部长李兴湖表示，香港除了全球船舶注册量领先，在海事仲裁、绿色航运、金融保险及国际规则制定等领域均有可多维度发力的空间，香港应加快从“吨位大",
-     "source": "东方财富股票",
-     "zh": "全球航运界人士“维港对话” 聚焦中外合作新空间"
-    },
-    {
-     "title": "以色列统计局：以色列10月消费者物价指数(CPI)环比-0.1%，9月为-0.5%",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931525838.html",
-     "pubDate": "Mon, 16 Nov 2026 00:32:29 +0800",
-     "summary": "以色列统计局：以色列10月消费者物价指数(CPI)环比-0.1%，9月为-0.5%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "以色列统计局：以色列10月消费者物价指数(CPI)环比-0.1%，9月为-0.5%"
     },
     {
      "title": "Key deals this week: Samsung, Oura, Greenland Energy, Siemens, and more",

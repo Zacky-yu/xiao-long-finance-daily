@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/15 14:56:10",
+ "generated_at": "2026/11/15 15:00:17",
  "recent_days": 7,
  "industries": [
   {
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
      "zh": "Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed (Alex Konrad/Upstarts Media)"
     },
     {
+     "title": "国产芯片融资潮，来势凶猛",
+     "link": "https://www.tmtpost.com/8205694.html",
+     "pubDate": "Sun, 15 Nov 2026 14:48:19 +0800",
+     "summary": "从新架构到新产线，资本加注整条产业链。",
+     "source": "钛媒体",
+     "zh": "国产芯片融资潮，来势凶猛"
+    },
+    {
      "title": "TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying \"we also want to support the future&apos;s Nvidia\" (Cheng Ting-Fang/Nikkei Asia)",
      "link": "https://www.techmeme.com/261115/p4#a261115p4",
      "pubDate": "Sun, 15 Nov 2026 01:45:46 -0500",
@@ -1792,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "Tamara Djurickovic / Tech.eu : Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A &nbsp; &mdash;&nbsp; Nebuly develops a platform that helps enterprises measure the business value of AI agents by ",
      "source": "Techmeme",
      "zh": "Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A (Tamara Djurickovic/Tech.eu)"
+    },
+    {
+     "title": "失落 20 年的任天堂 DS 宝可梦游戏《PokéPark: Tsuri Taikai》重现，全球唯一可运行卡带现身",
+     "link": "https://www.ithome.com/1/027/324.htm",
+     "pubDate": "Sun, 15 Nov 2026 06:31:35 GMT",
+     "summary": "IT之家 11 月 15 日消息，据 IGN 报道，一名收藏爱好者 Daniel Quadri &nbsp;近期意外获得了一份极为罕见的宝可梦游戏收藏品，即“目前已知唯一一份能够正常运行的任天堂 DS 游戏”《PokéPark: Tsuri Taikai》（PokéPark:Fishing Rally）。这款游戏曾于 2005 年限时提供下载，此后长期被视为失落的宝可梦游戏作品。 公开信息显示，《PokéPark: Tsuri Taikai》也被称为《PokéPark: Fishing Rally》，是一款任天堂 DS 独占小游戏，仅面向 2005 年夏季前往日本名古屋限时主题公园 PokéP",
+     "source": "IT之家",
+     "zh": "失落 20 年的任天堂 DS 宝可梦游戏《PokéPark: Tsuri Taikai》重现，全球唯一可运行卡带现身"
     },
     {
      "title": "GDC 调查：40% 游戏产业从业者在使用 AI，55% 对其持批评态度",
@@ -1864,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们做拉美独立站，主推时尚配饰，巴西站刚起量，月订单 3000 单左右，团队一共 4 个人，其中 1 个开发兼运维。上个月接了 Pix 支付，用的是第三方聚合通道，结果巴西站支付成功率从信用卡的 62% 提到 78%，但退款和对账工单翻了一倍，光人工核对每天要花 2 小时。现在墨西哥站计划下季度上线，也想接本地支付，但同样的人手排不开：巴西这边的 Pix 对账自动化还没做完，墨西哥的支付通道调研和合规材料又得同步推进。已经试过把对账脚本外包给兼职，但接口文档不熟，返工两次。卡在优先级上：是先花两周把巴西 Pix 对账跑通，还是先抽人去谈墨西哥通道？这个取舍该怎么判断？",
      "source": "白鲸出海",
      "zh": "巴西独立站接 Pix 后，4 人小团队怎么排期才不拖慢墨西哥站上线？"
-    },
-    {
-     "title": "华为星芒 OSTA O1 Pro 新机包装盒曝光，新品牌 11 月 20 日首秀",
-     "link": "https://www.ithome.com/1/027/317.htm",
-     "pubDate": "Sun, 15 Nov 2026 06:09:43 GMT",
-     "summary": "IT之家 11 月 15 日消息，博主 @宁静的哲理 今日曝光了华为星芒 OSTA O1 Pro 新机的包装盒。 画面显示，包装盒印有 OSTA 的英文标识和华为图形 LOGO，并揭示新机预装了鸿蒙 HarmonyOS 系统。博主还透露，新机不支持无线充电和卫星通信，采用普通双卡设计。 据IT之家此前报道，华为旗下全新品牌“OSTA 星芒手机”官方微博账号 11 月 12 日发布了其第一条内容，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东不久后转发了这条微博。 余承东表示：“欢迎“星”朋友！看到大家对 OSTA 星芒#的关注和期待， 我们希望通过这个全新品牌，探索更多 AI ",
-     "source": "IT之家",
-     "zh": "华为星芒 OSTA O1 Pro 新机包装盒曝光，新品牌 11 月 20 日首秀"
     },
     {
      "title": "Lazada 泰国跨境店履约时效从 4.2 天掉到 6.8 天，该先补人还是先改发货排期？",
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Gawain – Require type hints on all Python variables",
      "link": "https://github.com/matheuzgomes/gawain",
      "pubDate": "Sun, 15 Nov 2026 04:39:25 +0000",
-     "summary": "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 28 # Comments: 9",
+     "summary": "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 29 # Comments: 9",
      "source": "Hacker News",
      "zh": "Show HN: Gawain – Require type hints on all Python variables"
     },
@@ -1981,25 +1989,17 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
      "pubDate": "Sun, 15 Nov 2026 04:09:11 +0000",
-     "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 19 # Comments: 1",
+     "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 21 # Comments: 2",
      "source": "Hacker News",
      "zh": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP"
     },
     {
-     "title": "全球供应链“安全优先”的账单，最后寄给了谁？",
-     "link": "https://www.tmtpost.com/8205652.html",
-     "pubDate": "Sun, 15 Nov 2026 10:56:35 +0800",
-     "summary": "全球供应链彻底从 “效率优先” 转向 “安全优先”。看似宏观的产业韧性升级，实则层层转嫁隐性成本。供应商牺牲利润换入场资格、客户抬升采购成本、财政兜底补贴，而最弱势的中小企业，最终成为供应链安全账单的最终承担者。",
-     "source": "钛媒体",
-     "zh": "全球供应链“安全优先”的账单，最后寄给了谁？"
-    },
-    {
-     "title": "“柔性产能”：“中国制造”最硬的底牌和最贵的账单",
-     "link": "https://www.tmtpost.com/8205587.html",
-     "pubDate": "Sun, 15 Nov 2026 10:50:23 +0800",
-     "summary": "柔性产能是中国制造最硬的底牌，危机来临时可快速转产、释放产能，构筑产业缓冲。但这份韧性并非免费，闲置产能带来的成本沿着产业链层层下沉，由企业、经营者与一线劳动者承担。宏大产业优势背后，藏着一笔持续滚动的昂贵账单。",
-     "source": "钛媒体",
-     "zh": "“柔性产能”：“中国制造”最硬的底牌和最贵的账单"
+     "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+     "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+     "pubDate": "Sun, 15 Nov 2026 03:05:54 +0000",
+     "summary": "Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c Comments URL: https://news.ycombinator.com/item?id=50503588 Points: 52 # Comments: 33",
+     "source": "Hacker News",
+     "zh": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt"
     }
    ]
   },

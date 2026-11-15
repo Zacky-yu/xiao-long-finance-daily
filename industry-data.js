@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 02:12:09",
+ "generated_at": "2026/11/16 02:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1032,6 +1032,14 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
-    },
-    {
-     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
-     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
-     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
-     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
-     "source": "PV Tech",
-     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+     "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+     "pubDate": "Sun, 15 Nov 2026 18:29:14 +0000",
+     "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+     "source": "TechCrunch",
+     "zh": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending"
+    },
+    {
      "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
      "link": "https://www.techmeme.com/261115/p11#a261115p11",
      "pubDate": "Sun, 15 Nov 2026 12:15:01 -0500",
@@ -1802,14 +1810,6 @@ window.INDUSTRY_DATA = {
      "zh": "最强Agent，为什么不能自己给自己发通行证？"
     },
     {
-     "title": "The Atheist Bible",
-     "link": "https://suchanek.name/texts/atheism/",
-     "pubDate": "Sun, 15 Nov 2026 16:05:53 +0000",
-     "summary": "Article URL: https://suchanek.name/texts/atheism/ Comments URL: https://news.ycombinator.com/item?id=50507989 Points: 17 # Comments: 18",
-     "source": "Hacker News",
-     "zh": "The Atheist Bible"
-    },
-    {
      "title": "The tech products we enthusiastically recommend this holiday season",
      "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
      "pubDate": "Sun, 15 Nov 2026 16:00:00 +0000",
@@ -1834,18 +1834,10 @@ window.INDUSTRY_DATA = {
      "zh": "Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed \"seemingly illicit\" chip sales to China to boost revenue (Tony Czuczka/Bloomberg)"
     },
     {
-     "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
-     "link": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
-     "pubDate": "Sun, 15 Nov 2026 15:45:42 +0000",
-     "summary": "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 80 # Comments: 24",
-     "source": "Hacker News",
-     "zh": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story"
-    },
-    {
      "title": "Emacs Is My Browser",
      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
      "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
-     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 69 # Comments: 25",
+     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 80 # Comments: 33",
      "source": "Hacker News",
      "zh": "Emacs Is My Browser"
     },
@@ -1861,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "All AI-generated code should be Open Source",
      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
      "pubDate": "Sun, 15 Nov 2026 14:46:58 +0000",
-     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 550 # Comments: 321",
+     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 603 # Comments: 337",
      "source": "Hacker News",
      "zh": "All AI-generated code should be Open Source"
     },
@@ -1885,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
      "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
      "pubDate": "Sun, 15 Nov 2026 14:31:52 +0000",
-     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 64 # Comments: 27",
+     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 65 # Comments: 30",
      "source": "Hacker News",
      "zh": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)"
     },
@@ -1917,9 +1909,17 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
      "link": "https://github.com/db-branch/db-branch",
      "pubDate": "Sun, 15 Nov 2026 13:50:51 +0000",
-     "summary": "Article URL: https://github.com/db-branch/db-branch Comments URL: https://news.ycombinator.com/item?id=50506940 Points: 6 # Comments: 2",
+     "summary": "Article URL: https://github.com/db-branch/db-branch Comments URL: https://news.ycombinator.com/item?id=50506940 Points: 7 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS"
+    },
+    {
+     "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+     "link": "https://prog21.dadgum.com/116.html",
+     "pubDate": "Sun, 15 Nov 2026 13:44:16 +0000",
+     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 115 # Comments: 49",
+     "source": "Hacker News",
+     "zh": "Things That Turbo Pascal Is Smaller Than (2011)"
     },
     {
      "title": "香港迪士尼乐园 1.7 万张电子门票被盗",
@@ -1928,6 +1928,14 @@ window.INDUSTRY_DATA = {
      "summary": "香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。报道称，乐园门票由 Cityline 负责网上票务售卖，园方资讯科技部于 11 月 12 日晚侦测到公司电脑系统有异常活动，发现一万七千个二维码在网上票务系统被盗。香港资讯科技商会荣誉会长方保侨称：以往黑客是写程序或手动追漏洞，现在 AI 发展令黑客用 AI 寻找网络漏洞，从而攻击，近期这么多事件，我们相信只会愈来愈多。因为 AI 攻击太快，人手根本抵挡不到，开始提倡用 AI 防守，而市面上亦有这些方案。",
      "source": "Solidot",
      "zh": "香港迪士尼乐园 1.7 万张电子门票被盗"
+    },
+    {
+     "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+     "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+     "pubDate": "Sun, 15 Nov 2026 13:15:22 +0000",
+     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 243 # Comments: 139",
+     "source": "Hacker News",
+     "zh": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
     },
     {
      "title": "亚洲象种群数量减少变得更孤立",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
      "source": "WIRED",
      "zh": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets"
-    },
-    {
-     "title": "鱼你在一起落子海外百店，中餐出海开启“体系化时代”",
-     "link": "https://www.tmtpost.com/8205846.html",
-     "pubDate": "Sun, 15 Nov 2026 18:58:04 +0800",
-     "summary": "企业的使命是让世界爱上中国味道，一定是要历经走出去、走进去、走上去的过程，“不止输出一道菜，更要输出中国餐饮出海范式”。",
-     "source": "钛媒体",
-     "zh": "鱼你在一起落子海外百店，中餐出海开启“体系化时代”"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Don't throw away your old TV - Here's what to do instead",
+     "link": "https://www.engadget.com/2313763/dont-throw-away-your-old-tv-without-checking-first/",
+     "pubDate": "Sun, 15 Nov 2026 18:00:00 +0000",
+     "summary": "Your used TV could be well-qualified for a new job, and if it is time to retire the ol' telly, you'll want to make sure you do so the right way.",
+     "source": "Engadget",
+     "zh": "Don't throw away your old TV - Here's what to do instead"
+    },
     {
      "title": "Open-ear vs. in-ear earbuds: Which is actually better for your ears?",
      "link": "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better/",
@@ -2048,14 +2056,6 @@ window.INDUSTRY_DATA = {
      "summary": "Progress is faster every day, and we're sure some of the biggest developments in current technology are about to become a thing of every day.",
      "source": "Engadget",
      "zh": "5 emerging technologies that may soon become part of everyday life"
-    },
-    {
-     "title": "Why do some USB connectors have those 2 square holes?",
-     "link": "https://www.engadget.com/2313749/why-some-usb-connectors-have-2-square-holes/",
-     "pubDate": "Sun, 15 Nov 2026 16:45:00 +0000",
-     "summary": "Some USB connectors, including USB-A, feature two small holes that have an important purpose. Other USB connectors lack these holes for a reason, too.",
-     "source": "Engadget",
-     "zh": "Why do some USB connectors have those 2 square holes?"
     },
     {
      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
@@ -2258,6 +2258,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday",
+     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+     "pubDate": "Sun, 15 Nov 2026 18:22:23 GMT",
+     "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+     "source": "CNBC",
+     "zh": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday"
+    },
+    {
+     "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+     "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+     "pubDate": "Sun, 15 Nov 2026 18:10:18 GMT",
+     "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
+     "source": "CNBC",
+     "zh": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO"
+    },
+    {
      "title": "US and allies sign accord to protect AI supply chains from China",
      "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
      "pubDate": "Sun, 15 Nov 2026 17:47:43 GMT",
@@ -2320,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia defends employee in Taiwan AI chip smuggling case"
-    },
-    {
-     "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-     "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-     "pubDate": "Sun, 15 Nov 2026 16:49:11 GMT",
-     "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
-     "source": "CNBC",
-     "zh": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO"
     },
     {
      "title": "美国航空系统故障进入第三天周日逾5200架次航班受影响",
@@ -2418,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
     },
     {
-     "title": "&apos;We slept here.&apos; Flight delays linger as airlines scramble to recover from ground stop",
-     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-     "pubDate": "Sun, 15 Nov 2026 14:24:18 GMT",
-     "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-     "source": "CNBC",
-     "zh": "&apos;We slept here.&apos; Flight delays linger as airlines scramble to recover from ground stop"
-    },
-    {
      "title": "中国“星链”走到商用前夜",
      "link": "http://www.eeo.com.cn/2026/1115/1094089.shtml",
      "pubDate": "Sun, 15 Nov 2026 22:07:13 +0800",
@@ -2450,28 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?"
     },
     {
-     "title": "高端显卡价格跳水？记者实探深圳华强北",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931489260.html",
-     "pubDate": "Sun, 15 Nov 2026 21:20:46 +0800",
-     "summary": "近日，有报道称，近期高端显卡价格剧烈波动，部分型号产品售价从10月的1.8万元降至1.4万元。11月15日，中国证券报记者在 深圳华强 北实探时，有商户表示，目前显卡售价高昂，今年8月开始显卡价格涨幅显著，进入11月价格稍有回落。 显卡最初主要用于图形渲染，目前也大量承担AI算力运算任务。据媒体报道，此前受海外停产传闻刺激，10月中旬，RTX 50系列显卡价格连续上涨，一口气连涨11个交易日。 一位华强北电脑组装商户表示，今年8月开始，高端显卡涨价势头很猛，价格长期处于高位，近期稍有回落。他举例称，RTX 5080显卡售价从7月份的8000多元上涨至10月的超1.5万元，现在售价约1.4万元。",
-     "source": "东方财富资讯",
-     "zh": "高端显卡价格跳水？记者实探深圳华强北"
-    },
-    {
      "title": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季",
      "link": "https://wallstreetcn.com/articles/3785968",
      "pubDate": "Sun, 15 Nov 2026 21:08:47 +0800",
      "summary": "美银证券首席投资策略师Michael Hartnett维持风险规避立场，并将此前设定的入场时间窗口大幅推后。强美元、高油价与居高不下的通胀共同构成三重障碍，令其此前为年底反弹行情设定的触发条件全线落空。 美元指数周五收于103.42，创年内新高。Hartnett将其定性为全球流动性的\"破坏之球\"—— 美元持续走强叠加黄金跌破4000美元，在其分析框架中意味着全球流动性正在收缩。 在此背景下，他将全球加息周期的终点推迟至明年4月美联储议息会议，并将看空风险资产的立场延续至明年春季美元见顶之后。 就市场影响而言，本轮强美元已对多类资产造成明显冲击 ：黄金年内跌幅扩大至10.4%，比特币跌幅达18.",
      "source": "华尔街见闻",
      "zh": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季"
-    },
-    {
-     "title": "11月15日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931479061.html",
-     "pubDate": "Sun, 15 Nov 2026 21:00:03 +0800",
-     "summary": "今日摘要 2013年以来，习近平主席以深邃历史眼光把握时代大势，一次次提出清晰主张与务实倡议，倡导亚太大家庭同心相向，引领亚太向着正确方向前行。系列报道【建设亚太共同体促进共同繁荣】今天播出：共担时代责任，共促亚太发展。 中共中央印发《中国共产党地方委员会工作条例》。 李强会见泰国国王。 学习贯彻党的二十届五中全会精神中央宣讲团成员在云南省、辽宁省、黑龙江省宣讲。 新时代以来，人民法院以高质量司法护航中国式现代化。 多国人士期待中国同亚太伙伴共享机遇、共启发展繁荣新航程。 内容速览 【建设亚太共同体 促进共同繁荣】共担时代责任 共促亚太发展 亚太经合组织是亚太地区层级最高、领域最广、影响力最大",
-     "source": "东方财富资讯",
-     "zh": "11月15日晚间央视新闻联播要闻集锦"
     },
     {
      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
@@ -2482,20 +2466,36 @@ window.INDUSTRY_DATA = {
      "zh": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins"
     },
     {
-     "title": "AI应用爆发！主线切换还是资金轮动？基金经理最新解读",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931476671.html",
-     "pubDate": "Sun, 15 Nov 2026 20:40:35 +0800",
-     "summary": "近期， AI应用 板块接连爆发，成为市场关注焦点。其中，AI短剧指数在11月前两周涨幅超过25%，端侧AI呈现集体异动， 物理AI 同期涨幅超10%，振幅明显放大。 本轮行情背后的逻辑是什么？是否意味着新主线已经形成？当前处于什么阶段？哪些细分方向值得布局？ 对此，中国基金报记者采访了： 博时基金指数与量化投资部基金经理李庆阳； 鑫元基金权益投资部负责人、基金经理李彪； 国泰基金基金经理李星全； 平安鼎越基金经理林清源； 恒生前海消费升级混合基金经理胡启聪。 上述基金经理普遍认为，近期 AI应用 板块爆发本质上是资金从交易拥挤的算力硬件向低位、有产业催化的应用端进行的高低切换与结构性轮动，而非",
-     "source": "东方财富资讯",
-     "zh": "AI应用爆发！主线切换还是资金轮动？基金经理最新解读"
+     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+     "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+     "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
+     "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+     "source": "CNBC",
+     "zh": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
     },
     {
-     "title": "11月15日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931476331.html",
-     "pubDate": "Sun, 15 Nov 2026 20:00:46 +0800",
-     "summary": "沪深两市多家上市公司11月15日晚间发布公司公告，以下为重要公告汇总。 【品大事】 *ST闻泰 ：企业法庭就安世境外追加临时措施申请作出裁定，公司拟上诉 *ST闻泰 (600745)11月15日公告，公司境外子公司安世 半导体 控股有限公司和安世 半导体 有限公司前期向荷兰阿姆斯特丹上诉法院企业法庭（以下简称“企业法庭”）提交追加临时措施的申请，企业法庭于10月30日开庭审理，于11月11日作出临时措施裁定，责令公司、裕成控股及安世中国尊重并容忍管理人履行其职责、准许并容忍安世 半导体 及管理人开展市场调研、接洽市场主体，撤回部分中国境内诉讼诉求、禁止执行东莞中院部分行为保全裁定等。此次裁定仅",
-     "source": "东方财富资讯",
-     "zh": "11月15日晚间沪深上市公司重大事项公告最新快递"
+     "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+     "link": "https://wallstreetcn.com/articles/3785932",
+     "pubDate": "Sun, 15 Nov 2026 19:41:52 +0800",
+     "summary": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话会，数据中心收入与下季指引若能扛住，AI链获得企稳锚点；若指引转弱，本周已流向AMD、博通的轮动资金将再度失据。同日，黄仁勋须赴美国众议院三委员会联合听证，或将聚焦对外芯片销售与公司治理问答。 同时，",
+     "source": "华尔街见闻",
+     "zh": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报"
+    },
+    {
+     "title": "Anthropic’s IPO is the next big test for AI",
+     "link": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+     "pubDate": "Sun, 15 Nov 2026 11:40:44 GMT",
+     "summary": "Even the most powerful frontier labs must bend to the power of public equity",
+     "source": "Financial Times",
+     "zh": "Anthropic’s IPO is the next big test for AI"
+    },
+    {
+     "title": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱",
+     "link": "https://wallstreetcn.com/articles/3785963",
+     "pubDate": "Sun, 15 Nov 2026 16:33:47 +0800",
+     "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设：IT用NAND价格环比下降5%至10%，企业级应用基本持平或小幅上行，整体低个位数下滑 。这一判断与市场仍预期NAND售价上涨10%以上的看法形成明显分歧。与此同时，美银仍假设DRAM涨价延续至20",
+     "source": "华尔街见闻",
+     "zh": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱"
     }
    ]
   },

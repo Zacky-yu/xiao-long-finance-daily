@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1032,14 +1032,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1770,14 +1762,6 @@ window.INDUSTRY_DATA = {
      "zh": "Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases (Bloomberg)"
     },
     {
-     "title": "队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，LPL 拿下第四冠",
-     "link": "https://www.ithome.com/1/027/258.htm",
-     "pubDate": "Sun, 15 Nov 2026 00:02:49 GMT",
-     "summary": "IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛刚刚结束，来自 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队，勇夺《英雄联盟》S16 冠军。 IT之家附官方赛况如下： GEN 1:0 BLG 8 分钟，巢虫处，Knight 洛克在 Xun 嘉文四世的帮助下，击败奥拉夫拿下一血； 22 分钟，小龙处，ON 烈娜塔先手开团，但后续 GEN 更占优势，Chovy 辛德拉击败嘉文四世，Ruler 库奇跟上输出击败卡莉丝塔，GEN 打出零换三； 28 分钟，远古龙处，双方爆发团战，Kiin 奥拉夫侧面进场击败卡莉丝塔，Chov",
-     "source": "IT之家",
-     "zh": "队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，LPL 拿下第四冠"
-    },
-    {
      "title": "BLG终夺冠，LPL苦等五年终现曙光",
      "link": "https://www.huxiu.com/article/4905664.html?f=rss",
      "pubDate": "Sun, 15 Nov 2026 07:55:54 +0800",
@@ -1824,6 +1808,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 15 日消息，当地时间 11 月 14 日，SpaceX 在星舰第 15 次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船， 这是星舰飞船首次完成发射塔捕获 。 据介绍，SpaceX 计划使用该飞船在 LEO 轨道上构建一个庞大的网络 —— 根据埃隆 · 马斯克的说法，这个网络将包含一个由百万艘航天器组成的 AI 数据中心星座 。 组装这些巨型结构需要极高的组装频率。SpaceX 表示，采用双筷子式抓取方式是实现这一目标的关键，因为它能更快地进行星际飞船的检查、修复和重新发射。因此， 该公司很可能会在不久之后再次尝试这种手段 —— 很可能是在下一次飞船的飞行任务中。 I",
      "source": "IT之家",
      "zh": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座"
+    },
+    {
+     "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
+     "link": "https://www.ithome.com/1/027/252.htm",
+     "pubDate": "Sat, 14 Nov 2026 23:18:00 GMT",
+     "summary": "IT之家 11 月 15 日消息，今年 11 月 12 日，英伟达董事会今日宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副总裁和 CFO。 随后，一个名为“Stand with Jensen”的请愿活动在网上流传开来，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之家发文， 该活动已收集超过 12 万个签名 ， 较昨天增长约 6.3 万人次 。 该网站显示，本次活动的组织者和签名者担心，黄仁勋可能在未经正当程序、甚至没有几天时间为自己申辩的情况下被迫离职",
+     "source": "IT之家",
+     "zh": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名"
     },
     {
      "title": "德国可能失去下一代奔驰车型生产的机会",

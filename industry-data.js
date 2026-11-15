@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/15 22:32:07",
+ "generated_at": "2026/11/15 22:41:17",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Robbyant launches LingBot-Touch to give robots a sense of touch",
+     "link": "https://roboticsandautomationnews.com/2026/11/15/robbyant-launches-lingbot-touch-to-give-robots-a-sense-of-touch/107152/",
+     "pubDate": "Sun, 15 Nov 2026 14:34:52 +0000",
+     "summary": "Robbyant, an embodied AI company within Ant Group, has announced the open-source release of LingBot-Touch, a tactile foundation model that gives robots a critical missing sense by enabling robust touch perception. Pre-trained on nearly 5,000 hours of real-world tactile data, the model covers three m",
+     "source": "Robotics & Automation",
+     "zh": "Robbyant launches LingBot-Touch to give robots a sense of touch"
+    },
+    {
      "title": "CoreWeave partners with Wayve to accelerate AI training for autonomous vehicles",
      "link": "https://roboticsandautomationnews.com/2026/11/15/coreweave-partners-with-wayve-to-accelerate-ai-training-for-autonomous-vehicles/107148/",
      "pubDate": "Sun, 15 Nov 2026 12:50:34 +0000",
@@ -544,14 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "By Mackensie duPont Crowley, digital communications coordinator at University of Rhode Island’s Graduate School of Oceanography The National Oceanic and Atmospheric Administration Ocean Exploration Cooperative Institute, based at the University of Rhode Island Narragansett Bay Campus, hosted an unde",
      "source": "Robotics & Automation",
      "zh": "University of Rhode Island showcases underwater robotics and autonomous systems"
-    },
-    {
-     "title": "How Digital Transformation is Changing Modern Business Management",
-     "link": "https://roboticsandautomationnews.com/2026/11/14/how-digital-transformation-is-changing-modern-business-management/107119/",
-     "pubDate": "Sat, 14 Nov 2026 22:27:28 +0000",
-     "summary": "Most organizations have moved past the stage of isolated tech upgrades. What’s happening now is deeper: they’re redesigning the whole operating system of the company. Planning, execution, coordination, evaluation – all of it is being pulled into integrated digital platforms. Speed goes up. Accuracy ",
-     "source": "Robotics & Automation",
-     "zh": "How Digital Transformation is Changing Modern Business Management"
     },
     {
      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1032,14 +1032,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态",
+     "link": "https://www.ithome.com/1/027/456.htm",
+     "pubDate": "Sun, 15 Nov 2026 14:16:51 GMT",
+     "summary": "IT之家 11 月 15 日消息， 磷光发光拥有显著高于荧光发光的内量子效率 ，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度。 ▲ 10.95\" 平板电脑屏幕 OLED 此前已在红光和绿光器件上实现了磷光发光。然而由于光能量等因素的差异， 蓝光的磷光化一直是一大难题 ，相关技术的商业化直到近两年才有较为显著的进展。 ▲ 6.36\" 智能手机屏幕 而在本年度的企业全球显示生态大会上， TCL 华星展示了覆盖智能手机、平板电脑、微相机 3 大形态的蓝色磷光敏化荧光 (PSF) 产品 。其在蓝光器件中引入敏化剂，将三重态激子能量高效传递给蓝光发光体。 针对蓝光磷光化的现实困难，T",
+     "source": "IT之家",
+     "zh": "TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态"
+    },
+    {
      "title": "鸿蒙智行尚界 Z7T 星野套装实车图曝光，新增行李架、跨界套件、黑色尾翼等",
      "link": "https://www.ithome.com/1/027/454.htm",
      "pubDate": "Sun, 15 Nov 2026 13:53:46 GMT",
@@ -1848,14 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 51 # Comments: 24",
      "source": "Hacker News",
      "zh": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
-    },
-    {
-     "title": "上汽大通 27 款大拿 V1L 上市：标配宁德时代电池，11.68 万起",
-     "link": "https://www.ithome.com/1/027/449.htm",
-     "pubDate": "Sun, 15 Nov 2026 13:13:43 GMT",
-     "summary": "IT之家 11 月 15 日消息，11 月 13 日，上汽大通 27 款大拿 V1L 正式上市， 售价 11.68 万元起 ，官方称全系标配宁德时代天行商用电池。 IT之家从官方公布信息获悉，27 款大拿 V1L 共带来 7 项升级，官方将其概括为“加配不加价”。车身采用方圆之融的前脸设计，本次为焕新前脸。该车定位纯电动轻客， 面向国内城配物流与营运客运市场 。 在装载能力上，官方称其拥有同级领先的“大 9 方”装载空间，最大空间利用率 98%，轮包间距 1.25m，额定载重 1.27t，地板高度 520mm。前排 3 人座为官方所称同级唯一标配，同时提供 7/8/9 座营运版布局。 车身尺寸",
-     "source": "IT之家",
-     "zh": "上汽大通 27 款大拿 V1L 上市：标配宁德时代电池，11.68 万起"
     },
     {
      "title": "给耐克做鞋的，为什么比耐克更焦虑？",
@@ -2032,6 +2032,14 @@ window.INDUSTRY_DATA = {
      "summary": "The PS5 has several quality-of-life features that are buried deep but have been expanded over the years. These options save time and reduce annoyances.",
      "source": "Engadget",
      "zh": "5 tips and tricks every PS5 owner should know"
+    },
+    {
+     "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
+     "link": "https://9to5google.com/2026/11/15/google-pixel-tag-find-hub-problems/",
+     "pubDate": "Sun, 15 Nov 2026 14:00:00 +0000",
+     "summary": "The Google Pixel Tag is here and, at least so far, it’s really good. But fresh hardware and some new features can’t fix the core problem. Google’s Find Hub network has been restricted from the very start, and it’s not something Google can easily fix. 9to5Google Weekender by Ben Schoon is a part of o",
+     "source": "9to5Google",
+     "zh": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix"
     },
     {
      "title": "Anker vs. Belkin: Which company's power banks and accessories should you get?",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp. more…",
      "source": "9to5Google",
      "zh": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages"
-    },
-    {
-     "title": "What you should know before using Adobe’s latest photo-editing tools",
-     "link": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
-     "pubDate": "Fri, 13 Nov 2026 22:07:53 +0000",
-     "summary": "Demonstrations with Adobe’s product managers offered more insight into how the new features work. Trying them myself raised a few more questions.",
-     "source": "DPReview",
-     "zh": "What you should know before using Adobe’s latest photo-editing tools"
     }
    ]
   },
@@ -2274,6 +2274,14 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft outage, flight disruptions expose infrastructure risks"
     },
     {
+     "title": "中国“星链”走到商用前夜",
+     "link": "http://www.eeo.com.cn/2026/1115/1094089.shtml",
+     "pubDate": "Sun, 15 Nov 2026 22:07:13 +0800",
+     "summary": "随着年底的节点临近，国产低轨星座的商用，正在面临卫星、用户和收入三个环节的检验。",
+     "source": "经济观察网",
+     "zh": "中国“星链”走到商用前夜"
+    },
+    {
      "title": "Top global stories this week: Siemens, Generali, MUFG among notable names",
      "link": "https://seekingalpha.com/news/4672598-top-global-stories-this-week-siemens-generali-mufg-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 09:00:08 -0500",
@@ -2298,12 +2306,60 @@ window.INDUSTRY_DATA = {
      "zh": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?"
     },
     {
+     "title": "复星医药多款药品及新增适应症纳入国家医保目录",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931496731.html",
+     "pubDate": "Sun, 15 Nov 2026 21:57:50 +0800",
+     "summary": "11月15日晚间， 复星医药 公告称，根据2026年国家医保目录结果，公司及控股子公司多款药品实现首次纳入、备注信息调整，或转入常规目录管理。 从产品明细来看，汉斯状（斯鲁利单抗注射液）为本次首次纳入医保；复妥宁（枸橼酸伏维西利胶囊）和复迈宁（芦沃美替尼片）新增医保支付适应症；复可舒（抗人T细胞兔免疫球蛋白）放宽支付限定；奥康泽（奈妥匹坦帕洛诺司琼胶囊）、马立巴韦片从谈判药品转入常规目录管理。 公告显示，2025年度及2026年前三季度，本次医保目录调整涉及药品的合计销售额分别为22.34亿元、15.13亿元，占集团同期营业收入比重分别为5.36%、4.97%。 复星医药 称，药品新纳入医保、",
+     "source": "东方财富股票",
+     "zh": "复星医药多款药品及新增适应症纳入国家医保目录"
+    },
+    {
+     "title": "新世界发展：拟供股融资约249亿港元，目标2031年底削债400至500亿港元",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931498061.html",
+     "pubDate": "Sun, 15 Nov 2026 21:54:28 +0800",
+     "summary": "11月15日， 新世界发展 有限公司（ 新世界发展 ，00017.HK）宣布，建议进行全额包销供股，筹集约249亿港元（扣除开支前）。 新世界发展 表示，这是集团全面资本重新整合计划“组合拳”中的一环，与同日提出的 银行 贷款再融资方案配套推进。 所谓包销供股，是指在供股的基础上增加包销安排。供股（注：在A股中即配股）指公司按股东现有持股比例配发新股募资，股东需另行付费认购；包销则指包销商向公司承诺，供股期结束后股东未认购或未足额认购的剩余新股，全部由其按认购价承接，承接后可再配售予第三方。因此，一般而言，在交易条件达成、包销商履约的前提下，包销供股使得公司募资额不会因认购不足而缩水，可以按计",
+     "source": "东方财富股票",
+     "zh": "新世界发展：拟供股融资约249亿港元，目标2031年底削债400至500亿港元"
+    },
+    {
      "title": "Megaspeed says Alice Huang left in 2025 amid U.S. scrutiny",
      "link": "https://seekingalpha.com/news/4672782-megaspeed-says-alice-huang-left-in-2025-amid-u-s-scrutiny?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 08:53:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Megaspeed says Alice Huang left in 2025 amid U.S. scrutiny"
+    },
+    {
+     "title": "回购！注销！多家巨头密集宣布→",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931498288.html",
+     "pubDate": "Sun, 15 Nov 2026 21:50:00 +0800",
+     "summary": "11月13日晚间，A股回购公告再现密集披露。 中国巨石 、 中材科技 宣布回购并注销股份，多家公司同步披露亿元级回购方案。据证监会数据，2026年前10个月，645家公司披露的回购计划中，拟用于回购注销的金额达1150亿元，占比接近50%，创 历史新高 。 2家公司回购并注销股份 中国巨石 ：拟1.5亿元至2.5亿元回购公司股份，并全部注销 中国巨石 (600176.SH)公告称，公司拟以集中竞价交易方式回购股份，回购金额为1.5亿元至2.5亿元，回购价格上限为49.15元/股，回购股份将用于维护公司价值及股东权益，并全部注销以减少注册资本。回购期限为股东会审议通过后3个月内。 公开信息显示，",
+     "source": "东方财富股票",
+     "zh": "回购！注销！多家巨头密集宣布→"
+    },
+    {
+     "title": "特朗普：我正在白宫开会，议题涉及多个方面",
+     "link": "http://finance.eastmoney.com/news/1351,202611153931497428.html",
+     "pubDate": "Sun, 15 Nov 2026 21:49:54 +0800",
+     "summary": "特朗普：我正在白宫开会，议题涉及多个方面。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普：我正在白宫开会，议题涉及多个方面"
+    },
+    {
+     "title": "美国交通部长达菲：没有迹象表明发生了网络攻击，我们将与联邦调查局继续调查",
+     "link": "http://finance.eastmoney.com/news/1351,202611153931497353.html",
+     "pubDate": "Sun, 15 Nov 2026 21:48:44 +0800",
+     "summary": "美国交通部长达菲：没有迹象表明发生了网络攻击，我们将与联邦调查局继续调查。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国交通部长达菲：没有迹象表明发生了网络攻击，我们将与联邦调查局继续调查"
+    },
+    {
+     "title": "美国交通部长达菲：联邦航空管理局、Juniper和思科工程师也在协助",
+     "link": "http://finance.eastmoney.com/news/1351,202611153931497170.html",
+     "pubDate": "Sun, 15 Nov 2026 21:48:43 +0800",
+     "summary": "美国交通部长达菲：联邦航空管理局、Juniper和 思科 工程师也在协助。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国交通部长达菲：联邦航空管理局、Juniper和思科工程师也在协助"
     },
     {
      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
@@ -2440,62 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
      "source": "Financial Times",
      "zh": "Congress moves to pass tighter AI chip export rules following Nvidia scandal"
-    },
-    {
-     "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
-     "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-     "pubDate": "Sun, 15 Nov 2026 08:34:46 GMT",
-     "summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
-     "source": "CNBC",
-     "zh": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business"
-    },
-    {
-     "title": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱",
-     "link": "https://wallstreetcn.com/articles/3785963",
-     "pubDate": "Sun, 15 Nov 2026 16:33:47 +0800",
-     "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设：IT用NAND价格环比下降5%至10%，企业级应用基本持平或小幅上行，整体低个位数下滑 。这一判断与市场仍预期NAND售价上涨10%以上的看法形成明显分歧。与此同时，美银仍假设DRAM涨价延续至20",
-     "source": "华尔街见闻",
-     "zh": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱"
-    },
-    {
-     "title": "AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”",
-     "link": "https://wallstreetcn.com/articles/3785958",
-     "pubDate": "Sun, 15 Nov 2026 15:23:13 +0800",
-     "summary": "美元与AI资本开支预期深度绑定，高盛警告：当AI叙事退潮，美元将随之承压。 高盛外汇策略团队在《2027全球外汇展望》报告中指出， 美元短期内仍有上行空间，但2027年将迎来实质性逆转。 在历经2025年的大规模抛售与多元化配置后，美元于2026年悄然收复失地——欧元兑美元回落至\"解放日\"以来低位，美元指数（DXY）触及2025年4月以来最高点，美元兑日元逼近160关口。 高盛认为，支撑这轮涨势的核心驱动力正是AI相关投资预期的持续升温，而一旦这一预期见顶，美元也将面临同样的拐点。 数据显示，外国投资者在截至今年8月的一年间净购入创纪录的1.47万亿美元美国股票及企业债券，几乎是全球金融危机前",
-     "source": "华尔街见闻",
-     "zh": "AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”"
-    },
-    {
-     "title": "What will Nvidia’s post-Huang era look like?",
-     "link": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
-     "pubDate": "Sun, 15 Nov 2026 05:00:14 GMT",
-     "summary": "The chip company has only itself to blame for a long list of adversaries",
-     "source": "Financial Times",
-     "zh": "What will Nvidia’s post-Huang era look like?"
-    },
-    {
-     "title": "How Infantino flew his way out of a Fifa rebellion",
-     "link": "https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1",
-     "pubDate": "Sun, 15 Nov 2026 05:00:13 GMT",
-     "summary": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan",
-     "source": "Financial Times",
-     "zh": "How Infantino flew his way out of a Fifa rebellion"
-    },
-    {
-     "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
-     "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
-     "pubDate": "Sun, 15 Nov 2026 05:00:04 GMT",
-     "summary": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
-     "source": "Financial Times",
-     "zh": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels"
-    },
-    {
-     "title": "本周市场的“意外”：美债收益率与科技股债同涨",
-     "link": "https://wallstreetcn.com/articles/3785953",
-     "pubDate": "Sun, 15 Nov 2026 11:41:47 +0800",
-     "summary": "美债收益率大幅跳升的同时，科技股与信用债同步反弹。这一\"异常共振\"打破了市场对高利率压制风险资产的传统预期，也令投资者对这一组合能否持续心存疑虑。 追风交易台消息，11月13日，野村证券策略师Naka Matsuzawa研报指出， 科技股的反弹更可能只是此前大幅下跌后的技术性修复 ，对AI投资回报能够覆盖当前利率水平的信心实际上并未重建。 分析认为，这一组合的可持续性，将是未来一周市场的核心议题。 若美联储官员未能纠正市场对连续加息的过度定价预期，科技企业的融资压力或将重新浮现，届时股债同涨的局面恐难为继。 本周最大意外：加息预期与科技股\"反常\"同涨 野村证券总结出本周市场的两个相互矛盾现象：",
-     "source": "华尔街见闻",
-     "zh": "本周市场的“意外”：美债收益率与科技股债同涨"
     }
    ]
   },

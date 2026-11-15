@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 06:52:00",
+ "generated_at": "2026/11/16 07:11:55",
  "recent_days": 7,
  "industries": [
   {
@@ -466,6 +466,14 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
-    },
-    {
-     "title": "Rethinking Memory For AI Inference",
-     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
-     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
-     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1021,7 +1021,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1040,14 +1040,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1096,6 +1088,14 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1458,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1506,14 +1498,6 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1536,14 +1520,6 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1770,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Anthropic&apos;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
+     "link": "https://www.techmeme.com/261115/p18#a261115p18",
+     "pubDate": "Sun, 15 Nov 2026 18:00:00 -0500",
+     "summary": "Bloomberg : Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement &nbsp; &mdash;&nbsp; The startup is set for the biggest IPO of all time, putting AI investors' hopes and dreams &mdash; and fea",
+     "source": "Techmeme",
+     "zh": "Sources: Anthropic&apos;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)"
+    },
+    {
      "title": "ULA 成立 20 年来首次发射任务完全失败，火神火箭升空 10 分钟后出现异常",
      "link": "https://www.ithome.com/1/027/462.htm",
      "pubDate": "Sun, 15 Nov 2026 22:43:45 GMT",
@@ -1789,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "Old Bitly Links Are Being Hijacked",
      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
      "pubDate": "Sun, 15 Nov 2026 22:11:43 +0000",
-     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 12 # Comments: 4",
+     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 29 # Comments: 14",
      "source": "Hacker News",
      "zh": "Old Bitly Links Are Being Hijacked"
     },
@@ -1805,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
      "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
      "pubDate": "Sun, 15 Nov 2026 21:38:11 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 17 # Comments: 5",
+     "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 23 # Comments: 10",
      "source": "Hacker News",
      "zh": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites"
     },
@@ -1813,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Your Agent Will Pick the Hackable One",
      "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
      "pubDate": "Sun, 15 Nov 2026 21:10:39 +0000",
-     "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 46 # Comments: 25",
+     "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 49 # Comments: 30",
      "source": "Hacker News",
      "zh": "Your Agent Will Pick the Hackable One"
     },
@@ -1821,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
      "pubDate": "Sun, 15 Nov 2026 20:37:28 +0000",
-     "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 55 # Comments: 17",
+     "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 62 # Comments: 26",
      "source": "Hacker News",
      "zh": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost"
     },
@@ -1829,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "WebGL Flight Simulator with seed generated terrain",
      "link": "https://baron.by.dai.studio/",
      "pubDate": "Sun, 15 Nov 2026 20:20:05 +0000",
-     "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 26 # Comments: 7",
+     "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 32 # Comments: 7",
      "source": "Hacker News",
      "zh": "WebGL Flight Simulator with seed generated terrain"
     },
@@ -1842,12 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)"
     },
     {
-     "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-     "link": "https://arkanumdata.com/research/house-trades",
-     "pubDate": "Sun, 15 Nov 2026 19:46:02 +0000",
-     "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 90 # Comments: 94",
+     "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+     "link": "https://news.ycombinator.com/item?id=50510042",
+     "pubDate": "Sun, 15 Nov 2026 19:49:28 +0000",
+     "summary": "We're a small business that sells pre-booked appointments with homeowners to local contractors, billed per appointment that actually happens. Our first client agreed to this on a recorded call and saved his card through a $1 Stripe payment link, which we planned to use for billing later. That $1 pay",
      "source": "Hacker News",
-     "zh": "Do House members' stock trades beat the market? A test of 8,900 trades"
+     "zh": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence"
     },
     {
      "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
@@ -1864,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mackenzie Hawkins / Bloomberg : Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved &nbsp; &mdash;&nbsp; Nvidia Corp. appealed to Taiwanese officials after prosecutors on the island accused an ",
      "source": "Techmeme",
      "zh": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved (Mackenzie Hawkins/Bloomberg)"
-    },
-    {
-     "title": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China (Financial Times)",
-     "link": "https://www.techmeme.com/261115/p12#a261115p12",
-     "pubDate": "Sun, 15 Nov 2026 13:55:00 -0500",
-     "summary": "Financial Times : The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China &nbsp; &mdash;&nbsp; Pact comes ahead of Donald Trump's meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum i",
-     "source": "Techmeme",
-     "zh": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China (Financial Times)"
     },
     {
      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
@@ -2018,6 +1994,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Apple’s Messages app keeps getting better; here are my favorite updates",
+     "link": "https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/",
+     "pubDate": "Sun, 15 Nov 2026 23:06:10 +0000",
+     "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . Apple’s Messages app is the most-used ap",
+     "source": "9to5Mac",
+     "zh": "Apple’s Messages app keeps getting better; here are my favorite updates"
+    },
+    {
+     "title": "How long can a 1000 watt-hour power station run your devices?",
+     "link": "https://www.engadget.com/2313932/how-long-1000-watt-power-station-run-devices/",
+     "pubDate": "Sun, 15 Nov 2026 23:00:00 +0000",
+     "summary": "Determining the stamina of your portable power station is more complicated than simply dividing its battery capacity by the power consumption of your devices.",
+     "source": "Engadget",
+     "zh": "How long can a 1000 watt-hour power station run your devices?"
+    },
+    {
      "title": "Samsung is discontinuing these useful mobile apps in December",
      "link": "https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december/",
      "pubDate": "Sun, 15 Nov 2026 22:30:00 +0000",
@@ -2074,14 +2066,6 @@ window.INDUSTRY_DATA = {
      "zh": "AO3 is back online but with limited features"
     },
     {
-     "title": "How to get the most protection from your Ring camera security system",
-     "link": "https://www.engadget.com/2313904/how-to-maximize-ring-camera-security-protection/",
-     "pubDate": "Sun, 15 Nov 2026 21:30:00 +0000",
-     "summary": "A Ring camera can provide a huge boost to the safety of your home, but there's more you can do to maximize that added layer of security.",
-     "source": "Engadget",
-     "zh": "How to get the most protection from your Ring camera security system"
-    },
-    {
      "title": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro",
      "link": "https://www.gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php",
      "pubDate": "Sun, 15 Nov 2026 21:28:30 +0100",
@@ -2136,14 +2120,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Google Pixel Tag is here and, at least so far, it’s really good. But fresh hardware and some new features can’t fix the core problem. Google’s Find Hub network has been restricted from the very start, and it’s not something Google can easily fix. 9to5Google Weekender by Ben Schoon is a part of o",
      "source": "9to5Google",
      "zh": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix"
-    },
-    {
-     "title": "AirPods Pro 3 hit Black Friday pricing early at $179 (Reg. $249)",
-     "link": "https://9to5mac.com/2026/11/15/airpods-pro-3-hit-black-friday-pricing-early-at-179-reg-249/",
-     "pubDate": "Sun, 15 Nov 2026 13:39:39 +0000",
-     "summary": "Hot on the heels of Apple Watch Series 12 hitting its best price ever and all-time lows on AirTag 2 at $17.50 , Black Friday pricing is already live on AirPods Pro 3 starting today. You can now land the best earbuds on the planet at one of the lowest prices ever . more…",
-     "source": "9to5Mac",
-     "zh": "AirPods Pro 3 hit Black Friday pricing early at $179 (Reg. $249)"
     },
     {
      "title": "After three months with the Samsung Galaxy Watch 9, these are my favorite features",
@@ -2266,6 +2242,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "特朗普将中期选举失利与奥巴马、克林顿和里根作比较",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931547323.html",
+     "pubDate": "Mon, 16 Nov 2026 06:54:16 +0800",
+     "summary": "美国总统特朗普在社交媒体上发布图表，将共和党在中期选举中的失利与巴拉克·奥巴马、比尔·克林顿和罗纳德·里根执政时期的中期选举失利进行比较，在其任上共和党在众议院失去48个席位，在参议院失去8个席位，损失席位最少。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普将中期选举失利与奥巴马、克林顿和里根作比较"
+    },
+    {
+     "title": "美媒：万斯推迟至明年再定是否竞选总统，或于春末公开意向",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931547232.html",
+     "pubDate": "Mon, 16 Nov 2026 06:47:16 +0800",
+     "summary": "据Axios报道，两名了解计划的知情人士透露，美国副总统万斯在明年到来之前不会就其是否参加2028年总统竞选做出最终决定，并且可能会等到明年春末才公开宣布他的意向。目前，万斯仍然是接替特朗普成为共和党总统候选人的早期热门人选，但该党在中期选举中的失利使他的政治前途变得复杂，并可能重塑2028年的竞选格局。了解万斯想法的人士表示，他确实尚未决定是否参选，而且他的决策时间表在中期选举前就已经确定。不过，顾问们警告称，时间安排可能会发生变化。据一位接近万斯的人士透露，万斯最亲密的顾问认为他应该参加2028年大选，而且他很可能会参选。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美媒：万斯推迟至明年再定是否竞选总统，或于春末公开意向"
+    },
+    {
+     "title": "壁垒高企之下，跨国合作的韧性与边界",
+     "link": "http://finance.eastmoney.com/news/1354,202611163931547416.html",
+     "pubDate": "Mon, 16 Nov 2026 06:39:06 +0800",
+     "summary": "第九届中国国际进口博览会刚刚落幕，亮眼的成绩单，为动荡的全球贸易格局注入了一抹确定性。展馆之内，中外企业围绕 新能源 、智能装备、生物医药等领域的合作协议密集签署；展馆之外，单边主义关税措施层层加码，关键技术出口管制持续收紧，全球产业链正经历一轮深刻的“压力测试”。 同样面对关税抬升与技术限制的外部环境，跨国产业合作却呈现出截然不同的命运走向：有的逆势深化，从单一贸易升级为产能共建、技术共研的产业共同体；有的节节收缩，从深度合作退回浅层次交易，甚至最终走向破裂。这一分化背后，藏着一个兼具理论价值与现实意义的核心命题：究竟哪些因素，决定了一段跨国合作能够穿越周期、存续发展，又会因何触碰红线、走向",
+     "source": "东方财富股票",
+     "zh": "壁垒高企之下，跨国合作的韧性与边界"
+    },
+    {
      "title": "北京先通医药：全球发售H股最高发售价为每股68港元",
      "link": "http://finance.eastmoney.com/news/1351,202611163931545947.html",
      "pubDate": "Mon, 16 Nov 2026 06:39:03 +0800",
@@ -2298,22 +2298,6 @@ window.INDUSTRY_DATA = {
      "zh": "Baidu Q3 2026 Earnings Preview"
     },
     {
-     "title": "美国副总统万斯可能要到明年春末才会公布2028年的大选计划",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931545759.html",
-     "pubDate": "Mon, 16 Nov 2026 06:34:41 +0800",
-     "summary": "美国副总统万斯可能要到明年春末才会公布2028年的大选计划。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国副总统万斯可能要到明年春末才会公布2028年的大选计划"
-    },
-    {
-     "title": "伯纳姆将在伦敦金融城发表讲话，称脱欧并未取得预期效果",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931545678.html",
-     "pubDate": "Mon, 16 Nov 2026 06:33:48 +0800",
-     "summary": "英国首相伯纳姆周一将在伦敦金融城对听众表示，脱欧并未奏效，必须寻求新协议，率先从本周晚些时候和欧盟的峰会着手。首相将按照惯例，在伦敦市长大宴上发表外交政策演讲。他会提出，自2016年脱欧公投之后，形势已经改变，英国应当和邻近的民主国家建立更紧密的关系。根据提前披露的讲稿内容，伯纳姆预计会说：“我们拿到手的脱欧方案没有成功。我们失去的比得到的更多。” （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伯纳姆将在伦敦金融城发表讲话，称脱欧并未取得预期效果"
-    },
-    {
      "title": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday",
      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
      "pubDate": "Sun, 15 Nov 2026 22:33:26 GMT",
@@ -2322,28 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday"
     },
     {
-     "title": "胡塞武装称向沙特利雅得发射弹道导弹",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931545564.html",
-     "pubDate": "Mon, 16 Nov 2026 06:30:23 +0800",
-     "summary": "也门胡塞武装11月15日发表声明称，胡塞武装当天使用弹道导弹打击了沙特首都利雅得的哈立德国王国际 机场 和一座金融中心，另外还使用 无人机 袭击了沙特东西向输油管道的两座泵站。胡塞武装称这次袭击泵站行动成功实现了预定目标。 另外，也门胡塞武装15日称，过去24小时内，沙特主导的联军对也门萨达省、塔伊兹省等地发动了75次空袭和导弹袭击。声明称，自本轮也门局势升级以来，沙特主导的联军累计发起的空袭和导弹袭击次数已达5095次。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "胡塞武装称向沙特利雅得发射弹道导弹"
-    },
-    {
      "title": "Pictet raises Japan allocation as it looks beyond AI stocks",
      "link": "https://seekingalpha.com/news/4672813-pictet-raises-japan-allocation-as-it-looks-beyond-ai-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 17:20:36 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Pictet raises Japan allocation as it looks beyond AI stocks"
-    },
-    {
-     "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 22:15:00 GMT",
-     "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-     "source": "MarketWatch",
-     "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?"
     },
     {
      "title": "Bombardier secures 12-jet order from Saudi Arabia’s THC",
@@ -2386,52 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "U.S., allies agree to coordinate AI supply chain security"
     },
     {
-     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 21:32:00 GMT",
-     "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
-     "source": "MarketWatch",
-     "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
-    },
-    {
      "title": "Senators demand Lutnick testimony over alleged Nvidia chip diversions to China",
      "link": "https://seekingalpha.com/news/4672809-senators-demand-lutnick-testimony-over-alleged-nvidia-chip-diversions-to-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 16:31:52 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Senators demand Lutnick testimony over alleged Nvidia chip diversions to China"
-    },
-    {
-     "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-     "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 21:31:00 GMT",
-     "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-     "source": "MarketWatch",
-     "zh": "Budget airlines are going upscale with first-class seats and faster wifi"
-    },
-    {
-     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 20:30:00 GMT",
-     "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-     "source": "MarketWatch",
-     "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
-    },
-    {
-     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 20:01:00 GMT",
-     "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-     "source": "MarketWatch",
-     "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
-    },
-    {
-     "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-     "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 20:00:00 GMT",
-     "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-     "source": "MarketWatch",
-     "zh": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
     },
     {
      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
@@ -2498,12 +2426,60 @@ window.INDUSTRY_DATA = {
      "zh": "集体拉升！霍尔木兹海峡传出重磅消息！"
     },
     {
-     "title": "高端显卡价格跳水？记者实探深圳华强北",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931489260.html",
-     "pubDate": "Mon, 16 Nov 2026 00:20:46 +0800",
-     "summary": "近日，有报道称，近期高端显卡价格剧烈波动，部分型号产品售价从10月的1.8万元降至1.4万元。11月15日，中国证券报记者在 深圳华强 北实探时，有商户表示，目前显卡售价高昂，今年8月开始显卡价格涨幅显著，进入11月价格稍有回落。 显卡最初主要用于图形渲染，目前也大量承担AI算力运算任务。据媒体报道，此前受海外停产传闻刺激，10月中旬，RTX 50系列显卡价格连续上涨，一口气连涨11个交易日。 一位华强北电脑组装商户表示，今年8月开始，高端显卡涨价势头很猛，价格长期处于高位，近期稍有回落。他举例称，RTX 5080显卡售价从7月份的8000多元上涨至10月的超1.5万元，现在售价约1.4万元。",
-     "source": "东方财富资讯",
-     "zh": "高端显卡价格跳水？记者实探深圳华强北"
+     "title": "中国“星链”走到商用前夜",
+     "link": "http://www.eeo.com.cn/2026/1115/1094089.shtml",
+     "pubDate": "Sun, 15 Nov 2026 22:07:13 +0800",
+     "summary": "随着年底的节点临近，国产低轨星座的商用，正在面临卫星、用户和收入三个环节的检验。",
+     "source": "经济观察网",
+     "zh": "中国“星链”走到商用前夜"
+    },
+    {
+     "title": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季",
+     "link": "https://wallstreetcn.com/articles/3785968",
+     "pubDate": "Sun, 15 Nov 2026 21:08:47 +0800",
+     "summary": "美银证券首席投资策略师Michael Hartnett维持风险规避立场，并将此前设定的入场时间窗口大幅推后。强美元、高油价与居高不下的通胀共同构成三重障碍，令其此前为年底反弹行情设定的触发条件全线落空。 美元指数周五收于103.42，创年内新高。Hartnett将其定性为全球流动性的\"破坏之球\"—— 美元持续走强叠加黄金跌破4000美元，在其分析框架中意味着全球流动性正在收缩。 在此背景下，他将全球加息周期的终点推迟至明年4月美联储议息会议，并将看空风险资产的立场延续至明年春季美元见顶之后。 就市场影响而言，本轮强美元已对多类资产造成明显冲击 ：黄金年内跌幅扩大至10.4%，比特币跌幅达18.",
+     "source": "华尔街见闻",
+     "zh": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季"
+    },
+    {
+     "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+     "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+     "pubDate": "Sun, 15 Nov 2026 13:00:02 GMT",
+     "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+     "source": "CNBC",
+     "zh": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins"
+    },
+    {
+     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+     "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+     "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
+     "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+     "source": "CNBC",
+     "zh": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
+    },
+    {
+     "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+     "link": "https://wallstreetcn.com/articles/3785932",
+     "pubDate": "Sun, 15 Nov 2026 19:41:52 +0800",
+     "summary": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话会，数据中心收入与下季指引若能扛住，AI链获得企稳锚点；若指引转弱，本周已流向AMD、博通的轮动资金将再度失据。同日，黄仁勋须赴美国众议院三委员会联合听证，或将聚焦对外芯片销售与公司治理问答。 同时，",
+     "source": "华尔街见闻",
+     "zh": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报"
+    },
+    {
+     "title": "From culture war to class war: US Democrats ditch woke politics",
+     "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
+     "pubDate": "Sun, 15 Nov 2026 11:00:04 GMT",
+     "summary": "The newly emboldened party shifts gears after its sweeping midterm election victory",
+     "source": "Financial Times",
+     "zh": "From culture war to class war: US Democrats ditch woke politics"
+    },
+    {
+     "title": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱",
+     "link": "https://wallstreetcn.com/articles/3785963",
+     "pubDate": "Sun, 15 Nov 2026 16:33:47 +0800",
+     "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设：IT用NAND价格环比下降5%至10%，企业级应用基本持平或小幅上行，整体低个位数下滑 。这一判断与市场仍预期NAND售价上涨10%以上的看法形成明显分歧。与此同时，美银仍假设DRAM涨价延续至20",
+     "source": "华尔街见闻",
+     "zh": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/15 22:41:17",
+ "generated_at": "2026/11/15 22:54:59",
  "recent_days": 7,
  "industries": [
   {
@@ -458,6 +458,14 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
-    },
-    {
-     "title": "Rethinking Memory For AI Inference",
-     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
-     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
-     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -505,6 +505,22 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "GITEX Global to showcase latest humanoid robots and physical AI technologies in Dubai",
+     "link": "https://roboticsandautomationnews.com/2026/11/15/gitex-global-to-showcase-latest-humanoid-robots-and-physical-ai-technologies-in-dubai/107161/",
+     "pubDate": "Sun, 15 Nov 2026 14:51:36 +0000",
+     "summary": "GITEX Global 2026 will introduce a dedicated robotics exhibition, GITEX World RobotiX, bringing together humanoid robot manufacturers, embodied AI developers and industrial automation companies in Dubai from December 8 to 11. Taking place at the Dubai Exhibition Centre in Expo City Dubai, the event ",
+     "source": "Robotics & Automation",
+     "zh": "GITEX Global to showcase latest humanoid robots and physical AI technologies in Dubai"
+    },
+    {
+     "title": "Merec Industries builds new pasta factory in Mozambique to expand production capacity",
+     "link": "https://roboticsandautomationnews.com/2026/11/15/merec-industries-builds-new-pasta-factory-in-mozambique-to-expand-production-capacity/107156/",
+     "pubDate": "Sun, 15 Nov 2026 14:44:08 +0000",
+     "summary": "Invictus Investment Company, a UAE-based holding company specialised in agro-food commodities across the Middle East and Africa, has announced that its subsidiary Merec Industries is building the first pasta manufacturing plant in the northern region of Mozambique, in Nacala. Once the plant is compl",
+     "source": "Robotics & Automation",
+     "zh": "Merec Industries builds new pasta factory in Mozambique to expand production capacity"
+    },
     {
      "title": "Robbyant launches LingBot-Touch to give robots a sense of touch",
      "link": "https://roboticsandautomationnews.com/2026/11/15/robbyant-launches-lingbot-touch-to-give-robots-a-sense-of-touch/107152/",
@@ -536,22 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Dubai Future Foundation (DFF) has announced a partnership with DP World, which becomes the first strategic partner of the recently launched self-driving logistics joint venture, SHIFFT. Established in collaboration with Oxa, a global autonomous vehicle technology company, the venture forms part of t",
      "source": "Robotics & Automation",
      "zh": "DP World partners with Dubai Future Foundation to develop autonomous port logistics"
-    },
-    {
-     "title": "Embodied AI unveils AIR humanoid robot designed to learn factory tasks on the job",
-     "link": "https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/107133/",
-     "pubDate": "Sun, 15 Nov 2026 11:53:06 +0000",
-     "summary": "Swiss robotics company Embodied AI has unveiled AIR at Humanoid Europe 2026, a humanoid robot built to share the factory floor with people. As many as 1.9 million US manufacturing jobs could go unfilled by 2033, according to Deloitte and the Manufacturing Institute. AIR takes on the repetitive manua",
-     "source": "Robotics & Automation",
-     "zh": "Embodied AI unveils AIR humanoid robot designed to learn factory tasks on the job"
-    },
-    {
-     "title": "University of Rhode Island showcases underwater robotics and autonomous systems",
-     "link": "https://roboticsandautomationnews.com/2026/11/15/university-of-rhode-island-showcases-underwater-robotics-and-autonomous-systems/107124/",
-     "pubDate": "Sun, 15 Nov 2026 11:38:04 +0000",
-     "summary": "By Mackensie duPont Crowley, digital communications coordinator at University of Rhode Island’s Graduate School of Oceanography The National Oceanic and Atmospheric Administration Ocean Exploration Cooperative Institute, based at the University of Rhode Island Narragansett Bay Campus, hosted an unde",
-     "source": "Robotics & Automation",
-     "zh": "University of Rhode Island showcases underwater robotics and autonomous systems"
     },
     {
      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
+     "link": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/",
+     "pubDate": "Sun, 15 Nov 2026 14:43:57 +0000",
+     "summary": "COMAC’s CE-25A, China’s 19-seat battery-electric commuter plane, flew with a crew for the first time on Saturday in Binzhou, Shandong. Two pilots and a flight test engineer were aboard the roughly 10-tonne demonstrator, and COMAC says every system worked normally. It wasn’t the plane’s first flight.",
+     "source": "Electrek",
+     "zh": "China’s electric airliner era starts with a 19-seat plane and 400 km of range"
+    },
+    {
      "title": "Nio opens northernmost swap station in China, touting 3-minute swaps in extreme cold",
      "link": "https://cnevpost.com/2026/11/15/nio-opens-northernmost-swap-station-china-heihe/",
      "pubDate": "Sun, 15 Nov 2026 12:28:00 +0000",
@@ -720,14 +728,6 @@ window.INDUSTRY_DATA = {
      "summary": "The CEO of Einride, an electric freight company, says he's seeing more customer interest in electric trucking due to high fuel prices.",
      "source": "InsideEVs",
      "zh": "Diesel Prices Are Surging. This Electric Trucking Company Is Seeing More Interest"
-    },
-    {
-     "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
-     "link": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
-     "pubDate": "Sat, 14 Nov 2026 02:11:39 +0000",
-     "summary": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a month for an “Autonomy Subscription.” And it only works inside Tesla’s Robotaxi service areas in Texas and Florida, the same geofences that have turned out to be ",
-     "source": "Electrek",
-     "zh": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones"
     },
     {
      "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990",
@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1032,6 +1032,14 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
-    },
-    {
-     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
-     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
-     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
-     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
-     "source": "PV Tech",
-     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1442,14 +1442,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1490,14 +1482,6 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
-     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1520,22 +1504,6 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
-    },
-    {
-     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
-     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     }
    ]
   },
@@ -1762,6 +1730,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "你我都没资格嘲笑当代大学生相互举报",
+     "link": "https://www.huxiu.com/article/4905747.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 22:39:03 +0800",
+     "summary": "本文来自微信公众号： 建设性意见 ，作者：项栋梁 最近看了好多写当代大学生现状的报道，其中既有关注和关心，也有嘲笑与痛心。 《极昼工作室》报道： 0.01分赢下保研，第二天就被室友举报了 《南方周末》报道： 保研季怪象：警惕“举报文化”侵蚀校园 《人物》杂志报道： 当大学生不抬头、不听课、不交流 有的说现在的大学生上课不抬头，提问不回答，从大一上学开始闷头备战考研考公。 有的说现在的大学里互相举报蔚然成风，拉上床帘谁也不理，同宿舍四年没有一句闲聊。 一言以蔽之：这一代大学生不行。 你说以上这些情况是真实存在的吗？按一些大学生读者反馈给我的情况，闷头考研与互相举报虽然算不上所有大学的“普遍现象”",
+     "source": "虎嗅",
+     "zh": "你我都没资格嘲笑当代大学生相互举报"
+    },
+    {
+     "title": "Urbanplay：把街区故事变成生意",
+     "link": "https://www.huxiu.com/article/4905746.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 22:37:46 +0800",
+     "summary": "本文来自微信公众号： 乔尔事务所 ，作者：乔尔事务所，原文标题：《博物｜Urbanplay：把街区故事变成生意》 韩国的「Urbanplay」是一家有意思的城市更新机构，做策展、做数据库、也自主出版刊物，同时还具备空间改造和资产管理的能力，在资本市场也有一定吸引力。市面上集这些能力于一身的初创企业并不算多。 尤其是放在韩国——这个更早一步进入「超消费社会」的市场环境中，Urbanplay的生存之道更值得研究：这家城市更新企业如何定义自己？有怎样的经营策略？更重要的是他们如何赚钱，以及如何持续地赚钱。 🪜产品线：讲述地方故事的工具箱 Urbanplay的创始人洪柱锡（Hong Joo-seok",
+     "source": "虎嗅",
+     "zh": "Urbanplay：把街区故事变成生意"
+    },
+    {
+     "title": "凌晨3点，全国多家影院售罄，第一排都坐满了人，网友：几百人同场呐喊，太燃了",
+     "link": "https://www.huxiu.com/article/4905745.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 22:34:56 +0800",
+     "summary": "本文来自微信公众号： 每经头条 ，编辑：何小桃杨翼易启江，作者：每经记者，原文标题：《凌晨3点，全国多家影院售罄，第一排都坐满了人！网友：几百人同场呐喊，太燃了》 11月15日凌晨3点，全国多地电影院迎来了一批特殊的观众。为了观看远在美国纽约举行的《英雄联盟》S16全球总决赛，不少电竞迷提前抢购了69元起的影院观赛票。最终，中国赛区Bilibili Gaming战队（以下简称BLG战队）战胜韩国赛区GEN战队。作为BLG的母公司，B站随即宣布向用户免费赠送7天大会员，领取页面一度因访问热度过高，提示用户稍后再试。 《每日经济新闻》记者了解到，仅儒意影城东北区域所辖的19家门店，就为这场决赛开设",
+     "source": "虎嗅",
+     "zh": "凌晨3点，全国多家影院售罄，第一排都坐满了人，网友：几百人同场呐喊，太燃了"
+    },
+    {
+     "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+     "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+     "pubDate": "Sun, 15 Nov 2026 14:31:52 +0000",
+     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 4 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)"
+    },
+    {
      "title": "TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态",
      "link": "https://www.ithome.com/1/027/456.htm",
      "pubDate": "Sun, 15 Nov 2026 14:16:51 GMT",
@@ -1789,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
      "link": "https://prog21.dadgum.com/116.html",
      "pubDate": "Sun, 15 Nov 2026 13:44:16 +0000",
-     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 18 # Comments: 2",
      "source": "Hacker News",
      "zh": "Things That Turbo Pascal Is Smaller Than (2011)"
     },
@@ -1853,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
      "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
      "pubDate": "Sun, 15 Nov 2026 13:15:22 +0000",
-     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 51 # Comments: 24",
+     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 69 # Comments: 37",
      "source": "Hacker News",
      "zh": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
     },
@@ -1866,34 +1866,10 @@ window.INDUSTRY_DATA = {
      "zh": "给耐克做鞋的，为什么比耐克更焦虑？"
     },
     {
-     "title": "中国大模型的至暗时刻",
-     "link": "https://www.huxiu.com/article/4905740.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 21:03:07 +0800",
-     "summary": "本文来自微信公众号： 嬉笑创客 ，作者：CB 在所有人目光都放在黄仁勋戏剧性的大瓜之时，中国模型乃至整个AI产业正在迎来自己的至暗时刻。 2026年11月12日，黄仁勋突然辞职。 这位执掌英伟达33年、几乎成为全球AI革命代言人的人物，在一连串私人关系及国家安全争议之后，黯然离开了自己创办的公司。在主动请辞的最后时刻里，濒临崩溃的他说出了I am a piece of s***这样的惨痛之语。 中国AI产业可能失去的，远不止一个愿意卖芯片给中国，和我们相对友善的朋友。 黄仁勋始终是美国对华芯片限制最有影响力的反对者之一。他反复警告华盛顿，限制英伟达进入中国，只会帮助中国建立自己的计算生态。作为",
-     "source": "虎嗅",
-     "zh": "中国大模型的至暗时刻"
-    },
-    {
-     "title": "美国闹变压器荒，中国工厂谁拿到了订单？",
-     "link": "https://www.huxiu.com/article/4905739.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 20:59:06 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 今年6月的时候，金盘科技的一台345千伏液浸式变压器在海外送电。公司在三季报里只写了“海外”两个字，没有说是哪个国家。 电压等级给了线索。中国主网用的是220、330、500千伏，345千伏是北美输电网的主力等级之一。同一时期，韩国LS电气接到的一笔北美AI数据中心订单，规格同样是345千伏超高压变压器，合同金额1.33亿美元，交付排到2030年。 2026年前三季度，金盘科技新签海外订单61.49亿元，同比增长296.54%；数据中心业务新签订单56.78亿元，同比增长471.96%。 这些订单背后，是美国电网正在经历的一场变压",
-     "source": "虎嗅",
-     "zh": "美国闹变压器荒，中国工厂谁拿到了订单？"
-    },
-    {
-     "title": "港股上市主动刹车潮，对优质18A是利好",
-     "link": "https://www.huxiu.com/article/4905738.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 20:52:56 +0800",
-     "summary": "本文来自微信公众号： 氨基观察 ，作者：氨基君 最近，一批港股生物科技公司走到了上市流程的最后一步，却停了下来。 有的已通过聆讯，卡在基石投资者上，等不到窗口就要从头再来；更极端的，已启动招股后来又全额退回申购款。 这不是个案。港交所正在集中清查发行环节的违规操作，叠加二级市场流动性收缩、首日破发率走高，18A公司的发行难度抬升。主动刹车，成了越来越多公司的选择。 刹车意味着什么？对还在排队的优质18A，这轮清算是利空还是利好？为此，氨基君跟资深投行人士W君聊了聊。 /01/ 过聆讯不发、退回申购款：主动刹车是怎么来的 氨基君：怎么理解最近这波主动刹车？有公司聆讯都过了，已启动招股后来又全额退",
-     "source": "虎嗅",
-     "zh": "港股上市主动刹车潮，对优质18A是利好"
-    },
-    {
      "title": "A NES emulator written in Odin",
      "link": "https://lucypero.com/lucynes.html",
      "pubDate": "Sun, 15 Nov 2026 12:51:47 +0000",
-     "summary": "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 14 # Comments: 0",
      "source": "Hacker News",
      "zh": "A NES emulator written in Odin"
     },
@@ -1901,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Understanding Positional Embeddings in Modern LLMs",
      "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
      "pubDate": "Sun, 15 Nov 2026 12:14:06 +0000",
-     "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 28 # Comments: 0",
+     "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 38 # Comments: 0",
      "source": "Hacker News",
      "zh": "Understanding Positional Embeddings in Modern LLMs"
     },
@@ -1949,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
      "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
      "pubDate": "Sun, 15 Nov 2026 11:40:51 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 76 # Comments: 20",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 84 # Comments: 23",
      "source": "Hacker News",
      "zh": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business"
     },
@@ -1992,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
      "source": "WIRED",
      "zh": "It’s Getting Too Dry for Even Cactuses to Survive"
-    },
-    {
-     "title": "本田净利大涨66%，汽车业务却还在亏钱",
-     "link": "https://www.tmtpost.com/8205754.html",
-     "pubDate": "Sun, 15 Nov 2026 18:05:24 +0800",
-     "summary": "净利大涨背后，本田汽车仍亏损，摩托车与北美混动撑起利润。",
-     "source": "钛媒体",
-     "zh": "本田净利大涨66%，汽车业务却还在亏钱"
     }
    ]
   },
@@ -2009,6 +1977,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "These are some of the strongest 3D printer filaments for durable parts",
+     "link": "https://www.engadget.com/2313687/strongest-3d-printer-filament-carbon-fiber-nylon-polycarbonate/",
+     "pubDate": "Sun, 15 Nov 2026 14:30:00 +0000",
+     "summary": "Let's take a closer look at some of the strongest and most practical filaments for the type of 3D printers accessible to the average maker.",
+     "source": "Engadget",
+     "zh": "These are some of the strongest 3D printer filaments for durable parts"
+    },
     {
      "title": "Why did Google Pixels stop using Snapdragon chips?",
      "link": "https://www.engadget.com/2313685/why-google-pixel-stop-using-snapdragon/",
@@ -2162,14 +2138,6 @@ window.INDUSTRY_DATA = {
      "zh": "Weekly poll results: GrapheneOS support was a great move for the Motorola Signature 27"
     },
     {
-     "title": "Troubleshooting a black screen on your MacBook is easier than you think",
-     "link": "https://www.engadget.com/2313043/troubleshoot-macbook-black-screen-issues/",
-     "pubDate": "Sun, 15 Nov 2026 01:30:00 +0000",
-     "summary": "A black screen on your MacBook can feel like the end of the world, but don't panic: there are several easy troubleshooting steps to try first.",
-     "source": "Engadget",
-     "zh": "Troubleshooting a black screen on your MacBook is easier than you think"
-    },
-    {
      "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
      "link": "https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/",
      "pubDate": "Sun, 15 Nov 2026 00:42:21 +0000",
@@ -2257,6 +2225,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Lutnick backs narrower AI chip controls as family firm’s business draws scrutiny",
+     "link": "https://seekingalpha.com/news/4672784-lutnick-backs-narrower-ai-chip-controls-as-family-firm-s-business-draws-scrutiny?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 09:43:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lutnick backs narrower AI chip controls as family firm’s business draws scrutiny"
+    },
     {
      "title": "&apos;We slept here.&apos; Flight delays linger as airlines scramble to recover from ground stop",
      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
@@ -2488,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Even the most powerful frontier labs must bend to the power of public equity",
      "source": "Financial Times",
      "zh": "Anthropic’s IPO is the next big test for AI"
-    },
-    {
-     "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
-     "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
-     "pubDate": "Sun, 15 Nov 2026 11:00:04 GMT",
-     "summary": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
-     "source": "Financial Times",
-     "zh": "Congress moves to pass tighter AI chip export rules following Nvidia scandal"
     }
    ]
   },

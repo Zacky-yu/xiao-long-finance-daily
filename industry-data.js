@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/15 22:25:40",
+ "generated_at": "2026/11/15 22:32:07",
  "recent_days": 7,
  "industries": [
   {
@@ -218,6 +218,14 @@ window.INDUSTRY_DATA = {
      "zh": "突发！DeepSeek开放全家桶API"
     },
     {
+     "title": "“回来吧，黄仁勋”！2万人签名请愿",
+     "link": "https://zhidx.com/p/610355.html",
+     "pubDate": "Sat, 14 Nov 2026 10:38:30 +0800",
+     "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月13日报道，黄仁勋辞职公告发布后36小时，市场依然风声鹤唳，没有适应这一突然的变动。 截至今日美股收盘，英伟达股价下跌2.01%至每股162.85美元，为本周的持续下跌画上句号。 今日，英国《金融时报》报道称，据知情人士透露，英伟达董事会已与Arm首席执行官Rene Haas接洽，以寻找黄仁勋的继任者。不过他只是候选人之一，并不能保证他一定会被聘用或接受这份工作。 对此，有网友调侃：“怎么可能会有CEO在亲眼目睹董事会最恶劣的背叛行径后，放弃自己的职位，转而加入英伟达？英伟达董事会和CFO已经自毁声誉。” 另据NBC报道，圣何塞的Denn",
+     "source": "智东西",
+     "zh": "“回来吧，黄仁勋”！2万人签名请愿"
+    },
+    {
      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
      "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
      "source": "TechCrunch AI",
      "zh": "AI agent startup LangChain hits $3B valuation"
-    },
-    {
-     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-     "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-     "pubDate": "Fri, 13 Nov 2026 18:00:39 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Build a Robot Pick-and-Place Simulation with SimReady Assets"
     }
    ]
   },
@@ -458,14 +458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1442,6 +1442,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1482,6 +1490,14 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1504,6 +1520,22 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
+    },
+    {
+     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
+     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     }
    ]
   },
@@ -1749,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
      "link": "https://prog21.dadgum.com/116.html",
      "pubDate": "Sun, 15 Nov 2026 13:44:16 +0000",
-     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 9 # Comments: 1",
      "source": "Hacker News",
      "zh": "Things That Turbo Pascal Is Smaller Than (2011)"
     },
@@ -1813,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
      "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
      "pubDate": "Sun, 15 Nov 2026 13:15:22 +0000",
-     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 20 # Comments: 4",
+     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 51 # Comments: 24",
      "source": "Hacker News",
      "zh": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
     },
@@ -1861,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "A NES emulator written in Odin",
      "link": "https://lucypero.com/lucynes.html",
      "pubDate": "Sun, 15 Nov 2026 12:51:47 +0000",
-     "summary": "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 9 # Comments: 0",
      "source": "Hacker News",
      "zh": "A NES emulator written in Odin"
     },
@@ -1869,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Understanding Positional Embeddings in Modern LLMs",
      "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
      "pubDate": "Sun, 15 Nov 2026 12:14:06 +0000",
-     "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 20 # Comments: 0",
+     "summary": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 28 # Comments: 0",
      "source": "Hacker News",
      "zh": "Understanding Positional Embeddings in Modern LLMs"
     },
@@ -1917,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
      "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
      "pubDate": "Sun, 15 Nov 2026 11:40:51 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 59 # Comments: 17",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 76 # Comments: 20",
      "source": "Hacker News",
      "zh": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business"
     },
@@ -1977,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Why did Google Pixels stop using Snapdragon chips?",
+     "link": "https://www.engadget.com/2313685/why-google-pixel-stop-using-snapdragon/",
+     "pubDate": "Sun, 15 Nov 2026 14:15:00 +0000",
+     "summary": "There was a time when Google relied on Snapdragon chips to make its Pixel smartphones, but that's not the case anymore. Here's why it stopped.",
+     "source": "Engadget",
+     "zh": "Why did Google Pixels stop using Snapdragon chips?"
+    },
     {
      "title": "Tilta Khronos Oppo Find X10 Pro Max Creator Kit hands-on",
      "link": "https://www.gsmarena.com/tilta_khronos_oppo_find_x10_pro_max_creator_kit_handson-news-75476.php",
@@ -2122,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "Troubleshooting a black screen on your MacBook is easier than you think"
     },
     {
-     "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
-     "link": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
-     "pubDate": "Sun, 15 Nov 2026 01:00:00 +0000",
-     "summary": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5.",
-     "source": "Engadget",
-     "zh": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple"
-    },
-    {
      "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
      "link": "https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/",
      "pubDate": "Sun, 15 Nov 2026 00:42:21 +0000",
@@ -2226,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "&apos;We slept here.&apos; Flight delays linger as airlines scramble to recover from ground stop",
+     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+     "pubDate": "Sun, 15 Nov 2026 14:24:18 GMT",
+     "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+     "source": "CNBC",
+     "zh": "&apos;We slept here.&apos; Flight delays linger as airlines scramble to recover from ground stop"
+    },
+    {
      "title": "Microsoft outage, flight disruptions expose infrastructure risks",
      "link": "https://seekingalpha.com/news/4672783-microsoft-outage-flight-disruptions-expose-infrastructure-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 09:21:57 -0500",
@@ -2258,60 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?"
     },
     {
-     "title": "复星医药多款药品及新增适应症纳入国家医保目录",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931496731.html",
-     "pubDate": "Sun, 15 Nov 2026 21:57:50 +0800",
-     "summary": "11月15日晚间， 复星医药 公告称，根据2026年国家医保目录结果，公司及控股子公司多款药品实现首次纳入、备注信息调整，或转入常规目录管理。 从产品明细来看，汉斯状（斯鲁利单抗注射液）为本次首次纳入医保；复妥宁（枸橼酸伏维西利胶囊）和复迈宁（芦沃美替尼片）新增医保支付适应症；复可舒（抗人T细胞兔免疫球蛋白）放宽支付限定；奥康泽（奈妥匹坦帕洛诺司琼胶囊）、马立巴韦片从谈判药品转入常规目录管理。 公告显示，2025年度及2026年前三季度，本次医保目录调整涉及药品的合计销售额分别为22.34亿元、15.13亿元，占集团同期营业收入比重分别为5.36%、4.97%。 复星医药 称，药品新纳入医保、",
-     "source": "东方财富股票",
-     "zh": "复星医药多款药品及新增适应症纳入国家医保目录"
-    },
-    {
-     "title": "新世界发展：拟供股融资约249亿港元，目标2031年底削债400至500亿港元",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931498061.html",
-     "pubDate": "Sun, 15 Nov 2026 21:54:28 +0800",
-     "summary": "11月15日， 新世界发展 有限公司（ 新世界发展 ，00017.HK）宣布，建议进行全额包销供股，筹集约249亿港元（扣除开支前）。 新世界发展 表示，这是集团全面资本重新整合计划“组合拳”中的一环，与同日提出的 银行 贷款再融资方案配套推进。 所谓包销供股，是指在供股的基础上增加包销安排。供股（注：在A股中即配股）指公司按股东现有持股比例配发新股募资，股东需另行付费认购；包销则指包销商向公司承诺，供股期结束后股东未认购或未足额认购的剩余新股，全部由其按认购价承接，承接后可再配售予第三方。因此，一般而言，在交易条件达成、包销商履约的前提下，包销供股使得公司募资额不会因认购不足而缩水，可以按计",
-     "source": "东方财富股票",
-     "zh": "新世界发展：拟供股融资约249亿港元，目标2031年底削债400至500亿港元"
-    },
-    {
      "title": "Megaspeed says Alice Huang left in 2025 amid U.S. scrutiny",
      "link": "https://seekingalpha.com/news/4672782-megaspeed-says-alice-huang-left-in-2025-amid-u-s-scrutiny?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 08:53:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Megaspeed says Alice Huang left in 2025 amid U.S. scrutiny"
-    },
-    {
-     "title": "回购！注销！多家巨头密集宣布→",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931498288.html",
-     "pubDate": "Sun, 15 Nov 2026 21:50:00 +0800",
-     "summary": "11月13日晚间，A股回购公告再现密集披露。 中国巨石 、 中材科技 宣布回购并注销股份，多家公司同步披露亿元级回购方案。据证监会数据，2026年前10个月，645家公司披露的回购计划中，拟用于回购注销的金额达1150亿元，占比接近50%，创 历史新高 。 2家公司回购并注销股份 中国巨石 ：拟1.5亿元至2.5亿元回购公司股份，并全部注销 中国巨石 (600176.SH)公告称，公司拟以集中竞价交易方式回购股份，回购金额为1.5亿元至2.5亿元，回购价格上限为49.15元/股，回购股份将用于维护公司价值及股东权益，并全部注销以减少注册资本。回购期限为股东会审议通过后3个月内。 公开信息显示，",
-     "source": "东方财富股票",
-     "zh": "回购！注销！多家巨头密集宣布→"
-    },
-    {
-     "title": "特朗普：我正在白宫开会，议题涉及多个方面",
-     "link": "http://finance.eastmoney.com/news/1351,202611153931497428.html",
-     "pubDate": "Sun, 15 Nov 2026 21:49:54 +0800",
-     "summary": "特朗普：我正在白宫开会，议题涉及多个方面。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：我正在白宫开会，议题涉及多个方面"
-    },
-    {
-     "title": "美国交通部长达菲：没有迹象表明发生了网络攻击，我们将与联邦调查局继续调查",
-     "link": "http://finance.eastmoney.com/news/1351,202611153931497353.html",
-     "pubDate": "Sun, 15 Nov 2026 21:48:44 +0800",
-     "summary": "美国交通部长达菲：没有迹象表明发生了网络攻击，我们将与联邦调查局继续调查。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国交通部长达菲：没有迹象表明发生了网络攻击，我们将与联邦调查局继续调查"
-    },
-    {
-     "title": "美国交通部长达菲：联邦航空管理局、Juniper和思科工程师也在协助",
-     "link": "http://finance.eastmoney.com/news/1351,202611153931497170.html",
-     "pubDate": "Sun, 15 Nov 2026 21:48:43 +0800",
-     "summary": "美国交通部长达菲：联邦航空管理局、Juniper和 思科 工程师也在协助。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国交通部长达菲：联邦航空管理局、Juniper和思科工程师也在协助"
     },
     {
      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
@@ -2330,6 +2322,14 @@ window.INDUSTRY_DATA = {
      "zh": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?"
     },
     {
+     "title": "高端显卡价格跳水？记者实探深圳华强北",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931489260.html",
+     "pubDate": "Sun, 15 Nov 2026 21:20:46 +0800",
+     "summary": "近日，有报道称，近期高端显卡价格剧烈波动，部分型号产品售价从10月的1.8万元降至1.4万元。11月15日，中国证券报记者在 深圳华强 北实探时，有商户表示，目前显卡售价高昂，今年8月开始显卡价格涨幅显著，进入11月价格稍有回落。 显卡最初主要用于图形渲染，目前也大量承担AI算力运算任务。据媒体报道，此前受海外停产传闻刺激，10月中旬，RTX 50系列显卡价格连续上涨，一口气连涨11个交易日。 一位华强北电脑组装商户表示，今年8月开始，高端显卡涨价势头很猛，价格长期处于高位，近期稍有回落。他举例称，RTX 5080显卡售价从7月份的8000多元上涨至10月的超1.5万元，现在售价约1.4万元。",
+     "source": "东方财富资讯",
+     "zh": "高端显卡价格跳水？记者实探深圳华强北"
+    },
+    {
      "title": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季",
      "link": "https://wallstreetcn.com/articles/3785968",
      "pubDate": "Sun, 15 Nov 2026 21:08:47 +0800",
@@ -2344,6 +2344,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Earnings Week Ahead: NVDA, WMT, TGT, DIS, BABA, BIDU, HD, and more"
+    },
+    {
+     "title": "11月15日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931479061.html",
+     "pubDate": "Sun, 15 Nov 2026 21:00:03 +0800",
+     "summary": "今日摘要 2013年以来，习近平主席以深邃历史眼光把握时代大势，一次次提出清晰主张与务实倡议，倡导亚太大家庭同心相向，引领亚太向着正确方向前行。系列报道【建设亚太共同体促进共同繁荣】今天播出：共担时代责任，共促亚太发展。 中共中央印发《中国共产党地方委员会工作条例》。 李强会见泰国国王。 学习贯彻党的二十届五中全会精神中央宣讲团成员在云南省、辽宁省、黑龙江省宣讲。 新时代以来，人民法院以高质量司法护航中国式现代化。 多国人士期待中国同亚太伙伴共享机遇、共启发展繁荣新航程。 内容速览 【建设亚太共同体 促进共同繁荣】共担时代责任 共促亚太发展 亚太经合组织是亚太地区层级最高、领域最广、影响力最大",
+     "source": "东方财富资讯",
+     "zh": "11月15日晚间央视新闻联播要闻集锦"
     },
     {
      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
@@ -2362,12 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
     },
     {
-     "title": "&apos;We slept here.&apos; Flight delays linger as airlines scramble to recover from ground stop",
-     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-     "pubDate": "Sun, 15 Nov 2026 12:51:28 GMT",
-     "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-     "source": "CNBC",
-     "zh": "&apos;We slept here.&apos; Flight delays linger as airlines scramble to recover from ground stop"
+     "title": "AI应用爆发！主线切换还是资金轮动？基金经理最新解读",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931476671.html",
+     "pubDate": "Sun, 15 Nov 2026 20:40:35 +0800",
+     "summary": "近期， AI应用 板块接连爆发，成为市场关注焦点。其中，AI短剧指数在11月前两周涨幅超过25%，端侧AI呈现集体异动， 物理AI 同期涨幅超10%，振幅明显放大。 本轮行情背后的逻辑是什么？是否意味着新主线已经形成？当前处于什么阶段？哪些细分方向值得布局？ 对此，中国基金报记者采访了： 博时基金指数与量化投资部基金经理李庆阳； 鑫元基金权益投资部负责人、基金经理李彪； 国泰基金基金经理李星全； 平安鼎越基金经理林清源； 恒生前海消费升级混合基金经理胡启聪。 上述基金经理普遍认为，近期 AI应用 板块爆发本质上是资金从交易拥挤的算力硬件向低位、有产业催化的应用端进行的高低切换与结构性轮动，而非",
+     "source": "东方财富资讯",
+     "zh": "AI应用爆发！主线切换还是资金轮动？基金经理最新解读"
     },
     {
      "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
@@ -2378,12 +2386,36 @@ window.INDUSTRY_DATA = {
      "zh": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?"
     },
     {
+     "title": "11月15日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931476331.html",
+     "pubDate": "Sun, 15 Nov 2026 20:00:46 +0800",
+     "summary": "沪深两市多家上市公司11月15日晚间发布公司公告，以下为重要公告汇总。 【品大事】 *ST闻泰 ：企业法庭就安世境外追加临时措施申请作出裁定，公司拟上诉 *ST闻泰 (600745)11月15日公告，公司境外子公司安世 半导体 控股有限公司和安世 半导体 有限公司前期向荷兰阿姆斯特丹上诉法院企业法庭（以下简称“企业法庭”）提交追加临时措施的申请，企业法庭于10月30日开庭审理，于11月11日作出临时措施裁定，责令公司、裕成控股及安世中国尊重并容忍管理人履行其职责、准许并容忍安世 半导体 及管理人开展市场调研、接洽市场主体，撤回部分中国境内诉讼诉求、禁止执行东莞中院部分行为保全裁定等。此次裁定仅",
+     "source": "东方财富资讯",
+     "zh": "11月15日晚间沪深上市公司重大事项公告最新快递"
+    },
+    {
      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
      "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
      "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
      "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
      "source": "CNBC",
      "zh": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
+    },
+    {
+     "title": "葛卫东再出手 最新布局方向是物理AI",
+     "link": "http://stock.eastmoney.com/news/11215,202611153931478784.html",
+     "pubDate": "Sun, 15 Nov 2026 19:56:23 +0800",
+     "summary": "葛卫东再出手，最新布局方向是 物理AI 。 11月13日，创业公司易博图证实，在其最新一轮融资名单中，知名投资人葛卫东现身。易博图成立于2026年2月，聚焦重载工业 物理AI 领域。梳理发现，葛卫东布局科技板块笃定坚决，在今年三季度科技板块的剧烈调整行情中，葛卫东家族持仓基本不变。 葛卫东出手 锚定AI主线，葛卫东再出手。近日，易博图连续完成两轮融资，合计金额近4亿元。投资方包括葛卫东、辰韬资本、弘毅投资、零一 汽车 、兴富资本、猎鹰投资旗下星奇基金等。 易博图公司的官方公众号转载相关报道予以证实。 梳理发现，易博图成立于2026年2月，聚焦重载工业 物理AI ，核心业务是研发面向重载场景的“",
+     "source": "东方财富资讯",
+     "zh": "葛卫东再出手 最新布局方向是物理AI"
+    },
+    {
+     "title": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931472510.html",
+     "pubDate": "Sun, 15 Nov 2026 19:53:01 +0800",
+     "summary": "据伊朗塔斯尼姆通讯社15日报道，伊朗议会国家安全与外交政策委员会发言人卡什卡维说，该委员会已完成霍尔木兹海峡相关方案的专业审议，就有关通行航道“与两个沿岸国家达成协议”。 卡什卡维表示，伊朗方面曾在伊首都德黑兰和阿曼首都马斯喀特举行多轮会谈。商定的航道将先以临时方式实施，之后转为永久性安排。目前，委员会已完成相关方案的专业审议，正等待议会主席团将其列入全体会议议程，提交表决。 卡什卡维还表示，伊朗从未主动发动侵略，目前处于防御状态。根据国际法，伊方认为本国目前在波斯湾和阿曼湾地区都处于战争状态。 （文章来源：新华社）",
+     "source": "东方财富资讯",
+     "zh": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议"
     },
     {
      "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",

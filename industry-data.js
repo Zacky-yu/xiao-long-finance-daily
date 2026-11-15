@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 07:37:12",
+ "generated_at": "2026/11/16 07:51:55",
  "recent_days": 7,
  "industries": [
   {
@@ -1021,7 +1021,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1040,6 +1040,14 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
-    },
-    {
-     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
-     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
-     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
-     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
-     "source": "PV Tech",
-     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1746,6 +1746,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "达里奥为什么要整黄仁勋？",
+     "link": "https://www.huxiu.com/article/4905762.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 07:40:41 +0800",
+     "summary": "本文来自微信公众号： 局外人的视界 ，作者：卡夫卡不忙了，题图来自：视觉中国 这世界没有永远的朋友，也没有永远的敌人，有的只是永远的利益。 Anthropic之所以能做起来，得感谢皮衣黄，这位老哥一手干起了CUDA架构，搞出了算力卡，源源不断地给这些搞开发的企业提供最基础的支持。 但是，从来屁股决定脑袋，老黄是个卖硬件的，他得为了自己的利益最大化，不断地卷最新的AI芯片，搞最新的机柜，最新的解决方案。 当然了，卷的过程肯定是大大提高了效率，但结果就是所有人都得跟着老黄的节奏走，不然的话，他支持你的竞争对手，你没有最先进的算力，你就落后了。 你说你跟上他的节奏，很好，那就等着兜被掏空吧。 硅谷勒",
+     "source": "虎嗅",
+     "zh": "达里奥为什么要整黄仁勋？"
+    },
+    {
+     "title": "不想上班的00后，靠陪飞环游世界？",
+     "link": "https://www.huxiu.com/article/4905764.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 07:40:21 +0800",
+     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 隐秘的国际陪飞，年轻人的带薪旅游梦。 01 最近，我在小红书上刷到一则不想上班的00后女生求职帖，她想给自己安排的工作被称之为国际陪飞员。 该女生自称混血，打算凭着流利双语和独自走过十几个国家的经验开启正经绿色陪飞。 她列出的业务范围相当宽泛，从陪同老人过海关到帮忙带宠物乃至跨国带东西全都涵盖在内。 帖子对目的地范围也放得很开，欧洲和日韩需要提前半个月预约，北美则要留出两个月，方便准备签证，还明确表示高危地区不接单且东南亚部分国家绝不出机场。 若顺着词条在小红书上继续检索，不难发现，她向往的新奇差事早已在平台上掀起过热烈讨论。 此前，便",
+     "source": "虎嗅",
+     "zh": "不想上班的00后，靠陪飞环游世界？"
+    },
+    {
+     "title": "闻泰科技遭荷兰企业法庭临时措施裁定：罚金上限 3 亿欧元，将提起上诉",
+     "link": "https://www.ithome.com/1/027/473.htm",
+     "pubDate": "Sun, 15 Nov 2026 23:37:23 GMT",
+     "summary": "IT之家 11 月 16 日消息，据闻泰科技公告，荷兰阿姆斯特丹上诉法院企业法庭于 2026 年 11 月 11 日就安世境外追加临时措施申请作出裁定， 罚金总额最高不超过 3 亿欧元 （IT之家注：现汇率约合 22.15 亿元人民币） ；公司不认可本次裁定，将提起上诉。 公告显示，企业法庭曾于荷兰时间 2026 年 2 月 11 日指派临时受托人及临时非执行董事（以下简称“管理人”），管理裕成控股有限公司（Yuching Holding Limited）在 Nexperia Holding B.V . （安世半导体控股有限公司）所持全部股份（减一股），公司控股股东权利受到重大限制。 为维护公",
+     "source": "IT之家",
+     "zh": "闻泰科技遭荷兰企业法庭临时措施裁定：罚金上限 3 亿欧元，将提起上诉"
+    },
+    {
+     "title": "能稳定表现的人，要有稳定的恢复系统",
+     "link": "https://www.huxiu.com/article/4905763.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 07:36:40 +0800",
+     "summary": "本文来自微信公众号： 景红空间 ，作者：景红空间 01 没有人可以一直保持好状态 最近这一两个月，我的状态一直不太好。 先是生病、发烧，中间又来回跑了很多地方，身体一直没有完全恢复，后来牙齿又发炎。每件事单独看好像都不是什么大问题，但叠加在一起，人就一直处在一种低电量运行的状态。 最明显的感觉是脑雾。 脑子不像平时那么清楚，注意力很容易散，想一件事情要比以前花更长时间。有时候明明知道有事情应该处理，却不太想动。 情绪也明显变差。 平时觉得没什么的事情，那段时间很容易烦躁，一点就着。遇到工作上的问题，耐心也比以前少。 很多工作没有心情和心力，甚至停了每天一页书的写作。 我自认对自己的认识，往往来",
+     "source": "虎嗅",
+     "zh": "能稳定表现的人，要有稳定的恢复系统"
+    },
+    {
+     "title": "印度 eMudhra 证书安全事件后续：微软进一步封锁 10 张根证书，离线 Windows 设备需部署后续更新包",
+     "link": "https://www.ithome.com/1/027/472.htm",
+     "pubDate": "Sun, 15 Nov 2026 23:35:31 GMT",
+     "summary": "IT之家 11 月 16 日消息，微软于 11 月 16 日起进一步移除印度数字证书机构 eMudhra 剩余的 10 张根证书在微软产品和服务中的默认信任。这意味着，使用相关根证书签发的证书链将不再被默认信任，依赖这些证书的网站、服务及软件可能出现证书验证失败，用户将无法正常访问或使用相关服务。 根据微软安全响应中心（MSRC）公布的信息，Windows 将通过自动证书信任更新机制，从受信任根证书列表中移除剩余 10 张 eMudhra 根证书。 能够连接微软证书更新服务的 Windows 设备将自动接收此次调整，无需用户手动下载或安装更新。微软表示，相关变更也适用于 Azure 环境中的 ",
+     "source": "IT之家",
+     "zh": "印度 eMudhra 证书安全事件后续：微软进一步封锁 10 张根证书，离线 Windows 设备需部署后续更新包"
+    },
+    {
+     "title": "全长 277.6 公里：我国输送距离最长二氧化碳长输管道投运，年输送规模 330 万吨",
+     "link": "https://www.ithome.com/1/027/471.htm",
+     "pubDate": "Sun, 15 Nov 2026 23:29:53 GMT",
+     "summary": "IT之家 11 月 16 日消息，据央视新闻今日报道，我国输送距离最长的二氧化碳长输管道正式投入运行。 据中国石油官方介绍，吉林石化至吉林油田二氧化碳长输管道工程建成投运，干线全长 277.6 公里，设计压力 14.5 兆帕，每年可输送二氧化碳 330 万吨，是目前国内输送距离最长、管径最大、设计压力最高、输送规模最大的二氧化碳长输管道。 管道横跨吉林省吉林、长春、松原三市，上游连接吉林石化的二氧化碳捕集装置，下游接入吉林油田驱油封存生产区域。 吉林石化 80 万吨 / 年二氧化碳回收项目已于 2026 年 10 月全面投产，为管道提供稳定气源。该项目利用合成氨、沥青造气装置副产的中浓度二氧化",
+     "source": "IT之家",
+     "zh": "全长 277.6 公里：我国输送距离最长二氧化碳长输管道投运，年输送规模 330 万吨"
+    },
+    {
+     "title": "消息称黄仁勋考虑重返英伟达担任 CEO，其硅谷盟友正施压董事会",
+     "link": "https://www.ithome.com/1/027/470.htm",
+     "pubDate": "Sun, 15 Nov 2026 23:26:25 GMT",
+     "summary": "IT之家 11 月 16 日消息，据英国《金融时报》昨天报道，黄仁勋正考虑重返英伟达担任首席执行官。如今他在硅谷的多位盟友正向英伟达董事会施压，要求公司重新任命他。 据多名知情人士透露，黄仁勋已经和亲信讨论了重返公司的可能性。与此同时，英伟达董事会还在开展独立调查。 一位黄仁勋的盟友表示， 他们正在组建一个由硅谷高管构成的“作战室” ， 游说黄仁勋重返英伟达 ，并计划争取白宫方面支持。 该人士透露：“除了那些前沿 AI 实验室外，科技界所有大腕都爱戴黄仁勋。” ；他还补充称，这些行动得到了黄仁勋本人的支持。 周末以来，一场要求黄仁勋重新担任英伟达 CEO 的公开行动逐渐升温。特斯拉和 Spac",
+     "source": "IT之家",
+     "zh": "消息称黄仁勋考虑重返英伟达担任 CEO，其硅谷盟友正施压董事会"
+    },
+    {
+     "title": "Jensen Huang might return to Nvidia as CEO",
+     "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+     "pubDate": "Sun, 15 Nov 2026 23:24:53 +0000",
+     "summary": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 17 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Jensen Huang might return to Nvidia as CEO"
+    },
+    {
      "title": "纽约市禁止“大数据杀熟”，企业利用监控算法实现差异化报价最高罚款 1000 美元",
      "link": "https://www.ithome.com/1/027/469.htm",
      "pubDate": "Sun, 15 Nov 2026 23:23:21 GMT",
@@ -1770,6 +1834,14 @@ window.INDUSTRY_DATA = {
      "zh": "R 星联手 Twitch、Kick 送出《GTA 6》兑换码：每天需观看直播 3 小时抽奖，包含 100 美元终极版"
     },
     {
+     "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
+     "link": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
+     "pubDate": "Sun, 15 Nov 2026 23:12:38 +0000",
+     "summary": "Article URL: https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/ Comments URL: https://news.ycombinator.com/item?id=50511899 Points: 12 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Chemical spills into drainage ditch at SpaceXAI in Southaven"
+    },
+    {
      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
      "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
      "pubDate": "Sun, 15 Nov 2026 23:11:54 +0000",
@@ -1786,34 +1858,10 @@ window.INDUSTRY_DATA = {
      "zh": "这个人，将决定英伟达下一任CEO"
     },
     {
-     "title": "成渝中线高铁成都站主体结构完工，至重庆 50 分钟可达",
-     "link": "https://www.ithome.com/1/027/467.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:07:45 GMT",
-     "summary": "IT之家 11 月 16 日消息，据国铁集团官方消息，11 月 15 日 10 时许，随着最后一块屋面钢结构网架精准吊装至指定位置完成安装， 成渝中线高铁成都站主体结构完工 ，正式转入装饰装修与设备安装阶段。 成都站是在建成渝中线高铁的始发终到站。该站始建于 1950 年 6 月，于 1952 年 7 月 1 日正式开通运营，是新中国第一条自主建设的铁路 —— 成渝铁路的始发终到站。为服务成渝中线高铁建设、完善市域铁路公交化网络布局， 车站在老站原址启动系统性扩能改造 。 车站站场规模将由 6 台 12 线扩容至 10 台 18 线 ，采用高架式候车结构，分为高架候车层、站台层和地下出站换乘层",
-     "source": "IT之家",
-     "zh": "成渝中线高铁成都站主体结构完工，至重庆 50 分钟可达"
-    },
-    {
-     "title": "古尔曼曝光苹果智能眼镜原型机：主打 Siri 语音交互，预计 WWDC2027 发布",
-     "link": "https://www.ithome.com/1/027/466.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:04:30 GMT",
-     "summary": "IT之家 11 月 16 日消息，据彭博社记者马克 · 古尔曼昨日透露， 苹果计划在 2027 年 6 月的 WWDC 发布公司首款智能眼镜 ，并在当年年底开始出货。 IT之家从原报道获悉，这款智能眼镜原型机的内部代号为“N50”，其镜框据称略小于 Meta 第二代 Ray-Ban。部分测试机采用椭圆形摄像头开孔，直接集成在镜框中，没有向外凸起。眼镜正面设有一颗指示灯，用于显示设备正在使用或充电，苹果还在尝试加入更多隐私保护功能。 同时，苹果将重点打磨这款眼镜的材质、传感器和音质，该产品支持音乐播放、通话及 FaceTime Audio。 苹果员工将其音质形容为“行业领先” 。目前测试机型的充",
-     "source": "IT之家",
-     "zh": "古尔曼曝光苹果智能眼镜原型机：主打 Siri 语音交互，预计 WWDC2027 发布"
-    },
-    {
-     "title": "投资 19 亿美元：三星被曝将在美国为马斯克 SpaceX 生产卫星芯片，目标 2030 年投产",
-     "link": "https://www.ithome.com/1/027/465.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:01:15 GMT",
-     "summary": "IT之家 11 月 16 日消息，三星电子正将其位于得克萨斯州奥斯汀的芯片工厂拓展至航天供应链。 据韩国《首尔经济日报》11 月 15 日报道，三星计划在奥斯汀工厂为 SpaceX 的星链卫星生产 STM32V8 微控制器（MCU），为此将投资 19 亿美元 （IT之家注：现汇率约合 127.1 亿元人民币） 扩产，目标在 2030 年投入运行。 STM32V8 是意法半导体于 2025 年 11 月发布的微控制器，采用 18 纳米 FD-SOI（全耗尽型绝缘体上硅）工艺，集成 Arm Cortex-M85 内核，主频最高 800MHz。 FD-SOI 由三星与意法半导体自 2014 年起合作",
-     "source": "IT之家",
-     "zh": "投资 19 亿美元：三星被曝将在美国为马斯克 SpaceX 生产卫星芯片，目标 2030 年投产"
-    },
-    {
      "title": "Preserving 30 Years of Salon Journalism",
      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
      "pubDate": "Sun, 15 Nov 2026 23:00:11 +0000",
-     "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 17 # Comments: 4",
      "source": "Hacker News",
      "zh": "Preserving 30 Years of Salon Journalism"
     },
@@ -1826,12 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Anthropic&apos;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)"
     },
     {
-     "title": "美国全国航班停飞影响持续多日，预计当地时间 11 月 16 日全面恢复",
-     "link": "https://www.ithome.com/1/027/464.htm",
-     "pubDate": "Sun, 15 Nov 2026 22:51:48 GMT",
-     "summary": "IT之家 11 月 16 日消息，据央视新闻今日报道，美国航空运输业在经历联邦航空管理局（FAA）全国航班停飞事件后，预计将于当地时间 11 月 16 日全面恢复正常。 美国交通部长肖恩 · 达菲（Sean Duffy）11 月 15 日表示，虽然航空运输已逐步恢复，但由于停飞期间大量飞机和机组人员偏离原定执勤位置，航空公司仍需要时间重新调配资源，航班取消和延误预计还将持续一段时间。 当地时间 11 月 13 日，美国联邦航空管理局因空中交通管制通信系统出现故障，发布全国航班停飞令，持续近 5 小时。FAA 于当天 20 时 15 分解除停飞令，但故障造成的影响延续至周末。FAA 11 月 1",
-     "source": "IT之家",
-     "zh": "美国全国航班停飞影响持续多日，预计当地时间 11 月 16 日全面恢复"
+     "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+     "link": "https://lastcomplication.com/",
+     "pubDate": "Sun, 15 Nov 2026 22:48:52 +0000",
+     "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 7 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game"
     },
     {
      "title": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)",
@@ -1845,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
      "link": "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/",
      "pubDate": "Sun, 15 Nov 2026 22:26:33 +0000",
-     "summary": "Article URL: https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/ Comments URL: https://news.ycombinator.com/item?id=50511505 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/ Comments URL: https://news.ycombinator.com/item?id=50511505 Points: 7 # Comments: 2",
      "source": "Hacker News",
      "zh": "The Hofmann Wobble: Wikipedia and the problem of historical memory"
     },
@@ -1853,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Old Bitly Links Are Being Hijacked",
      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
      "pubDate": "Sun, 15 Nov 2026 22:11:43 +0000",
-     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 65 # Comments: 32",
+     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 80 # Comments: 41",
      "source": "Hacker News",
      "zh": "Old Bitly Links Are Being Hijacked"
     },
@@ -1864,30 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ben Cottier / Epoch AI : Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028 &nbsp; &mdash;&nbsp; This is a condensed version of a longer report on our website&nbsp; &mdash;&nbsp; Huawei, Chi",
      "source": "Techmeme",
      "zh": "Analysis: Huawei&apos;s Horinger data center, among China&apos;s largest for AI, has ~7% of the compute of SpaceX&apos;s Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)"
-    },
-    {
-     "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-     "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-     "pubDate": "Sun, 15 Nov 2026 21:38:11 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 36 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites"
-    },
-    {
-     "title": "Your Agent Will Pick the Hackable One",
-     "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
-     "pubDate": "Sun, 15 Nov 2026 21:10:39 +0000",
-     "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 59 # Comments: 37",
-     "source": "Hacker News",
-     "zh": "Your Agent Will Pick the Hackable One"
-    },
-    {
-     "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-     "pubDate": "Sun, 15 Nov 2026 20:37:28 +0000",
-     "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 80 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost"
     },
     {
      "title": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
@@ -1960,30 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。报道称，乐园门票由 Cityline 负责网上票务售卖，园方资讯科技部于 11 月 12 日晚侦测到公司电脑系统有异常活动，发现一万七千个二维码在网上票务系统被盗。香港资讯科技商会荣誉会长方保侨称：以往黑客是写程序或手动追漏洞，现在 AI 发展令黑客用 AI 寻找网络漏洞，从而攻击，近期这么多事件，我们相信只会愈来愈多。因为 AI 攻击太快，人手根本抵挡不到，开始提倡用 AI 防守，而市面上亦有这些方案。",
      "source": "Solidot",
      "zh": "香港迪士尼乐园 1.7 万张电子门票被盗"
-    },
-    {
-     "title": "亚洲象种群数量减少变得更孤立",
-     "link": "https://www.solidot.org/story?sid=85890",
-     "pubDate": "Sun, 15 Nov 2026 20:12:20 +0800",
-     "summary": "对斯里兰卡野生亚洲象的一项为期 12 年的研究显示，种群数量的逐渐减少可令动物社群跨越一个社会临界点，从而使长期形成的关系破裂，群体变得更小且更孤立，并威胁物种的长期生存。研究人员分析了斯里兰卡 443 头野生雌性亚洲象为期 12 年的个体观察数据。M他们发现，种群个体的逐渐流失使这一亚洲象种群跨越了社会临界点，从根本上重塑了其社会网络。随着死亡和永久离群的个体日益超过新加入的个体，象群规模变小、群体数量增多且日益孤立；到2018 年时，在最初被追踪的雌象中，近 69% 已从研究种群中消失。研究结果显示，这种碎片化不仅由个体丧失驱动，也由留存大象之间较弱社会纽带的断裂所驱动，从而导致整个种群个",
-     "source": "Solidot",
-     "zh": "亚洲象种群数量减少变得更孤立"
-    },
-    {
-     "title": "How the world’s fires changed while humanity hit pause",
-     "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-     "pubDate": "Sun, 15 Nov 2026 12:07:34 +0000",
-     "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
-     "source": "Ars Technica",
-     "zh": "How the world’s fires changed while humanity hit pause"
-    },
-    {
-     "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
-     "link": "https://www.wired.com/story/best-paper-planners/",
-     "pubDate": "Sun, 15 Nov 2026 12:01:00 +0000",
-     "summary": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
-     "source": "WIRED",
-     "zh": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here's what actually happens if your laptop battery is completely drained",
+     "link": "https://www.engadget.com/2313936/what-happens-drained-laptop-battery/",
+     "pubDate": "Sun, 15 Nov 2026 23:45:00 +0000",
+     "summary": "While letting your laptop run out of battery may seem harmless, it might be doing more long-term damage to your device than you ever expected.",
+     "source": "Engadget",
+     "zh": "Here's what actually happens if your laptop battery is completely drained"
+    },
     {
      "title": "Why your Wi-Fi slows down when more devices connect",
      "link": "https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/",
@@ -2040,14 +2048,6 @@ window.INDUSTRY_DATA = {
      "summary": "Whether you use Apple Maps, Google Maps, or Waze in CarPlay, ensure these settings are on to receive warnings about nearby speed cameras.",
      "source": "Engadget",
      "zh": "How to get warnings about speed cameras in Apple CarPlay"
-    },
-    {
-     "title": "How to tell whether your car supports Apple CarPlay",
-     "link": "https://www.engadget.com/2313909/how-to-tell-if-car-supports-apple-carplay/",
-     "pubDate": "Sun, 15 Nov 2026 21:45:00 +0000",
-     "summary": "Determining if your car is compatible with Apple CarPlay is quite simple. If yours is not, there are ways to add CarPlay to your vehicle.",
-     "source": "Engadget",
-     "zh": "How to tell whether your car supports Apple CarPlay"
     },
     {
      "title": "Here’s one small change that could improve iPhone Duo’s unoptimized apps",
@@ -2242,6 +2242,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Oil stabilizes as Middle East attacks offset supply surplus",
+     "link": "https://seekingalpha.com/news/4672815-oil-stabilizes-as-middle-east-attacks-offset-supply-surplus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 18:42:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Oil stabilizes as Middle East attacks offset supply surplus"
+    },
+    {
+     "title": "Lilly’s Zepbound shows promise in teen obesity trial",
+     "link": "https://seekingalpha.com/news/4672814-lilly-s-zepbound-shows-promise-in-teen-obesity-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 18:38:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lilly’s Zepbound shows promise in teen obesity trial"
+    },
+    {
      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
      "pubDate": "Sun, 15 Nov 2026 23:30:00 GMT",
@@ -2378,28 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "东方财富财经早餐 11月16日周一"
     },
     {
-     "title": "U.S., allies agree to coordinate AI supply chain security",
-     "link": "https://seekingalpha.com/news/4672810-u-s-allies-agree-to-coordinate-ai-supply-chain-security?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 16:52:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S., allies agree to coordinate AI supply chain security"
-    },
-    {
      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
      "pubDate": "Sun, 15 Nov 2026 21:32:00 GMT",
      "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
      "source": "MarketWatch",
      "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
-    },
-    {
-     "title": "Senators demand Lutnick testimony over alleged Nvidia chip diversions to China",
-     "link": "https://seekingalpha.com/news/4672809-senators-demand-lutnick-testimony-over-alleged-nvidia-chip-diversions-to-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 16:31:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Senators demand Lutnick testimony over alleged Nvidia chip diversions to China"
     },
     {
      "title": "Budget airlines are going upscale with first-class seats and faster wifi",

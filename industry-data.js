@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 01:12:04",
+ "generated_at": "2026/11/16 01:32:10",
  "recent_days": 7,
  "industries": [
   {
@@ -466,14 +466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1032,14 +1032,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1442,6 +1442,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1482,6 +1490,14 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1504,6 +1520,22 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
+    },
+    {
+     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
+     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     }
    ]
   },
@@ -1730,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
+     "link": "https://www.techmeme.com/261115/p11#a261115p11",
+     "pubDate": "Sun, 15 Nov 2026 12:15:01 -0500",
+     "summary": "Ashley Gold / Semafor : Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs &nbsp; &mdash;&nbsp; Howard Lutnick is expected to travel on Air Force One with the president to China this week as the c",
+     "source": "Techmeme",
+     "zh": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)"
+    },
+    {
      "title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
      "link": "https://www.techmeme.com/261115/p10#a261115p10",
      "pubDate": "Sun, 15 Nov 2026 11:30:00 -0500",
@@ -1789,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
      "link": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
      "pubDate": "Sun, 15 Nov 2026 15:45:42 +0000",
-     "summary": "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 32 # Comments: 8",
+     "summary": "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 42 # Comments: 9",
      "source": "Hacker News",
      "zh": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story"
     },
@@ -1797,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Emacs Is My Browser",
      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
      "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
-     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 35 # Comments: 9",
+     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 42 # Comments: 13",
      "source": "Hacker News",
      "zh": "Emacs Is My Browser"
     },
@@ -1813,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "All AI-generated code should be Open Source",
      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
      "pubDate": "Sun, 15 Nov 2026 14:46:58 +0000",
-     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 347 # Comments: 216",
+     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 405 # Comments: 248",
      "source": "Hacker News",
      "zh": "All AI-generated code should be Open Source"
     },
@@ -1837,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
      "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
      "pubDate": "Sun, 15 Nov 2026 14:31:52 +0000",
-     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 55 # Comments: 26",
+     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 59 # Comments: 27",
      "source": "Hacker News",
      "zh": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)"
     },
@@ -1869,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
      "link": "https://prog21.dadgum.com/116.html",
      "pubDate": "Sun, 15 Nov 2026 13:44:16 +0000",
-     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 83 # Comments: 31",
+     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 88 # Comments: 34",
      "source": "Hacker News",
      "zh": "Things That Turbo Pascal Is Smaller Than (2011)"
     },
@@ -1885,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
      "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
      "pubDate": "Sun, 15 Nov 2026 13:15:22 +0000",
-     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 204 # Comments: 102",
+     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 213 # Comments: 111",
      "source": "Hacker News",
      "zh": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
     },
@@ -1960,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "企业的使命是让世界爱上中国味道，一定是要历经走出去、走进去、走上去的过程，“不止输出一道菜，更要输出中国餐饮出海范式”。",
      "source": "钛媒体",
      "zh": "鱼你在一起落子海外百店，中餐出海开启“体系化时代”"
-    },
-    {
-     "title": "It’s Getting Too Dry for Even Cactuses to Survive",
-     "link": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
-     "pubDate": "Sun, 15 Nov 2026 10:30:00 +0000",
-     "summary": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
-     "source": "WIRED",
-     "zh": "It’s Getting Too Dry for Even Cactuses to Survive"
     }
    ]
   },
@@ -1977,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Should you keep your smart home gadgets on a separate home network?",
+     "link": "https://www.engadget.com/2313757/should-smart-devices-use-separate-wifi/",
+     "pubDate": "Sun, 15 Nov 2026 17:15:00 +0000",
+     "summary": "A dedicated network for smart home devices may sound excessive, but there may be reasons to separate those gadgets from everything else on your network.",
+     "source": "Engadget",
+     "zh": "Should you keep your smart home gadgets on a separate home network?"
+    },
+    {
+     "title": "5 emerging technologies that may soon become part of everyday life",
+     "link": "https://www.engadget.com/2313755/emerging-technologies-could-change-everyday-life/",
+     "pubDate": "Sun, 15 Nov 2026 17:00:00 +0000",
+     "summary": "Progress is faster every day, and we're sure some of the biggest developments in current technology are about to become a thing of every day.",
+     "source": "Engadget",
+     "zh": "5 emerging technologies that may soon become part of everyday life"
+    },
     {
      "title": "Why do some USB connectors have those 2 square holes?",
      "link": "https://www.engadget.com/2313749/why-some-usb-connectors-have-2-square-holes/",
@@ -2032,22 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple’s long awaited smart glasses, akin to Meta Ray-Bans but tailored to Siri AI and the Apple ecosystem, are almost here. According to Bloomberg’s Mark Gurman , the product should be introduced at the next WWDC, and they should be on the market by the end of the year. Here’s what to expect. more…",
      "source": "9to5Mac",
      "zh": "Apple’s Siri AI smart glasses are reportedly launching next year, here’s what to expect"
-    },
-    {
-     "title": "Can you use your Android phone as a computer speaker?",
-     "link": "https://www.engadget.com/2313706/use-android-phone-as-computer-speaker/",
-     "pubDate": "Sun, 15 Nov 2026 15:45:00 +0000",
-     "summary": "If you've got an old Android phone lying around, it may be possible to give the device new life as a computer speaker.",
-     "source": "Engadget",
-     "zh": "Can you use your Android phone as a computer speaker?"
-    },
-    {
-     "title": "iPhone Duo Vs Oppo Find N6: How these foldables compare",
-     "link": "https://www.engadget.com/2313699/iphone-duo-vs-oppo-find-n6-foldable-comparison/",
-     "pubDate": "Sun, 15 Nov 2026 15:30:00 +0000",
-     "summary": "The foldable smartphone scene is exploding as Apple has just announced it is finally entering the arena. Here's how the iPhone Duo compares to the Oppo Find N6.",
-     "source": "Engadget",
-     "zh": "iPhone Duo Vs Oppo Find N6: How these foldables compare"
     },
     {
      "title": "Hands-on: This 25W MagSafe charger is thinner than an iPhone: KUXIU K4 Air [Video]",
@@ -2378,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "&apos;We slept here.&apos; Flight delays linger as airlines scramble to recover from ground stop"
     },
     {
-     "title": "中国“星链”走到商用前夜",
-     "link": "http://www.eeo.com.cn/2026/1115/1094089.shtml",
-     "pubDate": "Sun, 15 Nov 2026 22:07:13 +0800",
-     "summary": "随着年底的节点临近，国产低轨星座的商用，正在面临卫星、用户和收入三个环节的检验。",
-     "source": "经济观察网",
-     "zh": "中国“星链”走到商用前夜"
-    },
-    {
      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
      "pubDate": "Sun, 15 Nov 2026 14:00:00 GMT",
@@ -2464,6 +2488,14 @@ window.INDUSTRY_DATA = {
      "summary": "葛卫东再出手，最新布局方向是 物理AI 。 11月13日，创业公司易博图证实，在其最新一轮融资名单中，知名投资人葛卫东现身。易博图成立于2026年2月，聚焦重载工业 物理AI 领域。梳理发现，葛卫东布局科技板块笃定坚决，在今年三季度科技板块的剧烈调整行情中，葛卫东家族持仓基本不变。 葛卫东出手 锚定AI主线，葛卫东再出手。近日，易博图连续完成两轮融资，合计金额近4亿元。投资方包括葛卫东、辰韬资本、弘毅投资、零一 汽车 、兴富资本、猎鹰投资旗下星奇基金等。 易博图公司的官方公众号转载相关报道予以证实。 梳理发现，易博图成立于2026年2月，聚焦重载工业 物理AI ，核心业务是研发面向重载场景的“",
      "source": "东方财富资讯",
      "zh": "葛卫东再出手 最新布局方向是物理AI"
+    },
+    {
+     "title": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931472510.html",
+     "pubDate": "Sun, 15 Nov 2026 19:53:01 +0800",
+     "summary": "据伊朗塔斯尼姆通讯社15日报道，伊朗议会国家安全与外交政策委员会发言人卡什卡维说，该委员会已完成霍尔木兹海峡相关方案的专业审议，就有关通行航道“与两个沿岸国家达成协议”。 卡什卡维表示，伊朗方面曾在伊首都德黑兰和阿曼首都马斯喀特举行多轮会谈。商定的航道将先以临时方式实施，之后转为永久性安排。目前，委员会已完成相关方案的专业审议，正等待议会主席团将其列入全体会议议程，提交表决。 卡什卡维还表示，伊朗从未主动发动侵略，目前处于防御状态。根据国际法，伊方认为本国目前在波斯湾和阿曼湾地区都处于战争状态。 （文章来源：新华社）",
+     "source": "东方财富资讯",
+     "zh": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议"
     }
    ]
   },

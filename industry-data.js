@@ -466,14 +466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1450,6 +1450,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1490,6 +1498,14 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1512,6 +1528,14 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },

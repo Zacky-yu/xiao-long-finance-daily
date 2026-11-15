@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 06:32:09",
+ "generated_at": "2026/11/16 06:52:00",
  "recent_days": 7,
  "industries": [
   {
@@ -1021,7 +1021,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1040,6 +1040,14 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
-    },
-    {
-     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
-     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
-     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
-     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
-     "source": "PV Tech",
-     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1770,10 +1770,26 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "ULA 成立 20 年来首次发射任务完全失败，火神火箭升空 10 分钟后出现异常",
+     "link": "https://www.ithome.com/1/027/462.htm",
+     "pubDate": "Sun, 15 Nov 2026 22:43:45 GMT",
+     "summary": "IT之家 11 月 16 日消息，美国联合发射联盟公司（ULA）的火神（Vulcan）运载火箭于当地时间 11 月 15 日从佛州卡纳维拉尔角太空军基地升空，执行亚马逊低轨卫星星座 Amazon Leo 的首次发射任务。 不过，火箭升空约 10 分钟后出现异常，未能将搭载的 40 颗卫星送入预定轨道。这是 ULA 自 2006 年成立以来首次发射任务完全失败，终结了该公司近 20 年的全胜纪录。 北京时间 11 月 16 日凌晨，火神火箭从卡纳维拉尔角太空军基地 SLC-41 发射升空，执行代号为 LV-01 的任务。美国联合发射联盟随后发表声明称，根据发射主管收到的数据，火箭在飞行约 10 ",
+     "source": "IT之家",
+     "zh": "ULA 成立 20 年来首次发射任务完全失败，火神火箭升空 10 分钟后出现异常"
+    },
+    {
+     "title": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)",
+     "link": "https://www.techmeme.com/261115/p17#a261115p17",
+     "pubDate": "Sun, 15 Nov 2026 17:35:01 -0500",
+     "summary": "Joey Roulette / Reuters : Amazon loses 40 Leo satellites after ULA's Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture &nbsp; &mdash;&nbsp; A Vulcan rocket owned by United Launch Alliance, the joint venture of Boeing (BA.N) and Lockhe",
+     "source": "Techmeme",
+     "zh": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)"
+    },
+    {
      "title": "Old Bitly Links Are Being Hijacked",
      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
      "pubDate": "Sun, 15 Nov 2026 22:11:43 +0000",
-     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 12 # Comments: 4",
      "source": "Hacker News",
      "zh": "Old Bitly Links Are Being Hijacked"
     },
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
      "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
      "pubDate": "Sun, 15 Nov 2026 21:38:11 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 10 # Comments: 4",
+     "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 17 # Comments: 5",
      "source": "Hacker News",
      "zh": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites"
     },
@@ -1797,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Your Agent Will Pick the Hackable One",
      "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
      "pubDate": "Sun, 15 Nov 2026 21:10:39 +0000",
-     "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 35 # Comments: 15",
+     "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 46 # Comments: 25",
      "source": "Hacker News",
      "zh": "Your Agent Will Pick the Hackable One"
     },
@@ -1805,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
      "pubDate": "Sun, 15 Nov 2026 20:37:28 +0000",
-     "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 50 # Comments: 15",
+     "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 55 # Comments: 17",
      "source": "Hacker News",
      "zh": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost"
     },
@@ -1813,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "WebGL Flight Simulator with seed generated terrain",
      "link": "https://baron.by.dai.studio/",
      "pubDate": "Sun, 15 Nov 2026 20:20:05 +0000",
-     "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 18 # Comments: 5",
+     "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 26 # Comments: 7",
      "source": "Hacker News",
      "zh": "WebGL Flight Simulator with seed generated terrain"
     },
@@ -1829,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
      "link": "https://arkanumdata.com/research/house-trades",
      "pubDate": "Sun, 15 Nov 2026 19:46:02 +0000",
-     "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 90 # Comments: 88",
+     "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 90 # Comments: 94",
      "source": "Hacker News",
      "zh": "Do House members' stock trades beat the market? A test of 8,900 trades"
     },
@@ -1864,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
      "source": "TechCrunch",
      "zh": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending"
-    },
-    {
-     "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
-     "link": "https://www.techmeme.com/261115/p11#a261115p11",
-     "pubDate": "Sun, 15 Nov 2026 12:15:01 -0500",
-     "summary": "Ashley Gold / Semafor : Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs &nbsp; &mdash;&nbsp; Howard Lutnick is expected to travel on Air Force One with the president to China this week as the c",
-     "source": "Techmeme",
-     "zh": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)"
     },
     {
      "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
@@ -1936,14 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 15 日消息， 磷光发光拥有显著高于荧光发光的内量子效率 ，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度。 ▲ 10.95\" 平板电脑屏幕 OLED 此前已在红光和绿光器件上实现了磷光发光。然而由于光能量等因素的差异， 蓝光的磷光化一直是一大难题 ，相关技术的商业化直到近两年才有较为显著的进展。 ▲ 6.36\" 智能手机屏幕 而在本年度的企业全球显示生态大会上， TCL 华星展示了覆盖智能手机、平板电脑、微相机 3 大形态的蓝色磷光敏化荧光 (PSF) 产品 。其在蓝光器件中引入敏化剂，将三重态激子能量高效传递给蓝光发光体。 针对蓝光磷光化的现实困难，T",
      "source": "IT之家",
      "zh": "TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态"
-    },
-    {
-     "title": "鸿蒙智行尚界 Z7T 星野套装实车图曝光，新增行李架、跨界套件、黑色尾翼等",
-     "link": "https://www.ithome.com/1/027/454.htm",
-     "pubDate": "Sun, 15 Nov 2026 13:53:46 GMT",
-     "summary": "IT之家 11 月 15 日消息，汽车博主 @未来的学习笔记 昨日分享了鸿蒙智行尚界 Z7T 星野套装实车图。 尚界 Z7T 星野套装最明显的变化属车尾部分。从画面可以看到，该版本车型新增了银色行李架、银色后视镜外壳、全车跨界套件以及黑色尾翼。 参考IT之家此前报道， 尚界 Z7T 是一款猎装车型 ，于今年 4 月上市，售价 22.98 万元起。尚界 Z7 全系标配华为乾崑智驾 ADS 4.1、华为巨鲸 800V 高压电池平台、华为乾崑 896 线双光路图像级激光雷达、华为鸿蒙座舱、华为途灵平台；全系标配鸿蒙 ALPS 健康座舱 2.0、随动屏、副驾零重力座椅、HUD 抬头显示、流媒体内后视镜",
-     "source": "IT之家",
-     "zh": "鸿蒙智行尚界 Z7T 星野套装实车图曝光，新增行李架、跨界套件、黑色尾翼等"
     },
     {
      "title": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款",
@@ -2018,6 +2018,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Samsung is discontinuing these useful mobile apps in December",
+     "link": "https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december/",
+     "pubDate": "Sun, 15 Nov 2026 22:30:00 +0000",
+     "summary": "You don't have long to grab the augmented reality tools for your Galaxy devices.",
+     "source": "Engadget",
+     "zh": "Samsung is discontinuing these useful mobile apps in December"
+    },
+    {
      "title": "How one 13-year-old is helping solve a huge solar panel limitation",
      "link": "https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/",
      "pubDate": "Sun, 15 Nov 2026 22:15:00 +0000",
@@ -2072,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "A Ring camera can provide a huge boost to the safety of your home, but there's more you can do to maximize that added layer of security.",
      "source": "Engadget",
      "zh": "How to get the most protection from your Ring camera security system"
-    },
-    {
-     "title": "Wi-Fi 8 is an attempt to fix the biggest problem with wireless internet",
-     "link": "https://www.engadget.com/2313896/wifi-8-attempt-fix-biggest-problem-wireless-internet/",
-     "pubDate": "Sun, 15 Nov 2026 21:15:00 +0000",
-     "summary": "With current Wi-Fi standards reaching beyond consumer-level speeds, Wi-Fi 8 is entering the fray with a fix that makes those speeds mean something.",
-     "source": "Engadget",
-     "zh": "Wi-Fi 8 is an attempt to fix the biggest problem with wireless internet"
     },
     {
      "title": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro",
@@ -2266,6 +2266,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "北京先通医药：全球发售H股最高发售价为每股68港元",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931545947.html",
+     "pubDate": "Mon, 16 Nov 2026 06:39:03 +0800",
+     "summary": "北京先通医药：全球发售H股最高发售价为每股68港元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "北京先通医药：全球发售H股最高发售价为每股68港元"
+    },
+    {
+     "title": "美联储施密德：美联储的职责不是影响任何单一商品或服务的价格",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931545851.html",
+     "pubDate": "Mon, 16 Nov 2026 06:39:03 +0800",
+     "summary": "美联储施密德：美联储的职责不是影响任何单一商品或服务的价格。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储施密德：美联储的职责不是影响任何单一商品或服务的价格"
+    },
+    {
+     "title": "AI交易颠簸！资金回流红利 13只银行股股息率站上5%(名单)",
+     "link": "http://finance.eastmoney.com/news/1349,202611163931546013.html",
+     "pubDate": "Mon, 16 Nov 2026 06:38:26 +0800",
+     "summary": "美东时间11月14日，美联储在金融稳定报告中警示AI杠杆风险，美股资金转向防御与红利板块。 国内10年期国债收益率仍在1.6%附近，红利资产的比价优势尚未削弱。 美联储警示AI杠杆，美股资金涌向防御板块 美东时间11月14日，美联储发布半年度金融稳定报告，称正密切关注 数据中心 大规模建设浪潮中的杠杆风险，并警告一旦美国 人工智能 行业进入下行周期，相关债务违约规模可能高于当前企业资产负债表所体现的水平。报告显示， 人工智能 带来的风险与相关投资的快速增长，已成为受访者对金融稳定的首要担忧。 估值与杠杆指标同时亮起提示灯。美联储发现，从股票、公司债到 房地产 ，各类资产估值都处于高位，对冲基金",
+     "source": "东方财富股票",
+     "zh": "AI交易颠簸！资金回流红利 13只银行股股息率站上5%(名单)"
+    },
+    {
+     "title": "Baidu Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4672582-baidu-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 17:35:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Baidu Q3 2026 Earnings Preview"
+    },
+    {
+     "title": "美国副总统万斯可能要到明年春末才会公布2028年的大选计划",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931545759.html",
+     "pubDate": "Mon, 16 Nov 2026 06:34:41 +0800",
+     "summary": "美国副总统万斯可能要到明年春末才会公布2028年的大选计划。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国副总统万斯可能要到明年春末才会公布2028年的大选计划"
+    },
+    {
+     "title": "伯纳姆将在伦敦金融城发表讲话，称脱欧并未取得预期效果",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931545678.html",
+     "pubDate": "Mon, 16 Nov 2026 06:33:48 +0800",
+     "summary": "英国首相伯纳姆周一将在伦敦金融城对听众表示，脱欧并未奏效，必须寻求新协议，率先从本周晚些时候和欧盟的峰会着手。首相将按照惯例，在伦敦市长大宴上发表外交政策演讲。他会提出，自2016年脱欧公投之后，形势已经改变，英国应当和邻近的民主国家建立更紧密的关系。根据提前披露的讲稿内容，伯纳姆预计会说：“我们拿到手的脱欧方案没有成功。我们失去的比得到的更多。” （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "伯纳姆将在伦敦金融城发表讲话，称脱欧并未取得预期效果"
+    },
+    {
+     "title": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday",
+     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+     "pubDate": "Sun, 15 Nov 2026 22:33:26 GMT",
+     "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+     "source": "CNBC",
+     "zh": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday"
+    },
+    {
+     "title": "胡塞武装称向沙特利雅得发射弹道导弹",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931545564.html",
+     "pubDate": "Mon, 16 Nov 2026 06:30:23 +0800",
+     "summary": "也门胡塞武装11月15日发表声明称，胡塞武装当天使用弹道导弹打击了沙特首都利雅得的哈立德国王国际 机场 和一座金融中心，另外还使用 无人机 袭击了沙特东西向输油管道的两座泵站。胡塞武装称这次袭击泵站行动成功实现了预定目标。 另外，也门胡塞武装15日称，过去24小时内，沙特主导的联军对也门萨达省、塔伊兹省等地发动了75次空袭和导弹袭击。声明称，自本轮也门局势升级以来，沙特主导的联军累计发起的空袭和导弹袭击次数已达5095次。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "胡塞武装称向沙特利雅得发射弹道导弹"
+    },
+    {
      "title": "Pictet raises Japan allocation as it looks beyond AI stocks",
      "link": "https://seekingalpha.com/news/4672813-pictet-raises-japan-allocation-as-it-looks-beyond-ai-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 17:20:36 -0500",
@@ -2290,6 +2354,14 @@ window.INDUSTRY_DATA = {
      "zh": "Bombardier secures 12-jet order from Saudi Arabia’s THC"
     },
     {
+     "title": "11月16日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11060,202611163931537133.html",
+     "pubDate": "Mon, 16 Nov 2026 06:03:49 +0800",
+     "summary": "11月16日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 财经大事扎堆 A股怎么走？机构研判来了 上周，A股主要指数呈现区间震荡走势。在业内机构看来，当前A股仍处在震荡消化、预期再定价的过程中，向下风险已经有所收敛，但向上空间仍需要观察筹码与资金的边际变化，后续行情重心或在板块轮动的结构性机会。就债市表现而言，前期的回撤已有所修复，但短期或仍有波动。 高端显卡价格跳水？记者实探深圳华强北 近日，有报道称，近期高端显卡价格剧烈波动，部分型号产品售价从10月的1.8万元降至1.4万元。11月15日，中国证券报记者在 深圳华强 北实探时，有商户表示，目前显卡售价高昂，今年8月开始显卡价格涨",
+     "source": "东方财富资讯",
+     "zh": "11月16日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
      "title": "NASA advances PRIMA mission with BAE Systems as space telescope supplier",
      "link": "https://seekingalpha.com/news/4672811-nasa-advances-prima-mission-with-bae-systems-as-space-telescope-supplier?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 17:02:01 -0500",
@@ -2298,12 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "NASA advances PRIMA mission with BAE Systems as space telescope supplier"
     },
     {
-     "title": "SK海力士暗盘涨超1%，现报130.935美元",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931540394.html",
-     "pubDate": "Mon, 16 Nov 2026 05:55:02 +0800",
-     "summary": "SK海力士 暗盘涨超1%，现报130.935美元。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "SK海力士暗盘涨超1%，现报130.935美元"
+     "title": "东方财富财经早餐 11月16日周一",
+     "link": "http://finance.eastmoney.com/news/11060,202611153931506993.html",
+     "pubDate": "Mon, 16 Nov 2026 06:00:48 +0800",
+     "summary": "每日精选 携手共建亚太命运共同体： 11月16日 出版 的第22期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的 重要文章《携手共建亚太命运共同体》 。这是习近平总书记2013年10月至2025年11月期间有关重要论述的节录 。 吴清最新发声 ： 证监会主席吴清14日在参加2026中国资本市场学术年会时表示，进一步深化市场微观结构研究。为进一步提升市场定价和发展质量，需要深入研究改善资本供给结构，加快发展壮大长期资本、耐心资本； 深入研究改善预期引导机制，减少“羊群效应”“短期化”交易带来的市场波动 ；还要深入研究评估量化交易、股份减持等制度规则的优化和公平合理的监管安排，切",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月16日周一"
     },
     {
      "title": "U.S., allies agree to coordinate AI supply chain security",
@@ -2312,54 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "U.S., allies agree to coordinate AI supply chain security"
-    },
-    {
-     "title": "新西兰服务业PSI连续第五个月扩张，创三年半新高",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931540245.html",
-     "pubDate": "Mon, 16 Nov 2026 05:49:36 +0800",
-     "summary": "新西兰10月服务业表现指数（PSI）从50.9升至51.7，创下三年半以来的最高水平，并连续第五个月处于扩张区间，主要由新订单和销售额增长带动。就业分项指数微降至49.9，是唯一低于50荣枯线的分项指标。在服务业指数因新订单带动创下多年新高的背景下，这进一步表明新西兰的经济复苏正在向更多行业蔓延，从而在宏观数据层面对纽元构成了一定支撑。就利率预期而言，更强劲的经济活动减轻了央行提供进一步政策支持的压力。然而，就业数据持平以及持续不断的生活成本担忧，表明经济中的闲置产能尚未消除。交易员可能会将该数据视为提振信心的因素，而非改变市场格局的转折点，并将在接下来的数据中观察大选期间被压抑的消费是否会开",
-     "source": "东方财富股票",
-     "zh": "新西兰服务业PSI连续第五个月扩张，创三年半新高"
-    },
-    {
-     "title": "AMD暗盘涨超1%，现报526.295美元",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931540036.html",
-     "pubDate": "Mon, 16 Nov 2026 05:49:21 +0800",
-     "summary": "AMD暗盘涨超1%，现报526.295美元。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "AMD暗盘涨超1%，现报526.295美元"
-    },
-    {
-     "title": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday",
-     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-     "pubDate": "Sun, 15 Nov 2026 21:48:16 GMT",
-     "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-     "source": "CNBC",
-     "zh": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday"
-    },
-    {
-     "title": "据报道 白宫或将对五角大楼前首席战略家提起刑事诉讼",
-     "link": "http://finance.eastmoney.com/news/11790,202611163931540190.html",
-     "pubDate": "Mon, 16 Nov 2026 05:47:02 +0800",
-     "summary": "据报道，白宫或将对五角大楼前首席战略家提起刑事诉讼。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "据报道 白宫或将对五角大楼前首席战略家提起刑事诉讼"
-    },
-    {
-     "title": "专精特新赛道成色渐显 北证市场进入功能提升新阶段",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931532264.html",
-     "pubDate": "Mon, 16 Nov 2026 05:40:57 +0800",
-     "summary": "2026年11月15日，北京证券交易所迎来开市五周年。五年前鸣锣开市时，北交所仅有81家上市公司、总市值不足3000亿元；如今上市公司已达355家，总市值约8000亿元。五年间，这片聚焦创新型中小企业的资本市场沃土，不仅完成了规模上的立柱架梁，更跑出了一批实实在在的牛股。 从市值榜上看，开市五年，北交所诞生了一批百亿级市值公司。Wind数据显示，截至11月13日收盘， 蘅东光 以366亿元的总市值稳居榜首， 贝特瑞 以约200亿元市值紧随其后， 锦波生物 夺得第三名，市值为161亿元。2026年上市的 杰理科技 、 中科仪 后来居上，以129亿元和125亿元位居第四、第五位。 此外， 戈碧迦 ",
-     "source": "东方财富股票",
-     "zh": "专精特新赛道成色渐显 北证市场进入功能提升新阶段"
-    },
-    {
-     "title": "卡塔尔首相：阿曼遭到了袭击，而阿曼没有美国军事基地",
-     "link": "http://finance.eastmoney.com/news/1351,202611163931539915.html",
-     "pubDate": "Mon, 16 Nov 2026 05:37:53 +0800",
-     "summary": "问：伊朗没有袭击巴基斯坦，但中东其他国家遭到了袭击。这是否说明有必要就美军不在该地区设基地展开讨论？ 卡塔尔首相：阿曼遭到了袭击，而阿曼没有美国军事基地。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "卡塔尔首相：阿曼遭到了袭击，而阿曼没有美国军事基地"
     },
     {
      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
@@ -2384,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
      "source": "MarketWatch",
      "zh": "Budget airlines are going upscale with first-class seats and faster wifi"
-    },
-    {
-     "title": "Fed’s Schmid warns inflation fight has grown harder",
-     "link": "https://seekingalpha.com/news/4672808-fed-s-schmid-warns-inflation-fight-has-grown-harder?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 16:25:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Fed’s Schmid warns inflation fight has grown harder"
     },
     {
      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
@@ -2450,6 +2466,14 @@ window.INDUSTRY_DATA = {
      "zh": "US and allies sign accord to protect AI supply chains from China"
     },
     {
+     "title": "证监会：进一步深化市场稳定长效机制研究 有效防范市场异常波动",
+     "link": "http://stock.eastmoney.com/news/11215,202611163931529392.html",
+     "pubDate": "Mon, 16 Nov 2026 01:01:32 +0800",
+     "summary": "证监会：进一步深化市场稳定长效机制研究 系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动 11月14日，中国证监会主席吴清在2026中国资本市场学术年会开幕式上详细阐述了新“国九条”出台以来资本市场发生的深刻变化，深入分析了大变局下资本市场的机遇挑战，并就深化资本市场重大理论和实践问题研究作出部署。 他提出了六个需要进一步深化研究的方向，包括：中国资本市场发展特点规律研究、市场稳定长效机制研究、制度包容性适应性研究、 人工智能 与资本市场双向赋能研究、市场微观结构研究、资本市场参与全球金融治理研究，并强调需要系统构建稳的机制、稳的力量、稳的生态，有效防范市场异常波动。 资本市场发生积",
+     "source": "东方财富资讯",
+     "zh": "证监会：进一步深化市场稳定长效机制研究 有效防范市场异常波动"
+    },
+    {
      "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
      "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
      "pubDate": "Sun, 15 Nov 2026 16:56:40 GMT",
@@ -2458,52 +2482,28 @@ window.INDUSTRY_DATA = {
      "zh": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration"
     },
     {
-     "title": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季",
-     "link": "https://wallstreetcn.com/articles/3785968",
-     "pubDate": "Sun, 15 Nov 2026 21:08:47 +0800",
-     "summary": "美银证券首席投资策略师Michael Hartnett维持风险规避立场，并将此前设定的入场时间窗口大幅推后。强美元、高油价与居高不下的通胀共同构成三重障碍，令其此前为年底反弹行情设定的触发条件全线落空。 美元指数周五收于103.42，创年内新高。Hartnett将其定性为全球流动性的\"破坏之球\"—— 美元持续走强叠加黄金跌破4000美元，在其分析框架中意味着全球流动性正在收缩。 在此背景下，他将全球加息周期的终点推迟至明年4月美联储议息会议，并将看空风险资产的立场延续至明年春季美元见顶之后。 就市场影响而言，本轮强美元已对多类资产造成明显冲击 ：黄金年内跌幅扩大至10.4%，比特币跌幅达18.",
-     "source": "华尔街见闻",
-     "zh": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季"
+     "title": "“三重门”改变并购江湖 A股“卖壳”交易难了",
+     "link": "http://stock.eastmoney.com/news/11215,202611153931505281.html",
+     "pubDate": "Mon, 16 Nov 2026 00:27:21 +0800",
+     "summary": "近一年来，A股“卖壳”江湖正悄然变天：资本运作层面，一边是早前流行的 表决权委托操作方式被“束之高阁” ，一边是 锁价定增难以为继全面让位市价发行 ，再加上 董事高管减持规则硬性约束 ，三条规则相互咬合，让前几年看似红火的卖壳交易，变得难上加难。 这种“难”还体现在相关数据的变化上。 今年以来，A股上市公司通过协议转让或“协议转让+表决权委托”等方式实现控制权变更的案例明显减少。 数据显示，截至11月15日，年内有64家公司已完成或正在推进控制权变更事宜，较去年同期的80家减少两成；同时，相关交易今年已完成过户的为32家，尚有一半案例处于推进过程中，而去年同期80家公司中则有61家完成过户。此",
+     "source": "东方财富资讯",
+     "zh": "“三重门”改变并购江湖 A股“卖壳”交易难了"
     },
     {
-     "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-     "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-     "pubDate": "Sun, 15 Nov 2026 13:00:02 GMT",
-     "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
-     "source": "CNBC",
-     "zh": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins"
+     "title": "集体拉升！霍尔木兹海峡传出重磅消息！",
+     "link": "http://futures.eastmoney.com/news/11233,202611153931506472.html",
+     "pubDate": "Mon, 16 Nov 2026 00:21:43 +0800",
+     "summary": "深夜异动！ 北京时间15日晚间，加密货币市场集体拉升。比特币价格回升至6.56万美元，24小时内跌幅收窄至1.5%；此前比特币一度大跌近8%，下探至6.2万美元附近。BNB跌幅大幅收窄至1.73%，此前跌超9%；以太坊、Solana跌幅均收窄至3%以内，此前均跌超10%。 与此同时，暗盘市场中部分AI硬件股亦有所拉升。截至发稿， 迈威尔科技 涨近1%， 博通 涨0.65%， SK海力士 涨0.45%， 超威半导体 （AMD）涨0.3%。上述个股在拉升前暗盘股价均下跌。 消息面上，据新华社援引伊朗塔斯尼姆通讯社15日报道，伊朗议会国家安全与外交政策委员会发言人卡什卡维说，该委员会已完成霍尔木兹海",
+     "source": "东方财富资讯",
+     "zh": "集体拉升！霍尔木兹海峡传出重磅消息！"
     },
     {
-     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-     "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-     "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
-     "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
-     "source": "CNBC",
-     "zh": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
-    },
-    {
-     "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
-     "link": "https://wallstreetcn.com/articles/3785932",
-     "pubDate": "Sun, 15 Nov 2026 19:41:52 +0800",
-     "summary": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话会，数据中心收入与下季指引若能扛住，AI链获得企稳锚点；若指引转弱，本周已流向AMD、博通的轮动资金将再度失据。同日，黄仁勋须赴美国众议院三委员会联合听证，或将聚焦对外芯片销售与公司治理问答。 同时，",
-     "source": "华尔街见闻",
-     "zh": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报"
-    },
-    {
-     "title": "From culture war to class war: US Democrats ditch woke politics",
-     "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
-     "pubDate": "Sun, 15 Nov 2026 11:00:04 GMT",
-     "summary": "The newly emboldened party shifts gears after its sweeping midterm election victory",
-     "source": "Financial Times",
-     "zh": "From culture war to class war: US Democrats ditch woke politics"
-    },
-    {
-     "title": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱",
-     "link": "https://wallstreetcn.com/articles/3785963",
-     "pubDate": "Sun, 15 Nov 2026 16:33:47 +0800",
-     "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设：IT用NAND价格环比下降5%至10%，企业级应用基本持平或小幅上行，整体低个位数下滑 。这一判断与市场仍预期NAND售价上涨10%以上的看法形成明显分歧。与此同时，美银仍假设DRAM涨价延续至20",
-     "source": "华尔街见闻",
-     "zh": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱"
+     "title": "高端显卡价格跳水？记者实探深圳华强北",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931489260.html",
+     "pubDate": "Mon, 16 Nov 2026 00:20:46 +0800",
+     "summary": "近日，有报道称，近期高端显卡价格剧烈波动，部分型号产品售价从10月的1.8万元降至1.4万元。11月15日，中国证券报记者在 深圳华强 北实探时，有商户表示，目前显卡售价高昂，今年8月开始显卡价格涨幅显著，进入11月价格稍有回落。 显卡最初主要用于图形渲染，目前也大量承担AI算力运算任务。据媒体报道，此前受海外停产传闻刺激，10月中旬，RTX 50系列显卡价格连续上涨，一口气连涨11个交易日。 一位华强北电脑组装商户表示，今年8月开始，高端显卡涨价势头很猛，价格长期处于高位，近期稍有回落。他举例称，RTX 5080显卡售价从7月份的8000多元上涨至10月的超1.5万元，现在售价约1.4万元。",
+     "source": "东方财富资讯",
+     "zh": "高端显卡价格跳水？记者实探深圳华强北"
     }
    ]
   },

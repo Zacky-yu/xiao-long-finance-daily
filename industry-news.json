@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/16 07:31:58",
+ "generated_at": "2026/11/16 07:37:12",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+     "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+     "pubDate": "Sun, 15 Nov 2026 23:30:00 +0000",
+     "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+     "source": "TechCrunch AI",
+     "zh": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market"
+    },
     {
      "title": "A step toward defining the Standard Model on a lattice",
      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -127,14 +135,6 @@
      "summary": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appe",
      "source": "MarkTechPost",
      "zh": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy"
-    },
-    {
-     "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-     "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-     "pubDate": "Sat, 14 Nov 2026 16:34:15 +0000",
-     "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-     "source": "TechCrunch AI",
-     "zh": "Asian governments react to Nvidia CEO Jensen Huang’s exit"
     },
     {
      "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
@@ -1993,6 +1993,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Why your Wi-Fi slows down when more devices connect",
+     "link": "https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/",
+     "pubDate": "Sun, 15 Nov 2026 23:30:00 +0000",
+     "summary": "Your Wi-Fi router is like a busy train station, and once you get a sense of how things work, it's easier to keep the incoming and outgoing traffic humming.",
+     "source": "Engadget",
+     "zh": "Why your Wi-Fi slows down when more devices connect"
+    },
+    {
      "title": "Apple’s Messages app keeps getting better; here are my favorite updates",
      "link": "https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/",
      "pubDate": "Sun, 15 Nov 2026 23:06:10 +0000",
@@ -2055,14 +2063,6 @@
      "summary": "Google teased last month that detachable Googlebooks are coming soon, and a leak today provides the best look at the “Lenovo Googlebook Duet 13” yet. more…",
      "source": "9to5Google",
      "zh": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]"
-    },
-    {
-     "title": "AO3 is back online but with limited features",
-     "link": "https://www.engadget.com/2317218/ao3-is-back-online-but-with-limited-features/",
-     "pubDate": "Sun, 15 Nov 2026 21:33:18 +0000",
-     "summary": "The outage lasted two weeks but full functionality is expected to resume soon.",
-     "source": "Engadget",
-     "zh": "AO3 is back online but with limited features"
     },
     {
      "title": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro",
@@ -2241,12 +2241,28 @@
    "total": 13,
    "items": [
     {
+     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 23:30:00 GMT",
+     "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+     "source": "MarketWatch",
+     "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
+    },
+    {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月16日",
      "link": "https://wallstreetcn.com/articles/3785971",
      "pubDate": "Mon, 16 Nov 2026 07:21:23 +0800",
      "summary": "华见早安之声 要闻精选 中国10月新增社融1.15万亿元，人民币贷款单月减少1000亿元，M2同比增长7.1%，M2与M1剪刀差由4.0个百分点收窄至2.7个百分点。 证监会主席吴清：研究优化量化交易、减持等制度安排，吴清回应近期部分科技企业上市估值溢价泡沫：加强科技企业发行上市制度适配性和风险应对机制研究。 央视网评：离岸信托个税申报超1600亿，不是“劫富”，是收旧账。 美国因空管通信频率故障全国停飞，超1万架次航班延误或取消；国土安全部长：不是又一次9·11但不排除网络攻击可能；交通部长：空中交管系统“极其老旧”，不全面更新会出现更多中断。 美联储半年度金融稳定报告称资产估值压力持续处于",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年11月16日"
+    },
+    {
+     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 23:00:00 GMT",
+     "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+     "source": "MarketWatch",
+     "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
     },
     {
      "title": "特朗普将中期选举失利与奥巴马、克林顿和里根作比较",
@@ -2321,6 +2337,14 @@
      "zh": "Pictet raises Japan allocation as it looks beyond AI stocks"
     },
     {
+     "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 22:15:00 GMT",
+     "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+     "source": "MarketWatch",
+     "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?"
+    },
+    {
      "title": "Bombardier secures 12-jet order from Saudi Arabia’s THC",
      "link": "https://seekingalpha.com/news/4672812-bombardier-secures-12-jet-order-from-saudi-arabia-s-thc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 17:14:14 -0500",
@@ -2361,12 +2385,36 @@
      "zh": "U.S., allies agree to coordinate AI supply chain security"
     },
     {
+     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 21:32:00 GMT",
+     "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+     "source": "MarketWatch",
+     "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
+    },
+    {
      "title": "Senators demand Lutnick testimony over alleged Nvidia chip diversions to China",
      "link": "https://seekingalpha.com/news/4672809-senators-demand-lutnick-testimony-over-alleged-nvidia-chip-diversions-to-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 16:31:52 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Senators demand Lutnick testimony over alleged Nvidia chip diversions to China"
+    },
+    {
+     "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+     "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 21:31:00 GMT",
+     "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+     "source": "MarketWatch",
+     "zh": "Budget airlines are going upscale with first-class seats and faster wifi"
+    },
+    {
+     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 20:30:00 GMT",
+     "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+     "source": "MarketWatch",
+     "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
     },
     {
      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
@@ -2431,54 +2479,6 @@
      "summary": "深夜异动！ 北京时间15日晚间，加密货币市场集体拉升。比特币价格回升至6.56万美元，24小时内跌幅收窄至1.5%；此前比特币一度大跌近8%，下探至6.2万美元附近。BNB跌幅大幅收窄至1.73%，此前跌超9%；以太坊、Solana跌幅均收窄至3%以内，此前均跌超10%。 与此同时，暗盘市场中部分AI硬件股亦有所拉升。截至发稿， 迈威尔科技 涨近1%， 博通 涨0.65%， SK海力士 涨0.45%， 超威半导体 （AMD）涨0.3%。上述个股在拉升前暗盘股价均下跌。 消息面上，据新华社援引伊朗塔斯尼姆通讯社15日报道，伊朗议会国家安全与外交政策委员会发言人卡什卡维说，该委员会已完成霍尔木兹海",
      "source": "东方财富资讯",
      "zh": "集体拉升！霍尔木兹海峡传出重磅消息！"
-    },
-    {
-     "title": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季",
-     "link": "https://wallstreetcn.com/articles/3785968",
-     "pubDate": "Sun, 15 Nov 2026 21:08:47 +0800",
-     "summary": "美银证券首席投资策略师Michael Hartnett维持风险规避立场，并将此前设定的入场时间窗口大幅推后。强美元、高油价与居高不下的通胀共同构成三重障碍，令其此前为年底反弹行情设定的触发条件全线落空。 美元指数周五收于103.42，创年内新高。Hartnett将其定性为全球流动性的\"破坏之球\"—— 美元持续走强叠加黄金跌破4000美元，在其分析框架中意味着全球流动性正在收缩。 在此背景下，他将全球加息周期的终点推迟至明年4月美联储议息会议，并将看空风险资产的立场延续至明年春季美元见顶之后。 就市场影响而言，本轮强美元已对多类资产造成明显冲击 ：黄金年内跌幅扩大至10.4%，比特币跌幅达18.",
-     "source": "华尔街见闻",
-     "zh": "美银Hartnett：强美元冲击全球流动性，风险资产暂难入场，转折点推迟至明年春季"
-    },
-    {
-     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-     "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-     "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
-     "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
-     "source": "CNBC",
-     "zh": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
-    },
-    {
-     "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
-     "link": "https://wallstreetcn.com/articles/3785932",
-     "pubDate": "Sun, 15 Nov 2026 19:41:52 +0800",
-     "summary": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话会，数据中心收入与下季指引若能扛住，AI链获得企稳锚点；若指引转弱，本周已流向AMD、博通的轮动资金将再度失据。同日，黄仁勋须赴美国众议院三委员会联合听证，或将聚焦对外芯片销售与公司治理问答。 同时，",
-     "source": "华尔街见闻",
-     "zh": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报"
-    },
-    {
-     "title": "From culture war to class war: US Democrats ditch woke politics",
-     "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
-     "pubDate": "Sun, 15 Nov 2026 11:00:04 GMT",
-     "summary": "The newly emboldened party shifts gears after its sweeping midterm election victory",
-     "source": "Financial Times",
-     "zh": "From culture war to class war: US Democrats ditch woke politics"
-    },
-    {
-     "title": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱",
-     "link": "https://wallstreetcn.com/articles/3785963",
-     "pubDate": "Sun, 15 Nov 2026 16:33:47 +0800",
-     "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设：IT用NAND价格环比下降5%至10%，企业级应用基本持平或小幅上行，整体低个位数下滑 。这一判断与市场仍预期NAND售价上涨10%以上的看法形成明显分歧。与此同时，美银仍假设DRAM涨价延续至20",
-     "source": "华尔街见闻",
-     "zh": "存储正在分化，美银：DRAM依然坚挺，NAND已悄然走弱"
-    },
-    {
-     "title": "AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”",
-     "link": "https://wallstreetcn.com/articles/3785958",
-     "pubDate": "Sun, 15 Nov 2026 15:23:13 +0800",
-     "summary": "美元与AI资本开支预期深度绑定，高盛警告：当AI叙事退潮，美元将随之承压。 高盛外汇策略团队在《2027全球外汇展望》报告中指出， 美元短期内仍有上行空间，但2027年将迎来实质性逆转。 在历经2025年的大规模抛售与多元化配置后，美元于2026年悄然收复失地——欧元兑美元回落至\"解放日\"以来低位，美元指数（DXY）触及2025年4月以来最高点，美元兑日元逼近160关口。 高盛认为，支撑这轮涨势的核心驱动力正是AI相关投资预期的持续升温，而一旦这一预期见顶，美元也将面临同样的拐点。 数据显示，外国投资者在截至今年8月的一年间净购入创纪录的1.47万亿美元美国股票及企业债券，几乎是全球金融危机前",
-     "source": "华尔街见闻",
-     "zh": "AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”"
     }
    ]
   },

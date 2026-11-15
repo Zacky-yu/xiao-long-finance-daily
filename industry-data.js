@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 03:55:04",
+ "generated_at": "2026/11/16 04:12:03",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "CEO Interview with Kurt Busch of Syntiant",
+     "link": "https://semiwiki.com/ceo-interviews/376259-ceo-interview-with-kurt-busch-of-syntiant/",
+     "pubDate": "Sun, 15 Nov 2026 20:00:41 +0000",
+     "summary": "Kurt Busch is the chief executive officer of Syntiant Corp. He has extensive experience in product development, having driven the successful launch of new products, ranging from SaaS and semiconductors for telecom and broadcast video to consumer electronics and data center systems. Prior to Syntiant",
+     "source": "SemiWiki",
+     "zh": "CEO Interview with Kurt Busch of Syntiant"
+    },
+    {
      "title": "IEDM 2026 Reveals New Paths to Faster, More Efficient AI",
      "link": "https://semiwiki.com/events/376230-iedm-2026-reveals-new-paths-to-faster-more-efficient-ai/",
      "pubDate": "Sun, 15 Nov 2026 18:00:47 +0000",
@@ -402,14 +410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Electronica: Renesas adds Xplorer Developer Hub"
     },
     {
-     "title": "Jensen Huang and the Cost of Unchecked Influence",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/376254-jensen-huang-and-the-accountability-crisis-at-nvidia/",
-     "pubDate": "Fri, 13 Nov 2026 13:00:18 +0000",
-     "summary": "As a semiconductor professional with 45 years in the industry, born and raised in Silicon Valley, I’ve followed Nvidia and Jensen Huang from the beginning. Jensen has been my No. 1 semiconductor CEO for many years, and he still is today. My wife and I have met Jensen and his wife, Lori, on several s",
-     "source": "SemiWiki",
-     "zh": "Jensen Huang and the Cost of Unchecked Influence"
-    },
-    {
      "title": "Electronica – The latest news roundup",
      "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
      "pubDate": "Fri, 13 Nov 2026 11:12:27 +0000",
@@ -466,14 +466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The $130 Billion Oil Boom Fueled by the Iran War",
+     "link": "https://oilprice.com/Energy/Crude-Oil/The-130-Billion-Oil-Boom-Fueled-by-the-Iran-War.html",
+     "pubDate": "Sun, 15 Nov 2026 14:00:00 -0600",
+     "summary": "Several oil and gas companies in the United States have benefited from increased trade following the war in Iran that began in February, and from subsequent restrictions on international energy trade. Many countries have been forced to turn to alternative suppliers due to restrictions on movement th",
+     "source": "OilPrice",
+     "zh": "The $130 Billion Oil Boom Fueled by the Iran War"
+    },
+    {
      "title": "Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line",
      "link": "https://cleantechnica.com/2026/11/15/scout-steps-toward-mass-production-with-200000-reservations-on-the-line/",
      "pubDate": "Sun, 15 Nov 2026 16:01:50 +0000",
@@ -936,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "For three years, the gold story was about who was buying. In 2026, it has become a story about where the metal sleeps at night. On Tuesday, the Monetary Authority of Singapore opened its national currency vault, with room for 500 tons of bullion, to foreign central banks and sovereign entities, and ",
      "source": "OilPrice",
      "zh": "Singapore Makes a $65 Billion Bet on the Future of Gold"
-    },
-    {
-     "title": "America’s Offshore Wind Industry Is Growing Despite Trump’s Crackdown",
-     "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Americas-Offshore-Wind-Industry-Is-Growing-Despite-Trumps-Crackdown.html",
-     "pubDate": "Sat, 14 Nov 2026 10:00:00 -0600",
-     "summary": "The United States was slow to embrace offshore wind, with its first small-scale commercial wind farm coming online in 2016. It would take another eight years before the country launched its first utility-scale offshore wind project in 2024. While many other countries around the globe were rapidly de",
-     "source": "OilPrice",
-     "zh": "America’s Offshore Wind Industry Is Growing Despite Trump’s Crackdown"
     },
     {
      "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells",
@@ -1450,6 +1450,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1490,6 +1498,14 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1512,6 +1528,14 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1738,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
+     "link": "https://www.techmeme.com/261115/p15#a261115p15",
+     "pubDate": "Sun, 15 Nov 2026 15:02:17 -0500",
+     "summary": "Associated Press : Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a &ldquo;legitimate and lawful business&rdquo; as it opens an internal probe &nbsp; &mdash;&nbsp; Singapore-based cloud computing company Megaspeed International said Sunday that Chinese busin",
+     "source": "Techmeme",
+     "zh": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)"
+    },
+    {
+     "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+     "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+     "pubDate": "Sun, 15 Nov 2026 19:39:46 +0000",
+     "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Parents pay $75k for Alpha's AI school. Half of its students missed math target"
+    },
+    {
      "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
      "link": "https://www.techmeme.com/261115/p14#a261115p14",
      "pubDate": "Sun, 15 Nov 2026 14:20:00 -0500",
@@ -1765,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Eclipse Mosquitto – An open source MQTT broker",
      "link": "https://github.com/eclipse-mosquitto/mosquitto",
      "pubDate": "Sun, 15 Nov 2026 18:36:40 +0000",
-     "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 9 # Comments: 3",
+     "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 18 # Comments: 8",
      "source": "Hacker News",
      "zh": "Eclipse Mosquitto – An open source MQTT broker"
     },
@@ -1773,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
      "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
      "pubDate": "Sun, 15 Nov 2026 18:36:10 +0000",
-     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 47 # Comments: 10",
+     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 84 # Comments: 36",
      "source": "Hacker News",
      "zh": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests"
     },
@@ -1789,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "A short explainer on how El Niño works [video]",
      "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
      "pubDate": "Sun, 15 Nov 2026 18:23:21 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 41 # Comments: 3",
+     "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 52 # Comments: 3",
      "source": "Hacker News",
      "zh": "A short explainer on how El Niño works [video]"
     },
@@ -1797,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
      "pubDate": "Sun, 15 Nov 2026 17:53:31 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 33 # Comments: 20",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 45 # Comments: 26",
      "source": "Hacker News",
      "zh": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can"
     },
@@ -1805,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Clice v1.0 Released: Welcome to Modern C++",
      "link": "https://ykiko.me/en/articles/2105384023094834022/",
      "pubDate": "Sun, 15 Nov 2026 17:22:32 +0000",
-     "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 20 # Comments: 2",
      "source": "Hacker News",
      "zh": "Clice v1.0 Released: Welcome to Modern C++"
     },
@@ -1834,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元"
     },
     {
-     "title": "Investigation: Howard Lutnick pushed to narrow chip curbs affecting a client of his former firm Cantor Fitzgerald whose Malaysia data center may serve Tencent (New York Times)",
-     "link": "https://www.techmeme.com/261115/p9#a261115p9",
-     "pubDate": "Sun, 15 Nov 2026 11:10:01 -0500",
-     "summary": "New York Times : Investigation: Howard Lutnick pushed to narrow chip curbs affecting a client of his former firm Cantor Fitzgerald whose Malaysia data center may serve Tencent &nbsp; &mdash;&nbsp; The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some ",
-     "source": "Techmeme",
-     "zh": "Investigation: Howard Lutnick pushed to narrow chip curbs affecting a client of his former firm Cantor Fitzgerald whose Malaysia data center may serve Tencent (New York Times)"
-    },
-    {
      "title": "最强Agent，为什么不能自己给自己发通行证？",
      "link": "https://www.huxiu.com/article/4905755.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 00:07:19 +0800",
@@ -1864,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 15 日消息，微星 (MSI) 近期推出了处理器 AIO 液冷散热器 PRO CORELIQUID R13 360。这一型号兼容英特尔 FCLGA 1851 / 1700、AMD Socket AM5 / AM4 处理器， 享受 3 年质保 。 PRO CORELIQUID R13 360 基于预期寿命 50000hr 的微星定制 M6 水泵方案，配备可旋转的简洁 ARGB 顶盖，搭配尼龙编织 EPDM 水冷、27mm 20fpi 铝制冷排，吹排为 3 颗 12025 规格的串联风扇，配套 AMD 偏移式安装支架。 IT之家了解到，微星 PRO CORELIQUID R13",
      "source": "IT之家",
      "zh": "微星推出 PRO CORELIQUID R13 360 液冷，399 / 419 元"
-    },
-    {
-     "title": "Emacs Is My Browser",
-     "link": "https://joshblais.com/blog/emacs-as-my-browser/",
-     "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
-     "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 108 # Comments: 56",
-     "source": "Hacker News",
-     "zh": "Emacs Is My Browser"
     },
     {
      "title": "《GTA 6》通关时长爆料：主线约 50 小时，白金全成就预计 200 小时",
@@ -1986,6 +2010,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Sony is ditching its cross-product support app for dedicated alternatives",
+     "link": "https://www.engadget.com/2313842/sony-ditching-cross-product-support-app-good-reason/",
+     "pubDate": "Sun, 15 Nov 2026 19:45:00 +0000",
+     "summary": "After over a decade of use, customers are going to need to switch to a less-efficient means of monitoring their favorite Sony products and gadgets.",
+     "source": "Engadget",
+     "zh": "Sony is ditching its cross-product support app for dedicated alternatives"
+    },
+    {
      "title": "How to change and customize your app icons on Samsung Galaxy",
      "link": "https://www.engadget.com/2313837/change-customize-app-icons-samsung-galaxy/",
      "pubDate": "Sun, 15 Nov 2026 19:30:00 +0000",
@@ -2024,14 +2056,6 @@ window.INDUSTRY_DATA = {
      "summary": "A speck of dust on your camera's sensor can negatively affect your photos, but it's important to avoid this cleaning mistake so you don't damage your camera.",
      "source": "Engadget",
      "zh": "The camera sensor cleaning mistake you don't want to make"
-    },
-    {
-     "title": "Sleep vs. shutdown: When to use these modes on your mini PC",
-     "link": "https://www.engadget.com/2313768/when-to-use-sleep-vs-shutdown-mini-pc/",
-     "pubDate": "Sun, 15 Nov 2026 18:15:00 +0000",
-     "summary": "Here's how to determine if you should choose the sleep or shutdown mode on your mini PC. We'll also discuss the meaning of hibernation mode.",
-     "source": "Engadget",
-     "zh": "Sleep vs. shutdown: When to use these modes on your mini PC"
     },
     {
      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
@@ -2234,6 +2258,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 20:01:00 GMT",
+     "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+     "source": "MarketWatch",
+     "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
+    },
+    {
+     "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+     "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 20:00:00 GMT",
+     "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+     "source": "MarketWatch",
+     "zh": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
+    },
+    {
+     "title": "SA Asks: What are the most attractive Big Pharma stocks right now?",
+     "link": "https://seekingalpha.com/news/4672799-sa-asks-what-are-the-most-attractive-big-pharma-stocks-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 14:56:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What are the most attractive Big Pharma stocks right now?"
+    },
+    {
      "title": "英伟达风波冲击全球算力格局 基金研判AI投资新变量",
      "link": "http://finance.eastmoney.com/news/1354,202611163931532683.html",
      "pubDate": "Mon, 16 Nov 2026 03:43:04 +0800",
@@ -2330,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "也门胡塞武装称用两枚弹道导弹袭击了沙特利雅得的哈立德国王机场和金融中心"
     },
     {
-     "title": "ULA’s Vulcan returns to flight with 40 Amazon internet satellites",
-     "link": "https://seekingalpha.com/news/4672795-ula-s-vulcan-returns-to-flight-with-40-amazon-internet-satellites?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 13:32:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ULA’s Vulcan returns to flight with 40 Amazon internet satellites"
-    },
-    {
      "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO",
      "link": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
      "pubDate": "Sun, 15 Nov 2026 18:28:25 GMT",
@@ -2410,30 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
     },
     {
-     "title": "中国“星链”走到商用前夜",
-     "link": "http://www.eeo.com.cn/2026/1115/1094089.shtml",
-     "pubDate": "Sun, 15 Nov 2026 22:07:13 +0800",
-     "summary": "随着年底的节点临近，国产低轨星座的商用，正在面临卫星、用户和收入三个环节的检验。",
-     "source": "经济观察网",
-     "zh": "中国“星链”走到商用前夜"
-    },
-    {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 14:00:00 GMT",
-     "summary": "There is already a demographic ‘run’ on Social Security.",
-     "source": "MarketWatch",
-     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
-    },
-    {
-     "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
-     "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 14:00:00 GMT",
-     "summary": "SpaceX’s offering coincided with the June peak in semiconductors.",
-     "source": "MarketWatch",
-     "zh": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?"
-    },
-    {
      "title": "高端显卡价格跳水？记者实探深圳华强北",
      "link": "http://finance.eastmoney.com/news/1345,202611153931489260.html",
      "pubDate": "Sun, 15 Nov 2026 21:20:46 +0800",
@@ -2472,6 +2488,14 @@ window.INDUSTRY_DATA = {
      "summary": "近期， AI应用 板块接连爆发，成为市场关注焦点。其中，AI短剧指数在11月前两周涨幅超过25%，端侧AI呈现集体异动， 物理AI 同期涨幅超10%，振幅明显放大。 本轮行情背后的逻辑是什么？是否意味着新主线已经形成？当前处于什么阶段？哪些细分方向值得布局？ 对此，中国基金报记者采访了： 博时基金指数与量化投资部基金经理李庆阳； 鑫元基金权益投资部负责人、基金经理李彪； 国泰基金基金经理李星全； 平安鼎越基金经理林清源； 恒生前海消费升级混合基金经理胡启聪。 上述基金经理普遍认为，近期 AI应用 板块爆发本质上是资金从交易拥挤的算力硬件向低位、有产业催化的应用端进行的高低切换与结构性轮动，而非",
      "source": "东方财富资讯",
      "zh": "AI应用爆发！主线切换还是资金轮动？基金经理最新解读"
+    },
+    {
+     "title": "11月15日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931476331.html",
+     "pubDate": "Sun, 15 Nov 2026 20:00:46 +0800",
+     "summary": "沪深两市多家上市公司11月15日晚间发布公司公告，以下为重要公告汇总。 【品大事】 *ST闻泰 ：企业法庭就安世境外追加临时措施申请作出裁定，公司拟上诉 *ST闻泰 (600745)11月15日公告，公司境外子公司安世 半导体 控股有限公司和安世 半导体 有限公司前期向荷兰阿姆斯特丹上诉法院企业法庭（以下简称“企业法庭”）提交追加临时措施的申请，企业法庭于10月30日开庭审理，于11月11日作出临时措施裁定，责令公司、裕成控股及安世中国尊重并容忍管理人履行其职责、准许并容忍安世 半导体 及管理人开展市场调研、接洽市场主体，撤回部分中国境内诉讼诉求、禁止执行东莞中院部分行为保全裁定等。此次裁定仅",
+     "source": "东方财富资讯",
+     "zh": "11月15日晚间沪深上市公司重大事项公告最新快递"
     }
    ]
   },
@@ -2481,6 +2505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future",
+     "link": "https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future",
+     "pubDate": "Sun, 15 Nov 2026 20:00:00 +0000",
+     "summary": "Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.",
+     "source": "Live Science",
+     "zh": "'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future"
+    },
     {
      "title": "Which animal would you most want to talk to, if you could?",
      "link": "https://www.livescience.com/animals/which-animal-would-you-most-want-to-talk-to-if-you-could",
@@ -2568,14 +2600,6 @@ window.INDUSTRY_DATA = {
      "summary": "Think that cows are the king of flatulence? There's another animal that likely blows the competition away.",
      "source": "Live Science",
      "zh": "Which animal farts the most?"
-    },
-    {
-     "title": "'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family",
-     "link": "https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family",
-     "pubDate": "Sat, 14 Nov 2026 09:00:00 +0000",
-     "summary": "In this excerpt from \"The Secrets of our DNA,\" geneticist Turi King examines how DNA was used to reveal the ultimate fate of the last members of the House of Romanov.",
-     "source": "Live Science",
-     "zh": "'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family"
     },
     {
      "title": "In elephants, the resilience of communities has its limits",

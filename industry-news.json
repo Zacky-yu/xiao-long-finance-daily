@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/15 15:18:00",
+ "generated_at": "2026/11/15 17:54:04",
  "recent_days": 7,
  "industries": [
   {
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts",
+     "link": "https://cnevpost.com/2026/11/15/nio-warns-airbag-recall-scam-texts/",
+     "pubDate": "Sun, 15 Nov 2026 09:34:33 +0000",
+     "summary": "Scammers impersonate Nio and regulators, using unofficial links to lure owners into submitting personal information. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Nio warns owners of 'airbag recall' scam texts as other automakers issue similar alerts"
+    },
+    {
      "title": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
      "link": "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/",
      "pubDate": "Sat, 14 Nov 2026 21:26:03 +0000",
@@ -807,14 +815,6 @@
      "summary": "The 5,270-mm-long 6-seat plug-in hybrid model is Fang Cheng Bao's largest SUV. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "BYD Fang Cheng Bao to launch its largest SUV Tai 9 on November 19"
-    },
-    {
-     "title": "Xpeng launches Mona L03 and G9L in UK, plans about 100 retail and service locations in 2027",
-     "link": "https://cnevpost.com/2026/11/13/xpeng-launches-mona-l03-g9l-uk/",
-     "pubDate": "Fri, 13 Nov 2026 08:04:48 +0000",
-     "summary": "Xpeng plans to introduce 5 new right-hand-drive models in the UK over the next 12 months and bring its VLA 2.0-powered NGP system to the market in 2027. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Xpeng launches Mona L03 and G9L in UK, plans about 100 retail and service locations in 2027"
     },
     {
      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+     "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+     "pubDate": "Sun, 15 Nov 2026 13:52:04 +0530",
+     "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update",
+     "source": "The Hacker News",
+     "zh": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension"
+    },
+    {
      "title": "Cursor confirms security breach led to malicious Claude Code extension",
      "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
      "pubDate": "Sat, 14 Nov 2026 12:27:25 -0500",
@@ -1697,14 +1705,6 @@
      "zh": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls"
     },
     {
-     "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-     "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-     "pubDate": "Fri, 13 Nov 2026 17:22:31 +0530",
-     "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action.",
-     "source": "The Hacker News",
-     "zh": "When an AI Agent Goes Wrong, Can You Stop It?"
-    },
-    {
      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
      "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
      "pubDate": "Thu, 12 Nov 2026 22:46:05 GMT",
@@ -1761,36 +1761,116 @@
    "total": 18,
    "items": [
     {
-     "title": "34岁加入腾讯，40岁选择离开，我想明白三件事",
-     "link": "https://www.huxiu.com/article/4905698.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 15:10:43 +0800",
-     "summary": "本文来自微信公众号： 职厂禅心 ，作者：TOMY和明初，题图来自：视觉中国 离职申请的提交按钮，我犹豫了好几次才点下去，那一刻情绪不经意涌上来。 最强烈的，是不舍与感恩，两个月内心反复斗争了无数次，最终感性赢了SWOT分析。 放下比拿起难太多。 2020年元旦第二天，我完成了漫长的7轮面试，站在深圳腾讯滨海大厦下，仰望灯火通明的大楼，心中充满了憧憬，看了许久，转身奔赴机场。 回上海的飞机上，我用餐巾纸画完了&ldquo;面试作业&rdquo;&mdash;&mdash;设计一套适合腾讯的身心健康项目。 7年后的国庆，我想可以交卷了，在舟山的海边，面对滚滚而来的海浪，我感受到内在渴望开启新旅程的",
+     "title": "外国游客涌入深圳看“赛博之城”，当导游的年轻人日入上千",
+     "link": "https://www.huxiu.com/article/4905711.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 17:32:51 +0800",
+     "summary": "本文来自微信公众号： 深圳微时光 ，作者：白粥 下午四点，深圳人才公园的外卖停机坪上，一架无人机正在悬停、降落，把一份外卖稳稳地投进取餐柜。 旁边四位墨西哥客人齐刷刷地举起手机，一直拍到无人机飞走，仿佛那不是一顿晚餐，而是某种来自未来的仪式。 带队的导游羊毛站在一旁，欣慰地看着他们。她是西班牙语系毕业的大学生，这是她人生第一次带团。 当导游可不轻松，那天晚上直到行程即将结束，羊毛的脑子已经变得云里雾里，语言组织得颠三倒四，好在客人从头到尾都玩得很开心——这就够了。 根据深圳口岸今年5月发布的数据，随着240小时过境免签、互免签证、单方面免签等一系列便利措施优化实施，外籍人员经深出入境量稳居全国",
      "source": "虎嗅",
-     "zh": "34岁加入腾讯，40岁选择离开，我想明白三件事"
+     "zh": "外国游客涌入深圳看“赛博之城”，当导游的年轻人日入上千"
     },
     {
-     "title": "7671亿，科技史上最大并购案来了",
-     "link": "https://www.huxiu.com/article/4905703.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 15:10:17 +0800",
-     "summary": "本文来自微信公众号： 投中网 ，作者：王满华，编辑：王庆武 对于这场看似诚意满满的“强强联合”，二级市场并不买账。 本文字数3229 手搓量丨90%AI含量丨10% 近日，美国芯片公司Marvell（中文名称：美满科技）宣布，已与光通信器件制造商Lumentum（中文名称：朗美通）签署最终协议，以全股票方式收购后者，交易隐含企业价值约1150亿美元，折合人民币7671亿元。 这无疑是一笔足以引爆全球科技行业的并购交易。 首先从金额来看，1150亿美元已经超过当年微软收购动视暴雪时的690亿美元纪录，成为科技行业有史以来规模最大的并购案之一； 其次，两家公司在各自的高端DSP和光芯片领域，都是市",
+     "title": "“2万元机票几分钟退票被扣1万”海航被曝天价退票费，客服承认退改签无标准，网友不解“造成什么损失扣这么多？”",
+     "link": "https://www.huxiu.com/article/4905710.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 17:32:50 +0800",
+     "summary": "本文来自微信公众号： 新浪财经 ，作者：徐苑蕾 “误购2.3万机票几分钟退票被扣1万”话题登上热搜。有消费者反映，误购两张海航国际联程机票，支付2万多元，几分钟后申请退票却被扣一万元，比例超四成，“这退票费也太高了”，该消费者说道。 针对国际航班退改费用收取标准，海航客服回应称，退改签无具体标准，由市场营销部门制定，具体费用以购票页面查看的信息为准。 对此，部分网友在评论区留言称，“什么损失要扣一万啊，感觉这不是手续费，纯纯就是在割韭菜”“挺无奈，消费者处于劣势”。但也有网友认为，涉事消费者操作存在问题，“大半夜的到底着急啥，这么贵的票，不确认清楚就敢下单付款。” 值得注意的是，《BUG》栏目",
      "source": "虎嗅",
-     "zh": "7671亿，科技史上最大并购案来了"
+     "zh": "“2万元机票几分钟退票被扣1万”海航被曝天价退票费，客服承认退改签无标准，网友不解“造成什么损失扣这么多？”"
     },
     {
-     "title": "微软 XBOX 旗下游戏工作室 InXile 办公楼遭枪击，警方已逮捕一名嫌疑人",
-     "link": "https://www.ithome.com/1/027/337.htm",
-     "pubDate": "Sun, 15 Nov 2026 07:05:25 GMT",
-     "summary": "IT之家 11 月 15 日消息，据外媒 Kotaku 报道，微软旗下 XBOX 游戏工作室 InXile Entertainment 位于美国加利福尼亚州塔斯廷市的办公楼于当地时间 11 月 11 日下午 1 时 10 分左右遭遇一起驾车枪击事件，建筑受到多发子弹击中，现场还发现了 5 至 8 个弹壳，所幸没有人员受伤。 Kotaku 进一步了解到，子弹击中了 InXile Entertainment 所在办公楼的底层。警方一度调查工作室是否为此次枪击事件的目标，但目前尚未确认这一可能性。 InXile Entertainment 发言人向 Kotaku 表示：“我们很庆幸 InXile 办",
+     "title": "宝马称若消费者有需求，将考虑在新世代车型上带回更多实体按键",
+     "link": "https://www.ithome.com/1/027/415.htm",
+     "pubDate": "Sun, 15 Nov 2026 09:28:27 GMT",
+     "summary": "IT之家 11 月 15 日消息，宝马近年来对新世代（Neue Klasse）车型的内饰设计进行了大幅调整，大量取消传统实体按键，转而采用触控面板和触摸屏操作，以取代上一代车型上的各种开关和旋钮。 不过，宝马并不打算永远坚持这种极简设计。如果有足够多的消费者希望重新使用实体按键，宝马愿意听取意见。 据澳大利亚汽车媒体 Carsales 报道，宝马新世代车型数字技术负责人克劳迪娅 · 迈尔（Claudia Maier）在新款 3 系和 i3 的全球发布活动期间接受采访时，谈到了这一问题。 IT之家注意到，从 i3、iX3、iX4，到 X5/iX5 以及 7 系 / i7 等新车型，都能看出宝马座",
      "source": "IT之家",
-     "zh": "微软 XBOX 旗下游戏工作室 InXile 办公楼遭枪击，警方已逮捕一名嫌疑人"
+     "zh": "宝马称若消费者有需求，将考虑在新世代车型上带回更多实体按键"
     },
     {
-     "title": "华为 WATCH 5 智能手表从鸿蒙 HarmonyOS 7 适配清单暂时移除",
-     "link": "https://www.ithome.com/1/027/336.htm",
-     "pubDate": "Sun, 15 Nov 2026 07:01:57 GMT",
-     "summary": "IT之家 11 月 15 日消息，华为官网最新信息显示， 鸿蒙 HarmonyOS 7 系统更多机型从公测转为正式版 ，覆盖 nova 12 / 13 系列、畅享 70X 等手机。MatePad Pro 13.2 英寸 2023 系列平板等产品仍处于公测阶段。 IT之家注意到，HarmonyOS 7 适配机型清单暂时移除了华为 WATCH 5 和 ULTIMATE DESIGN 星钻绽放款智能手表。 今年 10 月底，华为 WATCH 5 系列、ULTIMATE DESIGN 星钻绽放等手表开启 HarmonyOS 7 花粉 Beta 版招募。随后 7.0.0.107 SP18 版本开启推送，",
+     "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio“电子墨水屏便利贴”改造为苹果 Apple TV 遥控器",
+     "link": "https://www.ithome.com/1/027/414.htm",
+     "pubDate": "Sun, 15 Nov 2026 09:26:41 GMT",
+     "summary": "IT之家 11 月 15 日消息，据 XDA 报道，一位 Reddit 用户 Frankynov 将自己的 Seeed Studio reTerminal Sticky“电子墨水屏便利贴”改造为了苹果 Apple TV 遥控器。 Frankynov 透露，整个项目基于 Home Assistant 构建，利用了 Claude 进行辅助编程，不仅能够控制 Apple TV 播放内容，还可以通过触摸屏调节家中的灯光等智能家居设备。 目前，相应项目仍处于初期阶段，开发者表示后续还需要进一步调整设计，并修复测试过程中发现的问题。不过，从目前展示的效果来看，该设备已经具备相当不错的实用性，兼具了触控操作",
      "source": "IT之家",
-     "zh": "华为 WATCH 5 智能手表从鸿蒙 HarmonyOS 7 适配清单暂时移除"
+     "zh": "利用 Claude 辅助编程：爱好者将 Seeed Studio“电子墨水屏便利贴”改造为苹果 Apple TV 遥控器"
+    },
+    {
+     "title": "消息称飞利浦显示器工厂价格本月迎来上涨：部分电竞机型成本涨价 30-50 元不等",
+     "link": "https://www.ithome.com/1/027/413.htm",
+     "pubDate": "Sun, 15 Nov 2026 09:20:47 GMT",
+     "summary": "IT之家 11 月 15 日消息，据博板堂 / 视讯堂旗下“ChannelGate 视博合聚”爆料，飞利浦显示器现已发布 11 月份执行的工厂价格政策表，调整变化如下： 通路机型：除 21.5 寸外，所有通路机型全体开票价上涨 7-10 元不等，实际成本也同幅拉涨。 高分机型：三款 27 寸 UHD 机型成本上涨 50-100 元不等，主要涉及 5900 和 7900 系列 电竞机型：五款 27 寸 QHD 电竞成本 11 月份上涨 30-50 元不等，主要涉及 3500 系列机型 IT之家注意到，此前相应消息源透露，由于后台结算成本一直上涨，飞利浦显示器自身已没办法继续进行价格贴补，因此（双",
+     "source": "IT之家",
+     "zh": "消息称飞利浦显示器工厂价格本月迎来上涨：部分电竞机型成本涨价 30-50 元不等"
+    },
+    {
+     "title": "乘联分会崔东树：十年间新车平均车长增至 4.72 米，SUV 以 56% 份额强势称王",
+     "link": "https://www.ithome.com/1/027/412.htm",
+     "pubDate": "Sun, 15 Nov 2026 09:12:00 GMT",
+     "summary": "IT之家 11 月 15 日消息，乘联分会秘书长崔东树今日发文指出，中国乘用车市场正经历一场由新能源技术与消费升级驱动的“形态革命”。 崔东树表示，十年间， 新车平均车长增至 4.72 米 ，大盘格局被彻底颠覆： SUV 以 56% 份额 （IT之家注：2016 年份额为 38%） 强势称王 ；MPV 告别低端，全面走向 5.2 米以上的极致豪华；传统三厢轿车退守，两厢跨界车逆势上扬。 整体结构上，4.5-4.8 米的传统“黄金尺寸”遭遇严重挤压， 市场呈现出向 4.8 米以上越级大车与 4.5 米以下纯电代步车两极分化的“哑铃型”特征 。 崔东树认为，尺寸膨胀的本质， 是纯电平台空间释放与车",
+     "source": "IT之家",
+     "zh": "乘联分会崔东树：十年间新车平均车长增至 4.72 米，SUV 以 56% 份额强势称王"
+    },
+    {
+     "title": "消息称苹果 iPhone 18 Pro 系列手机销量已达 782.87 万台",
+     "link": "https://www.ithome.com/1/027/411.htm",
+     "pubDate": "Sun, 15 Nov 2026 09:06:10 GMT",
+     "summary": "IT之家 11 月 15 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 45 周（11 月 1 日至 11 月 7 日）， 苹果 iPhone 18 Pro 系列手机销量达到 782.87 万台 。 参考IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上， iPhone 18 Pro 系列正式发布 ，包括 18 Pro 和 18 Pro Max，起售价分别为 9999 元和 10999 元。 iPhone 18 Pro 系列首发搭载 2 纳米制程工艺 A20 Pro 芯片，其封装方式借鉴了 M 系列芯片，性能和能效均创 iPhon",
+     "source": "IT之家",
+     "zh": "消息称苹果 iPhone 18 Pro 系列手机销量已达 782.87 万台"
+    },
+    {
+     "title": "遭受网络攻击后，世嘉日服 11 款街机游戏陆续恢复线上功能",
+     "link": "https://www.ithome.com/1/027/410.htm",
+     "pubDate": "Sun, 15 Nov 2026 09:03:14 GMT",
+     "summary": "IT之家 11 月 15 日消息，世嘉于 11 月 2 日通报公司部分服务器遭到黑客非法访问， 临时关闭部分日服街机游戏的在线服务 。目前公司宣布相应服务陆续恢复运行，玩家可以重新使用在线游玩及 IC 卡功能。 具体来看，最初暂停服务的 13 款游戏中《SEGA NET 麻雀 MJ Arcade》和《HOUSE OF THE DEAD ～SCARLET DAWN～》经确认暂时无法恢复服务。实际恢复运行的世嘉街机游戏共 11 款，IT之家随附列表： 《ONGEKI》（音击） 《Card Maker》 《舰队 Collection Arcade》 《占いコレクショントロッテ》 《头文字 D THE",
+     "source": "IT之家",
+     "zh": "遭受网络攻击后，世嘉日服 11 款街机游戏陆续恢复线上功能"
+    },
+    {
+     "title": "二轮电动车“魔法”背后的三重矛盾",
+     "link": "https://www.huxiu.com/article/4905708.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 16:51:42 +0800",
+     "summary": "本文来自微信公众号： 大橘财经 ，作者：张志峰，原文标题：《深度|二轮电动车“魔法”背后的三重矛盾》 “现在新车还能‘魔法一下’吗？” “这款不行，最多调到30（km/h）左右，但可以立马上牌。这几个新款的可以‘魔法’，轻松上50（km/h）。” “也可以上牌吗？3C认证没问题？” “这几天上不了，15号之后风头过了就可以。” 近日，观察者网以消费者身份来到上海长宁区一家九号电动车经销门店。 店员显然不担心这个，他接着讲车：这款配磷酸铁锂电池，续航110km，支持定速巡航、定位、TCS防侧滑，没有胎压检测，过几天上牌不耽误，速度也不用担心。 同一家店里，可以立刻上牌的车很少，“魔法”失灵了，续",
+     "source": "虎嗅",
+     "zh": "二轮电动车“魔法”背后的三重矛盾"
+    },
+    {
+     "title": "“退两张机票扣了一万元人民币”",
+     "link": "https://www.huxiu.com/article/4905707.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 16:50:39 +0800",
+     "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 最近媒体报道了一起机票退费纠纷。 江苏一位旅客花23576元购买了两张海南航空的国际联程公务舱机票，发现买错后申请退票，最后被扣了整整一万元退票费。 据旅客称，自己刚买完机票几分钟就发现了错误，随后打了14通电话，从凌晨折腾到中午，最终还是没能免掉这笔钱。 一万块，说实话真的不少，也的确让人心疼。 尤其是看到“买完几分钟就想退”这样的描述，我想很多人的第一反应都是：飞机还没起飞，座位也没坐过，航空公司凭什么收这么多钱？ 这个疑问很正常。 —如果一张机票刚买下来，几分钟后就取消订座，航空公司确实很难证明，这短短几分钟给自己造成了多少实际损失。 ",
+     "source": "虎嗅",
+     "zh": "“退两张机票扣了一万元人民币”"
+    },
+    {
+     "title": "14万人请愿黄仁勋回归，谁比英伟达更急",
+     "link": "https://www.huxiu.com/article/4905706.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 16:34:27 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发布明日产品的，原文标题：《14 万人请愿黄仁勋回归，谁比英伟达更急》 黄仁勋已经接受了离开英伟达的结局，但硅谷里越来越多人不希望他就此退场。 11月12日老黄辞职的事刚宣布后，挽留还只是英伟达内部的动静，员工在内网留言刷屏，群发邮件向董事会讨要说法。 到了这个周末，硅谷掀起了一场「保黄运动」。 一个要求黄仁勋复职的请愿网站上线后，签名人数几乎在以肉眼可见的速度疯涨，才两天就已经涨到14万。 14万人请愿，与「粉头」马斯克 这封直接写给英伟达董事会的公开信，挂在名为Stand with Jensen的网站上。页面专门挂出声明，撇清了与英伟达官方及黄仁勋",
+     "source": "虎嗅",
+     "zh": "14万人请愿黄仁勋回归，谁比英伟达更急"
+    },
+    {
+     "title": "当Gemini被戏称为“美国豆包”，张一鸣也活成了“中国布林”",
+     "link": "https://www.tmtpost.com/8205798.html",
+     "pubDate": "Sun, 15 Nov 2026 16:06:47 +0800",
+     "summary": "在太平洋两岸的科技版图上，一种奇妙的镜像正在发生。",
+     "source": "钛媒体",
+     "zh": "当Gemini被戏称为“美国豆包”，张一鸣也活成了“中国布林”"
+    },
+    {
+     "title": "T-DEGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
+     "link": "https://www.tmtpost.com/8205257.html",
+     "pubDate": "Sun, 15 Nov 2026 15:37:00 +0800",
+     "summary": "AI改写行业，谁先交卷？钛媒体《智能大迁移》将从十个问题出发，观察AI如何从模型之争落地到千行百业。接下来我们还会整理更多的话题，通过中美技术趋势和行业观察，看不同行业的智能迁移。",
+     "source": "钛媒体",
+     "zh": "T-DEGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力"
+    },
+    {
+     "title": "她把鸡蛋卖给山姆，要IPO了",
+     "link": "https://www.huxiu.com/article/4905705.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 15:35:31 +0800",
+     "summary": "本文来自微信公众号： 投资界 ，作者：杨继云 90后掌舵。 报道/投资界PEdaily 一位90后女掌门带队敲钟了。 日前，四川圣迪乐村生态食品股份有限公司（下称“圣迪乐”）在四川证监局完成辅导备案登记，正式启动A股IPO进程。 这是一个鸡蛋大王的崛起故事——三十多年前，雷文勇在四川绵阳创办农牧企业铁骑力士，2001年在内部启动孵化蛋品业务，由此诞生圣迪乐——把鸡蛋卖到山姆等高端商超，打下国内高端鲜蛋市场江山。 引人注目的是，公司90后女掌门雷博走到台前。她是雷文勇的女儿，海外留学归来进入家族企业，如今执掌圣迪乐。 眼下，依旧有不少消费公司排队等在IPO大门前，成为科技大时代下另一种耐人寻味的",
+     "source": "虎嗅",
+     "zh": "她把鸡蛋卖给山姆，要IPO了"
     },
     {
      "title": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US&apos; most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)",
@@ -1799,70 +1879,6 @@
      "summary": "Chris Miller / Financial Times : A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy &nbsp; &mdash;&nbsp; The chip company has only itself to blame for a long list of adversaries&nbsp; &mdash;&n",
      "source": "Techmeme",
      "zh": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US&apos; most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)"
-    },
-    {
-     "title": "苹果为老款 Apple Watch 机型推送 watchOS 26.6.1 版本，聚焦修复安全漏洞",
-     "link": "https://www.ithome.com/1/027/335.htm",
-     "pubDate": "Sun, 15 Nov 2026 07:00:45 GMT",
-     "summary": "IT之家 11 月 15 日消息，苹果于当地时间 11 月 9 日为 Apple Watch Series 6、Series 7、Series 8、Apple Watch SE（第二代）和 Apple Watch Ultra 机型发布 watchOS 26.6.1 系统更新（版本号 23U95），主要修复了多项安全漏洞。 根据苹果公布的安全公告，其中一项漏洞涉及 AirPlay，编号为 CVE-2026-113968，攻击者在蓝牙通信范围内可能绕过配对验证码尝试次数限制。苹果通过改进状态管理机制修复了这一逻辑问题。 苹果还修复蓝牙组件中一项编号为 CVE-2026-113970 的释放后使用（",
-     "source": "IT之家",
-     "zh": "苹果为老款 Apple Watch 机型推送 watchOS 26.6.1 版本，聚焦修复安全漏洞"
-    },
-    {
-     "title": "飞利浦推出 100 英寸 The One QLED 电视：支持 Ambilight 灯光系统、三面配备 LED 氛围灯带",
-     "link": "https://www.ithome.com/1/027/334.htm",
-     "pubDate": "Sun, 15 Nov 2026 06:56:18 GMT",
-     "summary": "IT之家 11 月 15 日消息，飞利浦宣布扩展旗下 The One QLED 系列产品线，新增 100 英寸版本（具体型号为 100PQS9001），该机采用 4K 分辨率面板、直下式 LED 背光，支持最高 144Hz 刷新率，并配备 Ambilight 灯光系统和四个 HDMI 2.1 接口。 飞利浦表示，该电视机身三侧均布置 LED 氛围灯带，可根据屏幕画面将对应色彩投射到电视后方的墙壁上，同时还支持飞利浦今年推出的最新 AmbiScape 功能，可将灯光效果与飞利浦 Hue、宜家及 WiZ 的无线智能灯具同步。 其他规格方面，100PQS9001 支持 Dolby Vision 2、",
-     "source": "IT之家",
-     "zh": "飞利浦推出 100 英寸 The One QLED 电视：支持 Ambilight 灯光系统、三面配备 LED 氛围灯带"
-    },
-    {
-     "title": "日本广告巨头，正在拆掉自己",
-     "link": "https://www.huxiu.com/article/4905701.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 14:55:39 +0800",
-     "summary": "本文来自微信公众号： Mulan看世界 ，作者：Mulan往里走 AI正在改写广告行业的游戏规则。这一次，率先动手的，是日本两家老牌广告巨头。 本周，博报堂（Hakuhodo）在公布财报的同时发布了将三家营销公司合并成一个AI驱动新实体的计划；电通（Dentsu）则在早些时候把AI原生运营、全球组织精简和生产率提升写进未来三年的经营计划。 面临AI浪潮，两家巨头的改革释放出同样的信号：传统广告公司的生意逻辑，正在被重新审视。哪怕行业巨头，一样要摸着石头过河。 01 人的价值正在重新定义 在11月10日公布的2026财年上半年业绩材料中，博报堂专门用一页讨论“AI时代的价值来源”。 它把过去以“",
-     "source": "虎嗅",
-     "zh": "日本广告巨头，正在拆掉自己"
-    },
-    {
-     "title": "从校园招聘会回来，这些干货分享给你",
-     "link": "https://www.huxiu.com/article/4905700.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 14:55:38 +0800",
-     "summary": "本文来自微信公众号： 新潮 ，指导老师：白净，编辑：黄圣依，作者：十二岁的新潮，原文标题：《从校园招聘会回来，这些干货分享给你！》 “您看我的简历，更适合什么岗位？”11月14日上午，南京大学2026年秋季文科专场招聘双选会在新闻传播学院举办。新潮成员直击现场，与HR、参会同学深入交流，整理了一手求职干货。 AI时代，文科生可以投递哪些岗位？ 本次招聘会共有38家企业参会，覆盖医疗健康、智能制造、央国企、金融服务、交通运输、教育领域，其中教育类企业18家，占比近半数。岗位需求方面，除轮岗管培项目外，财务、人力等职能岗，以及新媒体运营、品牌营销等市场岗均有人才缺口。“公司上市三年，企业文化、品牌",
-     "source": "虎嗅",
-     "zh": "从校园招聘会回来，这些干货分享给你"
-    },
-    {
-     "title": "投资中怎样避免接飞刀？",
-     "link": "https://www.huxiu.com/article/4905699.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 14:55:37 +0800",
-     "summary": "本文来自微信公众号： 沧海一土狗 ，作者：沧海一土狗 近期，经常有朋友问，xxxx已经跌了这么多了，1、能不能补仓？？2、是否需要割肉？？ 事实上，在问的那一刹那，他们已经想好问题的答案了，我也不好多嘴什么。我只能反复地跟他们唠叨，逆势抄底只适合于价值投资，而价值投资是有严格定义的：任何依赖垄断优势，并且以获取经济租为目的的投资。 大众所谓的“护城河”，指的就是垄断优势。 在这里，有一个特别要紧的点，只有维护“护城河”的资本开支比较低，才谈得上“垄断优势”，才能“收经济租”；否则，该企业会一直处于激烈对抗的阶段，大量的资本将被“红皇后效应”所消耗。 因此，购买一线城市的住宅并对外出租，是十分典",
-     "source": "虎嗅",
-     "zh": "投资中怎样避免接飞刀？"
-    },
-    {
-     "title": "独立研究重新分析人类首张黑洞照片，证实标志性光环真实可靠",
-     "link": "https://www.ithome.com/1/027/333.htm",
-     "pubDate": "Sun, 15 Nov 2026 06:55:26 GMT",
-     "summary": "IT之家 11 月 15 日消息，2019 年 4 月 10 日，事件视界望远镜（EHT）合作组织公布了人类历史上首张黑洞照片。照片中的黑洞位于一个名为 M87 的星系中心，距离地球约 5500 万光年。 这张照片中标志性的环状结构，很快成为现代科学史上最具辨识度的影像之一。 照片展示了一个黑洞的“阴影”，周围环绕着炽热气体旋转产生的光环。这一景象与爱因斯坦广义相对论的预测完全吻合，也为长期以来的一个科学观点提供了支持：星系中心普遍存在超大质量黑洞。 不过，此后科学界对于最初公布的照片是否准确呈现了黑洞光环的细节和结构，一直存在一些分歧。 IT之家注意到，最新发表在《自然》（Nature）杂志",
-     "source": "IT之家",
-     "zh": "独立研究重新分析人类首张黑洞照片，证实标志性光环真实可靠"
-    },
-    {
-     "title": "Stellantis 获新型电动拖车专利，利用 AI 助力让普通小车也能拖挂房车",
-     "link": "https://www.ithome.com/1/027/332.htm",
-     "pubDate": "Sun, 15 Nov 2026 06:50:54 GMT",
-     "summary": "IT之家 11 月 15 日消息，据外媒 electrek 报道，Stellantis 近期获得了一项颇具创意的电动拖车装置专利，计划通过搭载电机、电池及 AI 辅助控制系统的电动拖车底盘，让几乎任何车型都具备拖挂能力。 据报道，这项专利最初于 2023 年提交，Stellantis 已于 2026 年 11 月 3 日正式获得美国专利号 US 12779916。专利主要描述了一种电动拖车装置，可以通过自身的球头挂钩或第五轮牵引盘承担拖车连接及部分垂直载荷，同时利用内置电机和电池为拖车提供驱动力。此外， 相应装置还配备能量回收制动系统，以及由 AI 辅助的转向和牵引力控制系统，确保拖车行驶过程",
-     "source": "IT之家",
-     "zh": "Stellantis 获新型电动拖车专利，利用 AI 助力让普通小车也能拖挂房车"
-    },
-    {
-     "title": "OpenAI撤销机器人团队",
-     "link": "https://www.huxiu.com/article/4905697.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 14:50:53 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜AI生成 166天前，Sam Altman&nbsp;宣布成立&nbsp;OpenAI Robotics，并一口气放出&nbsp;19&nbsp;个岗位，这在当时一度被外界称之为&ldquo;人形机器人的&nbsp;ChatGPT&nbsp;时刻&rdquo;。而就在最近，OpenAI把这个刚刚成立不久的机器人团队撤销了。 据Fortune报道，这个成立仅半年的Robotics团队已被撤销，研究人员并入模型主线，硬件人员并入应用部门。而此时，OpenAI&nbsp;招聘页面上年薪最高&nbsp;48.5&nbsp;万美元的机器人岗位，还没有撤",
-     "source": "虎嗅",
-     "zh": "OpenAI撤销机器人团队"
     },
     {
      "title": "Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed (Alex Konrad/Upstarts Media)",
@@ -1945,6 +1961,14 @@
      "zh": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)"
     },
     {
+     "title": "Disk encryption on NetBSD – achieving secrecy",
+     "link": "https://netbsd.org/~nia/disk-encrypt/",
+     "pubDate": "Sun, 15 Nov 2026 05:29:54 +0000",
+     "summary": "Article URL: https://netbsd.org/~nia/disk-encrypt/ Comments URL: https://news.ycombinator.com/item?id=50504277 Points: 27 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Disk encryption on NetBSD – achieving secrecy"
+    },
+    {
      "title": "TikTok Shop马来站达人寄样，样品物流签收要4-6天、回款T+7，这个周转还能撑住吗？",
      "link": "https://www.baijing.cn/question/638747",
      "pubDate": "Sun, 15 Nov 2026 05:28:29 +0000",
@@ -1972,33 +1996,9 @@
      "title": "Kiri – The Modern Container Runtime",
      "link": "https://runkiri.com/",
      "pubDate": "Sun, 15 Nov 2026 04:40:41 +0000",
-     "summary": "Article URL: https://runkiri.com/ Comments URL: https://news.ycombinator.com/item?id=50504077 Points: 17 # Comments: 9",
+     "summary": "Article URL: https://runkiri.com/ Comments URL: https://news.ycombinator.com/item?id=50504077 Points: 42 # Comments: 22",
      "source": "Hacker News",
      "zh": "Kiri – The Modern Container Runtime"
-    },
-    {
-     "title": "Show HN: Gawain – Require type hints on all Python variables",
-     "link": "https://github.com/matheuzgomes/gawain",
-     "pubDate": "Sun, 15 Nov 2026 04:39:25 +0000",
-     "summary": "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 31 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "Show HN: Gawain – Require type hints on all Python variables"
-    },
-    {
-     "title": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
-     "link": "https://www.tmtpost.com/8205717.html",
-     "pubDate": "Sun, 15 Nov 2026 12:19:48 +0800",
-     "summary": "非AI板块却创了新高。",
-     "source": "钛媒体",
-     "zh": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？"
-    },
-    {
-     "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-     "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-     "pubDate": "Sun, 15 Nov 2026 04:09:11 +0000",
-     "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 23 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+     "link": "https://sspai.com/post/118392",
+     "pubDate": "Sun, 15 Nov 2026 15:55:16 +0800",
+     "summary": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？ 查看全文",
+     "source": "少数派",
+     "zh": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表"
+    },
     {
      "title": "Weekly poll: how long do you plan to keep your current phone?",
      "link": "https://www.gsmarena.com/weekly_poll_how_long_do_you_plan_to_keep_your_current_phone-news-75477.php",
@@ -2239,14 +2247,6 @@
      "summary": "Demonstrations with Adobe’s product managers offered more insight into how the new features work. Trying them myself raised a few more questions.",
      "source": "DPReview",
      "zh": "What you should know before using Adobe’s latest photo-editing tools"
-    },
-    {
-     "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
-     "link": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
-     "pubDate": "Fri, 13 Nov 2026 22:00:00 +0000",
-     "summary": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much work as the company’s ",
-     "source": "9to5Google",
-     "zh": "Pixelated 125: Google’s glasses, Meta’s baggage"
     }
    ]
   },
@@ -2257,11 +2257,91 @@
    "total": 13,
    "items": [
     {
+     "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+     "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+     "pubDate": "Sun, 15 Nov 2026 08:34:46 GMT",
+     "summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+     "source": "CNBC",
+     "zh": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business"
+    },
+    {
+     "title": "存储正在分化，美银：DRAM依然坚挺 NAND已悄然走弱",
+     "link": "https://wallstreetcn.com/articles/3785963",
+     "pubDate": "Sun, 15 Nov 2026 16:33:47 +0800",
+     "summary": "存储芯片的行情正从“齐涨”转向“分化”。美银认为，DRAM的涨价逻辑尚未被打破，而NAND现货端已明显松动，将成为本轮存储上行周期中第一个需要重新定价的品种。 美银11月13日报告显示， NAND现货跌幅显著，512Gb晶圆跌逾10%，1Tb跌近中个位数，而16Gb DDR5现货持平。自10月中下旬以来，NAND现货累计回调约20%。 基于此，美银维持对2027年第一季度NAND平均售价的谨慎假设：IT用NAND价格环比下降5%至10%，企业级应用基本持平或小幅上行，整体低个位数下滑 。这一判断与市场仍预期NAND售价上涨10%以上的看法形成明显分歧。与此同时，美银仍假设DRAM涨价延续至20",
+     "source": "华尔街见闻",
+     "zh": "存储正在分化，美银：DRAM依然坚挺 NAND已悄然走弱"
+    },
+    {
+     "title": "君实生物：拓益新增适应症纳入国家医保目录",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931425389.html",
+     "pubDate": "Sun, 15 Nov 2026 15:54:03 +0800",
+     "summary": "君实生物 (688180.SH)公告称，公司产品特瑞普利单抗注射液(商品名：拓益)联合维迪西妥单抗用于HER2表达的局部晚期或转移性尿路上皮癌的适应症，成功纳入《国家基本医疗保险、生育保险和工伤保险药品目录(2026年)》乙类范围，新版目录将于2027年1月1日起实施。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "君实生物：拓益新增适应症纳入国家医保目录"
+    },
+    {
+     "title": "复星医药：多款药品新纳入国家医保目录",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931425422.html",
+     "pubDate": "Sun, 15 Nov 2026 15:53:59 +0800",
+     "summary": "复星医药 (600196.SH)公告称，根据2026年国家医保目录，公司及控股子公司多款产品获首次纳入、备注信息调整或转入常规目录管理。其中斯鲁利单抗注射液获首次纳入，枸橼酸伏维西利胶囊和芦沃美替尼片新增支付适应症，抗人T细胞兔免疫球蛋白放宽支付限定。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "复星医药：多款药品新纳入国家医保目录"
+    },
+    {
+     "title": "伊朗一辆大巴倾覆致12人死亡",
+     "link": "http://finance.eastmoney.com/news/11790,202611153931425539.html",
+     "pubDate": "Sun, 15 Nov 2026 15:53:40 +0800",
+     "summary": "据伊朗伊斯兰共和国通讯社15日报道，伊朗伊拉姆省阿卜达南市14日发生大巴倾覆事故，已致12人死亡。报道援引当地司法部门消息说，涉事大巴当时载有一家石油 天然气 公司的员工。伊拉姆省省长艾哈迈德·卡拉米表示，伊朗总统和内政部长已下令调查事故原因，并要求调配资源，立即救治伤者。（新华社） （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗一辆大巴倾覆致12人死亡"
+    },
+    {
+     "title": "禾元生物：重组人白蛋白注射液纳入2026年国家医保目录",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931425289.html",
+     "pubDate": "Sun, 15 Nov 2026 15:51:31 +0800",
+     "summary": "禾元生物(688765.SH)公告称，公司自主研发的1类 创新药 奥福民&reg;重组人白蛋白注射液(水稻)成功纳入《国家基本医疗保险、生育保险和工伤保险药品目录(2026年)》，新版目录自2027年1月1日起实施。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "禾元生物：重组人白蛋白注射液纳入2026年国家医保目录"
+    },
+    {
+     "title": "天孚通信：11月13日回购40万股耗资5096万元 成交价124.19元/股-134.53元/股",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931425119.html",
+     "pubDate": "Sun, 15 Nov 2026 15:47:09 +0800",
+     "summary": "天孚通信 (300394.SZ)公告称，公司于2026年11月13日通过集中竞价方式回购股份40万股，占公司总股本的0.0367%，最高成交价为人民币134.53元/股，最低成交价为人民币124.19元/股，成交总金额5095.74万元。截至2026年11月13日，公司累计回购股份50万股，占公司总股本的0.0458%，成交总金额6550.08万元。本次回购股份将用于注销并减少注册资本。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "天孚通信：11月13日回购40万股耗资5096万元 成交价124.19元/股-134.53元/股"
+    },
+    {
+     "title": "方大集团：2026年限制性股票激励计划授予登记完成",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931425047.html",
+     "pubDate": "Sun, 15 Nov 2026 15:42:53 +0800",
+     "summary": "11月15日， 方大集团 公告称，公司2026年限制性股票激励计划授予登记完成，授予日为2026年10月22日，登记完成日为2026年11月13日，授予价格1.88元/股，授予登记数量1650.005万股，授予对象共128人，股票来源为公司从二级市场回购的A股普通股。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "方大集团：2026年限制性股票激励计划授予登记完成"
+    },
+    {
+     "title": "AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”",
+     "link": "https://wallstreetcn.com/articles/3785958",
+     "pubDate": "Sun, 15 Nov 2026 15:23:13 +0800",
+     "summary": "美元与AI资本开支预期深度绑定，高盛警告：当AI叙事退潮，美元将随之承压。 高盛外汇策略团队在《2027全球外汇展望》报告中指出， 美元短期内仍有上行空间，但2027年将迎来实质性逆转。 在历经2025年的大规模抛售与多元化配置后，美元于2026年悄然收复失地——欧元兑美元回落至\"解放日\"以来低位，美元指数（DXY）触及2025年4月以来最高点，美元兑日元逼近160关口。 高盛认为，支撑这轮涨势的核心驱动力正是AI相关投资预期的持续升温，而一旦这一预期见顶，美元也将面临同样的拐点。 数据显示，外国投资者在截至今年8月的一年间净购入创纪录的1.47万亿美元美国股票及企业债券，几乎是全球金融危机前",
+     "source": "华尔街见闻",
+     "zh": "AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”"
+    },
+    {
+     "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931424298.html",
+     "pubDate": "Sun, 15 Nov 2026 15:00:30 +0800",
+     "summary": "11月16日 出版 的第22期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《携手共建亚太命运共同体》。这是习近平总书记2013年10月至2025年11月期间有关重要论述的节录。 文章强调，亚太各经济体利益交融，命运与共，一荣俱荣，一损俱损。亚太经合组织的诞生和发展顺应了开放融合的历史潮流，顺应了亚太地区谋求发展的强烈愿望，顺应了各国人民携手应对挑战的共同需要，为促进亚太地区增 长和 繁荣作出了重要贡献。如今的亚太，是全球最具增长活力和发展潜力的经济板块，也是举世公认的世界经济增长的一个重要引擎。要牢固树立亚太命运共同体意识，延续亚太地区强劲发展势头，迎接亚太地区共同",
+     "source": "东方财富资讯",
+     "zh": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》"
+    },
+    {
      "title": "周末要闻汇总：吴清提出资本市场六个“进一步深化”",
      "link": "http://finance.eastmoney.com/news/1345,202611153931422385.html",
      "pubDate": "Sun, 15 Nov 2026 15:00:13 +0800",
      "summary": "本周末影响市场的重要资讯有：12位APEC经济体领导人将出席APEC工商领导人峰会；中美举行中美经贸磋商机制项下贸易理事会首次会议；美方正推动新法案阻止中国公司远程使用美国境外算力，外交部回应；央行公布10月金融统计数据报告；吴清提出资本市场六个“进一步深化”；国家发改委、国家能源局印发《“十五五”新型储能实施方案》；见证历史， SpaceX 首次完成“筷子夹飞船”。 宏观经济 12位APEC经济体领导人将出席APEC工商领导人峰会 在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，作为APEC领导人会议周的重要组成部分，2026年APEC工商领导人峰会将",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "周末要闻汇总：吴清提出资本市场六个“进一步深化”"
     },
     {
@@ -2269,72 +2349,24 @@
      "link": "http://finance.eastmoney.com/news/1345,202611153931422488.html",
      "pubDate": "Sun, 15 Nov 2026 14:59:45 +0800",
      "summary": "世界的目光已经投向中国深圳，亚太经合组织（APEC）第三十三次领导人非正式会议即将在这里举行。 深圳，地处亚洲大陆东南部，面向浩瀚 太平洋 ，几十年前还是一个落后的小渔村，而今已成长为现代化国际大都市，创造了世界发展史上的一个奇迹。深圳的成功，是中国人民推进改革开放事业、实现翻天覆地变化的生动缩影，也是中国同世界特别是亚太各国互利共赢、共促繁荣的合作结晶。深圳的成长具有厚重的亚太底色，也必将为亚太共同体建设留下鲜明的深圳印记。 APEC是亚太地区最重要的经济合作机制，成立30多年来引领亚太地区走在全球开放发展前列，拉动世界经济重心持续向亚太集聚。构建亚太共同体是实现亚太地区长远发展繁荣的必由之",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "驻美大使谢锋人民日报撰文：以中美建设性战略稳定促进亚太共同繁荣"
     },
     {
-     "title": "肯特催化拟1.12亿元至2.23亿元回购股份用于员工持股计划或股权激励 公司三季度增收不增利",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931422680.html",
-     "pubDate": "Sun, 15 Nov 2026 14:54:47 +0800",
-     "summary": "肯特催化 （603120）日前披露公告，公司拟通过集中竞价交易方式进行股份回购，用于员工持股计划或 股权激励 。 本次回购股份金额不低于1.115亿元，不超过2.23亿元，回购价格不超过50元/股。 二级市场上， 肯特催化 最新收盘价报41.90元/股。按照此价格计算，公司本次回购价格上限比最新收盘价高出约两成。 根据公告， 回购股份资金来源为公司自有资金及自筹资金 （含股票回购专项贷款资金等）。公司已经取得中国 工商银行 股份有限公司台州分行出具的《股票回购专项贷款项目的承诺函》，其提供的贷款资金不超过人民币20,000万元，贷款用途为回购公司股票，贷款期限为不超过3年。 数据显示，截至20",
-     "source": "东方财富股票",
-     "zh": "肯特催化拟1.12亿元至2.23亿元回购股份用于员工持股计划或股权激励 公司三季度增收不增利"
-    },
-    {
-     "title": "中科曙光万伟：需要通过系统级创新 实现更大规模计算资源高效协作",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931422088.html",
-     "pubDate": "Sun, 15 Nov 2026 14:54:10 +0800",
-     "summary": "11月15日，第八届中国超级算力大会（ChinaSC 2026）暨中国智能计算产业联盟理事会年会在北京举行。 中科曙光 高速网络互联产品部总工程师万伟在会上分享超大规模智算集群高速网络架构设计与工程实践，提出高速互连是算力基础设施实现规模扩展的关键，需要通过系统级创新，让更大规模的计算资源高效协作。实现更大规模计算资源之间的高效协作，需要高速网络兼具低时延 通信 、大规模互连与稳定运行能力。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "中科曙光万伟：需要通过系统级创新 实现更大规模计算资源高效协作"
-    },
-    {
-     "title": "美军嘉手纳基地开始部署F15EX",
-     "link": "http://finance.eastmoney.com/news/11790,202611153931421962.html",
-     "pubDate": "Sun, 15 Nov 2026 14:45:00 +0800",
-     "summary": "日本媒体报道，美军今天（11月15日）宣布，作为F-15战机后继机型的F-15EX战机已抵达冲绳县嘉手纳基地并开始部署。这是该战机首次部署在美空军的海外基地。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美军嘉手纳基地开始部署F15EX"
-    },
-    {
-     "title": "德商银行警告：黄金或面临ETF抛售的“第二波下跌” 技术面已现损伤",
-     "link": "http://finance.eastmoney.com/news/1351,202611153931422124.html",
-     "pubDate": "Sun, 15 Nov 2026 14:44:43 +0800",
-     "summary": "随着金价未能守住每盎司4000美元关口，越来越多的分析师指出，短期动能指向进一步下跌——债券收益率上行与美元走强，正持续压制这一 贵金属 。 德国商业 银行 (Commerzbank)大宗商品分析师Carsten Fritsch在报告中表示，通胀压力居高不下，加上美联储官员支持下月可能加息50个基点的表态，正在巩固市场的鹰派倾向，令 黄金 容易承受进一步的抛售压力。 “自周二以来，金价已下跌近7%，约290美元。而同期利率预期的上升幅度并没有这么大，债券收益率也仍低于10月初的水平，”Fritsch写道，“风险在于，ETF投资者可能因价格疲弱而开始卖出。若如此，预计金价将进一步下行。” XS.",
-     "source": "东方财富股票",
-     "zh": "德商银行警告：黄金或面临ETF抛售的“第二波下跌” 技术面已现损伤"
-    },
-    {
-     "title": "Could Budapest be the next digital nomad hotspot?",
-     "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-     "pubDate": "Sun, 15 Nov 2026 06:00:01 GMT",
-     "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
-     "source": "CNBC",
-     "zh": "Could Budapest be the next digital nomad hotspot?"
-    },
-    {
-     "title": "新宙邦签60万吨长单！大模型热门股获南向资金爆买",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931414528.html",
-     "pubDate": "Sun, 15 Nov 2026 13:22:02 +0800",
-     "summary": "新宙邦 （300037）与 亿纬锂能 签订60万吨电解液长期供货协议。 11月13日晚间， 新宙邦 发布公告，公司与 亿纬锂能 签订了《长期供货协议》。为保障 亿纬锂能 2026—2030年正常生产，公司承诺2026—2030年向亿纬 锂 能供应预计需求量为60万吨的电解液产品，同时协议约定实际订单数量可在预计需求量基础上上下浮动10%（含10%）。 新宙邦 表示，本协议的顺利履行预计将对公司2026年度至2030年度五个年度经营成果产生积极影响，同时，协议约定的预付款专项用于上游原材料的产能锁定，有助于保障公司供应链的稳定性。亿纬 锂 能系公司长期合作伙伴，本协议的签订有利于深化双方已有的良",
+     "title": "中专生拍出爆火AI短片 海外播放百万级、单集成本千元",
+     "link": "http://biz.eastmoney.com/news/1670,202611153931422255.html",
+     "pubDate": "Sun, 15 Nov 2026 14:58:26 +0800",
+     "summary": "日前，一部中国创作者制作的AI短片在海外互联网率先出圈，在YouTube、TikTok等主流视频平台上，单集作品最高播放量在百万级。 该片名为《爱上大难不死的男孩的女孩》，为《哈利·波特》二创，由帐号名为Foyege弗曳哥的博主创作，凭借脑洞十足的故事设定与细腻的AI画面表现，其让欧美歌手JVKE追到视频下方致谢、让好莱坞制片人PJ Accetturo主动递出橄榄枝。 短片围绕性转版马尔福与哈利·波特的浪漫故事展开，除了经典IP加持，真正让作品出圈的，是Foyege对影视语言的熟稔运用。 视频下方，不少观众热赞创作者的叙事节奏和镜头调度。创作者本人表示，为了让 AI视频 中的表情和情感细腻生动",
      "source": "东方财富资讯",
-     "zh": "新宙邦签60万吨长单！大模型热门股获南向资金爆买"
+     "zh": "中专生拍出爆火AI短片 海外播放百万级、单集成本千元"
     },
     {
-     "title": "银行“开门红”逻辑生变：从“时点冲刺”到“长效经营”",
-     "link": "http://bank.eastmoney.com/news/1174,202611153931414153.html",
-     "pubDate": "Sun, 15 Nov 2026 13:16:20 +0800",
-     "summary": "11月以来，多家 银行 相继打响“开门红”，与往年相比，启动节奏分化、名称调整，行业打法悄然生变。在监管引导弱化时点考核、存款利率持续下行，以及净息差收窄的大背景下，行业考核重心开始向日均质量与长期客户价值倾斜。 业内人士表示，尽管监管引导弱化“开门红”时点考核，但不意味着不能做“开门红”。新形势下， 银行 需要把“开门红”从阶段性突击任务，转化为全年客户深耕、资产负债统筹、低成本资金沉淀的重要起点，在规模、成本、效益之间寻找新的平衡。 “开门红”打响：有的提前，有的更名 11月以来，多家 银行 “开门红”行动提前。 11月8日， 瑞丰银行 发布文章《不以寒冬论收场，更向春天要开局丨 瑞丰银行",
+     "title": "重仓AI硬件 让一批基金濒临清盘",
+     "link": "http://finance.eastmoney.com/news/1360,202611153931423158.html",
+     "pubDate": "Sun, 15 Nov 2026 14:51:27 +0800",
+     "summary": "近期市场持续震荡，多只重仓AI硬件的成长基金也陷入清盘危机。 本周六，长盛成长精选混合已发布清算公告，因连续50个工作日资产净值低于5000万元而触发清盘条款，进入清算流程。该基金三季度末重仓 北方华创 、盛科 通信 、 海光信息 等AI硬件标的。 此外，中银成长优选股票、博时优质精选混合、鹏华智投 数字经济 混合等多只重仓AI硬件领域的基金，近期也纷纷发布清盘预警。 业内人士分析指出，当前市场风险偏好偏弱，AI板块持续调整，重仓相关板块的基金净值走弱，这也引发持有人赎回，导致产品规模进一步收缩，因而产品濒临清盘的现象频繁出现。业内人士认为，若震荡行情延续，赛道缺乏明显反弹，这类基金的保壳压力",
      "source": "东方财富资讯",
-     "zh": "银行“开门红”逻辑生变：从“时点冲刺”到“长效经营”"
-    },
-    {
-     "title": "又一头部私募持仓曝光！高毅资产美股三季度清仓多只AI硬件股",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931414025.html",
-     "pubDate": "Sun, 15 Nov 2026 13:16:19 +0800",
-     "summary": "【导读】头部私募高毅资产美股三季度清仓多只AI硬件股，新进 亚朵 、B站并配置长债ETF 近日，头部私募高毅资产国际（Perseverance Asset Management International）在美国证券交易委员会（SEC）公布了2026年三季度的美股持仓报告（13F）。 13F文件显示，截至2026年三季度末，高毅资产在美股市场合计持仓总市值约9.3亿美元，较二季度末的9.8亿美元减少了约7%。从调仓动向看，三季度高毅资产新建仓6只标的，加仓6只，清仓4只，减仓5只，期末合计持有20只标的。 整体看，组合仍高度集中，前十大重仓股集中度达96.24%。调仓方向上，高毅在三季度明显收",
-     "source": "东方财富资讯",
-     "zh": "又一头部私募持仓曝光！高毅资产美股三季度清仓多只AI硬件股"
+     "zh": "重仓AI硬件 让一批基金濒临清盘"
     },
     {
      "title": "山东上市公司三季报：AI 红利重塑利润格局",
@@ -2353,12 +2385,12 @@
      "zh": "What will Nvidia’s post-Huang era look like?"
     },
     {
-     "title": "Inside Infantino’s $6bn Fifa charm offensive",
+     "title": "How Infantino flew his way out of a Fifa rebellion",
      "link": "https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1",
      "pubDate": "Sun, 15 Nov 2026 05:00:13 GMT",
      "summary": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan",
      "source": "Financial Times",
-     "zh": "Inside Infantino’s $6bn Fifa charm offensive"
+     "zh": "How Infantino flew his way out of a Fifa rebellion"
     },
     {
      "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
@@ -2375,14 +2407,6 @@
      "summary": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss",
      "source": "Financial Times",
      "zh": "Huang’s downfall shows human judgment is not all it’s cracked up to be"
-    },
-    {
-     "title": "最多每瓶下调52元！精品茅台、马茅售价下调 与i茅台价格一致",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931410440.html",
-     "pubDate": "Sun, 15 Nov 2026 12:09:48 +0800",
-     "summary": "红星资本局11月15日消息今日，红星资本局从茅台经销商处获悉， 贵州茅台 （600519.SH）近日对精品茅台、马年茅台生肖酒代售渠道价格进行调整。其中，精品茅台经销商代售价由2410元/瓶下调至2359元/瓶，马年茅台生肖酒由1951元/瓶下调至1899元/瓶，与 贵州茅台 自营电商平台i茅台售价一致。 “前天调的价格。” 贵州茅台 一经销商表示，精品茅台、马年茅台生肖酒价格调整是茅台酒厂的决策，经销商按照酒厂决策统一调价，其他产品目前价格没有变化。 i茅台显示，精品茅台价格为2359元/瓶，马年茅台生肖酒价格为1899元/瓶。 据了解，今年年初，贵州茅台启动市场化改革，构建“随行就市、相对",
-     "source": "东方财富资讯",
-     "zh": "最多每瓶下调52元！精品茅台、马茅售价下调 与i茅台价格一致"
     },
     {
      "title": "本周市场的“意外”：美债收益率与科技股债同涨",
@@ -2433,14 +2457,6 @@
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
-     "title": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步",
-     "link": "https://wallstreetcn.com/articles/3785950",
-     "pubDate": "Sun, 15 Nov 2026 09:30:29 +0800",
-     "summary": "SpaceX首次成功用发射塔机械臂在空中接住星舰（Starship）的上级飞船，这是全球航天史上第一次从轨道返回的飞船被塔架“夹”住回收 ，也让马斯克公司距离“快速复用”的目标近了一大步，而分析师认为，这正是支撑其数万亿美元估值叙事的关键一环。 北京时间11月15日周日，星舰上级在完成14圈绕地飞行后重返大气层，被得克萨斯州 Starbase 基地发射塔上“Mechazilla”巨型机械臂稳稳夹住。直播画面显示，超过500万人观看了这次回收。 对投资者而言，这次成功的意义在于成本。 Bernstein分析师 在发射前给客户的报告中写道， 完全复用是“实现高发射频率和更低入轨成本的关键，而这两点",
-     "source": "华尔街见闻",
-     "zh": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步"
-    },
-    {
      "title": "Global oil market moves to surplus as Persian Gulf shipments rebound, IEA says",
      "link": "https://seekingalpha.com/news/4672722-global-oil-market-moves-to-surplus-as-persian-gulf-shipments-rebound-iea-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 14 Nov 2026 20:05:08 -0500",
@@ -2479,22 +2495,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Fed's Collins says 'gradual path' of rate hikes is best for the economy"
-    },
-    {
-     "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
-     "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
-     "pubDate": "Sat, 14 Nov 2026 22:57:26 GMT",
-     "summary": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
-     "source": "Financial Times",
-     "zh": "US air travel chaos exposes system held together by ‘string and duct tape’"
-    },
-    {
-     "title": "Baidu heads into Q3 earnings: What to expect?",
-     "link": "https://seekingalpha.com/news/4672421-baidu-heads-into-q3-earnings-what-to-expect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 14 Nov 2026 17:35:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Baidu heads into Q3 earnings: What to expect?"
     }
    ]
   },

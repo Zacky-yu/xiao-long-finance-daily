@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 01:20:27",
+ "generated_at": "2026/11/17 01:32:10",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,22 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
      "source": "TechCrunch AI",
      "zh": "OpenAI will embed Apollo researchers to investigate AI subversion"
+    },
+    {
+     "title": "Broadening access to AI for scientists",
+     "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+     "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+     "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+     "source": "OpenAI",
+     "zh": "Broadening access to AI for scientists"
+    },
+    {
+     "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+     "link": "https://openai.com/index/strengthening-online-child-safety",
+     "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+     "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+     "source": "OpenAI",
+     "zh": "Strengthening the fight against online child sexual abuse with new tools and support"
     },
     {
      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
@@ -80,6 +96,14 @@ window.INDUSTRY_DATA = {
      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
      "source": "MIT Tech Review AI",
      "zh": "Building AI that can work across the enterprise"
+    },
+    {
+     "title": "Science at the Frontier: How scientists use ChatGPT",
+     "link": "https://openai.com/index/science-at-the-frontier",
+     "pubDate": "Mon, 16 Nov 2026 12:00:00 GMT",
+     "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+     "source": "OpenAI",
+     "zh": "Science at the Frontier: How scientists use ChatGPT"
     },
     {
      "title": "终于！千问办公敞开大门，Kimi、GLM、DeepSeek都来了",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop",
      "source": "arXiv cs.AI",
      "zh": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors"
-    },
-    {
-     "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-     "link": "https://arxiv.org/abs/2611.17339",
-     "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini",
-     "source": "arXiv cs.AI",
-     "zh": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs"
-    },
-    {
-     "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-     "link": "https://arxiv.org/abs/2611.17340",
-     "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selectio",
-     "source": "arXiv cs.AI",
-     "zh": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space"
-    },
-    {
-     "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-     "link": "https://arxiv.org/abs/2611.17341",
-     "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a",
-     "source": "arXiv cs.AI",
-     "zh": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction"
     }
    ]
   },
@@ -258,20 +258,20 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming",
+     "link": "https://www.eetimes.com/beyond-low-energy-new-product-frontiers-for-lossless-audio-edge-ai-and-display-streaming/",
+     "pubDate": "Mon, 16 Nov 2026 17:19:44 +0000",
+     "summary": "Join our expert-led webinar to discover how the TL753X SoC leverages High Definition Technology (HDT) for innovative applications. The post Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming"
+    },
+    {
      "title": "Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components",
      "link": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/",
      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
      "summary": "Nisshinbo's Silicon Motherboard integrates ICs and passives on both sides of a silicon substrate, reducing mounting area by up to 90%. The post Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components"
-    },
-    {
-     "title": "Isolated dc-dc converters support HV SiC applications",
-     "link": "https://www.electronicsweekly.com/news/products/isolated-dc-dc-converters-support-hv-sic-applications-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 16:37:08 +0000",
-     "summary": "Electronica 2026 – Murata introduced the MGJ2T2 series of 2W, SiP isolated gate drive dc-dc converters for high voltage SiC power applications, such as energy stroage, distribution and EV charging. […] The post Isolated dc-dc converters support HV SiC applications appeared first on Electronics Weekl",
-     "source": "Electronics Weekly",
-     "zh": "Isolated dc-dc converters support HV SiC applications"
     },
     {
      "title": "yieldWerx’s PhotonX traces photonic module failures back to the die",
@@ -290,14 +290,6 @@ window.INDUSTRY_DATA = {
      "zh": "Photon Design enables dynamic, 3D nitride laser modelling within simulation design flow"
     },
     {
-     "title": "The Undoing Of Jensen",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-undoing-of-jensen-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 14:00:36 +0000",
-     "summary": "There are several ways of looking at the ousting of Jensen Huang: To China it’s a political move by Washington to provide reasons and methods for tightening supplies of advanced […] The post The Undoing Of Jensen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Undoing Of Jensen"
-    },
-    {
      "title": "Silicon Catalyst 2026 Semiconductor Industry Forum – What’s Next for AI, Quantum, and Space",
      "link": "https://semiwiki.com/semiconductor-services/silicon-catalyst/376392-silicon-catalyst-2026-semiconductor-industry-forum-whats-next-for-ai-quantum-and-space/",
      "pubDate": "Mon, 16 Nov 2026 14:00:14 +0000",
@@ -314,36 +306,12 @@ window.INDUSTRY_DATA = {
      "zh": "Technology as a Trojan Horse"
     },
     {
-     "title": "Würth introduces PowerBusbar PF for standard PCBs",
-     "link": "https://www.electronicsweekly.com/news/products/wurth-introduces-powerbusbar-pf-for-standard-pcbs-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 12:09:48 +0000",
-     "summary": "Würth Elektronik ICS is introducing the PowerBusbar PF (press-fit). This is a busbar that is press-fit vertically into PCBs to save space and increase current-carrying capacity. It also improves thermal […] The post Würth introduces PowerBusbar PF for standard PCBs appeared first on Electronics Week",
-     "source": "Electronics Weekly",
-     "zh": "Würth introduces PowerBusbar PF for standard PCBs"
-    },
-    {
      "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
      "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
      "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
      "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
      "source": "IEEE Spectrum 半导体",
      "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
-    },
-    {
-     "title": "San Francisco Agreement on secure supply chains signed",
-     "link": "https://www.electronicsweekly.com/news/business/san-francisco-agreement-on-secure-supply-chains-signed-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 10:49:17 +0000",
-     "summary": "On November 15, the United States and nine Pax Silica participants signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity at the Pax Silica Founders Retreat, convened […] The post San Francisco Agreement on secure supply chains signed appeared first on Electronics Week",
-     "source": "Electronics Weekly",
-     "zh": "San Francisco Agreement on secure supply chains signed"
-    },
-    {
-     "title": "Binder M5 portfolio adds field-wireable, shieldable connectors",
-     "link": "https://www.electronicsweekly.com/news/products/connectors/binder-m5-portfolio-adds-field-wireable-shieldable-connectors-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 10:11:51 +0000",
-     "summary": "Binder is expanding its M5 portfolio with field-wireable and shieldable male and female cable connectors. The circular industrial connector specialist highlights that users can now assemble the compact connectors onto […] The post Binder M5 portfolio adds field-wireable, shieldable connectors appear",
-     "source": "Electronics Weekly",
-     "zh": "Binder M5 portfolio adds field-wireable, shieldable connectors"
     },
     {
      "title": "AXT’s revenue grows 162% year-on-year to record $73.4m in Q3",
@@ -426,14 +394,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Sound of Smarter Farming"
     },
     {
-     "title": "DRAM companies fail to get price-fixing case dismissed",
-     "link": "https://www.electronicsweekly.com/news/business/dram-companies-sued-for-price-fixing-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 06:16:33 +0000",
-     "summary": "The memory makers are facing a price-fixing legal case after a US judge rejected a move by Samsung, Hynix and Micron to have a class-action antitrust lawsuit dismissed. The lawsuit, […] The post DRAM companies fail to get price-fixing case dismissed appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "DRAM companies fail to get price-fixing case dismissed"
-    },
-    {
      "title": "CEO Interview with Kurt Busch of Syntiant",
      "link": "https://semiwiki.com/ceo-interviews/376259-ceo-interview-with-kurt-busch-of-syntiant/",
      "pubDate": "Sun, 15 Nov 2026 20:00:41 +0000",
@@ -482,20 +442,60 @@ window.INDUSTRY_DATA = {
      "zh": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions"
     },
     {
-     "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
-     "link": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/",
-     "pubDate": "Fri, 13 Nov 2026 14:47:27 +0000",
-     "summary": "Explore how electronica 2026 shows chipmakers shifting to AI platforms as data centers, edge AI, and robotics reshape power and silicon. The post electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage"
-    },
-    {
      "title": "Navitas files further patent infringement lawsuit against Renesas",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/navitas-renesas-131126.shtml",
      "pubDate": "Fri, 13 Nov 2026 09:15:24 GMT",
      "summary": "Navitas Semiconductor Corp of Torrance, CA, USA — which provides GaNFast gallium nitride (GaN), GeneSiC silicon carbide (SiC) power semiconductors and integrated voltage regulator (IVR) technologies — has filed a lawsuit in the US District Court for the Eastern District of Texas charging Renesas Ele",
      "source": "Semiconductor Today",
      "zh": "Navitas files further patent infringement lawsuit against Renesas"
+    },
+    {
+     "title": "Chip Industry Week In Review",
+     "link": "https://semiengineering.com/chip-industry-week-in-review-164/",
+     "pubDate": "Fri, 13 Nov 2026 08:01:34 +0000",
+     "summary": "300mm SiC breakthrough; Nvidia faces questions about security and oversight; Siemens buys Lauterbach; chiplet standards; new memory bets; imec interposer process flow; TPUs with CPUs; 2D transistors; anti-smuggling tools for chips. The post Chip Industry Week In Review appeared first on Semiconducto",
+     "source": "Semiconductor Engineering",
+     "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/polarlight-121126.shtml",
+     "pubDate": "Thu, 12 Nov 2026 18:08:30 GMT",
+     "summary": "Polar Light Technologies AB — which stems from research by founder professor Per-Olof Holtz and his team at Linköping University (with support from Sweden’s innovation agency Vinnova) — has announced its first cooperation agreement related to micro-LED optical interconnect. The collaboration with Fo",
+     "source": "Semiconductor Today",
+     "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
+    },
+    {
+     "title": "The Semiconductor Singularity",
+     "link": "https://semiengineering.com/the-semiconductor-singularity/",
+     "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
+     "summary": "Accelerating IC innovation with AI. The post The Semiconductor Singularity appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "The Semiconductor Singularity"
+    },
+    {
+     "title": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-aeluma-121126.shtml",
+     "pubDate": "Thu, 12 Nov 2026 12:24:29 GMT",
+     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
+     "source": "Semiconductor Today",
+     "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
+    },
+    {
+     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
+     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
     }
    ]
   },
@@ -666,6 +666,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
+     "link": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/",
+     "pubDate": "Mon, 16 Nov 2026 17:22:25 +0000",
+     "summary": "Tesla is going to build the Cybercab in Germany. The company confirmed today a first €3 billion investment in a new production building at Giga Berlin designed for up to 1 million Cybercabs a year, with production planned for 2029. That’s a lot of robotaxis for a continent where Tesla can’t operate ",
+     "source": "Electrek",
+     "zh": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year"
+    },
+    {
      "title": "Trump again orders broken coal plant to stay open, even after court said its illegal",
      "link": "https://electrek.co/2026/11/16/trump-again-orders-broken-coal-plant-to-stay-open-even-after-court-said-its-illegal/",
      "pubDate": "Mon, 16 Nov 2026 16:48:21 +0000",
@@ -818,14 +826,6 @@ window.INDUSTRY_DATA = {
      "zh": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry"
     },
     {
-     "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-     "link": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
-     "pubDate": "Sun, 15 Nov 2026 16:31:24 +0000",
-     "summary": "Elon Musk called YouTuber Marques Brownlee “a chicken” early Saturday, hours after Tesla opened invite-only Cybercab orders at $29,990 and Brownlee argued that his famous head-shaving bet isn’t lost. Tesla has about seven weeks to get a Cybercab into a customer’s hands for under $30,000 before 2027,",
-     "source": "Electrek",
-     "zh": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?"
-    },
-    {
      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
      "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
      "pubDate": "Sat, 14 Nov 2026 20:04:44 +0000",
@@ -896,6 +896,14 @@ window.INDUSTRY_DATA = {
      "summary": "Europe has not only entered the heating season with the lowest gas levels in storage sites in decades, but it has also withdrawn in recent weeks 10% of the natural gas injected during the summer filling season, leaving supply vulnerable to potentially extreme cold winter weather. So far into the hea",
      "source": "OilPrice",
      "zh": "Europe Has Already Drained 10% of Its Summer Gas Injections"
+    },
+    {
+     "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
+     "link": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
+     "pubDate": "Mon, 16 Nov 2026 11:21:32 -0500",
+     "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at&nbsp;$1,400/KW, while NRG is &ldquo;developing 1.5 GW of new natural gas generation in Texas for just above $1,000/KW.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "NRG to sell 4.9 GW of gas plants to LS Power for $4B"
     },
     {
      "title": "Global solar installations face first annual decline in eight years",
@@ -1042,6 +1050,14 @@ window.INDUSTRY_DATA = {
      "zh": "How PVcase’s latest platform aims to cut solar project attrition"
     },
     {
+     "title": "Over court objections, DOE issues 7th order to keep Michigan coal plant online",
+     "link": "https://www.utilitydive.com/news/over-court-objections-doe-issues-order-campbell-coal-plant/874733/",
+     "pubDate": "Mon, 16 Nov 2026 08:56:20 -0500",
+     "summary": "Environmental groups say they are &ldquo;evaluating all legal options&rdquo; after a federal appeals court vacated a previous order for the same plant, ruling DOE exceeded its authority. The plant&rsquo;s owner says it has spent more than $300 million keeping it open.",
+     "source": "Utility Dive",
+     "zh": "Over court objections, DOE issues 7th order to keep Michigan coal plant online"
+    },
+    {
      "title": "Reflect Orbital raises US$73.5 million to advance space-based solar reflector technology",
      "link": "https://www.pv-tech.org/reflect-orbital-raises-us73-5-million-space-solar-reflector-technology/",
      "pubDate": "Mon, 16 Nov 2026 12:47:50 +0000",
@@ -1088,22 +1104,6 @@ window.INDUSTRY_DATA = {
      "summary": "More than 25,000 homes across New England will be keeping warm this winter with new energy-efficient, low-emission systems paid for, in part, by federal funds. The households are participants in a five-state effort to boost cold-climate heat pump adoption that launched one year ago this month. While",
      "source": "Canary Media",
      "zh": "A year in, New England heat pump program is thriving"
-    },
-    {
-     "title": "NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing",
-     "link": "https://cleantechnica.com/2026/11/15/naed-unveils-pv-1-pecvd-v-a-u-s-engineered-vertical-deposition-platform-built-for-96000-wafer-per-hour-tandem-solar-manufacturing/",
-     "pubDate": "Mon, 16 Nov 2026 02:50:38 +0000",
-     "summary": "Patent-pending vertical PECVD/PVD architecture doubles wafer throughput over NAED’s previous platform and is designed to produce perovskite/HJT tandem cells targeting 30% efficiency NAED Energy Holding Inc. (“NAED”), the U.S. aerospace, engineering, and utility-energy company behind NAED Nexus Core™",
-     "source": "CleanTechnica",
-     "zh": "NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing"
-    },
-    {
-     "title": "A Radically Different Approach to AI",
-     "link": "https://cleantechnica.com/2026/11/15/a-radically-different-approach-to-ai/",
-     "pubDate": "Sun, 15 Nov 2026 22:05:07 +0000",
-     "summary": "About forty years ago, I decided I would develop artificial intelligence in my spare time. I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence. There was a program called ELIZA that did that already, and it ... [contin",
-     "source": "CleanTechnica",
-     "zh": "A Radically Different Approach to AI"
     }
    ]
   },
@@ -1146,12 +1146,12 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises"
     },
     {
-     "title": "China's $40k CAR-T; Novartis and Biogen strike deals; ObesityWeek readouts",
+     "title": "China's $40k CAR-T; Novartis and Biogen strike deals",
      "link": "https://endpoints.news/car-t-costs-falling-in-china-novartis-and-biogen-strike-deals-obesityweek-readouts/",
      "pubDate": "Mon, 16 Nov 2026 16:19:12 +0000",
      "summary": "Plus, news about Amylyx, Jiangsu Hengrui and AstraZeneca. China drastically cuts price of a CAR-T: China is adding a CAR-T therapy to its basic medical insurance drug list, or the NRDL ...",
      "source": "Endpoints News",
-     "zh": "China's $40k CAR-T; Novartis and Biogen strike deals; ObesityWeek readouts"
+     "zh": "China's $40k CAR-T; Novartis and Biogen strike deals"
     },
     {
      "title": "Parker Institute's Karen Knudsen: Cancer research has a translation problem",
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
+     "link": "https://www.techmeme.com/261116/p36#a261116p36",
+     "pubDate": "Mon, 16 Nov 2026 12:20:03 -0500",
+     "summary": "Anthropic : Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery &nbsp; &mdash;&nbsp; We remain optimistic that this will help defenders find and fix vulnerabilities faster than ever before.",
+     "source": "Techmeme",
+     "zh": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)"
+    },
+    {
      "title": "华为 Mate 90 系列手机  HarmonyOS 7 小艺 AI 快捷栏适配效果公开",
      "link": "https://www.ithome.com/1/028/007.htm",
      "pubDate": "Mon, 16 Nov 2026 17:05:15 GMT",
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Generative AI Usage in the Games Industry",
      "link": "https://www.gameworkers.co.uk/ai-manifesto/",
      "pubDate": "Mon, 16 Nov 2026 15:59:48 +0000",
-     "summary": "Article URL: https://www.gameworkers.co.uk/ai-manifesto/ Comments URL: https://news.ycombinator.com/item?id=50519043 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://www.gameworkers.co.uk/ai-manifesto/ Comments URL: https://news.ycombinator.com/item?id=50519043 Points: 17 # Comments: 15",
      "source": "Hacker News",
      "zh": "Generative AI Usage in the Games Industry"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
      "pubDate": "Mon, 16 Nov 2026 15:24:09 +0000",
-     "summary": "Article URL: https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/ Comments URL: https://news.ycombinator.com/item?id=50518567 Points: 79 # Comments: 50",
+     "summary": "Article URL: https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/ Comments URL: https://news.ycombinator.com/item?id=50518567 Points: 92 # Comments: 67",
      "source": "Hacker News",
      "zh": "Nvidia Was in Trouble Before the Jensen Huang Mess"
     },
@@ -1968,22 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "New York Times : Moody's: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027 &nbsp; &mdash;&nbsp; Insurance companies are investing billions of their customers' money into A.I. deals as analysts warn",
      "source": "Techmeme",
      "zh": "Moody&apos;s: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027 (New York Times)"
-    },
-    {
-     "title": "英伟达股价无需黄仁勋强势回归也能走强",
-     "link": "https://www.tmtpost.com/8207692.html",
-     "pubDate": "Mon, 16 Nov 2026 23:06:04 +0800",
-     "summary": "在黄仁勋辞职引发的余波影响下，英伟达股价大幅下跌。但这并不意味着他就该回归。",
-     "source": "钛媒体",
-     "zh": "英伟达股价无需黄仁勋强势回归也能走强"
-    },
-    {
-     "title": "美光股价：为何强劲的内存价格可能无济于事",
-     "link": "https://www.tmtpost.com/8207689.html",
-     "pubDate": "Mon, 16 Nov 2026 23:05:35 +0800",
-     "summary": "尽管有人预测明年内存价格会上涨，但美光的股价并未因此受益。",
-     "source": "钛媒体",
-     "zh": "美光股价：为何强劲的内存价格可能无济于事"
     },
     {
      "title": "特斯拉将投资 30 亿欧元扩建德国工厂，目标年产 100 万辆 Cybercab",
@@ -2016,6 +2008,14 @@ window.INDUSTRY_DATA = {
      "summary": "Emily Goodin / New York Post : President Trump says he &ldquo;would not mind&rdquo; if Jensen Huang was reinstated as Nvidia's CEO and &ldquo;I don't know that she was a spy at all&rdquo; in reference to Alice Huang &nbsp; &mdash;&nbsp; WASHINGTON &mdash; President Donald Trump said Monday he &ldquo",
      "source": "Techmeme",
      "zh": "President Trump says he \"would not mind\" if Jensen Huang was reinstated as Nvidia&apos;s CEO and \"I don&apos;t know that she was a spy at all\" in reference to Alice Huang (Emily Goodin/New York Post)"
+    },
+    {
+     "title": "The Active Directory Era Is Finally Over",
+     "link": "https://infisical.com/blog/active-directory-machine-identity",
+     "pubDate": "Mon, 16 Nov 2026 14:15:31 +0000",
+     "summary": "Article URL: https://infisical.com/blog/active-directory-machine-identity Comments URL: https://news.ycombinator.com/item?id=50517815 Points: 41 # Comments: 14",
+     "source": "Hacker News",
+     "zh": "The Active Directory Era Is Finally Over"
     }
    ]
   },
@@ -2274,60 +2274,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Viking will overcome low European river levels, earning double upgrade at Mizuho",
-     "link": "https://seekingalpha.com/news/4673132-viking-will-overcome-low-european-river-levels-earngs-double-upgrade-at-mizuho?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 12:14:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Viking will overcome low European river levels, earning double upgrade at Mizuho"
-    },
-    {
-     "title": "Coatue Management takes new stake in Salesforce, increases Meta holdings among Q3 moves",
-     "link": "https://seekingalpha.com/news/4673146-coatue-management-takes-new-stake-in-salesforce-increases-meta-holdings-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 12:14:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Coatue Management takes new stake in Salesforce, increases Meta holdings among Q3 moves"
-    },
-    {
      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
      "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-     "pubDate": "Mon, 16 Nov 2026 17:11:54 GMT",
+     "pubDate": "Mon, 16 Nov 2026 17:29:04 GMT",
      "summary": "",
      "source": "CNBC",
      "zh": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’"
     },
     {
-     "title": "Aramark raises dividend to $0.14 by 17%",
-     "link": "https://seekingalpha.com/news/4673161-aramark-raises-dividend-to-014-by-17?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 12:08:37 -0500",
+     "title": "Rubico Inc. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673172-rubico-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:25:44 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Aramark raises dividend to $0.14 by 17%"
+     "zh": "Rubico Inc. reports Q3 results"
     },
     {
-     "title": "Surge Energy raises dividend to CAD 0.046 by 7%",
-     "link": "https://seekingalpha.com/news/4673160-surge-energy-raises-dividend-to-cad-0046-by-7?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 12:04:52 -0500",
+     "title": "Shell starts production at key gas field offshore Egypt",
+     "link": "https://seekingalpha.com/news/4673158-shell-starts-production-at-key-gas-field-offshore-egypt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:24:07 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Surge Energy raises dividend to CAD 0.046 by 7%"
+     "zh": "Shell starts production at key gas field offshore Egypt"
     },
     {
-     "title": "TensorWave enters six-year deal to provide OpenAI with AMD-powered cloud compute",
-     "link": "https://seekingalpha.com/news/4673150-tensorwave-enters-six-year-deal-to-provide-openai-with-amd-powered-cloud-compute?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 12:03:30 -0500",
+     "title": "Chemtrade outlines Vision 2030 plan for 5%-10% earnings growth while pacing $75M-$125M North Vancouver program",
+     "link": "https://seekingalpha.com/news/4673169-chemtrade-outlines-vision-2030-plan-for-5-percentminus-10-percent-earnings-growth-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:24:07 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "TensorWave enters six-year deal to provide OpenAI with AMD-powered cloud compute"
+     "zh": "Chemtrade outlines Vision 2030 plan for 5%-10% earnings growth while pacing $75M-$125M North Vancouver program"
     },
     {
-     "title": "JD.com Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4673155-jd-com-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 12:00:05 -0500",
+     "title": "Dye & Durham GAAP EPS of -C$0.16, revenue of C$94.87M",
+     "link": "https://seekingalpha.com/news/4673168-dye-and-durham-gaap-eps-of-0_16-revenue-of-94_87m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:22:54 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "JD.com Q3 2026 Earnings Preview"
+     "zh": "Dye & Durham GAAP EPS of -C$0.16, revenue of C$94.87M"
+    },
+    {
+     "title": "Canaccord Genuity Group Inc. declares CAD 0.10 dividend",
+     "link": "https://seekingalpha.com/news/4673166-canaccord-genuity-group-inc-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:20:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Canaccord Genuity Group Inc. declares CAD 0.10 dividend"
+    },
+    {
+     "title": "Euroholdings declares $0.14 dividend",
+     "link": "https://seekingalpha.com/news/4673164-euroholdings-declares-0_14-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:17:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Euroholdings declares $0.14 dividend"
+    },
+    {
+     "title": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief",
+     "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+     "pubDate": "Mon, 16 Nov 2026 17:12:30 GMT",
+     "summary": "US president’s intervention comes days after co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
+     "source": "Financial Times",
+     "zh": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief"
     },
     {
      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
@@ -2352,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
      "source": "CNBC",
      "zh": "Trump says he&apos;s OK with Jensen Huang returning as Nvidia CEO, sees no national security risk"
-    },
-    {
-     "title": "Nvidia fallout: Commerce targets loophole for China&apos;s data center use",
-     "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-     "pubDate": "Mon, 16 Nov 2026 16:51:07 GMT",
-     "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
-     "source": "CNBC",
-     "zh": "Nvidia fallout: Commerce targets loophole for China&apos;s data center use"
     },
     {
      "title": "巴基斯坦陆军总参谋长会见伊朗外长讨论双边关系及地区局势",
@@ -2418,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
     },
     {
-     "title": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief",
-     "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
-     "pubDate": "Mon, 16 Nov 2026 16:23:00 GMT",
-     "summary": "US president’s intervention comes days after co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
-     "source": "Financial Times",
-     "zh": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief"
-    },
-    {
      "title": "I am turning 18 next month and want to start investing. What do I do first?",
      "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 16:20:00 GMT",
@@ -2464,6 +2456,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI云服务商TensorWave与OpenAI达成一项重大基础设施协议，进一步推动AMD在前沿AI算力市场的布局。 根据协议，TensorWave将在美国多个数据中心站点为OpenAI提供457MW（兆瓦）的IT算力容量，为期六年，全部搭载AMD Instinct MI455X GPU，预计2027年上半年开始投入使用，2028年初完成全面部署。 这是TensorWave迄今规模最大的单笔部署，也标志着其算力交付能力从现有的大型集群跃升至数百兆瓦量级。 此次合作是OpenAI与AMD此前宣布的战略合作伙伴关系的组成部分，旨在支持OpenAI不断增长的产品与服务需求。 对市场而言，该协议意味着A",
      "source": "华尔街见闻",
      "zh": "OpenAI扩大AMD算力布局：与TensorWave签署六年协议，部署逾450MW算力"
+    },
+    {
+     "title": "Nvidia stock falls as investors price in fallout from Jensen Huang&apos;s resignation",
+     "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+     "pubDate": "Mon, 16 Nov 2026 15:24:27 GMT",
+     "summary": "Nvidia's stock continued to slide on Monday following the resignation of CEO Jensen Huang.",
+     "source": "CNBC",
+     "zh": "Nvidia stock falls as investors price in fallout from Jensen Huang&apos;s resignation"
     },
     {
      "title": "Nvidia’s stock extends declines following harsh words from the U.S. government",

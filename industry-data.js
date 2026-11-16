@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 17:34:39",
+ "generated_at": "2026/11/16 17:52:00",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+     "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+     "pubDate": "Mon, 16 Nov 2026 09:44:17 +0000",
+     "summary": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPos",
+     "source": "MarkTechPost",
+     "zh": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context"
+    },
     {
      "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
      "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
      "source": "量子位",
      "zh": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭"
-    },
-    {
-     "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-     "link": "https://www.qbitai.com/2026/11/510150.html",
-     "pubDate": "Sat, 14 Nov 2026 09:48:34 +0000",
-     "summary": "童年的纸飞机，现在终于飞回我手里～",
-     "source": "量子位",
-     "zh": "程序员集体沉迷折纸飞机！最长滞空31.2秒"
     }
    ]
   },
@@ -1053,7 +1053,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1072,6 +1072,14 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1762,6 +1770,78 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "A look at China&apos;s push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages (Reuters)",
+     "link": "https://www.techmeme.com/261116/p10#a261116p10",
+     "pubDate": "Mon, 16 Nov 2026 04:35:02 -0500",
+     "summary": "Reuters : A look at China's push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages &nbsp; &mdash;&nbsp; At a top private school in Beijing, 13-year-old Peng Gaodi has used artificial intelligence to build more th",
+     "source": "Techmeme",
+     "zh": "A look at China&apos;s push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages (Reuters)"
+    },
+    {
+     "title": "尼日利亚投放CPA涨到4.2美元，本地支付转化却卡在12%怎么办？",
+     "link": "https://www.baijing.cn/question/638766",
+     "pubDate": "Mon, 16 Nov 2026 09:31:36 +0000",
+     "summary": "我们在拉各斯做一款小额充值类工具App，起量阶段月投放预算约8000美元，主要跑Meta和Google UAC，上个月尼日利亚CPA从2.6美元涨到4.2美元。排查发现点击到支付页的流失不大，问题出在支付环节：本地卡支付成功率只有12%左右，用户多用转账和USSD，我们接了Paystack和Flutterwave，但失败订单里大部分是银行验证超时。已经试过加备用通道、缩短表单字段，效果有限。现在纠结是继续压CPA还是先补支付方式，想请问在尼日利亚这个市场，应该先优化支付成功率还是先换投放渠道？",
+     "source": "白鲸出海",
+     "zh": "尼日利亚投放CPA涨到4.2美元，本地支付转化却卡在12%怎么办？"
+    },
+    {
+     "title": "澳新市场支付产品素材本地化，为什么转化差这么多？",
+     "link": "https://www.baijing.cn/question/638765",
+     "pubDate": "Mon, 16 Nov 2026 09:31:33 +0000",
+     "summary": "我们做跨境收单的支付产品，澳新市场刚起量，团队8人，月投放预算约3万澳元，主要投Meta和Google。同样的素材在国内和东南亚跑得不错，到澳新这边点击率只有0.8%，注册转化率1.2%，远低于其他市场。试过把文案换成澳式英语、加了本地银行图标，效果没明显变化。也找过本地兼职做素材审核，但对方说不出具体哪里不对。现在卡在不知道是素材本身的问题，还是澳新用户对支付类产品的信任门槛更高。想直接问：澳新市场支付类素材本地化，最该先改的是哪一块？",
+     "source": "白鲸出海",
+     "zh": "澳新市场支付产品素材本地化，为什么转化差这么多？"
+    },
+    {
+     "title": "俄罗斯本地支付页素材换了三版，为什么哈萨克斯坦用户反而更买账？",
+     "link": "https://www.baijing.cn/question/638764",
+     "pubDate": "Mon, 16 Nov 2026 09:31:30 +0000",
+     "summary": "同一套支付落地页素材，在俄罗斯和哈萨克斯坦跑出的数据完全相反。我们做跨境SaaS订阅，团队12人，起量阶段，月投放预算约8万美元。俄语版支付页放本地银行图标和Mir标识，俄罗斯侧转化率2.1%，哈萨克斯坦侧只有0.9%；换成带Kaspi风格配色和本地客服头像的版本后，哈萨克斯坦涨到1.7%，俄罗斯却跌到1.4%。已经试过A/B分流和按城市拆素材，卡在不知道是该按国家做两套支付页素材，还是按支付方式偏好分层。判断素材本地化到什么颗粒度才不浪费产能，你们看哪个指标？",
+     "source": "白鲸出海",
+     "zh": "俄罗斯本地支付页素材换了三版，为什么哈萨克斯坦用户反而更买账？"
+    },
+    {
+     "title": "沙特上线后支付页转化掉了一半，是素材本地化没做对吗？",
+     "link": "https://www.baijing.cn/question/638763",
+     "pubDate": "Mon, 16 Nov 2026 09:31:26 +0000",
+     "summary": "我们做中东独立站支付网关，主攻沙特和阿联酋，团队8人，刚起量阶段。同一个结账页，阿联酋信用卡支付成功率稳定在68%左右，沙特只有41%，COD订单的确认率也差了近20个点。已经试过把支付图标换成当地银行Mada和STC Pay的标识、加了阿拉伯语RTL排版，也接入了本地收单行，但沙特用户还是在最后一步大量流失。怀疑是支付页的信任素材和文案没对上当地习惯，比如担保说明、客服入口的呈现方式。想问问在中东做支付转化的同行，判断素材本地化到位的标准是什么，哪些元素在沙特是必须前置的？",
+     "source": "白鲸出海",
+     "zh": "沙特上线后支付页转化掉了一半，是素材本地化没做对吗？"
+    },
+    {
+     "title": "尼日利亚支付投放CPA涨到11美元，是渠道问题还是本地支付转化卡住了？",
+     "link": "https://www.baijing.cn/question/638762",
+     "pubDate": "Mon, 16 Nov 2026 09:31:23 +0000",
+     "summary": "我们做的是面向尼日利亚和肯尼亚的移动钱包收款工具，团队12人，刚起量阶段，月投放预算大约4万美元。最近两周在Meta和Google上推“注册并完成首笔收款”这个转化事件，尼日利亚CPA从6.8美元涨到11.2美元，肯尼亚也从5美元涨到8美元左右，注册到首笔收款的转化率只有19%。已经试过换素材、把落地页改成豪萨语和斯瓦希里语版本、把首笔手续费减免前置到广告文案里，但CPA还是压不下来。现在卡在判断不了是投放端素材疲劳，还是本地银行转账和USSD支付链路太长导致转化流失。想请教该先砍投放预算还是先优化支付链路，判断依据看哪个指标？",
+     "source": "白鲸出海",
+     "zh": "尼日利亚支付投放CPA涨到11美元，是渠道问题还是本地支付转化卡住了？"
+    },
+    {
+     "title": "澳新支付接入只有1.5个后端，先上澳元还是先补Afterpay？",
+     "link": "https://www.baijing.cn/question/638761",
+     "pubDate": "Mon, 16 Nov 2026 09:31:19 +0000",
+     "summary": "团队一共6人，后端实际只有1.5个人力（主程兼着风控），澳新版本刚上线两个月，月交易额约4万澳元。现在卡在排期上：澳洲用户弃单反馈里约三成提到没有Afterpay，但接Afterpay要改结算和退款链路，主程估3周；同期新西兰的POLi退款对账每天手工核，已经压了2周没动。本月只有一个人能全职投入支付，是先补Afterpay拉转化，还是先把POLi对账自动化止血？判断优先级该看弃单损失还是财务人力占用？",
+     "source": "白鲸出海",
+     "zh": "澳新支付接入只有1.5个后端，先上澳元还是先补Afterpay？"
+    },
+    {
+     "title": "没有什么宁王了",
+     "link": "https://www.huxiu.com/article/4905975.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 17:30:41 +0800",
+     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：蟪蛄，原文标题：《没有什么宁王了｜巨潮》 “宁王”的存在，曾经包含着中国汽车产业对一家动力电池企业的认可。 这种认可有很具体的来由。新能源汽车要进入普通家庭，续航够用、质量稳定的电池最重要，在行业发展的爆发期，是宁德时代承担了这个重任，提供了质量足够好、价格足够有竞争力的电池，最终收获了无以伦比的行业地位，也赚了足够多的钱。 “宁王”的名声和在行业里的分量，就是这样积累起来的。 但如今，整个新能源汽车产业的核心矛盾，已经不再是消费者是否愿意接受它，而是消费者在大规模换代之后，消费者要求越来越高，车越来越难卖，车企利润越来越薄。但车企所面",
+     "source": "虎嗅",
+     "zh": "没有什么宁王了"
+    },
+    {
+     "title": "拆解Muse商业模式：先帮你赚钱再抽成，这笔账真能跑通吗？",
+     "link": "https://www.huxiu.com/article/4903446.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 17:30:00 +0800",
+     "summary": "你见过AI先帮你赚到钱，再从收益里抽成的模式吗？不是先充会员，不是按token计费。没赚到钱？一分钱不用付给AI。扎克伯格抛出的这套反常识方案，到底是对时代的冲击？还是天方夜谭？",
+     "source": "虎嗅",
+     "zh": "拆解Muse商业模式：先帮你赚钱再抽成，这笔账真能跑通吗？"
+    },
+    {
      "title": "兰德公司：AI越能干，越要保留人的专业能力",
      "link": "https://www.huxiu.com/article/4905974.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 17:24:59 +0800",
@@ -1778,44 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "樊路远辞职：八年救火，为什么还是没能救回优酷？"
     },
     {
-     "title": "巴西独立站接了Pix，为什么本地素材转化率反而比信用卡通道低一半？",
-     "link": "https://www.baijing.cn/question/638757",
-     "pubDate": "Mon, 16 Nov 2026 09:23:24 +0000",
-     "summary": "我们做葡语版健身器材独立站，巴西市场起量中，团队6人，月投放预算约3万美元，主投Meta和Google。上个月接入Pix后，结账页Pix选项点击率有38%，但实际支付完成率只有11%，而信用卡通道完成率是24%。已经试过把Pix图标放大、加“即时到账”葡语标签、在素材里口播Pix折扣，都没起色。怀疑是本地用户对Pix的信任场景和素材表达不匹配——巴西人习惯在App内扫码，而不是在网页复制粘贴密钥。想确认：Pix在独立站结账的素材引导，到底该用“折扣驱动”还是“安全感驱动”？判断标准是什么？",
-     "source": "白鲸出海",
-     "zh": "巴西独立站接了Pix，为什么本地素材转化率反而比信用卡通道低一半？"
-    },
-    {
-     "title": "巴西独立站接了 Pix 后 CPA 反而涨了 38%，是支付方式选错还是投放没跟上？",
-     "link": "https://www.baijing.cn/question/638756",
-     "pubDate": "Mon, 16 Nov 2026 09:23:21 +0000",
-     "summary": "我们做拉美独立站，主推巴西市场，团队 6 人，月投放预算约 1.2 万美元。上个月在站内接入 Pix 后，本以为能拉高转化，结果 Meta 广告的 CPA 从 9.4 美元涨到 13 美元，涨了 38%，订单量却没明显增加。已经试过把 Pix 的支付入口前置到商品页、加了一段葡语支付引导，也把受众从宽泛兴趣换成了类似受众，但 CPA 还是没降下来。现在卡在判断上：到底是 Pix 接入后拉来了一批低意向流量，还是投放素材和支付流程没对齐。想直接问，这种 CPA 上涨该优先查支付转化漏斗还是先砍广告组？",
-     "source": "白鲸出海",
-     "zh": "巴西独立站接了 Pix 后 CPA 反而涨了 38%，是支付方式选错还是投放没跟上？"
-    },
-    {
-     "title": "巴西独立站接了Pix，投放CPA涨到多少才算被支付环节拖累？",
-     "link": "https://www.baijing.cn/question/638755",
-     "pubDate": "Mon, 16 Nov 2026 09:23:18 +0000",
-     "summary": "巴西独立站做3C配件，起量中，月投放预算约1.8万美元，主投Meta和Google，独立站刚接Pix两周。接入前信用卡结账转化率2.1%，接入后Pix订单占比到35%，但整体CPA从11美元涨到16美元，退款率也升到8%。已经试过把Pix放到结账页首位、加了5%折扣引导，仍没压回成本线。现在卡在判断这波涨幅是支付接入初期的正常波动，还是Pix订单本身质量偏低。按你们的经验，巴西站Pix订单占比多少、CPA高出信用卡多少算合理区间？",
-     "source": "白鲸出海",
-     "zh": "巴西独立站接了Pix，投放CPA涨到多少才算被支付环节拖累？"
-    },
-    {
-     "title": "巴西独立站接Pix后转化涨了，但退货和备货怎么算？",
-     "link": "https://www.baijing.cn/question/638754",
-     "pubDate": "Mon, 16 Nov 2026 09:23:14 +0000",
-     "summary": "我们做拉美独立站，主推小家电配件，团队8人，刚起量阶段，月广告预算约1.5万美元。巴西站接入Pix后支付成功率从62%提到81%，但圣保罗州退货率也跟着到14%，比信用卡订单高6个点，退货集中在电压不匹配和插头规格。现在备货靠国内直发加圣保罗一个小仓，Pix订单回款快但退货周期拉到20天，现金流压得紧。试过在详情页加电压说明和转换插头赠品，退货只降了2个点。想请教：Pix带来的低门槛下单是否意味着选品要更偏标品和低客单，备货该不该按支付方式拆库存？",
-     "source": "白鲸出海",
-     "zh": "巴西独立站接Pix后转化涨了，但退货和备货怎么算？"
-    },
-    {
-     "title": "巴西独立站接入Pix后，新规要求支付机构报送交易数据，我们该怎么核对？",
-     "link": "https://www.baijing.cn/question/638753",
-     "pubDate": "Mon, 16 Nov 2026 09:22:58 +0000",
-     "summary": "我们做拉美独立站，主营3C配件，日均单量约600，其中巴西Pix支付占比七成。最近一次规则变化是巴西央行对支付机构报送交易数据的要求更细了，我们合作的收单方通知要补充终端和交易信息，否则部分Pix交易可能被延迟结算。我们试过让财务按收单方给的模板补字段，但有两成订单的终端标识对不上，卡在无法确认哪些交易需要重新报送。现在担心的是：这笔补报该由我们独立站自己核对，还是完全交给收单方处理？判断标准是什么？",
-     "source": "白鲸出海",
-     "zh": "巴西独立站接入Pix后，新规要求支付机构报送交易数据，我们该怎么核对？"
+     "title": "限时返场：WPS 京东 PLUS 联合会员 191 元随缘发车，单个会员 1 年仅需 47 元",
+     "link": "https://www.ithome.com/1/027/858.htm",
+     "pubDate": "Mon, 16 Nov 2026 09:23:31 GMT",
+     "summary": "点击下方卡片加入购物车后，需回到京东 App 首页搜索“WPS 会员”直接下单（不要去购物车）。 WPS 超级会员 3 年日常 298 元，今日买超会 3 年送京东 PLUS 会员 1 年，首次购买用户叠加 25 元首购礼金，返场限时补贴 30 元； 部分用户可叠加京东平台 52 元补贴（加入购物车后，京东 App 首页搜索“WPS 会员”直接下单即可） 实付 191 元，此项优惠 限账号随缘弹出： 京东 WPS 超级会员 3 年卡 + 京东 plus 会员年卡 加入购物车后京东 App 搜索下单 券后 191 元 领 30 元券 点击上方卡片加入购物车后，回到京东 App 首页搜索“WPS ",
+     "source": "IT之家",
+     "zh": "限时返场：WPS 京东 PLUS 联合会员 191 元随缘发车，单个会员 1 年仅需 47 元"
     },
     {
      "title": "具身融资，分层了",
@@ -1842,6 +1890,22 @@ window.INDUSTRY_DATA = {
      "zh": "美邦周成建忙着直播跳舞，供应商急于讨债催款"
     },
     {
+     "title": "46mm 教育优惠 2379 元：苹果 Apple Watch Series 12 国补京东探底",
+     "link": "https://www.ithome.com/1/027/857.htm",
+     "pubDate": "Mon, 16 Nov 2026 09:19:04 GMT",
+     "summary": "苹果 Apple Watch Series 12 开售于 2026 年 9 月，GPS 款 46mm 定价 3399 元，教育优惠价 3099 元。 京东今日教育优惠版直降至 2379 元，需使用搭载 iOS27 系统的 iPhone 激活签收哦： 京东 Apple Watch Series 12 46mm 教育优惠版 券后 2379 元 领 300 元券 Apple Watch Series 12 搭载全新健康感测系统和 S11 芯片，采用更大面积的光学心率传感器，可实现全天每 5 秒一次的心率测量，其心率变异性（HRV）的测量频率较上一代提升最高 24 倍。 基于新的健康感测数据，Seri",
+     "source": "IT之家",
+     "zh": "46mm 教育优惠 2379 元：苹果 Apple Watch Series 12 国补京东探底"
+    },
+    {
+     "title": "中汽协会将对比亚迪、赛力斯、蔚小理、小米等 17 家重点汽车企业的供应商账款支付情况开展调研评估",
+     "link": "https://www.ithome.com/1/027/856.htm",
+     "pubDate": "Mon, 16 Nov 2026 09:18:37 GMT",
+     "summary": "IT之家 11 月 16 日消息，中国汽车工业协会今日发布通知，将对 17 家重点汽车企业的供应商账款支付情况开展调研评估，推动汽车企业规范供应商账款支付。 此次调研评估工作每年开展一次，采取“车企定期报送 + 样本供应商抽查”相结合的方式进行 。汽车企业需于每年 1 月 31 日前报送上一年度账款支付情况报告，并于 7 月 31 日前报送当年上半年账款支付情况报告。 同时， 将从每家企业的供应商中随机抽取样本供应商，数量不少于 15 家 ，通过资料核查、现场调研等方式确认报送信息的真实性。 评估内容包括： 企业账款支付管理制度和数字化系统建设情况； 中小企业账款支付账期是否不超过 60 天、",
+     "source": "IT之家",
+     "zh": "中汽协会将对比亚迪、赛力斯、蔚小理、小米等 17 家重点汽车企业的供应商账款支付情况开展调研评估"
+    },
+    {
      "title": "鸿蒙智行问界新 M8 上市 72 小时大定突破 1.1 万台，售价 37.98 万元起",
      "link": "https://www.ithome.com/1/027/855.htm",
      "pubDate": "Mon, 16 Nov 2026 09:17:19 GMT",
@@ -1858,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "消息称 LG 电子评估 5K / 6K 高分辨率 IJP OLED 显示器，瞄准 2028~2029 年推出"
     },
     {
-     "title": "盯上黄金保险库生意，新加坡想与伦敦、纽约争当“世界金库”",
-     "link": "https://www.huxiu.com/article/4905968.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 17:16:01 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：梁励，作者：马欢 新加坡也想当“世界金库”了？ 据新华社报道，新加坡金融管理局（央行）近日宣布，为外国央行、国际金融机构和主权实体提供黄金存储服务，以期巩固新加坡作为关键贵金属交易中心的地位。 新加坡金管局在声明中说，新加坡将为外国央行、国际金融机构和主权实体提供存储黄金的安全选择。这些黄金将存储在新加坡国家金库内，现阶段存储库容为500吨，日后将随着需求增加相应扩大。 新加坡强调，现阶段的“金库”还无法与传统“世界金库”相比。 新加坡副总理、金管局局长颜金勇在接受媒体采访时表示，在外部环境日益不确定的情况下，各国将黄金作为储备资产的需求日益增长。新加坡",
-     "source": "虎嗅",
-     "zh": "盯上黄金保险库生意，新加坡想与伦敦、纽约争当“世界金库”"
-    },
-    {
      "title": "小米米家多功能便携手电筒新增“砂金色”：1000 流明亮度主灯，99 元",
      "link": "https://www.ithome.com/1/027/852.htm",
      "pubDate": "Mon, 16 Nov 2026 09:12:31 GMT",
@@ -1874,44 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "小米米家多功能便携手电筒新增“砂金色”：1000 流明亮度主灯，99 元"
     },
     {
-     "title": "2027 款极狐阿尔法 S5 上市：增加激光雷达，限时补贴价 11.58 万元起",
-     "link": "https://www.ithome.com/1/027/851.htm",
-     "pubDate": "Mon, 16 Nov 2026 09:11:34 GMT",
-     "summary": "IT之家 11 月 16 日消息，ARCFOX 极狐旗下中型轿车 2027 款极狐阿尔法 S5 已上市，新车共推出 3 款配置，限时补贴价为 11.58 万至 13.88 万元。作为年度改款车型，新车在外观、内饰、动力等细节上均有优化升级，并加入了激光雷达和前备厢等配置。 IT之家注意到，2027 款阿尔法 S5 延续了现款车型的整体造型，主要变化集中在细节层面。新车换装了无边框式外后视镜，新增冠军红与凝夜紫两款车身配色，并在车头增加了容积为 148 升的前备厢，支持敲击开启与电吸盖板功能。前脸依旧采用封闭式格栅设计，搭配狭长的大灯组、两侧双 C 字形导流槽及扁平进气口，凸显运动气质；前舱盖隆",
-     "source": "IT之家",
-     "zh": "2027 款极狐阿尔法 S5 上市：增加激光雷达，限时补贴价 11.58 万元起"
-    },
-    {
-     "title": "A股年内135家新股上市，“两创板”募资占六成，硬科技站C位",
-     "link": "https://www.huxiu.com/article/4905967.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 17:11:31 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：韩迅，作者：黄嘉祥 科技创新型企业加速上市，成为2026年A股IPO市场的鲜明主线。 从长鑫科技（688825.SH）到宇树科技（688836.SH），一批科技创新型企业相继叩开资本市场大门。Wind数据显示，以上市日为基准，截至11月13日，A股共有135家公司完成IPO上市，合计首发募资2294.20亿元（含超额配售选择权全额行使部分）。其中，科创板和创业板（两创板）43家合计募资1384.36亿元，占比约六成。 这一轮科技创新企业上市潮的背后，离不开资本市场包容性改革的支撑。近年来，证监会持续深化资本市场投融资综合改革，强化对科技创新的金融支撑，带",
-     "source": "虎嗅",
-     "zh": "A股年内135家新股上市，“两创板”募资占六成，硬科技站C位"
-    },
-    {
-     "title": "阿里合伙人樊路远辞任大麦娱乐 CEO，消息称将从虎鲸文娱集团离职创业",
-     "link": "https://www.ithome.com/1/027/850.htm",
-     "pubDate": "Mon, 16 Nov 2026 09:10:47 GMT",
-     "summary": "IT之家 11 月 16 日消息，大麦娱乐今日发布公告， 樊路远因专注发展个人事业 ，已辞任公司执行董事、董事会主席及首席执行官（CEO）。 据凤凰科技报道，知情人士透露， 樊路远将从虎鲸文娱集团离职创业 。 公开资料显示，樊路远于 2007 年加入支付宝，2016 年转战阿里影业，2017 年加入阿里大文娱。2025 年阿里大文娱集团更名为虎鲸文娱集团。樊路远还是阿里巴巴合伙人，全面负责优酷、大麦娱乐等虎鲸文娱集团核心业务板块的统筹管理。 IT之家注意到，大麦娱乐公告称，委任 徐宏 为公司非执行董事及董事会主席， 沈严 为执行董事及联席总裁。 徐宏自 2022 年 4 月起担任阿里巴巴集团首",
-     "source": "IT之家",
-     "zh": "阿里合伙人樊路远辞任大麦娱乐 CEO，消息称将从虎鲸文娱集团离职创业"
-    },
-    {
      "title": "【Fintech 周报】交通银行拍卖吉林银行股权；3.18亿美元保单刷新吉尼斯纪录",
      "link": "https://www.tmtpost.com/8207021.html",
      "pubDate": "Mon, 16 Nov 2026 17:08:38 +0800",
      "summary": "中互金互联网贷款自律工作委员会将成立；兴业银行被罚695万元；厦门银行原党委书记主动投案被查；年内16家上市银行获增持；3.18亿美元保单刷新吉尼斯纪录；交通银行拍卖吉林银行股权；国宝人寿获批增加注册资本至45.21亿元；山东能源资本拟9折清仓华泰保险股权；度小满支付获批更名为满易支付；招行信用卡首批接入微信、千问智能体；济南工行落地山东首批农民工数字人民币工资代发；鲸鱼APP被指无法提现；谷歌钱包接入Alipay+网络；OCC发布AI银行监管框架，自主支付代理列最高风险；近60家银行分两大联盟推进稳定币发行。",
      "source": "钛媒体",
      "zh": "【Fintech 周报】交通银行拍卖吉林银行股权；3.18亿美元保单刷新吉尼斯纪录"
-    },
-    {
-     "title": "“第二代豆包手机”努比亚 NaviX Ultra 星空典藏版全平台开售，6,999 元",
-     "link": "https://www.ithome.com/1/027/836.htm",
-     "pubDate": "Mon, 16 Nov 2026 09:07:19 GMT",
-     "summary": "IT之家 11 月 16 日消息，努比亚手机官方今日宣布， 努比亚 NaviX Ultra 星空典藏版全平台开售。该机延续经典星空设计，并采用微纳米浮雕工艺打造。IT之家查询获悉， 新品售价 6,999 元 ，仅提供 16GB+512GB 一个版本。 京东 努比亚（nubia）NaviX Ultra 星空典藏版 6999 元 直达链接 IT之家注意到，被称为“第二代豆包手机”的努比亚 NaviX Ultra 于 9 月 16 日发布，号称“全球首款 AI 智能体手机”，由中兴通讯努比亚全链路主导打造，实现一句话让 AI 跨应用执行复杂任务，豆包手机助手主导 AI 助手体验，售价 5,999 元",
-     "source": "IT之家",
-     "zh": "“第二代豆包手机”努比亚 NaviX Ultra 星空典藏版全平台开售，6,999 元"
     },
     {
      "title": "Startups unveil plans to develop floating offshore data centers to bypass land and power constraints, while experts warn of challenges like saltwater corrosion (Jackie Snow/Wall Street Journal)",
@@ -1984,22 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "连锁餐饮品牌都在布局的跨品类、全时段经营，中小餐饮能跟吗？跟的话，应该怎么跟？",
      "source": "钛媒体",
      "zh": "头部跑通模式，小店频频翻车，全时段经营筛掉一批盲目跟风者"
-    },
-    {
-     "title": "谷歌、Anthropic、OpenAI、亚马逊、英伟达、微软等涌入制药业，硅谷巨头在打什么算盘？",
-     "link": "https://www.tmtpost.com/8206733.html",
-     "pubDate": "Mon, 16 Nov 2026 15:54:22 +0800",
-     "summary": "制药场景正在成为AI科技巨头的“兵家必争之地”。",
-     "source": "钛媒体",
-     "zh": "谷歌、Anthropic、OpenAI、亚马逊、英伟达、微软等涌入制药业，硅谷巨头在打什么算盘？"
-    },
-    {
-     "title": "Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ (Heather Landi/Fierce Healthcare)",
-     "link": "https://www.techmeme.com/261116/p5#a261116p5",
-     "pubDate": "Mon, 16 Nov 2026 02:35:02 -0500",
-     "summary": "Heather Landi / Fierce Healthcare : Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ &nbsp; &mdash;&nbsp; Jonathan Bush Zus Health Clinical Data Interoperability&nbsp; &mdash;&nbsp; As healthcare co",
-     "source": "Techmeme",
-     "zh": "Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ (Heather Landi/Fierce Healthcare)"
     }
    ]
   },
@@ -2258,12 +2266,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
+     "link": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
+     "pubDate": "Mon, 16 Nov 2026 09:35:14 GMT",
+     "summary": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
+     "source": "CNBC",
+     "zh": "AI is reshaping banking jobs – but its ability to drive profits remains unclear"
+    },
+    {
      "title": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing",
      "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
-     "pubDate": "Mon, 16 Nov 2026 09:31:19 GMT",
+     "pubDate": "Mon, 16 Nov 2026 09:33:30 GMT",
      "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
      "source": "CNBC",
      "zh": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing"
+    },
+    {
+     "title": "Stock futures mixed as Nvidia earnings and Anthropic IPO loom through the week",
+     "link": "https://seekingalpha.com/news/4672884-stock-futures-mixed-as-nvidia-earnings-and-anthropic-ipo-loom-through-the-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 04:30:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stock futures mixed as Nvidia earnings and Anthropic IPO loom through the week"
+    },
+    {
+     "title": "NATO member Estonia to close Russia border after attempted &apos;sabotage&apos; of drone maker",
+     "link": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
+     "pubDate": "Mon, 16 Nov 2026 09:30:31 GMT",
+     "summary": "Estonia says closing the crossings would help curb hostile activity and sanctions circumvention.",
+     "source": "CNBC",
+     "zh": "NATO member Estonia to close Russia border after attempted &apos;sabotage&apos; of drone maker"
+    },
+    {
+     "title": "豆包工作上线21个场景工作台，降低技能与工具配置门槛",
+     "link": "https://wallstreetcn.com/articles/3786017",
+     "pubDate": "Mon, 16 Nov 2026 17:30:19 +0800",
+     "summary": "AI办公功能不断增加，选择和配置工具也成了一道使用门槛。 11月16日，字节跳动旗下AI办公产品豆包工作上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，将常用技能和工具提前配置到对应空间。 目前，该功能已在豆包工作电脑版和豆包电脑版上线。 此前，豆包工作持续扩充功能。 11月4日，产品接入抖音生活服务经营、巨量本地推和TikTok for Business等插件，支持经营数据查询和广告复盘；11月12日，又扩大第三方模型的开放范围，让用户按任务选择模型、比较额度消耗。 功能丰富之后，使用路径也需要整理。面对一项具体工作，用户要判断需要哪些技能、连接什么数据，再把工具组合",
+     "source": "华尔街见闻",
+     "zh": "豆包工作上线21个场景工作台，降低技能与工具配置门槛"
+    },
+    {
+     "title": "从试点到规模，AI落地有声 丨2026 AI·营销大会11月25日上海启幕",
+     "link": "http://www.eeo.com.cn/2026/1116/1094379.shtml",
+     "pubDate": "Mon, 16 Nov 2026 17:26:00 +0800",
+     "summary": "2026年，AI Agent在营销领域的应用正加速深入。从创意内容生成、消费者洞察，到Campaign执行、投放优化与增长复盘，Agent正逐步参与营销业务的更多环节。随着AI应用从单点任务向完整业务链条延伸，如何将Agent融入企业真实业务系统与工作流程，实现规模化部署与持续价值创造，正成为品牌企业关注的重要议题。 11月25日，2026 AI&middot;营销大会将在上海中心大厦举行。本届大会以&ldquo;AI&middot;落地有声&rdquo;为主题...",
+     "source": "经济观察网",
+     "zh": "从试点到规模，AI落地有声 丨2026 AI·营销大会11月25日上海启幕"
     },
     {
      "title": "Europe markets in green as FTSE 100 nears record high",
@@ -2322,14 +2370,6 @@ window.INDUSTRY_DATA = {
      "zh": "Intel faces shareholder class action over earnings selloff"
     },
     {
-     "title": "Morgan Stanley 6.5% DP SH PFD P declares $0.4063 dividend",
-     "link": "https://seekingalpha.com/news/4672849-morgan-stanley-65-dp-sh-pfd-p-declares-04063-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 03:43:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Morgan Stanley 6.5% DP SH PFD P declares $0.4063 dividend"
-    },
-    {
      "title": "华为云发布具身世界模型，回应与机器人公司的竞争",
      "link": "https://wallstreetcn.com/articles/3786012",
      "pubDate": "Mon, 16 Nov 2026 16:42:56 +0800",
@@ -2370,116 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil"
     },
     {
-     "title": "瑞普生物：截至11月10日最新股东户数2.14万户，较上期减少0.95%",
-     "link": "http://stock.eastmoney.com/news/11111,202611163931779624.html",
-     "pubDate": "Mon, 16 Nov 2026 15:57:18 +0800",
-     "summary": "瑞普生物 最新披露数据显示，截至11月10日公司股东户数为2.14万户，较上期(2026年10月30日) 减少206户，降幅为0.95% 。户均持有流通股数量 由上期的1.57万股上升至1.58万股， 户均持股金额 由上期的25.49万元增加至26.60万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "瑞普生物：截至11月10日最新股东户数2.14万户，较上期减少0.95%"
-    },
-    {
-     "title": "中交设计：截至11月10日最新股东户数5.55万户，较上期减少0.43%",
-     "link": "http://stock.eastmoney.com/news/11111,202611163931779329.html",
-     "pubDate": "Mon, 16 Nov 2026 15:56:13 +0800",
-     "summary": "中交设计 最新披露数据显示，截至11月10日公司股东户数为5.55万户，较上期(2026年10月31日) 减少238户，降幅为0.43% 。户均持有流通股数量 由上期的1.81万股上升至1.82万股， 户均持股金额 由上期的8.85万元增加至9.07万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "中交设计：截至11月10日最新股东户数5.55万户，较上期减少0.43%"
-    },
-    {
-     "title": "【调研快报】迅捷兴接待通过上证路演中心网络互动平台参与公司2026年第三季度业绩说明会的投资者等2家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611163931779228.html",
-     "pubDate": "Mon, 16 Nov 2026 15:56:13 +0800",
-     "summary": "迅捷兴 11月16日公告称， 11月12日至11月13日 接待通过上证路演中心网络互动平台参与公司2026年第三季度业绩说明会的投资者 等2家机构 调研。 接待人员包括董事长、总经理 马卓,独立董事 刘木勇,董事会秘书 吴玉梅,财务总监 刘望兰。 公司就以下问题进行了回复： 主要内容整理如下: 一、投资者问答 1、请问公司2026年三季度在降本控费方面都有哪些积极举措? 答: 尊敬的投资者,您好!在原材料采购方面,我们在保证质量的前提下,积极寻找高性价比的材料和供应商,力求在成本和性能之间找到最佳平衡点。在生产节约方面,我们结合工艺技术提升与成本控制,推动生产制造... 点击查看PDF原文 免",
-     "source": "东方财富股票",
-     "zh": "【调研快报】迅捷兴接待通过上证路演中心网络互动平台参与公司2026年第三季度业绩说明会的投资者等2家机构调研"
-    },
-    {
-     "title": "爱尔兰外长：最新一轮俄罗斯制裁方案将涉及113个制裁对象",
-     "link": "http://global.eastmoney.com/news/1959,202611163931779444.html",
-     "pubDate": "Mon, 16 Nov 2026 15:54:37 +0800",
-     "summary": "爱尔兰外长称，最新一轮俄罗斯制裁方案将涉及113个制裁对象。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "爱尔兰外长：最新一轮俄罗斯制裁方案将涉及113个制裁对象"
-    },
-    {
-     "title": "【调研快报】*ST八钢接待投资者网上提问调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611163931778032.html",
-     "pubDate": "Mon, 16 Nov 2026 15:53:20 +0800",
-     "summary": "*ST八钢 11月16日公告称， 11月13日 接待投资者网上提问 调研。 接待人员包括董事、总经理 张志刚,独立董事 温晓军,董事会秘书 姜洋,总会计师 曹杰。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况: 1.请问领导八一 钢铁 今年定增完成净资产转正大约三亿左右能保壳摘帽,明年又亏损又会戴帽子,公司有没有目标或者资产注入保证明年主业扭亏为盈?谢谢 回复:尊敬的投资者,您好!公司能否撤销退市风险警示,取决于 2026 年度经审计的期末净资产是否转正,以及是否触及《上海证... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 ",
-     "source": "东方财富股票",
-     "zh": "【调研快报】*ST八钢接待投资者网上提问调研"
-    },
-    {
-     "title": "【调研快报】中科曙光接待线上参与公司2026年第三季度业绩说明会的投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611163931777959.html",
-     "pubDate": "Mon, 16 Nov 2026 15:53:13 +0800",
-     "summary": "中科曙光 11月16日公告称， 11月13日 接待线上参与公司2026年第三季度业绩说明会的投资者 调研。 接待人员包括董事长、总经理 历军,独立董事 郑永琴,独立董事 戴淑芬,独立董事 殷绪成,财务总监、董事会秘书 翁启南,高级副总裁 任京暘,高级副总裁 李斌,证券事务代表 孔龙凤。 公司就以下问题进行了回复： 1.历总您好,曙光8000已于郑州超算互联网磨合运行数月,请问曙光智算的运营情况如何?郑州作为股东是否已经走通了算力财政的路? 答:您好,曙光8000已于7月在郑州落地。截至目前,已有300余项重点应用在曙光8000上完成深度优化,覆盖30多个科研与产业领域,项目商业化运营目前仍处于",
-     "source": "东方财富股票",
-     "zh": "【调研快报】中科曙光接待线上参与公司2026年第三季度业绩说明会的投资者调研"
-    },
-    {
-     "title": "科技股集体重挫！而“A股真正价投股” 时隔两年再创历史新高",
-     "link": "http://finance.eastmoney.com/news/1345,202611163931778681.html",
-     "pubDate": "Mon, 16 Nov 2026 15:51:43 +0800",
-     "summary": "11月16日，市场集体调整，创业板指低开低走跌超4%，沪指险守3600点关口。截至收盘，沪指跌0.87%，深成指跌2.53%，创业板指跌4.37%。 盘面上， 银行 板块逆势走强， 固态电池 、AI漫剧概念盘中活跃，家电板块异动拉升。下跌方面，高位人气股下挫，算力硬件概念持续走弱。 全市场超4300只个股下跌。沪深两市成交额1.48万亿元，较上一个交易日缩量1712亿。 周一，A股市场延续上周五跌势，早盘跳空低开，经过约半小时下行找到第一个日内低点后震荡反弹；午后画风生变，第二个日内低点也出现，同时刷新阶段新低。 从全A分时图上，可以看到这种“闹心”的状态。 市场午后整体创出新低，而创业板指的",
-     "source": "东方财富资讯",
-     "zh": "科技股集体重挫！而“A股真正价投股” 时隔两年再创历史新高"
-    },
-    {
-     "title": "华为云发布具身世界模型 基于国产算力昇腾进行训练",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931778236.html",
-     "pubDate": "Mon, 16 Nov 2026 15:46:04 +0800",
-     "summary": "今日，华为云举办具身世界模型发布会。会上， 华为云具身产品线总裁、具身智能Lab主任吴小东发布首款昇腾原生的具身世界模型CloudRobo-WM1.2，并宣布将进行权重、推理、代码开源 。 该模型基于国产算力昇腾进行训练 ，采用共享世界模型骨干网络实现预测增强的世界表征，基于世界模型原生DualAct架构，实现了世界模型原生动作生成，在RoboTwin 2.0、LiberoPro 2.0两个评测基准中均排名第一。 CloudRobo是华为云的一站式具身智能开发平台，以昇腾云为算力底座，于2025年6月发布，覆盖了从数据到部署的全流程 。平台内置“具身广场”，提供预置的数据、感知/规划/操作模型",
-     "source": "东方财富资讯",
-     "zh": "华为云发布具身世界模型 基于国产算力昇腾进行训练"
-    },
-    {
-     "title": "外交部：各方应携手促进人工智能发展和治理 不应当搞封闭排他小圈子",
-     "link": "http://finance.eastmoney.com/news/1345,202611163931765565.html",
-     "pubDate": "Mon, 16 Nov 2026 15:28:39 +0800",
-     "summary": "11月16日，外交部发言人毛宁主持例行记者会。有记者问：据报道，美国和9个国家共同签署了有关 人工智能 的相关宣言。请问中方认为这是否会影响接下来的中美元首会晤？ 毛宁表示，中方一贯认为 人工智能 是全人类的共同财富，在这个领域不应当以意识形态划线或者是搞封闭排他的小圈子，各方应当携手促进 人工智能 的发展和治理，推动人工智能服务全人类。关于中美元首会晤双方保持着沟通。 （文章来源：央视新闻客户端）",
-     "source": "东方财富资讯",
-     "zh": "外交部：各方应携手促进人工智能发展和治理 不应当搞封闭排他小圈子"
-    },
-    {
-     "title": "摩根大通分析师：英伟达AI算力合约份额从83%降至39%",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931764442.html",
-     "pubDate": "Mon, 16 Nov 2026 15:20:09 +0800",
-     "summary": "摩根大通 资产管理 市场与投资策略主席迈克尔·切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里， 英伟达 GPU占比仅39%。而2023至2025年， 英伟达 在 AI芯片 整体收入中的份额曾达到83%，这预示着它在下一代算力基础设施中的占比可能大幅萎缩。 竞争对手 博通 的定制芯片份额位居第二，达24%；谷歌张量处理器（TPU）占16%，AMD GPU占15%， 亚马逊 Trainium芯片占6%。这一结构说明，谷歌、 亚马逊 、 微软 等曾经的 英伟达 客户，或是和 博通 合作自研芯片，或是选择性价比更高的AMD处理器",
-     "source": "东方财富资讯",
-     "zh": "摩根大通分析师：英伟达AI算力合约份额从83%降至39%"
-    },
-    {
      "title": "豆包开放多模型4天后，千问也改回来了",
      "link": "https://wallstreetcn.com/articles/3786007",
      "pubDate": "Mon, 16 Nov 2026 15:17:44 +0800",
      "summary": "办公 Agent的多模型阵营，终于等来了阿里。 11月16日，阿里旗下千问办公宣布新增10款大模型，包括最新发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多家厂商的第三方模型。 此次更新后，千问办公个人版和企业标准版用户均可自主选择模型，根据任务复杂度、响应速度和 Token成本，决定使用哪款模型完成工作。 这距离字节跳动旗下豆包工作向个人用户全面开放第三方模型，仅过去四天。 至此，腾讯 WorkBuddy、字节豆包工作、百度库库AI以及阿里千问办公，均已走向多模型聚合路线，大厂在办公Agent上的模型策略进一步趋同。 对千问办公而言，这次开放多少",
      "source": "华尔街见闻",
      "zh": "豆包开放多模型4天后，千问也改回来了"
-    },
-    {
-     "title": "外交部谈中俄美元首会晤：具有开创性意义",
-     "link": "http://finance.eastmoney.com/news/1345,202611163931760662.html",
-     "pubDate": "Mon, 16 Nov 2026 15:16:26 +0800",
-     "summary": "11月16日，外交部发言人毛宁主持例行记者会。 总台央视记者 提问：中方发布了中俄美三国元首深圳会晤的消息。能否介绍会晤安排及中方对会晤的期待？ 毛宁表示，这是中俄美三国元首历史上首次面对面会晤，将围绕维护世界和平、促进大国关系战略稳定深入交换意见，具有开创性意义。中俄美都是联合国创始会员国和安理会常任理事国。历史上三国曾并肩赢得世界反法西斯战争的胜利。 当前形势下，三国肩负着合作应对全球性挑战、促进世界和平稳定的重要责任。中俄美加强沟通，管控分歧，稳定关系，符合三国利益，也是国际社会的期待，有利于稳定世界局势，推动对话合作。 相关报道 中方计划在中俄美元首会晤中讨论什么问题？外交部：会及时发",
-     "source": "东方财富资讯",
-     "zh": "外交部谈中俄美元首会晤：具有开创性意义"
-    },
-    {
-     "title": "齐创新低！多家AI硬件龙头H股重挫逾10% 供应链风险情绪仍在传导",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931759035.html",
-     "pubDate": "Mon, 16 Nov 2026 15:12:15 +0800",
-     "summary": "今日港股AI硬件产业链再度遭遇抛售行情。 截至发稿， 罗博特科 (03757.HK)跌超15%， 中际旭创 (03308.HK)、 胜宏科技 (02476.HK)双双跌近10%，均创下上市以来新低。 建滔积层板 (01888.HK)等一批热门标的跟跌6%以上。 消息面上，截至目前， 英伟达 管理层的人事风波及不确定性仍在继续产生影响。 在黄仁勋辞去 英伟达 首席执行官职务后，近日又有报道称，其硅谷盟友正向 英伟达 董事会施压，要求恢复其职务。但同时又有市场分析称，复职行动可能遭到政策制定者的反对。 此外，本周英伟达还将发布财报，诸多因素汇集，导致市场倾向于保持观望。 短线来看，由于英伟达风波进",
-     "source": "东方财富资讯",
-     "zh": "齐创新低！多家AI硬件龙头H股重挫逾10% 供应链风险情绪仍在传导"
-    },
-    {
-     "title": "2027见闻历，财经人的桌面必备“神历”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Mon, 16 Nov 2026 15:02:54 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
      "title": "The perfect sell-off",
@@ -2490,12 +2426,84 @@ window.INDUSTRY_DATA = {
      "zh": "The perfect sell-off"
     },
     {
-     "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
-     "link": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
-     "pubDate": "Mon, 16 Nov 2026 06:20:55 GMT",
-     "summary": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
-     "source": "CNBC",
-     "zh": "AI is reshaping banking jobs – but its ability to drive profits remains unclear"
+     "title": "The whole world is long America",
+     "link": "https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1",
+     "pubDate": "Mon, 16 Nov 2026 05:00:11 GMT",
+     "summary": "And may soon have to pay the price for its obsession",
+     "source": "Financial Times",
+     "zh": "The whole world is long America"
+    },
+    {
+     "title": "What happens when the migrants stop coming?",
+     "link": "https://www.ft.com/content/12f76b96-6ef9-40fb-924f-60c348935a21?syn-25a6b1a6=1",
+     "pubDate": "Mon, 16 Nov 2026 05:00:03 GMT",
+     "summary": "A sharp fall in the number of migrants arriving in rich countries adds to the fiscal challenges of rapidly ageing populations",
+     "source": "Financial Times",
+     "zh": "What happens when the migrants stop coming?"
+    },
+    {
+     "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 04:15:00 GMT",
+     "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+     "source": "MarketWatch",
+     "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?"
+    },
+    {
+     "title": "A big chunk of your 401(k) is likely invested in Nvidia",
+     "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 03:11:00 GMT",
+     "summary": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.",
+     "source": "MarketWatch",
+     "zh": "A big chunk of your 401(k) is likely invested in Nvidia"
+    },
+    {
+     "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
+     "link": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
+     "pubDate": "Mon, 16 Nov 2026 01:41:33 GMT",
+     "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
+     "source": "Financial Times",
+     "zh": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy"
+    },
+    {
+     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 23:30:00 GMT",
+     "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+     "source": "MarketWatch",
+     "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
+    },
+    {
+     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 23:00:00 GMT",
+     "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+     "source": "MarketWatch",
+     "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
+    },
+    {
+     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 21:32:00 GMT",
+     "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+     "source": "MarketWatch",
+     "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
+    },
+    {
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+     "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+     "pubDate": "Sun, 15 Nov 2026 19:03:41 GMT",
+     "summary": "Tech supporters lobby chipmaker’s board to reinstate former head after he resigned following affair with alleged Chinese spy",
+     "source": "Financial Times",
+     "zh": "Jensen Huang discusses comeback as Nvidia CEO with allies"
+    },
+    {
+     "title": "US and allies sign accord to protect AI supply chains from China",
+     "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+     "pubDate": "Sun, 15 Nov 2026 17:47:43 GMT",
+     "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+     "source": "Financial Times",
+     "zh": "US and allies sign accord to protect AI supply chains from China"
     }
    ]
   },

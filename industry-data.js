@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 12:31:49",
+ "generated_at": "2026/11/16 12:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -1021,7 +1021,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1040,14 +1040,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1096,6 +1088,14 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1746,6 +1746,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost (@artificialanlys)",
+     "link": "https://www.techmeme.com/261115/p30#a261115p30",
+     "pubDate": "Sun, 15 Nov 2026 23:45:01 -0500",
+     "summary": "@artificialanlys : Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost &nbsp; &mdash;&nbsp; Alibaba has launched Qwen4 Max, gaining 9 points over Qwen3.8 Max on the Artificial Analysis Intell",
+     "source": "Techmeme",
+     "zh": "Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost (@artificialanlys)"
+    },
+    {
+     "title": "无界进化宣布完成超亿元 Pre-A 轮融资，称“刷新中国虚拟细胞企业单笔融资纪录”",
+     "link": "https://www.ithome.com/1/027/609.htm",
+     "pubDate": "Mon, 16 Nov 2026 04:42:03 GMT",
+     "summary": "IT之家 11 月 16 日消息，以虚拟细胞与递归科学发现为核心的 AI for Science（科学智能，AI4S）企业 无界进化（INFevo） 今日宣布完成超亿元 Pre-A 轮融资，刷新中国虚拟细胞企业单笔融资金额纪录。 本轮融资由星连资本、Prosperity7 Ventures、华盖资本、华控基金及德同资本等机构联合投资，老股东顺为资本、红杉中国和松禾资本继续追加投资。 这是无界进化继 2026 年 6 月完成数千万元天使轮融资后，五个月内完成的第二轮融资。 资金将加快公司 AI4S 基础设施建设 ，推动细胞响应预测、科学假说检验与高通量自动化实验反馈的深度协同，打造覆盖“靶点发现",
+     "source": "IT之家",
+     "zh": "无界进化宣布完成超亿元 Pre-A 轮融资，称“刷新中国虚拟细胞企业单笔融资纪录”"
+    },
+    {
+     "title": "“AI生成的代码必须开源，”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+     "link": "https://www.huxiu.com/article/4905872.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 12:41:16 +0800",
+     "summary": "本文来自微信公众号： InfoQ ，作者：褚杏娟，原文标题：《“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意》 “所有AI生成的代码都应该开源。” 11月15日，开源开发者Jakub T.Jankiewicz公开呼吁将AI生成的代码全部开源，或者直接放入公共领域。他认为，AI模型从开源社区几十年积累的代码和技术知识中受益，企业却可以利用这些模型生成闭源软件，将原本属于社区的集体成果转化为自己的商业资产。这种做法，在他看来已经有了“许可证洗白”（license laundering）的嫌疑。 这个观点迅速引爆了社区讨论。有人赞同，认为AI公司依靠开源",
+     "source": "虎嗅",
+     "zh": "“AI生成的代码必须开源，”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意"
+    },
+    {
+     "title": "Sources: the Trump admin plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help them win overseas business (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261115/p29#a261115p29",
+     "pubDate": "Sun, 15 Nov 2026 23:40:00 -0500",
+     "summary": "Wall Street Journal : Sources: the Trump admin plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI &ldquo;national champions&rdquo; to help them win overseas business &nbsp; &mdash;&nbsp; The new program is part of an effort to help U.S. AI companies compete for business over",
+     "source": "Techmeme",
+     "zh": "Sources: the Trump admin plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help them win overseas business (Wall Street Journal)"
+    },
+    {
+     "title": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, bringing total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 (Abhinaya Prabhu/Tech Funding News)",
+     "link": "https://www.techmeme.com/261115/p28#a261115p28",
+     "pubDate": "Sun, 15 Nov 2026 23:35:01 -0500",
+     "summary": "Abhinaya Prabhu / Tech Funding News : AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, bringing total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 &nbsp; &mdash;&nbsp; - Kindo has raised $30M, bringing its total capital raised to $57.6M.&nbsp; &mdash",
+     "source": "Techmeme",
+     "zh": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, bringing total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 (Abhinaya Prabhu/Tech Funding News)"
+    },
+    {
+     "title": "豆包工作新功能「工作台」上线，首批覆盖金融、医疗、教育等 21 个专业场景",
+     "link": "https://www.ithome.com/1/027/608.htm",
+     "pubDate": "Mon, 16 Nov 2026 04:27:33 GMT",
+     "summary": "IT之家 11 月 16 日消息，豆包工作今天宣布独家上线「工作台」功能， 首批覆盖金融、医疗、教育等 21 个专业场景 。 据介绍，豆包工作的「工作台」是为用户专业工作场景打造的专属 AI 工作空间。这里预先配置好了专业场景所需技能、工具，大幅降低 AI 使用门槛，提高工作效率。 例如，金融投研工作台首页提供公告解读、业绩分析、市场简报、公司研究等常用任务入口。该工作台打通了各类专业金融数据，可通过插件按需链接万得、同花顺、国泰海通等数据服务。创意设计工作台覆盖海报设计、社媒配图、品牌视觉等常用技能。 此外，用户还可以自建个人专属工作台，支持定制工作需求、偏好，保存后还可分享。",
+     "source": "IT之家",
+     "zh": "豆包工作新功能「工作台」上线，首批覆盖金融、医疗、教育等 21 个专业场景"
+    },
+    {
      "title": "与其研究AI短剧怎么做，不如抓紧去卖课",
      "link": "https://www.huxiu.com/article/4905867.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 12:21:40 +0800",
@@ -1762,10 +1810,26 @@ window.INDUSTRY_DATA = {
      "zh": "机器狗进入下半场，扛起了具身智能的半边天"
     },
     {
+     "title": "中国与东盟宣布将 2027 年定为人工智能合作年",
+     "link": "https://www.ithome.com/1/027/607.htm",
+     "pubDate": "Mon, 16 Nov 2026 04:17:38 GMT",
+     "summary": "IT之家 11 月 16 日消息，据央视新闻今日报道，中国与东盟宣布将 2027 年定为 人工智能合作年 。 此外，中国－东盟自贸区 3.0 版升级议定书将于 2026 年 12 月 1 日生效。 IT之家注：东南亚国家联盟（ASEAN，简称东盟）是一个由东南亚国家组成的政治经济联盟，1967 年 8 月 8 日在泰国曼谷成立，现有文莱、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、越南等 11 个成员国，秘书处设在印度尼西亚雅加达。 广西壮族自治区工业和信息化厅于 2025 年 3 月发布《 广西“人工智能 + 制造”行动方案（2025—2027 年） 》， 支持南宁建设中国 — 东盟人工智能",
+     "source": "IT之家",
+     "zh": "中国与东盟宣布将 2027 年定为人工智能合作年"
+    },
+    {
+     "title": "三星 Galaxy Claw 曝光：帮助用户完成每日重复工作",
+     "link": "https://www.ithome.com/1/027/606.htm",
+     "pubDate": "Mon, 16 Nov 2026 04:16:05 GMT",
+     "summary": "IT之家 11 月 16 日消息，据科技媒体 Android Authority 昨天报道，三星似乎正在为 Galaxy AI 开发“Galaxy Claw”全新功能，有望让 AI 技术不再局限于回答问题和生成内容， 而是代替用户处理每日重复的工作 。 据报道，三星 Personal Agent Core 应用出现了 Galaxy Claw 相关代码，使我们能够一窥新功能的具体支持应用、能力，IT之家附详情如下： Personal&nbsp;agent&nbsp;core&nbsp;helps&nbsp;Galaxy&nbsp;AI&nbsp;complete&nbsp;tasks&nbsp;",
+     "source": "IT之家",
+     "zh": "三星 Galaxy Claw 曝光：帮助用户完成每日重复工作"
+    },
+    {
      "title": "比亚迪王传福亲自交付首批腾势 N8 车型，26.99 万元起",
      "link": "https://www.ithome.com/1/027/604.htm",
      "pubDate": "Mon, 16 Nov 2026 04:15:52 GMT",
-     "summary": "IT之家 11 月 16 日消息，比亚迪董事长王传福昨日出现在腾势 N8 的首批交付现场，并亲自将新车钥匙交到全球首批车主手中。此时距离该车 11 月 12 日正式上市仅过去三天。 IT之家此前报道，全新腾势 N8 定位五座 SUV，推出纯电与插混两种动力共 6 款车型。纯电版 4 款，售价 26.99 万至 32.99 万元；插混版 2 款，售价 30.09 万至 32.09 万元。购车可享至高约 7.1 万元的限时权益组合。 车身长宽高为 5150/1999/1820mm，轴距 3075mm，后备厢常规容积 1046 升，二排折叠后可扩展至 2150 升。车内提供四把零重力座椅，前排最大躺",
+     "summary": "IT之家 11 月 16 日消息，比亚迪董事长、执行董事兼总裁王传福昨日出现在腾势 N8 的首批交付现场，并亲自将新车钥匙交到全球首批车主手中。此时距离该车 11 月 12 日正式上市仅过去三天。 IT之家此前报道，全新腾势 N8 定位五座 SUV，推出纯电与插混两种动力共 6 款车型。纯电版 4 款，售价 26.99 万至 32.99 万元；插混版 2 款，售价 30.09 万至 32.09 万元。购车可享至高约 7.1 万元的限时权益组合。 车身长宽高为 5150/1999/1820mm，轴距 3075mm，后备厢常规容积 1046 升，二排折叠后可扩展至 2150 升。车内提供四把零重力",
      "source": "IT之家",
      "zh": "比亚迪王传福亲自交付首批腾势 N8 车型，26.99 万元起"
     },
@@ -1810,36 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "第一个5万亿外贸城市，来了"
     },
     {
-     "title": "长城魏牌 V8X HEV 版近期上市，搭载全球首款量产大电量 HEV 技术",
-     "link": "https://www.ithome.com/1/027/601.htm",
-     "pubDate": "Mon, 16 Nov 2026 03:58:07 GMT",
-     "summary": "IT之家 11 月 16 日消息，长城汽车董事长魏建军今日发布视频透露，魏牌 V8X HEV 版将于近期上市，全球第一款量产大电量 HEV 技术。据悉，该车与在售魏牌 V8X 主要不同是搭载了 2.0T 油电混动系统。 作为参考，目前在售魏牌 V8X 车型于今年 8 月 14 日上市，共推出 5 款配置，指导价区间 23.98-31.58 万元，限时权益价 22.68-30.28 万元。 IT之家注意到，在售魏牌 V8X 采用“东方美学”外观设计，长宽高分别为 5125/2025/1821mm， 轴距 3050mm 。搭载“双 VLA”原生 AI 舱驾智能体 ——“小魏同学”座舱 / 行车智能",
-     "source": "IT之家",
-     "zh": "长城魏牌 V8X HEV 版近期上市，搭载全球首款量产大电量 HEV 技术"
-    },
-    {
-     "title": "华硕推出 17L 商用台式机 P302MV，基于英特尔酷睿 200 \"Raptor Lake\" 移动处理器",
-     "link": "https://www.ithome.com/1/027/600.htm",
-     "pubDate": "Mon, 16 Nov 2026 03:55:33 GMT",
-     "summary": "IT之家 11 月 16 日消息，华硕 (ASUS) 本月 13 日宣布推出型号为 P302MV 的 ExpertCenter P300 Mini Tower 商用台式整机。该型号三维 168×289×259 (mm)，体积约 17L；质量 6kg。 其采用 MoDT 设计， 基于英特尔酷睿 200 系列 \"Raptor Lake\" 移动处理器 ，可选酷睿 7 240H、酷睿 5 210H、酷睿 3 100U，支持 45W TDP。 P302MV 内置电源，采用前方和侧面进气、后方排气的散热设计，满载噪声 32dB；拥有 2 个 DDR4 SO-DIMM 内存插槽、至少 2 个 M.2 PCI",
-     "source": "IT之家",
-     "zh": "华硕推出 17L 商用台式机 P302MV，基于英特尔酷睿 200 \"Raptor Lake\" 移动处理器"
-    },
-    {
-     "title": "宝马首款国产新世代 BMW iX3 投产，11 月 25 日开启交付",
-     "link": "https://www.ithome.com/1/027/599.htm",
-     "pubDate": "Mon, 16 Nov 2026 03:51:17 GMT",
-     "summary": "IT之家 11 月 16 日消息，宝马中国今日宣布，首款国产新世代 BMW iX3 正式在沈阳生产基地全面投产，新车将于本月陆续开启客户交付。 宝马新世代 BMW iX3 于今年 8 月在成都车展开启预订，价格为 26.99 万元起。新车号称标配近 40 项高价值配置，包含数字天使光翼前脸、M 运动套装、第六代 BMW eDrive 电驱系统 +BMW 智能驾驶辅助系统、BMW AI 个人助理 + 个性化 BMW AI 智绘组件、方向盘加热 + 高级三区空调 + 前后排座椅加热 + 前排座椅通风 +Harman / Kardon 高保真音响系统等。 IT之家注意到，新车基于 Neue Klas",
-     "source": "IT之家",
-     "zh": "宝马首款国产新世代 BMW iX3 投产，11 月 25 日开启交付"
-    },
-    {
-     "title": "一个黄金周120场市集：商场要客流，年轻人要同好",
-     "link": "https://www.huxiu.com/article/4905853.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 11:49:46 +0800",
-     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 周六上午十点，上海虹桥新天地的“浇浇植物超市”快闪市集还没正式开市，门口已经站了人。 有人冒雨开了一小时车过来，购物车里装的是花烛、秋海棠、鹿角蕨和彩叶芋。 七八盆加起来，一百来块。 同一天，这座城市还有手账市集、咖啡市集、宠物友好市集在同时开。 据《瞭望东方周刊》统计，2026年双节前后，仅在小红书官宣定档的市集就超过120场。 年轻人赶这场集，到底图什么？ ⑴一个周末，二十场市集 市集的密度，是这两年最容易被低估的一个变化。 据《瞭望东方周刊》记者不完全统计，2026年中秋国庆双节前后，仅在小红书平台上公布定档9月25日到10月7日的市集活动",
-     "source": "虎嗅",
-     "zh": "一个黄金周120场市集：商场要客流，年轻人要同好"
+     "title": "Linux was created as a rejection of robust software architecture and tools",
+     "link": "https://twitter.com/GrapheneOS/status/2122079826257588569",
+     "pubDate": "Mon, 16 Nov 2026 03:58:04 +0000",
+     "summary": "Article URL: https://twitter.com/GrapheneOS/status/2122079826257588569 Comments URL: https://news.ycombinator.com/item?id=50513843 Points: 12 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Linux was created as a rejection of robust software architecture and tools"
     },
     {
      "title": "具身智能：AI走向物理世界，还差几步",
@@ -1848,14 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "2026年，资本、模型和制造同时加速，机器人开始批量走下生产线，但下线不等于交付，演示不等于胜任。具身智能能否真正跨越产业之门，取决于技术能否被组织成稳定工作的系统，并在真实场景中持续创造价值。",
      "source": "钛媒体",
      "zh": "具身智能：AI走向物理世界，还差几步"
-    },
-    {
-     "title": "网友发现微软 Win11 的初次开机流程 OOBE 不支持纯 IPv6 网络",
-     "link": "https://www.ithome.com/1/027/598.htm",
-     "pubDate": "Mon, 16 Nov 2026 03:45:12 GMT",
-     "summary": "IT之家 11 月 16 日消息，据科技媒体 neowin 前天报道，多名网友发现，当他们的电脑连接到纯 IPv6 网络时， 微软 Win11 系统的 OOBE 初次开机流程就无法正常进行下去 。 据报道，用户 Bob Pony 使用一个仅支持 IPv6、不支持 IPv4 的网络，对 Windows 11 的 OOBE 进行测试。尽管 Windows 显示设备已经连接到互联网，但点击下一步继续设置时，系统却弹出提示称互联网连接已中断。 同时，他还在最新的 Windows 11 Insider 预览版本中重复了这项测试，结果表明这一问题并不一定只存在于较早的系统版本中。 IT之家注：互联网协议第",
-     "source": "IT之家",
-     "zh": "网友发现微软 Win11 的初次开机流程 OOBE 不支持纯 IPv6 网络"
     },
     {
      "title": "Alibaba says Qwen4-Max, which isn&apos;t open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models (Luz Ding/Bloomberg)",
@@ -1898,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "谢帝搞说唱十几年，不如当“电子闺蜜”两个月？"
     },
     {
-     "title": "Sources: Jensen Huang had planned to pull back Nvidia&apos;s aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261115/p24#a261115p24",
-     "pubDate": "Sun, 15 Nov 2026 22:30:00 -0500",
-     "summary": "Wall Street Journal : Sources: Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further &nbsp; &mdash;&nbsp; Interim CEO Colette Kress is expected to rein in deals after a stretch in which Nvidia aggressivel",
-     "source": "Techmeme",
-     "zh": "Sources: Jensen Huang had planned to pull back Nvidia&apos;s aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further (Wall Street Journal)"
-    },
-    {
      "title": "全球34%游戏从业者近两年遭遇裁员，54%至今未找到新工作，27%投简历超过百份",
      "link": "https://www.tmtpost.com/8206296.html",
      "pubDate": "Mon, 16 Nov 2026 11:25:54 +0800",
@@ -1922,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "拆飞机供电？AI公司的算力焦虑已经卷到电力端"
     },
     {
-     "title": "Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction (Bradley C/9to5Mac)",
-     "link": "https://www.techmeme.com/261115/p23#a261115p23",
-     "pubDate": "Sun, 15 Nov 2026 22:20:01 -0500",
-     "summary": "Bradley C / 9to5Mac : Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction &nbsp; &mdash;&nbsp; Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform.&nbsp; Mosyle i",
-     "source": "Techmeme",
-     "zh": "Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction (Bradley C/9to5Mac)"
-    },
-    {
      "title": "Tell HN: HN is being scraped for emails to scam",
      "link": "https://news.ycombinator.com/item?id=50513451",
      "pubDate": "Mon, 16 Nov 2026 02:53:30 +0000",
@@ -1938,26 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "Tell HN: HN is being scraped for emails to scam"
     },
     {
-     "title": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)",
-     "link": "https://www.techmeme.com/261115/p22#a261115p22",
-     "pubDate": "Sun, 15 Nov 2026 21:40:01 -0500",
-     "summary": "Alex Riehl / BetaKit : Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation &nbsp; &mdash;&nbsp; Toronto-based Blue J has raised a $176-million USD ($249-million CAD) Series E round after more than doubling its a",
-     "source": "Techmeme",
-     "zh": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)"
-    },
-    {
-     "title": "TuringFonts: Publish Uncrawable and Uncopiable Texts",
-     "link": "https://jfmdev.github.io/TuringFonts/index.html",
-     "pubDate": "Mon, 16 Nov 2026 02:19:08 +0000",
-     "summary": "Article URL: https://jfmdev.github.io/TuringFonts/index.html Comments URL: https://news.ycombinator.com/item?id=50513238 Points: 4 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "TuringFonts: Publish Uncrawable and Uncopiable Texts"
-    },
-    {
      "title": "Qwen4-Max",
      "link": "https://qwen.ai/blog?id=qwen4-max",
      "pubDate": "Mon, 16 Nov 2026 02:14:44 +0000",
-     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 191 # Comments: 53",
+     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 218 # Comments: 70",
      "source": "Hacker News",
      "zh": "Qwen4-Max"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "link": "https://iter.ca/post/ubo-uxss/",
      "pubDate": "Mon, 16 Nov 2026 02:04:48 +0000",
-     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 138 # Comments: 28",
+     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 161 # Comments: 38",
      "source": "Hacker News",
      "zh": "Universal XSS in uBlock Origin from website-driven element picker"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Coles hit by a cybersecurity incident",
      "link": "https://www.colesgroup.com.au/updates/",
      "pubDate": "Mon, 16 Nov 2026 01:14:35 +0000",
-     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 72 # Comments: 48",
+     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 76 # Comments: 56",
      "source": "Hacker News",
      "zh": "Coles hit by a cybersecurity incident"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
      "pubDate": "Mon, 16 Nov 2026 00:21:54 +0000",
-     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 71 # Comments: 16",
+     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 80 # Comments: 19",
      "source": "Hacker News",
      "zh": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack"
     }
@@ -2098,6 +2098,14 @@ window.INDUSTRY_DATA = {
      "zh": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]"
     },
     {
+     "title": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro",
+     "link": "https://www.gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php",
+     "pubDate": "Sun, 15 Nov 2026 21:28:30 +0100",
+     "summary": "The iPhone has always had a great selection of games, including some AAA titles from older console generations. However, it was with the launch of the iPhone 15 Pro that Apple opened the gates for current-generation games to be ported over to the mobile platform for the first time. Such was the grap",
+     "source": "GSMArena",
+     "zh": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro"
+    },
+    {
      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
      "link": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/",
      "pubDate": "Sun, 15 Nov 2026 16:36:12 +0000",
@@ -2128,6 +2136,14 @@ window.INDUSTRY_DATA = {
      "summary": "When it comes to 3-in-1 travel chargers, I look at two main things: How fast it can charge my iPhone and how portable it is. I have tested plenty of travel chargers that aim to be as portable as possible by using lightweight materials or folding into a smaller footprint, but there usually seems to b",
      "source": "9to5Mac",
      "zh": "Hands-on: This 25W MagSafe charger is thinner than an iPhone: KUXIU K4 Air [Video]"
+    },
+    {
+     "title": "Tilta Khronos Oppo Find X10 Pro Max Creator Kit hands-on",
+     "link": "https://www.gsmarena.com/tilta_khronos_oppo_find_x10_pro_max_creator_kit_handson-news-75476.php",
+     "pubDate": "Sun, 15 Nov 2026 15:03:02 +0100",
+     "summary": "Today, we've got another video creator kit for unboxing. It's the Tilta-made Khronos Oppo Find X10 Pro Max Creator Kit, and it's nearly identical to the one we tried with the Find X9 Ultra. If you want a quicker version, here's our video unboxing over on our TikTok. The entire kit comes in a quality",
+     "source": "GSMArena",
+     "zh": "Tilta Khronos Oppo Find X10 Pro Max Creator Kit hands-on"
     },
     {
      "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
@@ -2170,6 +2186,14 @@ window.INDUSTRY_DATA = {
      "zh": "5 fitness trackers you should buy instead of the Moto Watch 2 Fit"
     },
     {
+     "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review",
+     "link": "https://www.gsmarena.com/galaxy_s27_dummies_xiaomi_18s_land_in_the_office_week_46_in_review-news-75478.php",
+     "pubDate": "Sun, 15 Nov 2026 11:01:02 +0100",
+     "summary": "Samsung's upcoming Galaxy S27 series appeared in a new leak, courtesy of Sonny Dickson, who shared dummy units of the Galaxy S27 Ultra, S27 Pro, and S27+. The Ultra and Pro feature a radically redesigned, nearly full-width camera island, while the S27+ retains the familiar vertical camera arrangemen",
+     "source": "GSMArena",
+     "zh": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review"
+    },
+    {
      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
      "link": "https://sspai.com/post/118392",
      "pubDate": "Sun, 15 Nov 2026 15:55:16 +0800",
@@ -2178,60 +2202,36 @@ window.INDUSTRY_DATA = {
      "zh": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表"
     },
     {
+     "title": "Weekly poll: how long do you plan to keep your current phone?",
+     "link": "https://www.gsmarena.com/weekly_poll_how_long_do_you_plan_to_keep_your_current_phone-news-75477.php",
+     "pubDate": "Sun, 15 Nov 2026 07:07:02 +0100",
+     "summary": "Six years ago, we asked you “how often do you change your phone?”. The most common answer back then was once every three years, with once every two years coming in a close second. So, if the statistics hold up, most of you reading this have changed your phone two or three times since 2020. But back ",
+     "source": "GSMArena",
+     "zh": "Weekly poll: how long do you plan to keep your current phone?"
+    },
+    {
+     "title": "Weekly poll results: GrapheneOS support was a great move for the Motorola Signature 27",
+     "link": "https://www.gsmarena.com/weekly_poll_results_grapheneos_support_was_a_great_move_for_the_motorola_signature_27-news-75474.php",
+     "pubDate": "Sun, 15 Nov 2026 03:37:02 +0100",
+     "summary": "The Motorola Signature 27 is not a launch-day purchase for most people, but the inevitable discounts may turn this flagship into a sleeper hit. And some of the interest towards the phone is coming from an unexpected source. First, let’s address the elephant in the room. The MSRP of $1,600 / €1,900 i",
+     "source": "GSMArena",
+     "zh": "Weekly poll results: GrapheneOS support was a great move for the Motorola Signature 27"
+    },
+    {
+     "title": "Honor Magic10 series might feature a 200MP primary camera with LOFIC tech",
+     "link": "https://www.gsmarena.com/honor_magic10_series_200mp_camera_lofic_tech_dual_layer_oled_display-news-75485.php",
+     "pubDate": "Sun, 15 Nov 2026 00:01:02 +0100",
+     "summary": "A few days ago, tipster Smart Pikachu suggested that the Magic10 series might mark the return of variable-aperture cameras on Honor smartphones. Now, a new Weibo post by the tipster suggests the Magic10 series might feature a primary camera with a large 200MP sensor and LOFIC tech. In a separate pos",
+     "source": "GSMArena",
+     "zh": "Honor Magic10 series might feature a 200MP primary camera with LOFIC tech"
+    },
+    {
      "title": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]",
      "link": "https://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
      "pubDate": "Sat, 14 Nov 2026 23:00:00 +0000",
      "summary": "First appearing earlier this month, Google Pixel phones are rolling out a handy new Family feature in the Settings menu. Here’s what it can do. more…",
      "source": "9to5Google",
      "zh": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]"
-    },
-    {
-     "title": "We filmed our Sigma FP2 review with the Sigma FP2",
-     "link": "https://www.dpreview.com/videos/sigma-fp2-video-review/",
-     "pubDate": "Sat, 14 Nov 2026 14:00:00 +0000",
-     "summary": "Making the most of modularity.",
-     "source": "DPReview",
-     "zh": "We filmed our Sigma FP2 review with the Sigma FP2"
-    },
-    {
-     "title": "Adam Savage continues his journey into the IMAX film process",
-     "link": "https://www.dpreview.com/videos/adam-savage-imax-development-timing-videos/",
-     "pubDate": "Sat, 14 Nov 2026 09:00:00 +0000",
-     "summary": "From printing and projecting to developing and timing.",
-     "source": "DPReview",
-     "zh": "Adam Savage continues his journey into the IMAX film process"
-    },
-    {
-     "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-     "link": "https://sspai.com/post/118276",
-     "pubDate": "Sat, 14 Nov 2026 15:40:21 +0800",
-     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-     "source": "少数派",
-     "zh": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA"
-    },
-    {
-     "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
-     "link": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
-     "pubDate": "Sat, 14 Nov 2026 01:15:00 +0000",
-     "summary": "After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp. more…",
-     "source": "9to5Google",
-     "zh": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages"
-    },
-    {
-     "title": "What you should know before using Adobe’s latest photo-editing tools",
-     "link": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
-     "pubDate": "Fri, 13 Nov 2026 22:07:53 +0000",
-     "summary": "Demonstrations with Adobe’s product managers offered more insight into how the new features work. Trying them myself raised a few more questions.",
-     "source": "DPReview",
-     "zh": "What you should know before using Adobe’s latest photo-editing tools"
-    },
-    {
-     "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
-     "link": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
-     "pubDate": "Fri, 13 Nov 2026 22:00:00 +0000",
-     "summary": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much work as the company’s ",
-     "source": "9to5Google",
-     "zh": "Pixelated 125: Google’s glasses, Meta’s baggage"
     }
    ]
   },
@@ -2242,12 +2242,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+     "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+     "pubDate": "Mon, 16 Nov 2026 04:34:00 GMT",
+     "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+     "source": "CNBC",
+     "zh": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?"
+    },
+    {
+     "title": "家电白马，历史新高！HBM需求强劲，巨头加速扩产，机构资金抢筹8只概念股",
+     "link": "http://finance.eastmoney.com/news/1344,202611163931666325.html",
+     "pubDate": "Mon, 16 Nov 2026 12:22:17 +0800",
+     "summary": "HBM供给紧缺格局短期难以逆转，相关设备及材料供应商将持续受益于扩产周期。 今日（11月16日）早盘，A股科技题材再遭重创， CPO概念 、 存储芯片 、 先进封装 、 英伟达 概念、 PCB 等指数跌幅领先。大消费相关股票逆势走强，日用化工、 家用电器 、 食品饮料 、商业连锁、旅游等指数翻红。 以 家用电器 行业为例，今日早盘，家电股 北鼎股份 收获“20cm”涨停， 华帝股份 、 九阳股份 、 小熊电器 、 长虹美菱 收获“10cm”涨停。 家电白马 美的集团 上涨1.15%，最新收盘价创 历史新高 。公司2026年前三季度实现净利润414亿元，同比增长9.27%。截至11月13日收盘，",
+     "source": "东方财富资讯",
+     "zh": "家电白马，历史新高！HBM需求强劲，巨头加速扩产，机构资金抢筹8只概念股"
+    },
+    {
      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 04:15:00 GMT",
      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
      "source": "MarketWatch",
      "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?"
+    },
+    {
+     "title": "“易中天”再度重挫 AI债务警报拉响？支撑因素并未缺席",
+     "link": "http://finance.eastmoney.com/news/11822,202611163931663553.html",
+     "pubDate": "Mon, 16 Nov 2026 12:14:07 +0800",
+     "summary": "周末的重磅发声，也未能止住A股调整脚步。 11月16日早盘，A股三大指数低开低走， 创业板指半日跌2.34%，盘中创年内新低 ；科创50指数跌近3%， 半导体 、算力硬件再度领跌， 寒武纪 、 海光信息 、 中芯国际 、 兆易创新 等纷纷下挫，“易中天”跌幅均在7%上下，昔日“股王” 联讯仪器 跌超6.4%，已滑落至股价榜第四名。 分析人士认为，海外利空与资金面的变化共振，是本轮调整的直接推手；而政策端与经贸层面的支撑因素，也并未缺席。 四大利空突袭，科技成长全线承压 今日早盘，亚太 半导体 链集体走低，日韩股市双双转跌，叠加上周五美股纳指收跌0.91%，市场情绪受累。 具体来看，黄仁勋 辞职",
+     "source": "东方财富资讯",
+     "zh": "“易中天”再度重挫 AI债务警报拉响？支撑因素并未缺席"
+    },
+    {
+     "title": "内外利好共振！7000亿家电巨头新高 主力吸筹多股",
+     "link": "http://finance.eastmoney.com/news/11139,202611163931663429.html",
+     "pubDate": "Mon, 16 Nov 2026 12:14:04 +0800",
+     "summary": "周一家电概念逆势走强，截至午间收盘，近7000亿巨头 美的集团 涨超1%，股价 历史新高 。 北鼎股份 20CM涨停， 华帝股份 、 九阳股份 、 小熊电器 等多股涨停。 消息面上， 美的集团 持续推进股份回购。截至10月31日，公司 累计回购A股约1.45亿股，支付金额117.57亿元 ，本轮回购股份拟全部用于注销并减少注册资本。 美的集团 2026年前三季度实现营业收入3673.65亿元，同比增长1.19%；归母净利润413.93亿元，同比增长9.27%，其中第三季度归母净利润同比增长25.93%。 华创证券表示， 美的集团 短期收入受到需求及主动调整影响，但海外OBM（Original ",
+     "source": "东方财富资讯",
+     "zh": "内外利好共振！7000亿家电巨头新高 主力吸筹多股"
     },
     {
      "title": "AI基建股蒸发4.2万亿美元，“卖铲盛宴”终结？",
@@ -2258,6 +2290,22 @@ window.INDUSTRY_DATA = {
      "zh": "AI基建股蒸发4.2万亿美元，“卖铲盛宴”终结？"
     },
     {
+     "title": "美的集团、长江电力、工商银行等集体历史新高！“核心资产”要回来了？",
+     "link": "http://finance.eastmoney.com/news/11139,202611163931663281.html",
+     "pubDate": "Mon, 16 Nov 2026 12:10:47 +0800",
+     "summary": "11月16日早盘，A股再次表现分化，一边是 中际旭创 、 新易盛 、 东山精密 、 天孚通信 等大跌；另一边是 美的集团 、 长江电力 、 工商银行 、 建设银行 等创出 历史新高 。对此，有机构表示，三季报结束后，要注意估值风格切换的年末行情特征。 美的集团 历史新高 美的集团 11月16日早盘低开高走，盘中一度触及 91.86元 ，超过2021年2月10日盘中的91.53元，股价再创 历史新高 。而前后两次新高之间，时间相差约5年9个月。 综合 市场观点来看， 美的集团 近期股价的持续震荡走高，以下几方面因素被较多提及： 一是 美的集团 持续推进股份回购。截至10月31日，公司累计回购A股",
+     "source": "东方财富资讯",
+     "zh": "美的集团、长江电力、工商银行等集体历史新高！“核心资产”要回来了？"
+    },
+    {
+     "title": "禾元生物自研产品重组人白蛋白注射液（水稻）纳入国家医保目录",
+     "link": "http://www.eeo.com.cn/2026/1116/1094235.shtml",
+     "pubDate": "Mon, 16 Nov 2026 12:04:44 +0800",
+     "summary": "本次奥福民®被纳入国家医保目录，有利于进一步推动奥福民®的市场推广及销售，对公司的长期经营发展具有重要意义。",
+     "source": "经济观察网",
+     "zh": "禾元生物自研产品重组人白蛋白注射液（水稻）纳入国家医保目录"
+    },
+    {
      "title": "2027见闻历，财经人的桌面必备“神历”",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Mon, 16 Nov 2026 11:59:18 +0800",
@@ -2266,19 +2314,11 @@ window.INDUSTRY_DATA = {
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
-     "title": "常青科技：暂不涉及与下游专业企业开展联合开发产品",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931661130.html",
-     "pubDate": "Mon, 16 Nov 2026 11:59:00 +0800",
-     "summary": "常青科技 (603125)在2026年第三季度业绩说明会上表示，公司相关产品主要依托自主研究开发或与高校及科研院所合作开发。目前公司暂不涉及与下游专业企业开展联合开发，市场导入主要通过客户多阶段验证和产业链协同适配推进。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "常青科技：暂不涉及与下游专业企业开展联合开发产品"
-    },
-    {
      "title": "中国与东盟宣布将2027年定为人工智能合作年",
      "link": "http://finance.eastmoney.com/news/1360,202611163931661378.html",
      "pubDate": "Mon, 16 Nov 2026 11:58:33 +0800",
      "summary": "新华社快讯：中国与东盟宣布将2027年定为 人工智能 合作年。 新华社快讯：中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。 （文章来源：新华社）",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "中国与东盟宣布将2027年定为人工智能合作年"
     },
     {
@@ -2290,44 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "创业板跌超2%，光模块龙头“易中天”再大跌，银行逆势拉升，30年期国债跌0.5%，恒指涨1%，新世界发展大跌40%"
     },
     {
-     "title": "用Agent加速新药临床开发 CataX AI种子轮融资4000万元",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931661431.html",
-     "pubDate": "Mon, 16 Nov 2026 11:54:29 +0800",
-     "summary": "近日，上海凯思达生物医药科技有限公司（下称CataX AI）宣布完成4000万元人民币 种子 轮融资，由启明 创投 孵化并独家投资。CataX AI创立于上海，是一家智能体（Agent）原生的 创新药 研发公司。CataX AI聚焦临床开发端，以智能体为技术底座，并由此构建“Clinical-of-One”（全栈临床）这一全新的组织范式，计划通过许可引进或共同开发，推动临床前及早期临床阶段资产完成临床概念验证（PoC）。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "用Agent加速新药临床开发 CataX AI种子轮融资4000万元"
-    },
-    {
-     "title": "前10个月规模以上装备制造业企业出口交货值增速创近五年同期新高",
-     "link": "http://finance.eastmoney.com/news/1355,202611163931661524.html",
-     "pubDate": "Mon, 16 Nov 2026 11:54:00 +0800",
-     "summary": "11月16日，国家统计局新闻发言人、国民经济 综合 统计司副司长王冠华在国新办新闻发布会上表示，依托完整的产业链配套优势，我国的装备产品带着高品质和硬技术，持续拓展全球市场，为外贸增长焕新赋能。前10个月，规模以上装备制造业企业出口交货值同比增长12.5%，这个速度是近5年同期的最高增速。装备制造业占规模以上工业出口交货值的比重已经超过了四分之三，一批国产的硬核装备扬帆出海，圈粉全球展现出了稳步提升的国际竞争力。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "前10个月规模以上装备制造业企业出口交货值增速创近五年同期新高"
-    },
-    {
      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
      "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
      "pubDate": "Mon, 16 Nov 2026 03:53:59 GMT",
      "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
      "source": "CNBC",
      "zh": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates"
-    },
-    {
-     "title": "佰维存储2027年AI新兴端侧收入不少于百亿，成功切入Meta、Google等巨头供应链",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931660919.html",
-     "pubDate": "Mon, 16 Nov 2026 11:48:00 +0800",
-     "summary": "11月13日晚，国内头部存储解决方案上市公司深圳 佰维存储 科技股份有限公司（股票代码688525）发布《2027年度“提质增效重回报”行动方案》，进一步锚定AI新兴端侧增长路线，提出2027年该板块营收力争不低于100亿元的目标。 2026年年底，全球科技产业的焦点正悄然发生转移，端侧AI迎来了前所未有的积极变化。随着大模型从云端向终端迁移， AI眼镜 、 AI手机 、AI PC等新兴硬件被视作下一代AI Agent的核心入口。近期，OpenAI、Meta、三星等全球头部科技厂商纷纷加速在端侧新品上的发布与推广节奏。 端侧AI市场空间巨大，且处于高速增长的 黄金 阶段。据测算，2026年国内",
-     "source": "东方财富股票",
-     "zh": "佰维存储2027年AI新兴端侧收入不少于百亿，成功切入Meta、Google等巨头供应链"
-    },
-    {
-     "title": "龙蟠科技上调宁德时代年内采购上限至90亿元 去年交易额约为30.51亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931660814.html",
-     "pubDate": "Mon, 16 Nov 2026 11:48:00 +0800",
-     "summary": "11月16日早间， 龙蟠科技 (603906)发布H股公告，将现行 宁德时代 采购框架协议2026年度交易上限由70亿元上调至90亿元，调幅约28.57%。 公告显示，自2026年1月1日至公告日期， 宁德时代 关联人士集团向 龙蟠科技 采购磷酸铁 锂 正极材料等产品的交易金额已达61.04亿元，接近原定的70亿元上限。公司称，因龙蟠产品需求增加、碳酸 锂 价格波动，预期现有上限“或不足以应付” 宁德时代 方面预期增加的采购订单，故将年度上限修订为90亿元。 龙蟠科技 与 宁德时代 的这笔关联交易在2026年出现量级跃迁。公告披露的历史交易金额显示，2023年至2025年， 宁德时代 关联集团",
-     "source": "东方财富股票",
-     "zh": "龙蟠科技上调宁德时代年内采购上限至90亿元 去年交易额约为30.51亿元"
     },
     {
      "title": "堪萨斯城联储施密德：通胀过高且方向错误，美联储仍有工作要做",
@@ -2354,52 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "供应过剩担忧压低油价 但美伊僵持令市场进退两难"
     },
     {
-     "title": "创业板指下跌2.34% 科创50指数下跌2.91% 电视广播、小家电逆势走强",
-     "link": "http://finance.eastmoney.com/news/1345,202611163931654865.html",
-     "pubDate": "Mon, 16 Nov 2026 11:30:52 +0800",
-     "summary": "A股三大指数集体下跌，创业板指跌逾2%，科创50指数下跌近3%。盘面上，电视广播、 小家电 、 汽车服务 、 白色家电 、房屋建设、 厨卫电器 逆势走强， 航天装备、 CPO概念 、 元件 、 先进封装 、 英伟达 概念、 小金属 表现不佳，领跌市场。 截至午间收盘，沪指下跌0.39%，报3620点；深成指下跌1.31%，报10825.37点；创业板指下跌2.34%，报2369.33点；科创50指数下跌2.91%，报1242.47点；北证50指数下跌2.56%，报853.88点。全市场上涨个股有1787家，下跌个股有3564家，33只股涨停。两市半日合计成交9006亿。 今日要闻 突然直线拉升",
-     "source": "东方财富资讯",
-     "zh": "创业板指下跌2.34% 科创50指数下跌2.91% 电视广播、小家电逆势走强"
-    },
-    {
-     "title": "港股逆市飙升！股市“吹哨人”最新发声！",
-     "link": "http://finance.eastmoney.com/news/1344,202611163931651721.html",
-     "pubDate": "Mon, 16 Nov 2026 11:22:30 +0800",
-     "summary": "港股走出独立行情！ 今早，亚太股市全线杀跌，唯独港股走强。恒生指数和国企指数涨幅皆超过1%，而韩国股指大跌超2%，日经指数跌超1%。值得注意的是，此时此刻，有股市“吹哨人”之称的 摩根士丹利 却发出了明显的多头信号，并建议超配全球股票。 摩根士丹利 认为，AI资本开支周期并未中断，将带动经济和盈利保持韧性，延续至明年。该行策略师唐诗韵等在11月15日的报告中表示，维持美股超配评级，同时将日本、欧洲股票上调至超配，新兴市场维持标配。 报告提及上调标普500指数目标价，对应潜在上涨空间15%。其他资产方面， 摩根士丹利 预计美元小幅走强，看好投资级企业债以及 黄金 。策略师在报告中写道：“风险资产",
-     "source": "东方财富资讯",
-     "zh": "港股逆市飙升！股市“吹哨人”最新发声！"
-    },
-    {
      "title": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%",
      "link": "https://wallstreetcn.com/articles/3785994",
      "pubDate": "Mon, 16 Nov 2026 11:21:57 +0800",
      "summary": "11月16日，高盛最新发布的2027年中国市场策略展望报告 将港股评级上调至超配，同时下调A股至中性 ，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。 据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSCI中国指数12个月远期市盈率仅9.8倍，处于十年均值下方约1个标准差， \"大量负面因素已经反映在股价中\" 。 报告认为，2027年的核心交易逻辑已发生结构性转变——从押注AI贝塔行情，转向寻求盈利增长",
      "source": "华尔街见闻",
      "zh": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%"
-    },
-    {
-     "title": "“银伟大”继续狂飙 多股盘中创新高！4股前三季净利增速超10%(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611163931651238.html",
-     "pubDate": "Mon, 16 Nov 2026 11:21:00 +0800",
-     "summary": "11月16日早盘， 7只 银行 股盘中创 历史新高 。三季报盈利改善与股息回报，共同支撑 银行 板块走强。 大行与城商行联袂走强 11月16日， 银行 板块盘中逆势拉升， 工商银行 、 建设银行 、 南京银行 、 成都银行 、 杭州银行 、 江苏银行 、 青岛银行 7股创 历史新高 ， 厦门银行 、 浦发银行 、 宁波银行 涨超2%。 其中， 青岛银行 、 江苏银行 、 南京银行 、 成都银行 、 杭州银行 在11月13日已携手刷新历史高点，当日 青岛银行 上涨3.65%， 江苏银行 、 南京银行 分别上涨2.24%、1.91%。 股价接连突破背后，上市银行三季报释放出盈利修复信号。2026年",
-     "source": "东方财富资讯",
-     "zh": "“银伟大”继续狂飙 多股盘中创新高！4股前三季净利增速超10%(名单)"
-    },
-    {
-     "title": "SK海力士加码本土供应链布局：五年投10亿美元扶持上游供应商",
-     "link": "http://finance.eastmoney.com/news/1355,202611163931652438.html",
-     "pubDate": "Mon, 16 Nov 2026 11:14:34 +0800",
-     "summary": "本周一，韩国 存储芯片 大厂 SK海力士 公布了一项供应链扶持方案，计划未来五年投入1.4万亿韩元（约合10.5亿美元），重点扶持韩国本土 半导体 材料、零部件及设备供应商，在全球 AI芯片 赛道竞争加剧的环境下，加强其自身供应链安全与韧性。 SK海力士 同时公布了一项共建计划：将联合韩国中央及地方政府，共同出资8746亿韩元（约合6.55亿美元），在首尔以南龙仁 半导体 园区打造共享芯片测试基地Trinity Fab，面向中小供应商开放模拟量产产线环境的验证平台。 该基地预计2027年5月正式投用，三方出资分别为： SK海力士 4432亿韩元、中央政府3736亿韩元、地方政府577亿韩元。 ",
-     "source": "东方财富资讯",
-     "zh": "SK海力士加码本土供应链布局：五年投10亿美元扶持上游供应商"
-    },
-    {
-     "title": "系好安全带！“超级大空头”敲警钟：AI火热行情正被三大风险环伺",
-     "link": "http://finance.eastmoney.com/news/1344,202611163931648341.html",
-     "pubDate": "Mon, 16 Nov 2026 11:13:54 +0800",
-     "summary": "资深分析师阿尔伯特·爱德华兹（Albert Edwards）最新警告称，被 人工智能 （AI）的盈利潜力所吸引的投资者，可能忽视了股市流动性日益收紧的威胁。 法国 兴业银行 （Societe Generale）驻伦敦分析师爱德华兹一向以极度悲观的市场观点著称，甚至自称“超级大空头”。近30年前，他曾准确预警1997年 亚洲金融 危机。而如今，他将矛头对准了当下炙手可热的 人工智能 （AI）热潮。 他在最新报告中指出，风险资产的金融支持力度减弱、盈利预期上调势头放缓以及通胀压力再度上升，都可能动摇股市上涨的势头。 他的分析挑战了“强劲的企业盈利预期足以支撑科技股继续攀升”的观点。 流动性问题 爱",
-     "source": "东方财富资讯",
-     "zh": "系好安全带！“超级大空头”敲警钟：AI火热行情正被三大风险环伺"
     },
     {
      "title": "A big chunk of your 401(k) is likely invested in Nvidia",
@@ -2480,6 +2448,38 @@ window.INDUSTRY_DATA = {
      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
      "source": "MarketWatch",
      "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
+    },
+    {
+     "title": "Baidu Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4672582-baidu-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 17:35:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Baidu Q3 2026 Earnings Preview"
+    },
+    {
+     "title": "Pictet raises Japan allocation as it looks beyond AI stocks",
+     "link": "https://seekingalpha.com/news/4672813-pictet-raises-japan-allocation-as-it-looks-beyond-ai-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 17:20:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pictet raises Japan allocation as it looks beyond AI stocks"
+    },
+    {
+     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 21:32:00 GMT",
+     "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+     "source": "MarketWatch",
+     "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
+    },
+    {
+     "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+     "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 21:31:00 GMT",
+     "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+     "source": "MarketWatch",
+     "zh": "Budget airlines are going upscale with first-class seats and faster wifi"
     }
    ]
   },

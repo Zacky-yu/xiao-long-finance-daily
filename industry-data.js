@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 21:12:03",
+ "generated_at": "2026/11/16 21:32:19",
  "recent_days": 7,
  "industries": [
   {
@@ -32,14 +32,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月16日报道，今天，阿里AI办公产品千问办公 一口气上线了10款大模型 ，不仅包括自家今天刚刚发布的 新一代旗舰模型Qwen4-Max ，还引入了 Kimi、GLM、DeepSeek、MiniMax、Step 等多个第三方大模型。 这也意味着，千问办公 正式开放了模型选择这一功能 。 此前，千问办公主要提供标准、高级和Qwen3.8-Max三档模型供用户选择。此次升级后，用户可以根据任务复杂程度、模型响应速度和Token成本， 选择不同模型执行任务 。 值得关注的是，此次加入的Qwen4-Max，也是阿里今天刚",
      "source": "智东西",
      "zh": "终于！千问办公敞开大门，Kimi、GLM、DeepSeek都来了"
-    },
-    {
-     "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-     "link": "https://www.qbitai.com/2026/11/510542.html",
-     "pubDate": "Mon, 16 Nov 2026 10:57:31 +0000",
-     "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-     "source": "量子位",
-     "zh": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准"
     },
     {
      "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
@@ -98,14 +90,6 @@ window.INDUSTRY_DATA = {
      "zh": "抢先实测腾讯Hy4 flash，一口气做出黄仁勋MV，比DeepSeek更便宜"
     },
     {
-     "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-     "link": "https://www.qbitai.com/2026/11/510526.html",
-     "pubDate": "Mon, 16 Nov 2026 08:45:17 +0000",
-     "summary": "12月1日，细数AI的未竟之问。",
-     "source": "量子位",
-     "zh": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力"
-    },
-    {
      "title": "DeepSeek长对话受限，网友喊话梁文锋：收点钱吧！",
      "link": "https://zhidx.com/p/610697.html",
      "pubDate": "Mon, 16 Nov 2026 16:11:19 +0800",
@@ -114,44 +98,12 @@ window.INDUSTRY_DATA = {
      "zh": "DeepSeek长对话受限，网友喊话梁文锋：收点钱吧！"
     },
     {
-     "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-     "link": "https://www.qbitai.com/2026/11/510496.html",
-     "pubDate": "Mon, 16 Nov 2026 08:02:07 +0000",
-     "summary": "在华为待了快10000天。",
-     "source": "量子位",
-     "zh": "没搞过一天研发的他，50岁以华为董事的身份退休了"
-    },
-    {
-     "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-     "link": "https://www.qbitai.com/2026/11/510493.html",
-     "pubDate": "Mon, 16 Nov 2026 07:58:57 +0000",
-     "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-     "source": "量子位",
-     "zh": "SuperLink2026开启创投行业超级链接时刻，12月北京见"
-    },
-    {
-     "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-     "link": "https://www.qbitai.com/2026/11/510486.html",
-     "pubDate": "Mon, 16 Nov 2026 07:51:57 +0000",
-     "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-     "source": "量子位",
-     "zh": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景"
-    },
-    {
      "title": "超亿元！雷军投的AI制药公司又融资了",
      "link": "https://zhidx.com/p/610698.html",
      "pubDate": "Mon, 16 Nov 2026 15:39:02 +0800",
      "summary": "智东西 作者 | 孙小雯 编辑 | 程茜 智东西11月16日消息，今日，晶泰科技孵化的 北京AI制药创企 无界进化（INFevo）宣布完成 超亿元人民币Pre-A轮融资 。据无界进化透露，此次融资刷新中国虚拟细胞企业 单笔融资金额 记录。 这是无界进化 五个月内完成的第二轮 融资，本轮融资由 星连资本 、Prosperity7 Ventures等新投资方联合投资， 顺为资本 、红杉中国、松禾资本三家天使轮股东追加投资。 该公司计划将新资金主要用于基础大模型研发、高通量自动化实验体系扩容及产业生态建设。其研发平台面向靶点发现、药物筛选和临床方案优化等环节。 无界进化于2025年成立，主要研究范围",
      "source": "智东西",
      "zh": "超亿元！雷军投的AI制药公司又融资了"
-    },
-    {
-     "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
-     "link": "https://www.qbitai.com/2026/11/510436.html",
-     "pubDate": "Mon, 16 Nov 2026 07:26:33 +0000",
-     "summary": "余承东重新明确分工",
-     "source": "量子位",
-     "zh": "余承东发布新款问界M8：38万元起售，全系预埋L3架构"
     },
     {
      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
@@ -248,6 +200,54 @@ window.INDUSTRY_DATA = {
      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
      "source": "TechCrunch AI",
      "zh": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market"
+    },
+    {
+     "title": "A step toward defining the Standard Model on a lattice",
+     "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+     "pubDate": "Sun, 15 Nov 2026 22:00:01 GMT",
+     "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+     "source": "OpenAI",
+     "zh": "A step toward defining the Standard Model on a lattice"
+    },
+    {
+     "title": "Our new blog for science",
+     "link": "https://openai.com/index/our-new-blog-for-science",
+     "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
+     "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+     "source": "OpenAI",
+     "zh": "Our new blog for science"
+    },
+    {
+     "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+     "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+     "pubDate": "Sun, 15 Nov 2026 21:56:35 +0000",
+     "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+     "source": "TechCrunch AI",
+     "zh": "Is bad news for Jensen Huang also bad news for the AI industry?"
+    },
+    {
+     "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+     "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+     "pubDate": "Sun, 15 Nov 2026 20:20:57 +0000",
+     "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+     "source": "TechCrunch AI",
+     "zh": "SNL gathers all the tech tycoons for a lesson in dating and spycraft"
+    },
+    {
+     "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+     "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+     "pubDate": "Sun, 15 Nov 2026 10:06:21 +0000",
+     "summary": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls"
+    },
+    {
+     "title": "马斯克首次实现「筷子夹飞船」！SpaceX改写人类航天史",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652743221&idx=1&sn=2a8542318834714c7df2c914c0a6c1f5",
+     "pubDate": "Sun, 15 Nov 2026 13:52:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "马斯克首次实现「筷子夹飞船」！SpaceX改写人类航天史"
     }
    ]
   },
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Opinion: Moravec’s paradox explains why physical AI needs a sense of touch",
+     "link": "https://roboticsandautomationnews.com/2026/11/16/opinion-moravecs-paradox-explains-why-physical-ai-needs-a-sense-of-touch/107204/",
+     "pubDate": "Mon, 16 Nov 2026 13:18:22 +0000",
+     "summary": "Ron Zukerman, innovation director at Vishay Precision Group When people first started trying to build human‑like robots, the roadmap seemed clear. The assumption was simple: if something feels hard for us, it must be hard for machines too. So, we treated things like playing chess, doing advanced mat",
+     "source": "Robotics & Automation",
+     "zh": "Opinion: Moravec’s paradox explains why physical AI needs a sense of touch"
+    },
+    {
      "title": "GXO and Apptronik plan rollout of up to 1,000 humanoid robots",
      "link": "https://roboticsandautomationnews.com/2026/11/16/gxo-and-apptronik-plan-rollout-of-up-to-1000-humanoid-robots/107200/",
      "pubDate": "Mon, 16 Nov 2026 13:03:18 +0000",
@@ -552,14 +560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Avride says its autonomous delivery robots have completed one million deliveries across the United States, marking a milestone in the company’s expansion into urban neighborhoods and university campuses. The company reported completing 180,000 deliveries in October alone, while its operations have r",
      "source": "Robotics & Automation",
      "zh": "Avride reaches one million robot deliveries as network expands across US"
-    },
-    {
-     "title": "Wing and Walmart launch drone delivery service in Memphis",
-     "link": "https://roboticsandautomationnews.com/2026/11/15/wing-and-walmart-launch-drone-delivery-service-in-memphis/107176/",
-     "pubDate": "Sun, 15 Nov 2026 16:01:55 +0000",
-     "summary": "Wing has launched its drone delivery service in the Memphis metropolitan area in partnership with Walmart, extending its autonomous delivery network into Tennessee for the first time. The service is available to tens of thousands of households across parts of Tennessee and Arkansas, allowing eligibl",
-     "source": "Robotics & Automation",
-     "zh": "Wing and Walmart launch drone delivery service in Memphis"
     },
     {
      "title": "Why Skydio Built a Lopsided Drone",
@@ -1490,14 +1490,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1522,14 +1514,6 @@ window.INDUSTRY_DATA = {
      "zh": "What role does industry play in Europe’s space sovereignty push?"
     },
     {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
@@ -1544,14 +1528,6 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1794,6 +1770,22 @@ window.INDUSTRY_DATA = {
      "zh": "Dreamteam, which uses AI agents for CRM tasks like data capture and research, raised $53M across seed and Series A led by Together Fund and Accel, respectively (Jagmeet Singh/TechCrunch)"
     },
     {
+     "title": "布加迪车主平均年龄降至 42 岁，有藏家坐拥 14 台",
+     "link": "https://www.ithome.com/1/027/960.htm",
+     "pubDate": "Mon, 16 Nov 2026 13:01:52 GMT",
+     "summary": "IT之家 11 月 16 日消息，布加迪（Bugatti）通常与老钱家族、奢华生活方式以及收藏多年豪车的富豪联系在一起。不过，这家法国超豪华汽车品牌的客户群体正在变得年轻化。数据显示，布加迪客户的平均年龄已经从 52 岁降至约 42 岁。 这一数据来自布加迪美洲公司首席执行官萨沙 · 多林（Sascha Doering）。他在接受 ABC News 采访时表示，布加迪正受到越来越多年轻买家的关注。虽然他没有公布具体的客户年龄分布，但平均年龄下降了 10 岁，说明布加迪正在成功吸引新一代超级富豪汽车爱好者。 年轻客户增多，并不意味着布加迪的老客户正在失去兴趣。多林透露，北美有一位客户竟然拥有 1",
+     "source": "IT之家",
+     "zh": "布加迪车主平均年龄降至 42 岁，有藏家坐拥 14 台"
+    },
+    {
+     "title": "一汽-大众纯电轿车 ID. AURA L5 开启盲订：全系 CLTC 纯电续航 580KM、激光雷达上车",
+     "link": "https://www.ithome.com/1/027/959.htm",
+     "pubDate": "Mon, 16 Nov 2026 13:01:01 GMT",
+     "summary": "IT之家 11 月 16 日消息，一汽-大众旗下全新纯电轿车 ID. AURA L5 今日正式开启预订，新车是 ID. AURA 序列首款纯电家轿，全系 CLTC 纯电续航 580KM， 支付 99 元意向金可抵 2,000 元购车款 。 新车定位“智能大掀背、超级家轿”，与 ID. AURA T6 共同组成一汽-大众“新能源双子星”。共提供花雾紫、云雀灰、浅湾青、潮汐银、沐光金、初雪白六款外饰颜色。 其中，入门的 580 Plus 配备 17 英寸轮毂、电动尾门、主驾 6 向电动调节座椅、50W 风冷无线充电、10.25 英寸液晶仪表与 15.6 英寸 2.5K 中控屏，支持 L2 级辅助驾",
+     "source": "IT之家",
+     "zh": "一汽-大众纯电轿车 ID. AURA L5 开启盲订：全系 CLTC 纯电续航 580KM、激光雷达上车"
+    },
+    {
      "title": "After dodging death, battery startup Our Next Energy is now going public",
      "link": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
      "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
@@ -1824,6 +1816,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 中国证券报 ，作者：葛瑶 当地时间11月16日，美联储主席沃什将在旧金山联储举行的生产率与就业工作组会议上发表讲话。 这次会议将重点关注人工智能，听取企业界和学术界对经济增长、生产率及就业变化的看法。 讲话前夕，美国最新通胀数据陆续公布，市场加息预期明显升温。 根据芝商所（CME）FedWatch工具，市场预计12月加息的概率约为九成。截至美国中部时间11月15日，市场预计明年1月会议结束时，利率较当前提高50个基点的概率为68.8%，而11月6日时仅为15.8%。 除了是否释放新的加息信号，沃什对AI的看法同样值得关注。AI投资正在支撑美国经济，但能在多大程度上提高生产",
      "source": "虎嗅",
      "zh": "沃什讲话在即，AI给美联储带来新难题"
+    },
+    {
+     "title": "华为星芒 OSTA O1 Pro 新机更多配置信息曝光：新增无充电器版本，黑白紫三色可选",
+     "link": "https://www.ithome.com/1/027/958.htm",
+     "pubDate": "Mon, 16 Nov 2026 12:51:32 GMT",
+     "summary": "IT之家 11 月 16 日消息，本月早些时候，华为官宣，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。 随着发布会临近，华为全新子品牌 —— 星芒首款机型越来越多的配置信息曝光。今日早些时候，OSTA O1 Pro 真机谍照已在各大平台流出。画面显示，该机外观与 Pura X View 相近，但摄像头少了一枚，同时背板部分改用纯色设计。 据博主 @熊猫很禿然 透露，华为星芒 OSTA O1 Pro 搭载的是 Pura X View 同款麒麟 9030S 处理器 ，取消了超广角镜头、无线充电、北斗卫星消息等外围配置， 但新增 16GB 运存规格 ，并提",
+     "source": "IT之家",
+     "zh": "华为星芒 OSTA O1 Pro 新机更多配置信息曝光：新增无充电器版本，黑白紫三色可选"
     },
     {
      "title": "硬折扣全国混战，小玩家越来越难入场",
@@ -1882,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "OPPO Enco Clip2 耳夹式耳机新增“粉黛海”配色，首销优惠价 719.1 元"
     },
     {
-     "title": "巴菲特捐赠 55 亿美元伯克希尔股票，三个子女掌管的基金会均获赠",
-     "link": "https://www.ithome.com/1/027/953.htm",
-     "pubDate": "Mon, 16 Nov 2026 12:31:47 GMT",
-     "summary": "IT之家 11 月 16 日消息，亿万富翁沃伦 · 巴菲特（Warren Buffett）向四家慈善基金会捐赠了价值约 55 亿美元 （IT之家注：现汇率约合 367.31 亿元人民币） 的伯克希尔 · 哈撒韦（Berkshire Hathaway）股票，捐赠规模较去年进一步增加。 现年 96 岁的巴菲特将 6150 股伯克希尔 A 类股票转换为 922.5 万股 B 类股票，并将其中 369 万股捐赠给苏珊 · 汤普森 · 巴菲特基金会（The Susan Thompson Buffett Foundation），另外三家基金会各获得 184.5 万股，分别是舍伍德基金会（The Sherw",
-     "source": "IT之家",
-     "zh": "巴菲特捐赠 55 亿美元伯克希尔股票，三个子女掌管的基金会均获赠"
-    },
-    {
      "title": "首个“5万亿外贸大市”，正在换挡",
      "link": "https://www.huxiu.com/article/4906043.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 20:31:10 +0800",
@@ -1904,22 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 回声Pulse ，编辑：风雀，作者：查派 2026年11月，贾国龙把手里最后可以押的东西押了出去。 工商信息显示，他把自己直接持有的内蒙古西贝餐饮集团25.5986%股权、对应2660.4027万元出资额，全部质押给浦发银行北京分行；两个月前，妻子张丽平已将540.0005万元、5.1959%的直接持股押给工行呼和浩特如意开发区支行。至此，贾国龙夫妇合计占注册资本30.79%的直接股权，悉数进入质押状态。 从2025年9月深陷“预制菜风波”，到2026年初一次性关闭超百家门店，再到如今近乎“清空弹药”式的全额质押，西贝正经历创立近四十年来最严峻的大考。 但把时间轴拉长就会",
      "source": "虎嗅",
      "zh": "西贝还有救吗？"
-    },
-    {
-     "title": "R 星再次向《GTA6》推送游戏更新补丁：版本号 1.002.001，体积 602.5MB",
-     "link": "https://www.ithome.com/1/027/952.htm",
-     "pubDate": "Mon, 16 Nov 2026 12:28:04 GMT",
-     "summary": "IT之家 11 月 16 日消息，Rockstar 今天（16 日）再次向 PS5 和 XBOX Series X 平台推送了《GTA 6》更新补丁， 版本号为 1.002.001 。 目前，R 星暂未公布更新说明，外界仅知悉相应补丁体积为 602.5MB，暂无法判断补丁具体修改了什么，也不清楚为什么必须强制安装。 此外，R 星没有一次性向所有玩家推送补丁，而是 先向 33% 的游戏持有者开放下载 。剩下的玩家需要再等 11-23 小时才能收到更新。 据IT之家了解，《GTA 6》定于 11 月 19 日登陆 PS5、XBOX Series S 和 XBOX Series X，首发售价 80 ",
-     "source": "IT之家",
-     "zh": "R 星再次向《GTA6》推送游戏更新补丁：版本号 1.002.001，体积 602.5MB"
-    },
-    {
-     "title": "OPPO Reno17 系列手机洛天依联名礼盒公布：含限定立牌、水晶球等，3599 元起（国补后 3099 元起）",
-     "link": "https://www.ithome.com/1/027/951.htm",
-     "pubDate": "Mon, 16 Nov 2026 12:21:00 GMT",
-     "summary": "IT之家 11 月 16 日现场消息，在今天进行的 OPPO Reno17 系列手机发布会中，OPPO 介绍了旗下 Reno17 系列洛天依联名礼盒 / 限定镌刻版， 相应礼盒版本为免费赠送（需在下单时自行勾选） ，定制主题将于 11 月 20 日上线。 京东 OPPO Reno17 系列手机 下单时需勾选礼盒 3599 元起 直达链接 IT之家获悉，该礼盒主要收录限定立牌、水晶球、挂件、收藏卡套组。洛天依限定主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效",
-     "source": "IT之家",
-     "zh": "OPPO Reno17 系列手机洛天依联名礼盒公布：含限定立牌、水晶球等，3599 元起（国补后 3099 元起）"
     },
     {
      "title": "Wall Street&apos;s 10 biggest IPOs of 2026, including SpaceX, SK, and Cerebras, have fallen by an average of 20.5% from their offer prices, as the AI frenzy fades (Emily Herbert/Financial Times)",
@@ -1981,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
      "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
      "pubDate": "Mon, 16 Nov 2026 11:39:31 +0000",
-     "summary": "Article URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/ Comments URL: https://news.ycombinator.com/item?id=50516473 Points: 29 # Comments: 11",
+     "summary": "Article URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/ Comments URL: https://news.ycombinator.com/item?id=50516473 Points: 38 # Comments: 16",
      "source": "Hacker News",
      "zh": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)"
     },
@@ -2025,6 +2001,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "One UI 9.5 may let you set a custom greeting for Call Screening",
+     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-call-screening-custom-greeting-apk-teardown-3735507/",
+     "pubDate": "Mon, 16 Nov 2026 13:22:03 +0000",
+     "summary": "One UI 9.5 could let you break free from Call Screening’s default greeting.",
+     "source": "Android Authority",
+     "zh": "One UI 9.5 may let you set a custom greeting for Call Screening"
+    },
+    {
+     "title": "How to use your phone to find an Apple TV remote",
+     "link": "https://www.engadget.com/2313628/how-to-use-phone-find-apple-tv-remote/",
+     "pubDate": "Mon, 16 Nov 2026 13:15:00 +0000",
+     "summary": "Apple TV now lets you use your iPhone to find a lost remote, with onscreen prompts that guide you closer until you track it down somewhere in your home.",
+     "source": "Engadget",
+     "zh": "How to use your phone to find an Apple TV remote"
+    },
+    {
+     "title": "Samsung Galaxy S28 Pro and Ultra may get variable aperture cameras in 2028, leak says",
+     "link": "https://www.androidauthority.com/samsung-galaxy-s28-variable-aperture-camera-leak-3735527/",
+     "pubDate": "Mon, 16 Nov 2026 13:06:13 +0000",
+     "summary": "To no one's surprise, you can thank Apple for this if it pans out.",
+     "source": "Android Authority",
+     "zh": "Samsung Galaxy S28 Pro and Ultra may get variable aperture cameras in 2028, leak says"
+    },
     {
      "title": "New camera sensor coming to the iPhone 20 Pro’s main camera, says leaker",
      "link": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/",
@@ -2106,22 +2106,6 @@ window.INDUSTRY_DATA = {
      "zh": "Here’s your first look at Google Messages’ upcoming media editor integration"
     },
     {
-     "title": "Samsung phones could get a Travel Planner to help you prepare for your next trip",
-     "link": "https://www.androidauthority.com/samsung-galaxy-ai-travel-planner-apk-teardown-3735439/",
-     "pubDate": "Mon, 16 Nov 2026 11:15:13 +0000",
-     "summary": "It could pull in travel details from your emails and calendar events.",
-     "source": "Android Authority",
-     "zh": "Samsung phones could get a Travel Planner to help you prepare for your next trip"
-    },
-    {
-     "title": "Gemini Live could soon let you add Pikachu, Thanksgiving effects to your camera view",
-     "link": "https://www.androidauthority.com/gemini-live-genie-video-effects-apk-teardown-3735308/",
-     "pubDate": "Mon, 16 Nov 2026 11:10:31 +0000",
-     "summary": "Gemini Live camera sharing could become more interactive and entertaining with these effects.",
-     "source": "Android Authority",
-     "zh": "Gemini Live could soon let you add Pikachu, Thanksgiving effects to your camera view"
-    },
-    {
      "title": "This is what the camera island on the Galaxy S27 Pro and Ultra looks like",
      "link": "https://www.gsmarena.com/this_is_what_the_camera_island_on_the_galaxy_s27_pro_and_ultra_looks_like-news-75487.php",
      "pubDate": "Mon, 16 Nov 2026 11:34:02 +0100",
@@ -2184,14 +2168,6 @@ window.INDUSTRY_DATA = {
      "summary": "It may be more economical to hold onto gadgets for as long as possible, but you're putting your entire home network at risk with outdate hardware.",
      "source": "Engadget",
      "zh": "The oldest gadget in your house could be your home network's biggest security hole"
-    },
-    {
-     "title": "The pros and cons of using your phone as a mobile hotspot",
-     "link": "https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/",
-     "pubDate": "Mon, 16 Nov 2026 00:45:00 +0000",
-     "summary": "Using your phone to help other devices connect to the internet is undeniably convenient, but it also comes with other perks – and a few downsides.",
-     "source": "Engadget",
-     "zh": "The pros and cons of using your phone as a mobile hotspot"
     },
     {
      "title": "派早报：逾十万人次联署要求黄仁勋复职",
@@ -2274,52 +2250,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Virtuix Holdings Inc. reports Q2 results",
-     "link": "https://seekingalpha.com/news/4672958-virtuix-holdings-inc-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 08:08:18 -0500",
+     "title": "Eloxx Pharmaceuticals GAAP EPS of -$0.49 beats by $0.09",
+     "link": "https://seekingalpha.com/news/4672976-eloxx-pharmaceuticals-gaap-eps-of--049-beats-by-009?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 08:24:43 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Virtuix Holdings Inc. reports Q2 results"
+     "zh": "Eloxx Pharmaceuticals GAAP EPS of -$0.49 beats by $0.09"
     },
     {
-     "title": "Quebecor offers C$31B for Canadian telecom rival Telus",
-     "link": "https://seekingalpha.com/news/4672938-quebecor-offers-c31b-for-canadian-telecom-rival-telus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 08:06:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Quebecor offers C$31B for Canadian telecom rival Telus"
+     "title": "\"无聊才是美\"？BTIG：防御性板块的异常强势让人想起2000年泡沫破裂前夕",
+     "link": "https://wallstreetcn.com/articles/3786032",
+     "pubDate": "Mon, 16 Nov 2026 21:23:31 +0800",
+     "summary": "牙膏、饼干、香烟和波本威士忌，正在跑赢人工智能交易。 过去30天，标普500消费必需品板块对科技板块的超额表现达到33个百分点，为约25年来最大单月差距。 BTIG首席技术策略师Jonathan Krinsky指出，上一次出现类似走势，是2000年4月至2001年10月——正是互联网泡沫破裂的序幕。与此同时，科技股ETF QQQ已跌破过去两年最密集的成交量区间，任何反弹都可能遭遇大量套牢盘的抛压。 Krinsky在其最新周报《无聊才是美》中明确表态，开始\"看好\"消费必需品板块。消费必需品ETF（XLP）已突破多月整理区间，无论是绝对走势还是相对标普500的比值均同步突破。他将这一\"负面情绪叠加",
+     "source": "华尔街见闻",
+     "zh": "\"无聊才是美\"？BTIG：防御性板块的异常强势让人想起2000年泡沫破裂前夕"
     },
     {
-     "title": "Rubicon Organics reports Q3 results",
-     "link": "https://seekingalpha.com/news/4672957-rubicon-organics-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 08:06:26 -0500",
+     "title": "Neumora Therapeutics GAAP EPS of -$0.18 beats by $0.02",
+     "link": "https://seekingalpha.com/news/4672974-neumora-therapeutics-gaap-eps-of--018-beats-by-002?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 08:21:44 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Rubicon Organics reports Q3 results"
+     "zh": "Neumora Therapeutics GAAP EPS of -$0.18 beats by $0.02"
     },
     {
-     "title": "Outdoor Holding Company reports Q2 results",
-     "link": "https://seekingalpha.com/news/4672956-outdoor-holding-company-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 08:04:42 -0500",
+     "title": "Buffer ETFs explained: What investors need to know, according to J.P. Morgan",
+     "link": "https://seekingalpha.com/news/4672961-buffer-etfs-explained-what-investors-need-to-know-according-to-jp-morgan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 08:21:30 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Outdoor Holding Company reports Q2 results"
+     "zh": "Buffer ETFs explained: What investors need to know, according to J.P. Morgan"
     },
     {
-     "title": "GameSquare Holdings GAAP EPS of $0.79 beats by $0.95, revenue of $19M misses by $2.24M",
-     "link": "https://seekingalpha.com/news/4672955-gamesquare-holdings-gaap-eps-of-0_79-beats-by-0_95-revenue-of-19m-misses-by-2_24m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 08:03:57 -0500",
+     "title": "Apple targets June 2027 unveiling for AI smart glasses: report",
+     "link": "https://seekingalpha.com/news/4672960-apple-targets-june-2027-unveiling-for-ai-smart-glasses-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 08:20:31 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "GameSquare Holdings GAAP EPS of $0.79 beats by $0.95, revenue of $19M misses by $2.24M"
+     "zh": "Apple targets June 2027 unveiling for AI smart glasses: report"
     },
     {
-     "title": "Edible Garden AG reports Q3 results",
-     "link": "https://seekingalpha.com/news/4672954-edible-garden-ag-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 08:03:05 -0500",
+     "title": "Outdoor Holding shares gain on upbeat fiscal Q2 results",
+     "link": "https://seekingalpha.com/news/4672948-outdoor-holding-shares-gain-on-upbeat-fiscal-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 08:20:08 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Edible Garden AG reports Q3 results"
+     "zh": "Outdoor Holding shares gain on upbeat fiscal Q2 results"
+    },
+    {
+     "title": "Lexeo Therapeutics GAAP EPS of -$0.43 misses by $0.10",
+     "link": "https://seekingalpha.com/news/4672971-lexeo-therapeutics-gaap-eps-of--043-misses-by-010?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 08:19:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lexeo Therapeutics GAAP EPS of -$0.43 misses by $0.10"
+    },
+    {
+     "title": "三星、SK海力士、美光合谋制造内存短缺？美法官拒绝驳回反垄断诉讼",
+     "link": "https://wallstreetcn.com/articles/3786030",
+     "pubDate": "Mon, 16 Nov 2026 21:09:06 +0800",
+     "summary": "一名联邦法官裁定，指控三大内存芯片制造商合谋限制供应的集体诉讼可以继续推进，这一决定将迫使三星、SK海力士和美光公开内部文件，并为市场对内存价格异常飙升的持续担忧提供了新的法律注脚。 美国加利福尼亚州北区联邦法院法官Noël Wise于11月14日驳回三家被告联合提出的驳回动议，裁定原告诉状已充分陈述违反《谢尔曼法》第一条的合谋指控。三家公司须于12月7日前提交答辩状，随后进入取证程序。这是原告方迄今取得的最重要程序性胜利。 此案的宏观意义远超一般反垄断诉讼。 据高盛经济学家Megan Peters测算， AI驱动的内存、软件及电力价格上涨已令核心PCE增加逾0.2个百分点，预计年底前将累计贡",
+     "source": "华尔街见闻",
+     "zh": "三星、SK海力士、美光合谋制造内存短缺？美法官拒绝驳回反垄断诉讼"
     },
     {
      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs",
@@ -2442,36 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "周三英伟达财报焦点：没有黄仁勋，谁还能讲好AI故事？"
     },
     {
-     "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重",
-     "link": "https://wallstreetcn.com/articles/3786019",
-     "pubDate": "Mon, 16 Nov 2026 19:28:59 +0800",
-     "summary": "AI基础设施投资热潮出现新的降温信号。 半导体研究机构SemiAnalysis在11月13日发布的最新模型更新中， 大幅下调了未来数年AI加速器出货、资本开支、HBM需求和电力需求预测。 其中， 2028年至2030年的调整幅度尤为明显：2028年全球AI加速器资本开支预测被下调28%，2029年和2030年分别下调41%和40%。 按照最新模型，2030年全球AI加速器资本开支将从此前预测的1.531万亿美元降至9230亿美元，减少6080亿美元。与此同时， 2026年至2030年加速器逻辑硅片出货面积累计预测下调17%，英伟达占据其中66%的削减幅度。 在这轮预测调整中，英伟达受到的冲击最",
-     "source": "华尔街见闻",
-     "zh": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%，英伟达受冲击最严重"
-    },
-    {
      "title": "‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor",
      "link": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1",
      "pubDate": "Mon, 16 Nov 2026 11:00:03 GMT",
      "summary": "Superstar status of executives affects tech founders’ personal lives and their companies, says Lingotto’s James Anderson",
      "source": "Financial Times",
      "zh": "‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor"
-    },
-    {
-     "title": "NATO member Estonia to close Russia border after attempted &apos;sabotage&apos; of drone maker",
-     "link": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
-     "pubDate": "Mon, 16 Nov 2026 10:44:02 GMT",
-     "summary": "Estonia says closing the crossings would help curb hostile activity and sanctions circumvention.",
-     "source": "CNBC",
-     "zh": "NATO member Estonia to close Russia border after attempted &apos;sabotage&apos; of drone maker"
-    },
-    {
-     "title": "英伟达财报前夕，全球科技股普跌，纳指期货盘前跌1.7%，黄金、原油双双走低",
-     "link": "https://wallstreetcn.com/articles/3785999",
-     "pubDate": "Mon, 16 Nov 2026 18:36:19 +0800",
-     "summary": "科技股抛售情绪从上周延续至新的一周，投资者在英伟达高风险财报和Anthropic预期上市之前普遍规避风险资产，全球股市承压，亚太科技板块首当其冲。 纳斯达克100指数期货周一盘前下跌1.7%，此前该指数上周五已重挫1.2%。MSCI亚太股票指数下跌逾2%，亚洲科技股子指数创下近一个月最大单日跌幅。英伟达美股盘前跌1.9%，芯片股普遍走低。 英伟达当地时间周二的财报是全周焦点，这将是CEO黄仁勋遭解雇后新管理层首次公开发声，其公信力与业绩数据本身同等重要。 与此同时，AI独角兽Anthropic预计本周完成IPO，寻求通过股票发行及私募合计募资最高904亿美元。另有特朗普与中俄两国领导人的会谈也",
-     "source": "华尔街见闻",
-     "zh": "英伟达财报前夕，全球科技股普跌，纳指期货盘前跌1.7%，黄金、原油双双走低"
     },
     {
      "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
@@ -2512,6 +2480,14 @@ window.INDUSTRY_DATA = {
      "summary": "Tech supporters lobby chipmaker’s board to reinstate former head after he resigned following affair with alleged Chinese spy",
      "source": "Financial Times",
      "zh": "Jensen Huang discusses comeback as Nvidia CEO with allies"
+    },
+    {
+     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+     "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+     "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
+     "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+     "source": "CNBC",
+     "zh": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
     }
    ]
   },

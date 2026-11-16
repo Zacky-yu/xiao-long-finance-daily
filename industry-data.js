@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 19:48:44",
+ "generated_at": "2026/11/16 19:52:02",
  "recent_days": 7,
  "industries": [
   {
@@ -1490,6 +1490,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1514,6 +1522,14 @@ window.INDUSTRY_DATA = {
      "zh": "What role does industry play in Europe’s space sovereignty push?"
     },
     {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
@@ -1528,6 +1544,14 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1762,6 +1786,22 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon&apos;s Prime Air drone service, which operates across 18 sites in 10 US states, is drawing local opposition; its Baton Rouge hub launches ~30 drones per hour (Kris Maher/Wall Street Journal)"
     },
     {
+     "title": "康师傅没做成的生意，好欢螺能做成吗？",
+     "link": "https://www.huxiu.com/article/4906028.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 19:39:41 +0800",
+     "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：洪君 好欢螺的旧战场和新战事。 卖袋装螺蛳粉，好欢螺已经足够出名了。 不过，它最近似乎觉得，只赚现在手头上的钱还不够。 11月3日，好欢螺在乌鲁木齐开出堂食门店，主要围绕“螺蛳粉+卤味+糖水”进行产品组合，螺蛳粉类产品单价多在20元左右，其中柳州经典螺蛳粉售价为18元。 △图片来源：小红书截图 与此同时，好欢螺还在西安筹备了三家新店。 过去十多年，袋装螺蛳粉几乎承载了整个品类全国化的增长故事。谈起这个市场的头部品牌，好欢螺总是绕不过去的名字。 如今，当袋装螺蛳粉的增长不再像从前那么容易，好欢螺也开始走出自己的舒适区了。 好欢螺，为什么又盯",
+     "source": "虎嗅",
+     "zh": "康师傅没做成的生意，好欢螺能做成吗？"
+    },
+    {
+     "title": "世界第一斯坦国，中国创业者正在大量涌入",
+     "link": "https://www.huxiu.com/article/4906027.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 19:39:24 +0800",
+     "summary": "本文来自微信公众号： 霞光社 ，作者：李小天 “今年在哈国立附近租房好难，感觉好多地段都涨价了，想早点开始看房源又怕不能预定那么久，想到时候落地再找又怕找不到合适的，而且很多同学都说这个学期开始都会变得不太好租房，感觉在阿拉木图生活成本越来越高了。” 今年9月，来到哈萨克斯坦第一学府留学的Leo，发现哈萨克经济中心阿拉木图的租房费用大幅上涨。 他的感知并非孤例。事实上，中亚第一大经济体哈萨克斯坦，此时正在经历房价快速飙升的经济上行期。根据战略规划和改革局国家统计局（BNS）公布的数据，2026年9月与2025年9月相比，哈萨克斯坦全套住房的租金上涨了16.7%，新房价格上涨了10.9%，二手房",
+     "source": "虎嗅",
+     "zh": "世界第一斯坦国，中国创业者正在大量涌入"
+    },
+    {
      "title": "AI变量下的多线博弈，面板行业迎来新卡位战",
      "link": "https://www.tmtpost.com/8206976.html",
      "pubDate": "Mon, 16 Nov 2026 19:30:16 +0800",
@@ -1816,6 +1856,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | Chanel中国新官上任》 Chanel老臣没有完全退场，新格局却已大体成形 全球高层调整接近尾声，洗牌已向下渗透，Chanel中国团队也迎来调整。 据法国媒体Meet&Match援引领英履历报道，Cédric Raynaud已于自2026年9月起常驻上海，出任Chanel中国大陆时装分部总经理，负责品牌在中国大陆市场的时装业务。 Cédric Raynaud于2016年加入Chanel，此前负责澳大利亚地区的时装和钟表珠宝业务，更早之前还曾管理中东与印度地区的时装业务，在加入Chanel之前，他曾在Chris",
      "source": "虎嗅",
      "zh": "Chanel中国新官上任"
+    },
+    {
+     "title": "《怪物猎人：荒野》性能问题耗时近一年才修复，卡普空暗示若无 RE 引擎需更久",
+     "link": "https://www.ithome.com/1/027/924.htm",
+     "pubDate": "Mon, 16 Nov 2026 11:26:11 GMT",
+     "summary": "IT之家 11 月 16 日消息，《怪物猎人：荒野》（Monster Hunter Wilds）无疑是系列中一款相当出色的作品，但一个不争的事实是，这款由卡普空（CAPCOM）开发、登陆 PC、PlayStation 5、Xbox Series X 和 Xbox Series S 平台的游戏，在发售时各个平台的技术表现都不尽如人意。开发团队几乎花了一年时间，才将游戏性能优化到原本应该在发售时达到的水平。 不过，根据游戏制作人辻本良三（Ryozo Tsujimoto）近日的说法，如果没有 RE Engine 引擎，修复游戏可能还需要更长时间。 IT之家注意到，在 2026 年 gamescom ",
+     "source": "IT之家",
+     "zh": "《怪物猎人：荒野》性能问题耗时近一年才修复，卡普空暗示若无 RE 引擎需更久"
     },
     {
      "title": "London-based Plural raised a €1B fund to back European startups, one of only a handful of European VCs that raised €1B+ in one go, planning to back 30+ startups (Financial Times)",
@@ -1906,22 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "明基上架 AK900ST AI 高尔夫投影机：6000lm 亮度、短焦镜头设计，52999 元"
     },
     {
-     "title": "最新电车单月仅卖842辆，北京现代为失去的四年买单",
-     "link": "https://www.huxiu.com/article/4906018.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 19:07:43 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：刘泽然 武凯 一款起售价不到10万元、使用宁德时代电池、高通8295P座舱芯片和Momenta辅助驾驶方案的纯电轿车，上市后首个完整销售月销量为842辆。 这是北京现代在今年9月推出的全新纯电车型艾尼氪V，也是其近四年电动化转型中倾注资源的新产品。公开资料显示，艾尼氪V由现代汽车中国设计中心主导开发，依托超过1500人的本土研发团队，由中国团队负责产品定义、功能配置和内外饰设计。 艾尼氪V承担着艾尼氪品牌进入中国，验证北京现代本土化转型成果的重要任务，其售价和核心配置已经进入10万元级纯电轿车的主流区间。但是，这没有改变北京现代在新能源汽车市场的边缘位置",
-     "source": "虎嗅",
-     "zh": "最新电车单月仅卖842辆，北京现代为失去的四年买单"
-    },
-    {
-     "title": "硅谷风向变了，最前沿的AI公司，开始抢传统生意了",
-     "link": "https://www.huxiu.com/article/4906017.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 19:07:06 +0800",
-     "summary": "本文来自微信公众号： 硅基观察Pro ，作者：硅基君，原文标题：《硅谷风向变了！最前沿的AI公司，开始抢传统生意了》 谁能想到，最前沿的AI创业公司，开始抢着干最传统的生意。 最近一两年，硅谷有一个明显趋势，一批AI创业公司不再满足于向企业出售软件，而是直接下场，收购律所、会计事务所、保险代理机构，甚至物业管理公司。 据不完全统计，全球已经有32家AI相关企业收购或直接经营传统服务业务。其中，会计税务领域最多，达到9家；法律服务5家；保险、客服和物业管理各3家。 这件事情很有意思。 过去二十年，软件行业最成功的商业模式之一，就是向传统企业出售工具，通过提高客户的经营效率赚取订阅费。 但现在，一",
-     "source": "虎嗅",
-     "zh": "硅谷风向变了，最前沿的AI公司，开始抢传统生意了"
-    },
-    {
      "title": "Coffeehouses and the Rise of Science [pdf]",
      "link": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
      "pubDate": "Mon, 16 Nov 2026 11:03:16 +0000",
@@ -1968,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 16 日消息，KTC 现已在京东上架型号为“H32U6P”的 31.5 英寸显示器，该机为 4K 60hz 规格， 定价为 1399 元 。 京东 KTC“H32U6P”显示器 1399 元 直达链接 该机配备一块 3840x2160 分辨率 60Hz 侧入式背光 Fast IPS 面板，显示器亮度 300 尼特，对比度 3000:1，显示器支持 8-Bit 色彩，覆盖 100% sRGB 色域。 该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供 1 个 HDMI 2.0、1 个 DP 1.4、1 个 USB-C（开机 65W / 待机 90W）、",
      "source": "IT之家",
      "zh": "KTC 推出“H32U6P”31.5 英寸显示器：4K 60Hz 配 90W USB-C，1399 元"
-    },
-    {
-     "title": "U 盘屏幕也能跑《毁灭战士》，靠文件复制就能玩",
-     "link": "https://www.ithome.com/1/027/917.htm",
-     "pubDate": "Mon, 16 Nov 2026 10:43:35 GMT",
-     "summary": "IT之家 11 月 16 日消息，现在，《毁灭战士》（Doom）甚至能在 U 盘自带的 LCD 屏幕上运行，玩家只需通过与 U 盘之间复制文件就能游玩。硬件改装爱好者亚伦 · 克里斯托费尔（Aaron Christophel）在一段拆解视频中展示了这一成果。 这款 U 盘显示芯片上的型号标识已经被人为抹除，不过，克里斯托费尔发现设备保留了开放的调试接口，于是通过该接口提取了芯片固件，并据此确定了芯片型号。随后，他借助 AI 对硬件进行逆向分析，最终成功让《毁灭战士》在 U 盘屏幕上运行。 这款现成的产品名为 MOVESPEED MSSU10，一端配备 USB-A 接口，另一端配备 USB-C ",
-     "source": "IT之家",
-     "zh": "U 盘屏幕也能跑《毁灭战士》，靠文件复制就能玩"
     },
     {
      "title": "Baidu reports Q3 revenue down 1% YOY to ~$4.6B, its sixth straight quarterly sales decline, and net income of ~$210M; AI businesses are now 50%+ of its revenue (Bloomberg)",
@@ -2250,6 +2274,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Roadzen raises $10M for India subsidiary at $300M valuation",
+     "link": "https://seekingalpha.com/news/4672909-roadzen-raises-10m-for-india-subsidiary-at-300m-valuation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 06:46:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Roadzen raises $10M for India subsidiary at $300M valuation"
+    },
+    {
+     "title": "Dawson Geophysical GAAP EPS of -$0.17, revenue of $11.4M",
+     "link": "https://seekingalpha.com/news/4672911-dawson-geophysical-gaap-eps-of--017-revenue-of-114m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 06:46:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dawson Geophysical GAAP EPS of -$0.17, revenue of $11.4M"
+    },
+    {
+     "title": "TOYO GAAP EPS of $0.10 misses by $0.21, revenue of $129M misses by $12.15M",
+     "link": "https://seekingalpha.com/news/4672910-toyo-gaap-eps-of-010-misses-by-021-revenue-of-129m-misses-by-1215m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 06:44:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TOYO GAAP EPS of $0.10 misses by $0.21, revenue of $129M misses by $12.15M"
+    },
+    {
      "title": "Airline stocks fall modestly after the weekend of flight disruption",
      "link": "https://seekingalpha.com/news/4672816-airline-stocks-fall-modestly-after-weekend-of-flight-disruption?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 16 Nov 2026 06:42:10 -0500",
@@ -2282,30 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "Vivani Medical raises $5.1M through private placement with board members"
     },
     {
-     "title": "Creative Media & Community Trust FFO of -$1.30 misses by $0.28, revenue of $27.4M beats by $6.2M",
-     "link": "https://seekingalpha.com/news/4672906-creative-media-community-trust-ffo-of-130-misses-by-028-revenue-of-274m-beats-by-62m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 06:23:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Creative Media & Community Trust FFO of -$1.30 misses by $0.28, revenue of $27.4M beats by $6.2M"
-    },
-    {
-     "title": "Nvidia shares slip as succession talk builds",
-     "link": "https://seekingalpha.com/news/4672903-nvidia-shares-slip-as-succession-talk-builds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 06:22:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia shares slip as succession talk builds"
-    },
-    {
-     "title": "Reliance leads materials stocks with biggest Q3 earnings surprise",
-     "link": "https://seekingalpha.com/news/4672895-reliance-leads-materials-stocks-with-biggest-q3-earnings-surprise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 06:17:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Reliance leads materials stocks with biggest Q3 earnings surprise"
-    },
-    {
      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 11:15:00 GMT",
@@ -2322,12 +2346,68 @@ window.INDUSTRY_DATA = {
      "zh": "Why Nvidia can avoid the fate of most stocks that reached the apex by market cap, according to one strategist"
     },
     {
+     "title": "‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor",
+     "link": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 GMT",
+     "summary": "Superstar status of executives affects tech founders’ personal lives and their companies, says Lingotto’s James Anderson",
+     "source": "Financial Times",
+     "zh": "‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor"
+    },
+    {
+     "title": "乌克兰军方称袭击了俄罗斯亚速城的两处油库",
+     "link": "http://finance.eastmoney.com/news/1356,202611163931925780.html",
+     "pubDate": "Mon, 16 Nov 2026 18:55:33 +0800",
+     "summary": "乌克兰军方称，袭击了俄罗斯亚速城的两处油库。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "乌克兰军方称袭击了俄罗斯亚速城的两处油库"
+    },
+    {
+     "title": "【调研快报】天力复合接待华泰证券等12家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611163931925327.html",
+     "pubDate": "Mon, 16 Nov 2026 18:54:19 +0800",
+     "summary": "天力复合 11月16日公告称， 11月12日至11月13日 接待 华泰证券 等12家机构 调研。 接待人员包括财务负责人 蒙歆元,董事会秘书 何波,证券事务代表 李越洋。 公司就以下问题进行了回复： 问题1:能否按原材料区分一下公司的产品类别,还有价格波动是否会对公司相关产品的盈利能力带来影响? 回答:公司生产的层状金属复合材料根据复层材质的不同而区分产品的种类,大致上可以分为两个类别,分别是钛金属复合材料和其他金属复合材料。其中钛金属复合材料是公司生产的最主要的产品,其他金属复合材料根据复层材... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自",
+     "source": "东方财富股票",
+     "zh": "【调研快报】天力复合接待华泰证券等12家机构调研"
+    },
+    {
+     "title": "建发股份应邀参加B20峰会 深化全球工商交流与供应链合作",
+     "link": "http://finance.eastmoney.com/news/1354,202611163931925526.html",
+     "pubDate": "Mon, 16 Nov 2026 18:52:08 +0800",
+     "summary": "11月9日至11日，2026年二十国集团工商峰会（B20峰会）在美国华盛顿举行。 建发股份 （600153.SH）总经理吕荣典作为中国企业代表之一应邀参会，围绕国际贸易与供应链、全球经济增长与投资等议题同全球工商代表深入交流。 本届峰会以“Accelerating Global Growth（加速全球经济增长）”为主题，聚焦全球投资、产业链供应链韧性与稳定、技术创新和能源合作、数字化与绿色低碳转型等重要议题，与会各方开展深入研讨，凝聚全球工商界共识，并为二十国集团（G20）领导人提供工商界政策建议。 吕荣典在接受采访时表示，信任是推动合作的重要基石，人与人之间、企业之间以及国家之间的信任，对世",
+     "source": "东方财富股票",
+     "zh": "建发股份应邀参加B20峰会 深化全球工商交流与供应链合作"
+    },
+    {
+     "title": "晶盛机电：拟1亿元至2亿元回购公司股份",
+     "link": "http://finance.eastmoney.com/news/1354,202611163931925418.html",
+     "pubDate": "Mon, 16 Nov 2026 18:52:01 +0800",
+     "summary": "晶盛机电 (300316.SZ)公告称，公司董事会审议通过回购股份方案，拟以自有资金及/或自筹资金通过集中竞价方式回购公司A股股票，回购资金总额不低于1亿元且不超过2亿元，回购价格不超过48元/股。回购股份拟用于实施 股权激励 或员工持股计划，回购期限为自董事会审议通过之日起12个月内。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "晶盛机电：拟1亿元至2亿元回购公司股份"
+    },
+    {
      "title": "部分银行美元存款利率突破4% 投资者还想等等看",
      "link": "http://www.eeo.com.cn/2026/1116/1094423.shtml",
      "pubDate": "Mon, 16 Nov 2026 18:51:51 +0800",
      "summary": "有银行客户经理表示，对于储户来说，美元存款的吸引力需要从利息收益和汇率变化两个维度综合衡量。",
      "source": "经济观察网",
      "zh": "部分银行美元存款利率突破4% 投资者还想等等看"
+    },
+    {
+     "title": "受数据中心设备和汽车进口驱动，挪威10月进口额创历史新高",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931924727.html",
+     "pubDate": "Mon, 16 Nov 2026 18:50:55 +0800",
+     "summary": "服务器及其他IT设备的采购推动挪威上月进口额升至 历史新高 ，但在该国停止 数据中心 新电网连接后，这一趋势可能被打断。挪威统计局声明表示，10月份挪威的商品进口额为1080亿克朗（约113亿美元），创下单月名义价值新高，较前一个月增长了3.9%。该机构指出，这一增长主要得益于 数据中心 设备和 乘用车 进口的增加。此前，挪威政府正面临日益增长的政治压力，要求其遏制 数据中心 的无序扩张，因为这些设施正威胁到其他行业对 电力 的需求。挪威电网运营商Statnett AS上周宣布，暂停为数据中心预留新的 电力 接入，为期一年。统计局称，10月份数据中心设备的进口额超过80亿克朗，使得今年以来的此",
+     "source": "东方财富股票",
+     "zh": "受数据中心设备和汽车进口驱动，挪威10月进口额创历史新高"
+    },
+    {
+     "title": "侨银股份称已足额筹措“侨银转债”到期兑付资金",
+     "link": "http://stock.eastmoney.com/news/11219,202611163931924293.html",
+     "pubDate": "Mon, 16 Nov 2026 18:50:16 +0800",
+     "summary": "新华财经北京11月16日电 侨银股份 16日公告称，公司已足额筹措“侨银转债”到期兑付资金，并完成资金缴付，兑付资金将于11月17日划入相关持有人资金账户，公司可按期足额兑付“侨银转债”本息。 公告显示，“侨银转债”（债券代码：128138）到期日和兑付登记日为2026年11月16日，到期兑付价格为130元人民币／张（含税及最后一期年度利息），停止交易日为2026年11月12日，最后转股日为2026年11月16日，摘牌日为2026年11月17日，到期兑付资金发放日为2026年11月17日。自2026年11月17日起，“侨银转债”将在深圳证券交易所摘牌。 此前，公司就“侨银转债”兑付风险先后曾于",
+     "source": "东方财富股票",
+     "zh": "侨银股份称已足额筹措“侨银转债”到期兑付资金"
     },
     {
      "title": "NATO member Estonia to close Russia border after attempted &apos;sabotage&apos; of drone maker",
@@ -2432,62 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月16日共有61只个股（含2只可转债）上榜龙虎榜，总上榜成交额200.77亿元。上榜个股中净买入额最高的是 沪电股份 ，金额为4.57亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
      "source": "东方财富资讯",
      "zh": "11月16日龙虎榜复盘：沪电股份净买额居首"
-    },
-    {
-     "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
-     "link": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
-     "pubDate": "Mon, 16 Nov 2026 10:00:01 GMT",
-     "summary": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company.",
-     "source": "CNBC",
-     "zh": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting"
-    },
-    {
-     "title": "豆包工作上线21个场景工作台，降低技能与工具配置门槛",
-     "link": "https://wallstreetcn.com/articles/3786017",
-     "pubDate": "Mon, 16 Nov 2026 17:30:19 +0800",
-     "summary": "AI办公功能不断增加，选择和配置工具也成了一道使用门槛。 11月16日，字节跳动旗下AI办公产品豆包工作上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，将常用技能和工具提前配置到对应空间。 目前，该功能已在豆包工作电脑版和豆包电脑版上线。 此前，豆包工作持续扩充功能。 11月4日，产品接入抖音生活服务经营、巨量本地推和TikTok for Business等插件，支持经营数据查询和广告复盘；11月12日，又扩大第三方模型的开放范围，让用户按任务选择模型、比较额度消耗。 功能丰富之后，使用路径也需要整理。面对一项具体工作，用户要判断需要哪些技能、连接什么数据，再把工具组合",
-     "source": "华尔街见闻",
-     "zh": "豆包工作上线21个场景工作台，降低技能与工具配置门槛"
-    },
-    {
-     "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
-     "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
-     "pubDate": "Mon, 16 Nov 2026 09:14:46 GMT",
-     "summary": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools",
-     "source": "CNBC",
-     "zh": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion"
-    },
-    {
-     "title": "百度Q3营收308亿元符合预期，AI云收入暴增94%，现金及投资总额2766亿元，自由现金流持续为负 | 财报见闻",
-     "link": "https://wallstreetcn.com/articles/3786013",
-     "pubDate": "Mon, 16 Nov 2026 17:04:55 +0800",
-     "summary": "百度发布2026年第三季度财报，整体营收308亿元人民币，与市场预期基本吻合。 尽管在线营销业务持续承压，AI战略的落地正在重塑百度的收入结构——本季度百度核心AI新业务收入达132亿元，占百度一般性业务收入比例升至53%，首度超过半数，标志着这家公司从搜索引擎向AI公司的转型迈过了一个重要里程碑。 盈利层面超出预期是本季亮点之一。经调整每ADS利润达6.78元，显著高于市场预估的6.02元；经调整EBITDA为44.9亿元，同样大幅超出预期的39.6亿元。尽管GAAP口径下经营利润率仅为2%，但剔除非现金及非经营项目后，非公认会计准则经营利润率为6%，非公认会计准则净利润率为8%，显示核心业",
-     "source": "华尔街见闻",
-     "zh": "百度Q3营收308亿元符合预期，AI云收入暴增94%，现金及投资总额2766亿元，自由现金流持续为负 | 财报见闻"
-    },
-    {
-     "title": "华为云发布具身世界模型，回应与机器人公司的竞争",
-     "link": "https://wallstreetcn.com/articles/3786012",
-     "pubDate": "Mon, 16 Nov 2026 16:42:56 +0800",
-     "summary": "华为云开始亲自下场训练具身智能的“大脑”。 11月16日，在华为云CloudRobo具身世界模型发布会上，华为云正式发布昇腾原生具身世界模型CloudRobo-WM1.2，并宣布将其开源。 这款模型能够在理解物理环境的基础上预测未来变化，并直接生成机器人动作。按照华为云披露的测试结果，其在RoboTwin 2.0、LIBERO Pro 2.0等具身智能评测基准中取得第一名。 不过，相较于模型本身的技术突破，更为现实的问题是当云厂商开始自己研发具身智能模型，其与原本依赖其算力和平台的模型公司的潜在竞争关系。 华为云具身产品线总裁、具身智能Lab主任吴小东在发布会上回应：“我们以后会不会直接变成竞",
-     "source": "华尔街见闻",
-     "zh": "华为云发布具身世界模型，回应与机器人公司的竞争"
-    },
-    {
-     "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-     "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-     "pubDate": "Mon, 16 Nov 2026 08:38:16 GMT",
-     "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
-     "source": "CNBC",
-     "zh": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?"
-    },
-    {
-     "title": "逼近3800关口！美加息预期升温，黄金跌至逾一年新低",
-     "link": "https://wallstreetcn.com/articles/3786011",
-     "pubDate": "Mon, 16 Nov 2026 16:37:51 +0800",
-     "summary": "美国通胀持续超预期，令市场对美联储明年继续加息的押注骤然升温，黄金承压大跌至2025年10月以来最低水平，逼近每盎司3800美元关口。与此同时，科技股遭抛售引发的连锁反应，也加剧了贵金属的下行压力。 11月16日，金价一度下跌1.3%，至每盎司3830美元附近。截至目前，现货黄金下跌0.6%，报每盎司3856美元。白银跌幅更为显著，下跌2.7%至每盎司47.43美元，创去年11月以来新低；铂金和钯金同步走低。 美国消费者价格指数（CPI）连续第三个月高于预期，直接触发了此轮抛售。交易员随即加大对美联储明年进一步收紧货币政策的押注，推高国债收益率，令不生息的黄金吸引力大打折扣。 此外，市场对AI",
-     "source": "华尔街见闻",
-     "zh": "逼近3800关口！美加息预期升温，黄金跌至逾一年新低"
     }
    ]
   },

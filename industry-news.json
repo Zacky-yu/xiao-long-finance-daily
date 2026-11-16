@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/16 09:11:55",
+ "generated_at": "2026/11/16 09:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -1105,6 +1105,14 @@
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Apple and OpenEvidence launch experimental health chat app",
+     "link": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/?utm_campaign=rss",
+     "pubDate": "Mon, 16 Nov 2026 01:25:43 +0000",
+     "summary": "Apple and OpenEvidence are launching a study based around an experimental AI-powered health chat app, hinting at possible new directions for both companies.",
+     "source": "STAT News",
+     "zh": "STAT+: Apple and OpenEvidence launch experimental health chat app"
+    },
+    {
      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
      "link": "https://www.genengnews.com/topics/artificial-intelligence/stockwatch-amid-nvidia-turmoil-what-happens-to-its-life-sciences-collaborations/",
      "pubDate": "Sun, 15 Nov 2026 21:57:19 +0000",
@@ -1215,14 +1223,6 @@
      "summary": "MARLBOROUGH, MA — Moderna is “on track and ready” to make thousands of doses of its Merck-partnered cancer vaccine as it prepares to file a marketing application by the end of this year with the FDA ...",
      "source": "Endpoints News",
      "zh": "Moderna readies commercial cancer vaccine production ahead of FDA filing"
-    },
-    {
-     "title": "STAT+: Up and down the ladder: The latest comings and goings",
-     "link": "https://www.statnews.com/pharmalot/2026/11/13/up-down-ladder-jobs-pharma-biotech-2/?utm_campaign=rss",
-     "pubDate": "Fri, 13 Nov 2026 15:48:14 +0000",
-     "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-     "source": "STAT News",
-     "zh": "STAT+：上下阶梯：最新动态"
     },
     {
      "title": "Downstream Processing: Purifying Complex Antibody Therapeutics When Target Molecules Misbehave",
@@ -1769,20 +1769,148 @@
    "total": 18,
    "items": [
     {
-     "title": "黄仁勋不是被“整”下台：这颗雷早在中期选举之前就埋好了",
-     "link": "https://www.huxiu.com/article/4905783.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 09:00:58 +0800",
-     "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 自从英伟达创始人黄仁勋承认出轨陷入危机到如今他已经辞去在英伟达的一切职务，这场涉及婚外情、情报收集、美国政府高科技出口管制的风波引发各方猜测。 最流行的说法是政治原因导致黄仁勋被整。有不少人说这是民主党中期大选大胜后要拿AI开刀，也有说这是美国政府内部的对华鹰派要搞掉黄仁勋。此外还有少量声音指责英伟达董事会落井下石。 其实如果我们梳理黄仁勋卷入Megaspeed、多段婚外情风波，会发现他被迫离开自己一手创建的英伟达，这个结局在很早以前就埋下了——远早于中期选举，甚至早于他和特朗普成为好友。 让黄仁勋在英伟达的处境变得岌岌可危的，",
-     "source": "虎嗅",
-     "zh": "黄仁勋不是被“整”下台：这颗雷早在中期选举之前就埋好了"
+     "title": "在墨西哥，工资不存银行，存滴滴",
+     "link": "https://www.tmtpost.com/8205992.html",
+     "pubDate": "Mon, 16 Nov 2026 09:22:00 +0800",
+     "summary": "滴滴的出海之路。",
+     "source": "钛媒体",
+     "zh": "在墨西哥，工资不存银行，存滴滴"
     },
     {
-     "title": "特斯拉在中国遭遇“滑铁卢”了吗？",
-     "link": "https://www.huxiu.com/article/4905782.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:55:46 +0800",
-     "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进 2026年10月，特斯拉在中国国内零售8817辆——一个月前，这个数字是64837辆。 环比下降86.4%，这是2022年7月以来的单月低点。其中，Model Y从9月的50359辆降至7807辆，其余1010辆是Model 3。同月，上海工厂出口59012辆，占当月批发量约87%。 变化如此剧烈，难免让人问一句：特斯拉在中国遭遇“滑铁卢”了吗？ 只凭这一个月，下不了这个结论。排产、假期、出口安排和零部件供应，都可能影响单月交付。8817辆背后，究竟是订单不足还是交付受限，还需要查清。 把时间拉长，疑问却绕不开。今年前十",
+     "title": "黄仁勋与盟友商讨重返CEO计划，贝森特则敦促英伟达选外部人士",
+     "link": "https://www.huxiu.com/article/4905787.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 09:20:09 +0800",
+     "summary": "本文来自： 华尔街见闻 ，作者：龙玥，原文标题：《公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择&ldquo;外部人士&rdquo;》，题图来自：视觉中国 据报道，黄仁勋已与亲信讨论复职，盟友正在硅谷组建&ldquo;战情室&rdquo;并寻求白宫支持，马斯克等人联署公开信签名逾10万。但财政部长贝森特公开唱反调，要求英伟达从外部引入新CEO，并在10天内就对相关芯片销售合规问题作出答复。 黄仁勋辞职数日后，围绕英伟达CEO职位的争夺已演变为一场公开博弈。一边是硅谷盟友为其回归积极奔走，另一边是美国财政部长贝森特高调施压，要求彻底换血。 11月15日，据英国《金融时报》报道",
      "source": "虎嗅",
-     "zh": "特斯拉在中国遭遇“滑铁卢”了吗？"
+     "zh": "黄仁勋与盟友商讨重返CEO计划，贝森特则敦促英伟达选外部人士"
+    },
+    {
+     "title": "谁能熬过具身寒冬？",
+     "link": "https://www.huxiu.com/article/4905792.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 09:16:23 +0800",
+     "summary": "本文来自微信公众号： 定焦One ，作者：定焦one团队，编辑：魏佳 从拼融资，到拼真本事。 定焦One（dingjiaoone）原创 张硕一周前从一家具身智能公司离职。这家公司成立不到三年，融资已到B轮，主要产品是四足机器狗。他负责to B大客户销售，去年下半年还曾签下几笔大单。 今年七八月份，情况开始变化。项目尾款被一再拖延，为了拿到一张验收单，他有时要跑四五趟客户的工厂。客户给出的答复大同小异，产品运行不稳定，尚未达到验收标准，尾款要再等等。 与此同时，公司过去几个月持续削减开支。上个月，老板在一次内部会上说，如果没有新的融资进来，公司最多还能维持8个月。张硕随后决定离开。 具身智能行业",
+     "source": "虎嗅",
+     "zh": "谁能熬过具身寒冬？"
+    },
+    {
+     "title": "40颗卫星一夜损失，亚马逊买的火箭为何靠不住？",
+     "link": "https://www.huxiu.com/article/4905791.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 09:16:23 +0800",
+     "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 亚马逊已经制造超过1000颗卫星，成功送入太空的却只有约400颗。今天凌晨，一枚火箭又让它损失了40颗卫星。 北京时间11月16日1时40分，美国联合发射联盟（ULA）的火神-半人马座（Vulcan Centaur）运载火箭从卡纳维拉尔角升空。约10分钟后，火箭发生异常，搭载的40颗Amazon Leo宽带互联网卫星未能进入轨道。 这是ULA成立20年来首次完整任务失败。火神火箭时隔9个月重返发射台，却未能完成预定任务，事故原因仍有待调查。 对试图挑战SpaceX星链（Starlink）的亚马逊而言，损失远不止40颗卫星。 2022年以来，亚马逊累",
+     "source": "虎嗅",
+     "zh": "40颗卫星一夜损失，亚马逊买的火箭为何靠不住？"
+    },
+    {
+     "title": "How Samsung aims to be a one-stop shop that builds, runs, and powers data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)",
+     "link": "https://www.techmeme.com/261115/p19#a261115p19",
+     "pubDate": "Sun, 15 Nov 2026 20:15:01 -0500",
+     "summary": "Financial Times : How Samsung aims to be a one-stop shop that builds, runs, and powers data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants &nbsp; &mdash;&nbsp; South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfo",
+     "source": "Techmeme",
+     "zh": "How Samsung aims to be a one-stop shop that builds, runs, and powers data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)"
+    },
+    {
+     "title": "三星 SDI 签署数万亿韩元合同，向 Jupiter Power 供应 16GWh LFP 储能电池",
+     "link": "https://www.ithome.com/1/027/496.htm",
+     "pubDate": "Mon, 16 Nov 2026 01:14:09 GMT",
+     "summary": "IT之家 11 月 16 日消息，三星 SDI 当地时间今日宣布，将在 2029~2031 年向美国公用事业电池储能系统企业 Jupiter Power 供应总计 16GWh 的磷酸铁锂棱柱电池 。这笔交易预计价值数万亿韩元 （IT之家注：1 万亿韩元当前约合 50.02 亿元人民币） 。 这些电池将由三星 SDI 的美国印第安纳州工厂生产 。两家企业此前已达成 11GWh 的合作。Jupiter Power 在美国拥有 19.7GWh 的运营、在建、承诺容量，另有 110GWh 的项目正在开发中。 为支撑自身磷酸铁锂业务的开展，三星 SDI 通过与浦项未来 M、L&amp;F 等韩国公司签署",
+     "source": "IT之家",
+     "zh": "三星 SDI 签署数万亿韩元合同，向 Jupiter Power 供应 16GWh LFP 储能电池"
+    },
+    {
+     "title": "汽车激光雷达厂商，又开始抢机器人关节的生意了",
+     "link": "https://www.tmtpost.com/8205984.html",
+     "pubDate": "Mon, 16 Nov 2026 09:12:19 +0800",
+     "summary": "一家机器人公司，带来禾赛第一批执行器订单。",
+     "source": "钛媒体",
+     "zh": "汽车激光雷达厂商，又开始抢机器人关节的生意了"
+    },
+    {
+     "title": "当卖车不赚钱后，汽车后市场终于迎来正规化",
+     "link": "https://www.huxiu.com/article/4905790.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 09:11:22 +0800",
+     "summary": "本文来自微信公众号： BusinessCars ，作者：袁英杰 告别灰色地带，车企进入多元化创收。 随着十月份销售数据出炉，现实情况再度打破汽车行业的传统销售旺季，乘用车同比下滑超27%，新能源汽车增速放缓至13%，车不好卖正在成为下半年的常态。 当新车销量下滑，汽车的传统商业营收也在下滑，过去国内汽车产业的商业模式，主要围绕新车销售、维修保养和零部件更换展开，在销量下滑的背景下，经销商的日子也更加难过。 在前端市场缺乏活力时，就只能向后市场寻找机遇，根据公安部的数据显示，截止到2025年底，全国汽车保有量突破3.66亿辆，新能源汽车接近5000万辆，平均车龄约7.3年，车龄10年以上的车辆占",
+     "source": "虎嗅",
+     "zh": "当卖车不赚钱后，汽车后市场终于迎来正规化"
+    },
+    {
+     "title": "港股上市主动刹车潮，对优质18A是利好",
+     "link": "https://www.tmtpost.com/8206004.html",
+     "pubDate": "Mon, 16 Nov 2026 09:11:10 +0800",
+     "summary": "主动刹车，成了越来越多公司的选择。",
+     "source": "钛媒体",
+     "zh": "港股上市主动刹车潮，对优质18A是利好"
+    },
+    {
+     "title": "胡泳：跳出“图灵陷阱”",
+     "link": "https://www.huxiu.com/article/4905789.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 09:11:04 +0800",
+     "summary": "本文来自微信公众号： 北大汇丰PFR ，作者：胡泳 在过去十年或更长时间里，讨论人工智能时很少不与人类能力相比较。对许多人来说，随着人工智能的发展，它对人类产生了威胁，不仅仅关乎劳动者的就业能力、社会的权力结构、人的能动性，甚至涉及我们的生存本身。 北京大学新闻与传播学院教授胡泳在《北大金融评论》发文指出，人工智能实现能力突破的方式，并不只有模仿人类这一条路径。事实上，许多最强大的人工智能系统恰恰并不像人类，它们以与人类截然不同的方式学习、推理和处理信息，却能够完成乃至超越许多传统上被认为属于人类能力范畴的任务。过度关注开发和部署HLAI会使我们陷入一个陷阱，不妨称之为“图灵陷阱”。 本文完整",
+     "source": "虎嗅",
+     "zh": "胡泳：跳出“图灵陷阱”"
+    },
+    {
+     "title": "黄仁勋考虑重返英伟达，科技大佬连夜组建“作战室”",
+     "link": "https://www.huxiu.com/article/4905788.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 09:08:54 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：APPSO ，原文标题：《反转！黄仁勋考虑重返英伟达，科技大佬连夜组建&ldquo;作战室&rdquo;》，题图来自：视觉中国 前两天大伙还在替 63 岁的黄仁勋唏嘘，觉得这位干了三十三年的皮衣刀客算是彻底告别历史舞台了。 结果周末刚过完，事情突然迎来了戏剧性的新动向。 据金融时报的最新爆料，刚因婚外情风波辞职不到几天的老黄，不仅没打算就此退居幕后，反而已经在跟核心心腹探讨重返英伟达继续当 CEO 的可能性了。 更刺激的是，硅谷一帮顶级科技高管连夜给老黄搭了个作战室 （War Room） ，一边向英伟达董事会施压要求让他官复原职，一边准备去争取更多外部",
+     "source": "虎嗅",
+     "zh": "黄仁勋考虑重返英伟达，科技大佬连夜组建“作战室”"
+    },
+    {
+     "title": "消息称某厂明年的阔直板手机已开屏，预计为小米旗下",
+     "link": "https://www.ithome.com/1/027/495.htm",
+     "pubDate": "Mon, 16 Nov 2026 01:08:46 GMT",
+     "summary": "IT之家 11 月 16 日消息，博主 @数码闲聊站 今日爆料，某厂明年的阔直板手机已开屏，目前早期方案是 6.3-6.4 英寸 ±，屏幕比例 16:9，采用 1mm± 极窄四等边设计，支持 BT.2020 色域并配备高规格阔屏。 结合该博主此前的爆料习惯，预计这款新机为小米旗下。 IT之家注意到，该博主上月曾爆料，某厂子系阔直板确定评估中，2027 年见。据评论区网友推测，该机预计为小米 REDMI 旗下。 此前爆料显示，安卓阵营的阔直板手机中，OPPO 有望率先登场，荣耀紧随其后，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机等。此外，该博主还爆料， 20",
+     "source": "IT之家",
+     "zh": "消息称某厂明年的阔直板手机已开屏，预计为小米旗下"
+    },
+    {
+     "title": "融资90亿的AI眼镜风口，被35元的华强北山寨货截胡",
+     "link": "https://www.tmtpost.com/8205823.html",
+     "pubDate": "Mon, 16 Nov 2026 09:04:06 +0800",
+     "summary": "AI眼镜的想象力，正在被透支。",
+     "source": "钛媒体",
+     "zh": "融资90亿的AI眼镜风口，被35元的华强北山寨货截胡"
+    },
+    {
+     "title": "脑机接口元年，一半真实，一半等待",
+     "link": "https://www.tmtpost.com/8205824.html",
+     "pubDate": "Mon, 16 Nov 2026 09:04:01 +0800",
+     "summary": "脑机接口值得看的，不仅是植入例数，更是多年的随访数据表现。",
+     "source": "钛媒体",
+     "zh": "脑机接口元年，一半真实，一半等待"
+    },
+    {
+     "title": "华为 Mate X8 及全场景新品发布会定档 11 月 24 日，大折叠旗舰全方位焕新",
+     "link": "https://www.ithome.com/1/027/493.htm",
+     "pubDate": "Mon, 16 Nov 2026 01:03:53 GMT",
+     "summary": "IT之家 11 月 16 日消息，华为今日官宣，Mate X8 及全场景新品发布会定档 11 月 24 日 14:30 。 华为董事、终端 BG CEO 何刚表示，作为华为大折叠旗舰，Mate X 系列 8 年 8 代一路走来， 已经成为 2,000 万用户手里的主力大屏 。Mate X8 在外观、屏幕、性能、影像… 会给大家带来全方位的焕新感。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东已经公开了 Mate X8 折叠屏手机的外观，他表示，新机在屏幕、拍照、性能等方面又有新的突破。 据博主 @RuryRen 透露，华为 Mate X8 大折叠手机将分普通版和典藏版，其中典",
+     "source": "IT之家",
+     "zh": "华为 Mate X8 及全场景新品发布会定档 11 月 24 日，大折叠旗舰全方位焕新"
+    },
+    {
+     "title": "KTC 预告 6K Mini LED 显示器 M32P2，CES 2027 展出样品",
+     "link": "https://www.ithome.com/1/027/492.htm",
+     "pubDate": "Mon, 16 Nov 2026 01:03:23 GMT",
+     "summary": "IT之家 11 月 16 日消息，据外媒 TechRadar 数小时前报道，KTC 计划在 CES 2027 上展示多款显示新品，其中 M32P2 是一款基于 31.5\" 6016×3384 IPS 面板的 2304 分区 Mini LED 背光显示器 。 ▲ 图源：KTC 该型号刷新率 60Hz；拥有 1000nit 的 HDR 峰值亮度，静态对比度 1000:1；色深 8bit + FRC，色域 99% DCI-P3 / 98% sRGB；提供 2 个 HDMI 2.1、1 个 DisplayPort 1.4、1 个全功能 USB-C，同时通过 USB Hub 拓展出 2 个 USB 5G",
+     "source": "IT之家",
+     "zh": "KTC 预告 6K Mini LED 显示器 M32P2，CES 2027 展出样品"
+    },
+    {
+     "title": "影院成 BLG《英雄联盟》S16 夺冠隐藏赢家，凌晨三点难挡玩家热情",
+     "link": "https://www.ithome.com/1/027/491.htm",
+     "pubDate": "Mon, 16 Nov 2026 01:01:18 GMT",
+     "summary": "IT之家 11 月 16 日消息，在昨日早间结束的《英雄联盟》2026 全球总决赛（S16）冠亚军决赛中，来自中国 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队，连斩四支韩国战队，勇夺《英雄联盟》S16 冠军。这也是中国战队时隔五年再度夺得英雄联盟全球总决赛冠军。 据澎湃新闻今日报道，如果说B站和赞助商分享的是线上流量与品牌溢价，那么全国上百家影院在 11 月 15 日凌晨也共享到电竞产业的线下场景红利。 决赛开始时间是美国东部时间的下午，换算到国内是凌晨三点。 全国 300 多家影院开启赛事直播专场 ，票价 69 元起步，上海部分高规格影厅 79 元。",
+     "source": "IT之家",
+     "zh": "影院成 BLG《英雄联盟》S16 夺冠隐藏赢家，凌晨三点难挡玩家热情"
+    },
+    {
+     "title": "不调用图像模型，Anthropic Claude Fable 5.2 用 Python 代码模拟真实画笔作画",
+     "link": "https://www.ithome.com/1/027/490.htm",
+     "pubDate": "Mon, 16 Nov 2026 01:01:05 GMT",
+     "summary": "IT之家 11 月 16 日消息，Anthropic 于当地时间 11 月 9 日发布了最新的 Claude Fable 5.2 和 Claude Mythos 5.2 模型。 其中，Fable 5.2 不仅面向复杂编程、科学研究和工程任务，还展示了一种异类的“AI 生图”功能（IT之家注：Anthropic 目前仍无传统意义上的文生图模型，大家常见的 DeepSeek 和 Claude 表情包均由其他模型生成）。 不同于传统图像生成模型的绘画方式：Fable 5.2 可通过编写代码模拟画笔、颜料和画布，逐笔完成绘画，而不是直接调用图像生成模型输出成品。 Fable 5.2 不直接生成图像，而",
+     "source": "IT之家",
+     "zh": "不调用图像模型，Anthropic Claude Fable 5.2 用 Python 代码模拟真实画笔作画"
     },
     {
      "title": "Edge AI Daily 早报（11月16日）",
@@ -1793,90 +1921,18 @@
      "zh": "Edge AI Daily 早报（11月16日）"
     },
     {
-     "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
-     "link": "https://www.ithome.com/1/027/487.htm",
-     "pubDate": "Mon, 16 Nov 2026 00:44:37 GMT",
-     "summary": "IT之家 11 月 16 日消息，腾讯 WorkBuddy 国际版昨日宣布，已正式上线谷歌 Gemini 4 Carbon 模型，主要面向需要更深入推理和处理更长任务的使用场景。 官方将其定位为适合处理复杂问题的模型，目前仅面向 Pro 计划用户开放。 IT之家此前报道，谷歌称 Gemini 4 Carbon 模型主要面向长周期智能体工作流，适用于复杂知识工作、软件工程、网络安全和科学推理等任务。模型支持文本、图像、音频和视频输入，输入与输出合计上下文窗口最高可达 100 万 Token。 此次接入意味着 WorkBuddy Pro 用户可以在该平台内调用 Gemini 4 Carbon，无需",
-     "source": "IT之家",
-     "zh": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用"
-    },
-    {
-     "title": "PC Mag 调查：约 1250 万美国人计划在《GTA6》发售日请假或缺课",
-     "link": "https://www.ithome.com/1/027/486.htm",
-     "pubDate": "Mon, 16 Nov 2026 00:44:22 GMT",
-     "summary": "IT之家 11 月 16 日消息，科技媒体 PC Mag 近日发布调查报告，显示上千万美国人计划在《GTA6》11 月 19 日发售当日请假或调整上班、上学时间，只为第一时间体验这款开放世界大作。 据报道，8% 美国成年玩家计划在 11 月 19 日当天请带薪假，或者调整工作、上学时间，以便第一时间玩上《GTA6》。经过计算， 这意味着大约有 1250 万美国玩家打算专门腾出时间游玩新作 。 同时，美国 Z 世代玩家最愿意为《GTA 6》调整日程安排，占比达到 13%。由于《GTA 6》仅登陆当前世代游戏主机，7% 的玩家计划专门为了这款游戏，或其他类似的重磅新作升级设备。在接受调查的玩家中，",
-     "source": "IT之家",
-     "zh": "PC Mag 调查：约 1250 万美国人计划在《GTA6》发售日请假或缺课"
-    },
-    {
-     "title": "微软全新 WinUI3“中文输入法”悄悄上架：可导入个人词库，主打无广告并支持必应搜索",
-     "link": "https://www.ithome.com/1/027/484.htm",
-     "pubDate": "Mon, 16 Nov 2026 00:40:25 GMT",
-     "summary": "IT之家 11 月 16 日消息，昨日有用户发现，微软通过 Microsoft Store 悄悄上架了一款全新的中文拼音输入法，面向 Windows 用户提供中文输入服务。 目前，该输入法需要通过 Microsoft Store 单独下载安装，安装后不会直接替换 Windows 系统原有的微软中文输入法，用户可以根据需要选择体验。 IT之家附官方商店下载地址： https://apps.microsoft.com/detail/xpfpt96q7b9s4n ?hl=zh-Hans-CN 这款输入法与 Win11 内置微软拼音功能一致但升级为 WinUI3，更贴合 Win11 系统风格，支持 x",
-     "source": "IT之家",
-     "zh": "微软全新 WinUI3“中文输入法”悄悄上架：可导入个人词库，主打无广告并支持必应搜索"
-    },
-    {
-     "title": "线上秒售罄、线下排队3小时，抢演出票的年轻人真没招了",
-     "link": "https://www.huxiu.com/article/4905779.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:39:54 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：洞照，编辑：尤蕾 一边是技术驱动、规模化的“售罄”狂欢，一边是原始却公平的排队等待：在肖战巡演的强实名购票引发全网讨论时，乌镇的排队制度也收获了截然不同的评价——有人说这是原始低效，有人却说这是最公平的方式。 在看现场演出成为年轻人生活方式和社交货币的当下，免费和惠民不应成为口号和噱头，更不应成为大家参与其中的阻碍。它应该形成更科学的机制，不让真正热爱的人被拒之门外。 11月6日晚，肖战巡回演唱会上海站连上两个微博热搜。梅奔中心内，近18000个座位座无虚席，整片红色应援海整齐璀璨；场馆外，没抢到票的粉丝从全国各地赶来，自发聚集在场馆周边，人流绵延数条街道",
-     "source": "虎嗅",
-     "zh": "线上秒售罄、线下排队3小时，抢演出票的年轻人真没招了"
-    },
-    {
-     "title": "华尔街：黄仁勋辞职，或成中国的“梦幻剧本”",
-     "link": "https://www.huxiu.com/article/4905778.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:37:09 +0800",
-     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：AI研究组 11月12日，英伟达创始人黄仁勋辞职。 按常理，这一周对中国人来说糟透了—— 美国情报机构怀疑，他的婚外情对象是中国国家安全部招募的人；美国国会两党借机要求收紧芯片出口；华盛顿最卖力替“向中国卖芯片”说话的那个人，就这样出局了，虽然刚刚也有消息称他准备重新回来。 这里我们说一句，情报本身有争议，中方称“纯属捕风捉影，污蔑抹黑”，毕竟我们的情报人员不太走这个高调路线的。 但资本市场的反应，却是反着来的。 上周，A股的寒武纪涨了约22%。华尔街最知名的科技分析师之一Dan Ives则说，从长期看，黄仁勋的离开对中国可能是一个“梦幻剧本d",
-     "source": "虎嗅",
-     "zh": "华尔街：黄仁勋辞职，或成中国的“梦幻剧本”"
-    },
-    {
-     "title": "创新药医保准入：价格和高价值都是硬门槛",
-     "link": "https://www.huxiu.com/article/4905777.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:33:00 +0800",
-     "summary": "本文来自微信公众号： 村夫日记LatitudeHealth ，作者：Latitude Health 近日，2026年的医保国谈结果正式发布，从最终结果来看，此次医保目录新纳入107款新药，其中51款为一类创新药，商保目录纳入12款，其中3款Car-T和7款罕见病用药。虽然，从最终纳入双目录的数量来看，2026年与2025年的差距很小，2026年的谈判竞价成功率为86.3%，与2025年的88%相比只是微降，但除了价格的硬门槛之外，准入的逻辑出现了另一个硬门槛，药品的新不再是主要的评判标准，价值才是最主要的标准。 首先，从2024年以来，专家评审通过率大幅下降，从2023年的64%降至2024年",
-     "source": "虎嗅",
-     "zh": "创新药医保准入：价格和高价值都是硬门槛"
-    },
-    {
-     "title": "原著小说迟迟未更新，Apple TV+ 热门剧《流人》第八季或成最终季",
-     "link": "https://www.ithome.com/1/027/483.htm",
-     "pubDate": "Mon, 16 Nov 2026 00:31:01 GMT",
-     "summary": "IT之家 11 月 16 日消息，苹果流媒体平台 Apple TV+ 超热门剧集《流人》（Slow Horses）可能将在第八季结束。 本片主演奥利维娅 · 库克（Olivia Cooke）今日接受《泰晤士报》采访时透露“她目前正在拍摄该剧的最后一季”，不过她随后又补充称“未来的事不能说死”。 奥利维娅 · 库克在剧中饰演西德妮 · 贝克（Sid Baker）。谈及剧集未来时，她表示：“我正在拍摄最后一季。” 当被问及是否确定剧集将结束时，她补充说：“永远不要说死，但我想这就是我们得到的消息，而且确实感觉剧集正在走向终点。” 她形容称剧组目前的气氛有些伤感，演员和工作人员都显得“忧郁、心不在焉",
-     "source": "IT之家",
-     "zh": "原著小说迟迟未更新，Apple TV+ 热门剧《流人》第八季或成最终季"
-    },
-    {
-     "title": "3天劝返134名非法穿越人员，稻城亚丁怎么了？",
-     "link": "https://www.huxiu.com/article/4905776.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:29:28 +0800",
-     "summary": "本文来自微信公众号： 徒步中国 ，作者：阿瑶 10月，四川稻城亚丁再次成为户外圈关注的焦点。 10月23日，稻城亚丁景区管理局公布了一组数据：10月20日至22日，开展「绿美亚丁·守护净土」生态环境保护专项行动，累计投入工作人员370余人次，清理各类垃圾300余袋，劝返非法穿越人员134人。 近年来，随着户外徒步和社交媒体的发展，一些原本不对公众开放的徒步路线被冠以「秘境」「小众野线」等名号在网上传播，吸引着越来越多的人试图前往。但路线能被走通，并不意味着它就成为了一条可以自由进入的徒步线路。 非法穿越 稻城亚丁事故频发 10月20日至22日，开展「绿美亚丁·守护净土」生态环境保护专项行动，累",
-     "source": "虎嗅",
-     "zh": "3天劝返134名非法穿越人员，稻城亚丁怎么了？"
-    },
-    {
-     "title": "古尔曼：苹果工程师正积极为 iPhone Duo 2 外屏开发面容 ID",
-     "link": "https://www.ithome.com/1/027/482.htm",
-     "pubDate": "Mon, 16 Nov 2026 00:12:50 GMT",
-     "summary": "IT之家 11 月 16 日消息，彭博社记者马克 · 古尔曼昨日于新一期《Power On》通讯透露，苹果计划于明年秋季推出 iPhone Duo 2 折叠屏手机。苹果工程师正尝试将面容 ID 集成到这款设备中，但最终可能存在变数。 古尔曼透露，苹果为 iPhone Duo 2 制定了两项优先开发目标：面容 ID 和操作按钮。后者最终可能只是软件更新，为相机控制按钮新增一些功能，允许用户将长按操作改为启动自定义 App。 同时古尔曼表示，未来几代 iPhone Duo 的其他目标有增加长焦镜头、让机身变薄减重等。面容 ID 是当前的首要任务。据他了解，苹果已开发出搭载面容 ID 的 iPhon",
-     "source": "IT之家",
-     "zh": "古尔曼：苹果工程师正积极为 iPhone Duo 2 外屏开发面容 ID"
-    },
-    {
-     "title": "尚界 Z7T 星野套装展车陆续到店，11 月 20 日华为星芒品牌发布会上市",
-     "link": "https://www.ithome.com/1/027/481.htm",
-     "pubDate": "Mon, 16 Nov 2026 00:10:34 GMT",
-     "summary": "IT之家 11 月 16 日消息，尚界汽车今日宣布，尚界 Z7T 星野套装全国首批展车已陆续到店（文末附门店信息），将于 11 月 20 日 14:30 鸿蒙智行享界 V8 及星芒品牌发布会正式上市。 参考IT之家此前报道， 尚界 Z7T 是一款猎装车型 ，于今年 4 月上市，售价 22.98 万元起。尚界 Z7 全系标配华为乾崑智驾 ADS 4.1、华为巨鲸 800V 高压电池平台、华为乾崑 896 线双光路图像级激光雷达、华为鸿蒙座舱、华为途灵平台；全系标配鸿蒙 ALPS 健康座舱 2.0、随动屏、副驾零重力座椅、HUD 抬头显示、流媒体内后视镜、静音电吸门、连续可变阻尼减振器、Knock",
-     "source": "IT之家",
-     "zh": "尚界 Z7T 星野套装展车陆续到店，11 月 20 日华为星芒品牌发布会上市"
+     "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+     "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+     "pubDate": "Mon, 16 Nov 2026 00:21:54 +0000",
+     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack"
     },
     {
      "title": "What's Next for Nvidia?",
      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
      "pubDate": "Sun, 15 Nov 2026 23:55:55 +0000",
-     "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 5 # Comments: 3",
+     "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 34 # Comments: 19",
      "source": "Hacker News",
      "zh": "What's Next for Nvidia?"
     },
@@ -1884,17 +1940,17 @@
      "title": "Mini.nvim Is Now on Tangled",
      "link": "https://tangled.org/nvim-mini.org/mini.nvim",
      "pubDate": "Sun, 15 Nov 2026 23:55:41 +0000",
-     "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 16 # Comments: 3",
+     "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 26 # Comments: 7",
      "source": "Hacker News",
      "zh": "Mini.nvim Is Now on Tangled"
     },
     {
-     "title": "【钛晨报】APEC工商峰会将首发“深圳倡议”，超百家世界500强参会；特斯拉Cybercab个人购车设使用限制，且暂禁商业用途；再创新高，51个一类创新药进入新版国家医保药品目录",
-     "link": "https://www.tmtpost.com/8205965.html",
-     "pubDate": "Mon, 16 Nov 2026 07:20:00 +0800",
-     "summary": "美星舰飞船首次被捕获回收；再创新高，51个一类创新药进入新版国家医保药品目录；金融机构外汇存款准备金率15日起提高至6%；“大空头”Burry加码做空纳指及半导体股，警告AI热潮或陷入“牛市陷阱”；北交所开市五周年，总市值约8000亿元",
-     "source": "钛媒体",
-     "zh": "【钛晨报】APEC工商峰会将首发“深圳倡议”，超百家世界500强参会；特斯拉Cybercab个人购车设使用限制，且暂禁商业用途；再创新高，51个一类创新药进入新版国家医保药品目录"
+     "title": "Jensen Huang might return to Nvidia as CEO",
+     "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+     "pubDate": "Sun, 15 Nov 2026 23:24:53 +0000",
+     "summary": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 124 # Comments: 105",
+     "source": "Hacker News",
+     "zh": "Jensen Huang might return to Nvidia as CEO"
     },
     {
      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
@@ -1908,7 +1964,7 @@
      "title": "Preserving 30 Years of Salon Journalism",
      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
      "pubDate": "Sun, 15 Nov 2026 23:00:11 +0000",
-     "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 52 # Comments: 10",
+     "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 64 # Comments: 14",
      "source": "Hacker News",
      "zh": "Preserving 30 Years of Salon Journalism"
     },
@@ -1924,7 +1980,7 @@
      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
      "link": "https://lastcomplication.com/",
      "pubDate": "Sun, 15 Nov 2026 22:48:52 +0000",
-     "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 29 # Comments: 5",
+     "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 40 # Comments: 5",
      "source": "Hacker News",
      "zh": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game"
     },
@@ -1937,14 +1993,6 @@
      "zh": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)"
     },
     {
-     "title": "Old Bitly Links Are Being Hijacked",
-     "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-     "pubDate": "Sun, 15 Nov 2026 22:11:43 +0000",
-     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 139 # Comments: 69",
-     "source": "Hacker News",
-     "zh": "Old Bitly Links Are Being Hijacked"
-    },
-    {
      "title": "Analysis: Huawei&apos;s Horinger data center, among China&apos;s largest for AI, has ~7% of the compute of SpaceX&apos;s Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)",
      "link": "https://www.techmeme.com/261115/p16#a261115p16",
      "pubDate": "Sun, 15 Nov 2026 17:02:17 -0500",
@@ -1953,60 +2001,12 @@
      "zh": "Analysis: Huawei&apos;s Horinger data center, among China&apos;s largest for AI, has ~7% of the compute of SpaceX&apos;s Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)"
     },
     {
-     "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-     "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-     "pubDate": "Sun, 15 Nov 2026 21:38:11 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 58 # Comments: 43",
-     "source": "Hacker News",
-     "zh": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites"
-    },
-    {
      "title": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
      "link": "https://www.techmeme.com/261115/p15#a261115p15",
      "pubDate": "Sun, 15 Nov 2026 15:02:17 -0500",
      "summary": "Associated Press : Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a &ldquo;legitimate and lawful business&rdquo; as it opens an internal probe &nbsp; &mdash;&nbsp; Singapore-based cloud computing company Megaspeed International said Sunday that Chinese busin",
      "source": "Techmeme",
      "zh": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)"
-    },
-    {
-     "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
-     "link": "https://www.techmeme.com/261115/p14#a261115p14",
-     "pubDate": "Sun, 15 Nov 2026 14:20:00 -0500",
-     "summary": "Financial Times : Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a &ldquo;war room&rdquo; to lobby for his return and seek White House support &nbsp; &mdash;&nbsp; Tech supporters lobby chipmaker's board to reinstate former CEO after he resigned followin",
-     "source": "Techmeme",
-     "zh": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)"
-    },
-    {
-     "title": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved (Mackenzie Hawkins/Bloomberg)",
-     "link": "https://www.techmeme.com/261115/p13#a261115p13",
-     "pubDate": "Sun, 15 Nov 2026 14:10:00 -0500",
-     "summary": "Mackenzie Hawkins / Bloomberg : Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved &nbsp; &mdash;&nbsp; Nvidia Corp. appealed to Taiwanese officials after prosecutors on the island accused an ",
-     "source": "Techmeme",
-     "zh": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved (Mackenzie Hawkins/Bloomberg)"
-    },
-    {
-     "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-     "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-     "pubDate": "Sun, 15 Nov 2026 18:29:14 +0000",
-     "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
-     "source": "TechCrunch",
-     "zh": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending"
-    },
-    {
-     "title": "The tech products we enthusiastically recommend this holiday season",
-     "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-     "pubDate": "Sun, 15 Nov 2026 16:00:00 +0000",
-     "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
-     "source": "TechCrunch",
-     "zh": "The tech products we enthusiastically recommend this holiday season"
-    },
-    {
-     "title": "SpaceX 成功回收火箭上面级",
-     "link": "https://www.solidot.org/story?sid=85893",
-     "pubDate": "Sun, 15 Nov 2026 22:38:30 +0800",
-     "summary": "SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。此次代号为 Flight 15/Starlink Group 31-2 的任务原计划同时回收火箭上面级和推进器，但推进器 Booster 22 在发射后不久启动了终止程序，在海面上受控爆炸。上面级 Ship 42 则绕地球飞行 14 圈历经 22.5 小时后于周六在 Starbase 被 2 号发射台的筷子臂成功捕获。此次任务发射了 22 颗 Starlink V3 卫星。",
-     "source": "Solidot",
-     "zh": "SpaceX 成功回收火箭上面级"
     }
    ]
   },
@@ -2265,12 +2265,36 @@
    "total": 13,
    "items": [
     {
-     "title": "闲鱼：正式起诉“拐卖儿童暗语”造谣人 索赔100万元",
-     "link": "http://finance.eastmoney.com/news/1344,202611163931577936.html",
-     "pubDate": "Mon, 16 Nov 2026 09:05:09 +0800",
-     "summary": "闲鱼今日发文称，今年10月初，社交平台流传所谓“拐卖儿童暗语”谣言，污名化闲鱼为“暗网”，闲鱼发现后立即对谣言存证。经调查，赵某某在短视频平台评论区，将普通交易对话歪曲解读为“拐卖儿童暗语”，相关谣言被迅速转发并登上热搜，引发大量网友的恐慌。 赵某某制造的谣言引发数十万网友产生误解，但其发布的辟谣致歉内容却零关注。谣言严重干扰了闲鱼平台正常商品交易秩序，对平台声誉造成难以挽回的深远伤害。 闲鱼正式对造谣人侵害企业名誉权的行为提起民事诉讼，索赔100万元，后续将陆续起诉其他造谣者。 此前多名造谣人已就造谣行为向闲鱼公开致歉： 编造“拐卖儿童暗语”的造谣人赵某某在致歉信中表示：这条信息是其个人编造",
-     "source": "东方财富资讯",
-     "zh": "闲鱼：正式起诉“拐卖儿童暗语”造谣人 索赔100万元"
+     "title": "今日看点｜国新办将举行2026年10月份国民经济运行情况新闻发布会",
+     "link": "http://www.eeo.com.cn/2026/1116/1094150.shtml",
+     "pubDate": "Mon, 16 Nov 2026 09:25:48 +0800",
+     "summary": "11月16日上午10时，国新办将举行新闻发布会，国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍2026年10月份国民经济运行情况，并答记者问。",
+     "source": "经济观察网",
+     "zh": "今日看点｜国新办将举行2026年10月份国民经济运行情况新闻发布会"
+    },
+    {
+     "title": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
+     "link": "https://wallstreetcn.com/articles/3785982",
+     "pubDate": "Mon, 16 Nov 2026 09:24:25 +0800",
+     "summary": "黄仁勋辞任英伟达CEO后，摩根士丹利发布更新报告，将此次事件定性为\"重大挫折\"。同时将目标价从300美元下调至267美元，但维持\"增持\"评级。 据追风交易台消息，大摩认为，英伟达供应链与产品管线已锁定未来两年，Vera Rubin平台正在爬坡，即便将FY28/FY29数据中心收入预测下调约10%以应对出口管制风险，当前股价相对目标价仍有约61%的上行空间，基本面依然稳固。 报告指出，过去十年间，黄仁勋主导了硬件、软件、网络、计算与存储领域的一系列创新，推动了AI领域的大幅跃进；快速决策、积极的供应链管理，以及对客户、投资者和员工的高度可及性，都是其任期的显著标志。 临时CEO的变数 黄仁勋辞职",
+     "source": "华尔街见闻",
+     "zh": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”"
+    },
+    {
+     "title": "银行理财利率高达近10%，散户抛弃越南股市",
+     "link": "https://wallstreetcn.com/articles/3785979",
+     "pubDate": "Mon, 16 Nov 2026 09:20:12 +0800",
+     "summary": "越南散户正在用脚投票——卖出股票，转而追逐接近10%的银行存款利率。 据彭博报道，越南各银行近几个月持续上调存款利率以争夺资金，吸引了该国约1400万散户投资者中的大批人转向这一长期被视为\"过时\"的理财方式。与此同时，规模约3920亿美元的越南股市2026年累计下跌约3%，有望录得四年来首次年度亏损。 外资持续净卖出与散户资金加速撤离，令越南基准股指市盈率较过去五年均值低约24%。尽管估值已明显回落，但对于许多已深深亏损的投资者而言，这一水平仍不足以构成吸引力。 存款利率：柜台7%，私下谈判可达9%以上 银行存款利率的吸引力是这场资金迁移的核心驱动力。 据彭博报道，越南各银行存款利率已连续11",
+     "source": "华尔街见闻",
+     "zh": "银行理财利率高达近10%，散户抛弃越南股市"
+    },
+    {
+     "title": "冰雪游热度提前回升",
+     "link": "http://www.eeo.com.cn/2026/1116/1094135.shtml",
+     "pubDate": "Mon, 16 Nov 2026 09:12:44 +0800",
+     "summary": "虽然多数雪场还未正式开板，但许多滑雪爱好者已“闻雪而动”。从“等雪来”到“追雪去”，这个雪季的消费热潮正跑在开板时间表前。",
+     "source": "经济观察网",
+     "zh": "冰雪游热度提前回升"
     },
     {
      "title": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite",
@@ -2281,62 +2305,6 @@
      "zh": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite"
     },
     {
-     "title": "华尔街因黄仁勋离职“集体变脸” 本周英伟达财报能否顶住压力？",
-     "link": "http://finance.eastmoney.com/news/1344,202611163931577739.html",
-     "pubDate": "Mon, 16 Nov 2026 09:02:13 +0800",
-     "summary": "近日，全球芯片龙头 英伟达 的股价因“黄仁勋风波”持续承压，而随着黄仁勋辞去CEO一职，华尔街分析师对 英伟达 股票的看法发生了逆转。 据统计，随着市场消化这一剧性事件，目前至少有10位顶级华尔街分析师将 英伟达 股票的“买入”评级下调至“持有”。 高盛 、 摩根大通 、RBC 等多家机构则下调了目标价。 “不确定性太大，我们决定观望，”伯恩斯坦的Stacy Rasgon及其团队表示：“我们非常乐意在未来某个时候重新审视这只股票，但我们很难建议现在就买入。” 这位分析师在上周的一份报告中将该股评级从“跑赢大盘”下调至“与大盘持平”，目标价为200美元。他质疑任何新任CEO是否有能力真正接替黄仁",
-     "source": "东方财富资讯",
-     "zh": "华尔街因黄仁勋离职“集体变脸” 本周英伟达财报能否顶住压力？"
-    },
-    {
-     "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-     "link": "http://finance.eastmoney.com/news/1345,202611163931576619.html",
-     "pubDate": "Mon, 16 Nov 2026 09:00:21 +0800",
-     "summary": "外交部发言人宣布： 11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。 （文章来源：外交部网站）",
-     "source": "东方财富股票",
-     "zh": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤"
-    },
-    {
-     "title": "融资余额减少166.34亿，杠杆资金最新动态曝光",
-     "link": "http://stock.eastmoney.com/news/11754,202611163931576486.html",
-     "pubDate": "Mon, 16 Nov 2026 09:00:11 +0800",
-     "summary": "11月13日A股三大指数 集体收跌， 杠杆资金 呈净卖出之势，当天融资余额2.26万亿，较上一交易日减少166.34亿。 华是科技 为当日融资净买入最多个股，为1.67亿， 亚玛顿 融资净买入1.52亿， 大胜达 1.51亿。 东山精密 为当日融资净卖出最多个股，为4.96亿， 通富微电 融资净卖出4.14亿， 中芯国际 3.17亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内",
-     "source": "东方财富股票",
-     "zh": "融资余额减少166.34亿，杠杆资金最新动态曝光"
-    },
-    {
-     "title": "富时中国A50指数期货开盘涨0.04%",
-     "link": "http://finance.eastmoney.com/news/11440,202611163931577174.html",
-     "pubDate": "Mon, 16 Nov 2026 09:00:10 +0800",
-     "summary": "富时中国A50指数 期货 在上一交易日夜盘收涨0.01%的基础上高开，现涨0.04%。",
-     "source": "东方财富股票",
-     "zh": "富时中国A50指数期货开盘涨0.04%"
-    },
-    {
-     "title": "美联储真会连续加息吗？华尔街聚焦今晚沃什讲话！",
-     "link": "http://finance.eastmoney.com/news/1344,202611163931576869.html",
-     "pubDate": "Mon, 16 Nov 2026 09:00:02 +0800",
-     "summary": "在刚经历了惨痛的一周后，华尔街债券交易员正将目光投向美联储密集的官员讲话以及最新的会议纪要，以期从中寻找未来的利率路径线索。此前，市场对本轮加息周期将拉长的预期正急剧升温。 上周，一份超预期的通胀数据叠加多位联储官员的密集放鹰，重创了此前将美债视为规避AI风险“避风港”的投资者。受此冲击，美国2年期国债收益率单周飙升多达37个基点，基准10年期美债收益率也重新站上了5%大关。 原本“鸽派”的美联储理事沃勒立场“大变脸”，是引爆这轮抛售的导火索…… 沃勒上周暗示，鉴于近期的通胀势头，单次加息50个基点已重回政策讨论范围。尽管随后发声的美联储官员言辞并未如此激进，但无一例外都在向市场传递同一个信号",
-     "source": "东方财富股票",
-     "zh": "美联储真会连续加息吗？华尔街聚焦今晚沃什讲话！"
-    },
-    {
-     "title": "汇创达等成立创芯存储芯片技术公司",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931576794.html",
-     "pubDate": "Mon, 16 Nov 2026 08:59:04 +0800",
-     "summary": "企查查APP显示，近日，广东创芯 存储芯片 技术有限公司成立，经营范围包含 集成电路制造 ；集成电路销售；集成电路设计；集成电路芯片及产品制造；集成电路芯片设计及服务等。企查查股权穿透显示，该公司由 汇创达 等共同持股。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "汇创达等成立创芯存储芯片技术公司"
-    },
-    {
-     "title": "天鹅股份投资成立智能烘干设备新公司",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931576040.html",
-     "pubDate": "Mon, 16 Nov 2026 08:57:50 +0800",
-     "summary": "企查查APP显示，近日，山东天鹅智能烘干设备有限公司成立，经营范围包含： 农林牧渔 机械配件销售； 农林牧渔 机械配件制造； 通用设备 制造（不含特种设备制造）等。企查查股权穿透显示，该公司由 天鹅股份 （603029）全资持股。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "天鹅股份投资成立智能烘干设备新公司"
-    },
-    {
      "title": "Australia's IDP Education rejects Blackstone’s sweetened takeover bid",
      "link": "https://seekingalpha.com/news/4672818-australias-idp-education-rejects-blackstone-s-sweetened-takeover-bid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 19:36:43 -0500",
@@ -2345,12 +2313,12 @@
      "zh": "Australia's IDP Education rejects Blackstone’s sweetened takeover bid"
     },
     {
-     "title": "A股热点前瞻丨星舰飞船首次实现“筷子夹飞船”；CAR-T抗癌药首次纳入医保；BLG夺得S16冠军",
-     "link": "http://finance.eastmoney.com/news/11874,202611163931567588.html",
-     "pubDate": "Mon, 16 Nov 2026 08:27:26 +0800",
-     "summary": "①星舰首次实现“筷子夹飞船”，可重复使用火箭再进一步； ②CAR-T抗癌药首次纳入医保， 创新药 支付体系持续完善； ③BLG“一穿四”夺得S16冠军，电竞产业链关注度提升； ④“十五五”新型储能实施方案印发，储能装机目标明确； ⑤贺岁档片单密集官宣叠加AI内容催化， 影视院线 修复可期； ⑥两轮冷空气接连来袭，供暖开启能源需求升温。 盘面回顾 11月13日，A股三大指数高开低走， 沪指跌0.59%报3634.35点 ，创业板指跌3.32%，沪深京三市成交1.67万亿元，全市场 超4700股下跌 。 影视院线 、 银行 板块逆市走强，算力硬件、CPO方向集体调整。 星舰飞船首次实现“筷子夹飞船",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨星舰飞船首次实现“筷子夹飞船”；CAR-T抗癌药首次纳入医保；BLG夺得S16冠军"
+     "title": "重磅新药被美拒批 康方生物夏瑜: 14年来最沮丧的一次",
+     "link": "http://www.eeo.com.cn/2026/1116/1094127.shtml",
+     "pubDate": "Mon, 16 Nov 2026 08:28:41 +0800",
+     "summary": "夏瑜解释，HARMONi海外的数据与中国数据具有一致性，后续分析也证明有OS获益，但后续分析缺乏统计学的正式效力，“这是很遗憾的一件事”。",
+     "source": "经济观察网",
+     "zh": "重磅新药被美拒批 康方生物夏瑜: 14年来最沮丧的一次"
     },
     {
      "title": "美银Hartnett：美元正在“破坏一切”，美元下跌前保持避险",
@@ -2359,14 +2327,6 @@
      "summary": "不断飙升的美元正在收紧全球流动性，并化身为金融市场的“破坏球”，压制全球风险资产及大宗商品，风险资产暂难入场。 这是美国银行首席投资策略师Michael Hartnett在其最新一期《Flow Show》报告中的观点。 他认为，当前市场面临三重矛盾——美联储紧缩周期远未结束、政府托市构筑空头壁垒、高净值消费者财富效应支撑经济。这意味着，目前风险资产既不值得追涨，又难以安然做空。 Hartnett将自己年末看涨的\"终点线\"再度后移。原本预期中期选举后、感恩节前市场可能开启年终上涨行情，但就业数据大超预期、通胀连续三个月走热、美联储官员放风加息50个基点，彻底打乱了节奏。唯有等待油价、美债收益率与",
      "source": "华尔街见闻",
      "zh": "美银Hartnett：美元正在“破坏一切”，美元下跌前保持避险"
-    },
-    {
-     "title": "12月加息几无悬念！又一官员“放鹰”：通胀令人不安 美联储仍有工作要做",
-     "link": "http://finance.eastmoney.com/news/1344,202611163931565815.html",
-     "pubDate": "Mon, 16 Nov 2026 08:21:28 +0800",
-     "summary": "堪萨斯城联储主席杰夫·施密德（Jeff Schmid）周日表示， 美联储拥有工具、也有责任应对 “过热” 的物价压力，且央行“在通胀方面仍有一些工作要做” 。 施密德在夏威夷一场信用合作社会议上发表讲话， 指出通胀“令人不安地高于2%的物价稳定目标，并且正在朝错误的方向发展。” 他并未明确呼吁进一步加息。 施密德表示，近期围绕当前通胀性质及美联储遏制通胀能力而形成的普遍观点是偏离实际的。 他表示，认为 高通 胀源于反复供应冲击的观点忽略了一点：通胀始终是供需失衡的结果。正是在强劲需求的背景下，供应端的冲击才会推高物价。需求在通胀中始终扮演关键角色，而美联储透过对需求的影响，始终拥有应对通胀的工",
-     "source": "东方财富资讯",
-     "zh": "12月加息几无悬念！又一官员“放鹰”：通胀令人不安 美联储仍有工作要做"
     },
     {
      "title": "公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择“外部人士”",
@@ -2503,6 +2463,46 @@
      "summary": "US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China",
      "source": "Financial Times",
      "zh": "Bessent says Nvidia needs ‘shake-up’ with external CEO"
+    },
+    {
+     "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+     "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+     "pubDate": "Sun, 15 Nov 2026 18:10:18 GMT",
+     "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
+     "source": "CNBC",
+     "zh": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO"
+    },
+    {
+     "title": "US and allies sign accord to protect AI supply chains from China",
+     "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+     "pubDate": "Sun, 15 Nov 2026 17:47:43 GMT",
+     "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+     "source": "Financial Times",
+     "zh": "US and allies sign accord to protect AI supply chains from China"
+    },
+    {
+     "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+     "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+     "pubDate": "Sun, 15 Nov 2026 16:56:40 GMT",
+     "summary": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
+     "source": "CNBC",
+     "zh": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration"
+    },
+    {
+     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+     "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+     "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
+     "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+     "source": "CNBC",
+     "zh": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
+    },
+    {
+     "title": "From culture war to class war: US Democrats ditch woke politics",
+     "link": "https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1",
+     "pubDate": "Sun, 15 Nov 2026 11:00:04 GMT",
+     "summary": "The newly emboldened party shifts gears after its sweeping midterm election victory",
+     "source": "Financial Times",
+     "zh": "From culture war to class war: US Democrats ditch woke politics"
     }
    ]
   },

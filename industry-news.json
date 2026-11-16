@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/16 11:11:54",
+ "generated_at": "2026/11/16 11:18:32",
  "recent_days": 7,
  "industries": [
   {
@@ -465,6 +465,14 @@
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -487,14 +495,6 @@
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
-    },
-    {
-     "title": "Rethinking Memory For AI Inference",
-     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
-     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
-     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1457,14 +1457,6 @@
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1505,14 +1497,6 @@
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1535,14 +1519,6 @@
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1769,6 +1745,14 @@
    "total": 18,
    "items": [
     {
+     "title": "AI，怎么就成专业公敌了",
+     "link": "https://www.huxiu.com/article/4905842.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 11:12:42 +0800",
+     "summary": "本文来自微信公众号： caoz的梦呓 ，作者：caoz 最近看到一个社会新闻，有点荒谬，也有点可怜，一个从事法律援助服务的人突然去世了，知情人说的可能有点夸张，被客户用豆包气死的。 客户总是用豆包来质疑这个律师的专业性，并不断要求调整材料内容，然后又总是脱离律师用豆包自己去组织材料，当然中间状况百出，搞得律师焦头烂额，咱也不能说人就一定是气死的，但相信这个情况，并不是个例。 很多医生也吐槽，患者拿着豆包来各种怼医生，用豆包质疑医生的诊断，有时候就很无语，你用豆包看病好了，找医生干嘛呢。 我不是经常徒步么，向导也再三提醒，户外徒步，千万别信豆包，特别是一个人穿越野线，用豆包其实很危险的。最近看到",
+     "source": "虎嗅",
+     "zh": "AI，怎么就成专业公敌了"
+    },
+    {
      "title": "从Muse、Instinct 出发，拆解Personal Agent 的真实需求与落地场景",
      "link": "https://www.huxiu.com/article/4905835.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 11:01:03 +0800",
@@ -1841,14 +1825,6 @@
      "zh": "美智库集体研判：中美俄举行三方会晤，将如何影响国际秩序？"
     },
     {
-     "title": "光伏“结构性修复”，修在了哪儿？",
-     "link": "https://www.huxiu.com/article/4905826.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 10:44:24 +0800",
-     "summary": "本文来自微信公众号： 北极星太阳能光伏网 ，作者：燕七 国家能源局数据显示，2026年前三季度，全国光伏新增装机110.83GW，同比下滑53.9%。但Q3单季装机38.76GW，同比增长38%，9月单月光伏装机增长41.2%，需求已边际回暖。 整体来看，光伏行业仍处于周期底部。据业内统计，108家A股光伏上市公司前三季度合计归母净利润为-30.50亿元，其中58家亏损。但三季报释放出明确的边际修复信号：据北极星太阳能光伏网结合上市公司三季报统计，2026年第三季度，共有40家光伏上市公司实现盈利，38家企业前三季度盈利，另有6家企业三季度归母净利润环比减亏。 分化的成绩单显示，光伏行业并未出",
-     "source": "虎嗅",
-     "zh": "光伏“结构性修复”，修在了哪儿？"
-    },
-    {
      "title": "世界首个 300 兆瓦人工硐室型压缩空气储能电站在甘肃并网发电",
      "link": "https://www.ithome.com/1/027/546.htm",
      "pubDate": "Mon, 16 Nov 2026 02:43:18 GMT",
@@ -1873,6 +1849,14 @@
      "zh": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)"
     },
     {
+     "title": "优先股遭抛售之后收益率最高达8%，为什么这是一个买入机会",
+     "link": "https://www.tmtpost.com/8206370.html",
+     "pubDate": "Mon, 16 Nov 2026 10:37:31 +0800",
+     "summary": "优先股较高的收益率和税收优惠，使其成为股票和债券市场中更具吸引力的收益投资领域之一。",
+     "source": "钛媒体",
+     "zh": "优先股遭抛售之后收益率最高达8%，为什么这是一个买入机会"
+    },
+    {
      "title": "SK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers (Yoolim Lee/Bloomberg)",
      "link": "https://www.techmeme.com/261115/p21#a261115p21",
      "pubDate": "Sun, 15 Nov 2026 21:20:02 -0500",
@@ -1887,14 +1871,6 @@
      "summary": "复用的关键不在把一套平台复制到所有行业，而在把可复用的骨架与不可复用的行业知识分开：骨架靠本体和模块化沉淀，行业知识留在行业里生长。",
      "source": "钛媒体",
      "zh": "数据产量涨了十倍，愿意掏钱买数据的企业只有11.65%丨ToB产业观察"
-    },
-    {
-     "title": "Qwen4-Max",
-     "link": "https://qwen.ai/blog?id=qwen4-max",
-     "pubDate": "Mon, 16 Nov 2026 02:14:44 +0000",
-     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 33 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Qwen4-Max"
     },
     {
      "title": "OpenAI六年两次裁撤机器人团队，中国厂商却在给“小脑”持续下注",
@@ -1913,14 +1889,6 @@
      "zh": "谁能熬过具身寒冬？"
     },
     {
-     "title": "Universal XSS in uBlock Origin from website-driven element picker",
-     "link": "https://iter.ca/post/ubo-uxss/",
-     "pubDate": "Mon, 16 Nov 2026 02:04:48 +0000",
-     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 54 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Universal XSS in uBlock Origin from website-driven element picker"
-    },
-    {
      "title": "退货这件苦差事，机器人不只搬箱子了",
      "link": "https://www.tmtpost.com/8206264.html",
      "pubDate": "Mon, 16 Nov 2026 10:00:25 +0800",
@@ -1937,14 +1905,6 @@
      "zh": "两只动物，一个吞下铸造厂，一个收回了拳头"
     },
     {
-     "title": "40颗卫星一夜损失，亚马逊买的火箭为何靠不住？",
-     "link": "https://www.tmtpost.com/8206149.html",
-     "pubDate": "Mon, 16 Nov 2026 10:00:17 +0800",
-     "summary": "买下百次发射服务，亚马逊为何仍被困在地面?",
-     "source": "钛媒体",
-     "zh": "40颗卫星一夜损失，亚马逊买的火箭为何靠不住？"
-    },
-    {
      "title": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)",
      "link": "https://www.techmeme.com/261115/p20#a261115p20",
      "pubDate": "Sun, 15 Nov 2026 20:45:01 -0500",
@@ -1953,44 +1913,12 @@
      "zh": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)"
     },
     {
-     "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-     "link": "https://www.hntrends.com/2026/november.html",
-     "pubDate": "Mon, 16 Nov 2026 01:31:30 +0000",
-     "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 63 # Comments: 31",
-     "source": "Hacker News",
-     "zh": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs"
-    },
-    {
      "title": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)",
      "link": "https://www.techmeme.com/261115/p19#a261115p19",
      "pubDate": "Sun, 15 Nov 2026 20:15:01 -0500",
      "summary": "Financial Times : Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants &nbsp; &mdash;&nbsp; South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfol",
      "source": "Techmeme",
      "zh": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)"
-    },
-    {
-     "title": "Coles hit by a cybersecurity incident",
-     "link": "https://www.colesgroup.com.au/updates/",
-     "pubDate": "Mon, 16 Nov 2026 01:14:35 +0000",
-     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 52 # Comments: 24",
-     "source": "Hacker News",
-     "zh": "Coles hit by a cybersecurity incident"
-    },
-    {
-     "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-     "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "pubDate": "Mon, 16 Nov 2026 00:21:54 +0000",
-     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 47 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack"
-    },
-    {
-     "title": "What's Next for Nvidia?",
-     "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-     "pubDate": "Sun, 15 Nov 2026 23:55:55 +0000",
-     "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 87 # Comments: 92",
-     "source": "Hacker News",
-     "zh": "What's Next for Nvidia?"
     },
     {
      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
@@ -2007,6 +1935,54 @@
      "summary": "Bloomberg : Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement &nbsp; &mdash;&nbsp; The startup is set for the biggest IPO of all time, putting AI investors' hopes and dreams &mdash; and fea",
      "source": "Techmeme",
      "zh": "Sources: Anthropic&apos;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)"
+    },
+    {
+     "title": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)",
+     "link": "https://www.techmeme.com/261115/p17#a261115p17",
+     "pubDate": "Sun, 15 Nov 2026 17:35:01 -0500",
+     "summary": "Joey Roulette / Reuters : Amazon loses 40 Leo satellites after ULA's Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture &nbsp; &mdash;&nbsp; A Vulcan rocket owned by United Launch Alliance, the joint venture of Boeing (BA.N) and Lockhe",
+     "source": "Techmeme",
+     "zh": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)"
+    },
+    {
+     "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+     "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+     "pubDate": "Sun, 15 Nov 2026 18:29:14 +0000",
+     "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+     "source": "TechCrunch",
+     "zh": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending"
+    },
+    {
+     "title": "SpaceX 成功回收火箭上面级",
+     "link": "https://www.solidot.org/story?sid=85893",
+     "pubDate": "Sun, 15 Nov 2026 22:38:30 +0800",
+     "summary": "SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。此次代号为 Flight 15/Starlink Group 31-2 的任务原计划同时回收火箭上面级和推进器，但推进器 Booster 22 在发射后不久启动了终止程序，在海面上受控爆炸。上面级 Ship 42 则绕地球飞行 14 圈历经 22.5 小时后于周六在 Starbase 被 2 号发射台的筷子臂成功捕获。此次任务发射了 22 颗 Starlink V3 卫星。",
+     "source": "Solidot",
+     "zh": "SpaceX 成功回收火箭上面级"
+    },
+    {
+     "title": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款",
+     "link": "https://www.solidot.org/story?sid=85892",
+     "pubDate": "Sun, 15 Nov 2026 21:51:56 +0800",
+     "summary": "因 Meta 的 Android 版 Facebook 应用未经用户明确同意或充分披露的情况下访问用户的手机相册和视频，意大利监管机构对其处以 8.05 亿欧元罚款。调查人员发现，该功能默认开启，而 Facebook 在申请访问用户相册权限时，将该权限与多种不同用途的应用功能捆绑在一起，通过单一授权请求获取访问权。意大利要求 Meta 在 60 天内禁用该功能，对该功能的启用额外征求用户同意。意大利约有 2000 万 Android 用户，此次罚款是意大利对科技巨头开出的金额最高的罚单之一。意大利监管机构表示，在做出处罚决定时，考虑了受影响人数巨大以及 Meta 不配合等因素。对这一处罚，Me",
+     "source": "Solidot",
+     "zh": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款"
+    },
+    {
+     "title": "香港迪士尼乐园 1.7 万张电子门票被盗",
+     "link": "https://www.solidot.org/story?sid=85891",
+     "pubDate": "Sun, 15 Nov 2026 21:15:41 +0800",
+     "summary": "香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。报道称，乐园门票由 Cityline 负责网上票务售卖，园方资讯科技部于 11 月 12 日晚侦测到公司电脑系统有异常活动，发现一万七千个二维码在网上票务系统被盗。香港资讯科技商会荣誉会长方保侨称：以往黑客是写程序或手动追漏洞，现在 AI 发展令黑客用 AI 寻找网络漏洞，从而攻击，近期这么多事件，我们相信只会愈来愈多。因为 AI 攻击太快，人手根本抵挡不到，开始提倡用 AI 防守，而市面上亦有这些方案。",
+     "source": "Solidot",
+     "zh": "香港迪士尼乐园 1.7 万张电子门票被盗"
+    },
+    {
+     "title": "亚洲象种群数量减少变得更孤立",
+     "link": "https://www.solidot.org/story?sid=85890",
+     "pubDate": "Sun, 15 Nov 2026 20:12:20 +0800",
+     "summary": "对斯里兰卡野生亚洲象的一项为期 12 年的研究显示，种群数量的逐渐减少可令动物社群跨越一个社会临界点，从而使长期形成的关系破裂，群体变得更小且更孤立，并威胁物种的长期生存。研究人员分析了斯里兰卡 443 头野生雌性亚洲象为期 12 年的个体观察数据。M他们发现，种群个体的逐渐流失使这一亚洲象种群跨越了社会临界点，从根本上重塑了其社会网络。随着死亡和永久离群的个体日益超过新加入的个体，象群规模变小、群体数量增多且日益孤立；到2018 年时，在最初被追踪的雌象中，近 69% 已从研究种群中消失。研究结果显示，这种碎片化不仅由个体丧失驱动，也由留存大象之间较弱社会纽带的断裂所驱动，从而导致整个种群个",
+     "source": "Solidot",
+     "zh": "亚洲象种群数量减少变得更孤立"
     }
    ]
   },
@@ -2265,6 +2241,22 @@
    "total": 13,
    "items": [
     {
+     "title": "A big chunk of your 401(k) is likely invested in Nvidia",
+     "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 03:11:00 GMT",
+     "summary": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.",
+     "source": "MarketWatch",
+     "zh": "A big chunk of your 401(k) is likely invested in Nvidia"
+    },
+    {
+     "title": "上海FILA HOUSE正式开业，全球首家 FILA 运动时尚生活方式酒店亮相西虹桥",
+     "link": "http://www.eeo.com.cn/2026/1116/1094205.shtml",
+     "pubDate": "Mon, 16 Nov 2026 11:01:57 +0800",
+     "summary": "这座位于上海安踏中心、拥有108间客房与套房的生活方式酒店，以FILA特有的意式美学与活力、当代设计与社交精神，为西虹桥带来全新的运动时尚生活体验",
+     "source": "经济观察网",
+     "zh": "上海FILA HOUSE正式开业，全球首家 FILA 运动时尚生活方式酒店亮相西虹桥"
+    },
+    {
      "title": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite",
      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
      "pubDate": "Mon, 16 Nov 2026 02:56:24 GMT",
@@ -2295,6 +2287,14 @@
      "summary": "11月16日，中国国家统计局公布的最新数据显示，1—10月份，全国房地产开发投资57215亿元， 同比下降21.6% ；其中，住宅投资44102亿元，下降21.4%。 数据还显示，1—10月份，新建商品房销售面积61358万平方米， 同比下降13.7% ；其中住宅销售面积下降14.2%。新建商品房销售额58550亿元，下降14.3%；其中住宅销售额下降14.1%。根据住房城乡建设部数据，1—10月份， 二手房交易网签面积67971万平方米，同比增长11.4%。 与此同时，中国国家统计局数据显示，1—10月份，房地产开发企业到位资金61530亿元，同比下降21.9%。 前10月房地产开发投资同比",
      "source": "华尔街见闻",
      "zh": "中国1-10月房地产开发投资同比下降21.6%，新建商品房销售额同比下降14.3%"
+    },
+    {
+     "title": "统计局：10月规模以上工业增加值同比增长4.8% 社会消费品零售总额同比增长0.4%",
+     "link": "http://finance.eastmoney.com/news/1345,202611163931603485.html",
+     "pubDate": "Mon, 16 Nov 2026 10:00:13 +0800",
+     "summary": "10月份，在以习近平同志为核心的党中央坚强领导下，各地区各部门认真贯彻落实党中央和国务院决策部署，坚持稳中求进工作总基调，强化存量政策和增量政策协同，扎实推进高质量发展，生产供给平稳增长，市场销售规模扩大，对外贸易快速增长，就业物价总体稳定，新质生产力茁壮成长，国民经济运行延续总体平稳、向新向优发展态势。 一、工业生产较快增长，装备制造业和高技术制造业支撑明显 10月份，全国规模以上工业增加值同比增长4.8%，环比增长0.21%。分三大门类看，采矿业增加值同比增长0.7%，制造业增长5.4%， 电力 、热力、燃气及水生产和供应业增长4.4%。装备制造业增加值同比增长10.6%，高技术制造业增加",
+     "source": "东方财富资讯",
+     "zh": "统计局：10月规模以上工业增加值同比增长4.8% 社会消费品零售总额同比增长0.4%"
     },
     {
      "title": "煤炭板块震荡拉升 安泰集团冲击涨停",
@@ -2369,6 +2369,14 @@
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
+     "title": "Anthropic超级IPO本周“出鞘” 美股AI信仰面临最严苛大考？",
+     "link": "http://finance.eastmoney.com/news/1354,202611163931589678.html",
+     "pubDate": "Mon, 16 Nov 2026 09:47:57 +0800",
+     "summary": "在 英伟达 首席执行官黄仁勋上周突然辞职后，美股AI投资主题虽遭重创，但整体表现仍展现出惊人的韧性。然而，随着Anthropic的超级IPO即将登陆市场，投资者对股市可能陷入动荡的担忧仍在蔓延。 市场普遍忧虑，投资者会选择抛售现有的持仓股票，以便腾出资金抢购这笔庞大的新股…… Anthropic上周二表示，计划在本周通过一场规模空前的首次公开募股向投资者筹集625亿美元，同时还将通过私募融资向包括 英伟达 和 美光科技 在内的投资者筹集260亿美元。 业内人士的担忧显然不无道理 ——近期其他备受瞩目的IPO已经伴随着剧烈波动：6月12日 SpaceX 创纪录的超大规模发行前仅约一周，市场就因一",
+     "source": "东方财富资讯",
+     "zh": "Anthropic超级IPO本周“出鞘” 美股AI信仰面临最严苛大考？"
+    },
+    {
      "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
      "link": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
      "pubDate": "Mon, 16 Nov 2026 01:41:33 GMT",
@@ -2385,12 +2393,44 @@
      "zh": "10月70城房价：一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降"
     },
     {
+     "title": "统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
+     "link": "http://finance.eastmoney.com/news/1345,202611163931587013.html",
+     "pubDate": "Mon, 16 Nov 2026 09:30:02 +0800",
+     "summary": "2026年10月份，70个大中城市中，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，一二三线城市同比降幅继续收窄。 一、一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降 10月份，一线城市新建商品住宅销售价格环比由上月上涨0.1%转为持平。其中，上海和深圳分别上涨0.2%和0.1%，广州持平，北京下降0.1%。二线城市新建商品住宅销售价格环比由上月持平转为下降0.1%。三线城市新建商品住宅销售价格环比下降0.2%，降幅与上月相同。70个大中城市中，新建商品住宅销售价格环比上涨城市有14个，比上月减少3个。 10月份，一线城市二手住宅销售价格环比上涨0.2%，涨幅与上月相同。",
+     "source": "东方财富资讯",
+     "zh": "统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄"
+    },
+    {
+     "title": "11月16日集合竞价：北纬科技4连板 岳阳兴长2连板",
+     "link": "http://stock.eastmoney.com/news/11752,202611163931583532.html",
+     "pubDate": "Mon, 16 Nov 2026 09:26:08 +0800",
+     "summary": "11月16日，三大指数集体低开，上证指数低开0.63%，深证成指低开0.79%，创业板指低开1.26%。板块方面， 教育 运营及其他领涨， 博瑞传播 涨9.95%， 院线 、 稀土 等开盘涨幅居前。 个股方面，5股竞价涨停，其中 北纬科技 4连板、 岳阳兴长 2连板、 金逸影视 2连板、 中国稀土 首板、 九阳股份 首板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
+     "source": "东方财富资讯",
+     "zh": "11月16日集合竞价：北纬科技4连板 岳阳兴长2连板"
+    },
+    {
      "title": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
      "link": "https://wallstreetcn.com/articles/3785982",
      "pubDate": "Mon, 16 Nov 2026 09:24:25 +0800",
      "summary": "黄仁勋辞任英伟达CEO后，摩根士丹利发布更新报告，将此次事件定性为\"重大挫折\"。同时将目标价从300美元下调至267美元，但维持\"增持\"评级。 据追风交易台消息，大摩认为，英伟达供应链与产品管线已锁定未来两年，Vera Rubin平台正在爬坡，即便将FY28/FY29数据中心收入预测下调约10%以应对出口管制风险，当前股价相对目标价仍有约61%的上行空间，基本面依然稳固。 报告指出，过去十年间，黄仁勋主导了硬件、软件、网络、计算与存储领域的一系列创新，推动了AI领域的大幅跃进；快速决策、积极的供应链管理，以及对客户、投资者和员工的高度可及性，都是其任期的显著标志。 临时CEO的变数 黄仁勋辞职",
      "source": "华尔街见闻",
      "zh": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”"
+    },
+    {
+     "title": "SK海力士进一步扩产HBM4 正洽谈设备采购事宜 预计明年上半年投产",
+     "link": "http://finance.eastmoney.com/news/1344,202611163931580125.html",
+     "pubDate": "Mon, 16 Nov 2026 09:15:34 +0800",
+     "summary": "据韩媒报道， SK海力士 正进一步扩大其 高带宽内存 （HBM4）产能， 计划投资建设HBM封装和测试的设备，预计将于明年上半年全面投产 。 据多家 半导体 设备制造商11月15日透露， SK海力士 正在与合作伙伴洽谈HBM4生产设备的采购事宜 。据悉，该公司主要与后端工艺设备供应商（包括HBM键合、切割和测试设备供应商）协调采购的时间和数量。 一位来自 SK海力士 合作伙伴公司的员工表示：“SK海力士正在寻求对HBM4生产设施的追加投资。”他补充道：“他们正在加快进度，目标是在明年上半年完成设备的引进和安装。”SK海力士要求在第一季度交付部分设备。 清州P&T6是新增生产基地的首选，SK海力",
+     "source": "东方财富资讯",
+     "zh": "SK海力士进一步扩产HBM4 正洽谈设备采购事宜 预计明年上半年投产"
+    },
+    {
+     "title": "星舰回收创历史！商业航天迎密集催化 多股获机构密集调研",
+     "link": "http://finance.eastmoney.com/news/11822,202611163931579286.html",
+     "pubDate": "Mon, 16 Nov 2026 09:08:49 +0800",
+     "summary": "SpaceX 星舰首次实现“筷子夹飞船”，我国 商业航天 领域近期亦多次成功发射。机构认为， 商业航天 产业趋势持续向上 ，产业链或迎价值重估机遇。 星舰实现“筷子夹飞船” 北京时间11月15日清晨，美国太空探索技术公司（ SpaceX ）星舰第十五次试飞的上面级飞船返回得克萨斯州星港，在完成着陆点火和姿态翻转后，成功被发射塔“筷子”机械臂捕获。 据悉，这是 SpaceX 首次成功捕获从地球轨道返回的星舰上面级飞船，为实现星舰完全、快速重复使用迈出关键一步。 此前，该飞船已完成26颗第三代星链卫星部署。但超重型助推器未能成功回收，最终在墨西哥湾近海受控溅落。 我国 商业航天 近期同样密集取得发",
+     "source": "东方财富资讯",
+     "zh": "星舰回收创历史！商业航天迎密集催化 多股获机构密集调研"
     },
     {
      "title": "Australia's IDP Education rejects Blackstone’s sweetened takeover bid",
@@ -2439,70 +2479,6 @@
      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
      "source": "MarketWatch",
      "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
-    },
-    {
-     "title": "Baidu Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4672582-baidu-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 17:35:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Baidu Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday",
-     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-     "pubDate": "Sun, 15 Nov 2026 22:33:26 GMT",
-     "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-     "source": "CNBC",
-     "zh": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday"
-    },
-    {
-     "title": "Pictet raises Japan allocation as it looks beyond AI stocks",
-     "link": "https://seekingalpha.com/news/4672813-pictet-raises-japan-allocation-as-it-looks-beyond-ai-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 17:20:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pictet raises Japan allocation as it looks beyond AI stocks"
-    },
-    {
-     "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 22:15:00 GMT",
-     "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-     "source": "MarketWatch",
-     "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?"
-    },
-    {
-     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 21:32:00 GMT",
-     "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
-     "source": "MarketWatch",
-     "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
-    },
-    {
-     "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-     "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 21:31:00 GMT",
-     "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-     "source": "MarketWatch",
-     "zh": "Budget airlines are going upscale with first-class seats and faster wifi"
-    },
-    {
-     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 20:30:00 GMT",
-     "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-     "source": "MarketWatch",
-     "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
-    },
-    {
-     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-     "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
-     "pubDate": "Sun, 15 Nov 2026 19:03:41 GMT",
-     "summary": "Tech supporters lobby chipmaker’s board to reinstate former head after he resigned following affair with alleged Chinese spy",
-     "source": "Financial Times",
-     "zh": "Jensen Huang discusses comeback as Nvidia CEO with allies"
     }
    ]
   },

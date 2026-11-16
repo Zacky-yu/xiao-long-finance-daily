@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 09:51:50",
+ "generated_at": "2026/11/16 09:56:59",
  "recent_days": 7,
  "industries": [
   {
@@ -466,14 +466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1021,7 +1021,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1040,14 +1040,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1096,6 +1088,14 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1458,6 +1458,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1498,6 +1506,14 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1520,6 +1536,14 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1754,6 +1778,14 @@ window.INDUSTRY_DATA = {
      "zh": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)"
     },
     {
+     "title": "消息称英特尔规划 12 性能核 + bLLC 桌面处理器，计算芯粒采用 Intel 18A-P 工艺",
+     "link": "https://www.ithome.com/1/027/503.htm",
+     "pubDate": "Mon, 16 Nov 2026 01:44:27 GMT",
+     "summary": "IT之家 11 月 16 日消息，据消息人士 @jaykihn0 北京时间今日爆料， 英特尔正计划推出一颗拥有 12 个性能核心并配备 bLLC 缓存的解锁桌面处理器 （另有 4 个 LP-E 核心）。 结合 @jaykihn0 的后续发言和另一消息人士 @OneRaichu 的补充，这一面向游戏玩家的性价比型号虽然名义上属于 \"Razor Lake\" 序列，但 本质上是 \"Nova Lake\" 的 \"Refresh\" 版本 。其性能核基于 \"Coyote Cove\" 微架构，计算芯粒采用 Intel 18A-P 制程工艺节点。 @jaykihn0 还提到， 部分其它 \"Razor Lake\"",
+     "source": "IT之家",
+     "zh": "消息称英特尔规划 12 性能核 + bLLC 桌面处理器，计算芯粒采用 Intel 18A-P 工艺"
+    },
+    {
      "title": "近臣",
      "link": "https://www.huxiu.com/article/4905803.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 09:44:11 +0800",
@@ -1882,12 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "谁能熬过具身寒冬？"
     },
     {
-     "title": "How Samsung aims to be a one-stop shop that builds, runs, and powers data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)",
+     "title": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)",
      "link": "https://www.techmeme.com/261115/p19#a261115p19",
      "pubDate": "Sun, 15 Nov 2026 20:15:01 -0500",
-     "summary": "Financial Times : How Samsung aims to be a one-stop shop that builds, runs, and powers data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants &nbsp; &mdash;&nbsp; South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfo",
+     "summary": "Financial Times : Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants &nbsp; &mdash;&nbsp; South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfol",
      "source": "Techmeme",
-     "zh": "How Samsung aims to be a one-stop shop that builds, runs, and powers data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)"
+     "zh": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)"
     },
     {
      "title": "Coles hit by a cybersecurity incident",
@@ -1896,14 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 5 # Comments: 0",
      "source": "Hacker News",
      "zh": "Coles hit by a cybersecurity incident"
-    },
-    {
-     "title": "三星 SDI 签署数万亿韩元合同，向 Jupiter Power 供应 16GWh LFP 储能电池",
-     "link": "https://www.ithome.com/1/027/496.htm",
-     "pubDate": "Mon, 16 Nov 2026 01:14:09 GMT",
-     "summary": "IT之家 11 月 16 日消息，三星 SDI 当地时间今日宣布，将在 2029~2031 年向美国公用事业电池储能系统企业 Jupiter Power 供应总计 16GWh 的磷酸铁锂棱柱电池 。这笔交易预计价值数万亿韩元 （IT之家注：1 万亿韩元当前约合 50.02 亿元人民币） 。 这些电池将由三星 SDI 的美国印第安纳州工厂生产 。两家企业此前已达成 11GWh 的合作。Jupiter Power 在美国拥有 19.7GWh 的运营、在建、承诺容量，另有 110GWh 的项目正在开发中。 为支撑自身磷酸铁锂业务的开展，三星 SDI 通过与浦项未来 M、L&amp;F 等韩国公司签署",
-     "source": "IT之家",
-     "zh": "三星 SDI 签署数万亿韩元合同，向 Jupiter Power 供应 16GWh LFP 储能电池"
     },
     {
      "title": "汽车激光雷达厂商，又开始抢机器人关节的生意了",
@@ -2074,6 +2098,14 @@ window.INDUSTRY_DATA = {
      "zh": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]"
     },
     {
+     "title": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro",
+     "link": "https://www.gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php",
+     "pubDate": "Sun, 15 Nov 2026 21:28:30 +0100",
+     "summary": "The iPhone has always had a great selection of games, including some AAA titles from older console generations. However, it was with the launch of the iPhone 15 Pro that Apple opened the gates for current-generation games to be ported over to the mobile platform for the first time. Such was the grap",
+     "source": "GSMArena",
+     "zh": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro"
+    },
+    {
      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
      "link": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/",
      "pubDate": "Sun, 15 Nov 2026 16:36:12 +0000",
@@ -2104,6 +2136,14 @@ window.INDUSTRY_DATA = {
      "summary": "When it comes to 3-in-1 travel chargers, I look at two main things: How fast it can charge my iPhone and how portable it is. I have tested plenty of travel chargers that aim to be as portable as possible by using lightweight materials or folding into a smaller footprint, but there usually seems to b",
      "source": "9to5Mac",
      "zh": "Hands-on: This 25W MagSafe charger is thinner than an iPhone: KUXIU K4 Air [Video]"
+    },
+    {
+     "title": "Tilta Khronos Oppo Find X10 Pro Max Creator Kit hands-on",
+     "link": "https://www.gsmarena.com/tilta_khronos_oppo_find_x10_pro_max_creator_kit_handson-news-75476.php",
+     "pubDate": "Sun, 15 Nov 2026 15:03:02 +0100",
+     "summary": "Today, we've got another video creator kit for unboxing. It's the Tilta-made Khronos Oppo Find X10 Pro Max Creator Kit, and it's nearly identical to the one we tried with the Find X9 Ultra. If you want a quicker version, here's our video unboxing over on our TikTok. The entire kit comes in a quality",
+     "source": "GSMArena",
+     "zh": "Tilta Khronos Oppo Find X10 Pro Max Creator Kit hands-on"
     },
     {
      "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
@@ -2146,6 +2186,14 @@ window.INDUSTRY_DATA = {
      "zh": "5 fitness trackers you should buy instead of the Moto Watch 2 Fit"
     },
     {
+     "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review",
+     "link": "https://www.gsmarena.com/galaxy_s27_dummies_xiaomi_18s_land_in_the_office_week_46_in_review-news-75478.php",
+     "pubDate": "Sun, 15 Nov 2026 11:01:02 +0100",
+     "summary": "Samsung's upcoming Galaxy S27 series appeared in a new leak, courtesy of Sonny Dickson, who shared dummy units of the Galaxy S27 Ultra, S27 Pro, and S27+. The Ultra and Pro feature a radically redesigned, nearly full-width camera island, while the S27+ retains the familiar vertical camera arrangemen",
+     "source": "GSMArena",
+     "zh": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review"
+    },
+    {
      "title": "Bluetooth HDT could finally fix wireless audio quality, but there’s still one big problem",
      "link": "https://www.androidauthority.com/bluetooth-hdt-one-big-problem-3733124/",
      "pubDate": "Sun, 15 Nov 2026 10:00:20 +0000",
@@ -2160,6 +2208,30 @@ window.INDUSTRY_DATA = {
      "summary": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？ 查看全文",
      "source": "少数派",
      "zh": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表"
+    },
+    {
+     "title": "Weekly poll: how long do you plan to keep your current phone?",
+     "link": "https://www.gsmarena.com/weekly_poll_how_long_do_you_plan_to_keep_your_current_phone-news-75477.php",
+     "pubDate": "Sun, 15 Nov 2026 07:07:02 +0100",
+     "summary": "Six years ago, we asked you “how often do you change your phone?”. The most common answer back then was once every three years, with once every two years coming in a close second. So, if the statistics hold up, most of you reading this have changed your phone two or three times since 2020. But back ",
+     "source": "GSMArena",
+     "zh": "Weekly poll: how long do you plan to keep your current phone?"
+    },
+    {
+     "title": "Weekly poll results: GrapheneOS support was a great move for the Motorola Signature 27",
+     "link": "https://www.gsmarena.com/weekly_poll_results_grapheneos_support_was_a_great_move_for_the_motorola_signature_27-news-75474.php",
+     "pubDate": "Sun, 15 Nov 2026 03:37:02 +0100",
+     "summary": "The Motorola Signature 27 is not a launch-day purchase for most people, but the inevitable discounts may turn this flagship into a sleeper hit. And some of the interest towards the phone is coming from an unexpected source. First, let’s address the elephant in the room. The MSRP of $1,600 / €1,900 i",
+     "source": "GSMArena",
+     "zh": "Weekly poll results: GrapheneOS support was a great move for the Motorola Signature 27"
+    },
+    {
+     "title": "Honor Magic10 series might feature a 200MP primary camera with LOFIC tech",
+     "link": "https://www.gsmarena.com/honor_magic10_series_200mp_camera_lofic_tech_dual_layer_oled_display-news-75485.php",
+     "pubDate": "Sun, 15 Nov 2026 00:01:02 +0100",
+     "summary": "A few days ago, tipster Smart Pikachu suggested that the Magic10 series might mark the return of variable-aperture cameras on Honor smartphones. Now, a new Weibo post by the tipster suggests the Magic10 series might feature a primary camera with a large 200MP sensor and LOFIC tech. In a separate pos",
+     "source": "GSMArena",
+     "zh": "Honor Magic10 series might feature a 200MP primary camera with LOFIC tech"
     },
     {
      "title": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]",
@@ -2184,54 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "No SD card, no problem.",
      "source": "Android Authority",
      "zh": "How I freed up 36GB on my Android phone without deleting a single photo"
-    },
-    {
-     "title": "Adam Savage continues his journey into the IMAX film process",
-     "link": "https://www.dpreview.com/videos/adam-savage-imax-development-timing-videos/",
-     "pubDate": "Sat, 14 Nov 2026 09:00:00 +0000",
-     "summary": "From printing and projecting to developing and timing.",
-     "source": "DPReview",
-     "zh": "Adam Savage continues his journey into the IMAX film process"
-    },
-    {
-     "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-     "link": "https://sspai.com/post/118276",
-     "pubDate": "Sat, 14 Nov 2026 15:40:21 +0800",
-     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-     "source": "少数派",
-     "zh": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA"
-    },
-    {
-     "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
-     "link": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
-     "pubDate": "Sat, 14 Nov 2026 01:15:00 +0000",
-     "summary": "After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp. more…",
-     "source": "9to5Google",
-     "zh": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages"
-    },
-    {
-     "title": "What you should know before using Adobe’s latest photo-editing tools",
-     "link": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
-     "pubDate": "Fri, 13 Nov 2026 22:07:53 +0000",
-     "summary": "Demonstrations with Adobe’s product managers offered more insight into how the new features work. Trying them myself raised a few more questions.",
-     "source": "DPReview",
-     "zh": "What you should know before using Adobe’s latest photo-editing tools"
-    },
-    {
-     "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
-     "link": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
-     "pubDate": "Fri, 13 Nov 2026 22:00:00 +0000",
-     "summary": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much work as the company’s ",
-     "source": "9to5Google",
-     "zh": "Pixelated 125: Google’s glasses, Meta’s baggage"
-    },
-    {
-     "title": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter",
-     "link": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
-     "pubDate": "Fri, 13 Nov 2026 21:23:59 +0000",
-     "summary": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection , delivering cameras, speakers, and more that bring the bulk of the functionality and processing directly to your home. more…",
-     "source": "9to5Google",
-     "zh": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter"
     }
    ]
   },
@@ -2242,12 +2266,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "冰雪经济概念表现活跃 龙江交通涨停",
-     "link": "http://finance.eastmoney.com/news/11440,202611163931592956.html",
-     "pubDate": "Mon, 16 Nov 2026 09:41:35 +0800",
-     "summary": "冰雪经济 概念表现活跃， 龙江交通 涨停， 冰山冷热 、 龙建股份 、 晶雪节能 、 大连圣亚 跟涨。消息面上，在2026—2027雪季，吉林省各地将举办第十届雪博会、长春冰雪节、吉林雾凇冰雪节、查干湖冰雪渔猎文化旅游节、 长白山 粉雪节等各类文旅主题活动400余项，将冰雪运动与民俗体验深度融合。",
-     "source": "东方财富股票",
-     "zh": "冰雪经济概念表现活跃 龙江交通涨停"
+     "title": "2027见闻历，财经人的桌面必备“神历”",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Mon, 16 Nov 2026 09:51:00 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "2027见闻历，财经人的桌面必备“神历”"
+    },
+    {
+     "title": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing",
+     "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+     "pubDate": "Mon, 16 Nov 2026 01:50:10 GMT",
+     "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+     "source": "CNBC",
+     "zh": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing"
+    },
+    {
+     "title": "Anthropic超级IPO本周“出鞘” 美股AI信仰面临最严苛大考？",
+     "link": "http://finance.eastmoney.com/news/1354,202611163931589678.html",
+     "pubDate": "Mon, 16 Nov 2026 09:47:57 +0800",
+     "summary": "在 英伟达 首席执行官黄仁勋上周突然辞职后，美股AI投资主题虽遭重创，但整体表现仍展现出惊人的韧性。然而，随着Anthropic的超级IPO即将登陆市场，投资者对股市可能陷入动荡的担忧仍在蔓延。 市场普遍忧虑，投资者会选择抛售现有的持仓股票，以便腾出资金抢购这笔庞大的新股…… Anthropic上周二表示，计划在本周通过一场规模空前的首次公开募股向投资者筹集625亿美元，同时还将通过私募融资向包括 英伟达 和 美光科技 在内的投资者筹集260亿美元。 业内人士的担忧显然不无道理 ——近期其他备受瞩目的IPO已经伴随着剧烈波动：6月12日 SpaceX 创纪录的超大规模发行前仅约一周，市场就因一",
+     "source": "东方财富资讯",
+     "zh": "Anthropic超级IPO本周“出鞘” 美股AI信仰面临最严苛大考？"
     },
     {
      "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
@@ -2256,46 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
      "source": "Financial Times",
      "zh": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy"
-    },
-    {
-     "title": "安洁科技：截至11月10日最新股东户数5.35万户，较上期减少1.47%",
-     "link": "http://stock.eastmoney.com/news/11111,202611163931591698.html",
-     "pubDate": "Mon, 16 Nov 2026 09:39:11 +0800",
-     "summary": "安洁科技 最新披露数据显示，截至11月10日公司股东户数为5.35万户，较上期(2026年10月30日) 减少800户，降幅为1.47% 。户均持有流通股数量 由上期的7284股上升至7393股， 户均持股金额 由上期的9.16万元增加至11.11万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "安洁科技：截至11月10日最新股东户数5.35万户，较上期减少1.47%"
-    },
-    {
-     "title": "创业板指跌2%",
-     "link": "http://finance.eastmoney.com/news/11440,202611163931591891.html",
-     "pubDate": "Mon, 16 Nov 2026 09:38:57 +0800",
-     "summary": "创业板指跌幅扩大至2%，上证指数跌0.94%，深证成指跌1.37%。",
-     "source": "东方财富股票",
-     "zh": "创业板指跌2%"
-    },
-    {
-     "title": "路畅科技：截至11月10日最新股东户数1.47万户，较上期减少5.06%",
-     "link": "http://stock.eastmoney.com/news/11111,202611163931591351.html",
-     "pubDate": "Mon, 16 Nov 2026 09:38:08 +0800",
-     "summary": "路畅科技 最新披露数据显示，截至11月10日公司股东户数为1.47万户，较上期(2026年10月20日) 减少785户，降幅为5.06% 。户均持有流通股数量 由上期的7723股上升至8134股， 户均持股金额 由上期的19.62万元增加至21.88万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "路畅科技：截至11月10日最新股东户数1.47万户，较上期减少5.06%"
-    },
-    {
-     "title": "港股医药股走低康方生物跌24.54%",
-     "link": "http://hk.eastmoney.com/news/1535,202611163931593027.html",
-     "pubDate": "Mon, 16 Nov 2026 09:37:51 +0800",
-     "summary": "港股医药股走低 康方生物 (09926.HK)跌24.54%、 荣昌生物 (09995.HK)跌超5%、 金斯瑞生物科技 (01548.HK)跌3.88%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "港股医药股走低康方生物跌24.54%"
-    },
-    {
-     "title": "港股医药股走低 康方生物跌超24%",
-     "link": "http://finance.eastmoney.com/news/1354,202611163931592761.html",
-     "pubDate": "Mon, 16 Nov 2026 09:37:38 +0800",
-     "summary": "截至发稿， 康方生物 (09926.HK)跌24.54%、 荣昌生物 (09995.HK)跌5.02%、 金斯瑞生物科技 (01548.HK)跌3.88%。",
-     "source": "东方财富股票",
-     "zh": "港股医药股走低 康方生物跌超24%"
     },
     {
      "title": "陈春花：向上管理五要素AI新解",
@@ -2410,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite"
     },
     {
-     "title": "华尔街因黄仁勋离职“集体变脸” 本周英伟达财报能否顶住压力？",
-     "link": "http://finance.eastmoney.com/news/1344,202611163931577739.html",
-     "pubDate": "Mon, 16 Nov 2026 09:02:13 +0800",
-     "summary": "近日，全球芯片龙头 英伟达 的股价因“黄仁勋风波”持续承压，而随着黄仁勋辞去CEO一职，华尔街分析师对 英伟达 股票的看法发生了逆转。 据统计，随着市场消化这一剧性事件，目前至少有10位顶级华尔街分析师将 英伟达 股票的“买入”评级下调至“持有”。 高盛 、 摩根大通 、RBC 等多家机构则下调了目标价。 “不确定性太大，我们决定观望，”伯恩斯坦的Stacy Rasgon及其团队表示：“我们非常乐意在未来某个时候重新审视这只股票，但我们很难建议现在就买入。” 这位分析师在上周的一份报告中将该股评级从“跑赢大盘”下调至“与大盘持平”，目标价为200美元。他质疑任何新任CEO是否有能力真正接替黄仁",
-     "source": "东方财富资讯",
-     "zh": "华尔街因黄仁勋离职“集体变脸” 本周英伟达财报能否顶住压力？"
-    },
-    {
      "title": "Australia's IDP Education rejects Blackstone’s sweetened takeover bid",
      "link": "https://seekingalpha.com/news/4672818-australias-idp-education-rejects-blackstone-s-sweetened-takeover-bid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 19:36:43 -0500",
@@ -2440,14 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "黄仁勋辞职数日后，围绕英伟达CEO职位的争夺已演变为一场公开博弈。一边是硅谷盟友为其回归积极奔走，另一边是美国财政部长贝森特高调施压，要求彻底换血。 11月15日，据英国《金融时报》报道，黄仁勋已与亲信讨论重返CEO职位的可能性，其盟友正在硅谷组建\"战情室\"，游说英伟达董事会将其复职，并计划争取白宫支持。与此同时，美国财政部长贝森特周日在福克斯新闻节目上明确表态，英伟达需要\"大刀阔斧的领导层变革\"，董事会应从外部物色继任者。 两股力量方向相反，英伟达董事会夹在中间，独立调查仍在进行，季度财报将于周二公布。而这场角力的走向，将直接影响这家市值4万亿美元芯片巨头的未来走向。 盟友集结，“战情室”游",
      "source": "华尔街见闻",
      "zh": "公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择“外部人士”"
-    },
-    {
-     "title": "数周来首次！伊朗袭击巴林，“回应美国侵略”",
-     "link": "https://wallstreetcn.com/articles/3785974",
-     "pubDate": "Mon, 16 Nov 2026 08:15:57 +0800",
-     "summary": "伊朗数周来首次对波斯湾国家发动直接打击，局势再度升温，但德黑兰同时释放出结束冲突仍有可能的信号，油价在供需宽松压力下维持震荡。 据 新华社 报道，伊朗伊斯兰革命卫队15日发表声明称，伊朗无人机打击了位于巴林里法直升机基地的美军防空雷达。巴林国防军总司令部证实，防空系统当天拦截并摧毁多架伊朗无人机，国防军各作战部门已处于 最高戒备状态 。伊朗外交部发言人巴加埃随后在例行记者会上表示，伊朗打击在巴林的美军基地是 “回应美国侵略” ，伊方“绝不会放过”美国或其他国家对伊朗发动的任何军事行动。 据媒体11月16日报道， 此次袭击是伊朗数周来首次直接打击波斯湾国家 。消息提振油价短线企稳，布伦特原油维持",
-     "source": "华尔街见闻",
-     "zh": "数周来首次！伊朗袭击巴林，“回应美国侵略”"
     },
     {
      "title": "Ideaya picks cancer drug candidate, targets human trial application in 2027",
@@ -2480,6 +2464,46 @@ window.INDUSTRY_DATA = {
      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
      "source": "MarketWatch",
      "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
+    },
+    {
+     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 23:00:00 GMT",
+     "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+     "source": "MarketWatch",
+     "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
+    },
+    {
+     "title": "Baidu Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4672582-baidu-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 17:35:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Baidu Q3 2026 Earnings Preview"
+    },
+    {
+     "title": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday",
+     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+     "pubDate": "Sun, 15 Nov 2026 22:33:26 GMT",
+     "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+     "source": "CNBC",
+     "zh": "&apos;We slept here&apos;: Flight delays linger but schedule is back on track for Monday"
+    },
+    {
+     "title": "Pictet raises Japan allocation as it looks beyond AI stocks",
+     "link": "https://seekingalpha.com/news/4672813-pictet-raises-japan-allocation-as-it-looks-beyond-ai-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 17:20:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pictet raises Japan allocation as it looks beyond AI stocks"
+    },
+    {
+     "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 22:15:00 GMT",
+     "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+     "source": "MarketWatch",
+     "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?"
     }
    ]
   },

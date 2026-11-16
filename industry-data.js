@@ -58,14 +58,6 @@ window.INDUSTRY_DATA = {
      "zh": "Building AI that can work across the enterprise"
     },
     {
-     "title": "Agentic System Design: A Self-Study Roadmap",
-     "link": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
-     "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
-     "summary": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
-     "source": "KDnuggets",
-     "zh": "Agentic System Design: A Self-Study Roadmap"
-    },
-    {
      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
      "pubDate": "Mon, 16 Nov 2026 12:30:00 +0000",
@@ -290,36 +282,12 @@ window.INDUSTRY_DATA = {
      "zh": "Technology as a Trojan Horse"
     },
     {
-     "title": "Würth introduces PowerBusbar PF for standard PCBs",
-     "link": "https://www.electronicsweekly.com/news/products/wurth-introduces-powerbusbar-pf-for-standard-pcbs-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 12:09:48 +0000",
-     "summary": "Würth Elektronik ICS is introducing the PowerBusbar PF (press-fit). This is a busbar that is press-fit vertically into PCBs to save space and increase current-carrying capacity. It also improves thermal […] The post Würth introduces PowerBusbar PF for standard PCBs appeared first on Electronics Week",
-     "source": "Electronics Weekly",
-     "zh": "Würth introduces PowerBusbar PF for standard PCBs"
-    },
-    {
      "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
      "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
      "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
      "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
      "source": "IEEE Spectrum 半导体",
      "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
-    },
-    {
-     "title": "San Francisco Agreement on secure supply chains signed",
-     "link": "https://www.electronicsweekly.com/news/business/san-francisco-agreement-on-secure-supply-chains-signed-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 10:49:17 +0000",
-     "summary": "On November 15, the United States and nine Pax Silica participants signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity at the Pax Silica Founders Retreat, convened […] The post San Francisco Agreement on secure supply chains signed appeared first on Electronics Week",
-     "source": "Electronics Weekly",
-     "zh": "San Francisco Agreement on secure supply chains signed"
-    },
-    {
-     "title": "Binder M5 portfolio adds field-wireable, shieldable connectors",
-     "link": "https://www.electronicsweekly.com/news/products/connectors/binder-m5-portfolio-adds-field-wireable-shieldable-connectors-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 10:11:51 +0000",
-     "summary": "Binder is expanding its M5 portfolio with field-wireable and shieldable male and female cable connectors. The circular industrial connector specialist highlights that users can now assemble the compact connectors onto […] The post Binder M5 portfolio adds field-wireable, shieldable connectors appear",
-     "source": "Electronics Weekly",
-     "zh": "Binder M5 portfolio adds field-wireable, shieldable connectors"
     },
     {
      "title": "AXT’s revenue grows 162% year-on-year to record $73.4m in Q3",
@@ -400,22 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "From birdsong and pollinator wingbeats to the vibrations of insects feeding inside plants, acoustic sensors and AI are helping farmers monitor biodiversity, improve pollination, and detect threats to crops. The post The Sound of Smarter Farming appeared first on EE Times .",
      "source": "EE Times",
      "zh": "The Sound of Smarter Farming"
-    },
-    {
-     "title": "DRAM companies fail to get price-fixing case dismissed",
-     "link": "https://www.electronicsweekly.com/news/business/dram-companies-sued-for-price-fixing-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 06:16:33 +0000",
-     "summary": "The memory makers are facing a price-fixing legal case after a US judge rejected a move by Samsung, Hynix and Micron to have a class-action antitrust lawsuit dismissed. The lawsuit, […] The post DRAM companies fail to get price-fixing case dismissed appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "DRAM companies fail to get price-fixing case dismissed"
-    },
-    {
-     "title": "Nvidia taps Rene Haas for CEO",
-     "link": "https://www.electronicsweekly.com/news/business/nvidia-taps-rene-haas-for-ceo-2026-11/",
-     "pubDate": "Mon, 16 Nov 2026 06:15:24 +0000",
-     "summary": "Nvidia has tapped Arm CEO Rene Haas to be CEO of Nvidia, reports the FT. Haas is one of several possibilities, internal and external, being considered by Nvidia’s board. Haas […] The post Nvidia taps Rene Haas for CEO appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Nvidia taps Rene Haas for CEO"
     },
     {
      "title": "CEO Interview with Kurt Busch of Syntiant",
@@ -1944,6 +1896,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 16 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。 据徐直军回忆，在他 1993 年入职时期，华为研发团队正攻关数字程控交换机。伴随中国经济高速发展，家庭与办公固话的需求远大于供给。 很多年里，装一部电话既难又贵 。西方厂商的交换机虽已进入中国，但各家标准互不兼容， 每条线路成本约 3,000 元人民",
      "source": "IT之家",
      "zh": "徐直军回顾华为“发家史”，透露在与西方老牌通信厂商的正面竞争中快速做大了业务"
+    },
+    {
+     "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+     "link": "https://github.com/withcoral/coral",
+     "pubDate": "Mon, 16 Nov 2026 14:14:51 +0000",
+     "summary": "Hi HN, I'm James, one of the co-founders of Coral. Coral is an open-source, self-hosted gateway that sits between your agents and the systems they work on. Agents call tools by writing short TypeScript programs that they can save as custom tools to reuse. You can publish custom tools for groups of a",
+     "source": "Hacker News",
+     "zh": "Show HN: Coral – Open-source gateway where agents write their own tools"
     },
     {
      "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",

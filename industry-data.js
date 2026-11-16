@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 13:31:54",
+ "generated_at": "2026/11/16 13:51:53",
  "recent_days": 7,
  "industries": [
   {
@@ -306,6 +306,14 @@ window.INDUSTRY_DATA = {
      "zh": "Applied Materials expands India R&D ambitions, targets 2027 start for US$5 billion project"
     },
     {
+     "title": "Ed Eyes A Glamorous Chinese Spy",
+     "link": "https://www.electronicsweekly.com/blogs/ed-eyes-a-glamorous-chinese-spy-2026-11/",
+     "pubDate": "Mon, 16 Nov 2026 01:01:31 +0000",
+     "summary": "In all my years as a reasonably successful tech CEO and as a Cabinet Minister of an important country, I have never been targeted by a glamorous Chinese spy, Ed […] The post Ed Eyes A Glamorous Chinese Spy appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Ed Eyes A Glamorous Chinese Spy"
+    },
+    {
      "title": "CEO Interview with Kurt Busch of Syntiant",
      "link": "https://semiwiki.com/ceo-interviews/376259-ceo-interview-with-kurt-busch-of-syntiant/",
      "pubDate": "Sun, 15 Nov 2026 20:00:41 +0000",
@@ -354,12 +362,28 @@ window.INDUSTRY_DATA = {
      "zh": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs"
     },
     {
+     "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 17:59:01 +0000",
+     "summary": "One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car. The post Picture of the Day: Lemo drives Sauber F1 to Electronica appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Picture of the Day: Lemo drives Sauber F1 to Electronica"
+    },
+    {
      "title": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout",
      "link": "https://semiwiki.com/eda/quilter/376102-ceo-interview-with-sergiy-nesterenko-of-quilter-on-ai-pcb-layout/",
      "pubDate": "Fri, 13 Nov 2026 17:00:32 +0000",
      "summary": "Sergiy Nesterenko is founder and CEO of Quilter, which builds physics-driven AI for printed circuit board (PCB) layout. He triple majored in mathematics, physics, and chemistry at UC Berkeley and worked in the electromagnetic interference and compatibility (EMI/EMC) group at SpaceX during the early ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout"
+    },
+    {
+     "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 15:17:38 +0000",
+     "summary": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
+     "source": "Electronics Weekly",
+     "zh": "Jedec creates Subcommittee to address System Level Reliability Testing"
     },
     {
      "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
@@ -376,6 +400,30 @@ window.INDUSTRY_DATA = {
      "summary": "Explore how electronica 2026 shows chipmakers shifting to AI platforms as data centers, edge AI, and robotics reshape power and silicon. The post electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage appeared first on EE Times .",
      "source": "EE Times",
      "zh": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage"
+    },
+    {
+     "title": "Technologies Which Died",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 14:05:31 +0000",
+     "summary": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Technologies Which Died"
+    },
+    {
+     "title": "Electronica: Renesas adds Xplorer Developer Hub",
+     "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 13:58:00 +0000",
+     "summary": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Renesas adds Xplorer Developer Hub"
+    },
+    {
+     "title": "Electronica – The latest news roundup",
+     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
+     "pubDate": "Fri, 13 Nov 2026 11:12:27 +0000",
+     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Electronica – The latest news roundup"
     },
     {
      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
@@ -418,6 +466,14 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -440,62 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
-    },
-    {
-     "title": "Rethinking Memory For AI Inference",
-     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
-     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
-     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Rethinking Memory For AI Inference"
-    },
-    {
-     "title": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall",
-     "link": "https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/",
-     "pubDate": "Thu, 12 Nov 2026 08:08:39 +0000",
-     "summary": "Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. The post Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall"
-    },
-    {
-     "title": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI",
-     "link": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/",
-     "pubDate": "Thu, 12 Nov 2026 08:06:49 +0000",
-     "summary": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI"
-    },
-    {
-     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
-     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
-    },
-    {
-     "title": "JX and OXIDE enter into capital and business alliance agreement",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/jx-oxide-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 19:39:19 GMT",
-     "summary": "Tokyo-based JX Advanced Metals Corp and OXIDE Corp of Yamanashi, Japan (which specializes in optical crystals and frequency-conversion technology) have entered into a capital and business alliance agreement. JX plans to subscribe for shares to be issued by OXIDE through a third-party allotment and a",
-     "source": "Semiconductor Today",
-     "zh": "JX and OXIDE enter into capital and business alliance agreement"
-    },
-    {
-     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
-     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
-     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
-     "source": "Semiconductor Today",
-     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
-    },
-    {
-     "title": "The Race to Build a “Find My” for AI Chips",
-     "link": "https://spectrum.ieee.org/find-my-ai-chip",
-     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
-     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -1306,12 +1306,28 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+     "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+     "pubDate": "Mon, 16 Nov 2026 05:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w",
+     "source": "NASA",
+     "zh": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb"
+    },
+    {
      "title": "Connecting Constellations: The Shift to Real-Time Space Operations",
      "link": "https://payloadspace.com/connecting-constellations-the-shift-to-real-time-space-operations/",
      "pubDate": "Mon, 16 Nov 2026 05:00:00 +0000",
      "summary": "After years of development and demonstrations, optical communications are reshaping how the space industry approaches mission architectures. Kepler’s optical space data relay constellation gives government and commercial customers opportunities to connect previously isolated systems, strengthen resi",
      "source": "Payload",
      "zh": "Connecting Constellations: The Shift to Real-Time Space Operations"
+    },
+    {
+     "title": "The Last Ice on Puncak Jaya",
+     "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+     "pubDate": "Mon, 16 Nov 2026 05:00:00 +0000",
+     "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
+     "source": "NASA",
+     "zh": "The Last Ice on Puncak Jaya"
     },
     {
      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
@@ -1466,28 +1482,12 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
      "summary": "AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism. The post AST SpaceMobile presses case for developing own launch vehicle appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "AST SpaceMobile presses case for developing own launch vehicle"
-    },
-    {
-     "title": "I Am Artemis Katie Spicer",
-     "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
-     "pubDate": "Thu, 12 Nov 2026 20:10:02 +0000",
-     "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint o",
-     "source": "NASA",
-     "zh": "I Am Artemis Katie Spicer"
     },
     {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
@@ -1506,22 +1506,6 @@ window.INDUSTRY_DATA = {
      "zh": "What role does industry play in Europe’s space sovereignty push?"
     },
     {
-     "title": "Heart in the Sky at NASA Kennedy",
-     "link": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
-     "pubDate": "Thu, 12 Nov 2026 19:12:49 +0000",
-     "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating t",
-     "source": "NASA",
-     "zh": "Heart in the Sky at NASA Kennedy"
-    },
-    {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
@@ -1536,14 +1520,6 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1770,12 +1746,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "每天只学2小时？，美国最火创新学校翻车了",
+     "link": "https://www.huxiu.com/article/4905887.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 13:41:46 +0800",
+     "summary": "本文来自微信公众号： 谷雨星球 ，作者：卷卷兔，原文标题：《每天只学2小时？！美国最火创新学校翻车了》 大家好，我是卷卷兔。 要问这两年全世界最火的创新学校，美国的Alpha School大概没有对手。 美国教育/部长亲自到访，称它是「典范」，更有不少科技新贵，为了一个学位拖家带口从硅谷搬到德州。哪怕一年学费最高7.5万美元，也是开到哪火到哪。 但今年，它的负面舆论多了起来，最核心的矛盾是「空有口号、没有效果」。 10月23日，NYT就用内部数据质疑了Alpha School号称的「每天只学2小时，学到2倍的内容」： 「去年约一半的K-8学生没有做到‘数学2倍速’，数学和阅读都达标的不到一半」",
+     "source": "虎嗅",
+     "zh": "每天只学2小时？，美国最火创新学校翻车了"
+    },
+    {
+     "title": "“周围酒店全满房了”，秋假让中小学生挤爆游乐园",
+     "link": "https://www.huxiu.com/article/4905885.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 13:28:58 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：陈怡轩，原文标题：《“周围酒店全满房了” ，秋假让中小学生挤爆游乐园》 “周围酒店全满房了！这一个月所有工作人员几乎没有休息。” 11月13日，上海海昌海洋公园相关负责人告诉界面新闻，10月31日起，单日入园游客达到5万人次，乐园旗下两家酒店海洋度假酒店、奥特曼主题酒店于11月12日起连续7天已提前满房，整体收入增长10%。 11月中旬以来，北京环球影城、上海迪士尼乐园、上海乐高乐园等多处主题乐园也人满为患；四川九寨沟多次发布门票售罄公告、各地博物馆开放预约即秒没。 近日，界面新闻记者在上海迪士尼乐园酒店大厅看到，办入住的家庭游客络绎不绝，公主IP驻场与",
+     "source": "虎嗅",
+     "zh": "“周围酒店全满房了”，秋假让中小学生挤爆游乐园"
+    },
+    {
+     "title": "Omdia：2026 年 Q3 东南亚智能手机出货量同比下降 36%，苹果逆势增长 4%",
+     "link": "https://www.ithome.com/1/027/644.htm",
+     "pubDate": "Mon, 16 Nov 2026 05:28:25 GMT",
+     "summary": "IT之家 11 月 16 日消息，根据 Omdia 最新研究，2026 年第三季度，东南亚智能手机市场同比下降 36%， 出货量降至 1,650 万部 。这一市场收缩延续了 2026 年上半年以来的下行趋势，存储芯片供应短缺及零部件成本上涨持续制约智能手机厂商的出货表现。 IT之家从报告获悉，尽管出货量大幅下滑，市场出货价值同比仅下降 1%， 而平均售价（ASP）则同比上涨 53% 。这一差异反映出，在供应压力持续加大的背景下，智能手机厂商正通过提高产品售价来应对成本上涨及供应限制。 2026 年第三季度主要智能手机厂商表现亮点： 尽管 三星 出货量同比下降 20% 至 370 万部，仍保持东",
+     "source": "IT之家",
+     "zh": "Omdia：2026 年 Q3 东南亚智能手机出货量同比下降 36%，苹果逆势增长 4%"
+    },
+    {
      "title": "学历通胀、AI再添一把火，大学改革出路在哪？",
      "link": "https://www.huxiu.com/article/4905884.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 13:24:31 +0800",
      "summary": "本文来自微信公众号： 底线思维 ，作者：沈晓敏 高考、考研、考公，文凭、“第一学历”、“在哪高就”……这些关键词基本伴随着我们每个人从踏入校门到走上工作岗位，同窗竞争、同侪压力、社会评价，也自然成了每个人必须面对的课题。 有压力才有动力，当然是激励之语；但当压力阈值接近临界点，这些关键词的位次和内涵随之变化。“考研热”有所退潮，“考公热”持续不减，年轻人一边喊着想“躺平”，一边“卷”出新天地。从“孔乙己的长衫”到“第一学历”歧视，再到AI迅速冲击，文凭正在贬值——当学历不能再兑换它“承诺”的资源，年轻人该何去何从？社会又该如何看待这份逐渐“失效的契约”？ 近日，观察者网与华东师范大学教育学部沈",
      "source": "虎嗅",
      "zh": "学历通胀、AI再添一把火，大学改革出路在哪？"
+    },
+    {
+     "title": "丰田联手小马智行，第七代铂智 4X Robotaxi 在广州开启示范运营",
+     "link": "https://www.ithome.com/1/027/643.htm",
+     "pubDate": "Mon, 16 Nov 2026 05:24:19 GMT",
+     "summary": "IT之家 11 月 16 日消息，11 月 16 日，小马智行与丰田合作研发并量产的第七代 铂智 4X Robotaxi 在广州正式投入示范运营 ，面向公众开放 L4 级自动驾驶服务。 据介绍，目前，小马智行与丰田已在北上广深四座一线城市落地 Robotaxi 服务。铂智 4X Robotaxi 投入示范运营，标志着双方在中国市场的 L4 战略合作迈入新阶段。 铂智 4X Robotaxi 是小马智行与丰田历经以雷克萨斯、赛那为原型的多代 L4 级车型迭代后的标杆之作。为支撑 L4 车型规模化量产及运营的长远布局，2023 年 8 月，小马智行联合丰田中国、广汽丰田宣布共同 投资 10 亿元 ",
+     "source": "IT之家",
+     "zh": "丰田联手小马智行，第七代铂智 4X Robotaxi 在广州开启示范运营"
+    },
+    {
+     "title": "我国自主研发电子航海日志系统发布，航运基础文书数字化转型关键一步",
+     "link": "https://www.ithome.com/1/027/642.htm",
+     "pubDate": "Mon, 16 Nov 2026 05:16:52 GMT",
+     "summary": "IT之家 11 月 16 日消息，据央视新闻报道， 我国自主研发的电子航海日志系统 今日（11 月 16 日）正式发布，这标志着我国航运基础文书数字化转型迈出关键一步。 航海日志是船舶航行的法定原始记录，也是海事调查、事故溯源、责任判定的核心依据。 此次发布的电子航海日志系统， 以自动记录替代手工誊写 ；通过船岸数据同步，船舶管理从“翻本子”变为“看数据”；借助数字签名与区块链存证保障记录真实、不可篡改，为海事监管和港口国监督检查提供可信依据。 目前系统已在四艘货船完成了实船试验，基础信息自动抓取、数据回传等功能经测试运行稳定，试验效果良好， 计划 2027 年 1 月份在各船型、吨位、航线船",
+     "source": "IT之家",
+     "zh": "我国自主研发电子航海日志系统发布，航运基础文书数字化转型关键一步"
     },
     {
      "title": "同仁堂24.4亿收购天津同仁堂，贵不贵",
@@ -1826,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "长沙比亚迪 4S 店新车交付时被偷走：门店承认管理疏漏，嫌疑人已被拘留"
     },
     {
-     "title": "英伟达目标价腰斩，被汇丰大幅下调至 170 美元",
-     "link": "https://www.ithome.com/1/027/612.htm",
-     "pubDate": "Mon, 16 Nov 2026 05:03:11 GMT",
-     "summary": "IT之家 11 月 16 日消息，汇丰分析师 Frank Lee 上周末将英伟达评级下调至持有，目标价从 365 美元 （IT之家注：现汇率约合 2,438 元人民币） 大幅砍至 170 美元 （现汇率约合 1,135 元人民币） ，下调约 54%。 英伟达 2027 财年第二财季（2026 年 4 月 26 日～2026 年 7 月 26 日）收入为 962.2 亿美元 （现汇率约合 6,425.96 亿元人民币） ，同比增长 105.8%，管理层表示客户需求远超其供应链所能提供的服务。 然而，黄仁勋于 11 月 12 日宣布辞去英伟达总裁、首席执行官及董事会成员职务，投资者现在必须考虑英伟",
-     "source": "IT之家",
-     "zh": "英伟达目标价腰斩，被汇丰大幅下调至 170 美元"
-    },
-    {
      "title": "当演员肖茵遇见《持械入宋》总编剧",
      "link": "https://www.huxiu.com/article/4905841.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 12:49:44 +0800",
@@ -1848,14 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "Artificial Analysis : Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost &nbsp; &mdash;&nbsp; Qwen4 Max is above average in intelligence and reasonably priced when comparing to other models ",
      "source": "Techmeme",
      "zh": "Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost (Artificial Analysis)"
-    },
-    {
-     "title": "无界进化宣布完成超亿元 Pre-A 轮融资，称“刷新中国虚拟细胞企业单笔融资纪录”",
-     "link": "https://www.ithome.com/1/027/609.htm",
-     "pubDate": "Mon, 16 Nov 2026 04:42:03 GMT",
-     "summary": "IT之家 11 月 16 日消息，以虚拟细胞与递归科学发现为核心的 AI for Science（科学智能，AI4S）企业 无界进化（INFevo） 今日宣布完成超亿元 Pre-A 轮融资，刷新中国虚拟细胞企业单笔融资金额纪录。 本轮融资由星连资本、Prosperity7 Ventures、华盖资本、华控基金及德同资本等机构联合投资，老股东顺为资本、红杉中国和松禾资本继续追加投资。 这是无界进化继 2026 年 6 月完成数千万元天使轮融资后，五个月内完成的第二轮融资。 资金将加快公司 AI4S 基础设施建设 ，推动细胞响应预测、科学假说检验与高通量自动化实验反馈的深度协同，打造覆盖“靶点发现",
-     "source": "IT之家",
-     "zh": "无界进化宣布完成超亿元 Pre-A 轮融资，称“刷新中国虚拟细胞企业单笔融资纪录”"
     },
     {
      "title": "“AI生成的代码必须开源，”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
@@ -1874,36 +1874,20 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: the Trump admin plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help them win overseas business (Wall Street Journal)"
     },
     {
+     "title": "Stop Filming in Log",
+     "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+     "pubDate": "Mon, 16 Nov 2026 04:37:03 +0000",
+     "summary": "Article URL: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/ Comments URL: https://news.ycombinator.com/item?id=50514093 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Stop Filming in Log"
+    },
+    {
      "title": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, bringing total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 (Abhinaya Prabhu/Tech Funding News)",
      "link": "https://www.techmeme.com/261115/p28#a261115p28",
      "pubDate": "Sun, 15 Nov 2026 23:35:01 -0500",
      "summary": "Abhinaya Prabhu / Tech Funding News : AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, bringing total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 &nbsp; &mdash;&nbsp; - Kindo has raised $30M, bringing its total capital raised to $57.6M.&nbsp; &mdash",
      "source": "Techmeme",
      "zh": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, bringing total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 (Abhinaya Prabhu/Tech Funding News)"
-    },
-    {
-     "title": "豆包工作新功能「工作台」上线，首批覆盖金融、医疗、教育等 21 个专业场景",
-     "link": "https://www.ithome.com/1/027/608.htm",
-     "pubDate": "Mon, 16 Nov 2026 04:27:33 GMT",
-     "summary": "IT之家 11 月 16 日消息，豆包工作今天宣布独家上线「工作台」功能， 首批覆盖金融、医疗、教育等 21 个专业场景 。 据介绍，豆包工作的「工作台」是为用户专业工作场景打造的专属 AI 工作空间。这里预先配置好了专业场景所需技能、工具，大幅降低 AI 使用门槛，提高工作效率。 例如，金融投研工作台首页提供公告解读、业绩分析、市场简报、公司研究等常用任务入口。该工作台打通了各类专业金融数据，可通过插件按需链接万得、同花顺、国泰海通等数据服务。创意设计工作台覆盖海报设计、社媒配图、品牌视觉等常用技能。 此外，用户还可以自建个人专属工作台，支持定制工作需求、偏好，保存后还可分享。",
-     "source": "IT之家",
-     "zh": "豆包工作新功能「工作台」上线，首批覆盖金融、医疗、教育等 21 个专业场景"
-    },
-    {
-     "title": "与其研究AI短剧怎么做，不如抓紧去卖课",
-     "link": "https://www.huxiu.com/article/4905867.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 12:21:40 +0800",
-     "summary": "本文来自微信公众号： 仙人JUMP ，作者：半佛仙人 1 AI短剧火了之后，后台一堆一堆人来问这个行业还能不能入局，这里我要拿出我2年半之前写短剧行业的东西，当时信我的全都保住了自己的钱。 行业有机会，但对你没机会。 真的，这话很难听，但咱俩没有利益冲突，我也不收你钱，收你钱的是要骗你投钱的人。 你不知道该信谁，属于配不上自己的钱。 不要觉得现在人都刷AI短剧AI短剧就能帮你赚大钱。 人还天天都得吃饭穿衣呢，开饭店的做服装的有多惨你也不是不知道。 而且AI短剧的特点是什么？ 是单兵作战一人就可以成为工作室，是控制成本，别管赚不赚钱，先把成本控制住。 当你想往里砸钱的时候，已经代表你成本失控了，",
-     "source": "虎嗅",
-     "zh": "与其研究AI短剧怎么做，不如抓紧去卖课"
-    },
-    {
-     "title": "机器狗进入下半场，扛起了具身智能的半边天",
-     "link": "https://www.huxiu.com/article/4905857.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 12:20:38 +0800",
-     "summary": "本文来自微信公众号： 具身商业前哨 ，作者：温特斯 人形机器人抢走了聚光灯，但机器狗才是赚钱养家的长子。 一周之内，三只国产机器狗创造了三门不一样的生意。从产品形态、落地场景和商业模式上看，机器狗已经迎来了属于它的下半场。 11月6日，上海进博会上，巨星传奇与宇树合作的UNI-DOGGIE首次亮相。这只机器狗售价4.39万元，全球限量2000台。巨星传奇长期运营周杰伦官方二次元IP“周同学”。这只机器狗卖的不只是运动性能，还有明星IP、潮玩外观和收藏属性。 同一周，北京安博会上，智身科技发布安防巡逻机器狗钢哨P1。它把轮足底盘、自主导航和红外热成像做进一套安防巡逻产品，可选配自动充电桩，还给出",
-     "source": "虎嗅",
-     "zh": "机器狗进入下半场，扛起了具身智能的半边天"
     },
     {
      "title": "Apple launches its Health AI Usage Study, with an OpenEvidence-powered app that answers health questions and can use HealthKit data, for up to 200,000 US users (Ivan Mehta/TechCrunch)",
@@ -1917,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Linux was created as a rejection of robust software architecture and tools",
      "link": "https://twitter.com/GrapheneOS/status/2122079826257588569",
      "pubDate": "Mon, 16 Nov 2026 03:58:04 +0000",
-     "summary": "Article URL: https://twitter.com/GrapheneOS/status/2122079826257588569 Comments URL: https://news.ycombinator.com/item?id=50513843 Points: 22 # Comments: 14",
+     "summary": "Article URL: https://twitter.com/GrapheneOS/status/2122079826257588569 Comments URL: https://news.ycombinator.com/item?id=50513843 Points: 25 # Comments: 19",
      "source": "Hacker News",
      "zh": "Linux was created as a rejection of robust software architecture and tools"
     },
@@ -1981,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Qwen4-Max",
      "link": "https://qwen.ai/blog?id=qwen4-max",
      "pubDate": "Mon, 16 Nov 2026 02:14:44 +0000",
-     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 253 # Comments: 86",
+     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 269 # Comments: 92",
      "source": "Hacker News",
      "zh": "Qwen4-Max"
     },
@@ -1989,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "link": "https://iter.ca/post/ubo-uxss/",
      "pubDate": "Mon, 16 Nov 2026 02:04:48 +0000",
-     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 185 # Comments: 48",
+     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 199 # Comments: 50",
      "source": "Hacker News",
      "zh": "Universal XSS in uBlock Origin from website-driven element picker"
     },
@@ -2000,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 81 # Comments: 59",
      "source": "Hacker News",
      "zh": "Coles hit by a cybersecurity incident"
-    },
-    {
-     "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-     "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-     "pubDate": "Mon, 16 Nov 2026 00:21:54 +0000",
-     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 88 # Comments: 22",
-     "source": "Hacker News",
-     "zh": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack"
     }
    ]
   },
@@ -2362,6 +2338,14 @@ window.INDUSTRY_DATA = {
      "zh": "美国全国停飞后各方“甩锅”：特朗普政府指责前任 民主党人嘲讽钱用在了凯旋门"
     },
     {
+     "title": "李强出席第29次中国－东盟领导人会议",
+     "link": "http://finance.eastmoney.com/news/1351,202611163931671951.html",
+     "pubDate": "Mon, 16 Nov 2026 12:52:11 +0800",
+     "summary": "11月16日，国务院总理李强在菲律宾马尼拉出席第29次中国－东盟领导人会议。 李强表示，今年是中国同东盟建立全面战略伙伴关系5周年。过去5年，国际上单边主义、保护主义逆流涌动，地缘冲突此起彼伏。在这样的背景下，中国－东盟合作逆势而上，成效量质齐升，机制不断夯实，互联互通持续加强。5年的历程不同寻常，成绩来之不易，从中可以得到一些宝贵经验和有益启示，很重要的是双方弘扬友好互助的传统，坚守开放共赢的正道，顺应创新发展的潮流。这些经验启示是双方共同的宝贵财富，应当长期坚持并充分运用。 李强指出，5年前，习近平主席提出中国东盟应携手建设和平、安宁、繁荣、美丽、友好的共同家园。中国和东盟国家都崇尚“家”",
+     "source": "东方财富资讯",
+     "zh": "李强出席第29次中国－东盟领导人会议"
+    },
+    {
      "title": "华为云携手福龙马官宣新一代清扫机器人启动预售，以物理AI重塑环卫具身智能",
      "link": "http://finance.eastmoney.com/news/1349,202611163931671818.html",
      "pubDate": "Mon, 16 Nov 2026 12:50:27 +0800",
@@ -2394,12 +2378,36 @@ window.INDUSTRY_DATA = {
      "zh": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?"
     },
     {
+     "title": "家电白马，历史新高！HBM需求强劲，巨头加速扩产，机构资金抢筹8只概念股",
+     "link": "http://finance.eastmoney.com/news/1344,202611163931666325.html",
+     "pubDate": "Mon, 16 Nov 2026 12:22:17 +0800",
+     "summary": "HBM供给紧缺格局短期难以逆转，相关设备及材料供应商将持续受益于扩产周期。 今日（11月16日）早盘，A股科技题材再遭重创， CPO概念 、 存储芯片 、 先进封装 、 英伟达 概念、 PCB 等指数跌幅领先。大消费相关股票逆势走强，日用化工、 家用电器 、 食品饮料 、商业连锁、旅游等指数翻红。 以 家用电器 行业为例，今日早盘，家电股 北鼎股份 收获“20cm”涨停， 华帝股份 、 九阳股份 、 小熊电器 、 长虹美菱 收获“10cm”涨停。 家电白马 美的集团 上涨1.15%，最新收盘价创 历史新高 。公司2026年前三季度实现净利润414亿元，同比增长9.27%。截至11月13日收盘，",
+     "source": "东方财富资讯",
+     "zh": "家电白马，历史新高！HBM需求强劲，巨头加速扩产，机构资金抢筹8只概念股"
+    },
+    {
      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 04:15:00 GMT",
      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
      "source": "MarketWatch",
      "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?"
+    },
+    {
+     "title": "“易中天”再度重挫 AI债务警报拉响？支撑因素并未缺席",
+     "link": "http://finance.eastmoney.com/news/11822,202611163931663553.html",
+     "pubDate": "Mon, 16 Nov 2026 12:14:07 +0800",
+     "summary": "周末的重磅发声，也未能止住A股调整脚步。 11月16日早盘，A股三大指数低开低走， 创业板指半日跌2.34%，盘中创年内新低 ；科创50指数跌近3%， 半导体 、算力硬件再度领跌， 寒武纪 、 海光信息 、 中芯国际 、 兆易创新 等纷纷下挫，“易中天”跌幅均在7%上下，昔日“股王” 联讯仪器 跌超6.4%，已滑落至股价榜第四名。 分析人士认为，海外利空与资金面的变化共振，是本轮调整的直接推手；而政策端与经贸层面的支撑因素，也并未缺席。 四大利空突袭，科技成长全线承压 今日早盘，亚太 半导体 链集体走低，日韩股市双双转跌，叠加上周五美股纳指收跌0.91%，市场情绪受累。 具体来看，黄仁勋 辞职",
+     "source": "东方财富资讯",
+     "zh": "“易中天”再度重挫 AI债务警报拉响？支撑因素并未缺席"
+    },
+    {
+     "title": "内外利好共振！7000亿家电巨头新高 主力吸筹多股",
+     "link": "http://finance.eastmoney.com/news/11139,202611163931663429.html",
+     "pubDate": "Mon, 16 Nov 2026 12:14:04 +0800",
+     "summary": "周一家电概念逆势走强，截至午间收盘，近7000亿巨头 美的集团 涨超1%，股价 历史新高 。 北鼎股份 20CM涨停， 华帝股份 、 九阳股份 、 小熊电器 等多股涨停。 消息面上， 美的集团 持续推进股份回购。截至10月31日，公司 累计回购A股约1.45亿股，支付金额117.57亿元 ，本轮回购股份拟全部用于注销并减少注册资本。 美的集团 2026年前三季度实现营业收入3673.65亿元，同比增长1.19%；归母净利润413.93亿元，同比增长9.27%，其中第三季度归母净利润同比增长25.93%。 华创证券表示， 美的集团 短期收入受到需求及主动调整影响，但海外OBM（Original ",
+     "source": "东方财富资讯",
+     "zh": "内外利好共振！7000亿家电巨头新高 主力吸筹多股"
     },
     {
      "title": "AI基建股蒸发4.2万亿美元，“卖铲盛宴”终结？",
@@ -2410,12 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI基建股蒸发4.2万亿美元，“卖铲盛宴”终结？"
     },
     {
-     "title": "禾元生物自研产品重组人白蛋白注射液（水稻）纳入国家医保目录",
-     "link": "http://www.eeo.com.cn/2026/1116/1094235.shtml",
-     "pubDate": "Mon, 16 Nov 2026 12:04:44 +0800",
-     "summary": "本次奥福民®被纳入国家医保目录，有利于进一步推动奥福民®的市场推广及销售，对公司的长期经营发展具有重要意义。",
-     "source": "经济观察网",
-     "zh": "禾元生物自研产品重组人白蛋白注射液（水稻）纳入国家医保目录"
+     "title": "美的集团、长江电力、工商银行等集体历史新高！“核心资产”要回来了？",
+     "link": "http://finance.eastmoney.com/news/11139,202611163931663281.html",
+     "pubDate": "Mon, 16 Nov 2026 12:10:47 +0800",
+     "summary": "11月16日早盘，A股再次表现分化，一边是 中际旭创 、 新易盛 、 东山精密 、 天孚通信 等大跌；另一边是 美的集团 、 长江电力 、 工商银行 、 建设银行 等创出 历史新高 。对此，有机构表示，三季报结束后，要注意估值风格切换的年末行情特征。 美的集团 历史新高 美的集团 11月16日早盘低开高走，盘中一度触及 91.86元 ，超过2021年2月10日盘中的91.53元，股价再创 历史新高 。而前后两次新高之间，时间相差约5年9个月。 综合 市场观点来看， 美的集团 近期股价的持续震荡走高，以下几方面因素被较多提及： 一是 美的集团 持续推进股份回购。截至10月31日，公司累计回购A股",
+     "source": "东方财富资讯",
+     "zh": "美的集团、长江电力、工商银行等集体历史新高！“核心资产”要回来了？"
     },
     {
      "title": "2027见闻历，财经人的桌面必备“神历”",
@@ -2424,6 +2432,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027见闻历，财经人的桌面必备“神历”"
+    },
+    {
+     "title": "中国与东盟宣布将2027年定为人工智能合作年",
+     "link": "http://finance.eastmoney.com/news/1360,202611163931661378.html",
+     "pubDate": "Mon, 16 Nov 2026 11:58:33 +0800",
+     "summary": "新华社快讯：中国与东盟宣布将2027年定为 人工智能 合作年。 新华社快讯：中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。 （文章来源：新华社）",
+     "source": "东方财富资讯",
+     "zh": "中国与东盟宣布将2027年定为人工智能合作年"
     },
     {
      "title": "创业板跌超2%，光模块龙头“易中天”再大跌，银行逆势拉升，30年期国债跌0.5%，恒指涨1%，新世界发展大跌40%",
@@ -2464,46 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月16日，高盛最新发布的2027年中国市场策略展望报告 将港股评级上调至超配，同时下调A股至中性 ，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。 据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSCI中国指数12个月远期市盈率仅9.8倍，处于十年均值下方约1个标准差， \"大量负面因素已经反映在股价中\" 。 报告认为，2027年的核心交易逻辑已发生结构性转变——从押注AI贝塔行情，转向寻求盈利增长",
      "source": "华尔街见闻",
      "zh": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%"
-    },
-    {
-     "title": "A big chunk of your 401(k) is likely invested in Nvidia",
-     "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 03:11:00 GMT",
-     "summary": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.",
-     "source": "MarketWatch",
-     "zh": "A big chunk of your 401(k) is likely invested in Nvidia"
-    },
-    {
-     "title": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-     "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-     "pubDate": "Mon, 16 Nov 2026 02:56:24 GMT",
-     "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-     "source": "CNBC",
-     "zh": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite"
-    },
-    {
-     "title": "中国1-10月份城镇固定资产投资下降8.1%，信息服务业增长20.5%",
-     "link": "https://wallstreetcn.com/articles/3785990",
-     "pubDate": "Mon, 16 Nov 2026 10:18:14 +0800",
-     "summary": "1—10月，我国高技术产业投资稳步提升，知识产权产品投资快速增长。 11月16日国家统计局发布数据，全国固定资产投资（不含农户）364824亿元，同比下降8.1%。其中，知识产权产品投资同比增长9.2%。 分领域看，基础设施投资同比下降5.1%，制造业投资下降2.9%，房地产开发投资下降21.6%。 高技术产业投资同比增长4.0%，其中信息服务业，航空、航天器及设备制造业，电子及通信设备制造业投资分别增长20.5%、10.2%、6.6%。 分产业看， 第一产业投资7018亿元，同比下降6.1%；第二产业投资142333亿元，下降3.6%；第三产业投资215473亿元，下降10.9%。 工业投资",
-     "source": "华尔街见闻",
-     "zh": "中国1-10月份城镇固定资产投资下降8.1%，信息服务业增长20.5%"
-    },
-    {
-     "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-     "link": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
-     "pubDate": "Mon, 16 Nov 2026 01:41:33 GMT",
-     "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
-     "source": "Financial Times",
-     "zh": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy"
-    },
-    {
-     "title": "Australia's IDP Education rejects Blackstone’s sweetened takeover bid",
-     "link": "https://seekingalpha.com/news/4672818-australias-idp-education-rejects-blackstone-s-sweetened-takeover-bid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 19:36:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Australia's IDP Education rejects Blackstone’s sweetened takeover bid"
     }
    ]
   },

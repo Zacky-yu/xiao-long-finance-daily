@@ -89,6 +89,14 @@
      "zh": "Building trustworthy AI by fencing it in, not predicting it"
     },
     {
+     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
+     "summary": "Plus: CucumberVision!",
+     "source": "Import AI",
+     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
+    },
+    {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
      "link": "https://zhidx.com/p/611006.html",
      "pubDate": "Mon, 16 Nov 2026 21:55:11 +0800",
@@ -239,14 +247,6 @@
      "summary": "余承东重新明确分工",
      "source": "量子位",
      "zh": "余承东发布新款问界M8：38万元起售，全系预埋L3架构"
-    },
-    {
-     "title": "Advancing computer-use agents for healthcare teams",
-     "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-     "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
-     "summary": "",
-     "source": "OpenAI",
-     "zh": "Advancing computer-use agents for healthcare teams"
     }
    ]
   },
@@ -1321,6 +1321,14 @@
      "zh": "What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe"
     },
     {
+     "title": "Sentinel-6B in Orbit Around Earth",
+     "link": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+     "pubDate": "Mon, 16 Nov 2026 18:52:32 +0000",
+     "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+     "source": "NASA",
+     "zh": "Sentinel-6B in Orbit Around Earth"
+    },
+    {
      "title": "Thunderbirds in Formation",
      "link": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
      "pubDate": "Mon, 16 Nov 2026 18:34:47 +0000",
@@ -1457,14 +1465,6 @@
      "zh": "Outbursts from a Massive Star"
     },
     {
-     "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-     "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-     "pubDate": "Fri, 13 Nov 2026 16:05:54 +0000",
-     "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon",
-     "source": "NASA",
-     "zh": "Gemini Astronaut Photos Inspired Early Earth Observation Program"
-    },
-    {
      "title": "Exclusive: Sagittarius Logistics Raises $1.2M to Build Inland Launch Capabilities",
      "link": "https://payloadspace.com/exclusive-sagittarius-logistics-raises-1-2m-to-build-inland-launch-capabilities/",
      "pubDate": "Fri, 13 Nov 2026 14:00:00 +0000",
@@ -1487,14 +1487,6 @@
      "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
      "source": "Spaceflight Now",
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
-    },
-    {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
     },
     {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
@@ -1521,14 +1513,6 @@
      "zh": "What role does industry play in Europe’s space sovereignty push?"
     },
     {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
@@ -1543,14 +1527,6 @@
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -2097,14 +2073,6 @@
      "zh": "macOS 27.3 beta 2 now available with vertical tabs in Safari, native Live Activities, more"
     },
     {
-     "title": "Samsung's Gentle Monster smart glasses pre-orders are already sold out",
-     "link": "https://www.gsmarena.com/samsungs_gentle_monster_smart_glasses_preorders_are_already_sold_out-news-75496.php",
-     "pubDate": "Mon, 16 Nov 2026 20:01:02 +0100",
-     "summary": "Samsung opened pre-orders for its Intelligent Eyewear smart glasses on November 12 in the US and South Korea. Now, just a few days later, all 16 Gentle Monster designs are marked \"Pre-order sold out\" on Gentle Monster's Korean and US online stores, and the company says several of them were gone with",
-     "source": "GSMArena",
-     "zh": "Samsung's Gentle Monster smart glasses pre-orders are already sold out"
-    },
-    {
      "title": "Improve your Amazon Kindle experience by doing these simple things",
      "link": "https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things/",
      "pubDate": "Mon, 16 Nov 2026 19:00:00 +0000",
@@ -2225,14 +2193,6 @@
      "zh": "Samsung’s ‘Galaxy Studio’ headphones leak with touch controls, two colors"
     },
     {
-     "title": "Huawei Osta O1 Pro's live image leaks ahead of launch",
-     "link": "https://www.gsmarena.com/huawei_osta_o1_pros_live_image_leaks_ahead_of_launch-news-75493.php",
-     "pubDate": "Mon, 16 Nov 2026 17:11:02 +0100",
-     "summary": "Huawei recently confirmed that it will unveil its new sub-brand, Osta, on November 20. The company also revealed that one of the upcoming devices will be called the Osta O1 Pro. Now, a leaked live image has offered a first look at the phone's design. The live image, circulating on Chinese social med",
-     "source": "GSMArena",
-     "zh": "Huawei Osta O1 Pro's live image leaks ahead of launch"
-    },
-    {
      "title": "Samsung’s Galaxy Z Fold 8 returns to its lowest price yet ahead of Black Friday",
      "link": "https://9to5google.com/2026/11/16/samsungs-galaxy-z-fold-8-returns-to-its-lowest-price-yet-ahead-of-black-friday/",
      "pubDate": "Mon, 16 Nov 2026 16:08:00 +0000",
@@ -2241,28 +2201,52 @@
      "zh": "Samsung’s Galaxy Z Fold 8 returns to its lowest price yet ahead of Black Friday"
     },
     {
-     "title": "Huawei Mate X8 RAM and storage options revealed as reservations open",
-     "link": "https://www.gsmarena.com/huawei_mate_x8_ram_and_storage_options_revealed_as_reservations_open-news-75490.php",
-     "pubDate": "Mon, 16 Nov 2026 15:44:02 +0100",
-     "summary": "Last week we told you that the Mate X8 was rumored to launch on November 24, and today Huawei made that official. The foldable will be unveiled at an event in China at 14:30 local time on that day, and it's already listed on the company's Vmall online store, where you can reserve one. The listing re",
-     "source": "GSMArena",
-     "zh": "Huawei Mate X8 RAM and storage options revealed as reservations open"
+     "title": "派评 | 近期值得关注的 App",
+     "link": "https://sspai.com/post/119148",
+     "pubDate": "Mon, 16 Nov 2026 18:09:47 +0800",
+     "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+     "source": "少数派",
+     "zh": "派评 | 近期值得关注的 App"
     },
     {
-     "title": "Oppo Reno17 and Reno17 Pro are now official and they're quite familiar",
-     "link": "https://www.gsmarena.com/oppo_reno17_and_reno17_pro_are_now_official_and_theyre_quite_familiar-news-75492.php",
-     "pubDate": "Mon, 16 Nov 2026 14:46:02 +0100",
-     "summary": "Oppo has just made the Reno17 and Reno17 Pro official in China, following plenty of leaks and teasers. They succeed the Chinese Reno16 and Reno16 Pro, but with a twist - last year, the vanilla model was the compact one, with a 6.32-inch screen, while the Pro had a 6.78-inch display. This time around",
-     "source": "GSMArena",
-     "zh": "Oppo Reno17 and Reno17 Pro are now official and they're quite familiar"
+     "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
+     "link": "https://sspai.com/post/118100",
+     "pubDate": "Mon, 16 Nov 2026 15:37:51 +0800",
+     "summary": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ... 查看全文",
+     "source": "少数派",
+     "zh": "Rosetta 2 即将退役，Mac 老应用何去何从？"
     },
     {
-     "title": "Oppo Watch 5 debuts with 1.85\" AMOLED, 7-day battery life",
-     "link": "https://www.gsmarena.com/oppo_watch_5_debuts_with_185_amoled_7day_battery_life-news-75489.php",
-     "pubDate": "Mon, 16 Nov 2026 13:39:03 +0100",
-     "summary": "The Oppo Watch 5 was announced in China today, and it slots in as the latest fitness-oriented watch from the brand. It’s also the first Oppo smartwatch in a long while to feature a rectangular screen. You get a 1.85\" AMOLED with 390×450 px resolution and a 60Hz refresh rate. The display is rated at ",
-     "source": "GSMArena",
-     "zh": "Oppo Watch 5 debuts with 1.85\" AMOLED, 7-day battery life"
+     "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+     "link": "https://sspai.com/post/119012",
+     "pubDate": "Mon, 16 Nov 2026 10:52:11 +0800",
+     "summary": "能切换老设备音质的媒体播放器。 查看全文",
+     "source": "少数派",
+     "zh": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味"
+    },
+    {
+     "title": "派早报：逾十万人次联署要求黄仁勋复职",
+     "link": "https://sspai.com/post/119119",
+     "pubDate": "Mon, 16 Nov 2026 07:24:34 +0800",
+     "summary": "逾十万人次联署要求黄仁勋复职 Microsoft 365 服务在 19 小时全球宕机后恢复 国产前沿模型携带 Blackwell GPU 特征 线缆更换导致全美飞机停飞 流媒体用户抱怨更难找到想看作品 特斯拉 Cybercab 订阅协议包含苛刻条款 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+     "source": "少数派",
+     "zh": "派早报：逾十万人次联署要求黄仁勋复职"
+    },
+    {
+     "title": "Adam Savage continues his journey into the IMAX film process",
+     "link": "https://www.dpreview.com/videos/adam-savage-imax-development-timing-videos/",
+     "pubDate": "Sun, 15 Nov 2026 14:00:00 +0000",
+     "summary": "From printing and projecting to developing and timing.",
+     "source": "DPReview",
+     "zh": "Adam Savage continues his journey into the IMAX film process"
+    },
+    {
+     "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+     "link": "https://sspai.com/post/118392",
+     "pubDate": "Sun, 15 Nov 2026 15:55:16 +0800",
+     "summary": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？ 查看全文",
+     "source": "少数派",
+     "zh": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表"
     }
    ]
   },
@@ -2455,6 +2439,14 @@
      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
      "source": "MarketWatch",
      "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
+     "title": "美股三大指数下跌 标普500跌近2% 芯片股集体下挫",
+     "link": "http://finance.eastmoney.com/news/1345,202611163932124582.html",
+     "pubDate": "Tue, 17 Nov 2026 02:44:09 +0800",
+     "summary": "美东时间周一，美股三大指数集体下跌，截至发稿， 道指跌1.36 %， 纳指跌2.45%，标普500指数跌1.88%。 芯片股集体下挫， 闪迪 、 ARM跌超7%， 英特尔 跌超6% ， 台积电 、 希捷科技 、 AMD 跌超5% ， 博通 、 西部数据 、 应用材料 跌超4%， 英伟达 跌超3%， 美国总统特朗普表示，不介意黄仁勋重新出任 英伟达 首席执行官 。 AI云服务公司走弱，Neibus、 CoreWeave 跌超6%， 甲骨文 跌超4%。 光 通信 板块走低，Lumentum跌超7%， Coherent、 迈威尔科技 、 康宁 跌超6%。 全球要闻 美银：10月中下旬以来NAND闪存",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数下跌 标普500跌近2% 芯片股集体下挫"
     },
     {
      "title": "US tech stocks slide amid Nvidia fallout",

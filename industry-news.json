@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 01:12:10",
+ "generated_at": "2026/11/17 01:20:27",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+     "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+     "pubDate": "Mon, 16 Nov 2026 17:10:00 +0000",
+     "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+     "source": "TechCrunch AI",
+     "zh": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’"
+    },
     {
      "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
@@ -49,28 +57,12 @@
      "zh": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely"
     },
     {
-     "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
-     "link": "https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7",
-     "pubDate": "Mon, 16 Nov 2026 15:00:00 +0000",
-     "summary": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
-     "source": "KDnuggets",
-     "zh": "How to Give Claude Code Up-to-Date Documentation With Context7"
-    },
-    {
      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
      "pubDate": "Mon, 16 Nov 2026 14:48:13 +0000",
      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
      "source": "TechCrunch AI",
      "zh": "Google Maps can now build trip itineraries with real-time details about each stop"
-    },
-    {
-     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
-     "summary": "Plus: CucumberVision!",
-     "source": "Import AI",
-     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
     },
     {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
@@ -87,22 +79,6 @@
      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
      "source": "MIT Tech Review AI",
      "zh": "Building AI that can work across the enterprise"
-    },
-    {
-     "title": "Agentic System Design: A Self-Study Roadmap",
-     "link": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
-     "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
-     "summary": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
-     "source": "KDnuggets",
-     "zh": "Agentic System Design: A Self-Study Roadmap"
-    },
-    {
-     "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-     "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-     "pubDate": "Mon, 16 Nov 2026 12:30:00 +0000",
-     "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-     "source": "TechCrunch AI",
-     "zh": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM"
     },
     {
      "title": "终于！千问办公敞开大门，Kimi、GLM、DeepSeek都来了",
@@ -247,6 +223,30 @@
      "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop",
      "source": "arXiv cs.AI",
      "zh": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors"
+    },
+    {
+     "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+     "link": "https://arxiv.org/abs/2611.17339",
+     "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini",
+     "source": "arXiv cs.AI",
+     "zh": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs"
+    },
+    {
+     "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+     "link": "https://arxiv.org/abs/2611.17340",
+     "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selectio",
+     "source": "arXiv cs.AI",
+     "zh": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space"
+    },
+    {
+     "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+     "link": "https://arxiv.org/abs/2611.17341",
+     "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a",
+     "source": "arXiv cs.AI",
+     "zh": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction"
     }
    ]
   },
@@ -1041,14 +1041,6 @@
      "zh": "How PVcase’s latest platform aims to cut solar project attrition"
     },
     {
-     "title": "Over court objections, DOE issues 7th order to keep Michigan coal plant online",
-     "link": "https://www.utilitydive.com/news/over-court-objections-doe-issues-order-campbell-coal-plant/874733/",
-     "pubDate": "Mon, 16 Nov 2026 08:56:20 -0500",
-     "summary": "Environmental groups say they are &ldquo;evaluating all legal options&rdquo; after a federal appeals court vacated a previous order for the same plant, ruling DOE exceeded its authority. The plant&rsquo;s owner says it has spent more than $300 million keeping it open.",
-     "source": "Utility Dive",
-     "zh": "Over court objections, DOE issues 7th order to keep Michigan coal plant online"
-    },
-    {
      "title": "Reflect Orbital raises US$73.5 million to advance space-based solar reflector technology",
      "link": "https://www.pv-tech.org/reflect-orbital-raises-us73-5-million-space-solar-reflector-technology/",
      "pubDate": "Mon, 16 Nov 2026 12:47:50 +0000",
@@ -1103,6 +1095,14 @@
      "summary": "Patent-pending vertical PECVD/PVD architecture doubles wafer throughput over NAED’s previous platform and is designed to produce perovskite/HJT tandem cells targeting 30% efficiency NAED Energy Holding Inc. (“NAED”), the U.S. aerospace, engineering, and utility-energy company behind NAED Nexus Core™",
      "source": "CleanTechnica",
      "zh": "NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing"
+    },
+    {
+     "title": "A Radically Different Approach to AI",
+     "link": "https://cleantechnica.com/2026/11/15/a-radically-different-approach-to-ai/",
+     "pubDate": "Sun, 15 Nov 2026 22:05:07 +0000",
+     "summary": "About forty years ago, I decided I would develop artificial intelligence in my spare time. I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence. There was a program called ELIZA that did that already, and it ... [contin",
+     "source": "CleanTechnica",
+     "zh": "A Radically Different Approach to AI"
     }
    ]
   },
@@ -1112,6 +1112,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
+     "link": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
+     "pubDate": "Mon, 16 Nov 2026 12:14:00 -0500",
+     "summary": "The FDA refused to overlook ivonescimab&rsquo;s failure to initially extend survival in a form of lung cancer, setting back Summit&rsquo;s first chance to win a U.S. approval.&nbsp;",
+     "source": "BioPharma Dive",
+     "zh": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug"
+    },
     {
      "title": "J&J bets $2.2B on Ollin’s vision loss drug",
      "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
@@ -1255,14 +1263,6 @@
      "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
      "source": "BioPharma Dive",
      "zh": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment"
-    },
-    {
-     "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
-     "link": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
-     "pubDate": "Mon, 16 Nov 2026 05:00:00 -0500",
-     "summary": "Faster drug discovery depends on more than the model. What drug developers need to know about AI.",
-     "source": "BioPharma Dive",
-     "zh": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs"
     },
     {
      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
@@ -1489,6 +1489,14 @@
      "zh": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1513,6 +1521,14 @@
      "zh": "What role does industry play in Europe’s space sovereignty push?"
     },
     {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
@@ -1527,6 +1543,14 @@
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1593,12 +1617,28 @@
      "zh": "7 Tips For Complying with CJIS Password and MFA Requirements"
     },
     {
+     "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+     "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+     "pubDate": "Mon, 16 Nov 2026 19:30:00 +0530",
+     "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. I",
+     "source": "The Hacker News",
+     "zh": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches"
+    },
+    {
      "title": "Google warns that fully-automated AI attacks are coming soon",
      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
      "pubDate": "Mon, 16 Nov 2026 09:00:00 -0500",
      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
      "source": "BleepingComputer",
      "zh": "Google warns that fully-automated AI attacks are coming soon"
+    },
+    {
+     "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+     "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+     "pubDate": "Mon, 16 Nov 2026 18:57:20 +0530",
+     "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still p",
+     "source": "The Hacker News",
+     "zh": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days"
     },
     {
      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
@@ -1673,22 +1713,6 @@
      "zh": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys"
     },
     {
-     "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-     "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-     "pubDate": "Mon, 16 Nov 2026 12:23:34 +0530",
-     "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer ",
-     "source": "The Hacker News",
-     "zh": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server"
-    },
-    {
-     "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-     "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-     "pubDate": "Sun, 15 Nov 2026 16:57:31 +0530",
-     "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' phot",
-     "source": "The Hacker News",
-     "zh": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
-    },
-    {
      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
      "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
      "pubDate": "Fri, 13 Nov 2026 20:20:27 GMT",
@@ -1752,6 +1776,14 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "华为 Mate 90 系列手机  HarmonyOS 7 小艺 AI 快捷栏适配效果公开",
+     "link": "https://www.ithome.com/1/028/007.htm",
+     "pubDate": "Mon, 16 Nov 2026 17:05:15 GMT",
+     "summary": "IT之家 11 月 17 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。 根据最新规划， 华为 Mate 90、Mate 90 Pro、Mate 90 RS、Pura X View 会首批支持 HarmonyOS 7 系统的小艺 AI 快捷栏功能 。IT之家注意到，华为开发者官网实际上已公开 Mate 90 系列手机小艺 AI 快捷栏适配效果。 从画面可以",
+     "source": "IT之家",
+     "zh": "华为 Mate 90 系列手机  HarmonyOS 7 小艺 AI 快捷栏适配效果公开"
+    },
     {
      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
      "link": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
@@ -1937,6 +1969,22 @@
      "zh": "Moody&apos;s: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027 (New York Times)"
     },
     {
+     "title": "英伟达股价无需黄仁勋强势回归也能走强",
+     "link": "https://www.tmtpost.com/8207692.html",
+     "pubDate": "Mon, 16 Nov 2026 23:06:04 +0800",
+     "summary": "在黄仁勋辞职引发的余波影响下，英伟达股价大幅下跌。但这并不意味着他就该回归。",
+     "source": "钛媒体",
+     "zh": "英伟达股价无需黄仁勋强势回归也能走强"
+    },
+    {
+     "title": "美光股价：为何强劲的内存价格可能无济于事",
+     "link": "https://www.tmtpost.com/8207689.html",
+     "pubDate": "Mon, 16 Nov 2026 23:05:35 +0800",
+     "summary": "尽管有人预测明年内存价格会上涨，但美光的股价并未因此受益。",
+     "source": "钛媒体",
+     "zh": "美光股价：为何强劲的内存价格可能无济于事"
+    },
+    {
      "title": "特斯拉将投资 30 亿欧元扩建德国工厂，目标年产 100 万辆 Cybercab",
      "link": "https://www.ithome.com/1/027/993.htm",
      "pubDate": "Mon, 16 Nov 2026 15:04:44 GMT",
@@ -1967,30 +2015,6 @@
      "summary": "Emily Goodin / New York Post : President Trump says he &ldquo;would not mind&rdquo; if Jensen Huang was reinstated as Nvidia's CEO and &ldquo;I don't know that she was a spy at all&rdquo; in reference to Alice Huang &nbsp; &mdash;&nbsp; WASHINGTON &mdash; President Donald Trump said Monday he &ldquo",
      "source": "Techmeme",
      "zh": "President Trump says he \"would not mind\" if Jensen Huang was reinstated as Nvidia&apos;s CEO and \"I don&apos;t know that she was a spy at all\" in reference to Alice Huang (Emily Goodin/New York Post)"
-    },
-    {
-     "title": "奇瑞捷途全新旅行者 7 C-DM 华为乾崑智驾版上市：搭载舱内激光 Limera，焕新价 18.49 万元起",
-     "link": "https://www.ithome.com/1/027/974.htm",
-     "pubDate": "Mon, 16 Nov 2026 14:44:22 GMT",
-     "summary": "IT之家 11 月 16 日消息，奇瑞捷途全新旅行者 7 C-DM 华为乾崑智驾版方盒新车今晚正式上市， 超级焕新价 18.49 万元起 。该车基于全新旅行者 7 C-DM 打造，如命名所示，其搭载了华为乾崑智驾系统。 两驱 Max：上市指导价 18.99 万元、超级焕新价 18.49 万元； 四驱 Max+：上市指导价 19.99 万元、超级焕新价 19.49 万元； 四驱 Ultra：上市指导价 21.49 万元、超级焕新价 20.99 万元。 据介绍，该车选用华为乾崑智驾 ADS 5 Pro 方案， 搭载的是舱内激光 Limera ，同时拥有 11V 高清摄像头（前视 / 环视 / 侧视",
-     "source": "IT之家",
-     "zh": "奇瑞捷途全新旅行者 7 C-DM 华为乾崑智驾版上市：搭载舱内激光 Limera，焕新价 18.49 万元起"
-    },
-    {
-     "title": "Google&apos;s TIG reports the first observed instance of attackers using an autonomous AI framework with no human in the loop to turn security patches into exploits (Duncan Riley/SiliconANGLE)",
-     "link": "https://www.techmeme.com/261116/p30#a261116p30",
-     "pubDate": "Mon, 16 Nov 2026 09:40:01 -0500",
-     "summary": "Duncan Riley / SiliconANGLE : Google's TIG reports the first observed instance of attackers using an autonomous AI framework with no human in the loop to turn security patches into exploits &nbsp; &mdash;&nbsp; A new report out today from Google LLC's Google Threat Intelligence Group finds that for ",
-     "source": "Techmeme",
-     "zh": "Google&apos;s TIG reports the first observed instance of attackers using an autonomous AI framework with no human in the loop to turn security patches into exploits (Duncan Riley/SiliconANGLE)"
-    },
-    {
-     "title": "The Active Directory Era Is Finally Over",
-     "link": "https://infisical.com/blog/active-directory-machine-identity",
-     "pubDate": "Mon, 16 Nov 2026 14:15:31 +0000",
-     "summary": "Article URL: https://infisical.com/blog/active-directory-machine-identity Comments URL: https://news.ycombinator.com/item?id=50517815 Points: 30 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "The Active Directory Era Is Finally Over"
     }
    ]
   },
@@ -2001,12 +2025,12 @@
    "total": 7,
    "items": [
     {
-     "title": "Google adds 66 regional dialects to Gemini",
-     "link": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
-     "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
-     "summary": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.",
+     "title": "The simple and convenient Apple Maps feature every CarPlay user should know about",
+     "link": "https://www.engadget.com/2314427/apple-maps-convenient-share-eta-feature-for-carplay-users/",
+     "pubDate": "Mon, 16 Nov 2026 17:15:00 +0000",
+     "summary": "Apple Maps has plenty of useful features - some big, some small. This particular feature is relatively minor but can prove very useful indeed.",
      "source": "Engadget",
-     "zh": "Google adds 66 regional dialects to Gemini"
+     "zh": "The simple and convenient Apple Maps feature every CarPlay user should know about"
     },
     {
      "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
@@ -2015,6 +2039,14 @@
      "summary": "The app will become even more of a shopping mall, just in time for Black Friday.",
      "source": "Engadget",
      "zh": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels"
+    },
+    {
+     "title": "Google adds 66 regional dialects to Gemini",
+     "link": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
+     "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+     "summary": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.",
+     "source": "Engadget",
+     "zh": "Google adds 66 regional dialects to Gemini"
     },
     {
      "title": "Google Calendar now lets you choose where to put your five-minute meeting break",
@@ -2153,14 +2185,6 @@
      "zh": "Someone rebuilt old Android versions in your browser, and it’s an instant nostalgia hit [Gallery]"
     },
     {
-     "title": "Apple is making a bigger push into video podcasts",
-     "link": "https://www.engadget.com/2317689/apple-is-making-a-bigger-push-into-video-podcasts/",
-     "pubDate": "Mon, 16 Nov 2026 15:39:24 +0000",
-     "summary": "You'll soon be able to watch video podcasts through the Apple TV app.",
-     "source": "Engadget",
-     "zh": "Apple is making a bigger push into video podcasts"
-    },
-    {
      "title": "HomeView missing some podcast feeds? Here’s why",
      "link": "https://9to5mac.com/2026/11/16/homeview-missing-some-podcast-feeds-heres-why/",
      "pubDate": "Mon, 16 Nov 2026 15:34:09 +0000",
@@ -2249,6 +2273,38 @@
    "total": 13,
    "items": [
     {
+     "title": "Viking will overcome low European river levels, earning double upgrade at Mizuho",
+     "link": "https://seekingalpha.com/news/4673132-viking-will-overcome-low-european-river-levels-earngs-double-upgrade-at-mizuho?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:14:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Viking will overcome low European river levels, earning double upgrade at Mizuho"
+    },
+    {
+     "title": "Coatue Management takes new stake in Salesforce, increases Meta holdings among Q3 moves",
+     "link": "https://seekingalpha.com/news/4673146-coatue-management-takes-new-stake-in-salesforce-increases-meta-holdings-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:14:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Coatue Management takes new stake in Salesforce, increases Meta holdings among Q3 moves"
+    },
+    {
+     "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+     "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+     "pubDate": "Mon, 16 Nov 2026 17:11:54 GMT",
+     "summary": "",
+     "source": "CNBC",
+     "zh": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’"
+    },
+    {
+     "title": "Aramark raises dividend to $0.14 by 17%",
+     "link": "https://seekingalpha.com/news/4673161-aramark-raises-dividend-to-014-by-17?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:08:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Aramark raises dividend to $0.14 by 17%"
+    },
+    {
      "title": "Surge Energy raises dividend to CAD 0.046 by 7%",
      "link": "https://seekingalpha.com/news/4673160-surge-energy-raises-dividend-to-cad-0046-by-7?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 16 Nov 2026 12:04:52 -0500",
@@ -2279,30 +2335,6 @@
      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
      "source": "MarketWatch",
      "zh": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
-    },
-    {
-     "title": "FitLife Brands GAAP EPS of $0.17 misses by $0.07, revenue of $25.6M misses by $1.2M",
-     "link": "https://seekingalpha.com/news/4673156-fitlife-brands-gaap-eps-of-0_17-misses-by-0_07-revenue-of-25_6m-misses-by-1_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 11:59:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FitLife Brands GAAP EPS of $0.17 misses by $0.07, revenue of $25.6M misses by $1.2M"
-    },
-    {
-     "title": "TC Energy to develop 230-mile Alberta Growth Connector, expanding NGTL gas system",
-     "link": "https://seekingalpha.com/news/4673138-tc-energy-to-develop-230-mile-alberta-growth-connector-expanding-ngtl-gas-system?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 11:57:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TC Energy to develop 230-mile Alberta Growth Connector, expanding NGTL gas system"
-    },
-    {
-     "title": "Odysight.ai reports  results",
-     "link": "https://seekingalpha.com/news/4673154-odysight-ai-reports-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 11:57:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Odysight.ai reports  results"
     },
     {
      "title": "美股三大指数下跌 纳指跌1.6% 芯片股集体下挫",
@@ -2415,14 +2447,6 @@
      "summary": "SpaceX had a mostly successful Starship launch, while an Amazon partner hit a setback.",
      "source": "MarketWatch",
      "zh": "SpaceX widens its lead in the space race, even as a tech selloff weighs on its stock"
-    },
-    {
-     "title": "&apos;We slept here&apos;: Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
-     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-     "pubDate": "Mon, 16 Nov 2026 15:56:39 GMT",
-     "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-     "source": "CNBC",
-     "zh": "&apos;We slept here&apos;: Flight delays linger as airlines recover from ground stop, but schedule improves Monday"
     },
     {
      "title": "These 13 S&P 500 stocks can rise up to 70% over the next year, according to analysts",

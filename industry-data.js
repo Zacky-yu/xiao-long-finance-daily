@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 08:32:03",
+ "generated_at": "2026/11/16 08:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Allies rally for Jensen Huang&rsquo;s return as Nvidia faces compliance and succession questions",
+     "link": "https://www.digitimes.com/news/a20261116VL201/nvidia-governance-jensen-huang.html",
+     "pubDate": "Mon, 16 Nov 2026 00:41:04 GMT",
+     "summary": "Allies of Jensen Huang are pressing for his return as Nvidia chief executive, but reinstating the founder alone would not address the governance weaknesses exposed by his sudden departure: concerns about unusually close ties to a subordinate and customer, and the company's dependence on a single lea",
+     "source": "DIGITIMES",
+     "zh": "Allies rally for Jensen Huang&rsquo;s return as Nvidia faces compliance and succession questions"
+    },
+    {
+     "title": "Nvidia lobbies Taiwan officials over employee charged in AI server diversion case",
+     "link": "https://www.digitimes.com/news/a20261116VL206/nvidia-taiwan-investigation-bloomberg-manufacturing.html",
+     "pubDate": "Mon, 16 Nov 2026 00:38:58 GMT",
+     "summary": "Nvidia's effort to challenge the investigation of one of its Taiwan employees has intensified questions over how the chipmaker handles suspected diversion of its AI servers to China, a politically sensitive issue for an island central to its manufacturing network. Prosecutors have charged the employ",
+     "source": "DIGITIMES",
+     "zh": "Nvidia lobbies Taiwan officials over employee charged in AI server diversion case"
+    },
+    {
+     "title": "Bessent urges Nvidia to hire outside CEO, demands answers on China chip sales within 10 days",
+     "link": "https://www.digitimes.com/news/a20261116VL208/nvidia-ceo-sales-revenue-earnings.html",
+     "pubDate": "Mon, 16 Nov 2026 00:36:54 GMT",
+     "summary": "US Treasury Secretary Scott Bessent on Sunday, November 15, called for a \"dramatic shakeup\" at Nvidia and said the chipmaker's board should look outside the company for its next chief executive, three days after Jensen Huang resigned. Speaking on Fox News ' \"Sunday Morning Futures,\" Bessent also sai",
+     "source": "DIGITIMES",
+     "zh": "Bessent urges Nvidia to hire outside CEO, demands answers on China chip sales within 10 days"
+    },
+    {
      "title": "Applied Materials targets double output by 2028 as chip equipment demand outpaces supply",
      "link": "https://www.digitimes.com/news/a20261113VL238/applied-materials-equipment-demand-2028-capacity.html",
      "pubDate": "Sun, 15 Nov 2026 23:21:43 GMT",
@@ -280,30 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "South Wales has spent decades building one of Britain's most distinctive semiconductor manufacturing ecosystems. Rooted in a long history of metals processing and industrial production, the region now supplies specialist technologies supporting global electronics, electric vehicles and communication",
      "source": "DIGITIMES",
      "zh": "Analysis: South Wales built a semiconductor powerhouse&mdash;but the rules of manufacturing are changing"
-    },
-    {
-     "title": "OLED smartphone panel shipments forecast to decline in 2026, says Counterpoint",
-     "link": "https://www.digitimes.com/news/a20261113PR201/panel-2026-shipments-forecast-revenue.html",
-     "pubDate": "Sun, 15 Nov 2026 23:20:35 GMT",
-     "summary": "Global OLED smartphone panel shipments are forecast to fall nearly 3% year-on-year in 2026, as memory constraints, higher production costs, and weaker demand weigh on the market. The downturn could put pressure on suppliers' revenue, while foldable displays, adoption of low-temperature polycrystalli",
-     "source": "DIGITIMES",
-     "zh": "OLED smartphone panel shipments forecast to decline in 2026, says Counterpoint"
-    },
-    {
-     "title": "ASE opens phase one of Luzhu plant, expands advanced packaging",
-     "link": "https://www.digitimes.com/news/a20261113PD254/ase-packaging-plant-taiwan-kaohsiung.html",
-     "pubDate": "Sun, 15 Nov 2026 23:20:13 GMT",
-     "summary": "ASE Technology Holding on November 13 opened phase one of its Luzhu plant in Kaohsiung and broke ground for phase two at the Kaohsiung part of the Southern Taiwan Science Park, marking the company's first entry into Taiwan's science park system to build a large advanced packaging facility. The two p",
-     "source": "DIGITIMES",
-     "zh": "ASE opens phase one of Luzhu plant, expands advanced packaging"
-    },
-    {
-     "title": "Ennostar prioritizes profitability following major auto display win, targeting 2027 core turnaround",
-     "link": "https://www.digitimes.com/news/a20261113PD252/ennostar-2027-display-automotive-production.html",
-     "pubDate": "Sun, 15 Nov 2026 23:19:54 GMT",
-     "summary": "Ennostar has secured a major order from a leading automaker for high-end automotive displays, with its red-light direct-view Intelligent Signal Display (ISD) system successfully passing a European automaker audit. Mass production is scheduled for the second quarter of 2027. Ennostar Chairman Chin-Yu",
-     "source": "DIGITIMES",
-     "zh": "Ennostar prioritizes profitability following major auto display win, targeting 2027 core turnaround"
     },
     {
      "title": "CEO Interview with Kurt Busch of Syntiant",
@@ -466,6 +466,14 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
-    },
-    {
-     "title": "Rethinking Memory For AI Inference",
-     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
-     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
-     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1021,7 +1021,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1040,6 +1040,14 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
-    },
-    {
-     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
-     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
-     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
-     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
-     "source": "PV Tech",
-     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1458,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1506,14 +1498,6 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1536,14 +1520,6 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1770,6 +1746,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "线上秒售罄、线下排队3小时，抢演出票的年轻人真没招了",
+     "link": "https://www.huxiu.com/article/4905779.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 08:39:54 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：洞照，编辑：尤蕾 一边是技术驱动、规模化的“售罄”狂欢，一边是原始却公平的排队等待：在肖战巡演的强实名购票引发全网讨论时，乌镇的排队制度也收获了截然不同的评价——有人说这是原始低效，有人却说这是最公平的方式。 在看现场演出成为年轻人生活方式和社交货币的当下，免费和惠民不应成为口号和噱头，更不应成为大家参与其中的阻碍。它应该形成更科学的机制，不让真正热爱的人被拒之门外。 11月6日晚，肖战巡回演唱会上海站连上两个微博热搜。梅奔中心内，近18000个座位座无虚席，整片红色应援海整齐璀璨；场馆外，没抢到票的粉丝从全国各地赶来，自发聚集在场馆周边，人流绵延数条街道",
+     "source": "虎嗅",
+     "zh": "线上秒售罄、线下排队3小时，抢演出票的年轻人真没招了"
+    },
+    {
+     "title": "华尔街：黄仁勋辞职，或成中国的“梦幻剧本”",
+     "link": "https://www.huxiu.com/article/4905778.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 08:37:09 +0800",
+     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：AI研究组 11月12日，英伟达创始人黄仁勋辞职。 按常理，这一周对中国人来说糟透了—— 美国情报机构怀疑，他的婚外情对象是中国国家安全部招募的人；美国国会两党借机要求收紧芯片出口；华盛顿最卖力替“向中国卖芯片”说话的那个人，就这样出局了，虽然刚刚也有消息称他准备重新回来。 这里我们说一句，情报本身有争议，中方称“纯属捕风捉影，污蔑抹黑”，毕竟我们的情报人员不太走这个高调路线的。 但资本市场的反应，却是反着来的。 上周，A股的寒武纪涨了约22%。华尔街最知名的科技分析师之一Dan Ives则说，从长期看，黄仁勋的离开对中国可能是一个“梦幻剧本d",
+     "source": "虎嗅",
+     "zh": "华尔街：黄仁勋辞职，或成中国的“梦幻剧本”"
+    },
+    {
+     "title": "创新药医保准入：价格和高价值都是硬门槛",
+     "link": "https://www.huxiu.com/article/4905777.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 08:33:00 +0800",
+     "summary": "本文来自微信公众号： 村夫日记LatitudeHealth ，作者：Latitude Health 近日，2026年的医保国谈结果正式发布，从最终结果来看，此次医保目录新纳入107款新药，其中51款为一类创新药，商保目录纳入12款，其中3款Car-T和7款罕见病用药。虽然，从最终纳入双目录的数量来看，2026年与2025年的差距很小，2026年的谈判竞价成功率为86.3%，与2025年的88%相比只是微降，但除了价格的硬门槛之外，准入的逻辑出现了另一个硬门槛，药品的新不再是主要的评判标准，价值才是最主要的标准。 首先，从2024年以来，专家评审通过率大幅下降，从2023年的64%降至2024年",
+     "source": "虎嗅",
+     "zh": "创新药医保准入：价格和高价值都是硬门槛"
+    },
+    {
+     "title": "原著小说迟迟未更新，Apple TV+ 热门剧《流人》第八季或成最终季",
+     "link": "https://www.ithome.com/1/027/483.htm",
+     "pubDate": "Mon, 16 Nov 2026 00:31:01 GMT",
+     "summary": "IT之家 11 月 16 日消息，苹果流媒体平台 Apple TV+ 超热门剧集《流人》（Slow Horses）可能将在第八季结束。 本片主演奥利维娅 · 库克（Olivia Cooke）今日接受《泰晤士报》采访时透露“她目前正在拍摄该剧的最后一季”，不过她随后又补充称“未来的事不能说死”。 奥利维娅 · 库克在剧中饰演西德妮 · 贝克（Sid Baker）。谈及剧集未来时，她表示：“我正在拍摄最后一季。” 当被问及是否确定剧集将结束时，她补充说：“永远不要说死，但我想这就是我们得到的消息，而且确实感觉剧集正在走向终点。” 她形容称剧组目前的气氛有些伤感，演员和工作人员都显得“忧郁、心不在焉",
+     "source": "IT之家",
+     "zh": "原著小说迟迟未更新，Apple TV+ 热门剧《流人》第八季或成最终季"
+    },
+    {
+     "title": "3天劝返134名非法穿越人员，稻城亚丁怎么了？",
+     "link": "https://www.huxiu.com/article/4905776.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 08:29:28 +0800",
+     "summary": "本文来自微信公众号： 徒步中国 ，作者：阿瑶 10月，四川稻城亚丁再次成为户外圈关注的焦点。 10月23日，稻城亚丁景区管理局公布了一组数据：10月20日至22日，开展「绿美亚丁·守护净土」生态环境保护专项行动，累计投入工作人员370余人次，清理各类垃圾300余袋，劝返非法穿越人员134人。 近年来，随着户外徒步和社交媒体的发展，一些原本不对公众开放的徒步路线被冠以「秘境」「小众野线」等名号在网上传播，吸引着越来越多的人试图前往。但路线能被走通，并不意味着它就成为了一条可以自由进入的徒步线路。 非法穿越 稻城亚丁事故频发 10月20日至22日，开展「绿美亚丁·守护净土」生态环境保护专项行动，累",
+     "source": "虎嗅",
+     "zh": "3天劝返134名非法穿越人员，稻城亚丁怎么了？"
+    },
+    {
+     "title": "AI悄悄改正了数学家的错误，为什么反而是坏消息？",
+     "link": "https://www.huxiu.com/article/4905775.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 08:29:17 +0800",
+     "summary": "本文来自微信公众号： 返朴 ，作者：任平生 今年9月，Anthropic宣布，AI用11天把费马大定理的证明写成1300万行Lean代码。几天后，OpenAI又宣称用AI解决了纳维–斯托克斯难题。两项成果都附有通过Lean检查的代码。但数学家随后发现，OpenAI文字论文中的部分中间结论，与Lean代码实际验证的内容并不一致。 Lean被视为数学的“机器审稿人”，代码通过检查，推导就无可挑剔。但它只对写进代码的命题负责：AI把论文译成代码时可能悄悄改了条件，Lean自身的软件漏洞也可能被利用。形式化证明在AI时代遇到了两道新难题。 2026年9月4日，英国帝国理工学院的数学教授凯文·巴扎德（K",
+     "source": "虎嗅",
+     "zh": "AI悄悄改正了数学家的错误，为什么反而是坏消息？"
+    },
+    {
      "title": "最懂赚钱的苏州老板，季亏4亿，68岁妻子顶上了",
      "link": "https://www.huxiu.com/article/4905773.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 08:17:17 +0800",
@@ -1778,20 +1802,12 @@ window.INDUSTRY_DATA = {
      "zh": "最懂赚钱的苏州老板，季亏4亿，68岁妻子顶上了"
     },
     {
-     "title": "1500个老旧街区厂区更新，如何长出新动能？",
-     "link": "https://www.huxiu.com/article/4905772.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:15:49 +0800",
-     "summary": "本文来自微信公众号： 丈量城市 ，作者：华高莱斯 1.民生账有兜底，经营账要自立 2.新动能，让老空间兑现新价值 3.五类空间，怎么长出新动能 10月23日，住房和城乡建设部等六部门公布《关于推进老旧街区厂区改造提升的指导意见》（下称《意见》）。《城市更新「十五五」规划》提出的「有序实施1500个老旧街区厂区改造提升项目」，由此有了施工图。 但比改造数量更值得注意的，是《意见》里强调的：项目实施方案要确定运营管理模式，测算资金成本和收益，确保项目能落地、运营可持续。 这句话把城市更新分成了上下半场。空间改好只是上半场，改完能不能自己运转起来，才是下半场要回答的核心问题。 （来源：AI制作） 0",
-     "source": "虎嗅",
-     "zh": "1500个老旧街区厂区更新，如何长出新动能？"
-    },
-    {
-     "title": "这个低迷了四年的赛道，正在被大手笔扫货",
-     "link": "https://www.huxiu.com/article/4905771.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:11:19 +0800",
-     "summary": "本文来自微信公众号： 动脉网 ，作者：王路泰 让优利特集团常务副总裁黄杰没有想到的是，IVD行业的本轮出清持续时间如此之长，而且还没有看到缓和的迹象。 国内IVD生产企业峰值约2500家，近两年已经减少六七百家。行业目前仍处在持续的产能与企业主体出清阶段。据他判断，未来国内IVD生产企业总数量会缩减到300家左右。 这一轮漫长的行业调整并非中国市场独有，全球IVD赛道同样呈现出极具反差的格局：一边是二级市场估值持续承压、一级市场融资与IPO通道收紧，行业整体处于冷淡周期；另一边，私募资本却在逆势出手，持续布局优质海外诊断资产，多起重量级并购、私有化交易陆续落地。 近期，EQT联合阿布扎比投资局",
-     "source": "虎嗅",
-     "zh": "这个低迷了四年的赛道，正在被大手笔扫货"
+     "title": "古尔曼：苹果工程师正积极为 iPhone Duo 2 外屏开发面容 ID",
+     "link": "https://www.ithome.com/1/027/482.htm",
+     "pubDate": "Mon, 16 Nov 2026 00:12:50 GMT",
+     "summary": "IT之家 11 月 16 日消息，彭博社记者马克 · 古尔曼昨日于新一期《Power On》通讯透露，苹果计划于明年秋季推出 iPhone Duo 2 折叠屏手机。苹果工程师正尝试将面容 ID 集成到这款设备中，但最终可能存在变数。 古尔曼透露，苹果为 iPhone Duo 2 制定了两项优先开发目标：面容 ID 和操作按钮。后者最终可能只是软件更新，为相机控制按钮新增一些功能，允许用户将长按操作改为启动自定义 App。 同时古尔曼表示，未来几代 iPhone Duo 的其他目标有增加长焦镜头、让机身变薄减重等。面容 ID 是当前的首要任务。据他了解，苹果已开发出搭载面容 ID 的 iPhon",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果工程师正积极为 iPhone Duo 2 外屏开发面容 ID"
     },
     {
      "title": "尚界 Z7T 星野套装展车陆续到店，11 月 20 日华为星芒品牌发布会上市",
@@ -1810,30 +1826,6 @@ window.INDUSTRY_DATA = {
      "zh": "玩家发现 EA 不小心移除《FC 27 Lite》D 加密，完整版仍保留 Denuvo"
     },
     {
-     "title": "这些AI手搓的几百K的3D世界，正在让HTML再次伟大。",
-     "link": "https://www.huxiu.com/article/4905770.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:09:42 +0800",
-     "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 你要说上周用AI来做东西，最火的玩法是啥，那必然逃不过一个东西。 就是用AI搓的纯HTML的3D游戏。 不过呢，最离谱的一个，还是一个在各个群里疯传的究极小的HTML游戏文件，只要1.4M。 你只要下载下来，打开以后，你就会发现，这个画面的效果几乎是媲美很多的3A大作了。 没错，只要1.4M，你就可以玩到这样的游戏demo。 不过这玩意不是原创，是把Anthropic的工程师Felix Rieseberg在Fable 5.2发布的时候他搓的代码，给纯扒下来汉化了一下，其他的原封不动，然后冠名国产3A大作。 不过这种行为我们就不说了，",
-     "source": "虎嗅",
-     "zh": "这些AI手搓的几百K的3D世界，正在让HTML再次伟大。"
-    },
-    {
-     "title": "SAP 大涨60%：AI 开始给SaaS 厂商送钱了",
-     "link": "https://www.huxiu.com/article/4905769.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:08:41 +0800",
-     "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《SAP 大涨60%：AI 开始给 SaaS 厂商送钱了》 相比今年7月，SAP股价已经上涨超过60%。 几个月前，很多人还在担心：SaaS厂商会不会被AI干掉？ 而上涨的股价，说明了市场风向的转变。 这背后的原因，是SAP亮眼的业绩。 今年第三季度，SAP营收达到102.7亿欧元，同比增长13%；非IFRS营业利润达到30.3亿欧元，同比增长18%。 两项指标都超过了市场预期。 其中，SaaS业务的增长尤其亮眼：按照固定汇率计算，云ERP套件收入增长28%。 SAP管理层给出的一个重要解释，就是AI。 他们认为，AI正在推动客户上",
-     "source": "虎嗅",
-     "zh": "SAP 大涨60%：AI 开始给SaaS 厂商送钱了"
-    },
-    {
-     "title": "盛香亭，怎么就成了“火锅界寿司郎”？",
-     "link": "https://www.huxiu.com/article/4905768.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 08:08:03 +0800",
-     "summary": "本文来自微信公众号： 斑马消费 ，作者：陈碧婷 过去一年，餐饮行业的“排队神话”轮番上演：开业即巅峰、三个月降温、半年关店，几乎成了网红餐厅的固定剧本。但一人食小火锅这个品类，却显得不同寻常。 盛香亭转转热卤，靠最贵7元的菜品、自助回转的形式，把门店开到151家。2026年7月，深圳文和友官宣停业，有超过八成的商户撤走，楼里盛香亭还在排长队。 据了解，盛香亭转转热卤位于南昌、广州、长沙等多个城市的门店普遍火爆，节假日期间广州部分门店动辄等位3-4个小时，线上取号超过700桌。 一个靠热卤起家的品牌，凭什么赢取了年轻人的芳心？ 从热卤摊到排队王 2016年，盛香亭在长沙起步，将街头热卤搬进了商场",
-     "source": "虎嗅",
-     "zh": "盛香亭，怎么就成了“火锅界寿司郎”？"
-    },
-    {
      "title": "2027 款 LG OLED B7 电视曝光：48、55、77 英寸型号已通过韩国认证，预计还有 65 和 83 英寸版本",
      "link": "https://www.ithome.com/1/027/478.htm",
      "pubDate": "Mon, 16 Nov 2026 00:00:33 GMT",
@@ -1845,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Mini.nvim Is Now on Tangled",
      "link": "https://tangled.org/nvim-mini.org/mini.nvim",
      "pubDate": "Sun, 15 Nov 2026 23:55:41 +0000",
-     "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 11 # Comments: 1",
      "source": "Hacker News",
      "zh": "Mini.nvim Is Now on Tangled"
     },
@@ -1858,26 +1850,10 @@ window.INDUSTRY_DATA = {
      "zh": "IT早报 1116：华为鸿蒙生态用户数达 9980 万；美科技界预期黄仁勋硅谷东山再起；中国 BLG 战队夺得英雄联盟 S16 冠军；余承东公布华为 Mate X8 折叠手机外观..."
     },
     {
-     "title": "闲鱼通报“钓鱼竿涉色情交易”等四起谣言：已报警，将起诉",
-     "link": "https://www.ithome.com/1/027/476.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:52:43 GMT",
-     "summary": "IT之家 11 月 16 日消息，据“闲鱼黑板报”公众号今日发布，2026 年 8 月以来，网络空间流传“拐卖儿童暗语”“偷窃 A4 纸出售”“农产品涉色情交易”“钓鱼竿涉色情交易”等不实信息。污名化闲鱼为“ 暗网 ”。 闲鱼称，相关信息经调查均为谣言，平台已向造谣人所在地报警。公众号表示，上述谣言严重干扰平台正常交易秩序，污蔑用户和平台声誉，闲鱼将对相关造谣者发起民事诉讼，依法追究造谣者的法律责任。 IT之家附四起谣言及处理情况如下： 编造“拐卖儿童暗语”谣言 ：赵某某在短视频平台评论区，将普通交易对话歪曲解读为“拐卖儿童暗语”，相关谣言被迅速转发并登上热搜，引发社会恐慌。目前，造谣者已公开",
-     "source": "IT之家",
-     "zh": "闲鱼通报“钓鱼竿涉色情交易”等四起谣言：已报警，将起诉"
-    },
-    {
-     "title": "前任天堂员工：《塞尔达传说》在《旷野之息》推出前曾陷入严重困境，未来不能长期局限于单一玩法风格",
-     "link": "https://www.ithome.com/1/027/475.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:49:41 GMT",
-     "summary": "IT之家 11 月 16 日消息，前任天堂员工克里斯塔 · 杨（Krysta Yang）和基特 · 埃利斯（Kit Ellis）在 11 月 13 日的一期播客节目中谈到了《塞尔达传说》系列从传统玩法转向开放世界设计的原因。 据介绍，在《塞尔达传说：旷野之息》推出之前，塞尔达该系列曾面临严重的市场困境，核心玩家群体持续流失，新玩家增长乏力，多款作品的受众兴趣和销量呈下降趋势。两人认为，任天堂当时需要对系列玩法进行重大调整，而不是继续沿用传统模板。 部分玩家认为，任天堂放弃传统塞尔达玩法时，该系列仍处于人气巅峰，因此希望开发团队重新推出以传统迷宫和线性流程为核心的作品。克里斯塔 · 杨表示，这种",
-     "source": "IT之家",
-     "zh": "前任天堂员工：《塞尔达传说》在《旷野之息》推出前曾陷入严重困境，未来不能长期局限于单一玩法风格"
-    },
-    {
      "title": "Jensen Huang might return to Nvidia as CEO",
      "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
      "pubDate": "Sun, 15 Nov 2026 23:24:53 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 81 # Comments: 63",
+     "summary": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 90 # Comments: 77",
      "source": "Hacker News",
      "zh": "Jensen Huang might return to Nvidia as CEO"
     },
@@ -1901,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Preserving 30 Years of Salon Journalism",
      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
      "pubDate": "Sun, 15 Nov 2026 23:00:11 +0000",
-     "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 43 # Comments: 9",
+     "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 51 # Comments: 9",
      "source": "Hacker News",
      "zh": "Preserving 30 Years of Salon Journalism"
     },
@@ -1917,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
      "link": "https://lastcomplication.com/",
      "pubDate": "Sun, 15 Nov 2026 22:48:52 +0000",
-     "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 20 # Comments: 3",
+     "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 23 # Comments: 4",
      "source": "Hacker News",
      "zh": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game"
     },
@@ -1933,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Old Bitly Links Are Being Hijacked",
      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
      "pubDate": "Sun, 15 Nov 2026 22:11:43 +0000",
-     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 126 # Comments: 59",
+     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 135 # Comments: 65",
      "source": "Hacker News",
      "zh": "Old Bitly Links Are Being Hijacked"
     },
@@ -1949,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
      "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
      "pubDate": "Sun, 15 Nov 2026 21:38:11 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 49 # Comments: 28",
+     "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 50 # Comments: 37",
      "source": "Hacker News",
      "zh": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites"
     },
@@ -2018,6 +1994,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "The pros and cons of using your phone as a mobile hotspot",
+     "link": "https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/",
+     "pubDate": "Mon, 16 Nov 2026 00:45:00 +0000",
+     "summary": "Using your phone to help other devices connect to the internet is undeniably convenient, but it also comes with other perks – and a few downsides.",
+     "source": "Engadget",
+     "zh": "The pros and cons of using your phone as a mobile hotspot"
+    },
+    {
+     "title": "The pros and cons of using cloud storage over local storage",
+     "link": "https://www.engadget.com/2313943/pros-cons-using-cloud-storage-over-local/",
+     "pubDate": "Mon, 16 Nov 2026 00:30:00 +0000",
+     "summary": "Before AI ran rampant through the technology market, cloud storage was the new, big thing, as it seems like every major company has its own cloud service.",
+     "source": "Engadget",
+     "zh": "The pros and cons of using cloud storage over local storage"
+    },
+    {
      "title": "10 things your iPhone's Notes app can do other than taking notes",
      "link": "https://www.engadget.com/2310550/other-things-iphone-notes-app-can-do/",
      "pubDate": "Mon, 16 Nov 2026 00:15:00 +0000",
@@ -2064,22 +2056,6 @@ window.INDUSTRY_DATA = {
      "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . Apple’s Messages app is the most-used ap",
      "source": "9to5Mac",
      "zh": "Apple’s Messages app keeps getting better; here are my favorite updates"
-    },
-    {
-     "title": "How long can a 1000 watt-hour power station run your devices?",
-     "link": "https://www.engadget.com/2313932/how-long-1000-watt-power-station-run-devices/",
-     "pubDate": "Sun, 15 Nov 2026 23:00:00 +0000",
-     "summary": "Determining the stamina of your portable power station is more complicated than simply dividing its battery capacity by the power consumption of your devices.",
-     "source": "Engadget",
-     "zh": "How long can a 1000 watt-hour power station run your devices?"
-    },
-    {
-     "title": "Samsung is discontinuing these useful mobile apps in December",
-     "link": "https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december/",
-     "pubDate": "Sun, 15 Nov 2026 22:30:00 +0000",
-     "summary": "You don't have long to grab the augmented reality tools for your Galaxy devices.",
-     "source": "Engadget",
-     "zh": "Samsung is discontinuing these useful mobile apps in December"
     },
     {
      "title": "Here’s one small change that could improve iPhone Duo’s unoptimized apps",
@@ -2266,6 +2242,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Australia's IDP Education rejects Blackstone’s sweetened takeover bid",
+     "link": "https://seekingalpha.com/news/4672818-australias-idp-education-rejects-blackstone-s-sweetened-takeover-bid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 19:36:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Australia's IDP Education rejects Blackstone’s sweetened takeover bid"
+    },
+    {
+     "title": "重磅新药被美拒批 康方生物夏瑜: 14年来最沮丧的一次",
+     "link": "http://www.eeo.com.cn/2026/1116/1094127.shtml",
+     "pubDate": "Mon, 16 Nov 2026 08:28:41 +0800",
+     "summary": "夏瑜解释，HARMONi海外的数据与中国数据具有一致性，后续分析也证明有OS获益，但后续分析缺乏统计学的正式效力，“这是很遗憾的一件事”。",
+     "source": "经济观察网",
+     "zh": "重磅新药被美拒批 康方生物夏瑜: 14年来最沮丧的一次"
+    },
+    {
      "title": "美银Hartnett：美元正在“破坏一切”，美元下跌前保持避险",
      "link": "https://wallstreetcn.com/articles/3785968",
      "pubDate": "Mon, 16 Nov 2026 08:25:42 +0800",
@@ -2426,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?"
     },
     {
-     "title": "Bombardier secures 12-jet order from Saudi Arabia’s THC",
-     "link": "https://seekingalpha.com/news/4672812-bombardier-secures-12-jet-order-from-saudi-arabia-s-thc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 17:14:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bombardier secures 12-jet order from Saudi Arabia’s THC"
-    },
-    {
      "title": "11月16日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
      "link": "http://finance.eastmoney.com/news/11060,202611163931537133.html",
      "pubDate": "Mon, 16 Nov 2026 06:03:49 +0800",
@@ -2496,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
      "source": "CNBC",
      "zh": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO"
-    },
-    {
-     "title": "US and allies sign accord to protect AI supply chains from China",
-     "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
-     "pubDate": "Sun, 15 Nov 2026 17:47:43 GMT",
-     "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
-     "source": "Financial Times",
-     "zh": "US and allies sign accord to protect AI supply chains from China"
     }
    ]
   },

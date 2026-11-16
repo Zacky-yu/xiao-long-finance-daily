@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 03:32:14",
+ "generated_at": "2026/11/17 03:54:57",
  "recent_days": 7,
  "industries": [
   {
@@ -1124,7 +1124,7 @@
      "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
      "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
      "pubDate": "Mon, 16 Nov 2026 18:54:06 +0000",
-     "summary": "The supplement NAC has been widely available for years, but exists in a legal grey area.",
+     "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
      "source": "STAT News",
      "zh": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC"
     },
@@ -1777,6 +1777,22 @@
    "total": 18,
    "items": [
     {
+     "title": "When will humans actually fly on Starship?",
+     "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+     "pubDate": "Mon, 16 Nov 2026 19:46:08 +0000",
+     "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+     "source": "Ars Technica",
+     "zh": "When will humans actually fly on Starship?"
+    },
+    {
+     "title": "Meet the new James Bond: Robert Pattinson",
+     "link": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
+     "pubDate": "Mon, 16 Nov 2026 19:36:25 +0000",
+     "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
+     "source": "Ars Technica",
+     "zh": "Meet the new James Bond: Robert Pattinson"
+    },
+    {
      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
      "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
      "pubDate": "Mon, 16 Nov 2026 19:26:55 +0000",
@@ -1785,12 +1801,52 @@
      "zh": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID"
     },
     {
+     "title": "苹果 watchOS 27.3 开发者预览版 Beta 2 发布",
+     "link": "https://www.ithome.com/1/028/016.htm",
+     "pubDate": "Mon, 16 Nov 2026 19:19:22 GMT",
+     "summary": "【 点此直达升级教程 】 IT之家 11 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24S5296d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史",
+     "source": "IT之家",
+     "zh": "苹果 watchOS 27.3 开发者预览版 Beta 2 发布"
+    },
+    {
+     "title": "苹果 visionOS 27.3 开发者预览版 Beta 2 发布",
+     "link": "https://www.ithome.com/1/028/015.htm",
+     "pubDate": "Mon, 16 Nov 2026 19:19:21 GMT",
+     "summary": "IT之家 11 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24N5298d），本次更新距离上次发布 Beta/RC 间隔 13 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-11-10：visionOS 27.2.1 (24N124) 2026-10-27：visionOS 27.2 (24N120) 2026-10",
+     "source": "IT之家",
+     "zh": "苹果 visionOS 27.3 开发者预览版 Beta 2 发布"
+    },
+    {
+     "title": "苹果 macOS 27.3 开发者预览版 Beta 2 发布",
+     "link": "https://www.ithome.com/1/028/014.htm",
+     "pubDate": "Mon, 16 Nov 2026 19:19:21 GMT",
+     "summary": "IT之家 11 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.3 开发者预览版 Beta 2 更新（内部版本号：26C5047e），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件下载大全： 《 苹果 iOS / iP",
+     "source": "IT之家",
+     "zh": "苹果 macOS 27.3 开发者预览版 Beta 2 发布"
+    },
+    {
+     "title": "苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布",
+     "link": "https://www.ithome.com/1/028/013.htm",
+     "pubDate": "Mon, 16 Nov 2026 19:19:20 GMT",
+     "summary": "【 点此直达升级教程 】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24C5049d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 i",
+     "source": "IT之家",
+     "zh": "苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布"
+    },
+    {
      "title": "Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft&apos;s voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)",
      "link": "https://www.techmeme.com/261116/p41#a261116p41",
      "pubDate": "Mon, 16 Nov 2026 14:15:09 -0500",
      "summary": "Gergely Orosz / The Pragmatic Engineer : Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft's voluntary exit offers, decision models, and more &nbsp; &mdash;&nbsp; Listen and watch now on YouTube, Apple, and Spotify.&nbsp; See the episode tra",
      "source": "Techmeme",
      "zh": "Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft&apos;s voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)"
+    },
+    {
+     "title": "Adobe flash editor libre alternative",
+     "link": "https://www.q0id.com/downloads",
+     "pubDate": "Mon, 16 Nov 2026 19:13:13 +0000",
+     "summary": "Article URL: https://www.q0id.com/downloads Comments URL: https://news.ycombinator.com/item?id=50521644 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Adobe flash editor libre alternative"
     },
     {
      "title": "US moves to cut China’s remote access to AI chips",
@@ -1820,7 +1876,7 @@
      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
      "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
      "pubDate": "Mon, 16 Nov 2026 18:31:30 +0000",
-     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 113 # Comments: 34",
+     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 202 # Comments: 97",
      "source": "Hacker News",
      "zh": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle"
     },
@@ -1836,9 +1892,17 @@
      "title": "Software is breaking down at a systemic level",
      "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
      "pubDate": "Mon, 16 Nov 2026 18:17:17 +0000",
-     "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/ Comments URL: https://news.ycombinator.com/item?id=50520866 Points: 100 # Comments: 81",
+     "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/ Comments URL: https://news.ycombinator.com/item?id=50520866 Points: 111 # Comments: 86",
      "source": "Hacker News",
      "zh": "Software is breaking down at a systemic level"
+    },
+    {
+     "title": "Some OLED MacBook Pro Owners Report Eye Strain and Dizziness",
+     "link": "https://www.macrumors.com/2026/11/16/oled-macbook-pro-owners-report-eye-strain/",
+     "pubDate": "Mon, 16 Nov 2026 18:16:18 +0000",
+     "summary": "Article URL: https://www.macrumors.com/2026/11/16/oled-macbook-pro-owners-report-eye-strain/ Comments URL: https://news.ycombinator.com/item?id=50520853 Points: 17 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Some OLED MacBook Pro Owners Report Eye Strain and Dizziness"
     },
     {
      "title": "OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)",
@@ -1868,17 +1932,9 @@
      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
      "link": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
      "pubDate": "Mon, 16 Nov 2026 18:04:55 +0000",
-     "summary": "Article URL: https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/ Comments URL: https://news.ycombinator.com/item?id=50520697 Points: 43 # Comments: 32",
+     "summary": "Article URL: https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/ Comments URL: https://news.ycombinator.com/item?id=50520697 Points: 49 # Comments: 40",
      "source": "Hacker News",
      "zh": "Just 400 US Data Centers Use More Electricity Than Michigan"
-    },
-    {
-     "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-     "link": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-     "pubDate": "Mon, 16 Nov 2026 17:52:23 +0000",
-     "summary": "Article URL: https://copyrightlately.com/michael-mann-heat-copyright-termination/ Comments URL: https://news.ycombinator.com/item?id=50520518 Points: 28 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself"
     },
     {
      "title": "新任 007 演员官宣：“蝙蝠侠”罗伯特 · 帕丁森接棒，网友玩梗戏称新片为《007：黑暗骑士崛起》",
@@ -1897,14 +1953,6 @@
      "zh": "Source: Nvidia&apos;s board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang (CNBC)"
     },
     {
-     "title": "Aristotle Expands into Rust",
-     "link": "https://www.harmonic.fun/news/aristotle-rust-verification/",
-     "pubDate": "Mon, 16 Nov 2026 17:34:41 +0000",
-     "summary": "Article URL: https://www.harmonic.fun/news/aristotle-rust-verification/ Comments URL: https://news.ycombinator.com/item?id=50520270 Points: 39 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "Aristotle Expands into Rust"
-    },
-    {
      "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
      "link": "https://www.techmeme.com/261116/p36#a261116p36",
      "pubDate": "Mon, 16 Nov 2026 12:20:03 -0500",
@@ -1921,28 +1969,12 @@
      "zh": "消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查"
     },
     {
-     "title": "华为 Mate 90 系列手机  HarmonyOS 7 小艺 AI 快捷栏适配效果公开",
-     "link": "https://www.ithome.com/1/028/007.htm",
-     "pubDate": "Mon, 16 Nov 2026 17:05:15 GMT",
-     "summary": "IT之家 11 月 17 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。 根据最新规划， 华为 Mate 90、Mate 90 Pro、Mate 90 RS、Pura X View 会首批支持 HarmonyOS 7 系统的小艺 AI 快捷栏功能 。IT之家注意到，华为开发者官网实际上已公开 Mate 90 系列手机小艺 AI 快捷栏适配效果。 从画面可以",
-     "source": "IT之家",
-     "zh": "华为 Mate 90 系列手机  HarmonyOS 7 小艺 AI 快捷栏适配效果公开"
-    },
-    {
      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
      "link": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
      "source": "WIRED",
      "zh": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts"
-    },
-    {
-     "title": "华为全新子品牌星芒 OSTA O1 Pro 真机紫色款外观曝光：后置双摄，预计搭载麒麟 9030S 处理器",
-     "link": "https://www.ithome.com/1/028/006.htm",
-     "pubDate": "Mon, 16 Nov 2026 16:50:22 GMT",
-     "summary": "IT之家 11 月 17 日消息，本月早些时候，华为官宣，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。随着发布会临近，华为全新子品牌 —— 星芒首款机型越来越多的配置信息曝光。目前，OSTA O1 Pro 真机谍照已流出。 IT之家注意到，除了此次曝光了黑色款外， 另外一款紫色的 OSTA O1 Pro 的外观也已曝光 。 爆料还提到，这款新机会有白色款，不过目前尚无谍照曝出。作为参考，与其有着相同设计思路的华为 Pura X View 的白色款外观如下（结合星芒手机谍照来看，二者主要区别在于背板是否为纯色设计，以及摄像头数量差异）： IT之家整理华",
-     "source": "IT之家",
-     "zh": "华为全新子品牌星芒 OSTA O1 Pro 真机紫色款外观曝光：后置双摄，预计搭载麒麟 9030S 处理器"
     },
     {
      "title": "AO3 Is Back. This Is Not a Drill",
@@ -1961,28 +1993,12 @@
      "zh": "US now \"comfortable\" with children dying of measles as death toll hits 10"
     },
     {
-     "title": "徐直军：华为早在 2009 年就启动 5G 研究，最终成为标准主要贡献者和全球最大专利持有者之一",
-     "link": "https://www.ithome.com/1/028/005.htm",
-     "pubDate": "Mon, 16 Nov 2026 16:37:51 GMT",
-     "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。 据徐直军回忆，2011 年， 华为把公司的研究团队整合为一个新组织 —— 2012 实验室 ，名字取自电影《2012》。2012 实验室作为持续创新投入的平台，涵盖基础研究、核心技术和工程能力。 自动驾驶、5G、昇腾芯片，都在这里完成孵化 。 徐直军",
-     "source": "IT之家",
-     "zh": "徐直军：华为早在 2009 年就启动 5G 研究，最终成为标准主要贡献者和全球最大专利持有者之一"
-    },
-    {
      "title": "“偷跑”的美国商务部新规",
      "link": "https://www.huxiu.com/article/4906095.html?f=rss",
      "pubDate": "Tue, 17 Nov 2026 00:31:26 +0800",
      "summary": "本文来自微信公众号： 敏大是一只柯基 ，作者：敏大的朋友们 我在上一篇文章里提到，考虑到中美峰会即将举行，美国政府大概率不会在这之前推出更为激进的限制中国AI行业的措施。哪知道文章刚写完，美国商务部就在官网挂出暂行最终规则，对印尼、新加坡等五国的先进芯片出口增设许可要求，限制中国企业远程使用海外算力，并对全球的数据中心增设实质性的合规义务。具体内容可以看东不压桥研究院的这一篇，我不再赘述。 但是，商务部的这份新规生效了吗？ 新规规定，自刊登于联邦公报（Federal Register）之日起生效。但到目前为止，它只是在商务部官网发布，还没有完成刊登联邦公报的程序，联邦公报定于2026年11月1",
      "source": "虎嗅",
      "zh": "“偷跑”的美国商务部新规"
-    },
-    {
-     "title": "徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位",
-     "link": "https://www.ithome.com/1/028/004.htm",
-     "pubDate": "Mon, 16 Nov 2026 16:23:29 GMT",
-     "summary": "IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei's innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。 据徐直军回忆，余承东（现任华为常务董事、产品投资评审委员会主任、终端 BG 董事长）除了发现欧洲的站点获取成本高得惊人， 并提出分布式基站这一方案外 ，还在与西班牙电信德国公司的一次讨论中提出， 把 2G 和 3G 集成到一个基站里 。 后来，华为与",
-     "source": "IT之家",
-     "zh": "徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位"
     },
     {
      "title": "Robert Pattinson 成为第七任 007",
@@ -1999,22 +2015,6 @@
      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
      "source": "WIRED",
      "zh": "Jensen Huang Is Gone. Now What?"
-    },
-    {
-     "title": "新政之后，房子还值钱吗？比建筑老化更可怕的是小区公共治理",
-     "link": "https://www.huxiu.com/article/4906092.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 00:11:25 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：过蝈8433 上一篇和大家从城市/土地的角度来分析，不再依赖土地财政后的房地产未来房子还是否保值增值。今天和大家从住宅折旧的角度来看，小区的保值性。未来大家要算好的一笔账是：土地的增幅能否跑赢小区的折旧？跑赢就是保值，跑输就是贬值。 那小区的折旧要怎么来系统分析呢？我规划了以下七大模块，每个模块可以分成很多细项，我们普通人也未必要看那么深、那么细，只是在买二手房或者对自己房产评估的时候，有一套判断的框架。 七大模块，给房子深度体检 规划——最被忽略，却是项目的价值底色 一个项目的价值底色很大程度上依赖于前期自身的规划。比如容积率，容积率决定了建筑类型和",
-     "source": "虎嗅",
-     "zh": "新政之后，房子还值钱吗？比建筑老化更可怕的是小区公共治理"
-    },
-    {
-     "title": "我发现很多富人都有一个相同的品质",
-     "link": "https://www.huxiu.com/article/4906091.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 00:10:58 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 这些年，得益于工作界面，我接触过一些真正靠自己、取得世俗成功的人。 他们投身到一个行业中，靠自己的认知和努力，真正赚到了钱，而后通过持续的运作，让自己的资产不断增值，从而达到标准意义上的财富自由。 他们行业不同，性格不同，能力方向也差得很远。初接触时，你不会觉得有什么共性。但是接触得多了，沉淀一下你就会发现，这些人身上，几乎都有一个相同的品质。 不是聪明，不是胆子大，也不是运气好。 而是，他们的自我，都很小。 用一个英文词来说，叫small ego。 大多数人，都是屁股决定脑袋 Small ego，直译过来，就是“小",
-     "source": "虎嗅",
-     "zh": "我发现很多富人都有一个相同的品质"
     }
    ]
   },
@@ -2024,6 +2024,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung’s working on new international SIM tools for One UI 9.5",
+     "link": "https://www.androidauthority.com/samsung-travel-sim-tool-3735617/",
+     "pubDate": "Mon, 16 Nov 2026 19:47:03 +0000",
+     "summary": "One UI 9.5 code shows travel SIM usage tracking by trip and day.",
+     "source": "Android Authority",
+     "zh": "Samsung’s working on new international SIM tools for One UI 9.5"
+    },
+    {
+     "title": "MagSafe Monday: MOFT’s Trackable Field Wallet holds eight cards, cash, and supports Find My",
+     "link": "https://9to5mac.com/2026/11/16/moft-trackable-field-wallet/",
+     "pubDate": "Mon, 16 Nov 2026 19:32:00 +0000",
+     "summary": "The one thing Apple’s own MagSafe wallet does that a few third-party wallets have is Find My. If you misplace your wallet, your iPhone tells you where it is. Most MagSafe wallets either skip tracking entirely or have a pocket for an AirTag, which adds thickness and it’s another thing to buy. The MOF",
+     "source": "9to5Mac",
+     "zh": "MagSafe Monday: MOFT’s Trackable Field Wallet holds eight cards, cash, and supports Find My"
+    },
+    {
+     "title": "Which Google Pixel phone is most similar to the Galaxy S26+?",
+     "link": "https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/",
+     "pubDate": "Mon, 16 Nov 2026 19:30:00 +0000",
+     "summary": "Trying to choose between the Google Pixel 11 Pro and Samsung Galaxy S26+? We break down the specs, cameras and prices to help find the best one for you.",
+     "source": "Engadget",
+     "zh": "Which Google Pixel phone is most similar to the Galaxy S26+?"
+    },
     {
      "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out",
      "link": "https://9to5mac.com/2026/11/16/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
@@ -2047,6 +2071,14 @@
      "summary": "iOS 27.3 beta 2 debuted today and includes two new types of video in the Apple TV app: vertical ‘clips’ and video podcasts. more…",
      "source": "9to5Mac",
      "zh": "iOS 27.3 brings vertical video and video podcasts to Apple TV app"
+    },
+    {
+     "title": "Google Maps' chatbot can find appointments and call to book them for you",
+     "link": "https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/",
+     "pubDate": "Mon, 16 Nov 2026 19:17:00 +0000",
+     "summary": "The Ask Maps chatbot is also expanding to more than 30 additional countries across Europe.",
+     "source": "Engadget",
+     "zh": "Google Maps' chatbot can find appointments and call to book them for you"
     },
     {
      "title": "You can now ask Siri AI questions about your health data, with iOS 27.3 beta 2",
@@ -2079,14 +2111,6 @@
      "summary": "If you love the convenience of a Kindle but miss the feel of having a physical book in your hands, we have some tips for you.",
      "source": "Engadget",
      "zh": "Improve your Amazon Kindle experience by doing these simple things"
-    },
-    {
-     "title": "iOS 27.3 gives Apple’s Calendar app new design updates",
-     "link": "https://9to5mac.com/2026/11/16/ios-27-3-gives-apples-calendar-app-new-design-updates/",
-     "pubDate": "Mon, 16 Nov 2026 18:52:18 +0000",
-     "summary": "iOS 27.3 beta 2 arrived today, most notably giving the iPhone Duo a face unlock feature . The update also includes some design updates for Apple’s Calendar app. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27.3 gives Apple’s Calendar app new design updates"
     },
     {
      "title": "Google expands Gemini’s voice options with 66 new regional accents",
@@ -2145,14 +2169,6 @@
      "zh": "Score $101 off the 256GB Samsung Galaxy Tab A11 Plus"
     },
     {
-     "title": "Google Maps expands Ask Maps with itineraries, list search, and appointment booking",
-     "link": "https://www.androidauthority.com/google-maps-ask-maps-update-3735628/",
-     "pubDate": "Mon, 16 Nov 2026 17:46:04 +0000",
-     "summary": "The update starts rolling out today.",
-     "source": "Android Authority",
-     "zh": "Google Maps expands Ask Maps with itineraries, list search, and appointment booking"
-    },
-    {
      "title": "Why scammers try to keep you on the phone (and how to spot their tactics)",
      "link": "https://www.engadget.com/2314524/why-scammers-keep-you-on-phone/",
      "pubDate": "Mon, 16 Nov 2026 17:45:00 +0000",
@@ -2175,22 +2191,6 @@
      "summary": "The time has come for Xiaomi to bring its latest flagship smartphones to the global market. After having launched the Xiaomi 18 Pro and Xiaomi 18 Pro Max in China in September, the company is now unleashing them across the world with a special unveiling event taking place tomorrow in Paris, France, ",
      "source": "GSMArena",
      "zh": "Watch the Xiaomi 18 Pro and Xiaomi 18 Pro Max global launch event here"
-    },
-    {
-     "title": "The simple and convenient Apple Maps feature every CarPlay user should know about",
-     "link": "https://www.engadget.com/2314427/apple-maps-convenient-share-eta-feature-for-carplay-users/",
-     "pubDate": "Mon, 16 Nov 2026 17:15:00 +0000",
-     "summary": "Apple Maps has plenty of useful features - some big, some small. This particular feature is relatively minor but can prove very useful indeed.",
-     "source": "Engadget",
-     "zh": "The simple and convenient Apple Maps feature every CarPlay user should know about"
-    },
-    {
-     "title": "Google adds 66 regional dialects to Gemini",
-     "link": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
-     "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
-     "summary": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.",
-     "source": "Engadget",
-     "zh": "Google adds 66 regional dialects to Gemini"
     },
     {
      "title": "Gemini rolling out 66 new regional voices on Android and iOS, including 10+ UK dialects",
@@ -2273,36 +2273,132 @@
    "total": 13,
    "items": [
     {
-     "title": "Stewards GAAP EPS of -$0.09, revenue of $3.4M",
-     "link": "https://seekingalpha.com/news/4673233-stewards-gaap-eps-of-0_09-revenue-of-3_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:23:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stewards GAAP EPS of -$0.09, revenue of $3.4M"
+     "title": "美股三大指数下跌 标普500跌超2% 芯片股集体下挫",
+     "link": "http://finance.eastmoney.com/news/1345,202611163932124582.html",
+     "pubDate": "Tue, 17 Nov 2026 03:47:09 +0800",
+     "summary": "美东时间周一，美股三大指数集体下跌，截至发稿， 道指跌1.59 %， 纳指跌2.64%，标普500指数跌2.11%。 芯片股集体下挫， 闪迪 、 ARM跌超7%， 英特尔 跌超6% ， 台积电 、 希捷科技 、 AMD 跌超5% ， 博通 、 西部数据 、 应用材料 跌超4%， 英伟达 跌超3%， 美国总统特朗普表示，不介意黄仁勋重新出任 英伟达 首席执行官 。 AI云服务公司走弱，Neibus、 CoreWeave 跌超6%， 甲骨文 跌超4%。 光 通信 板块走低，Lumentum跌超7%， Coherent、 迈威尔科技 、 康宁 跌超6%。 全球要闻 美银：10月中下旬以来NAND闪存",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数下跌 标普500跌超2% 芯片股集体下挫"
     },
     {
-     "title": "Spectral Capital Corporation reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673231-spectral-capital-corporation-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:20:18 -0500",
+     "title": "Anfield Energy Inc. GAAP EPS of -$0.35, revenue of $1.59M beats by $0.59M",
+     "link": "https://seekingalpha.com/news/4673248-anfield-energy-inc-gaap-eps-of-0_35-revenue-of-1_59m-beats-by-0_59m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:46:37 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Spectral Capital Corporation reports Q3 results"
+     "zh": "Anfield Energy Inc. GAAP EPS of -$0.35, revenue of $1.59M beats by $0.59M"
     },
     {
-     "title": "Click Holdings reports Q1 results",
-     "link": "https://seekingalpha.com/news/4673230-click-holdings-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:18:36 -0500",
+     "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+     "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+     "pubDate": "Mon, 16 Nov 2026 19:46:26 GMT",
+     "summary": "Jensen Huang resigned from Nvidia last week after 33 years as CEO.",
+     "source": "CNBC",
+     "zh": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC"
+    },
+    {
+     "title": "Cleveland Fed's Hammack says more rate hikes are needed to lower inflation",
+     "link": "https://seekingalpha.com/news/4673226-cleveland-feds-hammack-says-more-rate-hikes-are-needed-to-lower-inflation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:46:04 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Click Holdings reports Q1 results"
+     "zh": "Cleveland Fed's Hammack says more rate hikes are needed to lower inflation"
+    },
+    {
+     "title": "Diversify AI holdings as tech trade enters volatility and uncertainty, says JPMorgan’s David Kelly",
+     "link": "https://seekingalpha.com/news/4673246-diversify-ai-holdings-as-tech-trade-enters-volatility-and-uncertainty-says-jpmorgan-s-david?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:45:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Diversify AI holdings as tech trade enters volatility and uncertainty, says JPMorgan’s David Kelly"
+    },
+    {
+     "title": "Radnostix reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673247-radnostix-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:45:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Radnostix reports Q3 results"
+    },
+    {
+     "title": "JPMorgan, BofA, Wells Fargo, other banks trade lower amid user reports indicating problems",
+     "link": "https://seekingalpha.com/news/4673219-jpmorgan-bofa-wells-fargo-other-banks-trade-lower-amid-user-reports-indicating-problems?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:44:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "JPMorgan, BofA, Wells Fargo, other banks trade lower amid user reports indicating problems"
+    },
+    {
+     "title": "Pop Culture reports FY results",
+     "link": "https://seekingalpha.com/news/4673244-pop-culture-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:43:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pop Culture reports FY results"
+    },
+    {
+     "title": "力拓签署50兆瓦电力合同 以支持新西兰4号电解铝生产线重启",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932220472.html",
+     "pubDate": "Tue, 17 Nov 2026 03:41:13 +0800",
+     "summary": "力拓 签署50兆瓦 电力 合同，以支持新西兰4号电解 铝 生产线重启。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "力拓签署50兆瓦电力合同 以支持新西兰4号电解铝生产线重启"
     },
     {
      "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
      "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-     "pubDate": "Mon, 16 Nov 2026 19:16:39 GMT",
-     "summary": "Two OpenAI models gained unauthorized access Hugging Face's internal systems. The models were trying to find information for use in cheating on an evaluation.",
+     "pubDate": "Mon, 16 Nov 2026 19:39:55 GMT",
+     "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
      "source": "CNBC",
      "zh": "California sues OpenAI over Hugging Face, other AI model loss of control"
+    },
+    {
+     "title": "ICE咖啡库存下降12% 为三年来最大降幅",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932220336.html",
+     "pubDate": "Tue, 17 Nov 2026 03:39:21 +0800",
+     "summary": "ICE咖啡库存下降12%，为三年来最大降幅。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "ICE咖啡库存下降12% 为三年来最大降幅"
+    },
+    {
+     "title": "事件预测平台Kalshi将在未来两个月内推出股票和ETF交易",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932220181.html",
+     "pubDate": "Tue, 17 Nov 2026 03:36:48 +0800",
+     "summary": "事件预测平台Kalshi将在未来两个月内推出股票和ETF交易。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "事件预测平台Kalshi将在未来两个月内推出股票和ETF交易"
+    },
+    {
+     "title": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
+     "link": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 19:34:00 GMT",
+     "summary": "If the AI trade falters, investors have “insurance” in the former of bonds with a longer duration, says David Royal at Thrivent",
+     "source": "MarketWatch",
+     "zh": "Bond-market volatility is exploding higher. It could be the new normal for investors."
+    },
+    {
+     "title": "WTI原油期货收于每桶85.72美元 跌幅3.21%",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932220056.html",
+     "pubDate": "Tue, 17 Nov 2026 03:32:06 +0800",
+     "summary": "WTI原油 期货 收于每桶85.72美元，跌幅3.21%。",
+     "source": "东方财富股票",
+     "zh": "WTI原油期货收于每桶85.72美元 跌幅3.21%"
+    },
+    {
+     "title": "WTI原油期货收于每桶85.72美元，跌幅3.21%",
+     "link": "http://finance.eastmoney.com/news/1356,202611173932220224.html",
+     "pubDate": "Tue, 17 Nov 2026 03:31:53 +0800",
+     "summary": "WTI原油 期货 收于每桶85.72美元，跌幅3.21%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "WTI原油期货收于每桶85.72美元，跌幅3.21%"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 19:31:00 GMT",
+     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
     },
     {
      "title": "祝贺！中国成功连任",
@@ -2313,76 +2409,12 @@
      "zh": "祝贺！中国成功连任"
     },
     {
-     "title": "特朗普支持黄仁勋回归 英伟达董事会称暂不考虑",
-     "link": "http://stock.eastmoney.com/news/1611,202611173932218583.html",
-     "pubDate": "Tue, 17 Nov 2026 03:14:50 +0800",
-     "summary": "英伟达 股价周一震荡，特朗普公开表态支持黄仁勋重返CEO职位。 特朗普周一在白宫向记者表示，\"我不反对\"黄仁勋复职，并称\"很多人希望黄仁勋回来，这肯定不是个坏主意\"。他同时为黄仁勋辩护称，美国国家安全\"没有受到威胁\"。 随后，CNBC援引知情人士透露，董事会目前的工作重心是针对黄仁勋的调查，并未就其重返公司进行任何讨论。 英伟达 已聘请法律事务所WachtellLipton主导调查，重点审查黄仁勋的行为是否危及国家安全或公司机密。 在特朗普发表上述言论期间， 英伟达 股价一度短暂转涨，随后继续下跌至-2%左右。CNBC相关报道发布后，英伟达股价持续下跌，截至发稿下跌4.5%。 英伟达董事会于上",
-     "source": "东方财富股票",
-     "zh": "特朗普支持黄仁勋回归 英伟达董事会称暂不考虑"
-    },
-    {
-     "title": "Lifeloc Technologies GAAP EPS of -$0.03, revenue of $2.52M",
-     "link": "https://seekingalpha.com/news/4673229-lifeloc-technologies-gaap-eps-of-0_03-revenue-of-2_52m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:14:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lifeloc Technologies GAAP EPS of -$0.03, revenue of $2.52M"
-    },
-    {
-     "title": "美联储哈马克表示 倾向于稳步、缓慢地逐步加息",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932219389.html",
-     "pubDate": "Tue, 17 Nov 2026 03:13:35 +0800",
-     "summary": "美联储哈马克表示，倾向于稳步、缓慢地逐步加息。如果通胀心态形成，可能需要更大的举措。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美联储哈马克表示 倾向于稳步、缓慢地逐步加息"
-    },
-    {
-     "title": "Vasomedical reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673227-vasomedical-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:12:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vasomedical reports Q3 results"
-    },
-    {
      "title": "Altimeter&apos;s Brad Gerstner aims to invest $5 billion in Anthropic IPO",
      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
      "pubDate": "Mon, 16 Nov 2026 19:11:41 GMT",
      "summary": "Gerstner told CNBC that he's looking to put five time as much money into Anthropic as he's ever put into a prior IPO.",
      "source": "CNBC",
      "zh": "Altimeter&apos;s Brad Gerstner aims to invest $5 billion in Anthropic IPO"
-    },
-    {
-     "title": "Rapid Micro Biosystems GAAP EPS of -$0.23 misses by $0.03, revenue of $9.5M misses by $0.5M",
-     "link": "https://seekingalpha.com/news/4673225-rapid-micro-biosystems-gaap-eps-of-0_23-misses-by-0_03-revenue-of-9_5m-misses-by-0_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:10:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rapid Micro Biosystems GAAP EPS of -$0.23 misses by $0.03, revenue of $9.5M misses by $0.5M"
-    },
-    {
-     "title": "你家的电冰箱、空调、洗衣机…售后要有变化了→",
-     "link": "http://finance.eastmoney.com/news/1350,202611173932219810.html",
-     "pubDate": "Tue, 17 Nov 2026 03:10:00 +0800",
-     "summary": "记者11月16日了解到， 市场监管总局（国家标准委）近日修订发布《家用和类似用途电器售后服务第2部分：电冰箱的特殊要求》《家用和类似用途电器售后服务第3部分： 空调 器的特殊要求》等4项国家标准 ，分别规定了电冰箱、 空调 器、洗衣机、饮水机售后服务方的要求、售后服务提供流程及售后服务规范等，推动质量管控由产品本身向售后服务环节延伸，持续提升家电售后服务规范化水平，改善消费体验。 本次标准修订针对行业技术进步与消费者需求变化，主要作出三方面优化： 适配智能家电发展。 以电冰箱为例，新标准增加智能家电应用程序信息采集、在线升级、设备绑定等服务条款，打通线上远程诊断与线下上门服务链路，推动服务模式",
-     "source": "东方财富股票",
-     "zh": "你家的电冰箱、空调、洗衣机…售后要有变化了→"
-    },
-    {
-     "title": "高盛：在各国央行持续购金推动下 金价到2027年底或升至4,650美元/盎司",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932219258.html",
-     "pubDate": "Tue, 17 Nov 2026 03:09:23 +0800",
-     "summary": "高盛 表示，在各国央行持续购金的推动下，金价到2027年底将逐步攀升至每盎司4,650美元。一旦美联储开始降息，金价到2028年底有望上涨至每盎司5,600美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "高盛：在各国央行持续购金推动下 金价到2027年底或升至4,650美元/盎司"
-    },
-    {
-     "title": "SEC文件显示，老虎环球管理有限责任公司将其在英伟达的持股增加7.2%，至1200万股",
-     "link": "http://finance.eastmoney.com/news/1354,202611173932219449.html",
-     "pubDate": "Tue, 17 Nov 2026 03:06:18 +0800",
-     "summary": "SEC文件显示，老虎环球管理有限责任公司将其在 英伟达 的持股增加7.2%，至1200万股。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "SEC文件显示，老虎环球管理有限责任公司将其在英伟达的持股增加7.2%，至1200万股"
     },
     {
      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
@@ -2441,14 +2473,6 @@
      "zh": "特朗普支持黄仁勋回归，英伟达董事会称暂不考虑"
     },
     {
-     "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-     "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-     "pubDate": "Mon, 16 Nov 2026 18:22:06 GMT",
-     "summary": "Jensen Huang resigned from Nvidia last week after 33 years as CEO.",
-     "source": "CNBC",
-     "zh": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC"
-    },
-    {
      "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
      "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
      "pubDate": "Mon, 16 Nov 2026 18:14:16 GMT",
@@ -2473,22 +2497,6 @@
      "zh": "美联储为三种AI影响制定预案：生产力繁荣、大规模失业与泡沫破裂"
     },
     {
-     "title": "What’s the most tax-efficient way to donate to charity?",
-     "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 17:55:00 GMT",
-     "summary": "How to make your donations beneficial for both you and the recipient",
-     "source": "MarketWatch",
-     "zh": "What’s the most tax-efficient way to donate to charity?"
-    },
-    {
-     "title": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out.",
-     "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 17:53:00 GMT",
-     "summary": "The Federal Reserve staff is in the early days of developing various scenarios of how artificial intelligence’s growing role in business and daily life will impact the economy, Fed Chairman Kevin Warsh said Monday.",
-     "source": "MarketWatch",
-     "zh": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out."
-    },
-    {
      "title": "英伟达加码科学计算！发布Rubin HPC GPU，押注AI智能体重塑超算",
      "link": "https://wallstreetcn.com/articles/3786045",
      "pubDate": "Tue, 17 Nov 2026 01:43:43 +0800",
@@ -2503,14 +2511,6 @@
      "summary": "Following the donations, the chairman emeritus of Berkshire still owns 182,140 Class A shares -- roughly $162 billion.",
      "source": "CNBC",
      "zh": "Warren Buffett donates $5.5 billion, says kindness &apos;compounds&apos; in Thanksgiving letter"
-    },
-    {
-     "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
-     "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
-     "pubDate": "Mon, 16 Nov 2026 16:08:16 GMT",
-     "summary": "Anthropic's upcoming IPO is putting finance chief Krishna Rao into the limelight.",
-     "source": "CNBC",
-     "zh": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao"
     }
    ]
   },
@@ -2633,6 +2633,14 @@
      "zh": "The secret to building Moon bases may be hiding in emergency blankets"
     },
     {
+     "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+     "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+     "pubDate": "Sun, 15 Nov 2026 23:11:54 +0000",
+     "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+     "source": "Ars Technica Science",
+     "zh": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors"
+    },
+    {
      "title": "'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future",
      "link": "https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future",
      "pubDate": "Sun, 15 Nov 2026 20:00:00 +0000",
@@ -2751,14 +2759,6 @@
      "summary": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life. The post A New Era for the Dawn of Life first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
      "zh": "A New Era for the Dawn of Life"
-    },
-    {
-     "title": "The brain’s fear center moonlights as the save button for memories",
-     "link": "https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories",
-     "pubDate": "Thu, 12 Nov 2026 16:00:00 +0000",
-     "summary": "What determines which moments are remembered? The amygdala, typically associated with regulating fear and aggression, may play a major role",
-     "source": "Science News",
-     "zh": "The brain’s fear center moonlights as the save button for memories"
     }
    ]
   }

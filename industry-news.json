@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/16 11:31:50",
+ "generated_at": "2026/11/16 11:51:53",
  "recent_days": 7,
  "industries": [
   {
@@ -465,14 +465,6 @@
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
-     "title": "Nvidia and the World Without Jensen",
-     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
-     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
-     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
-     "source": "SemiAnalysis",
-     "zh": "Nvidia and the World Without Jensen"
-    },
-    {
      "title": "The Semiconductor Singularity",
      "link": "https://semiengineering.com/the-semiconductor-singularity/",
      "pubDate": "Thu, 12 Nov 2026 15:57:50 +0000",
@@ -495,6 +487,14 @@
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
+    },
+    {
+     "title": "Rethinking Memory For AI Inference",
+     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
+     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -1457,6 +1457,14 @@
      "zh": "A Global Rebound for Mangroves"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1497,6 +1505,14 @@
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1519,6 +1535,14 @@
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1745,6 +1769,78 @@
    "total": 18,
    "items": [
     {
+     "title": "Alibaba says Qwen4-Max, which isn&apos;t open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models (Luz Ding/Bloomberg)",
+     "link": "https://www.techmeme.com/261115/p26#a261115p26",
+     "pubDate": "Sun, 15 Nov 2026 22:45:00 -0500",
+     "summary": "Luz Ding / Bloomberg : Alibaba says Qwen4-Max, which isn't open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models &nbsp; &mdash;&nbsp; Alibaba Group Holding Ltd. launched a new flagship AI model, claiming performance that rivals Ant",
+     "source": "Techmeme",
+     "zh": "Alibaba says Qwen4-Max, which isn&apos;t open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models (Luz Ding/Bloomberg)"
+    },
+    {
+     "title": "SK 海力士携手韩政府共建 TRINITY FAB：为该国业者打造 12 英寸量产级测试验证平台",
+     "link": "https://www.ithome.com/1/027/595.htm",
+     "pubDate": "Mon, 16 Nov 2026 03:41:19 GMT",
+     "summary": "IT之家 11 月 16 日消息，SK 海力士的龙仁晶圆厂集群正在如火如荼地建设中，首座晶圆厂 Y1 的首个洁净室预计 2027 年 2 月投运。 而在龙仁 Y1 内部，还有一个项目也在推进之中，那就是 SK 海力士、龙仁市府、韩国产业通商资源部三方合作的 TRINITY FAB。 这一项目总投资额达 8,746 亿韩元 （IT之家注：现汇率约合 43.75 亿元人民币） ，其中 SK 海力士出资略超半数； 总洁净室面积达 3,300 平方米 ，可安装 37 台前端设备。 半导体制造是一项系统性工程，进行任何调整替换都需要对相关子系统进行整体的测试评估，这为小型参与者带来了相当大的困难。 TR",
+     "source": "IT之家",
+     "zh": "SK 海力士携手韩政府共建 TRINITY FAB：为该国业者打造 12 英寸量产级测试验证平台"
+    },
+    {
+     "title": "Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens (Qwen)",
+     "link": "https://www.techmeme.com/261115/p25#a261115p25",
+     "pubDate": "Sun, 15 Nov 2026 22:40:01 -0500",
+     "summary": "Qwen : Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens &nbsp; &mdash;&nbsp; Today, we are introducing Qwen4-Max, your new AI teammate for work, creativity, and discovery.",
+     "source": "Techmeme",
+     "zh": "Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens (Qwen)"
+    },
+    {
+     "title": "谁在忽悠普通人入局AI漫剧？",
+     "link": "https://www.tmtpost.com/8206372.html",
+     "pubDate": "Mon, 16 Nov 2026 11:38:00 +0800",
+     "summary": "别再捧杀AI漫剧了。",
+     "source": "钛媒体",
+     "zh": "谁在忽悠普通人入局AI漫剧？"
+    },
+    {
+     "title": "Token出海赚的钱，跟不上飙升的存储成本了",
+     "link": "https://www.tmtpost.com/8204368.html",
+     "pubDate": "Mon, 16 Nov 2026 11:37:00 +0800",
+     "summary": "收入按词元核算，成本却跟着GB走。",
+     "source": "钛媒体",
+     "zh": "Token出海赚的钱，跟不上飙升的存储成本了"
+    },
+    {
+     "title": "“零元面馆”的教训是，慈善不应与商业同台竞争",
+     "link": "https://www.huxiu.com/article/4905848.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 11:32:51 +0800",
+     "summary": "本文来自微信公众号： 冰川思享号 ，作者：骏瑜78 慈善从来不是道德完人的乌托邦。它永远在人性、成本与可行性之间走钢丝。 最近，南京接连开了两家面馆，门前天天排长队。不是为了吃什么好东西，而是因为这两家店的面不要钱。任何人不需要证明或资质，可以免费来店吃面。 这两家“零元面馆”是同一个老板，南京本地人，姓张。据报道，面馆老板自己估算，这两家店一年下来，综合损失可能达到1000万元。 店主表示自己是在“做善事”，可最先叫苦的，却是同一条街上的同行。 有位老板开了15年炒饭炒面店，一份饭一碗面平均赚1块5，一个月赚七八千，只够“养家糊口”。“零元面馆”开门以后，他跟记者说：“他这一搞把我们搞得彻底",
+     "source": "虎嗅",
+     "zh": "“零元面馆”的教训是，慈善不应与商业同台竞争"
+    },
+    {
+     "title": "谢帝搞说唱十几年，不如当“电子闺蜜”两个月？",
+     "link": "https://www.tmtpost.com/8206019.html",
+     "pubDate": "Mon, 16 Nov 2026 11:31:00 +0800",
+     "summary": "从硬核Rapper到“电子闺蜜”。",
+     "source": "钛媒体",
+     "zh": "谢帝搞说唱十几年，不如当“电子闺蜜”两个月？"
+    },
+    {
+     "title": "Sources: Jensen Huang had planned to pull back Nvidia&apos;s aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261115/p24#a261115p24",
+     "pubDate": "Sun, 15 Nov 2026 22:30:00 -0500",
+     "summary": "Wall Street Journal : Sources: Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further &nbsp; &mdash;&nbsp; Interim CEO Colette Kress is expected to rein in deals after a stretch in which Nvidia aggressivel",
+     "source": "Techmeme",
+     "zh": "Sources: Jensen Huang had planned to pull back Nvidia&apos;s aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further (Wall Street Journal)"
+    },
+    {
+     "title": "2 亿主摄加持，三星 Galaxy S27 Pro / Ultra 手机摄像头排列曝光",
+     "link": "https://www.ithome.com/1/027/592.htm",
+     "pubDate": "Mon, 16 Nov 2026 03:29:54 GMT",
+     "summary": "IT之家 11 月 16 日消息，博主 @i冰宇宙 今日分享了三星 Galaxy S27 Pro / Ultra 真机摄像头排列，并经过其再次确认。 可以看到，新机采用了横向矩形相机 Deco 设计，左侧为两个主要镜头，右侧为闪光灯以及一个较小镜头，整体较上代机型有较大变化。 IT之家注意到，S27 系列将打破 Galaxy S 的近年传统，在标准、Plus、Ultra 之外引入新的 Pro 变体。S Pro 的产品定义为“更小巧的 Ultra”，同样属于 Galaxy S 中的较高等级序列，但屏幕尺寸降低、取消手写笔支持。 此前有报道指出，在三星电子 MX（移动体验）业务的规划中，Pro 和",
+     "source": "IT之家",
+     "zh": "2 亿主摄加持，三星 Galaxy S27 Pro / Ultra 手机摄像头排列曝光"
+    },
+    {
      "title": "全球34%游戏从业者近两年遭遇裁员，54%至今未找到新工作，27%投简历超过百份",
      "link": "https://www.tmtpost.com/8206296.html",
      "pubDate": "Mon, 16 Nov 2026 11:25:54 +0800",
@@ -1793,30 +1889,6 @@
      "zh": "Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction (Bradley C/9to5Mac)"
     },
     {
-     "title": "小菜园掉入了“翻台率陷阱”",
-     "link": "https://www.tmtpost.com/8206371.html",
-     "pubDate": "Mon, 16 Nov 2026 11:19:39 +0800",
-     "summary": "翻台率和盈利能力偏离。",
-     "source": "钛媒体",
-     "zh": "小菜园掉入了“翻台率陷阱”"
-    },
-    {
-     "title": "一对“蛙蛇”涨粉百万，动物CP扎堆出道，萌系AI动画起风了？",
-     "link": "https://www.tmtpost.com/8206367.html",
-     "pubDate": "Mon, 16 Nov 2026 11:19:30 +0800",
-     "summary": "当技术红利退去，内容本身的故事力与IP的魅力，才是决定这条赛道能走多远的核心变量。",
-     "source": "钛媒体",
-     "zh": "一对“蛙蛇”涨粉百万，动物CP扎堆出道，萌系AI动画起风了？"
-    },
-    {
-     "title": "从华为剥离五年，超聚变募80亿冲IPO，服务器老二为何盯上能源？算力下一战，拼的是供电",
-     "link": "https://www.tmtpost.com/8206373.html",
-     "pubDate": "Mon, 16 Nov 2026 11:19:25 +0800",
-     "summary": "超聚变拟募80亿，将供电架构单列成新业务线。",
-     "source": "钛媒体",
-     "zh": "从华为剥离五年，超聚变募80亿冲IPO，服务器老二为何盯上能源？算力下一战，拼的是供电"
-    },
-    {
      "title": "华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码",
      "link": "https://www.ithome.com/1/027/574.htm",
      "pubDate": "Mon, 16 Nov 2026 03:16:33 GMT",
@@ -1833,14 +1905,6 @@
      "zh": "效率提升 300%，长安汽车数实融合无人化测试系统亮相"
     },
     {
-     "title": "科幻电影《沙丘》《沙丘 2》宣布 11 月 27 日、12 月 4 日起在中国内地重映",
-     "link": "https://www.ithome.com/1/027/572.htm",
-     "pubDate": "Mon, 16 Nov 2026 03:12:56 GMT",
-     "summary": "IT之家 11 月 16 日消息，科幻电影《沙丘 3》 将于 12 月 31 日在中国内地上映，是《沙丘》系列三部曲最终篇。 电影《沙丘 3》官方今日宣布， 《沙丘》、《沙丘 2》迎来重映 ，两部系列前作将于 11 月 27 日、12 月 4 日起重返大银幕，更有电影《沙丘 3》精彩片段先睹为快。 官方介绍称，电影《沙丘》、《沙丘 2》将于 11 月 27 日、12 月 4 日起开启 IMAX 与 CINITY 制式重映 ，“沙丘月”系列活动正式拉开序幕，带来院线重映、专属物料、艺人问候、跨年仪式等。 《沙丘 3》将由丹尼斯・维伦纽瓦继续执导，提莫西・查拉梅、赞达亚、弗洛伦斯・皮尤、安雅・泰勒",
-     "source": "IT之家",
-     "zh": "科幻电影《沙丘》《沙丘 2》宣布 11 月 27 日、12 月 4 日起在中国内地重映"
-    },
-    {
      "title": "AI，怎么就成专业公敌了",
      "link": "https://www.huxiu.com/article/4905842.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 11:12:42 +0800",
@@ -1855,14 +1919,6 @@
      "summary": "本文来自微信公众号： 出海同学会 ，作者：出海同学会，原文标题：《干货｜从 Muse、Instinct 出发，拆解 Personal Agent 的真实需求与落地场景》 在这一期中，我们邀请了来自AI创业公司、产品团队、投资机构及开发者社区的嘉宾，结合近期的产品体验，聊聊Personal Agent已经能够完成哪些事情，以及这些需求能否形成长期使用。 从邮件跟进、行程安排到生活服务，一些过去需要人工处理的事务，已经可以交给Agent。但不同市场的需求并不相同，嘉宾对产品路线也有不同判断：有人看好通用Agent覆盖大量中长尾需求，也有人认为垂直场景仍有机会。 本篇，我们聚焦几个问题：哪些体验真正",
      "source": "虎嗅",
      "zh": "从Muse、Instinct 出发，拆解Personal Agent 的真实需求与落地场景"
-    },
-    {
-     "title": "全新零跑 Lafa5 展车到店，将于 2026 广州车展上市",
-     "link": "https://www.ithome.com/1/027/555.htm",
-     "pubDate": "Mon, 16 Nov 2026 02:59:16 GMT",
-     "summary": "IT之家 11 月 16 日消息，零跑汽车今日宣布，高颜值智能轿跑全新零跑 Lafa5 即将上市，现已抵达全国门店。 据此前公开消息，零跑新款 Lafa5 将在 11 月 27 日开幕的 2026 广州车展上正式上市 。新车的升级项目包括 800V 高压平台、AR-HUD、零重力座椅、全车 14 扬声器、17.3 英寸中控屏等，其余配置仍待公布，预计与现款车型大部分保持一致。 作为参考，现款 Lafa5 于去年 12 月开启全国交付。零跑 Lafa 5 定位为纯电两厢紧凑型车，基于 LEAP 3.5 架构 B 平台打造，CLTC 纯电续航里程分别为 515km 和 605km，高配车型搭载有激",
-     "source": "IT之家",
-     "zh": "全新零跑 Lafa5 展车到店，将于 2026 广州车展上市"
     },
     {
      "title": "大投诉时代，人人都有点委屈",
@@ -1889,14 +1945,6 @@
      "zh": "徽酒的“第五把交椅”能坐多久？"
     },
     {
-     "title": "美智库集体研判：中美俄举行三方会晤，将如何影响国际秩序？",
-     "link": "https://www.huxiu.com/article/4905830.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 10:46:05 +0800",
-     "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《美智库集体研判：中美俄举行三方会晤，将如何影响国际秩序？｜IPP编译》 导语：11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在中国深圳举行。中国外交部发言人11月16日宣布，11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。 在大国关系相互牵动、各方利益不断调整的背景下，中美俄三方会晤能否取得实质成果，又将如何影响大国关系的未来走向？11月12日，美国布鲁金斯学会（Brookings）发布了六位专家的联合评论，前瞻深圳APEC会议及中美俄三方会晤。IPP评论特编译",
-     "source": "虎嗅",
-     "zh": "美智库集体研判：中美俄举行三方会晤，将如何影响国际秩序？"
-    },
-    {
      "title": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)",
      "link": "https://www.techmeme.com/261115/p22#a261115p22",
      "pubDate": "Sun, 15 Nov 2026 21:40:01 -0500",
@@ -1916,7 +1964,7 @@
      "title": "Qwen4-Max",
      "link": "https://qwen.ai/blog?id=qwen4-max",
      "pubDate": "Mon, 16 Nov 2026 02:14:44 +0000",
-     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 76 # Comments: 10",
+     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 145 # Comments: 28",
      "source": "Hacker News",
      "zh": "Qwen4-Max"
     },
@@ -1924,47 +1972,15 @@
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "link": "https://iter.ca/post/ubo-uxss/",
      "pubDate": "Mon, 16 Nov 2026 02:04:48 +0000",
-     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 69 # Comments: 9",
+     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 103 # Comments: 16",
      "source": "Hacker News",
      "zh": "Universal XSS in uBlock Origin from website-driven element picker"
-    },
-    {
-     "title": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)",
-     "link": "https://www.techmeme.com/261115/p20#a261115p20",
-     "pubDate": "Sun, 15 Nov 2026 20:45:01 -0500",
-     "summary": "Heekyong Yang / Reuters : SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain &nbsp; &mdash;&nbsp; South Korea's SK Hynix (000660.KS) said on Monday it plans to spend 1.4 trillion won ($1.05 bil",
-     "source": "Techmeme",
-     "zh": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)"
-    },
-    {
-     "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-     "link": "https://www.hntrends.com/2026/november.html",
-     "pubDate": "Mon, 16 Nov 2026 01:31:30 +0000",
-     "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 70 # Comments: 41",
-     "source": "Hacker News",
-     "zh": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs"
-    },
-    {
-     "title": "Agentic AI Designs an Analog Synthesizer",
-     "link": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
-     "pubDate": "Mon, 16 Nov 2026 01:28:10 +0000",
-     "summary": "Article URL: https://cpldcpu.github.io/2026/11/14/touchsynth/ Comments URL: https://news.ycombinator.com/item?id=50512933 Points: 3 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Agentic AI Designs an Analog Synthesizer"
-    },
-    {
-     "title": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)",
-     "link": "https://www.techmeme.com/261115/p19#a261115p19",
-     "pubDate": "Sun, 15 Nov 2026 20:15:01 -0500",
-     "summary": "Financial Times : Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants &nbsp; &mdash;&nbsp; South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfol",
-     "source": "Techmeme",
-     "zh": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)"
     },
     {
      "title": "Coles hit by a cybersecurity incident",
      "link": "https://www.colesgroup.com.au/updates/",
      "pubDate": "Mon, 16 Nov 2026 01:14:35 +0000",
-     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 56 # Comments: 31",
+     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 60 # Comments: 41",
      "source": "Hacker News",
      "zh": "Coles hit by a cybersecurity incident"
     },
@@ -1972,17 +1988,25 @@
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
      "pubDate": "Mon, 16 Nov 2026 00:21:54 +0000",
-     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 52 # Comments: 7",
+     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 61 # Comments: 8",
      "source": "Hacker News",
      "zh": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack"
     },
     {
-     "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-     "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-     "pubDate": "Sun, 15 Nov 2026 23:11:54 +0000",
-     "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-     "source": "Ars Technica",
-     "zh": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors"
+     "title": "What's Next for Nvidia?",
+     "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+     "pubDate": "Sun, 15 Nov 2026 23:55:55 +0000",
+     "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 108 # Comments: 123",
+     "source": "Hacker News",
+     "zh": "What's Next for Nvidia?"
+    },
+    {
+     "title": "Mini.nvim Is Now on Tangled",
+     "link": "https://tangled.org/nvim-mini.org/mini.nvim",
+     "pubDate": "Sun, 15 Nov 2026 23:55:41 +0000",
+     "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 40 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "Mini.nvim Is Now on Tangled"
     }
    ]
   },
@@ -1992,6 +2016,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung’s ‘Galaxy Claw’ is no longer a mystery, and it looks pretty ambitious",
+     "link": "https://www.androidauthority.com/samsung-galaxy-claw-3735274/",
+     "pubDate": "Mon, 16 Nov 2026 03:39:54 +0000",
+     "summary": "Is this the major Galaxy AI upgrade we've been waiting for?",
+     "source": "Android Authority",
+     "zh": "Samsung’s ‘Galaxy Claw’ is no longer a mystery, and it looks pretty ambitious"
+    },
     {
      "title": "Google Messages could soon make pinned chats better with a clever layout switching trick",
      "link": "https://www.androidauthority.com/google-messages-pinned-chats-automatic-layout-change-3735269/",
@@ -2177,14 +2209,6 @@
      "zh": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review"
     },
     {
-     "title": "Bluetooth HDT could finally fix wireless audio quality, but there’s still one big problem",
-     "link": "https://www.androidauthority.com/bluetooth-hdt-one-big-problem-3733124/",
-     "pubDate": "Sun, 15 Nov 2026 10:00:20 +0000",
-     "summary": "HDT will be one of the biggest changes to Bluetooth audio in years.",
-     "source": "Android Authority",
-     "zh": "Bluetooth HDT could finally fix wireless audio quality, but there’s still one big problem"
-    },
-    {
      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
      "link": "https://sspai.com/post/118392",
      "pubDate": "Sun, 15 Nov 2026 15:55:16 +0800",
@@ -2241,12 +2265,28 @@
    "total": 13,
    "items": [
     {
+     "title": "堪萨斯城联储施密德：通胀过高且方向错误，美联储仍有工作要做",
+     "link": "https://wallstreetcn.com/articles/3785996",
+     "pubDate": "Mon, 16 Nov 2026 11:35:41 +0800",
+     "summary": "堪萨斯城联储主席施密德（Jeff Schmid）上周日（11月15日）表示，当前通胀水平令人不安，美联储仍有工作要做，但他并未明确呼吁进一步加息。这是继芝加哥联储古尔斯比、纽约联储威廉姆斯及美联储主席沃什（Kevin Warsh）相继发声后，又一位联储官员就通胀问题公开表态。 据彭博、路透和CNBC报道，施密德在夏威夷一场信贷联盟会议上发表书面讲话称，美联储偏爱的物价指标9月同比上涨 3.6% ， “令人不安地高于2%的价格稳定目标，且正朝错误方向运行” 。他援引主席沃什此前表态指出，“美联储在通胀问题上仍有工作要做，而且不幸的是，自那以后我们的工作只会更难”。 施密德今年并非联邦公开市场委员",
+     "source": "华尔街见闻",
+     "zh": "堪萨斯城联储施密德：通胀过高且方向错误，美联储仍有工作要做"
+    },
+    {
      "title": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing",
      "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
-     "pubDate": "Mon, 16 Nov 2026 03:27:06 GMT",
+     "pubDate": "Mon, 16 Nov 2026 03:35:09 GMT",
      "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
      "source": "CNBC",
      "zh": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing"
+    },
+    {
+     "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+     "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+     "pubDate": "Mon, 16 Nov 2026 03:32:02 GMT",
+     "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+     "source": "CNBC",
+     "zh": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates"
     },
     {
      "title": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%",
@@ -2279,14 +2319,6 @@
      "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
      "source": "CNBC",
      "zh": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite"
-    },
-    {
-     "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-     "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-     "pubDate": "Mon, 16 Nov 2026 02:52:48 GMT",
-     "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
-     "source": "CNBC",
-     "zh": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates"
     },
     {
      "title": "中国1-10月份城镇固定资产投资下降8.1%，信息服务业增长20.5%",
@@ -2391,14 +2423,6 @@
      "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
      "source": "Financial Times",
      "zh": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy"
-    },
-    {
-     "title": "10月70城房价：一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降",
-     "link": "https://wallstreetcn.com/articles/3785985",
-     "pubDate": "Mon, 16 Nov 2026 09:30:52 +0800",
-     "summary": "11月16日，国家统计局公布，2026年10月份，70个大中城市中，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，一二三线城市同比降幅继续收窄。 二手房：一线房价环比继续上涨0.2% 环比看： 10月份，一线城市二手住宅销售价格环比上涨0.2%，涨幅与上月相同。 二线城市二手住宅销售价格环比下降0.3%，降幅比上月扩大0.1个百分点。 三线城市二手住宅销售价格环比下降0.3%，降幅与上月相同。 70个大中城市中， 二手住宅销售价格环比上涨城市有7个，比上月减少2个。 同比看： 10月份，一线城市二手住宅销售价格同比下降0.4%，降幅比上月收窄1.1个百分点。 二、三线城市二手住宅销",
-     "source": "华尔街见闻",
-     "zh": "10月70城房价：一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降"
     },
     {
      "title": "统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",

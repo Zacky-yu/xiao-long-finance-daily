@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 05:32:27",
+ "generated_at": "2026/11/17 05:52:17",
  "recent_days": 7,
  "industries": [
   {
@@ -665,6 +665,30 @@
    "total": 5,
    "items": [
     {
+     "title": "Adding wind cuts solar + battery storage power costs nearly 20%",
+     "link": "https://electrek.co/2026/11/16/adding-wind-cuts-solar-battery-storage-power-costs-nearly-20-percent/",
+     "pubDate": "Mon, 16 Nov 2026 21:42:57 +0000",
+     "summary": "Solar and battery storage can do a lot of the heavy lifting in a renewable electricity system. Add wind, and supplying reliable power gets nearly 20% cheaper, according to new analysis from energy think tank Ember. more…",
+     "source": "Electrek",
+     "zh": "Adding wind cuts solar + battery storage power costs nearly 20%"
+    },
+    {
+     "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+     "link": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/",
+     "pubDate": "Mon, 16 Nov 2026 21:41:36 +0000",
+     "summary": "Tesla’s Cybercab now has 8 crashes on file with NHTSA, barely two months after the purpose-built robotaxi started giving public rides in Austin. Four happened in driverless “Robotaxi” service, and none topped 5 mph. The other four happened with a test driver on board and Tesla’s driver-assist engage",
+     "source": "Electrek",
+     "zh": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem"
+    },
+    {
+     "title": "The Electric Baby Land Rover Defender And Range Rover GT Will Begin Production Next Year",
+     "link": "https://insideevs.com/news/815648/land-rover-baby-defender-production/",
+     "pubDate": "Mon, 16 Nov 2026 21:34:53 +0000",
+     "summary": "The baby Defender will still be built on the same EV platform as the Range Rover GT.",
+     "source": "InsideEVs",
+     "zh": "The Electric Baby Land Rover Defender And Range Rover GT Will Begin Production Next Year"
+    },
+    {
      "title": "Ausom Black Friday sale has the right scooter for the right job, at the right price",
      "link": "https://electrek.co/2026/11/16/ausom-black-friday-sale-right-scooter-right-job-at-right-price/",
      "pubDate": "Mon, 16 Nov 2026 21:00:00 +0000",
@@ -729,22 +753,6 @@
      "zh": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion"
     },
     {
-     "title": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
-     "link": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
-     "pubDate": "Mon, 16 Nov 2026 18:10:05 +0000",
-     "summary": "A Tesla Model X veered off Golden Gate Parkway in Naples, Florida, hit a traffic signal pole and overturned in September, killing a 50-year-old woman riding as a passenger. Tesla’s own report to federal regulators says Autopilot or “Full Self-Driving” was engaged. Tesla flagged this crash itself, th",
-     "source": "Electrek",
-     "zh": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger"
-    },
-    {
-     "title": "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf",
-     "link": "https://electrek.co/2026/11/16/byd-bringing-10000-great-seagull-ev-overseas/",
-     "pubDate": "Mon, 16 Nov 2026 17:58:05 +0000",
-     "summary": "BYD’s new, larger entry-level EV will go on sale in Europe, but it won’t be called the Dolphin Surf as expected. more…",
-     "source": "Electrek",
-     "zh": "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf"
-    },
-    {
      "title": "Tesla Model 3 Maintenance Guide: What Needs Servicing And What Doesn't",
      "link": "https://insideevs.com/news/814818/tesla-model-3-maintenance-guide/",
      "pubDate": "Mon, 16 Nov 2026 16:26:25 +0000",
@@ -767,14 +775,6 @@
      "summary": "The point-to-point assistant can handle traffic lights, pedestrians, cyclists, and navigation duties. But it's not technically self-driving.",
      "source": "InsideEVs",
      "zh": "I Tried Mercedes' Answer To Tesla FSD. Here's How It Went"
-    },
-    {
-     "title": "BMW Just Started Making EV Batteries In America. The New iX5 Will Be First In Line",
-     "link": "https://insideevs.com/news/815585/bmw-ev-factory-us-ix5-production-start/",
-     "pubDate": "Mon, 16 Nov 2026 12:52:51 +0000",
-     "summary": "Plant Woodruff is now churning out finished battery packs for BMW’s U.S.-made Neue Klasse EVs.",
-     "source": "InsideEVs",
-     "zh": "BMW Just Started Making EV Batteries In America. The New iX5 Will Be First In Line"
     },
     {
      "title": "FAW-VW opens reservations for ID. AURA L5 electric sedan with 580 km CLTC range",
@@ -1313,6 +1313,22 @@
    "total": 6,
    "items": [
     {
+     "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
+     "pubDate": "Mon, 16 Nov 2026 21:34:36 +0000",
+     "summary": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message"
+    },
+    {
+     "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
+     "pubDate": "Mon, 16 Nov 2026 21:26:29 +0000",
+     "summary": "See the most epic photos from SpaceX's Starship Flight 15 test flight and historic launch tower catch.",
+     "source": "Space.com",
+     "zh": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch"
+    },
+    {
      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
      "link": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
      "pubDate": "Mon, 16 Nov 2026 20:30:40 +0000",
@@ -1377,28 +1393,12 @@
      "zh": "The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know"
     },
     {
-     "title": "Could there be an ancient alien satellite in Earth's orbit? How the 'Black Knight' conspiracy theory has survived for over 100 years",
-     "link": "https://www.space.com/space-exploration/satellites/could-there-be-an-ancient-alien-satellite-in-earths-orbit-how-the-black-knight-conspiracy-theory-has-survived-for-over-100-years",
-     "pubDate": "Mon, 16 Nov 2026 16:00:00 +0000",
-     "summary": "The legend of the Black Knight satellite offers an example of how a collection of unconnected events and speculative interpretations can accumulate into a single conspiracy theory over time.",
-     "source": "Space.com",
-     "zh": "Could there be an ancient alien satellite in Earth's orbit? How the 'Black Knight' conspiracy theory has survived for over 100 years"
-    },
-    {
      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
      "pubDate": "Mon, 16 Nov 2026 15:22:09 +0000",
      "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agenc",
      "source": "NASA",
      "zh": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy"
-    },
-    {
-     "title": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026",
-     "link": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
-     "pubDate": "Mon, 16 Nov 2026 15:00:00 +0000",
-     "summary": "The new observatory managed to catch this comet whirling between the orbits of Jupiter and Saturn.",
-     "source": "Space.com",
-     "zh": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026"
     },
     {
      "title": "Exclusive: SpaceComputer Books a D-Orbit Demo Mission with Aptos Orbital in 2027",
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+     "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+     "pubDate": "Mon, 16 Nov 2026 16:31:44 -0500",
+     "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+     "source": "BleepingComputer",
+     "zh": "Google Project Zero cuts bug disclosures to 30 days amid AI threats"
+    },
+    {
      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
      "pubDate": "Mon, 16 Nov 2026 15:59:44 -0500",
@@ -1639,14 +1647,6 @@
      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. I",
      "source": "The Hacker News",
      "zh": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches"
-    },
-    {
-     "title": "Google warns that fully-automated AI attacks are coming soon",
-     "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-     "pubDate": "Mon, 16 Nov 2026 09:00:00 -0500",
-     "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-     "source": "BleepingComputer",
-     "zh": "Google warns that fully-automated AI attacks are coming soon"
     },
     {
      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
@@ -1753,10 +1753,18 @@
    "total": 18,
    "items": [
     {
+     "title": "The Bank Outage May Have Nothing to Do With Your Bank",
+     "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
+     "pubDate": "Mon, 16 Nov 2026 21:45:45 +0000",
+     "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a “technical issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
+     "source": "WIRED",
+     "zh": "The Bank Outage May Have Nothing to Do With Your Bank"
+    },
+    {
      "title": "My Quest to push native Three.js quality match AAA Game Engines",
      "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
      "pubDate": "Mon, 16 Nov 2026 21:07:43 +0000",
-     "summary": "Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs Comments URL: https://news.ycombinator.com/item?id=50523291 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs Comments URL: https://news.ycombinator.com/item?id=50523291 Points: 12 # Comments: 0",
      "source": "Hacker News",
      "zh": "My Quest to push native Three.js quality match AAA Game Engines"
     },
@@ -1764,7 +1772,7 @@
      "title": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic&apos;s IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)",
      "link": "https://www.techmeme.com/261116/p43#a261116p43",
      "pubDate": "Mon, 16 Nov 2026 16:05:01 -0500",
-     "summary": "Kif Leswing / CNBC : Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it &ldquo;a cornerstone compounder for a long time&rdquo; &nbsp; &mdash;&nbsp; VIDEO 31:57&nbsp; &mdash;&nbsp; Watch CNBC's full interview with Altimeter Capital's Bra",
+     "summary": "Kif Leswing / CNBC : Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it &ldquo;a cornerstone compounder for a long time&rdquo; &nbsp; &mdash;&nbsp; Altimeter Capital is aiming to invest $5 billion in the Anthropic IPO, Brad Gerstner tol",
      "source": "Techmeme",
      "zh": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic&apos;s IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)"
     },
@@ -1788,9 +1796,17 @@
      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
      "pubDate": "Mon, 16 Nov 2026 20:48:08 +0000",
-     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 19 # Comments: 4",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 26 # Comments: 12",
      "source": "Hacker News",
      "zh": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case"
+    },
+    {
+     "title": "Caltech professor no longer grades homework's because everyone uses AI",
+     "link": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+     "pubDate": "Mon, 16 Nov 2026 20:47:53 +0000",
+     "summary": "Article URL: https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11 Comments URL: https://news.ycombinator.com/item?id=50523022 Points: 24 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "Caltech professor no longer grades homework's because everyone uses AI"
     },
     {
      "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
@@ -1820,7 +1836,7 @@
      "title": "Chemistry Is Geometry",
      "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
      "pubDate": "Mon, 16 Nov 2026 20:22:18 +0000",
-     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 5 # Comments: 0",
      "source": "Hacker News",
      "zh": "Chemistry Is Geometry"
     },
@@ -1836,7 +1852,7 @@
      "title": "Rust changed me as a developer",
      "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
      "pubDate": "Mon, 16 Nov 2026 20:16:50 +0000",
-     "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 29 # Comments: 2",
+     "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 44 # Comments: 8",
      "source": "Hacker News",
      "zh": "Rust changed me as a developer"
     },
@@ -1871,14 +1887,6 @@
      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
      "source": "Ars Technica",
      "zh": "Meet the new James Bond: Robert Pattinson"
-    },
-    {
-     "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
-     "link": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
-     "pubDate": "Mon, 16 Nov 2026 19:29:17 +0000",
-     "summary": "Article URL: https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/ Comments URL: https://news.ycombinator.com/item?id=50521870 Points: 24 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "How to Intercept HTTP/3 Traffic: QUIC and Qpack"
     },
     {
      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
@@ -1983,14 +1991,6 @@
      "summary": "IT之家 11 月 17 日消息，综合第一财经、鞭牛士报道，多位消息人士透露， 360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查 。截至发稿，360 方面暂未回应。 今年 8 月，360 集团宣布，为推进“安全 +AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。 消息人士还透露，除了卜思南涉案外， 内部或许还有相关人员被带走调查 。 IT之家查询获悉，卜思南是 360 集团副总裁、360 集团市场部负责人、360 数字安全集团教育事业部总经理、ISC 品牌主理人。卜思南早期负责集团市场战略、品牌生态建设，后",
      "source": "IT之家",
      "zh": "消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查"
-    },
-    {
-     "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
-     "link": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
-     "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
-     "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
-     "source": "WIRED",
-     "zh": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts"
     }
    ]
   },
@@ -2001,12 +2001,36 @@
    "total": 7,
    "items": [
     {
+     "title": "Apple expands Apple Intelligence beta testing in China to iPads and Macs",
+     "link": "https://9to5mac.com/2026/11/16/apple-expands-apple-intelligence-beta-testing-in-china-to-ipads-and-macs/",
+     "pubDate": "Mon, 16 Nov 2026 21:38:55 +0000",
+     "summary": "Following the arrival of Apple Intelligence on iPhones in China with iOS 27.3 beta 1, Apple is now expanding support to iPads and Macs ahead of the public release of its 27.3 updates. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple expands Apple Intelligence beta testing in China to iPads and Macs"
+    },
+    {
+     "title": "Android Fast Switch looks like Google’s answer to iPhone Handoff",
+     "link": "https://www.androidauthority.com/android-fast-switch-handoff-3735737/",
+     "pubDate": "Mon, 16 Nov 2026 21:38:23 +0000",
+     "summary": "Google's prepping an automatic SIM-sharing tool of its own.",
+     "source": "Android Authority",
+     "zh": "Android Fast Switch looks like Google’s answer to iPhone Handoff"
+    },
+    {
      "title": "New iPhone Duo orders now deliver a month earlier than before",
      "link": "https://9to5mac.com/2026/11/16/new-iphone-duo-orders-now-deliver-a-month-earlier-than-before/",
      "pubDate": "Mon, 16 Nov 2026 21:28:12 +0000",
      "summary": "Interested in getting an iPhone Duo before Christmas? You might be in luck, as Apple’s online store delivery estimates just got pulled forward by a full month, with December delivery now expected. more…",
      "source": "9to5Mac",
      "zh": "New iPhone Duo orders now deliver a month earlier than before"
+    },
+    {
+     "title": "The iPhone Duo gets face unlock with the latest iOS 27 beta.",
+     "link": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/",
+     "pubDate": "Mon, 16 Nov 2026 21:17:24 +0000",
+     "summary": "You won't need to wait for TouchID on your $2,000 foldable.",
+     "source": "Engadget",
+     "zh": "The iPhone Duo gets face unlock with the latest iOS 27 beta."
     },
     {
      "title": "Apple’s leadership overhaul continues with new Apple Pay and Wallet chief",
@@ -2129,14 +2153,6 @@
      "zh": "Samsung’s working on new international SIM tools for One UI 9.5"
     },
     {
-     "title": "MagSafe Monday: MOFT’s Trackable Field Wallet holds eight cards, cash, and supports Find My",
-     "link": "https://9to5mac.com/2026/11/16/moft-trackable-field-wallet/",
-     "pubDate": "Mon, 16 Nov 2026 19:32:00 +0000",
-     "summary": "The one thing Apple’s own MagSafe wallet does that a few third-party wallets have is Find My. If you misplace your wallet, your iPhone tells you where it is. Most MagSafe wallets either skip tracking entirely or have a pocket for an AirTag, which adds thickness and it’s another thing to buy. The MOF",
-     "source": "9to5Mac",
-     "zh": "MagSafe Monday: MOFT’s Trackable Field Wallet holds eight cards, cash, and supports Find My"
-    },
-    {
      "title": "Which Google Pixel phone is most similar to the Galaxy S26+?",
      "link": "https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/",
      "pubDate": "Mon, 16 Nov 2026 19:30:00 +0000",
@@ -2159,22 +2175,6 @@
      "summary": "Samsung opened pre-orders for its Intelligent Eyewear smart glasses on November 12 in the US and South Korea. Now, just a few days later, all 16 Gentle Monster designs are marked \"Pre-order sold out\" on Gentle Monster's Korean and US online stores, and the company says several of them were gone with",
      "source": "GSMArena",
      "zh": "Samsung's Gentle Monster smart glasses pre-orders are already sold out"
-    },
-    {
-     "title": "Improve your Amazon Kindle experience by doing these simple things",
-     "link": "https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things/",
-     "pubDate": "Mon, 16 Nov 2026 19:00:00 +0000",
-     "summary": "If you love the convenience of a Kindle but miss the feel of having a physical book in your hands, we have some tips for you.",
-     "source": "Engadget",
-     "zh": "Improve your Amazon Kindle experience by doing these simple things"
-    },
-    {
-     "title": "Google expands Gemini’s voice options with 66 new regional accents",
-     "link": "https://www.androidauthority.com/google-gemini-new-regional-voices-3735654/",
-     "pubDate": "Mon, 16 Nov 2026 18:48:53 +0000",
-     "summary": "Google wants Gemini to sound more like the people you talk to every day.",
-     "source": "Android Authority",
-     "zh": "Google expands Gemini’s voice options with 66 new regional accents"
     },
     {
      "title": "Google beta lets you test ‘Create My Widget’ on Pixel 10 and 11 now",
@@ -2249,12 +2249,76 @@
    "total": 13,
    "items": [
     {
-     "title": "ReposiTrak GAAP EPS of $0.08 in-line, revenue of $5.8M beats by $0.8M",
-     "link": "https://seekingalpha.com/news/4673303-repositrak-gaap-eps-of-0_08-in-line-revenue-of-5_8m-beats-by-0_8m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:24:23 -0500",
+     "title": "Rio Tinto signs electricity deal to restart New Zealand smelter line",
+     "link": "https://seekingalpha.com/news/4673325-rio-tinto-signs-electricity-deal-to-restart-new-zealand-smelter-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:48:02 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "ReposiTrak GAAP EPS of $0.08 in-line, revenue of $5.8M beats by $0.8M"
+     "zh": "Rio Tinto signs electricity deal to restart New Zealand smelter line"
+    },
+    {
+     "title": "Evolution Metals & Technologies Q3 non-GAAP EPS of -$0.02, revenue of $2.2M",
+     "link": "https://seekingalpha.com/news/4673332-evolution-metals-technologies-q3-non-gaap-eps-of--002-revenue-of-22m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:46:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Evolution Metals & Technologies Q3 non-GAAP EPS of -$0.02, revenue of $2.2M"
+    },
+    {
+     "title": "Precision Optics GAAP EPS of -$0.04 beats by $0.09, revenue of $8.15M beats by $1.71M",
+     "link": "https://seekingalpha.com/news/4673337-precision-optics-gaap-eps-of-0_04-beats-by-0_09-revenue-of-8_15m-beats-by-1_71m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:45:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Precision Optics GAAP EPS of -$0.04 beats by $0.09, revenue of $8.15M beats by $1.71M"
+    },
+    {
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 21:45:00 GMT",
+     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+     "source": "MarketWatch",
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
+     "title": "Cabot declares $0.4725 dividend",
+     "link": "https://seekingalpha.com/news/4673336-cabot-declares-0_4725-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:44:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cabot declares $0.4725 dividend"
+    },
+    {
+     "title": "CTO Realty Growth, Inc. 6.375% SER A PFD declares $0.3984 dividend",
+     "link": "https://seekingalpha.com/news/4673333-cto-realty-growth-inc-6_375-percent-ser-a-pfd-declares-0_3984-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:44:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CTO Realty Growth, Inc. 6.375% SER A PFD declares $0.3984 dividend"
+    },
+    {
+     "title": "Corvex exits Microsoft, raises holdings in Amazon.com, cuts stake in Walt Disney",
+     "link": "https://seekingalpha.com/news/4673271-corvex-exits-microsoft-raises-holdings-in-amazoncom-cuts-stake-in-walt-disney?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:43:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Corvex exits Microsoft, raises holdings in Amazon.com, cuts stake in Walt Disney"
+    },
+    {
+     "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+     "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+     "pubDate": "Mon, 16 Nov 2026 21:42:50 GMT",
+     "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+     "source": "CNBC",
+     "zh": "JPMorgan Chase says temporary software bug is affecting consumer banking"
+    },
+    {
+     "title": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
+     "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 21:40:00 GMT",
+     "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+     "source": "MarketWatch",
+     "zh": "Now’s the perfect time for networking. Here’s how to send a cringe-free email."
     },
     {
      "title": "Kalshi plans to launch stock trading soon",
@@ -2263,46 +2327,6 @@
      "summary": "Kalshi's interest in offering stock trading shows the platform's push into traditional financial markets.",
      "source": "CNBC",
      "zh": "Kalshi plans to launch stock trading soon"
-    },
-    {
-     "title": "Infleqtion's Q3 revenue falls short, but it maintains full-year target",
-     "link": "https://seekingalpha.com/news/4673259-infleqtions-q3-revenue-falls-short-but-it-maintains-full-year-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:22:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Infleqtion's Q3 revenue falls short, but it maintains full-year target"
-    },
-    {
-     "title": "Rosemont to acquire Aytu BioPharma for $2.70 per share",
-     "link": "https://seekingalpha.com/news/4673286-rosemont-to-acquire-aytu-biopharma-for-2_70-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:22:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rosemont to acquire Aytu BioPharma for $2.70 per share"
-    },
-    {
-     "title": "ORIC Pharmaceuticals GAAP EPS of -$0.44 misses by $0.05",
-     "link": "https://seekingalpha.com/news/4673301-oric-pharmaceuticals-gaap-eps-of-0_44-misses-by-0_05?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:22:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ORIC Pharmaceuticals GAAP EPS of -$0.44 misses by $0.05"
-    },
-    {
-     "title": "Insight Molecular Diagnostics Inc. GAAP EPS of -$0.10 beats by $0.14, revenue of $0.56M beats by $0.32M",
-     "link": "https://seekingalpha.com/news/4673300-insight-molecular-diagnostics-inc-gaap-eps-of-0_10-beats-by-0_14-revenue-of-0_56m-beats-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:22:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Insight Molecular Diagnostics Inc. GAAP EPS of -$0.10 beats by $0.14, revenue of $0.56M beats by $0.32M"
-    },
-    {
-     "title": "Chevron nears $5B deal for Blackstone-backed Beacon Offshore - FT",
-     "link": "https://seekingalpha.com/news/4673278-chevron-nears-5b-deal-for-blackstone-backed-beacon-offshore-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:21:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Chevron nears $5B deal for Blackstone-backed Beacon Offshore - FT"
     },
     {
      "title": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.",
@@ -2327,14 +2351,6 @@
      "summary": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
      "source": "MarketWatch",
      "zh": "Customers of Chase, Bank of America and other U.S. banks report service outages"
-    },
-    {
-     "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-     "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-     "pubDate": "Mon, 16 Nov 2026 21:11:06 GMT",
-     "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
-     "source": "CNBC",
-     "zh": "California sues OpenAI over Hugging Face, other AI model loss of control"
     },
     {
      "title": "美国加州正式起诉OpenAI，指控其模型测试疏于管控、危害公共安全",
@@ -2369,12 +2385,12 @@
      "zh": "加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门"
     },
     {
-     "title": "Nasdaq sinks 2.7% in gloomy start to pivotal week for AI trade",
+     "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
      "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
      "pubDate": "Mon, 16 Nov 2026 21:02:17 GMT",
      "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
      "source": "Financial Times",
-     "zh": "Nasdaq sinks 2.7% in gloomy start to pivotal week for AI trade"
+     "zh": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade"
     },
     {
      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
@@ -2393,28 +2409,12 @@
      "zh": "OpenAI sued by California over 80 ‘loss of control’ incidents"
     },
     {
-     "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-     "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 20:46:00 GMT",
-     "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-     "source": "MarketWatch",
-     "zh": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch"
-    },
-    {
      "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
      "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
      "pubDate": "Mon, 16 Nov 2026 20:44:24 GMT",
      "summary": "Anthropic's upcoming IPO is putting finance chief Krishna Rao into the limelight.",
      "source": "CNBC",
      "zh": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao"
-    },
-    {
-     "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-     "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 20:41:00 GMT",
-     "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-     "source": "MarketWatch",
-     "zh": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled."
     },
     {
      "title": "美股三大指数下跌 标普500跌超2% 芯片股集体下挫",

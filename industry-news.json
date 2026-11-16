@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/16 10:31:51",
+ "generated_at": "2026/11/16 10:51:48",
  "recent_days": 7,
  "industries": [
   {
@@ -1020,7 +1020,7 @@
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1039,6 +1039,14 @@
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1087,14 +1095,6 @@
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
-    },
-    {
-     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
-     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
-     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
-     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
-     "source": "PV Tech",
-     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1745,6 +1745,54 @@
    "total": 18,
    "items": [
     {
+     "title": "光伏“结构性修复”，修在了哪儿？",
+     "link": "https://www.huxiu.com/article/4905826.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 10:44:24 +0800",
+     "summary": "本文来自微信公众号： 北极星太阳能光伏网 ，作者：燕七 国家能源局数据显示，2026年前三季度，全国光伏新增装机110.83GW，同比下滑53.9%。但Q3单季装机38.76GW，同比增长38%，9月单月光伏装机增长41.2%，需求已边际回暖。 整体来看，光伏行业仍处于周期底部。据业内统计，108家A股光伏上市公司前三季度合计归母净利润为-30.50亿元，其中58家亏损。但三季报释放出明确的边际修复信号：据北极星太阳能光伏网结合上市公司三季报统计，2026年第三季度，共有40家光伏上市公司实现盈利，38家企业前三季度盈利，另有6家企业三季度归母净利润环比减亏。 分化的成绩单显示，光伏行业并未出",
+     "source": "虎嗅",
+     "zh": "光伏“结构性修复”，修在了哪儿？"
+    },
+    {
+     "title": "黄仁勋：一个移民少年的“美国梦”",
+     "link": "https://www.huxiu.com/article/4905814.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 10:40:58 +0800",
+     "summary": "本文来自微信公众号： 馒头说 ，作者：馒头大师，题图来自：视觉中国 一 黄仁勋5岁前的时光，是在中国的台湾度过的。 他们家的祖籍是浙江省的青田。黄仁勋的父亲黄兴泰毕业于成功大学化学工程系，是美国开利空调公司 （Carrier） 台湾分部的一名工程师，母亲罗采秀做过小学老师。 黄仁勋5岁那年，父亲黄兴泰因为工作调动，带着全家迁往泰国曼谷。 但黄兴泰并不认为曼谷是他们的长居之地。 因为黄兴泰曾被派往美国参加公司培训。那次短暂的美国之行让黄兴泰受到了极大的震撼&mdash;&mdash;20世纪60年代末的曼哈顿，摩天大楼高耸入云，家用电器琳琅满目，整个国家散发着一种蓬勃向上的工业气息。 回来之后，",
+     "source": "虎嗅",
+     "zh": "黄仁勋：一个移民少年的“美国梦”"
+    },
+    {
+     "title": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)",
+     "link": "https://www.techmeme.com/261115/p22#a261115p22",
+     "pubDate": "Sun, 15 Nov 2026 21:40:01 -0500",
+     "summary": "Alex Riehl / BetaKit : Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation &nbsp; &mdash;&nbsp; Toronto-based Blue J has raised a $176-million USD ($249-million CAD) Series E round after more than doubling its a",
+     "source": "Techmeme",
+     "zh": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)"
+    },
+    {
+     "title": "医保局开始给创新药算总账",
+     "link": "https://www.huxiu.com/article/4905824.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 10:30:39 +0800",
+     "summary": "本文来自微信公众号： 西直门外汉 ，作者：医研堂堂主 11月14日，苏州创新药高质量发展大会。 国家医保局医药服务管理司司长黄心宇透露了一个细节：今年有些药企承诺开展真实世界研究并完成备案，因此在医保谈判中获得了价格上的倾斜。 但有个条件：“到时候必须交账。” 这话值得药企认真听听。 当天发布的新版医保目录，新增了芬妥司兰钠、艾美赛珠单抗和马塔西单抗三种血友病非因子类治疗药物。医保局准备跟踪它们进入医保后的实际效果和基金支出，并将研究结果用于两年后的续约。 也就是说，药企拿到医保准入资格，未必就算完成了任务。 过去，医保谈判主要依据已有临床证据、药物经济学评价和基金承受能力商定价格。今后，进入",
+     "source": "虎嗅",
+     "zh": "医保局开始给创新药算总账"
+    },
+    {
+     "title": "拆飞机供电？AI公司的算力焦虑已经卷到电力端",
+     "link": "https://www.huxiu.com/article/4905822.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 10:29:30 +0800",
+     "summary": "本文来自微信公众号： 硅碳变量 ，作者：沈浪 据英国《金融时报》11月8日报道，Anthropic在9月下旬与位于德克萨斯州圣安东尼奥的设备供应商OnePWR Solutions完成一笔交易，以34亿美元（约合人民币227亿元）锁定1.7吉瓦重型发电机供货，用于数据中心的电力供给。 更早之前，AI基础设施公司Crusoe于4月向密苏里州ProEnergy订购13台机组，每台额定功率50兆瓦，合计650兆瓦，用于未来的美国数据中心。 如果放在十年前，把航发的心脏拆下来给机房供电，大概只会被当作方案里的猎奇玩笑。 事实上，这并非技术层面的革新，更像是两套时序逻辑发生碰撞：资本扩张以季度计，而电力基",
+     "source": "虎嗅",
+     "zh": "拆飞机供电？AI公司的算力焦虑已经卷到电力端"
+    },
+    {
+     "title": "华为何刚：Mate X 系列 8 年 8 代一路走来，已成为 2000 万用户手里的主力大屏",
+     "link": "https://www.ithome.com/1/027/531.htm",
+     "pubDate": "Mon, 16 Nov 2026 02:24:04 GMT",
+     "summary": "IT之家 11 月 16 日消息，华为 Mate X8 及全场景新品发布会今日官宣定档 11 月 24 日 14:30 举行。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东已率先用上新机的典藏版。 IT之家注意到，华为董事、终端 BG CEO 何刚今日发文透露了一组数据，作为华为大折叠旗舰，Mate X 系列 8 年 8 代一路走来， 已经成为 2000 万用户手里的主力大屏 。 目前，华为 Mate X8 折叠屏手机外观已公布。余承东表示，新机在屏幕、拍照、性能等方面又有新的突破。",
+     "source": "IT之家",
+     "zh": "华为何刚：Mate X 系列 8 年 8 代一路走来，已成为 2000 万用户手里的主力大屏"
+    },
+    {
      "title": "SK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers (Yoolim Lee/Bloomberg)",
      "link": "https://www.techmeme.com/261115/p21#a261115p21",
      "pubDate": "Sun, 15 Nov 2026 21:20:02 -0500",
@@ -1777,12 +1825,20 @@
      "zh": "数据产量涨了十倍，愿意掏钱买数据的企业只有11.65%丨ToB产业观察"
     },
     {
-     "title": "斯坦福重磅AI100年度报告解读：AI 走向主流",
-     "link": "https://www.huxiu.com/article/4905774.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 10:08:00 +0800",
-     "summary": "本文来自微信公众号： AI时代仍不辍思考 ，作者：创业思考碎片 来源：斯坦福大学AI100《AI Goes Mainstream:The Scaling Era and the Rise of Generative AI》（AI走向主流：规模化时代与生成式AI的崛起），2026年11月发布。 AI100（人工智能百年研究）由斯坦福大学以人为本人工智能研究院（HAI，李飞飞是创始主任）管理，每五年用同一组常设问题重新评估AI的进展与影响。2026年11月的第三份报告，把焦点转向创新加速对制度和社会结构的冲击。 一、引言（Introduction） 过去五年的变化来自报告所称的「规模化时代」。支撑",
-     "source": "虎嗅",
-     "zh": "斯坦福重磅AI100年度报告解读：AI 走向主流"
+     "title": "松下官宣 LUMIX 新机发布会，预计为电影摄影机产品",
+     "link": "https://www.ithome.com/1/027/514.htm",
+     "pubDate": "Mon, 16 Nov 2026 02:08:37 GMT",
+     "summary": "IT之家 11 月 16 日消息，松下官方今天在 YouTube 宣布， 北京时间明晚 22:00 将会有 LUMIX 新机发布 。 结合消息源 L-Rumors 爆料，这款新品预计是一款 L 卡口全画幅电影摄影机。该机将没有内置 ND 滤镜、电子取景器，配备两个 USB Type-C 接口，并具备 HDMI 2.1 全尺寸接口，使用 V 口电池，不支持拍摄静态照片，售价与索尼 FX5 接近，预计明年 1 月上市。 截至目前，松下官方暂未公布这款相机的参数详情，IT之家将持续关注，第一时间带来最新消息。",
+     "source": "IT之家",
+     "zh": "松下官宣 LUMIX 新机发布会，预计为电影摄影机产品"
+    },
+    {
+     "title": "台积电向精材外包 CoWoS 先进封装 oS 产能，后者将在台积电厂房建设产线",
+     "link": "https://www.ithome.com/1/027/513.htm",
+     "pubDate": "Mon, 16 Nov 2026 02:08:19 GMT",
+     "summary": "IT之家 11 月 16 日消息，据中国台湾地区晶圆级封装企业精材科技 (Xintec) 官方公告，该企业董事会本月 13 日决议通过与客户台积电签订产能外包协议。 根据这份协议， 精材将在台积电中科厂区的厂房中建设一条先进封装产线 ，负责 CoWoS 异构集成中的 \"oS\" 工序。精材将为该产线采购生产设备和自动物料搬运系统，并负责生产运营，预计 2029 年一期投运。",
+     "source": "IT之家",
+     "zh": "台积电向精材外包 CoWoS 先进封装 oS 产能，后者将在台积电厂房建设产线"
     },
     {
      "title": "OpenAI六年两次裁撤机器人团队，中国厂商却在给“小脑”持续下注",
@@ -1801,10 +1857,18 @@
      "zh": "谁能熬过具身寒冬？"
     },
     {
+     "title": "2.4 万亿参数阿里通义千问 Qwen4-Max 正式上线：任务成本降低超 60%，后续将开源小尺寸模型",
+     "link": "https://www.ithome.com/1/027/512.htm",
+     "pubDate": "Mon, 16 Nov 2026 02:07:36 GMT",
+     "summary": "IT之家 11 月 16 日消息，阿里通义千问团队今日宣布推出新一代旗舰模型 Qwen4-Max，采用全新的 MoE（混合专家）架构，主干参数规模达到 2.4 万亿，原生支持视觉理解，并提供 100 万 Token 上下文窗口。 与此前 11 月 11 日先行开放的限时预览版不同，此次发布标志着 Qwen4-Max 作为正式版本接入千问 AI 平台，开发者可通过 Token Plan 或 API 调用。 Qwen4-Max 采用稀疏 MoE 架构，围绕 Attention、Residual 和 Embedding 三个层面做了系统性调整。每四层中三层使用 Gated DeltaNet 将历史信",
+     "source": "IT之家",
+     "zh": "2.4 万亿参数阿里通义千问 Qwen4-Max 正式上线：任务成本降低超 60%，后续将开源小尺寸模型"
+    },
+    {
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "link": "https://iter.ca/post/ubo-uxss/",
      "pubDate": "Mon, 16 Nov 2026 02:04:48 +0000",
-     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 25 # Comments: 2",
      "source": "Hacker News",
      "zh": "Universal XSS in uBlock Origin from website-driven element picker"
     },
@@ -1849,46 +1913,6 @@
      "zh": "40颗卫星一夜损失，亚马逊买的火箭为何靠不住？"
     },
     {
-     "title": "微软 Win11 被曝 SignDrop 零日漏洞：普通用户可提权至 SYSTEM，目前尚无专用修复补丁",
-     "link": "https://www.ithome.com/1/027/508.htm",
-     "pubDate": "Mon, 16 Nov 2026 01:58:38 GMT",
-     "summary": "IT之家 11 月 16 日消息，据 Wccftech 今日报道，Windows 11 出现了一个名为 SignDrop 的零日漏洞，攻击者可能利用微软此前专门引入的一项安全防护机制，将普通用户权限提升至系统最高权限 SYSTEM。 该漏洞涉及 Windows 通用日志文件系统（CLFS）驱动程序，安全研究人员已公开概念验证（PoC）代码，微软目前正在调查此事，尚未发布专门修复补丁。 安全研究人员 Abdelhamid Naceri（网名 Nightmare Eclipse、MSNightmare）于 11 月 10 日在 GitHub 发布 SignDrop 漏洞利用代码。该漏洞利用的关键在",
-     "source": "IT之家",
-     "zh": "微软 Win11 被曝 SignDrop 零日漏洞：普通用户可提权至 SYSTEM，目前尚无专用修复补丁"
-    },
-    {
-     "title": "Anthropic超级IPO本周“出鞘”",
-     "link": "https://www.huxiu.com/article/4905808.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 09:54:05 +0800",
-     "summary": "本文来自微信公众号： 科创板日报 ，作者：潇湘 在英伟达首席执行官黄仁勋上周突然辞职后，美股AI投资主题虽遭重创，但整体表现仍展现出惊人的韧性。然而，随着Anthropic的超级IPO即将登陆市场，投资者对股市可能陷入动荡的担忧仍在蔓延。 市场普遍忧虑，投资者会选择抛售现有的持仓股票，以便腾出资金抢购这笔庞大的新股…… Anthropic上周二表示，计划在本周通过一场规模空前的首次公开募股向投资者筹集625亿美元，同时还将通过私募融资向包括英伟达和美光科技在内的科技巨头定向募集260亿美元。 业内人士的担忧显然不无道理——近期其他备受瞩目的IPO已经伴随着剧烈波动：6月12日SpaceX创纪录",
-     "source": "虎嗅",
-     "zh": "Anthropic超级IPO本周“出鞘”"
-    },
-    {
-     "title": "吉利银河 M8 官宣即将登场，旗下首款旗舰大五座 SUV",
-     "link": "https://www.ithome.com/1/027/507.htm",
-     "pubDate": "Mon, 16 Nov 2026 01:54:04 GMT",
-     "summary": "IT之家 11 月 16 日消息，吉利银河今日官宣旗下首款旗舰大五座 SUV—— 银河 M8 官宣即将登场。 吉利银河 M8 此前已出现在工信部第 411 批新车申报目录中，新车采用插混动力，5 座布局，车顶配备激光雷达，这也是银河品牌在 M9 之后推出的又一款大尺寸 SUV。 该车尺寸为 5205/1999/1800mm， 轴距 3030mm 。银河 M9 是 2+2+2 三排 6 座，M8 则改为大 5 座布局。 动力方面，银河 M8 搭载 1.5T 发动机与电机组成的插电混动系统，发动机最大额定功率 120kW，提供两驱、四驱两种版本，电池采用宁德时代磷酸铁锂，纯电续航最高 251 公里",
-     "source": "IT之家",
-     "zh": "吉利银河 M8 官宣即将登场，旗下首款旗舰大五座 SUV"
-    },
-    {
-     "title": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级",
-     "link": "https://www.ithome.com/1/027/506.htm",
-     "pubDate": "Mon, 16 Nov 2026 01:53:28 GMT",
-     "summary": "IT之家 11 月 16 日消息，华为官方刚刚宣布小艺 AI 订阅服务正式上线，支持多场景高阶 AI 能力，开通即享 50GB 起云空间。 此前分散在“小艺 Work”等产品线中的付费能力，被整合进一套三级会员权益体系，用户可在小艺设置页面直接查看 AI 积分余额、消耗明细并完成订购。 体验版会员每月限时免费赠送 200 AI 积分，供用户直接试用小艺的高阶 AI 能力，无需先完成付费订阅。另外，华为小艺 Work 订阅用户可 0 元升级至任一 AI 会员套餐。 付费订阅提供两档套餐：体验包连续包月 49 元，含 1000 AI 积分；标准包 Pro 连续包月 199 元，含 6000 AI ",
-     "source": "IT之家",
-     "zh": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级"
-    },
-    {
-     "title": "Anthropic CEO 阿莫迪：算力是最深层的商业难题",
-     "link": "https://www.ithome.com/1/027/505.htm",
-     "pubDate": "Mon, 16 Nov 2026 01:52:51 GMT",
-     "summary": "IT之家 11 月 16 日消息，Anthropic 联合创始人兼 CEO 达里奥 · 阿莫迪上周五到访纽约，与“华尔街一哥”、摩根大通掌门杰米 · 戴蒙进行公开对谈。 在谈话中， 阿莫迪将算力称为公司面临的“最深层商业难题” 。他解释，公司选择上市的重要原因，就是增加现金储备，为高度不确定的算力需求提供更大缓冲。 戴蒙在提问中指出，Anthropic 披露了涉及算力、租赁和数据中心等项目的 9,000 亿美元 （IT之家注：现汇率约合 6.01 万亿元人民币） 未来承诺，并追问公司如何确保获得所需资源，同时控制长期成本。 阿莫迪没有逐项拆解这一数字，而是解释了算力投入的两难：技术进步很快，但",
-     "source": "IT之家",
-     "zh": "Anthropic CEO 阿莫迪：算力是最深层的商业难题"
-    },
-    {
      "title": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)",
      "link": "https://www.techmeme.com/261115/p20#a261115p20",
      "pubDate": "Sun, 15 Nov 2026 20:45:01 -0500",
@@ -1897,26 +1921,10 @@
      "zh": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)"
     },
     {
-     "title": "近臣",
-     "link": "https://www.huxiu.com/article/4905803.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 09:44:11 +0800",
-     "summary": "本文来自微信公众号： 观潮体系 ，作者：观潮 ——最贴心的那位，往往坑了谁？ 观潮·先见｜第一篇 天子不可令闲暇，暇必观书，见儒臣，则又纳谏，智深虑远，减玩好，省游幸，吾属恩且薄而权轻矣……莫若殖财货，盛鹰马，日以球猎声色蛊其心，极侈靡，使悦不知息，则必斥经术，阇外事，万机在我。 ——仇士良告老时语众宦官，见《新唐书·宦者传》 小引 唐武宗会昌三年，权宦仇士良告老。临走前，他给宫里的同僚留下一门手艺：别让皇帝闲着。皇帝一闲，就会读书，会见读书人，会听人劝；想得深了，看得远了，玩乐就少了，我们的恩宠就薄了，权也轻了。 一千一百多年后再读，这段话像一份产品会议纪要。 今年11月6日，Meta把“主",
-     "source": "虎嗅",
-     "zh": "近臣"
-    },
-    {
-     "title": "全球失衡、跨境资本流动与资本市场高水平开放",
-     "link": "https://www.huxiu.com/article/4905802.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 09:40:50 +0800",
-     "summary": "本文来自微信公众号： 张明宏观金融研究 ，作者：张明 一、全球失衡与资本流动逻辑 全球失衡可以从流量失衡（经常账户余额占名义GDP比重）与存量失衡（海外净资产或负债占名义GDP比重）来衡量。从流量失衡看，当前失衡程度远不如2008年全球金融危机暴发之前。例如，美国经常账户逆差占名义GDP比率2006年为6%，2025年为4%，中国经常账户顺差占名义GDP比率2007年为10%，2025年不到4%。从存量失衡看，当前失衡程度远超2008年全球危机之前，且美国是当前存量失衡的主要贡献国。例如，美国海外净债务占名义GDP比率2007年约在20%左右，2025年在80%上下。相比之下，中国海外净债权占",
-     "source": "虎嗅",
-     "zh": "全球失衡、跨境资本流动与资本市场高水平开放"
-    },
-    {
      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
      "link": "https://www.hntrends.com/2026/november.html",
      "pubDate": "Mon, 16 Nov 2026 01:31:30 +0000",
-     "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 44 # Comments: 11",
+     "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 50 # Comments: 20",
      "source": "Hacker News",
      "zh": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs"
     },
@@ -1932,7 +1940,7 @@
      "title": "Coles hit by a cybersecurity incident",
      "link": "https://www.colesgroup.com.au/updates/",
      "pubDate": "Mon, 16 Nov 2026 01:14:35 +0000",
-     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 36 # Comments: 14",
+     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 42 # Comments: 19",
      "source": "Hacker News",
      "zh": "Coles hit by a cybersecurity incident"
     },
@@ -1940,25 +1948,25 @@
      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
      "pubDate": "Mon, 16 Nov 2026 00:21:54 +0000",
-     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 28 # Comments: 6",
+     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 38 # Comments: 6",
      "source": "Hacker News",
      "zh": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack"
+    },
+    {
+     "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+     "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+     "pubDate": "Mon, 16 Nov 2026 00:03:12 +0000",
+     "summary": "Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone Comments URL: https://news.ycombinator.com/item?id=50512296 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones"
     },
     {
      "title": "What's Next for Nvidia?",
      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
      "pubDate": "Sun, 15 Nov 2026 23:55:55 +0000",
-     "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 76 # Comments: 68",
+     "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 80 # Comments: 82",
      "source": "Hacker News",
      "zh": "What's Next for Nvidia?"
-    },
-    {
-     "title": "Mini.nvim Is Now on Tangled",
-     "link": "https://tangled.org/nvim-mini.org/mini.nvim",
-     "pubDate": "Sun, 15 Nov 2026 23:55:41 +0000",
-     "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 36 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "Mini.nvim Is Now on Tangled"
     },
     {
      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
@@ -1975,14 +1983,6 @@
      "summary": "Bloomberg : Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement &nbsp; &mdash;&nbsp; The startup is set for the biggest IPO of all time, putting AI investors' hopes and dreams &mdash; and fea",
      "source": "Techmeme",
      "zh": "Sources: Anthropic&apos;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)"
-    },
-    {
-     "title": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)",
-     "link": "https://www.techmeme.com/261115/p17#a261115p17",
-     "pubDate": "Sun, 15 Nov 2026 17:35:01 -0500",
-     "summary": "Joey Roulette / Reuters : Amazon loses 40 Leo satellites after ULA's Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture &nbsp; &mdash;&nbsp; A Vulcan rocket owned by United Launch Alliance, the joint venture of Boeing (BA.N) and Lockhe",
-     "source": "Techmeme",
-     "zh": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)"
     }
    ]
   },
@@ -2241,6 +2241,14 @@
    "total": 13,
    "items": [
     {
+     "title": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+     "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+     "pubDate": "Mon, 16 Nov 2026 02:47:19 GMT",
+     "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+     "source": "CNBC",
+     "zh": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite"
+    },
+    {
      "title": "中国1-10月份城镇固定资产投资下降8.1%，信息服务业增长20.5%",
      "link": "https://wallstreetcn.com/articles/3785990",
      "pubDate": "Mon, 16 Nov 2026 10:18:14 +0800",
@@ -2439,14 +2447,6 @@
      "summary": "SpaceX 星舰首次实现“筷子夹飞船”，我国 商业航天 领域近期亦多次成功发射。机构认为， 商业航天 产业趋势持续向上 ，产业链或迎价值重估机遇。 星舰实现“筷子夹飞船” 北京时间11月15日清晨，美国太空探索技术公司（ SpaceX ）星舰第十五次试飞的上面级飞船返回得克萨斯州星港，在完成着陆点火和姿态翻转后，成功被发射塔“筷子”机械臂捕获。 据悉，这是 SpaceX 首次成功捕获从地球轨道返回的星舰上面级飞船，为实现星舰完全、快速重复使用迈出关键一步。 此前，该飞船已完成26颗第三代星链卫星部署。但超重型助推器未能成功回收，最终在墨西哥湾近海受控溅落。 我国 商业航天 近期同样密集取得发",
      "source": "东方财富资讯",
      "zh": "星舰回收创历史！商业航天迎密集催化 多股获机构密集调研"
-    },
-    {
-     "title": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-     "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-     "pubDate": "Mon, 16 Nov 2026 01:02:48 GMT",
-     "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-     "source": "CNBC",
-     "zh": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite"
     },
     {
      "title": "Australia's IDP Education rejects Blackstone’s sweetened takeover bid",

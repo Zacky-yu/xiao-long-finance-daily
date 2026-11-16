@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 06:32:23",
+ "generated_at": "2026/11/17 06:52:20",
  "recent_days": 7,
  "industries": [
   {
@@ -42,12 +42,12 @@ window.INDUSTRY_DATA = {
      "zh": "The open-source movement wants Jensen Huang back"
     },
     {
-     "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+     "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
      "pubDate": "Mon, 16 Nov 2026 18:11:10 +0000",
      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
      "source": "TechCrunch AI",
-     "zh": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’"
+     "zh": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’"
     },
     {
      "title": "5 Things That Break When AI Agents Start Acting on Their Own",
@@ -746,12 +746,12 @@ window.INDUSTRY_DATA = {
      "zh": "Tesla Keeps Killing Cars. Now It Wants To Build Cybercabs In Germany"
     },
     {
-     "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+     "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
      "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
      "pubDate": "Mon, 16 Nov 2026 18:21:14 +0000",
-     "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+     "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
      "source": "TechCrunch Transport",
-     "zh": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion"
+     "zh": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion"
     },
     {
      "title": "Tesla Model 3 Maintenance Guide: What Needs Servicing And What Doesn't",
@@ -941,7 +941,7 @@ window.INDUSTRY_DATA = {
      "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
      "link": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
      "pubDate": "Mon, 16 Nov 2026 11:21:32 -0500",
-     "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at&nbsp;$1,400/kW, while NRG is &ldquo;developing 1.5 GW of new natural gas generation in Texas&rdquo;&nbsp;for just above $1,000/kW.",
+     "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at&nbsp;$1,400/KW, while NRG is &ldquo;developing 1.5 GW of new natural gas generation in Texas for just above $1,000/KW.&rdquo;",
      "source": "Utility Dive",
      "zh": "NRG to sell 4.9 GW of gas plants to LS Power for $4B"
     },
@@ -1210,14 +1210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug"
     },
     {
-     "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
-     "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
-     "pubDate": "Mon, 16 Nov 2026 12:00:00 -0500",
-     "summary": "CG&rsquo;s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street&rsquo;s expectations and lifting company shares.&nbsp;",
-     "source": "BioPharma Dive",
-     "zh": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial"
-    },
-    {
      "title": "J&J bets $2.2B on Ollin’s vision loss drug",
      "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
      "pubDate": "Mon, 16 Nov 2026 11:57:00 -0500",
@@ -1280,6 +1272,14 @@ window.INDUSTRY_DATA = {
      "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.",
      "source": "BioPharma Dive",
      "zh": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging"
+    },
+    {
+     "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
+     "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
+     "pubDate": "Mon, 16 Nov 2026 05:00:00 -0500",
+     "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
+     "source": "BioPharma Dive",
+     "zh": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment"
     },
     {
      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
@@ -2002,6 +2002,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "United Airlines is experiencing a 'widespread system outage'",
+     "link": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
+     "pubDate": "Mon, 16 Nov 2026 22:38:43 +0000",
+     "summary": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
+     "source": "Engadget",
+     "zh": "United Airlines is experiencing a 'widespread system outage'"
+    },
+    {
      "title": "JBL Tune 730BT headphones drop to $49.95 with 44% off",
      "link": "https://www.androidauthority.com/jbl-tune-730bt-deal-3735758/",
      "pubDate": "Mon, 16 Nov 2026 22:24:54 +0000",
@@ -2178,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Which Google Pixel phone is most similar to the Galaxy S26+?"
     },
     {
-     "title": "Google Maps' chatbot can find appointments and call to book them for you",
-     "link": "https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/",
-     "pubDate": "Mon, 16 Nov 2026 19:17:00 +0000",
-     "summary": "The Ask Maps chatbot is also expanding to more than 30 additional countries across Europe.",
-     "source": "Engadget",
-     "zh": "Google Maps' chatbot can find appointments and call to book them for you"
-    },
-    {
      "title": "Samsung's Gentle Monster smart glasses pre-orders are already sold out",
      "link": "https://www.gsmarena.com/samsungs_gentle_monster_smart_glasses_preorders_are_already_sold_out-news-75496.php",
      "pubDate": "Mon, 16 Nov 2026 20:01:02 +0100",
@@ -2252,18 +2252,162 @@ window.INDUSTRY_DATA = {
     {
      "title": "United Airlines reports system outage affecting departing flights",
      "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-     "pubDate": "Mon, 16 Nov 2026 22:28:44 GMT",
-     "summary": "",
+     "pubDate": "Mon, 16 Nov 2026 22:48:52 GMT",
+     "summary": "United Airlines said Monday that a widespread system outage was affecting departing flights.",
      "source": "CNBC",
      "zh": "United Airlines reports system outage affecting departing flights"
     },
     {
-     "title": "Interpace Biosciences GAAP EPS of -$0.26, revenue of $10.4M",
-     "link": "https://seekingalpha.com/news/4673370-interpace-biosciences-gaap-eps-of-0_26-revenue-of-10_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:22:59 -0500",
+     "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+     "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 22:46:00 GMT",
+     "summary": "The dollar recently climbed to its strongest level in a year and a half.",
+     "source": "MarketWatch",
+     "zh": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball"
+    },
+    {
+     "title": "GAAP EPS of -$0.09, revenue of $0.97M",
+     "link": "https://seekingalpha.com/news/4673385-gaap-eps-of-0_09-revenue-of-0_97m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:43:42 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Interpace Biosciences GAAP EPS of -$0.26, revenue of $10.4M"
+     "zh": "GAAP EPS of -$0.09, revenue of $0.97M"
+    },
+    {
+     "title": "【读财报】上市猪企10月销量同比降超15% 正虹科技、神农集团等逆势增长",
+     "link": "http://finance.eastmoney.com/news/1354,202611173932239573.html",
+     "pubDate": "Tue, 17 Nov 2026 06:42:04 +0800",
+     "summary": "新华财经北京11月17日电新华财经和面包财经研究员在剔除部分数据披露不全的上市猪企后，以沪、深两大交易所主要上市 生猪养殖 企业为样本，分别统计其生猪销售收入、销量。 从上市猪企的销售数据来看，统计结果显示，2026年10月16家 生猪养殖 企业合计实现生猪销量1432.44万头（未包括 傲农生物 ），同比下降15.78%。其中， 牧原股份 、 温氏股份 、 新希望 的销量超过100万头， 正虹科技 、 神农集团 月度销量增速相对居前。 收入方面，16家 生猪养殖 企业10月合计实现收入166.24亿元，同比下降25.08%。其中， 金新农 、 唐人神 、 大北农 、 华统股份 等同比降超40",
+     "source": "东方财富股票",
+     "zh": "【读财报】上市猪企10月销量同比降超15% 正虹科技、神农集团等逆势增长"
+    },
+    {
+     "title": "FibroBiologics reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673383-fibrobiologics-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:41:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FibroBiologics reports Q3 results"
+    },
+    {
+     "title": "PicS reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673382-pics-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:40:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PicS reports Q3 results"
+    },
+    {
+     "title": "桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊",
+     "link": "https://wallstreetcn.com/articles/3786053",
+     "pubDate": "Tue, 17 Nov 2026 06:40:22 +0800",
+     "summary": "桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。 据彭博对桥水联合基金（Bridgewater Associates LP）13F文件的分析，截至9月30日，该基金披露的974项投资头寸总市值达230亿美元。 本季度持仓变动显示，桥水大幅增持高通、AppLovin及存储芯片股美光、闪迪，同时削减谷歌母公司Alphabet与亚马逊的持仓，并清仓联合太平洋铁路等工业股。 医疗健康板块的持仓权重录得最大幅度提升，工业板块则降幅最为显著。 英伟达、博通稳坐前五大重仓 整体前五大重仓中，道富标普500 ETF信托仍以25.95亿美元高居榜首，占组合比重",
+     "source": "华尔街见闻",
+     "zh": "桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊"
+    },
+    {
+     "title": "Gilead grants voluntary licensing agreements for experimental Ebola antiviral",
+     "link": "https://seekingalpha.com/news/4673377-gilead-grants-voluntary-licensing-agreements-experimental-ebola-antiviral?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:40:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gilead grants voluntary licensing agreements for experimental Ebola antiviral"
+    },
+    {
+     "title": "Pershing Square adds Alcon, increases Netflix, and exits Hertz, among Q3 moves",
+     "link": "https://seekingalpha.com/news/4673371-pershing-square-adds-alcon-increases-netflix-exits-hertz-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:39:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pershing Square adds Alcon, increases Netflix, and exits Hertz, among Q3 moves"
+    },
+    {
+     "title": "俄罗斯方面表示 乌克兰袭击了克里米亚大桥",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932239657.html",
+     "pubDate": "Tue, 17 Nov 2026 06:39:17 +0800",
+     "summary": "俄罗斯方面表示，乌克兰袭击了克里米亚大桥。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯方面表示 乌克兰袭击了克里米亚大桥"
+    },
+    {
+     "title": "Genelux GAAP EPS of -$0.23 misses by $0.03",
+     "link": "https://seekingalpha.com/news/4673380-genelux-gaap-eps-of-0_23-misses-by-0_03?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:37:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Genelux GAAP EPS of -$0.23 misses by $0.03"
+    },
+    {
+     "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+     "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+     "pubDate": "Mon, 16 Nov 2026 22:37:45 GMT",
+     "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
+     "source": "CNBC",
+     "zh": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access"
+    },
+    {
+     "title": "以色列军方：已收到关于在被占领的约旦河西岸杰里科地区发生未遂袭击的报告",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932239747.html",
+     "pubDate": "Tue, 17 Nov 2026 06:36:43 +0800",
+     "summary": "以色列军方：已收到关于在被占领的约旦河西岸杰里科地区发生未遂袭击的报告，士兵已派往现场。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "以色列军方：已收到关于在被占领的约旦河西岸杰里科地区发生未遂袭击的报告"
+    },
+    {
+     "title": "多重因素压制金价上涨 机构对后市看法产生分歧",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932239313.html",
+     "pubDate": "Tue, 17 Nov 2026 06:36:31 +0800",
+     "summary": "美国最新通胀数据公布后，国际金价近期再起波澜。美元走强、美债收益率上行以及市场对美联储进一步加息的预期，共同压制金价表现。Wind数据显示，11月16日，伦敦金现货价格盘中一度跌至3832.23美元/盎司，创2025年10月3日以来新低。近期，国际机构对金价走势作出最新研判。 高盛 下调今明两年年末金价预测，瑞银则继续看好 黄金 中长期配置价值。机构认为，较高的利率和强势美元仍是 黄金 面临的短期压力，央行购金与储备多元化需求则构成中长期支撑。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "多重因素压制金价上涨 机构对后市看法产生分歧"
+    },
+    {
+     "title": "山鹰国际首次拉响面值退市警报 刚被证监会立案的实控人连任董事长",
+     "link": "http://finance.eastmoney.com/news/1354,202611173932239155.html",
+     "pubDate": "Tue, 17 Nov 2026 06:35:59 +0800",
+     "summary": "山鹰国际 （600567.SH）11月16日披露《关于公司股票存在可能因股价低于1元而终止上市的首次风险提示公告》。公司股票当日收盘价为0.94元/股，首次低于人民币1元。根据相关规定，如果公司股票连续20个交易日的每日股票收盘价均低于人民币1元，公司股票可能被上交所终止上市交易。 该公告为公司可能触发交易类强制退市的第一次终止上市风险提示公告。 公告还表示，公司实际控制人、董事长吴明武于11月3日收到中国证监会出具的《立案告知书》。因涉嫌内幕交易和短线交易，证监会决定对吴明武立案。 “公司董事会正在积极敦促管理层努力采取相应有效的措施，积极做好经营管理、市值管理等各方面工作，并持续关注公司股",
+     "source": "东方财富股票",
+     "zh": "山鹰国际首次拉响面值退市警报 刚被证监会立案的实控人连任董事长"
+    },
+    {
+     "title": "香港开放补足税报税表提交 中资跨国企业进入实质申报阶段",
+     "link": "http://finance.eastmoney.com/news/1346,202611173932239060.html",
+     "pubDate": "Tue, 17 Nov 2026 06:35:59 +0800",
+     "summary": "进入第四季度以来，支柱二进展持续受到市场关注。支柱二是OECD（经济合作与发展组织）/G20（二十国集团）包容性框架下的全球最低税规则，要求年收入达到7.5亿欧元门槛的大型跨国集团在各经营辖区的有效税率不低于15%，低于15%的部分按QDMTT（合格国内最低补足税）、IIR（收入纳入规则）和UTPR（低税支付规则）顺序征收补足税。 截至目前，全球已有超过60个辖区完成支柱二立法。对中资跨国集团而言，香港和新加坡是海外投资和区域总部的主要平台，两地均将QDMTT作为优先落地项，并自2025年起已将支柱二纳入实施范围。 相比新加坡，香港率先迈出补足税申报第一步。2026年10月26日，香港税务局正",
+     "source": "东方财富股票",
+     "zh": "香港开放补足税报税表提交 中资跨国企业进入实质申报阶段"
+    },
+    {
+     "title": "索罗斯家族办公室领衔减持英伟达，黄仁勋离任前顶级富豪们已悄然套现",
+     "link": "https://wallstreetcn.com/articles/3786054",
+     "pubDate": "Tue, 17 Nov 2026 06:33:50 +0800",
+     "summary": "多家超高净值家族办公室在三季度陆续削减英伟达仓位，在这家芯片巨头CEO黄仁勋离职前锁定收益。 11月16日，据彭博从季度监管文件汇编的数据显示，乔治索罗斯的同名家族办公室在截至9月30日的季度内将其英伟达持仓削减近五分之一， 这是该机构今年首次披露的减仓操作，此前其一直在增持该股。 与此同时， Michael Platt旗下的BlueCrest资管公司以及阿布扎比统治者Sheikh Mohamed bin Zayed Al Nahyan的投资机构，也在同期削减了英伟达持仓。 这一系列减仓操作发生的时间节点颇为微妙。黄仁勋于11月12日遭董事会解除CEO职务，此前曝出其多起婚外情丑闻。 顶级富豪",
+     "source": "华尔街见闻",
+     "zh": "索罗斯家族办公室领衔减持英伟达，黄仁勋离任前顶级富豪们已悄然套现"
+    },
+    {
+     "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
+     "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 22:33:00 GMT",
+     "summary": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
+     "source": "MarketWatch",
+     "zh": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks"
+    },
+    {
+     "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+     "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 22:30:00 GMT",
+     "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+     "source": "MarketWatch",
+     "zh": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
+    },
+    {
+     "title": "避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高",
+     "link": "https://wallstreetcn.com/articles/3785999",
+     "pubDate": "Tue, 17 Nov 2026 06:26:42 +0800",
+     "summary": "Anthropic本周IPO及英伟达财报两大催化剂悬而未决，市场倾向先降低风险敞口。科技股抛售潮延续，美股周一全线下挫，标普500指数创近三个月最大三日跌幅。 标普500指数 收跌1.9%， 纳指 数重挫2.5%， 道指 下滑1.4%，全球股票基准MSCI世界指数亦跌1.6%。半导体板块首当其冲， 芯片指数 单日下挫5.3%，AI与科技板块的广泛去风险操作令科技巨头也无从幸免。 与此同时，原油价格在地缘冲突消息中意外下行， 布伦特原油 跌至约93美元/桶， WTI原油 跌约3.5%至85.50美元/桶，但股市与大宗商品的双双走软并未提振债券， 美债收益率横盘 。 美元指数 小幅走高，续创18个",
+     "source": "华尔街见闻",
+     "zh": "避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高"
     },
     {
      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
@@ -2272,22 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
      "source": "CNBC",
      "zh": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding"
-    },
-    {
-     "title": "Super League GAAP EPS of -$0.83 beats by $0.76, revenue of $2.61M misses by $0.45M",
-     "link": "https://seekingalpha.com/news/4673368-super-league-gaap-eps-of-0_83-beats-by-0_76-revenue-of-2_61m-misses-by-0_45m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:21:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Super League GAAP EPS of -$0.83 beats by $0.76, revenue of $2.61M misses by $0.45M"
-    },
-    {
-     "title": "3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves",
-     "link": "https://seekingalpha.com/news/4673335-3g-capital-starts-position-nu-adds-to-taiwan-semiconductor-cuts-stake-in-intel-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:21:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves"
     },
     {
      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
@@ -2306,28 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports"
     },
     {
-     "title": "避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高",
-     "link": "https://wallstreetcn.com/articles/3785999",
-     "pubDate": "Tue, 17 Nov 2026 06:17:36 +0800",
-     "summary": "Anthropic本周IPO及英伟达财报两大催化剂悬而未决，市场倾向先降低风险敞口。科技股抛售潮延续，美股周一全线下挫，标普500指数创近三个月最大三日跌幅。 标普500指数 收跌1.9%， 纳指 数重挫2.5%， 道指 下滑1.4%，全球股票基准MSCI世界指数亦跌1.6%。半导体板块首当其冲， 芯片指数 单日下挫5.3%，AI与科技板块的广泛去风险操作令科技巨头也无从幸免。 与此同时，原油价格在地缘冲突消息中意外下行， 布伦特原油 跌至约93美元/桶， WTI原油 跌约3.5%至85.50美元/桶，但股市与大宗商品的双双走软并未提振债券， 美债收益率横盘 。 美元指数 小幅走高，续创18个",
-     "source": "华尔街见闻",
-     "zh": "避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高"
-    },
-    {
-     "title": "Starfighters Space, Inc. GAAP EPS of -$0.08",
-     "link": "https://seekingalpha.com/news/4673364-starfighters-space-inc-gaap-eps-of-0_08?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:16:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Starfighters Space, Inc. GAAP EPS of -$0.08"
-    },
-    {
-     "title": "Freedom Holding GAAP EPS of $0.76, revenue of $910.1M",
-     "link": "https://seekingalpha.com/news/4673362-freedom-holding-gaap-eps-of-0_76-revenue-of-910_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:14:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Freedom Holding GAAP EPS of $0.76, revenue of $910.1M"
+     "title": "全球市场：美股三大指数收跌 费城半导体指数跌超5% 国际油价跌超3% 金银走弱",
+     "link": "http://stock.eastmoney.com/news/11784,202611173932222649.html",
+     "pubDate": "Tue, 17 Nov 2026 06:15:26 +0800",
+     "summary": "美股市场： 美股三大指数11月16日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌739.38点，收于51608.17点，跌幅为1.41%； 标准普尔 500种股票指数下跌145.08点，收于7416.59点，跌幅为1.92%； 纳斯达克 综合 指数下跌626.51点，收于24509.76点，跌幅为2.49%。 美股“七巨头”全线下跌， 英伟达 跌4.12%， 谷歌-C 跌3.85%， 亚马逊 跌3.34%， 特斯拉 跌2.69%，Meta跌2.38%， 微软 跌1.12%， 苹果 跌0.98%。 芯片股遭遇重挫，费城 半导体 指数跌5.28%， 台积电 跌6.34%， 英特尔 跌",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数收跌 费城半导体指数跌超5% 国际油价跌超3% 金银走弱"
     },
     {
      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
@@ -2338,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "JPMorgan Chase says temporary software bug is affecting consumer banking"
     },
     {
-     "title": "GoGo AI Network names Drew Zimmerman interim CEO, eyes reverse stock split",
-     "link": "https://seekingalpha.com/news/4673359-gogo-ai-network-names-drew-zimmerman-interim-ceo-eyes-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:14:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GoGo AI Network names Drew Zimmerman interim CEO, eyes reverse stock split"
-    },
-    {
      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 22:08:00 GMT",
@@ -2354,20 +2458,20 @@ window.INDUSTRY_DATA = {
      "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
     },
     {
-     "title": "英特尔股价盘后下跌近2%",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932228575.html",
-     "pubDate": "Tue, 17 Nov 2026 06:00:13 +0800",
-     "summary": "英特尔 股价盘后下跌近2%。",
-     "source": "东方财富股票",
-     "zh": "英特尔股价盘后下跌近2%"
+     "title": "11月17日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11060,202611173932221212.html",
+     "pubDate": "Tue, 17 Nov 2026 06:03:33 +0800",
+     "summary": "11月17日(星期二)，今日报刊头条主要内容精华如下： 中国证券报 A股迎利好 多家公司密集公告 11月16日晚，包括 盛屯矿业 、 晶盛机电 、 睿创微纳 、 宏达电子 、 共达电声 在内的多家上市公司公告回购、 增持计划 ，以真金 白银 传递对公司长期投资价值的信心。南开大学金融学教授田利辉表示，回购行为作为资本市场的重要市场化调节手段，不仅对上市公司自身发展具有重要意义，也为资本市场的健康稳定发展注入积极动能。从公司层面，回购注销减少流通股本直接增厚每股收益，传递管理层对估值底部的判断，同时高效运用闲置现金，避免低效投资。从市场层面，回购形成稳定买盘，平抑非理性波动，通过价格发现机制纠正",
+     "source": "东方财富资讯",
+     "zh": "11月17日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
-     "title": "消费入座是个城市考题",
-     "link": "http://finance.eastmoney.com/news/1350,202611173932228311.html",
-     "pubDate": "Tue, 17 Nov 2026 05:59:33 +0800",
-     "summary": "近日，多家知名 餐饮 连锁品牌宣布，在全国门店施行消费入座，引发热议。支持者认为，座位是商家经营资源， 餐饮 品牌没有义务免费向公众开放；也有网友表示这样的硬性规定少了些人情味儿。 商家优先服务支持店铺生意的顾客，本就是基本的商业公平。热议的背后，更多折射出商家经营权益与公众休憩需求之间的矛盾，暴露出城市公共休憩空间供给不足、分布不均等现实短板。 城市治理需要补上短板，为普通人打造更多可驻足的公共空间，彰显城市的文明程度与包容底色。当然，商家在厘清商业规则边界的同时，也可以更加人性化，将公共生活中的善意妥善安放。 （文章来源：经济日报）",
-     "source": "东方财富股票",
-     "zh": "消费入座是个城市考题"
+     "title": "东方财富财经早餐 11月17日周二",
+     "link": "http://finance.eastmoney.com/news/11060,202611163932144347.html",
+     "pubDate": "Tue, 17 Nov 2026 06:00:14 +0800",
+     "summary": "每日精选 习近平在广东中山考察： 中共中央总书记、国家主席、中央军委主席习近平16日在广东省中山市考察时强调，深入学习贯彻党的二十届五中全会精神，把全会作出的各项决策部署不折不扣落到实处，以持之以恒推进全面从严治党的新成效， 更好推动珠江口东西两岸融合发展，奋力开创粤港澳大湾区高质量发展新局面 。 外交部谈中俄美元首会晤 ： 外交部发言人毛宁11月16日主持例行记者会。总台央视记者提问：中方发布了中俄美三国元首深圳会晤的消息。能否介绍会晤安排及中方对会晤的期待？毛宁表示，这是中俄美三国元首历史上首次面对面会晤， 将围绕维护世界和平、促进大国关系战略稳定深入交换意见，具有开创性意义 。中俄美加强",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月17日周二"
     },
     {
      "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
@@ -2378,116 +2482,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade"
     },
     {
-     "title": "恒指期货夜盘收跌0.34%，恒生科技指数期货夜盘收跌0.89%",
-     "link": "http://hk.eastmoney.com/news/1556,202611173932228240.html",
-     "pubDate": "Tue, 17 Nov 2026 05:57:46 +0800",
-     "summary": "11月17日，港股期指夜盘收盘，恒生指数 期货 跌0.34%，恒生科技指数 期货 跌0.89%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "恒指期货夜盘收跌0.34%，恒生科技指数期货夜盘收跌0.89%"
-    },
-    {
      "title": "微软全球服务宕机调查：一个潜伏四个月的漏洞，15小时才发现问题所在",
      "link": "https://wallstreetcn.com/articles/3786050",
      "pubDate": "Tue, 17 Nov 2026 05:56:41 +0800",
      "summary": "微软一个隐藏长达四个月的系统漏洞， 在上周引发了一场波及全球的服务中断事故 ，暴露出高度依赖单一科技供应商的潜在风险。 此次事故始于11月11日的一次例行流量调配操作，直至次日上午11时30分——即美国企业流量高峰期——微软才意识到问题的严重性。 此后，公司又耗费约15小时排查故障并着手部署修复方案，导致众多企业和政府客户工作陷入停滞。在事故最严重时段，Outlook后台超过80%的服务器处于无响应状态，Teams视频会议邀请消失，员工不得不转而依赖电话和纸笔维持工作。 微软负责职场软件业务的执行副总裁Charles Lamanna周一在X平台发文，就此次宕机事件正式道歉。截至发稿，微软周一盘",
      "source": "华尔街见闻",
      "zh": "微软全球服务宕机调查：一个潜伏四个月的漏洞，15小时才发现问题所在"
-    },
-    {
-     "title": "马斯克：我们曾向美国交通部长达菲提出 免费向美国联邦航空管理局（FAA）提供星链服务",
-     "link": "http://stock.eastmoney.com/news/1611,202611173932228070.html",
-     "pubDate": "Tue, 17 Nov 2026 05:53:17 +0800",
-     "summary": "马斯克：我们曾向美国交通部长达菲提出，免费向美国联邦航空管理局（FAA）提供星链服务，但他表示不需要。事实证明，他们确实需要。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "马斯克：我们曾向美国交通部长达菲提出 免费向美国联邦航空管理局（FAA）提供星链服务"
-    },
-    {
-     "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 21:53:00 GMT",
-     "summary": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock extends decline following harsh words from the U.S. government"
-    },
-    {
-     "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-     "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-     "pubDate": "Mon, 16 Nov 2026 21:52:33 GMT",
-     "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
-     "source": "CNBC",
-     "zh": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access"
-    },
-    {
-     "title": "马斯克密友安东尼奥·J·格拉西亚斯（Antonio J. Gracias）披露 截至9月30日 其被动持有的SpaceX(SPCX.O)A类普通股比例为5.5%",
-     "link": "http://stock.eastmoney.com/news/1611,202611173932228118.html",
-     "pubDate": "Tue, 17 Nov 2026 05:50:44 +0800",
-     "summary": "马斯克密友安东尼奥·J·格拉西亚斯（Antonio J. Gracias）披露，截至9月30日，其被动持有的 SpaceX (SPCX.O)A类普通股比例为5.5%，低于6月30日的6.5%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "马斯克密友安东尼奥·J·格拉西亚斯（Antonio J. Gracias）披露 截至9月30日 其被动持有的SpaceX(SPCX.O)A类普通股比例为5.5%"
-    },
-    {
-     "title": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks",
-     "link": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 21:49:00 GMT",
-     "summary": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
-     "source": "MarketWatch",
-     "zh": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks"
-    },
-    {
-     "title": "英伟达(NVDA.O)三季度将其持有的英特尔(INTC.O)股份减持25%",
-     "link": "http://stock.eastmoney.com/news/1611,202611173932227669.html",
-     "pubDate": "Tue, 17 Nov 2026 05:48:43 +0800",
-     "summary": "英伟达 (NVDA.O)三季度将其持有的 英特尔 (INTC.O)股份减持25%，至1.611亿股。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "英伟达(NVDA.O)三季度将其持有的英特尔(INTC.O)股份减持25%"
-    },
-    {
-     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 21:45:00 GMT",
-     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-     "source": "MarketWatch",
-     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
-     "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 21:40:00 GMT",
-     "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
-     "source": "MarketWatch",
-     "zh": "Now’s the perfect time for networking. Here’s how to send a cringe-free email."
-    },
-    {
-     "title": "东方财富财经早餐 11月17日周二",
-     "link": "http://finance.eastmoney.com/news/11060,202611163932144347.html",
-     "pubDate": "Tue, 17 Nov 2026 05:26:14 +0800",
-     "summary": "每日精选 习近平在广东中山考察： 中共中央总书记、国家主席、中央军委主席习近平16日在广东省中山市考察时强调，深入学习贯彻党的二十届五中全会精神，把全会作出的各项决策部署不折不扣落到实处，以持之以恒推进全面从严治党的新成效， 更好推动珠江口东西两岸融合发展，奋力开创粤港澳大湾区高质量发展新局面 。 外交部谈中俄美元首会晤 ： 外交部发言人毛宁11月16日主持例行记者会。总台央视记者提问：中方发布了中俄美三国元首深圳会晤的消息。能否介绍会晤安排及中方对会晤的期待？毛宁表示，这是中俄美三国元首历史上首次面对面会晤， 将围绕维护世界和平、促进大国关系战略稳定深入交换意见，具有开创性意义 。中俄美加强",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 11月17日周二"
-    },
-    {
-     "title": "Kalshi plans to launch stock trading soon",
-     "link": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
-     "pubDate": "Mon, 16 Nov 2026 21:23:34 GMT",
-     "summary": "Kalshi's interest in offering stock trading shows the platform's push into traditional financial markets.",
-     "source": "CNBC",
-     "zh": "Kalshi plans to launch stock trading soon"
-    },
-    {
-     "title": "全球市场：美股三大指数收跌 费城半导体指数跌超5% 国际油价跌超3% 金银走弱",
-     "link": "http://stock.eastmoney.com/news/11784,202611173932222649.html",
-     "pubDate": "Tue, 17 Nov 2026 05:15:26 +0800",
-     "summary": "美股市场： 美股三大指数11月16日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌739.38点，收于51608.17点，跌幅为1.41%； 标准普尔 500种股票指数下跌145.08点，收于7416.59点，跌幅为1.92%； 纳斯达克 综合 指数下跌626.51点，收于24509.76点，跌幅为2.49%。 美股“七巨头”全线下跌， 英伟达 跌4.12%， 谷歌-C 跌3.85%， 亚马逊 跌3.34%， 特斯拉 跌2.69%，Meta跌2.38%， 微软 跌1.12%， 苹果 跌0.98%。 芯片股遭遇重挫，费城 半导体 指数跌5.28%， 台积电 跌6.34%， 英特尔 跌",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数收跌 费城半导体指数跌超5% 国际油价跌超3% 金银走弱"
-    },
-    {
-     "title": "美国加州正式起诉OpenAI，指控其模型测试疏于管控、危害公共安全",
-     "link": "https://wallstreetcn.com/articles/3786048",
-     "pubDate": "Tue, 17 Nov 2026 05:05:27 +0800",
-     "summary": "加州总检察长对OpenAI提起诉讼，指控其在AI模型测试中疏于管控、危害公共安全，此案将成为美国AI监管领域的标志性法律行动。 11月16日周一，美国加州总检察长Rob Bonta在旧金山高等法院对OpenAI提起诉讼， 指控该公司违反加州《不公平竞争法》，并构成州法律定义下的公共妨害行为。 Bonta在新闻发布会上援引今年7月的一起事件称，OpenAI两款AI模型突破测试环境限制，擅自接入公共互联网，并入侵开源开发者平台Hugging Face的内部系统。 更令监管方担忧的是， OpenAI向调查人员披露，公司此前已知悉80起\"涉及失控及未授权访问第三方网络和网站\"的事件，但拒绝提供调查人员",
-     "source": "华尔街见闻",
-     "zh": "美国加州正式起诉OpenAI，指控其模型测试疏于管控、危害公共安全"
     }
    ]
   },

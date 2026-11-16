@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 13:51:53",
+ "generated_at": "2026/11/16 14:13:44",
  "recent_days": 7,
  "industries": [
   {
@@ -56,14 +56,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accu",
      "source": "arXiv cs.AI",
      "zh": "Advancing Quantization for R&R Models with Microscaling Formats"
-    },
-    {
-     "title": "24000亿参数！阿里Qwen4-Max旗舰模型登场，任务便宜58%",
-     "link": "https://zhidx.com/p/610623.html",
-     "pubDate": "Mon, 16 Nov 2026 12:26:41 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西11月16日报道，今日，阿里正式发布 Qwen4系列的首款模型——Qwen4-Max 。该模型采用Qwen4系列新架构，拥有 2.4万亿 总参数，每个token激活71B参数；具备 原生视觉 能力，支持百万token上下文窗口。 Qwen4-Max重点强化 专业工具运用、长程任务执行 与 成果交付 能力，覆盖 3D建模与游戏开发、工业制造、金融、法律、医疗及前沿科学探索 等场景，强调理解工作全貌并持续推进项目。 在阿里公布的DeepSWE、AA-Briefcase、HLAB-Vals等多个Agent专项基准测评中，Qwen4-Max得分相比前代Q",
-     "source": "智东西",
-     "zh": "24000亿参数！阿里Qwen4-Max旗舰模型登场，任务便宜58%"
     },
     {
      "title": "Apple launches new app to study how people use AI for health",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "新智元报道 花430倍的钱，只多11%的分数！太夸张了。",
      "source": "新智元",
      "zh": "Fable 5.2贵17倍还输了！12 个AI进群当同事，OpenAI包揽前二"
+    },
+    {
+     "title": "「让AI研究AI」最新综述：三项关键决策框架，重新审视研究自主性",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652743065&idx=3&sn=601af731d91f082037d24665847a7795",
+     "pubDate": "Sat, 14 Nov 2026 17:06:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "「让AI研究AI」最新综述：三项关键决策框架，重新审视研究自主性"
     }
    ]
   },
@@ -257,6 +257,30 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Qisda affiliate Ace Pillar deepens semiconductor and AI automation push, expanding into wafer regeneration and SiPh",
+     "link": "https://www.digitimes.com/news/a20261116PD219/qisda-ace-pillar-automation-siph-cpo.html",
+     "pubDate": "Mon, 16 Nov 2026 05:56:07 GMT",
+     "summary": "Taiwan-based industrial automation and smart manufacturing solutions provider Ace Pillar, an affiliate of Qisda Group, reported strong third-quarter 2026 results as its semiconductor, AI automation and green-energy businesses gained traction. Chairman Joshua Tzeng said the company will anchor its me",
+     "source": "DIGITIMES",
+     "zh": "Qisda affiliate Ace Pillar deepens semiconductor and AI automation push, expanding into wafer regeneration and SiPh"
+    },
+    {
+     "title": "Industrial PC maker Flytech's payment integration orders surpass 2026 revenue",
+     "link": "https://www.digitimes.com/news/a20261116PD217/flytech-revenue-2026-pc-profit.html",
+     "pubDate": "Mon, 16 Nov 2026 05:41:36 GMT",
+     "summary": "Industrial PC maker Flytech said its payment integration orders on hand have already surpassed the company's full-year 2026 payment product revenue, boosting chairman Tai-Seng Lam's confidence in continued revenue and profit growth in 2027.",
+     "source": "DIGITIMES",
+     "zh": "Industrial PC maker Flytech's payment integration orders surpass 2026 revenue"
+    },
+    {
+     "title": "India touts homegrown 2-micron 5-axis CNC machines as it seeks local semiconductor equipment",
+     "link": "https://www.digitimes.com/news/a20261116VL209/india-cnc-equipment-electronics-manufacturing.html",
+     "pubDate": "Mon, 16 Nov 2026 05:36:51 GMT",
+     "summary": "India's electronics and IT minister Ashwini Vaishnaw said on November 14 that the country has developed indigenous five-axis precision CNC machines with 2-micron accuracy, and called for India to build its own machinery and high-precision components for semiconductor manufacturing to reduce reliance",
+     "source": "DIGITIMES",
+     "zh": "India touts homegrown 2-micron 5-axis CNC machines as it seeks local semiconductor equipment"
+    },
     {
      "title": "Rapidus sets 2nm chip mass production for late 2027",
      "link": "https://www.digitimes.com/news/a20261116PD216/rapidus-2nm-production-2027-chips.html",
@@ -280,30 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Innolux reported consolidated revenue of NT$57.6 billion (approx. US$1.75 billion) for the third quarter of 2026, with operating profit of NT$980 million and net income of NT$7.86 billion. Basic earnings per share (EPS) stood at NT$0.96. Depreciation and amortization totaled NT$6.8 billion, while ca",
      "source": "DIGITIMES",
      "zh": "Innolux posts fifth consecutive quarter of profit in 3Q26, targets flat non-display revenue in 4Q26"
-    },
-    {
-     "title": "Samsung Display advances A7 plant as IT OLED race intensifies",
-     "link": "https://www.digitimes.com/news/a20261116PD205/sdc-plant-production-investment-tcl.html",
-     "pubDate": "Mon, 16 Nov 2026 04:26:53 GMT",
-     "summary": "Samsung Display Co. (Samsung Display; SDC) has revealed construction progress at its A7 plant in Asan, backed by a KRW5.9 trillion (US$4.4 billion) investment and targeting mass production in the second half of 2029. As OLED applications expand from smartphones to notebooks, tablets, and monitors, S",
-     "source": "DIGITIMES",
-     "zh": "Samsung Display advances A7 plant as IT OLED race intensifies"
-    },
-    {
-     "title": "Samsung, SK Hynix face labor crunch threatening chip plant timelines",
-     "link": "https://www.digitimes.com/news/a20261116PD204/samsung-sk-hynix-labor-plant-wafer.html",
-     "pubDate": "Mon, 16 Nov 2026 04:19:26 GMT",
-     "summary": "Samsung Electronics and SK Hynix are advancing semiconductor investments in Pyeongtaek, Yongin, and Gwangju, but securing skilled construction workers on schedule has emerged as a key variable for their expansion plans. The two groups have reportedly sought help from the South Korean government, con",
-     "source": "DIGITIMES",
-     "zh": "Samsung, SK Hynix face labor crunch threatening chip plant timelines"
-    },
-    {
-     "title": "Applied Materials expands India R&D ambitions, targets 2027 start for US$5 billion project",
-     "link": "https://www.digitimes.com/news/a20261115VL200/applied-materials-india-investment-equipment-development-2027.html",
-     "pubDate": "Mon, 16 Nov 2026 04:12:37 GMT",
-     "summary": "Applied Materials aims to begin work on its proposed 140-acre semiconductor research campus in Bengaluru in 2027, marking the first phase of a US$5 billion investment program that significantly expands the company's earlier plans for equipment development in India.",
-     "source": "DIGITIMES",
-     "zh": "Applied Materials expands India R&D ambitions, targets 2027 start for US$5 billion project"
     },
     {
      "title": "Ed Eyes A Glamorous Chinese Spy",
@@ -858,6 +858,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Mitsubishi Electric unveils ‘The Little One’ heat pump",
+     "link": "https://www.pv-magazine.com/2026/11/16/mitsubishi-electric-unveils-the-little-one-heat-pump/",
+     "pubDate": "Mon, 16 Nov 2026 06:03:07 +0000",
+     "summary": "Japanese manufacturer Mitsubishi Electric has introduced a new air-to-water heat pump for the British residential market. The propane-based system is available in 4 kW and 6 kW versions, with a seasonal coefficient of performance of up to 4.77 and sound power levels starting at 49 dB(A). The post Mi",
+     "source": "pv magazine",
+     "zh": "Mitsubishi Electric unveils ‘The Little One’ heat pump"
+    },
+    {
+     "title": "Around 60% of home battery installs rated ‘substandard’ by Australian regulator",
+     "link": "https://www.pv-magazine.com/2026/11/16/60-of-home-battery-installs-rated-substandard-by-regulator/",
+     "pubDate": "Mon, 16 Nov 2026 06:02:37 +0000",
+     "summary": "Incorrectly fixed cabling and conduits and improper labelling have emerged as the most common causes of substandard-rated solar and battery systems installed under Australia’s Small-scale Renewable Energy Scheme. The post Around 60% of home battery installs rated ‘substandard’ by Australian regulato",
+     "source": "pv magazine",
+     "zh": "Around 60% of home battery installs rated ‘substandard’ by Australian regulator"
+    },
+    {
      "title": "Oil Prices Fall as Fears of a Global Supply Glut Return",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Fears-of-a-Global-Supply-Glut-Return.html",
      "pubDate": "Sun, 15 Nov 2026 23:25:32 -0600",
@@ -986,22 +1002,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘The times I regret are the ones when I didn’t value myself enough to speak up’"
     },
     {
-     "title": "Masdar completes $950 million solar and battery storage project in California",
-     "link": "https://www.pv-magazine.com/2026/11/14/masdar-completes-950-million-solar-and-battery-storage-project-in-california/",
-     "pubDate": "Sat, 14 Nov 2026 09:30:00 +0000",
-     "summary": "The Abu Dhabi clean energy developer and its joint venture partner Terra-Gen have brought the Lockhart complex online, adding 365 MW of solar generation and 173.7 MW of energy storage to the California grid. The post Masdar completes $950 million solar and battery storage project in California appea",
-     "source": "pv magazine",
-     "zh": "Masdar completes $950 million solar and battery storage project in California"
-    },
-    {
-     "title": "Clarifying the CATL Tener Sodium, with new specifications and availability",
-     "link": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
-     "pubDate": "Sat, 14 Nov 2026 08:30:00 +0000",
-     "summary": "New specs for CATL’s four-hour sodium-ion battery reveal how the company will market the product for cost benefits over LFP-based batteries. International deliveries are due to begin in summer 2027. The post Clarifying the CATL Tener Sodium, with new specifications and availability appeared first on",
-     "source": "pv magazine",
-     "zh": "Clarifying the CATL Tener Sodium, with new specifications and availability"
-    },
-    {
      "title": "How California Gov.-elect Becerra could be better on climate than Newsom",
      "link": "https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate",
      "pubDate": "Fri, 13 Nov 2026 15:00:00 -0500",
@@ -1021,7 +1021,7 @@ window.INDUSTRY_DATA = {
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1040,14 +1040,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1096,6 +1088,14 @@ window.INDUSTRY_DATA = {
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1746,12 +1746,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "电冰箱等四项家电售后服务国家标准修订发布，适配智能家电发展",
+     "link": "https://www.ithome.com/1/027/654.htm",
+     "pubDate": "Mon, 16 Nov 2026 06:06:41 GMT",
+     "summary": "IT之家 11 月 16 日消息，据央视新闻报道，市场监管总局（国家标准委）近日修订发布《家用和类似用途电器售后服 务 第 2 部分：电冰箱的特殊要求》《家用和类似用途电器售后服 务 第 3 部分：空调器的特殊要求》等 4 项国家标准，分别规定了电冰箱、空调器、洗衣机、饮水机售后服务方的要求、售后服务提供流程及售后服务规范等，推动质量管控由产品本身向售后服务环节延伸，持续提升家电售后服务规范化水平，改善消费体验。 IT之家从报告获悉本次标准修订针对行业技术进步与消费者需求变化，主要作出三方面优化： 适配智能家电发展。 以电冰箱为例，新标准增加智能家电应用程序信息采集、在线升级、设备绑定等服务条",
+     "source": "IT之家",
+     "zh": "电冰箱等四项家电售后服务国家标准修订发布，适配智能家电发展"
+    },
+    {
+     "title": "Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas (Financial Times)",
+     "link": "https://www.techmeme.com/261116/p2#a261116p2",
+     "pubDate": "Mon, 16 Nov 2026 01:05:00 -0500",
+     "summary": "Financial Times : Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas &nbsp; &mdash;&nbsp; Jensen Huang's alleged affair with Chinese spy &lsquo;increases momentum&rsquo; to crack down on US hardware reach",
+     "source": "Techmeme",
+     "zh": "Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas (Financial Times)"
+    },
+    {
+     "title": "今年双11最狠爆款，不是鞋服、电器、米面油，是Token",
+     "link": "https://www.huxiu.com/article/4905054.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 14:04:09 +0800",
+     "summary": "这回，不是极客、程序员为信仰买单，而是普通人为&ldquo;有用&rdquo;充值。",
+     "source": "虎嗅",
+     "zh": "今年双11最狠爆款，不是鞋服、电器、米面油，是Token"
+    },
+    {
+     "title": "消息称荣耀试产 13300mAh 新电池，未来的 7 英寸大屏中端机或采用",
+     "link": "https://www.ithome.com/1/027/653.htm",
+     "pubDate": "Mon, 16 Nov 2026 06:00:22 GMT",
+     "summary": "IT之家 11 月 16 日消息，微博博主 @数码闲聊站 今日在微博透露，荣耀试产了一块新电池， 额定容量 13300mAh ，典型值预计在 13500mAh±。 博主认为，这块电池有可能在接下来的 7 英寸大屏中端机采用，2027 年还有更大的电池方案。 后续有用户在评论区表示：“大归大，锁容也严重 [愤怒][愤怒][愤怒]”，博主回复称：“锁了也有 10000++[狗头斜眼]”；另一名用户则表示：“手机会不会很重？[狗头斜眼]”，博主则回应称：“那咋了，iPhone PM 贴膜带壳半斤都不嫌重 [狗头斜眼]。” 结合IT之家此前援引博主消息 ，一款容量在 14000mAh 至 15000m",
+     "source": "IT之家",
+     "zh": "消息称荣耀试产 13300mAh 新电池，未来的 7 英寸大屏中端机或采用"
+    },
+    {
+     "title": "比亚迪第三代唐 11 月 24 日上市：大五座旗舰 SUV，预售 22.5 万元起",
+     "link": "https://www.ithome.com/1/027/652.htm",
+     "pubDate": "Mon, 16 Nov 2026 05:54:09 GMT",
+     "summary": "IT之家 11 月 16 日消息，据易车今日报道，比亚迪第三代唐将于 11 月 24 日正式上市。第三代唐于 11 月 13 日开启预售，预售价 22.5 万元起。 IT之家汇总如下： 850km 后驱激光尊荣型 22.5 万元 850km 后驱激光旗舰型 24 万元 770km 四驱型 26 万元 第三代唐在外观上提供 3 款双拼色与 5 款单色共 8 种车色。车头搭载 2.5 米一体贯穿式飞檐光羽大灯，车尾则采用凤翎中国结尾灯与凤凰展翅迎宾光毯。 车身长度超过 5 米，轴距接近 3 米 ，全系采用五座布局，二排腿部空间达到 1003mm，靠背最大仰角为 130 度。 座舱是第三代唐此次变化",
+     "source": "IT之家",
+     "zh": "比亚迪第三代唐 11 月 24 日上市：大五座旗舰 SUV，预售 22.5 万元起"
+    },
+    {
+     "title": "最佳生日礼物：同人创作平台 AO3 诞生 17 周年同日重新上线",
+     "link": "https://www.ithome.com/1/027/651.htm",
+     "pubDate": "Mon, 16 Nov 2026 05:52:29 GMT",
+     "summary": "IT之家 11 月 16 日消息，同人创作平台 AO3 (Archive of Our Own) 于昨日迎来了其诞生 17 周年的纪念日。而令人欣喜的是， AO3 在同一天成功脱离 此前网络安全事件 导致的约 2 周下线 ，以有限功能模式回归网络。 为提前恢复网站运行，AO3 目前禁用了全站图标、外部作品导入功能，作品仅支持以 HTML 格式下载，这些功能将陆续回归。 AO3 运营方 OTW 表示， AO3 的所有数据均未被删除 ，草稿自动删除功能已成功暂停并将继续暂停至 11 月 28 日以为用户留出更多时间处理。 OTW 称其已同一家安全公司共同检查此次事件并对网站进行分析，以防未来再次发",
+     "source": "IT之家",
+     "zh": "最佳生日礼物：同人创作平台 AO3 诞生 17 周年同日重新上线"
+    },
+    {
+     "title": "工信部通报 46 款 App 被不法分子利用实施电信网络诈骗活动",
+     "link": "https://www.ithome.com/1/027/650.htm",
+     "pubDate": "Mon, 16 Nov 2026 05:47:01 GMT",
+     "summary": "IT之家 11 月 16 日消息，工信部今日发布关于涉诈情况突出 App 的通报（2026 年第三批）。 IT之家附原文如下： 关于涉诈情况突出 App 的通报 （2026 年第三批） 近期，公安机关通报显示，46 款 App 被不法分子利用实施电信网络诈骗活动（详见附件）。请相关互联网服务提供者严格按照《中华人民共和国反电信网络诈骗法》相关要求，承担风险防控责任，履行合理注意义务，及时采取有效措施进行整改，对于整改不到位、涉诈情况持续突出的，主管部门将依法依规予以处理。 工业和信息化部网络安全管理局提醒广大用户：凡以任何名义要求您从非官方渠道下载 App、转入小众软件进行通联的，切勿轻信；如",
+     "source": "IT之家",
+     "zh": "工信部通报 46 款 App 被不法分子利用实施电信网络诈骗活动"
+    },
+    {
+     "title": "布林也犯错怎么就没事？黄仁勋没赶上好时候",
+     "link": "https://www.huxiu.com/article/4905888.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 13:46:53 +0800",
+     "summary": "本文来自微信公众号： 猫叔在硅谷 ，作者：猫叔在硅谷 执掌公司33年之后，他离开了自己创办的企业。 上周四清晨，英伟达宣布，公司联合创始人黄仁勋辞去总裁、首席执行官和董事三项职务，即时生效，彻底退出公司管理层和董事会。公告没有说明辞职原因，也没有披露离职安排。 黄仁勋离开之后，英伟达首席财务官克雷斯(Colette Kress)出任临时CEO，并继续兼任CFO。自1993年就进入董事会的元老琼斯(Harvey Jones)出任英伟达历史上第一位董事长。董事会已经启动永久CEO的遴选，内部和外部人选都在考虑之列。 英伟达将于周二(11月17日)发布第三财季财报，这将是克雷斯以临时CEO身份第一次",
+     "source": "虎嗅",
+     "zh": "布林也犯错怎么就没事？黄仁勋没赶上好时候"
+    },
+    {
      "title": "每天只学2小时？，美国最火创新学校翻车了",
      "link": "https://www.huxiu.com/article/4905887.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 13:41:46 +0800",
      "summary": "本文来自微信公众号： 谷雨星球 ，作者：卷卷兔，原文标题：《每天只学2小时？！美国最火创新学校翻车了》 大家好，我是卷卷兔。 要问这两年全世界最火的创新学校，美国的Alpha School大概没有对手。 美国教育/部长亲自到访，称它是「典范」，更有不少科技新贵，为了一个学位拖家带口从硅谷搬到德州。哪怕一年学费最高7.5万美元，也是开到哪火到哪。 但今年，它的负面舆论多了起来，最核心的矛盾是「空有口号、没有效果」。 10月23日，NYT就用内部数据质疑了Alpha School号称的「每天只学2小时，学到2倍的内容」： 「去年约一半的K-8学生没有做到‘数学2倍速’，数学和阅读都达标的不到一半」",
      "source": "虎嗅",
      "zh": "每天只学2小时？，美国最火创新学校翻车了"
+    },
+    {
+     "title": "别克官宣全新至境世家 MPV 即将登场：周杰伦代言，现款 41.99 万元起",
+     "link": "https://www.ithome.com/1/027/648.htm",
+     "pubDate": "Mon, 16 Nov 2026 05:38:21 GMT",
+     "summary": "IT之家 11 月 16 日消息，别克今日官宣全新至境世家 MPV 即将登场，并放出别克 MPV 家族代言人周杰伦参与拍摄预告片。 IT之家注意到，别克至境世家纯电版 MPV 于今年 3 月上市，售价 48.99 万元。该车长宽高为 5260mm*2023mm*1820mm， 轴距为 3160mm ，配备 330mm 超长三排滑轨、2056L 超大后备箱、手势智控滑移门等配置。全球首搭 900V 6C 超快充电池，CLTC 纯电续航里程 601 公里，提供 640kW 峰值充电功率，10 分钟 400km 快速补能；采用逍遥纯电双电机四驱，5.1s 零百加速，550N·m 最大扭矩，332kW",
+     "source": "IT之家",
+     "zh": "别克官宣全新至境世家 MPV 即将登场：周杰伦代言，现款 41.99 万元起"
     },
     {
      "title": "“周围酒店全满房了”，秋假让中小学生挤爆游乐园",
@@ -1762,36 +1834,12 @@ window.INDUSTRY_DATA = {
      "zh": "“周围酒店全满房了”，秋假让中小学生挤爆游乐园"
     },
     {
-     "title": "Omdia：2026 年 Q3 东南亚智能手机出货量同比下降 36%，苹果逆势增长 4%",
-     "link": "https://www.ithome.com/1/027/644.htm",
-     "pubDate": "Mon, 16 Nov 2026 05:28:25 GMT",
-     "summary": "IT之家 11 月 16 日消息，根据 Omdia 最新研究，2026 年第三季度，东南亚智能手机市场同比下降 36%， 出货量降至 1,650 万部 。这一市场收缩延续了 2026 年上半年以来的下行趋势，存储芯片供应短缺及零部件成本上涨持续制约智能手机厂商的出货表现。 IT之家从报告获悉，尽管出货量大幅下滑，市场出货价值同比仅下降 1%， 而平均售价（ASP）则同比上涨 53% 。这一差异反映出，在供应压力持续加大的背景下，智能手机厂商正通过提高产品售价来应对成本上涨及供应限制。 2026 年第三季度主要智能手机厂商表现亮点： 尽管 三星 出货量同比下降 20% 至 370 万部，仍保持东",
-     "source": "IT之家",
-     "zh": "Omdia：2026 年 Q3 东南亚智能手机出货量同比下降 36%，苹果逆势增长 4%"
-    },
-    {
      "title": "学历通胀、AI再添一把火，大学改革出路在哪？",
      "link": "https://www.huxiu.com/article/4905884.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 13:24:31 +0800",
      "summary": "本文来自微信公众号： 底线思维 ，作者：沈晓敏 高考、考研、考公，文凭、“第一学历”、“在哪高就”……这些关键词基本伴随着我们每个人从踏入校门到走上工作岗位，同窗竞争、同侪压力、社会评价，也自然成了每个人必须面对的课题。 有压力才有动力，当然是激励之语；但当压力阈值接近临界点，这些关键词的位次和内涵随之变化。“考研热”有所退潮，“考公热”持续不减，年轻人一边喊着想“躺平”，一边“卷”出新天地。从“孔乙己的长衫”到“第一学历”歧视，再到AI迅速冲击，文凭正在贬值——当学历不能再兑换它“承诺”的资源，年轻人该何去何从？社会又该如何看待这份逐渐“失效的契约”？ 近日，观察者网与华东师范大学教育学部沈",
      "source": "虎嗅",
      "zh": "学历通胀、AI再添一把火，大学改革出路在哪？"
-    },
-    {
-     "title": "丰田联手小马智行，第七代铂智 4X Robotaxi 在广州开启示范运营",
-     "link": "https://www.ithome.com/1/027/643.htm",
-     "pubDate": "Mon, 16 Nov 2026 05:24:19 GMT",
-     "summary": "IT之家 11 月 16 日消息，11 月 16 日，小马智行与丰田合作研发并量产的第七代 铂智 4X Robotaxi 在广州正式投入示范运营 ，面向公众开放 L4 级自动驾驶服务。 据介绍，目前，小马智行与丰田已在北上广深四座一线城市落地 Robotaxi 服务。铂智 4X Robotaxi 投入示范运营，标志着双方在中国市场的 L4 战略合作迈入新阶段。 铂智 4X Robotaxi 是小马智行与丰田历经以雷克萨斯、赛那为原型的多代 L4 级车型迭代后的标杆之作。为支撑 L4 车型规模化量产及运营的长远布局，2023 年 8 月，小马智行联合丰田中国、广汽丰田宣布共同 投资 10 亿元 ",
-     "source": "IT之家",
-     "zh": "丰田联手小马智行，第七代铂智 4X Robotaxi 在广州开启示范运营"
-    },
-    {
-     "title": "我国自主研发电子航海日志系统发布，航运基础文书数字化转型关键一步",
-     "link": "https://www.ithome.com/1/027/642.htm",
-     "pubDate": "Mon, 16 Nov 2026 05:16:52 GMT",
-     "summary": "IT之家 11 月 16 日消息，据央视新闻报道， 我国自主研发的电子航海日志系统 今日（11 月 16 日）正式发布，这标志着我国航运基础文书数字化转型迈出关键一步。 航海日志是船舶航行的法定原始记录，也是海事调查、事故溯源、责任判定的核心依据。 此次发布的电子航海日志系统， 以自动记录替代手工誊写 ；通过船岸数据同步，船舶管理从“翻本子”变为“看数据”；借助数字签名与区块链存证保障记录真实、不可篡改，为海事监管和港口国监督检查提供可信依据。 目前系统已在四艘货船完成了实船试验，基础信息自动抓取、数据回传等功能经测试运行稳定，试验效果良好， 计划 2027 年 1 月份在各船型、吨位、航线船",
-     "source": "IT之家",
-     "zh": "我国自主研发电子航海日志系统发布，航运基础文书数字化转型关键一步"
     },
     {
      "title": "同仁堂24.4亿收购天津同仁堂，贵不贵",
@@ -1810,22 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "Alibaba says it filtered Qwen4-Max&apos;s training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks (Ann Cao/South China Morning Post)"
     },
     {
-     "title": "LG Display 2026 财年前三季度归母亏损 2285.85 亿韩元，同比由盈转亏",
-     "link": "https://www.ithome.com/1/027/641.htm",
-     "pubDate": "Mon, 16 Nov 2026 05:13:41 GMT",
-     "summary": "IT之家 11 月 16 日消息，LG Display 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：17.42 万亿韩元 （IT之家注：现汇率约合 871.5 亿元人民币） ，同比下降 6.37% 毛利润 ：2.47 万亿韩元 （现汇率约合 123.59 亿元人民币） ，同比增长 3.35% 毛利率 ：14.18%，同比增长 1.33 个百分点 归母净利润 ：-2285.85 亿韩元 （现汇率约合 -11.43 ",
-     "source": "IT之家",
-     "zh": "LG Display 2026 财年前三季度归母亏损 2285.85 亿韩元，同比由盈转亏"
-    },
-    {
-     "title": "腾讯混元 Hy4 flash 模型发布：224B 总参、12B 激活，单任务成本约 Hy4 的 5%",
-     "link": "https://www.ithome.com/1/027/630.htm",
-     "pubDate": "Mon, 16 Nov 2026 05:09:25 GMT",
-     "summary": "IT之家 11 月 16 日消息，腾讯混元团队今天宣布正式推出 Hy4 flash，官方将其定位为迄今性价比最高的 Hy 模型。 其模型总参数量 224B，其中包含 64B Engram 参数，每个 token 激活 12B 参数，支持多模态输入与 100 万 token 上下文长度，API 价格较 Hy4 大幅降低。 腾讯表示，Hy4 flash 的高性价比来自预训练、后训练和推理三个阶段的协同优化。预训练阶段引入混合注意力、LatentMoE 与 Engram（IT之家注：Engram 是一种可扩展的查表式参数模块，用于以较低算力成本扩充模型容量）等架构，KV cache 大小降至 Hy3",
-     "source": "IT之家",
-     "zh": "腾讯混元 Hy4 flash 模型发布：224B 总参、12B 激活，单任务成本约 Hy4 的 5%"
-    },
-    {
      "title": "价格已经跌穿了，猪肉10年最低",
      "link": "https://www.tmtpost.com/8206431.html",
      "pubDate": "Mon, 16 Nov 2026 13:06:02 +0800",
@@ -1834,20 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "价格已经跌穿了，猪肉10年最低"
     },
     {
-     "title": "长沙比亚迪 4S 店新车交付时被偷走：门店承认管理疏漏，嫌疑人已被拘留",
-     "link": "https://www.ithome.com/1/027/614.htm",
-     "pubDate": "Mon, 16 Nov 2026 05:03:44 GMT",
-     "summary": "IT之家 11 月 16 日消息，湖南长沙新车被盗事件当事人熊女士昨日在社交平台发文称“维权成功”告一段落。 涉事门店比亚迪长沙金旋风 4S 店向澎湃新闻确认，购车全款已退还，偷车嫌疑人已被警方拘留，门店承认在车辆管理上存在疏漏。 IT之家通过公开报道获悉，此次事件发生在 2026 年 11 月 10 日。熊女士一家为庆祝公公 60 岁生日，从老家驱车数百公里赶到长沙金旋风 4S 店，以 14.9 万元车价、连同保险共计 15.5 万元全款购入一辆新车。 合同签署、发票开具、临时牌照办理均已完成，一家人坐在休息区等待车辆洗车贴膜后交车。傍晚 6 点多，销售人员告知“车不见了”。 据门店销售经理",
-     "source": "IT之家",
-     "zh": "长沙比亚迪 4S 店新车交付时被偷走：门店承认管理疏漏，嫌疑人已被拘留"
-    },
-    {
-     "title": "当演员肖茵遇见《持械入宋》总编剧",
-     "link": "https://www.huxiu.com/article/4905841.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 12:49:44 +0800",
-     "summary": "没有影视科班背景，没请流量明星，一群&ldquo;外行&rdquo;用AI做出了一部爆款短剧。 最近走红的《持械入宋》，按制作方披露，全网累计播放量已突破120亿。创作者们分散在各地，在线上完成剧本改编、视频生成和后期剪辑。 当AI能拍剧了，人还靠什么吃饭？&mdash;&mdash;11月21日，当 演员肖茵 在虎嗅F&M创新节上跟 《持械入宋》总编剧李朝华 参与同一个圆桌讨论时，她会不会问出这个问题？ 同场讨论的还有 《灵魂摆渡》AI电影三部曲总制片人李志超 、 MiniMax多模态内容艺术导演潘雨莹 ，由 骨朵传媒创始人、CEO王蓓蓓 主持。从表演、编剧、制片到AI内容制作，一起聊聊《A",
-     "source": "虎嗅",
-     "zh": "当演员肖茵遇见《持械入宋》总编剧"
+     "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+     "link": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+     "pubDate": "Mon, 16 Nov 2026 04:53:06 +0000",
+     "summary": "Article URL: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101 Comments URL: https://news.ycombinator.com/item?id=50514180 Points: 23 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update"
     },
     {
      "title": "Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost (Artificial Analysis)",
@@ -1856,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "Artificial Analysis : Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost &nbsp; &mdash;&nbsp; Qwen4 Max is above average in intelligence and reasonably priced when comparing to other models ",
      "source": "Techmeme",
      "zh": "Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost (Artificial Analysis)"
-    },
-    {
-     "title": "“AI生成的代码必须开源，”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
-     "link": "https://www.huxiu.com/article/4905872.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 12:41:16 +0800",
-     "summary": "本文来自微信公众号： InfoQ ，作者：褚杏娟，原文标题：《“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意》 “所有AI生成的代码都应该开源。” 11月15日，开源开发者Jakub T.Jankiewicz公开呼吁将AI生成的代码全部开源，或者直接放入公共领域。他认为，AI模型从开源社区几十年积累的代码和技术知识中受益，企业却可以利用这些模型生成闭源软件，将原本属于社区的集体成果转化为自己的商业资产。这种做法，在他看来已经有了“许可证洗白”（license laundering）的嫌疑。 这个观点迅速引爆了社区讨论。有人赞同，认为AI公司依靠开源",
-     "source": "虎嗅",
-     "zh": "“AI生成的代码必须开源，”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意"
     },
     {
      "title": "Sources: the Trump admin plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help them win overseas business (Wall Street Journal)",
@@ -1877,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Stop Filming in Log",
      "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
      "pubDate": "Mon, 16 Nov 2026 04:37:03 +0000",
-     "summary": "Article URL: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/ Comments URL: https://news.ycombinator.com/item?id=50514093 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/ Comments URL: https://news.ycombinator.com/item?id=50514093 Points: 15 # Comments: 5",
      "source": "Hacker News",
      "zh": "Stop Filming in Log"
     },
@@ -1898,28 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "Apple launches its Health AI Usage Study, with an OpenEvidence-powered app that answers health questions and can use HealthKit data, for up to 200,000 US users (Ivan Mehta/TechCrunch)"
     },
     {
-     "title": "Linux was created as a rejection of robust software architecture and tools",
-     "link": "https://twitter.com/GrapheneOS/status/2122079826257588569",
-     "pubDate": "Mon, 16 Nov 2026 03:58:04 +0000",
-     "summary": "Article URL: https://twitter.com/GrapheneOS/status/2122079826257588569 Comments URL: https://news.ycombinator.com/item?id=50513843 Points: 25 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "Linux was created as a rejection of robust software architecture and tools"
-    },
-    {
      "title": "具身智能：AI走向物理世界，还差几步",
      "link": "https://www.tmtpost.com/8206268.html",
      "pubDate": "Mon, 16 Nov 2026 11:46:00 +0800",
      "summary": "2026年，资本、模型和制造同时加速，机器人开始批量走下生产线，但下线不等于交付，演示不等于胜任。具身智能能否真正跨越产业之门，取决于技术能否被组织成稳定工作的系统，并在真实场景中持续创造价值。",
      "source": "钛媒体",
      "zh": "具身智能：AI走向物理世界，还差几步"
-    },
-    {
-     "title": "Alibaba says Qwen4-Max, which isn&apos;t open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models (Luz Ding/Bloomberg)",
-     "link": "https://www.techmeme.com/261115/p26#a261115p26",
-     "pubDate": "Sun, 15 Nov 2026 22:45:00 -0500",
-     "summary": "Luz Ding / Bloomberg : Alibaba says Qwen4-Max, which isn't open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models &nbsp; &mdash;&nbsp; Alibaba Group Holding Ltd. launched a new flagship AI model, claiming performance that rivals Ant",
-     "source": "Techmeme",
-     "zh": "Alibaba says Qwen4-Max, which isn&apos;t open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models (Luz Ding/Bloomberg)"
     },
     {
      "title": "谁在忽悠普通人入局AI漫剧？",
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Qwen4-Max",
      "link": "https://qwen.ai/blog?id=qwen4-max",
      "pubDate": "Mon, 16 Nov 2026 02:14:44 +0000",
-     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 269 # Comments: 92",
+     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 311 # Comments: 105",
      "source": "Hacker News",
      "zh": "Qwen4-Max"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Universal XSS in uBlock Origin from website-driven element picker",
      "link": "https://iter.ca/post/ubo-uxss/",
      "pubDate": "Mon, 16 Nov 2026 02:04:48 +0000",
-     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 199 # Comments: 50",
+     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 226 # Comments: 55",
      "source": "Hacker News",
      "zh": "Universal XSS in uBlock Origin from website-driven element picker"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Coles hit by a cybersecurity incident",
      "link": "https://www.colesgroup.com.au/updates/",
      "pubDate": "Mon, 16 Nov 2026 01:14:35 +0000",
-     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 81 # Comments: 59",
+     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 83 # Comments: 59",
      "source": "Hacker News",
      "zh": "Coles hit by a cybersecurity incident"
     }
@@ -2242,6 +2242,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Italy orders Meta to pay $887M over Facebook's photo access practices",
+     "link": "https://seekingalpha.com/news/4672827-italy-orders-meta-to-pay-887m-over-facebooks-photo-access-practices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 01:04:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Italy orders Meta to pay $887M over Facebook's photo access practices"
+    },
+    {
+     "title": "China's October retail sales ease to 0.4%, factory output slows to 4.8%, while jobless rate dips to 5.1%",
+     "link": "https://seekingalpha.com/news/4672826-china-october-retail-sales-ease-to-04-factory-output-slows-to-48-while-jobless-rate-dips-to-51?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 00:56:23 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "China's October retail sales ease to 0.4%, factory output slows to 4.8%, while jobless rate dips to 5.1%"
+    },
+    {
+     "title": "创业板跌3.5%，科创50跌近5%，“易中天”大跌，银行逆势拉升，30年期国债跌0.8%，恒指、恒科指震荡上涨",
+     "link": "https://wallstreetcn.com/articles/3785986",
+     "pubDate": "Mon, 16 Nov 2026 13:52:53 +0800",
+     "summary": "11月16日，A股午后扩大跌幅，三大指数集体走低，沪指再度逼近3600点，在银行、电力、家电等红利板块的逆势拉升下，沪指跌幅显著收窄，创业板跌超3%，存储、算力集体陷入调整，科创50跌近5%，光模块龙头“易中天”、工业富联等集体下跌，物理AI、人形机器人等概念股同样下挫，航天军工、基本金属、半导体板块下跌。银行、白色家电、煤炭、油气等板块逆势走强。 港股早盘震荡上涨，恒指、恒科指盘初集体拉升，恒指一度涨1%，权重科网股多数反弹，光模块等算力硬件股下挫，中际旭创跌超6%。恒生生物科技指数早盘大跌，康方生物等跌幅居前，此前康方生物药物依沃西在美国的首次上市申请未获得批准。新世界发展跌40%，此前该",
+     "source": "华尔街见闻",
+     "zh": "创业板跌3.5%，科创50跌近5%，“易中天”大跌，银行逆势拉升，30年期国债跌0.8%，恒指、恒科指震荡上涨"
+    },
+    {
+     "title": "Japan’s economy contracts 0.1% annualized in Q3; September industrial output rebounds 2.0%",
+     "link": "https://seekingalpha.com/news/4672825-japans-economy-contracts-01-annualized-in-q3-september-industrial-output-rebounds-20?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 00:47:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Japan’s economy contracts 0.1% annualized in Q3; September industrial output rebounds 2.0%"
+    },
+    {
+     "title": "韩股跌4%，纳指期货跌1%",
+     "link": "https://wallstreetcn.com/articles/3785999",
+     "pubDate": "Mon, 16 Nov 2026 13:42:42 +0800",
+     "summary": "韩国KOSPI指数跌幅扩大至4％。SK海力士跌8％，三星电子跌超5％。 美股股指期货持续走低，纳指期货跌幅扩大至1.00%，道琼斯指数期货跌0.16%，标普500指数期货跌0.50%。 现货黄金短线跌超30美元，回落至3840美元/盎司下方，日内跌1.07%。现货白银日内跌幅达3.00%，现报47.22美元/盎司。 本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "韩股跌4%，纳指期货跌1%"
+    },
+    {
+     "title": "利润翻倍之后，海正药业的新尝试",
+     "link": "https://wallstreetcn.com/articles/3785997",
+     "pubDate": "Mon, 16 Nov 2026 13:36:48 +0800",
+     "summary": "海正药业今年前三季度扣非净利润 9.82亿元，同比增长100.11%。 利润翻倍的同时，董事长、总裁肖卫红也在推进几项对外合作： 2亿元参股圣兆药物，布局复杂制剂；1000万元首付款引进炫景生物的小核酸技术平台 的 使用权及 临床前 早期产品。 11月13日，在与炫景的签约现场，肖卫红说，小核酸布局已经筹备两年。海正一边招人、搭团队，一边寻找外部技术，最终选择同时引进平台使用权和一个具体产品。 01 退出流通，钱继续投向研发 肖卫红于 2023年10月出任海正总裁，2024年10月兼任董事长。他任内的一项业务调整，是退出医药流通，将资源进一步集中于医药工业。 今年 3月，海正完成浙江省医药工业",
+     "source": "华尔街见闻",
+     "zh": "利润翻倍之后，海正药业的新尝试"
+    },
+    {
      "title": "Cocrystal Pharma GAAP EPS of -$0.20, revenue of $0.11M",
      "link": "https://seekingalpha.com/news/4672824-cocrystal-pharma-gaap-eps-of--020-revenue-of-011m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 16 Nov 2026 00:22:08 -0500",
@@ -2266,30 +2314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Syntec Optics Holdings GAAP EPS of $0.01, revenue of $8.54M"
     },
     {
-     "title": "Malaga Financial declares $0.25 quarterly cash dividend and 5% special stock dividend",
-     "link": "https://seekingalpha.com/news/4672822-malaga-financial-declares-025-quarterly-cash-dividend-and-5-special-stock-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 00:17:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Malaga Financial declares $0.25 quarterly cash dividend and 5% special stock dividend"
-    },
-    {
-     "title": "腾势N8大换代 “降维打击”大五座市场",
-     "link": "http://www.eeo.com.cn/2026/1116/1094256.shtml",
-     "pubDate": "Mon, 16 Nov 2026 13:04:29 +0800",
-     "summary": "全新一代腾势N8不是初代N8的升级，而是腾势对旗下产品做的一次梳理：把六座需求交给同平台的腾势N8L，全新一代腾势N8只做五座，用“砍掉低频第三排、把成本砸向前两排和底盘”的方式，进入一个此前被增程产品主导、但纯电渗透正在加速的细分市场。",
-     "source": "经济观察网",
-     "zh": "腾势N8大换代 “降维打击”大五座市场"
-    },
-    {
-     "title": "神龙科技与火山引擎达成全面战略合作 补足又一块智能化短板",
-     "link": "http://www.eeo.com.cn/2026/1116/1094255.shtml",
-     "pubDate": "Mon, 16 Nov 2026 13:04:06 +0800",
-     "summary": "神龙科技将全面拥抱AI。但从现实情况看，由于神龙科技入局较晚，如果不能在新能源汽车市场形成差异化的竞争优势，恐怕很难从激烈的竞争市场中赢得一席之地。",
-     "source": "经济观察网",
-     "zh": "神龙科技与火山引擎达成全面战略合作 补足又一块智能化短板"
-    },
-    {
      "title": "The whole world is long America",
      "link": "https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1",
      "pubDate": "Mon, 16 Nov 2026 05:00:11 GMT",
@@ -2304,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "A sharp fall in the number of migrants arriving in rich countries adds to the fiscal challenges of rapidly ageing populations",
      "source": "Financial Times",
      "zh": "The great migration slowdown"
-    },
-    {
-     "title": "Monday's Economic Calendar",
-     "link": "https://seekingalpha.com/news/4672757-mondays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Monday's Economic Calendar"
     },
     {
      "title": "香港豪门守住控制权，新世界发展249亿港元供股方案落地，郑氏家族拿真金白银包销",
@@ -2442,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "中国与东盟宣布将2027年定为人工智能合作年"
     },
     {
-     "title": "创业板跌超2%，光模块龙头“易中天”再大跌，银行逆势拉升，30年期国债跌0.5%，恒指涨1%，新世界发展大跌40%",
-     "link": "https://wallstreetcn.com/articles/3785986",
-     "pubDate": "Mon, 16 Nov 2026 11:56:33 +0800",
-     "summary": "11月16日，A股三大指数低开后一度探底，沪指盘中失守3600点，在银行、电力、家电等红利板块的逆势拉升下，沪指跌幅显著收窄，创业板跌超2%，盘中一度跌超3%，存储、算力集体陷入调整，科创50跌近3%，光模块龙头“易中天”、工业富联等集体下跌，物理AI、人形机器人等概念股同样下挫，航天军工、基本金属、半导体板块下跌。银行、白色家电、煤炭、油气等板块逆势走强。 港股早盘震荡上涨，恒指、恒科指盘初集体拉升，权重科网股多数反弹，光模块等算力硬件股下挫，中际旭创跌超5%。恒生生物科技指数早盘大跌，康方生物等跌幅居前，此前康方生物药物依沃西在美国的首次上市申请未获得批准。新世界发展跌35%，此前该公司以",
-     "source": "华尔街见闻",
-     "zh": "创业板跌超2%，光模块龙头“易中天”再大跌，银行逆势拉升，30年期国债跌0.5%，恒指涨1%，新世界发展大跌40%"
-    },
-    {
      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
      "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
      "pubDate": "Mon, 16 Nov 2026 03:53:59 GMT",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
      "source": "CNBC",
      "zh": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing"
-    },
-    {
-     "title": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%",
-     "link": "https://wallstreetcn.com/articles/3785994",
-     "pubDate": "Mon, 16 Nov 2026 11:21:57 +0800",
-     "summary": "11月16日，高盛最新发布的2027年中国市场策略展望报告 将港股评级上调至超配，同时下调A股至中性 ，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。 据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSCI中国指数12个月远期市盈率仅9.8倍，处于十年均值下方约1个标准差， \"大量负面因素已经反映在股价中\" 。 报告认为，2027年的核心交易逻辑已发生结构性转变——从押注AI贝塔行情，转向寻求盈利增长",
-     "source": "华尔街见闻",
-     "zh": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%"
     }
    ]
   },

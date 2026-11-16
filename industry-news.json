@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 05:19:47",
+ "generated_at": "2026/11/17 05:32:27",
  "recent_days": 7,
  "industries": [
   {
@@ -87,6 +87,14 @@
      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
      "source": "MIT Tech Review AI",
      "zh": "Building trustworthy AI by fencing it in, not predicting it"
+    },
+    {
+     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
+     "summary": "Plus: CucumberVision!",
+     "source": "Import AI",
+     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
     },
     {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
@@ -239,14 +247,6 @@
      "summary": "余承东重新明确分工",
      "source": "量子位",
      "zh": "余承东发布新款问界M8：38万元起售，全系预埋L3架构"
-    },
-    {
-     "title": "Advancing computer-use agents for healthcare teams",
-     "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-     "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
-     "summary": "",
-     "source": "OpenAI",
-     "zh": "Advancing computer-use agents for healthcare teams"
     }
    ]
   },
@@ -1497,14 +1497,6 @@
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1529,28 +1521,12 @@
      "zh": "What role does industry play in Europe’s space sovereignty push?"
     },
     {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
      "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Senate committee takes up nominees for NASA chief financial officer and inspector general"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -1777,6 +1753,14 @@
    "total": 18,
    "items": [
     {
+     "title": "My Quest to push native Three.js quality match AAA Game Engines",
+     "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+     "pubDate": "Mon, 16 Nov 2026 21:07:43 +0000",
+     "summary": "Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs Comments URL: https://news.ycombinator.com/item?id=50523291 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "My Quest to push native Three.js quality match AAA Game Engines"
+    },
+    {
      "title": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic&apos;s IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)",
      "link": "https://www.techmeme.com/261116/p43#a261116p43",
      "pubDate": "Mon, 16 Nov 2026 16:05:01 -0500",
@@ -1804,17 +1788,9 @@
      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
      "pubDate": "Mon, 16 Nov 2026 20:48:08 +0000",
-     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 19 # Comments: 4",
      "source": "Hacker News",
      "zh": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case"
-    },
-    {
-     "title": "Caltech professor no longer grades homework's because everyone uses AI",
-     "link": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
-     "pubDate": "Mon, 16 Nov 2026 20:47:53 +0000",
-     "summary": "Article URL: https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11 Comments URL: https://news.ycombinator.com/item?id=50523022 Points: 9 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Caltech professor no longer grades homework's because everyone uses AI"
     },
     {
      "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
@@ -1841,6 +1817,14 @@
      "zh": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case"
     },
     {
+     "title": "Chemistry Is Geometry",
+     "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+     "pubDate": "Mon, 16 Nov 2026 20:22:18 +0000",
+     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Chemistry Is Geometry"
+    },
+    {
      "title": "Customers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays (Associated Press)",
      "link": "https://www.techmeme.com/261116/p42#a261116p42",
      "pubDate": "Mon, 16 Nov 2026 15:20:02 -0500",
@@ -1852,7 +1836,7 @@
      "title": "Rust changed me as a developer",
      "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
      "pubDate": "Mon, 16 Nov 2026 20:16:50 +0000",
-     "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 29 # Comments: 2",
      "source": "Hacker News",
      "zh": "Rust changed me as a developer"
     },
@@ -1892,7 +1876,7 @@
      "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
      "link": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
      "pubDate": "Mon, 16 Nov 2026 19:29:17 +0000",
-     "summary": "Article URL: https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/ Comments URL: https://news.ycombinator.com/item?id=50521870 Points: 19 # Comments: 0",
+     "summary": "Article URL: https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/ Comments URL: https://news.ycombinator.com/item?id=50521870 Points: 24 # Comments: 1",
      "source": "Hacker News",
      "zh": "How to Intercept HTTP/3 Traffic: QUIC and Qpack"
     },
@@ -1945,12 +1929,12 @@
      "zh": "Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft&apos;s voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)"
     },
     {
-     "title": "California AG Rob Bonta sues OpenAI over the Hugging Face incident, alleging OpenAI endangered the public by testing its models without adequate safeguards (Politico)",
+     "title": "California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards (Politico)",
      "link": "https://www.techmeme.com/261116/p40#a261116p40",
      "pubDate": "Mon, 16 Nov 2026 13:55:00 -0500",
-     "summary": "Politico : California AG Rob Bonta sues OpenAI over the Hugging Face incident, alleging OpenAI endangered the public by testing its models without adequate safeguards &nbsp; &mdash;&nbsp; California Attorney General Rob Bonta is suing OpenAI over the cyberattack its rogue AI agents launched this sum",
+     "summary": "Politico : California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards &nbsp; &mdash;&nbsp; California Attorney General Rob Bonta is suing OpenAI over the cyberattack its rogue AI agents launched thi",
      "source": "Techmeme",
-     "zh": "California AG Rob Bonta sues OpenAI over the Hugging Face incident, alleging OpenAI endangered the public by testing its models without adequate safeguards (Politico)"
+     "zh": "California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards (Politico)"
     },
     {
      "title": "Island is a new screen-time app that turns staying off your phone into a game",
@@ -1959,14 +1943,6 @@
      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
      "source": "TechCrunch",
      "zh": "Island is a new screen-time app that turns staying off your phone into a game"
-    },
-    {
-     "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-     "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-     "pubDate": "Mon, 16 Nov 2026 18:31:30 +0000",
-     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 479 # Comments: 364",
-     "source": "Hacker News",
-     "zh": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle"
     },
     {
      "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
@@ -2024,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "New iPhone Duo orders now deliver a month earlier than before",
+     "link": "https://9to5mac.com/2026/11/16/new-iphone-duo-orders-now-deliver-a-month-earlier-than-before/",
+     "pubDate": "Mon, 16 Nov 2026 21:28:12 +0000",
+     "summary": "Interested in getting an iPhone Duo before Christmas? You might be in luck, as Apple’s online store delivery estimates just got pulled forward by a full month, with December delivery now expected. more…",
+     "source": "9to5Mac",
+     "zh": "New iPhone Duo orders now deliver a month earlier than before"
+    },
     {
      "title": "Apple’s leadership overhaul continues with new Apple Pay and Wallet chief",
      "link": "https://9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief/",
@@ -2161,14 +2145,6 @@
      "zh": "Which Google Pixel phone is most similar to the Galaxy S26+?"
     },
     {
-     "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out",
-     "link": "https://9to5mac.com/2026/11/16/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
-     "pubDate": "Mon, 16 Nov 2026 19:27:57 +0000",
-     "summary": "In addition to macOS 27.3 beta 2 , Apple is also rolling out the first Release Candidates for macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out"
-    },
-    {
      "title": "Google Maps' chatbot can find appointments and call to book them for you",
      "link": "https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/",
      "pubDate": "Mon, 16 Nov 2026 19:17:00 +0000",
@@ -2273,52 +2249,84 @@
    "total": 13,
    "items": [
     {
-     "title": "Barfresh Food Group reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673290-barfresh-food-group-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:15:45 -0500",
+     "title": "ReposiTrak GAAP EPS of $0.08 in-line, revenue of $5.8M beats by $0.8M",
+     "link": "https://seekingalpha.com/news/4673303-repositrak-gaap-eps-of-0_08-in-line-revenue-of-5_8m-beats-by-0_8m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:24:23 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Barfresh Food Group reports Q3 results"
+     "zh": "ReposiTrak GAAP EPS of $0.08 in-line, revenue of $5.8M beats by $0.8M"
     },
     {
-     "title": "Pool to acquire Team Horner, expanding Florida distribution network",
-     "link": "https://seekingalpha.com/news/4673280-pool-to-acquire-team-horner-expanding-florida-distribution-network?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:14:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pool to acquire Team Horner, expanding Florida distribution network"
+     "title": "Kalshi plans to launch stock trading soon",
+     "link": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
+     "pubDate": "Mon, 16 Nov 2026 21:23:34 GMT",
+     "summary": "Kalshi's interest in offering stock trading shows the platform's push into traditional financial markets.",
+     "source": "CNBC",
+     "zh": "Kalshi plans to launch stock trading soon"
     },
     {
-     "title": "Xcel Brands Non-GAAP EPS of -$0.19 beats by $0.30, revenue of $1.06M misses by $0.84M",
-     "link": "https://seekingalpha.com/news/4673288-xcel-brands-non-gaap-eps-of-0_19-beats-by-0_30-revenue-of-1_06m-misses-by-0_84m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:14:24 -0500",
+     "title": "Infleqtion's Q3 revenue falls short, but it maintains full-year target",
+     "link": "https://seekingalpha.com/news/4673259-infleqtions-q3-revenue-falls-short-but-it-maintains-full-year-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:22:36 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Xcel Brands Non-GAAP EPS of -$0.19 beats by $0.30, revenue of $1.06M misses by $0.84M"
+     "zh": "Infleqtion's Q3 revenue falls short, but it maintains full-year target"
     },
     {
-     "title": "AECOM Non-GAAP EPS of $1.63 beats by $0.04, revenue of $3.88M misses by $4.1B",
-     "link": "https://seekingalpha.com/news/4673287-aecom-non-gaap-eps-of-1_63-beats-by-0_04-revenue-of-3_88m-misses-by-4_1b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:14:13 -0500",
+     "title": "Rosemont to acquire Aytu BioPharma for $2.70 per share",
+     "link": "https://seekingalpha.com/news/4673286-rosemont-to-acquire-aytu-biopharma-for-2_70-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:22:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "AECOM Non-GAAP EPS of $1.63 beats by $0.04, revenue of $3.88M misses by $4.1B"
+     "zh": "Rosemont to acquire Aytu BioPharma for $2.70 per share"
     },
     {
-     "title": "Wrap Technologies reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673284-wrap-technologies-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:13:06 -0500",
+     "title": "ORIC Pharmaceuticals GAAP EPS of -$0.44 misses by $0.05",
+     "link": "https://seekingalpha.com/news/4673301-oric-pharmaceuticals-gaap-eps-of-0_44-misses-by-0_05?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:22:18 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Wrap Technologies reports Q3 results"
+     "zh": "ORIC Pharmaceuticals GAAP EPS of -$0.44 misses by $0.05"
     },
     {
-     "title": "Aqua Metals GAAP EPS of -$0.68",
-     "link": "https://seekingalpha.com/news/4673283-aqua-metals-gaap-eps-of-0_68?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:11:57 -0500",
+     "title": "Insight Molecular Diagnostics Inc. GAAP EPS of -$0.10 beats by $0.14, revenue of $0.56M beats by $0.32M",
+     "link": "https://seekingalpha.com/news/4673300-insight-molecular-diagnostics-inc-gaap-eps-of-0_10-beats-by-0_14-revenue-of-0_56m-beats-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:22:14 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Aqua Metals GAAP EPS of -$0.68"
+     "zh": "Insight Molecular Diagnostics Inc. GAAP EPS of -$0.10 beats by $0.14, revenue of $0.56M beats by $0.32M"
+    },
+    {
+     "title": "Chevron nears $5B deal for Blackstone-backed Beacon Offshore - FT",
+     "link": "https://seekingalpha.com/news/4673278-chevron-nears-5b-deal-for-blackstone-backed-beacon-offshore-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:21:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Chevron nears $5B deal for Blackstone-backed Beacon Offshore - FT"
+    },
+    {
+     "title": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.",
+     "link": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 21:18:00 GMT",
+     "summary": "Shares of Trump-backed USA Rare Earth slides 10% as analysts push out their sales estimates.",
+     "source": "MarketWatch",
+     "zh": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst."
+    },
+    {
+     "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+     "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 21:17:00 GMT",
+     "summary": "Investors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem.",
+     "source": "MarketWatch",
+     "zh": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies"
+    },
+    {
+     "title": "Customers of Chase, Bank of America and other U.S. banks report service outages",
+     "link": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 21:16:00 GMT",
+     "summary": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
+     "source": "MarketWatch",
+     "zh": "Customers of Chase, Bank of America and other U.S. banks report service outages"
     },
     {
      "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
@@ -2377,12 +2385,12 @@
      "zh": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports"
     },
     {
-     "title": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.",
-     "link": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 20:49:00 GMT",
-     "summary": "Shares of Trump-backed USA Rare Earth slides 10% as analysts push out their sales estimates.",
-     "source": "MarketWatch",
-     "zh": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst."
+     "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
+     "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
+     "pubDate": "Mon, 16 Nov 2026 20:48:37 GMT",
+     "summary": "State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’",
+     "source": "Financial Times",
+     "zh": "OpenAI sued by California over 80 ‘loss of control’ incidents"
     },
     {
      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
@@ -2409,26 +2417,10 @@
      "zh": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled."
     },
     {
-     "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
-     "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 20:24:00 GMT",
-     "summary": "“It’s hard to overstate the significance” of the Starship launch scheduled to take place on Friday, analyst says",
-     "source": "MarketWatch",
-     "zh": "SpaceX is about to attempt the ‘holy grail’ of rocketry"
-    },
-    {
-     "title": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
-     "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 20:17:00 GMT",
-     "summary": "Corporate-governance experts point to issues that would make a triumphant return difficult.",
-     "source": "MarketWatch",
-     "zh": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely."
-    },
-    {
      "title": "美股三大指数下跌 标普500跌超2% 芯片股集体下挫",
      "link": "http://finance.eastmoney.com/news/1345,202611163932124582.html",
      "pubDate": "Tue, 17 Nov 2026 03:47:09 +0800",
-     "summary": "美东时间周一，美股三大指数集体下跌，截至发稿， 道指跌1.59 %， 纳指跌2.64%，标普500指数跌2.11%。 芯片股集体下挫， 闪迪 、 ARM跌超7%， 英特尔 跌超6% ， 台积电 、 希捷科技 、 AMD 跌超5% ， 博通 、 西部数据 、 应用材料 跌超4%， 英伟达 跌超3%， 美国总统特朗普表示，不介意黄仁勋重新出任 英伟达 首席执行官 。 AI云服务公司走弱，Neibus、 CoreWeave 跌超6%， 甲骨文 跌超4%。 光 通信 板块走低，Lumentum跌超7%， Coherent、 迈威尔科技 、 康宁 跌超6%。 全球要闻 美银：10月中下旬以来NAND闪存",
+     "summary": "美东时间周一，美股三大指数集体下跌，截至收盘，道琼斯指数跌1.41%，标普500指数跌1.92%， 纳斯达克 综合 指数跌2.49%。 费城 半导体 指数重挫逾5%，其中 英伟达 跌超4%， 阿斯麦 跌近6%， 台积电 跌超6%， 泰瑞达 、 英特尔 、 美光科技 重挫超7%。 光 通信 板块跌幅居前，Lumentum、Ciena跌超8%， 迈威尔科技 跌超7%， 康宁 跌近7%。 消费零售股逆势走高， 麦当劳 涨1%， 沃尔玛 、 开市客 小幅跟涨。 纳斯达克 中国金龙指数收跌1.09%，DCX跌25.02%，JDZG跌24.67%， 爱奇艺 跌17.90%， 万国数据 跌14.82%， 世",
      "source": "东方财富股票",
      "zh": "美股三大指数下跌 标普500跌超2% 芯片股集体下挫"
     },
@@ -2481,14 +2473,6 @@
      "zh": "WTI原油期货收于每桶85.72美元，跌幅3.21%"
     },
     {
-     "title": "Market&apos;s Nvidia obsession obscuring an opportunity in this name",
-     "link": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
-     "pubDate": "Mon, 16 Nov 2026 18:56:49 GMT",
-     "summary": "Investors might be overlooking Disney earnings.",
-     "source": "CNBC",
-     "zh": "Market&apos;s Nvidia obsession obscuring an opportunity in this name"
-    },
-    {
      "title": "英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低",
      "link": "https://wallstreetcn.com/articles/3785999",
      "pubDate": "Tue, 17 Nov 2026 02:49:15 +0800",
@@ -2503,14 +2487,6 @@
      "summary": "",
      "source": "CNBC",
      "zh": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’"
-    },
-    {
-     "title": "特朗普支持黄仁勋回归，英伟达董事会称暂不考虑",
-     "link": "https://wallstreetcn.com/articles/3786042",
-     "pubDate": "Tue, 17 Nov 2026 02:28:13 +0800",
-     "summary": "英伟达股价周一震荡，特朗普公开表态支持黄仁勋重返CEO职位。 特朗普周一在白宫向记者表示，\"我不反对\"黄仁勋复职，并称\"很多人希望黄仁勋回来，这肯定不是个坏主意\"。他同时为黄仁勋辩护称，美国国家安全\"没有受到威胁\"。 随后，CNBC援引知情人士透露， 董事会目前的工作重心是针对黄仁勋的调查，并未就其重返公司进行任何讨论。英伟达已聘请法律事务所Wachtell Lipton主导调查，重点审查黄仁勋的行为是否危及国家安全或公司机密。 在特朗普发表上述言论期间，英伟达股价一度短暂转涨，随后继续下跌至-2%左右。CNBC相关报道发布后，英伟达股价持续下跌，截至发稿下跌4.5%。 英伟达董事会于上周五表",
-     "source": "华尔街见闻",
-     "zh": "特朗普支持黄仁勋回归，英伟达董事会称暂不考虑"
     }
    ]
   },

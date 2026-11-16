@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 06:52:20",
+ "generated_at": "2026/11/17 07:12:06",
  "recent_days": 7,
  "industries": [
   {
@@ -49,14 +49,6 @@
      "zh": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’"
     },
     {
-     "title": "5 Things That Break When AI Agents Start Acting on Their Own",
-     "link": "https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own",
-     "pubDate": "Mon, 16 Nov 2026 18:00:47 +0000",
-     "summary": "Five governance problems emerge when AI agents begin taking real-world actions, from unmanaged access and identity sprawl to approval bottlenecks and manual oversight.",
-     "source": "KDnuggets",
-     "zh": "5 Things That Break When AI Agents Start Acting on Their Own"
-    },
-    {
      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
      "pubDate": "Mon, 16 Nov 2026 17:36:43 +0000",
@@ -97,14 +89,6 @@
      "zh": "Building trustworthy AI by fencing it in, not predicting it"
     },
     {
-     "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
-     "link": "https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7",
-     "pubDate": "Mon, 16 Nov 2026 15:00:00 +0000",
-     "summary": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
-     "source": "KDnuggets",
-     "zh": "How to Give Claude Code Up-to-Date Documentation With Context7"
-    },
-    {
      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
      "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
      "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
@@ -127,14 +111,6 @@
      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
      "source": "MIT Tech Review AI",
      "zh": "Building AI that can work across the enterprise"
-    },
-    {
-     "title": "Agentic System Design: A Self-Study Roadmap",
-     "link": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
-     "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
-     "summary": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
-     "source": "KDnuggets",
-     "zh": "Agentic System Design: A Self-Study Roadmap"
     },
     {
      "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -247,6 +223,30 @@
      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
      "source": "OpenAI",
      "zh": "Our first phase of embedded assessments"
+    },
+    {
+     "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+     "link": "https://www.qbitai.com/2026/11/510493.html",
+     "pubDate": "Mon, 16 Nov 2026 07:58:57 +0000",
+     "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+     "source": "量子位",
+     "zh": "SuperLink2026开启创投行业超级链接时刻，12月北京见"
+    },
+    {
+     "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+     "link": "https://www.qbitai.com/2026/11/510486.html",
+     "pubDate": "Mon, 16 Nov 2026 07:51:57 +0000",
+     "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+     "source": "量子位",
+     "zh": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景"
+    },
+    {
+     "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+     "link": "https://www.qbitai.com/2026/11/510436.html",
+     "pubDate": "Mon, 16 Nov 2026 07:26:33 +0000",
+     "summary": "余承东重新明确分工",
+     "source": "量子位",
+     "zh": "余承东发布新款问界M8：38万元起售，全系预埋L3架构"
     }
    ]
   },
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Powering Automated Sites Without Oversizing: What Battery Storage Brings to Peak-Heavy Operations",
+     "link": "https://roboticsandautomationnews.com/2026/11/16/powering-automated-sites-without-oversizing-what-battery-storage-brings-to-peak-heavy-operations/107214/",
+     "pubDate": "Mon, 16 Nov 2026 23:01:25 +0000",
+     "summary": "Automated facilities have an unusual power profile. Robots, conveyors, charging stations and handling equipment draw modest power most of the time, then spike when several systems start together. The usual answer is to size the supply for the worst case, which means paying for capacity that sits idl",
+     "source": "Robotics & Automation",
+     "zh": "Powering Automated Sites Without Oversizing: What Battery Storage Brings to Peak-Heavy Operations"
+    },
+    {
      "title": "Richtech Robotics to unveil AI-powered cleaning system at ISSA Show 2026",
      "link": "https://roboticsandautomationnews.com/2026/11/16/richtech-robotics-to-unveil-ai-powered-cleaning-system-at-issa-show-2026/107210/",
      "pubDate": "Mon, 16 Nov 2026 18:57:21 +0000",
@@ -575,14 +583,6 @@
      "summary": "Google DeepMind has introduced Gemini Robotics 2.5, an updated vision-language-action (VLA) model designed to improve robots’ ability to perform complex physical tasks in industrial and everyday environments. The company says the new model expands the range of tasks robots can perform while improvin",
      "source": "Robotics & Automation",
      "zh": "Google DeepMind launches Gemini Robotics 2.5 with improved dexterity and industrial capabilities"
-    },
-    {
-     "title": "A3 Business Forum 2027 to examine economic outlook and automation industry trends",
-     "link": "https://roboticsandautomationnews.com/2026/11/15/a3-business-forum-2027-to-examine-economic-outlook-and-automation-industry-trends/107182/",
-     "pubDate": "Sun, 15 Nov 2026 18:46:34 +0000",
-     "summary": "As businesses plan for the year ahead, understanding market forces and identifying opportunities for growth are critical to success. The Association for Advancing Automation (A3) will bring industry leaders together to address these priorities at the A3 Business Forum 2027, taking place January 18-2",
-     "source": "Robotics & Automation",
-     "zh": "A3 Business Forum 2027 to examine economic outlook and automation industry trends"
     },
     {
      "title": "Why Skydio Built a Lopsided Drone",
@@ -724,7 +724,7 @@
      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
      "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
      "pubDate": "Mon, 16 Nov 2026 19:53:00 +0000",
-     "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+     "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
      "source": "TechCrunch Transport",
      "zh": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach"
     },
@@ -865,6 +865,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Uganda-Pushes-First-Oil-to-Mid-2027-as-Iran-War-Holds-Up-Equipment.html",
+     "pubDate": "Mon, 16 Nov 2026 17:00:00 -0600",
+     "summary": "Uganda’s dream to achieve its first commercial oil production and crude exports has been delayed yet again, extending the country’s wait to more than two decades since commercial oil reserves were first discovered in the country in 2006. Officials from the Uganda National Oil Company (UNOC) and the ",
+     "source": "OilPrice",
+     "zh": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment"
+    },
+    {
      "title": "Can Underwater Data Centers Escape the Land-Based Backlash?",
      "link": "https://oilprice.com/Energy/Energy-General/Can-Underwater-Data-Centers-Escape-the-Land-Based-Backlash.html",
      "pubDate": "Mon, 16 Nov 2026 16:00:00 -0600",
@@ -903,14 +911,6 @@
      "summary": "Diamondback Energy agreed on Monday to buy Double Eagle’s 40% share of their Midland Basin partnership for cash and stock that Reuters valued at about $5.03 billion, a purchase that gives it a bigger share of wells it had already planned to drill without adding a rig. Diamondback formed the partners",
      "source": "OilPrice",
      "zh": "Diamondback to Buy Double Eagle’s Midland Stake for $5 Billion"
-    },
-    {
-     "title": "The Hidden Cost Holding Back Europe’s Energy Innovators",
-     "link": "https://oilprice.com/Energy/Energy-General/The-Hidden-Cost-Holding-Back-Europes-Energy-Innovators.html",
-     "pubDate": "Mon, 16 Nov 2026 12:00:00 -0600",
-     "summary": "Europe’s debate about startups usually ends with the same prescription: become more like America. Find bigger venture capital funds, accept more risk, and produce more billion-dollar companies. For energy, that diagnosis is incomplete. Europe does not simply need more money flowing into ambitious te",
-     "source": "OilPrice",
-     "zh": "The Hidden Cost Holding Back Europe’s Energy Innovators"
     },
     {
      "title": "COP31 Leaders’ Summit Spotlights Electrification & Transition Away from Fossil Fuels",
@@ -1313,6 +1313,14 @@
    "total": 6,
    "items": [
     {
+     "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+     "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+     "pubDate": "Mon, 16 Nov 2026 22:05:23 +0000",
+     "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly ",
+     "source": "NASA",
+     "zh": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover"
+    },
+    {
      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
      "pubDate": "Mon, 16 Nov 2026 21:34:36 +0000",
@@ -1433,14 +1441,6 @@
      "zh": "Connecting Constellations: The Shift to Real-Time Space Operations"
     },
     {
-     "title": "The Last Ice on Puncak Jaya",
-     "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
-     "pubDate": "Mon, 16 Nov 2026 05:00:00 +0000",
-     "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
-     "source": "NASA",
-     "zh": "The Last Ice on Puncak Jaya"
-    },
-    {
      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
      "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
      "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
@@ -1536,6 +1536,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+     "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+     "pubDate": "Mon, 16 Nov 2026 17:54:00 -0500",
+     "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+     "source": "BleepingComputer",
+     "zh": "Gemini AI agents repeatedly bypassed safeguards to attack real website"
+    },
     {
      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
@@ -1639,14 +1647,6 @@
      "summary": "Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks. The post Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks"
-    },
-    {
-     "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-     "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-     "pubDate": "Mon, 16 Nov 2026 10:01:11 -0500",
-     "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. ",
-     "source": "BleepingComputer",
-     "zh": "7 Tips For Complying with CJIS Password and MFA Requirements"
     },
     {
      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
@@ -1753,6 +1753,62 @@
    "total": 18,
    "items": [
     {
+     "title": "United Airlines reports \"widespread system outage\" affecting departing flights but not flights in progress (Michele Luhn/CNBC)",
+     "link": "https://www.techmeme.com/261116/p45#a261116p45",
+     "pubDate": "Mon, 16 Nov 2026 17:58:46 -0500",
+     "summary": "Michele Luhn / CNBC : United Airlines reports &ldquo;widespread system outage&rdquo; affecting departing flights but not flights in progress &nbsp; &mdash;&nbsp; United Airlines on Monday reported a &ldquo;widespread system outage&rdquo; was affecting departing flights.&nbsp; &mdash;&nbsp; &ldquo;We",
+     "source": "Techmeme",
+     "zh": "United Airlines reports \"widespread system outage\" affecting departing flights but not flights in progress (Michele Luhn/CNBC)"
+    },
+    {
+     "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+     "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+     "pubDate": "Mon, 16 Nov 2026 22:58:27 +0000",
+     "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+     "source": "Ars Technica",
+     "zh": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse"
+    },
+    {
+     "title": "苹果宣布 iPhone Duo 适配优化 App 突破 20 万款，十天左右数量翻倍",
+     "link": "https://www.ithome.com/1/028/021.htm",
+     "pubDate": "Mon, 16 Nov 2026 22:51:56 GMT",
+     "summary": "IT之家 11 月 17 日消息，苹果全球营销高级副总裁格雷格 · 乔斯维亚克（Greg Joswiak）宣布，目前已有超过 20 万款应用针对 iPhone Duo 完成优化，较本月早些时候公布的 10 万款增长一倍。 他表示，开发者对 iPhone Duo 的支持速度超出预期，优化应用数量在一周多时间内实现翻倍，他期待开发者围绕这款设备推出更多应用体验。 据 MacRumors 报道，这一统计有明确的技术标准：应用需要使用 iOS 27.1 SDK 或更新版本构建，才能被计入针对 iPhone Duo 优化的应用。这类应用可以充分利用设备内外两块屏幕的宽度，并适配状态栏下方的纵向控制栏。 ",
+     "source": "IT之家",
+     "zh": "苹果宣布 iPhone Duo 适配优化 App 突破 20 万款，十天左右数量翻倍"
+    },
+    {
+     "title": "苹果 Apple Pay 和钱包业务换帅，26 年资深员工科里 · 富格曼接棒",
+     "link": "https://www.ithome.com/1/028/020.htm",
+     "pubDate": "Mon, 16 Nov 2026 22:44:09 GMT",
+     "summary": "IT之家 11 月 17 日消息，据彭博社昨天报道，苹果正持续调整管理层，资深员工科里 · 富格曼（Corey Fugman）将接替詹妮弗 · 贝利（Jennifer Bailey），出任 Apple Pay 和钱包业务部门负责人。 此前彭博社报道称，詹妮弗 · 贝利将于今年 10 月退休。自 Apple Pay 2014 年上线以来，她一直在此部门担任负责人。苹果服务业务负责人埃迪 · 库伊（Eddy Cue）当时表示，公司将在贝利离职前公布继任计划，她卸任后仍将以顾问身份协助交接工作。 10 月已经过去，苹果始终没有公开宣布相关人事安排。据悉，苹果已安排科里 · 富格曼接任 Apple P",
+     "source": "IT之家",
+     "zh": "苹果 Apple Pay 和钱包业务换帅，26 年资深员工科里 · 富格曼接棒"
+    },
+    {
+     "title": "特朗普：支持苹果库克执掌英伟达，但不介意黄仁勋回归",
+     "link": "https://www.ithome.com/1/028/019.htm",
+     "pubDate": "Mon, 16 Nov 2026 22:38:55 GMT",
+     "summary": "IT之家 11 月 17 日消息，当地时间 11 月 16 日在美国白宫接受 NBC News 等记者采访时， 美国总统特朗普表示不介意黄仁勋重新担任英伟达首席执行官，并称有不少人希望这位公司联合创始人回归。 被问及是否支持黄仁勋复职时，特朗普说：“我确实不介意看到这种情况。”他还表示，黄仁勋“吸取了一个很大的教训”。特朗普此前曾表示， 支持由苹果前首席执行官蒂姆 · 库克接替黄仁勋执掌英伟达 ，他在周一面对白宫记者时，再次提到了这一人选。 围绕黄仁勋可能回归的讨论正在持续。《金融时报》此前报道称，他已与亲信讨论重新出任首席执行官的可能性，部分商界人士也公开呼吁其复职。不过，据 CNBC 报道",
+     "source": "IT之家",
+     "zh": "特朗普：支持苹果库克执掌英伟达，但不介意黄仁勋回归"
+    },
+    {
+     "title": "United Airlines has a widespread system outage",
+     "link": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
+     "pubDate": "Mon, 16 Nov 2026 22:22:18 +0000",
+     "summary": "Article URL: https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff Comments URL: https://news.ycombinator.com/item?id=50524260 Points: 32 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "United Airlines has a widespread system outage"
+    },
+    {
+     "title": "How to Break into Security, Ptacek Edition",
+     "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+     "pubDate": "Mon, 16 Nov 2026 22:19:23 +0000",
+     "summary": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/ Comments URL: https://news.ycombinator.com/item?id=50524225 Points: 37 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "How to Break into Security, Ptacek Edition"
+    },
+    {
      "title": "拥抱100万亿美元的低碳机遇：胜利者、失利者、转型者与变革者",
      "link": "https://www.huxiu.com/article/4906096.html?f=rss",
      "pubDate": "Tue, 17 Nov 2026 06:15:14 +0800",
@@ -1761,12 +1817,28 @@
      "zh": "拥抱100万亿美元的低碳机遇：胜利者、失利者、转型者与变革者"
     },
     {
+     "title": "United Airlines Widespread System Outage",
+     "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+     "pubDate": "Mon, 16 Nov 2026 22:14:38 +0000",
+     "summary": "Article URL: https://www.cnn.com/2026/11/16/us/united-airlines-outage Comments URL: https://news.ycombinator.com/item?id=50524165 Points: 68 # Comments: 7",
+     "source": "Hacker News",
+     "zh": "United Airlines Widespread System Outage"
+    },
+    {
      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
      "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
      "pubDate": "Mon, 16 Nov 2026 22:12:31 +0000",
      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
      "source": "TechCrunch",
      "zh": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’"
+    },
+    {
+     "title": "法拉第未来 2026 财年前三季度归母亏损 8343.1 万美元，同比亏损收窄 76.64%",
+     "link": "https://www.ithome.com/1/028/018.htm",
+     "pubDate": "Mon, 16 Nov 2026 22:05:41 GMT",
+     "summary": "IT之家 11 月 17 日消息，法拉第未来今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：249.8 万美元，同比增长 513.76% 毛利润 ：-3065.4 万美元，同比亏损收窄 62.68% 毛利率 ：-1227.1%，同比亏损收窄 18955.2 个百分点 归母净利润 ：-8343.1 万美元，同比亏损收窄 76.64% 经营现金流 ：-7563.8 万美元，同比亏损收窄 4.46% 基本每股收益 ：-31",
+     "source": "IT之家",
+     "zh": "法拉第未来 2026 财年前三季度归母亏损 8343.1 万美元，同比亏损收窄 76.64%"
     },
     {
      "title": "A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug (Nate Raymond/Reuters)",
@@ -1785,12 +1857,36 @@
      "zh": "Three small failures combined to take down Microsoft 365"
     },
     {
+     "title": "Spamhaus new email sender requirements in November",
+     "link": "https://www.spamhaus.org/sender-guidelines/",
+     "pubDate": "Mon, 16 Nov 2026 21:47:19 +0000",
+     "summary": "Article URL: https://www.spamhaus.org/sender-guidelines/ Comments URL: https://news.ycombinator.com/item?id=50523784 Points: 39 # Comments: 27",
+     "source": "Hacker News",
+     "zh": "Spamhaus new email sender requirements in November"
+    },
+    {
      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
      "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
      "pubDate": "Mon, 16 Nov 2026 21:45:45 +0000",
      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
      "source": "WIRED",
      "zh": "The Bank Outage May Have Nothing to Do With Your Bank"
+    },
+    {
+     "title": "BugMeNot Has Closed",
+     "link": "https://www.bugmenot.com/",
+     "pubDate": "Mon, 16 Nov 2026 21:32:17 +0000",
+     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 140 # Comments: 76",
+     "source": "Hacker News",
+     "zh": "BugMeNot Has Closed"
+    },
+    {
+     "title": "OpenCode Browse",
+     "link": "https://opencode.ai/product/browse",
+     "pubDate": "Mon, 16 Nov 2026 21:20:37 +0000",
+     "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 37 # Comments: 16",
+     "source": "Hacker News",
+     "zh": "OpenCode Browse"
     },
     {
      "title": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic&apos;s IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)",
@@ -1833,12 +1929,12 @@
      "zh": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case"
     },
     {
-     "title": "Customers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays (Associated Press)",
+     "title": "Bank of America, Chase, Wells Fargo, and other US bank customers report online service issues; Chase blames a technical issue, not a cyber issue, for the delays (Associated Press)",
      "link": "https://www.techmeme.com/261116/p42#a261116p42",
      "pubDate": "Mon, 16 Nov 2026 15:20:02 -0500",
-     "summary": "Associated Press : Customers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays &nbsp; &mdash;&nbsp; Customers reported difficulty accessing the online accounts at some major banks Monday.&nbsp; Bank of Ame",
+     "summary": "Associated Press : Bank of America, Chase, Wells Fargo, and other US bank customers report online service issues; Chase blames a technical issue, not a cyber issue, for the delays &nbsp; &mdash;&nbsp; Customers reported difficulty accessing the online accounts at some major banks Monday.&nbsp; Bank ",
      "source": "Techmeme",
-     "zh": "Customers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays (Associated Press)"
+     "zh": "Bank of America, Chase, Wells Fargo, and other US bank customers report online service issues; Chase blames a technical issue, not a cyber issue, for the delays (Associated Press)"
     },
     {
      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
@@ -1857,14 +1953,6 @@
      "zh": "Supreme Court keeps injunction against DEI grant defunding in place"
     },
     {
-     "title": "When will humans actually fly on Starship?",
-     "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-     "pubDate": "Mon, 16 Nov 2026 19:46:08 +0000",
-     "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-     "source": "Ars Technica",
-     "zh": "When will humans actually fly on Starship?"
-    },
-    {
      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
      "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
      "pubDate": "Mon, 16 Nov 2026 19:26:55 +0000",
@@ -1881,28 +1969,12 @@
      "zh": "苹果 watchOS 27.3 开发者预览版 Beta 2 发布"
     },
     {
-     "title": "苹果 visionOS 27.3 开发者预览版 Beta 2 发布",
-     "link": "https://www.ithome.com/1/028/015.htm",
-     "pubDate": "Mon, 16 Nov 2026 19:19:21 GMT",
-     "summary": "IT之家 11 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24N5298d），本次更新距离上次发布 Beta/RC 间隔 13 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-11-10：visionOS 27.2.1 (24N124) 2026-10-27：visionOS 27.2 (24N120) 2026-10",
-     "source": "IT之家",
-     "zh": "苹果 visionOS 27.3 开发者预览版 Beta 2 发布"
-    },
-    {
-     "title": "苹果 macOS 27.3 开发者预览版 Beta 2 发布",
-     "link": "https://www.ithome.com/1/028/014.htm",
-     "pubDate": "Mon, 16 Nov 2026 19:19:21 GMT",
-     "summary": "IT之家 11 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.3 开发者预览版 Beta 2 更新（内部版本号：26C5047e），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件下载大全： 《 苹果 iOS / iP",
-     "source": "IT之家",
-     "zh": "苹果 macOS 27.3 开发者预览版 Beta 2 发布"
-    },
-    {
-     "title": "苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布",
+     "title": "苹果 iOS / iPadOS 27.3 开发者预览版 Beta 2 发布：为 iPhone Duo 加入外屏面部解锁功能",
      "link": "https://www.ithome.com/1/028/013.htm",
      "pubDate": "Mon, 16 Nov 2026 19:19:20 GMT",
-     "summary": "【 点此直达升级教程 】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24C5049d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 i",
+     "summary": "【 点此直达升级教程 】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24C5049d），本次更新距离上次发布 Beta / RC 间隔 13 天。 在新系统中，苹果为 iPhone Duo 折叠屏手机新增「使用前置摄像头解锁」选项。 开启后用户可以在使用外屏的情况下 ， 仅依靠 2D 面部识别 、 不依赖触控 ID 解锁设备 。 需要注意的是，这项功能仅支持外屏解锁，无法用于 Apple Pay 支付，也不能用于自动填充账号密码。 当您的手机展开内屏时 ， 系统仍会要求",
      "source": "IT之家",
-     "zh": "苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布"
+     "zh": "苹果 iOS / iPadOS 27.3 开发者预览版 Beta 2 发布：为 iPhone Duo 加入外屏面部解锁功能"
     },
     {
      "title": "Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft&apos;s voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)",
@@ -1913,84 +1985,12 @@
      "zh": "Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft&apos;s voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)"
     },
     {
-     "title": "California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards (Politico)",
+     "title": "California&apos;s AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards (Politico)",
      "link": "https://www.techmeme.com/261116/p40#a261116p40",
      "pubDate": "Mon, 16 Nov 2026 13:55:00 -0500",
-     "summary": "Politico : California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards &nbsp; &mdash;&nbsp; California Attorney General Rob Bonta is suing OpenAI over the cyberattack its rogue AI agents launched thi",
+     "summary": "Politico : California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards &nbsp; &mdash;&nbsp; California Attorney General Rob Bonta is suing OpenAI over the cyberattack its rogue AI agents launched this ",
      "source": "Techmeme",
-     "zh": "California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards (Politico)"
-    },
-    {
-     "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
-     "link": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
-     "pubDate": "Mon, 16 Nov 2026 18:26:26 +0000",
-     "summary": "Originally launching only with Touch ID, Apple’s folding phone now borrows a feature from the new HomeView and can recognize your mug, but it’s likely not as secure as Face ID.",
-     "source": "WIRED",
-     "zh": "The iPhone Duo Is Getting a Limited Version of Face ID"
-    },
-    {
-     "title": "OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)",
-     "link": "https://www.techmeme.com/261116/p39#a261116p39",
-     "pubDate": "Mon, 16 Nov 2026 13:10:01 -0500",
-     "summary": "Ivan Mehta / TechCrunch : OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children &nbsp; &mdash;&nbsp; OpenAI today announced new tools to combat child sexual abuse material (CSAM) amid growing saf",
-     "source": "Techmeme",
-     "zh": "OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)"
-    },
-    {
-     "title": "新任 007 演员官宣：“蝙蝠侠”罗伯特 · 帕丁森接棒，网友玩梗戏称新片为《007：黑暗骑士崛起》",
-     "link": "https://www.ithome.com/1/028/010.htm",
-     "pubDate": "Mon, 16 Nov 2026 17:43:18 GMT",
-     "summary": "IT之家 11 月 17 日消息，Prime Video 昨晚官宣， 新任 007 将由 40 岁的罗伯特 · 帕丁森饰演 。 目前，新片首曝预告片已播出。值得一提的是， 罗伯特 · 帕丁森还是史上首位同时出演蝙蝠侠和 007 詹姆斯 · 邦德的演员 。 有网友顺势玩梗，称新片可以命名为《007：黑暗骑士崛起》或《布鲁斯 · 韦恩在英国》 （梗解读：原著中，蝙蝠侠真实名字为布鲁斯 · 韦恩，该角色也被称为“黑暗骑士”。2012 年，由诺兰执导的剧情动作电影《蝙蝠侠：黑暗骑士崛起》上映） 。 IT之家查询获悉，《007》是英国系列谍战电影，改编自伊恩 · 弗莱明 1952 年创作的同名谍战小说。",
-     "source": "IT之家",
-     "zh": "新任 007 演员官宣：“蝙蝠侠”罗伯特 · 帕丁森接棒，网友玩梗戏称新片为《007：黑暗骑士崛起》"
-    },
-    {
-     "title": "消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查",
-     "link": "https://www.ithome.com/1/028/009.htm",
-     "pubDate": "Mon, 16 Nov 2026 17:16:43 GMT",
-     "summary": "IT之家 11 月 17 日消息，综合第一财经、鞭牛士报道，多位消息人士透露， 360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查 。截至发稿，360 方面暂未回应。 今年 8 月，360 集团宣布，为推进“安全 +AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。 消息人士还透露，除了卜思南涉案外， 内部或许还有相关人员被带走调查 。 IT之家查询获悉，卜思南是 360 集团副总裁、360 集团市场部负责人、360 数字安全集团教育事业部总经理、ISC 品牌主理人。卜思南早期负责集团市场战略、品牌生态建设，后",
-     "source": "IT之家",
-     "zh": "消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查"
-    },
-    {
-     "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
-     "link": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
-     "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
-     "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
-     "source": "WIRED",
-     "zh": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts"
-    },
-    {
-     "title": "AO3 Is Back. This Is Not a Drill",
-     "link": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
-     "pubDate": "Mon, 16 Nov 2026 16:40:33 +0000",
-     "summary": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
-     "source": "WIRED",
-     "zh": "AO3 Is Back. This Is Not a Drill"
-    },
-    {
-     "title": "“偷跑”的美国商务部新规",
-     "link": "https://www.huxiu.com/article/4906095.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 00:31:26 +0800",
-     "summary": "本文来自微信公众号： 敏大是一只柯基 ，作者：敏大的朋友们 我在上一篇文章里提到，考虑到中美峰会即将举行，美国政府大概率不会在这之前推出更为激进的限制中国AI行业的措施。哪知道文章刚写完，美国商务部就在官网挂出暂行最终规则，对印尼、新加坡等五国的先进芯片出口增设许可要求，限制中国企业远程使用海外算力，并对全球的数据中心增设实质性的合规义务。具体内容可以看东不压桥研究院的这一篇，我不再赘述。 但是，商务部的这份新规生效了吗？ 新规规定，自刊登于联邦公报（Federal Register）之日起生效。但到目前为止，它只是在商务部官网发布，还没有完成刊登联邦公报的程序，联邦公报定于2026年11月1",
-     "source": "虎嗅",
-     "zh": "“偷跑”的美国商务部新规"
-    },
-    {
-     "title": "Robert Pattinson 成为第七任 007",
-     "link": "https://www.solidot.org/story?sid=85905",
-     "pubDate": "Tue, 17 Nov 2026 00:18:40 +0800",
-     "summary": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听说过他的名字。亚马逊显然是希望由一名有强大票房号召力的明星领衔主演其首部 007 电影。",
-     "source": "Solidot",
-     "zh": "Robert Pattinson 成为第七任 007"
-    },
-    {
-     "title": "Jensen Huang Is Gone. Now What?",
-     "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-     "pubDate": "Mon, 16 Nov 2026 16:12:51 +0000",
-     "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-     "source": "WIRED",
-     "zh": "Jensen Huang Is Gone. Now What?"
+     "zh": "California&apos;s AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards (Politico)"
     }
    ]
   },
@@ -2000,6 +2000,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The charging mistakes that could ruin your Nintendo Switch's battery",
+     "link": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery/",
+     "pubDate": "Mon, 16 Nov 2026 23:00:00 +0000",
+     "summary": "To avoid turning your Nintendo Switch into just another stationary console, there are a few common and easy-to-overlook charging mistakes you'll want to avoid",
+     "source": "Engadget",
+     "zh": "The charging mistakes that could ruin your Nintendo Switch's battery"
+    },
+    {
+     "title": "Secure cloud storage is the cheaper, safer alternative to keeping files physical",
+     "link": "https://9to5google.com/2026/11/16/secure-cloud-storage-cheaper-safer-alternative-keeping-files-physical/",
+     "pubDate": "Mon, 16 Nov 2026 23:00:00 +0000",
+     "summary": "Physical storage and memory are only getting more expensive, but that doesn’t mean we need to store any less. The alternative solution is a secure cloud storage platform, and there’s really only one good option. more…",
+     "source": "9to5Google",
+     "zh": "Secure cloud storage is the cheaper, safer alternative to keeping files physical"
+    },
+    {
+     "title": "Here’s how Google Messages’ in-chat mini games will work",
+     "link": "https://www.androidauthority.com/google-messages-in-app-gaming-3735732/",
+     "pubDate": "Mon, 16 Nov 2026 22:51:51 +0000",
+     "summary": "Google Messages is preparing to add built-in games to rival iMessage.",
+     "source": "Android Authority",
+     "zh": "Here’s how Google Messages’ in-chat mini games will work"
+    },
     {
      "title": "United Airlines is experiencing a 'widespread system outage'",
      "link": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
@@ -2145,14 +2169,6 @@
      "zh": "In My Cart: The best early Black Friday deals we’re buying today"
     },
     {
-     "title": "AirPods Pro 3 drop back to their Prime Day price of $179",
-     "link": "https://www.androidauthority.com/deal-airpods-pro-3-amazon-3735729/",
-     "pubDate": "Mon, 16 Nov 2026 20:22:28 +0000",
-     "summary": "Apple's latest noise canceling earbuds are $70 off on Amazon, with heart rate sensing and Live Translation.",
-     "source": "Android Authority",
-     "zh": "AirPods Pro 3 drop back to their Prime Day price of $179"
-    },
-    {
      "title": "iPhone Duo now has twice as many optimized apps as it did 10 days ago",
      "link": "https://9to5mac.com/2026/11/16/iphone-duo-now-has-twice-as-many-optimized-apps-as-it-did-10-days-ago/",
      "pubDate": "Mon, 16 Nov 2026 20:18:40 +0000",
@@ -2175,14 +2191,6 @@
      "summary": "State AG Rob Bonta has accused the company of making AI agents \"without the safeguards and monitoring necessary to adequately protect\" users.",
      "source": "Engadget",
      "zh": "California sues OpenAI after that Hugging Face rogue hacking incident"
-    },
-    {
-     "title": "Which Google Pixel phone is most similar to the Galaxy S26+?",
-     "link": "https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/",
-     "pubDate": "Mon, 16 Nov 2026 19:30:00 +0000",
-     "summary": "Trying to choose between the Google Pixel 11 Pro and Samsung Galaxy S26+? We break down the specs, cameras and prices to help find the best one for you.",
-     "source": "Engadget",
-     "zh": "Which Google Pixel phone is most similar to the Galaxy S26+?"
     },
     {
      "title": "Samsung's Gentle Monster smart glasses pre-orders are already sold out",
@@ -2217,14 +2225,6 @@
      "zh": "Gemini rolling out 66 new regional voices on Android and iOS, including 10+ UK dialects"
     },
     {
-     "title": "Deals: Early Black Samsung now live – Galaxy Fold 8 $350 off, S26 Ultra $450 off, Tabs from $200, more",
-     "link": "https://9to5google.com/2026/11/16/deals-samsung-galaxy-fold-8-s26-ultra/",
-     "pubDate": "Mon, 16 Nov 2026 16:51:38 +0000",
-     "summary": "Amazon has now updated its wide-ranging early Black Friday sale with loads of new price drops and we are now tracking Samsung Galaxy Z Fold 8 back down at some of the lowest prices ever at $350 off (only a couple configurations have ever sold for less). Those offers join a massive $450 price drop on",
-     "source": "9to5Google",
-     "zh": "Deals: Early Black Samsung now live – Galaxy Fold 8 $350 off, S26 Ultra $450 off, Tabs from $200, more"
-    },
-    {
      "title": "Huawei Osta O1 Pro's live image leaks ahead of launch",
      "link": "https://www.gsmarena.com/huawei_osta_o1_pros_live_image_leaks_ahead_of_launch-news-75493.php",
      "pubDate": "Mon, 16 Nov 2026 17:11:02 +0100",
@@ -2249,12 +2249,116 @@
    "total": 13,
    "items": [
     {
-     "title": "United Airlines reports system outage affecting departing flights",
+     "title": "United Airlines resolves system outage that affected departing flights",
      "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-     "pubDate": "Mon, 16 Nov 2026 22:48:52 GMT",
-     "summary": "United Airlines said Monday that a widespread system outage was affecting departing flights.",
+     "pubDate": "Mon, 16 Nov 2026 23:08:01 GMT",
+     "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
      "source": "CNBC",
-     "zh": "United Airlines reports system outage affecting departing flights"
+     "zh": "United Airlines resolves system outage that affected departing flights"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年11月17日",
+     "link": "https://wallstreetcn.com/articles/3786055",
+     "pubDate": "Tue, 17 Nov 2026 07:04:49 +0800",
+     "summary": "华见早安之声 要闻精选 习近平 将同 俄罗斯总统普京 、 美国总统特朗普 举行 中俄美元首会晤 。 环球时报 社评： 中俄美元首即将会晤，释放强烈政治信号。 中国10月社零 同比增长0.4%，较上月下滑0.7个百分点 ， 规上工业增加值 增长同比 放缓至4.8% ，1至10月 固定资产投资 下降8.1% ，房 地产开发投资 下降21.6%。 特朗普 支持 黄仁勋 回归， 英伟达董事会 称 暂不考虑。 美联储主席沃什 ：美联储正为三种AI影响制定预案， 若泡沫破裂，或引发股市走弱并拖累经济与就业。 阿里、腾讯 新模型齐登场 ：Qwen4-Max单任务成本降58%，Hy4 flash降至竞品1/8",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年11月17日"
+    },
+    {
+     "title": "Do Amazon’s Black Friday deals really save you money? A new report claims they don’t.",
+     "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 23:04:00 GMT",
+     "summary": "Almost a third of Amazon Black Friday deals “provided no savings at all” in the last two years, a report says. The retailer is pushing back.",
+     "source": "MarketWatch",
+     "zh": "Do Amazon’s Black Friday deals really save you money? A new report claims they don’t."
+    },
+    {
+     "title": "Apaloosa adds Oracle, exits Advanced Micro, raises stake in NVIDIA, cuts in Alphabet among Q3 moves",
+     "link": "https://seekingalpha.com/news/4673369-apaloosa-adds-oracle-exits-advanced-micro-raises-stake-in-nvidia-cuts-in-alphabet-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 18:02:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apaloosa adds Oracle, exits Advanced Micro, raises stake in NVIDIA, cuts in Alphabet among Q3 moves"
+    },
+    {
+     "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+     "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+     "pubDate": "Mon, 16 Nov 2026 23:01:19 GMT",
+     "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+     "source": "CNBC",
+     "zh": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding"
+    },
+    {
+     "title": "Here are the major earnings before the open Tuesday",
+     "link": "https://seekingalpha.com/news/4672996-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 18:00:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "以下是周二开盘前的主要财报"
+    },
+    {
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 23:00:00 GMT",
+     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+     "source": "MarketWatch",
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
+     "title": "Dan Loeb's Third Point adds Meta, exits WBD, boosts SpaceX among Q3 trades",
+     "link": "https://seekingalpha.com/news/4673381-dan-loebs-third-point-adds-meta-exits-wbd-boosts-spacex-among-q3-trades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:56:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dan Loeb's Third Point adds Meta, exits WBD, boosts SpaceX among Q3 trades"
+    },
+    {
+     "title": "Terra Innovatum Global N.V. Q3 GAAP EPS of $0.55 beats by $0.60",
+     "link": "https://seekingalpha.com/news/4673395-terra-innovatum-global-nv-q3-gaap-eps-of-055-beats-by-060?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:56:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Terra Innovatum Global N.V. Q3 GAAP EPS of $0.55 beats by $0.60"
+    },
+    {
+     "title": "Paulson & Co. adds NovaGold Resources, exits Alphabet, among Q3 moves",
+     "link": "https://seekingalpha.com/news/4673384-paulson-co-adds-novagold-resources-exits-alphabet-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:52:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Paulson & Co. adds NovaGold Resources, exits Alphabet, among Q3 moves"
+    },
+    {
+     "title": "M&T Bank raises dividend by 20% to $1.80",
+     "link": "https://seekingalpha.com/news/4673393-mt-bank-raises-dividend-by-20-to-180?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:52:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "M&T Bank raises dividend by 20% to $1.80"
+    },
+    {
+     "title": "【环球财经】中国特色农产品亮相迪拜 探寻中东市场新机遇",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932242248.html",
+     "pubDate": "Tue, 17 Nov 2026 06:50:43 +0800",
+     "summary": "新华财经迪拜11月17日电（记者王泽聪）当地时间11月16日，2026年中东有机及天然产品博览会在阿联酋迪拜世界贸易中心开幕。农业农村部农业贸易促进中心（以下简称“贸促中心”）组织中国农业国家展团参展，同期举办2026年中国 农产品 中东地区（阿联酋）供采对接活动，助力我国优势特色 农产品 与农业品牌深耕中东市场。阿联酋气候变化与环境部助理次长穆罕默德·哈马迪、中国驻阿联酋大使馆赵亮公使等中外嘉宾到展区参观，同参展企业交流。 本次参展是中国农业国家展团继2025年首次亮相后，连续第二年参加该展会。来自河南、宁夏、河北、湖北等省份的10余家农食企业组团参展，展品涵盖枸杞、山药制品、宜昌柑橘、冻干",
+     "source": "东方财富股票",
+     "zh": "【环球财经】中国特色农产品亮相迪拜 探寻中东市场新机遇"
+    },
+    {
+     "title": "富国银行：预计标普500指数2027年底将达8200点",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932242022.html",
+     "pubDate": "Tue, 17 Nov 2026 06:49:18 +0800",
+     "summary": "富国银行 首席股票策略师Ohsung Kwon将标普500指数的2027年年底目标价定为8200点，在目前已发布预测的华尔街策略师中最低。该目标较周一收盘价有11%的上涨空间，较其2026年年底目标价7700点上涨6.5%。Kwon指出，利润增长放缓、中性利率、投资者情绪低迷以及充满挑战的经济环境是主要考量因素。针对2027年股市面临的最大不确定性，Kwon认为，市场对AI交易能否经受挑战的讨论最为激烈，但他表示，经过数月调整，许多风险已被计入股价——包括支撑AI支出的巨额收入需求、堪比90年代电信泡沫的杠杆水平，以及对 数据中心 的政治阻力。他看好超大规模云服务商，对AI基础设施股持中性态度",
+     "source": "东方财富股票",
+     "zh": "富国银行：预计标普500指数2027年底将达8200点"
+    },
+    {
+     "title": "1至10月四川840个省重点项目完成投资超过8000亿元",
+     "link": "http://finance.eastmoney.com/news/1350,202611173932241522.html",
+     "pubDate": "Tue, 17 Nov 2026 06:48:20 +0800",
+     "summary": "新华财经成都11月17日电（记者袁波）记者16日从四川省发展改革委获悉，今年1至10月，四川840个省重点项目完成投资超过8000亿元、年度投资完成率超过100%。 四川省发展改革委副主任、新闻发言人陶剑锋介绍，四川主要从“完善机制、搭建平台、优化服务”三个方面重点发力。 一是完善机制，把项目从谋划到投产的全过程管起来。四川修订印发《四川省重点项目管理办法》，健全“项目跟着规划走”的体制机制，让重点项目能滚动实施、接续转化。围绕“六个一批”抓项目，着力抓好“有根产业、有效投资、有持续税源”项目。同时出台重点项目申报指导目录，引导各地各部门紧扣国家“十五五”规划纲要109项重大工程政策导向，精准",
+     "source": "东方财富股票",
+     "zh": "1至10月四川840个省重点项目完成投资超过8000亿元"
     },
     {
      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
@@ -2265,36 +2369,28 @@
      "zh": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball"
     },
     {
-     "title": "GAAP EPS of -$0.09, revenue of $0.97M",
-     "link": "https://seekingalpha.com/news/4673385-gaap-eps-of-0_09-revenue-of-0_97m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:43:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GAAP EPS of -$0.09, revenue of $0.97M"
-    },
-    {
-     "title": "【读财报】上市猪企10月销量同比降超15% 正虹科技、神农集团等逆势增长",
-     "link": "http://finance.eastmoney.com/news/1354,202611173932239573.html",
-     "pubDate": "Tue, 17 Nov 2026 06:42:04 +0800",
-     "summary": "新华财经北京11月17日电新华财经和面包财经研究员在剔除部分数据披露不全的上市猪企后，以沪、深两大交易所主要上市 生猪养殖 企业为样本，分别统计其生猪销售收入、销量。 从上市猪企的销售数据来看，统计结果显示，2026年10月16家 生猪养殖 企业合计实现生猪销量1432.44万头（未包括 傲农生物 ），同比下降15.78%。其中， 牧原股份 、 温氏股份 、 新希望 的销量超过100万头， 正虹科技 、 神农集团 月度销量增速相对居前。 收入方面，16家 生猪养殖 企业10月合计实现收入166.24亿元，同比下降25.08%。其中， 金新农 、 唐人神 、 大北农 、 华统股份 等同比降超40",
+     "title": "美国国务院：美国国务卿鲁比奥在与巴林外交大臣通话中谴责伊朗对巴林的袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932240778.html",
+     "pubDate": "Tue, 17 Nov 2026 06:45:18 +0800",
+     "summary": "美国国务院：美国国务卿鲁比奥在与巴林外交大臣通话中谴责伊朗对巴林的袭击，并重申对巴林安全的承诺。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "【读财报】上市猪企10月销量同比降超15% 正虹科技、神农集团等逆势增长"
+     "zh": "美国国务院：美国国务卿鲁比奥在与巴林外交大臣通话中谴责伊朗对巴林的袭击"
     },
     {
-     "title": "FibroBiologics reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673383-fibrobiologics-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:41:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FibroBiologics reports Q3 results"
+     "title": "“芯片美元”正在崛起！德银：亚洲芯片贸易顺差涌入美股成美元新支柱",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932242362.html",
+     "pubDate": "Tue, 17 Nov 2026 06:44:57 +0800",
+     "summary": "德意志银行 认为，亚洲芯片贸易顺差不断扩大，正成为支撑美元的一股力量，因为相关收益正越来越多地重新投入美国股市。芯片制造业集中在亚洲。随着 人工智能 (AI)热潮兴起，亚洲芯片贸易顺差也大幅增长。 德意志银行 策略师Mallika Sachdeva在周一的一份报告中表示，投资者正将这些贸易顺差资金重新投入美国股票市场，由此形成的资本流动为美元提供了支撑。 Mallika Sachdeva表示，外国资金流入美国股市的规模每年已超过1万亿美元，并已成为美国弥补资金缺口的主要来源。她补充称，过去一年新增的资金流入大部分来自亚洲。 Mallika Sachdeva表示：“股票资金流动不仅一直在支撑美元",
+     "source": "东方财富股票",
+     "zh": "“芯片美元”正在崛起！德银：亚洲芯片贸易顺差涌入美股成美元新支柱"
     },
     {
-     "title": "PicS reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673382-pics-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:40:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PicS reports Q3 results"
+     "title": "伯纳姆：英国与欧洲建立新关系尚需时日",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932241950.html",
+     "pubDate": "Tue, 17 Nov 2026 06:44:57 +0800",
+     "summary": "英国首相伯纳姆表示，英国与欧盟关系的任何重大调整都“需要时间”，相关安排不会在英国下一次大选之前实施。伯纳姆周一在面向伦敦金融城高层的外交政策演讲中，为周五布鲁塞尔的欧盟领导人峰会定下预期。他说，本次峰会将开启双方就英欧未来关系的正式谈判，但任何大幅逆转2016年脱欧公投结果的行动，都只能延后推进。“我们会和欧盟伙伴启动磋商，探讨长期关系的各类方案，我们清楚英国和欧盟如今都和当年大不相同。”伯纳姆在伦敦市长大礼服晚宴上说道，“这需要时间，我们会整理这些方案以及评估意见，供下一届议会决策参考。” （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "伯纳姆：英国与欧洲建立新关系尚需时日"
     },
     {
      "title": "桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊",
@@ -2305,76 +2401,12 @@
      "zh": "桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊"
     },
     {
-     "title": "Gilead grants voluntary licensing agreements for experimental Ebola antiviral",
-     "link": "https://seekingalpha.com/news/4673377-gilead-grants-voluntary-licensing-agreements-experimental-ebola-antiviral?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:40:13 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gilead grants voluntary licensing agreements for experimental Ebola antiviral"
-    },
-    {
-     "title": "Pershing Square adds Alcon, increases Netflix, and exits Hertz, among Q3 moves",
-     "link": "https://seekingalpha.com/news/4673371-pershing-square-adds-alcon-increases-netflix-exits-hertz-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:39:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pershing Square adds Alcon, increases Netflix, and exits Hertz, among Q3 moves"
-    },
-    {
-     "title": "俄罗斯方面表示 乌克兰袭击了克里米亚大桥",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932239657.html",
-     "pubDate": "Tue, 17 Nov 2026 06:39:17 +0800",
-     "summary": "俄罗斯方面表示，乌克兰袭击了克里米亚大桥。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯方面表示 乌克兰袭击了克里米亚大桥"
-    },
-    {
-     "title": "Genelux GAAP EPS of -$0.23 misses by $0.03",
-     "link": "https://seekingalpha.com/news/4673380-genelux-gaap-eps-of-0_23-misses-by-0_03?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:37:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Genelux GAAP EPS of -$0.23 misses by $0.03"
-    },
-    {
      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
      "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
      "pubDate": "Mon, 16 Nov 2026 22:37:45 GMT",
      "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
      "source": "CNBC",
      "zh": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access"
-    },
-    {
-     "title": "以色列军方：已收到关于在被占领的约旦河西岸杰里科地区发生未遂袭击的报告",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932239747.html",
-     "pubDate": "Tue, 17 Nov 2026 06:36:43 +0800",
-     "summary": "以色列军方：已收到关于在被占领的约旦河西岸杰里科地区发生未遂袭击的报告，士兵已派往现场。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "以色列军方：已收到关于在被占领的约旦河西岸杰里科地区发生未遂袭击的报告"
-    },
-    {
-     "title": "多重因素压制金价上涨 机构对后市看法产生分歧",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932239313.html",
-     "pubDate": "Tue, 17 Nov 2026 06:36:31 +0800",
-     "summary": "美国最新通胀数据公布后，国际金价近期再起波澜。美元走强、美债收益率上行以及市场对美联储进一步加息的预期，共同压制金价表现。Wind数据显示，11月16日，伦敦金现货价格盘中一度跌至3832.23美元/盎司，创2025年10月3日以来新低。近期，国际机构对金价走势作出最新研判。 高盛 下调今明两年年末金价预测，瑞银则继续看好 黄金 中长期配置价值。机构认为，较高的利率和强势美元仍是 黄金 面临的短期压力，央行购金与储备多元化需求则构成中长期支撑。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "多重因素压制金价上涨 机构对后市看法产生分歧"
-    },
-    {
-     "title": "山鹰国际首次拉响面值退市警报 刚被证监会立案的实控人连任董事长",
-     "link": "http://finance.eastmoney.com/news/1354,202611173932239155.html",
-     "pubDate": "Tue, 17 Nov 2026 06:35:59 +0800",
-     "summary": "山鹰国际 （600567.SH）11月16日披露《关于公司股票存在可能因股价低于1元而终止上市的首次风险提示公告》。公司股票当日收盘价为0.94元/股，首次低于人民币1元。根据相关规定，如果公司股票连续20个交易日的每日股票收盘价均低于人民币1元，公司股票可能被上交所终止上市交易。 该公告为公司可能触发交易类强制退市的第一次终止上市风险提示公告。 公告还表示，公司实际控制人、董事长吴明武于11月3日收到中国证监会出具的《立案告知书》。因涉嫌内幕交易和短线交易，证监会决定对吴明武立案。 “公司董事会正在积极敦促管理层努力采取相应有效的措施，积极做好经营管理、市值管理等各方面工作，并持续关注公司股",
-     "source": "东方财富股票",
-     "zh": "山鹰国际首次拉响面值退市警报 刚被证监会立案的实控人连任董事长"
-    },
-    {
-     "title": "香港开放补足税报税表提交 中资跨国企业进入实质申报阶段",
-     "link": "http://finance.eastmoney.com/news/1346,202611173932239060.html",
-     "pubDate": "Tue, 17 Nov 2026 06:35:59 +0800",
-     "summary": "进入第四季度以来，支柱二进展持续受到市场关注。支柱二是OECD（经济合作与发展组织）/G20（二十国集团）包容性框架下的全球最低税规则，要求年收入达到7.5亿欧元门槛的大型跨国集团在各经营辖区的有效税率不低于15%，低于15%的部分按QDMTT（合格国内最低补足税）、IIR（收入纳入规则）和UTPR（低税支付规则）顺序征收补足税。 截至目前，全球已有超过60个辖区完成支柱二立法。对中资跨国集团而言，香港和新加坡是海外投资和区域总部的主要平台，两地均将QDMTT作为优先落地项，并自2025年起已将支柱二纳入实施范围。 相比新加坡，香港率先迈出补足税申报第一步。2026年10月26日，香港税务局正",
-     "source": "东方财富股票",
-     "zh": "香港开放补足税报税表提交 中资跨国企业进入实质申报阶段"
     },
     {
      "title": "索罗斯家族办公室领衔减持英伟达，黄仁勋离任前顶级富豪们已悄然套现",
@@ -2409,14 +2441,6 @@
      "zh": "避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高"
     },
     {
-     "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-     "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-     "pubDate": "Mon, 16 Nov 2026 22:22:52 GMT",
-     "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-     "source": "CNBC",
-     "zh": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding"
-    },
-    {
      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 22:21:00 GMT",
@@ -2449,14 +2473,6 @@
      "zh": "JPMorgan Chase says temporary software bug is affecting consumer banking"
     },
     {
-     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 22:08:00 GMT",
-     "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-     "source": "MarketWatch",
-     "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
-    },
-    {
      "title": "11月17日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
      "link": "http://finance.eastmoney.com/news/11060,202611173932221212.html",
      "pubDate": "Tue, 17 Nov 2026 06:03:33 +0800",
@@ -2471,22 +2487,6 @@
      "summary": "每日精选 习近平在广东中山考察： 中共中央总书记、国家主席、中央军委主席习近平16日在广东省中山市考察时强调，深入学习贯彻党的二十届五中全会精神，把全会作出的各项决策部署不折不扣落到实处，以持之以恒推进全面从严治党的新成效， 更好推动珠江口东西两岸融合发展，奋力开创粤港澳大湾区高质量发展新局面 。 外交部谈中俄美元首会晤 ： 外交部发言人毛宁11月16日主持例行记者会。总台央视记者提问：中方发布了中俄美三国元首深圳会晤的消息。能否介绍会晤安排及中方对会晤的期待？毛宁表示，这是中俄美三国元首历史上首次面对面会晤， 将围绕维护世界和平、促进大国关系战略稳定深入交换意见，具有开创性意义 。中俄美加强",
      "source": "东方财富资讯",
      "zh": "东方财富财经早餐 11月17日周二"
-    },
-    {
-     "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
-     "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
-     "pubDate": "Mon, 16 Nov 2026 21:58:59 GMT",
-     "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
-     "source": "Financial Times",
-     "zh": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade"
-    },
-    {
-     "title": "微软全球服务宕机调查：一个潜伏四个月的漏洞，15小时才发现问题所在",
-     "link": "https://wallstreetcn.com/articles/3786050",
-     "pubDate": "Tue, 17 Nov 2026 05:56:41 +0800",
-     "summary": "微软一个隐藏长达四个月的系统漏洞， 在上周引发了一场波及全球的服务中断事故 ，暴露出高度依赖单一科技供应商的潜在风险。 此次事故始于11月11日的一次例行流量调配操作，直至次日上午11时30分——即美国企业流量高峰期——微软才意识到问题的严重性。 此后，公司又耗费约15小时排查故障并着手部署修复方案，导致众多企业和政府客户工作陷入停滞。在事故最严重时段，Outlook后台超过80%的服务器处于无响应状态，Teams视频会议邀请消失，员工不得不转而依赖电话和纸笔维持工作。 微软负责职场软件业务的执行副总裁Charles Lamanna周一在X平台发文，就此次宕机事件正式道歉。截至发稿，微软周一盘",
-     "source": "华尔街见闻",
-     "zh": "微软全球服务宕机调查：一个潜伏四个月的漏洞，15小时才发现问题所在"
     }
    ]
   },

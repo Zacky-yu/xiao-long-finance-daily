@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/16 11:18:32",
+ "generated_at": "2026/11/16 11:31:50",
  "recent_days": 7,
  "industries": [
   {
@@ -1020,7 +1020,7 @@
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1039,14 +1039,6 @@
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1095,6 +1087,14 @@
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1745,6 +1745,102 @@
    "total": 18,
    "items": [
     {
+     "title": "全球34%游戏从业者近两年遭遇裁员，54%至今未找到新工作，27%投简历超过百份",
+     "link": "https://www.tmtpost.com/8206296.html",
+     "pubDate": "Mon, 16 Nov 2026 11:25:54 +0800",
+     "summary": "游戏行业的人才市场仍未走出寒冬。",
+     "source": "钛媒体",
+     "zh": "全球34%游戏从业者近两年遭遇裁员，54%至今未找到新工作，27%投简历超过百份"
+    },
+    {
+     "title": "拆飞机供电？AI公司的算力焦虑已经卷到电力端",
+     "link": "https://www.tmtpost.com/8206355.html",
+     "pubDate": "Mon, 16 Nov 2026 11:25:49 +0800",
+     "summary": "订单排到2031年，AI巨头被逼向民航退役航发 \"借电\"。",
+     "source": "钛媒体",
+     "zh": "拆飞机供电？AI公司的算力焦虑已经卷到电力端"
+    },
+    {
+     "title": "光伏企业去COP31，为什么讲的是非洲矿区的柴油账？",
+     "link": "https://www.tmtpost.com/8206378.html",
+     "pubDate": "Mon, 16 Nov 2026 11:25:44 +0800",
+     "summary": "COP31气候融资存分歧，中企展示离网微电网与气候韧性系统；光伏降本显著但行业薄利，政策重心转向消纳与零碳园区。",
+     "source": "钛媒体",
+     "zh": "光伏企业去COP31，为什么讲的是非洲矿区的柴油账？"
+    },
+    {
+     "title": "《欧洲卡车模拟 2》游戏 Steam 同时在线玩家数首破 10 万，刷新历史纪录",
+     "link": "https://www.ithome.com/1/027/577.htm",
+     "pubDate": "Mon, 16 Nov 2026 03:22:58 GMT",
+     "summary": "IT之家 11 月 16 日消息，SteamDB 数据显示， 经典游戏《欧洲卡车模拟 2》今日在 Steam 平台的同时在线玩家数首次突破 10 万 ，刷新历史记录。 IT之家了解到，《欧洲卡车模拟 2》是 SCS Software 开发的一款交通工具模拟游戏，最初发行于 2012 年 10 月 19 日。本作以一个浓缩版的欧洲为背景，玩家可以驾驶 平头式半挂卡车 运输和交付各种货物，经营自己的运输公司，并管理和维护获得授权的卡车及客车组成的车队。 此外，开发商已在本月初为《欧洲卡车模拟 2》推出“客车”DLC，玩家将放下货物转而载客，踏上成为专业长途客车驾驶员的全新旅程。首发带来 3 款获得",
+     "source": "IT之家",
+     "zh": "《欧洲卡车模拟 2》游戏 Steam 同时在线玩家数首破 10 万，刷新历史纪录"
+    },
+    {
+     "title": "高德发布“云控红绿灯”系统：可根据车流调整配时，北京率先试点",
+     "link": "https://www.ithome.com/1/027/576.htm",
+     "pubDate": "Mon, 16 Nov 2026 03:20:21 GMT",
+     "summary": "IT之家 11 月 16 日消息，11 月 16 日，高德宣布正式发布“云控红绿灯”系统， 可让红绿灯根据车流调整配时 ，减少路口红灯等待。目前，高德已与北京交警合作，在北京朝阳、丰台等区域落地该系统，覆盖近百个路口。实测数据显示，经优化后， 路口行驶车辆平均停车时长下降 19.4% ，通行效率平均提升 19%。 以往，许多路口主要依靠预设方案控制红绿灯。当早晚高峰车流激增，某个方向突然排起长队时，原有方案未必能及时响应变化，容易出现车多的方向要等几轮红灯才能通过，车少的方向亮着绿灯却没几辆车的情况。 IT之家从官方介绍获悉，云控红绿灯系统要做的，就是让红绿灯配时更符合真实车流。该系统依托高德",
+     "source": "IT之家",
+     "zh": "高德发布“云控红绿灯”系统：可根据车流调整配时，北京率先试点"
+    },
+    {
+     "title": "Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction (Bradley C/9to5Mac)",
+     "link": "https://www.techmeme.com/261115/p23#a261115p23",
+     "pubDate": "Sun, 15 Nov 2026 22:20:01 -0500",
+     "summary": "Bradley C / 9to5Mac : Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction &nbsp; &mdash;&nbsp; Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform.&nbsp; Mosyle i",
+     "source": "Techmeme",
+     "zh": "Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction (Bradley C/9to5Mac)"
+    },
+    {
+     "title": "小菜园掉入了“翻台率陷阱”",
+     "link": "https://www.tmtpost.com/8206371.html",
+     "pubDate": "Mon, 16 Nov 2026 11:19:39 +0800",
+     "summary": "翻台率和盈利能力偏离。",
+     "source": "钛媒体",
+     "zh": "小菜园掉入了“翻台率陷阱”"
+    },
+    {
+     "title": "一对“蛙蛇”涨粉百万，动物CP扎堆出道，萌系AI动画起风了？",
+     "link": "https://www.tmtpost.com/8206367.html",
+     "pubDate": "Mon, 16 Nov 2026 11:19:30 +0800",
+     "summary": "当技术红利退去，内容本身的故事力与IP的魅力，才是决定这条赛道能走多远的核心变量。",
+     "source": "钛媒体",
+     "zh": "一对“蛙蛇”涨粉百万，动物CP扎堆出道，萌系AI动画起风了？"
+    },
+    {
+     "title": "从华为剥离五年，超聚变募80亿冲IPO，服务器老二为何盯上能源？算力下一战，拼的是供电",
+     "link": "https://www.tmtpost.com/8206373.html",
+     "pubDate": "Mon, 16 Nov 2026 11:19:25 +0800",
+     "summary": "超聚变拟募80亿，将供电架构单列成新业务线。",
+     "source": "钛媒体",
+     "zh": "从华为剥离五年，超聚变募80亿冲IPO，服务器老二为何盯上能源？算力下一战，拼的是供电"
+    },
+    {
+     "title": "华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码",
+     "link": "https://www.ithome.com/1/027/574.htm",
+     "pubDate": "Mon, 16 Nov 2026 03:16:33 GMT",
+     "summary": "IT之家 11 月 16 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 今日最新公开了智能音视频处理能力的情报 。 据介绍，华为麒麟 9050 系列芯片搭载新一代音视频处理器， 音频性能提升 30% ，支持新一代音频 DSP、H.266 视频硬解码和低延迟 AI 异构协同计算。 通过 DSP+NPU 异构协同，麒麟 9050 系列带来 AI 静谧通话功能； 率先支持 H.266 硬解码 ，对比 H.265，弱网直播卡顿降低 50-70%、 同网速下分辨率提升一档 、同分辨率下播放时长提升 2-3 小时。 据IT之家此前报道，今年 10 月",
+     "source": "IT之家",
+     "zh": "华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码"
+    },
+    {
+     "title": "效率提升 300%，长安汽车数实融合无人化测试系统亮相",
+     "link": "https://www.ithome.com/1/027/573.htm",
+     "pubDate": "Mon, 16 Nov 2026 03:14:11 GMT",
+     "summary": "IT之家 11 月 16 日消息，据长安汽车官方，近日召开的 2026 世界智能网联汽车大会上，由长安汽车牵头， 国汽智控 、赛目科技等共同打造的全球首例车路云一体化数实融合无人化试验场配套测试系统，在“车路云一体化”城市实践与应用展区正式展出。 据介绍，该测试系统以大模型为核心驱动，打通数字仿真与物理场地边界，具备场景智能生成、全要素无人化执行、数实双向映射、云端实时调度四大核心能力， 支撑 L2-L4 级车型验证 ，为 AEB 、NOA 等关键功能量产提供高效低成本的验证保障，推动测试范式从“人控”迈向“云控”，是长安汽车面向高阶辅助驾驶安全验证打造的全新基础设施。依托该系统，长安汽车测试",
+     "source": "IT之家",
+     "zh": "效率提升 300%，长安汽车数实融合无人化测试系统亮相"
+    },
+    {
+     "title": "科幻电影《沙丘》《沙丘 2》宣布 11 月 27 日、12 月 4 日起在中国内地重映",
+     "link": "https://www.ithome.com/1/027/572.htm",
+     "pubDate": "Mon, 16 Nov 2026 03:12:56 GMT",
+     "summary": "IT之家 11 月 16 日消息，科幻电影《沙丘 3》 将于 12 月 31 日在中国内地上映，是《沙丘》系列三部曲最终篇。 电影《沙丘 3》官方今日宣布， 《沙丘》、《沙丘 2》迎来重映 ，两部系列前作将于 11 月 27 日、12 月 4 日起重返大银幕，更有电影《沙丘 3》精彩片段先睹为快。 官方介绍称，电影《沙丘》、《沙丘 2》将于 11 月 27 日、12 月 4 日起开启 IMAX 与 CINITY 制式重映 ，“沙丘月”系列活动正式拉开序幕，带来院线重映、专属物料、艺人问候、跨年仪式等。 《沙丘 3》将由丹尼斯・维伦纽瓦继续执导，提莫西・查拉梅、赞达亚、弗洛伦斯・皮尤、安雅・泰勒",
+     "source": "IT之家",
+     "zh": "科幻电影《沙丘》《沙丘 2》宣布 11 月 27 日、12 月 4 日起在中国内地重映"
+    },
+    {
      "title": "AI，怎么就成专业公敌了",
      "link": "https://www.huxiu.com/article/4905842.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 11:12:42 +0800",
@@ -1761,12 +1857,12 @@
      "zh": "从Muse、Instinct 出发，拆解Personal Agent 的真实需求与落地场景"
     },
     {
-     "title": "奥睿科推出 FlashMem FM9800 固态硬盘，配备 pSLC AI Cache 区域",
-     "link": "https://www.ithome.com/1/027/552.htm",
-     "pubDate": "Mon, 16 Nov 2026 02:53:51 GMT",
-     "summary": "IT之家 11 月 16 日消息，ORICO（奥睿科）本月 13 日宣布推出 FlashMem FM9800 固态硬盘。这一型号基于 3D TLC NAND， 部分闪存配置为 pSLC 模式 ，形成 AI Cache 区域，两部分采用独立的磨损策略与读写调度机制。 FlashMem FM9800 采用 M.2 2280 外形规格，支持 PCIe Gen5，覆盖石墨烯导热贴， 提供 768GB + 85GB 和 1638GB + 128GB 两个版本 。 该固态硬盘的 AI Cache 可承接 AI 模型权重、上下文、本地推理中间数据 ，配合 AI 存储中间件及 Herdsman 本地推理引擎，",
+     "title": "全新零跑 Lafa5 展车到店，将于 2026 广州车展上市",
+     "link": "https://www.ithome.com/1/027/555.htm",
+     "pubDate": "Mon, 16 Nov 2026 02:59:16 GMT",
+     "summary": "IT之家 11 月 16 日消息，零跑汽车今日宣布，高颜值智能轿跑全新零跑 Lafa5 即将上市，现已抵达全国门店。 据此前公开消息，零跑新款 Lafa5 将在 11 月 27 日开幕的 2026 广州车展上正式上市 。新车的升级项目包括 800V 高压平台、AR-HUD、零重力座椅、全车 14 扬声器、17.3 英寸中控屏等，其余配置仍待公布，预计与现款车型大部分保持一致。 作为参考，现款 Lafa5 于去年 12 月开启全国交付。零跑 Lafa 5 定位为纯电两厢紧凑型车，基于 LEAP 3.5 架构 B 平台打造，CLTC 纯电续航里程分别为 515km 和 605km，高配车型搭载有激",
      "source": "IT之家",
-     "zh": "奥睿科推出 FlashMem FM9800 固态硬盘，配备 pSLC AI Cache 区域"
+     "zh": "全新零跑 Lafa5 展车到店，将于 2026 广州车展上市"
     },
     {
      "title": "大投诉时代，人人都有点委屈",
@@ -1777,36 +1873,12 @@
      "zh": "大投诉时代，人人都有点委屈"
     },
     {
-     "title": "华为 Mate X8 大折叠手机现身官网：五色外观全公开，至高可选 16GB+1TB 典藏版",
-     "link": "https://www.ithome.com/1/027/551.htm",
-     "pubDate": "Mon, 16 Nov 2026 02:52:33 GMT",
-     "summary": "IT之家 11 月 16 日消息，华为 Mate X8 及全场景新品发布会今日官宣定档 11 月 24 日 14:30 举行。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东已率先用上新机的典藏版。 IT之家注意到，Mate X8 已现身华为官网，并公开了部分配置信息及所有配色的外观图。 颜色 紫金锦 苍穹黑 雪域白 青云锦 丹霞锦 配置 12GB+256GB 12GB+512GB 16GB+512GB 典藏版 16GB+1TB 典藏版 官图 ▲ 华为 Mate X8 紫金锦 ▲ 华为 Mate X8 苍穹黑 ▲ 华为 Mate X8 雪域白 ▲ 华为 Mate X8 青云锦 ▲",
-     "source": "IT之家",
-     "zh": "华为 Mate X8 大折叠手机现身官网：五色外观全公开，至高可选 16GB+1TB 典藏版"
-    },
-    {
      "title": "Mehri Madarshahi：从全球化走向地缘经济时代：经济安全背景下对APEC开放区域主义的重新思考",
      "link": "https://www.huxiu.com/article/4905832.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 10:50:49 +0800",
      "summary": "本文来自微信公众号： IPP评论 ，作者：Mehri Madarshahi，原文标题：《APEC时间｜Mehri Madarshahi：从全球化走向地缘经济时代——经济安全背景下对APEC开放区域主义的重新思考》 导语：11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将在深圳举行，中国时隔12年再次担任APEC东道主。太平洋经济合作理事会（PECC）11月发布的最新报告显示，51%的受访者对未来两三年亚太经济增长持乐观态度，明显高于对全球经济的乐观预期。不过，保护主义、贸易战和供应链中断仍是各方最为关注的风险。如何在保持经济开放的同时有效应对这些风险，成为亚太区域合作面",
      "source": "虎嗅",
      "zh": "Mehri Madarshahi：从全球化走向地缘经济时代：经济安全背景下对APEC开放区域主义的重新思考"
-    },
-    {
-     "title": "1 至 10 月全国铁路完成固定资产投资 6773 亿元，同比增长 0.9%",
-     "link": "https://www.ithome.com/1/027/550.htm",
-     "pubDate": "Mon, 16 Nov 2026 02:49:18 GMT",
-     "summary": "IT之家 11 月 16 日消息，据国铁集团官方，今年以来，铁路建设科学高效推进，1 至 10 月全国铁路完成固定资产投资 6773 亿元，同比增长 0.9%，保持高位运行。 进入 10 月以来，国铁集团统筹资源力量，加强施工组织，强化安全和质量控制，创新应用先进工艺工法，推动一批重点工程项目取得积极进展： 天府新区至蒲江铁路正式开通运营，与成都至雅安铁路、成都至自贡至宜宾高速铁路衔接，雅安至天府机场站最快 80 分钟可达； 淮北至宿州至蚌埠城际铁路、阜阳至蒙城至宿州（淮北）铁路、巢湖至马鞍山城际铁路启动试运行，开通运营进入倒计时； 重庆至万州高速铁路、银川至巴彦浩特铁路启动联调联试；渝昆高铁",
-     "source": "IT之家",
-     "zh": "1 至 10 月全国铁路完成固定资产投资 6773 亿元，同比增长 0.9%"
-    },
-    {
-     "title": "3399 元起，思锐曙光 AF 24mm F1.4 FF E/L、AF 15mm F1.6 FF E/L 镜头上市",
-     "link": "https://www.ithome.com/1/027/549.htm",
-     "pubDate": "Mon, 16 Nov 2026 02:47:16 GMT",
-     "summary": "IT之家 11 月 16 日消息，思锐光学正式发布曙光（Aurora）系列两款全画幅自动对焦广角镜头 ——AF 15mm F1.6 与 AF 24mm F1.4，分别为 3999 元和 3399 元。 京东 思锐（SIRUI）曙光系列 24mmF1.4 全画幅大光圈自动对焦镜头 微单相机广角定焦镜头 E 卡口 3399 元 直达链接 两款镜头均采用轻量化金属镜身，重量控制在 550 克左右，首发提供索尼 E 与徕卡 L 卡口版本，尼康 Z 和富士 X 卡口版本计划于 2027 年推出。 随着这两款新品落地，思锐曙光系列的全画幅自动对焦镜头扩充至 15mm、24mm、35mm、85mm 四款，形",
-     "source": "IT之家",
-     "zh": "3399 元起，思锐曙光 AF 24mm F1.4 FF E/L、AF 15mm F1.6 FF E/L 镜头上市"
     },
     {
      "title": "徽酒的“第五把交椅”能坐多久？",
@@ -1825,36 +1897,12 @@
      "zh": "美智库集体研判：中美俄举行三方会晤，将如何影响国际秩序？"
     },
     {
-     "title": "世界首个 300 兆瓦人工硐室型压缩空气储能电站在甘肃并网发电",
-     "link": "https://www.ithome.com/1/027/546.htm",
-     "pubDate": "Mon, 16 Nov 2026 02:43:18 GMT",
-     "summary": "IT之家 11 月 16 日消息，据央视新闻今日报道，世界首个 300 兆瓦人工硐（IT之家注读音：dòng）室型压缩空气储能电站 —— “源储一号”在甘肃成功并网 ，标志着人工硐室型压缩空气储能技术实现从试验验证到大型工程应用的跨越，为我国压缩空气储能技术路线多元化发展提供了新的工程实践。 压缩空气储能是一种将电能转化为空气压力势能，并在需要时重新转化为电能的储能技术。 人工硐室储气库是基于 压缩空气储能 原理建造的地下储气设施，通过开挖巨大空间储存高压空气，利用新能源发电过剩时压缩储存，用电高峰时释放发电实现能量转换。 “源储一号”电站在地下 110 米深处的岩层中开挖建设储气硐室，硐室群",
-     "source": "IT之家",
-     "zh": "世界首个 300 兆瓦人工硐室型压缩空气储能电站在甘肃并网发电"
-    },
-    {
-     "title": "安桥公布 Hi-Fi 耳机放大器 HA-70：全平衡电路架构，双 ESS SABRE DAC",
-     "link": "https://www.ithome.com/1/027/545.htm",
-     "pubDate": "Mon, 16 Nov 2026 02:42:47 GMT",
-     "summary": "IT之家 11 月 16 日消息，现为 Premium Audio Company 旗下品牌的安桥 (ONKYO) 美国当地时间 13 日公布了耳机放大器新品 HA-70。这一型号将于 2027 年春季上市，美国市场 建议零售价为 649.99 美元 （IT之家注：现汇率约合 4,341 元人民币） 。 HA-70 三维 180×141×46 (mm)，拥有铝制机身。其 采用全平衡电路架构 ，每个音频通道都配备独立的 DAC 和放大器级， 配备 2 颗 ESS ES9039Q2M SABRE DAC 芯片 ，带来精准、细腻、自然的声音还原。 该耳机支持 USB-C、光纤 / 同轴数字、RCA、",
-     "source": "IT之家",
-     "zh": "安桥公布 Hi-Fi 耳机放大器 HA-70：全平衡电路架构，双 ESS SABRE DAC"
-    },
-    {
      "title": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)",
      "link": "https://www.techmeme.com/261115/p22#a261115p22",
      "pubDate": "Sun, 15 Nov 2026 21:40:01 -0500",
      "summary": "Alex Riehl / BetaKit : Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation &nbsp; &mdash;&nbsp; Toronto-based Blue J has raised a $176-million USD ($249-million CAD) Series E round after more than doubling its a",
      "source": "Techmeme",
      "zh": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)"
-    },
-    {
-     "title": "优先股遭抛售之后收益率最高达8%，为什么这是一个买入机会",
-     "link": "https://www.tmtpost.com/8206370.html",
-     "pubDate": "Mon, 16 Nov 2026 10:37:31 +0800",
-     "summary": "优先股较高的收益率和税收优惠，使其成为股票和债券市场中更具吸引力的收益投资领域之一。",
-     "source": "钛媒体",
-     "zh": "优先股遭抛售之后收益率最高达8%，为什么这是一个买入机会"
     },
     {
      "title": "SK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers (Yoolim Lee/Bloomberg)",
@@ -1865,44 +1913,20 @@
      "zh": "SK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers (Yoolim Lee/Bloomberg)"
     },
     {
-     "title": "数据产量涨了十倍，愿意掏钱买数据的企业只有11.65%丨ToB产业观察",
-     "link": "https://www.tmtpost.com/8206269.html",
-     "pubDate": "Mon, 16 Nov 2026 10:15:42 +0800",
-     "summary": "复用的关键不在把一套平台复制到所有行业，而在把可复用的骨架与不可复用的行业知识分开：骨架靠本体和模块化沉淀，行业知识留在行业里生长。",
-     "source": "钛媒体",
-     "zh": "数据产量涨了十倍，愿意掏钱买数据的企业只有11.65%丨ToB产业观察"
+     "title": "Qwen4-Max",
+     "link": "https://qwen.ai/blog?id=qwen4-max",
+     "pubDate": "Mon, 16 Nov 2026 02:14:44 +0000",
+     "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 76 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "Qwen4-Max"
     },
     {
-     "title": "OpenAI六年两次裁撤机器人团队，中国厂商却在给“小脑”持续下注",
-     "link": "https://www.tmtpost.com/8206248.html",
-     "pubDate": "Mon, 16 Nov 2026 10:07:46 +0800",
-     "summary": "人形机器人的2027对赌。",
-     "source": "钛媒体",
-     "zh": "OpenAI六年两次裁撤机器人团队，中国厂商却在给“小脑”持续下注"
-    },
-    {
-     "title": "谁能熬过具身寒冬？",
-     "link": "https://www.tmtpost.com/8206266.html",
-     "pubDate": "Mon, 16 Nov 2026 10:07:41 +0800",
-     "summary": "从拼融资，到拼真本事。",
-     "source": "钛媒体",
-     "zh": "谁能熬过具身寒冬？"
-    },
-    {
-     "title": "退货这件苦差事，机器人不只搬箱子了",
-     "link": "https://www.tmtpost.com/8206264.html",
-     "pubDate": "Mon, 16 Nov 2026 10:00:25 +0800",
-     "summary": "双11结束了，退货仓里的忙碌才刚刚开始。过去，自动化设备已经接手了不少工作。如今，双臂机器人又开始直接抓取、识别和分拣退回来的商品。一场围绕退货处理的人机分工变化，正在仓库里发生。",
-     "source": "钛媒体",
-     "zh": "退货这件苦差事，机器人不只搬箱子了"
-    },
-    {
-     "title": "两只动物，一个吞下铸造厂，一个收回了拳头",
-     "link": "https://www.tmtpost.com/8206234.html",
-     "pubDate": "Mon, 16 Nov 2026 10:00:20 +0800",
-     "summary": "SpaceX；蓝色起源；垂直整合；战略收缩；星舰回收；月球竞争；商业航天；龟兔隐喻。",
-     "source": "钛媒体",
-     "zh": "两只动物，一个吞下铸造厂，一个收回了拳头"
+     "title": "Universal XSS in uBlock Origin from website-driven element picker",
+     "link": "https://iter.ca/post/ubo-uxss/",
+     "pubDate": "Mon, 16 Nov 2026 02:04:48 +0000",
+     "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 69 # Comments: 9",
+     "source": "Hacker News",
+     "zh": "Universal XSS in uBlock Origin from website-driven element picker"
     },
     {
      "title": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)",
@@ -1913,6 +1937,22 @@
      "zh": "SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)"
     },
     {
+     "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+     "link": "https://www.hntrends.com/2026/november.html",
+     "pubDate": "Mon, 16 Nov 2026 01:31:30 +0000",
+     "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 70 # Comments: 41",
+     "source": "Hacker News",
+     "zh": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs"
+    },
+    {
+     "title": "Agentic AI Designs an Analog Synthesizer",
+     "link": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+     "pubDate": "Mon, 16 Nov 2026 01:28:10 +0000",
+     "summary": "Article URL: https://cpldcpu.github.io/2026/11/14/touchsynth/ Comments URL: https://news.ycombinator.com/item?id=50512933 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Agentic AI Designs an Analog Synthesizer"
+    },
+    {
      "title": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)",
      "link": "https://www.techmeme.com/261115/p19#a261115p19",
      "pubDate": "Sun, 15 Nov 2026 20:15:01 -0500",
@@ -1921,68 +1961,28 @@
      "zh": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)"
     },
     {
+     "title": "Coles hit by a cybersecurity incident",
+     "link": "https://www.colesgroup.com.au/updates/",
+     "pubDate": "Mon, 16 Nov 2026 01:14:35 +0000",
+     "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 56 # Comments: 31",
+     "source": "Hacker News",
+     "zh": "Coles hit by a cybersecurity incident"
+    },
+    {
+     "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+     "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+     "pubDate": "Mon, 16 Nov 2026 00:21:54 +0000",
+     "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 52 # Comments: 7",
+     "source": "Hacker News",
+     "zh": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack"
+    },
+    {
      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
      "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
      "pubDate": "Sun, 15 Nov 2026 23:11:54 +0000",
      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
      "source": "Ars Technica",
      "zh": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors"
-    },
-    {
-     "title": "Sources: Anthropic&apos;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
-     "link": "https://www.techmeme.com/261115/p18#a261115p18",
-     "pubDate": "Sun, 15 Nov 2026 18:00:00 -0500",
-     "summary": "Bloomberg : Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement &nbsp; &mdash;&nbsp; The startup is set for the biggest IPO of all time, putting AI investors' hopes and dreams &mdash; and fea",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic&apos;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)"
-    },
-    {
-     "title": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)",
-     "link": "https://www.techmeme.com/261115/p17#a261115p17",
-     "pubDate": "Sun, 15 Nov 2026 17:35:01 -0500",
-     "summary": "Joey Roulette / Reuters : Amazon loses 40 Leo satellites after ULA's Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture &nbsp; &mdash;&nbsp; A Vulcan rocket owned by United Launch Alliance, the joint venture of Boeing (BA.N) and Lockhe",
-     "source": "Techmeme",
-     "zh": "Amazon loses 40 Leo satellites after ULA&apos;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)"
-    },
-    {
-     "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-     "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-     "pubDate": "Sun, 15 Nov 2026 18:29:14 +0000",
-     "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
-     "source": "TechCrunch",
-     "zh": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending"
-    },
-    {
-     "title": "SpaceX 成功回收火箭上面级",
-     "link": "https://www.solidot.org/story?sid=85893",
-     "pubDate": "Sun, 15 Nov 2026 22:38:30 +0800",
-     "summary": "SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。此次代号为 Flight 15/Starlink Group 31-2 的任务原计划同时回收火箭上面级和推进器，但推进器 Booster 22 在发射后不久启动了终止程序，在海面上受控爆炸。上面级 Ship 42 则绕地球飞行 14 圈历经 22.5 小时后于周六在 Starbase 被 2 号发射台的筷子臂成功捕获。此次任务发射了 22 颗 Starlink V3 卫星。",
-     "source": "Solidot",
-     "zh": "SpaceX 成功回收火箭上面级"
-    },
-    {
-     "title": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款",
-     "link": "https://www.solidot.org/story?sid=85892",
-     "pubDate": "Sun, 15 Nov 2026 21:51:56 +0800",
-     "summary": "因 Meta 的 Android 版 Facebook 应用未经用户明确同意或充分披露的情况下访问用户的手机相册和视频，意大利监管机构对其处以 8.05 亿欧元罚款。调查人员发现，该功能默认开启，而 Facebook 在申请访问用户相册权限时，将该权限与多种不同用途的应用功能捆绑在一起，通过单一授权请求获取访问权。意大利要求 Meta 在 60 天内禁用该功能，对该功能的启用额外征求用户同意。意大利约有 2000 万 Android 用户，此次罚款是意大利对科技巨头开出的金额最高的罚单之一。意大利监管机构表示，在做出处罚决定时，考虑了受影响人数巨大以及 Meta 不配合等因素。对这一处罚，Me",
-     "source": "Solidot",
-     "zh": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款"
-    },
-    {
-     "title": "香港迪士尼乐园 1.7 万张电子门票被盗",
-     "link": "https://www.solidot.org/story?sid=85891",
-     "pubDate": "Sun, 15 Nov 2026 21:15:41 +0800",
-     "summary": "香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。报道称，乐园门票由 Cityline 负责网上票务售卖，园方资讯科技部于 11 月 12 日晚侦测到公司电脑系统有异常活动，发现一万七千个二维码在网上票务系统被盗。香港资讯科技商会荣誉会长方保侨称：以往黑客是写程序或手动追漏洞，现在 AI 发展令黑客用 AI 寻找网络漏洞，从而攻击，近期这么多事件，我们相信只会愈来愈多。因为 AI 攻击太快，人手根本抵挡不到，开始提倡用 AI 防守，而市面上亦有这些方案。",
-     "source": "Solidot",
-     "zh": "香港迪士尼乐园 1.7 万张电子门票被盗"
-    },
-    {
-     "title": "亚洲象种群数量减少变得更孤立",
-     "link": "https://www.solidot.org/story?sid=85890",
-     "pubDate": "Sun, 15 Nov 2026 20:12:20 +0800",
-     "summary": "对斯里兰卡野生亚洲象的一项为期 12 年的研究显示，种群数量的逐渐减少可令动物社群跨越一个社会临界点，从而使长期形成的关系破裂，群体变得更小且更孤立，并威胁物种的长期生存。研究人员分析了斯里兰卡 443 头野生雌性亚洲象为期 12 年的个体观察数据。M他们发现，种群个体的逐渐流失使这一亚洲象种群跨越了社会临界点，从根本上重塑了其社会网络。随着死亡和永久离群的个体日益超过新加入的个体，象群规模变小、群体数量增多且日益孤立；到2018 年时，在最初被追踪的雌象中，近 69% 已从研究种群中消失。研究结果显示，这种碎片化不仅由个体丧失驱动，也由留存大象之间较弱社会纽带的断裂所驱动，从而导致整个种群个",
-     "source": "Solidot",
-     "zh": "亚洲象种群数量减少变得更孤立"
     }
    ]
   },
@@ -2241,6 +2241,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing",
+     "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+     "pubDate": "Mon, 16 Nov 2026 03:27:06 GMT",
+     "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+     "source": "CNBC",
+     "zh": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing"
+    },
+    {
+     "title": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%",
+     "link": "https://wallstreetcn.com/articles/3785994",
+     "pubDate": "Mon, 16 Nov 2026 11:21:57 +0800",
+     "summary": "11月16日，高盛最新发布的2027年中国市场策略展望报告 将港股评级上调至超配，同时下调A股至中性 ，核心逻辑在于：AI硬科技股盈利增速将显著放缓，A股估值面临一致预期下修压力，而港股正从估值低谷和互联网盈利拐点中获得支撑。 据追风交易台消息，该行设定2027年底MSCI中国指数目标价对应23%涨幅，沪深300目标点位4500点对应10%涨幅。Kinger Lau等分析师在报告中写道：当前MSCI中国指数12个月远期市盈率仅9.8倍，处于十年均值下方约1个标准差， \"大量负面因素已经反映在股价中\" 。 报告认为，2027年的核心交易逻辑已发生结构性转变——从押注AI贝塔行情，转向寻求盈利增长",
+     "source": "华尔街见闻",
+     "zh": "高盛2027年中国股市展望：AI交易面临盈利压力，资金转向港股，MSCI中国指数有望涨23%"
+    },
+    {
      "title": "A big chunk of your 401(k) is likely invested in Nvidia",
      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 03:11:00 GMT",
@@ -2337,14 +2353,6 @@
      "zh": "日本经济大臣城内实：受中东局势紧张导致物价上涨、自然灾害及恶劣天气影响，私人消费受到冲击"
     },
     {
-     "title": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing",
-     "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
-     "pubDate": "Mon, 16 Nov 2026 01:54:56 GMT",
-     "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
-     "source": "CNBC",
-     "zh": "Tech world&apos;s calls for Jensen Huang to return to Nvidia are growing"
-    },
-    {
      "title": "摩根士丹利建议超配全球股票：风险资产估值已经回落",
      "link": "http://finance.eastmoney.com/news/1351,202611163931600722.html",
      "pubDate": "Mon, 16 Nov 2026 09:54:25 +0800",
@@ -2407,14 +2415,6 @@
      "summary": "11月16日，三大指数集体低开，上证指数低开0.63%，深证成指低开0.79%，创业板指低开1.26%。板块方面， 教育 运营及其他领涨， 博瑞传播 涨9.95%， 院线 、 稀土 等开盘涨幅居前。 个股方面，5股竞价涨停，其中 北纬科技 4连板、 岳阳兴长 2连板、 金逸影视 2连板、 中国稀土 首板、 九阳股份 首板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
      "source": "东方财富资讯",
      "zh": "11月16日集合竞价：北纬科技4连板 岳阳兴长2连板"
-    },
-    {
-     "title": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
-     "link": "https://wallstreetcn.com/articles/3785982",
-     "pubDate": "Mon, 16 Nov 2026 09:24:25 +0800",
-     "summary": "黄仁勋辞任英伟达CEO后，摩根士丹利发布更新报告，将此次事件定性为\"重大挫折\"。同时将目标价从300美元下调至267美元，但维持\"增持\"评级。 据追风交易台消息，大摩认为，英伟达供应链与产品管线已锁定未来两年，Vera Rubin平台正在爬坡，即便将FY28/FY29数据中心收入预测下调约10%以应对出口管制风险，当前股价相对目标价仍有约61%的上行空间，基本面依然稳固。 报告指出，过去十年间，黄仁勋主导了硬件、软件、网络、计算与存储领域的一系列创新，推动了AI领域的大幅跃进；快速决策、积极的供应链管理，以及对客户、投资者和员工的高度可及性，都是其任期的显著标志。 临时CEO的变数 黄仁勋辞职",
-     "source": "华尔街见闻",
-     "zh": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”"
     },
     {
      "title": "SK海力士进一步扩产HBM4 正洽谈设备采购事宜 预计明年上半年投产",

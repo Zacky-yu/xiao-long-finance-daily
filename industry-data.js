@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 03:12:22",
+ "generated_at": "2026/11/17 03:32:14",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+     "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+     "pubDate": "Mon, 16 Nov 2026 19:12:02 +0000",
+     "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+     "source": "TechCrunch AI",
+     "zh": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security"
+    },
     {
      "title": "The open-source movement wants Jensen Huang back",
      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
@@ -80,14 +88,6 @@ window.INDUSTRY_DATA = {
      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
      "source": "MIT Tech Review AI",
      "zh": "Building trustworthy AI by fencing it in, not predicting it"
-    },
-    {
-     "title": "Audible turns to AI to help users discover audiobooks",
-     "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-     "pubDate": "Mon, 16 Nov 2026 15:52:19 +0000",
-     "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-     "source": "TechCrunch AI",
-     "zh": "Audible turns to AI to help users discover audiobooks"
     },
     {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
@@ -1114,6 +1114,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market",
+     "link": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
+     "pubDate": "Mon, 16 Nov 2026 19:17:34 +0000",
+     "summary": "AstraZeneca and Alexion won FDA approval Monday for their self-administered generalized myasthenia gravis (gMG) drug Klygefa. The drug, also known as gefurulimab, is a once-weekly treatment for patients who have anti-acetylcholine receptor antibodies, a harmful ...",
+     "source": "Endpoints News",
+     "zh": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market"
+    },
+    {
      "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
      "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
      "pubDate": "Mon, 16 Nov 2026 18:54:06 +0000",
@@ -1224,14 +1232,6 @@ window.INDUSTRY_DATA = {
      "summary": "Johnson & Johnson said Monday it will snap up Ollin Biosciences in a deal worth up to $3.3 billion, just a little over a year after the ophthalmology biotech broke cover ...",
      "source": "Endpoints News",
      "zh": "J&J to buy eye disease biotech Ollin Biosciences for up to $3.3B"
-    },
-    {
-     "title": "CG Oncology's bladder cancer treatment beats expectations in Phase 3",
-     "link": "https://endpoints.news/cg-oncologys-bladder-cancer-treatment-beats-expectations-in-phase-3/",
-     "pubDate": "Mon, 16 Nov 2026 13:00:01 +0000",
-     "summary": "CG Oncology said its oncolytic immunotherapy succeeded in a late-stage trial in certain patients with non-muscle invasive bladder cancer, potentially expanding the asset’s market significantly. Cretostimogene grenadenorepvec met the Phase 3 ...",
-     "source": "Endpoints News",
-     "zh": "CG Oncology's bladder cancer treatment beats expectations in Phase 3"
     },
     {
      "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
@@ -1562,6 +1562,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+     "link": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
+     "pubDate": "Mon, 16 Nov 2026 19:10:03 GMT",
+     "summary": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
+     "source": "Dark Reading",
+     "zh": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models"
+    },
+    {
      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
      "pubDate": "Mon, 16 Nov 2026 11:43:24 -0500",
@@ -1746,14 +1754,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cyber Experts Weigh In: How to Fight Artex & AntiFox"
     },
     {
-     "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-     "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-     "pubDate": "Thu, 12 Nov 2026 20:09:41 GMT",
-     "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
-     "source": "Dark Reading",
-     "zh": "Extortion Group Luna Moth Flits Into Law Firms a Second Time"
-    },
-    {
      "title": "Who Runs the Ransomware Group Qilin?",
      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
      "pubDate": "Wed, 11 Nov 2026 18:06:01 +0000",
@@ -1778,6 +1778,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+     "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+     "pubDate": "Mon, 16 Nov 2026 19:26:55 +0000",
+     "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+     "source": "TechCrunch",
+     "zh": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID"
+    },
+    {
+     "title": "Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft&apos;s voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)",
+     "link": "https://www.techmeme.com/261116/p41#a261116p41",
+     "pubDate": "Mon, 16 Nov 2026 14:15:09 -0500",
+     "summary": "Gergely Orosz / The Pragmatic Engineer : Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft's voluntary exit offers, decision models, and more &nbsp; &mdash;&nbsp; Listen and watch now on YouTube, Apple, and Spotify.&nbsp; See the episode tra",
+     "source": "Techmeme",
+     "zh": "Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft&apos;s voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)"
+    },
+    {
+     "title": "US moves to cut China’s remote access to AI chips",
+     "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+     "pubDate": "Mon, 16 Nov 2026 19:10:09 +0000",
+     "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+     "source": "Ars Technica",
+     "zh": "US moves to cut China’s remote access to AI chips"
+    },
+    {
      "title": "California AG Rob Bonta sues OpenAI over the Hugging Face incident, alleging OpenAI endangered the public by testing its models without adequate safeguards (Politico)",
      "link": "https://www.techmeme.com/261116/p40#a261116p40",
      "pubDate": "Mon, 16 Nov 2026 13:55:00 -0500",
@@ -1794,12 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "Island is a new screen-time app that turns staying off your phone into a game"
     },
     {
-     "title": "US Banks report outages in latest tech hiccup",
-     "link": "https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/",
-     "pubDate": "Mon, 16 Nov 2026 18:53:00 +0000",
-     "summary": "Article URL: https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/ Comments URL: https://news.ycombinator.com/item?id=50521357 Points: 4 # Comments: 0",
+     "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+     "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+     "pubDate": "Mon, 16 Nov 2026 18:31:30 +0000",
+     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 113 # Comments: 34",
      "source": "Hacker News",
-     "zh": "US Banks report outages in latest tech hiccup"
+     "zh": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle"
     },
     {
      "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
@@ -1813,17 +1837,9 @@ window.INDUSTRY_DATA = {
      "title": "Software is breaking down at a systemic level",
      "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
      "pubDate": "Mon, 16 Nov 2026 18:17:17 +0000",
-     "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/ Comments URL: https://news.ycombinator.com/item?id=50520866 Points: 72 # Comments: 56",
+     "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/ Comments URL: https://news.ycombinator.com/item?id=50520866 Points: 100 # Comments: 81",
      "source": "Hacker News",
      "zh": "Software is breaking down at a systemic level"
-    },
-    {
-     "title": "OpenAI: Strengthening the fight against online child sexual abuse",
-     "link": "https://openai.com/index/strengthening-online-child-safety/",
-     "pubDate": "Mon, 16 Nov 2026 18:12:48 +0000",
-     "summary": "Article URL: https://openai.com/index/strengthening-online-child-safety/ Comments URL: https://news.ycombinator.com/item?id=50520804 Points: 22 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "OpenAI: Strengthening the fight against online child sexual abuse"
     },
     {
      "title": "OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)",
@@ -1853,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
      "link": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
      "pubDate": "Mon, 16 Nov 2026 18:04:55 +0000",
-     "summary": "Article URL: https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/ Comments URL: https://news.ycombinator.com/item?id=50520697 Points: 17 # Comments: 14",
+     "summary": "Article URL: https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/ Comments URL: https://news.ycombinator.com/item?id=50520697 Points: 43 # Comments: 32",
      "source": "Hacker News",
      "zh": "Just 400 US Data Centers Use More Electricity Than Michigan"
     },
@@ -1861,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
      "link": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
      "pubDate": "Mon, 16 Nov 2026 17:52:23 +0000",
-     "summary": "Article URL: https://copyrightlately.com/michael-mann-heat-copyright-termination/ Comments URL: https://news.ycombinator.com/item?id=50520518 Points: 19 # Comments: 1",
+     "summary": "Article URL: https://copyrightlately.com/michael-mann-heat-copyright-termination/ Comments URL: https://news.ycombinator.com/item?id=50520518 Points: 28 # Comments: 5",
      "source": "Hacker News",
      "zh": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself"
     },
@@ -1880,6 +1896,14 @@ window.INDUSTRY_DATA = {
      "summary": "CNBC : Source: Nvidia's board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang &nbsp; &mdash;&nbsp; Nvidia's board of directors is not considering bringing back Jensen Huang as CEO, a person familiar with the matter told CNBC.",
      "source": "Techmeme",
      "zh": "Source: Nvidia&apos;s board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang (CNBC)"
+    },
+    {
+     "title": "Aristotle Expands into Rust",
+     "link": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+     "pubDate": "Mon, 16 Nov 2026 17:34:41 +0000",
+     "summary": "Article URL: https://www.harmonic.fun/news/aristotle-rust-verification/ Comments URL: https://news.ycombinator.com/item?id=50520270 Points: 39 # Comments: 17",
+     "source": "Hacker News",
+     "zh": "Aristotle Expands into Rust"
     },
     {
      "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
@@ -1912,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
      "source": "WIRED",
      "zh": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts"
-    },
-    {
-     "title": "Noeri, which is developing AI software to review and suggest improvements for its clients&apos; AI models and tools, raised $110M led by Menlo Ventures (Dina Bass/Bloomberg)",
-     "link": "https://www.techmeme.com/261116/p35#a261116p35",
-     "pubDate": "Mon, 16 Nov 2026 11:55:01 -0500",
-     "summary": "Dina Bass / Bloomberg : Noeri, which is developing AI software to review and suggest improvements for its clients' AI models and tools, raised $110M led by Menlo Ventures &nbsp; &mdash;&nbsp; A five-month-old startup co-founded by two prominent artificial intelligence experts at Stanford University ",
-     "source": "Techmeme",
-     "zh": "Noeri, which is developing AI software to review and suggest improvements for its clients&apos; AI models and tools, raised $110M led by Menlo Ventures (Dina Bass/Bloomberg)"
     },
     {
      "title": "华为全新子品牌星芒 OSTA O1 Pro 真机紫色款外观曝光：后置双摄，预计搭载麒麟 9030S 处理器",
@@ -2000,22 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 这些年，得益于工作界面，我接触过一些真正靠自己、取得世俗成功的人。 他们投身到一个行业中，靠自己的认知和努力，真正赚到了钱，而后通过持续的运作，让自己的资产不断增值，从而达到标准意义上的财富自由。 他们行业不同，性格不同，能力方向也差得很远。初接触时，你不会觉得有什么共性。但是接触得多了，沉淀一下你就会发现，这些人身上，几乎都有一个相同的品质。 不是聪明，不是胆子大，也不是运气好。 而是，他们的自我，都很小。 用一个英文词来说，叫small ego。 大多数人，都是屁股决定脑袋 Small ego，直译过来，就是“小",
      "source": "虎嗅",
      "zh": "我发现很多富人都有一个相同的品质"
-    },
-    {
-     "title": "企业要不要自托管模型？从购买智能到控制智能",
-     "link": "https://www.huxiu.com/article/4906090.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 00:09:22 +0800",
-     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 2026.10，Revolut最近讲了一个很容易让企业AI团队心动的故事。 约2,000名工程师，约56块B200 GPU，以GLM为默认编码模型；公开口径里，混合推理成本约为每百万Token 0.30美元，大约是此前Anthropic/OpenAI账单的十分之一。更关键的是，调用成本降下来以后，工程师不再只把AI用在最难的代码段，而开始把它用到查资料、读文档、处理工单、做核查这些“代码周边”的工作里。 开放模型加自托管，正在替企业省下90%的AI成本。 但Revolut并不只是“换了一个便宜模型”。它没有简单把API换成GPU，而是同时",
-     "source": "虎嗅",
-     "zh": "企业要不要自托管模型？从购买智能到控制智能"
-    },
-    {
-     "title": "欢迎来到墨菲的世界：当所有人都相信明天只会更坏",
-     "link": "https://www.huxiu.com/article/4906089.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 00:08:10 +0800",
-     "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 上周五，11月13日，美国头顶的天空突然空了。 美东时间下午三点五十四分，美国联邦航空管理局下达了9·11以来时间最长的全国地面停飞令。四个半小时里，全美所有机场禁止起飞，天上三千五百多架飞机全部被按回地面。 最值得玩味的不是停飞本身，而是那四个小时里全世界的条件反射。推特上几乎没人相信这只是一次普通故障。有人笃定是大国网络战开打，有人指认是刚花8.75亿美元上线的AI调度系统失了控。 直到当晚白宫召开发布会，交通部长和国土安全部长才吐出实情：美国空管至今还在用1980年代的小铜线，他们在往旧系统里接入新设备、新技术，“新东西把旧系统",
-     "source": "虎嗅",
-     "zh": "欢迎来到墨菲的世界：当所有人都相信明天只会更坏"
     }
    ]
   },
@@ -2025,6 +2025,46 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out",
+     "link": "https://9to5mac.com/2026/11/16/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
+     "pubDate": "Mon, 16 Nov 2026 19:27:57 +0000",
+     "summary": "In addition to macOS 27.3 beta 2 , Apple is also rolling out the first Release Candidates for macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out"
+    },
+    {
+     "title": "Everything new in iOS 27.3 beta 2",
+     "link": "https://9to5mac.com/2026/11/16/everything-new-in-ios-27-3-beta-2-so-far/",
+     "pubDate": "Mon, 16 Nov 2026 19:24:53 +0000",
+     "summary": "iOS 27.3 beta 2 is here. Apple’s next iPhone software update brings a ton of changes including the redesigned Health app and much more. Below, we’re collecting the new features and changes discovered during testing. more…",
+     "source": "9to5Mac",
+     "zh": "Everything new in iOS 27.3 beta 2"
+    },
+    {
+     "title": "iOS 27.3 brings vertical video and video podcasts to Apple TV app",
+     "link": "https://9to5mac.com/2026/11/16/ios-27-3-brings-vertical-video-and-video-podcasts-to-apple-tv-app/",
+     "pubDate": "Mon, 16 Nov 2026 19:21:04 +0000",
+     "summary": "iOS 27.3 beta 2 debuted today and includes two new types of video in the Apple TV app: vertical ‘clips’ and video podcasts. more…",
+     "source": "9to5Mac",
+     "zh": "iOS 27.3 brings vertical video and video podcasts to Apple TV app"
+    },
+    {
+     "title": "You can now ask Siri AI questions about your health data, with iOS 27.3 beta 2",
+     "link": "https://9to5mac.com/2026/11/16/siri-ai-health-app-questions-ios-27/",
+     "pubDate": "Mon, 16 Nov 2026 19:16:41 +0000",
+     "summary": "While Siri AI expanded on what kinds of things you can ask Apple’s voice assistant in many ways, one area where the system took a step back was health data. Since Siri AI’s launch in iOS 27.0, the system has enforced guardrails that do not allow it to access data from the Health app, despite the old",
+     "source": "9to5Mac",
+     "zh": "You can now ask Siri AI questions about your health data, with iOS 27.3 beta 2"
+    },
+    {
+     "title": "macOS 27.3 beta 2 now available with vertical tabs in Safari, native Live Activities, more",
+     "link": "https://9to5mac.com/2026/11/16/macos-27-3-beta-2-now-available/",
+     "pubDate": "Mon, 16 Nov 2026 19:14:31 +0000",
+     "summary": "Apple is rolling out the second developer beta of macOS 27.3 ahead of the official launch of the update, which includes several notable additions. Here’s what’s coming. more…",
+     "source": "9to5Mac",
+     "zh": "macOS 27.3 beta 2 now available with vertical tabs in Safari, native Live Activities, more"
+    },
     {
      "title": "Samsung's Gentle Monster smart glasses pre-orders are already sold out",
      "link": "https://www.gsmarena.com/samsungs_gentle_monster_smart_glasses_preorders_are_already_sold_out-news-75496.php",
@@ -2066,52 +2106,12 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung Galaxy Studio headphones leak reveals physical and touch controls"
     },
     {
-     "title": "Apple․com now available in Spanish for US users",
-     "link": "https://9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users/",
-     "pubDate": "Mon, 16 Nov 2026 18:21:12 +0000",
-     "summary": "Apple is making a notable change to Apple․com. Starting today, users in the United States can now browse the Apple website in Spanish. more…",
-     "source": "9to5Mac",
-     "zh": "Apple․com now available in Spanish for US users"
-    },
-    {
      "title": "You won't find Nothing phones at US carriers, but here's how you can still buy them",
      "link": "https://www.engadget.com/2314632/nothing-phones-not-available-us-carriers-how-still-buy/",
      "pubDate": "Mon, 16 Nov 2026 18:15:00 +0000",
      "summary": "While you can't get one at an AT&T or Verizon store, Nothing has partnered with Best Buy.",
      "source": "Engadget",
      "zh": "You won't find Nothing phones at US carriers, but here's how you can still buy them"
-    },
-    {
-     "title": "iOS 27.3 adds new face unlock feature for iPhone Duo",
-     "link": "https://9to5mac.com/2026/11/16/ios-27-3-adds-new-face-unlock-feature-for-iphone-duo/",
-     "pubDate": "Mon, 16 Nov 2026 18:13:54 +0000",
-     "summary": "In today’s iOS 27.3 beta release, Apple is introducing two changes for iPhone Duo users. Most notably, it adds a new face recognition option that lets you unlock your iPhone Duo by looking at it. Apple is also adding an option to have your iPhone Duo lock when you close it. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27.3 adds new face unlock feature for iPhone Duo"
-    },
-    {
-     "title": "macOS 27.3 includes new privacy controls for Full Disk Access and more",
-     "link": "https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/",
-     "pubDate": "Mon, 16 Nov 2026 18:12:27 +0000",
-     "summary": "Last month, Apple announced its plans to tighten macOS privacy controls around Full Disk Access amid the rise of “increasingly capable and autonomous” AI agents. With today’s new macOS 27.3 beta, Apple is implementing several changes as part of this. more…",
-     "source": "9to5Mac",
-     "zh": "macOS 27.3 includes new privacy controls for Full Disk Access and more"
-    },
-    {
-     "title": "Apple reveals how iCloud+ increases Siri AI and Apple Intelligence usage limits",
-     "link": "https://9to5mac.com/2026/11/16/apple-intelligence-siri-ai-usage-limits/",
-     "pubDate": "Mon, 16 Nov 2026 18:12:09 +0000",
-     "summary": "iOS 27.3 beta 2 is now available, and Apple is adding the ability for users to unlock higher usage limits for Apple Intelligence and Siri AI via iCloud+. Here’s everything you need to know. more…",
-     "source": "9to5Mac",
-     "zh": "Apple reveals how iCloud+ increases Siri AI and Apple Intelligence usage limits"
-    },
-    {
-     "title": "Apple releases beta 2 for iPadOS 27.3, watchOS 27.3, and more",
-     "link": "https://9to5mac.com/2026/11/16/apple-releases-beta-2-for-ipados-27-3-watchos-27-3-and-more/",
-     "pubDate": "Mon, 16 Nov 2026 18:11:30 +0000",
-     "summary": "Apple has just released beta 2 for iPadOS 27.3, watchOS 27.3, visionOS 27.3, and more. It’s available for developers, but a public beta will likely follow in the next couple days. more…",
-     "source": "9to5Mac",
-     "zh": "Apple releases beta 2 for iPadOS 27.3, watchOS 27.3, and more"
     },
     {
      "title": "Nothing Headphone (1) Pro is 20% off in its first-ever deal",
@@ -2274,60 +2274,116 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Stewards GAAP EPS of -$0.09, revenue of $3.4M",
+     "link": "https://seekingalpha.com/news/4673233-stewards-gaap-eps-of-0_09-revenue-of-3_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:23:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stewards GAAP EPS of -$0.09, revenue of $3.4M"
+    },
+    {
+     "title": "Spectral Capital Corporation reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673231-spectral-capital-corporation-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:20:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Spectral Capital Corporation reports Q3 results"
+    },
+    {
+     "title": "Click Holdings reports Q1 results",
+     "link": "https://seekingalpha.com/news/4673230-click-holdings-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:18:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Click Holdings reports Q1 results"
+    },
+    {
      "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
      "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-     "pubDate": "Mon, 16 Nov 2026 19:07:26 GMT",
+     "pubDate": "Mon, 16 Nov 2026 19:16:39 GMT",
      "summary": "Two OpenAI models gained unauthorized access Hugging Face's internal systems. The models were trying to find information for use in cheating on an evaluation.",
      "source": "CNBC",
      "zh": "California sues OpenAI over Hugging Face, other AI model loss of control"
     },
     {
-     "title": "Lexeo cardiomyopathy asset data prompts Street price target increases",
-     "link": "https://seekingalpha.com/news/4673210-lexeo-cardiomyopathy-asset-data-prompts-street-price-target-increases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:06:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lexeo cardiomyopathy asset data prompts Street price target increases"
-    },
-    {
-     "title": "Virtuix outlines $12M STS International LOI as Omni One for Quest drives 55% sequential net sales growth",
-     "link": "https://seekingalpha.com/news/4673222-virtuix-outlines-12m-sts-international-loi-as-omni-one-for-quest-drives-55-percent-sequential?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:05:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Virtuix outlines $12M STS International LOI as Omni One for Quest drives 55% sequential net sales growth"
-    },
-    {
-     "title": "礼来旗下口服减肥药Foundayo将在未来数日内于澳大利亚上市",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932219178.html",
-     "pubDate": "Tue, 17 Nov 2026 03:04:37 +0800",
-     "summary": "礼来 旗下口服 减肥药 Foundayo将在未来数日内于澳大利亚上市。 （文章来源：财联社）",
+     "title": "祝贺！中国成功连任",
+     "link": "http://global.eastmoney.com/news/11798,202611173932219979.html",
+     "pubDate": "Tue, 17 Nov 2026 03:15:29 +0800",
+     "summary": "11月16日，国际电信联盟（以下简称“国际电联”）2026年全权代表大会完成国际电联理事国和无线电规则委员会委员选举工作，中国成功连任国际电联理事国（2027—2030年），中国候选人、国家数据集团有限公司董事程建军成功连任无线电规则委员会委员（2027—2030年）。 国际电联是联合国信息 通信 领域专门机构，负责统筹协调全球无线电频谱与卫星轨道资源分配，制定全球 通信 技术标准，推动 通信 基础设施建设。国际电联理事会由48个理事国组成，负责在两次全权代表大会之间履行管理机构职责。无线电规则委员会由12名专家组成，负责解释无线电规则、补充完善规则程序，并协调解决成员国之间无线电频率干扰等问",
      "source": "东方财富股票",
-     "zh": "礼来旗下口服减肥药Foundayo将在未来数日内于澳大利亚上市"
+     "zh": "祝贺！中国成功连任"
     },
     {
-     "title": "LanzaTech reiterates $50M-$55M 2026 revenue guidance as it targets Ghent output of 26M gallons of SAF annually",
-     "link": "https://seekingalpha.com/news/4673221-lanzatech-reiterates-50m-55m-2026-revenue-guidance-as-it-targets-ghent-output-of-26m-gallons?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:04:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "LanzaTech reiterates $50M-$55M 2026 revenue guidance as it targets Ghent output of 26M gallons of SAF annually"
+     "title": "特朗普支持黄仁勋回归 英伟达董事会称暂不考虑",
+     "link": "http://stock.eastmoney.com/news/1611,202611173932218583.html",
+     "pubDate": "Tue, 17 Nov 2026 03:14:50 +0800",
+     "summary": "英伟达 股价周一震荡，特朗普公开表态支持黄仁勋重返CEO职位。 特朗普周一在白宫向记者表示，\"我不反对\"黄仁勋复职，并称\"很多人希望黄仁勋回来，这肯定不是个坏主意\"。他同时为黄仁勋辩护称，美国国家安全\"没有受到威胁\"。 随后，CNBC援引知情人士透露，董事会目前的工作重心是针对黄仁勋的调查，并未就其重返公司进行任何讨论。 英伟达 已聘请法律事务所WachtellLipton主导调查，重点审查黄仁勋的行为是否危及国家安全或公司机密。 在特朗普发表上述言论期间， 英伟达 股价一度短暂转涨，随后继续下跌至-2%左右。CNBC相关报道发布后，英伟达股价持续下跌，截至发稿下跌4.5%。 英伟达董事会于上",
+     "source": "东方财富股票",
+     "zh": "特朗普支持黄仁勋回归 英伟达董事会称暂不考虑"
     },
     {
-     "title": "Dtst targets AI continuity recovery time objective of seconds to 15 minutes while planning 2028 rollout",
-     "link": "https://seekingalpha.com/news/4673220-dtst-targets-ai-continuity-recovery-time-objective-of-seconds-to-15-minutes-while-planning?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:04:07 -0500",
+     "title": "Lifeloc Technologies GAAP EPS of -$0.03, revenue of $2.52M",
+     "link": "https://seekingalpha.com/news/4673229-lifeloc-technologies-gaap-eps-of-0_03-revenue-of-2_52m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:14:18 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Dtst targets AI continuity recovery time objective of seconds to 15 minutes while planning 2028 rollout"
+     "zh": "Lifeloc Technologies GAAP EPS of -$0.03, revenue of $2.52M"
     },
     {
-     "title": "Apple adds face unlock to iPhone Duo in new software beta",
-     "link": "https://seekingalpha.com/news/4673217-apple-adds-face-unlock-to-iphone-duo-in-new-software-beta?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 14:02:21 -0500",
+     "title": "美联储哈马克表示 倾向于稳步、缓慢地逐步加息",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932219389.html",
+     "pubDate": "Tue, 17 Nov 2026 03:13:35 +0800",
+     "summary": "美联储哈马克表示，倾向于稳步、缓慢地逐步加息。如果通胀心态形成，可能需要更大的举措。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美联储哈马克表示 倾向于稳步、缓慢地逐步加息"
+    },
+    {
+     "title": "Vasomedical reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673227-vasomedical-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:12:55 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Apple adds face unlock to iPhone Duo in new software beta"
+     "zh": "Vasomedical reports Q3 results"
+    },
+    {
+     "title": "Altimeter&apos;s Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+     "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+     "pubDate": "Mon, 16 Nov 2026 19:11:41 GMT",
+     "summary": "Gerstner told CNBC that he's looking to put five time as much money into Anthropic as he's ever put into a prior IPO.",
+     "source": "CNBC",
+     "zh": "Altimeter&apos;s Brad Gerstner aims to invest $5 billion in Anthropic IPO"
+    },
+    {
+     "title": "Rapid Micro Biosystems GAAP EPS of -$0.23 misses by $0.03, revenue of $9.5M misses by $0.5M",
+     "link": "https://seekingalpha.com/news/4673225-rapid-micro-biosystems-gaap-eps-of-0_23-misses-by-0_03-revenue-of-9_5m-misses-by-0_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 14:10:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rapid Micro Biosystems GAAP EPS of -$0.23 misses by $0.03, revenue of $9.5M misses by $0.5M"
+    },
+    {
+     "title": "你家的电冰箱、空调、洗衣机…售后要有变化了→",
+     "link": "http://finance.eastmoney.com/news/1350,202611173932219810.html",
+     "pubDate": "Tue, 17 Nov 2026 03:10:00 +0800",
+     "summary": "记者11月16日了解到， 市场监管总局（国家标准委）近日修订发布《家用和类似用途电器售后服务第2部分：电冰箱的特殊要求》《家用和类似用途电器售后服务第3部分： 空调 器的特殊要求》等4项国家标准 ，分别规定了电冰箱、 空调 器、洗衣机、饮水机售后服务方的要求、售后服务提供流程及售后服务规范等，推动质量管控由产品本身向售后服务环节延伸，持续提升家电售后服务规范化水平，改善消费体验。 本次标准修订针对行业技术进步与消费者需求变化，主要作出三方面优化： 适配智能家电发展。 以电冰箱为例，新标准增加智能家电应用程序信息采集、在线升级、设备绑定等服务条款，打通线上远程诊断与线下上门服务链路，推动服务模式",
+     "source": "东方财富股票",
+     "zh": "你家的电冰箱、空调、洗衣机…售后要有变化了→"
+    },
+    {
+     "title": "高盛：在各国央行持续购金推动下 金价到2027年底或升至4,650美元/盎司",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932219258.html",
+     "pubDate": "Tue, 17 Nov 2026 03:09:23 +0800",
+     "summary": "高盛 表示，在各国央行持续购金的推动下，金价到2027年底将逐步攀升至每盎司4,650美元。一旦美联储开始降息，金价到2028年底有望上涨至每盎司5,600美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "高盛：在各国央行持续购金推动下 金价到2027年底或升至4,650美元/盎司"
+    },
+    {
+     "title": "SEC文件显示，老虎环球管理有限责任公司将其在英伟达的持股增加7.2%，至1200万股",
+     "link": "http://finance.eastmoney.com/news/1354,202611173932219449.html",
+     "pubDate": "Tue, 17 Nov 2026 03:06:18 +0800",
+     "summary": "SEC文件显示，老虎环球管理有限责任公司将其在 英伟达 的持股增加7.2%，至1200万股。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "SEC文件显示，老虎环球管理有限责任公司将其在英伟达的持股增加7.2%，至1200万股"
     },
     {
      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
@@ -2338,36 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
     },
     {
-     "title": "Saudi Arabia's PIF exits Electronic Arts in Q3",
-     "link": "https://seekingalpha.com/news/4673188-saudi-arabias-pif-exits-electronic-arts-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 13:57:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Saudi Arabia's PIF exits Electronic Arts in Q3"
-    },
-    {
      "title": "Market&apos;s Nvidia obsession obscuring an opportunity in this name",
      "link": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
      "pubDate": "Mon, 16 Nov 2026 18:56:49 GMT",
      "summary": "Investors might be overlooking Disney earnings.",
      "source": "CNBC",
      "zh": "Market&apos;s Nvidia obsession obscuring an opportunity in this name"
-    },
-    {
-     "title": "道明证券料美元保持韧性 美联储鹰派前景提供支撑",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932219075.html",
-     "pubDate": "Tue, 17 Nov 2026 02:56:29 +0800",
-     "summary": "道明证券策略师计，在市场预期美联储将加息的背景下，美元将保持韧性，同时美国国债收益率上升继续为美元提供上行动力。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "道明证券料美元保持韧性 美联储鹰派前景提供支撑"
-    },
-    {
-     "title": "英伟达董事会据称无意恢复黄仁勋CEO职务",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932218998.html",
-     "pubDate": "Tue, 17 Nov 2026 02:55:00 +0800",
-     "summary": "据CNBC援引知情人士报道， 英伟达 (NVDA.O)董事会目前没有考虑恢复黄仁勋的CEO职务，正专注于调查其个人行为是否涉及 英伟达 商业机密，双方尚未就其复职展开讨论。 英伟达 已聘请Wachtell Lipton律师事务所牵头调查。黄仁勋上周在执掌公司33年后辞职，此前其婚外关系相关报道引发风波。与此同时，要求恢复黄仁勋职务的网络请愿已获得18万份签名，马斯克、YCombinator首席执行官加里·谭及EpicGames首席执行官蒂姆·斯威尼等人表示支持。英伟达董事会此前表示，正在遴选CEO职位搜寻顾问机构。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "英伟达董事会据称无意恢复黄仁勋CEO职务"
     },
     {
      "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
@@ -2378,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies"
     },
     {
-     "title": "美国国会预算办公室主任Phill Swagel宣布将于明年1月离职",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932218752.html",
-     "pubDate": "Tue, 17 Nov 2026 02:50:44 +0800",
-     "summary": "美国国会预算办公室主任Phill Swagel宣布将于明年1月离职。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国国会预算办公室主任Phill Swagel宣布将于明年1月离职"
-    },
-    {
      "title": "英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低",
      "link": "https://wallstreetcn.com/articles/3785999",
      "pubDate": "Tue, 17 Nov 2026 02:49:15 +0800",
@@ -2394,36 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低"
     },
     {
-     "title": "稳定币USDT发行商Tether向Nomad投资1500万美元 以扩大巴西民众获取美元金融服务的渠道",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932218472.html",
-     "pubDate": "Tue, 17 Nov 2026 02:48:09 +0800",
-     "summary": "稳定币USDT发行商Tether向Nomad投资1500万美元，以扩大巴西民众获取美元金融服务的渠道。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "稳定币USDT发行商Tether向Nomad投资1500万美元 以扩大巴西民众获取美元金融服务的渠道"
-    },
-    {
-     "title": "Altimeter&apos;s Brad Gerstner investing $5 billion in Anthropic IPO",
-     "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-     "pubDate": "Mon, 16 Nov 2026 18:47:54 GMT",
-     "summary": "Gerstner told CNBC that he's putting five time as much money into Anthropic as he's ever put into a prior IPO.",
-     "source": "CNBC",
-     "zh": "Altimeter&apos;s Brad Gerstner investing $5 billion in Anthropic IPO"
-    },
-    {
      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 18:45:00 GMT",
      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
      "source": "MarketWatch",
      "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "美股三大指数下跌 标普500跌近2% 芯片股集体下挫",
-     "link": "http://finance.eastmoney.com/news/1345,202611163932124582.html",
-     "pubDate": "Tue, 17 Nov 2026 02:44:09 +0800",
-     "summary": "美东时间周一，美股三大指数集体下跌，截至发稿， 道指跌1.36 %， 纳指跌2.45%，标普500指数跌1.88%。 芯片股集体下挫， 闪迪 、 ARM跌超7%， 英特尔 跌超6% ， 台积电 、 希捷科技 、 AMD 跌超5% ， 博通 、 西部数据 、 应用材料 跌超4%， 英伟达 跌超3%， 美国总统特朗普表示，不介意黄仁勋重新出任 英伟达 首席执行官 。 AI云服务公司走弱，Neibus、 CoreWeave 跌超6%， 甲骨文 跌超4%。 光 通信 板块走低，Lumentum跌超7%， Coherent、 迈威尔科技 、 康宁 跌超6%。 全球要闻 美银：10月中下旬以来NAND闪存",
-     "source": "东方财富股票",
-     "zh": "美股三大指数下跌 标普500跌近2% 芯片股集体下挫"
     },
     {
      "title": "US tech stocks slide amid Nvidia fallout",
@@ -2521,6 +2521,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "The Leonid meteor shower peaks tonight: How to see more than a dozen 'shooting stars' per hour",
+     "link": "https://www.livescience.com/space/meteoroids/the-leonid-meteor-shower-peaks-tonight-how-to-see-more-than-a-dozen-shooting-stars-per-hour",
+     "pubDate": "Mon, 16 Nov 2026 19:06:03 +0000",
+     "summary": "Up to 15 shooting stars per hour may be visible as the Leonids peak under dark skies tonight (Nov. 16 - 17), with the moon setting before the best viewing hours.",
+     "source": "Live Science",
+     "zh": "The Leonid meteor shower peaks tonight: How to see more than a dozen 'shooting stars' per hour"
+    },
     {
      "title": "Q&A: How ocean carbon sequestration changes under different glacial conditions",
      "link": "https://news.mit.edu/2026/qa-how-ocean-carbon-sequestration-changes-under-different-glacial-conditions-1116",
@@ -2642,20 +2650,20 @@ window.INDUSTRY_DATA = {
      "zh": "Which animal would you most want to talk to, if you could?"
     },
     {
+     "title": "How the world’s fires changed while humanity hit pause",
+     "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+     "pubDate": "Sun, 15 Nov 2026 12:07:34 +0000",
+     "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+     "source": "Ars Technica Science",
+     "zh": "How the world’s fires changed while humanity hit pause"
+    },
+    {
      "title": "NASA's Voyager 1 mission forever changed our view of Jupiter",
      "link": "https://www.livescience.com/space/space-exploration/voyager-1-forever-changed-our-view-of-jupiter-space-photo-of-the-week",
      "pubDate": "Sun, 15 Nov 2026 11:00:00 +0000",
      "summary": "As NASA's Voyager 1 probe reaches one light-day from Earth, we look back at its legendary photos of Jupiter that changed our view of the solar system.",
      "source": "Live Science",
      "zh": "NASA's Voyager 1 mission forever changed our view of Jupiter"
-    },
-    {
-     "title": "How did Cleopatra really die?",
-     "link": "https://www.livescience.com/archaeology/ancient-egyptians/how-did-cleopatra-really-die",
-     "pubDate": "Sun, 15 Nov 2026 10:00:00 +0000",
-     "summary": "Ancient writers couldn't agree on how Egypt's last queen took her own life, and the famous snakebite story may owe more to her enemies than to the facts.",
-     "source": "Live Science",
-     "zh": "How did Cleopatra really die?"
     },
     {
      "title": "James Webb telescope finds ice older than the star it orbits",
@@ -2752,14 +2760,6 @@ window.INDUSTRY_DATA = {
      "summary": "What determines which moments are remembered? The amygdala, typically associated with regulating fear and aggression, may play a major role",
      "source": "Science News",
      "zh": "The brain’s fear center moonlights as the save button for memories"
-    },
-    {
-     "title": "The Evolving Story of How Chemistry Became Biology",
-     "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-     "pubDate": "Thu, 12 Nov 2026 15:45:27 +0000",
-     "summary": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be. The post The Evolving Story of How Chemistry Became Biology first appeared on Quanta Magazine",
-     "source": "Quanta Magazine",
-     "zh": "The Evolving Story of How Chemistry Became Biology"
     }
    ]
   }

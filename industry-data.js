@@ -1978,6 +1978,14 @@ window.INDUSTRY_DATA = {
      "zh": "Sam Altman says he has \"personal strong empathy\" for Jensen Huang and \"heroes have flaws,\" but the AI industry \"will be fine\" due to strong revenues and demand (Shirin Ghaffary/Bloomberg)"
     },
     {
+     "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+     "link": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+     "pubDate": "Mon, 16 Nov 2026 18:04:55 +0000",
+     "summary": "Article URL: https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/ Comments URL: https://news.ycombinator.com/item?id=50520697 Points: 68 # Comments: 53",
+     "source": "Hacker News",
+     "zh": "Just 400 US Data Centers Use More Electricity Than Michigan"
+    },
+    {
      "title": "新任 007 演员官宣：“蝙蝠侠”罗伯特 · 帕丁森接棒，网友玩梗戏称新片为《007：黑暗骑士崛起》",
      "link": "https://www.ithome.com/1/028/010.htm",
      "pubDate": "Mon, 16 Nov 2026 17:43:18 GMT",

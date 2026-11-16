@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 06:12:16",
+ "generated_at": "2026/11/17 06:32:23",
  "recent_days": 7,
  "industries": [
   {
@@ -103,6 +103,14 @@
      "summary": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
      "source": "KDnuggets",
      "zh": "How to Give Claude Code Up-to-Date Documentation With Context7"
+    },
+    {
+     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
+     "summary": "Plus: CucumberVision!",
+     "source": "Import AI",
+     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
     },
     {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
@@ -239,14 +247,6 @@
      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
      "source": "OpenAI",
      "zh": "Our first phase of embedded assessments"
-    },
-    {
-     "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-     "link": "https://www.qbitai.com/2026/11/510493.html",
-     "pubDate": "Mon, 16 Nov 2026 07:58:57 +0000",
-     "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-     "source": "量子位",
-     "zh": "SuperLink2026开启创投行业超级链接时刻，12月北京见"
     }
    ]
   },
@@ -940,7 +940,7 @@
      "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
      "link": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
      "pubDate": "Mon, 16 Nov 2026 11:21:32 -0500",
-     "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at&nbsp;$1,400/KW, while NRG is &ldquo;developing 1.5 GW of new natural gas generation in Texas for just above $1,000/KW.&rdquo;",
+     "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at&nbsp;$1,400/kW, while NRG is &ldquo;developing 1.5 GW of new natural gas generation in Texas&rdquo;&nbsp;for just above $1,000/kW.",
      "source": "Utility Dive",
      "zh": "NRG to sell 4.9 GW of gas plants to LS Power for $4B"
     },
@@ -1113,6 +1113,14 @@
    "total": 7,
    "items": [
     {
+     "title": "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
+     "link": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
+     "pubDate": "Mon, 16 Nov 2026 22:22:47 +0000",
+     "summary": "BOSTON — For years, scientists have wondered whether Viagra-like pills could have an unexpected benefit in the brain. Some real-world evidence suggests men who take erectile dysfunction medicines are less likely to develop Alzheimer’s, and the ...",
+     "source": "Endpoints News",
+     "zh": "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results"
+    },
+    {
      "title": "Toward Connected Laboratory Ecosystems",
      "link": "https://www.genengnews.com/topics/toward-connected-laboratory-ecosystems/",
      "pubDate": "Mon, 16 Nov 2026 22:00:09 +0000",
@@ -1201,6 +1209,14 @@
      "zh": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug"
     },
     {
+     "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
+     "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
+     "pubDate": "Mon, 16 Nov 2026 12:00:00 -0500",
+     "summary": "CG&rsquo;s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street&rsquo;s expectations and lifting company shares.&nbsp;",
+     "source": "BioPharma Dive",
+     "zh": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial"
+    },
+    {
      "title": "J&J bets $2.2B on Ollin’s vision loss drug",
      "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
      "pubDate": "Mon, 16 Nov 2026 11:57:00 -0500",
@@ -1231,14 +1247,6 @@
      "summary": "Karen Knudsen has established a reputation for transforming medical organizations. Her latest project is the now 10-year-old Parker Institute for Cancer Immunotherapy, or PICI. Before becoming the nonprofit’s new CEO last year, Knudsen led a ...",
      "source": "Endpoints News",
      "zh": "Parker Institute's Karen Knudsen: Cancer research has a translation problem"
-    },
-    {
-     "title": "Lilly's 14th acquisition of the year is a little-known blood cancer biotech",
-     "link": "https://endpoints.news/lillys-14th-acquisition-of-the-year-is-a-little-known-blood-cancer-biotech/",
-     "pubDate": "Mon, 16 Nov 2026 14:37:18 +0000",
-     "summary": "Eli Lilly has been on a shopping spree this year thanks to its GLP-1-driven revenue, and its 14th acquisition of 2026 is in cancer, the domain of expertise for the pharma's head ...",
-     "source": "Endpoints News",
-     "zh": "Lilly's 14th acquisition of the year is a little-known blood cancer biotech"
     },
     {
      "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
@@ -1273,14 +1281,6 @@
      "zh": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging"
     },
     {
-     "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
-     "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
-     "pubDate": "Mon, 16 Nov 2026 05:00:00 -0500",
-     "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
-     "source": "BioPharma Dive",
-     "zh": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment"
-    },
-    {
      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
      "link": "https://www.genengnews.com/topics/artificial-intelligence/stockwatch-amid-nvidia-turmoil-what-happens-to-its-life-sciences-collaborations/",
      "pubDate": "Sun, 15 Nov 2026 21:57:19 +0000",
@@ -1312,14 +1312,6 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
-    {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
     {
      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
@@ -1505,22 +1497,6 @@
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
-     "title": "AST SpaceMobile presses case for developing own launch vehicle",
-     "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
-     "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
-     "summary": "AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism. The post AST SpaceMobile presses case for developing own launch vehicle appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "AST SpaceMobile presses case for developing own launch vehicle"
-    },
-    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1537,20 +1513,20 @@
      "zh": "What role does industry play in Europe’s space sovereignty push?"
     },
     {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
      "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Senate committee takes up nominees for NASA chief financial officer and inspector general"
+    },
+    {
+     "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
+     "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
+     "pubDate": "Wed, 11 Nov 2026 15:53:57 +0000",
+     "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
+     "source": "SpaceNews",
+     "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
     }
    ]
   },
@@ -1560,6 +1536,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+     "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+     "pubDate": "Mon, 16 Nov 2026 22:08:20 GMT",
+     "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
+     "source": "Dark Reading",
+     "zh": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts"
+    },
     {
      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
@@ -1745,14 +1729,6 @@
      "zh": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls"
     },
     {
-     "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
-     "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
-     "pubDate": "Thu, 12 Nov 2026 22:46:05 GMT",
-     "summary": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
-     "source": "Dark Reading",
-     "zh": "Getting Past the Post-Quantum Cryptography Discovery Phase"
-    },
-    {
      "title": "Who Runs the Ransomware Group Qilin?",
      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
      "pubDate": "Wed, 11 Nov 2026 18:06:01 +0000",
@@ -1777,6 +1753,22 @@
    "total": 18,
    "items": [
     {
+     "title": "拥抱100万亿美元的低碳机遇：胜利者、失利者、转型者与变革者",
+     "link": "https://www.huxiu.com/article/4906096.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 06:15:14 +0800",
+     "summary": "本文来自微信公众号： 清华管理评论 ，作者：杰里米·霍尔 等，责编：刘永选，原文标题：《前沿 | 拥抱100万亿美元的低碳机遇：胜利者、失利者、转型者与变革者》 应对气候危机不仅需要既有企业调整经营方式，还需要勇于直面重大挑战的企业家、投资者和企业组织，即“变革者”。他们将创建一批具有关键意义的新型组织，并参与塑造人类历史上规模最大的产业部门之一。不过，要成为真正的“胜利者”，企业还必须审慎评估其决策可能带来的非预期后果，确保低碳转型不仅为股东创造价值，还能惠及原本可能遭受气候变化严重冲击的数十亿人口。 应对气候危机是我们这个时代最紧迫的挑战之一。随着科学界、政界和商界大多数人已就这一危机的成",
+     "source": "虎嗅",
+     "zh": "拥抱100万亿美元的低碳机遇：胜利者、失利者、转型者与变革者"
+    },
+    {
+     "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+     "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+     "pubDate": "Mon, 16 Nov 2026 22:12:31 +0000",
+     "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+     "source": "TechCrunch",
+     "zh": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’"
+    },
+    {
      "title": "A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug (Nate Raymond/Reuters)",
      "link": "https://www.techmeme.com/261116/p44#a261116p44",
      "pubDate": "Mon, 16 Nov 2026 17:05:02 -0500",
@@ -1785,60 +1777,20 @@
      "zh": "A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug (Nate Raymond/Reuters)"
     },
     {
-     "title": "Microsoft details how three problems combined for a global outage",
+     "title": "Three small failures combined to take down Microsoft 365",
      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
      "pubDate": "Mon, 16 Nov 2026 21:56:39 +0000",
      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
      "source": "Ars Technica",
-     "zh": "Microsoft details how three problems combined for a global outage"
-    },
-    {
-     "title": "Spamhaus new email sender requirements in November",
-     "link": "https://www.spamhaus.org/sender-guidelines/",
-     "pubDate": "Mon, 16 Nov 2026 21:47:19 +0000",
-     "summary": "Article URL: https://www.spamhaus.org/sender-guidelines/ Comments URL: https://news.ycombinator.com/item?id=50523784 Points: 11 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Spamhaus new email sender requirements in November"
+     "zh": "Three small failures combined to take down Microsoft 365"
     },
     {
      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
      "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
      "pubDate": "Mon, 16 Nov 2026 21:45:45 +0000",
-     "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a “technical issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
+     "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
      "source": "WIRED",
      "zh": "The Bank Outage May Have Nothing to Do With Your Bank"
-    },
-    {
-     "title": "BugMeNot Has Closed",
-     "link": "https://www.bugmenot.com/",
-     "pubDate": "Mon, 16 Nov 2026 21:32:17 +0000",
-     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 79 # Comments: 40",
-     "source": "Hacker News",
-     "zh": "BugMeNot Has Closed"
-    },
-    {
-     "title": "OpenCode Browse",
-     "link": "https://opencode.ai/product/browse",
-     "pubDate": "Mon, 16 Nov 2026 21:20:37 +0000",
-     "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 9 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "OpenCode Browse"
-    },
-    {
-     "title": "Optimizely Compromised",
-     "link": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
-     "pubDate": "Mon, 16 Nov 2026 21:08:38 +0000",
-     "summary": "Article URL: https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/ Comments URL: https://news.ycombinator.com/item?id=50523300 Points: 23 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Optimizely Compromised"
-    },
-    {
-     "title": "My Quest to push native Three.js quality match AAA Game Engines",
-     "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-     "pubDate": "Mon, 16 Nov 2026 21:07:43 +0000",
-     "summary": "Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs Comments URL: https://news.ycombinator.com/item?id=50523291 Points: 37 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "My Quest to push native Three.js quality match AAA Game Engines"
     },
     {
      "title": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic&apos;s IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)",
@@ -1863,14 +1815,6 @@
      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
      "source": "Ars Technica",
      "zh": "Hyperscale data centers use 2% of US electricity"
-    },
-    {
-     "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-     "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-     "pubDate": "Mon, 16 Nov 2026 20:48:08 +0000",
-     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 38 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case"
     },
     {
      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
@@ -2015,6 +1959,38 @@
      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
      "source": "WIRED",
      "zh": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts"
+    },
+    {
+     "title": "AO3 Is Back. This Is Not a Drill",
+     "link": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
+     "pubDate": "Mon, 16 Nov 2026 16:40:33 +0000",
+     "summary": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
+     "source": "WIRED",
+     "zh": "AO3 Is Back. This Is Not a Drill"
+    },
+    {
+     "title": "“偷跑”的美国商务部新规",
+     "link": "https://www.huxiu.com/article/4906095.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 00:31:26 +0800",
+     "summary": "本文来自微信公众号： 敏大是一只柯基 ，作者：敏大的朋友们 我在上一篇文章里提到，考虑到中美峰会即将举行，美国政府大概率不会在这之前推出更为激进的限制中国AI行业的措施。哪知道文章刚写完，美国商务部就在官网挂出暂行最终规则，对印尼、新加坡等五国的先进芯片出口增设许可要求，限制中国企业远程使用海外算力，并对全球的数据中心增设实质性的合规义务。具体内容可以看东不压桥研究院的这一篇，我不再赘述。 但是，商务部的这份新规生效了吗？ 新规规定，自刊登于联邦公报（Federal Register）之日起生效。但到目前为止，它只是在商务部官网发布，还没有完成刊登联邦公报的程序，联邦公报定于2026年11月1",
+     "source": "虎嗅",
+     "zh": "“偷跑”的美国商务部新规"
+    },
+    {
+     "title": "Robert Pattinson 成为第七任 007",
+     "link": "https://www.solidot.org/story?sid=85905",
+     "pubDate": "Tue, 17 Nov 2026 00:18:40 +0800",
+     "summary": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听说过他的名字。亚马逊显然是希望由一名有强大票房号召力的明星领衔主演其首部 007 电影。",
+     "source": "Solidot",
+     "zh": "Robert Pattinson 成为第七任 007"
+    },
+    {
+     "title": "Jensen Huang Is Gone. Now What?",
+     "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+     "pubDate": "Mon, 16 Nov 2026 16:12:51 +0000",
+     "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+     "source": "WIRED",
+     "zh": "Jensen Huang Is Gone. Now What?"
     }
    ]
   },
@@ -2024,6 +2000,46 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "JBL Tune 730BT headphones drop to $49.95 with 44% off",
+     "link": "https://www.androidauthority.com/jbl-tune-730bt-deal-3735758/",
+     "pubDate": "Mon, 16 Nov 2026 22:24:54 +0000",
+     "summary": "JBL Tune 730BT headphones are 44% off on Amazon, hitting a record low of $49.95 with up to 76 hours of battery life.",
+     "source": "Android Authority",
+     "zh": "JBL Tune 730BT headphones drop to $49.95 with 44% off"
+    },
+    {
+     "title": "‘Schmigadoon!’ and ‘Widow’s Bay’ land Apple TV two Grammy nominations",
+     "link": "https://9to5mac.com/2026/11/16/schmigadoon-and-widows-bay-land-apple-tv-two-grammy-nominations/",
+     "pubDate": "Mon, 16 Nov 2026 22:20:37 +0000",
+     "summary": "Apple TV today celebrated two Grammy nominations, one of which further establishes a canceled show as an unlikely awards success story. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "‘Schmigadoon!’ and ‘Widow’s Bay’ land Apple TV two Grammy nominations"
+    },
+    {
+     "title": "Save $120 on the Skullcandy Crusher ANC 2 noise canceling headphones",
+     "link": "https://www.androidauthority.com/skullcandy-crusher-anc-2-deal-amazon-3735757/",
+     "pubDate": "Mon, 16 Nov 2026 22:17:10 +0000",
+     "summary": "The headphones are $120 off on Amazon, its lowest price in a year, with adjustable haptic bass and noise canceling.",
+     "source": "Android Authority",
+     "zh": "Save $120 on the Skullcandy Crusher ANC 2 noise canceling headphones"
+    },
+    {
+     "title": "Galaxy Tab A11 Plus Kids Edition hits a record low",
+     "link": "https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-kids-edition-deal-3735756/",
+     "pubDate": "Mon, 16 Nov 2026 22:13:29 +0000",
+     "summary": "The Galaxy Tab A11 Plus Kids Edition is $100 off on Amazon, bringing the kid-proof tablet to a record low of $249.99.",
+     "source": "Android Authority",
+     "zh": "Galaxy Tab A11 Plus Kids Edition hits a record low"
+    },
+    {
+     "title": "Gemini skills add file support and sharing ahead of Gems deprecation",
+     "link": "https://9to5google.com/2026/11/16/gemini-skills-files-sharing/",
+     "pubDate": "Mon, 16 Nov 2026 22:11:48 +0000",
+     "summary": "Ahead of the Gems shutdown that starts rolling out tomorrow , Google is adding two key features to Gemini skills. more…",
+     "source": "9to5Google",
+     "zh": "Gemini skills add file support and sharing ahead of Gems deprecation"
+    },
     {
      "title": "Samsung Galaxy Z Fold8 and Fold8 Ultra win CES 2027 Best of Innovation awards",
      "link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_and_fold8_ultra_win_ces_2027_best_of_innovation_awards-news-75498.php",
@@ -2137,30 +2153,6 @@
      "zh": "iPhone Duo now has twice as many optimized apps as it did 10 days ago"
     },
     {
-     "title": "Google Docs solves its Compare tool clutter problem with Word doc support",
-     "link": "https://www.androidauthority.com/google-docs-compare-tool-word-support-3735699/",
-     "pubDate": "Mon, 16 Nov 2026 20:14:33 +0000",
-     "summary": "Google Docs’ Compare tool now supports Word files.",
-     "source": "Android Authority",
-     "zh": "Google Docs solves its Compare tool clutter problem with Word doc support"
-    },
-    {
-     "title": "Here’s how to get Create My Widget on your Pixel right now",
-     "link": "https://www.androidauthority.com/google-pixel-create-my-widget-early-access-3735694/",
-     "pubDate": "Mon, 16 Nov 2026 19:58:19 +0000",
-     "summary": "You don't need the November Pixel update to get Create My Widget.",
-     "source": "Android Authority",
-     "zh": "Here’s how to get Create My Widget on your Pixel right now"
-    },
-    {
-     "title": "Apple releases beautiful new iPhone wallpapers featuring Pokémon, download here",
-     "link": "https://9to5mac.com/2026/11/16/apple-releases-beautiful-new-iphone-wallpapers-featuring-pokemon-download-here/",
-     "pubDate": "Mon, 16 Nov 2026 19:58:04 +0000",
-     "summary": "Apple is celebrating the 30th anniversary of Pokémon with a collection of original wallpapers for iPhone. There are four total, including one designed for iPhone Duo. more…",
-     "source": "9to5Mac",
-     "zh": "Apple releases beautiful new iPhone wallpapers featuring Pokémon, download here"
-    },
-    {
      "title": "Phone by Google 246 rolls out gradient icon redesign on Android [U]",
      "link": "https://9to5google.com/2026/11/16/phone-by-google-246-new-icon/",
      "pubDate": "Mon, 16 Nov 2026 19:54:00 +0000",
@@ -2175,14 +2167,6 @@
      "summary": "State AG Rob Bonta has accused the company of making AI agents \"without the safeguards and monitoring necessary to adequately protect\" users.",
      "source": "Engadget",
      "zh": "California sues OpenAI after that Hugging Face rogue hacking incident"
-    },
-    {
-     "title": "Samsung’s working on new international SIM tools for One UI 9.5",
-     "link": "https://www.androidauthority.com/samsung-travel-sim-tool-3735617/",
-     "pubDate": "Mon, 16 Nov 2026 19:47:03 +0000",
-     "summary": "One UI 9.5 code shows travel SIM usage tracking by trip and day.",
-     "source": "Android Authority",
-     "zh": "Samsung’s working on new international SIM tools for One UI 9.5"
     },
     {
      "title": "Which Google Pixel phone is most similar to the Galaxy S26+?",
@@ -2241,14 +2225,6 @@
      "zh": "Deals: Early Black Samsung now live – Galaxy Fold 8 $350 off, S26 Ultra $450 off, Tabs from $200, more"
     },
     {
-     "title": "Samsung’s ‘Galaxy Studio’ headphones leak with touch controls, two colors",
-     "link": "https://9to5google.com/2026/11/16/samsungs-galaxy-studio-headphones-leak-with-touch-controls-two-colors/",
-     "pubDate": "Mon, 16 Nov 2026 16:45:00 +0000",
-     "summary": "We’re only a couple of months away from our next Galaxy Unpacked, and while the expanded Galaxy S27 series is practically guaranteed to show up, the real fun tends to lie in whatever other gadgets show up alongside Samsung’s next flagship smartphone release. Based on some new leaks, it’s sure lookin",
-     "source": "9to5Google",
-     "zh": "Samsung’s ‘Galaxy Studio’ headphones leak with touch controls, two colors"
-    },
-    {
      "title": "Huawei Osta O1 Pro's live image leaks ahead of launch",
      "link": "https://www.gsmarena.com/huawei_osta_o1_pros_live_image_leaks_ahead_of_launch-news-75493.php",
      "pubDate": "Mon, 16 Nov 2026 17:11:02 +0100",
@@ -2273,60 +2249,108 @@
    "total": 13,
    "items": [
     {
+     "title": "United Airlines reports system outage affecting departing flights",
+     "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+     "pubDate": "Mon, 16 Nov 2026 22:28:44 GMT",
+     "summary": "",
+     "source": "CNBC",
+     "zh": "United Airlines reports system outage affecting departing flights"
+    },
+    {
+     "title": "Interpace Biosciences GAAP EPS of -$0.26, revenue of $10.4M",
+     "link": "https://seekingalpha.com/news/4673370-interpace-biosciences-gaap-eps-of-0_26-revenue-of-10_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:22:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Interpace Biosciences GAAP EPS of -$0.26, revenue of $10.4M"
+    },
+    {
+     "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+     "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+     "pubDate": "Mon, 16 Nov 2026 22:22:52 GMT",
+     "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+     "source": "CNBC",
+     "zh": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding"
+    },
+    {
+     "title": "Super League GAAP EPS of -$0.83 beats by $0.76, revenue of $2.61M misses by $0.45M",
+     "link": "https://seekingalpha.com/news/4673368-super-league-gaap-eps-of-0_83-beats-by-0_76-revenue-of-2_61m-misses-by-0_45m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:21:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Super League GAAP EPS of -$0.83 beats by $0.76, revenue of $2.61M misses by $0.45M"
+    },
+    {
+     "title": "3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves",
+     "link": "https://seekingalpha.com/news/4673335-3g-capital-starts-position-nu-adds-to-taiwan-semiconductor-cuts-stake-in-intel-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:21:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves"
+    },
+    {
+     "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
+     "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 22:21:00 GMT",
+     "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
+     "source": "MarketWatch",
+     "zh": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled."
+    },
+    {
      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
      "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-     "pubDate": "Mon, 16 Nov 2026 22:07:51 GMT",
+     "pubDate": "Mon, 16 Nov 2026 22:19:02 GMT",
      "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
      "source": "CNBC",
      "zh": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports"
     },
     {
-     "title": "3 things to look out for on Tuesday",
-     "link": "https://seekingalpha.com/news/4673353-3-things-to-look-out-for-on-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:06:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "3 things to look out for on Tuesday"
+     "title": "避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高",
+     "link": "https://wallstreetcn.com/articles/3785999",
+     "pubDate": "Tue, 17 Nov 2026 06:17:36 +0800",
+     "summary": "Anthropic本周IPO及英伟达财报两大催化剂悬而未决，市场倾向先降低风险敞口。科技股抛售潮延续，美股周一全线下挫，标普500指数创近三个月最大三日跌幅。 标普500指数 收跌1.9%， 纳指 数重挫2.5%， 道指 下滑1.4%，全球股票基准MSCI世界指数亦跌1.6%。半导体板块首当其冲， 芯片指数 单日下挫5.3%，AI与科技板块的广泛去风险操作令科技巨头也无从幸免。 与此同时，原油价格在地缘冲突消息中意外下行， 布伦特原油 跌至约93美元/桶， WTI原油 跌约3.5%至85.50美元/桶，但股市与大宗商品的双双走软并未提振债券， 美债收益率横盘 。 美元指数 小幅走高，续创18个",
+     "source": "华尔街见闻",
+     "zh": "避险情绪主导市场，芯片股领跌拖累标普、纳指三连跌，英伟达跌4%，美元创18个月新高"
     },
     {
-     "title": "Starboard adds Knife Rive, Shake Shack, cuts Lamb Weston among Q3 moves",
-     "link": "https://seekingalpha.com/news/4673334-starboard-adds-knife-rive-shake-shack-cuts-lamb-weston-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:05:15 -0500",
+     "title": "Starfighters Space, Inc. GAAP EPS of -$0.08",
+     "link": "https://seekingalpha.com/news/4673364-starfighters-space-inc-gaap-eps-of-0_08?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:16:38 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Starboard adds Knife Rive, Shake Shack, cuts Lamb Weston among Q3 moves"
+     "zh": "Starfighters Space, Inc. GAAP EPS of -$0.08"
     },
     {
-     "title": "Yalla Non-GAAP EPS of $0.22, revenue of $82.61M misses by $4.61M",
-     "link": "https://seekingalpha.com/news/4673358-yalla-non-gaap-eps-of-0_22-revenue-of-82_61m-misses-by-4_61m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:03:25 -0500",
+     "title": "Freedom Holding GAAP EPS of $0.76, revenue of $910.1M",
+     "link": "https://seekingalpha.com/news/4673362-freedom-holding-gaap-eps-of-0_76-revenue-of-910_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:14:49 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Yalla Non-GAAP EPS of $0.22, revenue of $82.61M misses by $4.61M"
+     "zh": "Freedom Holding GAAP EPS of $0.76, revenue of $910.1M"
     },
     {
-     "title": "General Mills declares $0.61 dividend",
-     "link": "https://seekingalpha.com/news/4673357-general-mills-declares-0_61-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:01:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "General Mills declares $0.61 dividend"
+     "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+     "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+     "pubDate": "Mon, 16 Nov 2026 22:14:47 GMT",
+     "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+     "source": "CNBC",
+     "zh": "JPMorgan Chase says temporary software bug is affecting consumer banking"
     },
     {
-     "title": "Agora GAAP EPADS of $0.03, revenue of $42.01M",
-     "link": "https://seekingalpha.com/news/4673356-agora-gaap-epads-of-003-revenue-of-4201m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:01:39 -0500",
+     "title": "GoGo AI Network names Drew Zimmerman interim CEO, eyes reverse stock split",
+     "link": "https://seekingalpha.com/news/4673359-gogo-ai-network-names-drew-zimmerman-interim-ceo-eyes-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:14:35 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Agora GAAP EPADS of $0.03, revenue of $42.01M"
+     "zh": "GoGo AI Network names Drew Zimmerman interim CEO, eyes reverse stock split"
     },
     {
-     "title": "XP declares $0.46 dividend",
-     "link": "https://seekingalpha.com/news/4673355-xp-declares-0_46-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 17:00:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "XP declares $0.46 dividend"
+     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 22:08:00 GMT",
+     "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+     "source": "MarketWatch",
+     "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
     },
     {
      "title": "英特尔股价盘后下跌近2%",
@@ -2345,6 +2369,14 @@
      "zh": "消费入座是个城市考题"
     },
     {
+     "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
+     "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+     "pubDate": "Mon, 16 Nov 2026 21:58:59 GMT",
+     "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
+     "source": "Financial Times",
+     "zh": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade"
+    },
+    {
      "title": "恒指期货夜盘收跌0.34%，恒生科技指数期货夜盘收跌0.89%",
      "link": "http://hk.eastmoney.com/news/1556,202611173932228240.html",
      "pubDate": "Tue, 17 Nov 2026 05:57:46 +0800",
@@ -2359,14 +2391,6 @@
      "summary": "微软一个隐藏长达四个月的系统漏洞， 在上周引发了一场波及全球的服务中断事故 ，暴露出高度依赖单一科技供应商的潜在风险。 此次事故始于11月11日的一次例行流量调配操作，直至次日上午11时30分——即美国企业流量高峰期——微软才意识到问题的严重性。 此后，公司又耗费约15小时排查故障并着手部署修复方案，导致众多企业和政府客户工作陷入停滞。在事故最严重时段，Outlook后台超过80%的服务器处于无响应状态，Teams视频会议邀请消失，员工不得不转而依赖电话和纸笔维持工作。 微软负责职场软件业务的执行副总裁Charles Lamanna周一在X平台发文，就此次宕机事件正式道歉。截至发稿，微软周一盘",
      "source": "华尔街见闻",
      "zh": "微软全球服务宕机调查：一个潜伏四个月的漏洞，15小时才发现问题所在"
-    },
-    {
-     "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-     "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-     "pubDate": "Mon, 16 Nov 2026 21:55:19 GMT",
-     "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-     "source": "CNBC",
-     "zh": "JPMorgan Chase says temporary software bug is affecting consumer banking"
     },
     {
      "title": "马斯克：我们曾向美国交通部长达菲提出 免费向美国联邦航空管理局（FAA）提供星链服务",
@@ -2449,22 +2473,6 @@
      "zh": "Kalshi plans to launch stock trading soon"
     },
     {
-     "title": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.",
-     "link": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 21:18:00 GMT",
-     "summary": "Shares of Trump-backed USA Rare Earth slides 10% as analysts push out their sales estimates.",
-     "source": "MarketWatch",
-     "zh": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst."
-    },
-    {
-     "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
-     "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 21:17:00 GMT",
-     "summary": "Investors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem.",
-     "source": "MarketWatch",
-     "zh": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies"
-    },
-    {
      "title": "全球市场：美股三大指数收跌 费城半导体指数跌超5% 国际油价跌超3% 金银走弱",
      "link": "http://stock.eastmoney.com/news/11784,202611173932222649.html",
      "pubDate": "Tue, 17 Nov 2026 05:15:26 +0800",
@@ -2479,38 +2487,6 @@
      "summary": "加州总检察长对OpenAI提起诉讼，指控其在AI模型测试中疏于管控、危害公共安全，此案将成为美国AI监管领域的标志性法律行动。 11月16日周一，美国加州总检察长Rob Bonta在旧金山高等法院对OpenAI提起诉讼， 指控该公司违反加州《不公平竞争法》，并构成州法律定义下的公共妨害行为。 Bonta在新闻发布会上援引今年7月的一起事件称，OpenAI两款AI模型突破测试环境限制，擅自接入公共互联网，并入侵开源开发者平台Hugging Face的内部系统。 更令监管方担忧的是， OpenAI向调查人员披露，公司此前已知悉80起\"涉及失控及未授权访问第三方网络和网站\"的事件，但拒绝提供调查人员",
      "source": "华尔街见闻",
      "zh": "美国加州正式起诉OpenAI，指控其模型测试疏于管控、危害公共安全"
-    },
-    {
-     "title": "美国零售柴油价格跌破每加仑6美元，通胀压力有所缓解",
-     "link": "https://wallstreetcn.com/articles/3786049",
-     "pubDate": "Tue, 17 Nov 2026 05:04:27 +0800",
-     "summary": "美国零售柴油价格跌破每加仑6美元关口，为这一牵动全球经济的关键能源品种提供了久违的喘息空间，但当前价格仍处于同期历史最高水平。 据AAA数据，周一美国零售柴油价格降至每加仑5.9989美元，这是自9月初以来首次跌破6美元。此前，该价格于9月下旬一度攀升至每加仑逾6.50美元的高点。 柴油价格持续高企，已推动能源与食品价格走高，今年秋季批发通胀涨速更创下2022年以来最快纪录。 价格回落对饱受成本挤压的农户、卡车司机及普通消费者而言是一个积极信号。柴油素有\"全球经济的驮马燃料\"之称，广泛用于驱动运送食品的长途货车、农业机械、家用供暖设备以及数据中心备用发电机，其价格走势对整体经济具有深远影响。 ",
-     "source": "华尔街见闻",
-     "zh": "美国零售柴油价格跌破每加仑6美元，通胀压力有所缓解"
-    },
-    {
-     "title": "加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门",
-     "link": "https://wallstreetcn.com/articles/3786046",
-     "pubDate": "Tue, 17 Nov 2026 05:03:33 +0800",
-     "summary": "加拿大央行行长Tiff Macklem确认将于2027年6月任期届满后卸任，不寻求连任。这一消息引发市场对央行未来政策走向及领导层更迭的广泛关注。 11月16日，加拿大央行发布声明表示， 央行行长Tiff Macklem已告知董事会，他将在2027年6月2日七年任期届满后不再寻求连任。 央行董事会已启动遴选下一任行长的程序，预计于2027年春季完成招募，新行长任期同样为七年，自2027年6月3日起生效。 Macklem表示： 担任加拿大央行第十任行长是我职业生涯的最高荣誉，在任期间，加拿大在一个更加分裂、更易受冲击的世界中艰难前行，央行以果断行动、审慎判断和对使命的坚定承诺应对了这些挑战。 在",
-     "source": "华尔街见闻",
-     "zh": "加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门"
-    },
-    {
-     "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
-     "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
-     "pubDate": "Mon, 16 Nov 2026 21:02:17 GMT",
-     "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
-     "source": "Financial Times",
-     "zh": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade"
-    },
-    {
-     "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
-     "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
-     "pubDate": "Mon, 16 Nov 2026 20:48:37 GMT",
-     "summary": "State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’",
-     "source": "Financial Times",
-     "zh": "OpenAI sued by California over 80 ‘loss of control’ incidents"
     }
    ]
   },

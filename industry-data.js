@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 07:51:55",
+ "generated_at": "2026/11/16 08:14:53",
  "recent_days": 7,
  "industries": [
   {
@@ -1746,6 +1746,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "玩家发现 EA 不小心移除《FC 27 Lite》D 加密，完整版仍保留 Denuvo",
+     "link": "https://www.ithome.com/1/027/480.htm",
+     "pubDate": "Mon, 16 Nov 2026 00:09:53 GMT",
+     "summary": "IT之家 11 月 16 日消息，游戏媒体 DSOGaming 上周报道称，《EA SPORTS FC 27 Lite》在最近一次更新后似乎已经移除了 Denuvo 反篡改技术，导致该版本可离线运行。 IT之家注：《EA SPORTS FC 27 Lite》是《EA SPORTS FC 27》的免费下载试玩版，于 2026 年 9 月 25 日随完整版同步推出。 值得注意的是，EA 官方游戏说明仍列出了第三方 DRM，Steam 商店页面也仍标注《EA SPORTS FC 27 Lite》仍采用 Denuvo Anti-tamper。 最初有玩家发现，Lite 版的主程序文件 FC27_Sho",
+     "source": "IT之家",
+     "zh": "玩家发现 EA 不小心移除《FC 27 Lite》D 加密，完整版仍保留 Denuvo"
+    },
+    {
+     "title": "“穷鬼超市”，开启巷战",
+     "link": "https://www.huxiu.com/article/4905767.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 08:03:37 +0800",
+     "summary": "本文来自微信公众号： 斑马消费 ，作者：徐霁 年末，各路“穷鬼超市”的拓店明显提速。 11月21日，奥乐齐将在合肥、芜湖两地6店齐开，杀入安徽市场。而安徽本土商超龙头百大合家福旗下“淝小百”已筹划许久，首店预计年内开业，与奥乐齐正面抗衡；芜湖则是三只松鼠生活馆的大本营。 不仅是奥乐齐，各路硬折扣超市玩家，都已按下了扩张的快进键：京东折扣超市将于11月27日，在河北邯郸、安徽滁州3店同开；华润万家旗下苏果平价店，自9月首店开业后，两个月内已在南京落地3家店。 贴着“便宜”的共同标签，外资折扣店、电商平台、老牌商超、区域龙头集体挤进了社区商圈。 超盒算NB的拓店速度更快，年内新增约200家，全国门",
+     "source": "虎嗅",
+     "zh": "“穷鬼超市”，开启巷战"
+    },
+    {
+     "title": "2027 款 LG OLED B7 电视曝光：48、55、77 英寸型号已通过韩国认证，预计还有 65 和 83 英寸版本",
+     "link": "https://www.ithome.com/1/027/478.htm",
+     "pubDate": "Mon, 16 Nov 2026 00:00:33 GMT",
+     "summary": "IT之家 11 月 16 日消息，据韩国 Safety Korea 认证数据库相关记录，LG 正在为 OLED B7 系列准备新机型，目前已有多款产品出现在认证信息中。 相关认证信息涉及 48 英寸、55 英寸和 77 英寸机型，48 英寸版本还出现了两种不同的底座设计。该设计与 LG 现有 G6 系列提供不同支架选项的做法类似。 德国媒体 PRAD 进一步核查后指出，韩国 Safety Korea 数据库中目前能够确认的是 48 英寸、55 英寸和 77 英寸三个尺寸，另外根据现有 B6 系列推测至少还会有 65 英寸和 83 英寸机型。 目前，LG 尚未公布 OLED B7 系列的具体面板",
+     "source": "IT之家",
+     "zh": "2027 款 LG OLED B7 电视曝光：48、55、77 英寸型号已通过韩国认证，预计还有 65 和 83 英寸版本"
+    },
+    {
+     "title": "IT早报 1116：华为鸿蒙生态用户数达 9980 万；美科技界预期黄仁勋硅谷东山再起；中国 BLG 战队夺得英雄联盟 S16 冠军；余承东公布华为 Mate X8 折叠手机外观...",
+     "link": "https://www.ithome.com/1/027/477.htm",
+     "pubDate": "Sun, 15 Nov 2026 23:55:27 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 16 日星期一，今天的重要科技资讯有： 1. 华为何刚：鸿蒙生态用户数已达 9980 万，预计再过几天就能突破 1 亿 据爱范儿报道，华为终端 BG CEO 何刚在南京大学透露，截至当天，鸿蒙生态用户数已经达到 9980 万，距离 1 亿大关仅差 20 万。他预计，再过几天就能突破 1 亿。>> 查看详情 2. 消息称科技界预期黄仁勋将在硅谷“东山再起”，业内高管称多家公司有意伸出橄榄枝 据美媒 Politico 引述多位硅谷高管及行业内部人士报道称，科技界普遍预期黄仁勋将在硅谷“东山再起”。>> 查看详情 3. 队史首次！BLG 战队",
+     "source": "IT之家",
+     "zh": "IT早报 1116：华为鸿蒙生态用户数达 9980 万；美科技界预期黄仁勋硅谷东山再起；中国 BLG 战队夺得英雄联盟 S16 冠军；余承东公布华为 Mate X8 折叠手机外观..."
+    },
+    {
+     "title": "奇瑞被低估了",
+     "link": "https://www.huxiu.com/article/4905368.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 07:53:56 +0800",
+     "summary": "作者｜Eastland 头图｜视觉中国 奇瑞造车之路可谓筚路蓝缕。它的前身是1997年成立的&ldquo;安徽汽车零部件有限公司&rdquo;。1999年开始生产风云系轿车，但没有国家层面的造车资质，只能在本地小批量投放。 在国家经贸委协调下，奇瑞通过上汽集团获得资质，代价是20%股权。上汽对奇瑞秉持&ldquo;四不原则&rdquo;，即不投资、不参与管理、不承担债务／风险、不分红。 在奇瑞相继打造出东方之子、QQ等国民神车后，上汽试图增资被拒。2004年9月双方解除股权关系，但奇瑞通过&ldquo;目录承继式析产&rdquo;获得独立造车资质。 短短二十几年，奇瑞从名不见经传的地方零部件企",
+     "source": "虎嗅",
+     "zh": "奇瑞被低估了"
+    },
+    {
+     "title": "闲鱼通报“钓鱼竿涉色情交易”等四起谣言：已报警，将起诉",
+     "link": "https://www.ithome.com/1/027/476.htm",
+     "pubDate": "Sun, 15 Nov 2026 23:52:43 GMT",
+     "summary": "IT之家 11 月 16 日消息，据“闲鱼黑板报”公众号今日发布，2026 年 8 月以来，网络空间流传“拐卖儿童暗语”“偷窃 A4 纸出售”“农产品涉色情交易”“钓鱼竿涉色情交易”等不实信息。污名化闲鱼为“ 暗网 ”。 闲鱼称，相关信息经调查均为谣言，平台已向造谣人所在地报警。公众号表示，上述谣言严重干扰平台正常交易秩序，污蔑用户和平台声誉，闲鱼将对相关造谣者发起民事诉讼，依法追究造谣者的法律责任。 IT之家附四起谣言及处理情况如下： 编造“拐卖儿童暗语”谣言 ：赵某某在短视频平台评论区，将普通交易对话歪曲解读为“拐卖儿童暗语”，相关谣言被迅速转发并登上热搜，引发社会恐慌。目前，造谣者已公开",
+     "source": "IT之家",
+     "zh": "闲鱼通报“钓鱼竿涉色情交易”等四起谣言：已报警，将起诉"
+    },
+    {
+     "title": "前任天堂员工：《塞尔达传说》在《旷野之息》推出前曾陷入严重困境，未来不能长期局限于单一玩法风格",
+     "link": "https://www.ithome.com/1/027/475.htm",
+     "pubDate": "Sun, 15 Nov 2026 23:49:41 GMT",
+     "summary": "IT之家 11 月 16 日消息，前任天堂员工克里斯塔 · 杨（Krysta Yang）和基特 · 埃利斯（Kit Ellis）在 11 月 13 日的一期播客节目中谈到了《塞尔达传说》系列从传统玩法转向开放世界设计的原因。 据介绍，在《塞尔达传说：旷野之息》推出之前，塞尔达该系列曾面临严重的市场困境，核心玩家群体持续流失，新玩家增长乏力，多款作品的受众兴趣和销量呈下降趋势。两人认为，任天堂当时需要对系列玩法进行重大调整，而不是继续沿用传统模板。 部分玩家认为，任天堂放弃传统塞尔达玩法时，该系列仍处于人气巅峰，因此希望开发团队重新推出以传统迷宫和线性流程为核心的作品。克里斯塔 · 杨表示，这种",
+     "source": "IT之家",
+     "zh": "前任天堂员工：《塞尔达传说》在《旷野之息》推出前曾陷入严重困境，未来不能长期局限于单一玩法风格"
+    },
+    {
+     "title": "小菜园掉入了“翻台率陷阱”",
+     "link": "https://www.huxiu.com/article/4905766.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 07:48:55 +0800",
+     "summary": "本文来自微信公众号： 财报纪 ，作者：专注财报分析的，原文标题：《首次覆盖 | 小菜园掉入了“翻台率陷阱”》 餐厅的生意好不好，过往最直接的答卷是：有没有人排队，一张桌子一天能接待几轮客人。 2026年上半年，小菜园整体翻台率从上年同期的3.1次升至3.5次，堂食收入增长18.1%。但公司总收入增长7%的同时，净利润下降24.3%，净利率降至约10%。 （财报⼀图流如下图所示，单位：亿元，来源：企业财报，财报纪整理） 更值得注意的是，同一批617家门店，翻台率有所回升，销售额却下降了12.5%。堂食的热闹与门店整体收入之间，出现了一道缺口。 小菜园虽然不是中国餐饮行业最典型的餐饮品牌，但是弱化",
+     "source": "虎嗅",
+     "zh": "小菜园掉入了“翻台率陷阱”"
+    },
+    {
+     "title": "村里又一个大学生，为什么还是动作游戏？",
+     "link": "https://www.huxiu.com/article/4905765.html?f=rss",
+     "pubDate": "Mon, 16 Nov 2026 07:44:47 +0800",
+     "summary": "本文来自微信公众号： 刺猬公社 ，作者：刺猬公社编辑部 《影之刃零》火了，但怎么又是类魂？ 10月底，中国玩家期待已久的《影之刃零》终于如约而至。 令人振奋的是，这款新晋国产大作的开局表现相当不错。 商业成绩上，《影之刃零》发售后72小时内销量突破400万份，按照标准价268元估算，游戏收入已达10亿元量级。结合行业经验来看，同类产品的首年销量大致为首周的2到3倍，这意味着《影之刃零》首年销量突破1000万将是大概率事件。 销量之外，这部新作的口碑也十分扎实，媒体综合评测均分达到了88分。作为对比，《黑神话：悟空》的MC均分为81分，《鬼武者：剑之道》则为82分（均为PC版评分）。玩家方面，S",
+     "source": "虎嗅",
+     "zh": "村里又一个大学生，为什么还是动作游戏？"
+    },
+    {
+     "title": "微软为 XBOX Series X|S、XBOX One 主机推送初代 XBOX / XBOX 360 开机动画",
+     "link": "https://www.ithome.com/1/027/474.htm",
+     "pubDate": "Sun, 15 Nov 2026 23:43:50 GMT",
+     "summary": "IT之家 11 月 16 日消息，微软 XBOX 今天宣布， 公司将从今天起陆续为所有 XBOX Series X|S 和 XBOX One 主机推送初代 XBOX 开机动画 ， 以及两款不同年代的 XBOX 360 开机动画 。 微软表示，此次更新是 XBOX 25 周年纪念的一部分，本次更新将从今天起推送，玩家们可以查看自己的主机是否收到更新。 作为参考，初代 XBOX 于 2001 年 11 月 15 日在北美市场正式发售，如今已迎来上市 25 周年。该主机本质上是一台采用定制硬件的 PC，搭载英特尔 Pentium III 处理器和英伟达 GPU，机身采用体积庞大的黑绿色外壳，主要竞争",
+     "source": "IT之家",
+     "zh": "微软为 XBOX Series X|S、XBOX One 主机推送初代 XBOX / XBOX 360 开机动画"
+    },
+    {
      "title": "达里奥为什么要整黄仁勋？",
      "link": "https://www.huxiu.com/article/4905762.html?f=rss",
      "pubDate": "Mon, 16 Nov 2026 07:40:41 +0800",
@@ -1762,60 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "不想上班的00后，靠陪飞环游世界？"
     },
     {
-     "title": "闻泰科技遭荷兰企业法庭临时措施裁定：罚金上限 3 亿欧元，将提起上诉",
-     "link": "https://www.ithome.com/1/027/473.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:37:23 GMT",
-     "summary": "IT之家 11 月 16 日消息，据闻泰科技公告，荷兰阿姆斯特丹上诉法院企业法庭于 2026 年 11 月 11 日就安世境外追加临时措施申请作出裁定， 罚金总额最高不超过 3 亿欧元 （IT之家注：现汇率约合 22.15 亿元人民币） ；公司不认可本次裁定，将提起上诉。 公告显示，企业法庭曾于荷兰时间 2026 年 2 月 11 日指派临时受托人及临时非执行董事（以下简称“管理人”），管理裕成控股有限公司（Yuching Holding Limited）在 Nexperia Holding B.V . （安世半导体控股有限公司）所持全部股份（减一股），公司控股股东权利受到重大限制。 为维护公",
-     "source": "IT之家",
-     "zh": "闻泰科技遭荷兰企业法庭临时措施裁定：罚金上限 3 亿欧元，将提起上诉"
-    },
-    {
-     "title": "能稳定表现的人，要有稳定的恢复系统",
-     "link": "https://www.huxiu.com/article/4905763.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 07:36:40 +0800",
-     "summary": "本文来自微信公众号： 景红空间 ，作者：景红空间 01 没有人可以一直保持好状态 最近这一两个月，我的状态一直不太好。 先是生病、发烧，中间又来回跑了很多地方，身体一直没有完全恢复，后来牙齿又发炎。每件事单独看好像都不是什么大问题，但叠加在一起，人就一直处在一种低电量运行的状态。 最明显的感觉是脑雾。 脑子不像平时那么清楚，注意力很容易散，想一件事情要比以前花更长时间。有时候明明知道有事情应该处理，却不太想动。 情绪也明显变差。 平时觉得没什么的事情，那段时间很容易烦躁，一点就着。遇到工作上的问题，耐心也比以前少。 很多工作没有心情和心力，甚至停了每天一页书的写作。 我自认对自己的认识，往往来",
-     "source": "虎嗅",
-     "zh": "能稳定表现的人，要有稳定的恢复系统"
-    },
-    {
-     "title": "印度 eMudhra 证书安全事件后续：微软进一步封锁 10 张根证书，离线 Windows 设备需部署后续更新包",
-     "link": "https://www.ithome.com/1/027/472.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:35:31 GMT",
-     "summary": "IT之家 11 月 16 日消息，微软于 11 月 16 日起进一步移除印度数字证书机构 eMudhra 剩余的 10 张根证书在微软产品和服务中的默认信任。这意味着，使用相关根证书签发的证书链将不再被默认信任，依赖这些证书的网站、服务及软件可能出现证书验证失败，用户将无法正常访问或使用相关服务。 根据微软安全响应中心（MSRC）公布的信息，Windows 将通过自动证书信任更新机制，从受信任根证书列表中移除剩余 10 张 eMudhra 根证书。 能够连接微软证书更新服务的 Windows 设备将自动接收此次调整，无需用户手动下载或安装更新。微软表示，相关变更也适用于 Azure 环境中的 ",
-     "source": "IT之家",
-     "zh": "印度 eMudhra 证书安全事件后续：微软进一步封锁 10 张根证书，离线 Windows 设备需部署后续更新包"
-    },
-    {
-     "title": "全长 277.6 公里：我国输送距离最长二氧化碳长输管道投运，年输送规模 330 万吨",
-     "link": "https://www.ithome.com/1/027/471.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:29:53 GMT",
-     "summary": "IT之家 11 月 16 日消息，据央视新闻今日报道，我国输送距离最长的二氧化碳长输管道正式投入运行。 据中国石油官方介绍，吉林石化至吉林油田二氧化碳长输管道工程建成投运，干线全长 277.6 公里，设计压力 14.5 兆帕，每年可输送二氧化碳 330 万吨，是目前国内输送距离最长、管径最大、设计压力最高、输送规模最大的二氧化碳长输管道。 管道横跨吉林省吉林、长春、松原三市，上游连接吉林石化的二氧化碳捕集装置，下游接入吉林油田驱油封存生产区域。 吉林石化 80 万吨 / 年二氧化碳回收项目已于 2026 年 10 月全面投产，为管道提供稳定气源。该项目利用合成氨、沥青造气装置副产的中浓度二氧化",
-     "source": "IT之家",
-     "zh": "全长 277.6 公里：我国输送距离最长二氧化碳长输管道投运，年输送规模 330 万吨"
-    },
-    {
-     "title": "消息称黄仁勋考虑重返英伟达担任 CEO，其硅谷盟友正施压董事会",
-     "link": "https://www.ithome.com/1/027/470.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:26:25 GMT",
-     "summary": "IT之家 11 月 16 日消息，据英国《金融时报》昨天报道，黄仁勋正考虑重返英伟达担任首席执行官。如今他在硅谷的多位盟友正向英伟达董事会施压，要求公司重新任命他。 据多名知情人士透露，黄仁勋已经和亲信讨论了重返公司的可能性。与此同时，英伟达董事会还在开展独立调查。 一位黄仁勋的盟友表示， 他们正在组建一个由硅谷高管构成的“作战室” ， 游说黄仁勋重返英伟达 ，并计划争取白宫方面支持。 该人士透露：“除了那些前沿 AI 实验室外，科技界所有大腕都爱戴黄仁勋。” ；他还补充称，这些行动得到了黄仁勋本人的支持。 周末以来，一场要求黄仁勋重新担任英伟达 CEO 的公开行动逐渐升温。特斯拉和 Spac",
-     "source": "IT之家",
-     "zh": "消息称黄仁勋考虑重返英伟达担任 CEO，其硅谷盟友正施压董事会"
-    },
-    {
      "title": "Jensen Huang might return to Nvidia as CEO",
      "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
      "pubDate": "Sun, 15 Nov 2026 23:24:53 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 17 # Comments: 4",
+     "summary": "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 63 # Comments: 34",
      "source": "Hacker News",
      "zh": "Jensen Huang might return to Nvidia as CEO"
-    },
-    {
-     "title": "纽约市禁止“大数据杀熟”，企业利用监控算法实现差异化报价最高罚款 1000 美元",
-     "link": "https://www.ithome.com/1/027/469.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:23:21 GMT",
-     "summary": "IT之家 11 月 16 日消息，美国纽约市议会当地时间 11 月 12 日通过一项限制算法个性化定价的法案，禁止企业利用消费者个人数据和算法，对购买相同商品或服务的不同消费者收取不同价格。 该法案由纽约市议会议长朱莉 · 梅宁（Julie Menin）提出，旨在限制企业通过追踪消费者行为、位置和购买记录等信息实施所谓的“监控式定价”（Surveillance Pricing）。 图源：Pixabay 根据纽约市议会公布的信息，该法案编号为 Introduction 891-A，要求企业不得使用算法分析消费者个人数据，并据此为相同商品或服务设置不同价格。法案适用于纽约市五个行政区，违规企业最高",
-     "source": "IT之家",
-     "zh": "纽约市禁止“大数据杀熟”，企业利用监控算法实现差异化报价最高罚款 1000 美元"
     },
     {
      "title": "【钛晨报】APEC工商峰会将首发“深圳倡议”，超百家世界500强参会；特斯拉Cybercab个人购车设使用限制，且暂禁商业用途；再创新高，51个一类创新药进入新版国家医保药品目录",
@@ -1826,22 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "【钛晨报】APEC工商峰会将首发“深圳倡议”，超百家世界500强参会；特斯拉Cybercab个人购车设使用限制，且暂禁商业用途；再创新高，51个一类创新药进入新版国家医保药品目录"
     },
     {
-     "title": "R 星联手 Twitch、Kick 送出《GTA 6》兑换码：每天需观看直播 3 小时抽奖，包含 100 美元终极版",
-     "link": "https://www.ithome.com/1/027/468.htm",
-     "pubDate": "Sun, 15 Nov 2026 23:16:45 GMT",
-     "summary": "IT之家 11 月 16 日消息，Rockstar Games 为即将发售的《侠盗猎车手 6》（GTA 6）安排了两个平台的游戏兑换码赠送活动，奖品适用于 PS5 和 Xbox Series X|S。 Kick 的“Sunset Reward”活动将持续至 12 月 7 日，共提供 1 万份游戏终极版兑换码。用户登录账号后，每天观看平台任意直播累计达到 180 分钟，即可获得一次开箱（抽奖）机会。 此次 Kick 活动提供的是《GTA 6》终极版兑换码，该版本标价 100 美元 （IT之家注：现汇率约合 669 元人民币） 。相比售价 80 美元的普通版，终极版包含额外的专属内容。 Twitc",
-     "source": "IT之家",
-     "zh": "R 星联手 Twitch、Kick 送出《GTA 6》兑换码：每天需观看直播 3 小时抽奖，包含 100 美元终极版"
-    },
-    {
-     "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-     "link": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
-     "pubDate": "Sun, 15 Nov 2026 23:12:38 +0000",
-     "summary": "Article URL: https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/ Comments URL: https://news.ycombinator.com/item?id=50511899 Points: 12 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Chemical spills into drainage ditch at SpaceXAI in Southaven"
-    },
-    {
      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
      "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
      "pubDate": "Sun, 15 Nov 2026 23:11:54 +0000",
@@ -1850,18 +1866,10 @@ window.INDUSTRY_DATA = {
      "zh": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors"
     },
     {
-     "title": "这个人，将决定英伟达下一任CEO",
-     "link": "https://www.huxiu.com/article/4905761.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 07:09:18 +0800",
-     "summary": "本文来自微信公众号： 涌流商业 ，作者：李伟 2023年1月，黄仁勋来到加州大学伯克利分校，参加一场公开访谈。 聊起年轻时读过的商业书籍，他提起了1981年出版的《定位》（Positioning:The Battle for Your Mind）。这本书让他想起30年前的一次董事会会议。 那时，英伟达才成立不久。黄仁勋介绍公司研发的第一代产品时，董事Harvey Jones突然问他：“Jensen，你准备怎样定位这款产品？” 这么简单的问题，黄仁勋答不上来。 他后来回忆，Jones问的不是芯片有哪些功能、性能如何，是这款产品在竞争对手和整个产业生态中，究竟应该处于什么位置。 那时黄仁勋30岁出",
-     "source": "虎嗅",
-     "zh": "这个人，将决定英伟达下一任CEO"
-    },
-    {
      "title": "Preserving 30 Years of Salon Journalism",
      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
      "pubDate": "Sun, 15 Nov 2026 23:00:11 +0000",
-     "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 17 # Comments: 4",
+     "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 35 # Comments: 7",
      "source": "Hacker News",
      "zh": "Preserving 30 Years of Salon Journalism"
     },
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
      "link": "https://lastcomplication.com/",
      "pubDate": "Sun, 15 Nov 2026 22:48:52 +0000",
-     "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 13 # Comments: 2",
      "source": "Hacker News",
      "zh": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game"
     },
@@ -1893,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
      "link": "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/",
      "pubDate": "Sun, 15 Nov 2026 22:26:33 +0000",
-     "summary": "Article URL: https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/ Comments URL: https://news.ycombinator.com/item?id=50511505 Points: 7 # Comments: 2",
+     "summary": "Article URL: https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/ Comments URL: https://news.ycombinator.com/item?id=50511505 Points: 11 # Comments: 2",
      "source": "Hacker News",
      "zh": "The Hofmann Wobble: Wikipedia and the problem of historical memory"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Old Bitly Links Are Being Hijacked",
      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
      "pubDate": "Sun, 15 Nov 2026 22:11:43 +0000",
-     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 80 # Comments: 41",
+     "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 116 # Comments: 58",
      "source": "Hacker News",
      "zh": "Old Bitly Links Are Being Hijacked"
     },
@@ -1912,6 +1920,14 @@ window.INDUSTRY_DATA = {
      "summary": "Ben Cottier / Epoch AI : Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028 &nbsp; &mdash;&nbsp; This is a condensed version of a longer report on our website&nbsp; &mdash;&nbsp; Huawei, Chi",
      "source": "Techmeme",
      "zh": "Analysis: Huawei&apos;s Horinger data center, among China&apos;s largest for AI, has ~7% of the compute of SpaceX&apos;s Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)"
+    },
+    {
+     "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+     "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+     "pubDate": "Sun, 15 Nov 2026 21:38:11 +0000",
+     "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 49 # Comments: 27",
+     "source": "Hacker News",
+     "zh": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites"
     },
     {
      "title": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
@@ -1946,14 +1962,6 @@ window.INDUSTRY_DATA = {
      "zh": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending"
     },
     {
-     "title": "最强Agent，为什么不能自己给自己发通行证？",
-     "link": "https://www.huxiu.com/article/4905755.html?f=rss",
-     "pubDate": "Mon, 16 Nov 2026 00:07:19 +0800",
-     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《最强 Agent，为什么不能自己给自己发通行证？》 当Agent开始写代码、发邮件、操作浏览器、调动数据库、调用支付接口，甚至再委派几个Agent去干活时，AI安全的问题变了。 现在，问题变成了：它一旦被带偏，能做什么？ 一个能够持续运行的Agent，可能读取内部文件、把信息发往外部、修改生产环境、替你花钱，或者在数天后继续执行一条早已被忘记的任务。 于是，一个很自然的想法出现了： 既然执行Agent可能不可靠，那就再放一个更强的Agent来监管它。 行业正在大量尝试这件事。OpenAI的Auto-review就让单独的模型审",
-     "source": "虎嗅",
-     "zh": "最强Agent，为什么不能自己给自己发通行证？"
-    },
-    {
      "title": "The tech products we enthusiastically recommend this holiday season",
      "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
      "pubDate": "Sun, 15 Nov 2026 16:00:00 +0000",
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "因 Meta 的 Android 版 Facebook 应用未经用户明确同意或充分披露的情况下访问用户的手机相册和视频，意大利监管机构对其处以 8.05 亿欧元罚款。调查人员发现，该功能默认开启，而 Facebook 在申请访问用户相册权限时，将该权限与多种不同用途的应用功能捆绑在一起，通过单一授权请求获取访问权。意大利要求 Meta 在 60 天内禁用该功能，对该功能的启用额外征求用户同意。意大利约有 2000 万 Android 用户，此次罚款是意大利对科技巨头开出的金额最高的罚单之一。意大利监管机构表示，在做出处罚决定时，考虑了受影响人数巨大以及 Meta 不配合等因素。对这一处罚，Me",
      "source": "Solidot",
      "zh": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款"
-    },
-    {
-     "title": "香港迪士尼乐园 1.7 万张电子门票被盗",
-     "link": "https://www.solidot.org/story?sid=85891",
-     "pubDate": "Sun, 15 Nov 2026 21:15:41 +0800",
-     "summary": "香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。报道称，乐园门票由 Cityline 负责网上票务售卖，园方资讯科技部于 11 月 12 日晚侦测到公司电脑系统有异常活动，发现一万七千个二维码在网上票务系统被盗。香港资讯科技商会荣誉会长方保侨称：以往黑客是写程序或手动追漏洞，现在 AI 发展令黑客用 AI 寻找网络漏洞，从而攻击，近期这么多事件，我们相信只会愈来愈多。因为 AI 攻击太快，人手根本抵挡不到，开始提倡用 AI 防守，而市面上亦有这些方案。",
-     "source": "Solidot",
-     "zh": "香港迪士尼乐园 1.7 万张电子门票被盗"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What causes a sudden drop in phone battery percentage?",
+     "link": "https://www.engadget.com/2313940/phone-battery-percentage-suddenly-drops/",
+     "pubDate": "Mon, 16 Nov 2026 00:00:00 +0000",
+     "summary": "Tired of watching your phone's battery jump from green to red? It's time to start troubleshooting what's causing your battery percentage to suddenly drop.",
+     "source": "Engadget",
+     "zh": "What causes a sudden drop in phone battery percentage?"
+    },
     {
      "title": "Here's what actually happens if your laptop battery is completely drained",
      "link": "https://www.engadget.com/2313936/what-happens-drained-laptop-battery/",
@@ -2040,14 +2048,6 @@ window.INDUSTRY_DATA = {
      "summary": "This teenager's affordable DIY solar panel design is attracting national attention, and for good reason.",
      "source": "Engadget",
      "zh": "How one 13-year-old is helping solve a huge solar panel limitation"
-    },
-    {
-     "title": "How to get warnings about speed cameras in Apple CarPlay",
-     "link": "https://www.engadget.com/2313915/how-to-get-speed-camera-alerts-carplay/",
-     "pubDate": "Sun, 15 Nov 2026 22:00:00 +0000",
-     "summary": "Whether you use Apple Maps, Google Maps, or Waze in CarPlay, ensure these settings are on to receive warnings about nearby speed cameras.",
-     "source": "Engadget",
-     "zh": "How to get warnings about speed cameras in Apple CarPlay"
     },
     {
      "title": "Here’s one small change that could improve iPhone Duo’s unoptimized apps",
@@ -2242,6 +2242,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+     "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+     "pubDate": "Mon, 16 Nov 2026 00:11:25 GMT",
+     "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+     "source": "CNBC",
+     "zh": "Japan&apos;s economy unexpectedly contracts in third-quarter as elevated energy costs bite"
+    },
+    {
+     "title": "Ideaya picks cancer drug candidate, targets human trial application in 2027",
+     "link": "https://seekingalpha.com/news/4672817-ideaya-picks-cancer-drug-candidate-targets-human-trial-application-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 19:06:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ideaya picks cancer drug candidate, targets human trial application in 2027"
+    },
+    {
      "title": "Oil stabilizes as Middle East attacks offset supply surplus",
      "link": "https://seekingalpha.com/news/4672815-oil-stabilizes-as-middle-east-attacks-offset-supply-surplus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 15 Nov 2026 18:42:08 -0500",
@@ -2378,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "11月16日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
-     "title": "NASA advances PRIMA mission with BAE Systems as space telescope supplier",
-     "link": "https://seekingalpha.com/news/4672811-nasa-advances-prima-mission-with-bae-systems-as-space-telescope-supplier?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 17:02:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NASA advances PRIMA mission with BAE Systems as space telescope supplier"
-    },
-    {
      "title": "东方财富财经早餐 11月16日周一",
      "link": "http://finance.eastmoney.com/news/11060,202611153931506993.html",
      "pubDate": "Mon, 16 Nov 2026 06:00:48 +0800",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "近一年来，A股“卖壳”江湖正悄然变天：资本运作层面，一边是早前流行的 表决权委托操作方式被“束之高阁” ，一边是 锁价定增难以为继全面让位市价发行 ，再加上 董事高管减持规则硬性约束 ，三条规则相互咬合，让前几年看似红火的卖壳交易，变得难上加难。 这种“难”还体现在相关数据的变化上。 今年以来，A股上市公司通过协议转让或“协议转让+表决权委托”等方式实现控制权变更的案例明显减少。 数据显示，截至11月15日，年内有64家公司已完成或正在推进控制权变更事宜，较去年同期的80家减少两成；同时，相关交易今年已完成过户的为32家，尚有一半案例处于推进过程中，而去年同期80家公司中则有61家完成过户。此",
      "source": "东方财富资讯",
      "zh": "“三重门”改变并购江湖 A股“卖壳”交易难了"
-    },
-    {
-     "title": "集体拉升！霍尔木兹海峡传出重磅消息！",
-     "link": "http://futures.eastmoney.com/news/11233,202611153931506472.html",
-     "pubDate": "Mon, 16 Nov 2026 00:21:43 +0800",
-     "summary": "深夜异动！ 北京时间15日晚间，加密货币市场集体拉升。比特币价格回升至6.56万美元，24小时内跌幅收窄至1.5%；此前比特币一度大跌近8%，下探至6.2万美元附近。BNB跌幅大幅收窄至1.73%，此前跌超9%；以太坊、Solana跌幅均收窄至3%以内，此前均跌超10%。 与此同时，暗盘市场中部分AI硬件股亦有所拉升。截至发稿， 迈威尔科技 涨近1%， 博通 涨0.65%， SK海力士 涨0.45%， 超威半导体 （AMD）涨0.3%。上述个股在拉升前暗盘股价均下跌。 消息面上，据新华社援引伊朗塔斯尼姆通讯社15日报道，伊朗议会国家安全与外交政策委员会发言人卡什卡维说，该委员会已完成霍尔木兹海",
-     "source": "东方财富资讯",
-     "zh": "集体拉升！霍尔木兹海峡传出重磅消息！"
     }
    ]
   },

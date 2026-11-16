@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 05:12:25",
+ "generated_at": "2026/11/17 05:19:47",
  "recent_days": 7,
  "industries": [
   {
@@ -88,14 +88,6 @@ window.INDUSTRY_DATA = {
      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
      "source": "MIT Tech Review AI",
      "zh": "Building trustworthy AI by fencing it in, not predicting it"
-    },
-    {
-     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
-     "summary": "Plus: CucumberVision!",
-     "source": "Import AI",
-     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
     },
     {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "余承东重新明确分工",
      "source": "量子位",
      "zh": "余承东发布新款问界M8：38万元起售，全系预埋L3架构"
+    },
+    {
+     "title": "Advancing computer-use agents for healthcare teams",
+     "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+     "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
+     "summary": "",
+     "source": "OpenAI",
+     "zh": "Advancing computer-use agents for healthcare teams"
     }
    ]
   },
@@ -1498,6 +1498,14 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1522,12 +1530,28 @@ window.INDUSTRY_DATA = {
      "zh": "What role does industry play in Europe’s space sovereignty push?"
     },
     {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
+    },
+    {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
      "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Senate committee takes up nominees for NASA chief financial officer and inspector general"
+    },
+    {
+     "title": "Isaacman lays out SLS path to the 2030s",
+     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
+     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Isaacman lays out SLS path to the 2030s"
     }
    ]
   },
@@ -2002,6 +2026,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Apple’s leadership overhaul continues with new Apple Pay and Wallet chief",
+     "link": "https://9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief/",
+     "pubDate": "Mon, 16 Nov 2026 21:10:12 +0000",
+     "summary": "Bloomberg reports that Apple lifer Corey Fugman will replace Jennifer Bailey as the head of the Apple Pay and Wallet division. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple’s leadership overhaul continues with new Apple Pay and Wallet chief"
+    },
+    {
      "title": "Every Xbox console generation sorted by release date",
      "link": "https://www.engadget.com/2314891/every-xbox-console-generation-sorted-release-date/",
      "pubDate": "Mon, 16 Nov 2026 21:00:00 +0000",
@@ -2138,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out"
     },
     {
-     "title": "Everything new in iOS 27.3 beta 2",
-     "link": "https://9to5mac.com/2026/11/16/everything-new-in-ios-27-3-beta-2-so-far/",
-     "pubDate": "Mon, 16 Nov 2026 19:24:53 +0000",
-     "summary": "iOS 27.3 beta 2 is here. Apple’s next iPhone software update brings a ton of changes including the redesigned Health app and much more. Below, we’re collecting the new features and changes discovered during testing. more…",
-     "source": "9to5Mac",
-     "zh": "Everything new in iOS 27.3 beta 2"
-    },
-    {
      "title": "Google Maps' chatbot can find appointments and call to book them for you",
      "link": "https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/",
      "pubDate": "Mon, 16 Nov 2026 19:17:00 +0000",
@@ -2250,6 +2274,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Barfresh Food Group reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673290-barfresh-food-group-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:15:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Barfresh Food Group reports Q3 results"
+    },
+    {
+     "title": "Pool to acquire Team Horner, expanding Florida distribution network",
+     "link": "https://seekingalpha.com/news/4673280-pool-to-acquire-team-horner-expanding-florida-distribution-network?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:14:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pool to acquire Team Horner, expanding Florida distribution network"
+    },
+    {
+     "title": "Xcel Brands Non-GAAP EPS of -$0.19 beats by $0.30, revenue of $1.06M misses by $0.84M",
+     "link": "https://seekingalpha.com/news/4673288-xcel-brands-non-gaap-eps-of-0_19-beats-by-0_30-revenue-of-1_06m-misses-by-0_84m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:14:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Xcel Brands Non-GAAP EPS of -$0.19 beats by $0.30, revenue of $1.06M misses by $0.84M"
+    },
+    {
+     "title": "AECOM Non-GAAP EPS of $1.63 beats by $0.04, revenue of $3.88M misses by $4.1B",
+     "link": "https://seekingalpha.com/news/4673287-aecom-non-gaap-eps-of-1_63-beats-by-0_04-revenue-of-3_88m-misses-by-4_1b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:14:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AECOM Non-GAAP EPS of $1.63 beats by $0.04, revenue of $3.88M misses by $4.1B"
+    },
+    {
+     "title": "Wrap Technologies reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673284-wrap-technologies-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:13:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wrap Technologies reports Q3 results"
+    },
+    {
+     "title": "Aqua Metals GAAP EPS of -$0.68",
+     "link": "https://seekingalpha.com/news/4673283-aqua-metals-gaap-eps-of-0_68?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 16:11:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Aqua Metals GAAP EPS of -$0.68"
+    },
+    {
+     "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+     "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+     "pubDate": "Mon, 16 Nov 2026 21:11:06 GMT",
+     "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
+     "source": "CNBC",
+     "zh": "California sues OpenAI over Hugging Face, other AI model loss of control"
+    },
+    {
      "title": "美国加州正式起诉OpenAI，指控其模型测试疏于管控、危害公共安全",
      "link": "https://wallstreetcn.com/articles/3786048",
      "pubDate": "Tue, 17 Nov 2026 05:05:27 +0800",
@@ -2274,30 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国零售柴油价格跌破每加仑6美元，通胀压力有所缓解"
     },
     {
-     "title": "U.S. equities conclude in the red ahead of Nvidia earnings",
-     "link": "https://seekingalpha.com/news/4673263-u-s-equites-conclude-in-the-red-ahead-of-nvidia-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:04:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. equities conclude in the red ahead of Nvidia earnings"
-    },
-    {
-     "title": "Dare Bioscience GAAP EPS of -$0.18 misses by $0.02",
-     "link": "https://seekingalpha.com/news/4673268-dare-bioscience-gaap-eps-of-018-misses-by-002?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:03:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dare Bioscience GAAP EPS of -$0.18 misses by $0.02"
-    },
-    {
-     "title": "BrainStorm Cell Therapeutics GAAP EPS of -$0.68 misses by $0.50",
-     "link": "https://seekingalpha.com/news/4673266-brainstorm-cell-therapeutics-gaap-eps-of-0_68-misses-by-0_50?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:03:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BrainStorm Cell Therapeutics GAAP EPS of -$0.68 misses by $0.50"
-    },
-    {
      "title": "加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门",
      "link": "https://wallstreetcn.com/articles/3786046",
      "pubDate": "Tue, 17 Nov 2026 05:03:33 +0800",
@@ -2306,28 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "加拿大央行行长宣布明年6月卸任，贝莱德经济学家等三人成接任热门"
     },
     {
-     "title": "Applied Aerospace falls to post-IPO low as Jefferies downgrades shares",
-     "link": "https://seekingalpha.com/news/4673264-applied-aerospace-falls-to-post-ipo-low-as-jefferies-downgrades-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:01:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Applied Aerospace falls to post-IPO low as Jefferies downgrades shares"
-    },
-    {
-     "title": "Centrus Energy started Outperform at Cantor on durable nuclear power tailwinds",
-     "link": "https://seekingalpha.com/news/4673261-centrus-energy-started-outperform-at-cantor-on-durable-nuclear-power-tailwinds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 15:57:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Centrus Energy started Outperform at Cantor on durable nuclear power tailwinds"
-    },
-    {
-     "title": "FX weekly: Dollar extends weekly gains as hot U.S. inflation fuels rate-hike bets",
-     "link": "https://seekingalpha.com/news/4672975-fx-weekly-dollar-extends-weekly-gains-as-hot-us-inflation-fuels-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 15:52:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FX weekly: Dollar extends weekly gains as hot U.S. inflation fuels rate-hike bets"
+     "title": "Nasdaq sinks 2.7% in gloomy start to pivotal week for AI trade",
+     "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+     "pubDate": "Mon, 16 Nov 2026 21:02:17 GMT",
+     "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
+     "source": "Financial Times",
+     "zh": "Nasdaq sinks 2.7% in gloomy start to pivotal week for AI trade"
     },
     {
      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
@@ -2370,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled."
     },
     {
-     "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-     "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-     "pubDate": "Mon, 16 Nov 2026 20:24:57 GMT",
-     "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
-     "source": "CNBC",
-     "zh": "California sues OpenAI over Hugging Face, other AI model loss of control"
-    },
-    {
      "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
      "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 20:24:00 GMT",
@@ -2392,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "Corporate-governance experts point to issues that would make a triumphant return difficult.",
      "source": "MarketWatch",
      "zh": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely."
-    },
-    {
-     "title": "US tech stocks slide amid Nvidia fallout",
-     "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
-     "pubDate": "Mon, 16 Nov 2026 20:09:48 GMT",
-     "summary": "Tech-heavy Nasdaq 100 down nearly 3% in afternoon trading",
-     "source": "Financial Times",
-     "zh": "US tech stocks slide amid Nvidia fallout"
     },
     {
      "title": "美股三大指数下跌 标普500跌超2% 芯片股集体下挫",

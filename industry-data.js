@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 05:52:17",
+ "generated_at": "2026/11/17 06:12:16",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+     "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+     "pubDate": "Mon, 16 Nov 2026 22:03:02 +0000",
+     "summary": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+     "source": "TechCrunch AI",
+     "zh": "All the questions Nvidia should answer on Tuesday — but probably won’t"
+    },
     {
      "title": "California state AG sues OpenAI over rogue agent incidents",
      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
@@ -42,12 +50,20 @@ window.INDUSTRY_DATA = {
      "zh": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’"
     },
     {
-     "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+     "title": "5 Things That Break When AI Agents Start Acting on Their Own",
+     "link": "https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own",
+     "pubDate": "Mon, 16 Nov 2026 18:00:47 +0000",
+     "summary": "Five governance problems emerge when AI agents begin taking real-world actions, from unmanaged access and identity sprawl to approval bottlenecks and manual oversight.",
+     "source": "KDnuggets",
+     "zh": "5 Things That Break When AI Agents Start Acting on Their Own"
+    },
+    {
+     "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
      "pubDate": "Mon, 16 Nov 2026 17:36:43 +0000",
-     "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+     "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
      "source": "TechCrunch AI",
-     "zh": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’"
+     "zh": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’"
     },
     {
      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
@@ -56,14 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
      "source": "TechCrunch AI",
      "zh": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’"
-    },
-    {
-     "title": "OpenAI will embed safety researchers to investigate AI subversion",
-     "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-     "pubDate": "Mon, 16 Nov 2026 17:02:43 +0000",
-     "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-     "source": "TechCrunch AI",
-     "zh": "OpenAI will embed safety researchers to investigate AI subversion"
     },
     {
      "title": "Broadening access to AI for scientists",
@@ -90,12 +98,12 @@ window.INDUSTRY_DATA = {
      "zh": "Building trustworthy AI by fencing it in, not predicting it"
     },
     {
-     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
-     "summary": "Plus: CucumberVision!",
-     "source": "Import AI",
-     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
+     "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
+     "link": "https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7",
+     "pubDate": "Mon, 16 Nov 2026 15:00:00 +0000",
+     "summary": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
+     "source": "KDnuggets",
+     "zh": "How to Give Claude Code Up-to-Date Documentation With Context7"
     },
     {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
@@ -112,6 +120,14 @@ window.INDUSTRY_DATA = {
      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
      "source": "MIT Tech Review AI",
      "zh": "Building AI that can work across the enterprise"
+    },
+    {
+     "title": "Agentic System Design: A Self-Study Roadmap",
+     "link": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
+     "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
+     "summary": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
+     "source": "KDnuggets",
+     "zh": "Agentic System Design: A Self-Study Roadmap"
     },
     {
      "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
      "source": "量子位",
      "zh": "SuperLink2026开启创投行业超级链接时刻，12月北京见"
-    },
-    {
-     "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-     "link": "https://www.qbitai.com/2026/11/510486.html",
-     "pubDate": "Mon, 16 Nov 2026 07:51:57 +0000",
-     "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-     "source": "量子位",
-     "zh": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景"
-    },
-    {
-     "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
-     "link": "https://www.qbitai.com/2026/11/510436.html",
-     "pubDate": "Mon, 16 Nov 2026 07:26:33 +0000",
-     "summary": "余承东重新明确分工",
-     "source": "量子位",
-     "zh": "余承东发布新款问界M8：38万元起售，全系预埋L3架构"
     }
    ]
   },
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Can Underwater Data Centers Escape the Land-Based Backlash?",
+     "link": "https://oilprice.com/Energy/Energy-General/Can-Underwater-Data-Centers-Escape-the-Land-Based-Backlash.html",
+     "pubDate": "Mon, 16 Nov 2026 16:00:00 -0600",
+     "summary": "The AI boom is pushing developers to test a new frontier for positioning data centers, following the growing backlash against the excessive use of land, water, and energy resources onshore. So hyperscalers and start-ups have moved to test placing data centers under the sea or floating on ships, to s",
+     "source": "OilPrice",
+     "zh": "Can Underwater Data Centers Escape the Land-Based Backlash?"
+    },
+    {
      "title": "Can Economic Populism Survive an Age of Scarcity?",
      "link": "https://oilprice.com/Geopolitics/North-America/Can-Economic-Populism-Survive-an-Age-of-Scarcity.html",
      "pubDate": "Mon, 16 Nov 2026 15:00:00 -0600",
@@ -904,14 +912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Europe’s debate about startups usually ends with the same prescription: become more like America. Find bigger venture capital funds, accept more risk, and produce more billion-dollar companies. For energy, that diagnosis is incomplete. Europe does not simply need more money flowing into ambitious te",
      "source": "OilPrice",
      "zh": "The Hidden Cost Holding Back Europe’s Energy Innovators"
-    },
-    {
-     "title": "Illinois Ethanol Plant Bomb Is the Latest Threat to U.S. Energy Sites",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Illinois-Ethanol-Plant-Bomb-Is-the-Latest-Threat-to-US-Energy-Sites.html",
-     "pubDate": "Mon, 16 Nov 2026 11:30:00 -0600",
-     "summary": "Authorities arrested a suspect Monday morning in the investigation into an explosive device found Friday at an Illinois ethanol plant that forced thousands of people out of downtown Peoria for 18 hours and shut Interstate 74 and a stretch of the Illinois River. Officials warned that a detonation at ",
-     "source": "OilPrice",
-     "zh": "Illinois Ethanol Plant Bomb Is the Latest Threat to U.S. Energy Sites"
     },
     {
      "title": "COP31 Leaders’ Summit Spotlights Electrification & Transition Away from Fossil Fuels",
@@ -1114,6 +1114,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Toward Connected Laboratory Ecosystems",
+     "link": "https://www.genengnews.com/topics/toward-connected-laboratory-ecosystems/",
+     "pubDate": "Mon, 16 Nov 2026 22:00:09 +0000",
+     "summary": "In this GEN podcast, the third in a series, LabVantage’s Denise Bell discusses how laboratories can reduce operational fragmentation and build connected, scalable operations. The post Toward Connected Laboratory Ecosystems appeared first on GEN - Genetic Engineering and Biotechnology News .",
+     "source": "GEN",
+     "zh": "Toward Connected Laboratory Ecosystems"
+    },
+    {
      "title": "Lilly strikes up to $5.9B cancer deal with Stipple Bio",
      "link": "https://endpoints.news/lilly-strikes-up-to-5-9b-cancer-deal-with-stipple-bio/",
      "pubDate": "Mon, 16 Nov 2026 21:01:05 +0000",
@@ -1296,14 +1304,6 @@ window.INDUSTRY_DATA = {
      "summary": "A genomic study reveals how genetic mutations, recombination, and resistance-carrying plasmids shaped the evolution, diversification, and decline of vancomycin-resistant Enterococcus faecium in Danish hospitals between 2012 and 2020. The post How Vancomycin-Resistant Enterococcus Evolved in a Danish",
      "source": "GEN",
      "zh": "How Vancomycin-Resistant Enterococcus Evolved in a Danish Hospital"
-    },
-    {
-     "title": "Downstream Processing: Purifying Complex Antibody Therapeutics When Target Molecules Misbehave",
-     "link": "https://www.genengnews.com/multimedia/webinars/downstream-processing-purifying-complex-antibody-therapeutics-when-target-molecules-misbehave/",
-     "pubDate": "Fri, 13 Nov 2026 15:39:32 +0000",
-     "summary": "In this GEN webinar, downstream process development and scale up manufacturing specialists will discuss practical strategies for building robust purification processes when the target molecule misbehaves. The post Downstream Processing: Purifying Complex Antibody Therapeutics When Target Molecules M",
-     "source": "GEN",
-     "zh": "Downstream Processing: Purifying Complex Antibody Therapeutics When Target Molecules Misbehave"
     }
    ]
   },
@@ -1313,6 +1313,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
     {
      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
@@ -1498,6 +1506,14 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1520,6 +1536,14 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on Spa",
      "source": "SpaceNews",
      "zh": "What role does industry play in Europe’s space sovereignty push?"
+    },
+    {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
     },
     {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
@@ -1754,6 +1778,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug (Nate Raymond/Reuters)",
+     "link": "https://www.techmeme.com/261116/p44#a261116p44",
+     "pubDate": "Mon, 16 Nov 2026 17:05:02 -0500",
+     "summary": "Nate Raymond / Reuters : A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug &nbsp; &mdash;&nbsp; A federal judge on Monday ordered the acquittal of two Massachusetts Institute of Technology-ed",
+     "source": "Techmeme",
+     "zh": "A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug (Nate Raymond/Reuters)"
+    },
+    {
+     "title": "Microsoft details how three problems combined for a global outage",
+     "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+     "pubDate": "Mon, 16 Nov 2026 21:56:39 +0000",
+     "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+     "source": "Ars Technica",
+     "zh": "Microsoft details how three problems combined for a global outage"
+    },
+    {
+     "title": "Spamhaus new email sender requirements in November",
+     "link": "https://www.spamhaus.org/sender-guidelines/",
+     "pubDate": "Mon, 16 Nov 2026 21:47:19 +0000",
+     "summary": "Article URL: https://www.spamhaus.org/sender-guidelines/ Comments URL: https://news.ycombinator.com/item?id=50523784 Points: 11 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Spamhaus new email sender requirements in November"
+    },
+    {
      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
      "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
      "pubDate": "Mon, 16 Nov 2026 21:45:45 +0000",
@@ -1762,10 +1810,34 @@ window.INDUSTRY_DATA = {
      "zh": "The Bank Outage May Have Nothing to Do With Your Bank"
     },
     {
+     "title": "BugMeNot Has Closed",
+     "link": "https://www.bugmenot.com/",
+     "pubDate": "Mon, 16 Nov 2026 21:32:17 +0000",
+     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 79 # Comments: 40",
+     "source": "Hacker News",
+     "zh": "BugMeNot Has Closed"
+    },
+    {
+     "title": "OpenCode Browse",
+     "link": "https://opencode.ai/product/browse",
+     "pubDate": "Mon, 16 Nov 2026 21:20:37 +0000",
+     "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 9 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "OpenCode Browse"
+    },
+    {
+     "title": "Optimizely Compromised",
+     "link": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
+     "pubDate": "Mon, 16 Nov 2026 21:08:38 +0000",
+     "summary": "Article URL: https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/ Comments URL: https://news.ycombinator.com/item?id=50523300 Points: 23 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Optimizely Compromised"
+    },
+    {
      "title": "My Quest to push native Three.js quality match AAA Game Engines",
      "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
      "pubDate": "Mon, 16 Nov 2026 21:07:43 +0000",
-     "summary": "Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs Comments URL: https://news.ycombinator.com/item?id=50523291 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs Comments URL: https://news.ycombinator.com/item?id=50523291 Points: 37 # Comments: 9",
      "source": "Hacker News",
      "zh": "My Quest to push native Three.js quality match AAA Game Engines"
     },
@@ -1797,33 +1869,17 @@ window.INDUSTRY_DATA = {
      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
      "pubDate": "Mon, 16 Nov 2026 20:48:08 +0000",
-     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 26 # Comments: 12",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 38 # Comments: 26",
      "source": "Hacker News",
      "zh": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case"
     },
     {
-     "title": "Caltech professor no longer grades homework's because everyone uses AI",
-     "link": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
-     "pubDate": "Mon, 16 Nov 2026 20:47:53 +0000",
-     "summary": "Article URL: https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11 Comments URL: https://news.ycombinator.com/item?id=50523022 Points: 24 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "Caltech professor no longer grades homework's because everyone uses AI"
-    },
-    {
-     "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+     "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
      "pubDate": "Mon, 16 Nov 2026 20:37:47 +0000",
      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
      "source": "Ars Technica",
-     "zh": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day"
-    },
-    {
-     "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-     "link": "https://news.ycombinator.com/item?id=50522776",
-     "pubDate": "Mon, 16 Nov 2026 20:29:48 +0000",
-     "summary": "Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots",
-     "source": "Hacker News",
-     "zh": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force"
+     "zh": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day"
     },
     {
      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
@@ -1834,28 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case"
     },
     {
-     "title": "Chemistry Is Geometry",
-     "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-     "pubDate": "Mon, 16 Nov 2026 20:22:18 +0000",
-     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Chemistry Is Geometry"
-    },
-    {
      "title": "Customers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays (Associated Press)",
      "link": "https://www.techmeme.com/261116/p42#a261116p42",
      "pubDate": "Mon, 16 Nov 2026 15:20:02 -0500",
      "summary": "Associated Press : Customers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays &nbsp; &mdash;&nbsp; Customers reported difficulty accessing the online accounts at some major banks Monday.&nbsp; Bank of Ame",
      "source": "Techmeme",
      "zh": "Customers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays (Associated Press)"
-    },
-    {
-     "title": "Rust changed me as a developer",
-     "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
-     "pubDate": "Mon, 16 Nov 2026 20:16:50 +0000",
-     "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 44 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Rust changed me as a developer"
     },
     {
      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
@@ -1880,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
      "source": "Ars Technica",
      "zh": "When will humans actually fly on Starship?"
-    },
-    {
-     "title": "Meet the new James Bond: Robert Pattinson",
-     "link": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
-     "pubDate": "Mon, 16 Nov 2026 19:36:25 +0000",
-     "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-     "source": "Ars Technica",
-     "zh": "Meet the new James Bond: Robert Pattinson"
     },
     {
      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
@@ -1946,14 +1978,6 @@ window.INDUSTRY_DATA = {
      "zh": "California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards (Politico)"
     },
     {
-     "title": "Island is a new screen-time app that turns staying off your phone into a game",
-     "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-     "pubDate": "Mon, 16 Nov 2026 18:54:18 +0000",
-     "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
-     "source": "TechCrunch",
-     "zh": "Island is a new screen-time app that turns staying off your phone into a game"
-    },
-    {
      "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
      "link": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
      "pubDate": "Mon, 16 Nov 2026 18:26:26 +0000",
@@ -1970,14 +1994,6 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)"
     },
     {
-     "title": "Sam Altman says he has \"personal strong empathy\" for Jensen Huang and \"heroes have flaws,\" but the AI industry \"will be fine\" due to strong revenues and demand (Shirin Ghaffary/Bloomberg)",
-     "link": "https://www.techmeme.com/261116/p38#a261116p38",
-     "pubDate": "Mon, 16 Nov 2026 13:05:01 -0500",
-     "summary": "Shirin Ghaffary / Bloomberg : Sam Altman says he has &ldquo;personal strong empathy&rdquo; for Jensen Huang and &ldquo;heroes have flaws,&rdquo; but the AI industry &ldquo;will be fine&rdquo; due to strong revenues and demand &nbsp; &mdash;&nbsp; OpenAI's Sam Altman said he believes the artificial i",
-     "source": "Techmeme",
-     "zh": "Sam Altman says he has \"personal strong empathy\" for Jensen Huang and \"heroes have flaws,\" but the AI industry \"will be fine\" due to strong revenues and demand (Shirin Ghaffary/Bloomberg)"
-    },
-    {
      "title": "新任 007 演员官宣：“蝙蝠侠”罗伯特 · 帕丁森接棒，网友玩梗戏称新片为《007：黑暗骑士崛起》",
      "link": "https://www.ithome.com/1/028/010.htm",
      "pubDate": "Mon, 16 Nov 2026 17:43:18 GMT",
@@ -1992,6 +2008,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 17 日消息，综合第一财经、鞭牛士报道，多位消息人士透露， 360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查 。截至发稿，360 方面暂未回应。 今年 8 月，360 集团宣布，为推进“安全 +AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。 消息人士还透露，除了卜思南涉案外， 内部或许还有相关人员被带走调查 。 IT之家查询获悉，卜思南是 360 集团副总裁、360 集团市场部负责人、360 数字安全集团教育事业部总经理、ISC 品牌主理人。卜思南早期负责集团市场战略、品牌生态建设，后",
      "source": "IT之家",
      "zh": "消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查"
+    },
+    {
+     "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+     "link": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+     "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+     "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
+     "source": "WIRED",
+     "zh": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts"
     }
    ]
   },
@@ -2001,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung Galaxy Z Fold8 and Fold8 Ultra win CES 2027 Best of Innovation awards",
+     "link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_and_fold8_ultra_win_ces_2027_best_of_innovation_awards-news-75498.php",
+     "pubDate": "Mon, 16 Nov 2026 23:02:02 +0100",
+     "summary": "Today, Samsung announced that a range of its products have been recognized by the Consumer Technology Association as part of the CES 2027 Innovation Awards program. The Galaxy Z Fold8 Ultra and the Galaxy Z Fold8 were both named Best of Innovation winners in the Mobile Devices, Accessories & Apps ca",
+     "source": "GSMArena",
+     "zh": "Samsung Galaxy Z Fold8 and Fold8 Ultra win CES 2027 Best of Innovation awards"
+    },
     {
      "title": "Apple expands Apple Intelligence beta testing in China to iPads and Macs",
      "link": "https://9to5mac.com/2026/11/16/apple-expands-apple-intelligence-beta-testing-in-china-to-ipads-and-macs/",
@@ -2232,14 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "Last week we told you that the Mate X8 was rumored to launch on November 24, and today Huawei made that official. The foldable will be unveiled at an event in China at 14:30 local time on that day, and it's already listed on the company's Vmall online store, where you can reserve one. The listing re",
      "source": "GSMArena",
      "zh": "Huawei Mate X8 RAM and storage options revealed as reservations open"
-    },
-    {
-     "title": "Oppo Reno17 and Reno17 Pro are now official and they're quite familiar",
-     "link": "https://www.gsmarena.com/oppo_reno17_and_reno17_pro_are_now_official_and_theyre_quite_familiar-news-75492.php",
-     "pubDate": "Mon, 16 Nov 2026 14:46:02 +0100",
-     "summary": "Oppo has just made the Reno17 and Reno17 Pro official in China, following plenty of leaks and teasers. They succeed the Chinese Reno16 and Reno16 Pro, but with a twist - last year, the vanilla model was the compact one, with a 6.32-inch screen, while the Pro had a 6.78-inch display. This time around",
-     "source": "GSMArena",
-     "zh": "Oppo Reno17 and Reno17 Pro are now official and they're quite familiar"
     }
    ]
   },
@@ -2250,28 +2274,148 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Rio Tinto signs electricity deal to restart New Zealand smelter line",
-     "link": "https://seekingalpha.com/news/4673325-rio-tinto-signs-electricity-deal-to-restart-new-zealand-smelter-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:48:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rio Tinto signs electricity deal to restart New Zealand smelter line"
+     "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+     "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+     "pubDate": "Mon, 16 Nov 2026 22:07:51 GMT",
+     "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+     "source": "CNBC",
+     "zh": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports"
     },
     {
-     "title": "Evolution Metals & Technologies Q3 non-GAAP EPS of -$0.02, revenue of $2.2M",
-     "link": "https://seekingalpha.com/news/4673332-evolution-metals-technologies-q3-non-gaap-eps-of--002-revenue-of-22m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:46:37 -0500",
+     "title": "3 things to look out for on Tuesday",
+     "link": "https://seekingalpha.com/news/4673353-3-things-to-look-out-for-on-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:06:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Evolution Metals & Technologies Q3 non-GAAP EPS of -$0.02, revenue of $2.2M"
+     "zh": "3 things to look out for on Tuesday"
     },
     {
-     "title": "Precision Optics GAAP EPS of -$0.04 beats by $0.09, revenue of $8.15M beats by $1.71M",
-     "link": "https://seekingalpha.com/news/4673337-precision-optics-gaap-eps-of-0_04-beats-by-0_09-revenue-of-8_15m-beats-by-1_71m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:45:17 -0500",
+     "title": "Starboard adds Knife Rive, Shake Shack, cuts Lamb Weston among Q3 moves",
+     "link": "https://seekingalpha.com/news/4673334-starboard-adds-knife-rive-shake-shack-cuts-lamb-weston-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:05:15 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Precision Optics GAAP EPS of -$0.04 beats by $0.09, revenue of $8.15M beats by $1.71M"
+     "zh": "Starboard adds Knife Rive, Shake Shack, cuts Lamb Weston among Q3 moves"
+    },
+    {
+     "title": "Yalla Non-GAAP EPS of $0.22, revenue of $82.61M misses by $4.61M",
+     "link": "https://seekingalpha.com/news/4673358-yalla-non-gaap-eps-of-0_22-revenue-of-82_61m-misses-by-4_61m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:03:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Yalla Non-GAAP EPS of $0.22, revenue of $82.61M misses by $4.61M"
+    },
+    {
+     "title": "General Mills declares $0.61 dividend",
+     "link": "https://seekingalpha.com/news/4673357-general-mills-declares-0_61-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:01:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "General Mills declares $0.61 dividend"
+    },
+    {
+     "title": "Agora GAAP EPADS of $0.03, revenue of $42.01M",
+     "link": "https://seekingalpha.com/news/4673356-agora-gaap-epads-of-003-revenue-of-4201m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:01:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Agora GAAP EPADS of $0.03, revenue of $42.01M"
+    },
+    {
+     "title": "XP declares $0.46 dividend",
+     "link": "https://seekingalpha.com/news/4673355-xp-declares-0_46-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 17:00:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "XP declares $0.46 dividend"
+    },
+    {
+     "title": "英特尔股价盘后下跌近2%",
+     "link": "http://finance.eastmoney.com/news/1351,202611173932228575.html",
+     "pubDate": "Tue, 17 Nov 2026 06:00:13 +0800",
+     "summary": "英特尔 股价盘后下跌近2%。",
+     "source": "东方财富股票",
+     "zh": "英特尔股价盘后下跌近2%"
+    },
+    {
+     "title": "消费入座是个城市考题",
+     "link": "http://finance.eastmoney.com/news/1350,202611173932228311.html",
+     "pubDate": "Tue, 17 Nov 2026 05:59:33 +0800",
+     "summary": "近日，多家知名 餐饮 连锁品牌宣布，在全国门店施行消费入座，引发热议。支持者认为，座位是商家经营资源， 餐饮 品牌没有义务免费向公众开放；也有网友表示这样的硬性规定少了些人情味儿。 商家优先服务支持店铺生意的顾客，本就是基本的商业公平。热议的背后，更多折射出商家经营权益与公众休憩需求之间的矛盾，暴露出城市公共休憩空间供给不足、分布不均等现实短板。 城市治理需要补上短板，为普通人打造更多可驻足的公共空间，彰显城市的文明程度与包容底色。当然，商家在厘清商业规则边界的同时，也可以更加人性化，将公共生活中的善意妥善安放。 （文章来源：经济日报）",
+     "source": "东方财富股票",
+     "zh": "消费入座是个城市考题"
+    },
+    {
+     "title": "恒指期货夜盘收跌0.34%，恒生科技指数期货夜盘收跌0.89%",
+     "link": "http://hk.eastmoney.com/news/1556,202611173932228240.html",
+     "pubDate": "Tue, 17 Nov 2026 05:57:46 +0800",
+     "summary": "11月17日，港股期指夜盘收盘，恒生指数 期货 跌0.34%，恒生科技指数 期货 跌0.89%。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "恒指期货夜盘收跌0.34%，恒生科技指数期货夜盘收跌0.89%"
+    },
+    {
+     "title": "微软全球服务宕机调查：一个潜伏四个月的漏洞，15小时才发现问题所在",
+     "link": "https://wallstreetcn.com/articles/3786050",
+     "pubDate": "Tue, 17 Nov 2026 05:56:41 +0800",
+     "summary": "微软一个隐藏长达四个月的系统漏洞， 在上周引发了一场波及全球的服务中断事故 ，暴露出高度依赖单一科技供应商的潜在风险。 此次事故始于11月11日的一次例行流量调配操作，直至次日上午11时30分——即美国企业流量高峰期——微软才意识到问题的严重性。 此后，公司又耗费约15小时排查故障并着手部署修复方案，导致众多企业和政府客户工作陷入停滞。在事故最严重时段，Outlook后台超过80%的服务器处于无响应状态，Teams视频会议邀请消失，员工不得不转而依赖电话和纸笔维持工作。 微软负责职场软件业务的执行副总裁Charles Lamanna周一在X平台发文，就此次宕机事件正式道歉。截至发稿，微软周一盘",
+     "source": "华尔街见闻",
+     "zh": "微软全球服务宕机调查：一个潜伏四个月的漏洞，15小时才发现问题所在"
+    },
+    {
+     "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+     "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+     "pubDate": "Mon, 16 Nov 2026 21:55:19 GMT",
+     "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+     "source": "CNBC",
+     "zh": "JPMorgan Chase says temporary software bug is affecting consumer banking"
+    },
+    {
+     "title": "马斯克：我们曾向美国交通部长达菲提出 免费向美国联邦航空管理局（FAA）提供星链服务",
+     "link": "http://stock.eastmoney.com/news/1611,202611173932228070.html",
+     "pubDate": "Tue, 17 Nov 2026 05:53:17 +0800",
+     "summary": "马斯克：我们曾向美国交通部长达菲提出，免费向美国联邦航空管理局（FAA）提供星链服务，但他表示不需要。事实证明，他们确实需要。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "马斯克：我们曾向美国交通部长达菲提出 免费向美国联邦航空管理局（FAA）提供星链服务"
+    },
+    {
+     "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 21:53:00 GMT",
+     "summary": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock extends decline following harsh words from the U.S. government"
+    },
+    {
+     "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+     "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+     "pubDate": "Mon, 16 Nov 2026 21:52:33 GMT",
+     "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
+     "source": "CNBC",
+     "zh": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access"
+    },
+    {
+     "title": "马斯克密友安东尼奥·J·格拉西亚斯（Antonio J. Gracias）披露 截至9月30日 其被动持有的SpaceX(SPCX.O)A类普通股比例为5.5%",
+     "link": "http://stock.eastmoney.com/news/1611,202611173932228118.html",
+     "pubDate": "Tue, 17 Nov 2026 05:50:44 +0800",
+     "summary": "马斯克密友安东尼奥·J·格拉西亚斯（Antonio J. Gracias）披露，截至9月30日，其被动持有的 SpaceX (SPCX.O)A类普通股比例为5.5%，低于6月30日的6.5%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "马斯克密友安东尼奥·J·格拉西亚斯（Antonio J. Gracias）披露 截至9月30日 其被动持有的SpaceX(SPCX.O)A类普通股比例为5.5%"
+    },
+    {
+     "title": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks",
+     "link": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
+     "pubDate": "Mon, 16 Nov 2026 21:49:00 GMT",
+     "summary": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
+     "source": "MarketWatch",
+     "zh": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks"
+    },
+    {
+     "title": "英伟达(NVDA.O)三季度将其持有的英特尔(INTC.O)股份减持25%",
+     "link": "http://stock.eastmoney.com/news/1611,202611173932227669.html",
+     "pubDate": "Tue, 17 Nov 2026 05:48:43 +0800",
+     "summary": "英伟达 (NVDA.O)三季度将其持有的 英特尔 (INTC.O)股份减持25%，至1.611亿股。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "英伟达(NVDA.O)三季度将其持有的英特尔(INTC.O)股份减持25%"
     },
     {
      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
@@ -2282,44 +2426,20 @@ window.INDUSTRY_DATA = {
      "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
     },
     {
-     "title": "Cabot declares $0.4725 dividend",
-     "link": "https://seekingalpha.com/news/4673336-cabot-declares-0_4725-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:44:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cabot declares $0.4725 dividend"
-    },
-    {
-     "title": "CTO Realty Growth, Inc. 6.375% SER A PFD declares $0.3984 dividend",
-     "link": "https://seekingalpha.com/news/4673333-cto-realty-growth-inc-6_375-percent-ser-a-pfd-declares-0_3984-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:44:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CTO Realty Growth, Inc. 6.375% SER A PFD declares $0.3984 dividend"
-    },
-    {
-     "title": "Corvex exits Microsoft, raises holdings in Amazon.com, cuts stake in Walt Disney",
-     "link": "https://seekingalpha.com/news/4673271-corvex-exits-microsoft-raises-holdings-in-amazoncom-cuts-stake-in-walt-disney?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 16:43:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Corvex exits Microsoft, raises holdings in Amazon.com, cuts stake in Walt Disney"
-    },
-    {
-     "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-     "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-     "pubDate": "Mon, 16 Nov 2026 21:42:50 GMT",
-     "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-     "source": "CNBC",
-     "zh": "JPMorgan Chase says temporary software bug is affecting consumer banking"
-    },
-    {
      "title": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
      "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 21:40:00 GMT",
      "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
      "source": "MarketWatch",
      "zh": "Now’s the perfect time for networking. Here’s how to send a cringe-free email."
+    },
+    {
+     "title": "东方财富财经早餐 11月17日周二",
+     "link": "http://finance.eastmoney.com/news/11060,202611163932144347.html",
+     "pubDate": "Tue, 17 Nov 2026 05:26:14 +0800",
+     "summary": "每日精选 习近平在广东中山考察： 中共中央总书记、国家主席、中央军委主席习近平16日在广东省中山市考察时强调，深入学习贯彻党的二十届五中全会精神，把全会作出的各项决策部署不折不扣落到实处，以持之以恒推进全面从严治党的新成效， 更好推动珠江口东西两岸融合发展，奋力开创粤港澳大湾区高质量发展新局面 。 外交部谈中俄美元首会晤 ： 外交部发言人毛宁11月16日主持例行记者会。总台央视记者提问：中方发布了中俄美三国元首深圳会晤的消息。能否介绍会晤安排及中方对会晤的期待？毛宁表示，这是中俄美三国元首历史上首次面对面会晤， 将围绕维护世界和平、促进大国关系战略稳定深入交换意见，具有开创性意义 。中俄美加强",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月17日周二"
     },
     {
      "title": "Kalshi plans to launch stock trading soon",
@@ -2346,12 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies"
     },
     {
-     "title": "Customers of Chase, Bank of America and other U.S. banks report service outages",
-     "link": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 21:16:00 GMT",
-     "summary": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
-     "source": "MarketWatch",
-     "zh": "Customers of Chase, Bank of America and other U.S. banks report service outages"
+     "title": "全球市场：美股三大指数收跌 费城半导体指数跌超5% 国际油价跌超3% 金银走弱",
+     "link": "http://stock.eastmoney.com/news/11784,202611173932222649.html",
+     "pubDate": "Tue, 17 Nov 2026 05:15:26 +0800",
+     "summary": "美股市场： 美股三大指数11月16日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌739.38点，收于51608.17点，跌幅为1.41%； 标准普尔 500种股票指数下跌145.08点，收于7416.59点，跌幅为1.92%； 纳斯达克 综合 指数下跌626.51点，收于24509.76点，跌幅为2.49%。 美股“七巨头”全线下跌， 英伟达 跌4.12%， 谷歌-C 跌3.85%， 亚马逊 跌3.34%， 特斯拉 跌2.69%，Meta跌2.38%， 微软 跌1.12%， 苹果 跌0.98%。 芯片股遭遇重挫，费城 半导体 指数跌5.28%， 台积电 跌6.34%， 英特尔 跌",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数收跌 费城半导体指数跌超5% 国际油价跌超3% 金银走弱"
     },
     {
      "title": "美国加州正式起诉OpenAI，指控其模型测试疏于管控、危害公共安全",
@@ -2360,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "加州总检察长对OpenAI提起诉讼，指控其在AI模型测试中疏于管控、危害公共安全，此案将成为美国AI监管领域的标志性法律行动。 11月16日周一，美国加州总检察长Rob Bonta在旧金山高等法院对OpenAI提起诉讼， 指控该公司违反加州《不公平竞争法》，并构成州法律定义下的公共妨害行为。 Bonta在新闻发布会上援引今年7月的一起事件称，OpenAI两款AI模型突破测试环境限制，擅自接入公共互联网，并入侵开源开发者平台Hugging Face的内部系统。 更令监管方担忧的是， OpenAI向调查人员披露，公司此前已知悉80起\"涉及失控及未授权访问第三方网络和网站\"的事件，但拒绝提供调查人员",
      "source": "华尔街见闻",
      "zh": "美国加州正式起诉OpenAI，指控其模型测试疏于管控、危害公共安全"
-    },
-    {
-     "title": "Nvidia investors will be clamoring for these answers during a historic earnings call",
-     "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 21:05:00 GMT",
-     "summary": "There’s a lot that Nvidia investors want to know about the post-Jensen Huang era — although management is likely to be tight-lipped on the topic of succession.",
-     "source": "MarketWatch",
-     "zh": "Nvidia investors will be clamoring for these answers during a historic earnings call"
     },
     {
      "title": "美国零售柴油价格跌破每加仑6美元，通胀压力有所缓解",
@@ -2394,100 +2506,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade"
     },
     {
-     "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-     "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-     "pubDate": "Mon, 16 Nov 2026 20:51:28 GMT",
-     "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-     "source": "CNBC",
-     "zh": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports"
-    },
-    {
      "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
      "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
      "pubDate": "Mon, 16 Nov 2026 20:48:37 GMT",
      "summary": "State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’",
      "source": "Financial Times",
      "zh": "OpenAI sued by California over 80 ‘loss of control’ incidents"
-    },
-    {
-     "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
-     "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
-     "pubDate": "Mon, 16 Nov 2026 20:44:24 GMT",
-     "summary": "Anthropic's upcoming IPO is putting finance chief Krishna Rao into the limelight.",
-     "source": "CNBC",
-     "zh": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao"
-    },
-    {
-     "title": "美股三大指数下跌 标普500跌超2% 芯片股集体下挫",
-     "link": "http://finance.eastmoney.com/news/1345,202611163932124582.html",
-     "pubDate": "Tue, 17 Nov 2026 03:47:09 +0800",
-     "summary": "美东时间周一，美股三大指数集体下跌，截至收盘，道琼斯指数跌1.41%，标普500指数跌1.92%， 纳斯达克 综合 指数跌2.49%。 费城 半导体 指数重挫逾5%，其中 英伟达 跌超4%， 阿斯麦 跌近6%， 台积电 跌超6%， 泰瑞达 、 英特尔 、 美光科技 重挫超7%。 光 通信 板块跌幅居前，Lumentum、Ciena跌超8%， 迈威尔科技 跌超7%， 康宁 跌近7%。 消费零售股逆势走高， 麦当劳 涨1%， 沃尔玛 、 开市客 小幅跟涨。 纳斯达克 中国金龙指数收跌1.09%，DCX跌25.02%，JDZG跌24.67%， 爱奇艺 跌17.90%， 万国数据 跌14.82%， 世",
-     "source": "东方财富股票",
-     "zh": "美股三大指数下跌 标普500跌超2% 芯片股集体下挫"
-    },
-    {
-     "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-     "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-     "pubDate": "Mon, 16 Nov 2026 19:46:26 GMT",
-     "summary": "Jensen Huang resigned from Nvidia last week after 33 years as CEO.",
-     "source": "CNBC",
-     "zh": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC"
-    },
-    {
-     "title": "力拓签署50兆瓦电力合同 以支持新西兰4号电解铝生产线重启",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932220472.html",
-     "pubDate": "Tue, 17 Nov 2026 03:41:13 +0800",
-     "summary": "力拓 签署50兆瓦 电力 合同，以支持新西兰4号电解 铝 生产线重启。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "力拓签署50兆瓦电力合同 以支持新西兰4号电解铝生产线重启"
-    },
-    {
-     "title": "ICE咖啡库存下降12% 为三年来最大降幅",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932220336.html",
-     "pubDate": "Tue, 17 Nov 2026 03:39:21 +0800",
-     "summary": "ICE咖啡库存下降12%，为三年来最大降幅。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "ICE咖啡库存下降12% 为三年来最大降幅"
-    },
-    {
-     "title": "事件预测平台Kalshi将在未来两个月内推出股票和ETF交易",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932220181.html",
-     "pubDate": "Tue, 17 Nov 2026 03:36:48 +0800",
-     "summary": "事件预测平台Kalshi将在未来两个月内推出股票和ETF交易。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "事件预测平台Kalshi将在未来两个月内推出股票和ETF交易"
-    },
-    {
-     "title": "WTI原油期货收于每桶85.72美元 跌幅3.21%",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932220056.html",
-     "pubDate": "Tue, 17 Nov 2026 03:32:06 +0800",
-     "summary": "WTI原油 期货 收于每桶85.72美元，跌幅3.21%。",
-     "source": "东方财富股票",
-     "zh": "WTI原油期货收于每桶85.72美元 跌幅3.21%"
-    },
-    {
-     "title": "WTI原油期货收于每桶85.72美元，跌幅3.21%",
-     "link": "http://finance.eastmoney.com/news/1356,202611173932220224.html",
-     "pubDate": "Tue, 17 Nov 2026 03:31:53 +0800",
-     "summary": "WTI原油 期货 收于每桶85.72美元，跌幅3.21%；布伦特原油 期货 收于每桶92.44美元，跌幅3.55%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "WTI原油期货收于每桶85.72美元，跌幅3.21%"
-    },
-    {
-     "title": "英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低",
-     "link": "https://wallstreetcn.com/articles/3785999",
-     "pubDate": "Tue, 17 Nov 2026 02:49:15 +0800",
-     "summary": "科技股抛售情绪从上周延续至新的一周，投资者在英伟达高风险财报和Anthropic预期上市之前普遍规避风险资产，全球股市承压。 特朗普周一在白宫向记者表示， \"我不反对\"黄仁勋复职，并称\"很多人希望黄仁勋回来，这肯定不是个坏主意\"。 他同时为黄仁勋辩护称，美国国家安全\"没有受到威胁\"。 随后，CNBC援引知情人士透露， 董事会目前的工作重心是针对黄仁勋的调查，并未就其重返公司进行任何讨论。 英伟达已聘请法律事务所Wachtell Lipton主导调查，重点审查黄仁勋的行为是否危及国家安全或公司机密。 美股盘中，标普500跌2%；道指跌1.3%；纳指跌2.5%；纳斯达克100跌2.6%，费城半导体",
-     "source": "华尔街见闻",
-     "zh": "英伟达财报前夕重挫，美股跌幅扩大，费半大跌5%，黄金、原油双双走低"
-    },
-    {
-     "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-     "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-     "pubDate": "Mon, 16 Nov 2026 18:46:07 GMT",
-     "summary": "",
-     "source": "CNBC",
-     "zh": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’"
     }
    ]
   },

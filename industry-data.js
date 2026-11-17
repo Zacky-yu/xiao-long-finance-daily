@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 03:12:11",
+ "generated_at": "2026/11/18 03:32:12",
  "recent_days": 7,
  "industries": [
   {
@@ -66,6 +66,14 @@ window.INDUSTRY_DATA = {
      "zh": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game"
     },
     {
+     "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
+     "link": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
+     "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
+     "summary": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier score, and fix it with Platt scaling and isotonic regression",
+     "source": "KDnuggets",
+     "zh": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn"
+    },
+    {
      "title": "Research Reports",
      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
      "pubDate": "Tue, 17 Nov 2026 14:39:46 +0000",
@@ -88,6 +96,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月17日消息，刚刚，由诺奖得主、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis）创办的英国AI药物研发公司Isomorphic Labs宣布完成 50亿美元（约合人民币333亿元）C轮融资 ，融资获得超额认购。 结合公开数据不完全统计，本轮融资刷新该公司此前的单轮融资纪录，可能创下 全球AI制药领域单轮融资规模新纪录 。 ▲哈萨比斯宣布Isomorphic Labs完成C轮融资（图源：X） 2025年3月，Isomorphic Labs宣布完成 6亿美元（约合人民币40亿元）首次外部融资 。今年5月，该公司再获",
      "source": "智东西",
      "zh": "刚刚，诺奖得主的AI公司融了333亿"
+    },
+    {
+     "title": "7 Best AI Coding Plans for $10 or Less in 2026",
+     "link": "https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026",
+     "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
+     "summary": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed, and Xiaomi MiMo.",
+     "source": "KDnuggets",
+     "zh": "7 Best AI Coding Plans for $10 or Less in 2026"
     },
     {
      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西11月17日消息，今日凌晨， AMD 宣布完成对“AI教母” 李飞飞 联合创办的空间智能公司 World Labs 的收购。 AMD在社交平台X上发文，放出AMD董事会主席兼CEO 苏姿丰 与斯坦福大学计算机科学红杉讲席教授、World Labs联合创始人兼CEO 李飞飞 的同框照片，官宣World Labs团队正式加入AMD。推文附带握手表情，同时标注了“芯片女王”“AI教母”两个称号。 李飞飞转发了这篇推文，她说：“AI是一项文明科技！在这个历史时刻，我们每个人都面临着巨大的机遇和责任。我深感荣幸和激动能够领导World Labs加入AMD。",
      "source": "智东西",
      "zh": "刚刚，李飞飞正式加入AMD，与苏姿丰同框"
-    },
-    {
-     "title": "刚刚，华为首个具身世界模型来了！国产算力训出，拿下双冠",
-     "link": "https://zhidx.com/p/610813.html",
-     "pubDate": "Tue, 17 Nov 2026 08:43:27 +0800",
-     "summary": "智东西 作者 | 三北 编辑 | 心缘 智东西11月16日报道，今日，华为云推出其 首款 昇腾原生具身世界模型CloudRobo-WM1.2 ，并宣布于11月30日正式开放WM1.2模型权重、推理后训练代码及预训练最佳实践。 该模型采用共享世界模型骨干网络实现预测增强的世界表征，基于世界模型原生DualAct架构实现世界模型原生动作生成，在 RoboTwin 2.0、LiberoPro 2.0评测中均位列第一。 现场，华为云展示了基于CloudRobo-WM1.2的机器人完成 工业级搬运连续作业、轴承毛刺清洁 等真实工业场景实验，以及在 无人零售场景 中完成了物品上架、礼物入柜等收纳任务。 会",
-     "source": "智东西",
-     "zh": "刚刚，华为首个具身世界模型来了！国产算力训出，拿下双冠"
-    },
-    {
-     "title": "Strengthening NATO and allied cyber defenses with AI",
-     "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-     "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
-     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-     "source": "OpenAI",
-     "zh": "Strengthening NATO and allied cyber defenses with AI"
     }
    ]
   },
@@ -674,6 +674,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Juiced Scrambler Mini launched as a cooler (and safer) e-bike option for teens and parents",
+     "link": "https://electrek.co/2026/11/17/juiced-scrambler-mini-launched-as-a-cooler-and-safer-e-bike-option-for-teens-and-parents/",
+     "pubDate": "Tue, 17 Nov 2026 19:20:09 +0000",
+     "summary": "Finding an electric bike for a teenager can be surprisingly tricky. Parents generally want something safe, manageable, and from a reputable company. Teenagers, meanwhile, generally want something that doesn’t look like it was picked out by their parents. The newly launched Juiced Scrambler Mini look",
+     "source": "Electrek",
+     "zh": "Juiced Scrambler Mini launched as a cooler (and safer) e-bike option for teens and parents"
+    },
+    {
      "title": "EcoFlow flash sale offers 5,018Wh TITAN Classic + 4x rigid solar panels $1,588 off, Hiboy EVs up to 45% off from $300, more",
      "link": "https://electrek.co/2026/11/17/ecoflow-5018wh-titan-classic-hiboy-evs-more/",
      "pubDate": "Tue, 17 Nov 2026 19:00:00 +0000",
@@ -760,14 +768,6 @@ window.INDUSTRY_DATA = {
      "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
      "source": "TechCrunch Transport",
      "zh": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow"
-    },
-    {
-     "title": "Volkswagen is cooking up a ‘spicy’ new electric hot hatch",
-     "link": "https://electrek.co/2026/11/17/volkswagen-cooking-up-spicy-new-electric-hot-hatch/",
-     "pubDate": "Tue, 17 Nov 2026 15:01:34 +0000",
-     "summary": "Volkswagen will reveal the new GTI hot hatch on Friday, promising it will be “something really spicy.” more…",
-     "source": "Electrek",
-     "zh": "Volkswagen is cooking up a ‘spicy’ new electric hot hatch"
     },
     {
      "title": "2026 Guangzhou Auto Show to kick off on November 27 with 1,106 vehicles on display",
@@ -1570,6 +1570,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+     "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+     "pubDate": "Tue, 17 Nov 2026 14:24:07 -0500",
+     "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+     "source": "BleepingComputer",
+     "zh": "Apple reports outages affecting iCloud Mail, AppleCare and more"
+    },
+    {
      "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
      "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
      "pubDate": "Tue, 17 Nov 2026 18:38:37 GMT",
@@ -1608,6 +1616,22 @@ window.INDUSTRY_DATA = {
      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
      "source": "BleepingComputer",
      "zh": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool"
+    },
+    {
+     "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+     "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+     "pubDate": "Tue, 17 Nov 2026 20:47:36 +0530",
+     "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilitie",
+     "source": "The Hacker News",
+     "zh": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges"
+    },
+    {
+     "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+     "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+     "pubDate": "Tue, 17 Nov 2026 20:47:28 +0530",
+     "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers i",
+     "source": "The Hacker News",
+     "zh": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers"
     },
     {
      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
@@ -1706,30 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks"
     },
     {
-     "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-     "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-     "pubDate": "Tue, 17 Nov 2026 04:44:22 -0500",
-     "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-     "source": "BleepingComputer",
-     "zh": "Court clears brothers of $25 million Ethereum crypto heist charges"
-    },
-    {
-     "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-     "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-     "pubDate": "Tue, 17 Nov 2026 12:42:13 +0530",
-     "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday",
-     "source": "The Hacker News",
-     "zh": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors"
-    },
-    {
-     "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-     "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-     "pubDate": "Tue, 17 Nov 2026 11:59:27 +0530",
-     "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments ",
-     "source": "The Hacker News",
-     "zh": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems"
-    },
-    {
      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
      "pubDate": "Mon, 16 Nov 2026 22:08:20 GMT",
@@ -1786,6 +1786,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Apple&apos;s System Status page shows an outage affecting iCloud sign-in for \"all users\", the App Store, and Apple Music; some users report failed iPhone activations (Sarah Perez/TechCrunch)",
+     "link": "https://www.techmeme.com/261117/p48#a261117p48",
+     "pubDate": "Tue, 17 Nov 2026 14:25:01 -0500",
+     "summary": "Sarah Perez / TechCrunch : Apple's System Status page shows an outage affecting iCloud sign-in for &ldquo;all users&rdquo;, the App Store, and Apple Music; some users report failed iPhone activations &nbsp; &mdash;&nbsp; After a recent slew of tech outages, service disruptions, and flight chaos this",
+     "source": "Techmeme",
+     "zh": "Apple&apos;s System Status page shows an outage affecting iCloud sign-in for \"all users\", the App Store, and Apple Music; some users report failed iPhone activations (Sarah Perez/TechCrunch)"
+    },
+    {
+     "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+     "link": "https://starsling.dev",
+     "pubDate": "Tue, 17 Nov 2026 19:01:43 +0000",
+     "summary": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency",
+     "source": "Hacker News",
+     "zh": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
+    },
+    {
      "title": "Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months (Jagmeet Singh/TechCrunch)",
      "link": "https://www.techmeme.com/261117/p47#a261117p47",
      "pubDate": "Tue, 17 Nov 2026 14:00:47 -0500",
@@ -1794,10 +1810,18 @@ window.INDUSTRY_DATA = {
      "zh": "Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months (Jagmeet Singh/TechCrunch)"
     },
     {
+     "title": "Solid 2.0",
+     "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+     "pubDate": "Tue, 17 Nov 2026 18:56:17 +0000",
+     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 22 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Solid 2.0"
+    },
+    {
      "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
      "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
      "pubDate": "Tue, 17 Nov 2026 18:55:40 +0000",
-     "summary": "Apple's status page confirms its services are faces outages, but has not confirmed the cause.",
+     "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
      "source": "TechCrunch",
      "zh": "Apple services, including iCloud, App Store, and Apple Music, hit by outage"
     },
@@ -1808,6 +1832,22 @@ window.INDUSTRY_DATA = {
      "summary": "Scott Stein / CNET : Xreal Aura review: portable, crisp display, and runs multiple Android apps on a virtual display, but Android XR lacks unique apps and VR controller support &nbsp; &mdash;&nbsp; The most fascinating and frustrating device I've used in a long time pushes at the edges of where head",
      "source": "Techmeme",
      "zh": "Xreal Aura review: portable, crisp display, and runs multiple Android apps on a virtual display, but Android XR lacks unique apps and VR controller support (Scott Stein/CNET)"
+    },
+    {
+     "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
+     "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+     "pubDate": "Tue, 17 Nov 2026 18:34:10 +0000",
+     "summary": "Article URL: https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/ Comments URL: https://news.ycombinator.com/item?id=50536031 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People"
+    },
+    {
+     "title": "Phrack 73 Released",
+     "link": "https://phrack.org/issues/73/introduction_md",
+     "pubDate": "Tue, 17 Nov 2026 18:31:25 +0000",
+     "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 18 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Phrack 73 Released"
     },
     {
      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
@@ -1826,10 +1866,18 @@ window.INDUSTRY_DATA = {
      "zh": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser"
     },
     {
+     "title": "Advancing computer-use agents for healthcare teams",
+     "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+     "pubDate": "Tue, 17 Nov 2026 18:26:05 +0000",
+     "summary": "Article URL: https://openai.com/index/advancing-computer-use-for-healthcare-teams/ Comments URL: https://news.ycombinator.com/item?id=50535898 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Advancing computer-use agents for healthcare teams"
+    },
+    {
      "title": "MAI Code 2 and Code 2 Flash",
      "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
      "pubDate": "Tue, 17 Nov 2026 18:25:13 +0000",
-     "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 31 # Comments: 5",
+     "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 71 # Comments: 17",
      "source": "Hacker News",
      "zh": "MAI Code 2 and Code 2 Flash"
     },
@@ -1906,46 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "iPhone Duo 开售三周后，苹果 Apple Store 完成适配"
     },
     {
-     "title": "An interview with OpenAI President Greg Brockman, who says he is in \"full management mode\", as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)",
-     "link": "https://www.techmeme.com/261117/p42#a261117p42",
-     "pubDate": "Tue, 17 Nov 2026 12:50:02 -0500",
-     "summary": "Jemima McEvoy / The Information : An interview with OpenAI President Greg Brockman, who says he is in &ldquo;full management mode&rdquo;, as he focuses on corporate customers and tools for cybersecurity &nbsp; &mdash;&nbsp; In August, OpenAI President Greg Brockman called up Denise Dresser, then the",
-     "source": "Techmeme",
-     "zh": "An interview with OpenAI President Greg Brockman, who says he is in \"full management mode\", as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)"
-    },
-    {
-     "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
-     "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-     "pubDate": "Tue, 17 Nov 2026 17:49:01 +0000",
-     "summary": "Article URL: https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/ Comments URL: https://news.ycombinator.com/item?id=50535268 Points: 33 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "iCloud, App Store, and other Apple services hit by ongoing outage"
-    },
-    {
-     "title": "Apple Services Down",
-     "link": "https://downdetector.com/status/apple-support/",
-     "pubDate": "Tue, 17 Nov 2026 17:47:14 +0000",
-     "summary": "Article URL: https://downdetector.com/status/apple-support/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 139 # Comments: 68",
-     "source": "Hacker News",
-     "zh": "Apple Services Down"
-    },
-    {
-     "title": "GPT‑6.2 Astra and Sol",
-     "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "pubDate": "Tue, 17 Nov 2026 17:46:43 +0000",
-     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 474 # Comments: 246",
-     "source": "Hacker News",
-     "zh": "GPT‑6.2 Astra and Sol"
-    },
-    {
-     "title": "Who Builds the Machines That Build the Machines?",
-     "link": "https://read.corematter.com/p/section-232-us-machine-tools",
-     "pubDate": "Tue, 17 Nov 2026 17:45:39 +0000",
-     "summary": "Article URL: https://read.corematter.com/p/section-232-us-machine-tools Comments URL: https://news.ycombinator.com/item?id=50535208 Points: 13 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Who Builds the Machines That Build the Machines?"
-    },
-    {
      "title": "华为智选车产品总监详解尚界 Z7T 星野套装：“不动骨相”，只在风格层面做外放",
      "link": "https://www.ithome.com/1/028/572.htm",
      "pubDate": "Tue, 17 Nov 2026 17:38:52 GMT",
@@ -1968,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 18 日消息，华为 Mate 90 系列手机昨晚率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。 据IT之家用户 @秋叶寒 反馈，Mate 90 系列手机的 AI 快捷栏拥有全新交互体验 —— 它会维持 5 个应用图标的宽度，不会缩小。另外， 长按 AI 圆环可进入 AI 屏 ，获取更多服务，例如行业趋势解读、AI 分析、智能记忆助手等。 值得一提的是，这一页面与华为全新子品牌星芒 OSTA O1 Pro 的小艺 AI 屏设计风格完全不同。OSTA 新机的 AI 屏采用全新设计元素，且新机激",
      "source": "IT之家",
      "zh": "华为 Mate 90 系列手机 AI 快捷栏全新交互体验曝光，与星芒 OSTA O1 Pro 风格完全不同"
-    },
-    {
-     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-     "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-     "pubDate": "Tue, 17 Nov 2026 17:12:06 +0000",
-     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 63 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "Nvidia stopped disclosing Singapore sales as revenues hit $104B"
     },
     {
      "title": "绿联 NAS 私有云系统官宣对外名称统一调整为“UGOS”：版本、功能与服务保持不变",
@@ -2033,6 +2033,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+     "link": "https://9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+     "pubDate": "Tue, 17 Nov 2026 19:28:12 +0000",
+     "summary": "AirPods got a variety of new features this fall in iOS 27, several of which are exclusive to AirPods Pro 3 (now only $179). Here’s everything new. more…",
+     "source": "9to5Mac",
+     "zh": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27"
+    },
+    {
+     "title": "Today’s Android app deals and freebies: Beastie Bay, Human Fall Flat, Sands of Salzaar, more",
+     "link": "https://9to5toys.com/2026/11/17/todays-highlight-google-play-deals-50/",
+     "pubDate": "Tue, 17 Nov 2026 19:25:58 +0000",
+     "summary": "Amazon’s updated early Black Friday sale is now delivering the lowest prices ever on its new Android Alexa Tablets starting from $150 , not to mention a straight up $350 price drop on Galaxy Fold 8 , but it is on to today’s best Google Play app and game deals: Beastie Bay DX, Dungeon Village 2, Huma",
+     "source": "9to5Google",
+     "zh": "Today’s Android app deals and freebies: Beastie Bay, Human Fall Flat, Sands of Salzaar, more"
+    },
+    {
+     "title": "Panasonic is working on the first power zoom for L-mount",
+     "link": "https://www.dpreview.com/news/panasonic-l-mount-power-zoom-lens-development/",
+     "pubDate": "Tue, 17 Nov 2026 19:19:05 +0000",
+     "summary": "Something for the videographers to look forward to.",
+     "source": "DPReview",
+     "zh": "Panasonic is working on the first power zoom for L-mount"
+    },
     {
      "title": "Galaxy Tab S10 Lite with S Pen gets $100 off at Amazon",
      "link": "https://www.androidauthority.com/galaxy-tab-s10-lite-deal-299-3736227/",
@@ -2218,12 +2242,12 @@ window.INDUSTRY_DATA = {
      "zh": "Here's everything new in iOS 27.3 beta 2 and macOS 27.3 beta 2"
     },
     {
-     "title": "You can now assign Gemini ‘tasks’ for free in six countries",
-     "link": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
-     "pubDate": "Tue, 17 Nov 2026 17:23:00 +0000",
-     "summary": "Starting today, the Gemini app’s “tasks” feature, previously known as Spark, is now available for free users after requiring AI Pro in the past. more…",
+     "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
+     "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+     "pubDate": "Tue, 17 Nov 2026 17:33:58 +0000",
+     "summary": "Apple services are having a rough Tuesday. iCloud, the App Store, and other services are experiencing an apparent outage, with users reporting connection failures and trouble signing in. more…",
      "source": "9to5Mac",
-     "zh": "You can now assign Gemini ‘tasks’ for free in six countries"
+     "zh": "iCloud, App Store, and other Apple services hit by ongoing outage"
     },
     {
      "title": "VSCO brings its film-inspired presets to the desktop with a new Raw editor",
@@ -2248,30 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "It’s never just one thing with Xiaomi – the company just announced the global rollout of its Xiaomi 18 Pro flagships and it is also bringing several accessories to the global market. Xiaomi Watch S5 41mm The Xiaomi Watch S5 41mm previously launched in China. It is a smaller version of the Watch S5 4",
      "source": "GSMArena",
      "zh": "Xiaomi Watch S5 41mm, Xiaomi Clip buds and Xiaomi Smart Band 11 NFC go global"
-    },
-    {
-     "title": "Xiaomi 18 Pro and 18 Pro Max begin their international rollout",
-     "link": "https://www.gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php",
-     "pubDate": "Tue, 17 Nov 2026 15:30:02 +0100",
-     "summary": "Xiaomi hosted an event in Paris, France, today for the international launch of the Xiaomi 18 Pro and Xiaomi 18 Pro Max, which were unveiled in China in September. The global models of the Xiaomi 18 Pro and 18 Pro Max share the hardware with their Chinese counterparts, except for the battery, which i",
-     "source": "GSMArena",
-     "zh": "Xiaomi 18 Pro and 18 Pro Max begin their international rollout"
-    },
-    {
-     "title": "Xiaomi 18 Pro series hands-on: A useful rear screen and some strong looks",
-     "link": "https://www.dpreview.com/news/xiaomi-18-pro-series-hands-on-a-useful-rear-screen-and-some-strong-looks/",
-     "pubDate": "Tue, 17 Nov 2026 14:30:00 +0000",
-     "summary": "We took Xiaomi’s latest flagships around Paris to try their rear displays, film-inspired styles and extensive imaging controls.",
-     "source": "DPReview",
-     "zh": "Xiaomi 18 Pro series hands-on: A useful rear screen and some strong looks"
-    },
-    {
-     "title": "Panasonic’s SHX1 is a professional video camera with S1II DNA",
-     "link": "https://www.dpreview.com/news/panasonics-s1hx-is-a-professional-video-camera-with-s1ii-dna/",
-     "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-     "summary": "The company is taking another run at a box-style cinema tool.",
-     "source": "DPReview",
-     "zh": "Panasonic’s SHX1 is a professional video camera with S1II DNA"
     }
    ]
   },
@@ -2282,44 +2282,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Quant ratings on Bridgewater Associates' top holdings: SPY, IVV, NVDA, AVGO",
-     "link": "https://seekingalpha.com/news/4673835-quant-ratings-on-bridgewater-associates-top-holdings-spy-ivv-nvda-avgo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 14:08:08 -0500",
+     "title": "Algorhythm Holdings reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673855-algorhythm-holdings-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 14:28:33 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Quant ratings on Bridgewater Associates' top holdings: SPY, IVV, NVDA, AVGO"
+     "zh": "Algorhythm Holdings reports Q3 results"
     },
     {
-     "title": "BioLargo reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673839-biolargo-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 14:06:45 -0500",
+     "title": "Nucor upgraded to Outperform at Morgan Stanley on cash flow outlook",
+     "link": "https://seekingalpha.com/news/4673843-nucor-upgraded-to-outperform-at-morgan-stanley-on-cash-flow-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 14:27:33 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "BioLargo reports Q3 results"
+     "zh": "Nucor upgraded to Outperform at Morgan Stanley on cash flow outlook"
     },
     {
-     "title": "Mercurity Fintech Holding reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673838-mercurity-fintech-holding-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 14:04:43 -0500",
+     "title": "Boxlight GAAP EPS of -$1.78 beats by $23.18, revenue of $30.1M beats by $2.71M",
+     "link": "https://seekingalpha.com/news/4673853-boxlight-gaap-eps-of-1_78-beats-by-23_18-revenue-of-30_1m-beats-by-2_71m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 14:27:05 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Mercurity Fintech Holding reports Q3 results"
+     "zh": "Boxlight GAAP EPS of -$1.78 beats by $23.18, revenue of $30.1M beats by $2.71M"
     },
     {
-     "title": "Sypris Solutions GAAP EPS of -$0.02, revenue of $35.83M",
-     "link": "https://seekingalpha.com/news/4673837-sypris-solutions-gaap-eps-of-0_02-revenue-of-35_83m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 14:03:24 -0500",
+     "title": "NIBE Industrier AB (publ) Q3 GAAP EPS of $0.44, revenue of SEK 11.23B, beats by $10.12B",
+     "link": "https://seekingalpha.com/news/4673850-nibe-industrier-ab-publ-q3-gaap-eps-of-044-revenue-of-sek-1123b-beats-by-1012b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 14:25:23 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Sypris Solutions GAAP EPS of -$0.02, revenue of $35.83M"
+     "zh": "NIBE Industrier AB (publ) Q3 GAAP EPS of $0.44, revenue of SEK 11.23B, beats by $10.12B"
     },
     {
-     "title": "Jet.AI Inc. GAAP EPS of -$1.75 misses by $1.59, revenue of $0.73M misses by $0.37M",
-     "link": "https://seekingalpha.com/news/4673836-jet-ai-inc-gaap-eps-of-1_75-misses-by-1_59-revenue-of-0_73m-misses-by-0_37m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 14:01:36 -0500",
+     "title": "Generation Income Properties reports  results",
+     "link": "https://seekingalpha.com/news/4673851-generation-income-properties-reports-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 14:24:43 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Jet.AI Inc. GAAP EPS of -$1.75 misses by $1.59, revenue of $0.73M misses by $0.37M"
+     "zh": "Generation Income Properties reports  results"
+    },
+    {
+     "title": "首批主动ETF火速建仓 下周一集体上市",
+     "link": "http://stock.eastmoney.com/news/11215,202611183933307246.html",
+     "pubDate": "Wed, 18 Nov 2026 03:20:56 +0800",
+     "summary": "11月17日晚间，首批18只主动ETF同时披露上市公告书，确定11月23日上市交易。 根据各家基金公司公告，首批18只主动ETF均于11月23日上市交易，上市交易份额均为20亿份。公告书显示，18只ETF的360亿份总份额中，个人投资者合计持有逾270亿份，总份额占比为77.12%；机构投资者持有80亿份出头，占比22.88%。 机构投资者持有绝对份额虽不及个人投资者，但从前十大持有人名单看，他们的持有份额却高度集中。以平安红利景气主动ETF为例，该产品的机构投资者持有份额47.27%。平安人寿-寿险传统低－自主、平安人寿-分红（自主）、平安人寿-分红（受托）这三个位列前三的账户，就合计持有近",
+     "source": "东方财富股票",
+     "zh": "首批主动ETF火速建仓 下周一集体上市"
+    },
+    {
+     "title": "长鑫科技：AI浪潮下DRAM供给紧缺将延续",
+     "link": "http://finance.eastmoney.com/news/1354,202611183933307462.html",
+     "pubDate": "Wed, 18 Nov 2026 03:20:56 +0800",
+     "summary": "国产DRAM龙头 长鑫科技 11月17日举行第三季度业绩说明会，公司高管预计DRAM（动态随机存取存储器）供给紧缺格局将在四季度延续，毛利率有望保持稳定，公司已与多家头部客户协商长期供货协议，锁定中长期确定性需求，持续推动产品高端化升级。 盈利能力持续提升 长鑫科技 高级副总裁、财务负责人黄丹阳表示，公司营收连续三个季度环比增长，主要得益于2025年以来DRAM市场供不应求，产品价格持续上涨，公司产能扩建和释放带动产销持续提升；加上长期技术投入推动产品结构优化，高附加值产品占比提升。 盈利能力方面，公司第三季度单季毛利率达到89.53%，较上季度增长约1.94个百分点。据介绍，毛利率提升主要受",
+     "source": "东方财富股票",
+     "zh": "长鑫科技：AI浪潮下DRAM供给紧缺将延续"
+    },
+    {
+     "title": "九部门发文推进再生资源回收体系建设",
+     "link": "http://finance.eastmoney.com/news/1355,202611183933307077.html",
+     "pubDate": "Wed, 18 Nov 2026 03:20:55 +0800",
+     "summary": "11月17日，商务部等九部门发布了《关于深入推进再生资源回收体系建设促进回收行业高质量发展的意见》（下称《意见》），提出16条具体举措，明确到2030年初步建立起回收网络健全完善、居民交投便捷顺畅、分拣环节高效先进、末端处理绿色规范的再生资源回收体系。其中，动力 电池 、光伏组件、风机叶片“新三样”固废回收拆解工作有专门政策部署。 商务部部长助理袁晓明指出，《意见》将持续提升再生资源回收便利性、规范性，切实解决“扔比买难”等问题。 在回收模式上，《意见》提出针对不同品类要推广运用不同的典型回收模式。其中，多品类 综合 性再生资源推行“两网融合”“互联网+回收”“以车代库”；大件废旧家具探索包干",
+     "source": "东方财富股票",
+     "zh": "九部门发文推进再生资源回收体系建设"
+    },
+    {
+     "title": "中国证监会副主席陈华平与国际证监会组织秘书长会谈",
+     "link": "http://stock.eastmoney.com/news/11791,202611183933307178.html",
+     "pubDate": "Wed, 18 Nov 2026 03:20:52 +0800",
+     "summary": "近日，中国证监会副主席陈华平在参加国际证监会组织（IOSCO）理事会会议期间，会见了IOSCO秘书长罗德里戈·布埃纳文图拉，双方就深化合作、强化全球金融治理体系等议题交换意见，并签署了中国证监会向IOSCO秘书处派驻借调人员的相关协议。 （文章来源：证券时报）",
+     "source": "东方财富股票",
+     "zh": "中国证监会副主席陈华平与国际证监会组织秘书长会谈"
+    },
+    {
+     "title": "美股三大指数下跌 纳指盘中最大跌幅超过2%",
+     "link": "http://finance.eastmoney.com/news/1345,202611173933220844.html",
+     "pubDate": "Wed, 18 Nov 2026 03:20:07 +0800",
+     "summary": "美东时间周二，美股三大指数下跌，纳指盘中最大跌幅超过2%，截至发稿，道琼斯指数跌1.52%， 纳斯达克 综合 指数跌0.92%， 标普500指数跌1.07% 。 大型科技股多数下跌， 微软 跌超2%， 英伟达 、 闪迪 、 台积电 、 美光科技 走低； SpaceX 一度涨超3%，Coherent盘中最大涨幅超过6%。 全球要闻 美伊大消息！美军三航母集结中东 中东局势，有新动向！ 美军中央司令部最新证实，“罗斯福”号航母已进入其责任区执行任务，这是美军当前在中东部署的第三艘航母。目前“布什”号、“华盛顿”号已部署于此，暂不清楚“罗斯福”号是否替换其中一艘。 据伊朗方面消息 美国袭击了格什姆 ",
+     "source": "东方财富股票",
+     "zh": "美股三大指数下跌 纳指盘中最大跌幅超过2%"
+    },
+    {
+     "title": "据报道 在黄仁勋辞职后 英伟达联系了其投资的3家机器人初创公司",
+     "link": "http://finance.eastmoney.com/news/1354,202611183933306738.html",
+     "pubDate": "Wed, 18 Nov 2026 03:18:41 +0800",
+     "summary": "据报道，在黄仁勋辞职后， 英伟达 联系了其投资的3家 机器人 初创公司，向其保证 英伟达 的支持。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "据报道 在黄仁勋辞职后 英伟达联系了其投资的3家机器人初创公司"
+    },
+    {
+     "title": "Boxabl Inc. 9M GAAP EPS of -$0.15, revenue of $2.6M",
+     "link": "https://seekingalpha.com/news/4673849-boxabl-inc-9m-gaap-eps-of-015-revenue-of-26m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 14:17:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Boxabl Inc. 9M GAAP EPS of -$0.15, revenue of $2.6M"
     },
     {
      "title": "黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证",
@@ -2330,28 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证"
     },
     {
-     "title": "Century Casinos announces financial restatement, preliminary Q3 results",
-     "link": "https://seekingalpha.com/news/4673834-century-casinos-announces-financial-restatement-preliminary-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 13:58:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Century Casinos announces financial restatement, preliminary Q3 results"
-    },
-    {
      "title": "黄仁勋辞职后首次发声“救市”？标普纳指盘中深V收窄跌幅，报道后称英伟达董事会仍未考虑他复职",
      "link": "https://wallstreetcn.com/articles/3786123",
      "pubDate": "Wed, 18 Nov 2026 02:58:04 +0800",
      "summary": "黄仁勋的一则声明，成为本周二美股盘中最受关注的消息之一。 美东时间11月17日周二美股早盘尾声时，英伟达创始人、前CEO黄仁勋在离职后首次公开发声，表示如果董事会认为他回归符合公司、股东和员工的最佳利益，他愿意重新出任CEO。黄仁勋的表态恰好出现在美股早盘抛售压力加剧之际，表态传出后，英伟达和主要美股指几乎同步快速拉升、收窄盘中跌幅。 黄仁勋表态前，三大美股指均在美股早盘刷新日低，标普500指数日内跌逾1.7%，道指跌近1.8%，纳指跌逾2.1%。美股早盘尾声时，黄仁勋愿重新担任CEO的消息传出后，道指跌幅曾收窄至约1.3%，标普和纳指更是出现一波深V走势、大幅收窄跌幅，标普的日内跌幅一度缩小",
      "source": "华尔街见闻",
      "zh": "黄仁勋辞职后首次发声“救市”？标普纳指盘中深V收窄跌幅，报道后称英伟达董事会仍未考虑他复职"
-    },
-    {
-     "title": "俄罗斯总统普京抵达深圳，将出席APEC会议，系今年第二次来华",
-     "link": "http://global.eastmoney.com/news/1959,202611183933306320.html",
-     "pubDate": "Wed, 18 Nov 2026 02:58:00 +0800",
-     "summary": "据央视新闻报道，11月18日凌晨，俄罗斯总统普京乘专机抵达深圳，将出席11月18日至19日举行的亚太经合组织（APEC）第三十三次领导人非正式会议。 这将是普京年内第二次来华。5月19日至20日，中俄两国元首在华就双边关系及重大国际问题进行战略沟通。 此次来华的俄罗斯代表团阵容强大。俄罗斯总统助理尤里·乌沙科夫11月16日表示，随普京赴深圳出席APEC会议的俄罗斯代表团成员包括三位副总理和外交部、国防部、文化部等七位部长。 此外，包括俄罗斯国家原子能公司、俄罗斯国家航天集团、俄罗斯对外经济 银行 、俄罗斯联邦储蓄 银行 在内的多家大型企业和 银行 的负责人也将参与相关会谈。 （文章来源：上观新",
-     "source": "东方财富股票",
-     "zh": "俄罗斯总统普京抵达深圳，将出席APEC会议，系今年第二次来华"
     },
     {
      "title": "FAA pauses installation of new routers after ground stop",
@@ -2362,52 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "FAA pauses installation of new routers after ground stop"
     },
     {
-     "title": "苹果状态页面列出音乐、App Store、AppleCare存在问题",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933306226.html",
-     "pubDate": "Wed, 18 Nov 2026 02:38:14 +0800",
-     "summary": "苹果 状态页面列出音乐、App Store、AppleCare存在问题。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "苹果状态页面列出音乐、App Store、AppleCare存在问题"
-    },
-    {
-     "title": "美股三大指数下跌 纳指盘中最大跌幅超过2%",
-     "link": "http://finance.eastmoney.com/news/1345,202611173933220844.html",
-     "pubDate": "Wed, 18 Nov 2026 02:29:59 +0800",
-     "summary": "美东时间周二，美股三大指数下跌，纳指盘中最大跌幅超过2%，截至发稿，道琼斯指数跌1.30%， 纳斯达克 综合 指数跌0.83%， 标普500指数跌0.92% 。 大型科技股多数下跌， 微软 跌超2%， 英伟达 、 闪迪 、 台积电 、 美光科技 走低； SpaceX 一度涨超3%，Coherent盘中最大涨幅超过6%。 全球要闻 美伊大消息！美军三航母集结中东 中东局势，有新动向！ 美军中央司令部最新证实，“罗斯福”号航母已进入其责任区执行任务，这是美军当前在中东部署的第三艘航母。目前“布什”号、“华盛顿”号已部署于此，暂不清楚“罗斯福”号是否替换其中一艘。 据伊朗方面消息 美国袭击了格什姆 ",
-     "source": "东方财富股票",
-     "zh": "美股三大指数下跌 纳指盘中最大跌幅超过2%"
-    },
-    {
-     "title": "扎克伯格：新的Muse模型即将登陆Microsoft Foundry",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933306169.html",
-     "pubDate": "Wed, 18 Nov 2026 02:27:02 +0800",
-     "summary": "扎克伯格表示，Muse Wonder、Muse Spark 1.3、Muse Ember即将推出，新的Muse模型即将登陆Microsoft Foundry。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "扎克伯格：新的Muse模型即将登陆Microsoft Foundry"
-    },
-    {
-     "title": "微软：与埃森哲、Adobe、毕马威、万事达卡、沃尔沃汽车等合作 协助制定AI系统开放标准",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933305973.html",
-     "pubDate": "Wed, 18 Nov 2026 02:22:23 +0800",
-     "summary": "微软 表示，与 埃森哲 、Adobe、毕马威、 万事达 卡、沃尔沃 汽车 等合作，协助制定AI系统开放标准。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "微软：与埃森哲、Adobe、毕马威、万事达卡、沃尔沃汽车等合作 协助制定AI系统开放标准"
-    },
-    {
      "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
      "pubDate": "Tue, 17 Nov 2026 18:21:03 GMT",
      "summary": "He said he had seen support from investors and employees and was willing to come back as CEO.",
      "source": "CNBC",
      "zh": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation"
-    },
-    {
-     "title": "杰富瑞将微博ADR目标价从8.80美元下调至7.10美元",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933305724.html",
-     "pubDate": "Wed, 18 Nov 2026 02:16:00 +0800",
-     "summary": "杰富瑞将 微博 ADR目标价从8.80美元下调至7.10美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "杰富瑞将微博ADR目标价从8.80美元下调至7.10美元"
     },
     {
      "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
@@ -2432,6 +2432,14 @@ window.INDUSTRY_DATA = {
      "summary": "\"This is why they can't have a nuclear weapon,\" Trump added, reiterating his main rationale for launching the Iran war.",
      "source": "CNBC",
      "zh": "Trump on Iran&apos;s reported DC dirty bomb plan: &apos;We take it very seriously&apos;"
+    },
+    {
+     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
+     "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 17:06:32 GMT",
+     "summary": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
+     "source": "Financial Times",
+     "zh": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn"
     },
     {
      "title": "Jensen Huang says he is prepared to return as Nvidia CEO",
@@ -2512,14 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国消费者在10月展现出超预期韧性，但结构性分化与入不敷出的消费模式正在向市场发出警示信号。 商务部周二公布数据显示， 10月零售销售环比增长0.2%，高于市场预期的0.1%。 同比增速攀升至6.8%，创2022年10月以来最强年度表现。 核心零售销售同样超预期走强，直接纳入GDP计算的控制组指标也录得显著增长，为四季度经济提供了一定支撑 然而，数据内部分化明显。 汽车及零部件销售环比下滑1.6%，家具与家居用品跌幅达2.3%，拖累整体表现；与此同时，消费结构出现历史性逆转——低收入群体的支出增速首次超越高收入群体，成为本轮消费扩张的主要驱动力。美国银行数据显示，截至10月31日当周，低收入家",
      "source": "华尔街见闻",
      "zh": "美国10月零售销售环比增长0.2%，同比6.8%创四年最高纪录"
-    },
-    {
-     "title": "前纽约联储主席Dudley：美联储\"无痛降通胀\"策略注定失败",
-     "link": "https://wallstreetcn.com/articles/3786117",
-     "pubDate": "Tue, 17 Nov 2026 21:07:31 +0800",
-     "summary": "美联储主席凯文·沃什在言辞上对2%通胀目标态度强硬，但实际政策行动却远为保守——前纽约联储主席Bill Dudley对这一落差提出了尖锐批评。他认为 ，美联储寄望于通过强硬表态锚定通胀预期、从而实现\"无痛降通胀\"的策略，既缺乏历史依据，也存在内在逻辑缺陷，注定难以奏效。 当地时间周二，Dudley在彭博专栏文章中指出， 通胀已连续近六年高于美联储目标，但货币政策实际上并不具备限制性。 美联储9月仅上调联邦基金利率目标，仅逆转了2025年三次降息中的一次，当前利率水平较2024年至2025年均值仍低约75个基点。与此同时，金融条件虽略有收紧，但整体仍属宽松，美联储理事会工作人员模型显示，金融条件",
-     "source": "华尔街见闻",
-     "zh": "前纽约联储主席Dudley：美联储\"无痛降通胀\"策略注定失败"
     }
    ]
   },

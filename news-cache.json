@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-11-17T21:09:16.836Z",
+  "generatedAt": "2026-11-17T21:29:17.863Z",
   "count": 40,
   "items": [
+    {
+      "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
+      "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "pubDate": "Tue, 17 Nov 2026 21:12:00 GMT",
+      "content": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
+      "title": "‘Can I pick your brain?’ and other terrible things to say in a networking email",
+      "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+      "pubDate": "Tue, 17 Nov 2026 21:11:00 GMT",
+      "content": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+      "source": "US",
+      "category": "全球综合"
+    },
     {
       "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
       "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
@@ -65,22 +81,6 @@
       "content": "The S&P 500 is joining other major U.S. equity indexes in trading below its 200-day moving average as the artificial-intelligence trade continues to struggle.",
       "source": "US",
       "category": "美股市场"
-    },
-    {
-      "title": "Apple users report service interruptions — the latest in a series of tech outages",
-      "link": "https://www.marketwatch.com/story/apple-users-report-service-interruptions-the-latest-in-a-series-of-tech-outages-d1a5ff9f?mod=mw_rss_topstories",
-      "pubDate": "Tue, 17 Nov 2026 19:46:00 GMT",
-      "content": "Apple and Google customers were reporting service outages on Tuesday, the latest disruptions in a string of technology outages reported by consumers over the past week.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "Want to know what bitcoin is really worth? Check this chart.",
-      "link": "https://www.marketwatch.com/story/want-to-know-what-bitcoin-is-really-worth-check-this-chart-daa3fce7?mod=mw_rss_topstories",
-      "pubDate": "Tue, 17 Nov 2026 19:34:00 GMT",
-      "content": "A model for calculating bitcoin’s value has worked well to inform investors when the cryptocurrency is overbought or oversold. Now, the price is just right.",
-      "source": "US",
-      "category": "全球综合"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

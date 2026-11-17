@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 07:32:02",
+ "generated_at": "2026/11/18 07:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,20 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
-     "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+     "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+     "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+     "pubDate": "Tue, 17 Nov 2026 23:37:48 +0000",
+     "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+     "source": "TechCrunch AI",
+     "zh": "Nvidia is abandoning China after Jensen Huang’s ouster"
+    },
+    {
+     "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
      "pubDate": "Tue, 17 Nov 2026 23:04:35 +0000",
-     "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+     "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
      "source": "TechCrunch AI",
-     "zh": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit"
+     "zh": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit"
     },
     {
      "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
@@ -72,14 +80,6 @@ window.INDUSTRY_DATA = {
      "summary": "Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers. The post Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained appeared firs",
      "source": "MarkTechPost",
      "zh": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained"
-    },
-    {
-     "title": "Model ML raises $250M to automate investment banking grunt work",
-     "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-     "pubDate": "Tue, 17 Nov 2026 19:32:11 +0000",
-     "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-     "source": "TechCrunch AI",
-     "zh": "Model ML raises $250M to automate investment banking grunt work"
     },
     {
      "title": "Introducing GPT-6.2 Astra and Sol",
@@ -322,28 +322,12 @@ window.INDUSTRY_DATA = {
      "zh": "Palomino appoints NBA Champion Tristan Thompson to Strategic Advisory Board"
     },
     {
-     "title": "Make sure to take your seat at the Elektra Awards 2026",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/make-sure-to-take-your-seat-at-the-elektra-awards-2026-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 16:07:50 +0000",
-     "summary": "There's only three weeks to go until the long awaited Elektra Awards! Make sure you have your seat at the table. The post Make sure to take your seat at the Elektra Awards 2026 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Make sure to take your seat at the Elektra Awards 2026"
-    },
-    {
      "title": "Musk backs Jensen Huang, but Tesla trails Big Tech peers in petition signatures",
      "link": "https://www.digitimes.com/news/a20261117VL220/tesla-nvidia-tsmc-jensen-huang-bytedance.html",
      "pubDate": "Tue, 17 Nov 2026 16:05:00 GMT",
      "summary": "TSMC is the most-named employer after Nvidia, and ByteDance is the only Chinese company in the top 10.",
      "source": "DIGITIMES",
      "zh": "Musk backs Jensen Huang, but Tesla trails Big Tech peers in petition signatures"
-    },
-    {
-     "title": "Government investments of $71.8bn speed militarisation of space",
-     "link": "https://www.electronicsweekly.com/news/business/government-investments-of-71-8bn-speed-militarisation-of-space-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 15:30:34 +0000",
-     "summary": "Governments invested approximately $71.8 billion in space defence and security activities globally in 2025. This is the main finding of Novaspace – the space consulting and market intelligence firm – […] The post Government investments of $71.8bn speed militarisation of space appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Government investments of $71.8bn speed militarisation of space"
     },
     {
      "title": "LTCC Solutions for Next Generation UWB/BLE Devices",
@@ -360,14 +344,6 @@ window.INDUSTRY_DATA = {
      "summary": "Design engineers and technical decision-makers working on medical and life science equipment must balance competing demands: high power density, thermal performance, compact dimensions, and low acoustic noise. This whitepaper provides practical insight into the causes of noise in space-constrained p",
      "source": "EE Times",
      "zh": "Minimizing Acoustic Noise in Space-Constrained Medical and Life Science Applications"
-    },
-    {
-     "title": "IC design challenges balance safety, longevity and portability in battery management systems",
-     "link": "https://www.electronicsweekly.com/news/business/ic-design-challenges-balance-safety-longevity-and-portability-in-battery-management-systems-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 14:00:31 +0000",
-     "summary": "Battery Management Systems (BMS) as a core power component has evolved into an intelligent and sophisticated system, writes Samudrapom Dam. The BMS plays a key role in battery pack longevity, […] The post IC design challenges balance safety, longevity and portability in battery management systems ap",
-     "source": "Electronics Weekly",
-     "zh": "IC design challenges balance safety, longevity and portability in battery management systems"
     },
     {
      "title": "The Anatomy of a Convergence Delta: Closing the Correlation Gap Between P&R and Sign-Off",
@@ -392,14 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "In a trading update, epiwafer and substrate maker IQE plc of Cardiff, Wales, UK says it is continuing to maintain strong momentum across all core segments during second-half 2026. In addition, revenue upside opportunities identified in optical communications for data-center and AI infrastructure mar",
      "source": "Semiconductor Today",
      "zh": "IQE raises 2026 revenue guidance further, to more than 40% growth"
-    },
-    {
-     "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 10:55:04 +0000",
-     "summary": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
-     "source": "Electronics Weekly",
-     "zh": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers"
     },
     {
      "title": "30 AI firms top US$10B valuations as DeepSeek, Moonshot crack top 10",
@@ -466,22 +434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Chip Industry Technical Paper Roundup: Nov. 17"
     },
     {
-     "title": "Decline And Fall",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 06:20:11 +0000",
-     "summary": "Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time […] The post Decline And Fall appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Decline And Fall"
-    },
-    {
-     "title": "Now’s the time to rethink the GPU/datacentre model says Penn",
-     "link": "https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 06:15:06 +0000",
-     "summary": "“Jensen Huang’s spectacular demise could not have come at a worse time for the growing divide between investor optimism about AI’s long-term potential and concern over the timing and scale […] The post Now’s the time to rethink the GPU/datacentre model says Penn appeared first on Electronics Weekly ",
-     "source": "Electronics Weekly",
-     "zh": "Now’s the time to rethink the GPU/datacentre model says Penn"
-    },
-    {
      "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
      "link": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
      "pubDate": "Tue, 17 Nov 2026 00:56:29 +0000",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads.” Abstract Excerpt “Large language model (LLM) inference demands ever more memory capacity for larger models and batch sizes. High-Ba",
      "source": "Semiconductor Engineering",
      "zh": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)"
+    },
+    {
+     "title": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/wolfspeed-161126.shtml",
+     "pubDate": "Mon, 16 Nov 2026 21:05:00 GMT",
+     "summary": "For its fiscal first-quarter 2027 (to 27 September 2026), Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has reported revenue of $155m, down 21% on $196.8m a year ago but recovering by 3.6% from $149.6m last quarter, and exceeding the",
+     "source": "Semiconductor Today",
+     "zh": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m"
+    },
+    {
+     "title": "Lumentum ranked among Forbes America’s Best Companies",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/lumentum-161126.shtml",
+     "pubDate": "Mon, 16 Nov 2026 20:21:26 GMT",
+     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been recognized on two Forbes company rankings: America’s Best Companies 2027 and America’s Most Innovative Large Companies 2026. Founded in 2015, Lumentum employs 1",
+     "source": "Semiconductor Today",
+     "zh": "Lumentum ranked among Forbes America’s Best Companies"
+    },
+    {
+     "title": "CXO Interview with Vishal Moondhra of Perforce IPLM",
+     "link": "https://semiwiki.com/eda/perforce/375968-cxo-interview-with-vishal-moondhra-of-perforce-iplm/",
+     "pubDate": "Mon, 16 Nov 2026 20:00:27 +0000",
+     "summary": "Vishal Moondhra is the VP of Solutions Engineering for Perforce IPLM. He has over 20 years of experience in Digital Design and Verification. Vishal has an impressive resume of engineering and senior management positions including innovative startups like LGT and Montalvo, and large multinationals su",
+     "source": "SemiWiki",
+     "zh": "CXO Interview with Vishal Moondhra of Perforce IPLM"
+    },
+    {
+     "title": "The AI-First Platform the Disaggregated Semiconductor Industry Needs",
+     "link": "https://semiwiki.com/eda/pdf-solutions/376330-the-ai-first-platform-the-disaggregated-semiconductor-industry-needs/",
+     "pubDate": "Mon, 16 Nov 2026 18:00:06 +0000",
+     "summary": "On October 13, 2026, the opening day of SEMICON West, the ESD Alliance hosted a full-day program of presentations and in-depth discussions on the theme “Bridging Design and Manufacturing with AI.” Among the speakers was Kimon Michaels, co-founder and Executive VP of Products and Solutions at PDF Sol",
+     "source": "SemiWiki",
+     "zh": "The AI-First Platform the Disaggregated Semiconductor Industry Needs"
+    },
+    {
+     "title": "Taking a Tour of Canada’s Particle Accelerator",
+     "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
+     "pubDate": "Mon, 16 Nov 2026 17:52:31 +0000",
+     "summary": "Located on Canada’s west coast, TRIUMF’s normal-conducting cyclotron, unique materials probes, and irradiation facilities serve everything from quantum materials and radiation-hardened electronics to medical isotopes. The post Taking a Tour of Canada’s Particle Accelerator appeared first on EE Times",
+     "source": "EE Times",
+     "zh": "Taking a Tour of Canada’s Particle Accelerator"
+    },
+    {
+     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
+     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1005,7 +1005,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1121,6 +1121,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice",
+     "link": "https://www.genengnews.com/topics/cancer/alcohol-suppresses-some-t-cells-boosts-others-blunting-anti-pd-1-response-in-mice/",
+     "pubDate": "Tue, 17 Nov 2026 23:36:40 +0000",
+     "summary": "In mice, alcohol cut the efficacy of anti-PD-1 immunotherapy by roughly 50%, suppressing tumor-infiltrating and memory T cells while boosting TIGIT-carrying ones. Blocking TIGIT restored the response. The post Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice appear",
+     "source": "GEN",
+     "zh": "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice"
+    },
     {
      "title": "Beyond Amyloid and Tau: Alzheimer’s Drug Developer Sees Early Clinical Success for Immunotherapy-Based Approach",
      "link": "https://www.genengnews.com/topics/translational-medicine/beyond-amyloid-and-tau-alzheimers-drug-developer-sees-early-clinical-success-for-immunotherapy-based-approach/",
@@ -1280,14 +1288,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this GEN podcast, the third in a series, LabVantage’s Denise Bell discusses how laboratories can reduce operational fragmentation and build connected, scalable operations. The post Toward Connected Laboratory Ecosystems appeared first on GEN - Genetic Engineering and Biotechnology News .",
      "source": "GEN",
      "zh": "Toward Connected Laboratory Ecosystems"
-    },
-    {
-     "title": "Gut Microbome and Bile Acid Modification Linked with Longevity",
-     "link": "https://www.genengnews.com/topics/translational-medicine/gut-microbome-and-bile-acid-modification-linked-with-longevity/",
-     "pubDate": "Mon, 16 Nov 2026 20:59:11 +0000",
-     "summary": "Researchers studying how gut microbes modify bile acids have identified changes in the metabolic activity of the gut microbiome associated with exceptional longevity in humans, and found that amplifying the same activity with engineered bacteria improved metabolic health in aged mice. The post Gut M",
-     "source": "GEN",
-     "zh": "Gut Microbome and Bile Acid Modification Linked with Longevity"
     },
     {
      "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
@@ -1778,6 +1778,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "老黄那根针",
+     "link": "https://www.huxiu.com/article/4906407.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 07:43:01 +0800",
+     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 迟早会戳破什么东西 要么是一层什么东西，要么是一个什么泡泡。 先普及一个常识，这点在中国人心目中到今天都未必达成了共识，所以一定要反复强调强调再强调：消灭有钱人不会只消灭有钱人而留下财富，只会连创造财富的能力一起消灭。 饭不是从锅里长出来的，商品也不是从货架上面直接刷新出来的，企业也不是像玩游戏一下点个鼠标“建造”，就自动能够拥有组织能力和生产能力。 娃哈哈大小姐已经用自己的亲身经历说明了，就算是一个成熟的不能再成熟的摊子，只要把最上面那个人换掉，哪怕是换成自己的亲闺女，只要接班人善于折腾勇于折腾，就一定能在最短时间内把这个成熟摊子折腾垮。更",
+     "source": "虎嗅",
+     "zh": "老黄那根针"
+    },
+    {
+     "title": "出国住民宿的中产，不想免费刷碗了",
+     "link": "https://www.huxiu.com/article/4906406.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 07:38:17 +0800",
+     "summary": "本文来自微信公众号： 旅界 ，作者：需要铂金包的妈咪 高价订下海外民宿，还得给房东免费做家务。 01 上周，闺蜜Cici从意大利佛罗伦萨度假归来，国贸喝咖啡时，我看她有些憔悴，以为是时差没倒过来。 她却摆摆手，开始诉苦，说自己花钱去欧洲当了回免费保洁员。 之前为了体验托斯卡纳的复古风情，她在爱彼迎订下阿诺河畔的百年老宅公寓，每晚房费折合人民币2000多元，结账时还额外付了800元清洁费。 可入住当天，她和老公推开门还没来得及欣赏老宅的复古花砖，餐桌上摆放的塑封房屋守则便给了他们下马威。 文件里冷冰冰地规定次日上午10点前必须离开，出门前还得把用过的锅碗瓢盆全部洗净擦干并归位到橱柜里。 更离谱的",
+     "source": "虎嗅",
+     "zh": "出国住民宿的中产，不想免费刷碗了"
+    },
+    {
+     "title": "私家车接入特斯拉Robotaxi，下个月能自己挣钱？马斯克又画了一个饼",
+     "link": "https://www.huxiu.com/article/4906404.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 07:37:57 +0800",
+     "summary": "本文来自微信公众号： 赛博汽车 ，作者：章涟漪，编辑：姜田双 马斯克又来“剧透式”回复网友了。 北京时间11月17日凌晨，一位奥斯汀的Uber司机在社交平台X上抱怨称，他全程用FSD跑网约车，但平台抽成后只能拿到乘客车费的49%到63%。他不想再亲自开车了，希望让自己的Model Y直接加入特斯拉的Robotaxi网络，自己出去接单挣钱。 他期待，摘下Uber帽子，成为一名小型Robotaxi车队经理。 对此，马斯克回复：“即将推出。如果一切顺利，下个月可能开始试运行。”他还补了一句：“管理一支车队，远比自己开一辆车要好得多。” 而就在几天前，特斯拉刚刚向部分受邀用户开放了Cybercab的个",
+     "source": "虎嗅",
+     "zh": "私家车接入特斯拉Robotaxi，下个月能自己挣钱？马斯克又画了一个饼"
+    },
+    {
+     "title": "Nvidia interim CEO Colette Kress says the company will stay \"disciplined and selective\" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours (Ina Fried/Axios)",
+     "link": "https://www.techmeme.com/261117/p62#a261117p62",
+     "pubDate": "Tue, 17 Nov 2026 18:35:04 -0500",
+     "summary": "Ina Fried / Axios : Nvidia interim CEO Colette Kress says the company will stay &ldquo;disciplined and selective&rdquo; in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours &nbsp; &mdash;&nbsp; Nvidia's interim CEO said Tuesday that the company will be &ldquo;disciplined&rdquo; as it d",
+     "source": "Techmeme",
+     "zh": "Nvidia interim CEO Colette Kress says the company will stay \"disciplined and selective\" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours (Ina Fried/Axios)"
+    },
+    {
+     "title": "Review: Nubia Redmagic 12 Pro | Camera",
+     "link": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
+     "pubDate": "Tue, 17 Nov 2026 23:34:44 +0000",
+     "summary": "Review: Nubia Redmagic 12 Pro | Camera",
+     "source": "WIRED",
+     "zh": "Review: Nubia Redmagic 12 Pro | Camera"
+    },
+    {
+     "title": "耐克惨遭阶级滑落",
+     "link": "https://www.huxiu.com/article/4906401.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 07:31:36 +0800",
+     "summary": "本文来自微信公众号： 远川消费评论 ，作者：白子靖，题图来自：视觉中国 今年9月底，金&middot;卡戴珊闪现上海，为的是给自家塑身衣品牌SKIMS和耐克共同打造的NikeSKIMS站台。 这家店落地于上海南京西路商圈的兴业太古汇，品类和价格都对标着lululemon，开业当天门口的队伍排了3个小时，国庆假期，试衣间还得扫码取号。 NikeSKIMS门口排队情况 不知道的还以为是卡戴珊又显化成功了，毕竟这样的人气，对耐克来说已经恍如隔世，上一段高光期还是2020年左右，鞋迷和黄牛熬夜蹲守等着抢它的倒钩AJ1。 遥想当年，只是鞋身上的对勾掉了个头，溢价一度超500%，175美元的鞋，转手能卖到",
+     "source": "虎嗅",
+     "zh": "耐克惨遭阶级滑落"
+    },
+    {
      "title": "苹果回应服务大规模中断：内部系统更新引发故障，Apple Pay、iCloud、App Store 均受影响",
      "link": "https://www.ithome.com/1/028/589.htm",
      "pubDate": "Tue, 17 Nov 2026 23:22:05 GMT",
@@ -1874,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive (Tom Warren/The Verge)"
     },
     {
-     "title": "GPT-6.2 Astra，OpenAI在偏科的道路上越走越远了。",
-     "link": "https://www.huxiu.com/article/4906399.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 06:45:16 +0800",
-     "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克，原文标题：《深度实测GPT-6.2 Astra，OpenAI在偏科的道路上越走越远了。》 等了半个多月，GPT-6.2，终于来了。 这次是GPT-6.2 Astra和Sol一起发，一个旗舰，一个日常主力。 这个模型真的拖得太久太久了。 从11月1号前后，就有人说灰测到了GPT-6.2 Sol，我后来也灰测到了升级的版本，结果这一等，就等了将近小20天。 今天，终于发了，ChatGPT、Codex还有API已经全部同步上线了。 官方的一些信息读完了，然后我自己也跑了很多测试。 就怎么说呢，这是一个让我有一点失望的模型，它有它特定的作用",
-     "source": "虎嗅",
-     "zh": "GPT-6.2 Astra，OpenAI在偏科的道路上越走越远了。"
-    },
-    {
      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
      "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
      "pubDate": "Tue, 17 Nov 2026 22:44:46 +0000",
@@ -1898,18 +1938,10 @@ window.INDUSTRY_DATA = {
      "zh": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors"
     },
     {
-     "title": "黄仁勋走了，英伟达仍赚翻了：首份财报超预期，接班人稳住了？",
-     "link": "https://www.huxiu.com/article/4906398.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 06:25:09 +0800",
-     "summary": "本文来自微信公众号： InfoQ ，作者：Tina 1“后黄仁勋时代”的首次大考 随着AI不断发展，过去这些年，这家公司似乎一直势不可挡。 但这次财报之前，黄仁勋辞职了。 11月11日，黄仁勋辞去英伟达总裁、CEO和董事会成员职务，即刻生效。CFO Colette Kress暂代CEO，董事会开始物色正式接班人。他执掌这家公司33年，把它从一家做图形处理器的厂商带成AI计算平台的核心供应商，这些年一连串大额交易和生态布局，大多是他推的。公司说日常运营和产品路线图不会中断。 在管理层变动引发的震荡中，英伟达股价周一再度下跌4.12%，收于156.14美元。相比10月6日创下的239.24美元收盘",
-     "source": "虎嗅",
-     "zh": "黄仁勋走了，英伟达仍赚翻了：首份财报超预期，接班人稳住了？"
-    },
-    {
      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
      "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
      "pubDate": "Tue, 17 Nov 2026 22:19:19 +0000",
-     "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+     "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intent” to reinstate the company’s ousted CEO.",
      "source": "WIRED",
      "zh": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang"
     },
@@ -1917,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Latent Lattice Language Models",
      "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
      "pubDate": "Tue, 17 Nov 2026 22:17:18 +0000",
-     "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 10 # Comments: 0",
      "source": "Hacker News",
      "zh": "Latent Lattice Language Models"
     },
@@ -1933,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
      "pubDate": "Tue, 17 Nov 2026 22:13:34 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 111 # Comments: 9",
+     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 130 # Comments: 12",
      "source": "Hacker News",
      "zh": "Quad9's withdrawal from France: A canary in the coal mine"
     },
@@ -1954,18 +1986,10 @@ window.INDUSTRY_DATA = {
      "zh": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)"
     },
     {
-     "title": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)",
-     "link": "https://www.techmeme.com/261117/p56#a261117p56",
-     "pubDate": "Tue, 17 Nov 2026 16:26:56 -0500",
-     "summary": "Nvidia Newsroom : Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates &nbsp; &mdash;&nbsp; - Revenue of $115.8 billion, up 103% from a year ago&nbsp; &mdash; Data Center revenue of $107.6 billion, up 1",
-     "source": "Techmeme",
-     "zh": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)"
-    },
-    {
      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
      "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
      "pubDate": "Tue, 17 Nov 2026 21:16:12 +0000",
-     "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 14 # Comments: 9",
+     "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 20 # Comments: 25",
      "source": "Hacker News",
      "zh": "Harvard researchers find AI coding agents shifted the bottleneck to code review"
     },
@@ -1973,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "link": "https://calif.io/java4shell/",
      "pubDate": "Tue, 17 Nov 2026 21:11:28 +0000",
-     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 312 # Comments: 79",
+     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 341 # Comments: 84",
      "source": "Hacker News",
      "zh": "Java4Shell: RCE in OpenJDK when processing Base64"
     },
@@ -1981,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "Tencent Hy4 Flash",
      "link": "https://hy.tencent.ai/research/hy4-flash",
      "pubDate": "Tue, 17 Nov 2026 21:06:08 +0000",
-     "summary": "Article URL: https://hy.tencent.ai/research/hy4-flash Comments URL: https://news.ycombinator.com/item?id=50538184 Points: 12 # Comments: 1",
+     "summary": "Article URL: https://hy.tencent.ai/research/hy4-flash Comments URL: https://news.ycombinator.com/item?id=50538184 Points: 17 # Comments: 1",
      "source": "Hacker News",
      "zh": "Tencent Hy4 Flash"
     },
@@ -1992,30 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
      "source": "Ars Technica",
      "zh": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia"
-    },
-    {
-     "title": "Web Browser Engineering (2021)",
-     "link": "https://browser.engineering/",
-     "pubDate": "Tue, 17 Nov 2026 20:01:35 +0000",
-     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 105 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "Web Browser Engineering (2021)"
-    },
-    {
-     "title": "Civilization studio Firaxis Games lays off a third of staff",
-     "link": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
-     "pubDate": "Tue, 17 Nov 2026 19:45:25 +0000",
-     "summary": "Studio head Heather Hazen is among those departing.",
-     "source": "Ars Technica",
-     "zh": "Civilization studio Firaxis Games lays off a third of staff"
-    },
-    {
-     "title": "How to Tell If It’s a Cyberattack or Just an Outage",
-     "link": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
-     "pubDate": "Tue, 17 Nov 2026 19:40:57 +0000",
-     "summary": "Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
-     "source": "WIRED",
-     "zh": "How to Tell If It’s a Cyberattack or Just an Outage"
     }
    ]
   },
@@ -2025,6 +2025,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
+     "link": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
+     "pubDate": "Tue, 17 Nov 2026 23:36:09 +0000",
+     "summary": "iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair. Watch it below. more…",
+     "source": "9to5Mac",
+     "zh": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration"
+    },
+    {
+     "title": "Apple now sells iPhone Duo repair parts, here's how much they cost",
+     "link": "https://www.gsmarena.com/apple_now_sells_iphone_duo_repair_parts_heres_how_much_they_cost-news-75513.php",
+     "pubDate": "Wed, 18 Nov 2026 00:31:02 +0100",
+     "summary": "Last month, Apple published the official repair manuals for the iPhone Duo on the same day the foldable became available, and now the company has started selling genuine replacement parts and tools for it through its Self Service Repair Store. This follows the addition of the iPhone 18 Pro and 18 Pr",
+     "source": "GSMArena",
+     "zh": "Apple now sells iPhone Duo repair parts, here's how much they cost"
+    },
+    {
+     "title": "5 old-school charging ports you probably forgot phones had before USB-C",
+     "link": "https://www.engadget.com/2315473/old-school-charging-ports-phones-used-before-usb-c/",
+     "pubDate": "Tue, 17 Nov 2026 23:30:00 +0000",
+     "summary": "While USB-C is the standard today, we saw a lot of phone charging ports before the days of Micro-USB and Mini-USB.",
+     "source": "Engadget",
+     "zh": "5 old-school charging ports you probably forgot phones had before USB-C"
+    },
     {
      "title": "Material 3 Expressive adds scrolling time picker, AI Studio upgrades Android app creation",
      "link": "https://9to5google.com/2026/11/17/material-3-expressive-scrolling-time-picker/",
@@ -2202,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "National Geographic reveals its Pictures of the Year 2026, from spawning moray eels to a Greenland shark under the ice"
     },
     {
-     "title": "Google Wallet is launching on iOS",
-     "link": "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
-     "pubDate": "Tue, 17 Nov 2026 19:33:27 +0000",
-     "summary": "In case you, for some reason, don't want to use the nearly identical Apple Wallet.",
-     "source": "Engadget",
-     "zh": "Google Wallet is launching on iOS"
-    },
-    {
      "title": "Google confirms huge list of new Home features, including three Nest Thermostat upgrades",
      "link": "https://9to5google.com/2026/11/17/google-home-new-features-nest-thermostat-upgrades/",
      "pubDate": "Tue, 17 Nov 2026 19:30:00 +0000",
@@ -2248,22 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sharp has announced the Aquos sense11, the latest in its line of mid-range phones for Japan. It's a light and thin device, weighing 157g and measuring 7.6mm in thickness, yet it packs a 5,000 mAh battery, which Sharp says is enough for about two days if you use your phone for 10 hours each day. The ",
      "source": "GSMArena",
      "zh": "Sharp unveils the light and thin Aquos sense11 with a 3,000-nit OLED screen"
-    },
-    {
-     "title": "Why iPhone Duo wasn’t for me (but might be for you)",
-     "link": "https://9to5mac.com/2026/11/17/why-iphone-duo-wasnt-for-me-but-might-be-for-you/",
-     "pubDate": "Tue, 17 Nov 2026 18:48:36 +0000",
-     "summary": "I’ve had the iPhone Duo for nearly two weeks now, and have officially decided to return it. Here are the three main reasons why the Duo didn’t work out for me, but might for you. more…",
-     "source": "9to5Mac",
-     "zh": "Why iPhone Duo wasn’t for me (but might be for you)"
-    },
-    {
-     "title": "Xiaomi 18 Pro Max (Global) review",
-     "link": "https://www.gsmarena.com/xiaomi_18_pro_max-review-3013.php",
-     "pubDate": "Tue, 17 Nov 2026 18:48:01 +0100",
-     "summary": "",
-     "source": "GSMArena",
-     "zh": "Xiaomi 18 Pro Max (Global) review"
     }
    ]
   },
@@ -2274,10 +2274,42 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "NSA内网中断、苹果服务受扰、Equinor遭网络攻击，FBI警告黑客利用AI入侵",
+     "link": "https://wallstreetcn.com/articles/3786139",
+     "pubDate": "Wed, 18 Nov 2026 07:37:53 +0800",
+     "summary": "美国多家机构和企业在短短数日内相继发生关键系统中断，从政府情报网络到科技巨头再到欧洲能源企业，扰动范围之广引发市场高度关注。 11月17日周二，据报道，美国国家安全局（NSA）机密内网NSA Net发生中断。 美国国家安全局随后确认此次故障发生于\"例行维护\"期间，关键系统保持正常运转。 与此同时， 苹果公司 因内部更新引发大规模服务中断，波及App Store、iCloud及零售门店运营； 挪威国家石油公司Equinor 则证实正遭受持续网络攻击。 FBI同日发布FLASH（快速行动）级别安全预警 ，警告网络犯罪分子及与国家挂钩的黑客正利用人工智能渗透框架ARTEX，对全球企业和机构发动自动化",
+     "source": "华尔街见闻",
+     "zh": "NSA内网中断、苹果服务受扰、Equinor遭网络攻击，FBI警告黑客利用AI入侵"
+    },
+    {
+     "title": "Equinor hit with cyberattack against some IT systems",
+     "link": "https://seekingalpha.com/news/4673968-equinor-hit-with-cyberattack-against-some-it-systems?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 18:32:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Equinor hit with cyberattack against some IT systems"
+    },
+    {
+     "title": "FAA pauses router installations as ground-stop investigation puts oversight in focus",
+     "link": "https://seekingalpha.com/news/4673969-faa-pauses-router-installations-as-ground-stop-investigation-puts-oversight-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 18:31:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FAA pauses router installations as ground-stop investigation puts oversight in focus"
+    },
+    {
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 23:30:00 GMT",
+     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+     "source": "MarketWatch",
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月18日",
      "link": "https://wallstreetcn.com/articles/3786137",
      "pubDate": "Wed, 18 Nov 2026 07:17:21 +0800",
-     "summary": "华见早安之声 要闻精选 俄罗斯总统普京抵达深圳。 中国商务部：中加两国同意将初步联合安排的相关豁免措施延长2年。第二次中加经济财金战略对话：中方欢迎加拿大养老金等长线资金投资中国资本市场。 美国发布限制远程获取先进半导体相关措施，中国商务部回应。 英伟达担忧暂缓，上季营收首破千亿，本季指引再超预期创新高，Vera Rubin“爆发式开局”。电话会：董事会主席称公司实力超群，不打算恢复黄仁勋的CEO职务。 黄仁勋离任后首次发声，愿意重返英伟达担任CEO；将于12月1日出席美国国会听证。英伟达董事会主席表示不打算恢复其职务。报道：美SEC调查英伟达，包括是否通过信息披露误导投资者。 美国10月零售",
+     "summary": "华见早安之声 要闻精选 俄罗斯总统普京 抵达深圳。 中国商务部 ： 中加两国 同意将初步联合安排的相关豁免措施延长2年 。第二次中加经济财金战略对话：中方欢迎加拿大养老金等长线资金投资中国资本市场。 美国 发布限制远程获取先进半导体相关措施， 中国商务部 回应。 英伟达 担忧暂缓， 上季营收首破千亿，本季指引再超预期创新高 ，Vera Rubin爆发式开局。 电话会 ：董事会主席称公司实力超群， 不打算恢复黄仁勋的CEO职务 。 黄仁勋 离任后首次发声， 愿意重返英伟达担任CEO ；将于12月1日出席美国国会听证。报道： 美SEC 调查英伟达， 包括是否通过信息披露误导投资者。 美国10月零售",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年11月18日"
     },
@@ -2296,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "U.S. crude stockpiles rose 5.3M barrels last week, API says"
-    },
-    {
-     "title": "NSA内网中断、苹果服务受扰、Equinor遭网络攻击，FBI警告黑客利用AI入侵",
-     "link": "https://wallstreetcn.com/articles/3786139",
-     "pubDate": "Wed, 18 Nov 2026 07:06:43 +0800",
-     "summary": "NSA机密内网周二中断，官方称起因是例行维护。苹果多项服务同日出现故障，挪威能源公司Equinor证实遭到网络攻击。FBI发布警报，称黑客正利用AI框架ARTEX实施自动化攻击。受此影响，纳指期货下跌，标普500跌破200日均线。 更多消息，持续更新中 本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "NSA内网中断、苹果服务受扰、Equinor遭网络攻击，FBI警告黑客利用AI入侵"
     },
     {
      "title": "英伟达电话会：“不打算请回黄仁勋”，2028年增速预期上调至75%，AI投资将更加“克制与挑剔”",
@@ -2336,22 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "McCormick raises dividend by 6.3% to $0.51"
-    },
-    {
-     "title": "The InterGroup reports Q1 results",
-     "link": "https://seekingalpha.com/news/4673963-the-intergroup-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 18:01:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "The InterGroup reports Q1 results"
-    },
-    {
-     "title": "Here are the major earnings before the open Wednesday",
-     "link": "https://seekingalpha.com/news/4673657-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 18:00:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings before the open Wednesday"
     },
     {
      "title": "美联储库克律师：库克不会出席白宫听证，特朗普已作出开除决定，委员会是“幌子”",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
      "source": "CNBC",
      "zh": "U.S. officially loses measles elimination status amid ongoing outbreaks"
-    },
-    {
-     "title": "东方财富财经早餐 11月18日周三",
-     "link": "http://finance.eastmoney.com/news/1344,202611173933231630.html",
-     "pubDate": "Wed, 18 Nov 2026 06:00:20 +0800",
-     "summary": "每日精选 商务部回应 ： 商务部新闻发言人就美商务部发布限制远程获取先进 半导体 相关措施答记者问。问： 11月16日，美国商务部发布限制远程获取先进 半导体 相关措施 。请问中方对此有何评论？答：中方注意到有关情况。美方泛化国家安全概念，滥用出口管制，对中国企业与其他国家企业正常贸易合作横加干涉。美方做法背离两国元首达成的重要共识，破坏市场规则和国际经贸秩序，冲击全球 半导体 产业链供应链稳定。中方对此强烈不满，坚决反对。 英伟达 公布财报 ： 英伟达 第三季度营收1158亿美元，环比增长20.3%，同比增103.1%，预期1093.3亿美元。其中 数据中心 营收1076亿美元，预期1018",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 11月18日周三"
     }
    ]
   },

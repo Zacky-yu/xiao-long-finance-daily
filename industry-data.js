@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 04:53:54",
+ "generated_at": "2026/11/18 05:12:14",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
+     "link": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
+     "pubDate": "Tue, 17 Nov 2026 20:49:45 +0000",
+     "summary": "Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers. The post Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained appeared firs",
+     "source": "MarkTechPost",
+     "zh": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained"
+    },
     {
      "title": "Model ML raises $250M to automate investment banking grunt work",
      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月17日消息，今日，据外媒《华尔街日报》和CNBC援引知情人士消息报道，尽管部分投资者、员工及硅谷人士呼吁黄仁勋回归，英伟达董事会目前 并未考虑让其重新担任CEO 。 另外，OpenAI联合创始人、CEO萨姆·奥尔特曼（Sam Altman）今日在活动上公开谈及黄仁勋辞职。他谈道：“ 黄仁勋长期以来都是我的英雄 ，但英雄也有缺点。” 在被问及黄仁勋是否应该回归时，奥尔特曼说：“我认为自己掌握的信息 还不足以回答这个问题 。”他 对黄仁勋的处境有强烈的共情 ，仍记得当年被逐出OpenAI的感受。他补充道：“ 很难想象没有黄仁勋的AI革命 。他",
      "source": "智东西",
      "zh": "曝董事会不考虑黄仁勋复职！奥尔特曼发声：他是我的英雄"
-    },
-    {
-     "title": "刚刚，李飞飞正式加入AMD，与苏姿丰同框",
-     "link": "https://zhidx.com/p/611267.html",
-     "pubDate": "Tue, 17 Nov 2026 08:47:16 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西11月17日消息，今日凌晨， AMD 宣布完成对“AI教母” 李飞飞 联合创办的空间智能公司 World Labs 的收购。 AMD在社交平台X上发文，放出AMD董事会主席兼CEO 苏姿丰 与斯坦福大学计算机科学红杉讲席教授、World Labs联合创始人兼CEO 李飞飞 的同框照片，官宣World Labs团队正式加入AMD。推文附带握手表情，同时标注了“芯片女王”“AI教母”两个称号。 李飞飞转发了这篇推文，她说：“AI是一项文明科技！在这个历史时刻，我们每个人都面临着巨大的机遇和责任。我深感荣幸和激动能够领导World Labs加入AMD。",
-     "source": "智东西",
-     "zh": "刚刚，李飞飞正式加入AMD，与苏姿丰同框"
     }
    ]
   },
@@ -306,28 +306,12 @@ window.INDUSTRY_DATA = {
      "zh": "Palomino appoints NBA Champion Tristan Thompson to Strategic Advisory Board"
     },
     {
-     "title": "Make sure to take your seat at the Elektra Awards 2026",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/make-sure-to-take-your-seat-at-the-elektra-awards-2026-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 16:07:50 +0000",
-     "summary": "There's only three weeks to go until the long awaited Elektra Awards! Make sure you have your seat at the table. The post Make sure to take your seat at the Elektra Awards 2026 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Make sure to take your seat at the Elektra Awards 2026"
-    },
-    {
      "title": "Musk backs Jensen Huang, but Tesla trails Big Tech peers in petition signatures",
      "link": "https://www.digitimes.com/news/a20261117VL220/tesla-nvidia-tsmc-jensen-huang-bytedance.html",
      "pubDate": "Tue, 17 Nov 2026 16:05:00 GMT",
      "summary": "TSMC is the most-named employer after Nvidia, and ByteDance is the only Chinese company in the top 10.",
      "source": "DIGITIMES",
      "zh": "Musk backs Jensen Huang, but Tesla trails Big Tech peers in petition signatures"
-    },
-    {
-     "title": "Government investments of $71.8bn speed militarisation of space",
-     "link": "https://www.electronicsweekly.com/news/business/government-investments-of-71-8bn-speed-militarisation-of-space-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 15:30:34 +0000",
-     "summary": "Governments invested approximately $71.8 billion in space defence and security activities globally in 2025. This is the main finding of Novaspace – the space consulting and market intelligence firm – […] The post Government investments of $71.8bn speed militarisation of space appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Government investments of $71.8bn speed militarisation of space"
     },
     {
      "title": "LTCC Solutions for Next Generation UWB/BLE Devices",
@@ -344,14 +328,6 @@ window.INDUSTRY_DATA = {
      "summary": "Design engineers and technical decision-makers working on medical and life science equipment must balance competing demands: high power density, thermal performance, compact dimensions, and low acoustic noise. This whitepaper provides practical insight into the causes of noise in space-constrained p",
      "source": "EE Times",
      "zh": "Minimizing Acoustic Noise in Space-Constrained Medical and Life Science Applications"
-    },
-    {
-     "title": "IC design challenges balance safety, longevity and portability in battery management systems",
-     "link": "https://www.electronicsweekly.com/news/business/ic-design-challenges-balance-safety-longevity-and-portability-in-battery-management-systems-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 14:00:31 +0000",
-     "summary": "Battery Management Systems (BMS) as a core power component has evolved into an intelligent and sophisticated system, writes Samudrapom Dam. The BMS plays a key role in battery pack longevity, […] The post IC design challenges balance safety, longevity and portability in battery management systems ap",
-     "source": "Electronics Weekly",
-     "zh": "IC design challenges balance safety, longevity and portability in battery management systems"
     },
     {
      "title": "The Anatomy of a Convergence Delta: Closing the Correlation Gap Between P&R and Sign-Off",
@@ -376,14 +352,6 @@ window.INDUSTRY_DATA = {
      "summary": "In a trading update, epiwafer and substrate maker IQE plc of Cardiff, Wales, UK says it is continuing to maintain strong momentum across all core segments during second-half 2026. In addition, revenue upside opportunities identified in optical communications for data-center and AI infrastructure mar",
      "source": "Semiconductor Today",
      "zh": "IQE raises 2026 revenue guidance further, to more than 40% growth"
-    },
-    {
-     "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 10:55:04 +0000",
-     "summary": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
-     "source": "Electronics Weekly",
-     "zh": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers"
     },
     {
      "title": "30 AI firms top US$10B valuations as DeepSeek, Moonshot crack top 10",
@@ -450,22 +418,6 @@ window.INDUSTRY_DATA = {
      "zh": "Chip Industry Technical Paper Roundup: Nov. 17"
     },
     {
-     "title": "Decline And Fall",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 06:20:11 +0000",
-     "summary": "Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time […] The post Decline And Fall appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Decline And Fall"
-    },
-    {
-     "title": "Now’s the time to rethink the GPU/datacentre model says Penn",
-     "link": "https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 06:15:06 +0000",
-     "summary": "“Jensen Huang’s spectacular demise could not have come at a worse time for the growing divide between investor optimism about AI’s long-term potential and concern over the timing and scale […] The post Now’s the time to rethink the GPU/datacentre model says Penn appeared first on Electronics Weekly ",
-     "source": "Electronics Weekly",
-     "zh": "Now’s the time to rethink the GPU/datacentre model says Penn"
-    },
-    {
      "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
      "link": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
      "pubDate": "Tue, 17 Nov 2026 00:56:29 +0000",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been recognized on two Forbes company rankings: America’s Best Companies 2027 and America’s Most Innovative Large Companies 2026. Founded in 2015, Lumentum employs 1",
      "source": "Semiconductor Today",
      "zh": "Lumentum ranked among Forbes America’s Best Companies"
+    },
+    {
+     "title": "CXO Interview with Vishal Moondhra of Perforce IPLM",
+     "link": "https://semiwiki.com/eda/perforce/375968-cxo-interview-with-vishal-moondhra-of-perforce-iplm/",
+     "pubDate": "Mon, 16 Nov 2026 20:00:27 +0000",
+     "summary": "Vishal Moondhra is the VP of Solutions Engineering for Perforce IPLM. He has over 20 years of experience in Digital Design and Verification. Vishal has an impressive resume of engineering and senior management positions including innovative startups like LGT and Montalvo, and large multinationals su",
+     "source": "SemiWiki",
+     "zh": "CXO Interview with Vishal Moondhra of Perforce IPLM"
+    },
+    {
+     "title": "The AI-First Platform the Disaggregated Semiconductor Industry Needs",
+     "link": "https://semiwiki.com/eda/pdf-solutions/376330-the-ai-first-platform-the-disaggregated-semiconductor-industry-needs/",
+     "pubDate": "Mon, 16 Nov 2026 18:00:06 +0000",
+     "summary": "On October 13, 2026, the opening day of SEMICON West, the ESD Alliance hosted a full-day program of presentations and in-depth discussions on the theme “Bridging Design and Manufacturing with AI.” Among the speakers was Kimon Michaels, co-founder and Executive VP of Products and Solutions at PDF Sol",
+     "source": "SemiWiki",
+     "zh": "The AI-First Platform the Disaggregated Semiconductor Industry Needs"
+    },
+    {
+     "title": "Taking a Tour of Canada’s Particle Accelerator",
+     "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
+     "pubDate": "Mon, 16 Nov 2026 17:52:31 +0000",
+     "summary": "Located on Canada’s west coast, TRIUMF’s normal-conducting cyclotron, unique materials probes, and irradiation facilities serve everything from quantum materials and radiation-hardened electronics to medical isotopes. The post Taking a Tour of Canada’s Particle Accelerator appeared first on EE Times",
+     "source": "EE Times",
+     "zh": "Taking a Tour of Canada’s Particle Accelerator"
+    },
+    {
+     "title": "Simplifying Power Design with µModule Solutions",
+     "link": "https://www.eetimes.com/simplifying-power-design-with-%c2%b5module-solutions/",
+     "pubDate": "Mon, 16 Nov 2026 17:41:23 +0000",
+     "summary": "Join this webinar to learn how highly integrated power solutions can simplify design, increase power density, and much more. The post Simplifying Power Design with µModule Solutions appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Simplifying Power Design with µModule Solutions"
+    },
+    {
+     "title": "Photon Design enables dynamic, 3D nitride laser modelling within simulation design flow",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/photondesign-161126.shtml",
+     "pubDate": "Mon, 16 Nov 2026 15:56:38 GMT",
+     "summary": "Photon Design Ltd of Oxford, UK has enabled nitride laser modelling within its photonic simulation CAD software design flow...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design enables dynamic, 3D nitride laser modelling within simulation design flow"
+    },
+    {
+     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
+     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "China Tests 250-Mile Electric Plane in Major Aviation Milestone",
+     "link": "https://oilprice.com/Energy/Energy-General/China-Tests-250-Mile-Electric-Plane-in-Major-Aviation-Milestone.html",
+     "pubDate": "Tue, 17 Nov 2026 15:00:00 -0600",
+     "summary": "China's state planemaker flew its all-electric commuter airliner with a crew on board for the first time on Saturday, putting two pilots and a flight-test engineer in a 19-seat, battery-powered CE-25A over Binzhou in Shandong Province, according to Xinhua. China has completed the first test flight o",
+     "source": "OilPrice",
+     "zh": "China Tests 250-Mile Electric Plane in Major Aviation Milestone"
+    },
+    {
      "title": "Power sector emissions set to fall in US amid lower coal use",
      "link": "https://www.canarymedia.com/articles/fossil-fuels/us-power-sector-emissions-fall-coal",
      "pubDate": "Tue, 17 Nov 2026 15:00:00 -0500",
@@ -986,18 +994,10 @@ window.INDUSTRY_DATA = {
      "zh": "New PV manufacturers, old quality problems"
     },
     {
-     "title": "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge",
-     "link": "https://oilprice.com/Energy/Energy-General/Brent-Stuck-Near-93-as-Hormuz-Tanker-Attacks-Offset-Gulf-Export-Surge.html",
-     "pubDate": "Tue, 17 Nov 2026 10:00:00 -0600",
-     "summary": "In this week’s newsletter, we will take a quick look at some of the critical figures and data in the energy markets this week. We will then look at some of the key market movers early this week before providing you with the latest analysis of the top news events taking place in the global energy com",
-     "source": "OilPrice",
-     "zh": "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge"
-    },
-    {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1085,7 +1085,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1322,6 +1322,30 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
+     "link": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
+     "pubDate": "Tue, 17 Nov 2026 21:00:00 +0000",
+     "summary": "The British company Foundational thinks its laser-reflecting tech can help humanity fight the space-junk problem — and it just proved out a demo version in an orbital test.",
+     "source": "Space.com",
+     "zh": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?"
+    },
+    {
+     "title": "BPS Digital AVATAR Challenge",
+     "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
+     "pubDate": "Tue, 17 Nov 2026 20:39:38 +0000",
+     "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgra",
+     "source": "NASA",
+     "zh": "BPS Digital AVATAR Challenge"
+    },
+    {
+     "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+     "link": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+     "pubDate": "Tue, 17 Nov 2026 20:26:17 +0000",
+     "summary": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe wh",
+     "source": "NASA",
+     "zh": "New Album of Baby Star Sounds Shared by NASA’s Chandra"
+    },
+    {
      "title": "'Neuromancer:' Release date, cast & everything we know about Apple TV's new cyberpunk series",
      "link": "https://www.space.com/entertainment/space-movies-shows/neuromancer-release-date-cast-and-everything-we-know-about-apple-tvs-new-cyberpunk-series",
      "pubDate": "Tue, 17 Nov 2026 20:00:00 +0000",
@@ -1402,36 +1426,12 @@ window.INDUSTRY_DATA = {
      "zh": "How AI is pushing satellites to evolve"
     },
     {
-     "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-     "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
-     "pubDate": "Tue, 17 Nov 2026 17:00:29 +0000",
-     "summary": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which w",
-     "source": "NASA",
-     "zh": "NASA Invites Media, Public to View Roman Telescope’s First Images"
-    },
-    {
      "title": "NASA wants you to 'shine bright' today for Voyager 1's light-day milestone. Here's how",
      "link": "https://www.space.com/space-exploration/voyager/nasa-wants-you-to-shine-bright-today-for-voyager-1s-light-day-milestone-heres-how",
      "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
      "summary": "NASA invites the public to shine lights in Morse code after sunset today (Nov. 17) to celebrate Voyager 1 reaching a historic distance of one light-day from Earth.",
      "source": "Space.com",
      "zh": "NASA wants you to 'shine bright' today for Voyager 1's light-day milestone. Here's how"
-    },
-    {
-     "title": "Space Selfie",
-     "link": "https://www.nasa.gov/image-article/space-selfie-2/",
-     "pubDate": "Tue, 17 Nov 2026 16:51:14 +0000",
-     "summary": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
-     "source": "NASA",
-     "zh": "Space Selfie"
-    },
-    {
-     "title": "ISS astronauts 3D print human cells and tissues | Space photo of the day for Nov. 17, 2026",
-     "link": "https://www.space.com/space-exploration/international-space-station/iss-astronauts-3d-print-human-cells-and-tissues-space-photo-of-the-day-for-nov-17-2026",
-     "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-     "summary": "NASA astronaut Jessica Watkins works in the Life Sciences Glovebox on the ISS.",
-     "source": "Space.com",
-     "zh": "ISS astronauts 3D print human cells and tissues | Space photo of the day for Nov. 17, 2026"
     },
     {
      "title": "Space Cargo Unlimited Unveils REV1 Reentry Vehicle",
@@ -1569,6 +1569,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+     "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+     "pubDate": "Tue, 17 Nov 2026 15:51:21 -0500",
+     "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+     "source": "BleepingComputer",
+     "zh": "Japan takes Fugaku supercomputer offlline after cyberattack"
+    },
     {
      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
@@ -1722,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
     },
     {
-     "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-     "pubDate": "Tue, 17 Nov 2026 06:19:51 -0500",
-     "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft testing Remote Lock for lost or stolen Windows devices"
-    },
-    {
      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
      "pubDate": "Mon, 16 Nov 2026 22:08:20 GMT",
@@ -1786,6 +1786,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: the US SEC is investigating Nvidia, including whether the company&apos;s disclosures misled investors (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261117/p54#a261117p54",
+     "pubDate": "Tue, 17 Nov 2026 16:05:01 -0500",
+     "summary": "Wall Street Journal : Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors &nbsp; &mdash;&nbsp; Regulator's civil probe looks at whether company violated investor disclosure laws&nbsp; &mdash;&nbsp; The Securities and Exchange Commission is invest",
+     "source": "Techmeme",
+     "zh": "Sources: the US SEC is investigating Nvidia, including whether the company&apos;s disclosures misled investors (Wall Street Journal)"
+    },
+    {
+     "title": "Human.md",
+     "link": "https://www.human-md.ai/",
+     "pubDate": "Tue, 17 Nov 2026 20:47:36 +0000",
+     "summary": "Article URL: https://www.human-md.ai/ Comments URL: https://news.ycombinator.com/item?id=50537962 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Human.md"
+    },
+    {
      "title": "Sources: AppLovin is among companies in talks to acquire ad tech company Criteo, which has a ~$1B market cap after its stock fell 50%+ over the past five years (Milana Vinn/Reuters)",
      "link": "https://www.techmeme.com/261117/p53#a261117p53",
      "pubDate": "Tue, 17 Nov 2026 15:45:03 -0500",
@@ -1826,18 +1842,18 @@ window.INDUSTRY_DATA = {
      "zh": "California bans Waymo robotaxis from freeways after a viral video showed one failing to yield to the highway patrol; Waymo halts freeway service nationwide (Jeremy C. Owens/San Francisco ...)"
     },
     {
-     "title": "Web Browser Engineering",
+     "title": "Web Browser Engineering (2021)",
      "link": "https://browser.engineering/",
      "pubDate": "Tue, 17 Nov 2026 20:01:35 +0000",
-     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 33 # Comments: 1",
+     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 44 # Comments: 7",
      "source": "Hacker News",
-     "zh": "Web Browser Engineering"
+     "zh": "Web Browser Engineering (2021)"
     },
     {
      "title": "jQuery 4.1.0",
      "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
      "pubDate": "Tue, 17 Nov 2026 19:50:40 +0000",
-     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 69 # Comments: 34",
+     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 95 # Comments: 41",
      "source": "Hacker News",
      "zh": "jQuery 4.1.0"
     },
@@ -1848,6 +1864,14 @@ window.INDUSTRY_DATA = {
      "summary": "@theo : GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks &nbsp; &mdash;&nbsp; Why I hate GPT-6.2 Astra",
      "source": "Techmeme",
      "zh": "GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks (@theo)"
+    },
+    {
+     "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+     "link": "https://arxiv.org/abs/2611.09827",
+     "pubDate": "Tue, 17 Nov 2026 19:46:57 +0000",
+     "summary": "Article URL: https://arxiv.org/abs/2611.09827 Comments URL: https://news.ycombinator.com/item?id=50537120 Points: 12 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Effects of a Nuclear Detonation in Low Earth Orbit"
     },
     {
      "title": "Civilization studio Firaxis Games lays off a third of staff",
@@ -1877,17 +1901,9 @@ window.INDUSTRY_DATA = {
      "title": "350 years ago, this man discovered that light has a finite speed",
      "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
      "pubDate": "Tue, 17 Nov 2026 19:25:27 +0000",
-     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 85 # Comments: 17",
+     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 100 # Comments: 23",
      "source": "Hacker News",
      "zh": "350 years ago, this man discovered that light has a finite speed"
-    },
-    {
-     "title": "Apple&apos;s System Status page shows an outage affecting the App Store, Apple Music, and iCloud sign-in; Apple says an internal update caused \"some outages\" (Sarah Perez/TechCrunch)",
-     "link": "https://www.techmeme.com/261117/p48#a261117p48",
-     "pubDate": "Tue, 17 Nov 2026 14:25:01 -0500",
-     "summary": "Sarah Perez / TechCrunch : Apple's System Status page shows an outage affecting the App Store, Apple Music, and iCloud sign-in; Apple says an internal update caused &ldquo;some outages&rdquo; &nbsp; &mdash;&nbsp; After a recent slew of tech outages, service disruptions, and flight chaos this week, n",
-     "source": "Techmeme",
-     "zh": "Apple&apos;s System Status page shows an outage affecting the App Store, Apple Music, and iCloud sign-in; Apple says an internal update caused \"some outages\" (Sarah Perez/TechCrunch)"
     },
     {
      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
@@ -1898,28 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
     },
     {
-     "title": "Solid 2.0",
-     "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-     "pubDate": "Tue, 17 Nov 2026 18:56:17 +0000",
-     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 89 # Comments: 22",
-     "source": "Hacker News",
-     "zh": "Solid 2.0"
-    },
-    {
      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
      "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
      "pubDate": "Tue, 17 Nov 2026 18:55:40 +0000",
      "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
      "source": "TechCrunch",
      "zh": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage"
-    },
-    {
-     "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
-     "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-     "pubDate": "Tue, 17 Nov 2026 18:34:10 +0000",
-     "summary": "Article URL: https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/ Comments URL: https://news.ycombinator.com/item?id=50536031 Points: 48 # Comments: 39",
-     "source": "Hacker News",
-     "zh": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People"
     },
     {
      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
@@ -2033,6 +2033,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "YouTube Music removing Samples tab on Android & iOS",
+     "link": "https://9to5google.com/2026/11/17/youtube-music-no-samples-tab/",
+     "pubDate": "Tue, 17 Nov 2026 21:03:20 +0000",
+     "summary": "YouTube Music is simplifying its core navigation on Android and iOS by removing the Samples tab, though the vertical video format remains in the app. more…",
+     "source": "9to5Google",
+     "zh": "YouTube Music removing Samples tab on Android & iOS"
+    },
+    {
+     "title": "Gemini can now handle task requests for free, including calls to businesses on your behalf",
+     "link": "https://www.androidauthority.com/google-gemini-tasks-update-3736266/",
+     "pubDate": "Tue, 17 Nov 2026 21:02:23 +0000",
+     "summary": "Users can also text or call Gemini to handle tasks outside the app.",
+     "source": "Android Authority",
+     "zh": "Gemini can now handle task requests for free, including calls to businesses on your behalf"
+    },
+    {
+     "title": "There's a chance your Xbox Series X is plugged into the wrong HDMI port",
+     "link": "https://www.engadget.com/2315403/chance-xbox-series-x-plugged-into-wrong-hdmi-port/",
+     "pubDate": "Tue, 17 Nov 2026 21:00:00 +0000",
+     "summary": "Make sure you're getting the most out of your Xbox Series X, starting with a port check.",
+     "source": "Engadget",
+     "zh": "There's a chance your Xbox Series X is plugged into the wrong HDMI port"
+    },
     {
      "title": "Over 200,000 apps are now optimized for the iPhone Duo",
      "link": "https://www.gsmarena.com/over_200000_apps_are_now_optimized_for_the_iphone_duo-news-75506.php",
@@ -2218,22 +2242,6 @@ window.INDUSTRY_DATA = {
      "zh": "9to5Mac Daily: November 17, 2026 – iOS 27.3 brings face unlock to iPhone Duo, more"
     },
     {
-     "title": "Grado's GW200 headphones boast fresh drivers and a longer battery life",
-     "link": "https://www.engadget.com/2319483/grados-gw200-headphones-boast-fresh-drivers-and-a-longer-battery-life/",
-     "pubDate": "Tue, 17 Nov 2026 18:07:29 +0000",
-     "summary": "They run $329 and are up for preorder now.",
-     "source": "Engadget",
-     "zh": "Grado's GW200 headphones boast fresh drivers and a longer battery life"
-    },
-    {
-     "title": "Gemini for Home is botching simple Spotify requests",
-     "link": "https://www.androidauthority.com/gemini-for-home-spotify-issues-3736194/",
-     "pubDate": "Tue, 17 Nov 2026 18:06:48 +0000",
-     "summary": "An August update was supposed to improve song, artist, and playlist recognition.",
-     "source": "Android Authority",
-     "zh": "Gemini for Home is botching simple Spotify requests"
-    },
-    {
      "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
      "link": "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/",
      "pubDate": "Tue, 17 Nov 2026 17:51:47 +0000",
@@ -2264,14 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple has released the second developer beta of iOS 27.3, a week after the iOS 27.2.1 update came out. It follows the first beta, which brought vertical tabs in Safari, Siri Recaps, Live Rewind, and a redesigned Health app, among other things. The iPhone Duo gets a couple of exclusive features this ",
      "source": "GSMArena",
      "zh": "Here's everything new in iOS 27.3 beta 2 and macOS 27.3 beta 2"
-    },
-    {
-     "title": "VSCO brings its film-inspired presets to the desktop with a new Raw editor",
-     "link": "https://www.dpreview.com/news/vsco-brings-its-film-inspired-presets-to-the-desktop-with-a-new-raw-editor/",
-     "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
-     "summary": "VSCO’s first standalone desktop editor brings film-inspired presets, batch Raw editing and client delivery to macOS, with plans starting at $5 a month.",
-     "source": "DPReview",
-     "zh": "VSCO brings its film-inspired presets to the desktop with a new Raw editor"
     }
    ]
   },
@@ -2282,60 +2282,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Next Hydrogen Solutions reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673890-next-hydrogen-solutions-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 15:46:19 -0500",
+     "title": "IRIDEX GAAP EPS of -$0.08 misses by $0.04, revenue of $10.2M misses by $2.44M",
+     "link": "https://seekingalpha.com/news/4673902-iridex-gaap-eps-of-0_08-misses-by-0_04-revenue-of-10_2m-misses-by-2_44m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:07:58 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Next Hydrogen Solutions reports Q3 results"
+     "zh": "IRIDEX GAAP EPS of -$0.08 misses by $0.04, revenue of $10.2M misses by $2.44M"
     },
     {
-     "title": "Palatin targets phase I start in first half of calendar 2027 for lead MC4R lipidated peptide",
-     "link": "https://seekingalpha.com/news/4673888-palatin-targets-phase-i-start-in-first-half-of-calendar-2027-for-lead-mc4r-lipidated-peptide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 15:44:30 -0500",
+     "title": "SELLAS Life Sciences launches $150M public offering of its shares",
+     "link": "https://seekingalpha.com/news/4673899-sellas-life-sciences-launches-150m-public-offering-of-its-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:07:48 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Palatin targets phase I start in first half of calendar 2027 for lead MC4R lipidated peptide"
+     "zh": "SELLAS Life Sciences launches $150M public offering of its shares"
     },
     {
-     "title": "Family Office of America reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673885-family-office-of-america-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 15:42:46 -0500",
+     "title": "LEEF Brands GAAP EPS of $0.00, revenue of $8.07M",
+     "link": "https://seekingalpha.com/news/4673900-leef-brands-gaap-eps-of-0_00-revenue-of-8_07m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:06:21 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Family Office of America reports Q3 results"
+     "zh": "LEEF Brands GAAP EPS of $0.00, revenue of $8.07M"
     },
     {
-     "title": "Adia Med reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673883-adia-med-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 15:40:06 -0500",
+     "title": "Wall Street ends in the red as tech continues its struggle",
+     "link": "https://seekingalpha.com/news/4673887-wall-street-ends-in-the-red-as-tech-continues-its-struggle?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:05:19 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Adia Med reports Q3 results"
+     "zh": "Wall Street ends in the red as tech continues its struggle"
     },
     {
-     "title": "Criteo jumps on report of takeover interest from AppLovin, others",
-     "link": "https://seekingalpha.com/news/4673876-criteo-jumps-on-report-of-takeover-interest-from-applovin-others?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 15:39:16 -0500",
+     "title": "Nvidia being probed by SEC after Huang's resignation: report",
+     "link": "https://seekingalpha.com/news/4673895-nvidia-being-probed-by-sec-after-huangs-resignation-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:05:04 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Criteo jumps on report of takeover interest from AppLovin, others"
+     "zh": "Nvidia being probed by SEC after Huang's resignation: report"
+    },
+    {
+     "title": "Credit card delinquencies, charge-offs tick up amid solid spending: October Credit Pulse",
+     "link": "https://seekingalpha.com/news/4673870-credit-card-delinquencies-charge-offs-tick-up-amid-solid-spending-october-credit-pulse?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:04:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Credit card delinquencies, charge-offs tick up amid solid spending: October Credit Pulse"
+    },
+    {
+     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 21:00:00 GMT",
+     "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+     "source": "MarketWatch",
+     "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
+    },
+    {
+     "title": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
+     "link": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:58:00 GMT",
+     "summary": "The U.S. regulator’s disclosure was more extensive than what the biotech company had announced Sunday.",
+     "source": "MarketWatch",
+     "zh": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug"
     },
     {
      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
      "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-     "pubDate": "Tue, 17 Nov 2026 20:38:19 GMT",
+     "pubDate": "Tue, 17 Nov 2026 20:52:58 GMT",
      "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
      "source": "CNBC",
      "zh": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything"
     },
     {
-     "title": "Medicenna Therapeutics GAAP EPS of -$0.04 beats by $0.02",
-     "link": "https://seekingalpha.com/news/4673882-medicenna-therapeutics-gaap-eps-of-004-beats-by-002?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 15:37:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Medicenna Therapeutics GAAP EPS of -$0.04 beats by $0.02"
+     "title": "The U.S.’s classified national-security communications network experiences tech outage",
+     "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:45:00 GMT",
+     "summary": "A reported outage of a classified U.S. communications network has become the latest in a string of technology disruptions impacting consumers, businesses and the government.",
+     "source": "MarketWatch",
+     "zh": "The U.S.’s classified national-security communications network experiences tech outage"
+    },
+    {
+     "title": "Private equity has been buying up hospice centers — with striking consequences",
+     "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:40:00 GMT",
+     "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
+     "source": "MarketWatch",
+     "zh": "Private equity has been buying up hospice centers — with striking consequences"
     },
     {
      "title": "Wall Street&apos;s fear gauge is surging again and this time it&apos;s not just about AI jitters",
@@ -2346,12 +2378,28 @@ window.INDUSTRY_DATA = {
      "zh": "Wall Street&apos;s fear gauge is surging again and this time it&apos;s not just about AI jitters"
     },
     {
+     "title": "Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy?",
+     "link": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:24:00 GMT",
+     "summary": "After the world’s largest crypto hack and a spate of outages in the digital world, physical gold may be the ultimate “antidigital” asset.",
+     "source": "MarketWatch",
+     "zh": "Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy?"
+    },
+    {
      "title": "Anthropic IPO前夕，OpenAI推出最强模型GPT-6.2 Astra，称性能超越Fable 5.2",
      "link": "https://wallstreetcn.com/articles/3786124",
      "pubDate": "Wed, 18 Nov 2026 04:19:40 +0800",
      "summary": "OpenAI推出旗舰模型最新迭代版本，在性能提升的同时大幅降低使用成本，并在多项基准测试中超越竞争对手Anthropic的顶级模型。 此次发布的GPT-6.2 Astra定位于复杂专业工作场景，涵盖金融建模与科学研究等领域，同步推出的GPT-6.2 Sol则面向日常任务。 OpenAI表示， GPT-6.2 Astra在多步骤专业工作基准测试中的得分较竞品Claude Fable 5.2高出5.5分，而成本仅为后者的5%。此次发布恰逢Anthropic备受市场关注的上市前夕，时间节点颇为微妙。 新模型的推出同时面临外界对前沿AI系统安全风险的持续审视。OpenAI曾于9月底以模型\"未能充分限定",
      "source": "华尔街见闻",
      "zh": "Anthropic IPO前夕，OpenAI推出最强模型GPT-6.2 Astra，称性能超越Fable 5.2"
+    },
+    {
+     "title": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
+     "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:16:00 GMT",
+     "summary": "Alphabet and Apple have approached artificial intelligence in ways that have resonated on Wall Street.",
+     "source": "MarketWatch",
+     "zh": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025"
     },
     {
      "title": "US tech stocks slide ahead of Nvidia results",
@@ -2472,54 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "\"This is why they can't have a nuclear weapon,\" Trump added, reiterating his main rationale for launching the Iran war.",
      "source": "CNBC",
      "zh": "Trump on Iran&apos;s reported DC dirty bomb plan: &apos;We take it very seriously&apos;"
-    },
-    {
-     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
-     "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 17:06:32 GMT",
-     "summary": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
-     "source": "Financial Times",
-     "zh": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn"
-    },
-    {
-     "title": "Jensen Huang says he is prepared to return as Nvidia CEO",
-     "link": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 16:49:56 GMT",
-     "summary": "First public remarks since revelations over extramarital affairs forced co-founder to resign",
-     "source": "Financial Times",
-     "zh": "Jensen Huang says he is prepared to return as Nvidia CEO"
-    },
-    {
-     "title": "黄仁勋辞职后首次发声：若董事会允许 愿重返英伟达担任CEO",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933290496.html",
-     "pubDate": "Wed, 18 Nov 2026 00:21:31 +0800",
-     "summary": "11月17日，财闻海外资讯援引美国《华尔街日报》报道， 英伟达 联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，表示若董事会允许，他愿意在卸任后重返公司担任CEO。另据彭博社报道，黄仁勋同意下个月向国会简要汇报。 黄仁勋此前已表示，只要身体状况允许，他希望在 英伟达 工作到80岁。此番言论进一步表明其对公司的长期承诺。 英伟达 近年来凭借 人工智能 芯片需求爆发，市值一度突破5万亿美元，成为全球最具价值的上市公司之一。 当日，三名知情人士告诉路透社，尽管要求黄仁勋复职的声浪日益高涨，但Nvidia董事会并未考虑让他重返首席执行官职位。已有超过18万人签署请愿书要求黄仁勋回归， 特斯拉 首席",
-     "source": "东方财富资讯",
-     "zh": "黄仁勋辞职后首次发声：若董事会允许 愿重返英伟达担任CEO"
-    },
-    {
-     "title": "美国10年期国债收益率今年以来维持在5%以上的天数逼近2007年的纪录",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933287957.html",
-     "pubDate": "Wed, 18 Nov 2026 00:10:47 +0800",
-     "summary": "随着投资者押注美联储将在通胀持续高企之际进一步加息，美国10年期国债收益率位于5%以上的时间正在接近近20年以来的最长。美国借贷成本的这一基准，今年势将第27个交易日收于5%以上距离2007年录得的29个交易日仅一步之遥。交易员目前已完全计入美联储在12月9日会议上加息25个基点的可能性，并预计到2027年9月累计收紧幅度将超过80个基点；而在上周之前，市场预期约为50个基点。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "美国10年期国债收益率今年以来维持在5%以上的天数逼近2007年的纪录"
-    },
-    {
-     "title": "罔顾事实做空光模块龙头 这份“报告”坏得很",
-     "link": "http://finance.eastmoney.com/news/1354,202611173933284068.html",
-     "pubDate": "Tue, 17 Nov 2026 23:54:00 +0800",
-     "summary": "11月17日，一则关于 中际旭创 的看空测算消息在市场迅速发酵。 某机构在一篇看空AI的总结性报告中，以2029年AI资本开支8000亿美元为测算基准，叠加15%利润率等假设，测算出 中际旭创 2029年净利润约300亿元，进而得出其“稳态估值”仅在3000亿至4500亿元之间的结论。按 中际旭创 当前市值测算，该报告暗示公司股价仍有约25%的回撤空间，并据此建议“配置型资金可酌情在4000亿以下设计左侧网格低吸策略”。 消息截图 这份报告看似模型严密、假设齐全，实则多处前提与产业事实严重背离。说它“坏”，不是因为它看空，而是因为它把极端悲观假设包装成“稳态测算”，用一套经不起产业数据检验的推",
-     "source": "东方财富资讯",
-     "zh": "罔顾事实做空光模块龙头 这份“报告”坏得很"
-    },
-    {
-     "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
-     "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
-     "pubDate": "Tue, 17 Nov 2026 15:36:43 GMT",
-     "summary": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
-     "source": "CNBC",
-     "zh": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices"
     }
    ]
   },

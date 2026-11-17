@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 16:32:09",
+ "generated_at": "2026/11/17 16:52:01",
  "recent_days": 7,
  "industries": [
   {
@@ -146,6 +146,14 @@ window.INDUSTRY_DATA = {
      "zh": "How to Give Claude Code Up-to-Date Documentation With Context7"
     },
     {
+     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
+     "summary": "Plus: CucumberVision!",
+     "source": "Import AI",
+     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
+    },
+    {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
      "link": "https://zhidx.com/p/611006.html",
      "pubDate": "Mon, 16 Nov 2026 21:55:11 +0800",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "12月1日，细数AI的未竟之问。",
      "source": "量子位",
      "zh": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力"
-    },
-    {
-     "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-     "link": "https://www.qbitai.com/2026/11/510496.html",
-     "pubDate": "Mon, 16 Nov 2026 08:02:07 +0000",
-     "summary": "在华为待了快10000天。",
-     "source": "量子位",
-     "zh": "没搞过一天研发的他，50岁以华为董事的身份退休了"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Chip Industry Technical Paper Roundup: Nov. 17",
+     "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/",
+     "pubDate": "Tue, 17 Nov 2026 08:01:08 +0000",
+     "summary": "HBM4 controller partitioning; single-crystal high-κ dielectrics for low-power 2D CFETs; HW-based location checks for AI chip smuggling; embedded ECC for AI weight protection; optimized e-beam evaporation for metal-semiconductor contacts; sub-volt HZO ferroelectric capacitors; randomized-cache HW sec",
+     "source": "Semiconductor Engineering",
+     "zh": "Chip Industry Technical Paper Roundup: Nov. 17"
+    },
     {
      "title": "US says it began probing Nvidia's Singapore customer in 2024, months before Singapore's own case",
      "link": "https://www.digitimes.com/news/a20261117VL215/nvidia-2024-2025-investigation-2026.html",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Obtaining clear images of gaps and delaminations in advanced packages. The post What Is Acoustic Micro Imaging? A Quick Guide To This Inspection Process appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "What Is Acoustic Micro Imaging? A Quick Guide To This Inspection Process"
-    },
-    {
-     "title": "Are AI Agents The New Semiconductor IP?",
-     "link": "https://semiengineering.com/are-ai-agents-the-new-semiconductor-ip/",
-     "pubDate": "Mon, 16 Nov 2026 08:01:17 +0000",
-     "summary": "Agents are emerging as reusable design tools, but trust and use models remain challenging. The post Are AI Agents The New Semiconductor IP? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Are AI Agents The New Semiconductor IP?"
     }
    ]
   },
@@ -866,6 +866,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Vietnamese provinces back floating PV projects",
+     "link": "https://www.pv-magazine.com/2026/11/17/vietnamese-provinces-back-floating-pv-projects/",
+     "pubDate": "Tue, 17 Nov 2026 08:48:33 +0000",
+     "summary": "Vietnam’s uptake of floating solar projects continues with three provinces progressing utility-scale projects, including a groundbreaking ceremony for a 35 MW array. The post Vietnamese provinces back floating PV projects appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Vietnamese provinces back floating PV projects"
+    },
+    {
+     "title": "Japan Proposes an 'Asian IEA' to Protect Oil Supplies",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Proposes-an-Asian-IEA-to-Protect-Oil-Supplies.html",
+     "pubDate": "Tue, 17 Nov 2026 02:45:00 -0600",
+     "summary": "Japan has proposed a joint Asian task force to handle crude oil stockpiling and a “Power Gulf Initiative” to deepen cooperation between Asian energy importers and their biggest regional suppliers in the Middle East. “We intend to promote it as an equivalent of an Asian version of the International E",
+     "source": "OilPrice",
+     "zh": "Japan Proposes an 'Asian IEA' to Protect Oil Supplies"
+    },
+    {
      "title": "America’s Biggest Grid Operator Races to Keep Up With Data Center Boom",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Americas-Biggest-Grid-Operator-Races-to-Keep-Up-With-Data-Center-Boom.html",
      "pubDate": "Tue, 17 Nov 2026 01:30:00 -0600",
@@ -978,14 +994,6 @@ window.INDUSTRY_DATA = {
      "zh": "Airlines Face Fuel Crisis as Price Hedges Expire"
     },
     {
-     "title": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Uganda-Pushes-First-Oil-to-Mid-2027-as-Iran-War-Holds-Up-Equipment.html",
-     "pubDate": "Mon, 16 Nov 2026 17:00:00 -0600",
-     "summary": "Uganda’s dream to achieve its first commercial oil production and crude exports has been delayed yet again, extending the country’s wait to more than two decades since commercial oil reserves were first discovered in the country in 2006. Officials from the Uganda National Oil Company (UNOC) and the ",
-     "source": "OilPrice",
-     "zh": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment"
-    },
-    {
      "title": "Permitting reform is a big, controversial bet for the energy transition",
      "link": "https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet",
      "pubDate": "Mon, 16 Nov 2026 17:30:00 -0500",
@@ -1032,14 +1040,6 @@ window.INDUSTRY_DATA = {
      "summary": "The US Securities and Exchange Commission (SEC) has initiated an investigation into T1 Energy’s public disclosures regarding its eligibility for Section 45X tax credits.",
      "source": "PV Tech",
      "zh": "SEC investigates T1 Energy over 45X tax credit disclosures"
-    },
-    {
-     "title": "HoloSolis raises €15 million, welcomes four new shareholders",
-     "link": "https://www.pv-magazine.com/2026/11/16/holosolis-raises-e15-million-welcomes-four-new-shareholders/",
-     "pubDate": "Mon, 16 Nov 2026 15:53:10 +0000",
-     "summary": "The financing will support development of a solar cell and module factory in Hambach, France, with an annual production capacity of 5 GW. The project is expected to create 1,900 jobs, with production scheduled to begin in 2027. The post HoloSolis raises €15 million, welcomes four new shareholders ap",
-     "source": "pv magazine",
-     "zh": "HoloSolis raises €15 million, welcomes four new shareholders"
     },
     {
      "title": "Vikram Solar sees Q2 revenue and profit slump, adds 1.7GW of new orders",
@@ -1130,12 +1130,12 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage"
     },
     {
-     "title": "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
+     "title": "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
      "link": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
      "pubDate": "Mon, 16 Nov 2026 22:22:47 +0000",
      "summary": "BOSTON — For years, scientists have wondered whether Viagra-like pills could have an unexpected benefit in the brain. Some real-world evidence suggests men who take erectile dysfunction medicines are less likely to develop Alzheimer’s, and the ...",
      "source": "Endpoints News",
-     "zh": "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results"
+     "zh": "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results"
     },
     {
      "title": "Toward Connected Laboratory Ecosystems",
@@ -1362,14 +1362,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
      "pubDate": "Mon, 16 Nov 2026 21:34:36 +0000",
@@ -1514,14 +1506,6 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1536,14 +1520,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on Spa",
      "source": "SpaceNews",
      "zh": "What role does industry play in Europe’s space sovereignty push?"
-    },
-    {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
     },
     {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
@@ -1561,6 +1537,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+     "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+     "pubDate": "Tue, 17 Nov 2026 03:35:42 -0500",
+     "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+     "source": "BleepingComputer",
+     "zh": "Uber notifies drivers of data breach affecting nearly 150,000 people"
+    },
     {
      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
@@ -1640,14 +1624,6 @@ window.INDUSTRY_DATA = {
      "summary": "Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users. The post Trump Administration Moves to Block China From Indirect Access to American AI Technology appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "Trump Administration Moves to Block China From Indirect Access to American AI Technology"
-    },
-    {
-     "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-     "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-     "pubDate": "Mon, 16 Nov 2026 14:57:13 -0500",
-     "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-     "source": "BleepingComputer",
-     "zh": "Barracuda links cloud breach to ARTEX AI-powered cyberattack"
     },
     {
      "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
@@ -1778,6 +1754,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "82亿美元买下李飞飞团队，AMD 不想再只靠卖芯片挑战英伟达了",
+     "link": "https://www.huxiu.com/article/4906240.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 16:38:39 +0800",
+     "summary": "本文来自微信公众号： AI前线 ，作者：冬梅，原文标题：《82 亿美元买下李飞飞团队，AMD 不想再只靠卖芯片挑战英伟达了》 今天，AMD宣布正式完成了对World Labs的收购。AI科学家李飞飞正式加入AMD，出任执行副总裁兼首席科学家，直接向CEO苏姿丰汇报。 “芯片女王”和“AI教母”同框的画面，在全网刷屏了。 AMD买下World Labs“芯片女王”也是扩张女王 按照此前披露的交易协议，这是一笔价值约82亿美元的全股票收购。根据AMD向美国证券交易委员会（SEC）提交的文件，交易实际于11月13日完成，AMD向World Labs原股东发行了约1498万股普通股。 这也成为AMD继",
+     "source": "虎嗅",
+     "zh": "82亿美元买下李飞飞团队，AMD 不想再只靠卖芯片挑战英伟达了"
+    },
+    {
+     "title": "00后找工作，被AI面试官逼出讨好型人格",
+     "link": "https://www.huxiu.com/article/4906238.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 16:31:29 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：Zelie，编辑：Felicia 应届生发现，面试中的AI面试官越来越多了。想要获得一份工作，他们首先要学会的是“如何讨好AI”。在这个漫长的求职过程中，你得搜寻秘籍，反复攻略屏幕里的数字人。 “金九银十”的秋招季刚刚过去，11月正是应届生扎堆应付笔试面试的时候。 但近两年，招聘市场明显出现了一些“小变动”。 不少应届生收到了AI面试邀约。所谓“AI面”，就是“AI人”作为面试官，根据求职者的自我介绍和回答抓取关键词进行提问，面试时长大概率在40到60分钟之间。 听上去，这是一个既能提高面试效率，又能给应届生减少和真人沟通压力的模式。但是在实际操作中，他们",
+     "source": "虎嗅",
+     "zh": "00后找工作，被AI面试官逼出讨好型人格"
+    },
+    {
+     "title": "欧洲六国游戏工会联合呼吁玩家抵制生成式 AI 游戏，支持纯人工开发作品",
+     "link": "https://www.ithome.com/1/028/341.htm",
+     "pubDate": "Tue, 17 Nov 2026 08:24:26 GMT",
+     "summary": "IT之家 11 月 17 日消息，欧洲多个国家的电子游戏行业工会联合发布了一份宣言，呼吁消费者“支持不使用生成式 AI 制作的游戏”。这份宣言发布于当地时间今天在英国曼彻斯特举行的第二届欧洲游戏从业者工会峰会之前，旨在提高公众对生成式 AI 潜在危害的认识，并提醒游戏从业者、发行商和玩家关注生成式 AI 给行业就业带来的风险。 据IT之家了解，这份名为《游戏行业生成式 AI 使用宣言》（On Generative AI Usage in the Games Industry）的文件，由六个国家和地区的游戏行业工会共同发起，分别是英国独立工人联盟（IWGB）、爱尔兰共和国游戏工人工会（GWUI）",
+     "source": "IT之家",
+     "zh": "欧洲六国游戏工会联合呼吁玩家抵制生成式 AI 游戏，支持纯人工开发作品"
+    },
+    {
+     "title": "比亚迪王传福点赞深圳公交出租车全电动化，称十几年前全球都认为是不能达到的目标",
+     "link": "https://www.ithome.com/1/028/339.htm",
+     "pubDate": "Tue, 17 Nov 2026 08:23:27 GMT",
+     "summary": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。 比亚迪股份有限公司董事长兼总裁王传福在谈及“可持续发展”这一话题时以深圳为例，称其不只是一个创新的城市，还是一个绿色发展的城市。 他表示，十几年前，深圳把所有的公交大巴和所有的出租车全部换成电动车。 在全球当时认为几乎是一个不能达到的目标 ，但深圳做到了。 王传福认为，正因为这种对减排的积极贡献，才让深圳天天是蓝天。 据IT之家此前报道，本月早些时候，比亚迪第 1900 万辆新能源汽车下线，该车是一辆方程豹钛 9。官方同时宣布，方程豹钛 9 预订正",
+     "source": "IT之家",
+     "zh": "比亚迪王传福点赞深圳公交出租车全电动化，称十几年前全球都认为是不能达到的目标"
+    },
+    {
+     "title": "可还原当地日常说话习惯：谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 类语言",
+     "link": "https://www.ithome.com/1/028/336.htm",
+     "pubDate": "Tue, 17 Nov 2026 08:21:16 GMT",
+     "summary": "IT之家 11 月 17 日消息，谷歌宣布正式为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 个语言类别，让用户能够选择更贴近当地日常说话习惯的语音，以便与 Gemini Live 进行自然交流。 此次更新涵盖美式英语、英式英语、印度英语、印地语、巴西葡萄牙语、印度尼西亚语和韩语。其中，英国用户可以选择 10 余种不同的地区口音，包括纽卡斯尔口音（Geordie）、利物浦口音（Scouse）、伯明翰口音（Brummie）、苏格兰口音、威尔士口音、北爱尔兰口音，以及多元文化伦敦英语（Multicultural London English）。 Gemini Live 产品管理总监",
+     "source": "IT之家",
+     "zh": "可还原当地日常说话习惯：谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 类语言"
+    },
+    {
+     "title": "消息称苹果破例与三星洽谈 DRAM 长期供货协议，已启动最后磋商",
+     "link": "https://www.ithome.com/1/028/325.htm",
+     "pubDate": "Tue, 17 Nov 2026 08:16:47 GMT",
+     "summary": "IT之家 11 月 17 日消息，据韩国《每日经济》援引半导体行业消息称，三星电子与苹果即将达成 DRAM 内存芯片长期供货协议。苹果是全球最大的消费电子企业，也是大型科技公司中唯一尚未与三星电子签订长期供货协议的企业。 消息称双方正就一份 为期 4 至 5 年的长期供货协议 进行最后磋商，计划从 明年上半年开始供货 。协议将规定 DRAM 最低供货量，具体价格则根据未来市场行情确定。 苹果向来以采购条件苛刻著称，凭借强势买方地位尽可能压低供应商的利润。苹果通常只签短期合同，每次续约还会要求降价。一名半导体行业人士称：“以苹果过去的采购作风来看，这次与三星签订长期供货协议，是 以往很难想象的破",
+     "source": "IT之家",
+     "zh": "消息称苹果破例与三星洽谈 DRAM 长期供货协议，已启动最后磋商"
+    },
+    {
+     "title": "小米雷军：AI 是一个全新的时代，一定会带来非常多的商业机会",
+     "link": "https://www.ithome.com/1/028/322.htm",
+     "pubDate": "Tue, 17 Nov 2026 08:16:32 GMT",
+     "summary": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。 据新浪科技报道，小米集团创始人、董事长兼首席执行官雷军表示，过去四年，AI 大模型技术突飞猛进，给我们的生活和工作带来了巨大的变化。但 AI 能够落地的场景非常有限， 能够真正实现商业闭环、能够挣到钱的公司，相对比较少 。 他认为， AI 是一个全新的时代，一定会带来非常多的商业机会 ，尤其是 AI 走向物理世界、跟终端和各种应用场景深度结合以后，会有巨大的机会。“我觉得过去的四年，应该没有看到任何一个革命性的、标杆性的产品诞生， 但我相信在未来的",
+     "source": "IT之家",
+     "zh": "小米雷军：AI 是一个全新的时代，一定会带来非常多的商业机会"
+    },
+    {
+     "title": "经典游戏多人版本《黄金矿工：派对狂欢》登陆 Steam，支持 2–6 人同时在线游玩",
+     "link": "https://www.ithome.com/1/028/318.htm",
+     "pubDate": "Tue, 17 Nov 2026 08:14:54 GMT",
+     "summary": "IT之家 11 月 17 日消息，《黄金矿工》新作《黄金矿工：派对狂欢》将于今晚正式登陆 Steam 平台，本作可以看作是原版作品的“多人版本”，支持 2–6 人在线游玩，IT之家附游戏商品页（ https://store.steampowered.com/app/4815320/%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%B4%BE%E5%AF%B9%E7%8B%82%E6%AC%A2/ ）。 IT之家附官方介绍： 《黄金矿工：派对狂欢》将 2 至 6 名玩家同时投入同一场疯狂的淘金热。你记忆中那根物理抓钩，那颗超大金块落地时令人满足的声响，以及现在这个也",
+     "source": "IT之家",
+     "zh": "经典游戏多人版本《黄金矿工：派对狂欢》登陆 Steam，支持 2–6 人同时在线游玩"
+    },
+    {
      "title": "别再喊无边界协同了，AI压根不跟既得利益者谈",
      "link": "https://www.huxiu.com/article/4906219.html?f=rss",
      "pubDate": "Tue, 17 Nov 2026 16:12:04 +0800",
@@ -1794,22 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "“减肥针不算药啊”，这5种情况不说实话会要命"
     },
     {
-     "title": "长城汽车法务部通报部分网络侵权案件进展：多家 MCN 拉踩新车，将追究法律责任",
-     "link": "https://www.ithome.com/1/028/299.htm",
-     "pubDate": "Tue, 17 Nov 2026 08:07:37 GMT",
-     "summary": "IT之家 11 月 17 日消息，长城汽车法务部今日通报了部分网络侵权案件进展。 针对网络造谣、恶意侮辱、名誉侵权及有组织商业诋毁等违法行为，长城汽车坚持依法维权、坚决追责，对侵害企业合法权益的行为零容忍。现将部分案件进展通报如下： 1、网络账号“高山 *”诸某在社交平台长期发布针对长城汽车的侮辱性言论。经法院审理，认定其行为构成名誉侵权，判令其向长城汽车公开致歉、删除全部侵权内容，并赔偿长城汽车经济损失。 2、网络账号“星星 **”朱某、“* 鸟”陆某编造并散播不实言论，公安机关经依法调查处理，相关账号持有人已被行政处罚。 3、网络账号“慕川 **”游某长期持续发布针对长城汽车的负面言论，并",
-     "source": "IT之家",
-     "zh": "长城汽车法务部通报部分网络侵权案件进展：多家 MCN 拉踩新车，将追究法律责任"
-    },
-    {
-     "title": "曝英伟达开发者技术总监致信董事会：若黄仁勋无法复任 CEO，核心人才恐将流失",
-     "link": "https://www.ithome.com/1/028/295.htm",
-     "pubDate": "Tue, 17 Nov 2026 08:06:18 GMT",
-     "summary": "IT之家 11 月 17 日消息，据《华尔街日报》16 日援引知情人士消息称，英伟达开发者技术总监纳德尔 · 哈利勒致信公司高层及董事会，警告如果不恢复黄仁勋的 CEO 职务，英伟达恐将 失去一批“无可替代的人才” 。 黄仁勋辞职后，英伟达内部要求他复职的呼声不断，哈利勒的信进一步推动了这场行动。他认为，黄仁勋具备 无人能及的领导优势 。 哈利勒主张，在有关调查尚无定论之际，董事会应当给予黄仁勋信任。 据看过信件的人士透露，哈利勒写道：“黄仁勋 遍布全球的人脉 是英伟达的战略优势，我认为他的领导对于维持美国在 AI 领域的主导地位至关重要。” 这封信还发给了黄仁勋 直接管理的约 60 名下属，",
-     "source": "IT之家",
-     "zh": "曝英伟达开发者技术总监致信董事会：若黄仁勋无法复任 CEO，核心人才恐将流失"
-    },
-    {
      "title": "销量跌40%后，一汽-大众砍掉了员工最后的体面",
      "link": "https://www.huxiu.com/article/4905987.html?f=rss",
      "pubDate": "Tue, 17 Nov 2026 16:06:17 +0800",
@@ -1824,38 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "In an exclusive interview, the stunt journalist talks about his new HBO show, where he dreams up grifting schemes to lampoon some of the world’s most opulent—and gullible—industries.",
      "source": "WIRED",
      "zh": "Oobah Butler Can Sell You Anything—If You’re a Rich Idiot"
-    },
-    {
-     "title": "任天堂 Switch 射击游戏《斯普拉遁：涂击队》试玩版上线，开放螺旋石群岛三段关卡供免费游玩",
-     "link": "https://www.ithome.com/1/028/289.htm",
-     "pubDate": "Tue, 17 Nov 2026 07:57:31 GMT",
-     "summary": "IT之家 11 月 17 日消息，任天堂第三人称射击游戏《斯普拉遁》系列的首款衍生游戏《斯普拉遁：涂击队》于今年 7 月 23 日正式发售，港区售价 379~429 港币 （IT之家注：现汇率约合 322.6 ~ 365.2 元人民币） 。 目前任天堂已为本作推出试玩版本，尚未购买游戏的玩家可以体验三段螺旋石群岛关卡，了解这款系列作品的单人寻宝与战斗玩法，IT之家附游戏商品页（ https://store.nintendo.com.hk/70010000122827 ）。 试玩过程中，玩家将与“鱼浆帮”一同行动。战斗部分准备了三套预先选定的装备配置，可用于尝试射击和移动，并比较不同武器与机械装",
-     "source": "IT之家",
-     "zh": "任天堂 Switch 射击游戏《斯普拉遁：涂击队》试玩版上线，开放螺旋石群岛三段关卡供免费游玩"
-    },
-    {
-     "title": "Take-Two CEO 批评 Anthropic、OpenAI：别放任用户用 AI 克隆游戏",
-     "link": "https://www.ithome.com/1/028/287.htm",
-     "pubDate": "Tue, 17 Nov 2026 07:55:51 GMT",
-     "summary": "IT之家 11 月 17 日消息，《GTA 6》即将迎来期待已久的发售，Take-Two CEO 施特劳斯 · 泽尔尼克近日批评 Anthropic、OpenAI 等公司，认为它们放任用户利用生成式 AI 抄袭和仿制现有游戏。 生成式 AI 在游戏开发中的应用一直饱受争议，近几个月来，AI 仿制游戏的问题愈发突出。一些 Steam 游戏开发者甚至取消了试玩版或测试活动，担心自己的作品尚未正式发售，就被人利用 AI 仿制并抢先上架。 泽尔尼克近日接受 IGN 采访时，被问及是否希望更多 AI 公司 限制用户通过逆向工程复制游戏 。他回应称：“我认为 所有公司都应该保护知识产权 ，既要保护自己的，",
-     "source": "IT之家",
-     "zh": "Take-Two CEO 批评 Anthropic、OpenAI：别放任用户用 AI 克隆游戏"
-    },
-    {
-     "title": "哈曼卡顿推出 Liora 艺术音箱：9 扬声器声学架构、结合灯效及音频播放能力，首发价 10999 元",
-     "link": "https://www.ithome.com/1/028/286.htm",
-     "pubDate": "Tue, 17 Nov 2026 07:53:38 GMT",
-     "summary": "IT之家 11 月 17 日消息，哈曼卡顿现已在京东上架 Liora 艺术音箱，该产品主要结合了灯光和音频播放，定价为 12999 元（首发价 10999 元），支架套装定价为 15398 元。 京东 哈曼卡顿 Liora 音乐星钻 WI-FI 家用音箱 10999 元起 直达链接 该音箱尺寸为 274x274x385 mm，整机重量为 9.749 kg，其由上下双层透明穹顶结构组成，内部水晶内核配合灯光系统可呈现地平线光带与漫射光晕等视觉效果。用户还可通过长按机身上的 Moment 键开启音乐随行功能，使音频在多个房间的设备之间流转播放。 该音箱搭载 9 扬声器声学架构，内部包含 3 个 1",
-     "source": "IT之家",
-     "zh": "哈曼卡顿推出 Liora 艺术音箱：9 扬声器声学架构、结合灯效及音频播放能力，首发价 10999 元"
-    },
-    {
-     "title": "泄露《GTA 6》早期游戏画面的黑客认罪，承认入侵 Rockstar 等多家公司",
-     "link": "https://www.ithome.com/1/028/285.htm",
-     "pubDate": "Tue, 17 Nov 2026 07:53:32 GMT",
-     "summary": "IT之家 11 月 17 日消息，曾在 2022 年泄露《GTA 6》游戏画面的 Lapsus$ 黑客阿里昂・库尔塔伊（Arion Kurtaj），已承认入侵 Rockstar Games。现年 21 岁的库尔塔伊于当地时间 11 月 16 日（周一）在英国伦敦伍尔维奇刑事法院认罪，距离 Rockstar 正式发售这款游戏仅剩三天。游戏将于 11 月 19 日登陆 PlayStation 5 和 Xbox Series X|S 平台。 除了入侵 Rockstar，库尔塔伊还承认曾在 16 岁和 17 岁时攻击英国电信运营商 BT / EE、金融科技公司 Revolut 以及网约车平台 Uber",
-     "source": "IT之家",
-     "zh": "泄露《GTA 6》早期游戏画面的黑客认罪，承认入侵 Rockstar 等多家公司"
     },
     {
      "title": "黄仁勋被换，像极了当年的胡宗宪",
@@ -1904,22 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 思策智库 ，作者：张自炯 2026年行至岁末，脑机接口被置于“元年”的聚光灯下。 对于这个被写入政府工作报告的新质生产力，我并不低估制度推进的分量，但恰因此，我们更需警惕把制度的加速度当作技术落地的完成度，把“元年”当作一个已经闭合的判断。 对此，我的基本立场是，2026年的“元年”，制度的脚步是真实的，但工程的慢变量也是真实的，而后者恰恰是前者无法替代的。 制度开了门，“证据”还待完善 全球范围内，技术竞争与治理竞争在2026年同时收紧。1月，首部脑机接口医疗器械标准《术语》实施。3月，博睿康NEO获批，成为全球首款半侵入式脑机接口医疗器械，十天内完成医保赋码与上海挂网",
      "source": "虎嗅",
      "zh": "2026脑机接口“元年”？一半真实，一半等待"
-    },
-    {
-     "title": "AI时代的大结果，需要多些活人感",
-     "link": "https://www.huxiu.com/article/4906209.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 15:07:58 +0800",
-     "summary": "本文来自微信公众号： 405游局 ，作者：文杰，头图来自：AI生成 过去的两周堪称魔幻。 上上周四，纳指跌了 5.5%，创去年4月以来最大单日跌幅，纳斯达克100 跌了 6.4%，市值蒸发约2.5万亿美元。AI老大哥英伟达单日市值蒸发近 4500 亿美元，差不多跌去一个腾讯的市值&hellip;&hellip;反应市场情绪的VIX 恐慌指数飙升约 70%，创八个月新高。 不少人把市场的反应归因于两天前的美国中期选举，民主党大胜，就连本应是MAGA大本营的德州都翻蓝了，选出了近几十年来的首位民主党州长和国会参议员。 要知道，德州作为此次AI 基建扩张的重要阵地，原本规划了约全美 1/4 的数据中",
-     "source": "虎嗅",
-     "zh": "AI时代的大结果，需要多些活人感"
-    },
-    {
-     "title": "“恭喜BLG，但我早不玩英雄联盟了”",
-     "link": "https://www.huxiu.com/article/4906217.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 15:04:40 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：李晓天 一场足以载入史册的胜利，落在了一个正在系统性失血的生态上。 11月15日凌晨2点50分，北京回龙观，亮哥酒吧的灯还开着。吧台上码着十条速溶咖啡，是27岁的小侯从家里带来的——他第二天上午还有别的安排，怕自己扛不到比赛结束。 店里连他在内只剩3个人：老板亮哥，一个看了11年LPL（中国赛区的英雄联盟职业联赛）的80后，还有一位说什么也不肯错过这一晚的老顾客。 来源：受访者 凌晨3点，纽约布鲁克林巴克莱中心，“2026英雄联盟全球总决赛”（S16）决赛开打。三个多小时后，来自LPL的BLG以3:1击败韩国LCK赛区头号种子GEN，捧起奖杯。奖杯",
-     "source": "虎嗅",
-     "zh": "“恭喜BLG，但我早不玩英雄联盟了”"
     },
     {
      "title": "Windows 收集用户计算机安装的编程智能体和开发工具",
@@ -2026,6 +2002,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Survey shows Google Wallet’s receipt scanning might be its next must-use feature",
+     "link": "https://www.androidauthority.com/google-wallet-receipt-scanning-tracking-poll-results-3735859/",
+     "pubDate": "Tue, 17 Nov 2026 08:31:24 +0000",
+     "summary": "77% of readers are already on board — even if a few kinks remain.",
+     "source": "Android Authority",
+     "zh": "Survey shows Google Wallet’s receipt scanning might be its next must-use feature"
+    },
+    {
      "title": "Leak suggests Samsung delayed Quick Share’s Tap to Share for One UI 9.5",
      "link": "https://www.androidauthority.com/samsung-one-ui-9-5-quick-share-tap-to-share-leak-3735920/",
      "pubDate": "Tue, 17 Nov 2026 08:23:16 +0000",
@@ -2096,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Local battery regulations are to blame.",
      "source": "Android Authority",
      "zh": "Motorola confirms some Signature 27 buyers will get a much smaller battery"
-    },
-    {
-     "title": "Google’s ‘Pixel virtual gamepad’ is finally rolling out for foldable Pixels",
-     "link": "https://www.androidauthority.com/google-pixel-virtual-gamepad-rollout-3735792/",
-     "pubDate": "Tue, 17 Nov 2026 04:36:37 +0000",
-     "summary": "This is Android 17's \"Foldable Gaming Mode\" finally making its way to the Pixel Fold lineup.",
-     "source": "Android Authority",
-     "zh": "Google’s ‘Pixel virtual gamepad’ is finally rolling out for foldable Pixels"
     },
     {
      "title": "iPhone Duo gets one of Face ID’s best features with upcoming iOS 27.3 update",
@@ -2274,28 +2250,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Toppoint Holdings reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673473-toppoint-holdings-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 03:25:54 -0500",
+     "title": "Talon Metals Corp. GAAP EPS of $0.00 misses by $0.08, revenue of $58.43M misses by $21.48M",
+     "link": "https://seekingalpha.com/news/4673508-talon-metals-corp-gaap-eps-of-000-misses-by-008-revenue-of-5843m-misses-by-2148m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 03:47:10 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Toppoint Holdings reports Q3 results"
+     "zh": "Talon Metals Corp. GAAP EPS of $0.00 misses by $0.08, revenue of $58.43M misses by $21.48M"
     },
     {
-     "title": "FreeCast GAAP EPS of -$0.07 misses by $0.01, revenue of $0.25M misses by $0.12M",
-     "link": "https://seekingalpha.com/news/4673474-freecast-gaap-eps-of--007-misses-by-001-revenue-of-025m-misses-by-012m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 03:25:51 -0500",
+     "title": "Zeo Energy GAAP EPS of -$0.01, revenue of $26.4M",
+     "link": "https://seekingalpha.com/news/4673503-zeo-energy-gaap-eps-of--001-revenue-of-264m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 03:44:53 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "FreeCast GAAP EPS of -$0.07 misses by $0.01, revenue of $0.25M misses by $0.12M"
+     "zh": "Zeo Energy GAAP EPS of -$0.01, revenue of $26.4M"
     },
     {
-     "title": "Largo Inc. reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673472-largo-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 03:24:12 -0500",
+     "title": "Connect Biopharma Holdings Limited GAAP EPS of -$0.26 misses by $0.01, revenue of $0.74M misses by $0.17M",
+     "link": "https://seekingalpha.com/news/4673498-connect-biopharma-holdings-limited-gaap-eps-of--026-misses-by-001-revenue-of-074m-misses-by-017m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 03:42:58 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Largo Inc. reports Q3 results"
+     "zh": "Connect Biopharma Holdings Limited GAAP EPS of -$0.26 misses by $0.01, revenue of $0.74M misses by $0.17M"
+    },
+    {
+     "title": "MINISO Group Non-GAAP EPADS of $0.35 beats by $0.03, revenue of $988.2M beats by $18.53M",
+     "link": "https://seekingalpha.com/news/4673495-miniso-group-non-gaap-epads-of-035-beats-by-003-revenue-of-9882m-beats-by-1853m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 03:40:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MINISO Group Non-GAAP EPADS of $0.35 beats by $0.03, revenue of $988.2M beats by $18.53M"
+    },
+    {
+     "title": "Huya Non-GAAP EPADS of $0.03 in-line, revenue of $261.4M misses by $6.92M",
+     "link": "https://seekingalpha.com/news/4673487-huya-non-gaap-epads-of-003-in-line-revenue-of-2614m-misses-by-692m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 03:37:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Huya Non-GAAP EPADS of $0.03 in-line, revenue of $261.4M misses by $6.92M"
+    },
+    {
+     "title": "Blue Dolphin Energy GAAP EPS of $1.27, revenue of $116.4M",
+     "link": "https://seekingalpha.com/news/4673486-blue-dolphin-energy-gaap-eps-of-127-revenue-of-1164m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 03:35:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Blue Dolphin Energy GAAP EPS of $1.27, revenue of $116.4M"
     },
     {
      "title": "Treasury yields are broadly flat as investors await retail sales data",
@@ -2304,30 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
      "source": "CNBC",
      "zh": "Treasury yields are broadly flat as investors await retail sales data"
-    },
-    {
-     "title": "Texxon Holding Limited reports FY results",
-     "link": "https://seekingalpha.com/news/4673471-texxon-holding-limited-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 03:21:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Texxon Holding Limited reports FY results"
-    },
-    {
-     "title": "Teamshares Inc. reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673470-teamshares-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 03:18:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Teamshares Inc. reports Q3 results"
-    },
-    {
-     "title": "20/20 Biolabs, Inc. reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673469-20-20-biolabs-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 03:17:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "20/20 Biolabs, Inc. reports Q3 results"
     },
     {
      "title": "创业板冲高回落跌超1%，半导体活跃，四大行集体上涨，“易中天”继续打压AI硬件，30年期国债大涨0.9%，恒指、恒科指均跌超1%",

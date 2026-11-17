@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/18 02:23:57",
+ "generated_at": "2026/11/18 02:32:03",
  "recent_days": 7,
  "industries": [
   {
@@ -673,6 +673,14 @@
    "total": 5,
    "items": [
     {
+     "title": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging",
+     "link": "https://electrek.co/2026/11/17/bmws-first-us-built-ev-delivers-435-miles-range-fast-charging/",
+     "pubDate": "Tue, 17 Nov 2026 18:23:03 +0000",
+     "summary": "The iX5 is BMW’s first fully electric vehicle built in the US, promising an estimated up to 456 miles of range, ultra-fast charging speeds, and plenty of Neue Klasse tech. more…",
+     "source": "Electrek",
+     "zh": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging"
+    },
+    {
      "title": "Chevy, GMC, and Cadillac EV Owners Can Now Plug And Charge At Electrify America",
      "link": "https://insideevs.com/news/815783/plug-charge-electrify-america-gm/",
      "pubDate": "Tue, 17 Nov 2026 18:04:11 +0000",
@@ -815,14 +823,6 @@
      "summary": "The plug-in hybrid SUV features a 5-seat layout and shares the same dimensions as the 6-seat M9. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Geely Galaxy releases more M8 images ahead of Q4 launch of flagship 5-seat SUV"
-    },
-    {
-     "title": "REO returns to challenge Slate and Fathom in a cheap truck showdown",
-     "link": "https://electrek.co/2026/11/16/reo-returns-to-challenge-slate-and-fathom-in-a-cheap-truck-showdown/",
-     "pubDate": "Tue, 17 Nov 2026 00:51:43 +0000",
-     "summary": "On today’s surprisingly affordable edition of Quick Charge , we check out all the new cheap tricks trucks coming for your hard-earned money in 2027, and challenge the seemingly popular idea that low tech automatically begets low costs. more…",
-     "source": "Electrek",
-     "zh": "REO returns to challenge Slate and Fathom in a cheap truck showdown"
     },
     {
      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
@@ -1321,6 +1321,22 @@
    "total": 6,
    "items": [
     {
+     "title": "On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-17-2026",
+     "pubDate": "Tue, 17 Nov 2026 18:19:03 +0000",
+     "summary": "On Nov. 17, 1967, NASA's Surveyor 6 spacecraft made the first liftoff from the lunar surface. Here's how it helped Apollo astronauts.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface"
+    },
+    {
+     "title": "NICER Status Updates",
+     "link": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+     "pubDate": "Tue, 17 Nov 2026 18:18:16 +0000",
+     "summary": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations. The mission and space",
+     "source": "NASA",
+     "zh": "NICER Status Updates"
+    },
+    {
      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
      "pubDate": "Tue, 17 Nov 2026 17:12:20 +0000",
@@ -1449,28 +1465,12 @@
      "zh": "APOD: 2026 November 17 – Milky Way versus Aurora"
     },
     {
-     "title": "Tossing Fireworks from Cloud to Cloud",
-     "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
-     "pubDate": "Tue, 17 Nov 2026 05:01:00 +0000",
-     "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
-     "source": "NASA",
-     "zh": "Tossing Fireworks from Cloud to Cloud"
-    },
-    {
      "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
      "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
      "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
      "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
-     "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
-     "pubDate": "Mon, 16 Nov 2026 21:34:36 +0000",
-     "summary": "On Nov. 16, 1974, humans sent their first message to the stars in an attempt to contact extraterrestrials. Here's why it mattered.",
-     "source": "Space.com",
-     "zh": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message"
     },
     {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
@@ -1568,6 +1568,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+     "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+     "pubDate": "Tue, 17 Nov 2026 13:21:24 -0500",
+     "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+     "source": "BleepingComputer",
+     "zh": "Researchers hijack Hugging Face account for popular Kokoro AI model"
+    },
     {
      "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
      "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
@@ -1697,14 +1705,6 @@
      "zh": "Court clears brothers of $25 million Ethereum crypto heist charges"
     },
     {
-     "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-     "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-     "pubDate": "Tue, 17 Nov 2026 03:35:42 -0500",
-     "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-     "source": "BleepingComputer",
-     "zh": "Uber notifies drivers of data breach affecting nearly 150,000 people"
-    },
-    {
      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
      "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
      "pubDate": "Tue, 17 Nov 2026 12:42:13 +0530",
@@ -1785,6 +1785,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+     "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+     "pubDate": "Tue, 17 Nov 2026 18:26:26 +0000",
+     "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+     "source": "Ars Technica",
+     "zh": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser"
+    },
+    {
+     "title": "Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol&apos;s performance at 40% of the price (Ina Fried/Axios)",
+     "link": "https://www.techmeme.com/261117/p45#a261117p45",
+     "pubDate": "Tue, 17 Nov 2026 13:25:02 -0500",
+     "summary": "Ina Fried / Axios : Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol's performance at 40% of the price &nbsp; &mdash;&nbsp; Microsoft AI CEO Mustafa Suleyman tells Axios the software giant is making significant progress towar",
+     "source": "Techmeme",
+     "zh": "Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol&apos;s performance at 40% of the price (Ina Fried/Axios)"
+    },
+    {
      "title": "Building the Agent Host Protocol for sessions that continue across devices",
      "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
      "pubDate": "Tue, 17 Nov 2026 18:20:40 +0000",
@@ -1801,12 +1817,12 @@
      "zh": "GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol&apos;s $2/1M input and $10/1M output token pricing (Zac Hall/9to5Mac)"
     },
     {
-     "title": "California sues OpenAI to stop \"public nuisance\" of out-of-control AI agents",
+     "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
      "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
      "pubDate": "Tue, 17 Nov 2026 18:13:34 +0000",
      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
      "source": "Ars Technica",
-     "zh": "California sues OpenAI to stop \"public nuisance\" of out-of-control AI agents"
+     "zh": "OpenAI sued by California after admitting to 80 loss-of-control incidents"
     },
     {
      "title": "一杯红茶里的帝国棋局",
@@ -1841,12 +1857,52 @@
      "zh": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines"
     },
     {
+     "title": "iPhone Duo 开售三周后，苹果 Apple Store 完成适配",
+     "link": "https://www.ithome.com/1/028/573.htm",
+     "pubDate": "Tue, 17 Nov 2026 18:00:30 GMT",
+     "summary": "IT之家 11 月 18 日消息，苹果 Apple Store 在线商店昨晚发布了 6.10 版本升级，更新日志显示为“多种改进和性能增强”。 据用户反馈， 该版本的 Apple Store 终于完成了对 iPhone Duo 的适配 。值得一提的是，如今距离 iPhone Duo 开售已过去约三周时间。 据IT之家昨日报道，苹果全球营销高级副总裁格雷格 · 乔斯维亚克（Greg Joswiak）宣布， 目前已有超过 20 万款应用针对 iPhone Duo 完成优化 ，较本月早些时候公布的 10 万款增长一倍。 他表示，开发者对 iPhone Duo 的支持速度超出预期，优化应用数量在一周多",
+     "source": "IT之家",
+     "zh": "iPhone Duo 开售三周后，苹果 Apple Store 完成适配"
+    },
+    {
      "title": "An interview with OpenAI President Greg Brockman, who says he is in \"full management mode\", as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)",
      "link": "https://www.techmeme.com/261117/p42#a261117p42",
      "pubDate": "Tue, 17 Nov 2026 12:50:02 -0500",
      "summary": "Jemima McEvoy / The Information : An interview with OpenAI President Greg Brockman, who says he is in &ldquo;full management mode&rdquo;, as he focuses on corporate customers and tools for cybersecurity &nbsp; &mdash;&nbsp; In August, OpenAI President Greg Brockman called up Denise Dresser, then the",
      "source": "Techmeme",
      "zh": "An interview with OpenAI President Greg Brockman, who says he is in \"full management mode\", as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)"
+    },
+    {
+     "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
+     "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+     "pubDate": "Tue, 17 Nov 2026 17:49:01 +0000",
+     "summary": "Article URL: https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/ Comments URL: https://news.ycombinator.com/item?id=50535268 Points: 17 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "iCloud, App Store, and other Apple services hit by ongoing outage"
+    },
+    {
+     "title": "Apple Services Down",
+     "link": "https://downdetector.com/status/apple-support/",
+     "pubDate": "Tue, 17 Nov 2026 17:47:14 +0000",
+     "summary": "Article URL: https://downdetector.com/status/apple-support/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 65 # Comments: 21",
+     "source": "Hacker News",
+     "zh": "Apple Services Down"
+    },
+    {
+     "title": "GPT‑6.2 Astra and Sol",
+     "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+     "pubDate": "Tue, 17 Nov 2026 17:46:43 +0000",
+     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 329 # Comments: 149",
+     "source": "Hacker News",
+     "zh": "GPT‑6.2 Astra and Sol"
+    },
+    {
+     "title": "Who Builds the Machines That Build the Machines?",
+     "link": "https://read.corematter.com/p/section-232-us-machine-tools",
+     "pubDate": "Tue, 17 Nov 2026 17:45:39 +0000",
+     "summary": "Article URL: https://read.corematter.com/p/section-232-us-machine-tools Comments URL: https://news.ycombinator.com/item?id=50535208 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Who Builds the Machines That Build the Machines?"
     },
     {
      "title": "华为智选车产品总监详解尚界 Z7T 星野套装：“不动骨相”，只在风格层面做外放",
@@ -1889,12 +1945,20 @@
      "zh": "Sources: Take-Two&apos;s Firaxis, which makes the Civilization and XCOM franchises, lays off 33% of its staff, or ~60 jobs; studio head Heather Hazen will also leave (Jason Schreier/Bloomberg)"
     },
     {
-     "title": "Vals: in simulated scenarios, AI models from Anthropic, Google, xAI, DeepSeek, and OpenAI identified civilians, ambulances, and a school as military targets (Katrina Manson/Bloomberg)",
-     "link": "https://www.techmeme.com/261117/p39#a261117p39",
-     "pubDate": "Tue, 17 Nov 2026 12:10:00 -0500",
-     "summary": "Katrina Manson / Bloomberg : Vals: in simulated scenarios, AI models from Anthropic, Google, xAI, DeepSeek, and OpenAI identified civilians, ambulances, and a school as military targets &nbsp; &mdash;&nbsp; Advanced artificial intelligence models in simulated scenarios regularly misidentified civili",
-     "source": "Techmeme",
-     "zh": "Vals: in simulated scenarios, AI models from Anthropic, Google, xAI, DeepSeek, and OpenAI identified civilians, ambulances, and a school as military targets (Katrina Manson/Bloomberg)"
+     "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+     "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+     "pubDate": "Tue, 17 Nov 2026 17:13:57 +0000",
+     "summary": "Article URL: https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/ Comments URL: https://news.ycombinator.com/item?id=50534664 Points: 64 # Comments: 8",
+     "source": "Hacker News",
+     "zh": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware"
+    },
+    {
+     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+     "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+     "pubDate": "Tue, 17 Nov 2026 17:12:06 +0000",
+     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 28 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Nvidia stopped disclosing Singapore sales as revenues hit $104B"
     },
     {
      "title": "绿联 NAS 私有云系统官宣对外名称统一调整为“UGOS”：版本、功能与服务保持不变",
@@ -1937,14 +2001,6 @@
      "zh": "大疆多款产品“如期”涨价：涉 Osmo Pocket 4/4P/Nano，最高涨 560 元"
     },
     {
-     "title": "黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO",
-     "link": "https://www.ithome.com/1/028/566.htm",
-     "pubDate": "Tue, 17 Nov 2026 16:40:58 GMT",
-     "summary": "IT之家 11 月 18 日消息，英伟达联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，他在最新发表的声明中表示， 若董事会允许，他愿意在卸任后重返公司担任 CEO 。这也是他自 11 月 12 日辞职以来，首次公开谈论重返岗位这一话题。 黄仁勋提到，过去一周，自己深受朋友、行业同仁以及素未谋面之人的爱与支持的感动。感谢所有对自己的家人和自己伸出援手的人，这份情谊意义非凡。他称， 如果董事会认为自己的回归最符合股东、员工、公司及美国的利益，将荣幸地回应这些呼声，重返 CEO 的岗位 。 黄仁勋还就其不忠行为向家人和员工道歉，承认在私生活中犯了“严重错误”。 “我没有达到英伟达对每个人的期望",
-     "source": "IT之家",
-     "zh": "黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO"
-    },
-    {
      "title": "学校禁止手机有助于提高学生成绩",
      "link": "https://www.solidot.org/story?sid=85915",
      "pubDate": "Wed, 18 Nov 2026 00:24:55 +0800",
@@ -1967,62 +2023,6 @@
      "summary": "本文来自微信公众号： 知识自动化 ，作者：林雪萍，原文标题：《林雪萍｜背水一战 我在美国看中企大出海（美国工厂系列1）》 （本篇文章为10月份去美国半个月实地调研美国工厂的系列章节，此为第一篇。） 中企能不能去美国投资工厂，在当下是一个艰难的选择。 美国中期选举后，更擅长精密设计政策的民主党登台，这对于中国制造似乎是一个不利的消息。然而随意性过强的美国总统，其实也造成了很多的不确定性，让企业难以决策。但人们还需要忍受这种不确定性。这次选举，共和党尽管丢失了国会两院的多数派，但总统依然保持着强大的政策机动能力。 无论何种情况，美国两党对中国企业都不会过于友善。因此，中国企业与其天天盯着这些政策的",
      "source": "虎嗅",
      "zh": "背水一战，我在美国看中企大出海"
-    },
-    {
-     "title": "激进的禁令和AI的社会难题",
-     "link": "https://www.huxiu.com/article/4906390.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 00:13:09 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：甄科学 在美国中期选举大获全胜后，部分民主党议员试图把一个激进反对AI的法案，列为大胜后首要推进的议题。该法案（H.R.10538法案）要求禁止超级智能的研发，违反禁令的个人最高可判20年监禁、公司强制解散，把失控的AI视作堪比核武器的毁灭魔王。 激进的禁令加之对AI基建放缓的担忧，酿成前几日资本市场的惨剧。在民主党蓝色浪潮仅两天后的11月5日，美股AI交易崩盘，纳斯达克暴跌近6%，创下19个月来最大单日跌幅，大量AI相关股票跌入熊市。 若只把AI禁令视为个别议员的政治表演，则可能低估了反对AI力量的能级。华尔街的风声鹤唳，正揭示了AI狂飙背后隐藏的深",
-     "source": "虎嗅",
-     "zh": "激进的禁令和AI的社会难题"
-    },
-    {
-     "title": "医疗AI 最难的，不是诊断，而是把七条路接起来",
-     "link": "https://www.huxiu.com/article/4906389.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 00:12:21 +0800",
-     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《医疗 AI 最难的，不是诊断，而是把七条路接起来》 2026年11月15日，苹果做了一件看上去很克制、但其实很值得琢磨的事。 苹果宣布启动Apple Health AI Usage Study，计划面向最多20万名符合条件的美国成年用户，研究人们如何理解、信任和使用AI提供的健康信息，以及这些信息会不会改变他们后续的健康行动。 研究本身不是诊断或治疗服务。苹果把它定义为一项使用研究：AI的回答质量怎么样，用户能不能理解，是否愿意相信，是否会据此做出行动。 这件事碰到了医疗AI最难的地方：AI给出一个看起来正确的答案，远远不是故",
-     "source": "虎嗅",
-     "zh": "医疗AI 最难的，不是诊断，而是把七条路接起来"
-    },
-    {
-     "title": "一个人不是好人的微妙迹象",
-     "link": "https://www.huxiu.com/article/4906387.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 00:09:44 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 我再年轻一些的时候，从来不主动判断一个人是好是坏，值不值得交往，我靠的是“等”。 等他有过一次出尔反尔，等他某次借钱不还，等他在某个关键时刻，背刺我一次。只要这件事还没发生，我就倾向于相信他是好人。 我觉得这是一种公正。人性本善嘛，不能凭感觉冤枉人，要讲证据。 听起来很理性，对吧？但我后来慢慢发现，这套标准，有一个致命的问题，它要求我们必须先被伤害一次，才允许下判断。 这就像一个安检门，只在爆炸之后才会发出警报。如果是小的恶意还好，大的恶意，会给我们带来巨大的伤害。 更麻烦的是，我们从小接受的道德教育是，坏人要么会偷",
-     "source": "虎嗅",
-     "zh": "一个人不是好人的微妙迹象"
-    },
-    {
-     "title": "House Democrats promise a US return to global climate talks",
-     "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
-     "pubDate": "Tue, 17 Nov 2026 15:32:43 +0000",
-     "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
-     "source": "Ars Technica",
-     "zh": "House Democrats promise a US return to global climate talks"
-    },
-    {
-     "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-     "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-     "pubDate": "Tue, 17 Nov 2026 15:28:59 +0000",
-     "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-     "source": "Ars Technica",
-     "zh": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today"
-    },
-    {
-     "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-     "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-     "pubDate": "Tue, 17 Nov 2026 14:00:29 +0000",
-     "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-     "source": "Ars Technica",
-     "zh": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it"
-    },
-    {
-     "title": "Xreal Aura Review: Stunning Screens, Frustrating Controls",
-     "link": "https://www.wired.com/review/xreal-aura/",
-     "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-     "summary": "Xreal’s Aura glasses are much comfier than a bulky VR headset. I just wish they weren’t so frustrating to control.",
-     "source": "WIRED",
-     "zh": "Xreal Aura Review: Stunning Screens, Frustrating Controls"
     }
    ]
   },
@@ -2145,14 +2145,6 @@
      "zh": "Here's everything new in iOS 27.3 beta 2 and macOS 27.3 beta 2"
     },
     {
-     "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
-     "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-     "pubDate": "Tue, 17 Nov 2026 17:33:58 +0000",
-     "summary": "Apple services are having a rough Tuesday. iCloud, the App Store, and other services are experiencing an apparent outage, with users reporting connection failures and trouble signing in. more…",
-     "source": "9to5Mac",
-     "zh": "iCloud, App Store, and other Apple services hit by ongoing outage"
-    },
-    {
      "title": "Jensen Huang said he'd be 'honored' to return as NVIDIA CEO, because of course he would",
      "link": "https://www.engadget.com/2319382/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would/",
      "pubDate": "Tue, 17 Nov 2026 17:29:48 +0000",
@@ -2271,6 +2263,14 @@
      "summary": "The company is taking another run at a box-style cinema tool.",
      "source": "DPReview",
      "zh": "Panasonic’s S1HX is a professional video camera with S1II DNA"
+    },
+    {
+     "title": "New leak offers a first look at the iPhone 20 Pro's front glass",
+     "link": "https://www.gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php",
+     "pubDate": "Tue, 17 Nov 2026 14:26:02 +0100",
+     "summary": "A new leak has surfaced online, offering an alleged first look at the front glass of Apple's 20th-anniversary iPhones, expected to launch next year. The iPhone 20 Pro lineup is rumored to feature quad-curved displays with very slim bezels. Well-known tipster Ice Universe shared a video on social med",
+     "source": "GSMArena",
+     "zh": "New leak offers a first look at the iPhone 20 Pro's front glass"
     }
    ]
   },
@@ -2280,6 +2280,22 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Standard Lithium targets over $1.2B SWA project debt and expects FID by end of Q1 2027",
+     "link": "https://seekingalpha.com/news/4673828-standard-lithium-targets-over-1_2b-swa-project-debt-and-expects-fid-by-end-of-q1-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 13:23:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Standard Lithium targets over $1.2B SWA project debt and expects FID by end of Q1 2027"
+    },
+    {
+     "title": "Vertiv expands new power system for AI compute pods, data centers",
+     "link": "https://seekingalpha.com/news/4673825-vertiv-expands-new-power-system-for-ai-compute-pods-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 13:23:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Vertiv expands new power system for AI compute pods, data centers"
+    },
     {
      "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
@@ -2345,22 +2361,6 @@
      "zh": "New foreign data center chip rule might affect Nvidia's 2027 revenue: analysts"
     },
     {
-     "title": "NACCO declares $0.2625 dividend",
-     "link": "https://seekingalpha.com/news/4673822-nacco-declares-0_2625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 12:47:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NACCO declares $0.2625 dividend"
-    },
-    {
-     "title": "YieldMax TSLA Performance & Distribution Target 25 ETF declares $0.1843 dividend",
-     "link": "https://seekingalpha.com/news/4673820-yieldmax-tsla-performance-and-distribution-target-25-etf-declares-0_1843-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 12:45:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax TSLA Performance & Distribution Target 25 ETF declares $0.1843 dividend"
-    },
-    {
      "title": "As stocks struggle, bonds are finally helping investors play defense again. There’s just one problem.",
      "link": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
      "pubDate": "Tue, 17 Nov 2026 17:40:00 GMT",
@@ -2401,14 +2401,6 @@
      "zh": "Parents told us what it’s like to help their kids battle sports-gambling addiction: ‘There’s no handbook’"
     },
     {
-     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
-     "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 17:06:32 GMT",
-     "summary": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
-     "source": "Financial Times",
-     "zh": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn"
-    },
-    {
      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
      "pubDate": "Tue, 17 Nov 2026 17:03:00 GMT",
@@ -2431,54 +2423,6 @@
      "summary": "First public remarks since revelations over extramarital affairs forced co-founder to resign",
      "source": "Financial Times",
      "zh": "Jensen Huang says he is prepared to return as Nvidia CEO"
-    },
-    {
-     "title": "麻疹在美洲重新成为地方性流行病 公共卫生遭遇重挫",
-     "link": "http://finance.eastmoney.com/news/1351,202611183933293544.html",
-     "pubDate": "Wed, 18 Nov 2026 00:48:12 +0800",
-     "summary": "一组公共卫生专家周二表示，由于麻疹在社区中迅速传播，美国和墨西哥已失去长期保持的麻疹消除状态。 泛美卫生组织（PAHO）对证据进行审查后发现，麻疹病毒株在这两个国家已持续传播超过一年，随后作出上述认定。泛美卫生组织报告称，美国、墨西哥和玻利维亚均失去了这一认定。 虽然这一认定本质上只是一个标签，但其丧失意味着这些国家已不再能够控制麻疹的传播。泛美卫生组织每年召开会议审查证据，并决定是否撤销消除状态。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "麻疹在美洲重新成为地方性流行病 公共卫生遭遇重挫"
-    },
-    {
-     "title": "威赫煤电停工项目迎新主：金开新能拟3.01亿元受让控股权 需承担9.61亿元资本金义务",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933293779.html",
-     "pubDate": "Wed, 18 Nov 2026 00:47:39 +0800",
-     "summary": "乌蒙山区的贵州省毕节市赫章县财神镇拉苏村，一座规划总装机132万千瓦的煤电厂，目前处于停工状态。它曾是国家能源局批准的 电力 示范项目，也曾承载着一个西部县域年发电量90亿千瓦时的工业想象，如今将以被收购的方式寻找重启的资本。 11月14日， 金开新能 （SH600821，股价5.04元，市值99.15亿元）披露关联交易公告，11月17日，公司再发补充说明公告。两份公告显示，该公司全资子公司 金开新能 （贵州）能源有限公司（以下简称“金开贵州”）拟收购贵阳能源集团赫章 电力 有限公司（以下简称“赫章 电力 ”）不低于60%的控股权，关联方天津津融国金投资有限公司（以下简称“津融国金”）同步受让",
-     "source": "东方财富股票",
-     "zh": "威赫煤电停工项目迎新主：金开新能拟3.01亿元受让控股权 需承担9.61亿元资本金义务"
-    },
-    {
-     "title": "耐克股价涨幅收窄 此前一度上涨6.3%",
-     "link": "http://finance.eastmoney.com/news/1351,202611183933293161.html",
-     "pubDate": "Wed, 18 Nov 2026 00:45:18 +0800",
-     "summary": "耐克 股价涨幅收窄，此前一度上涨6.3%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "耐克股价涨幅收窄 此前一度上涨6.3%"
-    },
-    {
-     "title": "欧洲主要股指收盘普跌",
-     "link": "http://finance.eastmoney.com/news/1351,202611183933293427.html",
-     "pubDate": "Wed, 18 Nov 2026 00:43:55 +0800",
-     "summary": "欧洲STOXX 600指数下跌1.68%，欧洲斯托克指数下跌 1.85%，欧元区蓝筹股下跌 2%。英国富时100指数下跌1.76%，德国DAX指数下跌1.97%，法国 CAC 40 指数下跌 1.62%，西班牙 IBEX 指数下跌 1.61%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "欧洲主要股指收盘普跌"
-    },
-    {
-     "title": "伊朗外长阿拉格齐：地区安全应在无外国干涉的情况下建立",
-     "link": "http://finance.eastmoney.com/news/1351,202611183933293267.html",
-     "pubDate": "Wed, 18 Nov 2026 00:43:15 +0800",
-     "summary": "伊朗外长阿拉格齐：地区安全应在无外国干涉的情况下建立。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗外长阿拉格齐：地区安全应在无外国干涉的情况下建立"
-    },
-    {
-     "title": "阿波罗CEO：英伟达银行功能若取消 新兴云厂商资本获取渠道将消失",
-     "link": "http://finance.eastmoney.com/news/1351,202611183933293086.html",
-     "pubDate": "Wed, 18 Nov 2026 00:42:38 +0800",
-     "summary": "阿波罗全球管理 公司CEO：如果 英伟达 的 银行 功能被取消，大量新兴云厂商的资本获取渠道将随之消失。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "阿波罗CEO：英伟达银行功能若取消 新兴云厂商资本获取渠道将消失"
     },
     {
      "title": "黄仁勋辞职后首次发声：若董事会允许 愿重返英伟达担任CEO",
@@ -2519,6 +2463,62 @@
      "summary": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
      "source": "CNBC",
      "zh": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices"
+    },
+    {
+     "title": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
+     "link": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 15:33:25 GMT",
+     "summary": "Daughter and son-in-law come under scrutiny as board launches probe over company’s links to Megaspeed",
+     "source": "Financial Times",
+     "zh": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings"
+    },
+    {
+     "title": "英伟达财报临近，美股跌势延续，半导体指数涨0.7%，油价日内上涨1%",
+     "link": "https://wallstreetcn.com/articles/3786084",
+     "pubDate": "Tue, 17 Nov 2026 22:51:56 +0800",
+     "summary": "科技股抛售潮持续蔓延，投资者在英伟达季度财报公布前夕普遍选择观望。 美股盘初，标普500指数跌0.21%，道琼斯工业平均指数跌0.56%，纳斯达克综合指数跌0.04%，纳斯达克100指数跌0.02%，半导体指数涨0.7%。 个股方面，英伟达涨0.7%，AMD、希捷科技、西部数据、SK海力士ADR、Cerebras系统、Lumentum至多涨3.2%。中概股蔚来涨3.8%，京东跌6.2%。 行业ETF方面，医疗业ETF跌0.89%，在美股盘初领跌行业ETF，金融业ETF跌0.68%，银行业ETF跌0.41%，全球科技股指数ETF跌0.16%，网络股指数ETF跌0.07%，科技行业ETF涨0.13",
+     "source": "华尔街见闻",
+     "zh": "英伟达财报临近，美股跌势延续，半导体指数涨0.7%，油价日内上涨1%"
+    },
+    {
+     "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+     "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+     "pubDate": "Tue, 17 Nov 2026 14:34:48 GMT",
+     "summary": "Anthropic is slated to list on the Nasdaq under the ticker symbol \"ANT\" and start trading on Nov. 19.",
+     "source": "CNBC",
+     "zh": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC"
+    },
+    {
+     "title": "Anthropic IPO定价料触及区间上限或更高，募资规模有望创纪录",
+     "link": "https://wallstreetcn.com/articles/3786120",
+     "pubDate": "Tue, 17 Nov 2026 22:28:55 +0800",
+     "summary": "Anthropic正引导投资者预期其IPO定价将落在发行区间上限乃至更高水平 ，这家人工智能公司有望超越SpaceX，创下史上最大规模IPO纪录。 据彭博援引知情人士透露，Anthropic已向潜在投资者传达上述指引， 投行方面预计将于纽约时间周二下午4时（北京时间周三凌晨5点）停止接受认购订单。 按发行区间上限78美元计算，Anthropic的完全摊薄估值约达1.4万亿美元。 知情人士表示，相关磋商仍在进行中，发行细节可能随时调整。 此次IPO认购反应热烈。据周日报道， Anthropic的认购订单已达可用股份的近七倍。 投行方面已告知潜在投资者，公司将优先保障现有股东的配售，部分有意买入的",
+     "source": "华尔街见闻",
+     "zh": "Anthropic IPO定价料触及区间上限或更高，募资规模有望创纪录"
+    },
+    {
+     "title": "美国10月零售销售环比增长0.2%，同比6.8%创四年最高纪录",
+     "link": "https://wallstreetcn.com/articles/3786119",
+     "pubDate": "Tue, 17 Nov 2026 21:54:16 +0800",
+     "summary": "美国消费者在10月展现出超预期韧性，但结构性分化与入不敷出的消费模式正在向市场发出警示信号。 商务部周二公布数据显示， 10月零售销售环比增长0.2%，高于市场预期的0.1%。 同比增速攀升至6.8%，创2022年10月以来最强年度表现。 核心零售销售同样超预期走强，直接纳入GDP计算的控制组指标也录得显著增长，为四季度经济提供了一定支撑 然而，数据内部分化明显。 汽车及零部件销售环比下滑1.6%，家具与家居用品跌幅达2.3%，拖累整体表现；与此同时，消费结构出现历史性逆转——低收入群体的支出增速首次超越高收入群体，成为本轮消费扩张的主要驱动力。美国银行数据显示，截至10月31日当周，低收入家",
+     "source": "华尔街见闻",
+     "zh": "美国10月零售销售环比增长0.2%，同比6.8%创四年最高纪录"
+    },
+    {
+     "title": "前纽约联储主席Dudley：美联储\"无痛降通胀\"策略注定失败",
+     "link": "https://wallstreetcn.com/articles/3786117",
+     "pubDate": "Tue, 17 Nov 2026 21:07:31 +0800",
+     "summary": "美联储主席凯文·沃什在言辞上对2%通胀目标态度强硬，但实际政策行动却远为保守——前纽约联储主席Bill Dudley对这一落差提出了尖锐批评。他认为 ，美联储寄望于通过强硬表态锚定通胀预期、从而实现\"无痛降通胀\"的策略，既缺乏历史依据，也存在内在逻辑缺陷，注定难以奏效。 当地时间周二，Dudley在彭博专栏文章中指出， 通胀已连续近六年高于美联储目标，但货币政策实际上并不具备限制性。 美联储9月仅上调联邦基金利率目标，仅逆转了2025年三次降息中的一次，当前利率水平较2024年至2025年均值仍低约75个基点。与此同时，金融条件虽略有收紧，但整体仍属宽松，美联储理事会工作人员模型显示，金融条件",
+     "source": "华尔街见闻",
+     "zh": "前纽约联储主席Dudley：美联储\"无痛降通胀\"策略注定失败"
+    },
+    {
+     "title": "11月17日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202611173933073525.html",
+     "pubDate": "Tue, 17 Nov 2026 21:00:13 +0800",
+     "summary": "热点聚焦 商务部回应 ： 商务部新闻发言人就美商务部发布限制远程获取先进 半导体 相关措施答记者问。问： 11月16日，美国商务部发布限制远程获取先进 半导体 相关措施 。请问中方对此有何评论？答：中方注意到有关情况。美方泛化国家安全概念，滥用出口管制，对中国企业与其他国家企业正常贸易合作横加干涉。美方做法背离两国元首达成的重要共识，破坏市场规则和国际经贸秩序，冲击全球 半导体 产业链供应链稳定。中方对此强烈不满，坚决反对。 18只主动ETF下周一上市： 首批18只主动ETF合计募集360亿元，目前已有17只产品净值发生变化，其中2只取得正收益，15只跌破面值。有产品暂未明显建仓，反而凭借低仓",
+     "source": "东方财富资讯",
+     "zh": "11月17日东方财富财经晚报（附新闻联播）"
     }
    ]
   },

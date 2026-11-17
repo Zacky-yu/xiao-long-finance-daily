@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 13:32:03",
+ "generated_at": "2026/11/17 13:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -1313,6 +1313,22 @@
    "total": 6,
    "items": [
     {
+     "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+     "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+     "pubDate": "Tue, 17 Nov 2026 05:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writt",
+     "source": "NASA",
+     "zh": "APOD: 2026 November 17 – Milky Way versus Aurora"
+    },
+    {
+     "title": "Tossing Fireworks from Cloud to Cloud",
+     "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+     "pubDate": "Tue, 17 Nov 2026 05:01:00 +0000",
+     "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
+     "source": "NASA",
+     "zh": "Tossing Fireworks from Cloud to Cloud"
+    },
+    {
      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
      "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
      "pubDate": "Mon, 16 Nov 2026 23:12:45 +0000",
@@ -1393,14 +1409,6 @@
      "zh": "Sentinel-6B in Orbit Around Earth"
     },
     {
-     "title": "Thunderbirds in Formation",
-     "link": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
-     "pubDate": "Mon, 16 Nov 2026 18:34:47 +0000",
-     "summary": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration ",
-     "source": "NASA",
-     "zh": "Thunderbirds in Formation"
-    },
-    {
      "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
      "link": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
      "pubDate": "Mon, 16 Nov 2026 18:00:00 +0000",
@@ -1415,14 +1423,6 @@
      "summary": "The Leonid meteor shower peaks overnight on Nov. 17-18, sending shooting stars racing across the night sky from the direction of the constellation Leo.",
      "source": "Space.com",
      "zh": "The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know"
-    },
-    {
-     "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-     "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
-     "pubDate": "Mon, 16 Nov 2026 15:22:09 +0000",
-     "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agenc",
-     "source": "NASA",
-     "zh": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy"
     },
     {
      "title": "Exclusive: SpaceComputer Books a D-Orbit Demo Mission with Aptos Orbital in 2027",
@@ -1777,12 +1777,36 @@
    "total": 18,
    "items": [
     {
+     "title": "Analysis: Amazon&apos;s $17B+ planned investment in Ohio data centers is at risk after midterm voters passed restriction measures affecting three proposed projects (Rafe Rosner-Uddin/Financial Times)",
+     "link": "https://www.techmeme.com/261117/p1#a261117p1",
+     "pubDate": "Tue, 17 Nov 2026 00:40:01 -0500",
+     "summary": "Rafe Rosner-Uddin / Financial Times : Analysis: Amazon's $17B+ planned investment in Ohio data centers is at risk after midterm voters passed restriction measures affecting three proposed projects &nbsp; &mdash;&nbsp; Voter revolts across the US threaten billions in AI investment as communities turn",
+     "source": "Techmeme",
+     "zh": "Analysis: Amazon&apos;s $17B+ planned investment in Ohio data centers is at risk after midterm voters passed restriction measures affecting three proposed projects (Rafe Rosner-Uddin/Financial Times)"
+    },
+    {
+     "title": "AI 写作工具在巴西墨西哥订阅拒付率偏高，只有两个人怎么排期处理？",
+     "link": "https://www.baijing.cn/question/638786",
+     "pubDate": "Tue, 17 Nov 2026 05:33:22 +0000",
+     "summary": "我们做 AI 写作 SaaS，葡语和西语版刚上线三个月，起量阶段，巴西和墨西哥贡献了七成订阅，团队一共两个人，我兼产品和一个兼职客服。用 Stripe 收款，巴西信用卡拒付率 4.2%、墨西哥 3.6%，本地钱包和分期付款还没接；拒付邮件一多，兼职客服每天只能处理几十封，退款申诉经常拖过平台时限。已经试过在结账页加 CPF 和 RFC 字段、把试用期从 7 天缩到 3 天，拒付只降到 3.5% 左右，卡在分期和本地支付方式接入需要开发排期，而我们这个月还要赶西语版新功能。想直接问：在只有两个人、开发排期排满的情况下，应该先接本地支付方式，还是先把拒付申诉流程自动化？",
+     "source": "白鲸出海",
+     "zh": "AI 写作工具在巴西墨西哥订阅拒付率偏高，只有两个人怎么排期处理？"
+    },
+    {
      "title": "日本站日语客服外包，退货率压不下来该换供应商还是换模式？",
      "link": "https://www.baijing.cn/question/638785",
      "pubDate": "Tue, 17 Nov 2026 05:24:18 +0000",
      "summary": "日本站做小家电配件，月订单约1.8万单，退货率一直在9%左右，其中近四成原因是“说明书看不懂、不会用”。目前客服外包给大连一家日语团队，按坐席月付约2.4万元，响应没问题，但退货挽单基本为零。试过补发日文图文卡片、把FAQ搬进邮件模板，退货率只降到8.6%。现在纠结：是换一家带日语电话挽单的外包，还是自建2人日语客服盯退货环节？从备货和退货成本看，哪种更划算？",
      "source": "白鲸出海",
      "zh": "日本站日语客服外包，退货率压不下来该换供应商还是换模式？"
+    },
+    {
+     "title": "Uber的备胎，Zoox的跳板",
+     "link": "https://www.huxiu.com/article/4906201.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 13:24:12 +0800",
+     "summary": "本文来自微信公众号： 山自 ，作者：Rayking629 Waymo宣布跟Uber“分手”不到两周，Zoox就坐上了Uber的副驾。 11月16日，亚马逊旗下的Zoox正式在拉斯维加斯接入Uber App。用户叫UberX、Uber Comfort或者Uber Electric时，有可能被随机匹配到一辆没有方向盘、没有踏板、座椅面对面摆放的Zoox机器人出租车。这是Zoox第一次跟第三方平台合作，也是Uber在Waymo即将离去之际，给自己找好的下一个“自动驾驶供应商”。 表面上看，这是一场各取所需的联姻。Uber需要向资本市场证明，即便失去了Waymo的独家合作，它的平台上依然有足够多的无人",
+     "source": "虎嗅",
+     "zh": "Uber的备胎，Zoox的跳板"
     },
     {
      "title": "蔚来汽车：网传抹黑财务经营信息不实，已向公安机关报案",
@@ -1889,14 +1913,6 @@
      "zh": "菲律宾 COD 拒收率 27%，换成他加禄语开箱实拍素材后反而更高，是素材方向错了还是本地受众不吃这套？"
     },
     {
-     "title": "日本手游预约期CPA涨到1800日元，还要不要继续加预算？",
-     "link": "https://www.baijing.cn/question/638780",
-     "pubDate": "Tue, 17 Nov 2026 04:18:49 +0000",
-     "summary": "日本市场新游预约期，投放两周后CPA从最初1200日元涨到1800日元，预约转化率从8%掉到5.2%。团队12人，月投放预算约300万日元，主要在Google UAC和Meta跑预约广告，素材以角色立绘和CV试听为主。已试过换素材方向、缩窄兴趣定向、加投Twitter信息流，但CPA仍在1700日元以上横盘。现在卡在预约量还差4万才够上线首月买量基数，继续加预算怕把CPA推到2000日元以上，不加又怕错过上线窗口。想直接问：在日本预约期这个CPA水位，你们判断继续加预算还是转去养自然量的标准是什么？",
-     "source": "白鲸出海",
-     "zh": "日本手游预约期CPA涨到1800日元，还要不要继续加预算？"
-    },
-    {
      "title": "美国成“卖血帝国”？说法存疑",
      "link": "https://www.huxiu.com/article/4906193.html?f=rss",
      "pubDate": "Tue, 17 Nov 2026 12:11:39 +0800",
@@ -1908,7 +1924,7 @@
      "title": "Unkernel: Linux kernel in WASM",
      "link": "https://unkernel.dev",
      "pubDate": "Tue, 17 Nov 2026 04:08:47 +0000",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50527311 Points: 3 # Comments: 2",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50527311 Points: 8 # Comments: 3",
      "source": "Hacker News",
      "zh": "Unkernel: Linux kernel in WASM"
     },
@@ -1953,14 +1969,6 @@
      "zh": "Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with \"basically no human intervention\", vs. the usual 6-12 months (Shane Downing/Tom&apos;s Hardware)"
     },
     {
-     "title": "“要把非洲产品卖到中国总共分几步？三步……”",
-     "link": "https://www.huxiu.com/article/4906189.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 11:57:15 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：毛小菁 卢旺达的咖啡与辣椒、南非的鸵鸟皮手袋、索马里的畜牧资源、赞比亚的工艺品……在刚刚落幕的第九届中国国际进口博览会上，来自非洲大陆的各色商品吸引了众多目光，也为中非经贸合作打开了更多想象空间。 而今年5月1日起，中国对53个非洲建交国全面实施零关税政策，更为非洲产品进入中国市场推开了一扇新的机遇之门。 不过，关税减免只是一个新的起点。 从展台走向市场，从初级产品出口迈向品牌化、产业化发展，非洲好物如何真正扎根中国市场？面对市场准入、品质管控和供应链建设等现实挑战，中非双方又该如何合力破局？这些问题，亟待在实践中作答。 围绕如何将政策红利转化为实实在在",
-     "source": "虎嗅",
-     "zh": "“要把非洲产品卖到中国总共分几步？三步……”"
-    },
-    {
      "title": "Filing: Leopold Aschenbrenner&apos;s hedge fund Situational Awareness, after nearly blowing up, loaded back up on AI stocks at the end of Q3; all have since plunged (Sean Conlon/CNBC)",
      "link": "https://www.techmeme.com/261116/p51#a261116p51",
      "pubDate": "Mon, 16 Nov 2026 22:35:00 -0500",
@@ -2001,20 +2009,12 @@
      "zh": "macOS 27.3 beta warns if an app would get full device control, nudging users to \"Choose Apps\" for the app to control instead, brought on by AI apps&apos; popularity (Juli Clover/MacRumors)"
     },
     {
-     "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-     "link": "https://support.apple.com/en-us/149699",
-     "pubDate": "Tue, 17 Nov 2026 02:17:04 +0000",
-     "summary": "Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 59 # Comments: 34",
+     "title": "Tokendoctor – the same Claude Code for up to 38% less",
+     "link": "https://github.com/localixai/tokendoctor",
+     "pubDate": "Tue, 17 Nov 2026 02:19:50 +0000",
+     "summary": "Article URL: https://github.com/localixai/tokendoctor Comments URL: https://news.ycombinator.com/item?id=50526584 Points: 6 # Comments: 0",
      "source": "Hacker News",
-     "zh": "If an App Asks for Full Disk Access or System and App Protection Override"
-    },
-    {
-     "title": "Running coding agents without handing them my credentials",
-     "link": "https://blog.antonio.cx/running-agents-with-lend",
-     "pubDate": "Tue, 17 Nov 2026 01:18:56 +0000",
-     "summary": "Article URL: https://blog.antonio.cx/running-agents-with-lend Comments URL: https://news.ycombinator.com/item?id=50526152 Points: 73 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "Running coding agents without handing them my credentials"
+     "zh": "Tokendoctor – the same Claude Code for up to 38% less"
     }
    ]
   },
@@ -2273,6 +2273,38 @@
    "total": 13,
    "items": [
     {
+     "title": "XBP outlines $70M-$75M annualized efficiencies as it expects Q4 revenue inflection",
+     "link": "https://seekingalpha.com/news/4673441-xbp-outlines-70m-75m-annualized-efficiencies-as-it-expects-q4-revenue-inflection?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 00:43:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "XBP outlines $70M-$75M annualized efficiencies as it expects Q4 revenue inflection"
+    },
+    {
+     "title": "Stem forecasts $15M-$20M 2026 adjusted EBITDA while shifting focus to PowerTrack and deemphasizing managed services",
+     "link": "https://seekingalpha.com/news/4673440-stem-forecasts-15m-20m-2026-adjusted-ebitda-while-shifting-focus-to-powertrack-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 00:43:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stem forecasts $15M-$20M 2026 adjusted EBITDA while shifting focus to PowerTrack and deemphasizing managed services"
+    },
+    {
+     "title": "创业板午后回落转跌，半导体产业链活跃，AI短剧调整，30年期国债大涨0.8%，恒指、恒科指齐跌",
+     "link": "https://wallstreetcn.com/articles/3786073",
+     "pubDate": "Tue, 17 Nov 2026 13:42:49 +0800",
+     "summary": "今天，A股半导体产业链国产替代反弹——灵晟超算蝉联世界第一、中芯国际三季报超预期叠加设备紧缺，科创50涨超3%领涨，光刻机、光刻胶掀涨停潮；家电、消费电子延续活跃，AI漫剧重挫领跌。 11月17日，A股三大指数午后震荡回落，沪指一度翻红，创业板午后持续回落，接近跌1%，早盘一度涨1%。科创50涨幅收窄至1%，半导体产业链爆发，光刻机、半导体设备、先进封装、半导体材料等概念股集体反弹，AI短剧、稀土、煤炭、油气等板块陷入调整。 港股同样低开低走，恒指、恒科指双双下跌，恒科指盘初跌近2%，盘中一度震荡上涨，恒科指接近翻红，临近午盘再度回落，权重科网股普跌，百度大跌近7%，腾讯、阿里、美团、快手均下",
+     "source": "华尔街见闻",
+     "zh": "创业板午后回落转跌，半导体产业链活跃，AI短剧调整，30年期国债大涨0.8%，恒指、恒科指齐跌"
+    },
+    {
+     "title": "Situational Awareness hedge fund doubled down on AI stakes before October slump",
+     "link": "https://seekingalpha.com/news/4673434-situational-awareness-hedge-fund-doubled-down-on-ai-stakes-before-october-slump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 00:41:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Situational Awareness hedge fund doubled down on AI stakes before October slump"
+    },
+    {
      "title": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
      "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
      "pubDate": "Tue, 17 Nov 2026 05:29:11 GMT",
@@ -2303,22 +2335,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Retractable Technologies reports Q3 results"
-    },
-    {
-     "title": "Cadiz GAAP EPS of -$0.18 misses by $0.04, revenue of $1.57M misses by $1.59M",
-     "link": "https://seekingalpha.com/news/4673432-cadiz-gaap-eps-of--018-misses-by-004-revenue-of-157m-misses-by-159m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 00:17:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cadiz GAAP EPS of -$0.18 misses by $0.04, revenue of $1.57M misses by $1.59M"
-    },
-    {
-     "title": "Nauticus Robotics GAAP EPS of -$10.87, revenue of $2.25M",
-     "link": "https://seekingalpha.com/news/4673430-nauticus-robotics-gaap-eps-of--1087-revenue-of-225m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 00:12:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nauticus Robotics GAAP EPS of -$10.87, revenue of $2.25M"
     },
     {
      "title": "Tech sell-off deepens as Nvidia results loom",
@@ -2377,12 +2393,52 @@
      "zh": "Nvidia’s interim CEO Colette Kress to make her debut at first earnings"
     },
     {
-     "title": "Tuesday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4673184-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 00:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tuesday’s Economic Calendar"
+     "title": "10月失业率降到5.1% 就业大局稳住了",
+     "link": "http://finance.eastmoney.com/news/1352,202611173932685876.html",
+     "pubDate": "Tue, 17 Nov 2026 12:46:00 +0800",
+     "summary": "就业是最大的民生，每个月的失业率数字，都牵动着无数普通人的生活，也藏着经济运行的真实温度。 11月16日，国家统计局公布数据显示，1—10月份，全国城镇调查失业率平均值为5.2%，与上年同期持平。10月份，全国城镇调查失业率为5.1%，比上月下降0.1个百分点。 从细分数据看，不同群体的就业表现各有特点：10月份，本地户籍劳动力调查失业率为5.2%；外来户籍劳动力调查失业率为4.9%，其中外来农业户籍劳动力调查失业率为4.8%，显著低于整体水平，反映出农民工群体就业保持较好态势。 全国城镇调查失业率连续两个月下降 10月份，31个大城市城镇调查失业率为5.1%，比上月下降0.1个百分点。全国企",
+     "source": "东方财富股票",
+     "zh": "10月失业率降到5.1% 就业大局稳住了"
+    },
+    {
+     "title": "帝境汽车来了！江淮汽车注册",
+     "link": "http://finance.eastmoney.com/news/1354,202611173932758640.html",
+     "pubDate": "Tue, 17 Nov 2026 12:38:00 +0800",
+     "summary": "继问界、智界、享界、尊界、尚界等五界之后，帝境商标又被注册。上海证券报记者日前从 江淮汽车 （600418）方面确认，帝境 汽车 的商标已经被 江淮汽车 注册。除了帝境之外， 江淮汽车 还注册了谛境、缔境等一批同音或近似的境字商标。 帝境商标注册信息 玛莎拉蒂经典车型，玛莎拉蒂品牌的未来战略及发展规划将于2026年12月10日举办的投资者日活动上正式公布 天眼查信息显示，帝境商标属于运输工具第12类，包括 汽车 、混合动力 汽车 、卡车、电动汽车、自动驾驶汽车、汽车车身、汽车底盘、陆地车辆用电动机、汽车轮胎等。 业内专家对记者表示，帝境新商标与江淮、华为、玛莎拉蒂的未来合作关系密切。尊界是华为",
+     "source": "东方财富股票",
+     "zh": "帝境汽车来了！江淮汽车注册"
+    },
+    {
+     "title": "维立志博：受托人依据H股奖励计划耗资737万港元购入22万股",
+     "link": "http://finance.eastmoney.com/news/1354,202611173932759915.html",
+     "pubDate": "Tue, 17 Nov 2026 12:37:00 +0800",
+     "summary": "11月17日，维立志博（09887）发布公告，11月16日，受托人已根据H股奖励计划购入22万股H股，总代价为737万港元。 这项股份购买是根据H股奖励计划进行的，董事会认为此举彰显了公司对未来业务前景的信心，并将长期为公司带来利益，增强股东价值。 公司可继续根据H股奖励计划规则指示受托人透过公开市场交易购入H股。 （文章来源：财中社）",
+     "source": "东方财富股票",
+     "zh": "维立志博：受托人依据H股奖励计划耗资737万港元购入22万股"
+    },
+    {
+     "title": "11月17日午间涨停复盘：42股涨停 瀛通通讯6天4板",
+     "link": "http://stock.eastmoney.com/news/11781,202611173932759461.html",
+     "pubDate": "Tue, 17 Nov 2026 12:36:06 +0800",
+     "summary": "今日午盘沪指 跌 0.01%，深成指 涨 0.69%，创业板指 涨 0.72%，今日午盘大盘成交额8946.23亿，较上个交易日缩量59.28亿。 涨停个股数量方面，今日午盘共计42股涨停，另有10只个股盘中一度触及涨停，封板率80.77%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "11月17日午间涨停复盘：42股涨停 瀛通通讯6天4板"
+    },
+    {
+     "title": "宇树科技董事长兼首席执行官王兴兴：机器人行业当前的机遇与现实挑战",
+     "link": "http://finance.eastmoney.com/news/1354,202611173932759663.html",
+     "pubDate": "Tue, 17 Nov 2026 12:34:00 +0800",
+     "summary": "2026年APEC工商领导人峰会今日在深圳举办。在“共建开放普惠的 人工智能 创新生态”研讨环节，宇树科技董事长兼首席执行官王兴兴表示，大众所见到的AI、 机器人 成果仅是冰山一角，水下底层技术迭代速度迅猛，行业发展前景值得期待，各界应当主动拥抱AI技术变革。 王兴兴还表示，行业仍面临多重现实难题，首要痛点是模型泛化能力不足， 机器人 更换应用场景往往需要重新训练，难以实现一台设备适配各类家庭与工作环境，不过全球技术演进已接近突破临界点。他同时提醒，即便 机器人 AI模型实现技术突破，产业链仍要面对诸多考验。未来若产品需求从数万台暴涨至数百万、数千万级别， 机器人 的生产制造、产品可靠性以及售",
+     "source": "东方财富股票",
+     "zh": "宇树科技董事长兼首席执行官王兴兴：机器人行业当前的机遇与现实挑战"
+    },
+    {
+     "title": "杭州土拍成交额50亿元 最高溢价率32.8%",
+     "link": "http://finance.eastmoney.com/news/1354,202611173932759527.html",
+     "pubDate": "Tue, 17 Nov 2026 12:34:00 +0800",
+     "summary": "11月17日，杭州出让3宗涉宅用地，最终2宗溢价、1宗底价成交，总成交金额50亿元。 其中，上城区宅地经过60轮竞价，最终由绿城以24.27亿元竞得，成交楼面价42491元/平方米，溢价率32.84%；钱塘区地块为组合地块（2宗宅地、1宗商业用地），经过35轮竞价，最终兴耀房产和 滨江集团 联合体以22.96亿元竞得，成交 综合 楼面价17582元/平方米，溢价率26.43%；临安区宅地由荣上地产和国兴集团联合体以底价2.82亿元竞得，成交楼面价3750元/平方米。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "杭州土拍成交额50亿元 最高溢价率32.8%"
     },
     {
      "title": "出口改善与红利价值共振！杠杆资金紧盯这些家电概念股（名单）",
@@ -2441,14 +2497,6 @@
      "zh": "HBM扩产潮叠加日系涨价 光刻胶国产替代迎关键窗口期 多股获融资客抢筹(名单)"
     },
     {
-     "title": "创业板盘中拉升涨0.7%，科创50大涨超3%，半导体产业链爆发，AI短剧调整，恒指、恒科指齐跌，阿里跌近5%、腾讯跌3%",
-     "link": "https://wallstreetcn.com/articles/3786073",
-     "pubDate": "Tue, 17 Nov 2026 12:03:52 +0800",
-     "summary": "今天，A股半导体产业链国产替代反弹——灵晟超算蝉联世界第一、中芯国际三季报超预期叠加设备紧缺，科创50涨超3%领涨，光刻机、光刻胶掀涨停潮；家电、消费电子延续活跃，AI漫剧重挫领跌。 11月17日，A股三大指数低开后盘中回升，临近午盘再度上涨，沪指微跌0.01%，收复3600点，深成指、创业板翻红转涨。科创50涨超3%，得益于半导体产业链的带动，光刻机、半导体设备、先进封装、半导体材料等概念股集体反弹，AI短剧、稀土、煤炭、油气等板块陷入调整。 港股同样低开低走，恒指、恒科指双双下跌，恒科指盘初跌近2%，盘中一度震荡上涨，恒科指接近翻红，临近午盘再度回落，权重科网股普跌，百度大跌近7%，腾讯、",
-     "source": "华尔街见闻",
-     "zh": "创业板盘中拉升涨0.7%，科创50大涨超3%，半导体产业链爆发，AI短剧调整，恒指、恒科指齐跌，阿里跌近5%、腾讯跌3%"
-    },
-    {
      "title": "与高盛唱反调？大摩展望2027中国股市：A股优于离岸，港股面临流动性挑战",
      "link": "https://wallstreetcn.com/articles/3786078",
      "pubDate": "Tue, 17 Nov 2026 11:56:07 +0800",
@@ -2463,54 +2511,6 @@
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027见闻历，财经人的桌面必备“神历”"
-    },
-    {
-     "title": "摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职",
-     "link": "https://wallstreetcn.com/articles/3786076",
-     "pubDate": "Tue, 17 Nov 2026 11:46:23 +0800",
-     "summary": "英伟达正面临来自两端的结构性压力，而这与创始人黄仁勋的离任同等重要，甚至可能更为深远。 摩根大通策略师Michael Cembalest在最新研报《英伟达与AI的下一步》中指出， 前沿AI实验室正将采购重心向AMD、谷歌、亚马逊等多家供应商分散，英伟达在2026年后计算协议中的份额仅占28%。 与此同时，开源模型生态圈则面临华盛顿的监管铁拳。对投资者而言，这意味着英伟达此前支撑高估值的两大核心增长引擎， AI芯片定价权 与 开源市场敞口 正在同步承压。 Cembalest的结论是， 市场竞争格局的位移\"在某种程度上与管理层变动同等重要，甚至有过之而无不及\"。 前沿实验室已用脚投票，英伟达份额降",
-     "source": "华尔街见闻",
-     "zh": "摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职"
-    },
-    {
-     "title": "AI进入组织之后，组织架构图最先过时 | 人力资本论",
-     "link": "http://www.eeo.com.cn/2026/1117/1094783.shtml",
-     "pubDate": "Tue, 17 Nov 2026 11:24:31 +0800",
-     "summary": "自组织、青色组织和合弄制都曾试图突破传统科层制的边界，但这些组织模式往往面临信息不对称、协作成本高、管理机制复杂以及成员能力不足等现实挑战。 AI的出现正在改变这些条件。它让信息获取和处理的成本大幅下降，让专业能力更加容易获得，让复杂任务的拆解与协同有了新的技术基础，也让普通员工拥有过去只有管理者才能调动的部分资源。这意味着，过去一些只能在小规模组织、特定文化或特殊管理条件下运行的组织模式，未来可能获得更广泛的实践机会。",
-     "source": "经济观察网",
-     "zh": "AI进入组织之后，组织架构图最先过时 | 人力资本论"
-    },
-    {
-     "title": "高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱",
-     "link": "https://wallstreetcn.com/articles/3786075",
-     "pubDate": "Tue, 17 Nov 2026 11:07:51 +0800",
-     "summary": "高盛近期连续发布五份2027年度展望研报，一个核心主题贯穿始终： AI投资规模仍在扩张，但增速将于2027年上半年触顶，这对宏观经济而言影响有限，对金融市场而言却是一次更严峻的考验。 高盛跨资产策略师Kamakshya Trivedi与Dominic Wilson将这一逻辑浓缩为一句话：“ AI对市场涨幅的贡献远超其对经济增长的贡献，因此AI增速见顶对市场的冲击将大于对经济的冲击 。”数据印证了这一判断——AI仅贡献了美国GDP增长的21%，却贡献了标普500盈利增长的62%，以及峰值时期美国市值涨幅的92%。 在市场层面，高盛预计标普500指数未来12个月目标价为8700点，较当前约7619",
-     "source": "华尔街见闻",
-     "zh": "高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱"
-    },
-    {
-     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 02:30:00 GMT",
-     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
-    },
-    {
-     "title": "Analysis: The Fed&apos;s chairman sees an AI revolution coming. Now he has to figure out what it means",
-     "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-     "pubDate": "Tue, 17 Nov 2026 00:42:33 GMT",
-     "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
-     "source": "CNBC",
-     "zh": "Analysis: The Fed&apos;s chairman sees an AI revolution coming. Now he has to figure out what it means"
-    },
-    {
-     "title": "United Airlines resolves system outage that delayed flights Monday",
-     "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-     "pubDate": "Mon, 16 Nov 2026 23:42:00 GMT",
-     "summary": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
-     "source": "MarketWatch",
-     "zh": "United Airlines resolves system outage that delayed flights Monday"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 05:52:08",
+ "generated_at": "2026/11/18 05:58:33",
  "recent_days": 7,
  "industries": [
   {
@@ -74,14 +74,6 @@ window.INDUSTRY_DATA = {
      "zh": "Introducing GPT-6.2 Astra and Sol"
     },
     {
-     "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
-     "link": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
-     "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-     "summary": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier score, and fix it with Platt scaling and isotonic regression",
-     "source": "KDnuggets",
-     "zh": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn"
-    },
-    {
      "title": "Research Reports",
      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
      "pubDate": "Tue, 17 Nov 2026 14:39:46 +0000",
@@ -90,36 +82,12 @@ window.INDUSTRY_DATA = {
      "zh": "Research Reports"
     },
     {
-     "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
-     "link": "https://www.qbitai.com/2026/11/510695.html",
-     "pubDate": "Tue, 17 Nov 2026 14:15:20 +0000",
-     "summary": "82亿美元股票，46天闪电交割",
-     "source": "量子位",
-     "zh": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎"
-    },
-    {
      "title": "刚刚，诺奖得主的AI公司融了333亿",
      "link": "https://zhidx.com/p/611583.html",
      "pubDate": "Tue, 17 Nov 2026 21:44:01 +0800",
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月17日消息，刚刚，由诺奖得主、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis）创办的英国AI药物研发公司Isomorphic Labs宣布完成 50亿美元（约合人民币333亿元）C轮融资 ，融资获得超额认购。 结合公开数据不完全统计，本轮融资刷新该公司此前的单轮融资纪录，可能创下 全球AI制药领域单轮融资规模新纪录 。 ▲哈萨比斯宣布Isomorphic Labs完成C轮融资（图源：X） 2025年3月，Isomorphic Labs宣布完成 6亿美元（约合人民币40亿元）首次外部融资 。今年5月，该公司再获",
      "source": "智东西",
      "zh": "刚刚，诺奖得主的AI公司融了333亿"
-    },
-    {
-     "title": "7 Best AI Coding Plans for $10 or Less in 2026",
-     "link": "https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026",
-     "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
-     "summary": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed, and Xiaomi MiMo.",
-     "source": "KDnuggets",
-     "zh": "7 Best AI Coding Plans for $10 or Less in 2026"
-    },
-    {
-     "title": "李沐加盟的Aimotion，是一家什么AI公司？",
-     "link": "https://www.qbitai.com/2026/11/510688.html",
-     "pubDate": "Tue, 17 Nov 2026 11:40:37 +0000",
-     "summary": "瞄准「产业级世界模型」",
-     "source": "量子位",
-     "zh": "李沐加盟的Aimotion，是一家什么AI公司？"
     },
     {
      "title": "科学家拿AI干什么？OpenAI新报告揭秘：阅读写作最多，编程提效最猛",
@@ -152,22 +120,6 @@ window.INDUSTRY_DATA = {
      "summary": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1. The post Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That T",
      "source": "MarkTechPost",
      "zh": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index"
-    },
-    {
-     "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-     "link": "https://www.qbitai.com/2026/11/510652.html",
-     "pubDate": "Tue, 17 Nov 2026 06:09:40 +0000",
-     "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
-     "source": "量子位",
-     "zh": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率"
-    },
-    {
-     "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
-     "link": "https://www.qbitai.com/2026/11/510610.html",
-     "pubDate": "Tue, 17 Nov 2026 04:35:03 +0000",
-     "summary": "斩获80000元奖金",
-     "source": "量子位",
-     "zh": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！"
     },
     {
      "title": "反超谷歌王牌模型！决策新王拿下全球榜首，全尺寸开源",
@@ -226,28 +178,76 @@ window.INDUSTRY_DATA = {
      "zh": "估值一年翻倍！美国AI独角兽拿下20亿新融资"
     },
     {
-     "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
-     "link": "https://www.qbitai.com/2026/11/510592.html",
-     "pubDate": "Tue, 17 Nov 2026 02:33:13 +0000",
-     "summary": "奥特曼首谈黄仁勋离职",
-     "source": "量子位",
-     "zh": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…"
-    },
-    {
-     "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
-     "link": "https://www.qbitai.com/2026/11/510561.html",
-     "pubDate": "Tue, 17 Nov 2026 02:03:22 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs"
-    },
-    {
      "title": "曝董事会不考虑黄仁勋复职！奥尔特曼发声：他是我的英雄",
      "link": "https://zhidx.com/p/611257.html",
      "pubDate": "Tue, 17 Nov 2026 10:03:21 +0800",
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月17日消息，今日，据外媒《华尔街日报》和CNBC援引知情人士消息报道，尽管部分投资者、员工及硅谷人士呼吁黄仁勋回归，英伟达董事会目前 并未考虑让其重新担任CEO 。 另外，OpenAI联合创始人、CEO萨姆·奥尔特曼（Sam Altman）今日在活动上公开谈及黄仁勋辞职。他谈道：“ 黄仁勋长期以来都是我的英雄 ，但英雄也有缺点。” 在被问及黄仁勋是否应该回归时，奥尔特曼说：“我认为自己掌握的信息 还不足以回答这个问题 。”他 对黄仁勋的处境有强烈的共情 ，仍记得当年被逐出OpenAI的感受。他补充道：“ 很难想象没有黄仁勋的AI革命 。他",
      "source": "智东西",
      "zh": "曝董事会不考虑黄仁勋复职！奥尔特曼发声：他是我的英雄"
+    },
+    {
+     "title": "刚刚，李飞飞正式加入AMD，与苏姿丰同框",
+     "link": "https://zhidx.com/p/611267.html",
+     "pubDate": "Tue, 17 Nov 2026 08:47:16 +0800",
+     "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西11月17日消息，今日凌晨， AMD 宣布完成对“AI教母” 李飞飞 联合创办的空间智能公司 World Labs 的收购。 AMD在社交平台X上发文，放出AMD董事会主席兼CEO 苏姿丰 与斯坦福大学计算机科学红杉讲席教授、World Labs联合创始人兼CEO 李飞飞 的同框照片，官宣World Labs团队正式加入AMD。推文附带握手表情，同时标注了“芯片女王”“AI教母”两个称号。 李飞飞转发了这篇推文，她说：“AI是一项文明科技！在这个历史时刻，我们每个人都面临着巨大的机遇和责任。我深感荣幸和激动能够领导World Labs加入AMD。",
+     "source": "智东西",
+     "zh": "刚刚，李飞飞正式加入AMD，与苏姿丰同框"
+    },
+    {
+     "title": "刚刚，华为首个具身世界模型来了！国产算力训出，拿下双冠",
+     "link": "https://zhidx.com/p/610813.html",
+     "pubDate": "Tue, 17 Nov 2026 08:43:27 +0800",
+     "summary": "智东西 作者 | 三北 编辑 | 心缘 智东西11月16日报道，今日，华为云推出其 首款 昇腾原生具身世界模型CloudRobo-WM1.2 ，并宣布于11月30日正式开放WM1.2模型权重、推理后训练代码及预训练最佳实践。 该模型采用共享世界模型骨干网络实现预测增强的世界表征，基于世界模型原生DualAct架构实现世界模型原生动作生成，在 RoboTwin 2.0、LiberoPro 2.0评测中均位列第一。 现场，华为云展示了基于CloudRobo-WM1.2的机器人完成 工业级搬运连续作业、轴承毛刺清洁 等真实工业场景实验，以及在 无人零售场景 中完成了物品上架、礼物入柜等收纳任务。 会",
+     "source": "智东西",
+     "zh": "刚刚，华为首个具身世界模型来了！国产算力训出，拿下双冠"
+    },
+    {
+     "title": "Strengthening NATO and allied cyber defenses with AI",
+     "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+     "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+     "source": "OpenAI",
+     "zh": "Strengthening NATO and allied cyber defenses with AI"
+    },
+    {
+     "title": "Introducing OpenAI for Chile",
+     "link": "https://openai.com/index/introducing-openai-for-chile",
+     "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+     "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+     "source": "OpenAI",
+     "zh": "Introducing OpenAI for Chile"
+    },
+    {
+     "title": "Astra for Law leads in legal intelligence",
+     "link": "https://openai.com/index/astra-law-6-2",
+     "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+     "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+     "source": "OpenAI",
+     "zh": "Astra for Law leads in legal intelligence"
+    },
+    {
+     "title": "The open-source movement wants Jensen Huang back",
+     "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+     "pubDate": "Mon, 16 Nov 2026 18:38:47 +0000",
+     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El",
+     "source": "MIT Tech Review AI",
+     "zh": "The open-source movement wants Jensen Huang back"
+    },
+    {
+     "title": "Broadening access to AI for scientists",
+     "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+     "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+     "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+     "source": "OpenAI",
+     "zh": "Broadening access to AI for scientists"
+    },
+    {
+     "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+     "link": "https://openai.com/index/strengthening-online-child-safety",
+     "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+     "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+     "source": "OpenAI",
+     "zh": "Strengthening the fight against online child sexual abuse with new tools and support"
     }
    ]
   },
@@ -1474,6 +1474,14 @@ window.INDUSTRY_DATA = {
      "zh": "SEOPS Signs Rideshare Deal With Stoke"
     },
     {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
+    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1522,6 +1530,14 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1536,6 +1552,14 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on Spa",
      "source": "SpaceNews",
      "zh": "What role does industry play in Europe’s space sovereignty push?"
+    },
+    {
+     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
+     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
     }
    ]
   },
@@ -1744,14 +1768,6 @@ window.INDUSTRY_DATA = {
      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over ",
      "source": "Krebs on Security",
      "zh": "Who Runs the Ransomware Group Qilin?"
-    },
-    {
-     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-     "pubDate": "Tue, 10 Nov 2026 21:55:03 +0000",
-     "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important s",
-     "source": "Krebs on Security",
-     "zh": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
     }
    ]
   },
@@ -1770,12 +1786,12 @@ window.INDUSTRY_DATA = {
      "zh": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)"
     },
     {
-     "title": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and net income up 105% to $65.3B (Nvidia Newsroom)",
+     "title": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)",
      "link": "https://www.techmeme.com/261117/p56#a261117p56",
      "pubDate": "Tue, 17 Nov 2026 16:26:56 -0500",
-     "summary": "Nvidia Newsroom : Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and net income up 105% to $65.3B &nbsp; &mdash;&nbsp; - Revenue of $115.8 billion, up 103% from a year ago&nbsp; &mdash; Data Center revenue of $107.6 billion, up 110% from",
+     "summary": "Nvidia Newsroom : Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates &nbsp; &mdash;&nbsp; - Revenue of $115.8 billion, up 103% from a year ago&nbsp; &mdash; Data Center revenue of $107.6 billion, up 1",
      "source": "Techmeme",
-     "zh": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and net income up 105% to $65.3B (Nvidia Newsroom)"
+     "zh": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)"
     },
     {
      "title": "英伟达 2027 财年前三季度归母净利润 1832.97 亿美元，同比增长 137.72%",
@@ -2258,44 +2274,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Interface declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4673933-interface-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:42:19 -0500",
+     "title": "Public Service declares $0.67 dividend",
+     "link": "https://seekingalpha.com/news/4673941-public-service-declares-0_67-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:54:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Interface declares $0.03 dividend"
+     "zh": "Public Service declares $0.67 dividend"
     },
     {
-     "title": "Hub Group receives Nasdaq approval for continued listing",
-     "link": "https://seekingalpha.com/news/4673929-hub-group-receives-nasdaq-approval-for-continued-listing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:41:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hub Group receives Nasdaq approval for continued listing"
+     "title": "英伟达风波中苏姿丰“点赞”黄仁勋，AMD数据中心业务明年占比料达八成",
+     "link": "https://wallstreetcn.com/articles/3786128",
+     "pubDate": "Wed, 18 Nov 2026 05:53:47 +0800",
+     "summary": "英伟达深陷黄仁勋风波之际，老对手AMD的CEO苏姿丰并未落井下石，表态专注AMD自身发展，并强调行业的“世代级”增长前景远非传统的周期可比。 美东时间17日周二在美国得州奥斯汀举行的TomorrowX峰会上，苏姿丰一方面公开称赞英伟达及其上周刚辞职的前CEO黄仁勋，称英伟达是一家“了不起的公司”，黄仁勋是推动整个行业发展的杰出领导者；另一方面强调，AMD需要将注意力从行业各种纷扰中抽离，专注于AI基础设施建设带来的巨大机遇。 苏姿丰还对当前半导体行业的增长前景给出乐观判断。她认为，这一轮行业增长已经不同于传统的周期性扩张，而更像是一场“世代级”的增长浪潮。随着AI逐渐提升各行各业的生产力，企业",
+     "source": "华尔街见闻",
+     "zh": "英伟达风波中苏姿丰“点赞”黄仁勋，AMD数据中心业务明年占比料达八成"
     },
     {
-     "title": "Commercial National Financial raises dividend by 23.1% to $0.16",
-     "link": "https://seekingalpha.com/news/4673932-commercial-national-financial-raises-dividend-by-231-to-016?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:41:33 -0500",
+     "title": "Comfort Systems USA launches additional stock repurchase program",
+     "link": "https://seekingalpha.com/news/4673934-comfort-systems-usa-launches-additional-stock-repurchase-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:53:06 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Commercial National Financial raises dividend by 23.1% to $0.16"
+     "zh": "Comfort Systems USA launches additional stock repurchase program"
     },
     {
-     "title": "Motorola Solutions raises dividend by 10.7% to $1.34",
-     "link": "https://seekingalpha.com/news/4673930-motorola-solutions-raises-dividend-by-107-to-134?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:39:50 -0500",
+     "title": "Vishay Intertechnology declares $0.10 dividend",
+     "link": "https://seekingalpha.com/news/4673940-vishay-intertechnology-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:53:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Motorola Solutions raises dividend by 10.7% to $1.34"
+     "zh": "Vishay Intertechnology declares $0.10 dividend"
     },
     {
-     "title": "Earnings Snapshot: NVDA tops expectations and gives better-than-expected guidance",
-     "link": "https://seekingalpha.com/news/4673928-earnings-snapshot-nvda-tops-expectations-and-gives-better-than-expected-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:33:19 -0500",
+     "title": "Texas Community Bancshares declares $0.06 dividend",
+     "link": "https://seekingalpha.com/news/4673939-texas-community-bancshares-declares-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:52:02 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Earnings Snapshot: NVDA tops expectations and gives better-than-expected guidance"
+     "zh": "Texas Community Bancshares declares $0.06 dividend"
+    },
+    {
+     "title": "iRhythm kicks off $100M accelerated share repurchase deal with JPMorgan",
+     "link": "https://seekingalpha.com/news/4673931-irhythm-kicks-off-100m-accelerated-share-repurchase-deal-with-jpmorgan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:49:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "iRhythm kicks off $100M accelerated share repurchase deal with JPMorgan"
+    },
+    {
+     "title": "Chemung Financial declares $0.36 dividend",
+     "link": "https://seekingalpha.com/news/4673938-chemung-financial-declares-0_36-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:49:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Chemung Financial declares $0.36 dividend"
+    },
+    {
+     "title": "11月18日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202611173933280422.html",
+     "pubDate": "Wed, 18 Nov 2026 05:35:22 +0800",
+     "summary": "11月18日(星期三)，今日报刊头条主要内容精华如下： 上海证券报 商务部等9部门印发意见 健全再生资源回收体系 促进回收行业高质量发展 商务部等9部门日前印发《关于深入推进再生资源回收体系建设促进回收行业高质量发展的意见》（下称《意见》）。商务部部长助理袁晓明11月17日在国新办新闻发布会上表示，下一步，商务部将会同相关部门，指导推动各地贯彻落实《意见》要求，健全再生资源回收体系，促进回收行业高质量发展。 “东吴证券+东海证券”战略整合过会 历时8个多月， 东吴证券 和东海证券的战略整合迎来关键性进展。11月17日晚间， 东吴证券 发布公告称，公司发行股份及支付现金购买资产暨关联交易申请已获",
+     "source": "东方财富资讯",
+     "zh": "11月18日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "东方财富财经早餐 11月18日周三",
+     "link": "http://finance.eastmoney.com/news/1344,202611173933231630.html",
+     "pubDate": "Wed, 18 Nov 2026 05:33:20 +0800",
+     "summary": "每日精选 商务部回应 ： 商务部新闻发言人就美商务部发布限制远程获取先进 半导体 相关措施答记者问。问： 11月16日，美国商务部发布限制远程获取先进 半导体 相关措施 。请问中方对此有何评论？答：中方注意到有关情况。美方泛化国家安全概念，滥用出口管制，对中国企业与其他国家企业正常贸易合作横加干涉。美方做法背离两国元首达成的重要共识，破坏市场规则和国际经贸秩序，冲击全球 半导体 产业链供应链稳定。中方对此强烈不满，坚决反对。 英伟达 公布财报 ： 英伟达 第三季度营收1158亿美元，环比增长20.3%，同比增103.1%，预期1093.3亿美元。其中 数据中心 营收1076亿美元，预期1018",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月18日周三"
     },
     {
      "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
@@ -2322,28 +2370,20 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia sales doubled last quarter"
     },
     {
-     "title": "Nvidia perks up as Q3 results, guidance top estimates; adds $150B to buyback",
-     "link": "https://seekingalpha.com/news/4673703-nvidia-perks-up-as-q3-results-guidance-top-estimates-adds-150b-to-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:28:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia perks up as Q3 results, guidance top estimates; adds $150B to buyback"
-    },
-    {
-     "title": "德鲁肯米勒看空铜价、股市持仓中性，称当前市场能见度为记忆中最低",
-     "link": "https://wallstreetcn.com/articles/3786129",
-     "pubDate": "Wed, 18 Nov 2026 05:27:53 +0800",
-     "summary": "亿万富翁投资者Stan Druckenmiller表示，面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。 11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示， 他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。 目前他持有少量美元多头仓位，股票上持仓中性，同时做空铜 。他说： 我们基本上在回避市场，目标是不亏钱，而不是赚钱。 这一表态标志着其立场较今年1月发生显著转变，彼时他对经济前景持明显乐观态度。Druckenmiller以高确信度时果断重仓著称，当前的按兵不动本身即释放出鲜明信号，对风险资",
-     "source": "华尔街见闻",
-     "zh": "德鲁肯米勒看空铜价、股市持仓中性，称当前市场能见度为记忆中最低"
-    },
-    {
      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
      "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
      "pubDate": "Tue, 17 Nov 2026 21:24:20 GMT",
      "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
      "source": "CNBC",
      "zh": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything"
+    },
+    {
+     "title": "英伟达预计第四季度营收1274亿至1326亿美元 高于市场预期",
+     "link": "http://finance.eastmoney.com/news/1345,202611183933318685.html",
+     "pubDate": "Wed, 18 Nov 2026 05:20:54 +0800",
+     "summary": "英伟达 第三季度营收1158亿美元，预期1093.3亿美元。其中 数据中心 营收1076亿美元，预期1018.7亿美元。调整后毛利率74.9%。 英伟达 预计第四季度营收1274亿至1326亿美元，预期1252.5亿美元。 英伟达 股价盘后涨超2%。英伟达连续第15个季度营收超出预估上限。英伟达临时CEO称路线图按计划进行。 英伟达董事会批准增加1500亿美元股票回购计划，剩余股票回购授权额度为2273亿美元。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "英伟达预计第四季度营收1274亿至1326亿美元 高于市场预期"
     },
     {
      "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
@@ -2368,6 +2408,14 @@ window.INDUSTRY_DATA = {
      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
      "source": "MarketWatch",
      "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
+    },
+    {
+     "title": "美股三大指数集体收跌 道指、标普跌超1% 光通信股逆势上扬",
+     "link": "http://finance.eastmoney.com/news/1345,202611173933220844.html",
+     "pubDate": "Wed, 18 Nov 2026 05:00:00 +0800",
+     "summary": "美东时间周二，美股三大指数集体收跌，截至收盘，道琼斯指数跌1.64%，标普500指数跌1.03%， 纳斯达克 综合 指数跌0.74%。 芯片股尾盘拉升跌幅收窄， 台积电 跌近4%， 美光科技 跌近1%， 英伟达 跌0.44%， 博通 涨超2%。 光 通信 股逆势小幅上扬，Coherent涨超3%，Lumentum、Ciena、Credo、 康宁 涨超2%。 其他个股方面， SpaceX 涨超3%， 耐克 跌超6%。 纳斯达克 金龙中国指数收跌1.89%，热门中概股里， 京东 收跌7.7%，腾讯跌4.4%，阿里跌4.4%。ETF中，KWEB跌2.1%，CQQQ跌1.5%。 全球要闻 美伊大消息！",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体收跌 道指、标普跌超1% 光通信股逆势上扬"
     },
     {
      "title": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
@@ -2402,6 +2450,14 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic IPO前夕，OpenAI推出最强模型GPT-6.2 Astra，称性能超越Fable 5.2"
     },
     {
+     "title": "德鲁肯米勒看空铜价、股票仓位归零，称当前市场能见度为记忆中最低",
+     "link": "https://wallstreetcn.com/articles/3786129",
+     "pubDate": "Wed, 18 Nov 2026 03:55:36 +0800",
+     "summary": "亿万富翁投资者Stan Druckenmiller表示，面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。 11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示， 他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。 目前他持有少量美元多头仓位，股票则既无多头也无空头，同时做空铜 。他说： 我们基本上在回避市场，目标是不亏钱，而不是赚钱。 这一表态标志着其立场较今年1月发生显著转变，彼时他对经济前景持明显乐观态度。Druckenmiller以高确信度时果断重仓著称，当前的按兵不动本身即释放出鲜明信号，",
+     "source": "华尔街见闻",
+     "zh": "德鲁肯米勒看空铜价、股票仓位归零，称当前市场能见度为记忆中最低"
+    },
+    {
      "title": "英伟达“隐身”的重要市场：新加坡子公司被曝去年营收超千亿美元、一年增72%",
      "link": "https://wallstreetcn.com/articles/3786126",
      "pubDate": "Wed, 18 Nov 2026 03:55:15 +0800",
@@ -2418,60 +2474,20 @@ window.INDUSTRY_DATA = {
      "zh": "耐克公布五年复苏计划：2029财年争取重回行业增速"
     },
     {
-     "title": "WTI原油期货结算价为每桶86.01美元",
-     "link": "http://finance.eastmoney.com/news/1356,202611183933309618.html",
-     "pubDate": "Wed, 18 Nov 2026 03:31:29 +0800",
-     "summary": "WTI原油 期货 结算价为每桶86.01美元，涨幅0.34%；布伦特原油 期货 结算价为每桶93.14美元，涨幅0.76%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "WTI原油期货结算价为每桶86.01美元"
-    },
-    {
-     "title": "SpaceX表示 计划于11月21日从范登堡太空军基地4E航天发射场用猎鹰9号执行NROL-136任务",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933309411.html",
-     "pubDate": "Wed, 18 Nov 2026 03:25:45 +0800",
-     "summary": "SpaceX 表示，计划于11月21日从范登堡太空军基地4E航天发射场用猎鹰9号执行NROL-136任务。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "SpaceX表示 计划于11月21日从范登堡太空军基地4E航天发射场用猎鹰9号执行NROL-136任务"
-    },
-    {
-     "title": "苹果表示 iCloud账户及登录问题已解决",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933309373.html",
-     "pubDate": "Wed, 18 Nov 2026 03:23:55 +0800",
-     "summary": "苹果 表示，iCloud账户及登录问题已解决。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "苹果表示 iCloud账户及登录问题已解决"
-    },
-    {
-     "title": "深化亚太区域协作 织密企业全球化网络",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933308914.html",
-     "pubDate": "Wed, 18 Nov 2026 03:21:19 +0800",
-     "summary": "普华永道康慕德： 不同经济体各有优势机遇在于打通整合 证券时报记者刘珺宇 11月17日，2026年APEC工商领导人峰会在深圳举办。普华永道全球主席康慕德参与了“共建开放普惠的 人工智能 创新生态”的专题研讨。在接受记者采访时，康慕德表示，亚太地区拥有巨大的经济潜力，希望各方聚焦贸易投资、新技术落地、人才培养等议题，就区域互联互通展开务实交流。 他表示，当下正迈入 人工智能 为企业开辟全新运营模式的时代。在此背景下，企业关注的焦点已不再局限于生产力提升，而是更多地转向依托 人工智能 开发新产品、打造新服务、开拓新市场。实现这一价值的关键不仅在于拥有技术本身，更在于将其转化为现实生产力，这背后离",
-     "source": "东方财富股票",
-     "zh": "深化亚太区域协作 织密企业全球化网络"
-    },
-    {
-     "title": "压缩空气储能有新催化 超20家上市公司布局相关业务",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933308855.html",
-     "pubDate": "Wed, 18 Nov 2026 03:21:07 +0800",
-     "summary": "随着电价市场化改革深化和容量电价机制落地，压缩空气储能有望在“十五五”时期从示范验证走向商业规模化，成为新型 电力 系统的重要支撑。据证券时报·数据宝统计，A股超20家上市公司布局压缩空气储能业务，9只相关概念股市盈率低于30倍，11只概念股获得5次以上机构调研。 “源储一号”并网发电 据悉，11月16日，世界首台（套）“源储一号”300兆瓦人工硐室型压缩空气储能电站示范工程在甘肃酒泉玉门市首次并网。 据了解，“源储一号”由 中国能建 数科集团 研发投资建设运营，是国家新型储能试点示范工程、国家能源局第四批能源领域首台（套）重大技术装备。项目建设1台300兆瓦/1800兆瓦时压气储能机组，设计",
-     "source": "东方财富股票",
-     "zh": "压缩空气储能有新催化 超20家上市公司布局相关业务"
-    },
-    {
-     "title": "据报道 伊朗方面正“认真寻求”通过外交途径结束僵局",
-     "link": "http://finance.eastmoney.com/news/11790,202611183933309283.html",
-     "pubDate": "Wed, 18 Nov 2026 03:21:06 +0800",
-     "summary": "据报道，伊朗方面正“认真寻求”通过外交途径结束僵局。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "据报道 伊朗方面正“认真寻求”通过外交途径结束僵局"
-    },
-    {
-     "title": "美股三大指数下跌 纳指盘中最大跌幅超过2%",
-     "link": "http://finance.eastmoney.com/news/1345,202611173933220844.html",
-     "pubDate": "Wed, 18 Nov 2026 03:20:07 +0800",
-     "summary": "美东时间周二，美股三大指数集体收跌，截至收盘，道琼斯指数跌1.64%，标普500指数跌1.03%， 纳斯达克 综合 指数跌0.74%。 芯片股尾盘拉升跌幅收窄， 台积电 跌近4%， 美光科技 跌近1%， 英伟达 跌0.44%， 博通 涨超2%。 光 通信 股逆势小幅上扬，Coherent涨超3%，Lumentum、Ciena、Credo、 康宁 涨超2%。 其他个股方面， SpaceX 涨超3%， 耐克 跌超6%。 纳斯达克 金龙中国指数收跌1.89%，热门中概股里， 京东 收跌7.7%，腾讯跌4.4%，阿里跌4.4%。ETF中，KWEB跌2.1%，CQQQ跌1.5%。 全球要闻 美伊大消息！",
+     "title": "火速建仓！首批主动ETF“曝光” 下周一集体上市",
+     "link": "http://finance.eastmoney.com/news/1354,202611173933263118.html",
+     "pubDate": "Wed, 18 Nov 2026 03:26:06 +0800",
+     "summary": "11月17日晚间，首批18只主动ETF同时披露上市公告书，除确定11月23日（下周一）上市交易外，还披露了两类关键数据： 一是持有人结构。18只ETF合计上市份额360亿份中，个人投资者持有逾270亿份，占比超七成。 二是建仓水平。18只ETF平均股票仓位占比超过55%，最高仓位已抬升至90%以上，最低仓位不足30%。 个人投资者包揽逾七成份额 根据各家基金公司公告，首批18只主动ETF均于11月23日（下周一）上市交易，上市交易份额均为20亿份。公告书显示，18只ETF的360亿份总份额中，个人投资者合计持有逾270亿份，总份额占比为77.12%；机构投资者持有80亿份出头，占比22.88%",
      "source": "东方财富资讯",
-     "zh": "美股三大指数下跌 纳指盘中最大跌幅超过2%"
+     "zh": "火速建仓！首批主动ETF“曝光” 下周一集体上市"
+    },
+    {
+     "title": "长鑫科技发声 与多家头部客户协商长期供货协议",
+     "link": "http://finance.eastmoney.com/news/1354,202611173933260640.html",
+     "pubDate": "Wed, 18 Nov 2026 03:21:35 +0800",
+     "summary": "11月17日， 长鑫科技 董事、总裁曹堪宇在2026年第三季度业绩说明会上表示，当前AI服务器需求持续旺盛，DDR5等高附加值存储产品仍供不应求；同时传统服务器需求亦保持稳健。公司对企业级业务的持续增长持乐观预期。 长鑫科技 在第三季度业绩说明会上透露，已与多家头部客户协商长期供货协议，预计2026年四季度公司毛利率将保持稳定。 产品结构优化 毛利率改善 长鑫科技 2026年第三季度报告显示，公司前三季度实现营业收入2690.24亿元，同比增长738.51%；归属于上市公司股东的净利润1320.4亿元，同比扭亏为盈。其中，第三季度实现营业收入1187.14亿元，同比增长613.18%；归属于上",
+     "source": "东方财富资讯",
+     "zh": "长鑫科技发声 与多家头部客户协商长期供货协议"
     },
     {
      "title": "黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证",
@@ -2482,20 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证"
     },
     {
-     "title": "黄仁勋辞职后首次发声“救市”？标普纳指盘中深V收窄跌幅，报道后称英伟达董事会仍未考虑他复职",
-     "link": "https://wallstreetcn.com/articles/3786123",
-     "pubDate": "Wed, 18 Nov 2026 02:58:04 +0800",
-     "summary": "黄仁勋的一则声明，成为本周二美股盘中最受关注的消息之一。 美东时间11月17日周二美股早盘尾声时，英伟达创始人、前CEO黄仁勋在离职后首次公开发声，表示如果董事会认为他回归符合公司、股东和员工的最佳利益，他愿意重新出任CEO。黄仁勋的表态恰好出现在美股早盘抛售压力加剧之际，表态传出后，英伟达和主要美股指几乎同步快速拉升、收窄盘中跌幅。 黄仁勋表态前，三大美股指均在美股早盘刷新日低，标普500指数日内跌逾1.7%，道指跌近1.8%，纳指跌逾2.1%。美股早盘尾声时，黄仁勋愿重新担任CEO的消息传出后，道指跌幅曾收窄至约1.3%，标普和纳指更是出现一波深V走势、大幅收窄跌幅，标普的日内跌幅一度缩小",
-     "source": "华尔街见闻",
-     "zh": "黄仁勋辞职后首次发声“救市”？标普纳指盘中深V收窄跌幅，报道后称英伟达董事会仍未考虑他复职"
-    },
-    {
      "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
      "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
      "pubDate": "Tue, 17 Nov 2026 18:10:16 GMT",
      "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
      "source": "CNBC",
      "zh": "U.S. officially loses measles elimination status amid ongoing outbreaks"
+    },
+    {
+     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
+     "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 17:06:32 GMT",
+     "summary": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
+     "source": "Financial Times",
+     "zh": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn"
     }
    ]
   },

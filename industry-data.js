@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 14:11:55",
+ "generated_at": "2026/11/17 14:31:59",
  "recent_days": 7,
  "industries": [
   {
@@ -90,14 +90,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’"
     },
     {
-     "title": "5 Things That Break When AI Agents Start Acting on Their Own",
-     "link": "https://www.kdnuggets.com/2026/11/collibra/5-things-that-break-when-ai-agents-start-acting-on-their-own",
-     "pubDate": "Mon, 16 Nov 2026 18:00:47 +0000",
-     "summary": "Five governance problems emerge when AI agents begin taking real-world actions, from unmanaged access and identity sprawl to approval bottlenecks and manual oversight.",
-     "source": "KDnuggets",
-     "zh": "5 Things That Break When AI Agents Start Acting on Their Own"
-    },
-    {
      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
      "pubDate": "Mon, 16 Nov 2026 17:36:43 +0000",
@@ -130,14 +122,6 @@ window.INDUSTRY_DATA = {
      "zh": "Building trustworthy AI by fencing it in, not predicting it"
     },
     {
-     "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
-     "link": "https://www.kdnuggets.com/how-to-give-claude-code-up-to-date-documentation-with-context7",
-     "pubDate": "Mon, 16 Nov 2026 15:00:00 +0000",
-     "summary": "Stop wasting tokens debugging outdated code. Give Claude Code up-to-date docs with Context7.",
-     "source": "KDnuggets",
-     "zh": "How to Give Claude Code Up-to-Date Documentation With Context7"
-    },
-    {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
      "link": "https://zhidx.com/p/611006.html",
      "pubDate": "Mon, 16 Nov 2026 21:55:11 +0800",
@@ -152,14 +136,6 @@ window.INDUSTRY_DATA = {
      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
      "source": "MIT Tech Review AI",
      "zh": "Building AI that can work across the enterprise"
-    },
-    {
-     "title": "Agentic System Design: A Self-Study Roadmap",
-     "link": "https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap",
-     "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
-     "summary": "Learn agentic system design with this 7-step roadmap covering tools, memory, control loops, multi-agent coordination, evaluation, and deployment.",
-     "source": "KDnuggets",
-     "zh": "Agentic System Design: A Self-Study Roadmap"
     },
     {
      "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -200,6 +176,14 @@ window.INDUSTRY_DATA = {
      "summary": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPos",
      "source": "MarkTechPost",
      "zh": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context"
+    },
+    {
+     "title": "How Revolut raises ambition without lowering the bar",
+     "link": "https://openai.com/business/customer-stories/revolut",
+     "pubDate": "Mon, 16 Nov 2026 09:30:00 GMT",
+     "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+     "source": "OpenAI",
+     "zh": "How Revolut raises ambition without lowering the bar"
     },
     {
      "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
      "source": "量子位",
      "zh": "SuperLink2026开启创投行业超级链接时刻，12月北京见"
+    },
+    {
+     "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+     "link": "https://www.qbitai.com/2026/11/510486.html",
+     "pubDate": "Mon, 16 Nov 2026 07:51:57 +0000",
+     "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+     "source": "量子位",
+     "zh": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景"
+    },
+    {
+     "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+     "link": "https://www.qbitai.com/2026/11/510436.html",
+     "pubDate": "Mon, 16 Nov 2026 07:26:33 +0000",
+     "summary": "余承东重新明确分工",
+     "source": "量子位",
+     "zh": "余承东发布新款问界M8：38万元起售，全系预埋L3架构"
     }
    ]
   },
@@ -306,6 +306,14 @@ window.INDUSTRY_DATA = {
      "zh": "Daxin aims for semiconductor materials to exceed half of revenue by 2030"
     },
     {
+     "title": "China’s Radio Makers Advance Towards Standardisation",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/chinas-radio-makers-advance-towards-standardisation-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 01:01:13 +0000",
+     "summary": "One of the big problems that China is facing in her efforts to create an industrial society is to establish methods of standardisation. This applies with particular force in the […] The post China’s Radio Makers Advance Towards Standardisation appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "China’s Radio Makers Advance Towards Standardisation"
+    },
+    {
      "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
      "link": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
      "pubDate": "Tue, 17 Nov 2026 00:56:29 +0000",
@@ -362,6 +370,14 @@ window.INDUSTRY_DATA = {
      "zh": "Taking a Tour of Canada’s Particle Accelerator"
     },
     {
+     "title": "Iceye Gen5 SAR satellites bring 11 cm imaging",
+     "link": "https://www.electronicsweekly.com/news/iceye-gen5-sar-satellites-bring-11-cm-imaging-2026-11/",
+     "pubDate": "Mon, 16 Nov 2026 17:43:16 +0000",
+     "summary": "Iceye has unveiled Gen5, its latest synthetic aperture radar (SAR) satellite system. Aimed at government Earth Observation missions, Gen5 can image with 1,800 MHz of bandwidth. And it sharps ground […] The post Iceye Gen5 SAR satellites bring 11 cm imaging appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Iceye Gen5 SAR satellites bring 11 cm imaging"
+    },
+    {
      "title": "Simplifying Power Design with µModule Solutions",
      "link": "https://www.eetimes.com/simplifying-power-design-with-%c2%b5module-solutions/",
      "pubDate": "Mon, 16 Nov 2026 17:41:23 +0000",
@@ -386,6 +402,14 @@ window.INDUSTRY_DATA = {
      "zh": "Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components"
     },
     {
+     "title": "Isolated dc-dc converters support HV SiC applications",
+     "link": "https://www.electronicsweekly.com/news/products/isolated-dc-dc-converters-support-hv-sic-applications-2026-11/",
+     "pubDate": "Mon, 16 Nov 2026 16:37:08 +0000",
+     "summary": "Electronica 2026 – Murata introduced the MGJ2T2 series of 2W, SiP isolated gate drive dc-dc converters for high voltage SiC power applications, such as energy stroage, distribution and EV charging. […] The post Isolated dc-dc converters support HV SiC applications appeared first on Electronics Weekl",
+     "source": "Electronics Weekly",
+     "zh": "Isolated dc-dc converters support HV SiC applications"
+    },
+    {
      "title": "yieldWerx’s PhotonX traces photonic module failures back to the die",
      "link": "https://semiwiki.com/eda/yieldwerx/375995-yieldwerxs-photonx-traces-photonic-module-failures-back-to-the-die/",
      "pubDate": "Mon, 16 Nov 2026 16:00:43 +0000",
@@ -400,6 +424,14 @@ window.INDUSTRY_DATA = {
      "summary": "Photon Design Ltd of Oxford, UK has enabled nitride laser modelling within its photonic simulation CAD software design flow...",
      "source": "Semiconductor Today",
      "zh": "Photon Design enables dynamic, 3D nitride laser modelling within simulation design flow"
+    },
+    {
+     "title": "The Undoing Of Jensen",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-undoing-of-jensen-2026-11/",
+     "pubDate": "Mon, 16 Nov 2026 14:00:36 +0000",
+     "summary": "There are several ways of looking at the ousting of Jensen Huang: To China it’s a political move by Washington to provide reasons and methods for tightening supplies of advanced […] The post The Undoing Of Jensen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Undoing Of Jensen"
     },
     {
      "title": "Silicon Catalyst 2026 Semiconductor Industry Forum – What’s Next for AI, Quantum, and Space",
@@ -418,12 +450,28 @@ window.INDUSTRY_DATA = {
      "zh": "Technology as a Trojan Horse"
     },
     {
+     "title": "Würth introduces PowerBusbar PF for standard PCBs",
+     "link": "https://www.electronicsweekly.com/news/products/wurth-introduces-powerbusbar-pf-for-standard-pcbs-2026-11/",
+     "pubDate": "Mon, 16 Nov 2026 12:09:48 +0000",
+     "summary": "Würth Elektronik ICS is introducing the PowerBusbar PF (press-fit). This is a busbar that is press-fit vertically into PCBs to save space and increase current-carrying capacity. It also improves thermal […] The post Würth introduces PowerBusbar PF for standard PCBs appeared first on Electronics Week",
+     "source": "Electronics Weekly",
+     "zh": "Würth introduces PowerBusbar PF for standard PCBs"
+    },
+    {
      "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
      "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
      "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
      "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
      "source": "IEEE Spectrum 半导体",
      "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
+    },
+    {
+     "title": "San Francisco Agreement on secure supply chains signed",
+     "link": "https://www.electronicsweekly.com/news/business/san-francisco-agreement-on-secure-supply-chains-signed-2026-11/",
+     "pubDate": "Mon, 16 Nov 2026 10:49:17 +0000",
+     "summary": "On November 15, the United States and nine Pax Silica participants signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity at the Pax Silica Founders Retreat, convened […] The post San Francisco Agreement on secure supply chains signed appeared first on Electronics Week",
+     "source": "Electronics Weekly",
+     "zh": "San Francisco Agreement on secure supply chains signed"
     },
     {
      "title": "AXT’s revenue grows 162% year-on-year to record $73.4m in Q3",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Agents are emerging as reusable design tools, but trust and use models remain challenging. The post Are AI Agents The New Semiconductor IP? appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Are AI Agents The New Semiconductor IP?"
-    },
-    {
-     "title": "The Sound of Smarter Farming",
-     "link": "https://www.eetimes.com/the-sound-of-smarter-farming/",
-     "pubDate": "Mon, 16 Nov 2026 06:59:20 +0000",
-     "summary": "From birdsong and pollinator wingbeats to the vibrations of insects feeding inside plants, acoustic sensors and AI are helping farmers monitor biodiversity, improve pollination, and detect threats to crops. The post The Sound of Smarter Farming appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "The Sound of Smarter Farming"
-    },
-    {
-     "title": "CEO Interview with Kurt Busch of Syntiant",
-     "link": "https://semiwiki.com/ceo-interviews/376259-ceo-interview-with-kurt-busch-of-syntiant/",
-     "pubDate": "Sun, 15 Nov 2026 20:00:41 +0000",
-     "summary": "Kurt Busch is the chief executive officer of Syntiant Corp. He has extensive experience in product development, having driven the successful launch of new products, ranging from SaaS and semiconductors for telecom and broadcast video to consumer electronics and data center systems. Prior to Syntiant",
-     "source": "SemiWiki",
-     "zh": "CEO Interview with Kurt Busch of Syntiant"
-    },
-    {
-     "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
-     "link": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
-     "pubDate": "Fri, 13 Nov 2026 21:53:30 +0000",
-     "summary": "Tharunya Yogananda and Wantong Li of the University of California, Riverside published a technical paper titled “Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies.” Abstract Excerpt: “Recent generations of high bandwidth memory (HBM), such as HBM4, allow the base di",
-     "source": "Semiconductor Engineering",
-     "zh": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)"
-    },
-    {
-     "title": "Navitas files further patent infringement lawsuit against Renesas",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/navitas-renesas-131126.shtml",
-     "pubDate": "Fri, 13 Nov 2026 09:15:24 GMT",
-     "summary": "Navitas Semiconductor Corp of Torrance, CA, USA — which provides GaNFast gallium nitride (GaN), GeneSiC silicon carbide (SiC) power semiconductors and integrated voltage regulator (IVR) technologies — has filed a lawsuit in the US District Court for the Eastern District of Texas charging Renesas Ele",
-     "source": "Semiconductor Today",
-     "zh": "Navitas files further patent infringement lawsuit against Renesas"
-    },
-    {
-     "title": "Chip Industry Week In Review",
-     "link": "https://semiengineering.com/chip-industry-week-in-review-164/",
-     "pubDate": "Fri, 13 Nov 2026 08:01:34 +0000",
-     "summary": "300mm SiC breakthrough; Nvidia faces questions about security and oversight; Siemens buys Lauterbach; chiplet standards; new memory bets; imec interposer process flow; TPUs with CPUs; 2D transistors; anti-smuggling tools for chips. The post Chip Industry Week In Review appeared first on Semiconducto",
-     "source": "Semiconductor Engineering",
-     "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/polarlight-121126.shtml",
-     "pubDate": "Thu, 12 Nov 2026 18:08:30 GMT",
-     "summary": "Polar Light Technologies AB — which stems from research by founder professor Per-Olof Holtz and his team at Linköping University (with support from Sweden’s innovation agency Vinnova) — has announced its first cooperation agreement related to micro-LED optical interconnect. The collaboration with Fo",
-     "source": "Semiconductor Today",
-     "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     }
    ]
   },
@@ -866,6 +866,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "BMW In South Carolina: A Free Trade Success Story",
+     "link": "https://cleantechnica.com/2026/11/17/bmw-in-south-carolina-a-free-trade-success-story/",
+     "pubDate": "Tue, 17 Nov 2026 06:21:42 +0000",
+     "summary": "I recently attended BMW’s “Beyond The Machine” event in South Carolina. The largest facility of the German company globally is Plant Spartanburg in Greer, South Carolina. As part of the event, I saw the opening of BMW’s new battery plant in nearby Woodruff. We stayed in the nearby city of ... [conti",
+     "source": "CleanTechnica",
+     "zh": "BMW In South Carolina: A Free Trade Success Story"
+    },
+    {
+     "title": "Oil Prices Slide as Global Glut Fears Eclipse Hormuz Attacks",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Global-Glut-Fears-Eclipse-Hormuz-Attacks.html",
+     "pubDate": "Tue, 17 Nov 2026 00:10:00 -0600",
+     "summary": "Crude oil prices extended a decline that began earlier this month, as reports about a global glut multiplied, suggesting there was no supply squeeze at all, despite continuing attacks on vessels in the Persian Gulf and the Yemeni Houthis’ strikes on Saudi Arabian energy infrastructure. At the time o",
+     "source": "OilPrice",
+     "zh": "Oil Prices Slide as Global Glut Fears Eclipse Hormuz Attacks"
+    },
+    {
+     "title": "XPENG Forecasts 45% Sales Growth in 4th Quarter",
+     "link": "https://cleantechnica.com/2026/11/16/xpeng-forecasts-45-sales-growth-in-4th-quarter/",
+     "pubDate": "Tue, 17 Nov 2026 04:55:42 +0000",
+     "summary": "XPENG just reported 3rd quarter financial details today, while also forecasting what will happen in the 4th quarter. Everything is looking quite rosy at the moment. As far as 3rd quarter financials go, on the back of strong sales, the company logged 24.28 billion yuan ($3.643 billion) of revenue. Th",
+     "source": "CleanTechnica",
+     "zh": "XPENG Forecasts 45% Sales Growth in 4th Quarter"
+    },
+    {
      "title": "Trump Forces 7th Expensive Old Coal Power Plant To Stay Open",
      "link": "https://cleantechnica.com/2026/11/16/trump-forces-7th-expensive-old-coal-power-plant-to-stay-open/",
      "pubDate": "Tue, 17 Nov 2026 04:50:17 +0000",
@@ -904,22 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "On November 3, the Pentagon did something it’s never done before. The Army signed a non-binding term sheet to host a commercial rare earth plant on one of its own bases, under a lease that could run past the year 2100. And the company it chose, REalloys (NASDAQ: ALOY), already has a head start on wh",
      "source": "OilPrice",
      "zh": "The Army Just Did Something Extraordinary To Break China’s Rare Earth Monopoly"
-    },
-    {
-     "title": "NAED Energy Holding Inc. Details the Rating of Its PV-1 Tandem Cell Line: 16,000 Wafers per Hour per Line, 4.6 GW from Six Lines",
-     "link": "https://cleantechnica.com/2026/11/16/naed-energy-holding-inc-details-the-rating-of-its-pv-1-tandem-cell-line-16000-wafers-per-hour-per-line-4-6-gw-from-six-lines/",
-     "pubDate": "Tue, 17 Nov 2026 01:57:52 +0000",
-     "summary": "NAED Energy Holding Inc. (NAED) just published the rating of PV-1, its production line for T2X perovskite/silicon heterojunction tandem solar cells. Each PV-1 line is rated at 16,000 G12 half-cut wafers per hour: 400 wafers every 90-second index, a rate set by the line’s inline PVD tool (ITO-1). The",
-     "source": "CleanTechnica",
-     "zh": "NAED Energy Holding Inc. Details the Rating of Its PV-1 Tandem Cell Line: 16,000 Wafers per Hour per Line, 4.6 GW from Six Lines"
-    },
-    {
-     "title": "Minister O’Brien Announces Completion of Over 300,000 Home Energy Upgrades with Government Support Since 2019",
-     "link": "https://cleantechnica.com/2026/11/16/minister-obrien-announces-completion-of-over-300000-home-energy-upgrades-with-government-support-since-2019/",
-     "pubDate": "Tue, 17 Nov 2026 01:47:04 +0000",
-     "summary": "2 billion invested by government of Ireland to support SEAI retrofits in communities and households all over the country. Supports result in homes that are warmer, more comfortable, healthier and with lower energy bills. Over 42,000 vulnerable, energy-poor homes benefitted from fully-funded upgrades",
-     "source": "CleanTechnica",
-     "zh": "Minister O’Brien Announces Completion of Over 300,000 Home Energy Upgrades with Government Support Since 2019"
     },
     {
      "title": "Why Iraq Just Fast-Tracked Chevron’s Takeover Of A 14-Billion-Barrel Supergiant",
@@ -962,14 +970,6 @@ window.INDUSTRY_DATA = {
      "zh": "Can Underwater Data Centers Escape the Land-Based Backlash?"
     },
     {
-     "title": "Can Economic Populism Survive an Age of Scarcity?",
-     "link": "https://oilprice.com/Geopolitics/North-America/Can-Economic-Populism-Survive-an-Age-of-Scarcity.html",
-     "pubDate": "Mon, 16 Nov 2026 15:00:00 -0600",
-     "summary": "A number of candidates who prevailed in the last U.S. election can rightly be called populist in the 19th-century \"prairie populist\" mold, opposing monopolies and concentrated power, championing the rights of the average citizen, and opposing tariffs which hurt farmers and consumers. Perhaps the sen",
-     "source": "OilPrice",
-     "zh": "Can Economic Populism Survive an Age of Scarcity?"
-    },
-    {
      "title": "Solar recycling 2.0",
      "link": "https://www.pv-magazine.com/2026/11/16/solar-recycling-2-0/",
      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
@@ -989,7 +989,7 @@ window.INDUSTRY_DATA = {
      "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
      "link": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
      "pubDate": "Mon, 16 Nov 2026 11:21:32 -0500",
-     "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at&nbsp;$1,400/kW, while NRG is &ldquo;developing 1.5 GW of new natural gas generation in Texas&rdquo;&nbsp;for just above $1,000/kW.",
+     "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at&nbsp;$1,400/KW, while NRG is &ldquo;developing 1.5 GW of new natural gas generation in Texas for just above $1,000/KW.&rdquo;",
      "source": "Utility Dive",
      "zh": "NRG to sell 4.9 GW of gas plants to LS Power for $4B"
     },
@@ -1226,14 +1226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug"
     },
     {
-     "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
-     "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
-     "pubDate": "Mon, 16 Nov 2026 12:00:00 -0500",
-     "summary": "CG&rsquo;s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street&rsquo;s expectations and lifting company shares.&nbsp;",
-     "source": "BioPharma Dive",
-     "zh": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial"
-    },
-    {
      "title": "J&J bets $2.2B on Ollin’s vision loss drug",
      "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
      "pubDate": "Mon, 16 Nov 2026 11:57:00 -0500",
@@ -1288,6 +1280,14 @@ window.INDUSTRY_DATA = {
      "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.",
      "source": "BioPharma Dive",
      "zh": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging"
+    },
+    {
+     "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
+     "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
+     "pubDate": "Mon, 16 Nov 2026 05:00:00 -0500",
+     "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
+     "source": "BioPharma Dive",
+     "zh": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment"
     },
     {
      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
@@ -1778,20 +1778,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Noon 沙特站入驻后素材本地化卡在哪一步？",
+     "link": "https://www.baijing.cn/question/638791",
+     "pubDate": "Tue, 17 Nov 2026 06:27:07 +0000",
+     "summary": "刚拿到 Noon 沙特站入驻审核通过，做的是家用小家电，团队 6 人，主推一款挂烫机，价格带 150-250 沙币。入驻条件里要求的营业执照、品牌授权、沙特 VAT 都过了，但上传的主图和详情页素材是直接翻译英文版，阿语标题机翻后出现词序错乱，主图模特是欧美面孔穿短袖，评论区有人问是不是正品。上线两周曝光有 1.2 万次，点击率只有 0.9%，转化 0.3%。已经试过找本地译者改标题、把模特换成穿 abaya 的本地拍摄，但详情页里的使用场景图还是原来的厨房台面，不确定沙特用户到底在意哪些视觉元素。想请教做过 Noon 沙特站的同行，素材本地化优先改哪几项，判断标准是什么？",
+     "source": "白鲸出海",
+     "zh": "Noon 沙特站入驻后素材本地化卡在哪一步？"
+    },
+    {
+     "title": "Nvidia unveils its Rubin HPC GPU with \"more than 50,000\" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations (Jeffrey Kampman/Tom&apos;s Hardware)",
+     "link": "https://www.techmeme.com/261117/p3#a261117p3",
+     "pubDate": "Tue, 17 Nov 2026 01:20:00 -0500",
+     "summary": "Jeffrey Kampman / Tom's Hardware : Nvidia unveils its Rubin HPC GPU with &ldquo;more than 50,000&rdquo; CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations &nbsp; &mdash;&nbsp; Rubin HPC puts &ldquo;over 50,000&rdquo; CUDA cores on a chip, implies fo",
+     "source": "Techmeme",
+     "zh": "Nvidia unveils its Rubin HPC GPU with \"more than 50,000\" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations (Jeffrey Kampman/Tom&apos;s Hardware)"
+    },
+    {
+     "title": "印度短剧配音成印地语后完播率反降，方言素材到底该怎么配比？",
+     "link": "https://www.baijing.cn/question/638790",
+     "pubDate": "Tue, 17 Nov 2026 06:19:59 +0000",
+     "summary": "我们做印度短剧出海，起量阶段，团队12人，主要发在YouTube和MX Player，月投放预算大约8万美元。原本用英语字幕+原声，北方邦和比哈尔邦的完播率只有18%左右，后来把前三集配成印地语配音，同一批素材在Meta上跑，完播率反而掉到11%，评论区一堆人说“配音像新闻播报”。我们又试过泰米尔语和泰卢固语各配一版，泰卢固语那版在安得拉邦的点击率涨了但付费转化几乎没动。现在卡在不知道该按语言分素材，还是按方言口音分素材，也判断不了哪种方言值得单独做一版配音。想直接问：印度市场短剧素材的方言配比，你们是按州拆还是按语言拆，判断标准是什么？",
+     "source": "白鲸出海",
+     "zh": "印度短剧配音成印地语后完播率反降，方言素材到底该怎么配比？"
+    },
+    {
+     "title": "韩国爱豆同款吃法，被装进20块一包的国产泡面里",
+     "link": "https://www.huxiu.com/article/4906207.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 14:17:39 +0800",
+     "summary": "本文来自微信公众号： 惊蛰青年 ，作者：阿瑞，编辑：安菲尔德 “好家伙，泡面什么时候背着我涨价了？” 最近，有网友拍下超市的货架标签，发出了以上的感叹。就在ta对泡面的印象还停留在3.5元一桶的时候，康师傅红烧牛肉方便面已经涨到了4.99元/桶，老坛酸菜牛肉面则要5.5元，就连袋装方便面，竟然也从两块钱涨到了三块钱以上。 连一向亲民的泡面都涨价了，此时此刻，谁不想唱一句“不敢睁开眼，希望是我的幻觉”？ 勤策消费研究《2025年中国方便面行业报告》显示，虽然2.6元—5元的价格带依然是方便面市场主流，但5元以上的价格带占比已接近48%。报告预测，2020年至2026年中高端方便面年复合增长率将达",
+     "source": "虎嗅",
+     "zh": "韩国爱豆同款吃法，被装进20块一包的国产泡面里"
+    },
+    {
+     "title": "中国赴美留学少了一半，全球首次大降温，最新门户开放报告数据惊人",
+     "link": "https://www.huxiu.com/article/4906204.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 14:13:17 +0800",
+     "summary": "本文来自微信公众号： 谷雨星球 ，作者：小谷，原文标题：《中国赴美留学少了一半，全球首次大降温！最新门户开放报告数据惊人》 大家好，我是小谷，专注于国际教育的数据研究。 就在昨晚，我们每年准点蹲守的「美国门户开放报告Open Doors」发布了。 这份由美国教育协会发布超过20年之久的报告，是一探赴美留学生人数变化、趋势的最权威统计之一。 我们连续多年追踪这份报告，见证了留美潮的热浪和退潮—— 从2010年后的十年人数翻了3倍，从12万到高峰期接近38万人。直到2020年，历史出现了拐点，开始暴跌。这之后一路下跌，去年首次被印度取代第一大生源国的位置。 今年中国留学生数量仍持续减少，本科在读人",
+     "source": "虎嗅",
+     "zh": "中国赴美留学少了一半，全球首次大降温，最新门户开放报告数据惊人"
+    },
+    {
      "title": "哥伦比亚末端派送签收率只有七成，回款周期被拉长怎么办？",
      "link": "https://www.baijing.cn/question/638789",
      "pubDate": "Tue, 17 Nov 2026 06:06:51 +0000",
      "summary": "我们在哥伦比亚做 COD 小包，起量阶段日均 800 单左右，物流用本地一家末端派送商加波哥大自有骑手，团队 12 人。近两个月末端签收率从 85% 掉到 71%，拒收集中在麦德林和卡利，平均妥投时长从 3.2 天拉到 5.6 天，COD 回款周期也从 T+7 变成 T+15，现金流开始吃紧。已经试过换地址确认话术、加二次派送和 WhatsApp 预约，效果都不明显，卡在不知道是派送商分拣问题还是本地地址库质量。这种情况下该先换末端服务商还是先改回款账期结构？",
      "source": "白鲸出海",
      "zh": "哥伦比亚末端派送签收率只有七成，回款周期被拉长怎么办？"
-    },
-    {
-     "title": "消息称三星电子为 Meta 开发基于 HBM4E 的定制 HBM，配备 2nm 基础裸片",
-     "link": "https://www.ithome.com/1/028/234.htm",
-     "pubDate": "Tue, 17 Nov 2026 06:02:15 GMT",
-     "summary": "IT之家 11 月 17 日消息，韩媒 the bell 当地时间本月 13 日报道称，三星电子正为 Meta 专有 ASIC 项目开发定制 HBM 内存。这一产品基于标准 HBM4E，但配备定制基础裸片 (Base Die)。 三星电子直到 HBM5 才会在通用 HBM 上使用基于自家 2nm 工艺的基础裸片，而 Meta 的定制 HBM 将先行导入更先进的逻辑制程 ，为容纳 Meta 定制功能留出更多空间，释放 XPU 主芯片面积。 报道指出， HBM 内存的定制前期将聚焦于 HBM 与 XPU 的通信接口 。而为了响应 NVIDIA 等客户的需求， 三星电子也正为自家 HBM DRAM ",
-     "source": "IT之家",
-     "zh": "消息称三星电子为 Meta 开发基于 HBM4E 的定制 HBM，配备 2nm 基础裸片"
     },
     {
      "title": "Chewy Promo Codes: 25% Off November 2026",
@@ -1922,14 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI 写作工具在巴西墨西哥订阅拒付率偏高，只有两个人怎么排期处理？"
     },
     {
-     "title": "日本站日语客服外包，退货率压不下来该换供应商还是换模式？",
-     "link": "https://www.baijing.cn/question/638785",
-     "pubDate": "Tue, 17 Nov 2026 05:24:18 +0000",
-     "summary": "日本站做小家电配件，月订单约1.8万单，退货率一直在9%左右，其中近四成原因是“说明书看不懂、不会用”。目前客服外包给大连一家日语团队，按坐席月付约2.4万元，响应没问题，但退货挽单基本为零。试过补发日文图文卡片、把FAQ搬进邮件模板，退货率只降到8.6%。现在纠结：是换一家带日语电话挽单的外包，还是自建2人日语客服盯退货环节？从备货和退货成本看，哪种更划算？",
-     "source": "白鲸出海",
-     "zh": "日本站日语客服外包，退货率压不下来该换供应商还是换模式？"
-    },
-    {
      "title": "Uber的备胎，Zoox的跳板",
      "link": "https://www.huxiu.com/article/4906201.html?f=rss",
      "pubDate": "Tue, 17 Nov 2026 13:24:12 +0800",
@@ -1938,12 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Uber的备胎，Zoox的跳板"
     },
     {
-     "title": "英国站FBA仓储配送费吃掉毛利，跨境卖家该转海外仓还是提价？",
-     "link": "https://www.baijing.cn/question/638784",
-     "pubDate": "Tue, 17 Nov 2026 05:14:12 +0000",
-     "summary": "欧洲五国站点里英国仓配成本最扎手：我们做小家电配件，英国站月销约1200单，客单价18英镑，去年Q4起FBA配送费加月度仓储费合计吃掉毛利的34%，比德国站高近10个点。试过把慢动销SKU转第三方海外仓，但英国本地尾程派送时效从次日掉到3-5天，差评率升到2.1%，回款周期也从14天拖到21天。现在卡在继续扛FBA费率还是切海外仓保利润，想直接问：英国站月销千单这个量级，仓配成本占毛利多少就该果断换履约方式？",
-     "source": "白鲸出海",
-     "zh": "英国站FBA仓储配送费吃掉毛利，跨境卖家该转海外仓还是提价？"
+     "title": "蔚来汽车：网传抹黑财务经营信息不实，已向公安机关报案",
+     "link": "https://www.ithome.com/1/028/228.htm",
+     "pubDate": "Tue, 17 Nov 2026 05:16:46 GMT",
+     "summary": "IT之家 11 月 17 日消息，蔚来汽车今日发布《关于针对蔚来公司恶意造谣信息的严正声明》，回应网络上有关公司财务经营情况的传言。 蔚来表示，相关传言纯属恶意捏造的虚假信息，与事实严重不符。蔚来披露称，2026 年 1~10 月，公司累计交付新车 334547 台，同比增长 38.5%，创历史新高。 在现金储备方面，蔚来称，截至 2026 年第二季度末，公司现金储备达到 567 亿元，较 2025 年底增加 108 亿元，为公司经营发展提供支撑。 根据蔚来此前公布的 2026 年第二季度财报，截至 6 月 30 日，公司现金及现金等价物、受限制现金、短期投资和长期定期存款合计为 567 亿元",
+     "source": "IT之家",
+     "zh": "蔚来汽车：网传抹黑财务经营信息不实，已向公安机关报案"
     },
     {
      "title": "一年少了约30万名学生：韩国补习市场大退潮？",
@@ -1978,22 +2002,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国成“卖血帝国”？说法存疑"
     },
     {
-     "title": "今年最火的“过冬战袍”，把冲锋衣挤下桌",
-     "link": "https://www.huxiu.com/article/4906192.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 12:07:52 +0800",
-     "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 当一群人在超市抢购百元羽绒服，另一群人开始扒拉出一种体面穿搭——皮草。 在小红书，第一批预备过冬的人，把海宁皮革城逛成时尚码头。他们手握小红书攻略、抖音比价视频，冲到线下，本着花小钱办大事的原则，置办过冬的行头。 作为古早网红，今年冬天皮草的声势“卷土重来”。 根据千瓜数据，近30天（10月6日-11月5日），小红书上皮草相关的笔记有14.32万篇，突破10万大关，成为热门品类。虽然不及羽绒服，但已经超过了冲锋衣、羊绒大衣等当季热门单品。 销售额翻了2.5倍，皮草悄悄上桌 海量的社媒讨论背后，是人们在花真金白银买皮草。 根据天猫双11发",
-     "source": "虎嗅",
-     "zh": "今年最火的“过冬战袍”，把冲锋衣挤下桌"
-    },
-    {
-     "title": "男性站着尿比坐着尿更健康？随机试验发现差异不显著",
-     "link": "https://www.huxiu.com/article/4906191.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 12:07:13 +0800",
-     "summary": "本文来自微信公众号： 环球科学科研圈 ，作者：环球科学科研圈 男人上厕所该站着还是坐着，这个问题在不少家庭里引发过争论，理由通常和马桶圈的卫生有关。在德国，坐着小便的男人甚至有个专门的称呼“Sitzpinkler”，字面意思是“坐着尿尿的人”，常被用来调侃男人不够爷们儿。尽管如此，在一项2023年对13个国家7000多名男性的调查中，德国男性里有40%说自己每次小便都坐着，比例在各国中最高；在美国，这一比例只有10%。 撇开卫生和面子，从医学角度看，更值得人们关心的是排尿姿势会不会影响膀胱的“工作表现”。最近，哥伦比亚泌尿学研究小组（CURG）的胡安·伊雷吉-帕拉（Juan Iregui-Pa",
-     "source": "虎嗅",
-     "zh": "男性站着尿比坐着尿更健康？随机试验发现差异不显著"
-    },
-    {
      "title": "“学霸”自首AI作弊，韩国高考紧急布防",
      "link": "https://www.tmtpost.com/8208106.html",
      "pubDate": "Tue, 17 Nov 2026 12:03:54 +0800",
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "中国AI的效率之战。",
      "source": "钛媒体",
      "zh": "下跌周期中的MinMax：早期投资者和闫俊杰的AI畅谈"
-    },
-    {
-     "title": "Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with \"basically no human intervention\", vs. the usual 6-12 months (Shane Downing/Tom&apos;s Hardware)",
-     "link": "https://www.techmeme.com/261116/p52#a261116p52",
-     "pubDate": "Mon, 16 Nov 2026 23:02:44 -0500",
-     "summary": "Shane Downing / Tom's Hardware : Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with &ldquo;basically no human intervention&rdquo;, vs. the usual 6-12 months &nbsp; &mdash;&nbsp; If AI can write the low-level code that ties models to Nvidia, CUDA matters le",
-     "source": "Techmeme",
-     "zh": "Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with \"basically no human intervention\", vs. the usual 6-12 months (Shane Downing/Tom&apos;s Hardware)"
     }
    ]
   },
@@ -2274,6 +2274,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Goldman Sachs banker landed Pentagon deal work after official's push, report says",
+     "link": "https://seekingalpha.com/news/4673443-goldman-sachs-banker-landed-pentagon-deal-work-after-officials-push-report-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 01:15:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Goldman Sachs banker landed Pentagon deal work after official's push, report says"
+    },
+    {
      "title": "Visa, Mastercard seek to end 21-year merchant dispute with $38B deal - report",
      "link": "https://seekingalpha.com/news/4673436-visa-mastercard-seek-to-end-21-year-merchant-dispute-with-38b-deal---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 01:03:54 -0500",
@@ -2282,12 +2290,60 @@ window.INDUSTRY_DATA = {
      "zh": "Visa, Mastercard seek to end 21-year merchant dispute with $38B deal - report"
     },
     {
+     "title": "APEC时间｜深圳科技“地陪”走红，华强北成“顶流”打卡点",
+     "link": "http://www.eeo.com.cn/2026/1117/1095001.shtml",
+     "pubDate": "Tue, 17 Nov 2026 14:01:42 +0800",
+     "summary": "“华强北是深圳科技游线路里的‘顶流’，我今年接待的客户基本都会指定前往。”11月15日，一位以英文服务为主的深圳导游告诉记者。",
+     "source": "经济观察网",
+     "zh": "APEC时间｜深圳科技“地陪”走红，华强北成“顶流”打卡点"
+    },
+    {
      "title": "RBA minutes signal higher hurdle for future hikes after 6-3 vote lifts cash rate to 4.85%",
      "link": "https://seekingalpha.com/news/4673437-rba-minutes-signal-higher-hurdle-for-future-hikes-after-6-3-vote-lifts-cash-rate-to-485?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 01:00:31 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "RBA minutes signal higher hurdle for future hikes after 6-3 vote lifts cash rate to 4.85%"
+    },
+    {
+     "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
+     "link": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 06:00:07 GMT",
+     "summary": "Millions of leaked documents cast light on Christian Sewing’s leadership of the scandal-hit lender",
+     "source": "Financial Times",
+     "zh": "‘Katastrophe’: inside the chaos at Germany’s biggest bank"
+    },
+    {
+     "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+     "link": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 06:00:06 GMT",
+     "summary": "Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing",
+     "source": "Financial Times",
+     "zh": "Leak of 15mn Deutsche Bank files exposes systemic failures"
+    },
+    {
+     "title": "An ‘awful mistake’ that leaked Trump’s tax statements",
+     "link": "https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 06:00:06 GMT",
+     "summary": "Data breach in 2017 was described internally as an ‘awful mistake’ by Christian Sewing, then head of lender’s private bank",
+     "source": "Financial Times",
+     "zh": "An ‘awful mistake’ that leaked Trump’s tax statements"
+    },
+    {
+     "title": "How DB lost its bet on Putin’s Russia",
+     "link": "https://www.ft.com/content/bf775dda-4148-49f9-a8b4-a4a02f44207e?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 06:00:06 GMT",
+     "summary": "Compliance staff had raised concerns as executives pushed for profits, growth and new business with Russian oligarchs",
+     "source": "Financial Times",
+     "zh": "How DB lost its bet on Putin’s Russia"
+    },
+    {
+     "title": "APEC时间｜中国航运下一程：从“硬联通”走向“软联通”",
+     "link": "http://www.eeo.com.cn/2026/1117/1095018.shtml",
+     "pubDate": "Tue, 17 Nov 2026 13:58:31 +0800",
+     "summary": "APEC深圳会议将推动亚太贸易网络扩容和规则对接，随着大湾区航线加密、货物流向拓宽，航运物流需求随之提升，也会对供应链韧性和数字互联提出更高要求。",
+     "source": "经济观察网",
+     "zh": "APEC时间｜中国航运下一程：从“硬联通”走向“软联通”"
     },
     {
      "title": "全球股市四连跌，韩股下挫2%，英伟达盘前维持低位，油价下跌",
@@ -2338,22 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Situational Awareness hedge fund doubled down on AI stakes before October slump"
     },
     {
-     "title": "Vivos Therapeutics GAAP EPS of -$0.07 beats by $0.25, revenue of $6.41M beats by $0.94M",
-     "link": "https://seekingalpha.com/news/4673435-vivos-therapeutics-gaap-eps-of--007-beats-by-025-revenue-of-641m-beats-by-094m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 00:22:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vivos Therapeutics GAAP EPS of -$0.07 beats by $0.25, revenue of $6.41M beats by $0.94M"
-    },
-    {
-     "title": "Tech sell-off deepens as Nvidia results loom",
-     "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 05:06:24 GMT",
-     "summary": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out",
-     "source": "Financial Times",
-     "zh": "Tech sell-off deepens as Nvidia results loom"
-    },
-    {
      "title": "工行廖林谈银行AI三考题：进入交易、审贷，持续投入",
      "link": "https://wallstreetcn.com/articles/3786082",
      "pubDate": "Tue, 17 Nov 2026 13:01:22 +0800",
@@ -2376,30 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "Several factors have converged to strengthen the investment case for hyperscalers",
      "source": "Financial Times",
      "zh": "The AI sell-off makes sense. Staying bearish may not"
-    },
-    {
-     "title": "Do we really want to make our work machine-readable?",
-     "link": "https://www.ft.com/content/9df59321-a7a0-4ed7-b02f-60cfc5fdcb2e?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 05:00:25 GMT",
-     "summary": "Centralising corporate information in an AI system would redistribute power in potentially disruptive ways",
-     "source": "Financial Times",
-     "zh": "Do we really want to make our work machine-readable?"
-    },
-    {
-     "title": "Banks seek to curb AI debt exposure as backlash mounts",
-     "link": "https://www.ft.com/content/2351d9db-e938-4102-a449-318b1037765a?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 05:00:14 GMT",
-     "summary": "Lenders are offloading debt tied to data centres and chips as public opposition threatens to derail mega projects",
-     "source": "Financial Times",
-     "zh": "Banks seek to curb AI debt exposure as backlash mounts"
-    },
-    {
-     "title": "Nvidia’s interim CEO Colette Kress to make her debut at first earnings",
-     "link": "https://www.ft.com/content/424e5ab0-517e-4f8e-a286-df7c67fa05a6?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 05:00:14 GMT",
-     "summary": "Successor to founder Jensen Huang will have to ease investors’ anxiety about AI chipmaker’s future",
-     "source": "Financial Times",
-     "zh": "Nvidia’s interim CEO Colette Kress to make her debut at first earnings"
     },
     {
      "title": "10月失业率降到5.1% 就业大局稳住了",
@@ -2496,22 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "记者从国家药监局获悉，最新发布的药品抽检通告显示，经过天津市药品检验研究院等7家药品检验机构检验，标示为北京 同仁堂 股份有限公司 同仁堂 制药厂等17家药企生产的27批次药品不符合规定，这27批次药品的含水量、药品中存在可见异物，以及活性药物的溶出速度和程度等指标，达不到我国药品的规定要求。 通告显示，这17家药企生产的27批次药品包括： 一、经天津市药品检验研究院检验，标示为郑州卓峰制药有限公司、楚雄老拨云堂药业有限公司生产的4批次加替沙星滴眼液，存在可见异物，不符合规定。 二、经江苏省药品监督检验研究院检验，标示为武汉华龙生物制药有限公司生产的5批次聚明胶肽注射液，热原和可见异物等项目均",
      "source": "东方财富资讯",
      "zh": "国家药监局：北京同仁堂等17家药企27批次药品不符合规定"
-    },
-    {
-     "title": "HBM扩产潮叠加日系涨价 光刻胶国产替代迎关键窗口期 多股获融资客抢筹(名单)",
-     "link": "http://finance.eastmoney.com/news/11139,202611173932752992.html",
-     "pubDate": "Tue, 17 Nov 2026 12:06:28 +0800",
-     "summary": "三大存储巨头11月齐扩HBM产能，日系 光刻胶 巨头涨价限售叠加，国产替代节奏持续加快。机构认为，高端 光刻胶 国产化正迎来关键窗口期。 HBM扩产潮叠加日系涨价限售 国产替代节奏持续加快 存储端扩产潮为 光刻胶 需求再添新动能。11月17日，据界面新闻报道， 三星预计到2027年HBM4产量将比去年增加至少两倍 ，月均晶圆投入量从约18万张提升至约25万张； 美光科技 则准备将HBM整体产能较去年翻一番。前一日， SK海力士 被曝进一步扩产HBM4，正洽谈设备采购事宜，预计明年上半年投产， 高盛 预计2027年HBM价格将出现更大幅度上涨。 HBM制造高度依赖浸没式ArF光刻胶，三大存储巨头",
-     "source": "东方财富资讯",
-     "zh": "HBM扩产潮叠加日系涨价 光刻胶国产替代迎关键窗口期 多股获融资客抢筹(名单)"
-    },
-    {
-     "title": "与高盛唱反调？大摩展望2027中国股市：A股优于离岸，港股面临流动性挑战",
-     "link": "https://wallstreetcn.com/articles/3786078",
-     "pubDate": "Tue, 17 Nov 2026 11:56:07 +0800",
-     "summary": "摩根士丹利对2027年中国股市的判断，与高盛形成鲜明对照。 11月15日，据追风交易台消息，摩根士丹利发布的2027年中国股票策略展望报告，该行维持MSCI中国等权重评级，同时明确偏好A股优于港股等离岸市场，理由是A股在新兴前沿产业的代表性更强，且有资金支撑。与此同时， 高盛于11月16日发布的同期报告则将港股上调至超配、A股下调至中性 ，两家机构在A/H股相对配置上的判断方向截然相反。 该行策略师Laura Wang等设定2027年底基准目标： 恒生指数26000点（较11月12日收盘价上行8%）、国企指数8700点（上行8%）、MSCI中国76点（上行11%）、沪深300指数4550点（上",
-     "source": "华尔街见闻",
-     "zh": "与高盛唱反调？大摩展望2027中国股市：A股优于离岸，港股面临流动性挑战"
     }
    ]
   },

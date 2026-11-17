@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 17:31:55",
+ "generated_at": "2026/11/17 17:52:03",
  "recent_days": 7,
  "industries": [
   {
@@ -666,6 +666,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Bentley’s First EV Is Already Sold Out, And Production Hasn’t Even Started",
+     "link": "https://insideevs.com/news/815694/bentley-torcal-sold-out-2027-official/",
+     "pubDate": "Tue, 17 Nov 2026 09:42:55 +0000",
+     "summary": "Customers of the $220,000+ Bentley Torcal who order now will need to wait until 2028 to get their cars.",
+     "source": "InsideEVs",
+     "zh": "Bentley’s First EV Is Already Sold Out, And Production Hasn’t Even Started"
+    },
+    {
+     "title": "Nio schedules Q3 earnings for December 1 after deliveries rise 25.4%",
+     "link": "https://cnevpost.com/2026/11/17/nio-schedules-q3-earnings-dec-1/",
+     "pubDate": "Tue, 17 Nov 2026 09:38:55 +0000",
+     "summary": "Nio Inc delivered 109,178 vehicles in the third quarter, meeting its previous guidance. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Nio schedules Q3 earnings for December 1 after deliveries rise 25.4%"
+    },
+    {
      "title": "Li Auto CEO says Mach M100 chips will gradually be offered to outside customers as robotics firms show interest",
      "link": "https://cnevpost.com/2026/11/17/li-auto-mach-m100-chips-will-be-offered-to-outside-customers/",
      "pubDate": "Tue, 17 Nov 2026 08:52:47 +0000",
@@ -810,22 +826,6 @@ window.INDUSTRY_DATA = {
      "zh": "Audi A2 e-tron First Drive: Does The Iconic Nameplate Live Up To The Hype?"
     },
     {
-     "title": "I Tried Mercedes' Answer To Tesla FSD. Here's How It Went",
-     "link": "https://insideevs.com/reviews/815471/mercedes-drive-assist-pro-review/",
-     "pubDate": "Mon, 16 Nov 2026 14:00:00 +0000",
-     "summary": "The point-to-point assistant can handle traffic lights, pedestrians, cyclists, and navigation duties. But it's not technically self-driving.",
-     "source": "InsideEVs",
-     "zh": "I Tried Mercedes' Answer To Tesla FSD. Here's How It Went"
-    },
-    {
-     "title": "FAW-VW opens reservations for ID. AURA L5 electric sedan with 580 km CLTC range",
-     "link": "https://cnevpost.com/2026/11/16/faw-vw-opens-reservations-id-aura-l5/",
-     "pubDate": "Mon, 16 Nov 2026 12:10:09 +0000",
-     "summary": "The ID. AURA L5 is the second model in FAW-Volkswagen's ID. AURA lineup, following the T6 SUV launched in September. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "FAW-VW opens reservations for ID. AURA L5 electric sedan with 580 km CLTC range"
-    },
-    {
      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
      "link": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
      "pubDate": "Mon, 16 Nov 2026 12:00:00 +0000",
@@ -865,6 +865,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Dutch researchers develop LEGO-like solar blocks combining luminescent concentrators and perovskite PV cells",
+     "link": "https://www.pv-magazine.com/2026/11/17/dutch-researchers-develop-lego-like-solar-blocks-combining-luminescent-concentrators-and-perovskite-pv-cells/",
+     "pubDate": "Tue, 17 Nov 2026 09:38:40 +0000",
+     "summary": "The integration of perovskite PV cells will enable the colourful blocks to convert concentrated light into electricity, with expected efficiencies below 10%. Initial applications will target educational kits, with longer-term potential for building-integrated photovoltaics and urban infrastructure. ",
+     "source": "pv magazine",
+     "zh": "Dutch researchers develop LEGO-like solar blocks combining luminescent concentrators and perovskite PV cells"
+    },
     {
      "title": "Power Electronics supplies grid-forming PCS for Edify’s 2.4GWh hybrids in Australia",
      "link": "https://www.energy-storage.news/power-electronics-grid-forming-pcs-edify-energy-smoky-creek-guthries-gap-queensland/",
@@ -1026,14 +1034,6 @@ window.INDUSTRY_DATA = {
      "zh": "Permitting reform is a big, controversial bet for the energy transition"
     },
     {
-     "title": "Solar recycling 2.0",
-     "link": "https://www.pv-magazine.com/2026/11/16/solar-recycling-2-0/",
-     "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
-     "summary": "Millions of solar panels will soon reach the end of their useful lives across the globe, not least in the United States where companies are in a race to deploy novel processes to capture and monetize as much material from these modules as they can. The post Solar recycling 2.0 appeared first on pv m",
-     "source": "pv magazine",
-     "zh": "Solar recycling 2.0"
-    },
-    {
      "title": "Spain’s grid constraints have cost renewables €140m since 2025 blackout",
      "link": "https://www.pv-tech.org/wood-mackenzie-spain-renewables-140-million-grid-constraints-2025-blackout/",
      "pubDate": "Mon, 16 Nov 2026 16:58:13 +0000",
@@ -1045,7 +1045,7 @@ window.INDUSTRY_DATA = {
      "title": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
      "link": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
      "pubDate": "Mon, 16 Nov 2026 11:21:32 -0500",
-     "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at&nbsp;$1,400/kW, while NRG is &ldquo;developing 1.5 GW of new natural gas generation in Texas&rdquo;&nbsp;for just above $1,000/kW.",
+     "summary": "NRG Energy CEO Robert Gaudette said the sale values one 1.2-GW Texas gas plant at&nbsp;$1,400/KW, while NRG is &ldquo;developing 1.5 GW of new natural gas generation in Texas for just above $1,000/KW.&rdquo;",
      "source": "Utility Dive",
      "zh": "NRG to sell 4.9 GW of gas plants to LS Power for $4B"
     },
@@ -1114,6 +1114,38 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
+     "link": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
+     "pubDate": "Tue, 17 Nov 2026 09:30:00 +0000",
+     "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
+     "source": "STAT News",
+     "zh": "STAT+: After death in gene therapy trial for a brain disease, progress is reported"
+    },
+    {
+     "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
+     "link": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
+     "pubDate": "Tue, 17 Nov 2026 09:30:00 +0000",
+     "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
+     "source": "STAT News",
+     "zh": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates"
+    },
+    {
+     "title": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals",
+     "link": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
+     "pubDate": "Tue, 17 Nov 2026 09:30:00 +0000",
+     "summary": "“Hospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.”",
+     "source": "STAT News",
+     "zh": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals"
+    },
+    {
+     "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
+     "link": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
+     "pubDate": "Tue, 17 Nov 2026 09:30:00 +0000",
+     "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
+     "source": "STAT News",
+     "zh": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that"
+    },
+    {
      "title": "Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model",
      "link": "https://www.genengnews.com/topics/translational-medicine/enhancer-targeted-crispr-turns-up-healthy-gene-copy-in-autism-organoid-model/",
      "pubDate": "Mon, 16 Nov 2026 23:50:32 +0000",
@@ -1170,28 +1202,12 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche"
     },
     {
-     "title": "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs",
-     "link": "https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/?utm_campaign=rss",
-     "pubDate": "Mon, 16 Nov 2026 19:59:14 +0000",
-     "summary": "A proposal by the Trump administration to cap the amount of time foreign students and scholars can spend in the country has been struck down in court.",
-     "source": "STAT News",
-     "zh": "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs"
-    },
-    {
      "title": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market",
      "link": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
      "pubDate": "Mon, 16 Nov 2026 19:17:34 +0000",
      "summary": "AstraZeneca and Alexion won FDA approval Monday for their self-administered generalized myasthenia gravis (gMG) drug Klygefa. The drug, also known as gefurulimab, is a once-weekly treatment for patients who have anti-acetylcholine receptor antibodies, a harmful ...",
      "source": "Endpoints News",
      "zh": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market"
-    },
-    {
-     "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
-     "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
-     "pubDate": "Mon, 16 Nov 2026 18:54:06 +0000",
-     "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
-     "source": "STAT News",
-     "zh": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC"
     },
     {
      "title": "Helus Pharma notches successful Phase 3 depression readout",
@@ -1202,36 +1218,12 @@ window.INDUSTRY_DATA = {
      "zh": "Helus Pharma notches successful Phase 3 depression readout"
     },
     {
-     "title": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity",
-     "link": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss",
-     "pubDate": "Mon, 16 Nov 2026 18:18:25 +0000",
-     "summary": "How obesity medications may become the next big battleground over access to medicines in lower-income countries.",
-     "source": "STAT News",
-     "zh": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity"
-    },
-    {
-     "title": "STAT+: NIAID acting head John Powers III appointed as the permanent director",
-     "link": "https://www.statnews.com/2026/11/16/john-powers-appointed-niaid-director/?utm_campaign=rss",
-     "pubDate": "Mon, 16 Nov 2026 17:47:11 +0000",
-     "summary": "The acting director of NIAID, John Powers III, will become the permanent director, the agency announced Monday.",
-     "source": "STAT News",
-     "zh": "STAT+: NIAID acting head John Powers III appointed as the permanent director"
-    },
-    {
      "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
      "link": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
      "pubDate": "Mon, 16 Nov 2026 12:14:00 -0500",
      "summary": "The FDA refused to overlook ivonescimab&rsquo;s failure to initially extend survival in a form of lung cancer, setting back Summit&rsquo;s first chance to win a U.S. approval.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug"
-    },
-    {
-     "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
-     "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
-     "pubDate": "Mon, 16 Nov 2026 12:00:00 -0500",
-     "summary": "CG&rsquo;s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street&rsquo;s expectations and lifting company shares.&nbsp;",
-     "source": "BioPharma Dive",
-     "zh": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial"
     },
     {
      "title": "J&J bets $2.2B on Ollin’s vision loss drug",
@@ -1288,6 +1280,14 @@ window.INDUSTRY_DATA = {
      "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.",
      "source": "BioPharma Dive",
      "zh": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging"
+    },
+    {
+     "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
+     "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
+     "pubDate": "Mon, 16 Nov 2026 05:00:00 -0500",
+     "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
+     "source": "BioPharma Dive",
+     "zh": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment"
     },
     {
      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
@@ -1562,6 +1562,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+     "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+     "pubDate": "Tue, 17 Nov 2026 04:44:22 -0500",
+     "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+     "source": "BleepingComputer",
+     "zh": "Court clears brothers of $25 million Ethereum crypto heist charges"
+    },
+    {
      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
      "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
      "pubDate": "Tue, 17 Nov 2026 03:35:42 -0500",
@@ -1632,14 +1640,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
      "source": "BleepingComputer",
      "zh": "Google Project Zero cuts bug disclosures to 30 days amid AI threats"
-    },
-    {
-     "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-     "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-     "pubDate": "Mon, 16 Nov 2026 15:59:44 -0500",
-     "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organi",
-     "source": "BleepingComputer",
-     "zh": "California sues OpenAI over AI agents escaping sandboxes, hacking firms"
     },
     {
      "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
@@ -1786,6 +1786,14 @@ window.INDUSTRY_DATA = {
      "zh": "阔折叠 VS 大折叠：消息称明年安卓新机阵营也有两种形态并行"
     },
     {
+     "title": "浦江科技评论｜AI伴侣的孤独陷阱",
+     "link": "https://www.huxiu.com/article/4906257.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 17:25:23 +0800",
+     "summary": "本文来自微信公众号： 猫头鹰科技社 ，作者：浦江科技评论，原文标题：《浦江科技评论｜AI伴侣的孤独陷阱》 ｜浦江科技评论·PUJIANG TECHNOLOGY REVIEW｜ AI伴侣的核心卖点是随叫随到的陪伴，但这种陪伴是否真正有效？斯坦福大学一项基于46万条真实聊天记录的研究发现，对于社交网络薄弱的人，这种陪伴不仅没有缓解孤独，反而让孤独加剧。 - 一个24小时在线、永远温柔、从不拒绝你的AI伴侣，听起来似乎是缓解孤独的完美方案。然而，这可能只是一种违反直觉的幻觉。 2026年8月4日，美国斯坦福大学杨迪一（Diyi Yang）团队在《自然·人类行为》（Nature Human Behav",
+     "source": "虎嗅",
+     "zh": "浦江科技评论｜AI伴侣的孤独陷阱"
+    },
+    {
      "title": "药明康德超预期背后：把科学的偶然，变成工业的必然",
      "link": "https://www.tmtpost.com/8207991.html",
      "pubDate": "Tue, 17 Nov 2026 17:21:57 +0800",
@@ -1922,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "腾讯音乐 2026 财年前三季度归母净利润 67.16 亿元，同比下降 24.14%"
     },
     {
-     "title": "为什么BLG夺冠，没有EDG那么“疯”了",
-     "link": "https://www.huxiu.com/article/4906015.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 17:01:57 +0800",
-     "summary": "BLG捧回了阔别五年的世界冠军，可这场热闹，为什么没像2021年EDG那样烧到圈外？人换了，平台散了，电竞也长大了。你更怀念哪一种欢呼？",
-     "source": "虎嗅",
-     "zh": "为什么BLG夺冠，没有EDG那么“疯”了"
-    },
-    {
      "title": "亚马逊宣布减排新目标：到 2030 年，电力碳排放强度较 2019 年下降 65%",
      "link": "https://www.ithome.com/1/028/416.htm",
      "pubDate": "Tue, 17 Nov 2026 08:59:08 GMT",
@@ -2026,6 +2026,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Wear OS watches can now use your phone’s GPS to save battery life",
+     "link": "https://www.androidauthority.com/wear-os-phone-gps-save-battery-life-google-play-services-update-3735821/",
+     "pubDate": "Tue, 17 Nov 2026 09:28:36 +0000",
+     "summary": "There's finally a reason to carry your phone with you on your outdoor workouts.",
+     "source": "Android Authority",
+     "zh": "Wear OS watches can now use your phone’s GPS to save battery life"
+    },
+    {
      "title": "iPhone Duo gets face unlock feature in latest iOS 27.3 beta",
      "link": "https://www.gsmarena.com/iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502.php",
      "pubDate": "Tue, 17 Nov 2026 10:11:02 +0100",
@@ -2104,14 +2112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Leaked Galaxy S27 Pro and Ultra subtly hint at a class divide with the base and Plus models.",
      "source": "Android Authority",
      "zh": "The Galaxy S27 Pro and Ultra aren’t out yet, but you can already download their wallpapers"
-    },
-    {
-     "title": "Apple brings camera-based Face ID to iPhone Duo, but too bad it didn’t copy Pixels",
-     "link": "https://www.androidauthority.com/apple-iphone-duo-camera-face-id-3735808/",
-     "pubDate": "Tue, 17 Nov 2026 06:48:41 +0000",
-     "summary": "Apple is following Android OEMs by offering camera-based face unlock on the iPhone Duo.",
-     "source": "Android Authority",
-     "zh": "Apple brings camera-based Face ID to iPhone Duo, but too bad it didn’t copy Pixels"
     },
     {
      "title": "Apple adds new disk controls to prevent AI agents from running amok",
@@ -2274,6 +2274,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Michael Burry boosts Adobe stake, exits Oracle, Caterpillar puts",
+     "link": "https://seekingalpha.com/news/4673460-michael-burry-boosts-adobe-stake-exits-oracle-caterpillar-puts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 04:39:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Michael Burry boosts Adobe stake, exits Oracle, Caterpillar puts"
+    },
+    {
+     "title": "Here’s how much of Deutsche Bank’s market cap has been wiped away after reports on 15 million leaked documents",
+     "link": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 09:35:00 GMT",
+     "summary": "Deutsche Bank saw as much as €3.8 billion ($4.2 billion) of its market cap wiped away after a team of media organizations wrote about a trove of 15 million leaked documents.",
+     "source": "MarketWatch",
+     "zh": "Here’s how much of Deutsche Bank’s market cap has been wiped away after reports on 15 million leaked documents"
+    },
+    {
+     "title": "林肯布局“智擎超混”新能源  飞行家EX8将于2027年上半年上市",
+     "link": "http://www.eeo.com.cn/2026/1117/1095317.shtml",
+     "pubDate": "Tue, 17 Nov 2026 17:34:39 +0800",
+     "summary": "林肯希望能够给用户带来更全面的新能源用车体验，而非“为了新能源而新能源”。",
+     "source": "经济观察网",
+     "zh": "林肯布局“智擎超混”新能源  飞行家EX8将于2027年上半年上市"
+    },
+    {
      "title": "Bunge expands blockchain soy traceability to Vietnam",
      "link": "https://seekingalpha.com/news/4673519-bunge-expands-blockchain-soy-traceability-to-vietnam?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 04:26:00 -0500",
@@ -2322,20 +2346,20 @@ window.INDUSTRY_DATA = {
      "zh": "DOJ set to review DoorDash-Instacart deal - report"
     },
     {
-     "title": "Weibo Non-GAAP EPS of $0.06 misses by $0.17, revenue of $410.2M misses by $4.79M",
-     "link": "https://seekingalpha.com/news/4673515-weibo-non-gaap-eps-of-006-misses-by-017-revenue-of-4102m-misses-by-479m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 04:08:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Weibo Non-GAAP EPS of $0.06 misses by $0.17, revenue of $410.2M misses by $4.79M"
-    },
-    {
      "title": "中国烹饪协会：10月全国餐饮收入5235亿元，同比增长0.7%",
      "link": "http://www.eeo.com.cn/2026/1117/1095245.shtml",
      "pubDate": "Tue, 17 Nov 2026 16:54:18 +0800",
      "summary": "2026年10月，全国餐饮收入5235亿元，同比增长0.7%，增速较9月回落1.4个百分点；限额以上单位餐饮收入1459亿元，同比下降2.9%，由9月的正增长再度转负。",
      "source": "经济观察网",
      "zh": "中国烹饪协会：10月全国餐饮收入5235亿元，同比增长0.7%"
+    },
+    {
+     "title": "South Korea will suspend all aircraft operation for 35 minutes and markets will open late. Here’s why",
+     "link": "https://www.cnbc.com/2026/11/17/south-korea-suspend-aircraft-exam-markets.html",
+     "pubDate": "Tue, 17 Nov 2026 08:39:17 GMT",
+     "summary": "South Korea will suspend aircraft takeoffs and landings nationwide for 35 minutes on Thursday to minimize noise during a college entrance exam.",
+     "source": "CNBC",
+     "zh": "South Korea will suspend all aircraft operation for 35 minutes and markets will open late. Here’s why"
     },
     {
      "title": "Treasury yields are broadly flat as investors await retail sales data",
@@ -2488,30 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "美东时间周二盘后，全球最重要的 AI芯片 龙头 英伟达 即将发布财报——而这恰好是公司前CEO黄仁勋刚刚下台之际。 在这次财报会上，公司CFO、临时CEO科莱特·克雷斯将临危受命扛起大梁，负责主持投资者电话会议。显而易见的是，华尔街分析师们将提出大量问题，询问她打算如何推进工作，并寻找公司管理层前景变动的线索。 与此同时，在黄仁勋离开后， 英伟达 公司对于未来业绩前景的指引，也将成为市场的关注点之一。 目前几乎可以确定的一点： 英伟达 股价将维持高波动。据彭博汇总数据，期权市场定价显示，财报发布后，该股双向波动幅度预期达到7.8%。 看点一：英伟达管理层的未来怎么走？ 对于华尔街来说，本次财报",
      "source": "东方财富资讯",
      "zh": "英伟达财报会明早来袭：“后黄仁勋时代”首次大考 市场聚焦四大看点"
-    },
-    {
-     "title": "AI暴跌前，华尔街大佬分道扬镳：桥水、索罗斯Q3大砍英伟达持仓，“木头姐”、Tepper逆势加码，德鲁肯米勒清仓闪迪、台积电",
-     "link": "https://wallstreetcn.com/articles/3786088",
-     "pubDate": "Tue, 17 Nov 2026 15:17:26 +0800",
-     "summary": "随着2026年三季度13F文件集中披露，全球顶级投资机构的持仓调整路径浮出水面——英伟达遭遇机构史上罕见的大分流，桥水转向AI硬件产业链，索罗斯完成\"芯片内部换仓\"，Druckenmiller大举清仓半导体并转向黄金与SpaceX，伯克希尔则继续远离科技追逐，坚守地产与航空。 这批截至9月30日的持仓报告， 恰好卡在一个高度敏感的时间节点： 英伟达CEO黄仁勋于11月12日被董事会解除职务，股价随之剧烈波动。而这一切，均发生在三季度持仓数据所反映的时间窗口之后。据holdingsintel.com汇总的497家机构13F数据， 英伟达成为本季度分歧最大的单一标的 ——减持方阵容包括Sixth ",
-     "source": "华尔街见闻",
-     "zh": "AI暴跌前，华尔街大佬分道扬镳：桥水、索罗斯Q3大砍英伟达持仓，“木头姐”、Tepper逆势加码，德鲁肯米勒清仓闪迪、台积电"
-    },
-    {
-     "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-     "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
-     "pubDate": "Tue, 17 Nov 2026 07:07:35 GMT",
-     "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
-     "source": "CNBC",
-     "zh": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC"
-    },
-    {
-     "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
-     "link": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
-     "pubDate": "Tue, 17 Nov 2026 06:59:42 GMT",
-     "summary": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
-     "source": "CNBC",
-     "zh": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024"
     }
    ]
   },

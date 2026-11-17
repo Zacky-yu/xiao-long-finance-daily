@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 23:12:28",
+ "generated_at": "2026/11/17 23:32:18",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
+     "link": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
+     "pubDate": "Tue, 17 Nov 2026 14:49:05 +0000",
+     "summary": "Boston Dynamics’ Atlas humanoid robot will undergo its first trials outside the automotive industry at a major semiconductor manufacturer in early 2027. The post Boston Dynamics’ Atlas humanoid lands first non-automotive trial appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial"
+    },
+    {
      "title": "Penguin Random House doubles book picking productivity with Locus Robotics",
      "link": "https://roboticsandautomationnews.com/2026/11/17/penguin-random-house-doubles-book-picking-productivity-with-locus-robotics/107220/",
      "pubDate": "Tue, 17 Nov 2026 11:06:12 +0000",
@@ -647,14 +655,6 @@
      "summary": "Claire chatted to Daniela Shchegelskaya from the University of Twente about getting robots to operate reliably in safety-critical environments. Daniela Shchegelskaya is an electronics and robotics engineer specialising in autonomous systems, control engineering, and Al-driven robotics for industrial",
      "source": "Robohub",
      "zh": "Robot Talk Episode 170 – Robots in the real world, with Daniela Shchegelskaya"
-    },
-    {
-     "title": "Narwal builds robot vacuums to serve regional needs",
-     "link": "https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/",
-     "pubDate": "Fri, 13 Nov 2026 13:18:05 +0000",
-     "summary": "Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets. The post Narwal builds robot vacuums to serve regional needs appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Narwal builds robot vacuums to serve regional needs"
     },
     {
      "title": "AI100 report released: embodied AI highlighted as grand challenge",
@@ -873,6 +873,14 @@
    "total": 9,
    "items": [
     {
+     "title": "US solar’s new makers, batteries for data centres and electrostates vs petrostates: PV Tech Power 46 out now!",
+     "link": "https://www.energy-storage.news/us-solars-new-makers-batteries-for-data-centres-and-electrostates-vs-petrostates-pv-tech-power-46-out-now/",
+     "pubDate": "Tue, 17 Nov 2026 15:20:37 +0000",
+     "summary": "The latest edition of PV Tech Power is available to download, full of exclusive content for the downstream solar PV and BESS industries.",
+     "source": "Energy Storage News",
+     "zh": "US solar’s new makers, batteries for data centres and electrostates vs petrostates: PV Tech Power 46 out now!"
+    },
+    {
      "title": "Poland awards 1.81 GW of solar in latest renewables auctions",
      "link": "https://www.pv-magazine.com/2026/11/17/poland-awards-1-81-gw-of-solar-in-latest-renewables-auctions/",
      "pubDate": "Tue, 17 Nov 2026 14:58:46 +0000",
@@ -1065,14 +1073,6 @@
      "zh": "In the South, heat pumps are the secret to a more reliable grid"
     },
     {
-     "title": "Global Energy Storage Alliance launches at COP31, aims to address persistent energy transition challenges",
-     "link": "https://www.energy-storage.news/global-energy-storage-alliance-launches-at-cop31-aims-to-address-persistent-energy-transition-challenges/",
-     "pubDate": "Tue, 17 Nov 2026 10:05:41 +0000",
-     "summary": "A new Global Energy Storage Alliance initiative launched this week on the sidelines of COP31, with UN, IRENA and Chinese government officials in attendance.",
-     "source": "Energy Storage News",
-     "zh": "Global Energy Storage Alliance launches at COP31, aims to address persistent energy transition challenges"
-    },
-    {
      "title": "Sunkean unveils ETL-certified 2000 VDC TRUNK-T system at RE+",
      "link": "https://www.pv-magazine.com/2026/11/17/sunkean-unveils-ul-certified-2000-vdc-trunk-ttm-system-at-re/",
      "pubDate": "Tue, 17 Nov 2026 10:00:00 +0000",
@@ -1120,6 +1120,22 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "STAT+: ‘Medicare for More’ gains traction",
+     "link": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
+     "pubDate": "Tue, 17 Nov 2026 15:27:50 +0000",
+     "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
+     "source": "STAT News",
+     "zh": "STAT+: ‘Medicare for More’ gains traction"
+    },
+    {
+     "title": "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again",
+     "link": "https://endpoints.news/novo-revamps-its-direct-to-consumer-platform-roche-drug-gazyva-approved-again/",
+     "pubDate": "Tue, 17 Nov 2026 15:13:36 +0000",
+     "summary": "Plus news about Uniquity Bio, Commit Biologics, Rosemont Pharmaceuticals, Aytu and Aclaris Therapeutics. Novo relaunches NovoCare direct-to-consumer platform: Novo is revamping its DTC business with what it calls a \"reimagined consumer ...",
+     "source": "Endpoints News",
+     "zh": "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again"
+    },
     {
      "title": "#CTAD26: Priavoid’s amyloid-detangling pill PRI-002 fails Phase 2 study in Alzheimer’s",
      "link": "https://endpoints.news/priavoids-amyloid-detangling-pill-pri-002-fails-phase-2-study-in-alzheimers/",
@@ -1209,14 +1225,6 @@
      "zh": "STAT+: After death in gene therapy trial for a brain disease, progress is reported"
     },
     {
-     "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
-     "link": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
-     "pubDate": "Tue, 17 Nov 2026 09:30:00 +0000",
-     "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
-     "source": "STAT News",
-     "zh": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates"
-    },
-    {
      "title": "Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model",
      "link": "https://www.genengnews.com/topics/translational-medicine/enhancer-targeted-crispr-turns-up-healthy-gene-copy-in-autism-organoid-model/",
      "pubDate": "Mon, 16 Nov 2026 23:50:32 +0000",
@@ -1239,14 +1247,6 @@
      "summary": "In this GEN podcast, the third in a series, LabVantage’s Denise Bell discusses how laboratories can reduce operational fragmentation and build connected, scalable operations. The post Toward Connected Laboratory Ecosystems appeared first on GEN - Genetic Engineering and Biotechnology News .",
      "source": "GEN",
      "zh": "Toward Connected Laboratory Ecosystems"
-    },
-    {
-     "title": "Lilly strikes up to $5.9B cancer deal with Stipple Bio",
-     "link": "https://endpoints.news/lilly-strikes-up-to-5-9b-cancer-deal-with-stipple-bio/",
-     "pubDate": "Mon, 16 Nov 2026 21:01:05 +0000",
-     "summary": "Eli Lilly continues to be pharma’s biggest shopaholic. Lilly has enlisted Cambridge, MA-based startup Stipple Bio for a multibillion-dollar deal to develop new cancer treatments, marking what appears to be the Indianapolis drug giant’s second-largest ...",
-     "source": "Endpoints News",
-     "zh": "Lilly strikes up to $5.9B cancer deal with Stipple Bio"
     },
     {
      "title": "Gut Microbome and Bile Acid Modification Linked with Longevity",
@@ -1284,7 +1284,7 @@
      "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
      "link": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
      "pubDate": "Mon, 16 Nov 2026 07:44:00 -0500",
-     "summary": "Lilly&rsquo;s 15th announced acquisition this year&nbsp;&mdash; by far the most in the biopharmaceutical sector&nbsp;&mdash; centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
+     "summary": "Lilly&rsquo;s 15th announced company acquisition this year&nbsp;&mdash; by far the most in the biopharmaceutical sector&nbsp;&mdash; centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
      "source": "BioPharma Dive",
      "zh": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix"
     },
@@ -1785,6 +1785,46 @@
    "total": 18,
    "items": [
     {
+     "title": "Mexico is struggling to attract data centers despite its proximity to the US, hosting just 71 of LatAm&apos;s 500+ sites, due to a slow grid expansion and red tape (Alex Vasquez/Bloomberg)",
+     "link": "https://www.techmeme.com/261117/p30#a261117p30",
+     "pubDate": "Tue, 17 Nov 2026 10:20:02 -0500",
+     "summary": "Alex Vasquez / Bloomberg : Mexico is struggling to attract data centers despite its proximity to the US, hosting just 71 of LatAm's 500+ sites, due to a slow grid expansion and red tape &nbsp; &mdash;&nbsp; An electricity grid in need of upgrades and permitting delays have made it harder for Mexico ",
+     "source": "Techmeme",
+     "zh": "Mexico is struggling to attract data centers despite its proximity to the US, hosting just 71 of LatAm&apos;s 500+ sites, due to a slow grid expansion and red tape (Alex Vasquez/Bloomberg)"
+    },
+    {
+     "title": "松下发布首款 Lumix 品牌电影摄影机 SHX1：6K 全画幅，售价 4699.99 美元",
+     "link": "https://www.ithome.com/1/028/562.htm",
+     "pubDate": "Tue, 17 Nov 2026 15:13:29 GMT",
+     "summary": "IT之家 11 月 17 日消息，松下发布了 Lumix SHX1，这是首款冠以 Lumix 品牌的紧凑型电影摄影机。此前，松下将电影摄影机业务与消费级影像业务分别归属于 Varicam 和 Lumix 两个品牌，如今 SHX1 的推出意味着两大业务正式走向整合。 松下表示：“数十年来，松下一直为广播电视和电影行业提供支持，其 Varicam 电影摄影机已被全球众多电影、电视剧和纪录片制作团队采用。这些专业技术也逐渐融入 Lumix 产品线，并催生了 2019 年推出的 Lumix S1H。这是一款具备电影级画质的专业视频设备。2024 年，松下进一步整合了专业视听业务与消费级影像业务，两大业",
+     "source": "IT之家",
+     "zh": "松下发布首款 Lumix 品牌电影摄影机 SHX1：6K 全画幅，售价 4699.99 美元"
+    },
+    {
+     "title": "靠机器人缓解成本压力，通用汽车计划到 2028 年将北美工厂自动化规模提升 20%",
+     "link": "https://www.ithome.com/1/028/561.htm",
+     "pubDate": "Tue, 17 Nov 2026 15:12:11 GMT",
+     "summary": "IT之家 11 月 17 日消息，据路透社今天（17 日）援引两名知情人士消息称，面对劳动力成本上涨及制造业回流美国带来的成本压力，通用汽车计划到 2028 年， 将北美工厂的机器人及其他自动化技术应用规模提高 20% 。 多名消息人士称，通用汽车 同时也在自主研发机器人 ，并在印第安纳州科科莫工厂进行组装，重点开发用于厂内零部件运输的自主移动机器人。 通用汽车去年曾介绍自主研发机器人技术的计划，目前仍同时向外部供应商采购机器人设备。 另外两名熟悉通用汽车供应链的人士透露，通用汽车还要求参与新合同竞标的零部件供应商提交自动化方案，并对供应商的自动化水平进行评分，将评分结果作为合同评审的依据之一",
+     "source": "IT之家",
+     "zh": "靠机器人缓解成本压力，通用汽车计划到 2028 年将北美工厂自动化规模提升 20%"
+    },
+    {
+     "title": "英伟达董事会设立国家安全与出口管制监督委员会",
+     "link": "https://www.ithome.com/1/028/545.htm",
+     "pubDate": "Tue, 17 Nov 2026 15:05:09 GMT",
+     "summary": "IT之家 11 月 17 日消息，英伟达今日宣布，董事会已设立国家安全与出口管制监督委员会。 这一新设常设委员会负责在董事会层面监督公司的国家安全政策、出口管制合规及全球贸易风险管理 。 英伟达现有的国家安全团队与全球贸易合规团队，其日常运营情况将直接向该委员会及临时首席执行官科莱特 · 克雷斯（Colette Kress）汇报。 委员会由董事苏珊娜 · 诺拉 · 约翰逊（Suzanne Nora Johnson）担任主席，成员包括董事斯蒂芬 ·C· 尼尔（Stephen C. Neal）与约翰 ·O· 达比里（John O. Dabiri）。 IT之家注意到，委员会至少每季度召开一次会议，包",
+     "source": "IT之家",
+     "zh": "英伟达董事会设立国家安全与出口管制监督委员会"
+    },
+    {
+     "title": "Pentagon fails 9th financial audit in a row",
+     "link": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
+     "pubDate": "Tue, 17 Nov 2026 15:02:53 +0000",
+     "summary": "Article URL: https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/ Comments URL: https://news.ycombinator.com/item?id=50532315 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Pentagon fails 9th financial audit in a row"
+    },
+    {
      "title": "Meta launches Direct, a standalone messaging app for Instagram",
      "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
      "pubDate": "Tue, 17 Nov 2026 15:01:46 +0000",
@@ -1820,7 +1860,7 @@
      "title": "We don't need more apps. We need better open source",
      "link": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
      "pubDate": "Tue, 17 Nov 2026 14:45:36 +0000",
-     "summary": "Article URL: https://jordankrueger.com/blog/better-open-source-not-more-apps/ Comments URL: https://news.ycombinator.com/item?id=50532086 Points: 24 # Comments: 4",
+     "summary": "Article URL: https://jordankrueger.com/blog/better-open-source-not-more-apps/ Comments URL: https://news.ycombinator.com/item?id=50532086 Points: 72 # Comments: 25",
      "source": "Hacker News",
      "zh": "We don't need more apps. We need better open source"
     },
@@ -1849,12 +1889,12 @@
      "zh": "AI行业里，被高薪叙事平均掉的人"
     },
     {
-     "title": "Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Anthony Hughes/Bloomberg)",
+     "title": "Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Bloomberg)",
      "link": "https://www.techmeme.com/261117/p28#a261117p28",
      "pubDate": "Tue, 17 Nov 2026 09:40:01 -0500",
-     "summary": "Anthony Hughes / Bloomberg : Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range &nbsp; &mdash;&nbsp; Anthropic PBC is guiding prospective investors in its initial public offering it expects to price th",
+     "summary": "Bloomberg : Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range &nbsp; &mdash;&nbsp; Anthropic PBC is guiding prospective investors in its initial public offering it expects to price the shares at the h",
      "source": "Techmeme",
-     "zh": "Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Anthony Hughes/Bloomberg)"
+     "zh": "Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Bloomberg)"
     },
     {
      "title": "叶国富还要再爆改几百家名创优品",
@@ -1881,36 +1921,12 @@
      "zh": "英伟达，段永平的投资压力测试"
     },
     {
-     "title": "Steam 新一周游戏销量榜公布：《欧卡 2》75% 折扣登顶，国区《影之刃零》连续霸榜",
-     "link": "https://www.ithome.com/1/028/540.htm",
-     "pubDate": "Tue, 17 Nov 2026 14:31:07 GMT",
-     "summary": "IT之家 11 月 17 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 11 月 10 日 - 2026 年 11 月 17 日，无免费游戏），《欧洲卡车模拟 2》以 75% 折扣强势登顶全球榜，其全新 DLC《欧洲卡车模拟 2 - Coaches》与《欧洲卡车模拟 2 - Iceland》双双首次进入榜单，国区方面《影之刃零》继续蝉联榜首。 全球榜单： 欧洲卡车模拟 2 使命召唤：现代战争 4 Bodycam AION 2 影之刃零 足球经理 27 欧洲卡车模拟 2 - Coaches EA SPORTS FC™ 27 欧洲卡车模拟 2 - Iceland Mapl",
-     "source": "IT之家",
-     "zh": "Steam 新一周游戏销量榜公布：《欧卡 2》75% 折扣登顶，国区《影之刃零》连续霸榜"
-    },
-    {
      "title": "名创优品：国内狂飙，海外失速，“增收不增利”何时是头？",
      "link": "https://www.huxiu.com/article/4906376.html?f=rss",
      "pubDate": "Tue, 17 Nov 2026 22:29:55 +0800",
      "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《名创优品：国内狂飙，海外失速，“增收不增利” 何时是头？》 北京时间11月17日下午，名创优品发布了2026年Q3业绩。 整体来说，三季度名创的收入端依然超出市场预期，国内业务更是交出了近几年最好的成绩单；但海外业务明显失速，而费用率仍在继续抬升，利润端也没有跟上收入的增长，“增收不增利”的老问题还在延续。具体要点如下： 1、营收超预期，国内强、海外弱。3Q26名创实现总营收66.3亿元，同比增长14.3%，拆分来看，名创中国同比增长29.6%达到37.7亿元，在去年同期高基数的情况下依然环比提速，同店实现高个位数增长，已经是连续第六",
      "source": "虎嗅",
      "zh": "名创优品：国内狂飙，海外失速，“增收不增利”何时是头？"
-    },
-    {
-     "title": "微软 Win11 26H2 内存优化实测：8GB 内存机型体验显著改善",
-     "link": "https://www.ithome.com/1/028/539.htm",
-     "pubDate": "Tue, 17 Nov 2026 14:28:19 GMT",
-     "summary": "IT之家 11 月 17 日消息，就在今年年初，售价低于 800 美元 （IT之家注：现汇率约合 5,343 元人民币） 的 Windows 笔记本电脑，16GB 内存还是相当常见的入门配置，能够在一定程度上弥补 Windows 11 越来越臃肿带来的性能问题。 然而，随着今年内存价格大幅上涨，8GB 内存再次成为不少笔记本电脑的入门配置。苹果 MacBook Neo 凭借 8GB 内存尚能应付日常使用，但 Windows 笔记本电脑的情况可能就没那么乐观了，甚至包括微软自家的 13 英寸 Surface Laptop。 值得注意的是，早在内存危机真正到来之前，微软就已经承诺要提升 Windo",
-     "source": "IT之家",
-     "zh": "微软 Win11 26H2 内存优化实测：8GB 内存机型体验显著改善"
-    },
-    {
-     "title": "强脑科技 CEO 韩璧丞：未来人们有望用大脑直接控制手机、电脑",
-     "link": "https://www.ithome.com/1/028/538.htm",
-     "pubDate": "Tue, 17 Nov 2026 14:23:54 GMT",
-     "summary": "IT之家 11 月 17 日消息，在 2026 年 APEC 工商领导人峰会上，强脑科技创始人兼 CEO 韩璧丞在发言中表示，脑机接口正从实验室走向日常生活。 放眼国内外，中国“十五五”规划中，首次将脑机接口列为六大未来产业之一；摩根士丹利报告也显示，仅美国医疗本土市场，就将催生一个 4,000 亿美元 （IT之家注：现汇率约合 2.67 万亿元人民币） 的脑机接口新市场。韩璧丞表示，脑机接口存在着两层意义：第一层是有望 解决长期困扰的脑疾病问题 ，第二层是可能 改变人与外界的交互方式 。 具体而言，韩璧丞进一步解释说，80 岁以上人群中约有 40% 患有不同程度的阿尔茨海默症，成年人中约有 ",
-     "source": "IT之家",
-     "zh": "强脑科技 CEO 韩璧丞：未来人们有望用大脑直接控制手机、电脑"
     },
     {
      "title": "偷面包之问，新版",
@@ -1921,10 +1937,18 @@
      "zh": "偷面包之问，新版"
     },
     {
+     "title": "Loopholes Are for Assholes",
+     "link": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+     "pubDate": "Tue, 17 Nov 2026 14:20:32 +0000",
+     "summary": "Article URL: https://actsofvolition.com/2026/11/loopholes-are-for-assholes/ Comments URL: https://news.ycombinator.com/item?id=50531761 Points: 8 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Loopholes Are for Assholes"
+    },
+    {
      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
      "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
      "pubDate": "Tue, 17 Nov 2026 14:19:59 +0000",
-     "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 42 # Comments: 13",
+     "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 63 # Comments: 42",
      "source": "Hacker News",
      "zh": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns"
     },
@@ -1948,7 +1972,7 @@
      "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
      "link": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
      "pubDate": "Tue, 17 Nov 2026 14:00:47 +0000",
-     "summary": "Article URL: https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e Comments URL: https://news.ycombinator.com/item?id=50531484 Points: 33 # Comments: 31",
+     "summary": "Article URL: https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e Comments URL: https://news.ycombinator.com/item?id=50531484 Points: 39 # Comments: 38",
      "source": "Hacker News",
      "zh": "S. Korea to send nationwide emergency alerts over college entrance exam cheating"
     },
@@ -1985,14 +2009,6 @@
      "zh": "SEC filing: Amazon and Google are set to hold nearly 15% and 14% of Anthropic&apos;s outstanding capital stock, respectively, after its IPO and private placement (David Morris/Bloomberg)"
     },
     {
-     "title": "The UK&apos;s NHS plans to keep its £330M Palantir contract until 2029, rather than triggering an early release clause in 2027; the deal was due to run until 2031 (Hugh Pym/BBC)",
-     "link": "https://www.techmeme.com/261117/p24#a261117p24",
-     "pubDate": "Tue, 17 Nov 2026 08:15:01 -0500",
-     "summary": "Hugh Pym / BBC : The UK's NHS plans to keep its &pound;330M Palantir contract until 2029, rather than triggering an early release clause in 2027; the deal was due to run until 2031 &nbsp; &mdash;&nbsp; The government says it will continue a key NHS data contract in England with the controversial US ",
-     "source": "Techmeme",
-     "zh": "The UK&apos;s NHS plans to keep its £330M Palantir contract until 2029, rather than triggering an early release clause in 2027; the deal was due to run until 2031 (Hugh Pym/BBC)"
-    },
-    {
      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
      "link": "https://www.wired.com/story/best-laptops/",
      "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
@@ -2007,22 +2023,6 @@
      "summary": "\"It's definitely the largest art project I've ever worked on.\"",
      "source": "Ars Technica",
      "zh": "Artist brings old Space Shuttle tank back to life"
-    },
-    {
-     "title": "Capillus HairBand Review: Good Looks, Awkward Fit",
-     "link": "https://www.wired.com/review/capillus-hairband/",
-     "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
-     "summary": "The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.",
-     "source": "WIRED",
-     "zh": "Capillus HairBand Review: Good Looks, Awkward Fit"
-    },
-    {
-     "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-     "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-     "pubDate": "Tue, 17 Nov 2026 11:45:51 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html Comments URL: https://news.ycombinator.com/item?id=50530163 Points: 482 # Comments: 236",
-     "source": "Hacker News",
-     "zh": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores"
     }
    ]
   },
@@ -2032,6 +2032,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Skullcandy Crusher Evo headphones drop to $89.99 with 57% off",
+     "link": "https://www.androidauthority.com/skullcandy-crusher-evo-early-black-friday-deal-3736159/",
+     "pubDate": "Tue, 17 Nov 2026 15:23:15 +0000",
+     "summary": "The Skullcandy Crusher Evo is $89.99 on Amazon, matching its lowest price.",
+     "source": "Android Authority",
+     "zh": "Skullcandy Crusher Evo headphones drop to $89.99 with 57% off"
+    },
     {
      "title": "How to hide the new macOS 27.3 menu bar indicator",
      "link": "https://9to5mac.com/2026/11/17/how-to-hide-the-new-macos-27-3-menu-bar-indicator/",
@@ -2119,14 +2127,6 @@
      "summary": "Disney has announced a major milestone coming next month in its plans to merge the Disney+ and Hulu apps, which will be “fully unified” into Disney+ soon. more…",
      "source": "9to5Mac",
      "zh": "Disney+ and Hulu’s ‘fully unified’ app is coming next month"
-    },
-    {
-     "title": "Xiaomi 18 Pro series goes global with privacy displays and rear screens",
-     "link": "https://www.androidauthority.com/xiaomi-18-pro-series-global-launch-3735934/",
-     "pubDate": "Tue, 17 Nov 2026 14:30:23 +0000",
-     "summary": "Xiaomi's phones also bring dual 200MP telephoto cameras and large batteries.",
-     "source": "Android Authority",
-     "zh": "Xiaomi 18 Pro series goes global with privacy displays and rear screens"
     },
     {
      "title": "Xiaomi 18 Pro and 18 Pro Max begin their international rollout",
@@ -2281,28 +2281,68 @@
    "total": 13,
    "items": [
     {
-     "title": "Vodacom reports 1H results",
-     "link": "https://seekingalpha.com/news/4673695-vodacom-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:07:56 -0500",
+     "title": "Verde AgriTech Limited GAAP EPS of -C$0.05, revenue of C$3.5M",
+     "link": "https://seekingalpha.com/news/4673715-verde-agritech-limited-gaap-eps-of-c005-revenue-of-c35m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 10:27:31 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Vodacom reports 1H results"
+     "zh": "Verde AgriTech Limited GAAP EPS of -C$0.05, revenue of C$3.5M"
     },
     {
-     "title": "Business inventories rise in line with consensus; retail inventory growth increases,",
-     "link": "https://seekingalpha.com/news/4673693-business-inventories-rise-in-line-with-consensus-retail-inventory-growth-increases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:05:22 -0500",
+     "title": "Amazon looks to take a bigger bite out of the food delivery market",
+     "link": "https://seekingalpha.com/news/4673669-amazon-looks-to-take-a-bigger-bite-out-of-the-food-delivery-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 10:27:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Business inventories rise in line with consensus; retail inventory growth increases,"
+     "zh": "Amazon looks to take a bigger bite out of the food delivery market"
     },
     {
-     "title": "Homebuilder sentiment falls in November on affordability concerns",
-     "link": "https://seekingalpha.com/news/4673685-homebuilder-sentiment-falls-in-november-on-affordability-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:02:15 -0500",
+     "title": "Jensen Huang to appear before House panels Dec. 1; Nvidia lawyer slated to testify Dec. 2",
+     "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html",
+     "pubDate": "Tue, 17 Nov 2026 15:27:13 GMT",
+     "summary": "Former Nvidia CEO Jensen Huang resigned after revelations he had an affair with a suspected Chinese spy.",
+     "source": "CNBC",
+     "zh": "Jensen Huang to appear before House panels Dec. 1; Nvidia lawyer slated to testify Dec. 2"
+    },
+    {
+     "title": "Geodrill reports 9M results",
+     "link": "https://seekingalpha.com/news/4673714-geodrill-reports-9m-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 10:26:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Homebuilder sentiment falls in November on affordability concerns"
+     "zh": "Geodrill reports 9M results"
+    },
+    {
+     "title": "Carbon Streaming reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673713-carbon-streaming-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 10:24:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Carbon Streaming reports Q3 results"
+    },
+    {
+     "title": "Journey Energy Inc. GAAP EPS of $0.23 misses by $0.05, revenue of $57.65M",
+     "link": "https://seekingalpha.com/news/4673710-journey-energy-inc-gaap-eps-of-0_23-misses-by-0_05-revenue-of-57_65m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 10:22:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Journey Energy Inc. GAAP EPS of $0.23 misses by $0.05, revenue of $57.65M"
+    },
+    {
+     "title": "SoftBank 1H GAAP EPS of ¥136.47, revenue of ¥4235.04B",
+     "link": "https://seekingalpha.com/news/4673708-softbank-1h-gaap-eps-of-13647-revenue-of-423504b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 10:20:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SoftBank 1H GAAP EPS of ¥136.47, revenue of ¥4235.04B"
+    },
+    {
+     "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and invest in real estate?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 15:15:00 GMT",
+     "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and invest in real estate?"
     },
     {
      "title": "Anthropic wants everyday investors to be part of its IPO. Some are not buying it.",
@@ -2321,14 +2361,6 @@
      "zh": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers"
     },
     {
-     "title": "Nike maps out new growth strategy, sets 2031 financial targets",
-     "link": "https://seekingalpha.com/news/4673678-nike-maps-out-new-growth-strategy-sets-2031-financial-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:00:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nike maps out new growth strategy, sets 2031 financial targets"
-    },
-    {
      "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
      "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
      "pubDate": "Tue, 17 Nov 2026 15:00:01 GMT",
@@ -2337,20 +2369,12 @@
      "zh": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices"
     },
     {
-     "title": "Here are the major earnings after the close Tuesday",
-     "link": "https://seekingalpha.com/news/4672998-here-are-the-major-earnings-after-the-close-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings after the close Tuesday"
-    },
-    {
-     "title": "Griffon rises 8% on earnings beat, higher buyback and dividend",
-     "link": "https://seekingalpha.com/news/4673690-griffon-rises-8-percent-on-earnings-beat-higher-buyback-and-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 09:58:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Griffon rises 8% on earnings beat, higher buyback and dividend"
+     "title": "英伟达财报临近，美股跌势延续，半导体指数涨0.7%，油价日内上涨1%",
+     "link": "https://wallstreetcn.com/articles/3786084",
+     "pubDate": "Tue, 17 Nov 2026 22:51:56 +0800",
+     "summary": "科技股抛售潮持续蔓延，投资者在英伟达季度财报公布前夕普遍选择观望。 美股盘初，标普500指数跌0.21%，道琼斯工业平均指数跌0.56%，纳斯达克综合指数跌0.04%，纳斯达克100指数跌0.02%，半导体指数涨0.7%。 个股方面，英伟达涨0.7%，AMD、希捷科技、西部数据、SK海力士ADR、Cerebras系统、Lumentum至多涨3.2%。中概股蔚来涨3.8%，京东跌6.2%。 行业ETF方面，医疗业ETF跌0.89%，在美股盘初领跌行业ETF，金融业ETF跌0.68%，银行业ETF跌0.41%，全球科技股指数ETF跌0.16%，网络股指数ETF跌0.07%，科技行业ETF涨0.13",
+     "source": "华尔街见闻",
+     "zh": "英伟达财报临近，美股跌势延续，半导体指数涨0.7%，油价日内上涨1%"
     },
     {
      "title": "SpaceX got a vote of confidence from Nvidia ahead of Jensen Huang’s exit",
@@ -2399,22 +2423,6 @@
      "summary": "Nike is hosting an investor day at its Oregon headquarters as the company tries to prove to investors that its turnaround is working.",
      "source": "CNBC",
      "zh": "Nike lays out financial goals ahead of first investor day in 9 years"
-    },
-    {
-     "title": "Nvidia investors will be clamoring for these answers during today’s historic earnings call",
-     "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 14:24:00 GMT",
-     "summary": "There’s a lot that Nvidia investors want to know about the post-Jensen Huang era — although management is likely to be tight-lipped on the topic of succession.",
-     "source": "MarketWatch",
-     "zh": "Nvidia investors will be clamoring for these answers during today’s historic earnings call"
-    },
-    {
-     "title": "Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz",
-     "link": "https://www.cnbc.com/2026/11/17/2026-election-political-ad-spending.html",
-     "pubDate": "Tue, 17 Nov 2026 14:00:02 GMT",
-     "summary": "Republicans slightly outspent Democrats for the first time as Democrats swept national and state elections.",
-     "source": "CNBC",
-     "zh": "Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz"
     },
     {
      "title": "美国10月零售销售环比增长0.2%，同比6.8%创四年最高纪录",
@@ -2481,30 +2489,6 @@
      "zh": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank"
     },
     {
-     "title": "张兴海、余承东同台 问界发展进入新阶段",
-     "link": "http://www.eeo.com.cn/2026/1117/1095507.shtml",
-     "pubDate": "Tue, 17 Nov 2026 21:43:46 +0800",
-     "summary": "“我坚信：鸿蒙智行强，则问界强；问界强，则鸿蒙智行更强”“我们因用户在一起，一切为了用户”，张兴海说。",
-     "source": "经济观察网",
-     "zh": "张兴海、余承东同台 问界发展进入新阶段"
-    },
-    {
-     "title": "英伟达财报临近，美股期货盘前延续跌势，纳指期货跌近0.5%，油价日内上涨1%",
-     "link": "https://wallstreetcn.com/articles/3786084",
-     "pubDate": "Tue, 17 Nov 2026 21:40:00 +0800",
-     "summary": "科技股抛售潮持续蔓延，投资者在英伟达季度财报公布前夕普遍选择观望，AI相关交易的前景因此蒙上更大阴影。 美股股指期货延续跌势，纳指期货、标普500指数期货跌近0.5%，触及盘中低点。美股存储板块盘前普涨，美光涨0.13%，闪迪涨0.08%，SK海力士涨0.51%，西部数据涨0.12%，希捷科技涨0.61%。与此同时，英伟达股价周一下跌4.1%，本周将公布的季度财报及首席执行官黄仁勋去留问题，共同构成近期AI交易方向的两大关键变量。欧洲斯托克600指数跌幅扩大至1%。 大宗商品市场方面，WTI原油日内涨幅达1.0%，报86.58美元/桶；布伦特原油日内涨幅达1.0%，报93.38美元/桶。供应过",
-     "source": "华尔街见闻",
-     "zh": "英伟达财报临近，美股期货盘前延续跌势，纳指期货跌近0.5%，油价日内上涨1%"
-    },
-    {
-     "title": "岚图纯电交付破10万辆  2027款岚图知音再接力",
-     "link": "http://www.eeo.com.cn/2026/1117/1095505.shtml",
-     "pubDate": "Tue, 17 Nov 2026 21:38:36 +0800",
-     "summary": "随着2027款岚图知音的交付，岚图宣布达成了第10万辆纯电车型交付，这从侧面证明了岚图在纯电市场的品质和体系竞争力。",
-     "source": "经济观察网",
-     "zh": "岚图纯电交付破10万辆  2027款岚图知音再接力"
-    },
-    {
      "title": "前纽约联储主席Dudley：美联储\"无痛降通胀\"策略注定失败",
      "link": "https://wallstreetcn.com/articles/3786117",
      "pubDate": "Tue, 17 Nov 2026 21:07:31 +0800",
@@ -2513,12 +2497,28 @@
      "zh": "前纽约联储主席Dudley：美联储\"无痛降通胀\"策略注定失败"
     },
     {
-     "title": "美联储官员Musalem：明年春季前或需“多次”加息，以控制通胀",
-     "link": "https://wallstreetcn.com/articles/3786116",
-     "pubDate": "Tue, 17 Nov 2026 20:32:25 +0800",
-     "summary": "美联储圣路易斯联储行长Alberto Musalem释放鹰派信号，暗示未来数月内需要多次加息，以在合理时间内实现价格稳定目标。 Musalem周二在阿根廷发表讲话称，在最可能的情形下，若不进一步收紧货币政策，未来18个月内通胀将持续显著高于美联储2%的目标。 他表示，到2027年春季之前，经济\"可能需要多次加息\"，实际政策利率或需提升约100个基点。 在货币政策预期层面，利率期货市场目前反映出投资者预计美联储将在12月和1月各加息25个基点，并在4月前再次加息。 通胀风险仍偏向上行 Musalem此前已多次表示，当前利率仍处于宽松区间，通胀风险\"偏向于持续高于目标水平\"。 周二他进一步强调， ",
-     "source": "华尔街见闻",
-     "zh": "美联储官员Musalem：明年春季前或需“多次”加息，以控制通胀"
+     "title": "11月17日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202611173933073525.html",
+     "pubDate": "Tue, 17 Nov 2026 21:00:13 +0800",
+     "summary": "热点聚焦 商务部回应 ： 商务部新闻发言人就美商务部发布限制远程获取先进 半导体 相关措施答记者问。问： 11月16日，美国商务部发布限制远程获取先进 半导体 相关措施 。请问中方对此有何评论？答：中方注意到有关情况。美方泛化国家安全概念，滥用出口管制，对中国企业与其他国家企业正常贸易合作横加干涉。美方做法背离两国元首达成的重要共识，破坏市场规则和国际经贸秩序，冲击全球 半导体 产业链供应链稳定。中方对此强烈不满，坚决反对。 18只主动ETF下周一上市： 首批18只主动ETF合计募集360亿元，目前已有17只产品净值发生变化，其中2只取得正收益，15只跌破面值。有产品暂未明显建仓，反而凭借低仓",
+     "source": "东方财富资讯",
+     "zh": "11月17日东方财富财经晚报（附新闻联播）"
+    },
+    {
+     "title": "11月17日晚间上市公司利好消息一览(附名单)",
+     "link": "http://finance.eastmoney.com/news/1354,202611173933105994.html",
+     "pubDate": "Tue, 17 Nov 2026 20:53:20 +0800",
+     "summary": "沪深两市多家上市公司11月17日晚间发布重要公告，以下为利好的消息汇总： 云南锗业 ：拟增加高品质磷化铟单晶片建设项目投资额至2.7亿元 云南锗业 (002428)11月17日公告，公司控股子公司云南鑫耀 半导体 材料有限公司拟实施“高品质磷化铟单晶片建设项目”，计划总投资1.89亿元。鉴于项目建设期间，部分机器设备、安装调试费用等市场价格上涨；同时，为顺应市场向大尺寸发展的需求，进一步提高项目大尺寸产品的产出占比，公司拟对原部分设备配置及数量进行适当调整，将该项目的总投资额增加至2.7亿元。 大地熊 ：高性能 稀土永磁 产品可应用于人形 机器人 核心部件 目前处于批量供货阶段 大地熊 近日在",
+     "source": "东方财富资讯",
+     "zh": "11月17日晚间上市公司利好消息一览(附名单)"
+    },
+    {
+     "title": "巨无霸IPO来了 Anthropic上市状态更新为“已获准” 预计11月19日开始交易",
+     "link": "http://finance.eastmoney.com/news/1354,202611173933100678.html",
+     "pubDate": "Tue, 17 Nov 2026 20:41:00 +0800",
+     "summary": "当地时间11月17日， 人工智能 公司Anthropic向美国证券交易委员会（SEC）提交第三次修订的IPO招股书。 文件显示，公司已获准在 纳斯达克 全球精选市场上市A类普通股，股票代码为“ANT”。根据此前 纳斯达克 公告，Anthropic预计于11月19日开始交易。 图片来源：SEC网站 与11月10日提交的上一版招股书相比，此次最明显的变化是上市状态由“已申请”更新为“已获准”。 对比两版招股书，公司的发行规模和发行价区间均未发生变化。根据最新招股书，Anthropic计划公开发行8.25亿股A类普通股，发行价区间仍为每股70美元至78美元。按此计算，此次公开发行总规模预计为577.",
+     "source": "东方财富资讯",
+     "zh": "巨无霸IPO来了 Anthropic上市状态更新为“已获准” 预计11月19日开始交易"
     }
    ]
   },

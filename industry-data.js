@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 07:12:08",
+ "generated_at": "2026/11/18 07:32:02",
  "recent_days": 7,
  "industries": [
   {
@@ -322,12 +322,28 @@ window.INDUSTRY_DATA = {
      "zh": "Palomino appoints NBA Champion Tristan Thompson to Strategic Advisory Board"
     },
     {
+     "title": "Make sure to take your seat at the Elektra Awards 2026",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/make-sure-to-take-your-seat-at-the-elektra-awards-2026-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 16:07:50 +0000",
+     "summary": "There's only three weeks to go until the long awaited Elektra Awards! Make sure you have your seat at the table. The post Make sure to take your seat at the Elektra Awards 2026 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Make sure to take your seat at the Elektra Awards 2026"
+    },
+    {
      "title": "Musk backs Jensen Huang, but Tesla trails Big Tech peers in petition signatures",
      "link": "https://www.digitimes.com/news/a20261117VL220/tesla-nvidia-tsmc-jensen-huang-bytedance.html",
      "pubDate": "Tue, 17 Nov 2026 16:05:00 GMT",
      "summary": "TSMC is the most-named employer after Nvidia, and ByteDance is the only Chinese company in the top 10.",
      "source": "DIGITIMES",
      "zh": "Musk backs Jensen Huang, but Tesla trails Big Tech peers in petition signatures"
+    },
+    {
+     "title": "Government investments of $71.8bn speed militarisation of space",
+     "link": "https://www.electronicsweekly.com/news/business/government-investments-of-71-8bn-speed-militarisation-of-space-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 15:30:34 +0000",
+     "summary": "Governments invested approximately $71.8 billion in space defence and security activities globally in 2025. This is the main finding of Novaspace – the space consulting and market intelligence firm – […] The post Government investments of $71.8bn speed militarisation of space appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Government investments of $71.8bn speed militarisation of space"
     },
     {
      "title": "LTCC Solutions for Next Generation UWB/BLE Devices",
@@ -344,6 +360,14 @@ window.INDUSTRY_DATA = {
      "summary": "Design engineers and technical decision-makers working on medical and life science equipment must balance competing demands: high power density, thermal performance, compact dimensions, and low acoustic noise. This whitepaper provides practical insight into the causes of noise in space-constrained p",
      "source": "EE Times",
      "zh": "Minimizing Acoustic Noise in Space-Constrained Medical and Life Science Applications"
+    },
+    {
+     "title": "IC design challenges balance safety, longevity and portability in battery management systems",
+     "link": "https://www.electronicsweekly.com/news/business/ic-design-challenges-balance-safety-longevity-and-portability-in-battery-management-systems-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 14:00:31 +0000",
+     "summary": "Battery Management Systems (BMS) as a core power component has evolved into an intelligent and sophisticated system, writes Samudrapom Dam. The BMS plays a key role in battery pack longevity, […] The post IC design challenges balance safety, longevity and portability in battery management systems ap",
+     "source": "Electronics Weekly",
+     "zh": "IC design challenges balance safety, longevity and portability in battery management systems"
     },
     {
      "title": "The Anatomy of a Convergence Delta: Closing the Correlation Gap Between P&R and Sign-Off",
@@ -368,6 +392,14 @@ window.INDUSTRY_DATA = {
      "summary": "In a trading update, epiwafer and substrate maker IQE plc of Cardiff, Wales, UK says it is continuing to maintain strong momentum across all core segments during second-half 2026. In addition, revenue upside opportunities identified in optical communications for data-center and AI infrastructure mar",
      "source": "Semiconductor Today",
      "zh": "IQE raises 2026 revenue guidance further, to more than 40% growth"
+    },
+    {
+     "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 10:55:04 +0000",
+     "summary": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
+     "source": "Electronics Weekly",
+     "zh": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers"
     },
     {
      "title": "30 AI firms top US$10B valuations as DeepSeek, Moonshot crack top 10",
@@ -434,6 +466,22 @@ window.INDUSTRY_DATA = {
      "zh": "Chip Industry Technical Paper Roundup: Nov. 17"
     },
     {
+     "title": "Decline And Fall",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 06:20:11 +0000",
+     "summary": "Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time […] The post Decline And Fall appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Decline And Fall"
+    },
+    {
+     "title": "Now’s the time to rethink the GPU/datacentre model says Penn",
+     "link": "https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 06:15:06 +0000",
+     "summary": "“Jensen Huang’s spectacular demise could not have come at a worse time for the growing divide between investor optimism about AI’s long-term potential and concern over the timing and scale […] The post Now’s the time to rethink the GPU/datacentre model says Penn appeared first on Electronics Weekly ",
+     "source": "Electronics Weekly",
+     "zh": "Now’s the time to rethink the GPU/datacentre model says Penn"
+    },
+    {
      "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
      "link": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
      "pubDate": "Tue, 17 Nov 2026 00:56:29 +0000",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads.” Abstract Excerpt “Large language model (LLM) inference demands ever more memory capacity for larger models and batch sizes. High-Ba",
      "source": "Semiconductor Engineering",
      "zh": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)"
-    },
-    {
-     "title": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/wolfspeed-161126.shtml",
-     "pubDate": "Mon, 16 Nov 2026 21:05:00 GMT",
-     "summary": "For its fiscal first-quarter 2027 (to 27 September 2026), Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has reported revenue of $155m, down 21% on $196.8m a year ago but recovering by 3.6% from $149.6m last quarter, and exceeding the",
-     "source": "Semiconductor Today",
-     "zh": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m"
-    },
-    {
-     "title": "Lumentum ranked among Forbes America’s Best Companies",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/lumentum-161126.shtml",
-     "pubDate": "Mon, 16 Nov 2026 20:21:26 GMT",
-     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been recognized on two Forbes company rankings: America’s Best Companies 2027 and America’s Most Innovative Large Companies 2026. Founded in 2015, Lumentum employs 1",
-     "source": "Semiconductor Today",
-     "zh": "Lumentum ranked among Forbes America’s Best Companies"
-    },
-    {
-     "title": "CXO Interview with Vishal Moondhra of Perforce IPLM",
-     "link": "https://semiwiki.com/eda/perforce/375968-cxo-interview-with-vishal-moondhra-of-perforce-iplm/",
-     "pubDate": "Mon, 16 Nov 2026 20:00:27 +0000",
-     "summary": "Vishal Moondhra is the VP of Solutions Engineering for Perforce IPLM. He has over 20 years of experience in Digital Design and Verification. Vishal has an impressive resume of engineering and senior management positions including innovative startups like LGT and Montalvo, and large multinationals su",
-     "source": "SemiWiki",
-     "zh": "CXO Interview with Vishal Moondhra of Perforce IPLM"
-    },
-    {
-     "title": "The AI-First Platform the Disaggregated Semiconductor Industry Needs",
-     "link": "https://semiwiki.com/eda/pdf-solutions/376330-the-ai-first-platform-the-disaggregated-semiconductor-industry-needs/",
-     "pubDate": "Mon, 16 Nov 2026 18:00:06 +0000",
-     "summary": "On October 13, 2026, the opening day of SEMICON West, the ESD Alliance hosted a full-day program of presentations and in-depth discussions on the theme “Bridging Design and Manufacturing with AI.” Among the speakers was Kimon Michaels, co-founder and Executive VP of Products and Solutions at PDF Sol",
-     "source": "SemiWiki",
-     "zh": "The AI-First Platform the Disaggregated Semiconductor Industry Needs"
-    },
-    {
-     "title": "Taking a Tour of Canada’s Particle Accelerator",
-     "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
-     "pubDate": "Mon, 16 Nov 2026 17:52:31 +0000",
-     "summary": "Located on Canada’s west coast, TRIUMF’s normal-conducting cyclotron, unique materials probes, and irradiation facilities serve everything from quantum materials and radiation-hardened electronics to medical isotopes. The post Taking a Tour of Canada’s Particle Accelerator appeared first on EE Times",
-     "source": "EE Times",
-     "zh": "Taking a Tour of Canada’s Particle Accelerator"
-    },
-    {
-     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
-     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
-     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1778,12 +1778,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "苹果回应服务大规模中断：内部系统更新引发故障，Apple Pay、iCloud、App Store 均受影响",
+     "link": "https://www.ithome.com/1/028/589.htm",
+     "pubDate": "Tue, 17 Nov 2026 23:22:05 GMT",
+     "summary": "IT之家 11 月 18 日消息，苹果公司当地时间 11 月 17 日针对宕机事故回应称，由于一次内部系统更新引发技术故障，公司正在努力恢复多项服务。 此次故障影响了 Apple Pay、iCloud、Apple Support 等服务，部分用户无法正常登录账户或使用相关功能。苹果官网监测页面显示，截至目前已全部恢复。 苹果发言人表示，此次服务中断并非网络攻击所致，目前已有许多系统恢复正常运行，公司正在努力让剩余系统尽快恢复上线。 故障监测平台 Downdetector 数据显示，美国东部时间 11 月 17 日 12 时 20 分左右，Apple Pay 相关故障报告一度达到约 2300 条",
+     "source": "IT之家",
+     "zh": "苹果回应服务大规模中断：内部系统更新引发故障，Apple Pay、iCloud、App Store 均受影响"
+    },
+    {
+     "title": "微软首款语音对语音模型：MAI Realtime 1 登场，起价每分钟 0.01 美元",
+     "link": "https://www.ithome.com/1/028/588.htm",
+     "pubDate": "Tue, 17 Nov 2026 23:15:42 GMT",
+     "summary": "IT之家 11 月 18 日消息，在昨日（11 月 17 日）召开的 Ignite 2026 大会上， 微软宣布其首款语音对语音模型 MAI Realtime 1，定位为面向真实企业场景的实时语音 AI 。该模型可处理打断、快速确认和等待对方说完等自然对话细节，并能在嘈杂环境或多人同时说话时理解用户请求。 价格方面，微软称该模型基础语音对语音使用费为每音频分钟 0.01 美元 （IT之家注：现汇率约合 0.067 元人民币） ；若涉及推理，则按每百万输入 token 1 美元 （现汇率约合 6.7 元人民币） 、每百万输出 token 5 美元 （现汇率约合 33.4 元人民币） 另行计费。 ",
+     "source": "IT之家",
+     "zh": "微软首款语音对语音模型：MAI Realtime 1 登场，起价每分钟 0.01 美元"
+    },
+    {
+     "title": "Apple HomeView teardown: a step backward in repairability compared to recent iPads and HomePods, with heavily glued display, speakers, and logic board (Carsten Frauenheim/iFixit News)",
+     "link": "https://www.techmeme.com/261117/p61#a261117p61",
+     "pubDate": "Tue, 17 Nov 2026 18:15:01 -0500",
+     "summary": "Carsten Frauenheim / iFixit News : Apple HomeView teardown: a step backward in repairability compared to recent iPads and HomePods, with heavily glued display, speakers, and logic board &nbsp; &mdash;&nbsp; Apple's first iPad-stuck-to-a-HomePod smarthome hub landed on our teardown table this week, a",
+     "source": "Techmeme",
+     "zh": "Apple HomeView teardown: a step backward in repairability compared to recent iPads and HomePods, with heavily glued display, speakers, and logic board (Carsten Frauenheim/iFixit News)"
+    },
+    {
+     "title": "黄仁勋仍可影响英伟达：辞职后仍可提名最多两名董事候选人",
+     "link": "https://www.ithome.com/1/028/587.htm",
+     "pubDate": "Tue, 17 Nov 2026 23:14:47 GMT",
+     "summary": "IT之家 11 月 18 日消息，据路透社今日报道，英伟达创始人黄仁勋虽然已经辞去公司 CEO 和董事职务，但仍有机会通过股东提名机制影响公司董事会。 据介绍，黄仁勋符合公司「代理权准入」（Proxy Access）规则，可以在年度股东大会前提名最多两名独立董事候选人。 英伟达规定，连续至少三年持有公司 3% 以上投票权的股东，或由不超过 20 名股东组成的团体，可以提名董事候选人，并要求公司将相关人选列入代理投票材料。 根据伦敦证券交易所集团（LSEG）的数据，黄仁勋及其关联实体持有英伟达股份已超过三年，目前持股比例约为 3.5%，达到相关门槛。 不过，获得提名资格并不意味着黄仁勋可以直接安",
+     "source": "IT之家",
+     "zh": "黄仁勋仍可影响英伟达：辞职后仍可提名最多两名董事候选人"
+    },
+    {
+     "title": "Framework 无线触控板键盘开放预订：99 美元，集成 120Hz 精密触控板",
+     "link": "https://www.ithome.com/1/028/586.htm",
+     "pubDate": "Tue, 17 Nov 2026 23:11:42 GMT",
+     "summary": "IT之家 11 月 18 日消息，Framework 旗下新品 Wireless Touchpad Keyboard（无线触控板键盘）现已在海外开启预订， 新品定价 99 美元 （IT之家注：现汇率约合 661.2 元人民币） ，预计将在 2027 年第一季度发货。 据介绍，这款键盘采用 Laptop 12 相同的键盘模块， 搭配一块支持 120Hz 刷新率的精密触控板 ，支持蓝牙、2.4G 和 USB-C 连接，兼容 Windows、Linux 和 macOS 等系统。 同时，这款键盘最多支持连接 4 台设备，支持随时切换。内置 1200mAh 可更换电池，充满电后续航时间可超过 1 个月。",
+     "source": "IT之家",
+     "zh": "Framework 无线触控板键盘开放预订：99 美元，集成 120Hz 精密触控板"
+    },
+    {
+     "title": "京东外卖减亏，又把钱投向欧洲",
+     "link": "https://www.huxiu.com/article/4906403.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 07:09:20 +0800",
+     "summary": "本文来自微信公众号： 涌流商业 ，作者：林耕 一年前，京东业绩会上，分析师接连追问外卖业务，高盛分析师关心还要亏多久，花旗分析师想知道，花钱吸引来的外卖用户，有多少会购买京东的其他商品…… 一年后，分析师们关注的重点变了。 11月17日晚，京东第三季度业绩会召开。高盛分析师问零售增长与利润率，瑞银分析师关心欧洲扩张，花旗分析师关心AI投入。 最后的问题才和外卖直接有关，分析师想知道什么时候能够实现盈亏平衡；还有半个问题和外卖间接相关，问的是用户留存率。 盈亏平衡，京东管理层没有给出具体时间，只表示第三季度外卖亏损同比收窄超过50%，明年还将继续显著减亏。 当天公布的财报显示，京东第三季度营业利",
+     "source": "虎嗅",
+     "zh": "京东外卖减亏，又把钱投向欧洲"
+    },
+    {
      "title": "San Diego dumps both Flock cameras and smart streetlights",
      "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
      "pubDate": "Tue, 17 Nov 2026 23:09:09 +0000",
      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
      "source": "Ars Technica",
      "zh": "San Diego dumps both Flock cameras and smart streetlights"
+    },
+    {
+     "title": "贾可：这次汽车反内卷，终于有点不一样了",
+     "link": "https://www.huxiu.com/article/4906402.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 07:08:52 +0800",
+     "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进 中国汽车行业反内卷，不再只靠企业自觉。 过去一年多，17家重点车企承诺供应商账期不超过60天，工业和信息化部设立问题反映渠道，行业协会不断发出倡议。但一个最现实的问题始终没有解决：供应商敢举报自己的客户吗？ 对于很多中小零部件企业来说，整车厂不仅决定今天的货款能不能拿到，还决定明天有没有订单。举报可能讨回一笔欠款，却可能丢掉未来几年的生意。 让供应商冒着失去饭碗的风险去举报整车厂，本身就不是一个可靠的监管办法。 现在，监管部门开始主动出手。 2026年11月16日，中国汽车工业协会宣布，受工信部委托，对17家重点汽车企业",
+     "source": "虎嗅",
+     "zh": "贾可：这次汽车反内卷，终于有点不一样了"
+    },
+    {
+     "title": "微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本约为其 2%",
+     "link": "https://www.ithome.com/1/028/585.htm",
+     "pubDate": "Tue, 17 Nov 2026 23:06:55 GMT",
+     "summary": "IT之家 11 月 18 日消息，微软 AI 部门于 11 月 17 日发布全新专用安全模型 MAI Cyber 2 Flash， 定位为面向企业安全团队的“高性价比”网络安全 AI。 该模型旨在帮助安全人员全天候发现软件漏洞、推荐修复方案并调查网络威胁，同时显著降低大规模使用 AI 的算力与成本。 微软称，MAI Cyber 2 Flash 基于其多年积累的专有安全数据与安全研究经验构建。在衡量真实漏洞发现能力的 CyberGym-E2E 基准中，该模型取得 92.3% 的任务成功率，略高于 GPT-6 Astra 的 91.5%；而微软披露的每任务成本不足后者的 2%。该结果是在剔除 92",
+     "source": "IT之家",
+     "zh": "微软最具性价比网安 AI 模型 MAI Cyber 2 Flash 登场：性能比肩 GPT-6 Astra，每任务成本约为其 2%"
+    },
+    {
+     "title": "TGA 2026 年度游戏入围名单公布：含《GTA6》《影之刃零》《塞尔达传说：时之笛》重制版等",
+     "link": "https://www.ithome.com/1/028/584.htm",
+     "pubDate": "Tue, 17 Nov 2026 23:01:24 GMT",
+     "summary": "IT之家 11 月 18 日消息，TGA（游戏大奖）今日公布 2026 年度游戏入围名单。 IT之家注意到，本次入围的游戏有《007：初露锋芒》《控制：共振》《侠盗猎车手 VI》《影之刃零》《生化危机：安魂曲》和《塞尔达传说：时之笛》重制版。究竟哪款游戏能夺得 2026 年度游戏呢？ 答案将在北京时间 12 月 11 日开始揭晓 。",
+     "source": "IT之家",
+     "zh": "TGA 2026 年度游戏入围名单公布：含《GTA6》《影之刃零》《塞尔达传说：时之笛》重制版等"
     },
     {
      "title": "Best Early Amazon Black Friday Deals (2026)",
@@ -1794,28 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "Best Early Amazon Black Friday Deals (2026)"
     },
     {
-     "title": "谷歌更新 Gemini 隐私控制，可保留聊天记录且不参与 AI 训练",
-     "link": "https://www.ithome.com/1/028/581.htm",
-     "pubDate": "Tue, 17 Nov 2026 22:51:05 GMT",
-     "summary": "IT之家 11 月 18 日消息，谷歌昨日发布公告，宣布更新 Gemini 应用程序的控制选项， 允许用户自行决定是否将 Gemini 聊天记录用于 AI 模型训练 。 谷歌表示，新增的设置选项允许用户在保留 Gemini 聊天记录的同时，选择不将聊天记录用于生成式 AI 模型训练。用户仍然可以调整聊天记录的保存期限，并手动查看或删除聊天记录。 IT之家注意到，谷歌还将提升 Gemini 的安全性。如果用户关闭新的“历史记录”设置，之后产生的聊天内容仍会保存约两个月，用于向用户提供回复、处理用户反馈，以及保护谷歌、用户和公众的安全。",
-     "source": "IT之家",
-     "zh": "谷歌更新 Gemini 隐私控制，可保留聊天记录且不参与 AI 训练"
-    },
-    {
      "title": "Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive (Tom Warren/The Verge)",
      "link": "https://www.techmeme.com/261117/p60#a261117p60",
      "pubDate": "Tue, 17 Nov 2026 17:50:01 -0500",
      "summary": "Tom Warren / The Verge : Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive &nbsp; &mdash;&nbsp; A bug took down Microsoft's email services for millions around the world. &hellip; At 9AM last ",
      "source": "Techmeme",
      "zh": "Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive (Tom Warren/The Verge)"
-    },
-    {
-     "title": "英伟达董事长明确表态：无意让黄仁勋回归重新担任 CEO",
-     "link": "https://www.ithome.com/1/028/580.htm",
-     "pubDate": "Tue, 17 Nov 2026 22:47:10 GMT",
-     "summary": "IT之家 11 月 18 日消息，据 CNBC 报道，英伟达新任董事长哈维 · 琼斯（Harvey Jones）在今日的财报电话会议上表示，董事会无意让黄仁勋（Jensen Huang）回归、重新担任公司 CEO。 琼斯在电话会议上谈及黄仁勋离职一事时表示，黄仁勋是在披露个人行为后辞去 CEO 职务的，相关行为“与公司的行为准则、标准和文化规范不符”。“英伟达董事会一致接受了他的辞呈，并且无意让黄仁勋重新出任 CEO。” IT之家此前报道，英伟达于 11 月 12 日发布公告，宣布黄仁勋辞去公司总裁、CEO 及董事职务。公司首席财务官科莱特 · 克雷斯（Colette Kress）被任命为临时",
-     "source": "IT之家",
-     "zh": "英伟达董事长明确表态：无意让黄仁勋回归重新担任 CEO"
     },
     {
      "title": "GPT-6.2 Astra，OpenAI在偏科的道路上越走越远了。",
@@ -1834,14 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "Yet another satellite company is jockeying for a rocket—but this one makes sense"
     },
     {
-     "title": "微软性价比最高编程 AI 模型：MAI Code 2 用 5% 成本达 Claude Opus 5.5 约 96% 性能",
-     "link": "https://www.ithome.com/1/028/579.htm",
-     "pubDate": "Tue, 17 Nov 2026 22:42:53 GMT",
-     "summary": "IT之家 11 月 18 日消息，在今天召开的 Ignite 2026 活动中， 微软发布自研编程模型 MAI Code 2 和 MAI Code 2 Flash，并在 GitHub Copilot 上线。 IT之家附上相关视频如下： 定位方面，两款产品分别面向复杂软件开发与高频日常编程，主打在代码质量与使用成本之间取得更好平衡。 其中，Code 2 定位通用编程模型，可用于深度排查程序错误、跨多个文件修改代码、理解整个代码仓库及开发用户界面。微软称，该模型强调直接给出实用的代码修改方案，减少开发者与 AI 之间不必要的反复沟通，帮助代码走向实际部署。 Code 2 Flash 则更侧重轻量、",
-     "source": "IT之家",
-     "zh": "微软性价比最高编程 AI 模型：MAI Code 2 用 5% 成本达 Claude Opus 5.5 约 96% 性能"
-    },
-    {
      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
      "pubDate": "Tue, 17 Nov 2026 22:32:16 +0000",
@@ -1858,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋走了，英伟达仍赚翻了：首份财报超预期，接班人稳住了？"
     },
     {
-     "title": "Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录",
-     "link": "https://www.ithome.com/1/028/577.htm",
-     "pubDate": "Tue, 17 Nov 2026 22:23:42 GMT",
-     "summary": "IT之家 11 月 18 日消息，就在 Anthropic IPO 定价前一天，OpenAI 突然毫无预兆地送上了一份“惊喜”。 OpenAI 今日正式发布了最新的 GPT-6.2 Astra 和 GPT-6.2 Sol 模型，重点提升专业工作、编程、计算机操作及多步骤智能体任务的表现，同时降低完成任务所需的输出 Token 数量，在大部分测试中不输 Anthropic 旗舰模型。 OpenAI 介绍，GPT-6.2 Astra 是面向复杂专业项目的旗舰模型，在专业工作、科学研究、软件开发和视觉设计等领域进一步提升。该模型能够更准确地遵循用户提供的演示文稿模板，改善幻灯片、电子表格和文档的输出",
-     "source": "IT之家",
-     "zh": "Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录"
-    },
-    {
      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
      "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
      "pubDate": "Tue, 17 Nov 2026 22:19:19 +0000",
@@ -1877,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Latent Lattice Language Models",
      "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
      "pubDate": "Tue, 17 Nov 2026 22:17:18 +0000",
-     "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 5 # Comments: 0",
      "source": "Hacker News",
      "zh": "Latent Lattice Language Models"
     },
@@ -1893,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
      "pubDate": "Tue, 17 Nov 2026 22:13:34 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 76 # Comments: 3",
+     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 111 # Comments: 9",
      "source": "Hacker News",
      "zh": "Quad9's withdrawal from France: A canary in the coal mine"
     },
@@ -1922,26 +1962,18 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)"
     },
     {
-     "title": "英伟达 2027 财年前三季度归母净利润 1832.97 亿美元，同比增长 137.72%",
-     "link": "https://www.ithome.com/1/028/575.htm",
-     "pubDate": "Tue, 17 Nov 2026 21:25:38 GMT",
-     "summary": "IT之家 11 月 18 日消息，英伟达今日发布 2027 财年（2026 年 1 月 26 日～2027 年 1 月 31 日）前三季度（2026 年 1 月 26 日～2026 年 10 月 25 日）及第三财季（2026 年 7 月 27 日～2026 年 10 月 25 日）报告： 2027 财年前三季度 营业总收入 ：2936.81 亿美元 （IT之家注：现汇率约合 1.96 万亿元人民币） ，同比增长 98.69% 毛利润 ：2199.76 亿美元 （现汇率约合 1.47 万亿元人民币） ，同比增长 114.88% 毛利率 ：74.9%，同比增长 5.6 个百分点 归母净利润 ：1",
-     "source": "IT之家",
-     "zh": "英伟达 2027 财年前三季度归母净利润 1832.97 亿美元，同比增长 137.72%"
-    },
-    {
-     "title": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch (New York Times)",
-     "link": "https://www.techmeme.com/261117/p55#a261117p55",
-     "pubDate": "Tue, 17 Nov 2026 16:20:04 -0500",
-     "summary": "New York Times : Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed &ldquo;Java4Shell&rdquo;; Oracle has released a patch &nbsp; &mdash;&nbsp; The discovery by security company Calif shows A.I.'s ability to find gaping security holes in popular software.",
-     "source": "Techmeme",
-     "zh": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch (New York Times)"
+     "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+     "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+     "pubDate": "Tue, 17 Nov 2026 21:16:12 +0000",
+     "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 14 # Comments: 9",
+     "source": "Hacker News",
+     "zh": "Harvard researchers find AI coding agents shifted the bottleneck to code review"
     },
     {
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "link": "https://calif.io/java4shell/",
      "pubDate": "Tue, 17 Nov 2026 21:11:28 +0000",
-     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 272 # Comments: 75",
+     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 312 # Comments: 79",
      "source": "Hacker News",
      "zh": "Java4Shell: RCE in OpenJDK when processing Base64"
     },
@@ -1949,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Tencent Hy4 Flash",
      "link": "https://hy.tencent.ai/research/hy4-flash",
      "pubDate": "Tue, 17 Nov 2026 21:06:08 +0000",
-     "summary": "Article URL: https://hy.tencent.ai/research/hy4-flash Comments URL: https://news.ycombinator.com/item?id=50538184 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://hy.tencent.ai/research/hy4-flash Comments URL: https://news.ycombinator.com/item?id=50538184 Points: 12 # Comments: 1",
      "source": "Hacker News",
      "zh": "Tencent Hy4 Flash"
     },
@@ -1965,17 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Web Browser Engineering (2021)",
      "link": "https://browser.engineering/",
      "pubDate": "Tue, 17 Nov 2026 20:01:35 +0000",
-     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 101 # Comments: 17",
+     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 105 # Comments: 17",
      "source": "Hacker News",
      "zh": "Web Browser Engineering (2021)"
-    },
-    {
-     "title": "jQuery 4.1.0",
-     "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-     "pubDate": "Tue, 17 Nov 2026 19:50:40 +0000",
-     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 204 # Comments: 105",
-     "source": "Hacker News",
-     "zh": "jQuery 4.1.0"
     },
     {
      "title": "Civilization studio Firaxis Games lays off a third of staff",
@@ -1992,30 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
      "source": "WIRED",
      "zh": "How to Tell If It’s a Cyberattack or Just an Outage"
-    },
-    {
-     "title": "Waymo Pauses All Highway Rides After California Safety Ban",
-     "link": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/",
-     "pubDate": "Tue, 17 Nov 2026 19:38:08 +0000",
-     "summary": "California’s DMV banned Waymo’s self-driving cars from freeways after determining that they pose “an imminent hazard to public safety.”",
-     "source": "WIRED",
-     "zh": "Waymo Pauses All Highway Rides After California Safety Ban"
-    },
-    {
-     "title": "Maintainers don’t need more AI bug reports. They need fixes.",
-     "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-     "pubDate": "Tue, 17 Nov 2026 18:29:29 +0000",
-     "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don’t need more AI bug reports. They need fixes. a",
-     "source": "GitHub Blog",
-     "zh": "Maintainers don’t need more AI bug reports. They need fixes."
-    },
-    {
-     "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-     "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-     "pubDate": "Tue, 17 Nov 2026 18:26:26 +0000",
-     "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
-     "source": "Ars Technica",
-     "zh": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser"
     }
    ]
   },
@@ -2274,6 +2274,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "华尔街见闻早餐FM-Radio | 2026年11月18日",
+     "link": "https://wallstreetcn.com/articles/3786137",
+     "pubDate": "Wed, 18 Nov 2026 07:17:21 +0800",
+     "summary": "华见早安之声 要闻精选 俄罗斯总统普京抵达深圳。 中国商务部：中加两国同意将初步联合安排的相关豁免措施延长2年。第二次中加经济财金战略对话：中方欢迎加拿大养老金等长线资金投资中国资本市场。 美国发布限制远程获取先进半导体相关措施，中国商务部回应。 英伟达担忧暂缓，上季营收首破千亿，本季指引再超预期创新高，Vera Rubin“爆发式开局”。电话会：董事会主席称公司实力超群，不打算恢复黄仁勋的CEO职务。 黄仁勋离任后首次发声，愿意重返英伟达担任CEO；将于12月1日出席美国国会听证。英伟达董事会主席表示不打算恢复其职务。报道：美SEC调查英伟达，包括是否通过信息披露误导投资者。 美国10月零售",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年11月18日"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 23:15:00 GMT",
+     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+    },
+    {
+     "title": "U.S. crude stockpiles rose 5.3M barrels last week, API says",
+     "link": "https://seekingalpha.com/news/4673965-u-s-crude-stockpiles-rose-5_3m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 18:11:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. crude stockpiles rose 5.3M barrels last week, API says"
+    },
+    {
+     "title": "NSA内网中断、苹果服务受扰、Equinor遭网络攻击，FBI警告黑客利用AI入侵",
+     "link": "https://wallstreetcn.com/articles/3786139",
+     "pubDate": "Wed, 18 Nov 2026 07:06:43 +0800",
+     "summary": "NSA机密内网周二中断，官方称起因是例行维护。苹果多项服务同日出现故障，挪威能源公司Equinor证实遭到网络攻击。FBI发布警报，称黑客正利用AI框架ARTEX实施自动化攻击。受此影响，纳指期货下跌，标普500跌破200日均线。 更多消息，持续更新中 本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "NSA内网中断、苹果服务受扰、Equinor遭网络攻击，FBI警告黑客利用AI入侵"
+    },
+    {
      "title": "英伟达电话会：“不打算请回黄仁勋”，2028年增速预期上调至75%，AI投资将更加“克制与挑剔”",
      "link": "https://wallstreetcn.com/articles/3786136",
      "pubDate": "Wed, 18 Nov 2026 07:04:29 +0800",
@@ -2322,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Here are the major earnings before the open Wednesday"
     },
     {
-     "title": "Portsmouth Square reports Q1 results",
-     "link": "https://seekingalpha.com/news/4673962-portsmouth-square-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 17:59:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Portsmouth Square reports Q1 results"
-    },
-    {
      "title": "美联储库克律师：库克不会出席白宫听证，特朗普已作出开除决定，委员会是“幌子”",
      "link": "https://wallstreetcn.com/articles/3786138",
      "pubDate": "Wed, 18 Nov 2026 06:54:16 +0800",
@@ -2338,12 +2362,20 @@ window.INDUSTRY_DATA = {
      "zh": "美联储库克律师：库克不会出席白宫听证，特朗普已作出开除决定，委员会是“幌子”"
     },
     {
-     "title": "技术故障密集爆发，标普、纳指四连跌，盘后英伟达涨3%，软件股重挫，美元结束五连涨",
+     "title": "系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨",
      "link": "https://wallstreetcn.com/articles/3786084",
      "pubDate": "Wed, 18 Nov 2026 06:53:28 +0800",
      "summary": "继上周微软办公软件大规模宕机、周五全美航班停飞逾四小时之后，美国国家安全（NSA）通信网络宕机，把原本就紧绷的AI交易推向全面避险。美股周二全线下挫，标普与道指双双跌破200日均线，资金转向美债和日元。 英伟达周二盘后公布财报，结果超出分析师预期，股价在盘后交易中一度上涨逾3% 。期权市场此前已对本次财报定价约8%的双向波动幅度，为2025年2月以来最大预期波动，英伟达1个月隐含波动率亦为今年3月以来最高。 UBS指出，标普500期权市场将周三定价为今年余下时间内单日波动最大的一天。 标普500指数收跌1.03%，报7340.53点，道琼斯工业平均指数重挫1.64%，纳斯达克综合指数跌0.74",
      "source": "华尔街见闻",
-     "zh": "技术故障密集爆发，标普、纳指四连跌，盘后英伟达涨3%，软件股重挫，美元结束五连涨"
+     "zh": "系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨"
+    },
+    {
+     "title": "英伟达担忧暂缓！本季指引再超预期创新高，Vera Rubin“爆发式开局”，调升下财年指引 | 财报见闻",
+     "link": "https://wallstreetcn.com/articles/3786135",
+     "pubDate": "Wed, 18 Nov 2026 06:50:29 +0800",
+     "summary": "在创始人兼CEO黄仁勋深陷风波辞职后，英伟达暂时缓和了市场对公司舵手缺位和AI投资可持续性的担忧，再次交出高基数上继续超预期的成绩单，并且提高了此后一个财年的年度营收指引。 美东时间17日周二美股盘后，英伟达公布，截至2026年10月25日的公司2027财年第三财季，营收同比增长103.1%至1158亿美元，不但公司史上首次单季营收突破1000亿美元，而且较分析师预期高约5.9%，也明显高于该司自身指引中值1080亿美元。 盈利端同样强劲。第三财季非GAAP口径下调整后每股收益（EPS）同比增长111%至2.68美元，较市场预期高8.1%；调整后毛利率为74.9%，虽然虽略低于前一财季的75.",
+     "source": "华尔街见闻",
+     "zh": "英伟达担忧暂缓！本季指引再超预期创新高，Vera Rubin“爆发式开局”，调升下财年指引 | 财报见闻"
     },
     {
      "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
@@ -2434,28 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?"
     },
     {
-     "title": "AI繁荣终结？美银月度调查：基金经理20年来最大幅度削减科技股仓位",
-     "link": "https://wallstreetcn.com/articles/3786133",
-     "pubDate": "Wed, 18 Nov 2026 06:13:49 +0800",
-     "summary": "美国银行（Bank of America）最新月度调查显示，全球基金经理正在以2006年以来最快速度撤出科技股，对人工智能过度投资的担忧达到历史峰值。同时，基金经理对欧洲股市的乐观程度升至年内最高，呈现出鲜明的跨市场分化格局。 调查显示，科技股超配比例从10月的净37%骤降至净12%，单月降幅创近20年之最。与此同时，欧洲股市方面，净67%的基金经理预计欧洲股市将在未来一至三个月内上涨，为今年2月以来最高读数。 美银策略师Michael Hartnett在报告中直言\"AI繁荣与亢奋情绪已经终结\"，并建议投资者在未来数月维持防御性仓位。 市场表现印证了这一情绪转变。纳斯达克100指数本月已下跌逾",
-     "source": "华尔街见闻",
-     "zh": "AI繁荣终结？美银月度调查：基金经理20年来最大幅度削减科技股仓位"
-    },
-    {
      "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
      "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
      "pubDate": "Tue, 17 Nov 2026 22:08:00 GMT",
      "summary": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
      "source": "MarketWatch",
      "zh": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift."
-    },
-    {
-     "title": "德鲁肯米勒看空铜价、股市持仓中性，称当前市场能见度为记忆中最低",
-     "link": "https://wallstreetcn.com/articles/3786129",
-     "pubDate": "Wed, 18 Nov 2026 06:05:36 +0800",
-     "summary": "亿万富翁投资者Stan Druckenmiller表示，面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。 11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示， 他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。 目前他持有少量美元多头仓位，股票上持仓中性，同时做空铜 。他说： 我们基本上在回避市场，目标是不亏钱，而不是赚钱。 这一表态标志着其立场较今年1月发生显著转变，彼时他对经济前景持明显乐观态度。Druckenmiller以高确信度时果断重仓著称，当前的按兵不动本身即释放出鲜明信号，对风险资",
-     "source": "华尔街见闻",
-     "zh": "德鲁肯米勒看空铜价、股市持仓中性，称当前市场能见度为记忆中最低"
     },
     {
      "title": "英伟达董事会主席：公司不打算让黄仁勋复职",
@@ -2477,7 +2493,7 @@ window.INDUSTRY_DATA = {
      "title": "11月18日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
      "link": "http://finance.eastmoney.com/news/1344,202611173933280422.html",
      "pubDate": "Wed, 18 Nov 2026 06:03:22 +0800",
-     "summary": "11月18日(星期三)，今日报刊头条主要内容精华如下： 上海证券报 商务部等9部门印发意见 健全再生资源回收体系 促进回收行业高质量发展 商务部等9部门日前印发《关于深入推进再生资源回收体系建设促进回收行业高质量发展的意见》（下称《意见》）。商务部部长助理袁晓明11月17日在国新办新闻发布会上表示，下一步，商务部将会同相关部门，指导推动各地贯彻落实《意见》要求，健全再生资源回收体系，促进回收行业高质量发展。 “东吴证券+东海证券”战略整合过会 历时8个多月， 东吴证券 和东海证券的战略整合迎来关键性进展。11月17日晚间， 东吴证券 发布公告称，公司发行股份及支付现金购买资产暨关联交易申请已获",
+     "summary": "11月18日(星期三)，今日报刊头条主要内容精华如下： 中国证券报 “新三样”固废回收利用体系初具规模 “当前，我 国新能源 汽车 动力 电池 正在进入规模化退役阶段，光伏组件和风机叶片也将相继迎来退役高峰期。近年来，‘新三样’固废回收利用体系已初具规模，政策框架基本形成，工作体系逐步完善。”商务部部长助理袁晓明在11月17日国务院新闻办举行的新闻发布会上表示。 多项财政政策工具年末持续用力 通过精准施策、工具创新，放大财政资金撬动效应 临近年末，多项财政政策工具持续发力，为稳增长注入强劲动能。专家认为，从财政政策实施的脉络来看，今年更加注重财政资金使用方式创新和财政金融协同，通过精准施策、工",
      "source": "东方财富资讯",
      "zh": "11月18日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
@@ -2496,22 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "每日精选 商务部回应 ： 商务部新闻发言人就美商务部发布限制远程获取先进 半导体 相关措施答记者问。问： 11月16日，美国商务部发布限制远程获取先进 半导体 相关措施 。请问中方对此有何评论？答：中方注意到有关情况。美方泛化国家安全概念，滥用出口管制，对中国企业与其他国家企业正常贸易合作横加干涉。美方做法背离两国元首达成的重要共识，破坏市场规则和国际经贸秩序，冲击全球 半导体 产业链供应链稳定。中方对此强烈不满，坚决反对。 英伟达 公布财报 ： 英伟达 第三季度营收1158亿美元，环比增长20.3%，同比增103.1%，预期1093.3亿美元。其中 数据中心 营收1076亿美元，预期1018",
      "source": "东方财富资讯",
      "zh": "东方财富财经早餐 11月18日周三"
-    },
-    {
-     "title": "6亿元项目折戟 通光线缆终止与长飞光纤合资事项",
-     "link": "http://finance.eastmoney.com/news/1354,202611173933285793.html",
-     "pubDate": "Wed, 18 Nov 2026 05:57:15 +0800",
-     "summary": "通光线缆 （300265.SZ）与 长飞光纤 （601869.SH）一致同意解散合资公司并启动清算注销程序，双方原定总规模6亿元的合资项目正式宣告终止。 17日晚间， 通光线缆 发布公告，宣布已与 长飞光纤 签署协议《合资终止协议》，双方于2025年初筹划的合资事项终止，并依法解散、注销合资公司江苏通飞科技有限公司（简称“通飞科技”）。 2025年2月， 通光线缆 董事会审议通过《关于对外投资暨成立合资公司的议案》，拟与 长飞光纤 共同出资6亿元设立通飞科技。其中，通光线缆认缴3.39亿元，占注册资本的56.5%；长飞光纤认缴2.61亿元，占注册资本的43.5%。双方拟采用了实物、股权、现金的",
-     "source": "东方财富资讯",
-     "zh": "6亿元项目折戟 通光线缆终止与长飞光纤合资事项"
-    },
-    {
-     "title": "英伟达风波中苏姿丰“点赞”黄仁勋，AMD数据中心业务明年占比料达八成",
-     "link": "https://wallstreetcn.com/articles/3786128",
-     "pubDate": "Wed, 18 Nov 2026 05:53:47 +0800",
-     "summary": "英伟达深陷黄仁勋风波之际，老对手AMD的CEO苏姿丰并未落井下石，表态专注AMD自身发展，并强调行业的“世代级”增长前景远非传统的周期可比。 美东时间17日周二在美国得州奥斯汀举行的TomorrowX峰会上，苏姿丰一方面公开称赞英伟达及其上周刚辞职的前CEO黄仁勋，称英伟达是一家“了不起的公司”，黄仁勋是推动整个行业发展的杰出领导者；另一方面强调，AMD需要将注意力从行业各种纷扰中抽离，专注于AI基础设施建设带来的巨大机遇。 苏姿丰还对当前半导体行业的增长前景给出乐观判断。她认为，这一轮行业增长已经不同于传统的周期性扩张，而更像是一场“世代级”的增长浪潮。随着AI逐渐提升各行各业的生产力，企业",
-     "source": "华尔街见闻",
-     "zh": "英伟达风波中苏姿丰“点赞”黄仁勋，AMD数据中心业务明年占比料达八成"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 18:12:05",
+ "generated_at": "2026/11/17 18:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -161,6 +161,14 @@
      "zh": "How to Give Claude Code Up-to-Date Documentation With Context7"
     },
     {
+     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
+     "summary": "Plus: CucumberVision!",
+     "source": "Import AI",
+     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
+    },
+    {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
      "link": "https://zhidx.com/p/611006.html",
      "pubDate": "Mon, 16 Nov 2026 21:55:11 +0800",
@@ -239,14 +247,6 @@
      "summary": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL. The post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro appeared first on MarkTe",
      "source": "MarkTechPost",
      "zh": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro"
-    },
-    {
-     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-     "link": "https://openai.com/index/lvmh-media-division-partnership",
-     "pubDate": "Mon, 16 Nov 2026 09:00:00 GMT",
-     "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-     "source": "OpenAI",
-     "zh": "LVMH’s Media Division announces strategic partnership with OpenAI"
     }
    ]
   },
@@ -1361,14 +1361,6 @@
      "zh": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
      "pubDate": "Mon, 16 Nov 2026 21:34:36 +0000",
@@ -1513,14 +1505,6 @@
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1535,14 +1519,6 @@
      "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on Spa",
      "source": "SpaceNews",
      "zh": "What role does industry play in Europe’s space sovereignty push?"
-    },
-    {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
     },
     {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
@@ -1777,12 +1753,116 @@
    "total": 18,
    "items": [
     {
+     "title": "吃过长鑫科技“大肉”之后，国元证券要在合肥下一盘大棋",
+     "link": "https://www.tmtpost.com/8208379.html",
+     "pubDate": "Tue, 17 Nov 2026 18:26:31 +0800",
+     "summary": "券商为何集体“奔私”。",
+     "source": "钛媒体",
+     "zh": "吃过长鑫科技“大肉”之后，国元证券要在合肥下一盘大棋"
+    },
+    {
+     "title": "单季扣非亏损后签下17.9亿大单，光启技术业绩反转待考",
+     "link": "https://www.tmtpost.com/8208645.html",
+     "pubDate": "Tue, 17 Nov 2026 18:25:48 +0800",
+     "summary": "公司年内公告重大订单合计35.85亿元，已超过公司2025年全年对外披露的订单总额",
+     "source": "钛媒体",
+     "zh": "单季扣非亏损后签下17.9亿大单，光启技术业绩反转待考"
+    },
+    {
+     "title": "飞天茅台现在越来越像是日常消费品了",
+     "link": "https://www.tmtpost.com/8208481.html",
+     "pubDate": "Tue, 17 Nov 2026 18:19:15 +0800",
+     "summary": "利益平衡也是一门艺术。",
+     "source": "钛媒体",
+     "zh": "飞天茅台现在越来越像是日常消费品了"
+    },
+    {
+     "title": "一年少了约30万名学生：韩国补习市场大退潮？",
+     "link": "https://www.tmtpost.com/8208435.html",
+     "pubDate": "Tue, 17 Nov 2026 18:19:10 +0800",
+     "summary": "韩国补习班，开始争夺越来越少的学生",
+     "source": "钛媒体",
+     "zh": "一年少了约30万名学生：韩国补习市场大退潮？"
+    },
+    {
+     "title": "2030年渗透率目标提前逼近，重卡股为何不买账？",
+     "link": "https://www.huxiu.com/article/4906287.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 18:17:48 +0800",
+     "summary": "本文来自微信公众号： 和讯 ，作者：和讯财经研究 五年前，新能源重卡在重卡市场里还只是个“零头”，2021年渗透率仅0.7%。短短五年后，这个“零头”已经被卖成了主流。 今年9月，国内新能源重卡渗透率越过50%，10月进一步升至57.13%，刷新单月渗透率历史新高。今年前10月，新能源重卡累计销售26.17万辆，渗透率为39.90%，销量已超过2025年全年。按当前速度推算，全年新能源重卡销量有望突破30万辆，渗透率将站上40%。 政策目标很可能被提前“撞线”。今年5月底，交通运输部等部门印发《推动新能源重卡规模化应用实施方案》，提出到2030年渗透率达到40%、保有量突破160万辆、占比达到",
+     "source": "虎嗅",
+     "zh": "2030年渗透率目标提前逼近，重卡股为何不买账？"
+    },
+    {
+     "title": "旧王的盛宴：新游戏九死一生，老游戏日进斗金",
+     "link": "https://www.huxiu.com/article/4906286.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 18:17:19 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：任晓宁 孙宏超 游戏行业正在出现一条分界线：一边是投入以亿计、存活以月计的新品猝然离场；另一边是运营10年以上的老游戏，靠开新服、怀旧服和周年版本继续从存量用户身上稳定收钱。 2026年10月27日，腾讯宣布，由宝可梦公司与腾讯天美合作研发的《宝可梦大集结》国服将于2027年1月28日停止运营，并公布了停运补偿方案。玩家已付费购买但尚未消耗的宝石，可按余额档位兑换《王者荣耀》等游戏的礼包。此时，距离《宝可梦大集结》国服上线还不到两年。 就在同一个月，另一款游戏《完美世界》上线新服。10月29日，速途网游戏事业部总经理王佩点开电脑上熟悉的《完美世界》图标",
+     "source": "虎嗅",
+     "zh": "旧王的盛宴：新游戏九死一生，老游戏日进斗金"
+    },
+    {
+     "title": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About",
+     "link": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+     "pubDate": "Tue, 17 Nov 2026 10:15:00 +0000",
+     "summary": "The electric-auto maker says it has invited some buyers to reserve a personal robotaxi. The arrangement raises big questions about the future of car ownership.",
+     "source": "WIRED",
+     "zh": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About"
+    },
+    {
+     "title": "对话崔东树：汽车价格战真正停下来，需要三个条件同时具备",
+     "link": "https://www.huxiu.com/article/4906285.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 18:14:58 +0800",
+     "summary": "本文来自微信公众号： 和讯 ，作者：徐帅 汽车行业的金九银十消失了。 中国汽车流通协会乘用车市场信息联席分会研判，10月狭义乘用车零售市场规模约160万辆，同比下降28.9%，9月为161.8万辆，同比下滑28%。 连续两个月，同比跌幅都在28%上下。乘联分会预计，2026年全年乘用车零售1850万辆，同比下滑22%，这将是中国车市第一次出现两位数的年度下滑。 资本市场表现也不乐观，申万汽车指数（801880.SI）年内跌去近三成，在31个申万一级行业中跌幅居前。 消费市场与资本市场，下滑的深度与烈度都超出预期。这场超预期的低迷因何而起，是周期性调整，还是结构性变化？明面降价在收敛，行业利润却",
+     "source": "虎嗅",
+     "zh": "对话崔东树：汽车价格战真正停下来，需要三个条件同时具备"
+    },
+    {
+     "title": "Nvidia&apos;s board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more (Nvidia Newsroom)",
+     "link": "https://www.techmeme.com/261117/p8#a261117p8",
+     "pubDate": "Tue, 17 Nov 2026 05:13:45 -0500",
+     "summary": "Nvidia Newsroom : Nvidia's board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more &nbsp; &mdash;&nbsp; - Committee to provide oversight over NVIDIA's national security and global trade compliance program",
+     "source": "Techmeme",
+     "zh": "Nvidia&apos;s board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more (Nvidia Newsroom)"
+    },
+    {
+     "title": "Mac 收紧权限，苹果开始防着AI 了",
+     "link": "https://www.huxiu.com/article/4906282.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 18:12:08 +0800",
+     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《Mac 收紧权限，苹果开始防着 AI 了》 今天凌晨，苹果向开发者推送了macOS 27.3 Beta 2。不少开发者在升级后发现，当应用申请「完整磁盘访问权限」时，系统会弹出一个带有红色感叹号的警告窗口： 弹窗煞有介事地逐一列出了可能暴露的邮件、消息、照片和浏览历史，还要求你逐项确认风险，才能最终点击「允许」放行。 俨然一副国产Android手机上打开敏感权限时，系统跳出的全屏警告。只不过，苹果暂时还没用10s倒计时「硬控」用户。 警告之外，macOS 27.3 Beta 2还调整了「设备控制与数据访问」等权限的",
+     "source": "虎嗅",
+     "zh": "Mac 收紧权限，苹果开始防着AI 了"
+    },
+    {
+     "title": "亿滋8个月两次调整团队：零食店，早已不只是一个销售通路",
+     "link": "https://www.huxiu.com/article/4906280.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 18:07:41 +0800",
+     "summary": "本文来自微信公众号： 新经销 ，作者：袁来 最近，不少朋友来问我，怎么看亿滋零食渠道团队的调整。 说实话，这件事我之前没有特别关注。虽然认识不少亿滋的朋友，但也没有专门打电话询问。 这篇文章，我想依据公开信息，谈一谈这次调整背后的逻辑。 据公开报道，今年3月，亿滋将零食店业务从新零售发展团队中独立出来；11月，又进一步细分客户团队，为鸣鸣很忙单设了一支团队，万辰和零食有鸣则由另一支团队对接。 一家零食连锁，为什么值得品牌专门配置团队？我想这个问题，比销售组织结构变化更值得讨论。 在我看来，头部零食连锁发展到今天，上游品牌商正在重新理解它的价值：它已经不仅仅是一个销售通路了。 把这层变化看清楚，",
+     "source": "虎嗅",
+     "zh": "亿滋8个月两次调整团队：零食店，早已不只是一个销售通路"
+    },
+    {
+     "title": "茅台非标品突然放量，背后是经销商低价清仓？",
+     "link": "https://www.huxiu.com/article/4906279.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 18:07:25 +0800",
+     "summary": "本文来自微信公众号： 烈酒商业 ，作者：WBO 11月10日，贵州茅台2026年第三季度业绩说明会上，代总经理王莉明确表示“i茅台将从当前的‘抢购’模式逐步向满足消费者需求的日常售卖模式转变”后，当晚i茅台便火速发布公告：自11月11日起，包括精品、陈年（15）、丙午马年经典版、鼓乐飞天、四季酒在内的16款贵州茅台酒产品将采用全天动态补货模式。这意味着，除核心大单品53%vol 500ml飞天茅台及1L装外，i茅台上架的非标茅台产品全面开启了“放量”销售模式。 这一动作看似是茅台“全面向C”战略的进一步落地，但在这背后，却折射出传统流通渠道利润被极限挤压、市场承接力疲软的残酷现实，茅台传统线下",
+     "source": "虎嗅",
+     "zh": "茅台非标品突然放量，背后是经销商低价清仓？"
+    },
+    {
      "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
      "link": "https://www.wired.com/story/do-you-need-a-smart-car-seat/",
      "pubDate": "Tue, 17 Nov 2026 10:06:00 +0000",
      "summary": "I tested the Babyark Classic and Cybex Cloud G Pro with my two kids. Here’s what the extra tech did for me and what I’d prioritize when buying a car seat.",
      "source": "WIRED",
      "zh": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)"
+    },
+    {
+     "title": "全新红旗 H9 将于 11 月 27 日广州车展正式上市，预售价 32.98 万元起",
+     "link": "https://www.ithome.com/1/028/442.htm",
+     "pubDate": "Tue, 17 Nov 2026 10:01:33 GMT",
+     "summary": "IT之家 11 月 17 日消息，一汽红旗宣布旗下全新红旗 H9 将于 11 月 27 日广州车展正式上市。该车预售先享价 32.98-41.98 万元，共推出 4 款配置，车辆全系标配鸿蒙座舱、华为乾崑 ADS 5 高阶版智能辅助驾驶、896 线双光路图像级激光雷达等配置。 外观上，新车换装半封闭式“高山飞瀑”进气格栅，外侧由贯穿式“U”形 LED 灯带与镀铬饰件点缀，保留标志性中轴旗标灯。日行灯加入晶钻元素，下方配备高亮像素大灯与智能光毯。车侧采用 20 英寸密幅式电镀轮毂及智能电动电吸门，尾部则为全新“U”形贯穿式尾灯。 内饰方面，新车采用三联屏布局，以 16.1 英寸 3K 悬浮式中控",
+     "source": "IT之家",
+     "zh": "全新红旗 H9 将于 11 月 27 日广州车展正式上市，预售价 32.98 万元起"
     },
     {
      "title": "G 胖超级游艇配有专属游戏室，可与好友海上开玩《GTA 6》",
@@ -1801,60 +1881,12 @@
      "zh": "小米雷军：具身智能机器人未来一定是一个巨大的产业机会，它的想象力会超过汽车产业"
     },
     {
-     "title": "硬折扣巨头之争：奥乐齐与超盒算NB，谁更有未来？",
-     "link": "https://www.huxiu.com/article/4906272.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 17:51:57 +0800",
-     "summary": "本文来自微信公众号： 联商网 ，编辑：娜娜，作者：联商网编辑部 真正决定折扣店能否成立的，是一整套长期围绕效率、纪律与取舍构建的经营系统。 全文约3100字，阅读需约8分钟 近年来，硬折扣赛道狼烟四起，群雄逐鹿，但“打得最凶”的是这两家： 一家是1913年诞生在德国埃森、全球超万家门店的“硬折扣鼻祖”奥乐齐ALDI，2019年才来中国开线下店；另一家是2022年孵化、2024年从盒马鲜生切出来独立运营的超盒算NB。 今天我们来探讨三个问题：两套模型的核心区别在哪？哪套更可能有未来？还想上牌桌要注意什么？ 这张牌桌上已经挤满了人 全球硬折扣赛道玩家很多：德国有ALDI、Lidl、Penny，土耳",
-     "source": "虎嗅",
-     "zh": "硬折扣巨头之争：奥乐齐与超盒算NB，谁更有未来？"
-    },
-    {
-     "title": "手握千万预算，品牌为何仍选不到人？|Q3代言人观察",
-     "link": "https://www.huxiu.com/article/4906259.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 17:50:38 +0800",
-     "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队，原文标题：《手握千万预算，品牌为何仍选不到人？|Q3代言人观察》 一头是积极为双11蓄力，不乏一众代言人合作到期或是从未找过代言人的新品牌入局，一头是在“资源寒冬”下压缩代言费用的艺人，商务配合度显著提升。Q3的代言市场，供需市场都呈现出缺口。但“双向奔赴”的故事却还是少数。 上下滑动查看 从大盘总数来看，2026Q3的代言人总量相比含有618节点的Q2有所下降，但相较去年同期依旧活跃，但不少品牌向剁椒Spicy感慨，“如何都选不到合适的人”。 一方面，满足品牌roi＞1诉求的头部代言人全网捞不到20个，还“不是得排队”，就是“有排竞”。",
-     "source": "虎嗅",
-     "zh": "手握千万预算，品牌为何仍选不到人？|Q3代言人观察"
-    },
-    {
-     "title": "伟大的公司是怎样堕落的？",
-     "link": "https://www.huxiu.com/article/4906271.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 17:48:48 +0800",
-     "summary": "本文来自微信公众号： 星海情报局 ，作者：星海老局 当一家公司失去了它的CEO，到底会失去什么？ 2026年11月12日，英伟达宣布，黄仁勋辞去公司总裁、首席执行官和董事职务，即刻生效。首席财务官科莱特·克雷斯出任临时CEO，董事会开始寻找正式继任者。 理论上，对于英伟达这样有数十年历史的、成熟的、超级大规模的公司来说，一个CEO的卸任，并不能算是什么生死存亡的事儿。CEO也不过就是一个岗位，是岗位就有一整套完备的职责说明。 前任走了，换个新的上去就是，战略、财务、人事和公共关系的权力交给他，日子照样能过下去——制度嘛，不就是干这个的么？现代工商管理学百年发展，不就是为了打造一套“即便换一只狗",
-     "source": "虎嗅",
-     "zh": "伟大的公司是怎样堕落的？"
-    },
-    {
      "title": "京东 2026 财年前三季度归母净利润 187.34 亿元",
      "link": "https://www.ithome.com/1/028/436.htm",
      "pubDate": "Tue, 17 Nov 2026 09:47:55 GMT",
      "summary": "IT之家 11 月 17 日消息，京东今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：9716.88 亿元，同比增长 1.56% 毛利润 ：1682.95 亿元，同比增长 8.6% 毛利率 ：17.32%，同比增长 1.12 个百分点 归母净利润 ：187.34 亿元，同比下降 16.16% 经营现金流 ：195.65 亿元，同比扭亏为盈 自由现金流 ：14.93 亿元，同比扭亏为盈 基本每股收益 ：6.92 元，同",
      "source": "IT之家",
      "zh": "京东 2026 财年前三季度归母净利润 187.34 亿元"
-    },
-    {
-     "title": "“我月薪8000元，为什么能借到50万元？”",
-     "link": "https://www.huxiu.com/article/4906270.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 17:47:29 +0800",
-     "summary": "本文来自微信公众号： IT时报 ，作者：贾天荣 20万元贷款，到账需要多久？ 在抖音“放心借”上，选择借款20万元，页面弹出一张年化利率（单利）9%的综合融资成本明示表。往下滑动，是包括各类贷款合同、个人信息及征信授权书等在内的31份协议，5秒强制阅读倒计时结束后，点击同意、扫脸，不到10秒，20万元到账。 这套流程王凯（化名）并不陌生。 这个每月工资到账8000元的年轻人，2025年开始在互联网借贷平台贷款炒股，最多时在全网同时欠款超过40万元。随着一次次按时还款，他在多个平台的借款额度不断提高。最近，抖音“放心借”给他的额度已经涨到了50万元。 但他没有提交收入证明，也没有上传新的资产材料",
-     "source": "虎嗅",
-     "zh": "“我月薪8000元，为什么能借到50万元？”"
-    },
-    {
-     "title": "李佳琦开始卖Token了，普通人买到的究竟是什么？",
-     "link": "https://www.huxiu.com/article/4906269.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 17:47:15 +0800",
-     "summary": "本文来自微信公众号： IT时报 ，作者：贾天荣 11月2日，头部主播李佳琦的直播间出现了一件新鲜事：他开始卖起了Token。 据介绍，千问办公个人会员月卡上线仅半小时，就售出10万份，涉及约2万亿Token。一时间，Token这个过去更多出现在程序员和AI从业者讨论中的技术词汇，突然成为直播间里的热门商品。 但问题也随之而来：口红可以买来试色，纸巾可以比较抽数，Token买回来又该怎么用？消费者花钱买到的究竟是算力、积分，还是一张AI会员卡？不同平台的Token又该如何比较？ 11月5日，第一财经广播《财经午间道》节目中，主持人崔琦连线《IT时报》记者贾天荣，围绕Token走向大众消费、AI会",
-     "source": "虎嗅",
-     "zh": "李佳琦开始卖Token了，普通人买到的究竟是什么？"
-    },
-    {
-     "title": "3.6万元起步的英伟达芯AI PC，值不值？",
-     "link": "https://www.huxiu.com/article/4906265.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 17:43:18 +0800",
-     "summary": "本文来自微信公众号： IT时报 ，作者：林斐 10月，首批6款搭载英伟达RTX Spark芯片的笔记本电脑在国内上市，机型来自华硕、戴尔、联想、微软和微星，主打轻薄本的本地AI创作。它们有一个共同点：顶配版本都配了128GB统一内存，CPU和GPU共享同一内存池，售价3.6万元起步，最高超过5.7万元。 英伟达想把GPU算力、CUDA（英伟达的AI计算软件生态）和本地AI推理等带进Windows笔记本。但对用惯了Intel、AMD处理器和独立显卡的用户来说，一个现实问题随之而来：常用软件、专业创作工具和游戏能不能顺畅运行？128GB内存又能带来多大实际价值？ 记者探店 AI部署简化 现货样机难",
-     "source": "虎嗅",
-     "zh": "3.6万元起步的英伟达芯AI PC，值不值？"
     },
     {
      "title": "状态稳定：神舟二十四号船箭组合体垂直转运正在进行",
@@ -1873,14 +1905,6 @@
      "zh": "谷歌 Gemini 4 Argon 安全测试失控：40 个 AI 智能体擅自攻击真实网站，还互相分享漏洞"
     },
     {
-     "title": "华为 Mate 90 系列手机获鸿蒙 HarmonyOS 7.0.0.115 升级，AI 快捷栏如约上线",
-     "link": "https://www.ithome.com/1/028/432.htm",
-     "pubDate": "Tue, 17 Nov 2026 09:36:22 GMT",
-     "summary": "IT之家 11 月 17 日消息，华为 Mate 90 系列手机今日率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB， 带来了 AI 快捷栏等功能 。 IT之家附华为 Mate 90 系列手机此次更新内容如下： 桌面 桌面新增 AI 快捷栏， 按住 AI 圆环可直接说话 ， 点击可探索更多 AI 服务 （设置 > 桌面和个性化 > 桌面设置 > AI 快捷栏）。 图库 支持批量将 HEIF 格式图片转为 JPG 格式，一次选择多张，转换更高效（图库 > 照片页或某一相册内 > 多选 HEIF 格式图片 > 更多 > 转为 JPG 格式）。 ",
-     "source": "IT之家",
-     "zh": "华为 Mate 90 系列手机获鸿蒙 HarmonyOS 7.0.0.115 升级，AI 快捷栏如约上线"
-    },
-    {
      "title": "药明康德超预期背后：把科学的偶然，变成工业的必然",
      "link": "https://www.tmtpost.com/8207991.html",
      "pubDate": "Tue, 17 Nov 2026 17:21:57 +0800",
@@ -1895,38 +1919,6 @@
      "summary": "网约车行业是典型的三方共生系统，乘客追求更低的出行成本，司机期待更高的单车收益，其诉求天然存在对冲空间，平台则需要在二者间寻求动态平衡。",
      "source": "钛媒体",
      "zh": "“全民喝大水”时代的网约车司机困局"
-    },
-    {
-     "title": "DeepSeek限额，C端付费的前奏？",
-     "link": "https://www.tmtpost.com/8207729.html",
-     "pubDate": "Tue, 17 Nov 2026 17:21:49 +0800",
-     "summary": "DeepSeek的AGI之路",
-     "source": "钛媒体",
-     "zh": "DeepSeek限额，C端付费的前奏？"
-    },
-    {
-     "title": "6年7倍，中石油变了",
-     "link": "https://www.tmtpost.com/8207987.html",
-     "pubDate": "Tue, 17 Nov 2026 17:21:47 +0800",
-     "summary": "周期更平缓了",
-     "source": "钛媒体",
-     "zh": "6年7倍，中石油变了"
-    },
-    {
-     "title": "瑞士生物科技企业Orbis Medicines研发AI驱动高通量药物发现工艺，设计新型口服大环药物",
-     "link": "https://www.tmtpost.com/8207902.html",
-     "pubDate": "Tue, 17 Nov 2026 17:21:45 +0800",
-     "summary": "潜在化学设计空间可达10³⁰种结构组合。",
-     "source": "钛媒体",
-     "zh": "瑞士生物科技企业Orbis Medicines研发AI驱动高通量药物发现工艺，设计新型口服大环药物"
-    },
-    {
-     "title": "伦铜持续回调，中国的高价铜能托底吗？",
-     "link": "https://www.tmtpost.com/8207594.html",
-     "pubDate": "Tue, 17 Nov 2026 17:21:42 +0800",
-     "summary": "伦铜持续回调，中国进口铜溢价却仍在上涨。",
-     "source": "钛媒体",
-     "zh": "伦铜持续回调，中国的高价铜能托底吗？"
     },
     {
      "title": "Oakland-based Numa, which builds an AI platform to manage car dealership customer service, raised a $45M Series C, a source says at a $500M post-money valuation (Camila Grigera Naón/Fortune)",
@@ -1961,6 +1953,14 @@
      "zh": "富岳运行系统遭非法访问"
     },
     {
+     "title": "Run your FreeBSD services from one console",
+     "link": "https://jailops.net/",
+     "pubDate": "Tue, 17 Nov 2026 08:13:38 +0000",
+     "summary": "Article URL: https://jailops.net/ Comments URL: https://news.ycombinator.com/item?id=50528785 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Run your FreeBSD services from one console"
+    },
+    {
      "title": "FBI 警告黑客利用 Artex 能在三小时内入侵网络",
      "link": "https://www.solidot.org/story?sid=85910",
      "pubDate": "Tue, 17 Nov 2026 16:07:03 +0800",
@@ -1991,30 +1991,6 @@
      "summary": "Reuters : A review of 300+ Chinese documents shows AI distillation has moved from academic experiments to widespread industrial use, with Beijing encouraging the practice &nbsp; &mdash;&nbsp; Chinese entities are adopting increasingly sophisticated ways to use output from leading American AI models ",
      "source": "Techmeme",
      "zh": "A review of 300+ Chinese documents shows AI distillation has moved from academic experiments to widespread industrial use, with Beijing encouraging the practice (Reuters)"
-    },
-    {
-     "title": "Windows 收集用户计算机安装的编程智能体和开发工具",
-     "link": "https://www.solidot.org/story?sid=85908",
-     "pubDate": "Tue, 17 Nov 2026 14:50:24 +0800",
-     "summary": "一位开发者利用 AI 工具寻找 Windows 未记录的功能，结果发现了一个 DLL 文件记录了用户使用的编程智能体如 codex.exe、claude.exe、copilot.exe 和 cursor.exe 等，以及开发者工具如 python.exe、dotnet.exe、 gcc.exe 和 code.exe 等。该 DLL 文件是 MissionControlAggregator.dll，是一个运行中的 Windows 组件，它会将记录的信息保存在本地，报告给 Windows 诊断系统。除非用户选择退出诊断数据收集（默认启用），那么这些数据最终会发送给微软。MissionControl",
-     "source": "Solidot",
-     "zh": "Windows 收集用户计算机安装的编程智能体和开发工具"
-    },
-    {
-     "title": "Nvidia unveils its Rubin HPC GPU with \"more than 50,000\" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations (Jeffrey Kampman/Tom&apos;s Hardware)",
-     "link": "https://www.techmeme.com/261117/p3#a261117p3",
-     "pubDate": "Tue, 17 Nov 2026 01:20:00 -0500",
-     "summary": "Jeffrey Kampman / Tom's Hardware : Nvidia unveils its Rubin HPC GPU with &ldquo;more than 50,000&rdquo; CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations &nbsp; &mdash;&nbsp; Rubin HPC puts &ldquo;over 50,000&rdquo; CUDA cores on a chip, implies fo",
-     "source": "Techmeme",
-     "zh": "Nvidia unveils its Rubin HPC GPU with \"more than 50,000\" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations (Jeffrey Kampman/Tom&apos;s Hardware)"
-    },
-    {
-     "title": "印度短剧配音成印地语后完播率反降，方言素材到底该怎么配比？",
-     "link": "https://www.baijing.cn/question/638790",
-     "pubDate": "Tue, 17 Nov 2026 06:19:59 +0000",
-     "summary": "我们做印度短剧出海，起量阶段，团队12人，主要发在YouTube和MX Player，月投放预算大约8万美元。原本用英语字幕+原声，北方邦和比哈尔邦的完播率只有18%左右，后来把前三集配成印地语配音，同一批素材在Meta上跑，完播率反而掉到11%，评论区一堆人说“配音像新闻播报”。我们又试过泰米尔语和泰卢固语各配一版，泰卢固语那版在安得拉邦的点击率涨了但付费转化几乎没动。现在卡在不知道该按语言分素材，还是按方言口音分素材，也判断不了哪种方言值得单独做一版配音。想直接问：印度市场短剧素材的方言配比，你们是按州拆还是按语言拆，判断标准是什么？",
-     "source": "白鲸出海",
-     "zh": "印度短剧配音成印地语后完播率反降，方言素材到底该怎么配比？"
     }
    ]
   },
@@ -2273,12 +2249,76 @@
    "total": 13,
    "items": [
     {
-     "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-     "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-     "pubDate": "Tue, 17 Nov 2026 10:08:32 GMT",
-     "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
-     "source": "CNBC",
-     "zh": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access"
+     "title": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
+     "link": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 10:28:00 GMT",
+     "summary": "13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six weeks for many portfolio managers.",
+     "source": "MarketWatch",
+     "zh": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown"
+    },
+    {
+     "title": "Workhorse targets 150-unit TerraPod first order while expecting $20M synergy run rate by end of 2026",
+     "link": "https://seekingalpha.com/news/4673528-workhorse-targets-150-unit-terrapod-first-order-while-expecting-20m-synergy-run-rate-by-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 05:23:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Workhorse targets 150-unit TerraPod first order while expecting $20M synergy run rate by end of 2026"
+    },
+    {
+     "title": "APi Group launches €500M senior notes offering",
+     "link": "https://seekingalpha.com/news/4673526-api-group-launches-500m-senior-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 05:22:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "APi Group launches €500M senior notes offering"
+    },
+    {
+     "title": "全球股市四连跌，英伟达绩前跌幅加深，纳指期货跌近0.5%，油价小幅上涨",
+     "link": "https://wallstreetcn.com/articles/3786084",
+     "pubDate": "Tue, 17 Nov 2026 18:21:49 +0800",
+     "summary": "全球股市跌势蔓延至第四个交易日，英伟达财报前夕的避险情绪升温。油价同步下挫，市场风险偏好持续受压。 美股股指期货延续跌势，纳指期货、标普500指数期货跌近0.5%，触及盘中低点。美股存储板块盘前普涨，美光涨0.13%，闪迪涨0.08%，SK海力士涨0.51%，西部数据涨0.12%，希捷科技涨0.61%。与此同时，英伟达股价周一下跌4.1%，本周将公布的季度财报及首席执行官黄仁勋去留问题，共同构成近期AI交易方向的两大关键变量。MSCI全球股票指数周二小幅下滑0.2%，连续第四日录得跌幅。 大宗商品市场方面，布伦特原油日内涨幅达0.5%，报92.92美元/桶。供应过剩迹象及美国副总统JD Van",
+     "source": "华尔街见闻",
+     "zh": "全球股市四连跌，英伟达绩前跌幅加深，纳指期货跌近0.5%，油价小幅上涨"
+    },
+    {
+     "title": "Glenview ups stakes in Meta, Teva; cuts CVS, Block in Q3; exits DKS, STM",
+     "link": "https://seekingalpha.com/news/4673467-glenview-ups-stakes-in-meta-teva-cuts-cvs-block-in-q3-exits-dks-stm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 05:18:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Glenview ups stakes in Meta, Teva; cuts CVS, Block in Q3; exits DKS, STM"
+    },
+    {
+     "title": "Biggest stock movers Tuesday: ACM, RCAT, and more",
+     "link": "https://seekingalpha.com/news/4673525-biggest-stock-movers-tuesday-acm-rcat-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 05:16:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Biggest stock movers Tuesday: ACM, RCAT, and more"
+    },
+    {
+     "title": "Quant ratings on Bill Ackman’s Pershing Square Q3 holdings: AMZN, MSFT, META, MA, V",
+     "link": "https://seekingalpha.com/news/4673462-quant-ratings-on-bill-ackmans-pershing-square-q3-holdings-amzn-msft-meta-ma-v?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 05:16:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Quant ratings on Bill Ackman’s Pershing Square Q3 holdings: AMZN, MSFT, META, MA, V"
+    },
+    {
+     "title": "‘Nvidia spooked me’: Should I sell my stocks or ride out the market turmoil?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 10:15:00 GMT",
+     "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia spooked me’: Should I sell my stocks or ride out the market turmoil?"
+    },
+    {
+     "title": "Renasant reports Q3 results",
+     "link": "https://seekingalpha.com/news/4673524-renasant-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 05:14:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Renasant reports Q3 results"
     },
     {
      "title": "‘Breaking Bad’ star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce",
@@ -2300,17 +2340,9 @@
      "title": "京东三季度净营收3096亿元，归母净利润同比大增44%，新业务大幅减亏，自由现金流扩大至负239亿元 | 财报见闻",
      "link": "https://wallstreetcn.com/articles/3786098",
      "pubDate": "Tue, 17 Nov 2026 17:45:45 +0800",
-     "summary": "京东于2026年11月17日发布了截至2026年9月30日的第三季度未经审计财务业绩。整体来看，本季度京东交出了一份收入与利润双双向好的答卷——总收入同比增长3.5%至人民币3,096亿元（约462亿美元），增速较上季度明显提速；非美国通用会计准则下归属于普通股股东的净利润同比大增44%至人民币83亿元，盈利质量持续改善。 盈利层面的亮点尤为突出。经营利润从去年同期亏损人民币11亿元大幅扭转为盈利人民币52亿元，经营利润率由负0.4%升至1.7%；非通用会计准则下经营利润率则从0.1%跃升至2.4%。每股美国存托股（ADS）摊薄收益同比增长35.4%至人民币4.59元，非通用会计准则下摊薄每股",
+     "summary": "京东的利润修复正在提速。 11月17日，京东集团公布2026年第三季度财报。报告期内，公司实现收入3096亿元，同比增长3.5%，结束此前的增长压力；非美国通用会计准则下归属于普通股股东的净利润达到83亿元，同比增长44%，增速较上一季度进一步加快。 利润改善的背后，是京东对经营效率的重新调整。一方面，京东零售继续发挥利润压舱石作用，在较高基数上保持盈利稳定；另一方面，京东外卖、京喜等新业务持续减亏，加上营销费用同比大幅下降，推动集团整体经营利润由去年同期亏损转为盈利。 不过，京东的收入增长仍然存在结构性分化。核心零售业务收入仅增长2.9%，电子产品及家用电器收入仍同比下降，而日用百货、平台及",
      "source": "华尔街见闻",
      "zh": "京东三季度净营收3096亿元，归母净利润同比大增44%，新业务大幅减亏，自由现金流扩大至负239亿元 | 财报见闻"
-    },
-    {
-     "title": "Michael Burry boosts Adobe stake, exits Oracle, Caterpillar puts",
-     "link": "https://seekingalpha.com/news/4673460-michael-burry-boosts-adobe-stake-exits-oracle-caterpillar-puts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 04:39:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Michael Burry boosts Adobe stake, exits Oracle, Caterpillar puts"
     },
     {
      "title": "Here’s how much of Deutsche Bank’s market cap has been wiped away after reports on 15 million leaked documents",
@@ -2329,14 +2361,6 @@
      "zh": "林肯布局“智擎超混”新能源  飞行家EX8将于2027年上半年上市"
     },
     {
-     "title": "Bunge expands blockchain soy traceability to Vietnam",
-     "link": "https://seekingalpha.com/news/4673519-bunge-expands-blockchain-soy-traceability-to-vietnam?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 04:26:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bunge expands blockchain soy traceability to Vietnam"
-    },
-    {
      "title": "比起找银行贷款，企业更喜欢发债了",
      "link": "http://www.eeo.com.cn/2026/1117/1095296.shtml",
      "pubDate": "Tue, 17 Nov 2026 17:25:08 +0800",
@@ -2345,36 +2369,12 @@
      "zh": "比起找银行贷款，企业更喜欢发债了"
     },
     {
-     "title": "U.S. stock futures lower as investors brace for Nvidia results",
-     "link": "https://seekingalpha.com/news/4673516-us-stock-futures-lower-as-investors-brace-for-nvidia-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 04:19:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. stock futures lower as investors brace for Nvidia results"
-    },
-    {
-     "title": "Xcel Brands outlines $7M average annual royalty run rate per brand by 2030 while targeting 2-3 new brand commercializations by Q4 2027",
-     "link": "https://seekingalpha.com/news/4673517-xcel-brands-outlines-7m-average-annual-royalty-run-rate-per-brand-by-2030-while-targeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 04:16:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Xcel Brands outlines $7M average annual royalty run rate per brand by 2030 while targeting 2-3 new brand commercializations by Q4 2027"
-    },
-    {
-     "title": "Locafy GAAP EPS of -A$0.40, revenue of A$0.83M",
-     "link": "https://seekingalpha.com/news/4673518-locafy-gaap-eps-of-a040-revenue-of-a083m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 04:16:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Locafy GAAP EPS of -A$0.40, revenue of A$0.83M"
-    },
-    {
-     "title": "DOJ set to review DoorDash-Instacart deal - report",
-     "link": "https://seekingalpha.com/news/4673464-doj-to-review-doordash-instacart-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 04:10:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "DOJ set to review DoorDash-Instacart deal - report"
+     "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+     "link": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
+     "pubDate": "Tue, 17 Nov 2026 09:23:40 GMT",
+     "summary": "A 15-million-file leak details alleged control failures at Deutsche Bank, including Epstein-linked payments and a Trump tax blunder.",
+     "source": "CNBC",
+     "zh": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets"
     },
     {
      "title": "多只宽基ETF尾盘放量！新发ETF频现机构身影",
@@ -2391,30 +2391,6 @@
      "summary": "广东省人民政府印发《 数字广东建设“十五五”规划 》，其中提到，锻造 数字经济 核心产业新优势。加快打造新的万亿级数字产业集群。壮大 集成电路制造 、先进封测等产业。培育光 通信 芯片、光传感芯片等产业集群，布局 人工智能 芯片设计和制造。做强高端 机器人 核心部件制造业。培育6G产业，加快新一代核心器件与网络 通信设备 产业化。发展“ 人工智能 +”软件信息产业，推动传统软件智能重构。强化“模数共振”，培育模型即服务、智能体即服务等新业态，构建“通用模型一原生智能体一行业适配”体系，探索发展世界模型。发展超高清视频与新型显示等智能显示终端。推广工业 机器人 、服务 机器人 等智能产品。做强 ",
      "source": "东方财富资讯",
      "zh": "《数字广东建设“十五五”规划》：加快打造新的万亿级数字产业集群 壮大集成电路制造、先进封测等产业"
-    },
-    {
-     "title": "中国烹饪协会：10月全国餐饮收入5235亿元，同比增长0.7%",
-     "link": "http://www.eeo.com.cn/2026/1117/1095245.shtml",
-     "pubDate": "Tue, 17 Nov 2026 16:54:18 +0800",
-     "summary": "2026年10月，全国餐饮收入5235亿元，同比增长0.7%，增速较9月回落1.4个百分点；限额以上单位餐饮收入1459亿元，同比下降2.9%，由9月的正增长再度转负。",
-     "source": "经济观察网",
-     "zh": "中国烹饪协会：10月全国餐饮收入5235亿元，同比增长0.7%"
-    },
-    {
-     "title": "South Korea will suspend all aircraft operation for 35 minutes and markets will open late. Here’s why",
-     "link": "https://www.cnbc.com/2026/11/17/south-korea-suspend-aircraft-exam-markets.html",
-     "pubDate": "Tue, 17 Nov 2026 08:39:17 GMT",
-     "summary": "South Korea will suspend aircraft takeoffs and landings nationwide for 35 minutes on Thursday to minimize noise during a college entrance exam.",
-     "source": "CNBC",
-     "zh": "South Korea will suspend all aircraft operation for 35 minutes and markets will open late. Here’s why"
-    },
-    {
-     "title": "Treasury yields are broadly flat as investors await retail sales data",
-     "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
-     "pubDate": "Tue, 17 Nov 2026 08:23:51 GMT",
-     "summary": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
-     "source": "CNBC",
-     "zh": "Treasury yields are broadly flat as investors await retail sales data"
     },
     {
      "title": "尾盘又有资金抄底！市场全天宽幅震荡 半导体产业链盘中反弹",
@@ -2489,14 +2465,6 @@
      "zh": "AI答案越来越多，知乎继续押注专业作者"
     },
     {
-     "title": "全球股市四连跌，英伟达绩前跌幅加深，韩股收跌2.6%，油价下跌",
-     "link": "https://wallstreetcn.com/articles/3786084",
-     "pubDate": "Tue, 17 Nov 2026 15:49:04 +0800",
-     "summary": "全球股市跌势蔓延至第四个交易日，英伟达财报前夕的避险情绪令亚太市场首当其冲。油价同步下挫，市场风险偏好持续受压。 标普500指数期货下跌0.2%，而纳斯达克100指数在连续三天下跌后涨幅不大。MSCI亚太股票指数盘中最大跌幅达1.5%，逼近4月初以来最低收盘位，韩国股市领跌。与此同时，英伟达股价周一下跌4.1%，本周将公布的季度财报及首席执行官黄仁勋去留问题，共同构成近期AI交易方向的两大关键变量。MSCI全球股票指数周二小幅下滑0.2%，连续第四日录得跌幅。 大宗商品市场方面，布伦特原油跌破每桶92美元，WTI原油下跌0.9%至每桶84.98美元，供应过剩迹象及美国副总统JD Vance释放",
-     "source": "华尔街见闻",
-     "zh": "全球股市四连跌，英伟达绩前跌幅加深，韩股收跌2.6%，油价下跌"
-    },
-    {
      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
      "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
      "pubDate": "Tue, 17 Nov 2026 07:07:35 GMT",
@@ -2511,6 +2479,14 @@
      "summary": "Millions of leaked documents cast light on Christian Sewing’s leadership of the scandal-hit lender",
      "source": "Financial Times",
      "zh": "‘Katastrophe’: inside the chaos at Germany’s biggest bank"
+    },
+    {
+     "title": "German lender processed $582mn of suspicious payments linked to Epstein",
+     "link": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 06:00:06 GMT",
+     "summary": "Figure revealed by internal documents is substantially higher than previously known",
+     "source": "Financial Times",
+     "zh": "German lender processed $582mn of suspicious payments linked to Epstein"
     }
    ]
   },

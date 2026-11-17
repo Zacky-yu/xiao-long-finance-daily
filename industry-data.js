@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 02:43:03",
+ "generated_at": "2026/11/18 02:52:11",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Google to keep Gemini chats for two months, up from 72 hours, even with history off",
+     "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+     "pubDate": "Tue, 17 Nov 2026 18:48:23 +0000",
+     "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+     "source": "TechCrunch AI",
+     "zh": "Google to keep Gemini chats for two months, up from 72 hours, even with history off"
+    },
     {
      "title": "As decision model use skyrockets, is customization the next frontier?",
      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
@@ -58,12 +66,12 @@ window.INDUSTRY_DATA = {
      "zh": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO"
     },
     {
-     "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-     "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-     "pubDate": "Tue, 17 Nov 2026 16:32:55 +0000",
-     "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-     "source": "TechCrunch AI",
-     "zh": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too"
+     "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
+     "link": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
+     "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
+     "summary": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier score, and fix it with Platt scaling and isotonic regression",
+     "source": "KDnuggets",
+     "zh": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn"
     },
     {
      "title": "Research Reports",
@@ -88,6 +96,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月17日消息，刚刚，由诺奖得主、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis）创办的英国AI药物研发公司Isomorphic Labs宣布完成 50亿美元（约合人民币333亿元）C轮融资 ，融资获得超额认购。 结合公开数据不完全统计，本轮融资刷新该公司此前的单轮融资纪录，可能创下 全球AI制药领域单轮融资规模新纪录 。 ▲哈萨比斯宣布Isomorphic Labs完成C轮融资（图源：X） 2025年3月，Isomorphic Labs宣布完成 6亿美元（约合人民币40亿元）首次外部融资 。今年5月，该公司再获",
      "source": "智东西",
      "zh": "刚刚，诺奖得主的AI公司融了333亿"
+    },
+    {
+     "title": "7 Best AI Coding Plans for $10 or Less in 2026",
+     "link": "https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026",
+     "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
+     "summary": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed, and Xiaomi MiMo.",
+     "source": "KDnuggets",
+     "zh": "7 Best AI Coding Plans for $10 or Less in 2026"
     },
     {
      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西11月17日消息，今日凌晨， AMD 宣布完成对“AI教母” 李飞飞 联合创办的空间智能公司 World Labs 的收购。 AMD在社交平台X上发文，放出AMD董事会主席兼CEO 苏姿丰 与斯坦福大学计算机科学红杉讲席教授、World Labs联合创始人兼CEO 李飞飞 的同框照片，官宣World Labs团队正式加入AMD。推文附带握手表情，同时标注了“芯片女王”“AI教母”两个称号。 李飞飞转发了这篇推文，她说：“AI是一项文明科技！在这个历史时刻，我们每个人都面临着巨大的机遇和责任。我深感荣幸和激动能够领导World Labs加入AMD。",
      "source": "智东西",
      "zh": "刚刚，李飞飞正式加入AMD，与苏姿丰同框"
-    },
-    {
-     "title": "刚刚，华为首个具身世界模型来了！国产算力训出，拿下双冠",
-     "link": "https://zhidx.com/p/610813.html",
-     "pubDate": "Tue, 17 Nov 2026 08:43:27 +0800",
-     "summary": "智东西 作者 | 三北 编辑 | 心缘 智东西11月16日报道，今日，华为云推出其 首款 昇腾原生具身世界模型CloudRobo-WM1.2 ，并宣布于11月30日正式开放WM1.2模型权重、推理后训练代码及预训练最佳实践。 该模型采用共享世界模型骨干网络实现预测增强的世界表征，基于世界模型原生DualAct架构实现世界模型原生动作生成，在 RoboTwin 2.0、LiberoPro 2.0评测中均位列第一。 现场，华为云展示了基于CloudRobo-WM1.2的机器人完成 工业级搬运连续作业、轴承毛刺清洁 等真实工业场景实验，以及在 无人零售场景 中完成了物品上架、礼物入柜等收纳任务。 会",
-     "source": "智东西",
-     "zh": "刚刚，华为首个具身世界模型来了！国产算力训出，拿下双冠"
-    },
-    {
-     "title": "Strengthening NATO and allied cyber defenses with AI",
-     "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-     "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
-     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-     "source": "OpenAI",
-     "zh": "Strengthening NATO and allied cyber defenses with AI"
     }
    ]
   },
@@ -674,6 +674,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "How Does The REO Runabout Stack Up Against Slate?",
+     "link": "https://insideevs.com/news/815780/reo-runabout-slate-auto/",
+     "pubDate": "Tue, 17 Nov 2026 18:43:59 +0000",
+     "summary": "REO is like the gas-powered version of Slate but how does it compare on paper?",
+     "source": "InsideEVs",
+     "zh": "How Does The REO Runabout Stack Up Against Slate?"
+    },
+    {
      "title": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging",
      "link": "https://electrek.co/2026/11/17/bmws-first-us-built-ev-delivers-435-miles-range-fast-charging/",
      "pubDate": "Tue, 17 Nov 2026 18:23:03 +0000",
@@ -690,12 +698,12 @@ window.INDUSTRY_DATA = {
      "zh": "Chevy, GMC, and Cadillac EV Owners Can Now Plug And Charge At Electrify America"
     },
     {
-     "title": "Every EV Motor Type Explained: Not All EV Motors Needs Rare Earth Magnets",
+     "title": "Every EV Motor Type Explained: They Aren't All The Same",
      "link": "https://insideevs.com/features/815764/all-types-ev-motors-explained/",
      "pubDate": "Tue, 17 Nov 2026 17:04:23 +0000",
      "summary": "Not all EV motors have permanent magnets. Some replace them with powered coils or induction.",
      "source": "InsideEVs",
-     "zh": "Every EV Motor Type Explained: Not All EV Motors Needs Rare Earth Magnets"
+     "zh": "Every EV Motor Type Explained: They Aren't All The Same"
     },
     {
      "title": "11-term rep who mocked a kid’s letter about EVs currently losing her seat (Upd.)",
@@ -776,14 +784,6 @@ window.INDUSTRY_DATA = {
      "summary": "The tiny Racco electric kei car is drawing new customers as BYD passes 10,000 cumulative sales in Japan.",
      "source": "InsideEVs",
      "zh": "BYD Is Winning Over Japan With A Very Japanese Kind Of EV"
-    },
-    {
-     "title": "Bentley’s First EV Is Already Sold Out, And Production Hasn’t Even Started",
-     "link": "https://insideevs.com/news/815694/bentley-torcal-sold-out-2027-official/",
-     "pubDate": "Tue, 17 Nov 2026 09:42:55 +0000",
-     "summary": "Customers of the $220,000+ Bentley Torcal who order now will need to wait until 2028 to get their cars.",
-     "source": "InsideEVs",
-     "zh": "Bentley’s First EV Is Already Sold Out, And Production Hasn’t Even Started"
     },
     {
      "title": "Nio schedules Q3 earnings for December 1 after deliveries rise 25.4%",
@@ -1570,6 +1570,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+     "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+     "pubDate": "Tue, 17 Nov 2026 18:38:37 GMT",
+     "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+     "source": "Dark Reading",
+     "zh": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach"
+    },
+    {
      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
      "pubDate": "Tue, 17 Nov 2026 13:21:24 -0500",
@@ -1754,14 +1762,6 @@ window.INDUSTRY_DATA = {
      "zh": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks"
     },
     {
-     "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
-     "link": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
-     "pubDate": "Mon, 16 Nov 2026 14:22:15 GMT",
-     "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
-     "source": "Dark Reading",
-     "zh": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check"
-    },
-    {
      "title": "Who Runs the Ransomware Group Qilin?",
      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
      "pubDate": "Wed, 11 Nov 2026 18:06:01 +0000",
@@ -1893,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
      "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
      "pubDate": "Tue, 17 Nov 2026 17:49:01 +0000",
-     "summary": "Article URL: https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/ Comments URL: https://news.ycombinator.com/item?id=50535268 Points: 17 # Comments: 4",
+     "summary": "Article URL: https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/ Comments URL: https://news.ycombinator.com/item?id=50535268 Points: 28 # Comments: 7",
      "source": "Hacker News",
      "zh": "iCloud, App Store, and other Apple services hit by ongoing outage"
     },
@@ -1901,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Apple Services Down",
      "link": "https://downdetector.com/status/apple-support/",
      "pubDate": "Tue, 17 Nov 2026 17:47:14 +0000",
-     "summary": "Article URL: https://downdetector.com/status/apple-support/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 65 # Comments: 21",
+     "summary": "Article URL: https://downdetector.com/status/apple-support/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 106 # Comments: 43",
      "source": "Hacker News",
      "zh": "Apple Services Down"
     },
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "GPT‑6.2 Astra and Sol",
      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
      "pubDate": "Tue, 17 Nov 2026 17:46:43 +0000",
-     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 329 # Comments: 149",
+     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 402 # Comments: 206",
      "source": "Hacker News",
      "zh": "GPT‑6.2 Astra and Sol"
     },
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Who Builds the Machines That Build the Machines?",
      "link": "https://read.corematter.com/p/section-232-us-machine-tools",
      "pubDate": "Tue, 17 Nov 2026 17:45:39 +0000",
-     "summary": "Article URL: https://read.corematter.com/p/section-232-us-machine-tools Comments URL: https://news.ycombinator.com/item?id=50535208 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://read.corematter.com/p/section-232-us-machine-tools Comments URL: https://news.ycombinator.com/item?id=50535208 Points: 10 # Comments: 2",
      "source": "Hacker News",
      "zh": "Who Builds the Machines That Build the Machines?"
     },
@@ -1954,18 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "华为 Mate 90 系列手机 AI 快捷栏全新交互体验曝光，与星芒 OSTA O1 Pro 风格完全不同"
     },
     {
-     "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-     "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-     "pubDate": "Tue, 17 Nov 2026 17:13:57 +0000",
-     "summary": "Article URL: https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/ Comments URL: https://news.ycombinator.com/item?id=50534664 Points: 64 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware"
-    },
-    {
      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
      "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
      "pubDate": "Tue, 17 Nov 2026 17:12:06 +0000",
-     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 28 # Comments: 4",
+     "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 51 # Comments: 13",
      "source": "Hacker News",
      "zh": "Nvidia stopped disclosing Singapore sales as revenues hit $104B"
     },
@@ -1976,6 +1968,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 18 日消息，深圳市绿联科技股份有限公司绿联云官方微博昨日发布公告，宣布为构建更统一、清晰的品牌认知体系，推动全球化品牌战略布局及长期发展，自 2026 年 11 月 17 日起， “UGOS Pro”系统与“UGOS”系统的对外名称将统一调整为“UGOS” 。 绿联 NAS 私有云表示， 原“UGOS”系统在绿联官网等渠道将以“UGOS 经典版”作区分 。本次调整仅涉及系统名称变更，系统版本、功能与服务均保持不变，您的设备、数据与账号不受影响，无需进行任何操作，可继续正常使用。 此外，更名过渡期间，部分系统界面、帮助文档、历史内容及产品包装中仍可能出现“UGOS Pro”",
      "source": "IT之家",
      "zh": "绿联 NAS 私有云系统官宣对外名称统一调整为“UGOS”：版本、功能与服务保持不变"
+    },
+    {
+     "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+     "link": "https://news.ycombinator.com/item?id=50534429",
+     "pubDate": "Tue, 17 Nov 2026 17:00:24 +0000",
+     "summary": "Comments URL: https://news.ycombinator.com/item?id=50534429 Points: 0 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off"
     },
     {
      "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
@@ -2034,12 +2034,36 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Why iPhone Duo wasn’t for me (but might be for you)",
+     "link": "https://9to5mac.com/2026/11/17/why-iphone-duo-wasnt-for-me-but-might-be-for-you/",
+     "pubDate": "Tue, 17 Nov 2026 18:48:36 +0000",
+     "summary": "I’ve had the iPhone Duo for nearly two weeks now, and have officially decided to return it. Here are the three main reasons why the Duo didn’t work out for me, but might for you. more…",
+     "source": "9to5Mac",
+     "zh": "Why iPhone Duo wasn’t for me (but might be for you)"
+    },
+    {
+     "title": "Disney Plus and Hulu will be a fully unified experience in December",
+     "link": "https://www.androidauthority.com/disney-plus-and-hulu-merge-in-december-3736218/",
+     "pubDate": "Tue, 17 Nov 2026 18:46:16 +0000",
+     "summary": "Start saying your goodbyes to the Hulu app.",
+     "source": "Android Authority",
+     "zh": "Disney Plus and Hulu will be a fully unified experience in December"
+    },
+    {
      "title": "YouTube is testing auto-expanding video previews on TVs",
      "link": "https://www.androidauthority.com/youtube-tv-video-previews-auto-full-screen-test-3736166/",
      "pubDate": "Tue, 17 Nov 2026 18:27:29 +0000",
      "summary": "The new behavior extends beyond Google TV.",
      "source": "Android Authority",
      "zh": "YouTube is testing auto-expanding video previews on TVs"
+    },
+    {
+     "title": "OpenAI releases GPT-6.2 Astra to regain performance lead from Claude Fable 5.2",
+     "link": "https://9to5google.com/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-for-complex-projects-a-week-after-claude-5-2/",
+     "pubDate": "Tue, 17 Nov 2026 18:20:00 +0000",
+     "summary": "The frontier model races continues. A week after the launch of Anthropic’s Claude 5.2 and Google’s Gemini 4 Hydrogen, OpenAI is releasing GPT-6.2 Astra and Sol as a “new standard for professional work.” more…",
+     "source": "9to5Google",
+     "zh": "OpenAI releases GPT-6.2 Astra to regain performance lead from Claude Fable 5.2"
     },
     {
      "title": "Galaxy Watch 9 drops to $269 without a trade-in, extra $50 credit",
@@ -2186,36 +2210,12 @@ window.INDUSTRY_DATA = {
      "zh": "Gemini is getting text message and email control through Channels"
     },
     {
-     "title": "Your paid Galaxy AI subscription could unlock extra custom cards in Now Brief",
-     "link": "https://www.androidauthority.com/samsung-galaxy-ai-custom-cards-now-brief-limit-credits-3736153/",
-     "pubDate": "Tue, 17 Nov 2026 17:00:39 +0000",
-     "summary": "Samsung will also let you buy more AI plan credits required for editing and creating custom cards.",
-     "source": "Android Authority",
-     "zh": "Your paid Galaxy AI subscription could unlock extra custom cards in Now Brief"
-    },
-    {
-     "title": "VSCO launches its first native Mac photo editor with RAW support, batch editing, more",
-     "link": "https://9to5mac.com/2026/11/17/vsco-launches-its-first-native-mac-photo-editor-with-raw-support-batch-editing-more/",
-     "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
-     "summary": "VSCO today released Studio Pro Desktop, its first native photo editor for Mac, bringing many of the company’s familiar editing tools to macOS, alongside new features aimed at photographers working with large numbers of images. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "VSCO launches its first native Mac photo editor with RAW support, batch editing, more"
-    },
-    {
      "title": "Google AI Mode rolling out temporary threads",
      "link": "https://9to5google.com/2026/11/17/google-ai-mode-temporary-threads/",
      "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
      "summary": "Following last week’s Gemini 4 Hydrogen launch , a small update to AI Mode today lets you start a “temporary thread” that won’t be saved to your Google history. more…",
      "source": "9to5Google",
      "zh": "Google AI Mode rolling out temporary threads"
-    },
-    {
-     "title": "You can now Email and Text (via Google Messages, iMessage) with Gemini",
-     "link": "https://9to5google.com/2026/11/17/email-text-with-gemini/",
-     "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
-     "summary": "As previewed at I/O 2026, you can text — via Google Messages and iMessage — or email directly with Gemini. more…",
-     "source": "9to5Google",
-     "zh": "You can now Email and Text (via Google Messages, iMessage) with Gemini"
     },
     {
      "title": "VSCO brings its film-inspired presets to the desktop with a new Raw editor",
@@ -2282,6 +2282,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "FAA pauses installation of new routers after ground stop",
+     "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+     "pubDate": "Tue, 17 Nov 2026 18:48:33 GMT",
+     "summary": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
+     "source": "CNBC",
+     "zh": "FAA pauses installation of new routers after ground stop"
+    },
+    {
+     "title": "‘It is heartbreaking’: My brother took over our ailing mother’s life and finances. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 18:46:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It is heartbreaking’: My brother took over our ailing mother’s life and finances. What can I do?"
+    },
+    {
+     "title": "Bill Holdings may be worth $76 to $91/share in takeover - analyst",
+     "link": "https://seekingalpha.com/news/4673829-bill-holdings-may-be-worth-76-to-91-share-in-takeover-analyst?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 13:45:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bill Holdings may be worth $76 to $91/share in takeover - analyst"
+    },
+    {
+     "title": "Kraft Heinz still has Berkshire Hathaway as its top investor",
+     "link": "https://seekingalpha.com/news/4673631-kraft-heinz-still-has-berkshire-hathaway-as-its-top-investor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 13:40:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kraft Heinz still has Berkshire Hathaway as its top investor"
+    },
+    {
+     "title": "DOJ says 'full extent of the law' faces Megaspeed if criminal conduct found",
+     "link": "https://seekingalpha.com/news/4673826-doj-says-full-extent-of-the-law-faces-megaspeed-if-criminal-conduct-found?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 13:36:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "DOJ says 'full extent of the law' faces Megaspeed if criminal conduct found"
+    },
+    {
      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
      "pubDate": "Tue, 17 Nov 2026 18:35:00 GMT",
@@ -2322,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Standard Lithium targets over $1.2B SWA project debt and expects FID by end of Q1 2027"
     },
     {
-     "title": "Vertiv expands new power system for AI compute pods, data centers",
-     "link": "https://seekingalpha.com/news/4673825-vertiv-expands-new-power-system-for-ai-compute-pods-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 13:23:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vertiv expands new power system for AI compute pods, data centers"
-    },
-    {
      "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
      "pubDate": "Tue, 17 Nov 2026 18:21:03 GMT",
@@ -2346,28 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. officially loses measles elimination status amid ongoing outbreaks"
     },
     {
-     "title": "Tronox plunges as creditors reportedly engage restructuring advisors",
-     "link": "https://seekingalpha.com/news/4673821-tronox-plunges-as-creditors-reportedly-engage-restructuring-advisors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 13:01:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tronox plunges as creditors reportedly engage restructuring advisors"
-    },
-    {
      "title": "US tech stocks slide ahead of Nvidia results",
      "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
      "pubDate": "Tue, 17 Nov 2026 17:56:57 GMT",
      "summary": "Nasdaq 100 down 1.1% after volatile run of trading",
      "source": "Financial Times",
      "zh": "US tech stocks slide ahead of Nvidia results"
-    },
-    {
-     "title": "Greenwich LifeSciences jumps on upcoming poster presentations on cancer trial",
-     "link": "https://seekingalpha.com/news/4673823-greenwich-life-jumps-upcoming-presentations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 12:55:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Greenwich LifeSciences jumps on upcoming poster presentations on cancer trial"
     },
     {
      "title": "Trump on Iran&apos;s reported DC dirty bomb plan: &apos;We take it very seriously&apos;",
@@ -2394,28 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters"
     },
     {
-     "title": "FAA pauses installation of new routers after ground stop",
-     "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-     "pubDate": "Tue, 17 Nov 2026 17:27:57 GMT",
-     "summary": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
-     "source": "CNBC",
-     "zh": "FAA pauses installation of new routers after ground stop"
-    },
-    {
      "title": "The latest tech failure: U.S. classified national security communications network",
      "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
      "pubDate": "Tue, 17 Nov 2026 17:12:00 GMT",
      "summary": "A reported outage of a classified U.S. communications network has become the latest in a growing string of technology disruptions impacting consumers, businesses and the government.",
      "source": "MarketWatch",
      "zh": "The latest tech failure: U.S. classified national security communications network"
-    },
-    {
-     "title": "Parents told us what it’s like to help their kids battle sports-gambling addiction: ‘There’s no handbook’",
-     "link": "https://www.marketwatch.com/story/parents-told-us-what-its-like-to-help-their-kids-battle-sports-gambling-addiction-theres-no-handbook-6e2d5bb2?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 17:07:00 GMT",
-     "summary": "“We essentially married the most addictive device with the most addictive behavior, and we put them together.”",
-     "source": "MarketWatch",
-     "zh": "Parents told us what it’s like to help their kids battle sports-gambling addiction: ‘There’s no handbook’"
     },
     {
      "title": "Jensen Huang says he is prepared to return as Nvidia CEO",

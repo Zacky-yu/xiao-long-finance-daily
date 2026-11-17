@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 19:32:03",
+ "generated_at": "2026/11/17 19:44:23",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "科学家拿AI干什么？OpenAI新报告揭秘：阅读写作最多，编程提效最猛",
+     "link": "https://zhidx.com/p/611480.html",
+     "pubDate": "Tue, 17 Nov 2026 18:53:27 +0800",
+     "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月17日消息，今天，OpenAI发布一项研究报告，关于科学家使用ChatGPT的情况以及对AI加速科研发现的看法。据受访科学家估计，在完成同等质量工作的前提下，使用AI的工作效率可达未使用时的 约1.9倍 。 OpenAI经济研究团队以ChatGPT学术研究人员计划的夏季试点参与者为研究对象，分析了1819名科学家的逾58万条科研消息，并对251名参与者进行调查访问。这些消息来自ChatGPT的聊天与工作模式，以及Codex。 该报告主要围绕 以下三个问题 展开：科学家将ChatGPT用于哪些科研任务、如何与这两款工具分工，以及他们认为AI带",
+     "source": "智东西",
+     "zh": "科学家拿AI干什么？OpenAI新报告揭秘：阅读写作最多，编程提效最猛"
+    },
     {
      "title": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
      "link": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
@@ -31,6 +39,30 @@
      "summary": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1. The post Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That T",
      "source": "MarkTechPost",
      "zh": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index"
+    },
+    {
+     "title": "AI蛋白质设计开始比谁的分子能用：这家AI制药公司拿到数亿元融资",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074900&idx=1&sn=943b14f5dfc3b6daa9c74f8641732b62",
+     "pubDate": "Tue, 17 Nov 2026 11:38:00 +0800",
+     "summary": "途深智合完成Pre-A及Pre-A+轮数亿元融资",
+     "source": "机器之心",
+     "zh": "AI蛋白质设计开始比谁的分子能用：这家AI制药公司拿到数亿元融资"
+    },
+    {
+     "title": "千万token下，比DeepSeek式稀疏注意力再快22倍",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074900&idx=2&sn=9e3dc407e5451c7ff8aef36fd598f6ce",
+     "pubDate": "Tue, 17 Nov 2026 11:38:00 +0800",
+     "summary": "稀疏注意力新解法：千万token下注意力层最高提速72倍",
+     "source": "机器之心",
+     "zh": "千万token下，比DeepSeek式稀疏注意力再快22倍"
+    },
+    {
+     "title": "训练一个强大的智能体，究竟有多简单？字节跳动等推出Axion 1.0",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074900&idx=3&sn=b8ce1837d869e2563a888e3df5a04a89",
+     "pubDate": "Tue, 17 Nov 2026 11:38:00 +0800",
+     "summary": "能搜索资料、运行代码，还能完成多步科学研究任务——训练这样的智能体，究竟需要多少道工序？",
+     "source": "机器之心",
+     "zh": "训练一个强大的智能体，究竟有多简单？字节跳动等推出Axion 1.0"
     },
     {
      "title": "估值一年翻倍！美国AI独角兽拿下20亿新融资",
@@ -177,14 +209,6 @@
      "zh": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了"
     },
     {
-     "title": "百度三季度营收308亿，53%靠AI",
-     "link": "https://zhidx.com/p/610703.html",
-     "pubDate": "Mon, 16 Nov 2026 21:39:20 +0800",
-     "summary": "智东西 作者 | 程茜 编辑 | 李水青 智东西11月16日报道，刚刚，百度公布2026年第二季度财报。其第二季度营收为 308亿元 ，同比下降 1% ，环比下降2%；归属于百度净利润 13.95亿元 ，摊薄后每ADS收益为4.35元，非GAAP净利润 24亿元 ，摊薄后每ADS收益为6.78元。 本季度，百度的研发投入达到 48亿元 ，同比下降7%。财报披露，本季度百度的现金及投资总额为 2766亿元 ，经营现金流达到 28亿元 。 百度联合创始人、CEO李彦宏称，百度长期投资的全栈AI正转化为大规模增长， A I 云基础设施成为一般性业务收入增长的主要推动力 。 百度AI业务收入占到其一般",
-     "source": "智东西",
-     "zh": "百度三季度营收308亿，53%靠AI"
-    },
-    {
      "title": "Building AI that can work across the enterprise",
      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
      "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
@@ -223,30 +247,6 @@
      "summary": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code ",
      "source": "MarkTechPost",
      "zh": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands"
-    },
-    {
-     "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
-     "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
-     "pubDate": "Mon, 16 Nov 2026 09:44:17 +0000",
-     "summary": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPos",
-     "source": "MarkTechPost",
-     "zh": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context"
-    },
-    {
-     "title": "How Revolut raises ambition without lowering the bar",
-     "link": "https://openai.com/business/customer-stories/revolut",
-     "pubDate": "Mon, 16 Nov 2026 09:30:00 GMT",
-     "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-     "source": "OpenAI",
-     "zh": "How Revolut raises ambition without lowering the bar"
-    },
-    {
-     "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
-     "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
-     "pubDate": "Mon, 16 Nov 2026 09:08:37 +0000",
-     "summary": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL. The post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro appeared first on MarkTe",
-     "source": "MarkTechPost",
-     "zh": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 10:55:04 +0000",
+     "summary": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
+     "source": "Electronics Weekly",
+     "zh": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers"
+    },
     {
      "title": "30 AI firms top US$10B valuations as DeepSeek, Moonshot crack top 10",
      "link": "https://www.digitimes.com/news/a20261117PD244/market-deepseek-revenue-openai-anthropic.html",
@@ -359,14 +367,6 @@
      "summary": "Melexis has introduced the MLX90901 Tactile Fingertip Module, bringing true 3D force sensing (normal & shear) to humanoid robotic hands. The company’s first mechatronic module combines its Tactaxis sensing technology […] The post Melexis launches fingertip modules for humanoid robots appeared first ",
      "source": "Electronics Weekly",
      "zh": "Melexis launches fingertip modules for humanoid robots"
-    },
-    {
-     "title": "ST adds 600V devices to STDRIVE portfolio",
-     "link": "https://www.electronicsweekly.com/news/business/st-adds-600v-devices-to-stdrie-portfolio-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 06:02:37 +0000",
-     "summary": "ST has extended its STDRIVE family of three-phase gate drivers with two new 600V devices that let motor drives and inverters operate directly from a high-voltage bus. The STDRIVE631P and […] The post ST adds 600V devices to STDRIVE portfolio appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "ST adds 600V devices to STDRIVE portfolio"
     },
     {
      "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
@@ -873,6 +873,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Solarcyle, Korea Zinc’s PedalPoint Recycling merge to form US recycling platform Jupiter",
+     "link": "https://www.pv-tech.org/solarcycle-korea-zinc-pedalpoint-recycling-merge-jupiter-us-recycling-platform/",
+     "pubDate": "Tue, 17 Nov 2026 11:38:40 +0000",
+     "summary": "US-based recycling firm Solarcyle is expanding beyond PV with a new joint venture dubbed 'Jupiter' aimed at supplying recycled materials to the hyperscaler and data centre industries.",
+     "source": "PV Tech",
+     "zh": "Solarcyle, Korea Zinc’s PedalPoint Recycling merge to form US recycling platform Jupiter"
+    },
+    {
+     "title": "Trina Solar among investors in HoloSolis’ planned 5GW module plant",
+     "link": "https://www.pv-tech.org/trina-solar-invests-holosolis-5gw-french-module-plant/",
+     "pubDate": "Tue, 17 Nov 2026 11:31:13 +0000",
+     "summary": "Chinese PV manufacturer Trina Solar is among four new shareholders €15 million in the French start-up HoloSolis planned 5GW module plant.",
+     "source": "PV Tech",
+     "zh": "Trina Solar among investors in HoloSolis’ planned 5GW module plant"
+    },
+    {
      "title": "LONGi to supply 176MW of BC solar modules for OX2’s solar PV plant in Australia",
      "link": "https://www.pv-tech.org/longi-176mw-bc-modules-ox2-muswellbrook-solar-storage-australia/",
      "pubDate": "Tue, 17 Nov 2026 11:15:11 +0000",
@@ -1095,22 +1111,6 @@
      "summary": "FERC&rsquo;s Lindsay See on federal permitting reform: &ldquo;I'm a former litigator. I lived in the trenches here. I think one of the biggest drivers in terms of cost and extra time is uncertainty in legal statutes.&rdquo;",
      "source": "Utility Dive",
      "zh": "FERC’s See on large loads, Western markets and affordability"
-    },
-    {
-     "title": "Flatiron Energy breaks ground on 1.2GWh Massachusetts BESS",
-     "link": "https://www.energy-storage.news/flatiron-energy-breaks-ground-on-1-2gwh-massachusetts-bess/",
-     "pubDate": "Mon, 16 Nov 2026 14:50:50 +0000",
-     "summary": "US energy storage developer Flatiron Energy has broken ground on its 250MW/1,200MWh Energizar Energy Storage Project in Chelsea, Massachusetts, US.",
-     "source": "Energy Storage News",
-     "zh": "Flatiron Energy breaks ground on 1.2GWh Massachusetts BESS"
-    },
-    {
-     "title": "NeoVolta anchors US manufacturing ramp-up with US$116 million BESS agreement as quarterly loss narrows",
-     "link": "https://www.energy-storage.news/neovolta-anchors-us-manufacturing-ramp-up-with-us116-million-bess-agreement-as-quarterly-loss-narrows/",
-     "pubDate": "Mon, 16 Nov 2026 14:46:53 +0000",
-     "summary": "US-based BESS manufacturer NeoVolta has signed a US$116 million master purchase agreement with an unnamed “leading energy solutions provider.”",
-     "source": "Energy Storage News",
-     "zh": "NeoVolta anchors US manufacturing ramp-up with US$116 million BESS agreement as quarterly loss narrows"
     }
    ]
   },
@@ -1569,12 +1569,28 @@
    "total": 5,
    "items": [
     {
+     "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+     "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+     "pubDate": "Tue, 17 Nov 2026 16:50:18 +0530",
+     "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud",
+     "source": "The Hacker News",
+     "zh": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
+    },
+    {
      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
      "pubDate": "Tue, 17 Nov 2026 06:19:51 -0500",
      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
      "source": "BleepingComputer",
      "zh": "Microsoft testing Remote Lock for lost or stolen Windows devices"
+    },
+    {
+     "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+     "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+     "pubDate": "Tue, 17 Nov 2026 16:37:31 +0530",
+     "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its A",
+     "source": "The Hacker News",
+     "zh": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks"
     },
     {
      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
@@ -1721,28 +1737,12 @@
      "zh": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches"
     },
     {
-     "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-     "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-     "pubDate": "Mon, 16 Nov 2026 18:57:20 +0530",
-     "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still p",
-     "source": "The Hacker News",
-     "zh": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days"
-    },
-    {
      "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
      "link": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
      "pubDate": "Mon, 16 Nov 2026 12:48:03 +0000",
      "summary": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch"
-    },
-    {
-     "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-     "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-     "pubDate": "Mon, 16 Nov 2026 18:04:21 +0530",
-     "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. ",
-     "source": "The Hacker News",
-     "zh": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login"
     },
     {
      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
@@ -1785,12 +1785,60 @@
    "total": 18,
    "items": [
     {
+     "title": "三大厂内存涨价7倍的锅，AI不背了",
+     "link": "https://www.huxiu.com/article/4906284.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 19:37:24 +0800",
+     "summary": "本文来自微信公众号： 字母榜 ，作者：思博，编辑：王靖，题图来自：AI生成 最近，硬件圈发生了一件魔幻的事。因为新一代DDR5内存条贵得离谱，而老款DDR4和DDR5插槽互不兼容，逼得多家主板厂从年中开始掉头重启了原本停产的DDR4主板产线。 更离谱的是，玩家去市场上一问价，发现老旧的DDR4不仅没便宜，近期涨幅一度反超了新款DDR5。今年的笔记本新品们，更是集体退回16GB内存时代。 这一年多来，每次下游抱怨，垄断全球91%以上DRAM份额的三星、SK海力士和美光都会说，是因为AI太火了，造AI算力卡急需的HBM吃光了晶圆产能，普通内存自然就缺货涨价。 这套解释听上去合理，很多人也就当真了。",
+     "source": "虎嗅",
+     "zh": "三大厂内存涨价7倍的锅，AI不背了"
+    },
+    {
+     "title": "Model ML, which builds AI agents integrated in Excel and PowerPoint to automate pitch decks, research, and due diligence, raised $250M at a $1.5B valuation (Yazhou Sun/Bloomberg)",
+     "link": "https://www.techmeme.com/261117/p15#a261117p15",
+     "pubDate": "Tue, 17 Nov 2026 06:30:00 -0500",
+     "summary": "Yazhou Sun / Bloomberg : Model ML, which builds AI agents integrated in Excel and PowerPoint to automate pitch decks, research, and due diligence, raised $250M at a $1.5B valuation &nbsp; &mdash;&nbsp; Model ML, a startup that builds artificial intelligence agents to handle rote tasks for bankers, c",
+     "source": "Techmeme",
+     "zh": "Model ML, which builds AI agents integrated in Excel and PowerPoint to automate pitch decks, research, and due diligence, raised $250M at a $1.5B valuation (Yazhou Sun/Bloomberg)"
+    },
+    {
+     "title": "贝索斯向非营利组织捐赠近 2 亿美元亚马逊股票，年内累计捐出 6.29 亿美元",
+     "link": "https://www.ithome.com/1/028/504.htm",
+     "pubDate": "Tue, 17 Nov 2026 11:28:54 GMT",
+     "summary": "IT之家 11 月 17 日消息，据彭博社报道，据提交给美国证券交易委员会（SEC）的一份 Form 4 文件显示，亚马逊创始人杰夫 · 贝索斯（Jeff Bezos）上周捐赠了 771,492 股亚马逊股票，其中 674,088 股于周四转让，另外 97,404 股于周五转让。 按照亚马逊周一 257.75 美元 （IT之家注：现汇率约合 1,722 元人民币） 的收盘价计算，这批股票总价值约为 1.989 亿美元 （现汇率约合 13.29 亿元人民币） 。 文件将两笔股票转让均标注为“向非营利组织捐赠”，但没有披露受赠机构的具体名称。不过，贝索斯地球基金会（Bezos Earth Fund",
+     "source": "IT之家",
+     "zh": "贝索斯向非营利组织捐赠近 2 亿美元亚马逊股票，年内累计捐出 6.29 亿美元"
+    },
+    {
+     "title": "米哈游公布通用视觉语言动作基础模型 Gamer，可自主游玩《崩坏：星穹铁道》等游戏",
+     "link": "https://www.ithome.com/1/028/503.htm",
+     "pubDate": "Tue, 17 Nov 2026 11:26:19 GMT",
+     "summary": "IT之家 11 月 17 日消息，米哈游旗下《崩坏》系列 AI 研发团队现已公布通用视觉语言动作基础模型“Gamer”。该模型能够模拟真人操作方式自主游玩 3D 和 2D 游戏。 根据研究论文及项目页面公开的信息，Gamer 无需读取游戏内部数据，也不依赖游戏专用 API，而是通过每秒 5 帧（5 Hz）的频率采集游戏画面作为输入，再生成相当于 30 Hz 的原生键盘按键状态及鼠标移动指令，从而模拟真人使用键鼠操作游戏的过程。 为了解决长时间执行任务时面临的内存限制和推理延迟问题，研究团队利用超过 1 万小时的跨游戏键鼠操作轨迹进行持续预训练，并结合稀疏思维指令微调和时序感知强化学习优化模型。",
+     "source": "IT之家",
+     "zh": "米哈游公布通用视觉语言动作基础模型 Gamer，可自主游玩《崩坏：星穹铁道》等游戏"
+    },
+    {
+     "title": "连医学论文都在用AI瞎编了吗？",
+     "link": "https://www.huxiu.com/article/4906315.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 19:21:48 +0800",
+     "summary": "本文来自微信公众号： 雷叔写故事 ，作者：小林 最近我刷到一篇神奇的论文。 这是湘雅二院团队关于微塑料促进鼻咽癌恶性进展的研究。 正文第一页的第二个脚注里，作者把“湖南省”写成了“人类省”。 如果是结尾参考文献、基金名称之类的写错也就算了，这可是开篇文字； 而且上两行写了两次湖南了，下面有一行也写了湖南，偏偏这个位置错了。 这就错得很神奇。还没完。 邮编数字里的“1”，变成了字母“l”（小写L）。 网站版本里，更是把两个错误重复展示一遍： 这是OCR识别截图的问题，还是粗暴复制粘贴带来的低级错误呢？ 也有可能是半手搓的，因为N、M在一块，容易打错字。 但如果你看论文看多了，格式讲究多了，这些细",
+     "source": "虎嗅",
+     "zh": "连医学论文都在用AI瞎编了吗？"
+    },
+    {
      "title": "An analysis of 350+ Amazon holiday deals: 29.1% were priced the same or higher than in the prior 30 days, and ~60% had no savings compared to the prior 90 days (Groundwork Collaborative)",
      "link": "https://www.techmeme.com/261117/p14#a261117p14",
      "pubDate": "Tue, 17 Nov 2026 06:20:02 -0500",
      "summary": "Groundwork Collaborative : An analysis of 350+ Amazon holiday deals: 29.1% were priced the same or higher than in the prior 30 days, and ~60% had no savings compared to the prior 90 days &nbsp; &mdash;&nbsp; Overview &hellip; Executive Summary&nbsp; &mdash;&nbsp; We reviewed the prices of hundreds o",
      "source": "Techmeme",
      "zh": "An analysis of 350+ Amazon holiday deals: 29.1% were priced the same or higher than in the prior 30 days, and ~60% had no savings compared to the prior 90 days (Groundwork Collaborative)"
+    },
+    {
+     "title": "29 岁女子在盒马下单 400 多次全部申请“仅退款”，被警方刑拘",
+     "link": "https://www.ithome.com/1/028/502.htm",
+     "pubDate": "Tue, 17 Nov 2026 11:18:00 GMT",
+     "summary": "IT之家 11 月 17 日消息，据“西安公安”公众号，近期西安经开公安张家堡派出所破获一起利用盒马商家售后规则实施的诈骗案，涉案的 29 岁女子在盒马下单 400 多次全部申请“仅退款”， 涉案金额 1.7 万余元 ，目前已被警方刑拘。 IT之家参考通报获悉，今年 11 月初，张家堡派出所接到盒马商家工作人员报警。商家在内部核查时发现一名用户的数据“不对劲”：从 2023 年至今，该用户几乎日日下单，其中 400 余单均申请“仅退款”，退款理由高度相似，均为食品“口味不好”“不新鲜”等类似理由，商品却从未退回，累计造成商家损失 1.7 万余元。 为规避监管，该女子频繁更换收货地址和手机号，把",
+     "source": "IT之家",
+     "zh": "29 岁女子在盒马下单 400 多次全部申请“仅退款”，被警方刑拘"
     },
     {
      "title": "9岁自闭症男孩，拿下2026年“时代”周刊年度儿童",
@@ -1825,12 +1873,36 @@
      "zh": "从63家AI硬件创业公司，我看到了这两个变化"
     },
     {
+     "title": "为防《GTA 6》被破解移植，索尼紧急推送 PS5 固件 14.23 封堵漏洞",
+     "link": "https://www.ithome.com/1/028/500.htm",
+     "pubDate": "Tue, 17 Nov 2026 11:11:56 GMT",
+     "summary": "IT之家 11 月 17 日消息，过去几周，索尼与 PlayStation 5 破解者之间爆发了一场固件攻防战。为了防止用户提前提取《侠盗猎车手 6》（GTA 6）的游戏文件，进而通过模拟器运行或将其移植到 PC 平台，索尼不得不连续推出多次小型固件更新。随着游戏正式发售日期临近，双方的较量也愈发激烈。 IT之家注意到，知名安全研究人员兼开发者 GeZine 在社交平台 X 上发文称：“看来我是第一个在 PS5 14.22 固件上成功提取游戏二进制文件的人。” 这名开发者以从不公开研究成果、也不透露具体技术手段而闻名。不过，他的这番表态还是让不少玩家燃起了希望：如果一切顺利，《GTA 6》在 ",
+     "source": "IT之家",
+     "zh": "为防《GTA 6》被破解移植，索尼紧急推送 PS5 固件 14.23 封堵漏洞"
+    },
+    {
      "title": "JD.com reports Q3 revenue up 3.5% YoY to ~$46.4B, meeting est., and net income up 22% to ~$975M, amid intense competition and a sluggish Chinese economy (Rachel Yeo/Bloomberg)",
      "link": "https://www.techmeme.com/261117/p13#a261117p13",
      "pubDate": "Tue, 17 Nov 2026 06:10:00 -0500",
      "summary": "Rachel Yeo / Bloomberg : JD.com reports Q3 revenue up 3.5% YoY to ~$46.4B, meeting est., and net income up 22% to ~$975M, amid intense competition and a sluggish Chinese economy &nbsp; &mdash;&nbsp; JD.com Inc. returned to revenue growth in the third quarter, showing signs of resilience against a ba",
      "source": "Techmeme",
      "zh": "JD.com reports Q3 revenue up 3.5% YoY to ~$46.4B, meeting est., and net income up 22% to ~$975M, amid intense competition and a sluggish Chinese economy (Rachel Yeo/Bloomberg)"
+    },
+    {
+     "title": "市场监管总局提醒：汽车生产企业对车辆实施召回均为免费，不会收取任何费用",
+     "link": "https://www.ithome.com/1/028/499.htm",
+     "pubDate": "Tue, 17 Nov 2026 11:05:58 GMT",
+     "summary": "IT之家 11 月 17 日消息，国家市场监督管理总局今天（17 日）晚间通过“市说新语”公众号发文通报，近期，有不法分子假借汽车召回名义实施网络诈骗，误导车主转账、泄露个人信息等。 市场监管总局提醒广大车主，汽车生产企业对车辆实施召回均免费，不会收取任何费用。 通报称，车主如需核实车辆召回信息，请及时登录国家市场监督管理总局缺陷产品召回技术中心官网（IT之家注： https://www.samrdprc.org.cn/ ），或关注微信公众号（市场监管总局召回中心）进行查询，也可联系汽车生产企业、授权经销商进行确认。 市场监管总局提醒，切勿轻信陌生来电、点击不明链接或扫描二维码，切勿向他人提供",
+     "source": "IT之家",
+     "zh": "市场监管总局提醒：汽车生产企业对车辆实施召回均为免费，不会收取任何费用"
+    },
+    {
+     "title": "Ookla 调查：美国城市室内移动信号表现全球垫底",
+     "link": "https://www.ithome.com/1/028/497.htm",
+     "pubDate": "Tue, 17 Nov 2026 11:02:15 GMT",
+     "summary": "IT之家 11 月 17 日消息，根据网络测速机构 Ookla 发布的一项调查，美国部分城市的室内手机信号表现位居全球末尾，移动网络运营商的室内覆盖能力令人担忧。 这项调查持续了一年，覆盖全球 60 个国家、100 多座城市，重点测量室内手机信号强度。结果显示，美国多个城市的室内信号表现较差，在受调查的城市中处于落后位置。 大多数人在室内时可能会优先使用 Wi-Fi，但并非所有场景都能连接无线网络。这时候，手机的 5G 和 4G 移动网络就显得尤为重要。如今的移动网络速度已经足以应对日常视频播放和大部分基础应用需求，用户在需要时也可以轻松切换到移动数据网络。 但现实情况并不总是如此。Ookla",
+     "source": "IT之家",
+     "zh": "Ookla 调查：美国城市室内移动信号表现全球垫底"
     },
     {
      "title": "AI股神的秋天：百亿美金，与一场没有流动性的逃亡",
@@ -1847,30 +1919,6 @@
      "summary": "Lingling Wei / Wall Street Journal : Chinese records: Alice Huang's husband Kang Wei built a state-backed data center network in China, with proposed investment exceeding $9B between 2021 and 2024 &nbsp; &mdash;&nbsp; Kang Wei developed the business while his wife was involved with Nvidia's then-CEO",
      "source": "Techmeme",
      "zh": "Chinese records: Alice Huang&apos;s husband Kang Wei built a state-backed data center network in China, with proposed investment exceeding $9B between 2021 and 2024 (Lingling Wei/Wall Street Journal)"
-    },
-    {
-     "title": "低过 11.11：夸克 SVIP 仅需 7.7 元 / 月，支持每月 100 次离线下载",
-     "link": "https://www.ithome.com/1/028/495.htm",
-     "pubDate": "Tue, 17 Nov 2026 11:00:40 GMT",
-     "summary": "夸克 SVIP 年卡官方定价 300 元，日常大促价 158 元 / 年、25 元 / 月。 今日双年卡 + 月卡仅需 193 元 （共 25 个月 ），加赠 keep 会员双月卡。 折合 7.7 元 / 月 （算上 keep 会员则 7.18 元 / 月），每年仅需 92.8 元 ： 点击下方卡片领券后 → 点击 宝贝右上角“ … ” → 点击弹出页面 右下角“ 淘金币 ” 淘金币页面会显示 “商品优惠已结束” → 点击“ 足迹 ”下滑找到该商品，实付 193 元： 天猫 夸克网盘 SVIP 超级会员 2 年卡 赠月卡 +keep 双月卡 折后 198 元 直达链接 淘金币页面“足迹”可领 ",
-     "source": "IT之家",
-     "zh": "低过 11.11：夸克 SVIP 仅需 7.7 元 / 月，支持每月 100 次离线下载"
-    },
-    {
-     "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
-     "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-     "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
-     "source": "WIRED",
-     "zh": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward"
-    },
-    {
-     "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-     "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-     "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-     "source": "WIRED",
-     "zh": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?"
     },
     {
      "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
@@ -1897,6 +1945,22 @@
      "zh": "Congratulations to WIRED’s Class of 2026"
     },
     {
+     "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+     "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+     "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+     "source": "WIRED",
+     "zh": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward"
+    },
+    {
+     "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+     "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+     "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+     "source": "WIRED",
+     "zh": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?"
+    },
+    {
      "title": "How a Bunch of YouTube Auteurs Are Reinventing Hollywood",
      "link": "https://www.wired.com/story/wired-yearbook-2026-youtube-directors/",
      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
@@ -1913,38 +1977,6 @@
      "zh": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review"
     },
     {
-     "title": "70%收益将归国有？中资矿企在印尼的百亿投资怎么办",
-     "link": "https://www.huxiu.com/article/4906308.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 18:57:47 +0800",
-     "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心 摘要： 资源民族主义愈演愈烈，矿产大国印尼准备重新分配矿产经济利益。 →这是《环球零碳》的第2209篇原创 70%归国家，必要时直接控股，印尼采矿业也许要换玩法了。 当地时间11月14日，印度尼西亚总统普拉博沃·苏比安托宣布大幅收紧矿业利益分配政策，要求所有采矿许可证项目至少70%的收益须归国家所有，并明确表示必要时政府将直接持有矿业企业的控股权。 “从现在起，所有采矿许可中，至少70%的收益必须归国家所有，”据路透社报道，普拉博沃当天在发表讲话时称，“如有必要，这些股份应由国家控制。” 普拉博沃当日在穆罕默迪亚第114届年",
-     "source": "虎嗅",
-     "zh": "70%收益将归国有？中资矿企在印尼的百亿投资怎么办"
-    },
-    {
-     "title": "国家定调，3亿千瓦储能走向市场化，需要跨过几道坎？",
-     "link": "https://www.huxiu.com/article/4906307.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 18:57:22 +0800",
-     "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心，原文标题：《国家定调！3亿千瓦储能走向市场化，需要跨过几道坎？》 新型储能已成为新型电力系统的关键基础设施，从“配套补充”跃升为“核心支柱”。但评价标准也发生改变，从“装了多少”变成“可创造多少价值”。 2025年8月，国家发展改革委、国家能源局联合印发《新型储能规模化建设专项行动方案（2025—2027年）》，提出“到2027年，新型储能基本实现规模化、市场化发展，能装机规模达到1.8亿千瓦以上。” 仅仅一年后，两部门再次出台《“十五五”新型储能实施方案》，并提出，“到2030年，新型储能由规模化发展阶段步入市场化发展阶段",
-     "source": "虎嗅",
-     "zh": "国家定调，3亿千瓦储能走向市场化，需要跨过几道坎？"
-    },
-    {
-     "title": "达信：有迹象表明，黑客正利用 AI 工具和智能体寻找安全漏洞",
-     "link": "https://www.ithome.com/1/028/489.htm",
-     "pubDate": "Tue, 17 Nov 2026 10:55:35 GMT",
-     "summary": "IT之家 11 月 17 日消息，据路透社今天（17 日）晚间报道，保险经纪公司达信的数据显示，AI 让网络攻击变得更快、规模更大，企业报告的网络安全事件随之增多，企业及保险公司也面临新的挑战。 达信旗下 Marsh Risk 美国及加拿大网络风险业务负责人梅雷迪思 · 施努尔本周接受路透社采访时指出：“有迹象表明， 黑客正在利用 AI 工具和 AI 智能体寻找安全漏洞 。我认为， 相当一部分网络安全事件可以归因于 AI 。” 达信的客户在 10 月最后两周共报告 105 起网络安全事件， 较 5 月最后两周的 48 起增加了一倍多 。 借助 AI，黑客能够更快地发现和利用长期存在的安全隐患，",
-     "source": "IT之家",
-     "zh": "达信：有迹象表明，黑客正利用 AI 工具和智能体寻找安全漏洞"
-    },
-    {
-     "title": "AOC“Q27P4C”27 英寸显示器发售：2K 120Hz + 双扬声器，1499 元",
-     "link": "https://www.ithome.com/1/028/485.htm",
-     "pubDate": "Tue, 17 Nov 2026 10:53:19 GMT",
-     "summary": "IT之家 11 月 17 日消息，AOC 旗下“Q27P4C”27 英寸显示器现已在京东发售，该机为 2K 120Hz 规格，同时配备了双扬声器， 定价为 1499 元 。 京东 AOC“Q27P4C”显示器 1499 元 直达链接 该机配备一块 2560x1440 分辨率 120Hz 面板，MPRT 响应速度 1ms，亮度 350 尼特，对比度 1500:1，支持 8-Bit 色彩，覆盖 99% sRGB 和 90% DCI-P3 色域。 该机内置双 2W 扬声器，显示器支架支持升降 / 倾斜 / 旋转，同时内置感应器支持画面自动旋转，显示器提供 1 个 USB-C 96W、1 个 USB-",
-     "source": "IT之家",
-     "zh": "AOC“Q27P4C”27 英寸显示器发售：2K 120Hz + 双扬声器，1499 元"
-    },
-    {
      "title": "A look at Anthropic&apos;s data center network plans, dubbed Anthropic Direct, committing $900B+ through 2045; docs show it will lease 875K TPUs for $7.2B per year (Financial Times)",
      "link": "https://www.techmeme.com/261117/p11#a261117p11",
      "pubDate": "Tue, 17 Nov 2026 05:50:00 -0500",
@@ -1953,44 +1985,12 @@
      "zh": "A look at Anthropic&apos;s data center network plans, dubbed Anthropic Direct, committing $900B+ through 2045; docs show it will lease 875K TPUs for $7.2B per year (Financial Times)"
     },
     {
-     "title": "神舟二十四号计划近日择机实施发射，船箭组合体转运至发射区",
-     "link": "https://www.ithome.com/1/028/464.htm",
-     "pubDate": "Tue, 17 Nov 2026 10:47:34 GMT",
-     "summary": "IT之家 11 月 17 日消息，据新华社报道，神舟二十四号计划 近日择机实施发射 ，船箭组合体 17 日转运至发射区。 据中国载人航天工程办公室介绍，17 日，神舟二十四号载人飞船与长征二号 F 遥二十四运载火箭组合体已转运至发射区。目前，发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作，计划近日择机实施发射。 据IT之家此前报道，神舟二十四号载人飞行任务将有 1 名巴基斯坦航天员以载荷专家身份参加 ，在完成短期在轨飞行后，随神舟二十三号载人飞船返回。这是中国载人航天工程历史上首次中外航天员联合飞行，中国空间站将迎来首位外籍航天员到访。 相关阅读： 《 神舟二十四",
-     "source": "IT之家",
-     "zh": "神舟二十四号计划近日择机实施发射，船箭组合体转运至发射区"
-    },
-    {
-     "title": "TRMNL 推出 31.5 英寸全彩电子纸画框 Frame：主打静态艺术展示，售价 1300 美元",
-     "link": "https://www.ithome.com/1/028/461.htm",
-     "pubDate": "Tue, 17 Nov 2026 10:44:27 GMT",
-     "summary": "IT之家 11 月 17 日消息，以电子纸画框和 DIY 套件闻名的 TRMNL 公司，近日推出了迄今尺寸最大、色彩表现最丰富的产品 ——Frame。这是一款采用 31.5 英寸全彩电子纸屏幕的显示设备，搭配手工制作的实木边框，主要用于展示绘画、照片、地图、图形等静态内容。相比 LCD 或 OLED 屏幕，其能够以更自然的方式呈现图像。 Frame 的售价并不便宜，但采用了高品质材料，初期还将限量发售。 TRMNL 公司最近凭借电子纸显示产品获得了一定关注，其产品既有带边框的成品，也有供用户自行组装的套件。此前推出的 DIY 套件和 OG 画框均采用黑白或灰度显示技术。 TRMNL 创始人瑞安",
-     "source": "IT之家",
-     "zh": "TRMNL 推出 31.5 英寸全彩电子纸画框 Frame：主打静态艺术展示，售价 1300 美元"
-    },
-    {
      "title": "Sources: Nvidia Developer Tech Director Nader Khalil wrote to board arguing that failing to reinstate Jensen Huang could cost Nvidia \"irreplaceable talent\" (Wall Street Journal)",
      "link": "https://www.techmeme.com/261117/p10#a261117p10",
      "pubDate": "Tue, 17 Nov 2026 05:40:00 -0500",
      "summary": "Wall Street Journal : Sources: Nvidia Developer Tech Director Nader Khalil wrote to board arguing that failing to reinstate Jensen Huang could cost Nvidia &ldquo;irreplaceable talent&rdquo; &nbsp; &mdash;&nbsp; The letter, also sent to Jensen Huang's roughly 60 direct reports, escalates an internal ",
      "source": "Techmeme",
      "zh": "Sources: Nvidia Developer Tech Director Nader Khalil wrote to board arguing that failing to reinstate Jensen Huang could cost Nvidia \"irreplaceable talent\" (Wall Street Journal)"
-    },
-    {
-     "title": "绿联推出 X8 自带屏 67W 全球旅行充电头：2C + 1A，189 元",
-     "link": "https://www.ithome.com/1/028/460.htm",
-     "pubDate": "Tue, 17 Nov 2026 10:35:23 GMT",
-     "summary": "IT之家 11 月 17 日消息，绿联现已在京东上架 X8 自带屏全球旅行充电器，该产品为 2C + 1A 规格，定价为 189 元 。 该产品采用深空灰配色，机身经过金属质感喷漆处理，正面配备一块 TFT 彩屏（可实时呈现电流、充电协议、设备温度及充电状态等信息），机身提供 2 个 USB-C 67W 和 1 个 USB-A 22.5W 接口，支持 PD / PPS 等协议。 该机集成美规、澳规、欧规和英规四种插头规格，可适配 200 多个国家和地区，插头结构采用推拉卡扣设计，通过推拉即可切换插头规格，推出后自动锁紧，方便用户在不同使用场景下切换。 IT之家附产品参数： 京东 绿联 X8 自",
-     "source": "IT之家",
-     "zh": "绿联推出 X8 自带屏 67W 全球旅行充电头：2C + 1A，189 元"
-    },
-    {
-     "title": "Sources: Nvidia warns customers that the proposed Remote Access Security Act could subject chip buyers to US legal action if Chinese companies access AI chips (Kai Nicol-Schwarz/CNBC)",
-     "link": "https://www.techmeme.com/261117/p9#a261117p9",
-     "pubDate": "Tue, 17 Nov 2026 05:32:01 -0500",
-     "summary": "Kai Nicol-Schwarz / CNBC : Sources: Nvidia warns customers that the proposed Remote Access Security Act could subject chip buyers to US legal action if Chinese companies access AI chips &nbsp; &mdash;&nbsp; Nvidia warned its customers that new legislation on Chinese companies remotely accessing its ",
-     "source": "Techmeme",
-     "zh": "Sources: Nvidia warns customers that the proposed Remote Access Security Act could subject chip buyers to US legal action if Chinese companies access AI chips (Kai Nicol-Schwarz/CNBC)"
     },
     {
      "title": "吃过长鑫科技“大肉”之后，国元证券要在合肥下一盘大棋",
@@ -2009,20 +2009,20 @@
      "zh": "单季扣非亏损后签下17.9亿大单，光启技术业绩反转待考"
     },
     {
+     "title": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
+     "link": "https://www.solidot.org/story?sid=85914",
+     "pubDate": "Tue, 17 Nov 2026 18:22:40 +0800",
+     "summary": "加州理工教授 Yi Ni 教的是学校每一位学生都必须修的数学必修课，他仍然采用传统的授课方法，没有用笔记本电脑和投影仪，而是在黑板上写满粉笔字。在加州理工任教 17 年的 Ni 教授表示不再根据作业题目做的是否正确打分，因为学生可以使用 AI 完成作业。他现在只根据作业是否完成打分。他说，如今教育的一大问题是所有大学数学作业都可以用 AI 完成。一名数学专业学生表示自己不使用 AI，因为一旦参加线下考试就会暴露自己对 AI 的依赖。Ni 教授表示无法判断学生是否使用 AI 完成作业。因为不同于 AI 生成的有特征的文本，AI 程序非常擅长用数学语言解数学题目。",
+     "source": "Solidot",
+     "zh": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成"
+    },
+    {
      "title": "How the Claude Code team thinks about verification",
      "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
      "pubDate": "Tue, 17 Nov 2026 10:20:40 +0000",
-     "summary": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 12 # Comments: 6",
+     "summary": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 22 # Comments: 13",
      "source": "Hacker News",
      "zh": "How the Claude Code team thinks about verification"
-    },
-    {
-     "title": "飞天茅台现在越来越像是日常消费品了",
-     "link": "https://www.tmtpost.com/8208481.html",
-     "pubDate": "Tue, 17 Nov 2026 18:19:15 +0800",
-     "summary": "利益平衡也是一门艺术。",
-     "source": "钛媒体",
-     "zh": "飞天茅台现在越来越像是日常消费品了"
     }
    ]
   },
@@ -2281,6 +2281,62 @@
    "total": 13,
    "items": [
     {
+     "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
+     "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+     "pubDate": "Tue, 17 Nov 2026 11:38:33 GMT",
+     "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following several rounds of layoffs.",
+     "source": "CNBC",
+     "zh": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts"
+    },
+    {
+     "title": "Walt Disney beats top-line and bottom-line estimates; reaffirms FY2027 adjusted EPS outlook",
+     "link": "https://seekingalpha.com/news/4673558-walt-disney-beats-top-line-and-bottom-line-estimates-reaffirms-fy2027-adjusted-eps-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 06:36:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Walt Disney beats top-line and bottom-line estimates; reaffirms FY2027 adjusted EPS outlook"
+    },
+    {
+     "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+     "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+     "pubDate": "Tue, 17 Nov 2026 11:33:44 GMT",
+     "summary": "Home Depot named Richard McPhail as its new CEO effective next week.",
+     "source": "CNBC",
+     "zh": "Home Depot names Richard McPhail as new CEO, beats earnings expectations"
+    },
+    {
+     "title": "Starbucks' Red Cup Day arrives with U.S. comparable sales sizzling again",
+     "link": "https://seekingalpha.com/news/4673100-starbucks-red-cup-day-arrives-with-us-comparable-sales-sizzling-again?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 06:30:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Starbucks' Red Cup Day arrives with U.S. comparable sales sizzling again"
+    },
+    {
+     "title": "Nvidia forms board committee to oversee national security, chip exports",
+     "link": "https://seekingalpha.com/news/4673544-nvidia-forms-board-committee-to-oversee-national-security-chip-exports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 06:29:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia forms board committee to oversee national security, chip exports"
+    },
+    {
+     "title": "Earnings Snapshot: Home Depot tops Q3 estimates, issues above-consensus FY26 sales view",
+     "link": "https://seekingalpha.com/news/4673555-earnings-snapshot-home-depot-tops-q3-estimates-issues-above-consensus-fy26-sales-view?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 06:28:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Earnings Snapshot: Home Depot tops Q3 estimates, issues above-consensus FY26 sales view"
+    },
+    {
+     "title": "Tencent Music Q3 revenue falls short of estimates, earnings beat",
+     "link": "https://seekingalpha.com/news/4673539-tencent-music-q3-revenue-falls-short-of-estimates-earnings-beat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 06:28:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tencent Music Q3 revenue falls short of estimates, earnings beat"
+    },
+    {
      "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
      "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
      "pubDate": "Tue, 17 Nov 2026 11:27:33 GMT",
@@ -2297,44 +2353,12 @@
      "zh": "Northern Dynasty Minerals GAAP EPS of -C$0.04"
     },
     {
-     "title": "Helport AI reports FY results",
-     "link": "https://seekingalpha.com/news/4673553-helport-ai-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 06:23:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Helport AI reports FY results"
-    },
-    {
-     "title": "Nutex Health announces $2 special dividend, its first as public company",
-     "link": "https://seekingalpha.com/news/4673552-nutex-health-announces-2-special-dividend-its-first-as-public-company?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 06:22:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nutex Health announces $2 special dividend, its first as public company"
-    },
-    {
-     "title": "Oaktree Specialty Lending declares $0.30 quarterly and $0.02 supplement dividend",
-     "link": "https://seekingalpha.com/news/4673550-oaktree-specialty-lending-declares-030-quarterly-and-002-supplement-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 06:20:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Oaktree Specialty Lending declares $0.30 quarterly and $0.02 supplement dividend"
-    },
-    {
-     "title": "GO Residential Real Estate Investment Trust FFO of $0.25 beats by $0.01, revenue of $51.54M beats by $6.02M",
-     "link": "https://seekingalpha.com/news/4673551-go-residential-real-estate-investment-trust-ffo-of-025-beats-by-001-revenue-of-5154m-beats-by-602m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 06:17:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GO Residential Real Estate Investment Trust FFO of $0.25 beats by $0.01, revenue of $51.54M beats by $6.02M"
-    },
-    {
-     "title": "NXT Energy Solutions GAAP EPS of C$0.06, revenue of C$12.05M",
-     "link": "https://seekingalpha.com/news/4673549-nxt-energy-solutions-gaap-eps-of-c006-revenue-of-c1205m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 06:15:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NXT Energy Solutions GAAP EPS of C$0.06, revenue of C$12.05M"
+     "title": "35万亿银行理财“围城”：资金在涌入，投资者在“失眠”",
+     "link": "https://wallstreetcn.com/articles/3786106",
+     "pubDate": "Tue, 17 Nov 2026 19:19:58 +0800",
+     "summary": "银行理财这个围城，正在吸引越来越多的资金介入，但也凸显出越来越多的残酷“现实”。 根据最新发布的《中国银行业理财市场季度报告（2026年三季度）》，截至2026年9月末，银行理财市场合计存续产品达到5.43万只，存续规模超越35.37万亿元，相比去年同期同比增加10.08%；其中理财公司存续规模32.92万亿元，占全市场比例达93.07%。 同时，受市场环境影响，银行理财的净值端却面临回撤。规模在扩大、收益在缩水，这样的魔幻局面，同时在今年三季度的理财市场上演。 理财净值出现回撤 近期银行理财产品净值受市场影响发生波动，不同类型的产品表现也不同，含权类产品回调压力凸显，固收类产品收益小幅回落，",
+     "source": "华尔街见闻",
+     "zh": "35万亿银行理财“围城”：资金在涌入，投资者在“失眠”"
     },
     {
      "title": "‘It is heartbreaking, exhausting and downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
@@ -2343,14 +2367,6 @@
      "summary": "‘It is devastating when the people you should be able to trust become the very people you have to protect yourself from’",
      "source": "MarketWatch",
      "zh": "‘It is heartbreaking, exhausting and downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
-    },
-    {
-     "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-     "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-     "pubDate": "Tue, 17 Nov 2026 11:08:26 GMT",
-     "summary": "Home Depot named Richard McPhail as its new CEO effective next week.",
-     "source": "CNBC",
-     "zh": "Home Depot names Richard McPhail as new CEO, beats earnings expectations"
     },
     {
      "title": "美国总统特朗普：在推动俄罗斯和乌克兰达成协议方面已非常接近",
@@ -2503,22 +2519,6 @@
      "summary": "大象起舞的行情仍在延续， 银行 板块继续走强。11月17日，A股 银行 指数日内走出深“V”，收涨0.14%， 再创 历史新高 。四大行中， 工商银行 收涨0.11%， 建设银行 收涨0.33%， 农业银行 收涨0.26%； 中国银行 收涨0.68%。 今年下半年以来， 银行 指数累计上涨22.85%，同期沪指下跌12.45%。 科技与银行“跷跷板” 今年下半年A股行情分化显著，一边是科技成长板块持续调整，另一边是银行股刷新历史高点。在外部环境变化、市场风险偏好下降等背景下，银行与科技股之间的“跷跷板效应”受到市场的持续关注。 据 东方财富 Choice数据，今年下半年以来，银行板块42只成分",
      "source": "东方财富资讯",
      "zh": "大象起舞！银行再创历史新高 跷跷板行情引发关注"
-    },
-    {
-     "title": "‘Breaking Bad’ star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce",
-     "link": "https://www.marketwatch.com/story/breaking-bad-star-dean-norris-is-selling-11-acre-california-estate-for-3-2-million-amid-divorce-03963997?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 10:01:00 GMT",
-     "summary": "Dean Norris is looking for a buyer for his 11-acre Temecula, Calif., property, listing the hilltop home for $3.2 million—after his wife, Bridget Norris, filed for divorce.",
-     "source": "MarketWatch",
-     "zh": "‘Breaking Bad’ star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce"
-    },
-    {
-     "title": "Supermodel Bella Hadid snaps up a charming Colorado compound for $5.5 million",
-     "link": "https://www.marketwatch.com/story/supermodel-bella-hadid-snaps-up-a-charming-colorado-compound-for-5-5-million-b907958c?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 09:57:00 GMT",
-     "summary": "Bella Hadid has purchased a creekside compound in Crested Butte, Colorado, for $5.5 million.",
-     "source": "MarketWatch",
-     "zh": "Supermodel Bella Hadid snaps up a charming Colorado compound for $5.5 million"
     }
    ]
   },

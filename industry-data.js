@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 05:32:12",
+ "generated_at": "2026/11/18 05:52:08",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "SEC reportedly investigating Nvidia amid Huang exit",
+     "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+     "pubDate": "Tue, 17 Nov 2026 21:48:07 +0000",
+     "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+     "source": "TechCrunch AI",
+     "zh": "SEC reportedly investigating Nvidia amid Huang exit"
+    },
+    {
+     "title": "Google joins the tech outage trend by announcing it’s not having one",
+     "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+     "pubDate": "Tue, 17 Nov 2026 21:34:50 +0000",
+     "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+     "source": "TechCrunch AI",
+     "zh": "Google joins the tech outage trend by announcing it’s not having one"
+    },
     {
      "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
      "link": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
@@ -50,28 +66,12 @@ window.INDUSTRY_DATA = {
      "zh": "As decision model use skyrockets, is customization the next frontier?"
     },
     {
-     "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-     "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-     "pubDate": "Tue, 17 Nov 2026 18:04:16 +0000",
-     "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-     "source": "TechCrunch AI",
-     "zh": "Pedestal AI raises $4.7 million to agentify the supply chain"
-    },
-    {
      "title": "Introducing GPT-6.2 Astra and Sol",
      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
      "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
      "source": "OpenAI",
      "zh": "Introducing GPT-6.2 Astra and Sol"
-    },
-    {
-     "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-     "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-     "pubDate": "Tue, 17 Nov 2026 17:32:25 +0000",
-     "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-     "source": "TechCrunch AI",
-     "zh": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop"
     },
     {
      "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
@@ -701,7 +701,7 @@ window.INDUSTRY_DATA = {
      "title": "Waymo suspends freeway rides nationwide after California DMV order",
      "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
      "pubDate": "Tue, 17 Nov 2026 19:49:41 +0000",
-     "summary": "The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo following several incidents.",
+     "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
      "source": "TechCrunch Transport",
      "zh": "Waymo suspends freeway rides nationwide after California DMV order"
     },
@@ -997,7 +997,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1085,7 +1085,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1474,14 +1474,6 @@ window.INDUSTRY_DATA = {
      "zh": "SEOPS Signs Rideshare Deal With Stoke"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1530,14 +1522,6 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1552,14 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on Spa",
      "source": "SpaceNews",
      "zh": "What role does industry play in Europe’s space sovereignty push?"
-    },
-    {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
     }
    ]
   },
@@ -1786,12 +1762,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)",
+     "link": "https://www.techmeme.com/261117/p57#a261117p57",
+     "pubDate": "Tue, 17 Nov 2026 16:45:02 -0500",
+     "summary": "Matthias Bastian / The Decoder : Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 &nbsp; &mdash;&nbsp; Key Points &hellip; Ask about this article...&nbsp; GPT-6.2 Astra and Sol are availab",
+     "source": "Techmeme",
+     "zh": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)"
+    },
+    {
      "title": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and net income up 105% to $65.3B (Nvidia Newsroom)",
      "link": "https://www.techmeme.com/261117/p56#a261117p56",
      "pubDate": "Tue, 17 Nov 2026 16:26:56 -0500",
      "summary": "Nvidia Newsroom : Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and net income up 105% to $65.3B &nbsp; &mdash;&nbsp; - Revenue of $115.8 billion, up 103% from a year ago&nbsp; &mdash; Data Center revenue of $107.6 billion, up 110% from",
      "source": "Techmeme",
      "zh": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and net income up 105% to $65.3B (Nvidia Newsroom)"
+    },
+    {
+     "title": "英伟达 2027 财年前三季度归母净利润 1832.97 亿美元，同比增长 137.72%",
+     "link": "https://www.ithome.com/1/028/575.htm",
+     "pubDate": "Tue, 17 Nov 2026 21:25:38 GMT",
+     "summary": "IT之家 11 月 18 日消息，英伟达今日发布 2027 财年（2026 年 1 月 26 日～2027 年 1 月 31 日）前三季度（2026 年 1 月 26 日～2026 年 10 月 25 日）及第三财季（2026 年 7 月 27 日～2026 年 10 月 25 日）报告： 2027 财年前三季度 营业总收入 ：2936.81 亿美元 （IT之家注：现汇率约合 1.96 万亿元人民币） ，同比增长 98.69% 毛利润 ：2199.76 亿美元 （现汇率约合 1.47 万亿元人民币） ，同比增长 114.88% 毛利率 ：74.9%，同比增长 5.6 个百分点 归母净利润 ：1",
+     "source": "IT之家",
+     "zh": "英伟达 2027 财年前三季度归母净利润 1832.97 亿美元，同比增长 137.72%"
     },
     {
      "title": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch (New York Times)",
@@ -1802,20 +1794,20 @@ window.INDUSTRY_DATA = {
      "zh": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch (New York Times)"
     },
     {
+     "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+     "link": "https://calif.io/java4shell/",
+     "pubDate": "Tue, 17 Nov 2026 21:11:28 +0000",
+     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 47 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Java4Shell: RCE in OpenJDK when processing Base64"
+    },
+    {
      "title": "Sources: the US SEC is investigating Nvidia, including whether the company&apos;s disclosures misled investors (Wall Street Journal)",
      "link": "https://www.techmeme.com/261117/p54#a261117p54",
      "pubDate": "Tue, 17 Nov 2026 16:05:01 -0500",
      "summary": "Wall Street Journal : Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors &nbsp; &mdash;&nbsp; Regulator's civil probe looks at whether company violated investor disclosure laws&nbsp; &mdash;&nbsp; The Securities and Exchange Commission is invest",
      "source": "Techmeme",
      "zh": "Sources: the US SEC is investigating Nvidia, including whether the company&apos;s disclosures misled investors (Wall Street Journal)"
-    },
-    {
-     "title": "Human.md",
-     "link": "https://www.human-md.ai/",
-     "pubDate": "Tue, 17 Nov 2026 20:47:36 +0000",
-     "summary": "Article URL: https://www.human-md.ai/ Comments URL: https://news.ycombinator.com/item?id=50537962 Points: 15 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "Human.md"
     },
     {
      "title": "Sources: AppLovin is among companies in talks to acquire ad tech company Criteo, which has a ~$1B market cap after its stock fell 50%+ over the past five years (Milana Vinn/Reuters)",
@@ -1834,14 +1826,6 @@ window.INDUSTRY_DATA = {
      "zh": "Kalshi says the CFTC has ordered it to halt trading on \"mention markets\" tied to what President Trump will say during public events (Bobby Allyn/Bloomberg)"
     },
     {
-     "title": "Sources: Ramp is in early talks to raise $1B or more led by Coatue and Thrive at a valuation of $70B+, in its third funding round in a year (Kate Clark/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261117/p51#a261117p51",
-     "pubDate": "Tue, 17 Nov 2026 15:35:00 -0500",
-     "summary": "Kate Clark / Wall Street Journal : Sources: Ramp is in early talks to raise $1B or more led by Coatue and Thrive at a valuation of $70B+, in its third funding round in a year &nbsp; &mdash;&nbsp; The financing round is the fast-growing company's third fundraise in a year&nbsp; &mdash;&nbsp; Corporat",
-     "source": "Techmeme",
-     "zh": "Sources: Ramp is in early talks to raise $1B or more led by Coatue and Thrive at a valuation of $70B+, in its third funding round in a year (Kate Clark/Wall Street Journal)"
-    },
-    {
      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
      "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
      "pubDate": "Tue, 17 Nov 2026 20:32:55 +0000",
@@ -1853,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Web Browser Engineering (2021)",
      "link": "https://browser.engineering/",
      "pubDate": "Tue, 17 Nov 2026 20:01:35 +0000",
-     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 52 # Comments: 8",
+     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 73 # Comments: 8",
      "source": "Hacker News",
      "zh": "Web Browser Engineering (2021)"
     },
@@ -1861,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "jQuery 4.1.0",
      "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
      "pubDate": "Tue, 17 Nov 2026 19:50:40 +0000",
-     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 121 # Comments: 50",
+     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 154 # Comments: 65",
      "source": "Hacker News",
      "zh": "jQuery 4.1.0"
     },
@@ -1869,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
      "link": "https://arxiv.org/abs/2611.09827",
      "pubDate": "Tue, 17 Nov 2026 19:46:57 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2611.09827 Comments URL: https://news.ycombinator.com/item?id=50537120 Points: 19 # Comments: 3",
+     "summary": "Article URL: https://arxiv.org/abs/2611.09827 Comments URL: https://news.ycombinator.com/item?id=50537120 Points: 33 # Comments: 11",
      "source": "Hacker News",
      "zh": "Effects of a Nuclear Detonation in Low Earth Orbit"
     },
@@ -1898,12 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Waymo Pauses All Highway Rides After California Safety Ban"
     },
     {
-     "title": "350 years ago, this man discovered that light has a finite speed",
+     "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
      "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
      "pubDate": "Tue, 17 Nov 2026 19:25:27 +0000",
-     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 110 # Comments: 29",
+     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 142 # Comments: 40",
      "source": "Hacker News",
-     "zh": "350 years ago, this man discovered that light has a finite speed"
+     "zh": "350 years ago, Ole Rømer discovered that light has a finite speed"
     },
     {
      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
@@ -2016,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 18 日消息，深圳市绿联科技股份有限公司绿联云官方微博昨日发布公告，宣布为构建更统一、清晰的品牌认知体系，推动全球化品牌战略布局及长期发展，自 2026 年 11 月 17 日起， “UGOS Pro”系统与“UGOS”系统的对外名称将统一调整为“UGOS” 。 绿联 NAS 私有云表示， 原“UGOS”系统在绿联官网等渠道将以“UGOS 经典版”作区分 。本次调整仅涉及系统名称变更，系统版本、功能与服务均保持不变，您的设备、数据与账号不受影响，无需进行任何操作，可继续正常使用。 此外，更名过渡期间，部分系统界面、帮助文档、历史内容及产品包装中仍可能出现“UGOS Pro”",
      "source": "IT之家",
      "zh": "绿联 NAS 私有云系统官宣对外名称统一调整为“UGOS”：版本、功能与服务保持不变"
-    },
-    {
-     "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
-     "link": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
-     "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
-     "summary": "The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.",
-     "source": "WIRED",
-     "zh": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App"
     }
    ]
   },
@@ -2033,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google Home app will show estimated Nest Thermostat energy savings next month",
+     "link": "https://www.androidauthority.com/nest-thermostat-energy-savings-3736271/",
+     "pubDate": "Tue, 17 Nov 2026 21:46:24 +0000",
+     "summary": "Expanded sensor support and a a Dynamic Farsight update are also on the way in December.",
+     "source": "Android Authority",
+     "zh": "Google Home app will show estimated Nest Thermostat energy savings next month"
+    },
+    {
+     "title": "The Sideload 052: Pebble’s back. Now what?",
+     "link": "https://9to5google.com/2026/11/17/the-sideload-052-pebbles-back-now-what/",
+     "pubDate": "Tue, 17 Nov 2026 21:30:00 +0000",
+     "summary": "Welcome to episode 52 of The Sideload, a 9to5Google podcast. This week, Will and Daniel are joined by Eric Migicovsky, who sold Pebble to Fitbit back in 2016 only to bring its watches back from the grave a decade later. Together, the crews get into everything from the story behind Pebble’s open-sour",
+     "source": "9to5Google",
+     "zh": "The Sideload 052: Pebble’s back. Now what?"
+    },
     {
      "title": "Epic accuses Apple of withholding 122,000 documents, seeks daily fines",
      "link": "https://9to5mac.com/2026/11/17/epic-accuses-apple-of-withholding-122000-documents-seeks-daily-fines/",
@@ -2210,28 +2202,12 @@ window.INDUSTRY_DATA = {
      "zh": "Apple services are down for users all over. Here’s what’s happening (Updated)"
     },
     {
-     "title": "Disney Plus and Hulu will be a fully unified experience in December",
-     "link": "https://www.androidauthority.com/disney-plus-and-hulu-merge-in-december-3736218/",
-     "pubDate": "Tue, 17 Nov 2026 18:46:16 +0000",
-     "summary": "Start saying your goodbyes to the Hulu app.",
-     "source": "Android Authority",
-     "zh": "Disney Plus and Hulu will be a fully unified experience in December"
-    },
-    {
      "title": "OpenAI releases GPT-6.2 Astra to regain performance lead from Claude Fable 5.2",
      "link": "https://9to5google.com/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-for-complex-projects-a-week-after-claude-5-2/",
      "pubDate": "Tue, 17 Nov 2026 18:20:00 +0000",
      "summary": "The frontier model races continues. A week after the launch of Anthropic’s Claude 5.2 and Google’s Gemini 4 Hydrogen, OpenAI is releasing GPT-6.2 Astra and Sol as a “new standard for professional work.” more…",
      "source": "9to5Google",
      "zh": "OpenAI releases GPT-6.2 Astra to regain performance lead from Claude Fable 5.2"
-    },
-    {
-     "title": "Galaxy Watch 9 drops to $269 without a trade-in, extra $50 credit",
-     "link": "https://9to5google.com/2026/11/17/galaxy-watch-9-deal-269-dollars/",
-     "pubDate": "Tue, 17 Nov 2026 18:15:34 +0000",
-     "summary": "Samsung’s newest and most advanced smartwatch, the Galaxy Watch 9, is currently down to $269 in the best deal we’ve seen recently. If you plan on trading an old watch in, it drops much lower. more…",
-     "source": "9to5Google",
-     "zh": "Galaxy Watch 9 drops to $269 without a trade-in, extra $50 credit"
     },
     {
      "title": "iCloud and other Apple services are down in an apparent outage",
@@ -2282,6 +2258,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Interface declares $0.03 dividend",
+     "link": "https://seekingalpha.com/news/4673933-interface-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:42:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Interface declares $0.03 dividend"
+    },
+    {
+     "title": "Hub Group receives Nasdaq approval for continued listing",
+     "link": "https://seekingalpha.com/news/4673929-hub-group-receives-nasdaq-approval-for-continued-listing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:41:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hub Group receives Nasdaq approval for continued listing"
+    },
+    {
+     "title": "Commercial National Financial raises dividend by 23.1% to $0.16",
+     "link": "https://seekingalpha.com/news/4673932-commercial-national-financial-raises-dividend-by-231-to-016?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:41:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Commercial National Financial raises dividend by 23.1% to $0.16"
+    },
+    {
+     "title": "Motorola Solutions raises dividend by 10.7% to $1.34",
+     "link": "https://seekingalpha.com/news/4673930-motorola-solutions-raises-dividend-by-107-to-134?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:39:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Motorola Solutions raises dividend by 10.7% to $1.34"
+    },
+    {
+     "title": "Earnings Snapshot: NVDA tops expectations and gives better-than-expected guidance",
+     "link": "https://seekingalpha.com/news/4673928-earnings-snapshot-nvda-tops-expectations-and-gives-better-than-expected-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:33:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Earnings Snapshot: NVDA tops expectations and gives better-than-expected guidance"
+    },
+    {
+     "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
+     "link": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
+     "pubDate": "Tue, 17 Nov 2026 21:31:21 GMT",
+     "summary": "Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act.",
+     "source": "CNBC",
+     "zh": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China"
+    },
+    {
+     "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
+     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 21:30:00 GMT",
+     "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+     "source": "MarketWatch",
+     "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?"
+    },
+    {
+     "title": "Nvidia sales doubled last quarter",
+     "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 21:28:22 GMT",
+     "summary": "Chip giant reports strong earnings after CEO Jensen Huang forced to step down",
+     "source": "Financial Times",
+     "zh": "Nvidia sales doubled last quarter"
+    },
+    {
+     "title": "Nvidia perks up as Q3 results, guidance top estimates; adds $150B to buyback",
+     "link": "https://seekingalpha.com/news/4673703-nvidia-perks-up-as-q3-results-guidance-top-estimates-adds-150b-to-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 16:28:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia perks up as Q3 results, guidance top estimates; adds $150B to buyback"
+    },
+    {
      "title": "德鲁肯米勒看空铜价、股市持仓中性，称当前市场能见度为记忆中最低",
      "link": "https://wallstreetcn.com/articles/3786129",
      "pubDate": "Wed, 18 Nov 2026 05:27:53 +0800",
@@ -2298,60 +2346,44 @@ window.INDUSTRY_DATA = {
      "zh": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything"
     },
     {
-     "title": "Nvidia Non-GAAP EPS of $2.68 beats by $0.21, revenue of $115.84B beats by $7.13B",
-     "link": "https://seekingalpha.com/news/4673924-nvidia-non-gaap-eps-of-2_68-beats-by-0_21-revenue-of-115_85b-beats-by-7_14b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:22:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia Non-GAAP EPS of $2.68 beats by $0.21, revenue of $115.84B beats by $7.13B"
+     "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
+     "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 21:12:00 GMT",
+     "summary": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
+     "source": "MarketWatch",
+     "zh": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters"
     },
     {
-     "title": "Lumen Technologies advances 7%, halting losing streak",
-     "link": "https://seekingalpha.com/news/4673912-lumen-technologies-advances-7-halting-losing-streak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:21:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lumen Technologies advances 7%, halting losing streak"
+     "title": "‘Can I pick your brain?’ and other terrible things to say in a networking email",
+     "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 21:11:00 GMT",
+     "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+     "source": "MarketWatch",
+     "zh": "‘Can I pick your brain?’ and other terrible things to say in a networking email"
     },
     {
-     "title": "Greif CFO Larry Hilsheimer to step down, names successor",
-     "link": "https://seekingalpha.com/news/4673920-greif-cfo-larry-hilsheimer-to-step-down-names-successor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:21:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Greif CFO Larry Hilsheimer to step down, names successor"
+     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 21:00:00 GMT",
+     "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+     "source": "MarketWatch",
+     "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
     },
     {
-     "title": "Auna reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673923-auna-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:21:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Auna reports Q3 results"
+     "title": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
+     "link": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:58:00 GMT",
+     "summary": "The U.S. regulator’s disclosure was more extensive than what the biotech company had announced Sunday.",
+     "source": "MarketWatch",
+     "zh": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug"
     },
     {
-     "title": "Angel set to join Russell 3000 index",
-     "link": "https://seekingalpha.com/news/4673919-angel-set-to-join-russell-3000-index?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:20:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Angel set to join Russell 3000 index"
-    },
-    {
-     "title": "Nexus Advanced Technologies gets Nasdaq delisting notice",
-     "link": "https://seekingalpha.com/news/4673909-nexus-advanced-technologies-gets-nasdaq-delisting-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:19:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nexus Advanced Technologies gets Nasdaq delisting notice"
-    },
-    {
-     "title": "US tech stocks slide ahead of Nvidia results",
-     "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 21:04:02 GMT",
-     "summary": "Nasdaq 100 down 0.7% after volatile run of trading",
-     "source": "Financial Times",
-     "zh": "US tech stocks slide ahead of Nvidia results"
+     "title": "The U.S.’s classified national-security communications network experiences tech outage",
+     "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:45:00 GMT",
+     "summary": "A reported outage of a classified U.S. communications network has become the latest in a string of technology disruptions impacting consumers, businesses and the government.",
+     "source": "MarketWatch",
+     "zh": "The U.S.’s classified national-security communications network experiences tech outage"
     },
     {
      "title": "Wall Street&apos;s fear gauge is surging again and this time it&apos;s not just about AI jitters",
@@ -2421,7 +2453,7 @@ window.INDUSTRY_DATA = {
      "title": "压缩空气储能有新催化 超20家上市公司布局相关业务",
      "link": "http://finance.eastmoney.com/news/1354,202611183933308855.html",
      "pubDate": "Wed, 18 Nov 2026 03:21:07 +0800",
-     "summary": "证券时报记者梁谦刚 随着电价市场化改革深化和容量电价机制落地，压缩空气储能有望在“十五五”时期从示范验证走向商业规模化，成为新型 电力 系统的重要支撑。据证券时报·数据宝统计，A股超20家上市公司布局压缩空气储能业务，9只相关概念股市盈率低于30倍，11只概念股获得5次以上机构调研。 “源储一号”并网发电 据悉，11月16日，世界首台（套）“源储一号”300兆瓦人工硐室型压缩空气储能电站示范工程在甘肃酒泉玉门市首次并网。 据了解，“源储一号”由 中国能建 数科集团 研发投资建设运营，是国家新型储能试点示范工程、国家能源局第四批能源领域首台（套）重大技术装备。项目建设1台300兆瓦/1800兆瓦",
+     "summary": "随着电价市场化改革深化和容量电价机制落地，压缩空气储能有望在“十五五”时期从示范验证走向商业规模化，成为新型 电力 系统的重要支撑。据证券时报·数据宝统计，A股超20家上市公司布局压缩空气储能业务，9只相关概念股市盈率低于30倍，11只概念股获得5次以上机构调研。 “源储一号”并网发电 据悉，11月16日，世界首台（套）“源储一号”300兆瓦人工硐室型压缩空气储能电站示范工程在甘肃酒泉玉门市首次并网。 据了解，“源储一号”由 中国能建 数科集团 研发投资建设运营，是国家新型储能试点示范工程、国家能源局第四批能源领域首台（套）重大技术装备。项目建设1台300兆瓦/1800兆瓦时压气储能机组，设计",
      "source": "东方财富股票",
      "zh": "压缩空气储能有新催化 超20家上市公司布局相关业务"
     },
@@ -2464,62 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
      "source": "CNBC",
      "zh": "U.S. officially loses measles elimination status amid ongoing outbreaks"
-    },
-    {
-     "title": "Trump on Iran&apos;s reported DC dirty bomb plan: &apos;We take it very seriously&apos;",
-     "link": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
-     "pubDate": "Tue, 17 Nov 2026 17:49:45 GMT",
-     "summary": "\"This is why they can't have a nuclear weapon,\" Trump added, reiterating his main rationale for launching the Iran war.",
-     "source": "CNBC",
-     "zh": "Trump on Iran&apos;s reported DC dirty bomb plan: &apos;We take it very seriously&apos;"
-    },
-    {
-     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
-     "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 17:06:32 GMT",
-     "summary": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
-     "source": "Financial Times",
-     "zh": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn"
-    },
-    {
-     "title": "Jensen Huang says he is prepared to return as Nvidia CEO",
-     "link": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 16:49:56 GMT",
-     "summary": "First public remarks since revelations over extramarital affairs forced co-founder to resign",
-     "source": "Financial Times",
-     "zh": "Jensen Huang says he is prepared to return as Nvidia CEO"
-    },
-    {
-     "title": "黄仁勋辞职后首次发声：若董事会允许 愿重返英伟达担任CEO",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933290496.html",
-     "pubDate": "Wed, 18 Nov 2026 00:21:31 +0800",
-     "summary": "11月17日，财闻海外资讯援引美国《华尔街日报》报道， 英伟达 联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，表示若董事会允许，他愿意在卸任后重返公司担任CEO。另据彭博社报道，黄仁勋同意下个月向国会简要汇报。 黄仁勋此前已表示，只要身体状况允许，他希望在 英伟达 工作到80岁。此番言论进一步表明其对公司的长期承诺。 英伟达 近年来凭借 人工智能 芯片需求爆发，市值一度突破5万亿美元，成为全球最具价值的上市公司之一。 当日，三名知情人士告诉路透社，尽管要求黄仁勋复职的声浪日益高涨，但Nvidia董事会并未考虑让他重返首席执行官职位。已有超过18万人签署请愿书要求黄仁勋回归， 特斯拉 首席",
-     "source": "东方财富资讯",
-     "zh": "黄仁勋辞职后首次发声：若董事会允许 愿重返英伟达担任CEO"
-    },
-    {
-     "title": "美国10年期国债收益率今年以来维持在5%以上的天数逼近2007年的纪录",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933287957.html",
-     "pubDate": "Wed, 18 Nov 2026 00:10:47 +0800",
-     "summary": "随着投资者押注美联储将在通胀持续高企之际进一步加息，美国10年期国债收益率位于5%以上的时间正在接近近20年以来的最长。美国借贷成本的这一基准，今年势将第27个交易日收于5%以上距离2007年录得的29个交易日仅一步之遥。交易员目前已完全计入美联储在12月9日会议上加息25个基点的可能性，并预计到2027年9月累计收紧幅度将超过80个基点；而在上周之前，市场预期约为50个基点。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "美国10年期国债收益率今年以来维持在5%以上的天数逼近2007年的纪录"
-    },
-    {
-     "title": "罔顾事实做空光模块龙头 这份“报告”坏得很",
-     "link": "http://finance.eastmoney.com/news/1354,202611173933284068.html",
-     "pubDate": "Tue, 17 Nov 2026 23:54:00 +0800",
-     "summary": "11月17日，一则关于 中际旭创 的看空测算消息在市场迅速发酵。 某机构在一篇看空AI的总结性报告中，以2029年AI资本开支8000亿美元为测算基准，叠加15%利润率等假设，测算出 中际旭创 2029年净利润约300亿元，进而得出其“稳态估值”仅在3000亿至4500亿元之间的结论。按 中际旭创 当前市值测算，该报告暗示公司股价仍有约25%的回撤空间，并据此建议“配置型资金可酌情在4000亿以下设计左侧网格低吸策略”。 消息截图 这份报告看似模型严密、假设齐全，实则多处前提与产业事实严重背离。说它“坏”，不是因为它看空，而是因为它把极端悲观假设包装成“稳态测算”，用一套经不起产业数据检验的推",
-     "source": "东方财富资讯",
-     "zh": "罔顾事实做空光模块龙头 这份“报告”坏得很"
-    },
-    {
-     "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
-     "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
-     "pubDate": "Tue, 17 Nov 2026 15:36:43 GMT",
-     "summary": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
-     "source": "CNBC",
-     "zh": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices"
     }
    ]
   },

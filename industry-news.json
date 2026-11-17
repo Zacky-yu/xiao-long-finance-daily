@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 23:52:16",
+ "generated_at": "2026/11/18 00:12:14",
  "recent_days": 7,
  "industries": [
   {
@@ -39,6 +39,14 @@
      "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
      "source": "TechCrunch AI",
      "zh": "Science Corporation’s brain tech is worth $3.5 billion after new funding"
+    },
+    {
+     "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+     "link": "https://www.qbitai.com/2026/11/510695.html",
+     "pubDate": "Tue, 17 Nov 2026 14:15:20 +0000",
+     "summary": "82亿美元股票，46天闪电交割",
+     "source": "量子位",
+     "zh": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎"
     },
     {
      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
@@ -239,14 +247,6 @@
      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
      "source": "TechCrunch AI",
      "zh": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months"
-    },
-    {
-     "title": "The open-source movement wants Jensen Huang back",
-     "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-     "pubDate": "Mon, 16 Nov 2026 18:38:47 +0000",
-     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El",
-     "source": "MIT Tech Review AI",
-     "zh": "The open-source movement wants Jensen Huang back"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Why Agile Post-Quantum Cryptography Matters for Long-Lived Chip Designs",
+     "link": "https://semiwiki.com/eda/375719-why-agile-post-quantum-cryptography-matters-for-long-lived-chip-designs/",
+     "pubDate": "Tue, 17 Nov 2026 16:00:36 +0000",
+     "summary": "Quantum computing opens exciting possibilities for solving difficult problems, advancing research, and enabling new technologies. Preparing security for that future is an opportunity to strengthen the digital foundations supporting everyday life. Synopsys’ Agile PQC Public Key Accelerators offer chi",
+     "source": "SemiWiki",
+     "zh": "Why Agile Post-Quantum Cryptography Matters for Long-Lived Chip Designs"
+    },
     {
      "title": "Government investments of $71.8bn speed militarisation of space",
      "link": "https://www.electronicsweekly.com/news/business/government-investments-of-71-8bn-speed-militarisation-of-space-2026-11/",
@@ -487,14 +495,6 @@
      "summary": "Join our expert-led webinar to discover how the TL753X SoC leverages High Definition Technology (HDT) for innovative applications. The post Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming"
-    },
-    {
-     "title": "yieldWerx’s PhotonX traces photonic module failures back to the die",
-     "link": "https://semiwiki.com/eda/yieldwerx/375995-yieldwerxs-photonx-traces-photonic-module-failures-back-to-the-die/",
-     "pubDate": "Mon, 16 Nov 2026 16:00:43 +0000",
-     "summary": "yieldWerx’s PhotonX™ traces photonic module failures back to the die. A photonic module can pass wafer-level tests and still fail after assembly or burn-in. When it does, the evidence may sit with several suppliers, each using its own identifiers and test records. In a presentation prepared for PIC ",
-     "source": "SemiWiki",
-     "zh": "yieldWerx’s PhotonX traces photonic module failures back to the die"
     }
    ]
   },
@@ -1121,6 +1121,30 @@
    "total": 7,
    "items": [
     {
+     "title": "U.S. loses measles elimination status, marking embarrassing stain on its public health record",
+     "link": "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss",
+     "pubDate": "Tue, 17 Nov 2026 16:07:21 +0000",
+     "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country’s basic public health standing.",
+     "source": "STAT News",
+     "zh": "U.S. loses measles elimination status, marking embarrassing stain on its public health record"
+    },
+    {
+     "title": "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s",
+     "link": "https://endpoints.news/ctad26-cognito-plans-fda-submission-of-light-and-sound-therapy-for-alzheimers/",
+     "pubDate": "Tue, 17 Nov 2026 16:01:42 +0000",
+     "summary": "BOSTON — A decade ago, neuroscientists at MIT published data that seemed too good, or perhaps just too wacky, to be true. Light flickered at just the right frequency induced brain waves that appeared to help ...",
+     "source": "Endpoints News",
+     "zh": "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s"
+    },
+    {
+     "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
+     "link": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
+     "pubDate": "Tue, 17 Nov 2026 10:51:00 -0500",
+     "summary": "Even as the larger AI industry faces turmoil, investors have given Isomorphic the two largest cash infusions in the biotech sector this year.",
+     "source": "BioPharma Dive",
+     "zh": "AI drugmaker Isomorphic restocks with $5B fundraise"
+    },
+    {
      "title": "STAT+: ‘Medicare for More’ gains traction",
      "link": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
      "pubDate": "Tue, 17 Nov 2026 15:27:50 +0000",
@@ -1217,28 +1241,12 @@
      "zh": "Marrow sets out to challenge genetic medicines for severe blood diseases"
     },
     {
-     "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
-     "link": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
-     "pubDate": "Tue, 17 Nov 2026 09:30:00 +0000",
-     "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
-     "source": "STAT News",
-     "zh": "STAT+: After death in gene therapy trial for a brain disease, progress is reported"
-    },
-    {
      "title": "Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model",
      "link": "https://www.genengnews.com/topics/translational-medicine/enhancer-targeted-crispr-turns-up-healthy-gene-copy-in-autism-organoid-model/",
      "pubDate": "Mon, 16 Nov 2026 23:50:32 +0000",
      "summary": "In lab-grown human neurons and organoids carrying CHD8 or SCN2A mutations, researchers reduced organoid overgrowth and moved neuronal electrical activity closer to wild-type levels. The post Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model appeared first on GEN - Genetic ",
      "source": "GEN",
      "zh": "Enhancer-Targeted CRISPR Turns Up Healthy Gene Copy in Autism Organoid Model"
-    },
-    {
-     "title": "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
-     "link": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
-     "pubDate": "Mon, 16 Nov 2026 22:22:47 +0000",
-     "summary": "BOSTON — For years, scientists have wondered whether Viagra-like pills could have an unexpected benefit in the brain. Some real-world evidence suggests men who take erectile dysfunction medicines are less likely to develop Alzheimer’s, and the ...",
-     "source": "Endpoints News",
-     "zh": "#CTAD26: AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results"
     },
     {
      "title": "Toward Connected Laboratory Ecosystems",
@@ -1284,7 +1292,7 @@
      "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
      "link": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
      "pubDate": "Mon, 16 Nov 2026 07:44:00 -0500",
-     "summary": "Lilly&rsquo;s 15th announced company acquisition this year&nbsp;&mdash; by far the most in the biopharmaceutical sector&nbsp;&mdash; centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
+     "summary": "Lilly&rsquo;s 15th announced acquisition this year&nbsp;&mdash; by far the most in the biopharmaceutical sector&nbsp;&mdash; centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
      "source": "BioPharma Dive",
      "zh": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix"
     },
@@ -1295,14 +1303,6 @@
      "summary": "A new method called Superb-seq pairs Cas9 editing with single-cell RNA sequencing to show which edits, including off-target ones, occur in each cell and how they alter gene expression, offering a clearer view of genome editing’s potential consequences. The post Single-Cell Method Reveals On- and Off",
      "source": "GEN",
      "zh": "Single-Cell Method Reveals On- and Off-Target Effects of Cas9 Edits on Gene Expression"
-    },
-    {
-     "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
-     "link": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
-     "pubDate": "Mon, 16 Nov 2026 05:00:00 -0500",
-     "summary": "The startup, which also just disclosed an up to $1.2 billion partnership with Sanofi, is backed by&nbsp;Versant, MPM BioImpact, Eli Lilly and Novartis&rsquo; venture arm.",
-     "source": "BioPharma Dive",
-     "zh": "Big-name investors pour $100M into DNA therapeutics developer Seawolf"
     },
     {
      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
@@ -1569,6 +1569,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+     "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+     "pubDate": "Tue, 17 Nov 2026 11:00:00 -0500",
+     "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+     "source": "BleepingComputer",
+     "zh": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool"
+    },
+    {
      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
      "pubDate": "Tue, 17 Nov 2026 10:01:11 -0500",
@@ -1713,14 +1721,6 @@
      "zh": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems"
     },
     {
-     "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-     "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-     "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500",
-     "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilitie",
-     "source": "BleepingComputer",
-     "zh": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware"
-    },
-    {
      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
      "pubDate": "Mon, 16 Nov 2026 22:08:20 GMT",
@@ -1785,12 +1785,52 @@
    "total": 18,
    "items": [
     {
-     "title": "第一性原理正在失效：当最聪明的一群人突然穿起了同一双跑鞋",
-     "link": "https://www.huxiu.com/article/4906383.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 23:37:39 +0800",
-     "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 清晨八点，旧金山海耶斯谷的精品咖啡馆门前，照例排起了长队。 队伍里站着全美智力密度最高的一群人。他们是人工智能初创公司的创始人、前沿大模型实验室的研究员，以及硅谷最敏锐的风险投资人。每个人手里都端着一杯燕麦奶拿铁，神情严肃，低声讨论着前沿话题：多模态对齐、合成数据瓶颈，以及人工通用智能何时降临。 在《纽约客》最新刊发的深度特稿中，特约作家萨姆·克里斯（Sam Kriss）记录了他在旧金山的一段真实经历。他穿行在硅谷的科技园区，试图近距离观察这群正在重构全球秩序的技术新贵。 但当他的目光从这群人高悬的视线移向地面时，他被眼前的景象震住了",
-     "source": "虎嗅",
-     "zh": "第一性原理正在失效：当最聪明的一群人突然穿起了同一双跑鞋"
+     "title": "Jensen Huang breaks silence, saying he is willing to return as Nvidia CEO if the board decides it is in the best interest of shareholders, employees, and the US (Robbie Whelan/Wall Street Journal)",
+     "link": "https://www.techmeme.com/261117/p35#a261117p35",
+     "pubDate": "Tue, 17 Nov 2026 11:05:01 -0500",
+     "summary": "Robbie Whelan / Wall Street Journal : Jensen Huang breaks silence, saying he is willing to return as Nvidia CEO if the board decides it is in the best interest of shareholders, employees, and the US &nbsp; &mdash;&nbsp; Outpouring of support from friends and colleagues has been overwhelming, Huang s",
+     "source": "Techmeme",
+     "zh": "Jensen Huang breaks silence, saying he is willing to return as Nvidia CEO if the board decides it is in the best interest of shareholders, employees, and the US (Robbie Whelan/Wall Street Journal)"
+    },
+    {
+     "title": "Sources: NSA Net, the highly classified network that the NSA uses for its internal communications, is down; there is no evidence of a cyberattack (CNN)",
+     "link": "https://www.techmeme.com/261117/p34#a261117p34",
+     "pubDate": "Tue, 17 Nov 2026 11:00:53 -0500",
+     "summary": "CNN : Sources: NSA Net, the highly classified network that the NSA uses for its internal communications, is down; there is no evidence of a cyberattack &nbsp; &mdash;&nbsp; The highly classified network that the National Security Agency uses for its internal communications is down, according to six ",
+     "source": "Techmeme",
+     "zh": "Sources: NSA Net, the highly classified network that the NSA uses for its internal communications, is down; there is no evidence of a cyberattack (CNN)"
+    },
+    {
+     "title": "DHS Secretary Markwayne Mullin says recent tech outages are not tied to cyberattacks but to \"pushing new technology on top of really old computer systems\" (David Shepardson/Reuters)",
+     "link": "https://www.techmeme.com/261117/p33#a261117p33",
+     "pubDate": "Tue, 17 Nov 2026 10:55:01 -0500",
+     "summary": "David Shepardson / Reuters : DHS Secretary Markwayne Mullin says recent tech outages are not tied to cyberattacks but to &ldquo;pushing new technology on top of really old computer systems&rdquo; &nbsp; &mdash;&nbsp; The top US homeland security official said Tuesday a series of technology outages a",
+     "source": "Techmeme",
+     "zh": "DHS Secretary Markwayne Mullin says recent tech outages are not tied to cyberattacks but to \"pushing new technology on top of really old computer systems\" (David Shepardson/Reuters)"
+    },
+    {
+     "title": "Codex, which lets businesses use stablecoins for cross-border payments across Asia, Latin America, and sub-Saharan Africa, raised a $30M Series A led by Pantera (Camila Grigera Naón/Fortune)",
+     "link": "https://www.techmeme.com/261117/p32#a261117p32",
+     "pubDate": "Tue, 17 Nov 2026 10:50:01 -0500",
+     "summary": "Camila Grigera Na&oacute;n / Fortune : Codex, which lets businesses use stablecoins for cross-border payments across Asia, Latin America, and sub-Saharan Africa, raised a $30M Series A led by Pantera &nbsp; &mdash;&nbsp; Money might make the world go round&mdash;but that doesn't mean getting it arou",
+     "source": "Techmeme",
+     "zh": "Codex, which lets businesses use stablecoins for cross-border payments across Asia, Latin America, and sub-Saharan Africa, raised a $30M Series A led by Pantera (Camila Grigera Naón/Fortune)"
+    },
+    {
+     "title": "Highly classified US national security communications network goes down",
+     "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+     "pubDate": "Tue, 17 Nov 2026 15:38:28 +0000",
+     "summary": "Article URL: https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down Comments URL: https://news.ycombinator.com/item?id=50532849 Points: 34 # Comments: 7",
+     "source": "Hacker News",
+     "zh": "Highly classified US national security communications network goes down"
+    },
+    {
+     "title": "A.I. Just Blew Up a Key Tenet of Computer Science",
+     "link": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+     "pubDate": "Tue, 17 Nov 2026 15:33:48 +0000",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html Comments URL: https://news.ycombinator.com/item?id=50532786 Points: 18 # Comments: 9",
+     "source": "Hacker News",
+     "zh": "A.I. Just Blew Up a Key Tenet of Computer Science"
     },
     {
      "title": "House Democrats promise a US return to global climate talks",
@@ -1852,7 +1892,7 @@
      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
      "link": "https://alloyhtml.com/example.html",
      "pubDate": "Tue, 17 Nov 2026 15:07:09 +0000",
-     "summary": "Article URL: https://alloyhtml.com/example.html Comments URL: https://news.ycombinator.com/item?id=50532385 Points: 11 # Comments: 3",
+     "summary": "Article URL: https://alloyhtml.com/example.html Comments URL: https://news.ycombinator.com/item?id=50532385 Points: 32 # Comments: 7",
      "source": "Hacker News",
      "zh": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off"
     },
@@ -1865,18 +1905,10 @@
      "zh": "英伟达董事会设立国家安全与出口管制监督委员会"
     },
     {
-     "title": "A US Federal Women's Prison Became a \"Rape Club\"",
-     "link": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
-     "pubDate": "Tue, 17 Nov 2026 15:03:25 +0000",
-     "summary": "Article URL: https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop Comments URL: https://news.ycombinator.com/item?id=50532322 Points: 23 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "A US Federal Women's Prison Became a \"Rape Club\""
-    },
-    {
      "title": "Pentagon fails 9th financial audit in a row",
      "link": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
      "pubDate": "Tue, 17 Nov 2026 15:02:53 +0000",
-     "summary": "Article URL: https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/ Comments URL: https://news.ycombinator.com/item?id=50532315 Points: 26 # Comments: 8",
+     "summary": "Article URL: https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/ Comments URL: https://news.ycombinator.com/item?id=50532315 Points: 59 # Comments: 36",
      "source": "Hacker News",
      "zh": "Pentagon fails 9th financial audit in a row"
     },
@@ -1897,6 +1929,14 @@
      "zh": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos"
     },
     {
+     "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+     "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+     "pubDate": "Tue, 17 Nov 2026 14:53:43 +0000",
+     "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 23 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed"
+    },
+    {
      "title": "索尼赢得英国近 20 亿英镑诉讼：PlayStation 数字游戏定价未被认定违法",
      "link": "https://www.ithome.com/1/028/544.htm",
      "pubDate": "Tue, 17 Nov 2026 14:46:25 GMT",
@@ -1908,7 +1948,7 @@
      "title": "We don't need more apps. We need better open source",
      "link": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
      "pubDate": "Tue, 17 Nov 2026 14:45:36 +0000",
-     "summary": "Article URL: https://jordankrueger.com/blog/better-open-source-not-more-apps/ Comments URL: https://news.ycombinator.com/item?id=50532086 Points: 109 # Comments: 47",
+     "summary": "Article URL: https://jordankrueger.com/blog/better-open-source-not-more-apps/ Comments URL: https://news.ycombinator.com/item?id=50532086 Points: 187 # Comments: 94",
      "source": "Hacker News",
      "zh": "We don't need more apps. We need better open source"
     },
@@ -1919,86 +1959,6 @@
      "summary": "IT之家 11 月 17 日消息，比亚迪汽车官方刚刚发布视频，分享了集团董事长兼总裁王传福在 2026 年 APEC 工商领导人峰会上的完整版讲话。 面对主持人提问：“可持续发展对于比亚迪来说是什么定位？”王传福直言：“ 只有可持续发展才能实现长期发展，‘我赢你输’的路子走不远。 ” 王传福表示，地球也是一样，只有可持续环境改善的发展，才能真正让人类持续成长、持续进步。因此，我们在发展的同时，也要改善好我们的环境，要减少二氧化碳的排放。 据IT之家今日早些时候报道，王传福还在 APEC 2026 表示， 可持续发展是一个全球目标，而中国在这方面做得卓有成效 。他提到，过去几年，我国政府在这方面",
      "source": "IT之家",
      "zh": "比亚迪王传福：只有可持续发展才能实现长期发展，“我赢你输”的路子走不远"
-    },
-    {
-     "title": "Neuralink co-founder Max Hodak&apos;s Science Corp, which offers a retinal implant for age-related macular degeneration, raised $400M at a $3.5B valuation (Ike Swetlitz/Bloomberg)",
-     "link": "https://www.techmeme.com/261117/p29#a261117p29",
-     "pubDate": "Tue, 17 Nov 2026 09:45:00 -0500",
-     "summary": "Ike Swetlitz / Bloomberg : Neuralink co-founder Max Hodak's Science Corp, which offers a retinal implant for age-related macular degeneration, raised $400M at a $3.5B valuation &nbsp; &mdash;&nbsp; Science Corp, the company behind a retinal chip that restores some vision to people with an age-relate",
-     "source": "Techmeme",
-     "zh": "Neuralink co-founder Max Hodak&apos;s Science Corp, which offers a retinal implant for age-related macular degeneration, raised $400M at a $3.5B valuation (Ike Swetlitz/Bloomberg)"
-    },
-    {
-     "title": "AI行业里，被高薪叙事平均掉的人",
-     "link": "https://www.huxiu.com/article/4906379.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 22:44:33 +0800",
-     "summary": "本文来自微信公众号： 表外表里 ，编辑：曹宾玲，作者：洞见数据研究院 晚上11点，杨涵合上电脑，12小时连轴转暂告一段落。但人下班了，神经没下，一旦数据有问题，她要24小时待命。 杨涵毕业已经3年，是985计算机本科、QS前20院校硕士，始终在AI这条线上，在几家大厂攒过实习和履历，还当过初创公司AI方向负责人。 这扎实的简历，配上超高的工作强度，按理说收入该傲视群雄。但眼下杨涵的月薪，勉强追平先进制造的头部研发，放在互联网大厂只能排到中等。 这和她“急流勇退”回研究院做基模有关，但抛开这一层，她仍有句话要说:“AI从业者，真没有外界想象的风光。” 眼下的AI叙事，汇聚了最让人羡慕的工作、最令",
-     "source": "虎嗅",
-     "zh": "AI行业里，被高薪叙事平均掉的人"
-    },
-    {
-     "title": "Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Bloomberg)",
-     "link": "https://www.techmeme.com/261117/p28#a261117p28",
-     "pubDate": "Tue, 17 Nov 2026 09:40:01 -0500",
-     "summary": "Bloomberg : Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range &nbsp; &mdash;&nbsp; Anthropic PBC is guiding prospective investors in its initial public offering it expects to price the shares at the h",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Bloomberg)"
-    },
-    {
-     "title": "叶国富还要再爆改几百家名创优品",
-     "link": "https://www.huxiu.com/article/4906378.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 22:39:37 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：卢奕贝 名创优品准备明年再关掉几百家门店。 11月17日的三季度业绩会上，名创优品首席财务官张靖京透露，2027年公司将继续淘汰低效门店，“明年甚至会关掉几百家低效门店，这个是板上钉钉的事”。 但名创优品并不打算减少整体门店规模。截至今年9月底，其国内门店达到4726家，较去年底净增158家。它要做的，是把大量过去开出来的小店，换成能卖更多商品的新店、大店。 传统名创优品门店仍然是生活百货店的样子，拖鞋、香水、化妆工具等摆满货架，IP商品穿插其中。而如今名创优品主推的乐园系门店里，自有IP YOYO和CHOUCHOU占据入口和主要动线，大型IP装置、独立",
-     "source": "虎嗅",
-     "zh": "叶国富还要再爆改几百家名创优品"
-    },
-    {
-     "title": "英伟达，段永平的投资压力测试",
-     "link": "https://www.huxiu.com/article/4906377.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 22:36:59 +0800",
-     "summary": "本文来自微信公众号： 版面之外 ，作者：版君、画画 段永平开始大幅卖出英伟达。 但奇怪的是，黄仁勋刚离开英伟达那会，段永平并没有卖。 股价大跌，他甚至还准备买回此前被Call走的部分股票。 段永平给出的理由是：我觉得我买NVDA的大部分理由都还在，只是黄不在了。 一句话，把问题挑明了。一家公司的生意依然很好，那个让投资者放心持有十年的人却突然离开了，还能不能继续重仓？ 从2025年第一次买入，到如今重新审视这笔投资，段永平在英伟达身上走过了一轮试探、重仓、收缩和观望。 这是他近年来一次很有代表性的投资压力测试。 一、从试探到重仓 如果把时间拨回到2025年。 段永平买英伟达，其实有一个很有意思",
-     "source": "虎嗅",
-     "zh": "英伟达，段永平的投资压力测试"
-    },
-    {
-     "title": "名创优品：国内狂飙，海外失速，“增收不增利”何时是头？",
-     "link": "https://www.huxiu.com/article/4906376.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 22:29:55 +0800",
-     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《名创优品：国内狂飙，海外失速，“增收不增利” 何时是头？》 北京时间11月17日下午，名创优品发布了2026年Q3业绩。 整体来说，三季度名创的收入端依然超出市场预期，国内业务更是交出了近几年最好的成绩单；但海外业务明显失速，而费用率仍在继续抬升，利润端也没有跟上收入的增长，“增收不增利”的老问题还在延续。具体要点如下： 1、营收超预期，国内强、海外弱。3Q26名创实现总营收66.3亿元，同比增长14.3%，拆分来看，名创中国同比增长29.6%达到37.7亿元，在去年同期高基数的情况下依然环比提速，同店实现高个位数增长，已经是连续第六",
-     "source": "虎嗅",
-     "zh": "名创优品：国内狂飙，海外失速，“增收不增利”何时是头？"
-    },
-    {
-     "title": "偷面包之问，新版",
-     "link": "https://www.huxiu.com/article/4906374.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 22:23:02 +0800",
-     "summary": "本文来自微信公众号： 西坡原创 ，作者：西坡 《29岁女子在盒马下单400余次均申请“仅退款”，三年来一分钱没花，称感到“刺激”》，这是我读到的新闻标题。 新闻内容是改编的某地警方今天对一起“诈骗案”的通报，通报原题目为《XX公安破获一起利用盒马商家售后规则实施的诈骗案》。 我现在读新闻很少，这则新闻吸引我点开，可能得力于那家媒体精心挑选出的几个关键词：29岁，400余次，“刺激”。 首先使我感到“刺激”的是，为什么一个并不新鲜的“仅退款”漏洞，可以被一个普通女子轻松击破400余次。我推断这是一个普通女子，是因为这么长的标题都没有讲她有特殊身份。新闻内容也证实了我的推断，据介绍，这是一名长期在",
-     "source": "虎嗅",
-     "zh": "偷面包之问，新版"
-    },
-    {
-     "title": "Loopholes Are for Assholes",
-     "link": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
-     "pubDate": "Tue, 17 Nov 2026 14:20:32 +0000",
-     "summary": "Article URL: https://actsofvolition.com/2026/11/loopholes-are-for-assholes/ Comments URL: https://news.ycombinator.com/item?id=50531761 Points: 30 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Loopholes Are for Assholes"
-    },
-    {
-     "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-     "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-     "pubDate": "Tue, 17 Nov 2026 14:19:59 +0000",
-     "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 81 # Comments: 65",
-     "source": "Hacker News",
-     "zh": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns"
-    },
-    {
-     "title": "Paris-based Genesis AI, which is building a general-purpose robot with greater dexterity for warehouses and homes, raised a $500M Series A at a $3.5B valuation (Steven Rosenbush/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261117/p27#a261117p27",
-     "pubDate": "Tue, 17 Nov 2026 09:15:01 -0500",
-     "summary": "Steven Rosenbush / Wall Street Journal : Paris-based Genesis AI, which is building a general-purpose robot with greater dexterity for warehouses and homes, raised a $500M Series A at a $3.5B valuation &nbsp; &mdash;&nbsp; 'We're working to build the world's best general-purpose robot,' says CEO Zhou",
-     "source": "Techmeme",
-     "zh": "Paris-based Genesis AI, which is building a general-purpose robot with greater dexterity for warehouses and homes, raised a $500M Series A at a $3.5B valuation (Steven Rosenbush/Wall Street Journal)"
     },
     {
      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -2017,12 +1977,52 @@
      "zh": "Xreal Aura Review: Stunning Screens, Frustrating Controls"
     },
     {
-     "title": "Tiberius Aerospace, a defense-as-a-service startup that uses AI to design long-range supersonic artillery munitions, raised an $85M Series A at a $1B+ valuation (Isabella Ward/Wired)",
-     "link": "https://www.techmeme.com/261117/p26#a261117p26",
-     "pubDate": "Tue, 17 Nov 2026 08:55:01 -0500",
-     "summary": "Isabella Ward / Wired : Tiberius Aerospace, a defense-as-a-service startup that uses AI to design long-range supersonic artillery munitions, raised an $85M Series A at a $1B+ valuation &nbsp; &mdash;&nbsp; Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running ",
-     "source": "Techmeme",
-     "zh": "Tiberius Aerospace, a defense-as-a-service startup that uses AI to design long-range supersonic artillery munitions, raised an $85M Series A at a $1B+ valuation (Isabella Ward/Wired)"
+     "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+     "link": "https://www.wired.com/story/best-laptops/",
+     "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
+     "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+     "source": "WIRED",
+     "zh": "Best Laptops (2026): My Top Recommendations After Testing Hundreds"
+    },
+    {
+     "title": "Artist brings old Space Shuttle tank back to life",
+     "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+     "pubDate": "Tue, 17 Nov 2026 12:15:54 +0000",
+     "summary": "\"It's definitely the largest art project I've ever worked on.\"",
+     "source": "Ars Technica",
+     "zh": "Artist brings old Space Shuttle tank back to life"
+    },
+    {
+     "title": "Capillus HairBand Review: Good Looks, Awkward Fit",
+     "link": "https://www.wired.com/review/capillus-hairband/",
+     "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
+     "summary": "The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.",
+     "source": "WIRED",
+     "zh": "Capillus HairBand Review: Good Looks, Awkward Fit"
+    },
+    {
+     "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
+     "link": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
+     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+     "summary": "Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.",
+     "source": "WIRED",
+     "zh": "The Dark Side of the Moon Was the Brightest Part of 2026"
+    },
+    {
+     "title": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
+     "link": "https://www.wired.com/story/wired-yearbook-2026-ms-rachel/",
+     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+     "summary": "Throughout the past year, the children’s entertainer has called for grown-ups to do more to stand up for children everywhere, from ICE detention centers to Gaza.",
+     "source": "WIRED",
+     "zh": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults"
+    },
+    {
+     "title": "Congratulations to WIRED’s Class of 2026",
+     "link": "https://www.wired.com/story/wired-yearbook-2026/",
+     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+     "summary": "This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future.",
+     "source": "WIRED",
+     "zh": "Congratulations to WIRED’s Class of 2026"
     }
    ]
   },
@@ -2032,6 +2032,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The unified Disney+ and Hulu app is set to arrive in December",
+     "link": "https://www.engadget.com/2319193/unified-disney-plus-and-hulu-app-is-set-to-arrive-in-december/",
+     "pubDate": "Tue, 17 Nov 2026 16:00:25 +0000",
+     "summary": "Disney has been working to bring the streaming services together for several years.",
+     "source": "Engadget",
+     "zh": "The unified Disney+ and Hulu app is set to arrive in December"
+    },
+    {
+     "title": "Samsung Galaxy Tab S10 FE with S Pen gets a $200 price cut",
+     "link": "https://www.androidauthority.com/galaxy-tab-s10-fe-200-off-deal-3736170/",
+     "pubDate": "Tue, 17 Nov 2026 16:00:23 +0000",
+     "summary": "Samsung's Galaxy Tab S10 FE is $200 off on Amazon, its lowest price since December 2025.",
+     "source": "Android Authority",
+     "zh": "Samsung Galaxy Tab S10 FE with S Pen gets a $200 price cut"
+    },
+    {
+     "title": "JBL Tune 530BT (2026) headphones hit a record low at half off",
+     "link": "https://www.androidauthority.com/jbl-tune-530bt-2026-deal-3736169/",
+     "pubDate": "Tue, 17 Nov 2026 15:54:36 +0000",
+     "summary": "The JBL Tune 530BT (2026) is $29.95 on Amazon, half off and its lowest price yet.",
+     "source": "Android Authority",
+     "zh": "JBL Tune 530BT (2026) headphones hit a record low at half off"
+    },
     {
      "title": "Google Pixel Tag is coming to Europe ‘pretty soon,’ leak says",
      "link": "https://9to5google.com/2026/11/17/pixel-tag-coming-to-europe-leak-says/",
@@ -2137,28 +2161,12 @@
      "zh": "Google’s testing a faster way to share your files with AI Mode"
     },
     {
-     "title": "Save 55% on the Fire TV Cube in an Early Black Friday deal",
-     "link": "https://www.androidauthority.com/fire-tv-cube-deal-3736122/",
-     "pubDate": "Tue, 17 Nov 2026 14:46:25 +0000",
-     "summary": "The Fire TV Cube is $89.99 on Amazon, a 55% saving that matches its lowest price.",
-     "source": "Android Authority",
-     "zh": "Save 55% on the Fire TV Cube in an Early Black Friday deal"
-    },
-    {
      "title": "The hidden features every Google Maps user should know about",
      "link": "https://www.engadget.com/2315026/google-maps-hidden-features-users-should-know/",
      "pubDate": "Tue, 17 Nov 2026 14:45:00 +0000",
      "summary": "Discover these overlooked Google Maps features that help you plan your route and cut distractions so you can arrive at your destination on time.",
      "source": "Engadget",
      "zh": "The hidden features every Google Maps user should know about"
-    },
-    {
-     "title": "Fire TV Stick 4K Select drops to its lowest price, now 64% off",
-     "link": "https://www.androidauthority.com/fire-tv-stick-4k-select-black-friday-deal-3736121/",
-     "pubDate": "Tue, 17 Nov 2026 14:40:00 +0000",
-     "summary": "The Fire TV Stick 4K Select is $17.99 on Amazon, matching its lowest price for an easy 4K TV upgrade.",
-     "source": "Android Authority",
-     "zh": "Fire TV Stick 4K Select drops to its lowest price, now 64% off"
     },
     {
      "title": "Apple now selling iPhone Duo replacement parts and tools",
@@ -2249,14 +2257,6 @@
      "zh": "Router VPN vs. VPN app: How are these setups different?"
     },
     {
-     "title": "Natural Cycles updates its cycle-tracking wearable",
-     "link": "https://www.engadget.com/2318468/natural-cycles-updates-its-cycle-tracking-wearable/",
-     "pubDate": "Tue, 17 Nov 2026 13:30:00 +0000",
-     "summary": "Natural Cycles updates its cycle-tracking band, and debuts its first smart ring, but not in the US.",
-     "source": "Engadget",
-     "zh": "Natural Cycles updates its cycle-tracking wearable"
-    },
-    {
      "title": "New leak offers a first look at the iPhone 20 Pro's front glass",
      "link": "https://www.gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php",
      "pubDate": "Tue, 17 Nov 2026 14:26:02 +0100",
@@ -2281,44 +2281,116 @@
    "total": 13,
    "items": [
     {
+     "title": "DICK's Sporting Goods falls after a wave of institutional selling was reported",
+     "link": "https://seekingalpha.com/news/4673741-dicks-sporting-goods-falls-after-a-wave-of-institutional-selling-was-reported?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 11:08:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "DICK's Sporting Goods falls after a wave of institutional selling was reported"
+    },
+    {
+     "title": "OneWater Marine rallies on FQ4 profit beat, improved leverage",
+     "link": "https://seekingalpha.com/news/4673712-onewater-marine-rallies-on-fq4-profit-beat-improved-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 11:07:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "OneWater Marine rallies on FQ4 profit beat, improved leverage"
+    },
+    {
+     "title": "Trump Administration moves forward on Chinese data center component ban: report",
+     "link": "https://seekingalpha.com/news/4673711-trump-administration-moves-forward-on-chinese-data-center-component-ban-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 11:07:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump Administration moves forward on Chinese data center component ban: report"
+    },
+    {
+     "title": "Jensen Huang signals openness to return as Nvidia CEO",
+     "link": "https://seekingalpha.com/news/4673738-jensen-huang-signals-openess-to-return-as-nvidia-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 11:07:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Jensen Huang signals openness to return as Nvidia CEO"
+    },
+    {
+     "title": "10 worst performing Nasdaq-100 names as tech struggles ahead of Nvidia results",
+     "link": "https://seekingalpha.com/news/4673740-10-worst-performing-nasdaq-100-names-as-tech-struggles-ahead-of-nvidia-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 11:06:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "10 worst performing Nasdaq-100 names as tech struggles ahead of Nvidia results"
+    },
+    {
+     "title": "Hypoport SE Q3 GAAP EPS of €1.02, revenue of €160.2M",
+     "link": "https://seekingalpha.com/news/4673742-hypoport-se-q3-gaap-eps-of-102-revenue-of-1602m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 11:03:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hypoport SE Q3 GAAP EPS of €1.02, revenue of €160.2M"
+    },
+    {
+     "title": "创远信科：取得2项发明专利证书",
+     "link": "http://finance.eastmoney.com/news/1354,202611173933280812.html",
+     "pubDate": "Tue, 17 Nov 2026 23:54:48 +0800",
+     "summary": "创远信科 公告，公司于近期获得国家 知识产权 局下发的2项《发明专利证书》，专利名称分别为“FPGA采集按键和旋钮动作的USB HID设备系统、方法、装置、处理器及存储介质”及“采取路测业务实例和测试计划实例的网络自动路测系统、方法、装置、处理器及其存储介质”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "创远信科：取得2项发明专利证书"
+    },
+    {
+     "title": "美股恐慌指数VIX短线拉升",
+     "link": "http://stock.eastmoney.com/news/11791,202611173933281229.html",
+     "pubDate": "Tue, 17 Nov 2026 23:54:47 +0800",
+     "summary": "美股恐慌指数VIX短线拉升，最新上涨近20%至27点。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美股恐慌指数VIX短线拉升"
+    },
+    {
+     "title": "并行科技：830.01万股解除限售",
+     "link": "http://finance.eastmoney.com/news/1354,202611173933280918.html",
+     "pubDate": "Tue, 17 Nov 2026 23:54:44 +0800",
+     "summary": "并行科技 公告，本次股票解除限售数量总额为8,300,082股，占公司总股本13.70%，可交易时间为2026年11月20日。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "并行科技：830.01万股解除限售"
+    },
+    {
+     "title": "丹娜生物：3852万股限售股将解除限售",
+     "link": "http://finance.eastmoney.com/news/1354,202611173933281158.html",
+     "pubDate": "Tue, 17 Nov 2026 23:54:41 +0800",
+     "summary": "丹娜生物 公告，本次股票解除限售数量总额为38,519,780股，占公司总股本49.67%，可交易时间为2026年11月20日。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "丹娜生物：3852万股限售股将解除限售"
+    },
+    {
+     "title": "星昊医药：全资子公司及实控人之一因涉嫌串通投标罪被提起公诉",
+     "link": "http://finance.eastmoney.com/news/1354,202611173933281013.html",
+     "pubDate": "Tue, 17 Nov 2026 23:54:36 +0800",
+     "summary": "星昊医药 公告，全资子公司广东鼎信及实控人之一于继忠于2026年11月13日收到雨花台检察院《起诉书》，涉第七批国家药品集采中串通投标报价，被以串通投标罪提起公诉。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "星昊医药：全资子公司及实控人之一因涉嫌串通投标罪被提起公诉"
+    },
+    {
+     "title": "标普500指数下跌1.2%，创7月29日以来新低",
+     "link": "http://global.eastmoney.com/news/11798,202611173933280574.html",
+     "pubDate": "Tue, 17 Nov 2026 23:53:57 +0800",
+     "summary": "11月17日，标普500指数下跌1.2%，创7月29日以来新低。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "标普500指数下跌1.2%，创7月29日以来新低"
+    },
+    {
+     "title": "美股跳水 三大指数跌幅均超过1%",
+     "link": "http://finance.eastmoney.com/news/1345,202611173933220844.html",
+     "pubDate": "Tue, 17 Nov 2026 23:52:39 +0800",
+     "summary": "美东时间周二，美股跳水，三大指数跌幅均超过1%，截至发稿，道琼斯指数跌1.46%， 纳斯达克 综合 指数跌1.71%， 标普500指数跌1.47% 。 大型科技股多数下跌， 微软 、 SK海力士 跌超3%， 英伟达 、 闪迪 、 台积电 、 美光科技 走低； SpaceX 一度涨超3%，Coherent盘中最大涨幅超过6%。 全球要闻 美伊大消息！美军三航母集结中东 中东局势，有新动向！ 美军中央司令部最新证实，“罗斯福”号航母已进入其责任区执行任务，这是美军当前在中东部署的第三艘航母。目前“布什”号、“华盛顿”号已部署于此，暂不清楚“罗斯福”号是否替换其中一艘。 据伊朗方面消息 美国袭击了格",
+     "source": "东方财富资讯",
+     "zh": "美股跳水 三大指数跌幅均超过1%"
+    },
+    {
      "title": "Jensen Huang slated to appear before House panels Dec. 1; Nvidia lawyer due to testify Dec. 2",
      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html",
      "pubDate": "Tue, 17 Nov 2026 15:48:03 GMT",
      "summary": "House committee chairs had invited former Nvidia CEO Jensen Huang to testify and threatened to subpoena him if he didn't agree voluntarily.",
      "source": "CNBC",
      "zh": "Jensen Huang slated to appear before House panels Dec. 1; Nvidia lawyer due to testify Dec. 2"
-    },
-    {
-     "title": "Solidion Technology GAAP EPS of $0.02",
-     "link": "https://seekingalpha.com/news/4673726-solidion-technology-gaap-eps-of-0_02?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:44:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Solidion Technology GAAP EPS of $0.02"
-    },
-    {
-     "title": "NSA communications network is said to fail, amid recent technology disruptions",
-     "link": "https://seekingalpha.com/news/4673724-nsa-communications-network-is-said-to-fail-amid-recent-technology-disruptions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:43:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NSA communications network is said to fail, amid recent technology disruptions"
-    },
-    {
-     "title": "NextVision Stabilized Systems Q3 GAAP EPS of $0.65, revenue of $106.4M, beats by $0.61M",
-     "link": "https://seekingalpha.com/news/4673723-nextvision-stabilized-systems-q3-gaap-eps-of-065-revenue-of-1064m-beats-by-061m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:42:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NextVision Stabilized Systems Q3 GAAP EPS of $0.65, revenue of $106.4M, beats by $0.61M"
-    },
-    {
-     "title": "Diagnostic stocks safe from proposed crackdown on Medicare fraud",
-     "link": "https://seekingalpha.com/news/4673720-diagnostic-stocks-safe-crackdown-medicare-fraud?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:41:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Diagnostic stocks safe from proposed crackdown on Medicare fraud"
     },
     {
      "title": "Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chinese rivals",
@@ -2329,28 +2401,12 @@
      "zh": "Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chinese rivals"
     },
     {
-     "title": "Almirall, S.A. reports 9M results",
-     "link": "https://seekingalpha.com/news/4673719-almirall-sa-reports-9m-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:38:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Almirall, S.A. reports 9M results"
-    },
-    {
      "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
      "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
      "pubDate": "Tue, 17 Nov 2026 15:36:43 GMT",
      "summary": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
      "source": "CNBC",
      "zh": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices"
-    },
-    {
-     "title": "GEA Group Aktiengesellschaft reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673717-gea-group-aktiengesellschaft-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 10:35:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GEA Group Aktiengesellschaft reports Q3 results"
     },
     {
      "title": "‘It is heartbreaking’: My brother took over our ailing mother’s life and finances. What can I do?",
@@ -2441,54 +2497,6 @@
      "zh": "美国10月零售销售环比增长0.2%，同比6.8%创四年最高纪录"
     },
     {
-     "title": "美国国土安全部长：美国境内尚未发生任何网络威胁事件",
-     "link": "http://finance.eastmoney.com/news/1351,202611173933171212.html",
-     "pubDate": "Tue, 17 Nov 2026 21:47:20 +0800",
-     "summary": "美国国土安全部长：美国境内尚未发生任何网络威胁事件。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国国土安全部长：美国境内尚未发生任何网络威胁事件"
-    },
-    {
-     "title": "特朗普媒体科技集团(DJT.O)回购1亿美元未偿还可转换票据，公司将未偿还本金减少逾10%",
-     "link": "http://stock.eastmoney.com/news/1611,202611173933171888.html",
-     "pubDate": "Tue, 17 Nov 2026 21:47:20 +0800",
-     "summary": "特朗普媒体科技集团 (DJT.O)回购1亿美元未偿还可转换票据，公司将未偿还本金减少逾10%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普媒体科技集团(DJT.O)回购1亿美元未偿还可转换票据，公司将未偿还本金减少逾10%"
-    },
-    {
-     "title": "创金合信基金魏凤春：“政策底”已现 A股风险收益比正在改善",
-     "link": "http://stock.eastmoney.com/news/11215,202611173933170051.html",
-     "pubDate": "Tue, 17 Nov 2026 21:46:38 +0800",
-     "summary": "新华财经北京11月17日电（记者翟卓）近期A股震荡反复，市场情绪偏向谨慎。创金合信基金首席经济学家魏凤春在接受记者采访时表示，当下“政策底”已现，估值修复的方向较为确定，结构性分化是其特征。 魏凤春进一步指出，当前市场正在发生改变，定价由此前的流动性冲击主导，向风险溢价的系统性收敛转化。政策给出了边界，估值给出了空间，盈利给出了底气，A股的风险收益比持续改善，看好具备内生增长能力与治理纪律的公司。 “政策底”不等于“市场底” 魏凤春分析，压制短期市场的三个主要因素分别是外部冲击带来的风险偏好回落、前期上涨积累的筹码拥挤以及避险情绪下的短期资金撤离。主要宽基指数经过前期调整已处于历史偏低区间，盈",
-     "source": "东方财富股票",
-     "zh": "创金合信基金魏凤春：“政策底”已现 A股风险收益比正在改善"
-    },
-    {
-     "title": "京东：外卖业务2027年目标是继续同比显著减亏",
-     "link": "http://finance.eastmoney.com/news/1354,202611173933171932.html",
-     "pubDate": "Tue, 17 Nov 2026 21:46:38 +0800",
-     "summary": "京东 高管在今日的业绩会表示， 京东 的目标是2027年外卖业务继续同比显著减亏，从长期来看，将在保持外卖业务规模健康增长的同时，持续提升运营效率，改善外卖的亏损。“我们也有计划加快外卖与核心业务的深度协同，充分发掘 京东 生态中更多的协同价值，然后带动京东用户和收入的整体健康增长，并推动整体盈利提升。” （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "京东：外卖业务2027年目标是继续同比显著减亏"
-    },
-    {
-     "title": "特朗普媒体科技集团回购了1亿美元未偿还可转换票据",
-     "link": "http://finance.eastmoney.com/news/1354,202611173933171780.html",
-     "pubDate": "Tue, 17 Nov 2026 21:46:36 +0800",
-     "summary": "特朗普媒体科技集团 回购了1亿美元未偿还可转换票据，公司将未偿本金削减逾10%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "特朗普媒体科技集团回购了1亿美元未偿还可转换票据"
-    },
-    {
-     "title": "同宇新材：子公司拟约5.24亿元投建年产20万吨电子树脂项目（二期）",
-     "link": "http://finance.eastmoney.com/news/1354,202611173933169442.html",
-     "pubDate": "Tue, 17 Nov 2026 21:46:05 +0800",
-     "summary": "上证报中国证券网讯（记者骆民） 同宇新材 公告，公司计划由全资子公司江西 同宇新材 料有限公司（以下简称“江西同宇”）投资建设“年产20万吨 电子 树脂项目（二期）”。该项目计划总投资额约为5.24亿元，拟利用江西同宇乐平市工业园区现有土地，新建甲类车间、 电子 树脂生产装置及公辅配套设施等。 另外，公司计划投资建设“高性能树脂材料项目”。该项目计划总投资额约为3亿元，新建甲类车间、丙类车间、树脂生产装置及公辅配套设施等。 （文章来源：上海证券报·中国证券网）",
-     "source": "东方财富股票",
-     "zh": "同宇新材：子公司拟约5.24亿元投建年产20万吨电子树脂项目（二期）"
-    },
-    {
      "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
      "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
      "pubDate": "Tue, 17 Nov 2026 13:44:02 GMT",
@@ -2511,14 +2519,6 @@
      "summary": "热点聚焦 商务部回应 ： 商务部新闻发言人就美商务部发布限制远程获取先进 半导体 相关措施答记者问。问： 11月16日，美国商务部发布限制远程获取先进 半导体 相关措施 。请问中方对此有何评论？答：中方注意到有关情况。美方泛化国家安全概念，滥用出口管制，对中国企业与其他国家企业正常贸易合作横加干涉。美方做法背离两国元首达成的重要共识，破坏市场规则和国际经贸秩序，冲击全球 半导体 产业链供应链稳定。中方对此强烈不满，坚决反对。 18只主动ETF下周一上市： 首批18只主动ETF合计募集360亿元，目前已有17只产品净值发生变化，其中2只取得正收益，15只跌破面值。有产品暂未明显建仓，反而凭借低仓",
      "source": "东方财富资讯",
      "zh": "11月17日东方财富财经晚报（附新闻联播）"
-    },
-    {
-     "title": "11月17日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1354,202611173933105994.html",
-     "pubDate": "Tue, 17 Nov 2026 20:53:20 +0800",
-     "summary": "沪深两市多家上市公司11月17日晚间发布重要公告，以下为利好的消息汇总： 云南锗业 ：拟增加高品质磷化铟单晶片建设项目投资额至2.7亿元 云南锗业 (002428)11月17日公告，公司控股子公司云南鑫耀 半导体 材料有限公司拟实施“高品质磷化铟单晶片建设项目”，计划总投资1.89亿元。鉴于项目建设期间，部分机器设备、安装调试费用等市场价格上涨；同时，为顺应市场向大尺寸发展的需求，进一步提高项目大尺寸产品的产出占比，公司拟对原部分设备配置及数量进行适当调整，将该项目的总投资额增加至2.7亿元。 大地熊 ：高性能 稀土永磁 产品可应用于人形 机器人 核心部件 目前处于批量供货阶段 大地熊 近日在",
-     "source": "东方财富资讯",
-     "zh": "11月17日晚间上市公司利好消息一览(附名单)"
     }
    ]
   },
@@ -2528,6 +2528,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "The U.S. just lost its measles elimination status. What now?",
+     "link": "https://www.sciencenews.org/article/measles-us-elimination-status-vaccine",
+     "pubDate": "Tue, 17 Nov 2026 16:09:29 +0000",
+     "summary": "Data collected since January 2025 show that the measles virus has been circulating for more than a year, a sign that the virus is now endemic.",
+     "source": "Science News",
+     "zh": "The U.S. just lost its measles elimination status. What now?"
+    },
     {
      "title": "What to know about kratom and its powerful derivatives",
      "link": "https://www.sciencenews.org/article/kratom-pain-addictive-potential-danger",
@@ -2735,14 +2743,6 @@
      "summary": "The documentary offers a window into scientists’ wonder and joy in their work as they discover new life forms in the depths of the Southern Ocean.",
      "source": "Science News",
      "zh": "In National Geographic’s “Expedition: Saving Our Seas,” it’s all hands on deck"
-    },
-    {
-     "title": "The ‘hell chicken’ dinosaur was a real terror — to fruit",
-     "link": "https://www.sciencenews.org/article/hell-chicken-dinosaur-terror-fruit-eat",
-     "pubDate": "Fri, 13 Nov 2026 16:00:00 +0000",
-     "summary": "Infernogallus – the ‘hell chicken’ dinosaur – evolved to eat a fruit-heavy diet. It may be the first evidence of fruit-eating adaptations among non-avian dinosaurs.",
-     "source": "Science News",
-     "zh": "The ‘hell chicken’ dinosaur was a real terror — to fruit"
     },
     {
      "title": "Waves that clear waste from the brain during sleep are impaired in older adults",

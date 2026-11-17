@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/18 04:12:07",
+ "generated_at": "2026/11/18 04:32:19",
  "recent_days": 7,
  "industries": [
   {
@@ -65,14 +65,6 @@
      "zh": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop"
     },
     {
-     "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
-     "link": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
-     "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-     "summary": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier score, and fix it with Platt scaling and isotonic regression",
-     "source": "KDnuggets",
-     "zh": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn"
-    },
-    {
      "title": "Research Reports",
      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
      "pubDate": "Tue, 17 Nov 2026 14:39:46 +0000",
@@ -95,14 +87,6 @@
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月17日消息，刚刚，由诺奖得主、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis）创办的英国AI药物研发公司Isomorphic Labs宣布完成 50亿美元（约合人民币333亿元）C轮融资 ，融资获得超额认购。 结合公开数据不完全统计，本轮融资刷新该公司此前的单轮融资纪录，可能创下 全球AI制药领域单轮融资规模新纪录 。 ▲哈萨比斯宣布Isomorphic Labs完成C轮融资（图源：X） 2025年3月，Isomorphic Labs宣布完成 6亿美元（约合人民币40亿元）首次外部融资 。今年5月，该公司再获",
      "source": "智东西",
      "zh": "刚刚，诺奖得主的AI公司融了333亿"
-    },
-    {
-     "title": "7 Best AI Coding Plans for $10 or Less in 2026",
-     "link": "https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026",
-     "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
-     "summary": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed, and Xiaomi MiMo.",
-     "source": "KDnuggets",
-     "zh": "7 Best AI Coding Plans for $10 or Less in 2026"
     },
     {
      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -247,6 +231,22 @@
      "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西11月17日消息，今日凌晨， AMD 宣布完成对“AI教母” 李飞飞 联合创办的空间智能公司 World Labs 的收购。 AMD在社交平台X上发文，放出AMD董事会主席兼CEO 苏姿丰 与斯坦福大学计算机科学红杉讲席教授、World Labs联合创始人兼CEO 李飞飞 的同框照片，官宣World Labs团队正式加入AMD。推文附带握手表情，同时标注了“芯片女王”“AI教母”两个称号。 李飞飞转发了这篇推文，她说：“AI是一项文明科技！在这个历史时刻，我们每个人都面临着巨大的机遇和责任。我深感荣幸和激动能够领导World Labs加入AMD。",
      "source": "智东西",
      "zh": "刚刚，李飞飞正式加入AMD，与苏姿丰同框"
+    },
+    {
+     "title": "刚刚，华为首个具身世界模型来了！国产算力训出，拿下双冠",
+     "link": "https://zhidx.com/p/610813.html",
+     "pubDate": "Tue, 17 Nov 2026 08:43:27 +0800",
+     "summary": "智东西 作者 | 三北 编辑 | 心缘 智东西11月16日报道，今日，华为云推出其 首款 昇腾原生具身世界模型CloudRobo-WM1.2 ，并宣布于11月30日正式开放WM1.2模型权重、推理后训练代码及预训练最佳实践。 该模型采用共享世界模型骨干网络实现预测增强的世界表征，基于世界模型原生DualAct架构实现世界模型原生动作生成，在 RoboTwin 2.0、LiberoPro 2.0评测中均位列第一。 现场，华为云展示了基于CloudRobo-WM1.2的机器人完成 工业级搬运连续作业、轴承毛刺清洁 等真实工业场景实验，以及在 无人零售场景 中完成了物品上架、礼物入柜等收纳任务。 会",
+     "source": "智东西",
+     "zh": "刚刚，华为首个具身世界模型来了！国产算力训出，拿下双冠"
+    },
+    {
+     "title": "Strengthening NATO and allied cyber defenses with AI",
+     "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+     "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+     "source": "OpenAI",
+     "zh": "Strengthening NATO and allied cyber defenses with AI"
     }
    ]
   },
@@ -673,6 +673,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV",
+     "link": "https://electrek.co/2026/11/17/toyota-adds-1000-off-0-apr-to-bigger-electric-suv/",
+     "pubDate": "Tue, 17 Nov 2026 20:19:21 +0000",
+     "summary": "The Woodland version is bigger and more powerful than the standard Toyota bZ , and it may be a better deal right now. more…",
+     "source": "Electrek",
+     "zh": "Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV"
+    },
+    {
      "title": "Waymo suspends freeway rides nationwide after California DMV order",
      "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
      "pubDate": "Tue, 17 Nov 2026 19:49:41 +0000",
@@ -697,12 +705,12 @@
      "zh": "EcoFlow flash sale offers 5,018Wh TITAN Classic + 4x rigid solar panels $1,588 off, Hiboy EVs up to 45% off from $300, more"
     },
     {
-     "title": "How Does The REO Runabout Stack Up Against Slate?",
+     "title": "REO Runabout vs. Slate Truck: Which Sub-$30,000 Truck Is Better?",
      "link": "https://insideevs.com/news/815780/reo-runabout-slate-auto/",
      "pubDate": "Tue, 17 Nov 2026 18:43:59 +0000",
-     "summary": "REO is like the gas-powered version of Slate but how does it compare on paper?",
+     "summary": "The REO is supposed to be a gas-powered alternative to Slate. But is it the real deal?",
      "source": "InsideEVs",
-     "zh": "How Does The REO Runabout Stack Up Against Slate?"
+     "zh": "REO Runabout vs. Slate Truck: Which Sub-$30,000 Truck Is Better?"
     },
     {
      "title": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging",
@@ -745,18 +753,10 @@
      "zh": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link"
     },
     {
-     "title": "GM just made it way easier for EV drivers to charge at Electrify America stations",
-     "link": "https://electrek.co/2026/11/17/gm-easier-ev-drivers-charge-electrify-america/",
-     "pubDate": "Tue, 17 Nov 2026 16:27:53 +0000",
-     "summary": "Chevrolet, Cadillac, and GMC EV drivers enrolled in GM’s Energy Pass can now simply plug in to an Electrify America station to start charging. No apps or credit cards needed. more…",
-     "source": "Electrek",
-     "zh": "GM just made it way easier for EV drivers to charge at Electrify America stations"
-    },
-    {
      "title": "Amflow Made A Commuter E-Bike. I Tested It, And It's Really, Really Good",
      "link": "https://insideevs.com/reviews/815779/amflow-ue-carbon-pro-review/",
      "pubDate": "Tue, 17 Nov 2026 16:16:11 +0000",
-     "summary": "Don't let the Amflow name fool you: This thing is made by the same giant that makes your drone. They know what they're doing.",
+     "summary": "Amflow already disrupted the e-MTB market. Now it's bringing the excellent Avinox powertrain to the commuter segment.",
      "source": "InsideEVs",
      "zh": "Amflow Made A Commuter E-Bike. I Tested It, And It's Really, Really Good"
     },
@@ -1121,6 +1121,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Beren wins FDA approval for long-studied rare disease drug",
+     "link": "https://endpoints.news/beren-wins-fda-approval-for-long-studied-rare-disease-drug/",
+     "pubDate": "Tue, 17 Nov 2026 20:25:23 +0000",
+     "summary": "A molecule designed by government scientists more than a decade ago has won FDA approval to treat infantile-onset Niemann-Pick disease type C, capping a winding and rocky development path. Beren Therapeutics, developer of Lembaz (adrabetadex) ...",
+     "source": "Endpoints News",
+     "zh": "Beren wins FDA approval for long-studied rare disease drug"
+    },
+    {
      "title": "GSK’s Nuvalent buyout delivers again as FDA clears Nelkarmi for lung cancer",
      "link": "https://endpoints.news/gsks-nuvalent-buyout-delivers-again-as-fda-clears-nelkarmi-for-lung-cancer/",
      "pubDate": "Tue, 17 Nov 2026 19:50:35 +0000",
@@ -1207,14 +1215,6 @@
      "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country’s basic public health standing.",
      "source": "STAT News",
      "zh": "U.S. loses measles elimination status, marking embarrassing stain on its public health record"
-    },
-    {
-     "title": "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s",
-     "link": "https://endpoints.news/ctad26-cognito-plans-fda-submission-of-light-and-sound-therapy-for-alzheimers/",
-     "pubDate": "Tue, 17 Nov 2026 16:01:42 +0000",
-     "summary": "BOSTON — A decade ago, neuroscientists at MIT published data that seemed too good, or perhaps just too wacky, to be true. Light flickered at just the right frequency induced brain waves that appeared to help ...",
-     "source": "Endpoints News",
-     "zh": "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s"
     },
     {
      "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
@@ -1569,6 +1569,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+     "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+     "pubDate": "Wed, 18 Nov 2026 01:04:20 +0530",
+     "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researche",
+     "source": "The Hacker News",
+     "zh": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses"
+    },
+    {
      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
      "pubDate": "Tue, 17 Nov 2026 14:24:07 -0500",
@@ -1721,14 +1729,6 @@
      "zh": "Microsoft testing Remote Lock for lost or stolen Windows devices"
     },
     {
-     "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-     "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-     "pubDate": "Tue, 17 Nov 2026 16:37:31 +0530",
-     "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its A",
-     "source": "The Hacker News",
-     "zh": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks"
-    },
-    {
      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
      "pubDate": "Mon, 16 Nov 2026 22:08:20 GMT",
@@ -1785,10 +1785,34 @@
    "total": 18,
    "items": [
     {
+     "title": "Israel vs. Wikipedia",
+     "link": "https://techforpalestine.org/wikipedia-report",
+     "pubDate": "Tue, 17 Nov 2026 20:10:03 +0000",
+     "summary": "Article URL: https://techforpalestine.org/wikipedia-report Comments URL: https://news.ycombinator.com/item?id=50537441 Points: 69 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Israel vs. Wikipedia"
+    },
+    {
+     "title": "California bans Waymo robotaxis from freeways after a viral video showed one failing to yield to the highway patrol; Waymo halts freeway service nationwide (Jeremy C. Owens/San Francisco ...)",
+     "link": "https://www.techmeme.com/261117/p50#a261117p50",
+     "pubDate": "Tue, 17 Nov 2026 15:10:01 -0500",
+     "summary": "Jeremy C. Owens / San Francisco Business Times : California bans Waymo robotaxis from freeways after a viral video showed one failing to yield to the highway patrol; Waymo halts freeway service nationwide &nbsp; &mdash;&nbsp; California banned Waymo's robotaxis from driving on state freeways indefin",
+     "source": "Techmeme",
+     "zh": "California bans Waymo robotaxis from freeways after a viral video showed one failing to yield to the highway patrol; Waymo halts freeway service nationwide (Jeremy C. Owens/San Francisco ...)"
+    },
+    {
+     "title": "Web Browser Engineering",
+     "link": "https://browser.engineering/",
+     "pubDate": "Tue, 17 Nov 2026 20:01:35 +0000",
+     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 15 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Web Browser Engineering"
+    },
+    {
      "title": "jQuery 4.1.0",
      "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
      "pubDate": "Tue, 17 Nov 2026 19:50:40 +0000",
-     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 50 # Comments: 20",
      "source": "Hacker News",
      "zh": "jQuery 4.1.0"
     },
@@ -1820,7 +1844,7 @@
      "title": "Waymo Pauses All Highway Rides After California Safety Ban",
      "link": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/",
      "pubDate": "Tue, 17 Nov 2026 19:38:08 +0000",
-     "summary": "The California DMV banned Waymo’s self-driving cars from driving on freeways after determining “an imminent hazard to public safety.”",
+     "summary": "California’s DMV banned Waymo’s self-driving cars from freeways after determining that they pose “an imminent hazard to public safety.”",
      "source": "WIRED",
      "zh": "Waymo Pauses All Highway Rides After California Safety Ban"
     },
@@ -1828,17 +1852,17 @@
      "title": "350 years ago, this man discovered that light has a finite speed",
      "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
      "pubDate": "Tue, 17 Nov 2026 19:25:27 +0000",
-     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 25 # Comments: 2",
+     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 65 # Comments: 6",
      "source": "Hacker News",
      "zh": "350 years ago, this man discovered that light has a finite speed"
     },
     {
-     "title": "Apple&apos;s System Status page shows an outage affecting iCloud sign-in for \"all users\", the App Store, and Apple Music; some users report failed iPhone activations (Sarah Perez/TechCrunch)",
+     "title": "Apple&apos;s System Status page shows an outage affecting the App Store, Apple Music, and iCloud sign-in; Apple says an internal update caused \"some outages\" (Sarah Perez/TechCrunch)",
      "link": "https://www.techmeme.com/261117/p48#a261117p48",
      "pubDate": "Tue, 17 Nov 2026 14:25:01 -0500",
-     "summary": "Sarah Perez / TechCrunch : Apple's System Status page shows an outage affecting iCloud sign-in for &ldquo;all users&rdquo;, the App Store, and Apple Music; some users report failed iPhone activations &nbsp; &mdash;&nbsp; After a recent slew of tech outages, service disruptions, and flight chaos this",
+     "summary": "Sarah Perez / TechCrunch : Apple's System Status page shows an outage affecting the App Store, Apple Music, and iCloud sign-in; Apple says an internal update caused &ldquo;some outages&rdquo; &nbsp; &mdash;&nbsp; After a recent slew of tech outages, service disruptions, and flight chaos this week, n",
      "source": "Techmeme",
-     "zh": "Apple&apos;s System Status page shows an outage affecting iCloud sign-in for \"all users\", the App Store, and Apple Music; some users report failed iPhone activations (Sarah Perez/TechCrunch)"
+     "zh": "Apple&apos;s System Status page shows an outage affecting the App Store, Apple Music, and iCloud sign-in; Apple says an internal update caused \"some outages\" (Sarah Perez/TechCrunch)"
     },
     {
      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
@@ -1860,7 +1884,7 @@
      "title": "Solid 2.0",
      "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
      "pubDate": "Tue, 17 Nov 2026 18:56:17 +0000",
-     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 57 # Comments: 13",
+     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 78 # Comments: 21",
      "source": "Hacker News",
      "zh": "Solid 2.0"
     },
@@ -1879,22 +1903,6 @@
      "summary": "Scott Stein / CNET : Xreal Aura review: portable, crisp display, and runs multiple Android apps on a virtual display, but Android XR lacks unique apps and VR controller support &nbsp; &mdash;&nbsp; The most fascinating and frustrating device I've used in a long time pushes at the edges of where head",
      "source": "Techmeme",
      "zh": "Xreal Aura review: portable, crisp display, and runs multiple Android apps on a virtual display, but Android XR lacks unique apps and VR controller support (Scott Stein/CNET)"
-    },
-    {
-     "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
-     "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-     "pubDate": "Tue, 17 Nov 2026 18:34:10 +0000",
-     "summary": "Article URL: https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/ Comments URL: https://news.ycombinator.com/item?id=50536031 Points: 21 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People"
-    },
-    {
-     "title": "Phrack 73 Released",
-     "link": "https://phrack.org/issues/73/introduction_md",
-     "pubDate": "Tue, 17 Nov 2026 18:31:25 +0000",
-     "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 65 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Phrack 73 Released"
     },
     {
      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
@@ -1927,14 +1935,6 @@
      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "Building the Agent Host Protocol for sessions that continue across devices"
-    },
-    {
-     "title": "GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol&apos;s $2/1M input and $10/1M output token pricing (Zac Hall/9to5Mac)",
-     "link": "https://www.techmeme.com/261117/p44#a261117p44",
-     "pubDate": "Tue, 17 Nov 2026 13:15:03 -0500",
-     "summary": "Zac Hall / 9to5Mac : GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol's $2/1M input and $10/1M output token pricing &nbsp; &mdash;&nbsp; OpenAI kicked off the GPT-6 generation with Astra in September, then upgraded Sol to GPT-6.1 a fe",
-     "source": "Techmeme",
-     "zh": "GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol&apos;s $2/1M input and $10/1M output token pricing (Zac Hall/9to5Mac)"
     },
     {
      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
@@ -2032,6 +2032,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iOS 27.3’s redesigned Apple Health app requires newer iPhone model",
+     "link": "https://9to5mac.com/2026/11/17/ios-27-3s-redesigned-apple-health-app-requires-newer-iphone-model/",
+     "pubDate": "Tue, 17 Nov 2026 20:19:51 +0000",
+     "summary": "iOS 27.3 will introduce an all-new Apple Health experience when it ships next month, but you’ll need an AI-compatible iPhone to get it. Here’s why. more…",
+     "source": "9to5Mac",
+     "zh": "iOS 27.3’s redesigned Apple Health app requires newer iPhone model"
+    },
     {
      "title": "Google Wallet expands to iOS, but don’t expect to use tap-to-pay",
      "link": "https://www.androidauthority.com/google-wallet-comes-to-ios-3736249/",
@@ -2249,14 +2257,6 @@
      "zh": "Here's everything new in iOS 27.3 beta 2 and macOS 27.3 beta 2"
     },
     {
-     "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
-     "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-     "pubDate": "Tue, 17 Nov 2026 17:33:58 +0000",
-     "summary": "Apple services are having a rough Tuesday. iCloud, the App Store, and other services are experiencing an apparent outage, with users reporting connection failures and trouble signing in. more…",
-     "source": "9to5Mac",
-     "zh": "iCloud, App Store, and other Apple services hit by ongoing outage"
-    },
-    {
      "title": "VSCO brings its film-inspired presets to the desktop with a new Raw editor",
      "link": "https://www.dpreview.com/news/vsco-brings-its-film-inspired-presets-to-the-desktop-with-a-new-raw-editor/",
      "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
@@ -2281,20 +2281,100 @@
    "total": 13,
    "items": [
     {
+     "title": "Wall Street&apos;s fear gauge is surging again and this time it&apos;s not just about AI jitters",
+     "link": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
+     "pubDate": "Tue, 17 Nov 2026 20:28:07 GMT",
+     "summary": "VIX up four days in a row as options traders show fear unseen since April",
+     "source": "CNBC",
+     "zh": "Wall Street&apos;s fear gauge is surging again and this time it&apos;s not just about AI jitters"
+    },
+    {
+     "title": "Queen's Road Capital Investment Ltd. GAAP EPS of C$4.18",
+     "link": "https://seekingalpha.com/news/4673875-queens-road-capital-investment-ltd-gaap-eps-of-c418?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 15:25:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Queen's Road Capital Investment Ltd. GAAP EPS of C$4.18"
+    },
+    {
+     "title": "Oaktree Specialty Lending signals a little over $0.05 per share per quarter NII lift per 25 bp base-rate increase as floating-rate resets build",
+     "link": "https://seekingalpha.com/news/4673874-oaktree-specialty-lending-signals-a-little-over-0_05-per-share-per-quarter-nii-lift-per-25-bp?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 15:24:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Oaktree Specialty Lending signals a little over $0.05 per share per quarter NII lift per 25 bp base-rate increase as floating-rate resets build"
+    },
+    {
+     "title": "Gold is in a bear market — and hackproof in an increasingly digital world. Is this a good time to buy?",
+     "link": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:24:00 GMT",
+     "summary": "After the world’s largest crypto hack and a spate of outages in the digital world, physical gold may be the ultimate “antidigital” asset.",
+     "source": "MarketWatch",
+     "zh": "Gold is in a bear market — and hackproof in an increasingly digital world. Is this a good time to buy?"
+    },
+    {
+     "title": "Nvidia a new short call at Muddy Waters",
+     "link": "https://seekingalpha.com/news/4673868-nvidia-a-new-short-call-at-muddy-waters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 15:22:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia a new short call at Muddy Waters"
+    },
+    {
+     "title": "Anthropic IPO前夕，OpenAI推出最强模型GPT-6.2 Astra，称性能超越Fable 5.2",
+     "link": "https://wallstreetcn.com/articles/3786124",
+     "pubDate": "Wed, 18 Nov 2026 04:19:40 +0800",
+     "summary": "OpenAI推出旗舰模型最新迭代版本，在性能提升的同时大幅降低使用成本，并在多项基准测试中超越竞争对手Anthropic的顶级模型。 此次发布的GPT-6.2 Astra定位于复杂专业工作场景，涵盖金融建模与科学研究等领域，同步推出的GPT-6.2 Sol则面向日常任务。 OpenAI表示， GPT-6.2 Astra在多步骤专业工作基准测试中的得分较竞品Claude Fable 5.2高出5.5分，而成本仅为后者的5%。此次发布恰逢Anthropic备受市场关注的上市前夕，时间节点颇为微妙。 新模型的推出同时面临外界对前沿AI系统安全风险的持续审视。OpenAI曾于9月底以模型\"未能充分限定",
+     "source": "华尔街见闻",
+     "zh": "Anthropic IPO前夕，OpenAI推出最强模型GPT-6.2 Astra，称性能超越Fable 5.2"
+    },
+    {
+     "title": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
+     "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:16:00 GMT",
+     "summary": "Alphabet and Apple have approached artificial intelligence in ways that have resonated on Wall Street.",
+     "source": "MarketWatch",
+     "zh": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025"
+    },
+    {
+     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:15:00 GMT",
+     "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+     "source": "MarketWatch",
+     "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
+    },
+    {
+     "title": "Fubo targets at least $300M adjusted EBITDA in fiscal 2028 as it stops reporting quarterly subscribers",
+     "link": "https://seekingalpha.com/news/4673871-fubo-targets-at-least-300m-adjusted-ebitda-in-fiscal-2028-as-it-stops-reporting-quarterly?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 15:14:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fubo targets at least $300M adjusted EBITDA in fiscal 2028 as it stops reporting quarterly subscribers"
+    },
+    {
+     "title": "Big bank stocks near 'death cross' bearish chart pattern after reports of outages",
+     "link": "https://seekingalpha.com/news/4673852-big-bank-stocks-near-death-cross-bearish-chart-pattern-after-reports-of-outages?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 15:13:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Big bank stocks near 'death cross' bearish chart pattern after reports of outages"
+    },
+    {
+     "title": "The S&P 500 is testing a key technical floor. Is it time to buy, or brace for a bear market?",
+     "link": "https://www.marketwatch.com/story/the-s-p-500-is-testing-a-key-technical-floor-is-it-time-to-buy-or-brace-for-a-bear-market-c432b192?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 20:13:00 GMT",
+     "summary": "The S&P 500 is joining other major U.S. equity indexes in trading below its 200-day moving average as the artificial-intelligence trade continues to struggle.",
+     "source": "MarketWatch",
+     "zh": "The S&P 500 is testing a key technical floor. Is it time to buy, or brace for a bear market?"
+    },
+    {
      "title": "Freshworks may have attracted takeover interest - Betaville (update)",
      "link": "https://seekingalpha.com/news/4673754-freshworks-may-have-attracted-takeover-interest---betaville?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 15:06:10 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Freshworks may have attracted takeover interest - Betaville (update)"
-    },
-    {
-     "title": "HPE slides as FAA says outage traced back to router malfunction",
-     "link": "https://seekingalpha.com/news/4673866-hpe-slides-as-faa-says-outage-traced-back-to-router-malfunction?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 15:03:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HPE slides as FAA says outage traced back to router malfunction"
     },
     {
      "title": "US tech stocks slide ahead of Nvidia results",
@@ -2305,44 +2385,12 @@
      "zh": "US tech stocks slide ahead of Nvidia results"
     },
     {
-     "title": "Idacorp cut at Jefferies as double-digit premium reflects strong fundamentals",
-     "link": "https://seekingalpha.com/news/4673856-idacorp-cut-at-jefferies-as-double-digit-premium-reflects-strong-fundamentals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 14:59:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Idacorp cut at Jefferies as double-digit premium reflects strong fundamentals"
-    },
-    {
-     "title": "Tencent on track to extend losses to eighth straight session",
-     "link": "https://seekingalpha.com/news/4673864-tencent-on-track-to-extend-losses-to-eighth-straight-session?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 14:57:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tencent on track to extend losses to eighth straight session"
-    },
-    {
-     "title": "Kalshi halts some Trump “mention markets” at CFTC's request - reports",
-     "link": "https://seekingalpha.com/news/4673860-kalshi-halts-some-trump-mention-markets-at-cftcs-request-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 14:56:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kalshi halts some Trump “mention markets” at CFTC's request - reports"
-    },
-    {
      "title": "德鲁肯米勒看空铜价、股票仓位归零，称当前市场能见度为记忆中最低",
      "link": "https://wallstreetcn.com/articles/3786129",
      "pubDate": "Wed, 18 Nov 2026 03:55:36 +0800",
      "summary": "亿万富翁投资者Stan Druckenmiller表示，面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。 11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示， 他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。 目前他持有少量美元多头仓位，股票则既无多头也无空头，同时做空铜 。他说： 我们基本上在回避市场，目标是不亏钱，而不是赚钱。 这一表态标志着其立场较今年1月发生显著转变，彼时他对经济前景持明显乐观态度。Druckenmiller以高确信度时果断重仓著称，当前的按兵不动本身即释放出鲜明信号，",
      "source": "华尔街见闻",
      "zh": "德鲁肯米勒看空铜价、股票仓位归零，称当前市场能见度为记忆中最低"
-    },
-    {
-     "title": "Trifast signals revised H2 guidance as it targets double-digit EBIT margins over the medium term",
-     "link": "https://seekingalpha.com/news/4673867-trifast-signals-revised-h2-guidance-as-it-targets-double-digit-ebit-margins-over-the-medium?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 14:55:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trifast signals revised H2 guidance as it targets double-digit EBIT margins over the medium term"
     },
     {
      "title": "英伟达“隐身”的重要市场：新加坡子公司被曝去年营收超千亿美元、一年增72%",
@@ -2385,86 +2433,6 @@
      "zh": "The latest tech failure: U.S. classified national security communications network"
     },
     {
-     "title": "Want to know what bitcoin is really worth? Check this chart.",
-     "link": "https://www.marketwatch.com/story/want-to-know-what-bitcoin-is-really-worth-check-this-chart-daa3fce7?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 19:34:00 GMT",
-     "summary": "A model for calculating bitcoin’s value has worked well to inform investors when the cryptocurrency is overbought or oversold. Now, the price is just right.",
-     "source": "MarketWatch",
-     "zh": "Want to know what bitcoin is really worth? Check this chart."
-    },
-    {
-     "title": "WTI原油期货结算价为每桶86.01美元",
-     "link": "http://finance.eastmoney.com/news/1356,202611183933309618.html",
-     "pubDate": "Wed, 18 Nov 2026 03:31:29 +0800",
-     "summary": "WTI原油 期货 结算价为每桶86.01美元，涨幅0.34%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "WTI原油期货结算价为每桶86.01美元"
-    },
-    {
-     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 19:30:00 GMT",
-     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-     "source": "MarketWatch",
-     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "SpaceX表示 计划于11月21日从范登堡太空军基地4E航天发射场用猎鹰9号执行NROL-136任务",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933309411.html",
-     "pubDate": "Wed, 18 Nov 2026 03:25:45 +0800",
-     "summary": "SpaceX 表示，计划于11月21日从范登堡太空军基地4E航天发射场用猎鹰9号执行NROL-136任务。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "SpaceX表示 计划于11月21日从范登堡太空军基地4E航天发射场用猎鹰9号执行NROL-136任务"
-    },
-    {
-     "title": "苹果表示 iCloud账户及登录问题已解决",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933309373.html",
-     "pubDate": "Wed, 18 Nov 2026 03:23:55 +0800",
-     "summary": "苹果 表示，iCloud账户及登录问题已解决。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "苹果表示 iCloud账户及登录问题已解决"
-    },
-    {
-     "title": "These charts show investor fears run even deeper than the stock market’s decline suggests",
-     "link": "https://www.marketwatch.com/story/these-charts-show-investor-fears-run-even-deeper-than-the-stock-markets-decline-suggests-924e2647?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 19:22:00 GMT",
-     "summary": "The yen’s recent strengthening, particularly against the Australian dollar, suggests investors are unwinding risky bets.",
-     "source": "MarketWatch",
-     "zh": "These charts show investor fears run even deeper than the stock market’s decline suggests"
-    },
-    {
-     "title": "深化亚太区域协作 织密企业全球化网络",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933308914.html",
-     "pubDate": "Wed, 18 Nov 2026 03:21:19 +0800",
-     "summary": "普华永道康慕德： 不同经济体各有优势机遇在于打通整合 证券时报记者刘珺宇 11月17日，2026年APEC工商领导人峰会在深圳举办。普华永道全球主席康慕德参与了“共建开放普惠的 人工智能 创新生态”的专题研讨。在接受记者采访时，康慕德表示，亚太地区拥有巨大的经济潜力，希望各方聚焦贸易投资、新技术落地、人才培养等议题，就区域互联互通展开务实交流。 他表示，当下正迈入 人工智能 为企业开辟全新运营模式的时代。在此背景下，企业关注的焦点已不再局限于生产力提升，而是更多地转向依托 人工智能 开发新产品、打造新服务、开拓新市场。实现这一价值的关键不仅在于拥有技术本身，更在于将其转化为现实生产力，这背后离",
-     "source": "东方财富股票",
-     "zh": "深化亚太区域协作 织密企业全球化网络"
-    },
-    {
-     "title": "压缩空气储能有新催化 超20家上市公司布局相关业务",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933308855.html",
-     "pubDate": "Wed, 18 Nov 2026 03:21:07 +0800",
-     "summary": "证券时报记者梁谦刚 随着电价市场化改革深化和容量电价机制落地，压缩空气储能有望在“十五五”时期从示范验证走向商业规模化，成为新型 电力 系统的重要支撑。据证券时报·数据宝统计，A股超20家上市公司布局压缩空气储能业务，9只相关概念股市盈率低于30倍，11只概念股获得5次以上机构调研。 “源储一号”并网发电 据悉，11月16日，世界首台（套）“源储一号”300兆瓦人工硐室型压缩空气储能电站示范工程在甘肃酒泉玉门市首次并网。 据了解，“源储一号”由 中国能建 数科集团 研发投资建设运营，是国家新型储能试点示范工程、国家能源局第四批能源领域首台（套）重大技术装备。项目建设1台300兆瓦/1800兆瓦",
-     "source": "东方财富股票",
-     "zh": "压缩空气储能有新催化 超20家上市公司布局相关业务"
-    },
-    {
-     "title": "据报道 伊朗方面正“认真寻求”通过外交途径结束僵局",
-     "link": "http://finance.eastmoney.com/news/11790,202611183933309283.html",
-     "pubDate": "Wed, 18 Nov 2026 03:21:06 +0800",
-     "summary": "据报道，伊朗方面正“认真寻求”通过外交途径结束僵局。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "据报道 伊朗方面正“认真寻求”通过外交途径结束僵局"
-    },
-    {
-     "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
-     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 19:00:00 GMT",
-     "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
-     "source": "MarketWatch",
-     "zh": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?"
-    },
-    {
      "title": "黄仁勋离任后首次发声！愿意重返英伟达担任CEO；将于12月1日出席美国国会听证",
      "link": "https://wallstreetcn.com/articles/3786122",
      "pubDate": "Wed, 18 Nov 2026 02:58:42 +0800",
@@ -2479,14 +2447,6 @@
      "summary": "黄仁勋的一则声明，成为本周二美股盘中最受关注的消息之一。 美东时间11月17日周二美股早盘尾声时，英伟达创始人、前CEO黄仁勋在离职后首次公开发声，表示如果董事会认为他回归符合公司、股东和员工的最佳利益，他愿意重新出任CEO。黄仁勋的表态恰好出现在美股早盘抛售压力加剧之际，表态传出后，英伟达和主要美股指几乎同步快速拉升、收窄盘中跌幅。 黄仁勋表态前，三大美股指均在美股早盘刷新日低，标普500指数日内跌逾1.7%，道指跌近1.8%，纳指跌逾2.1%。美股早盘尾声时，黄仁勋愿重新担任CEO的消息传出后，道指跌幅曾收窄至约1.3%，标普和纳指更是出现一波深V走势、大幅收窄跌幅，标普的日内跌幅一度缩小",
      "source": "华尔街见闻",
      "zh": "黄仁勋辞职后首次发声“救市”？标普纳指盘中深V收窄跌幅，报道后称英伟达董事会仍未考虑他复职"
-    },
-    {
-     "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
-     "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
-     "pubDate": "Tue, 17 Nov 2026 18:21:03 GMT",
-     "summary": "He said he had seen support from investors and employees and was willing to come back as CEO.",
-     "source": "CNBC",
-     "zh": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation"
     },
     {
      "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
@@ -2519,6 +2479,46 @@
      "summary": "First public remarks since revelations over extramarital affairs forced co-founder to resign",
      "source": "Financial Times",
      "zh": "Jensen Huang says he is prepared to return as Nvidia CEO"
+    },
+    {
+     "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
+     "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
+     "pubDate": "Tue, 17 Nov 2026 15:36:43 GMT",
+     "summary": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
+     "source": "CNBC",
+     "zh": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices"
+    },
+    {
+     "title": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
+     "link": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 15:33:25 GMT",
+     "summary": "Daughter and son-in-law come under scrutiny as board launches probe over company’s links to Megaspeed",
+     "source": "Financial Times",
+     "zh": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings"
+    },
+    {
+     "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+     "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+     "pubDate": "Tue, 17 Nov 2026 14:34:48 GMT",
+     "summary": "Anthropic is slated to list on the Nasdaq under the ticker symbol \"ANT\" and start trading on Nov. 19.",
+     "source": "CNBC",
+     "zh": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC"
+    },
+    {
+     "title": "AI grapples with the return of the ‘Antichrist’",
+     "link": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 12:20:22 GMT",
+     "summary": "Tech titans doubled down on Trump and now find themselves in the crosshairs of voters who reject progress at any cost",
+     "source": "Financial Times",
+     "zh": "AI grapples with the return of the ‘Antichrist’"
+    },
+    {
+     "title": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
+     "link": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 05:00:25 GMT",
+     "summary": "President’s allies trade blame over losing grip on new media landscape after crushing midterm defeat",
+     "source": "Financial Times",
+     "zh": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump"
     }
    ]
   },

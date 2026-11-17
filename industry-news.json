@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 08:32:07",
+ "generated_at": "2026/11/17 09:00:15",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
+     "link": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
+     "pubDate": "Tue, 17 Nov 2026 00:56:29 +0000",
+     "summary": "Researchers at Singapore University of Technology and Design (SUTD), A*STAR, and National University of Singapore (NUS) published “Self-Supervised Attention-Based Virtual Metrology for CMP MRR Prediction.” Excerpt “In this paper, we propose Global Regression Pretraining (GREP), a self-supervised, at",
+     "source": "Semiconductor Engineering",
+     "zh": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)"
+    },
+    {
+     "title": "US moves to shut remote-access route to AI chips for Chinese firms after Nvidia scandal",
+     "link": "https://www.digitimes.com/news/a20261117VL201/chips-nvidia-data-asia.html",
+     "pubDate": "Tue, 17 Nov 2026 00:26:38 GMT",
+     "summary": "Washington has extended its export controls on advanced AI chips from physical shipments to the data centers that rent out their computing power, a shift that puts operators in Southeast Asia and Brazil under licensing scrutiny and narrows a route Chinese AI developers have relied on to train models",
+     "source": "DIGITIMES",
+     "zh": "US moves to shut remote-access route to AI chips for Chinese firms after Nvidia scandal"
+    },
+    {
      "title": "Amazon reportedly planning to amass the world's largest product database",
      "link": "https://www.digitimes.com/news/a20261116VL218/amazon-data-online-meta-e-commerce.html",
      "pubDate": "Mon, 16 Nov 2026 23:54:09 GMT",
@@ -303,14 +319,6 @@
      "summary": "Rapid growth in artificial intelligence, data center construction, and advanced semiconductor manufacturing is driving a sharp increase in electricity demand, while decarbonization requirements are pushing technology companies to secure more renewable power. Taiwan's semiconductor industry is expect",
      "source": "DIGITIMES",
      "zh": "AI-driven power demand accelerates renewable energy procurement for technology companies"
-    },
-    {
-     "title": "UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners",
-     "link": "https://www.digitimes.com/news/a20261116PD227/uk-manufacturing-taiwan-osat-design.html",
-     "pubDate": "Mon, 16 Nov 2026 23:51:20 GMT",
-     "summary": "While the UK boasts world-leading chip design, intellectual property (IP), and R&D capabilities, scaling that innovation into domestic commercial production has become a critical hurdle amid the rapid AI boom.",
-     "source": "DIGITIMES",
-     "zh": "UK sovereign AI push needs Taiwan's chip manufacturing and OSAT partners"
     },
     {
      "title": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m",
@@ -487,14 +495,6 @@
      "summary": "Agents are emerging as reusable design tools, but trust and use models remain challenging. The post Are AI Agents The New Semiconductor IP? appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Are AI Agents The New Semiconductor IP?"
-    },
-    {
-     "title": "The Sound of Smarter Farming",
-     "link": "https://www.eetimes.com/the-sound-of-smarter-farming/",
-     "pubDate": "Mon, 16 Nov 2026 06:59:20 +0000",
-     "summary": "From birdsong and pollinator wingbeats to the vibrations of insects feeding inside plants, acoustic sensors and AI are helping farmers monitor biodiversity, improve pollination, and detect threats to crops. The post The Sound of Smarter Farming appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "The Sound of Smarter Farming"
     }
    ]
   },
@@ -665,6 +665,14 @@
    "total": 5,
    "items": [
     {
+     "title": "REO returns to challenge Slate and Fathom in a cheap truck showdown",
+     "link": "https://electrek.co/2026/11/16/reo-returns-to-challenge-slate-and-fathom-in-a-cheap-truck-showdown/",
+     "pubDate": "Tue, 17 Nov 2026 00:51:43 +0000",
+     "summary": "On today’s surprisingly affordable edition of Quick Charge , we check out all the new cheap tricks trucks coming for your hard-earned money in 2027, and challenge the seemingly popular idea that low tech automatically begets low costs. more…",
+     "source": "Electrek",
+     "zh": "REO returns to challenge Slate and Fathom in a cheap truck showdown"
+    },
+    {
      "title": "Adding wind cuts solar + battery storage power costs nearly 20%",
      "link": "https://electrek.co/2026/11/16/adding-wind-cuts-solar-battery-storage-power-costs-nearly-20-percent/",
      "pubDate": "Mon, 16 Nov 2026 21:42:57 +0000",
@@ -727,14 +735,6 @@
      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
      "source": "TechCrunch Transport",
      "zh": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach"
-    },
-    {
-     "title": "Anker SOLIX S5000 power station $2,380 exclusive savings, Navee ST3 Pro e-scooter $552 low, Lectric e-bike accessory sale, more",
-     "link": "https://electrek.co/2026/11/16/anker-solix-s5000-power-station-navee-st3-pro-e-scooter-lectric-e-bike-accessory-sale-more/",
-     "pubDate": "Mon, 16 Nov 2026 19:00:00 +0000",
-     "summary": "The seasonal savings won’t be slowing down anytime soon, with this week’s Green Deals kicking off led by the exclusive deals for Anker’s SOLIX S5000 Power Station and bundles starting from $2,470 . There’s also Navee’s Early Access Black Friday EV Sale, with offers like the ST3 Pro City Commuter Ele",
-     "source": "Electrek",
-     "zh": "Anker SOLIX S5000 power station $2,380 exclusive savings, Navee ST3 Pro e-scooter $552 low, Lectric e-bike accessory sale, more"
     },
     {
      "title": "Tesla Keeps Killing Cars. Now It Wants To Build Cybercabs In Germany",
@@ -1753,6 +1753,62 @@
    "total": 18,
    "items": [
     {
+     "title": "Edge AI Daily 早报（11月17日）",
+     "link": "https://www.tmtpost.com/8207785.html",
+     "pubDate": "Tue, 17 Nov 2026 08:55:53 +0800",
+     "summary": "英伟达领导层变动、Anthropic拟上市与财报窗口，使AI交易从增长叙事转向现金流、资本效率和治理连续性验证；美国将先进芯片出口管制延伸至远程算力与最终用户审查。OpenAI在儿童安全、媒体分发与健康研究上推进基础设施化，同时因自主智能体安全遭加州起诉。Claude Fable 5.2展现过程智能，谷歌Gemini4Carbon接入腾讯WorkBuddy，国产算力与开放模型战略迎来重估窗口。",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（11月17日）"
+    },
+    {
+     "title": "为什么AI反而让我们越来越忙？关于AI的3个悖论",
+     "link": "https://www.huxiu.com/article/4906114.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 08:44:58 +0800",
+     "summary": "本文来自微信公众号： 卫夕指北 ，作者：卫夕 先说个我自己的直观感受： AI写文章越来越牛逼，三分钟就能吐出一篇像模像样的稿子。 但要写出一篇走心的、大家愿意读的文章，一点也没有变得更容易。 我很多大厂的前同事也天天在用AI，但很明显，老板的要求越来越高，很多产品经理都要求拿着能运行的demo去过评审会。 最终，AI并没有给我们省时间，反而让我们越来越忙。 今天卫夕就着这个话题，聊三个悖论——考恩悖论、索洛悖论和杰文斯悖论。 分别讲一讲： 为什么给我们省提高效率的工具反而让我们越来越忙？ 为什么AI在生产力上的产出并没有预期的那么高？ 以及为什么模型价格降了很多倍，但我们在AI上的花费并木有降",
+     "source": "虎嗅",
+     "zh": "为什么AI反而让我们越来越忙？关于AI的3个悖论"
+    },
+    {
+     "title": "冷冻食品大厂抢着给超市做面包",
+     "link": "https://www.huxiu.com/article/4906112.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 08:42:38 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：马越 曾经以速冻虾滑鱼丸为主的公司，正在加速投身面包赛道，给商场超市“打工”——界面新闻在安井食品今年三季报中看到，烘焙食品实现营收1.46亿元，同比增长355.32%，成为增速最快的业务。这背后有并表因素：控股子公司江苏鼎味泰食品于2025年7月纳入合并报表范围，为安井带来了新的烘焙业务。 这家冷冻食品大厂还在继续加码。今年10月，安井宣布拟收购新加坡冷冻烘焙企业IFC的大部分股权，将冷冻蛋糕、甜点等产品进一步纳入业务版图。 在近期的投资者调研问答中，安井还称，冷冻烘焙是公司重点打造的新增长极，当前板块工作重心聚焦“安井烘焙工坊”副品牌建设，借鉴锁鲜装",
+     "source": "虎嗅",
+     "zh": "冷冻食品大厂抢着给超市做面包"
+    },
+    {
+     "title": "包特、马萌中：懂金融，为什么还是会被骗",
+     "link": "https://www.huxiu.com/article/4906109.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 08:39:33 +0800",
+     "summary": "本文来自微信公众号： 复旦金融评论 ，作者：包特 马萌中 ■作者：包特新加坡南洋理工大学经济系长聘副教授、研究生院助理院长；马萌中新加坡南洋理工大学交叉学科研究生院计算技术与金融中心博士生 ■‍公众号：复旦金融评论 编者按： 2026年9月，新加坡警方披露一起股票操纵骗局：五名有经验的投资者受“专家”荐股买入一家香港上市公司的股票，一周内暴跌近75%，损失逾460万港元。骗局的剧本专为懂行的人而写——先让他们真实获利、尝到甜头，再一举收割。当盈利本身成为养成信任的饵料，金融知识的边界与制度的缺口同时暴露。 包特 新加坡南洋理工大学经济系 长聘副教授、研究生院助理院长 马萌中 新加坡南洋理工大学",
+     "source": "虎嗅",
+     "zh": "包特、马萌中：懂金融，为什么还是会被骗"
+    },
+    {
+     "title": "含 1/48 概率稀有夜光版：Camp Snap 最小复古数码摄像机 CS-8 Micro 即将盲盒开售",
+     "link": "https://www.ithome.com/1/028/045.htm",
+     "pubDate": "Tue, 17 Nov 2026 00:34:57 GMT",
+     "summary": "IT之家 11 月 17 日消息，科技媒体 digitaltrends 昨日（11 月 16 日）发布博文， 报道称 Camp Snap 宣布将于美国当地时间 11 月 17 日上午 11 点（北京时间 18 日凌晨 0 点）推出迷你复古数码摄像机 CS-8 Micro ，售价为 39.99 美元 （IT之家注：现汇率约合 267.1 元人民币） ，这也是其最小的复古数码摄像机。 这款新品将传统手持摄像机缩小至钥匙扣尺寸，机身长约 7.6 厘米、重约 42.5 克，可挂在钥匙链或背包上。外观延续复古风格，但内部采用数字成像，并不使用胶片。 拍摄方面，CS-8 Micro 支持 720p 视频和",
+     "source": "IT之家",
+     "zh": "含 1/48 概率稀有夜光版：Camp Snap 最小复古数码摄像机 CS-8 Micro 即将盲盒开售"
+    },
+    {
+     "title": "美国出台三项新规：全面封堵中企获取先进AI算力路径",
+     "link": "https://www.huxiu.com/article/4906108.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 08:33:06 +0800",
+     "summary": "本文来自微信公众号： 芯智讯 ，编辑：芯智讯-浪客剑，作者：芯智讯浪客剑，原文标题：《美国出台三项新规：全面封堵中企获取先进AI算力路径！》 当地时间11月16日，美国商务部工业与安全局（BIS）发布了一项由财政部与国家安全委员会撰写并按其指示制定的临时最终规则（IFR），全面封堵中企获取先进AI算力的各种路径。 该规则核心要求：海外数据中心若向总部位于中国等受限制国家的企业提供超过门槛的先进AI算力，相关芯片的出口、再出口或境内转移须事先申请许可证。规则还将马来西亚、新加坡、印度尼西亚、泰国和巴西五国纳入先进半导体出口许可要求范围。同时，还进一步收紧了晶圆代工和先进封装服务无需申请许可的推定",
+     "source": "虎嗅",
+     "zh": "美国出台三项新规：全面封堵中企获取先进AI算力路径"
+    },
+    {
+     "title": "不法分子借微软 365 宕机实施大规模钓鱼攻击，伪造邮件通知窃取用户账号",
+     "link": "https://www.ithome.com/1/028/043.htm",
+     "pubDate": "Tue, 17 Nov 2026 00:27:48 GMT",
+     "summary": "IT之家 11 月 17 日消息，微软威胁情报团队发现，一场针对多个组织的大规模钓鱼攻击活动正在利用近期 Microsoft 365 服务中断事件实施攻击。 攻击者通过向用户发送伪装成微软 365 服务健康通知的邮件，诱导收件人点击链接，从而窃取账户登录凭证。 微软威胁情报团队于当地时间 11 月 13 日监测到这场钓鱼活动。钓鱼邮件冒充 Microsoft 365 服务健康通知，并引用真实发生的 Exchange Online 服务故障事件编号 EX1550543，以增强邮件的可信度。 据介绍，这些邮件通常使用以“Outage -”开头、后接六位字符代码的主题，发件人显示名称则包含针对不同组",
+     "source": "IT之家",
+     "zh": "不法分子借微软 365 宕机实施大规模钓鱼攻击，伪造邮件通知窃取用户账号"
+    },
+    {
      "title": "每个人的大脑，或许都在出生前后经历过一次“质检”",
      "link": "https://www.huxiu.com/article/4906107.html?f=rss",
      "pubDate": "Tue, 17 Nov 2026 08:27:33 +0800",
@@ -1769,6 +1825,30 @@
      "zh": "40公里：深圳把一条芯片产业链装进了一小时车程"
     },
     {
+     "title": "苹果为 Apple TV 引入“短视频”竖屏格式和视频播客功能：无需订阅即可观看播客，覆盖 iPhone、iPad、Mac 等设备",
+     "link": "https://www.ithome.com/1/028/042.htm",
+     "pubDate": "Tue, 17 Nov 2026 00:20:38 GMT",
+     "summary": "IT之家 11 月 17 日消息，据 9to5mac 今日报道，苹果在最新的 iOS 27.3 Beta 2 中为 Apple TV 应用新增了两种新特性：“短视频”竖屏格式和视频播客功能。 正如字面意思，竖屏格式的加入可以让用户通过类似 TikTok 等短视频平台的界面来体验 Apple TV 内容预览，而 Netflix 和 Disney+ 等流媒体平台此前已经加入类似功能。 苹果计划在 iOS 27.3、iPadOS 27.3 及其他系统更新中，将视频播客内容引入 Apple TV 应用，用户届时无需订阅 Apple TV+ 也可以通过苹果多个设备及第三方电视平台发现和观看视频播客。 苹",
+     "source": "IT之家",
+     "zh": "苹果为 Apple TV 引入“短视频”竖屏格式和视频播客功能：无需订阅即可观看播客，覆盖 iPhone、iPad、Mac 等设备"
+    },
+    {
+     "title": "卖股票必须提前 30 天写书面计划：Anthropic 上市前把“高管紧箍咒”套在了每个普通员工头上",
+     "link": "https://www.ithome.com/1/028/040.htm",
+     "pubDate": "Tue, 17 Nov 2026 00:20:19 GMT",
+     "summary": "IT之家 11 月 17 日消息，科技媒体 Business Insider 今天（11 月 17 日）发布博文，报道称 人工智能公司 Anthropic 为了降低内幕交易风险，计划在首次公开募股（IPO）后，要求出售公司股票的员工使用预设交易计划。 对于 Anthropic 公司员工而言，未来他们如果想要出售持股，大多需要提前做好安排，而不能看到股价上涨或突发消息后立即决定卖出。 这套机制名为“10b5-1 交易计划”，通常情况下用于企业高管。员工须通过书面协议，预先确定股票出售数量、价格条件和出售日期（至少 30 天后）。报道指出相比美国不少科技公司主要通过特定时段禁止员工交易，Anthr",
+     "source": "IT之家",
+     "zh": "卖股票必须提前 30 天写书面计划：Anthropic 上市前把“高管紧箍咒”套在了每个普通员工头上"
+    },
+    {
+     "title": "苹果 iPadOS / macOS 27.3 DP Beta 2 系统更新后，国行 iPad 和 Mac 新增 Apple 智能",
+     "link": "https://www.ithome.com/1/028/039.htm",
+     "pubDate": "Tue, 17 Nov 2026 00:17:42 GMT",
+     "summary": "IT之家 11 月 17 日消息，苹果今日向 iPad 和 Mac 用户推送 iPadOS 27.3 DP Beta 2（24C5049d）和 macOS 27.3 DP Beta 2（26C5047e）操作系统， 为国行 iPad 和 Mac 设备新增“Apple 智能”（Apple Intelligence）功能 。 综合 Macrumors 报道及IT之家小伙伴实测， 搭载 M 系列苹果芯片的 Mac 和 iPad 均可使用 Apple 智能 ，使用 A17 Pro 和 A20 Pro 芯片的 iPad mini 也在支持范围内。 国行机型的 Apple 智能不包含 Siri AI，也不",
+     "source": "IT之家",
+     "zh": "苹果 iPadOS / macOS 27.3 DP Beta 2 系统更新后，国行 iPad 和 Mac 新增 Apple 智能"
+    },
+    {
      "title": "Sources: the US DOJ will review DoorDash&apos;s ~$17B acquisition of Instacart; DoorDash has agreed to pay a $1.25B breakup fee if the deal fails antitrust review (Jody Godoy/Reuters)",
      "link": "https://www.techmeme.com/261116/p48#a261116p48",
      "pubDate": "Mon, 16 Nov 2026 19:16:11 -0500",
@@ -1777,28 +1857,12 @@
      "zh": "Sources: the US DOJ will review DoorDash&apos;s ~$17B acquisition of Instacart; DoorDash has agreed to pay a $1.25B breakup fee if the deal fails antitrust review (Jody Godoy/Reuters)"
     },
     {
-     "title": "李彦宏的办公Agent，月活已经超过阿里和字节，但我还是不看好",
-     "link": "https://www.huxiu.com/article/4906105.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 08:15:47 +0800",
-     "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《李彦宏的办公 Agent，月活已经超过阿里和字节，但我还是不看好》 就在上周，百度世界2026大会上，百度宣布升级百度搭子、库库等四大智能体。 其中，百度搭子是最重要的入口。 它不但能处理办公任务，还能够连接百度全系专业智能体，包括库库、伐谋等。 另外，它还开放了自研Harness引擎和开发平台，企业可以在平台上定制自己的智能体，并嵌入OA、ERP、CRM等现有流程。 看起来，这是一个全能的Agent。 但这种“什么都能”的定位，恰恰反映了它最尴尬的一点：不上不下，夹缝求生。 坦白说，不管在哪个方向，百度搭子都面临非常激烈的竞争。",
-     "source": "虎嗅",
-     "zh": "李彦宏的办公Agent，月活已经超过阿里和字节，但我还是不看好"
-    },
-    {
-     "title": "陈克明开面馆，“面痴”这次来真的？",
-     "link": "https://www.huxiu.com/article/4906104.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 08:09:23 +0800",
-     "summary": "本文来自微信公众号： 斑马消费 ，作者：范建 无数中国人都吃过陈克明品牌的挂面，现在终于有机会体验“面痴”家现做手工面的味道了。 11月14日，长沙洋湖天街，陈克明面馆第三家店正式开门迎客。此前，两家店已在长沙屿和碧湘楚巷老街区相继开业。 这已不是“挂面大王”首次尝试开面馆。早在2012年，就与第三方合资试水面馆业态，不过很快就因亏损而草草收场。 如今，重启面馆业态，经过一年摸索，仍处于模式探索和测试期，短期内不会规模化复制，也不开放加盟。 时隔十多年，陈克明重新端起面碗，这次是认真的吗？ 重启面馆生意 虽然已年过七旬，从上市公司克明食品（002661.SZ）卸任多年，但陈克明仍没有打算真正退",
-     "source": "虎嗅",
-     "zh": "陈克明开面馆，“面痴”这次来真的？"
-    },
-    {
-     "title": "猪价寒冬，资本抄底",
-     "link": "https://www.huxiu.com/article/4906102.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 08:05:02 +0800",
-     "summary": "本文来自微信公众号： 斑马消费 ，作者：沈庹 当前猪价跌至多年来罕见低位，市场出现一个有意思的现象：菜市场里的部分猪肉售价略高于鸡蛋，低于青椒。 对于普通消费者而言是实现了“猪肉自由”，但这份餐桌上的实惠，对生猪养殖来说，却是漫长难熬的行业寒冬。 2026年前三季度，A股24家上市猪企归母净利润合计亏损超280亿元。当前猪价尚未看到明确回暖信号，行业亏损压力持续，预计全年亏损规模还将进一步扩大。 行业至暗时刻，恰是资本布局的时间窗口。产业资本、财务资本相继入场，通过参与破产重整、股权收购、资产并购等方式布局产业链，一轮生猪行业的收并购浪潮正在悄然上演。 猪价磨底，并购潮起 11月16日，全国外",
-     "source": "虎嗅",
-     "zh": "猪价寒冬，资本抄底"
+     "title": "IT早报 1117：特朗普支持苹果库克执掌英伟达但不介意黄仁勋回归；阿里千问 4Max 上线；华为 Mate X8 折叠屏 11 月 24 日发布；OPPO Reno17 手机发布...",
+     "link": "https://www.ithome.com/1/028/038.htm",
+     "pubDate": "Tue, 17 Nov 2026 00:14:08 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 17 日星期二，今天的重要科技资讯有： 1. 特朗普：支持苹果库克执掌英伟达，但不介意黄仁勋回归 当地时间 11 月 16 日在美国白宫接受 NBC News 等记者采访时，美国总统特朗普表示不介意黄仁勋重新担任英伟达首席执行官，并称有不少人希望这位公司联合创始人回归。>> 查看详情 2. 2.4 万亿参数阿里通义千问 Qwen4-Max 正式上线：任务成本降低超 60%，后续将开源小尺寸模型 阿里通义千问推出新一代旗舰模型 Qwen4-Max，采用全新 MoE 架构，原生支持视觉理解，提供 100 万 Token 上下文窗口，任务成本",
+     "source": "IT之家",
+     "zh": "IT早报 1117：特朗普支持苹果库克执掌英伟达但不介意黄仁勋回归；阿里千问 4Max 上线；华为 Mate X8 折叠屏 11 月 24 日发布；OPPO Reno17 手机发布..."
     },
     {
      "title": "Sources: Kalshi bought FB Securities, a small New York-based broker, in July and plans to launch equity trading within the next two months (Vicky Ge Huang/Wall Street Journal)",
@@ -1809,58 +1873,10 @@
      "zh": "Sources: Kalshi bought FB Securities, a small New York-based broker, in July and plans to launch equity trading within the next two months (Vicky Ge Huang/Wall Street Journal)"
     },
     {
-     "title": "苹果反对加拿大 C-22 法案，称相关规定可能引入加密后门、削弱用户数据安全",
-     "link": "https://www.ithome.com/1/028/036.htm",
-     "pubDate": "Tue, 17 Nov 2026 00:00:17 GMT",
-     "summary": "IT之家 11 月 17 日消息，据 MacRumors 今日报道，苹果公司正敦促加拿大政府修改一项涉及执法机构获取用户数字信息的法案，称相关规定可能削弱苹果产品现有的隐私和安全保护机制。 这项法案旨在帮助加拿大警方和情报机构在调查过程中获取数字信息。目前，苹果、谷歌和 Meta 均在游说加拿大议员，希望调整正在审议的 C-22 法案。 根据彭博社报道，这项法案可能要求科技公司修改自身服务，为政府访问用户数据提供专门工具，相关要求需要获得加拿大情报专员批准。 法案还可能要求部分服务提供商保存用户连接记录，最长达 6 个月。这类记录属于元数据，不包括消息内容、浏览历史以及社交媒体活动记录。 加拿",
-     "source": "IT之家",
-     "zh": "苹果反对加拿大 C-22 法案，称相关规定可能引入加密后门、削弱用户数据安全"
-    },
-    {
-     "title": "不买孩子焦虑，买了全家焦虑，谁教你们这么做儿童手表的？",
-     "link": "https://www.huxiu.com/article/4904070.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 08:00:00 +0800",
-     "summary": "原本用来保安全的儿童手表，竟然把孩子们变成了&ldquo;小社交大人&rdquo;。点赞、等级、虚拟形象，谁的数字大谁就是大佬，谁点赞少谁就被踢出好友圈&mdash;&mdash;攀比、删好友、买账号、刷数据，孩子们的小手腕竟变成了社交竞技场。",
-     "source": "虎嗅",
-     "zh": "不买孩子焦虑，买了全家焦虑，谁教你们这么做儿童手表的？"
-    },
-    {
-     "title": "“流星雨之王”狮子座流星雨今晚至明日迎来极大期，专家建议后半夜肉眼观测",
-     "link": "https://www.ithome.com/1/028/035.htm",
-     "pubDate": "Mon, 16 Nov 2026 23:57:19 GMT",
-     "summary": "IT之家 11 月 17 日消息，据新华社及央视报道，有着“流星雨之王”美誉的狮子座流星雨将于 11 月 18 日凌晨迎来极大期，最佳观测窗口为 18 日凌晨至天亮前。狮子座流星雨以速度快、亮度高为特色，偶尔会出现耀眼的火流星。 狮子座流星雨的母体是坦普尔-塔特尔彗星。星联 CSVA 联合发起人、天文科普专家蒋晨明介绍，坦普尔-塔特尔彗星在绕日运行中，尘埃弥散在整个轨道上。每年 11 月地球穿过这条尘埃轨道，尘埃颗粒闯入大气层形成流星雨，因流星看起来以狮子座为辐射点向外散开而得名。 狮子座流星雨以速度快、亮度高为特色，偶尔出现耀眼的火流星。它不在北半球三大流星雨之列，却因此前几场大爆发而家喻户",
-     "source": "IT之家",
-     "zh": "“流星雨之王”狮子座流星雨今晚至明日迎来极大期，专家建议后半夜肉眼观测"
-    },
-    {
-     "title": "AMD FSR 4.1 超分 +4 代帧生成技术首次落地 Vulkan 引擎：《毁灭战士：黑暗时代》游戏 5 号更新上线",
-     "link": "https://www.ithome.com/1/028/034.htm",
-     "pubDate": "Mon, 16 Nov 2026 23:54:41 GMT",
-     "summary": "IT之家 11 月 17 日消息，《毁灭战士：黑暗时代》（DOOM: The Dark Ages）昨日（11 月 16 日）推出 5 号更新，主要为 PC 版游戏加入 AMD FSR Upscaling 4.1 超分辨率技术和 Frame Generation 4 帧生成技术。 AMD 高管 Jack Huynh 确认 ，该作成为首款同时搭载这两项技术的 Vulkan 游戏 ，也意味着此前公布的兼容支持正式落地游戏。IT之家附上相关截图如下： 通俗解释来说，AMD 的 FSR Upscaling 4.1 超分辨率技术可以理解为“先以较低分辨率渲染，再重建更清晰的画面”，而 Frame Gene",
-     "source": "IT之家",
-     "zh": "AMD FSR 4.1 超分 +4 代帧生成技术首次落地 Vulkan 引擎：《毁灭战士：黑暗时代》游戏 5 号更新上线"
-    },
-    {
-     "title": "苹果 iOS 27.3 测试版新增 Siri AI 每日限额，付费订阅 iCloud+ 可提升 2~20 倍",
-     "link": "https://www.ithome.com/1/028/033.htm",
-     "pubDate": "Mon, 16 Nov 2026 23:50:18 GMT",
-     "summary": "IT之家 11 月 17 日消息，据 MacRumors 今日报道，苹果正在测试为 Siri AI 和 Apple Intelligence 引入每日免费使用额度，并允许用户通过订阅 iCloud+ 获得更高的使用限额。 苹果已在 iOS 27.3、iPadOS 27.3 和 macOS 27.3 测试版中加入相关机制。根据目前发现的内容，每台设备每天都将获得一定数量的免费 AI 使用额度。当免费额度耗尽后，用户可以订阅 iCloud+ 获得额外使用次数，也可以等待次日额度重置。 此次受到额度限制的功能主要包括四类： 依赖云端处理的复杂 Siri AI 请求，例如结合个人信息判断何时出门才能准",
-     "source": "IT之家",
-     "zh": "苹果 iOS 27.3 测试版新增 Siri AI 每日限额，付费订阅 iCloud+ 可提升 2~20 倍"
-    },
-    {
-     "title": "消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职",
-     "link": "https://www.ithome.com/1/028/032.htm",
-     "pubDate": "Mon, 16 Nov 2026 23:40:59 GMT",
-     "summary": "IT之家 11 月 17 日消息，CNBC 今天（11 月 17 日）发布博文，援引一名知情人士透露信息， 英伟达董事会目前没有考虑让黄仁勋重新担任首席执行官，也未就其回归展开讨论。 报道称英伟达董事会的工作重心，目前聚焦推进针对黄仁勋相关行为的调查。 报道称，英伟达已聘请 Wachtell Lipton 律师事务所，调查黄仁勋的行为。IT之家此前报道，黄仁勋在承认婚外情、并面临其他涉及员工的恋情报道后，于上周辞去职务，结束了在这家由其创立的公司长达 33 年的 CEO 任期。 围绕其是否回归，外界讨论持续升温。《金融时报》此前报道称，黄仁勋曾与支持者讨论复出事宜。不过，Altimeter C",
-     "source": "IT之家",
-     "zh": "消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职"
-    },
-    {
      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
      "link": "https://github.com/0nelight/sutra-os",
      "pubDate": "Mon, 16 Nov 2026 23:25:41 +0000",
-     "summary": "Article URL: https://github.com/0nelight/sutra-os Comments URL: https://news.ycombinator.com/item?id=50525052 Points: 14 # Comments: 2",
+     "summary": "Article URL: https://github.com/0nelight/sutra-os Comments URL: https://news.ycombinator.com/item?id=50525052 Points: 18 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: Sutra-OS – A self-hosted ontology platform"
     },
@@ -1884,7 +1900,7 @@
      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
      "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
      "pubDate": "Mon, 16 Nov 2026 23:00:34 +0000",
-     "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 36 # Comments: 14",
+     "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 51 # Comments: 15",
      "source": "Hacker News",
      "zh": "Optimizely Compromised, Served Malware on Zoom, GitLab"
     },
@@ -1908,23 +1924,15 @@
      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
      "pubDate": "Mon, 16 Nov 2026 22:58:20 +0000",
-     "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 86 # Comments: 40",
+     "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 127 # Comments: 53",
      "source": "Hacker News",
      "zh": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use"
-    },
-    {
-     "title": "US will say \"no\" to global ban on killer robots",
-     "link": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
-     "pubDate": "Mon, 16 Nov 2026 22:57:49 +0000",
-     "summary": "Article URL: https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369 Comments URL: https://news.ycombinator.com/item?id=50524728 Points: 49 # Comments: 51",
-     "source": "Hacker News",
-     "zh": "US will say \"no\" to global ban on killer robots"
     },
     {
      "title": "How to Break into Security, Ptacek Edition (2012)",
      "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
      "pubDate": "Mon, 16 Nov 2026 22:19:23 +0000",
-     "summary": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/ Comments URL: https://news.ycombinator.com/item?id=50524225 Points: 58 # Comments: 15",
+     "summary": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/ Comments URL: https://news.ycombinator.com/item?id=50524225 Points: 64 # Comments: 16",
      "source": "Hacker News",
      "zh": "How to Break into Security, Ptacek Edition (2012)"
     },
@@ -1932,7 +1940,7 @@
      "title": "United Airlines experiencing a widespread system outage, airline says",
      "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
      "pubDate": "Mon, 16 Nov 2026 22:14:38 +0000",
-     "summary": "https://news.ycombinator.com/item?id=50524260 Comments URL: https://news.ycombinator.com/item?id=50524165 Points: 140 # Comments: 67",
+     "summary": "https://news.ycombinator.com/item?id=50524260 Comments URL: https://news.ycombinator.com/item?id=50524165 Points: 145 # Comments: 69",
      "source": "Hacker News",
      "zh": "United Airlines experiencing a widespread system outage, airline says"
     },
@@ -1961,6 +1969,14 @@
      "zh": "Three small failures combined to take down Microsoft 365"
     },
     {
+     "title": "Spamhaus new email sender requirements in November",
+     "link": "https://www.spamhaus.org/sender-guidelines/",
+     "pubDate": "Mon, 16 Nov 2026 21:47:19 +0000",
+     "summary": "Article URL: https://www.spamhaus.org/sender-guidelines/ Comments URL: https://news.ycombinator.com/item?id=50523784 Points: 64 # Comments: 50",
+     "source": "Hacker News",
+     "zh": "Spamhaus new email sender requirements in November"
+    },
+    {
      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
      "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
      "pubDate": "Mon, 16 Nov 2026 21:45:45 +0000",
@@ -1975,22 +1991,6 @@
      "summary": "Kif Leswing / CNBC : Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it &ldquo;a cornerstone compounder for a long time&rdquo; &nbsp; &mdash;&nbsp; Altimeter Capital is aiming to invest $5 billion in the Anthropic IPO, Brad Gerstner tol",
      "source": "Techmeme",
      "zh": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic&apos;s IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)"
-    },
-    {
-     "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-     "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-     "pubDate": "Mon, 16 Nov 2026 21:01:02 +0000",
-     "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-     "source": "TechCrunch",
-     "zh": "Apple reveals new Mac security controls as AI agents raise privacy risks"
-    },
-    {
-     "title": "Hyperscale data centers use 2% of US electricity",
-     "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-     "pubDate": "Mon, 16 Nov 2026 20:52:10 +0000",
-     "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-     "source": "Ars Technica",
-     "zh": "Hyperscale data centers use 2% of US electricity"
     }
    ]
   },
@@ -2000,6 +2000,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What’s new in Android’s November 2026 Google System Updates [U: Pixel virtual gamepad]",
+     "link": "https://9to5google.com/2026/11/16/november-2026-google-system-updates/",
+     "pubDate": "Tue, 17 Nov 2026 00:43:00 +0000",
+     "summary": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers. more…",
+     "source": "9to5Google",
+     "zh": "What’s new in Android’s November 2026 Google System Updates [U: Pixel virtual gamepad]"
+    },
+    {
+     "title": "Former Apple chairman Arthur Levinson files to sell $31.8 million in company stock",
+     "link": "https://9to5mac.com/2026/11/16/former-apple-chairman-arthur-levinson-files-to-sell-31-8-million-in-company-stock/",
+     "pubDate": "Tue, 17 Nov 2026 00:32:01 +0000",
+     "summary": "Arthur Levinson, who currently serves as Apple’s lead independent director, informed the SEC today of his plans to sell 90,000 shares of Apple stock worth approximately $31.8 million. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Former Apple chairman Arthur Levinson files to sell $31.8 million in company stock"
+    },
+    {
+     "title": "The important Gmail security settings you should be using",
+     "link": "https://www.engadget.com/2315195/gmail-security-settings-most-important-use/",
+     "pubDate": "Tue, 17 Nov 2026 00:30:00 +0000",
+     "summary": "If you haven't taken steps to secure your Gmail account recently, it's time to log in and make sure these settings are squared away.",
+     "source": "Engadget",
+     "zh": "The important Gmail security settings you should be using"
+    },
     {
      "title": "9to5Mac Daily: November 16, 2026 – Apple glasses rumors, more",
      "link": "https://9to5mac.com/2026/11/16/daily-november-16-2026/",
@@ -2023,6 +2047,14 @@
      "summary": "The holiday season brings the best deals of the year, and for anyone looking to upgrade to an ergonomic office chair, Sihoo’s Doro C300 Pro V2 is now available at its lowest price of the year. more…",
      "source": "9to5Mac",
      "zh": "Sihoo’s ergonomic office chair gives all-year comfort at lowest price for holidays"
+    },
+    {
+     "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+     "link": "https://sspai.com/post/119160",
+     "pubDate": "Tue, 17 Nov 2026 07:57:40 +0800",
+     "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
+     "source": "少数派",
+     "zh": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等"
     },
     {
      "title": "Google Messages is working on personalized Smart Replies that match better with your conversation",
@@ -2185,22 +2217,6 @@
      "zh": "The iPhone Duo gets face unlock with the latest iOS 27 beta."
     },
     {
-     "title": "Apple’s leadership overhaul continues with new Apple Pay and Wallet chief",
-     "link": "https://9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief/",
-     "pubDate": "Mon, 16 Nov 2026 21:10:12 +0000",
-     "summary": "Bloomberg reports that Apple lifer Corey Fugman will replace Jennifer Bailey as the head of the Apple Pay and Wallet division. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple’s leadership overhaul continues with new Apple Pay and Wallet chief"
-    },
-    {
-     "title": "Every Xbox console generation sorted by release date",
-     "link": "https://www.engadget.com/2314891/every-xbox-console-generation-sorted-release-date/",
-     "pubDate": "Mon, 16 Nov 2026 21:00:00 +0000",
-     "summary": "Microsoft debuted the Xbox in 2001, and there's quite a lot to look back on from the quarter-century since the company got into gaming.",
-     "source": "Engadget",
-     "zh": "Every Xbox console generation sorted by release date"
-    },
-    {
      "title": "Monday’s Android app deals and freebies: Final Fantasy games, Dragon Quest, Ash of Gods, more",
      "link": "https://9to5toys.com/2026/11/16/today-highlight-google-play-deals-final-fantasy/",
      "pubDate": "Mon, 16 Nov 2026 20:58:04 +0000",
@@ -2217,28 +2233,12 @@
      "zh": "iPhone 20 Pro tipped to feature new main camera sensor and ISP"
     },
     {
-     "title": "Phone by Google 246 rolls out gradient icon redesign on Android [U]",
-     "link": "https://9to5google.com/2026/11/16/phone-by-google-246-new-icon/",
-     "pubDate": "Mon, 16 Nov 2026 19:54:00 +0000",
-     "summary": "Following the Messages update earlier this week , Phone by Google has received its redesigned gradient icon in the beta channel. more…",
-     "source": "9to5Google",
-     "zh": "Phone by Google 246 rolls out gradient icon redesign on Android [U]"
-    },
-    {
      "title": "Samsung's Gentle Monster smart glasses pre-orders are already sold out",
      "link": "https://www.gsmarena.com/samsungs_gentle_monster_smart_glasses_preorders_are_already_sold_out-news-75496.php",
      "pubDate": "Mon, 16 Nov 2026 20:01:02 +0100",
      "summary": "Samsung opened pre-orders for its Intelligent Eyewear smart glasses on November 12 in the US and South Korea. Now, just a few days later, all 16 Gentle Monster designs are marked \"Pre-order sold out\" on Gentle Monster's Korean and US online stores, and the company says several of them were gone with",
      "source": "GSMArena",
      "zh": "Samsung's Gentle Monster smart glasses pre-orders are already sold out"
-    },
-    {
-     "title": "Watch the Xiaomi 18 Pro and Xiaomi 18 Pro Max global launch event here",
-     "link": "https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php",
-     "pubDate": "Mon, 16 Nov 2026 18:26:02 +0100",
-     "summary": "The time has come for Xiaomi to bring its latest flagship smartphones to the global market. After having launched the Xiaomi 18 Pro and Xiaomi 18 Pro Max in China in September, the company is now unleashing them across the world with a special unveiling event taking place tomorrow in Paris, France, ",
-     "source": "GSMArena",
-     "zh": "Watch the Xiaomi 18 Pro and Xiaomi 18 Pro Max global launch event here"
     }
    ]
   },
@@ -2248,6 +2248,70 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "美联储哈马克重申偏好小步加息，但通胀预期若失控将被迫提速",
+     "link": "https://wallstreetcn.com/articles/3786060",
+     "pubDate": "Tue, 17 Nov 2026 08:54:13 +0800",
+     "summary": "美联储克利夫兰联储主席哈马克（Beth Hammack）表示，她倾向于以小幅、稳定的节奏推进加息，但若通胀压力进一步恶化，美联储可能不得不采取更大幅度的行动。 11月16日，Hammack在接受彭博电视采访时称， 她正观察到越来越多的企业和消费者开始基于\"通胀将持续恶化\"的预期做出决策，这一趋势令她警觉。 （克利夫兰联储主席Hammack，图源：美国克利夫兰联邦储备银行官网） 她警告称， 若这种通胀心态在社会层面扎根，\"可能意味着我们已经落后于曲线，可能不得不更快行动，以更大的幅度加息。无论是单次幅度还是最终利率目标，都可能高于原先预期\"。 Hammack曾在美联储10月议息会议上对维持利率不",
+     "source": "华尔街见闻",
+     "zh": "美联储哈马克重申偏好小步加息，但通胀预期若失控将被迫提速"
+    },
+    {
+     "title": "Omeros expects Q4 2026 discontinued ops income of $5M-$6M while scaling YARTEMLEA education and outpatient use",
+     "link": "https://seekingalpha.com/news/4673408-omeros-expects-q4-2026-discontinued-ops-income-of-5m-6m-while-scaling-yartemlea-education-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 19:53:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Omeros expects Q4 2026 discontinued ops income of $5M-$6M while scaling YARTEMLEA education and outpatient use"
+    },
+    {
+     "title": "Wrap targets ~$100 per officer per month as Senate language reinforces non-lethal response strategy",
+     "link": "https://seekingalpha.com/news/4673406-wrap-targets-100-per-officer-per-month-as-senate-language-reinforces-non-lethal-response?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 19:43:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wrap targets ~$100 per officer per month as Senate language reinforces non-lethal response strategy"
+    },
+    {
+     "title": "Oil prices sink amid rising expectations of global supply surplus",
+     "link": "https://seekingalpha.com/news/4673404-oil-prices-sink-amid-rising-expectations-of-global-supply-surplus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 19:43:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Oil prices sink amid rising expectations of global supply surplus"
+    },
+    {
+     "title": "Analysis: The Fed&apos;s chairman sees an AI revolution coming. Now he has to figure out what it means",
+     "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+     "pubDate": "Tue, 17 Nov 2026 00:42:33 GMT",
+     "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+     "source": "CNBC",
+     "zh": "Analysis: The Fed&apos;s chairman sees an AI revolution coming. Now he has to figure out what it means"
+    },
+    {
+     "title": "英伟达暴跌，空头大赚240亿美元",
+     "link": "https://wallstreetcn.com/articles/3786064",
+     "pubDate": "Tue, 17 Nov 2026 08:35:58 +0800",
+     "summary": "英伟达股价持续下挫，做空者从中大获其利。自前首席执行官黄仁勋因丑闻被迫离职以来，这家芯片巨头的股价已从历史高点累计下跌35%，空头账面盈利高达240亿美元。 据S3 Partners数据，英伟达股价周一再跌4.1%，延续上周以来的跌势——上周跌幅为自特朗普2025年4月宣布关税政策以来最大单周跌幅。 黄仁勋因婚外情丑闻被迫卸任英伟达CEO ，这一事件引爆了市场对公司未来走向的深度担忧。 与此同时，空头持仓规模随卖压加剧而持续扩大。截至目前， 英伟达空头仓位约占流通股的1.22%，名义价值约达460亿美元。 然而，也有部分逆向投资者开始逢低买入——据市场数据及研究机构Vanda数据，上周抛售期间",
+     "source": "华尔街见闻",
+     "zh": "英伟达暴跌，空头大赚240亿美元"
+    },
+    {
+     "title": "Red Cat Holdings shares plunge as revenue misses estimates, outlook is withdrawn",
+     "link": "https://seekingalpha.com/news/4673405-red-cat-holdings-shares-plunge-as-revenue-misses-estimates-outlook-is-withdrawn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 19:34:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Red Cat Holdings shares plunge as revenue misses estimates, outlook is withdrawn"
+    },
+    {
+     "title": "今日看点｜2026年APEC工商领导人峰会将举行",
+     "link": "http://www.eeo.com.cn/2026/1117/1094567.shtml",
+     "pubDate": "Tue, 17 Nov 2026 08:31:43 +0800",
+     "summary": "11月17日至18日，2026年APEC工商领导人峰会将在深圳举行。本次峰会主题为“共促繁荣、共赢未来”，参会政商及媒体人数预计超2000人，百余家世界500强企业参会。",
+     "source": "经济观察网",
+     "zh": "今日看点｜2026年APEC工商领导人峰会将举行"
+    },
     {
      "title": "特朗普支持黄仁勋回归，英伟达董事会称暂不考虑复职事项",
      "link": "https://wallstreetcn.com/articles/3786042",
@@ -2263,14 +2327,6 @@
      "summary": "预测市场平台Kalshi正将业务版图延伸至华尔街最传统的领域。 据华尔街日报11月16日消息， 知情人士透露，Kalshi已于今年7月收购了总部位于纽约的小型券商FB Securities，并计划在未来两个月内正式推出股票交易服务。 此举是该公司构建多资产金融交易所这一更宏观战略的组成部分。与此同时，Kalshi正与投资者洽谈新一轮融资， 该轮融资对公司的估值将达650亿美元 。 这一扩张动作发生在Kalshi持续面临监管压力的背景之下。预测市场平台目前仍与多个州陷入法律纠纷，争议焦点在于其事件合约是否构成受州法律监管的非法赌博行为。就在本周一，九位民主党参议员联名致函商品期货交易委员会（CF",
      "source": "华尔街见闻",
      "zh": "进军股票交易！市场预测巨头Kalshi收购了一家券商"
-    },
-    {
-     "title": "United Airlines resolves system outage that affected departing flights",
-     "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-     "pubDate": "Tue, 17 Nov 2026 00:00:49 GMT",
-     "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
-     "source": "CNBC",
-     "zh": "United Airlines resolves system outage that affected departing flights"
     },
     {
      "title": "Einhorn's DME exits PayPal, Stubhub, adds Century Aluminum, among Q3 moves",
@@ -2305,22 +2361,6 @@
      "zh": "United Airlines resolves system outage that delayed flights Monday"
     },
     {
-     "title": "Cheniere Energy promotes Davis to President and CFO",
-     "link": "https://seekingalpha.com/news/4673400-cheniere-energy-promotes-davis-to-president-and-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 18:36:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cheniere Energy promotes Davis to President and CFO"
-    },
-    {
-     "title": "Bridger Aerospace outlines $124M-$128M 2026 revenue outlook as it begins strategic review and targets $5M-$6M annualized savings",
-     "link": "https://seekingalpha.com/news/4673402-bridger-aerospace-outlines-124m-128m-2026-revenue-outlook-as-it-begins-strategic-review-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 18:33:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bridger Aerospace outlines $124M-$128M 2026 revenue outlook as it begins strategic review and targets $5M-$6M annualized savings"
-    },
-    {
      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
      "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 23:28:00 GMT",
@@ -2337,36 +2377,12 @@
      "zh": "特斯拉拟投30亿欧元扩建德国工厂生产Cybercab，高管称2029年投产"
     },
     {
-     "title": "Nelson Peltz's Trian adds Rentokil Initial, cuts stake in Invesco among Q3 moves",
-     "link": "https://seekingalpha.com/news/4673399-nelson-peltzs-trian-adds-rentokil-initial-cuts-stake-in-invesco-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 18:21:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nelson Peltz's Trian adds Rentokil Initial, cuts stake in Invesco among Q3 moves"
-    },
-    {
-     "title": "ValueAct buys Agilent, exits Roblox, reduces Toast among Q3 moves",
-     "link": "https://seekingalpha.com/news/4673396-valueact-buys-agilent-exits-roblox-reduces-toast-among-q3-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 18:18:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ValueAct buys Agilent, exits Roblox, reduces Toast among Q3 moves"
-    },
-    {
      "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
      "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
      "pubDate": "Mon, 16 Nov 2026 23:05:12 GMT",
      "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
      "source": "CNBC",
      "zh": "Aschenbrenner’s Situational Awareness made AI bets again before October rout"
-    },
-    {
-     "title": "华尔街见闻早餐FM-Radio | 2026年11月17日",
-     "link": "https://wallstreetcn.com/articles/3786055",
-     "pubDate": "Tue, 17 Nov 2026 07:04:49 +0800",
-     "summary": "华见早安之声 要闻精选 习近平 将同 俄罗斯总统普京 、 美国总统特朗普 举行 中俄美元首会晤 。 环球时报 社评： 中俄美元首即将会晤，释放强烈政治信号。 中国10月社零 同比增长0.4%，较上月下滑0.7个百分点 ， 规上工业增加值 增长同比 放缓至4.8% ，1至10月 固定资产投资 下降8.1% ， 房地产开发投资 下降21.6%。 特朗普 支持 黄仁勋 回归， 英伟达董事会 称 暂不考虑。 美联储主席沃什 ：美联储正为三种AI影响制定预案， 若泡沫破裂，或引发股市走弱并拖累经济与就业。 阿里、腾讯 新模型齐登场 ：Qwen4-Max单任务成本降58%，Hy4 flash降至竞品1/8",
-     "source": "华尔街见闻",
-     "zh": "华尔街见闻早餐FM-Radio | 2026年11月17日"
     },
     {
      "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
@@ -2457,14 +2473,6 @@
      "zh": "伯纳姆：英国与欧洲建立新关系尚需时日"
     },
     {
-     "title": "桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊",
-     "link": "https://wallstreetcn.com/articles/3786053",
-     "pubDate": "Tue, 17 Nov 2026 06:40:22 +0800",
-     "summary": "桥水基金三季度持仓大幅重塑，向AI芯片硬件与能源板块集中倾斜，同时削减对科技巨头及传统工业股的敞口。 据彭博对桥水联合基金（Bridgewater Associates LP）13F文件的分析，截至9月30日，该基金披露的974项投资头寸总市值达230亿美元。 本季度持仓变动显示，桥水大幅增持高通、AppLovin及存储芯片股美光、闪迪，同时削减谷歌母公司Alphabet与亚马逊的持仓，并清仓联合太平洋铁路等工业股。 医疗健康板块的持仓权重录得最大幅度提升，工业板块则降幅最为显著。 英伟达、博通稳坐前五大重仓 整体前五大重仓中，道富标普500 ETF信托仍以25.95亿美元高居榜首，占组合比重",
-     "source": "华尔街见闻",
-     "zh": "桥水三季度转向AI硬件与能源：重仓英伟达、博通，增持美光、闪迪，减持谷歌、亚马逊"
-    },
-    {
      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
      "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
      "pubDate": "Mon, 16 Nov 2026 22:37:45 GMT",
@@ -2479,14 +2487,6 @@
      "summary": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
      "source": "MarketWatch",
      "zh": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks"
-    },
-    {
-     "title": "全球市场：美股三大指数收跌 费城半导体指数跌超5% 国际油价跌超3% 金银走弱",
-     "link": "http://stock.eastmoney.com/news/11784,202611173932222649.html",
-     "pubDate": "Tue, 17 Nov 2026 06:15:26 +0800",
-     "summary": "美股市场： 美股三大指数11月16日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌739.38点，收于51608.17点，跌幅为1.41%； 标准普尔 500种股票指数下跌145.08点，收于7416.59点，跌幅为1.92%； 纳斯达克 综合 指数下跌626.51点，收于24509.76点，跌幅为2.49%。 美股“七巨头”全线下跌， 英伟达 跌4.12%， 谷歌-C 跌3.85%， 亚马逊 跌3.34%， 特斯拉 跌2.69%，Meta跌2.38%， 微软 跌1.12%， 苹果 跌0.98%。 芯片股遭遇重挫，费城 半导体 指数跌5.28%， 台积电 跌6.34%， 英特尔 跌",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数收跌 费城半导体指数跌超5% 国际油价跌超3% 金银走弱"
     }
    ]
   },
